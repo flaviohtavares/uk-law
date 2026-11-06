@@ -24,15 +24,15 @@ Regulations 2(1), 3, 6(2), 11(1), 12(1), (2) and (3), 21(4) and paragraphs 2, 3 
 
 ### PART I — CONDITIONS RELATING TO CROPS FROM WHICH SEED OTHER THAN COMMERCIAL SEED IS OBTAINED
 
-#### 1. Methods of crop testing[^key-f852c5a0c2fb4f7c1e583e369757bfe9]
+#### 1. Methods of crop testing[^c-f852c5a0c2fb4f7c1e583e369757bfe9]
 
 The Scottish Ministers may ascertain, so far as practicable, whether the requirements for the crop set out in this Part of this Schedule are met by the use of methods which shall include official field inspection of the crop and which may include examination of a control plot sown with a sample from the seed lot sown in the field and the consideration of any other relevant information.
 
-#### 2. Varietal identity and varietal purity[^key-efeb399dc2357abcadefd25fa2402287]
+#### 2. Varietal identity and varietal purity[^c-efeb399dc2357abcadefd25fa2402287]
 
-The characteristics used for the determination of varietal identity and varietal purity shall be those to which regard was had when the relevant variety was accepted on to the relevant GB Variety List or NI Variety List[^key-a717d477cebcec0bf57a259fdf1c4bd0].
+The characteristics used for the determination of varietal identity and varietal purity shall be those to which regard was had when the relevant variety was accepted on to the relevant GB Variety List or NI Variety List[^c-a717d477cebcec0bf57a259fdf1c4bd0].
 
-#### 3. Crop inspection[^key-8daba77b008c85ec6fdfdf136dbe6572]
+#### 3. Crop inspection[^c-8daba77b008c85ec6fdfdf136dbe6572]
 
 - (a) An official examination of the crop shall be made by means of an official field inspection.
 - (b) The official field inspection shall only be carried out when the cultural condition of the field and the stage of development and condition, including state of health, of the crop are such as to permit suitable checks of varietal identity, varietal purity and species purity to be made.
@@ -43,12 +43,12 @@ The characteristics used for the determination of varietal identity and varietal
   - (ii) the second official field inspection shall be carried out at the early flowering stage; and
   - (iii) the third official field inspection shall be carried out at the end of the flowering stage.
 
-#### 4. Pests in the crop[^key-86d570bf20dbeeb945eef9a3b36d9632]
+#### 4. Pests in the crop[^c-86d570bf20dbeeb945eef9a3b36d9632]
 
 (1) The crop must—
 
 - (a) be practically free from any pests which reduce the usefulness and quality of the propagating material; and
-- (b) comply with the requirements concerning GB[^key-d61e2b8f0d188f9a929c9fdb7ec574cb] quarantine pests, PFA[^key-084d3977927c18f142d44d992b35240a] quarantine pests and RNQPs provided for in implementing acts adopted pursuant to the EU Plant Health Regulation, as well as with the measures adopted pursuant to Article 30(1) of that Regulation.
+- (b) comply with the requirements concerning GB[^c-d61e2b8f0d188f9a929c9fdb7ec574cb] quarantine pests, PFA[^c-084d3977927c18f142d44d992b35240a] quarantine pests and RNQPs provided for in implementing acts adopted pursuant to the EU Plant Health Regulation, as well as with the measures adopted pursuant to Article 30(1) of that Regulation.
 
 (2) The presence of RNQPs on the crops must comply with the following requirements as set out in the table—
 
@@ -56,17 +56,17 @@ The characteristics used for the determination of varietal identity and varietal
 | --- | --- | --- | --- | --- |
 | *Plasmopara halstedii* (Farlow) Berlese & de Toni \[PLASHA\] | Sunflower | 0% | 0% | 0% |
 
-#### 5. Previous cropping[^key-2e36dac9ee6f74ece1321f10c685a63c]
+#### 5. Previous cropping[^c-2e36dac9ee6f74ece1321f10c685a63c]
 
 - (a) The previous cropping of the field shall not have been incompatible with the production of seed of the species and variety of the crop, and the field shall be sufficiently free from plants which are volunteers from previous cropping.
 - (b) The crop may be grown only on land which complies with the Scottish Ministers' requirements in respect of previous cropping.
 - (c) In the case of a hybrid of swede rape the crop shall be raised in a production ground where not less than 5 years have elapsed since plants of cruciferae were last grown.
 
-#### 6. Isolation distances – general[^key-46c07161cd76e1514cc33bd446a26381]
+#### 6. Isolation distances – general[^c-46c07161cd76e1514cc33bd446a26381]
 
 There shall be either a physical barrier or at least 2 metres of fallow ground between the seed crop and any crop likely to cause contamination in the seed.
 
-#### 7. Isolation distances – minimum distance[^key-ff94713a7fa88f75a65be9d56f1ad38a]
+#### 7. Isolation distances – minimum distance[^c-ff94713a7fa88f75a65be9d56f1ad38a]
 
 For black mustard, brown mustard, hemp, sunflower, swede rape, turnip rape and white mustard, the minimum distance from neighbouring crops or plants of other species, or of other varieties of the same species, liable to cross pollinate with the crop shall be the distance specified in column 2 of the following table for the corresponding crop specified in column 1 of the table (which can include any distance of at least 2 metres of fallow ground required under paragraph 6 of this Part of this Schedule):–
 
@@ -98,7 +98,7 @@ For black mustard, brown mustard, hemp, sunflower, swede rape, turnip rape and w
 
 but with the approval of the Scottish Ministers these distances may be modified or disregarded if there is adequate protection against undesirable foreign pollen.
 
-#### 8. Standards for varietal purity[^key-9b344ca39fcdad69bbeb8f2f4bda5448]
+#### 8. Standards for varietal purity[^c-9b344ca39fcdad69bbeb8f2f4bda5448]
 
 - (a) The crop shall have sufficient varietal identity and varietal purity, including–
   - (i) in the case of a crop of an inbred line, sufficient varietal identity and varietal purity as regards its characteristics; and
@@ -150,13 +150,13 @@ but with the approval of the Scottish Ministers these distances may be modified 
   </tbody>
   </table>
 
-#### 9. Crop conditions for Pre basic Seed[^key-75d7b69ad6142779792c843c2298a3c1]
+#### 9. Crop conditions for Pre basic Seed[^c-75d7b69ad6142779792c843c2298a3c1]
 
 For the purpose of determining whether a crop from which Pre basic Seed is to be produced meets the conditions specified in this Part of this Schedule, the crop from which such seed is to be produced shall be treated in the same way as a crop from which Basic Seed is to be produced.
 
 ### PART II — CONDITIONS RELATING TO BASIC SEED, CERTIFIED SEED, CERTIFIED SEED OF THE FIRST GENERATION, CERTIFIED SEED OF THE SECOND GENERATION, CERTIFIED SEED OF THE THIRD GENERATION AND COMMERCIAL SEED
 
-#### 10. Standards for varietal purity[^key-7d60b6f47915b51322d2db30ad3602d3]
+#### 10. Standards for varietal purity[^c-7d60b6f47915b51322d2db30ad3602d3]
 
 - (a) The seed shall possess sufficient varietal identity and varietal purity. In particular, seed of the species and category specified in column 1 of the following table shall possess at least the percentage of minimum varietal purity specified in the corresponding entry in column 2 of the table:–
 
@@ -200,10 +200,10 @@ For the purpose of determining whether a crop from which Pre basic Seed is to be
   </tbody>
   </table>
 
-  [^f00038][^f00039][^key-2a16db8ced65e8e7776b70fed3d1234e]
+  [^f00038][^f00039][^c-2a16db8ced65e8e7776b70fed3d1234e]
 - (b) Subject to paragraph 11, for the purposes of this paragraph the minimum varietal purity of seed shall be examined mainly in official field inspections carried out in accordance with the conditions specified in Part I of this Schedule.
 
-#### 11. Standards for varietal purity for hybrid varieties of swede rape[^key-d975585846dcd0804a69ad9ca8275cbf]
+#### 11. Standards for varietal purity for hybrid varieties of swede rape[^c-d975585846dcd0804a69ad9ca8275cbf]
 
 In the case of seed of a hybrid variety of swede rape produced using male sterility–
 
@@ -212,11 +212,11 @@ In the case of seed of a hybrid variety of swede rape produced using male steril
 - (c) the varietal purity of a component of the hybrid variety may be assessed by appropriate biochemical methods; and
 - (d) the standards in respect of the minimum varietal purity laid down in sub paragraph (b) in respect of Certified Seed of hybrids shall be monitored by official post-control tests on an appropriate proportion of samples taken in accordance with regulation 15(1) and appropriate biochemical methods may be used in these official post-control tests.
 
-#### 12. Parental ratio in production of Certified Seed of hybrids of sunflower[^key-8d6d91f6d63d3fd1b8a75e424611afa7]
+#### 12. Parental ratio in production of Certified Seed of hybrids of sunflower[^c-8d6d91f6d63d3fd1b8a75e424611afa7]
 
 Where a female male-sterile component and a male component which does not restore male fertility have been used for the production of Certified Seed of hybrids of sunflower, the seed produced by the male-sterile parent shall be blended with seed produced by the fully fertile parent. The ratio of male-sterile parent seed to male-fertile parent seed shall not exceed two to one.
 
-#### 13. Further standards and conditions of varietal purity[^key-4fe98c662adff3ca7925faf4d0c3d5e5]
+#### 13. Further standards and conditions of varietal purity[^c-4fe98c662adff3ca7925faf4d0c3d5e5]
 
 The seed shall, subject to paragraph 14, comply with the following standards and other conditions as regards percentage germination of pure seed, analytical purity and content of seed of other plant species (including *Orobanche* spp.):–
 
@@ -244,7 +244,7 @@ The seed shall, subject to paragraph 14, comply with the following standards and
 </tbody>
 </table>
 
-#### 14. Further provisions relating to varietal purity[^key-20c1fed5d7c75896e736339d53efea74]
+#### 14. Further provisions relating to varietal purity[^c-20c1fed5d7c75896e736339d53efea74]
 
 - (a) The presence of one seed of dodder (*Cuscuta* spp.) in a sample of–
   - (i) black mustard;
@@ -260,12 +260,12 @@ The seed shall, subject to paragraph 14, comply with the following standards and
 - (c) Subject to sub paragraph (d), hemp seed shall be free from *Orobanche* spp..
 - (d) The presence of one seed of *Orobanche* spp. in a sample of 100 grams of hemp seed shall not be regarded as an impurity where a second sample of 200 grams is free from any seed of *Orobanche* spp..
 
-#### 15. Pests in the seed[^key-5244f397f29720092ed24852f7ef1bb2]
+#### 15. Pests in the seed[^c-5244f397f29720092ed24852f7ef1bb2]
 
 (1) The seed must—
 
 - (a) be practically free from any pests which reduce the usefulness and quality of the propagating material, and
-- (b) comply with the requirements concerning GB[^key-f98502a275367aa07c3e193d53105e73] quarantine pests, PFA[^key-1e215abb3b1d852bf91b59c7794450b3] quarantine pests and RNQPs provided for in implementing acts adopted pursuant to the EU Plant Health Regulation, as well as with the measures adopted pursuant to Article 30(1) of that Regulation.
+- (b) comply with the requirements concerning GB[^c-f98502a275367aa07c3e193d53105e73] quarantine pests, PFA[^c-1e215abb3b1d852bf91b59c7794450b3] quarantine pests and RNQPs provided for in implementing acts adopted pursuant to the EU Plant Health Regulation, as well as with the measures adopted pursuant to Article 30(1) of that Regulation.
 
 (2) The presence of RNQPs on the seeds and the respective categories must comply with the following requirements as set out in the table—
 
@@ -294,61 +294,61 @@ The seed shall, subject to paragraph 14, comply with the following standards and
 
 ### PART III — OFFICIAL EXAMINATIONS USED TO ASCERTAIN WHETHER A CROP OR SEED LOT MEETS THE CONDITIONS RELATING TO BASIC SEED, CERTIFIED SEED, CERTIFIED SEED OF THE FIRST GENERATION, CERTIFIED SEED OF THE SECOND GENERATION, CERTIFIED SEED OF THE THIRD GENERATION AND COMMERCIAL SEED
 
-#### 16. Methods for official examinations[^key-998b50d69b414bb475f5dd6a7aedbb08]
+#### 16. Methods for official examinations[^c-998b50d69b414bb475f5dd6a7aedbb08]
 
 All official examinations used to ascertain whether crops or seed lots meet the standards specified in this Schedule shall be carried out in accordance with current international methods.
 
 ## Annotations
 
-[^key-f852c5a0c2fb4f7c1e583e369757bfe9]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/1) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-f852c5a0c2fb4f7c1e583e369757bfe9]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/1) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-efeb399dc2357abcadefd25fa2402287]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/2) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-efeb399dc2357abcadefd25fa2402287]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/2) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-a717d477cebcec0bf57a259fdf1c4bd0]: Textual amendment: Words in [sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/2) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(23)(a)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/23/a/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20))
+[^c-a717d477cebcec0bf57a259fdf1c4bd0]: Textual amendment: Words in [sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/2) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(23)(a)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/23/a/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20))
 
-[^key-8daba77b008c85ec6fdfdf136dbe6572]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/3) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-8daba77b008c85ec6fdfdf136dbe6572]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/3) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-86d570bf20dbeeb945eef9a3b36d9632]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/4) substituted (1.7.2020) by [The Seed and Plant Material (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/165)](https://www.legislation.gov.uk/ssi/2020/165), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/165/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2020/165/regulation/5/3/a)
+[^c-86d570bf20dbeeb945eef9a3b36d9632]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/4) substituted (1.7.2020) by [The Seed and Plant Material (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/165)](https://www.legislation.gov.uk/ssi/2020/165), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/165/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2020/165/regulation/5/3/a)
 
-[^key-d61e2b8f0d188f9a929c9fdb7ec574cb]: Textual amendment: Word in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/4) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(23)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/23/a/ii/aa) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20))
+[^c-d61e2b8f0d188f9a929c9fdb7ec574cb]: Textual amendment: Word in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/4) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(23)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/23/a/ii/aa) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20))
 
-[^key-084d3977927c18f142d44d992b35240a]: Textual amendment: Word in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/4) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(23)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/23/a/ii/bb) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20))
+[^c-084d3977927c18f142d44d992b35240a]: Textual amendment: Word in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/4) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(23)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/23/a/ii/bb) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20))
 
-[^key-2e36dac9ee6f74ece1321f10c685a63c]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/5) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-2e36dac9ee6f74ece1321f10c685a63c]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/5) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-46c07161cd76e1514cc33bd446a26381]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/6) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-46c07161cd76e1514cc33bd446a26381]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/6) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-ff94713a7fa88f75a65be9d56f1ad38a]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/7) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-ff94713a7fa88f75a65be9d56f1ad38a]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/7) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
 [^f00037]: Footnote: See regulation 3 for the definition of “Certified Seed”.
 
-[^key-9b344ca39fcdad69bbeb8f2f4bda5448]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/8) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-9b344ca39fcdad69bbeb8f2f4bda5448]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/8) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-75d7b69ad6142779792c843c2298a3c1]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/9) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-75d7b69ad6142779792c843c2298a3c1]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/9) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-7d60b6f47915b51322d2db30ad3602d3]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/10) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-7d60b6f47915b51322d2db30ad3602d3]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/10) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
 [^f00038]: Footnote: See regulation 3 for the definition of “Certified Seed of the Second Generation”.
 
 [^f00039]: Footnote: See regulation 3 for the definition of “Certified Seed of the Third Generation”.
 
-[^key-2a16db8ced65e8e7776b70fed3d1234e]: Textual amendment: Words in sch. 4 Pt. II para. 10(a) table substituted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2016/434/regulation/3/4)
+[^c-2a16db8ced65e8e7776b70fed3d1234e]: Textual amendment: Words in sch. 4 Pt. II para. 10(a) table substituted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2016/434/regulation/3/4)
 
-[^key-d975585846dcd0804a69ad9ca8275cbf]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/11) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-d975585846dcd0804a69ad9ca8275cbf]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/11) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-8d6d91f6d63d3fd1b8a75e424611afa7]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/12) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-8d6d91f6d63d3fd1b8a75e424611afa7]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/12) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-4fe98c662adff3ca7925faf4d0c3d5e5]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/13) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-4fe98c662adff3ca7925faf4d0c3d5e5]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/13) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-20c1fed5d7c75896e736339d53efea74]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/14) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-20c1fed5d7c75896e736339d53efea74]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/14) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-5244f397f29720092ed24852f7ef1bb2]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/15) substituted (1.7.2020) by [The Seed and Plant Material (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/165)](https://www.legislation.gov.uk/ssi/2020/165), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/165/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2020/165/regulation/5/3/b)
+[^c-5244f397f29720092ed24852f7ef1bb2]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/15) substituted (1.7.2020) by [The Seed and Plant Material (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/165)](https://www.legislation.gov.uk/ssi/2020/165), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/165/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2020/165/regulation/5/3/b)
 
-[^key-f98502a275367aa07c3e193d53105e73]: Textual amendment: Word in [sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/15) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(23)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/23/b/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20))
+[^c-f98502a275367aa07c3e193d53105e73]: Textual amendment: Word in [sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/15) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(23)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/23/b/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20))
 
-[^key-1e215abb3b1d852bf91b59c7794450b3]: Textual amendment: Word in [sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/15) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(23)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/23/b/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20))
+[^c-1e215abb3b1d852bf91b59c7794450b3]: Textual amendment: Word in [sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/15) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(23)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/23/b/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20))
 
-[^f01003]: Footnote: (1)[^key-5244f397f29720092ed24852f7ef1bb2]
+[^f01003]: Footnote: (1)[^c-5244f397f29720092ed24852f7ef1bb2]
 
     Other than *Fusarium oxysporum* f. sp. *albedinis* \[FUSAAL\] and *Fusarium circinatum* \[GIBBCI\].
 
@@ -356,4 +356,4 @@ All official examinations used to ascertain whether crops or seed lots meet the 
 
     Except *Boeremia exigua* var. *linicola* on flax where the threshold in column 3 applies.
 
-[^key-998b50d69b414bb475f5dd6a7aedbb08]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/16) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-998b50d69b414bb475f5dd6a7aedbb08]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ssi/2004/317/schedule/4/paragraph/16) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Enforcement orders: monitoring compliance and determination of disputes[^c2181326][^key-c3f35016e1b15b1a5e2aca43e0fb735c]
+## 49. Enforcement orders: monitoring compliance and determination of disputes[^c2181326][^c-c3f35016e1b15b1a5e2aca43e0fb735c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ In Schedule 8 to the 2002 Act (provision that may be contained in certain enforc
 
 [^c2181326]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2013/24/section/49) partly in force; [s. 49](https://www.legislation.gov.uk/ukpga/2013/24/section/49) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-c3f35016e1b15b1a5e2aca43e0fb735c]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2013/24/section/49) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-c3f35016e1b15b1a5e2aca43e0fb735c]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2013/24/section/49) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

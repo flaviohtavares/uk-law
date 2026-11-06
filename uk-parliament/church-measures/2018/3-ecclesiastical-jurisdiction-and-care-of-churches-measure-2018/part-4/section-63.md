@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 63. Emergency demolition of church[^key-328a4132c3292843bf7c6a1287992c5f]
+## 63. Emergency demolition of church[^c-328a4132c3292843bf7c6a1287992c5f]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-328a4132c3292843bf7c6a1287992c5f]: Commencement: [S. 63](https://www.legislation.gov.uk/ukcm/2018/3/section/63) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-328a4132c3292843bf7c6a1287992c5f]: Commencement: [S. 63](https://www.legislation.gov.uk/ukcm/2018/3/section/63) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Settled property.[^key-3bdae3cc428c31cd5e82f56c6ba8bf21]
+## 27. Settled property.[^c-3bdae3cc428c31cd5e82f56c6ba8bf21]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bdae3cc428c31cd5e82f56c6ba8bf21]: Textual amendment: S. 27 omitted (1.4.2012) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 51(2)(p)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/51/2/p), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))
+[^c-3bdae3cc428c31cd5e82f56c6ba8bf21]: Textual amendment: S. 27 omitted (1.4.2012) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 51(2)(p)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/51/2/p), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))

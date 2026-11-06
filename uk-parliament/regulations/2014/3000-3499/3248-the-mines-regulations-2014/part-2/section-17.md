@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Danger areas[^key-a80e5e2f0ec198bc58cab5ee44c2f5c2]
+## 17. Danger areas[^c-a80e5e2f0ec198bc58cab5ee44c2f5c2]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ The mine operator must ensure that—
 
 ## Annotations
 
-[^key-a80e5e2f0ec198bc58cab5ee44c2f5c2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/3248/regulation/17) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-a80e5e2f0ec198bc58cab5ee44c2f5c2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/3248/regulation/17) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

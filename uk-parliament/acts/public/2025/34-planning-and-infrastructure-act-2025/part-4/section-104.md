@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Exercise of transport functions and transfer schemes[^key-33881632bf34c432e8b5b351e246218b][^key-2473be82264d9f82532b1a455ba3f56c]
+## 104. Exercise of transport functions and transfer schemes[^c-33881632bf34c432e8b5b351e246218b][^c-2473be82264d9f82532b1a455ba3f56c]
 
 *Extent: E+W*
 
@@ -167,6 +167,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33881632bf34c432e8b5b351e246218b]: Commencement: S. 104 not in force at Royal Assent, see [s. 118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4)
+[^c-33881632bf34c432e8b5b351e246218b]: Commencement: S. 104 not in force at Royal Assent, see [s. 118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4)
 
-[^key-2473be82264d9f82532b1a455ba3f56c]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/34/section/104) in force at 17.6.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/b)
+[^c-2473be82264d9f82532b1a455ba3f56c]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/34/section/104) in force at 17.6.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127. Amendment of regulation 7[^key-69f7091d80eb218cad951ac00b7ab505]
+## 127. Amendment of regulation 7[^c-69f7091d80eb218cad951ac00b7ab505]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In regulation 7 (partial surrender of annual allowance)—
 
 ## Annotations
 
-[^key-69f7091d80eb218cad951ac00b7ab505]: Commencement: [Reg. 127](https://www.legislation.gov.uk/ssi/2011/364/regulation/127) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-69f7091d80eb218cad951ac00b7ab505]: Commencement: [Reg. 127](https://www.legislation.gov.uk/ssi/2011/364/regulation/127) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

@@ -24,9 +24,9 @@ summary: ''
 
 (2) Excluded equity gains or losses are “qualifying” if
 
-- (a)[^key-cffc60f8ae25a453aded6ad0adb7be4c] either—
-  - (i)[^key-eb7acfdd9209f82e1863e1da0a45450b] those gains or losses are subject to covered taxes (as taxable gains or allowable losses) in that territory, or
-  - (ii) in the case of gains or losses falling within section 142(2)(a) that are not subject to covered taxes in that territory, gains or losses on the disposal of the qualifying interest in question are subject to covered taxes in that territory , and[^key-f1be10ce6c1dca96959cfa2bc21e1039]
+- (a)[^c-cffc60f8ae25a453aded6ad0adb7be4c] either—
+  - (i)[^c-eb7acfdd9209f82e1863e1da0a45450b] those gains or losses are subject to covered taxes (as taxable gains or allowable losses) in that territory, or
+  - (ii) in the case of gains or losses falling within section 142(2)(a) that are not subject to covered taxes in that territory, gains or losses on the disposal of the qualifying interest in question are subject to covered taxes in that territory , and[^c-f1be10ce6c1dca96959cfa2bc21e1039]
 - (b) in the case of gains or losses falling within section 142(2)(b), the gains or losses are not in respect of an interest to which section 142(3) applies.
 
 (3) Paragraph 1 of Schedule 15 (long term elections) applies to an election under subsection (1).
@@ -40,8 +40,8 @@ Accordingly, subsection (1) will apply to equity gains and losses in respect of 
 
 ## Annotations
 
-[^key-cffc60f8ae25a453aded6ad0adb7be4c]: Textual amendment: Words in [s. 165(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/165/2) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(6)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/6/a)
+[^c-cffc60f8ae25a453aded6ad0adb7be4c]: Textual amendment: Words in [s. 165(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/165/2) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(6)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/6/a)
 
-[^key-eb7acfdd9209f82e1863e1da0a45450b]: Textual amendment: S. 165(2)(a)(b) become s. 165(2)(a)(i)(ii) (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(6)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/6/b)
+[^c-eb7acfdd9209f82e1863e1da0a45450b]: Textual amendment: S. 165(2)(a)(b) become s. 165(2)(a)(i)(ii) (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(6)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/6/b)
 
-[^key-f1be10ce6c1dca96959cfa2bc21e1039]: Textual amendment: [S. 165(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/165/2/b) and word inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(6)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/6/c)
+[^c-f1be10ce6c1dca96959cfa2bc21e1039]: Textual amendment: [S. 165(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/165/2/b) and word inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(6)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/6/c)

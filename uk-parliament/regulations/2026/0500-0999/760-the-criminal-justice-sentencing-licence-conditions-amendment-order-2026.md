@@ -33,7 +33,7 @@ summary: ''
 
 CRIMINAL LAW, ENGLAND AND WALES
 
-The Criminal Justice (Sentencing) (Licence Conditions) (Amendment) Order 2026 (revoked)[^key-ee4c2faf4156d75bc7d50bdaf92cfbe9]
+The Criminal Justice (Sentencing) (Licence Conditions) (Amendment) Order 2026 (revoked)[^c-ee4c2faf4156d75bc7d50bdaf92cfbe9]
 
 Made
 
@@ -47,15 +47,15 @@ Coming into force
 
 2nd September 2026
 
-[^key-ee4c2faf4156d75bc7d50bdaf92cfbe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee4c2faf4156d75bc7d50bdaf92cfbe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and extent[^key-ee4c2faf4156d75bc7d50bdaf92cfbe9]
+## 1. Citation, commencement and extent[^c-ee4c2faf4156d75bc7d50bdaf92cfbe9]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Criminal Justice (Sentencing) (Licence Conditions) Order 2015[^key-ee4c2faf4156d75bc7d50bdaf92cfbe9]
+## 2. Amendment to the Criminal Justice (Sentencing) (Licence Conditions) Order 2015[^c-ee4c2faf4156d75bc7d50bdaf92cfbe9]
 
 **Not yet in force.**
 
@@ -63,12 +63,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-ee4c2faf4156d75bc7d50bdaf92cfbe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee4c2faf4156d75bc7d50bdaf92cfbe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ee4c2faf4156d75bc7d50bdaf92cfbe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee4c2faf4156d75bc7d50bdaf92cfbe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee4c2faf4156d75bc7d50bdaf92cfbe9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2026/760) revoked (1.9.2026) by [The Criminal Justice (Sentencing) (Licence Conditions) (Amendment and Revocation) Order 2026 (S.I. 2026/911)](https://www.legislation.gov.uk/uksi/2026/911), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/911/article/1/2), [3](https://www.legislation.gov.uk/uksi/2026/911/article/3)
+[^c-ee4c2faf4156d75bc7d50bdaf92cfbe9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2026/760) revoked (1.9.2026) by [The Criminal Justice (Sentencing) (Licence Conditions) (Amendment and Revocation) Order 2026 (S.I. 2026/911)](https://www.legislation.gov.uk/uksi/2026/911), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/911/article/1/2), [3](https://www.legislation.gov.uk/uksi/2026/911/article/3)

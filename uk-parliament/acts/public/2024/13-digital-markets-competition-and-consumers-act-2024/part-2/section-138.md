@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Final undertakings and orders: power to conduct trials[^key-ad91c42d1b7a534f0cca3bf4888931b5][^key-d9a49399702f7d128bb6cfba5d47bf14]
+## 138. Final undertakings and orders: power to conduct trials[^c-ad91c42d1b7a534f0cca3bf4888931b5][^c-d9a49399702f7d128bb6cfba5d47bf14]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,6 +80,6 @@ in connection with provision made by Schedule 9.
 
 ## Annotations
 
-[^key-ad91c42d1b7a534f0cca3bf4888931b5]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2024/13/section/138) in force for specified purposes at Royal Assent, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-ad91c42d1b7a534f0cca3bf4888931b5]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2024/13/section/138) in force for specified purposes at Royal Assent, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-d9a49399702f7d128bb6cfba5d47bf14]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2024/13/section/138) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-d9a49399702f7d128bb6cfba5d47bf14]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2024/13/section/138) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

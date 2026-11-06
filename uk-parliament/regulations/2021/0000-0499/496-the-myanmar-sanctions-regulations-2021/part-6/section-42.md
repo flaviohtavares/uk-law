@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Exception for authorised conduct in a relevant country[^key-7f359aa5aee2415be2e2c012054d19ab]
+## 42. Exception for authorised conduct in a relevant country[^c-7f359aa5aee2415be2e2c012054d19ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f359aa5aee2415be2e2c012054d19ab]: Commencement: Reg. 42 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-7f359aa5aee2415be2e2c012054d19ab]: Commencement: Reg. 42 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

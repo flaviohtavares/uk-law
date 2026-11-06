@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Police, Fire and Crime Panel review of proposed budget[^key-eda280a8739d690035c83bd377bdda96]
+## 49. Police, Fire and Crime Panel review of proposed budget[^c-eda280a8739d690035c83bd377bdda96]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eda280a8739d690035c83bd377bdda96]: Commencement: Art. 49 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-eda280a8739d690035c83bd377bdda96]: Commencement: Art. 49 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

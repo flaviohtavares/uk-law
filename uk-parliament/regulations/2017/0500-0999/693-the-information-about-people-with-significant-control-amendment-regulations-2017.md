@@ -48,15 +48,15 @@ The Secretary of State, being a Minister designated[^f00001] for the purposes of
 
 ## PART 1 — Introduction and interpretation
 
-### 1. Citation[^key-6b3135ac01eb4833139561ea04e4ab2f]
+### 1. Citation[^c-6b3135ac01eb4833139561ea04e4ab2f]
 
 These Regulations may be cited as the Information about People with Significant Control (Amendment) Regulations 2017.
 
-### 2. Commencement[^key-167d709eb1a5c2c15115e73901fdb1ff]
+### 2. Commencement[^c-167d709eb1a5c2c15115e73901fdb1ff]
 
 These Regulations come into force on 26th June 2017.
 
-### 3. Interpretation[^key-149399a04c10800070468166e685243d]
+### 3. Interpretation[^c-149399a04c10800070468166e685243d]
 
 In these Regulations—
 
@@ -69,11 +69,11 @@ In these Regulations—
 
 ## PART 2 — Amendments in relation to companies
 
-### 4. Amendment of Part 21A of the Companies Act[^key-24c8a6a7b32fea1e901e1df4335fa477]
+### 4. Amendment of Part 21A of the Companies Act[^c-24c8a6a7b32fea1e901e1df4335fa477]
 
 Part 21A of the Companies Act[^f00008] (information about people with significant control) is amended in accordance with regulations 5 to 9.
 
-### 5. Amendment of section 790B[^key-b9c2934bf27ce338f536f69690269354]
+### 5. Amendment of section 790B[^c-b9c2934bf27ce338f536f69690269354]
 
 (1) Section 790B (companies to which Part 21A applies) is amended as follows.
 
@@ -94,7 +94,7 @@ Part 21A of the Companies Act[^f00008] (information about people with significan
 > - “voting shares” means shares carrying voting rights;
 > - “voting rights” means rights to vote at general meetings of the company in question, including rights that arise only in certain circumstances.
 
-### 6. Amendment of section 790C[^key-5b8ca015d0dd31f6bf54af9d96d466e7]
+### 6. Amendment of section 790C[^c-5b8ca015d0dd31f6bf54af9d96d466e7]
 
 (1) Section 790C (key terms) is amended as follows.
 
@@ -110,7 +110,7 @@ Part 21A of the Companies Act[^f00008] (information about people with significan
 
 > (15) In this section “voting shares” has the same meaning as in section 790B.
 
-### 7. Amendment of section 790E[^key-9769b42834c98c3048d5dc23245a23e9]
+### 7. Amendment of section 790E[^c-9769b42834c98c3048d5dc23245a23e9]
 
 In section 790E(5) (company’s duty to keep information up-to-date)—
 
@@ -124,7 +124,7 @@ In section 790E(5) (company’s duty to keep information up-to-date)—
   , and
 - (c) for “or” substitute “ and the day after it”.
 
-### 8. Amendment of section 790M[^key-d531c6dc056583067ee504c237b71c7b]
+### 8. Amendment of section 790M[^c-d531c6dc056583067ee504c237b71c7b]
 
 (1) Section 790M (duty to keep register) is amended as follows.
 
@@ -161,7 +161,7 @@ In section 790E(5) (company’s duty to keep information up-to-date)—
 
 (7) In subsection (9), for “and the details and date of any relevant change with respect to a person” substitute “a change to such particulars and the date of any relevant change with respect to a person”.
 
-### 9. Insertion of section 790VA[^key-a3a9fe159a56baedd6bdcbc9174a712e]
+### 9. Insertion of section 790VA[^c-a3a9fe159a56baedd6bdcbc9174a712e]
 
 After section 790V insert—
 
@@ -184,7 +184,7 @@ After section 790V insert—
 >
 > (5) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
 
-### 10. Amendment of Part 24 of the Companies Act[^key-266a80819c21f469e99d461f9b7f7566]
+### 10. Amendment of Part 24 of the Companies Act[^c-266a80819c21f469e99d461f9b7f7566]
 
 (1) Part 24 of the Companies Act (annual confirmation of accuracy of information on register) is amended as follows.
 
@@ -207,11 +207,11 @@ After section 790V insert—
 
 (7) In section 853K(2)(a) (confirmation statements: power to make further provision by regulations), for “853I” substitute “853H”.
 
-### 11. Amendment of the PSC Regulations[^key-1dbd76ecc9d1f37d80008d312ab38030]
+### 11. Amendment of the PSC Regulations[^c-1dbd76ecc9d1f37d80008d312ab38030]
 
 The PSC Regulations are amended in accordance with regulations 12 to 19.
 
-### 12. Amendment of regulation 2[^key-4fda14f0a97c4c1e309f3ddf78d28128]
+### 12. Amendment of regulation 2[^c-4fda14f0a97c4c1e309f3ddf78d28128]
 
 In regulation 2 (interpretation) insert in the appropriate place—
 
@@ -221,19 +221,19 @@ In regulation 2 (interpretation) insert in the appropriate place—
 
 .
 
-### 13. Amendment of regulation 3[^key-f6275bf8df54813a7db288e8bd4af097]
+### 13. Amendment of regulation 3[^c-f6275bf8df54813a7db288e8bd4af097]
 
 In regulation 3 (companies to which Part 21A of the Act does not apply) omit paragraph (a).
 
-### 14. Amendment of regulation 4[^key-e70fa73212514220db0c78086bb6d0d8]
+### 14. Amendment of regulation 4[^c-e70fa73212514220db0c78086bb6d0d8]
 
 In regulation 4 (legal entities which are subject to their own disclosure requirements) omit paragraph (a).
 
-### 15. Amendment of regulation 5[^key-f3c99dfc66f4fd34906395f963698e2b]
+### 15. Amendment of regulation 5[^c-f3c99dfc66f4fd34906395f963698e2b]
 
 In regulation 5 (modification for persons covered by section 790C(12) of the Act), for “(6)” substitute “(6A)”.
 
-### 16. Amendment of regulation 34[^key-47f4f0aa750594eba124fe6ea5423da9]
+### 16. Amendment of regulation 34[^c-47f4f0aa750594eba124fe6ea5423da9]
 
 (1) Regulation 34 (circumstances where the registrar must not use or disclose secured information[^f00021]) is amended as follows.
 
@@ -260,7 +260,7 @@ In regulation 5 (modification for persons covered by section 790C(12) of the Act
 >
 > (3B) The registrar may rely on a statement delivered to the registrar by a credit institution or a financial institution under Part 2A of Schedule 4 as sufficient evidence of the matters stated in it.
 
-### 17. Insertion of regulation 35A[^key-a84db89eea94bc52c8199ba8c2a6f5fb]
+### 17. Insertion of regulation 35A[^c-a84db89eea94bc52c8199ba8c2a6f5fb]
 
 After regulation 35 (fee payable for the disclosure by the registrar of secured information) insert—
 
@@ -273,7 +273,7 @@ After regulation 35 (fee payable for the disclosure by the registrar of secured 
 > - (a) where the request for information is made by reference to an individual, £5.00 per individual specified in the request; or
 > - (b) where the request for information is made by reference to a company, £5.00 per company specified in the request.
 
-### 18. Amendment of regulation 45[^key-ffd0e4262b3d3465118f45bc59538fe8]
+### 18. Amendment of regulation 45[^c-ffd0e4262b3d3465118f45bc59538fe8]
 
 (1) Regulation 45 (protection by a company of secured information) is amended as follows.
 
@@ -286,7 +286,7 @@ After regulation 35 (fee payable for the disclosure by the registrar of secured 
   >
   > - (d) to the extent necessary in order to comply with regulation 43 (corporate bodies: obligations) of the Money Laundering Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017.
 
-### 19. Amendment of Schedule 4[^key-1d72923651e4c5c67d581307cfb22108]
+### 19. Amendment of Schedule 4[^c-1d72923651e4c5c67d581307cfb22108]
 
 (1) Schedule 4 (conditions for permitted disclosure) is amended as follows.
 
@@ -321,11 +321,11 @@ After regulation 35 (fee payable for the disclosure by the registrar of secured 
 
 ## PART 3 — Amendments in relation to LLPs
 
-### 20. Amendment of Part 8 of the 2009 LLP Regulations[^key-5f20ae2308122ea3d419eca52c65acf1]
+### 20. Amendment of Part 8 of the 2009 LLP Regulations[^c-5f20ae2308122ea3d419eca52c65acf1]
 
 Part 8 of the 2009 LLP Regulations (annual confirmation by LLP of accuracy of information on register)[^f00025] is amended in accordance with regulations 21 and 22.
 
-**21.**[^key-09624749640de9e7c9ac7941e0650a1b] (1) Regulation 30 is amended as follows.
+**21.**[^c-09624749640de9e7c9ac7941e0650a1b] (1) Regulation 30 is amended as follows.
 
 (2) In the modification of section 853A of the Companies Act (duty to deliver confirmation statements)—
 
@@ -338,13 +338,13 @@ Part 8 of the 2009 LLP Regulations (annual confirmation by LLP of accuracy of in
 
 .
 
-**22.**[^key-a5a6482b033edf96ec255bae58079a18] Omit regulation 31.
+**22.**[^c-a5a6482b033edf96ec255bae58079a18] Omit regulation 31.
 
-### 23. Amendment of Part 8A of the 2009 LLP Regulations[^key-4245b44d3021fda12d25b9afd1cbc392]
+### 23. Amendment of Part 8A of the 2009 LLP Regulations[^c-4245b44d3021fda12d25b9afd1cbc392]
 
 Part 8A of the 2009 LLP Regulations (LLP’s register of people with significant control)[^f00026] is amended in accordance with regulations 24 to 26.
 
-### 24. Amendment of regulation 31B[^key-6ab94c2d5b9bbf6878d61f037728b497]
+### 24. Amendment of regulation 31B[^c-6ab94c2d5b9bbf6878d61f037728b497]
 
 (1) Regulation 31B (key terms) is amended as follows.
 
@@ -361,7 +361,7 @@ Part 8A of the 2009 LLP Regulations (LLP’s register of people with significant
 
   > (12E) “Regulated market” has the same meaning as in section 1173 of the Companies Act 2006.
 
-### 25. Amendment of regulation 31E[^key-7abb0c684aaaec19ba609829dc5fb17f]
+### 25. Amendment of regulation 31E[^c-7abb0c684aaaec19ba609829dc5fb17f]
 
 (1) Regulation 31E (register of people with significant control) is amended as follows.
 
@@ -404,7 +404,7 @@ Part 8A of the 2009 LLP Regulations (LLP’s register of people with significant
 
 (5) In paragraph (2), in the modification of section 790M(9) to (14) of the Companies Act, in subsection (9), for “and the details and date of any relevant change with respect to a person” substitute “a change to such particulars and the date of any relevant change with respect to a person”.
 
-### 26. Amendment of regulation 31J[^key-f070ee8c1af394128a9eb2a122078ae5]
+### 26. Amendment of regulation 31J[^c-f070ee8c1af394128a9eb2a122078ae5]
 
 After regulation 31J (power of court to rectify an LLP’s PSC register) insert—
 
@@ -429,7 +429,7 @@ After regulation 31J (power of court to rectify an LLP’s PSC register) insert�
 > >
 > > (4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
 
-### 27. Amendment of Part 15 of the 2009 LLP Regulations[^key-7a4b8f2ae51061c2b9d24d01fb9f5a9b]
+### 27. Amendment of Part 15 of the 2009 LLP Regulations[^c-7a4b8f2ae51061c2b9d24d01fb9f5a9b]
 
 (1) Regulation 66 (inspection etc of the register) is amended as follows.
 
@@ -445,11 +445,11 @@ After regulation 31J (power of court to rectify an LLP’s PSC register) insert�
 
   .
 
-### 28. Amendment of the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016[^key-202f82109d80267b3795df464698ed8c]
+### 28. Amendment of the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016[^c-202f82109d80267b3795df464698ed8c]
 
 Schedule 2 to the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (application of the PSC Regulations)[^f00035] is amended in accordance with regulations 29 to 31.
 
-**29.**[^key-cbcd99376951a8024246c8b30d83c9c3] In paragraph 1, in the modification of regulation 2 of the PSC Regulations[^f00036] (interpretation), insert in the appropriate place—
+**29.**[^c-cbcd99376951a8024246c8b30d83c9c3] In paragraph 1, in the modification of regulation 2 of the PSC Regulations[^f00036] (interpretation), insert in the appropriate place—
 
 > - “credit institution” has the same meaning as in regulation 10(1) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017;
 
@@ -457,7 +457,7 @@ Schedule 2 to the Limited Liability Partnerships (Register of People with Signif
 
 .
 
-**30.**[^key-8ad593b40192d954305106d2bceff31d] (1) Paragraph 3, in the modification of regulations 7 to 47 of the PSC Regulations, is amended as follows.
+**30.**[^c-8ad593b40192d954305106d2bceff31d] (1) Paragraph 3, in the modification of regulations 7 to 47 of the PSC Regulations, is amended as follows.
 
 (2) In regulation 34 (circumstances where the registrar must not use or disclose secured information)[^f00037]—
 
@@ -502,15 +502,15 @@ Schedule 2 to the Limited Liability Partnerships (Register of People with Signif
   >
   > - (d) to the extent necessary in order to comply with regulation 43 (corporate bodies: obligations) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017.
 
-**31.**[^key-5f0cc288360327eb5729831634095da3] In paragraph 4, after “Schedules 1, 3 and 4 to the PSC Regulations apply to LLPs,” insert “with the references to a company in Part 2A of Schedule 4 read as references to an LLP,”.
+**31.**[^c-5f0cc288360327eb5729831634095da3] In paragraph 4, after “Schedules 1, 3 and 4 to the PSC Regulations apply to LLPs,” insert “with the references to a company in Part 2A of Schedule 4 read as references to an LLP,”.
 
 ## PART 4 — Amendments in relation to unregistered companies
 
-### 32. Amendment of Schedule 1 to the Unregistered Companies Regulations 2009[^key-be2b3472461ee876c4b08863f589954f]
+### 32. Amendment of Schedule 1 to the Unregistered Companies Regulations 2009[^c-be2b3472461ee876c4b08863f589954f]
 
 Schedule 1 to the Unregistered Companies Regulations 2009 is amended in accordance with regulations 33 to 36.
 
-**33.**[^key-b80ceb1f9fda1d6722548154277fd4a4] After paragraph 12 insert—
+**33.**[^c-b80ceb1f9fda1d6722548154277fd4a4] After paragraph 12 insert—
 
 > **12A. Information about people with significant control**
 >
@@ -581,9 +581,9 @@ Schedule 1 to the Unregistered Companies Regulations 2009 is amended in accordan
 > >
 > > (3) In this section “secured information” means the required particulars (other than the particular required by section 790K(1)(i)) of a registrable person in relation to an unregistered company.
 
-**34.**[^key-e08147596a4994700b50331acb004bcc] In paragraph 13(1), for “853G” substitute “853H”.
+**34.**[^c-e08147596a4994700b50331acb004bcc] In paragraph 13(1), for “853G” substitute “853H”.
 
-**35.**[^key-87d56823cd2961ae0ecf782cdcdb07e2] In paragraph 20—
+**35.**[^c-87d56823cd2961ae0ecf782cdcdb07e2] In paragraph 20—
 
 - (a) in sub-paragraph (2), after paragraph (c), insert—
 
@@ -596,7 +596,7 @@ Schedule 1 to the Unregistered Companies Regulations 2009 is amended in accordan
 
   > (2A) In section 1087B for sub-paragraph (3) substitute “The provisions of the Companies (Disclosure of Date of Birth Information) Regulations 2015 ([S.I. 2015/1694](https://www.legislation.gov.uk/uksi/2015/1694)) apply.”
 
-**36.**[^key-ba51576ddc18c6133be1cf5938574516] After paragraph 20 insert—
+**36.**[^c-ba51576ddc18c6133be1cf5938574516] After paragraph 20 insert—
 
 > **20A.** (1) Schedule 1A (references to people with significant control over a company) to the Companies Act 2006 applies to unregistered companies, with the following modifications.
 >
@@ -615,7 +615,7 @@ Schedule 1 to the Unregistered Companies Regulations 2009 is amended in accordan
 
 ## PART 5 — Consequential and miscellaneous amendment and transitional arrangements
 
-### 37. Consequential and miscellaneous amendment to the Companies (Disclosure of Address) Regulations 2009[^key-d892a005ba0894211d0aa7040bfbd965]
+### 37. Consequential and miscellaneous amendment to the Companies (Disclosure of Address) Regulations 2009[^c-d892a005ba0894211d0aa7040bfbd965]
 
 In regulation 9(1) of the Companies (Disclosure of Address Regulations) 2009—
 
@@ -626,11 +626,11 @@ In regulation 9(1) of the Companies (Disclosure of Address Regulations) 2009—
   , and
 - (b) omit sub-paragraph (f).
 
-### 38. Consequential amendment to the European Public Limited-Liability Company (Register of People with Significant Control) Regulations 2016[^key-ea7b5a5bb75854c7ee32d6dd77400424]
+### 38. Consequential amendment to the European Public Limited-Liability Company (Register of People with Significant Control) Regulations 2016[^c-ea7b5a5bb75854c7ee32d6dd77400424]
 
 In regulation 9(2) of the European Public Limited-Liability Company (Register of People with Significant Control) Regulations 2016[^f00040], in the modification of regulation 45(2)(b) of the PSC Regulations, omit “or”.
 
-### 39. Transitional arrangements[^key-b7da462557179f3464ad2301a4134a6e]
+### 39. Transitional arrangements[^c-b7da462557179f3464ad2301a4134a6e]
 
 The Schedule makes transitional arrangements in connection with these Regulations.
 
@@ -648,13 +648,13 @@ Regulation 39
 
 ### PART 1 — Transitional arrangements in relation to Part 2
 
-#### 1. Obligation to keep register of people with significant control[^key-08029299f4f6636bf292364753ff176f]
+#### 1. Obligation to keep register of people with significant control[^c-08029299f4f6636bf292364753ff176f]
 
 (1) This paragraph applies where, as a result of the amendment of section 790B(1)(a) of the Companies Act made by regulation 5, Part 21A of the Companies Act applies on the commencement day to a company to which it did not apply immediately before that day.
 
 (2) The company is not required to comply with Chapter 3 or 4 of Part 21A of the Companies Act (register of people with significant control and alternative method of record-keeping) until 24th July 2017.
 
-#### 2. Extension of new 14 day deadlines in section 790E and 790M of the Companies Act[^key-fa6365eae75db87ed8bb1e58a266f096]
+#### 2. Extension of new 14 day deadlines in section 790E and 790M of the Companies Act[^c-fa6365eae75db87ed8bb1e58a266f096]
 
 (1) This paragraph applies where a company subject to an obligation to take an action under the old law has not complied with that obligation before the commencement day.
 
@@ -662,7 +662,7 @@ Regulation 39
 
 (3) In this paragraph “the old law” means section 790E and section 790M of the Companies Act without the amendments made by these Regulations.
 
-#### 3. Application of new section 790VA of the Companies Act[^key-9bf28d3f186c52b155c5da51601da0d1]
+#### 3. Application of new section 790VA of the Companies Act[^c-9bf28d3f186c52b155c5da51601da0d1]
 
 (1) Subject to sub-paragraph (2), section 790VA of the Companies Act (notification of changes to the registrar), inserted by regulation 9, applies to a change to a company’s PSC register made before, on or after the commencement day.
 
@@ -680,7 +680,7 @@ the company is treated as having complied with the requirement if it gives notic
 - “confirmation date” and “confirmation period” have the meaning given in section 853A(3) of the Companies Act;
 - “PSC register” has the meaning given in section 790C(10) of the Companies Act.
 
-#### 4. Application of amendments to Part 24 of the Companies Act[^key-5d2b5ae1998c68484700506e56989df1]
+#### 4. Application of amendments to Part 24 of the Companies Act[^c-5d2b5ae1998c68484700506e56989df1]
 
 (1) The amendments to Part 24 of the Companies Act (annual confirmation of accuracy of information on register) made by regulation 10 apply to a company which delivers a confirmation statement to the registrar under section 853A of that Act on or after the commencement day, whether the confirmation period to which the statement relates ended before, on or after the commencement day.
 
@@ -689,7 +689,7 @@ the company is treated as having complied with the requirement if it gives notic
 - “confirmation statement” has the meaning given in section 853A(1)(b) of the Companies Act;
 - “confirmation period” has the meaning given in section 853A(3) of the Companies Act.
 
-#### 5. Protection for a registrable person applying for protection of secured information[^key-3a3f93935a055b1a09027a1e244db835]
+#### 5. Protection for a registrable person applying for protection of secured information[^c-3a3f93935a055b1a09027a1e244db835]
 
 (1) This paragraph applies where—
 
@@ -737,11 +737,11 @@ the company is treated as having complied with the requirement if it gives notic
 - “registrable person” has the meaning given in section 790C(4) of the Companies Act;
 - “secured information” means the required particulars of a registrable person in relation to a company, other than the particular required by section 790K(1)(i) of the Companies Act.
 
-**6.**[^key-c2522368b934a3ca4aa91df94a781bbc] In this Part of this Schedule “the registrar” has the meaning given in section 1060(3) of the Companies Act.
+**6.**[^c-c2522368b934a3ca4aa91df94a781bbc] In this Part of this Schedule “the registrar” has the meaning given in section 1060(3) of the Companies Act.
 
 ### PART 2 — Transitional arrangements in relation to Part 3
 
-#### 7. Extension of the new 14 day deadlines in regulations 31C and 31E of the 2009 LLP Regulations[^key-83790f04c622f26a19733d511d9f87e3]
+#### 7. Extension of the new 14 day deadlines in regulations 31C and 31E of the 2009 LLP Regulations[^c-83790f04c622f26a19733d511d9f87e3]
 
 (1) This paragraph applies where an LLP subject to an obligation to take an action under the old law has not complied with that obligation before the commencement day.
 
@@ -752,7 +752,7 @@ the company is treated as having complied with the requirement if it gives notic
 - (a) section 790E of the Companies Act without the amendments made to that section by these Regulations (as applied and modified in respect of LLPs by regulation 31C of the 2009 LLP Regulations), and
 - (b) section 790M of the Companies Act without the amendments made to that section by these Regulations (as applied and modified in respect of LLPs by regulation 31E of the 2009 LLP Regulations without the amendments made by these Regulations).
 
-#### 8. Application of new regulation 31JA to the 2009 LLP Regulations[^key-fa45a2896e4ac3b61842be7f7c06e63f]
+#### 8. Application of new regulation 31JA to the 2009 LLP Regulations[^c-fa45a2896e4ac3b61842be7f7c06e63f]
 
 (1) Subject to sub-paragraph (2), section 790VA of the Companies Act (notification of changes to the registrar) inserted by regulation 9 (and applied and modified in respect of LLPs by regulation 31JA of the 2009 LLP Regulations, inserted by regulation 26 of these Regulations), applies to a change made to an LLP’s PSC register before, on or after the commencement day.
 
@@ -770,7 +770,7 @@ the LLP is treated as having complied with the requirement if it gives notice to
 - “confirmation period” and “confirmation date” have the meanings given in section 853A(3) of the Companies Act (as applied and modified by regulation 30 of the 2009 LLP Regulations);
 - “PSC register” has the meaning given in section 790C(10) of the Companies Act (as applied and modified by regulation 31C of the 2009 LLP Regulations).
 
-#### 9. Application of amendments to Part 8 of the 2009 LLP Regulations[^key-321fb802869513a1fb687221b5d8120b]
+#### 9. Application of amendments to Part 8 of the 2009 LLP Regulations[^c-321fb802869513a1fb687221b5d8120b]
 
 (1) The amendments to Part 24 of the Companies Act (annual confirmation by company of accuracy of information on register) made by regulation 10 of these Regulations (and applied and modified in respect of LLPs by regulations 20 to 22 of these Regulations), apply to an LLP which delivers a confirmation statement to the registrar under section 853A of the Act (as applied and modified by regulation 30 of the 2009 LLP Regulations) on or after the commencement day, whether the confirmation period to which the statement relates ended before, on or after the commencement day.
 
@@ -779,15 +779,15 @@ the LLP is treated as having complied with the requirement if it gives notice to
 - “confirmation statement” has the meaning given in section 853A(1)(b) of the Companies Act (as applied and modified by regulation 30 of the 2009 LLP Regulations);
 - “confirmation period” has the meaning given in section 853A(3) of the Companies Act (as applied and modified by regulation 30 of the 2009 LLP Regulations).
 
-**10.**[^key-469de167e638369008425794870f690c] In this Part of this Schedule, “the registrar” has the same meaning as in section 18 of the Limited Liability Partnerships Act 2000[^f00041].
+**10.**[^c-469de167e638369008425794870f690c] In this Part of this Schedule, “the registrar” has the same meaning as in section 18 of the Limited Liability Partnerships Act 2000[^f00041].
 
 ### PART 3 — Transitional arrangements in relation to Part 4
 
-#### 11. Postponement of obligation to keep register of people with significant control[^key-8e7f84491ca02034359d2323cf99c1d1]
+#### 11. Postponement of obligation to keep register of people with significant control[^c-8e7f84491ca02034359d2323cf99c1d1]
 
 An unregistered company is not required to comply with regulation 12B of the Unregistered Companies Regulations (register of people with significant control and alternative method of record-keeping) until 24th July 2017.
 
-#### 12. Application of amendments to Part 24 of the Companies Act[^key-660159c4b7881dc4673fafbb1b832075]
+#### 12. Application of amendments to Part 24 of the Companies Act[^c-660159c4b7881dc4673fafbb1b832075]
 
 (1) The amendments to Part 24 of the Companies Act (annual confirmation of accuracy of information on register) made by regulation 10 apply to an unregistered company which delivers a confirmation statement to the registrar under section 853A of that Act on or after the commencement day, whether the confirmation period to which the statement relates ended before, on or after the commencement day.
 
@@ -796,7 +796,7 @@ An unregistered company is not required to comply with regulation 12B of the Unr
 - “confirmation statement” has the meaning given in section 853A(1)(b) of the Companies Act;
 - “confirmation period” has the meaning given in section 853A(3) of the Companies Act.
 
-#### 13. Protection for registrable persons applying for protection of secured information[^key-bf2e8249cb6dfa5ae596df39d467d7f5]
+#### 13. Protection for registrable persons applying for protection of secured information[^c-bf2e8249cb6dfa5ae596df39d467d7f5]
 
 (1) This paragraph applies where—
 
@@ -843,7 +843,7 @@ An unregistered company is not required to comply with regulation 12B of the Unr
 - “registrable person” has the meaning given in section 790C(4) of the Companies Act;
 - “secured information” means the required particulars of a registrable person in relation to a company, other than the particular required by section 790K(1)(i) of the Companies Act.
 
-**14.**[^key-b3749030da65e7582753afb6ef3a607a] In this Part of this Schedule “the registrar” has the meaning given in section 1060(3) of the Companies Act.
+**14.**[^c-b3749030da65e7582753afb6ef3a607a] In this Part of this Schedule “the registrar” has the meaning given in section 1060(3) of the Companies Act.
 
 EXPLANATORY NOTE
 
@@ -879,11 +879,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). The enabling powers in section 2(2) were extended by virtue of the amendment of section 1(2) by section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51).
 
-[^key-6b3135ac01eb4833139561ea04e4ab2f]: Commencement: Reg. 1 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-6b3135ac01eb4833139561ea04e4ab2f]: Commencement: Reg. 1 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-167d709eb1a5c2c15115e73901fdb1ff]: Commencement: Reg. 2 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-167d709eb1a5c2c15115e73901fdb1ff]: Commencement: Reg. 2 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-149399a04c10800070468166e685243d]: Commencement: Reg. 3 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-149399a04c10800070468166e685243d]: Commencement: Reg. 3 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00003]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -895,11 +895,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00007]: Footnote: [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), to which there are amendments not relevant to these Regulations.
 
-[^key-24c8a6a7b32fea1e901e1df4335fa477]: Commencement: Reg. 4 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-24c8a6a7b32fea1e901e1df4335fa477]: Commencement: Reg. 4 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00008]: Footnote: [2016 c. 26](https://www.legislation.gov.uk/ukpga/2016/26).
 
-[^key-b9c2934bf27ce338f536f69690269354]: Commencement: Reg. 5 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-b9c2934bf27ce338f536f69690269354]: Commencement: Reg. 5 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00009]: Footnote: See section 1 of the Companies Act for the meaning of “company”.
 
@@ -907,13 +907,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00011]: Footnote: See section 1170 of the Companies Act for the meaning of “EEA State”.
 
-[^key-5b8ca015d0dd31f6bf54af9d96d466e7]: Commencement: Reg. 6 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-5b8ca015d0dd31f6bf54af9d96d466e7]: Commencement: Reg. 6 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00012]: Footnote: Subsection (7) was amended by regulation 78 of the Scottish Partnerships (Register of People with Significant Control) Regulations 2017 ([S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694)).
 
-[^key-9769b42834c98c3048d5dc23245a23e9]: Commencement: Reg. 7 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-9769b42834c98c3048d5dc23245a23e9]: Commencement: Reg. 7 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-d531c6dc056583067ee504c237b71c7b]: Commencement: Reg. 8 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-d531c6dc056583067ee504c237b71c7b]: Commencement: Reg. 8 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00013]: Footnote: See section 790K of the Companies Act for the meaning of “required particulars”.
 
@@ -925,57 +925,57 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00017]: Footnote: See section 790C(10) of the Companies Act for the meaning of “PSC register”.
 
-[^key-a3a9fe159a56baedd6bdcbc9174a712e]: Commencement: Reg. 9 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-a3a9fe159a56baedd6bdcbc9174a712e]: Commencement: Reg. 9 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00018]: Footnote: See section 1060(3) of the Companies Act for the meaning of “registrar”.
 
 [^f00019]: Footnote: See section 251 of the Companies Act for the meaning of “shadow director”.
 
-[^key-266a80819c21f469e99d461f9b7f7566]: Commencement: Reg. 10 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-266a80819c21f469e99d461f9b7f7566]: Commencement: Reg. 10 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-1dbd76ecc9d1f37d80008d312ab38030]: Commencement: Reg. 11 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-1dbd76ecc9d1f37d80008d312ab38030]: Commencement: Reg. 11 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-4fda14f0a97c4c1e309f3ddf78d28128]: Commencement: Reg. 12 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-4fda14f0a97c4c1e309f3ddf78d28128]: Commencement: Reg. 12 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00020]: Footnote: S.I. [2017/ 692](https://www.legislation.gov.uk/uksi/2017/692).
 
-[^key-f6275bf8df54813a7db288e8bd4af097]: Commencement: Reg. 13 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-f6275bf8df54813a7db288e8bd4af097]: Commencement: Reg. 13 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-e70fa73212514220db0c78086bb6d0d8]: Commencement: Reg. 14 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-e70fa73212514220db0c78086bb6d0d8]: Commencement: Reg. 14 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-f3c99dfc66f4fd34906395f963698e2b]: Commencement: Reg. 15 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-f3c99dfc66f4fd34906395f963698e2b]: Commencement: Reg. 15 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-47f4f0aa750594eba124fe6ea5423da9]: Commencement: Reg. 16 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-47f4f0aa750594eba124fe6ea5423da9]: Commencement: Reg. 16 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00021]: Footnote: See regulation 2 of the PSC Regulations for the meaning of “secured information”.
 
 [^f00022]: Footnote: See section 790C(4) of the Companies Act for the meaning of “registrable person”.
 
-[^key-a84db89eea94bc52c8199ba8c2a6f5fb]: Commencement: Reg. 17 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-a84db89eea94bc52c8199ba8c2a6f5fb]: Commencement: Reg. 17 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-ffd0e4262b3d3465118f45bc59538fe8]: Commencement: Reg. 18 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-ffd0e4262b3d3465118f45bc59538fe8]: Commencement: Reg. 18 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-1d72923651e4c5c67d581307cfb22108]: Commencement: Reg. 19 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-1d72923651e4c5c67d581307cfb22108]: Commencement: Reg. 19 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00023]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
 
 [^f00024]: Footnote: OJ No L 281, 23.11.1995 p.31.
 
-[^key-5f20ae2308122ea3d419eca52c65acf1]: Commencement: Reg. 20 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-5f20ae2308122ea3d419eca52c65acf1]: Commencement: Reg. 20 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00025]: Footnote: Part 8 was substituted by the Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 ([S.I. 2016/599](https://www.legislation.gov.uk/uksi/2016/599)).
 
-[^key-09624749640de9e7c9ac7941e0650a1b]: Commencement: Reg. 21 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-09624749640de9e7c9ac7941e0650a1b]: Commencement: Reg. 21 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-a5a6482b033edf96ec255bae58079a18]: Commencement: Reg. 22 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-a5a6482b033edf96ec255bae58079a18]: Commencement: Reg. 22 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-4245b44d3021fda12d25b9afd1cbc392]: Commencement: Reg. 23 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-4245b44d3021fda12d25b9afd1cbc392]: Commencement: Reg. 23 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00026]: Footnote: Part 8A was inserted by the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 ([S.I. 2016/340](https://www.legislation.gov.uk/uksi/2016/340)).
 
-[^key-6ab94c2d5b9bbf6878d61f037728b497]: Commencement: Reg. 24 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-6ab94c2d5b9bbf6878d61f037728b497]: Commencement: Reg. 24 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-7abb0c684aaaec19ba609829dc5fb17f]: Commencement: Reg. 25 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-7abb0c684aaaec19ba609829dc5fb17f]: Commencement: Reg. 25 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00027]: Footnote: See section 790K of the Companies Act (as applied and modified by regulation 31D of the 2009 LLP Regulations) for the meaning of “required particulars”.
 
@@ -987,78 +987,78 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00031]: Footnote: See section 790C(10) of the Companies Act (as applied by regulation 31B of the 2009 LLP Regulations) for the meaning of “PSC register”.
 
-[^key-f070ee8c1af394128a9eb2a122078ae5]: Commencement: Reg. 26 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-f070ee8c1af394128a9eb2a122078ae5]: Commencement: Reg. 26 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00032]: Footnote: See section 18 of the Limited Liability Partnerships Act 2000 for the meaning of “registrar”.
 
-[^key-7a4b8f2ae51061c2b9d24d01fb9f5a9b]: Commencement: Reg. 27 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-7a4b8f2ae51061c2b9d24d01fb9f5a9b]: Commencement: Reg. 27 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00033]: Footnote: [S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214); relevant amending instruments are [S.I. 2016/399](https://www.legislation.gov.uk/uksi/2016/399) and [2016/599](https://www.legislation.gov.uk/uksi/2016/599).
 
 [^f00034]: Footnote: Section 2 was amended by the Limited Liability Partnership (Application of Companies Act 2006) Regulations 2009 ([S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804)) and the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 ([S.I. 2016/340](https://www.legislation.gov.uk/uksi/2016/340)).
 
-[^key-202f82109d80267b3795df464698ed8c]: Commencement: Reg. 28 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-202f82109d80267b3795df464698ed8c]: Commencement: Reg. 28 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00035]: Footnote: [S.I. 2016/340](https://www.legislation.gov.uk/uksi/2016/340).
 
-[^key-cbcd99376951a8024246c8b30d83c9c3]: Commencement: Reg. 29 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-cbcd99376951a8024246c8b30d83c9c3]: Commencement: Reg. 29 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00036]: Footnote: See regulation 12 of these Regulations.
 
-[^key-8ad593b40192d954305106d2bceff31d]: Commencement: Reg. 30 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-8ad593b40192d954305106d2bceff31d]: Commencement: Reg. 30 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00037]: Footnote: See regulation 2 of the PSC Regulations (as applied and modified by paragraph 1 of Schedule 2 to the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 ([S.I. 2016/340](https://www.legislation.gov.uk/uksi/2016/340))) for the meaning of “secured information”.
 
 [^f00038]: Footnote: See section 790C(4) (as applied by regulation 31B of the 2009 LLP Regulations) for the meaning of “registrable person”.
 
-[^key-5f0cc288360327eb5729831634095da3]: Commencement: Reg. 31 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-5f0cc288360327eb5729831634095da3]: Commencement: Reg. 31 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-be2b3472461ee876c4b08863f589954f]: Commencement: Reg. 32 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-be2b3472461ee876c4b08863f589954f]: Commencement: Reg. 32 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-b80ceb1f9fda1d6722548154277fd4a4]: Commencement: Reg. 33 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-b80ceb1f9fda1d6722548154277fd4a4]: Commencement: Reg. 33 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00039]: Footnote: Subsection (7) was amended by regulation 78 of the Scottish Partnerships (Register of People with Significant Control) Regulations 2017 ([S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694)).
 
-[^key-e08147596a4994700b50331acb004bcc]: Commencement: Reg. 34 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-e08147596a4994700b50331acb004bcc]: Commencement: Reg. 34 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-87d56823cd2961ae0ecf782cdcdb07e2]: Commencement: Reg. 35 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-87d56823cd2961ae0ecf782cdcdb07e2]: Commencement: Reg. 35 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-ba51576ddc18c6133be1cf5938574516]: Commencement: Reg. 36 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-ba51576ddc18c6133be1cf5938574516]: Commencement: Reg. 36 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-d892a005ba0894211d0aa7040bfbd965]: Commencement: Reg. 37 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-d892a005ba0894211d0aa7040bfbd965]: Commencement: Reg. 37 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-ea7b5a5bb75854c7ee32d6dd77400424]: Commencement: Reg. 38 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-ea7b5a5bb75854c7ee32d6dd77400424]: Commencement: Reg. 38 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00040]: Footnote: [S.I. 2016/375](https://www.legislation.gov.uk/uksi/2016/375).
 
-[^key-b7da462557179f3464ad2301a4134a6e]: Commencement: Reg. 39 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-b7da462557179f3464ad2301a4134a6e]: Commencement: Reg. 39 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-08029299f4f6636bf292364753ff176f]: Commencement: Sch. para. 1 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-08029299f4f6636bf292364753ff176f]: Commencement: Sch. para. 1 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-fa6365eae75db87ed8bb1e58a266f096]: Commencement: Sch. para. 2 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-fa6365eae75db87ed8bb1e58a266f096]: Commencement: Sch. para. 2 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-9bf28d3f186c52b155c5da51601da0d1]: Commencement: Sch. para. 3 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-9bf28d3f186c52b155c5da51601da0d1]: Commencement: Sch. para. 3 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-5d2b5ae1998c68484700506e56989df1]: Commencement: Sch. para. 4 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-5d2b5ae1998c68484700506e56989df1]: Commencement: Sch. para. 4 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-3a3f93935a055b1a09027a1e244db835]: Commencement: Sch. para. 5 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-3a3f93935a055b1a09027a1e244db835]: Commencement: Sch. para. 5 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-c2522368b934a3ca4aa91df94a781bbc]: Commencement: Sch. para. 6 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-c2522368b934a3ca4aa91df94a781bbc]: Commencement: Sch. para. 6 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-83790f04c622f26a19733d511d9f87e3]: Commencement: Sch. para. 7 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-83790f04c622f26a19733d511d9f87e3]: Commencement: Sch. para. 7 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-fa45a2896e4ac3b61842be7f7c06e63f]: Commencement: Sch. para. 8 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-fa45a2896e4ac3b61842be7f7c06e63f]: Commencement: Sch. para. 8 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-321fb802869513a1fb687221b5d8120b]: Commencement: Sch. para. 9 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-321fb802869513a1fb687221b5d8120b]: Commencement: Sch. para. 9 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-469de167e638369008425794870f690c]: Commencement: Sch. para. 10 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-469de167e638369008425794870f690c]: Commencement: Sch. para. 10 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
 [^f00041]: Footnote: Section 18 was amended by the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009.
 
-[^key-8e7f84491ca02034359d2323cf99c1d1]: Commencement: Sch. para. 11 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-8e7f84491ca02034359d2323cf99c1d1]: Commencement: Sch. para. 11 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-660159c4b7881dc4673fafbb1b832075]: Commencement: Sch. para. 12 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-660159c4b7881dc4673fafbb1b832075]: Commencement: Sch. para. 12 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-bf2e8249cb6dfa5ae596df39d467d7f5]: Commencement: Sch. para. 13 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-bf2e8249cb6dfa5ae596df39d467d7f5]: Commencement: Sch. para. 13 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
 
-[^key-b3749030da65e7582753afb6ef3a607a]: Commencement: Sch. para. 14 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)
+[^c-b3749030da65e7582753afb6ef3a607a]: Commencement: Sch. para. 14 in force at 26.6.2017, see [reg. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Transfer to potential successor[^key-bd80c1231e681b3dee0f4be6004810b7]
+## 114. Transfer to potential successor[^c-bd80c1231e681b3dee0f4be6004810b7]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd80c1231e681b3dee0f4be6004810b7]: Commencement: [S. 114](https://www.legislation.gov.uk/anaw/2016/1/section/114) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-bd80c1231e681b3dee0f4be6004810b7]: Commencement: [S. 114](https://www.legislation.gov.uk/anaw/2016/1/section/114) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

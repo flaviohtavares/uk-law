@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Saving for Trinity House[^key-c6f9a0bfa08edd7d6b9991f549bbd164]
+## 79. Saving for Trinity House[^c-c6f9a0bfa08edd7d6b9991f549bbd164]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-c6f9a0bfa08edd7d6b9991f549bbd164]: Commencement: Art. 79 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-c6f9a0bfa08edd7d6b9991f549bbd164]: Commencement: Art. 79 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

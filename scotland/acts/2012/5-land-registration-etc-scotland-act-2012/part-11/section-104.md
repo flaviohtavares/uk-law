@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Extracts and certified copies: general[^key-24640bc7cfecf21a137c567f25903997]
+## 104. Extracts and certified copies: general[^c-24640bc7cfecf21a137c567f25903997]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24640bc7cfecf21a137c567f25903997]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2012/5/section/104) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-24640bc7cfecf21a137c567f25903997]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2012/5/section/104) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

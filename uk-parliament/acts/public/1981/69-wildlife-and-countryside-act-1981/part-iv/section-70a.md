@@ -24,7 +24,7 @@ summary: ''
 
 (2) Subsections (2) and (3) of the said section 329[^c4948841] shall not apply to a notice required to be served under paragraph 2 of Schedule 14.
 
-(2A)[^key-39323647022a7b1bf4650ee64a6bf1c7] Subsection (1)(cc) of the said section 271 shall not apply to a notice required to be served under section 14G.
+(2A)[^c-39323647022a7b1bf4650ee64a6bf1c7] Subsection (1)(cc) of the said section 271 shall not apply to a notice required to be served under section 14G.
 
 (2B) Subsection (2) of the said section 271 shall not apply to a notice required to be served under section 14D(5)(a).
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c4948841]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 54(2)(b)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/54/2/b)
 
-[^key-39323647022a7b1bf4650ee64a6bf1c7]: Textual amendment: [S. 70A(2A)](https://www.legislation.gov.uk/ukpga/1981/69/section/70A/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1981/69/section/70A/2B) inserted (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 17(7)](https://www.legislation.gov.uk/asp/2011/6/section/17/7), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/c)
+[^c-39323647022a7b1bf4650ee64a6bf1c7]: Textual amendment: [S. 70A(2A)](https://www.legislation.gov.uk/ukpga/1981/69/section/70A/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1981/69/section/70A/2B) inserted (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 17(7)](https://www.legislation.gov.uk/asp/2011/6/section/17/7), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Power to specify hospital unit.[^key-df557bf6c3a6403a0b94d5c2ab55e5e0]
+## 9. Power to specify hospital unit.[^c-df557bf6c3a6403a0b94d5c2ab55e5e0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df557bf6c3a6403a0b94d5c2ab55e5e0]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1997/48/section/9) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 49(a)](https://www.legislation.gov.uk/asp/2015/9/section/49/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 24](https://www.legislation.gov.uk/ssi/2017/197/article/24))
+[^c-df557bf6c3a6403a0b94d5c2ab55e5e0]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1997/48/section/9) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 49(a)](https://www.legislation.gov.uk/asp/2015/9/section/49/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 24](https://www.legislation.gov.uk/ssi/2017/197/article/24))

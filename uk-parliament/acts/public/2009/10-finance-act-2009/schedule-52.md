@@ -295,7 +295,7 @@ Section 100
 
 #### Saving for petroleum revenue tax
 
-**11.**[^key-af1b1b7aeb9cbd647b8a681c4589decc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-af1b1b7aeb9cbd647b8a681c4589decc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Corporation tax
 
@@ -504,4 +504,4 @@ Section 100
 
 ## Annotations
 
-[^key-af1b1b7aeb9cbd647b8a681c4589decc]: Textual amendment: [Sch. 52 para. 11](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/11) omitted (with effect in accordance with s. 28(2) of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 12 para. 13(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/12/paragraph/13/b)
+[^c-af1b1b7aeb9cbd647b8a681c4589decc]: Textual amendment: [Sch. 52 para. 11](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/11) omitted (with effect in accordance with s. 28(2) of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 12 para. 13(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/12/paragraph/13/b)

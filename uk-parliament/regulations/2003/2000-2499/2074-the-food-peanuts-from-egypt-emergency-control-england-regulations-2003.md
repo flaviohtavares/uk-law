@@ -45,44 +45,44 @@ Coming into force
 
 14th August 2003
 
-[^key-66e47916164d09b62a26c968b7be68e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66e47916164d09b62a26c968b7be68e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-66e47916164d09b62a26c968b7be68e4]
+## 1. Title, commencement and application[^c-66e47916164d09b62a26c968b7be68e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-66e47916164d09b62a26c968b7be68e4]
+## 2. Interpretation[^c-66e47916164d09b62a26c968b7be68e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-66e47916164d09b62a26c968b7be68e4]
+## 3. Prohibition on import[^c-66e47916164d09b62a26c968b7be68e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-66e47916164d09b62a26c968b7be68e4]
+## 4. Enforcement[^c-66e47916164d09b62a26c968b7be68e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^key-66e47916164d09b62a26c968b7be68e4]
+## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^c-66e47916164d09b62a26c968b7be68e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Re-dispatch or destruction of illegal imports[^key-66e47916164d09b62a26c968b7be68e4]
+## 6. Re-dispatch or destruction of illegal imports[^c-66e47916164d09b62a26c968b7be68e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of the Food (Peanuts from Egypt) (Emergency Control) (England and Wales) Order 2000[^key-66e47916164d09b62a26c968b7be68e4]
+## 7. Revocation of the Food (Peanuts from Egypt) (Emergency Control) (England and Wales) Order 2000[^c-66e47916164d09b62a26c968b7be68e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-66e47916164d09b62a26c968b7be68e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66e47916164d09b62a26c968b7be68e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-66e47916164d09b62a26c968b7be68e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66e47916164d09b62a26c968b7be68e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-66e47916164d09b62a26c968b7be68e4]: Textual amendment: Regulations revoked (E.) (1.10.2006) by [The Food (Emergency Control) (Revocation) (England) Regulations 2006 (S.I. 2006/2289)](https://www.legislation.gov.uk/uksi/2006/2289), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2006/2289/regulation/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2006/2289/schedule)
+[^c-66e47916164d09b62a26c968b7be68e4]: Textual amendment: Regulations revoked (E.) (1.10.2006) by [The Food (Emergency Control) (Revocation) (England) Regulations 2006 (S.I. 2006/2289)](https://www.legislation.gov.uk/uksi/2006/2289), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2006/2289/regulation/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2006/2289/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Part 3: interpretation[^key-dab7e2f33b0d2020df293aaa58b06862]
+## 31. Part 3: interpretation[^c-dab7e2f33b0d2020df293aaa58b06862]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-dab7e2f33b0d2020df293aaa58b06862]: Commencement: S. 31 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-dab7e2f33b0d2020df293aaa58b06862]: Commencement: S. 31 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

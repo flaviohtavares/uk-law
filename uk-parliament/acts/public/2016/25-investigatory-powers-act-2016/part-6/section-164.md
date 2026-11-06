@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Modification of warrants[^key-262934996ca52fbd46ec31b4d1d82e71]
+## 164. Modification of warrants[^c-262934996ca52fbd46ec31b4d1d82e71]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ This is subject to subsection (10).
 
 ## Annotations
 
-[^key-262934996ca52fbd46ec31b4d1d82e71]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2016/25/section/164) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)
+[^c-262934996ca52fbd46ec31b4d1d82e71]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2016/25/section/164) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)

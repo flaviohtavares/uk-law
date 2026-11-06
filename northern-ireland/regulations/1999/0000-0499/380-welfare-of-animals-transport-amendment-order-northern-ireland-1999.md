@@ -30,7 +30,7 @@ summary: ''
 
 ANIMALS
 
-Welfare of Animals (Transport) (Amendment) Order (Northern Ireland) 1999 (revoked)[^key-5d86bbefedafc6f246c47652f45a9c2e]
+Welfare of Animals (Transport) (Amendment) Order (Northern Ireland) 1999 (revoked)[^c-5d86bbefedafc6f246c47652f45a9c2e]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 27th September 1999
 
-[^key-5d86bbefedafc6f246c47652f45a9c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d86bbefedafc6f246c47652f45a9c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5d86bbefedafc6f246c47652f45a9c2e]
+## 1. Citation and commencement[^c-5d86bbefedafc6f246c47652f45a9c2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Welfare of Animals (Transport) Order (Northern Ireland) 1997[^key-5d86bbefedafc6f246c47652f45a9c2e]
+## 2. Amendment of the Welfare of Animals (Transport) Order (Northern Ireland) 1997[^c-5d86bbefedafc6f246c47652f45a9c2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d86bbefedafc6f246c47652f45a9c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d86bbefedafc6f246c47652f45a9c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5d86bbefedafc6f246c47652f45a9c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d86bbefedafc6f246c47652f45a9c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5d86bbefedafc6f246c47652f45a9c2e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1999/380) revoked (5.1.2007) by [The Welfare of Animals (Transport) Regulations (Northern Ireland) 2006 (S.R. 2006/538)](https://www.legislation.gov.uk/nisr/2006/538), [regs. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1), [31(c)](https://www.legislation.gov.uk/nisr/2006/538/regulation/31/c)
+[^c-5d86bbefedafc6f246c47652f45a9c2e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1999/380) revoked (5.1.2007) by [The Welfare of Animals (Transport) Regulations (Northern Ireland) 2006 (S.R. 2006/538)](https://www.legislation.gov.uk/nisr/2006/538), [regs. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1), [31(c)](https://www.legislation.gov.uk/nisr/2006/538/regulation/31/c)

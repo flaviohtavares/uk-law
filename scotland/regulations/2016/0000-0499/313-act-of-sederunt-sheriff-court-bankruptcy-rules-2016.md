@@ -51,7 +51,7 @@ This Act of Sederunt makes provision for a purpose mentioned in section 2(2) of 
 
 ## CHAPTER 1 — CITATION, COMMENCEMENT AND INTERPRETATION ETC.
 
-### 1.1. Citation, commencement and application, etc.[^key-b9f304ca31bc5129e164c7523160f0ba]
+### 1.1. Citation, commencement and application, etc.[^c-b9f304ca31bc5129e164c7523160f0ba]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Sheriff Court Bankruptcy Rules) 2016.
 
@@ -61,7 +61,7 @@ This Act of Sederunt makes provision for a purpose mentioned in section 2(2) of 
 
 (4) A certified copy is to be inserted in the Books of Sederunt.
 
-### 1.2. Interpretation[^key-59e6d3f73c7bb59a9608a6bac56adbfe]
+### 1.2. Interpretation[^c-59e6d3f73c7bb59a9608a6bac56adbfe]
 
 (1) In this Act of Sederunt—
 
@@ -73,7 +73,7 @@ This Act of Sederunt makes provision for a purpose mentioned in section 2(2) of 
   - (d) section 6(4)(a);
   - (e) section 6(4)(b); or
   - (f) section 6(7)(a);
-- “Council Regulation” means Regulation (EU) 2015/848 of the European Parliament and of the Council of 20th May 2015 on insolvency proceedings, as amended from time to time.[^key-7c9f562304fe970b81c9257b3a9fab77]
+- “Council Regulation” means Regulation (EU) 2015/848 of the European Parliament and of the Council of 20th May 2015 on insolvency proceedings, as amended from time to time.[^c-7c9f562304fe970b81c9257b3a9fab77]
 - “Model Law on Cross-Border Insolvency” means the Model Law on cross-border insolvency as adopted by the United Nations Commission on International Trade Law on 30th May 1997 as set out in schedule 1 of the Cross-Border Insolvency Regulations 2006[^f00007];
 - “Register of Inhibitions” means the register mentioned in section 44(1) of the Conveyancing (Scotland) Act 1924[^f00008].
 
@@ -83,14 +83,14 @@ This Act of Sederunt makes provision for a purpose mentioned in section 2(2) of 
 - “debtor application”;
 - “establishment”;
 - “main proceedings”;
-- “member State insolvency practitioner[^key-edb9c73fc1189dc3c8e85222e3b1febd]”;
+- “member State insolvency practitioner[^c-edb9c73fc1189dc3c8e85222e3b1febd]”;
 - “temporary administrator”.
 
-### 1.3. Computation of periods of time[^key-b57d5f0068897ac049dd71ac99027aa2]
+### 1.3. Computation of periods of time[^c-b57d5f0068897ac049dd71ac99027aa2]
 
 If any period of time specified in these Rules expires on a Saturday, Sunday or public or court holiday, it is extended to expire on the next day that the sheriff clerk’s office is open for civil business.
 
-### 1.4. Forms[^key-ead2ad531fd29c9cd2b9f71e4c59c4b4]
+### 1.4. Forms[^c-ead2ad531fd29c9cd2b9f71e4c59c4b4]
 
 (1) Where there is a reference in these Rules to a form, it is a reference to that form in schedule 1.
 
@@ -98,7 +98,7 @@ If any period of time specified in these Rules expires on a Saturday, Sunday or 
 
 (3) Where these Rules require a form to be used, that form may be varied where the circumstances require it.
 
-### 1.5. Sequestration process[^key-afa0245541bac415867bced25e1699ec]
+### 1.5. Sequestration process[^c-afa0245541bac415867bced25e1699ec]
 
 (1) The sheriff clerk must prepare a sequestration process when an initiating document mentioned in paragraph (2) is lodged.
 
@@ -118,7 +118,7 @@ If any period of time specified in these Rules expires on a Saturday, Sunday or 
 
 ## CHAPTER 2 — RELIEF FOR FAILURE TO COMPLY
 
-### 2.1. Relief for failure to comply with rules[^key-3d5f82c5b5a696cc225da5fc9e0d0d9e]
+### 2.1. Relief for failure to comply with rules[^c-3d5f82c5b5a696cc225da5fc9e0d0d9e]
 
 (1) The sheriff may relieve a party from the consequences of a failure to comply with a provision in these Rules.
 
@@ -135,7 +135,7 @@ If any period of time specified in these Rules expires on a Saturday, Sunday or 
 
 ## CHAPTER 3 — SANCTIONS FOR FAILURE TO COMPLY
 
-### 3.1. Circumstances where a party is in default[^key-e3fd6889c43a37bafc941ae694837891]
+### 3.1. Circumstances where a party is in default[^c-e3fd6889c43a37bafc941ae694837891]
 
 A party is in default if that party fails—
 
@@ -143,7 +143,7 @@ A party is in default if that party fails—
 - (b) to appear or be represented at any hearing; or
 - (c) otherwise to comply with any requirement imposed on that party by these Rules.
 
-### 3.2. Sanctions where a party is in default[^key-ffcaba5bf52ff0a54e2eb85f9d224664]
+### 3.2. Sanctions where a party is in default[^c-ffcaba5bf52ff0a54e2eb85f9d224664]
 
 (1) This rule—
 
@@ -163,7 +163,7 @@ A party is in default if that party fails—
 
 ## CHAPTER 4 — REPRESENTATION AND SUPPORT
 
-### 4.1. Representation and support[^key-b20ae71fe27fc6c72faa2241ddeef8bc]
+### 4.1. Representation and support[^c-b20ae71fe27fc6c72faa2241ddeef8bc]
 
 (1) A natural person who is a party to proceedings may appear and act on the party’s own behalf.
 
@@ -178,11 +178,11 @@ A party is in default if that party fails—
 
 (5) A lay supporter (see rule 4.6) may assist a party litigant with the conduct of any proceedings.
 
-### 4.2. Legal representation[^key-c1cedcc805cea2e311ed68451756f3e0]
+### 4.2. Legal representation[^c-c1cedcc805cea2e311ed68451756f3e0]
 
 A party is represented by a legal representative if that party is represented by an advocate or a solicitor.
 
-### 4.3. Representation by authorised person[^key-18b3438536aa1f0c10e2d0e46b0a7520]
+### 4.3. Representation by authorised person[^c-18b3438536aa1f0c10e2d0e46b0a7520]
 
 (1) This rule applies where an enactment authorises a person to conduct proceedings in the sheriff court.
 
@@ -190,7 +190,7 @@ A party is represented by a legal representative if that party is represented by
 
 (3) An authorised person may do everything for the preparation and conduct of the proceedings that a party litigant may do, unless the enactment provides otherwise.
 
-### 4.4. Lay representation[^key-d4522f20bbcbe1e16a2a447720ec2be5]
+### 4.4. Lay representation[^c-d4522f20bbcbe1e16a2a447720ec2be5]
 
 (1) A party may apply to the sheriff for permission to be represented by a person who is not a legal representative or an authorised person, and such a person is to be known as a lay representative.
 
@@ -208,13 +208,13 @@ A party is represented by a legal representative if that party is represented by
 
 (8) A lay representative must not receive directly or indirectly from the party any remuneration or other reward for assisting the party.
 
-### 4.5. Expenses[^key-68da90df1f35ce63f59cde0f5dae7053]
+### 4.5. Expenses[^c-68da90df1f35ce63f59cde0f5dae7053]
 
 (1) This rule applies where a party is represented by an authorised person or a lay representative.
 
 (2) Despite that representation, the sheriff may award the party any expenses or outlays that the party would be entitled to by virtue of the Litigants in Person (Costs and Expenses) Act 1975[^f00009].
 
-### 4.6. Lay support[^key-0ca517f4a45b9f18823b48c28f5d216a]
+### 4.6. Lay support[^c-0ca517f4a45b9f18823b48c28f5d216a]
 
 (1) A party litigant may apply to the sheriff for permission for a named person to assist the party litigant in the conduct of proceedings, and such a person is to be known as a lay supporter.
 
@@ -244,7 +244,7 @@ A party is represented by a legal representative if that party is represented by
 
 ## CHAPTER 5 — INTIMATION AND LODGING
 
-### 5.1. Interpretation of this Chapter[^key-fe7041c9b9cb89ad9561dbf2acce2d79]
+### 5.1. Interpretation of this Chapter[^c-fe7041c9b9cb89ad9561dbf2acce2d79]
 
 In this Chapter—
 
@@ -253,7 +253,7 @@ In this Chapter—
 - “receiving party” means any party to whom intimation is to be given in accordance with rule 5.2;
 - “recorded delivery” means a postal service which provides for the delivery of the document or other thing by post to be recorded.
 
-### 5.2. Intimation[^key-2777fc1ac99e48421cf94e9e362e82d4]
+### 5.2. Intimation[^c-2777fc1ac99e48421cf94e9e362e82d4]
 
 Unless the sheriff orders otherwise, where—
 
@@ -265,17 +265,17 @@ Unless the sheriff orders otherwise, where—
 
 intimation is to be given to every other party.
 
-### 5.3. Methods of intimation[^key-5c41703e72b57adcfe0d66168ceaa76c]
+### 5.3. Methods of intimation[^c-5c41703e72b57adcfe0d66168ceaa76c]
 
 (1) Intimation may be given to a receiving party by any of the methods specified in rules 5.4 and 5.5.
 
 (2) Where the receiving party is represented by a solicitor, intimation may also be given by any of the methods specified in rule 5.6.
 
-### 5.4. Methods of intimation: intimation by recorded delivery[^key-b3795198211a8d4f79c5a7de878c1a27]
+### 5.4. Methods of intimation: intimation by recorded delivery[^c-b3795198211a8d4f79c5a7de878c1a27]
 
 An intimating party may give intimation by recorded delivery to the receiving party.
 
-### 5.5. Methods of intimation: intimation by sheriff officer[^key-e23ad0f9c041c65eae9ee8b5a2a9982c]
+### 5.5. Methods of intimation: intimation by sheriff officer[^c-e23ad0f9c041c65eae9ee8b5a2a9982c]
 
 (1) A sheriff officer may give intimation on behalf of an intimating party by—
 
@@ -289,7 +289,7 @@ An intimating party may give intimation by recorded delivery to the receiving pa
 - (a) depositing it in the receiving party’s dwelling place or place of business; or
 - (b) leaving it at the receiving party’s dwelling place or place of business in such a way that it is likely to come to the attention of that party.
 
-### 5.6. Additional methods of intimation where receiving party represented by solicitor[^key-df6feb367953ee0343d5c9a79bb16386]
+### 5.6. Additional methods of intimation where receiving party represented by solicitor[^c-df6feb367953ee0343d5c9a79bb16386]
 
 (1) An intimating party may give intimation to the solicitor for the receiving party by—
 
@@ -307,11 +307,11 @@ An intimating party may give intimation by recorded delivery to the receiving pa
 
 the date of intimation is the next day.
 
-### 5.7. Form of certificate of intimation[^key-b82775da277738ff9f16a068867ffca5]
+### 5.7. Form of certificate of intimation[^c-b82775da277738ff9f16a068867ffca5]
 
 A certificate of intimation is to be in Form 5.7.
 
-### 5.8. Lodging[^key-3b3527d95afd3d5421afd44f2d697f6f]
+### 5.8. Lodging[^c-3b3527d95afd3d5421afd44f2d697f6f]
 
 (1) Where any provision in these Rules requires a party to lodge a document, it is to be lodged with the sheriff clerk.
 
@@ -324,23 +324,23 @@ A certificate of intimation is to be in Form 5.7.
 
 ## CHAPTER 6 — PETITIONS FOR SEQUESTRATION
 
-### 6.1. Form of petition for sequestration[^key-a6e84de7d84ec007263e459b3dca6ce0]
+### 6.1. Form of petition for sequestration[^c-a6e84de7d84ec007263e459b3dca6ce0]
 
 (1) A petition for sequestration is to be made in Form 6.1–A.
 
 (2) An undertaking for the purposes of section 51(1) or (6) of the 2016 Act is to be in Form 6.1–B.
 
-### 6.2. Debt payment programmes and moratorium on diligence[^key-987ebe9f0c8050a7c83e0ea595185d0d]
+### 6.2. Debt payment programmes and moratorium on diligence[^c-987ebe9f0c8050a7c83e0ea595185d0d]
 
 (1) This rule applies where a creditor is petitioning for sequestration on the ground of the debtor’s apparent insolvency.
 
 (2) The petitioner must, when lodging the sequestration petition, lodge a statement in Form 6.2.
 
-### 6.2A. Warrant for citation[^key-4fbfd459b4eb6e361dd295def74b1b60]
+### 6.2A. Warrant for citation[^c-4fbfd459b4eb6e361dd295def74b1b60]
 
 A warrant for citation under section 22(3) of the 2016 Act may be authenticated electronically.
 
-### 6.3. Citation of debtor[^key-4878a6e88a34170f04ca107765057280]
+### 6.3. Citation of debtor[^c-4878a6e88a34170f04ca107765057280]
 
 (1) A debtor is cited for the purposes of section 22(3) of the 2016 Act by serving the documents mentioned in paragraph (2) in accordance with rules 6.4 to 6.6.
 
@@ -352,7 +352,7 @@ A warrant for citation under section 22(3) of the 2016 Act may be authenticated 
 
 (3) The petitioner must lodge a certificate of citation in Form 6.3–B no later than 2 days before the date on which the debtor has been cited to appear.
 
-### 6.4. Service by sheriff officer[^key-823e2cf91fce8f8140393fb39f887f77]
+### 6.4. Service by sheriff officer[^c-823e2cf91fce8f8140393fb39f887f77]
 
 (1) Where the debtor is of a type mentioned in the first column of the following table, a sheriff officer may effect service of the documents referred to in rule 6.3(2) by the method specified in the second column—
 
@@ -376,11 +376,11 @@ A warrant for citation under section 22(3) of the 2016 Act may be authenticated 
 
 (3) Section 3 of the Citation Amendment (Scotland) Act 1882[^f00010] does not apply to a document that is to be served in accordance with this rule.
 
-### 6.5. Service furth of Scotland[^key-d4bc0f3306e1f9fc4445f8a4a560b4a5]
+### 6.5. Service furth of Scotland[^c-d4bc0f3306e1f9fc4445f8a4a560b4a5]
 
 Where a person mentioned in the second column of the table in rule 6.4(1) is furth of Scotland, service on that person is to be effected in accordance with schedule 3.
 
-### 6.6. Authority to serve by other means[^key-edb1b0fc5f50e0d5ed8e9a79b5c2b246]
+### 6.6. Authority to serve by other means[^c-edb1b0fc5f50e0d5ed8e9a79b5c2b246]
 
 (1) A petitioner may apply to the sheriff for authority to serve a document by a method other than those specified in rule 6.4 or 6.5.
 
@@ -391,7 +391,7 @@ Where a person mentioned in the second column of the table in rule 6.4(1) is fur
 
 (3) Where the sheriff grants the application, the sheriff may authorise the petitioner to effect service by any method that the sheriff thinks fit.
 
-### 6.7. Intimation of appointment of trustee[^key-604e5f2dbaad9efd4cb408986bd40e65]
+### 6.7. Intimation of appointment of trustee[^c-604e5f2dbaad9efd4cb408986bd40e65]
 
 (1) This rule applies where the sheriff appoints a person to be—
 
@@ -406,7 +406,7 @@ Where a person mentioned in the second column of the table in rule 6.4(1) is fur
 
 ## CHAPTER 7 — APPLICATIONS ETC. UNDER THE BANKRUPTCY (SCOTLAND) ACT 2016
 
-### 7.1. Form of applications[^key-d26ffa3ee8a4088e975f77a71a95c40c]
+### 7.1. Form of applications[^c-d26ffa3ee8a4088e975f77a71a95c40c]
 
 (1) An application under the 2016 Act is to be made in Form 7.1–A unless these Rules provide otherwise.
 
@@ -420,21 +420,21 @@ Where a person mentioned in the second column of the table in rule 6.4(1) is fur
 - (f) section 110(8) (contractual powers of trustee);
 - (g) paragraph 3(10) of schedule 2 (debts depending on contingency).
 
-### 7.1A. Warrant to enter premises and warrant to apprehend[^key-61b51072ecd88d1f570ee49b67ea6c38]
+### 7.1A. Warrant to enter premises and warrant to apprehend[^c-61b51072ecd88d1f570ee49b67ea6c38]
 
 A warrant under section 39(4) of the 2016 Act or a warrant under section 120(1) of the 2016 Act may be authenticated electronically.
 
-### 7.2. Form of remit by AiB[^key-8ef1693488d93445090cd1ff57a6e2c8]
+### 7.2. Form of remit by AiB[^c-8ef1693488d93445090cd1ff57a6e2c8]
 
 A remit by AiB under section 36(1) or (2) of the 2016 Act is to be made in Form 7.2.
 
-### 7.3. Applications and remits relating to AiB sequestration[^key-338fcfeac82305d93a979e8c42fcc67f]
+### 7.3. Applications and remits relating to AiB sequestration[^c-338fcfeac82305d93a979e8c42fcc67f]
 
 (1) This rule applies where an application or a remit relates to an AiB sequestration.
 
 (2) When the application or remit is lodged, the applicant must also lodge a copy of the debtor application.
 
-### 7.4. Determination of applications and remits[^key-7df4007c78a83ab20e71efca99df3464]
+### 7.4. Determination of applications and remits[^c-7df4007c78a83ab20e71efca99df3464]
 
 (1) When an application or a remit is lodged, the sheriff is to make—
 
@@ -453,17 +453,17 @@ A remit by AiB under section 36(1) or (2) of the 2016 Act is to be made in Form 
 
 (4) Where an order is granted disposing of an application or a remit in accordance with paragraph (3)(a), the sheriff clerk is to intimate the order to the parties.
 
-### 7.5. Form of report by original trustee[^key-a91c5919e6cd8155185fb53072044402]
+### 7.5. Form of report by original trustee[^c-a91c5919e6cd8155185fb53072044402]
 
 A report to the sheriff by the original trustee under section 49(8) or (9) of the 2016 Act is to be in Form 7.5.
 
 ## CHAPTER 8 — APPLICATIONS UNDER THE UNCITRAL MODEL LAW ON CROSS-BORDER INSOLVENCY
 
-### 8.1. Form of applications[^key-ace7f2748afa4dc83614cefe8fa2fe96]
+### 8.1. Form of applications[^c-ace7f2748afa4dc83614cefe8fa2fe96]
 
 An application under article 12 of the Model Law on Cross-Border Insolvency is to be made by application in accordance with Chapter 7.
 
-### 8.2. Transfer of proceedings to Court of Session[^key-f53dc99a68f6f3ba28b3dbe109370b6e]
+### 8.2. Transfer of proceedings to Court of Session[^c-f53dc99a68f6f3ba28b3dbe109370b6e]
 
 (1) This rule applies where the Lord Ordinary orders proceedings under these Rules to be transferred to the Court of Session under paragraph 11 of schedule 3 of the Cross-Border Insolvency Regulations 2006[^f00011].
 
@@ -471,17 +471,17 @@ An application under article 12 of the Model Law on Cross-Border Insolvency is t
 
 ## CHAPTER 9 — APPEALS TO THE SHERIFF UNDER THE BANKRUPTCY (SCOTLAND) ACT 2016
 
-### 9.1. Form of appeal[^key-d8f506f33dcdfdf9e31e165cd1495555]
+### 9.1. Form of appeal[^c-d8f506f33dcdfdf9e31e165cd1495555]
 
 An appeal to the sheriff under the 2016 Act is to be made in Form 9.1.
 
-### 9.2. Appeals relating to AiB sequestration[^key-3141f1a2446d10a77010f5b81fd3f7ad]
+### 9.2. Appeals relating to AiB sequestration[^c-3141f1a2446d10a77010f5b81fd3f7ad]
 
 (1) This rule applies where an appeal relates to an AiB sequestration.
 
 (2) When the appeal is lodged, the appellant must also lodge a copy of the debtor application.
 
-### 9.3. Determination of appeal[^key-6258056ebe65843d3b8ed6c51e2955df]
+### 9.3. Determination of appeal[^c-6258056ebe65843d3b8ed6c51e2955df]
 
 (1) When an appeal is lodged, the sheriff is to make—
 
@@ -494,7 +494,7 @@ An appeal to the sheriff under the 2016 Act is to be made in Form 9.1.
 
 ## CHAPTER 10 — APPEALS TO THE SHERIFF APPEAL COURT
 
-### 10.1. Appeals to the Sheriff Appeal Court[^key-6da775f5863df9809f626b1b0ff227ea]
+### 10.1. Appeals to the Sheriff Appeal Court[^c-6da775f5863df9809f626b1b0ff227ea]
 
 (1) This rule applies to an appeal to the Sheriff Appeal Court under the following provisions of the 2016 Act—
 
@@ -544,33 +544,33 @@ An appeal to the sheriff under the 2016 Act is to be made in Form 9.1.
 
 ## CHAPTER 11 — MOTIONS
 
-### 11.1. Interpretation[^key-924d4a4ce4b845018333ea92741e92e5]
+### 11.1. Interpretation[^c-924d4a4ce4b845018333ea92741e92e5]
 
 In this Chapter—
 
 - “lodging party” means the party lodging the motion;
 - “receiving party” means a party receiving the intimation of the motion from the lodging party.
 
-### 11.2. Making of motions[^key-8fcae58ef6752931f3fb7c0441467f09]
+### 11.2. Making of motions[^c-8fcae58ef6752931f3fb7c0441467f09]
 
 A motion may be made—
 
 - (a) orally; or
 - (b) in writing, in accordance with rule 11.3.
 
-### 11.3. Written motions[^key-db15559040d3a89c80723e68006a25a0]
+### 11.3. Written motions[^c-db15559040d3a89c80723e68006a25a0]
 
 (1) A motion in writing is made by lodging it with the sheriff clerk in accordance with rule 11.7(1).
 
 (2) A motion in writing must specify the grounds on which it is made.
 
-### 11.4. Intimation of written motions[^key-4f6f721a2f1d0a0e01e91cfa1e2ec7da]
+### 11.4. Intimation of written motions[^c-4f6f721a2f1d0a0e01e91cfa1e2ec7da]
 
 (1) The lodging party must give intimation of his or her intention to lodge the motion, and of the terms of the motion, to every other party in Form 11.4.
 
 (2) That intimation must be accompanied by a copy of any document referred to in the motion.
 
-### 11.5. Opposition to written motions[^key-ca2ed330250f4b67d96630e920dc7f70]
+### 11.5. Opposition to written motions[^c-ca2ed330250f4b67d96630e920dc7f70]
 
 (1) A receiving party may oppose a motion by lodging a notice of opposition in Form 11.5.
 
@@ -588,11 +588,11 @@ A motion may be made—
 
 (5) The sheriff may allow a notice of opposition to be lodged late, on cause shown.
 
-### 11.6. Consent to written motions[^key-a53c4d6eb3bcbe3d89b97d4164b58c52]
+### 11.6. Consent to written motions[^c-a53c4d6eb3bcbe3d89b97d4164b58c52]
 
 Where a receiving party seeks to consent to a motion, that party may do so by lodging a notice to that effect.
 
-### 11.7. Lodging of written motions[^key-0c4cff8ddaee6f5d8595df77aa9886a3]
+### 11.7. Lodging of written motions[^c-0c4cff8ddaee6f5d8595df77aa9886a3]
 
 (1) The motion must be lodged by the lodging party within 5 days after the date of intimation of the motion, unless paragraph (3) applies.
 
@@ -603,13 +603,13 @@ Where a receiving party seeks to consent to a motion, that party may do so by lo
 
 (3) Where the sheriff varies the period for lodging a notice of opposition to a period of 5 days or less, the motion must be lodged no later than the day on which that period expires.
 
-### 11.8. Joint written motions[^key-58ad75fc3aaa1a47ee4579a31865e662]
+### 11.8. Joint written motions[^c-58ad75fc3aaa1a47ee4579a31865e662]
 
 (1) A joint motion by all parties need not be intimated.
 
 (2) Such a motion is to be lodged by any of the parties.
 
-### 11.9. Determination of unopposed written motions[^key-e8e75b2a9c531d1d490675a810345ff5]
+### 11.9. Determination of unopposed written motions[^c-e8e75b2a9c531d1d490675a810345ff5]
 
 (1) The sheriff clerk may determine any unopposed motion in writing other than a motion which seeks a final interlocutor.
 
@@ -624,7 +624,7 @@ in chambers without the appearance of parties, unless the sheriff otherwise dete
 
 (4) The sheriff clerk must intimate to every party an interlocutor determining a joint written motion or an unopposed written motion.
 
-### 11.10. Hearing of opposed written motions[^key-8625814390df0c64d0518c6734feaebf]
+### 11.10. Hearing of opposed written motions[^c-8625814390df0c64d0518c6734feaebf]
 
 (1) Where a notice of opposition in Form 11.5 is lodged, the motion is to be heard by the sheriff on the first suitable court day after the lodging of the notice of opposition.
 
@@ -632,11 +632,11 @@ in chambers without the appearance of parties, unless the sheriff otherwise dete
 
 ## CHAPTER 12 — WITHDRAWAL OF SOLICITORS
 
-### 12.1. Interpretation of this Chapter[^key-3fced9ef8f137e7d1dff9504c18e99eb]
+### 12.1. Interpretation of this Chapter[^c-3fced9ef8f137e7d1dff9504c18e99eb]
 
 In this Chapter, “peremptory hearing” means a hearing at which a party whose solicitor has withdrawn from acting must appear or be represented in order to state whether or not the party intends to proceed.
 
-### 12.2. Giving notice of withdrawal[^key-e59b12ae36ba6710209249c67697e181]
+### 12.2. Giving notice of withdrawal[^c-e59b12ae36ba6710209249c67697e181]
 
 (1) Where a solicitor withdraws from acting on behalf of a party, the solicitor must give notice in writing to the sheriff clerk and to every other party.
 
@@ -646,7 +646,7 @@ In this Chapter, “peremptory hearing” means a hearing at which a party whose
 
 (4) The solicitor must disclose to the sheriff clerk and every other party the last known address of the party for whom the solicitor acted.
 
-### 12.3. Arrangements for peremptory hearing[^key-fc58cdc92d10cfb05cf0cb7dd239e983]
+### 12.3. Arrangements for peremptory hearing[^c-fc58cdc92d10cfb05cf0cb7dd239e983]
 
 (1) On notice being given under rule 12.2(1), the sheriff is to make an order—
 
@@ -670,7 +670,7 @@ In this Chapter, “peremptory hearing” means a hearing at which a party whose
 
 whichever is sooner.
 
-### 12.4. Peremptory hearing[^key-418223b798a98efe78a99b69f998f135]
+### 12.4. Peremptory hearing[^c-418223b798a98efe78a99b69f998f135]
 
 (1) At a peremptory hearing, the party whose solicitor has withdrawn from acting must appear or be represented in order to state whether the party intends to proceed.
 
@@ -690,13 +690,13 @@ whichever is sooner.
 
 ## CHAPTER 13 — EXPENSES
 
-### 13.1. Taxation of expenses[^key-55b0e3920d6c3ba8c79ccfa9dd32b234]
+### 13.1. Taxation of expenses[^c-55b0e3920d6c3ba8c79ccfa9dd32b234]
 
 (1) Where the sheriff makes an order allowing expenses in any proceedings, those expenses must be taxed before decree is granted for them
 
 (2) This rule does not apply where the sheriff modifies those expenses to a fixed sum.
 
-### 13.2. Procedure for taxation of expenses[^key-67fea5f202a8373e61b56629f3f31d04]
+### 13.2. Procedure for taxation of expenses[^c-67fea5f202a8373e61b56629f3f31d04]
 
 (1) Where an account of expenses is lodged for taxation, the sheriff clerk must transmit the account and the process to the auditor of court.
 
@@ -711,7 +711,7 @@ whichever is sooner.
 
 (5) Where no objections are lodged under rule 13.3, the sheriff may grant decree for the expenses as taxed.
 
-### 13.3. Objections to taxed account[^key-6b94ef9710ad9b870b1d8fd40126cf0b]
+### 13.3. Objections to taxed account[^c-6b94ef9710ad9b870b1d8fd40126cf0b]
 
 (1) A party may lodge a note of objections to an account as taxed only where the party attended the taxation hearing.
 
@@ -722,13 +722,13 @@ whichever is sooner.
 
 (3) The sheriff is to dispose of the note of objections in a summary manner.
 
-### 13.4. Decree for expenses in name of solicitor[^key-ea4e555c2b439a856a721d691557bd03]
+### 13.4. Decree for expenses in name of solicitor[^c-ea4e555c2b439a856a721d691557bd03]
 
 The sheriff may allow a decree for expenses to be extracted in the name of the solicitor who conducted the proceedings.
 
 ## CHAPTER 14 — VULNERABLE WITNESSES
 
-### 14.1. Interpretation and application of this Chapter[^key-da741b2d80524ea9acb86fac15aa252a]
+### 14.1. Interpretation and application of this Chapter[^c-da741b2d80524ea9acb86fac15aa252a]
 
 (1) This Chapter applies where the evidence of a witness is to be taken in proceedings.
 
@@ -739,7 +739,7 @@ The sheriff may allow a decree for expenses to be extracted in the name of the s
 - “review application” means an application under section 13 of the 2004 Act;
 - “vulnerable witness application” has the meaning given by section 12(6) of the 2004 Act.
 
-### 14.2. Form of notices and applications[^key-8f4883d0d2b23ec3a70045d10a5746c8]
+### 14.2. Form of notices and applications[^c-8f4883d0d2b23ec3a70045d10a5746c8]
 
 (1) A child witness notice is to be made in Form 14.2–A.
 
@@ -750,7 +750,7 @@ The sheriff may allow a decree for expenses to be extracted in the name of the s
 - (a) in Form 14.2–C; or
 - (b) orally, with the leave of the sheriff.
 
-### 14.3. Determination of notices and applications[^key-75be114355870c14916c89cb30ea2f0f]
+### 14.3. Determination of notices and applications[^c-75be114355870c14916c89cb30ea2f0f]
 
 (1) When a notice or application under this Chapter is lodged, the sheriff may require any of the parties to provide further information before determining the notice or application.
 
@@ -761,11 +761,11 @@ The sheriff may allow a decree for expenses to be extracted in the name of the s
 
 (3) The sheriff may make an order altering the date of any hearing at which evidence is to be taken in order that the notice or application may be determined.
 
-### 14.4. Determination of notices and applications: supplementary orders[^key-cd5b7be607575edf31fc3587b2446dce]
+### 14.4. Determination of notices and applications: supplementary orders[^c-cd5b7be607575edf31fc3587b2446dce]
 
 Where the sheriff determines a notice or application under this Chapter and makes an order under section 12(1) or (6) or 13(2) of the 2004 Act, the sheriff may make further orders to secure the expeditious disposal of the proceedings.
 
-### 14.5. Intimation of orders[^key-e51463bb49ff3a6bb4102348aa580a3e]
+### 14.5. Intimation of orders[^c-e51463bb49ff3a6bb4102348aa580a3e]
 
 (1) Where the sheriff makes an order—
 
@@ -785,7 +785,7 @@ the sheriff clerk is to intimate the order in accordance with this rule.
 - (a) on the day that the hearing is fixed or the order is made;
 - (b) in the manner ordered by the sheriff.
 
-### 14.6. Taking of evidence by commissioner: preparatory steps[^key-ab4004d3b8712dbdefbfd467cc7a3d48]
+### 14.6. Taking of evidence by commissioner: preparatory steps[^c-ab4004d3b8712dbdefbfd467cc7a3d48]
 
 (1) This rule applies where the sheriff authorises the special measure of taking evidence by a commissioner under section 19(1) of the 2004 Act.
 
@@ -808,7 +808,7 @@ the sheriff clerk is to intimate the order in accordance with this rule.
 
 (7) An application by a party for leave to be present in the room where the commission is carried out is to be made by motion.
 
-### 14.7. Taking of evidence by commissioner: interrogatories[^key-37efca1e6f77fe3f67ae5aafb8b232f2]
+### 14.7. Taking of evidence by commissioner: interrogatories[^c-37efca1e6f77fe3f67ae5aafb8b232f2]
 
 (1) This rule applies where the sheriff—
 
@@ -827,7 +827,7 @@ the sheriff clerk is to intimate the order in accordance with this rule.
 
 (7) The sheriff is to resolve any dispute as to the content of the interrogatories and cross-interrogatories, and approve them.
 
-### 14.8. Taking of evidence by commissioner: conduct of commission[^key-940ae79c22d7b4fceeb35c171fa60d81]
+### 14.8. Taking of evidence by commissioner: conduct of commission[^c-940ae79c22d7b4fceeb35c171fa60d81]
 
 (1) The commissioner is to administer the oath *de fideli administratione* to the clerk.
 
@@ -835,7 +835,7 @@ the sheriff clerk is to intimate the order in accordance with this rule.
 
 (3) Where the witness elects to affirm, the commissioner is to administer the affirmation in Form 14.8–B.
 
-### 14.9. Taking of evidence by commissioner: lodging and custody of video record and documents[^key-fcb19e485c04dc61d76d79841d05dea7]
+### 14.9. Taking of evidence by commissioner: lodging and custody of video record and documents[^c-fcb19e485c04dc61d76d79841d05dea7]
 
 (1) The commissioner is to lodge the video record of the commission and any relevant documents with the sheriff clerk.
 
@@ -856,7 +856,7 @@ the sheriff clerk is to intimate the order in accordance with this rule.
 
 ## CHAPTER 15 — LIVE LINKS
 
-### 15.1. Interpretation[^key-2a0ab873c45908fd4a09fe6e128083e3]
+### 15.1. Interpretation[^c-2a0ab873c45908fd4a09fe6e128083e3]
 
 In this Chapter—
 
@@ -868,7 +868,7 @@ In this Chapter—
   - (b) where the sheriff gives permission in accordance with rule 15.2(4), an alternative arrangement;
 - “submission” means any oral submission which would otherwise be made to the sheriff by a party or that party’s representative, including an oral submission in support of a motion.
 
-### 15.2. Application for use of live link[^key-4e2fdcca4b3496f0f482c067377e43ca]
+### 15.2. Application for use of live link[^c-4e2fdcca4b3496f0f482c067377e43ca]
 
 (1) A party may apply to the sheriff to use a live link to make a submission or to give evidence.
 
@@ -883,7 +883,7 @@ In this Chapter—
 
 ## CHAPTER 16 — REPORTING RESTRICTIONS
 
-### 16.1. Interpretation and application of this Chapter[^key-95bf720b4749f1f341598d7dba54b52d]
+### 16.1. Interpretation and application of this Chapter[^c-95bf720b4749f1f341598d7dba54b52d]
 
 (1) This Chapter applies to orders which restrict the reporting of proceedings.
 
@@ -892,7 +892,7 @@ In this Chapter—
 - (a) who has asked to see any order made by the sheriff which restricts the reporting of proceedings, including an interim order; and
 - (b) whose name is included on a list kept by the Lord President for the purposes of this Chapter.
 
-### 16.2. Interim orders: notification to interested persons[^key-1426a8614a71d6c6dd3cdac24b6e2af2]
+### 16.2. Interim orders: notification to interested persons[^c-1426a8614a71d6c6dd3cdac24b6e2af2]
 
 (1) Where the sheriff is considering making an order, the sheriff may make an interim order.
 
@@ -900,7 +900,7 @@ In this Chapter—
 
 (3) The sheriff is to specify in the interim order why the sheriff is considering making an order.
 
-### 16.3. Interim orders: representations[^key-2ff9e17ac32e266c7a32c2977ca05ca1]
+### 16.3. Interim orders: representations[^c-2ff9e17ac32e266c7a32c2977ca05ca1]
 
 (1) Paragraph (2) applies where the sheriff has made an interim order.
 
@@ -927,14 +927,14 @@ In this Chapter—
 
 (7) Where the sheriff recalls an interim order, the sheriff clerk must immediately notify any interested person.
 
-### 16.4. Notification of reporting restrictions[^key-de9c6ef1b5ac9f4e3261ea31ff3a80de]
+### 16.4. Notification of reporting restrictions[^c-de9c6ef1b5ac9f4e3261ea31ff3a80de]
 
 (1) Where the sheriff makes an order, the sheriff clerk must immediately—
 
 - (a) send a copy of the order to any interested person;
 - (b) arrange for the publication of the making of the order on the Scottish Courts and Tribunals Service website.
 
-### 16.5. Applications for variation or revocation[^key-d699d330b16103a50bf76047024a8378]
+### 16.5. Applications for variation or revocation[^c-d699d330b16103a50bf76047024a8378]
 
 (1) A person aggrieved by an order may apply to the sheriff for its variation or revocation.
 
@@ -959,25 +959,25 @@ Edinburgh
 
 6th October 2016
 
-## SCHEDULE 1 — FORMS[^key-4d7e9468236a62fed00756095a52e01e]
+## SCHEDULE 1 — FORMS[^c-4d7e9468236a62fed00756095a52e01e]
 
 Rule 1.4(1)
 
-[^key-1a0e06ebefc32954c9345c758b33046f]Form 6.1A
+[^c-1a0e06ebefc32954c9345c758b33046f]Form 6.1A
 
-## SCHEDULE 2 — FORMS FOR USE IN REGISTER OF INHIBITIONS[^key-f25e0c8a74ab1473d2d807e47796d3f8]
+## SCHEDULE 2 — FORMS FOR USE IN REGISTER OF INHIBITIONS[^c-f25e0c8a74ab1473d2d807e47796d3f8]
 
 Rule 1.4(2)
 
 ### APPENDIX
 
-[^key-f25e0c8a74ab1473d2d807e47796d3f8]
+[^c-f25e0c8a74ab1473d2d807e47796d3f8]
 
 ## SCHEDULE 3 — SERVICE OF DOCUMENTS FURTH OF SCOTLAND
 
 Rule 6.5
 
-### 1. Interpretation of this Schedule[^key-99122d5ecf1d0cfcb61093974a859833]
+### 1. Interpretation of this Schedule[^c-99122d5ecf1d0cfcb61093974a859833]
 
 In this Schedule—
 
@@ -988,7 +988,7 @@ In this Schedule—
 - “postal service” is to be construed in accordance with paragraph 10;
 - “Service Regulation” means Regulation (E.C.) No. 1393/2007 of the European Parliament and of the Council of 13th November 2007 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents), and repealing Council Regulation (E.C.) No. 1348/2000, as amended from time to time.
 
-### 2. Service furth of Scotland[^key-3e32a3a40bc1e65cf6ea5feb10a3422c]
+### 2. Service furth of Scotland[^c-3e32a3a40bc1e65cf6ea5feb10a3422c]
 
 (1) Service of a document furth of Scotland is to be effected in accordance with this paragraph.
 
@@ -1002,7 +1002,7 @@ In this Schedule—
 
 (6) If none of the above applies, see paragraph 7.
 
-### 3. Service in England and Wales etc.[^key-dd347abc79eb19a73862b95cc589539d]
+### 3. Service in England and Wales etc.[^c-dd347abc79eb19a73862b95cc589539d]
 
 (1) A document may be served in England and Wales, Northern Ireland, the Isle of Man or the Channel Islands by—
 
@@ -1011,7 +1011,7 @@ In this Schedule—
 
 (2) Personal service may be effected by a person who is authorised to do so under the domestic law of the place where the document is to be served.
 
-### 4. Service in an EU member state[^key-a9c2a93eedd328fdae3026eb8647a53e]
+### 4. Service in an EU member state[^c-a9c2a93eedd328fdae3026eb8647a53e]
 
 (1) A document may be served in an EU member state (including Denmark) under the Service Regulation by—
 
@@ -1026,7 +1026,7 @@ In this Schedule—
 
 (4) Where service is to be effected by transmitting agency, the party must give the messenger-at-arms a translation of the document into a language which the recipient understands or an official language of the member state where the document is to be served.
 
-### 5. Service in a Hague Convention country[^key-783c97b87daeeb033d33ffd2c024b10f]
+### 5. Service in a Hague Convention country[^c-783c97b87daeeb033d33ffd2c024b10f]
 
 (1) A document may be served in a Hague Convention country (other than an EU member state) by—
 
@@ -1041,11 +1041,11 @@ In this Schedule—
 
 (4) Any document must be accompanied by a translation into an official language of the country where it is to be served, unless English is an official language of that country.
 
-### 6. Service in a country with which the United Kingdom has a convention about how to serve court documents[^key-afe3457b42081f3f8ebd92477aa9de90]
+### 6. Service in a country with which the United Kingdom has a convention about how to serve court documents[^c-afe3457b42081f3f8ebd92477aa9de90]
 
 A document may be served in a country with which the United Kingdom has a convention about how to serve court documents by any method that is permitted by the convention.
 
-### 7. Service in any other country[^key-9a51b57976468df1af7b75a85b2b6bd6]
+### 7. Service in any other country[^c-9a51b57976468df1af7b75a85b2b6bd6]
 
 (1) Where none of paragraphs 3 to 6 apply, a document may be served by—
 
@@ -1059,7 +1059,7 @@ A document may be served in a country with which the United Kingdom has a conven
 - (a) practises or has practised law in that country; or
 - (b) is an accredited representative of that country’s government, conversant with the law of that country.
 
-### 8. Consular service[^key-b9e6f0ef5b39437a612e739614869ad0]
+### 8. Consular service[^c-b9e6f0ef5b39437a612e739614869ad0]
 
 (1) Consular service is service by a British consular authority.
 
@@ -1068,15 +1068,15 @@ A document may be served in a country with which the United Kingdom has a conven
 - (a) the law of the member state where the document is to be served permits it; or
 - (b) the document is being served on a British national.
 
-(3) Consular service may be effected by sending the document to the Secretary of State for Foreign, Commonwealth and Development Affairs[^key-254828b6df865acdc53413c4f0483769] and asking the Secretary of State to arrange for it to be served by a British consular authority.
+(3) Consular service may be effected by sending the document to the Secretary of State for Foreign, Commonwealth and Development Affairs[^c-254828b6df865acdc53413c4f0483769] and asking the Secretary of State to arrange for it to be served by a British consular authority.
 
-### 9. Personal service[^key-64aad6c9eb1b1dc8108bf42acccaabad]
+### 9. Personal service[^c-64aad6c9eb1b1dc8108bf42acccaabad]
 
 (1) Personal service is service using the rules for personal service under the domestic law of the place where the document is to be served.
 
 (2) Personal service may be effected by a person who is authorised to do so under the domestic law of the place where the document is to be served.
 
-### 10. Postal service[^key-334fad863b616bc1fb3b96d4e54e7cb4]
+### 10. Postal service[^c-334fad863b616bc1fb3b96d4e54e7cb4]
 
 (1) Postal service is service by posting the document to the person’s home or business address using a postal service which records delivery.
 
@@ -1086,7 +1086,7 @@ A document may be served in a country with which the United Kingdom has a conven
 
 (4) That label must be translated into an official language of the country where the document is to be served, unless English is an official language of that country.
 
-### 11. Certification of translations[^key-eacf743c02c1151eb8f4c077834440d6]
+### 11. Certification of translations[^c-eacf743c02c1151eb8f4c077834440d6]
 
 (1) This paragraph applies where this schedule requires a document to be translated into a language other than English.
 
@@ -1117,206 +1117,206 @@ Schedule 2 to the Act of Sederunt also prescribes certain forms for use in the R
 
 [^f00005]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1)(a), and by the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), schedule, Part 1.
 
-[^key-b9f304ca31bc5129e164c7523160f0ba]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-b9f304ca31bc5129e164c7523160f0ba]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-59e6d3f73c7bb59a9608a6bac56adbfe]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/ssi/2016/313/rule/1.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-59e6d3f73c7bb59a9608a6bac56adbfe]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/ssi/2016/313/rule/1.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-7c9f562304fe970b81c9257b3a9fab77]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.2/1) substituted (26.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Regulation (EU) 2015/848) 2017 (S.S.I. 2017/202)](https://www.legislation.gov.uk/ssi/2017/202), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/202/paragraph/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/202/paragraph/2/2/a) (with [para. 6](https://www.legislation.gov.uk/ssi/2017/202/paragraph/6))
+[^c-7c9f562304fe970b81c9257b3a9fab77]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.2/1) substituted (26.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Regulation (EU) 2015/848) 2017 (S.S.I. 2017/202)](https://www.legislation.gov.uk/ssi/2017/202), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/202/paragraph/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/202/paragraph/2/2/a) (with [para. 6](https://www.legislation.gov.uk/ssi/2017/202/paragraph/6))
 
 [^f00007]: Footnote: [S.I. 2006/1030](https://www.legislation.gov.uk/uksi/2006/1030), to which there are amendments not relevant to this Act of Sederunt.
 
 [^f00008]: Footnote: [1924 c. 27](https://www.legislation.gov.uk/ukpga/1924/27). Section 44 was amended by the Conveyancing Amendment (Scotland) Act [1938 (c. 24)](https://www.legislation.gov.uk/ukpga/1938/24), section 7(1)(b); the Bankruptcy (Scotland) Act [1985 (c. 66)](https://www.legislation.gov.uk/ukpga/1985/66), section 75, schedule 7, paragraph 5, and schedule 8; the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c.73)](https://www.legislation.gov.uk/ukpga/1985/73), section 59 and schedule 2, paragraph 6; the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), section 156; and the Land Registration etc. (Scotland) Act [2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), schedule 5, paragraph 9(4).
 
-[^key-edb9c73fc1189dc3c8e85222e3b1febd]: Textual amendment: Words in [rule 1.2(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.2/2) substituted (26.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Regulation (EU) 2015/848) 2017 (S.S.I. 2017/202)](https://www.legislation.gov.uk/ssi/2017/202), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/202/paragraph/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/202/paragraph/2/2/b) (with [para. 6](https://www.legislation.gov.uk/ssi/2017/202/paragraph/6))
+[^c-edb9c73fc1189dc3c8e85222e3b1febd]: Textual amendment: Words in [rule 1.2(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.2/2) substituted (26.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Regulation (EU) 2015/848) 2017 (S.S.I. 2017/202)](https://www.legislation.gov.uk/ssi/2017/202), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/202/paragraph/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/202/paragraph/2/2/b) (with [para. 6](https://www.legislation.gov.uk/ssi/2017/202/paragraph/6))
 
-[^key-b57d5f0068897ac049dd71ac99027aa2]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/ssi/2016/313/rule/1.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-b57d5f0068897ac049dd71ac99027aa2]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/ssi/2016/313/rule/1.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-ead2ad531fd29c9cd2b9f71e4c59c4b4]: Commencement: [Rule 1.4](https://www.legislation.gov.uk/ssi/2016/313/rule/1.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-ead2ad531fd29c9cd2b9f71e4c59c4b4]: Commencement: [Rule 1.4](https://www.legislation.gov.uk/ssi/2016/313/rule/1.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-afa0245541bac415867bced25e1699ec]: Commencement: [Rule 1.5](https://www.legislation.gov.uk/ssi/2016/313/rule/1.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-afa0245541bac415867bced25e1699ec]: Commencement: [Rule 1.5](https://www.legislation.gov.uk/ssi/2016/313/rule/1.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-3d5f82c5b5a696cc225da5fc9e0d0d9e]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/ssi/2016/313/rule/2.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-3d5f82c5b5a696cc225da5fc9e0d0d9e]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/ssi/2016/313/rule/2.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-e3fd6889c43a37bafc941ae694837891]: Commencement: [Rule 3.1](https://www.legislation.gov.uk/ssi/2016/313/rule/3.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-e3fd6889c43a37bafc941ae694837891]: Commencement: [Rule 3.1](https://www.legislation.gov.uk/ssi/2016/313/rule/3.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-ffcaba5bf52ff0a54e2eb85f9d224664]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/ssi/2016/313/rule/3.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-ffcaba5bf52ff0a54e2eb85f9d224664]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/ssi/2016/313/rule/3.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-b20ae71fe27fc6c72faa2241ddeef8bc]: Commencement: [Rule 4.1](https://www.legislation.gov.uk/ssi/2016/313/rule/4.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-b20ae71fe27fc6c72faa2241ddeef8bc]: Commencement: [Rule 4.1](https://www.legislation.gov.uk/ssi/2016/313/rule/4.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-c1cedcc805cea2e311ed68451756f3e0]: Commencement: [Rule 4.2](https://www.legislation.gov.uk/ssi/2016/313/rule/4.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-c1cedcc805cea2e311ed68451756f3e0]: Commencement: [Rule 4.2](https://www.legislation.gov.uk/ssi/2016/313/rule/4.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-18b3438536aa1f0c10e2d0e46b0a7520]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/ssi/2016/313/rule/4.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-18b3438536aa1f0c10e2d0e46b0a7520]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/ssi/2016/313/rule/4.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-d4522f20bbcbe1e16a2a447720ec2be5]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/ssi/2016/313/rule/4.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-d4522f20bbcbe1e16a2a447720ec2be5]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/ssi/2016/313/rule/4.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-68da90df1f35ce63f59cde0f5dae7053]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/ssi/2016/313/rule/4.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-68da90df1f35ce63f59cde0f5dae7053]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/ssi/2016/313/rule/4.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
 [^f00009]: Footnote: [1975 c. 47](https://www.legislation.gov.uk/ukpga/1975/47).
 
-[^key-0ca517f4a45b9f18823b48c28f5d216a]: Commencement: [Rule 4.6](https://www.legislation.gov.uk/ssi/2016/313/rule/4.6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-0ca517f4a45b9f18823b48c28f5d216a]: Commencement: [Rule 4.6](https://www.legislation.gov.uk/ssi/2016/313/rule/4.6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-fe7041c9b9cb89ad9561dbf2acce2d79]: Commencement: [Rule 5.1](https://www.legislation.gov.uk/ssi/2016/313/rule/5.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-fe7041c9b9cb89ad9561dbf2acce2d79]: Commencement: [Rule 5.1](https://www.legislation.gov.uk/ssi/2016/313/rule/5.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-2777fc1ac99e48421cf94e9e362e82d4]: Commencement: [Rule 5.2](https://www.legislation.gov.uk/ssi/2016/313/rule/5.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-2777fc1ac99e48421cf94e9e362e82d4]: Commencement: [Rule 5.2](https://www.legislation.gov.uk/ssi/2016/313/rule/5.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-5c41703e72b57adcfe0d66168ceaa76c]: Commencement: [Rule 5.3](https://www.legislation.gov.uk/ssi/2016/313/rule/5.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-5c41703e72b57adcfe0d66168ceaa76c]: Commencement: [Rule 5.3](https://www.legislation.gov.uk/ssi/2016/313/rule/5.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-b3795198211a8d4f79c5a7de878c1a27]: Commencement: [Rule 5.4](https://www.legislation.gov.uk/ssi/2016/313/rule/5.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-b3795198211a8d4f79c5a7de878c1a27]: Commencement: [Rule 5.4](https://www.legislation.gov.uk/ssi/2016/313/rule/5.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-e23ad0f9c041c65eae9ee8b5a2a9982c]: Commencement: [Rule 5.5](https://www.legislation.gov.uk/ssi/2016/313/rule/5.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-e23ad0f9c041c65eae9ee8b5a2a9982c]: Commencement: [Rule 5.5](https://www.legislation.gov.uk/ssi/2016/313/rule/5.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-df6feb367953ee0343d5c9a79bb16386]: Commencement: [Rule 5.6](https://www.legislation.gov.uk/ssi/2016/313/rule/5.6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-df6feb367953ee0343d5c9a79bb16386]: Commencement: [Rule 5.6](https://www.legislation.gov.uk/ssi/2016/313/rule/5.6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-b82775da277738ff9f16a068867ffca5]: Commencement: [Rule 5.7](https://www.legislation.gov.uk/ssi/2016/313/rule/5.7) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-b82775da277738ff9f16a068867ffca5]: Commencement: [Rule 5.7](https://www.legislation.gov.uk/ssi/2016/313/rule/5.7) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-3b3527d95afd3d5421afd44f2d697f6f]: Commencement: [Rule 5.8](https://www.legislation.gov.uk/ssi/2016/313/rule/5.8) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-3b3527d95afd3d5421afd44f2d697f6f]: Commencement: [Rule 5.8](https://www.legislation.gov.uk/ssi/2016/313/rule/5.8) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-a6e84de7d84ec007263e459b3dca6ce0]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/ssi/2016/313/rule/6.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-a6e84de7d84ec007263e459b3dca6ce0]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/ssi/2016/313/rule/6.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-987ebe9f0c8050a7c83e0ea595185d0d]: Commencement: [Rule 6.2](https://www.legislation.gov.uk/ssi/2016/313/rule/6.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-987ebe9f0c8050a7c83e0ea595185d0d]: Commencement: [Rule 6.2](https://www.legislation.gov.uk/ssi/2016/313/rule/6.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-4fbfd459b4eb6e361dd295def74b1b60]: Textual amendment: [Rule 6.2A](https://www.legislation.gov.uk/ssi/2016/313/rule/6.2A) inserted (15.12.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Electronic Authentication) 2016 (S.S.I. 2016/415)](https://www.legislation.gov.uk/ssi/2016/415), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/3/2)
+[^c-4fbfd459b4eb6e361dd295def74b1b60]: Textual amendment: [Rule 6.2A](https://www.legislation.gov.uk/ssi/2016/313/rule/6.2A) inserted (15.12.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Electronic Authentication) 2016 (S.S.I. 2016/415)](https://www.legislation.gov.uk/ssi/2016/415), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/3/2)
 
-[^key-4878a6e88a34170f04ca107765057280]: Commencement: [Rule 6.3](https://www.legislation.gov.uk/ssi/2016/313/rule/6.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-4878a6e88a34170f04ca107765057280]: Commencement: [Rule 6.3](https://www.legislation.gov.uk/ssi/2016/313/rule/6.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-823e2cf91fce8f8140393fb39f887f77]: Commencement: [Rule 6.4](https://www.legislation.gov.uk/ssi/2016/313/rule/6.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-823e2cf91fce8f8140393fb39f887f77]: Commencement: [Rule 6.4](https://www.legislation.gov.uk/ssi/2016/313/rule/6.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
 [^f00010]: Footnote: [1882 c. 77](https://www.legislation.gov.uk/ukpga/1882/77).
 
-[^key-d4bc0f3306e1f9fc4445f8a4a560b4a5]: Commencement: [Rule 6.5](https://www.legislation.gov.uk/ssi/2016/313/rule/6.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-d4bc0f3306e1f9fc4445f8a4a560b4a5]: Commencement: [Rule 6.5](https://www.legislation.gov.uk/ssi/2016/313/rule/6.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-edb1b0fc5f50e0d5ed8e9a79b5c2b246]: Commencement: [Rule 6.6](https://www.legislation.gov.uk/ssi/2016/313/rule/6.6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-edb1b0fc5f50e0d5ed8e9a79b5c2b246]: Commencement: [Rule 6.6](https://www.legislation.gov.uk/ssi/2016/313/rule/6.6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-604e5f2dbaad9efd4cb408986bd40e65]: Commencement: [Rule 6.7](https://www.legislation.gov.uk/ssi/2016/313/rule/6.7) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-604e5f2dbaad9efd4cb408986bd40e65]: Commencement: [Rule 6.7](https://www.legislation.gov.uk/ssi/2016/313/rule/6.7) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-d26ffa3ee8a4088e975f77a71a95c40c]: Commencement: [Rule 7.1](https://www.legislation.gov.uk/ssi/2016/313/rule/7.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-d26ffa3ee8a4088e975f77a71a95c40c]: Commencement: [Rule 7.1](https://www.legislation.gov.uk/ssi/2016/313/rule/7.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-61b51072ecd88d1f570ee49b67ea6c38]: Textual amendment: [Rule 7.1A](https://www.legislation.gov.uk/ssi/2016/313/rule/7.1A) inserted (15.12.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Electronic Authentication) 2016 (S.S.I. 2016/415)](https://www.legislation.gov.uk/ssi/2016/415), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/3/3)
+[^c-61b51072ecd88d1f570ee49b67ea6c38]: Textual amendment: [Rule 7.1A](https://www.legislation.gov.uk/ssi/2016/313/rule/7.1A) inserted (15.12.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Electronic Authentication) 2016 (S.S.I. 2016/415)](https://www.legislation.gov.uk/ssi/2016/415), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/3/3)
 
-[^key-8ef1693488d93445090cd1ff57a6e2c8]: Commencement: [Rule 7.2](https://www.legislation.gov.uk/ssi/2016/313/rule/7.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-8ef1693488d93445090cd1ff57a6e2c8]: Commencement: [Rule 7.2](https://www.legislation.gov.uk/ssi/2016/313/rule/7.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-338fcfeac82305d93a979e8c42fcc67f]: Commencement: [Rule 7.3](https://www.legislation.gov.uk/ssi/2016/313/rule/7.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-338fcfeac82305d93a979e8c42fcc67f]: Commencement: [Rule 7.3](https://www.legislation.gov.uk/ssi/2016/313/rule/7.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-7df4007c78a83ab20e71efca99df3464]: Commencement: [Rule 7.4](https://www.legislation.gov.uk/ssi/2016/313/rule/7.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-7df4007c78a83ab20e71efca99df3464]: Commencement: [Rule 7.4](https://www.legislation.gov.uk/ssi/2016/313/rule/7.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-a91c5919e6cd8155185fb53072044402]: Commencement: [Rule 7.5](https://www.legislation.gov.uk/ssi/2016/313/rule/7.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-a91c5919e6cd8155185fb53072044402]: Commencement: [Rule 7.5](https://www.legislation.gov.uk/ssi/2016/313/rule/7.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-ace7f2748afa4dc83614cefe8fa2fe96]: Commencement: [Rule 8.1](https://www.legislation.gov.uk/ssi/2016/313/rule/8.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-ace7f2748afa4dc83614cefe8fa2fe96]: Commencement: [Rule 8.1](https://www.legislation.gov.uk/ssi/2016/313/rule/8.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-f53dc99a68f6f3ba28b3dbe109370b6e]: Commencement: [Rule 8.2](https://www.legislation.gov.uk/ssi/2016/313/rule/8.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-f53dc99a68f6f3ba28b3dbe109370b6e]: Commencement: [Rule 8.2](https://www.legislation.gov.uk/ssi/2016/313/rule/8.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
 [^f00011]: Footnote: [S.I. 2006/1030](https://www.legislation.gov.uk/uksi/2006/1030), last amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472).
 
-[^key-d8f506f33dcdfdf9e31e165cd1495555]: Commencement: [Rule 9.1](https://www.legislation.gov.uk/ssi/2016/313/rule/9.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-d8f506f33dcdfdf9e31e165cd1495555]: Commencement: [Rule 9.1](https://www.legislation.gov.uk/ssi/2016/313/rule/9.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-3141f1a2446d10a77010f5b81fd3f7ad]: Commencement: [Rule 9.2](https://www.legislation.gov.uk/ssi/2016/313/rule/9.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-3141f1a2446d10a77010f5b81fd3f7ad]: Commencement: [Rule 9.2](https://www.legislation.gov.uk/ssi/2016/313/rule/9.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-6258056ebe65843d3b8ed6c51e2955df]: Commencement: [Rule 9.3](https://www.legislation.gov.uk/ssi/2016/313/rule/9.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-6258056ebe65843d3b8ed6c51e2955df]: Commencement: [Rule 9.3](https://www.legislation.gov.uk/ssi/2016/313/rule/9.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-6da775f5863df9809f626b1b0ff227ea]: Commencement: [Rule 10.1](https://www.legislation.gov.uk/ssi/2016/313/rule/10.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-6da775f5863df9809f626b1b0ff227ea]: Commencement: [Rule 10.1](https://www.legislation.gov.uk/ssi/2016/313/rule/10.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
 [^f00012]: Footnote: [S.S.I. 2015/356](https://www.legislation.gov.uk/ssi/2015/356), last amended by [S.S.I. 2016/194](https://www.legislation.gov.uk/ssi/2016/194).
 
-[^key-924d4a4ce4b845018333ea92741e92e5]: Commencement: [Rule 11.1](https://www.legislation.gov.uk/ssi/2016/313/rule/11.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-924d4a4ce4b845018333ea92741e92e5]: Commencement: [Rule 11.1](https://www.legislation.gov.uk/ssi/2016/313/rule/11.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-8fcae58ef6752931f3fb7c0441467f09]: Commencement: [Rule 11.2](https://www.legislation.gov.uk/ssi/2016/313/rule/11.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-8fcae58ef6752931f3fb7c0441467f09]: Commencement: [Rule 11.2](https://www.legislation.gov.uk/ssi/2016/313/rule/11.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-db15559040d3a89c80723e68006a25a0]: Commencement: [Rule 11.3](https://www.legislation.gov.uk/ssi/2016/313/rule/11.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-db15559040d3a89c80723e68006a25a0]: Commencement: [Rule 11.3](https://www.legislation.gov.uk/ssi/2016/313/rule/11.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-4f6f721a2f1d0a0e01e91cfa1e2ec7da]: Commencement: [Rule 11.4](https://www.legislation.gov.uk/ssi/2016/313/rule/11.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-4f6f721a2f1d0a0e01e91cfa1e2ec7da]: Commencement: [Rule 11.4](https://www.legislation.gov.uk/ssi/2016/313/rule/11.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-ca2ed330250f4b67d96630e920dc7f70]: Commencement: [Rule 11.5](https://www.legislation.gov.uk/ssi/2016/313/rule/11.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-ca2ed330250f4b67d96630e920dc7f70]: Commencement: [Rule 11.5](https://www.legislation.gov.uk/ssi/2016/313/rule/11.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-a53c4d6eb3bcbe3d89b97d4164b58c52]: Commencement: [Rule 11.6](https://www.legislation.gov.uk/ssi/2016/313/rule/11.6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-a53c4d6eb3bcbe3d89b97d4164b58c52]: Commencement: [Rule 11.6](https://www.legislation.gov.uk/ssi/2016/313/rule/11.6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-0c4cff8ddaee6f5d8595df77aa9886a3]: Commencement: [Rule 11.7](https://www.legislation.gov.uk/ssi/2016/313/rule/11.7) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-0c4cff8ddaee6f5d8595df77aa9886a3]: Commencement: [Rule 11.7](https://www.legislation.gov.uk/ssi/2016/313/rule/11.7) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-58ad75fc3aaa1a47ee4579a31865e662]: Commencement: [Rule 11.8](https://www.legislation.gov.uk/ssi/2016/313/rule/11.8) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-58ad75fc3aaa1a47ee4579a31865e662]: Commencement: [Rule 11.8](https://www.legislation.gov.uk/ssi/2016/313/rule/11.8) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-e8e75b2a9c531d1d490675a810345ff5]: Commencement: [Rule 11.9](https://www.legislation.gov.uk/ssi/2016/313/rule/11.9) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-e8e75b2a9c531d1d490675a810345ff5]: Commencement: [Rule 11.9](https://www.legislation.gov.uk/ssi/2016/313/rule/11.9) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-8625814390df0c64d0518c6734feaebf]: Commencement: [Rule 11.10](https://www.legislation.gov.uk/ssi/2016/313/rule/11.10) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-8625814390df0c64d0518c6734feaebf]: Commencement: [Rule 11.10](https://www.legislation.gov.uk/ssi/2016/313/rule/11.10) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-3fced9ef8f137e7d1dff9504c18e99eb]: Commencement: [Rule 12.1](https://www.legislation.gov.uk/ssi/2016/313/rule/12.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-3fced9ef8f137e7d1dff9504c18e99eb]: Commencement: [Rule 12.1](https://www.legislation.gov.uk/ssi/2016/313/rule/12.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-e59b12ae36ba6710209249c67697e181]: Commencement: [Rule 12.2](https://www.legislation.gov.uk/ssi/2016/313/rule/12.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-e59b12ae36ba6710209249c67697e181]: Commencement: [Rule 12.2](https://www.legislation.gov.uk/ssi/2016/313/rule/12.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-fc58cdc92d10cfb05cf0cb7dd239e983]: Commencement: [Rule 12.3](https://www.legislation.gov.uk/ssi/2016/313/rule/12.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-fc58cdc92d10cfb05cf0cb7dd239e983]: Commencement: [Rule 12.3](https://www.legislation.gov.uk/ssi/2016/313/rule/12.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-418223b798a98efe78a99b69f998f135]: Commencement: [Rule 12.4](https://www.legislation.gov.uk/ssi/2016/313/rule/12.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-418223b798a98efe78a99b69f998f135]: Commencement: [Rule 12.4](https://www.legislation.gov.uk/ssi/2016/313/rule/12.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-55b0e3920d6c3ba8c79ccfa9dd32b234]: Commencement: [Rule 13.1](https://www.legislation.gov.uk/ssi/2016/313/rule/13.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-55b0e3920d6c3ba8c79ccfa9dd32b234]: Commencement: [Rule 13.1](https://www.legislation.gov.uk/ssi/2016/313/rule/13.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-67fea5f202a8373e61b56629f3f31d04]: Commencement: [Rule 13.2](https://www.legislation.gov.uk/ssi/2016/313/rule/13.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-67fea5f202a8373e61b56629f3f31d04]: Commencement: [Rule 13.2](https://www.legislation.gov.uk/ssi/2016/313/rule/13.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-6b94ef9710ad9b870b1d8fd40126cf0b]: Commencement: [Rule 13.3](https://www.legislation.gov.uk/ssi/2016/313/rule/13.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-6b94ef9710ad9b870b1d8fd40126cf0b]: Commencement: [Rule 13.3](https://www.legislation.gov.uk/ssi/2016/313/rule/13.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-ea4e555c2b439a856a721d691557bd03]: Commencement: [Rule 13.4](https://www.legislation.gov.uk/ssi/2016/313/rule/13.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-ea4e555c2b439a856a721d691557bd03]: Commencement: [Rule 13.4](https://www.legislation.gov.uk/ssi/2016/313/rule/13.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-da741b2d80524ea9acb86fac15aa252a]: Commencement: [Rule 14.1](https://www.legislation.gov.uk/ssi/2016/313/rule/14.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-da741b2d80524ea9acb86fac15aa252a]: Commencement: [Rule 14.1](https://www.legislation.gov.uk/ssi/2016/313/rule/14.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
 [^f00013]: Footnote: [2004 asp 3](https://www.legislation.gov.uk/asp/2004/3).
 
-[^key-8f4883d0d2b23ec3a70045d10a5746c8]: Commencement: [Rule 14.2](https://www.legislation.gov.uk/ssi/2016/313/rule/14.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-8f4883d0d2b23ec3a70045d10a5746c8]: Commencement: [Rule 14.2](https://www.legislation.gov.uk/ssi/2016/313/rule/14.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-75be114355870c14916c89cb30ea2f0f]: Commencement: [Rule 14.3](https://www.legislation.gov.uk/ssi/2016/313/rule/14.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-75be114355870c14916c89cb30ea2f0f]: Commencement: [Rule 14.3](https://www.legislation.gov.uk/ssi/2016/313/rule/14.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-cd5b7be607575edf31fc3587b2446dce]: Commencement: [Rule 14.4](https://www.legislation.gov.uk/ssi/2016/313/rule/14.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-cd5b7be607575edf31fc3587b2446dce]: Commencement: [Rule 14.4](https://www.legislation.gov.uk/ssi/2016/313/rule/14.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-e51463bb49ff3a6bb4102348aa580a3e]: Commencement: [Rule 14.5](https://www.legislation.gov.uk/ssi/2016/313/rule/14.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-e51463bb49ff3a6bb4102348aa580a3e]: Commencement: [Rule 14.5](https://www.legislation.gov.uk/ssi/2016/313/rule/14.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-ab4004d3b8712dbdefbfd467cc7a3d48]: Commencement: [Rule 14.6](https://www.legislation.gov.uk/ssi/2016/313/rule/14.6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-ab4004d3b8712dbdefbfd467cc7a3d48]: Commencement: [Rule 14.6](https://www.legislation.gov.uk/ssi/2016/313/rule/14.6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-37efca1e6f77fe3f67ae5aafb8b232f2]: Commencement: [Rule 14.7](https://www.legislation.gov.uk/ssi/2016/313/rule/14.7) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-37efca1e6f77fe3f67ae5aafb8b232f2]: Commencement: [Rule 14.7](https://www.legislation.gov.uk/ssi/2016/313/rule/14.7) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-940ae79c22d7b4fceeb35c171fa60d81]: Commencement: [Rule 14.8](https://www.legislation.gov.uk/ssi/2016/313/rule/14.8) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-940ae79c22d7b4fceeb35c171fa60d81]: Commencement: [Rule 14.8](https://www.legislation.gov.uk/ssi/2016/313/rule/14.8) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-fcb19e485c04dc61d76d79841d05dea7]: Commencement: [Rule 14.9](https://www.legislation.gov.uk/ssi/2016/313/rule/14.9) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-fcb19e485c04dc61d76d79841d05dea7]: Commencement: [Rule 14.9](https://www.legislation.gov.uk/ssi/2016/313/rule/14.9) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-2a0ab873c45908fd4a09fe6e128083e3]: Commencement: [Rule 15.1](https://www.legislation.gov.uk/ssi/2016/313/rule/15.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-2a0ab873c45908fd4a09fe6e128083e3]: Commencement: [Rule 15.1](https://www.legislation.gov.uk/ssi/2016/313/rule/15.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-4e2fdcca4b3496f0f482c067377e43ca]: Commencement: [Rule 15.2](https://www.legislation.gov.uk/ssi/2016/313/rule/15.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-4e2fdcca4b3496f0f482c067377e43ca]: Commencement: [Rule 15.2](https://www.legislation.gov.uk/ssi/2016/313/rule/15.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-95bf720b4749f1f341598d7dba54b52d]: Commencement: [Rule 16.1](https://www.legislation.gov.uk/ssi/2016/313/rule/16.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-95bf720b4749f1f341598d7dba54b52d]: Commencement: [Rule 16.1](https://www.legislation.gov.uk/ssi/2016/313/rule/16.1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-1426a8614a71d6c6dd3cdac24b6e2af2]: Commencement: [Rule 16.2](https://www.legislation.gov.uk/ssi/2016/313/rule/16.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-1426a8614a71d6c6dd3cdac24b6e2af2]: Commencement: [Rule 16.2](https://www.legislation.gov.uk/ssi/2016/313/rule/16.2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-2ff9e17ac32e266c7a32c2977ca05ca1]: Commencement: [Rule 16.3](https://www.legislation.gov.uk/ssi/2016/313/rule/16.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-2ff9e17ac32e266c7a32c2977ca05ca1]: Commencement: [Rule 16.3](https://www.legislation.gov.uk/ssi/2016/313/rule/16.3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-de9c6ef1b5ac9f4e3261ea31ff3a80de]: Commencement: [Rule 16.4](https://www.legislation.gov.uk/ssi/2016/313/rule/16.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-de9c6ef1b5ac9f4e3261ea31ff3a80de]: Commencement: [Rule 16.4](https://www.legislation.gov.uk/ssi/2016/313/rule/16.4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-d699d330b16103a50bf76047024a8378]: Commencement: [Rule 16.5](https://www.legislation.gov.uk/ssi/2016/313/rule/16.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-d699d330b16103a50bf76047024a8378]: Commencement: [Rule 16.5](https://www.legislation.gov.uk/ssi/2016/313/rule/16.5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-4d7e9468236a62fed00756095a52e01e]: Commencement: Sch. 1 in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-4d7e9468236a62fed00756095a52e01e]: Commencement: Sch. 1 in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-1a0e06ebefc32954c9345c758b33046f]: Textual amendment: Sch. 1 Form 6.1A in the Statement of Facts, paras. 1, 3: words "insolvency practitioner" substituted for "liquidator"; in para. 3 words “Regulation (EU) 2015/848 of the European Parliament and of the Council of 20th May 2015 on insolvency proceedings, as amended from time to time” substituted for “Council Regulation (EC) No. 1346/2000 on insolvency proceedings” (26.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Regulation (EU) 2015/848) 2017 (S.S.I. 2017/202](https://www.legislation.gov.uk/ssi/2017/202)), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/202/article/1/made), [2(3)](https://www.legislation.gov.uk/ssi/2017/202/article/1/made) (with [para. 6](https://www.legislation.gov.uk/ssi/2017/202/article/1/made))
+[^c-1a0e06ebefc32954c9345c758b33046f]: Textual amendment: Sch. 1 Form 6.1A in the Statement of Facts, paras. 1, 3: words "insolvency practitioner" substituted for "liquidator"; in para. 3 words “Regulation (EU) 2015/848 of the European Parliament and of the Council of 20th May 2015 on insolvency proceedings, as amended from time to time” substituted for “Council Regulation (EC) No. 1346/2000 on insolvency proceedings” (26.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Regulation (EU) 2015/848) 2017 (S.S.I. 2017/202](https://www.legislation.gov.uk/ssi/2017/202)), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/202/article/1/made), [2(3)](https://www.legislation.gov.uk/ssi/2017/202/article/1/made) (with [para. 6](https://www.legislation.gov.uk/ssi/2017/202/article/1/made))
 
-[^key-f25e0c8a74ab1473d2d807e47796d3f8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/313/schedule/2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-f25e0c8a74ab1473d2d807e47796d3f8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/313/schedule/2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-99122d5ecf1d0cfcb61093974a859833]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-99122d5ecf1d0cfcb61093974a859833]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/1) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
 [^f00014]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
 [^f00015]: Footnote: See the status table at https://www.hcch.net/en/instruments/conventions/status-table/?cid=17.
 
-[^key-3e32a3a40bc1e65cf6ea5feb10a3422c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-3e32a3a40bc1e65cf6ea5feb10a3422c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/2) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-dd347abc79eb19a73862b95cc589539d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-dd347abc79eb19a73862b95cc589539d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/3) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-a9c2a93eedd328fdae3026eb8647a53e]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-a9c2a93eedd328fdae3026eb8647a53e]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/4) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-783c97b87daeeb033d33ffd2c024b10f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-783c97b87daeeb033d33ffd2c024b10f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/5) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-afe3457b42081f3f8ebd92477aa9de90]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-afe3457b42081f3f8ebd92477aa9de90]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/6) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-9a51b57976468df1af7b75a85b2b6bd6]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/7) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-9a51b57976468df1af7b75a85b2b6bd6]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/7) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-b9e6f0ef5b39437a612e739614869ad0]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/8) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-b9e6f0ef5b39437a612e739614869ad0]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/8) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-254828b6df865acdc53413c4f0483769]: Textual amendment: Words in [sch. 3 para. 8(3)](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/8/3) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/26)
+[^c-254828b6df865acdc53413c4f0483769]: Textual amendment: Words in [sch. 3 para. 8(3)](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/8/3) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/26)
 
-[^key-64aad6c9eb1b1dc8108bf42acccaabad]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/9) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-64aad6c9eb1b1dc8108bf42acccaabad]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/9) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-334fad863b616bc1fb3b96d4e54e7cb4]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/10) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-334fad863b616bc1fb3b96d4e54e7cb4]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/10) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
-[^key-eacf743c02c1151eb8f4c077834440d6]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/11) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-eacf743c02c1151eb8f4c077834440d6]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ssi/2016/313/schedule/3/paragraph/11) in force at 30.11.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)

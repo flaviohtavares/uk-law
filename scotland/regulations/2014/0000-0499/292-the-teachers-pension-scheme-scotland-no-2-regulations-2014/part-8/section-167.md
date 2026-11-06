@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 167. Amount of lump sum payable under regulation 165 instead of a pension credit retirement pension[^key-fe0e024e69ae08f90c60f71e5cf10cf5]
+## 167. Amount of lump sum payable under regulation 165 instead of a pension credit retirement pension[^c-fe0e024e69ae08f90c60f71e5cf10cf5]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe0e024e69ae08f90c60f71e5cf10cf5]: Commencement: [Reg. 167](https://www.legislation.gov.uk/ssi/2014/292/regulation/167) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-fe0e024e69ae08f90c60f71e5cf10cf5]: Commencement: [Reg. 167](https://www.legislation.gov.uk/ssi/2014/292/regulation/167) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

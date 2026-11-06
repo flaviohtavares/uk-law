@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Regulations and orders: restrictions[^key-9b97a77cd0b8bae5f0f324267bb6c9b9]
+## 140. Regulations and orders: restrictions[^c-9b97a77cd0b8bae5f0f324267bb6c9b9]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b97a77cd0b8bae5f0f324267bb6c9b9]: Commencement: S. 140 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-9b97a77cd0b8bae5f0f324267bb6c9b9]: Commencement: S. 140 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

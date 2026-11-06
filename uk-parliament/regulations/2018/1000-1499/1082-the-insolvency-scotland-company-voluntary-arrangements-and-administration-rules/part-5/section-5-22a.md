@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.22A. Adjournment of meeting in, or for the purpose of, a moratorium under Part A1 of the Act[^key-bce3e93e2d8d9a9504fcf9cf04ddfdef]
+## 5.22A. Adjournment of meeting in, or for the purpose of, a moratorium under Part A1 of the Act[^c-bce3e93e2d8d9a9504fcf9cf04ddfdef]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bce3e93e2d8d9a9504fcf9cf04ddfdef]: Textual amendment: [Rule 5.22A](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.22A) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [37](https://www.legislation.gov.uk/uksi/2021/1026/rule/37) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-bce3e93e2d8d9a9504fcf9cf04ddfdef]: Textual amendment: [Rule 5.22A](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.22A) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [37](https://www.legislation.gov.uk/uksi/2021/1026/rule/37) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))

@@ -32,7 +32,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Grouping of Territorial Cooperation Regulations 2007 (revoked)[^key-74f1838e20d290255970875ef0182820]
+The European Grouping of Territorial Cooperation Regulations 2007 (revoked)[^c-74f1838e20d290255970875ef0182820]
 
 Made
 
@@ -46,92 +46,92 @@ Coming into force
 
 1st August 2007
 
-[^key-74f1838e20d290255970875ef0182820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74f1838e20d290255970875ef0182820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — GENERAL[^key-74f1838e20d290255970875ef0182820]
+## PART 1 — GENERAL[^c-74f1838e20d290255970875ef0182820]
 
-### 1. Citation and commencement[^key-74f1838e20d290255970875ef0182820]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-74f1838e20d290255970875ef0182820]
+### 1. Citation and commencement[^c-74f1838e20d290255970875ef0182820]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — PROVISIONS RELATING TO ARTICLES 4, 5, 11, 12, 13 and 14 OF THE EC REGULATION[^key-74f1838e20d290255970875ef0182820]
-
-### 3. Establishment of an EGTC (Article 4(3) of the EC Regulation)[^key-74f1838e20d290255970875ef0182820]
+### 2. Interpretation[^c-74f1838e20d290255970875ef0182820]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Acquisition of legal personality (Article 5(1) of the EC Regulation)[^key-74f1838e20d290255970875ef0182820]
+## PART 2 — PROVISIONS RELATING TO ARTICLES 4, 5, 11, 12, 13 and 14 OF THE EC REGULATION[^c-74f1838e20d290255970875ef0182820]
+
+### 3. Establishment of an EGTC (Article 4(3) of the EC Regulation)[^c-74f1838e20d290255970875ef0182820]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Competent authority and court (Articles 4(4), 13(1) and 14(1) of the EC Regulation)[^key-74f1838e20d290255970875ef0182820]
+### 4. Acquisition of legal personality (Article 5(1) of the EC Regulation)[^c-74f1838e20d290255970875ef0182820]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Budget (Article 11 of the EC Regulation)[^key-74f1838e20d290255970875ef0182820]
+### 5. Competent authority and court (Articles 4(4), 13(1) and 14(1) of the EC Regulation)[^c-74f1838e20d290255970875ef0182820]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Insolvency and winding up (Article 12(1) of the EC Regulation)[^key-74f1838e20d290255970875ef0182820]
+### 6. Budget (Article 11 of the EC Regulation)[^c-74f1838e20d290255970875ef0182820]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — EXERCISE OF MEMBER STATE OPTIONS UNDER THE EC REGULATION[^key-74f1838e20d290255970875ef0182820]
-
-### 8. Prohibition of members with limited liability (Article 12(2) of the EC Regulation)[^key-74f1838e20d290255970875ef0182820]
+### 7. Insolvency and winding up (Article 12(1) of the EC Regulation)[^c-74f1838e20d290255970875ef0182820]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — SUPPLEMENTAL PROVISIONS RELATING TO THE EFFECTIVE APPLICATION OF THE EC REGULATION[^key-74f1838e20d290255970875ef0182820]
+## PART 3 — EXERCISE OF MEMBER STATE OPTIONS UNDER THE EC REGULATION[^c-74f1838e20d290255970875ef0182820]
 
-### 9. Application of the Company Directors Disqualification Act 1986[^key-74f1838e20d290255970875ef0182820]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 10. Penalties[^key-74f1838e20d290255970875ef0182820]
+### 8. Prohibition of members with limited liability (Article 12(2) of the EC Regulation)[^c-74f1838e20d290255970875ef0182820]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74f1838e20d290255970875ef0182820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 4 — SUPPLEMENTAL PROVISIONS RELATING TO THE EFFECTIVE APPLICATION OF THE EC REGULATION[^c-74f1838e20d290255970875ef0182820]
+
+### 9. Application of the Company Directors Disqualification Act 1986[^c-74f1838e20d290255970875ef0182820]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Penalties[^c-74f1838e20d290255970875ef0182820]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-74f1838e20d290255970875ef0182820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-74f1838e20d290255970875ef0182820]
+## SCHEDULE[^c-74f1838e20d290255970875ef0182820]
 
 Regulations 6 and 7
 
-### PART 1 — MODIFICATIONS TO PART 7 OF THE COMPANIES ACT 1985[^key-74f1838e20d290255970875ef0182820]
+### PART 1 — MODIFICATIONS TO PART 7 OF THE COMPANIES ACT 1985[^c-74f1838e20d290255970875ef0182820]
 
-**1.**[^key-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — MODIFICATIONS TO THE INSOLVENCY ACT 1986 AND THE INSOLVENCY (NORTHERN IRELAND) ORDER 1989[^key-74f1838e20d290255970875ef0182820]
+### PART 2 — MODIFICATIONS TO THE INSOLVENCY ACT 1986 AND THE INSOLVENCY (NORTHERN IRELAND) ORDER 1989[^c-74f1838e20d290255970875ef0182820]
 
-**6.**[^key-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — MODIFICATIONS TO THE INSOLVENCY RULES[^key-74f1838e20d290255970875ef0182820]
+### PART 3 — MODIFICATIONS TO THE INSOLVENCY RULES[^c-74f1838e20d290255970875ef0182820]
 
-**8.**[^key-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-74f1838e20d290255970875ef0182820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74f1838e20d290255970875ef0182820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74f1838e20d290255970875ef0182820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74f1838e20d290255970875ef0182820]: Textual amendment: Regulations revoked: Sch. Pt. 1 omitted (6.4.2008) by virtue of [The European Grouping of Territorial Cooperation (Amendment) Regulations 2008 (S.I. 2008/728)](https://www.legislation.gov.uk/uksi/2008/728), [regs. 1](https://www.legislation.gov.uk/uksi/2008/728/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2008/728/regulation/2/7); Regulations revoked (except for Sch. Pts. 2, 3) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [reg. 13(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/13/1) (with [reg. 13(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/13/2)); and Sch. Pts. 2, 3 omitted (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/153/schedule) Table 1
+[^c-74f1838e20d290255970875ef0182820]: Textual amendment: Regulations revoked: Sch. Pt. 1 omitted (6.4.2008) by virtue of [The European Grouping of Territorial Cooperation (Amendment) Regulations 2008 (S.I. 2008/728)](https://www.legislation.gov.uk/uksi/2008/728), [regs. 1](https://www.legislation.gov.uk/uksi/2008/728/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2008/728/regulation/2/7); Regulations revoked (except for Sch. Pts. 2, 3) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [reg. 13(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/13/1) (with [reg. 13(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/13/2)); and Sch. Pts. 2, 3 omitted (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/153/schedule) Table 1

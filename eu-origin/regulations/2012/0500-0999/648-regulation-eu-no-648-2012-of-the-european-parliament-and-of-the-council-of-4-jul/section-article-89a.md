@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 89a. Further transitional provision[^key-0b2e3c26dd7bbbd6224ac2c064283a1d]
+## Article 89a. Further transitional provision[^c-0b2e3c26dd7bbbd6224ac2c064283a1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ C6 energy derivative contracts benefiting from the transitional regime set out i
 
 ## Annotations
 
-[^key-0b2e3c26dd7bbbd6224ac2c064283a1d]: Textual amendment: [Art. 89a](https://www.legislation.gov.uk/eur/2012/648/article/89a) inserted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [59(5)](https://www.legislation.gov.uk/uksi/2019/335/regulation/59/5) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b2e3c26dd7bbbd6224ac2c064283a1d]: Textual amendment: [Art. 89a](https://www.legislation.gov.uk/eur/2012/648/article/89a) inserted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [59(5)](https://www.legislation.gov.uk/uksi/2019/335/regulation/59/5) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

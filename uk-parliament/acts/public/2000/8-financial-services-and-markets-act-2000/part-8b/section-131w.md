@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131W. Power to direct designated persons[^key-fc4ab12a6f7e8c559f905cdc2c6661c9]
+## 131W. Power to direct designated persons[^c-fc4ab12a6f7e8c559f905cdc2c6661c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc4ab12a6f7e8c559f905cdc2c6661c9]: Textual amendment: [Pt. 8B](https://www.legislation.gov.uk/ukpga/2000/8/part/8B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/1)
+[^c-fc4ab12a6f7e8c559f905cdc2c6661c9]: Textual amendment: [Pt. 8B](https://www.legislation.gov.uk/ukpga/2000/8/part/8B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/1)

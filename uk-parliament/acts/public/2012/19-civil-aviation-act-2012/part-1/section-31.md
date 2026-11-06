@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Contravention notice[^key-cd5b3a6209139629fa53164242aa11d4]
+## 31. Contravention notice[^c-cd5b3a6209139629fa53164242aa11d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd5b3a6209139629fa53164242aa11d4]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2012/19/section/31) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-cd5b3a6209139629fa53164242aa11d4]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2012/19/section/31) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

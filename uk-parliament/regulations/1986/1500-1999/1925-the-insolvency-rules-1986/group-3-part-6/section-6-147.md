@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.147. Power of court to set aside certain transactions[^key-066bcaac169777eb636775885551ae04]
+## 6.147. Power of court to set aside certain transactions[^c-066bcaac169777eb636775885551ae04]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-066bcaac169777eb636775885551ae04]: Commencement: [Rule 6.147](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.147) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-066bcaac169777eb636775885551ae04]: Commencement: [Rule 6.147](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.147) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The Health Education England Regulations 2012 (revoked)[^key-65b2f78a92fe6197b78710ca6141df59]
+The Health Education England Regulations 2012 (revoked)[^c-65b2f78a92fe6197b78710ca6141df59]
 
 Made
 
@@ -46,98 +46,98 @@ Coming into force
 
 28th June 2012
 
-[^key-65b2f78a92fe6197b78710ca6141df59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65b2f78a92fe6197b78710ca6141df59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-65b2f78a92fe6197b78710ca6141df59]
+## 1. Citation, commencement and interpretation[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment and tenure of office of members[^key-65b2f78a92fe6197b78710ca6141df59]
+## 2. Appointment and tenure of office of members[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Disqualification for appointment[^key-65b2f78a92fe6197b78710ca6141df59]
+## 3. Disqualification for appointment[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Cessation of disqualification[^key-65b2f78a92fe6197b78710ca6141df59]
+## 4. Cessation of disqualification[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Termination of term of appointment of non-officer members[^key-65b2f78a92fe6197b78710ca6141df59]
+## 5. Termination of term of appointment of non-officer members[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Suspension of non-officer members[^key-65b2f78a92fe6197b78710ca6141df59]
+## 6. Suspension of non-officer members[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Appointment of vice-chair[^key-65b2f78a92fe6197b78710ca6141df59]
+## 7. Appointment of vice-chair[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Appointment of vice-chair where chair is suspended[^key-65b2f78a92fe6197b78710ca6141df59]
+## 8. Appointment of vice-chair where chair is suspended[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Powers of vice-chair[^key-65b2f78a92fe6197b78710ca6141df59]
+## 9. Powers of vice-chair[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Appointment of committees and sub-committees[^key-65b2f78a92fe6197b78710ca6141df59]
+## 10. Appointment of committees and sub-committees[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Arrangements for the exercise of functions[^key-65b2f78a92fe6197b78710ca6141df59]
+## 11. Arrangements for the exercise of functions[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Meetings and proceedings[^key-65b2f78a92fe6197b78710ca6141df59]
+## 12. Meetings and proceedings[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Disability of members in proceedings on account of pecuniary interest[^key-65b2f78a92fe6197b78710ca6141df59]
+## 13. Disability of members in proceedings on account of pecuniary interest[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Reports by HEE[^key-65b2f78a92fe6197b78710ca6141df59]
+## 14. Reports by HEE[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Public meeting[^key-65b2f78a92fe6197b78710ca6141df59]
+## 15. Public meeting[^c-65b2f78a92fe6197b78710ca6141df59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65b2f78a92fe6197b78710ca6141df59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65b2f78a92fe6197b78710ca6141df59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — RULES AS TO MEETINGS AND PROCEEDINGS OF HEE[^key-65b2f78a92fe6197b78710ca6141df59]
+## SCHEDULE — RULES AS TO MEETINGS AND PROCEEDINGS OF HEE[^c-65b2f78a92fe6197b78710ca6141df59]
 
 Regulation 12(1)
 
-**1.**[^key-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-65b2f78a92fe6197b78710ca6141df59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-65b2f78a92fe6197b78710ca6141df59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65b2f78a92fe6197b78710ca6141df59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65b2f78a92fe6197b78710ca6141df59]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1290) revoked (1.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 96(3)(b)](https://www.legislation.gov.uk/ukpga/2014/23/section/96/3/b), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127); [S.I. 2014/3186](https://www.legislation.gov.uk/uksi/2014/3186), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/3186/article/2/a)
+[^c-65b2f78a92fe6197b78710ca6141df59]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1290) revoked (1.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 96(3)(b)](https://www.legislation.gov.uk/ukpga/2014/23/section/96/3/b), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127); [S.I. 2014/3186](https://www.legislation.gov.uk/uksi/2014/3186), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/3186/article/2/a)
 
     **\[Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

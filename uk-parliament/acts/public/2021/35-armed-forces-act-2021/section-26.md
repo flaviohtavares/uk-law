@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Extent in the Channel Islands, Isle of Man and British overseas territories[^key-3f13078ae33694ae91f230546da456c9]
+## 26. Extent in the Channel Islands, Isle of Man and British overseas territories[^c-3f13078ae33694ae91f230546da456c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f13078ae33694ae91f230546da456c9]: Commencement: S. 26 in force at Royal Assent, see [s. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b)
+[^c-3f13078ae33694ae91f230546da456c9]: Commencement: S. 26 in force at Royal Assent, see [s. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b)

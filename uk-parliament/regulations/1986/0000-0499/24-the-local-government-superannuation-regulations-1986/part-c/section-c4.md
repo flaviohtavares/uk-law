@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C4. Absence due to trade dispute[^key-fb6c555a324e5bbbbf432e6e9681da5b]
+## C4. Absence due to trade dispute[^c-fb6c555a324e5bbbbf432e6e9681da5b]
 
 *Extent: E+W+S*
 
@@ -70,7 +70,7 @@ in any period of 12 months ending with 5th April, by way of full or part payment
 
 ## Annotations
 
-[^key-fb6c555a324e5bbbbf432e6e9681da5b]: Commencement: [Reg. C4](https://www.legislation.gov.uk/uksi/1986/24/regulation/C4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-fb6c555a324e5bbbbf432e6e9681da5b]: Commencement: [Reg. C4](https://www.legislation.gov.uk/uksi/1986/24/regulation/C4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00031]: Footnote: [1978 c.44](https://www.legislation.gov.uk/ukpga/1978/44).
 

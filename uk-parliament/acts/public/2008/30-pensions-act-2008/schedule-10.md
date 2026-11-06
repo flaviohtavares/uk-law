@@ -49,7 +49,7 @@ Section 129
 
 **Not yet in force.**
 
-**3.**[^key-dd437e454630a1186cf3f740e094a7d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-dd437e454630a1186cf3f740e094a7d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** In section 173 (Pension Protection Fund), after subsection (1)(b) insert—
 
@@ -115,4 +115,4 @@ Section 129
 
 [^c21653011]: Commencement: Sch 10 para. 2 partly in force; para. 2 not in force at Royal Assent see s. 149(1); para. 2 in force for specified purposes at 26.2.2010 by [S.I. 2010/467](https://www.legislation.gov.uk/uksi/2010/467), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/467/article/2/b)
 
-[^key-dd437e454630a1186cf3f740e094a7d0]: Textual amendment: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2008/30/schedule/10/paragraph/3) omitted (29.4.2026 retrospective to 1.4.2007) by virtue of [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 126(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/126/7), [133(11)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/d)
+[^c-dd437e454630a1186cf3f740e094a7d0]: Textual amendment: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2008/30/schedule/10/paragraph/3) omitted (29.4.2026 retrospective to 1.4.2007) by virtue of [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 126(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/126/7), [133(11)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Written applications[^key-61ac5decf0e338c0b571a8a80018dae1]
+## 23. Written applications[^c-61ac5decf0e338c0b571a8a80018dae1]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61ac5decf0e338c0b571a8a80018dae1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2021/249/regulation/23) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-61ac5decf0e338c0b571a8a80018dae1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2021/249/regulation/23) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

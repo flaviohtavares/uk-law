@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 502. Investments to which Part II of the 1995 Regulations applies[^key-0b7724753f9069938f52b78b33d507ee]
+## 502. Investments to which Part II of the 1995 Regulations applies[^c-0b7724753f9069938f52b78b33d507ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ For regulation 3 of the Public Offers of Securities Regulations 1995 (investment
 
 ## Annotations
 
-[^key-0b7724753f9069938f52b78b33d507ee]: Commencement: Art. 502 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0b7724753f9069938f52b78b33d507ee]: Commencement: Art. 502 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

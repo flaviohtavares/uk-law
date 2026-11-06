@@ -47,12 +47,12 @@ summary: ''
 
 (8) For the purposes of this regulation—
 
-- (a) “associate", in relation to any person who is a director of the company, means that person’s spouse, civil partner,[^key-30ced42b778949b05d8c2ac5c6b33b7b] child or stepchild (if under 18), employee, partner or any body corporate of which that person is a director; and if that person is a body corporate, any subsidiary undertaking or director of that body corporate (including any director or employee of such subsidiary undertaking);
+- (a) “associate", in relation to any person who is a director of the company, means that person’s spouse, civil partner,[^c-30ced42b778949b05d8c2ac5c6b33b7b] child or stepchild (if under 18), employee, partner or any body corporate of which that person is a director; and if that person is a body corporate, any subsidiary undertaking or director of that body corporate (including any director or employee of such subsidiary undertaking);
 - (b) “transaction" includes any act; and
-- (c) the reference in paragraph (1)(b) to any limitation on directors’ powers under the company’s constitution includes any limitation deriving from these Regulations, from FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules or from a resolution of the company in general meeting or of a meeting of any class of shareholders.
+- (c) the reference in paragraph (1)(b) to any limitation on directors’ powers under the company’s constitution includes any limitation deriving from these Regulations, from FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules or from a resolution of the company in general meeting or of a meeting of any class of shareholders.
 
 ## Annotations
 
-[^key-30ced42b778949b05d8c2ac5c6b33b7b]: Textual amendment: Words in reg. 44(8)(a) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 16 para. 5](https://www.legislation.gov.uk/uksi/2005/2114/schedule/16/paragraph/5)
+[^c-30ced42b778949b05d8c2ac5c6b33b7b]: Textual amendment: Words in reg. 44(8)(a) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 16 para. 5](https://www.legislation.gov.uk/uksi/2005/2114/schedule/16/paragraph/5)
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)

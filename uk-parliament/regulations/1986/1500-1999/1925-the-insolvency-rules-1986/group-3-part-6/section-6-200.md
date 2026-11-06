@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.200. Duties of bankrupt in respect of after-acquired property[^key-ed47e1e3bbba56dee7efec86bd36a996]
+## 6.200. Duties of bankrupt in respect of after-acquired property[^c-ed47e1e3bbba56dee7efec86bd36a996]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ The trustee may require the bankrupt to furnish fuller details (including accoun
 
 ## Annotations
 
-[^key-ed47e1e3bbba56dee7efec86bd36a996]: Commencement: [Rule 6.200](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.200) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ed47e1e3bbba56dee7efec86bd36a996]: Commencement: [Rule 6.200](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.200) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

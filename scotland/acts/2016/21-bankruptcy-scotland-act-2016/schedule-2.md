@@ -24,7 +24,7 @@ summary: ''
 
 ### Amount which may be claimed generally
 
-**1.**[^key-79c0545cca5f769130b5e2ef6334ca0b] (1) Subject to the provisions of this schedule, the amount in respect of which a creditor is entitled to claim is the accumulated sum of principal and any interest which is due on the debt as at the date of sequestration.
+**1.**[^c-79c0545cca5f769130b5e2ef6334ca0b] (1) Subject to the provisions of this schedule, the amount in respect of which a creditor is entitled to claim is the accumulated sum of principal and any interest which is due on the debt as at the date of sequestration.
 
 (2) If a debt does not depend on a contingency but would not be payable but for the sequestration until after the date of the sequestration, the amount of the claim must be calculated as if the debt were payable on that date but subject to the deduction of interest at the rate specified in section 129(10) from that date until the date for payment of the debt.
 
@@ -32,7 +32,7 @@ summary: ''
 
 ### Claims for aliment and for periodical allowance on divorce or on dissolution of civil partnership
 
-**2.**[^key-7a53f12fd8e8f602b02b1b71f09037ef] (1) A person entitled to aliment, however arising, from a living debtor as at the date of sequestration, or from a deceased debtor immediately before the debtor's death, is not entitled to include in the amount of the person's claim—
+**2.**[^c-7a53f12fd8e8f602b02b1b71f09037ef] (1) A person entitled to aliment, however arising, from a living debtor as at the date of sequestration, or from a deceased debtor immediately before the debtor's death, is not entitled to include in the amount of the person's claim—
 
 - (a) any unpaid aliment for any period before the date of sequestration unless the amount of the aliment has been quantified by court decree or by any legally binding obligation which is supported by evidence in writing, and—
   - (i) in the case of spouses (or, where the aliment is payable to a divorced person in respect of a child, former spouses), or
@@ -50,7 +50,7 @@ as it applies to aliment and as if, for sub-paragraphs (i) and (ii) of sub-parag
 
 ### Debts depending on contingency
 
-**3.**[^key-f00939b23142991210c00652ff261797] (1) The amount which a creditor is entitled to claim does not include a debt in so far as its existence or amount depend on a contingency.
+**3.**[^c-f00939b23142991210c00652ff261797] (1) The amount which a creditor is entitled to claim does not include a debt in so far as its existence or amount depend on a contingency.
 
 (2) But sub-paragraph (1) is subject to sub-paragraph (3).
 
@@ -82,7 +82,7 @@ the trustee, or AiB, must put a value on the debt in so far as it is contingent.
 
 ### Secured debts
 
-**4.**[^key-99070ad0dae8da7f6aa539dd8d152cb7] (1) A secured creditor, in calculating the amount of the secured creditor's claim, must deduct the value of any security as estimated by the secured creditor.
+**4.**[^c-99070ad0dae8da7f6aa539dd8d152cb7] (1) A secured creditor, in calculating the amount of the secured creditor's claim, must deduct the value of any security as estimated by the secured creditor.
 
 (2) But if the secured creditor surrenders, or undertakes in writing to surrender, a security for the benefit of the debtor's estate, the secured creditor is not required to make a deduction of the value of that security.
 
@@ -94,7 +94,7 @@ the trustee, or AiB, must put a value on the debt in so far as it is contingent.
 
 ### Valuation of claims against partners for debts of the partnership
 
-**5.**[^key-1e5c09deb016b3aaea21fcffe6d16668] (1) Where a creditor claims, in respect of a debt of a partnership, against the estate of one of its partners, the creditor must estimate the value of—
+**5.**[^c-1e5c09deb016b3aaea21fcffe6d16668] (1) Where a creditor claims, in respect of a debt of a partnership, against the estate of one of its partners, the creditor must estimate the value of—
 
 - (a) the debt to the creditor from the firm's estate where that estate has not been sequestrated, or
 - (b) the creditor's claim against that estate where it has been sequestrated,
@@ -105,12 +105,12 @@ and deduct that value from the creditor's claim against the partner's estate.
 
 ## Annotations
 
-[^key-79c0545cca5f769130b5e2ef6334ca0b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/2/paragraph/1) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-79c0545cca5f769130b5e2ef6334ca0b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/2/paragraph/1) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-7a53f12fd8e8f602b02b1b71f09037ef]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2016/21/schedule/2/paragraph/2) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-7a53f12fd8e8f602b02b1b71f09037ef]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2016/21/schedule/2/paragraph/2) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-f00939b23142991210c00652ff261797]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2016/21/schedule/2/paragraph/3) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-f00939b23142991210c00652ff261797]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2016/21/schedule/2/paragraph/3) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-99070ad0dae8da7f6aa539dd8d152cb7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/21/schedule/2/paragraph/4) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-99070ad0dae8da7f6aa539dd8d152cb7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/21/schedule/2/paragraph/4) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-1e5c09deb016b3aaea21fcffe6d16668]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2016/21/schedule/2/paragraph/5) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-1e5c09deb016b3aaea21fcffe6d16668]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2016/21/schedule/2/paragraph/5) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

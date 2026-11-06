@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c13547671] A local traffic authority outside Greater London or a strategic highways company[^key-014fc7cc182c39854ac4c75642e01f21] may make orders—
+(1)[^c13547671] A local traffic authority outside Greater London or a strategic highways company[^c-014fc7cc182c39854ac4c75642e01f21] may make orders—
 
 - (a) for determining the highways or, in Scotland, roads in their area which may or may not be used by public service vehicles;
 - (b) for fixing stands for public service vehicles on such highways or roads;
@@ -50,6 +50,6 @@ and may make different provision for different classes of public service vehicle
 
 [^c13547671]: Textual amendment: Words in s. 19(1) substituted (1.11.1991) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/1), [Sch. 8 para. 31(2)](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/31/2); [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2286/schedule/2); [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2288/schedule)
 
-[^key-014fc7cc182c39854ac4c75642e01f21]: Textual amendment: Words in s. 19(1) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 77](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/77); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-014fc7cc182c39854ac4c75642e01f21]: Textual amendment: Words in s. 19(1) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 77](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/77); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13547681]: Textual amendment: S. 19(3) repealed (1.11.1991) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(1)(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/1/2), [Sch. 8 para. 31(3)](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/31/3), [Sch. 9](https://www.legislation.gov.uk/ukpga/1991/22/schedule/9); [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2286/schedule/2); [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2288/schedule)

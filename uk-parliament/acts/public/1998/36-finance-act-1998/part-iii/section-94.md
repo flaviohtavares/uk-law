@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Approval of personal pension schemes.[^key-ec67cf379c49c6bedb62f5b6cd79e2dd]
+## 94. Approval of personal pension schemes.[^c-ec67cf379c49c6bedb62f5b6cd79e2dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec67cf379c49c6bedb62f5b6cd79e2dd]: Textual amendment: [Ss. 94-97](https://www.legislation.gov.uk/ukpga/1998/36/section/94) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-ec67cf379c49c6bedb62f5b6cd79e2dd]: Textual amendment: [Ss. 94-97](https://www.legislation.gov.uk/ukpga/1998/36/section/94) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

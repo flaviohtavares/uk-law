@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Automatic enrolment: transitional period for hybrid schemes[^key-920427849859eabd0bf5932a5474c866]
+## 40. Automatic enrolment: transitional period for hybrid schemes[^c-920427849859eabd0bf5932a5474c866]
 
 *Extent: E+W+S*
 
@@ -74,4 +74,4 @@ and section 30(3) and (4) of that Act does not apply.
 
 ## Annotations
 
-[^key-920427849859eabd0bf5932a5474c866]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/19/section/40) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(d)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/d)
+[^c-920427849859eabd0bf5932a5474c866]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/19/section/40) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(d)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/d)

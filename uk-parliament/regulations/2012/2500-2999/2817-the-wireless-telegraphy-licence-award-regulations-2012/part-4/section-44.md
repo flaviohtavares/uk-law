@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Valid supplementary bids[^key-dd0d038ef7dca22a6d46820f9a97b357]
+## 44. Valid supplementary bids[^c-dd0d038ef7dca22a6d46820f9a97b357]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A supplementary bid is a valid supplementary bid if the bidder complies with reg
 
 ## Annotations
 
-[^key-dd0d038ef7dca22a6d46820f9a97b357]: Commencement: Reg. 44 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-dd0d038ef7dca22a6d46820f9a97b357]: Commencement: Reg. 44 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

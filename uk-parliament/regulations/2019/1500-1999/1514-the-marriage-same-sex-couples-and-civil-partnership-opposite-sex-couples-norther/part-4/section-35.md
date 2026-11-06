@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Divorce, annulment and judicial separation[^key-2c69e39d84955a01a84bf0c380f5b769]
+## 35. Divorce, annulment and judicial separation[^c-2c69e39d84955a01a84bf0c380f5b769]
 
 *Extent: N.I.*
 
@@ -84,16 +84,16 @@ summary: ''
 
 .
 
-**36.**[^key-d61b227878dc453274a4f72dc0e3ba46][^key-2c69e39d84955a01a84bf0c380f5b769] In Article 2(2) of the Domestic Proceedings (Northern Ireland) Order 1980[^f00056], in the definition of “child”, after “married to” insert “, or civil partners of,”.
+**36.**[^c-d61b227878dc453274a4f72dc0e3ba46][^c-2c69e39d84955a01a84bf0c380f5b769] In Article 2(2) of the Domestic Proceedings (Northern Ireland) Order 1980[^f00056], in the definition of “child”, after “married to” insert “, or civil partners of,”.
 
 ## Annotations
 
-[^key-2c69e39d84955a01a84bf0c380f5b769]: Commencement: Reg. 35 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-2c69e39d84955a01a84bf0c380f5b769]: Commencement: Reg. 35 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00054]: Footnote: In Article 2(2), the definition of “child” was amended by Schedule 9 to the Children (Northern Ireland) Order 1995.
 
 [^f00055]: Footnote: In Article 49, paragraphs (2) and (3) were inserted by regulation 3 of [S.I. 2001/660](https://www.legislation.gov.uk/uksi/2001/660). Other non-relevant amendments have been made to Article 49.
 
-[^key-d61b227878dc453274a4f72dc0e3ba46]: Commencement: Reg. 36 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-d61b227878dc453274a4f72dc0e3ba46]: Commencement: Reg. 36 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00056]: Footnote: [S.I. 1980/563 (N.I. 5)](https://www.legislation.gov.uk/nisi/1980/563). In Article 2(2), the definition of “child” was amended by Schedule 9 to the Children (Northern Ireland) Order 1995.

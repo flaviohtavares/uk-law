@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Supplementary[^key-a801e2a7a3a43050711bec8225ab1f3c]
+## 55. Supplementary[^c-a801e2a7a3a43050711bec8225ab1f3c]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a801e2a7a3a43050711bec8225ab1f3c]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2013/2605/article/55) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-a801e2a7a3a43050711bec8225ab1f3c]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2013/2605/article/55) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

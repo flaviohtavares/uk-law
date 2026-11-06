@@ -28,8 +28,8 @@ summary: ''
 
 who may act in national security proceedings.
 
-(2)[^key-e7b2a08680836efe9cb801091ecc8eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e7b2a08680836efe9cb801091ecc8eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e7b2a08680836efe9cb801091ecc8eb5]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2013/1237/regulation/10/2) omitted (27.1.2024) by virtue of [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2024/94/regulation/8/4) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+[^c-e7b2a08680836efe9cb801091ecc8eb5]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2013/1237/regulation/10/2) omitted (27.1.2024) by virtue of [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2024/94/regulation/8/4) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))

@@ -301,11 +301,11 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 .
 
-## 4. Restrictions on amounts for children and qualifying young persons – consequential changes to Income Support[^key-91e8f4cf7d4e019954f9dee081e02721]
+## 4. Restrictions on amounts for children and qualifying young persons – consequential changes to Income Support[^c-91e8f4cf7d4e019954f9dee081e02721]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restrictions on amounts for children and qualifying young persons – consequential changes to Jobseeker's Allowance[^key-dcc291ed1bd90922ce3b048417655484]
+## 5. Restrictions on amounts for children and qualifying young persons – consequential changes to Jobseeker's Allowance[^c-dcc291ed1bd90922ce3b048417655484]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -397,7 +397,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
   .
 
-## 8. Housing Benefit – transitional provisions for restrictions on amounts for children and qualifying young persons[^key-1a8f539e7f1612e17f6d13a9c92ab071]
+## 8. Housing Benefit – transitional provisions for restrictions on amounts for children and qualifying young persons[^c-1a8f539e7f1612e17f6d13a9c92ab071]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -492,9 +492,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22853501]: Marginal citation: [S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/nisi/2016/999).
 
-[^key-91e8f4cf7d4e019954f9dee081e02721]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2017/79/regulation/4) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/68)](https://www.legislation.gov.uk/nisr/2026/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2026/68/regulation/4/a)
+[^c-91e8f4cf7d4e019954f9dee081e02721]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2017/79/regulation/4) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/68)](https://www.legislation.gov.uk/nisr/2026/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2026/68/regulation/4/a)
 
-[^key-dcc291ed1bd90922ce3b048417655484]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2017/79/regulation/5) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/68)](https://www.legislation.gov.uk/nisr/2026/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2026/68/regulation/4/b)
+[^c-dcc291ed1bd90922ce3b048417655484]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2017/79/regulation/5) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/68)](https://www.legislation.gov.uk/nisr/2026/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2026/68/regulation/4/b)
 
 [^c22853601]: Marginal citation: S,R. [2006 No. 405](https://www.legislation.gov.uk/ukcm/2006/405); relevant amending Regulations are S.R. [2008 No. 378](https://www.legislation.gov.uk/ukcm/2008/378) and S.R. [2010 No. 312](https://www.legislation.gov.uk/ukcm/2010/312)
 
@@ -508,4 +508,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22853651]: Marginal citation: S.R. [2006 No. 406](https://www.legislation.gov.uk/ukcm/2006/406)
 
-[^key-1a8f539e7f1612e17f6d13a9c92ab071]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2017/79/regulation/8) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/68)](https://www.legislation.gov.uk/nisr/2026/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2026/68/regulation/4/c)
+[^c-1a8f539e7f1612e17f6d13a9c92ab071]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2017/79/regulation/8) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations (Northern Ireland) 2026 (S.R. 2026/68)](https://www.legislation.gov.uk/nisr/2026/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2026/68/regulation/4/c)

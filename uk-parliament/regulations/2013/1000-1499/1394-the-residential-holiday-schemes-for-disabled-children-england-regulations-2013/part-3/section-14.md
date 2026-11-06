@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Behaviour management and discipline[^key-f0f1608fc1624cd92a074e95203d9166]
+## 14. Behaviour management and discipline[^c-f0f1608fc1624cd92a074e95203d9166]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ may be used for the control or discipline of children accommodated by the scheme
 
 ## Annotations
 
-[^key-f0f1608fc1624cd92a074e95203d9166]: Commencement: Reg. 14 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-f0f1608fc1624cd92a074e95203d9166]: Commencement: Reg. 14 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

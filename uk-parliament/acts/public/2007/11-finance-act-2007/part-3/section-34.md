@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-73c4dfe42eb2e3564694d935b1be69d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Part 2 of ITTOIA 2005 (trading income) is amended as follows.
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73c4dfe42eb2e3564694d935b1be69d6]: Textual amendment: S. 34(1)-(6) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-73c4dfe42eb2e3564694d935b1be69d6]: Textual amendment: S. 34(1)-(6) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

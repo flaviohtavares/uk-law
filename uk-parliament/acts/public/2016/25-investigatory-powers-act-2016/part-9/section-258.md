@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258. Approval of notices following review under section 257[^key-0a93f4c2838c5c3336e0230e99525c45]
+## 258. Approval of notices following review under section 257[^c-0a93f4c2838c5c3336e0230e99525c45]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a93f4c2838c5c3336e0230e99525c45]: Commencement: S. 258 in force at 12.3.2018 by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/l)
+[^c-0a93f4c2838c5c3336e0230e99525c45]: Commencement: S. 258 in force at 12.3.2018 by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/l)

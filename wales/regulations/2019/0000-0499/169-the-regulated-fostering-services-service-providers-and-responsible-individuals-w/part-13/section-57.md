@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Oversight of adequacy of resources[^key-c0feeaf0a2294e61f5668992f076d518]
+## 57. Oversight of adequacy of resources[^c-c0feeaf0a2294e61f5668992f076d518]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0feeaf0a2294e61f5668992f076d518]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2019/169/regulation/57) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-c0feeaf0a2294e61f5668992f076d518]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2019/169/regulation/57) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

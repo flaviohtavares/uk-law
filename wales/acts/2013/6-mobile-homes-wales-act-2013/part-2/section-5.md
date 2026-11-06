@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Prohibition on use of land as regulated site without site licence[^key-8b1b1e65c915e1912ad50cb0e542e653]
+## 5. Prohibition on use of land as regulated site without site licence[^c-8b1b1e65c915e1912ad50cb0e542e653]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b1b1e65c915e1912ad50cb0e542e653]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2013/6/section/5) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-8b1b1e65c915e1912ad50cb0e542e653]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2013/6/section/5) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

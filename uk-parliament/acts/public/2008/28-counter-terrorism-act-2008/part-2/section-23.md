@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Post-charge questioning: Scotland[^key-7c5b1d39273be958383dcb88de6c9e84]
+## 23. Post-charge questioning: Scotland[^c-7c5b1d39273be958383dcb88de6c9e84]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ This is without prejudice to any application for a further authorisation under t
 
 ## Annotations
 
-[^key-7c5b1d39273be958383dcb88de6c9e84]: Commencement: S. 23 in force at 10.7.2012 by [S.I. 2012/1724](https://www.legislation.gov.uk/uksi/2012/1724), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1724/article/2/b)
+[^c-7c5b1d39273be958383dcb88de6c9e84]: Commencement: S. 23 in force at 10.7.2012 by [S.I. 2012/1724](https://www.legislation.gov.uk/uksi/2012/1724), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1724/article/2/b)

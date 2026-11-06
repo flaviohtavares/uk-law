@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Transfer on death of sole contract-holder[^key-4b49e5b5d0580a10a8f711fa501af12c]
+## 139. Transfer on death of sole contract-holder[^c-4b49e5b5d0580a10a8f711fa501af12c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b49e5b5d0580a10a8f711fa501af12c]: Commencement: [S. 139](https://www.legislation.gov.uk/anaw/2016/1/section/139) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-4b49e5b5d0580a10a8f711fa501af12c]: Commencement: [S. 139](https://www.legislation.gov.uk/anaw/2016/1/section/139) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

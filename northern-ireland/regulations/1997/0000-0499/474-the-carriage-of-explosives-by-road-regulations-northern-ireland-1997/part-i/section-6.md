@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Meaning of “operator”[^key-1fcb0249c99279ae8fd265d7a23913d7]
+## 6. Meaning of “operator”[^c-1fcb0249c99279ae8fd265d7a23913d7]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fcb0249c99279ae8fd265d7a23913d7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1997/474/regulation/6) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-1fcb0249c99279ae8fd265d7a23913d7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1997/474/regulation/6) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

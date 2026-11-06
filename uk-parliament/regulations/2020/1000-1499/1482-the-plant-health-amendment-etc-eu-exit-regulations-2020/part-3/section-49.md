@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Commission Implementing Regulation (EU) 2017/2313 setting out the format specifications of the plant passport for movement within the Union territory and the plant passport for introduction into, and movement within, a protected zone[^key-ec6d8ba264d61d4cd07f9946b7cb73e1]
+## 49. Commission Implementing Regulation (EU) 2017/2313 setting out the format specifications of the plant passport for movement within the Union territory and the plant passport for introduction into, and movement within, a protected zone[^c-ec6d8ba264d61d4cd07f9946b7cb73e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -103,6 +103,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ec6d8ba264d61d4cd07f9946b7cb73e1]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-ec6d8ba264d61d4cd07f9946b7cb73e1]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24375271]: Marginal citation: EUR 2017/2313.

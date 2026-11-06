@@ -144,7 +144,7 @@ A dog licence shall not be required in respect of—
 
 (6) A transfer certificate shall remain in force for the remainder of the period for which the dog licence is unexpired and shall be deemed to be part of the licence.
 
-(7)[^key-2942c770955c77a0b49b1521a8b91860] A district council shall not—
+(7)[^c-2942c770955c77a0b49b1521a8b91860] A district council shall not—
 
 - (a) issue a dog licence in respect of a dog, or
 - (b) issue a transfer certificate in respect of a new dog,
@@ -177,7 +177,7 @@ unless the dog is exempted from the prohibition in Article 25A(3).
 (3) The appropriate fee is £5 in the case of—
 
 - (a) a licence issued to a person over the age of 65, other than a licence falling within paragraph (2)(a);
-- (b) a licence issued to a person who at the time of the application for the licence is—[^key-951c7d51ffbb722c703e4ea269c501ac]
+- (b) a licence issued to a person who at the time of the application for the licence is—[^c-951c7d51ffbb722c703e4ea269c501ac]
   - (i) in receipt of an income-related benefit, or
   - (ii) a member of a couple in receipt of an income-related benefit;
 - (c) a licence issued in respect of a sterilised dog.
@@ -200,7 +200,7 @@ the holder of the licence may apply to the district council by which the licence
 
 (9) An application for a refund under paragraph (8) shall be in the prescribed form.
 
-(10)[^key-dcba8b6c4db11638bd5999d34bad3a9e] In this Article “**income-related benefit**” means—
+(10)[^c-dcba8b6c4db11638bd5999d34bad3a9e] In this Article “**income-related benefit**” means—
 
 - (a) universal credit under the Welfare Reform (Northern Ireland) Order 2015;
 - (b) state pension credit under the State Pension Credit Act (Northern Ireland) 2002;
@@ -214,7 +214,7 @@ the holder of the licence may apply to the district council by which the licence
 
 (1) Block licences shall be issued by district councils for premises situated in their districts in which three or more dogs are kept by persons who keep on the same premises—
 
-- (a) not less than three unsterilised bitches which breed between them less than 3 litters in a 12 month period[^key-b0c4936cf1c949fc8313d1416fddc9b4]; or
+- (a) not less than three unsterilised bitches which breed between them less than 3 litters in a 12 month period[^c-b0c4936cf1c949fc8313d1416fddc9b4]; or
 - (b) not less than three dogs which are registered with the Kennel Club or with such other organisation as the Department may, by order, specify;
 - (c) being the premises of guard dog kennels in respect of which those persons are registered under Article 10, not less than three dogs which are used as guard dogs elsewhere.
 
@@ -270,13 +270,13 @@ the district council may refuse the application for registration or, as the case
 
 (5) The decision of a court of summary jurisdiction on an appeal brought under paragraph (4) shall be final, and the district council shall give effect to that decision.
 
-### ...[^key-063b44e0d2ac377e648c3a19088db4c3]
+### ...[^c-063b44e0d2ac377e648c3a19088db4c3]
 
-#### 12. Prohibition on breeding establishments[^key-537b22bbb06dfe3d64fe8efc8e09db33]
+#### 12. Prohibition on breeding establishments[^c-537b22bbb06dfe3d64fe8efc8e09db33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Registration in respect of breeding establishments[^key-731a2a12469ad2d14208818abe62d737]
+#### 13. Registration in respect of breeding establishments[^c-731a2a12469ad2d14208818abe62d737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -284,15 +284,15 @@ the district council may refuse the application for registration or, as the case
 
 #### 14. Display of registration certificate
 
-A certificate of registration issued in respect of guard dog kennels [^key-5bcfb63a32c928946727ddf44b347619]... shall be kept affixed in a conspicuous place in the kennels [^key-1ab481efe12c45e7985143426d4c4960]..., and, if default is made in complying with this Article, the person keeping the kennels [^key-1ab481efe12c45e7985143426d4c4960]... shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £50.
+A certificate of registration issued in respect of guard dog kennels [^c-5bcfb63a32c928946727ddf44b347619]... shall be kept affixed in a conspicuous place in the kennels [^c-1ab481efe12c45e7985143426d4c4960]..., and, if default is made in complying with this Article, the person keeping the kennels [^c-1ab481efe12c45e7985143426d4c4960]... shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £50.
 
-#### 15. Registers of licences, guard dog kennels ...[^key-4accbbd6ebede69b0e5186f2b7db7207]
+#### 15. Registers of licences, guard dog kennels ...[^c-4accbbd6ebede69b0e5186f2b7db7207]
 
 (1) Each district council shall keep a register of—
 
-- (a) all dog licences and block licences issued by the council which are for the time being in force and[^key-2f23a46907e751769027574202c045d9],
-- (b) guard dog kennels, [^key-44800f81153ff15e90365611c4771ccf]...
-- (c)[^key-410f9c0ea879590a12e9636e13fae254] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) all dog licences and block licences issued by the council which are for the time being in force and[^c-2f23a46907e751769027574202c045d9],
+- (b) guard dog kennels, [^c-44800f81153ff15e90365611c4771ccf]...
+- (c)[^c-410f9c0ea879590a12e9636e13fae254] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 which shall be in such form and contain such particulars as may be prescribed.
 
@@ -300,7 +300,7 @@ which shall be in such form and contain such particulars as may be prescribed.
 
 #### 16. Evidence of registers
 
-In any proceedings under this Order a document purporting to be a copy of an entry in a register of licences or[^key-6da720ab56ffbf283a00bba707ccb633] guard dog kennels [^key-1af13c679e26622ee8e385c9070fa984]..., as the case may require, and purporting to be certified as such by a person authorised by the district council shall be evidence of the matters recorded in the entry.
+In any proceedings under this Order a document purporting to be a copy of an entry in a register of licences or[^c-6da720ab56ffbf283a00bba707ccb633] guard dog kennels [^c-1af13c679e26622ee8e385c9070fa984]..., as the case may require, and purporting to be certified as such by a person authorised by the district council shall be evidence of the matters recorded in the entry.
 
 ## PART III — CONTROL OF DOGS
 
@@ -320,7 +320,7 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 (1) Any person who applies for or obtains—
 
 - (a) a dog licence or a block licence while disqualified for obtaining or holding such a licence by Article 4(2) or by virtue of Article 8(5); or
-- (b) registration in respect of guard dog kennels [^key-c8fa20352267d8bf94c85027c070d685]... while disqualified for keeping a dog under Article 33A or[^c15904601] section 33 of the Welfare of Animals Act (Northern Ireland) 2011[^c22472781];
+- (b) registration in respect of guard dog kennels [^c-c8fa20352267d8bf94c85027c070d685]... while disqualified for keeping a dog under Article 33A or[^c15904601] section 33 of the Welfare of Animals Act (Northern Ireland) 2011[^c22472781];
 
 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £200 or to imprisonment for a term not exceeding 1 month or to both.
 
@@ -444,7 +444,7 @@ unless the dog is under control.
 - (d) cause or permit such a dog of which he is the keeper or of which he is for the time being in charge to be in a public place unless the dog is muzzled and kept on a lead; or
 - (e) abandon such a dog of which he is the keeper or, being the keeper or for the time being in charge of such a dog, permit it to stray.
 
-(3)[^key-374d89f4574046cc21c5ce8e32e02ff7] After 30th November 1991 no person shall have any dog to which this Article applies in his possession or custody except—
+(3)[^c-374d89f4574046cc21c5ce8e32e02ff7] After 30th November 1991 no person shall have any dog to which this Article applies in his possession or custody except—
 
 - (a) in pursuance of a power of seizure conferred by this Order; or
 - (b) in accordance with an order for its destruction made under this Order;
@@ -754,9 +754,9 @@ and shall notify the license holder in writing of that fact.
 - (c) in addition to sub-paragraph (b), prescribe and regulate other means of the identification of dogs;
 - (d) prescribe and regulate the wearing by dogs of discs or other means of licence identification attached to the collar;
 - (e) make provision for the issue of such licence identification by district councils.
-- (f)[^key-843e3af49abfd6bd32479dbe62b9badc] prescribe and regulate the microchipping of dogs and regulate the reading of any microchip implanted in a dog.
+- (f)[^c-843e3af49abfd6bd32479dbe62b9badc] prescribe and regulate the microchipping of dogs and regulate the reading of any microchip implanted in a dog.
 
-(1A)[^key-d46995df67fc4ef1e0e59d5270816f26] Regulations under paragraph (1)(f) may in particular provide—
+(1A)[^c-d46995df67fc4ef1e0e59d5270816f26] Regulations under paragraph (1)(f) may in particular provide—
 
 - (a) for the use of microchipping as a means of—
   - (i) identification of a dog and its keeper;
@@ -971,12 +971,12 @@ an officer may, on production, if required, of his credentials, enter any land.
 (1) An officer may inspect (subject to compliance with such precautions as the council may specify to prevent the spread among animals of infectious or contagious disease)—
 
 - (a) any guard dog kennels in respect of which a person is registered under Article 10, or
-- (b)[^key-c6c6dcde24ce6d2aec042e7569d9e1a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) any other premises which the council has reasonable grounds to believe are being used in its district as guard dog kennels[^key-2f709e7e97c3fae1b860f01e4db0beae]...,
+- (b)[^c-c6c6dcde24ce6d2aec042e7569d9e1a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) any other premises which the council has reasonable grounds to believe are being used in its district as guard dog kennels[^c-2f709e7e97c3fae1b860f01e4db0beae]...,
 
 and any officer may, on production, if required, of his credentials, at any reasonable time—
 
-- (i) enter such kennels, [^key-96b0e91ae47aa8758331708b0fc216e1]... or other premises; and
+- (i) enter such kennels, [^c-96b0e91ae47aa8758331708b0fc216e1]... or other premises; and
 - (ii) inspect them and any animal or any thing found on them, for the purpose of ascertaining whether an offence has been or is being committed under this Order.
 
 (2) A power of entry under paragraph (1) shall not be exercisable in respect of any premises except—
@@ -1012,14 +1012,14 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 ### 46. Power to extend provisions relating to breeding establishments to other establishments
 
-The Department may, by order [^c22483571]. . . extend the provisions of Articles 14[^key-34f555a6971a813500752c03d4619cab] to 16 and 43 to such other establishments as may be specified in the order.
+The Department may, by order [^c22483571]. . . extend the provisions of Articles 14[^c-34f555a6971a813500752c03d4619cab] to 16 and 43 to such other establishments as may be specified in the order.
 
 ### 47. Records
 
 The Department may, by order, require any person who keeps—
 
 - (a) guard dog kennels;
-- (b)[^key-8779dda404a293b7f2255bc3019f19d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8779dda404a293b7f2255bc3019f19d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a petshop within the meaning of section 12(1) of the [^m00010] Welfare of Animals Act (Northern Ireland) 1972; or
 - (d) any establishment to which an order under Article 46 applies; or[^c22483581]
 - (e) any premises in respect of which a block licence is in force;
@@ -1103,17 +1103,17 @@ Each district council shall furnish to the Department, at such times and in such
 
 [^c22483631]: Textual amendment: [Art. 5(b)](https://www.legislation.gov.uk/nisi/1983/764/article/5/b) substituted (28.7.2011) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 1(2)](https://www.legislation.gov.uk/nia/2011/9/section/1/2), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2011/281](https://www.legislation.gov.uk/nisr/2011/281), [art. 2](https://www.legislation.gov.uk/nisr/2011/281/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/281/schedule)
 
-[^key-2942c770955c77a0b49b1521a8b91860]: Textual amendment: [Art. 6(7)-(9)](https://www.legislation.gov.uk/nisi/1983/764/article/6/7) added (9.4.2012) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 2(1)](https://www.legislation.gov.uk/nia/2011/9/section/2/1), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2012/131](https://www.legislation.gov.uk/nisr/2012/131), [art. 2](https://www.legislation.gov.uk/nisr/2012/131/article/2)
+[^c-2942c770955c77a0b49b1521a8b91860]: Textual amendment: [Art. 6(7)-(9)](https://www.legislation.gov.uk/nisi/1983/764/article/6/7) added (9.4.2012) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 2(1)](https://www.legislation.gov.uk/nia/2011/9/section/2/1), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2012/131](https://www.legislation.gov.uk/nisr/2012/131), [art. 2](https://www.legislation.gov.uk/nisr/2012/131/article/2)
 
 [^c22469361]: Textual amendment: Art. 6(10) inserted (28.7.2011) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 3(2)](https://www.legislation.gov.uk/nia/2011/9/section/3/2), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2011/281](https://www.legislation.gov.uk/nisr/2011/281), [art. 2](https://www.legislation.gov.uk/nisr/2011/281/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/281/schedule)
 
 [^c22469431]: Textual amendment: Art. 7 substituted (3.10.2011) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 4(1)](https://www.legislation.gov.uk/nia/2011/9/section/4/1), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2011/332](https://www.legislation.gov.uk/nisr/2011/332), [art. 2](https://www.legislation.gov.uk/nisr/2011/332/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/332/schedule)
 
-[^key-951c7d51ffbb722c703e4ea269c501ac]: Textual amendment: Art. 7(3)(b) substituted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [133(2)(a)](https://www.legislation.gov.uk/nisi/2015/2006/article/133/2/a); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(d)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/d)
+[^c-951c7d51ffbb722c703e4ea269c501ac]: Textual amendment: Art. 7(3)(b) substituted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [133(2)(a)](https://www.legislation.gov.uk/nisi/2015/2006/article/133/2/a); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(d)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/d)
 
-[^key-dcba8b6c4db11638bd5999d34bad3a9e]: Textual amendment: Art. 7(10) inserted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [133(2)(b)](https://www.legislation.gov.uk/nisi/2015/2006/article/133/2/b); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(d)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/d)
+[^c-dcba8b6c4db11638bd5999d34bad3a9e]: Textual amendment: Art. 7(10) inserted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [133(2)(b)](https://www.legislation.gov.uk/nisi/2015/2006/article/133/2/b); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(d)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/d)
 
-[^key-b0c4936cf1c949fc8313d1416fddc9b4]: Textual amendment: Words in [art. 8(1)(a)](https://www.legislation.gov.uk/nisi/1983/764/article/8/1/a) substituted (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(3)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/3)
+[^c-b0c4936cf1c949fc8313d1416fddc9b4]: Textual amendment: Words in [art. 8(1)(a)](https://www.legislation.gov.uk/nisi/1983/764/article/8/1/a) substituted (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(3)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/3)
 
 [^c22469581]: Textual amendment: Word in art. 8(4) substituted (3.10.2011) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 4(2)](https://www.legislation.gov.uk/nia/2011/9/section/4/2), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2011/332](https://www.legislation.gov.uk/nisr/2011/332), [art. 2](https://www.legislation.gov.uk/nisr/2011/332/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/332/schedule)
 
@@ -1127,31 +1127,31 @@ Each district council shall furnish to the Department, at such times and in such
 
 [^m00006]: Marginal citation: S.I. 1981/1675 (N.I. 26)
 
-[^key-063b44e0d2ac377e648c3a19088db4c3]: Textual amendment: Art. 12 cross-heading omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(4)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/4)
+[^c-063b44e0d2ac377e648c3a19088db4c3]: Textual amendment: Art. 12 cross-heading omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(4)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/4)
 
-[^key-537b22bbb06dfe3d64fe8efc8e09db33]: Textual amendment: Art. 12 repealed (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(5)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/5)
+[^c-537b22bbb06dfe3d64fe8efc8e09db33]: Textual amendment: Art. 12 repealed (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(5)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/5)
 
-[^key-731a2a12469ad2d14208818abe62d737]: Textual amendment: Art. 13 repealed (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(5)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/5)
+[^c-731a2a12469ad2d14208818abe62d737]: Textual amendment: Art. 13 repealed (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(5)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/5)
 
-[^key-5bcfb63a32c928946727ddf44b347619]: Textual amendment: Words in [art. 14](https://www.legislation.gov.uk/nisi/1983/764/article/14) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(6)(a)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/6/a)
+[^c-5bcfb63a32c928946727ddf44b347619]: Textual amendment: Words in [art. 14](https://www.legislation.gov.uk/nisi/1983/764/article/14) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(6)(a)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/6/a)
 
-[^key-1ab481efe12c45e7985143426d4c4960]: Textual amendment: Words in [art. 14](https://www.legislation.gov.uk/nisi/1983/764/article/14) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(6)(b)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/6/b)
+[^c-1ab481efe12c45e7985143426d4c4960]: Textual amendment: Words in [art. 14](https://www.legislation.gov.uk/nisi/1983/764/article/14) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(6)(b)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/6/b)
 
-[^key-4accbbd6ebede69b0e5186f2b7db7207]: Textual amendment: Words in art. 15 heading omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(7)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/7)
+[^c-4accbbd6ebede69b0e5186f2b7db7207]: Textual amendment: Words in art. 15 heading omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(7)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/7)
 
-[^key-2f23a46907e751769027574202c045d9]: Textual amendment: Word in art. 15(1)(a) inserted (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(8)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/8)
+[^c-2f23a46907e751769027574202c045d9]: Textual amendment: Word in art. 15(1)(a) inserted (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(8)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/8)
 
-[^key-44800f81153ff15e90365611c4771ccf]: Textual amendment: Word in art. 15(1)(b) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(9)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/9)
+[^c-44800f81153ff15e90365611c4771ccf]: Textual amendment: Word in art. 15(1)(b) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(9)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/9)
 
-[^key-410f9c0ea879590a12e9636e13fae254]: Textual amendment: Art. 15(1)(c) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(10)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/10)
+[^c-410f9c0ea879590a12e9636e13fae254]: Textual amendment: Art. 15(1)(c) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(10)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/10)
 
 [^c22471621]: Textual amendment: Words in art. 15(2) substituted (28.7.2011) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 17(1)](https://www.legislation.gov.uk/nia/2011/9/section/17/1), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2011/9/schedule/1/paragraph/1); [S.R. 2011/281](https://www.legislation.gov.uk/nisr/2011/281), [art. 2](https://www.legislation.gov.uk/nisr/2011/281/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/281/schedule)
 
-[^key-6da720ab56ffbf283a00bba707ccb633]: Textual amendment: Word in art. 16 substituted (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(11)(i)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/11/i)
+[^c-6da720ab56ffbf283a00bba707ccb633]: Textual amendment: Word in art. 16 substituted (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(11)(i)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/11/i)
 
-[^key-1af13c679e26622ee8e385c9070fa984]: Textual amendment: Words in art. 16 omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(11)(ii)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/11/ii)
+[^c-1af13c679e26622ee8e385c9070fa984]: Textual amendment: Words in art. 16 omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(11)(ii)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/11/ii)
 
-[^key-c8fa20352267d8bf94c85027c070d685]: Textual amendment: Words in [art. 18(1)(b)](https://www.legislation.gov.uk/nisi/1983/764/article/18/1/b) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(12)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/12)
+[^c-c8fa20352267d8bf94c85027c070d685]: Textual amendment: Words in [art. 18(1)(b)](https://www.legislation.gov.uk/nisi/1983/764/article/18/1/b) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(12)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/12)
 
 [^c15904601]: Textual amendment: [1991 NI 21](https://www.legislation.gov.uk/nisi/1991)
 
@@ -1167,7 +1167,7 @@ Each district council shall furnish to the Department, at such times and in such
 
 [^c16774181]: Textual amendment: [1991 NI 21](https://www.legislation.gov.uk/1991/ni21)
 
-[^key-374d89f4574046cc21c5ce8e32e02ff7]: Modification: [Art. 25A(3)](https://www.legislation.gov.uk/nisi/1983/764/article/25A/3) excluded (9.8.2024) by [The Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024 (S.R. 2024/155)](https://www.legislation.gov.uk/nisr/2024/155), [arts. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1), [5(1)](https://www.legislation.gov.uk/nisr/2024/155/article/5/1)
+[^c-374d89f4574046cc21c5ce8e32e02ff7]: Modification: [Art. 25A(3)](https://www.legislation.gov.uk/nisi/1983/764/article/25A/3) excluded (9.8.2024) by [The Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024 (S.R. 2024/155)](https://www.legislation.gov.uk/nisr/2024/155), [arts. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1), [5(1)](https://www.legislation.gov.uk/nisr/2024/155/article/5/1)
 
 [^c16774191]: Textual amendment: [1991 NI 21](https://www.legislation.gov.uk/1991/ni21)
 
@@ -1187,9 +1187,9 @@ Each district council shall furnish to the Department, at such times and in such
 
 [^c22474921]: Textual amendment: [Arts. 30A-30F](https://www.legislation.gov.uk/nisi/1983/764/article/30A) and preceding cross-heading inserted (3.10.2011) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 8](https://www.legislation.gov.uk/nia/2011/9/section/8), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2011/332](https://www.legislation.gov.uk/nisr/2011/332), [art. 2](https://www.legislation.gov.uk/nisr/2011/332/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/332/schedule)
 
-[^key-843e3af49abfd6bd32479dbe62b9badc]: Textual amendment: Art. 31(1)(f) inserted (9.4.2012) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 2(2)](https://www.legislation.gov.uk/nia/2011/9/section/2/2), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2012/131](https://www.legislation.gov.uk/nisr/2012/131), [art. 2](https://www.legislation.gov.uk/nisr/2012/131/article/2)
+[^c-843e3af49abfd6bd32479dbe62b9badc]: Textual amendment: Art. 31(1)(f) inserted (9.4.2012) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 2(2)](https://www.legislation.gov.uk/nia/2011/9/section/2/2), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2012/131](https://www.legislation.gov.uk/nisr/2012/131), [art. 2](https://www.legislation.gov.uk/nisr/2012/131/article/2)
 
-[^key-d46995df67fc4ef1e0e59d5270816f26]: Textual amendment: Art. 31(1A) inserted (9.4.2012) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 2(3)](https://www.legislation.gov.uk/nia/2011/9/section/2/3), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2012/131](https://www.legislation.gov.uk/nisr/2012/131), [art. 2](https://www.legislation.gov.uk/nisr/2012/131/article/2)
+[^c-d46995df67fc4ef1e0e59d5270816f26]: Textual amendment: Art. 31(1A) inserted (9.4.2012) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 2(3)](https://www.legislation.gov.uk/nia/2011/9/section/2/3), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2012/131](https://www.legislation.gov.uk/nisr/2012/131), [art. 2](https://www.legislation.gov.uk/nisr/2012/131/article/2)
 
 [^c15904771]: Textual amendment: [2001 c. 1 (NI)](https://www.legislation.gov.uk/nia/2001/1)
 
@@ -1219,17 +1219,17 @@ Each district council shall furnish to the Department, at such times and in such
 
 [^c22483551]: Textual amendment: [Art. 42(1)(c)](https://www.legislation.gov.uk/nisi/1983/764/article/42/1/c) and preceding word inserted (28.7.2011) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 10](https://www.legislation.gov.uk/nia/2011/9/section/10), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1); [S.R. 2011/281](https://www.legislation.gov.uk/nisr/2011/281), [art. 2](https://www.legislation.gov.uk/nisr/2011/281/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/281/schedule)
 
-[^key-c6c6dcde24ce6d2aec042e7569d9e1a5]: Textual amendment: [Art. 43(1)(b)](https://www.legislation.gov.uk/nisi/1983/764/article/43/1/b) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(13)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/13)
+[^c-c6c6dcde24ce6d2aec042e7569d9e1a5]: Textual amendment: [Art. 43(1)(b)](https://www.legislation.gov.uk/nisi/1983/764/article/43/1/b) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(13)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/13)
 
-[^key-2f709e7e97c3fae1b860f01e4db0beae]: Textual amendment: Words in [art. 43(1)(c)](https://www.legislation.gov.uk/nisi/1983/764/article/43/1/c) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(14)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/14)
+[^c-2f709e7e97c3fae1b860f01e4db0beae]: Textual amendment: Words in [art. 43(1)(c)](https://www.legislation.gov.uk/nisi/1983/764/article/43/1/c) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(14)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/14)
 
-[^key-96b0e91ae47aa8758331708b0fc216e1]: Textual amendment: Word in [art. 43(1)(c)(i)](https://www.legislation.gov.uk/nisi/1983/764/article/43/1/c/i) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(15)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/15)
+[^c-96b0e91ae47aa8758331708b0fc216e1]: Textual amendment: Word in [art. 43(1)(c)(i)](https://www.legislation.gov.uk/nisi/1983/764/article/43/1/c/i) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(15)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/15)
 
 [^c22483571]: Textual amendment: Words in art. 46 repealed (28.7.2011) by [Dogs (Amendment) Act (Northern Ireland) 2011 (c. 9)](https://www.legislation.gov.uk/nia/2011/9), [ss. 17(2)](https://www.legislation.gov.uk/nia/2011/9/section/17/2), [18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1), [Sch. 2](https://www.legislation.gov.uk/nia/2011/9/schedule/2); [S.R. 2011/281](https://www.legislation.gov.uk/nisr/2011/281), [art. 2](https://www.legislation.gov.uk/nisr/2011/281/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/281/schedule)
 
-[^key-34f555a6971a813500752c03d4619cab]: Textual amendment: Word in [art. 46](https://www.legislation.gov.uk/nisi/1983/764/article/46) substituted (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(16)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/16)
+[^c-34f555a6971a813500752c03d4619cab]: Textual amendment: Word in [art. 46](https://www.legislation.gov.uk/nisi/1983/764/article/46) substituted (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(16)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/16)
 
-[^key-8779dda404a293b7f2255bc3019f19d4]: Textual amendment: [Art. 47(b)](https://www.legislation.gov.uk/nisi/1983/764/article/47) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(17)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/17)
+[^c-8779dda404a293b7f2255bc3019f19d4]: Textual amendment: [Art. 47(b)](https://www.legislation.gov.uk/nisi/1983/764/article/47) omitted (1.4.2013) by virtue of [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [21(17)](https://www.legislation.gov.uk/nisr/2013/43/regulation/21/17)
 
 [^m00010]: Marginal citation: 1972 c. 7 (N.I.)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Consequential amendments, repeals and revocations[^key-ffbac76cc851aa3c9195cf4f2f34c49d]
+## 70. Consequential amendments, repeals and revocations[^c-ffbac76cc851aa3c9195cf4f2f34c49d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffbac76cc851aa3c9195cf4f2f34c49d]: Commencement: S. 70 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-ffbac76cc851aa3c9195cf4f2f34c49d]: Commencement: S. 70 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation, commencement and interpretation[^key-05f7bb6983b40f663873fa35ab20cc88]
+## 1. Citation, commencement and interpretation[^c-05f7bb6983b40f663873fa35ab20cc88]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-05f7bb6983b40f663873fa35ab20cc88]: Commencement: Art. 1 in force at 8.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/91/article/1/1)
+[^c-05f7bb6983b40f663873fa35ab20cc88]: Commencement: Art. 1 in force at 8.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/91/article/1/1)
 
 [^f00003]: Footnote: [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50), amended by [S.S.I. 2013/204](https://www.legislation.gov.uk/ssi/2013/204) and [S.S.I. 2015/329](https://www.legislation.gov.uk/ssi/2015/329).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Workplaces[^key-ea06d1f4136c9f10fad50b063f6e813b]
+## 7. Workplaces[^c-ea06d1f4136c9f10fad50b063f6e813b]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea06d1f4136c9f10fad50b063f6e813b]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2017/2/section/7) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-ea06d1f4136c9f10fad50b063f6e813b]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2017/2/section/7) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

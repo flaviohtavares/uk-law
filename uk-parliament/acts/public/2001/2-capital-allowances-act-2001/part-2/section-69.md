@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Hire-purchase etc. and fixtures[^key-661b09f8253ca07c6d062cb971343de3]
+## 69. Hire-purchase etc. and fixtures[^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the person is to be treated for the purposes of this Part as ceasing to own the 
 
 ## Annotations
 
-[^key-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
+[^c-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)

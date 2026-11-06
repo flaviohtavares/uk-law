@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 193B. Replacing the main river map for England[^key-6c4978ad850b75fccd4d94bdcc9b90f0]
+## 193B. Replacing the main river map for England[^c-6c4978ad850b75fccd4d94bdcc9b90f0]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c4978ad850b75fccd4d94bdcc9b90f0]: Textual amendment: Ss. 193-194E substituted for ss. 193, 194 (1.10.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/59/2), [94](https://www.legislation.gov.uk/ukpga/2014/21/section/94); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 3](https://www.legislation.gov.uk/uksi/2014/1823/article/3)
+[^c-6c4978ad850b75fccd4d94bdcc9b90f0]: Textual amendment: Ss. 193-194E substituted for ss. 193, 194 (1.10.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/59/2), [94](https://www.legislation.gov.uk/ukpga/2014/21/section/94); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 3](https://www.legislation.gov.uk/uksi/2014/1823/article/3)

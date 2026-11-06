@@ -48,8 +48,8 @@ In this subsection “**murder**” means the killing of a person in such circum
 
 (6) In any other case a person convicted of an offence is liable to imprisonment for a term not exceeding 30 years.
 
-(7)[^key-c4464ceb91649c29ae112f4d6fb4289a] Subsections (5) and (6) are subject to section 65B (restriction of penalties in relation to retrospective application of certain offences).
+(7)[^c-c4464ceb91649c29ae112f4d6fb4289a] Subsections (5) and (6) are subject to section 65B (restriction of penalties in relation to retrospective application of certain offences).
 
 ## Annotations
 
-[^key-c4464ceb91649c29ae112f4d6fb4289a]: Textual amendment: [S. 60(7)](https://www.legislation.gov.uk/ukpga/2001/17/section/60/7) added (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/70/2), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/3)
+[^c-c4464ceb91649c29ae112f4d6fb4289a]: Textual amendment: [S. 60(7)](https://www.legislation.gov.uk/ukpga/2001/17/section/60/7) added (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/70/2), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/3)

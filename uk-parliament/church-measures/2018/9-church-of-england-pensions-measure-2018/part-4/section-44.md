@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 44. Status as housing association[^key-ecbf976f4bcb815b976d5d74be7f638c]
+## 44. Status as housing association[^c-ecbf976f4bcb815b976d5d74be7f638c]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ The Board is to continue to be regarded as a housing association within the mean
 
 ## Annotations
 
-[^key-ecbf976f4bcb815b976d5d74be7f638c]: Commencement: [S. 44](https://www.legislation.gov.uk/ukcm/2018/9/section/44) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-ecbf976f4bcb815b976d5d74be7f638c]: Commencement: [S. 44](https://www.legislation.gov.uk/ukcm/2018/9/section/44) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

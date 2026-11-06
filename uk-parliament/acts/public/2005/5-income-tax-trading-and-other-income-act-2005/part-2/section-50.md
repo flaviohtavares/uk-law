@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Hiring cars (but not motor cycles) with low carbon dioxide emissions[^key-6bd9b1d1f826c89017dd2585924f8e16]
+## 50. Hiring cars (but not motor cycles) with low carbon dioxide emissions[^c-6bd9b1d1f826c89017dd2585924f8e16]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bd9b1d1f826c89017dd2585924f8e16]: Textual amendment: S. 50 omitted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 38](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/38)
+[^c-6bd9b1d1f826c89017dd2585924f8e16]: Textual amendment: S. 50 omitted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 38](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/38)

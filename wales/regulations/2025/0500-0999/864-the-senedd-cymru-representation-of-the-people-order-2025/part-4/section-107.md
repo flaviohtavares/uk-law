@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Further provision as to costs[^key-673a11576214eda37ca89e2b1cef861e]
+## 107. Further provision as to costs[^c-673a11576214eda37ca89e2b1cef861e]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-673a11576214eda37ca89e2b1cef861e]: Commencement: Art. 107 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-673a11576214eda37ca89e2b1cef861e]: Commencement: Art. 107 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

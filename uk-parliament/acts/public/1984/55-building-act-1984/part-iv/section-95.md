@@ -29,7 +29,7 @@ summary: ''
 
 (2) Admission to premises, other than a factory or workplace, shall not be demanded as of right unless 24 hours’ notice of the intended entry has been given to the occupier.
 
-(2A)[^key-d0251e94c5848558cc9e261a86ef462a] Subsections (1) and (2) do not apply in relation to premises used wholly or mainly as a private dwelling.
+(2A)[^c-d0251e94c5848558cc9e261a86ef462a] Subsections (1) and (2) do not apply in relation to premises used wholly or mainly as a private dwelling.
 
 (3) If it is shown to the satisfaction of a justice of the peace on sworn information in writing that—
 
@@ -45,4 +45,4 @@ the justice may by warrant under his hand authorise the local authority by any a
 
 ## Annotations
 
-[^key-d0251e94c5848558cc9e261a86ef462a]: Textual amendment: [S. 95(2A)](https://www.legislation.gov.uk/ukpga/1984/55/section/95/2A) inserted (1.10.2023 except in relation to W., 6.4.2024 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 60](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/60); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(n)(xxv)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/n/xxv); [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(xi)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/xi), [Sch.](https://www.legislation.gov.uk/wsi/2024/207/schedule) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-d0251e94c5848558cc9e261a86ef462a]: Textual amendment: [S. 95(2A)](https://www.legislation.gov.uk/ukpga/1984/55/section/95/2A) inserted (1.10.2023 except in relation to W., 6.4.2024 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 60](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/60); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(n)(xxv)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/n/xxv); [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(xi)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/xi), [Sch.](https://www.legislation.gov.uk/wsi/2024/207/schedule) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))

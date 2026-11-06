@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Operations by owners or occupiers of sites of special scientific interest[^key-ce7197ee2ef5676f3d7e4a89ad4990b2]
+## 16. Operations by owners or occupiers of sites of special scientific interest[^c-ce7197ee2ef5676f3d7e4a89ad4990b2]
 
 *Extent: S*
 
@@ -76,4 +76,4 @@ it must offer to enter into such an agreement on such terms and conditions (incl
 
 ## Annotations
 
-[^key-ce7197ee2ef5676f3d7e4a89ad4990b2]: Commencement: S. 16 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-ce7197ee2ef5676f3d7e4a89ad4990b2]: Commencement: S. 16 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

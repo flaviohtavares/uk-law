@@ -31,13 +31,13 @@ summary: ''
 
 (4) Those decisions are—
 
-- (a) a decision to grant or revoke a UK[^key-cec58ac68b695ece6022b5c64f332acd] marketing authorisation;
-- (aa)[^key-894a6515cedda11d4b60d35d9d6b4552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a decision to grant or revoke a UK[^c-cec58ac68b695ece6022b5c64f332acd] marketing authorisation;
+- (aa)[^c-894a6515cedda11d4b60d35d9d6b4552] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a decision to grant or revoke a certificate of registration; and
 - (c) a decision to grant or revoke a traditional herbal registration.
 
 ## Annotations
 
-[^key-cec58ac68b695ece6022b5c64f332acd]: Textual amendment: Word in reg. 341(4)(a) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 224(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/224/a) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 184](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/184))
+[^c-cec58ac68b695ece6022b5c64f332acd]: Textual amendment: Word in reg. 341(4)(a) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 224(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/224/a) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 184](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/184))
 
-[^key-894a6515cedda11d4b60d35d9d6b4552]: Textual amendment: [Reg. 341(4)(aa)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/341/4/aa) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [130](https://www.legislation.gov.uk/uksi/2024/832/regulation/130)
+[^c-894a6515cedda11d4b60d35d9d6b4552]: Textual amendment: [Reg. 341(4)(aa)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/341/4/aa) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [130](https://www.legislation.gov.uk/uksi/2024/832/regulation/130)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Participation in certain proceedings conducted by, or on behalf of, the Secretary of State[^key-546cc005a5648d7ff1ba9971f6a8756a]
+## 133. Participation in certain proceedings conducted by, or on behalf of, the Secretary of State[^c-546cc005a5648d7ff1ba9971f6a8756a]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-546cc005a5648d7ff1ba9971f6a8756a]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2023/55/section/133) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-546cc005a5648d7ff1ba9971f6a8756a]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2023/55/section/133) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

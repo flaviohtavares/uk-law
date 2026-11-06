@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Secretary of State directions to the GEMA[^key-eae55b73dad8df27f0596ff44c19515e]
+## 141. Secretary of State directions to the GEMA[^c-eae55b73dad8df27f0596ff44c19515e]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eae55b73dad8df27f0596ff44c19515e]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2023/52/section/141) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)
+[^c-eae55b73dad8df27f0596ff44c19515e]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2023/52/section/141) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)

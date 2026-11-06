@@ -36,37 +36,37 @@ setting out the format for the transmission of results on waste statistics
 
 (Text with EEA relevance) (revoked)
 
-[^key-111a626f65d49e9f0112bf7c55dd4a89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-111a626f65d49e9f0112bf7c55dd4a89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-111a626f65d49e9f0112bf7c55dd4a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-111a626f65d49e9f0112bf7c55dd4a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-111a626f65d49e9f0112bf7c55dd4a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-111a626f65d49e9f0112bf7c55dd4a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-111a626f65d49e9f0112bf7c55dd4a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-111a626f65d49e9f0112bf7c55dd4a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-111a626f65d49e9f0112bf7c55dd4a89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-111a626f65d49e9f0112bf7c55dd4a89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — FORMAT FOR THE TRANSMISSION OF RESULTS ON WASTE STATISTICS[^key-111a626f65d49e9f0112bf7c55dd4a89]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-111a626f65d49e9f0112bf7c55dd4a89]The data sets
+## ANNEX — FORMAT FOR THE TRANSMISSION OF RESULTS ON WASTE STATISTICS[^c-111a626f65d49e9f0112bf7c55dd4a89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-111a626f65d49e9f0112bf7c55dd4a89]Missing values
+[^c-111a626f65d49e9f0112bf7c55dd4a89]The data sets
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-111a626f65d49e9f0112bf7c55dd4a89]Confidentiality
+[^c-111a626f65d49e9f0112bf7c55dd4a89]Missing values
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-111a626f65d49e9f0112bf7c55dd4a89]Measures
+[^c-111a626f65d49e9f0112bf7c55dd4a89]Confidentiality
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-111a626f65d49e9f0112bf7c55dd4a89]Revisions
+[^c-111a626f65d49e9f0112bf7c55dd4a89]Measures
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-111a626f65d49e9f0112bf7c55dd4a89]Revisions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -100,4 +100,4 @@ setting out the format for the transmission of results on waste statistics
 
 ## Annotations
 
-[^key-111a626f65d49e9f0112bf7c55dd4a89]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/66); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-111a626f65d49e9f0112bf7c55dd4a89]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/66); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

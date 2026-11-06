@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Accountable officers and their responsibilities as to controlled drugs[^c16418471][^key-2de7220715eda60781e0d92b5b6368ff][^key-e0bf2a551352c2ae0a1e36e1e9e90975][^key-ef8597225515261f94512256f53245a4][^key-9fbdbfa6a3662b0a6a587a15330cb7a4]
+## 17. Accountable officers and their responsibilities as to controlled drugs[^c16418471][^c-2de7220715eda60781e0d92b5b6368ff][^c-e0bf2a551352c2ae0a1e36e1e9e90975][^c-ef8597225515261f94512256f53245a4][^c-9fbdbfa6a3662b0a6a587a15330cb7a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,10 +86,10 @@ This is subject to any regulations made by virtue of subsection (5)(e).
 
 [^c16418471]: Commencement: S. 17 in force for certain purposes at Royal Assent, see s. 83
 
-[^key-2de7220715eda60781e0d92b5b6368ff]: Commencement: S. 17 in force at 1.1.2007 for E. in so far as not already in force by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/1)
+[^c-2de7220715eda60781e0d92b5b6368ff]: Commencement: S. 17 in force at 1.1.2007 for E. in so far as not already in force by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/1)
 
-[^key-e0bf2a551352c2ae0a1e36e1e9e90975]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/28/section/17) in force at 1.3.2007 for S. in so far as not already in force by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/2)
+[^c-e0bf2a551352c2ae0a1e36e1e9e90975]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/28/section/17) in force at 1.3.2007 for S. in so far as not already in force by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/2)
 
-[^key-ef8597225515261f94512256f53245a4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/28/section/17) in force at 13.12.2008 for W. in so far as not already in force by [S.I. 2008/3171](https://www.legislation.gov.uk/wsi/2008/3171), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/3171/article/2/a)
+[^c-ef8597225515261f94512256f53245a4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/28/section/17) in force at 13.12.2008 for W. in so far as not already in force by [S.I. 2008/3171](https://www.legislation.gov.uk/wsi/2008/3171), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/3171/article/2/a)
 
-[^key-9fbdbfa6a3662b0a6a587a15330cb7a4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/28/section/17) in force at 1.8.2012 for N.I. in so far as not already in force by [S.R. 2012/307](https://www.legislation.gov.uk/nisr/2012/307), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/307/article/2/a)
+[^c-9fbdbfa6a3662b0a6a587a15330cb7a4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/28/section/17) in force at 1.8.2012 for N.I. in so far as not already in force by [S.R. 2012/307](https://www.legislation.gov.uk/nisr/2012/307), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/307/article/2/a)

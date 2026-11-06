@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Interpretation of Part[^key-6619774eb64b791be45840fd93ecc9ae]
+## 70. Interpretation of Part[^c-6619774eb64b791be45840fd93ecc9ae]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6619774eb64b791be45840fd93ecc9ae]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2016/19/section/70) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-6619774eb64b791be45840fd93ecc9ae]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2016/19/section/70) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

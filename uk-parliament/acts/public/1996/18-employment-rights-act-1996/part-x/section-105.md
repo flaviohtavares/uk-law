@@ -57,8 +57,8 @@ summary: ''
 
 (7C)[^c20260911] This subsection applies if—
 
-- (a) the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was the reason mentioned in section 238A(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 (participation in official industrial action), [^key-1d474e35ae39fc8cc3a25c9c93949d87]...
-- (b)[^key-1d474e35ae39fc8cc3a25c9c93949d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was the reason mentioned in section 238A(2) of the Trade Union and Labour Relations (Consolidation) Act 1992 (participation in official industrial action), [^c-1d474e35ae39fc8cc3a25c9c93949d87]...
+- (b)[^c-1d474e35ae39fc8cc3a25c9c93949d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7D)[^c20260921] This subsection applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one specified in paragraph (3) or (6) of regulation 28 of the Transnational Information and Consultation of Employees Regulations 1999 (read with paragraphs (4) and (7) of that regulation).
 
@@ -78,7 +78,7 @@ summary: ''
 
 (7JA)[^M_F_a51100ec-dcb7-4503-c2f3-f878b5f2c773] This subsection applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one of those specified in subsection (1) of section 104D (read with subsection (2) of that section).
 
-(7K)[^key-ea57756421cd7cccda247f47dc5ea953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7K)[^c-ea57756421cd7cccda247f47dc5ea953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7L)[^c20376481] This subsection applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one specified in paragraph (3) or (6) of regulation 29 of the European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009( S.I. 2009/2401) (read with paragraphs (4) and (7) of that regulation).
 
@@ -124,7 +124,7 @@ summary: ''
 
 [^c20260911]: Textual amendment: S. 105(7C) inserted (24.4.2000) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 16](https://www.legislation.gov.uk/ukpga/1999/26/section/16), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/5/paragraph/5/3); [S.I. 2000/875](https://www.legislation.gov.uk/uksi/2000/875), [art. 2](https://www.legislation.gov.uk/uksi/2000/875/article/2) (with transitional provision in [art. 3](https://www.legislation.gov.uk/uksi/2000/875/article/3))
 
-[^key-1d474e35ae39fc8cc3a25c9c93949d87]: Textual amendment: S. 105(7C)(b) and word omitted (29.7.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/881/article/1/2), [12](https://www.legislation.gov.uk/uksi/2026/881/article/12) (with [art. 13](https://www.legislation.gov.uk/uksi/2026/881/article/13))
+[^c-1d474e35ae39fc8cc3a25c9c93949d87]: Textual amendment: S. 105(7C)(b) and word omitted (29.7.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/881/article/1/2), [12](https://www.legislation.gov.uk/uksi/2026/881/article/12) (with [art. 13](https://www.legislation.gov.uk/uksi/2026/881/article/13))
 
 [^c20260921]: Textual amendment: S. 105(7D) inserted after subsection (7C) (15.1.2000) by virtue of [S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323), [reg. 29(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/29/1)
 
@@ -146,7 +146,7 @@ summary: ''
 
 [^M_F_a51100ec-dcb7-4503-c2f3-f878b5f2c773]: Textual amendment: S. 105(7JA) inserted (30.6.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/57/4), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2](https://www.legislation.gov.uk/uksi/2012/1682/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1682/schedule/2)
 
-[^key-ea57756421cd7cccda247f47dc5ea953]: Textual amendment: S. 105(7K) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea57756421cd7cccda247f47dc5ea953]: Textual amendment: S. 105(7K) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20376481]: Textual amendment: S. 105(7L) inserted (1.10.2009) by [The European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009 (S.I. 2009/2401)](https://www.legislation.gov.uk/uksi/2009/2401), [reg. 30(2)](https://www.legislation.gov.uk/uksi/2009/2401/regulation/30/2) (with [reg. 41](https://www.legislation.gov.uk/uksi/2009/2401/regulation/41))
 

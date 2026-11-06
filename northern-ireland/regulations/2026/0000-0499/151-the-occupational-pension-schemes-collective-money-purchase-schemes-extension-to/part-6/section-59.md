@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Amendment of the Pension Schemes (Northern Ireland) Act 1993[^key-3eea2c212d9bc5233e76e1e3b1df867e]
+## 59. Amendment of the Pension Schemes (Northern Ireland) Act 1993[^c-3eea2c212d9bc5233e76e1e3b1df867e]
 
 *Extent: N.I.*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3eea2c212d9bc5233e76e1e3b1df867e]: Commencement: Reg. 59 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-3eea2c212d9bc5233e76e1e3b1df867e]: Commencement: Reg. 59 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00065]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 

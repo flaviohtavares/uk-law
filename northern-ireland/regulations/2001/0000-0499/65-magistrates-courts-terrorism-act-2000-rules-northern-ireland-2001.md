@@ -31,7 +31,7 @@ summary: ''
 
 MAGISTRATES' COURTS
 
-Magistrates' Courts (Terrorism Act 2000) Rules (Northern Ireland) 2001 (revoked)[^key-7b522e6994a5a118b0973c6f814ea474]
+Magistrates' Courts (Terrorism Act 2000) Rules (Northern Ireland) 2001 (revoked)[^c-7b522e6994a5a118b0973c6f814ea474]
 
 Made
 
@@ -41,73 +41,73 @@ Coming into operation
 
 19th February 2001
 
-[^key-7b522e6994a5a118b0973c6f814ea474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b522e6994a5a118b0973c6f814ea474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7b522e6994a5a118b0973c6f814ea474]
+## 1. Citation and commencement[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7b522e6994a5a118b0973c6f814ea474]
+## 2. Interpretation[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application for continued detention of seized cash[^key-7b522e6994a5a118b0973c6f814ea474]
+## 3. Application for continued detention of seized cash[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Unattended parcels and other containers[^key-7b522e6994a5a118b0973c6f814ea474]
+## 4. Unattended parcels and other containers[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Order and notice of order for continued detention of seized cash[^key-7b522e6994a5a118b0973c6f814ea474]
+## 5. Order and notice of order for continued detention of seized cash[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Subsequent applications[^key-7b522e6994a5a118b0973c6f814ea474]
+## 6. Subsequent applications[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Order for release of cash[^key-7b522e6994a5a118b0973c6f814ea474]
+## 7. Order for release of cash[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Forfeiture[^key-7b522e6994a5a118b0973c6f814ea474]
+## 8. Forfeiture[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Order for forfeiture of detained cash[^key-7b522e6994a5a118b0973c6f814ea474]
+## 9. Order for forfeiture of detained cash[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Appeal against order forfeiting cash[^key-7b522e6994a5a118b0973c6f814ea474]
+## 10. Appeal against order forfeiting cash[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Application for release of cash for appeal[^key-7b522e6994a5a118b0973c6f814ea474]
+## 11. Application for release of cash for appeal[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Joinder[^key-7b522e6994a5a118b0973c6f814ea474]
+## 12. Joinder[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Notice[^key-7b522e6994a5a118b0973c6f814ea474]
+## 13. Notice[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Procedure at hearings[^key-7b522e6994a5a118b0973c6f814ea474]
+## 14. Procedure at hearings[^c-7b522e6994a5a118b0973c6f814ea474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7b522e6994a5a118b0973c6f814ea474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-7b522e6994a5a118b0973c6f814ea474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b522e6994a5a118b0973c6f814ea474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b522e6994a5a118b0973c6f814ea474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-7b522e6994a5a118b0973c6f814ea474]
+## SCHEDULE[^c-7b522e6994a5a118b0973c6f814ea474]
 
 Rule 2
 
@@ -115,8 +115,8 @@ Rule 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b522e6994a5a118b0973c6f814ea474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b522e6994a5a118b0973c6f814ea474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b522e6994a5a118b0973c6f814ea474]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2001/65) revoked (11.2.2002) by [Magistrates' Courts (Detention and Forfeiture of Terrorist Cash) Rules (Northern Ireland) 2002 (S.R. 2002/12)](https://www.legislation.gov.uk/nisr/2002/12), [arts. 1](https://www.legislation.gov.uk/nisr/2002/12/article/1), [2](https://www.legislation.gov.uk/nisr/2002/12/article/2)
+[^c-7b522e6994a5a118b0973c6f814ea474]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2001/65) revoked (11.2.2002) by [Magistrates' Courts (Detention and Forfeiture of Terrorist Cash) Rules (Northern Ireland) 2002 (S.R. 2002/12)](https://www.legislation.gov.uk/nisr/2002/12), [arts. 1](https://www.legislation.gov.uk/nisr/2002/12/article/1), [2](https://www.legislation.gov.uk/nisr/2002/12/article/2)

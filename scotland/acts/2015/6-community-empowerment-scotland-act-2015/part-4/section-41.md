@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Criteria for registration of interest in land[^key-06991aa21562826210b91f3370675ab9]
+## 41. Criteria for registration of interest in land[^c-06991aa21562826210b91f3370675ab9]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ In section 38 of the 2003 Act (criteria for registration)—
 
 ## Annotations
 
-[^key-06991aa21562826210b91f3370675ab9]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2015/6/section/41) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-06991aa21562826210b91f3370675ab9]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2015/6/section/41) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

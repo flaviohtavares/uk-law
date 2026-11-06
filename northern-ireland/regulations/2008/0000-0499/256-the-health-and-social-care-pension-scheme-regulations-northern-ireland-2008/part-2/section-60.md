@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Reduction in pension debit member’s benefits[^key-b9c3ea99be7b628c63ab3b349fc78633]
+## 60. Reduction in pension debit member’s benefits[^c-b9c3ea99be7b628c63ab3b349fc78633]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9c3ea99be7b628c63ab3b349fc78633]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/nisr/2008/256/regulation/60) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [37](https://www.legislation.gov.uk/nisr/2010/22/regulation/37)
+[^c-b9c3ea99be7b628c63ab3b349fc78633]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/nisr/2008/256/regulation/60) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [37](https://www.legislation.gov.uk/nisr/2010/22/regulation/37)

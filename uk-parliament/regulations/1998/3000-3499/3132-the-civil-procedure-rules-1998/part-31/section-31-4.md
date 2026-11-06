@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.4. Meaning of document[^key-5c1486191b690d6901ca07b23e391267]
+## 31.4. Meaning of document[^c-5c1486191b690d6901ca07b23e391267]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-5c1486191b690d6901ca07b23e391267]: Commencement: [Rule 31.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-5c1486191b690d6901ca07b23e391267]: Commencement: [Rule 31.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

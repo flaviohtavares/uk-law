@@ -48,13 +48,13 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 In accordance with section 4A(8) of that Act the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department for Finance and Personnel for Northern Ireland and the Welsh Ministers.
 
-## 1. Citation, commencement and extent[^key-64a6ac6e7b8d563751cf0bfa0c222fed]
+## 1. Citation, commencement and extent[^c-64a6ac6e7b8d563751cf0bfa0c222fed]
 
 (1) This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2024 and comes into force on 1st April 2024.
 
 (2) This Order extends to England and Wales, Scotland and Northern Ireland.
 
-## 2. Designations[^key-06d1bdde54b757554f5e10e935c6b610]
+## 2. Designations[^c-06d1bdde54b757554f5e10e935c6b610]
 
 A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of section 4A of the Government Resources and Accounts Act 2000—
 
@@ -69,7 +69,7 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 5th March 2024
 
-## Schedule — Designated Bodies[^key-68e622f656dc7eadf7d8193480878648]
+## Schedule — Designated Bodies[^c-68e622f656dc7eadf7d8193480878648]
 
 ### Part 1 — Department of Health and Social Care
 
@@ -576,11 +576,11 @@ A full impact assessment has not been prepared for this instrument as no, or no 
 
 [^f00001]: Footnote: [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20). Section 4A was inserted by section 43(2) of the Constitutional Reform and Governance Act [2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25).
 
-[^key-64a6ac6e7b8d563751cf0bfa0c222fed]: Commencement: Art. 1 in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/295/article/1/1)
+[^c-64a6ac6e7b8d563751cf0bfa0c222fed]: Commencement: Art. 1 in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/295/article/1/1)
 
-[^key-06d1bdde54b757554f5e10e935c6b610]: Commencement: Art. 2 in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/295/article/1/1)
+[^c-06d1bdde54b757554f5e10e935c6b610]: Commencement: Art. 2 in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/295/article/1/1)
 
-[^key-68e622f656dc7eadf7d8193480878648]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2024/295/schedule) substituted (31.1.2025) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2024 (S.I. 2024/1323)](https://www.legislation.gov.uk/uksi/2024/1323), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1323/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1323/schedule)
+[^c-68e622f656dc7eadf7d8193480878648]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2024/295/schedule) substituted (31.1.2025) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2024 (S.I. 2024/1323)](https://www.legislation.gov.uk/uksi/2024/1323), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1323/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1323/schedule)
 
 [^f00003]: Footnote: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25). Section 149(7) was amended by paragraph 184 of Schedule 5 to the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), paragraph 15 of Schedule 1 to the NHS (Charitable Trusts Etc) Act [2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10) and paragraph 1 of Schedule 1, and paragraph 174 of Schedule 4, to the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Amendment to the Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Specification) Order 2004[^key-79005ace164baa1e1d6416db1186321a]
+## 85. Amendment to the Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Specification) Order 2004[^c-79005ace164baa1e1d6416db1186321a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ The Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Spec
 
 ## Annotations
 
-[^key-79005ace164baa1e1d6416db1186321a]: Commencement: Reg. 85 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-79005ace164baa1e1d6416db1186321a]: Commencement: Reg. 85 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 
 [^f00017]: Footnote: [S.I. 2004/693](https://www.legislation.gov.uk/uksi/2004/693). Regulation 3(a) inserts a reference to the Recreational Craft Regulations 2004 into the Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Specification) Order 2004.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Research etc. into matters connected with certain statutory functions[^key-1b081bbea9ac4676f2afd59eadd9712a][^key-67e669a6bfce66c89b6de29f495b9feb]
+## 33. Research etc. into matters connected with certain statutory functions[^c-1b081bbea9ac4676f2afd59eadd9712a][^c-67e669a6bfce66c89b6de29f495b9feb]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b081bbea9ac4676f2afd59eadd9712a]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2008/23/section/33) in force at 12.2.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2009/268/article/3/1/e)
+[^c-1b081bbea9ac4676f2afd59eadd9712a]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2008/23/section/33) in force at 12.2.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2009/268/article/3/1/e)
 
-[^key-67e669a6bfce66c89b6de29f495b9feb]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2008/23/section/33) in force at 26.4.2010 for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(n)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/n)
+[^c-67e669a6bfce66c89b6de29f495b9feb]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2008/23/section/33) in force at 26.4.2010 for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(n)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/n)

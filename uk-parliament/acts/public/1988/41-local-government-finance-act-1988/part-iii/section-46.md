@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Unoccupied hereditaments: supplementary.[^key-34229648791f05c0e808bfd6bb2c7614]
+## 46. Unoccupied hereditaments: supplementary.[^c-34229648791f05c0e808bfd6bb2c7614]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34229648791f05c0e808bfd6bb2c7614]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1988/41/section/46) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/2/3), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/a)
+[^c-34229648791f05c0e808bfd6bb2c7614]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1988/41/section/46) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/2/3), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/a)

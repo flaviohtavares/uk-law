@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 420A. Amounts payable in respect of hybrid capital instruments[^key-58d71fcb7c79cee06b50afb9a2cf1134]
+## 420A. Amounts payable in respect of hybrid capital instruments[^c-58d71fcb7c79cee06b50afb9a2cf1134]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58d71fcb7c79cee06b50afb9a2cf1134]: Textual amendment: S. 420A and cross-heading inserted (with effect in accordance with Sch. 20 paras. 10(a), 16 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/2)
+[^c-58d71fcb7c79cee06b50afb9a2cf1134]: Textual amendment: S. 420A and cross-heading inserted (with effect in accordance with Sch. 20 paras. 10(a), 16 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/2)

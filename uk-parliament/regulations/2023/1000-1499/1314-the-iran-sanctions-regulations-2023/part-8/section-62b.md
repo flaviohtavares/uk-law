@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62B. Ships licences[^key-12945535dae14d22e65673d8862cf371]
+## 62B. Ships licences[^c-12945535dae14d22e65673d8862cf371]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The prohibitions in regulation 45A(1) and (2) (prohibition on chartering or oper
 
 ## Annotations
 
-[^key-12945535dae14d22e65673d8862cf371]: Textual amendment: [Reg. 62B](https://www.legislation.gov.uk/uksi/2023/1314/regulation/62B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2026/983/regulation/25)
+[^c-12945535dae14d22e65673d8862cf371]: Textual amendment: [Reg. 62B](https://www.legislation.gov.uk/uksi/2023/1314/regulation/62B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2026/983/regulation/25)

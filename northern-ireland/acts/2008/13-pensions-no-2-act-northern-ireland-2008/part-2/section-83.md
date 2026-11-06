@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Additional State Pension etc.: minor and consequential amendments[^key-e1d94c0b7d00b150074cfac7b9216d78]
+## 83. Additional State Pension etc.: minor and consequential amendments[^c-e1d94c0b7d00b150074cfac7b9216d78]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (Additional State Pension etc.: minor and consequential amendments) h
 
 ## Annotations
 
-[^key-e1d94c0b7d00b150074cfac7b9216d78]: Commencement: S. 83 in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(b)](https://www.legislation.gov.uk/nisr/2011/441/article/2/b)
+[^c-e1d94c0b7d00b150074cfac7b9216d78]: Commencement: S. 83 in operation at 3.1.2012 for specified purposes by [S.R. 2011/441](https://www.legislation.gov.uk/nisr/2011/441), [art. 2(b)](https://www.legislation.gov.uk/nisr/2011/441/article/2/b)

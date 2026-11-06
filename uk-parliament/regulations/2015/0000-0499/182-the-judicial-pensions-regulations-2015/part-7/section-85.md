@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Annual rate of pension credit member’s pension[^key-d99c5deebc4571f83577a381f378745e]
+## 85. Annual rate of pension credit member’s pension[^c-d99c5deebc4571f83577a381f378745e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d99c5deebc4571f83577a381f378745e]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2015/182/regulation/85) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-d99c5deebc4571f83577a381f378745e]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2015/182/regulation/85) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Amendment of Chapter 4 (passengers and cabin baggage)[^key-e9c72ae2cda0bdb1f37f0626fea8928a]
+## 57. Amendment of Chapter 4 (passengers and cabin baggage)[^c-e9c72ae2cda0bdb1f37f0626fea8928a]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9c72ae2cda0bdb1f37f0626fea8928a]: Commencement: Reg. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-e9c72ae2cda0bdb1f37f0626fea8928a]: Commencement: Reg. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

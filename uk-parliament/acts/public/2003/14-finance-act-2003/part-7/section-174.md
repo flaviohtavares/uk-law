@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Personal pension arrangements: limit on contributions[^key-49285b266b9c54cd16d00a49496249fa]
+## 174. Personal pension arrangements: limit on contributions[^c-49285b266b9c54cd16d00a49496249fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49285b266b9c54cd16d00a49496249fa]: Textual amendment: [S. 174](https://www.legislation.gov.uk/ukpga/2003/14/section/174) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-49285b266b9c54cd16d00a49496249fa]: Textual amendment: [S. 174](https://www.legislation.gov.uk/ukpga/2003/14/section/174) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

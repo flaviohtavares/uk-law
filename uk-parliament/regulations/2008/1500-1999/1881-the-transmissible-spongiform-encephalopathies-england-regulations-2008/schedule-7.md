@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Specified risk material, mechanically separated meat and slaughtering techniques[^key-f255be8d4d38cd1c25610f24b9d544d0]
+## SCHEDULE 7 — Specified risk material, mechanically separated meat and slaughtering techniques[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,78 +24,78 @@ summary: ''
 
 Regulation 5
 
-### 1. Appointment of the Food Standards Agency as the competent authority[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 1. Appointment of the Food Standards Agency as the competent authority[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Training[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 2. Training[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Mechanically separated meat[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 3. Mechanically separated meat[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Pithing[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 4. Pithing[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Tongue harvesting[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 5. Tongue harvesting[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Head meat harvesting[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 6. Head meat harvesting[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Removal of specified risk material[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 7. Removal of specified risk material[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Bovine animals in a slaughterhouse[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 8. Bovine animals in a slaughterhouse[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Sheep and goats in a slaughterhouse[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 9. Sheep and goats in a slaughterhouse[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Young lamb and goat stamps[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 10. Young lamb and goat stamps[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Removal of spinal cord from sheep and goats[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 11. Removal of spinal cord from sheep and goats[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Authorisation of cutting plants by the Food Standards Agency[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 12. Authorisation of cutting plants by the Food Standards Agency[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Removal of specified risk material at a cutting plant authorised under paragraph 12(1)[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 13. Removal of specified risk material at a cutting plant authorised under paragraph 12(1)[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Meat from another member State[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 14. Meat from another member State[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Staining and disposal of specified risk material[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 15. Staining and disposal of specified risk material[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Scheme animals[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 16. Scheme animals[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Security of specified risk material[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 17. Security of specified risk material[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Prohibition on the supply of specified risk material for human consumption[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### 18. Prohibition on the supply of specified risk material for human consumption[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f255be8d4d38cd1c25610f24b9d544d0]: Textual amendment: Regulations revoked (6.4.2010) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2010 (S.I. 2010/801)](https://www.legislation.gov.uk/uksi/2010/801), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/801/regulation/1/c), [23(a)](https://www.legislation.gov.uk/uksi/2010/801/regulation/23/a)
+[^c-f255be8d4d38cd1c25610f24b9d544d0]: Textual amendment: Regulations revoked (6.4.2010) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2010 (S.I. 2010/801)](https://www.legislation.gov.uk/uksi/2010/801), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/801/regulation/1/c), [23(a)](https://www.legislation.gov.uk/uksi/2010/801/regulation/23/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Dealings in commodity futures[^key-db5731f1eb311341595c003dce7237fd]
+## 81. Dealings in commodity futures[^c-db5731f1eb311341595c003dce7237fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db5731f1eb311341595c003dce7237fd]: Textual amendment: S. 81 omitted (8.4.2010 with effect in accordance with Sch. 3 para. 11 of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/9)
+[^c-db5731f1eb311341595c003dce7237fd]: Textual amendment: S. 81 omitted (8.4.2010 with effect in accordance with Sch. 3 para. 11 of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/9)

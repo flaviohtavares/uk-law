@@ -31,7 +31,7 @@ and regulations under this section may apply standards, specifications, descript
 
 *Extent: E*
 
-(2A)[^key-1b882cb07ad08e085944f70b1967d568] Subsection (2) does not apply to regulations which apply only in relation to England.
+(2A)[^c-1b882cb07ad08e085944f70b1967d568] Subsection (2) does not apply to regulations which apply only in relation to England.
 
 (3) Any person who contravenes or causes or permits another person to contravene regulations under this section shall be guilty of an offence against this Part of this Act; but in any proceedings for a contravention or regulations made in pursuance of paragraph (a) of subsection (1) of this section it shall be a defence to prove that means were used for the purpose of reducing the noise in question which were not less effective for that purpose than the means required by the regulations.
 
@@ -43,4 +43,4 @@ and regulations under this section may apply standards, specifications, descript
 
 [^c2456161]: Marginal citation: [1961 c. 64](https://www.legislation.gov.uk/ukpga/1961/64).
 
-[^key-1b882cb07ad08e085944f70b1967d568]: Textual amendment: S. 68(2A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/4)
+[^c-1b882cb07ad08e085944f70b1967d568]: Textual amendment: S. 68(2A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/4)

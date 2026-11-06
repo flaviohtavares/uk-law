@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Charges for music tuition[^key-6f5ba367093835da84f5a942eb438e2a]
+## 56. Charges for music tuition[^c-6f5ba367093835da84f5a942eb438e2a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f5ba367093835da84f5a942eb438e2a]: Commencement: S. 56 in force at 25.5.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 6(b)](https://www.legislation.gov.uk/uksi/2007/935/article/6/b) (with transitional provisions and savings in [S.I. 2007/1271](https://www.legislation.gov.uk/uksi/2007/1271), art. 5)
+[^c-6f5ba367093835da84f5a942eb438e2a]: Commencement: S. 56 in force at 25.5.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 6(b)](https://www.legislation.gov.uk/uksi/2007/935/article/6/b) (with transitional provisions and savings in [S.I. 2007/1271](https://www.legislation.gov.uk/uksi/2007/1271), art. 5)

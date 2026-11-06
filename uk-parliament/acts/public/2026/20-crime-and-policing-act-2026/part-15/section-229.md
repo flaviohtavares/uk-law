@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. Rules of court about anonymity for respondents[^key-30198305a2173cc68ef44fec166651d9][^key-801633f940d9d5447ad54b567c2669d1]
+## 229. Rules of court about anonymity for respondents[^c-30198305a2173cc68ef44fec166651d9][^c-801633f940d9d5447ad54b567c2669d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30198305a2173cc68ef44fec166651d9]: Commencement: S. 229 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-30198305a2173cc68ef44fec166651d9]: Commencement: S. 229 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-801633f940d9d5447ad54b567c2669d1]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2026/20/section/229) in force at 29.6.2026 for E.W.S. by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z5)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z5)
+[^c-801633f940d9d5447ad54b567c2669d1]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2026/20/section/229) in force at 29.6.2026 for E.W.S. by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z5)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z5)

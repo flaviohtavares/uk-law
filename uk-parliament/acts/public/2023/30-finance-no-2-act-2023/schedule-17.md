@@ -32,8 +32,8 @@ Section 261
 | adjusted profits | section 133 |
 | authorised accounting standard | section 249(3) |
 | carrying value | section 259 |
-| CFC entity[^key-79b350f362dd1a46c58c604da9db8c8e] | section 179(4) |
-| CFS currency[^key-63f39f342f38f026c181cbba28ae7d67] | section 254(1) |
+| CFC entity[^c-79b350f362dd1a46c58c604da9db8c8e] | section 179(4) |
+| CFS currency[^c-63f39f342f38f026c181cbba28ae7d67] | section 254(1) |
 | combined covered tax balance | section 132 |
 | company | section 259 |
 | connected | section 258 |
@@ -65,8 +65,8 @@ Section 261
 | fair value | section 259 |
 | filing member | paragraph 2 of Schedule 14 |
 | flow-through entity | section 168(2) |
-| general partner (in Schedule 14)[^key-9e10da778f8e2f7e94286cada5deb04e] | paragraph 3(3) of Schedule 14 |
-| governmental[^key-bcefaece373c5c3b7a29a08a3a8c927b] entity | section 234(1) |
+| general partner (in Schedule 14)[^c-9e10da778f8e2f7e94286cada5deb04e] | paragraph 3(3) of Schedule 14 |
+| governmental[^c-bcefaece373c5c3b7a29a08a3a8c927b] entity | section 234(1) |
 | group (in Part 4) | section 266(9) |
 | held for sale | section 259 |
 | HMRC | section 259 |
@@ -97,7 +97,7 @@ Section 261
 | overseas REIT equivalent | section 259 |
 | partnership | section 259(1) |
 | pension fund | section 235(1) |
-| pension[^key-bce305bbed002cff8954c4b0b50db221] services entity | section 235(2) |
+| pension[^c-bce305bbed002cff8954c4b0b50db221] services entity | section 235(2) |
 | permanent establishment | section 232 |
 | Pillar Two rules | section 255 |
 | Pillar Two territory | section 241 |
@@ -113,9 +113,9 @@ Section 261
 | qualifying domestic top-up tax | section 256 |
 | qualifying entity (in Part 4) | section 266 |
 | qualifying financial statements (in Part 4) | section 266(10) |
-| qualifying member (in Chapter 9A of Part 3)[^key-c6c1eda6f7c9470ee9bf0dde36a95cad] |  |
+| qualifying member (in Chapter 9A of Part 3)[^c-c6c1eda6f7c9470ee9bf0dde36a95cad] |  |
 | qualifying reorganisation | section 212 |
-| qualifying tier one capital[^key-3f622668129992c318aecca18211c5d0] | section 155(3) |
+| qualifying tier one capital[^c-3f622668129992c318aecca18211c5d0] | section 155(3) |
 | qualifying undertaxed profits tax | section 257 |
 | refundable tax credit | section 148 |
 | recapture amount | section 190(4) |
@@ -145,16 +145,16 @@ Section 261
 
 ## Annotations
 
-[^key-79b350f362dd1a46c58c604da9db8c8e]: Textual amendment: Words in Sch. 17 Table inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 18(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/18/5)
+[^c-79b350f362dd1a46c58c604da9db8c8e]: Textual amendment: Words in Sch. 17 Table inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 18(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/18/5)
 
-[^key-63f39f342f38f026c181cbba28ae7d67]: Textual amendment: Words in Sch. 17 Table inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(4)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/4/c)
+[^c-63f39f342f38f026c181cbba28ae7d67]: Textual amendment: Words in Sch. 17 Table inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(4)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/4/c)
 
-[^key-9e10da778f8e2f7e94286cada5deb04e]: Textual amendment: Words in Sch. 17 Table inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(7)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/7)
+[^c-9e10da778f8e2f7e94286cada5deb04e]: Textual amendment: Words in Sch. 17 Table inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 2(7)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/2/7)
 
-[^key-bcefaece373c5c3b7a29a08a3a8c927b]: Textual amendment: Word in Sch. 17 Table substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/4/a)
+[^c-bcefaece373c5c3b7a29a08a3a8c927b]: Textual amendment: Word in Sch. 17 Table substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/4/a)
 
-[^key-bce305bbed002cff8954c4b0b50db221]: Textual amendment: Word in Sch. 17 Table substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/4/b)
+[^c-bce305bbed002cff8954c4b0b50db221]: Textual amendment: Word in Sch. 17 Table substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/4/b)
 
-[^key-c6c1eda6f7c9470ee9bf0dde36a95cad]: Textual amendment: Words in Sch. 17 Table inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 9(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/9/1), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-c6c1eda6f7c9470ee9bf0dde36a95cad]: Textual amendment: Words in Sch. 17 Table inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 9(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/9/1), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
 
-[^key-3f622668129992c318aecca18211c5d0]: Textual amendment: Words in Sch. 17 Table inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 47(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/47/5), [72(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/2)
+[^c-3f622668129992c318aecca18211c5d0]: Textual amendment: Words in Sch. 17 Table inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 47(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/47/5), [72(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/2)

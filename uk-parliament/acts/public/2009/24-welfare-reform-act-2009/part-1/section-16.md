@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. External provider social loans[^key-49b723a1a25ca05999a576fc163bdc4f]
+## 16. External provider social loans[^c-49b723a1a25ca05999a576fc163bdc4f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49b723a1a25ca05999a576fc163bdc4f]: Textual amendment: [Ss. 16-21](https://www.legislation.gov.uk/ukpga/2009/24/section/16) repealed (1.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 73](https://www.legislation.gov.uk/ukpga/2012/5/section/73), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/3090](https://www.legislation.gov.uk/uksi/2012/3090), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/3090/article/2/1/b)
+[^c-49b723a1a25ca05999a576fc163bdc4f]: Textual amendment: [Ss. 16-21](https://www.legislation.gov.uk/ukpga/2009/24/section/16) repealed (1.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 73](https://www.legislation.gov.uk/ukpga/2012/5/section/73), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/3090](https://www.legislation.gov.uk/uksi/2012/3090), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/3090/article/2/1/b)

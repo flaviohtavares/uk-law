@@ -50,16 +50,16 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Interpretation etc.
 
-### 1. Citation and commencement[^key-17b8848402a5b6bcfe694c642b24b5d6]
+### 1. Citation and commencement[^c-17b8848402a5b6bcfe694c642b24b5d6]
 
 These Regulations may be cited as the Water Environment (Remedial Measures) (Scotland) Regulations 2016 and come into force on 1st April 2016.
 
-### 2. Interpretation[^key-1461af033d2a2ef33e0c2cadd68e9f87]
+### 2. Interpretation[^c-1461af033d2a2ef33e0c2cadd68e9f87]
 
 (1) In these Regulations—
 
 - “the 2004 Regulations” means the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004[^f00003];
-- [^key-133cd55dedce22d6ceeff5733a0b5e98]...
+- [^c-133cd55dedce22d6ceeff5733a0b5e98]...
 - “appropriate person” means the Scottish Ministers, a responsible authority or Network Rail;
 - “the Act” means the Water Environment and Water Services (Scotland) Act 2003;
 - “artificial structure” means any structure or item (including a bridge, canal, culvert, fitting, pipe, rail-crossing, road, wall and any connected or related apparatus);
@@ -86,7 +86,7 @@ These Regulations may be cited as the Water Environment (Remedial Measures) (Sco
 
 ## PART 2 — Notices to improve or restore characteristics of bodies of water
 
-### 3. Remedial measures notice[^key-3f9bdd25a4832edb53e6180daf8403a5]
+### 3. Remedial measures notice[^c-3f9bdd25a4832edb53e6180daf8403a5]
 
 (1) SEPA may serve a remedial measures notice on an appropriate person requiring that person to undertake such remedial measures as may be specified in the notice.
 
@@ -98,7 +98,7 @@ These Regulations may be cited as the Water Environment (Remedial Measures) (Sco
 
 (3) The notice may be served on more than one appropriate person.
 
-### 4. Content of notice[^key-28e5b064a0507ce80a5875eea13bff71]
+### 4. Content of notice[^c-28e5b064a0507ce80a5875eea13bff71]
 
 (1) Each notice served under this Part must—
 
@@ -121,7 +121,7 @@ These Regulations may be cited as the Water Environment (Remedial Measures) (Sco
 
 ## PART 3 — Notices under Part 2: further provision
 
-### 5. Prior consultation[^key-f2445db3e1dc950d6504b27b53ae1d0f]
+### 5. Prior consultation[^c-f2445db3e1dc950d6504b27b53ae1d0f]
 
 (1) Before serving a remedial measures notice, SEPA must consult each—
 
@@ -135,7 +135,7 @@ These Regulations may be cited as the Water Environment (Remedial Measures) (Sco
 
 (3) SEPA must have regard to any representations it receives by virtue of paragraph (2)(b) before deciding to serve the notice.
 
-### 6. Variation notice[^key-ada17d7b1a06326b8a57eb435fb9cb27]
+### 6. Variation notice[^c-ada17d7b1a06326b8a57eb435fb9cb27]
 
 (1) SEPA may vary a remedial measures notice (as varied in accordance with any variation notice) (“the principal notice”) by serving a variation notice on each appropriate person on whom the principal notice was served.
 
@@ -149,7 +149,7 @@ These Regulations may be cited as the Water Environment (Remedial Measures) (Sco
 
 (3) The variation takes effect on the date specified in the variation notice (and this may be before, on or after a date specified in the principal notice by which a measure must be undertaken).
 
-### 7. Revocation notice[^key-7a3ec7586d1cf058d7c914070cdaa420]
+### 7. Revocation notice[^c-7a3ec7586d1cf058d7c914070cdaa420]
 
 (1) SEPA may revoke (in whole or in part) a remedial measures notice (as varied in accordance with any variation notice) (“the principal notice”) by serving a revocation notice on each appropriate person on whom the principal notice was served.
 
@@ -167,15 +167,15 @@ These Regulations may be cited as the Water Environment (Remedial Measures) (Sco
 
 ## PART 4 — Enforcement powers
 
-### 8. Powers and duty to monitor, enforce etc.[^key-f1cf9619630ed0f7fde912f3c1fb9d8b]
+### 8. Powers and duty to monitor, enforce etc.[^c-f1cf9619630ed0f7fde912f3c1fb9d8b]
 
 (1) SEPA must monitor compliance with, and enforce the provisions of, these Regulations.
 
 (2) SEPA may secure the carrying out, through such persons as it considers appropriate, of such examination and investigation as it considers necessary for the purpose of discharging its functions under these Regulations.
 
-(3)[^key-9acf7a9d3cd2cf72695e6ab3c562f42c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9acf7a9d3cd2cf72695e6ab3c562f42c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Power to obtain information[^key-8504381396e66e4687dd92cbc93d9ef6]
+### 9. Power to obtain information[^c-8504381396e66e4687dd92cbc93d9ef6]
 
 (1) Subject to paragraph (2), SEPA may serve an information notice on any person requiring that person to provide SEPA, within such period and in such form and manner as may be specified in the notice, with such information as SEPA reasonably considers necessary for the purposes of enabling it to perform any function under these Regulations.
 
@@ -183,7 +183,7 @@ These Regulations may be cited as the Water Environment (Remedial Measures) (Sco
 
 (3) SEPA may vary or revoke an information notice by serving, on the person on whom the information notice was served, a further notice varying or, as the case may be, revoking it.
 
-### 10. Enforcement by the courts[^key-bfed8efe7e9458c612e25d0da79b4baa]
+### 10. Enforcement by the courts[^c-bfed8efe7e9458c612e25d0da79b4baa]
 
 If SEPA is of the opinion that proceedings for an offence under regulation 11(1)(a) or (b) would afford an ineffectual remedy against a person who has failed to comply with a requirement of—
 
@@ -194,7 +194,7 @@ it may take proceedings in any court of competent jurisdiction for the purpose o
 
 ## PART 5 — Offences
 
-### 11. Offences[^key-c1a975b27a088dd6659e8dd6ec218f2a]
+### 11. Offences[^c-c1a975b27a088dd6659e8dd6ec218f2a]
 
 (1) It is an offence for an appropriate person to—
 
@@ -202,18 +202,18 @@ it may take proceedings in any court of competent jurisdiction for the purpose o
 - (b) fail to comply with the requirements of a variation notice;
 - (c) fail to comply with the requirements of an information notice.
 
-(2)[^key-76532e5d57d53e0e52da513c89868b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-76532e5d57d53e0e52da513c89868b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-76532e5d57d53e0e52da513c89868b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-76532e5d57d53e0e52da513c89868b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Defences[^key-48f6fe3b4d9ad55cff15eb43d215c825]
+### 12. Defences[^c-48f6fe3b4d9ad55cff15eb43d215c825]
 
 It is a defence for an appropriate person charged with an offence under regulation 11(1)(a) or (b) to show that—
 
 - (a) the acts or failures alleged to constitute the offence were a result of natural causes or force majeure which are exceptional or could not reasonably have been foreseen; or
 - (b) the person does not own, manage, maintain or is not otherwise responsible for the artificial structure in relation to which the remedial measures notice or variation notice was served.
 
-### 13. Penalties[^key-36ced262e9fea9a48788235b758c05e8]
+### 13. Penalties[^c-36ced262e9fea9a48788235b758c05e8]
 
 A person who commits an offence under regulation 11 is liable—
 
@@ -226,7 +226,7 @@ A person who commits an offence under regulation 11 is liable—
   - (ii) imprisonment for a term not exceeding 2 years; or
   - (iii) both.
 
-### 14. Offences by bodies corporate[^key-94d9467956589203154828f8e42b530b]
+### 14. Offences by bodies corporate[^c-94d9467956589203154828f8e42b530b]
 
 (1) Where—
 
@@ -245,7 +245,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (b) in relation to a Scottish partnership, a partner;
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-### 15. Power of court to order offence to be remedied[^key-5533c8be2c5c32d6511abe0608651ff4]
+### 15. Power of court to order offence to be remedied[^c-5533c8be2c5c32d6511abe0608651ff4]
 
 (1) If—
 
@@ -260,7 +260,7 @@ the court may, in addition to, or instead of, imposing any punishment, order the
 
 ## PART 6 — Appeals
 
-### 16. Appeals to the Scottish Ministers[^key-64ee41755808d348c73ab1eee116bc9c]
+### 16. Appeals to the Scottish Ministers[^c-64ee41755808d348c73ab1eee116bc9c]
 
 A person, other than the Scottish Ministers, who is aggrieved by a requirement imposed on the person by—
 
@@ -269,25 +269,25 @@ A person, other than the Scottish Ministers, who is aggrieved by a requirement i
 
 may appeal to the Scottish Ministers against the notice.
 
-### 17. Determination of appeals[^key-2bcf0e59d3816cebaca6c12f2addfaa9]
+### 17. Determination of appeals[^c-2bcf0e59d3816cebaca6c12f2addfaa9]
 
 On determining an appeal made under regulation 16, the Scottish Ministers may either quash or affirm the notice, and if they affirm it, they may do so in its original form or with such modifications as they may think fit.
 
-### 18. Effect of notices etc. during consideration of appeal[^key-d683b0e79fbe3e4a109e89d843608dc4]
+### 18. Effect of notices etc. during consideration of appeal[^c-d683b0e79fbe3e4a109e89d843608dc4]
 
 Where an appeal is made under regulation 16, the effect of the notice which is being appealed against is suspended until the day following the day on which the appeal is finally determined or withdrawn.
 
-### 19. Appeals – miscellaneous[^key-3e0a4bc4a836ee1c520f20be937a79df]
+### 19. Appeals – miscellaneous[^c-3e0a4bc4a836ee1c520f20be937a79df]
 
 The Schedule, which makes provision for procedures for appeals made under regulation 16, has effect.
 
 ## PART 7 — General
 
-### 20. Application to the Crown[^key-5d54abcaecf94b6538a2a7b2882713ab]
+### 20. Application to the Crown[^c-5d54abcaecf94b6538a2a7b2882713ab]
 
 These Regulations do not bind the Crown.
 
-### 21. Consequential amendments[^key-d83561586ef3043bc5f156a61dcf16a3]
+### 21. Consequential amendments[^c-d83561586ef3043bc5f156a61dcf16a3]
 
 In Schedule 1 to the Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Order 2011[^f00010], after the last entry, insert—
 
@@ -311,88 +311,88 @@ Edinburgh
 
 Regulation 19
 
-**1.**[^key-eecf2552657c28ddecd0bc10b6e14aa2] A person who wishes to appeal to the Scottish Ministers under regulation 16 must give to the Scottish Ministers written notice of the appeal together with the documents specified in paragraph 2 and must at the same time send to SEPA a copy of that notice together with copies of the documents specified in paragraph 2(a) and (d).
+**1.**[^c-eecf2552657c28ddecd0bc10b6e14aa2] A person who wishes to appeal to the Scottish Ministers under regulation 16 must give to the Scottish Ministers written notice of the appeal together with the documents specified in paragraph 2 and must at the same time send to SEPA a copy of that notice together with copies of the documents specified in paragraph 2(a) and (d).
 
-**2.**[^key-a265546d785cf9904c2876504283a415] The documents specified in this paragraph are—
+**2.**[^c-a265546d785cf9904c2876504283a415] The documents specified in this paragraph are—
 
 - (a) a statement of the grounds of appeal;
 - (b) a copy of any relevant correspondence between the appellant and SEPA;
 - (c) a copy of the notice which is the subject matter of the appeal; and
 - (d) a statement indicating whether the appellant wishes the appeal to be in the form of a hearing or to be disposed of on the basis of written representations.
 
-**3.**[^key-8d2595f2d0d922e95346da86149c160e] An appellant may withdraw an appeal by notifying the Scottish Ministers in writing, and must send a copy of that notification to SEPA.
+**3.**[^c-8d2595f2d0d922e95346da86149c160e] An appellant may withdraw an appeal by notifying the Scottish Ministers in writing, and must send a copy of that notification to SEPA.
 
-**4.**[^key-47708027cd632e83fc95dfd22431b9be] Subject to paragraph 5, notice of appeal in accordance with paragraph 1 is to be given—
+**4.**[^c-47708027cd632e83fc95dfd22431b9be] Subject to paragraph 5, notice of appeal in accordance with paragraph 1 is to be given—
 
 - (a) in relation to an appeal against a remedial measures notice, before the expiry of the period of two months beginning with the day on which the notice was served; and
 - (b) in relation to an appeal against a variation notice, before the expiry of the period of 28 days beginning with the day on which the notice was served.
 
-**5.**[^key-4c95ecc3bd438741906283354af96466] The Scottish Ministers may in a particular case allow notice of appeal to be given after the expiry of the period mentioned in paragraph 4.
+**5.**[^c-4c95ecc3bd438741906283354af96466] The Scottish Ministers may in a particular case allow notice of appeal to be given after the expiry of the period mentioned in paragraph 4.
 
-**6.**[^key-19f9168123b9f130a753e16dc5675fc7] Subject to paragraph 9, SEPA must, within 14 days of receipt of the copy of the notice of appeal sent in accordance with paragraph 1, give notice of it to—
+**6.**[^c-19f9168123b9f130a753e16dc5675fc7] Subject to paragraph 9, SEPA must, within 14 days of receipt of the copy of the notice of appeal sent in accordance with paragraph 1, give notice of it to—
 
 - (a) any person who made representations to SEPA with respect to the subject matter of the appeal; and
 - (b) any person who appears to SEPA to be affected or likely to be affected by, or have an interest in, the subject matter of the appeal.
 
-**7.**[^key-bd57a5edde03a122033c7598ebe78363] A notice given under paragraph 6 must—
+**7.**[^c-bd57a5edde03a122033c7598ebe78363] A notice given under paragraph 6 must—
 
 - (a) state that the notice of appeal has been given;
 - (b) state the name of the appellant and the address of the site to which the notice being appealed against applies;
 - (c) describe the notice to which the appeal relates; and
 - (d) state that representations with respect to the appeal may be made to the Scottish Ministers in writing by any recipient of the notice within a period of 21 days beginning with the date of the notice and that copies of any representations so made will be furnished to the appellant and to SEPA.
 
-**8.**[^key-511f77c364254407573dd1da18b0c1fd] SEPA must, within 14 days of giving a notice under paragraph 6—
+**8.**[^c-511f77c364254407573dd1da18b0c1fd] SEPA must, within 14 days of giving a notice under paragraph 6—
 
 - (a) notify the Scottish Ministers of the persons to whom and the date on which the notice was given; and
 - (b) indicate whether it wishes the appeal to be in the form of a hearing or to be disposed of on the basis of written representations.
 
-**9.**[^key-35e549bed154e3aeecbb9ef8b1cf9f4a] In the event of an appeal being withdrawn, SEPA must give notice of the withdrawal to every person to whom notice was given under paragraph 6.
+**9.**[^c-35e549bed154e3aeecbb9ef8b1cf9f4a] In the event of an appeal being withdrawn, SEPA must give notice of the withdrawal to every person to whom notice was given under paragraph 6.
 
-### 10. Hearing procedure[^key-a982c7c52370eb634c70a8099b9a35ca]
+### 10. Hearing procedure[^c-a982c7c52370eb634c70a8099b9a35ca]
 
 Before determining an appeal under regulation 16, the Scottish Ministers may afford the appellant and SEPA an opportunity of appearing before and being heard by a person appointed by them (“the appointed person”) and they must do so in any case where a request is made by the appellant or SEPA to be so heard.
 
-**11.**[^key-ce58f11294d04394dbcc0f58914187ca] A hearing held under paragraph 10 may, if the appointed person so decides, be held wholly, or held to any extent, in private.
+**11.**[^c-ce58f11294d04394dbcc0f58914187ca] A hearing held under paragraph 10 may, if the appointed person so decides, be held wholly, or held to any extent, in private.
 
-**12.**[^key-59468731925962ff174621ea61351fdc] If the Scottish Ministers cause a hearing to be held under paragraph 10, they must give the appellant and SEPA at least 28 days’ written notice (or such shorter period of notice as they may agree with the appellant and SEPA) of the date, time and place fixed for the holding of the hearing.
+**12.**[^c-59468731925962ff174621ea61351fdc] If the Scottish Ministers cause a hearing to be held under paragraph 10, they must give the appellant and SEPA at least 28 days’ written notice (or such shorter period of notice as they may agree with the appellant and SEPA) of the date, time and place fixed for the holding of the hearing.
 
-**13.**[^key-c204df8940eda9cabde0bbe090feae14] In the case of a hearing which is to be held wholly or partly in public, the Scottish Ministers must, at least 21 days before the date fixed for the holding of the hearing—
+**13.**[^c-c204df8940eda9cabde0bbe090feae14] In the case of a hearing which is to be held wholly or partly in public, the Scottish Ministers must, at least 21 days before the date fixed for the holding of the hearing—
 
 - (a) publish a copy of the notice given under paragraph 12 in a newspaper circulating in the locality in which the artificial structure which is the subject of the remedial measures notice or the variation notice, as the case may be, is located; and
 - (b) serve a copy of that notice on every person mentioned in paragraph 6 who has made representations to the Scottish Ministers.
 
-**14.**[^key-4db702bcb53c50fce97f0a1c7dc7d590] The Scottish Ministers may vary the date fixed for the holding of any hearing and paragraphs 12 and 13 apply to the variation of a date as they applied to the date originally fixed.
+**14.**[^c-4db702bcb53c50fce97f0a1c7dc7d590] The Scottish Ministers may vary the date fixed for the holding of any hearing and paragraphs 12 and 13 apply to the variation of a date as they applied to the date originally fixed.
 
-**15.**[^key-8cf9b87328d90248e276d9b86aab74fe] The Scottish Ministers may also vary the time or place for the holding of a hearing and must give such notice of any such variation as appears to them to be reasonable.
+**15.**[^c-8cf9b87328d90248e276d9b86aab74fe] The Scottish Ministers may also vary the time or place for the holding of a hearing and must give such notice of any such variation as appears to them to be reasonable.
 
-**16.**[^key-139e4d44d5034e3b655f4ae1008d1e81] The persons entitled to be heard at any hearing are the appellant and SEPA.
+**16.**[^c-139e4d44d5034e3b655f4ae1008d1e81] The persons entitled to be heard at any hearing are the appellant and SEPA.
 
-**17.**[^key-fae329e19d52f542f6ced2d3ca5a56ce] Nothing in paragraph 16 prevents the appointed person from permitting any other persons to be heard at the hearing and such permission must not be unreasonably withheld.
+**17.**[^c-fae329e19d52f542f6ced2d3ca5a56ce] Nothing in paragraph 16 prevents the appointed person from permitting any other persons to be heard at the hearing and such permission must not be unreasonably withheld.
 
-**18.**[^key-b6bcf181e0feff0177fd1c0f7c7af29b] After the conclusion of a hearing, the appointed person must make a report to the Scottish Ministers in writing which must include the conclusions and recommendations of that person or the reasons for not making any recommendation.
+**18.**[^c-b6bcf181e0feff0177fd1c0f7c7af29b] After the conclusion of a hearing, the appointed person must make a report to the Scottish Ministers in writing which must include the conclusions and recommendations of that person or the reasons for not making any recommendation.
 
-### 19. Procedure for written representations[^key-455925c00ab2826eacfbe22a154ca333]
+### 19. Procedure for written representations[^c-455925c00ab2826eacfbe22a154ca333]
 
 Where the appeal is to be disposed of on the basis of written representations, SEPA must submit any written representations to the Scottish Ministers not later than 28 days after receiving a copy of the documents specified in paragraph 2(a) and (d).
 
-**20.**[^key-68da787c699aa3a109a5c54db581cdbd] The appellant must make any further written representations by way of reply to any representations made by SEPA not later than 28 days after the date of submission of those representations by SEPA under paragraph 19.
+**20.**[^c-68da787c699aa3a109a5c54db581cdbd] The appellant must make any further written representations by way of reply to any representations made by SEPA not later than 28 days after the date of submission of those representations by SEPA under paragraph 19.
 
-**21.**[^key-93d4aa7fdea653e75610c45b72e1d8bd] Any written representations made by the appellant or SEPA must bear the date on which they are submitted to the Scottish Ministers.
+**21.**[^c-93d4aa7fdea653e75610c45b72e1d8bd] Any written representations made by the appellant or SEPA must bear the date on which they are submitted to the Scottish Ministers.
 
-**22.**[^key-c27af4e185580789e2f13bedc9fcfb48] When SEPA or the appellant submits any written representations to the Scottish Ministers they must at the same time send a copy of them to the other party.
+**22.**[^c-c27af4e185580789e2f13bedc9fcfb48] When SEPA or the appellant submits any written representations to the Scottish Ministers they must at the same time send a copy of them to the other party.
 
-**23.**[^key-3e0e2dc10db74c07d9d41e15a54e444e] The Scottish Ministers must send to the appellant and SEPA a copy of any written representations made to them by the persons mentioned in paragraph 6 and must allow the appellant and SEPA a period of not less than 14 days in which to make written representations on them.
+**23.**[^c-3e0e2dc10db74c07d9d41e15a54e444e] The Scottish Ministers must send to the appellant and SEPA a copy of any written representations made to them by the persons mentioned in paragraph 6 and must allow the appellant and SEPA a period of not less than 14 days in which to make written representations on them.
 
-**24.**[^key-345194aae5a22887e6bbf8ff56550541] The Scottish Ministers may in a particular case—
+**24.**[^c-345194aae5a22887e6bbf8ff56550541] The Scottish Ministers may in a particular case—
 
 - (a) set later time limits than those mentioned in paragraphs 19, 20 and 23;
 - (b) require exchanges of written representations between the parties in addition to those mentioned in paragraphs 19 and 20.
 
-### 25. Determination and publication of appeal[^key-5d9982d368f762bef9319d4a2d9041c3]
+### 25. Determination and publication of appeal[^c-5d9982d368f762bef9319d4a2d9041c3]
 
 The Scottish Ministers must give notice to the appellant of their determination of the appeal and their reasons for that determination, and must provide the appellant with a copy of any report made under paragraph 18.
 
-**26.**[^key-3ac4acbbec18821e7fbe2d1cddc31e6a] The Scottish Ministers must at the same time send a copy of the notice of the determination of the appeal, their reasons for that determination and a copy of any report made under paragraph 18 to SEPA and to any person who made representations to the Scottish Ministers during the appeal.
+**26.**[^c-3ac4acbbec18821e7fbe2d1cddc31e6a] The Scottish Ministers must at the same time send a copy of the notice of the determination of the appeal, their reasons for that determination and a copy of any report made under paragraph 18 to SEPA and to any person who made representations to the Scottish Ministers during the appeal.
 
 EXPLANATORY NOTE
 
@@ -418,13 +418,13 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Schedule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Section 2(2) is cited to enable (so far as may be necessary to supplement the other powers cited) provision to be made in relation to a responsible authority for the purposes of implementing, or enabling the implementation of, obligations arising out of or under [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy (OJ L 327, 22.12.2000, p.1), as amended by Decision No [2455/2001/EC](https://www.legislation.gov.uk/european/decision/2001/2455) (OJ L 331, 15.12.2001, p.1), [Directive 2008/32/EC](https://www.legislation.gov.uk/european/directive/2008/0032) (OJ L 81, 20.3.2008, p.60), [Directive 2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) (OJ L 348, 24.12.2008, p.84), [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) (OJ L 140, 5.6.2009, p.114) and Directive 2013/39/EU (OJ L 226, 24.8.2013, p.1) and for the purposes of dealing with matters arising out of or related to any such obligations.
 
-[^key-17b8848402a5b6bcfe694c642b24b5d6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-17b8848402a5b6bcfe694c642b24b5d6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-1461af033d2a2ef33e0c2cadd68e9f87]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/19/regulation/2) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-1461af033d2a2ef33e0c2cadd68e9f87]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/19/regulation/2) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99), as amended by [S.I. 2005/2035](https://www.legislation.gov.uk/uksi/2005/2035), [S.I. 2008/1097](https://www.legislation.gov.uk/uksi/2008/1097), [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.S.I. 2011/228](https://www.legislation.gov.uk/ssi/2011/228) and [S.S.I. 2013/1675](https://www.legislation.gov.uk/ssi/2013/1675).
 
-[^key-133cd55dedce22d6ceeff5733a0b5e98]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2016/19/regulation/2) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-133cd55dedce22d6ceeff5733a0b5e98]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2016/19/regulation/2) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^f00005]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -436,100 +436,100 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00009]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-3f9bdd25a4832edb53e6180daf8403a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/19/regulation/3) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-3f9bdd25a4832edb53e6180daf8403a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/19/regulation/3) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-28e5b064a0507ce80a5875eea13bff71]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/19/regulation/4) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-28e5b064a0507ce80a5875eea13bff71]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/19/regulation/4) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-f2445db3e1dc950d6504b27b53ae1d0f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/19/regulation/5) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-f2445db3e1dc950d6504b27b53ae1d0f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/19/regulation/5) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-ada17d7b1a06326b8a57eb435fb9cb27]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/19/regulation/6) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-ada17d7b1a06326b8a57eb435fb9cb27]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/19/regulation/6) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-7a3ec7586d1cf058d7c914070cdaa420]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/19/regulation/7) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-7a3ec7586d1cf058d7c914070cdaa420]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/19/regulation/7) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-f1cf9619630ed0f7fde912f3c1fb9d8b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/19/regulation/8) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-f1cf9619630ed0f7fde912f3c1fb9d8b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/19/regulation/8) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-9acf7a9d3cd2cf72695e6ab3c562f42c]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/ssi/2016/19/regulation/8/3) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-9acf7a9d3cd2cf72695e6ab3c562f42c]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/ssi/2016/19/regulation/8/3) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-8504381396e66e4687dd92cbc93d9ef6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/19/regulation/9) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-8504381396e66e4687dd92cbc93d9ef6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/19/regulation/9) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-bfed8efe7e9458c612e25d0da79b4baa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/19/regulation/10) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-bfed8efe7e9458c612e25d0da79b4baa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/19/regulation/10) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-c1a975b27a088dd6659e8dd6ec218f2a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/19/regulation/11) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-c1a975b27a088dd6659e8dd6ec218f2a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/19/regulation/11) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-76532e5d57d53e0e52da513c89868b50]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/ssi/2016/19/regulation/11/2)[(3)](https://www.legislation.gov.uk/ssi/2016/19/regulation/11/3) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-76532e5d57d53e0e52da513c89868b50]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/ssi/2016/19/regulation/11/2)[(3)](https://www.legislation.gov.uk/ssi/2016/19/regulation/11/3) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-48f6fe3b4d9ad55cff15eb43d215c825]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/19/regulation/12) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-48f6fe3b4d9ad55cff15eb43d215c825]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/19/regulation/12) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-36ced262e9fea9a48788235b758c05e8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/19/regulation/13) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-36ced262e9fea9a48788235b758c05e8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/19/regulation/13) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-94d9467956589203154828f8e42b530b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/19/regulation/14) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-94d9467956589203154828f8e42b530b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/19/regulation/14) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-5533c8be2c5c32d6511abe0608651ff4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/19/regulation/15) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-5533c8be2c5c32d6511abe0608651ff4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/19/regulation/15) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-64ee41755808d348c73ab1eee116bc9c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/19/regulation/16) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-64ee41755808d348c73ab1eee116bc9c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/19/regulation/16) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-2bcf0e59d3816cebaca6c12f2addfaa9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/19/regulation/17) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-2bcf0e59d3816cebaca6c12f2addfaa9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/19/regulation/17) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-d683b0e79fbe3e4a109e89d843608dc4]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/19/regulation/18) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-d683b0e79fbe3e4a109e89d843608dc4]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/19/regulation/18) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-3e0a4bc4a836ee1c520f20be937a79df]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/19/regulation/19) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-3e0a4bc4a836ee1c520f20be937a79df]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/19/regulation/19) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-5d54abcaecf94b6538a2a7b2882713ab]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2016/19/regulation/20) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-5d54abcaecf94b6538a2a7b2882713ab]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2016/19/regulation/20) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-d83561586ef3043bc5f156a61dcf16a3]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2016/19/regulation/21) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-d83561586ef3043bc5f156a61dcf16a3]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2016/19/regulation/21) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
 [^f00010]: Footnote: [S.S.I. 2011/368](https://www.legislation.gov.uk/ssi/2011/368).
 
 [^M_F_b5f853c3-30ca-4e0a-91ce-24ec44bac451]: Textual amendment: Reg. 22 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-eecf2552657c28ddecd0bc10b6e14aa2]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/1) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-eecf2552657c28ddecd0bc10b6e14aa2]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/1) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-a265546d785cf9904c2876504283a415]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/2) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-a265546d785cf9904c2876504283a415]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/2) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-8d2595f2d0d922e95346da86149c160e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/3) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-8d2595f2d0d922e95346da86149c160e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/3) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-47708027cd632e83fc95dfd22431b9be]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/4) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-47708027cd632e83fc95dfd22431b9be]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/4) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-4c95ecc3bd438741906283354af96466]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/5) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-4c95ecc3bd438741906283354af96466]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/5) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-19f9168123b9f130a753e16dc5675fc7]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/6) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-19f9168123b9f130a753e16dc5675fc7]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/6) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-bd57a5edde03a122033c7598ebe78363]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/7) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-bd57a5edde03a122033c7598ebe78363]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/7) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-511f77c364254407573dd1da18b0c1fd]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/8) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-511f77c364254407573dd1da18b0c1fd]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/8) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-35e549bed154e3aeecbb9ef8b1cf9f4a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/9) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-35e549bed154e3aeecbb9ef8b1cf9f4a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/9) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-a982c7c52370eb634c70a8099b9a35ca]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/10) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-a982c7c52370eb634c70a8099b9a35ca]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/10) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-ce58f11294d04394dbcc0f58914187ca]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/11) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-ce58f11294d04394dbcc0f58914187ca]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/11) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-59468731925962ff174621ea61351fdc]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/12) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-59468731925962ff174621ea61351fdc]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/12) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-c204df8940eda9cabde0bbe090feae14]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/13) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-c204df8940eda9cabde0bbe090feae14]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/13) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-4db702bcb53c50fce97f0a1c7dc7d590]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/14) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-4db702bcb53c50fce97f0a1c7dc7d590]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/14) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-8cf9b87328d90248e276d9b86aab74fe]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/15) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-8cf9b87328d90248e276d9b86aab74fe]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/15) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-139e4d44d5034e3b655f4ae1008d1e81]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/16) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-139e4d44d5034e3b655f4ae1008d1e81]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/16) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-fae329e19d52f542f6ced2d3ca5a56ce]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/17) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-fae329e19d52f542f6ced2d3ca5a56ce]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/17) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-b6bcf181e0feff0177fd1c0f7c7af29b]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/18) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-b6bcf181e0feff0177fd1c0f7c7af29b]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/18) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-455925c00ab2826eacfbe22a154ca333]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/19) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-455925c00ab2826eacfbe22a154ca333]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/19) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-68da787c699aa3a109a5c54db581cdbd]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/20) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-68da787c699aa3a109a5c54db581cdbd]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/20) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-93d4aa7fdea653e75610c45b72e1d8bd]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/21) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-93d4aa7fdea653e75610c45b72e1d8bd]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/21) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-c27af4e185580789e2f13bedc9fcfb48]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/22) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-c27af4e185580789e2f13bedc9fcfb48]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/22) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-3e0e2dc10db74c07d9d41e15a54e444e]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/23) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-3e0e2dc10db74c07d9d41e15a54e444e]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/23) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-345194aae5a22887e6bbf8ff56550541]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/24) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-345194aae5a22887e6bbf8ff56550541]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/24) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-5d9982d368f762bef9319d4a2d9041c3]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/25) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-5d9982d368f762bef9319d4a2d9041c3]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/25) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
 
-[^key-3ac4acbbec18821e7fbe2d1cddc31e6a]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/26) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)
+[^c-3ac4acbbec18821e7fbe2d1cddc31e6a]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ssi/2016/19/schedule/paragraph/26) in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/19/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59A. Additional functions of the Intelligence Services Commissioner[^key-971c18f388642678a4552df9cd762818]
+## 59A. Additional functions of the Intelligence Services Commissioner[^c-971c18f388642678a4552df9cd762818]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-971c18f388642678a4552df9cd762818]: Textual amendment: S. 59A repealed (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 240(2)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/240/2/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/i) (with [regs. 6-11](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))
+[^c-971c18f388642678a4552df9cd762818]: Textual amendment: S. 59A repealed (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 240(2)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/240/2/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/i) (with [regs. 6-11](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))

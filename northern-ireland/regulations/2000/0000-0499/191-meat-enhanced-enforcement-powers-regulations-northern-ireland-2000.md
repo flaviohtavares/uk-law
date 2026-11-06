@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Meat (Enhanced Enforcement Powers) Regulations (Northern Ireland) 2000 (revoked)[^key-3b942e880a2b2f903781300682e50b5c]
+Meat (Enhanced Enforcement Powers) Regulations (Northern Ireland) 2000 (revoked)[^c-3b942e880a2b2f903781300682e50b5c]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into operation
 
 30th June 2000
 
-[^key-3b942e880a2b2f903781300682e50b5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b942e880a2b2f903781300682e50b5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3b942e880a2b2f903781300682e50b5c]
+## 1. Citation, commencement and interpretation[^c-3b942e880a2b2f903781300682e50b5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997[^key-3b942e880a2b2f903781300682e50b5c]
+## 2. Amendments to the Fresh Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997[^c-3b942e880a2b2f903781300682e50b5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1995[^key-3b942e880a2b2f903781300682e50b5c]
+## 3. Amendments to the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1995[^c-3b942e880a2b2f903781300682e50b5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Meat Products (Hygiene) Regulations (Northern Ireland) 1997[^key-3b942e880a2b2f903781300682e50b5c]
+## 4. Amendments to the Meat Products (Hygiene) Regulations (Northern Ireland) 1997[^c-3b942e880a2b2f903781300682e50b5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Minced Meat and Meat Preparations (Hygiene) Regulations (Northern Ireland) 1997[^key-3b942e880a2b2f903781300682e50b5c]
+## 5. Amendments to the Minced Meat and Meat Preparations (Hygiene) Regulations (Northern Ireland) 1997[^c-3b942e880a2b2f903781300682e50b5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1998[^key-3b942e880a2b2f903781300682e50b5c]
+## 6. Amendments to the Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1998[^c-3b942e880a2b2f903781300682e50b5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b942e880a2b2f903781300682e50b5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b942e880a2b2f903781300682e50b5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3b942e880a2b2f903781300682e50b5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b942e880a2b2f903781300682e50b5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b942e880a2b2f903781300682e50b5c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/191) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)
+[^c-3b942e880a2b2f903781300682e50b5c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/191) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 440. Amount of charge[^key-74ea5d0d19e54792ecd1cf8a6a2ae033]
+## 440. Amount of charge[^c-74ea5d0d19e54792ecd1cf8a6a2ae033]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (3) CE is the amount of any consideration given for the entitlement to convert the employment-related securities or the securities in which they are an interest together with the amount of any expenses incurred by the holder of the employment-related securities in connection with the conversion, disposal, release or receipt.
 
-(3A)[^key-e97d40b7d5494779cf9e09b59170b417] If (because of subsection (2) of section 437) subsection (1) of that section did not apply in relation to the employment-related securities, the taxable amount is to be reduced by the amount by which—
+(3A)[^c-e97d40b7d5494779cf9e09b59170b417] If (because of subsection (2) of section 437) subsection (1) of that section did not apply in relation to the employment-related securities, the taxable amount is to be reduced by the amount by which—
 
 - (a) the market value of the employment-related securities for the purposes specified in that subsection, exceeded
 - (b) what it would have been had that subsection applied,
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74ea5d0d19e54792ecd1cf8a6a2ae033]: Textual amendment: Pt. 7 Ch. 3 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 4(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 4(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/4/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-74ea5d0d19e54792ecd1cf8a6a2ae033]: Textual amendment: Pt. 7 Ch. 3 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 4(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 4(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/4/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-e97d40b7d5494779cf9e09b59170b417]: Textual amendment: [S. 440(3A)](https://www.legislation.gov.uk/ukpga/2003/1/section/440/3A) inserted (with effect in accordance with Sch. 2 para. 10(2) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 10(1)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/10/1)
+[^c-e97d40b7d5494779cf9e09b59170b417]: Textual amendment: [S. 440(3A)](https://www.legislation.gov.uk/ukpga/2003/1/section/440/3A) inserted (with effect in accordance with Sch. 2 para. 10(2) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 10(1)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/10/1)

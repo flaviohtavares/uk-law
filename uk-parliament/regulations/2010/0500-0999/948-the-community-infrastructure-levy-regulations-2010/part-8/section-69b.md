@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69B. Instalment policies[^key-24fb0c4fc25769fbb88154dc0f373a76]
+## 69B. Instalment policies[^c-24fb0c4fc25769fbb88154dc0f373a76]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24fb0c4fc25769fbb88154dc0f373a76]: Textual amendment: Regs. 69B, 70 substituted for reg. 70 (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [9(11)](https://www.legislation.gov.uk/uksi/2011/987/regulation/9/11)
+[^c-24fb0c4fc25769fbb88154dc0f373a76]: Textual amendment: Regs. 69B, 70 substituted for reg. 70 (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [9(11)](https://www.legislation.gov.uk/uksi/2011/987/regulation/9/11)

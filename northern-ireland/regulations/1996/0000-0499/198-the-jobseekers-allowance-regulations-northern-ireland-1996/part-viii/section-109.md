@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 109. Disregard of capital of child or young person[^key-972709046c2f332df247cfaa94f70c82]
+## 109. Disregard of capital of child or young person[^c-972709046c2f332df247cfaa94f70c82]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The capital of a child or young person who is a member of the claimant’s famil
 
 ## Annotations
 
-[^key-972709046c2f332df247cfaa94f70c82]: Commencement: Reg. 109 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-972709046c2f332df247cfaa94f70c82]: Commencement: Reg. 109 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 14 — Repeals and revocations[^key-a278730cf9629aafea9280d872189a94][^key-951f35e0c7eabf898b6e8b528c7fcfd9][^key-99c8a0fe89eed99a1dd2d56d5e2b6b5e]
+## SCHEDULE 14 — Repeals and revocations[^c-a278730cf9629aafea9280d872189a94][^c-951f35e0c7eabf898b6e8b528c7fcfd9][^c-99c8a0fe89eed99a1dd2d56d5e2b6b5e]
 
 *Extent: E+W+S+N.I.*
 
 Section 196
 
-### Part 1 — NHS foundation trusts[^key-2d92c42e71acb78554152db1f108cbd9][^key-951f35e0c7eabf898b6e8b528c7fcfd9][^key-99c8a0fe89eed99a1dd2d56d5e2b6b5e]
+### Part 1 — NHS foundation trusts[^c-2d92c42e71acb78554152db1f108cbd9][^c-951f35e0c7eabf898b6e8b528c7fcfd9][^c-99c8a0fe89eed99a1dd2d56d5e2b6b5e]
 
 | *Reference* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -34,7 +34,7 @@ Section 196
 | Health and Social Care Act 2001 (c. 15) | In section 11(2), the “and” before paragraph (c). |
 | National Health Service Reform and Health Care Professions Act 2002 (c. 17) | In section 15(1), the “and” before paragraph (b). |
 
-### Part 2 — Standards[^key-214c3ceaf643361c67171fe7d4a66e2f][^key-951f35e0c7eabf898b6e8b528c7fcfd9][^key-cadd0774ebfc2fa61a5fd749c16fcde8][^key-99c8a0fe89eed99a1dd2d56d5e2b6b5e][^key-b84a1e77dfd8b0ab4e5b289b1dec7e57][^key-c8d7e9a5b1d3a41561076c87dfa1f4ac]
+### Part 2 — Standards[^c-214c3ceaf643361c67171fe7d4a66e2f][^c-951f35e0c7eabf898b6e8b528c7fcfd9][^c-cadd0774ebfc2fa61a5fd749c16fcde8][^c-99c8a0fe89eed99a1dd2d56d5e2b6b5e][^c-b84a1e77dfd8b0ab4e5b289b1dec7e57][^c-c8d7e9a5b1d3a41561076c87dfa1f4ac]
 
 | *Reference* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -56,7 +56,7 @@ Section 196
 | National Health Service Reform and Health Care Professions Act 2002 (c. 17) | Sections 11 to 14.<br>In Schedule 1, paragraphs 37, 49 and 50.<br>In Schedule 5, paragraph 44.<br>In Schedule 8, paragraphs 28 to 31. |
 | Health and Social Care (Community Health and Standards) Act 2003 | In Schedule 9, paragraph 27. |
 
-### Part 3 — Recovery of NHS charges[^key-951f35e0c7eabf898b6e8b528c7fcfd9][^key-99c8a0fe89eed99a1dd2d56d5e2b6b5e][^key-e806e469afda6425449b340a9d3126c5][^key-4baf29af179979373329dd3dddd1f7f3]
+### Part 3 — Recovery of NHS charges[^c-951f35e0c7eabf898b6e8b528c7fcfd9][^c-99c8a0fe89eed99a1dd2d56d5e2b6b5e][^c-e806e469afda6425449b340a9d3126c5][^c-4baf29af179979373329dd3dddd1f7f3]
 
 | *Reference* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -65,7 +65,7 @@ Section 196
 | Tribunals and Inquiries Act 1992 (c. 53) | In Part 2 of Schedule 1, paragraph 56(e). |
 | Community Care and Health (Scotland) Act 2002 (asp 5) | Section 20(3). |
 
-### Part 4 — Dental and medical services[^key-951f35e0c7eabf898b6e8b528c7fcfd9][^key-99c8a0fe89eed99a1dd2d56d5e2b6b5e][^key-0f57166fd8ff5358da9e5d847feeb2ff][^key-426668415f2b9a97c6ac1541a6a8e794][^key-1ca6b3e1ce87ed895a079bafd50580cc][^key-580fcebc2fc9540e9bcd74ded678625c][^key-98c29ea6945897bdf7cedca81e3bfa7b][^key-181d32dde76352295836a087c8042650][^key-a73a5658639863e2daf1e24e3c8c2f03]
+### Part 4 — Dental and medical services[^c-951f35e0c7eabf898b6e8b528c7fcfd9][^c-99c8a0fe89eed99a1dd2d56d5e2b6b5e][^c-0f57166fd8ff5358da9e5d847feeb2ff][^c-426668415f2b9a97c6ac1541a6a8e794][^c-1ca6b3e1ce87ed895a079bafd50580cc][^c-580fcebc2fc9540e9bcd74ded678625c][^c-98c29ea6945897bdf7cedca81e3bfa7b][^c-181d32dde76352295836a087c8042650][^c-a73a5658639863e2daf1e24e3c8c2f03]
 
 <table>
 <tfoot>
@@ -105,19 +105,19 @@ Section 196
 </tbody>
 </table>
 
-### Part 5 — Replacement of Welfare Food Schemes[^key-951f35e0c7eabf898b6e8b528c7fcfd9][^key-99c8a0fe89eed99a1dd2d56d5e2b6b5e][^key-18b54e175ddc785d46690a1d3f705c49]
+### Part 5 — Replacement of Welfare Food Schemes[^c-951f35e0c7eabf898b6e8b528c7fcfd9][^c-99c8a0fe89eed99a1dd2d56d5e2b6b5e][^c-18b54e175ddc785d46690a1d3f705c49]
 
 | *Reference* | *Extent of repeal or revocation* |
 | --- | --- |
 | Social Security Act 1988 (c. 7) | Section 15A(3). |
 
-### Part 6 — Loans by Secretary of State to NHS trusts[^key-951f35e0c7eabf898b6e8b528c7fcfd9][^key-99c8a0fe89eed99a1dd2d56d5e2b6b5e]
+### Part 6 — Loans by Secretary of State to NHS trusts[^c-951f35e0c7eabf898b6e8b528c7fcfd9][^c-99c8a0fe89eed99a1dd2d56d5e2b6b5e]
 
 | *Reference* | *Extent of repeal or revocation* |
 | --- | --- |
 | National Health Service and Community Care Act 1990 (c. 19) | In Schedule 3, in paragraph 1(6), the words “, with the consent of the Treasury,”. |
 
-### Part 7 — Abolition of the Public Health Laboratory Service Board[^key-951f35e0c7eabf898b6e8b528c7fcfd9][^key-99c8a0fe89eed99a1dd2d56d5e2b6b5e][^key-c9df72b48c58fbd629c69644ffef962e]
+### Part 7 — Abolition of the Public Health Laboratory Service Board[^c-951f35e0c7eabf898b6e8b528c7fcfd9][^c-99c8a0fe89eed99a1dd2d56d5e2b6b5e][^c-c9df72b48c58fbd629c69644ffef962e]
 
 | *Reference* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -137,40 +137,40 @@ Section 196
 
 ## Annotations
 
-[^key-a278730cf9629aafea9280d872189a94]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14) in force at 1.3.2004 for specified purposes for E. by [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2004/288/article/4/2/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2004/288/article/7), [8](https://www.legislation.gov.uk/uksi/2004/288/article/8)) (as amended by S.I. 2004/866 and S.I. 2005/2925)
+[^c-a278730cf9629aafea9280d872189a94]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14) in force at 1.3.2004 for specified purposes for E. by [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2004/288/article/4/2/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2004/288/article/7), [8](https://www.legislation.gov.uk/uksi/2004/288/article/8)) (as amended by S.I. 2004/866 and S.I. 2005/2925)
 
-[^key-951f35e0c7eabf898b6e8b528c7fcfd9]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14) in force at 1.4.2004 for specified purposes for E. by [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 6](https://www.legislation.gov.uk/uksi/2004/288/article/6) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2004/288/article/7)) (as amended by S.I. 2004/866 and S.I. 2005/2925)
+[^c-951f35e0c7eabf898b6e8b528c7fcfd9]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14) in force at 1.4.2004 for specified purposes for E. by [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 6](https://www.legislation.gov.uk/uksi/2004/288/article/6) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2004/288/article/7)) (as amended by S.I. 2004/866 and S.I. 2005/2925)
 
-[^key-99c8a0fe89eed99a1dd2d56d5e2b6b5e]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14) in force at 1.4.2004 for specified purposes for W. by [S.I. 2004/480](https://www.legislation.gov.uk/wsi/2004/480), [art. 5](https://www.legislation.gov.uk/wsi/2004/480/article/5) (with [arts. 6](https://www.legislation.gov.uk/wsi/2004/480/article/6), [7](https://www.legislation.gov.uk/wsi/2004/480/article/7)) (as amended by S.I. 2004/1019 and S.I. 2006/345)
+[^c-99c8a0fe89eed99a1dd2d56d5e2b6b5e]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14) in force at 1.4.2004 for specified purposes for W. by [S.I. 2004/480](https://www.legislation.gov.uk/wsi/2004/480), [art. 5](https://www.legislation.gov.uk/wsi/2004/480/article/5) (with [arts. 6](https://www.legislation.gov.uk/wsi/2004/480/article/6), [7](https://www.legislation.gov.uk/wsi/2004/480/article/7)) (as amended by S.I. 2004/1019 and S.I. 2006/345)
 
-[^key-2d92c42e71acb78554152db1f108cbd9]: Commencement: [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/1) in force at 1.4.2004 for E.W. insofar as not already in force by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 12](https://www.legislation.gov.uk/uksi/2004/759/article/12)
+[^c-2d92c42e71acb78554152db1f108cbd9]: Commencement: [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/1) in force at 1.4.2004 for E.W. insofar as not already in force by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 12](https://www.legislation.gov.uk/uksi/2004/759/article/12)
 
-[^key-214c3ceaf643361c67171fe7d4a66e2f]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2) in force at 1.4.2004 for specified purposes for E.W. by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 13](https://www.legislation.gov.uk/uksi/2004/759/article/13)
+[^c-214c3ceaf643361c67171fe7d4a66e2f]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2) in force at 1.4.2004 for specified purposes for E.W. by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 13](https://www.legislation.gov.uk/uksi/2004/759/article/13)
 
-[^key-cadd0774ebfc2fa61a5fd749c16fcde8]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2) in force at 1.4.2004 for specified purposes for W. by [S.I. 2004/873](https://www.legislation.gov.uk/wsi/2004/873), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/873/article/2/e)
+[^c-cadd0774ebfc2fa61a5fd749c16fcde8]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2) in force at 1.4.2004 for specified purposes for W. by [S.I. 2004/873](https://www.legislation.gov.uk/wsi/2004/873), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/873/article/2/e)
 
-[^key-b84a1e77dfd8b0ab4e5b289b1dec7e57]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2) in force at 1.9.2006 for specified purposes for E. by [S.I. 2006/1680](https://www.legislation.gov.uk/uksi/2006/1680), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1680/article/3/d)
+[^c-b84a1e77dfd8b0ab4e5b289b1dec7e57]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2) in force at 1.9.2006 for specified purposes for E. by [S.I. 2006/1680](https://www.legislation.gov.uk/uksi/2006/1680), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1680/article/3/d)
 
-[^key-c8d7e9a5b1d3a41561076c87dfa1f4ac]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2) in force at 1.8.2014 for specified purposes for W. by [S.I. 2014/1793](https://www.legislation.gov.uk/wsi/2014/1793), [art. 2](https://www.legislation.gov.uk/wsi/2014/1793/article/2)
+[^c-c8d7e9a5b1d3a41561076c87dfa1f4ac]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2) in force at 1.8.2014 for specified purposes for W. by [S.I. 2014/1793](https://www.legislation.gov.uk/wsi/2014/1793), [art. 2](https://www.legislation.gov.uk/wsi/2014/1793/article/2)
 
-[^key-e806e469afda6425449b340a9d3126c5]: Commencement: [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/3) in force at 29.1.2007 for specified purposes for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/3397/article/3/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/3397/article/4))
+[^c-e806e469afda6425449b340a9d3126c5]: Commencement: [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/3) in force at 29.1.2007 for specified purposes for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/3397/article/3/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/3397/article/4))
 
-[^key-4baf29af179979373329dd3dddd1f7f3]: Commencement: [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/3) in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(g)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/g) (with [art. 3](https://www.legislation.gov.uk/ssi/2007/10/article/3))
+[^c-4baf29af179979373329dd3dddd1f7f3]: Commencement: [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/3) in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(g)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/g) (with [art. 3](https://www.legislation.gov.uk/ssi/2007/10/article/3))
 
-[^key-0f57166fd8ff5358da9e5d847feeb2ff]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 17.1.2005 for specified purposes for E. by [S.I. 2005/38](https://www.legislation.gov.uk/uksi/2005/38), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/38/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/38/article/3))
+[^c-0f57166fd8ff5358da9e5d847feeb2ff]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 17.1.2005 for specified purposes for E. by [S.I. 2005/38](https://www.legislation.gov.uk/uksi/2005/38), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/38/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/38/article/3))
 
-[^key-426668415f2b9a97c6ac1541a6a8e794]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 1.12.2005 for specified purposes for E. by [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 6(1)(c)](https://www.legislation.gov.uk/uksi/2005/2925/article/6/1/c)
+[^c-426668415f2b9a97c6ac1541a6a8e794]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 1.12.2005 for specified purposes for E. by [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 6(1)(c)](https://www.legislation.gov.uk/uksi/2005/2925/article/6/1/c)
 
-[^key-1ca6b3e1ce87ed895a079bafd50580cc]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 15.2.2006 for specified purposes for W. by [S.I. 2006/345](https://www.legislation.gov.uk/wsi/2006/345), [art. 4(1)(c)](https://www.legislation.gov.uk/wsi/2006/345/article/4/1/c)
+[^c-1ca6b3e1ce87ed895a079bafd50580cc]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 15.2.2006 for specified purposes for W. by [S.I. 2006/345](https://www.legislation.gov.uk/wsi/2006/345), [art. 4(1)(c)](https://www.legislation.gov.uk/wsi/2006/345/article/4/1/c)
 
-[^key-580fcebc2fc9540e9bcd74ded678625c]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 1.4.2006 for specified purposes for W. by [S.I. 2006/345](https://www.legislation.gov.uk/wsi/2006/345), [art. 7(1)](https://www.legislation.gov.uk/wsi/2006/345/article/7/1)
+[^c-580fcebc2fc9540e9bcd74ded678625c]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 1.4.2006 for specified purposes for W. by [S.I. 2006/345](https://www.legislation.gov.uk/wsi/2006/345), [art. 7(1)](https://www.legislation.gov.uk/wsi/2006/345/article/7/1)
 
-[^key-98c29ea6945897bdf7cedca81e3bfa7b]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 1.4.2006 for specified purposes by [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11(1)](https://www.legislation.gov.uk/uksi/2005/2925/article/11/1)
+[^c-98c29ea6945897bdf7cedca81e3bfa7b]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 1.4.2006 for specified purposes by [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11(1)](https://www.legislation.gov.uk/uksi/2005/2925/article/11/1)
 
-[^key-181d32dde76352295836a087c8042650]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 27.10.2006 for specified purposes by [S.I. 2006/2817](https://www.legislation.gov.uk/uksi/2006/2817), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2817/article/2/b)
+[^c-181d32dde76352295836a087c8042650]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 27.10.2006 for specified purposes by [S.I. 2006/2817](https://www.legislation.gov.uk/uksi/2006/2817), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2817/article/2/b)
 
-[^key-a73a5658639863e2daf1e24e3c8c2f03]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 1.3.2007 for specified purposes, immediately before the National Health Service Act 2006 comes into force by [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/13) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-a73a5658639863e2daf1e24e3c8c2f03]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) in force at 1.3.2007 for specified purposes, immediately before the National Health Service Act 2006 comes into force by [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/13) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
-[^key-18b54e175ddc785d46690a1d3f705c49]: Commencement: [Sch. 14 Pt. 5](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/5) in force at 7.10.2005 by [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/2/b)
+[^c-18b54e175ddc785d46690a1d3f705c49]: Commencement: [Sch. 14 Pt. 5](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/5) in force at 7.10.2005 by [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/2/b)
 
-[^key-c9df72b48c58fbd629c69644ffef962e]: Commencement: [Sch. 14 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/7) in force at 1.4.2005 for E.W. by [S.I. 2005/457](https://www.legislation.gov.uk/uksi/2005/457), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/457/article/2/b)
+[^c-c9df72b48c58fbd629c69644ffef962e]: Commencement: [Sch. 14 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/7) in force at 1.4.2005 for E.W. by [S.I. 2005/457](https://www.legislation.gov.uk/uksi/2005/457), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/457/article/2/b)

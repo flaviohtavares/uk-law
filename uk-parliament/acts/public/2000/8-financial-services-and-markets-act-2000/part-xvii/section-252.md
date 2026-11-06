@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If the FCA[^key-3e4eb04b65e89eb5f622d8f7cf8e1291] proposes to refuse approval of a proposal under section 251[^c2109404] to replace the trustee or manager of an authorised unit trust scheme, it must give a warning notice to the person by whom notice of the proposal was given under section 251(1) or (3).
+(1) If the FCA[^c-3e4eb04b65e89eb5f622d8f7cf8e1291] proposes to refuse approval of a proposal under section 251[^c2109404] to replace the trustee or manager of an authorised unit trust scheme, it must give a warning notice to the person by whom notice of the proposal was given under section 251(1) or (3).
 
 (2) If the FCA proposes to refuse approval of a proposal under section 251 to alter an authorised unit trust scheme it must give separate warning notices to the manager and the trustee of the scheme.
 
@@ -39,7 +39,7 @@ summary: ''
 
 [^c2109402]: Textual amendment: Words in s. 252 heading substituted (1.7.2011) by The Undertakings for Collective Investment in [Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [reg. 2(18)(a)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/2/18/a)
 
-[^key-3e4eb04b65e89eb5f622d8f7cf8e1291]: Textual amendment: Word in ss. 242-252A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3e4eb04b65e89eb5f622d8f7cf8e1291]: Textual amendment: Word in ss. 242-252A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c2109404]: Textual amendment: Words in s. 252(1)(2) inserted (1.7.2011) by The Undertakings for Collective Investment in [Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [reg. 2(18)(b)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/2/18/b)
 

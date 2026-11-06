@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Effect of approval[^key-a9899c9b55270c86a0586bf6e659e6dd]
+## 68. Effect of approval[^c-a9899c9b55270c86a0586bf6e659e6dd]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9899c9b55270c86a0586bf6e659e6dd]: Commencement: S. 68 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-a9899c9b55270c86a0586bf6e659e6dd]: Commencement: S. 68 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

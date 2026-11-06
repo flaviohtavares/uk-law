@@ -24,7 +24,7 @@ Article 2
 
 ### General
 
-**1.**[^key-7e58fcaa8b80d54ef551e617143ca060] (1) In this Schedule–
+**1.**[^c-7e58fcaa8b80d54ef551e617143ca060] (1) In this Schedule–
 
 - “the Court” means the European Court of Human Rights established by Article 19 of the Convention (or any Chamber, judge or judges of the Court carrying out their duties under the terms of the Convention or the rules of the Court);
 - “the Convention” means the Convention for the Protection of Human Rights and Fundamental Freedoms signed at Rome on 4th November 1950[^f00017] as amended by Protocol No. 11 to the Convention for the Protection of Human Rights and Fundamental Freedoms restructuring the control machinery established thereby[^f00018];
@@ -45,9 +45,9 @@ shall be deemed to be proceedings before the Court, (and the person making any s
 
 ### The Court
 
-**2.**[^key-a9395acc4d88352b17a6d6b45e3b55de] The judges of the Court, the Registrar of the Court and the Deputy Registrar of the Court shall have inviolability in respect of their documents and papers in so far as they relate to the business of the Court.
+**2.**[^c-a9395acc4d88352b17a6d6b45e3b55de] The judges of the Court, the Registrar of the Court and the Deputy Registrar of the Court shall have inviolability in respect of their documents and papers in so far as they relate to the business of the Court.
 
-**3.**[^key-001393930214a904cf498a351750d07e] Except in so far as in any particular case such immunity or privilege is waived by the Court sitting in plenary session, judges of the Court, the Registrar of the Court and, when acting as the Registrar, the Deputy Registrar of the Court shall enjoy–
+**3.**[^c-001393930214a904cf498a351750d07e] Except in so far as in any particular case such immunity or privilege is waived by the Court sitting in plenary session, judges of the Court, the Registrar of the Court and, when acting as the Registrar, the Deputy Registrar of the Court shall enjoy–
 
 - (a) unless they are British citizens, British overseas territories citizens, British Overseas citizens, British Nationals (Overseas) or are permanently resident in the United Kingdom–
   - (i) the like immunity from suit and legal process as is accorded to or in respect of the head of a diplomatic mission; and
@@ -55,7 +55,7 @@ shall be deemed to be proceedings before the Court, (and the person making any s
   - (iii) the like exemption or relief from local taxes (as described in the exception in Section A1 of Part II of Schedule 5 to the Scotland Act 1998) as is accorded to or in respect of the head of a diplomatic mission; and
 - (b) immunity from suit and legal process in respect of words written or spoken and things done or omitted to be done by them in their official capacity.
 
-**4.**[^key-c3d7f37e7db0c88f9de08fc961ffce36] (1) Except in so far as in any particular case such immunity or privilege is waived by the Court sitting in plenary session, spouses (or civil partners) and any children (under 18 years of age) of judges of the Court shall enjoy–
+**4.**[^c-c3d7f37e7db0c88f9de08fc961ffce36] (1) Except in so far as in any particular case such immunity or privilege is waived by the Court sitting in plenary session, spouses (or civil partners) and any children (under 18 years of age) of judges of the Court shall enjoy–
 
 - (a) the like immunity from suit and legal process as is accorded to or in respect of the head of a diplomatic mission;
 - (b) the like inviolability of residence as is accorded to or in respect of the head of a diplomatic mission; and
@@ -65,7 +65,7 @@ shall be deemed to be proceedings before the Court, (and the person making any s
 
 ### Persons participating in proceedings
 
-**5.**[^key-61e5db1966bc32461e79e7b473c0b0d2] (1) Except in so far as in any particular case such immunity is waived by the Court, persons participating in proceedings shall have–
+**5.**[^c-61e5db1966bc32461e79e7b473c0b0d2] (1) Except in so far as in any particular case such immunity is waived by the Court, persons participating in proceedings shall have–
 
 - (a) in respect of words written or spoken and documents or other evidence submitted by them before or to the Court (other than where such words, documents or evidence or any part thereof are communicated by them or on their behalf outside the Court), the like immunity from suit and legal process as is accorded to or in respect of the head of a diplomatic mission; and
 - (b) while passing in transit through the United Kingdom during their journeys to and from the proceedings, or while in the United Kingdom for the purpose of such proceedings there, immunity from criminal proceedings and (other than for the purpose of detaining a person who has escaped from legal custody) from personal arrest in respect of acts or convictions prior to the commencement of the journey.
@@ -74,16 +74,16 @@ shall be deemed to be proceedings before the Court, (and the person making any s
 
 ## Annotations
 
-[^key-7e58fcaa8b80d54ef551e617143ca060]: Commencement: Sch. 5 para. 1 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-7e58fcaa8b80d54ef551e617143ca060]: Commencement: Sch. 5 para. 1 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
 [^f00017]: Footnote: Cmnd. 8969.
 
 [^f00018]: Footnote: Cm. 4353.
 
-[^key-a9395acc4d88352b17a6d6b45e3b55de]: Commencement: Sch. 5 para. 2 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-a9395acc4d88352b17a6d6b45e3b55de]: Commencement: Sch. 5 para. 2 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-001393930214a904cf498a351750d07e]: Commencement: Sch. 5 para. 3 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-001393930214a904cf498a351750d07e]: Commencement: Sch. 5 para. 3 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-c3d7f37e7db0c88f9de08fc961ffce36]: Commencement: Sch. 5 para. 4 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-c3d7f37e7db0c88f9de08fc961ffce36]: Commencement: Sch. 5 para. 4 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-61e5db1966bc32461e79e7b473c0b0d2]: Commencement: Sch. 5 para. 5 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-61e5db1966bc32461e79e7b473c0b0d2]: Commencement: Sch. 5 para. 5 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)

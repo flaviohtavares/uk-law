@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Members' contributions[^key-ccaaa03fa660738a0e8503395357e5bf]
+## 11. Members' contributions[^c-ccaaa03fa660738a0e8503395357e5bf]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccaaa03fa660738a0e8503395357e5bf]: Commencement: Reg. 11 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-ccaaa03fa660738a0e8503395357e5bf]: Commencement: Reg. 11 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

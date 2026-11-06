@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Annual report[^key-01b130386243c647612347e05cdb5564][^key-14839ed3c924accb285beeb438a0a6c9]
+## 82. Annual report[^c-01b130386243c647612347e05cdb5564][^c-14839ed3c924accb285beeb438a0a6c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01b130386243c647612347e05cdb5564]: Commencement: S. 82 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-01b130386243c647612347e05cdb5564]: Commencement: S. 82 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-14839ed3c924accb285beeb438a0a6c9]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2023/32/section/82) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-14839ed3c924accb285beeb438a0a6c9]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2023/32/section/82) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

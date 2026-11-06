@@ -28,7 +28,7 @@ summary: ''
 (2) Except as provided by subsection (1) above—
 
 - (a) any pension or lump sum payable under Part I above,
-- (aa)[^key-a350f78afb219989dca9ff165c6a557c] any pension or other benefits payable under a scheme made under section 18A above, and
+- (aa)[^c-a350f78afb219989dca9ff165c6a557c] any pension or other benefits payable under a scheme made under section 18A above, and
 - (b) any payment authorised to be made under section 19 above,
 
 shall be met out of money provided by Parliament.
@@ -41,15 +41,15 @@ shall be met out of money provided by Parliament.
 
 (6)[^c19085611] Any sums received by the Treasury under section 21 above shall be paid into the Consolidated Fund.
 
-(7) Nothing in this section applies in relation to any pension or other benefits payable under or by virtue of —[^key-1957ae8a32a5da28bfd388c27bc709b1]
+(7) Nothing in this section applies in relation to any pension or other benefits payable under or by virtue of —[^c-1957ae8a32a5da28bfd388c27bc709b1]
 
 - (a) section 10 above, or
 - (b) provision made under section 18A above that is corresponding or similar to the provision that may be made by regulations under section 10 above.
 
 ## Annotations
 
-[^key-a350f78afb219989dca9ff165c6a557c]: Textual amendment: S. 28(2)(aa) inserted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c), [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/5/paragraph/6/2) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-a350f78afb219989dca9ff165c6a557c]: Textual amendment: S. 28(2)(aa) inserted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c), [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/5/paragraph/6/2) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
 [^c19085611]: Modification: S. 28(6) modified (31.3.1995) by [S.I. 1995/633](https://www.legislation.gov.uk/uksi/1995/633), [art. 7(1)](https://www.legislation.gov.uk/uksi/1995/633/article/7/1) (with [art. 11](https://www.legislation.gov.uk/uksi/1995/633/article/11))
 
-[^key-1957ae8a32a5da28bfd388c27bc709b1]: Textual amendment: Words in s. 28(7) substituted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c), [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/5/paragraph/6/3) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-1957ae8a32a5da28bfd388c27bc709b1]: Textual amendment: Words in s. 28(7) substituted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c), [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/5/paragraph/6/3) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

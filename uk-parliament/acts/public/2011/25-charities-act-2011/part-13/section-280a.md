@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280A. Amendment of the trusts of an unincorporated charity[^key-8d5128527baf9f9f2ebd5639d42af403]
+## 280A. Amendment of the trusts of an unincorporated charity[^c-8d5128527baf9f9f2ebd5639d42af403]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d5128527baf9f9f2ebd5639d42af403]: Textual amendment: Ss. 280A, 280B and cross-heading inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/3/2), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/3/3)); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/265/regulation/8))
+[^c-8d5128527baf9f9f2ebd5639d42af403]: Textual amendment: Ss. 280A, 280B and cross-heading inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/3/2), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/3/3)); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/265/regulation/8))

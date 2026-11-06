@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Amendment of section 26[^key-05bfed841a1f2ac616d3cfb3e03ad830]
+## 15. Amendment of section 26[^c-05bfed841a1f2ac616d3cfb3e03ad830]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ In section 26 (use of titles and descriptions)—
 
 ## Annotations
 
-[^key-05bfed841a1f2ac616d3cfb3e03ad830]: Commencement: Art. 15 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-05bfed841a1f2ac616d3cfb3e03ad830]: Commencement: Art. 15 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

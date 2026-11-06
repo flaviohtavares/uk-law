@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.11. Registrar’s duty to provide copy documents for appeal or reference[^key-2377e596864c2d58df0af7d7a49c10bd]
+## 36.11. Registrar’s duty to provide copy documents for appeal or reference[^c-2377e596864c2d58df0af7d7a49c10bd]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ Unless the court otherwise directs, for the purposes of an appeal or reference�
 
 ## Annotations
 
-[^key-2377e596864c2d58df0af7d7a49c10bd]: Commencement: [Rule 36.11](https://www.legislation.gov.uk/uksi/2025/909/rule/36.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2377e596864c2d58df0af7d7a49c10bd]: Commencement: [Rule 36.11](https://www.legislation.gov.uk/uksi/2025/909/rule/36.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

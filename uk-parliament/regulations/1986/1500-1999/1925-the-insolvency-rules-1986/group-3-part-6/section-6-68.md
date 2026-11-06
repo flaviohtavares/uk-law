@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.68. Contents of statement[^key-6f9c705c0d43a5d4368c830a8adc5ca9]
+## 6.68. Contents of statement[^c-6f9c705c0d43a5d4368c830a8adc5ca9]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f9c705c0d43a5d4368c830a8adc5ca9]: Commencement: [Rule 6.68](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.68) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-6f9c705c0d43a5d4368c830a8adc5ca9]: Commencement: [Rule 6.68](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.68) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00152]: Marginal citation: \[FORM 6.28\]

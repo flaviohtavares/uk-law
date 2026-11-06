@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Right of persons to attend meetings of the governing body[^key-9e1012e2b12c15a23f40a4ba5c5267d3]
+## 55. Right of persons to attend meetings of the governing body[^c-9e1012e2b12c15a23f40a4ba5c5267d3]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e1012e2b12c15a23f40a4ba5c5267d3]: Commencement: Reg. 55 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-9e1012e2b12c15a23f40a4ba5c5267d3]: Commencement: Reg. 55 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

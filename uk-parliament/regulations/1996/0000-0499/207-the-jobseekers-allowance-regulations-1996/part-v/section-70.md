@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 70. The amount of a reduction under section 19 and 19A and regulation 69B[^key-939eaeaea54139b9e0fc37656703108e]
+## 70. The amount of a reduction under section 19 and 19A and regulation 69B[^c-939eaeaea54139b9e0fc37656703108e]
 
 (1) Subject to paragraph (2), the amount of a reduction under section 19 or 19A or regulation 69B is—
 
@@ -38,4 +38,4 @@ no reduction is to be made for any days when those circumstances apply.
 
 ## Annotations
 
-[^key-939eaeaea54139b9e0fc37656703108e]: Textual amendment: [Reg. 70](https://www.legislation.gov.uk/uksi/1996/207/regulation/70) substituted (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/2/3)
+[^c-939eaeaea54139b9e0fc37656703108e]: Textual amendment: [Reg. 70](https://www.legislation.gov.uk/uksi/1996/207/regulation/70) substituted (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/2/3)

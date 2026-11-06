@@ -52,11 +52,11 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 The Secretary of State has consulted in accordance with sections 261(7), 262, 263(1), 264(1) and 265(9) of that Act.
 
-## 1. Citation and commencement[^key-b78b78879ff1011713a5a975cc32b71c]
+## 1. Citation and commencement[^c-b78b78879ff1011713a5a975cc32b71c]
 
 These Regulations may be cited as the Health Service Medicines (Control of Prices and Supply of Information) (Amendment) Regulations 2013 and come into force on 1st January 2014.
 
-## 2. Amendment of the Health Service Medicines (Information Relating to Sales of Branded Medicines etc.) Regulations 2007[^key-cd121a1b58980f4b2e1ad06095daf348]
+## 2. Amendment of the Health Service Medicines (Information Relating to Sales of Branded Medicines etc.) Regulations 2007[^c-cd121a1b58980f4b2e1ad06095daf348]
 
 (1) The Health Service Medicines (Information Relating to Sales of Branded Medicines etc.) Regulations 2007[^f00002] are amended as follows.
 
@@ -174,7 +174,7 @@ These Regulations may be cited as the Health Service Medicines (Control of Price
 - (a) in paragraph 1, for the words “3(5) or (6)” substitute “3(5),(6) or (7) including a manufacturer or supplier or to whom regulation 4(2) applies”, and
 - (b) in paragraph 2, for the words from “the amount recorded by” to the end of that paragraph substitute “its total health service sales in the United Kingdom as shown in its most recent audited accounts or other quality assured information.”.
 
-## 3. Amendment of the Health Service Branded Medicines (Control of Prices and Supply of Information) (No.2) Regulations 2008[^key-764864a5668712534302830e6ec7a012]
+## 3. Amendment of the Health Service Branded Medicines (Control of Prices and Supply of Information) (No.2) Regulations 2008[^c-764864a5668712534302830e6ec7a012]
 
 (1) The Health Service Branded Medicines (Control of Prices and Supply of Information) (No.2) Regulations 2008[^f00005] are amended as follows.
 
@@ -243,7 +243,7 @@ These Regulations may be cited as the Health Service Medicines (Control of Price
 
 .
 
-## 4. Revocation[^key-ee8c9ddac5498c02262aabcab7989878]
+## 4. Revocation[^c-ee8c9ddac5498c02262aabcab7989878]
 
 The Health Service Branded Medicines (Control of Prices and Supply of Information) Amendment Regulations 2012[^f00006] are revoked.
 
@@ -289,9 +289,9 @@ An Impact Assessment has been prepared and is available at www.dh.gov.uk. Copies
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^key-b78b78879ff1011713a5a975cc32b71c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/2881/regulation/1) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2881/regulation/1)
+[^c-b78b78879ff1011713a5a975cc32b71c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/2881/regulation/1) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2881/regulation/1)
 
-[^key-cd121a1b58980f4b2e1ad06095daf348]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2881/regulation/2) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2881/regulation/1)
+[^c-cd121a1b58980f4b2e1ad06095daf348]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2881/regulation/2) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2881/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2007/1320](https://www.legislation.gov.uk/uksi/2007/1320); the relevant amending instrument is [S.I. 2008/3258](https://www.legislation.gov.uk/uksi/2008/3258).
 
@@ -299,10 +299,10 @@ An Impact Assessment has been prepared and is available at www.dh.gov.uk. Copies
 
 [^f00004]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
 
-[^key-764864a5668712534302830e6ec7a012]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/2881/regulation/3) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2881/regulation/1)
+[^c-764864a5668712534302830e6ec7a012]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/2881/regulation/3) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2881/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2008/3258](https://www.legislation.gov.uk/uksi/2008/3258); the relevant amending instrument is [S.I. 2012/2791](https://www.legislation.gov.uk/uksi/2012/2791).
 
-[^key-ee8c9ddac5498c02262aabcab7989878]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/2881/regulation/4) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2881/regulation/1)
+[^c-ee8c9ddac5498c02262aabcab7989878]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/2881/regulation/4) in force at 1.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2881/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2012/2791](https://www.legislation.gov.uk/uksi/2012/2791).

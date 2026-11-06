@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Credit unions[^M_I_058f6c3c-4f59-4060-c8b9-c3a8627650ec][^key-a02fdcac85556c041c6f1457b272920b]
+## 131. Credit unions[^M_I_058f6c3c-4f59-4060-c8b9-c3a8627650ec][^c-a02fdcac85556c041c6f1457b272920b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^M_I_058f6c3c-4f59-4060-c8b9-c3a8627650ec]: Commencement: S. 131 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 2
 
-[^key-a02fdcac85556c041c6f1457b272920b]: Commencement: S. 131 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-a02fdcac85556c041c6f1457b272920b]: Commencement: S. 131 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

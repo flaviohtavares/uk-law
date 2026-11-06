@@ -46,14 +46,14 @@ Section 22
 - (a) of the First-tier Tribunal, or
 - (b) of the Upper Tribunal,
 
-to be exercised by staff appointed under section 2(1) of the Courts Act 2003 or section 40(1) of this Act[^key-6ccf8a553a323a9e44a073b089f82f1b].
+to be exercised by staff appointed under section 2(1) of the Courts Act 2003 or section 40(1) of this Act[^c-6ccf8a553a323a9e44a073b089f82f1b].
 
 (2) In making provision of the kind mentioned in sub-paragraph (1) in relation to a function, Rules may (in particular)—
 
 - (a) provide for the function to be exercisable by a member of staff only if the member of staff is, or is of a description, specified in exercise of a discretion conferred by Rules;
 - (b) provide for the function to be exercisable by a member of staff only if the member of staff is approved, or is of a description approved, for the purpose by a person specified in Rules.
 
-(3)[^key-ac1ba3033b86052c72a542a559d9b16b] A person may exercise functions by virtue of this paragraph only if authorised to do so by the Senior President of Tribunals.
+(3)[^c-ac1ba3033b86052c72a542a559d9b16b] A person may exercise functions by virtue of this paragraph only if authorised to do so by the Senior President of Tribunals.
 
 (4) An authorisation under this paragraph—
 
@@ -145,7 +145,7 @@ for the Upper Tribunal to deal with non-compliance with the requirement as thoug
 (2) The provision mentioned in sub-paragraph (1) includes (in particular)—
 
 - (a) provision prescribing scales of costs or expenses;
-- (b) provision for enabling costs to undergo detailed assessment in England and Wales by the county court[^key-b0283863926377da565b8883e364b34b] or the High Court;
+- (b) provision for enabling costs to undergo detailed assessment in England and Wales by the county court[^c-b0283863926377da565b8883e364b34b] or the High Court;
 - (c) provision for taxation in Scotland of accounts of expenses by an Auditor of Court;
 - (d) provision for enabling costs to be taxed in Northern Ireland in the county court or the High Court;
 - (e) provision for costs or expenses—
@@ -208,27 +208,27 @@ for the Upper Tribunal to deal with non-compliance with the requirement as thoug
 
 **21.** (1) The Lord Chancellor must appoint—
 
-- (a) four[^key-d3601d94c565d7eefee46a68e10bbc82] persons each of whom must be a person with experience of—
+- (a) four[^c-d3601d94c565d7eefee46a68e10bbc82] persons each of whom must be a person with experience of—
   - (i) practice in tribunals, or
-  - (ii) advising persons involved in tribunal proceedings, [^key-c32a99ff049073244a85a40eb7851dd7]...
-- (b)[^key-c32a99ff049073244a85a40eb7851dd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) advising persons involved in tribunal proceedings, [^c-c32a99ff049073244a85a40eb7851dd7]...
+- (b)[^c-c32a99ff049073244a85a40eb7851dd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-e998568a6d11bf3a2947d22a751d3869] At least one of those persons must have experience of—
+(1A)[^c-e998568a6d11bf3a2947d22a751d3869] At least one of those persons must have experience of—
 
 - (a) practice in employment tribunals and the Employment Appeal Tribunal, or
 - (b) advising persons involved in employment tribunal proceedings and the Employment Appeal Tribunal.
 
 (2) Before making an appointment under sub-paragraph (1), the Lord Chancellor must consult the Lord Chief Justice of England and Wales.
 
-(3)[^key-796625f40840a7bcc34e47fd33ada0ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-796625f40840a7bcc34e47fd33ada0ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Lord Chief Justice's appointees
 
 **22.** (1) The Lord Chief Justice of England and Wales must appoint—
 
 - (a) one of the judges of the First-tier Tribunal,
-- (b) one of the judges of the Upper Tribunal, [^key-9249eddf86f543d4c99d01509ec23525]...
-- (c) one person who is a member of the First-tier Tribunal, or is a member of the Upper Tribunal, but is not a judge of the First-tier Tribunal and is not a judge of the Upper Tribunal , and[^key-7b02c05d74496fa13f31116b92baefb3]
+- (b) one of the judges of the Upper Tribunal, [^c-9249eddf86f543d4c99d01509ec23525]...
+- (c) one person who is a member of the First-tier Tribunal, or is a member of the Upper Tribunal, but is not a judge of the First-tier Tribunal and is not a judge of the Upper Tribunal , and[^c-7b02c05d74496fa13f31116b92baefb3]
 - (d) one person who is a judge, or other member, of the Employment Appeal Tribunal or a member of a panel of members of employment tribunals (whether or not a panel of Employment Judges).
 
 (2) Before making an appointment under sub-paragraph (1), the Lord Chief Justice of England and Wales must consult the Lord Chancellor.
@@ -277,7 +277,7 @@ for the purpose of assisting the Committee with regard to that issue or subject 
 
 **26.** The Lord Chancellor may reimburse members of the Tribunal Procedure Committee their travelling and out-of-pocket expenses.
 
-### Part 3 — Making of Tribunal Procedure Rules by Tribunal Procedure Committee[^key-7a4e4c6176486f25e555e0aee486a4aa]
+### Part 3 — Making of Tribunal Procedure Rules by Tribunal Procedure Committee[^c-7a4e4c6176486f25e555e0aee486a4aa]
 
 #### Meaning of “Rules” and “the Committee”
 
@@ -312,7 +312,7 @@ for the purpose of assisting the Committee with regard to that issue or subject 
 
 (7) In the case of a member of the Committee appointed under paragraph 24, the terms of his appointment may (in particular) provide that, for the purposes of sub-paragraph (2)(a), he is to count as a member of the Committee only in relation to matters specified in those terms.
 
-#### Delegation of functions to staff: reconsideration of decisions[^key-54419f2e1f36c2bb8c15e5a647b1d3aa]
+#### Delegation of functions to staff: reconsideration of decisions[^c-54419f2e1f36c2bb8c15e5a647b1d3aa]
 
 **28A.** (1) Before making Rules that provide for the exercise of functions of the First-tier Tribunal or Upper Tribunal by authorised persons by virtue of paragraph 3, the Committee must take the following steps in relation to each of the functions in question.
 
@@ -354,26 +354,26 @@ for the purpose of assisting the Committee with regard to that issue or subject 
 
 ## Annotations
 
-[^key-6ccf8a553a323a9e44a073b089f82f1b]: Textual amendment: Words in Sch. 5 para. 3(1) substituted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 44(2)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/44/2); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-6ccf8a553a323a9e44a073b089f82f1b]: Textual amendment: Words in Sch. 5 para. 3(1) substituted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 44(2)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/44/2); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-ac1ba3033b86052c72a542a559d9b16b]: Textual amendment: Sch. 5 para. 3(3)-(8) inserted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 44(3)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/44/3); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-ac1ba3033b86052c72a542a559d9b16b]: Textual amendment: Sch. 5 para. 3(3)-(8) inserted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 44(3)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/44/3); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-b0283863926377da565b8883e364b34b]: Textual amendment: Words in Sch. 5 para. 12(2)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-b0283863926377da565b8883e364b34b]: Textual amendment: Words in Sch. 5 para. 12(2)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c21476461]: Textual amendment: Words in Sch. 5 para. 14 inserted (S.) (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [Sch. para. 8](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/8)
 
-[^key-d3601d94c565d7eefee46a68e10bbc82]: Textual amendment: Word in [Sch. 5 para. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/5/paragraph/21/1/a) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/29/2/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
+[^c-d3601d94c565d7eefee46a68e10bbc82]: Textual amendment: Word in [Sch. 5 para. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/5/paragraph/21/1/a) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/29/2/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
 
-[^key-c32a99ff049073244a85a40eb7851dd7]: Textual amendment: Sch. 5 para. 21(1)(b) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 35(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/35/a)
+[^c-c32a99ff049073244a85a40eb7851dd7]: Textual amendment: Sch. 5 para. 21(1)(b) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 35(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/35/a)
 
-[^key-e998568a6d11bf3a2947d22a751d3869]: Textual amendment: [Sch. 5 para. 21(1A)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/5/paragraph/21/1A) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/29/2/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
+[^c-e998568a6d11bf3a2947d22a751d3869]: Textual amendment: [Sch. 5 para. 21(1A)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/5/paragraph/21/1A) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/29/2/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
 
-[^key-796625f40840a7bcc34e47fd33ada0ad]: Textual amendment: Sch. 5 para. 21(3) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 35(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/35/b)
+[^c-796625f40840a7bcc34e47fd33ada0ad]: Textual amendment: Sch. 5 para. 21(3) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 35(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/35/b)
 
-[^key-9249eddf86f543d4c99d01509ec23525]: Textual amendment: Word in [Sch. 5 para. 22(1)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/5/paragraph/22/1) omitted (7.11.2023) by virtue of [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 29(3)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/29/3/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
+[^c-9249eddf86f543d4c99d01509ec23525]: Textual amendment: Word in [Sch. 5 para. 22(1)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/5/paragraph/22/1) omitted (7.11.2023) by virtue of [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 29(3)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/29/3/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
 
-[^key-7b02c05d74496fa13f31116b92baefb3]: Textual amendment: [Sch. 5 para. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/5/paragraph/22/1/d) and word inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 29(3)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/29/3/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
+[^c-7b02c05d74496fa13f31116b92baefb3]: Textual amendment: [Sch. 5 para. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/5/paragraph/22/1/d) and word inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 29(3)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/29/3/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
 
-[^key-7a4e4c6176486f25e555e0aee486a4aa]: Modification: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/5/part/3) applied (with modifications) (25.4.2024) by [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17), [Sch. A1 para. 21](https://www.legislation.gov.uk/ukpga/1996/17/schedule/A1/paragraph/21) (as inserted by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/1); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/i))
+[^c-7a4e4c6176486f25e555e0aee486a4aa]: Modification: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/5/part/3) applied (with modifications) (25.4.2024) by [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17), [Sch. A1 para. 21](https://www.legislation.gov.uk/ukpga/1996/17/schedule/A1/paragraph/21) (as inserted by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/1); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/i))
 
-[^key-54419f2e1f36c2bb8c15e5a647b1d3aa]: Textual amendment: Sch. 5 para. 28A and cross-heading inserted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/45); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv), 3(b)
+[^c-54419f2e1f36c2bb8c15e5a647b1d3aa]: Textual amendment: Sch. 5 para. 28A and cross-heading inserted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/45); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv), 3(b)

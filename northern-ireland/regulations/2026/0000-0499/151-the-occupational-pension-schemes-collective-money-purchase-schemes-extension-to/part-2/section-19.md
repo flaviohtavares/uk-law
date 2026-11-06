@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Approval of implementation strategy: unconnected multiple employer schemes[^key-1e711caff933386026a06e7df4878439]
+## 19. Approval of implementation strategy: unconnected multiple employer schemes[^c-1e711caff933386026a06e7df4878439]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ In section 91(5)(d) (approval of implementation strategy) after sub-paragraph (i
 
 ## Annotations
 
-[^key-1e711caff933386026a06e7df4878439]: Commencement: Reg. 19 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-1e711caff933386026a06e7df4878439]: Commencement: Reg. 19 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

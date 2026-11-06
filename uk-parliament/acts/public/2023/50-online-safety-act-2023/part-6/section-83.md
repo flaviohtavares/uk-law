@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Duty to notify OFCOM[^key-b37c0d68f1fdf356ea4ef0738057e544][^key-588c08be4474ce65490e46b829b4d624]
+## 83. Duty to notify OFCOM[^c-b37c0d68f1fdf356ea4ef0738057e544][^c-588c08be4474ce65490e46b829b4d624]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b37c0d68f1fdf356ea4ef0738057e544]: Commencement: S. 83 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-b37c0d68f1fdf356ea4ef0738057e544]: Commencement: S. 83 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-588c08be4474ce65490e46b829b4d624]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/50/section/83) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-588c08be4474ce65490e46b829b4d624]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/50/section/83) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)

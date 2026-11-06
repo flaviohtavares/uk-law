@@ -105,7 +105,7 @@ In any civil proceedings a statement made otherwise than in the course of the pr
 
 (3)[^c803527] Subject to subsection (4) below, in any action for divorce, separation or declarator of marriage or nullity of marriage, the evidence referred to in subsection (1) above shall consist of or include evidence other than that of a party to the marriage (or alleged or purported marriage).
 
-(3A)[^key-e4334a94c62a42d32d8108d60e70f8b3][^c2088499] Subject to subsection (4) below, in any action for dissolution of civil partnership, separation of civil partners or declarator of nullity of civil partnership, the evidence referred to in subsection (1) above shall consist of or include evidence other than that of a partner in the civil partnership (or purported civil partnership).
+(3A)[^c-e4334a94c62a42d32d8108d60e70f8b3][^c2088499] Subject to subsection (4) below, in any action for dissolution of civil partnership, separation of civil partners or declarator of nullity of civil partnership, the evidence referred to in subsection (1) above shall consist of or include evidence other than that of a partner in the civil partnership (or purported civil partnership).
 
 (4) The Lord Advocate may by order made by statutory instrument provide that subsection (3) or (3A)[^c2088501] above shall not apply, or shall apply subject to such modifications as may be specified in the order, in respect of such class or classes of action as may be so specified.
 
@@ -117,7 +117,7 @@ In this Act, unless the context otherwise requires—
 
 - “**business**” includes trade or profession;
 - “**civil proceedings**” includes, in addition to such proceedings in any of the ordinary courts of law—
-- (a) any hearing by the sheriff [^c803529]. . . of an application made by virtue of section 93(2)(a), 94(2)(a) or 110(2) of the Children’s Hearings (Scotland) Act[^key-93fd6bb31f1458e43ef5075db6043257] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1) except in so far as the application relates to the ground mentioned in section 67(2)(j) of that Act;
+- (a) any hearing by the sheriff [^c803529]. . . of an application made by virtue of section 93(2)(a), 94(2)(a) or 110(2) of the Children’s Hearings (Scotland) Act[^c-93fd6bb31f1458e43ef5075db6043257] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1) except in so far as the application relates to the ground mentioned in section 67(2)(j) of that Act;
 - (b) any arbitration, whether or not under an enactment, except in so far as, in relation to the conduct of the arbitration, specific provision has been made as regards the rules of evidence which are to apply;
 - (c) any proceedings before a tribunal or inquiry, except in so far as, in relation to the conduct of proceedings before the tribunal or inquiry, specific provision has been made as regards the rules of evidence which are to apply; and
 - (d) any other proceedings conducted wholly or mainly in accordance with rules of procedure agreed between the parties themselves (or as respects which it would have been open to them to agree such rules had they wished to do so) except in so far as any such agreement makes specific provision as regards the rules of evidence which are to apply;
@@ -189,7 +189,7 @@ Section 10(1).
 
 [^c803527]: Modification: [S. 8(3)](https://www.legislation.gov.uk/ukpga/1988/32/section/8/3) excluded by [S.I. 1989/582](https://www.legislation.gov.uk/uksi/1989/582), [art. 3](https://www.legislation.gov.uk/uksi/1989/582/article/3)
 
-[^key-e4334a94c62a42d32d8108d60e70f8b3]: Modification: [S. 8(3A)](https://www.legislation.gov.uk/ukpga/1988/32/section/8/3A) excluded (30.3.2012) by [The Evidence in Civil Partnership and Divorce Actions (Scotland) Order 2012 (S.S.I. 2012/111)](https://www.legislation.gov.uk/ssi/2012/111), [arts. 1](https://www.legislation.gov.uk/ssi/2012/111/article/1), [2(1)](https://www.legislation.gov.uk/ssi/2012/111/article/2/1)
+[^c-e4334a94c62a42d32d8108d60e70f8b3]: Modification: [S. 8(3A)](https://www.legislation.gov.uk/ukpga/1988/32/section/8/3A) excluded (30.3.2012) by [The Evidence in Civil Partnership and Divorce Actions (Scotland) Order 2012 (S.S.I. 2012/111)](https://www.legislation.gov.uk/ssi/2012/111), [arts. 1](https://www.legislation.gov.uk/ssi/2012/111/article/1), [2(1)](https://www.legislation.gov.uk/ssi/2012/111/article/2/1)
 
 [^c2088499]: Textual amendment: [S. 8(3A)](https://www.legislation.gov.uk/ukpga/1988/32/section/8/3A) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263), [Sch. 28 para. 55(1)(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/55/1/3); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [art. 2(a)(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/a/c)
 
@@ -197,7 +197,7 @@ Section 10(1).
 
 [^c803529]: Textual amendment: Words in s. 9(a) repealed (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)(5)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4/5), [Sch. 4 para. 44(a)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/44/a), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/36/schedule/5) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7) (as amended by [S.I. 1997/744](https://www.legislation.gov.uk/uksi/1997/744), [arts. 2](https://www.legislation.gov.uk/uksi/1997/744/article/2), [3](https://www.legislation.gov.uk/uksi/1997/744/article/3))
 
-[^key-93fd6bb31f1458e43ef5075db6043257]: Textual amendment: Words in s. 9(a) substituted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/6)
+[^c-93fd6bb31f1458e43ef5075db6043257]: Textual amendment: Words in s. 9(a) substituted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/6)
 
 [^c803534]: Marginal citation: [1868 c. 37](https://www.legislation.gov.uk/ukpga/1868/37).
 

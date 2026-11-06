@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Restriction of deduction for contributions by employer[^key-3de2f994002555e90959827d288b0ad9][^key-99d0b3d2e2d103d141caf8d6285dec6e][^key-82faf91a8e0d278a23fafc96e1ffb2ca][^key-82faf91a8e0d278a23fafc96e1ffb2ca]
+## 245. Restriction of deduction for contributions by employer[^c-3de2f994002555e90959827d288b0ad9][^c-99d0b3d2e2d103d141caf8d6285dec6e][^c-82faf91a8e0d278a23fafc96e1ffb2ca][^c-82faf91a8e0d278a23fafc96e1ffb2ca]
 
 *Extent: E+W+S+N.I.*
 
 (1) Schedule 24 to the Finance Act 2003 (c. 14) (restriction of deductions for employee benefit contributions) is amended as follows.
 
-(2)[^key-a2f4713fa90fabf72228be6d20c72b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a2f4713fa90fabf72228be6d20c72b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In sub-paragraph (1) of paragraph 2 (“qualifying benefits”), insert at the end
 
@@ -61,10 +61,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3de2f994002555e90959827d288b0ad9]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
+[^c-3de2f994002555e90959827d288b0ad9]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
 
-[^key-99d0b3d2e2d103d141caf8d6285dec6e]: Modification: S. 245 modified (6.4.2006) by [The Taxation of Pension Schemes (Transitional Provisions) Order 2006 (S.I. 2006/572)](https://www.legislation.gov.uk/uksi/2006/572), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1), [15](https://www.legislation.gov.uk/uksi/2006/572/article/15), [16](https://www.legislation.gov.uk/uksi/2006/572/article/16)
+[^c-99d0b3d2e2d103d141caf8d6285dec6e]: Modification: S. 245 modified (6.4.2006) by [The Taxation of Pension Schemes (Transitional Provisions) Order 2006 (S.I. 2006/572)](https://www.legislation.gov.uk/uksi/2006/572), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1), [15](https://www.legislation.gov.uk/uksi/2006/572/article/15), [16](https://www.legislation.gov.uk/uksi/2006/572/article/16)
 
-[^key-82faf91a8e0d278a23fafc96e1ffb2ca]: Modification: Pt. 4 Ch. 6 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/575/regulation/25)
+[^c-82faf91a8e0d278a23fafc96e1ffb2ca]: Modification: Pt. 4 Ch. 6 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/575/regulation/25)
 
-[^key-a2f4713fa90fabf72228be6d20c72b10]: Textual amendment: S. 245(2) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/5)
+[^c-a2f4713fa90fabf72228be6d20c72b10]: Textual amendment: S. 245(2) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/5)

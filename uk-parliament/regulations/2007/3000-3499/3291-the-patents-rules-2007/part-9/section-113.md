@@ -43,7 +43,7 @@ summary: ''
 
 and the relevant report is filed at the Patent Office, the comptroller may direct that a translation into English of that document be filed.
 
-(6) Where a direction is given under paragraph (5) a translation of that document must be filed before the end of the period of two months beginning immediately after[^key-d7c2b1065edb79223ee0cf05bfeaebc9] the date on which the direction is given; otherwise the comptroller may, if he thinks fit, take no further action in relation to the application.
+(6) Where a direction is given under paragraph (5) a translation of that document must be filed before the end of the period of two months beginning immediately after[^c-d7c2b1065edb79223ee0cf05bfeaebc9] the date on which the direction is given; otherwise the comptroller may, if he thinks fit, take no further action in relation to the application.
 
 (7) Subject to rule 82(1)(b), where a patent application or any document related to such application is filed at the Patent Office or sent to the comptroller in Welsh, and is not accompanied by a translation into English, the comptroller must obtain such a translation.
 
@@ -51,4 +51,4 @@ and the relevant report is filed at the Patent Office, the comptroller may direc
 
 ## Annotations
 
-[^key-d7c2b1065edb79223ee0cf05bfeaebc9]: Textual amendment: Words in [rule 113(6)](https://www.legislation.gov.uk/uksi/2007/3291/rule/113/6) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-d7c2b1065edb79223ee0cf05bfeaebc9]: Textual amendment: Words in [rule 113(6)](https://www.legislation.gov.uk/uksi/2007/3291/rule/113/6) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

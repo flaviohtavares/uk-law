@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on the Secretary of State by sections 122(1) and 138(7) and (8) of, and paragraphs 6B(1)(a) and 13B of Schedule 26 to, the School Standards and Framework Act 1998[^f00001], and now vested in them make the following Regulations:
 
-## 1. Title, commencement, application and revocation[^key-e39229d8b02e1becc404e6ea93e546e5]
+## 1. Title, commencement, application and revocation[^c-e39229d8b02e1becc404e6ea93e546e5]
 
 (1) The title of these Regulations is the Education (Inspection of Nursery Education) (Wales) Regulations 2015 and they come into force on 1 September 2015.
 
@@ -58,7 +58,7 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 - (c) regulation 2 of the Education (Amendments Relating to the Intervals for the Inspection of Education and Training) (Wales) Regulations 2010[^f00004]; and
 - (d) regulation 2 of the Education (Amendments Relating to the Inspection of Education and Training) (Wales) Regulations 2014[^f00005].
 
-## 2. Interpretation[^key-eb19897b12b306a4f5fac9274c363a15]
+## 2. Interpretation[^c-eb19897b12b306a4f5fac9274c363a15]
 
 In these Regulations—
 
@@ -69,7 +69,7 @@ In these Regulations—
 - “the registrar of independent schools” (“*y cofrestrydd ysgolion annibynnol*”) means the Welsh Ministers;
 - “working day” (“*diwrnod gwaith*”) means a day which is not a Saturday, Sunday, a bank holiday or part of a holiday longer than a week taken by the school in question.
 
-## 3. Inspection reports[^key-964c562b239c26f0d90cfa672eb40f14]
+## 3. Inspection reports[^c-964c562b239c26f0d90cfa672eb40f14]
 
 (1) For the purposes of paragraph 13B(1) of Schedule 26 to the Act the period within which a report of an inspection under paragraph 6B of that Schedule is to be made is 45 working days from the day on which the inspection began.
 
@@ -83,24 +83,24 @@ In these Regulations—
 - (c) in the case of nursery education provided at an independent school—
   - (i) the head teacher of the school;
   - (ii) the proprietors of the school;
-  - (iii) the registrar of independent schools; [^key-35810f708fa4257165aa7ff0f0a74669]...
-  - (iv)[^key-61f13b35e769fe2bb7ff817b74aa265b] where the school was approved under section 347 of the Education Act 1996 (approval of independent schools providing special education) before 1 September 2021 and remains approved immediately before that date, a local authority which is paying the fees in respect of the attendance of a registered pupil at the school in relation to whom Chapter 1 of Part 4 of the Education Act 1996 continues to apply; and
+  - (iii) the registrar of independent schools; [^c-35810f708fa4257165aa7ff0f0a74669]...
+  - (iv)[^c-61f13b35e769fe2bb7ff817b74aa265b] where the school was approved under section 347 of the Education Act 1996 (approval of independent schools providing special education) before 1 September 2021 and remains approved immediately before that date, a local authority which is paying the fees in respect of the attendance of a registered pupil at the school in relation to whom Chapter 1 of Part 4 of the Education Act 1996 continues to apply; and
   - (v) where a registered pupil at the school has an individual development plan in which the school is named under section 14(6) or 19(4) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018, the local authority that maintains the individual development plan under that section 14 or 19;
 - (d) in the case of nursery education provided at a special school which is not maintained by a local authority—
   - (i) the head teacher of the school;
   - (ii) the proprietors of the school; and
   - (iii) a local authority which is paying fees in respect of the attendance of a registered pupil at the school;
-- (e) in the case of nursery education provided by a local authority under Parts 2 and 4 of the Social Services and Well-being (Wales) Act 2014[^key-74f1f3cbcf4c1e8c1b7e734ac4faaae2], that local authority and the person in charge of the place at which the education is provided;
-- (f)[^key-af9b0d8111d7219b97a59136c206dad0] in the case of nursery education provided by a person registered by the Welsh Ministers under sections 20 or 22 of the Children and Families (Wales) Measure 2010, that person and the Welsh Ministers;
+- (e) in the case of nursery education provided by a local authority under Parts 2 and 4 of the Social Services and Well-being (Wales) Act 2014[^c-74f1f3cbcf4c1e8c1b7e734ac4faaae2], that local authority and the person in charge of the place at which the education is provided;
+- (f)[^c-af9b0d8111d7219b97a59136c206dad0] in the case of nursery education provided by a person registered by the Welsh Ministers under sections 20 or 22 of the Children and Families (Wales) Measure 2010, that person and the Welsh Ministers;
 - (g) in the case of nursery education provided by a person who would be required to be so registered if the Act applied to the Crown, that person and the Welsh Ministers[^f00011]; and
 - (h) in the case of nursery education provided by a local authority at a home for children with special education needs, that local authority.
 
-## 4. Inspection intervals[^key-7e0c13aba2950affb343980b2a94ecf5]
+## 4. Inspection intervals[^c-7e0c13aba2950affb343980b2a94ecf5]
 
 (1) The Chief Inspector for Wales must secure that relevant nursery education is inspected under paragraph 6B(1)(a) of Schedule 26 to the Act—
 
 - (a) where there has been no previous inspection under that paragraph, within 6 years of the date on which relevant nursery education was first provided at the premises concerned; and
-- (b)[^key-81467443db73f17724c832b1c0aa2e5f] in all other cases, at least once within the[^key-384bc5b0a41d7f1a483b8f0a52a36cc1] period beginning on 1 September 2016 and ending on 31 August 2024[^key-d93aac57960f0364fa3d921e41f6eeef] and at least once within every subsequent six year period beginning on the expiry of the previous period.
+- (b)[^c-81467443db73f17724c832b1c0aa2e5f] in all other cases, at least once within the[^c-384bc5b0a41d7f1a483b8f0a52a36cc1] period beginning on 1 September 2016 and ending on 31 August 2024[^c-d93aac57960f0364fa3d921e41f6eeef] and at least once within every subsequent six year period beginning on the expiry of the previous period.
 
 (2) For the purposes of this regulation the date on which the last inspection was completed is the date of the report of the last inspection under paragraph 6B of Schedule 26 to the Act.
 
@@ -126,7 +126,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Section 122(1) was amended by paragraph 33(1) and (3) of Schedule 2 to the Childcare Act [2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), and paragraph 6, as originally enacted, of Schedule 26 was substituted for paragraph 6B by paragraphs 8 and 12 of Part 2 of Schedule 7 to the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18). The functions of the Secretary of State under section 138 and Schedule 26 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-e39229d8b02e1becc404e6ea93e546e5]: Commencement: Reg. 1 in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/1)
+[^c-e39229d8b02e1becc404e6ea93e546e5]: Commencement: Reg. 1 in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1999/1441](https://www.legislation.gov.uk/uksi/1999/1441).
 
@@ -136,28 +136,28 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00005]: Footnote: [S.I. 2014/1212 (W. 128)](https://www.legislation.gov.uk/wsi/2014/1212).
 
-[^key-eb19897b12b306a4f5fac9274c363a15]: Commencement: Reg. 2 in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/1)
+[^c-eb19897b12b306a4f5fac9274c363a15]: Commencement: Reg. 2 in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/1)
 
 [^f00006]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
 [^f00007]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-964c562b239c26f0d90cfa672eb40f14]: Commencement: Reg. 3 in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/1)
+[^c-964c562b239c26f0d90cfa672eb40f14]: Commencement: Reg. 3 in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/1)
 
-[^key-35810f708fa4257165aa7ff0f0a74669]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2) omitted (1.9.2021) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (S.I. 2021/933)](https://www.legislation.gov.uk/wsi/2021/933), [regs. 1](https://www.legislation.gov.uk/wsi/2021/933/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/wsi/2021/933/regulation/6/2/a)
+[^c-35810f708fa4257165aa7ff0f0a74669]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2) omitted (1.9.2021) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (S.I. 2021/933)](https://www.legislation.gov.uk/wsi/2021/933), [regs. 1](https://www.legislation.gov.uk/wsi/2021/933/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/wsi/2021/933/regulation/6/2/a)
 
-[^key-61f13b35e769fe2bb7ff817b74aa265b]: Textual amendment: [Reg. 3(2)(c)(iv)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2/c/iv)[(v)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2/c/v) substituted for [reg. 3(2)(c)(iv)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2/c/iv) (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (S.I. 2021/933)](https://www.legislation.gov.uk/wsi/2021/933), [regs. 1](https://www.legislation.gov.uk/wsi/2021/933/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/wsi/2021/933/regulation/6/2/b)
+[^c-61f13b35e769fe2bb7ff817b74aa265b]: Textual amendment: [Reg. 3(2)(c)(iv)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2/c/iv)[(v)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2/c/v) substituted for [reg. 3(2)(c)(iv)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2/c/iv) (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (S.I. 2021/933)](https://www.legislation.gov.uk/wsi/2021/933), [regs. 1](https://www.legislation.gov.uk/wsi/2021/933/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/wsi/2021/933/regulation/6/2/b)
 
-[^key-74f1f3cbcf4c1e8c1b7e734ac4faaae2]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2/e) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 185](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/185)
+[^c-74f1f3cbcf4c1e8c1b7e734ac4faaae2]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2/e) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 185](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/185)
 
-[^key-af9b0d8111d7219b97a59136c206dad0]: Textual amendment: [Reg. 3(2)(f)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2/f) substituted (1.9.2016) by [The Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2016 (S.I. 2016/135)](https://www.legislation.gov.uk/wsi/2016/135), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1), [5(a)](https://www.legislation.gov.uk/wsi/2016/135/regulation/5/a)
+[^c-af9b0d8111d7219b97a59136c206dad0]: Textual amendment: [Reg. 3(2)(f)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/3/2/f) substituted (1.9.2016) by [The Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2016 (S.I. 2016/135)](https://www.legislation.gov.uk/wsi/2016/135), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1), [5(a)](https://www.legislation.gov.uk/wsi/2016/135/regulation/5/a)
 
 [^f00011]: Footnote: The National Assembly for Wales was established by section 1 of the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38). All the functions of the Secretary of State relevant to these Regulations are transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and are now vested in the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-7e0c13aba2950affb343980b2a94ecf5]: Commencement: Reg. 4 in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/1)
+[^c-7e0c13aba2950affb343980b2a94ecf5]: Commencement: Reg. 4 in force at 1.9.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/1)
 
-[^key-81467443db73f17724c832b1c0aa2e5f]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/4/1/b) substituted (1.9.2016) by [The Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2016 (S.I. 2016/135)](https://www.legislation.gov.uk/wsi/2016/135), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1), [5(b)](https://www.legislation.gov.uk/wsi/2016/135/regulation/5/b)
+[^c-81467443db73f17724c832b1c0aa2e5f]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/4/1/b) substituted (1.9.2016) by [The Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2016 (S.I. 2016/135)](https://www.legislation.gov.uk/wsi/2016/135), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1), [5(b)](https://www.legislation.gov.uk/wsi/2016/135/regulation/5/b)
 
-[^key-384bc5b0a41d7f1a483b8f0a52a36cc1]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/4/1/b) substituted (1.9.2020) by [The Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2020 (S.I. 2020/37)](https://www.legislation.gov.uk/wsi/2020/37), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2020/37/regulation/5/a)
+[^c-384bc5b0a41d7f1a483b8f0a52a36cc1]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/4/1/b) substituted (1.9.2020) by [The Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2020 (S.I. 2020/37)](https://www.legislation.gov.uk/wsi/2020/37), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2020/37/regulation/5/a)
 
-[^key-d93aac57960f0364fa3d921e41f6eeef]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/4/1/b) substituted (1.9.2020) by [The Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2020 (S.I. 2020/37)](https://www.legislation.gov.uk/wsi/2020/37), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2020/37/regulation/5/b)
+[^c-d93aac57960f0364fa3d921e41f6eeef]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/4/1/b) substituted (1.9.2020) by [The Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2020 (S.I. 2020/37)](https://www.legislation.gov.uk/wsi/2020/37), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2020/37/regulation/5/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Access to Elected Office Fund[^key-3d4593d11e6167753fb58b39f00c41a4][^key-7754442325b7822b0aa9c11f32693793]
+## 46. Access to Elected Office Fund[^c-3d4593d11e6167753fb58b39f00c41a4][^c-7754442325b7822b0aa9c11f32693793]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d4593d11e6167753fb58b39f00c41a4]: Commencement: S. 46 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-3d4593d11e6167753fb58b39f00c41a4]: Commencement: S. 46 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-7754442325b7822b0aa9c11f32693793]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/4/section/46) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-7754442325b7822b0aa9c11f32693793]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/4/section/46) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

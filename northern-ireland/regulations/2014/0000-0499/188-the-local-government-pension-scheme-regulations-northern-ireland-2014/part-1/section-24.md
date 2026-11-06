@@ -45,11 +45,11 @@ summary: ''
 - (b) a refund of contributions is paid under regulation 20 (rights to return of contributions);
 - (c) all the benefits in the account are forfeited under regulation 102 (forfeiture of pension rights after conviction for employment-related offences);
 - (d) the member dies;
-- (e) the last survivor entitled to a benefit from a survivor member's pension account ceases to be entitled to a benefit from that survivor member's pension account (by reason of death or upon ceasing to be an eligible child); [^key-80ee11bd579ac9cf5508488088ae1e1d]...
-- (f)[^key-cce08c7598a45287715e2c30f14903bf] due to aggregation of benefits in the pension account with a different pension account, it is no longer needed; or
+- (e) the last survivor entitled to a benefit from a survivor member's pension account ceases to be entitled to a benefit from that survivor member's pension account (by reason of death or upon ceasing to be an eligible child); [^c-80ee11bd579ac9cf5508488088ae1e1d]...
+- (f)[^c-cce08c7598a45287715e2c30f14903bf] due to aggregation of benefits in the pension account with a different pension account, it is no longer needed; or
 - (g) the member’s benefits are commuted under regulation 35 (commutation and small pensions).
 
-(5) Where a member with an active member's pension account also has a deferred refund account, the benefits in the deferred refund account[^key-178fb4cd64ca2c8cf18da54437bf1c3d] shall be aggregated with the active member's pension account and the deferred refund account closed.
+(5) Where a member with an active member's pension account also has a deferred refund account, the benefits in the deferred refund account[^c-178fb4cd64ca2c8cf18da54437bf1c3d] shall be aggregated with the active member's pension account and the deferred refund account closed.
 
 (6) Where an active member with concurrent employments ceases an employment and does not have qualifying service for a period of two years, the active member's pension account in respect of that employment shall be closed and the benefits in that active member's pension account shall be aggregated with the ongoing active member's pension account and, if there is more than one such account, the one chosen by the member.
 
@@ -60,7 +60,7 @@ summary: ''
 
 the member makes an election to the Committee to retain the deferred member's pension account.
 
-(8)[^key-fc3e1c9eaa661774a6a3d4ae46cf39a8] Subject to paragraph 8A, where a deferred member again becomes an active member, the member may make an election to aggregate the benefits in the deferred member’s pension account with those in the active member’s pension account within—
+(8)[^c-fc3e1c9eaa661774a6a3d4ae46cf39a8] Subject to paragraph 8A, where a deferred member again becomes an active member, the member may make an election to aggregate the benefits in the deferred member’s pension account with those in the active member’s pension account within—
 
 - (a) twelve months of the active member’s pension account being opened;
 - (b) twelve months from 1st April 2016; or
@@ -79,10 +79,10 @@ the member makes an election to the Committee to retain the deferred member's pe
 
 ## Annotations
 
-[^key-80ee11bd579ac9cf5508488088ae1e1d]: Textual amendment: Word in [reg. 24(4)](https://www.legislation.gov.uk/nisr/2014/188/regulation/24/4) deleted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2016/128/regulation/9/a)
+[^c-80ee11bd579ac9cf5508488088ae1e1d]: Textual amendment: Word in [reg. 24(4)](https://www.legislation.gov.uk/nisr/2014/188/regulation/24/4) deleted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2016/128/regulation/9/a)
 
-[^key-cce08c7598a45287715e2c30f14903bf]: Textual amendment: [Reg. 24(4)(f)](https://www.legislation.gov.uk/nisr/2014/188/regulation/24/4/f)[(g)](https://www.legislation.gov.uk/nisr/2014/188/regulation/24/4/g) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2016/128/regulation/9/a)
+[^c-cce08c7598a45287715e2c30f14903bf]: Textual amendment: [Reg. 24(4)(f)](https://www.legislation.gov.uk/nisr/2014/188/regulation/24/4/f)[(g)](https://www.legislation.gov.uk/nisr/2014/188/regulation/24/4/g) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2016/128/regulation/9/a)
 
-[^key-178fb4cd64ca2c8cf18da54437bf1c3d]: Textual amendment: Words in [reg. 24(5)](https://www.legislation.gov.uk/nisr/2014/188/regulation/24/5) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2016/128/regulation/9/b)
+[^c-178fb4cd64ca2c8cf18da54437bf1c3d]: Textual amendment: Words in [reg. 24(5)](https://www.legislation.gov.uk/nisr/2014/188/regulation/24/5) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2016/128/regulation/9/b)
 
-[^key-fc3e1c9eaa661774a6a3d4ae46cf39a8]: Textual amendment: [Reg. 24(8)-(8B)](https://www.legislation.gov.uk/nisr/2014/188/regulation/24/8) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [9(c)](https://www.legislation.gov.uk/nisr/2016/128/regulation/9/c)
+[^c-fc3e1c9eaa661774a6a3d4ae46cf39a8]: Textual amendment: [Reg. 24(8)-(8B)](https://www.legislation.gov.uk/nisr/2014/188/regulation/24/8) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [9(c)](https://www.legislation.gov.uk/nisr/2016/128/regulation/9/c)

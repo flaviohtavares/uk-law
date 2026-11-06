@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71ZA. Decision notices: Wales[^key-3b4ce084dcac0f42dcbb4f819fb62f8f]
+## 71ZA. Decision notices: Wales[^c-3b4ce084dcac0f42dcbb4f819fb62f8f]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b4ce084dcac0f42dcbb4f819fb62f8f]: Textual amendment: S. 71ZA inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 33(2)](https://www.legislation.gov.uk/anaw/2015/4/section/33/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [arts. 3(b)](https://www.legislation.gov.uk/wsi/2016/52/article/3/b), [5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2016/52/article/12))
+[^c-3b4ce084dcac0f42dcbb4f819fb62f8f]: Textual amendment: S. 71ZA inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 33(2)](https://www.legislation.gov.uk/anaw/2015/4/section/33/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [arts. 3(b)](https://www.legislation.gov.uk/wsi/2016/52/article/3/b), [5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2016/52/article/12))

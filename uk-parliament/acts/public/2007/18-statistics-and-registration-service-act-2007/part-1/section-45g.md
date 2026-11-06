@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45G. Code of practice on changes to data systems[^key-39f5951e045f78e941544707b4b567d9]
+## 45G. Code of practice on changes to data systems[^c-39f5951e045f78e941544707b4b567d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39f5951e045f78e941544707b4b567d9]: Textual amendment: Ss. 45B-45G inserted (1.10.2017 for E.W.S. for specified purposes, 1.5.2018 in so far as not already in force) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 80](https://www.legislation.gov.uk/ukpga/2017/30/section/80), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/n); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ll)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ll)
+[^c-39f5951e045f78e941544707b4b567d9]: Textual amendment: Ss. 45B-45G inserted (1.10.2017 for E.W.S. for specified purposes, 1.5.2018 in so far as not already in force) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 80](https://www.legislation.gov.uk/ukpga/2017/30/section/80), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/n); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ll)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ll)

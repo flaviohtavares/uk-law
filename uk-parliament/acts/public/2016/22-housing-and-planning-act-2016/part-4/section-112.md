@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Guarantees where housing administration order is made[^key-cc12c63274aab8d262434af62f3fffb6]
+## 112. Guarantees where housing administration order is made[^c-cc12c63274aab8d262434af62f3fffb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc12c63274aab8d262434af62f3fffb6]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2016/22/section/112) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-cc12c63274aab8d262434af62f3fffb6]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2016/22/section/112) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

@@ -26,9 +26,9 @@ A claimant is to continue to be entitled to an employment and support allowance 
 - (b) that period of temporary absence is for the purpose of the claimant receiving treatment at a hospital or other institution outside Great Britain where the treatment is being provided—
   - (i) under section 6(2) of the Health Service Act (Performance of functions outside England) or section 6(2) of the Health Service (Wales) Act (Performance of functions outside Wales);
   - (ii) pursuant to arrangements made under section 12(1) of the Health Service Act (Secretary of State's arrangements with other bodies), section 10(1) of the Health Service (Wales) Act (Welsh Ministers' arrangements with other bodies), paragraph 18 of Schedule 4 to the Health Service Act (Joint exercise of functions) or paragraph 18 of Schedule 3 to the Health Service (Wales) Act (Joint exercise of functions); or
-  - (iii) under any equivalent provision in Scotland or pursuant to arrangements made under such provision; [^key-cf2c6751d7755acb84bded1f401231d8]...
-- (c)[^key-cf2c6751d7755acb84bded1f401231d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) under any equivalent provision in Scotland or pursuant to arrangements made under such provision; [^c-cf2c6751d7755acb84bded1f401231d8]...
+- (c)[^c-cf2c6751d7755acb84bded1f401231d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf2c6751d7755acb84bded1f401231d8]: Textual amendment: Reg. 154(c) and word omitted (28.6.2010) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [9(16)](https://www.legislation.gov.uk/uksi/2010/840/regulation/9/16)
+[^c-cf2c6751d7755acb84bded1f401231d8]: Textual amendment: Reg. 154(c) and word omitted (28.6.2010) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [9(16)](https://www.legislation.gov.uk/uksi/2010/840/regulation/9/16)

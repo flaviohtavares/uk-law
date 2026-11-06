@@ -64,14 +64,14 @@ and any revocation of its designation must be effected by a further order under 
 
 (10) The designation of an NHS trust as a Care Trust under this section does not affect any of the functions, rights or liabilities of that NHS trust in its capacity as an NHS trust.
 
-(11) In connection with the exercise by an NHS trust so designated of any relevant social services functions of a local authority in England[^key-251d76dd2b148801bd67379450343a15] under LA delegation arrangements—
+(11) In connection with the exercise by an NHS trust so designated of any relevant social services functions of a local authority in England[^c-251d76dd2b148801bd67379450343a15] under LA delegation arrangements—
 
 - (a) section 7 of the Local Authority Social Services Act 1970 (c. 42) (authorities to exercise social services functions under guidance), and
 - (b) section 7A of that Act (directions as to exercise of such functions),
 
 apply to the NHS trust as if it were a local authority within the meaning of that Act.
 
-(11A)[^key-6b1da2240cf7ccbc0264ce536180cd39] In connection with the exercise by a body so designated of any relevant social services functions of a local authority in Wales under LA arrangements, sections 145 to 149 of the Social Services and Well-being (Wales) Act 2014 (codes on the exercise of social services functions) apply to the body as if it were a local authority within the meaning of that Act.
+(11A)[^c-6b1da2240cf7ccbc0264ce536180cd39] In connection with the exercise by a body so designated of any relevant social services functions of a local authority in Wales under LA arrangements, sections 145 to 149 of the Social Services and Well-being (Wales) Act 2014 (codes on the exercise of social services functions) apply to the body as if it were a local authority within the meaning of that Act.
 
 (12) In this section—
 
@@ -79,14 +79,14 @@ apply to the NHS trust as if it were a local authority within the meaning of tha
 - “**LA delegation arrangements**” means arrangements falling within section 33(2)(b), whether or not made in conjunction with any pooled fund arrangements,
 - “**NHS functions**” means functions exercisable by an NHS trust in its capacity as such,
 - “**pooled fund arrangements**” means arrangements falling within section 33(2)(a),
-- “relevant social services functions” means—[^key-2a43c86f2043f91920fecfc9d482ceca]
+- “relevant social services functions” means—[^c-2a43c86f2043f91920fecfc9d482ceca]
   - (a) in relation to a local authority in England, health-related functions which are social services functions within the meaning of the Local Authority Social Services Act 1970;
   - (b) in relation to a local authority in Wales, health-related functions which are social services functions for the purposes of the Social Services and Well-being (Wales) Act 2014 (anaw 4).
 
 ## Annotations
 
-[^key-251d76dd2b148801bd67379450343a15]: Textual amendment: Words in [s. 35(11)](https://www.legislation.gov.uk/ukpga/2006/42/section/35/11) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [246(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/246/a)
+[^c-251d76dd2b148801bd67379450343a15]: Textual amendment: Words in [s. 35(11)](https://www.legislation.gov.uk/ukpga/2006/42/section/35/11) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [246(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/246/a)
 
-[^key-6b1da2240cf7ccbc0264ce536180cd39]: Textual amendment: [S. 35(11A)](https://www.legislation.gov.uk/ukpga/2006/42/section/35/11A) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [246(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/246/b)
+[^c-6b1da2240cf7ccbc0264ce536180cd39]: Textual amendment: [S. 35(11A)](https://www.legislation.gov.uk/ukpga/2006/42/section/35/11A) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [246(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/246/b)
 
-[^key-2a43c86f2043f91920fecfc9d482ceca]: Textual amendment: Words in [s. 35(12)](https://www.legislation.gov.uk/ukpga/2006/42/section/35/12) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [246(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/246/c)
+[^c-2a43c86f2043f91920fecfc9d482ceca]: Textual amendment: Words in [s. 35(12)](https://www.legislation.gov.uk/ukpga/2006/42/section/35/12) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [246(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/246/c)

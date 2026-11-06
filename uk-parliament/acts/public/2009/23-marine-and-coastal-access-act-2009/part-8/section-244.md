@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Interpretation of this Chapter[^key-b93d32fafb3aeb17c5636ba2ea07918d]
+## 244. Interpretation of this Chapter[^c-b93d32fafb3aeb17c5636ba2ea07918d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,8 +33,8 @@ summary: ''
 - “**petroleum**” has the same meaning as in Part 3 of the Petroleum Act 1998 (c. 17) (see section 28(1) of that Act);
 - “**Scottish fishing boat**” means a fishing boat which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Scotland as the port to which the boat is to be treated as belonging;
 - “**third country vessel**” means a vessel which—
-  - (a) is flying the flag of, or is registered in, any State or territory other than the United Kingdom[^key-c151ecec602047be6f953f18bad9f3b2], and
-  - (b) is not registered in the United Kingdom[^key-3e666d132e5f644da6b6654a0271efbd].
+  - (a) is flying the flag of, or is registered in, any State or territory other than the United Kingdom[^c-c151ecec602047be6f953f18bad9f3b2], and
+  - (b) is not registered in the United Kingdom[^c-3e666d132e5f644da6b6654a0271efbd].
 
 (2) In this Chapter, except where otherwise provided, any reference to a vessel includes a reference to—
 
@@ -45,8 +45,8 @@ but does not include a reference to anything that permanently rests on, or is pe
 
 ## Annotations
 
-[^key-b93d32fafb3aeb17c5636ba2ea07918d]: Commencement: S. 244 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/20)
+[^c-b93d32fafb3aeb17c5636ba2ea07918d]: Commencement: S. 244 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/20)
 
-[^key-c151ecec602047be6f953f18bad9f3b2]: Textual amendment: Words in s. 244(1) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c151ecec602047be6f953f18bad9f3b2]: Textual amendment: Words in s. 244(1) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3e666d132e5f644da6b6654a0271efbd]: Textual amendment: Words in s. 244(1) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/2/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e666d132e5f644da6b6654a0271efbd]: Textual amendment: Words in s. 244(1) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/2/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

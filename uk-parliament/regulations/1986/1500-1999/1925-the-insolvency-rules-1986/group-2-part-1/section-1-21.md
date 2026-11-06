@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.21 . Proceedings to obtain agreement on the proposal[^key-f169f1fa5603d39b9bb7aaf9362f2580]
+## 1.21 . Proceedings to obtain agreement on the proposal[^c-f169f1fa5603d39b9bb7aaf9362f2580]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f169f1fa5603d39b9bb7aaf9362f2580]: Textual amendment: Rule 1.21(1)-(5) substituted for rule 1.21(1)-(6) (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/12) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))
+[^c-f169f1fa5603d39b9bb7aaf9362f2580]: Textual amendment: Rule 1.21(1)-(5) substituted for rule 1.21(1)-(6) (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/12) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))

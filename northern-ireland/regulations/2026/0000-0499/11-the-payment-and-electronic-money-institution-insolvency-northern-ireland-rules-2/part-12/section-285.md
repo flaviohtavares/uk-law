@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 285. Proceedings commenced in the wrong division of the High Court[^key-3f8aea327f43f16dbf4651c6702be75b]
+## 285. Proceedings commenced in the wrong division of the High Court[^c-3f8aea327f43f16dbf4651c6702be75b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where proceedings relating to a special administration are commenced in one divi
 
 ## Annotations
 
-[^key-3f8aea327f43f16dbf4651c6702be75b]: Commencement: [Rule 285](https://www.legislation.gov.uk/nisr/2026/11/rule/285) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-3f8aea327f43f16dbf4651c6702be75b]: Commencement: [Rule 285](https://www.legislation.gov.uk/nisr/2026/11/rule/285) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Landlord And Tenant
 
-The Business Tenancies (Protection from Forfeiture: Relevant Period) (Coronavirus) (England) (No. 3) Regulations 2020 (revoked)[^key-98afd308a7646348c111ead596f7ea35]
+The Business Tenancies (Protection from Forfeiture: Relevant Period) (Coronavirus) (England) (No. 3) Regulations 2020 (revoked)[^c-98afd308a7646348c111ead596f7ea35]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 30th December 2020
 
-[^key-98afd308a7646348c111ead596f7ea35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98afd308a7646348c111ead596f7ea35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-98afd308a7646348c111ead596f7ea35]
+## 1. Citation, commencement and application[^c-98afd308a7646348c111ead596f7ea35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of “relevant period”[^key-98afd308a7646348c111ead596f7ea35]
+## 2. Extension of “relevant period”[^c-98afd308a7646348c111ead596f7ea35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-98afd308a7646348c111ead596f7ea35]
+## 3. Revocation[^c-98afd308a7646348c111ead596f7ea35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-98afd308a7646348c111ead596f7ea35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98afd308a7646348c111ead596f7ea35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-98afd308a7646348c111ead596f7ea35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98afd308a7646348c111ead596f7ea35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98afd308a7646348c111ead596f7ea35]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1472) revoked (31.3.2021) by [The Business Tenancies (Protection from Forfeiture: Relevant Period) (Coronavirus) (England) Regulations 2021 (S.I. 2021/283)](https://www.legislation.gov.uk/uksi/2021/283), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/283/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/283/regulation/3)
+[^c-98afd308a7646348c111ead596f7ea35]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1472) revoked (31.3.2021) by [The Business Tenancies (Protection from Forfeiture: Relevant Period) (Coronavirus) (England) Regulations 2021 (S.I. 2021/283)](https://www.legislation.gov.uk/uksi/2021/283), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/283/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/283/regulation/3)

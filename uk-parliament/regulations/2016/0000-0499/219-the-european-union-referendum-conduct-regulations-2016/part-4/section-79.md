@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Application of provisions of the Representation of the People Act 1983[^key-32cf543d7c0c36db4a4c90cd076d4c39]
+## 79. Application of provisions of the Representation of the People Act 1983[^c-32cf543d7c0c36db4a4c90cd076d4c39]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 makes provision about the application of provisions of the 1983 Act f
 
 ## Annotations
 
-[^key-32cf543d7c0c36db4a4c90cd076d4c39]: Commencement: Reg. 79 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-32cf543d7c0c36db4a4c90cd076d4c39]: Commencement: Reg. 79 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

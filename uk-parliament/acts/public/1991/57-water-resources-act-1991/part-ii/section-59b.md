@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59B. Vesting of licence on death or bankruptcy of holder[^key-0f4c17c9431d4be34ae11e4f1ecc6448]
+## 59B. Vesting of licence on death or bankruptcy of holder[^c-0f4c17c9431d4be34ae11e4f1ecc6448]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) A person in whom a licence vests under this section shall become the holder of the licence, in place of the prior holder, from the date of the vesting.
 
-(4) Where a licence other than a temporary licence vests in any person under this section, that person shall give notice of that fact to the appropriate agency[^key-5dcb8420d23f30c533898313e2bb1daa] not later than the end of the period of fifteen months beginning with the date of the vesting.
+(4) Where a licence other than a temporary licence vests in any person under this section, that person shall give notice of that fact to the appropriate agency[^c-5dcb8420d23f30c533898313e2bb1daa] not later than the end of the period of fifteen months beginning with the date of the vesting.
 
 (5) If—
 
@@ -37,6 +37,6 @@ the licence shall cease to have effect.
 
 ## Annotations
 
-[^key-0f4c17c9431d4be34ae11e4f1ecc6448]: Textual amendment: Ss. 59A-59D and cross-heading inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))
+[^c-0f4c17c9431d4be34ae11e4f1ecc6448]: Textual amendment: Ss. 59A-59D and cross-heading inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))
 
-[^key-5dcb8420d23f30c533898313e2bb1daa]: Textual amendment: Words in [ss. 59A-59C](https://www.legislation.gov.uk/ukpga/1991/57/section/59A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(j)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/j) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5dcb8420d23f30c533898313e2bb1daa]: Textual amendment: Words in [ss. 59A-59C](https://www.legislation.gov.uk/ukpga/1991/57/section/59A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(j)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/j) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

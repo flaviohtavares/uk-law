@@ -24,7 +24,7 @@ Section 36
 
 ### PART 1 — Amendments of CTA 2009
 
-**1.**[^c22231561][^key-1bde505c275586b931a0be2317507b11] Before Part 16 of CTA 2009 insert—
+**1.**[^c22231561][^c-1bde505c275586b931a0be2317507b11] Before Part 16 of CTA 2009 insert—
 
 > **PART 15C — Theatrical Productions**
 >
@@ -602,7 +602,7 @@ Section 36
 
 #### ICTA
 
-**2.**[^key-6e544e749c562a06cefd77701cdc0fef] (1) Section 826 of the Income and Corporation Taxes Act 1988 (interest on tax overpaid) is amended as follows.
+**2.**[^c-6e544e749c562a06cefd77701cdc0fef] (1) Section 826 of the Income and Corporation Taxes Act 1988 (interest on tax overpaid) is amended as follows.
 
 (2) In subsection (1), after paragraph (fb) insert—
 
@@ -623,12 +623,12 @@ Section 36
 
 **3.** Schedule 18 to FA 1998 (company tax returns, assessments and related matters) is amended as follows.
 
-**4.**[^key-d8299413cdd27b2204007bfbd8cd1d05] In paragraph 10 (other claims and elections to be included in return), in sub-paragraph (4)—
+**4.**[^c-d8299413cdd27b2204007bfbd8cd1d05] In paragraph 10 (other claims and elections to be included in return), in sub-paragraph (4)—
 
 - (a) before “claims” insert “ certain ”;
 - (b) for “or 15B” substitute “ , 15B or 15C ”.
 
-**5.**[^key-1f55bf30117ad2cd9d090358093355fe] (1) Paragraph 52 (recovery of excessive overpayments etc) is amended as follows.
+**5.**[^c-1f55bf30117ad2cd9d090358093355fe] (1) Paragraph 52 (recovery of excessive overpayments etc) is amended as follows.
 
 (2) In sub-paragraph (2), after paragraph (bf) insert—
 
@@ -645,7 +645,7 @@ Section 36
   ;
 - (b) in the words after paragraph (b), after “(ah)” insert “ , (ai) ”.
 
-**6.**[^key-4e94d944bc65d10ed093f7caec2cd3a3] (1) Part 9D (certain claims for tax relief) is amended as follows.
+**6.**[^c-4e94d944bc65d10ed093f7caec2cd3a3] (1) Part 9D (certain claims for tax relief) is amended as follows.
 
 (2) In paragraph 83S (introduction), after paragraph (c) insert—
 
@@ -656,11 +656,11 @@ Section 36
 
 #### CAA 2001
 
-**7.**[^key-274f90047a1249a7114e54729ffc2fa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-274f90047a1249a7114e54729ffc2fa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### FA 2007
 
-**8.**[^key-c477272b228ab31f3323eaf9f53288b7] In Schedule 24 to FA 2007 (penalties for errors), in paragraph 28(fa) (meaning of “corporation tax credit”), omit the “or” at the end of sub-paragraph (ivb) and after that sub-paragraph insert—
+**8.**[^c-c477272b228ab31f3323eaf9f53288b7] In Schedule 24 to FA 2007 (penalties for errors), in paragraph 28(fa) (meaning of “corporation tax credit”), omit the “or” at the end of sub-paragraph (ivb) and after that sub-paragraph insert—
 
 > - (ivc) a theatre tax credit under section 1217K of that Act, or
 
@@ -668,11 +668,11 @@ Section 36
 
 #### CTA 2009
 
-**9.**[^key-0f5fcbcdfc4b32dead715603cc91bffe] In section 104BA of CTA 2009 (R&D expenditure credits: restrictions on claiming other tax reliefs), after subsection (3) insert—
+**9.**[^c-0f5fcbcdfc4b32dead715603cc91bffe] In section 104BA of CTA 2009 (R&D expenditure credits: restrictions on claiming other tax reliefs), after subsection (3) insert—
 
 > (4) For provision prohibiting an R&D expenditure credit being given under this Chapter and relief being given under section 1217H or 1217K (theatrical productions: additional deduction or theatre tax credit), see section 1217JA(2).
 
-**10.**[^key-748c9edc80d2a3b4812cdda6eea836a0] In Part 8 of CTA 2009 (intangible fixed assets), in Chapter 10 (excluded assets), before section 809 insert—
+**10.**[^c-748c9edc80d2a3b4812cdda6eea836a0] In Part 8 of CTA 2009 (intangible fixed assets), in Chapter 10 (excluded assets), before section 809 insert—
 
 > **808C. Assets representing expenditure incurred in course of separate theatrical trade**
 >
@@ -683,11 +683,11 @@ Section 36
 > - “**theatrical production**” has the same meaning as in Part 15C (see section 1217FA);
 > - “**theatrical production company**” means a company which, for the purposes of that Part, is the production company in relation to a theatrical production (see section 1217FC).
 
-**11.**[^key-21093df8d23c29ce82efb36cd2be482a] In section 1040ZA of CTA 2009 (additional relief for expenditure on research and development), after subsection (3) insert—
+**11.**[^c-21093df8d23c29ce82efb36cd2be482a] In section 1040ZA of CTA 2009 (additional relief for expenditure on research and development), after subsection (3) insert—
 
 > (4) For provision prohibiting relief being given under this Part and under section 1217H or 1217K (theatrical productions: additional deduction or theatre tax credit), see section 1217JA(2).
 
-**12.**[^key-26f66d6055c6146134ab6ce8e4884be1] In section 1310 of CTA 2009 (orders and regulations), in subsection (4), after paragraph (ej) insert—
+**12.**[^c-26f66d6055c6146134ab6ce8e4884be1] In section 1310 of CTA 2009 (orders and regulations), in subsection (4), after paragraph (ej) insert—
 
 > - (ek) section 1217GB(4) (EEA expenditure condition),
 > - (el) section 1217J(4) (amount of additional deduction),
@@ -695,7 +695,7 @@ Section 36
 
 .
 
-**13.**[^key-e8ba9a01dc462805f6432cc540ab0842] In Schedule 4 to CTA 2009 (index of defined expressions) at the appropriate place insert—
+**13.**[^c-e8ba9a01dc462805f6432cc540ab0842] In Schedule 4 to CTA 2009 (index of defined expressions) at the appropriate place insert—
 
 > |  |  |
 > | --- | --- |
@@ -765,7 +765,7 @@ Section 36
 
 #### FA 2009
 
-**14.**[^key-5820f3883a0ef2e8e86781d1e51973d2] In Schedule 54A to FA 2009 (which is prospectively inserted by F(No. 3)A 2010 and contains provision about the recovery of certain amounts of interest paid by HMRC), in paragraph 2—
+**14.**[^c-5820f3883a0ef2e8e86781d1e51973d2] In Schedule 54A to FA 2009 (which is prospectively inserted by F(No. 3)A 2010 and contains provision about the recovery of certain amounts of interest paid by HMRC), in paragraph 2—
 
 - (a) in sub-paragraph (2), omit the “or” at the end of paragraph (f) and after paragraph (g) insert
 
@@ -826,28 +826,28 @@ Section 36
 
 [^c22231561]: Commencement: Sch. 4 para. 1 partly in force at Royal Assent; sch. 4 para. 1 in force at Royal Assent for specified purposes, see [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/16)
 
-[^key-1bde505c275586b931a0be2317507b11]: Commencement: Sch. 4 para. 1 in force at 22.8.2014 for the purposes of the amendments made by that paragraph in so far as not already in force by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-1bde505c275586b931a0be2317507b11]: Commencement: Sch. 4 para. 1 in force at 22.8.2014 for the purposes of the amendments made by that paragraph in so far as not already in force by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-6e544e749c562a06cefd77701cdc0fef]: Commencement: Sch. 4 para. 2 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-6e544e749c562a06cefd77701cdc0fef]: Commencement: Sch. 4 para. 2 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-d8299413cdd27b2204007bfbd8cd1d05]: Commencement: Sch. 4 para. 4 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-d8299413cdd27b2204007bfbd8cd1d05]: Commencement: Sch. 4 para. 4 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-1f55bf30117ad2cd9d090358093355fe]: Commencement: Sch. 4 para. 5 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-1f55bf30117ad2cd9d090358093355fe]: Commencement: Sch. 4 para. 5 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-4e94d944bc65d10ed093f7caec2cd3a3]: Commencement: Sch. 4 para. 6 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-4e94d944bc65d10ed093f7caec2cd3a3]: Commencement: Sch. 4 para. 6 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-274f90047a1249a7114e54729ffc2fa4]: Textual amendment: Sch. 4 para. 7 repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(xi)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/xi)
+[^c-274f90047a1249a7114e54729ffc2fa4]: Textual amendment: Sch. 4 para. 7 repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(xi)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/xi)
 
-[^key-c477272b228ab31f3323eaf9f53288b7]: Commencement: Sch. 4 para. 8 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-c477272b228ab31f3323eaf9f53288b7]: Commencement: Sch. 4 para. 8 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-0f5fcbcdfc4b32dead715603cc91bffe]: Commencement: Sch. 4 para. 9 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-0f5fcbcdfc4b32dead715603cc91bffe]: Commencement: Sch. 4 para. 9 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-748c9edc80d2a3b4812cdda6eea836a0]: Commencement: Sch. 4 para. 10 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-748c9edc80d2a3b4812cdda6eea836a0]: Commencement: Sch. 4 para. 10 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-21093df8d23c29ce82efb36cd2be482a]: Commencement: Sch. 4 para. 11 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-21093df8d23c29ce82efb36cd2be482a]: Commencement: Sch. 4 para. 11 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-26f66d6055c6146134ab6ce8e4884be1]: Commencement: Sch. 4 para. 12 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-26f66d6055c6146134ab6ce8e4884be1]: Commencement: Sch. 4 para. 12 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-e8ba9a01dc462805f6432cc540ab0842]: Commencement: Sch. 4 para. 13 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-e8ba9a01dc462805f6432cc540ab0842]: Commencement: Sch. 4 para. 13 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-5820f3883a0ef2e8e86781d1e51973d2]: Commencement: Sch. 4 para. 14 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-5820f3883a0ef2e8e86781d1e51973d2]: Commencement: Sch. 4 para. 14 in force at 22.8.2014 for the purposes of the amendments made by that paragraph by [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)

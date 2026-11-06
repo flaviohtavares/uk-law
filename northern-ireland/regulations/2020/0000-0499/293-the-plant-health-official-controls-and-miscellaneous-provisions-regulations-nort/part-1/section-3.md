@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Interpretation: EU Decisions[^key-20623f3e8a1851c0b728fa2ffa4469b9]
+## 3. Interpretation: EU Decisions[^c-20623f3e8a1851c0b728fa2ffa4469b9]
 
 *Extent: N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-20623f3e8a1851c0b728fa2ffa4469b9]: Commencement: Reg. 3 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-20623f3e8a1851c0b728fa2ffa4469b9]: Commencement: Reg. 3 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00010]: Footnote: O.J. No. L 27, 3.2.1998, p. 47.
 

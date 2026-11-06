@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Regulations[^key-19c6c9a68141f9b310e91b8688bb0c40]
+## 97. Regulations[^c-19c6c9a68141f9b310e91b8688bb0c40]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ and all other regulations are subject to the negative procedure.
 
 ## Annotations
 
-[^key-19c6c9a68141f9b310e91b8688bb0c40]: Commencement: S. 97 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)
+[^c-19c6c9a68141f9b310e91b8688bb0c40]: Commencement: S. 97 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)

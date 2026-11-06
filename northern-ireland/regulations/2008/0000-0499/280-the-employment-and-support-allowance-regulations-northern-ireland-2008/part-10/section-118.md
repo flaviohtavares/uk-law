@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Calculation of tariff income from capital[^key-595e92540c0d8d51a6ff461a0b3fa23d]
+## 118. Calculation of tariff income from capital[^c-595e92540c0d8d51a6ff461a0b3fa23d]
 
 *Extent: N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 
 (5) Notwithstanding paragraphs (1) and (2), where any part of the excess is not a complete £250 that part is to be treated as equivalent to a weekly income of £1.
 
-(6) For the purposes of paragraphs (1) and (2), capital includes any income treated as capital under regulation 112 (income treated as capital)[^key-045bee4fb4023865614ac02632ca7d74] .
+(6) For the purposes of paragraphs (1) and (2), capital includes any income treated as capital under regulation 112 (income treated as capital)[^c-045bee4fb4023865614ac02632ca7d74] .
 
 ## Annotations
 
-[^key-595e92540c0d8d51a6ff461a0b3fa23d]: Commencement: [Reg. 118](https://www.legislation.gov.uk/nisr/2008/280/regulation/118) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-595e92540c0d8d51a6ff461a0b3fa23d]: Commencement: [Reg. 118](https://www.legislation.gov.uk/nisr/2008/280/regulation/118) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-045bee4fb4023865614ac02632ca7d74]: Textual amendment: Words in [reg. 118(6)](https://www.legislation.gov.uk/nisr/2008/280/regulation/118/6) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(15)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/15)
+[^c-045bee4fb4023865614ac02632ca7d74]: Textual amendment: Words in [reg. 118(6)](https://www.legislation.gov.uk/nisr/2008/280/regulation/118/6) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(15)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/15)

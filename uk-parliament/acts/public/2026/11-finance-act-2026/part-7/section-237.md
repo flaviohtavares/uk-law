@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Relevant individuals: ineligibility orders[^M_I_e0bca747-a076-418f-86b9-06a10de7a8b0][^key-fbf82416558c5aad997dc14f158dde7a][^key-bddaed834e858c59a54af93a38b4736f]
+## 237. Relevant individuals: ineligibility orders[^M_I_e0bca747-a076-418f-86b9-06a10de7a8b0][^c-fbf82416558c5aad997dc14f158dde7a][^c-bddaed834e858c59a54af93a38b4736f]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 [^M_I_e0bca747-a076-418f-86b9-06a10de7a8b0]: Commencement: S. 237 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-fbf82416558c5aad997dc14f158dde7a]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2026/11/section/237) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-fbf82416558c5aad997dc14f158dde7a]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2026/11/section/237) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-bddaed834e858c59a54af93a38b4736f]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2026/11/section/237) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-bddaed834e858c59a54af93a38b4736f]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2026/11/section/237) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-b6f523c8579fec609a4135201480ddae]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-b6f523c8579fec609a4135201480ddae]
 
 *Extent: E+W+S*
 
 Article 2
 
-[^key-b6f523c8579fec609a4135201480ddae]In the Borough of North Lincolnshire, a nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act and associated development, comprising—
+[^c-b6f523c8579fec609a4135201480ddae]In the Borough of North Lincolnshire, a nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act and associated development, comprising—
 
-[^key-b6f523c8579fec609a4135201480ddae]**Work No. 1** – a carbon capture enabled electricity generating station located on land at the Keadby Power Station site, west of Scunthorpe, gas fuelled, and with a gross output capacity of up to 910 megawatts (MWe) at ISO standard reference conditions comprising—
+[^c-b6f523c8579fec609a4135201480ddae]**Work No. 1** – a carbon capture enabled electricity generating station located on land at the Keadby Power Station site, west of Scunthorpe, gas fuelled, and with a gross output capacity of up to 910 megawatts (MWe) at ISO standard reference conditions comprising—
 
 - (a) **Work No. 1A** – a combined cycle gas turbine plant, comprising—
   - (i) a combined cycle gas turbine;
@@ -81,9 +81,9 @@ Article 2
   - (xiii) waste water treatment facilities; and
   - (xiv) workshop and stores building.
 
-[^key-b6f523c8579fec609a4135201480ddae]and associated development within the meaning of section 115(2) of the 2008 Act in connection with the nationally significant infrastructure project referred to in Work No. 1, comprising—
+[^c-b6f523c8579fec609a4135201480ddae]and associated development within the meaning of section 115(2) of the 2008 Act in connection with the nationally significant infrastructure project referred to in Work No. 1, comprising—
 
-[^key-b6f523c8579fec609a4135201480ddae]**Work No. 2** – a high pressure gas supply pipeline for the transport of natural gas to Work No. 1, comprising a high pressure steel pipeline of up to 800 millimetres (nominal bore) in diameter and approximately 0.3km in length, including cathodic protection posts and marker posts, running within the Keadby Power Station site between Work No. 1D and Work No. 2B, and above ground installation comprising—
+[^c-b6f523c8579fec609a4135201480ddae]**Work No. 2** – a high pressure gas supply pipeline for the transport of natural gas to Work No. 1, comprising a high pressure steel pipeline of up to 800 millimetres (nominal bore) in diameter and approximately 0.3km in length, including cathodic protection posts and marker posts, running within the Keadby Power Station site between Work No. 1D and Work No. 2B, and above ground installation comprising—
 
 - (a) **Work No. 2A** – a compound for National Grid Gas’s apparatus, comprising—
   - (i) an offtake connection from the National Transmission System;
@@ -102,50 +102,50 @@ Article 2
   - (v) telemetry equipment kiosks and communications equipment,
 - (c) in connection with Work Nos. 2A and 2B, access works, vehicle parking, electrical and telecommunications connections, surface water drainage, security fencing and gates, and closed circuit television cameras and columns.
 
-[^key-b6f523c8579fec609a4135201480ddae]**Work No. 3** – electrical connection works for the export and import of electricity to and from national electricity transmission networks and the import of electricity from district electricity transmission networks, comprising—
+[^c-b6f523c8579fec609a4135201480ddae]**Work No. 3** – electrical connection works for the export and import of electricity to and from national electricity transmission networks and the import of electricity from district electricity transmission networks, comprising—
 
 - (a) **Work No. 3A** – up to 400 kilovolt overground and/or underground electrical cables and control systems cables running from Work No. 1A to the existing National Grid Electricity Transmission substation located west of Chapel Lane, including works within the substation; and
 - (b) **Work No. 3B** – up to 132 kilovolt underground electrical cables running from Work No. 1A to the existing Northern Powergrid 132kV substation located at Chapel Lane, including above ground infrastructure works within the substation.
 
-[^key-b6f523c8579fec609a4135201480ddae]**Work No. 4** – water supply connection works to provide cooling and make-up water to Work No. 1, comprising either—
+[^c-b6f523c8579fec609a4135201480ddae]**Work No. 4** – water supply connection works to provide cooling and make-up water to Work No. 1, comprising either—
 
 - (a) **Work No. 4A** – underground and/or overground water supply pipeline running between Work No. 1E and the canal including, as necessary, a temporary cofferdam structure, new, upgraded or replacement pipeline, plant, buildings, enclosures, intake structures screens and other structures, cable, temporary moorings, temporary repositioning of existing moorings, access works, vehicle parking, screening, lighting, and signage; or
 - (b) **Work No. 4B** – works to the existing cooling water supply pipelines running between Works No. 1E and the existing intake structures within the River Trent, including, as necessary, a temporary cofferdam structure, new, upgraded or replacement pipelines, plant, enclosures, intake structures, cable placement of material, temporary moorings, installation and repositioning of existing hazard dolphins, access works, screening, lighting, and signage.
 
-[^key-b6f523c8579fec609a4135201480ddae]**Work No. 5** – works to discharge used cooling water and treated wastewater comprising works to the existing cooling water discharge pipeline(s) running from Work No. 1B to the existing outfall structures within the River Trent including, as necessary new, upgraded or replacement pipelines, plant, enclosures, outfall structures and other structures and cable.
+[^c-b6f523c8579fec609a4135201480ddae]**Work No. 5** – works to discharge used cooling water and treated wastewater comprising works to the existing cooling water discharge pipeline(s) running from Work No. 1B to the existing outfall structures within the River Trent including, as necessary new, upgraded or replacement pipelines, plant, enclosures, outfall structures and other structures and cable.
 
-[^key-b6f523c8579fec609a4135201480ddae]**Work No. 6** – towns water connection to supply towns water to Work No.1 from the supply point east of Chapel Lane including works to the existing towns water pipelines, replacement and new pipelines, plant, enclosures and structures.
+[^c-b6f523c8579fec609a4135201480ddae]**Work No. 6** – towns water connection to supply towns water to Work No.1 from the supply point east of Chapel Lane including works to the existing towns water pipelines, replacement and new pipelines, plant, enclosures and structures.
 
-[^key-b6f523c8579fec609a4135201480ddae]**Work No. 7** – a high pressure carbon dioxide pipeline for the export of carbon dioxide from Work No. 1C to the National Grid Carbon Gathering Network and above ground carbon dioxide compression and export infrastructure on land at Keadby Power Station, comprising—
+[^c-b6f523c8579fec609a4135201480ddae]**Work No. 7** – a high pressure carbon dioxide pipeline for the export of carbon dioxide from Work No. 1C to the National Grid Carbon Gathering Network and above ground carbon dioxide compression and export infrastructure on land at Keadby Power Station, comprising—
 
 - (a) **Work No. 7A** – compressor station comprising deoxygenation, dehydration, and staged compression facilities, and outlet metering and electrical connection; and
 - (b) **Work No. 7B** – National Grid above ground infrastructure compound, comprising export connection to the National Grid Carbon Gathering Network, above and below ground valves, flanges and pipework, above or below ground remotely operated valve, above or below ground remotely operated valve bypass, compression facilities, instrumentation and electrical kiosks, electrical connection, inlet metering and telemetry equipment kiosks and communications equipment;
 - (c) in connection with Work Nos. 7A and 7B, access works, vehicle parking, electrical and telecommunications connections, surface water drainage, security fencing and gates, and closed circuit television cameras and columns.
 
-[^key-b6f523c8579fec609a4135201480ddae]**Work No. 8** – new permanent accesses to Work Nos. 1, 2 and 7 comprising—
+[^c-b6f523c8579fec609a4135201480ddae]**Work No. 8** – new permanent accesses to Work Nos. 1, 2 and 7 comprising—
 
 - (a) **Work No. 8A** – access route comprising the maintenance and improvement of an existing private track running between Work Nos. 1 and 2 including private bridge and the existing junction with the A18 nearby to the west of Pilfrey Farm, comprising surfacing works and signage, and creation of on and off-slips;
 - (b) **Work No. 8B** – installation of laybys and gatehouse building nearby to the north of the junction with the A18, barriers, enclosures, drainage and lighting;
 - (c) **Work No. 8C** - emergency access route comprising the installation of a bridge crossing of an existing drainage channel, the maintenance and improvement of an existing private track running between Work No. 1 and Chapel Lane, Keadby, surfacing and strengthening works, drainage, enclosures and lighting.
 
-[^key-b6f523c8579fec609a4135201480ddae]**Work No. 9** – temporary construction and laydown areas and temporary and permanent accesses, comprising—
+[^c-b6f523c8579fec609a4135201480ddae]**Work No. 9** – temporary construction and laydown areas and temporary and permanent accesses, comprising—
 
 - (a) **Work No. 9A** – temporary construction and laydown areas comprising hard standing, earthworks and levelling, laydown and open storage areas, contractor compounds and construction staff welfare facilities, surface water drainage and gatehouse and weighbridge.
 - (b) **Work No. 9B** – the maintenance and improvement of the existing private tracks connecting the existing junctions with the A18 to the west of Pilfrey Farm with Work No. 9A via two existing private bridge crossings of the Hatfield Waste Drain, including the replacement, widening, improvement and maintenance of the westernmost existing private bridge crossing, surfacing, drainage and strengthening works, barriers and enclosures.
 - (c) **Work No. 9C** - temporary construction and laydown area in association with the replacement of the private bridge in Work No. 9B, comprising laydown and open storage areas, hard standing, and the placement of mobile cranes.
 
-[^key-b6f523c8579fec609a4135201480ddae]**Work No. 10** – temporary haulage route and waterborne transport offloading facilities on land east of the Keadby Power Station site and at the River Trent comprising—
+[^c-b6f523c8579fec609a4135201480ddae]**Work No. 10** – temporary haulage route and waterborne transport offloading facilities on land east of the Keadby Power Station site and at the River Trent comprising—
 
 - (a) **Work No. 10A** – the maintenance and improvement of the existing temporary paved haulage route and ditch crossings and their subsequent removal;
 - (b) **Work No. 10B** – the inspection and repair of the existing jetty, and temporary placement of mobile cranes including the temporary oversailing of crane arms above the River Trent; and
 - (c) **Work No.****10C** – use of river bed of the River Trent for the mooring of vessels and craft at the waterborne transport offloading area at lower tide.
 
-[^key-b6f523c8579fec609a4135201480ddae]**Work No. 11** – landscaping and planting and boundary treatment comprising—
+[^c-b6f523c8579fec609a4135201480ddae]**Work No. 11** – landscaping and planting and boundary treatment comprising—
 
 - (a) **Works 11A** -soft landscaping including planting and biodiversity enhancement measures; and
 - (b) **Works 11B** - security fencing, gates, boundary treatment and other means of enclosure;
 
-[^key-b6f523c8579fec609a4135201480ddae]In connection with and in addition to Works Nos. 1 to 11, further associated development including—
+[^c-b6f523c8579fec609a4135201480ddae]In connection with and in addition to Works Nos. 1 to 11, further associated development including—
 
 - (a) surface water drainage systems, storm water attenuation systems including storage basins, oil water separators, including channelling and culverting and works to existing drainage systems;
 - (b) electrical, gas, potable water supply, foul water drainage and telecommunications infrastructure connections and works, and works to alter the position of such services and utilities connections;
@@ -167,4 +167,4 @@ Article 2
 
 ## Annotations
 
-[^key-b6f523c8579fec609a4135201480ddae]: Commencement: Sch. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-b6f523c8579fec609a4135201480ddae]: Commencement: Sch. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

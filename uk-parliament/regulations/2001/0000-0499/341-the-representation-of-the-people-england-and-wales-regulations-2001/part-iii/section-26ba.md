@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26BA. EU citizens: power to request additional evidence of immigration status or historical residency for purposes of determining eligibility to vote in a PCC election in Wales[^key-2fa39c0b83dd04fe5fc155819f3a6707]
+## 26BA. EU citizens: power to request additional evidence of immigration status or historical residency for purposes of determining eligibility to vote in a PCC election in Wales[^c-2fa39c0b83dd04fe5fc155819f3a6707]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fa39c0b83dd04fe5fc155819f3a6707]: Textual amendment: Regs. 26BA, 26BB inserted (7.5.2024) by [The Representation of the People (Franchise Amendment and Eligibility Review) Regulations 2023 (S.I. 2023/1150)](https://www.legislation.gov.uk/uksi/2023/1150), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1150/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2023/1150/regulation/34)
+[^c-2fa39c0b83dd04fe5fc155819f3a6707]: Textual amendment: Regs. 26BA, 26BB inserted (7.5.2024) by [The Representation of the People (Franchise Amendment and Eligibility Review) Regulations 2023 (S.I. 2023/1150)](https://www.legislation.gov.uk/uksi/2023/1150), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1150/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2023/1150/regulation/34)

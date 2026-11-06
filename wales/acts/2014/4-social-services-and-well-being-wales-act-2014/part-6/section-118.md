@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Information[^key-9d4f04632433ed534a31d175a304e971]
+## 118. Information[^c-9d4f04632433ed534a31d175a304e971]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ proposes to live, or is living, in the area of another local authority or a loca
 
 - (a) by a voluntary organisation or in a private children's home,
 - (b) by or on behalf of any Local Health Board or Special Health Authority,
-- (c) by or on behalf of an integrated care board[^key-8ce56c4ad82c30b7decc49a8ec2d92fe] or NHS England[^key-76492af7f9337b2dc71b00d8158818b5],
+- (c) by or on behalf of an integrated care board[^c-8ce56c4ad82c30b7decc49a8ec2d92fe] or NHS England[^c-76492af7f9337b2dc71b00d8158818b5],
 - (d) by or on behalf of local authority in the exercise of education functions,
 - (e) by or on behalf of a local authority in England in the exercise of education functions,
 - (f) in any care home or independent hospital, or
@@ -46,8 +46,8 @@ ceases to be so accommodated after reaching the age of 16, the person by whom or
 
 ## Annotations
 
-[^key-9d4f04632433ed534a31d175a304e971]: Commencement: S. 118 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-9d4f04632433ed534a31d175a304e971]: Commencement: S. 118 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-8ce56c4ad82c30b7decc49a8ec2d92fe]: Textual amendment: Words in [s. 118(2)(c)](https://www.legislation.gov.uk/anaw/2014/4/section/118/2/c) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 222(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/222/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-8ce56c4ad82c30b7decc49a8ec2d92fe]: Textual amendment: Words in [s. 118(2)(c)](https://www.legislation.gov.uk/anaw/2014/4/section/118/2/c) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 222(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/222/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-76492af7f9337b2dc71b00d8158818b5]: Textual amendment: Words in [s. 118(2)(c)](https://www.legislation.gov.uk/anaw/2014/4/section/118/2/c) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 28(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/28/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-76492af7f9337b2dc71b00d8158818b5]: Textual amendment: Words in [s. 118(2)(c)](https://www.legislation.gov.uk/anaw/2014/4/section/118/2/c) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 28(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/28/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

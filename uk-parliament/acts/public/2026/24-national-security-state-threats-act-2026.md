@@ -36,7 +36,7 @@ An Act to make provision for the designation of bodies involved in foreign power
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Designation of bodies involved in foreign power threat activity[^key-50b4638e9300749d87983b050f2d4de2]
+## 1. Designation of bodies involved in foreign power threat activity[^c-50b4638e9300749d87983b050f2d4de2]
 
 (1) The [National Security Act 2023](https://www.legislation.gov.uk/ukpga/2023/32/contents) is amended as follows.
 
@@ -97,7 +97,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 .
 
-## 2. Offences relating to designated bodies[^key-a72aa5a336c145303285b07b5227069c]
+## 2. Offences relating to designated bodies[^c-a72aa5a336c145303285b07b5227069c]
 
 (1) The [National Security Act 2023](https://www.legislation.gov.uk/ukpga/2023/32/contents) is amended as follows.
 
@@ -274,7 +274,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 .
 
-## 3. Removal of designation[^key-27306ac60e1d36affd40b4f4894a4b5c]
+## 3. Removal of designation[^c-27306ac60e1d36affd40b4f4894a4b5c]
 
 (1) The National Security Act 2023 is amended as follows.
 
@@ -397,7 +397,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 .
 
-## 4. Consequential amendments[^key-149ddeb157d69bc0e7d7c62b3a779aeb]
+## 4. Consequential amendments[^c-149ddeb157d69bc0e7d7c62b3a779aeb]
 
 (1) The Schedule contains amendments that are consequential on this Act.
 
@@ -420,7 +420,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 whenever passed or made.
 
-## 5. Regulations[^key-0eb0bc7f0d6ed19f65b9938a9df6cddc]
+## 5. Regulations[^c-0eb0bc7f0d6ed19f65b9938a9df6cddc]
 
 (1) The [National Security Act 2023](https://www.legislation.gov.uk/ukpga/2023/32/contents) is amended as follows.
 
@@ -451,19 +451,19 @@ whenever passed or made.
 - (d) in [subsection (9)](https://www.legislation.gov.uk/ukpga/2023/32/section/96), after “20” insert “or 40”;
 - (e) in [subsection (11)](https://www.legislation.gov.uk/ukpga/2023/32/section/96), after “section” insert “33A,”.
 
-## 6. Extent[^key-5fa5a242291f734378d7f1c2a7015bab]
+## 6. Extent[^c-5fa5a242291f734378d7f1c2a7015bab]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland, subject to subsection (2).
 
 (2) Any amendment, repeal or revocation made by the Schedule to this Act has the same extent as the provision amended, repealed or revoked.
 
-## 7. Commencement[^key-752dbdcfd46cb3087f9d13547d5639b1]
+## 7. Commencement[^c-752dbdcfd46cb3087f9d13547d5639b1]
 
 (1) This Act comes into force on the day on which it is passed.
 
 (2) The power in [section 419](https://www.legislation.gov.uk/ukpga/2020/17/section/419)[(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/419) of the [Sentencing Act 2020](https://www.legislation.gov.uk/ukpga/2020/17/contents) (power to state effect of commencement provisions) applies in relation to any amendment or repeal made by or under this Act as it applies in relation to an amendment or repeal made by [Schedule 22](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22) to [that Act](https://www.legislation.gov.uk/ukpga/2020/17/contents).
 
-## 8. Short title[^key-f2f8fb1d8576d2bec3d5605fd197ebdb]
+## 8. Short title[^c-f2f8fb1d8576d2bec3d5605fd197ebdb]
 
 This Act may be cited as the National Security (State Threats) Act 2026.
 
@@ -473,11 +473,11 @@ Section 4(1)
 
 ### Part 1 — Amendments of primary legislation
 
-#### 1. Repatriation of Prisoners Act 1984[^key-27065cae383c4af76267401e28047dbf]
+#### 1. Repatriation of Prisoners Act 1984[^c-27065cae383c4af76267401e28047dbf]
 
 Part 1 of the Schedule to the Repatriation of Prisoners Act 1984 (operation of certain enactments in relation to the prisoner) is amended as follows.
 
-**2.**[^key-04e53a8c081b51ba5d96f2f159186501] In paragraph 2 (as it applies in Scotland to repatriated prisoners any of whose sentences were imposed on or after 1 October 1993)—
+**2.**[^c-04e53a8c081b51ba5d96f2f159186501] In paragraph 2 (as it applies in Scotland to repatriated prisoners any of whose sentences were imposed on or after 1 October 1993)—
 
 - (a) in sub-paragraph (3G)—
   - (i) in paragraph (b), after “force” insert “or, where the condition to be met is the designated body condition, on or after the day on which the National Security (State Threats) Act 2026 came into force”;
@@ -488,7 +488,7 @@ Part 1 of the Schedule to the Repatriation of Prisoners Act 1984 (operation of c
   - (ii) in paragraph (c)(i), for “that section” substitute “section 21 of the National Security Act 2023”;
   - (iii) in paragraph (d), for “that section that the foreign power condition” substitute “section 21 of the National Security Act 2023 that the foreign power condition or the designated body condition”.
 
-**3.**[^key-00103e853dd6d584c1c72ab9a0ca5145] In paragraph 2A—
+**3.**[^c-00103e853dd6d584c1c72ab9a0ca5145] In paragraph 2A—
 
 - (a) in sub-paragraph (4G)—
   - (i) in paragraph (b), after “force” insert “or, where the condition to be met is the designated body condition, on or after the day on which the National Security (State Threats) Act 2026 came into force”;
@@ -499,11 +499,11 @@ Part 1 of the Schedule to the Repatriation of Prisoners Act 1984 (operation of c
   - (ii) in paragraph (c)(i), for “that section” substitute “section 21 of the National Security Act 2023”;
   - (iii) in paragraph (d), for “that section that the foreign power condition” substitute “section 21 of the National Security Act 2023 that the foreign power condition or the designated body condition”.
 
-#### 4. Criminal Justice Act 1988[^key-d815d304a22c9dace3cab1c07df715e2]
+#### 4. Criminal Justice Act 1988[^c-d815d304a22c9dace3cab1c07df715e2]
 
 In the Criminal Justice Act 1988, in section 133(5)(h) (compensation for miscarriage of justice), after “under” insert “section 33D or”.
 
-#### 5. Criminal Procedure (Scotland) Act 1995[^key-56e8059f3eb165c692e2ea5f9cc39a32]
+#### 5. Criminal Procedure (Scotland) Act 1995[^c-56e8059f3eb165c692e2ea5f9cc39a32]
 
 In the Criminal Procedure (Scotland) Act 1995, in Part 2 of Schedule 5ZB (offences involved or connected with a threat to national security)—
 
@@ -521,11 +521,11 @@ In the Criminal Procedure (Scotland) Act 1995, in Part 2 of Schedule 5ZB (offenc
   - (i) in the heading, after “power” insert “or designated body”;
   - (ii) in sub-paragraph (b), after “power” insert “or designated body”.
 
-#### 6. Terrorism Act 2000[^key-5821ffce1badcb02beed5c1d6c91224d]
+#### 6. Terrorism Act 2000[^c-5821ffce1badcb02beed5c1d6c91224d]
 
 Schedule 3 to the Terrorism Act 2000 (constitution of the Proscribed Organisations Appeal Commission and procedure) is amended as follows.
 
-**7.**[^key-172f355a1ab2777b64234b43b1f79f9e] In paragraph 5—
+**7.**[^c-172f355a1ab2777b64234b43b1f79f9e] In paragraph 5—
 
 - (a) in sub-paragraph (1)(a), at the end insert “under section 5 or under section 33D of the National Security Act 2023”;
 - (b) in sub-paragraph (3), after “organisations” insert “and bodies”;
@@ -540,24 +540,24 @@ Schedule 3 to the Terrorism Act 2000 (constitution of the Proscribed Organisatio
   ;
 - (f) in sub-paragraph (4)(e), after “section 6” insert “, or under section 33E of the National Security Act 2023,”.
 
-**8.**[^key-27d583cf434a5e685d46f2ba36a9857c] In paragraph 6—
+**8.**[^c-27d583cf434a5e685d46f2ba36a9857c] In paragraph 6—
 
 - (a) in sub-paragraph (1)(a), after “an organisation” insert “or a body”;
 - (b) in sub-paragraph (2), after “the organisation” insert “or body”;
 - (c) in sub-paragraph (3), after “an organisation” insert “or a body”.
 
-**9.**[^key-1beb5570d8c8b62db6a2d7acf5098d4d] In paragraph 7—
+**9.**[^c-1beb5570d8c8b62db6a2d7acf5098d4d] In paragraph 7—
 
 - (a) in sub-paragraph (1), after “an organisation” insert “, a body”;
 - (b) in sub-paragraph (4), after “the organisation” insert “, the body”.
 
-**10.**[^key-cb5448b5266b5d0cbf08527f9bffb0b3] After paragraph 7 insert—
+**10.**[^c-cb5448b5266b5d0cbf08527f9bffb0b3] After paragraph 7 insert—
 
 > **7A.** In this Schedule references to a body are to a body designated under section 33A of the National Security Act 2023.
 
 .
 
-#### 11. Criminal Justice Act 2003[^key-7b6d591ab3191dcfc831ffd92da64e32]
+#### 11. Criminal Justice Act 2003[^c-7b6d591ab3191dcfc831ffd92da64e32]
 
 In the Criminal Justice Act 2003, in Schedule 19ZB (offences where offender not eligible for release at the end of the section 255BA automatic release period)—
 
@@ -566,11 +566,11 @@ In the Criminal Justice Act 2003, in Schedule 19ZB (offences where offender not 
   - (ii) after “the foreign power condition” insert “or the designated body condition”;
 - (b) in paragraph 9, after “power” insert “or designated body”.
 
-#### 12. Armed Forces Act 2006[^key-93f77c0574d8f3030935d21677cfc32d]
+#### 12. Armed Forces Act 2006[^c-93f77c0574d8f3030935d21677cfc32d]
 
 In the Armed Forces Act 2006, in section 238(7) (deciding the seriousness of the offence), after “power” insert “or designated body”.
 
-#### 13. Sentencing Code[^key-eb83ed74350c864cb5ad692c6072280b]
+#### 13. Sentencing Code[^c-eb83ed74350c864cb5ad692c6072280b]
 
 (1) The Sentencing Code is amended as follows.
 
@@ -592,52 +592,52 @@ In the Armed Forces Act 2006, in section 238(7) (deciding the seriousness of the
 
 .
 
-#### 14. National Security Act 2023[^key-d67daedc4439d94ce688ee383d1c671e]
+#### 14. National Security Act 2023[^c-d67daedc4439d94ce688ee383d1c671e]
 
 The National Security Act 2023 is amended as follows.
 
-**15.**[^key-2839b329dac11768e923db1a246058a9] In section 1 (obtaining or disclosing protected information), in subsection (1)(c)—
+**15.**[^c-2839b329dac11768e923db1a246058a9] In section 1 (obtaining or disclosing protected information), in subsection (1)(c)—
 
 - (a) after “condition” insert “or the designated body condition”;
 - (b) for “section 31” substitute “sections 31 and 33B”.
 
-**16.**[^key-16a3a446e598d714fbb65c2f062831b1] In section 2 (obtaining or disclosing trade secrets), in subsection (1)(d)—
+**16.**[^c-16a3a446e598d714fbb65c2f062831b1] In section 2 (obtaining or disclosing trade secrets), in subsection (1)(d)—
 
 - (a) after “condition” insert “or the designated body condition”;
 - (b) for “section 31” substitute “sections 31 and 33B”.
 
-**17.**[^key-b05246e5241482968b004bef72e66345] In section 12 (sabotage), in subsection (1)(d)—
+**17.**[^c-b05246e5241482968b004bef72e66345] In section 12 (sabotage), in subsection (1)(d)—
 
 - (a) after “condition” insert “or the designated body condition”;
 - (b) for “section 31” substitute “sections 31 and 33B”.
 
-**18.**[^key-ee97e3ce47a62adae6502bea4e2e5703] In section 13 (foreign interference: general)—
+**18.**[^c-ee97e3ce47a62adae6502bea4e2e5703] In section 13 (foreign interference: general)—
 
 - (a) in subsection (1)(b), after “condition” insert “or the designated body condition”;
 - (b) in subsection (2)(b), after “condition” insert “or the designated body condition”;
 - (c) in subsection (3)(b), after “condition” insert “or the designated body condition”.
 
-**19.**[^key-596b19472876dec677237761d44b8826] In section 16 (foreign interference in elections), in subsection (1)(b)—
+**19.**[^c-596b19472876dec677237761d44b8826] In section 16 (foreign interference in elections), in subsection (1)(b)—
 
 - (a) after “condition” insert “or the designated body condition”;
 - (b) for “section 31” substitute “sections 31 and 33B”.
 
-**20.**[^key-4e18922cb01ea264f9685788d4501a01] In section 18 (preparatory conduct), in subsection (3)(b), after “condition” insert “or the designated body condition”.
+**20.**[^c-4e18922cb01ea264f9685788d4501a01] In section 18 (preparatory conduct), in subsection (3)(b), after “condition” insert “or the designated body condition”.
 
-**21.**[^key-d057ba49179af16601c159e3982995f2] Before section 19, in the cross-heading, after “power” insert “or designated body”.
+**21.**[^c-d057ba49179af16601c159e3982995f2] Before section 19, in the cross-heading, after “power” insert “or designated body”.
 
-**22.**[^key-27088c79869fe3b0ca7280bd6c3ae787] In section 20 (aggravating factor where foreign power condition met: Northern Ireland)—
+**22.**[^c-27088c79869fe3b0ca7280bd6c3ae787] In section 20 (aggravating factor where foreign power condition met: Northern Ireland)—
 
 - (a) in the heading, after “power” insert “or designated body”;
 - (b) in subsection (5), after “condition” insert “or the designated body condition”.
 
-**23.**[^key-18cf89920b69ead8dac455262e0c4408] In section 21 (aggravating factor where foreign power condition met: Scotland)—
+**23.**[^c-18cf89920b69ead8dac455262e0c4408] In section 21 (aggravating factor where foreign power condition met: Scotland)—
 
 - (a) in the heading, after “power” insert “or designated body”;
 - (b) in subsection (1), after “condition” insert “or the designated body condition”;
 - (c) in subsection (4), after “condition” insert “or the designated body condition”.
 
-**24.**[^key-5feca77bab7cd4b31b4be76ff5f52be1] In section 33 (foreign power threat activity and involvement in that activity)—
+**24.**[^c-5feca77bab7cd4b31b4be76ff5f52be1] In section 33 (foreign power threat activity and involvement in that activity)—
 
 - (a) in subsection (3)—
   - (i) after paragraph (a)(vii) insert—
@@ -659,7 +659,7 @@ The National Security Act 2023 is amended as follows.
 
   .
 
-**25.**[^key-2050ff0abe353322f95fa903a5899976] In section 34 (interpretation), in subsection (1), at the appropriate places insert—
+**25.**[^c-2050ff0abe353322f95fa903a5899976] In section 34 (interpretation), in subsection (1), at the appropriate places insert—
 
 > - “**the Commission**” means the Proscribed Organisations Appeal Commission established under section 5(1) of the Terrorism Act 2000;
 
@@ -673,7 +673,7 @@ The National Security Act 2023 is amended as follows.
 
 ### Part 2 — Amendments of secondary legislation
 
-#### 26. Criminal Justice (Northern Ireland) Order 2008 ([S.I 2008/1216 (N.I.1)](https://www.legislation.gov.uk/nisi/2008/1216))[^key-fd873a471f7d5f36fb6e1772c1c4d2e2]
+#### 26. Criminal Justice (Northern Ireland) Order 2008 ([S.I 2008/1216 (N.I.1)](https://www.legislation.gov.uk/nisi/2008/1216))[^c-fd873a471f7d5f36fb6e1772c1c4d2e2]
 
 In the Criminal Justice (Northern Ireland) Order 2008 ([S.I 2008/1216 (N.I.1)](https://www.legislation.gov.uk/nisi/2008/1216)), in Schedule 2B (offences involving or connected with a threat to national security)—
 
@@ -691,7 +691,7 @@ In the Criminal Justice (Northern Ireland) Order 2008 ([S.I 2008/1216 (N.I.1)](h
   - (i) in the heading, after “power” insert “or designated body”;
   - (ii) in sub-paragraph (b), after “power” insert “or designated body”.
 
-#### 27. Criminal Justice Act 2003 (Requisite and Minimum Custodial Periods) Order 2024 ([S.I. 2024/844](https://www.legislation.gov.uk/uksi/2024/844))[^key-52b34c301ff7423c278a1550919671de]
+#### 27. Criminal Justice Act 2003 (Requisite and Minimum Custodial Periods) Order 2024 ([S.I. 2024/844](https://www.legislation.gov.uk/uksi/2024/844))[^c-52b34c301ff7423c278a1550919671de]
 
 In the Criminal Justice Act 2003 (Requisite and Minimum Custodial Periods) Order 2024 ([S.I. 2024/844](https://www.legislation.gov.uk/uksi/2024/844)), in the Schedule (excluded offences)—
 
@@ -708,72 +708,72 @@ In the Criminal Justice Act 2003 (Requisite and Minimum Custodial Periods) Order
 
 ## Annotations
 
-[^key-50b4638e9300749d87983b050f2d4de2]: Commencement: S. 1 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-50b4638e9300749d87983b050f2d4de2]: Commencement: S. 1 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-a72aa5a336c145303285b07b5227069c]: Commencement: S. 2 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-a72aa5a336c145303285b07b5227069c]: Commencement: S. 2 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-27306ac60e1d36affd40b4f4894a4b5c]: Commencement: S. 3 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-27306ac60e1d36affd40b4f4894a4b5c]: Commencement: S. 3 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-149ddeb157d69bc0e7d7c62b3a779aeb]: Commencement: S. 4 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-149ddeb157d69bc0e7d7c62b3a779aeb]: Commencement: S. 4 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-0eb0bc7f0d6ed19f65b9938a9df6cddc]: Commencement: S. 5 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-0eb0bc7f0d6ed19f65b9938a9df6cddc]: Commencement: S. 5 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-5fa5a242291f734378d7f1c2a7015bab]: Commencement: S. 6 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-5fa5a242291f734378d7f1c2a7015bab]: Commencement: S. 6 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-752dbdcfd46cb3087f9d13547d5639b1]: Commencement: S. 7 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-752dbdcfd46cb3087f9d13547d5639b1]: Commencement: S. 7 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-f2f8fb1d8576d2bec3d5605fd197ebdb]: Commencement: S. 8 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-f2f8fb1d8576d2bec3d5605fd197ebdb]: Commencement: S. 8 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-27065cae383c4af76267401e28047dbf]: Commencement: Sch. para. 1 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-27065cae383c4af76267401e28047dbf]: Commencement: Sch. para. 1 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-04e53a8c081b51ba5d96f2f159186501]: Commencement: Sch. para. 2 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-04e53a8c081b51ba5d96f2f159186501]: Commencement: Sch. para. 2 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-00103e853dd6d584c1c72ab9a0ca5145]: Commencement: Sch. para. 3 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-00103e853dd6d584c1c72ab9a0ca5145]: Commencement: Sch. para. 3 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-d815d304a22c9dace3cab1c07df715e2]: Commencement: Sch. para. 4 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-d815d304a22c9dace3cab1c07df715e2]: Commencement: Sch. para. 4 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-56e8059f3eb165c692e2ea5f9cc39a32]: Commencement: Sch. para. 5 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-56e8059f3eb165c692e2ea5f9cc39a32]: Commencement: Sch. para. 5 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-5821ffce1badcb02beed5c1d6c91224d]: Commencement: Sch. para. 6 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-5821ffce1badcb02beed5c1d6c91224d]: Commencement: Sch. para. 6 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-172f355a1ab2777b64234b43b1f79f9e]: Commencement: Sch. para. 7 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-172f355a1ab2777b64234b43b1f79f9e]: Commencement: Sch. para. 7 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-27d583cf434a5e685d46f2ba36a9857c]: Commencement: Sch. para. 8 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-27d583cf434a5e685d46f2ba36a9857c]: Commencement: Sch. para. 8 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-1beb5570d8c8b62db6a2d7acf5098d4d]: Commencement: Sch. para. 9 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-1beb5570d8c8b62db6a2d7acf5098d4d]: Commencement: Sch. para. 9 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-cb5448b5266b5d0cbf08527f9bffb0b3]: Commencement: Sch. para. 10 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-cb5448b5266b5d0cbf08527f9bffb0b3]: Commencement: Sch. para. 10 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-7b6d591ab3191dcfc831ffd92da64e32]: Commencement: Sch. para. 11 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-7b6d591ab3191dcfc831ffd92da64e32]: Commencement: Sch. para. 11 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-93f77c0574d8f3030935d21677cfc32d]: Commencement: Sch. para. 12 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-93f77c0574d8f3030935d21677cfc32d]: Commencement: Sch. para. 12 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-eb83ed74350c864cb5ad692c6072280b]: Commencement: Sch. para. 13 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-eb83ed74350c864cb5ad692c6072280b]: Commencement: Sch. para. 13 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-d67daedc4439d94ce688ee383d1c671e]: Commencement: Sch. para. 14 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-d67daedc4439d94ce688ee383d1c671e]: Commencement: Sch. para. 14 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-2839b329dac11768e923db1a246058a9]: Commencement: Sch. para. 15 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-2839b329dac11768e923db1a246058a9]: Commencement: Sch. para. 15 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-16a3a446e598d714fbb65c2f062831b1]: Commencement: Sch. para. 16 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-16a3a446e598d714fbb65c2f062831b1]: Commencement: Sch. para. 16 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-b05246e5241482968b004bef72e66345]: Commencement: Sch. para. 17 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-b05246e5241482968b004bef72e66345]: Commencement: Sch. para. 17 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-ee97e3ce47a62adae6502bea4e2e5703]: Commencement: Sch. para. 18 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-ee97e3ce47a62adae6502bea4e2e5703]: Commencement: Sch. para. 18 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-596b19472876dec677237761d44b8826]: Commencement: Sch. para. 19 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-596b19472876dec677237761d44b8826]: Commencement: Sch. para. 19 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-4e18922cb01ea264f9685788d4501a01]: Commencement: Sch. para. 20 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-4e18922cb01ea264f9685788d4501a01]: Commencement: Sch. para. 20 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-d057ba49179af16601c159e3982995f2]: Commencement: Sch. para. 21 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-d057ba49179af16601c159e3982995f2]: Commencement: Sch. para. 21 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-27088c79869fe3b0ca7280bd6c3ae787]: Commencement: Sch. para. 22 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-27088c79869fe3b0ca7280bd6c3ae787]: Commencement: Sch. para. 22 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-18cf89920b69ead8dac455262e0c4408]: Commencement: Sch. para. 23 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-18cf89920b69ead8dac455262e0c4408]: Commencement: Sch. para. 23 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-5feca77bab7cd4b31b4be76ff5f52be1]: Commencement: Sch. para. 24 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-5feca77bab7cd4b31b4be76ff5f52be1]: Commencement: Sch. para. 24 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-2050ff0abe353322f95fa903a5899976]: Commencement: Sch. para. 25 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-2050ff0abe353322f95fa903a5899976]: Commencement: Sch. para. 25 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-fd873a471f7d5f36fb6e1772c1c4d2e2]: Commencement: Sch. para. 26 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-fd873a471f7d5f36fb6e1772c1c4d2e2]: Commencement: Sch. para. 26 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-52b34c301ff7423c278a1550919671de]: Commencement: Sch. para. 27 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-52b34c301ff7423c278a1550919671de]: Commencement: Sch. para. 27 in force at Royal Assent, see [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)

@@ -34,15 +34,15 @@ summary: ''
 
 (5) The minimum time period for the receipt of requests to participate shall, subject to paragraph (11), be 30 days from the date on which—
 
-- (a) the contract notice was submitted[^key-c4f3247a860b91cdca83bebbe25b7c25] for publication; [^key-d7e740ec9d46d868492db899ba7ca705]...
-- (b)[^key-d7e740ec9d46d868492db899ba7ca705] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the contract notice was submitted[^c-c4f3247a860b91cdca83bebbe25b7c25] for publication; [^c-d7e740ec9d46d868492db899ba7ca705]...
+- (b)[^c-d7e740ec9d46d868492db899ba7ca705] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The minimum time period for the receipt of initial tenders shall, subject to paragraphs (7) to (11), be 30 days from the date on which the invitation to tender was sent.
 
-(7) Where a contracting authority has published a prior information notice [^key-19774f622964af4b621e8aa106aa9cd7]..., the minimum time period for the receipt of initial tenders referred to in paragraph (6), may be reduced to a minimum of 10 days provided that the prior information notice—
+(7) Where a contracting authority has published a prior information notice [^c-19774f622964af4b621e8aa106aa9cd7]..., the minimum time period for the receipt of initial tenders referred to in paragraph (6), may be reduced to a minimum of 10 days provided that the prior information notice—
 
-- (a) included all the information required by regulation 49(2)[^key-b8731c9434f2a7f8ba5ff5b04c4e9b06], insofar as that information was available at the time the prior information notice was published; and
-- (b) was submitted[^key-cd90c587e5378be95101d392acc5b707] for publication between 35 days and 12 months before the date on which the contract notice was submitted.
+- (a) included all the information required by regulation 49(2)[^c-b8731c9434f2a7f8ba5ff5b04c4e9b06], insofar as that information was available at the time the prior information notice was published; and
+- (b) was submitted[^c-cd90c587e5378be95101d392acc5b707] for publication between 35 days and 12 months before the date on which the contract notice was submitted.
 
 (8) A sub-central contracting authority may set the time limit for the receipt of initial tenders by mutual agreement between the contracting authority and the selected candidates, provided that all the selected candidates have the same time to prepare and submit their initial tenders.
 
@@ -52,7 +52,7 @@ summary: ''
 
 (11) Where a state of urgency duly substantiated by the contracting authority renders impracticable the time limit laid down in this regulation, it may fix a time limit—
 
-- (a) for the receipt of requests to participate which shall not be less than 15 days from the date on which the contract notice was submitted[^key-573c3da9ba76cb1478e6df376f72af5a];
+- (a) for the receipt of requests to participate which shall not be less than 15 days from the date on which the contract notice was submitted[^c-573c3da9ba76cb1478e6df376f72af5a];
 - (b) for the receipt of initial tenders which shall not be less than 10 days from the date on which the invitation to tender was sent.
 
 (12) A contracting authority may limit the number of suitable candidates to be invited to participate in the procedure in accordance with regulation 66 (reduction of the number of otherwise qualified candidates to be invited to participate).
@@ -95,14 +95,14 @@ summary: ''
 
 ## Annotations
 
-[^key-c4f3247a860b91cdca83bebbe25b7c25]: Textual amendment: Word in [reg. 30(5)(a)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/5/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(25)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/25/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-c4f3247a860b91cdca83bebbe25b7c25]: Textual amendment: Word in [reg. 30(5)(a)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/5/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(25)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/25/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-d7e740ec9d46d868492db899ba7ca705]: Textual amendment: [Reg. 30(5)(b)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/5/b) and word omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(8)(a)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/8/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-d7e740ec9d46d868492db899ba7ca705]: Textual amendment: [Reg. 30(5)(b)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/5/b) and word omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(8)(a)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/8/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
 
-[^key-19774f622964af4b621e8aa106aa9cd7]: Textual amendment: Words in [reg. 30(7)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/7) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(8)(b)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/8/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-19774f622964af4b621e8aa106aa9cd7]: Textual amendment: Words in [reg. 30(7)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/7) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(8)(b)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/8/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
 
-[^key-b8731c9434f2a7f8ba5ff5b04c4e9b06]: Textual amendment: Words in [reg. 30(7)(a)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/7/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(25)(b)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/25/b/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-b8731c9434f2a7f8ba5ff5b04c4e9b06]: Textual amendment: Words in [reg. 30(7)(a)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/7/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(25)(b)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/25/b/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-cd90c587e5378be95101d392acc5b707]: Textual amendment: Word in [reg. 30(7)(b)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/7/b) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(25)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/25/b/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-cd90c587e5378be95101d392acc5b707]: Textual amendment: Word in [reg. 30(7)(b)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/7/b) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(25)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/25/b/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-573c3da9ba76cb1478e6df376f72af5a]: Textual amendment: Word in [reg. 30(11)(a)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/11/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(25)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/25/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-573c3da9ba76cb1478e6df376f72af5a]: Textual amendment: Word in [reg. 30(11)(a)](https://www.legislation.gov.uk/ssi/2015/446/regulation/30/11/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(25)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/25/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

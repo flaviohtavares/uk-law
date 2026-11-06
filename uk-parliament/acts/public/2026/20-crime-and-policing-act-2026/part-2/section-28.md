@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Possession of weapon with intent to use unlawful violence etc[^key-32b8b2c0a0eda0f7b614ab60226f7415]
+## 28. Possession of weapon with intent to use unlawful violence etc[^c-32b8b2c0a0eda0f7b614ab60226f7415]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32b8b2c0a0eda0f7b614ab60226f7415]: Commencement: S. 28 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-32b8b2c0a0eda0f7b614ab60226f7415]: Commencement: S. 28 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

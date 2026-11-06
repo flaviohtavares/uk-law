@@ -24,19 +24,19 @@ Section 135.
 
 ### The Taxes Act 1988
 
-**1.**[^key-d368c1c7bbd2a29b3a7d376f418fdfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d368c1c7bbd2a29b3a7d376f418fdfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9a94a6ab2c3fe5d3f87852de295460fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9a94a6ab2c3fe5d3f87852de295460fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-12ddd416b37ce8a91343733d68c0e637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-12ddd416b37ce8a91343733d68c0e637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-75c66b1abbb5994c9590257d80fc5e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-75c66b1abbb5994c9590257d80fc5e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-90236a900345177eb6037d1b97db19db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-90236a900345177eb6037d1b97db19db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6c09587986655722a743b819e8fc4520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6c09587986655722a743b819e8fc4520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-0db4eae82acf6398cad71afcffe1d9f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-0db4eae82acf6398cad71afcffe1d9f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.**[^c14617861] (1) Section 356B of the Taxes Act 1988 (residence basis: married couples) shall be amended in accordance with the following provisions of this paragraph.
 
@@ -62,9 +62,9 @@ Section 135.
 
 .
 
-**10.**[^key-82da259589bb156990f99c55c6d76013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-82da259589bb156990f99c55c6d76013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-d0258cbf008a67ae0495bd61620101cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d0258cbf008a67ae0495bd61620101cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.**[^c14617881] In section 471 of the Taxes Act 1988 (exchange of securities in connection with conversion operations, nationalisation etc.) for subsection (2) (tax treatment under subsection (1) not to apply to a person who gives notice to the inspector that he desires not to be treated as mentioned in that subsection) there shall be substituted—
 
@@ -105,23 +105,23 @@ Section 135.
 > - (a) in the case of a claim for the purposes of income tax, the period ending with the first anniversary of the 31st January next following the year of assessment in which the accommodation was let;
 > - (b) in the case of a claim for the purposes of corporation tax, the period of two years beginning at the end of the accounting period in which the accommodation was let.
 
-**15.**[^key-691ba8bc9e50b478dc384f583e0fde2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-691ba8bc9e50b478dc384f583e0fde2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-cfe2c27e5489e5d8caa3919b94bdca31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-cfe2c27e5489e5d8caa3919b94bdca31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-29b518b66665f9f4927bd071f16da448] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-29b518b66665f9f4927bd071f16da448] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.**[^c14617901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-4d640b26bd60b18c1426eedfcf719e85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-4d640b26bd60b18c1426eedfcf719e85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-f32286f1e6732878dbe792379989accb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-f32286f1e6732878dbe792379989accb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-cb4dabae5786a045a6b4dfeffacc348b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-cb4dabae5786a045a6b4dfeffacc348b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-423f60fe91c9d29f1388ee1b16409548] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-423f60fe91c9d29f1388ee1b16409548] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-423f60fe91c9d29f1388ee1b16409548] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-423f60fe91c9d29f1388ee1b16409548] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **24.**[^c14617911] In Schedule 11 to the Taxes Act 1988, in paragraph 12 (election to be made by notice given to the inspector within six years after the year of assessment in which payment made) for “the inspector within six years after” there shall be substituted “ an officer of the Board on or before the fifth anniversary of the 31st January next following ”.
 
@@ -224,7 +224,7 @@ Section 135.
 > - (b) in the case of an election for the purposes of corporation tax, within 2 years from the end of the accounting period in which the disposal is made; or
 > - (c) in either case, within such further time as the Board may by notice allow.
 
-**43.**[^key-b7c8ff3e8b7c719f403d48b902829a62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-b7c8ff3e8b7c719f403d48b902829a62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **44.**[^c14618031] (1) Schedule 6 to the Taxation of Chargeable Gains Act 1992 (retirement relief etc.) shall be amended in accordance with the following provisions of this paragraph.
 
@@ -244,59 +244,59 @@ Section 135.
 
 ### The Finance (No. 2) Act 1992 (c. 48)
 
-**45.**[^key-eddd082276efa6b3c85d5cd007246289] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-eddd082276efa6b3c85d5cd007246289] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**46.**[^key-eddd082276efa6b3c85d5cd007246289] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-eddd082276efa6b3c85d5cd007246289] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-f9aa932e5af5426230e9a365dc685ab4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-f9aa932e5af5426230e9a365dc685ab4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Finance Act 1994 (c. 9)
 
-**48.**[^key-6e52c4d2f2ee4c8b1e6a5a2911ea4e55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-6e52c4d2f2ee4c8b1e6a5a2911ea4e55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d368c1c7bbd2a29b3a7d376f418fdfa1]: Textual amendment: Sch. 21 para. 1 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-d368c1c7bbd2a29b3a7d376f418fdfa1]: Textual amendment: Sch. 21 para. 1 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-9a94a6ab2c3fe5d3f87852de295460fc]: Textual amendment: Sch. 21 para. 2 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9a94a6ab2c3fe5d3f87852de295460fc]: Textual amendment: Sch. 21 para. 2 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-12ddd416b37ce8a91343733d68c0e637]: Textual amendment: Sch. 21 para. 3 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-12ddd416b37ce8a91343733d68c0e637]: Textual amendment: Sch. 21 para. 3 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-75c66b1abbb5994c9590257d80fc5e75]: Textual amendment: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/4) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/b); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-75c66b1abbb5994c9590257d80fc5e75]: Textual amendment: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/4) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/b); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
 
-[^key-90236a900345177eb6037d1b97db19db]: Textual amendment: Sch. 21 paras. 4-6 omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(g)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/g)
+[^c-90236a900345177eb6037d1b97db19db]: Textual amendment: Sch. 21 paras. 4-6 omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(g)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/g)
 
-[^key-6c09587986655722a743b819e8fc4520]: Textual amendment: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/6) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/b); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-6c09587986655722a743b819e8fc4520]: Textual amendment: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/6) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/b); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
 
-[^key-0db4eae82acf6398cad71afcffe1d9f7]: Textual amendment: Sch. 21 para. 7 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-0db4eae82acf6398cad71afcffe1d9f7]: Textual amendment: Sch. 21 para. 7 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c14617861]: Textual amendment: Sch. 21 para. 8 repealed (27.7.1999 with effect as mentioned in Sch. 20 Pt. III(7), Note 4 of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(7)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/7)
 
 [^c14617871]: Textual amendment: Sch. 21 para. 9 repealed (27.7.1999 with effect as mentioned in Sch. 20 Pt. III(7), Note 4 of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(7)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/7)
 
-[^key-82da259589bb156990f99c55c6d76013]: Textual amendment: Sch. 21 para. 10 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-82da259589bb156990f99c55c6d76013]: Textual amendment: Sch. 21 para. 10 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-d0258cbf008a67ae0495bd61620101cb]: Textual amendment: Sch. 21 para. 11 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-d0258cbf008a67ae0495bd61620101cb]: Textual amendment: Sch. 21 para. 11 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c14617881]: Textual amendment: Sch. 21 para. 12 repealed (31.7.1998 with effect as mentioned in [s. 101(3)](https://www.legislation.gov.uk/ukpga/1998/36/section/101/3) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(23)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/23), Note 1
 
 [^c14617891]: Textual amendment: Sch. 21 para. 13 repealed (31.7.1998 with effect as mentioned in [s. 101(4)](https://www.legislation.gov.uk/ukpga/1998/36/section/101/4) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(23)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/23), Note 2
 
-[^key-691ba8bc9e50b478dc384f583e0fde2a]: Textual amendment: Sch. 21 para. 15 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-691ba8bc9e50b478dc384f583e0fde2a]: Textual amendment: Sch. 21 para. 15 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-cfe2c27e5489e5d8caa3919b94bdca31]: Textual amendment: Sch. 21 para. 16 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-cfe2c27e5489e5d8caa3919b94bdca31]: Textual amendment: Sch. 21 para. 16 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-29b518b66665f9f4927bd071f16da448]: Textual amendment: Sch. 21 para. 17 repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-29b518b66665f9f4927bd071f16da448]: Textual amendment: Sch. 21 para. 17 repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
 [^c14617901]: Textual amendment: Sch. 21 para. 18 repealed (28.7.2000 with effect as mentioned in Sch. 40 Pt. II(4) Note 3 of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 156](https://www.legislation.gov.uk/ukpga/2000/17/section/156), [Sch. 40 Pt. II(4)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/4)
 
-[^key-4d640b26bd60b18c1426eedfcf719e85]: Textual amendment: [Sch. 21 para. 19](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/19) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-4d640b26bd60b18c1426eedfcf719e85]: Textual amendment: [Sch. 21 para. 19](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/19) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-f32286f1e6732878dbe792379989accb]: Textual amendment: Sch. 21 para. 20 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-f32286f1e6732878dbe792379989accb]: Textual amendment: Sch. 21 para. 20 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-cb4dabae5786a045a6b4dfeffacc348b]: Textual amendment: Sch. 21 para. 21 repealed: (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/9) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)) and (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-cb4dabae5786a045a6b4dfeffacc348b]: Textual amendment: Sch. 21 para. 21 repealed: (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/9) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)) and (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-423f60fe91c9d29f1388ee1b16409548]: Textual amendment: Sch. 21 paras. 22, 23 repealed (1.4.2010) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-423f60fe91c9d29f1388ee1b16409548]: Textual amendment: Sch. 21 paras. 22, 23 repealed (1.4.2010) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c14617911]: Textual amendment: Sch. 21 para. 24 repealed (31.7.1998 with effect as mentioned in Sch. 27 Pt. III(9), Note of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(9)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/9)
 
@@ -320,12 +320,12 @@ Section 135.
 
 [^c14618021]: Textual amendment: Sch. 21 para. 34 repealed (19.3.1997 with effect in accordance with [Sch. 15 para. 9(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/15/paragraph/9/1) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 85](https://www.legislation.gov.uk/ukpga/1997/16/section/85), [Sch. 18 Pt. VI(11)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/18/part/VI/11) and Sch. 21 para. 34 repealed (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 580](https://www.legislation.gov.uk/ukpga/2001/2/section/580), [Sch. 4](https://www.legislation.gov.uk/ukpga/2001/2/schedule/4)
 
-[^key-b7c8ff3e8b7c719f403d48b902829a62]: Textual amendment: Sch. 21 para. 43 omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 75](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/75)
+[^c-b7c8ff3e8b7c719f403d48b902829a62]: Textual amendment: Sch. 21 para. 43 omitted (with effect in accordance with Sch. 2 para. 76 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 75](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/75)
 
 [^c14618031]: Textual amendment: Sch. 21 para. 44 repealed (31.7.1998 with effect as mentioned in Sch. 27 Pt. III(31), Note of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(31)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/31)
 
-[^key-eddd082276efa6b3c85d5cd007246289]: Textual amendment: [Sch. 21 paras. 45, 46](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/46) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-eddd082276efa6b3c85d5cd007246289]: Textual amendment: [Sch. 21 paras. 45, 46](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/46) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-f9aa932e5af5426230e9a365dc685ab4]: Textual amendment: Sch. 21 para. 47 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-f9aa932e5af5426230e9a365dc685ab4]: Textual amendment: Sch. 21 para. 47 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-6e52c4d2f2ee4c8b1e6a5a2911ea4e55]: Textual amendment: [Sch. 21 para. 48](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/48) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-6e52c4d2f2ee4c8b1e6a5a2911ea4e55]: Textual amendment: [Sch. 21 para. 48](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/48) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

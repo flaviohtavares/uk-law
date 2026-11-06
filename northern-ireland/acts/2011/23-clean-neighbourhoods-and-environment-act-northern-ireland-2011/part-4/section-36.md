@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Removal or obliteration of graffiti, placards and posters[^key-830d7242199219ad329ddd66ca1d77cf]
+## 36. Removal or obliteration of graffiti, placards and posters[^c-830d7242199219ad329ddd66ca1d77cf]
 
 *Extent: N.I.*
 
@@ -69,4 +69,4 @@ For Article 18 of the Local Government (Miscellaneous Provisions) (Northern Irel
 
 ## Annotations
 
-[^key-830d7242199219ad329ddd66ca1d77cf]: Commencement: S. 36 in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-830d7242199219ad329ddd66ca1d77cf]: Commencement: S. 36 in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

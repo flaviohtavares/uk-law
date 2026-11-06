@@ -31,10 +31,10 @@ summary: ''
 
 of 25 July 2002 establishing a European Communities Personnel Selection Office - Declaration by the Bureau of the European Parliament (revoked)
 
-[^key-9a4a49c09212f4a1dcf21ed12ce2232a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a4a49c09212f4a1dcf21ed12ce2232a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-9a4a49c09212f4a1dcf21ed12ce2232a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-9a4a49c09212f4a1dcf21ed12ce2232a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9a4a49c09212f4a1dcf21ed12ce2232a]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a4a49c09212f4a1dcf21ed12ce2232a]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

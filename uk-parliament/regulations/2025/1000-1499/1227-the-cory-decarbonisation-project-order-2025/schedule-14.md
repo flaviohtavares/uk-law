@@ -22,7 +22,7 @@ summary: ''
 
 Article 48
 
-### 1. Interpretation[^key-bbce0acdd2b1e067567126438b08ba39]
+### 1. Interpretation[^c-bbce0acdd2b1e067567126438b08ba39]
 
 In this Schedule—
 
@@ -31,7 +31,7 @@ In this Schedule—
 - “**relevant authority**” means the relevant planning authority, relevant highway authority, relevant traffic authority, relevant street authority, or the owner of a watercourse, sewer or drain as may be appropriate to the consent, agreement or approval sought; and
 - “**requirement consultee**” means any body named in a requirement as a body to be consulted by the relevant planning authority in discharging that requirement.
 
-### 2. Applications made for consent, agreement or approval[^key-9a2b746b5d0450ff0e6c31d19cc6ed32]
+### 2. Applications made for consent, agreement or approval[^c-9a2b746b5d0450ff0e6c31d19cc6ed32]
 
 (1) Subject to article 48(2) (procedures in relation to certain approvals etc.), where an application has been made to the relevant authority for any consent, agreement or approval required or contemplated by any provisions of this Order, including—
 
@@ -57,7 +57,7 @@ the relevant authority must give notice to the undertaker of its decision on the
 
 the application is to be taken to have been refused by the relevant authority at the end of that period.
 
-### 3. Further information and consultation[^key-97a9639388c7d094e6eceae28a4868c8]
+### 3. Further information and consultation[^c-97a9639388c7d094e6eceae28a4868c8]
 
 (1) In relation to any application to which this Schedule applies, the relevant authority has the right to request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -67,11 +67,11 @@ the application is to be taken to have been refused by the relevant authority at
 
 (4) In the event that the relevant authority does not give notification as specified in sub-paragraph (2) or (3) it is to be deemed to have sufficient information to consider the application and is not subsequently entitled to request further information without the prior agreement of the undertaker.
 
-### 4. Anticipatory steps towards compliance with any requirement[^key-23e6e568277170e39c1e7ccef4f1d3db]
+### 4. Anticipatory steps towards compliance with any requirement[^c-23e6e568277170e39c1e7ccef4f1d3db]
 
 If before the coming into force of this Order the undertaker or any other person has taken any steps that were intended to be steps towards compliance with any provision of Schedule 2, those steps may be taken into account for the purpose of determining compliance with that provision if they would have been valid steps for that purpose had they been taken after this Order came into force.
 
-### 5. Appeals[^key-b8bb545a14d2b3f4bea0659ad7faa0cd]
+### 5. Appeals[^c-b8bb545a14d2b3f4bea0659ad7faa0cd]
 
 (1) The undertaker may appeal in the event that—
 
@@ -117,22 +117,22 @@ and may deal with the application as if it had been made to the appointed person
 
 (13) On application by the relevant authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to Planning Practice Guidance: Appeals (March 2014), published by the Ministry of Housing, Communities & Local Government, or any circular or guidance which may from time to time replace it.
 
-### 6. Application to protective provisions[^key-43eeb2bdf8aca891c3f0296aae25e8f3]
+### 6. Application to protective provisions[^c-43eeb2bdf8aca891c3f0296aae25e8f3]
 
 Nothing in this Schedule applies to any consent, agreement or approval required or contemplated by Schedule 12 (protective provisions) or article 23(6) (protective works to buildings).
 
 ## Annotations
 
-[^key-bbce0acdd2b1e067567126438b08ba39]: Commencement: Sch. 14 para. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-bbce0acdd2b1e067567126438b08ba39]: Commencement: Sch. 14 para. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00084]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-9a2b746b5d0450ff0e6c31d19cc6ed32]: Commencement: Sch. 14 para. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-9a2b746b5d0450ff0e6c31d19cc6ed32]: Commencement: Sch. 14 para. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-97a9639388c7d094e6eceae28a4868c8]: Commencement: Sch. 14 para. 3 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-97a9639388c7d094e6eceae28a4868c8]: Commencement: Sch. 14 para. 3 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-23e6e568277170e39c1e7ccef4f1d3db]: Commencement: Sch. 14 para. 4 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-23e6e568277170e39c1e7ccef4f1d3db]: Commencement: Sch. 14 para. 4 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-b8bb545a14d2b3f4bea0659ad7faa0cd]: Commencement: Sch. 14 para. 5 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-b8bb545a14d2b3f4bea0659ad7faa0cd]: Commencement: Sch. 14 para. 5 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-43eeb2bdf8aca891c3f0296aae25e8f3]: Commencement: Sch. 14 para. 6 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-43eeb2bdf8aca891c3f0296aae25e8f3]: Commencement: Sch. 14 para. 6 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

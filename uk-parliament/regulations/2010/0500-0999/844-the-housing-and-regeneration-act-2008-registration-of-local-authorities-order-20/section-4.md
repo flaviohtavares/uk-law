@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Removal of exception for persons controlled by local authorities[^key-31624fdb1d052a1d97a120e5a3e0497e]
+## 4. Removal of exception for persons controlled by local authorities[^c-31624fdb1d052a1d97a120e5a3e0497e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 113 of the Act (local authority non-registrable bodies), subsections 
 
 ## Annotations
 
-[^key-31624fdb1d052a1d97a120e5a3e0497e]: Commencement: Art. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2)
+[^c-31624fdb1d052a1d97a120e5a3e0497e]: Commencement: Art. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2)

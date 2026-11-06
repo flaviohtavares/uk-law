@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Size of zones[^key-9e6551eb4fe492d590c6dd5ecf7e02cc]
+## 56. Size of zones[^c-9e6551eb4fe492d590c6dd5ecf7e02cc]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e6551eb4fe492d590c6dd5ecf7e02cc]: Commencement: Reg. 56 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-9e6551eb4fe492d590c6dd5ecf7e02cc]: Commencement: Reg. 56 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

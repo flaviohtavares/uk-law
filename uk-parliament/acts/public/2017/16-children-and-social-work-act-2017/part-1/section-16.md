@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Local arrangements for safeguarding and promoting welfare of children[^key-6ec43c7aa735fb0df10ad0410caff90d][^key-2e3becf90593a6a9e3670fb056f0b4c9]
+## 16. Local arrangements for safeguarding and promoting welfare of children[^c-6ec43c7aa735fb0df10ad0410caff90d][^c-2e3becf90593a6a9e3670fb056f0b4c9]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ After section 16D of the Children Act 2004 (inserted by section 15 of this Act) 
 
 ## Annotations
 
-[^key-6ec43c7aa735fb0df10ad0410caff90d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/16/section/16) in force at 19.3.2018 for specified purposes by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/b)
+[^c-6ec43c7aa735fb0df10ad0410caff90d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/16/section/16) in force at 19.3.2018 for specified purposes by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/b)
 
-[^key-2e3becf90593a6a9e3670fb056f0b4c9]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/16/section/16) in force at 29.6.2018 in so far as not already in force by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/e)
+[^c-2e3becf90593a6a9e3670fb056f0b4c9]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/16/section/16) in force at 29.6.2018 in so far as not already in force by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/e)

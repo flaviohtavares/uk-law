@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Records, information and reporting[^key-adaf5c64e104b989836aa7a43d7a6811]
+## 236. Records, information and reporting[^c-adaf5c64e104b989836aa7a43d7a6811]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adaf5c64e104b989836aa7a43d7a6811]: Commencement: S. 236 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-adaf5c64e104b989836aa7a43d7a6811]: Commencement: S. 236 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-060fbe922df595816e9e5552acee9a77]
+[^c-060fbe922df595816e9e5552acee9a77]
 
 (1) Notice of a general meeting of a company must be sent to—
 
@@ -32,7 +32,7 @@ summary: ''
 (3) In subsection (2), the reference to the bankruptcy of a member includes—
 
 - (a) the sequestration of the estate of a member;
-- (b) a member's estate being the subject of a protected trust deed (within the meaning of the Bankruptcy (Scotland) Act 2016[^key-cbf9abe0587c00c2a4dda19340c8944f]).
+- (b) a member's estate being the subject of a protected trust deed (within the meaning of the Bankruptcy (Scotland) Act 2016[^c-cbf9abe0587c00c2a4dda19340c8944f]).
 
 (4) This section has effect subject to—
 
@@ -43,6 +43,6 @@ summary: ''
 
 [^c19661451]: Commencement: S. 310 wholly in force at 1.10.2007; s. 310 not in force at Royal Assent see s. 1300; s. 310 in force at 1.10.2007 by [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2007/2194/article/2/1/f) (with saving in [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12) and subject to transitional adaptations specified in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/1) and with transitional provisions and savings in [Sch. 3](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3))
 
-[^key-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
+[^c-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
 
-[^key-cbf9abe0587c00c2a4dda19340c8944f]: Textual amendment: Word in [s. 310(3)(b)](https://www.legislation.gov.uk/ukpga/2006/46/section/310/3/b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 29(5)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29/5)
+[^c-cbf9abe0587c00c2a4dda19340c8944f]: Textual amendment: Word in [s. 310(3)(b)](https://www.legislation.gov.uk/ukpga/2006/46/section/310/3/b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 29(5)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29/5)

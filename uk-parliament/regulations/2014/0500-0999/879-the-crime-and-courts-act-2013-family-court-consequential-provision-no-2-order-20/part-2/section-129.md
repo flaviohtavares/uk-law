@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**129.**[^key-1d7173af764f89fa5a4f37263a6ce3c6] In paragraph 6—
+**129.**[^c-1d7173af764f89fa5a4f37263a6ce3c6] In paragraph 6—
 
 - (a) in sub-paragraph (1)(a), for “a magistrates’ court” substitute “the family court”;
 - (b) in sub-paragraph (2), after “transmitted to” insert “the family court,”;
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d7173af764f89fa5a4f37263a6ce3c6]: Commencement: Art. 129 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-1d7173af764f89fa5a4f37263a6ce3c6]: Commencement: Art. 129 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

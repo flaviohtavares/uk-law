@@ -52,7 +52,7 @@ The Secretary of State makes these Regulations in relation to England in exercis
 
 The Welsh Ministers make these Regulations in relation to Wales in exercise of the powers conferred by sections 22(2)(g), (3)(a) and 42(6) of the Teaching and Higher Education Act 1998[^f00002].
 
-## 1. Citation, commencement and extent[^key-9b94cd9062bc65c1abeb21ef68ea4b0b]
+## 1. Citation, commencement and extent[^c-9b94cd9062bc65c1abeb21ef68ea4b0b]
 
 These Regulations—
 
@@ -60,11 +60,11 @@ These Regulations—
 - (b) come into force on 1st September 2026, and
 - (c) extend to England and Wales.
 
-## 2. Expiry[^key-9564bf41dc21114ca7dac834d3051141]
+## 2. Expiry[^c-9564bf41dc21114ca7dac834d3051141]
 
 These Regulations expire at the end of 31st August 2027.
 
-## 3. Amendment of the Education (Student Loans) (Repayment) Regulations 2009[^key-8abb48d290431407c0e67a81ea1fc39c]
+## 3. Amendment of the Education (Student Loans) (Repayment) Regulations 2009[^c-8abb48d290431407c0e67a81ea1fc39c]
 
 (1) The Education (Student Loans) (Repayment) Regulations 2009[^f00003] are amended in accordance with paragraphs (2) and (3).
 
@@ -121,10 +121,10 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 22(2)(g) and (3)(a) in relation to Wales were transferred to the National Assembly for Wales by the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), section 44(1). The functions of the Secretary of State under section 42(6) in relation to Wales were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). These functions of the National Assembly for Wales were subsequently transferred to the Welsh Ministers by virtue of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), paragraph 30 of Schedule 11. The National Assembly for Wales was renamed Senedd Cymru or the Welsh Parliament by the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), section 2.
 
-[^key-9b94cd9062bc65c1abeb21ef68ea4b0b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/743/regulation/1) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/743/regulation/1/b)
+[^c-9b94cd9062bc65c1abeb21ef68ea4b0b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/743/regulation/1) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/743/regulation/1/b)
 
-[^key-9564bf41dc21114ca7dac834d3051141]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/743/regulation/2) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/743/regulation/1/b)
+[^c-9564bf41dc21114ca7dac834d3051141]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/743/regulation/2) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/743/regulation/1/b)
 
-[^key-8abb48d290431407c0e67a81ea1fc39c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/743/regulation/3) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/743/regulation/1/b)
+[^c-8abb48d290431407c0e67a81ea1fc39c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/743/regulation/3) in force at 1.9.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2026/743/regulation/1/b)
 
 [^f00003]: Footnote: [S.I. 2009/470](https://www.legislation.gov.uk/uksi/2009/470). Relevant amending instruments are [S.I. 2012/1309](https://www.legislation.gov.uk/uksi/2012/1309), [S.I. 2013/607](https://www.legislation.gov.uk/uksi/2013/607), [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), [S.I. 2017/831](https://www.legislation.gov.uk/uksi/2017/831), [S.I. 2018/284](https://www.legislation.gov.uk/uksi/2018/284), [S.I. 2019/189](https://www.legislation.gov.uk/uksi/2019/189), [S.I. 2022/1335](https://www.legislation.gov.uk/uksi/2022/1335) and [S.I. 2023/1184](https://www.legislation.gov.uk/uksi/2023/1184).

@@ -26,16 +26,16 @@ summary: ''
 
 - (a) includes any land that is deemed to be a private street by virtue of a declaration made under section 232 below, and
 - (b) for the purpose of the application of the advance payments code or section 229 below in relation to any building, includes—
-  - (i) any land in Wales[^M_F_b1b8e412-d343-425a-9139-aadffa2f05e6] shown as a proposed street on plans with respect to that building which accompany an application for building control approval[^key-b963f5c9711f43ebf0a667db53518ed7] under building regulations or on an application for planning permission under the Town and Country Planning Act 1990[^c13429141], and
+  - (i) any land in Wales[^M_F_b1b8e412-d343-425a-9139-aadffa2f05e6] shown as a proposed street on plans with respect to that building which accompany an application for building control approval[^c-b963f5c9711f43ebf0a667db53518ed7] under building regulations or on an application for planning permission under the Town and Country Planning Act 1990[^c13429141], and
   - (ia)[^M_F_71b72daa-5ca7-4156-c6ee-037bcf6565ed] any land in England shown as a proposed street on plans with respect to that building which accompany an application for building control approval under building regulations or on an application for planning permission under the Town and Country Planning Act 1990,
   - (ii)[^c13429151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 but the fact that a part of a street is a highway maintainable at the public expense does not prevent any other part of it from being a part of a private street for the purposes of this Part of this Act.
 
-(3)[^key-d05775086da9f3894564c3ab0428f56f] In this Part of this Act—
+(3)[^c-d05775086da9f3894564c3ab0428f56f] In this Part of this Act—
 
 - “[^M_F_2f78380f-5a2b-401d-93ae-553571555336]**application for building control approval**” means an application in accordance with building regulations for building control approval (as defined in paragraph 1B of Schedule 1 to the Building Act 1984);
-- “[^key-0b7673b4092ad26a7ad66418353fd559]**building control authority**” means the local authority as stated in section 121A of the Building Act 1984;
+- “[^c-0b7673b4092ad26a7ad66418353fd559]**building control authority**” means the local authority as stated in section 121A of the Building Act 1984;
 - “**building safety regulator**” means the regulator within the meaning of Part 2 of the Building Safety Act 2022;
 - “**contributory place**” has the same meaning as in section 343 of the [^c13429161]Public Health Act 1936;
 - “**fronting**” includes adjoining, and “**front**” is to be construed accordingly;
@@ -59,7 +59,7 @@ but the fact that a part of a street is a highway maintainable at the public exp
 
 [^M_F_b1b8e412-d343-425a-9139-aadffa2f05e6]: Textual amendment: Words in s. 203(2)(b)(i) inserted (1.10.2023) by [The Building Safety Act 2022 (Consequential Amendments etc.) Regulations 2023 (S.I. 2023/908)](https://www.legislation.gov.uk/uksi/2023/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/908/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2023/908/regulation/6/2/a) (with [reg. 17](https://www.legislation.gov.uk/uksi/2023/908/regulation/17))
 
-[^key-b963f5c9711f43ebf0a667db53518ed7]: Textual amendment: Words in [s. 203(2)(b)(i)](https://www.legislation.gov.uk/ukpga/1980/66/section/203/2/b/i) substituted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/3/2) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
+[^c-b963f5c9711f43ebf0a667db53518ed7]: Textual amendment: Words in [s. 203(2)(b)(i)](https://www.legislation.gov.uk/ukpga/1980/66/section/203/2/b/i) substituted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/3/2) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
 
 [^c13429141]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 45(11)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/45/11)
 
@@ -67,11 +67,11 @@ but the fact that a part of a street is a highway maintainable at the public exp
 
 [^c13429151]: Textual amendment: [S. 203(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/1980/66/section/203/2/b/ii) repealed (25.09.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 19 Pt.V](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/V) (with ss. 81(2), 84(5); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3).
 
-[^key-d05775086da9f3894564c3ab0428f56f]: Modification: [S. 203(3)](https://www.legislation.gov.uk/ukpga/1980/66/section/203/3): definition of "application for building control approval" extended to Wales (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2026/55/regulation/3/3) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
+[^c-d05775086da9f3894564c3ab0428f56f]: Modification: [S. 203(3)](https://www.legislation.gov.uk/ukpga/1980/66/section/203/3): definition of "application for building control approval" extended to Wales (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2026/55/regulation/3/3) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
 
 [^M_F_2f78380f-5a2b-401d-93ae-553571555336]: Textual amendment: Words in s. 203(3) inserted (1.10.2023) by [The Building Safety Act 2022 (Consequential Amendments etc.) Regulations 2023 (S.I. 2023/908)](https://www.legislation.gov.uk/uksi/2023/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/908/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2023/908/regulation/6/2/c) (with [reg. 17](https://www.legislation.gov.uk/uksi/2023/908/regulation/17))
 
-[^key-0b7673b4092ad26a7ad66418353fd559]: Textual amendment: Words in [s. 203(3)](https://www.legislation.gov.uk/ukpga/1980/66/section/203/2/b/i) inserted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2026/55/regulation/3/2) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
+[^c-0b7673b4092ad26a7ad66418353fd559]: Textual amendment: Words in [s. 203(3)](https://www.legislation.gov.uk/ukpga/1980/66/section/203/2/b/i) inserted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2026/55/regulation/3/2) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
 
 [^c13429161]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 

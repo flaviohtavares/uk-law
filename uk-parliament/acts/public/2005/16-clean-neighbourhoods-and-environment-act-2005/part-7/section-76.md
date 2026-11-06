@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Fixed penalty notices: power to require name and address[^key-99f1747be98926966f80941e90a749ba][^key-884c3c5a5f8e8205f15fa4c3df0e9927]
+## 76. Fixed penalty notices: power to require name and address[^c-99f1747be98926966f80941e90a749ba][^c-884c3c5a5f8e8205f15fa4c3df0e9927]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99f1747be98926966f80941e90a749ba]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2005/16/section/76) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-99f1747be98926966f80941e90a749ba]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2005/16/section/76) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-884c3c5a5f8e8205f15fa4c3df0e9927]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2005/16/section/76) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(ff)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/ff)
+[^c-884c3c5a5f8e8205f15fa4c3df0e9927]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2005/16/section/76) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(ff)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/ff)

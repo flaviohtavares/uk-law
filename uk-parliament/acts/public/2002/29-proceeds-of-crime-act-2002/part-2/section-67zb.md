@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67ZB. Meaning of “UK-connected cryptoasset service provider”[^key-1aaa6db94f8fe84b3e43d48dcef9f9da]
+## 67ZB. Meaning of “UK-connected cryptoasset service provider”[^c-1aaa6db94f8fe84b3e43d48dcef9f9da]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1aaa6db94f8fe84b3e43d48dcef9f9da]: Textual amendment: Ss. 67ZA, 67ZB inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/12); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)
+[^c-1aaa6db94f8fe84b3e43d48dcef9f9da]: Textual amendment: Ss. 67ZA, 67ZB inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/12); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)

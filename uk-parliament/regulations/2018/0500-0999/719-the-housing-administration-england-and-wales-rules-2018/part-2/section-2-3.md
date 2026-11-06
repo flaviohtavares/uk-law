@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.3. Contents of application and witness statement[^key-520f2aa2767a8796590572d6999ba31e]
+## 2.3. Contents of application and witness statement[^c-520f2aa2767a8796590572d6999ba31e]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-520f2aa2767a8796590572d6999ba31e]: Commencement: Rule 2.3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-520f2aa2767a8796590572d6999ba31e]: Commencement: Rule 2.3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

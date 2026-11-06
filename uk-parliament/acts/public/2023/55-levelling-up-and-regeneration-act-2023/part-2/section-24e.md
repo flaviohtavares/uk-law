@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24E. Non-mayoral CCA: functions imposing financial liability[^key-a9f0050a9b76f2f8b8d6d75444822447]
+## 24E. Non-mayoral CCA: functions imposing financial liability[^c-a9f0050a9b76f2f8b8d6d75444822447]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9f0050a9b76f2f8b8d6d75444822447]: Textual amendment: S. 24E inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/31) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-a9f0050a9b76f2f8b8d6d75444822447]: Textual amendment: S. 24E inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/31) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))

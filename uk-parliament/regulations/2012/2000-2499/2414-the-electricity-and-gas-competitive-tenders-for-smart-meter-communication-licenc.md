@@ -50,11 +50,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-b6667157c954f9cd96153ab1d9f0defd]
+### 1. Citation and commencement[^c-b6667157c954f9cd96153ab1d9f0defd]
 
 These Regulations may be cited as the Electricity and Gas (Competitive Tenders for Smart Meter Communication Licences) Regulations 2012 and shall come into force on 12th October 2012.
 
-### 2. Interpretation[^key-d63d222fd024b44de9982aab43f7dc08]
+### 2. Interpretation[^c-d63d222fd024b44de9982aab43f7dc08]
 
 In these Regulations—
 
@@ -88,7 +88,7 @@ In these Regulations—
 
 ## PART 2 — Scope of and requirement for a tender exercise
 
-### 3. Scope of Regulations[^key-a0000926122d7127b811b9962fdb16b1]
+### 3. Scope of Regulations[^c-a0000926122d7127b811b9962fdb16b1]
 
 (1) These regulations apply in respect of any grant of a relevant licence.
 
@@ -97,7 +97,7 @@ In these Regulations—
 - (a) an electricity smart meter communication licence; or
 - (b) a gas smart meter communication licence.
 
-### 4. Scope of a tender exercise and consideration of submissions to the competent authority[^key-65606e27c159ad5349d677e49de858de]
+### 4. Scope of a tender exercise and consideration of submissions to the competent authority[^c-65606e27c159ad5349d677e49de858de]
 
 (1) A tender exercise must only be used to determine the person to whom both an electricity smart meter communication licence and a gas smart meter communication licence are to be granted.
 
@@ -105,7 +105,7 @@ In these Regulations—
 
 ## PART 3 — Conduct of a tender exercise
 
-### 5. Conduct of a tender exercise[^key-e0d92e1d298be1e166fbff35e5db832d]
+### 5. Conduct of a tender exercise[^c-e0d92e1d298be1e166fbff35e5db832d]
 
 (1) Subject to paragraph (2), the Secretary of State is the competent authority with respect to a tender exercise.
 
@@ -125,7 +125,7 @@ In these Regulations—
 
 ## PART 4 — Stages of a tender exercise
 
-### 6. Stages of a tender exercise[^key-078c97ac58e0b6963accf9f70081a573]
+### 6. Stages of a tender exercise[^c-078c97ac58e0b6963accf9f70081a573]
 
 A tender exercise to be held in accordance with these Regulations shall comprise the following stages—
 
@@ -136,7 +136,7 @@ A tender exercise to be held in accordance with these Regulations shall comprise
 
 ## PART 5 — Commencement of a tender exercise
 
-### 7. Commencement of a tender exercise[^key-89e54b951db96a47e242fde31856517a]
+### 7. Commencement of a tender exercise[^c-89e54b951db96a47e242fde31856517a]
 
 (1) The competent authority may determine—
 
@@ -155,7 +155,7 @@ A tender exercise to be held in accordance with these Regulations shall comprise
 
 ## PART 6 — Qualification stage
 
-### 8. Qualification and confidentiality[^key-ad6955d52961f7f971d31c36cfb06fdb]
+### 8. Qualification and confidentiality[^c-ad6955d52961f7f971d31c36cfb06fdb]
 
 (1) The competent authority must commence the qualification stage on the commencement date by publishing the qualification documentation, which must include the information specified in Schedule 1.
 
@@ -165,7 +165,7 @@ A tender exercise to be held in accordance with these Regulations shall comprise
 
 (4) In this regulation “commencement date” has the meaning determined in accordance with regulation 7(2).
 
-### 9. Determination of qualifying bidders at the qualification stage[^key-33a9824c90dbdb1d88114b6347c01cf3]
+### 9. Determination of qualifying bidders at the qualification stage[^c-33a9824c90dbdb1d88114b6347c01cf3]
 
 (1) The competent authority must evaluate each completed qualification questionnaire submitted to it by a bidder in accordance with the evaluation criteria set out in the qualification documentation, in order to determine which bidders are to become qualifying bidders and be invited to participate in the proposal stage in accordance with regulation 10.
 
@@ -182,7 +182,7 @@ A tender exercise to be held in accordance with these Regulations shall comprise
 
 ## PART 7 — Proposal stage
 
-### 10. Proposal stage[^key-ec2d556b0c580fbd1533e0310b9dde75]
+### 10. Proposal stage[^c-ec2d556b0c580fbd1533e0310b9dde75]
 
 (1) Subject to paragraph (2), the competent authority must issue the proposal documentation, which must include the information specified in Schedule 2, to each qualifying bidder.
 
@@ -197,7 +197,7 @@ A tender exercise to be held in accordance with these Regulations shall comprise
 - (a) the competent authority gives that qualifying bidder a notice requiring it to submit the signed confidentiality agreement by a date specified in the notice, such date being not more than ten days from the date on which the notice is given; and
 - (b) that qualifying bidder does not so submit the signed confidentiality agreement.
 
-### 11. Proposal stage: first tender exercise[^key-0f727a71881d586494a9759ba23f11e2]
+### 11. Proposal stage: first tender exercise[^c-0f727a71881d586494a9759ba23f11e2]
 
 (1) This regulation applies to a tender exercise in respect of the grant of the first electricity smart meter communication licence and the first gas smart meter communication licence to be granted after these Regulations come into force.
 
@@ -241,7 +241,7 @@ A tender exercise to be held in accordance with these Regulations shall comprise
 - (a) would be contrary to law; or
 - (b) would prejudice the legitimate commercial interests of any person (except where that person is a qualifying bidder) and that person has not given their consent to it being disclosed.
 
-### 12. Determination of preferred applicants at the proposal stage[^key-8f217e2ad7bc62a4c9f5ca7b854300ff]
+### 12. Determination of preferred applicants at the proposal stage[^c-8f217e2ad7bc62a4c9f5ca7b854300ff]
 
 (1) The competent authority must evaluate each completed proposal submitted to it by a qualifying bidder in accordance with the proposal evaluation criteria set out in the proposal documentation, in order to determine, subject to paragraph (3), which qualifying bidder is to become the preferred applicant.
 
@@ -260,7 +260,7 @@ A tender exercise to be held in accordance with these Regulations shall comprise
 
 ## PART 8 — Best and final offer stage
 
-### 13. Best and final offer stage[^key-2be4306352cc9da1c082632ac281685e]
+### 13. Best and final offer stage[^c-2be4306352cc9da1c082632ac281685e]
 
 (1) Where the competent authority has decided in accordance with regulation 12(3) that a best and final offer stage is to be held, the competent authority must determine in accordance with the proposal evaluation criteria set out in the proposal documentation, which qualifying bidders are to be the selected qualifying bidders who are invited to participate in a best and final offer stage.
 
@@ -273,7 +273,7 @@ A tender exercise to be held in accordance with these Regulations shall comprise
 - (a) the dialogue phase to be conducted in accordance with regulation 14; and
 - (b) the final offer phase to be conducted in accordance with regulations 15 and 16.
 
-### 14. Best and final offer stage: dialogue phase[^key-739d76fc01eb1cb3ce499a6e9e013fa0]
+### 14. Best and final offer stage: dialogue phase[^c-739d76fc01eb1cb3ce499a6e9e013fa0]
 
 (1) The dialogue phase must commence on the date specified in the best and final offer documentation.
 
@@ -287,7 +287,7 @@ A tender exercise to be held in accordance with these Regulations shall comprise
 - (a) must ensure fairness of treatment among all selected qualifying bidders and in particular must ensure that any information provided is provided in a non-discriminatory manner; and
 - (b) must not reveal to a selected qualifying bidder solutions proposed or any confidential information communicated by any other such bidder without that other bidder’s agreement.
 
-### 15. Best and final offer stage: final offer phase[^key-4419d929cba1e35cef5cb41ad512d530]
+### 15. Best and final offer stage: final offer phase[^c-4419d929cba1e35cef5cb41ad512d530]
 
 (1) The competent authority must determine when the dialogue phase ends in accordance with any requirements set out in the best and final offer documentation.
 
@@ -300,7 +300,7 @@ A tender exercise to be held in accordance with these Regulations shall comprise
 - (c) confirming or updating the evaluation criteria that were included in the best and final offer documentation; and
 - (d) inviting them to submit a best and final offer in accordance with the requirements of the best and final offer documentation (including a confirmation of the date and time requirements for such submission).
 
-### 16. Best and final offer stage: evaluation[^key-bc89149a1a68fcf041dac10c98603ab9]
+### 16. Best and final offer stage: evaluation[^c-bc89149a1a68fcf041dac10c98603ab9]
 
 (1) The competent authority must evaluate each best and final offer submitted to it by a selected qualifying bidder in accordance with the evaluation criteria set out in the best and final offer documentation, in order to determine which selected qualifying bidder is to become the preferred applicant.
 
@@ -314,7 +314,7 @@ A tender exercise to be held in accordance with these Regulations shall comprise
 
 ## PART 9 — Preferred applicant stage
 
-### 17. Notification of preferred applicant and reserve applicant[^key-72c8f21d489857333bd5f8eaf786361c]
+### 17. Notification of preferred applicant and reserve applicant[^c-72c8f21d489857333bd5f8eaf786361c]
 
 (1) As soon as reasonably practicable after the competent authority has determined the preferred applicant in accordance with regulation 12(1) or 16(1), it must give notice to the preferred applicant to that effect.
 
@@ -370,7 +370,7 @@ as if that reserve applicant were the preferred applicant.
 
 ## PART 10 — Notification of successful applicant
 
-### 18. Notification of successful applicant[^key-be880493534b5f5c348371a32fe3c357]
+### 18. Notification of successful applicant[^c-be880493534b5f5c348371a32fe3c357]
 
 (1) Where the competent authority determines at any time that it is satisfied that the preferred applicant has resolved the matters described in the notice given in accordance with regulation 17(1), the preferred applicant becomes the successful applicant to whom an electricity smart meter communication licence and a gas smart meter communication licence are to be granted (notwithstanding that those grants may be subject to the fulfilment by the successful applicant of particular conditions).
 
@@ -378,7 +378,7 @@ as if that reserve applicant were the preferred applicant.
 
 (3) A notice under paragraph (2) must specify the name and address of the successful applicant.
 
-### 19. Information in respect of successful applicant[^key-d207cff6ba80ea781a179e1672488b30]
+### 19. Information in respect of successful applicant[^c-d207cff6ba80ea781a179e1672488b30]
 
 (1) Subject to paragraph (3), the competent authority must as soon as practicable after a determination has been made in accordance with regulation 18(1), give notice to each qualifying bidder of its determination in relation to the successful applicant.
 
@@ -411,7 +411,7 @@ as if that reserve applicant were the preferred applicant.
 
 ## PART 11 — Withdrawal
 
-### 20. Withdrawal[^key-80af192575f6041f880b0116d3e23948]
+### 20. Withdrawal[^c-80af192575f6041f880b0116d3e23948]
 
 (1) A tender participant may withdraw from a tender exercise at any time and with immediate effect by giving notice in writing of that fact to the competent authority.
 
@@ -428,7 +428,7 @@ as if that reserve applicant were the preferred applicant.
 
 ## PART 12 — Cancellation
 
-### 21. Cancellation[^key-ebfc7f7841086d9a2c97499a741ce627]
+### 21. Cancellation[^c-ebfc7f7841086d9a2c97499a741ce627]
 
 (1) Where the competent authority is satisfied that one or more of the events in Schedule 4 are occurring or have occurred in respect of a tender exercise, it may, in the circumstances specified in paragraph (2), publish a notice cancelling that tender exercise.
 
@@ -444,7 +444,7 @@ as if that reserve applicant were the preferred applicant.
 
 ## PART 13 — Disqualification from a tender exercise
 
-### 22. Disqualification[^key-e5124d89771c6a724987ad39108e4daf]
+### 22. Disqualification[^c-e5124d89771c6a724987ad39108e4daf]
 
 (1) Where the competent authority is satisfied that—
 
@@ -462,7 +462,7 @@ it may disqualify that tender participant from the tender exercise by giving not
 
 ## PART 14 — Miscellaneous
 
-### 23. Bidder groups[^key-ff07d53cb684e6a5bd6a7c78a25b998d]
+### 23. Bidder groups[^c-ff07d53cb684e6a5bd6a7c78a25b998d]
 
 (1) Where a bidder is a bidder group—
 
@@ -477,7 +477,7 @@ it may disqualify that tender participant from the tender exercise by giving not
 
 (5) Where a confidentiality agreement has been submitted by a bidder group in accordance with a notice given in accordance with regulation 9(5), before making a determination under paragraph (2), the competent authority may require that a new signed confidentiality agreement is submitted by the bidder group (or by any person who, subject to the determination of the competent authority under paragraph (2), will become a member of that group if the change is permitted).
 
-### 24. Changes to delivery of documents or actions[^key-0f5e7b23dd6aa62da0d42dd067101022]
+### 24. Changes to delivery of documents or actions[^c-0f5e7b23dd6aa62da0d42dd067101022]
 
 (1) Any notice required to be published by the competent authority in accordance with these Regulations must be published in such manner as the competent authority considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them.
 
@@ -501,11 +501,11 @@ Department of Energy and Climate Change
 
 19th September 2012
 
-## SCHEDULE 1 — Qualification stage[^key-e67943568169b3319b97ad92cec38f14]
+## SCHEDULE 1 — Qualification stage[^c-e67943568169b3319b97ad92cec38f14]
 
 Regulation 8
 
-[^key-e67943568169b3319b97ad92cec38f14]
+[^c-e67943568169b3319b97ad92cec38f14]
 
 The information specified in this Schedule in relation to a particular tender exercise is as follows—
 
@@ -516,11 +516,11 @@ The information specified in this Schedule in relation to a particular tender ex
 - (e) an outline description of the regulated business information; and
 - (f) any other such information in relation to the qualification stage of the particular tender exercise as the competent authority may determine is necessary.
 
-## SCHEDULE 2 — Proposal stage[^key-234544a9751ff02209774ff8df15b51c]
+## SCHEDULE 2 — Proposal stage[^c-234544a9751ff02209774ff8df15b51c]
 
 Regulation 10
 
-[^key-234544a9751ff02209774ff8df15b51c]
+[^c-234544a9751ff02209774ff8df15b51c]
 
 The information specified in this Schedule in relation to a particular tender exercise is as follows—
 
@@ -531,11 +531,11 @@ The information specified in this Schedule in relation to a particular tender ex
 - (e) the regulated business information as at the point of the issue of the proposal documentation; and
 - (f) any other such information in relation to the proposal stage of the particular tender exercise as the competent authority may determine is necessary.
 
-## SCHEDULE 3 — Best and final offer stage[^key-16dcb351cc568e2838ce1f6b6c468e6d]
+## SCHEDULE 3 — Best and final offer stage[^c-16dcb351cc568e2838ce1f6b6c468e6d]
 
 Regulation 13
 
-[^key-16dcb351cc568e2838ce1f6b6c468e6d]
+[^c-16dcb351cc568e2838ce1f6b6c468e6d]
 
 The information specified in this Schedule in relation to a particular tender exercise is as follows—
 
@@ -550,11 +550,11 @@ The information specified in this Schedule in relation to a particular tender ex
 - (g) the evaluation criteria to be applied by the competent authority in evaluating best and final offers; and
 - (h) any other such information in relation to the best and final offer stage of the particular tender exercise as the competent authority may determine is necessary.
 
-## SCHEDULE 4 — Events of cancellation[^key-77a56008b54eab9cbdb72a0284940722]
+## SCHEDULE 4 — Events of cancellation[^c-77a56008b54eab9cbdb72a0284940722]
 
 Regulation 21
 
-[^key-77a56008b54eab9cbdb72a0284940722]
+[^c-77a56008b54eab9cbdb72a0284940722]
 
 The events in this Schedule are—
 
@@ -586,7 +586,7 @@ The events in this Schedule are—
 
 Regulation 22
 
-**1.**[^key-6c7e23d9f55ea226d511bbf06ecb0f33] The events in this Schedule are that a tender participant or any person acting on behalf of a tender participant—
+**1.**[^c-6c7e23d9f55ea226d511bbf06ecb0f33] The events in this Schedule are that a tender participant or any person acting on behalf of a tender participant—
 
 - (a) causes or induces any person to enter into an agreement to collude in relation to any aspect of the tender exercise or to inform a tender participant of the detail of any other tender participant’s competition document;
 - (b) submits any information to the competent authority which is false or misleading, unless the competent authority permits the submission of further information in order to correct the false or misleading information;
@@ -602,23 +602,23 @@ Regulation 22
   - (i) any instructions particular to the conduct of the stage of the tender exercise during which the contact is made; or
   - (ii) any requirements specified in these Regulations.
 
-**2.**[^key-fac0de4129b947d34cc42279e8d31aa8] In this Schedule, “competition document” means a document to be submitted or which has been submitted to the competent authority by a tender participant in accordance with these Regulations.
+**2.**[^c-fac0de4129b947d34cc42279e8d31aa8] In this Schedule, “competition document” means a document to be submitted or which has been submitted to the competent authority by a tender participant in accordance with these Regulations.
 
-**3.**[^key-0048568871db6cd21eeaeacb949f7f62] In paragraph 1(e), “insider information” means information which—
+**3.**[^c-0048568871db6cd21eeaeacb949f7f62] In paragraph 1(e), “insider information” means information which—
 
 - (a) is used by a tender participant in the preparation of a competition document;
 - (b) relates to any other tender participant, or to any matter concerning the competent authority’s consideration of competition document, or otherwise to the requirement to provide a smart meter communication service;
 - (c) is relevant to the tender exercise; and
 - (d) is not generally available to all the tender participants who are participating in the stage of the tender exercise to which the competition document relates.
 
-**4.**[^key-2248743dc921b50514d57b45aa7e4e31] In paragraph 1(i)—
+**4.**[^c-2248743dc921b50514d57b45aa7e4e31] In paragraph 1(i)—
 
 - (a) “relevant person” means a person acting on behalf of the competent authority—
   - (i) with respect to the tender exercise; or
   - (ii) who is otherwise capable of influencing in any way the conduct of the tender exercise;
 - (b) a reference to contacting a relevant person includes contact made for the purposes of discussing the possible transfer of such person to the employment of the tender participant.
 
-**5.**[^key-e3144fcc4a0d9e495dc3b9ece8ad1cb7] A reference in this Schedule (other than in paragraph 1(h)), with respect to a tender exercise, to an action of or in relation to a tender participant includes a reference to an action of or in relation to a bidder, which occurs—
+**5.**[^c-e3144fcc4a0d9e495dc3b9ece8ad1cb7] A reference in this Schedule (other than in paragraph 1(h)), with respect to a tender exercise, to an action of or in relation to a tender participant includes a reference to an action of or in relation to a bidder, which occurs—
 
 - (a) after the coming into force of these Regulations; and
 - (b) prior to the time that the bidder submits a qualification questionnaire.
@@ -677,9 +677,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 41HC was inserted by section 91 of and Schedule 4 to the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32). Relevant amendments to section 47 were made by section 3(2) of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) and section 10(1) of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45).
 
-[^key-b6667157c954f9cd96153ab1d9f0defd]: Commencement: Reg. 1 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-b6667157c954f9cd96153ab1d9f0defd]: Commencement: Reg. 1 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-d63d222fd024b44de9982aab43f7dc08]: Commencement: Reg. 2 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-d63d222fd024b44de9982aab43f7dc08]: Commencement: Reg. 2 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
 [^f00003]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6(1)(f) was inserted by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
 
@@ -689,66 +689,66 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00006]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 5(11) was inserted by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
 
-[^key-a0000926122d7127b811b9962fdb16b1]: Commencement: Reg. 3 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-a0000926122d7127b811b9962fdb16b1]: Commencement: Reg. 3 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-65606e27c159ad5349d677e49de858de]: Commencement: Reg. 4 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-65606e27c159ad5349d677e49de858de]: Commencement: Reg. 4 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-e0d92e1d298be1e166fbff35e5db832d]: Commencement: Reg. 5 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-e0d92e1d298be1e166fbff35e5db832d]: Commencement: Reg. 5 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-078c97ac58e0b6963accf9f70081a573]: Commencement: Reg. 6 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-078c97ac58e0b6963accf9f70081a573]: Commencement: Reg. 6 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-89e54b951db96a47e242fde31856517a]: Commencement: Reg. 7 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-89e54b951db96a47e242fde31856517a]: Commencement: Reg. 7 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-ad6955d52961f7f971d31c36cfb06fdb]: Commencement: Reg. 8 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-ad6955d52961f7f971d31c36cfb06fdb]: Commencement: Reg. 8 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-33a9824c90dbdb1d88114b6347c01cf3]: Commencement: Reg. 9 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-33a9824c90dbdb1d88114b6347c01cf3]: Commencement: Reg. 9 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-ec2d556b0c580fbd1533e0310b9dde75]: Commencement: Reg. 10 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-ec2d556b0c580fbd1533e0310b9dde75]: Commencement: Reg. 10 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-0f727a71881d586494a9759ba23f11e2]: Commencement: Reg. 11 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-0f727a71881d586494a9759ba23f11e2]: Commencement: Reg. 11 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-8f217e2ad7bc62a4c9f5ca7b854300ff]: Commencement: Reg. 12 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-8f217e2ad7bc62a4c9f5ca7b854300ff]: Commencement: Reg. 12 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-2be4306352cc9da1c082632ac281685e]: Commencement: Reg. 13 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-2be4306352cc9da1c082632ac281685e]: Commencement: Reg. 13 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-739d76fc01eb1cb3ce499a6e9e013fa0]: Commencement: Reg. 14 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-739d76fc01eb1cb3ce499a6e9e013fa0]: Commencement: Reg. 14 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-4419d929cba1e35cef5cb41ad512d530]: Commencement: Reg. 15 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-4419d929cba1e35cef5cb41ad512d530]: Commencement: Reg. 15 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-bc89149a1a68fcf041dac10c98603ab9]: Commencement: Reg. 16 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-bc89149a1a68fcf041dac10c98603ab9]: Commencement: Reg. 16 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-72c8f21d489857333bd5f8eaf786361c]: Commencement: Reg. 17 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-72c8f21d489857333bd5f8eaf786361c]: Commencement: Reg. 17 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-be880493534b5f5c348371a32fe3c357]: Commencement: Reg. 18 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-be880493534b5f5c348371a32fe3c357]: Commencement: Reg. 18 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-d207cff6ba80ea781a179e1672488b30]: Commencement: Reg. 19 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-d207cff6ba80ea781a179e1672488b30]: Commencement: Reg. 19 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-80af192575f6041f880b0116d3e23948]: Commencement: Reg. 20 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-80af192575f6041f880b0116d3e23948]: Commencement: Reg. 20 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-ebfc7f7841086d9a2c97499a741ce627]: Commencement: Reg. 21 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-ebfc7f7841086d9a2c97499a741ce627]: Commencement: Reg. 21 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-e5124d89771c6a724987ad39108e4daf]: Commencement: Reg. 22 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-e5124d89771c6a724987ad39108e4daf]: Commencement: Reg. 22 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-ff07d53cb684e6a5bd6a7c78a25b998d]: Commencement: Reg. 23 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-ff07d53cb684e6a5bd6a7c78a25b998d]: Commencement: Reg. 23 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-0f5e7b23dd6aa62da0d42dd067101022]: Commencement: Reg. 24 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-0f5e7b23dd6aa62da0d42dd067101022]: Commencement: Reg. 24 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-e67943568169b3319b97ad92cec38f14]: Commencement: Sch. 1 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-e67943568169b3319b97ad92cec38f14]: Commencement: Sch. 1 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-234544a9751ff02209774ff8df15b51c]: Commencement: Sch. 2 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-234544a9751ff02209774ff8df15b51c]: Commencement: Sch. 2 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-16dcb351cc568e2838ce1f6b6c468e6d]: Commencement: Sch. 3 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-16dcb351cc568e2838ce1f6b6c468e6d]: Commencement: Sch. 3 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-77a56008b54eab9cbdb72a0284940722]: Commencement: Sch. 4 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-77a56008b54eab9cbdb72a0284940722]: Commencement: Sch. 4 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-6c7e23d9f55ea226d511bbf06ecb0f33]: Commencement: Sch. 5 para. 1 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-6c7e23d9f55ea226d511bbf06ecb0f33]: Commencement: Sch. 5 para. 1 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
 [^f00007]: Footnote: [2010 c. 23](https://www.legislation.gov.uk/ukpga/2010/23).
 
-[^key-fac0de4129b947d34cc42279e8d31aa8]: Commencement: Sch. 5 para. 2 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-fac0de4129b947d34cc42279e8d31aa8]: Commencement: Sch. 5 para. 2 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-0048568871db6cd21eeaeacb949f7f62]: Commencement: Sch. 5 para. 3 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-0048568871db6cd21eeaeacb949f7f62]: Commencement: Sch. 5 para. 3 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-2248743dc921b50514d57b45aa7e4e31]: Commencement: Sch. 5 para. 4 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-2248743dc921b50514d57b45aa7e4e31]: Commencement: Sch. 5 para. 4 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
 
-[^key-e3144fcc4a0d9e495dc3b9ece8ad1cb7]: Commencement: Sch. 5 para. 5 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)
+[^c-e3144fcc4a0d9e495dc3b9ece8ad1cb7]: Commencement: Sch. 5 para. 5 in force at 12.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2414/regulation/1)

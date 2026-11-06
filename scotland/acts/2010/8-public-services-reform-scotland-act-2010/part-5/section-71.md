@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Further provision as respects notice of proposals[^key-a3b17e8034308db50cedf7ce22285164][^key-f21ae43efde5a1995e2e8bf92bbd1d08]
+## 71. Further provision as respects notice of proposals[^c-a3b17e8034308db50cedf7ce22285164][^c-f21ae43efde5a1995e2e8bf92bbd1d08]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3b17e8034308db50cedf7ce22285164]: Commencement: S. 71 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-a3b17e8034308db50cedf7ce22285164]: Commencement: S. 71 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-f21ae43efde5a1995e2e8bf92bbd1d08]: Commencement: S. 71 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-f21ae43efde5a1995e2e8bf92bbd1d08]: Commencement: S. 71 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

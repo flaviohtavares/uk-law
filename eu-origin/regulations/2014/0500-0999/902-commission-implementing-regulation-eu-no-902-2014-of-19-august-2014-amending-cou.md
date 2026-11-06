@@ -33,18 +33,18 @@ of 19 August 2014
 
 amending Council Regulation (EC) No 1415/2004 as regards the adaptation for the United Kingdom of the maximum annual fishing effort in certain fishing areas (revoked)
 
-[^key-a67f8ae62bc5f079a85295c49d4ebf75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a67f8ae62bc5f079a85295c49d4ebf75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendment to Regulation (EC) No 1415/2004[^key-a67f8ae62bc5f079a85295c49d4ebf75]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-a67f8ae62bc5f079a85295c49d4ebf75]
+## Article 1. Amendment to Regulation (EC) No 1415/2004[^c-a67f8ae62bc5f079a85295c49d4ebf75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a67f8ae62bc5f079a85295c49d4ebf75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-a67f8ae62bc5f079a85295c49d4ebf75]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a67f8ae62bc5f079a85295c49d4ebf75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a67f8ae62bc5f079a85295c49d4ebf75]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a67f8ae62bc5f079a85295c49d4ebf75]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Licence conditions of life prisoners released following referral[^key-0b9d4c6a28c610c39f0e21948b3e383d][^key-188d0295c86e6d86037ca5eea3eb0c66]
+## 63. Licence conditions of life prisoners released following referral[^c-0b9d4c6a28c610c39f0e21948b3e383d][^c-188d0295c86e6d86037ca5eea3eb0c66]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b9d4c6a28c610c39f0e21948b3e383d]: Commencement: S. 63 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-0b9d4c6a28c610c39f0e21948b3e383d]: Commencement: S. 63 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-188d0295c86e6d86037ca5eea3eb0c66]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2024/21/section/63) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/f)
+[^c-188d0295c86e6d86037ca5eea3eb0c66]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2024/21/section/63) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/f)

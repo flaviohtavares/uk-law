@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Electronic material to which section 41 applies: other electronic material[^key-47526858ea34bf35e6b6bed90afc7feb][^key-5b5c47b350773066767e83671c1da9f8]
+## 44. Electronic material to which section 41 applies: other electronic material[^c-47526858ea34bf35e6b6bed90afc7feb][^c-5b5c47b350773066767e83671c1da9f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47526858ea34bf35e6b6bed90afc7feb]: Commencement: S. 44 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-47526858ea34bf35e6b6bed90afc7feb]: Commencement: S. 44 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-5b5c47b350773066767e83671c1da9f8]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/37/section/44) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-5b5c47b350773066767e83671c1da9f8]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/37/section/44) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

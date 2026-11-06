@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Response to Law Commission report on hate crime laws[^key-26acc747c14bd69bd84358ac927607c0]
+## 72. Response to Law Commission report on hate crime laws[^c-26acc747c14bd69bd84358ac927607c0]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26acc747c14bd69bd84358ac927607c0]: Commencement: S. 72 in force at Royal Assent, see [s. 208(4)(m)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/m)
+[^c-26acc747c14bd69bd84358ac927607c0]: Commencement: S. 72 in force at Royal Assent, see [s. 208(4)(m)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/m)

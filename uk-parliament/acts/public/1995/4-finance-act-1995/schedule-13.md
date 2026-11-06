@@ -94,7 +94,7 @@ Section 67.
 >
 > Schedule 5B to this Act (which provides relief in respect of re-investment under the enterprise investment scheme) shall have effect.
 
-(2)[^key-9bd12c0ce0057d25a3f6cd63fc313f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9bd12c0ce0057d25a3f6cd63fc313f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following Schedule shall be inserted after Schedule 5A—
 
@@ -239,4 +239,4 @@ Section 67.
 
 [^c15674991]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-9bd12c0ce0057d25a3f6cd63fc313f0a]: Textual amendment: Sch. 13 para. 4(2) repealed (with effect in accordance with Sch. 21 para. 10(8) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/14)
+[^c-9bd12c0ce0057d25a3f6cd63fc313f0a]: Textual amendment: Sch. 13 para. 4(2) repealed (with effect in accordance with Sch. 21 para. 10(8) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/14)

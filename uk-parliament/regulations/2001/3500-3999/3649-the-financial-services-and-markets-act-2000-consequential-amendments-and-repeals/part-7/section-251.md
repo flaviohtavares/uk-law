@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Meaning of “authorised insurer” and “relevant institution”[^key-bf0701dff16f37ef756c5ce3e0d21c25]
+## 251. Meaning of “authorised insurer” and “relevant institution”[^c-bf0701dff16f37ef756c5ce3e0d21c25]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf0701dff16f37ef756c5ce3e0d21c25]: Commencement: Art. 251 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-bf0701dff16f37ef756c5ce3e0d21c25]: Commencement: Art. 251 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00172]: Footnote: Regulation 4 was substituted by [S.I. 2000/199](https://www.legislation.gov.uk/uksi/2000/199), regulation 9.

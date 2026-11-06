@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The competent authority may, by notice in writing served on the holder of the certificate or temporary certificate, suspend or revoke a certificate or temporary certificate, (including a certificate or temporary certificate granted in a member State[^key-f5d0067372a763b830dcd0d17b9fbc9f] ), if satisfied that the holder of the certificate or temporary certificate—
+(1) The competent authority may, by notice in writing served on the holder of the certificate or temporary certificate, suspend or revoke a certificate or temporary certificate, (including a certificate or temporary certificate granted in a member State[^c-f5d0067372a763b830dcd0d17b9fbc9f] ), if satisfied that the holder of the certificate or temporary certificate—
 
 - (a) has failed to comply with any provision of the EU Regulation or these Regulations;
 - (b) is no longer a fit and proper person to hold it;
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5d0067372a763b830dcd0d17b9fbc9f]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/nisr/2014/107/regulation/13) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [19(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/19/2)
+[^c-f5d0067372a763b830dcd0d17b9fbc9f]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/nisr/2014/107/regulation/13) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [19(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/19/2)

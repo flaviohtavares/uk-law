@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(A1)[^key-cea6a19caecba34a0309487ccec2758a] This regulation does not apply to sums in respect of which interest is payable under—
+(A1)[^c-cea6a19caecba34a0309487ccec2758a] This regulation does not apply to sums in respect of which interest is payable under—
 
 - (a) regulation 4T (interest on indirect compensation) of the Transitional Regulations; or
 - (b) regulation 14 (interest on payments under the statutory underpin) of the Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023.
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cea6a19caecba34a0309487ccec2758a]: Textual amendment: [Reg. 91(A1)](https://www.legislation.gov.uk/nisr/2014/188/regulation/91/A1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(13)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/13)
+[^c-cea6a19caecba34a0309487ccec2758a]: Textual amendment: [Reg. 91(A1)](https://www.legislation.gov.uk/nisr/2014/188/regulation/91/A1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(13)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/13)

@@ -47,7 +47,7 @@ Coming into force in accordance with article 1
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1, 8(1) and 83(2) of the Animal Health Act 1981[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-e8ef6f98b10340bd5d57738bed4e9a2e]
+## 1. Citation, commencement and interpretation[^c-e8ef6f98b10340bd5d57738bed4e9a2e]
 
 (1) This Order may be cited as the Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013.
 
@@ -59,25 +59,25 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (5) In this Order “the principal Order” means the Bovine Viral Diarrhoea (Scotland) Order 2013[^f00003].
 
-## 2. Revocation of provisions of the Bovine Viral Diarrhoea (Scotland) Amendment (No. 2) Order 2013[^key-97ec2513bddf9dd6cbb58eb6f1dacec6]
+## 2. Revocation of provisions of the Bovine Viral Diarrhoea (Scotland) Amendment (No. 2) Order 2013[^c-97ec2513bddf9dd6cbb58eb6f1dacec6]
 
 In the Bovine Viral Diarrhoea (Scotland) Amendment (No. 2) Order 2013, articles 3, 12, 13, 14, 15 and 17(a) are revoked.
 
-## 3. Amendment of the principal Order[^key-4430bca580f3da6bac6be00ab03759bc]
+## 3. Amendment of the principal Order[^c-4430bca580f3da6bac6be00ab03759bc]
 
 The principal Order is amended in accordance with articles 4 to 10.
 
-**4.**[^key-c83e6ad2e7d636ea8e0554044e516ed4] In article 2 (interpretation), in the definition of “BVD finding” omit—
+**4.**[^c-c83e6ad2e7d636ea8e0554044e516ed4] In article 2 (interpretation), in the definition of “BVD finding” omit—
 
 - (a) “or the operator of a laboratory as mentioned in article 20”; and
 - (b) “or, as the case may be, the operator of a laboratory as mentioned in article 20”.
 
-**5.**[^key-1e928978a435b227a5032882d0b8e0f2] In article 20(2) (reporting of tests for presence of BVDV)—
+**5.**[^c-1e928978a435b227a5032882d0b8e0f2] In article 20(2) (reporting of tests for presence of BVDV)—
 
 - (a) after “Ministers” insert “and the keeper”; and
 - (b) in sub-paragraph (c), after “test” insert “, clearly indicating whether the result is negative or not negative for evidence of exposure to BVDV or, as the case may be, the presence of BVDV”.
 
-**6.**[^key-eb690879299d8866688e7137db928ad0] For Part 4 (BVD findings and status) substitute—
+**6.**[^c-eb690879299d8866688e7137db928ad0] For Part 4 (BVD findings and status) substitute—
 
 > **PART 4 — BVD Status**
 >
@@ -147,19 +147,19 @@ The principal Order is amended in accordance with articles 4 to 10.
 
 .
 
-**7.**[^key-5093082e74f556ad463fb711d41b5c00] For article 23B(2)(c)[^f00004] (movement of bovine animals) substitute—
+**7.**[^c-5093082e74f556ad463fb711d41b5c00] For article 23B(2)(c)[^f00004] (movement of bovine animals) substitute—
 
 > - (c) an approved veterinary surgeon reasonably considers that follow-up action or investigation has been carried out which confirms that BVDV is not or is no longer present in the animal and has by notice under article 21(7) informed the keeper and the Scottish Ministers of that fact.
 
 .
 
-**8.**[^key-122f1fdc734f6a86cbd7ac0075da2d94] For article 23C(3)(c)[^f00005] (movement of a qualifying calf) substitute—
+**8.**[^c-122f1fdc734f6a86cbd7ac0075da2d94] For article 23C(3)(c)[^f00005] (movement of a qualifying calf) substitute—
 
 > - (c) an approved veterinary surgeon reasonably considers that follow-up action or investigation has been carried out which confirms that BVDV is not or is no longer present in the calf and has by notice informed the keeper and the Scottish Ministers of that fact.
 
 .
 
-**9.**[^key-be54dab0131f94d5514f93172986350a] In article 23D[^f00006] (movement of an infected animal)—
+**9.**[^c-be54dab0131f94d5514f93172986350a] In article 23D[^f00006] (movement of an infected animal)—
 
 - (a) in the heading, for “infected animal” substitute “animal in which BVDV is present”;
 - (b) for paragraph (1) substitute—
@@ -172,7 +172,7 @@ The principal Order is amended in accordance with articles 4 to 10.
   ; and
 - (c) in paragraph (3), for “the animal is an infected animal” substitute “BVDV is present in the animal”.
 
-**10.**[^key-e24bd13bce753b0cfe72df0c25e63ab4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e24bd13bce753b0cfe72df0c25e63ab4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 RICHARD LOCHHEAD
 
@@ -212,32 +212,32 @@ No business and regulatory impact assessment has been prepared for this Order as
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). Powers to make Orders under these sections were originally conferred on “the Ministers”, as defined in section 86(1) of the Animal Health Act 1981. The functions of the Ministers were, so far as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-e8ef6f98b10340bd5d57738bed4e9a2e]: Commencement: Art. 1 in force at 31.12.2013, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2)
+[^c-e8ef6f98b10340bd5d57738bed4e9a2e]: Commencement: Art. 1 in force at 31.12.2013, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2)
 
 [^f00002]: Footnote: [S.S.I. 2013/337](https://www.legislation.gov.uk/ssi/2013/337), which has a coming into force date of 1st January 2014.
 
 [^f00003]: Footnote: [S.S.I. 2013/3](https://www.legislation.gov.uk/ssi/2013/3), amended by [S.S.I. 2013/21](https://www.legislation.gov.uk/ssi/2013/21) and [S.S.I. 2013/337](https://www.legislation.gov.uk/ssi/2013/337).
 
-[^key-97ec2513bddf9dd6cbb58eb6f1dacec6]: Commencement: Art. 2 in force at 31.12.2013, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2)
+[^c-97ec2513bddf9dd6cbb58eb6f1dacec6]: Commencement: Art. 2 in force at 31.12.2013, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2)
 
-[^key-4430bca580f3da6bac6be00ab03759bc]: Commencement: Art. 3 in force at 1.1.2014, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2013/363/article/1/3)
+[^c-4430bca580f3da6bac6be00ab03759bc]: Commencement: Art. 3 in force at 1.1.2014, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2013/363/article/1/3)
 
-[^key-c83e6ad2e7d636ea8e0554044e516ed4]: Commencement: Art. 4 in force at 1.1.2014, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2013/363/article/1/3)
+[^c-c83e6ad2e7d636ea8e0554044e516ed4]: Commencement: Art. 4 in force at 1.1.2014, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2013/363/article/1/3)
 
-[^key-1e928978a435b227a5032882d0b8e0f2]: Commencement: Art. 5 in force at 1.1.2014, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2013/363/article/1/3)
+[^c-1e928978a435b227a5032882d0b8e0f2]: Commencement: Art. 5 in force at 1.1.2014, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2013/363/article/1/3)
 
-[^key-eb690879299d8866688e7137db928ad0]: Commencement: Art. 6 in force at 1.1.2014, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2013/363/article/1/3)
+[^c-eb690879299d8866688e7137db928ad0]: Commencement: Art. 6 in force at 1.1.2014, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2013/363/article/1/3)
 
-[^key-5093082e74f556ad463fb711d41b5c00]: Commencement: Art. 7 in force at 1.1.2014, see [art. 1(4)](https://www.legislation.gov.uk/ssi/2013/363/article/1/4)
+[^c-5093082e74f556ad463fb711d41b5c00]: Commencement: Art. 7 in force at 1.1.2014, see [art. 1(4)](https://www.legislation.gov.uk/ssi/2013/363/article/1/4)
 
 [^f00004]: Footnote: Article 23B was inserted by [S.S.I. 2013/337](https://www.legislation.gov.uk/ssi/2013/337).
 
-[^key-122f1fdc734f6a86cbd7ac0075da2d94]: Commencement: Art. 8 in force at 1.1.2014, see [art. 1(4)](https://www.legislation.gov.uk/ssi/2013/363/article/1/4)
+[^c-122f1fdc734f6a86cbd7ac0075da2d94]: Commencement: Art. 8 in force at 1.1.2014, see [art. 1(4)](https://www.legislation.gov.uk/ssi/2013/363/article/1/4)
 
 [^f00005]: Footnote: Article 23C was inserted by [S.S.I. 2013/337](https://www.legislation.gov.uk/ssi/2013/337).
 
-[^key-be54dab0131f94d5514f93172986350a]: Commencement: Art. 9 in force at 1.1.2014, see [art. 1(4)](https://www.legislation.gov.uk/ssi/2013/363/article/1/4)
+[^c-be54dab0131f94d5514f93172986350a]: Commencement: Art. 9 in force at 1.1.2014, see [art. 1(4)](https://www.legislation.gov.uk/ssi/2013/363/article/1/4)
 
 [^f00006]: Footnote: Article 23D was inserted by [S.S.I. 2013/337](https://www.legislation.gov.uk/ssi/2013/337).
 
-[^key-e24bd13bce753b0cfe72df0c25e63ab4]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/ssi/2013/363/article/10) revoked (1.6.2015) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2015 (S.S.I. 2015/186)](https://www.legislation.gov.uk/ssi/2015/186), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/186/article/1/1), [16(1)(c)](https://www.legislation.gov.uk/ssi/2015/186/article/16/1/c)
+[^c-e24bd13bce753b0cfe72df0c25e63ab4]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/ssi/2013/363/article/10) revoked (1.6.2015) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2015 (S.S.I. 2015/186)](https://www.legislation.gov.uk/ssi/2015/186), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/186/article/1/1), [16(1)(c)](https://www.legislation.gov.uk/ssi/2015/186/article/16/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261O. Limited liability[^key-c3496c91e669d7eb37642681a514bb00][^key-a633e90c680abea1208a9855c68fc2f4]
+## 261O. Limited liability[^c-c3496c91e669d7eb37642681a514bb00][^c-a633e90c680abea1208a9855c68fc2f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3496c91e669d7eb37642681a514bb00]: Modification: [S. 261O](https://www.legislation.gov.uk/ukpga/2000/8/section/261O) applied (with modifications) (19.3.2025 immediately after [S.I. 2025/200](https://www.legislation.gov.uk/uksi/2025/200) comes into force) by The Unauthorised Co-ownership [Alternative Investment Funds (Reserved Investor Fund) Regulations 2025 (S.I. 2025/216)](https://www.legislation.gov.uk/uksi/2025/216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/216/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/216/regulation/3)
+[^c-c3496c91e669d7eb37642681a514bb00]: Modification: [S. 261O](https://www.legislation.gov.uk/ukpga/2000/8/section/261O) applied (with modifications) (19.3.2025 immediately after [S.I. 2025/200](https://www.legislation.gov.uk/uksi/2025/200) comes into force) by The Unauthorised Co-ownership [Alternative Investment Funds (Reserved Investor Fund) Regulations 2025 (S.I. 2025/216)](https://www.legislation.gov.uk/uksi/2025/216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/216/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/216/regulation/3)
 
-[^key-a633e90c680abea1208a9855c68fc2f4]: Textual amendment: Pt. 17 Ch. 3A inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/3/12) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-a633e90c680abea1208a9855c68fc2f4]: Textual amendment: Pt. 17 Ch. 3A inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/3/12) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))

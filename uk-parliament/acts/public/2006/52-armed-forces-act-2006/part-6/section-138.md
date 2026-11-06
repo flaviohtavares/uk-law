@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Prohibited combinations of punishments[^key-cae135ca0fe5d26cf36fe6d6af2f4fbc][^key-b30abde91cbed9089c70fe34beb394a8]
+## 138. Prohibited combinations of punishments[^c-cae135ca0fe5d26cf36fe6d6af2f4fbc][^c-b30abde91cbed9089c70fe34beb394a8]
 
 *Extent: E+W+S+N.I.*
 
 (1) Subsections (2) to (6) apply where a commanding officer awards punishment in respect of an offender.
 
-(2)[^key-fa83b514e1180a8332da3a71af07fd85] If he awards detention, the only additional punishments he may award are—
+(2)[^c-fa83b514e1180a8332da3a71af07fd85] If he awards detention, the only additional punishments he may award are—
 
 - (a) reduction in rank or disrating (subject to subsection (8));
 - (b) a service compensation order.
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cae135ca0fe5d26cf36fe6d6af2f4fbc]: Commencement: S. 138 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-cae135ca0fe5d26cf36fe6d6af2f4fbc]: Commencement: S. 138 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-b30abde91cbed9089c70fe34beb394a8]: Commencement: S. 138 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b30abde91cbed9089c70fe34beb394a8]: Commencement: S. 138 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-fa83b514e1180a8332da3a71af07fd85]: Textual amendment: S. 138(2) substituted for s. 138(2)(3) (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/13/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2012/669/article/6/1)[(2)](https://www.legislation.gov.uk/uksi/2012/669/article/6/2))
+[^c-fa83b514e1180a8332da3a71af07fd85]: Textual amendment: S. 138(2) substituted for s. 138(2)(3) (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/13/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2012/669/article/6/1)[(2)](https://www.legislation.gov.uk/uksi/2012/669/article/6/2))

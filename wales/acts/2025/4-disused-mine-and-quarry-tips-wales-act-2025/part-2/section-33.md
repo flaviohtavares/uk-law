@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Compensation for damage or disturbance[^key-7db1c15d20a86c8cf9147892615bf2df]
+## 33. Compensation for damage or disturbance[^c-7db1c15d20a86c8cf9147892615bf2df]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ the persons referred to in subsection (3) are entitled to recover compensation f
 
 ## Annotations
 
-[^key-7db1c15d20a86c8cf9147892615bf2df]: Commencement: S. 33 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-7db1c15d20a86c8cf9147892615bf2df]: Commencement: S. 33 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

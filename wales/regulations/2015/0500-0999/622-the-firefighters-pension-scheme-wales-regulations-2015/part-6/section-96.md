@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Eligible child’s pension payable on death of deferred member[^key-064ad598b7a58d61928db568e6d27211]
+## 96. Eligible child’s pension payable on death of deferred member[^c-064ad598b7a58d61928db568e6d27211]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-064ad598b7a58d61928db568e6d27211]: Commencement: Reg. 96 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-064ad598b7a58d61928db568e6d27211]: Commencement: Reg. 96 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

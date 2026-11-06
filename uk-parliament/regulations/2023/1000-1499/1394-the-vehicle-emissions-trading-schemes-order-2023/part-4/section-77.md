@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Preparation of provisional information[^key-957f8e2ffc45f95f04662878c729eb15]
+## 77. Preparation of provisional information[^c-957f8e2ffc45f95f04662878c729eb15]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,8 +33,8 @@ summary: ''
 - (i) the number of ZE SPVs of category M1, except for ZE wheelchair accessible SPVs, of which the participant is the manufacturer and which were registered during the scheme year;
 - (j) the number of ZE wheelchair accessible SPVs of which the participant is the manufacturer and which were registered during the scheme year;
 - (k) the number of ZE SPVs of category N1, or of category N2 which fall within the description in paragraph (c) of the definition in “van” in article 3(1), of which the participant is the manufacturer and which were registered during the scheme year;
-- (l) the number of CRTS allowances allocated and, where applicable, the number of banked CRTS allowances , within the meaning of article 9(b)[^key-e4d18dd86ab830bd10a30749ded4d9b8];
-- (m) the number of VRTS allowances allocated and, where applicable, the number of banked VRTS allowances , within the meaning of article 41(b)[^key-8bdeed3fc471895bd30fd110e69d5e0b];
+- (l) the number of CRTS allowances allocated and, where applicable, the number of banked CRTS allowances , within the meaning of article 9(b)[^c-e4d18dd86ab830bd10a30749ded4d9b8];
+- (m) the number of VRTS allowances allocated and, where applicable, the number of banked VRTS allowances , within the meaning of article 41(b)[^c-8bdeed3fc471895bd30fd110e69d5e0b];
 - (n) the number of CCTS allowances allocated;
 - (o) the number of VCTS allowances allocated;
 - (p) the number of CRTS credits acquired;
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-957f8e2ffc45f95f04662878c729eb15]: Commencement: Art. 77 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-957f8e2ffc45f95f04662878c729eb15]: Commencement: Art. 77 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-e4d18dd86ab830bd10a30749ded4d9b8]: Textual amendment: Words in [art. 77(1)(l)](https://www.legislation.gov.uk/uksi/2023/1394/article/77/1/l) inserted (27.11.2024) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/1130/article/9/a)
+[^c-e4d18dd86ab830bd10a30749ded4d9b8]: Textual amendment: Words in [art. 77(1)(l)](https://www.legislation.gov.uk/uksi/2023/1394/article/77/1/l) inserted (27.11.2024) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/1130/article/9/a)
 
-[^key-8bdeed3fc471895bd30fd110e69d5e0b]: Textual amendment: Words in [art. 77(1)(m)](https://www.legislation.gov.uk/uksi/2023/1394/article/77/1/m) inserted (27.11.2024) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/1130/article/9/b)
+[^c-8bdeed3fc471895bd30fd110e69d5e0b]: Textual amendment: Words in [art. 77(1)(m)](https://www.legislation.gov.uk/uksi/2023/1394/article/77/1/m) inserted (27.11.2024) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/1130/article/9/b)

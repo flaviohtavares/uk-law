@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Part 4: supplementary[^key-a02d30af05a31e58f6860adc249c113d][^key-67141e488d41e84ab2e717eaa26f90f7]
+## 25. Part 4: supplementary[^c-a02d30af05a31e58f6860adc249c113d][^c-67141e488d41e84ab2e717eaa26f90f7]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a02d30af05a31e58f6860adc249c113d]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2015/7/section/25) in force at 5.3.2015 for E. by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/c)
+[^c-a02d30af05a31e58f6860adc249c113d]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2015/7/section/25) in force at 5.3.2015 for E. by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/c)
 
-[^key-67141e488d41e84ab2e717eaa26f90f7]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2015/7/section/25) in force at 12.4.2015 for W. by [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)
+[^c-67141e488d41e84ab2e717eaa26f90f7]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2015/7/section/25) in force at 12.4.2015 for W. by [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a contractor wants to terminate its obligation under the contract to provide out of hours services, the contractor must give an out of hours opt out notice in writing to NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] to that effect.
+(1) Where a contractor wants to terminate its obligation under the contract to provide out of hours services, the contractor must give an out of hours opt out notice in writing to NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] to that effect.
 
 (2) An out of hours opt out notice must specify the date on which the contractor would like the out of hours opt out to take effect, which must be either three or six months after the date on which that notice is given.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

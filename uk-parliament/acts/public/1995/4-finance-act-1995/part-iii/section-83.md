@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0751116acec0b0eb3c6e6f912f3d2526] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0751116acec0b0eb3c6e6f912f3d2526] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 182(1) of the [^c15671271]Finance Act 1993 and section 229 of the [^c15671281]Finance Act 1994 (powers to modify provisions relating to Lloyd’s), the following paragraph shall be inserted, in each case, after paragraph (c)—
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0751116acec0b0eb3c6e6f912f3d2526]: Textual amendment: [S. 83(1)](https://www.legislation.gov.uk/ukpga/1995/4/section/83/1) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 35(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/35/2/a)
+[^c-0751116acec0b0eb3c6e6f912f3d2526]: Textual amendment: [S. 83(1)](https://www.legislation.gov.uk/ukpga/1995/4/section/83/1) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 35(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/35/2/a)
 
 [^c15671271]: Marginal citation: [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34).
 

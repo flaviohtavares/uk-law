@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Breach of conditions other than accounts conditions: complaints and compliance orders.[^key-a836c105d67279cf22cc8595878ae2a3]
+## 48. Breach of conditions other than accounts conditions: complaints and compliance orders.[^c-a836c105d67279cf22cc8595878ae2a3]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a836c105d67279cf22cc8595878ae2a3]: Textual amendment: Pt. IV repealed (6.4.2013 for the repeal of ss. 37(2)-(7)(9)(10), 38, 40A, 40B, 41(1), 53, 1.4.2014 in so far as not already in force) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 76(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/76/1), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [s. 77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [arts. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2013/589/article/5/1/a) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/589/article/3), [6](https://www.legislation.gov.uk/uksi/2013/589/article/6))
+[^c-a836c105d67279cf22cc8595878ae2a3]: Textual amendment: Pt. IV repealed (6.4.2013 for the repeal of ss. 37(2)-(7)(9)(10), 38, 40A, 40B, 41(1), 53, 1.4.2014 in so far as not already in force) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 76(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/76/1), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [s. 77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [arts. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2013/589/article/5/1/a) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/589/article/3), [6](https://www.legislation.gov.uk/uksi/2013/589/article/6))

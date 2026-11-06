@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1146A. “Relevant derelict land remediation”[^key-10f3997e625c3e4363b3f9984e543acf]
+## 1146A. “Relevant derelict land remediation”[^c-10f3997e625c3e4363b3f9984e543acf]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10f3997e625c3e4363b3f9984e543acf]: Textual amendment: S. 1146A inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/7)
+[^c-10f3997e625c3e4363b3f9984e543acf]: Textual amendment: S. 1146A inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/7)

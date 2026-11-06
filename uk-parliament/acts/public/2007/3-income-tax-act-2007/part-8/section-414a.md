@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 414A. Tax reduction or charge if basic rate, and devolved basic rate, differ[^key-43c1628f4dda5ff9e15fbe63bf324412]
+## 414A. Tax reduction or charge if basic rate, and devolved basic rate, differ[^c-43c1628f4dda5ff9e15fbe63bf324412]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ but see subsection (5).
 
 ## Annotations
 
-[^key-43c1628f4dda5ff9e15fbe63bf324412]: Textual amendment: S. 414A inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Devolved Income Tax Rates (Consequential Amendments) Order 2019 (S.I. 2019/201)](https://www.legislation.gov.uk/uksi/2019/201), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/201/article/1), [12(8)](https://www.legislation.gov.uk/uksi/2019/201/article/12/8)
+[^c-43c1628f4dda5ff9e15fbe63bf324412]: Textual amendment: S. 414A inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Devolved Income Tax Rates (Consequential Amendments) Order 2019 (S.I. 2019/201)](https://www.legislation.gov.uk/uksi/2019/201), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/201/article/1), [12(8)](https://www.legislation.gov.uk/uksi/2019/201/article/12/8)

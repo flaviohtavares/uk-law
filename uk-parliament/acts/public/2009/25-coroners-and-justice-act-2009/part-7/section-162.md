@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Determination of applications[^key-2e10c15415f7ddb04069d905cbd294a5]
+## 162. Determination of applications[^c-2e10c15415f7ddb04069d905cbd294a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e10c15415f7ddb04069d905cbd294a5]: Commencement: S. 162 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
+[^c-2e10c15415f7ddb04069d905cbd294a5]: Commencement: S. 162 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)

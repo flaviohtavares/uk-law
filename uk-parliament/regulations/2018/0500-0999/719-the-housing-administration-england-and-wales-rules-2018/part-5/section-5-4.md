@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.4. Requirements for proof[^key-d5acc5460047be03b1a061a66b004c0f]
+## 5.4. Requirements for proof[^c-d5acc5460047be03b1a061a66b004c0f]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5acc5460047be03b1a061a66b004c0f]: Commencement: Rule 5.4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-d5acc5460047be03b1a061a66b004c0f]: Commencement: Rule 5.4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

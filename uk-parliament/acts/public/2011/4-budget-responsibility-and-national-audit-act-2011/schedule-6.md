@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Powers of National Assembly for Wales: Auditor General for Wales[^key-61c7ca15701f8135b47e8201a6e21f01]
+## SCHEDULE 6 — Powers of National Assembly for Wales: Auditor General for Wales[^c-61c7ca15701f8135b47e8201a6e21f01]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Section 27
 
-### Introductory[^key-61c7ca15701f8135b47e8201a6e21f01]
+### Introductory[^c-61c7ca15701f8135b47e8201a6e21f01]
 
-**1.**[^key-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Assembly Measures[^key-61c7ca15701f8135b47e8201a6e21f01]
+### Assembly Measures[^c-61c7ca15701f8135b47e8201a6e21f01]
 
-**2.**[^key-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Acts of the Assembly[^key-61c7ca15701f8135b47e8201a6e21f01]
+### Acts of the Assembly[^c-61c7ca15701f8135b47e8201a6e21f01]
 
-**5.**[^key-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-61c7ca15701f8135b47e8201a6e21f01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61c7ca15701f8135b47e8201a6e21f01]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/4/schedule/6) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 87](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/87) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-61c7ca15701f8135b47e8201a6e21f01]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/4/schedule/6) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 87](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/87) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

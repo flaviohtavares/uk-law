@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Vulnerable witnesses under the 1995 Act: admission of the record of a prior examination as evidence in full[^key-83e7c39a09bfaa30b47290d0a15b76f4]
+## 101. Vulnerable witnesses under the 1995 Act: admission of the record of a prior examination as evidence in full[^c-83e7c39a09bfaa30b47290d0a15b76f4]
 
 *Extent: S*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83e7c39a09bfaa30b47290d0a15b76f4]: Commencement: S. 101 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-83e7c39a09bfaa30b47290d0a15b76f4]: Commencement: S. 101 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

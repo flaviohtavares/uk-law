@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c18733891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) For the purpose of carrying out its flood defence functions the appropriate agency[^key-688557e08b49651a6a72ccb3a9100539] shall from time to time carry out surveys of the areas in relation to which it carries out those functions.
+(2) For the purpose of carrying out its flood defence functions the appropriate agency[^c-688557e08b49651a6a72ccb3a9100539] shall from time to time carry out surveys of the areas in relation to which it carries out those functions.
 
 (3) In the exercise of the powers conferred by the following provisions of this Part and the other flood defence provisions of this Act due regard shall be had to the interests of fisheries, including sea fisheries.
 
@@ -34,6 +34,6 @@ summary: ''
 
 [^c18733891]: Textual amendment: S. 105(1) repealed (subject to other provisions of the amending Act) (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1/3), [Sch. 22 para. 146](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/146), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-688557e08b49651a6a72ccb3a9100539]: Textual amendment: Words in ss. 105-107 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-688557e08b49651a6a72ccb3a9100539]: Textual amendment: Words in ss. 105-107 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18733911]: Marginal citation: [1975 c. 51](https://www.legislation.gov.uk/ukpga/1975/51).

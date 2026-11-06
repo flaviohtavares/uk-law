@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Rights and duties of tax representatives.[^key-eaa7f03b0b318834ab0656157d27927f]
+## 58. Rights and duties of tax representatives.[^c-eaa7f03b0b318834ab0656157d27927f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaa7f03b0b318834ab0656157d27927f]: Textual amendment: S. 58 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(1)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/1/a)
+[^c-eaa7f03b0b318834ab0656157d27927f]: Textual amendment: S. 58 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(1)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Determination of accreditation applications[^key-24f16cc135981a3eff699fd1a094b6c9]
+## 97. Determination of accreditation applications[^c-24f16cc135981a3eff699fd1a094b6c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24f16cc135981a3eff699fd1a094b6c9]: Commencement: Reg. 97 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-24f16cc135981a3eff699fd1a094b6c9]: Commencement: Reg. 97 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

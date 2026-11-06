@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Evidential status of extract or certified copy[^key-e21f46be2e2b0f61b9db1b721a0d503d]
+## 105. Evidential status of extract or certified copy[^c-e21f46be2e2b0f61b9db1b721a0d503d]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e21f46be2e2b0f61b9db1b721a0d503d]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2012/5/section/105) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-e21f46be2e2b0f61b9db1b721a0d503d]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2012/5/section/105) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. New York Convention awards[^key-024b86ad7405c505cfb4ff5ae8d283a8]
+## 18. New York Convention awards[^c-024b86ad7405c505cfb4ff5ae8d283a8]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-024b86ad7405c505cfb4ff5ae8d283a8]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2010/1/section/18) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-024b86ad7405c505cfb4ff5ae8d283a8]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2010/1/section/18) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

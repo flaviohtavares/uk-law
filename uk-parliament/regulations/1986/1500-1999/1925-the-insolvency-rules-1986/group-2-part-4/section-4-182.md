@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.182. Supplementary provisions as to dividend[^key-c7c0ac32663048380e4807386bcc3ece]
+## 4.182. Supplementary provisions as to dividend[^c-c7c0ac32663048380e4807386bcc3ece]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7c0ac32663048380e4807386bcc3ece]: Commencement: [Rule 4.182](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.182) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c7c0ac32663048380e4807386bcc3ece]: Commencement: [Rule 4.182](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.182) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

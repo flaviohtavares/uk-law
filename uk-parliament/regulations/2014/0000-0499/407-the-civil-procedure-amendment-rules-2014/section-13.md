@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**13.**[^key-e35767e52ae599148e74c677f94672e5] In rule 23.2—
+**13.**[^c-e35767e52ae599148e74c677f94672e5] In rule 23.2—
 
 - (a) in paragraph (1), after “made to the court” insert “or County Court hearing centre”;
 - (b) for paragraph (2) substitute—
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e35767e52ae599148e74c677f94672e5]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2014/407/rule/13) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-e35767e52ae599148e74c677f94672e5]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2014/407/rule/13) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

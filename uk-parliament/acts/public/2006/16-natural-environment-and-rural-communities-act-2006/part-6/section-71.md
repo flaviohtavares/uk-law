@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Interpretation[^key-568e0f609a8685b531fb527ecd714463][^key-7db1da17f3add70df57ff819a89f60de]
+## 71. Interpretation[^c-568e0f609a8685b531fb527ecd714463][^c-7db1da17f3add70df57ff819a89f60de]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-568e0f609a8685b531fb527ecd714463]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2006/16/section/71) in force at 2.5.2006 for E. immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
+[^c-568e0f609a8685b531fb527ecd714463]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2006/16/section/71) in force at 2.5.2006 for E. immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
 
-[^key-7db1da17f3add70df57ff819a89f60de]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2006/16/section/71) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)
+[^c-7db1da17f3add70df57ff819a89f60de]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2006/16/section/71) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)

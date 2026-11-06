@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Financial assistance[^key-70f1647335e9d453a5e6fab49df2196f]
+## 129. Financial assistance[^c-70f1647335e9d453a5e6fab49df2196f]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70f1647335e9d453a5e6fab49df2196f]: Commencement: S. 129 in force at Royal Assent, see [s. 334(2)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/b)
+[^c-70f1647335e9d453a5e6fab49df2196f]: Commencement: S. 129 in force at Royal Assent, see [s. 334(2)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/b)

@@ -35,7 +35,7 @@ An Act to authorise the use of resources for the year ending with 31 March 2026;
 
 Whereas the Commons of the United Kingdom in Parliament assembled have resolved to authorise the use of resources and the issue of sums out of the Consolidated Fund towards making good the supply which they have granted to His Majesty in this Session of Parliament:—
 
-Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-344317e9543fc9ff8f30eefbe09a0fd0]
+Be it therefore enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-344317e9543fc9ff8f30eefbe09a0fd0]
 
 ## 1. Main authorisation for use of resources for 2025-26
 
@@ -1328,4 +1328,4 @@ The Local Government Boundary Commission for England
 
 ## Annotations
 
-[^key-344317e9543fc9ff8f30eefbe09a0fd0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2025/19) modified (with effect in accordance with s. 3(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2026 (c. 10)](https://www.legislation.gov.uk/ukpga/2026/10), [s. 3 Sch. 1](https://www.legislation.gov.uk/ukpga/2026/10/section/3/schedule/1)
+[^c-344317e9543fc9ff8f30eefbe09a0fd0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2025/19) modified (with effect in accordance with s. 3(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2026 (c. 10)](https://www.legislation.gov.uk/ukpga/2026/10), [s. 3 Sch. 1](https://www.legislation.gov.uk/ukpga/2026/10/section/3/schedule/1)

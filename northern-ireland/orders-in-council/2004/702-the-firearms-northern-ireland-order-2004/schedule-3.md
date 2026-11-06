@@ -32,7 +32,7 @@ Article 38(2)
 
 **5.** The quantities and descriptions of firearms and ammunition in possession for sale or transfer at the date of the last stocktaking or such other date in each year as may be specified in the record.
 
-**6.**[^key-647ce7fb41725efe35ce00d6b00e4557] References in paragraphs 1 to 5 to a description of a firearm include—
+**6.**[^c-647ce7fb41725efe35ce00d6b00e4557] References in paragraphs 1 to 5 to a description of a firearm include—
 
 - (a) in the case of firearms manufactured before 14th September 2018 and firearms of historical importance—
   - (i) the type of firearm;
@@ -55,4 +55,4 @@ Article 38(2)
 
 ## Annotations
 
-[^key-647ce7fb41725efe35ce00d6b00e4557]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisi/2004/702/schedule/3/paragraph/6) substituted (12.12.2019) by [The Firearms Regulations 2019 (S.I. 2019/1420)](https://www.legislation.gov.uk/uksi/2019/1420), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1420/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/1420/regulation/5/4)
+[^c-647ce7fb41725efe35ce00d6b00e4557]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisi/2004/702/schedule/3/paragraph/6) substituted (12.12.2019) by [The Firearms Regulations 2019 (S.I. 2019/1420)](https://www.legislation.gov.uk/uksi/2019/1420), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1420/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/1420/regulation/5/4)

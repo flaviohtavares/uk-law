@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 389. References under sections 387 and 388: appeals[^key-4badd9932b4692a8b9c43508239eac07]
+## 389. References under sections 387 and 388: appeals[^c-4badd9932b4692a8b9c43508239eac07]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ may, with the leave of the Court of Appeal, appeal to the Court of Appeal agains
 
 ## Annotations
 
-[^key-4badd9932b4692a8b9c43508239eac07]: Commencement: S. 389 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4badd9932b4692a8b9c43508239eac07]: Commencement: S. 389 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

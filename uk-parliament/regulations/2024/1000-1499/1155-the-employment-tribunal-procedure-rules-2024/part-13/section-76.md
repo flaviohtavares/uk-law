@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. The amount of a costs order[^key-b97b58949b59b13e01a0f352f0a34bc6]
+## 76. The amount of a costs order[^c-b97b58949b59b13e01a0f352f0a34bc6]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b97b58949b59b13e01a0f352f0a34bc6]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2024/1155/rule/76) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-b97b58949b59b13e01a0f352f0a34bc6]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2024/1155/rule/76) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00033]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).
 

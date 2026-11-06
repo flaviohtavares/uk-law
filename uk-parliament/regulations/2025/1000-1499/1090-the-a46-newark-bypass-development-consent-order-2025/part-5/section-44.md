@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Public rights of way[^key-c1d4ac7a55ebddc13f3ecd9e98978d67]
+## 44. Public rights of way[^c-c1d4ac7a55ebddc13f3ecd9e98978d67]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1d4ac7a55ebddc13f3ecd9e98978d67]: Commencement: Art. 44 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-c1d4ac7a55ebddc13f3ecd9e98978d67]: Commencement: Art. 44 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

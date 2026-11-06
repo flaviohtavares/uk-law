@@ -58,7 +58,7 @@ These Regulations may be cited as the Control of Lead at Work Regulations 2002 a
   - (b) in respect of a young person, 40℞g/dl; or
   - (c) in respect of any other employee, 50℞g/dl;
 - “appointed doctor” means a registered medical practitioner appointed for the time being in writing by the Executive for the purpose of these Regulations;
-- “appropriate authority” means—[^key-2ad89f64585fdfb98414c4d4dedf291b]
+- “appropriate authority” means—[^c-2ad89f64585fdfb98414c4d4dedf291b]
   - (a) in relation to a record which relates to employment wholly or mainly on—
     - (i) a GB nuclear site (within the meaning given in section 68 of the Energy Act 2013);
     - (ii) an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or
@@ -75,7 +75,7 @@ These Regulations may be cited as the Control of Lead at Work Regulations 2002 a
 - “lead” means lead (including lead alkyls, lead alloys, any compounds of lead and lead as a constituent of any substance or material) which is liable to be inhaled, ingested or otherwise absorbed by persons except where it is given off from the exhaust system of a vehicle on a road within the meaning of section 192 of the Road Traffic Act 1988 [^c9625561];
 - “lead alkyls” means tetraethyl lead or tetramethyl lead;
 - “leadless glaze” means a glaze which contains less than 0.5 per cent lead by weight of the element lead calculated with reference to the total weight of the preparation;
-- “low solubility glaze” means a glaze which does not yield to dilute hydrochloric acid more than 5 per cent of its dry weight of a soluble lead compound when determined in accordance with a method approved by the Health and Safety Executive[^key-1c22f0d5136c599a07ff7bf3ea1de2cf];
+- “low solubility glaze” means a glaze which does not yield to dilute hydrochloric acid more than 5 per cent of its dry weight of a soluble lead compound when determined in accordance with a method approved by the Health and Safety Executive[^c-1c22f0d5136c599a07ff7bf3ea1de2cf];
 - “medical surveillance” means assessment of the state of health of an employee, as related to exposure to lead, and includes clinical assessment and biological monitoring;
 - “occupational exposure limit for lead” means in relation to—
   - (a) lead other than lead alkyls, a concentration of lead in the atmosphere to which any employee is exposed of 0.15 mg/m<sup>3</sup>; and
@@ -130,7 +130,7 @@ is a reference to exposure to or, as the case may be, contamination by lead aris
 
 (2) These Regulations shall apply to a self-employed person as they apply to an employer and an employee and as if that self-employed person were both an employer and an employee, except that regulation 9 (air monitoring) shall not apply to a self-employed person.
 
-(3)[^key-797d0ddeac057b581efb7bf0bb61a996] These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which—
+(3)[^c-797d0ddeac057b581efb7bf0bb61a996] These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which—
 
 - (a) are carried out solely by the crew under the direction of the master; and
 - (b) are not liable to expose persons other than the master and crew to a risk to their health and safety,
@@ -211,7 +211,7 @@ and where, as a result of the review, changes to the risk assessment are require
 
 (7) Personal protective equipment provided by an employer in accordance with this regulation shall be suitable for the purpose and shall—
 
-- (a) comply with any legal requirement[^key-cb239194ad0740a454df6cb7e16d2f97] which is applicable to that item of personal protective equipment; or
+- (a) comply with any legal requirement[^c-cb239194ad0740a454df6cb7e16d2f97] which is applicable to that item of personal protective equipment; or
 - (b) in the case of respiratory protective equipment, where no provision referred to in sub-paragraph (a) applies, be of a type approved or shall conform to a standard approved, in either case, by the Executive.
 
 (8) Every employer who provides any control measure, other thing or facility in accordance with these Regulations shall take all reasonable steps to ensure that it is properly used or applied as the case may be.
@@ -223,7 +223,7 @@ and where, as a result of the review, changes to the risk assessment are require
 
 (10) In this regulation, “adequate” means adequate having regard only to the nature and degree of exposure to lead and “adequately” shall be construed accordingly.
 
-(11)[^key-a0c590f99f987777ced27cddd0dd4657] In paragraph (7)(a) “legal requirement” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council [Directive 89/686/EEC](https://www.legislation.gov.uk/eudr/1989/0686) [^key-c23a644bdac1e7c9451b6e361a739a15]... .
+(11)[^c-a0c590f99f987777ced27cddd0dd4657] In paragraph (7)(a) “legal requirement” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council [Directive 89/686/EEC](https://www.legislation.gov.uk/eudr/1989/0686) [^c-c23a644bdac1e7c9451b6e361a739a15]... .
 
 ## 7. Eating, drinking and smoking
 
@@ -235,7 +235,7 @@ and where, as a result of the review, changes to the risk assessment are require
 
 ## 8. Maintenance, examination and testing of control measures
 
-(1)[^key-dcc2965c5117efc28e6c2b72b60e0667] Every employer who provides any control measure to meet the requirements of regulation 6 shall ensure that—
+(1)[^c-dcc2965c5117efc28e6c2b72b60e0667] Every employer who provides any control measure to meet the requirements of regulation 6 shall ensure that—
 
 - (a) in the case of plant and equipment, including engineering controls and personal protective equipment, it is maintained in an efficient state, in efficient working order, in good repair and in a clean condition; and
 - (b) in the case of the provision of systems of work and supervision and any other measure, it is reviewed at suitable intervals and revised if necessary.
@@ -277,7 +277,7 @@ and where, as a result of the review, changes to the risk assessment are require
 (6) The employer shall—
 
 - (a) on reasonable notice being given, allow an employee access to his personal monitoring record;
-- (b) provide the appropriate authority[^key-2fd7631a5c19e181f68b6fbca6fcd96b] with copies of such monitoring records as the appropriate authority may require; and
+- (b) provide the appropriate authority[^c-2fd7631a5c19e181f68b6fbca6fcd96b] with copies of such monitoring records as the appropriate authority may require; and
 - (c) if he ceases to trade, notify the Executive forthwith in writing and make available to the Executive all monitoring records kept by him.
 
 ## 10. Medical surveillance
@@ -314,7 +314,7 @@ and the technique of investigation is of low risk to the employee.
 (6) The employer shall—
 
 - (a) on reasonable notice being given, allow an employee access to his personal health record;
-- (b) provide the appropriate authority[^key-4a206dd7c12ec190247a7f1f9e2e34fa] with copies of such health records as the appropriate authority may require; and
+- (b) provide the appropriate authority[^c-4a206dd7c12ec190247a7f1f9e2e34fa] with copies of such health records as the appropriate authority may require; and
 - (c) if he ceases to trade, notify the Executive forthwith in writing and make available to the Executive all health records kept by him.
 
 (7) Where the blood-lead concentration for an employee equals or exceeds the appropriate action level, the employer shall take steps to determine the reason or reasons for the high level of lead in blood and shall, so far as is reasonably practicable, give effect to measures designed to reduce the blood-lead concentration of that employee to a level below the appropriate action level.
@@ -347,7 +347,7 @@ and the technique of investigation is of low risk to the employee.
 - (a) under paragraph (10) that an employee should not be engaged in work which exposes that employee to lead (or which imposes conditions on such work); or
 - (b) under paragraph (14) that a female employee is of reproductive capacity,
 
-the employee or employer may, by an application in writing to the Executive within 28 days of the date upon which the decision was notified to the employee or employer as the case may be, apply for that decision to be reviewed in accordance with a procedure approved by the Health and Safety Executive[^key-df9485f37655d52d7f44cdac39305696], and the result of that review shall be notified to the employee and employer and entered in the health record in accordance with the approved procedure.
+the employee or employer may, by an application in writing to the Executive within 28 days of the date upon which the decision was notified to the employee or employer as the case may be, apply for that decision to be reviewed in accordance with a procedure approved by the Health and Safety Executive[^c-df9485f37655d52d7f44cdac39305696], and the result of that review shall be notified to the employee and employer and entered in the health record in accordance with the approved procedure.
 
 ## 11. Information, instruction and training
 
@@ -427,9 +427,9 @@ These Regulations shall apply to and in relation to any activity outside Great B
 
 (1) The Control of Lead at Work Regulations 1998 [^c9625641] are revoked.
 
-(2) Any record required to be kept under the Regulations revoked by paragraph (1) shall, notwithstanding that revocation, be kept in the same manner and for the same period as specified in those Regulations as if these Regulations had not been made, except that the relevant authority[^key-a7a154e456f46b921a8b29f6f00a8163] may approve the keeping of records at a place or in a form other than at the place where, or in the form in which, records were required to be kept under the Regulations so revoked.
+(2) Any record required to be kept under the Regulations revoked by paragraph (1) shall, notwithstanding that revocation, be kept in the same manner and for the same period as specified in those Regulations as if these Regulations had not been made, except that the relevant authority[^c-a7a154e456f46b921a8b29f6f00a8163] may approve the keeping of records at a place or in a form other than at the place where, or in the form in which, records were required to be kept under the Regulations so revoked.
 
-(3)[^key-41f9f00cbdfdfcbcad02684fd69d7487] In this regulation “relevant authority” means—
+(3)[^c-41f9f00cbdfdfcbcad02684fd69d7487] In this regulation “relevant authority” means—
 
 - (a) where it is the enforcing authority for the purposes of these Regulations, the Office for Nuclear Regulation;
 - (b) otherwise, the Executive.
@@ -465,15 +465,15 @@ Regulation 4(2)
 
 Regulation 11(5)
 
-The Health and Safety (Safety Signs and Signals) Regulations 1996 ([^key-a05c49c8bc93348ec256a19706510c31][S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341));
+The Health and Safety (Safety Signs and Signals) Regulations 1996 ([^c-a05c49c8bc93348ec256a19706510c31][S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341));
 
 The Good Laboratory Practice Regulations 1999 ([S.I. 1999/3106](https://www.legislation.gov.uk/uksi/1999/3106));
 
-[^key-6d218b7aa65a9b1b8653172606ff0f36]...
+[^c-6d218b7aa65a9b1b8653172606ff0f36]...
 
-Regulation[^key-a031766b8993a82a0f35bf61f54136e6] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) and [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
+Regulation[^c-a031766b8993a82a0f35bf61f54136e6] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) and [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
 
-The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 ([^key-fa6fabc63bba7d8ffdce9aa8af8e180f][S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348)).
+The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 ([^c-fa6fabc63bba7d8ffdce9aa8af8e180f][S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348)).
 
 *(This note is not part of the Regulations)*
 
@@ -505,11 +505,11 @@ The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regu
 
 [^c9625551]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); [sections 11(2)](https://www.legislation.gov.uk/uksi/2002/2676/section/11/2), [15(1)](https://www.legislation.gov.uk/uksi/2002/2676/section/15/1) and 50(3) were amended by the [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraphs 4](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/6) and 16(3) respectively.
 
-[^key-2ad89f64585fdfb98414c4d4dedf291b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-2ad89f64585fdfb98414c4d4dedf291b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c9625561]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-1c22f0d5136c599a07ff7bf3ea1de2cf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2676/regulation/2) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+[^c-1c22f0d5136c599a07ff7bf3ea1de2cf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2676/regulation/2) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
 
 [^c9625571]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
@@ -519,21 +519,21 @@ The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regu
 
 [^c9625601]: Marginal citation: [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677).
 
-[^key-797d0ddeac057b581efb7bf0bb61a996]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/3/3) substituted (17.1.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations 2004 (S.I. 2004/3386)](https://www.legislation.gov.uk/uksi/2004/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3386/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2004/3386/regulation/4/a)
+[^c-797d0ddeac057b581efb7bf0bb61a996]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/3/3) substituted (17.1.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations 2004 (S.I. 2004/3386)](https://www.legislation.gov.uk/uksi/2004/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3386/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2004/3386/regulation/4/a)
 
-[^key-cb239194ad0740a454df6cb7e16d2f97]: Textual amendment: Words in [reg. 6(7)(a)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/6/7/a) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 2(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/2/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-cb239194ad0740a454df6cb7e16d2f97]: Textual amendment: Words in [reg. 6(7)(a)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/6/7/a) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 2(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/2/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
 
-[^key-a0c590f99f987777ced27cddd0dd4657]: Textual amendment: [Reg. 6(11)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/6/11) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 2(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/2/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-a0c590f99f987777ced27cddd0dd4657]: Textual amendment: [Reg. 6(11)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/6/11) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 2(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/2/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
 
-[^key-c23a644bdac1e7c9451b6e361a739a15]: Textual amendment: Words in [reg. 6(11)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/6/11) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 35 para. 2(3)](https://www.legislation.gov.uk/uksi/2019/696/schedule/35/paragraph/2/3) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c23a644bdac1e7c9451b6e361a739a15]: Textual amendment: Words in [reg. 6(11)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/6/11) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 35 para. 2(3)](https://www.legislation.gov.uk/uksi/2019/696/schedule/35/paragraph/2/3) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dcc2965c5117efc28e6c2b72b60e0667]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/8/1) substituted (6.4.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations 2004 (S.I. 2004/3386)](https://www.legislation.gov.uk/uksi/2004/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3386/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2004/3386/regulation/4/b)
+[^c-dcc2965c5117efc28e6c2b72b60e0667]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/8/1) substituted (6.4.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations 2004 (S.I. 2004/3386)](https://www.legislation.gov.uk/uksi/2004/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3386/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2004/3386/regulation/4/b)
 
-[^key-2fd7631a5c19e181f68b6fbca6fcd96b]: Textual amendment: Words in [reg. 9(6)(b)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/9/6/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-2fd7631a5c19e181f68b6fbca6fcd96b]: Textual amendment: Words in [reg. 9(6)(b)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/9/6/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-4a206dd7c12ec190247a7f1f9e2e34fa]: Textual amendment: Words in [reg. 10(6)(b)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/10/6/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-4a206dd7c12ec190247a7f1f9e2e34fa]: Textual amendment: Words in [reg. 10(6)(b)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/10/6/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-df9485f37655d52d7f44cdac39305696]: Textual amendment: Words in reg. 10(15) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+[^c-df9485f37655d52d7f44cdac39305696]: Textual amendment: Words in reg. 10(15) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
 
 [^c9625621]: Marginal citation: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242).
 
@@ -541,14 +541,14 @@ The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regu
 
 [^c9625641]: Marginal citation: [S.I. 1998/543](https://www.legislation.gov.uk/uksi/1998/543).
 
-[^key-a7a154e456f46b921a8b29f6f00a8163]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/15/2) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(5)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/5/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-a7a154e456f46b921a8b29f6f00a8163]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/15/2) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(5)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/5/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-41f9f00cbdfdfcbcad02684fd69d7487]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/15/3) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(5)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/5/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-41f9f00cbdfdfcbcad02684fd69d7487]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/15/3) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(5)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/5/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-a05c49c8bc93348ec256a19706510c31]: Textual amendment: Words in Sch. 2 substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 13](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/13)
+[^c-a05c49c8bc93348ec256a19706510c31]: Textual amendment: Words in Sch. 2 substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 13](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/13)
 
-[^key-6d218b7aa65a9b1b8653172606ff0f36]: Textual amendment: Words in Sch. 2 omitted (1.7.2007) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [94](https://www.legislation.gov.uk/uksi/2007/1573/regulation/94), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
+[^c-6d218b7aa65a9b1b8653172606ff0f36]: Textual amendment: Words in Sch. 2 omitted (1.7.2007) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [94](https://www.legislation.gov.uk/uksi/2007/1573/regulation/94), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
 
-[^key-a031766b8993a82a0f35bf61f54136e6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2676/schedule/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [11(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/11/2/a)
+[^c-a031766b8993a82a0f35bf61f54136e6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2676/schedule/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [11(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/11/2/a)
 
-[^key-fa6fabc63bba7d8ffdce9aa8af8e180f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2676/schedule/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [11(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/11/2/b)
+[^c-fa6fabc63bba7d8ffdce9aa8af8e180f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2676/schedule/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [11(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/11/2/b)

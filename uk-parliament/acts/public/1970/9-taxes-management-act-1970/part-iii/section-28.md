@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Non-resident companies and trusts.[^key-a52e0514c6ce49b6d1f7e89161f822ef]
+## 28. Non-resident companies and trusts.[^c-a52e0514c6ce49b6d1f7e89161f822ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a52e0514c6ce49b6d1f7e89161f822ef]: Textual amendment: S. 28 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/6)
+[^c-a52e0514c6ce49b6d1f7e89161f822ef]: Textual amendment: S. 28 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/6)

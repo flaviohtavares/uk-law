@@ -46,11 +46,11 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act, a draft of this ins
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act makes the following Regulations:
 
-## 1. Citation and commencement[^key-4337a6057586eefb130271b3e13c4b7e]
+## 1. Citation and commencement[^c-4337a6057586eefb130271b3e13c4b7e]
 
 These Regulations may be cited as the Copyright (Public Administration) Regulations 2014 and come into force on 1st June 2014.
 
-## 2. Public administration[^key-90352caf9fcece47d419d775a728523c]
+## 2. Public administration[^c-90352caf9fcece47d419d775a728523c]
 
 (1) For section 47(2) and (3) of the Copyright, Designs and Patents Act 1988[^f00003] substitute—
 
@@ -87,7 +87,7 @@ These Regulations may be cited as the Copyright (Public Administration) Regulati
 > - (b) issuing copies of the work to the public, and
 > - (c) making the work (or a copy of it) available to the public by electronic transmission in such a way that members of the public may access it from a place and at a time individually chosen by them.
 
-## 3. Repeal of section 118A of the Patents Act 1977[^key-f5cb41a6950a9386ead6c0981e3755b6]
+## 3. Repeal of section 118A of the Patents Act 1977[^c-f5cb41a6950a9386ead6c0981e3755b6]
 
 (1) Section 118A of the Patents Act 1977[^f00004] (copyright in documents made available electronically for inspection under section 118(1)) is repealed.
 
@@ -119,13 +119,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [S.1. 1992/707](https://www.legislation.gov.uk/uksi/1992/707) and [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-4337a6057586eefb130271b3e13c4b7e]: Commencement: Reg. 1 in force at 1.6.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1)
+[^c-4337a6057586eefb130271b3e13c4b7e]: Commencement: Reg. 1 in force at 1.6.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1)
 
-[^key-90352caf9fcece47d419d775a728523c]: Commencement: Reg. 2 in force at 1.6.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1)
+[^c-90352caf9fcece47d419d775a728523c]: Commencement: Reg. 2 in force at 1.6.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1)
 
 [^f00003]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-f5cb41a6950a9386ead6c0981e3755b6]: Commencement: Reg. 3 in force at 1.6.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1)
+[^c-f5cb41a6950a9386ead6c0981e3755b6]: Commencement: Reg. 3 in force at 1.6.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1)
 
 [^f00004]: Footnote: [1977 c 37](https://www.legislation.gov.uk/ukpga/1977/37).
 

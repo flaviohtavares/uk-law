@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Slaughter Premium Regulations 2000 (revoked)[^key-a0b222dd179177fc48a823156858152b]
+The Slaughter Premium Regulations 2000 (revoked)[^c-a0b222dd179177fc48a823156858152b]
 
 Made
 
@@ -45,180 +45,180 @@ Coming into force
 
 29th December 2000
 
-[^key-a0b222dd179177fc48a823156858152b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0b222dd179177fc48a823156858152b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — Introduction[^key-a0b222dd179177fc48a823156858152b]
+## PART I — Introduction[^c-a0b222dd179177fc48a823156858152b]
 
-### 1. Title and commencement[^key-a0b222dd179177fc48a823156858152b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-a0b222dd179177fc48a823156858152b]
+### 1. Title and commencement[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — Conditions for payment of slaughter premium[^key-a0b222dd179177fc48a823156858152b]
-
-### 3. Application of regulations 4 to 11 and 20 (where relating to Part II)[^key-a0b222dd179177fc48a823156858152b]
+### 2. Interpretation[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Claims for slaughter premium[^key-a0b222dd179177fc48a823156858152b]
+## PART II — Conditions for payment of slaughter premium[^c-a0b222dd179177fc48a823156858152b]
+
+### 3. Application of regulations 4 to 11 and 20 (where relating to Part II)[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Period for submitting claims[^key-a0b222dd179177fc48a823156858152b]
+### 4. Claims for slaughter premium[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Limit on number of claims[^key-a0b222dd179177fc48a823156858152b]
+### 5. Period for submitting claims[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-a0b222dd179177fc48a823156858152b]
+### Limit on number of claims[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Slaughter in registered slaughterhouses[^key-a0b222dd179177fc48a823156858152b]
+### 6.[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7.[^key-a0b222dd179177fc48a823156858152b]
+### Slaughter in registered slaughterhouses[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Overgrazing[^key-a0b222dd179177fc48a823156858152b]
+### 7.[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Unsuitable supplementary feeding methods[^key-a0b222dd179177fc48a823156858152b]
+### 8. Overgrazing[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Withholding and recovery of slaughter premium[^key-a0b222dd179177fc48a823156858152b]
+### 9. Unsuitable supplementary feeding methods[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Rate of interest[^key-a0b222dd179177fc48a823156858152b]
+### 10. Withholding and recovery of slaughter premium[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — Registration of slaughterhouses[^key-a0b222dd179177fc48a823156858152b]
-
-### 12. Application of regulations 13 to 19 and 20 (where relating to Part III)[^key-a0b222dd179177fc48a823156858152b]
+### 11. Rate of interest[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Application for registration[^key-a0b222dd179177fc48a823156858152b]
+## PART III — Registration of slaughterhouses[^c-a0b222dd179177fc48a823156858152b]
+
+### 12. Application of regulations 13 to 19 and 20 (where relating to Part III)[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Registration of slaughterhouses[^key-a0b222dd179177fc48a823156858152b]
+### 13. Application for registration[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Breach of conditions of registration[^key-a0b222dd179177fc48a823156858152b]
+### 14. Registration of slaughterhouses[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Cancellation of registration[^key-a0b222dd179177fc48a823156858152b]
+### 15. Breach of conditions of registration[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Cancellation procedure[^key-a0b222dd179177fc48a823156858152b]
+### 16. Cancellation of registration[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Display of notice of cancellation[^key-a0b222dd179177fc48a823156858152b]
+### 17. Cancellation procedure[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Registration following cancellation[^key-a0b222dd179177fc48a823156858152b]
+### 18. Display of notice of cancellation[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — Notices[^key-a0b222dd179177fc48a823156858152b]
-
-### 20. Service of notices[^key-a0b222dd179177fc48a823156858152b]
+### 19. Registration following cancellation[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART V — Enforcement[^key-a0b222dd179177fc48a823156858152b]
+## PART IV — Notices[^c-a0b222dd179177fc48a823156858152b]
 
-### 21. Application of regulations 22 to 31[^key-a0b222dd179177fc48a823156858152b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 22. Retention of records[^key-a0b222dd179177fc48a823156858152b]
+### 20. Service of notices[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Exercise of powers by authorised persons[^key-a0b222dd179177fc48a823156858152b]
+## PART V — Enforcement[^c-a0b222dd179177fc48a823156858152b]
+
+### 21. Application of regulations 22 to 31[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Powers of entry and inspection[^key-a0b222dd179177fc48a823156858152b]
+### 22. Retention of records[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Powers in relation to documents[^key-a0b222dd179177fc48a823156858152b]
+### 23. Exercise of powers by authorised persons[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Assistance to authorised persons[^key-a0b222dd179177fc48a823156858152b]
+### 24. Powers of entry and inspection[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Limits on powers of authorised persons[^key-a0b222dd179177fc48a823156858152b]
+### 25. Powers in relation to documents[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Offences[^key-a0b222dd179177fc48a823156858152b]
+### 26. Assistance to authorised persons[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Penalties[^key-a0b222dd179177fc48a823156858152b]
+### 27. Limits on powers of authorised persons[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Time limit for prosecutions[^key-a0b222dd179177fc48a823156858152b]
+### 28. Offences[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Offences by bodies corporate[^key-a0b222dd179177fc48a823156858152b]
+### 29. Penalties[^c-a0b222dd179177fc48a823156858152b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0b222dd179177fc48a823156858152b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 30. Time limit for prosecutions[^c-a0b222dd179177fc48a823156858152b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Offences by bodies corporate[^c-a0b222dd179177fc48a823156858152b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a0b222dd179177fc48a823156858152b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — CONDITIONS TO BE COMPLIED WITH BYREGISTERED SLAUGHTERHOUSES[^key-a0b222dd179177fc48a823156858152b]
+## SCHEDULE — CONDITIONS TO BE COMPLIED WITH BYREGISTERED SLAUGHTERHOUSES[^c-a0b222dd179177fc48a823156858152b]
 
 Regulations 4(2), 7(2) and 13(2)(g)
 
-### PART I — Conditions applicable to all premium animals[^key-a0b222dd179177fc48a823156858152b]
+### PART I — Conditions applicable to all premium animals[^c-a0b222dd179177fc48a823156858152b]
 
-**1.**[^key-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Conditions applicable to premium calves slaughtered at five or six months old[^key-a0b222dd179177fc48a823156858152b]
+### PART II — Conditions applicable to premium calves slaughtered at five or six months old[^c-a0b222dd179177fc48a823156858152b]
 
-**5.**[^key-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a0b222dd179177fc48a823156858152b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a0b222dd179177fc48a823156858152b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0b222dd179177fc48a823156858152b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a0b222dd179177fc48a823156858152b]: Textual amendment: Regulations revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2005 (S.I. 2005/219)](https://www.legislation.gov.uk/uksi/2005/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/1/1), [15(6)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/219/schedule/3) (with [reg. 15(8)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/8))
+[^c-a0b222dd179177fc48a823156858152b]: Textual amendment: Regulations revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2005 (S.I. 2005/219)](https://www.legislation.gov.uk/uksi/2005/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/1/1), [15(6)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/219/schedule/3) (with [reg. 15(8)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/8))

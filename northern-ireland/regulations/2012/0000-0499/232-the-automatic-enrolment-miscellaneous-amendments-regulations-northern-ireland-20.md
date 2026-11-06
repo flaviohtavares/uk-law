@@ -65,11 +65,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 .
 
-(4)[^key-56d3e9e56f05e241b5ccda1188a3d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-56d3e9e56f05e241b5ccda1188a3d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-56d3e9e56f05e241b5ccda1188a3d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-56d3e9e56f05e241b5ccda1188a3d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-56d3e9e56f05e241b5ccda1188a3d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-56d3e9e56f05e241b5ccda1188a3d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In regulation 12 (automatic re-enrolment dates)—
 
@@ -79,11 +79,11 @@ The Department for Social Development makes the following Regulations in exercis
 - (b) omit paragraph (2);
 - (c) in paragraph (3) for the words from “which—” to the end substitute “ which the jobholder ceases to be an active member of the scheme. ”.
 
-(8)[^key-ff0951cdf73b82a0b2202a18356277f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-ff0951cdf73b82a0b2202a18356277f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-339484825e1b7e54f85b2a8eab541240] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-339484825e1b7e54f85b2a8eab541240] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-8b4173875fc345a2d49931a5728d60ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-8b4173875fc345a2d49931a5728d60ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In Part 6 (postponement of automatic enrolment) in the heading after “Postponement” insert “ or disapplication ”.
 
@@ -135,18 +135,18 @@ The Department for Social Development makes the following Regulations in exercis
 
 .
 
-(15)[^key-66a9f18a1ac959ceb35c83b7aa1d11c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-66a9f18a1ac959ceb35c83b7aa1d11c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) In regulation 37 (test scheme: requirements to revalue accrued benefits and increase pensions in payment)—
 
 - (a) in paragraph (1) for “section 23(1)(b)” substitute “ section 23(1)(c) ”;
 - (b) at the end of paragraph (2)(b) add “ in relation to a scheme which provides for a member to be entitled to a pension commencing at the appropriate age and continuing for life ”.
 
-(17)[^key-b55e50ab1c78a857dbaf436254038d75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17)[^c-b55e50ab1c78a857dbaf436254038d75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (18) In regulation 39(4)(b)(v) (requirements for meeting the test scheme standard) omit “subject to regulations 41 and 42,”.
 
-(19)[^key-fff6681344bc2eba7c51939c17b49944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(19)[^c-fff6681344bc2eba7c51939c17b49944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (20) In regulation 43 (modification allowing different quality requirements to be satisfied in aggregate)—
 
@@ -204,7 +204,7 @@ The Department for Social Development makes the following Regulations in exercis
   > commencing on the day following the last day of the month in which the amount is deducted from the earnings in question.
 
   ;
-- (b)[^key-406af3637358de586eab5dd7de1307ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-406af3637358de586eab5dd7de1307ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (24) In regulation 49 (amendment of the Personal Pension Schemes (Payments by Employers) Regulations) in substituted regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulations (Northern Ireland) 2000 [^c21296811]—
 
@@ -218,12 +218,12 @@ The Department for Social Development makes the following Regulations in exercis
   > commencing on the day following the last day of the month in which the deduction was made from the employee's earnings.
 
   ;
-- (b)[^key-3c0de10bd17a2023473aa46b17dc597a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-3c0de10bd17a2023473aa46b17dc597a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3c0de10bd17a2023473aa46b17dc597a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3c0de10bd17a2023473aa46b17dc597a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (25) In regulation 50(2) (due date for the purposes of section 37(3)) for “19th” substitute “ 22nd ”.
 
-(26)[^key-6135b0ba9e52081ddbe698eda9a57760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(26)[^c-6135b0ba9e52081ddbe698eda9a57760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (27) After Schedule 1 add Schedule 2 as set out in the Schedule to these Regulations.
 
@@ -296,7 +296,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (4) In regulation 3 (registration: after staging date and new PAYE schemes)—
 
-- (a)[^key-3cf9ee9be3b8e4fc0bbf229c19b8ad71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3cf9ee9be3b8e4fc0bbf229c19b8ad71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (2)—
   - (i) in sub-paragraph (a)—
     - (aa) in head (i) before “address” insert “ name, ”;
@@ -329,7 +329,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (5) In regulation 4 (registration: re-registration)—
 
-- (a)[^key-0f2380991dd0a2ef8e25384ef331f049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0f2380991dd0a2ef8e25384ef331f049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (3) for sub-paragraphs (c), (d) and (e) substitute—
 
   > - (c) where the employer must arrange active membership of an automatic enrolment scheme for any worker who is a jobholder under section 5(2)—
@@ -533,33 +533,33 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^c21296741]: Marginal citation: [Schedule 2](https://www.legislation.gov.uk/nisr/2012/232/schedule/2) is added by regulation 2(27) of these Regulations
 
-[^key-56d3e9e56f05e241b5ccda1188a3d56d]: Textual amendment: [Reg. 2(4)-(6)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/4) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
+[^c-56d3e9e56f05e241b5ccda1188a3d56d]: Textual amendment: [Reg. 2(4)-(6)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/4) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
 
-[^key-ff0951cdf73b82a0b2202a18356277f9]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/8) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(b)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/b)
+[^c-ff0951cdf73b82a0b2202a18356277f9]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/8) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(b)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/b)
 
-[^key-339484825e1b7e54f85b2a8eab541240]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/9) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(b)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/b)
+[^c-339484825e1b7e54f85b2a8eab541240]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/9) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(b)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/b)
 
-[^key-8b4173875fc345a2d49931a5728d60ca]: Textual amendment: [Reg. 2(10)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/10) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(b)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/b)
+[^c-8b4173875fc345a2d49931a5728d60ca]: Textual amendment: [Reg. 2(10)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/10) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(b)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/b)
 
 [^c21296771]: Marginal citation: [Section 30(3)](https://www.legislation.gov.uk/nisr/2012/232/section/30/3) was amended by section 15(2) of the Pensions Act (Northern Ireland) 2012
 
 [^c21296781]: Marginal citation: [Section 3](https://www.legislation.gov.uk/nisr/2012/232/section/3) was amended by sections 6(1) and (2) and 7(1) of the Pensions Act (Northern Ireland) 2012
 
-[^key-66a9f18a1ac959ceb35c83b7aa1d11c1]: Textual amendment: [Reg. 2(15)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/15) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(b)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/b)
+[^c-66a9f18a1ac959ceb35c83b7aa1d11c1]: Textual amendment: [Reg. 2(15)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/15) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(b)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/b)
 
-[^key-b55e50ab1c78a857dbaf436254038d75]: Textual amendment: [Reg. 2(17)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/17) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
+[^c-b55e50ab1c78a857dbaf436254038d75]: Textual amendment: [Reg. 2(17)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/17) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
 
-[^key-fff6681344bc2eba7c51939c17b49944]: Textual amendment: [Reg. 2(19)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/19) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
+[^c-fff6681344bc2eba7c51939c17b49944]: Textual amendment: [Reg. 2(19)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/19) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
 
 [^c21296791]: Marginal citation: S.R. [1997 No. 94](https://www.legislation.gov.uk/ukcm/1997/94)
 
-[^key-406af3637358de586eab5dd7de1307ae]: Textual amendment: [Reg. 2(23)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/23/b) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
+[^c-406af3637358de586eab5dd7de1307ae]: Textual amendment: [Reg. 2(23)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/23/b) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
 
 [^c21296811]: Marginal citation: S.R. [2000 No. 349](https://www.legislation.gov.uk/ukcm/2000/349)
 
-[^key-3c0de10bd17a2023473aa46b17dc597a]: Textual amendment: [Reg. 2(24)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/24/b)[(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/24/c) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
+[^c-3c0de10bd17a2023473aa46b17dc597a]: Textual amendment: [Reg. 2(24)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/24/b)[(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/24/c) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
 
-[^key-6135b0ba9e52081ddbe698eda9a57760]: Textual amendment: [Reg. 2(26)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/26) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
+[^c-6135b0ba9e52081ddbe698eda9a57760]: Textual amendment: [Reg. 2(26)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/26) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
 
 [^c21296821]: Marginal citation: S.R. [2010 No. 123](https://www.legislation.gov.uk/ukcm/2010/123)
 
@@ -571,13 +571,13 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^c21296841]: Marginal citation: [2008 c. 30](https://www.legislation.gov.uk/ukpga/2008/30); [section 67](https://www.legislation.gov.uk/nisr/2012/232/section/67) was amended by section 30(2) of the [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33)
 
-[^key-3cf9ee9be3b8e4fc0bbf229c19b8ad71]: Textual amendment: [Reg. 4(4)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/4/4/a) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
+[^c-3cf9ee9be3b8e4fc0bbf229c19b8ad71]: Textual amendment: [Reg. 4(4)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/4/4/a) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
 
 [^c21296851]: Marginal citation: *See* section 4 of the [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2008/13) for the meaning of “deferral date”; [section 4](https://www.legislation.gov.uk/nisr/2012/232/section/4) was substituted by section 7(2) of the [Pensions Act (Northern Ireland) 2012 (c. 3 (N.I.))](https://www.legislation.gov.uk/nia/2012/3)
 
 [^c21296861]: Marginal citation: [Section 30](https://www.legislation.gov.uk/nisr/2012/232/section/30) was amended by sections 7(6), 15 and 16 of the Pensions Act (Northern Ireland) 2012
 
-[^key-0f2380991dd0a2ef8e25384ef331f049]: Textual amendment: [Reg. 4(5)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/4/5/a) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
+[^c-0f2380991dd0a2ef8e25384ef331f049]: Textual amendment: [Reg. 4(5)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/4/5/a) revoked (1.4.2014 for specified purposes) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6)
 
 [^c21296871]: Marginal citation: [Section 4](https://www.legislation.gov.uk/nisr/2012/232/section/4) was substituted by section 7(2) of the Pensions Act (Northern Ireland) 2012
 

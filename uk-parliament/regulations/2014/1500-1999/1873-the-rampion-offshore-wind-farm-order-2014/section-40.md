@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Certification of plans etc[^key-bcd3ddbf2047521ae162cbb5bdd07906]
+## 40. Certification of plans etc[^c-bcd3ddbf2047521ae162cbb5bdd07906]
 
 *Extent: E+W+S*
 
@@ -83,7 +83,7 @@ summary: ''
 - (u) the outline arboricultural method statement (November 2013 – Version 2);
 - (v) the outline hedgerows management plan (November 2013 – Version 2);
 - (w) the outline scour protection management and cable armouring plan (3 December 2013 – Version 2);
-- (x) the outline Tottington Mount management plan (October[^key-05b6832285c0778a6d335cacb7085064] 2013 – Version 1);
+- (x) the outline Tottington Mount management plan (October[^c-05b6832285c0778a6d335cacb7085064] 2013 – Version 1);
 - (y) the outline cable specification and installation plan (26 November 2013 – Version 2);
 - (z) the outline fisheries liaison strategy (January 2014 – Version 1); and
 - (aa) measures of success for discharge of requirements (January 2014 – Version 1),
@@ -103,6 +103,6 @@ the reference in the plan or document concerned shall be construed for the purpo
 
 ## Annotations
 
-[^key-bcd3ddbf2047521ae162cbb5bdd07906]: Commencement: Art. 40 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-bcd3ddbf2047521ae162cbb5bdd07906]: Commencement: Art. 40 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-05b6832285c0778a6d335cacb7085064]: Textual amendment: Word in [art. 40(1)(x)](https://www.legislation.gov.uk/uksi/2014/1873/article/40/1/x) substituted (14.5.2015) by [The Rampion Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1319)](https://www.legislation.gov.uk/uksi/2015/1319), [art. 1](https://www.legislation.gov.uk/uksi/2015/1319/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1319/schedule)
+[^c-05b6832285c0778a6d335cacb7085064]: Textual amendment: Word in [art. 40(1)(x)](https://www.legislation.gov.uk/uksi/2014/1873/article/40/1/x) substituted (14.5.2015) by [The Rampion Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1319)](https://www.legislation.gov.uk/uksi/2015/1319), [art. 1](https://www.legislation.gov.uk/uksi/2015/1319/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1319/schedule)

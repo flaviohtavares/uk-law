@@ -16,31 +16,31 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX III — PROVISIONS FOR DETERMINING THE SCOPE AND THE LEVEL OF SUSPENSION OF COMMITMENTS OR PAYMENTS REFERRED TO IN ARTICLE 23(11)[^key-ab487db51dfff7a7dd52a4d59942f807]
+## ANNEX III — PROVISIONS FOR DETERMINING THE SCOPE AND THE LEVEL OF SUSPENSION OF COMMITMENTS OR PAYMENTS REFERRED TO IN ARTICLE 23(11)[^c-ab487db51dfff7a7dd52a4d59942f807]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-ab487db51dfff7a7dd52a4d59942f807]1.
+[^c-ab487db51dfff7a7dd52a4d59942f807]1.
 
 DETERMINING THE LEVEL OF SUSPENSION OF COMMITMENTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab487db51dfff7a7dd52a4d59942f807]2.
+[^c-ab487db51dfff7a7dd52a4d59942f807]2.
 
 DETERMINING THE SCOPE OF SUSPENSION OF COMMITMENTS ACROSS PROGRAMMES AND PRIORITIES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab487db51dfff7a7dd52a4d59942f807]3.
+[^c-ab487db51dfff7a7dd52a4d59942f807]3.
 
 DETERMINING THE FINAL LEVEL OF SUSPENSION OF COMMITMENTS FOR THE PROGRAMMES FALLING WITHIN THE SCOPE OF THE SUSPENSION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab487db51dfff7a7dd52a4d59942f807]4.
+[^c-ab487db51dfff7a7dd52a4d59942f807]4.
 
 DETERMINING THE SCOPE AND THE LEVEL OF SUSPENSION OF PAYMENTS
 
@@ -48,4 +48,4 @@ DETERMINING THE SCOPE AND THE LEVEL OF SUSPENSION OF PAYMENTS
 
 ## Annotations
 
-[^key-ab487db51dfff7a7dd52a4d59942f807]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eur/2013/1303/annex/III) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [19](https://www.legislation.gov.uk/uksi/2019/785/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab487db51dfff7a7dd52a4d59942f807]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eur/2013/1303/annex/III) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [19](https://www.legislation.gov.uk/uksi/2019/785/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

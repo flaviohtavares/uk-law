@@ -66,121 +66,121 @@ Sections 49 and 53.
 
 **26, 27.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11873921]
 
-### Part II — Scotland[^key-db14756220e67feeee58b9082dd098d4]
+### Part II — Scotland[^c-db14756220e67feeee58b9082dd098d4]
 
 *Extent: S*
 
 **No longer in force.**
 
-#### Directions as to modifications of local plans[^key-db14756220e67feeee58b9082dd098d4]
+#### Directions as to modifications of local plans[^c-db14756220e67feeee58b9082dd098d4]
 
-**28.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Operation of Use Classes Order on subdivision of planning unit[^key-db14756220e67feeee58b9082dd098d4]
+#### Operation of Use Classes Order on subdivision of planning unit[^c-db14756220e67feeee58b9082dd098d4]
 
-**29.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Development orders[^key-db14756220e67feeee58b9082dd098d4]
+#### Development orders[^c-db14756220e67feeee58b9082dd098d4]
 
-**30.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Applications to vary or revoke conditions attached to planning permission[^key-db14756220e67feeee58b9082dd098d4]
+#### Applications to vary or revoke conditions attached to planning permission[^c-db14756220e67feeee58b9082dd098d4]
 
-**31.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Land adversely affecting amenity of neighbourhood[^key-db14756220e67feeee58b9082dd098d4]
+#### Land adversely affecting amenity of neighbourhood[^c-db14756220e67feeee58b9082dd098d4]
 
-**32.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Appeals against notices under section 63A[^key-db14756220e67feeee58b9082dd098d4]
+#### Appeals against notices under section 63A[^c-db14756220e67feeee58b9082dd098d4]
 
-**34.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Purchase notices : transmission of documents to the Secretary of State[^key-db14756220e67feeee58b9082dd098d4]
+#### Purchase notices : transmission of documents to the Secretary of State[^c-db14756220e67feeee58b9082dd098d4]
 
-**35.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Purchase notice relating to land where use restricted by virtue of previous planning permission[^key-db14756220e67feeee58b9082dd098d4]
+#### Purchase notice relating to land where use restricted by virtue of previous planning permission[^c-db14756220e67feeee58b9082dd098d4]
 
-**36.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Consideration of purchase notice concurrently with related planning appeal[^key-db14756220e67feeee58b9082dd098d4]
+#### Consideration of purchase notice concurrently with related planning appeal[^c-db14756220e67feeee58b9082dd098d4]
 
-**37.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### National Scenic Areas[^key-db14756220e67feeee58b9082dd098d4]
+#### National Scenic Areas[^c-db14756220e67feeee58b9082dd098d4]
 
-**38.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Recovery of expenses of local inquiry[^key-db14756220e67feeee58b9082dd098d4]
+#### Recovery of expenses of local inquiry[^c-db14756220e67feeee58b9082dd098d4]
 
-**39.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Orders as to expenses of parties where no local inquiry held[^key-db14756220e67feeee58b9082dd098d4]
+#### Orders as to expenses of parties where no local inquiry held[^c-db14756220e67feeee58b9082dd098d4]
 
-**40.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Procedure on applications and appeals disposed of without inquiry or hearing[^key-db14756220e67feeee58b9082dd098d4]
+#### Procedure on applications and appeals disposed of without inquiry or hearing[^c-db14756220e67feeee58b9082dd098d4]
 
-**41.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Power to return appeal for determination by appointed person[^key-db14756220e67feeee58b9082dd098d4]
+#### Power to return appeal for determination by appointed person[^c-db14756220e67feeee58b9082dd098d4]
 
-**42.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Appointment of assessors[^key-db14756220e67feeee58b9082dd098d4]
+#### Appointment of assessors[^c-db14756220e67feeee58b9082dd098d4]
 
-**43.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Increase of daily penalties for offences[^key-db14756220e67feeee58b9082dd098d4]
+#### Increase of daily penalties for offences[^c-db14756220e67feeee58b9082dd098d4]
 
-**44.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Other minor amendments of the Town and Country Planning (Scotland) Act 1972[^key-db14756220e67feeee58b9082dd098d4]
+#### Other minor amendments of the Town and Country Planning (Scotland) Act 1972[^c-db14756220e67feeee58b9082dd098d4]
 
-**45.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**46.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**50.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**52.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Consequential amendments of the Town and Country Planning (Scotland) Act 1972[^key-db14756220e67feeee58b9082dd098d4]
+#### Consequential amendments of the Town and Country Planning (Scotland) Act 1972[^c-db14756220e67feeee58b9082dd098d4]
 
-**54.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**55.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**56.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**57.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**59.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**60.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Consequential amendments of other enactments[^key-db14756220e67feeee58b9082dd098d4]
+#### Consequential amendments of other enactments[^c-db14756220e67feeee58b9082dd098d4]
 
-**61.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**62.**[^key-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-db14756220e67feeee58b9082dd098d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -192,4 +192,4 @@ Sections 49 and 53.
 
 [^c11873921]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/1986/63/schedule/10) and Sch. 11 paras. 1–24, 26, 27 repealed by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1990/11/schedule/1/part/I), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/2), [4](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/6)
 
-[^key-db14756220e67feeee58b9082dd098d4]: Textual amendment: [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1986/63/schedule/11/part/II) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-db14756220e67feeee58b9082dd098d4]: Textual amendment: [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1986/63/schedule/11/part/II) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)

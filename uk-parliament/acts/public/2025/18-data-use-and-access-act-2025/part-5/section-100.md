@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Interview notices[^key-5ce5af7ca8047407064b765af5dff5de][^key-24e4584493f3966820de5796d1a7beb6]
+## 100. Interview notices[^c-5ce5af7ca8047407064b765af5dff5de][^c-24e4584493f3966820de5796d1a7beb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -189,6 +189,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ce5af7ca8047407064b765af5dff5de]: Commencement: S. 100 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-5ce5af7ca8047407064b765af5dff5de]: Commencement: S. 100 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-24e4584493f3966820de5796d1a7beb6]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2025/18/section/100) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)
+[^c-24e4584493f3966820de5796d1a7beb6]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2025/18/section/100) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)

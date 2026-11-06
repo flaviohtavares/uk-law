@@ -35,8 +35,8 @@ summary: ''
 
 (3) No information may be published under this section that identifies a person—
 
-- (a) who is not within subsection (2), [^key-48fadb7abb7a93fef6f5d03b5e59c1b7]...
-- (b)[^key-48fadb7abb7a93fef6f5d03b5e59c1b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) who is not within subsection (2), [^c-48fadb7abb7a93fef6f5d03b5e59c1b7]...
+- (b)[^c-48fadb7abb7a93fef6f5d03b5e59c1b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Information may be published under this section in such manner as the officer considers appropriate, including by communicating it to particular persons.
 
@@ -44,10 +44,10 @@ summary: ''
 
 - (a) notify the person, and
 - (b) give the person 30 days from that notification in which to
-  - (i)[^key-66e0e5b51c518f39c381214f7b35262a] make representations about whether or not the information should be published , and[^key-b9682c909beb865db58fd321002e8c9b]
+  - (i)[^c-66e0e5b51c518f39c381214f7b35262a] make representations about whether or not the information should be published , and[^c-b9682c909beb865db58fd321002e8c9b]
   - (ii) where section 209(2) of FA 2026 applies, provide a declaration made under that subsection substantiating those representations.
 
-(6) Before arranging for the publication of information under this section identifying a person, an authorised officer must have regard to any representations and any declaration[^key-82745fdeba7324b92841a0450a15633e] received in accordance with subsection (5).
+(6) Before arranging for the publication of information under this section identifying a person, an authorised officer must have regard to any representations and any declaration[^c-82745fdeba7324b92841a0450a15633e] received in accordance with subsection (5).
 
 (7) An authorised officer must amend or withdraw information published under this section if the officer subsequently considers it to be incorrect or misleading in a significant respect.
 
@@ -74,10 +74,10 @@ summary: ''
 
 ## Annotations
 
-[^key-48fadb7abb7a93fef6f5d03b5e59c1b7]: Textual amendment: S. 86(3)(b) and word omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(3)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/3/a), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
+[^c-48fadb7abb7a93fef6f5d03b5e59c1b7]: Textual amendment: S. 86(3)(b) and word omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(3)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/3/a), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
 
-[^key-66e0e5b51c518f39c381214f7b35262a]: Textual amendment: Words in s. 86(5)(b) renumbered as s. 86(5)(b)(i) (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/3/b/i), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
+[^c-66e0e5b51c518f39c381214f7b35262a]: Textual amendment: Words in s. 86(5)(b) renumbered as s. 86(5)(b)(i) (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/3/b/i), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
 
-[^key-b9682c909beb865db58fd321002e8c9b]: Textual amendment: S. 86(5)(b)(ii) and word inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/3/b/ii), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
+[^c-b9682c909beb865db58fd321002e8c9b]: Textual amendment: S. 86(5)(b)(ii) and word inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/3/b/ii), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
 
-[^key-82745fdeba7324b92841a0450a15633e]: Textual amendment: Words in s. 86(6) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(3)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/3/c), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
+[^c-82745fdeba7324b92841a0450a15633e]: Textual amendment: Words in s. 86(6) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(3)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/3/c), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))

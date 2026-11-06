@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 176. Reduction of benefits: annual allowances and lifetime allowance charge[^key-934f7c46f89804e107f580f0ba1d9508]
+## 176. Reduction of benefits: annual allowances and lifetime allowance charge[^c-934f7c46f89804e107f580f0ba1d9508]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-934f7c46f89804e107f580f0ba1d9508]: Commencement: [Reg. 176](https://www.legislation.gov.uk/ssi/2014/292/regulation/176) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-934f7c46f89804e107f580f0ba1d9508]: Commencement: [Reg. 176](https://www.legislation.gov.uk/ssi/2014/292/regulation/176) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00033]: Footnote: Section 237B was inserted by the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 17, paragraph 15.

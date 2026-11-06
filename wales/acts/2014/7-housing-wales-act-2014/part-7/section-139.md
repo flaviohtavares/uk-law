@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Amount of tax payable for certain types of dwelling[^M_I_f243c03d-f119-430c-df25-0034770386ef][^key-7af491b3a507d3480233d7005a64a028]
+## 139. Amount of tax payable for certain types of dwelling[^M_I_f243c03d-f119-430c-df25-0034770386ef][^c-7af491b3a507d3480233d7005a64a028]
 
 *Extent: E+W*
 
@@ -123,4 +123,4 @@ summary: ''
 
 [^M_I_f243c03d-f119-430c-df25-0034770386ef]: Commencement: S. 139 in force at 16.12.2015 for specified purposes by [S.I. 2015/2046](https://www.legislation.gov.uk/uksi/2015/2046), [art. 2](https://www.legislation.gov.uk/uksi/2015/2046/article/2)
 
-[^key-7af491b3a507d3480233d7005a64a028]: Commencement: S. 139 in force at 1.4.2016 in so far as not already in force by [S.I. 2015/2046](https://www.legislation.gov.uk/wsi/2015/2046), [art. 2](https://www.legislation.gov.uk/wsi/2015/2046/article/2)
+[^c-7af491b3a507d3480233d7005a64a028]: Commencement: S. 139 in force at 1.4.2016 in so far as not already in force by [S.I. 2015/2046](https://www.legislation.gov.uk/wsi/2015/2046), [art. 2](https://www.legislation.gov.uk/wsi/2015/2046/article/2)

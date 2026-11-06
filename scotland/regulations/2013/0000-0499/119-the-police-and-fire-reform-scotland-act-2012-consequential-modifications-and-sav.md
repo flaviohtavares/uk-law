@@ -46,11 +46,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 125(3) of that Act a draft of this Order has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-9b72b14845d8d838d724b2e8fa626abd]
+## 1. Citation and commencement[^c-9b72b14845d8d838d724b2e8fa626abd]
 
 This Order may be cited as the Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 and comes into force on 1st April 2013.
 
-## 2. Savings in relation to the Tribunals and Inquiries Act 1992[^key-40bf99d5733894ef0c59c64e0a3db3bc]
+## 2. Savings in relation to the Tribunals and Inquiries Act 1992[^c-40bf99d5733894ef0c59c64e0a3db3bc]
 
 Despite their modification by this Order—
 
@@ -59,14 +59,14 @@ Despite their modification by this Order—
   - (ii) is not a constable of the Police Service; and
 - (b) paragraph 57A (police) in that Part of that Schedule[^f00005] continues to have effect on and after 1st April 2013 as it had effect immediately before that date for the purposes of an appeal under section 30 of the Police (Scotland) Act 1967[^f00006] in relation to which a notice of appeal under the Police Appeals Tribunal (Scotland) Rules 1996[^f00007] was sent to the Registrar (within the meaning given by rule 1(1) of those Rules) before 1st April 2013.
 
-## 3. Saving in relation to the Local Authority Accounts (Scotland) Regulations 1985[^key-e38644a3379b707b2bf6c242c65d11ba]
+## 3. Saving in relation to the Local Authority Accounts (Scotland) Regulations 1985[^c-e38644a3379b707b2bf6c242c65d11ba]
 
 Despite the modifications made by this Order, the Schedule to the Local Authority Accounts (Scotland) Regulations 1985[^f00008] continues to have effect on and after 1st April 2013 as it had effect immediately before that date for the purposes of the Remuneration Report required, by virtue of regulation 4(2) of those Regulations, to be included in the accounts for the financial year ending on 31st March 2013 of any—
 
 - (a) local authority; or
 - (b) joint police board constituted by virtue of section 19(2) of the Police (Scotland) Act 1967[^f00009].
 
-## 4. Consequential modifications[^key-33a7ea21661e6a8d34ad7cf4fa93331a]
+## 4. Consequential modifications[^c-33a7ea21661e6a8d34ad7cf4fa93331a]
 
 Schedules 1, 2 and 3 modify certain enactments.
 
@@ -88,7 +88,7 @@ Article 4
 
 #### Dogs Act 1906
 
-**1.**[^key-86112e76dd39b732de67785deba7e0fb] (1) The Dogs Act 1906[^f00010] is modified as follows.
+**1.**[^c-86112e76dd39b732de67785deba7e0fb] (1) The Dogs Act 1906[^f00010] is modified as follows.
 
 (2) In section 3 (seizure of stray dogs)[^f00011]—
 
@@ -104,19 +104,19 @@ Article 4
 
 #### Small Landholders (Scotland) Act 1911
 
-**2.**[^key-9af76177ee9db880598a4bff42d0657c] In section 26(3)(c) of the Small Landholders (Scotland) Act 1911 (supplementary provisions and restrictions)[^f00013], omit “, police,” and “or police burgh”.
+**2.**[^c-9af76177ee9db880598a4bff42d0657c] In section 26(3)(c) of the Small Landholders (Scotland) Act 1911 (supplementary provisions and restrictions)[^f00013], omit “, police,” and “or police burgh”.
 
 #### Land Settlement (Scotland) Act 1919
 
-**3.**[^key-f694848359d7d1ffe7fc92c53c56a0ab] In section 15 of the Land Settlement (Scotland) Act 1919 (as to land within burgh in crofting counties)[^f00014], omit “or police” and “or police burgh”.
+**3.**[^c-f694848359d7d1ffe7fc92c53c56a0ab] In section 15 of the Land Settlement (Scotland) Act 1919 (as to land within burgh in crofting counties)[^f00014], omit “or police” and “or police burgh”.
 
 #### Children and Young Persons Act 1933
 
-**4.**[^key-54e70834d544745f9c3107dccfe8a3f7] In section 107(1) of the Children and Young Persons Act 1933 (interpretation)[^f00015], in the definition of “Chief officer of police” for “has” to “1967” substitute “means the chief constable of the Police Service of Scotland”.
+**4.**[^c-54e70834d544745f9c3107dccfe8a3f7] In section 107(1) of the Children and Young Persons Act 1933 (interpretation)[^f00015], in the definition of “Chief officer of police” for “has” to “1967” substitute “means the chief constable of the Police Service of Scotland”.
 
 #### Theatres Act 1968
 
-**5.**[^key-601672ed89b298c5b0003d0ef10e43ff] In section 18(1) of the Theatres Act 1968 (interpretation)[^f00016], for the definition of “police officer” substitute—
+**5.**[^c-601672ed89b298c5b0003d0ef10e43ff] In section 18(1) of the Theatres Act 1968 (interpretation)[^f00016], for the definition of “police officer” substitute—
 
 > - “police officer” means a constable of the Police Service of Scotland;
 
@@ -124,15 +124,15 @@ Article 4
 
 #### Chronically Sick and Disabled Persons Act 1970
 
-**6.**[^key-115a6868602a6d809eb9f5d882d37dd7] In section 21(8A) of the Chronically Sick and Disabled Persons Act 1970 (badges for display on motor vehicles used by disabled persons)[^f00017], for the second “the” to “(c.77)” substitute “section 99(1) of the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8)”.
+**6.**[^c-115a6868602a6d809eb9f5d882d37dd7] In section 21(8A) of the Chronically Sick and Disabled Persons Act 1970 (badges for display on motor vehicles used by disabled persons)[^f00017], for the second “the” to “(c.77)” substitute “section 99(1) of the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8)”.
 
 #### Local Government, Planning and Land Act 1980
 
-**7.**[^key-1955f47ba1c6cdcf1e1cc71212bb3157] In section 2(1) of the Local Government, Planning and Land Act 1980 (duty of authorities to publish information)[^f00018] omit paragraphs (j) and (k).
+**7.**[^c-1955f47ba1c6cdcf1e1cc71212bb3157] In section 2(1) of the Local Government, Planning and Land Act 1980 (duty of authorities to publish information)[^f00018] omit paragraphs (j) and (k).
 
 #### Wildlife and Countryside Act 1981
 
-**8.**[^key-f141d702885e4ec78339ceaa6792ccb8] In section 11A of the Wildlife and Countryside Act 1981 (snares: training, identification numbers, tags etc.)[^f00019]—
+**8.**[^c-f141d702885e4ec78339ceaa6792ccb8] In section 11A of the Wildlife and Countryside Act 1981 (snares: training, identification numbers, tags etc.)[^f00019]—
 
 - (a) in subsection (3), for the third “a” substitute “the”;
 - (b) in subsection (4)—
@@ -152,7 +152,7 @@ Article 4
 
 #### Road Traffic Regulation Act 1984
 
-**9.**[^key-5e45aea2ae4dce137103c0ba3e08ddeb] (1) The Road Traffic Regulation Act 1984[^f00020] is modified as follows.
+**9.**[^c-5e45aea2ae4dce137103c0ba3e08ddeb] (1) The Road Traffic Regulation Act 1984[^f00020] is modified as follows.
 
 (2) In section 95 (appointment of traffic wardens)[^f00021], for subsection (2) substitute—
 
@@ -164,7 +164,7 @@ Article 4
 
 #### Housing (Scotland) Act 1987
 
-**10.**[^key-92630fd877b654ac0ef29d2ce57e84ab] (1) The Housing (Scotland) Act 1987[^f00024] is modified as follows.
+**10.**[^c-92630fd877b654ac0ef29d2ce57e84ab] (1) The Housing (Scotland) Act 1987[^f00024] is modified as follows.
 
 (2) In section 69A(1)(a) (power to refuse to sell houses required for police purposes)[^f00025], for the first “a” to “(c.77)” substitute “the Scottish Police Authority as landlord in relation to a house which it holds for the purposes of maintaining the Police Service of Scotland”.
 
@@ -172,7 +172,7 @@ Article 4
 
 #### Housing (Scotland) Act 1988
 
-**11.**[^key-7a75f5ec57e3cc479ca135909658ee4a] (1) The Housing (Scotland) Act 1988[^f00027] is modified as follows.
+**11.**[^c-7a75f5ec57e3cc479ca135909658ee4a] (1) The Housing (Scotland) Act 1988[^f00027] is modified as follows.
 
 (2) In section 43(3)(a) (removal of special regimes for tenancies of housing associations etc.)[^f00028] omit sub-paragraph (vi) and the “or” immediately preceding it.
 
@@ -180,7 +180,7 @@ Article 4
 
 #### Tay Road Bridge Order Confirmation Act 1991
 
-**12.**[^key-619048832b1e9cf142be1ce7a6b76957] For section 24 of the Schedule to the Tay Road Bridge Order Confirmation Act 1991 (policing, etc. of bridge.)[^f00030] substitute—
+**12.**[^c-619048832b1e9cf142be1ce7a6b76957] For section 24 of the Schedule to the Tay Road Bridge Order Confirmation Act 1991 (policing, etc. of bridge.)[^f00030] substitute—
 
 > **24.** (1) In consideration of the watching and policing of the bridge being undertaken by the Police Service of Scotland, the Joint Board shall pay to the Scottish Police Authority annually such sum as may be agreed between the Scottish Police Authority and the Joint Board as representing the reasonable costs incurred by the Police Service of Scotland in policing and watching the bridge.
 >
@@ -190,7 +190,7 @@ Article 4
 
 #### Road Traffic Act 1991
 
-**13.**[^key-69b67526dc9e4c7cfcee83e694ac43a1] In paragraph 2(6) of Schedule 3 to the Road Traffic Act 1991 (special parking areas)[^f00031], for paragraph (a) substitute—
+**13.**[^c-69b67526dc9e4c7cfcee83e694ac43a1] In paragraph 2(6) of Schedule 3 to the Road Traffic Act 1991 (special parking areas)[^f00031], for paragraph (a) substitute—
 
 > - (a) the chief constable of the Police Service of Scotland;
 
@@ -198,18 +198,18 @@ Article 4
 
 #### Tribunals and Inquiries Act 1992
 
-**14.**[^key-477934f4bc97910d8227a4a8f98dbe04] In Part 2 of Schedule 1 to the Tribunals and Inquiries Act 1992 (tribunals under supervision of Scottish Committee)[^f00032]—
+**14.**[^c-477934f4bc97910d8227a4a8f98dbe04] In Part 2 of Schedule 1 to the Tribunals and Inquiries Act 1992 (tribunals under supervision of Scottish Committee)[^f00032]—
 
 - (a) in paragraph 57(c) (pensions), for “a” to “(c.77)” substitute “the Police Service of Scotland within the meaning given by section 99(1) of the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8)”; and
 - (b) in paragraph 57A (police), for “Schedule” to “(c.77)”, substitute “schedule 3 to the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8)”.
 
 #### Children (Scotland) Act 1995
 
-**15.**[^key-8e1312bbeb064b2d472d9cbe862d32b2] In section 53(3) of the Children (Scotland) Act 1995 (provision of information to the Principal Reporter)[^f00033], for “(b)” to “1967” substitute “(d) of section 20(1) of the Police and Fire Reform (Scotland) Act 2012”.
+**15.**[^c-8e1312bbeb064b2d472d9cbe862d32b2] In section 53(3) of the Children (Scotland) Act 1995 (provision of information to the Principal Reporter)[^f00033], for “(b)” to “1967” substitute “(d) of section 20(1) of the Police and Fire Reform (Scotland) Act 2012”.
 
 #### Criminal Procedure (Scotland) Act 1995
 
-**16.**[^key-a43bdb6998f8e93d7e369abc0dcedb87] In section 285 of the Criminal Procedure (Scotland) Act 1995 (previous convictions: proof, general)[^f00034]—
+**16.**[^c-a43bdb6998f8e93d7e369abc0dcedb87] In section 285 of the Criminal Procedure (Scotland) Act 1995 (previous convictions: proof, general)[^f00034]—
 
 - (a) in subsection (2)—
   - (i) after “signed by” insert “or on behalf of”;
@@ -223,18 +223,18 @@ Article 4
 
 #### Police Act 1996
 
-**17.**[^key-83d2a7c85772450f3e4a34462ad0dec6] In section 62(1A)(a) of the Police Act 1996 (functions of the Board with respect to regulations)[^f00035] omit “(other than regulations relating to special constables)”.
+**17.**[^c-83d2a7c85772450f3e4a34462ad0dec6] In section 62(1A)(a) of the Police Act 1996 (functions of the Board with respect to regulations)[^f00035] omit “(other than regulations relating to special constables)”.
 
 #### Housing (Scotland) Act 2001
 
-**18.**[^key-a148f93a1a3726a5132add70cef1fd72] In paragraph 2(2) of schedule 1 to the Housing (Scotland) Act 2001 (police and fire service accommodation)[^f00036]—
+**18.**[^c-a148f93a1a3726a5132add70cef1fd72] In paragraph 2(2) of schedule 1 to the Housing (Scotland) Act 2001 (police and fire service accommodation)[^f00036]—
 
 - (a) in paragraph (a), for “held” substitute “provided”; and
 - (b) in paragraphs (a) and (b) for “a police force” substitute “the Police Service of Scotland”.
 
 #### Proceeds of Crime Act 2002
 
-**19.**[^key-318e9970f714f25bf5b5f107e1b9864b] (1) The Proceeds of Crime Act 2002[^f00037] is modified as follows.
+**19.**[^c-318e9970f714f25bf5b5f107e1b9864b] (1) The Proceeds of Crime Act 2002[^f00037] is modified as follows.
 
 (2) In section 139(9) (serious default)[^f00038]—
 
@@ -256,7 +256,7 @@ Article 4
 
 #### Sexual Offences Act 2003
 
-**20.**[^key-ea33482e27e2c4367a939d25b7ac8040] (1) The Sexual Offences Act 2003[^f00040] is modified as follows.
+**20.**[^c-ea33482e27e2c4367a939d25b7ac8040] (1) The Sexual Offences Act 2003[^f00040] is modified as follows.
 
 (2) In section 87(1)(a) (method of notification and related matters)[^f00041] omit “in his local police area”.
 
@@ -303,25 +303,25 @@ Article 4
 
 #### Police, Public Order and Criminal Justice (Scotland) Act 2006
 
-**21.**[^key-aab7a3e84636b0064b8be445ba26474c] In section 47 of the Police, Public Order and Criminal Justice (Scotland) Act 2006 (interpretation of Chapter 2)[^f00047], in the definition of “Police Service”, for “for” substitute “of”.
+**21.**[^c-aab7a3e84636b0064b8be445ba26474c] In section 47 of the Police, Public Order and Criminal Justice (Scotland) Act 2006 (interpretation of Chapter 2)[^f00047], in the definition of “Police Service”, for “for” substitute “of”.
 
 ### PART 2 — Modification of statutory instruments
 
 #### Local Authority Accounts (Scotland) Regulations 1985
 
-**22.**[^key-2388e0aa06aa12b0399fb9113baa9d96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-2388e0aa06aa12b0399fb9113baa9d96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Local Authorities (Publicity Account) (Exemption) (Scotland) Order 1988
 
-**23.**[^key-4fa6fa9434b580f3530307bd5a434e6e] In paragraph 5 of Schedule 1 to the Local Authorities (Publicity Account) (Exemption) (Scotland) Order 1988[^f00049] (descriptions of exempt publicity), for “a” to “authority” substitute “the chief constable of the Police Service of Scotland”.
+**23.**[^c-4fa6fa9434b580f3530307bd5a434e6e] In paragraph 5 of Schedule 1 to the Local Authorities (Publicity Account) (Exemption) (Scotland) Order 1988[^f00049] (descriptions of exempt publicity), for “a” to “authority” substitute “the chief constable of the Police Service of Scotland”.
 
 #### Council Tax (Administration and Enforcement) (Scotland) Regulations 1992
 
-**24.**[^key-e423841da0b6bf1272698c035b2c251f] In regulation 3(2) of the Council Tax (Administration and Enforcement) (Scotland) Regulations 1992 (information from public bodies)[^f00050] omit sub-paragraph (b).
+**24.**[^c-e423841da0b6bf1272698c035b2c251f] In regulation 3(2) of the Council Tax (Administration and Enforcement) (Scotland) Regulations 1992 (information from public bodies)[^f00050] omit sub-paragraph (b).
 
 #### Local Government (Discretionary Payments and Injury Benefits) (Scotland) Regulations 1998
 
-**25.**[^key-db47a1ec2be01335f47c8ba60ae0083f] (1) In regulation 38 of the Local Government (Discretionary Payments and Injury Benefits) (Scotland) Regulations 1998 (interpretation of Part V)[^f00051]—
+**25.**[^c-db47a1ec2be01335f47c8ba60ae0083f] (1) In regulation 38 of the Local Government (Discretionary Payments and Injury Benefits) (Scotland) Regulations 1998 (interpretation of Part V)[^f00051]—
 
 - (a) in paragraph (1)[^f00052]—
   - (i) for “section” to “1967” substitute “section 25 of the Police and Fire Reform (Scotland) Act 2012”; and
@@ -330,7 +330,7 @@ Article 4
 
 #### Sexual Offences Act 2003 (Travel Notification Requirements) (Scotland) Regulations 2004 ([S.S.I. 2004/205](https://www.legislation.gov.uk/ssi/2004/205))
 
-**26.**[^key-785a654975ac05eb0aa6af6e98b0aaba] In regulation 10 of the Sexual Offences Act 2003 (Travel Notification Requirements) (Scotland) Regulations 2004 (giving a notification)[^f00053], for paragraphs (1) and (2) substitute—
+**26.**[^c-785a654975ac05eb0aa6af6e98b0aaba] In regulation 10 of the Sexual Offences Act 2003 (Travel Notification Requirements) (Scotland) Regulations 2004 (giving a notification)[^f00053], for paragraphs (1) and (2) substitute—
 
 > (1) For the purpose of giving a notification under section 86(2), as required by regulation 5(2), or under section 86(3), or a further notification under section 86(2), as required by regulation 7, a relevant offender must attend at a police station prescribed under section 87.
 
@@ -338,7 +338,7 @@ Article 4
 
 #### Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Regulations 2005
 
-**27.**[^key-2b2aefd1ec865737226931fa2ff7d526] (1) The Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Regulations 2005[^f00054] are modified as follows.
+**27.**[^c-2b2aefd1ec865737226931fa2ff7d526] (1) The Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Regulations 2005[^f00054] are modified as follows.
 
 (2) In regulation 2(1) (interpretation)[^f00055], after the definition of “community risk register” insert—
 
@@ -358,7 +358,7 @@ Article 4
 
 #### Management of Offenders etc. (Scotland) Act 2005 (Designation of Partner Bodies) Order 2006
 
-**28.**[^key-d5d7d64762170564260c8e37944e7dba] For article 2(a) of the Management of Offenders etc. (Scotland) Act 2005 (Designation of Partner Bodies) Order 2006[^f00058] substitute—
+**28.**[^c-d5d7d64762170564260c8e37944e7dba] For article 2(a) of the Management of Offenders etc. (Scotland) Act 2005 (Designation of Partner Bodies) Order 2006[^f00058] substitute—
 
 > - (a) the chief constable of the Police Service of Scotland;
 
@@ -366,7 +366,7 @@ Article 4
 
 #### Serious Organised Crime and Police Act 2005 (Specified Persons for Financial Reporting Orders) (Scotland) Order 2006
 
-**29.**[^key-aef59d596d84c1675efb3bb5d12ac463] (1) The Serious Organised Crime and Police Act 2005 (Specified Persons for Financial Reporting Orders) (Scotland) Order 2006[^f00059] is modified as follows.
+**29.**[^c-aef59d596d84c1675efb3bb5d12ac463] (1) The Serious Organised Crime and Police Act 2005 (Specified Persons for Financial Reporting Orders) (Scotland) Order 2006[^f00059] is modified as follows.
 
 (2) In article 1 (citation, commencement, extent and interpretation)[^f00060]—
 
@@ -384,7 +384,7 @@ Article 4
 
 #### National Health Service Central Register (Scotland) Regulations 2006
 
-**30.**[^key-30a39fdf24bcd95198b50bbdc87b003c] In Schedule 2 to the National Health Service Central Register (Scotland) Regulations 2006 (information which may be provided from the register and persons to whom it may be provided)[^f00062], for the words in column (2) of entry 7 substitute—
+**30.**[^c-30a39fdf24bcd95198b50bbdc87b003c] In Schedule 2 to the National Health Service Central Register (Scotland) Regulations 2006 (information which may be provided from the register and persons to whom it may be provided)[^f00062], for the words in column (2) of entry 7 substitute—
 
 > A chief constable of a police force in England and Wales or Northern Ireland, the chief constable of the police service of Scotland or the Security Service.
 
@@ -392,7 +392,7 @@ Article 4
 
 #### Administrative Justice and Tribunals Council (Listed Tribunals) (Scotland) Order 2007
 
-**31.**[^key-d527ae4d105583af786bb65bfaa0cb15] In the Schedule to the Administrative Justice and Tribunals Council (Listed Tribunals) (Scotland) Order 2007 (listed tribunals)[^f00063], for the entry relating to a police appeals tribunal substitute—
+**31.**[^c-d527ae4d105583af786bb65bfaa0cb15] In the Schedule to the Administrative Justice and Tribunals Council (Listed Tribunals) (Scotland) Order 2007 (listed tribunals)[^f00063], for the entry relating to a police appeals tribunal substitute—
 
 > A police appeals tribunal constituted in accordance with section 56 of, and schedule 3 to, the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8).
 
@@ -400,11 +400,11 @@ Article 4
 
 #### Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Regulations 2008
 
-**32.**[^key-54ee592e293df3106b76bd802e2c0e3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-54ee592e293df3106b76bd802e2c0e3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Victim Statements (Prescribed Offences) (No. 2) (Scotland) Order 2009
 
-**33.**[^key-1a2f1f1cf490e1a3e238f502db180462] In the Schedule to the Victim Statements (Prescribed Offences) (No. 2) (Scotland) Order 2009 (offences prescribed for the purposes of section 14(2) of the Criminal Justice (Scotland) Act 2003)[^f00065], after paragraph 8 insert—
+**33.**[^c-1a2f1f1cf490e1a3e238f502db180462] In the Schedule to the Victim Statements (Prescribed Offences) (No. 2) (Scotland) Order 2009 (offences prescribed for the purposes of section 14(2) of the Criminal Justice (Scotland) Act 2003)[^f00065], after paragraph 8 insert—
 
 > **8A.** An offence under section 90(1)(a) of the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) (assaulting or impeding police), but only in respect of an assault on an individual acting in a capacity mentioned in subsection (3)(a) or (c) of that section.
 
@@ -412,7 +412,7 @@ Article 4
 
 #### Police Act 1997 (Criminal Records) (Scotland) Regulations 2010
 
-**34.**[^key-655e40854c942784a0491cd9767c1be9] (1) The Police Act 1997 (Criminal Records) (Scotland) Regulations 2010[^f00066] are modified as follows.
+**34.**[^c-655e40854c942784a0491cd9767c1be9] (1) The Police Act 1997 (Criminal Records) (Scotland) Regulations 2010[^f00066] are modified as follows.
 
 (2) In regulation 5 (central records: prescribed details)[^f00067], in paragraphs (1)(a) and (2)(a), for “Scottish Police Services Authority” substitute “Police Service of Scotland”.
 
@@ -424,7 +424,7 @@ Article 4
 
 #### Knives etc. (Disposal of Forfeited Property) (Scotland) Order 2010
 
-**35.**[^key-6f26b94d65cdfa5d5988094ac8f4c979] (1) The Knives etc. (Disposal of Forfeited Property) (Scotland) Order 2010[^f00069] is modified as follows.
+**35.**[^c-6f26b94d65cdfa5d5988094ac8f4c979] (1) The Knives etc. (Disposal of Forfeited Property) (Scotland) Order 2010[^f00069] is modified as follows.
 
 (2) In article 2 (interpretation) omit the definition of “the relevant authority”.
 
@@ -432,7 +432,7 @@ Article 4
 
 #### Regulation of Investigatory Powers (Prescription of Offices, etc. and Specification of Public Authorities) (Scotland) Order 2010
 
-**36.**[^key-dcba8ec14cbc6ec0bea9c839649ae678] In Schedule 1 to the Regulation of Investigatory Powers (Prescription of Offices, etc. and Specification of Public Authorities) (Scotland) Order 2010 (prescribed offices, ranks and positions with relevant public authorities for the purposes of sections 6, 7 and 8 of the 2000 Act)[^f00071]—
+**36.**[^c-dcba8ec14cbc6ec0bea9c839649ae678] In Schedule 1 to the Regulation of Investigatory Powers (Prescription of Offices, etc. and Specification of Public Authorities) (Scotland) Order 2010 (prescribed offices, ranks and positions with relevant public authorities for the purposes of sections 6, 7 and 8 of the 2000 Act)[^f00071]—
 
 - (a) in the first entry, for the words in column 1 substitute “The Police Service of Scotland”; and
 - (b) in the second entry—
@@ -442,18 +442,18 @@ Article 4
 
 #### Police Act 1997 (Criminal Records) (Registration) (Scotland) Regulations 2010
 
-**37.**[^key-a112946028ab5c038d47ff2da3c859e4] In regulation 7 of the Police Act 1997 (Criminal Records) (Registration) (Scotland) Regulations 2010[^f00072] (prescribed bodies) omit sub-paragraph (h).
+**37.**[^c-a112946028ab5c038d47ff2da3c859e4] In regulation 7 of the Police Act 1997 (Criminal Records) (Registration) (Scotland) Regulations 2010[^f00072] (prescribed bodies) omit sub-paragraph (h).
 
 #### Scottish Parliament (Disqualification) Order 2010
 
-**38.**[^key-b5a89b5ce819a6540f0128c93c3f9297] In Part I of the Schedule to the Scottish Parliament (Disqualification) Order 2010 (office-holders disqualified from being a member of the Scottish Parliament)[^f00073] omit—
+**38.**[^c-b5a89b5ce819a6540f0128c93c3f9297] In Part I of the Schedule to the Scottish Parliament (Disqualification) Order 2010 (office-holders disqualified from being a member of the Scottish Parliament)[^f00073] omit—
 
 - (a) “Chief Executive or member of, or constable seconded to, the Scottish Police Services Authority.”; and
 - (b) “Director General, Deputy Director General or police member of the Scottish Crime and Drug Enforcement Agency.”.
 
 #### Prisons and Young Offenders Institutions (Scotland) Rules 2011
 
-**39.**[^key-ccb6835cf9638bb16bd1d6816fead320] In rule 68 of the Prisons and Young Offenders Institutions (Scotland) Rules 2011 (visits by police constables)[^f00074]—
+**39.**[^c-ccb6835cf9638bb16bd1d6816fead320] In rule 68 of the Prisons and Young Offenders Institutions (Scotland) Rules 2011 (visits by police constables)[^f00074]—
 
 - (a) in paragraph (1) omit from the first “or” to the second “Agency,”; and
 - (b) for paragraph (2) substitute—
@@ -464,7 +464,7 @@ Article 4
 
 #### Snares (Identification Numbers and Tags) (Scotland) Order 2012
 
-**40.**[^key-98b7bb7bcc949162caf4a23f8487e31c] (1) The Snares (Identification Numbers and Tags) (Scotland) Order 2012[^f00075] is modified as follows.
+**40.**[^c-98b7bb7bcc949162caf4a23f8487e31c] (1) The Snares (Identification Numbers and Tags) (Scotland) Order 2012[^f00075] is modified as follows.
 
 (2) In article 3(1) (application for an identification number), omit from the second “in” to the end.
 
@@ -486,7 +486,7 @@ Article 4
 
 ### Cinematograph (Safety) (Scotland) Regulations 1955
 
-**1.**[^key-8105f0d3756bfbe18b8ba01b4450f7b4] (1) The Cinematograph (Safety) (Scotland) Regulations 1955[^f00076] are modified as follows.
+**1.**[^c-8105f0d3756bfbe18b8ba01b4450f7b4] (1) The Cinematograph (Safety) (Scotland) Regulations 1955[^f00076] are modified as follows.
 
 (2) In regulation 5(3) (fire precautions), for “relevant” to “(asp 5))” substitute “Scottish Fire and Rescue Service”.
 
@@ -494,15 +494,15 @@ Article 4
 
 ### Tribunals and Inquiries (Discretionary Inquiries) Order 1975
 
-**2.**[^key-1b67ce673e94548f33429108a584a6e5] In paragraph 19B of Part 1 of the Schedule to the Tribunals and Inquiries (Discretionary Inquiries) Order 1975[^f00077] omit “34(7), 37(2) or”.
+**2.**[^c-1b67ce673e94548f33429108a584a6e5] In paragraph 19B of Part 1 of the Schedule to the Tribunals and Inquiries (Discretionary Inquiries) Order 1975[^f00077] omit “34(7), 37(2) or”.
 
 ### Building (Procedure) (Scotland) Regulations 1981
 
-**3.**[^key-443855d6edd8b62c16de5044e0d19f87] In regulation 20(2)(b)(ii) of the Building (Procedure) (Scotland) Regulations 1981 (preparation of draft direction)[^f00078], for “relevant” to “(asp 5))” substitute “Scottish Fire and Rescue Service”.
+**3.**[^c-443855d6edd8b62c16de5044e0d19f87] In regulation 20(2)(b)(ii) of the Building (Procedure) (Scotland) Regulations 1981 (preparation of draft direction)[^f00078], for “relevant” to “(asp 5))” substitute “Scottish Fire and Rescue Service”.
 
 ### Road Vehicles (Construction and Use) Regulations 1986
 
-**4.**[^key-49578c0f251f6663e68bc27279973db2] (1) The Road Vehicles (Construction and Use) Regulations 1986[^f00079] are modified as follows.
+**4.**[^c-49578c0f251f6663e68bc27279973db2] (1) The Road Vehicles (Construction and Use) Regulations 1986[^f00079] are modified as follows.
 
 (2) In regulation 10B(3)(f) (vehicles to which regulation 10A applies)—
 
@@ -526,7 +526,7 @@ Article 4
 
 ### Dangerous Substances in Harbour Areas Regulations 1987
 
-**5.**[^key-9566efefeca99edf4f323b31fb0a41b4] In regulation 30 of the Dangerous Substances in Harbour Areas Regulations 1987 (storage tanks)[^f00080]—
+**5.**[^c-9566efefeca99edf4f323b31fb0a41b4] In regulation 30 of the Dangerous Substances in Harbour Areas Regulations 1987 (storage tanks)[^f00080]—
 
 - (a) for paragraph (1)(ii) substitute—
 
@@ -537,7 +537,7 @@ Article 4
 
 ###  Fire Precautions (Sub-surface Railway Stations) Regulations 1989
 
-**6.**[^key-b49ac5f4fcbd0ec9447ef8c18c53b679] (1) The Fire Precautions (Sub-surface Railway Stations) Regulations 1989[^f00081] are modified as follows.
+**6.**[^c-b49ac5f4fcbd0ec9447ef8c18c53b679] (1) The Fire Precautions (Sub-surface Railway Stations) Regulations 1989[^f00081] are modified as follows.
 
 (2) In regulation 2 (interpretation) omit the definition of “relevant authority”.
 
@@ -552,7 +552,7 @@ Article 4
 
 ### Road Vehicles Lighting Regulations 1989
 
-**7.**[^key-93b3a8740cd30ed54e9d03d4a4161a5f] (1) The Road Vehicles Lighting Regulations 1989[^f00082] are modified as follows.
+**7.**[^c-93b3a8740cd30ed54e9d03d4a4161a5f] (1) The Road Vehicles Lighting Regulations 1989[^f00082] are modified as follows.
 
 (2) In the table in regulation 3(2) (interpretation), in paragraph (a) of the definition of “emergency vehicle”, for “relevant” to “(asp 5))” substitute “Scottish Fire and Rescue Service”.
 
@@ -564,7 +564,7 @@ Article 4
 
 ### Dangerous Substances (Notification and Marking of Sites) Regulations 1990
 
-**8.**[^key-a31d1922991def53060c9e4ed606e5a7] (1) The Dangerous Substances (Notification and Marking of Sites) Regulations 1990[^f00083] are modified as follows.
+**8.**[^c-a31d1922991def53060c9e4ed606e5a7] (1) The Dangerous Substances (Notification and Marking of Sites) Regulations 1990[^f00083] are modified as follows.
 
 (2) In regulation 2(1) (interpretation)[^f00084] omit the definition of “fire authority”.
 
@@ -572,7 +572,7 @@ Article 4
 
 ### Road Traffic (Temporary Restrictions) Procedure Regulations 1992
 
-**9.**[^key-fef9df15f2f50e13e70ef1368b002c35] (1) The Road Traffic (Temporary Restrictions) Procedure Regulations 1992[^f00085] are modified as follows.
+**9.**[^c-fef9df15f2f50e13e70ef1368b002c35] (1) The Road Traffic (Temporary Restrictions) Procedure Regulations 1992[^f00085] are modified as follows.
 
 (2) In regulation 2 (general interpretation)[^f00086] omit the definition of “fire authority”.
 
@@ -602,15 +602,15 @@ Article 4
 
 ### Motor Vehicles (Wearing of Seat Belts) Regulations 1993
 
-**10.**[^key-c730778bf0dcd3e8bcb15b52e3e02d0e] In regulation 6(1)(f) of the Motor Vehicles (Wearing of Seat Belts) Regulations 1993 (exemptions)[^f00087], for “relevant” to “(asp 5))” substitute “Scottish Fire and Rescue Service”.
+**10.**[^c-c730778bf0dcd3e8bcb15b52e3e02d0e] In regulation 6(1)(f) of the Motor Vehicles (Wearing of Seat Belts) Regulations 1993 (exemptions)[^f00087], for “relevant” to “(asp 5))” substitute “Scottish Fire and Rescue Service”.
 
 ### Town and Country Planning (Hazardous Substances) (Scotland) Regulations 1993
 
-**11.**[^key-aa3af6990ac323b87db58068d8eb6339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-aa3af6990ac323b87db58068d8eb6339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Roads (Traffic Calming) (Scotland) Regulations 1994
 
-**12.**[^key-d0b26b8b39d649f80883738637d82acd] For regulation 4(c) of the Roads (Traffic Calming) (Scotland) Regulations 1994 (consultation in respect of proposed traffic calming works)[^f00089] substitute—
+**12.**[^c-d0b26b8b39d649f80883738637d82acd] For regulation 4(c) of the Roads (Traffic Calming) (Scotland) Regulations 1994 (consultation in respect of proposed traffic calming works)[^f00089] substitute—
 
 > - (c) the Scottish Fire and Rescue Service;
 
@@ -618,21 +618,21 @@ Article 4
 
 ### Motorways Traffic (Scotland) Regulations 1995
 
-**13.**[^key-d4204d64ec9e64dde3f9432838aaf307] In regulation 14(1)(d) of the Motorways Traffic (Scotland) Regulations 1995 (exceptions and relaxations)[^f00090]—
+**13.**[^c-d4204d64ec9e64dde3f9432838aaf307] In regulation 14(1)(d) of the Motorways Traffic (Scotland) Regulations 1995 (exceptions and relaxations)[^f00090]—
 
 - (a) for the third “a” to “(asp 5))” substitute “the Scottish Fire and Rescue Service”; and
 - (b) for the second “authority” substitute “Service”.
 
 ### Residential Establishments – Child Care (Scotland) Regulations 1996
 
-**14.**[^key-a5ae546e6c8c3380d7c2fd8f650b662c] In regulation 9(1) of the Residential Establishments – Child Care (Scotland) Regulations 1996 (precautions against fire and accident)[^f00091]—
+**14.**[^c-a5ae546e6c8c3380d7c2fd8f650b662c] In regulation 9(1) of the Residential Establishments – Child Care (Scotland) Regulations 1996 (precautions against fire and accident)[^f00091]—
 
 - (a) for the first “relevant” to “situated” substitute “Scottish Fire and Rescue Service”; and
 - (b) for the second “the relevant authority” substitute “that Service”.
 
 ### Zebra, Pelican and Puffin Pedestrian Crossings Regulations and General Directions 1997
 
-**15.**[^key-670a5e0ebc74547033725b270a0c3817] (1) The Zebra, Pelican and Puffin Pedestrian Crossings Regulations and General Directions 1997[^f00092] are modified as follows.
+**15.**[^c-670a5e0ebc74547033725b270a0c3817] (1) The Zebra, Pelican and Puffin Pedestrian Crossings Regulations and General Directions 1997[^f00092] are modified as follows.
 
 (2) In regulation 12(1)(e) (significance of vehicular light signals at Pelican crossings), for “relevant” to “(asp 5))” substitute “Scottish Fire and Rescue Service”.
 
@@ -642,7 +642,7 @@ Article 4
 
 ### Road Humps (Scotland) Regulations 1998
 
-**16.**[^key-25d78c1f7707aba5eea3a7fc382750b0] In regulation 3 of the Road Humps (Scotland) Regulations 1998 (consultation on road hump proposals)[^f00093], for sub-paragraph (b) substitute—
+**16.**[^c-25d78c1f7707aba5eea3a7fc382750b0] In regulation 3 of the Road Humps (Scotland) Regulations 1998 (consultation on road hump proposals)[^f00093], for sub-paragraph (b) substitute—
 
 > - (b) the Scottish Fire and Rescue Service;
 
@@ -650,7 +650,7 @@ Article 4
 
 ### Local Authorities’ Traffic Orders (Procedure) (Scotland) Regulations 1999
 
-**17.**[^key-b9b5899e90d240a75ef7491e9a7d9e5c] (1) The Local Authorities’ Traffic Orders (Procedure) (Scotland) Regulations 1999[^f00094] are modified as follows.
+**17.**[^c-b9b5899e90d240a75ef7491e9a7d9e5c] (1) The Local Authorities’ Traffic Orders (Procedure) (Scotland) Regulations 1999[^f00094] are modified as follows.
 
 (2) In regulation 2 (interpretation)[^f00095] omit the definition of “fire authority”.
 
@@ -658,7 +658,7 @@ Article 4
 
 ### Motor Vehicles (Driving Licences) Regulations 1999
 
-**18.**[^key-4501925d01944e84dbcafa32bc077562] (1) The Motor Vehicles (Driving Licences) Regulations 1999[^f00096] are modified as follows.
+**18.**[^c-4501925d01944e84dbcafa32bc077562] (1) The Motor Vehicles (Driving Licences) Regulations 1999[^f00096] are modified as follows.
 
 (2) In regulation 23(1)(db) (persons by whom theory tests may be conducted)[^f00097]—
 
@@ -672,7 +672,7 @@ Article 4
 
 ### Traffic Signs Regulations and General Directions 2002
 
-**19.**[^key-a6fccaf8de2a29e5afdd335e02dddea5] (1) The Traffic Signs Regulations and General Directions 2002[^f00099] are modified as follows.
+**19.**[^c-a6fccaf8de2a29e5afdd335e02dddea5] (1) The Traffic Signs Regulations and General Directions 2002[^f00099] are modified as follows.
 
 (2) In each of the following provisions, for the words from “relevant” to “(asp 5))” substitute “Scottish Fire and Rescue Service”—
 
@@ -684,11 +684,11 @@ Article 4
 
 ### Building (Procedure) (Scotland) Regulations 2004
 
-**20.**[^key-c59c9d7fd9553de43f164cfc7dc14643] In regulation 2 of the Building (Procedure) (Scotland) Regulations 2004 (interpretation)[^f00100], in the definition of “fire authority” omit sub-paragraphs (b) and (c).
+**20.**[^c-c59c9d7fd9553de43f164cfc7dc14643] In regulation 2 of the Building (Procedure) (Scotland) Regulations 2004 (interpretation)[^f00100], in the definition of “fire authority” omit sub-paragraphs (b) and (c).
 
 ### Fire (Additional Function) (Scotland) Order 2005
 
-**21.**[^key-dbcf5513f7310f9475e2b360eb52ac64] (1) The Fire (Additional Function) (Scotland) Order 2005[^f00101] is modified as follows.
+**21.**[^c-dbcf5513f7310f9475e2b360eb52ac64] (1) The Fire (Additional Function) (Scotland) Order 2005[^f00101] is modified as follows.
 
 (2) In article 2(1) (interpretation) omit the definition of “specified authority”.
 
@@ -700,7 +700,7 @@ Article 4
 
 ### Fire (Charging) (Scotland) Order 2005
 
-**22.**[^key-3d337db15960ee4cf729a92ae88cc837] (1) The Fire (Charging) (Scotland) Order 2005[^f00102] is modified as follows.
+**22.**[^c-3d337db15960ee4cf729a92ae88cc837] (1) The Fire (Charging) (Scotland) Order 2005[^f00102] is modified as follows.
 
 (2) In article 2 (power to charge for services)—
 
@@ -716,7 +716,7 @@ Article 4
 
 ### Fire Safety (Scotland) Regulations 2006
 
-**23.**[^key-6323f9d3195d450c3f0612d7fcf6a06b] (1) The Fire Safety (Scotland) Regulations 2006[^f00103] are modified as follows.
+**23.**[^c-6323f9d3195d450c3f0612d7fcf6a06b] (1) The Fire Safety (Scotland) Regulations 2006[^f00103] are modified as follows.
 
 (2) In regulation 23 (maintenance of measures provided in relevant premises for protection of fire fighters), for “relevant authorities” substitute “the Scottish Fire and Rescue Service”.
 
@@ -727,7 +727,7 @@ Article 4
 
 ### REACH Enforcement Regulations 2008
 
-**24.**[^key-23ca0878c609361584437f1e0521b3ef] In paragraph 5 of Part 3 of Schedule 3 to the REACH Enforcement Regulations 2008 (The Executive)[^f00104], for head (e) substitute—
+**24.**[^c-23ca0878c609361584437f1e0521b3ef] In paragraph 5 of Part 3 of Schedule 3 to the REACH Enforcement Regulations 2008 (The Executive)[^f00104], for head (e) substitute—
 
 > - (e) the Scottish Fire and Rescue Service;
 
@@ -735,11 +735,11 @@ Article 4
 
 ### A9 Trunk Road (Bankfoot) (Prohibition of Specified Turns) Order 2009
 
-**25.**[^key-bb7e3d1004eeb5bad3fb467ba5686ec0] In article 4 of the A9 Trunk Road (Bankfoot) (Prohibition of Specified Turns) Order 2009 (exemption for emergency vehicles)[^f00105], for the second “a” to “2005)” substitute “the Scottish Fire and Rescue Service”.
+**25.**[^c-bb7e3d1004eeb5bad3fb467ba5686ec0] In article 4 of the A9 Trunk Road (Bankfoot) (Prohibition of Specified Turns) Order 2009 (exemption for emergency vehicles)[^f00105], for the second “a” to “2005)” substitute “the Scottish Fire and Rescue Service”.
 
 ### Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009
 
-**26.**[^key-0f3e44956dea540027f155ab6de9e4a4] (1) The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009[^f00106] are modified as follows.
+**26.**[^c-0f3e44956dea540027f155ab6de9e4a4] (1) The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009[^f00106] are modified as follows.
 
 (2) In regulation 2(5) (interpretation – general) omit the definition of “relevant authority”.
 
@@ -752,11 +752,11 @@ Article 4
 
 ### Control of Asbestos Regulations 2012
 
-**27.**[^key-65f73776f21a4f1e9dc111db3fa64d11] In regulation 3(4)(a) of the Control of Asbestos Regulations 2012 (application of these Regulations)[^f00107], for the second “a” to “2005” substitute “the Scottish Fire and Rescue Service”.
+**27.**[^c-65f73776f21a4f1e9dc111db3fa64d11] In regulation 3(4)(a) of the Control of Asbestos Regulations 2012 (application of these Regulations)[^f00107], for the second “a” to “2005” substitute “the Scottish Fire and Rescue Service”.
 
 ### Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013
 
-**28.**[^key-17012ace0e20e02495ff72de58c0bd8c] In paragraph 23 of Part 2 of Schedule 4 to the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (excepted professions, offices, employments, and occupations)[^f00108], for “a” to “2005” substitute “the Scottish Fire and Rescue Service”.
+**28.**[^c-17012ace0e20e02495ff72de58c0bd8c] In paragraph 23 of Part 2 of Schedule 4 to the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (excepted professions, offices, employments, and occupations)[^f00108], for “a” to “2005” substitute “the Scottish Fire and Rescue Service”.
 
 ## SCHEDULE 3 — MODIFICATIONS RELATING TO POLICE AND FIRE
 
@@ -766,7 +766,7 @@ Article 4
 
 #### Civil Contingencies Act 2004
 
-**1.**[^key-a45f654e192c291e1671d7b3691cb897] In Part 2 of Schedule 1 to the Civil Contingencies Act 2004[^f00109]—
+**1.**[^c-a45f654e192c291e1671d7b3691cb897] In Part 2 of Schedule 1 to the Civil Contingencies Act 2004[^f00109]—
 
 - (a) for paragraph 14 substitute—
 
@@ -783,7 +783,7 @@ Article 4
 
 #### Housing (Preservation of Right to Buy) (Scotland) Regulations 1993
 
-**2.**[^key-340d6e5e7eae0b572a5d474fdef638f6] In paragraph 82 of Schedule 2 to the Housing (Preservation of Right to Buy) (Scotland) Regulations 1993 (interpretation of this Part)[^f00110]—
+**2.**[^c-340d6e5e7eae0b572a5d474fdef638f6] In paragraph 82 of Schedule 2 to the Housing (Preservation of Right to Buy) (Scotland) Regulations 1993 (interpretation of this Part)[^f00110]—
 
 - (a) for the definition of “fire authority”[^f00111] substitute—
 
@@ -792,7 +792,7 @@ Article 4
 
 #### Fees in the Registers of Scotland Order 1995
 
-**3.**[^key-87a6d42e906bf1c5796121d1659e51e3] (1) The Fees in the Registers of Scotland Order 1995[^f00112] is modified as follows.
+**3.**[^c-87a6d42e906bf1c5796121d1659e51e3] (1) The Fees in the Registers of Scotland Order 1995[^f00112] is modified as follows.
 
 (2) In article 2 (interpretation)[^f00113], omit sub-paragraphs (c), (e) and (g).
 
@@ -810,7 +810,7 @@ Article 4
 
 #### Home Zones (Scotland) (No. 2) Regulations 2002
 
-**4.**[^key-a5d1a1a6e9dfe80ad4daf69d57de54d6] (1) The Home Zones (Scotland) (No. 2) Regulations 2002[^f00115] are modified as follows.
+**4.**[^c-a5d1a1a6e9dfe80ad4daf69d57de54d6] (1) The Home Zones (Scotland) (No. 2) Regulations 2002[^f00115] are modified as follows.
 
 (2) In regulation 2 (interpretation)[^f00116] omit the definition of “fire authority”.
 
@@ -823,7 +823,7 @@ Article 4
 
 #### Road User Charging (Consultation and Publication) (Scotland) Regulations 2003
 
-**5.**[^key-9babfac3e0c3cba2e8232b263cc720eb] (1) The Road User Charging (Consultation and Publication) (Scotland) Regulations 2003[^f00117] are modified as follows.
+**5.**[^c-9babfac3e0c3cba2e8232b263cc720eb] (1) The Road User Charging (Consultation and Publication) (Scotland) Regulations 2003[^f00117] are modified as follows.
 
 (2) In regulation 2 (interpretation)[^f00118] omit the definition of “police area”.
 
@@ -840,7 +840,7 @@ Article 4
 
 #### Road User Charging (Exemption from Charges) (Scotland) Regulations 2004
 
-**6.**[^key-ee4125cb679c23a69707c4ef887175f8] In the Schedule to the Road User Charging (Exemption from Charges) (Scotland) Regulations 2004 (descriptions of vehicles exempted from payment of charges)[^f00120]—
+**6.**[^c-ee4125cb679c23a69707c4ef887175f8] In the Schedule to the Road User Charging (Exemption from Charges) (Scotland) Regulations 2004 (descriptions of vehicles exempted from payment of charges)[^f00120]—
 
 - (a) in paragraph 1[^f00121], for “a” to “(asp 5)” substitute “the Scottish Fire and Rescue Service”; and
 - (b) in paragraph 2[^f00122]—
@@ -849,7 +849,7 @@ Article 4
 
 #### Local Governance (Scotland) Act 2004 (Remuneration) Regulations 2007
 
-**7.**[^key-a1fa77ba136e120ce65418363454dd29] (1) The Local Governance (Scotland) Act 2004 (Remuneration) Regulations 2007[^f00123] are modified as follows.
+**7.**[^c-a1fa77ba136e120ce65418363454dd29] (1) The Local Governance (Scotland) Act 2004 (Remuneration) Regulations 2007[^f00123] are modified as follows.
 
 (2) In regulation 2 (interpretation), in the definition of “joint board” omit “, and” to “2005”.
 
@@ -864,7 +864,7 @@ Article 4
 
 #### Disclosure (Persons engaged in the Investigation and Reporting of Crime or Sudden Deaths) (Scotland) Regulations 2011
 
-**8.**[^key-780d6852c98185cfaeb9f80bebb5c4cd] In the Schedule to the Disclosure (Persons engaged in the Investigation and Reporting of Crime or Sudden Deaths) (Scotland) Regulations 2011[^f00127]—
+**8.**[^c-780d6852c98185cfaeb9f80bebb5c4cd] In the Schedule to the Disclosure (Persons engaged in the Investigation and Reporting of Crime or Sudden Deaths) (Scotland) Regulations 2011[^f00127]—
 
 - (a) under the heading “*Commissioners*”, after “Information Commissioner” insert—
 
@@ -889,7 +889,7 @@ Article 4
 
 #### Public Contracts (Scotland) Regulations 2012
 
-**9.**[^key-9cd96c0a12394fe622abd9b515236038] (1) The Public Contracts (Scotland) Regulations 2012[^f00128] are modified as follows.
+**9.**[^c-9cd96c0a12394fe622abd9b515236038] (1) The Public Contracts (Scotland) Regulations 2012[^f00128] are modified as follows.
 
 (2) In regulation 3(1) (contracting authorities)—
 
@@ -911,7 +911,7 @@ Article 4
 
 #### Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012
 
-**10.**[^key-fa251088c5cc3075ae95002150ecbaae] In the Schedule to the Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012 (list of public authorities)[^f00130]—
+**10.**[^c-fa251088c5cc3075ae95002150ecbaae] In the Schedule to the Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012 (list of public authorities)[^f00130]—
 
 - (a) under the heading “*Local government*” omit “A joint fire and rescue board constituted by a scheme under section 2(1) of the Fire (Scotland) Act 2005.”;
 - (b) for the heading “*Police*” substitute “*Police and Fire*”;
@@ -940,9 +940,9 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00001]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-9b72b14845d8d838d724b2e8fa626abd]: Commencement: Art. 1 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-9b72b14845d8d838d724b2e8fa626abd]: Commencement: Art. 1 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
-[^key-40bf99d5733894ef0c59c64e0a3db3bc]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-40bf99d5733894ef0c59c64e0a3db3bc]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00002]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
 
@@ -956,15 +956,15 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00007]: Footnote: [S.I. 1996/1644](https://www.legislation.gov.uk/uksi/1996/1644).
 
-[^key-e38644a3379b707b2bf6c242c65d11ba]: Commencement: Art. 3 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-e38644a3379b707b2bf6c242c65d11ba]: Commencement: Art. 3 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00008]: Footnote: [S.I. 1985/267](https://www.legislation.gov.uk/uksi/1985/267). The Schedule was inserted by [S.S.I. 2011/64](https://www.legislation.gov.uk/ssi/2011/64).
 
 [^f00009]: Footnote: Section 19(2) has been amended by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13 and repealed by the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), schedule 8. There are other amendments not relevant to this Order.
 
-[^key-33a7ea21661e6a8d34ad7cf4fa93331a]: Commencement: Art. 4 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-33a7ea21661e6a8d34ad7cf4fa93331a]: Commencement: Art. 4 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
-[^key-86112e76dd39b732de67785deba7e0fb]: Commencement: Sch. 1 para. 1 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-86112e76dd39b732de67785deba7e0fb]: Commencement: Sch. 1 para. 1 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00010]: Footnote: [1906 c.32](https://www.legislation.gov.uk/ukpga/1906/32).
 
@@ -972,35 +972,35 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00012]: Footnote: Section 8 has been amended by the Statute Law Revision Act [1927 (c.42)](https://www.legislation.gov.uk/ukpga/1927/42), the Statute Law (Repeals) Act [1976 (c.16)](https://www.legislation.gov.uk/ukpga/1976/16), Schedule 1 and the Police (Scotland) Act [1967 (c.77)](https://www.legislation.gov.uk/ukpga/1967/77), Schedules 4 and 5.
 
-[^key-9af76177ee9db880598a4bff42d0657c]: Commencement: Sch. 1 para. 2 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-9af76177ee9db880598a4bff42d0657c]: Commencement: Sch. 1 para. 2 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00013]: Footnote: [1911 c.49](https://www.legislation.gov.uk/ukpga/1911/49). There are amendments to section 26 which are not relevant to this Order.
 
-[^key-f694848359d7d1ffe7fc92c53c56a0ab]: Commencement: Sch. 1 para. 3 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-f694848359d7d1ffe7fc92c53c56a0ab]: Commencement: Sch. 1 para. 3 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00014]: Footnote: [1919 c.97](https://www.legislation.gov.uk/ukpga/1919/97). Section 15 has been amended by section 21 of the Small Landholders and Agricultural Holdings (Scotland) Act [1931 (c.44)](https://www.legislation.gov.uk/ukpga/1931/44).
 
-[^key-54e70834d544745f9c3107dccfe8a3f7]: Commencement: Sch. 1 para. 4 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-54e70834d544745f9c3107dccfe8a3f7]: Commencement: Sch. 1 para. 4 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00015]: Footnote: [1933 c.12](https://www.legislation.gov.uk/ukpga/1933/12). Section 107 has been amended by the Police (Scotland) Act [1967 (c.77)](https://www.legislation.gov.uk/ukpga/1967/77), Schedule 4 and by the Police Act [1996 (c.16)](https://www.legislation.gov.uk/ukpga/1996/16), Schedule 9. There are other amendments to section 107 which are not relevant to this Order.
 
-[^key-601672ed89b298c5b0003d0ef10e43ff]: Commencement: Sch. 1 para. 5 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-601672ed89b298c5b0003d0ef10e43ff]: Commencement: Sch. 1 para. 5 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00016]: Footnote: [1968 c.54](https://www.legislation.gov.uk/ukpga/1968/54). There are amendments to section 18 which are not relevant to this Order.
 
-[^key-115a6868602a6d809eb9f5d882d37dd7]: Commencement: Sch. 1 para. 6 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-115a6868602a6d809eb9f5d882d37dd7]: Commencement: Sch. 1 para. 6 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00017]: Footnote: [1970 c.44](https://www.legislation.gov.uk/ukpga/1970/44). Section 21 has been amended by the Transport (Scotland) Act [2001 (asp 2)](https://www.legislation.gov.uk/asp/2001/2), section 73. There are other amendments to section 21 which are not relevant to this Order.
 
-[^key-1955f47ba1c6cdcf1e1cc71212bb3157]: Commencement: Sch. 1 para. 7 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-1955f47ba1c6cdcf1e1cc71212bb3157]: Commencement: Sch. 1 para. 7 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00018]: Footnote: [1980 c.65](https://www.legislation.gov.uk/ukpga/1980/65). Section 2(1) has been amended by the Fire (Scotland) Act [2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), schedule 3, paragraph 10. There are other amendments to section 2 which are not relevant to this Order.
 
-[^key-f141d702885e4ec78339ceaa6792ccb8]: Commencement: Sch. 1 para. 8 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-f141d702885e4ec78339ceaa6792ccb8]: Commencement: Sch. 1 para. 8 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00019]: Footnote: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69). Section 11A was inserted by the Wildlife and Natural Environment (Scotland) Act [2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), section 13(3) for the purposes specified in [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433) as amended by [S.S.I. 2012/281](https://www.legislation.gov.uk/ssi/2012/281).
 
-[^key-5e45aea2ae4dce137103c0ba3e08ddeb]: Commencement: Sch. 1 para. 9 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-5e45aea2ae4dce137103c0ba3e08ddeb]: Commencement: Sch. 1 para. 9 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00020]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27).
 
@@ -1010,7 +1010,7 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00023]: Footnote: There are amendments to section 104 which are not relevant to this Order.
 
-[^key-92630fd877b654ac0ef29d2ce57e84ab]: Commencement: Sch. 1 para. 10 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-92630fd877b654ac0ef29d2ce57e84ab]: Commencement: Sch. 1 para. 10 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00024]: Footnote: [1987 c.26](https://www.legislation.gov.uk/ukpga/1987/26).
 
@@ -1018,7 +1018,7 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00026]: Footnote: Section 82 has been amended by Part 2 of schedule 8 to the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8). There are other amendments to section 82 which are not relevant to this Order.
 
-[^key-7a75f5ec57e3cc479ca135909658ee4a]: Commencement: Sch. 1 para. 11 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-7a75f5ec57e3cc479ca135909658ee4a]: Commencement: Sch. 1 para. 11 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00027]: Footnote: [1988 c.43](https://www.legislation.gov.uk/ukpga/1988/43).
 
@@ -1026,35 +1026,35 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00029]: Footnote: Section 45 has been amended by Part 2 of schedule 8 to the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8). There are other amendments to section 45 which are not relevant to this Order.
 
-[^key-619048832b1e9cf142be1ce7a6b76957]: Commencement: Sch. 1 para. 12 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-619048832b1e9cf142be1ce7a6b76957]: Commencement: Sch. 1 para. 12 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00030]: Footnote: [1991 c.iv](https://www.legislation.gov.uk/ukla/1991/4). Section 24 has been amended by [S.I. 1996/749](https://www.legislation.gov.uk/uksi/1996/749).
 
-[^key-69b67526dc9e4c7cfcee83e694ac43a1]: Commencement: Sch. 1 para. 13 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-69b67526dc9e4c7cfcee83e694ac43a1]: Commencement: Sch. 1 para. 13 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00031]: Footnote: [1991 c.40](https://www.legislation.gov.uk/ukpga/1991/40). There are amendments to Schedule 3 which are not relevant to this Order.
 
-[^key-477934f4bc97910d8227a4a8f98dbe04]: Commencement: Sch. 1 para. 14 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-477934f4bc97910d8227a4a8f98dbe04]: Commencement: Sch. 1 para. 14 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00032]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53). Part 2 of Schedule 1 has been amended by the Police and Magistrates’ Courts Act [1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29), Schedule 5, paragraph 40(3). There are other amendments not relevant to this Order.
 
-[^key-8e1312bbeb064b2d472d9cbe862d32b2]: Commencement: Sch. 1 para. 15 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-8e1312bbeb064b2d472d9cbe862d32b2]: Commencement: Sch. 1 para. 15 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00033]: Footnote: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36). There is an amendment to section 53 which is not relevant to this Order.
 
-[^key-a43bdb6998f8e93d7e369abc0dcedb87]: Commencement: Sch. 1 para. 16 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-a43bdb6998f8e93d7e369abc0dcedb87]: Commencement: Sch. 1 para. 16 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00034]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 285 has been amended by the Crime and Punishment (Scotland) Act [1997 (c. 48)](https://www.legislation.gov.uk/ukpga/1997/48), section 59.
 
-[^key-83d2a7c85772450f3e4a34462ad0dec6]: Commencement: Sch. 1 para. 17 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-83d2a7c85772450f3e4a34462ad0dec6]: Commencement: Sch. 1 para. 17 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00035]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16). Section 62 has been amended by schedule 6 to the Police, Public Order and Criminal Justice (Scotland) Act [2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10) and by Part 1 of schedules 7 and 8 to the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8). There are other amendments to section 62 which are not relevant to this Order.
 
-[^key-a148f93a1a3726a5132add70cef1fd72]: Commencement: Sch. 1 para. 18 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-a148f93a1a3726a5132add70cef1fd72]: Commencement: Sch. 1 para. 18 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00036]: Footnote: [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10). Paragraph 2(2) was inserted by section 154(c) of the Housing (Scotland) Act [2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17). Paragraph 2 has also been amended by Part 2 of schedule 8 to the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8). There are other amendments to schedule 1 which are not relevant to this Order.
 
-[^key-318e9970f714f25bf5b5f107e1b9864b]: Commencement: Sch. 1 para. 19 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-318e9970f714f25bf5b5f107e1b9864b]: Commencement: Sch. 1 para. 19 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00037]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29).
 
@@ -1062,7 +1062,7 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00039]: Footnote: There are amendments to section 302 which are not relevant to this Order.
 
-[^key-ea33482e27e2c4367a939d25b7ac8040]: Commencement: Sch. 1 para. 20 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-ea33482e27e2c4367a939d25b7ac8040]: Commencement: Sch. 1 para. 20 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00040]: Footnote: [2003 c.42](https://www.legislation.gov.uk/ukpga/2003/42).
 
@@ -1078,31 +1078,31 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00046]: Footnote: There are amendments to section 112 which are not relevant to this Order.
 
-[^key-aab7a3e84636b0064b8be445ba26474c]: Commencement: Sch. 1 para. 21 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-aab7a3e84636b0064b8be445ba26474c]: Commencement: Sch. 1 para. 21 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00047]: Footnote: [2006 asp 10](https://www.legislation.gov.uk/asp/2006/10). Section 47 was substituted by paragraph 33(11) of schedule 7 to the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-2388e0aa06aa12b0399fb9113baa9d96]: Textual amendment: [Sch. 1 para. 22](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/22) revoked (10.10.2014) by [The Local Authority Accounts (Scotland) Regulations 2014 (S.S.I. 2014/200)](https://www.legislation.gov.uk/ssi/2014/200), [regs. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1), [4(d)](https://www.legislation.gov.uk/ssi/2014/200/regulation/4/d) (with [regs. 2](https://www.legislation.gov.uk/ssi/2014/200/regulation/2), [12](https://www.legislation.gov.uk/ssi/2014/200/regulation/12))
+[^c-2388e0aa06aa12b0399fb9113baa9d96]: Textual amendment: [Sch. 1 para. 22](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/22) revoked (10.10.2014) by [The Local Authority Accounts (Scotland) Regulations 2014 (S.S.I. 2014/200)](https://www.legislation.gov.uk/ssi/2014/200), [regs. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1), [4(d)](https://www.legislation.gov.uk/ssi/2014/200/regulation/4/d) (with [regs. 2](https://www.legislation.gov.uk/ssi/2014/200/regulation/2), [12](https://www.legislation.gov.uk/ssi/2014/200/regulation/12))
 
-[^key-4fa6fa9434b580f3530307bd5a434e6e]: Commencement: Sch. 1 para. 23 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-4fa6fa9434b580f3530307bd5a434e6e]: Commencement: Sch. 1 para. 23 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00049]: Footnote: [S.I. 1988/332](https://www.legislation.gov.uk/uksi/1988/332).
 
-[^key-e423841da0b6bf1272698c035b2c251f]: Commencement: Sch. 1 para. 24 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-e423841da0b6bf1272698c035b2c251f]: Commencement: Sch. 1 para. 24 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00050]: Footnote: [S.I. 1992/1332](https://www.legislation.gov.uk/uksi/1992/1332). There are amendments to regulation 3 which are not relevant to this Order.
 
-[^key-db47a1ec2be01335f47c8ba60ae0083f]: Commencement: Sch. 1 para. 25 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-db47a1ec2be01335f47c8ba60ae0083f]: Commencement: Sch. 1 para. 25 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00051]: Footnote: [S.I. 1998/192](https://www.legislation.gov.uk/uksi/1998/192).
 
 [^f00052]: Footnote: Paragraph (1) has been amended by [S.I. 1998/364](https://www.legislation.gov.uk/uksi/1998/364) and [S.S.I. 2009/187](https://www.legislation.gov.uk/ssi/2009/187).
 
-[^key-785a654975ac05eb0aa6af6e98b0aaba]: Commencement: Sch. 1 para. 26 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-785a654975ac05eb0aa6af6e98b0aaba]: Commencement: Sch. 1 para. 26 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00053]: Footnote: [S.S.I. 2004/205](https://www.legislation.gov.uk/ssi/2004/205).
 
-[^key-2b2aefd1ec865737226931fa2ff7d526]: Commencement: Sch. 1 para. 27 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-2b2aefd1ec865737226931fa2ff7d526]: Commencement: Sch. 1 para. 27 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00054]: Footnote: [S.S.I. 2005/494](https://www.legislation.gov.uk/ssi/2005/494).
 
@@ -1112,11 +1112,11 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00057]: Footnote: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-d5d7d64762170564260c8e37944e7dba]: Commencement: Sch. 1 para. 28 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-d5d7d64762170564260c8e37944e7dba]: Commencement: Sch. 1 para. 28 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00058]: Footnote: [S.S.I. 2006/63](https://www.legislation.gov.uk/ssi/2006/63).
 
-[^key-aef59d596d84c1675efb3bb5d12ac463]: Commencement: Sch. 1 para. 29 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-aef59d596d84c1675efb3bb5d12ac463]: Commencement: Sch. 1 para. 29 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00059]: Footnote: [S.S.I. 2006/170](https://www.legislation.gov.uk/ssi/2006/170).
 
@@ -1124,21 +1124,21 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00061]: Footnote: Article 2 has been amended by [S.S.I. 2007/89](https://www.legislation.gov.uk/ssi/2007/89).
 
-[^key-30a39fdf24bcd95198b50bbdc87b003c]: Commencement: Sch. 1 para. 30 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-30a39fdf24bcd95198b50bbdc87b003c]: Commencement: Sch. 1 para. 30 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00062]: Footnote: [S.S.I. 2006/484](https://www.legislation.gov.uk/ssi/2006/484). Schedule 2 has been amended by [S.S.I. 2008/358](https://www.legislation.gov.uk/ssi/2008/358). There are other amendments not relevant to this Order.
 
-[^key-d527ae4d105583af786bb65bfaa0cb15]: Commencement: Sch. 1 para. 31 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-d527ae4d105583af786bb65bfaa0cb15]: Commencement: Sch. 1 para. 31 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00063]: Footnote: [S.S.I. 2007/436](https://www.legislation.gov.uk/ssi/2007/436). There are amendments to the Schedule which are not relevant to this Order.
 
-[^key-54ee592e293df3106b76bd802e2c0e3f]: Textual amendment: [Sch. 1 para. 32](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/32) revoked (28.6.2014) by [The Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Regulations 2014 (S.S.I. 2014/147)](https://www.legislation.gov.uk/ssi/2014/147), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/147/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2014/147/schedule/2)
+[^c-54ee592e293df3106b76bd802e2c0e3f]: Textual amendment: [Sch. 1 para. 32](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/32) revoked (28.6.2014) by [The Sexual Offences Act 2003 (Prescribed Police Stations) (Scotland) Regulations 2014 (S.S.I. 2014/147)](https://www.legislation.gov.uk/ssi/2014/147), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/147/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2014/147/schedule/2)
 
-[^key-1a2f1f1cf490e1a3e238f502db180462]: Commencement: Sch. 1 para. 33 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-1a2f1f1cf490e1a3e238f502db180462]: Commencement: Sch. 1 para. 33 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00065]: Footnote: [S.S.I. 2009/71](https://www.legislation.gov.uk/ssi/2009/71). There are amendments to the Schedule which are not relevant to this Order.
 
-[^key-655e40854c942784a0491cd9767c1be9]: Commencement: Sch. 1 para. 34 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-655e40854c942784a0491cd9767c1be9]: Commencement: Sch. 1 para. 34 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00066]: Footnote: [S.S.I. 2010/168](https://www.legislation.gov.uk/ssi/2010/168).
 
@@ -1146,105 +1146,105 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00068]: Footnote: There is an amendment to regulation 16 which is not relevant to this Order.
 
-[^key-6f26b94d65cdfa5d5988094ac8f4c979]: Commencement: Sch. 1 para. 35 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-6f26b94d65cdfa5d5988094ac8f4c979]: Commencement: Sch. 1 para. 35 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00069]: Footnote: [S.S.I. 2010/214](https://www.legislation.gov.uk/ssi/2010/214).
 
 [^f00070]: Footnote: There is an amendment to article 4 which is not relevant to this Order.
 
-[^key-dcba8ec14cbc6ec0bea9c839649ae678]: Commencement: Sch. 1 para. 36 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-dcba8ec14cbc6ec0bea9c839649ae678]: Commencement: Sch. 1 para. 36 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00071]: Footnote: [S.S.I. 2010/350](https://www.legislation.gov.uk/ssi/2010/350).
 
-[^key-a112946028ab5c038d47ff2da3c859e4]: Commencement: Sch. 1 para. 37 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-a112946028ab5c038d47ff2da3c859e4]: Commencement: Sch. 1 para. 37 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00072]: Footnote: [S.S.I. 2010/383](https://www.legislation.gov.uk/ssi/2010/383).
 
-[^key-b5a89b5ce819a6540f0128c93c3f9297]: Commencement: Sch. 1 para. 38 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-b5a89b5ce819a6540f0128c93c3f9297]: Commencement: Sch. 1 para. 38 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00073]: Footnote: [S.S.I. 2010/2476](https://www.legislation.gov.uk/ssi/2010/2476). There are amendments to Part I which are not relevant to this Order.
 
-[^key-ccb6835cf9638bb16bd1d6816fead320]: Commencement: Sch. 1 para. 39 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-ccb6835cf9638bb16bd1d6816fead320]: Commencement: Sch. 1 para. 39 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00074]: Footnote: [S.S.I. 2011/331](https://www.legislation.gov.uk/ssi/2011/331).
 
-[^key-98b7bb7bcc949162caf4a23f8487e31c]: Commencement: Sch. 1 para. 40 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-98b7bb7bcc949162caf4a23f8487e31c]: Commencement: Sch. 1 para. 40 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00075]: Footnote: [S.S.I. 2012/282](https://www.legislation.gov.uk/ssi/2012/282).
 
-[^key-8105f0d3756bfbe18b8ba01b4450f7b4]: Commencement: Sch. 2 para. 1 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-8105f0d3756bfbe18b8ba01b4450f7b4]: Commencement: Sch. 2 para. 1 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00076]: Footnote: [S.I. 1955/1125](https://www.legislation.gov.uk/uksi/1955/1125) (s.112).
 
-[^key-1b67ce673e94548f33429108a584a6e5]: Commencement: Sch. 2 para. 2 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-1b67ce673e94548f33429108a584a6e5]: Commencement: Sch. 2 para. 2 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00077]: Footnote: [S.I. 1975/1379](https://www.legislation.gov.uk/uksi/1975/1379). Paragraph 19B was inserted by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-443855d6edd8b62c16de5044e0d19f87]: Commencement: Sch. 2 para. 3 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-443855d6edd8b62c16de5044e0d19f87]: Commencement: Sch. 2 para. 3 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00078]: Footnote: [S.I. 1981/1499](https://www.legislation.gov.uk/uksi/1981/1499). Regulation 20(2)(b)(ii) has been amended for Scotland by [S.I. 1991/159](https://www.legislation.gov.uk/uksi/1991/159) and [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-49578c0f251f6663e68bc27279973db2]: Commencement: Sch. 2 para. 4 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-49578c0f251f6663e68bc27279973db2]: Commencement: Sch. 2 para. 4 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00079]: Footnote: [S.I. 1986/1078](https://www.legislation.gov.uk/uksi/1986/1078). Relevant amendments were made for Scotland by [S.I. 1988/271](https://www.legislation.gov.uk/uksi/1988/271), [S.I. 1993/3048](https://www.legislation.gov.uk/uksi/1993/3048), [S.I. 1997/530](https://www.legislation.gov.uk/uksi/1997/530), [S.I. 2005/3170](https://www.legislation.gov.uk/uksi/2005/3170) and [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-9566efefeca99edf4f323b31fb0a41b4]: Commencement: Sch. 2 para. 5 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-9566efefeca99edf4f323b31fb0a41b4]: Commencement: Sch. 2 para. 5 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00080]: Footnote: [S.I. 1987/37](https://www.legislation.gov.uk/uksi/1987/37). Relevant amendments were made for Scotland by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344) and [S.S.I. 2006/457](https://www.legislation.gov.uk/ssi/2006/457).
 
-[^key-b49ac5f4fcbd0ec9447ef8c18c53b679]: Commencement: Sch. 2 para. 6 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-b49ac5f4fcbd0ec9447ef8c18c53b679]: Commencement: Sch. 2 para. 6 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00081]: Footnote: [S.I. 1989/1401](https://www.legislation.gov.uk/uksi/1989/1401). Relevant amendments were made for Scotland by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-93b3a8740cd30ed54e9d03d4a4161a5f]: Commencement: Sch. 2 para. 7 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-93b3a8740cd30ed54e9d03d4a4161a5f]: Commencement: Sch. 2 para. 7 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00082]: Footnote: [S.I. 1989/1796](https://www.legislation.gov.uk/uksi/1989/1796). Relevant amendments were made for Scotland by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344) and [S.I. 2009/3220](https://www.legislation.gov.uk/uksi/2009/3220).
 
-[^key-a31d1922991def53060c9e4ed606e5a7]: Commencement: Sch. 2 para. 8 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-a31d1922991def53060c9e4ed606e5a7]: Commencement: Sch. 2 para. 8 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00083]: Footnote: [S.I. 1990/304](https://www.legislation.gov.uk/uksi/1990/304).
 
 [^f00084]: Footnote: [S.I. 1993/176](https://www.legislation.gov.uk/uksi/1993/176). Regulation 2(1) has been amended for Scotland by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-fef9df15f2f50e13e70ef1368b002c35]: Commencement: Sch. 2 para. 9 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-fef9df15f2f50e13e70ef1368b002c35]: Commencement: Sch. 2 para. 9 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00085]: Footnote: [S.I. 1992/1215](https://www.legislation.gov.uk/uksi/1992/1215).
 
 [^f00086]: Footnote: Regulation 2 has been amended for Scotland by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-c730778bf0dcd3e8bcb15b52e3e02d0e]: Commencement: Sch. 2 para. 10 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-c730778bf0dcd3e8bcb15b52e3e02d0e]: Commencement: Sch. 2 para. 10 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00087]: Footnote: Regulation 6(1)(f) has been amended for Scotland by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-aa3af6990ac323b87db58068d8eb6339]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/11) revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
+[^c-aa3af6990ac323b87db58068d8eb6339]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/11) revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
 
-[^key-d0b26b8b39d649f80883738637d82acd]: Commencement: Sch. 2 para. 12 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-d0b26b8b39d649f80883738637d82acd]: Commencement: Sch. 2 para. 12 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00089]: Footnote: [S.I. 1994/2488](https://www.legislation.gov.uk/uksi/1994/2488). Regulation 4(c) has been amended by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-d4204d64ec9e64dde3f9432838aaf307]: Commencement: Sch. 2 para. 13 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-d4204d64ec9e64dde3f9432838aaf307]: Commencement: Sch. 2 para. 13 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00090]: Footnote: [S.I. 1995/2507](https://www.legislation.gov.uk/uksi/1995/2507). Regulation 14(1)(d) has been amended by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-a5ae546e6c8c3380d7c2fd8f650b662c]: Commencement: Sch. 2 para. 14 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-a5ae546e6c8c3380d7c2fd8f650b662c]: Commencement: Sch. 2 para. 14 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00091]: Footnote: [S.I. 1996/3256](https://www.legislation.gov.uk/uksi/1996/3256). Regulation 9(1) has been amended by [S.S.I 2005/344](https://www.legislation.gov.uk/ssi/2005/344) and [2006/457](https://www.legislation.gov.uk/ssi/2006/457) .
 
-[^key-670a5e0ebc74547033725b270a0c3817]: Commencement: Sch. 2 para. 15 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-670a5e0ebc74547033725b270a0c3817]: Commencement: Sch. 2 para. 15 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00092]: Footnote: [S.I. 1997/2400](https://www.legislation.gov.uk/uksi/1997/2400). Relevant amendments were made for Scotland by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344) and [S.I. 2011/935](https://www.legislation.gov.uk/uksi/2011/935).
 
-[^key-25d78c1f7707aba5eea3a7fc382750b0]: Commencement: Sch. 2 para. 16 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-25d78c1f7707aba5eea3a7fc382750b0]: Commencement: Sch. 2 para. 16 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00093]: Footnote: [S.I. 1998/1448](https://www.legislation.gov.uk/uksi/1998/1448). Regulation 3 has been amended by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-b9b5899e90d240a75ef7491e9a7d9e5c]: Commencement: Sch. 2 para. 17 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-b9b5899e90d240a75ef7491e9a7d9e5c]: Commencement: Sch. 2 para. 17 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00094]: Footnote: [S.S.I. 1999/614](https://www.legislation.gov.uk/ssi/1999/614).
 
 [^f00095]: Footnote: Regulation 2 has been amended by [S.S.I 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-4501925d01944e84dbcafa32bc077562]: Commencement: Sch. 2 para. 18 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-4501925d01944e84dbcafa32bc077562]: Commencement: Sch. 2 para. 18 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00096]: Footnote: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864).
 
@@ -1252,57 +1252,57 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00098]: Footnote: Regulation 24(1) has been amended by [S.I. 2000/3157](https://www.legislation.gov.uk/uksi/2000/3157) and [2009/788](https://www.legislation.gov.uk/uksi/2009/788) and by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-a6fccaf8de2a29e5afdd335e02dddea5]: Commencement: Sch. 2 para. 19 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-a6fccaf8de2a29e5afdd335e02dddea5]: Commencement: Sch. 2 para. 19 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00099]: Footnote: [S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113). Relevant amendments were made for Scotland by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344). There are other amendments which are not relevant to this Order.
 
-[^key-c59c9d7fd9553de43f164cfc7dc14643]: Commencement: Sch. 2 para. 20 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-c59c9d7fd9553de43f164cfc7dc14643]: Commencement: Sch. 2 para. 20 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00100]: Footnote: [S.S.I. 2005/342](https://www.legislation.gov.uk/ssi/2005/342). Regulation 2 has been amended by [S.I. 2009/117](https://www.legislation.gov.uk/uksi/2009/117). There are other amendments which are not relevant to this Order.
 
-[^key-dbcf5513f7310f9475e2b360eb52ac64]: Commencement: Sch. 2 para. 21 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-dbcf5513f7310f9475e2b360eb52ac64]: Commencement: Sch. 2 para. 21 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00101]: Footnote: [S.S.I. 2005/342](https://www.legislation.gov.uk/ssi/2005/342).
 
-[^key-3d337db15960ee4cf729a92ae88cc837]: Commencement: Sch. 2 para. 22 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-3d337db15960ee4cf729a92ae88cc837]: Commencement: Sch. 2 para. 22 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00102]: Footnote: [S.S.I. 2005/343](https://www.legislation.gov.uk/ssi/2005/343).
 
-[^key-6323f9d3195d450c3f0612d7fcf6a06b]: Commencement: Sch. 2 para. 23 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-6323f9d3195d450c3f0612d7fcf6a06b]: Commencement: Sch. 2 para. 23 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00103]: Footnote: [S.S.I. 2006/456](https://www.legislation.gov.uk/ssi/2006/456).
 
-[^key-23ca0878c609361584437f1e0521b3ef]: Commencement: Sch. 2 para. 24 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-23ca0878c609361584437f1e0521b3ef]: Commencement: Sch. 2 para. 24 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00104]: Footnote: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852). There is an amendment to paragraph 5 which is not relevant to this Order.
 
-[^key-bb7e3d1004eeb5bad3fb467ba5686ec0]: Commencement: Sch. 2 para. 25 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-bb7e3d1004eeb5bad3fb467ba5686ec0]: Commencement: Sch. 2 para. 25 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00105]: Footnote: [S.S.I. 2009/241](https://www.legislation.gov.uk/ssi/2009/241).
 
-[^key-0f3e44956dea540027f155ab6de9e4a4]: Commencement: Sch. 2 para. 26 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-0f3e44956dea540027f155ab6de9e4a4]: Commencement: Sch. 2 para. 26 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00106]: Footnote: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348).
 
-[^key-65f73776f21a4f1e9dc111db3fa64d11]: Commencement: Sch. 2 para. 27 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-65f73776f21a4f1e9dc111db3fa64d11]: Commencement: Sch. 2 para. 27 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00107]: Footnote: [S.I. 2012/632](https://www.legislation.gov.uk/uksi/2012/632).
 
-[^key-17012ace0e20e02495ff72de58c0bd8c]: Commencement: Sch. 2 para. 28 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-17012ace0e20e02495ff72de58c0bd8c]: Commencement: Sch. 2 para. 28 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00108]: Footnote: [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50). Paragraph 25 was inserted by [S.S.I. 2007/75](https://www.legislation.gov.uk/ssi/2007/75).
 
-[^key-a45f654e192c291e1671d7b3691cb897]: Commencement: Sch. 3 para. 1 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-a45f654e192c291e1671d7b3691cb897]: Commencement: Sch. 3 para. 1 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00109]: Footnote: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36).
 
-[^key-340d6e5e7eae0b572a5d474fdef638f6]: Commencement: Sch. 3 para. 2 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-340d6e5e7eae0b572a5d474fdef638f6]: Commencement: Sch. 3 para. 2 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00110]: Footnote: [S.I. 1993/2164](https://www.legislation.gov.uk/uksi/1993/2164).
 
 [^f00111]: Footnote: The definition of “fire authority” was substituted for Scotland by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-87a6d42e906bf1c5796121d1659e51e3]: Commencement: Sch. 3 para. 3 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-87a6d42e906bf1c5796121d1659e51e3]: Commencement: Sch. 3 para. 3 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00112]: Footnote: [S.I. 1995/1945](https://www.legislation.gov.uk/uksi/1995/1945).
 
@@ -1310,13 +1310,13 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00114]: Footnote: The Schedule was substituted by [S.S.I. 2010/404](https://www.legislation.gov.uk/ssi/2010/404) and paragraph A(10) has been amended by [S.S.I. 2011/211](https://www.legislation.gov.uk/ssi/2011/211).
 
-[^key-a5d1a1a6e9dfe80ad4daf69d57de54d6]: Commencement: Sch. 3 para. 4 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-a5d1a1a6e9dfe80ad4daf69d57de54d6]: Commencement: Sch. 3 para. 4 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00115]: Footnote: [S.S.I. 2002/292](https://www.legislation.gov.uk/ssi/2002/292).
 
 [^f00116]: Footnote: Regulation 2 has been amended by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-9babfac3e0c3cba2e8232b263cc720eb]: Commencement: Sch. 3 para. 5 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-9babfac3e0c3cba2e8232b263cc720eb]: Commencement: Sch. 3 para. 5 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00117]: Footnote: [S.S.I. 2003/292](https://www.legislation.gov.uk/ssi/2003/292).
 
@@ -1324,7 +1324,7 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00119]: Footnote: Regulation 3(1)(c) has been amended by [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344).
 
-[^key-ee4125cb679c23a69707c4ef887175f8]: Commencement: Sch. 3 para. 6 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-ee4125cb679c23a69707c4ef887175f8]: Commencement: Sch. 3 para. 6 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00120]: Footnote: [S.S.I. 2004/519](https://www.legislation.gov.uk/ssi/2004/519).
 
@@ -1332,7 +1332,7 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00122]: Footnote: Paragraph 2 has been amended by [S.S.I. 2007/89](https://www.legislation.gov.uk/ssi/2007/89).
 
-[^key-a1fa77ba136e120ce65418363454dd29]: Commencement: Sch. 3 para. 7 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-a1fa77ba136e120ce65418363454dd29]: Commencement: Sch. 3 para. 7 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00123]: Footnote: [S.S.I. 2007/183](https://www.legislation.gov.uk/ssi/2007/183).
 
@@ -1342,16 +1342,16 @@ This Order makes consequential changes to primary and secondary legislation in r
 
 [^f00126]: Footnote: There are amendments to regulation 12 which are not relevant to this Order.
 
-[^key-780d6852c98185cfaeb9f80bebb5c4cd]: Commencement: Sch. 3 para. 8 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-780d6852c98185cfaeb9f80bebb5c4cd]: Commencement: Sch. 3 para. 8 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00127]: Footnote: [S.S.I. 2011/146](https://www.legislation.gov.uk/ssi/2011/146).
 
-[^key-9cd96c0a12394fe622abd9b515236038]: Commencement: Sch. 3 para. 9 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-9cd96c0a12394fe622abd9b515236038]: Commencement: Sch. 3 para. 9 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00128]: Footnote: [S.S.I. 2012/88](https://www.legislation.gov.uk/ssi/2012/88).
 
 [^f00129]: Footnote: There are amendments to Schedule 1 which are not relevant to this Order.
 
-[^key-fa251088c5cc3075ae95002150ecbaae]: Commencement: Sch. 3 para. 10 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
+[^c-fa251088c5cc3075ae95002150ecbaae]: Commencement: Sch. 3 para. 10 in force at 1.4.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1)
 
 [^f00130]: Footnote: [S.S.I. 2012/162](https://www.legislation.gov.uk/ssi/2012/162).

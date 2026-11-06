@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Procurement covering several activities[^key-42aef46e6529a5a9077869632c454df3][^key-5cc79cc334e7d080ef30984ed1d6173d]
+## 6. Procurement covering several activities[^c-42aef46e6529a5a9077869632c454df3][^c-5cc79cc334e7d080ef30984ed1d6173d]
 
 *Extent: S*
 
-(1) Where a procurement has as its subject a contract intended to cover several activities and includes an activity which is covered by regulation 3(2)[^key-d91e82a99ba4792eb170a3d4624ab923] or is the supply of anything within section 7(1) of the Procurement Act 2023[^key-93905eae9e9c77beab4a6428175eaa55], regulation 25 (procurement covering several activities and involving defence and security aspects) applies.
+(1) Where a procurement has as its subject a contract intended to cover several activities and includes an activity which is covered by regulation 3(2)[^c-d91e82a99ba4792eb170a3d4624ab923] or is the supply of anything within section 7(1) of the Procurement Act 2023[^c-93905eae9e9c77beab4a6428175eaa55], regulation 25 (procurement covering several activities and involving defence and security aspects) applies.
 
 (2) Where a procurement has as its subject a contract intended to cover several activities, a utility may decide to undertake procurement for the award of—
 
@@ -45,10 +45,10 @@ summary: ''
 
 ## Annotations
 
-[^key-42aef46e6529a5a9077869632c454df3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/49/regulation/6) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-42aef46e6529a5a9077869632c454df3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/49/regulation/6) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-5cc79cc334e7d080ef30984ed1d6173d]: Modification: Reg. 6 applied (31.12.2020) by [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446), [reg. 4(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/4/2) (as amended by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/4/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1)))
+[^c-5cc79cc334e7d080ef30984ed1d6173d]: Modification: Reg. 6 applied (31.12.2020) by [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446), [reg. 4(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/4/2) (as amended by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/4/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1)))
 
-[^key-d91e82a99ba4792eb170a3d4624ab923]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2016/49/regulation/6/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(5)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/5) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-d91e82a99ba4792eb170a3d4624ab923]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2016/49/regulation/6/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(5)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/5) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-93905eae9e9c77beab4a6428175eaa55]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2016/49/regulation/6/1) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(5)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/5)
+[^c-93905eae9e9c77beab4a6428175eaa55]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2016/49/regulation/6/1) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(5)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/5)

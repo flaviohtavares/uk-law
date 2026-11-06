@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Prohibitions on the introduction of plant pests and relevant material from the European Union[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+## 19. Prohibitions on the introduction of plant pests and relevant material from the European Union[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b37e9440ba8259021a4d4c6e6755fd2e]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))
+[^c-b37e9440ba8259021a4d4c6e6755fd2e]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))

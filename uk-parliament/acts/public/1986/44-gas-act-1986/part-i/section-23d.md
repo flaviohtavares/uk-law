@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23D. Determination by CMA of appeal[^key-dbbf7d547ce0fb6695291b7a63b32cff][^key-3609e58b8d3f84660b9dc3717f0da250]
+## 23D. Determination by CMA of appeal[^c-dbbf7d547ce0fb6695291b7a63b32cff][^c-3609e58b8d3f84660b9dc3717f0da250]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies to every appeal brought under section 23B.
 
-(2) In determining an appeal the CMA[^key-862c6e86e2d84b5fb7978aa02e608a5b] must have regard, to the same extent as is required of the Authority, to the matters to which the Authority must have regard—
+(2) In determining an appeal the CMA[^c-862c6e86e2d84b5fb7978aa02e608a5b] must have regard, to the same extent as is required of the Authority, to the matters to which the Authority must have regard—
 
 - (a) in the carrying out of its principal objective under section 4AA;
 - (b) in the performance of its duties under that section; and
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-dbbf7d547ce0fb6695291b7a63b32cff]: Textual amendment: Ss. 23B-23G and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [41(7)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/41/7) (with [reg. 42](https://www.legislation.gov.uk/uksi/2011/2704/regulation/42))
+[^c-dbbf7d547ce0fb6695291b7a63b32cff]: Textual amendment: Ss. 23B-23G and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [41(7)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/41/7) (with [reg. 42](https://www.legislation.gov.uk/uksi/2011/2704/regulation/42))
 
-[^key-3609e58b8d3f84660b9dc3717f0da250]: Textual amendment: Word in s. 23D heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 18(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/18/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-3609e58b8d3f84660b9dc3717f0da250]: Textual amendment: Word in s. 23D heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 18(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/18/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-862c6e86e2d84b5fb7978aa02e608a5b]: Textual amendment: Word in s. 23D(2)-(5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 18(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/18/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-862c6e86e2d84b5fb7978aa02e608a5b]: Textual amendment: Word in s. 23D(2)-(5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 18(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/18/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

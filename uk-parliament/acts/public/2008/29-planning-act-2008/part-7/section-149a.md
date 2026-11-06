@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149A.  Deemed consent under a marine licence[^key-4f1324ae0d60371e7f206c64811ecf62]
+## 149A.  Deemed consent under a marine licence[^c-4f1324ae0d60371e7f206c64811ecf62]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 (3) Subsections (4) and (5) apply if an order granting development consent includes provision—
 
 - (a) deeming a marine licence to have been granted under Part 4 of the Marine and Coastal Access Act 2009 subject to specified conditions, and
-- (b) deeming those conditions to have been attached to the marine licence by the Secretary of State or the Welsh Ministers[^key-e1c3501e115df376adee737b719ad7fb] under that Part.
+- (b) deeming those conditions to have been attached to the marine licence by the Secretary of State or the Welsh Ministers[^c-e1c3501e115df376adee737b719ad7fb] under that Part.
 
 (4) A person who fails to comply with such a condition does not commit an offence under section 161 of this Act.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f1324ae0d60371e7f206c64811ecf62]: Textual amendment: S. 149A inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/4/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-4f1324ae0d60371e7f206c64811ecf62]: Textual amendment: S. 149A inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/4/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-e1c3501e115df376adee737b719ad7fb]: Textual amendment: Words in [s. 149A(3)(b)](https://www.legislation.gov.uk/ukpga/2008/29/section/149A/3/b) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 74](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/74) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-e1c3501e115df376adee737b719ad7fb]: Textual amendment: Words in [s. 149A(3)(b)](https://www.legislation.gov.uk/ukpga/2008/29/section/149A/3/b) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 74](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/74) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

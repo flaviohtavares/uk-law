@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Anti-social behaviour and other prohibited conduct[^key-68c250165d4d3ce1ac0220abdcd46fbf]
+## 55. Anti-social behaviour and other prohibited conduct[^c-68c250165d4d3ce1ac0220abdcd46fbf]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68c250165d4d3ce1ac0220abdcd46fbf]: Commencement: [S. 55](https://www.legislation.gov.uk/anaw/2016/1/section/55) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-68c250165d4d3ce1ac0220abdcd46fbf]: Commencement: [S. 55](https://www.legislation.gov.uk/anaw/2016/1/section/55) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

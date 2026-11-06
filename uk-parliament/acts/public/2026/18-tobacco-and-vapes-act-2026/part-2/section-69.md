@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Extension of retailer register etc[^key-76c5313089bcc042323533b50c79940e][^key-8fe175ad068435470df5f012ee1ccd7f]
+## 69. Extension of retailer register etc[^c-76c5313089bcc042323533b50c79940e][^c-8fe175ad068435470df5f012ee1ccd7f]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Schedule 9 contains amendments to the Tobacco and Primary Medical Services (Scot
 
 ## Annotations
 
-[^key-76c5313089bcc042323533b50c79940e]: Commencement: S. 69 not in force at Royal Assent, see [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7)
+[^c-76c5313089bcc042323533b50c79940e]: Commencement: S. 69 not in force at Royal Assent, see [s. 175(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/7)
 
-[^key-8fe175ad068435470df5f012ee1ccd7f]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2026/18/section/69) in force at 29.10.2026 by [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)
+[^c-8fe175ad068435470df5f012ee1ccd7f]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2026/18/section/69) in force at 29.10.2026 by [S.S.I. 2026/210](https://www.legislation.gov.uk/ssi/2026/210), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/210/regulation/2/1)

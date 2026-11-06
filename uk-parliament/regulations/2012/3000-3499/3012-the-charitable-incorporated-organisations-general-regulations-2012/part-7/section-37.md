@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Records to be kept of charity trustees’ decisions[^key-80834b9e08a5c5211e169b53a8afb056]
+## 37. Records to be kept of charity trustees’ decisions[^c-80834b9e08a5c5211e169b53a8afb056]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80834b9e08a5c5211e169b53a8afb056]: Commencement: Reg. 37 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-80834b9e08a5c5211e169b53a8afb056]: Commencement: Reg. 37 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

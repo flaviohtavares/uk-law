@@ -50,17 +50,17 @@ The Regulations give effect without modifications to proposals submitted to it b
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-1cf845c75ddb0b60fb0d66d36e807c22]
+### 1. Citation and commencement[^c-1cf845c75ddb0b60fb0d66d36e807c22]
 
 These Regulations may be cited as the Carriage of Dangerous Goods (Amendment) Regulations (Northern Ireland) 2019 and come into operation on 18<sup>th</sup> June 2019.
 
-### 2. Interpretation[^key-42dbda6f82ed3e294e65b015092a8f5b]
+### 2. Interpretation[^c-42dbda6f82ed3e294e65b015092a8f5b]
 
 In these Regulations, “the 2010 Regulations” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010[^f00012].
 
 ## PART 2 — Amendment to the 2010 Regulations
 
-### 3. Amendment to regulation 4 of the 2010 Regulations[^key-78790c8169d9fba837ec7ffdc1f35211]
+### 3. Amendment to regulation 4 of the 2010 Regulations[^c-78790c8169d9fba837ec7ffdc1f35211]
 
 In regulation 4 (application),
 
@@ -71,11 +71,11 @@ In regulation 4 (application),
   ;
 - (b) in paragraph (2), for “These Regulations” substitute “Parts 1 to 4, 6 and 7 of these Regulations”.
 
-### 4. Radiation emergencies and notifiable events[^key-16cfa1cbe531a7dbe57260ac260eec0a]
+### 4. Radiation emergencies and notifiable events[^c-16cfa1cbe531a7dbe57260ac260eec0a]
 
 For the heading to Part 5, substitute “Radiation Emergencies and Notifiable Events”.
 
-### 5. Amendment to regulation 20 (radiological emergencies)[^key-325a60935bdaffa90a7232b09cded846]
+### 5. Amendment to regulation 20 (radiological emergencies)[^c-325a60935bdaffa90a7232b09cded846]
 
 For regulation 20 substitute—
 
@@ -89,9 +89,9 @@ For regulation 20 substitute—
 
 .
 
-**6.**[^key-059ac8b3606797e416f6528a97287fb4] For Schedule 2, substitute the Schedule 2 set out in the Schedule to these Regulations.
+**6.**[^c-059ac8b3606797e416f6528a97287fb4] For Schedule 2, substitute the Schedule 2 set out in the Schedule to these Regulations.
 
-### 7. Transitional provisions[^key-a20f5c29af1a87372717f39a12f51ab0]
+### 7. Transitional provisions[^c-a20f5c29af1a87372717f39a12f51ab0]
 
 (1) Any person who had a duty under Schedule 2 to the 2010 Regulations prior to these Regulations coming into operation shall continue to comply with the provisions of that Schedule, as that Schedule had effect before the amendments made in regulations 5 and 6, until the relevant day.
 
@@ -105,11 +105,11 @@ Colin Jack
 
 A senior officer of the Department for the Economy
 
-## SCHEDULE — Radiation Emergencies and Notifiable Events[^key-9a80da5c28cf045590e9e89da425d5e1]
+## SCHEDULE — Radiation Emergencies and Notifiable Events[^c-9a80da5c28cf045590e9e89da425d5e1]
 
 Regulation 6
 
-[^key-9a80da5c28cf045590e9e89da425d5e1]This Schedule sets out the Schedule to be substituted for Schedule 2 to the 2010 Regulations (in accordance with regulation 6 above)—
+[^c-9a80da5c28cf045590e9e89da425d5e1]This Schedule sets out the Schedule to be substituted for Schedule 2 to the 2010 Regulations (in accordance with regulation 6 above)—
 
 > **SCHEDULE 2 — Radiation Emergencies and Notifiable Events**
 >
@@ -489,23 +489,23 @@ In Great Britain the corresponding Regulations are the Carriage of Dangerous Goo
 
 [^f00011]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18
 
-[^key-1cf845c75ddb0b60fb0d66d36e807c22]: Commencement: Reg. 1 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
+[^c-1cf845c75ddb0b60fb0d66d36e807c22]: Commencement: Reg. 1 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
 
-[^key-42dbda6f82ed3e294e65b015092a8f5b]: Commencement: Reg. 2 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
+[^c-42dbda6f82ed3e294e65b015092a8f5b]: Commencement: Reg. 2 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
 
 [^f00012]: Footnote: [S.R. 2010 No. 160](https://www.legislation.gov.uk/nisr/2010/160), amended by [S.R. 2011 No. 365](https://www.legislation.gov.uk/nisr/2011/365), [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235) and [S.R. 2017 No. 229](https://www.legislation.gov.uk/nisr/2017/229)
 
-[^key-78790c8169d9fba837ec7ffdc1f35211]: Commencement: Reg. 3 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
+[^c-78790c8169d9fba837ec7ffdc1f35211]: Commencement: Reg. 3 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
 
-[^key-16cfa1cbe531a7dbe57260ac260eec0a]: Commencement: Reg. 4 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
+[^c-16cfa1cbe531a7dbe57260ac260eec0a]: Commencement: Reg. 4 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
 
-[^key-325a60935bdaffa90a7232b09cded846]: Commencement: Reg. 5 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
+[^c-325a60935bdaffa90a7232b09cded846]: Commencement: Reg. 5 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
 
-[^key-059ac8b3606797e416f6528a97287fb4]: Commencement: Reg. 6 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
+[^c-059ac8b3606797e416f6528a97287fb4]: Commencement: Reg. 6 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
 
-[^key-a20f5c29af1a87372717f39a12f51ab0]: Commencement: Reg. 7 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
+[^c-a20f5c29af1a87372717f39a12f51ab0]: Commencement: Reg. 7 in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
 
-[^key-9a80da5c28cf045590e9e89da425d5e1]: Commencement: Sch. in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
+[^c-9a80da5c28cf045590e9e89da425d5e1]: Commencement: Sch. in operation at 18.6.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/111/regulation/1)
 
 [^f00013]: Footnote: [S.R. 2017 No. 229](https://www.legislation.gov.uk/nisr/2017/229)
 

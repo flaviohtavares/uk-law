@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Provision of facilities for the public in connection with ancient monuments.[^M_E_fb7a70df-3793-4c51-846b-8d438b3350b9][^key-330e80c1d2f58b213031785874982789][^key-cda51f7eec00a382cb99f625a2856100]
+## 20. Provision of facilities for the public in connection with ancient monuments.[^M_E_fb7a70df-3793-4c51-846b-8d438b3350b9][^c-330e80c1d2f58b213031785874982789][^c-cda51f7eec00a382cb99f625a2856100]
 
 *Extent: E+W*
 
@@ -55,9 +55,9 @@ as appear to them to be necessary or desirable.
 
 [^M_E_fb7a70df-3793-4c51-846b-8d438b3350b9]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-330e80c1d2f58b213031785874982789]: Modification: S. 20: functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(xxvii)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/xxvii) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
+[^c-330e80c1d2f58b213031785874982789]: Modification: S. 20: functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(xxvii)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/xxvii) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
 
-[^key-cda51f7eec00a382cb99f625a2856100]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/1979/46/section/20): functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(2)(xxvii)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/xxvii) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
+[^c-cda51f7eec00a382cb99f625a2856100]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/1979/46/section/20): functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(2)(xxvii)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/xxvii) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
 
 [^c250953]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 46(2)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/46/2)
 

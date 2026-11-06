@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Duty to decline to determine application where section 27 not complied with[^key-723fe870c16503c6c13e4c64a66d46bf][^key-c14228540bd4f640dfa2454879eab051][^key-2f5f0ed73ae267031cc18d32f95f44b5][^key-2f5f0ed73ae267031cc18d32f95f44b5]
+## 50. Duty to decline to determine application where section 27 not complied with[^c-723fe870c16503c6c13e4c64a66d46bf][^c-c14228540bd4f640dfa2454879eab051][^c-2f5f0ed73ae267031cc18d32f95f44b5][^c-2f5f0ed73ae267031cc18d32f95f44b5]
 
 *Extent: N.I.*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-723fe870c16503c6c13e4c64a66d46bf]: Commencement: S. 50 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
+[^c-723fe870c16503c6c13e4c64a66d46bf]: Commencement: S. 50 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
 
-[^key-c14228540bd4f640dfa2454879eab051]: Commencement: S. 50 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
+[^c-c14228540bd4f640dfa2454879eab051]: Commencement: S. 50 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
 
-[^key-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))

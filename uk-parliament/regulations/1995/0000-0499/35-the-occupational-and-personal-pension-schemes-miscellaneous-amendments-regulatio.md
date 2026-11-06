@@ -44,15 +44,15 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 These Regulations may be cited as the Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 1995 and shall come into force on 7th February 1995.
 
-## 2. Amendment of regulation 30 of the Occupational Pension Schemes (Contracting-out) Regulations 1984[^key-ee63dd2dfaee1c18bbe3e97b90440c9d]
+## 2. Amendment of regulation 30 of the Occupational Pension Schemes (Contracting-out) Regulations 1984[^c-ee63dd2dfaee1c18bbe3e97b90440c9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 1A of the Occupational Pension Schemes (Discharge of Liability) Regulations 1985[^key-d2929d5a18a0c0e6e108c6a9f7216c1d]
+## 3. Amendment of regulation 1A of the Occupational Pension Schemes (Discharge of Liability) Regulations 1985[^c-d2929d5a18a0c0e6e108c6a9f7216c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Money Purchase Contracted-out Schemes Regulations 1987[^key-ee63dd2dfaee1c18bbe3e97b90440c9d]
+## 4. Amendment of the Money Purchase Contracted-out Schemes Regulations 1987[^c-ee63dd2dfaee1c18bbe3e97b90440c9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -60,11 +60,11 @@ These Regulations may be cited as the Occupational and Personal Pension Schemes 
 
 In sub-paragraph 2(a)(i) of Schedule 3 to the Personal Pension Schemes (Disclosure of Information) Regulations 1987 [^c1788468] for the words “Schedule 13 to the Insurance Companies Regulations 1981" there shall be substituted the words “Schedule 10 to the Insurance Companies Regulations 1994".
 
-## 6. Amendment of regulation 9 of the Personal and Occupational Pension Schemes (Protected Rights) Regulations 1987[^key-ed5b9ff0b2b2d8ac24126a0981a69fac]
+## 6. Amendment of regulation 9 of the Personal and Occupational Pension Schemes (Protected Rights) Regulations 1987[^c-ed5b9ff0b2b2d8ac24126a0981a69fac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations 1988[^key-e5ad600fde40e26e96f19b3b74e9c232]
+## 7. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations 1988[^c-e5ad600fde40e26e96f19b3b74e9c232]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -127,15 +127,15 @@ These Regulations do not impose any costs on business.
 
 [^c1788458]: Marginal citation: *See* section 185(1) of the Pension Schemes Act 1993.
 
-[^key-ee63dd2dfaee1c18bbe3e97b90440c9d]: Textual amendment: Reg. 2, 4 revoked (6.4.1997) by [Occupational Pension Schemes (Contracting-out) Regulations 1996 (S.I. 1996/1172)](https://www.legislation.gov.uk/uksi/1996/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1172/regulation/1/1), [78](https://www.legislation.gov.uk/uksi/1996/1172/regulation/78), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/1172/schedule/2)
+[^c-ee63dd2dfaee1c18bbe3e97b90440c9d]: Textual amendment: Reg. 2, 4 revoked (6.4.1997) by [Occupational Pension Schemes (Contracting-out) Regulations 1996 (S.I. 1996/1172)](https://www.legislation.gov.uk/uksi/1996/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1172/regulation/1/1), [78](https://www.legislation.gov.uk/uksi/1996/1172/regulation/78), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/1172/schedule/2)
 
-[^key-d2929d5a18a0c0e6e108c6a9f7216c1d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/35/regulation/3) revoked (6.4.1997) by [The Occupational Pension Schemes (Discharge of Liability) Regulations 1997 (S.I. 1997/784)](https://www.legislation.gov.uk/uksi/1997/784), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/784/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/784/schedule/2)
+[^c-d2929d5a18a0c0e6e108c6a9f7216c1d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/35/regulation/3) revoked (6.4.1997) by [The Occupational Pension Schemes (Discharge of Liability) Regulations 1997 (S.I. 1997/784)](https://www.legislation.gov.uk/uksi/1997/784), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/784/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/784/schedule/2)
 
 [^c1788468]: Marginal citation: [S.I. 1987/1110](https://www.legislation.gov.uk/uksi/1987/1110); to which there are amendments not relevant to these Regulations.
 
-[^key-ed5b9ff0b2b2d8ac24126a0981a69fac]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/35/regulation/6) revoked (6.4.1997) by [The Personal and Occupational Pension Schemes (Protected Rights) Regulations 1996 (S.I. 1996/1537)](https://www.legislation.gov.uk/uksi/1996/1537), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1537/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/1996/1537/regulation/18), [Sch.](https://www.legislation.gov.uk/uksi/1996/1537/schedule)
+[^c-ed5b9ff0b2b2d8ac24126a0981a69fac]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/35/regulation/6) revoked (6.4.1997) by [The Personal and Occupational Pension Schemes (Protected Rights) Regulations 1996 (S.I. 1996/1537)](https://www.legislation.gov.uk/uksi/1996/1537), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1537/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/1996/1537/regulation/18), [Sch.](https://www.legislation.gov.uk/uksi/1996/1537/schedule)
 
-[^key-e5ad600fde40e26e96f19b3b74e9c232]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/35/regulation/7) revoked (6.4.1997) by [The Personal Pension Schemes (Appropriate Schemes) Regulations 1997 (S.I. 1997/470)](https://www.legislation.gov.uk/uksi/1997/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/470/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/1997/470/regulation/20), [Sch. 3](https://www.legislation.gov.uk/uksi/1997/470/schedule/3)
+[^c-e5ad600fde40e26e96f19b3b74e9c232]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/35/regulation/7) revoked (6.4.1997) by [The Personal Pension Schemes (Appropriate Schemes) Regulations 1997 (S.I. 1997/470)](https://www.legislation.gov.uk/uksi/1997/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/470/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/1997/470/regulation/20), [Sch. 3](https://www.legislation.gov.uk/uksi/1997/470/schedule/3)
 
 [^c1788472]: Marginal citation: [S.I. 1991/167](https://www.legislation.gov.uk/uksi/1991/167); relevant amending instrument is [S.I. 1994/1062](https://www.legislation.gov.uk/uksi/1994/1062).
 

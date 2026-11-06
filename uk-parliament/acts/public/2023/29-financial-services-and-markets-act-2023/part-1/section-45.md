@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Statement of policy on panel appointments[^key-cc9693d1951f0ebf0ccb238571b0bed0][^key-72c533bc83521fa6cd966775d172c3a4]
+## 45. Statement of policy on panel appointments[^c-cc9693d1951f0ebf0ccb238571b0bed0][^c-72c533bc83521fa6cd966775d172c3a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc9693d1951f0ebf0ccb238571b0bed0]: Commencement: S. 45 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-cc9693d1951f0ebf0ccb238571b0bed0]: Commencement: S. 45 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-72c533bc83521fa6cd966775d172c3a4]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/29/section/45) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ii)
+[^c-72c533bc83521fa6cd966775d172c3a4]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/29/section/45) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ii)

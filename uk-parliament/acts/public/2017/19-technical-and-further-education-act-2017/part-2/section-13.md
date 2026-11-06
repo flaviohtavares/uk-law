@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Enforcement of security[^key-720e613bd8f9fdd8ad4af2b0d1b36fce]
+## 13. Enforcement of security[^c-720e613bd8f9fdd8ad4af2b0d1b36fce]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A person may not take any step to enforce a security over property of a further 
 
 ## Annotations
 
-[^key-720e613bd8f9fdd8ad4af2b0d1b36fce]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/19/section/13) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-720e613bd8f9fdd8ad4af2b0d1b36fce]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/19/section/13) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

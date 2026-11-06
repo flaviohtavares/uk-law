@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Emergency workers for the purposes of section 67[^key-803be7b4bae58848446b7c7ff9b39faa]
+## 68. Emergency workers for the purposes of section 67[^c-803be7b4bae58848446b7c7ff9b39faa]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-803be7b4bae58848446b7c7ff9b39faa]: Commencement: S. 68 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-803be7b4bae58848446b7c7ff9b39faa]: Commencement: S. 68 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

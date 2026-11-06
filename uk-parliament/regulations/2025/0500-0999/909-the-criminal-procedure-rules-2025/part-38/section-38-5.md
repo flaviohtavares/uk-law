@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38.5. Crown Court judge’s permission to appeal[^key-a8842e78c359dc268acb1e78fa1f3050]
+## 38.5. Crown Court judge’s permission to appeal[^c-a8842e78c359dc268acb1e78fa1f3050]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8842e78c359dc268acb1e78fa1f3050]: Commencement: [Rule 38.5](https://www.legislation.gov.uk/uksi/2025/909/rule/38.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a8842e78c359dc268acb1e78fa1f3050]: Commencement: [Rule 38.5](https://www.legislation.gov.uk/uksi/2025/909/rule/38.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

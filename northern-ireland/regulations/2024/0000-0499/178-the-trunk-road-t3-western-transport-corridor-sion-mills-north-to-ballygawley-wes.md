@@ -55,13 +55,13 @@ In accordance with paragraphs 1, 2 and 3 of Schedule 8 to the 1993 Order, all no
 
 The Department having caused local inquiries to be held into the representations that were made and having considered the reports of the inquiries, now proposes to make an Order with modifications.
 
-## 1. Citation, commencement and interpretation[^key-81322825360adaa2c89a3e2c25a69679]
+## 1. Citation, commencement and interpretation[^c-81322825360adaa2c89a3e2c25a69679]
 
 This Order may be cited as The Trunk Road T3 \[Western Transport Corridor – Sion Mills (North) to Ballygawley (West)\] Order (Northern Ireland) 2024 and shall come into operation on 13th November 2024.
 
-**2.**[^key-74e320d8605360ac3375e18bcaad5bba] In this Order “Map 1” to “Map 29”, inclusive means the sequence of drawings numbered from 796036-WS-OD53-01 to 796036-WS-OD53-29 inclusive, marked The Trunk Road T3 \[Western Transport Corridor – Sion Mills (North) to Ballygawley (West)\] Order (Northern Ireland) 2024, copies of which have been deposited at the following offices of the Department: Western Division, County Hall, Drumragh Avenue, Omagh; Fermanagh & Omagh (East) Section Office, 32 Deverney Road, Arvalee, Omagh; Mid Ulster (South) Section Office, Moygashel Depot, Main Street, Moygashel; Derry City & Strabane Section Office, 18 Urney Road, Strabane; Derry City & Strabane Section Office, 1 Crescent Road, Londonderry; Lands Headquarters, James House, Cromac Avenue, Belfast; and at the offices of – Mid Ulster District Council, Circular Road, Dungannon; Derry City & Strabane District Council, 47 Derry Road, Strabane; Derry City & Strabane District Council, 98 Strand Road, Londonderry; Fermanagh & Omagh District Council, Strule House, 16 High Street, Omagh; and at the offices of Monaghan County Council, Planning Office, 1 Dublin Street, Monaghan Town, County Monaghan H18 X982 and Donegal County Council, Planning Office, County House, Lifford, County Donegal F93 Y622.
+**2.**[^c-74e320d8605360ac3375e18bcaad5bba] In this Order “Map 1” to “Map 29”, inclusive means the sequence of drawings numbered from 796036-WS-OD53-01 to 796036-WS-OD53-29 inclusive, marked The Trunk Road T3 \[Western Transport Corridor – Sion Mills (North) to Ballygawley (West)\] Order (Northern Ireland) 2024, copies of which have been deposited at the following offices of the Department: Western Division, County Hall, Drumragh Avenue, Omagh; Fermanagh & Omagh (East) Section Office, 32 Deverney Road, Arvalee, Omagh; Mid Ulster (South) Section Office, Moygashel Depot, Main Street, Moygashel; Derry City & Strabane Section Office, 18 Urney Road, Strabane; Derry City & Strabane Section Office, 1 Crescent Road, Londonderry; Lands Headquarters, James House, Cromac Avenue, Belfast; and at the offices of – Mid Ulster District Council, Circular Road, Dungannon; Derry City & Strabane District Council, 47 Derry Road, Strabane; Derry City & Strabane District Council, 98 Strand Road, Londonderry; Fermanagh & Omagh District Council, Strule House, 16 High Street, Omagh; and at the offices of Monaghan County Council, Planning Office, 1 Dublin Street, Monaghan Town, County Monaghan H18 X982 and Donegal County Council, Planning Office, County House, Lifford, County Donegal F93 Y622.
 
-## 3. Directions as to trunk roads[^key-776b2da894694a37f1793ca1d3ff67ce]
+## 3. Directions as to trunk roads[^c-776b2da894694a37f1793ca1d3ff67ce]
 
 The Department directs that the following roads shall become trunk roads—
 
@@ -69,7 +69,7 @@ The Department directs that the following roads shall become trunk roads—
 - (b) the road proposed to be constructed on the route described in Part II of the Schedule shall become trunk road and be part of the Cookstown-Omagh-Enniskillen-Aghalane-Land Frontier Trunk Road T10; and
 - (c) the road proposed to be constructed on the route described in Part III of the Schedule shall become trunk road and be part of the Aughnacloy-Ballygawley-Enniskillen-Belcoo-Land Frontier T6.
 
-## 4. Stopping-up of roads[^key-cc79af485f08bb96d336e03f7a2e7996]
+## 4. Stopping-up of roads[^c-cc79af485f08bb96d336e03f7a2e7996]
 
 (1) Subject to paragraph (2), the following roads shall be stopped-up—
 
@@ -92,7 +92,7 @@ A senior officer of the Department for Infrastructure
 
 Articles 3 and 4
 
-### PART 1 — NEW ROAD PROPOSED TO BE CONSTRUCTED TO BE TRUNK AND PART OF THE T3[^key-0733e11cba5793ab274f3645685d28ec]
+### PART 1 — NEW ROAD PROPOSED TO BE CONSTRUCTED TO BE TRUNK AND PART OF THE T3[^c-0733e11cba5793ab274f3645685d28ec]
 
 55.75 kilometres of new road (including 7 new junctions) in the townlands of Ballyfatten, Glebe, Seein, Glentimon, Ballought, Breen, Clady Johnston, Clady Blair, Mulvin, Urbalreagh, Milltown, Magheracoltan, Birnaghs, Laragh, Rakelly, Upper or New Deer Park, Newtown Stewart, Grange, Lislap West, Lurganboy, Beltany, Gortinagin, Castletown, Killinure, Gortnacreagh, Tully, Tattraconnaghty, Lislimnaghan, Bunnynubber, Mullaghmenagh Lower, Deer Park (McCormick), Ballygowan, Lammy, Rylands, Beagh, Drumshanly, Drumragh (Caldwell), Doogary, Freughmore, Tattykeel, Ranelly, Tullyrush, Rarone, Moylagh, Legacurry, Beagh, Killadroy, Kilnaheery, Fernaghandrum, Tullanafoile, Tamlaght, Tycanny, Glennageeragh, Kilgreen Upper, Kilgreen Lower, Errigal, Gort, Bloomhill, Cleanally, Sess, Carran, Feddan, Crossboy and Drumcorke in Derry City and Strabane, Fermanagh and Omagh and Mid Ulster district council areas and counties of Londonderry and Tyrone, consisting of:
 
@@ -102,47 +102,47 @@ Articles 3 and 4
 - (d) 0.66 kilometres of slip road extending in a generally south-easterly direction from the new roundabout which will exist on T10 A0032 Clanabogan Road, to the new route, more particularly delineated, coloured red and marked ‘Southbound On-Slip’ on Map 15; and
 - (e) 0.85 kilometres of slip road extending in a generally south-easterly direction from the new roundabout which will exist on T10 A0032 Clanabogan Road, to the new route, more particularly delineated, coloured red and marked ‘Northbound Off-Slip’ on Map 15.
 
-### PART II — NEW ROAD PROPOSED TO BE CONSTRUCTED TO BE TRUNK AND PART OF THE T10[^key-bb4d794165474bb1550daa5aa464216f]
+### PART II — NEW ROAD PROPOSED TO BE CONSTRUCTED TO BE TRUNK AND PART OF THE T10[^c-bb4d794165474bb1550daa5aa464216f]
 
 0.35 kilometres of new road to provide a new roundabout in the townlands of Ballygowan and Lammy in Fermanagh and Omagh District Council Area and County of Tyrone, from a point on the existing T10 A0032 Clanabogan Road 306 metres south-west of its junction with U2159 Dromore Road, to a point 481 metres south-west of that junction, more particularly delineated and coloured dark blue on Map 15.
 
-### PART III — NEW ROAD PROPOSED TO BE CONSTRUCTED TO BE TRUNK AND PART OF THE T6[^key-5fa3cc602b3d8d6807f25efb7e1e6d3c]
+### PART III — NEW ROAD PROPOSED TO BE CONSTRUCTED TO BE TRUNK AND PART OF THE T6[^c-5fa3cc602b3d8d6807f25efb7e1e6d3c]
 
 1.36 kilometres of new road in the townlands of Drumcorke, Tullybryan, Lisbeg and Grange in Mid Ulster District Council Area in County Tyrone, from a point on T6 A0004 Annaghilla Road, 120 metres south-west of its junction with C0650 Feddan Road, to its junction with the new Ballygawley Roundabout, more particularly delineated and coloured red on Map 29.
 
 ### PART IV — JUNCTIONS TO BE STOPPED-UP TO ROAD TRAFFIC
 
-**1.**[^key-e76ebcf5047fe2e56ea2f60c7e98fd80] U0216 Stone Road in the townland of Clady Johnston, at its northern junction with C0672 Urbalreagh Road, more particularly delineated, coloured brown and marked J15.1 on Map 4.
+**1.**[^c-e76ebcf5047fe2e56ea2f60c7e98fd80] U0216 Stone Road in the townland of Clady Johnston, at its northern junction with C0672 Urbalreagh Road, more particularly delineated, coloured brown and marked J15.1 on Map 4.
 
-**2.**[^key-40d5079414639f99de01211c29398b3b] B0084 Baronscourt Road in the townland of Upper or New Deer Park, at its junction with U0223 Golf Course Road, more particularly delineated, coloured brown and marked J18.1 on Map 7.
+**2.**[^c-40d5079414639f99de01211c29398b3b] B0084 Baronscourt Road in the townland of Upper or New Deer Park, at its junction with U0223 Golf Course Road, more particularly delineated, coloured brown and marked J18.1 on Map 7.
 
-**3.**[^key-0aa369aa364297023d348588b365fb73] U1516 known locally as McFarland’s Road in the townland of Killinure, at its junction with C0671 Castletown Road, more particularly delineated, coloured brown and marked J22.1 on Map 11.
+**3.**[^c-0aa369aa364297023d348588b365fb73] U1516 known locally as McFarland’s Road in the townland of Killinure, at its junction with C0671 Castletown Road, more particularly delineated, coloured brown and marked J22.1 on Map 11.
 
-**4.**[^key-d1ce765abbc672062b8ca28b5fa8eba0] U0406 Tycanny Road in the townland of Glennageeragh, at its junction with C0657 Newtownsaville Road, more particularly delineated, coloured brown and marked J37.1 on Map 26.
+**4.**[^c-d1ce765abbc672062b8ca28b5fa8eba0] U0406 Tycanny Road in the townland of Glennageeragh, at its junction with C0657 Newtownsaville Road, more particularly delineated, coloured brown and marked J37.1 on Map 26.
 
-**5.**[^key-ae8c0aa1b7ad7ccd14872f4d32f54c81] U0407 Rarogan Road in the townlands of Kilgreen Upper and Kilgreen Lower, at its junction with C0657 Newtownsaville Road, more particularly delineated, coloured brown and marked J37.2 on Map 26.
+**5.**[^c-ae8c0aa1b7ad7ccd14872f4d32f54c81] U0407 Rarogan Road in the townlands of Kilgreen Upper and Kilgreen Lower, at its junction with C0657 Newtownsaville Road, more particularly delineated, coloured brown and marked J37.2 on Map 26.
 
-**6.**[^key-cd948ef283efe849ea3756b62fa52817] U0340 Crew Road in the townland of Carran, at its junction with C0650 Feddan Road, more particularly delineated, coloured brown and marked J39.1 on Map 28.
+**6.**[^c-cd948ef283efe849ea3756b62fa52817] U0340 Crew Road in the townland of Carran, at its junction with C0650 Feddan Road, more particularly delineated, coloured brown and marked J39.1 on Map 28.
 
-**7.**[^key-de30f4d636cc67d3cec8fa2bc2a3b8c1] U0340 Crew Road in the townland of Carran, at its junction with C0651 Ballynasaggart Road, more particularly delineated, coloured brown and marked J39.2 on Map 28.
+**7.**[^c-de30f4d636cc67d3cec8fa2bc2a3b8c1] U0340 Crew Road in the townland of Carran, at its junction with C0651 Ballynasaggart Road, more particularly delineated, coloured brown and marked J39.2 on Map 28.
 
-**8.**[^key-ef369363459f89ea2df86271eccac049] C0651 Ballynany Road in the townland of Drumcorke, at its junction with A0004 Annaghilla Road, more particularly delineated, coloured brown and marked J40.1 on Map 29.
+**8.**[^c-ef369363459f89ea2df86271eccac049] C0651 Ballynany Road in the townland of Drumcorke, at its junction with A0004 Annaghilla Road, more particularly delineated, coloured brown and marked J40.1 on Map 29.
 
 ### PART V — ROADS TO BE STOPPED-UP TO ROAD TRAFFIC
 
-**1.**[^key-5ff1c731dba3c7ca2a1fdee5b0a43613] U0211 Peacock Road in the townland of Ballyfatten—
+**1.**[^c-5ff1c731dba3c7ca2a1fdee5b0a43613] U0211 Peacock Road in the townland of Ballyfatten—
 
 - (a) at a point 281 metres south-west of its junction with A0005 Melmount Road, more particularly delineated, coloured green and marked S12.3 on Map 1; and
 - (b) at a point 329 metres south-west of its junction with A0005 Melmount Road, more particularly delineated, coloured green and marked S12.4 on Map 1.
 
-**2.**[^key-064809a1a11b96ab17ebccdb9c4ad67f] C0678 Garden Road—
+**2.**[^c-064809a1a11b96ab17ebccdb9c4ad67f] C0678 Garden Road—
 
 - (a) in the townland of Seein, at a line 270 metres north-east of its junction with B0165 Bellspark Road, more particularly delineated, coloured green and marked S13.1 on Map 2;
 - (b) in the townlands of Seein and Glebe, at a line 209 metres north-east of its junction with B0165 Bellspark Road, more particularly delineated, coloured green and marked S13.2 on Map 2;
 - (c) in the townland of Glebe, at a point 26 metres north-east of its junction with B0165 Bellspark Road, more particularly delineated, coloured green and marked S13.5 on Map 2; and
 - (d) in the townland of Glebe, at a point 11 metres north-east of its junction with B0165 Bellspark Road, more particularly delineated, coloured green and marked S13.6 on Map 2.
 
-**3.**[^key-8083e1d3c4979e04e0258f76da147b6b] B0165 Bellspark Road—
+**3.**[^c-8083e1d3c4979e04e0258f76da147b6b] B0165 Bellspark Road—
 
 - (a) in the townland of Glebe, at a line 166 metres east of its junction with U0211 Peacock Road, more particularly delineated, coloured green and marked S13.3 on Map 2;
 - (b) in the townland of Glebe, at a line 159 metres west of its junction with C0678 Garden Road, more particularly delineated, coloured green and marked S13.4 on Map 2;
@@ -153,19 +153,19 @@ Articles 3 and 4
 - (g) in the townland of Seein, at a line 335 metres south-east of its junction with C0678 Garden Road, more particularly delineated, coloured green and marked S13.13 on Map 2; and
 - (h) in the townland of Seein, at a line 440 metres south-east of its junction with C0678 Garden Road, more particularly delineated, coloured green and marked S13.14 on Map 2.
 
-**4.**[^key-b66a5bbd672ed6bea4835182ce5d1a6a] U0212 High Road in the townland of Seein—
+**4.**[^c-b66a5bbd672ed6bea4835182ce5d1a6a] U0212 High Road in the townland of Seein—
 
 - (a) at a point 649 metres north-west of its junction with U0212 Seein Road, more particularly delineated, coloured green and marked S13.11 on Map 2; and
 - (b) at a point 699 metres north-west of its junction with U0212 Seein Road, more particularly delineated, coloured green and marked S13.12 on Map 2.
 
-**5.**[^key-a10f066bc26b3e02eaf3130ff2b2425e] U0212 Seein Road in the townland of Glentimon—
+**5.**[^c-a10f066bc26b3e02eaf3130ff2b2425e] U0212 Seein Road in the townland of Glentimon—
 
 - (a) at a line 584 metres south-west of its junction with B0165 Bellspark Road, more particularly delineated, coloured green and marked S14.1 on Map 3;
 - (b) at a point 754 metres south-west of its junction with B0165 Bellspark Road, more particularly delineated, coloured green and marked S14.2 on Map 3;
 - (c) at a line 940 metres south-west of its junction with B0165 Bellspark Road, more particularly delineated, coloured green and marked S14.3 on Map 3; and
 - (d) at a line 984 metres south-west of its junction with B0165 Bellspark Road, more particularly delineated, coloured green and marked S14.4 on Map 3.
 
-**6.**[^key-4117effc5aa25f6f15be84fabab784e6] C0672 Urbalreagh Road in the townland of Clady Johnston—
+**6.**[^c-4117effc5aa25f6f15be84fabab784e6] C0672 Urbalreagh Road in the townland of Clady Johnston—
 
 - (a) at a line 94 metres north of its northern junction with U0216 Stone Road, more particularly delineated, coloured green and marked S15.1 on Map 4;
 - (b) at a line 13 metres north of its northern junction with U0216 Stone Road, more particularly delineated, coloured green and marked S15.2 on Map 4;
@@ -174,88 +174,88 @@ Articles 3 and 4
 - (e) at a line extending from a point 6 metres south of its northern junction with U0216 Stone Road to a point 15 metres south of that junction, more particularly delineated, coloured green and marked S15.6 on Map 4; and
 - (f) at a line 52 metres south of its northern junction with U0216 Stone Road, more particularly delineated, coloured green and marked S15.7 on Map 4.
 
-**7.**[^key-7ceec13bf3444c60f68dccd442657365] U0216 Stone Road in the townland of Clady Johnston, at a line 197 metres south-west of its northern junction with C0672 Urbalreagh Road, more particularly delineated, coloured green and marked S15.3 on Map 4.
+**7.**[^c-7ceec13bf3444c60f68dccd442657365] U0216 Stone Road in the townland of Clady Johnston, at a line 197 metres south-west of its northern junction with C0672 Urbalreagh Road, more particularly delineated, coloured green and marked S15.3 on Map 4.
 
-**8.**[^key-2ea0946666c773bbadbdd93dc8dc6b8d] U0219 Derg Road in the townland of Urbalreagh—
+**8.**[^c-2ea0946666c773bbadbdd93dc8dc6b8d] U0219 Derg Road in the townland of Urbalreagh—
 
 - (a) at a point 436 metres south-west of its junction with C0679 Old Bridge Road, more particularly delineated, coloured green and marked S16.1 on Map 5;
 - (b) at a line 394 metres south-west of its junction with C0679 Old Bridge Road, more particularly delineated, coloured green and marked S16.2 on Map 5;
 - (c) at a point 323 metres south-west of its junction with C0679 Old Bridge Road, more particularly delineated, coloured green and marked S16.3 on Map 5; and
 - (d) at a line 149 metres south-west of its junction with C0679 Old Bridge Road, more particularly delineated, coloured green and marked S16.4 on Map 5.
 
-**9.**[^key-b533fa2fcf62f09c68e998cfec7d3c70] C0679 Milltown Road in the townlands of Milltown and Magheracoltan—
+**9.**[^c-b533fa2fcf62f09c68e998cfec7d3c70] C0679 Milltown Road in the townlands of Milltown and Magheracoltan—
 
 - (a) at a point 343 metres south-west of its junction with C0679 Magheracoltan Road, more particularly delineated, coloured green and marked S17.1 on Map 6; and
 - (b) at a point 379 metres south-west of its junction with C0679 Magheracoltan Road, more particularly delineated, coloured green and marked S17.2 on Map 6.
 
-**10.**[^key-6001998008891b9e6a900cb160572c52] C0679 Drumlegagh Road North in the townlands of Birnaghs and Laragh—
+**10.**[^c-6001998008891b9e6a900cb160572c52] C0679 Drumlegagh Road North in the townlands of Birnaghs and Laragh—
 
 - (a) at a line 453 metres south-west of its junction with B0084 Baronscourt Road, more particularly delineated, coloured green and marked S18.1 on Map 7; and
 - (b) at a point 292 metres south-west of its junction with B0084 Baronscourt Road, more particularly delineated, coloured green and marked S18.2 on Map 7.
 
-**11.**[^key-6e3a1db1d1bc9ea94853682acb4f11ae] U0223 Golf Course Road—
+**11.**[^c-6e3a1db1d1bc9ea94853682acb4f11ae] U0223 Golf Course Road—
 
 - (a) in the townlands of Laragh and Upper or New Deer Park, at a point 132 metres south-west of its junction with B0084 Baronscourt Road, more particularly delineated, coloured green and marked S18.3 on Map 7; and
 - (b) in the townland of Laragh, at a point 343 metres south-west of its junction with B0084 Baronscourt Road, more particularly delineated, coloured green and marked S18.5 on Map 7.
 
-**12.**[^key-fb44c6304eaeedcafbc8666ffe130dfd] B0084 Baronscourt Road in the townland of Laragh, at a point 391 metres south-west of its junction with U0223 Golf Course Road, more particularly delineated, coloured green and marked S18.4 on Map 7.
+**12.**[^c-fb44c6304eaeedcafbc8666ffe130dfd] B0084 Baronscourt Road in the townland of Laragh, at a point 391 metres south-west of its junction with U0223 Golf Course Road, more particularly delineated, coloured green and marked S18.4 on Map 7.
 
-**13.**[^key-41dec1a83191bfcd55827954b0eefcf0] U0234 Glen Road in the townland of Newtown Stewart—
+**13.**[^c-41dec1a83191bfcd55827954b0eefcf0] U0234 Glen Road in the townland of Newtown Stewart—
 
 - (a) at a line 489 metres south of its junction with C0671 Dublin Street, more particularly delineated, coloured green and marked S19.1 on Map 8; and
 - (b) at a line 606 metres south-west of its junction with C0671 Dublin Street, more particularly delineated, coloured green and marked S19.2 on Map 8.
 
-**14.**[^key-04571f98801c9c7a02db7a3faf3e43f6] U0234 Gortgranagh Road—
+**14.**[^c-04571f98801c9c7a02db7a3faf3e43f6] U0234 Gortgranagh Road—
 
 - (a) in the townlands of Newtown Stewart and Grange, at a line 419 metres south of its junction with C0671 Dublin Street, more particularly delineated, coloured green and marked S19.3 on Map 8; and
 - (b) in the townlands of Newtown Stewart and Grange, at a line 742 metres south of its junction with C0671 Dublin Street, more particularly delineated, coloured green and marked S19.4 on Map 8.
 
-**15.**[^key-4f7d69b39362ad00df670c6994081ecb] C0671 Castletown Road in the townland of Grange—
+**15.**[^c-4f7d69b39362ad00df670c6994081ecb] C0671 Castletown Road in the townland of Grange—
 
 - (a) at a line 341 metres south-east of its junction with C0671 Dublin Street, more particularly delineated, coloured green and marked S19.5 on Map 8;
 - (b) at a line 534 metres south-east of its junction with C0671 Dublin Street, more particularly delineated, coloured green and marked S19.6 on Map 8;
 - (c) at a line 36 metres south of its south-eastern junction with U0235 Grange Road, more particularly delineated, coloured green and marked S19.8 on Map 8; and
 - (d) at a line 618 metres south-east of its junction with C0671 Dublin Street, more particularly delineated, coloured green and marked S19.9 on Map 8.
 
-**16.**[^key-a6b4885567235c85b0de781b35c41757] U0235 Grange Road in the townland of Grange, at a line 148 metres north-east of its junction with C0671 Castletown Road, more particularly delineated, coloured green and marked S19.7 on Map 8.
+**16.**[^c-a6b4885567235c85b0de781b35c41757] U0235 Grange Road in the townland of Grange, at a line 148 metres north-east of its junction with C0671 Castletown Road, more particularly delineated, coloured green and marked S19.7 on Map 8.
 
-**17.**[^key-9872463290f5539808b5d269a474d85d] U1522 West Road in the townland of Lislap West at a line 390 metres east of its junction with C0671 Castletown Road, more particularly delineated, coloured green and marked S20.1 on Map 9.
+**17.**[^c-9872463290f5539808b5d269a474d85d] U1522 West Road in the townland of Lislap West at a line 390 metres east of its junction with C0671 Castletown Road, more particularly delineated, coloured green and marked S20.1 on Map 9.
 
-**18.**[^key-a9c27c97ada5206f8ea3e822d838069b] U1523 known locally as Hamilton’s Road in the townland of Beltany—
+**18.**[^c-a9c27c97ada5206f8ea3e822d838069b] U1523 known locally as Hamilton’s Road in the townland of Beltany—
 
 - (a) at a line 101 metres south-west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S20.2 on Map 9; and
 - (b) at a line 240 metres south-west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S20.3 on Map 9.
 
-**19.**[^key-0ab45a4caeb7e372f7f5b7544584bd04] U1519 McCormack’s Road in the townland of Gortinagin—
+**19.**[^c-0ab45a4caeb7e372f7f5b7544584bd04] U1519 McCormack’s Road in the townland of Gortinagin—
 
 - (a) at a point 178 metres west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S21.1 on Map 10; and
 - (b) at a point 290 metres west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S21.2 on Map 10.
 
-**20.**[^key-caf22707a1c3a44b9e2a0ed6bef90c10] U1524 Killynure Road in the townland of Castletown—
+**20.**[^c-caf22707a1c3a44b9e2a0ed6bef90c10] U1524 Killynure Road in the townland of Castletown—
 
 - (a) at a line 458 metres north-east of its junction with C0671 Castletown Road, more particularly delineated, coloured green and marked S22.1 on Map 11; and
 - (b) at a line 217 metres east of its junction with C0671 Castletown Road, more particularly delineated, coloured green and marked S22.2 on Map 11.
 
-**21.**[^key-7991ecbc173c2b3c8d5983b5e799aad3] U1516 known locally as McFarland’s Road in the townland of Killinure, at a line 93 metres west of its junction with C0671 Castletown Road, more particularly delineated, coloured green and marked S22.3 on Map 11.
+**21.**[^c-7991ecbc173c2b3c8d5983b5e799aad3] U1516 known locally as McFarland’s Road in the townland of Killinure, at a line 93 metres west of its junction with C0671 Castletown Road, more particularly delineated, coloured green and marked S22.3 on Map 11.
 
-**22.**[^key-c8aa813d5733dcf9b84edcb805598597] U1526 Tully Road—
+**22.**[^c-c8aa813d5733dcf9b84edcb805598597] U1526 Tully Road—
 
 - (a) in the townland of Tattraconnaghty, at a line 82 metres north of its junction with U1526 Rash Road, more particularly delineated, coloured green and marked S23.3 on Map 12;
 - (b) in the townland of Tully, at a line 320 metres south-east of its junction with U1526 Rash Road, more particularly delineated, coloured green and marked S23.6 on Map 12;
 - (c) in the townland of Tully, at a point 447 metres north-west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S23.7 on Map 12; and
 - (d) in the townland of Tully, at a point 409 metres north-west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S23.8 on Map 12.
 
-**23.**[^key-d85bf34d1cffee33221e89d9e33bd267] U1526 Rash Road—
+**23.**[^c-d85bf34d1cffee33221e89d9e33bd267] U1526 Rash Road—
 
 - (a) in the townland of Tattraconnaghty, at a line 53 metres north-east of its junction with U1526 Tully Road, more particularly delineated, coloured green and marked S23.4 on Map 12; and
 - (b) in the townland of Tully, at a line 189 metres south-west of its junction with U1526 Tully Road, more particularly delineated, coloured green and marked S23.5 on Map 12.
 
-**24.**[^key-0e7780ad36854d49dc1e9aad706ca491] A0005 Beltany Road in the townlands of Mountjoy Forest West Division and Lislimnaghan—
+**24.**[^c-0e7780ad36854d49dc1e9aad706ca491] A0005 Beltany Road in the townlands of Mountjoy Forest West Division and Lislimnaghan—
 
 - (a) at a line 166 metres south of its junction with U1527 Rash Road, more particularly delineated, coloured green and marked S24.1 on Map 13; and
 - (b) at a line 345 metres south of its junction with U1527 Rash Road, more particularly delineated, coloured green and marked S24.2 on Map 13.
 
-**25.**[^key-ed64884b865ca18f706efb2663a9aa91] C0679 Drumlegagh Road South—
+**25.**[^c-ed64884b865ca18f706efb2663a9aa91] C0679 Drumlegagh Road South—
 
 - (a) in the townland of Tully, at a point 235 metres north-west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S24.3 on Map 13;
 - (b) in the townland of Lislimnaghan, at a point 173 metres north-west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S24.4 on Map 13;
@@ -263,19 +263,19 @@ Articles 3 and 4
 - (d) in the townland of Tully, at a line 625 metres north-west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S24.10 on Map 13; and
 - (e) in the townland of Tully, at a line 616 metres north-west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S24.11 on Map 13.
 
-**26.**[^key-3a3e257ef3c141b498a6950a6c6dddc4] U1511 Todds Road in the townland of Lislimnaghan—
+**26.**[^c-3a3e257ef3c141b498a6950a6c6dddc4] U1511 Todds Road in the townland of Lislimnaghan—
 
 - (a) at a point 177 metres west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S24.5 on Map 13; and
 - (b) at a point 212 metres west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S24.6 on Map 13.
 
-**27.**[^key-22c101721ce091eb1a0054144ecb4a5a] U1512 Mellon Park Drive in the townland of Bunnynubber—
+**27.**[^c-22c101721ce091eb1a0054144ecb4a5a] U1512 Mellon Park Drive in the townland of Bunnynubber—
 
 - (a) at a point 735 metres north-west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S24.7 on Map 13;
 - (b) at a point 630 metres north-west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S24.8 on Map 13;
 - (c) at a point 434 metres west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S24.12 on Map 13; and
 - (d) at a point 483 metres west of its junction with A0005 Beltany Road, more particularly delineated, coloured green and marked S24.13 on Map 13.
 
-**28.**[^key-d5396d3cd9bfc1879e02c74a53eabde8] B0050 Gillygooly Road—
+**28.**[^c-d5396d3cd9bfc1879e02c74a53eabde8] B0050 Gillygooly Road—
 
 - (a) in the townland of Mullaghmenagh Lower, at a point 61 metres west of its junction with U1535 Mullaghmena Road, more particularly delineated, coloured green and marked S25.1 on Map 14;
 - (b) in the townland of Mullaghmenagh Lower, at a line 147 metres east of its junction with U1535 Mullaghmena Road, more particularly delineated, coloured green and marked S25.2 on Map 14;
@@ -284,51 +284,51 @@ Articles 3 and 4
 - (e) in the townland of Aghnamoyle, at a line 408 metres west of its junction with U1535 Mullaghmena Road, more particularly delineated, coloured green and marked S25.5 on Map 14; and
 - (f) in the townland of Aghnamoyle at a line 470 metres west of its junction with U1535 Mullaghmena Road, more particularly delineated, coloured green and marked S25.6 on Map 14.
 
-**29.**[^key-5d00eb09de6ae29c5cb12a8d7ac42160] U1535 Mullaghmena Road in the townland of Mullaghmenagh Lower, at a point 95 metres south-east of its junction with B0050 Gillygooly Road, more particularly delineated, coloured green and marked S25.7 on Map 14.
+**29.**[^c-5d00eb09de6ae29c5cb12a8d7ac42160] U1535 Mullaghmena Road in the townland of Mullaghmenagh Lower, at a point 95 metres south-east of its junction with B0050 Gillygooly Road, more particularly delineated, coloured green and marked S25.7 on Map 14.
 
-**30.**[^key-afccd2b68a4e81063bd1e9612ac7fd07] U1533 Botera Road in the townland of Deer Park (McCormick)—
+**30.**[^c-afccd2b68a4e81063bd1e9612ac7fd07] U1533 Botera Road in the townland of Deer Park (McCormick)—
 
 - (a) at a line 181 metres south-west of its junction with C0667 Aghnamoyle Road, more particularly delineated, coloured green and marked S25.8 on Map 14; and
 - (b) at a point 94 metres south-west of its junction with C0667 Aghnamoyle Road, more particularly delineated, coloured green and marked S25.9 on Map 14.
 
-**31.**[^key-754e69f6ab7239a0e652af03745ac300] U1539 Tamlaght Road in the townland of Ballygowan—
+**31.**[^c-754e69f6ab7239a0e652af03745ac300] U1539 Tamlaght Road in the townland of Ballygowan—
 
 - (a) at a line 259 metres north-east of its junction with U1540 Bracken Road, more particularly delineated, coloured green and marked S26.1 on Map 15; and
 - (b) at a line 289 metres north-east of its junction with U1540 Bracken Road, more particularly delineated, coloured green and marked S26.2 on Map 15.
 
-**32.**[^key-db61bd7cf028ddc7e87b0c34581bfec1] C0666 Loughmuck Road in the townland of Rylands—
+**32.**[^c-db61bd7cf028ddc7e87b0c34581bfec1] C0666 Loughmuck Road in the townland of Rylands—
 
 - (a) at a line 454 metres south-west of its junction with U2159 Dromore Road, more particularly delineated, coloured green and marked S26.3 on Map 15; and
 - (b) at a line 718 metres south-west of its junction with U2159 Dromore Road, more particularly delineated, coloured green and marked S26.4 on Map 15.
 
-**33.**[^key-6e48175c370a64ddc4d77fe72e78ed8e] U1660 Beagh Road in the townland of Beagh—
+**33.**[^c-6e48175c370a64ddc4d77fe72e78ed8e] U1660 Beagh Road in the townland of Beagh—
 
 - (a) at a line 518 metres north-west of its junction with C0663 Ballynahatty Road, more particularly delineated, coloured green and marked S27.1 on Map 16; and
 - (b) at a line 337 metres north-west of its junction with C0663 Ballynahatty Road, more particularly delineated, coloured green and marked S27.2 on Map 16.
 
-**34.**[^key-9a506b20757b83dc8ba4ba16111d2eec] C0663 Ballynahatty Road—
+**34.**[^c-9a506b20757b83dc8ba4ba16111d2eec] C0663 Ballynahatty Road—
 
 - (a) in the townland of Beagh, at a line 105 metres south of its junction with U1660 Beagh Road, more particularly delineated, coloured green and marked S27.3 on Map 16; and
 - (b) in the townland of Drumshanly, at a line 444 metres south-west of its junction with U1660 Beagh Road, more particularly delineated, coloured green and marked S27.4 on Map 16.
 
-**35.**[^key-890f4d7d503704395c34d9398e9d1149] U1303 Blackfort Road in the townland of Drumragh (Caldwell)—
+**35.**[^c-890f4d7d503704395c34d9398e9d1149] U1303 Blackfort Road in the townland of Drumragh (Caldwell)—
 
 - (a) at a line 302 metres south-west of its junction with U1306 Drumragh Road, more particularly delineated, coloured green and marked S28.1 on Map 17; and
 - (b) at a line 14 metres south-west of its junction with U1306 Drumragh Road, more particularly delineated, coloured green and marked S28.2 on Map 17.
 
-**36.**[^key-6df6d7b4109e1c6809c25cd103cb1c00] U1306 Drumragh Road in the townland of Drumragh (Caldwell)—
+**36.**[^c-6df6d7b4109e1c6809c25cd103cb1c00] U1306 Drumragh Road in the townland of Drumragh (Caldwell)—
 
 - (a) at a line 295 metres south-east of its junction with U1303 Blackfort Road, more particularly delineated, coloured green and marked S28.3 on Map 17; and
 - (b) at a point 175 metres south-east of its junction with U1303 Blackfort Road, more particularly delineated, coloured green and marked S28.14 on Map 17.
 
-**37.**[^key-d594829d6b271205db21847b496babf4] A0005 Doogary Road in the townland of Doogary—
+**37.**[^c-d594829d6b271205db21847b496babf4] A0005 Doogary Road in the townland of Doogary—
 
 - (a) at a line extending from a point 94 metres west of its junction with U1745 Doogary Avenue to a point 116 metres west of that junction, more particularly delineated, coloured green and marked S28.4 on Map 17;
 - (b) at a line 94 metres south-east of its junction with B0083 Seskinore Road, more particularly delineated, coloured green and marked S28.7 on Map 17;
 - (c) at a line 112 metres south-east of its junction with B0083 Seskinore Road, more particularly delineated, coloured green and marked S28.9 on Map 17; and
 - (d) at a line extending from a point 145 metres south-east of its junction U1745 Doogary Avenue to a point 164 metres south-east of that junction, more particularly delineated, coloured green and marked S28.10 on Map 17.
 
-**38.**[^key-eae4dfddfef2acdbe1a47d87bb3faf56] B0083 Seskinore Road—
+**38.**[^c-eae4dfddfef2acdbe1a47d87bb3faf56] B0083 Seskinore Road—
 
 - (a) in the townland of Doogary, at a point 15 metres south-west of its junction with A0005 Doogary Road, more particularly delineated, coloured green and marked S28.5 on Map 17;
 - (b) in the townland of Doogary, at a line 42 metres south-west of its junction with A0005 Doogary Road, more particularly delineated, coloured green and marked S28.6 on Map 17;
@@ -337,79 +337,79 @@ Articles 3 and 4
 - (e) in the townland of Drumragh (P McCausland), at a line 764 metres south-west of its junction with A0005 Doogary Road, more particularly delineated, coloured green and marked S28.12 on Map 17; and
 - (f) in the townland of Drumragh (P McCausland), at a line 786 metres south of its junction with A0005 Doogary Road, more particularly delineated, coloured green and marked S28.13 on Map 17.
 
-**39.**[^key-306f3ac93335e4c4e5aa5456f14de1d4] U1306 Tattykeel Road—
+**39.**[^c-306f3ac93335e4c4e5aa5456f14de1d4] U1306 Tattykeel Road—
 
 - (a) in the townlands of Tattykeel and Freughmore, at a line 569 metres south-east of its junction with A0005 Doogary Road, more particularly delineated, coloured green and marked S29.1 on Map 18;
 - (b) in the townland of Tattykeel, at a line 846 metres south-east of its junction with A0005 Doogary Road, more particularly delineated, coloured green and marked S29.2 on Map 18;
 - (c) in the townland of Tattykeel, at a line 422 metres north-west of its junction with U1306 Drumconnelly Road, more particularly delineated, coloured green and marked S29.3 on Map 18; and
 - (d) in the townland of Tattykeel, at a line 373 metres north-west of its junction with U1306 Drumconnelly Road, more particularly delineated, coloured green and marked S29.4 on Map 18.
 
-**40.**[^key-29fecbadcf2cda4a86be36e976e4e19e] U1306 Drumconnelly Road—
+**40.**[^c-29fecbadcf2cda4a86be36e976e4e19e] U1306 Drumconnelly Road—
 
 - (a) in the townland of Tattykeel, at a point 158 metres south-west of its junction with A0005 Doogary Road, more particularly delineated, coloured green and marked S30.1 on Map 19;
 - (b) in the townland of Tattykeel, at a line 551 metres south-west of its junction with A0005 Doogary Road, more particularly delineated, coloured green and marked S30.2 on Map 19;
 - (c) at a point 187 metres south-west of its junction with A0005 Doogary Road, more particularly delineated, coloured green and marked S30.3 on Map 19; and
 - (d) at a line 438 metres south-west of its junction with A0005 Doogary Road, more particularly delineated, coloured green and marked S30.4 on Map 19.
 
-**41.**[^key-83831105a6beef4122569414f2f83546] U1309 Rarone Road—
+**41.**[^c-83831105a6beef4122569414f2f83546] U1309 Rarone Road—
 
 - (a) in the townlands of Tullyheeran and Moylagh, at a line 282 metres south-west of its junction with C0657 Augher Point Road, more particularly delineated, coloured green and marked S31.1 on Map 20; and
 - (b) in the townlands of Rarone and Moylagh, at a point 605 metres south-west of its junction with C0657 Augher Point Road, more particularly delineated, coloured green and marked S31.2 on Map 20.
 
-**42.**[^key-164ddd1617b8e2ad55350710043e69cf] U1310 Drumconnelly Road in the townland of Moylagh—
+**42.**[^c-164ddd1617b8e2ad55350710043e69cf] U1310 Drumconnelly Road in the townland of Moylagh—
 
 - (a) at a point 153 metres south-west of its junction with C0657 Augher Point Road, more particularly delineated, coloured green and marked S32.1 on Map 21; and
 - (b) at a point 181 metres south-west of its junction with C0657 Augher Point Road, more particularly delineated, coloured green and marked S32.2 on Map 21.
 
-**43.**[^key-07dbee267098d379e94f4afc10a8144e] B0046 Moylagh Road in the townland of Moylagh—
+**43.**[^c-07dbee267098d379e94f4afc10a8144e] B0046 Moylagh Road in the townland of Moylagh—
 
 - (a) at a line 410 metres south-west of its junction with C0657 Augher Point Road, more particularly delineated, coloured green and marked S32.3 on Map 21; and
 - (b) at a point 150 metres south-west of its junction with C0657 Augher Point Road, more particularly delineated, coloured green and marked S32.4 on Map 21.
 
-**44.**[^key-de3e1589571405cbbe11926e2a490437] C0657 Augher Point Road in the townland of Legacurry—
+**44.**[^c-de3e1589571405cbbe11926e2a490437] C0657 Augher Point Road in the townland of Legacurry—
 
 - (a) at a line 143 metres south-west of its junction with B0046 Moylagh Road, more particularly delineated, coloured green and marked S32.5 on Map 21;
 - (b) at a line 315 metres south-west of its junction with B0046 Moylagh Road, more particularly delineated, coloured green and marked S32.6 on Map 21;
 - (c) at a line 105 metres south-west of its junction with B0046 Moylagh Road, more particularly delineated, coloured green and marked S32.7 on Map 21; and
 - (d) at a line 12 metres south of its junction with B0046 Moylagh Road, more particularly delineated, coloured green and marked S32.8 on Map 21.
 
-**45.**[^key-d55f56abf01a6a47e1d66b22b489546f] C0630 Killadroy Road in the townland of Killadroy—
+**45.**[^c-d55f56abf01a6a47e1d66b22b489546f] C0630 Killadroy Road in the townland of Killadroy—
 
 - (a) at a line 282 metres north-east of its junction with C0682 Greenmount Road, more particularly delineated, coloured green and marked S33.1 on Map 22; and
 - (b) at a point 225 metres north-east of its junction with C0682 Greenmount Road, more particularly delineated, coloured green and marked S33.2 on Map 22.
 
-**46.**[^key-7cf2396b536a52bd8b552109dd236be4] C0682 Greenmount Road in the townland of Killadroy—
+**46.**[^c-7cf2396b536a52bd8b552109dd236be4] C0682 Greenmount Road in the townland of Killadroy—
 
 - (a) at a line 187 metres east of its junction with C0630 Killadroy Road, more particularly delineated, coloured green and marked S33.3 on Map 22;
 - (b) at a line 398 metres east of its junction with C0630 Killadroy Road, more particularly delineated, coloured green and marked S33.4 on Map 22;
 - (c) at a line 535 metres east of its junction with C0630 Killadroy Road, more particularly delineated, coloured green and marked S33.5 on Map 22; and
 - (d) at a line 406 metres east of its junction with C0630 Killadroy Road, more particularly delineated, coloured green and marked S33.6 on Map 22.
 
-**47.**[^key-7bbef07315f6bdfdf80a6a9c92d4674c] U0404 Routingburn Road in the townland of Kilnaheery—
+**47.**[^c-7bbef07315f6bdfdf80a6a9c92d4674c] U0404 Routingburn Road in the townland of Kilnaheery—
 
 - (a) at a point 386 metres east of its junction with C0630 Killadroy Road, more particularly delineated, coloured green and marked S34.1 on Map 23; and
 - (b) at a point 355 metres east of its junction with C0630 Killadroy Road, more particularly delineated, coloured green and marked S34.2 on Map 23.
 
-**48.**[^key-dac1774040b1e888be312beb462ea0cf] C0657 Springhill Road—
+**48.**[^c-dac1774040b1e888be312beb462ea0cf] C0657 Springhill Road—
 
 - (a) in the townlands of Tamlaght and Tullanafoile at a line 289 metres north-east of its junction with C0657 Newtownsaville Road, more particularly delineated, coloured green and marked S35.1 on Map 24; and
 - (b) in the townland of Tamlaght at a line 242 metres north-east of its junction with C0657 Newtownsaville Road, more particularly delineated, coloured green and marked S35.2 on Map 24.
 
-**49.**[^key-a08c130f32582fbb1162619b77ad32a6] U0409 Cormore Road in the townland of Tullanafoile—
+**49.**[^c-a08c130f32582fbb1162619b77ad32a6] U0409 Cormore Road in the townland of Tullanafoile—
 
 - (a) at a point 198 metres south-west of its junction with U0405 Tullanafoile Road, more particularly delineated, coloured green and marked S35.3 on Map 24; and
 - (b) at a point 164 metres south-west of its junction with U0405 Tullanafoile Road, more particularly delineated, coloured green and marked S35.4 on Map 24.
 
-**50.**[^key-38de5e6e6ada104695a74a58e13186d3] U0405 Tullanafoile Road in the townland of Tullanafoile—
+**50.**[^c-38de5e6e6ada104695a74a58e13186d3] U0405 Tullanafoile Road in the townland of Tullanafoile—
 
 - (a) at a point 596 metres north-west of its junction with U0409 Cormore Road, more particularly delineated, coloured green and marked S35.5 on Map 24; and
 - (b) at a point 399 metres north-west of its junction with U0409 Cormore Road, more particularly delineated, coloured green and marked S35.6 on Map 24.
 
-**51.**[^key-9ae5850420ce390c7ca3870725cfa5d5] U0406 Tycanny Road in the townland of Tycanny, at a line 201 metres north-west of its junction with C0657 Newtownsaville Road, more particularly delineated, coloured green and marked S37.1 on Map 26.
+**51.**[^c-9ae5850420ce390c7ca3870725cfa5d5] U0406 Tycanny Road in the townland of Tycanny, at a line 201 metres north-west of its junction with C0657 Newtownsaville Road, more particularly delineated, coloured green and marked S37.1 on Map 26.
 
-**52.**[^key-f5f8ff21864c3ae935fdf223e66511d7] U0407 Rarogan Road in the townland of Kilgreen Upper, at a line 188 metres north-west of its junction with C0657 Newtownsaville Road, more particularly delineated, coloured green and marked S37.2 on Map 26.
+**52.**[^c-f5f8ff21864c3ae935fdf223e66511d7] U0407 Rarogan Road in the townland of Kilgreen Upper, at a line 188 metres north-west of its junction with C0657 Newtownsaville Road, more particularly delineated, coloured green and marked S37.2 on Map 26.
 
-**53.**[^key-2c2b823c54c4254fb2e5069f110af267] C0650 Glenhoy Road—
+**53.**[^c-2c2b823c54c4254fb2e5069f110af267] C0650 Glenhoy Road—
 
 - (a) in the townland of Errigal, at a line 380 metres south-west of its junction with U0417 Errigal Road, more particularly delineated, coloured green and marked S38.1 on Map 27;
 - (b) in the townland of Bloomhill, at a line 40 metres west of its junction with U0417 Errigal Road, more particularly delineated, coloured green and marked S38.2 on Map 27;
@@ -418,24 +418,24 @@ Articles 3 and 4
 - (e) in the townlands of Gort and Bloomhill, at a line 75 metres south-west of its junction with U0417 Errigal Road, more particularly delineated, coloured green and marked S38.5 on Map 27; and
 - (f) in the townlands of Gort and Errigal, at a line 208 metres south-west of its junction with U0417 Errigal Road, more particularly delineated, coloured green and marked S38.6 on Map 27.
 
-**54.**[^key-c31675ecb06b95faf1f8d43fb5e1a9ea] C0650 Feddan Road in the townland of Drumcorke—
+**54.**[^c-c31675ecb06b95faf1f8d43fb5e1a9ea] C0650 Feddan Road in the townland of Drumcorke—
 
 - (a) at a line 21 metres north-west of its junction with A0004 Annaghilla Road, more particularly delineated, coloured green and marked S40.1 on Map 29; and
 - (b) at a point 280 metres north-west of its junction with A0004 Annaghilla Road, more particularly delineated, coloured green and marked S40.2 on Map 29.
 
-**55.**[^key-30d419dcd59d752656791e42cba17c48] U0345 Tullybryan Road in the townland of Drumcorke, at a line 17 metres north-west of its junction with A0004 Annaghilla Road, more particularly delineated, coloured green and marked S40.3 on Map 29.
+**55.**[^c-30d419dcd59d752656791e42cba17c48] U0345 Tullybryan Road in the townland of Drumcorke, at a line 17 metres north-west of its junction with A0004 Annaghilla Road, more particularly delineated, coloured green and marked S40.3 on Map 29.
 
-**56.**[^key-5a2584076c3fb7e778101d50b78c769c] U0317 Tullywinny Road in the townland of Lisbeg—
+**56.**[^c-5a2584076c3fb7e778101d50b78c769c] U0317 Tullywinny Road in the townland of Lisbeg—
 
 - (a) at a point 123 metres south of its existing junction with A0004 Annaghilla Road, more particularly delineated, coloured green and marked S40.4 on Map 29; and
 - (b) at a point 38 metres south of its existing junction with A0004 Annaghilla Road, more particularly delineated, coloured green and marked S40.8 on Map 29.
 
-**57.**[^key-427ab06b6524c140b8b4e3f95711f9c1] U0338 Ballynany Road in the townland of Ballynany—
+**57.**[^c-427ab06b6524c140b8b4e3f95711f9c1] U0338 Ballynany Road in the townland of Ballynany—
 
 - (a) at a point 382 metres south-east of its junction with A0004 Annaghilla Road, more particularly delineated, coloured green and marked S40.5 on Map 29; and
 - (b) at a point 172 metres south-east of its junction with A0004 Annaghilla Road, more particularly delineated, coloured green and marked S40.7 on Map 29.
 
-**58.**[^key-a22579f093ecddb652d23f7bf1d9d7ff] U0338 Drumcullion Lane in the townland of Ballynany at a point 116 metres south-east of its junction with A0004 Annaghilla Road, more particularly delineated, coloured green and marked S40.6 on Map 29.
+**58.**[^c-a22579f093ecddb652d23f7bf1d9d7ff] U0338 Drumcullion Lane in the townland of Ballynany at a point 116 metres south-east of its junction with A0004 Annaghilla Road, more particularly delineated, coloured green and marked S40.6 on Map 29.
 
 EXPLANATORY NOTE
 
@@ -461,148 +461,148 @@ In this Order, “Map 1” to “Map 29”, inclusive means the sequence of draw
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76)).
 
-[^key-81322825360adaa2c89a3e2c25a69679]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-81322825360adaa2c89a3e2c25a69679]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-74e320d8605360ac3375e18bcaad5bba]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/178/article/2) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-74e320d8605360ac3375e18bcaad5bba]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/178/article/2) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-776b2da894694a37f1793ca1d3ff67ce]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/178/article/3) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-776b2da894694a37f1793ca1d3ff67ce]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/178/article/3) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-cc79af485f08bb96d336e03f7a2e7996]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2024/178/article/4) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-cc79af485f08bb96d336e03f7a2e7996]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2024/178/article/4) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-0733e11cba5793ab274f3645685d28ec]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/1) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-0733e11cba5793ab274f3645685d28ec]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/1) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-bb4d794165474bb1550daa5aa464216f]: Commencement: [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/II) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-bb4d794165474bb1550daa5aa464216f]: Commencement: [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/II) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-5fa3cc602b3d8d6807f25efb7e1e6d3c]: Commencement: [Sch. Pt. III](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/III) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-5fa3cc602b3d8d6807f25efb7e1e6d3c]: Commencement: [Sch. Pt. III](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/III) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-e76ebcf5047fe2e56ea2f60c7e98fd80]: Commencement: [Sch. Pt. IV para. 1](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/1) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-e76ebcf5047fe2e56ea2f60c7e98fd80]: Commencement: [Sch. Pt. IV para. 1](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/1) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-40d5079414639f99de01211c29398b3b]: Commencement: [Sch. Pt. IV para. 2](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/2) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-40d5079414639f99de01211c29398b3b]: Commencement: [Sch. Pt. IV para. 2](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/2) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-0aa369aa364297023d348588b365fb73]: Commencement: [Sch. Pt. IV para. 3](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/3) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-0aa369aa364297023d348588b365fb73]: Commencement: [Sch. Pt. IV para. 3](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/3) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-d1ce765abbc672062b8ca28b5fa8eba0]: Commencement: [Sch. Pt. IV para. 4](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/4) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-d1ce765abbc672062b8ca28b5fa8eba0]: Commencement: [Sch. Pt. IV para. 4](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/4) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-ae8c0aa1b7ad7ccd14872f4d32f54c81]: Commencement: [Sch. Pt. IV para. 5](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/5) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-ae8c0aa1b7ad7ccd14872f4d32f54c81]: Commencement: [Sch. Pt. IV para. 5](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/5) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-cd948ef283efe849ea3756b62fa52817]: Commencement: [Sch. Pt. IV para. 6](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/6) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-cd948ef283efe849ea3756b62fa52817]: Commencement: [Sch. Pt. IV para. 6](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/6) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-de30f4d636cc67d3cec8fa2bc2a3b8c1]: Commencement: [Sch. Pt. IV para. 7](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/7) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-de30f4d636cc67d3cec8fa2bc2a3b8c1]: Commencement: [Sch. Pt. IV para. 7](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/7) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-ef369363459f89ea2df86271eccac049]: Commencement: [Sch. Pt. IV para. 8](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/8) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-ef369363459f89ea2df86271eccac049]: Commencement: [Sch. Pt. IV para. 8](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/IV/paragraph/8) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-5ff1c731dba3c7ca2a1fdee5b0a43613]: Commencement: [Sch. Pt. V para. 1](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/1) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-5ff1c731dba3c7ca2a1fdee5b0a43613]: Commencement: [Sch. Pt. V para. 1](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/1) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-064809a1a11b96ab17ebccdb9c4ad67f]: Commencement: [Sch. Pt. V para. 2](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/2) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-064809a1a11b96ab17ebccdb9c4ad67f]: Commencement: [Sch. Pt. V para. 2](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/2) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-8083e1d3c4979e04e0258f76da147b6b]: Commencement: [Sch. Pt. V para. 3](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/3) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-8083e1d3c4979e04e0258f76da147b6b]: Commencement: [Sch. Pt. V para. 3](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/3) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-b66a5bbd672ed6bea4835182ce5d1a6a]: Commencement: [Sch. Pt. V para. 4](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/4) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-b66a5bbd672ed6bea4835182ce5d1a6a]: Commencement: [Sch. Pt. V para. 4](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/4) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-a10f066bc26b3e02eaf3130ff2b2425e]: Commencement: [Sch. Pt. V para. 5](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/5) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-a10f066bc26b3e02eaf3130ff2b2425e]: Commencement: [Sch. Pt. V para. 5](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/5) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-4117effc5aa25f6f15be84fabab784e6]: Commencement: [Sch. Pt. V para. 6](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/6) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-4117effc5aa25f6f15be84fabab784e6]: Commencement: [Sch. Pt. V para. 6](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/6) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-7ceec13bf3444c60f68dccd442657365]: Commencement: [Sch. Pt. V para. 7](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/7) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-7ceec13bf3444c60f68dccd442657365]: Commencement: [Sch. Pt. V para. 7](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/7) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-2ea0946666c773bbadbdd93dc8dc6b8d]: Commencement: [Sch. Pt. V para. 8](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/8) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-2ea0946666c773bbadbdd93dc8dc6b8d]: Commencement: [Sch. Pt. V para. 8](https://www.legislation.gov.uk/nisr/2024/178/schedule/part/V/paragraph/8) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-b533fa2fcf62f09c68e998cfec7d3c70]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/9) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-b533fa2fcf62f09c68e998cfec7d3c70]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/9) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-6001998008891b9e6a900cb160572c52]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/10) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-6001998008891b9e6a900cb160572c52]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/10) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-6e3a1db1d1bc9ea94853682acb4f11ae]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/11) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-6e3a1db1d1bc9ea94853682acb4f11ae]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/11) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-fb44c6304eaeedcafbc8666ffe130dfd]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/12) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-fb44c6304eaeedcafbc8666ffe130dfd]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/12) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-41dec1a83191bfcd55827954b0eefcf0]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/13) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-41dec1a83191bfcd55827954b0eefcf0]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/13) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-04571f98801c9c7a02db7a3faf3e43f6]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/14) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-04571f98801c9c7a02db7a3faf3e43f6]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/14) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-4f7d69b39362ad00df670c6994081ecb]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/15) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-4f7d69b39362ad00df670c6994081ecb]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/15) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-a6b4885567235c85b0de781b35c41757]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/16) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-a6b4885567235c85b0de781b35c41757]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/16) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-9872463290f5539808b5d269a474d85d]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/17) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-9872463290f5539808b5d269a474d85d]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/17) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-a9c27c97ada5206f8ea3e822d838069b]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/18) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-a9c27c97ada5206f8ea3e822d838069b]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/18) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-0ab45a4caeb7e372f7f5b7544584bd04]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/19) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-0ab45a4caeb7e372f7f5b7544584bd04]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/19) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-caf22707a1c3a44b9e2a0ed6bef90c10]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/20) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-caf22707a1c3a44b9e2a0ed6bef90c10]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/20) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-7991ecbc173c2b3c8d5983b5e799aad3]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/21) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-7991ecbc173c2b3c8d5983b5e799aad3]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/21) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-c8aa813d5733dcf9b84edcb805598597]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/22) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-c8aa813d5733dcf9b84edcb805598597]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/22) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-d85bf34d1cffee33221e89d9e33bd267]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/23) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-d85bf34d1cffee33221e89d9e33bd267]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/23) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-0e7780ad36854d49dc1e9aad706ca491]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/24) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-0e7780ad36854d49dc1e9aad706ca491]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/24) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-ed64884b865ca18f706efb2663a9aa91]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/25) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-ed64884b865ca18f706efb2663a9aa91]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/25) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-3a3e257ef3c141b498a6950a6c6dddc4]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/26) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-3a3e257ef3c141b498a6950a6c6dddc4]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/26) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-22c101721ce091eb1a0054144ecb4a5a]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/27) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-22c101721ce091eb1a0054144ecb4a5a]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/27) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-d5396d3cd9bfc1879e02c74a53eabde8]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/28) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-d5396d3cd9bfc1879e02c74a53eabde8]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/28) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-5d00eb09de6ae29c5cb12a8d7ac42160]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/29) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-5d00eb09de6ae29c5cb12a8d7ac42160]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/29) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-afccd2b68a4e81063bd1e9612ac7fd07]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/30) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-afccd2b68a4e81063bd1e9612ac7fd07]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/30) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-754e69f6ab7239a0e652af03745ac300]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/31) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-754e69f6ab7239a0e652af03745ac300]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/31) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-db61bd7cf028ddc7e87b0c34581bfec1]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/32) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-db61bd7cf028ddc7e87b0c34581bfec1]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/32) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-6e48175c370a64ddc4d77fe72e78ed8e]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/33) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-6e48175c370a64ddc4d77fe72e78ed8e]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/33) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-9a506b20757b83dc8ba4ba16111d2eec]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/34) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-9a506b20757b83dc8ba4ba16111d2eec]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/34) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-890f4d7d503704395c34d9398e9d1149]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/35) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-890f4d7d503704395c34d9398e9d1149]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/35) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-6df6d7b4109e1c6809c25cd103cb1c00]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/36) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-6df6d7b4109e1c6809c25cd103cb1c00]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/36) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-d594829d6b271205db21847b496babf4]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/37) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-d594829d6b271205db21847b496babf4]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/37) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-eae4dfddfef2acdbe1a47d87bb3faf56]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/38) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-eae4dfddfef2acdbe1a47d87bb3faf56]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/38) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-306f3ac93335e4c4e5aa5456f14de1d4]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/39) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-306f3ac93335e4c4e5aa5456f14de1d4]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/39) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-29fecbadcf2cda4a86be36e976e4e19e]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/40) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-29fecbadcf2cda4a86be36e976e4e19e]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/40) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-83831105a6beef4122569414f2f83546]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/41) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-83831105a6beef4122569414f2f83546]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/41) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-164ddd1617b8e2ad55350710043e69cf]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/42) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-164ddd1617b8e2ad55350710043e69cf]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/42) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-07dbee267098d379e94f4afc10a8144e]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/43) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-07dbee267098d379e94f4afc10a8144e]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/43) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-de3e1589571405cbbe11926e2a490437]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/44) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-de3e1589571405cbbe11926e2a490437]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/44) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-d55f56abf01a6a47e1d66b22b489546f]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/45) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-d55f56abf01a6a47e1d66b22b489546f]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/45) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-7cf2396b536a52bd8b552109dd236be4]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/46) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-7cf2396b536a52bd8b552109dd236be4]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/46) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-7bbef07315f6bdfdf80a6a9c92d4674c]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/47) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-7bbef07315f6bdfdf80a6a9c92d4674c]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/47) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-dac1774040b1e888be312beb462ea0cf]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/48) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-dac1774040b1e888be312beb462ea0cf]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/48) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-a08c130f32582fbb1162619b77ad32a6]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/49) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-a08c130f32582fbb1162619b77ad32a6]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/49) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-38de5e6e6ada104695a74a58e13186d3]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/50) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-38de5e6e6ada104695a74a58e13186d3]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/50) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-9ae5850420ce390c7ca3870725cfa5d5]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/51) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-9ae5850420ce390c7ca3870725cfa5d5]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/51) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-f5f8ff21864c3ae935fdf223e66511d7]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/52) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-f5f8ff21864c3ae935fdf223e66511d7]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/52) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-2c2b823c54c4254fb2e5069f110af267]: Commencement: [Sch. para. 53](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/53) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-2c2b823c54c4254fb2e5069f110af267]: Commencement: [Sch. para. 53](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/53) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-c31675ecb06b95faf1f8d43fb5e1a9ea]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/54) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-c31675ecb06b95faf1f8d43fb5e1a9ea]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/54) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-30d419dcd59d752656791e42cba17c48]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/55) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-30d419dcd59d752656791e42cba17c48]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/55) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-5a2584076c3fb7e778101d50b78c769c]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/56) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-5a2584076c3fb7e778101d50b78c769c]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/56) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-427ab06b6524c140b8b4e3f95711f9c1]: Commencement: [Sch. para. 57](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/57) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-427ab06b6524c140b8b4e3f95711f9c1]: Commencement: [Sch. para. 57](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/57) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
 
-[^key-a22579f093ecddb652d23f7bf1d9d7ff]: Commencement: [Sch. para. 58](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/58) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)
+[^c-a22579f093ecddb652d23f7bf1d9d7ff]: Commencement: [Sch. para. 58](https://www.legislation.gov.uk/nisr/2024/178/schedule/paragraph/58) in operation at 13.11.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/178/article/1)

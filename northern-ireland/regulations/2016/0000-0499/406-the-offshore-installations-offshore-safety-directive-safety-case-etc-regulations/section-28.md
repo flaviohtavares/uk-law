@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Duty to conform with safety case and notifications of operation[^key-91f02e45835a796b7bb492ff1c1fff51]
+## 28. Duty to conform with safety case and notifications of operation[^c-91f02e45835a796b7bb492ff1c1fff51]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91f02e45835a796b7bb492ff1c1fff51]: Commencement: Reg. 28 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-91f02e45835a796b7bb492ff1c1fff51]: Commencement: Reg. 28 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

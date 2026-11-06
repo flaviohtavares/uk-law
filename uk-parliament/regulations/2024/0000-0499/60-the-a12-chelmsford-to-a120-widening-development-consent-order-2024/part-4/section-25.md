@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Protective work to buildings[^key-c20a82523d0cbeb7e6faf15f2c56cc0e]
+## 25. Protective work to buildings[^c-c20a82523d0cbeb7e6faf15f2c56cc0e]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-c20a82523d0cbeb7e6faf15f2c56cc0e]: Commencement: Art. 25 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-c20a82523d0cbeb7e6faf15f2c56cc0e]: Commencement: Art. 25 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
 [^f00063]: Footnote: Section 152 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

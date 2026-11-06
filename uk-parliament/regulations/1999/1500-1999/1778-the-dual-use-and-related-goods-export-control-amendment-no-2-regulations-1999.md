@@ -31,7 +31,7 @@ summary: ''
 
 CUSTOMS AND EXCISE
 
-The Dual-Use and Related Goods (Export Control) (Amendment No. 2) Regulations 1999 (revoked)[^key-4fdb1fe498b98d6bfdd26fe346523025]
+The Dual-Use and Related Goods (Export Control) (Amendment No. 2) Regulations 1999 (revoked)[^c-4fdb1fe498b98d6bfdd26fe346523025]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 14th July 1999
 
-[^key-4fdb1fe498b98d6bfdd26fe346523025]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4fdb1fe498b98d6bfdd26fe346523025]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-4fdb1fe498b98d6bfdd26fe346523025]
+## 1.[^c-4fdb1fe498b98d6bfdd26fe346523025]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-4fdb1fe498b98d6bfdd26fe346523025]
+## 2.[^c-4fdb1fe498b98d6bfdd26fe346523025]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-4fdb1fe498b98d6bfdd26fe346523025]
+## 3.[^c-4fdb1fe498b98d6bfdd26fe346523025]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-4fdb1fe498b98d6bfdd26fe346523025]
+## 4.[^c-4fdb1fe498b98d6bfdd26fe346523025]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-4fdb1fe498b98d6bfdd26fe346523025]
+## 5.[^c-4fdb1fe498b98d6bfdd26fe346523025]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4fdb1fe498b98d6bfdd26fe346523025]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4fdb1fe498b98d6bfdd26fe346523025]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4fdb1fe498b98d6bfdd26fe346523025]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4fdb1fe498b98d6bfdd26fe346523025]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4fdb1fe498b98d6bfdd26fe346523025]: Textual amendment: Regulations revoked (28.9.2000) by [The Dual-Use Items (Export Control) Regulations 2000 (S.I. 2000/2620)](https://www.legislation.gov.uk/uksi/2000/2620), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/2620/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2620/schedule/1) (with [reg. 14](https://www.legislation.gov.uk/uksi/2000/2620/regulation/14))
+[^c-4fdb1fe498b98d6bfdd26fe346523025]: Textual amendment: Regulations revoked (28.9.2000) by [The Dual-Use Items (Export Control) Regulations 2000 (S.I. 2000/2620)](https://www.legislation.gov.uk/uksi/2000/2620), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/2620/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2620/schedule/1) (with [reg. 14](https://www.legislation.gov.uk/uksi/2000/2620/regulation/14))

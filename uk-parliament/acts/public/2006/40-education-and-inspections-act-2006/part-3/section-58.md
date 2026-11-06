@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Removal of requirement to issue code of practice as to relationships between local authorities and maintained schools in England etc[^key-357ad3d0c307401d0754a5b4e8a1b0c1]
+## 58. Removal of requirement to issue code of practice as to relationships between local authorities and maintained schools in England etc[^c-357ad3d0c307401d0754a5b4e8a1b0c1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-357ad3d0c307401d0754a5b4e8a1b0c1]: Textual amendment: S. 58 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 34(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/34/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(g)](https://www.legislation.gov.uk/wsi/2014/178/article/2/g) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-357ad3d0c307401d0754a5b4e8a1b0c1]: Textual amendment: S. 58 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 34(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/34/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(g)](https://www.legislation.gov.uk/wsi/2014/178/article/2/g) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))

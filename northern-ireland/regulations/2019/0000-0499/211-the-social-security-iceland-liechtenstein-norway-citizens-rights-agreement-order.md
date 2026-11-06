@@ -31,7 +31,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Iceland) (Liechtenstein) (Norway) (Citizens' Rights Agreement) Order (Northern Ireland) 2019 (revoked)[^key-0aa2ac74836ddc89def17849ced8f793]
+The Social Security (Iceland) (Liechtenstein) (Norway) (Citizens' Rights Agreement) Order (Northern Ireland) 2019 (revoked)[^c-0aa2ac74836ddc89def17849ced8f793]
 
 Made
 
@@ -39,15 +39,15 @@ Made
 
 Coming into operation in accordance with Article 1
 
-[^key-0aa2ac74836ddc89def17849ced8f793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0aa2ac74836ddc89def17849ced8f793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-0aa2ac74836ddc89def17849ced8f793]
+## 1. Citation and commencement[^c-0aa2ac74836ddc89def17849ced8f793]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of legislation[^key-0aa2ac74836ddc89def17849ced8f793]
+## 2. Modification of legislation[^c-0aa2ac74836ddc89def17849ced8f793]
 
 **Not yet in force.**
 
@@ -55,12 +55,12 @@ Coming into operation in accordance with Article 1
 
 **May not be in force at this date. Check the source.**
 
-[^key-0aa2ac74836ddc89def17849ced8f793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0aa2ac74836ddc89def17849ced8f793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0aa2ac74836ddc89def17849ced8f793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0aa2ac74836ddc89def17849ced8f793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0aa2ac74836ddc89def17849ced8f793]: Textual amendment: Order revoked (19.12.2020) by [The Social Security (Iceland, Liechtenstein and Norway) (Citizens’ Rights Agreement) (Revocation) Order (Northern Ireland) 2020 (S.R. 2020/347)](https://www.legislation.gov.uk/nisr/2020/347), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2020/347/article/1/1), [2](https://www.legislation.gov.uk/nisr/2020/347/article/2)
+[^c-0aa2ac74836ddc89def17849ced8f793]: Textual amendment: Order revoked (19.12.2020) by [The Social Security (Iceland, Liechtenstein and Norway) (Citizens’ Rights Agreement) (Revocation) Order (Northern Ireland) 2020 (S.R. 2020/347)](https://www.legislation.gov.uk/nisr/2020/347), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2020/347/article/1/1), [2](https://www.legislation.gov.uk/nisr/2020/347/article/2)

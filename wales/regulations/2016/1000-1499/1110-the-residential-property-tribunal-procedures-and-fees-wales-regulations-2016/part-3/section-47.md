@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Fees for applications made under the 2014 Act[^key-13d3cf863c71dcefbb4aa63157b75fe8]
+## 47. Fees for applications made under the 2014 Act[^c-13d3cf863c71dcefbb4aa63157b75fe8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Subject to regulation 51(2) a fee of £155 is payable for an application to a tr
 
 ## Annotations
 
-[^key-13d3cf863c71dcefbb4aa63157b75fe8]: Commencement: Reg. 47 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-13d3cf863c71dcefbb4aa63157b75fe8]: Commencement: Reg. 47 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

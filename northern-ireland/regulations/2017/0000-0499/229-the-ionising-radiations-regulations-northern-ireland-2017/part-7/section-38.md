@@ -36,10 +36,10 @@ from any requirement or prohibition imposed by these Regulations and any such ex
 it is satisfied that—
 
 - (c) the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it; and
-- (d) compliance with the fundamental radiation protection provisions underlying regulations 9(1) and (2)(a), 12, 13(1), 17(1) and (3), 20(1), 21(1), 22(1), and[^key-2c51780ee0194514e6063cb3d42c4489] 25(2) [^key-ff5cbdeca21b3cb23f04841c35db61eb]... will be achieved.
+- (d) compliance with the fundamental radiation protection provisions underlying regulations 9(1) and (2)(a), 12, 13(1), 17(1) and (3), 20(1), 21(1), 22(1), and[^c-2c51780ee0194514e6063cb3d42c4489] 25(2) [^c-ff5cbdeca21b3cb23f04841c35db61eb]... will be achieved.
 
 ## Annotations
 
-[^key-2c51780ee0194514e6063cb3d42c4489]: Textual amendment: Word in [reg. 38(2)(d)](https://www.legislation.gov.uk/nisr/2017/229/regulation/38/2/d) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(6)(a)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/6/a)
+[^c-2c51780ee0194514e6063cb3d42c4489]: Textual amendment: Word in [reg. 38(2)(d)](https://www.legislation.gov.uk/nisr/2017/229/regulation/38/2/d) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(6)(a)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/6/a)
 
-[^key-ff5cbdeca21b3cb23f04841c35db61eb]: Textual amendment: Words in [reg. 38(2)(d)](https://www.legislation.gov.uk/nisr/2017/229/regulation/38/2/d) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(6)(b)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/6/b)
+[^c-ff5cbdeca21b3cb23f04841c35db61eb]: Textual amendment: Words in [reg. 38(2)(d)](https://www.legislation.gov.uk/nisr/2017/229/regulation/38/2/d) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(6)(b)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/6/b)

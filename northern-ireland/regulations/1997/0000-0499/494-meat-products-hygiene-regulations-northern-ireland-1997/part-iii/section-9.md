@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Wrapping etc.[^key-c2cbe2996e4ff0ce1519d573cd6aea16]
+## 9. Wrapping etc.[^c-c2cbe2996e4ff0ce1519d573cd6aea16]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ unless it has been wrapped, packaged or labelled at manufacturing premises in ac
 
 ## Annotations
 
-[^key-c2cbe2996e4ff0ce1519d573cd6aea16]: Commencement: Reg. 9 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-c2cbe2996e4ff0ce1519d573cd6aea16]: Commencement: Reg. 9 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

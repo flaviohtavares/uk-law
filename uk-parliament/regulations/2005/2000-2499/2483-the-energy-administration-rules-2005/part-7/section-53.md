@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Mutual credits and set-off[^key-11a64490de485621dc829dd2bba94bdb]
+## 53. Mutual credits and set-off[^c-11a64490de485621dc829dd2bba94bdb]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11a64490de485621dc829dd2bba94bdb]: Commencement: Rule 53 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-11a64490de485621dc829dd2bba94bdb]: Commencement: Rule 53 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

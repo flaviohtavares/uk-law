@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Reserved matters: new institutions[^key-f1021b41522702ea6ad4796dbc7eb704]
+## 83. Reserved matters: new institutions[^c-f1021b41522702ea6ad4796dbc7eb704]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1021b41522702ea6ad4796dbc7eb704]: Textual amendment: S. 83 omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2010/976/article/27/2/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-f1021b41522702ea6ad4796dbc7eb704]: Textual amendment: S. 83 omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2010/976/article/27/2/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Application of Chapter 4[^key-11af1149255ff7f65b56275658c4d7c4]
+## 29. Application of Chapter 4[^c-11af1149255ff7f65b56275658c4d7c4]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 83(2) (application of Chapter 4), for “84 and 85” substitute “8
 
 ## Annotations
 
-[^key-11af1149255ff7f65b56275658c4d7c4]: Commencement: S. 29 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-11af1149255ff7f65b56275658c4d7c4]: Commencement: S. 29 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

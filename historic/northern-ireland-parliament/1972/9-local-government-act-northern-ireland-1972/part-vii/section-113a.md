@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113A. Power to provide advice and assistance.[^key-442b385be19e16768c7419060707c51b][^key-ef88b18c3b41747288a7c0f8248b3b71][^c20367811][^c20720711][^c20367821]
+## 113A. Power to provide advice and assistance.[^c-442b385be19e16768c7419060707c51b][^c-ef88b18c3b41747288a7c0f8248b3b71][^c20367811][^c20720711][^c20367821]
 
 *Extent: N.I.*
 
@@ -40,9 +40,9 @@ summary: ''
 
 ## Annotations
 
-[^key-442b385be19e16768c7419060707c51b]: Modification: [Ss. 112-113A](https://www.legislation.gov.uk/apni/1972/9/section/112) applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [6](https://www.legislation.gov.uk/nisr/2012/10/article/6)
+[^c-442b385be19e16768c7419060707c51b]: Modification: [Ss. 112-113A](https://www.legislation.gov.uk/apni/1972/9/section/112) applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [6](https://www.legislation.gov.uk/nisr/2012/10/article/6)
 
-[^key-ef88b18c3b41747288a7c0f8248b3b71]: Modification: [Ss. 112](https://www.legislation.gov.uk/apni/1972/9/section/112) [113](https://www.legislation.gov.uk/apni/1972/9/section/113) [113A](https://www.legislation.gov.uk/apni/1972/9/section/113A) applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [reg. 6](https://www.legislation.gov.uk/nisr/2015/183/regulation/6)
+[^c-ef88b18c3b41747288a7c0f8248b3b71]: Modification: [Ss. 112](https://www.legislation.gov.uk/apni/1972/9/section/112) [113](https://www.legislation.gov.uk/apni/1972/9/section/113) [113A](https://www.legislation.gov.uk/apni/1972/9/section/113A) applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [reg. 6](https://www.legislation.gov.uk/nisr/2015/183/regulation/6)
 
 [^c20367811]: Modification: [Ss. 111](https://www.legislation.gov.uk/apni/1972/9/section/111) - 113A applied (with modifications) by S.R 2004/49, art. 7 (as inserted (28.1.2008) by [Local Government (Constituting a Joint Committee a Body Corporate) (Amendment) Order (Northern Ireland) 2007 (S.R. 2007/505)](https://www.legislation.gov.uk/nisr/2007/505), [art. 2(5)](https://www.legislation.gov.uk/nisr/2007/505/article/2/5))
 

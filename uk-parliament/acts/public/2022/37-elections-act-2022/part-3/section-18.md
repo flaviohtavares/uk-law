@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Membership of the Speaker’s Committee[^key-5de6ea9047332cd1e610783a06624ed2][^key-aa1541cd31ac7c78a8a3e65c1444bd44]
+## 18. Membership of the Speaker’s Committee[^c-5de6ea9047332cd1e610783a06624ed2][^c-aa1541cd31ac7c78a8a3e65c1444bd44]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5de6ea9047332cd1e610783a06624ed2]: Commencement: S. 18 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-5de6ea9047332cd1e610783a06624ed2]: Commencement: S. 18 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-aa1541cd31ac7c78a8a3e65c1444bd44]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/37/section/18) in force at 19.8.2022 by [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)
+[^c-aa1541cd31ac7c78a8a3e65c1444bd44]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/37/section/18) in force at 19.8.2022 by [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1[^key-69b71704519923787468852362909121]
+## SCHEDULE 1[^c-69b71704519923787468852362909121]
 
 *Extent: N.I.*
 
@@ -961,7 +961,7 @@ Rule 3(5)
 
 ## Annotations
 
-[^key-69b71704519923787468852362909121]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2025/171/schedule/1) in operation at 26.11.2025, see [rule 1](https://www.legislation.gov.uk/nisr/2025/171/rule/1)
+[^c-69b71704519923787468852362909121]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2025/171/schedule/1) in operation at 26.11.2025, see [rule 1](https://www.legislation.gov.uk/nisr/2025/171/rule/1)
 
 [^f00003]: Footnote: [S.I. 1977/1247 (N.I.14)](https://www.legislation.gov.uk/nisi/1977/1247)
 

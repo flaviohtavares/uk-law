@@ -30,7 +30,7 @@ Appointment Of Bishops Act 1533
 
 An Acte restraynyng the payment of Annates, &c.[^c9190941][^c9190951][^c9190961][^c9190971]
 
-[^key-0ed0241a49127898e5465318a80f13ae][^key-71154d261c5e411e7fc5d1d2dd3960c1]
+[^c-0ed0241a49127898e5465318a80f13ae][^c-71154d261c5e411e7fc5d1d2dd3960c1]
 
 ## I, II. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c9190981]
 
@@ -60,9 +60,9 @@ And every person and persons being hereafter chosen elected nomynate presented i
 
     Act: transfer of functions (30.6.1999 with application as mentioned in s. 38(2)(3) of the amending Measure) by [1999 No. 1](https://www.legislation.gov.uk/ukcm/1999/1), [s. 5(3)](https://www.legislation.gov.uk/ukcm/1999/1/section/5/3) (with [ss. 33](https://www.legislation.gov.uk/ukcm/1999/1/section/33), [34](https://www.legislation.gov.uk/ukcm/1999/1/section/34), [37](https://www.legislation.gov.uk/ukcm/1999/1/section/37), [38(5)(6)](https://www.legislation.gov.uk/ukcm/1999/1/section/38/5/6))
 
-[^key-0ed0241a49127898e5465318a80f13ae]: Modification: Act: transfer of functions (coming into force in accordance with [s. 53(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 3(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/3/3) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-0ed0241a49127898e5465318a80f13ae]: Modification: Act: transfer of functions (coming into force in accordance with [s. 53(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 3(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/3/3) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-71154d261c5e411e7fc5d1d2dd3960c1]: Modification: Act modified (coming into force in accordance with [s. 53(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 3(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/3/3) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-71154d261c5e411e7fc5d1d2dd3960c1]: Modification: Act modified (coming into force in accordance with [s. 53(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 3(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/3/3) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
 [^c9190981]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/aep/Hen8/25/20/section/1), [2](https://www.legislation.gov.uk/aep/Hen8/25/20/section/2) repealed by [Statute Law (Repeals) Act 1969 (c. 52)](https://www.legislation.gov.uk/ukpga/1969/52)
 

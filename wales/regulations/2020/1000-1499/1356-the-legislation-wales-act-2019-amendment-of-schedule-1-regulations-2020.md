@@ -43,13 +43,13 @@ The Welsh Ministers make the following Regulations in exercise of the power conf
 
 A draft of this instrument has been laid before and approved by a resolution of Senedd Cymru in accordance with section 43(2) of that Act.
 
-## 1. Title and coming into force[^key-69262d850fd0dca146d78a198e2cc222]
+## 1. Title and coming into force[^c-69262d850fd0dca146d78a198e2cc222]
 
 (1) The title of these Regulations is the Legislation (Wales) Act 2019 (Amendment of Schedule 1) Regulations 2020.
 
 (2) They come into force on the day after the day on which they are made.
 
-## 2. Amendments to Schedule 1 to the Legislation (Wales) Act 2019[^key-fa1732a70c13412925ece63a68ac1180]
+## 2. Amendments to Schedule 1 to the Legislation (Wales) Act 2019[^c-fa1732a70c13412925ece63a68ac1180]
 
 (1) The Table in Schedule 1 to the Legislation (Wales) Act 2019 (definitions of words and expressions appearing in Acts of Senedd Cymru and Welsh subordinate instruments) is amended as follows.
 
@@ -114,6 +114,6 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2019 anaw 4](https://www.legislation.gov.uk/anaw/2019/4), amended by the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), Schedule 1, paragraph 5. There are other amendments not relevant to this instrument.
 
-[^key-69262d850fd0dca146d78a198e2cc222]: Commencement: Reg. 1 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1356/regulation/1/2)
+[^c-69262d850fd0dca146d78a198e2cc222]: Commencement: Reg. 1 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1356/regulation/1/2)
 
-[^key-fa1732a70c13412925ece63a68ac1180]: Commencement: Reg. 2 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1356/regulation/1/2)
+[^c-fa1732a70c13412925ece63a68ac1180]: Commencement: Reg. 2 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1356/regulation/1/2)

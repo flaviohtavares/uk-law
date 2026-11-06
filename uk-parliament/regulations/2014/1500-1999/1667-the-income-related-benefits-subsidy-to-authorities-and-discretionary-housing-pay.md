@@ -50,7 +50,7 @@ In accordance with section 189(8)[^f00003] of the Social Security Administration
 
 In accordance with section 176(1)[^f00004] of the Social Security Administration Act 1992, consultation has taken place with organisations appearing to the Secretary of State to be representative of the authorities concerned.
 
-## 1. Citation, commencement and interpretation[^key-6525741f2bf493e5ccd2a32093510054]
+## 1. Citation, commencement and interpretation[^c-6525741f2bf493e5ccd2a32093510054]
 
 (1) This Order may be cited as the Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2014 and comes into force on 25th July 2014.
 
@@ -63,19 +63,19 @@ In accordance with section 176(1)[^f00004] of the Social Security Administration
 - (a) the “1998 Order” means the Income-related Benefits (Subsidy to Authorities) Order 1998[^f00005]; and
 - (b) the “2001 Order” means the Discretionary Housing Payments (Grants) Order 2001[^f00006].
 
-## 2. Amendments having effect from 1st April 2013[^key-66021b6890634b8a0a29cb4498310423]
+## 2. Amendments having effect from 1st April 2013[^c-66021b6890634b8a0a29cb4498310423]
 
 (1) The 1998 Order is amended as follows—
 
 - (a) in paragraph (3) of article 4 (Requirement of claim)[^f00007] for “31st May” substitute “30th April”; and
 - (b) for Schedule 1 (Sums to be used in the calculation of subsidy)[^f00008] of the 1998 Order substitute Schedule 1 as set out in Schedule 1 to this Order.
 
-(2) The *(Extent: E)* *(affected by repeal, see note)*[^key-16d5150a248fb1c4876e1098903f458a] 2001 Order *(Extent: E)* *(affected by repeal, see note)*[^key-16d5150a248fb1c4876e1098903f458a] is amended as follows— *(Extent: E)* *(affected by repeal, see note)*[^key-16d5150a248fb1c4876e1098903f458a]
+(2) The *(Extent: E)* *(affected by repeal, see note)*[^c-16d5150a248fb1c4876e1098903f458a] 2001 Order *(Extent: E)* *(affected by repeal, see note)*[^c-16d5150a248fb1c4876e1098903f458a] is amended as follows— *(Extent: E)* *(affected by repeal, see note)*[^c-16d5150a248fb1c4876e1098903f458a]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-16d5150a248fb1c4876e1098903f458a] in paragraph (2)(f) of article 3 (Claims) *(Extent: E)* *(affected by repeal, see note)*[^key-16d5150a248fb1c4876e1098903f458a][^f00009] for “31st May” substitute “30th April”; and *(Extent: E)* *(affected by repeal, see note)*[^key-16d5150a248fb1c4876e1098903f458a]
-- (b (Extent: S) (affected by repeal, see note) (Extent: E) (affected by repeal, see note))[^key-698fce3df57984179f0e54601b647655][^key-16d5150a248fb1c4876e1098903f458a] in paragraph (1) of article 7 (Limit on total expenditure) for “at the beginning of that year” substitute “in that year”. *(Extent: S)* *(affected by repeal, see note)*[^key-698fce3df57984179f0e54601b647655] *(Extent: E)* *(affected by repeal, see note)*[^key-16d5150a248fb1c4876e1098903f458a]
+- (a (Extent: E) (affected by repeal, see note))[^c-16d5150a248fb1c4876e1098903f458a] in paragraph (2)(f) of article 3 (Claims) *(Extent: E)* *(affected by repeal, see note)*[^c-16d5150a248fb1c4876e1098903f458a][^f00009] for “31st May” substitute “30th April”; and *(Extent: E)* *(affected by repeal, see note)*[^c-16d5150a248fb1c4876e1098903f458a]
+- (b (Extent: S) (affected by repeal, see note) (Extent: E) (affected by repeal, see note))[^c-698fce3df57984179f0e54601b647655][^c-16d5150a248fb1c4876e1098903f458a] in paragraph (1) of article 7 (Limit on total expenditure) for “at the beginning of that year” substitute “in that year”. *(Extent: S)* *(affected by repeal, see note)*[^c-698fce3df57984179f0e54601b647655] *(Extent: E)* *(affected by repeal, see note)*[^c-16d5150a248fb1c4876e1098903f458a]
 
-## 3. Amendments having effect from 1st April 2014[^key-b32be6c810ce7b937022e4ccfb02b107]
+## 3. Amendments having effect from 1st April 2014[^c-b32be6c810ce7b937022e4ccfb02b107]
 
 (1) The 1998 Order is amended as follows.
 
@@ -103,7 +103,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 26th June 2014
 
-## SCHEDULE 1 — Schedule to be substituted for Schedule 1 to the 1998 Order[^key-5bfb7c68a307d3e5da60b5ffa6c1f981]
+## SCHEDULE 1 — Schedule to be substituted for Schedule 1 to the 1998 Order[^c-5bfb7c68a307d3e5da60b5ffa6c1f981]
 
 Article 2(1)(b)
 
@@ -498,7 +498,7 @@ Article 2(1)(b)
 > | Vale of Glamorgan | £852,311.99 |
 > | Wrexham | £970,342.00. |
 
-## SCHEDULE 2 — Part to be substituted for Part 3 of Schedule 4A to the 1998 Order[^key-95e3b582e59f3e2a5a11d3baf4462880]
+## SCHEDULE 2 — Part to be substituted for Part 3 of Schedule 4A to the 1998 Order[^c-95e3b582e59f3e2a5a11d3baf4462880]
 
 Article 3(2)
 
@@ -677,7 +677,7 @@ Article 3(2)
 > | Wolverhampton | £80.50 |
 > | York | £79.87. |
 
-## SCHEDULE 3 — Part to be substituted for Part 5 of Schedule 4A to the 1998 Order[^key-612aaca8f99e58f1cada7f25ad06470e]
+## SCHEDULE 3 — Part to be substituted for Part 5 of Schedule 4A to the 1998 Order[^c-612aaca8f99e58f1cada7f25ad06470e]
 
 Article 3(3)
 
@@ -721,32 +721,32 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00004]: Footnote: Section 176(1) was amended by the Local Government Finance Act 1992, Schedule 9, paragraph 23, the Child Support, Pensions and Social Security Act 2000, section 69(6) and the Housing Act 1996, Schedule 13, paragraph 3(4). Section 176 was repealed, to the extent it related to council tax benefit, by the Welfare Reform Act 2012, schedule 14, paragraph 1 with effect from 1st April 2013 and subject to savings and transitional provisions in articles 9 and 10 of [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358).
 
-[^key-6525741f2bf493e5ccd2a32093510054]: Commencement: Art. 1 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)
+[^c-6525741f2bf493e5ccd2a32093510054]: Commencement: Art. 1 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)
 
 [^f00005]: Footnote: [S.I. 1998/562](https://www.legislation.gov.uk/uksi/1998/562).
 
 [^f00006]: Footnote: [S.I. 2001/2340](https://www.legislation.gov.uk/uksi/2001/2340).
 
-[^key-66021b6890634b8a0a29cb4498310423]: Commencement: Art. 2 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)
+[^c-66021b6890634b8a0a29cb4498310423]: Commencement: Art. 2 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)
 
 [^f00007]: Footnote: Paragraph 3 of article 4 was amended by [S.I. 2007/26](https://www.legislation.gov.uk/uksi/2007/26).
 
 [^f00008]: Footnote: Schedule 1 was substituted by [S.I. 2013/2989](https://www.legislation.gov.uk/uksi/2013/2989).
 
-[^key-16d5150a248fb1c4876e1098903f458a]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1667/article/2/2) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+[^c-16d5150a248fb1c4876e1098903f458a]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1667/article/2/2) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
 
 [^f00009]: Footnote: Article 3 was amended by [S.I. 2005/2052](https://www.legislation.gov.uk/uksi/2005/2052) and [S.I. 2008/1167](https://www.legislation.gov.uk/uksi/2008/1167).
 
-[^key-698fce3df57984179f0e54601b647655]: Textual amendment: Art. 2(2)(b) revoked (S.) (9.12.2014) by [The Discretionary Housing Payments (Limit on Total Expenditure) Revocation (Scotland) Order 2014 (S.S.I. 2014/298)](https://www.legislation.gov.uk/ssi/2014/298), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/298/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2014/298/article/2/b)
+[^c-698fce3df57984179f0e54601b647655]: Textual amendment: Art. 2(2)(b) revoked (S.) (9.12.2014) by [The Discretionary Housing Payments (Limit on Total Expenditure) Revocation (Scotland) Order 2014 (S.S.I. 2014/298)](https://www.legislation.gov.uk/ssi/2014/298), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/298/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2014/298/article/2/b)
 
-[^key-b32be6c810ce7b937022e4ccfb02b107]: Commencement: Art. 3 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)
+[^c-b32be6c810ce7b937022e4ccfb02b107]: Commencement: Art. 3 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)
 
 [^f00010]: Footnote: Part 3 of Schedule 4A was substituted by [S.I. 2013/2989](https://www.legislation.gov.uk/uksi/2013/2989).
 
 [^f00011]: Footnote: Part 5 of Schedule 4A was substituted by [S.I. 2013/2989](https://www.legislation.gov.uk/uksi/2013/2989).
 
-[^key-5bfb7c68a307d3e5da60b5ffa6c1f981]: Commencement: Sch. 1 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)
+[^c-5bfb7c68a307d3e5da60b5ffa6c1f981]: Commencement: Sch. 1 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)
 
-[^key-95e3b582e59f3e2a5a11d3baf4462880]: Commencement: Sch. 2 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)
+[^c-95e3b582e59f3e2a5a11d3baf4462880]: Commencement: Sch. 2 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)
 
-[^key-612aaca8f99e58f1cada7f25ad06470e]: Commencement: Sch. 3 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)
+[^c-612aaca8f99e58f1cada7f25ad06470e]: Commencement: Sch. 3 in force at 25.7.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1)

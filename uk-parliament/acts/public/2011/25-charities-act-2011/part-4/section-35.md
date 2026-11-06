@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Duties of trustees in connection with registration[^key-a9726ac97b594f56c13bb862d296b213]
+## 35. Duties of trustees in connection with registration[^c-a9726ac97b594f56c13bb862d296b213]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) The required documents and information are—
 
 - (a) copies of the charity's trusts or (if they are not set out in any extant document) particulars of them,
-- (b) such other documents or information as may be prescribed by regulations made by the Secretary of State[^key-5067b839063eea5585ebff642360eecc], and
+- (b) such other documents or information as may be prescribed by regulations made by the Secretary of State[^c-5067b839063eea5585ebff642360eecc], and
 - (c) such other documents or information as the Commission may require for the purposes of the application.
 
 (3) If an institution is for the time being registered, the charity trustees (or the last charity trustees) must—
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a9726ac97b594f56c13bb862d296b213]: Modification: S. 35 modified (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/6/4)
+[^c-a9726ac97b594f56c13bb862d296b213]: Modification: S. 35 modified (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/6/4)
 
-[^key-5067b839063eea5585ebff642360eecc]: Textual amendment: Words in [s. 35(2)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/35/2/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(h)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/h) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-5067b839063eea5585ebff642360eecc]: Textual amendment: Words in [s. 35(2)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/35/2/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(h)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/h) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

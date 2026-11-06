@@ -27,7 +27,7 @@ summary: ''
 - (a) include provision for a CFD counterparty to calculate or determine, in accordance with such criteria as may be provided for by or under the regulations, amounts which are owed by the CFD counterparty;
 - (b) provide for anything which is to be calculated or determined under the regulations to be calculated or determined by such persons, in accordance with such procedure and by reference to such matters and to the opinion of such persons, as may be specified in the regulations.
 
-(2A)[^key-5b37182ada26cf0cbe10104ed3ac9cfe] Regulations may make provision imposing on an electricity supplier who receives a payment from a CFD counterparty a requirement to secure that customers of the electricity supplier receive, by a time specified in the regulations, such benefit from the payment as may be specified in or determined in accordance with the regulations.
+(2A)[^c-5b37182ada26cf0cbe10104ed3ac9cfe] Regulations may make provision imposing on an electricity supplier who receives a payment from a CFD counterparty a requirement to secure that customers of the electricity supplier receive, by a time specified in the regulations, such benefit from the payment as may be specified in or determined in accordance with the regulations.
 
 (3) In this section “electricity supplier”, subject to any provision made by regulations, means a person who is a holder of a licence to supply electricity under—
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b37182ada26cf0cbe10104ed3ac9cfe]: Textual amendment: [S. 17(2A)](https://www.legislation.gov.uk/ukpga/2013/32/section/17/2A) inserted (25.12.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2022/44/section/18/4), [30(5)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-5b37182ada26cf0cbe10104ed3ac9cfe]: Textual amendment: [S. 17(2A)](https://www.legislation.gov.uk/ukpga/2013/32/section/17/2A) inserted (25.12.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2022/44/section/18/4), [30(5)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))

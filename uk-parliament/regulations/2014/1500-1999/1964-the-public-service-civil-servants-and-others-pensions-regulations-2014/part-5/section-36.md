@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Calculation of amount of accrued pension for purpose of partial retirement[^key-ac447dca5b4962cf06441ef4360b2e99]
+## 36. Calculation of amount of accrued pension for purpose of partial retirement[^c-ac447dca5b4962cf06441ef4360b2e99]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ac447dca5b4962cf06441ef4360b2e99]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2014/1964/regulation/36) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-ac447dca5b4962cf06441ef4360b2e99]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2014/1964/regulation/36) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00052]: Footnote: The same option proportion must be specified for accrued standard earned pension and accrued added pension. See regulation 66.

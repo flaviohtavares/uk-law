@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE — Wording for inclusion in Commission Implementing Regulation (EU) 2018/456 on the procedural steps of the consultation process for determination of novel food status in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods[^key-bbff021cc55cc77ceae267a5dd53d1d8]
+## SCHEDULE — Wording for inclusion in Commission Implementing Regulation (EU) 2018/456 on the procedural steps of the consultation process for determination of novel food status in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods[^c-bbff021cc55cc77ceae267a5dd53d1d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,4 +91,4 @@ Regulation 76
 
 ## Annotations
 
-[^key-bbff021cc55cc77ceae267a5dd53d1d8]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-bbff021cc55cc77ceae267a5dd53d1d8]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

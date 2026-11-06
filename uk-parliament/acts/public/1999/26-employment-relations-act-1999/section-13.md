@@ -43,13 +43,13 @@ and, for the purposes of sections 10 to 12, both the agent and the principal are
 
 and, for the purposes of sections 10 to 12, the person mentioned in paragraph (a) is the home worker’s employer.
 
-(4)[^key-4395898141e83033f69a9692850d901b] For the purposes of section 10 a disciplinary hearing is a hearing which could result in—
+(4)[^c-4395898141e83033f69a9692850d901b] For the purposes of section 10 a disciplinary hearing is a hearing which could result in—
 
 - (a) the administration of a formal warning to a worker by his employer,
 - (b) the taking of some other action in respect of a worker by his employer, or
 - (c) the confirmation of a warning issued or some other action taken.
 
-(5)[^key-4395898141e83033f69a9692850d901b] For the purposes of section 10 a grievance hearing is a hearing which concerns the performance of a duty by an employer in relation to a worker.
+(5)[^c-4395898141e83033f69a9692850d901b] For the purposes of section 10 a grievance hearing is a hearing which concerns the performance of a duty by an employer in relation to a worker.
 
 (6) For the purposes of section 10(5)(b) in its application to a part of Great Britain a working day is a day other than—
 
@@ -61,6 +61,6 @@ and, for the purposes of sections 10 to 12, the person mentioned in paragraph (a
 
 [^c12486151]: Commencement: S. 13 wholly in force at 4.9.2000; s. 13 not in force at Royal Assent see s. 45; s. 13(1)-(3) in force at 25.10.1999 by [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830) art.(1), Sch. 1 Pt. I (with art. 3); s. 13(4)-(6) in force at 4.9.2000 by [S.I. 2000/2242](https://www.legislation.gov.uk/uksi/2000/2242), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2242/article/2/1)
 
-[^key-4395898141e83033f69a9692850d901b]: Modification: S. 13(4)(5) modified (1.10.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2002/22/schedule/2/paragraph/14); [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1717/article/3))
+[^c-4395898141e83033f69a9692850d901b]: Modification: S. 13(4)(5) modified (1.10.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2002/22/schedule/2/paragraph/14); [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1717/article/3))
 
 [^c12486161]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

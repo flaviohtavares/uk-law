@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Suspension and recovery of pensions paid under this Part[^key-953b20714e0887158db12cc989fd3d87]
+## 138. Suspension and recovery of pensions paid under this Part[^c-953b20714e0887158db12cc989fd3d87]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-953b20714e0887158db12cc989fd3d87]: Commencement: Reg. 138 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-953b20714e0887158db12cc989fd3d87]: Commencement: Reg. 138 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

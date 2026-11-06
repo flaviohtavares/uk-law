@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Division of unsold assets[^key-11a43f5b55ecfe1c35eab2a28ade81e7]
+## 42. Division of unsold assets[^c-11a43f5b55ecfe1c35eab2a28ade81e7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11a43f5b55ecfe1c35eab2a28ade81e7]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2013/3208/rule/42) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-11a43f5b55ecfe1c35eab2a28ade81e7]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2013/3208/rule/42) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

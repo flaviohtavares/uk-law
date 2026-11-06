@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32E. Slaughter for preventing spread of disease: Scotland[^key-89c75428005611c9759a6eb198596a2f]
+## 32E. Slaughter for preventing spread of disease: Scotland[^c-89c75428005611c9759a6eb198596a2f]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ Schedule 3A to this Act has effect as to slaughter in relation to—
 
 ## Annotations
 
-[^key-89c75428005611c9759a6eb198596a2f]: Textual amendment: [S. 32E](https://www.legislation.gov.uk/ukpga/1981/22/section/32E) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 1(1)](https://www.legislation.gov.uk/asp/2006/11/section/1/1), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-89c75428005611c9759a6eb198596a2f]: Textual amendment: [S. 32E](https://www.legislation.gov.uk/ukpga/1981/22/section/32E) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 1(1)](https://www.legislation.gov.uk/asp/2006/11/section/1/1), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

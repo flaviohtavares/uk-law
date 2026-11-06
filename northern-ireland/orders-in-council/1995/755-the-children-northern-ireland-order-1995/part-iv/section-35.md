@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Persons qualifying for advice and assistance[^key-0f2ae32e2bbebb721d839ff03b96b1a3][^c17269691]
+## 35. Persons qualifying for advice and assistance[^c-0f2ae32e2bbebb721d839ff03b96b1a3][^c17269691]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 - (b) accommodated by or on behalf of a voluntary organisation;
 - (c) accommodated in a private[^c17269731] children's home;
 - (d) accommodated for a consecutive period of at least three months in—
-  - (i) any accommodation provided by the Education Authority[^key-4fcab486693092a57b7ec1cca80bcb83] ; or
+  - (i) any accommodation provided by the Education Authority[^c-4fcab486693092a57b7ec1cca80bcb83] ; or
   - (ii) any residential care home; or
   - (iii) any hospital; or
   - (iv) any nursing home; or
@@ -49,10 +49,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0f2ae32e2bbebb721d839ff03b96b1a3]: Modification: [Art. 35](https://www.legislation.gov.uk/nisi/1995/755/article/35) applied (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(a)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/a), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)
+[^c-0f2ae32e2bbebb721d839ff03b96b1a3]: Modification: [Art. 35](https://www.legislation.gov.uk/nisi/1995/755/article/35) applied (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(a)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/a), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)
 
 [^c17269691]: Textual amendment: [2002 c. 11 (NI)](https://www.legislation.gov.uk/nia/2002/11)
 
 [^c17269731]: Textual amendment: [2003 NI 9](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-4fcab486693092a57b7ec1cca80bcb83]: Textual amendment: Words in [art. 35(2)(d)(i)](https://www.legislation.gov.uk/nisi/1995/755/article/35/2/d/i) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-4fcab486693092a57b7ec1cca80bcb83]: Textual amendment: Words in [art. 35(2)(d)(i)](https://www.legislation.gov.uk/nisi/1995/755/article/35/2/d/i) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

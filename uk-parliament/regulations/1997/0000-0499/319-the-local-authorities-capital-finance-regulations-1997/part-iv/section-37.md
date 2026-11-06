@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Leases under private finance transactions—leases not falling with regulation 28[^key-1fa6c480938df7dab094d4cfb03c3d3f]
+## 37. Leases under private finance transactions—leases not falling with regulation 28[^c-1fa6c480938df7dab094d4cfb03c3d3f]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fa6c480938df7dab094d4cfb03c3d3f]: Commencement: Reg. 37 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-1fa6c480938df7dab094d4cfb03c3d3f]: Commencement: Reg. 37 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

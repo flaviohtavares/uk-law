@@ -22,7 +22,7 @@ summary: ''
 
 Article 47
 
-**1.**[^key-b6cd4aed93e3e4ade5b29bb2dcf97dc0] (1) The following provisions shall apply for the protection of the Agency unless otherwise agreed in writing between the undertaker and the Agency.
+**1.**[^c-b6cd4aed93e3e4ade5b29bb2dcf97dc0] (1) The following provisions shall apply for the protection of the Agency unless otherwise agreed in writing between the undertaker and the Agency.
 
 (2) Where any consent, approval or agreement is required to be given by the Agency in relation to any part of the authorised project, other than under the terms of this Order, the terms of this Schedule shall apply.
 
@@ -39,7 +39,7 @@ Article 47
   - (b) any sewer, pipe or drain provided for groundwater, surface water or storm overflow sewerage;
 - “watercourse” includes all rivers, streams, ditches, drains, cuts, culverts, dykes, sluices, sewers and passages through which water flows (whether or not the flow is intermittent) except a public sewer.
 
-### 2. Surveys and maintenance of drainage works[^key-e78990135818a046fb1e04587b567452]
+### 2. Surveys and maintenance of drainage works[^c-e78990135818a046fb1e04587b567452]
 
 (1) Before commencing the construction of a consented work liable to affect a drainage work, the undertaker shall procure at its expense, in liaison with and to the reasonable satisfaction of the Agency, a survey of any drainage work liable to be affected by that consented work.
 
@@ -53,11 +53,11 @@ Article 47
 
 (6) In the event of any dispute as to the reasonableness of any requirement of a notice served under sub-paragraph (4), the Agency shall not, except in a case of emergency, exercise the powers conferred by sub-paragraph (5) until the dispute has been finally determined.
 
-### 3. Impairment of efficiency of drainage work for flood defence purposes[^key-2cb82cdaebc3fd77735f07ab4c06b7e2]
+### 3. Impairment of efficiency of drainage work for flood defence purposes[^c-2cb82cdaebc3fd77735f07ab4c06b7e2]
 
 If by reason of the construction of any consented work, or of the failure of any such work, the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage shall be made good by the undertaker to the reasonable satisfaction of the Agency; and if the undertaker fails to do so within such reasonable period as the Agency may require by notice in writing to the undertaker, the Agency may make good such impairment or damage and recover from the undertaker the expense reasonably incurred by it in so doing.
 
-### 4. Indemnity as to costs and expenses[^key-90262f0f77b7d970858b5f5127f6ffe0]
+### 4. Indemnity as to costs and expenses[^c-90262f0f77b7d970858b5f5127f6ffe0]
 
 (1) The undertaker shall indemnify the Agency in respect of all reasonable and proper costs, charges and expenses which the Agency may reasonably incur or have to pay or which it may sustain in the inspection, for the purpose of compliance with this Schedule, of the construction of any consented works or any protective works required by the Agency under this Schedule.
 
@@ -72,24 +72,24 @@ which is caused by the construction of any of the consented works or any act or 
 
 (3) The Agency shall give to the undertaker reasonable notice of any such claim, demand, or proceedings and no settlement or compromise of any such claim, demand, proceedings, costs, damages, expenses or losses shall be made without the consent of the undertaker which shall not be unreasonably withheld and if the undertaker shall not give such consent the Agency shall diligently defend such claim or demand.
 
-**5.**[^key-3be35b1f1bdb43dcf3be44fba2f47a88][^key-90262f0f77b7d970858b5f5127f6ffe0] The fact that any work or thing has been executed or done by the undertaker in accordance with a plan approved or deemed to be approved by the Agency, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the undertaker from any liability under paragraph 4.
+**5.**[^c-3be35b1f1bdb43dcf3be44fba2f47a88][^c-90262f0f77b7d970858b5f5127f6ffe0] The fact that any work or thing has been executed or done by the undertaker in accordance with a plan approved or deemed to be approved by the Agency, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the undertaker from any liability under paragraph 4.
 
-### 6. Disputes and differences[^key-8e95ab84d730e089327e1eb0590e1a90]
+### 6. Disputes and differences[^c-8e95ab84d730e089327e1eb0590e1a90]
 
-Any dispute arising between the undertaker and the Agency under this Schedule shall, if the parties agree, be determined by arbitration, but shall otherwise be determined by the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Energy Security and Net Zero[^key-51d87dd9e060d2d2de89f89f2cdf1487] acting jointly.
+Any dispute arising between the undertaker and the Agency under this Schedule shall, if the parties agree, be determined by arbitration, but shall otherwise be determined by the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Energy Security and Net Zero[^c-51d87dd9e060d2d2de89f89f2cdf1487] acting jointly.
 
 ## Annotations
 
-[^key-b6cd4aed93e3e4ade5b29bb2dcf97dc0]: Commencement: Sch. 15 para. 1 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-b6cd4aed93e3e4ade5b29bb2dcf97dc0]: Commencement: Sch. 15 para. 1 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-e78990135818a046fb1e04587b567452]: Commencement: Sch. 15 para. 2 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-e78990135818a046fb1e04587b567452]: Commencement: Sch. 15 para. 2 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-2cb82cdaebc3fd77735f07ab4c06b7e2]: Commencement: Sch. 15 para. 3 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-2cb82cdaebc3fd77735f07ab4c06b7e2]: Commencement: Sch. 15 para. 3 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-90262f0f77b7d970858b5f5127f6ffe0]: Commencement: Sch. 15 para. 4 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-90262f0f77b7d970858b5f5127f6ffe0]: Commencement: Sch. 15 para. 4 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-3be35b1f1bdb43dcf3be44fba2f47a88]: Commencement: Sch. 15 para. 5 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-3be35b1f1bdb43dcf3be44fba2f47a88]: Commencement: Sch. 15 para. 5 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-8e95ab84d730e089327e1eb0590e1a90]: Commencement: Sch. 15 para. 6 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-8e95ab84d730e089327e1eb0590e1a90]: Commencement: Sch. 15 para. 6 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-51d87dd9e060d2d2de89f89f2cdf1487]: Textual amendment: Words in [Sch. 15 para. 6](https://www.legislation.gov.uk/uksi/2013/648/schedule/15/paragraph/6) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/56) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-51d87dd9e060d2d2de89f89f2cdf1487]: Textual amendment: Words in [Sch. 15 para. 6](https://www.legislation.gov.uk/uksi/2013/648/schedule/15/paragraph/6) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/56) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))

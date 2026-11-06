@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Interpretation of the 1985 Act[^key-9b97c1a4caf488f7569bc9b682b584d8]
+## 30. Interpretation of the 1985 Act[^c-9b97c1a4caf488f7569bc9b682b584d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ In section 744 of the 1985 Act (interpretation)[^f00033]—
 
 ## Annotations
 
-[^key-9b97c1a4caf488f7569bc9b682b584d8]: Commencement: Art. 30 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9b97c1a4caf488f7569bc9b682b584d8]: Commencement: Art. 30 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00033]: Footnote: Relevant amendments made by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), Schedule 10, paragraph 16.

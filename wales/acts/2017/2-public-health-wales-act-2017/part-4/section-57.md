@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. What is a special procedure?[^key-fa220295131b61050a162756ec19e954]
+## 57. What is a special procedure?[^c-fa220295131b61050a162756ec19e954]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Each of the following is a special procedure for the purposes of this Part—
 
 ## Annotations
 
-[^key-fa220295131b61050a162756ec19e954]: Commencement: [S. 57](https://www.legislation.gov.uk/anaw/2017/2/section/57) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/b) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-fa220295131b61050a162756ec19e954]: Commencement: [S. 57](https://www.legislation.gov.uk/anaw/2017/2/section/57) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/b) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Offences[^key-2104b4574dba4a48449c49793bfb01aa]
+## 141. Offences[^c-2104b4574dba4a48449c49793bfb01aa]
 
 *Extent: E+W*
 
-(1) A private registered provider[^key-73fa873d2d80c3ea697471792613469d] commits an offence if it fails, without reasonable excuse, to comply with—
+(1) A private registered provider[^c-73fa873d2d80c3ea697471792613469d] commits an offence if it fails, without reasonable excuse, to comply with—
 
 - (a) a direction under section 127,
 - (b) a provision listed in subsection (2), or
@@ -43,7 +43,7 @@ summary: ''
 
 (5) It is a defence for an officer to show that the officer did everything that could reasonably have been expected to ensure compliance by the private registered provider.
 
-(6) A person guilty of an offence under this section is liable on summary conviction to a fine [^key-fc85915f44bcdc03f424d84fe627cc1d]....
+(6) A person guilty of an offence under this section is liable on summary conviction to a fine [^c-fc85915f44bcdc03f424d84fe627cc1d]....
 
 (7) Proceedings for an offence may be brought only by or with the consent of—
 
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2104b4574dba4a48449c49793bfb01aa]: Commencement: S. 141 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-2104b4574dba4a48449c49793bfb01aa]: Commencement: S. 141 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-73fa873d2d80c3ea697471792613469d]: Textual amendment: Words in s. 141 substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/24)
+[^c-73fa873d2d80c3ea697471792613469d]: Textual amendment: Words in s. 141 substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/24)
 
-[^key-fc85915f44bcdc03f424d84fe627cc1d]: Textual amendment: Words in [s. 141(6)](https://www.legislation.gov.uk/ukpga/2008/17/section/141/6) omitted (20.9.2023) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2023/36/schedule/1/paragraph/17); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(iv)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/iv)[(v)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/v)
+[^c-fc85915f44bcdc03f424d84fe627cc1d]: Textual amendment: Words in [s. 141(6)](https://www.legislation.gov.uk/ukpga/2008/17/section/141/6) omitted (20.9.2023) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2023/36/schedule/1/paragraph/17); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(iv)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/iv)[(v)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/v)

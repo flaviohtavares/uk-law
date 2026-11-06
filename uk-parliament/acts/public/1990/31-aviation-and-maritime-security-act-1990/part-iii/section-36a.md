@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Maritime security services: approved providers[^key-e3c8918e5172a077a428b5078248b9a0][^key-ccabe916d6b2b9aa924c3ab12a7f961f]
+## 36A. Maritime security services: approved providers[^c-e3c8918e5172a077a428b5078248b9a0][^c-ccabe916d6b2b9aa924c3ab12a7f961f]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
+[^c-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
 
-[^key-ccabe916d6b2b9aa924c3ab12a7f961f]: Textual amendment: S. 36A inserted (30.3.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 113](https://www.legislation.gov.uk/ukpga/2003/20/section/113); [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(dd)](https://www.legislation.gov.uk/uksi/2004/827/article/3/dd)
+[^c-ccabe916d6b2b9aa924c3ab12a7f961f]: Textual amendment: S. 36A inserted (30.3.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 113](https://www.legislation.gov.uk/ukpga/2003/20/section/113); [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(dd)](https://www.legislation.gov.uk/uksi/2004/827/article/3/dd)

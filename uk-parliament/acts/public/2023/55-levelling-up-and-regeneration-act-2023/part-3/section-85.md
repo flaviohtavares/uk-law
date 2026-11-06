@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Power in relation to the provision of planning data[^key-225d7dcae89d5526e71cee311816d5c8][^key-9852240b0c21fe271918e099aa2cde59]
+## 85. Power in relation to the provision of planning data[^c-225d7dcae89d5526e71cee311816d5c8][^c-9852240b0c21fe271918e099aa2cde59]
 
 *Extent: E+W+S+N.I.*
 
-[^key-1ae4f302ad00eaa6b0617660e77f9785]
+[^c-1ae4f302ad00eaa6b0617660e77f9785]
 
 (1) A relevant planning authority may by publishing a notice require a person, or persons of a particular description, in providing to the authority such planning data as is specified or described in planning data regulations, to provide the data—
 
@@ -60,8 +60,8 @@ which complies with any approved data standards which are applicable.
 
 ## Annotations
 
-[^key-225d7dcae89d5526e71cee311816d5c8]: Commencement: S. 85 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-225d7dcae89d5526e71cee311816d5c8]: Commencement: S. 85 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-9852240b0c21fe271918e099aa2cde59]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/55/section/85) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/b)
+[^c-9852240b0c21fe271918e099aa2cde59]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/55/section/85) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/b)
 
-[^key-1ae4f302ad00eaa6b0617660e77f9785]: Modification: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/ukpga/2023/55/part/3/chapter/1): functions in part to be exercisable concurrently by the Secretary of State and the Scottish Ministers (6.2.2025) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2025 (S.I. 2025/135)](https://www.legislation.gov.uk/uksi/2025/135), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/135/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/135/article/3) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2025/135/article/4/1))
+[^c-1ae4f302ad00eaa6b0617660e77f9785]: Modification: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/ukpga/2023/55/part/3/chapter/1): functions in part to be exercisable concurrently by the Secretary of State and the Scottish Ministers (6.2.2025) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2025 (S.I. 2025/135)](https://www.legislation.gov.uk/uksi/2025/135), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/135/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/135/article/3) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2025/135/article/4/1))

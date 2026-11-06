@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 78. The budget of the Agency[^key-90ca9773b4247f21e8e53290e4084022]
+## Article 78. The budget of the Agency[^c-90ca9773b4247f21e8e53290e4084022]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90ca9773b4247f21e8e53290e4084022]: Textual amendment: [Art. 78](https://www.legislation.gov.uk/eur/2012/528/article/78) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 120](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/120); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90ca9773b4247f21e8e53290e4084022]: Textual amendment: [Art. 78](https://www.legislation.gov.uk/eur/2012/528/article/78) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 120](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/120); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

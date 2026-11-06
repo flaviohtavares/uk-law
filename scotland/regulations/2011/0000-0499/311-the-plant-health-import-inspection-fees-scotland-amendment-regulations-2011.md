@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2011 (revoked)[^key-523253d8a685cf7d4531740a4470dbf9]
+The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2011 (revoked)[^c-523253d8a685cf7d4531740a4470dbf9]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 3rd October 2011
 
-[^key-523253d8a685cf7d4531740a4470dbf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-523253d8a685cf7d4531740a4470dbf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-523253d8a685cf7d4531740a4470dbf9]
+## 1. Citation and commencement[^c-523253d8a685cf7d4531740a4470dbf9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Import Inspection Fees) (Scotland) Regulations 2005[^key-523253d8a685cf7d4531740a4470dbf9]
+## 2. Amendment of the Plant Health (Import Inspection Fees) (Scotland) Regulations 2005[^c-523253d8a685cf7d4531740a4470dbf9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-523253d8a685cf7d4531740a4470dbf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-523253d8a685cf7d4531740a4470dbf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-523253d8a685cf7d4531740a4470dbf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-523253d8a685cf7d4531740a4470dbf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-523253d8a685cf7d4531740a4470dbf9]: Textual amendment: Regulations revoked (15.1.2015) by [The Plant Health (Import Inspection Fees) (Scotland) Regulations 2014 (S.S.I. 2014/338)](https://www.legislation.gov.uk/ssi/2014/338), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/1/1), [6(h)](https://www.legislation.gov.uk/ssi/2014/338/regulation/6/h) (with [reg. 6(2)](https://www.legislation.gov.uk/ssi/2014/338/regulation/6/2))
+[^c-523253d8a685cf7d4531740a4470dbf9]: Textual amendment: Regulations revoked (15.1.2015) by [The Plant Health (Import Inspection Fees) (Scotland) Regulations 2014 (S.S.I. 2014/338)](https://www.legislation.gov.uk/ssi/2014/338), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/1/1), [6(h)](https://www.legislation.gov.uk/ssi/2014/338/regulation/6/h) (with [reg. 6(2)](https://www.legislation.gov.uk/ssi/2014/338/regulation/6/2))

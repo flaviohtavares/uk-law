@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 152. Provable debts[^key-f644f9835ba4babcee513d3d61d1a36e]
+## 152. Provable debts[^c-f644f9835ba4babcee513d3d61d1a36e]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f644f9835ba4babcee513d3d61d1a36e]: Commencement: [Rule 152](https://www.legislation.gov.uk/uksi/2013/3208/rule/152) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-f644f9835ba4babcee513d3d61d1a36e]: Commencement: [Rule 152](https://www.legislation.gov.uk/uksi/2013/3208/rule/152) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
 
 [^f00015]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 

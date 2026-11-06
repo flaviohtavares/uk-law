@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The competent authority may, by notice in writing, suspend or revoke a certificate, temporary certificate [^key-52e7471f89256279e72a17d79692d0f1]... or licence if satisfied that the holder of the certificate, temporary certificate or licence—
+(1) The competent authority may, by notice in writing, suspend or revoke a certificate, temporary certificate [^c-52e7471f89256279e72a17d79692d0f1]... or licence if satisfied that the holder of the certificate, temporary certificate or licence—
 
 - (a) has failed to comply with any provision of the EU Regulation or these Regulations;
 - (b) is no longer a fit and proper person to hold it;
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52e7471f89256279e72a17d79692d0f1]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/19/1) omitted (31.12.2020) by virtue of [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52e7471f89256279e72a17d79692d0f1]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/19/1) omitted (31.12.2020) by virtue of [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

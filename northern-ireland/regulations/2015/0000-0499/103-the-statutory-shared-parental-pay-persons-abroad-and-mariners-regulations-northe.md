@@ -52,7 +52,7 @@ These Regulations may be cited as the Statutory Shared Parental Pay (Persons Abr
 
 ## PART 2 — Statutory shared parental pay
 
-### 2. Interpretation[^key-680ba839d2c2fdcd712030d2966c94dd]
+### 2. Interpretation[^c-680ba839d2c2fdcd712030d2966c94dd]
 
 (1) In these Regulations—
 
@@ -117,7 +117,7 @@ These Regulations may be cited as the Statutory Shared Parental Pay (Persons Abr
 - (b) in relation to England and Wales, by section 2(1) of the Adoption and Children Act 2002 [^c22446471]; and
 - (c) in relation to Scotland, by section 119(1) of the Adoption and Children (Scotland) Act 2007 [^c22446481].
 
-### 3. Application[^key-388270a56a4e9873f249681b9edebd18]
+### 3. Application[^c-388270a56a4e9873f249681b9edebd18]
 
 These Regulations apply in relation to—
 
@@ -128,12 +128,12 @@ These Regulations apply in relation to—
 
 A person who would not be treated under regulation 33 (treatment of persons as employees) of the General Regulations as an employee for the purposes of Part 12ZC (statutory shared parental pay) of the Act [^c22446491] if that person's employment were in Northern Ireland shall not be treated as an employee under these Regulations.
 
-### 5. Treatment of persons in ... EEA states as employees[^key-5fe1549e0b0adec22c37374de22ad24d]
+### 5. Treatment of persons in ... EEA states as employees[^c-5fe1549e0b0adec22c37374de22ad24d]
 
 A person who is—
 
-- (a) gainfully employed in an EEA state [^key-fb1fae785582c93f221c76ffc1c5d3c6]... in such circumstances that, if the employment were in Northern Ireland, the person would be an employee for the purposes of Part 12ZC of the Act, or a person treated as such an employee under regulation 33 of the General Regulations; and
-- (b) subject to the legislation of the United Kingdom under Council Regulation (EEC) No.1408/71 [^c22446501] as amended from time to time or Regulation[^key-5cbe1a95872db09ace629c3b2e839690] [(EC) 883/2004](https://www.legislation.gov.uk/eur/2004/883) of the European Parliament and of the Council of 29 April 2004 as amended from time to time on the coordination of social security systems ,
+- (a) gainfully employed in an EEA state [^c-fb1fae785582c93f221c76ffc1c5d3c6]... in such circumstances that, if the employment were in Northern Ireland, the person would be an employee for the purposes of Part 12ZC of the Act, or a person treated as such an employee under regulation 33 of the General Regulations; and
+- (b) subject to the legislation of the United Kingdom under Council Regulation (EEC) No.1408/71 [^c22446501] as amended from time to time or Regulation[^c-5cbe1a95872db09ace629c3b2e839690] [(EC) 883/2004](https://www.legislation.gov.uk/eur/2004/883) of the European Parliament and of the Council of 29 April 2004 as amended from time to time on the coordination of social security systems ,
 
 notwithstanding that person not being employed in Northern Ireland, shall be treated as an employee for the purposes of Part 12ZC of the Act.
 
@@ -141,23 +141,23 @@ notwithstanding that person not being employed in Northern Ireland, shall be tre
 
 Subject to regulation 9(2), where a person, while absent from Northern Ireland for any purpose, is gainfully employed by an employer who is liable to pay secondary Class 1 contributions (within the meaning of section 1(2) of the Act) in respect of that person's employment under section 6 of the Act [^c22446511] or regulation 146 of the Social Security Contributions Regulations 2001 [^c22446521], that person shall be treated as an employee for the purposes of Part 12ZC of the Act.
 
-### 7. Entitlement to statutory shared parental pay where person has worked in an EEA state[^key-e366d6e2d20b5e8aef3cea554a0dcca8]
+### 7. Entitlement to statutory shared parental pay where person has worked in an EEA state[^c-e366d6e2d20b5e8aef3cea554a0dcca8]
 
 (1) A person who—
 
 - (a) is an employee or treated as an employee under regulation 5;
 - (b) in the week immediately preceding the 14th week before the expected week of the child's birth was in employed earner's employment with an employer in Northern Ireland; and
-- (c) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^key-978b591450ffcbb8a0a1fcb68ec8143d] EEA state,
+- (c) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^c-978b591450ffcbb8a0a1fcb68ec8143d] EEA state,
 
-shall be treated for the purposes of sections 167ZU and 167ZV of the Act [^c22446531] (entitlement to shared parental pay: birth) as having been employed in employed earner's employment with an employer in those weeks in which the person was so employed in the EEA[^key-5d1aeedde9f1a18e90bf26b678a0c843] state.
+shall be treated for the purposes of sections 167ZU and 167ZV of the Act [^c22446531] (entitlement to shared parental pay: birth) as having been employed in employed earner's employment with an employer in those weeks in which the person was so employed in the EEA[^c-5d1aeedde9f1a18e90bf26b678a0c843] state.
 
 (2) A person who—
 
 - (a) is an employee or treated as an employee under regulation 5;
 - (b) in the week in which the adopter is notified of having been matched with the child for the purposes of adoption was in employed earner's employment with an employer in Northern Ireland; and
-- (c) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^key-e5d5f6272e3e18d5cc669fc574ffffe8] EEA State,
+- (c) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^c-e5d5f6272e3e18d5cc669fc574ffffe8] EEA State,
 
-shall be treated for the purposes of sections 167ZW and 167ZX of the Act [^c22446541] (entitlement to shared parental pay: adoption) as having been employed in employed earner's employment in those weeks in which the person was so employed in the EEA[^key-ea0d57690a920958d3460b3e06aeee77] State.
+shall be treated for the purposes of sections 167ZW and 167ZX of the Act [^c22446541] (entitlement to shared parental pay: adoption) as having been employed in employed earner's employment in those weeks in which the person was so employed in the EEA[^c-ea0d57690a920958d3460b3e06aeee77] State.
 
 ### 8. Time for compliance with Part 12ZC of the Act or regulations made under it
 
@@ -366,9 +366,9 @@ The Regulations are modified as follows.
 >
 > - (a) is an employee or treated as an employee under regulation 5;
 > - (b) in the week in which the adopter received the official notification was in employed earner's employment with an employer in Northern Ireland; and
-> - (c) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^key-e01481dd52c6a90d1625c7afb98b7121] EEA State,
+> - (c) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^c-e01481dd52c6a90d1625c7afb98b7121] EEA State,
 >
-> shall be treated for the purposes of sections 167ZW and 167ZX of the Act (entitlement to shared parental pay: adoption) as modified by the Application Regulations as having been employed in employed earner's employment in those weeks in which the person was so employed in the EEA[^key-930a65c93c01f3dd2a1727c5553046e9] State.
+> shall be treated for the purposes of sections 167ZW and 167ZX of the Act (entitlement to shared parental pay: adoption) as modified by the Application Regulations as having been employed in employed earner's employment in those weeks in which the person was so employed in the EEA[^c-930a65c93c01f3dd2a1727c5553046e9] State.
 
 .
 
@@ -396,7 +396,7 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^c22446321]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); [sections 167ZZ6](https://www.legislation.gov.uk/nisr/2015/103/section/167ZZ6) and 167ZZ7 were inserted by the Work and Families Act [2015 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2015/1), [section 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2).
 
-[^key-680ba839d2c2fdcd712030d2966c94dd]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/103/regulation/2) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015 (S.R. 2015/103)](https://www.legislation.gov.uk/nisr/2015/103), [reg. 1](https://www.legislation.gov.uk/nisr/2015/103/regulation/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/4/2)
+[^c-680ba839d2c2fdcd712030d2966c94dd]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/103/regulation/2) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015 (S.R. 2015/103)](https://www.legislation.gov.uk/nisr/2015/103), [reg. 1](https://www.legislation.gov.uk/nisr/2015/103/regulation/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/4/2)
 
 [^c22446331]: Marginal citation: S.R. [2015 No. 94](https://www.legislation.gov.uk/ukcm/2015/94).
 
@@ -430,35 +430,35 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^c22446481]: Marginal citation: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
 
-[^key-388270a56a4e9873f249681b9edebd18]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/103/regulation/3) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015 (S.R. 2015/103)](https://www.legislation.gov.uk/nisr/2015/103), [reg. 1](https://www.legislation.gov.uk/nisr/2015/103/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/5)
+[^c-388270a56a4e9873f249681b9edebd18]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/103/regulation/3) applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015 (S.R. 2015/103)](https://www.legislation.gov.uk/nisr/2015/103), [reg. 1](https://www.legislation.gov.uk/nisr/2015/103/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/5)
 
 [^c22446491]: Marginal citation: [Part 12ZC](https://www.legislation.gov.uk/nisr/2015/103/part/12ZC) was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [s. 5](https://www.legislation.gov.uk/nia/2015/1/section/5).
 
-[^key-5fe1549e0b0adec22c37374de22ad24d]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/nisr/2015/103/regulation/5) heading omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5fe1549e0b0adec22c37374de22ad24d]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/nisr/2015/103/regulation/5) heading omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fb1fae785582c93f221c76ffc1c5d3c6]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/nisr/2015/103/regulation/5/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb1fae785582c93f221c76ffc1c5d3c6]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/nisr/2015/103/regulation/5/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22446501]: Marginal citation: O.J. No. L28, 30.1.1997, p.1.
 
-[^key-5cbe1a95872db09ace629c3b2e839690]: Textual amendment: Words in reg. 5(b) inserted (5.3.2019) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/2/b/ii), [Sch. para. 8(2)(c)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/2/c)
+[^c-5cbe1a95872db09ace629c3b2e839690]: Textual amendment: Words in reg. 5(b) inserted (5.3.2019) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/2/b/ii), [Sch. para. 8(2)(c)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/2/c)
 
 [^c22446511]: Marginal citation: [Section 6](https://www.legislation.gov.uk/nisr/2015/103/section/6) was substituted by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [Schedule 10](https://www.legislation.gov.uk/ukpga/1999/30/schedule/10), [paragraph 3](https://www.legislation.gov.uk/ukpga/1999/30/paragraph/3), and by the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [section 81(3)](https://www.legislation.gov.uk/ukpga/2000/19/section/81/3).
 
 [^c22446521]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004), amended by [S.I. 2007/1838](https://www.legislation.gov.uk/uksi/2007/1838).
 
-[^key-e366d6e2d20b5e8aef3cea554a0dcca8]: Modification: Reg. 7 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015 (S.R. 2015/103)](https://www.legislation.gov.uk/nisr/2015/103), [reg. 1](https://www.legislation.gov.uk/nisr/2015/103/regulation/1), [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/6/1)
+[^c-e366d6e2d20b5e8aef3cea554a0dcca8]: Modification: Reg. 7 applied (with modifications) (15.3.2015) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2015 (S.R. 2015/103)](https://www.legislation.gov.uk/nisr/2015/103), [reg. 1](https://www.legislation.gov.uk/nisr/2015/103/regulation/1), [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/6/1)
 
-[^key-978b591450ffcbb8a0a1fcb68ec8143d]: Textual amendment: Word in [reg. 7(1)(c)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/1/c) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-978b591450ffcbb8a0a1fcb68ec8143d]: Textual amendment: Word in [reg. 7(1)(c)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/1/c) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22446531]: Marginal citation: Section 167ZU was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 5](https://www.legislation.gov.uk/nia/2015/1/section/5).
 
-[^key-5d1aeedde9f1a18e90bf26b678a0c843]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d1aeedde9f1a18e90bf26b678a0c843]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e5d5f6272e3e18d5cc669fc574ffffe8]: Textual amendment: Word in [reg. 7(2)(c)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/2/c) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5d5f6272e3e18d5cc669fc574ffffe8]: Textual amendment: Word in [reg. 7(2)(c)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/2/c) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22446541]: Marginal citation: Section 167ZW was inserted by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), [section 5](https://www.legislation.gov.uk/nia/2015/1/section/5).
 
-[^key-ea0d57690a920958d3460b3e06aeee77]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/2) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea0d57690a920958d3460b3e06aeee77]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2015/103/regulation/7/2) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22446551]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); [section 1(7)](https://www.legislation.gov.uk/nisr/2015/103/section/1/7) was amended by the [Oil and Gas (Enterprise) Act 1982 (c.23)](https://www.legislation.gov.uk/ukpga/1982/23), [section 37](https://www.legislation.gov.uk/ukpga/1982/23/section/37), and Schedule 3, paragraph 1, and the [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [section 103](https://www.legislation.gov.uk/ukpga/2011/16/section/103).
 
@@ -476,6 +476,6 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^c22446621]: Marginal citation: S.R. [2003 No. 16](https://www.legislation.gov.uk/ukcm/2003/16), to which there are amendments not relevant to these Regulations.
 
-[^key-e01481dd52c6a90d1625c7afb98b7121]: Textual amendment: Word in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/6/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(4)(a)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e01481dd52c6a90d1625c7afb98b7121]: Textual amendment: Word in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/6/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(4)(a)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-930a65c93c01f3dd2a1727c5553046e9]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/6/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-930a65c93c01f3dd2a1727c5553046e9]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisr/2015/103/schedule/2/paragraph/6/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/8/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

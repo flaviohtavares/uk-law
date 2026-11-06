@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Misuse of subsidies[^key-e39739596bc2002409c7d44eb9be612f][^key-90840238b40a33a774bbb25fea27a493]
+## 77. Misuse of subsidies[^c-e39739596bc2002409c7d44eb9be612f][^c-90840238b40a33a774bbb25fea27a493]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e39739596bc2002409c7d44eb9be612f]: Commencement: S. 77 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-e39739596bc2002409c7d44eb9be612f]: Commencement: S. 77 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-90840238b40a33a774bbb25fea27a493]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/23/section/77) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-90840238b40a33a774bbb25fea27a493]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/23/section/77) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

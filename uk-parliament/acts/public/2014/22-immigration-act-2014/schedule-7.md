@@ -24,11 +24,11 @@ Section 63
 
 ### Introductory
 
-**1.**[^key-0fd0f517ad60433385440e7e44d98b4b] Part 5 of the Immigration and Asylum Act 1999 (which makes provision for the regulation of immigration advisers and immigration service providers) is amended in accordance with this Schedule.
+**1.**[^c-0fd0f517ad60433385440e7e44d98b4b] Part 5 of the Immigration and Asylum Act 1999 (which makes provision for the regulation of immigration advisers and immigration service providers) is amended in accordance with this Schedule.
 
 ### Removal of Commissioner's power of exemption from registration
 
-**2.**[^key-db1811efc6fd016c75c3a2ea4f78ae3c] (1) In section 84(4) (persons exempt from prohibition on provision of immigration advice and services by unqualified persons)—
+**2.**[^c-db1811efc6fd016c75c3a2ea4f78ae3c] (1) In section 84(4) (persons exempt from prohibition on provision of immigration advice and services by unqualified persons)—
 
 - (a) omit paragraphs (a), (b) and (c) (and the word “or” which follows paragraph (c));
 - (b) in paragraph (d) omit “who”.
@@ -45,7 +45,7 @@ Section 63
 
 ### Waiver of fees for registration
 
-**3.**[^key-9902661f186d30c24fa2c514604cdffa] (1) Paragraph 5 of Schedule 6 (fees for registration) is amended as follows.
+**3.**[^c-9902661f186d30c24fa2c514604cdffa] (1) Paragraph 5 of Schedule 6 (fees for registration) is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -58,7 +58,7 @@ Section 63
 
 ### Cancellation of registration by Commissioner
 
-**4.**[^key-3a437cae8e8f5130712ddce243dac055] (1) In section 87(3) (decisions of Commissioner which may be appealed to First-tier Tribunal) after paragraph (ea) insert—
+**4.**[^c-3a437cae8e8f5130712ddce243dac055] (1) In section 87(3) (decisions of Commissioner which may be appealed to First-tier Tribunal) after paragraph (ea) insert—
 
 > - (eb) to cancel a registration under paragraph 4A(e) of that Schedule.
 
@@ -89,7 +89,7 @@ Section 63
 
 ### Suspension of registration
 
-**5.**[^key-bcb9a6484ec30566e861dc0ef3030607] (1) In section 84(3) (limitations on effect of registration)—
+**5.**[^c-bcb9a6484ec30566e861dc0ef3030607] (1) In section 84(3) (limitations on effect of registration)—
 
 - (a) after “subject to” insert “ (a) ”;
 - (b) at the end insert—
@@ -133,7 +133,7 @@ Section 63
 
 ### Inspections
 
-**6.**[^key-21ab8a19441ed8bdb6519e5952fe621d] After paragraph 4 of Schedule 5 insert—
+**6.**[^c-21ab8a19441ed8bdb6519e5952fe621d] After paragraph 4 of Schedule 5 insert—
 
 > **Inspections**
 >
@@ -141,7 +141,7 @@ Section 63
 
 ### Complaints and investigations
 
-**7.**[^key-b56725060b70596fad08aa8a2c1ffc0c] (1) For section 89(2) (powers of Tribunal on hearing charge against registered person) substitute—
+**7.**[^c-b56725060b70596fad08aa8a2c1ffc0c] (1) For section 89(2) (powers of Tribunal on hearing charge against registered person) substitute—
 
 > (2) Subsections (2A) and (2B) apply if the person charged was, at the time to which the charge relates, a registered person or a person acting on behalf of a registered person.
 >
@@ -198,7 +198,7 @@ Section 63
 
 ### Power of entry and inspection
 
-**8.**[^key-36c1bb4a3e76ac22d2d61d0a2f5eedd6] (1) Omit paragraph 7 of Schedule 5 (and the cross-heading before it).
+**8.**[^c-36c1bb4a3e76ac22d2d61d0a2f5eedd6] (1) Omit paragraph 7 of Schedule 5 (and the cross-heading before it).
 
 (2) After paragraph 10 of that Schedule insert—
 
@@ -243,18 +243,18 @@ Section 63
 
 ## Annotations
 
-[^key-0fd0f517ad60433385440e7e44d98b4b]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/1) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 4(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/4/e)
+[^c-0fd0f517ad60433385440e7e44d98b4b]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/1) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 4(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/4/e)
 
-[^key-db1811efc6fd016c75c3a2ea4f78ae3c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/2) in force at 17.11.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/5/c)
+[^c-db1811efc6fd016c75c3a2ea4f78ae3c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/2) in force at 17.11.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/5/c)
 
-[^key-9902661f186d30c24fa2c514604cdffa]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/3) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/2771/article/4/f)
+[^c-9902661f186d30c24fa2c514604cdffa]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/3) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/2771/article/4/f)
 
-[^key-3a437cae8e8f5130712ddce243dac055]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/4) in force at 17.11.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/5/c)
+[^c-3a437cae8e8f5130712ddce243dac055]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/4) in force at 17.11.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/5/c)
 
-[^key-bcb9a6484ec30566e861dc0ef3030607]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/5) in force at 17.11.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/5/c)
+[^c-bcb9a6484ec30566e861dc0ef3030607]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/5) in force at 17.11.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/5/c)
 
-[^key-21ab8a19441ed8bdb6519e5952fe621d]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/6) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/aa)
+[^c-21ab8a19441ed8bdb6519e5952fe621d]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/6) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/aa)
 
-[^key-b56725060b70596fad08aa8a2c1ffc0c]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/7) in force at 17.11.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/5/c)
+[^c-b56725060b70596fad08aa8a2c1ffc0c]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/7) in force at 17.11.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/5/c)
 
-[^key-36c1bb4a3e76ac22d2d61d0a2f5eedd6]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/8) in force at 17.11.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/5/c)
+[^c-36c1bb4a3e76ac22d2d61d0a2f5eedd6]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/7/paragraph/8) in force at 17.11.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/5/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Duty to make statement about proscription regime[^key-ba8e35a85fdc62de4426df5ac4635772]
+## 240. Duty to make statement about proscription regime[^c-ba8e35a85fdc62de4426df5ac4635772]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba8e35a85fdc62de4426df5ac4635772]: Commencement: S. 240 in force at Royal Assent, see [s. 255(2)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/i)
+[^c-ba8e35a85fdc62de4426df5ac4635772]: Commencement: S. 240 in force at Royal Assent, see [s. 255(2)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/i)

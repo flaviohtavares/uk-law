@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 9 — LIMITS OF VARIATION[^key-adb5a887fed4c1e50580766f32b23713]
+## SCHEDULE 9 — LIMITS OF VARIATION[^c-adb5a887fed4c1e50580766f32b23713]
 
 *Extent: E+W+S+NI*
 
@@ -28,4 +28,4 @@ Regulation 27(2)
 
 ## Annotations
 
-[^key-adb5a887fed4c1e50580766f32b23713]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2605/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/b)
+[^c-adb5a887fed4c1e50580766f32b23713]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2605/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/b)

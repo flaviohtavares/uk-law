@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Saving for existing directions, byelaws etc.[^key-ab84f9dabd979ca1fc35a181d4b73175]
+## 38. Saving for existing directions, byelaws etc.[^c-ab84f9dabd979ca1fc35a181d4b73175]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any general direction, special direction, byelaw, regulation, licence, lease, co
 
 ## Annotations
 
-[^key-ab84f9dabd979ca1fc35a181d4b73175]: Commencement: Art. 38 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-ab84f9dabd979ca1fc35a181d4b73175]: Commencement: Art. 38 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

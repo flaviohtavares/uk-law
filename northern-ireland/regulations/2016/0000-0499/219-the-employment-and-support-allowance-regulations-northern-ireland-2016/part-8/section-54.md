@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Start of the reduction[^key-cd4cbac28e022c924a7949d1430d4c66]
+## 54. Start of the reduction[^c-cd4cbac28e022c924a7949d1430d4c66]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ A reduction period determined in relation to a sanctionable failure takes effect
 
 ## Annotations
 
-[^key-cd4cbac28e022c924a7949d1430d4c66]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2016/219/regulation/54) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-cd4cbac28e022c924a7949d1430d4c66]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2016/219/regulation/54) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

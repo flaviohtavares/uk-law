@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.100. Cost of proving[^key-baf4423a41fef0e14cd106204b40979d]
+## 6.100. Cost of proving[^c-baf4423a41fef0e14cd106204b40979d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baf4423a41fef0e14cd106204b40979d]: Commencement: [Rule 6.100](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.100) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-baf4423a41fef0e14cd106204b40979d]: Commencement: [Rule 6.100](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.100) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

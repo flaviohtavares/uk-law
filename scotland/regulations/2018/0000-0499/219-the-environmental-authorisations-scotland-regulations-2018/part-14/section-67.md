@@ -24,8 +24,8 @@ summary: ''
 
 (2) “**Public participation functions**” means the duties and functions in the following provisions—
 
-- (a) regulation 34 (consultation on standard conditions); [^key-e8b2aa32451f6c0591a1339d8ba6db2c]...
-- (aa)[^key-cec5310e0b6b13e29bd50d53819dea0b] paragraph 1A of schedule 1 (pre-application community engagement), and
+- (a) regulation 34 (consultation on standard conditions); [^c-e8b2aa32451f6c0591a1339d8ba6db2c]...
+- (aa)[^c-cec5310e0b6b13e29bd50d53819dea0b] paragraph 1A of schedule 1 (pre-application community engagement), and
 - (b) paragraph 8 of schedule 1 (consultation on an application for permits etc.).
 
 (3) SEPA must have regard to its public participation statement when exercising its public participation functions.
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8b2aa32451f6c0591a1339d8ba6db2c]: Textual amendment: Word in [reg. 67(2)(a)](https://www.legislation.gov.uk/ssi/2018/219/regulation/67/2/a) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [33(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/33/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-e8b2aa32451f6c0591a1339d8ba6db2c]: Textual amendment: Word in [reg. 67(2)(a)](https://www.legislation.gov.uk/ssi/2018/219/regulation/67/2/a) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [33(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/33/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-cec5310e0b6b13e29bd50d53819dea0b]: Textual amendment: [Reg. 67(2)(aa)](https://www.legislation.gov.uk/ssi/2018/219/regulation/67/2/aa) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [33(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/33/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-cec5310e0b6b13e29bd50d53819dea0b]: Textual amendment: [Reg. 67(2)(aa)](https://www.legislation.gov.uk/ssi/2018/219/regulation/67/2/aa) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [33(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/33/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

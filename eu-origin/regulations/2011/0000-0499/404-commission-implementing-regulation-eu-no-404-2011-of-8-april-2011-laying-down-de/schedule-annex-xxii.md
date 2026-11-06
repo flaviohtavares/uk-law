@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XXII[^key-74333524c5d71d718e1f3badac5f44c5]
+## ANNEX XXII[^c-74333524c5d71d718e1f3badac5f44c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,31 +24,31 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74333524c5d71d718e1f3badac5f44c5]1.
+[^c-74333524c5d71d718e1f3badac5f44c5]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74333524c5d71d718e1f3badac5f44c5]2.
+[^c-74333524c5d71d718e1f3badac5f44c5]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74333524c5d71d718e1f3badac5f44c5]3.
+[^c-74333524c5d71d718e1f3badac5f44c5]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74333524c5d71d718e1f3badac5f44c5]4.
+[^c-74333524c5d71d718e1f3badac5f44c5]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74333524c5d71d718e1f3badac5f44c5]5.
+[^c-74333524c5d71d718e1f3badac5f44c5]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74333524c5d71d718e1f3badac5f44c5]6.
+[^c-74333524c5d71d718e1f3badac5f44c5]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74333524c5d71d718e1f3badac5f44c5]7.
+[^c-74333524c5d71d718e1f3badac5f44c5]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74333524c5d71d718e1f3badac5f44c5]: Textual amendment: [Annex 22](https://www.legislation.gov.uk/eur/2011/404/annex/XXII) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(114)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/114); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74333524c5d71d718e1f3badac5f44c5]: Textual amendment: [Annex 22](https://www.legislation.gov.uk/eur/2011/404/annex/XXII) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(114)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/114); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -32,7 +32,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Motor Vehicles (Compulsory Insurance) Regulations 2007 (revoked)[^key-965acae665b0ec3538ba0f2d9df7f1c1]
+The Motor Vehicles (Compulsory Insurance) Regulations 2007 (revoked)[^c-965acae665b0ec3538ba0f2d9df7f1c1]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 11th June 2007
 
-[^key-965acae665b0ec3538ba0f2d9df7f1c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-965acae665b0ec3538ba0f2d9df7f1c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-965acae665b0ec3538ba0f2d9df7f1c1]
+## 1. Citation and commencement[^c-965acae665b0ec3538ba0f2d9df7f1c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Road Traffic Act 1988[^key-965acae665b0ec3538ba0f2d9df7f1c1]
+## 2. Amendment of the Road Traffic Act 1988[^c-965acae665b0ec3538ba0f2d9df7f1c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-965acae665b0ec3538ba0f2d9df7f1c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-965acae665b0ec3538ba0f2d9df7f1c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-965acae665b0ec3538ba0f2d9df7f1c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-965acae665b0ec3538ba0f2d9df7f1c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-965acae665b0ec3538ba0f2d9df7f1c1]: Textual amendment: Regulations revoked (31.12.2016) by [The Motor Vehicles (Compulsory Insurance) Regulations 2016 (S.I. 2016/1193)](https://www.legislation.gov.uk/uksi/2016/1193), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1193/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/1193/regulation/3)
+[^c-965acae665b0ec3538ba0f2d9df7f1c1]: Textual amendment: Regulations revoked (31.12.2016) by [The Motor Vehicles (Compulsory Insurance) Regulations 2016 (S.I. 2016/1193)](https://www.legislation.gov.uk/uksi/2016/1193), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1193/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/1193/regulation/3)

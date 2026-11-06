@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 88. Deduction and recovery of member’s contributions[^key-3d786ef8b975cc0bd2c07e282c74d910]
+## 88. Deduction and recovery of member’s contributions[^c-3d786ef8b975cc0bd2c07e282c74d910]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d786ef8b975cc0bd2c07e282c74d910]: Commencement: Reg. 88 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-3d786ef8b975cc0bd2c07e282c74d910]: Commencement: Reg. 88 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00032]: Footnote: [1951 c. 65](https://www.legislation.gov.uk/ukpga/1951/65).

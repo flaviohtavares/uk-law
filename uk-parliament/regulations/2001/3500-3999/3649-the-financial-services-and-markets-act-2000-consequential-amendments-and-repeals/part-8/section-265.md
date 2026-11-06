@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265. Meaning of “bank” etc.[^key-c175347912950938535f109ba1d826e7]
+## 265. Meaning of “bank” etc.[^c-c175347912950938535f109ba1d826e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c175347912950938535f109ba1d826e7]: Commencement: Art. 265 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c175347912950938535f109ba1d826e7]: Commencement: Art. 265 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00180]: Footnote: Subsection (1)(a) was substituted by the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22), Schedule 6, paragraph 1. Subsection (1)(aa) was inserted by the Building Societies Act 1986, Schedule 18 Pt. 1, paragraph 1 and has been amended by [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148) Schedule 1, paragraph 3.

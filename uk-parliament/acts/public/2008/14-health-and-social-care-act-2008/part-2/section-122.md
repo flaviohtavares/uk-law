@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Ss. 120 and 121: Crown application[^key-0b3070bc9f1c8738d0274af5dcdf5bbc]
+## 122. Ss. 120 and 121: Crown application[^c-0b3070bc9f1c8738d0274af5dcdf5bbc]
 
 *Extent: E+W+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b3070bc9f1c8738d0274af5dcdf5bbc]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2008/14/section/122) in force at 1.4.2010 for E.W. by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/708/article/3/d)
+[^c-0b3070bc9f1c8738d0274af5dcdf5bbc]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2008/14/section/122) in force at 1.4.2010 for E.W. by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/708/article/3/d)

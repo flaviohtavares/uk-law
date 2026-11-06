@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 135. Requirement to consult nominated person, carer etc[^key-b043c632c4973da60f1c70e665bb872a]
+## 135. Requirement to consult nominated person, carer etc[^c-b043c632c4973da60f1c70e665bb872a]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ does not prevent that person from being the person consulted under this section.
 
 ## Annotations
 
-[^key-b043c632c4973da60f1c70e665bb872a]: Commencement: [S. 135](https://www.legislation.gov.uk/nia/2016/18/section/135) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-b043c632c4973da60f1c70e665bb872a]: Commencement: [S. 135](https://www.legislation.gov.uk/nia/2016/18/section/135) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

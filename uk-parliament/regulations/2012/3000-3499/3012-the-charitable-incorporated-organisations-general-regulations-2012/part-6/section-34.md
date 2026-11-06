@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Duty not to accept benefits from third parties[^key-8a523745f6073072b35c071394d035f5]
+## 34. Duty not to accept benefits from third parties[^c-8a523745f6073072b35c071394d035f5]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a523745f6073072b35c071394d035f5]: Commencement: Reg. 34 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-8a523745f6073072b35c071394d035f5]: Commencement: Reg. 34 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

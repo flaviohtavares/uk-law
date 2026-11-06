@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Additional smoke-free premises[^key-9cd6464a4e8e6e39428f903cee69d65f]
+## 13. Additional smoke-free premises[^c-9cd6464a4e8e6e39428f903cee69d65f]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ or any combination of these.
 
 ## Annotations
 
-[^key-9cd6464a4e8e6e39428f903cee69d65f]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2017/2/section/13) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-9cd6464a4e8e6e39428f903cee69d65f]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2017/2/section/13) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

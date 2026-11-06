@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94H. Use of home for business purposes[^key-69d7e1ea0086cad3ff3671c5bb07a6a8]
+## 94H. Use of home for business purposes[^c-69d7e1ea0086cad3ff3671c5bb07a6a8]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if, in calculating the profits of a trade of a person for a period, a deduction (“the standard deduction”) would otherwise be allowable for the period in respect of—[^key-529395de297cd1e2fb89fb7c00171768]
+(1) This section applies if, in calculating the profits of a trade of a person for a period, a deduction (“the standard deduction”) would otherwise be allowable for the period in respect of—[^c-529395de297cd1e2fb89fb7c00171768]
 
 - (a) the use of the person's home for the purposes of the trade, or
 - (b) where the person is a firm, the use of a partner's home for those purposes.
@@ -39,31 +39,31 @@ Table
 | 51 or more | £18.00 |
 | 101 or more | £26.00 |
 
-where the “number of hours worked” in a month (or part of a month) is the number of hours spent wholly and exclusively on qualifying work[^key-9ed6ebc182cc9a7daf79934e0d29b06f].
+where the “number of hours worked” in a month (or part of a month) is the number of hours spent wholly and exclusively on qualifying work[^c-9ed6ebc182cc9a7daf79934e0d29b06f].
 
-(4A)[^key-b4138dade99d97b8d6c7e0d5780e7c74] Qualifying work” means—
+(4A)[^c-b4138dade99d97b8d6c7e0d5780e7c74] Qualifying work” means—
 
 - (a) work done by the person, or any employee of the person, in the person's home wholly and exclusively for the purposes of the trade, or
 - (b) where the person is a firm, work done by a partner, or any employee of the firm, in the partner's home wholly and exclusively for those purposes.
 
 (4B) Where more than one person does qualifying work in the same home at the same time, any hour spent wholly and exclusively on that work is to be taken into account only once for the purposes of subsection (4).
 
-(5) If the person, or, where the person is a firm, a partner of the firm,[^key-f859693f08991f3c7685804906788f91] has more than one home, this section has effect as if those homes were a single home.
+(5) If the person, or, where the person is a firm, a partner of the firm,[^c-f859693f08991f3c7685804906788f91] has more than one home, this section has effect as if those homes were a single home.
 
-(5A)[^key-1625aaeeb2390ff6090048cbc794dda6] Where a firm makes a deduction for a period under this section in respect of the use of a partner's home for the purposes of a trade, the only deduction which the firm may make for the period in respect of the use of any other partner's home for those purposes is a deduction under this section.
+(5A)[^c-1625aaeeb2390ff6090048cbc794dda6] Where a firm makes a deduction for a period under this section in respect of the use of a partner's home for the purposes of a trade, the only deduction which the firm may make for the period in respect of the use of any other partner's home for those purposes is a deduction under this section.
 
 (6) The Treasury may by regulations amend subsection (4) so as to alter the rates or rate bands.
 
 ## Annotations
 
-[^key-69d7e1ea0086cad3ff3671c5bb07a6a8]: Textual amendment: Pt. 2 Ch. 5A inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/5/paragraph/2)
+[^c-69d7e1ea0086cad3ff3671c5bb07a6a8]: Textual amendment: Pt. 2 Ch. 5A inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/5/paragraph/2)
 
-[^key-529395de297cd1e2fb89fb7c00171768]: Textual amendment: Words in s. 94H(1) substituted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/24/3)
+[^c-529395de297cd1e2fb89fb7c00171768]: Textual amendment: Words in s. 94H(1) substituted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/24/3)
 
-[^key-9ed6ebc182cc9a7daf79934e0d29b06f]: Textual amendment: Words in s. 94H(4) substituted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 24(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/24/4)
+[^c-9ed6ebc182cc9a7daf79934e0d29b06f]: Textual amendment: Words in s. 94H(4) substituted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 24(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/24/4)
 
-[^key-b4138dade99d97b8d6c7e0d5780e7c74]: Textual amendment: S. 94H(4A)(4B) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 24(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/24/5)
+[^c-b4138dade99d97b8d6c7e0d5780e7c74]: Textual amendment: S. 94H(4A)(4B) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 24(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/24/5)
 
-[^key-f859693f08991f3c7685804906788f91]: Textual amendment: Words in s. 94H(5) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 24(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/24/6)
+[^c-f859693f08991f3c7685804906788f91]: Textual amendment: Words in s. 94H(5) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 24(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/24/6)
 
-[^key-1625aaeeb2390ff6090048cbc794dda6]: Textual amendment: S. 94H(5A) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 24(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/24/7)
+[^c-1625aaeeb2390ff6090048cbc794dda6]: Textual amendment: S. 94H(5A) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 24(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/24/7)

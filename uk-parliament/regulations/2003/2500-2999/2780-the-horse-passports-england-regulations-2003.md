@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS, ENGLAND
 
-The Horse Passports (England) Regulations 2003 (revoked)[^key-e488236c98dd9a53854af4fd4dac9735]
+The Horse Passports (England) Regulations 2003 (revoked)[^c-e488236c98dd9a53854af4fd4dac9735]
 
 Made
 
@@ -45,150 +45,150 @@ Coming into force
 
 30th November 2003
 
-[^key-e488236c98dd9a53854af4fd4dac9735]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e488236c98dd9a53854af4fd4dac9735]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-e488236c98dd9a53854af4fd4dac9735]
+## 1. Title, commencement and application[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e488236c98dd9a53854af4fd4dac9735]
+## 2. Interpretation[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Horses for competition or racing[^key-e488236c98dd9a53854af4fd4dac9735]
+## 3. Horses for competition or racing[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Issue of a passport for horses registered before 30th November 2003[^key-e488236c98dd9a53854af4fd4dac9735]
+## 4. Issue of a passport for horses registered before 30th November 2003[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Issue of a passport for horses not registered before 30th November 2003[^key-e488236c98dd9a53854af4fd4dac9735]
+## 5. Issue of a passport for horses not registered before 30th November 2003[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Horses entering England[^key-e488236c98dd9a53854af4fd4dac9735]
+## 6. Horses entering England[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Horses entered in the lists of the New Forest Verderers, or Dartmoor Commoners Council[^key-e488236c98dd9a53854af4fd4dac9735]
+## 7. Horses entered in the lists of the New Forest Verderers, or Dartmoor Commoners Council[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Passports for young horses[^key-e488236c98dd9a53854af4fd4dac9735]
+## 8. Passports for young horses[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Requirements of owners and keepers of horses as to declaration on human consumption[^key-e488236c98dd9a53854af4fd4dac9735]
+## 9. Requirements of owners and keepers of horses as to declaration on human consumption[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Whereabouts of passports[^key-e488236c98dd9a53854af4fd4dac9735]
+## 10. Whereabouts of passports[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Requirements of Veterinary Surgeons[^key-e488236c98dd9a53854af4fd4dac9735]
+## 11. Requirements of Veterinary Surgeons[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Life Number[^key-e488236c98dd9a53854af4fd4dac9735]
+## 12. Life Number[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Language of passports[^key-e488236c98dd9a53854af4fd4dac9735]
+## 13. Language of passports[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Prohibitions[^key-e488236c98dd9a53854af4fd4dac9735]
+## 14. Prohibitions[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Sale or death of a horse[^key-e488236c98dd9a53854af4fd4dac9735]
+## 15. Sale or death of a horse[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Replacement of a lost or damaged passport[^key-e488236c98dd9a53854af4fd4dac9735]
+## 16. Replacement of a lost or damaged passport[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Time limits for applications[^key-e488236c98dd9a53854af4fd4dac9735]
+## 17. Time limits for applications[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Powers and duties of recognised organisations[^key-e488236c98dd9a53854af4fd4dac9735]
+## 18. Powers and duties of recognised organisations[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Withdrawal of recognition[^key-e488236c98dd9a53854af4fd4dac9735]
+## 19. Withdrawal of recognition[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Offences[^key-e488236c98dd9a53854af4fd4dac9735]
+## 20. Offences[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Powers of Entry[^key-e488236c98dd9a53854af4fd4dac9735]
+## 21. Powers of Entry[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Obstruction[^key-e488236c98dd9a53854af4fd4dac9735]
+## 22. Obstruction[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Penalties[^key-e488236c98dd9a53854af4fd4dac9735]
+## 23. Penalties[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Enforcement[^key-e488236c98dd9a53854af4fd4dac9735]
+## 24. Enforcement[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Revocations[^key-e488236c98dd9a53854af4fd4dac9735]
+## 25. Revocations[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e488236c98dd9a53854af4fd4dac9735]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e488236c98dd9a53854af4fd4dac9735]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — IDENTIFICATION DOCUMENT FOR REGISTERED EQUIDAE[^key-e488236c98dd9a53854af4fd4dac9735]
+## SCHEDULE — IDENTIFICATION DOCUMENT FOR REGISTERED EQUIDAE[^c-e488236c98dd9a53854af4fd4dac9735]
 
-### PASSPORT[^key-e488236c98dd9a53854af4fd4dac9735]
+### PASSPORT[^c-e488236c98dd9a53854af4fd4dac9735]
 
-**I.**[^key-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**I.**[^c-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Maladies dont l'inclusion dans le certificat zoosanitaire joint au passeport doit être envisageé[^key-e488236c98dd9a53854af4fd4dac9735]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Diseases for which an endorsement must be made on the health certificate attached to the passport[^key-e488236c98dd9a53854af4fd4dac9735]
+#### Maladies dont l'inclusion dans le certificat zoosanitaire joint au passeport doit être envisageé[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. Diseases for which an endorsement must be made on the health certificate attached to the passport[^key-e488236c98dd9a53854af4fd4dac9735]
+#### Diseases for which an endorsement must be made on the health certificate attached to the passport[^c-e488236c98dd9a53854af4fd4dac9735]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 1. Diseases for which an endorsement must be made on the health certificate attached to the passport[^c-e488236c98dd9a53854af4fd4dac9735]
 
-**3.**[^key-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-e488236c98dd9a53854af4fd4dac9735] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e488236c98dd9a53854af4fd4dac9735]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e488236c98dd9a53854af4fd4dac9735]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e488236c98dd9a53854af4fd4dac9735]: Textual amendment: Regulations revoked (10.6.2004) by [The Horse Passports (England) Regulations 2004 (S.I. 2004/1397)](https://www.legislation.gov.uk/uksi/2004/1397), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1397/regulation/1), [26](https://www.legislation.gov.uk/uksi/2004/1397/regulation/26)
+[^c-e488236c98dd9a53854af4fd4dac9735]: Textual amendment: Regulations revoked (10.6.2004) by [The Horse Passports (England) Regulations 2004 (S.I. 2004/1397)](https://www.legislation.gov.uk/uksi/2004/1397), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1397/regulation/1), [26](https://www.legislation.gov.uk/uksi/2004/1397/regulation/26)

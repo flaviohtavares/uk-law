@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Disapplication of existing regimes[^key-154e2276d6aefdf085c9506a16017c79]
+## 151. Disapplication of existing regimes[^c-154e2276d6aefdf085c9506a16017c79]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-154e2276d6aefdf085c9506a16017c79]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2004/20/section/151) in force at 14.8.2006 by [S.I. 2006/1964](https://www.legislation.gov.uk/uksi/2006/1964), [art. 2](https://www.legislation.gov.uk/uksi/2006/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1964/schedule)
+[^c-154e2276d6aefdf085c9506a16017c79]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2004/20/section/151) in force at 14.8.2006 by [S.I. 2006/1964](https://www.legislation.gov.uk/uksi/2006/1964), [art. 2](https://www.legislation.gov.uk/uksi/2006/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1964/schedule)

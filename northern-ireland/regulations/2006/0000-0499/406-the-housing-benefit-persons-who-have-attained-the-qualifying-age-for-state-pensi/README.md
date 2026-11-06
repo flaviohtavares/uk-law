@@ -56,7 +56,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 5 — Persons who have attained the qualifying age for state pension credit](part-i/section-5.md)
 - [Section 6 — Remunerative work](part-i/section-6.md)
 
-### PART II — Provisions affecting entitlement to housing benefit[^key-0ff18c5f859692fc01926755f463c1f2]
+### PART II — Provisions affecting entitlement to housing benefit[^c-0ff18c5f859692fc01926755f463c1f2]
 
 *Extent: N.I.*
 
@@ -65,7 +65,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 9 — Circumstances in which a person is to be treated as not liable to make payments in respect of a dwelling](part-ii/section-9.md)
 - [Section 10 — Persons from abroad](part-ii/section-10.md)
 
-### PART III — Payments in respect of a dwelling[^key-2dbf86e397319edea2f040abfdb1d040]
+### PART III — Payments in respect of a dwelling[^c-2dbf86e397319edea2f040abfdb1d040]
 
 *Extent: N.I.*
 
@@ -86,7 +86,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 15 — Decisions](part-iii/section-15.md)
 - [Section 16 — Pre-tenancy decisions](part-iii/section-16.md)
 
-### PART IV — Membership of a family[^key-1376a79c56fabc324b51ec48704e1f5c]
+### PART IV — Membership of a family[^c-1376a79c56fabc324b51ec48704e1f5c]
 
 *Extent: N.I.*
 
@@ -94,13 +94,13 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 18 — Circumstances in which a person is to be treated as responsible or not responsible for another](part-iv/section-18.md)
 - [Section 19 — Circumstances in which a person is to be treated as being or not being a member of the household](part-iv/section-19.md)
 
-### PART V — Applicable amounts[^key-1a13c6382a12d7f6ed06d6677ec62cf9]
+### PART V — Applicable amounts[^c-1a13c6382a12d7f6ed06d6677ec62cf9]
 
 *Extent: N.I.*
 
 - [Section 20 — Applicable amounts](part-v/section-20.md)
 
-### PART VI — Assessment of income and capital[^key-705ab55cec9c1aa54510fa400f488627]
+### PART VI — Assessment of income and capital[^c-705ab55cec9c1aa54510fa400f488627]
 
 *Extent: N.I.*
 
@@ -161,7 +161,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 46 — Diminishing notional capital rule](part-vi/section-46.md)
 - [Section 47 — Capital jointly held](part-vi/section-47.md)
 
-### PART VII — Amount of benefit[^key-91706e13dd84acb30cb8311393579db7]
+### PART VII — Amount of benefit[^c-91706e13dd84acb30cb8311393579db7]
 
 *Extent: N.I.*
 
@@ -176,7 +176,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 53 — Non-dependant deductions](part-vii/section-53.md)
 - [Section 54 — Minimum housing benefit](part-vii/section-54.md)
 
-### PART VIII — Calculation of weekly amounts and changes of circumstances[^key-5c330b81eb51a3e2c85976bdbe147d6b]
+### PART VIII — Calculation of weekly amounts and changes of circumstances[^c-5c330b81eb51a3e2c85976bdbe147d6b]
 
 *Extent: N.I.*
 
@@ -187,7 +187,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 59 — Calculation of weekly amounts](part-viii/section-59.md)
 - [Section 60 — Rent and rate-free periods](part-viii/section-60.md)
 
-### PART IX — Claims[^key-5a0f2620ccf18ec77ec41d817258944e]
+### PART IX — Claims[^c-5a0f2620ccf18ec77ec41d817258944e]
 
 *Extent: N.I.*
 
@@ -199,14 +199,14 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 65 — Duty to notify changes of circumstances](part-ix/section-65.md)
 - [Section 65A — Notice of change of circumstances given electronically](part-ix/section-65a.md)
 
-### PART X — Decisions on questions[^key-7c6f66533cf38252052f4b57128dbe4d]
+### PART X — Decisions on questions[^c-7c6f66533cf38252052f4b57128dbe4d]
 
 *Extent: N.I.*
 
 - [Section 66 — Decisions by a relevant authority](part-x/section-66.md)
 - [Section 67 — Notification of decision](part-x/section-67.md)
 
-### PART XI — Payments[^key-16b0c71f9bc9a47cc3511f89c4f5c38b]
+### PART XI — Payments[^c-16b0c71f9bc9a47cc3511f89c4f5c38b]
 
 *Extent: N.I.*
 
@@ -220,7 +220,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 75 — Payment on death of the person entitled](part-xi/section-75.md)
 - [Section 76 — Offsetting](part-xi/section-76.md)
 
-### PART XII — Overpayments[^key-4c137d53894419c22edb08b8218f84a8]
+### PART XII — Overpayments[^c-4c137d53894419c22edb08b8218f84a8]
 
 *Extent: N.I.*
 
@@ -240,7 +240,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 
 *Extent: N.I.*
 
-#### SECTION 1 — Claims and information[^key-ba324d486dbb19d4fa38527eee471cd7]
+#### SECTION 1 — Claims and information[^c-ba324d486dbb19d4fa38527eee471cd7]
 
 - [Section 85A — Interpretation](part-xiii/section-85a.md)
 - [Section 85B — Collection of information](part-xiii/section-85b.md)
@@ -338,26 +338,26 @@ These Regulations are to be read, where appropriate, with the Consequential Prov
 
 [^f00005]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993; *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-0ff18c5f859692fc01926755f463c1f2]: Modification: [Pt. II](https://www.legislation.gov.uk/nisr/2006/406/part/II) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [11(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/11/1)
+[^c-0ff18c5f859692fc01926755f463c1f2]: Modification: [Pt. II](https://www.legislation.gov.uk/nisr/2006/406/part/II) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [11(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/11/1)
 
-[^key-2dbf86e397319edea2f040abfdb1d040]: Modification: [Pt. III](https://www.legislation.gov.uk/nisr/2006/406/part/III) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2007/203/regulation/14)
+[^c-2dbf86e397319edea2f040abfdb1d040]: Modification: [Pt. III](https://www.legislation.gov.uk/nisr/2006/406/part/III) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2007/203/regulation/14)
 
-[^key-1376a79c56fabc324b51ec48704e1f5c]: Modification: [Pt. IV](https://www.legislation.gov.uk/nisr/2006/406/part/IV) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2007/203/regulation/16)
+[^c-1376a79c56fabc324b51ec48704e1f5c]: Modification: [Pt. IV](https://www.legislation.gov.uk/nisr/2006/406/part/IV) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2007/203/regulation/16)
 
-[^key-1a13c6382a12d7f6ed06d6677ec62cf9]: Modification: [Pt. V](https://www.legislation.gov.uk/nisr/2006/406/part/V) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [17(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/17/1)
+[^c-1a13c6382a12d7f6ed06d6677ec62cf9]: Modification: [Pt. V](https://www.legislation.gov.uk/nisr/2006/406/part/V) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [17(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/17/1)
 
-[^key-705ab55cec9c1aa54510fa400f488627]: Modification: [Pt. VI](https://www.legislation.gov.uk/nisr/2006/406/part/VI) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [19(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/19/1)
+[^c-705ab55cec9c1aa54510fa400f488627]: Modification: [Pt. VI](https://www.legislation.gov.uk/nisr/2006/406/part/VI) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [19(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/19/1)
 
-[^key-91706e13dd84acb30cb8311393579db7]: Modification: [Pt. VII](https://www.legislation.gov.uk/nisr/2006/406/part/VII) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [21(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/21/1)
+[^c-91706e13dd84acb30cb8311393579db7]: Modification: [Pt. VII](https://www.legislation.gov.uk/nisr/2006/406/part/VII) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [21(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/21/1)
 
-[^key-5c330b81eb51a3e2c85976bdbe147d6b]: Modification: [Pt. VIII](https://www.legislation.gov.uk/nisr/2006/406/part/VIII) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2007/203/regulation/23)
+[^c-5c330b81eb51a3e2c85976bdbe147d6b]: Modification: [Pt. VIII](https://www.legislation.gov.uk/nisr/2006/406/part/VIII) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2007/203/regulation/23)
 
-[^key-5a0f2620ccf18ec77ec41d817258944e]: Modification: [Pt. IX](https://www.legislation.gov.uk/nisr/2006/406/part/IX) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [25(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/25/1)
+[^c-5a0f2620ccf18ec77ec41d817258944e]: Modification: [Pt. IX](https://www.legislation.gov.uk/nisr/2006/406/part/IX) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [25(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/25/1)
 
-[^key-7c6f66533cf38252052f4b57128dbe4d]: Modification: [Pt. X](https://www.legislation.gov.uk/nisr/2006/406/part/X) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [29(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/29/1)
+[^c-7c6f66533cf38252052f4b57128dbe4d]: Modification: [Pt. X](https://www.legislation.gov.uk/nisr/2006/406/part/X) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [29(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/29/1)
 
-[^key-16b0c71f9bc9a47cc3511f89c4f5c38b]: Modification: [Pt. XI](https://www.legislation.gov.uk/nisr/2006/406/part/XI) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [30](https://www.legislation.gov.uk/nisr/2007/203/regulation/30)
+[^c-16b0c71f9bc9a47cc3511f89c4f5c38b]: Modification: [Pt. XI](https://www.legislation.gov.uk/nisr/2006/406/part/XI) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [30](https://www.legislation.gov.uk/nisr/2007/203/regulation/30)
 
-[^key-4c137d53894419c22edb08b8218f84a8]: Modification: [Pt. XII](https://www.legislation.gov.uk/nisr/2006/406/part/XII) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2007/203/regulation/32)
+[^c-4c137d53894419c22edb08b8218f84a8]: Modification: [Pt. XII](https://www.legislation.gov.uk/nisr/2006/406/part/XII) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2007/203/regulation/32)
 
-[^key-ba324d486dbb19d4fa38527eee471cd7]: Textual amendment: Reg. 85A-85F inserted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2007/467/regulation/8/2)
+[^c-ba324d486dbb19d4fa38527eee471cd7]: Textual amendment: Reg. 85A-85F inserted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2007/467/regulation/8/2)

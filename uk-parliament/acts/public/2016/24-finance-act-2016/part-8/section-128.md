@@ -373,10 +373,10 @@ summary: ''
 (9) In its application for the purpose of determining whether a land transaction to which this subsection applies is a higher rates transaction, paragraph 3(6) of Schedule 4ZA to FA 2003 has effect with the following modifications—
 
 - (a) in paragraph (b) for “during the period of three years ending with” substitute “ the same as or before ”,
-- (b) in paragraph (c) for the words from “during” to “paragraph (b)”[^key-6ddf7de075b6154a7a5c5122d47af193] substitute “ before the effective date of the transaction concerned ”.
+- (b) in paragraph (c) for the words from “during” to “paragraph (b)”[^c-6ddf7de075b6154a7a5c5122d47af193] substitute “ before the effective date of the transaction concerned ”.
 
 (10) Paragraph 15 of Schedule 4ZA to FA 2003 does not apply in relation to a land transaction of which the effective date is, or is before, the date on which this Act is passed if the effect of its application would be that the transaction is a higher rates transaction for the purposes of paragraph 1 of that Schedule.
 
 ## Annotations
 
-[^key-6ddf7de075b6154a7a5c5122d47af193]: Textual amendment: Words in [s. 128(9)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/128/9/b) substituted (with effect in accordance with Sch. 11 para. 16(1)-(3) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/15)
+[^c-6ddf7de075b6154a7a5c5122d47af193]: Textual amendment: Words in [s. 128(9)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/128/9/b) substituted (with effect in accordance with Sch. 11 para. 16(1)-(3) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/15)

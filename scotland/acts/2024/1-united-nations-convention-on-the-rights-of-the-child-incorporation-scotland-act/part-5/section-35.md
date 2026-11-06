@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Reference of compatibility question to higher court[^key-bc5c1b3aeb7c6d79f712a72e69216c56]
+## 35. Reference of compatibility question to higher court[^c-bc5c1b3aeb7c6d79f712a72e69216c56]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc5c1b3aeb7c6d79f712a72e69216c56]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2024/1/section/35) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-bc5c1b3aeb7c6d79f712a72e69216c56]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2024/1/section/35) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117B. Extension of time limits specified by comptroller[^key-4ae10e77292193494a3f635210299e5b]
+## 117B. Extension of time limits specified by comptroller[^c-4ae10e77292193494a3f635210299e5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ae10e77292193494a3f635210299e5b]: Textual amendment: Ss. 117A, 117B inserted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [18](https://www.legislation.gov.uk/uksi/2004/2357/article/18) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
+[^c-4ae10e77292193494a3f635210299e5b]: Textual amendment: Ss. 117A, 117B inserted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [18](https://www.legislation.gov.uk/uksi/2004/2357/article/18) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))

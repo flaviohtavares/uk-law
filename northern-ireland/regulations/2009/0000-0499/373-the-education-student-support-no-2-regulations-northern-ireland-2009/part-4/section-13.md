@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Previous course[^key-4564219e45f395285b2bd7f8aa495134]
+## 13. Previous course[^c-4564219e45f395285b2bd7f8aa495134]
 
 *Extent: N.I.*
 
@@ -32,15 +32,15 @@ summary: ''
 
 (2) The conditions are—
 
-- (a)[^key-242bace1c5c0c02017d14a4f0c6bd5e2] the course was provided by an institution which was a registered provider in England or by a publicly funded institution in the United Kingdom for some or all of the academic years during which the student attended or undertook the course; or
-- (aa)[^key-6180ee505ce78e3fd20298dc6fd0a246] the course was provided by an accredited institution which was an unregistered provider for some or all of the academic years during which the student attended or undertook the course; or
+- (a)[^c-242bace1c5c0c02017d14a4f0c6bd5e2] the course was provided by an institution which was a registered provider in England or by a publicly funded institution in the United Kingdom for some or all of the academic years during which the student attended or undertook the course; or
+- (aa)[^c-6180ee505ce78e3fd20298dc6fd0a246] the course was provided by an accredited institution which was an unregistered provider for some or all of the academic years during which the student attended or undertook the course; or
 - (b) the course was provided by an institution in the Republic of Ireland and the student was funded under previous regulations for some or all of the academic years during which the student attended or undertook the course; or
 - (c) any scholarship, exhibition, bursary, grant, allowance or award of any description which was paid in respect of the student attending or, in the case of a compressed degree course or a designated distance learning course, undertaking the course to defray fees was from public funds or funds attributable to public funds.
 
 (3) The conditions are—
 
-- (a) the course was provided at a registered provider or[^key-eff8c4852f5e05517ef5eebb974cd3fc] a publicly funded institution whether or not in the United Kingdom or a regulated institution[^key-4ebc108e6849a0962c83a9f946c9bf70] for some or all of the academic years during which the student attended or undertook the course; [^key-d07a1509d178dbd6dc9219177d4b64a8]...
-- (aa)[^key-288d679a0526888719fe94aeca17c214] the course was provided by an accredited institution which was an unregistered provider for some or all of the academic years during which the student attended or undertook the course; or
+- (a) the course was provided at a registered provider or[^c-eff8c4852f5e05517ef5eebb974cd3fc] a publicly funded institution whether or not in the United Kingdom or a regulated institution[^c-4ebc108e6849a0962c83a9f946c9bf70] for some or all of the academic years during which the student attended or undertook the course; [^c-d07a1509d178dbd6dc9219177d4b64a8]...
+- (aa)[^c-288d679a0526888719fe94aeca17c214] the course was provided by an accredited institution which was an unregistered provider for some or all of the academic years during which the student attended or undertook the course; or
 - (b) any scholarship, exhibition, bursary, grant, allowance or award of any description which was paid in respect of the student’s attending or, in the case of a compressed degree course or a designated distance learning course, undertaking the course to defray fees was from public funds or funds attributable to public funds.
 
 (4) A course which would otherwise be a previous course will not be treated as such if—
@@ -77,16 +77,16 @@ summary: ''
 
 ## Annotations
 
-[^key-4564219e45f395285b2bd7f8aa495134]: Commencement: Reg. 13 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-4564219e45f395285b2bd7f8aa495134]: Commencement: Reg. 13 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-242bace1c5c0c02017d14a4f0c6bd5e2]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/2/a) substituted (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(a)(i)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/a/i)
+[^c-242bace1c5c0c02017d14a4f0c6bd5e2]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/2/a) substituted (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(a)(i)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/a/i)
 
-[^key-6180ee505ce78e3fd20298dc6fd0a246]: Textual amendment: [Reg. 13(2)(aa)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/2/aa) inserted (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(a)(ii)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/a/ii)
+[^c-6180ee505ce78e3fd20298dc6fd0a246]: Textual amendment: [Reg. 13(2)(aa)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/2/aa) inserted (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(a)(ii)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/a/ii)
 
-[^key-eff8c4852f5e05517ef5eebb974cd3fc]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/3/a) inserted (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(b)(i)(aa)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/b/i/aa)
+[^c-eff8c4852f5e05517ef5eebb974cd3fc]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/3/a) inserted (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(b)(i)(aa)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/b/i/aa)
 
-[^key-4ebc108e6849a0962c83a9f946c9bf70]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/3/a) inserted (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(b)(i)(bb)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/b/i/bb)
+[^c-4ebc108e6849a0962c83a9f946c9bf70]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/3/a) inserted (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(b)(i)(bb)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/b/i/bb)
 
-[^key-d07a1509d178dbd6dc9219177d4b64a8]: Textual amendment: Word in [reg. 13(3)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/3/a) omitted (with application in accordance with reg. 1(4) of the amending Rule) by virtue of [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(b)(i)(cc)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/b/i/cc)
+[^c-d07a1509d178dbd6dc9219177d4b64a8]: Textual amendment: Word in [reg. 13(3)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/3/a) omitted (with application in accordance with reg. 1(4) of the amending Rule) by virtue of [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(b)(i)(cc)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/b/i/cc)
 
-[^key-288d679a0526888719fe94aeca17c214]: Textual amendment: [Reg. 13(3)(aa)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/3/aa) inserted (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(b)(ii)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/b/ii)
+[^c-288d679a0526888719fe94aeca17c214]: Textual amendment: [Reg. 13(3)(aa)](https://www.legislation.gov.uk/nisr/2009/373/regulation/13/3/aa) inserted (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support (No.2), etc.) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/35)](https://www.legislation.gov.uk/nisr/2019/35), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2019/35/regulation/1/3), [6(b)(ii)](https://www.legislation.gov.uk/nisr/2019/35/regulation/6/b/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92B. Duty of certain persons to include landlord registration number in advertisements[^key-2d5a5febaa6114c6a05db237979db56a]
+## 92B. Duty of certain persons to include landlord registration number in advertisements[^c-2d5a5febaa6114c6a05db237979db56a]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ the relevant person must ensure the advertisement includes the words “landlord
 
 ## Annotations
 
-[^key-2d5a5febaa6114c6a05db237979db56a]: Textual amendment: [S. 92B](https://www.legislation.gov.uk/asp/2004/8/section/92B) inserted (1.6.2013) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 6](https://www.legislation.gov.uk/asp/2011/14/section/6), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(2)](https://www.legislation.gov.uk/ssi/2013/82/article/2/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/82/article/3/1))
+[^c-2d5a5febaa6114c6a05db237979db56a]: Textual amendment: [S. 92B](https://www.legislation.gov.uk/asp/2004/8/section/92B) inserted (1.6.2013) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 6](https://www.legislation.gov.uk/asp/2011/14/section/6), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(2)](https://www.legislation.gov.uk/ssi/2013/82/article/2/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/82/article/3/1))

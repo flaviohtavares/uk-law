@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Sheriff: pre-condition for making certain orders and warrants[^key-f41b1cf281c35ba71521ebc34c0c70c5]
+## 29. Sheriff: pre-condition for making certain orders and warrants[^c-f41b1cf281c35ba71521ebc34c0c70c5]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f41b1cf281c35ba71521ebc34c0c70c5]: Commencement: S. 29 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-f41b1cf281c35ba71521ebc34c0c70c5]: Commencement: S. 29 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

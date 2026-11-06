@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.20. Record of proceedings[^key-8e9cd19ff1bde467ff1629537891f863]
+## 3.20. Record of proceedings[^c-8e9cd19ff1bde467ff1629537891f863]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Proceedings under this Chapter shall be conducted summarily.
 
 ## Annotations
 
-[^key-8e9cd19ff1bde467ff1629537891f863]: Commencement: Rule 3.20 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-8e9cd19ff1bde467ff1629537891f863]: Commencement: Rule 3.20 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

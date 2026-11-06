@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Position of strategic significance[^key-cf6ff0229de51ef4f85d1f04a387a8ee][^key-17eb4d642927ecda329cccc468c4701f]
+## 6. Position of strategic significance[^c-cf6ff0229de51ef4f85d1f04a387a8ee][^c-17eb4d642927ecda329cccc468c4701f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ An undertaking has a position of strategic significance in respect of a digital 
 
 ## Annotations
 
-[^key-cf6ff0229de51ef4f85d1f04a387a8ee]: Commencement: S. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-cf6ff0229de51ef4f85d1f04a387a8ee]: Commencement: S. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-17eb4d642927ecda329cccc468c4701f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2024/13/section/6) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-17eb4d642927ecda329cccc468c4701f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2024/13/section/6) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

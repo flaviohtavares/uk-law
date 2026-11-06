@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Review of approval of out of hours arrangements under general medical services contracts and default contracts[^key-eccbe0a041077580338999637a90d86c]
+## 61. Review of approval of out of hours arrangements under general medical services contracts and default contracts[^c-eccbe0a041077580338999637a90d86c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ that review shall continue as if it were a review under the term of the general 
 
 ## Annotations
 
-[^key-eccbe0a041077580338999637a90d86c]: Commencement: Art. 61 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-eccbe0a041077580338999637a90d86c]: Commencement: Art. 61 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

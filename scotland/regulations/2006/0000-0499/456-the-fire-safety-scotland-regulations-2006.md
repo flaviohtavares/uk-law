@@ -48,26 +48,26 @@ The Scottish Ministers, in exercise of the powers conferred by sections 57, 58, 
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-04e186ca066bf4fa6505f859c06cb681]
+### 1. Citation and commencement[^c-04e186ca066bf4fa6505f859c06cb681]
 
 These Regulations may be cited as the Fire Safety (Scotland) Regulations 2006 and shall come into force on 1st October 2006.
 
-### 2. Interpretation[^key-cfdc89eb3a4637daf28d321e99bb85b0]
+### 2. Interpretation[^c-cfdc89eb3a4637daf28d321e99bb85b0]
 
 (1) In these Regulations–
 
 - “the 2005 Act” means the Fire (Scotland) Act 2005;
-- [^key-bf4ab07e7b396e56da08c4d26ae163a3]...
+- [^c-bf4ab07e7b396e56da08c4d26ae163a3]...
 - “child” means a person who is not over school age, construed in accordance with section 31 of the Education (Scotland) Act 1980[^f00003];
-- [^key-3ffb738921fc10e52a01a3933c84d2d4]...
-- “the CLP Regulation” means Regulation[^key-07827d54bc0b6cbc1a741123285d2a72] [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
+- [^c-3ffb738921fc10e52a01a3933c84d2d4]...
+- “the CLP Regulation” means Regulation[^c-07827d54bc0b6cbc1a741123285d2a72] [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
 - “competent” means that the person has sufficient training and experience or knowledge and other qualities to enable that person–
   - (a) in relation to regulation 12(3)(b), properly to implement the measures referred to in that regulation;
   - (b) in relation to regulation 14(1)(b), properly to implement the evacuation procedures referred to in that regulation; and
   - (c) in relation to regulation 17(1), properly to assist in undertaking the fire safety measures;
 - “dangerous substance” means–
-  - (a) a substance or mixture which meets the criteria for classification as hazardous within any physical hazard class laid down in the CLP Regulation, other than “corrosive to metals” or “gases under pressure”, whether or not the substance or mixture is classified under that Regulation[^key-ea449a55702626452bfa0fd6b8892737]
-  - (b) a substance or mixture[^key-9dbcfaf3d87a8e35b284be10244da175] which because of its physico-chemical or chemical properties and the way it is used or is present in relevant premises creates a risk; and
+  - (a) a substance or mixture which meets the criteria for classification as hazardous within any physical hazard class laid down in the CLP Regulation, other than “corrosive to metals” or “gases under pressure”, whether or not the substance or mixture is classified under that Regulation[^c-ea449a55702626452bfa0fd6b8892737]
+  - (b) a substance or mixture[^c-9dbcfaf3d87a8e35b284be10244da175] which because of its physico-chemical or chemical properties and the way it is used or is present in relevant premises creates a risk; and
   - (c) any dust, whether in the form of solid particles or fibrous materials or otherwise, which can form an explosive mixture with air or an explosive atmosphere;
 - “employment business” means a business (whether for profit or not and whether or not carried on in conjunction with any other business) which supplies persons (other than seafarers) who are employed in it to work for and under the control of other persons in any capacity;
 - “explosive atmosphere” means a mixture, under atmospheric conditions, of air and one or more dangerous substances in the form of gases, vapours, mists or dusts in which, after ignition has occurred, combustion spreads to the entire unburned mixture;
@@ -75,7 +75,7 @@ These Regulations may be cited as the Fire Safety (Scotland) Regulations 2006 an
 - “personal protective equipment” means all equipment which is intended to be worn or held by a person in the relevant premises and which protects that person against one or more risks to his or her safety, and any addition or accessory designed to meet that objective;
 - “preparation” means a mixture or solution of two or more substances;
 - “risk” means the risk to the safety of relevant persons from fire;
-- “safety data sheet” means a safety data sheet within the meaning of Regulation[^key-9de2779877a66f17fbb4be6f6bb270cf] [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending [Directive 1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and repealing [Council Regulation (EEC) No 793/93](https://www.legislation.gov.uk/european/regulation/1993/0793) and [Commission Regulation (EC) No 1488/94](https://www.legislation.gov.uk/european/regulation/1994/1488) as well as Council [Directive 76/769/EEC](https://www.legislation.gov.uk/european/directive/1976/0769) and Commission Directives [91/155/EEC](https://www.legislation.gov.uk/european/directive/1991/0155), [93/67/EEC](https://www.legislation.gov.uk/european/directive/1993/0067), [93/105/EC](https://www.legislation.gov.uk/european/directive/1993/0105) and [2000/21/EC](https://www.legislation.gov.uk/european/directive/2000/0021);
+- “safety data sheet” means a safety data sheet within the meaning of Regulation[^c-9de2779877a66f17fbb4be6f6bb270cf] [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending [Directive 1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and repealing [Council Regulation (EEC) No 793/93](https://www.legislation.gov.uk/european/regulation/1993/0793) and [Commission Regulation (EC) No 1488/94](https://www.legislation.gov.uk/european/regulation/1994/1488) as well as Council [Directive 76/769/EEC](https://www.legislation.gov.uk/european/directive/1976/0769) and Commission Directives [91/155/EEC](https://www.legislation.gov.uk/european/directive/1991/0155), [93/67/EEC](https://www.legislation.gov.uk/european/directive/1993/0067), [93/105/EC](https://www.legislation.gov.uk/european/directive/1993/0105) and [2000/21/EC](https://www.legislation.gov.uk/european/directive/2000/0021);
 - “special, technical or organisational measures” means those measures required to be taken or observed in any workplace in connection with the carrying on of any work process, where those measures–
   - (a) are designed to prevent or reduce the likelihood of fire arising from such a work process or reduce its intensity; and
   - (b) are required to be taken or observed to ensure compliance with any requirement of the relevant statutory provisions within the meaning given by section 53(1) of the Health and Safety at Work etc. Act 1974[^f00005] and those measures include–
@@ -101,7 +101,7 @@ These Regulations may be cited as the Fire Safety (Scotland) Regulations 2006 an
 
 ## PART II — ASSESSMENTS
 
-### 3. Duty to review[^key-947f226a058fd0aec0fff9d181ccdf29]
+### 3. Duty to review[^c-947f226a058fd0aec0fff9d181ccdf29]
 
 (1) A review of an assessment under section 53 or 54 must be carried out regularly so as to keep it up to date.
 
@@ -110,11 +110,11 @@ These Regulations may be cited as the Fire Safety (Scotland) Regulations 2006 an
 - (a) there is reason to suspect that it is no longer valid; or
 - (b) there has been a significant change in the matters to which it relates including when the relevant premises, special, technical and organisational measures or organisation of the work undergo significant changes.
 
-### 4. Duty in respect of young persons[^key-e49f49a98071ee3fc27f0016d7107739]
+### 4. Duty in respect of young persons[^c-e49f49a98071ee3fc27f0016d7107739]
 
 An employer must not employ a young person unless he or she has, in relation to risks to young persons, carried out or reviewed an assessment in accordance with his or her duties under section 53 or 54 and these Regulations.
 
-### 5. Assessment and review duty in respect of young persons[^key-b293801035b145f5edc8b6c5f1a3f36a]
+### 5. Assessment and review duty in respect of young persons[^c-b293801035b145f5edc8b6c5f1a3f36a]
 
 In carrying out or reviewing an assessment under section 53 an employer, before employing a young person, must take particular account of the following in respect of harm caused by fire:–
 
@@ -126,7 +126,7 @@ In carrying out or reviewing an assessment under section 53 an employer, before 
 - (f) the extent of the fire safety training provided or to be provided to young persons; and
 - (g) risks from agents, processes and work listed in the Annex to Council Directive [94/33/EC](https://www.legislation.gov.uk/european/directive/1994/0033)[^f00006] on the protection of young people at work.
 
-### 6. Assessment and review duty in respect of dangerous substances[^key-36a8be224d7418fba906b7cbad2d529a]
+### 6. Assessment and review duty in respect of dangerous substances[^c-36a8be224d7418fba906b7cbad2d529a]
 
 Where a dangerous substance is or is liable to be present in the relevant premises, the matters which must be taken into account when a person carries out an assessment or a review under section 53 or 54 are–
 
@@ -145,11 +145,11 @@ Where a dangerous substance is or is liable to be present in the relevant premis
 - (i) any places which are, or can be connected via openings to, places in which explosive atmospheres may occur; and
 - (j) such additional safety information as the person with duties under section 53 or 54 may need in order to complete the assessment or review.
 
-### 7. New work activities where dangerous substances are present[^key-c9137e72b95c18bc3fbe23b9bc76d2c0]
+### 7. New work activities where dangerous substances are present[^c-c9137e72b95c18bc3fbe23b9bc76d2c0]
 
 No new work activity involving a dangerous substance may commence unless the person with duties under section 53 or 54 has fulfilled their Chapter 1 duties in respect of the dangerous substances.
 
-### 8. Duty to record information[^key-310c4c26ed045f995b30195d3d3e3df7][^key-be5318d264d4b5648e4dde711d2356ae]
+### 8. Duty to record information[^c-310c4c26ed045f995b30195d3d3e3df7][^c-be5318d264d4b5648e4dde711d2356ae]
 
 As soon as practicable after an assessment has been carried out or reviewed, the person with duties under section 53 or 54 must record the information specified in regulation 9 where–
 
@@ -157,7 +157,7 @@ As soon as practicable after an assessment has been carried out or reviewed, the
 - (b) a licence or registration under an enactment is required in relation to the relevant premises; or
 - (c) an alterations notice requiring this by virtue of section 65(6)(a) is in force in relation to the relevant premises.
 
-### 9. Specified information[^key-d507d8f1e37d287399ab8007ee200e82]
+### 9. Specified information[^c-d507d8f1e37d287399ab8007ee200e82]
 
 The specified information is–
 
@@ -166,7 +166,7 @@ The specified information is–
 
 ## PART III — FIRE SAFETY
 
-### 10. Fire safety arrangements[^key-84aa167357046b94c99b98a09204eb66][^key-5d41a52ec69e255f513015b366a46442]
+### 10. Fire safety arrangements[^c-84aa167357046b94c99b98a09204eb66][^c-5d41a52ec69e255f513015b366a46442]
 
 (1) In carrying out duties to which a person is subject by virtue of section 53(2)(b), 53(3)(b), 54(2)(b) or 54(5)(b), a person must make and give effect to such arrangements as are appropriate, having regard to the size of his or her undertaking and the nature of its activities, for the effective planning, organisation, control, monitoring and review of the fire safety measures within the meaning of schedule 2 to the 2005 Act.
 
@@ -176,7 +176,7 @@ The specified information is–
 - (b) a licence or registration under an enactment is required in relation to the relevant premises; or
 - (c) an alterations notice requiring this by virtue of section 65(6)(b) is in force in relation to the relevant premises.
 
-### 11. Elimination or reduction of risks from dangerous substances[^key-c094e6f8b2c3651ea26f8490d87aa95d]
+### 11. Elimination or reduction of risks from dangerous substances[^c-c094e6f8b2c3651ea26f8490d87aa95d]
 
 (1) Where a dangerous substance is present in relevant premises, a person having duties under section 53 or 54 must ensure that risk to relevant persons related to the presence of the substance is either eliminated or reduced so far as is reasonably practicable.
 
@@ -192,7 +192,7 @@ The specified information is–
 - (a) arrange for the safe handling, storage and transport of dangerous substances and waste containing dangerous substances; and
 - (b) ensure that any conditions necessary pursuant to these Regulations and the 2005 Act for ensuring the elimination or reduction of risk are maintained.
 
-### 12. Means for fighting fire and means for giving warning in the event of fire[^key-036c4c74c489e5cffb31ddb3fc3b0dcc]
+### 12. Means for fighting fire and means for giving warning in the event of fire[^c-036c4c74c489e5cffb31ddb3fc3b0dcc]
 
 (1) Where necessary (whether due to the features of the relevant premises, the activity carried on there, any hazard present or any other relevant circumstances) in order to ensure the safety of relevant persons in respect of harm caused by fire, a person with duties under section 53 or 54 must ensure that–
 
@@ -207,7 +207,7 @@ The specified information is–
 - (b) nominate competent persons to implement those measures and ensure that the number of such persons, their training and the equipment available to them are adequate, taking into account the size of, and the specific hazards involved in, the relevant premises concerned; and
 - (c) arrange any necessary contacts with external emergency services, particularly as regards fire fighting and rescue work.
 
-### 13. Means of escape[^key-e0d4f8ad1c376e2f779c3564edc1c1f3]
+### 13. Means of escape[^c-e0d4f8ad1c376e2f779c3564edc1c1f3]
 
 (1) Where necessary in order to ensure the safety of relevant persons in respect of harm caused by fire, the person with duties under section 53 or 54 must ensure that routes to emergency exits from relevant premises and the exits themselves are kept free from obstruction at all times.
 
@@ -222,7 +222,7 @@ The specified information is–
 - (g) emergency routes and exits must be indicated by signs; and
 - (h) emergency routes and exits requiring illumination must be provided with emergency lighting of adequate intensity in the case of failure of their normal lighting.
 
-### 14. Procedures for serious and imminent danger from fire and for danger areas[^key-f3fcbf02099adb0d13b7a48398f130c5]
+### 14. Procedures for serious and imminent danger from fire and for danger areas[^c-f3fcbf02099adb0d13b7a48398f130c5]
 
 (1) A person with duties under section 53 or 54 must–
 
@@ -236,7 +236,7 @@ The specified information is–
 - (b) enable the relevant persons concerned (if necessary by taking appropriate steps in the absence of guidance or instruction and in the light of their knowledge and the technical means at their disposal) to stop work and immediately proceed to a safe area beyond the relevant premises in the event of their being exposed to serious, imminent and unavoidable danger from fire; and
 - (c) save in exceptional cases for reasons duly substantiated (which cases and reasons must be specified in those procedures), require the relevant persons concerned to be prevented from resuming work in any situation where there is still a serious and imminent danger from fire.
 
-### 15. Additional emergency measures in respect of dangerous substances[^key-ad9936ab2e8d130f4d2909bdf95e1680]
+### 15. Additional emergency measures in respect of dangerous substances[^c-ad9936ab2e8d130f4d2909bdf95e1680]
 
 (1) Subject to paragraph (4), in order to ensure the safety in respect of harm caused by fire of relevant persons arising from an accident, incident or emergency related to the presence of a dangerous substance in the relevant premises, the person with duties under section 53 or 54 must ensure that–
 
@@ -269,7 +269,7 @@ which must be used until the situation is restored to normal.
 - (a) the results of the assessment show that, because of the quantity of each dangerous substance in the premises, there is only a slight risk to relevant persons; and
 - (b) the measures taken by the person with duties under section 53 or 54 to comply with his or her duty under regulation 11 are sufficient to control that risk.
 
-### 16. Maintenance[^key-ce9a904d713649168f42d23d16763d43]
+### 16. Maintenance[^c-ce9a904d713649168f42d23d16763d43]
 
 (1) Where necessary in order to ensure the safety of relevant persons in respect of harm caused by fire the person with duties under section 53 or 54 must ensure that the relevant premises and any facilities, equipment and devices provided in respect of the relevant premises under these Regulations or, subject to paragraph (5), under any other enactment, including any enactment repealed or revoked by, under, or by virtue of the 2005 Act, are subject to a suitable system of maintenance and are maintained in an efficient state, in efficient working order and in good repair.
 
@@ -281,7 +281,7 @@ which must be used until the situation is restored to normal.
 
 (5) Paragraph (1) only applies to facilities, equipment and devices provided under other enactments where they are provided in connection with fire safety measures.
 
-### 17. Safety assistance[^key-c89b93eb241aa685c38d05c4383e3440][^key-457e2eea0749938bfb877f7add47cbd1]
+### 17. Safety assistance[^c-c89b93eb241aa685c38d05c4383e3440][^c-457e2eea0749938bfb877f7add47cbd1]
 
 (1) The person with duties under section 53 or 54 must, subject to paragraphs (5) and (6), nominate one or more competent persons to assist him or her in undertaking the measures necessary to comply with the Chapter 1 duties.
 
@@ -309,7 +309,7 @@ as is necessary to enable that person properly to carry out the function specifi
 
 (7) Where there is a competent person in the employment of a person with duties under section 53 or 54, that competent person must be nominated for the purposes of paragraph (1) in preference to a competent person not in his or her employment.
 
-### 18. Provision of information to employees[^key-d539812e04ace89b896f26eb36e3cd92]
+### 18. Provision of information to employees[^c-d539812e04ace89b896f26eb36e3cd92]
 
 (1) An employer must provide his or her employees with comprehensible and relevant information on–
 
@@ -340,7 +340,7 @@ and for the purposes of this paragraph, “parent of the child” includes a per
 - (a) adapted to take account of significant changes in the activity carried out or methods of work used by the employer; and
 - (b) provided in a manner appropriate to the risk identified by the assessment carried out or reviewed under section 53 and these Regulations.
 
-### 19. Provision of information to employers and the self-employed from outside undertakings[^key-a4dde30aa7ba94b96586b22802078c09][^key-88afc6c4c58e435da1d120a9fe2e48a0]
+### 19. Provision of information to employers and the self-employed from outside undertakings[^c-a4dde30aa7ba94b96586b22802078c09][^c-88afc6c4c58e435da1d120a9fe2e48a0]
 
 (1) A person with duties under section 53 or 54 must ensure that the employer of any employees from an outside undertaking who are working in the relevant premises is provided with comprehensible and relevant information on–
 
@@ -354,7 +354,7 @@ and for the purposes of this paragraph, “parent of the child” includes a per
 - (a) ensure that the employer of any employees from an outside undertaking who are working in the relevant premises is provided with sufficient information to enable that employer to identify any person nominated by the person with duties under section 53 or 54 in accordance with regulation 14(1)(b) to implement evacuation procedures as far as those employees are concerned; and
 - (b) take all reasonable steps to ensure that any person from an outside undertaking who is working in the relevant premises receives sufficient information to enable that person to identify any person nominated by the person with duties under section 53 or 54 in accordance with regulation 14(1)(b) to implement evacuation procedures as far as they are concerned.
 
-### 20. Training[^key-38abbf98113935caf99ed1595eb67c04]
+### 20. Training[^c-38abbf98113935caf99ed1595eb67c04]
 
 (1) An employer with duties under section 53 must ensure that his or her employees are provided with adequate fire safety training–
 
@@ -373,11 +373,11 @@ and for the purposes of this paragraph, “parent of the child” includes a per
 - (d) be provided in a manner appropriate to the risk identified by the assessment carried out or reviewed under section 53; and
 - (e) take place during working hours.
 
-### 20A. Capabilities[^key-731f6c5a981237f3a9ce5372dc9d6da6]
+### 20A. Capabilities[^c-731f6c5a981237f3a9ce5372dc9d6da6]
 
 An employer with duties under section 53 must, when entrusting tasks to an employee, take into consideration the employee’s capabilities as regards health and safety, so far as those capabilities relate to fire and are relevant to those tasks.
 
-### 21. Co-operation and co-ordination[^key-1ebeb39fa2655656f0762434dad604ec]
+### 21. Co-operation and co-ordination[^c-1ebeb39fa2655656f0762434dad604ec]
 
 (1) Where two or more persons with duties under section 53 or 54 share, or have duties in respect of, relevant premises (whether on a temporary or a permanent basis) each such person must–
 
@@ -387,7 +387,7 @@ An employer with duties under section 53 must, when entrusting tasks to an emplo
 
 (2) Where two or more persons with duties under section 53 or 54 share relevant premises (whether on a temporary or a permanent basis) where an explosive atmosphere may occur, the person with such duties who has overall responsibility for the relevant premises must co ordinate the implementation of all the measures required by the Chapter 1 duties to be taken to protect relevant persons from any risk from the explosive atmosphere.
 
-### 22. Duties of employees[^key-da8ae3b24624d019fd1bafad1c63260c]
+### 22. Duties of employees[^c-da8ae3b24624d019fd1bafad1c63260c]
 
 Each employee must, while at work, inform his or her employer or any other employee with specific responsibility for the safety in respect of harm caused by fire of his or her fellow employees–
 
@@ -398,9 +398,9 @@ in so far as that situation or matter either affects the safety in respect of ha
 
 ## PART IV — MISCELLANEOUS
 
-### 23. Maintenance of measures provided in relevant premises for protection of fire fighters[^key-64cf8fa129ef2fec77a03bae9f2029f2]
+### 23. Maintenance of measures provided in relevant premises for protection of fire fighters[^c-64cf8fa129ef2fec77a03bae9f2029f2]
 
-(1) Where necessary in order to secure the safety of fire fighters (whether employees of the Scottish Fire and Rescue Service[^key-b6fcd0471d3e29de13fb800649babd91] or otherwise) in the event of a fire in relevant premises, the person with duties under section 53 or 54 must ensure that the relevant premises and any facilities, equipment and devices provided in respect of the relevant premises for the use by or protection of fire fighters under these Regulations, the 2005 Act or under any other enactment, including any enactment repealed or revoked by, under, or by virtue of, the 2005 Act, are subject to a suitable system of maintenance and are maintained in an efficient state, in efficient working order and in good repair.
+(1) Where necessary in order to secure the safety of fire fighters (whether employees of the Scottish Fire and Rescue Service[^c-b6fcd0471d3e29de13fb800649babd91] or otherwise) in the event of a fire in relevant premises, the person with duties under section 53 or 54 must ensure that the relevant premises and any facilities, equipment and devices provided in respect of the relevant premises for the use by or protection of fire fighters under these Regulations, the 2005 Act or under any other enactment, including any enactment repealed or revoked by, under, or by virtue of, the 2005 Act, are subject to a suitable system of maintenance and are maintained in an efficient state, in efficient working order and in good repair.
 
 (2) Where the relevant premises form part of a building, the person with duties under section 53 or 54 may make arrangements with the occupier of any premises forming part of the building for the purpose of ensuring that the requirements of paragraph (1) are met.
 
@@ -408,7 +408,7 @@ in so far as that situation or matter either affects the safety in respect of ha
 
 (4) Where the occupier of the other premises is not also the owner of those premises, the reference to the occupier in paragraph (2) is taken to be a reference to both the occupier and the owner.
 
-### 24. Maintenance of measures provided in the common areas of private dwellings for protection of fire-fighters[^key-80dc05280dbc3d018b211da15add1abe]
+### 24. Maintenance of measures provided in the common areas of private dwellings for protection of fire-fighters[^c-80dc05280dbc3d018b211da15add1abe]
 
 (1) Regulation 23 shall apply to the common areas of private dwellings as if they were relevant premises, with the modifications specified in paragraphs (2) and (3).
 
@@ -424,7 +424,7 @@ the person or persons who own the common areas of private dwellings shall also c
 (3) For the purposes of this regulation the following modifications are made:–
 
 - (a) the references to “relevant premises” in–
-  - (i) section 61(9)(zb)[^f00008] and (b)[^key-6bba2cf9ea7591e62168c930ab27b3aa] (enforcing authorities);
+  - (i) section 61(9)(zb)[^f00008] and (b)[^c-6bba2cf9ea7591e62168c930ab27b3aa] (enforcing authorities);
   - (ii) section 62 (powers of enforcement officers);
   - (iii) section 64 (enforcement notices);
   - (iv) section 77 (Crown application)[^f00010]; and
@@ -433,7 +433,7 @@ the person or persons who own the common areas of private dwellings shall also c
   shall be taken to include the common areas of private dwellings;
 - (b) any references to “Chapter 1 duties” in–
   - (i) section 60(1) and (3) (special case: temporary suspension of Chapter 1 duties);
-  - (ii) section 61(1) [^key-c7b2c82e19776834136b66780410198c]... (enforcing authorities);
+  - (ii) section 61(1) [^c-c7b2c82e19776834136b66780410198c]... (enforcing authorities);
   - (iii) section 62(2)(c), (4)(a), (6) and (7) (powers of enforcement officers);
   - (iv) section 64(1), (2)(a), (3)(b) and (10) (enforcement notices); and
   - (v) section 67(1)(a) (determination of disputes),
@@ -441,11 +441,11 @@ the person or persons who own the common areas of private dwellings shall also c
   shall be taken to include the application in paragraph (1) of the safeguarding provision to the common areas of private dwellings; and
 - (c) for the purposes of section 72(3)(a), this regulation is deemed to be one to which a person is subject by virtue of regulations made under section 58.
 
-### 25. Arrangements with the Office of Rail and Road[^key-13dda1eb3893843ed701e9be725defde][^key-b157554588979357ce6c11a08fd6be82]
+### 25. Arrangements with the Office of Rail and Road[^c-13dda1eb3893843ed701e9be725defde][^c-b157554588979357ce6c11a08fd6be82]
 
-The Office of Rail and Road[^key-db30823eb76a03c5411541a86d45ec71] is prescribed for the purposes of section 61(8).
+The Office of Rail and Road[^c-db30823eb76a03c5411541a86d45ec71] is prescribed for the purposes of section 61(8).
 
-### 26. Nominated person’s act or omission not to afford employer defence[^key-8ed33f1a16a0e48101821534f8e2cea5]
+### 26. Nominated person’s act or omission not to afford employer defence[^c-8ed33f1a16a0e48101821534f8e2cea5]
 
 (1) Persons of a description specified in paragraph (2), on whom duties have been imposed by virtue of section 58(1), are specified for the purposes of section 75(b).
 
@@ -455,7 +455,7 @@ The Office of Rail and Road[^key-db30823eb76a03c5411541a86d45ec71] is prescribed
 - (b) regulation 14(1)(b); and
 - (c) regulation 17(1).
 
-### 27. Service of documents: further provision[^key-21a2881e7223a58f0a031196040f8f28]
+### 27. Service of documents: further provision[^c-21a2881e7223a58f0a031196040f8f28]
 
 (1) Without prejudice to section 76 or any other provision of this regulation, any document required or authorised to be served on a person with duties under section 53 or 54 in respect of any relevant premises (whether a body corporate or not) by virtue of Part 3 of the 2005 Act may be served by sending it by post to that person at those premises, or by addressing it by name to the person on whom it is to be served and delivering it to some responsible individual who is or appears to be resident or employed in the relevant premises.
 
@@ -492,7 +492,7 @@ The Office of Rail and Road[^key-db30823eb76a03c5411541a86d45ec71] is prescribed
 
 (9) For the purposes of this regulation, “transmission” means the transmission referred to in paragraph (3).
 
-### 28. Disapplication of certain provisions[^key-ebde8c096b0f18623c31174b2d1cfe5b]
+### 28. Disapplication of certain provisions[^c-ebde8c096b0f18623c31174b2d1cfe5b]
 
 (1) Regulations 4, 5 and 18(2) do not apply in relation to occasional work or short-term work involving work regulated as not being harmful, damaging, or dangerous to young people in a family undertaking.
 
@@ -514,7 +514,7 @@ Edinburgh
 
 Regulation 11(3)
 
-**1.**[^key-a8cf84c85e0a5edc654125bc4a4b6cbd] In applying measures to control risks the person with duties under section 53 or 54 must, in order of priority–
+**1.**[^c-a8cf84c85e0a5edc654125bc4a4b6cbd] In applying measures to control risks the person with duties under section 53 or 54 must, in order of priority–
 
 - (a) reduce the quantity of dangerous substances to a minimum;
 - (b) avoid or minimise the release of a dangerous substance;
@@ -526,7 +526,7 @@ Regulation 11(3)
   - (ii) such other adverse conditions as could result in harmful physical effects from a dangerous substance; and
 - (g) segregate incompatible dangerous substances.
 
-**2.**[^key-6f69010e8f6ad1b0dafed92db9a887fd] The person with duties under section 53 or 54 must ensure that mitigation measures applied in accordance with regulation 11(3)(b) include–
+**2.**[^c-6f69010e8f6ad1b0dafed92db9a887fd] The person with duties under section 53 or 54 must ensure that mitigation measures applied in accordance with regulation 11(3)(b) include–
 
 - (a) reducing to a minimum the number of persons exposed;
 - (b) measures to avoid the propagation of fires or explosions;
@@ -535,7 +535,7 @@ Regulation 11(3)
 - (e) providing plant which is constructed so as to withstand the pressure likely to be produced by an explosion; and
 - (f) providing suitable personal protective equipment.
 
-**3.**[^key-5774fcfc0ecb56ad4a4a8420e4190320] The person with duties under section 53 or 54 must–
+**3.**[^c-5774fcfc0ecb56ad4a4a8420e4190320] The person with duties under section 53 or 54 must–
 
 - (a) ensure that the relevant premises are designed, constructed and maintained so as to reduce risk;
 - (b) ensure that suitable special, technical and organisational measures are designed, constructed, assembled, installed, provided and used so as to reduce risk;
@@ -576,109 +576,109 @@ Part IV provides for miscellaneous matters, including the maintenance of measure
 
 [^f00001]: Footnote: [2005 asp 5](https://www.legislation.gov.uk/asp/2005/5).
 
-[^key-04e186ca066bf4fa6505f859c06cb681]: Commencement: Reg. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-04e186ca066bf4fa6505f859c06cb681]: Commencement: Reg. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-cfdc89eb3a4637daf28d321e99bb85b0]: Commencement: Reg. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-cfdc89eb3a4637daf28d321e99bb85b0]: Commencement: Reg. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-bf4ab07e7b396e56da08c4d26ae163a3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/a)
+[^c-bf4ab07e7b396e56da08c4d26ae163a3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/a)
 
 [^f00003]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
 
-[^key-3ffb738921fc10e52a01a3933c84d2d4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/b)
+[^c-3ffb738921fc10e52a01a3933c84d2d4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/b)
 
-[^key-07827d54bc0b6cbc1a741123285d2a72]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(c)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/c)
+[^c-07827d54bc0b6cbc1a741123285d2a72]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(c)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/c)
 
-[^key-ea449a55702626452bfa0fd6b8892737]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(d)(i)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/d/i)
+[^c-ea449a55702626452bfa0fd6b8892737]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(d)(i)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/d/i)
 
-[^key-9dbcfaf3d87a8e35b284be10244da175]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/d/ii)
+[^c-9dbcfaf3d87a8e35b284be10244da175]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/d/ii)
 
-[^key-9de2779877a66f17fbb4be6f6bb270cf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(e)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/e)
+[^c-9de2779877a66f17fbb4be6f6bb270cf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/456/regulation/2/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [15(2)(e)](https://www.legislation.gov.uk/uksi/2015/21/regulation/15/2/e)
 
 [^f00005]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
-[^key-947f226a058fd0aec0fff9d181ccdf29]: Commencement: Reg. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-947f226a058fd0aec0fff9d181ccdf29]: Commencement: Reg. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-e49f49a98071ee3fc27f0016d7107739]: Commencement: Reg. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-e49f49a98071ee3fc27f0016d7107739]: Commencement: Reg. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-b293801035b145f5edc8b6c5f1a3f36a]: Commencement: Reg. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-b293801035b145f5edc8b6c5f1a3f36a]: Commencement: Reg. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
 [^f00006]: Footnote: O.J. No. L 216, 20.8.94, p.12.
 
-[^key-36a8be224d7418fba906b7cbad2d529a]: Commencement: Reg. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-36a8be224d7418fba906b7cbad2d529a]: Commencement: Reg. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-c9137e72b95c18bc3fbe23b9bc76d2c0]: Commencement: Reg. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-c9137e72b95c18bc3fbe23b9bc76d2c0]: Commencement: Reg. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-310c4c26ed045f995b30195d3d3e3df7]: Commencement: Reg. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-310c4c26ed045f995b30195d3d3e3df7]: Commencement: Reg. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-be5318d264d4b5648e4dde711d2356ae]: Modification: [Reg. 8](https://www.legislation.gov.uk/ssi/2006/456/regulation/8) modified (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations 2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2012/332/regulation/3/2)
+[^c-be5318d264d4b5648e4dde711d2356ae]: Modification: [Reg. 8](https://www.legislation.gov.uk/ssi/2006/456/regulation/8) modified (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations 2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2012/332/regulation/3/2)
 
-[^key-d507d8f1e37d287399ab8007ee200e82]: Commencement: Reg. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-d507d8f1e37d287399ab8007ee200e82]: Commencement: Reg. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-84aa167357046b94c99b98a09204eb66]: Commencement: Reg. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-84aa167357046b94c99b98a09204eb66]: Commencement: Reg. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-5d41a52ec69e255f513015b366a46442]: Modification: [Reg. 10](https://www.legislation.gov.uk/ssi/2006/456/regulation/10) modified (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations 2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2012/332/regulation/3/3)
+[^c-5d41a52ec69e255f513015b366a46442]: Modification: [Reg. 10](https://www.legislation.gov.uk/ssi/2006/456/regulation/10) modified (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations 2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2012/332/regulation/3/3)
 
-[^key-c094e6f8b2c3651ea26f8490d87aa95d]: Commencement: Reg. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-c094e6f8b2c3651ea26f8490d87aa95d]: Commencement: Reg. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-036c4c74c489e5cffb31ddb3fc3b0dcc]: Commencement: Reg. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-036c4c74c489e5cffb31ddb3fc3b0dcc]: Commencement: Reg. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-e0d4f8ad1c376e2f779c3564edc1c1f3]: Commencement: Reg. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-e0d4f8ad1c376e2f779c3564edc1c1f3]: Commencement: Reg. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-f3fcbf02099adb0d13b7a48398f130c5]: Commencement: Reg. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-f3fcbf02099adb0d13b7a48398f130c5]: Commencement: Reg. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-ad9936ab2e8d130f4d2909bdf95e1680]: Commencement: Reg. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-ad9936ab2e8d130f4d2909bdf95e1680]: Commencement: Reg. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-ce9a904d713649168f42d23d16763d43]: Commencement: Reg. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-ce9a904d713649168f42d23d16763d43]: Commencement: Reg. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-c89b93eb241aa685c38d05c4383e3440]: Commencement: Reg. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-c89b93eb241aa685c38d05c4383e3440]: Commencement: Reg. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-457e2eea0749938bfb877f7add47cbd1]: Modification: [Reg. 17](https://www.legislation.gov.uk/ssi/2006/456/regulation/17) modified (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations 2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2012/332/regulation/3/4)
+[^c-457e2eea0749938bfb877f7add47cbd1]: Modification: [Reg. 17](https://www.legislation.gov.uk/ssi/2006/456/regulation/17) modified (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations 2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2012/332/regulation/3/4)
 
-[^key-d539812e04ace89b896f26eb36e3cd92]: Commencement: Reg. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-d539812e04ace89b896f26eb36e3cd92]: Commencement: Reg. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
 [^f00007]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
 
-[^key-a4dde30aa7ba94b96586b22802078c09]: Commencement: Reg. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-a4dde30aa7ba94b96586b22802078c09]: Commencement: Reg. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-88afc6c4c58e435da1d120a9fe2e48a0]: Modification: [Reg. 19](https://www.legislation.gov.uk/ssi/2006/456/regulation/19) modified (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations 2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2012/332/regulation/3/4)
+[^c-88afc6c4c58e435da1d120a9fe2e48a0]: Modification: [Reg. 19](https://www.legislation.gov.uk/ssi/2006/456/regulation/19) modified (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations 2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2012/332/regulation/3/4)
 
-[^key-38abbf98113935caf99ed1595eb67c04]: Commencement: Reg. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-38abbf98113935caf99ed1595eb67c04]: Commencement: Reg. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-731f6c5a981237f3a9ce5372dc9d6da6]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/ssi/2006/456/regulation/20A) inserted (21.1.2011) by [The Fire Safety (Scotland) Amendment Regulations 2010 (S.S.I. 2010/393)](https://www.legislation.gov.uk/ssi/2010/393), [regs. 1](https://www.legislation.gov.uk/ssi/2010/393/regulation/1), [2](https://www.legislation.gov.uk/ssi/2010/393/regulation/2)
+[^c-731f6c5a981237f3a9ce5372dc9d6da6]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/ssi/2006/456/regulation/20A) inserted (21.1.2011) by [The Fire Safety (Scotland) Amendment Regulations 2010 (S.S.I. 2010/393)](https://www.legislation.gov.uk/ssi/2010/393), [regs. 1](https://www.legislation.gov.uk/ssi/2010/393/regulation/1), [2](https://www.legislation.gov.uk/ssi/2010/393/regulation/2)
 
-[^key-1ebeb39fa2655656f0762434dad604ec]: Commencement: Reg. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-1ebeb39fa2655656f0762434dad604ec]: Commencement: Reg. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-da8ae3b24624d019fd1bafad1c63260c]: Commencement: Reg. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-da8ae3b24624d019fd1bafad1c63260c]: Commencement: Reg. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-64cf8fa129ef2fec77a03bae9f2029f2]: Commencement: Reg. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-64cf8fa129ef2fec77a03bae9f2029f2]: Commencement: Reg. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-b6fcd0471d3e29de13fb800649babd91]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/ssi/2006/456/regulation/23) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 23(2)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/23/2)
+[^c-b6fcd0471d3e29de13fb800649babd91]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/ssi/2006/456/regulation/23) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 23(2)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/23/2)
 
-[^key-80dc05280dbc3d018b211da15add1abe]: Commencement: Reg. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-80dc05280dbc3d018b211da15add1abe]: Commencement: Reg. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
 [^f00008]: Footnote: Section 61(9)(zb) was inserted by S.I. [2005/2060](https://www.legislation.gov.uk/uksi/2005/2060).
 
-[^key-6bba2cf9ea7591e62168c930ab27b3aa]: Textual amendment: Words in [reg. 24(3)(a)(i)](https://www.legislation.gov.uk/ssi/2006/456/regulation/24/3/a/i) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 23(3)(a)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/23/3/a)
+[^c-6bba2cf9ea7591e62168c930ab27b3aa]: Textual amendment: Words in [reg. 24(3)(a)(i)](https://www.legislation.gov.uk/ssi/2006/456/regulation/24/3/a/i) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 23(3)(a)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/23/3/a)
 
 [^f00010]: Footnote: Section 77 was amended by S.I. [2005/2060](https://www.legislation.gov.uk/uksi/2005/2060).
 
 [^f00011]: Footnote: Section 77A was inserted by S.I. [2005/2060](https://www.legislation.gov.uk/uksi/2005/2060).
 
-[^key-c7b2c82e19776834136b66780410198c]: Textual amendment: Words in [reg. 24(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2006/456/regulation/24/3/b/ii) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 23(3)(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/23/3/b)
+[^c-c7b2c82e19776834136b66780410198c]: Textual amendment: Words in [reg. 24(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2006/456/regulation/24/3/b/ii) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 23(3)(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/23/3/b)
 
-[^key-13dda1eb3893843ed701e9be725defde]: Commencement: Reg. 25 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-13dda1eb3893843ed701e9be725defde]: Commencement: Reg. 25 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-b157554588979357ce6c11a08fd6be82]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/ssi/2006/456/regulation/25) heading substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/11/a)
+[^c-b157554588979357ce6c11a08fd6be82]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/ssi/2006/456/regulation/25) heading substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/11/a)
 
-[^key-db30823eb76a03c5411541a86d45ec71]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/ssi/2006/456/regulation/25) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/11/a)
+[^c-db30823eb76a03c5411541a86d45ec71]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/ssi/2006/456/regulation/25) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/11/a)
 
-[^key-8ed33f1a16a0e48101821534f8e2cea5]: Commencement: Reg. 26 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-8ed33f1a16a0e48101821534f8e2cea5]: Commencement: Reg. 26 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-21a2881e7223a58f0a031196040f8f28]: Commencement: Reg. 27 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-21a2881e7223a58f0a031196040f8f28]: Commencement: Reg. 27 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
 [^f00012]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-ebde8c096b0f18623c31174b2d1cfe5b]: Commencement: Reg. 28 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-ebde8c096b0f18623c31174b2d1cfe5b]: Commencement: Reg. 28 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
 [^f00013]: Footnote: O.J. No. L 23, 28.1.00, p.57.
 
@@ -686,8 +686,8 @@ Part IV provides for miscellaneous matters, including the maintenance of measure
 
 [^f00015]: Footnote: Section 19(1)(b) was amended by the [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), section 23(1).
 
-[^key-a8cf84c85e0a5edc654125bc4a4b6cbd]: Commencement: Sch. para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-a8cf84c85e0a5edc654125bc4a4b6cbd]: Commencement: Sch. para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-6f69010e8f6ad1b0dafed92db9a887fd]: Commencement: Sch. para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-6f69010e8f6ad1b0dafed92db9a887fd]: Commencement: Sch. para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
 
-[^key-5774fcfc0ecb56ad4a4a8420e4190320]: Commencement: Sch. para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)
+[^c-5774fcfc0ecb56ad4a4a8420e4190320]: Commencement: Sch. para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/456/regulation/1)

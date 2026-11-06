@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Determination of tribunal as to administration charges[^key-121c86528b1e7543dbc9457081aada8f]
+## 87. Determination of tribunal as to administration charges[^c-121c86528b1e7543dbc9457081aada8f]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ of any question which may be the subject matter of an application under subsecti
 
 ## Annotations
 
-[^key-121c86528b1e7543dbc9457081aada8f]: Commencement: S. 87 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-121c86528b1e7543dbc9457081aada8f]: Commencement: S. 87 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

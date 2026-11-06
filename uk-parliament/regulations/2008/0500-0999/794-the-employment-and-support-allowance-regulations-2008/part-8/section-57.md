@@ -22,11 +22,11 @@ summary: ''
 
 (1) A claimant is regarded as having taken part in a work-focused interview if the claimant—
 
-- (a) if required to attend in person,[^key-9c88050c218179ba72baccbeeea1fca7] attends for the interview at the place and at the date and time notified in accordance with regulation 56;
-- (aa)[^key-477b029abc31e2dc45cb6b0fca902eb9] if not required to attend in person, is available and responds at the date and time notified in accordance with regulation 56 to any contact made at that time for the purpose of carrying out the interview;
+- (a) if required to attend in person,[^c-9c88050c218179ba72baccbeeea1fca7] attends for the interview at the place and at the date and time notified in accordance with regulation 56;
+- (aa)[^c-477b029abc31e2dc45cb6b0fca902eb9] if not required to attend in person, is available and responds at the date and time notified in accordance with regulation 56 to any contact made at that time for the purpose of carrying out the interview;
 - (b) provides information, if requested by the Secretary of State, about any or all of the matters set out in paragraph (2);
 - (c) participates in discussions to the extent the Secretary of State considers necessary, about any or all of the matters set out in paragraph (3);
-- (d)[^key-0c956a680673184587030e6bc00f2043] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-0c956a680673184587030e6bc00f2043] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The matters referred to in paragraph (1)(b) are—
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9c88050c218179ba72baccbeeea1fca7]: Textual amendment: Words in reg. 57(1)(a) inserted (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/13/2)
+[^c-9c88050c218179ba72baccbeeea1fca7]: Textual amendment: Words in reg. 57(1)(a) inserted (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/13/2)
 
-[^key-477b029abc31e2dc45cb6b0fca902eb9]: Textual amendment: Reg. 57(1)(aa) inserted (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/13/3)
+[^c-477b029abc31e2dc45cb6b0fca902eb9]: Textual amendment: Reg. 57(1)(aa) inserted (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/13/3)
 
-[^key-0c956a680673184587030e6bc00f2043]: Textual amendment: Reg. 57(1)(d) omitted (1.6.2011) by virtue of [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/13/4)
+[^c-0c956a680673184587030e6bc00f2043]: Textual amendment: Reg. 57(1)(d) omitted (1.6.2011) by virtue of [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/13/4)

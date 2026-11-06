@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Making of further interim compulsory supervision orders[^key-33b26b89b21bd02c8115ac9fa5816c78]
+## 55. Making of further interim compulsory supervision orders[^c-33b26b89b21bd02c8115ac9fa5816c78]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33b26b89b21bd02c8115ac9fa5816c78]: Commencement: S. 55 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-33b26b89b21bd02c8115ac9fa5816c78]: Commencement: S. 55 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

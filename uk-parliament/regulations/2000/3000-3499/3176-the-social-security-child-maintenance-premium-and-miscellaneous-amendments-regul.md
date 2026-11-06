@@ -42,7 +42,7 @@ Laid before Parliament
 
 The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 123(1)(a), (d) and (e), 136(3) and (5)(b), 137(1) and 175(1) and (3) of the Social Security Contributions and Benefits Act 1992[^c1636075], sections 12(1) and (4)(b), 35(1) and 36(1), (2) and (4) of the Jobseekers Act 1995[^c1636076], sections 10 and 26(1) to (3) of the Child Support Act 1995[^c1636077] and section 87(4) of the Northern Ireland Act 1998[^c1636078], and of all other powers enabling him in that behalf, after consultation, in respect of regulation 3 of these Regulations, with organisations appearing to him to be representative of the authorities concerned[^c1636079] and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^c1636080], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-fe3a825d23ce88ef987f469c89b62d7d]
+## 1. Citation and commencement[^c-fe3a825d23ce88ef987f469c89b62d7d]
 
 (1) These Regulations may be cited as the Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations 2000 and shall come into force—
 
@@ -76,14 +76,14 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 (1) In the Income Support (General) Regulations 1987 [^c1636082]—
 
 - (a) at the end of the definition of “child support maintenance" in regulation 60A [^c1636083] (child support: interpretation) there shall be added the words “ and shall include any payments made by the Secretary of State in lieu of such payments ”; and
-- (b)[^key-5a08517b298b5162ddb40db23d17a1a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5a08517b298b5162ddb40db23d17a1a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the Jobseeker’s Allowance Regulations 1996 [^c1636086]—
 
 - (a) at the end of the definition of “child support maintenance" in regulation 125 (child support: interpretation) there shall be added the words “ and shall include any payments made by the Secretary of State in lieu of such payments ”; and
-- (b)[^key-8ef5fa46ffca6299a372c2ebb6c7a909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8ef5fa46ffca6299a372c2ebb6c7a909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Housing benefit and council tax benefit[^key-1d92a42240e0d7ec7a45908f94ae7b36]
+## 3. Housing benefit and council tax benefit[^c-1d92a42240e0d7ec7a45908f94ae7b36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -147,19 +147,19 @@ These Regulations do not impose a charge on business.
 
 [^c1636080]: Marginal citation: *See* sections 170 and 173(1)(b) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5); [paragraph 67](https://www.legislation.gov.uk/uksi/2000/3176/paragraph/67) of Schedule 2 to the Jobseekers Act 1995 added that Act to the list of “relevant enactments" in respect of which regulations must normally be referred to the Committee; [paragraph 20](https://www.legislation.gov.uk/uksi/2000/3176/paragraph/20) of Schedule 3 to the Child Support Act 1995 added section 10 of that Act to that list.
 
-[^key-fe3a825d23ce88ef987f469c89b62d7d]: Textual amendment: Reg. 1 substituted (16.2.2004) by [The Social Security (Child Maintenance Premium) Amendment Regulations 2004 (S.I. 2004/98)](https://www.legislation.gov.uk/uksi/2004/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/98/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2004/98/regulation/4/1)
+[^c-fe3a825d23ce88ef987f469c89b62d7d]: Textual amendment: Reg. 1 substituted (16.2.2004) by [The Social Security (Child Maintenance Premium) Amendment Regulations 2004 (S.I. 2004/98)](https://www.legislation.gov.uk/uksi/2004/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/98/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2004/98/regulation/4/1)
 
 [^c1636082]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
 [^c1636083]: Marginal citation: Regulation 60A was inserted by [S.I. 1993/846](https://www.legislation.gov.uk/uksi/1993/846).
 
-[^key-5a08517b298b5162ddb40db23d17a1a3]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2000/3176/regulation/2/1/b) omitted (16.2.2004) by virtue of [The Social Security (Child Maintenance Premium) Amendment Regulations 2004 (S.I. 2004/98)](https://www.legislation.gov.uk/uksi/2004/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/98/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2004/98/regulation/4/2)
+[^c-5a08517b298b5162ddb40db23d17a1a3]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2000/3176/regulation/2/1/b) omitted (16.2.2004) by virtue of [The Social Security (Child Maintenance Premium) Amendment Regulations 2004 (S.I. 2004/98)](https://www.legislation.gov.uk/uksi/2004/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/98/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2004/98/regulation/4/2)
 
 [^c1636086]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
-[^key-8ef5fa46ffca6299a372c2ebb6c7a909]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2000/3176/regulation/2/2/b) omitted (16.2.2004) by virtue of [The Social Security (Child Maintenance Premium) Amendment Regulations 2004 (S.I. 2004/98)](https://www.legislation.gov.uk/uksi/2004/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/98/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2004/98/regulation/4/2)
+[^c-8ef5fa46ffca6299a372c2ebb6c7a909]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2000/3176/regulation/2/2/b) omitted (16.2.2004) by virtue of [The Social Security (Child Maintenance Premium) Amendment Regulations 2004 (S.I. 2004/98)](https://www.legislation.gov.uk/uksi/2004/98), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/98/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2004/98/regulation/4/2)
 
-[^key-1d92a42240e0d7ec7a45908f94ae7b36]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/3176/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-1d92a42240e0d7ec7a45908f94ae7b36]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/3176/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1636090]: Marginal citation: [S.I. 1996/3195](https://www.legislation.gov.uk/uksi/1996/3195).
 

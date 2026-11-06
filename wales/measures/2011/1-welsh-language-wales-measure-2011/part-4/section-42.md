@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Duty to make certain service delivery standards specifically applicable[^key-25e585a8ef52d9c80fa79f333e003803]
+## 42. Duty to make certain service delivery standards specifically applicable[^c-25e585a8ef52d9c80fa79f333e003803]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25e585a8ef52d9c80fa79f333e003803]: Commencement: [S. 42](https://www.legislation.gov.uk/mwa/2011/1/section/42) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-25e585a8ef52d9c80fa79f333e003803]: Commencement: [S. 42](https://www.legislation.gov.uk/mwa/2011/1/section/42) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Service of documents[^key-58b12247b9d05f383d4550ee31055fce]
+## 4. Service of documents[^c-58b12247b9d05f383d4550ee31055fce]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) by delivering it to him at or by leaving it at—
   - (i) the address provided by that person in accordance with these Regulations, or
   - (ii) his proper address;
-- (b) by sending it by post to him at either of the addresses mentioned in sub-paragraph (a) or by electronic means to the person’s email address provided by that person in accordance with these Regulations[^key-e184fffa8595dbb3e06fe63bef139f92];
+- (b) by sending it by post to him at either of the addresses mentioned in sub-paragraph (a) or by electronic means to the person’s email address provided by that person in accordance with these Regulations[^c-e184fffa8595dbb3e06fe63bef139f92];
 - (c) where the person is a partnership, by serving it in accordance with sub-paragraph (a) or (b) on a partner or on a person having control or management of the partnership business;
 - (d) where the person is a body corporate, by serving it in accordance with sub-paragraph (a) or (b) on the secretary or clerk of that body corporate; or
 - (e) where the person is an unincorporated body, by serving it in accordance with sub-paragraph (a) or (b) on a person having control or management of that body.
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-58b12247b9d05f383d4550ee31055fce]: Commencement: Reg. 4 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-58b12247b9d05f383d4550ee31055fce]: Commencement: Reg. 4 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-e184fffa8595dbb3e06fe63bef139f92]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/4/1/b) inserted (25.12.2015) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2015 (S.I. 2015/1968)](https://www.legislation.gov.uk/uksi/2015/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1968/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1968/regulation/2/4)
+[^c-e184fffa8595dbb3e06fe63bef139f92]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/4/1/b) inserted (25.12.2015) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2015 (S.I. 2015/1968)](https://www.legislation.gov.uk/uksi/2015/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1968/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1968/regulation/2/4)
 
 [^f00026]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).

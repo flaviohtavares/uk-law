@@ -33,10 +33,10 @@ Section 469 applies to LLPs, modified so that it reads as follows—
 > - (a) the amounts must have been translated at the exchange rate prevailing on the date to which the balance sheet is made up, and
 > - (b) that rate must be disclosed in the notes to the accounts.
 >
-> (3A)[^key-840fdf6795be248f8285480f36d589b6] Subsection (3)(b) does not apply to the non-IAS individual accounts of an LLP for a financial year in which the LLP qualifies as a micro-entity (see sections 384A and 384B).
+> (3A)[^c-840fdf6795be248f8285480f36d589b6] Subsection (3)(b) does not apply to the non-IAS individual accounts of an LLP for a financial year in which the LLP qualifies as a micro-entity (see sections 384A and 384B).
 >
 > (4) For the purposes of sections 434 and 435 (requirements in connection with published accounts) any additional copy of the LLP's annual accounts delivered to the registrar under subsection (2) above shall be treated as statutory accounts of the LLP. In the case of such a copy, references in those sections to the auditor's report on the LLP's annual accounts shall be read as references to the auditor's report on the annual accounts of which it is a copy.
 
 ## Annotations
 
-[^key-840fdf6795be248f8285480f36d589b6]: Textual amendment: Words in reg. 28 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [18(2)](https://www.legislation.gov.uk/uksi/2016/575/regulation/18/2)
+[^c-840fdf6795be248f8285480f36d589b6]: Textual amendment: Words in reg. 28 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [18(2)](https://www.legislation.gov.uk/uksi/2016/575/regulation/18/2)

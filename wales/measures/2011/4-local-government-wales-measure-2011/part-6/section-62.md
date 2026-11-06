@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Taking into account the views of the public[^key-e65bb46ec255bfca9873e65be5cf574f]
+## 62. Taking into account the views of the public[^c-e65bb46ec255bfca9873e65be5cf574f]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e65bb46ec255bfca9873e65be5cf574f]: Commencement: [S. 62](https://www.legislation.gov.uk/mwa/2011/4/section/62) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/f)
+[^c-e65bb46ec255bfca9873e65be5cf574f]: Commencement: [S. 62](https://www.legislation.gov.uk/mwa/2011/4/section/62) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/f)

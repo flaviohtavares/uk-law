@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28F. Appeal to sheriff from appeal committee.[^key-39817fce73e1da8d0f7385c993af725b][^c9694101]
+## 28F. Appeal to sheriff from appeal committee.[^c-39817fce73e1da8d0f7385c993af725b][^c9694101]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ but shall otherwise refuse to confirm their decision and shall, where he so refu
 
 ## Annotations
 
-[^key-39817fce73e1da8d0f7385c993af725b]: Modification: S. 28F excluded (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2004/4/schedule/2/paragraph/1); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-39817fce73e1da8d0f7385c993af725b]: Modification: S. 28F excluded (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2004/4/schedule/2/paragraph/1); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
 
 [^c9694101]: Modification: S. 28F excluded (during period of 3 years beginning with 1.1.1983) by [Education (Scotland) Act 1981 (c. 58)](https://www.legislation.gov.uk/ukpga/1981/58), [Sch. 8 para. 4(d)](https://www.legislation.gov.uk/ukpga/1981/58/schedule/8/paragraph/4/d)

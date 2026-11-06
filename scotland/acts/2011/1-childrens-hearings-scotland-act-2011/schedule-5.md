@@ -24,9 +24,9 @@ summary: ''
 
 ### Legal Aid (Scotland) Act 1986 (c.47)
 
-**1.** (1)[^key-0f0e8f7ecafe74012dffeed2eca6c3e7] The Legal Aid (Scotland) Act 1986 is amended as follows.
+**1.** (1)[^c-0f0e8f7ecafe74012dffeed2eca6c3e7] The Legal Aid (Scotland) Act 1986 is amended as follows.
 
-(2)[^key-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 4 (Scottish Legal Aid Fund)—
+(2)[^c-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 4 (Scottish Legal Aid Fund)—
 
 - (a) in subsection (2)—
   - (i) in paragraph (aza), after sub-paragraph (ii) insert—
@@ -45,7 +45,7 @@ summary: ''
 
   .
 
-(3)[^key-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 4A (Scottish Legal Aid Board's power to make grants in respect of provision of civil legal aid etc.)—
+(3)[^c-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 4A (Scottish Legal Aid Board's power to make grants in respect of provision of civil legal aid etc.)—
 
 - (a) in subsection (2)—
   - (i) in paragraph (a) for the words from “aid” to “matters” substitute “ aid, advice and assistance in relation to civil matters or children's legal assistance ”,
@@ -62,7 +62,7 @@ summary: ''
 
   .
 
-(4)[^key-0f0e8f7ecafe74012dffeed2eca6c3e7] In subsection (1A) of section 31 (selection of solicitors and counsel)—
+(4)[^c-0f0e8f7ecafe74012dffeed2eca6c3e7] In subsection (1A) of section 31 (selection of solicitors and counsel)—
 
 - (a) after paragraph (a), insert—
 
@@ -76,7 +76,7 @@ summary: ''
   , and
 - (c) in the full-out, after “assistance” insert “ or children's legal assistance ”.
 
-(5)[^key-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 35A (Board's powers to obtain information from solicitors in certain cases)—
+(5)[^c-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 35A (Board's powers to obtain information from solicitors in certain cases)—
 
 - (a) after subsection (1) insert—
 
@@ -91,7 +91,7 @@ summary: ''
   , and
 - (b) in subsection (2), after “(1)” insert “ or (1A) ”.
 
-(6)[^key-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 35B (Board's powers of entry)—
+(6)[^c-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 35B (Board's powers of entry)—
 
 - (a) in subsection (1), after paragraph (c) insert
 
@@ -121,16 +121,16 @@ summary: ''
 
   .
 
-(7)[^key-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 37(2) (regulations under Act which require to be laid in draft and approved by the Scottish Parliament before being made), after “24(4)” insert “ , 28C(3), 28K(2), 28L(1) or (8), ”.
+(7)[^c-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 37(2) (regulations under Act which require to be laid in draft and approved by the Scottish Parliament before being made), after “24(4)” insert “ , 28C(3), 28K(2), 28L(1) or (8), ”.
 
 (8) In section 41 (interpretation)—
 
-- (a)[^key-68ffc1eb462137dddc22d3761426ee2b] after “requires—” insert—
+- (a)[^c-68ffc1eb462137dddc22d3761426ee2b] after “requires—” insert—
 
   > “**the 2011 Act**” means the Children's Hearings (Scotland) Act 2011 (asp 1);
 
   ,
-- (b)[^key-68ffc1eb462137dddc22d3761426ee2b] after the definition of “the Board” insert—
+- (b)[^c-68ffc1eb462137dddc22d3761426ee2b] after the definition of “the Board” insert—
 
   > “**children's legal aid**” has the meaning given to it in section 28B(2) of this Act;
   >
@@ -140,11 +140,11 @@ summary: ''
   > - (b) advice and assistance in relation to children's hearings, pre-hearing panels (as defined in section 79(2)(a) of the 2011 Act) or proceedings under Part 10 or 15 of the 2011 Act;
 
   , and
-- (c)[^key-0f0e8f7ecafe74012dffeed2eca6c3e7] in the definition of “legal aid”—
+- (c)[^c-0f0e8f7ecafe74012dffeed2eca6c3e7] in the definition of “legal aid”—
   - (i) after “aid,”, where it third occurs, insert “ children's legal aid ”, and
   - (ii) the words from “or”, where it second occurs, to the end of the definition are repealed.
 
-(9)[^key-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 42 (disposable income and disposable capital: regulations), after subsection (3) insert—
+(9)[^c-0f0e8f7ecafe74012dffeed2eca6c3e7] In section 42 (disposable income and disposable capital: regulations), after subsection (3) insert—
 
 > (4) Regulations under this section may make different provision for—
 >
@@ -157,14 +157,14 @@ summary: ''
 
 ### Children (Scotland) Act 1995 (c.36)
 
-**2.** (1)[^key-64c089dfbc92a630dca968edeb4088b6] The Children (Scotland) Act 1995 is amended as follows.
+**2.** (1)[^c-64c089dfbc92a630dca968edeb4088b6] The Children (Scotland) Act 1995 is amended as follows.
 
-(2)[^key-64c089dfbc92a630dca968edeb4088b6] In section 12 (restrictions on certain decrees)—
+(2)[^c-64c089dfbc92a630dca968edeb4088b6] In section 12 (restrictions on certain decrees)—
 
 - (a) in subsection (1), for “or 54 of this Act” substitute “ of this Act or section 62 of the Children's Hearings (Scotland) Act 2011 ”,
 - (b) in subsection (2)(a), for “or 54 of this Act” substitute “ of this Act or section 62 of the Children's Hearings (Scotland) Act 2011 ”.
 
-(3)[^key-64c089dfbc92a630dca968edeb4088b6] In section 16 (welfare of child and consideration of views)—
+(3)[^c-64c089dfbc92a630dca968edeb4088b6] In section 16 (welfare of child and consideration of views)—
 
 - (a) in subsection (1)—
   - (i) the words “a children's hearing decide, or” are repealed,
@@ -183,7 +183,7 @@ summary: ''
   - (i) paragraph (a) is repealed,
   - (ii) in paragraph (b), for “Chapters 1 to 3” substitute “ Chapter 1 or 3 ”.
 
-(4)[^key-64c089dfbc92a630dca968edeb4088b6] In section 17 (duty of local authority to child looked after by them)—
+(4)[^c-64c089dfbc92a630dca968edeb4088b6] In section 17 (duty of local authority to child looked after by them)—
 
 - (a) in subsection (6), for paragraph (b) substitute—
 
@@ -193,7 +193,7 @@ summary: ''
 - (b) subsection (6)(c) is repealed,
 - (c) in subsection (6)(d), for “such responsibilities” substitute “ responsibilities as respects the child ”.
 
-(5)[^key-64c089dfbc92a630dca968edeb4088b6] In section 19 (local authority plans for services for children)—
+(5)[^c-64c089dfbc92a630dca968edeb4088b6] In section 19 (local authority plans for services for children)—
 
 - (a) in subsection (2), after paragraph (a) insert—
 
@@ -208,7 +208,7 @@ summary: ''
 
     .
 
-(6)[^key-64c089dfbc92a630dca968edeb4088b6] In section 33 (effect of orders etc. made in different parts of the United Kingdom)—
+(6)[^c-64c089dfbc92a630dca968edeb4088b6] In section 33 (effect of orders etc. made in different parts of the United Kingdom)—
 
 - (a) in subsection (1)—
   - (i) the words “or to a supervision requirement” are repealed,
@@ -220,9 +220,9 @@ summary: ''
 - (d) in subsection (5)(b), the words “or to a supervision requirement” are repealed,
 - (e) in subsection (5)(c), the words “or to a supervision requirement” are repealed.
 
-(7)[^key-64c089dfbc92a630dca968edeb4088b6] In section 38(4) (limited disapplication of certain enactments while child being provided with refuge), for “section 83 of this Act” substitute “ section 171 of the Children's Hearings (Scotland) Act 2011 ”.
+(7)[^c-64c089dfbc92a630dca968edeb4088b6] In section 38(4) (limited disapplication of certain enactments while child being provided with refuge), for “section 83 of this Act” substitute “ section 171 of the Children's Hearings (Scotland) Act 2011 ”.
 
-(8)[^key-d94647ce38eff13a396db77b14d1fc40][^key-2084ae62f3307a615521d77967c2f3b2] In section 75 (powers in relation to secure accommodation)—
+(8)[^c-d94647ce38eff13a396db77b14d1fc40][^c-2084ae62f3307a615521d77967c2f3b2] In section 75 (powers in relation to secure accommodation)—
 
 - (a) in subsection (1)(b), for “supervision requirement” substitute “ compulsory supervision order, interim compulsory supervision order, medical examination order or warrant to secure attendance (all within the meaning of the Children's Hearings (Scotland) Act 2011) ”,
 - (b) after subsection (2) insert—
@@ -236,16 +236,16 @@ summary: ''
 
   .
 
-(9)[^key-64c089dfbc92a630dca968edeb4088b6] In section 76(8) (making of child protection order instead of exclusion order)—
+(9)[^c-64c089dfbc92a630dca968edeb4088b6] In section 76(8) (making of child protection order instead of exclusion order)—
 
 - (a) in paragraph (b), for “section 57 of this Act” substitute “ Part 5 of the Children's Hearings (Scotland) Act 2011 ”,
 - (b) in the full-out—
   - (i) for “an order under that section” substitute “ a child protection order ”,
   - (ii) after “that” insert “ Part ”.
 
-(10)[^key-93b2d604f529c4f8baea404851ac88c6] In section 93(1) (interpretation), in the definition of “children's hearing”, for “section 39(3); but does not include a business meeting arranged under section 64, of this Act” substitute “ section 5 of the Children's Hearings (Scotland) Act 2011 ”.
+(10)[^c-93b2d604f529c4f8baea404851ac88c6] In section 93(1) (interpretation), in the definition of “children's hearing”, for “section 39(3); but does not include a business meeting arranged under section 64, of this Act” substitute “ section 5 of the Children's Hearings (Scotland) Act 2011 ”.
 
-(11)[^key-64c089dfbc92a630dca968edeb4088b6] In section 93(2)(b) (meaning of “child”), for the definition of “child” substitute—
+(11)[^c-64c089dfbc92a630dca968edeb4088b6] In section 93(2)(b) (meaning of “child”), for the definition of “child” substitute—
 
 > “**child**” means—
 >
@@ -256,7 +256,7 @@ summary: ''
 
 ### Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)
 
-**3.**[^key-4bb77d0702526face69a7c2292780907] In section 12 of the Antisocial Behaviour etc. (Scotland) Act 2004 (sheriff's power to refer child to children's hearing where antisocial behaviour order made etc.), for subsection (1) substitute—
+**3.**[^c-4bb77d0702526face69a7c2292780907] In section 12 of the Antisocial Behaviour etc. (Scotland) Act 2004 (sheriff's power to refer child to children's hearing where antisocial behaviour order made etc.), for subsection (1) substitute—
 
 > (1) This section applies where—
 >
@@ -285,16 +285,16 @@ summary: ''
 
 ## Annotations
 
-[^key-0f0e8f7ecafe74012dffeed2eca6c3e7]: Commencement: Sch. 5 para. 1(1)-(7)(8)(c)(9) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-0f0e8f7ecafe74012dffeed2eca6c3e7]: Commencement: Sch. 5 para. 1(1)-(7)(8)(c)(9) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-68ffc1eb462137dddc22d3761426ee2b]: Commencement: Sch. 5 para. 1(8)(a)(b) in force at 31.1.2012 by [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), [art. 2(2)](https://www.legislation.gov.uk/ssi/2012/1/article/2/2)
+[^c-68ffc1eb462137dddc22d3761426ee2b]: Commencement: Sch. 5 para. 1(8)(a)(b) in force at 31.1.2012 by [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), [art. 2(2)](https://www.legislation.gov.uk/ssi/2012/1/article/2/2)
 
-[^key-64c089dfbc92a630dca968edeb4088b6]: Commencement: Sch. 5 para. 2(1)-(7)(9)(11) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-64c089dfbc92a630dca968edeb4088b6]: Commencement: Sch. 5 para. 2(1)-(7)(9)(11) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-d94647ce38eff13a396db77b14d1fc40]: Commencement: Sch. 5 para. 2(8) in force at 12.6.2013 for specified purposes by [S.S.I. 2013/190](https://www.legislation.gov.uk/ssi/2013/190), [art. 2](https://www.legislation.gov.uk/ssi/2013/190/article/2)
+[^c-d94647ce38eff13a396db77b14d1fc40]: Commencement: Sch. 5 para. 2(8) in force at 12.6.2013 for specified purposes by [S.S.I. 2013/190](https://www.legislation.gov.uk/ssi/2013/190), [art. 2](https://www.legislation.gov.uk/ssi/2013/190/article/2)
 
-[^key-2084ae62f3307a615521d77967c2f3b2]: Commencement: Sch. 5 para. 2(8) in force at 24.6.2013 in so far as not already in force by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-2084ae62f3307a615521d77967c2f3b2]: Commencement: Sch. 5 para. 2(8) in force at 24.6.2013 in so far as not already in force by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-93b2d604f529c4f8baea404851ac88c6]: Commencement: Sch. 5 para. 2(10) in force at 24.6.2013 for specified purposes by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-93b2d604f529c4f8baea404851ac88c6]: Commencement: Sch. 5 para. 2(10) in force at 24.6.2013 for specified purposes by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-4bb77d0702526face69a7c2292780907]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2011/1/schedule/5/paragraph/3) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-4bb77d0702526face69a7c2292780907]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2011/1/schedule/5/paragraph/3) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

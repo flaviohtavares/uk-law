@@ -50,13 +50,13 @@ Coming into force
 
 In exercise of the powers conferred by sections 6(2), (3), (4), (5) and (9)(c) and 114 of the Crime and Disorder Act 1998[^f00001] on the Secretary of State and the National Assembly for Wales, the powers conferred on the National Assembly for Wales now being vested in the Welsh Ministers[^f00002], the Secretary of State and the Welsh Ministers jointly make the following Regulations.
 
-## 1. Citation, commencement and application[^key-0c5ed206c07e5ae9e6e9ea3acb3ce841]
+## 1. Citation, commencement and application[^c-0c5ed206c07e5ae9e6e9ea3acb3ce841]
 
 (1) These Regulations may be cited as the Crime and Disorder (Formulation and Implementation of Strategy) (Wales) Regulations 2007 and shall come into force on 19th November 2007.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-d0b6e8b0474e86032e36b9f26b1edd8d]
+## 2. Interpretation[^c-d0b6e8b0474e86032e36b9f26b1edd8d]
 
 In these Regulations — 
 
@@ -73,7 +73,7 @@ In these Regulations — 
 - “strategy group” means a group established in accordance with regulation 3; and
 - “year” means a period of twelve months beginning on 1st April.
 
-## 3. Functions in respect of the formulation and implementation of a strategy[^key-75aadf9a4a09bbbd09d3091df9acd1a0]
+## 3. Functions in respect of the formulation and implementation of a strategy[^c-75aadf9a4a09bbbd09d3091df9acd1a0]
 
 (1) For each area there shall be a strategy group whose functions shall be to —
 
@@ -96,7 +96,7 @@ In these Regulations — 
 
 (8) The strategy group shall have in place arrangements governing the review of the expenditure of partnership monies and for assessing the economy, efficiency and effectiveness of such expenditure.
 
-## 4. Information Sharing[^key-e9c6caa93f671713265e525aaef36b61]
+## 4. Information Sharing[^c-e9c6caa93f671713265e525aaef36b61]
 
 (1) The strategy group shall have in place arrangements for the sharing of information between responsible authorities and shall prepare a protocol setting out those arrangements.
 
@@ -108,13 +108,13 @@ In these Regulations — 
 
 (3) Each responsible authority shall comply with the protocol prepared under paragraph (1) and shall nominate a person within that authority to facilitate the sharing of information under the protocol.
 
-## 5. Strategic Assessments[^key-43ba16ccfdd8539d657a4f2d15520bf4]
+## 5. Strategic Assessments[^c-43ba16ccfdd8539d657a4f2d15520bf4]
 
 (1) During each year the strategy group shall prepare a strategic assessment on behalf of the responsible authorities.
 
 (2) The purpose of the strategic assessment is to assist the strategy group in revising the partnership plan.
 
-**6.**[^key-a79f3579d613d958f8ae45bb780dc698] In preparing the strategic assessment the strategy group shall consider —
+**6.**[^c-a79f3579d613d958f8ae45bb780dc698] In preparing the strategic assessment the strategy group shall consider —
 
 - (a) information provided to it by the responsible authorities;
 - (b) information provided to it by co-operating persons and bodies;
@@ -123,7 +123,7 @@ In these Regulations — 
 - (e) the partnership plan for that year; and
 - (f) any other information relating to crime and disorder in the area given to the responsible authorities by persons living and working in the area.
 
-**7.**[^key-8cf1c0ded14a9c7e1191a23f8caff252] A strategic assessment shall include—
+**7.**[^c-8cf1c0ded14a9c7e1191a23f8caff252] A strategic assessment shall include—
 
 - (a) an analysis of the levels and patterns of crime and disorder in the area;
 - (b) an analysis of the changes in those levels and patterns since the previous strategic assessment;
@@ -132,7 +132,7 @@ In these Regulations — 
 - (e) the matters which the persons living and working in the area consider that each responsible authority should prioritise when exercising its functions to reduce crime and disorder in the area; and
 - (f) an assessment of the extent to which the partnership plan for the previous year has been implemented.
 
-## 8. Partnership plans[^key-76eebef4a638593dea75d7befab6bceb]
+## 8. Partnership plans[^c-76eebef4a638593dea75d7befab6bceb]
 
 (1) The strategy group shall prepare a partnership plan for the area.
 
@@ -140,7 +140,7 @@ In these Regulations — 
 
 (3) When revising the partnership plan the strategy group shall consider the strategic assessment produced during the year prior to the year referred to in paragraph (2).
 
-**9.**[^key-249ab119e363568280681582c9a9b046] (1) The partnership plan shall set out —
+**9.**[^c-249ab119e363568280681582c9a9b046] (1) The partnership plan shall set out —
 
 - (a) a strategy for the reduction of crime and disorder in the area in the three year period beginning with the year referred to in regulation 8(2);
 - (b) the priorities identified in the strategic assessment prepared during the year prior to the year referred to in regulation 8(2);
@@ -149,7 +149,7 @@ In these Regulations — 
 - (e) the steps each responsible authority shall take to measure its success in implementing the strategy and meeting those priorities; and
 - (f) the steps the strategy group proposes to take during the year to comply with its obligations under regulations 10, 11 and 12.
 
-## 10. Community Engagement[^key-b3fd2a8868a828546cdd492a43815e74]
+## 10. Community Engagement[^c-b3fd2a8868a828546cdd492a43815e74]
 
 (1) For the purposes of preparing the strategic assessment and preparing and implementing the partnership plan the strategy group shall make arrangements for obtaining the views of persons and bodies who live or work in the area about —
 
@@ -171,15 +171,15 @@ In these Regulations — 
   - (i) when such meetings are held; and
   - (ii) what was discussed at such meetings.
 
-**11.**[^key-f2bced33e7f0ecffa050818e95a93da9] In preparing the partnership plan the strategy group shall consider the extent to which persons who live or work in the area might assist the responsible authorities in reducing crime and disorder in the area.
+**11.**[^c-f2bced33e7f0ecffa050818e95a93da9] In preparing the partnership plan the strategy group shall consider the extent to which persons who live or work in the area might assist the responsible authorities in reducing crime and disorder in the area.
 
-**12.**[^key-ab109239287a16fb9352539ffdab3981] The strategy group shall publish in the area a summary of the partnership plan in such form as it considers appropriate, having regard to the need to bring it to the attention of as many different groups or persons within the area as is reasonable.
+**12.**[^c-ab109239287a16fb9352539ffdab3981] The strategy group shall publish in the area a summary of the partnership plan in such form as it considers appropriate, having regard to the need to bring it to the attention of as many different groups or persons within the area as is reasonable.
 
-## 13. Guidance[^key-1b2a9a46b17c29f2890deda1a3a39ab3]
+## 13. Guidance[^c-1b2a9a46b17c29f2890deda1a3a39ab3]
 
 In exercising their functions under these Regulations the responsible authorities shall have regard to any guidance given by the Secretary of State and the Welsh Ministers acting jointly.
 
-**14.**[^key-19cca3bcc6397f1db91a22ccb44ebeff] (1) Until the commencement of section 19 (local authority scrutiny of crime and disorder matters of the Police and Justice Act 2006 regulation 6 shall have effect as if paragraph (d) were omitted.
+**14.**[^c-19cca3bcc6397f1db91a22ccb44ebeff] (1) Until the commencement of section 19 (local authority scrutiny of crime and disorder matters of the Police and Justice Act 2006 regulation 6 shall have effect as if paragraph (d) were omitted.
 
 (2) For the year beginning 1st April 2008 for the references in these Regulations to revising the partnership plan there shall be substituted preparing the partnership plan.
 
@@ -215,9 +215,9 @@ The Regulations also include provisions to facilitate information sharing within
 
 [^f00002]: Footnote: The functions of the National Assembly for Wales transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-0c5ed206c07e5ae9e6e9ea3acb3ce841]: Commencement: Reg. 1 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-0c5ed206c07e5ae9e6e9ea3acb3ce841]: Commencement: Reg. 1 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
-[^key-d0b6e8b0474e86032e36b9f26b1edd8d]: Commencement: Reg. 2 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-d0b6e8b0474e86032e36b9f26b1edd8d]: Commencement: Reg. 2 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
 [^f00003]: Footnote: Section 5(2) of the 1998 Act has been amended by section 97 of the Police Reform Act [2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30).
 
@@ -225,30 +225,30 @@ The Regulations also include provisions to facilitate information sharing within
 
 [^f00005]: Footnote: Section 5(3) of the 1998 Act has been amended by section 97 of the Police Reform Act 2002.
 
-[^key-75aadf9a4a09bbbd09d3091df9acd1a0]: Commencement: Reg. 3 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-75aadf9a4a09bbbd09d3091df9acd1a0]: Commencement: Reg. 3 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
-[^key-e9c6caa93f671713265e525aaef36b61]: Commencement: Reg. 4 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-e9c6caa93f671713265e525aaef36b61]: Commencement: Reg. 4 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
 [^f00006]: Footnote: Section 17A was inserted into the 1998 Act by section 22 of, and Schedule 9 to, the Police and Justice Act 2006 and will be in force from 19<sup>th</sup> November 2007 ([S.I. 2007/3073(C.122)](https://www.legislation.gov.uk/uksi/2007/3073)).
 
 [^f00007]: Footnote: Section 115 has been amended by section 74 of, and Schedule 7 to, the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), section 97 of the Police Reform Act 2002, section 219 of the Housing Act [2004 (c.34)](https://www.legislation.gov.uk/ukpga/2004/34), section 22 of, and Schedule 9 to, the Police and Justice Act 2006 (those amendments are in force from 19<sup>th</sup> November 2007 ([S.I. 2007/3073(C.122)](https://www.legislation.gov.uk/uksi/2007/3073)) and by [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90) and [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
 
-[^key-43ba16ccfdd8539d657a4f2d15520bf4]: Commencement: Reg. 5 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-43ba16ccfdd8539d657a4f2d15520bf4]: Commencement: Reg. 5 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
-[^key-a79f3579d613d958f8ae45bb780dc698]: Commencement: Reg. 6 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-a79f3579d613d958f8ae45bb780dc698]: Commencement: Reg. 6 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
-[^key-8cf1c0ded14a9c7e1191a23f8caff252]: Commencement: Reg. 7 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-8cf1c0ded14a9c7e1191a23f8caff252]: Commencement: Reg. 7 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
-[^key-76eebef4a638593dea75d7befab6bceb]: Commencement: Reg. 8 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-76eebef4a638593dea75d7befab6bceb]: Commencement: Reg. 8 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
-[^key-249ab119e363568280681582c9a9b046]: Commencement: Reg. 9 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-249ab119e363568280681582c9a9b046]: Commencement: Reg. 9 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
-[^key-b3fd2a8868a828546cdd492a43815e74]: Commencement: Reg. 10 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-b3fd2a8868a828546cdd492a43815e74]: Commencement: Reg. 10 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
-[^key-f2bced33e7f0ecffa050818e95a93da9]: Commencement: Reg. 11 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-f2bced33e7f0ecffa050818e95a93da9]: Commencement: Reg. 11 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
-[^key-ab109239287a16fb9352539ffdab3981]: Commencement: Reg. 12 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-ab109239287a16fb9352539ffdab3981]: Commencement: Reg. 12 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
-[^key-1b2a9a46b17c29f2890deda1a3a39ab3]: Commencement: Reg. 13 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-1b2a9a46b17c29f2890deda1a3a39ab3]: Commencement: Reg. 13 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
 
-[^key-19cca3bcc6397f1db91a22ccb44ebeff]: Commencement: Reg. 14 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)
+[^c-19cca3bcc6397f1db91a22ccb44ebeff]: Commencement: Reg. 14 in force at 19.11.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3076/regulation/1/1)

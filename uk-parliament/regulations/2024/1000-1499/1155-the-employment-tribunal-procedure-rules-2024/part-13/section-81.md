@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 81. Allowances[^key-9b48e950e19b149a09ec8d08a9598035]
+## 81. Allowances[^c-9b48e950e19b149a09ec8d08a9598035]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where the Tribunal makes a costs order, preparation time order, or wasted costs 
 
 ## Annotations
 
-[^key-9b48e950e19b149a09ec8d08a9598035]: Commencement: [Rule 81](https://www.legislation.gov.uk/uksi/2024/1155/rule/81) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-9b48e950e19b149a09ec8d08a9598035]: Commencement: [Rule 81](https://www.legislation.gov.uk/uksi/2024/1155/rule/81) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

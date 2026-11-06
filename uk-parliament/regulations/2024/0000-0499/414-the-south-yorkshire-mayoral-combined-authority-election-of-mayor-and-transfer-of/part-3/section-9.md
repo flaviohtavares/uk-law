@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Foreign property etc, perfection of vesting[^key-fa63f84c5e778f51dd486fd070fd13a4]
+## 9. Foreign property etc, perfection of vesting[^c-fa63f84c5e778f51dd486fd070fd13a4]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa63f84c5e778f51dd486fd070fd13a4]: Commencement: Art. 9 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-fa63f84c5e778f51dd486fd070fd13a4]: Commencement: Art. 9 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
 
 [^f00016]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).

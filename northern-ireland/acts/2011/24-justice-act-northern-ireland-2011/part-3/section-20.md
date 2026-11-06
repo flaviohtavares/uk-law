@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Establishment of PCSPs and DPCSPs[^key-bb603bc8941e6dbdf48f05685bdb0638]
+## 20. Establishment of PCSPs and DPCSPs[^c-bb603bc8941e6dbdf48f05685bdb0638]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb603bc8941e6dbdf48f05685bdb0638]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2011/24/section/20) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-bb603bc8941e6dbdf48f05685bdb0638]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2011/24/section/20) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

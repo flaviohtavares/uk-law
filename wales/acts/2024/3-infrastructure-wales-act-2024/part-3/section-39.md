@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Consultation post-application in relation to compulsory acquisition[^key-32411a604c3e0f40983ae38b1e82c76d][^key-905938dd5c793ace6e3c16a2ef4d6627]
+## 39. Consultation post-application in relation to compulsory acquisition[^c-32411a604c3e0f40983ae38b1e82c76d][^c-905938dd5c793ace6e3c16a2ef4d6627]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32411a604c3e0f40983ae38b1e82c76d]: Commencement: S. 39 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-32411a604c3e0f40983ae38b1e82c76d]: Commencement: S. 39 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-905938dd5c793ace6e3c16a2ef4d6627]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2024/3/section/39) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-905938dd5c793ace6e3c16a2ef4d6627]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2024/3/section/39) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

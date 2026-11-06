@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Teacher governors[^key-8ed9e30be48aab2ad72bffec69c29a6a]
+## 5. Teacher governors[^c-8ed9e30be48aab2ad72bffec69c29a6a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ed9e30be48aab2ad72bffec69c29a6a]: Commencement: Reg. 5 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-8ed9e30be48aab2ad72bffec69c29a6a]: Commencement: Reg. 5 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

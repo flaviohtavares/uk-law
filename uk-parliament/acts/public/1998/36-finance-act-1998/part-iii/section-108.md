@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-78a45ec2e6e2b44be4ad2d84db56a046] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-78a45ec2e6e2b44be4ad2d84db56a046] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-78a45ec2e6e2b44be4ad2d84db56a046] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-78a45ec2e6e2b44be4ad2d84db56a046] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c16421311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-78a45ec2e6e2b44be4ad2d84db56a046]: Textual amendment: [S. 108(1)](https://www.legislation.gov.uk/ukpga/1998/36/section/108/1)[(2)](https://www.legislation.gov.uk/ukpga/1998/36/section/108/2) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-78a45ec2e6e2b44be4ad2d84db56a046]: Textual amendment: [S. 108(1)](https://www.legislation.gov.uk/ukpga/1998/36/section/108/1)[(2)](https://www.legislation.gov.uk/ukpga/1998/36/section/108/2) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c16421311]: Textual amendment: S. 108(3)(4)(a) repealed (24.7.2002 with effect as mentioned in Sch. 40 Pt. 3(10) Note 2 of the amending Act) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 141](https://www.legislation.gov.uk/ukpga/2002/23/section/141), [Sch. 40 Pt. 3(10)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/3/10) Note 2
 

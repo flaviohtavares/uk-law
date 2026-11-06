@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Duty of company as to issue of certificates[^key-850f39dab448c1482bfcadb0a4984611]
+## 47. Duty of company as to issue of certificates[^c-850f39dab448c1482bfcadb0a4984611]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ For paragraph (4) of Article 195 of the 1986 Order (duty of company to issue cer
 
 ## Annotations
 
-[^key-850f39dab448c1482bfcadb0a4984611]: Commencement: Art. 47 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-850f39dab448c1482bfcadb0a4984611]: Commencement: Art. 47 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00051]: Footnote: Amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) section 194(6).

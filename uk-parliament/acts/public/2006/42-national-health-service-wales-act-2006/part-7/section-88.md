@@ -48,7 +48,7 @@ summary: ''
 - (a) in the form current at the time of the determination, and
 - (b) in any subsequent form taking effect after that time.
 
-(8A)[^key-28550b7192733a0d7ea90822a8e4d7f0] Regulations may impose requirements in relation to remuneration in respect of any of the following—[^key-7e8e9ea2e54af98e7d34fee82e1c6511]
+(8A)[^c-28550b7192733a0d7ea90822a8e4d7f0] Regulations may impose requirements in relation to remuneration in respect of any of the following—[^c-7e8e9ea2e54af98e7d34fee82e1c6511]
 
 - (a) drugs or medicines used for vaccinating or immunising people against disease,
 - (b) anything used in connection with the supply or administration of drugs or medicines within paragraph (a),
@@ -66,17 +66,17 @@ summary: ''
 - (a) carrying out inquiries to ensure that remuneration is reasonable, or
 - (b) estimating an amount of remuneration that is reasonable (whether or not the estimated amount corresponds exactly to expenses in respect of which remuneration is to be paid).
 
-(8D) Circumstances prescribed by virtue of subsection (8B)(b) may include circumstances in which anything within subsection (8A)[^key-fb802031e3a7e911948f850706f03a73](a) to (e) is made available to persons who provide pharmaceutical services under this Part—
+(8D) Circumstances prescribed by virtue of subsection (8B)(b) may include circumstances in which anything within subsection (8A)[^c-fb802031e3a7e911948f850706f03a73](a) to (e) is made available to persons who provide pharmaceutical services under this Part—
 
 - (a) by a health service body, or
-- (b) under an arrangement for the supply of that thing,[^key-e38fe291d4137077ab9a968dfcb89170] to which a health service body is a party.
+- (b) under an arrangement for the supply of that thing,[^c-e38fe291d4137077ab9a968dfcb89170] to which a health service body is a party.
 
 (8E) In subsections (8A) to (8D)—
 
 - “**health service body**” has the meaning given by section 7(4);
-- [^key-ae8098dc857ff6ce9588d5ef1f30228d]...
+- [^c-ae8098dc857ff6ce9588d5ef1f30228d]...
 
-(8F)[^key-f7cc02471bbf97294659010862d4504c] Where regulations include provision made in reliance on subsection (8A)(c) or (d) and the Welsh Ministers consider that the disease to which it relates is no longer a pandemic disease or at risk of becoming a pandemic disease, the Welsh Ministers must revoke that provision within such period as the Welsh Ministers consider reasonable (taking into account, in particular, the need for any transitional arrangements).
+(8F)[^c-f7cc02471bbf97294659010862d4504c] Where regulations include provision made in reliance on subsection (8A)(c) or (d) and the Welsh Ministers consider that the disease to which it relates is no longer a pandemic disease or at risk of becoming a pandemic disease, the Welsh Ministers must revoke that provision within such period as the Welsh Ministers consider reasonable (taking into account, in particular, the need for any transitional arrangements).
 
 (9) Regulations may—
 
@@ -89,14 +89,14 @@ summary: ''
 
 ## Annotations
 
-[^key-28550b7192733a0d7ea90822a8e4d7f0]: Textual amendment: [S. 88(8A)-(8E)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8A) inserted (21.11.2022) by [Health Service Medical Supplies (Costs) Act 2017 (c. 23)](https://www.legislation.gov.uk/ukpga/2017/23), [ss. 2](https://www.legislation.gov.uk/ukpga/2017/23/section/2), [12(2)](https://www.legislation.gov.uk/ukpga/2017/23/section/12/2); [S.I. 2022/1201](https://www.legislation.gov.uk/wsi/2022/1201), [art. 2](https://www.legislation.gov.uk/wsi/2022/1201/article/2)
+[^c-28550b7192733a0d7ea90822a8e4d7f0]: Textual amendment: [S. 88(8A)-(8E)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8A) inserted (21.11.2022) by [Health Service Medical Supplies (Costs) Act 2017 (c. 23)](https://www.legislation.gov.uk/ukpga/2017/23), [ss. 2](https://www.legislation.gov.uk/ukpga/2017/23/section/2), [12(2)](https://www.legislation.gov.uk/ukpga/2017/23/section/12/2); [S.I. 2022/1201](https://www.legislation.gov.uk/wsi/2022/1201), [art. 2](https://www.legislation.gov.uk/wsi/2022/1201/article/2)
 
-[^key-7e8e9ea2e54af98e7d34fee82e1c6511]: Textual amendment: Words in [s. 88(8A)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8A) substituted (22.11.2022 for W.) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 161(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2/a), [186(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2); [S.I. 2022/1202](https://www.legislation.gov.uk/wsi/2022/1202), [reg. 2](https://www.legislation.gov.uk/wsi/2022/1202/regulation/2)
+[^c-7e8e9ea2e54af98e7d34fee82e1c6511]: Textual amendment: Words in [s. 88(8A)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8A) substituted (22.11.2022 for W.) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 161(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2/a), [186(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2); [S.I. 2022/1202](https://www.legislation.gov.uk/wsi/2022/1202), [reg. 2](https://www.legislation.gov.uk/wsi/2022/1202/regulation/2)
 
-[^key-fb802031e3a7e911948f850706f03a73]: Textual amendment: Words in [s. 88(8D)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8D) substituted (22.11.2022 for W.) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 161(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2/b/i), [186(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2); [S.I. 2022/1202](https://www.legislation.gov.uk/wsi/2022/1202), [reg. 2](https://www.legislation.gov.uk/wsi/2022/1202/regulation/2)
+[^c-fb802031e3a7e911948f850706f03a73]: Textual amendment: Words in [s. 88(8D)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8D) substituted (22.11.2022 for W.) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 161(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2/b/i), [186(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2); [S.I. 2022/1202](https://www.legislation.gov.uk/wsi/2022/1202), [reg. 2](https://www.legislation.gov.uk/wsi/2022/1202/regulation/2)
 
-[^key-e38fe291d4137077ab9a968dfcb89170]: Textual amendment: Words in [s. 88(8D)(b)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8D/b) substituted (22.11.2022 for W.) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 161(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2/b/ii), [186(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2); [S.I. 2022/1202](https://www.legislation.gov.uk/wsi/2022/1202), [reg. 2](https://www.legislation.gov.uk/wsi/2022/1202/regulation/2)
+[^c-e38fe291d4137077ab9a968dfcb89170]: Textual amendment: Words in [s. 88(8D)(b)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8D/b) substituted (22.11.2022 for W.) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 161(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2/b/ii), [186(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2); [S.I. 2022/1202](https://www.legislation.gov.uk/wsi/2022/1202), [reg. 2](https://www.legislation.gov.uk/wsi/2022/1202/regulation/2)
 
-[^key-ae8098dc857ff6ce9588d5ef1f30228d]: Textual amendment: Words in [s. 88(8E)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8E) omitted (22.11.2022 for W.) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 161(2)(c)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2/c), [186(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2); [S.I. 2022/1202](https://www.legislation.gov.uk/wsi/2022/1202), [reg. 2](https://www.legislation.gov.uk/wsi/2022/1202/regulation/2)
+[^c-ae8098dc857ff6ce9588d5ef1f30228d]: Textual amendment: Words in [s. 88(8E)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8E) omitted (22.11.2022 for W.) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 161(2)(c)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2/c), [186(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2); [S.I. 2022/1202](https://www.legislation.gov.uk/wsi/2022/1202), [reg. 2](https://www.legislation.gov.uk/wsi/2022/1202/regulation/2)
 
-[^key-f7cc02471bbf97294659010862d4504c]: Textual amendment: [S. 88(8F)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8F) inserted (22.11.2022 for W.) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 161(2)(d)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2/d), [186(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2); [S.I. 2022/1202](https://www.legislation.gov.uk/wsi/2022/1202), [reg. 2](https://www.legislation.gov.uk/wsi/2022/1202/regulation/2)
+[^c-f7cc02471bbf97294659010862d4504c]: Textual amendment: [S. 88(8F)](https://www.legislation.gov.uk/ukpga/2006/42/section/88/8F) inserted (22.11.2022 for W.) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 161(2)(d)](https://www.legislation.gov.uk/ukpga/2022/31/section/161/2/d), [186(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/2); [S.I. 2022/1202](https://www.legislation.gov.uk/wsi/2022/1202), [reg. 2](https://www.legislation.gov.uk/wsi/2022/1202/regulation/2)

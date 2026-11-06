@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Waste charging: Northern Ireland[^key-0ef65374619717c0e9c2b5d04f8eb53c][^key-7ab310d7d51516737d895513d7d6b9af]
+## 65. Waste charging: Northern Ireland[^c-0ef65374619717c0e9c2b5d04f8eb53c][^c-7ab310d7d51516737d895513d7d6b9af]
 
 *Extent: E+W+S+N.I.*
 
@@ -116,6 +116,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ef65374619717c0e9c2b5d04f8eb53c]: Commencement: S. 65 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
+[^c-0ef65374619717c0e9c2b5d04f8eb53c]: Commencement: S. 65 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
 
-[^key-7ab310d7d51516737d895513d7d6b9af]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2021/30/section/65) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/k)
+[^c-7ab310d7d51516737d895513d7d6b9af]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2021/30/section/65) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/k)

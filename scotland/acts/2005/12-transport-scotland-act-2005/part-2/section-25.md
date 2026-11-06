@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Enforcement of sections 118 and 119 of 1991 Act[^key-f5a6ea8388740dde8e7540503926b2e1]
+## 25. Enforcement of sections 118 and 119 of 1991 Act[^c-f5a6ea8388740dde8e7540503926b2e1]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5a6ea8388740dde8e7540503926b2e1]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2005/12/section/25) in force at 1.10.2007 by [S.S.I. 2007/409](https://www.legislation.gov.uk/ssi/2007/409), [art. 2](https://www.legislation.gov.uk/ssi/2007/409/article/2)
+[^c-f5a6ea8388740dde8e7540503926b2e1]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2005/12/section/25) in force at 1.10.2007 by [S.S.I. 2007/409](https://www.legislation.gov.uk/ssi/2007/409), [art. 2](https://www.legislation.gov.uk/ssi/2007/409/article/2)

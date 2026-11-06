@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Offences by bodies corporate[^key-dec774c52c9598fd55ae60121773f6df]
+## 76. Offences by bodies corporate[^c-dec774c52c9598fd55ae60121773f6df]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dec774c52c9598fd55ae60121773f6df]: Commencement: S. 76 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-dec774c52c9598fd55ae60121773f6df]: Commencement: S. 76 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

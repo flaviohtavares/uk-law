@@ -24,16 +24,16 @@ summary: ''
 
 (2) For the purposes of this Regulation, the following definitions shall apply:
 
-- ((1)) [^key-fe0dea8fbf455d53372699607eabbb95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((1)) [^c-fe0dea8fbf455d53372699607eabbb95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - ((2)) ‘customs office of presentation’ means the customs office competent for the place where the goods are presented;
-- ((3)) [^key-fe0dea8fbf455d53372699607eabbb95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((3)) [^c-fe0dea8fbf455d53372699607eabbb95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - ((4)) ‘identical goods’ means, in the context of customs valuation, goods produced in the same country which are the same in all respects, including physical characteristics, quality and reputation. Minor differences in appearance shall not preclude goods otherwise conforming to the definition from being regarded as identical;
 - ((5)) ‘international Union airport’ means any Union airport which, having been so authorised by the customs authority, is approved for air traffic with territories outside of the customs territory of the Union;
-- ((6)) [^key-fe0dea8fbf455d53372699607eabbb95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((6)) [^c-fe0dea8fbf455d53372699607eabbb95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - ((7)) ‘main processed products’ means the processed products for which the authorisation for inward processing has been granted;
 - ((8)) ‘marketing activities’ means, in the context of customs valuation, all activities relating to advertising or marketing and promoting the sale of the goods in question and all activities relating to warranties or guarantees in respect of them;
 - ((9)) ‘secondary processed products’ means processed products which are a necessary by-product of the processing operation other than the main processed products;
-- ((10)) [^key-fe0dea8fbf455d53372699607eabbb95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((10)) [^c-fe0dea8fbf455d53372699607eabbb95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - ((11)) ‘public customs warehouse type III’ means a customs warehouse which is operated by the customs authorities;
 - ((12)) ‘fixed transport installation’ means technical means used for continuous transport of goods such as electricity, gas and oil;
 - ((13)) ‘customs office of transit’ means either of the following:
@@ -45,4 +45,4 @@ summary: ''
 
 [^f00005]: Footnote: Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council with regard to detailed rules of specifying some of the provisions of the Union Customs Code (see page 1 of this Official Journal).
 
-[^key-fe0dea8fbf455d53372699607eabbb95]: Textual amendment: [Art. 1(2)(1)(3)(6)(10)](https://www.legislation.gov.uk/eur/2015/2447/article/1/2/1/3/6/10) revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe0dea8fbf455d53372699607eabbb95]: Textual amendment: [Art. 1(2)(1)(3)(6)(10)](https://www.legislation.gov.uk/eur/2015/2447/article/1/2/1/3/6/10) revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

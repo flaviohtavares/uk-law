@@ -25,9 +25,9 @@ summary: ''
 - (a) a register of parliamentary electors for each constituency or part of a constituency in the area for which he acts; and
 - (b) a register of local government electors for the local government areas or parts of local government areas included in the area for which he acts.
 
-(2)[^c14479042][^key-d9e230fb1dc15452437af6f25b887968] Subject to any other provision of this Act, each register[^key-31b5877beb02b4af92c90adb77c23b5d] shall contain—
+(2)[^c14479042][^c-d9e230fb1dc15452437af6f25b887968] Subject to any other provision of this Act, each register[^c-31b5877beb02b4af92c90adb77c23b5d] shall contain—
 
-- (a)[^key-903c2ec69f075bade117146a1a90057c] the names of persons who appear to the registration officer to be entitled to be registered in it and in respect of whom a successful application for registration has been made;
+- (a)[^c-903c2ec69f075bade117146a1a90057c] the names of persons who appear to the registration officer to be entitled to be registered in it and in respect of whom a successful application for registration has been made;
 - (b)[^c14479051][^c20068881] (subject to any prescribed exceptions) the qualifying addresses of the persons registered in it; and
 - (c) in relation to each such person, that person’s electoral number.
 
@@ -39,16 +39,16 @@ summary: ''
 
 *Extent: S*
 
-(5A)[^key-e00486746a9ec4c926b7fe8c3185888b] In relation to the registration of local government electors in Scotland, the entry in the combined registers of any person aged 16 or 17 who is registered only as a local government elector must give the date on which the person will attain the age of 18.
+(5A)[^c-e00486746a9ec4c926b7fe8c3185888b] In relation to the registration of local government electors in Scotland, the entry in the combined registers of any person aged 16 or 17 who is registered only as a local government elector must give the date on which the person will attain the age of 18.
 
 *Extent: W*
 
-(5A)[^key-61fb77c74aeaecdb8409932aec779a6b] In relation to the registration of local government electors in Wales—
+(5A)[^c-61fb77c74aeaecdb8409932aec779a6b] In relation to the registration of local government electors in Wales—
 
 - (a) the entry in the combined registers of any person aged 16 or 17 who is registered only as a local government elector must give the date on which the person will attain the age of 18;
 - (b) the entry in the combined registers of any person who is registered only as a local government elector by virtue of section 4(3A) of this Act must give an indication of that fact.
 
-(6)[^key-1d9304ff7fe2a67eb72340a08f282ac1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-1d9304ff7fe2a67eb72340a08f282ac1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7)[^c14479061] Where under this section two or more registration officers maintain registers of parliamentary electors in respect of different parts of the same constituency, then in relation to that constituency any reference in this Act (whether express or implied) to the register of parliamentary electors for a constituency shall be read—
 
@@ -76,11 +76,11 @@ as the context may require.
 
 [^c14479042]: Modification: S. 9(2)(3)(4)(7)(8) applied (with modifications) (9.4.2001) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1184/schedule/part/I) (as substituted (17.3.2009) by [S.I. 2009/726](https://www.legislation.gov.uk/uksi/2009/726), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/726/regulation/1/1), [2(3)(4)](https://www.legislation.gov.uk/uksi/2009/726/regulation/2/3/4), [Sch.](https://www.legislation.gov.uk/uksi/2009/726/schedule))
 
-[^key-d9e230fb1dc15452437af6f25b887968]: Modification: S. 9(2) amendment by 2006 c. 22, Sch. 1 para. 4(2) extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2)
+[^c-d9e230fb1dc15452437af6f25b887968]: Modification: S. 9(2) amendment by 2006 c. 22, Sch. 1 para. 4(2) extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2)
 
-[^key-31b5877beb02b4af92c90adb77c23b5d]: Textual amendment: Words in s. 9(2) substituted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 5(a)](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/5/a) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
+[^c-31b5877beb02b4af92c90adb77c23b5d]: Textual amendment: Words in s. 9(2) substituted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 5(a)](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/5/a) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
 
-[^key-903c2ec69f075bade117146a1a90057c]: Textual amendment: S. 9(2)(a) substituted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 5(b)](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/5/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
+[^c-903c2ec69f075bade117146a1a90057c]: Textual amendment: S. 9(2)(a) substituted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 5(b)](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/5/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
 
 [^c14479051]: Modification: S. 9(2)(b) excluded (E.W.) (16.2.2001) by [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341), [reg. 40(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/40/1)
 
@@ -92,8 +92,8 @@ as the context may require.
 
 [^c19386921]: Textual amendment: Word in s. 9(5) substituted (E.W.S.) (1.1.2007) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 10](https://www.legislation.gov.uk/ukpga/2006/22/section/10), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/4/3); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/1), [12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions and savings in [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)) (amendment extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2))
 
-[^key-e00486746a9ec4c926b7fe8c3185888b]: Textual amendment: S. 9(5A) inserted (S.) (25.7.2015) by [Scottish Elections (Reduction of Voting Age) Act 2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7), [ss. 12](https://www.legislation.gov.uk/asp/2015/7/section/12), [21](https://www.legislation.gov.uk/asp/2015/7/section/21)
+[^c-e00486746a9ec4c926b7fe8c3185888b]: Textual amendment: S. 9(5A) inserted (S.) (25.7.2015) by [Scottish Elections (Reduction of Voting Age) Act 2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7), [ss. 12](https://www.legislation.gov.uk/asp/2015/7/section/12), [21](https://www.legislation.gov.uk/asp/2015/7/section/21)
 
-[^key-61fb77c74aeaecdb8409932aec779a6b]: Textual amendment: S. 9(5A) inserted (E.W.) (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 23](https://www.legislation.gov.uk/anaw/2020/1/section/23), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
+[^c-61fb77c74aeaecdb8409932aec779a6b]: Textual amendment: S. 9(5A) inserted (E.W.) (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 23](https://www.legislation.gov.uk/anaw/2020/1/section/23), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
 
-[^key-1d9304ff7fe2a67eb72340a08f282ac1]: Textual amendment: S. 9(6) omitted (13.5.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 18(1)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/18/1/b), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4) (previously repealed (E.W.S.) (11.9.2006) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), ss. 9(2), 74(2), 77, Sch. 2; [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), art. 3, Sch. 1 paras. 1, 26(2))
+[^c-1d9304ff7fe2a67eb72340a08f282ac1]: Textual amendment: S. 9(6) omitted (13.5.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 18(1)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/18/1/b), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4) (previously repealed (E.W.S.) (11.9.2006) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), ss. 9(2), 74(2), 77, Sch. 2; [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), art. 3, Sch. 1 paras. 1, 26(2))

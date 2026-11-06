@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Revocations and saving provision[^key-a8a96540544b971239e90e5b48ae4289]
+## 6. Revocations and saving provision[^c-a8a96540544b971239e90e5b48ae4289]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a8a96540544b971239e90e5b48ae4289]: Commencement: Art. 6 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-a8a96540544b971239e90e5b48ae4289]: Commencement: Art. 6 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
 [^f00018]: Footnote: [S.S.I. 2007/42](https://www.legislation.gov.uk/ssi/2007/42) as amended by [S.S.I. 2007/379](https://www.legislation.gov.uk/ssi/2007/379) and [2009/36](https://www.legislation.gov.uk/ssi/2009/36).
 

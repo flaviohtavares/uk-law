@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7[^key-139bd007cc7560dffb400286330fa7f0]
+## SCHEDULE 7[^c-139bd007cc7560dffb400286330fa7f0]
 
 *Extent: E+W*
 
@@ -727,7 +727,7 @@ Rule 32
 
 ## Annotations
 
-[^key-139bd007cc7560dffb400286330fa7f0]: Commencement: [Sch. 7](https://www.legislation.gov.uk/uksi/2009/2087/schedule/7) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-139bd007cc7560dffb400286330fa7f0]: Commencement: [Sch. 7](https://www.legislation.gov.uk/uksi/2009/2087/schedule/7) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
 
 [^f00088]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 109 was amended by section 109 of, and paragraph 234 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

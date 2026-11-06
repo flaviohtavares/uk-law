@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.31. Power of sheriff to make orders[^key-0bb50557c702adda2c2885f7e8015122]
+## 2.31. Power of sheriff to make orders[^c-0bb50557c702adda2c2885f7e8015122]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The sheriff may make such order as he thinks fit for the progress of a summary a
 
 ## Annotations
 
-[^key-0bb50557c702adda2c2885f7e8015122]: Commencement: Rule 2.31 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-0bb50557c702adda2c2885f7e8015122]: Commencement: Rule 2.31 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

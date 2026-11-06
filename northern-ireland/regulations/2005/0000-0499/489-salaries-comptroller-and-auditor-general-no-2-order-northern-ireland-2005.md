@@ -32,7 +32,7 @@ summary: ''
 
 SALARIES
 
-Salaries (Comptroller and Auditor General) (No. 2) Order (Northern Ireland) 2005 (revoked)[^key-8904d5f64c013931778ca2ed621b607e]
+Salaries (Comptroller and Auditor General) (No. 2) Order (Northern Ireland) 2005 (revoked)[^c-8904d5f64c013931778ca2ed621b607e]
 
 Made
 
@@ -44,26 +44,26 @@ Coming into operation
 
 30th December 2005
 
-[^key-8904d5f64c013931778ca2ed621b607e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8904d5f64c013931778ca2ed621b607e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-8904d5f64c013931778ca2ed621b607e]
+## 1. Title and commencement[^c-8904d5f64c013931778ca2ed621b607e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-8904d5f64c013931778ca2ed621b607e]
+## 2. Revocation[^c-8904d5f64c013931778ca2ed621b607e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Salary[^key-8904d5f64c013931778ca2ed621b607e]
+## 3. Salary[^c-8904d5f64c013931778ca2ed621b607e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8904d5f64c013931778ca2ed621b607e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8904d5f64c013931778ca2ed621b607e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8904d5f64c013931778ca2ed621b607e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8904d5f64c013931778ca2ed621b607e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8904d5f64c013931778ca2ed621b607e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/489) revoked (21.8.2006) by [Salaries (Comptroller and Auditor General) Order (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/302)](https://www.legislation.gov.uk/nisr/2006/302), [arts. 1](https://www.legislation.gov.uk/nisr/2006/302/article/1), [2](https://www.legislation.gov.uk/nisr/2006/302/article/2)
+[^c-8904d5f64c013931778ca2ed621b607e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/489) revoked (21.8.2006) by [Salaries (Comptroller and Auditor General) Order (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/302)](https://www.legislation.gov.uk/nisr/2006/302), [arts. 1](https://www.legislation.gov.uk/nisr/2006/302/article/1), [2](https://www.legislation.gov.uk/nisr/2006/302/article/2)

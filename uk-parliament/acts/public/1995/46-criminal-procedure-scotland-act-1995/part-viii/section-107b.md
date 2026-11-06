@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107B. Prosecutor's right of appeal: decisions on admissibility of evidence[^key-ad7665aaf9c428c57abd2a07943e72ac]
+## 107B. Prosecutor's right of appeal: decisions on admissibility of evidence[^c-ad7665aaf9c428c57abd2a07943e72ac]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad7665aaf9c428c57abd2a07943e72ac]: Textual amendment: Ss. 107A-107F inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 74](https://www.legislation.gov.uk/asp/2010/13/section/74), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-ad7665aaf9c428c57abd2a07943e72ac]: Textual amendment: Ss. 107A-107F inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 74](https://www.legislation.gov.uk/asp/2010/13/section/74), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

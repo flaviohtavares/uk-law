@@ -52,8 +52,8 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (2) In these Regulations—
 
-- (a) “the Council Tax Benefit Regulations” means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-8bac0735c7a0b3ad2e53a295d1a3e251] [^c9626501];
-- (b) “the Housing Benefit Regulations” means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-8bac0735c7a0b3ad2e53a295d1a3e251] [^c9626511];
+- (a) “the Council Tax Benefit Regulations” means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-8bac0735c7a0b3ad2e53a295d1a3e251] [^c9626501];
+- (b) “the Housing Benefit Regulations” means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-8bac0735c7a0b3ad2e53a295d1a3e251] [^c9626511];
 - (c) “the Income Support Regulations” means the Income Support (General) Regulations 1987 [^c9626521]; and
 - (d) “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations 1996 [^c9626531].
 
@@ -143,103 +143,103 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 ## 4. Amendment of the Housing Benefit Regulations
 
-(1)[^key-90587b8d14b6a761006eb5d991daeca3] The Housing Benefit Regulations shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+(1)[^c-90587b8d14b6a761006eb5d991daeca3] The Housing Benefit Regulations shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
-(2) In regulation 2(1) (interpretation)— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+(2) In regulation 2(1) (interpretation)— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
-- (a) after the definition of “the Act” there shall be inserted the following definition— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+- (a) after the definition of “the Act” there shall be inserted the following definition— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
-  > “adoption leave” means a period of absence from work on ordinary or additional adoption leave by virtue of section 75A or 75B of the Employment Rights Act 1996; *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+  > “adoption leave” means a period of absence from work on ordinary or additional adoption leave by virtue of section 75A or 75B of the Employment Rights Act 1996; *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
   ;
 
-  and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-- (b) after the definition of “partner” there shall be inserted the following definition— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+  and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+- (b) after the definition of “partner” there shall be inserted the following definition— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
-  > “paternity leave” means a period of absence from work on leave by virtue of section 80A or 80B of the Employment Rights Act 1996; *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+  > “paternity leave” means a period of absence from work on leave by virtue of section 80A or 80B of the Employment Rights Act 1996; *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
   .
 
-(3) In regulation 4 (remunerative work), in paragraph (6) *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] [^c9626671] after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3].
+(3) In regulation 4 (remunerative work), in paragraph (6) *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] [^c9626671] after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3].
 
-(4) In regulation 21A (treatment of child care charges) *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] [^c9626681]—
+(4) In regulation 21A (treatment of child care charges) *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] [^c9626681]—
 
-- (a) in paragraph (7)— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-  - (i) in sub-paragraph (a) for “woman on maternity leave” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ person on maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3];
-  - (ii (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (a)(i) after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3];
-  - (iii (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (a)(iii) for the words from “or maternity” to the end, there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , statutory paternity pay by virtue of section 171ZA or 171ZB of that Act *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] [^c9626691], statutory adoption pay by virtue of section 171ZL of that Act *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] [^c9626701], maternity allowance under section 35 of that Act *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] [^c9626711] or qualifying support, ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3];
-  - (iv (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (b) for “woman’s maternity leave” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ person’s maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3];
-  - (v) in sub-paragraph (b)(ii) and (iii) for “statutory maternity pay” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , qualifying support, statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-  - (vi (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (c) for the words from “in this” to “means” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+- (a) in paragraph (7)— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+  - (i) in sub-paragraph (a) for “woman on maternity leave” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ person on maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3];
+  - (ii (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (a)(i) after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3];
+  - (iii (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (a)(iii) for the words from “or maternity” to the end, there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , statutory paternity pay by virtue of section 171ZA or 171ZB of that Act *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] [^c9626691], statutory adoption pay by virtue of section 171ZL of that Act *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] [^c9626701], maternity allowance under section 35 of that Act *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] [^c9626711] or qualifying support, ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3];
+  - (iv (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (b) for “woman’s maternity leave” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ person’s maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3];
+  - (v) in sub-paragraph (b)(ii) and (iii) for “statutory maternity pay” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , qualifying support, statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+  - (vi (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (c) for the words from “in this” to “means” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
-    > in this paragraph— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+    > in this paragraph— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
     >
-    > - (i) “qualifying support” means income support to which that person is entitled by virtue of paragraph 14B of Schedule 1B of the Income Support (General) Regulations 1987; and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-    > - (ii (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] “tax credit” means *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+    > - (i) “qualifying support” means income support to which that person is entitled by virtue of paragraph 14B of Schedule 1B of the Income Support (General) Regulations 1987; and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+    > - (ii (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] “tax credit” means *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
     ;
 
-    and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-- (b) in paragraph (8)— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-  - (i) for “woman on maternity leave” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ person on maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-  - (ii (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] for “the maternity leave” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ such leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3].
+    and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+- (b) in paragraph (8)— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+  - (i) for “woman on maternity leave” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ person on maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+  - (ii (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] for “the maternity leave” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ such leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3].
 
-(5) In regulation 28(1) (earnings of employed earners) *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] [^c9626721]—
+(5) In regulation 28(1) (earnings of employed earners) *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] [^c9626721]—
 
-- (a) in sub-paragraph (i) for “or statutory maternity pay” there shall be substituted, *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-- (b) in sub-paragraph (j) after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3].
+- (a) in sub-paragraph (i) for “or statutory maternity pay” there shall be substituted, *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+- (b) in sub-paragraph (j) after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3].
 
-(6) In paragraph (3) of regulation 29 (calculation of net earnings of employed earners) *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] [^c9626731], in sub-paragraph (d), for “or statutory maternity pay” there shall be substituted, *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3].
+(6) In paragraph (3) of regulation 29 (calculation of net earnings of employed earners) *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] [^c9626731], in sub-paragraph (d), for “or statutory maternity pay” there shall be substituted, *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3].
 
 ## 5. Amendment of the Council Tax Benefit Regulations
 
-(1) The Council Tax Benefit Regulations shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+(1) The Council Tax Benefit Regulations shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
-(2) In regulation 2(1) (interpretation)— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+(2) In regulation 2(1) (interpretation)— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
-- (a) after the definition of “the Administration Act 1992” there shall be inserted the following definition— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+- (a) after the definition of “the Administration Act 1992” there shall be inserted the following definition— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
-  > “adoption leave” means a period of absence from work on ordinary or additional adoption leave by virtue of section 75A or 75B of the Employment Rights Act 1996; *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+  > “adoption leave” means a period of absence from work on ordinary or additional adoption leave by virtue of section 75A or 75B of the Employment Rights Act 1996; *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
   ;
 
-  and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-- (b) after the definition of “partner” there shall be inserted the following definition— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+  and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+- (b) after the definition of “partner” there shall be inserted the following definition— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
-  > “paternity leave” means a period of absence from work on leave by virtue of section 80A or 80B of the Employment Rights Act 1996; *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+  > “paternity leave” means a period of absence from work on leave by virtue of section 80A or 80B of the Employment Rights Act 1996; *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
   .
 
-(3) In regulation 4 (remunerative work), in paragraph (6) *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] [^c9626741] after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3].
+(3) In regulation 4 (remunerative work), in paragraph (6) *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] [^c9626741] after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3].
 
-(4) In regulation 13A (treatment of child care charges) *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] [^c9626751]—
+(4) In regulation 13A (treatment of child care charges) *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] [^c9626751]—
 
-- (a) in paragraph (7)— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-  - (i) in sub-paragraph (a) for “woman on maternity leave” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ person on maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3];
-  - (ii (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (a)(i) after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3];
-  - (iii (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (a)(iii) for the words from “or maternity” to the end, there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , statutory paternity pay by virtue of section 171ZA or 171ZB of that Act, statutory adoption pay by virtue of section 171ZL of that Act, maternity allowance under section 35 of that Act or qualifying support, ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3];
-  - (iv (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (b) for “woman’s maternity leave” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ person’s maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-  - (v) in sub-paragraph (b)(ii) and (iii) for “statutory maternity pay” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , qualifying support, statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-  - (vi (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (c) for the words from “in this” to “means” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+- (a) in paragraph (7)— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+  - (i) in sub-paragraph (a) for “woman on maternity leave” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ person on maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3];
+  - (ii (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (a)(i) after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3];
+  - (iii (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (a)(iii) for the words from “or maternity” to the end, there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , statutory paternity pay by virtue of section 171ZA or 171ZB of that Act, statutory adoption pay by virtue of section 171ZL of that Act, maternity allowance under section 35 of that Act or qualifying support, ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3];
+  - (iv (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (b) for “woman’s maternity leave” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ person’s maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+  - (v) in sub-paragraph (b)(ii) and (iii) for “statutory maternity pay” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , qualifying support, statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+  - (vi (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] in sub-paragraph (c) for the words from “in this” to “means” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
-    > in this paragraph— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+    > in this paragraph— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
     >
-    > - (i) “qualifying support” means income support to which that person is entitled by virtue of paragraph 14B of Schedule 1B of the Income Support (General) Regulations 1987; and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-    > - (ii (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] “tax credit” means *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
+    > - (i) “qualifying support” means income support to which that person is entitled by virtue of paragraph 14B of Schedule 1B of the Income Support (General) Regulations 1987; and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+    > - (ii (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] “tax credit” means *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
 
     ;
 
-    and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-- (b) in paragraph (8)— *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-  - (i) for “woman on maternity leave” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ person on maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-  - (ii (affected by repeal, see note))[^key-90587b8d14b6a761006eb5d991daeca3] for “the maternity leave” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ such leave ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3].
+    and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+- (b) in paragraph (8)— *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+  - (i) for “woman on maternity leave” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ person on maternity leave, paternity leave or adoption leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+  - (ii (affected by repeal, see note))[^c-90587b8d14b6a761006eb5d991daeca3] for “the maternity leave” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ such leave ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3].
 
-(5) In regulation 19(1) (earnings of employed earners) *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] [^c9626761]—
+(5) In regulation 19(1) (earnings of employed earners) *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] [^c9626761]—
 
-- (a) in sub-paragraph (i) for “or statutory maternity pay” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3]
-- (b) in sub-paragraph (j) after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave, ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3].
+- (a) in sub-paragraph (i) for “or statutory maternity pay” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]; and *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3]
+- (b) in sub-paragraph (j) after “maternity leave” there shall be inserted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , paternity leave or adoption leave, ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3].
 
-(6) In paragraph (3) of regulation 20 (calculation of net earnings of employed earners) *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] [^c9626771], in sub-paragraph (d), for “or statutory maternity pay” there shall be substituted *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3] “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^key-90587b8d14b6a761006eb5d991daeca3].
+(6) In paragraph (3) of regulation 20 (calculation of net earnings of employed earners) *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] [^c9626771], in sub-paragraph (d), for “or statutory maternity pay” there shall be substituted *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3] “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ” *(affected by repeal, see note)*[^c-90587b8d14b6a761006eb5d991daeca3].
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -283,7 +283,7 @@ These Regulations do not impose a charge on business.
 
 [^c9626491]: Marginal citation: [2002 c. 22](https://www.legislation.gov.uk/ukpga/2002/22).
 
-[^key-8bac0735c7a0b3ad2e53a295d1a3e251]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2689/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-8bac0735c7a0b3ad2e53a295d1a3e251]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2689/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c9626501]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814).
 
@@ -319,7 +319,7 @@ These Regulations do not impose a charge on business.
 
 [^c9626661]: Marginal citation: [Regulation 3E](https://www.legislation.gov.uk/uksi/2002/2689/regulation/3E) was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
 
-[^key-90587b8d14b6a761006eb5d991daeca3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/2689/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-90587b8d14b6a761006eb5d991daeca3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/2689/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c9626671]: Marginal citation: Paragraph (6) was inserted in regulation 4 by [S.I. 1993/2118](https://www.legislation.gov.uk/uksi/1993/2118).
 

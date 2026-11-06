@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4AA. Acquisition by registration: Irish citizens[^key-e0f9bfc39a7a3ce51a38bc064c6f30e4]
+## 4AA. Acquisition by registration: Irish citizens[^c-e0f9bfc39a7a3ce51a38bc064c6f30e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,10 +35,10 @@ summary: ''
 
 (3) If in the special circumstances of a particular case the Secretary of State thinks fit, the Secretary of State may treat the person as satisfying a requirement specified in subsection (2), even if they did not in fact satisfy the requirement.
 
-(4)[^key-352bd3bb7fb9ee6f0bfde9c0a57d8bdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-352bd3bb7fb9ee6f0bfde9c0a57d8bdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e0f9bfc39a7a3ce51a38bc064c6f30e4]: Textual amendment: [S. 4AA](https://www.legislation.gov.uk/ukpga/1981/61/section/4AA) inserted (22.7.2025) by [British Nationality (Irish Citizens) Act 2024 (c. 19)](https://www.legislation.gov.uk/ukpga/2024/19), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2024/19/section/1/2), [2(3)](https://www.legislation.gov.uk/ukpga/2024/19/section/2/3); [S.I. 2025/787](https://www.legislation.gov.uk/uksi/2025/787), [reg. 2](https://www.legislation.gov.uk/uksi/2025/787/regulation/2)
+[^c-e0f9bfc39a7a3ce51a38bc064c6f30e4]: Textual amendment: [S. 4AA](https://www.legislation.gov.uk/ukpga/1981/61/section/4AA) inserted (22.7.2025) by [British Nationality (Irish Citizens) Act 2024 (c. 19)](https://www.legislation.gov.uk/ukpga/2024/19), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2024/19/section/1/2), [2(3)](https://www.legislation.gov.uk/ukpga/2024/19/section/2/3); [S.I. 2025/787](https://www.legislation.gov.uk/uksi/2025/787), [reg. 2](https://www.legislation.gov.uk/uksi/2025/787/regulation/2)
 
-[^key-352bd3bb7fb9ee6f0bfde9c0a57d8bdb]: Textual amendment: [S. 4AA(4)](https://www.legislation.gov.uk/ukpga/1981/61/section/4AA/4) omitted (2.12.2025) by virtue of [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 42(2)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/42/2/d), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-352bd3bb7fb9ee6f0bfde9c0a57d8bdb]: Textual amendment: [S. 4AA(4)](https://www.legislation.gov.uk/ukpga/1981/61/section/4AA/4) omitted (2.12.2025) by virtue of [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 42(2)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/42/2/d), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

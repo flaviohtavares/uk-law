@@ -73,35 +73,35 @@ As required by Article 9 of Regulation (EC) No. 178/2002 of the European Parlia
 
 (3) Unless indicated otherwise, any reference to a numbered Article is a reference to the Article so numbered in the EC Regulation.
 
-## 3. Offences, penalties and savings[^key-b5f60249e851d86d01b13ddf2ef5e0b1]
+## 3. Offences, penalties and savings[^c-b5f60249e851d86d01b13ddf2ef5e0b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement and competent authorities[^key-76771c134b1e4fdb648b26e6f6988dfc]
+## 4. Enforcement and competent authorities[^c-76771c134b1e4fdb648b26e6f6988dfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various sections of the Food Safety Act 1990[^key-4a55f1fb94236e8c996009e87ebd7417]
+## 5. Application of various sections of the Food Safety Act 1990[^c-4a55f1fb94236e8c996009e87ebd7417]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Condemnation of Food[^key-d8b4314fb8fba6b7f4dd72a6b4a7e0bf]
+## 6. Condemnation of Food[^c-d8b4314fb8fba6b7f4dd72a6b4a7e0bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Food Labelling Regulations[^key-9ffe849e0e4c641b4f871375d63a211a]
+## 7. Amendment of the Food Labelling Regulations[^c-9ffe849e0e4c641b4f871375d63a211a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Caseins and Caseinates Regulations 1985[^key-edeb07da207e8e055feb852c38a366cd]
+## 8. Amendment of the Caseins and Caseinates Regulations 1985[^c-edeb07da207e8e055feb852c38a366cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Fruit Juices and Fruit Nectars (England) Regulations 2003[^key-e5f1af9e17209701fb615e9e1315573e]
+## 9. Amendment of the Fruit Juices and Fruit Nectars (England) Regulations 2003[^c-e5f1af9e17209701fb615e9e1315573e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of the Novel Food and Novel Food Ingredients Regulations 1997[^key-929578517645cb11e7b1d71681c12084]
+## 10. Amendment of the Novel Food and Novel Food Ingredients Regulations 1997[^c-929578517645cb11e7b1d71681c12084]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -158,20 +158,20 @@ Department of Health
 
 [^c19996331]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-b5f60249e851d86d01b13ddf2ef5e0b1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/3235/regulation/3) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
+[^c-b5f60249e851d86d01b13ddf2ef5e0b1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/3235/regulation/3) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
 
-[^key-76771c134b1e4fdb648b26e6f6988dfc]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/3235/regulation/4) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
+[^c-76771c134b1e4fdb648b26e6f6988dfc]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/3235/regulation/4) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
 
-[^key-4a55f1fb94236e8c996009e87ebd7417]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/3235/regulation/5) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
+[^c-4a55f1fb94236e8c996009e87ebd7417]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/3235/regulation/5) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
 
-[^key-d8b4314fb8fba6b7f4dd72a6b4a7e0bf]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/3235/regulation/6) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
+[^c-d8b4314fb8fba6b7f4dd72a6b4a7e0bf]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/3235/regulation/6) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
 
-[^key-9ffe849e0e4c641b4f871375d63a211a]: Textual amendment: Reg. 7 revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 25
+[^c-9ffe849e0e4c641b4f871375d63a211a]: Textual amendment: Reg. 7 revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 25
 
-[^key-edeb07da207e8e055feb852c38a366cd]: Textual amendment: Reg. 8 revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
+[^c-edeb07da207e8e055feb852c38a366cd]: Textual amendment: Reg. 8 revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
 
-[^key-e5f1af9e17209701fb615e9e1315573e]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/3235/regulation/9) revoked (20.11.2013) by [The Fruit Juices and Fruit Nectars (England) Regulations 2013 (S.I. 2013/2775)](https://www.legislation.gov.uk/uksi/2013/2775), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2775/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2013/2775/regulation/20/2)
+[^c-e5f1af9e17209701fb615e9e1315573e]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/3235/regulation/9) revoked (20.11.2013) by [The Fruit Juices and Fruit Nectars (England) Regulations 2013 (S.I. 2013/2775)](https://www.legislation.gov.uk/uksi/2013/2775), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2775/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2013/2775/regulation/20/2)
 
-[^key-929578517645cb11e7b1d71681c12084]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/3235/regulation/10) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-929578517645cb11e7b1d71681c12084]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/3235/regulation/10) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c19996441]: Marginal citation: [S.I. 2008/3206](https://www.legislation.gov.uk/uksi/2008/3206).

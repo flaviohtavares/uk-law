@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1131A. Sections 1129 and 1131: secondary Class 1 NICS paid by company[^key-6de42b6935a6ef5664f834423c43fae7]
+## 1131A. Sections 1129 and 1131: secondary Class 1 NICS paid by company[^c-6de42b6935a6ef5664f834423c43fae7]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6de42b6935a6ef5664f834423c43fae7]: Textual amendment: [S. 1131A](https://www.legislation.gov.uk/ukpga/2009/4/section/1131A) inserted (with effect in accordance with Sch. 1 para. 28 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 23(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/23/4) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-6de42b6935a6ef5664f834423c43fae7]: Textual amendment: [S. 1131A](https://www.legislation.gov.uk/ukpga/2009/4/section/1131A) inserted (with effect in accordance with Sch. 1 para. 28 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 23(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/23/4) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))

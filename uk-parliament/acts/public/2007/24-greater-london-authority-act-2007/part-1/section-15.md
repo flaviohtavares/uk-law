@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Deemed component budget requirements for last old financial year[^key-2fa69d360005fb093983415d10619022]
+## 15. Deemed component budget requirements for last old financial year[^c-2fa69d360005fb093983415d10619022]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fa69d360005fb093983415d10619022]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/24/section/15) in force at 30.10.2007 by [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/a)
+[^c-2fa69d360005fb093983415d10619022]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/24/section/15) in force at 30.10.2007 by [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/a)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] enters, or is proposing to enter, into a contract with—
+(1) Where NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] enters, or is proposing to enter, into a contract with—
 
 - (a) a medical practitioner, that medical practitioner must be a general medical practitioner;
 - (b) two or more persons practising in partnership—
@@ -56,11 +56,11 @@ summary: ''
   - (ii) any corresponding list kept, at that date, by a Health Board or by the Northern Ireland Central Services Agency for the Health and Social Services in Northern Ireland; or
 - (b) employed as an assistant (other than as a trainee general practitioner) by such a medical practitioner.
 
-(6) In paragraph (4)(a), “**restricted services principal**” means a medical practitioner who provided general medical services limited to child health surveillance, contraceptive services, maternity medical services (except the services mentioned in regulation 3(4)(c) or (d))[^key-519d119ebaaa27d4f4e40cc92be56108] or minor surgery.
+(6) In paragraph (4)(a), “**restricted services principal**” means a medical practitioner who provided general medical services limited to child health surveillance, contraceptive services, maternity medical services (except the services mentioned in regulation 3(4)(c) or (d))[^c-519d119ebaaa27d4f4e40cc92be56108] or minor surgery.
 
 ## Annotations
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c22714381]: Marginal citation: [S.I. 1997/2817](https://www.legislation.gov.uk/uksi/1997/2817); as amended by [S.I. 1998/669](https://www.legislation.gov.uk/uksi/1998/669) and revoked by [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 
@@ -70,4 +70,4 @@ summary: ''
 
 [^c22714411]: Marginal citation: Family Health Services Authorities no longer exist. They were merged with Health Authorities in 1994. Health Authorities have now been abolished.
 
-[^key-519d119ebaaa27d4f4e40cc92be56108]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/5/6) inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/331/schedule/1/paragraph/3)
+[^c-519d119ebaaa27d4f4e40cc92be56108]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/5/6) inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/331/schedule/1/paragraph/3)

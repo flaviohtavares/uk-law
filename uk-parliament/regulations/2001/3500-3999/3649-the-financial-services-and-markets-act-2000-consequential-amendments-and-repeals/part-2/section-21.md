@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Investigation of share dealing[^key-f3f7c5aa26ff0094c9df6741b926199b]
+## 21. Investigation of share dealing[^c-f3f7c5aa26ff0094c9df6741b926199b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ In section 446 of the 1985 Act (investigation of share dealing)[^f00025], for su
 
 ## Annotations
 
-[^key-f3f7c5aa26ff0094c9df6741b926199b]: Commencement: Art. 21 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f3f7c5aa26ff0094c9df6741b926199b]: Commencement: Art. 21 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00025]: Footnote: Subsection (4) was amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), Schedule 16, paragraph 21.

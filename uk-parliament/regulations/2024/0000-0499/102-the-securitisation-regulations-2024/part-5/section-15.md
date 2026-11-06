@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Application for registration[^key-dc1cecf2f934070082655fa12bff71eb]
+## 15. Application for registration[^c-dc1cecf2f934070082655fa12bff71eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc1cecf2f934070082655fa12bff71eb]: Commencement: Reg. 15 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-dc1cecf2f934070082655fa12bff71eb]: Commencement: Reg. 15 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

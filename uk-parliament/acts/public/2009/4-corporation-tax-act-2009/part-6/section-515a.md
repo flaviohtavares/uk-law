@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 515A. Diminishing shared ownership arrangements: further provision in respect of refinancing[^key-128bcbe17f09b41fa1ed3afb7c87bf74]
+## 515A. Diminishing shared ownership arrangements: further provision in respect of refinancing[^c-128bcbe17f09b41fa1ed3afb7c87bf74]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the disposal of the asset mentioned in paragraph (a) and the acquisition of the 
 
 ## Annotations
 
-[^key-128bcbe17f09b41fa1ed3afb7c87bf74]: Textual amendment: [S. 515A](https://www.legislation.gov.uk/ukpga/2009/4/section/515A) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(9)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/9), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-128bcbe17f09b41fa1ed3afb7c87bf74]: Textual amendment: [S. 515A](https://www.legislation.gov.uk/ukpga/2009/4/section/515A) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(9)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/9), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)

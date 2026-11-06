@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Index of defined expressions[^key-a4c2a0ccf2664700fb5da4011feadf69]
+## 66. Index of defined expressions[^c-a4c2a0ccf2664700fb5da4011feadf69]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 20 contains an index of expressions defined or otherwise explained in t
 
 ## Annotations
 
-[^key-a4c2a0ccf2664700fb5da4011feadf69]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2013/11/section/66) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-a4c2a0ccf2664700fb5da4011feadf69]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2013/11/section/66) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

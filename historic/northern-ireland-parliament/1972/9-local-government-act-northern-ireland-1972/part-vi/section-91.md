@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Procedure, etc., for making bye-laws.[^c22006211][^key-422633b0ba57f192dc6c48eea13c91bf]
+## 91. Procedure, etc., for making bye-laws.[^c22006211][^c-422633b0ba57f192dc6c48eea13c91bf]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c22006211]: Modification: [Ss. 91-94](https://www.legislation.gov.uk/apni/1972/9/section/91) applied (with modifications) (9.6.2010) by [River Bann Navigation Order (Northern Ireland) 2010 (S.R. 2010/126)](https://www.legislation.gov.uk/nisr/2010/126), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2010/126/article/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2010/126/article/3/2)
 
-[^key-422633b0ba57f192dc6c48eea13c91bf]: Modification: [S. 91](https://www.legislation.gov.uk/apni/1972/9/section/91) applied (with modifications) (28.5.2014) by [The Local Government (Transitional, Supplementary, Incidental Provisions and Modifications) Regulations (Northern Ireland) 2014 (S.R. 2014/148)](https://www.legislation.gov.uk/nisr/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/148/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2014/148/regulation/3)
+[^c-422633b0ba57f192dc6c48eea13c91bf]: Modification: [S. 91](https://www.legislation.gov.uk/apni/1972/9/section/91) applied (with modifications) (28.5.2014) by [The Local Government (Transitional, Supplementary, Incidental Provisions and Modifications) Regulations (Northern Ireland) 2014 (S.R. 2014/148)](https://www.legislation.gov.uk/nisr/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/148/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2014/148/regulation/3)
 
 [^m00013]: Marginal citation: 1932 c.11

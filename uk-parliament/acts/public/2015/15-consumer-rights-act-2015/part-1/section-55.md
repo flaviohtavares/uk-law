@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Right to repeat performance[^key-88e28f7412cf339718bbe3c27f207716][^key-2662b0462b1a880e6d6e2c0e8ed84526]
+## 55. Right to repeat performance[^c-88e28f7412cf339718bbe3c27f207716][^c-2662b0462b1a880e6d6e2c0e8ed84526]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88e28f7412cf339718bbe3c27f207716]: Commencement: S. 55 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-88e28f7412cf339718bbe3c27f207716]: Commencement: S. 55 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-2662b0462b1a880e6d6e2c0e8ed84526]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2015/15/section/55) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))
+[^c-2662b0462b1a880e6d6e2c0e8ed84526]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2015/15/section/55) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))

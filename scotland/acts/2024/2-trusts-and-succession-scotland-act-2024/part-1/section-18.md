@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Power of investment[^key-a839b97cea127a125b2adfedee9973e8]
+## 18. Power of investment[^c-a839b97cea127a125b2adfedee9973e8]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ is not to be treated as restricting or excluding the power to act under subsecti
 
 ## Annotations
 
-[^key-a839b97cea127a125b2adfedee9973e8]: Commencement: S. 18 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-a839b97cea127a125b2adfedee9973e8]: Commencement: S. 18 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

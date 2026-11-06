@@ -22,15 +22,15 @@ summary: ''
 
 Section 50
 
-**1.**[^key-3ffb8f707bec04dc4ba624383e245c03] The New Towns Act 1981 (c. 64) is amended as follows.
+**1.**[^c-3ffb8f707bec04dc4ba624383e245c03] The New Towns Act 1981 (c. 64) is amended as follows.
 
-**2.**[^key-8fdbca6d102625bc69f5a5538aaf05a1] For the heading to Part 2 substitute “Transfers from and dissolution of development corporations etc.”.
+**2.**[^c-8fdbca6d102625bc69f5a5538aaf05a1] For the heading to Part 2 substitute “Transfers from and dissolution of development corporations etc.”.
 
-**3.**[^key-bd65638cf3b64ab717c5234ae7c65c56] For the italic heading before section 35 substitute “ Functions of Welsh Ministers in relation to certain transferred property ”.
+**3.**[^c-bd65638cf3b64ab717c5234ae7c65c56] For the italic heading before section 35 substitute “ Functions of Welsh Ministers in relation to certain transferred property ”.
 
-**4.**[^key-1640a80a12f22c93cf0f076b2e604d15] Omit section 35 (establishment of Commission for the New Towns).
+**4.**[^c-1640a80a12f22c93cf0f076b2e604d15] Omit section 35 (establishment of Commission for the New Towns).
 
-**5.**[^key-983585a585eb1c06a89337a029fccb08] (1) Section 36 (functions of Commission) is amended as follows.
+**5.**[^c-983585a585eb1c06a89337a029fccb08] (1) Section 36 (functions of Commission) is amended as follows.
 
 (2) For the heading substitute “Functions of Welsh Ministers”.
 
@@ -55,9 +55,9 @@ Section 50
 
 (6) In subsection (4A)(a) for “Commission by order under section 165B” substitute “ Welsh Ministers by order under section 165A ”.
 
-**6.**[^key-0ae8bda5852650da5850a49fe0da4206] Omit sections 37 (restrictions on functions of Commission) and 38 (local authorities and work for the Commission).
+**6.**[^c-0ae8bda5852650da5850a49fe0da4206] Omit sections 37 (restrictions on functions of Commission) and 38 (local authorities and work for the Commission).
 
-**7.**[^key-55d3498db3221fda61f4d248d98640e7] (1) Section 39 (power of development corporations to transfer undertakings) is amended as follows.
+**7.**[^c-55d3498db3221fda61f4d248d98640e7] (1) Section 39 (power of development corporations to transfer undertakings) is amended as follows.
 
 (2) In subsection (1) for “Secretary of State” substitute “ appropriate national authority ”.
 
@@ -84,7 +84,7 @@ Section 50
 > - (a) by the Secretary of State unless a draft of the order has been laid before, and approved by a resolution of, the House of Commons;
 > - (b) by the Welsh Ministers unless a draft of the order has been laid before, and approved by a resolution of, the National Assembly for Wales.
 
-**8.**[^key-ac7a81467eee381fbf20494a6cb12b7a] (1) Section 41 (transfer of property to Commission and dissolution of corporation) is amended as follows.
+**8.**[^c-ac7a81467eee381fbf20494a6cb12b7a] (1) Section 41 (transfer of property to Commission and dissolution of corporation) is amended as follows.
 
 (2) In the heading, omit “to Commission”.
 
@@ -107,7 +107,7 @@ Section 50
 
 (7) In subsection (5) for “Commission” substitute “ relevant transferee ”.
 
-**9.**[^key-6017b33b44a2c959f6d43367bcbcf9db] After section 41 insert—
+**9.**[^c-6017b33b44a2c959f6d43367bcbcf9db] After section 41 insert—
 
 > **41A. Part 2: interpretation**
 >
@@ -120,19 +120,19 @@ Section 50
 >   - (a) in relation to an order made under section 41 by the Secretary of State, means the Homes and Communities Agency; and
 >   - (b) in relation to an order made under section 41 by the Welsh Ministers, means the Welsh Ministers.
 
-**10.**[^key-24ca34ec067ddea7717face3a8a0e09b] (1) Section 58 (advances to development corporations and Commission) is amended as follows.
+**10.**[^c-24ca34ec067ddea7717face3a8a0e09b] (1) Section 58 (advances to development corporations and Commission) is amended as follows.
 
 (2) In the heading, omit “and Commission”.
 
 (3) Omit subsections (5) and (6).
 
-**11.**[^key-89259fc88700ea7011d1449e5f1b259d] (1) Section 58A (grants to development corporations and Commission) is amended as follows.
+**11.**[^c-89259fc88700ea7011d1449e5f1b259d] (1) Section 58A (grants to development corporations and Commission) is amended as follows.
 
 (2) In the heading, omit “and Commission”.
 
 (3) Omit subsections (4) and (5).
 
-**12.**[^key-1c6af13ad18584f473a513b5457314f0] (1) Section 59 (other borrowing powers of development corporations and Commission) is amended as follows.
+**12.**[^c-1c6af13ad18584f473a513b5457314f0] (1) Section 59 (other borrowing powers of development corporations and Commission) is amended as follows.
 
 (2) In the heading, omit “and Commission”.
 
@@ -146,7 +146,7 @@ Section 50
 - (a) omit “or the Commission”, and
 - (b) for “they may require for enabling them” substitute “ it may require for enabling it. ”
 
-**13.**[^key-f7f488324be3604060ac026e0aada171] (1) Section 60 (limit on borrowing by development corporations and Commission) is amended as follows.
+**13.**[^c-f7f488324be3604060ac026e0aada171] (1) Section 60 (limit on borrowing by development corporations and Commission) is amended as follows.
 
 (2) In the heading, omit “and Commission”.
 
@@ -159,39 +159,39 @@ Section 50
 
 (4) Omit subsection (4).
 
-**14.**[^key-3cab1eca9741c9e9e0a763cf6d22e452] (1) Section 61 (provisions supplemental to section 58) is amended as follows.
+**14.**[^c-3cab1eca9741c9e9e0a763cf6d22e452] (1) Section 61 (provisions supplemental to section 58) is amended as follows.
 
 (2) In subsection (1) for from the beginning of paragraph (a) to the end of paragraph (b) substitute “ to a development corporation under section 58(1) above ”.
 
 (3) In subsection (2) omit “, (5) or (6)”.
 
-**15.**[^key-53e1602907b1ea33675e56085256e2d6] (1) Section 62 (Treasury guarantees) is amended as follows.
+**15.**[^c-53e1602907b1ea33675e56085256e2d6] (1) Section 62 (Treasury guarantees) is amended as follows.
 
 (2) In subsection (1) for “or the Commission borrow” substitute “ borrows ”.
 
 (3) In subsection (5) for the words from “or by the Commission” to “(as the case may be)” substitute “ , the corporation ”.
 
-**16.**[^key-76ad4439fe82ae55ded4c9e1eadf471a] Omit section 62B (power to suspend loan obligations of development corporations and Commission).
+**16.**[^c-76ad4439fe82ae55ded4c9e1eadf471a] Omit section 62B (power to suspend loan obligations of development corporations and Commission).
 
-**17.**[^key-26bccc47f51a7556f2da46adb06a6405] (1) Section 63 (Secretary of State's general power) is amended as follows.
+**17.**[^c-26bccc47f51a7556f2da46adb06a6405] (1) Section 63 (Secretary of State's general power) is amended as follows.
 
 (2) In subsection (1) omit “or the Commission”.
 
 (3) In subsection (2) omit “or the Commission, as the case may be”.
 
-**18.**[^key-207f3aa87263b093472ffce2b8d85035] (1) Section 65 (disposal of surplus funds) is amended as follows.
+**18.**[^c-207f3aa87263b093472ffce2b8d85035] (1) Section 65 (disposal of surplus funds) is amended as follows.
 
 (2) In subsection (1) for the words from “, and with the Commission” to the end substitute “ and any development corporation, that the corporation has a surplus whether on capital or on revenue account after making allowance by way of transfer to reserve or otherwise for its future requirements ”.
 
 (3) In subsection (2) for “The Commission or that corporation, as the case may be,” substitute “ That corporation ”.
 
-**19.**[^key-94c1f232c7f6028a8966783dc1b5ffac] In section 66(1) (payments under sections 63 and 65 treated as repayments) for paragraph (a) and the “and” following it substitute—
+**19.**[^c-94c1f232c7f6028a8966783dc1b5ffac] In section 66(1) (payments under sections 63 and 65 treated as repayments) for paragraph (a) and the “and” following it substitute—
 
 > - (a) as made by way of repayment of such part of the principal of advances under section 58(1) above, and
 
 .
 
-**20.**[^key-d3b66ae068e5de7c913bd34da164aa16] (1) Section 67 (accounts of Commission and development corporations) is amended as follows.
+**20.**[^c-d3b66ae068e5de7c913bd34da164aa16] (1) Section 67 (accounts of Commission and development corporations) is amended as follows.
 
 (2) In the heading, omit “Commission and”.
 
@@ -213,7 +213,7 @@ Section 50
 - (a) omit “the Commission or”, and
 - (b) in paragraph (a), for “they are” substitute “ it is ”.
 
-**21.**[^key-1ce291077fcfdfef321836d74cf93adf] (1) Section 68 (audit) is amended as follows.
+**21.**[^c-1ce291077fcfdfef321836d74cf93adf] (1) Section 68 (audit) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -228,7 +228,7 @@ Section 50
 - (b) for “Commission or corporation, as the case may be,” substitute “ corporation ”, and
 - (c) for “them” substitute “ it ”.
 
-**22.**[^key-5aa0c68fdc0b09a7de6bd335e5a72624] (1) Section 69 (Secretary of State's accounts) is amended as follows.
+**22.**[^c-5aa0c68fdc0b09a7de6bd335e5a72624] (1) Section 69 (Secretary of State's accounts) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -237,13 +237,13 @@ Section 50
 
 (3) In subsection (2), omit paragraph (a) and the “and” following it.
 
-**23.**[^key-07f3ad4cc57ba4c0f6fd14c636b6af8b] (1) Section 70 (reports) is amended as follows.
+**23.**[^c-07f3ad4cc57ba4c0f6fd14c636b6af8b] (1) Section 70 (reports) is amended as follows.
 
 (2) Omit paragraph (a).
 
 (3) Omit “of the Commission or”.
 
-**24.**[^key-44b6d6364f4db9965c1b993173b4dba3] (1) Section 71 (information) is amended as follows.
+**24.**[^c-44b6d6364f4db9965c1b993173b4dba3] (1) Section 71 (information) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -255,25 +255,25 @@ Section 50
 - (a) omit “the Commission and”, and
 - (b) in paragraph (a), for “Commission or corporation, as the case may be” substitute “ corporation ”.
 
-**25.**[^key-fabb4e433caf429739b6fc00101dac9a] In section 72(1)(a) (application and exclusion of certain enactments: section 12 of the Finance Act 1895 (c. 16)) omit “or from the Commission”.
+**25.**[^c-fabb4e433caf429739b6fc00101dac9a] In section 72(1)(a) (application and exclusion of certain enactments: section 12 of the Finance Act 1895 (c. 16)) omit “or from the Commission”.
 
-**26.**[^key-79fe559dddff641051d7eb3236adb7be] In section 74(3) (local inquiries) for “sections 37, 40 and 41” substitute “ sections 40 and 41 ”.
+**26.**[^c-79fe559dddff641051d7eb3236adb7be] In section 74(3) (local inquiries) for “sections 37, 40 and 41” substitute “ sections 40 and 41 ”.
 
-**27.**[^key-9621c81df25c636deebc22885e535278] In section 77(3) (regulations and orders to be made by statutory instrument) omit “and paragraph 7 of Schedule 9 to this Act”.
+**27.**[^c-9621c81df25c636deebc22885e535278] In section 77(3) (regulations and orders to be made by statutory instrument) omit “and paragraph 7 of Schedule 9 to this Act”.
 
-**28.**[^key-a9c2e7e1ec1a9723525dd09dabba7d1b] In section 80(1) (general interpretation provisions)—
+**28.**[^c-a9c2e7e1ec1a9723525dd09dabba7d1b] In section 80(1) (general interpretation provisions)—
 
 - (a) omit the definition of “the Commission”, and
 - (b) in the definition of “financial year”, omit “or the Commission”.
 
-**29.**[^key-f8a5e3746b8bc138921b6558a53338d4] In section 82 (short title, extent and commencement)—
+**29.**[^c-f8a5e3746b8bc138921b6558a53338d4] In section 82 (short title, extent and commencement)—
 
 - (a) in subsection (2)(c) for “1, 2 and 12” substitute “ 1 and 2 ”, and
 - (b) in subsection (3) omit “paragraph 12 of Schedule 11, and”.
 
-**30.**[^key-3a21e1a7a7403c900deba86f3f36c99c] Omit Schedule 9 (additional provisions as to the Commission).
+**30.**[^c-3a21e1a7a7403c900deba86f3f36c99c] Omit Schedule 9 (additional provisions as to the Commission).
 
-**31.**[^key-9b12b0986fb99794c9c941ed82464c1c] (1) Schedule 10 (additional provisions as to transfer to Commission of property of development corporation) is amended as follows.
+**31.**[^c-9b12b0986fb99794c9c941ed82464c1c] (1) Schedule 10 (additional provisions as to transfer to Commission of property of development corporation) is amended as follows.
 
 (2) In the heading, omit “to Commission”.
 
@@ -319,7 +319,7 @@ Section 50
   > - (a) section 61(2); and
   > - (b) section 66(1) but as if the reference to any payment under section 63 or 65 above were a reference to any sum received by the Secretary of State under section 25(2) of the Housing and Regeneration Act 2008.
 
-**32.**[^key-1f980d2a311fb8965256671e766c9c10] (1) Schedule 11 (saving and transitional provisions) is amended as follows.
+**32.**[^c-1f980d2a311fb8965256671e766c9c10] (1) Schedule 11 (saving and transitional provisions) is amended as follows.
 
 (2) In the italic heading before paragraph 3, omit “to Commission and”.
 
@@ -329,66 +329,66 @@ Section 50
 
 ## Annotations
 
-[^key-3ffb8f707bec04dc4ba624383e245c03]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/1) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-3ffb8f707bec04dc4ba624383e245c03]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/1) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-8fdbca6d102625bc69f5a5538aaf05a1]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/2) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-8fdbca6d102625bc69f5a5538aaf05a1]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/2) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-bd65638cf3b64ab717c5234ae7c65c56]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/3) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-bd65638cf3b64ab717c5234ae7c65c56]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/3) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-1640a80a12f22c93cf0f076b2e604d15]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/4) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-1640a80a12f22c93cf0f076b2e604d15]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/4) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-983585a585eb1c06a89337a029fccb08]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/5) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-983585a585eb1c06a89337a029fccb08]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/5) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-0ae8bda5852650da5850a49fe0da4206]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/6) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-0ae8bda5852650da5850a49fe0da4206]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/6) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-55d3498db3221fda61f4d248d98640e7]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/7) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-55d3498db3221fda61f4d248d98640e7]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/7) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-ac7a81467eee381fbf20494a6cb12b7a]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/8) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-ac7a81467eee381fbf20494a6cb12b7a]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/8) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-6017b33b44a2c959f6d43367bcbcf9db]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/9) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-6017b33b44a2c959f6d43367bcbcf9db]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/9) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-24ca34ec067ddea7717face3a8a0e09b]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/10) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-24ca34ec067ddea7717face3a8a0e09b]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/10) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-89259fc88700ea7011d1449e5f1b259d]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/11) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-89259fc88700ea7011d1449e5f1b259d]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/11) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-1c6af13ad18584f473a513b5457314f0]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/12) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-1c6af13ad18584f473a513b5457314f0]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/12) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-f7f488324be3604060ac026e0aada171]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/13) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-f7f488324be3604060ac026e0aada171]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/13) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-3cab1eca9741c9e9e0a763cf6d22e452]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/14) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-3cab1eca9741c9e9e0a763cf6d22e452]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/14) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-53e1602907b1ea33675e56085256e2d6]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/15) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-53e1602907b1ea33675e56085256e2d6]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/15) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-76ad4439fe82ae55ded4c9e1eadf471a]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/16) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-76ad4439fe82ae55ded4c9e1eadf471a]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/16) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-26bccc47f51a7556f2da46adb06a6405]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/17) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-26bccc47f51a7556f2da46adb06a6405]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/17) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-207f3aa87263b093472ffce2b8d85035]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/18) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-207f3aa87263b093472ffce2b8d85035]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/18) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-94c1f232c7f6028a8966783dc1b5ffac]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/19) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-94c1f232c7f6028a8966783dc1b5ffac]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/19) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-d3b66ae068e5de7c913bd34da164aa16]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/20) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-d3b66ae068e5de7c913bd34da164aa16]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/20) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-1ce291077fcfdfef321836d74cf93adf]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/21) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-1ce291077fcfdfef321836d74cf93adf]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/21) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-5aa0c68fdc0b09a7de6bd335e5a72624]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/22) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-5aa0c68fdc0b09a7de6bd335e5a72624]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/22) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-07f3ad4cc57ba4c0f6fd14c636b6af8b]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/23) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-07f3ad4cc57ba4c0f6fd14c636b6af8b]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/23) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-44b6d6364f4db9965c1b993173b4dba3]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/24) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-44b6d6364f4db9965c1b993173b4dba3]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/24) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-fabb4e433caf429739b6fc00101dac9a]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/25) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-fabb4e433caf429739b6fc00101dac9a]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/25) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-79fe559dddff641051d7eb3236adb7be]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/26) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-79fe559dddff641051d7eb3236adb7be]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/26) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-9621c81df25c636deebc22885e535278]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/27) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-9621c81df25c636deebc22885e535278]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/27) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-a9c2e7e1ec1a9723525dd09dabba7d1b]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/28) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-a9c2e7e1ec1a9723525dd09dabba7d1b]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/28) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-f8a5e3746b8bc138921b6558a53338d4]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/29) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-f8a5e3746b8bc138921b6558a53338d4]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/29) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-3a21e1a7a7403c900deba86f3f36c99c]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/30) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-3a21e1a7a7403c900deba86f3f36c99c]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/30) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
 
-[^key-9b12b0986fb99794c9c941ed82464c1c]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/31) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-9b12b0986fb99794c9c941ed82464c1c]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/31) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-1f980d2a311fb8965256671e766c9c10]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/32) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)
+[^c-1f980d2a311fb8965256671e766c9c10]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/32) in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25C. Appointments to regulatory bodies[^key-2cec4e028a6d928e655e62fb8e49077f]
+## 25C. Appointments to regulatory bodies[^c-2cec4e028a6d928e655e62fb8e49077f]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (6) The Department of Health, Social Services and Public Safety in Northern Ireland may make arrangements for the Authority to assist the Department in connection with its exercise of its function under that paragraph.
 
-(7) In this section, “**regulatory body**” does not include the Pharmaceutical Society of Northern Ireland or Social Work England[^key-65dfb90714c50046f39448f101e417bf].
+(7) In this section, “**regulatory body**” does not include the Pharmaceutical Society of Northern Ireland or Social Work England[^c-65dfb90714c50046f39448f101e417bf].
 
 (8) In this section, “**appointment functions**” means—
 
@@ -49,14 +49,14 @@ summary: ''
 - (e) in relation to the General Chiropractic Council, the function under paragraph 1A(2) of Schedule 1 to the Chiropractors Act 1994 and such functions as the Privy Council has by virtue of paragraph 1B(1)(b) or (d) of that Schedule (corresponding functions in relation to that Council),
 - (f) in relation to the General Pharmaceutical Council, the function under paragraph 1(2) of Schedule 1 to the Pharmacy Order 2010 (S.I. 2010/231) and such functions as the Privy Council from time to time has by virtue of paragraph 2(1)(b) or (d) of that Schedule (corresponding functions in relation to that Council),
 - (g) in relation to the Nursing and Midwifery Council, the function under paragraph 1A(2) of Schedule 1 to the Nursing and Midwifery Order 2001 (S.I. 2002/253) and such functions as the Privy Council from time to time has by virtue of paragraph 1B(1)(b) or (d) of that Schedule (corresponding functions in relation to that Council), and
-- (h) in relation to the Health and Care Professions Council, the function under paragraph 1(2) of Schedule 1 to the Health Professions Order 2001[^key-33ff4ccc03e2a11a14cbf0346bc7cdef] (S.I. 2002/254) and such functions as the Privy Council from time to time has by virtue of paragraph 1B(1)(b) or (d) of that Schedule (corresponding functions in relation to that Council).
+- (h) in relation to the Health and Care Professions Council, the function under paragraph 1(2) of Schedule 1 to the Health Professions Order 2001[^c-33ff4ccc03e2a11a14cbf0346bc7cdef] (S.I. 2002/254) and such functions as the Privy Council from time to time has by virtue of paragraph 1B(1)(b) or (d) of that Schedule (corresponding functions in relation to that Council).
 
 (9) A reference to assisting in connection with the exercise of a function does not include a reference to exercising the function.
 
 ## Annotations
 
-[^key-2cec4e028a6d928e655e62fb8e49077f]: Textual amendment: S. 25C inserted (1.7.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 227](https://www.legislation.gov.uk/ukpga/2012/7/section/227), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/1319/article/3))
+[^c-2cec4e028a6d928e655e62fb8e49077f]: Textual amendment: S. 25C inserted (1.7.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 227](https://www.legislation.gov.uk/ukpga/2012/7/section/227), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/1319/article/3))
 
-[^key-65dfb90714c50046f39448f101e417bf]: Textual amendment: Words in [s. 25C(7)](https://www.legislation.gov.uk/ukpga/2002/17/section/25C/7) inserted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2017/16/schedule/4/paragraph/5); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/r)
+[^c-65dfb90714c50046f39448f101e417bf]: Textual amendment: Words in [s. 25C(7)](https://www.legislation.gov.uk/ukpga/2002/17/section/25C/7) inserted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2017/16/schedule/4/paragraph/5); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/r)
 
-[^key-33ff4ccc03e2a11a14cbf0346bc7cdef]: Textual amendment: Words in [s. 25C(8)(h)](https://www.legislation.gov.uk/ukpga/2002/17/section/25C/8/h) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 47(i)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/47/i); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-33ff4ccc03e2a11a14cbf0346bc7cdef]: Textual amendment: Words in [s. 25C(8)(h)](https://www.legislation.gov.uk/ukpga/2002/17/section/25C/8/h) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 47(i)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/47/i); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)

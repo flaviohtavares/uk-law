@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Income reduction orders[^key-3c2298a63d29ccd2edf880abe152f394]
+## 3. Income reduction orders[^c-3c2298a63d29ccd2edf880abe152f394]
 
 *Extent: E+W*
 
@@ -177,4 +177,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c2298a63d29ccd2edf880abe152f394]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
+[^c-3c2298a63d29ccd2edf880abe152f394]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)

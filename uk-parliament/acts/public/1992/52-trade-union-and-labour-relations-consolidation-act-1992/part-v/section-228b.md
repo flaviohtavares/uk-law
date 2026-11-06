@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228B. Conduct of ballot[^key-5dffbf7c38ce9fab2d35ec29b300708e]
+## 228B. Conduct of ballot[^c-5dffbf7c38ce9fab2d35ec29b300708e]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ For the purposes of paragraph (b) an inaccuracy in counting must be disregarded 
 
 ## Annotations
 
-[^key-5dffbf7c38ce9fab2d35ec29b300708e]: Textual amendment: Ss. 228B, 228C inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(7)](https://www.legislation.gov.uk/uksi/2026/881/article/7/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-5dffbf7c38ce9fab2d35ec29b300708e]: Textual amendment: Ss. 228B, 228C inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(7)](https://www.legislation.gov.uk/uksi/2026/881/article/7/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

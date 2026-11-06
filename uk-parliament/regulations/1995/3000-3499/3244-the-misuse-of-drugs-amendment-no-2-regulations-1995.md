@@ -26,7 +26,7 @@ summary: ''
 
 DANGEROUS DRUGS
 
-The Misuse of Drugs (Amendment) (No. 2) Regulations 1995 (revoked)[^key-b70940d1d1d0ce98e08c1ee6a5b7e8af]
+The Misuse of Drugs (Amendment) (No. 2) Regulations 1995 (revoked)[^c-b70940d1d1d0ce98e08c1ee6a5b7e8af]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into force
 
 15th January 1996
 
-[^key-b70940d1d1d0ce98e08c1ee6a5b7e8af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b70940d1d1d0ce98e08c1ee6a5b7e8af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b70940d1d1d0ce98e08c1ee6a5b7e8af]
+## 1. Citation and commencement[^c-b70940d1d1d0ce98e08c1ee6a5b7e8af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Misuse of Drugs Regulations 1985[^key-b70940d1d1d0ce98e08c1ee6a5b7e8af]
+## 2. Amendment of Misuse of Drugs Regulations 1985[^c-b70940d1d1d0ce98e08c1ee6a5b7e8af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-b70940d1d1d0ce98e08c1ee6a5b7e8af]
+## 3. Transitional provision[^c-b70940d1d1d0ce98e08c1ee6a5b7e8af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b70940d1d1d0ce98e08c1ee6a5b7e8af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b70940d1d1d0ce98e08c1ee6a5b7e8af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b70940d1d1d0ce98e08c1ee6a5b7e8af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b70940d1d1d0ce98e08c1ee6a5b7e8af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b70940d1d1d0ce98e08c1ee6a5b7e8af]: Textual amendment: Regulations revoked (1.2.2002) by [The Misuse of Drugs Regulations 2001 (S.I. 2001/3998)](https://www.legislation.gov.uk/uksi/2001/3998), [Sch. 7](https://www.legislation.gov.uk/uksi/2001/3998/schedule/7) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2001/3998/regulation/2/3)); \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-b70940d1d1d0ce98e08c1ee6a5b7e8af]: Textual amendment: Regulations revoked (1.2.2002) by [The Misuse of Drugs Regulations 2001 (S.I. 2001/3998)](https://www.legislation.gov.uk/uksi/2001/3998), [Sch. 7](https://www.legislation.gov.uk/uksi/2001/3998/schedule/7) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2001/3998/regulation/2/3)); \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Power to make payments etc. from income[^key-ff3ea387532b47ccb88a7d7b425443b3]
+## 28. Power to make payments etc. from income[^c-ff3ea387532b47ccb88a7d7b425443b3]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff3ea387532b47ccb88a7d7b425443b3]: Commencement: S. 28 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-ff3ea387532b47ccb88a7d7b425443b3]: Commencement: S. 28 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-aa365d7d6370cb4b1f49112366890ee1]
+## 1. Citation and commencement[^c-aa365d7d6370cb4b1f49112366890ee1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Occupational Pension Schemes (Collective M
 
 ## Annotations
 
-[^key-aa365d7d6370cb4b1f49112366890ee1]: Commencement: Reg. 1 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-aa365d7d6370cb4b1f49112366890ee1]: Commencement: Reg. 1 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

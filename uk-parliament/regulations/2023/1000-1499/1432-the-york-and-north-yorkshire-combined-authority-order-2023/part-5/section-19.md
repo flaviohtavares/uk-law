@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Apparatus affected by highway, bridge or transport works[^key-ba7b5fbf2b56c255129cf4a88aadb405]
+## 19. Apparatus affected by highway, bridge or transport works[^c-ba7b5fbf2b56c255129cf4a88aadb405]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ba7b5fbf2b56c255129cf4a88aadb405]: Commencement: Art. 19 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-ba7b5fbf2b56c255129cf4a88aadb405]: Commencement: Art. 19 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00070]: Footnote: Section 83 was amended by section 40 of, and Schedule 1 to the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
 

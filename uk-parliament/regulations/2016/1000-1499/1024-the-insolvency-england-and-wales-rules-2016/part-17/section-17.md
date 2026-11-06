@@ -77,7 +77,7 @@ In addition to any functions conferred on a committee by any provision of the Ac
 
 *Extent: E+W*
 
-(1) Where the creditors, or where applicable, contributories, decide that a creditors' or liquidation committee should be established, the convener or chair of the decision procedure or convener of the deemed consent process[^key-1c56c792b04c1321a692af4fd1a149bf] (if not the office-holder) must—
+(1) Where the creditors, or where applicable, contributories, decide that a creditors' or liquidation committee should be established, the convener or chair of the decision procedure or convener of the deemed consent process[^c-1c56c792b04c1321a692af4fd1a149bf] (if not the office-holder) must—
 
 - (a) as soon as reasonably practicable deliver a notice of the decision to the office-holder (or to the person appointed as office-holder); and
 - (b) where a decision has also been made as to membership of the committee, inform the office-holder of the names and addresses of the persons elected to be members of the committee.
@@ -88,7 +88,7 @@ In addition to any functions conferred on a committee by any provision of the Ac
 
 (4) Where a decision has been made to establish a committee but not as to its membership, the office-holder must seek a decision from the creditors (about creditor members of the committee) and, where appropriate in a winding up by the court, a decision from contributories (about contributory members of the committee).
 
-(5)[^key-c0c18cc39815c50a0d67fa143b84ea3b] The committee is not established (and accordingly cannot act) until the office-holder has sent a notice of its membership in order to comply with paragraph (9) or (10).
+(5)[^c-c0c18cc39815c50a0d67fa143b84ea3b] The committee is not established (and accordingly cannot act) until the office-holder has sent a notice of its membership in order to comply with paragraph (9) or (10).
 
 (6) The notice must contain the following—
 
@@ -510,9 +510,9 @@ A meeting of a committee is duly constituted if due notice of it has been delive
 
 [^c23177591]: Marginal citation: In section 141 subsections (1) to (3C) were substituted by paragraph 36 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-1c56c792b04c1321a692af4fd1a149bf]: Textual amendment: Words in [rule 17.5(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/17.5/1) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2017/1115/rule/11/2)
+[^c-1c56c792b04c1321a692af4fd1a149bf]: Textual amendment: Words in [rule 17.5(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/17.5/1) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2017/1115/rule/11/2)
 
-[^key-c0c18cc39815c50a0d67fa143b84ea3b]: Textual amendment: [Rule 17.5(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/17.5/5) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2017/1115/rule/11/3)
+[^c-c0c18cc39815c50a0d67fa143b84ea3b]: Textual amendment: [Rule 17.5(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/17.5/5) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2017/1115/rule/11/3)
 
 [^c23177601]: Marginal citation: Paragraph 79(2)(c) is amended by paragraph 10(29) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 

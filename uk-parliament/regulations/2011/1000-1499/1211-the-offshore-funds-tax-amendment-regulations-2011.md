@@ -52,7 +52,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and effect[^key-a347e70c0872d7e379c33a021f836c26]
+### 1. Citation, commencement and effect[^c-a347e70c0872d7e379c33a021f836c26]
 
 (1) These Regulations may be cited as the Offshore Funds (Tax) (Amendment) Regulations 2011 and shall come into force on 27th May 2011.
 
@@ -66,11 +66,11 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 This is subject to regulation 16(1).
 
-### 2. Amendment of the Offshore Funds (Tax) Regulations 2009[^key-f32dd3898e79801e45d85c94448810cd]
+### 2. Amendment of the Offshore Funds (Tax) Regulations 2009[^c-f32dd3898e79801e45d85c94448810cd]
 
 The Offshore Funds (Tax) Regulations 2009[^f00002] (“the principal Regulations”) are amended as follows.
 
-### 3. Structure of these Regulations and interpretation[^key-6c4200dbda069163d1c7db2b50cb0d1c]
+### 3. Structure of these Regulations and interpretation[^c-6c4200dbda069163d1c7db2b50cb0d1c]
 
 (1) The structure of these Regulations is as follows—
 
@@ -92,14 +92,14 @@ The Offshore Funds (Tax) Regulations 2009[^f00002] (“the principal Regulations
 
 #### Introduction and amendments to principal Regulations
 
-##### 4. Introduction[^key-1a3a05320864cce443653cee723df666]
+##### 4. Introduction[^c-1a3a05320864cce443653cee723df666]
 
 This Part makes the following provisions in relation to equalisation arrangements—
 
 - (a) this Chapter makes amendments to the principal Regulations,
 - (b) Chapter 2 makes transitional provisions.
 
-##### 5. Insertion of new regulation 50A (meaning of “equalisation arrangements”, “full equalisation arrangements” and “equalisation amount”)[^key-d6b00db1d60c6b02a5a9252c83ef18aa]
+##### 5. Insertion of new regulation 50A (meaning of “equalisation arrangements”, “full equalisation arrangements” and “equalisation amount”)[^c-d6b00db1d60c6b02a5a9252c83ef18aa]
 
 After regulation 50 insert—
 
@@ -115,7 +115,7 @@ After regulation 50 insert—
 
 .
 
-##### 6. Amendment to regulation 53 (contents of an application)[^key-5cdde956560a3041655a35061db3699e]
+##### 6. Amendment to regulation 53 (contents of an application)[^c-5cdde956560a3041655a35061db3699e]
 
 In regulation 53 (contents of an application) in paragraph (1) at the end insert—
 
@@ -132,7 +132,7 @@ In regulation 53 (contents of an application) in paragraph (1) at the end insert
 
 .
 
-##### 7. Amendment to regulation 55 (response by HMRC to application)[^key-11f4b08f0279b30e63f8d55ca48fd7d1]
+##### 7. Amendment to regulation 55 (response by HMRC to application)[^c-11f4b08f0279b30e63f8d55ca48fd7d1]
 
 (1) Amend regulation 55 (response by HMRC to application) as follows.
 
@@ -144,7 +144,7 @@ In regulation 53 (contents of an application) in paragraph (1) at the end insert
 
 .
 
-##### 8. Insertion of Chapter 2A (amendment to application for this Part to apply)[^key-53ee78e3d59358c63ebf87658fb3dc51]
+##### 8. Insertion of Chapter 2A (amendment to application for this Part to apply)[^c-53ee78e3d59358c63ebf87658fb3dc51]
 
 After regulation 56 insert—
 
@@ -199,7 +199,7 @@ After regulation 56 insert—
 
 .
 
-##### 9. Substitution of regulation 72 (treatment of reporting funds operating equalisation arrangements)[^key-d05334dcea08526c106feb96361364c9]
+##### 9. Substitution of regulation 72 (treatment of reporting funds operating equalisation arrangements)[^c-d05334dcea08526c106feb96361364c9]
 
 For regulation 72 (treatment of reporting funds operating equalisation arrangements) substitute—
 
@@ -217,7 +217,7 @@ For regulation 72 (treatment of reporting funds operating equalisation arrangeme
 
 .
 
-##### 10. Amendment to regulation 92 (contents of report to participants)[^key-d245c50efe596b8735b9170c2bd930dc]
+##### 10. Amendment to regulation 92 (contents of report to participants)[^c-d245c50efe596b8735b9170c2bd930dc]
 
 (1) Amend regulation 92 (contents of report to participants) as follows.
 
@@ -249,7 +249,7 @@ For regulation 72 (treatment of reporting funds operating equalisation arrangeme
 
 .
 
-##### 11. Insertion of new regulations 92A, 92B and 92C (funds which do not operate equalisation arrangements)[^key-6c1f88c00dbf1d58a0a6198edbf0f20e]
+##### 11. Insertion of new regulations 92A, 92B and 92C (funds which do not operate equalisation arrangements)[^c-6c1f88c00dbf1d58a0a6198edbf0f20e]
 
 After regulation 92 insert—
 
@@ -319,7 +319,7 @@ After regulation 92 insert—
 
 .
 
-##### 12. Insertion of regulation 94A[^key-a6951e73a15d29d249e8d8214fec544c]
+##### 12. Insertion of regulation 94A[^c-a6951e73a15d29d249e8d8214fec544c]
 
 After regulation 94 insert—
 
@@ -341,7 +341,7 @@ After regulation 94 insert—
 
 .
 
-##### 13. Amendment to regulation 99 (disposals of interests)[^key-9af72ac7a3dbcf80e3ac3983b0dd9f7f]
+##### 13. Amendment to regulation 99 (disposals of interests)[^c-9af72ac7a3dbcf80e3ac3983b0dd9f7f]
 
 In regulation 99 (disposals of interests) after paragraph (2) insert—
 
@@ -353,7 +353,7 @@ In regulation 99 (disposals of interests) after paragraph (2) insert—
 
 #### Transitional provisions
 
-##### 14. Transitional provisions: introduction[^key-016e55cf6038b83f05b7536c9f307e13]
+##### 14. Transitional provisions: introduction[^c-016e55cf6038b83f05b7536c9f307e13]
 
 (1) This Chapter applies to offshore funds which are reporting funds at the date these Regulations come into force.
 
@@ -364,15 +364,15 @@ In regulation 99 (disposals of interests) after paragraph (2) insert—
 - “HMRC” means Her Majesty’s Revenue and Customs;
 - “transitional fund” means a fund to which this Chapter applies.
 
-##### 15. Transitional provisions: general provisions[^key-901a981a87a18dd60929f37fa8514433]
+##### 15. Transitional provisions: general provisions[^c-901a981a87a18dd60929f37fa8514433]
 
 (1) The manager of a transitional fund must give the statements required by sub-paragraphs (h) to (l) of regulation 53(1) by a notice in writing to HMRC within one year of the date these Regulations come into force.
 
-(2) A transitional fund will be treated as having operated equalisation arrangements or full[^key-83c8f825d82b7eb6114f219a302a33a6] equalisation arrangements or as not operating equalisation arrangements in accordance with those statements from the time that the fund first became a reporting fund for the purposes of any report made to participants after the date these Regulations come into force.
+(2) A transitional fund will be treated as having operated equalisation arrangements or full[^c-83c8f825d82b7eb6114f219a302a33a6] equalisation arrangements or as not operating equalisation arrangements in accordance with those statements from the time that the fund first became a reporting fund for the purposes of any report made to participants after the date these Regulations come into force.
 
 This is subject to regulation 16.
 
-##### 16. Transitional provisions: special cases[^key-ebe52a688ab3dc7ed0f31e5034e8d80f]
+##### 16. Transitional provisions: special cases[^c-ebe52a688ab3dc7ed0f31e5034e8d80f]
 
 (1) The amendments made by this Part shall not apply in relation to a reporting period which ended before the date these Regulations come into force if the manager of a transitional fund so elects by notice in writing given with the notice under regulation 15(1).
 
@@ -387,7 +387,7 @@ This is subject to regulation 16.
 
 (5) The notice under paragraph (4) must state that paragraph (2) of this regulation applies to the fund.
 
-##### 17. Appeal against a refusal to accept a statement[^key-8321a00ccd8c5ffe0300d0675770915f]
+##### 17. Appeal against a refusal to accept a statement[^c-8321a00ccd8c5ffe0300d0675770915f]
 
 (1) If HMRC give notice under regulation 16(4), the manager of the transitional fund may appeal.
 
@@ -399,11 +399,11 @@ This is subject to regulation 16.
 
 ## PART 3 — Unlisted Trading Company Exception
 
-### 18. Introduction[^key-d2b92e8ea4826f9b4ae4819bb73abc24]
+### 18. Introduction[^c-d2b92e8ea4826f9b4ae4819bb73abc24]
 
 This Part inserts a new exception to the charge to tax arising under regulation 17 of the principal Regulations.
 
-### 19. Insertion of regulations 31A to 31C (unlisted trading company exception)[^key-8b844d82428a395cbec1899e4373f4b9]
+### 19. Insertion of regulations 31A to 31C (unlisted trading company exception)[^c-8b844d82428a395cbec1899e4373f4b9]
 
 After regulation 31 insert—
 
@@ -466,17 +466,17 @@ After regulation 31 insert—
 
 .
 
-### 20. Amendment to regulation 81 (meaning of investment transaction)[^key-d8628d10c93c959c102cacc06d685915]
+### 20. Amendment to regulation 81 (meaning of investment transaction)[^c-d8628d10c93c959c102cacc06d685915]
 
 In regulation 81 (meaning of investment transaction) for “this Part” substitute “these Regulations”.
 
 ## PART 4 — Transparent Funds
 
-### 21. Introduction[^key-219625f11b2f6d26345aeda04f0464ed]
+### 21. Introduction[^c-219625f11b2f6d26345aeda04f0464ed]
 
 This Part makes amendments in relation to transparent funds.
 
-### 22. Amendment to regulation 49 (structure of this Part)[^key-ab35bedee33071cd55dde0c41a234a32]
+### 22. Amendment to regulation 49 (structure of this Part)[^c-ab35bedee33071cd55dde0c41a234a32]
 
 (1) Amend regulation 49 (structure of this Part) as follows.
 
@@ -503,7 +503,7 @@ This Part makes amendments in relation to transparent funds.
 
 .
 
-### 23. Amendment to regulation 58 (general duties of reporting funds)[^key-4ac303fe974be2929580a2a5ed01c941]
+### 23. Amendment to regulation 58 (general duties of reporting funds)[^c-4ac303fe974be2929580a2a5ed01c941]
 
 (1) Amend regulation 58 (general duties of reporting funds) as follows.
 
@@ -511,7 +511,7 @@ This Part makes amendments in relation to transparent funds.
 
 (3) In paragraph (b) at the end insert “or 6A, as the case may be”.
 
-### 24. Insertion of new Chapter 6A in Part 3[^key-96a20831d85ad09b0c911ded7f9ebb3f]
+### 24. Insertion of new Chapter 6A in Part 3[^c-96a20831d85ad09b0c911ded7f9ebb3f]
 
 After regulation 89 insert—
 
@@ -583,7 +583,7 @@ After regulation 89 insert—
 
 .
 
-### 25. Amendment to regulation 92 (contents of report to participants)[^key-3a0171e7f590ab76e8cbea5884d8fd7d]
+### 25. Amendment to regulation 92 (contents of report to participants)[^c-3a0171e7f590ab76e8cbea5884d8fd7d]
 
 (1) Amend regulation 92 (contents of report to participants) as follows.
 
@@ -591,7 +591,7 @@ After regulation 89 insert—
 
 (3) In paragraph (1) at the beginning insert “In the case of reporting funds which are not transparent funds,”.
 
-### 26. Insertion of regulation 92D (contents of reports to participants: transparent reporting funds)[^key-da54ea82393e03c113aa93f27e5d4aec]
+### 26. Insertion of regulation 92D (contents of reports to participants: transparent reporting funds)[^c-da54ea82393e03c113aa93f27e5d4aec]
 
 After regulation 92C (inserted by regulation 11 of these Regulations) insert—
 
@@ -604,7 +604,7 @@ After regulation 92C (inserted by regulation 11 of these Regulations) insert—
 
 .
 
-### 27. Amendment to regulation 106 (reporting requirements)[^key-6d2ced06354e4507b2af595f32a57e89]
+### 27. Amendment to regulation 106 (reporting requirements)[^c-6d2ced06354e4507b2af595f32a57e89]
 
 In regulation 106 (reporting requirements) in paragraph (1)—
 
@@ -614,14 +614,14 @@ In regulation 106 (reporting requirements) in paragraph (1)—
 
 ## PART 5 — Miscellaneous Amendments
 
-### 28. Amendment to regulation 4 (classification of offshore funds)[^key-0a92009dd63949c2ff334dec5e0e26ee]
+### 28. Amendment to regulation 4 (classification of offshore funds)[^c-0a92009dd63949c2ff334dec5e0e26ee]
 
 In regulation 4 (classification of offshore funds) in paragraph (2)—
 
 - (a) at the beginning insert “In a period of account”, and
 - (b) omit “for a period of account”.
 
-### 29. Amendment to regulation 12 (general interpretation)[^key-0d23a7a3c21afa23393e07302c17e9eb]
+### 29. Amendment to regulation 12 (general interpretation)[^c-0d23a7a3c21afa23393e07302c17e9eb]
 
 In regulation 12 (general interpretation) after the definition of “prospectus” insert—
 
@@ -629,11 +629,11 @@ In regulation 12 (general interpretation) after the definition of “prospectus�
 
 .
 
-### 30. Amendment to regulation 16 (treatment of certain amounts as distributions)[^key-16ec87d042f1d7848e64346f6dcb843e]
+### 30. Amendment to regulation 16 (treatment of certain amounts as distributions)[^c-16ec87d042f1d7848e64346f6dcb843e]
 
 In regulation 16 (treatment of certain amounts as distributions) in paragraph (2) for “94(2)” substitute “94(1) or (2)”.
 
-### 31. Amendment to regulation 54 (form, timing and withdrawal of application)[^key-a33cb4dfaa2e3443586247cbd0a8b98c]
+### 31. Amendment to regulation 54 (form, timing and withdrawal of application)[^c-a33cb4dfaa2e3443586247cbd0a8b98c]
 
 In regulation 54 (form, timing and withdrawal of application)[^f00007] for paragraphs (2) and (3) substitute—
 
@@ -649,7 +649,7 @@ In regulation 54 (form, timing and withdrawal of application)[^f00007] for parag
 
 .
 
-### 32. Amendment to regulation 57 (effects of entry into the reporting fund regime)[^key-8aeaba7dbb618069e075307236051397]
+### 32. Amendment to regulation 57 (effects of entry into the reporting fund regime)[^c-8aeaba7dbb618069e075307236051397]
 
 (1) Amend regulation 57 (effects of entry into the reporting fund regime) as follows.
 
@@ -665,14 +665,14 @@ In regulation 54 (form, timing and withdrawal of application)[^f00007] for parag
 
 .
 
-### 33. Amendment to regulation 67 (income from wholly-owned subsidiaries)[^key-34570b68af27e850b303f7b8e46654cd]
+### 33. Amendment to regulation 67 (income from wholly-owned subsidiaries)[^c-34570b68af27e850b303f7b8e46654cd]
 
 In regulation 67 (income from wholly-owned subsidiaries) in paragraph (2)—
 
 - (a) in sub-paragraph (a) for “and beneficially” substitute “or indirectly”, and
 - (b) in sub-paragraph (b) after “directly” insert “or indirectly”.
 
-### 34. Amendment to regulation 68 (income from other reporting funds)[^key-9f306657fbc9998e554e7354ec1733bb]
+### 34. Amendment to regulation 68 (income from other reporting funds)[^c-9f306657fbc9998e554e7354ec1733bb]
 
 (1) Amend regulation 68 (income from other reporting funds) as follows.
 
@@ -682,7 +682,7 @@ In regulation 67 (income from wholly-owned subsidiaries) in paragraph (2)—
 
 (4) In paragraph (5) for the words from “the fund” to “94(4)(b)” substitute “RF2 does not make a report available in accordance with regulation 90(5)”.
 
-### 35. Insertion of new regulation 68A (index tracking funds)[^key-a18082e92987896930bccdb1c72a8885]
+### 35. Insertion of new regulation 68A (index tracking funds)[^c-a18082e92987896930bccdb1c72a8885]
 
 After regulation 68 insert—
 
@@ -712,7 +712,7 @@ After regulation 68 insert—
 
 .
 
-### 36. Amendment to regulation 69 (income from non-reporting funds: first case)[^key-d7b7605911f79df6b0f32d0a356f0155]
+### 36. Amendment to regulation 69 (income from non-reporting funds: first case)[^c-d7b7605911f79df6b0f32d0a356f0155]
 
 (1) Amend regulation 69 (income from non-reporting funds: first case) as follows.
 
@@ -732,7 +732,7 @@ After regulation 68 insert—
 
 .
 
-### 37. Amendment to regulation 74 (the equivalence condition)[^key-b45a5f101d1597f7e0254465495593e9]
+### 37. Amendment to regulation 74 (the equivalence condition)[^c-b45a5f101d1597f7e0254465495593e9]
 
 (1) Amend regulation 74 (the equivalence condition) as follows.
 
@@ -749,7 +749,7 @@ After regulation 68 insert—
 
 .
 
-### 38. Amendment to regulation 75 (the genuine diversity of ownership condition)[^key-b5a215c210599a0c0b04155f61aaef85]
+### 38. Amendment to regulation 75 (the genuine diversity of ownership condition)[^c-b5a215c210599a0c0b04155f61aaef85]
 
 (1) Amend regulation 75 (the genuine diversity of ownership condition) as follows.
 
@@ -767,7 +767,7 @@ After regulation 68 insert—
 
 .
 
-### 39. Amendment to regulation 90 (report to participants for a reporting period)[^key-1a79062a14b5f7faccd2f24bde26012a]
+### 39. Amendment to regulation 90 (report to participants for a reporting period)[^c-1a79062a14b5f7faccd2f24bde26012a]
 
 (1) Amend regulation 90 (report to participants for a reporting period) as follows.
 
@@ -779,7 +779,7 @@ After regulation 68 insert—
 
 (3) In paragraph (3) for “paragraph (2)(c)” substitute “this regulation”.
 
-### 40. Amendment to regulation 94 (reported income: general provisions)[^key-091f5e361d071b74d16c50d4591fdf2e]
+### 40. Amendment to regulation 94 (reported income: general provisions)[^c-091f5e361d071b74d16c50d4591fdf2e]
 
 (1) Amend regulation 94 (reported income: general provisions) as follows.
 
@@ -800,7 +800,7 @@ After regulation 68 insert—
 
 (5) In paragraph (4) for the words from “means—” to the end substitute “means the date six months following the last day of the reporting period”.
 
-### 41. Amendment to regulation 106 (reporting requirements)[^key-7b341b6561cd2a9311ff289e07029d3f]
+### 41. Amendment to regulation 106 (reporting requirements)[^c-7b341b6561cd2a9311ff289e07029d3f]
 
 (1) Amend regulation 106 (reporting requirements) as follows.
 
@@ -815,7 +815,7 @@ After regulation 68 insert—
 
 .
 
-### 42. Amendment to Schedule 1 (transitional provisions and savings)[^key-c53700fbaaad29d7a3ed9d16adebc2d5]
+### 42. Amendment to Schedule 1 (transitional provisions and savings)[^c-c53700fbaaad29d7a3ed9d16adebc2d5]
 
 (1) In Schedule 1 (transitional provisions and savings) amend paragraph 3 as follows.
 
@@ -831,7 +831,7 @@ After regulation 68 insert—
 
 (3) In sub-paragraph (3B)[^f00013] for “2011” substitute “2012”.
 
-### 43. Amendment to Schedule 3 (abbreviations and defined expressions)[^key-c9af25fbda26a8fdb459869b16ee483b]
+### 43. Amendment to Schedule 3 (abbreviations and defined expressions)[^c-c9af25fbda26a8fdb459869b16ee483b]
 
 (1) Amend Schedule 3 (abbreviations and defined expressions) as follows.
 
@@ -864,7 +864,7 @@ After regulation 68 insert—
 
 ## PART 6 — Amendments to Primary Legislation
 
-### 44. Amendment to the Taxation of Chargeable Gains Act 1992[^key-4fd513232beda80b276b2de46a67c958]
+### 44. Amendment to the Taxation of Chargeable Gains Act 1992[^c-4fd513232beda80b276b2de46a67c958]
 
 (1) Amend the Taxation of Chargeable Gains Act 1992 as follows.
 
@@ -902,7 +902,7 @@ After regulation 68 insert—
 
 .
 
-### 45. Amendment to the Corporation Tax Act 2009[^key-e994d16d5586634a9faedc803ebfdbcc]
+### 45. Amendment to the Corporation Tax Act 2009[^c-e994d16d5586634a9faedc803ebfdbcc]
 
 In section 490 of the Corporation Tax Act 2009[^f00017] (holdings in OEICs, unit trusts and offshore funds treated as creditor relationship rights) in subsection (7)—
 
@@ -977,119 +977,119 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8).
 
-[^key-a347e70c0872d7e379c33a021f836c26]: Commencement: Reg. 1 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-a347e70c0872d7e379c33a021f836c26]: Commencement: Reg. 1 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-f32dd3898e79801e45d85c94448810cd]: Commencement: Reg. 2 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-f32dd3898e79801e45d85c94448810cd]: Commencement: Reg. 2 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001), amended by [S.I 2009/3139](https://www.legislation.gov.uk/uksi/2009/3139); there is another amending instrument but it is not relevant. These Regulations are referred to in the footnotes to these Regulations as “the principal Regulations”.
 
-[^key-6c4200dbda069163d1c7db2b50cb0d1c]: Commencement: Reg. 3 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-6c4200dbda069163d1c7db2b50cb0d1c]: Commencement: Reg. 3 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-1a3a05320864cce443653cee723df666]: Commencement: Reg. 4 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-1a3a05320864cce443653cee723df666]: Commencement: Reg. 4 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-d6b00db1d60c6b02a5a9252c83ef18aa]: Commencement: Reg. 5 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-d6b00db1d60c6b02a5a9252c83ef18aa]: Commencement: Reg. 5 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-5cdde956560a3041655a35061db3699e]: Commencement: Reg. 6 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-5cdde956560a3041655a35061db3699e]: Commencement: Reg. 6 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00003]: Footnote: “HMRC” is defined in regulation 12 of the principal Regulations.
 
-[^key-11f4b08f0279b30e63f8d55ca48fd7d1]: Commencement: Reg. 7 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-11f4b08f0279b30e63f8d55ca48fd7d1]: Commencement: Reg. 7 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-53ee78e3d59358c63ebf87658fb3dc51]: Commencement: Reg. 8 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-53ee78e3d59358c63ebf87658fb3dc51]: Commencement: Reg. 8 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-d05334dcea08526c106feb96361364c9]: Commencement: Reg. 9 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-d05334dcea08526c106feb96361364c9]: Commencement: Reg. 9 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-d245c50efe596b8735b9170c2bd930dc]: Commencement: Reg. 10 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-d245c50efe596b8735b9170c2bd930dc]: Commencement: Reg. 10 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-6c1f88c00dbf1d58a0a6198edbf0f20e]: Commencement: Reg. 11 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-6c1f88c00dbf1d58a0a6198edbf0f20e]: Commencement: Reg. 11 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00004]: Footnote: “HMRC” is defined in regulation 12 of the principal Regulations.
 
-[^key-a6951e73a15d29d249e8d8214fec544c]: Commencement: Reg. 12 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-a6951e73a15d29d249e8d8214fec544c]: Commencement: Reg. 12 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-9af72ac7a3dbcf80e3ac3983b0dd9f7f]: Commencement: Reg. 13 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-9af72ac7a3dbcf80e3ac3983b0dd9f7f]: Commencement: Reg. 13 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-016e55cf6038b83f05b7536c9f307e13]: Commencement: Reg. 14 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-016e55cf6038b83f05b7536c9f307e13]: Commencement: Reg. 14 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-901a981a87a18dd60929f37fa8514433]: Commencement: Reg. 15 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-901a981a87a18dd60929f37fa8514433]: Commencement: Reg. 15 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-83c8f825d82b7eb6114f219a302a33a6]: Textual amendment: Words in reg. 15(2) substituted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2013/1411/regulation/15) (with [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3/4))
+[^c-83c8f825d82b7eb6114f219a302a33a6]: Textual amendment: Words in reg. 15(2) substituted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2013/1411/regulation/15) (with [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3/4))
 
-[^key-ebe52a688ab3dc7ed0f31e5034e8d80f]: Commencement: Reg. 16 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-ebe52a688ab3dc7ed0f31e5034e8d80f]: Commencement: Reg. 16 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-8321a00ccd8c5ffe0300d0675770915f]: Commencement: Reg. 17 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-8321a00ccd8c5ffe0300d0675770915f]: Commencement: Reg. 17 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-d2b92e8ea4826f9b4ae4819bb73abc24]: Commencement: Reg. 18 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-d2b92e8ea4826f9b4ae4819bb73abc24]: Commencement: Reg. 18 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-8b844d82428a395cbec1899e4373f4b9]: Commencement: Reg. 19 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-8b844d82428a395cbec1899e4373f4b9]: Commencement: Reg. 19 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00005]: Footnote: “TCGA 1992” is an abbreviation for the Taxation of Chargeable Gains Act [1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12) given in Part 1 of Schedule 3 to the principal Regulations; Schedule 7AC was inserted by paragraph 1 of Schedule 8 to the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23).
 
-[^key-d8628d10c93c959c102cacc06d685915]: Commencement: Reg. 20 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-d8628d10c93c959c102cacc06d685915]: Commencement: Reg. 20 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-219625f11b2f6d26345aeda04f0464ed]: Commencement: Reg. 21 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-219625f11b2f6d26345aeda04f0464ed]: Commencement: Reg. 21 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-ab35bedee33071cd55dde0c41a234a32]: Commencement: Reg. 22 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-ab35bedee33071cd55dde0c41a234a32]: Commencement: Reg. 22 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-4ac303fe974be2929580a2a5ed01c941]: Commencement: Reg. 23 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-4ac303fe974be2929580a2a5ed01c941]: Commencement: Reg. 23 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-96a20831d85ad09b0c911ded7f9ebb3f]: Commencement: Reg. 24 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-96a20831d85ad09b0c911ded7f9ebb3f]: Commencement: Reg. 24 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-3a0171e7f590ab76e8cbea5884d8fd7d]: Commencement: Reg. 25 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-3a0171e7f590ab76e8cbea5884d8fd7d]: Commencement: Reg. 25 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-da54ea82393e03c113aa93f27e5d4aec]: Commencement: Reg. 26 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-da54ea82393e03c113aa93f27e5d4aec]: Commencement: Reg. 26 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-6d2ced06354e4507b2af595f32a57e89]: Commencement: Reg. 27 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-6d2ced06354e4507b2af595f32a57e89]: Commencement: Reg. 27 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-0a92009dd63949c2ff334dec5e0e26ee]: Commencement: Reg. 28 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-0a92009dd63949c2ff334dec5e0e26ee]: Commencement: Reg. 28 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-0d23a7a3c21afa23393e07302c17e9eb]: Commencement: Reg. 29 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-0d23a7a3c21afa23393e07302c17e9eb]: Commencement: Reg. 29 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00006]: Footnote: OJ No L 145, 30.4.2004, p1.
 
-[^key-16ec87d042f1d7848e64346f6dcb843e]: Commencement: Reg. 30 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-16ec87d042f1d7848e64346f6dcb843e]: Commencement: Reg. 30 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-a33cb4dfaa2e3443586247cbd0a8b98c]: Commencement: Reg. 31 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-a33cb4dfaa2e3443586247cbd0a8b98c]: Commencement: Reg. 31 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00007]: Footnote: Regulation 54 has been amended by [S.I. 2009/3139](https://www.legislation.gov.uk/uksi/2009/3139).
 
 [^f00008]: Footnote: “HMRC” is defined in regulation 12 of the principal Regulations.
 
-[^key-8aeaba7dbb618069e075307236051397]: Commencement: Reg. 32 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-8aeaba7dbb618069e075307236051397]: Commencement: Reg. 32 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-34570b68af27e850b303f7b8e46654cd]: Commencement: Reg. 33 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-34570b68af27e850b303f7b8e46654cd]: Commencement: Reg. 33 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-9f306657fbc9998e554e7354ec1733bb]: Commencement: Reg. 34 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-9f306657fbc9998e554e7354ec1733bb]: Commencement: Reg. 34 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-a18082e92987896930bccdb1c72a8885]: Commencement: Reg. 35 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-a18082e92987896930bccdb1c72a8885]: Commencement: Reg. 35 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-d7b7605911f79df6b0f32d0a356f0155]: Commencement: Reg. 36 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-d7b7605911f79df6b0f32d0a356f0155]: Commencement: Reg. 36 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-b45a5f101d1597f7e0254465495593e9]: Commencement: Reg. 37 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-b45a5f101d1597f7e0254465495593e9]: Commencement: Reg. 37 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00009]: Footnote: OJ No L 302, 17.11.2009, p32.
 
-[^key-b5a215c210599a0c0b04155f61aaef85]: Commencement: Reg. 38 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-b5a215c210599a0c0b04155f61aaef85]: Commencement: Reg. 38 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-1a79062a14b5f7faccd2f24bde26012a]: Commencement: Reg. 39 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-1a79062a14b5f7faccd2f24bde26012a]: Commencement: Reg. 39 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-091f5e361d071b74d16c50d4591fdf2e]: Commencement: Reg. 40 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-091f5e361d071b74d16c50d4591fdf2e]: Commencement: Reg. 40 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00010]: Footnote: Paragraph (2A) was inserted by [S.I. 2009/3139](https://www.legislation.gov.uk/uksi/2009/3139).
 
 [^f00011]: Footnote: Section 106A was inserted by section 124(1) of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36).
 
-[^key-7b341b6561cd2a9311ff289e07029d3f]: Commencement: Reg. 41 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-7b341b6561cd2a9311ff289e07029d3f]: Commencement: Reg. 41 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00012]: Footnote: “HMRC” is defined in regulation 12 of the principal Regulations.
 
-[^key-c53700fbaaad29d7a3ed9d16adebc2d5]: Commencement: Reg. 42 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-c53700fbaaad29d7a3ed9d16adebc2d5]: Commencement: Reg. 42 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00013]: Footnote: Paragraph (3B) was inserted by [S.I. 2009/3139](https://www.legislation.gov.uk/uksi/2009/3139).
 
-[^key-c9af25fbda26a8fdb459869b16ee483b]: Commencement: Reg. 43 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-c9af25fbda26a8fdb459869b16ee483b]: Commencement: Reg. 43 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
-[^key-4fd513232beda80b276b2de46a67c958]: Commencement: Reg. 44 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-4fd513232beda80b276b2de46a67c958]: Commencement: Reg. 44 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00014]: Footnote: Section 103A was inserted by paragraph 8 of Schedule 22 to the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
 
@@ -1097,6 +1097,6 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00016]: Footnote: Section 106A was inserted by section 124(1) of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36).
 
-[^key-e994d16d5586634a9faedc803ebfdbcc]: Commencement: Reg. 45 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+[^c-e994d16d5586634a9faedc803ebfdbcc]: Commencement: Reg. 45 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
 
 [^f00017]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Measuring activity in the CCTS[^key-3d2aa505381a1b2e146b4b0eaa5e01ff]
+## 36. Measuring activity in the CCTS[^c-3d2aa505381a1b2e146b4b0eaa5e01ff]
 
 *Extent: E+W+S+N.I.*
 
 (1) The number of units of activity that must be accounted for by a CCTS participant for a scheme year is the sum of the number of grams of CO<sub>2</sub> per kilometre emitted by each NZE car of which the participant is the manufacturer and which is registered during the scheme year.
 
-(2)[^key-1db2c0461102c03105562f31e45fe15d] For the purposes of this article, the number of grams of CO<sub>2</sub> per kilometre emitted by an NZE car is the specific emissions of CO<sub>2</sub> of the car, with that number having been—
+(2)[^c-1db2c0461102c03105562f31e45fe15d] For the purposes of this article, the number of grams of CO<sub>2</sub> per kilometre emitted by an NZE car is the specific emissions of CO<sub>2</sub> of the car, with that number having been—
 
 - (a) if applicable, reduced in accordance with paragraph (3); and
 - (b) if applicable, corrected in accordance with Article 13(3) of [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631) (lack of correspondence of CO<sub>2</sub> emission and fuel consumption values).
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3d2aa505381a1b2e146b4b0eaa5e01ff]: Commencement: Art. 36 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-3d2aa505381a1b2e146b4b0eaa5e01ff]: Commencement: Art. 36 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-1db2c0461102c03105562f31e45fe15d]: Textual amendment: [Art. 36(2)](https://www.legislation.gov.uk/uksi/2023/1394/article/36/2) substituted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [37](https://www.legislation.gov.uk/uksi/2025/1101/article/37)
+[^c-1db2c0461102c03105562f31e45fe15d]: Textual amendment: [Art. 36(2)](https://www.legislation.gov.uk/uksi/2023/1394/article/36/2) substituted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [37](https://www.legislation.gov.uk/uksi/2025/1101/article/37)
 
 [^f00015]: Footnote: Article 12(2)(b) is inserted by article 111(3) of this Order.

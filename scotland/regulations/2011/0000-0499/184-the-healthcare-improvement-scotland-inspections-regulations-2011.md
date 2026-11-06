@@ -46,11 +46,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 105(3) of that Act[^f00002], a draft of the instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-a308a6024cb79662e16d0500a4897289]
+## 1. Citation and commencement[^c-a308a6024cb79662e16d0500a4897289]
 
 These Regulations may be cited as the Healthcare Improvement Scotland (Inspections) Regulations 2011 and come into force on 1st April 2011.
 
-## 2. Interpretation[^key-5e7a95077f29ffda8bd075ddfdbd686e]
+## 2. Interpretation[^c-5e7a95077f29ffda8bd075ddfdbd686e]
 
 (1) In these Regulations—
 
@@ -69,7 +69,7 @@ These Regulations may be cited as the Healthcare Improvement Scotland (Inspectio
 - “personal records” includes health records as defined in section 10O(4);
 - “pharmacist” means a person registered as a pharmacist in Part 1 or 4 of the register maintained under article 19 (establishment, maintenance of and access to the register) of the Pharmacy Order 2010[^f00003] or the register maintained in pursuance of articles 6 (the register) and 9 (the registrars) of the Pharmacy (Northern Ireland) Order 1976[^f00004];
 - “registered dentist” means a person registered in the register maintained under section 14 (the dentists register and the registrar) of the Dentists Act 1984[^f00005];
-- “registered nurse” means an individual registered in the register maintained under article 5 (establishment and maintenance of the register) of the Nursing and Midwifery[^key-79f9447d8420f703075ed9a9e6b95e91] Order 2001[^f00006] by virtue of qualifications in nursing;
+- “registered nurse” means an individual registered in the register maintained under article 5 (establishment and maintenance of the register) of the Nursing and Midwifery[^c-79f9447d8420f703075ed9a9e6b95e91] Order 2001[^f00006] by virtue of qualifications in nursing;
 - “service user” means a person cared for, by or accommodated in the premises of an independent healthcare service.
 
 (2) Any reference in these Regulations—
@@ -77,7 +77,7 @@ These Regulations may be cited as the Healthcare Improvement Scotland (Inspectio
 - (a) to the provision of a service includes the management, organisation or co-ordination of a service; and
 - (b) to a section is a reference to that section of the Act except where otherwise indicated.
 
-## 3. Authorised persons[^key-1db4731735f7a8a6689df4530b4c725f]
+## 3. Authorised persons[^c-1db4731735f7a8a6689df4530b4c725f]
 
 (1) A person may be authorised by HIS to carry out inspections under section 10I and 10M.
 
@@ -85,14 +85,14 @@ These Regulations may be cited as the Healthcare Improvement Scotland (Inspectio
 
 (3) HIS will determine the qualifications required for the role of an authorised person.
 
-## 4. Assistance with inspections and the taking of measurements photographs and recordings[^key-c00a4ab94165cd64c5dced147c1bbb43]
+## 4. Assistance with inspections and the taking of measurements photographs and recordings[^c-c00a4ab94165cd64c5dced147c1bbb43]
 
 An authorised person may, in carrying out an inspection—
 
 - (a) require any person to afford such facilities and assistance with respect to matters within the person’s control as are necessary to enable the authorised person to carry out the inspection; and
 - (b) take such measurements and photographs and take such recordings as the authorised person considers necessary.
 
-## 5. Power to require information[^key-61f496da624935ce1f3b418ad6f56310]
+## 5. Power to require information[^c-61f496da624935ce1f3b418ad6f56310]
 
 (1) Subject to paragraph (4), if an authorised person considers it necessary or expedient for the purposes of an inspection the authorised person may—
 
@@ -108,7 +108,7 @@ if the information relates to the provision of an independent health care servic
 
 (3) When inspecting information under paragraph (1) an authorised person is entitled to have access to any computer and associated apparatus or material which is or has been used in connection with that information.
 
-(4) Nothing in this regulation allows an authorised person to inspect medical records unless that person is a health professional or a person authorised by HIS to carry out an inspection under section 10K (authorised persons)[^key-df77a71b4463f27036e66efb8f356083].
+(4) Nothing in this regulation allows an authorised person to inspect medical records unless that person is a health professional or a person authorised by HIS to carry out an inspection under section 10K (authorised persons)[^c-df77a71b4463f27036e66efb8f356083].
 
 (5) For the purposes of this regulation a “health professional” means—
 
@@ -117,7 +117,7 @@ if the information relates to the provision of an independent health care servic
 - (c) a pharmacist; or
 - (d) a registered dentist.
 
-## 6. Explanation of information[^key-ad8c43e2ec14e99200501eb95dc39885]
+## 6. Explanation of information[^c-ad8c43e2ec14e99200501eb95dc39885]
 
 (1) If an authorised person considers it necessary or expedient for the purposes of an inspection, the authorised person may require an individual falling within the description in paragraph (2) to explain any information inspected, copied, removed or provided in the course of the inspection.
 
@@ -126,7 +126,7 @@ if the information relates to the provision of an independent health care servic
 - (a) responsible for compiling or holding the information or any part of it; or
 - (b) making use of the information, or any part of it.
 
-## 7. Interviews and examinations[^key-9def8974103c7c7a532d1ee1414c6c05]
+## 7. Interviews and examinations[^c-9def8974103c7c7a532d1ee1414c6c05]
 
 (1) An authorised person may conduct any examination or interview with regard to the following matters if that authorised person thinks it necessary or expedient for the purposes of carrying out an inspection:—
 
@@ -169,11 +169,11 @@ if the information relates to the provision of an independent health care servic
 - “guardian” means a guardian appointed under section 58 (disposal of application) of the Adults with Incapacity (Scotland) Act 2000;
 - “welfare attorney” has the same meaning as in section 16 (creation and exercise of welfare power of attorney) of the Adults with Incapacity (Scotland) Act 2000.
 
-## 8. Authorised persons: duty to prove authorisation[^key-1c216b280a0e567caf4105d73f242dfc]
+## 8. Authorised persons: duty to prove authorisation[^c-1c216b280a0e567caf4105d73f242dfc]
 
 An authorised person must, on request, produce a document from HIS which confirms the person is authorised to carry out inspections.
 
-## 9. Disposal of personal records[^key-1adf7b89b974dd8300275259933a5c37]
+## 9. Disposal of personal records[^c-1adf7b89b974dd8300275259933a5c37]
 
 (1) If an authorised person is in possession of personal records obtained for the purposes of an inspection which are no longer required for those purposes, the authorised person shall, not later than the date specified in paragraph (2)—
 
@@ -188,7 +188,7 @@ An authorised person must, on request, produce a document from HIS which confirm
 
 (3) For the purposes of paragraph (2)(c) “proceedings” means proceedings under the Act or any other enactment, before any court or tribunal if those proceedings are connected to a service subject to the inspection mentioned in paragraph (1).
 
-## 10. Information sharing[^key-5fe207417a21ddd55aa564ec79e6c2e7]
+## 10. Information sharing[^c-5fe207417a21ddd55aa564ec79e6c2e7]
 
 (1) Subject to section 10K(4), if an authorised person has obtained information for the purpose of an inspection under section 10J, that person may disclose to a person prescribed in paragraph (2) so much of that information as the authorised person considers would assist the person with whom the information is shared in carrying out that person’s functions.
 
@@ -197,7 +197,7 @@ An authorised person must, on request, produce a document from HIS which confirm
 - (a) an authorised person as defined in regulation 3 (authorised persons) of the Public Services Reform (Joint Inspections) (Scotland) Regulations 2011[^f00008]; or
 - (b) an authorised person as defined in regulation 2(1) (interpretation) of the Public Services Reform (Social Services Inspections) Regulations 2011[^f00009].
 
-## 11. Offences[^key-12375f5c6f43fc6079d7c9db3afa5f8b]
+## 11. Offences[^c-12375f5c6f43fc6079d7c9db3afa5f8b]
 
 Any person who—
 
@@ -244,9 +244,9 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00002]: Footnote: Section 105(3) was relevantly amended by the Public Services Reform (Scotland) Act 2010, schedule 17, paragraph 21(a).
 
-[^key-a308a6024cb79662e16d0500a4897289]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+[^c-a308a6024cb79662e16d0500a4897289]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
 
-[^key-5e7a95077f29ffda8bd075ddfdbd686e]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+[^c-5e7a95077f29ffda8bd075ddfdbd686e]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
@@ -254,32 +254,32 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00005]: Footnote: [1984 c.24](https://www.legislation.gov.uk/ukpga/1984/24).
 
-[^key-79f9447d8420f703075ed9a9e6b95e91]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/184/regulation/2/1) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 38](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/38)
+[^c-79f9447d8420f703075ed9a9e6b95e91]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/184/regulation/2/1) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 38](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/38)
 
 [^f00006]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253).
 
-[^key-1db4731735f7a8a6689df4530b4c725f]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+[^c-1db4731735f7a8a6689df4530b4c725f]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
 
-[^key-c00a4ab94165cd64c5dced147c1bbb43]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+[^c-c00a4ab94165cd64c5dced147c1bbb43]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
 
-[^key-61f496da624935ce1f3b418ad6f56310]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+[^c-61f496da624935ce1f3b418ad6f56310]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
 
-[^key-df77a71b4463f27036e66efb8f356083]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2011/184/regulation/5/4) inserted (19.6.2024) by [The Healthcare Improvement Scotland (Inspections) Amendment Regulations 2024 (S.S.I. 2024/171)](https://www.legislation.gov.uk/ssi/2024/171), [regs. 1](https://www.legislation.gov.uk/ssi/2024/171/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/171/regulation/2/2)
+[^c-df77a71b4463f27036e66efb8f356083]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2011/184/regulation/5/4) inserted (19.6.2024) by [The Healthcare Improvement Scotland (Inspections) Amendment Regulations 2024 (S.S.I. 2024/171)](https://www.legislation.gov.uk/ssi/2024/171), [regs. 1](https://www.legislation.gov.uk/ssi/2024/171/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/171/regulation/2/2)
 
-[^key-ad8c43e2ec14e99200501eb95dc39885]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+[^c-ad8c43e2ec14e99200501eb95dc39885]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
 
-[^key-9def8974103c7c7a532d1ee1414c6c05]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+[^c-9def8974103c7c7a532d1ee1414c6c05]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
 
 [^f00007]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
-[^key-1c216b280a0e567caf4105d73f242dfc]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+[^c-1c216b280a0e567caf4105d73f242dfc]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
 
-[^key-1adf7b89b974dd8300275259933a5c37]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+[^c-1adf7b89b974dd8300275259933a5c37]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
 
-[^key-5fe207417a21ddd55aa564ec79e6c2e7]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+[^c-5fe207417a21ddd55aa564ec79e6c2e7]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
 
 [^f00008]: Footnote: [S.S.I. 2011/183](https://www.legislation.gov.uk/ssi/2011/183).
 
 [^f00009]: Footnote: [S.S.I. 2011/185](https://www.legislation.gov.uk/ssi/2011/185).
 
-[^key-12375f5c6f43fc6079d7c9db3afa5f8b]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+[^c-12375f5c6f43fc6079d7c9db3afa5f8b]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)

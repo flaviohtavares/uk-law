@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Access to health services[^key-35c0ff3eb71452225a9003d45f897bab]
+## 27. Access to health services[^c-35c0ff3eb71452225a9003d45f897bab]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35c0ff3eb71452225a9003d45f897bab]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2019/169/regulation/27) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-35c0ff3eb71452225a9003d45f897bab]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2019/169/regulation/27) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

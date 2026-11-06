@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Duty of undertaker to notify completion of road works: form and procedure[^key-8a0b8c7e4ae515f6cda0d4f489c29726]
+## 28. Duty of undertaker to notify completion of road works: form and procedure[^c-8a0b8c7e4ae515f6cda0d4f489c29726]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In section 129 of the 1991 Act (duty of undertaker to reinstate road after road 
 
 ## Annotations
 
-[^key-8a0b8c7e4ae515f6cda0d4f489c29726]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2005/12/section/28) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-8a0b8c7e4ae515f6cda0d4f489c29726]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2005/12/section/28) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Scope of powers to attach conditions[^key-ab19edd15e31e36f0c562fde84733d60][^key-a8906e2b4c69c9f9696758eca1e7b19e][^key-6598465faf8a3a48100c391e8fcd6e82][^key-db6a924b6c60dc1ce719f4a0f0ef546f][^key-e1f6e585bac667309e250f830e864ec8][^key-db6a924b6c60dc1ce719f4a0f0ef546f][^key-e1f6e585bac667309e250f830e864ec8]
+## 79. Scope of powers to attach conditions[^c-ab19edd15e31e36f0c562fde84733d60][^c-a8906e2b4c69c9f9696758eca1e7b19e][^c-6598465faf8a3a48100c391e8fcd6e82][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 
 *Extent: E+W+S*
 
@@ -58,12 +58,12 @@ summary: ''
 
 ## Annotations
 
-[^key-ab19edd15e31e36f0c562fde84733d60]: Commencement: S. 79 in force at 1.10.2005 for specified purposes by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-ab19edd15e31e36f0c562fde84733d60]: Commencement: S. 79 in force at 1.10.2005 for specified purposes by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
 
-[^key-a8906e2b4c69c9f9696758eca1e7b19e]: Commencement: S. 79 in force at 1.1.2007 in so far as not already in force by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-a8906e2b4c69c9f9696758eca1e7b19e]: Commencement: S. 79 in force at 1.1.2007 in so far as not already in force by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
 
-[^key-6598465faf8a3a48100c391e8fcd6e82]: Modification: S. 79 applied (with modifications) (1.1.2007) by [Gambling (Personal Licences) (Modification of Part 5 of the Gambling Act 2005) Regulations 2006 (S.I. 2006/3267)](https://www.legislation.gov.uk/uksi/2006/3267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/3267/schedule) Table 2
+[^c-6598465faf8a3a48100c391e8fcd6e82]: Modification: S. 79 applied (with modifications) (1.1.2007) by [Gambling (Personal Licences) (Modification of Part 5 of the Gambling Act 2005) Regulations 2006 (S.I. 2006/3267)](https://www.legislation.gov.uk/uksi/2006/3267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/3267/schedule) Table 2
 
-[^key-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
+[^c-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
 
-[^key-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)
+[^c-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)

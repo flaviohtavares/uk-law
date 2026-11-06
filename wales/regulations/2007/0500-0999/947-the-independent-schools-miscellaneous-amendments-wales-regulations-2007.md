@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Independent Schools (Miscellaneous Amendments) (Wales) Regulations 2007 (revoked)[^key-4704efdd5714824a69a81b27fe966f79]
+The Independent Schools (Miscellaneous Amendments) (Wales) Regulations 2007 (revoked)[^c-4704efdd5714824a69a81b27fe966f79]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 29 March 2007
 
-[^key-4704efdd5714824a69a81b27fe966f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4704efdd5714824a69a81b27fe966f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-4704efdd5714824a69a81b27fe966f79]
+## 1. Title and commencement[^c-4704efdd5714824a69a81b27fe966f79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Independent Schools (Provision of Information) (Wales) Regulations 2003[^key-4704efdd5714824a69a81b27fe966f79]
+## 2. Amendment of the Independent Schools (Provision of Information) (Wales) Regulations 2003[^c-4704efdd5714824a69a81b27fe966f79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Independent School Standards (Wales) Regulations 2003[^key-4704efdd5714824a69a81b27fe966f79]
+## 3. Amendment of the Independent School Standards (Wales) Regulations 2003[^c-4704efdd5714824a69a81b27fe966f79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4704efdd5714824a69a81b27fe966f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4704efdd5714824a69a81b27fe966f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4704efdd5714824a69a81b27fe966f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4704efdd5714824a69a81b27fe966f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4704efdd5714824a69a81b27fe966f79]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2007/947) revoked (14.2.2024) by [The Independent Schools (Provision of Information) (Wales) Regulations 2024 (S.I. 2024/26)](https://www.legislation.gov.uk/wsi/2024/26), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/26/regulation/1/1), [9](https://www.legislation.gov.uk/wsi/2024/26/regulation/9)
+[^c-4704efdd5714824a69a81b27fe966f79]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2007/947) revoked (14.2.2024) by [The Independent Schools (Provision of Information) (Wales) Regulations 2024 (S.I. 2024/26)](https://www.legislation.gov.uk/wsi/2024/26), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/26/regulation/1/1), [9](https://www.legislation.gov.uk/wsi/2024/26/regulation/9)

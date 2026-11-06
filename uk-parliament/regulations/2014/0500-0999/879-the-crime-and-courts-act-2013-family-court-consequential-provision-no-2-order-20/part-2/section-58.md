@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**58.**[^key-48cb591f8de2ba6f791c20d6a6d072c2] In section 21(1), for the definition of “the appropriate court” substitute—
+**58.**[^c-48cb591f8de2ba6f791c20d6a6d072c2] In section 21(1), for the definition of “the appropriate court” substitute—
 
 > - “the appropriate court”—
 >   - (a) in relation to a person residing in England and Wales means the family court; and
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48cb591f8de2ba6f791c20d6a6d072c2]: Commencement: Art. 58 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-48cb591f8de2ba6f791c20d6a6d072c2]: Commencement: Art. 58 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

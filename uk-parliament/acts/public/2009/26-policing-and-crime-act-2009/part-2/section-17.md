@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Orders requiring attendance at meetings[^key-095b0d93fa04995a73a44c4709699792]
+## 17. Orders requiring attendance at meetings[^c-095b0d93fa04995a73a44c4709699792]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-095b0d93fa04995a73a44c4709699792]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2009/26/section/17) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(d)](https://www.legislation.gov.uk/uksi/2010/507/article/5/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/507/article/6))
+[^c-095b0d93fa04995a73a44c4709699792]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2009/26/section/17) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(d)](https://www.legislation.gov.uk/uksi/2010/507/article/5/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/507/article/6))

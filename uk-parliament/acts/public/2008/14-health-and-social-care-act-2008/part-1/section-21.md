@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Code of practice relating to health care associated infections[^key-a235ca9f857c58f9583ce50cf4328c93]
+## 21. Code of practice relating to health care associated infections[^c-a235ca9f857c58f9583ce50cf4328c93]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a235ca9f857c58f9583ce50cf4328c93]: Commencement: S. 21 in force at 12.1.2009 for specified purposes by [S.I. 2008/3168](https://www.legislation.gov.uk/uksi/2008/3168), [art. 2](https://www.legislation.gov.uk/uksi/2008/3168/article/2)
+[^c-a235ca9f857c58f9583ce50cf4328c93]: Commencement: S. 21 in force at 12.1.2009 for specified purposes by [S.I. 2008/3168](https://www.legislation.gov.uk/uksi/2008/3168), [art. 2](https://www.legislation.gov.uk/uksi/2008/3168/article/2)

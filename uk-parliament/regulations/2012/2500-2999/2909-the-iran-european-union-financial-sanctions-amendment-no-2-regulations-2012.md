@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Iran (European Union Financial Sanctions) (Amendment No.2) Regulations 2012 (revoked)[^key-3aa4e6ac2ce7149824d2232bc741d167]
+The Iran (European Union Financial Sanctions) (Amendment No.2) Regulations 2012 (revoked)[^c-3aa4e6ac2ce7149824d2232bc741d167]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 22nd November 2012
 
-[^key-3aa4e6ac2ce7149824d2232bc741d167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3aa4e6ac2ce7149824d2232bc741d167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3aa4e6ac2ce7149824d2232bc741d167]
+## 1. Citation and commencement[^c-3aa4e6ac2ce7149824d2232bc741d167]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Iran (European Union Financial Sanctions) Regulations 2012[^key-3aa4e6ac2ce7149824d2232bc741d167]
+## 2. Amendments to the Iran (European Union Financial Sanctions) Regulations 2012[^c-3aa4e6ac2ce7149824d2232bc741d167]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-3aa4e6ac2ce7149824d2232bc741d167]
+## 3.[^c-3aa4e6ac2ce7149824d2232bc741d167]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-3aa4e6ac2ce7149824d2232bc741d167]
+## 4.[^c-3aa4e6ac2ce7149824d2232bc741d167]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-3aa4e6ac2ce7149824d2232bc741d167]
+## 5.[^c-3aa4e6ac2ce7149824d2232bc741d167]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3aa4e6ac2ce7149824d2232bc741d167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3aa4e6ac2ce7149824d2232bc741d167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3aa4e6ac2ce7149824d2232bc741d167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3aa4e6ac2ce7149824d2232bc741d167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3aa4e6ac2ce7149824d2232bc741d167]: Textual amendment: Regulations revoked (18.1.2016 at 4:00 p.m.) by [The Iran (European Union Financial Sanctions) Regulations 2016 (S.I. 2016/36)](https://www.legislation.gov.uk/uksi/2016/36), regs. 1(1), [20(1)(b)](https://www.legislation.gov.uk/uksi/2016/36/regulation/20/1/b) (with [regs. 18](https://www.legislation.gov.uk/uksi/2016/36/regulation/18), [21](https://www.legislation.gov.uk/uksi/2016/36/regulation/21))
+[^c-3aa4e6ac2ce7149824d2232bc741d167]: Textual amendment: Regulations revoked (18.1.2016 at 4:00 p.m.) by [The Iran (European Union Financial Sanctions) Regulations 2016 (S.I. 2016/36)](https://www.legislation.gov.uk/uksi/2016/36), regs. 1(1), [20(1)(b)](https://www.legislation.gov.uk/uksi/2016/36/regulation/20/1/b) (with [regs. 18](https://www.legislation.gov.uk/uksi/2016/36/regulation/18), [21](https://www.legislation.gov.uk/uksi/2016/36/regulation/21))

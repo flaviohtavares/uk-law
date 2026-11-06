@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The employing authority of an active member of this scheme must contribute to the scheme in respect of the pensionable earnings of the member at the employing authority's standard rate: 23.2%[^key-d507e6bb72a8170a6ea192a92ddd73f8].
+(1) The employing authority of an active member of this scheme must contribute to the scheme in respect of the pensionable earnings of the member at the employing authority's standard rate: 23.2%[^c-d507e6bb72a8170a6ea192a92ddd73f8].
 
 (2) Paragraph (3) applies if—
 
@@ -45,7 +45,7 @@ Table
 | Employment by an HSC organisation | The HSC organisation |
 | Employment by a GMS practice, an APMS contractor or OOH provider | The GMS practice, an APMS contractor or OOH provider in question |
 | Employment by a determination employer | The determination employer |
-| Medical practitioner employed by a medical contractor or non-GP provider | The Department[^key-621ef4c406c7092743fe0ec2a079058d] |
+| Medical practitioner employed by a medical contractor or non-GP provider | The Department[^c-621ef4c406c7092743fe0ec2a079058d] |
 | Medical contractor or non-GP Provider<br>(including an ophthalmic medical practitioner who is a party to GOS arrangements) | The Department |
 | Dental practitioner or vocational trainee providing GDS services | The Department |
 | GDS provider | The Department |
@@ -55,12 +55,12 @@ Table
 - (a) a medical practitioner employed by a medical contractor or non-GP provider must be paid by the medical contractor or non-GP provider (as the case may be);
 - (b) a medical contractor (including an ophthalmic medical practitioner who is a party to GOS arrangements) or a non-GP provider must be paid by the medical contractor or non-GP provider (as the case may be).
 
-(8) Contributions payable by an employing authority under regulation 47(3) or 56 for a medical practitioner employed by a medical contractor or non-GP provider must be paid by the medical contractor or non-GP provider (as the case may be) rather than the Department[^key-45e280f0c771baea0bcf992c9ad549ce] .
+(8) Contributions payable by an employing authority under regulation 47(3) or 56 for a medical practitioner employed by a medical contractor or non-GP provider must be paid by the medical contractor or non-GP provider (as the case may be) rather than the Department[^c-45e280f0c771baea0bcf992c9ad549ce] .
 
 ## Annotations
 
-[^key-d507e6bb72a8170a6ea192a92ddd73f8]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/nisr/2015/120/regulation/32/1) substituted (1.4.2024) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/49)](https://www.legislation.gov.uk/nisr/2024/49), [regs. 1](https://www.legislation.gov.uk/nisr/2024/49/regulation/1), [2](https://www.legislation.gov.uk/nisr/2024/49/regulation/2)
+[^c-d507e6bb72a8170a6ea192a92ddd73f8]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/nisr/2015/120/regulation/32/1) substituted (1.4.2024) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/49)](https://www.legislation.gov.uk/nisr/2024/49), [regs. 1](https://www.legislation.gov.uk/nisr/2024/49/regulation/1), [2](https://www.legislation.gov.uk/nisr/2024/49/regulation/2)
 
-[^key-621ef4c406c7092743fe0ec2a079058d]: Textual amendment: Word in [reg. 32(6)](https://www.legislation.gov.uk/nisr/2015/120/regulation/32/6) Table substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2023/33/regulation/34)
+[^c-621ef4c406c7092743fe0ec2a079058d]: Textual amendment: Word in [reg. 32(6)](https://www.legislation.gov.uk/nisr/2015/120/regulation/32/6) Table substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2023/33/regulation/34)
 
-[^key-45e280f0c771baea0bcf992c9ad549ce]: Textual amendment: Word in [reg. 32(8)](https://www.legislation.gov.uk/nisr/2015/120/regulation/32/8) Table substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2023/33/regulation/34)
+[^c-45e280f0c771baea0bcf992c9ad549ce]: Textual amendment: Word in [reg. 32(8)](https://www.legislation.gov.uk/nisr/2015/120/regulation/32/8) Table substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2023/33/regulation/34)

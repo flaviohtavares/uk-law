@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 305. Effect of long unauthorised absence ending more than 14 days before expiry of compulsory treatment order[^key-f040fa09ba71f357b3730404ddabcd43]
+## 305. Effect of long unauthorised absence ending more than 14 days before expiry of compulsory treatment order[^c-f040fa09ba71f357b3730404ddabcd43]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the order shall cease to have effect at the expiry of the period of 14 days begi
 
 ## Annotations
 
-[^key-f040fa09ba71f357b3730404ddabcd43]: Commencement: [S. 305](https://www.legislation.gov.uk/asp/2003/13/section/305) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-f040fa09ba71f357b3730404ddabcd43]: Commencement: [S. 305](https://www.legislation.gov.uk/asp/2003/13/section/305) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Removal of human remains[^key-8f5e083ffa53af3be49e0d406191602b]
+## 21. Removal of human remains[^c-8f5e083ffa53af3be49e0d406191602b]
 
 *Extent: E+W+S*
 
@@ -91,16 +91,16 @@ subject to paragraph (10), the undertaker must remove the remains and cause them
 (19) Sections 238 and 239 (use and development of consecrated land and burial grounds) of the 1990 Act apply—
 
 - (a) in relation to land, other than a right over land, acquired for the purposes of the authorised project (whether or not by agreement), so as to permit use by the undertaker in accordance with the provisions of this Order; and
-- (b) in relation to a right over land so acquired (whether or not by agreement), or the temporary use of land pursuant to articles 31[^key-87884b29f411b60b7a5739e6f765488b] (temporary use of land for constructing the authorised project) and 32 (temporary use of land for maintaining the authorised project), so as to permit the exercise of that right or the temporary use by the undertaker in accordance with the provisions of this Order, without prejudice to the status of the land over which the right is exercised as consecrated land,
+- (b) in relation to a right over land so acquired (whether or not by agreement), or the temporary use of land pursuant to articles 31[^c-87884b29f411b60b7a5739e6f765488b] (temporary use of land for constructing the authorised project) and 32 (temporary use of land for maintaining the authorised project), so as to permit the exercise of that right or the temporary use by the undertaker in accordance with the provisions of this Order, without prejudice to the status of the land over which the right is exercised as consecrated land,
 
 and in section 238(1)(b) of the 1990 Act reference to a “**planning permission**” includes this Order, in section 240(1) of the 1990 Act reference to “**regulations made for the purposes of sections 238(3) and (4) and 239(2)**” means, so far as applicable to land or a right over land acquired under this Order, paragraphs (2) to (16) of this article and in section 240(3) of the 1990 Act reference to a “**statutory undertaker**” includes the undertaker and reference to “**any other enactment**” includes this Order.
 
 ## Annotations
 
-[^key-8f5e083ffa53af3be49e0d406191602b]: Commencement: Art. 21 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-8f5e083ffa53af3be49e0d406191602b]: Commencement: Art. 21 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
 [^f00067]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Section 25 was substituted by section 2 of the Church of England (Miscellaneous Provisions) Measure [2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1) and amended by section 96(1) of, and paragraph 1 of Schedule 3 to, the Ecclesiastical Jurisdiction and Care of Churches Measure [2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3).
 
 [^f00068]: Footnote: [S.I. 1950/792](https://www.legislation.gov.uk/uksi/1950/792).
 
-[^key-87884b29f411b60b7a5739e6f765488b]: Textual amendment: Words in [art. 21(19)(b)](https://www.legislation.gov.uk/uksi/2025/165/article/21/19/b) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-87884b29f411b60b7a5739e6f765488b]: Textual amendment: Words in [art. 21(19)(b)](https://www.legislation.gov.uk/uksi/2025/165/article/21/19/b) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)

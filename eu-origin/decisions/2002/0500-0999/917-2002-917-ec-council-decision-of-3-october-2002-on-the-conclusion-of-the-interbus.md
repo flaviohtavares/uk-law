@@ -31,10 +31,10 @@ summary: ''
 
 of 3 October 2002 on the conclusion of the Interbus Agreement on the international occasional carriage of passengers by coach and bus (revoked)
 
-[^key-1bca1c4f54e414bd8493ab639b215d4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bca1c4f54e414bd8493ab639b215d4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-1bca1c4f54e414bd8493ab639b215d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-1bca1c4f54e414bd8493ab639b215d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1bca1c4f54e414bd8493ab639b215d4c]: Textual amendment: Decision revoked (31.12.2020) by The Common Rules for Access to the [International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1bca1c4f54e414bd8493ab639b215d4c]: Textual amendment: Decision revoked (31.12.2020) by The Common Rules for Access to the [International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Notification of vacancies and appointments[^key-893da014bd00b8addacfa776e96ae0ae]
+## 21. Notification of vacancies and appointments[^c-893da014bd00b8addacfa776e96ae0ae]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 (5) For the purposes of this regulation, “appointed member” (“*aelod penodedig*”) means—
 
 - (a) a foundation governor;
-- (b) an authority governor[^key-3e07fea31d63c6ef0d98f36c532e0d69];
+- (b) an authority governor[^c-3e07fea31d63c6ef0d98f36c532e0d69];
 - (c) a community governor (including an additional community governor);
 - (d) a representative governor;
 - (e) a sponsor governor; and
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-893da014bd00b8addacfa776e96ae0ae]: Commencement: Reg. 21 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-893da014bd00b8addacfa776e96ae0ae]: Commencement: Reg. 21 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-3e07fea31d63c6ef0d98f36c532e0d69]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/21/5) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(10)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/10)
+[^c-3e07fea31d63c6ef0d98f36c532e0d69]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/21/5) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(10)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/10)

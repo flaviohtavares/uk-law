@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Power of the court and the Commission to make schemes[^key-061162d2bf7b1912d58676f12cc9ed58][^key-56e8df163325865798e8d873413e0bc8]
+## 8. Power of the court and the Commission to make schemes[^c-061162d2bf7b1912d58676f12cc9ed58][^c-56e8df163325865798e8d873413e0bc8]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ Before the italic heading preceding section 75A of the Charities Act 2011 insert
 
 ## Annotations
 
-[^key-061162d2bf7b1912d58676f12cc9ed58]: Commencement: S. 8 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-061162d2bf7b1912d58676f12cc9ed58]: Commencement: S. 8 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-56e8df163325865798e8d873413e0bc8]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/6/section/8) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/5)
+[^c-56e8df163325865798e8d873413e0bc8]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/6/section/8) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/5)

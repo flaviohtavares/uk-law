@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Attestation of certain overseas electors' declarations[^key-0ae0b0591942d3a8b743fff7d7972fd2]
+## 20. Attestation of certain overseas electors' declarations[^c-0ae0b0591942d3a8b743fff7d7972fd2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ae0b0591942d3a8b743fff7d7972fd2]: Textual amendment: Reg. 20 revoked (10.6.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3198/schedule/2)
+[^c-0ae0b0591942d3a8b743fff7d7972fd2]: Textual amendment: Reg. 20 revoked (10.6.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3198/schedule/2)

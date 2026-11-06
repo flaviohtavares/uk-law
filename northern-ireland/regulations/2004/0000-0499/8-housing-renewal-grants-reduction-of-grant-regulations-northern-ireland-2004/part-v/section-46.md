@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Other amounts to be disregarded[^key-49944275af071b78f051ba0627aca4b3]
+## 46. Other amounts to be disregarded[^c-49944275af071b78f051ba0627aca4b3]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49944275af071b78f051ba0627aca4b3]: Commencement: Reg. 46 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-49944275af071b78f051ba0627aca4b3]: Commencement: Reg. 46 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00105]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760)

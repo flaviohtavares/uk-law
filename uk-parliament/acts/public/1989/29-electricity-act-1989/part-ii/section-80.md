@@ -35,7 +35,7 @@ summary: ''
 
 and such nominal value or principal sum shall be taken in those accounts to be accumulated realised profits.
 
-(4) In subsection (3) above “**statutory accounts of a company**” means any accounts prepared by the company for the purpose of any provision of the Companies Act 2006[^key-993e935b6b1c784e8edcfc5386e406f5] (including group accounts).
+(4) In subsection (3) above “**statutory accounts of a company**” means any accounts prepared by the company for the purpose of any provision of the Companies Act 2006[^c-993e935b6b1c784e8edcfc5386e406f5] (including group accounts).
 
 (5) The Secretary of State shall not—
 
@@ -63,4 +63,4 @@ except at a time when the company whose liability is extinguished by the order o
 
 ## Annotations
 
-[^key-993e935b6b1c784e8edcfc5386e406f5]: Textual amendment: Words in [s. 80(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/80/4) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 156](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/156) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-993e935b6b1c784e8edcfc5386e406f5]: Textual amendment: Words in [s. 80(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/80/4) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 156](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/156) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))

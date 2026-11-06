@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 9. Credits to and debits from main non-domestic rating accounts[^key-45f6dc8f7804c8285965d9f741eb29f0]
+## 9. Credits to and debits from main non-domestic rating accounts[^c-45f6dc8f7804c8285965d9f741eb29f0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45f6dc8f7804c8285965d9f741eb29f0]: Commencement: S. 9 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-45f6dc8f7804c8285965d9f741eb29f0]: Commencement: S. 9 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)

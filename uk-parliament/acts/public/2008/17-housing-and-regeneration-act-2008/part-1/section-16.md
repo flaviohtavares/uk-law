@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Regional planning[^key-e0855c35cff0fc0a5e3d971692d24c6b]
+## 16. Regional planning[^c-e0855c35cff0fc0a5e3d971692d24c6b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0855c35cff0fc0a5e3d971692d24c6b]: Textual amendment: S. 16 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ii)
+[^c-e0855c35cff0fc0a5e3d971692d24c6b]: Textual amendment: S. 16 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ii)

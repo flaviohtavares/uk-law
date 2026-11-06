@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Leader Grants (Scotland) Amendment Regulations 2012 (revoked)[^key-ad44c2ed70d96cbd6a4d6f5aea3c90df]
+The Leader Grants (Scotland) Amendment Regulations 2012 (revoked)[^c-ad44c2ed70d96cbd6a4d6f5aea3c90df]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 2nd July 2012
 
-[^key-ad44c2ed70d96cbd6a4d6f5aea3c90df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad44c2ed70d96cbd6a4d6f5aea3c90df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ad44c2ed70d96cbd6a4d6f5aea3c90df]
+## 1. Citation and commencement[^c-ad44c2ed70d96cbd6a4d6f5aea3c90df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Leader Grants (Scotland) Regulations 2008[^key-ad44c2ed70d96cbd6a4d6f5aea3c90df]
+## 2. Amendment to the Leader Grants (Scotland) Regulations 2008[^c-ad44c2ed70d96cbd6a4d6f5aea3c90df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad44c2ed70d96cbd6a4d6f5aea3c90df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad44c2ed70d96cbd6a4d6f5aea3c90df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ad44c2ed70d96cbd6a4d6f5aea3c90df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad44c2ed70d96cbd6a4d6f5aea3c90df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad44c2ed70d96cbd6a4d6f5aea3c90df]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), reg. 1(1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))
+[^c-ad44c2ed70d96cbd6a4d6f5aea3c90df]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), reg. 1(1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))

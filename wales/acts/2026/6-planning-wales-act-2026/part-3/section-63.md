@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Procedure for dealing with applications: general[^key-6009c5976cba8e45cac43ad09327cccd]
+## 63. Procedure for dealing with applications: general[^c-6009c5976cba8e45cac43ad09327cccd]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6009c5976cba8e45cac43ad09327cccd]: Commencement: S. 63 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6009c5976cba8e45cac43ad09327cccd]: Commencement: S. 63 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

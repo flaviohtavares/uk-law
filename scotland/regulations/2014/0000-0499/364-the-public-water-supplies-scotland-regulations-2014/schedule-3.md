@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — METHODS OF ANALYSIS[^key-45d2b197a1ec013257cc5dd51a3f0202]
+## SCHEDULE 3 — METHODS OF ANALYSIS[^c-45d2b197a1ec013257cc5dd51a3f0202]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ Regulation 14A(1) and (2)
 
 (2) Scottish Water must ensure that laboratories or parties contracted by laboratories apply quality management system practices in accordance with European standard EN ISO/IEC 17025:2005 entitled “*General requirements for the competence of testing and calibration laboratories (ISO/IEC 17025:2005)*”, or other equivalent standards accepted at international level.
 
-(3)[^key-6b143de52b6bbc8d0c0350fc825b289d] For the purposes of assessing the equivalence of alternative methods with methods specified in this schedule, Scottish Water may use European standard EN ISO 17994:2014 entitled “*Water quality - Requirements for the comparison of the relative recovery of microorganisms by two quantitative methods*”, or European standard EN ISO 16140:2003 entitled “*Microbiology of food and animal feeding stuffs - Protocol for the validation of alternative methods*”, or any other similar internationally accepted protocols, to establish the equivalence of methods based on principles, other than culturing, which are beyond the scope of European Standard EN ISO 17994:2014.
+(3)[^c-6b143de52b6bbc8d0c0350fc825b289d] For the purposes of assessing the equivalence of alternative methods with methods specified in this schedule, Scottish Water may use European standard EN ISO 17994:2014 entitled “*Water quality - Requirements for the comparison of the relative recovery of microorganisms by two quantitative methods*”, or European standard EN ISO 16140:2003 entitled “*Microbiology of food and animal feeding stuffs - Protocol for the validation of alternative methods*”, or any other similar internationally accepted protocols, to establish the equivalence of methods based on principles, other than culturing, which are beyond the scope of European Standard EN ISO 17994:2014.
 
 **2.** In the absence of an analytical method meeting the minimum performance criteria set out in Part B of this schedule, Scottish Water must ensure that monitoring is carried out using best available techniques not entailing excessive costs.
 
@@ -42,15 +42,15 @@ Regulation 14A(1) and (2)
   - (i) European standard EN ISO 9308-1:2014 entitled “*Water quality - Enumeration of Escherichia coli and coliform bacteria - Part 1: Membrane filtration method for waters with low bacterial background flora (ISO 9308-1:2014)*”; or
   - (ii) European standard EN ISO 9308-2:2014 entitled “*Water quality - Enumeration of Escherichia coli and coliform bacteria - Part 2: Most probable number method (ISO 9308-2:2012)*”;
 - (b) for enterococci, European standard EN ISO 7899-2:2000 entitled “*Water quality - Detection and enumeration of intestinal enterococci - Part 2: Membrane filtration method (ISO 7899-2:2000)*”;
-- (c)[^key-9aa6d8c10b055857de7253ac3f1309e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9aa6d8c10b055857de7253ac3f1309e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) for colony count 22 °C (the enumeration of culturable microorganisms — colony count after aerobic incubation at 22 °C), European standard EN ISO 6222:1999 entitled “*Water quality - Enumeration of culturable micro-organisms - Colony count by inoculation in a nutrient agar culture medium (ISO 6222:1999)*”;
-- (e)[^key-2937a5cc791ede6e92d58212a747ffbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-2937a5cc791ede6e92d58212a747ffbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) for *Clostridium perfringens* including spores, European standard EN ISO 14189:2016 entitled “*Water quality - Enumeration of Clostridium perfringens - Method using membrane filtration (ISO 14189:2013)*”
-- (g)[^key-b7e8c45c767f5e928cff347437a1a293] for *somatic coliphages*, European Standard EN ISO 10705-2:2000 entitled “*Water quality — Detection and enumeration of bacteriophages — Part 2: Enumeration of somatic coliphages*” and European Standard EN ISO 10705-3:2003 entitled “*Water quality — Detection and enumeration of bacteriophages — Part 3: Validation of methods for concentration of bacteriophages from water*” can be used.
+- (g)[^c-b7e8c45c767f5e928cff347437a1a293] for *somatic coliphages*, European Standard EN ISO 10705-2:2000 entitled “*Water quality — Detection and enumeration of bacteriophages — Part 2: Enumeration of somatic coliphages*” and European Standard EN ISO 10705-3:2003 entitled “*Water quality — Detection and enumeration of bacteriophages — Part 3: Validation of methods for concentration of bacteriophages from water*” can be used.
 
 ### PART B — Chemical and indicator parameters
 
-**1.** (1) For[^key-80d8961a58048241ae452f5dd6a28a7f] a parameter in Table 1, the method of analysis used must, as a minimum, be capable of measuring concentrations equal to the prescribed concentration or value for the parameter with—
+**1.** (1) For[^c-80d8961a58048241ae452f5dd6a28a7f] a parameter in Table 1, the method of analysis used must, as a minimum, be capable of measuring concentrations equal to the prescribed concentration or value for the parameter with—
 
 - (a) a limit of quantification of 30 % or less of the prescribed concentration or value for the parameter; and
 - (b) an uncertainty of measurement as specified in Table 1 for the parameter.
@@ -59,9 +59,9 @@ Regulation 14A(1) and (2)
 
 **2.** The uncertainty of measurement specified in Table 1 for a parameter must not be used as an additional tolerance to the prescribed concentration or value for the parameter.
 
-**3.**[^key-72a6fb44b1cf16967e90214124a0aae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-72a6fb44b1cf16967e90214124a0aae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Minimum performance characteristic: uncertainty of measurement[^key-71f8f9fcd1f78a620b8e43790763c0c2]
+Minimum performance characteristic: uncertainty of measurement[^c-71f8f9fcd1f78a620b8e43790763c0c2]
 
 <table>
 <thead>
@@ -169,18 +169,18 @@ Minimum performance characteristics: limit of detection
 
 ## Annotations
 
-[^key-45d2b197a1ec013257cc5dd51a3f0202]: Textual amendment: Sch. 3 substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2017/281/schedule/2) (as amended by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [3(3)(a)(b)](https://www.legislation.gov.uk/ssi/2017/321/regulation/3/3))
+[^c-45d2b197a1ec013257cc5dd51a3f0202]: Textual amendment: Sch. 3 substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2017/281/schedule/2) (as amended by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [3(3)(a)(b)](https://www.legislation.gov.uk/ssi/2017/321/regulation/3/3))
 
-[^key-6b143de52b6bbc8d0c0350fc825b289d]: Textual amendment: [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/paragraph/1/3) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(2)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/2)
+[^c-6b143de52b6bbc8d0c0350fc825b289d]: Textual amendment: [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/paragraph/1/3) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(2)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/2)
 
-[^key-9aa6d8c10b055857de7253ac3f1309e0]: Textual amendment: [Sch. 3 Pt. A para. 2(c)](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/part/A/paragraph/2/c) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(3)(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/3/a)
+[^c-9aa6d8c10b055857de7253ac3f1309e0]: Textual amendment: [Sch. 3 Pt. A para. 2(c)](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/part/A/paragraph/2/c) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(3)(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/3/a)
 
-[^key-2937a5cc791ede6e92d58212a747ffbb]: Textual amendment: [Sch. 3 Pt. A para. 2(e)](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/part/A/paragraph/2/e) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(3)(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/3/a)
+[^c-2937a5cc791ede6e92d58212a747ffbb]: Textual amendment: [Sch. 3 Pt. A para. 2(e)](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/part/A/paragraph/2/e) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(3)(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/3/a)
 
-[^key-b7e8c45c767f5e928cff347437a1a293]: Textual amendment: [Sch. 3 Pt. A para. 2(g)](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/part/A/paragraph/2/g) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(3)(b)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/3/b)
+[^c-b7e8c45c767f5e928cff347437a1a293]: Textual amendment: [Sch. 3 Pt. A para. 2(g)](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/part/A/paragraph/2/g) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(3)(b)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/3/b)
 
-[^key-80d8961a58048241ae452f5dd6a28a7f]: Textual amendment: Word in [sch. 3 Pt. B para. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/part/B/paragraph/1/1) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(4)(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/4/a)
+[^c-80d8961a58048241ae452f5dd6a28a7f]: Textual amendment: Word in [sch. 3 Pt. B para. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/part/B/paragraph/1/1) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(4)(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/4/a)
 
-[^key-72a6fb44b1cf16967e90214124a0aae4]: Textual amendment: [Sch. 3 Pt. B para. 3](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/part/B/paragraph/3) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(4)(b)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/4/b)
+[^c-72a6fb44b1cf16967e90214124a0aae4]: Textual amendment: [Sch. 3 Pt. B para. 3](https://www.legislation.gov.uk/ssi/2014/364/schedule/3/part/B/paragraph/3) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [18(4)(b)](https://www.legislation.gov.uk/ssi/2022/387/regulation/18/4/b)
 
-[^key-71f8f9fcd1f78a620b8e43790763c0c2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2014/364/schedule/3) Pt. B Table and notes substituted for sch. 3 Pt. B Table 1, 2 and notes (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2022/387/schedule/3)
+[^c-71f8f9fcd1f78a620b8e43790763c0c2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2014/364/schedule/3) Pt. B Table and notes substituted for sch. 3 Pt. B Table 1, 2 and notes (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2022/387/schedule/3)

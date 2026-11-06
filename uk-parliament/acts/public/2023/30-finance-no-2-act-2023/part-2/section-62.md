@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Modified “small production premises” test[^M_I_88647f58-3759-44a5-c6c8-fc3481493141][^key-c6ec37782a14be2ae7ad3e28b4fcccd7]
+## 62. Modified “small production premises” test[^M_I_88647f58-3759-44a5-c6c8-fc3481493141][^c-c6ec37782a14be2ae7ad3e28b4fcccd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^M_I_88647f58-3759-44a5-c6c8-fc3481493141]: Commencement: S. 62 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-c6ec37782a14be2ae7ad3e28b4fcccd7]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2023/30/section/62) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-c6ec37782a14be2ae7ad3e28b4fcccd7]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2023/30/section/62) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

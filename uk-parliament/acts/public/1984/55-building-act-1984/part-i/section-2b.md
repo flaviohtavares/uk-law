@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2B. Optional requirements[^key-57d8da5cadb2eb3113b95c5dd22833d4]
+## 2B. Optional requirements[^c-57d8da5cadb2eb3113b95c5dd22833d4]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57d8da5cadb2eb3113b95c5dd22833d4]: Textual amendment: S. 2B inserted (26.3.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 42](https://www.legislation.gov.uk/ukpga/2015/20/section/42), [115(1)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/1/b)
+[^c-57d8da5cadb2eb3113b95c5dd22833d4]: Textual amendment: S. 2B inserted (26.3.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 42](https://www.legislation.gov.uk/ukpga/2015/20/section/42), [115(1)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/1/b)

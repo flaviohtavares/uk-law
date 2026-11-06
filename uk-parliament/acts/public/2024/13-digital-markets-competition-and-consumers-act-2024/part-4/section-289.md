@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 289. Consequential amendments[^key-fc1a42f278bec807aa0ac84921860898][^key-1f15f4d1f27891611dd6afd672d2fd9c]
+## 289. Consequential amendments[^c-fc1a42f278bec807aa0ac84921860898][^c-1f15f4d1f27891611dd6afd672d2fd9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc1a42f278bec807aa0ac84921860898]: Commencement: S. 289 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-fc1a42f278bec807aa0ac84921860898]: Commencement: S. 289 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-1f15f4d1f27891611dd6afd672d2fd9c]: Commencement: [S. 289](https://www.legislation.gov.uk/ukpga/2024/13/section/289) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)
+[^c-1f15f4d1f27891611dd6afd672d2fd9c]: Commencement: [S. 289](https://www.legislation.gov.uk/ukpga/2024/13/section/289) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)

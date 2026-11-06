@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Committee on industry competence[^key-b88a2b9d2c65d1eac4fe058bd6f1e1b7][^key-cd5ac2e466266ea8bb42cb308aae3f1e]
+## 10. Committee on industry competence[^c-b88a2b9d2c65d1eac4fe058bd6f1e1b7][^c-cd5ac2e466266ea8bb42cb308aae3f1e]
 
 *Extent: E+W*
 
-(1) The regulator must [^key-3dcbfb2b357a080f77d34d33acc6adb2]... establish and maintain a committee concerned with the competence of persons in the built environment industry (“industry competence”), with the following functions (and any other function that the regulator considers appropriate).
+(1) The regulator must [^c-3dcbfb2b357a080f77d34d33acc6adb2]... establish and maintain a committee concerned with the competence of persons in the built environment industry (“industry competence”), with the following functions (and any other function that the regulator considers appropriate).
 
 (2) The functions are—
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b88a2b9d2c65d1eac4fe058bd6f1e1b7]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-b88a2b9d2c65d1eac4fe058bd6f1e1b7]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-cd5ac2e466266ea8bb42cb308aae3f1e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/30/section/10) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/b)
+[^c-cd5ac2e466266ea8bb42cb308aae3f1e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/30/section/10) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/b)
 
-[^key-3dcbfb2b357a080f77d34d33acc6adb2]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/10/1) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/14) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-3dcbfb2b357a080f77d34d33acc6adb2]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/10/1) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/14) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))

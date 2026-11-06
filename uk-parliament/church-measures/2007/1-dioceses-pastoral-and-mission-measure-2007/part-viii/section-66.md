@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 66. Citation, commencement and extent[^key-1205ae44d764dc1991e02e67e8c00149]
+## 66. Citation, commencement and extent[^c-1205ae44d764dc1991e02e67e8c00149]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1205ae44d764dc1991e02e67e8c00149]: Commencement: [S. 66](https://www.legislation.gov.uk/ukcm/2007/1/section/66) in force at 1.1.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-1205ae44d764dc1991e02e67e8c00149]: Commencement: [S. 66](https://www.legislation.gov.uk/ukcm/2007/1/section/66) in force at 1.1.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops

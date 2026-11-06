@@ -44,7 +44,7 @@ Coming into operation in accordance with regulation 1
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by Articles, 5, 7(2), 9(2), (3), (5) to (7), 9(5)(a), 10, 11(1) and (3), 12(2) and (3), 13(3), 14(2) and (3), 15(2) to (5), 16(3) to (5), 17, 19(5), 20(2), 22(3) and (4), 23(3) and (5), 24(2)(d), (3) and (4), 25(1), 27(2), 29(1), (7) and (8), 30, 31(2)(a), (6) and (8), 32(4), (5), (9), 33, 36, 38, 43(3) to (7), 45(3)(a), 46, 48 and 101 of, and paragraphs 1,2, 3(2), 4, 5 and 7 of Schedule 1 and paragraphs 2 and 3 of Schedule 5 to, the Welfare Reform (Northern Ireland) Order 2015[^c22823971].
 
-Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(a) of the Welfare Reform (Northern Ireland) Order 2015.[^key-17d59d02a376ce43aad3c23a9bf17b24]
+Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(a) of the Welfare Reform (Northern Ireland) Order 2015.[^c-17d59d02a376ce43aad3c23a9bf17b24]
 
 ## Contents
 
@@ -149,7 +149,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - [Section 38 — Amounts of elements](part-4/section-38.md)
 - [Section 39 — Run-on after a death](part-4/section-39.md)
 
-### PART 5 — CAPABILITY FOR WORK OR WORK-RELATED ACTIVITY[^key-312755198daf08b15f4842a863ab9699]
+### PART 5 — CAPABILITY FOR WORK OR WORK-RELATED ACTIVITY[^c-312755198daf08b15f4842a863ab9699]
 
 - [Section 40 — Limited capability for work](part-5/section-40.md)
 - [Section 41 — Limited capability for work and work-related activity](part-5/section-41.md)
@@ -172,7 +172,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - [Section 49 — Valuation of capital](part-6/section-49.md)
 - [Section 50 — Notional capital](part-6/section-50.md)
 
-#### CHAPTER 2 — EARNED INCOME[^key-a0a644e7650ae88eed2c1111d3a842b5]
+#### CHAPTER 2 — EARNED INCOME[^c-a0a644e7650ae88eed2c1111d3a842b5]
 
 *Extent: N.I.*
 
@@ -356,8 +356,8 @@ An assessment of the impact of universal credit has been carried out. Copies of 
 
 [^c22823971]: Marginal citation: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-17d59d02a376ce43aad3c23a9bf17b24]: Modification: Rule modified (temp.) (8.4.2020) by [The Social Security (Coronavirus) (Prisoners) Regulations (Northern Ireland) 2020 (S.R. 2020/63)](https://www.legislation.gov.uk/nisr/2020/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/63/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2020/63/regulation/2/1)[(2)(e)](https://www.legislation.gov.uk/nisr/2020/63/regulation/2/2/e) (with [reg. 6(2)](https://www.legislation.gov.uk/nisr/2020/63/regulation/6/2))
+[^c-17d59d02a376ce43aad3c23a9bf17b24]: Modification: Rule modified (temp.) (8.4.2020) by [The Social Security (Coronavirus) (Prisoners) Regulations (Northern Ireland) 2020 (S.R. 2020/63)](https://www.legislation.gov.uk/nisr/2020/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/63/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2020/63/regulation/2/1)[(2)(e)](https://www.legislation.gov.uk/nisr/2020/63/regulation/2/2/e) (with [reg. 6(2)](https://www.legislation.gov.uk/nisr/2020/63/regulation/6/2))
 
-[^key-312755198daf08b15f4842a863ab9699]: Modification: [Pt. 5](https://www.legislation.gov.uk/nisr/2016/216/part/5) excluded (coming into force in accordance with reg.1 of the amending Rule) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [regs. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1), [24(2)](https://www.legislation.gov.uk/nisr/2016/226/regulation/24/2)
+[^c-312755198daf08b15f4842a863ab9699]: Modification: [Pt. 5](https://www.legislation.gov.uk/nisr/2016/216/part/5) excluded (coming into force in accordance with reg.1 of the amending Rule) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [regs. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1), [24(2)](https://www.legislation.gov.uk/nisr/2016/226/regulation/24/2)
 
-[^key-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)
+[^c-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)

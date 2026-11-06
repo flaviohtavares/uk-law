@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 379ZC. Power to amend sections 379ZA and 379ZB[^key-e0c2a2277f34cd895d7942903028b4be]
+## 379ZC. Power to amend sections 379ZA and 379ZB[^c-e0c2a2277f34cd895d7942903028b4be]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ and the definition may include alternative, cumulative or relative requirements.
 
 ## Annotations
 
-[^key-e0c2a2277f34cd895d7942903028b4be]: Textual amendment: Ss. 379ZA-379ZC and cross-heading inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 123(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/123/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)
+[^c-e0c2a2277f34cd895d7942903028b4be]: Textual amendment: Ss. 379ZA-379ZC and cross-heading inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 123(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/123/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)

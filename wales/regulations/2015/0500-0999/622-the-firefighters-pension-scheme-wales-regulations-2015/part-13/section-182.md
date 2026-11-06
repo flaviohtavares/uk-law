@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 182. Forfeiture of pensions: offences committed by other persons[^key-1f1052b72527dfe59936d22b3977a3ce]
+## 182. Forfeiture of pensions: offences committed by other persons[^c-1f1052b72527dfe59936d22b3977a3ce]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f1052b72527dfe59936d22b3977a3ce]: Commencement: Reg. 182 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-1f1052b72527dfe59936d22b3977a3ce]: Commencement: Reg. 182 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00082]: Footnote: Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48).

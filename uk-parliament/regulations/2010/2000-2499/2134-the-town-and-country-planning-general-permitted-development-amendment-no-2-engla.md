@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (General Permitted Development) (Amendment) (No.2) (England) Order 2010 (revoked)[^key-3f5dd743123011bf89f6824315b99121]
+The Town and Country Planning (General Permitted Development) (Amendment) (No.2) (England) Order 2010 (revoked)[^c-3f5dd743123011bf89f6824315b99121]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st October 2010
 
-[^key-3f5dd743123011bf89f6824315b99121]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f5dd743123011bf89f6824315b99121]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-3f5dd743123011bf89f6824315b99121]
+## 1. Citation, commencement and application[^c-3f5dd743123011bf89f6824315b99121]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Town and Country Planning (General Permitted Development) Order 1995[^key-3f5dd743123011bf89f6824315b99121]
+## 2. Amendment of the Town and Country Planning (General Permitted Development) Order 1995[^c-3f5dd743123011bf89f6824315b99121]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f5dd743123011bf89f6824315b99121]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f5dd743123011bf89f6824315b99121]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3f5dd743123011bf89f6824315b99121]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f5dd743123011bf89f6824315b99121]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3f5dd743123011bf89f6824315b99121]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2134) revoked (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/14) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2)[(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/3))
+[^c-3f5dd743123011bf89f6824315b99121]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2134) revoked (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/14) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2)[(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/3))

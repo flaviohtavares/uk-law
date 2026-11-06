@@ -27,15 +27,15 @@ summary: ''
 - (c) a wholly-owned subsidiary—
   - (i) of a bank within paragraph (a), or
   - (ii) of a building society,
-- (d)[^key-aec9baffc0cf38bb3f8096064e3de966] a person with permission under Part 4A of the Financial Services and Markets Act 2000 to enter into, or to exercise or have the right to exercise rights and duties under, a contract of the kind mentioned in paragraph 23 or paragraph 23B of Schedule 2 to that Act (credit agreements and contracts for hire of goods);
+- (d)[^c-aec9baffc0cf38bb3f8096064e3de966] a person with permission under Part 4A of the Financial Services and Markets Act 2000 to enter into, or to exercise or have the right to exercise rights and duties under, a contract of the kind mentioned in paragraph 23 or paragraph 23B of Schedule 2 to that Act (credit agreements and contracts for hire of goods);
 - (e) a bond-issuer, within the meaning of section 564G, but only in relation to any bond assets which are rights under purchase and resale arrangements, diminishing shared ownership arrangements or profit share agency arrangements,
 - (f) a person authorised in a jurisdiction outside the United Kingdom—
   - (i) to receive deposits or other repayable funds from the public, and
   - (ii) to grant credits for its own account,
-- (g) an insurance company as defined in section 65 of FA 2012[^key-b09ede69f4136f8f55775bc26abbae92], or
-- (h) a person who is authorised in a jurisdiction outside the United Kingdom to carry on a business which consists of effecting or carrying out contracts of insurance or substantially similar business but not an insurance special purpose vehicle as defined in section 139(1) of FA 2012[^key-28c5eaca9f2ba272cf613fb5f644f08b].
+- (g) an insurance company as defined in section 65 of FA 2012[^c-b09ede69f4136f8f55775bc26abbae92], or
+- (h) a person who is authorised in a jurisdiction outside the United Kingdom to carry on a business which consists of effecting or carrying out contracts of insurance or substantially similar business but not an insurance special purpose vehicle as defined in section 139(1) of FA 2012[^c-28c5eaca9f2ba272cf613fb5f644f08b].
 
-(1A)[^key-683cb82e79f74342308b319e127e0606] Subsection (1)(d) must be read with—
+(1A)[^c-683cb82e79f74342308b319e127e0606] Subsection (1)(d) must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000,
 - (b) any relevant order under that section, and
@@ -50,10 +50,10 @@ summary: ''
 
 [^M_F_a209e0c6-80ab-4665-d78f-8073a6b93d6d]: Textual amendment: S. 564B inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-aec9baffc0cf38bb3f8096064e3de966]: Textual amendment: S. 564B(1)(d) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 12(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/12/a)
+[^c-aec9baffc0cf38bb3f8096064e3de966]: Textual amendment: S. 564B(1)(d) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 12(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/12/a)
 
-[^key-b09ede69f4136f8f55775bc26abbae92]: Textual amendment: Words in s. 564B(1)(g) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 133(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/133/a)
+[^c-b09ede69f4136f8f55775bc26abbae92]: Textual amendment: Words in s. 564B(1)(g) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 133(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/133/a)
 
-[^key-28c5eaca9f2ba272cf613fb5f644f08b]: Textual amendment: Words in s. 564B(1)(h) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 133(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/133/b)
+[^c-28c5eaca9f2ba272cf613fb5f644f08b]: Textual amendment: Words in s. 564B(1)(h) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 133(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/133/b)
 
-[^key-683cb82e79f74342308b319e127e0606]: Textual amendment: S. 564B(1A) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 12(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/12/b)
+[^c-683cb82e79f74342308b319e127e0606]: Textual amendment: S. 564B(1A) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 12(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/12/b)

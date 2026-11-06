@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control No. 2) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-f0786abd791e3b7d2876b1ad292c7c0f]
+Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control No. 2) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-f0786abd791e3b7d2876b1ad292c7c0f]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st August 2003
 
-[^key-f0786abd791e3b7d2876b1ad292c7c0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0786abd791e3b7d2876b1ad292c7c0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f0786abd791e3b7d2876b1ad292c7c0f]
+## 1. Citation and commencement[^c-f0786abd791e3b7d2876b1ad292c7c0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control No. 2) Regulations (Northern Ireland) 2002[^key-f0786abd791e3b7d2876b1ad292c7c0f]
+## 2. Amendment to the Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control No. 2) Regulations (Northern Ireland) 2002[^c-f0786abd791e3b7d2876b1ad292c7c0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0786abd791e3b7d2876b1ad292c7c0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0786abd791e3b7d2876b1ad292c7c0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0786abd791e3b7d2876b1ad292c7c0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0786abd791e3b7d2876b1ad292c7c0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0786abd791e3b7d2876b1ad292c7c0f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/363) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)
+[^c-f0786abd791e3b7d2876b1ad292c7c0f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/363) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)

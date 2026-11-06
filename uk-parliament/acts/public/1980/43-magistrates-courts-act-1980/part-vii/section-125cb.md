@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the applicant for the order or any other person entitled to execute the warrant concerned;
 - (b) any employee of a body or person who, for the purposes of section 125B above, is an approved enforcement agency in relation to the warrant;
-- (c) any [^key-b5132843b8d36c139424cd851c3d1dda]... person appointed under section 2(1) of the Courts Act 2003.
+- (c) any [^c-b5132843b8d36c139424cd851c3d1dda]... person appointed under section 2(1) of the Courts Act 2003.
 
 (2) A person who intentionally or recklessly—
 
@@ -49,4 +49,4 @@ commits an offence.
 
 [^c19487911]: Textual amendment: Ss. 125CA, 125CB inserted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 28](https://www.legislation.gov.uk/ukpga/2004/28/section/28), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/579/article/3/c)
 
-[^key-b5132843b8d36c139424cd851c3d1dda]: Textual amendment: Words in [s. 125CB(1)(c)](https://www.legislation.gov.uk/ukpga/1980/43/section/125CB/1/c) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/9); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-b5132843b8d36c139424cd851c3d1dda]: Textual amendment: Words in [s. 125CB(1)(c)](https://www.legislation.gov.uk/ukpga/1980/43/section/125CB/1/c) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/9); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

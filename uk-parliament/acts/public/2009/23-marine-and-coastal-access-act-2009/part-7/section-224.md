@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Power to make byelaws[^key-b7998f14940ae4d4b783048b35fe5327]
+## 224. Power to make byelaws[^c-b7998f14940ae4d4b783048b35fe5327]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7998f14940ae4d4b783048b35fe5327]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2009/23/section/224) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)
+[^c-b7998f14940ae4d4b783048b35fe5327]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2009/23/section/224) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)

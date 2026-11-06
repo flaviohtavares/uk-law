@@ -35,40 +35,40 @@ setting out conditions for movement, storage and processing of certain fruits an
 
 *(notified under document C(2017) 8395)* (revoked)
 
-[^key-2452bf18cca026223d2ccececb0e1c14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2452bf18cca026223d2ccececb0e1c14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-2452bf18cca026223d2ccececb0e1c14]
+## Article 1. Subject matter[^c-2452bf18cca026223d2ccececb0e1c14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-2452bf18cca026223d2ccececb0e1c14]
+## Article 2. Definitions[^c-2452bf18cca026223d2ccececb0e1c14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Movement of the specified fruits within the Union[^key-2452bf18cca026223d2ccececb0e1c14]
+## Article 3. Movement of the specified fruits within the Union[^c-2452bf18cca026223d2ccececb0e1c14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Requirements concerning industrial processing of the specified fruits[^key-2452bf18cca026223d2ccececb0e1c14]
+## Article 4. Requirements concerning industrial processing of the specified fruits[^c-2452bf18cca026223d2ccececb0e1c14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Requirements concerning storage of the specified fruits[^key-2452bf18cca026223d2ccececb0e1c14]
+## Article 5. Requirements concerning storage of the specified fruits[^c-2452bf18cca026223d2ccececb0e1c14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Date of application[^key-2452bf18cca026223d2ccececb0e1c14]
+## Article 6. Date of application[^c-2452bf18cca026223d2ccececb0e1c14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Addressees[^key-2452bf18cca026223d2ccececb0e1c14]
+## Article 7. Addressees[^c-2452bf18cca026223d2ccececb0e1c14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2452bf18cca026223d2ccececb0e1c14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2452bf18cca026223d2ccececb0e1c14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2452bf18cca026223d2ccececb0e1c14]: Textual amendment: Decision revoked (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/17/a)
+[^c-2452bf18cca026223d2ccececb0e1c14]: Textual amendment: Decision revoked (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/17/a)

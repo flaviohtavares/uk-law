@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.20. Movement of arrested property[^key-80922c077e93f34a781b783bb9763f49]
+## 2.20. Movement of arrested property[^c-80922c077e93f34a781b783bb9763f49]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80922c077e93f34a781b783bb9763f49]: Commencement: Rule 2.20 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-80922c077e93f34a781b783bb9763f49]: Commencement: Rule 2.20 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

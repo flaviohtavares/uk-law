@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100A. Allergy safety policy[^key-a4a272a8c823ea8c218ea95338dc978e]
+## 100A. Allergy safety policy[^c-a4a272a8c823ea8c218ea95338dc978e]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4a272a8c823ea8c218ea95338dc978e]: Textual amendment: [Ss. 100A](https://www.legislation.gov.uk/ukpga/2014/6/section/100A), [100B](https://www.legislation.gov.uk/ukpga/2014/6/section/100B) inserted (29.4.2026 for specified purposes, 1.9.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 34(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/34/1), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/933](https://www.legislation.gov.uk/uksi/2026/933), [reg. 2](https://www.legislation.gov.uk/uksi/2026/933/regulation/2)
+[^c-a4a272a8c823ea8c218ea95338dc978e]: Textual amendment: [Ss. 100A](https://www.legislation.gov.uk/ukpga/2014/6/section/100A), [100B](https://www.legislation.gov.uk/ukpga/2014/6/section/100B) inserted (29.4.2026 for specified purposes, 1.9.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 34(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/34/1), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/933](https://www.legislation.gov.uk/uksi/2026/933), [reg. 2](https://www.legislation.gov.uk/uksi/2026/933/regulation/2)

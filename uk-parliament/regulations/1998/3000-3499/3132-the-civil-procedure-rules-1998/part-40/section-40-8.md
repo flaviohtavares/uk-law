@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.8. Time from which interest begins to run[^key-24bfb5c671a61d7daf87194b8830d4b1]
+## 40.8. Time from which interest begins to run[^c-24bfb5c671a61d7daf87194b8830d4b1]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-24bfb5c671a61d7daf87194b8830d4b1]: Commencement: [Rule 40.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-24bfb5c671a61d7daf87194b8830d4b1]: Commencement: [Rule 40.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
 [^f00048]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110). Section 17 was amended by [S.I. 1998/ 2940](https://www.legislation.gov.uk/uksi/1998/2940).
 

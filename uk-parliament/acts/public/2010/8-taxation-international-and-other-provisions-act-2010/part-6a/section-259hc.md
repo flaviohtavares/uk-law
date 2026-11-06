@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259HC. Counteraction of the multinational payee deduction/non-inclusion mismatch[^key-924b24ad2e886a2d28a38835956f693d][^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259HC. Counteraction of the multinational payee deduction/non-inclusion mismatch[^c-924b24ad2e886a2d28a38835956f693d][^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ For corporation tax purposes—
 
 ## Annotations
 
-[^key-924b24ad2e886a2d28a38835956f693d]: Textual amendment: S. 259HC substituted (with effect in accordance with s. 19(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 19(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/19/3)
+[^c-924b24ad2e886a2d28a38835956f693d]: Textual amendment: S. 259HC substituted (with effect in accordance with s. 19(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 19(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/19/3)
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)

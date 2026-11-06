@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 335. Short title[^key-569dbed868cb1c1559b47b4e8118f4fb]
+## 335. Short title[^c-569dbed868cb1c1559b47b4e8118f4fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Energy Act 2023.
 
 ## Annotations
 
-[^key-569dbed868cb1c1559b47b4e8118f4fb]: Commencement: S. 335 in force at Royal Assent, see [s. 334(2)(p)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/p)
+[^c-569dbed868cb1c1559b47b4e8118f4fb]: Commencement: S. 335 in force at Royal Assent, see [s. 334(2)(p)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/p)

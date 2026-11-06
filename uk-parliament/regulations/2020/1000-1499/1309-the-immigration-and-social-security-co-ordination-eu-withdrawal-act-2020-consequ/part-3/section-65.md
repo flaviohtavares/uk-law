@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-5d9ccae8b4844763535d6582a659c2f9][^M_I_d3114ccc-a143-415e-a6be-745a8d0480cb]
+## 65. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-5d9ccae8b4844763535d6582a659c2f9][^M_I_d3114ccc-a143-415e-a6be-745a8d0480cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5d9ccae8b4844763535d6582a659c2f9]: Commencement: Reg. 65 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-5d9ccae8b4844763535d6582a659c2f9]: Commencement: Reg. 65 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_d3114ccc-a143-415e-a6be-745a8d0480cb]: Commencement: Reg. 65 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9K. Further provisions about directions under section 9H[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+## 9K. Further provisions about directions under section 9H[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]: Textual amendment: Pt. 1A inserted (24.1.2013 for the insertion of ss. 9I(2), 9L, 9N for specified purposes and for the insertion of s. 9ZA, 19.2.2013 for the insertion of s. 9B for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), 4; S.I. 2013/423, art. 3, Sch.
+[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]: Textual amendment: Pt. 1A inserted (24.1.2013 for the insertion of ss. 9I(2), 9L, 9N for specified purposes and for the insertion of s. 9ZA, 19.2.2013 for the insertion of s. 9B for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), 4; S.I. 2013/423, art. 3, Sch.

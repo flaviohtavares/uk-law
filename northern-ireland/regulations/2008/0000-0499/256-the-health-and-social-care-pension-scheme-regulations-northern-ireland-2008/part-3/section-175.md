@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 175. Repayment of contributions[^key-0b8ef0728714ee662dd83b4341ab485f][^key-899117452abca7d785e1ab5d13ce8ef4][^key-6277d211778feabad839c56897d061d2]
+## 175. Repayment of contributions[^c-0b8ef0728714ee662dd83b4341ab485f][^c-899117452abca7d785e1ab5d13ce8ef4][^c-6277d211778feabad839c56897d061d2]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 (4) If paragraph (2) applies, the person is entitled to be paid an amount equal to the sum of the contributions made by the person under this Chapter, less the amounts mentioned in paragraph (3)(a) and (b).
 
-(5) If a repayment is made under this regulation, the member's rights under this Section of[^key-f6e278cb6c73d04ae4001e6dc3f42b75] the Scheme are extinguished unless the person or the person's spouse or civil partner is entitled to a guaranteed minimum pension under this Section of the Scheme and a contributions equivalent payment has not been paid.
+(5) If a repayment is made under this regulation, the member's rights under this Section of[^c-f6e278cb6c73d04ae4001e6dc3f42b75] the Scheme are extinguished unless the person or the person's spouse or civil partner is entitled to a guaranteed minimum pension under this Section of the Scheme and a contributions equivalent payment has not been paid.
 
 (6) A person—
 
@@ -52,19 +52,19 @@ is entitled to interest on the amount of the repayment unless the person's pensi
 
 (8) Paragraph (7) does not apply if paragraph (1)(b) applies and the person is entitled to a greater amount of interest under Chapter V of Part IV of the 1993 Act.
 
-(9) So far as the contributions were paid under another scheme and were included in a transfer payment to this Section of[^key-9ffb037405a6baffb9038cee997cbe6c] the Scheme—
+(9) So far as the contributions were paid under another scheme and were included in a transfer payment to this Section of[^c-9ffb037405a6baffb9038cee997cbe6c] the Scheme—
 
 - (a) interest for the period before the transfer payment was made is calculated in accordance with the scheme making the transfer payment (subject to any provision made in any statutory provision applicable to the transfer), and
 - (b) paragraph (7) does not apply as respects that period.
 
 ## Annotations
 
-[^key-0b8ef0728714ee662dd83b4341ab485f]: Modification: [Reg. 175](https://www.legislation.gov.uk/nisr/2008/256/regulation/175) excluded (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/10/3/a/ii)
+[^c-0b8ef0728714ee662dd83b4341ab485f]: Modification: [Reg. 175](https://www.legislation.gov.uk/nisr/2008/256/regulation/175) excluded (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/10/3/a/ii)
 
-[^key-899117452abca7d785e1ab5d13ce8ef4]: Modification: [Reg. 175](https://www.legislation.gov.uk/nisr/2008/256/regulation/175) excluded (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [10(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/10/4/a/ii)
+[^c-899117452abca7d785e1ab5d13ce8ef4]: Modification: [Reg. 175](https://www.legislation.gov.uk/nisr/2008/256/regulation/175) excluded (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [10(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/10/4/a/ii)
 
-[^key-6277d211778feabad839c56897d061d2]: Modification: [Regs. 174](https://www.legislation.gov.uk/nisr/2008/256/regulation/174), [175](https://www.legislation.gov.uk/nisr/2008/256/regulation/175) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/ii)
+[^c-6277d211778feabad839c56897d061d2]: Modification: [Regs. 174](https://www.legislation.gov.uk/nisr/2008/256/regulation/174), [175](https://www.legislation.gov.uk/nisr/2008/256/regulation/175) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/ii)
 
-[^key-f6e278cb6c73d04ae4001e6dc3f42b75]: Textual amendment: Words in [reg. 175(5)](https://www.legislation.gov.uk/nisr/2008/256/regulation/175/5) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-f6e278cb6c73d04ae4001e6dc3f42b75]: Textual amendment: Words in [reg. 175(5)](https://www.legislation.gov.uk/nisr/2008/256/regulation/175/5) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-9ffb037405a6baffb9038cee997cbe6c]: Textual amendment: Words in [reg. 175(9)](https://www.legislation.gov.uk/nisr/2008/256/regulation/175/9) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-9ffb037405a6baffb9038cee997cbe6c]: Textual amendment: Words in [reg. 175(9)](https://www.legislation.gov.uk/nisr/2008/256/regulation/175/9) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

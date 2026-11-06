@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Form, grounds and period for rejecting public body’s plans certificate[^key-27a9e0f9415ff4ffe83321213a4062c1]
+## 28. Form, grounds and period for rejecting public body’s plans certificate[^c-27a9e0f9415ff4ffe83321213a4062c1]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27a9e0f9415ff4ffe83321213a4062c1]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2024/1268/regulation/28) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-27a9e0f9415ff4ffe83321213a4062c1]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2024/1268/regulation/28) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

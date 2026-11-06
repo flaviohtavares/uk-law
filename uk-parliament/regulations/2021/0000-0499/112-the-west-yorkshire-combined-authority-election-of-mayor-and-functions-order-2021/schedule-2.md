@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2[^key-b673b4557d5d79d6a122711856e175bc]
+## SCHEDULE 2[^c-b673b4557d5d79d6a122711856e175bc]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ Article 13
 
 ## Annotations
 
-[^key-b673b4557d5d79d6a122711856e175bc]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/112/schedule/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(11)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/11)
+[^c-b673b4557d5d79d6a122711856e175bc]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/112/schedule/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(11)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/11)

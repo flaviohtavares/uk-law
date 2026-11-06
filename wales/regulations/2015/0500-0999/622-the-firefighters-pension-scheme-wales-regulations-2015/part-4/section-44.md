@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Opening balance, index adjustment and age addition[^key-a5836257eb2b35cf70f2680ce9bdc72f]
+## 44. Opening balance, index adjustment and age addition[^c-a5836257eb2b35cf70f2680ce9bdc72f]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5836257eb2b35cf70f2680ce9bdc72f]: Commencement: Reg. 44 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-a5836257eb2b35cf70f2680ce9bdc72f]: Commencement: Reg. 44 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

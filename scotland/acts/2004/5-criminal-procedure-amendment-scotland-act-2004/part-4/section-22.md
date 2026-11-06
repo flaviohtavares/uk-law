@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Citation of witnesses for precognition[^key-97dc02d1b9e6db0d280f09f52ef6b9d2]
+## 22. Citation of witnesses for precognition[^c-97dc02d1b9e6db0d280f09f52ef6b9d2]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ After section 267 of the 1995 Act there is inserted—
 
 ## Annotations
 
-[^key-97dc02d1b9e6db0d280f09f52ef6b9d2]: Commencement: S. 22 in force at 4.10.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-97dc02d1b9e6db0d280f09f52ef6b9d2]: Commencement: S. 22 in force at 4.10.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

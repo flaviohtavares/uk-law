@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 132. Employees of Scottish Homes and former employees of Scottish Special Housing Association[^key-8681d3ae096d4eee093f1fdfc960bfd8]
+## 132. Employees of Scottish Homes and former employees of Scottish Special Housing Association[^c-8681d3ae096d4eee093f1fdfc960bfd8]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8681d3ae096d4eee093f1fdfc960bfd8]: Commencement: Reg. 132 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-8681d3ae096d4eee093f1fdfc960bfd8]: Commencement: Reg. 132 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00058]: Footnote: [1988 c. 43](https://www.legislation.gov.uk/ukpga/1988/43).

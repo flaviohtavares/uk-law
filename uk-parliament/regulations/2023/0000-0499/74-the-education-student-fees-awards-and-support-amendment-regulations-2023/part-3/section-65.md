@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Amendment of the Education (Student Support) (European University Institute) Regulations 2010[^key-127a18c5603594b87e29b6842317ba2f]
+## 65. Amendment of the Education (Student Support) (European University Institute) Regulations 2010[^c-127a18c5603594b87e29b6842317ba2f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Education (Student Support) (European University Institute) Regulations 2010
 
 ## Annotations
 
-[^key-127a18c5603594b87e29b6842317ba2f]: Commencement: Reg. 65 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-127a18c5603594b87e29b6842317ba2f]: Commencement: Reg. 65 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00057]: Footnote: [S.I. 2010/447](https://www.legislation.gov.uk/uksi/2010/447).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Manning.[^key-54a64cdcbeb3d4ac3ec7f1f59cc454fb][^key-8b9479ef70aac46188e1cfbd91eb751a]
+## 47. Manning.[^c-54a64cdcbeb3d4ac3ec7f1f59cc454fb][^c-8b9479ef70aac46188e1cfbd91eb751a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 and different provisions may be so made or enabled to be made for different circumstances.
 
-(4A)[^key-f90beaf2c933d435359eed458e963e9d] Standards of competence or other conditions prescribed or specified by the Secretary of State under subsection (1)(b) may be expressed by reference to other documents.
+(4A)[^c-f90beaf2c933d435359eed458e963e9d] Standards of competence or other conditions prescribed or specified by the Secretary of State under subsection (1)(b) may be expressed by reference to other documents.
 
 (4B) A reference to a document in reliance on subsection (4A) may include a reference to amendments of the document which are—
 
@@ -48,8 +48,8 @@ and different provisions may be so made or enabled to be made for different circ
 
 ## Annotations
 
-[^key-54a64cdcbeb3d4ac3ec7f1f59cc454fb]: Modification: [Ss. 47-50](https://www.legislation.gov.uk/ukpga/1995/21/section/47) extended (in so far as not already extended) (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [4(1)(a)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/4/1/a)
+[^c-54a64cdcbeb3d4ac3ec7f1f59cc454fb]: Modification: [Ss. 47-50](https://www.legislation.gov.uk/ukpga/1995/21/section/47) extended (in so far as not already extended) (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [4(1)(a)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/4/1/a)
 
-[^key-8b9479ef70aac46188e1cfbd91eb751a]: Modification: S. 47 applied (with modifications) (21.7.2022) by [S.I.1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 5](https://www.legislation.gov.uk/uksi/1989/1350/article/5) (as inserted by [The Hovercraft (Application of Enactments) and Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Amendment Order 2022 (S.I. 2022/844)](https://www.legislation.gov.uk/uksi/2022/844), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/844/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2022/844/article/2/3))
+[^c-8b9479ef70aac46188e1cfbd91eb751a]: Modification: S. 47 applied (with modifications) (21.7.2022) by [S.I.1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 5](https://www.legislation.gov.uk/uksi/1989/1350/article/5) (as inserted by [The Hovercraft (Application of Enactments) and Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Amendment Order 2022 (S.I. 2022/844)](https://www.legislation.gov.uk/uksi/2022/844), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/844/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2022/844/article/2/3))
 
-[^key-f90beaf2c933d435359eed458e963e9d]: Textual amendment: [S. 47(4A)](https://www.legislation.gov.uk/ukpga/1995/21/section/47/4A)[(4B)](https://www.legislation.gov.uk/ukpga/1995/21/section/47/4B) inserted (26.6.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 10](https://www.legislation.gov.uk/ukpga/2013/23/section/10), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
+[^c-f90beaf2c933d435359eed458e963e9d]: Textual amendment: [S. 47(4A)](https://www.legislation.gov.uk/ukpga/1995/21/section/47/4A)[(4B)](https://www.legislation.gov.uk/ukpga/1995/21/section/47/4B) inserted (26.6.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 10](https://www.legislation.gov.uk/ukpga/2013/23/section/10), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. References to EBA: determination of minimum requirement[^key-88087c7567d1cbec3f8d384d760459b2]
+## 137. References to EBA: determination of minimum requirement[^c-88087c7567d1cbec3f8d384d760459b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88087c7567d1cbec3f8d384d760459b2]: Textual amendment: [Art. 137](https://www.legislation.gov.uk/uksi/2014/3348/article/137) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 77](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/77); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88087c7567d1cbec3f8d384d760459b2]: Textual amendment: [Art. 137](https://www.legislation.gov.uk/uksi/2014/3348/article/137) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 77](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/77); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

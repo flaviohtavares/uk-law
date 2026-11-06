@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Submission of accounts[^key-2b158ee206594a2625f18e2c6ae58a83]
+## 32. Submission of accounts[^c-2b158ee206594a2625f18e2c6ae58a83]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.39 of the 1986 Rules. For “official receiver”, substitute “bu
 
 ## Annotations
 
-[^key-2b158ee206594a2625f18e2c6ae58a83]: Commencement: Rule 32 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-2b158ee206594a2625f18e2c6ae58a83]: Commencement: Rule 32 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

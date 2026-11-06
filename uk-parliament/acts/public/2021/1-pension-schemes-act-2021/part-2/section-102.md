@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Regulations[^c24493611][^key-2a13ca766200b1b70a52ca50bf7faab2]
+## 102. Regulations[^c24493611][^c-2a13ca766200b1b70a52ca50bf7faab2]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c24493611]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2021/1/section/102) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-2a13ca766200b1b70a52ca50bf7faab2]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2021/1/section/102) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-2a13ca766200b1b70a52ca50bf7faab2]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2021/1/section/102) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

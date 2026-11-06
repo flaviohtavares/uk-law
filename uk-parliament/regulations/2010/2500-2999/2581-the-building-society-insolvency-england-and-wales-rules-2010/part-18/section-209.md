@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 209. Award of costs against responsible insolvency practitioner[^key-5c38df347237737c0cf600f3244febab]
+## 209. Award of costs against responsible insolvency practitioner[^c-5c38df347237737c0cf600f3244febab]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c38df347237737c0cf600f3244febab]: Commencement: Rule 209 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-5c38df347237737c0cf600f3244febab]: Commencement: Rule 209 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

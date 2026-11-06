@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Safeguarding – overarching requirements[^key-3203ad0dd0a3103449aea5fbcc5236dc]
+## 20. Safeguarding – overarching requirements[^c-3203ad0dd0a3103449aea5fbcc5236dc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must put arrangements in place to ensure that children plac
 
 ## Annotations
 
-[^key-3203ad0dd0a3103449aea5fbcc5236dc]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2019/169/regulation/20) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-3203ad0dd0a3103449aea5fbcc5236dc]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2019/169/regulation/20) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

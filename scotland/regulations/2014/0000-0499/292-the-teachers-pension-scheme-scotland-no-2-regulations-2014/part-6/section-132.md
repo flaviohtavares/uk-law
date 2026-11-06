@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 132. Meaning of “surviving nominated partner”[^key-ebda3cf30a3d25ade4863a14f16cae50]
+## 132. Meaning of “surviving nominated partner”[^c-ebda3cf30a3d25ade4863a14f16cae50]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebda3cf30a3d25ade4863a14f16cae50]: Commencement: [Reg. 132](https://www.legislation.gov.uk/ssi/2014/292/regulation/132) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ebda3cf30a3d25ade4863a14f16cae50]: Commencement: [Reg. 132](https://www.legislation.gov.uk/ssi/2014/292/regulation/132) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

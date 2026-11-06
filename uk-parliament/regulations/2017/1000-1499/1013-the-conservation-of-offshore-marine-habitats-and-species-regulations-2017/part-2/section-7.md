@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Duty to designate special areas of conservation[^key-489af61b2e73bcc336a7c3da663f94a6]
+## 7. Duty to designate special areas of conservation[^c-489af61b2e73bcc336a7c3da663f94a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-489af61b2e73bcc336a7c3da663f94a6]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1013/regulation/7) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [35](https://www.legislation.gov.uk/uksi/2019/579/regulation/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-489af61b2e73bcc336a7c3da663f94a6]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1013/regulation/7) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [35](https://www.legislation.gov.uk/uksi/2019/579/regulation/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Information on operations conducted outside of the European Union , Great Britain and external waters[^key-6ccecba843af4f301fb28dc8a2fca05e]
+## 34. Information on operations conducted outside of the European Union , Great Britain and external waters[^c-6ccecba843af4f301fb28dc8a2fca05e]
 
 *Extent: E+W+S*
 
-(1) A UK-registered company conducting, itself or through a subsidiary, offshore oil and gas operations , CCUS operations or offshore hydrogen operations[^key-544bfc52881e6b40635dee46be917106] outside the European Union , Great Britain and external waters[^key-55509b8b27ceff16c4dd637c3ea986eb] as a licensee, operator or well operator must report to the competent authority, on request, the circumstances of any major accident in which it or its subsidiary has been involved.
+(1) A UK-registered company conducting, itself or through a subsidiary, offshore oil and gas operations , CCUS operations or offshore hydrogen operations[^c-544bfc52881e6b40635dee46be917106] outside the European Union , Great Britain and external waters[^c-55509b8b27ceff16c4dd637c3ea986eb] as a licensee, operator or well operator must report to the competent authority, on request, the circumstances of any major accident in which it or its subsidiary has been involved.
 
 (2) The details of the information to go in the report must be specified by the competent authority in the request.
 
@@ -31,10 +31,10 @@ summary: ''
 
 ## Annotations
 
-[^key-6ccecba843af4f301fb28dc8a2fca05e]: Textual amendment: Words in reg. 34 heading inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ccecba843af4f301fb28dc8a2fca05e]: Textual amendment: Words in reg. 34 heading inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-544bfc52881e6b40635dee46be917106]: Textual amendment: Words in reg. 34(1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(10)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/10)
+[^c-544bfc52881e6b40635dee46be917106]: Textual amendment: Words in reg. 34(1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(10)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/10)
 
-[^key-55509b8b27ceff16c4dd637c3ea986eb]: Textual amendment: Words in reg. 34(1) inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55509b8b27ceff16c4dd637c3ea986eb]: Textual amendment: Words in reg. 34(1) inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22462421]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), to which there are amendments not relevant to these Regulations..

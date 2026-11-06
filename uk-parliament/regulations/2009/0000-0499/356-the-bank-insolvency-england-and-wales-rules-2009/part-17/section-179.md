@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 179. Secretary of State’s directions under section 116 of the 2009 Act[^key-12b2cba3e41b1c3608d5a2dec9776c1a][^key-005e8a01a793b7050984c3751fa58e1c]
+## 179. Secretary of State’s directions under section 116 of the 2009 Act[^c-12b2cba3e41b1c3608d5a2dec9776c1a][^c-005e8a01a793b7050984c3751fa58e1c]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12b2cba3e41b1c3608d5a2dec9776c1a]: Commencement: Rule 179 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-12b2cba3e41b1c3608d5a2dec9776c1a]: Commencement: Rule 179 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-005e8a01a793b7050984c3751fa58e1c]: Textual amendment: Word in [rule 179](https://www.legislation.gov.uk/uksi/2009/356/rule/179) heading substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [56](https://www.legislation.gov.uk/uksi/2010/2579/rule/56)
+[^c-005e8a01a793b7050984c3751fa58e1c]: Textual amendment: Word in [rule 179](https://www.legislation.gov.uk/uksi/2009/356/rule/179) heading substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [56](https://www.legislation.gov.uk/uksi/2010/2579/rule/56)

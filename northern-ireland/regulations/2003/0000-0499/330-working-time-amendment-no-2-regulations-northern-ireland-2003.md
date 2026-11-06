@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYMENT
 
-Working Time (Amendment No. 2) Regulations (Northern Ireland) 2003 (revoked)[^key-5ef4884dbeb153662ad2d351d9ba51a1]
+Working Time (Amendment No. 2) Regulations (Northern Ireland) 2003 (revoked)[^c-5ef4884dbeb153662ad2d351d9ba51a1]
 
 Made
 
@@ -39,46 +39,46 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-5ef4884dbeb153662ad2d351d9ba51a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ef4884dbeb153662ad2d351d9ba51a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5ef4884dbeb153662ad2d351d9ba51a1]
+## 1. Citation and commencement[^c-5ef4884dbeb153662ad2d351d9ba51a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5ef4884dbeb153662ad2d351d9ba51a1]
+## 2. Interpretation[^c-5ef4884dbeb153662ad2d351d9ba51a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-5ef4884dbeb153662ad2d351d9ba51a1]
+## 3. Amendment of the principal Regulations[^c-5ef4884dbeb153662ad2d351d9ba51a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-5ef4884dbeb153662ad2d351d9ba51a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5ef4884dbeb153662ad2d351d9ba51a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ef4884dbeb153662ad2d351d9ba51a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5ef4884dbeb153662ad2d351d9ba51a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ef4884dbeb153662ad2d351d9ba51a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5ef4884dbeb153662ad2d351d9ba51a1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/330) revoked with savings (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [reg. 54(1)(g)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/1/g) (with [regs. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1), [54(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/2)[(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/3))
+[^c-5ef4884dbeb153662ad2d351d9ba51a1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/330) revoked with savings (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [reg. 54(1)(g)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/1/g) (with [regs. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1), [54(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/2)[(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/3))

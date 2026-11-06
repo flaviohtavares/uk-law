@@ -46,7 +46,7 @@ and for the purposes of this subsection “**statutory provision**” means prov
 - (a) that an alternative right of way has been or will be provided, or
 - (b) that the provision of an alternative right of way is not required.
 
-(7) Where an order under sections 104(3), 105(3) or 112 of the [^c8594791]Transport Act 1968 (classification and maintenance of Canal & River Trust’s[^key-8b31bc8f9f3c7c4a8e9882e26e7ca278] waterways, and maintenance and use of other waterways) is required so as to give effect to any proposal, no provision shall be included in an order under section 1 or 3 above which would—
+(7) Where an order under sections 104(3), 105(3) or 112 of the [^c8594791]Transport Act 1968 (classification and maintenance of Canal & River Trust’s[^c-8b31bc8f9f3c7c4a8e9882e26e7ca278] waterways, and maintenance and use of other waterways) is required so as to give effect to any proposal, no provision shall be included in an order under section 1 or 3 above which would—
 
 - (a) remove that requirement, or
 - (b) alter the requirements of sections 104, 105 or 112 of, or Schedule 13 to, that Act relating to orders under those sections.
@@ -57,4 +57,4 @@ and for the purposes of this subsection “**statutory provision**” means prov
 
 [^c8594791]: Marginal citation: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73).
 
-[^key-8b31bc8f9f3c7c4a8e9882e26e7ca278]: Textual amendment: Words in s. 5(7) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/12/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-8b31bc8f9f3c7c4a8e9882e26e7ca278]: Textual amendment: Words in s. 5(7) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/12/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

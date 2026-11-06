@@ -14,13 +14,13 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 12. Volunteers[^key-52c44a01936be5eecf66c9d21aad3c70]
+## 12. Volunteers[^c-52c44a01936be5eecf66c9d21aad3c70]
 
-[^key-d411177d356b94a37a8c62a0a89dcf90]
+[^c-d411177d356b94a37a8c62a0a89dcf90]
 
 (1) Paragraph (2) applies if in any week a person is engaged in voluntary work and—
 
-- (a) he has restricted the total number of hours for which he is available in accordance with regulation 7(2), 13(3), (3A) or (4)[^key-15943c347970a0ae93f1df1c5a4964cf], 13A[^key-690af1bd6ef94a1785d21d5df7c64d50] or 17(2); and
+- (a) he has restricted the total number of hours for which he is available in accordance with regulation 7(2), 13(3), (3A) or (4)[^c-15943c347970a0ae93f1df1c5a4964cf], 13A[^c-690af1bd6ef94a1785d21d5df7c64d50] or 17(2); and
 - (b) the hours in which he is engaged in voluntary work fall in whole or in part within his pattern of availability.
 
 (2) In determining whether a person to whom this paragraph applies is available for employment no matter relating to his voluntary work shall be relevant providing—
@@ -33,10 +33,10 @@ summary: ''
 
 ## Annotations
 
-[^key-52c44a01936be5eecf66c9d21aad3c70]: Textual amendment: Reg. 12 substituted (1.1.2003) by [The Jobseeker’s Allowance (Amendment) Regulations 2002 (S.I. 2002/3072)](https://www.legislation.gov.uk/uksi/2002/3072), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2002/3072/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2002/3072/regulation/4)
+[^c-52c44a01936be5eecf66c9d21aad3c70]: Textual amendment: Reg. 12 substituted (1.1.2003) by [The Jobseeker’s Allowance (Amendment) Regulations 2002 (S.I. 2002/3072)](https://www.legislation.gov.uk/uksi/2002/3072), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2002/3072/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2002/3072/regulation/4)
 
-[^key-d411177d356b94a37a8c62a0a89dcf90]: Modification: Reg. 5 heading modified (22.11.2010) by [The Jobseeker’s Allowance (Work for Your Benefit Pilot Scheme) Regulations 2010 (S.I. 2010/1222)](https://www.legislation.gov.uk/uksi/2010/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1222/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2010/1222/regulation/12/2/a)
+[^c-d411177d356b94a37a8c62a0a89dcf90]: Modification: Reg. 5 heading modified (22.11.2010) by [The Jobseeker’s Allowance (Work for Your Benefit Pilot Scheme) Regulations 2010 (S.I. 2010/1222)](https://www.legislation.gov.uk/uksi/2010/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1222/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2010/1222/regulation/12/2/a)
 
-[^key-15943c347970a0ae93f1df1c5a4964cf]: Textual amendment: Words in reg. 12(1)(a) substituted (24.11.2008) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/3051)](https://www.legislation.gov.uk/uksi/2008/3051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3051/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2008/3051/regulation/11/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2008/3051/regulation/13))
+[^c-15943c347970a0ae93f1df1c5a4964cf]: Textual amendment: Words in reg. 12(1)(a) substituted (24.11.2008) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/3051)](https://www.legislation.gov.uk/uksi/2008/3051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3051/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2008/3051/regulation/11/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2008/3051/regulation/13))
 
-[^key-690af1bd6ef94a1785d21d5df7c64d50]: Textual amendment: Word in reg. 12(1)(a) inserted (26.4.2010) by [The Jobseeker’s Allowance (Lone Parents) (Availability for Work) Regulations 2010 (S.I. 2010/837)](https://www.legislation.gov.uk/uksi/2010/837), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/837/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2010/837/regulation/2/7)
+[^c-690af1bd6ef94a1785d21d5df7c64d50]: Textual amendment: Word in reg. 12(1)(a) inserted (26.4.2010) by [The Jobseeker’s Allowance (Lone Parents) (Availability for Work) Regulations 2010 (S.I. 2010/837)](https://www.legislation.gov.uk/uksi/2010/837), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/837/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2010/837/regulation/2/7)

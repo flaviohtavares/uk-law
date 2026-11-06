@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9I. Recovery of expenses demanded under section 9C or 9F[^key-0b77ed28b6245113ee9172cbbc876dcd]
+## 9I. Recovery of expenses demanded under section 9C or 9F[^c-0b77ed28b6245113ee9172cbbc876dcd]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b77ed28b6245113ee9172cbbc876dcd]: Textual amendment: Ss. 9G-9I inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/6/1), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)
+[^c-0b77ed28b6245113ee9172cbbc876dcd]: Textual amendment: Ss. 9G-9I inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/6/1), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)

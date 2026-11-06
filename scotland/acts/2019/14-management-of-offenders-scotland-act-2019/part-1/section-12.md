@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Standard obligations put on monitored persons[^key-e52dc17e6b478c695d92aa3931dad89d]
+## 12. Standard obligations put on monitored persons[^c-e52dc17e6b478c695d92aa3931dad89d]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ so as to facilitate monitoring of the monitored person by means of the approved 
 
 ## Annotations
 
-[^key-e52dc17e6b478c695d92aa3931dad89d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/14/section/12) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(h)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/h) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))
+[^c-e52dc17e6b478c695d92aa3931dad89d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/14/section/12) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(h)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/h) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))

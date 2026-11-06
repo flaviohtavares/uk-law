@@ -47,16 +47,16 @@ Sections 1024 to 1028 apply to LLPs, modified so that they read as follows—
 >
 > that may be demanded as a condition of giving consent.
 >
-> (5)[^key-d57069079ceb615ba3d42e12b869d0ac] The third condition is that the applicant has delivered to the registrar such documents relating to the LLP as are necessary to ensure that if the LLP is restored to the register the records kept by the registrar relating to the LLP will be up to date.
+> (5)[^c-d57069079ceb615ba3d42e12b869d0ac] The third condition is that the applicant has delivered to the registrar such documents relating to the LLP as are necessary to ensure that if the LLP is restored to the register the records kept by the registrar relating to the LLP will be up to date.
 >
 > (5A) The fourth condition is—
 >
 > - (a) that any outstanding penalties under section 453 or corresponding earlier provisions (civil penalty for failure to deliver accounts) in relation to the LLP have been paid, and
 > - (b) that each relevant person has paid any outstanding fines or financial penalties relating to LLPs imposed on them in respect of an offence under the Companies Act 2006 as applied to LLPs or under the Limited Liability Partnerships Act 2000.
 >
-> (6) The fifth[^key-cf630594348ace4c31f62f35320c7e32] condition is that the applicant has sent notice of the application under section 1024 to all those who were members of the LLP at the time of its striking off.
+> (6) The fifth[^c-cf630594348ace4c31f62f35320c7e32] condition is that the applicant has sent notice of the application under section 1024 to all those who were members of the LLP at the time of its striking off.
 >
-> (6A)[^key-8cfee32e4c434c891bb62c8c9169be61] In subsection (5A)(b) “**relevant person**” means—
+> (6A)[^c-8cfee32e4c434c891bb62c8c9169be61] In subsection (5A)(b) “**relevant person**” means—
 >
 > - (a) the applicant,
 > - (b) any person who—
@@ -124,10 +124,10 @@ Sections 1024 to 1028 apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-d57069079ceb615ba3d42e12b869d0ac]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2009/1804/regulation/56) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/25/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-d57069079ceb615ba3d42e12b869d0ac]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2009/1804/regulation/56) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/25/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-cf630594348ace4c31f62f35320c7e32]: Textual amendment: Word in [reg. 56](https://www.legislation.gov.uk/uksi/2009/1804/regulation/56) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [25(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/25/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-cf630594348ace4c31f62f35320c7e32]: Textual amendment: Word in [reg. 56](https://www.legislation.gov.uk/uksi/2009/1804/regulation/56) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [25(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/25/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-8cfee32e4c434c891bb62c8c9169be61]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2009/1804/regulation/56) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [25(4)](https://www.legislation.gov.uk/uksi/2024/234/regulation/25/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-8cfee32e4c434c891bb62c8c9169be61]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2009/1804/regulation/56) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [25(4)](https://www.legislation.gov.uk/uksi/2024/234/regulation/25/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
 [^c19765371]: Marginal citation: [Section 453](https://www.legislation.gov.uk/uksi/2009/1804/section/453) of the Companies Act 2006 was applied to LLPs by regulation 22 of [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Biodiversity gain[^key-834bd22de36e15451346e46c435802c2]
+## SCHEDULE 2A — Biodiversity gain[^c-834bd22de36e15451346e46c435802c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -196,4 +196,4 @@ For the purposes of this Schedule—
 
 ## Annotations
 
-[^key-834bd22de36e15451346e46c435802c2]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2A) inserted (7.5.2026) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/5) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
+[^c-834bd22de36e15451346e46c435802c2]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2A) inserted (7.5.2026) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/5) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)

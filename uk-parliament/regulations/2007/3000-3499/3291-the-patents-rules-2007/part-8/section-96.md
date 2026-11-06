@@ -38,8 +38,8 @@ summary: ''
 
 (6) If it is reasonably possible, the observations filed under this rule and the copies of such observations shall be delivered only in electronic form or using electronic communications.
 
-(7) For the purposes of this rule, the relevant period is four weeks beginning immediately after[^key-dfecab646f90485284caaa0b4b9332f1] the date of advertisement under rule 95(4).
+(7) For the purposes of this rule, the relevant period is four weeks beginning immediately after[^c-dfecab646f90485284caaa0b4b9332f1] the date of advertisement under rule 95(4).
 
 ## Annotations
 
-[^key-dfecab646f90485284caaa0b4b9332f1]: Textual amendment: Words in [rule 96(7)](https://www.legislation.gov.uk/uksi/2007/3291/rule/96/7) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-dfecab646f90485284caaa0b4b9332f1]: Textual amendment: Words in [rule 96(7)](https://www.legislation.gov.uk/uksi/2007/3291/rule/96/7) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

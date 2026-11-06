@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26CA. Enforcement officers appointed under Employment Rights Act 2025[^key-9b3288ab28ff081cfe6542c31a8ddeb2]
+## 26CA. Enforcement officers appointed under Employment Rights Act 2025[^c-9b3288ab28ff081cfe6542c31a8ddeb2]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b3288ab28ff081cfe6542c31a8ddeb2]: Textual amendment: [S. 26CA](https://www.legislation.gov.uk/ukpga/2002/30/section/26CA) inserted (6.1.2026 for specified purposes, 7.4.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 74(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/74/3) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(39)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/39/e/ii); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(d)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/d) (with [reg. 8](https://www.legislation.gov.uk/uksi/2026/323/regulation/8))
+[^c-9b3288ab28ff081cfe6542c31a8ddeb2]: Textual amendment: [S. 26CA](https://www.legislation.gov.uk/ukpga/2002/30/section/26CA) inserted (6.1.2026 for specified purposes, 7.4.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 74(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/74/3) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(39)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/39/e/ii); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(d)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/d) (with [reg. 8](https://www.legislation.gov.uk/uksi/2026/323/regulation/8))

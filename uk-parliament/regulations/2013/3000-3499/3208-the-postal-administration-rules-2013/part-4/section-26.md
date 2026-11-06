@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Entitlement to vote[^key-040cf5299ad33672e83f45d7e6ad18c8]
+## 26. Entitlement to vote[^c-040cf5299ad33672e83f45d7e6ad18c8]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ and details of the debt must include any calculation for the purposes of Rules 2
 
 ## Annotations
 
-[^key-040cf5299ad33672e83f45d7e6ad18c8]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2013/3208/rule/26) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-040cf5299ad33672e83f45d7e6ad18c8]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2013/3208/rule/26) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

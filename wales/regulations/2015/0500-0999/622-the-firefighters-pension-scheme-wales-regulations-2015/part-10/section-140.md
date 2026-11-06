@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Application of this Part[^key-c6ef5d96a45bfc5caba789eb471b1c93]
+## 140. Application of this Part[^c-c6ef5d96a45bfc5caba789eb471b1c93]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ This Part—
 
 ## Annotations
 
-[^key-c6ef5d96a45bfc5caba789eb471b1c93]: Commencement: Reg. 140 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-c6ef5d96a45bfc5caba789eb471b1c93]: Commencement: Reg. 140 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00062]: Footnote: Chapter 5 of Part 4 of PSA 1993 was inserted by section 264 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35).

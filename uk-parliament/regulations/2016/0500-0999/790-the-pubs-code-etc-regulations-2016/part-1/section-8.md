@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Periods of time[^key-041bf674f24f01e6597e72407c5903d6]
+## 8. Periods of time[^c-041bf674f24f01e6597e72407c5903d6]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-041bf674f24f01e6597e72407c5903d6]: Commencement: Reg. 8 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-041bf674f24f01e6597e72407c5903d6]: Commencement: Reg. 8 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00011]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).

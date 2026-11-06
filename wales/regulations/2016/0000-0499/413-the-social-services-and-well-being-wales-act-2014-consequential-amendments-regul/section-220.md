@@ -18,13 +18,13 @@ summary: ''
 
 *Extent: E+W*
 
-**220.**[^key-5eea9e56c3785d23f5ed9a6b15234511] In section 50A[^f00193] (intervention – Wales)—
+**220.**[^c-5eea9e56c3785d23f5ed9a6b15234511] In section 50A[^f00193] (intervention – Wales)—
 
 - (a) in subsection (2) omit paragraphs (a) and (b);
 - (b) in subsection (4) omit the definition of “social services functions”.
 
 ## Annotations
 
-[^key-5eea9e56c3785d23f5ed9a6b15234511]: Commencement: Reg. 220 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-5eea9e56c3785d23f5ed9a6b15234511]: Commencement: Reg. 220 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00193]: Footnote: Section 50A was inserted by the School Standards and Organisation (Wales) Act [2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), Schedule 5, paragraph 7(1), (3).

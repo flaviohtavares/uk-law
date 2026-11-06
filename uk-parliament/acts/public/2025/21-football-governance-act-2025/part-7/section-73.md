@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Privileged communications[^key-9af838b2acf9cc1c5834f400b6159cd5][^key-2ae27776ac19e9d018f825a808ddc70c]
+## 73. Privileged communications[^c-9af838b2acf9cc1c5834f400b6159cd5][^c-2ae27776ac19e9d018f825a808ddc70c]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9af838b2acf9cc1c5834f400b6159cd5]: Commencement: S. 73 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-9af838b2acf9cc1c5834f400b6159cd5]: Commencement: S. 73 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-2ae27776ac19e9d018f825a808ddc70c]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2025/21/section/73) in force at 1.11.2025 in so far as not already in force by [S.I. 2025/1134](https://www.legislation.gov.uk/uksi/2025/1134), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/1134/regulation/2/c)
+[^c-2ae27776ac19e9d018f825a808ddc70c]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2025/21/section/73) in force at 1.11.2025 in so far as not already in force by [S.I. 2025/1134](https://www.legislation.gov.uk/uksi/2025/1134), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/1134/regulation/2/c)

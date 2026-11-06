@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Timing of referral for arbitration by tied pub tenants[^key-79a9f9cdd7b13ab4f6e672be14455d10]
+## 49. Timing of referral for arbitration by tied pub tenants[^c-79a9f9cdd7b13ab4f6e672be14455d10]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79a9f9cdd7b13ab4f6e672be14455d10]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2015/26/section/49) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-79a9f9cdd7b13ab4f6e672be14455d10]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2015/26/section/49) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

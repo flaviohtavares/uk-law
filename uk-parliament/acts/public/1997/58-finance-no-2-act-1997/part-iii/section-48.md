@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Relief for expenditure on production and acquisition.[^key-dce940efdfe5662a6e689d6ff9ea6072]
+## 48. Relief for expenditure on production and acquisition.[^c-dce940efdfe5662a6e689d6ff9ea6072]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dce940efdfe5662a6e689d6ff9ea6072]: Textual amendment: S. 48 repealed (19.7.2006) (with effect in accordance with Sch. 26 Pt. 3(4) Note 1 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/4)
+[^c-dce940efdfe5662a6e689d6ff9ea6072]: Textual amendment: S. 48 repealed (19.7.2006) (with effect in accordance with Sch. 26 Pt. 3(4) Note 1 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/4)

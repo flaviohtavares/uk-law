@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Debt advice and information package[^key-c2a0697d89419c6af70e5411f46c031b]
+## 3. Debt advice and information package[^c-c2a0697d89419c6af70e5411f46c031b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2a0697d89419c6af70e5411f46c031b]: Commencement: S. 3 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-c2a0697d89419c6af70e5411f46c031b]: Commencement: S. 3 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

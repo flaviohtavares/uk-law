@@ -22,7 +22,7 @@ summary: ''
 
 Article 19
 
-### 1. Interpretation[^key-b7269ec5bee0c9ce320e8370d57e898d]
+### 1. Interpretation[^c-b7269ec5bee0c9ce320e8370d57e898d]
 
 In this Schedule—
 
@@ -169,4 +169,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-b7269ec5bee0c9ce320e8370d57e898d]: Commencement: Sch. 8 para. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-b7269ec5bee0c9ce320e8370d57e898d]: Commencement: Sch. 8 para. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

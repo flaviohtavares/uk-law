@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — STREETS TO BE TEMPORARILY STOPPED UP[^key-ca57c23bca76cf78df2a4ef4c371ee0b]
+## SCHEDULE 3 — STREETS TO BE TEMPORARILY STOPPED UP[^c-ca57c23bca76cf78df2a4ef4c371ee0b]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Article 16
 
 ## Annotations
 
-[^key-ca57c23bca76cf78df2a4ef4c371ee0b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/2935/schedule/3) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-ca57c23bca76cf78df2a4ef4c371ee0b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/2935/schedule/3) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

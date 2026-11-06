@@ -43,11 +43,11 @@ The Department of Enterprise, Trade and Investment, being a Department designate
 
 ## PART I — INTRODUCTORY
 
-### 1. Citation and commencement[^key-fece89f82bf2b330d02edaee9c7e9409]
+### 1. Citation and commencement[^c-fece89f82bf2b330d02edaee9c7e9409]
 
 These Regulations may be cited as the Gas Order 1996 (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 1st October 2006.
 
-### 2. Interpretation[^key-b7ab8c1cf5907957c11f87812be4ea74]
+### 2. Interpretation[^c-b7ab8c1cf5907957c11f87812be4ea74]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
@@ -60,11 +60,11 @@ These Regulations may be cited as the Gas Order 1996 (Amendment) Regulations (No
 
 ## PART II — AMENDMENTS TO THE GAS (NORTHERN IRELAND) ORDER 1996
 
-### 3. Amendments[^key-6e85316fdb43c00cc43910d12d08cfdc]
+### 3. Amendments[^c-6e85316fdb43c00cc43910d12d08cfdc]
 
 The 1996 Order shall be amended as provided in this Part.
 
-### 4. Interpretation[^key-98ee3699d13c5c976e4494e6c5ef7013]
+### 4. Interpretation[^c-98ee3699d13c5c976e4494e6c5ef7013]
 
 In Article 3(1), for the definition of “the Directive” there shall be substituted the following definitions:-
 
@@ -74,7 +74,7 @@ In Article 3(1), for the definition of “the Directive” there shall be substi
 
 .
 
-### 5. Licences[^key-01c6f7f34a6f3081aa616a0a4541c78d]
+### 5. Licences[^c-01c6f7f34a6f3081aa616a0a4541c78d]
 
 (1) After Article 8(4) there shall be inserted the following paragraph—
 
@@ -104,7 +104,7 @@ In Article 3(1), for the definition of “the Directive” there shall be substi
 
 .
 
-### 6. Time limits for exclusive licences[^key-ac963cb621f433cd531be41edb2da7ea]
+### 6. Time limits for exclusive licences[^c-ac963cb621f433cd531be41edb2da7ea]
 
 (1) For Article 9(1A) there shall be substituted the following paragraph—
 
@@ -128,7 +128,7 @@ In Article 3(1), for the definition of “the Directive” there shall be substi
 
 .
 
-### 7. Limitation of rights under exclusive licences[^key-91969fee90b44d7aab93ad0919b12a38]
+### 7. Limitation of rights under exclusive licences[^c-91969fee90b44d7aab93ad0919b12a38]
 
 For Article 9A there shall be substituted the following Article—
 
@@ -141,7 +141,7 @@ For Article 9A there shall be substituted the following Article—
 
 .
 
-### 8. Compliance with Community obligations[^key-32ce97e82bb5b4216a2c9d6e18253af4]
+### 8. Compliance with Community obligations[^c-32ce97e82bb5b4216a2c9d6e18253af4]
 
 For Article 10A there shall be substituted the following Article—
 
@@ -191,7 +191,7 @@ For Article 10A there shall be substituted the following Article—
 
 .
 
-### 9. Dispute resolution[^key-974e9e6970fa227c243388adf20d9754]
+### 9. Dispute resolution[^c-974e9e6970fa227c243388adf20d9754]
 
 After Article 27 there shall be inserted—
 
@@ -214,7 +214,7 @@ After Article 27 there shall be inserted—
 
 .
 
-### 10. Consent required for constructing major pipelines etc.[^key-d23e821bacc500636368beafef7e3e2f]
+### 10. Consent required for constructing major pipelines etc.[^c-d23e821bacc500636368beafef7e3e2f]
 
 For Article 38A there shall be substituted the following Article—
 
@@ -243,7 +243,7 @@ For Article 38A there shall be substituted the following Article—
 
 .
 
-### 11. Directions about information[^key-cf3f388f9c8fdeed9b2ebbbe26cceb70]
+### 11. Directions about information[^c-cf3f388f9c8fdeed9b2ebbbe26cceb70]
 
 After Article 45(1) there shall be inserted the following paragraph—
 
@@ -253,11 +253,11 @@ After Article 45(1) there shall be inserted the following paragraph—
 
 ## PART III — AMENDMENTS TO ENERGY ORDER
 
-### 12. Amendments[^key-5034aa6e47ef7bb531555786470783b7]
+### 12. Amendments[^c-5034aa6e47ef7bb531555786470783b7]
 
 The Energy Order shall be amended as provided in this Part.
 
-### 13. Functions of the Department and the Authority[^key-8912b77f24d1c9b6060c30d8ec2c88b8]
+### 13. Functions of the Department and the Authority[^c-8912b77f24d1c9b6060c30d8ec2c88b8]
 
 (1) For Article 14(2)(a) there shall be substituted the following sub-paragraph—
 
@@ -283,7 +283,7 @@ The Energy Order shall be amended as provided in this Part.
 
 .
 
-### 14. Consequential Amendments[^key-26c0bf9f968af74b2a89dc04ce09177d]
+### 14. Consequential Amendments[^c-26c0bf9f968af74b2a89dc04ce09177d]
 
 (1) In Article 38(2), for the reference to Directive [98/30/EC](https://www.legislation.gov.uk/european/directive/1998/0030) concerning common rules for the internal market in natural gas there shall be substituted a reference to Directive [2003/55/EC](https://www.legislation.gov.uk/european/directive/2003/0055) concerning common rules for the internal market in natural gas and repealing Directive [98/30/EC](https://www.legislation.gov.uk/european/directive/1998/0030).
 
@@ -291,7 +291,7 @@ The Energy Order shall be amended as provided in this Part.
 
 ## PART IV — EXISTING LICENCES
 
-### 15. Existing licences[^key-23fd78bf174efb379029d50688930cdd]
+### 15. Existing licences[^c-23fd78bf174efb379029d50688930cdd]
 
 (1) The Department after consultation with the Authority, shall—
 
@@ -324,17 +324,17 @@ an existing licence as the Department or the Authority, as the case may be, cons
 
 (8) Article 10A(2) to (7) of the 1996 Order shall apply in relation to the modification or revocation of the conditions of, and the inclusion of any new conditions in, an existing licence under this Regulation as it applies to the inclusion under that Article of any conditions in any other licence.
 
-(9) Subject to Article 38(2) of the Energy Order, modifications made to a licence under this Regulation are without prejudice to the power of the Department, the Authority, the Secretary of State or the Competition and Markets Authority[^key-8ee179479137ec3078aa6112101376d8] , as the case may be, to further modify that licence under or in accordance with the 1996 Order or the Energy Order.
+(9) Subject to Article 38(2) of the Energy Order, modifications made to a licence under this Regulation are without prejudice to the power of the Department, the Authority, the Secretary of State or the Competition and Markets Authority[^c-8ee179479137ec3078aa6112101376d8] , as the case may be, to further modify that licence under or in accordance with the 1996 Order or the Energy Order.
 
-### 16. Duties of Department and Authority[^key-e495448deb801ffce54156df3053397d]
+### 16. Duties of Department and Authority[^c-e495448deb801ffce54156df3053397d]
 
 Article 14 of the Energy Order shall apply in relation to the exercise by the Department and the Authority of any functions under this Part as it applies to the exercise of their functions under Part II of the 1996 Order.
 
-### 17. Interpretation of Part IV[^key-bd1e72e74c86f5d5a79c1ed49c4f616d]
+### 17. Interpretation of Part IV[^c-bd1e72e74c86f5d5a79c1ed49c4f616d]
 
 In this Part expressions which are also used in the 1996 Order shall have the same meaning as in that Order.
 
-### 18. Revocation[^key-558a16b11e83ffb52a70e6b0842b3410]
+### 18. Revocation[^c-558a16b11e83ffb52a70e6b0842b3410]
 
 The Gas Order 1996 (Amendment) Regulations (Northern Ireland) 2002 are hereby revoked.
 
@@ -350,9 +350,9 @@ Department of Enterprise, Trade and Investment
 
 Regulation 15(2)
 
-**1.**[^key-51d272ae0323044f7fc54004645894ac] In Schedule 3, paragraph 24 is repealed.
+**1.**[^c-51d272ae0323044f7fc54004645894ac] In Schedule 3, paragraph 24 is repealed.
 
-**2.**[^key-011799fa5e117c9ef11e192682b5b8e0] In Schedule 5, in the entry relating to the [Gas (Northern Ireland) Order 1996 (NI 2)](https://www.legislation.gov.uk/nisi/1996/275), the words “In Article 10A(2)(b) and (c) the words “(a) or”’’ are repealed.
+**2.**[^c-011799fa5e117c9ef11e192682b5b8e0] In Schedule 5, in the entry relating to the [Gas (Northern Ireland) Order 1996 (NI 2)](https://www.legislation.gov.uk/nisi/1996/275), the words “In Article 10A(2)(b) and (c) the words “(a) or”’’ are repealed.
 
 EXPLANATORY NOTE
 
@@ -386,9 +386,9 @@ Part IV provides for the modification of licences already issued under the 1996 
 
 [^f00002]: Footnote: [S.I. 2000/738](https://www.legislation.gov.uk/uksi/2000/738)
 
-[^key-fece89f82bf2b330d02edaee9c7e9409]: Commencement: Reg. 1 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-fece89f82bf2b330d02edaee9c7e9409]: Commencement: Reg. 1 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-b7ab8c1cf5907957c11f87812be4ea74]: Commencement: Reg. 2 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-b7ab8c1cf5907957c11f87812be4ea74]: Commencement: Reg. 2 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -396,40 +396,40 @@ Part IV provides for the modification of licences already issued under the 1996 
 
 [^f00005]: Footnote: [S.I. 2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419)
 
-[^key-6e85316fdb43c00cc43910d12d08cfdc]: Commencement: Reg. 3 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-6e85316fdb43c00cc43910d12d08cfdc]: Commencement: Reg. 3 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-98ee3699d13c5c976e4494e6c5ef7013]: Commencement: Reg. 4 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-98ee3699d13c5c976e4494e6c5ef7013]: Commencement: Reg. 4 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-01c6f7f34a6f3081aa616a0a4541c78d]: Commencement: Reg. 5 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-01c6f7f34a6f3081aa616a0a4541c78d]: Commencement: Reg. 5 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-ac963cb621f433cd531be41edb2da7ea]: Commencement: Reg. 6 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-ac963cb621f433cd531be41edb2da7ea]: Commencement: Reg. 6 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-91969fee90b44d7aab93ad0919b12a38]: Commencement: Reg. 7 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-91969fee90b44d7aab93ad0919b12a38]: Commencement: Reg. 7 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-32ce97e82bb5b4216a2c9d6e18253af4]: Commencement: Reg. 8 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-32ce97e82bb5b4216a2c9d6e18253af4]: Commencement: Reg. 8 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-974e9e6970fa227c243388adf20d9754]: Commencement: Reg. 9 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-974e9e6970fa227c243388adf20d9754]: Commencement: Reg. 9 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-d23e821bacc500636368beafef7e3e2f]: Commencement: Reg. 10 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-d23e821bacc500636368beafef7e3e2f]: Commencement: Reg. 10 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-cf3f388f9c8fdeed9b2ebbbe26cceb70]: Commencement: Reg. 11 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-cf3f388f9c8fdeed9b2ebbbe26cceb70]: Commencement: Reg. 11 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-5034aa6e47ef7bb531555786470783b7]: Commencement: Reg. 12 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-5034aa6e47ef7bb531555786470783b7]: Commencement: Reg. 12 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-8912b77f24d1c9b6060c30d8ec2c88b8]: Commencement: Reg. 13 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-8912b77f24d1c9b6060c30d8ec2c88b8]: Commencement: Reg. 13 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-26c0bf9f968af74b2a89dc04ce09177d]: Commencement: Reg. 14 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-26c0bf9f968af74b2a89dc04ce09177d]: Commencement: Reg. 14 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-23fd78bf174efb379029d50688930cdd]: Commencement: Reg. 15 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-23fd78bf174efb379029d50688930cdd]: Commencement: Reg. 15 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-8ee179479137ec3078aa6112101376d8]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2006/358/regulation/15) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/53) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-8ee179479137ec3078aa6112101376d8]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2006/358/regulation/15) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/53) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-e495448deb801ffce54156df3053397d]: Commencement: Reg. 16 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-e495448deb801ffce54156df3053397d]: Commencement: Reg. 16 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-bd1e72e74c86f5d5a79c1ed49c4f616d]: Commencement: Reg. 17 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-bd1e72e74c86f5d5a79c1ed49c4f616d]: Commencement: Reg. 17 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-558a16b11e83ffb52a70e6b0842b3410]: Commencement: Reg. 18 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-558a16b11e83ffb52a70e6b0842b3410]: Commencement: Reg. 18 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-51d272ae0323044f7fc54004645894ac]: Commencement: Sch. para. 1 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-51d272ae0323044f7fc54004645894ac]: Commencement: Sch. para. 1 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
 
-[^key-011799fa5e117c9ef11e192682b5b8e0]: Commencement: Sch. para. 2 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)
+[^c-011799fa5e117c9ef11e192682b5b8e0]: Commencement: Sch. para. 2 in operation at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/358/regulation/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Functions not to be the responsibility of an authority’s executive[^key-70d88161fb374996db712d4d5d4a43e1]
+## 2. Functions not to be the responsibility of an authority’s executive[^c-70d88161fb374996db712d4d5d4a43e1]
 
 *Extent: E+W*
 
-(1)[^key-b23f812cff676552308c15af3db86279][^M_C_ffe87ca6-bc7d-4146-b716-55a3c037d0af] The functions of a local authority specified in column (1) of Schedule 1 to these Regulations by reference to the enactments, directions and circulars specified in relation to those functions in column (2) are not to be the responsibility of an executive of the authority.
+(1)[^c-b23f812cff676552308c15af3db86279][^M_C_ffe87ca6-bc7d-4146-b716-55a3c037d0af] The functions of a local authority specified in column (1) of Schedule 1 to these Regulations by reference to the enactments, directions and circulars specified in relation to those functions in column (2) are not to be the responsibility of an executive of the authority.
 
 (2) The functions of—
 
@@ -51,8 +51,8 @@ is not to be the responsibility of an executive of the authority.
 (6) The function of determining—
 
 - (a) the amount of any allowance payable under—
-  - (i) subsection (5) of section 3 (chairman’s expenses) of , or paragraph 2(4) (chairman and mayor) of Schedule 2 to,[^key-40ee1ee910a5fef26792a0189d588fc3] the 1972 Act;
-  - (ii) subsection (4) of section 5 (vice-chairman’s expenses) of , or paragraph 5(4) (power of mayor of London borough to appoint deputy) of Schedule 2 to,[^key-4150598696cee2c7fc1755a0e595dd1c] that Act;
+  - (i) subsection (5) of section 3 (chairman’s expenses) of , or paragraph 2(4) (chairman and mayor) of Schedule 2 to,[^c-40ee1ee910a5fef26792a0189d588fc3] the 1972 Act;
+  - (ii) subsection (4) of section 5 (vice-chairman’s expenses) of , or paragraph 5(4) (power of mayor of London borough to appoint deputy) of Schedule 2 to,[^c-4150598696cee2c7fc1755a0e595dd1c] that Act;
   - (iii) subsection (4) of section 173 (financial loss allowance) of that Act[^f00005];
   - (iv) section 175 (allowances for attending conferences and meetings) of that Act;
 - (b) the rates at which payments are to be made under section 174 (travelling and subsistence allowances) of that Act;
@@ -62,19 +62,19 @@ is not to be the responsibility of an executive of the authority.
 
 is not to be the responsibility of an executive of the authority.
 
-(6A)[^key-db0c3897d10ccb821dae47c5e97308aa] The function of making a request under section 14A(1) (requests for single-member electoral areas) of the Local Government Act 1992 for single-member electoral areas is not to be the responsibility of an executive of the authority.
+(6A)[^c-db0c3897d10ccb821dae47c5e97308aa] The function of making a request under section 14A(1) (requests for single-member electoral areas) of the Local Government Act 1992 for single-member electoral areas is not to be the responsibility of an executive of the authority.
 
 (6B) The function of passing a resolution to change a scheme for elections under section 32(1), 37(1) or 39(1) (resolutions for schemes for elections) of the 2007 Act is not to be the responsibility of an executive of the authority.
 
-(6C)[^key-aab83f634581c3e0e0a3c716d7ad7441] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6C)[^c-aab83f634581c3e0e0a3c716d7ad7441] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6D)[^key-aab83f634581c3e0e0a3c716d7ad7441] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6D)[^c-aab83f634581c3e0e0a3c716d7ad7441] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6E) The function of making an order giving effect to recommendations made in a community governance review under section 86 (reorganisation of community governance) of the 2007 Act is not to be the responsibility of an authority’s executive.
 
 (6F) The duty to make a change in governance arrangements under paragraph 3 or 8 of Schedule 4 to the 2007 Act is not to be the responsibility of an authority’s executive.
 
-(7)[^key-8fb1e9a184159fd9cf1aef278a6b6153] Section 101 (arrangements for discharge of functions by local authorities) of the 1972 Act shall not apply with respect to the discharge of any function mentioned in paragraph (5), (6)(a) to (c) or (6A), (6B), (6E) or (6F).
+(7)[^c-8fb1e9a184159fd9cf1aef278a6b6153] Section 101 (arrangements for discharge of functions by local authorities) of the 1972 Act shall not apply with respect to the discharge of any function mentioned in paragraph (5), (6)(a) to (c) or (6A), (6B), (6E) or (6F).
 
 (8) Subject to any provision of regulations under section 20 (joint exercise of functions) of the Local Government Act 2000, the function of—
 
@@ -93,25 +93,25 @@ is not to be the responsibility of an executive of the authority.
 
 ## Annotations
 
-[^key-70d88161fb374996db712d4d5d4a43e1]: Commencement: Reg. 2 in force at 16.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/1/1)
+[^c-70d88161fb374996db712d4d5d4a43e1]: Commencement: Reg. 2 in force at 16.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/1/1)
 
-[^key-b23f812cff676552308c15af3db86279]: Modification: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1) modified (28.6.2008) by [The Local Government (Structural and Boundary Changes) (Staffing) Regulations 2008 (S.I. 2008/1419)](https://www.legislation.gov.uk/uksi/2008/1419), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1419/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2008/1419/regulation/4/4)
+[^c-b23f812cff676552308c15af3db86279]: Modification: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1) modified (28.6.2008) by [The Local Government (Structural and Boundary Changes) (Staffing) Regulations 2008 (S.I. 2008/1419)](https://www.legislation.gov.uk/uksi/2008/1419), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1419/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2008/1419/regulation/4/4)
 
 [^M_C_ffe87ca6-bc7d-4146-b716-55a3c037d0af]: Modification: Reg. 2(1) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/11/3)[(4)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/11/4) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2))
 
 [^f00004]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42). Section 18 is amended by section 99(3) to (9) of the Local Government Act 2000.
 
-[^key-40ee1ee910a5fef26792a0189d588fc3]: Textual amendment: Words in [reg. 2(6)(a)(i)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/6/a/i) inserted (31.3.2008) by [The Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2008 (S.I. 2008/516)](https://www.legislation.gov.uk/uksi/2008/516), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/516/regulation/1/1/a), [4(a)(i)](https://www.legislation.gov.uk/uksi/2008/516/regulation/4/a/i)
+[^c-40ee1ee910a5fef26792a0189d588fc3]: Textual amendment: Words in [reg. 2(6)(a)(i)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/6/a/i) inserted (31.3.2008) by [The Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2008 (S.I. 2008/516)](https://www.legislation.gov.uk/uksi/2008/516), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/516/regulation/1/1/a), [4(a)(i)](https://www.legislation.gov.uk/uksi/2008/516/regulation/4/a/i)
 
-[^key-4150598696cee2c7fc1755a0e595dd1c]: Textual amendment: Words in [reg. 2(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/6/a/ii) inserted (31.3.2008) by [The Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2008 (S.I. 2008/516)](https://www.legislation.gov.uk/uksi/2008/516), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/516/regulation/1/1/a), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2008/516/regulation/4/a/ii)
+[^c-4150598696cee2c7fc1755a0e595dd1c]: Textual amendment: Words in [reg. 2(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/6/a/ii) inserted (31.3.2008) by [The Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2008 (S.I. 2008/516)](https://www.legislation.gov.uk/uksi/2008/516), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/516/regulation/1/1/a), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2008/516/regulation/4/a/ii)
 
 [^f00005]: Footnote: Section 173(4) was amended by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 11, paragraph 26. A relevant saving was made by article 3(2) of the Local Government and Housing Act 1989 (Commencement No. 11 and Savings) Order 1991 (S.I. [1991/344](https://www.legislation.gov.uk/uksi/1991/344)).
 
-[^key-db0c3897d10ccb821dae47c5e97308aa]: Textual amendment: Reg. 2(6A)-(6F) inserted (31.3.2008) by [The Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2008 (S.I. 2008/516)](https://www.legislation.gov.uk/uksi/2008/516), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/516/regulation/1/1/a), [4(b)](https://www.legislation.gov.uk/uksi/2008/516/regulation/4/b)
+[^c-db0c3897d10ccb821dae47c5e97308aa]: Textual amendment: Reg. 2(6A)-(6F) inserted (31.3.2008) by [The Local Authorities (Functions and Responsibilities) (England) (Amendment) Regulations 2008 (S.I. 2008/516)](https://www.legislation.gov.uk/uksi/2008/516), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2008/516/regulation/1/1/a), [4(b)](https://www.legislation.gov.uk/uksi/2008/516/regulation/4/b)
 
-[^key-aab83f634581c3e0e0a3c716d7ad7441]: Textual amendment: Reg. 2(6C)(6D) omitted (28.11.2008) by virtue of [The Local Authorities (Functions and Responsibilities) (England) (Amendment No. 3) Regulations 2008 (S.I. 2008/2787)](https://www.legislation.gov.uk/uksi/2008/2787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2787/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/2787/regulation/3/a)
+[^c-aab83f634581c3e0e0a3c716d7ad7441]: Textual amendment: Reg. 2(6C)(6D) omitted (28.11.2008) by virtue of [The Local Authorities (Functions and Responsibilities) (England) (Amendment No. 3) Regulations 2008 (S.I. 2008/2787)](https://www.legislation.gov.uk/uksi/2008/2787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2787/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/2787/regulation/3/a)
 
-[^key-8fb1e9a184159fd9cf1aef278a6b6153]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/7) substituted (28.11.2008) by [The Local Authorities (Functions and Responsibilities) (England) (Amendment No. 3) Regulations 2008 (S.I. 2008/2787)](https://www.legislation.gov.uk/uksi/2008/2787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2787/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/2787/regulation/3/b)
+[^c-8fb1e9a184159fd9cf1aef278a6b6153]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/7) substituted (28.11.2008) by [The Local Authorities (Functions and Responsibilities) (England) (Amendment No. 3) Regulations 2008 (S.I. 2008/2787)](https://www.legislation.gov.uk/uksi/2008/2787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2787/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/2787/regulation/3/b)
 
 [^f00006]: Footnote: The agreement is referred to in regulation 5(2)(e)(ii) of the Local Government (Committees and Political Groups) Regulations 1990 (S.I. [1990/1553](https://www.legislation.gov.uk/uksi/1990/1553)).
 

@@ -37,9 +37,9 @@ summary: ''
 - (a) give details of the requirement;
 - (b) identify each interested party;
 - (c) give the regulator's reasons for imposing the requirement—
-  - (i) in the case of a notice given to the investment firm, credit institution, or recognised investment exchange, in relation to each interested party[^key-7af1a6eb2d60aa7fd3ceb6838e54b9d0];
+  - (i) in the case of a notice given to the investment firm, credit institution, or recognised investment exchange, in relation to each interested party[^c-7af1a6eb2d60aa7fd3ceb6838e54b9d0];
   - (ii) in the case of a notice given to the interested party, in relation to that interested party;
-- (d) inform the investment firm, credit institution, or recognised investment exchange and the interested party that each of them may make representations to the regulator within such period as may be specified in the notice (whether or not the matter has been referred [^key-acf82f6c6b3df551702f52ee536c9e57]... to the Tribunal);
+- (d) inform the investment firm, credit institution, or recognised investment exchange and the interested party that each of them may make representations to the regulator within such period as may be specified in the notice (whether or not the matter has been referred [^c-acf82f6c6b3df551702f52ee536c9e57]... to the Tribunal);
 - (e) state when the requirement takes effect; and
 - (f) inform the investment firm, credit institution, or recognised investment exchange and the interested party of their right to refer the matter to the Tribunal.
 
@@ -53,16 +53,16 @@ summary: ''
 
 the regulator must give written notice to the person to whom the original notice was given.
 
-(7) A notice under paragraph (6)(b) or (c) must inform the person to whom it is given of that person's right to refer the matter to the Tribunal [^key-63b30ee6042c32178f86c48539ff0b35]....
+(7) A notice under paragraph (6)(b) or (c) must inform the person to whom it is given of that person's right to refer the matter to the Tribunal [^c-63b30ee6042c32178f86c48539ff0b35]....
 
-(8)[^key-fd0e3a5b656e5ea7dccbc1fc3e8334cb] If a notice under paragraph (3) or (6)(b) or (c) informs a person of that person’s right to refer a matter to the Tribunal, it must give an indication of the procedure on such a reference.
+(8)[^c-fd0e3a5b656e5ea7dccbc1fc3e8334cb] If a notice under paragraph (3) or (6)(b) or (c) informs a person of that person’s right to refer a matter to the Tribunal, it must give an indication of the procedure on such a reference.
 
 ## Annotations
 
-[^key-7af1a6eb2d60aa7fd3ceb6838e54b9d0]: Textual amendment: Words in reg. 40(4)(c)(i) substituted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [29(a)(i)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/29/a/i)
+[^c-7af1a6eb2d60aa7fd3ceb6838e54b9d0]: Textual amendment: Words in reg. 40(4)(c)(i) substituted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [29(a)(i)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/29/a/i)
 
-[^key-acf82f6c6b3df551702f52ee536c9e57]: Textual amendment: Words in reg. 40(4)(d) omitted (2.1.2018) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [29(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/29/a/ii)
+[^c-acf82f6c6b3df551702f52ee536c9e57]: Textual amendment: Words in reg. 40(4)(d) omitted (2.1.2018) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [29(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/29/a/ii)
 
-[^key-63b30ee6042c32178f86c48539ff0b35]: Textual amendment: Words in reg. 40(7) omitted (2.1.2018) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [29(b)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/29/b)
+[^c-63b30ee6042c32178f86c48539ff0b35]: Textual amendment: Words in reg. 40(7) omitted (2.1.2018) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [29(b)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/29/b)
 
-[^key-fd0e3a5b656e5ea7dccbc1fc3e8334cb]: Textual amendment: Reg. 40(8) inserted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [29(c)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/29/c)
+[^c-fd0e3a5b656e5ea7dccbc1fc3e8334cb]: Textual amendment: Reg. 40(8) inserted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [29(c)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/29/c)

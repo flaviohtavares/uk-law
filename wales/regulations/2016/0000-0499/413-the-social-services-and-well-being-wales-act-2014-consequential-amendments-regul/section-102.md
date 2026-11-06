@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**102.**[^key-df81a7d54b0dabe36948f43fe1286e54] In section 85 (children accommodated by health authorities and local education authorities)—
+**102.**[^c-df81a7d54b0dabe36948f43fe1286e54] In section 85 (children accommodated by health authorities and local education authorities)—
 
 - (a) in subsection (1)[^f00124]—
   - (i) after “accommodation” insert “in England”;
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-df81a7d54b0dabe36948f43fe1286e54]: Commencement: Reg. 102 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-df81a7d54b0dabe36948f43fe1286e54]: Commencement: Reg. 102 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00124]: Footnote: Section 85(1) was amended by the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17), Schedule 1, paragraph 118(9); by the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), Schedule 5, paragraphs 47 and 55(a); by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), Schedule 5, paragraph 36(5); by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 17(1) and (2); by [S.I. 2007/961 (W. 85)](https://www.legislation.gov.uk/wsi/2007/961), paragraph 20(1) and (2)(h) of the Schedule; [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), Schedule 1, paragraph 24(1) and (9), and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, paragraph 37(1) and (10)(a).
 

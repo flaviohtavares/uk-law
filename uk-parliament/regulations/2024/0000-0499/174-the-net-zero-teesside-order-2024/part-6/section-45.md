@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Certification of plans etc.[^key-a469c2871dbc9287f861970bb9a96501]
+## 45. Certification of plans etc.[^c-a469c2871dbc9287f861970bb9a96501]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a469c2871dbc9287f861970bb9a96501]: Commencement: Art. 45 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-a469c2871dbc9287f861970bb9a96501]: Commencement: Art. 45 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

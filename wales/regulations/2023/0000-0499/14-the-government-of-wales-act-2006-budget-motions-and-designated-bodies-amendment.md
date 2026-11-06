@@ -47,13 +47,13 @@ The Welsh Ministers, in exercise of the powers conferred on them by section 126A
 
 In accordance with section 126A(6) of that Act the Welsh Ministers have consulted with the Treasury on the making of this Order.
 
-## 1. Title and commencement[^key-6335167909c194e08353db575cc21a64]
+## 1. Title and commencement[^c-6335167909c194e08353db575cc21a64]
 
 (1) The title of this Order is the Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2023.
 
 (2) This Order comes into force on 13 February 2023.
 
-## 2. Amendments to the Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2018[^key-e1bb13c7c63ad340026366164b9fd9dd]
+## 2. Amendments to the Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2018[^c-e1bb13c7c63ad340026366164b9fd9dd]
 
 (1) The Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2018[^f00002] is amended as follows.
 
@@ -93,9 +93,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32); section 126A was inserted by section 44(1) and (2) of the Constitutional Reform and Governance Act [2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25). Subsections (9) and (10) of section 126A were amended by the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), section 9 and Schedule 1, paragraphs 2(6)(a) and (b) respectively.
 
-[^key-6335167909c194e08353db575cc21a64]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2023/14/article/1) in force at 13.2.2023, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2023/14/article/1/2)
+[^c-6335167909c194e08353db575cc21a64]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2023/14/article/1) in force at 13.2.2023, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2023/14/article/1/2)
 
-[^key-e1bb13c7c63ad340026366164b9fd9dd]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2023/14/article/2) in force at 13.2.2023, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2023/14/article/1/2)
+[^c-e1bb13c7c63ad340026366164b9fd9dd]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2023/14/article/2) in force at 13.2.2023, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2023/14/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2018/1173 (W. 237)](https://www.legislation.gov.uk/wsi/2018/1173), amended by [S.I. 2019/1483 (W. 267)](https://www.legislation.gov.uk/wsi/2019/1483), [S.I. 2021/1345 (W. 347)](https://www.legislation.gov.uk/wsi/2021/1345) and [S.I. 2022/58 (W. 22)](https://www.legislation.gov.uk/wsi/2022/58).
 

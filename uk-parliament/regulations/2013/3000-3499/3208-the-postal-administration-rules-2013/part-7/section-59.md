@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Debt payable at future time[^key-c39e468a9d1032c2b19b2ccfeced1b67]
+## 59. Debt payable at future time[^c-c39e468a9d1032c2b19b2ccfeced1b67]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A creditor may prove for a debt of which payment was not yet due on the date whe
 
 ## Annotations
 
-[^key-c39e468a9d1032c2b19b2ccfeced1b67]: Commencement: [Rule 59](https://www.legislation.gov.uk/uksi/2013/3208/rule/59) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-c39e468a9d1032c2b19b2ccfeced1b67]: Commencement: [Rule 59](https://www.legislation.gov.uk/uksi/2013/3208/rule/59) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

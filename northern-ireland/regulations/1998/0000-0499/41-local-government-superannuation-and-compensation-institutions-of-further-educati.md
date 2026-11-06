@@ -42,21 +42,21 @@ The Department of the Environment in exercise of the powers conferred on it by A
 
 ## Part I — Preliminary
 
-### 1. Citation and commencement[^key-c01ffc29251261e5b27c96fe218b5091]
+### 1. Citation and commencement[^c-c01ffc29251261e5b27c96fe218b5091]
 
 These Regulations may be cited as the Local Government (Superannuation and Compensation) (Institutions of Further Education) Regulations (Northern Ireland) 1998 and shall come into operation on 1st April 1998.
 
 ## Part II — Superannuation
 
-### 2. Interpretation[^key-ee647407bc97ca99515716b9ee62d44a]
+### 2. Interpretation[^c-ee647407bc97ca99515716b9ee62d44a]
 
 In this Part “the principal Regulations” means the Local Government (Superannuation) Regulations (Northern Ireland) 1992[^f00003].
 
-### 3. Power to admit employees of other bodies[^key-a8fba085c0be9d466f0148ef295675d4]
+### 3. Power to admit employees of other bodies[^c-a8fba085c0be9d466f0148ef295675d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment to Schedule 19 to the principal Regulations[^key-aa95dcdac53009a68e76616d238a777f]
+### 4. Amendment to Schedule 19 to the principal Regulations[^c-aa95dcdac53009a68e76616d238a777f]
 
 Schedule 19 to the principal Regulations is amended—
 
@@ -69,11 +69,11 @@ Schedule 19 to the principal Regulations is amended—
 
 ## Part III — Compensation
 
-### 5. Interpretation[^key-d134c8f7463c282b474bdb31390f14c2]
+### 5. Interpretation[^c-d134c8f7463c282b474bdb31390f14c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment to Schedule 1 to the 1983 Regulations[^key-d134c8f7463c282b474bdb31390f14c2]
+### 6. Amendment to Schedule 1 to the 1983 Regulations[^c-d134c8f7463c282b474bdb31390f14c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -101,14 +101,14 @@ Regulation 6, in Part III, adds to Schedule 1 to the 1983 Regulations, governing
 
 [^f00002]: Footnote: [S.R. & O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504) Article 7(1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424)
 
-[^key-c01ffc29251261e5b27c96fe218b5091]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/41/regulation/1) in operation at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/41/regulation/1)
+[^c-c01ffc29251261e5b27c96fe218b5091]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/41/regulation/1) in operation at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/41/regulation/1)
 
-[^key-ee647407bc97ca99515716b9ee62d44a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/41/regulation/2) in operation at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/41/regulation/1)
+[^c-ee647407bc97ca99515716b9ee62d44a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/41/regulation/2) in operation at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/41/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1992 No. 547](https://www.legislation.gov.uk/nisr/1992/547)
 
-[^key-a8fba085c0be9d466f0148ef295675d4]: Textual amendment: [Pt. II reg. 3](https://www.legislation.gov.uk/nisr/1998/41/part/II/regulation/3) revoked (1.8.2000) by [Local Government Pension Scheme Regulations (Northern Ireland) 2000 (S.R. 2000/177)](https://www.legislation.gov.uk/nisr/2000/177), [reg. A1(1)](https://www.legislation.gov.uk/nisr/2000/177/regulation/A1/1), [Sch. M3](https://www.legislation.gov.uk/nisr/2000/177/schedule/M3) (with [Sch. M2](https://www.legislation.gov.uk/nisr/2000/177/schedule/M2))
+[^c-a8fba085c0be9d466f0148ef295675d4]: Textual amendment: [Pt. II reg. 3](https://www.legislation.gov.uk/nisr/1998/41/part/II/regulation/3) revoked (1.8.2000) by [Local Government Pension Scheme Regulations (Northern Ireland) 2000 (S.R. 2000/177)](https://www.legislation.gov.uk/nisr/2000/177), [reg. A1(1)](https://www.legislation.gov.uk/nisr/2000/177/regulation/A1/1), [Sch. M3](https://www.legislation.gov.uk/nisr/2000/177/schedule/M3) (with [Sch. M2](https://www.legislation.gov.uk/nisr/2000/177/schedule/M2))
 
-[^key-aa95dcdac53009a68e76616d238a777f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/41/regulation/4) in operation at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/41/regulation/1)
+[^c-aa95dcdac53009a68e76616d238a777f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/41/regulation/4) in operation at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/41/regulation/1)
 
-[^key-d134c8f7463c282b474bdb31390f14c2]: Textual amendment: [Pt. III](https://www.legislation.gov.uk/nisr/1998/41/part/III) revoked (28.8.2001) by [The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001 (S.R. 2001/279)](https://www.legislation.gov.uk/nisr/2001/279), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1), [42(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/42/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2001/279/schedule/4) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2001/279/regulation/41/2))
+[^c-d134c8f7463c282b474bdb31390f14c2]: Textual amendment: [Pt. III](https://www.legislation.gov.uk/nisr/1998/41/part/III) revoked (28.8.2001) by [The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001 (S.R. 2001/279)](https://www.legislation.gov.uk/nisr/2001/279), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1), [42(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/42/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2001/279/schedule/4) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2001/279/regulation/41/2))

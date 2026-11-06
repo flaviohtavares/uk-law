@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Assessment of wellbeing[^key-58fcd11d7d138dbb228cd568fac1737b][^key-573aa393e466c4c933847fa7899c0906][^key-c996281a61166eea8abae23366df9ebb]
+## 96. Assessment of wellbeing[^c-58fcd11d7d138dbb228cd568fac1737b][^c-573aa393e466c4c933847fa7899c0906][^c-c996281a61166eea8abae23366df9ebb]
 
 *Extent: S*
 
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-58fcd11d7d138dbb228cd568fac1737b]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2014/8/section/96) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-58fcd11d7d138dbb228cd568fac1737b]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2014/8/section/96) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
 
-[^key-573aa393e466c4c933847fa7899c0906]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2014/8/section/96) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-573aa393e466c4c933847fa7899c0906]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2014/8/section/96) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
 
-[^key-c996281a61166eea8abae23366df9ebb]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2014/8/section/96) in force at 5.1.2016 in so far as not already in force by [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/406/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2015/406/article/3/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2015/406/schedule/part/1)
+[^c-c996281a61166eea8abae23366df9ebb]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2014/8/section/96) in force at 5.1.2016 in so far as not already in force by [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/406/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2015/406/article/3/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2015/406/schedule/part/1)

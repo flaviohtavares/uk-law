@@ -39,22 +39,22 @@ amending Implementing Decisions 2013/648/EU and 2013/650/EU as regards the repre
 
 (Text with EEA relevance) (revoked)
 
-[^key-ce5c67c1b16f26ea85b01859a9f6425f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce5c67c1b16f26ea85b01859a9f6425f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Implementing Decision 2013/648/EU[^key-ce5c67c1b16f26ea85b01859a9f6425f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Implementing Decision 2013/650/EU[^key-ce5c67c1b16f26ea85b01859a9f6425f]
+## Article 1. Amendments to Implementing Decision 2013/648/EU[^c-ce5c67c1b16f26ea85b01859a9f6425f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Addressee[^key-ce5c67c1b16f26ea85b01859a9f6425f]
+## Article 2. Amendments to Implementing Decision 2013/650/EU[^c-ce5c67c1b16f26ea85b01859a9f6425f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce5c67c1b16f26ea85b01859a9f6425f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Addressee[^c-ce5c67c1b16f26ea85b01859a9f6425f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ce5c67c1b16f26ea85b01859a9f6425f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce5c67c1b16f26ea85b01859a9f6425f]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/2/paragraph/3)
+[^c-ce5c67c1b16f26ea85b01859a9f6425f]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/2/paragraph/3)

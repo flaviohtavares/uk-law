@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. The foreign power condition[^key-541f87d38c49032852692edc7cd48044][^key-030065f025c7b1e93caebe74f748c955][^key-6d9e57f8f7002b176c94aa674d743fb1][^key-b4161c514f72939e82ceba82600f02c0]
+## 31. The foreign power condition[^c-541f87d38c49032852692edc7cd48044][^c-030065f025c7b1e93caebe74f748c955][^c-6d9e57f8f7002b176c94aa674d743fb1][^c-b4161c514f72939e82ceba82600f02c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-541f87d38c49032852692edc7cd48044]: Commencement: S. 31 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-541f87d38c49032852692edc7cd48044]: Commencement: S. 31 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-030065f025c7b1e93caebe74f748c955]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/32/section/31) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-030065f025c7b1e93caebe74f748c955]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/32/section/31) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-6d9e57f8f7002b176c94aa674d743fb1]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2023/32/section/31) applied (20.12.2023) by 2020 c. 17, s. 69A (as inserted by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/19/2), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a))
+[^c-6d9e57f8f7002b176c94aa674d743fb1]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2023/32/section/31) applied (20.12.2023) by 2020 c. 17, s. 69A (as inserted by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/19/2), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a))
 
-[^key-b4161c514f72939e82ceba82600f02c0]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2023/32/section/31) applied (8.7.2026) by 2020 c. 17, s. 69A(5) (as substituted by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 13(2)(c)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/13/2/c))
+[^c-b4161c514f72939e82ceba82600f02c0]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2023/32/section/31) applied (8.7.2026) by 2020 c. 17, s. 69A(5) (as substituted by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 13(2)(c)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/13/2/c))

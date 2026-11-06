@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement, extent, application and expiry[^key-eca17dace2458ebb9a16c0153aedca02]
+### 1. Citation, commencement, extent, application and expiry[^c-eca17dace2458ebb9a16c0153aedca02]
 
 (1) These Regulations may be cited as the Seed Marketing (CMS Wheat Hybrids) (Temporary Experiment) (England) Regulations 2024.
 
@@ -58,7 +58,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (4) These Regulations cease to have effect at the end of 25th September 2031.
 
-### 2. Interpretation[^key-6e4fc14e49492bd9ba3e15b63795f856]
+### 2. Interpretation[^c-6e4fc14e49492bd9ba3e15b63795f856]
 
 In these Regulations—
 
@@ -71,7 +71,7 @@ In these Regulations—
 
 ## PART 2 — The experiment
 
-### 3. Purpose and duration of the experiment, and the granting of licences to participate in it[^key-f0aec75508c1cb52c109729940aed3a6]
+### 3. Purpose and duration of the experiment, and the granting of licences to participate in it[^c-f0aec75508c1cb52c109729940aed3a6]
 
 (1) The purpose of the experiment, in accordance with regulation 21A(1) of the 2011 Regulations[^f00003], is to seek alternative requirements for the certification of CMS wheat hybrids which may be more suitable than the requirements specified in Schedule 2 to the 2011 Regulations.
 
@@ -79,7 +79,7 @@ In these Regulations—
 
 (3) The Secretary of State may grant a licence for the purpose of participating in the experiment to a person who applies for a licence in accordance with regulation 4(1) and (2).
 
-### 4. Application for a licence[^key-1f98b139ad0a248625f0980c10f28d4b]
+### 4. Application for a licence[^c-1f98b139ad0a248625f0980c10f28d4b]
 
 (1) An application for a licence must be made in writing to the Secretary of State and include the information specified in paragraph (2).
 
@@ -94,7 +94,7 @@ In these Regulations—
 
 (4) The participant must comply with any conditions specified in the licence.
 
-### 5. Period of validity of a licence[^key-105b2b0b0bcacb3056f38b460a01c62d]
+### 5. Period of validity of a licence[^c-105b2b0b0bcacb3056f38b460a01c62d]
 
 (1) Subject to paragraphs (2) and (5) and to regulation 8, the period of validity of a licence to participate in the experiment begins on the date of issue specified in the licence and ends at the end of 25th September 2031.
 
@@ -106,17 +106,17 @@ In these Regulations—
 
 (5) Where the participant informs the Secretary of State that they intend to cease participation in the experiment, the participant’s licence ceases to be valid at the end of the date specified in the notice referred to in paragraph (3).
 
-### 6. Effect of the grant of a licence to participate in the experiment[^key-3017e01e031d1a28053eccae331336c9]
+### 6. Effect of the grant of a licence to participate in the experiment[^c-3017e01e031d1a28053eccae331336c9]
 
 The Schedule, which makes transitory modifications to the application of the 2011 Regulations during the period of validity of a licence, has effect in relation to a participant in so far as the provision relates to CMS wheat hybrids developed in accordance with the licence.
 
-### 7. Variation of conditions included in a licence[^key-c0acf5e0144fbd5a8f54bebcab548c49]
+### 7. Variation of conditions included in a licence[^c-c0acf5e0144fbd5a8f54bebcab548c49]
 
 (1) The Secretary of State may at any time vary any of the conditions included in a licence by giving notice in writing to the participant.
 
 (2) The written notice referred to in paragraph (1) must state the reasons for the variation and the date from which it is to take effect.
 
-### 8. Revocation or suspension of a licence[^key-2a7f4db12fd788ae8763c57935ee5690]
+### 8. Revocation or suspension of a licence[^c-2a7f4db12fd788ae8763c57935ee5690]
 
 (1) The Secretary of State may revoke or suspend a licence by giving written notice to the participant if satisfied that a participant has—
 
@@ -133,7 +133,7 @@ The Schedule, which makes transitory modifications to the application of the 201
 
 ## PART 3 — Record keeping and inspection of premises
 
-### 9. Recording and reporting obligations relating to the experiment[^key-4fd1920dcf91a2e4b4cb249b1cb915cd]
+### 9. Recording and reporting obligations relating to the experiment[^c-4fd1920dcf91a2e4b4cb249b1cb915cd]
 
 A participant or, where the participant is not an individual, the person responsible for the participant’s participation in the experiment, must keep accurate records concerning the experiment in relation to—
 
@@ -144,11 +144,11 @@ A participant or, where the participant is not an individual, the person respons
   - (ii) any person to whom seeds of the hybrid have been supplied, and
   - (iii) the person responsible for the development and maintenance of the hybrid.
 
-**10.**[^key-ec914368bda858dee61908cd48652181][^key-4fd1920dcf91a2e4b4cb249b1cb915cd] (1) A participant or, where the participant is not an individual, the person responsible for the participant’s participation in the experiment, must notify the Secretary of State in writing of any changes to the information specified in regulation 4(2) since the licence application was made.
+**10.**[^c-ec914368bda858dee61908cd48652181][^c-4fd1920dcf91a2e4b4cb249b1cb915cd] (1) A participant or, where the participant is not an individual, the person responsible for the participant’s participation in the experiment, must notify the Secretary of State in writing of any changes to the information specified in regulation 4(2) since the licence application was made.
 
 (2) The written notification referred to in paragraph (1) must be given within the period of 30 days beginning with the date on which the change took place, or the date on which the participant ought reasonably to have become aware of it.
 
-### 11. Access to and inspection of premises etc.[^key-982a0dc102cf1900c8718e7380b9ff87]
+### 11. Access to and inspection of premises etc.[^c-982a0dc102cf1900c8718e7380b9ff87]
 
 (1) A participant must ensure that the Secretary of State, having given notice in accordance with paragraph (2), is permitted to access and inspect—
 
@@ -161,7 +161,7 @@ A participant or, where the participant is not an individual, the person respons
 
 ## PART 4 — Marketing and certification
 
-### 12. Certification procedure[^key-87924a0174067fce6a2b6a9794da7cea]
+### 12. Certification procedure[^c-87924a0174067fce6a2b6a9794da7cea]
 
 (1) A participant may apply to the Secretary of State under the 2011 Regulations, as they have effect under the Schedule, for certification of CMS wheat hybrid seeds developed under the experiment.
 
@@ -181,16 +181,16 @@ Regulation 6
 
 ### PART 1 — General
 
-**1.**[^key-5170ac60875dca45566a9c9e46230132] The 2011 Regulations apply to CMS wheat hybrids produced in accordance with a licence, subject to the modifications specified in Part 2 of this Schedule.
+**1.**[^c-5170ac60875dca45566a9c9e46230132] The 2011 Regulations apply to CMS wheat hybrids produced in accordance with a licence, subject to the modifications specified in Part 2 of this Schedule.
 
-**2.**[^key-68dc05fb724d88b78e056cbb989b9196] In this Schedule—
+**2.**[^c-68dc05fb724d88b78e056cbb989b9196] In this Schedule—
 
 - (a) references to a regulation are to a regulation of the 2011 Regulations;
 - (b) references to Schedule 2 are to Schedule 2 to the 2011 Regulations.
 
 ### PART 2 — Transitory modifications: certification
 
-**3.**[^key-b0b47b6e7bf70cff35477046e87f597f] Regulation 3 (interpretation of other terms) is to be read as if—
+**3.**[^c-b0b47b6e7bf70cff35477046e87f597f] Regulation 3 (interpretation of other terms) is to be read as if—
 
 - (a) after paragraph (1)(b), there were inserted—
 
@@ -205,7 +205,7 @@ Regulation 6
 
   .
 
-**4.**[^key-4f55ddab805d5ffca9394fa2c41fe6d2] Regulation 10 (overriding requirements: the building blocks necessary for certification) is to be read as if—
+**4.**[^c-4f55ddab805d5ffca9394fa2c41fe6d2] Regulation 10 (overriding requirements: the building blocks necessary for certification) is to be read as if—
 
 - (a) the existing text were numbered paragraph (1);
 - (b) in paragraph (1), as numbered by this regulation, in the opening words after “seed must” there were inserted “(except in the case of a seed of a CMS wheat hybrid)”;
@@ -218,11 +218,11 @@ Regulation 6
 
   .
 
-**5.**[^key-ec2da28c2b06bdca0557180a9fc1be78] Regulation 11 (detailed requirements for certification) is to be read as if, in paragraph (3), in the opening words, after “Schedule 2” there were inserted “and, in relation to CMS wheat hybrids, the CMS Wheat Hybrids Regulations”.
+**5.**[^c-ec2da28c2b06bdca0557180a9fc1be78] Regulation 11 (detailed requirements for certification) is to be read as if, in paragraph (3), in the opening words, after “Schedule 2” there were inserted “and, in relation to CMS wheat hybrids, the CMS Wheat Hybrids Regulations”.
 
-**6.**[^key-1b3fdae8b1dcbbee295421ec8ed7d737] Regulation 15 (control plots and tests) is to be read as if, in paragraph (2), after “varietal purity” there were inserted “or, in relation to a seed of a CMS wheat hybrid, the applicable certification requirements in Schedule 2 and the CMS Wheat Hybrids Regulations,”.
+**6.**[^c-1b3fdae8b1dcbbee295421ec8ed7d737] Regulation 15 (control plots and tests) is to be read as if, in paragraph (2), after “varietal purity” there were inserted “or, in relation to a seed of a CMS wheat hybrid, the applicable certification requirements in Schedule 2 and the CMS Wheat Hybrids Regulations,”.
 
-**7.**[^key-c282ce1d57288f35cb52b13195b089fe] Regulation 28 (appeals) is to be read as if, in paragraph (1), after sub-paragraph (a), there were inserted—
+**7.**[^c-c282ce1d57288f35cb52b13195b089fe] Regulation 28 (appeals) is to be read as if, in paragraph (1), after sub-paragraph (a), there were inserted—
 
 > - (aa) in relation to a seed used to create a CMS wheat hybrid—
 >   - (i) refuse to grant a CWH licence;
@@ -231,7 +231,7 @@ Regulation 6
 
 .
 
-**8.**[^key-8048b13fb8c19d7f3d9a413d8353cbb8] Paragraph 15 of Schedule 2 (crop and seed certification requirements) is to be read as if, after sub-paragraph (2A), there were inserted—
+**8.**[^c-8048b13fb8c19d7f3d9a413d8353cbb8] Paragraph 15 of Schedule 2 (crop and seed certification requirements) is to be read as if, after sub-paragraph (2A), there were inserted—
 
 > (2B) In addition, in relation to CMS wheat hybrids—
 >
@@ -287,46 +287,46 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14) (“**the 1964 Act**”). Section 16 was amended by section 4 of, and paragraph 5 of Schedule 4 to, the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), section 2 of the Agriculture Act [1986 (c. 49)](https://www.legislation.gov.uk/ukpga/1986/49), sections 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and [S.I. 1977/1112](https://www.legislation.gov.uk/uksi/1977/1112). See section 38(1) of the 1964 Act for the definition of “the Minister”. The functions of the Minister of Agriculture, Fisheries and Food under the 1964 Act were transferred to the Secretary of State by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
 
-[^key-eca17dace2458ebb9a16c0153aedca02]: Commencement: Reg. 1 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-eca17dace2458ebb9a16c0153aedca02]: Commencement: Reg. 1 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-6e4fc14e49492bd9ba3e15b63795f856]: Commencement: Reg. 2 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-6e4fc14e49492bd9ba3e15b63795f856]: Commencement: Reg. 2 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2011/463](https://www.legislation.gov.uk/uksi/2011/463) (“**the 2011 Regulations**”); relevant amending instruments are [S.I. 2012/3035](https://www.legislation.gov.uk/uksi/2012/3035), [2019/131](https://www.legislation.gov.uk/uksi/2019/131) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388)), [2020/682](https://www.legislation.gov.uk/uksi/2020/682) and [2022/1090](https://www.legislation.gov.uk/uksi/2022/1090). Non-textual modifications were made to the 2011 Regulations by [S.I. 2023/676](https://www.legislation.gov.uk/uksi/2023/676).
 
-[^key-f0aec75508c1cb52c109729940aed3a6]: Commencement: Reg. 3 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-f0aec75508c1cb52c109729940aed3a6]: Commencement: Reg. 3 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
 [^f00003]: Footnote: Regulation 21A of the 2011 Regulations was inserted by [S.I. 2012/3035](https://www.legislation.gov.uk/uksi/2012/3035) and substituted by [S.I. 2019/131](https://www.legislation.gov.uk/uksi/2019/131). It provides that that the Secretary of State may by licence exempt any person or class of persons from compliance with any provision of the 2011 Regulations for the purposes of a temporary experiment seeking improved alternatives to provisions of those Regulations.
 
-[^key-1f98b139ad0a248625f0980c10f28d4b]: Commencement: Reg. 4 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-1f98b139ad0a248625f0980c10f28d4b]: Commencement: Reg. 4 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-105b2b0b0bcacb3056f38b460a01c62d]: Commencement: Reg. 5 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-105b2b0b0bcacb3056f38b460a01c62d]: Commencement: Reg. 5 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-3017e01e031d1a28053eccae331336c9]: Commencement: Reg. 6 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-3017e01e031d1a28053eccae331336c9]: Commencement: Reg. 6 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-c0acf5e0144fbd5a8f54bebcab548c49]: Commencement: Reg. 7 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-c0acf5e0144fbd5a8f54bebcab548c49]: Commencement: Reg. 7 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-2a7f4db12fd788ae8763c57935ee5690]: Commencement: Reg. 8 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-2a7f4db12fd788ae8763c57935ee5690]: Commencement: Reg. 8 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-4fd1920dcf91a2e4b4cb249b1cb915cd]: Commencement: Reg. 9 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-4fd1920dcf91a2e4b4cb249b1cb915cd]: Commencement: Reg. 9 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-ec914368bda858dee61908cd48652181]: Commencement: Reg. 10 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-ec914368bda858dee61908cd48652181]: Commencement: Reg. 10 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-982a0dc102cf1900c8718e7380b9ff87]: Commencement: Reg. 11 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-982a0dc102cf1900c8718e7380b9ff87]: Commencement: Reg. 11 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-87924a0174067fce6a2b6a9794da7cea]: Commencement: Reg. 12 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-87924a0174067fce6a2b6a9794da7cea]: Commencement: Reg. 12 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-5170ac60875dca45566a9c9e46230132]: Commencement: Sch. para. 1 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-5170ac60875dca45566a9c9e46230132]: Commencement: Sch. para. 1 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-68dc05fb724d88b78e056cbb989b9196]: Commencement: Sch. para. 2 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-68dc05fb724d88b78e056cbb989b9196]: Commencement: Sch. para. 2 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-b0b47b6e7bf70cff35477046e87f597f]: Commencement: Sch. para. 3 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-b0b47b6e7bf70cff35477046e87f597f]: Commencement: Sch. para. 3 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-4f55ddab805d5ffca9394fa2c41fe6d2]: Commencement: Sch. para. 4 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-4f55ddab805d5ffca9394fa2c41fe6d2]: Commencement: Sch. para. 4 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-ec2da28c2b06bdca0557180a9fc1be78]: Commencement: Sch. para. 5 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-ec2da28c2b06bdca0557180a9fc1be78]: Commencement: Sch. para. 5 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-1b3fdae8b1dcbbee295421ec8ed7d737]: Commencement: Sch. para. 6 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-1b3fdae8b1dcbbee295421ec8ed7d737]: Commencement: Sch. para. 6 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-c282ce1d57288f35cb52b13195b089fe]: Commencement: Sch. para. 7 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-c282ce1d57288f35cb52b13195b089fe]: Commencement: Sch. para. 7 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
 
-[^key-8048b13fb8c19d7f3d9a413d8353cbb8]: Commencement: Sch. para. 8 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)
+[^c-8048b13fb8c19d7f3d9a413d8353cbb8]: Commencement: Sch. para. 8 in force at 26.9.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/899/regulation/1/2)

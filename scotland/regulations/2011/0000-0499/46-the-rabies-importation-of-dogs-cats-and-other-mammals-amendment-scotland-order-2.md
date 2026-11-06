@@ -32,7 +32,7 @@ summary: ''
 
 Animals
 
-The Rabies (Importation of Dogs, Cats and Other Mammals) Amendment (Scotland) Order 2011 (revoked)[^key-7afb1d9f09cc37d7cca568d164ed6b2c]
+The Rabies (Importation of Dogs, Cats and Other Mammals) Amendment (Scotland) Order 2011 (revoked)[^c-7afb1d9f09cc37d7cca568d164ed6b2c]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 2nd March 2011
 
-[^key-7afb1d9f09cc37d7cca568d164ed6b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7afb1d9f09cc37d7cca568d164ed6b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7afb1d9f09cc37d7cca568d164ed6b2c]
+## 1. Citation, commencement and extent[^c-7afb1d9f09cc37d7cca568d164ed6b2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^key-7afb1d9f09cc37d7cca568d164ed6b2c]
+## 2. Amendment to the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^c-7afb1d9f09cc37d7cca568d164ed6b2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7afb1d9f09cc37d7cca568d164ed6b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7afb1d9f09cc37d7cca568d164ed6b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7afb1d9f09cc37d7cca568d164ed6b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7afb1d9f09cc37d7cca568d164ed6b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7afb1d9f09cc37d7cca568d164ed6b2c]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2011/46) revoked (1.1.2012) by [The Non-Commercial Movement of Pet Animals Order 2011 (S.I. 2011/2883)](https://www.legislation.gov.uk/uksi/2011/2883), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2011/2883/article/1/3), [21(f)](https://www.legislation.gov.uk/uksi/2011/2883/article/21/f) (with [art. 19](https://www.legislation.gov.uk/uksi/2011/2883/article/19))
+[^c-7afb1d9f09cc37d7cca568d164ed6b2c]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2011/46) revoked (1.1.2012) by [The Non-Commercial Movement of Pet Animals Order 2011 (S.I. 2011/2883)](https://www.legislation.gov.uk/uksi/2011/2883), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2011/2883/article/1/3), [21(f)](https://www.legislation.gov.uk/uksi/2011/2883/article/21/f) (with [art. 19](https://www.legislation.gov.uk/uksi/2011/2883/article/19))

@@ -33,8 +33,8 @@ summary: ''
 
 (5) The final chargeable period is given by section 65.
 
-(6) Subsection (2) is subject to section 104F (special rate cars: discontinued activity continued by relevant company) and[^key-e7e5efc3b49ba868220157005a3e1ba0] section 110(1) (overseas leasing: allowances prohibited in certain cases).
+(6) Subsection (2) is subject to section 104F (special rate cars: discontinued activity continued by relevant company) and[^c-e7e5efc3b49ba868220157005a3e1ba0] section 110(1) (overseas leasing: allowances prohibited in certain cases).
 
 ## Annotations
 
-[^key-e7e5efc3b49ba868220157005a3e1ba0]: Textual amendment: Words in s. 55(6) inserted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/16) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))
+[^c-e7e5efc3b49ba868220157005a3e1ba0]: Textual amendment: Words in s. 55(6) inserted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/16) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — THE NEIGHBOURHOOD PLANNING BUSINESS REFERENDUMS RULES[^key-e7037102e2c300312c150f1e0e5ffa2c]
+## SCHEDULE 7 — THE NEIGHBOURHOOD PLANNING BUSINESS REFERENDUMS RULES[^c-e7037102e2c300312c150f1e0e5ffa2c]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ These Rules may be cited as the Neighbourhood Planning Business Referendums Rule
 - “business voting register” has the same meaning as in Schedule 6, and references to the business voting register include any copies of that register or of any part of it;
 - “counting observer” means a counting observer duly appointed under rule 47;
 - “corresponding residential referendum” means the other referendum required to be held on the same plan or order as the business referendum conducted under these Rules;
-- “left behind postal voting document” is a postal voting document that is left behind at a polling station or left for the returning officer without being handed in and for which no return of postal voting documents form has been completed;[^key-d7e9348839bbc036fe45eabbd009fd5c]
+- “left behind postal voting document” is a postal voting document that is left behind at a polling station or left for the returning officer without being handed in and for which no return of postal voting documents form has been completed;[^c-d7e9348839bbc036fe45eabbd009fd5c]
 - “named voter” means a person whose details appear on the business voting register as a named voter on behalf of a business vote holder in accordance with Schedule 6;
 - “number on the register” means the number allotted to an entry on the business voting register under paragraph 15(1)(e) of Schedule 6;
 - “polling observer” means a polling observer duly appointed under rule 47;
@@ -156,7 +156,7 @@ No named voter who has voted at the business referendum is, in any legal proceed
 - (a) the location of each polling station; and
 - (b) the description of named voters entitled to vote there.
 
-### PART 5 — Postal voting[^key-292a2ef2ac571c8e3da9b2e661c403ec]
+### PART 5 — Postal voting[^c-292a2ef2ac571c8e3da9b2e661c403ec]
 
 #### 15. Postal ballot papers
 
@@ -242,14 +242,14 @@ Where a counting officer is satisfied that two or more entries in the voters lis
 
 (2) Where possible, the original named voter should, when giving notice in writing in accordance with paragraph 21(1) of Schedule 6, also return the uncompleted postal ballot paper and postal voting statement to the counting officer, but the cancellation of these documents in accordance with sub-paragraph (1)(a) above shall not be dependent upon the return of these uncompleted documents.
 
-(3) Where a named voter or a business vote holder has applied for a new named voter for the business referendum in accordance with paragraph 23(1)[^key-737af11891b008cb2f4b8bc0b6bf622d] of Schedule 6 and the original named voter’s completed postal ballot paper and postal voting statement have not already been returned, the counting officer shall—
+(3) Where a named voter or a business vote holder has applied for a new named voter for the business referendum in accordance with paragraph 23(1)[^c-737af11891b008cb2f4b8bc0b6bf622d] of Schedule 6 and the original named voter’s completed postal ballot paper and postal voting statement have not already been returned, the counting officer shall—
 
 - (a) immediately cancel the postal ballot paper and postal voting statement issued to the original named voter; and
 - (b) as soon as practicable after cancelling those documents, make any uncompleted postal ballot papers or postal voting statements which are returned up in a packet (which may be the same packet as that referred to in paragraph 24(1)(b)) which must be kept sealed except to put new cancelled documents in it.
 
-(4) Where a business vote holder has ceased to be liable to pay non-domestic rates on a hereditament in the referendum area and the business registration officer has, in accordance with paragraph 25[^key-2440c35b4dd6a93d0b8a6689608014bd] of Schedule 6, removed that person’s name from the business voting register, any postal ballot paper and valid postal voting statement returned in respect of that business vote holder shall be immediately cancelled.
+(4) Where a business vote holder has ceased to be liable to pay non-domestic rates on a hereditament in the referendum area and the business registration officer has, in accordance with paragraph 25[^c-2440c35b4dd6a93d0b8a6689608014bd] of Schedule 6, removed that person’s name from the business voting register, any postal ballot paper and valid postal voting statement returned in respect of that business vote holder shall be immediately cancelled.
 
-(5)[^key-220fd1f24119347cabf456a8d32a1a2c] The counting officer must keep a list of the postal ballot papers cancelled under this rule, including—
+(5)[^c-220fd1f24119347cabf456a8d32a1a2c] The counting officer must keep a list of the postal ballot papers cancelled under this rule, including—
 
 - (a) the number of each cancelled postal ballot paper;
 - (b) the name of the postal voter to whom it was issued;
@@ -322,18 +322,18 @@ the counting officer must only issue another postal ballot paper if the postal v
 
 (2) A postal ballot paper or postal voting statement may be returned to the counting officer by post or by hand.
 
-(3) Subject to paragraphs (3A) and (4)[^key-295d6a3d5523c3bf15a9055e4a0e6934] the presiding officer of the polling station must deliver, or cause to be delivered, any postal ballot paper or postal voting statement returned to that station and any return of postal voting documents form[^key-0eb636491409170c6ab2e261e50da26f] to the counting officer in the same manner and at the same time as the presiding officer delivers, or causes to be delivered, the packets referred to in rule 62.
+(3) Subject to paragraphs (3A) and (4)[^c-295d6a3d5523c3bf15a9055e4a0e6934] the presiding officer of the polling station must deliver, or cause to be delivered, any postal ballot paper or postal voting statement returned to that station and any return of postal voting documents form[^c-0eb636491409170c6ab2e261e50da26f] to the counting officer in the same manner and at the same time as the presiding officer delivers, or causes to be delivered, the packets referred to in rule 62.
 
-(3A)[^key-4c82e561eae642e3d764b3cff09e8472] A postal ballot paper or postal voting statement may only be delivered to the counting officer in accordance with paragraph (3) if the requirements of rule 27A are met and the paper and statement are not rejected in accordance with rule 27B or 27D.
+(3A)[^c-4c82e561eae642e3d764b3cff09e8472] A postal ballot paper or postal voting statement may only be delivered to the counting officer in accordance with paragraph (3) if the requirements of rule 27A are met and the paper and statement are not rejected in accordance with rule 27B or 27D.
 
-(4) The counting officer may collect, or cause to be collected, any postal ballot paper or postal voting statement and any return of postal voting documents form[^key-7b7513c2ad8535db089c41e042e14c61] which by virtue of paragraph (3) the presiding officer of a polling station would otherwise be required to deliver or cause to be delivered to the counting officer.
+(4) The counting officer may collect, or cause to be collected, any postal ballot paper or postal voting statement and any return of postal voting documents form[^c-7b7513c2ad8535db089c41e042e14c61] which by virtue of paragraph (3) the presiding officer of a polling station would otherwise be required to deliver or cause to be delivered to the counting officer.
 
-(5)[^key-f4c35b816c8aad394c1b53e5b35230d7] Where the counting officer collects, or causes to be collected, any postal ballot paper or postal voting statement or return of postal voting documents form in accordance with paragraph (4) the presiding officer must first make up into separate packets sealed with the presiding officer’s own seal and the seals of such polling observers as are present and desire to affix their seals with a description of its contents written on each packet—
+(5)[^c-f4c35b816c8aad394c1b53e5b35230d7] Where the counting officer collects, or causes to be collected, any postal ballot paper or postal voting statement or return of postal voting documents form in accordance with paragraph (4) the presiding officer must first make up into separate packets sealed with the presiding officer’s own seal and the seals of such polling observers as are present and desire to affix their seals with a description of its contents written on each packet—
 
 - (a) the postal ballot papers and postal voting statements; and
 - (b) the return of postal voting documents forms for those postal ballot papers and postal voting statements.
 
-#### 27A. Requirements of return of postal voting documents form[^key-9ce4c4964d97a116c83ae9303df4e216]
+#### 27A. Requirements of return of postal voting documents form[^c-9ce4c4964d97a116c83ae9303df4e216]
 
 The requirements of this rule are—
 
@@ -406,7 +406,7 @@ The requirements of this rule are—
 (5) The counting officer must provide the following—
 
 - (a) the receptacle for rejected votes;
-- (b)[^key-90cca2a952b6ece426ee9677697ebabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-90cca2a952b6ece426ee9677697ebabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the receptacle for ballot paper envelopes;
 - (d) the receptacle for rejected ballot paper envelopes;
 - (e) the receptacle for rejected votes after verification procedure;
@@ -416,7 +416,7 @@ The requirements of this rule are—
 
 #### 30. Receipt of covering envelope
 
-(1) The counting officer must, immediately on receipt by post[^key-a3137fc92f465f3be45d5762e99573b5] of a covering envelope (or an envelope which is stated to include a postal vote) before the close of the poll, place it unopened in a postal voters’ ballot box.
+(1) The counting officer must, immediately on receipt by post[^c-a3137fc92f465f3be45d5762e99573b5] of a covering envelope (or an envelope which is stated to include a postal vote) before the close of the poll, place it unopened in a postal voters’ ballot box.
 
 (2) Where an envelope, other than a covering envelope issued by the counting officer—
 
@@ -425,7 +425,7 @@ The requirements of this rule are—
 
 the first-mentioned envelope, together with its contents, must be placed in a postal voters’ ballot box.
 
-#### 30A. Postal voting documents handed in to the counting officer[^key-be3fd1dbfa03c8e4764f2eefc5d8ecda]
+#### 30A. Postal voting documents handed in to the counting officer[^c-be3fd1dbfa03c8e4764f2eefc5d8ecda]
 
 (1) Subject to paragraphs (2) and (3), the relevant officer must deliver to the counting officer—
 
@@ -492,15 +492,15 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 
 (1) When a postal voters’ ballot box is opened, the counting officer must count and record the number of covering envelopes (including any envelope which is stated to include a postal vote and any envelope described in paragraph (2) of rule 30).
 
-(2)[^key-46f0d7024c64c9ff1ee52bd487945e8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-46f0d7024c64c9ff1ee52bd487945e8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The counting officer must open separately each covering envelope (including an envelope described in paragraph (2) of rule 30).
 
-(4)[^key-5e81628739a7b8abeda23d3d0c582031] The procedure in rule 35 applies where a covering envelope (including an envelope described in paragraph (2) of rule 30) contains a postal voting statement.
+(4)[^c-5e81628739a7b8abeda23d3d0c582031] The procedure in rule 35 applies where a covering envelope (including an envelope described in paragraph (2) of rule 30) contains a postal voting statement.
 
 (5) Where the covering envelope does not contain the postal voting statement separately, the counting officer must open the ballot paper envelope to ascertain whether the postal voting statement is inside.
 
-(6)[^key-564fd83f27c7f29f88207d1522535d2c] Where a covering envelope does not contain a postal voting statement (whether separately or not) the counting officer must mark the covering envelope “provisionally rejected”, attach its contents (if any) and place it in the receptacle for rejected votes.
+(6)[^c-564fd83f27c7f29f88207d1522535d2c] Where a covering envelope does not contain a postal voting statement (whether separately or not) the counting officer must mark the covering envelope “provisionally rejected”, attach its contents (if any) and place it in the receptacle for rejected votes.
 
 (7) In carrying out the procedure in this rule and rules 34 to 40, the counting officer—
 
@@ -515,7 +515,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 
 (11) Rule 64(3) does not apply for the purposes of determining whether, for the purposes of this rule, a postal vote is returned.
 
-#### 33. Confirming receipt of postal voting statements[^key-a79816a9259ee67ce3b60f477ab88914]
+#### 33. Confirming receipt of postal voting statements[^c-a79816a9259ee67ce3b60f477ab88914]
 
 (1) A named voter who is shown in the voters list as voting by post may make a request, at any time between the first issue of postal ballots and the close of the poll, that the counting officer confirm—
 
@@ -526,17 +526,17 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 
 (3) Where a request is received in accordance with paragraph (2) the counting officer shall satisfy himself that the request has been made by the named voter and where the counting officer is so satisfied provide confirmation of the matters under paragraph (1).
 
-#### 34. Procedure in relation to postal voting statements[^key-41ec9d8008c82dcccae4f8e36ff69995]
+#### 34. Procedure in relation to postal voting statements[^c-41ec9d8008c82dcccae4f8e36ff69995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 35. Procedure in relation to postal voting statements: personal identifier verification
 
-(1)[^key-5e4bc52899afbfb064254a0633a34d87] This rule applies in the circumstances described in rule 32(4).
+(1)[^c-5e4bc52899afbfb064254a0633a34d87] This rule applies in the circumstances described in rule 32(4).
 
 (2) The counting officer must be satisfied that the postal voting statement is duly completed and as part of that process must compare the date of birth and the signature on the postal voting statement against the date of birth and signature contained in the identifier record relating to the person to whom the postal ballot paper was addressed.
 
-(3) Where the counting officer is not so satisfied, the counting officer must mark the statement “rejected”, attach to it the ballot paper envelope, or if there is no such envelope but there is a ballot paper[^key-01729119b27e2bfaad787d0e4a3a4334], the ballot paper, and, subject to paragraph (4) place it in the receptacle for rejected votes after verification procedure.
+(3) Where the counting officer is not so satisfied, the counting officer must mark the statement “rejected”, attach to it the ballot paper envelope, or if there is no such envelope but there is a ballot paper[^c-01729119b27e2bfaad787d0e4a3a4334], the ballot paper, and, subject to paragraph (4) place it in the receptacle for rejected votes after verification procedure.
 
 (4) Before placing a postal voting statement in the receptacle for rejected votes (verification procedure), the counting officer must show it to the counting observers and must permit them to view the entries in the identifier record which relate to the person to whom the postal ballot paper was addressed, and if any of them object to the counting officer’s decision, must add the words “rejection objected to”.
 
@@ -561,7 +561,7 @@ the counting officer must open the envelope.
 - (c) in the receptacle for rejected votes after verification procedure, any valid postal voting statement marked “ provisionally rejected” where there is no ballot paper;
 - (d) in the receptacle for postal voting statements after verification procedure, any valid statement not disposed of under sub-paragraph (b) or (c).
 
-#### 36. Postal voting statements: additional personal identifier verification[^key-65c2d78a23794b78758aac64efb9f10c]
+#### 36. Postal voting statements: additional personal identifier verification[^c-65c2d78a23794b78758aac64efb9f10c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -589,7 +589,7 @@ the counting officer must proceed as follows.
 
 - (a) retrieve the cancelled ballot paper;
 - (b) show the ballot paper number on the cancelled ballot paper to the polling observers;
-- (c) retrieve the postal voting statement that relates to a cancelled ballot paper from the receptacle for postal voting statements after verification procedure[^key-c575f11da8e6865d68203f324c38b3dd];
+- (c) retrieve the postal voting statement that relates to a cancelled ballot paper from the receptacle for postal voting statements after verification procedure[^c-c575f11da8e6865d68203f324c38b3dd];
 - (d) attach any cancelled postal ballot paper to the postal voting statement to which it relates;
 - (e) place the cancelled documents in a separate packet and deal with that packet in the manner provided for by rule 25(6); and
 - (f) unless the postal ballot box has been opened for the purposes of the counting of votes, re-lock (if it has a lock) and re-seal the postal ballot box in the presence of the counting observers.
@@ -624,12 +624,12 @@ the counting officer must proceed as follows.
 (1) As soon as practicable after the completion of the procedure under paragraphs (1), (2) and (4) of rule 40, the counting officer must make up into separate packets the contents of—
 
 - (a) the receptacle of rejected votes,
-- (b)[^key-d30dccbc3b45ad5657514ef8a91588c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d30dccbc3b45ad5657514ef8a91588c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the receptacle of rejected ballot paper envelopes,
-- (d) the lists of spoilt, lost and cancelled[^key-8be8e15a1489926db6a9179d9540f9ff] postal ballot papers,
+- (d) the lists of spoilt, lost and cancelled[^c-8be8e15a1489926db6a9179d9540f9ff] postal ballot papers,
 - (e) the receptacle of rejected votes after verification procedure, and
 - (f) the receptacle of postal voting statements after verification procedure,
-- (g)[^key-1f658a2c9551cb1917c995a5885d008b] the packets of rejected postal voting documents and accompanying return of postal voting documents forms made up in accordance with rules 27C(2) and 30C(2),
+- (g)[^c-1f658a2c9551cb1917c995a5885d008b] the packets of rejected postal voting documents and accompanying return of postal voting documents forms made up in accordance with rules 27C(2) and 30C(2),
 
 and must seal up such packets.
 
@@ -639,7 +639,7 @@ and must seal up such packets.
 
 (1) The counting officer must forward to the business registration officer at the same time as the counting officer forwards the documents mentioned in rule 72—
 
-- (a) any packets referred to in rules 22(1), 24(1) and (3), 25(6), 26(8), 27(5)(b), 30A(3)(b),[^key-e2996ac53fbed3d186892bca1c10e406] 32(10), 41(1) and paragraph (2), endorsing on each packet a description of its contents, the date of the business referendum, the words “neighbourhood planning business referendum” and the name of the neighbourhood area to which the business referendum relates; and
+- (a) any packets referred to in rules 22(1), 24(1) and (3), 25(6), 26(8), 27(5)(b), 30A(3)(b),[^c-e2996ac53fbed3d186892bca1c10e406] 32(10), 41(1) and paragraph (2), endorsing on each packet a description of its contents, the date of the business referendum, the words “neighbourhood planning business referendum” and the name of the neighbourhood area to which the business referendum relates; and
 - (b) a completed statement of the number of postal ballot papers issued.
 
 (2) Where—
@@ -705,11 +705,11 @@ and different information may be provided in pursuance of sub-paragraph (d) to d
 (5) The counting officer must also provide each polling station with—
 
 - (a) at least one large version of the ballot paper which must be displayed inside the polling station for the assistance of named voters who are partially sighted; and
-- (b)[^key-98a6a1cfc03f9ee0b0dd54faac4c5385] such equipment as it is reasonable to provide for the purposes of enabling, or making it easier for, relevant persons to vote independently in the manner directed by rule 54 (voting procedure), including in relation to voting secretly; and for this purpose “**relevant persons**” means persons who find it difficult or impossible to vote in that manner because of—
+- (b)[^c-98a6a1cfc03f9ee0b0dd54faac4c5385] such equipment as it is reasonable to provide for the purposes of enabling, or making it easier for, relevant persons to vote independently in the manner directed by rule 54 (voting procedure), including in relation to voting secretly; and for this purpose “**relevant persons**” means persons who find it difficult or impossible to vote in that manner because of—
   - (i) blindness or partial sight, or
   - (ii) another disability.
 
-(5A)[^key-d17c649cf2f37af144e5ed0273a9690c] Paragraph (10) of rule 29 of Schedule 1 to the 1983 Act (Parliamentary elections rules: guidance to returning officers) applies for the purposes of paragraph (5)(b) of this rule as it applies for the purposes of that rule, but as if—
+(5A)[^c-d17c649cf2f37af144e5ed0273a9690c] Paragraph (10) of rule 29 of Schedule 1 to the 1983 Act (Parliamentary elections rules: guidance to returning officers) applies for the purposes of paragraph (5)(b) of this rule as it applies for the purposes of that rule, but as if—
 
 - (a) the reference in that paragraph to the returning officer were a reference to the counting officer, and
 - (b) the reference in that paragraph to paragraph (3A)(b) were a reference to paragraph (5)(b) of this rule.
@@ -720,7 +720,7 @@ and different information may be provided in pursuance of sub-paragraph (d) to d
 
 (8) In every compartment of every polling station there must be exhibited the notice “BUSINESS REFERENDUM ON \[specify: neighbourhood plan/neighbourhood development order\] FOR \[specify name of neighbourhood area\]. Mark a cross (X) in the box next to the answer of your choice. Vote ONCE only. Do not mark the ballot paper in any other way, or your vote may not be counted.”
 
-(9)[^key-ca28e3473035230a56943437c1f7f621] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-ca28e3473035230a56943437c1f7f621] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 47. Appointment of polling observers and counting observers
 
@@ -734,12 +734,12 @@ and different information may be provided in pursuance of sub-paragraph (d) to d
 
 #### 48. Notification of requirement of secrecy
 
-(1)[^key-059e965ebfab145e80cb2f8d011d3546] The counting officer must make such arrangements as the counting officer thinks fit to ensure that—
+(1)[^c-059e965ebfab145e80cb2f8d011d3546] The counting officer must make such arrangements as the counting officer thinks fit to ensure that—
 
 - (a) every person attending at a polling station (otherwise than for the purpose of voting or assisting a named voter with disabilities to vote or as a constable on duty there) has been given a copy in writing of the provisions of subsections (1), (3) and (6) of section 66 of the 1983 Act, as applied by Schedule 8; and
 - (b) every person attending at the counting of the votes (other than any constable on duty at the counting) has been given a copy in writing of the provisions of subsections (2) and (6) of that section, as applied by Schedule 8.
 
-(2)[^key-88750f78ff0629afd563adf2036f22e1] In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
+(2)[^c-88750f78ff0629afd563adf2036f22e1] In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
 
 ### PART 7 — The Poll
 
@@ -749,7 +749,7 @@ and different information may be provided in pursuance of sub-paragraph (d) to d
 
 - (a) named voters;
 - (b) persons under the age of 18 who accompany named voters to the polling station;
-- (ba)[^key-e98429071409b047330cae5a538a5fd7] persons aged 18 or over returning a postal ballot paper or postal voting statement by hand in accordance with rule 64(4)(b);
+- (ba)[^c-e98429071409b047330cae5a538a5fd7] persons aged 18 or over returning a postal ballot paper or postal voting statement by hand in accordance with rule 64(4)(b);
 - (c) the polling observers appointed to attend at the polling station;
 - (d) the clerks appointed to attend at the polling station;
 - (e) persons who are entitled to attend by virtue of any of sections 6A to 6D of the Political Parties, Elections and Referendums Act 2000;
@@ -762,7 +762,7 @@ and different information may be provided in pursuance of sub-paragraph (d) to d
 
 (4) Any certificate surrendered under this rule must forthwith be cancelled.
 
-(5)[^key-d61986f70e53e3ff46204a9ac5cc0cab] In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
+(5)[^c-d61986f70e53e3ff46204a9ac5cc0cab] In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
 
 #### 50. Keeping of order in polling station
 
@@ -824,7 +824,7 @@ A person must not be prevented from voting by reason only that—
 
 (3) The named voter must vote without undue delay, and must leave the polling station as soon as the named voter has put the named voter’s ballot paper into the ballot box.
 
-(4)[^key-770c2084e8bed398fe74fadc720b6dcb] A named voter who at the close of the poll is in the polling station, or in a queue outside the polling station, for the purpose of voting shall (despite the close of the poll) be entitled to apply for a ballot paper under paragraph (1); and these rules apply in relation to such a voter accordingly.
+(4)[^c-770c2084e8bed398fe74fadc720b6dcb] A named voter who at the close of the poll is in the polling station, or in a queue outside the polling station, for the purpose of voting shall (despite the close of the poll) be entitled to apply for a ballot paper under paragraph (1); and these rules apply in relation to such a voter accordingly.
 
 #### 55. Votes marked by presiding officer
 
@@ -855,7 +855,7 @@ to vote with the assistance of another person by whom the named voter is accompa
 
 the presiding officer must grant the application, and then anything which is by these Rules required to be done to or by that named voter in connection with the giving of their vote may be done to, or with the assistance of, the companion.
 
-(3) For the purposes of these Rules, a person is a named voter with disabilities if that person has made such a declaration as is mentioned in paragraph (1), and a person is qualified to assist a named voter with disabilities to vote if that person is aged 18 or over.[^key-fd9c94742f5724bc7fcbf6a31d2a4742]
+(3) For the purposes of these Rules, a person is a named voter with disabilities if that person has made such a declaration as is mentioned in paragraph (1), and a person is qualified to assist a named voter with disabilities to vote if that person is aged 18 or over.[^c-fd9c94742f5724bc7fcbf6a31d2a4742]
 
 (4) The name and number in the register of every person whose vote is given in accordance with this rule and the name and address of the companion must be entered on a list (in these Rules referred to as “the list of named voters with disabilities assisted by companions”).
 
@@ -969,11 +969,11 @@ may be present at the counting of the votes, unless permitted by the counting of
 
 - (a) it is returned in the manner set out in paragraph (4) and reaches the counting officer or any polling station used at the business referendum in question before the close of the poll;
 - (b) the postal voting statement, duly signed, is also returned in the manner set out in paragraph (4) and reaches the counting officer or such a polling station before that time;
-- (c) the postal voting statement also states the date of birth of the named voter; [^key-cc0c0a0e15f1ab54389517cec3445f40]...
-- (d)[^key-6e6acb546a1d77b1fe5c452b8f49a767] the counting officer verifies the date of birth and signature of the named voter.and[^key-ae696dc6e7b0bd41862f14c31ed72a68]
+- (c) the postal voting statement also states the date of birth of the named voter; [^c-cc0c0a0e15f1ab54389517cec3445f40]...
+- (d)[^c-6e6acb546a1d77b1fe5c452b8f49a767] the counting officer verifies the date of birth and signature of the named voter.and[^c-ae696dc6e7b0bd41862f14c31ed72a68]
 - (e) the postal ballot paper is not one that falls to be rejected in accordance with rule 27B, 27D, 30B or 30D.
 
-(3A)[^key-4e6285f2eb0017d3b6d1875ed12cf4b4] A postal ballot paper or postal voting statement that reaches the counting officer or a polling station on or after the close of the poll is treated for the purposes of paragraph (3) as reaching that officer or polling station before the close of the poll if it is delivered by a person who, at the close of the poll, is in the polling station, or in a queue outside the polling station, for the purpose of returning it.
+(3A)[^c-4e6285f2eb0017d3b6d1875ed12cf4b4] A postal ballot paper or postal voting statement that reaches the counting officer or a polling station on or after the close of the poll is treated for the purposes of paragraph (3) as reaching that officer or polling station before the close of the poll if it is delivered by a person who, at the close of the poll, is in the polling station, or in a queue outside the polling station, for the purpose of returning it.
 
 (4) The manner in which any postal ballot paper or postal voting statement may be returned—
 
@@ -1202,13 +1202,13 @@ Form 9 - Form of declaration to be made by the companion of a named voter with d
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/2031/images/uksi_20122031_en_epp_009)
 
-#### Form 4: Form of Business Referendum Postal Voting Statement[^key-e515075ef6567b61f14b9637a7595029]
+#### Form 4: Form of Business Referendum Postal Voting Statement[^c-e515075ef6567b61f14b9637a7595029]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/2031/images/uksi_20122031_en_epp_118.gif)[image: see source](https://www.legislation.gov.uk/uksi/2012/2031/images/uksi_20122031_en_epp_119.gif)
 
  
 
-#### Form 5: Official Poll Card (to be sent to a named voter voting in person)[^key-dd9148bc595d9e1c7afdf1926ddebe76]
+#### Form 5: Official Poll Card (to be sent to a named voter voting in person)[^c-dd9148bc595d9e1c7afdf1926ddebe76]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/2031/images/uksi_20122031_en_epp_047)
 
@@ -1218,19 +1218,19 @@ Form 9 - Form of declaration to be made by the companion of a named voter with d
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/2031/images/uksi_20122031_en_epp_012)
 
-#### Form 7: Form of directions for the guidance of the named voters in voting[^key-9e67bfd4ab96591aa8c7efc43625849b]
+#### Form 7: Form of directions for the guidance of the named voters in voting[^c-9e67bfd4ab96591aa8c7efc43625849b]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/2031/images/uksi_20122031_en_epp_048)
 
  
 
-#### Form 8: Form of Certificate of Employment[^key-3af1d77c3dcdc975655a9331b68bfaa0]
+#### Form 8: Form of Certificate of Employment[^c-3af1d77c3dcdc975655a9331b68bfaa0]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/2031/images/uksi_20122031_en_epp_049)
 
  
 
-#### Form 9: declaration to be made by the companion of a named voter with disabilities[^key-645f4ae307c8622ec175212b4da02bec]
+#### Form 9: declaration to be made by the companion of a named voter with disabilities[^c-645f4ae307c8622ec175212b4da02bec]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/2031/images/uksi_20122031_en_epp_069.gif)[image: see source](https://www.legislation.gov.uk/uksi/2012/2031/images/uksi_20122031_en_epp_070.gif)
 
@@ -1238,94 +1238,94 @@ Form 9 - Form of declaration to be made by the companion of a named voter with d
 
 ## Annotations
 
-[^key-e7037102e2c300312c150f1e0e5ffa2c]: Textual amendment: Sch. 7 inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/798/regulation/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/798/schedule/2)
+[^c-e7037102e2c300312c150f1e0e5ffa2c]: Textual amendment: Sch. 7 inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/798/regulation/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/798/schedule/2)
 
-[^key-d7e9348839bbc036fe45eabbd009fd5c]: Textual amendment: Words in [Sch. 7 rule 2(1)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/2/1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(a)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/a)
+[^c-d7e9348839bbc036fe45eabbd009fd5c]: Textual amendment: Words in [Sch. 7 rule 2(1)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/2/1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(a)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/a)
 
-[^key-292a2ef2ac571c8e3da9b2e661c403ec]: Modification: [Sch. 7 Pt. 5](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/part/5) excluded (22.9.2020) by [The Postponed Elections and Referendums (Coronavirus) and Policy Development Grants (Amendment) Regulations 2020 (S.I. 2020/926)](https://www.legislation.gov.uk/uksi/2020/926), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/926/regulation/4/2/b), [6(1)](https://www.legislation.gov.uk/uksi/2020/926/regulation/6/1)[(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/6/2)[(4)](https://www.legislation.gov.uk/uksi/2020/926/regulation/6/4)
+[^c-292a2ef2ac571c8e3da9b2e661c403ec]: Modification: [Sch. 7 Pt. 5](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/part/5) excluded (22.9.2020) by [The Postponed Elections and Referendums (Coronavirus) and Policy Development Grants (Amendment) Regulations 2020 (S.I. 2020/926)](https://www.legislation.gov.uk/uksi/2020/926), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/926/regulation/4/2/b), [6(1)](https://www.legislation.gov.uk/uksi/2020/926/regulation/6/1)[(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/6/2)[(4)](https://www.legislation.gov.uk/uksi/2020/926/regulation/6/4)
 
-[^key-737af11891b008cb2f4b8bc0b6bf622d]: Textual amendment: Words in [Sch. 7 rule 24(3)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/24/3) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [20(1)(a)](https://www.legislation.gov.uk/uksi/2014/333/regulation/20/1/a) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-737af11891b008cb2f4b8bc0b6bf622d]: Textual amendment: Words in [Sch. 7 rule 24(3)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/24/3) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [20(1)(a)](https://www.legislation.gov.uk/uksi/2014/333/regulation/20/1/a) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-2440c35b4dd6a93d0b8a6689608014bd]: Textual amendment: Words in [Sch. 7 rule 24(4)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/24/4) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [20(1)(b)](https://www.legislation.gov.uk/uksi/2014/333/regulation/20/1/b) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-2440c35b4dd6a93d0b8a6689608014bd]: Textual amendment: Words in [Sch. 7 rule 24(4)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/24/4) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [20(1)(b)](https://www.legislation.gov.uk/uksi/2014/333/regulation/20/1/b) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-220fd1f24119347cabf456a8d32a1a2c]: Textual amendment: [Sch. 7 rule 24(5)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/24/5) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [20(2)](https://www.legislation.gov.uk/uksi/2014/333/regulation/20/2) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-220fd1f24119347cabf456a8d32a1a2c]: Textual amendment: [Sch. 7 rule 24(5)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/24/5) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [20(2)](https://www.legislation.gov.uk/uksi/2014/333/regulation/20/2) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-295d6a3d5523c3bf15a9055e4a0e6934]: Textual amendment: Words in [Sch. 7 rule 27(3)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/b/i/aa)
+[^c-295d6a3d5523c3bf15a9055e4a0e6934]: Textual amendment: Words in [Sch. 7 rule 27(3)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/b/i/aa)
 
-[^key-0eb636491409170c6ab2e261e50da26f]: Textual amendment: Words in [Sch. 7 rule 27(3)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27/3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/b/i/bb)
+[^c-0eb636491409170c6ab2e261e50da26f]: Textual amendment: Words in [Sch. 7 rule 27(3)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27/3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/b/i/bb)
 
-[^key-4c82e561eae642e3d764b3cff09e8472]: Textual amendment: [Sch. 7 rule 27(3A)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27/3A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/b/ii)
+[^c-4c82e561eae642e3d764b3cff09e8472]: Textual amendment: [Sch. 7 rule 27(3A)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27/3A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/b/ii)
 
-[^key-7b7513c2ad8535db089c41e042e14c61]: Textual amendment: Words in [Sch. 7 rule 27(4)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27/4) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/b/iii)
+[^c-7b7513c2ad8535db089c41e042e14c61]: Textual amendment: Words in [Sch. 7 rule 27(4)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27/4) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/b/iii)
 
-[^key-f4c35b816c8aad394c1b53e5b35230d7]: Textual amendment: [Sch. 7 rule 27(5)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27/5) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/b/iv)
+[^c-f4c35b816c8aad394c1b53e5b35230d7]: Textual amendment: [Sch. 7 rule 27(5)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27/5) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/b/iv)
 
-[^key-9ce4c4964d97a116c83ae9303df4e216]: Textual amendment: [Sch. 7 rules 27A-27D](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(c)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/c)
+[^c-9ce4c4964d97a116c83ae9303df4e216]: Textual amendment: [Sch. 7 rules 27A-27D](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/27A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(c)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/c)
 
-[^key-90cca2a952b6ece426ee9677697ebabb]: Textual amendment: [Sch. 7 rule 29(5)(b)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/29/5/b) omitted (6.4.2014) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [21](https://www.legislation.gov.uk/uksi/2014/333/regulation/21) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-90cca2a952b6ece426ee9677697ebabb]: Textual amendment: [Sch. 7 rule 29(5)(b)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/29/5/b) omitted (6.4.2014) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [21](https://www.legislation.gov.uk/uksi/2014/333/regulation/21) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-a3137fc92f465f3be45d5762e99573b5]: Textual amendment: Words in [Sch. 7 rule 30](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/30) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(d)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/d)
+[^c-a3137fc92f465f3be45d5762e99573b5]: Textual amendment: Words in [Sch. 7 rule 30](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/30) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(d)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/d)
 
-[^key-be3fd1dbfa03c8e4764f2eefc5d8ecda]: Textual amendment: [Sch. 7 rules 30A-30E](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/30A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(e)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/e)
+[^c-be3fd1dbfa03c8e4764f2eefc5d8ecda]: Textual amendment: [Sch. 7 rules 30A-30E](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/30A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(e)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/e)
 
-[^key-46f0d7024c64c9ff1ee52bd487945e8d]: Textual amendment: [Sch. 7 rule 32(2)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/32/2) omitted (6.4.2014) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [22(1)](https://www.legislation.gov.uk/uksi/2014/333/regulation/22/1) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-46f0d7024c64c9ff1ee52bd487945e8d]: Textual amendment: [Sch. 7 rule 32(2)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/32/2) omitted (6.4.2014) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [22(1)](https://www.legislation.gov.uk/uksi/2014/333/regulation/22/1) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-5e81628739a7b8abeda23d3d0c582031]: Textual amendment: [Sch. 7 rule 32(4)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/32/4) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [22(2)](https://www.legislation.gov.uk/uksi/2014/333/regulation/22/2) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-5e81628739a7b8abeda23d3d0c582031]: Textual amendment: [Sch. 7 rule 32(4)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/32/4) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [22(2)](https://www.legislation.gov.uk/uksi/2014/333/regulation/22/2) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-564fd83f27c7f29f88207d1522535d2c]: Textual amendment: [Sch. 7 rule 32(6)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/32/6) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [22(3)](https://www.legislation.gov.uk/uksi/2014/333/regulation/22/3) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-564fd83f27c7f29f88207d1522535d2c]: Textual amendment: [Sch. 7 rule 32(6)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/32/6) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [22(3)](https://www.legislation.gov.uk/uksi/2014/333/regulation/22/3) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-a79816a9259ee67ce3b60f477ab88914]: Modification: [Sch. 7 rule 33](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/33) excluded (22.9.2020) by [The Postponed Elections and Referendums (Coronavirus) and Policy Development Grants (Amendment) Regulations 2020 (S.I. 2020/926)](https://www.legislation.gov.uk/uksi/2020/926), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2020/926/regulation/3/5), [6(1)-(3)](https://www.legislation.gov.uk/uksi/2020/926/regulation/6/1)
+[^c-a79816a9259ee67ce3b60f477ab88914]: Modification: [Sch. 7 rule 33](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/33) excluded (22.9.2020) by [The Postponed Elections and Referendums (Coronavirus) and Policy Development Grants (Amendment) Regulations 2020 (S.I. 2020/926)](https://www.legislation.gov.uk/uksi/2020/926), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2020/926/regulation/3/5), [6(1)-(3)](https://www.legislation.gov.uk/uksi/2020/926/regulation/6/1)
 
-[^key-41ec9d8008c82dcccae4f8e36ff69995]: Textual amendment: Sch. 7 rule 34 omitted (6.4.2014) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [23](https://www.legislation.gov.uk/uksi/2014/333/regulation/23) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-41ec9d8008c82dcccae4f8e36ff69995]: Textual amendment: Sch. 7 rule 34 omitted (6.4.2014) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [23](https://www.legislation.gov.uk/uksi/2014/333/regulation/23) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-5e4bc52899afbfb064254a0633a34d87]: Textual amendment: [Sch. 7 rule 35(1)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/35/1) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [24(1)](https://www.legislation.gov.uk/uksi/2014/333/regulation/24/1) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-5e4bc52899afbfb064254a0633a34d87]: Textual amendment: [Sch. 7 rule 35(1)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/35/1) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [24(1)](https://www.legislation.gov.uk/uksi/2014/333/regulation/24/1) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-01729119b27e2bfaad787d0e4a3a4334]: Textual amendment: Words in [Sch. 7 rule 35(3)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/35/3) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [24(2)](https://www.legislation.gov.uk/uksi/2014/333/regulation/24/2) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-01729119b27e2bfaad787d0e4a3a4334]: Textual amendment: Words in [Sch. 7 rule 35(3)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/35/3) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [24(2)](https://www.legislation.gov.uk/uksi/2014/333/regulation/24/2) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-65c2d78a23794b78758aac64efb9f10c]: Textual amendment: Sch. 7 rule 36 omitted (6.4.2014) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [25](https://www.legislation.gov.uk/uksi/2014/333/regulation/25) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-65c2d78a23794b78758aac64efb9f10c]: Textual amendment: Sch. 7 rule 36 omitted (6.4.2014) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [25](https://www.legislation.gov.uk/uksi/2014/333/regulation/25) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-c575f11da8e6865d68203f324c38b3dd]: Textual amendment: Words in [Sch. 7 rule 38(2)(c)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/38/2/c) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [26](https://www.legislation.gov.uk/uksi/2014/333/regulation/26) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-c575f11da8e6865d68203f324c38b3dd]: Textual amendment: Words in [Sch. 7 rule 38(2)(c)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/38/2/c) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [26](https://www.legislation.gov.uk/uksi/2014/333/regulation/26) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-d30dccbc3b45ad5657514ef8a91588c6]: Textual amendment: [Sch. 7 rule 41(1)(b)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/41/1/b) omitted (6.4.2014) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [27(a)](https://www.legislation.gov.uk/uksi/2014/333/regulation/27/a) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-d30dccbc3b45ad5657514ef8a91588c6]: Textual amendment: [Sch. 7 rule 41(1)(b)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/41/1/b) omitted (6.4.2014) by virtue of [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [27(a)](https://www.legislation.gov.uk/uksi/2014/333/regulation/27/a) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-8be8e15a1489926db6a9179d9540f9ff]: Textual amendment: Words in [Sch. 7 rule 41(1)(d)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/41/1/d) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [27(b)](https://www.legislation.gov.uk/uksi/2014/333/regulation/27/b) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-8be8e15a1489926db6a9179d9540f9ff]: Textual amendment: Words in [Sch. 7 rule 41(1)(d)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/41/1/d) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [27(b)](https://www.legislation.gov.uk/uksi/2014/333/regulation/27/b) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-1f658a2c9551cb1917c995a5885d008b]: Textual amendment: [Sch. 7 rule 41(1)(g)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/41/1/g) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(f)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/f)
+[^c-1f658a2c9551cb1917c995a5885d008b]: Textual amendment: [Sch. 7 rule 41(1)(g)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/41/1/g) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(f)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/f)
 
-[^key-e2996ac53fbed3d186892bca1c10e406]: Textual amendment: Words in [Sch. 7 rule 42(1)(a)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/42/1/a) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(g)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/g)
+[^c-e2996ac53fbed3d186892bca1c10e406]: Textual amendment: Words in [Sch. 7 rule 42(1)(a)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/42/1/a) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(g)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/g)
 
-[^key-98a6a1cfc03f9ee0b0dd54faac4c5385]: Textual amendment: [Sch. 7 rule 46(5)(b)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/46/5/b) substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [11(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/11/4/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
+[^c-98a6a1cfc03f9ee0b0dd54faac4c5385]: Textual amendment: [Sch. 7 rule 46(5)(b)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/46/5/b) substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [11(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/11/4/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
 
-[^key-d17c649cf2f37af144e5ed0273a9690c]: Textual amendment: [Sch. 7 rule 46(5A)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/46/5A) inserted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [11(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/11/4/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
+[^c-d17c649cf2f37af144e5ed0273a9690c]: Textual amendment: [Sch. 7 rule 46(5A)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/46/5A) inserted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [11(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/11/4/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
 
-[^key-ca28e3473035230a56943437c1f7f621]: Textual amendment: [Sch. 7 rule 46(9)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/46/9) omitted (29.12.2022) by virtue of [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [11(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/11/4/a/iii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
+[^c-ca28e3473035230a56943437c1f7f621]: Textual amendment: [Sch. 7 rule 46(9)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/46/9) omitted (29.12.2022) by virtue of [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [11(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/11/4/a/iii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
 
-[^key-059e965ebfab145e80cb2f8d011d3546]: Textual amendment: Sch. 7 rule 48 renumbered as Sch. 7 rule 48(1) (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [28](https://www.legislation.gov.uk/uksi/2014/333/regulation/28) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-059e965ebfab145e80cb2f8d011d3546]: Textual amendment: Sch. 7 rule 48 renumbered as Sch. 7 rule 48(1) (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [28](https://www.legislation.gov.uk/uksi/2014/333/regulation/28) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-88750f78ff0629afd563adf2036f22e1]: Textual amendment: [Sch. 7 rule 48(2)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/48/2) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [28](https://www.legislation.gov.uk/uksi/2014/333/regulation/28) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-88750f78ff0629afd563adf2036f22e1]: Textual amendment: [Sch. 7 rule 48(2)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/48/2) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [28](https://www.legislation.gov.uk/uksi/2014/333/regulation/28) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-e98429071409b047330cae5a538a5fd7]: Textual amendment: [Sch. 7 rule 49(1)(ba)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/49/1/ba) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(h)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/h)
+[^c-e98429071409b047330cae5a538a5fd7]: Textual amendment: [Sch. 7 rule 49(1)(ba)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/49/1/ba) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(h)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/h)
 
-[^key-d61986f70e53e3ff46204a9ac5cc0cab]: Textual amendment: [Sch. 7 rule 49(5)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/49/5) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [29](https://www.legislation.gov.uk/uksi/2014/333/regulation/29) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-d61986f70e53e3ff46204a9ac5cc0cab]: Textual amendment: [Sch. 7 rule 49(5)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/49/5) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [29](https://www.legislation.gov.uk/uksi/2014/333/regulation/29) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-770c2084e8bed398fe74fadc720b6dcb]: Textual amendment: [Sch. 7 rule 54(4)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/54/4) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [30](https://www.legislation.gov.uk/uksi/2014/333/regulation/30) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-770c2084e8bed398fe74fadc720b6dcb]: Textual amendment: [Sch. 7 rule 54(4)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/54/4) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [30](https://www.legislation.gov.uk/uksi/2014/333/regulation/30) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-fd9c94742f5724bc7fcbf6a31d2a4742]: Textual amendment: Words in [Sch. 7 rule 56(3)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/56/3) substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [11(4)(b)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/11/4/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
+[^c-fd9c94742f5724bc7fcbf6a31d2a4742]: Textual amendment: Words in [Sch. 7 rule 56(3)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/56/3) substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [11(4)(b)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/11/4/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
 
-[^key-cc0c0a0e15f1ab54389517cec3445f40]: Textual amendment: Word in [Sch. 7 rule 64(3)(c)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/64/3/c) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(i)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/i)
+[^c-cc0c0a0e15f1ab54389517cec3445f40]: Textual amendment: Word in [Sch. 7 rule 64(3)(c)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/64/3/c) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(i)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/i)
 
-[^key-6e6acb546a1d77b1fe5c452b8f49a767]: Textual amendment: [Sch. 7 rule 64(3)(d)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/64/3/d) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [31(1)](https://www.legislation.gov.uk/uksi/2014/333/regulation/31/1) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-6e6acb546a1d77b1fe5c452b8f49a767]: Textual amendment: [Sch. 7 rule 64(3)(d)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/64/3/d) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [31(1)](https://www.legislation.gov.uk/uksi/2014/333/regulation/31/1) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-ae696dc6e7b0bd41862f14c31ed72a68]: Textual amendment: [Sch. 7 rule 64(3)(e)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/64/3/e) and word inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/ii)
+[^c-ae696dc6e7b0bd41862f14c31ed72a68]: Textual amendment: [Sch. 7 rule 64(3)(e)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/64/3/e) and word inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 9(5)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/9/5/ii)
 
-[^key-4e6285f2eb0017d3b6d1875ed12cf4b4]: Textual amendment: [Sch. 7 rule 64(3A)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/64/3A) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [31(2)](https://www.legislation.gov.uk/uksi/2014/333/regulation/31/2) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-4e6285f2eb0017d3b6d1875ed12cf4b4]: Textual amendment: [Sch. 7 rule 64(3A)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/rule/64/3A) inserted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [31(2)](https://www.legislation.gov.uk/uksi/2014/333/regulation/31/2) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-e515075ef6567b61f14b9637a7595029]: Textual amendment: [Sch. 7 Pt. 10](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/part/10) Form 4 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/uksi/2023/1225/schedule/7/part/3)
+[^c-e515075ef6567b61f14b9637a7595029]: Textual amendment: [Sch. 7 Pt. 10](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/part/10) Form 4 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/uksi/2023/1225/schedule/7/part/3)
 
-[^key-dd9148bc595d9e1c7afdf1926ddebe76]: Textual amendment: [Sch. 7 Pt. 10 Form 5](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/part/10/form/5) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [32](https://www.legislation.gov.uk/uksi/2014/333/regulation/32), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/333/schedule/5) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-dd9148bc595d9e1c7afdf1926ddebe76]: Textual amendment: [Sch. 7 Pt. 10 Form 5](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/part/10/form/5) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [32](https://www.legislation.gov.uk/uksi/2014/333/regulation/32), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/333/schedule/5) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-9e67bfd4ab96591aa8c7efc43625849b]: Textual amendment: [Sch. 7 Pt. 10 Form 7](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/part/10/form/7) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [32](https://www.legislation.gov.uk/uksi/2014/333/regulation/32), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/333/schedule/5) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-9e67bfd4ab96591aa8c7efc43625849b]: Textual amendment: [Sch. 7 Pt. 10 Form 7](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/part/10/form/7) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [32](https://www.legislation.gov.uk/uksi/2014/333/regulation/32), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/333/schedule/5) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-3af1d77c3dcdc975655a9331b68bfaa0]: Textual amendment: [Sch. 7 Pt. 10 Form 8](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/part/10/form/8) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [32](https://www.legislation.gov.uk/uksi/2014/333/regulation/32), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/333/schedule/5) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
+[^c-3af1d77c3dcdc975655a9331b68bfaa0]: Textual amendment: [Sch. 7 Pt. 10 Form 8](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7/part/10/form/8) substituted (6.4.2014) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014 (S.I. 2014/333)](https://www.legislation.gov.uk/uksi/2014/333), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/6), [32](https://www.legislation.gov.uk/uksi/2014/333/regulation/32), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/333/schedule/5) (with [reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/333/regulation/1/7))
 
-[^key-645f4ae307c8622ec175212b4da02bec]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7) Form 9 substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [11(4)(c)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/11/4/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
+[^c-645f4ae307c8622ec175212b4da02bec]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2012/2031/schedule/7) Form 9 substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [11(4)(c)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/11/4/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))

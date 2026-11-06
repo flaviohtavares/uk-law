@@ -36,7 +36,7 @@ Provided that no such regulations, in so far as they are made under paragraph (*
 - (b) as to a right to the payment of any fees by virtue of regulations made under this section, or under section thirty-six of this Act, or as to the amount of the fees payable in any case by virtue of any such regulations, or
 - (c) as to the amount of the quarterly payments payable in accordance with subsection (2) of section thirty-five of this Act in respect of any such compensation as is mentioned in that subsection,
 
-shall be determined by , in the application of this Act to England and Wales, the Upper Tribunal or, in the application of this Act to Scotland, the Lands Tribunal for Scotland[^key-f2f2984beed3c0789a6870e0208ed5b4].
+shall be determined by , in the application of this Act to England and Wales, the Upper Tribunal or, in the application of this Act to Scotland, the Lands Tribunal for Scotland[^c-f2f2984beed3c0789a6870e0208ed5b4].
 
 (4) References in this section to compensation under this Act do not include any compensation payable in accordance with any enactment applied by section thirteen or section sixteen of this Act, or any sum payable in accordance with any enactment applied by section forty-five of this Act.
 
@@ -48,4 +48,4 @@ shall be determined by , in the application of this Act to England and Wales, th
 
 [^c6621751]: Textual amendment: Words in s. 40(1)(2)(c)(3) substituted (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 52](https://www.legislation.gov.uk/ukpga/1994/21/section/52), [Sch. 8 para. 30(1)(2)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/8/paragraph/30/1/2) (with s. 40(7); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
-[^key-f2f2984beed3c0789a6870e0208ed5b4]: Textual amendment: Words in [s. 40(3)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/section/40/3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/32) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-f2f2984beed3c0789a6870e0208ed5b4]: Textual amendment: Words in [s. 40(3)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/section/40/3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/32) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

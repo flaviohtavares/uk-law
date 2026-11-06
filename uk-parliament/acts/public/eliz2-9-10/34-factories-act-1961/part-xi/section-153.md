@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Provisions as to county and district councils.[^key-573b86a1f895380cd2929339cb0749a7]
+## 153. Provisions as to county and district councils.[^c-573b86a1f895380cd2929339cb0749a7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-573b86a1f895380cd2929339cb0749a7]: Textual amendment: [S. 153](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/153) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-573b86a1f895380cd2929339cb0749a7]: Textual amendment: [S. 153](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/153) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1

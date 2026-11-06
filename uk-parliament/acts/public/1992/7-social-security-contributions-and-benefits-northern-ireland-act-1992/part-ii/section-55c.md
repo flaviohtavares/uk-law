@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55C. Pension increase or lump sum where entitlement to shared additional pension is deferred[^key-7660701ebf3d93652b4d1644b5def844]
+## 55C. Pension increase or lump sum where entitlement to shared additional pension is deferred[^c-7660701ebf3d93652b4d1644b5def844]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ and, in relation to a shared additional pension, “period of deferment” shall
 
 ## Annotations
 
-[^key-7660701ebf3d93652b4d1644b5def844]: Textual amendment: [S. 55C](https://www.legislation.gov.uk/ukpga/1992/7/section/55C) substituted (17.2.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255)](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2005/255/article/1/4), [273(2)](https://www.legislation.gov.uk/nisi/2005/255/article/273/2)
+[^c-7660701ebf3d93652b4d1644b5def844]: Textual amendment: [S. 55C](https://www.legislation.gov.uk/ukpga/1992/7/section/55C) substituted (17.2.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255)](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2005/255/article/1/4), [273(2)](https://www.legislation.gov.uk/nisi/2005/255/article/273/2)

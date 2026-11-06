@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 100. Vexatious litigants[^key-ae24a1cf77f7fe05f002358663d515c4]
+## 100. Vexatious litigants[^c-ae24a1cf77f7fe05f002358663d515c4]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ The Tribunal may provide any information or documents requested by the Attorney 
 
 ## Annotations
 
-[^key-ae24a1cf77f7fe05f002358663d515c4]: Commencement: [Rule 100](https://www.legislation.gov.uk/uksi/2024/1155/rule/100) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-ae24a1cf77f7fe05f002358663d515c4]: Commencement: [Rule 100](https://www.legislation.gov.uk/uksi/2024/1155/rule/100) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00040]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54); section 42 was amended by the Prosecution of Offences Act [1985 (c. 23)](https://www.legislation.gov.uk/ukpga/1985/23), section 24 and the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) Schedule 10, Part 2, paragraph 60.
 

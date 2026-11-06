@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Disqualification after investigation of company[^key-fc5651df5df4b0fa877a7b944928f23e]
+## 39. Disqualification after investigation of company[^c-fc5651df5df4b0fa877a7b944928f23e]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ In section 8 of the Company Directors Disqualification Act 1986 (disqualificatio
 
 ## Annotations
 
-[^key-fc5651df5df4b0fa877a7b944928f23e]: Commencement: Art. 39 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-fc5651df5df4b0fa877a7b944928f23e]: Commencement: Art. 39 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00043]: Footnote: Amended by the Financial Services Act 1986 (s. 60), section 198; the [Criminal Justice (Scotland) Act 1987 (c.)](https://www.legislation.gov.uk/ukpga/1987/41), section 55; the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 79; the [Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c.)](https://www.legislation.gov.uk/ukpga/1995/40), Schedule 4, paragraph 62.

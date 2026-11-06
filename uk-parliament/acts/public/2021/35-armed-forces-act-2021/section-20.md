@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Power of British overseas territories to apply AFA 2006 etc[^key-edda45e6a129be77d886c09dcbda3ef1]
+## 20. Power of British overseas territories to apply AFA 2006 etc[^c-edda45e6a129be77d886c09dcbda3ef1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edda45e6a129be77d886c09dcbda3ef1]: Commencement: S. 20 in force at Royal Assent, see [s. 24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)
+[^c-edda45e6a129be77d886c09dcbda3ef1]: Commencement: S. 20 in force at Royal Assent, see [s. 24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)

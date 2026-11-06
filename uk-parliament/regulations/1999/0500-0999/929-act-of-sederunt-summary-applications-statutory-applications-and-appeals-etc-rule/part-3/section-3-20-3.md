@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.20.3. Search warrants[^key-10c7ba94a834a7739c8f9cee6896c409]
+## 3.20.3. Search warrants[^c-10c7ba94a834a7739c8f9cee6896c409]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10c7ba94a834a7739c8f9cee6896c409]: Textual amendment: Ch. 3 Pt. 20 inserted (24.1.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (International Criminal Court) 2003 (S.S.I. 2003/27)](https://www.legislation.gov.uk/ssi/2003/27), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2003/27/paragraph/1/b), [2](https://www.legislation.gov.uk/ssi/2003/27/paragraph/2)
+[^c-10c7ba94a834a7739c8f9cee6896c409]: Textual amendment: Ch. 3 Pt. 20 inserted (24.1.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (International Criminal Court) 2003 (S.S.I. 2003/27)](https://www.legislation.gov.uk/ssi/2003/27), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2003/27/paragraph/1/b), [2](https://www.legislation.gov.uk/ssi/2003/27/paragraph/2)

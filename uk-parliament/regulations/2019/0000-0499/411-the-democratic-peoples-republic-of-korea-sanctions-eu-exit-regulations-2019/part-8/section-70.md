@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Dealing with UN-designated ships subject to asset-freeze[^key-370e518e51a7dad317435d5177cb9364][^key-36f34c54e8bcb940bce35a2bb153ed0c]
+## 70. Dealing with UN-designated ships subject to asset-freeze[^c-370e518e51a7dad317435d5177cb9364][^c-36f34c54e8bcb940bce35a2bb153ed0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-370e518e51a7dad317435d5177cb9364]: Commencement: Reg. 70 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-370e518e51a7dad317435d5177cb9364]: Commencement: Reg. 70 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-36f34c54e8bcb940bce35a2bb153ed0c]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2019/411/regulation/70) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36f34c54e8bcb940bce35a2bb153ed0c]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2019/411/regulation/70) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

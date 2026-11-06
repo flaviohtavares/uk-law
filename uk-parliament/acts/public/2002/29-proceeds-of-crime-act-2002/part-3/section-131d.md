@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131D. Proceeds of realisation[^key-4ab4b1a9edd48528c1df8446858c96f4]
+## 131D. Proceeds of realisation[^c-4ab4b1a9edd48528c1df8446858c96f4]
 
 *Extent: S*
 
 (1) This section applies to sums which—
 
 - (a) are in the hands of an appropriate officer, and
-- (b) are the proceeds of the realisation of property under section 131ZB or[^key-e6a16897bbc9175dd662a9c88ef00f8a] 131A.
+- (b) are the proceeds of the realisation of property under section 131ZB or[^c-e6a16897bbc9175dd662a9c88ef00f8a] 131A.
 
 (2) The sums must be applied as follows—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ab4b1a9edd48528c1df8446858c96f4]: Textual amendment: Ss. 131A-131D and cross-heading inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/59/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-4ab4b1a9edd48528c1df8446858c96f4]: Textual amendment: Ss. 131A-131D and cross-heading inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/59/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
 
-[^key-e6a16897bbc9175dd662a9c88ef00f8a]: Textual amendment: Words in s. 131D(1)(b) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/32); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-e6a16897bbc9175dd662a9c88ef00f8a]: Textual amendment: Words in s. 131D(1)(b) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/32); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Registration of civil partnerships abroad[^key-3b3dc46703be712368e0f4459f9a48fa]
+## 38. Registration of civil partnerships abroad[^c-3b3dc46703be712368e0f4459f9a48fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,7 +63,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3b3dc46703be712368e0f4459f9a48fa]: Commencement: Reg. 38 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-3b3dc46703be712368e0f4459f9a48fa]: Commencement: Reg. 38 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00061]: Footnote: [S.I. 2005/2761](https://www.legislation.gov.uk/uksi/2005/2761).
 

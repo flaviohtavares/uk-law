@@ -46,21 +46,21 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 59, 60, 61, 108(2A), (3C) and (5) and 333(2A) and (7) of the Town and Country Planning Act 1990[^f00001]:
 
-## 1. Citation, commencement, extent and application[^key-f06e64d1d057219e7f94c30f8c0fe903]
+## 1. Citation, commencement, extent and application[^c-f06e64d1d057219e7f94c30f8c0fe903]
 
 (1) This Order may be cited as the Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 and comes into force on 21st April 2021.
 
 (2) This Order extends to England and Wales, and any amendments made by this Order have the same application as the instruments amended.
 
-## 2. Amendments to the Town and Country Planning (General Permitted Development) (England) Order 2015[^key-7fa50401510069db795c7ef6420bdde6]
+## 2. Amendments to the Town and Country Planning (General Permitted Development) (England) Order 2015[^c-7fa50401510069db795c7ef6420bdde6]
 
 The Town and Country Planning (General Permitted Development) (England) Order 2015[^f00002] is amended in accordance with articles 3 to 12.
 
-## 3. Amendments to article 2[^key-0179e823dc86aa6f0e7dafff3d1359f4]
+## 3. Amendments to article 2[^c-0179e823dc86aa6f0e7dafff3d1359f4]
 
 In paragraph (1) of article 2 (interpretation), in the definition of “dwellinghouse”, after “(changes of use),” insert “Class B (demolition of buildings) of Part 11 (heritage and demolition),”.
 
-## 4. Amendments to Part 1 of Schedule 2[^key-163a01ff2d5529dec4dd8fa2f3934ca5]
+## 4. Amendments to Part 1 of Schedule 2[^c-163a01ff2d5529dec4dd8fa2f3934ca5]
 
 In each of the following provisions of Part 1 (development within the curtilage of a dwellinghouse) of Schedule 2 (permitted development rights), after “Class M,” insert “MA,”—
 
@@ -74,7 +74,7 @@ In each of the following provisions of Part 1 (development within the curtilage 
 - (h) paragraph G.1(a) (development not permitted) of Class G (chimneys, flues etc on a dwellinghouse);
 - (i) paragraph H.1(a) (development not permitted) of Class H (microwave antenna on a dwellinghouse).
 
-## 5. Amendments to Class M of Part 3 of Schedule 2[^key-d965c78eefe94ab8b22b3ad899577401]
+## 5. Amendments to Class M of Part 3 of Schedule 2[^c-d965c78eefe94ab8b22b3ad899577401]
 
 In Class M (retail, takeaways and specified sui generis uses to dwellinghouses) of Part 3 of Schedule 2, in paragraph M.2(3) (conditions for permitted development under Class M)—
 
@@ -87,7 +87,7 @@ In Class M (retail, takeaways and specified sui generis uses to dwellinghouses) 
 
   .
 
-## 6. Insertion of Class MA in Part 3 of Schedule 2[^key-980705f54baff6bd2fded6d2e0b26242]
+## 6. Insertion of Class MA in Part 3 of Schedule 2[^c-980705f54baff6bd2fded6d2e0b26242]
 
 After Class M (retail, takeaways and specified sui generis uses to dwellinghouses) of Part 3 of Schedule 2 insert—
 
@@ -166,7 +166,7 @@ After Class M (retail, takeaways and specified sui generis uses to dwellinghouse
 
 .
 
-## 7. Amendments to Class O of Part 3 of Schedule 2[^key-a1045a4d9dbb2f8140ebc51d94d7a115]
+## 7. Amendments to Class O of Part 3 of Schedule 2[^c-a1045a4d9dbb2f8140ebc51d94d7a115]
 
 In Class O (offices to dwellinghouses) of Part 3 of Schedule 2, in sub-paragraph (2) of paragraph O.2 (conditions), for the words from “condition that” to the end substitute—
 
@@ -177,7 +177,7 @@ In Class O (offices to dwellinghouses) of Part 3 of Schedule 2, in sub-paragraph
 
 .
 
-## 8. Amendments to paragraph W of Part 3 of Schedule 2[^key-202519375037d67e10db3c8f5f56da11]
+## 8. Amendments to paragraph W of Part 3 of Schedule 2[^c-202519375037d67e10db3c8f5f56da11]
 
 (1) Paragraph W (procedure for applications for prior approval) of Part 3 of Schedule 2 is amended as follows.
 
@@ -197,7 +197,7 @@ In Class O (offices to dwellinghouses) of Part 3 of Schedule 2, in sub-paragraph
 
 .
 
-## 9. Amendments to Class M of Part 7 of Schedule 2[^key-04eea7a1c0cb8ab9a0f59baa83073862]
+## 9. Amendments to Class M of Part 7 of Schedule 2[^c-04eea7a1c0cb8ab9a0f59baa83073862]
 
 (1) Class M (extensions etc for schools, colleges, universities and hospitals) of Part 7 (non-domestic extensions, alterations etc) of Schedule 2 is amended as follows.
 
@@ -310,7 +310,7 @@ In Class O (offices to dwellinghouses) of Part 3 of Schedule 2, in sub-paragraph
 
   .
 
-## 10. Amendments to Class B of Part 8 of Schedule 2[^key-1e0343a43b288a0edd139e51ceb24017]
+## 10. Amendments to Class B of Part 8 of Schedule 2[^c-1e0343a43b288a0edd139e51ceb24017]
 
 (1) Class B (dock, pier, harbour, water transport, canal or inland navigation undertakings) of Part 8 (transport related development) of Schedule 2 is amended as follows.
 
@@ -360,7 +360,7 @@ In Class O (offices to dwellinghouses) of Part 3 of Schedule 2, in sub-paragraph
 
 .
 
-## 11. Amendments to Class B of Part 11 of Schedule 2[^key-ecb4beb0e297b986ab04ec59d313da14]
+## 11. Amendments to Class B of Part 11 of Schedule 2[^c-ecb4beb0e297b986ab04ec59d313da14]
 
 (1) Class B (demolition of buildings) of Part 11 (heritage and demolition) is amended as follows.
 
@@ -387,7 +387,7 @@ In Class O (offices to dwellinghouses) of Part 3 of Schedule 2, in sub-paragraph
 
 .
 
-## 12. Amendments to Part 20 of Schedule 2[^key-29acabf8c515dac141bbcacf2b6cbe35]
+## 12. Amendments to Part 20 of Schedule 2[^c-29acabf8c515dac141bbcacf2b6cbe35]
 
 (1) Part 20 (construction of new dwellinghouses) of Schedule 2 is amended as follows—
 
@@ -407,15 +407,15 @@ In Class O (offices to dwellinghouses) of Part 3 of Schedule 2, in sub-paragraph
 
 (3) In paragraph B(2)(c) (procedure for applications for prior approval under Part 20), after “indicating” insert “the total floor space in square metres of each dwellinghouse,”.
 
-## 13. Amendment to the Town and Country Planning (Use Classes) Order 1987[^key-59493f59ad5f9cd4deffe5018a99dc68]
+## 13. Amendment to the Town and Country Planning (Use Classes) Order 1987[^c-59493f59ad5f9cd4deffe5018a99dc68]
 
 In Part A of Schedule 2 to the Town and Country Planning (Use Classes) Order 1987[^f00010], in sub-paragraph (d) of Class E (commercial, business and service), after “or firearms” insert “or use as a swimming pool or skating rink”.
 
-## 14. Amendment to the Town and Country Planning (Compensation) (England) Regulations 2015[^key-aadc7af89769eeef75be3d673b9ebee4]
+## 14. Amendment to the Town and Country Planning (Compensation) (England) Regulations 2015[^c-aadc7af89769eeef75be3d673b9ebee4]
 
 In regulation 2 (prescribed development) of the Town and Country Planning (Compensation) (England) Regulations 2015[^f00011], in sub-paragraph (c) after “M,” insert “MA,”.
 
-## 15. Transitional and saving provisions[^key-ec15bf63216966d40ff0cf5eed06af48]
+## 15. Transitional and saving provisions[^c-ec15bf63216966d40ff0cf5eed06af48]
 
 (1) The amendments made by the following provisions do not apply in relation to development under the Town and Country Planning (General Permitted Development) (England) Order 2015 (“the GPDO”) where the development has started, but not completed, on the date on which this Order comes into force—
 
@@ -475,29 +475,29 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Amendments have been made to section 59 which are not relevant to this Order. Section 60 was amended by section 4(1) of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and section 152 of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22); section 108(2A) and (3C) was inserted by section 189 of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) and amended by [S.I. 2012/210](https://www.legislation.gov.uk/uksi/2012/210) and paragraph 29(5), (6) and (7) of Schedule 12 to the Housing and Planning Act 2016; section 333(2A) was inserted by paragraph 14(2) of Schedule 6 to the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5). In section 108, “prescribed” means prescribed in regulations made by the Secretary of State.
 
-[^key-f06e64d1d057219e7f94c30f8c0fe903]: Commencement: Art. 1 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-f06e64d1d057219e7f94c30f8c0fe903]: Commencement: Art. 1 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
-[^key-7fa50401510069db795c7ef6420bdde6]: Commencement: Art. 2 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-7fa50401510069db795c7ef6420bdde6]: Commencement: Art. 2 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596), which has been amended by [S.I.s 2016/332](https://www.legislation.gov.uk/uksi/2016/332), [2016/765](https://www.legislation.gov.uk/uksi/2016/765), [2016/772](https://www.legislation.gov.uk/uksi/2016/772), [2016/1040](https://www.legislation.gov.uk/uksi/2016/1040), [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [2017/391](https://www.legislation.gov.uk/uksi/2017/391), [2017/571](https://www.legislation.gov.uk/uksi/2017/571), [2017/619](https://www.legislation.gov.uk/uksi/2017/619), [2017/1011](https://www.legislation.gov.uk/uksi/2017/1101), [2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [2018/119](https://www.legislation.gov.uk/uksi/2018/119), [2018/343](https://www.legislation.gov.uk/uksi/2018/343), [2018/695](https://www.legislation.gov.uk/uksi/2018/695), [2019/907](https://www.legislation.gov.uk/uksi/2019/907), [2020/330](https://www.legislation.gov.uk/uksi/2020/330), [2020/412](https://www.legislation.gov.uk/uksi/2020/412), [2020/632](https://www.legislation.gov.uk/uksi/2020/632), [2020/755](https://www.legislation.gov.uk/uksi/2020/755), [2020/756](https://www.legislation.gov.uk/uksi/2020/756), [2020/1243](https://www.legislation.gov.uk/uksi/2020/1243) and [2020/1459](https://www.legislation.gov.uk/uksi/2020/1459).
 
-[^key-0179e823dc86aa6f0e7dafff3d1359f4]: Commencement: Art. 3 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-0179e823dc86aa6f0e7dafff3d1359f4]: Commencement: Art. 3 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
-[^key-163a01ff2d5529dec4dd8fa2f3934ca5]: Commencement: Art. 4 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-163a01ff2d5529dec4dd8fa2f3934ca5]: Commencement: Art. 4 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
-[^key-d965c78eefe94ab8b22b3ad899577401]: Commencement: Art. 5 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-d965c78eefe94ab8b22b3ad899577401]: Commencement: Art. 5 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
-[^key-980705f54baff6bd2fded6d2e0b26242]: Commencement: Art. 6 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-980705f54baff6bd2fded6d2e0b26242]: Commencement: Art. 6 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
 [^f00003]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 41 was amended by sections 20 and 24 of, and Schedules 2 and 4 to, the Agriculture Act [1986 (c. 49)](https://www.legislation.gov.uk/ukpga/1986/49), Schedule 3 to the Norfolk and Suffolk Broads Act [1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4), Schedule 10 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and Schedules 11 and 12 to the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16). There are other amendments not relevant to this Order.
 
 [^f00004]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 2 was substituted by paragraph 1(1) of Schedule 4 to the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), and section 3 was amended by section 13(2)(a) and (b), (3), (4), (5) and (6) of that Act.
 
-[^key-a1045a4d9dbb2f8140ebc51d94d7a115]: Commencement: Art. 7 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-a1045a4d9dbb2f8140ebc51d94d7a115]: Commencement: Art. 7 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
-[^key-202519375037d67e10db3c8f5f56da11]: Commencement: Art. 8 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-202519375037d67e10db3c8f5f56da11]: Commencement: Art. 8 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
-[^key-04eea7a1c0cb8ab9a0f59baa83073862]: Commencement: Art. 9 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-04eea7a1c0cb8ab9a0f59baa83073862]: Commencement: Art. 9 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
 [^f00005]: Footnote: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52). Section 43 was substituted by section 38(1) of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).
 
@@ -507,20 +507,20 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00008]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Sections 88C and 88D were inserted by section 151 of the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25). “Admission authority” is defined in section 88(1) of that Act.
 
-[^key-1e0343a43b288a0edd139e51ceb24017]: Commencement: Art. 10 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-1e0343a43b288a0edd139e51ceb24017]: Commencement: Art. 10 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
-[^key-ecb4beb0e297b986ab04ec59d313da14]: Commencement: Art. 11 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-ecb4beb0e297b986ab04ec59d313da14]: Commencement: Art. 11 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
 [^f00009]: Footnote: [1972, c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-29acabf8c515dac141bbcacf2b6cbe35]: Commencement: Art. 12 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-29acabf8c515dac141bbcacf2b6cbe35]: Commencement: Art. 12 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
-[^key-59493f59ad5f9cd4deffe5018a99dc68]: Commencement: Art. 13 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-59493f59ad5f9cd4deffe5018a99dc68]: Commencement: Art. 13 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
 [^f00010]: Footnote: [S.I. 1987/764](https://www.legislation.gov.uk/uksi/1987/764). Schedule 2 was inserted by [S.I. 2020/757](https://www.legislation.gov.uk/uksi/2020/757). There are other amendments to this instrument not relevant to this Order.
 
-[^key-aadc7af89769eeef75be3d673b9ebee4]: Commencement: Art. 14 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-aadc7af89769eeef75be3d673b9ebee4]: Commencement: Art. 14 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
 
 [^f00011]: Footnote: [S.I. 2015/598](https://www.legislation.gov.uk/uksi/2015/598). Regulation 2 has been amended by [S.I. 2016/331](https://www.legislation.gov.uk/uksi/2016/331), [2017/392](https://www.legislation.gov.uk/uksi/2017/392), [2017/620](https://www.legislation.gov.uk/uksi/2017/620), [2019/907](https://www.legislation.gov.uk/uksi/2019/907), [2020/632](https://www.legislation.gov.uk/uksi/2020/632) and [2020/1243](https://www.legislation.gov.uk/uksi/2020/1243).
 
-[^key-ec15bf63216966d40ff0cf5eed06af48]: Commencement: Art. 15 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)
+[^c-ec15bf63216966d40ff0cf5eed06af48]: Commencement: Art. 15 in force at 21.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1)

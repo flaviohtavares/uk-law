@@ -26,7 +26,7 @@ summary: ''
 - (b) the leasing company lets that plant or machinery to another person under another contract (“the leasing contract”),
 - (c) a first-year allowance (within the meaning of Part 2 of CAA 2001) in relation to the capital expenditure is made to the leasing company for an accounting period (“the allowance period”),
 - (d) arrangements within subsection (3) are in place in the allowance period, and
-- (e) apart from this section, relief under section 37 , 45, 45A or 45B[^key-0208040b80217ee467241670f1f9cf76] would be available to the leasing company in relation to losses made on the leasing contract.
+- (e) apart from this section, relief under section 37 , 45, 45A or 45B[^c-0208040b80217ee467241670f1f9cf76] would be available to the leasing company in relation to losses made on the leasing contract.
 
 (2) In the allowance period and any subsequent accounting period, no relief is available to the leasing company as mentioned in subsection (1)(e) except against profits (if any) arising under the leasing contract.
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0208040b80217ee467241670f1f9cf76]: Textual amendment: Words in [s. 53(1)(e)](https://www.legislation.gov.uk/ukpga/2010/4/section/53/1/e) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 150](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/150)
+[^c-0208040b80217ee467241670f1f9cf76]: Textual amendment: Words in [s. 53(1)(e)](https://www.legislation.gov.uk/ukpga/2010/4/section/53/1/e) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 150](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/150)

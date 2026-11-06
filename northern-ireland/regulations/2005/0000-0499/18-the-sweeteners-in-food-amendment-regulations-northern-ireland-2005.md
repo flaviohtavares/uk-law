@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Sweeteners in Food (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-45f86a6ac8673d48fabf7394cd2bde28]
+The Sweeteners in Food (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-45f86a6ac8673d48fabf7394cd2bde28]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 29th January 2005
 
-[^key-45f86a6ac8673d48fabf7394cd2bde28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45f86a6ac8673d48fabf7394cd2bde28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-45f86a6ac8673d48fabf7394cd2bde28]
+## 1. Citation and commencement[^c-45f86a6ac8673d48fabf7394cd2bde28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sweeteners in Food Regulations (Northern Ireland) 1996[^key-45f86a6ac8673d48fabf7394cd2bde28]
+## 2. Amendment of the Sweeteners in Food Regulations (Northern Ireland) 1996[^c-45f86a6ac8673d48fabf7394cd2bde28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-45f86a6ac8673d48fabf7394cd2bde28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-45f86a6ac8673d48fabf7394cd2bde28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-45f86a6ac8673d48fabf7394cd2bde28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-45f86a6ac8673d48fabf7394cd2bde28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-45f86a6ac8673d48fabf7394cd2bde28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-45f86a6ac8673d48fabf7394cd2bde28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-45f86a6ac8673d48fabf7394cd2bde28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-45f86a6ac8673d48fabf7394cd2bde28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-45f86a6ac8673d48fabf7394cd2bde28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-45f86a6ac8673d48fabf7394cd2bde28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45f86a6ac8673d48fabf7394cd2bde28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45f86a6ac8673d48fabf7394cd2bde28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45f86a6ac8673d48fabf7394cd2bde28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45f86a6ac8673d48fabf7394cd2bde28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45f86a6ac8673d48fabf7394cd2bde28]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/18) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)
+[^c-45f86a6ac8673d48fabf7394cd2bde28]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/18) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)

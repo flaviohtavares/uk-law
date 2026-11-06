@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 387. Enforcement powers in relation to newspaper and other media mergers[^key-99799ee1fca116ca7a75817e245b2e22]
+## 387. Enforcement powers in relation to newspaper and other media mergers[^c-99799ee1fca116ca7a75817e245b2e22]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ In Schedule 8 to the Enterprise Act 2002 (provision that may be contained in cer
 
 ## Annotations
 
-[^key-99799ee1fca116ca7a75817e245b2e22]: Commencement: S. 387 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-99799ee1fca116ca7a75817e245b2e22]: Commencement: S. 387 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

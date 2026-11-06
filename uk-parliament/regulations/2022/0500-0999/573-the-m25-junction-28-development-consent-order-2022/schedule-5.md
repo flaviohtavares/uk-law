@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-c5b15fc0ed2b53536d14f6b549815c1d]
+## SCHEDULE 5 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-c5b15fc0ed2b53536d14f6b549815c1d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ Article 24
 
 ## Annotations
 
-[^key-c5b15fc0ed2b53536d14f6b549815c1d]: Commencement: Sch. 5 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-c5b15fc0ed2b53536d14f6b549815c1d]: Commencement: Sch. 5 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)

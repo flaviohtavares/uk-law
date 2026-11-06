@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Permanent lights on tidal works[^key-df6a4b700ea7d09a6c8db44c81f5ec20]
+## 21. Permanent lights on tidal works[^c-df6a4b700ea7d09a6c8db44c81f5ec20]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df6a4b700ea7d09a6c8db44c81f5ec20]: Commencement: Art. 21 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-df6a4b700ea7d09a6c8db44c81f5ec20]: Commencement: Art. 21 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

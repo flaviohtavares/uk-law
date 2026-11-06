@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Payment: general[^key-e7d9cd8ce0ca95c5cfb6623659e78761]
+## 72. Payment: general[^c-e7d9cd8ce0ca95c5cfb6623659e78761]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7d9cd8ce0ca95c5cfb6623659e78761]: Commencement: Reg. 72 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-e7d9cd8ce0ca95c5cfb6623659e78761]: Commencement: Reg. 72 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

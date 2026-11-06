@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Powers under sections 17 to 20: supplementary[^key-afab581efade8e0823522043b1a1488e]
+## 22. Powers under sections 17 to 20: supplementary[^c-afab581efade8e0823522043b1a1488e]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afab581efade8e0823522043b1a1488e]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/16/section/22) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)
+[^c-afab581efade8e0823522043b1a1488e]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/16/section/22) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)

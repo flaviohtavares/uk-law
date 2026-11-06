@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Energy performance regulations relating to new premises[^key-225c909ee0d885513206f088aca3ef89]
+## 251. Energy performance regulations relating to new premises[^c-225c909ee0d885513206f088aca3ef89]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-225c909ee0d885513206f088aca3ef89]: Commencement: [S. 251](https://www.legislation.gov.uk/ukpga/2023/52/section/251) in force at 26.12.2023, see [s. 334(3)(h)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/h)
+[^c-225c909ee0d885513206f088aca3ef89]: Commencement: [S. 251](https://www.legislation.gov.uk/ukpga/2023/52/section/251) in force at 26.12.2023, see [s. 334(3)(h)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/h)

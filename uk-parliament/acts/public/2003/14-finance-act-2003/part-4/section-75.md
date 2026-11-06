@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Crofting community right to buy[^key-017eff9970b393dabe74fa97bea9e1b0]
+## 75. Crofting community right to buy[^c-017eff9970b393dabe74fa97bea9e1b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-017eff9970b393dabe74fa97bea9e1b0]: Textual amendment: S. 75 omitted (with effect from 1.4.2015 in accordance with [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/15) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6))
+[^c-017eff9970b393dabe74fa97bea9e1b0]: Textual amendment: S. 75 omitted (with effect from 1.4.2015 in accordance with [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/15) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6))

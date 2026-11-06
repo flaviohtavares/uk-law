@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Supplement: lump sum death benefit[^key-416f12c67ce3a64231e45b5f84c7d458]
+## 94. Supplement: lump sum death benefit[^c-416f12c67ce3a64231e45b5f84c7d458]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-416f12c67ce3a64231e45b5f84c7d458]: Commencement: Reg. 94 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-416f12c67ce3a64231e45b5f84c7d458]: Commencement: Reg. 94 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

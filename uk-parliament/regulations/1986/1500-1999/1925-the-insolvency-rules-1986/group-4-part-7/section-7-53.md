@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.53. Right of attendance (company insolvency)[^key-9cf0bd3cb0f8a213c2db048479a0f51a]
+## 7.53. Right of attendance (company insolvency)[^c-9cf0bd3cb0f8a213c2db048479a0f51a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ If two or more persons are appointed under this paragraph to represent the same 
 
 ## Annotations
 
-[^key-9cf0bd3cb0f8a213c2db048479a0f51a]: Commencement: [Rule 7.53](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.53) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9cf0bd3cb0f8a213c2db048479a0f51a]: Commencement: [Rule 7.53](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.53) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

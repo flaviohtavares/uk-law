@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Qualifying offenders[^key-a160506a09a8f2ed5d2fea9c1784bda8]
+## 99. Qualifying offenders[^c-a160506a09a8f2ed5d2fea9c1784bda8]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 (5) In subsection (4) “**relevant offence**” means an act which—
 
 - (a) constituted an offence under the law in force in the country concerned, and
-- (b) would have constituted a specified offence, or the offence of murder,[^key-c85669ab379781efb2d21607c0d3ec51] if it had been done in England and Wales.
+- (b) would have constituted a specified offence, or the offence of murder,[^c-c85669ab379781efb2d21607c0d3ec51] if it had been done in England and Wales.
 
 (6) An act punishable under the law in force in a country outside England and Wales constitutes an offence under that law for the purposes of subsection (5) however it is described in that law.
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a160506a09a8f2ed5d2fea9c1784bda8]: Commencement: S. 99 in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/b)
+[^c-a160506a09a8f2ed5d2fea9c1784bda8]: Commencement: S. 99 in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/b)
 
-[^key-c85669ab379781efb2d21607c0d3ec51]: Textual amendment: Words in s. 99(5)(b) inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 119(3)](https://www.legislation.gov.uk/ukpga/2014/12/section/119/3), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/9)
+[^c-c85669ab379781efb2d21607c0d3ec51]: Textual amendment: Words in s. 99(5)(b) inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 119(3)](https://www.legislation.gov.uk/ukpga/2014/12/section/119/3), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/9)

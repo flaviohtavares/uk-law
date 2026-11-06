@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Contractual rights[^key-d1bb0d02831c7b13e22e0e878fc7661e]
+## 38. Contractual rights[^c-d1bb0d02831c7b13e22e0e878fc7661e]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1bb0d02831c7b13e22e0e878fc7661e]: Commencement: S. 38 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-d1bb0d02831c7b13e22e0e878fc7661e]: Commencement: S. 38 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

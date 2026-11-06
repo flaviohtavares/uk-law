@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Transfer of directive functions to the FCA[^key-4244ea8da04957bc25f8ce1c927a4e40]
+## 72. Transfer of directive functions to the FCA[^c-4244ea8da04957bc25f8ce1c927a4e40]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The FCA may make technical standards for the purposes specified in Part 3 of Sch
 
 ## Annotations
 
-[^key-4244ea8da04957bc25f8ce1c927a4e40]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-4244ea8da04957bc25f8ce1c927a4e40]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Unincorporated associations[^key-d896b457dfe05349b8a6ceab13a76552]
+## 88. Unincorporated associations[^c-d896b457dfe05349b8a6ceab13a76552]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the officer or member as well as the association is guilty of the offence and li
 
 ## Annotations
 
-[^key-d896b457dfe05349b8a6ceab13a76552]: Commencement: S. 88 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
+[^c-d896b457dfe05349b8a6ceab13a76552]: Commencement: S. 88 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)

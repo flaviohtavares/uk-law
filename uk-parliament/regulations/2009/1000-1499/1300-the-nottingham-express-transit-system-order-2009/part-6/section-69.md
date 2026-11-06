@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Saving for highway authorities[^key-fd10303f13bfe3826ae3013af2824faa]
+## 69. Saving for highway authorities[^c-fd10303f13bfe3826ae3013af2824faa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Order shall affect any power of a highway authority to widen, al
 
 ## Annotations
 
-[^key-fd10303f13bfe3826ae3013af2824faa]: Commencement: Art. 69 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-fd10303f13bfe3826ae3013af2824faa]: Commencement: Art. 69 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

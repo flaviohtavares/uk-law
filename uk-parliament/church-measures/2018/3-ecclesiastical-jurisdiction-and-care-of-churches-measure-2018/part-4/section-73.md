@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 73. Sections 69, 70 and 72: deliberate concealment of facts[^key-8129c6b5753e4df0ea73ebe855b2eb7e]
+## 73. Sections 69, 70 and 72: deliberate concealment of facts[^c-8129c6b5753e4df0ea73ebe855b2eb7e]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8129c6b5753e4df0ea73ebe855b2eb7e]: Commencement: [S. 73](https://www.legislation.gov.uk/ukcm/2018/3/section/73) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-8129c6b5753e4df0ea73ebe855b2eb7e]: Commencement: [S. 73](https://www.legislation.gov.uk/ukcm/2018/3/section/73) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

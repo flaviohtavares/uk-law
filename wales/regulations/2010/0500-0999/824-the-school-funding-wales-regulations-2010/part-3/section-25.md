@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Additional arrangements approved by the Welsh Ministers[^key-fbe12121d17d10412f1efabb5accbd12]
+## 25. Additional arrangements approved by the Welsh Ministers[^c-fbe12121d17d10412f1efabb5accbd12]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Welsh Ministers may, where it appears to them to be expedient to do so, auth
 
 ## Annotations
 
-[^key-fbe12121d17d10412f1efabb5accbd12]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2010/824/regulation/25) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-fbe12121d17d10412f1efabb5accbd12]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2010/824/regulation/25) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

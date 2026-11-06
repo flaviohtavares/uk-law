@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 117. Supplementary provisions as to dividend[^key-c437ddfbb6e4d92951761dca9253888e]
+## 117. Supplementary provisions as to dividend[^c-c437ddfbb6e4d92951761dca9253888e]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c437ddfbb6e4d92951761dca9253888e]: Commencement: [Rule 117](https://www.legislation.gov.uk/nisr/2026/11/rule/117) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c437ddfbb6e4d92951761dca9253888e]: Commencement: [Rule 117](https://www.legislation.gov.uk/nisr/2026/11/rule/117) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

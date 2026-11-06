@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-e832cb892de7c814bb2a76156065648c]
+## 1. Citation and commencement[^c-e832cb892de7c814bb2a76156065648c]
 
 *Extent: E+W+S+N.I.*
 
-(1) This Order may be cited as the Health Professions Order 2001[^key-43bbdb428e459b9f6cac11a25d8bfb0a].
+(1) This Order may be cited as the Health Professions Order 2001[^c-43bbdb428e459b9f6cac11a25d8bfb0a].
 
 (2) This article and article 48(4) come into force on the day on which this Order is made and the other provisions of this Order shall come into force on such day as the Secretary of State may specify.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e832cb892de7c814bb2a76156065648c]: Commencement: Art. 1 in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-e832cb892de7c814bb2a76156065648c]: Commencement: Art. 1 in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-43bbdb428e459b9f6cac11a25d8bfb0a]: Textual amendment: Words in [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/254/article/1/1) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/46); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-43bbdb428e459b9f6cac11a25d8bfb0a]: Textual amendment: Words in [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/254/article/1/1) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/46); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)

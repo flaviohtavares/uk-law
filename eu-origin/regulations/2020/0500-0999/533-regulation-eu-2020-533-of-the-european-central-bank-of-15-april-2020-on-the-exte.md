@@ -33,36 +33,36 @@ of 15 April 2020
 
 on the extension of deadlines for the reporting of statistical information *(ECB/2020/23)* (revoked)
 
-[^key-d512ecda1093775468891a03635efcd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d512ecda1093775468891a03635efcd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Delegation of the power to extend deadlines for statistical reporting[^key-d512ecda1093775468891a03635efcd2]
+## Article 1. Delegation of the power to extend deadlines for statistical reporting[^c-d512ecda1093775468891a03635efcd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Final provision[^key-d512ecda1093775468891a03635efcd2]
+## Article 2. Final provision[^c-d512ecda1093775468891a03635efcd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d512ecda1093775468891a03635efcd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d512ecda1093775468891a03635efcd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — List of ECB Regulations[^key-d512ecda1093775468891a03635efcd2]
+## ANNEX — List of ECB Regulations[^c-d512ecda1093775468891a03635efcd2]
 
-[^key-d512ecda1093775468891a03635efcd2]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-d512ecda1093775468891a03635efcd2]2.
+[^c-d512ecda1093775468891a03635efcd2]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d512ecda1093775468891a03635efcd2]3.
+[^c-d512ecda1093775468891a03635efcd2]2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d512ecda1093775468891a03635efcd2]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d512ecda1093775468891a03635efcd2]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 128](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/128)
+[^c-d512ecda1093775468891a03635efcd2]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 128](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/128)

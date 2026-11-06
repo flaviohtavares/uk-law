@@ -41,8 +41,8 @@ until the end of such period beginning with that day, not exceeding 6 months, as
 
 (8) An agreement under subsection (7) may not be entered into at any time—
 
-- (a) when the person concerned is not in permanent service under the order; or[^key-da83370fb17488e979708773e97c4c79]
-- (b)[^key-24a963c89626192da0ac9d66bf90bac9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) when the person concerned is not in permanent service under the order; or[^c-da83370fb17488e979708773e97c4c79]
+- (b)[^c-24a963c89626192da0ac9d66bf90bac9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) more than 6 months before the day on which (disregarding the agreement) he is entitled to be released by virtue of subsection (6) or, as the case may be, subsection (10).
 
 (9) An extension by an agreement under subsection (7) shall prevent the person concerned becoming entitled to be released on the day on which, apart from the agreement, he would be entitled to be released under subsection (6) or, as the case may be, subsection (10); but such an agreement shall not prevent a man becoming entitled to be released by virtue of subsection (2).
@@ -57,6 +57,6 @@ until the end of such period beginning with that day, not exceeding 6 months, as
 
 ## Annotations
 
-[^key-da83370fb17488e979708773e97c4c79]: Textual amendment: Word in s. 55(8)(a) inserted (15.10.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 33(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/33/a); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
+[^c-da83370fb17488e979708773e97c4c79]: Textual amendment: Word in s. 55(8)(a) inserted (15.10.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 33(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/33/a); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
 
-[^key-24a963c89626192da0ac9d66bf90bac9]: Textual amendment: S. 55(8)(b) repealed (15.10.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 33(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/33/b), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
+[^c-24a963c89626192da0ac9d66bf90bac9]: Textual amendment: S. 55(8)(b) repealed (15.10.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 33(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/33/b), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)

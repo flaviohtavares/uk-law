@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Introductory[^key-471b9563722210cf5e36dc02ca3b6f3b]
+## 61. Introductory[^c-471b9563722210cf5e36dc02ca3b6f3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Nursing and Midwifery Order 2001[^f00045] is amended in accordance with this
 
 ## Annotations
 
-[^key-471b9563722210cf5e36dc02ca3b6f3b]: Commencement: Reg. 61 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-471b9563722210cf5e36dc02ca3b6f3b]: Commencement: Reg. 61 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00045]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253).

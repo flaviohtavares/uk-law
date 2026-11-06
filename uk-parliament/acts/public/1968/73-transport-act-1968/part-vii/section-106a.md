@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106A. Enforcement of maintenance duty – Canal & River Trust[^key-34e81ee2862b71e78ae39f693171f621]
+## 106A. Enforcement of maintenance duty – Canal & River Trust[^c-34e81ee2862b71e78ae39f693171f621]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ the court may, subject to the provisions of this section, require Canal & River 
 
 ## Annotations
 
-[^key-34e81ee2862b71e78ae39f693171f621]: Textual amendment: Ss. 106, 106A substituted for s. 106 (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/40) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-34e81ee2862b71e78ae39f693171f621]: Textual amendment: Ss. 106, 106A substituted for s. 106 (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/40) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Consultation on strategy[^key-b1e6cc87bf391b63ef57a98a3c7f2eb5]
+## 2. Consultation on strategy[^c-b1e6cc87bf391b63ef57a98a3c7f2eb5]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1e6cc87bf391b63ef57a98a3c7f2eb5]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/17/section/2) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)
+[^c-b1e6cc87bf391b63ef57a98a3c7f2eb5]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/17/section/2) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)

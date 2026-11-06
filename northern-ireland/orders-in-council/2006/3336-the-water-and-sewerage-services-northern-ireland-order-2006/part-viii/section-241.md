@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Subject to paragraph (3) and to any provision to the contrary contained in an agreement between the relevant undertaker and the person in whom an interest in the pipe , system[^key-d065abeaa302b86f567fcaf66db473db] or works is or is to be vested—
+(1) Subject to paragraph (3) and to any provision to the contrary contained in an agreement between the relevant undertaker and the person in whom an interest in the pipe , system[^c-d065abeaa302b86f567fcaf66db473db] or works is or is to be vested—
 
 - (a) every relevant pipe which has been laid, in exercise of any power conferred by this Part or otherwise, by a relevant undertaker; and
-- (b) every sustainable drainage system,[^key-dc4f1ca682f4e1b535c7e780faccc95b] water treatment works or waste water treatment works constructed by a relevant undertaker,
+- (b) every sustainable drainage system,[^c-dc4f1ca682f4e1b535c7e780faccc95b] water treatment works or waste water treatment works constructed by a relevant undertaker,
 
-shall vest in the undertaker which laid it or, as the case may be, the undertaker which constructed it or[^key-c533635672f5f520f50b2f62af6d08f7] them.
+shall vest in the undertaker which laid it or, as the case may be, the undertaker which constructed it or[^c-c533635672f5f520f50b2f62af6d08f7] them.
 
 (2) In addition—
 
 - (a) every water main and so much of each service pipe with respect to which a declaration of vesting made by a water undertaker under Chapter II of Part IV takes effect shall also vest in that undertaker; and
-- (b) every sewer, lateral drain , sustainable drainage system[^key-1b04f590ab39d24c7b71e9067c6ee311] or waste water treatment works with respect to which a declaration of vesting made by a sewerage undertaker under Chapter II of Part VI takes effect shall also vest in that undertaker.
+- (b) every sewer, lateral drain , sustainable drainage system[^c-1b04f590ab39d24c7b71e9067c6ee311] or waste water treatment works with respect to which a declaration of vesting made by a sewerage undertaker under Chapter II of Part VI takes effect shall also vest in that undertaker.
 
 (3) Paragraph (1) shall not apply—
 
@@ -64,10 +64,10 @@ but nothing in this paragraph affects the valuation for rating of any rateable h
 
 [^c20605191]: Commencement: Art. 241 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-d065abeaa302b86f567fcaf66db473db]: Textual amendment: Word in [art. 241(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/241/1) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 14(2)(a)](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/14/2/a)
+[^c-d065abeaa302b86f567fcaf66db473db]: Textual amendment: Word in [art. 241(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/241/1) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 14(2)(a)](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/14/2/a)
 
-[^key-dc4f1ca682f4e1b535c7e780faccc95b]: Textual amendment: Words in [art. 241(1)(b)](https://www.legislation.gov.uk/nisi/2006/3336/article/241/1/b) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 14(2)(b)](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/14/2/b)
+[^c-dc4f1ca682f4e1b535c7e780faccc95b]: Textual amendment: Words in [art. 241(1)(b)](https://www.legislation.gov.uk/nisi/2006/3336/article/241/1/b) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 14(2)(b)](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/14/2/b)
 
-[^key-c533635672f5f520f50b2f62af6d08f7]: Textual amendment: Words in [art. 241(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/241/1) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 14(2)(c)](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/14/2/c)
+[^c-c533635672f5f520f50b2f62af6d08f7]: Textual amendment: Words in [art. 241(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/241/1) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 14(2)(c)](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/14/2/c)
 
-[^key-1b04f590ab39d24c7b71e9067c6ee311]: Textual amendment: Words in [art. 241(2)(b)](https://www.legislation.gov.uk/nisi/2006/3336/article/241/2/b) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/14/3)
+[^c-1b04f590ab39d24c7b71e9067c6ee311]: Textual amendment: Words in [art. 241(2)(b)](https://www.legislation.gov.uk/nisi/2006/3336/article/241/2/b) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/14/3)

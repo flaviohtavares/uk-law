@@ -29,13 +29,13 @@ he may make an order under this section excluding those employees from the opera
 
 (2) In subsection (1) “**agricultural wages order**” means an order made under—
 
-- (a)[^key-63254fc75403c2858eb34844195fbf69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-63254fc75403c2858eb34844195fbf69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 3 of the [^c16325001]Agricultural Wages (Scotland) Act 1949.
 
 (3) In subsection (1) “**the appropriate Minister**” means—
 
-- (a) in relation to a collective agreement or to an order such as is referred to in subsection (2)(b), the Secretary of State, [^key-09101991796e190256bda76391bde46d]...
-- (b)[^key-09101991796e190256bda76391bde46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in relation to a collective agreement or to an order such as is referred to in subsection (2)(b), the Secretary of State, [^c-09101991796e190256bda76391bde46d]...
+- (b)[^c-09101991796e190256bda76391bde46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Secretary of State shall not make an order under this section in respect of an agreement unless—
 
@@ -48,10 +48,10 @@ he may make an order under this section excluding those employees from the opera
 
 ## Annotations
 
-[^key-63254fc75403c2858eb34844195fbf69]: Textual amendment: S. 35(2)(a) repealed (1.10.2013 for E.) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
+[^c-63254fc75403c2858eb34844195fbf69]: Textual amendment: S. 35(2)(a) repealed (1.10.2013 for E.) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
 
 [^c16325001]: Marginal citation: [1949 c. 30](https://www.legislation.gov.uk/ukpga/1949/30).
 
-[^key-09101991796e190256bda76391bde46d]: Textual amendment: S. 35(3)(b) and word in s. 35(3)(a) repealed (1.10.2013 for E.) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
+[^c-09101991796e190256bda76391bde46d]: Textual amendment: S. 35(3)(b) and word in s. 35(3)(a) repealed (1.10.2013 for E.) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
 
 [^c16325011]: Textual amendment: Words in s. 35(5) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)

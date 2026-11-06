@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Form of petition[^key-ff4a5e5a9a8072ecca53fcf022cc4a64]
+## 6. Form of petition[^c-ff4a5e5a9a8072ecca53fcf022cc4a64]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff4a5e5a9a8072ecca53fcf022cc4a64]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2007/3141/rule/6) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-ff4a5e5a9a8072ecca53fcf022cc4a64]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2007/3141/rule/6) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

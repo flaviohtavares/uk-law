@@ -212,7 +212,7 @@ a claim for an employment and support allowance or a jobseeker’s allowance is 
   - (iv) in the words after paragraph (ii), “or meeting the gateway conditions” were omitted; and
 - (e) for article 4(7) (claims by couples)[^f00036] there were substituted—
 
-  > (7) Paragraphs (1A) and (1B) of article 5 of the No. 9 Order apply for the purposes of sub-paragraphs (j) and (m) of paragraph (2)[^key-a553b83d802f25e6f67a129f87b6a9b3] as they apply for the purposes of article 4(2)(a) of the No. 9 Order (but as if the references in paragraph (1A) to Schedule 5 to the No. 9 Order were omitted).
+  > (7) Paragraphs (1A) and (1B) of article 5 of the No. 9 Order apply for the purposes of sub-paragraphs (j) and (m) of paragraph (2)[^c-a553b83d802f25e6f67a129f87b6a9b3] as they apply for the purposes of article 4(2)(a) of the No. 9 Order (but as if the references in paragraph (1A) to Schedule 5 to the No. 9 Order were omitted).
 
   .
 
@@ -1007,7 +1007,7 @@ The following provisions of the Welfare Reform Act [2012 (c. 5)](https://www.leg
 
 [^f00036]: Footnote: Substituted by [S.I. 2014/3067 (C. 129)](https://www.legislation.gov.uk/uksi/2014/3067).
 
-[^key-a553b83d802f25e6f67a129f87b6a9b3]: Textual amendment: Words in [art. 9(2)(e)](https://www.legislation.gov.uk/uksi/2016/596/article/9/2/e) substituted (30.9.2016) by [The Welfare Reform Act 2012 (Commencement No. 19, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016 (S.I. 2016/963)](https://www.legislation.gov.uk/uksi/2016/963), [art. 17](https://www.legislation.gov.uk/uksi/2016/963/article/17)
+[^c-a553b83d802f25e6f67a129f87b6a9b3]: Textual amendment: Words in [art. 9(2)(e)](https://www.legislation.gov.uk/uksi/2016/596/article/9/2/e) substituted (30.9.2016) by [The Welfare Reform Act 2012 (Commencement No. 19, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016 (S.I. 2016/963)](https://www.legislation.gov.uk/uksi/2016/963), [art. 17](https://www.legislation.gov.uk/uksi/2016/963/article/17)
 
 [^f00037]: Footnote: Paragraphs (1) and (10)(b) of article 7 were amended by [S.I. 2015/740 (C. 39)](https://www.legislation.gov.uk/uksi/2015/740); paragraph (1) was modified by [S.I. 2015/1930 (C. 118)](https://www.legislation.gov.uk/uksi/2015/1930), [2016/33 (C. 3)](https://www.legislation.gov.uk/uksi/2016/33) and [407 (C. 20)](https://www.legislation.gov.uk/uksi/2016/407).
 

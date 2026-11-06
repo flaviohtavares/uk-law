@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Further provision about seizure under section 43[^key-e6605896af1e86ef53bd72deed75946b]
+## 45. Further provision about seizure under section 43[^c-e6605896af1e86ef53bd72deed75946b]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ to secure that the item is not removed or otherwise interfered with until such t
 
 ## Annotations
 
-[^key-e6605896af1e86ef53bd72deed75946b]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2016/2/section/45) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-e6605896af1e86ef53bd72deed75946b]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2016/2/section/45) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

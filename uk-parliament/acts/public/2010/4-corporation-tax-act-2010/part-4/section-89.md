@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies for the purposes of the following provisions—
 
-- [^key-342545776dcb1d877bb1af1cb5d42ddd]...
+- [^c-342545776dcb1d877bb1af1cb5d42ddd]...
 - section 84(1)(a) and (2)(a),
 - section 85(1), and
 - section 88(2)(b).
@@ -36,4 +36,4 @@ the bonus shares are treated as having been issued at the time the original shar
 
 ## Annotations
 
-[^key-342545776dcb1d877bb1af1cb5d42ddd]: Textual amendment: Words in s. 89(1) omitted (with effect in accordance with s. 38(3) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(iii)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/iii)
+[^c-342545776dcb1d877bb1af1cb5d42ddd]: Textual amendment: Words in s. 89(1) omitted (with effect in accordance with s. 38(3) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(iii)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/iii)

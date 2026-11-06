@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Power to correct errors in decision documents[^key-3a8580074929a409b55faaf4efece2d6][^key-c87088a9f28897a42457d52560f432f4]
+## 87. Power to correct errors in decision documents[^c-3a8580074929a409b55faaf4efece2d6][^c-c87088a9f28897a42457d52560f432f4]
 
 *Extent: E+W*
 
 (1) This section applies where a decision document is issued which contains an error.
 
-(2)[^key-f002f08968b4505afb2d3e8ed4fea6ac] The Welsh Minsters may correct the error in the decision document.
+(2)[^c-f002f08968b4505afb2d3e8ed4fea6ac] The Welsh Minsters may correct the error in the decision document.
 
 (3) The power conferred by subsection (2) may be exercised—
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3a8580074929a409b55faaf4efece2d6]: Commencement: S. 87 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-3a8580074929a409b55faaf4efece2d6]: Commencement: S. 87 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-c87088a9f28897a42457d52560f432f4]: Commencement: [S. 87](https://www.legislation.gov.uk/asc/2024/3/section/87) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-c87088a9f28897a42457d52560f432f4]: Commencement: [S. 87](https://www.legislation.gov.uk/asc/2024/3/section/87) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
 
-[^key-f002f08968b4505afb2d3e8ed4fea6ac]: Modification: [S. 87(2)](https://www.legislation.gov.uk/asc/2024/3/section/87/2) restricted (16.3.2026) by [The Infrastructure Consent (Correcting Errors and Applications to Change or Revoke Infrastructure Consent Orders) (Procedure) (Wales) Regulations 2026 (W.S.I. 2026/25)](https://www.legislation.gov.uk/wsi/2026/25), [regs. 1](https://www.legislation.gov.uk/wsi/2026/25/regulation/1), [3](https://www.legislation.gov.uk/wsi/2026/25/regulation/3)
+[^c-f002f08968b4505afb2d3e8ed4fea6ac]: Modification: [S. 87(2)](https://www.legislation.gov.uk/asc/2024/3/section/87/2) restricted (16.3.2026) by [The Infrastructure Consent (Correcting Errors and Applications to Change or Revoke Infrastructure Consent Orders) (Procedure) (Wales) Regulations 2026 (W.S.I. 2026/25)](https://www.legislation.gov.uk/wsi/2026/25), [regs. 1](https://www.legislation.gov.uk/wsi/2026/25/regulation/1), [3](https://www.legislation.gov.uk/wsi/2026/25/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Procedural requirements for certain enforcement undertakings and orders[^c17044811][^c19211691][^key-6840196a2a79dfbccc9fe70cb861aff7][^key-ec79a705a9cb3ff2f33c96a3aa282df8]
+## SCHEDULE 10 — Procedural requirements for certain enforcement undertakings and orders[^c17044811][^c19211691][^c-6840196a2a79dfbccc9fe70cb861aff7][^c-ec79a705a9cb3ff2f33c96a3aa282df8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,9 +27,9 @@ Section 90
 Paragraph 2 applies in relation to—
 
 - (a) any undertaking under section 73 or 82 or paragraph 3 or 9 of Schedule 7 (other than an undertaking under the enactment concerned which varies an undertaking under that enactment but not in any material respect); and
-- (b) any order under section 70C, 75[^key-7adb2365a322a89a94a5b8d46b19dadb], 83 or 84 or paragraph 5, 10 or 11 of Schedule 7 (other than an order under the enactment concerned which is a revoking order of the kind dealt with by paragraphs 6 to 8 below).
+- (b) any order under section 70C, 75[^c-7adb2365a322a89a94a5b8d46b19dadb], 83 or 84 or paragraph 5, 10 or 11 of Schedule 7 (other than an order under the enactment concerned which is a revoking order of the kind dealt with by paragraphs 6 to 8 below).
 
-**2.** (1) Before accepting an undertaking to which this paragraph applies or making an order to which this paragraph applies, the CMA[^key-c7c4616e02c91a0b4f105eb638d2b028] or (as the case may be) the Secretary of State (in this Schedule “**the relevant authority**”) shall—
+**2.** (1) Before accepting an undertaking to which this paragraph applies or making an order to which this paragraph applies, the CMA[^c-c7c4616e02c91a0b4f105eb638d2b028] or (as the case may be) the Secretary of State (in this Schedule “**the relevant authority**”) shall—
 
 - (a) give notice of the proposed undertaking or (as the case may be) order; and
 - (b) consider any representations made in accordance with the notice and not withdrawn.
@@ -96,7 +96,7 @@ the relevant authority shall give notice of that decision.
 Paragraph 7 applies where the relevant authority is proposing to—
 
 - (a) release any undertaking under section 73 or 82 or paragraph 3 or 9 of Schedule 7 (other than in connection with accepting an undertaking under the enactment concerned which varies or supersedes an undertaking under that enactment); or
-- (b) revoke any order under section 70C, 75[^key-8daf29c890ccdb59e96091987268de41], 83 or 84 or paragraph 5, 10 or 11 of Schedule 7 (other than in connection with making an order under the enactment concerned which varies or supersedes an order under that enactment).
+- (b) revoke any order under section 70C, 75[^c-8daf29c890ccdb59e96091987268de41], 83 or 84 or paragraph 5, 10 or 11 of Schedule 7 (other than in connection with making an order under the enactment concerned which varies or supersedes an order under that enactment).
 
 **7.** (1) Before releasing an undertaking to which this paragraph applies or (as the case may be) revoking an order to which this paragraph applies, the relevant authority shall—
 
@@ -133,12 +133,12 @@ The relevant authority may dispense with any or all of the requirements of this 
 
 [^c19211691]: Modification: Sch. 10 applied (with modifications) (20.6.2003) by [The Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 (S.I. 2003/1592)](https://www.legislation.gov.uk/uksi/2003/1592), [art. 15](https://www.legislation.gov.uk/uksi/2003/1592/article/15), [Sch. 3 para. 2(1)(b)(3)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/3/paragraph/2/1/b/3)
 
-[^key-6840196a2a79dfbccc9fe70cb861aff7]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/2002/40/schedule/10) amendment to earlier affecting provision S.I. 2003/1592, art. 15, Sch. 3 para. 2 (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(18)](https://www.legislation.gov.uk/uksi/2014/891/article/18/18) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-6840196a2a79dfbccc9fe70cb861aff7]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/2002/40/schedule/10) amendment to earlier affecting provision S.I. 2003/1592, art. 15, Sch. 3 para. 2 (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(18)](https://www.legislation.gov.uk/uksi/2014/891/article/18/18) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-ec79a705a9cb3ff2f33c96a3aa282df8]: Modification: [Sch. 10](https://www.legislation.gov.uk/ukpga/2002/40/schedule/10) modified by S.I. 2004/3202, reg. 36 (as inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [21](https://www.legislation.gov.uk/uksi/2015/1936/regulation/21))
+[^c-ec79a705a9cb3ff2f33c96a3aa282df8]: Modification: [Sch. 10](https://www.legislation.gov.uk/ukpga/2002/40/schedule/10) modified by S.I. 2004/3202, reg. 36 (as inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [21](https://www.legislation.gov.uk/uksi/2015/1936/regulation/21))
 
-[^key-7adb2365a322a89a94a5b8d46b19dadb]: Textual amendment: Words in [Sch. 10 para. 1(b)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/10/paragraph/1/b) substituted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 4(14)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/4/14/a) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
+[^c-7adb2365a322a89a94a5b8d46b19dadb]: Textual amendment: Words in [Sch. 10 para. 1(b)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/10/paragraph/1/b) substituted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 4(14)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/4/14/a) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
 
-[^key-c7c4616e02c91a0b4f105eb638d2b028]: Textual amendment: Words in Sch. 10 para. 2(1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 162](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/162) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-c7c4616e02c91a0b4f105eb638d2b028]: Textual amendment: Words in Sch. 10 para. 2(1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 162](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/162) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-8daf29c890ccdb59e96091987268de41]: Textual amendment: Words in [Sch. 10 para. 6(b)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/10/paragraph/6/b) substituted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 4(14)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/4/14/b) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
+[^c-8daf29c890ccdb59e96091987268de41]: Textual amendment: Words in [Sch. 10 para. 6(b)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/10/paragraph/6/b) substituted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 4(14)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/4/14/b) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))

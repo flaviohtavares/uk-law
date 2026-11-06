@@ -53,8 +53,8 @@ And so much of amount E as remains after making those reductions is to be taken 
 
 (5) In this section references to the relevant amount (if any) which the company carries forward under Schedule 19B to ICTA are to the amount (if any) in its mixed pool for the purposes of Part 3 of Schedule 19B to ICTA immediately before 1 January 2006.
 
-(6)[^key-c2386cdabc5f996304cf9ba7fe40efa9] This section is subject to section 318A (adjustment of pool to remove pre-2013 expenditure after the initial 6 periods).
+(6)[^c-c2386cdabc5f996304cf9ba7fe40efa9] This section is subject to section 318A (adjustment of pool to remove pre-2013 expenditure after the initial 6 periods).
 
 ## Annotations
 
-[^key-c2386cdabc5f996304cf9ba7fe40efa9]: Textual amendment: S. 316(6) inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/5)
+[^c-c2386cdabc5f996304cf9ba7fe40efa9]: Textual amendment: S. 316(6) inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/5)

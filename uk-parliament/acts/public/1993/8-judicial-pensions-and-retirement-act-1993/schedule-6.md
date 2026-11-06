@@ -24,11 +24,11 @@ Section 26.
 
 ### The Judicial Committee of the Privy Council
 
-**1.**[^key-aa5d9fe1df06baede9db5016ab445b30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aa5d9fe1df06baede9db5016ab445b30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Lords of Appeal
 
-**2.**[^key-33b623bbb4a281c6b73269617262e7a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-33b623bbb4a281c6b73269617262e7a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Lords of Appeal in Ordinary and senior judges in Scotland and Northern Ireland
 
@@ -60,7 +60,7 @@ Section 26.
 
 *Extent: S*
 
-**6.**[^key-a87b848018ea1e15a3d7ecb700cdedc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a87b848018ea1e15a3d7ecb700cdedc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Acting judges of the High Court or Court of Appeal in Northern Ireland
 
@@ -104,13 +104,13 @@ Section 26.
 
 *Extent: S*
 
-**10.**[^key-b7855b745e01d314a38104c29f89413c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b7855b745e01d314a38104c29f89413c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Temporary sheriffs
 
 *Extent: S*
 
-**11.**[^key-e9f70902d5ec2afa544d36e49fceac0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e9f70902d5ec2afa544d36e49fceac0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### County Court Judge in Northern Ireland
 
@@ -153,7 +153,7 @@ Section 26.
 
 *Extent: E+W*
 
-**15.**[^key-ddf4187f99bcf655b4e0e9ee3afed859] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-ddf4187f99bcf655b4e0e9ee3afed859] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Deputy district judges of district registries of the High Court
 
@@ -259,19 +259,19 @@ Section 26.
 
 *Extent: E+W*
 
-**27.**[^key-6aadba7f878cda7259a1196c5f67d497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-6aadba7f878cda7259a1196c5f67d497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### President, Vice-President and chairmen of industrial tribunals and of the Fair Employment Tribunal
 
 *Extent: N.I.*
 
-**28.**[^key-6aadba7f878cda7259a1196c5f67d497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-6aadba7f878cda7259a1196c5f67d497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### President of the Industrial Court in Northern Ireland
 
 *Extent: N.I.*
 
-**29.**[^key-6aadba7f878cda7259a1196c5f67d497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-6aadba7f878cda7259a1196c5f67d497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Members of the Employment Appeal Tribunal
 
@@ -301,7 +301,7 @@ Section 26.
 
 *Extent: E+W+S*
 
-**33.**[^key-17bf54bf8a445f06952ae1c1c86683d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-17bf54bf8a445f06952ae1c1c86683d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Judge Advocate General and related offices
 
@@ -319,7 +319,7 @@ Section 26.
 
 ### Special, and deputy Special, Commissioners for Income Tax
 
-**36.**[^key-dbf0f9ff8b2211436ff6ffcea4105721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-dbf0f9ff8b2211436ff6ffcea4105721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### President or other member of the Immigration Appeal Tribunal
 
@@ -367,11 +367,11 @@ Section 26.
 
 ### Restrictive Practices Court
 
-**43.**[^key-1b50ba2c74b3050999fb1a3fc2dffd20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-1b50ba2c74b3050999fb1a3fc2dffd20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tribunals constituted under section 706 of the Income and Corporation Taxes Act 1988
 
-**44.**[^key-201241de46840eb6b642931d4e44277b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-201241de46840eb6b642931d4e44277b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Arbitrator appointed under the Agricultural Holdings Act 1986
 
@@ -402,7 +402,7 @@ Section 26.
 
 ### The Aircraft and Shipbuilding Industries Arbitration Tribunal
 
-**47.**[^key-36024e47eb298ce9a5e964c804a3b122] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-36024e47eb298ce9a5e964c804a3b122] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Chairman of a tribunal established by section 29 of the Betting, Gaming and Lotteries Act 1963
 
@@ -442,7 +442,7 @@ Section 26.
 
 *Extent: E+W+S*
 
-**53.**[^key-f8c4ffefa3b67202aba2dc7edb3c1810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-f8c4ffefa3b67202aba2dc7edb3c1810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Chairman of the Plant Varieties and Seeds Tribunal
 
@@ -452,7 +452,7 @@ Section 26.
 
 *Extent: E+W*
 
-**55.**[^key-3e3d99c090d01bf69eaee8bc5fcb35d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55.**[^c-3e3d99c090d01bf69eaee8bc5fcb35d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Rent Assessment Committees
 
@@ -493,11 +493,11 @@ Section 26.
 
 *Extent: E+W+S*
 
-**61.**[^key-b17551553a089a734ce4d0b50199661f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-b17551553a089a734ce4d0b50199661f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Courts of inquiry under section 52 of the Merchant Shipping Act 1970
 
-**62.**[^key-e8ae6b5031fa465538229471c55470bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-e8ae6b5031fa465538229471c55470bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Chairman of a vaccine damage tribunal in Northern Ireland
 
@@ -531,15 +531,15 @@ Section 26.
 
 ## Annotations
 
-[^key-aa5d9fe1df06baede9db5016ab445b30]: Textual amendment: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/1) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-aa5d9fe1df06baede9db5016ab445b30]: Textual amendment: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/1) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
-[^key-33b623bbb4a281c6b73269617262e7a6]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/2) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-33b623bbb4a281c6b73269617262e7a6]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/2) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
 [^c13966321]: Marginal citation: [1959 c. 9](https://www.legislation.gov.uk/ukpga/1959/9).
 
 [^c13966331]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
-[^key-a87b848018ea1e15a3d7ecb700cdedc6]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/6) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-a87b848018ea1e15a3d7ecb700cdedc6]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/6) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
 [^c13966351]: Marginal citation: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23).
 
@@ -547,9 +547,9 @@ Section 26.
 
 [^c13966371]: Marginal citation: [1971 c. 23](https://www.legislation.gov.uk/ukpga/1971/23).
 
-[^key-b7855b745e01d314a38104c29f89413c]: Textual amendment: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/10) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-b7855b745e01d314a38104c29f89413c]: Textual amendment: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/10) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
-[^key-e9f70902d5ec2afa544d36e49fceac0e]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/11) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-e9f70902d5ec2afa544d36e49fceac0e]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/11) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
 [^c13966391]: Marginal citation: [1959 c. 25 (N.I.)](https://www.legislation.gov.uk/apni/1959/25).
 
@@ -557,7 +557,7 @@ Section 26.
 
 [^c20875161]: Textual amendment: [Sch. 6 para. 14(5)(7)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/14/5/7) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
-[^key-ddf4187f99bcf655b4e0e9ee3afed859]: Textual amendment: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/15) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-ddf4187f99bcf655b4e0e9ee3afed859]: Textual amendment: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/15) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
 [^c13966421]: Marginal citation: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28).
 
@@ -583,7 +583,7 @@ Section 26.
 
 [^c13966561]: Textual amendment: Words in cross heading substituted (1.8.1998) by [1998 c.8](https://www.legislation.gov.uk/ukpga/1998/8), ss, 1(2)(b), 16; [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1)
 
-[^key-6aadba7f878cda7259a1196c5f67d497]: Textual amendment: [Sch. 6 paras. 27-29](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/27) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-6aadba7f878cda7259a1196c5f67d497]: Textual amendment: [Sch. 6 paras. 27-29](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/27) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
 [^c13966711]: Textual amendment: [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/30) repealed (22.8.1996) by [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17), [ss. 45](https://www.legislation.gov.uk/ukpga/1996/17/section/45), [46](https://www.legislation.gov.uk/ukpga/1996/17/section/46), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/17/schedule/3/part/I) (with [s. 38](https://www.legislation.gov.uk/ukpga/1996/17/section/38))
 
@@ -591,11 +591,11 @@ Section 26.
 
 [^c13966731]: Marginal citation: [1964 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1964/29).
 
-[^key-17bf54bf8a445f06952ae1c1c86683d1]: Textual amendment: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/33) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-17bf54bf8a445f06952ae1c1c86683d1]: Textual amendment: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/33) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
 [^c13966761]: Textual amendment: [Sch. 6 para. 35](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/35) repealed (1.9.1994 with effect as mentioned in s. 100(1) of the repealing Act) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [s. 100(2)](https://www.legislation.gov.uk/ukpga/1994/23/section/100/2), [Sch. 15](https://www.legislation.gov.uk/ukpga/1994/23/schedule/15)
 
-[^key-dbf0f9ff8b2211436ff6ffcea4105721]: Textual amendment: [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/36) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-dbf0f9ff8b2211436ff6ffcea4105721]: Textual amendment: [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/36) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
 [^c13966791]: Textual amendment: [Sch. 6 para. 37](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/37) repealed (14.2.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1/3), [Sch. 14 para. 98(1)(4)](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/98/1/4), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 2](https://www.legislation.gov.uk/uksi/2000/168/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/168/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2000/168/article/3))
 
@@ -609,15 +609,15 @@ Section 26.
 
 [^c13966851]: Marginal citation: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
 
-[^key-1b50ba2c74b3050999fb1a3fc2dffd20]: Textual amendment: [Sch. 6 para. 43](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/43) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-1b50ba2c74b3050999fb1a3fc2dffd20]: Textual amendment: [Sch. 6 para. 43](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/43) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
-[^key-201241de46840eb6b642931d4e44277b]: Textual amendment: [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/44) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-201241de46840eb6b642931d4e44277b]: Textual amendment: [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/44) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
 [^c20875721]: Textual amendment: [Sch. 6 para. 45](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/45) repealed (19.10.2006) by [The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [art. 18](https://www.legislation.gov.uk/uksi/2006/2805/article/18), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
 [^c13966891]: Marginal citation: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
 
-[^key-36024e47eb298ce9a5e964c804a3b122]: Textual amendment: [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/47) omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of the Aircraft and Shipbuilding Industries Arbitration Tribunal) Order 2013 (S.I. 2013/686)](https://www.legislation.gov.uk/uksi/2013/686), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/686/article/1/2), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/uksi/2013/686/schedule/1/paragraph/6/3)
+[^c-36024e47eb298ce9a5e964c804a3b122]: Textual amendment: [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/47) omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of the Aircraft and Shipbuilding Industries Arbitration Tribunal) Order 2013 (S.I. 2013/686)](https://www.legislation.gov.uk/uksi/2013/686), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/686/article/1/2), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/uksi/2013/686/schedule/1/paragraph/6/3)
 
 [^c13966911]: Marginal citation: [1963 c. 2](https://www.legislation.gov.uk/ukpga/1963/2).
 
@@ -631,11 +631,11 @@ Section 26.
 
 [^c13966981]: Marginal citation: [1975 c. 68](https://www.legislation.gov.uk/ukpga/1975/68).
 
-[^key-f8c4ffefa3b67202aba2dc7edb3c1810]: Textual amendment: [Sch. 6 para. 53](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/53) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-f8c4ffefa3b67202aba2dc7edb3c1810]: Textual amendment: [Sch. 6 para. 53](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/53) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
 [^c13967021]: Textual amendment: [Sch. 6 para. 54](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/54) repealed (8.5.1998) by [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66), [s. 52](https://www.legislation.gov.uk/ukpga/1997/66/section/52), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/66/schedule/4); [S.I](https://www.legislation.gov.uk/ukpga/1993/8/section/I) 1998/1028, art. 2
 
-[^key-3e3d99c090d01bf69eaee8bc5fcb35d1]: Textual amendment: [Sch. 6 para. 55](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/55) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-3e3d99c090d01bf69eaee8bc5fcb35d1]: Textual amendment: [Sch. 6 para. 55](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/55) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
 [^c13967061]: Marginal citation: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42).
 
@@ -647,9 +647,9 @@ Section 26.
 
 [^c13967111]: Marginal citation: [1985 c. 17](https://www.legislation.gov.uk/ukpga/1985/17).
 
-[^key-b17551553a089a734ce4d0b50199661f]: Textual amendment: [Sch. 6 para. 61](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/61) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-b17551553a089a734ce4d0b50199661f]: Textual amendment: [Sch. 6 para. 61](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/61) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
-[^key-e8ae6b5031fa465538229471c55470bf]: Textual amendment: [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/62) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
+[^c-e8ae6b5031fa465538229471c55470bf]: Textual amendment: [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/62) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/48/3)
 
 [^c13967161]: Textual amendment: [Sch. 6 para. 63](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/63) repealed (29.11.1999 except for specified purposes) by [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506), [art. 78(2)](https://www.legislation.gov.uk/nisi/1998/1506/article/78/2), [Sch. 7](https://www.legislation.gov.uk/nisi/1998/1506/schedule/7); [S.R. 1999/472](https://www.legislation.gov.uk/nisr/1999/472), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/nisr/1999/472/article/2/1/a/2), [Sch. 1](https://www.legislation.gov.uk/nisr/1999/472/schedule/1) (subject to transitional provisions in [arts. 20-22](https://www.legislation.gov.uk/nisr/1999/472/article/20))
 

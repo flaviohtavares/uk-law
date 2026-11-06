@@ -35,50 +35,50 @@ on the data to be provided for 2020 under Regulation (EU) 2018/1091 of the Europ
 
 (Text with EEA relevance) (revoked)
 
-[^key-df7600574c261bd2775b07d71239a024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df7600574c261bd2775b07d71239a024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-df7600574c261bd2775b07d71239a024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-df7600574c261bd2775b07d71239a024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-df7600574c261bd2775b07d71239a024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-df7600574c261bd2775b07d71239a024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df7600574c261bd2775b07d71239a024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df7600574c261bd2775b07d71239a024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Description of the variables to be used for the core structural data and the frame extension as specified in Annex III to Regulation (EU) 2018/1091[^key-df7600574c261bd2775b07d71239a024]
+## ANNEX I — Description of the variables to be used for the core structural data and the frame extension as specified in Annex III to Regulation (EU) 2018/1091[^c-df7600574c261bd2775b07d71239a024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — List of variables per module[^key-df7600574c261bd2775b07d71239a024]
+## ANNEX II — List of variables per module[^c-df7600574c261bd2775b07d71239a024]
 
-[^key-df7600574c261bd2775b07d71239a024]**MODULE 1. LABOUR FORCE AND OTHER GAINFUL ACTIVITIES**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-df7600574c261bd2775b07d71239a024]**MODULE 2. RURAL DEVELOPMENT**
+[^c-df7600574c261bd2775b07d71239a024]**MODULE 1. LABOUR FORCE AND OTHER GAINFUL ACTIVITIES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df7600574c261bd2775b07d71239a024]**MODULE 3. ANIMAL HOUSING AND MANURE MANAGEMENT**
+[^c-df7600574c261bd2775b07d71239a024]**MODULE 2. RURAL DEVELOPMENT**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Description of the variables to be used for the farm data modules as specified in the Annex II to this Implementation Regulation[^key-df7600574c261bd2775b07d71239a024]
-
-[^key-df7600574c261bd2775b07d71239a024]**MODULE 1. LABOUR FORCE AND OTHER GAINFUL ACTIVITIES**
+[^c-df7600574c261bd2775b07d71239a024]**MODULE 3. ANIMAL HOUSING AND MANURE MANAGEMENT**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df7600574c261bd2775b07d71239a024]**MODULE 2. RURAL DEVELOPMENT**
+## ANNEX III — Description of the variables to be used for the farm data modules as specified in the Annex II to this Implementation Regulation[^c-df7600574c261bd2775b07d71239a024]
+
+[^c-df7600574c261bd2775b07d71239a024]**MODULE 1. LABOUR FORCE AND OTHER GAINFUL ACTIVITIES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df7600574c261bd2775b07d71239a024]**MODULE 3. ANIMAL HOUSING AND MANURE MANAGEMENT**
+[^c-df7600574c261bd2775b07d71239a024]**MODULE 2. RURAL DEVELOPMENT**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-df7600574c261bd2775b07d71239a024]**MODULE 3. ANIMAL HOUSING AND MANURE MANAGEMENT**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df7600574c261bd2775b07d71239a024]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 99](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/99)
+[^c-df7600574c261bd2775b07d71239a024]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 99](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/99)

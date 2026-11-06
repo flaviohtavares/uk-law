@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Public consultation requirements[^key-ddc2d9e663b762343e60a31fc419bbfa][^key-1bca5f15b1443d1377bd1b66fbdd1d0f]
+## 36. Public consultation requirements[^c-ddc2d9e663b762343e60a31fc419bbfa][^c-1bca5f15b1443d1377bd1b66fbdd1d0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ddc2d9e663b762343e60a31fc419bbfa]: Commencement: S. 36 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ddc2d9e663b762343e60a31fc419bbfa]: Commencement: S. 36 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1bca5f15b1443d1377bd1b66fbdd1d0f]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/29/section/36) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(z)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/z)
+[^c-1bca5f15b1443d1377bd1b66fbdd1d0f]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/29/section/36) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(z)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/z)

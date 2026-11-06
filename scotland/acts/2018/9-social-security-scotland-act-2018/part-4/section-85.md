@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Information-sharing[^key-ecc960baa010573425868c9bb735262f]
+## 85. Information-sharing[^c-ecc960baa010573425868c9bb735262f]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecc960baa010573425868c9bb735262f]: Commencement: S. 85 in force at 3.9.2018 by [S.S.I. 2018/250](https://www.legislation.gov.uk/ssi/2018/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3))
+[^c-ecc960baa010573425868c9bb735262f]: Commencement: S. 85 in force at 3.9.2018 by [S.S.I. 2018/250](https://www.legislation.gov.uk/ssi/2018/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Duration of infrastructure consent order[^key-b187a8d23c1e3a04e5c7f5b28a651613][^key-bef7c189eae889c8ba312913b2549408]
+## 94. Duration of infrastructure consent order[^c-b187a8d23c1e3a04e5c7f5b28a651613][^c-bef7c189eae889c8ba312913b2549408]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b187a8d23c1e3a04e5c7f5b28a651613]: Commencement: S. 94 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-b187a8d23c1e3a04e5c7f5b28a651613]: Commencement: S. 94 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-bef7c189eae889c8ba312913b2549408]: Commencement: [S. 94](https://www.legislation.gov.uk/asc/2024/3/section/94) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(f)](https://www.legislation.gov.uk/wsi/2025/698/article/3/f)
+[^c-bef7c189eae889c8ba312913b2549408]: Commencement: [S. 94](https://www.legislation.gov.uk/asc/2024/3/section/94) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(f)](https://www.legislation.gov.uk/wsi/2025/698/article/3/f)

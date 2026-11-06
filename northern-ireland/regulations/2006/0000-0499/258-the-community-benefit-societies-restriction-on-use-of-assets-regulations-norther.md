@@ -45,11 +45,11 @@ The Department of Enterprise, Trade and Investment, in exercise of the powers co
 
 ## PART I — CITATION, COMMENCEMENT AND INTERPRETATION
 
-### 1. Citation and commencement[^key-1829563b6a6ba71e187393a066974919]
+### 1. Citation and commencement[^c-1829563b6a6ba71e187393a066974919]
 
 These Regulations may be cited as the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006 and come into operation on 31st July 2006.
 
-### 2. Interpretation[^key-e918c6740f66e53190eb75ab650552a9]
+### 2. Interpretation[^c-e918c6740f66e53190eb75ab650552a9]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00002] applies to these Regulations as it applies to an Act of the Assembly.
 
@@ -57,10 +57,10 @@ These Regulations may be cited as the Community Benefit Societies (Restriction o
 
 - “the 2006 Order” means the Industrial and Provident Societies (Northern Ireland) Order 2006;
 - “the 1969 Act” means the Industrial and Provident Societies Act (Northern Ireland) 1969[^f00003];
-- “the Registrar” means the Financial Conduct Authority;[^key-75d6bc18c013e97611802b175383f13d]
+- “the Registrar” means the Financial Conduct Authority;[^c-75d6bc18c013e97611802b175383f13d]
 - “charity” has the meaning given by section 35 of the Charities Act (Northern Ireland) 1964[^f00004];
 - “committee” and “officer” have the meaning given by section 101 of the 1969 Act;
-- “community interest company” has the meaning given by section 26 of the Companies (Audit, Investigations and Community Enterprise) Act 2004[^key-7fb47bf740056878142063fcb88de625]
+- “community interest company” has the meaning given by section 26 of the Companies (Audit, Investigations and Community Enterprise) Act 2004[^c-7fb47bf740056878142063fcb88de625]
 - “community benefit society” has the meaning given by Article 9(8) of the 2006 Order;
 - “prescribed community benefit society” means a community benefit society of the kinds prescribed by regulation 5;
 - “registered housing association” means a housing association registered in the register maintained by the Department of the Environment under Article 14 of the Housing (Northern Ireland) Order 1992[^f00005];
@@ -68,11 +68,11 @@ These Regulations may be cited as the Community Benefit Societies (Restriction o
 
 ## PART II — RESTRICTION ON USE OF ASSETS
 
-### 3. Effect of restriction on use of assets[^key-5a046842ffee7d76d715aca2cc024553]
+### 3. Effect of restriction on use of assets[^c-5a046842ffee7d76d715aca2cc024553]
 
 A prescribed community benefit society which has a restriction on use may not use or deal with its assets except in a case mentioned in Article 9(2) of the 2006 Order
 
-### 4. Procedure for imposition of restriction on use[^key-5f7d21f8094f7c545e7c70eb33f5729f]
+### 4. Procedure for imposition of restriction on use[^c-5f7d21f8094f7c545e7c70eb33f5729f]
 
 (1) A restriction on use may be included in the rules of a prescribed community benefit society at the time when it is registered under the 1969 Act or may be adopted by the society in accordance with paragraph (2).
 
@@ -80,7 +80,7 @@ A prescribed community benefit society which has a restriction on use may not us
 
 ## PART III — PRESCRIBED SOCIETIES, CIRCUMSTANCES ETC.
 
-### 5. Prescribed community benefit societies[^key-b557abed452b07f6d96cf64899d3677d]
+### 5. Prescribed community benefit societies[^c-b557abed452b07f6d96cf64899d3677d]
 
 All kinds of community benefit societies except—
 
@@ -89,7 +89,7 @@ All kinds of community benefit societies except—
 
 are prescribed pursuant to Article 9(1) of the 2006 Order.
 
-### 6. Prescribed circumstances[^key-bb23f0bc37bef6800683ee470d2edb56]
+### 6. Prescribed circumstances[^c-bb23f0bc37bef6800683ee470d2edb56]
 
 The following circumstances are prescribed pursuant to Article 9(2)(b) of the 2006 Order—
 
@@ -100,28 +100,28 @@ The following circumstances are prescribed pursuant to Article 9(2)(b) of the 20
   - (iv) where the society is to be dissolved in accordance with section 64 of the 1969 Act (dissolution of registered society) or wound up under the Insolvency (Northern Ireland) Order 1989[^f00006], paying its creditors; and
 - (b) the transfer of a society’s assets to—
   - (i) a prescribed community benefit society which has a restriction on use and which will apply that restriction to any assets so transferred;
-  - (aa)[^key-bf302cbfe02bc1c729b8144014a5221d] a community interest company;
+  - (aa)[^c-bf302cbfe02bc1c729b8144014a5221d] a community interest company;
   - (ii) a registered housing association which has a restriction on the use of its assets which is equivalent to a restriction on use and which will apply that restriction to any assets so transferred;
   - (iii) a charity (including a community benefit society that is a charity); or
   - (iv) a body, established in England and Wales, Scotland or a State other than the United Kingdom, that is equivalent to any of those persons.
 
-### 7. Prescribed rules[^key-6f099396fbc8fbeef170bb1f1bd95ce8]
+### 7. Prescribed rules[^c-6f099396fbc8fbeef170bb1f1bd95ce8]
 
 A restriction on use is prescribed as unalterable pursuant to Article 9(4)(b) of the 2006 Order.
 
 ## PART IV — ENFORCEMENT MEASURES
 
-### 8. Condition for exercise of enforcement measures[^key-575276aa62205401efad6712374c1480]
+### 8. Condition for exercise of enforcement measures[^c-575276aa62205401efad6712374c1480]
 
 In deciding whether and how to exercise the powers conferred by regulations 9, 10 and 11, the Registrar must adopt an approach which is based on the principle that those powers should be exercised only to the extent necessary to maintain confidence in community benefit societies.
 
-### 9. Enforcement notification[^key-9372bf639c2f54cc8b525e377b4373ed]
+### 9. Enforcement notification[^c-9372bf639c2f54cc8b525e377b4373ed]
 
-(1) If the Registrar considers that a prescribed community benefit society is contravening or has contravened regulation 3, the Registrar[^key-b4d24d69db075d8018c0e0cc9fd30b23] may issue an enforcement notification.
+(1) If the Registrar considers that a prescribed community benefit society is contravening or has contravened regulation 3, the Registrar[^c-b4d24d69db075d8018c0e0cc9fd30b23] may issue an enforcement notification.
 
 (2) An enforcement notification is a notification which imposes requirements on a society to take all such steps as may be necessary for securing that a contravention is brought to an end or is not repeated.
 
-### 10. Restitution[^key-6ffe39cdaf7665438599a0270accd154]
+### 10. Restitution[^c-6ffe39cdaf7665438599a0270accd154]
 
 (1) If the Registrar considers that—
 
@@ -133,17 +133,17 @@ the Registrar may require the officer concerned, in accordance with such arrange
 
 (2) If all or any of the amount payable by the officer is outstanding at the end of the period within which payment is required to be made, the society may recover the outstanding amount as a debt due to it.
 
-(3) The Registrar may not exercise the power in paragraph (1) if the Registrar[^key-e91d2e24db3af598580bfe18378256b3] considers, having taken into account any representations made to it[^key-439ffafb032e12108c41d3635fd386e9] in response to a warning notice, that the officer concerned took all reasonable steps to secure that the society did not contravene regulation 3.
+(3) The Registrar may not exercise the power in paragraph (1) if the Registrar[^c-e91d2e24db3af598580bfe18378256b3] considers, having taken into account any representations made to it[^c-439ffafb032e12108c41d3635fd386e9] in response to a warning notice, that the officer concerned took all reasonable steps to secure that the society did not contravene regulation 3.
 
-### 11. Removal of officers[^key-1ce3433933e4b92cbbb107a2c68ccc31]
+### 11. Removal of officers[^c-1ce3433933e4b92cbbb107a2c68ccc31]
 
 (1) If the Registrar considers that a prescribed community benefit society has contravened regulation 3 and that an officer of the society has been knowingly concerned in the contravention, the Registrar may direct the society to remove the officer from his office or position.
 
-(2) The Registrar may not exercise the power in paragraph (1) if the Registrar[^key-edc6c545df84df79f6103e7b5fa19992] considers, having taken into account any representations made to it[^key-3bfc4be0f0195a50cd18a7fdf3d9e72d] in response to a warning notice, that the officer concerned took all reasonable steps to secure that the society did not contravene regulation 3.
+(2) The Registrar may not exercise the power in paragraph (1) if the Registrar[^c-edc6c545df84df79f6103e7b5fa19992] considers, having taken into account any representations made to it[^c-3bfc4be0f0195a50cd18a7fdf3d9e72d] in response to a warning notice, that the officer concerned took all reasonable steps to secure that the society did not contravene regulation 3.
 
-### 12. Warning notice[^key-967a26c3ee14869e4f252fc4248f2569]
+### 12. Warning notice[^c-967a26c3ee14869e4f252fc4248f2569]
 
-(1) If the Registrar proposes to exercise a power conferred by regulation 9, 10 or 11, the Registrar[^key-5fb0ec11c1ccaaf07098b68dd50edf86] must give a warning notice to the society and any officer in relation to whom the power is to be exercised.
+(1) If the Registrar proposes to exercise a power conferred by regulation 9, 10 or 11, the Registrar[^c-5fb0ec11c1ccaaf07098b68dd50edf86] must give a warning notice to the society and any officer in relation to whom the power is to be exercised.
 
 (2) A warning notice must—
 
@@ -157,9 +157,9 @@ the Registrar may require the officer concerned, in accordance with such arrange
 
 (5) The Registrar must then decide, within a reasonable period, whether to exercise the power concerned.
 
-### 13. Decision notice[^key-c39a2582b8fc151b7ab9fe9d38b698ea]
+### 13. Decision notice[^c-c39a2582b8fc151b7ab9fe9d38b698ea]
 
-(1) If the Registrar decides to exercise a power conferred by regulation 9, 10 or 11, the Registrar[^key-cae6866d2560e0b378946d7efbfae6c3] must give a decision notice to the society and any officer in relation to whom the power is exercised.
+(1) If the Registrar decides to exercise a power conferred by regulation 9, 10 or 11, the Registrar[^c-cae6866d2560e0b378946d7efbfae6c3] must give a decision notice to the society and any officer in relation to whom the power is exercised.
 
 (2) A decision notice must—
 
@@ -170,7 +170,7 @@ the Registrar may require the officer concerned, in accordance with such arrange
 
 (3) Subject to regulation 14(4), a society which is subject to an enforcement notification or a direction for removal must comply with it.
 
-### 14. Appeal[^key-a0f6090226f63e632edd84296397e3ee]
+### 14. Appeal[^c-a0f6090226f63e632edd84296397e3ee]
 
 (1) If the Registrar decides to exercise a power conferred by regulation 9, 10 or 11, the society and any officer in relation to whom it is exercised may appeal to the High Court.
 
@@ -186,7 +186,7 @@ the Registrar may require the officer concerned, in accordance with such arrange
 - (a) during the period within which an appeal may be brought; and
 - (b) if the matter is the subject of an appeal, until the appeal has been finally disposed of.
 
-### 15. Court orders[^key-8d2b6b71db4ec0773aad654f5ac48a39]
+### 15. Court orders[^c-8d2b6b71db4ec0773aad654f5ac48a39]
 
 (1) If, on the application of the Registrar, the court is satisfied that—
 
@@ -208,7 +208,7 @@ the court may make an order requiring him to take such steps as the court may di
 
 ## PART V — MISCELLANEOUS AND SUPPLEMENTAL
 
-### 16. Service of notices and other documents[^key-5e8eb01650d9f36f94b4c98e2db9444b]
+### 16. Service of notices and other documents[^c-5e8eb01650d9f36f94b4c98e2db9444b]
 
 (1) This regulation applies where under these Regulations a notice is to be given to any person.
 
@@ -226,7 +226,7 @@ the court may make an order requiring him to take such steps as the court may di
 - (a) in the case of a body corporate, the address of the registered office of the body; and
 - (b) in any other case, the last known address of the person in question.
 
-### 17. Application of the 1969 Act with modifications[^key-b1812ab58005f26da681e6d2ef6f75b6]
+### 17. Application of the 1969 Act with modifications[^c-b1812ab58005f26da681e6d2ef6f75b6]
 
 Schedule 2 (which applies the 1969 Act with modifications) has effect.
 
@@ -238,11 +238,11 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE 1 — RESTRICTION ON USE[^key-c68a2edab570dd1bd2e8de89da02c5bf]
+## SCHEDULE 1 — RESTRICTION ON USE[^c-c68a2edab570dd1bd2e8de89da02c5bf]
 
 Regulation 2
 
-[^key-c68a2edab570dd1bd2e8de89da02c5bf]
+[^c-c68a2edab570dd1bd2e8de89da02c5bf]
 
 The rule included in a prescribed community benefit society’s rules must be in the following terms—
 
@@ -261,7 +261,7 @@ The rule included in a prescribed community benefit society’s rules must be in
 > - (e) where the society is to be dissolved or wound up, to pay its creditors; or
 > - (f) to transfer its assets to one or more of the following—
 >   - (i) a prescribed community benefit society whose assets have been made subject to a restriction on use and which will apply that restriction to any assets so transferred;
->   - (aa)[^key-05b95eb1a7a532ce179eac2715a15a03] a community interest company;
+>   - (aa)[^c-05b95eb1a7a532ce179eac2715a15a03] a community interest company;
 >   - (ii) a registered housing association which has a restriction on the use of its assets which is equivalent to a restriction on use and which will apply that restriction to any assets so transferred;
 >   - (iii) a charity (including a community benefit society that is a charity); or
 >   - (iv) a body, established in England and Wales, Scotland or a State other than the United Kingdom, that is equivalent to any of those persons.
@@ -272,27 +272,27 @@ The rule included in a prescribed community benefit society’s rules must be in
 
 Regulation 17
 
-**1.**[^key-fa052c69db132a2e72ecd7d4a41f3724] (1) Subsection (3) of section 2[^f00007] (registration of society) shall, for the purposes of the registration of a prescribed community benefit society that has included in its rules a restriction on use, have effect as if, after “thereunder”, there were inserted “and the provisions of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006”.
+**1.**[^c-fa052c69db132a2e72ecd7d4a41f3724] (1) Subsection (3) of section 2[^f00007] (registration of society) shall, for the purposes of the registration of a prescribed community benefit society that has included in its rules a restriction on use, have effect as if, after “thereunder”, there were inserted “and the provisions of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006”.
 
 (2) Subsection (3) of section 9[^f00008] (amendment of registered rules) shall, for the purposes of an amendment made to the rules of a prescribed community benefit society in accordance with regulation 4(2), have effect as if, after “this Act” there were inserted “or the provisions of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006”.
 
-**2.**[^key-1f85f297db068bf652c37582ccd831bd] Section 15[^f00009] (cancellation of registration of society) shall apply to a prescribed community benefit society that has a restriction on use as if—
+**2.**[^c-1f85f297db068bf652c37582ccd831bd] Section 15[^f00009] (cancellation of registration of society) shall apply to a prescribed community benefit society that has a restriction on use as if—
 
 - (a) at the end of subsection (1)(c), there were inserted—
 
   > ; or
   >
-  > - (iv) it is proved to the Registrar’s[^key-6da8c375eb39ecce6d1371fdd50621b7] satisfaction that the society has contravened regulation 3 of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006
+  > - (iv) it is proved to the Registrar’s[^c-6da8c375eb39ecce6d1371fdd50621b7] satisfaction that the society has contravened regulation 3 of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006
 
   ; and
 - (b) in subsection (4), after “subsection (1)(c)(ii)” there were inserted “or (iv)”.
 
-**3.**[^key-7ed6987a4b856079918b352a2ab94622] Section 57[^f00010] (production of documents and provision of information for certain purposes) shall apply to a prescribed community benefit society that has a restriction on use and to an officer or former officer of such a society as if, in subsection (1)—
+**3.**[^c-7ed6987a4b856079918b352a2ab94622] Section 57[^f00010] (production of documents and provision of information for certain purposes) shall apply to a prescribed community benefit society that has a restriction on use and to an officer or former officer of such a society as if, in subsection (1)—
 
 - (a) after “section 15(1)(c)(ii)” there were inserted “or (iv)”; and
 - (b) after “or 65” there were inserted “, or regulation 9, 10 or 11 of the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006 or for the purposes of gathering evidence to enable the court to exercise its powers under regulation 15 of those Regulations”.
 
-**4.**[^key-3c1efcad8a8787c5fc497d2356aebbb6] Section 59 (amalgamation of societies) shall apply to a prescribed community benefit society that has a restriction on use as if—
+**4.**[^c-3c1efcad8a8787c5fc497d2356aebbb6] Section 59 (amalgamation of societies) shall apply to a prescribed community benefit society that has a restriction on use as if—
 
 - (a) at the beginning of subsection (1), for the word “Any” there were substituted “Subject to subsection (1A), any”; and
 - (b) after subsection (1), there were inserted—
@@ -306,7 +306,7 @@ Regulation 17
 
   .
 
-**5.**[^key-ea4279feeb90b01f4edd919616ca93bb] Section 60 (transfer of engagements between societies) shall apply to a prescribed community benefit society that has a restriction on use as if—
+**5.**[^c-ea4279feeb90b01f4edd919616ca93bb] Section 60 (transfer of engagements between societies) shall apply to a prescribed community benefit society that has a restriction on use as if—
 
 - (a) at the beginning of subsection (1), for the word “Any” there were substituted “Subject to subsection (1A), any”; and
 - (b) after subsection (1), there were inserted—
@@ -320,17 +320,17 @@ Regulation 17
 
   .
 
-**6.**[^key-25acaf74319a359ff52de4a07d9c0811] Section 61[^f00011] (conversion into, or transfer of engagements to, company) shall apply to a prescribed community benefit society that has a restriction on use as if, for subsection (1), there were substituted—
+**6.**[^c-25acaf74319a359ff52de4a07d9c0811] Section 61[^f00011] (conversion into, or transfer of engagements to, company) shall apply to a prescribed community benefit society that has a restriction on use as if, for subsection (1), there were substituted—
 
 > (1) A registered society may by special resolution determine to convert itself into, or transfer its engagements to—
 >
-> - (aa)[^key-f16ae5ec36183fae0efaf5550416fc6d] a community interest company;
+> - (aa)[^c-f16ae5ec36183fae0efaf5550416fc6d] a community interest company;
 > - (a) a company to be formed and registered under the Companies (Northern Ireland) Order 1986 that is a registered housing association (within the meaning in the Community Benefit Societies (Restriction on Use of Assets) Regulations (Northern Ireland) 2006); or
 > - (b) a company to be formed and registered under the Companies (Northern Ireland) Order 1986 that is a charity (within the meaning of those Regulations).
 
 .
 
-**7.**[^key-f4f4aa2ff1a4f02723e29b05b195fdf6] Section 68 (restriction on dissolution or cancellation of registration of society) shall apply to a prescribed community benefit society that has a restriction on use as if—
+**7.**[^c-f4f4aa2ff1a4f02723e29b05b195fdf6] Section 68 (restriction on dissolution or cancellation of registration of society) shall apply to a prescribed community benefit society that has a restriction on use as if—
 
 - (a) in subsection (1), after “persons entitled” there were inserted “and that any such conveyance or transfer complied with the society’s restriction on use”; and
 - (b) in subsection (2), at the end, there were added “and that any such conveyance or transfer complied with the society’s restriction on use”.
@@ -361,98 +361,98 @@ Consequential modifications to the application of the [Industrial and Provident 
 
 [^f00001]: Footnote: [S.I. 2006/314 (N.I. 3)](https://www.legislation.gov.uk/nisi/2006/314)
 
-[^key-1829563b6a6ba71e187393a066974919]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-1829563b6a6ba71e187393a066974919]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-e918c6740f66e53190eb75ab650552a9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/258/regulation/2) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-e918c6740f66e53190eb75ab650552a9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/258/regulation/2) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00003]: Footnote: [1969 C. 24](https://www.legislation.gov.uk/apni/1969/24)
 
-[^key-75d6bc18c013e97611802b175383f13d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/258/regulation/2/2) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-75d6bc18c013e97611802b175383f13d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/258/regulation/2/2) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
 [^f00004]: Footnote: [1964 C. 33](https://www.legislation.gov.uk/apni/1964/33)
 
-[^key-7fb47bf740056878142063fcb88de625]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/258/regulation/2/2) inserted (4.6.2007) by [The Community Benefit Societies (Restriction on Use of Assets) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/226)](https://www.legislation.gov.uk/nisr/2007/226), [regs. 1](https://www.legislation.gov.uk/nisr/2007/226/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2007/226/regulation/3/2)
+[^c-7fb47bf740056878142063fcb88de625]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/258/regulation/2/2) inserted (4.6.2007) by [The Community Benefit Societies (Restriction on Use of Assets) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/226)](https://www.legislation.gov.uk/nisr/2007/226), [regs. 1](https://www.legislation.gov.uk/nisr/2007/226/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2007/226/regulation/3/2)
 
 [^f00005]: Footnote: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725)
 
-[^key-5a046842ffee7d76d715aca2cc024553]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/258/regulation/3) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-5a046842ffee7d76d715aca2cc024553]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/258/regulation/3) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-5f7d21f8094f7c545e7c70eb33f5729f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/258/regulation/4) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-5f7d21f8094f7c545e7c70eb33f5729f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/258/regulation/4) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-b557abed452b07f6d96cf64899d3677d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/258/regulation/5) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-b557abed452b07f6d96cf64899d3677d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/258/regulation/5) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-bb23f0bc37bef6800683ee470d2edb56]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/258/regulation/6) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-bb23f0bc37bef6800683ee470d2edb56]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/258/regulation/6) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-bf302cbfe02bc1c729b8144014a5221d]: Textual amendment: [Reg. 6(b)(i)(aa)](https://www.legislation.gov.uk/nisr/2006/258/regulation/6/b/i/aa) inserted (4.6.2007) by [The Community Benefit Societies (Restriction on Use of Assets) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/226)](https://www.legislation.gov.uk/nisr/2007/226), [regs. 1](https://www.legislation.gov.uk/nisr/2007/226/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2007/226/regulation/3/3)
+[^c-bf302cbfe02bc1c729b8144014a5221d]: Textual amendment: [Reg. 6(b)(i)(aa)](https://www.legislation.gov.uk/nisr/2006/258/regulation/6/b/i/aa) inserted (4.6.2007) by [The Community Benefit Societies (Restriction on Use of Assets) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/226)](https://www.legislation.gov.uk/nisr/2007/226), [regs. 1](https://www.legislation.gov.uk/nisr/2007/226/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2007/226/regulation/3/3)
 
-[^key-6f099396fbc8fbeef170bb1f1bd95ce8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/258/regulation/7) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-6f099396fbc8fbeef170bb1f1bd95ce8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/258/regulation/7) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-575276aa62205401efad6712374c1480]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/258/regulation/8) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-575276aa62205401efad6712374c1480]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/258/regulation/8) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-9372bf639c2f54cc8b525e377b4373ed]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/258/regulation/9) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-9372bf639c2f54cc8b525e377b4373ed]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/258/regulation/9) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-b4d24d69db075d8018c0e0cc9fd30b23]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2006/258/regulation/9/1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(3)(a)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-b4d24d69db075d8018c0e0cc9fd30b23]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2006/258/regulation/9/1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(3)(a)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-6ffe39cdaf7665438599a0270accd154]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/258/regulation/10) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-6ffe39cdaf7665438599a0270accd154]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/258/regulation/10) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-e91d2e24db3af598580bfe18378256b3]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2006/258/regulation/10/3) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(3)(b)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/3/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-e91d2e24db3af598580bfe18378256b3]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2006/258/regulation/10/3) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(3)(b)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/3/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-439ffafb032e12108c41d3635fd386e9]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2006/258/regulation/10/3) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(4)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-439ffafb032e12108c41d3635fd386e9]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2006/258/regulation/10/3) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(4)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-1ce3433933e4b92cbbb107a2c68ccc31]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/258/regulation/11) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-1ce3433933e4b92cbbb107a2c68ccc31]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/258/regulation/11) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-edc6c545df84df79f6103e7b5fa19992]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/nisr/2006/258/regulation/11/2) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(3)(c)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/3/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-edc6c545df84df79f6103e7b5fa19992]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/nisr/2006/258/regulation/11/2) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(3)(c)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/3/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-3bfc4be0f0195a50cd18a7fdf3d9e72d]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/nisr/2006/258/regulation/11/2) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(4)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-3bfc4be0f0195a50cd18a7fdf3d9e72d]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/nisr/2006/258/regulation/11/2) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(4)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-967a26c3ee14869e4f252fc4248f2569]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/258/regulation/12) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-967a26c3ee14869e4f252fc4248f2569]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/258/regulation/12) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-5fb0ec11c1ccaaf07098b68dd50edf86]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2006/258/regulation/12/1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(3)(d)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/3/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-5fb0ec11c1ccaaf07098b68dd50edf86]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2006/258/regulation/12/1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(3)(d)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/3/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-c39a2582b8fc151b7ab9fe9d38b698ea]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/258/regulation/13) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-c39a2582b8fc151b7ab9fe9d38b698ea]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/258/regulation/13) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-cae6866d2560e0b378946d7efbfae6c3]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2006/258/regulation/13/1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(3)(e)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/3/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-cae6866d2560e0b378946d7efbfae6c3]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2006/258/regulation/13/1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(3)(e)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/3/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-a0f6090226f63e632edd84296397e3ee]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/258/regulation/14) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-a0f6090226f63e632edd84296397e3ee]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/258/regulation/14) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-8d2b6b71db4ec0773aad654f5ac48a39]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/258/regulation/15) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-8d2b6b71db4ec0773aad654f5ac48a39]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/258/regulation/15) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-5e8eb01650d9f36f94b4c98e2db9444b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/258/regulation/16) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-5e8eb01650d9f36f94b4c98e2db9444b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/258/regulation/16) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-b1812ab58005f26da681e6d2ef6f75b6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/258/regulation/17) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-b1812ab58005f26da681e6d2ef6f75b6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/258/regulation/17) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-c68a2edab570dd1bd2e8de89da02c5bf]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/258/schedule/1) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-c68a2edab570dd1bd2e8de89da02c5bf]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/258/schedule/1) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-05b95eb1a7a532ce179eac2715a15a03]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/258/schedule/1) (f)(i)(aa) inserted (4.6.2007) by [The Community Benefit Societies (Restriction on Use of Assets) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/226)](https://www.legislation.gov.uk/nisr/2007/226), [regs. 1](https://www.legislation.gov.uk/nisr/2007/226/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2007/226/regulation/3/4)
+[^c-05b95eb1a7a532ce179eac2715a15a03]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/258/schedule/1) (f)(i)(aa) inserted (4.6.2007) by [The Community Benefit Societies (Restriction on Use of Assets) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/226)](https://www.legislation.gov.uk/nisr/2007/226), [regs. 1](https://www.legislation.gov.uk/nisr/2007/226/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2007/226/regulation/3/4)
 
-[^key-fa052c69db132a2e72ecd7d4a41f3724]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/1) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-fa052c69db132a2e72ecd7d4a41f3724]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/1) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
 [^f00007]: Footnote: Section 2 was amended by [S.I. 1997/2984 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2984)
 
 [^f00008]: Footnote: Section 9 was amended by [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725) and [S.I. 1997/2984 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2984)
 
-[^key-1f85f297db068bf652c37582ccd831bd]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/2) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-1f85f297db068bf652c37582ccd831bd]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/2) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
 [^f00009]: Footnote: Section 15 was amended by [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703) and [S.I. 1997/2984 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2984)
 
-[^key-6da8c375eb39ecce6d1371fdd50621b7]: Textual amendment: Words in [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/2/a) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(5)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-6da8c375eb39ecce6d1371fdd50621b7]: Textual amendment: Words in [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/2/a) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 8(5)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/8/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-7ed6987a4b856079918b352a2ab94622]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/3) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-7ed6987a4b856079918b352a2ab94622]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/3) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
 [^f00010]: Footnote: Section 57 was amended by [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703)
 
-[^key-3c1efcad8a8787c5fc497d2356aebbb6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/4) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-3c1efcad8a8787c5fc497d2356aebbb6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/4) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-ea4279feeb90b01f4edd919616ca93bb]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/5) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-ea4279feeb90b01f4edd919616ca93bb]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/5) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
-[^key-25acaf74319a359ff52de4a07d9c0811]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/6) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-25acaf74319a359ff52de4a07d9c0811]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/6) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
 
 [^f00011]: Footnote: Section 61 amended by [S.I. 1986/1035 (N.I. 9)](https://www.legislation.gov.uk/nisi/1986/1035) and [S.I. 2006/314 (N.I. 3)](https://www.legislation.gov.uk/nisi/2006/314)
 
-[^key-f16ae5ec36183fae0efaf5550416fc6d]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/6) inserted (4.6.2007) by [The Community Benefit Societies (Restriction on Use of Assets) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/226)](https://www.legislation.gov.uk/nisr/2007/226), [regs. 1](https://www.legislation.gov.uk/nisr/2007/226/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2007/226/regulation/3/5)
+[^c-f16ae5ec36183fae0efaf5550416fc6d]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/6) inserted (4.6.2007) by [The Community Benefit Societies (Restriction on Use of Assets) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/226)](https://www.legislation.gov.uk/nisr/2007/226), [regs. 1](https://www.legislation.gov.uk/nisr/2007/226/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2007/226/regulation/3/5)
 
-[^key-f4f4aa2ff1a4f02723e29b05b195fdf6]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/7) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)
+[^c-f4f4aa2ff1a4f02723e29b05b195fdf6]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2006/258/schedule/2/paragraph/7) in operation at 31.7.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/258/regulation/1)

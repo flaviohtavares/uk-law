@@ -25,7 +25,7 @@ summary: ''
 (2) The cash equivalent is the difference between—
 
 - (a) the cost of provision, and
-- (b) any part of that cost made good by the employee—[^key-b1cff10794d29bdea465be5bef8a3c43]
+- (b) any part of that cost made good by the employee—[^c-b1cff10794d29bdea465be5bef8a3c43]
   - (i) to the person incurring it, and
   - (ii) on or before 6 July following the tax year which contains the occasion in question.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1cff10794d29bdea465be5bef8a3c43]: Textual amendment: Words in [s. 94(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/94/2/b) substituted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/4)
+[^c-b1cff10794d29bdea465be5bef8a3c43]: Textual amendment: Words in [s. 94(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/94/2/b) substituted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/4)

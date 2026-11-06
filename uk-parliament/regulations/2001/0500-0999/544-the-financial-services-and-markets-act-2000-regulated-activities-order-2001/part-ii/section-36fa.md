@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36FA. Activities carried on by registered social landlords[^key-917e11a6a8e91dc925bffd26983be793][^key-b52642df0c809f1aa295b3f79f2dbaea]
+## 36FA. Activities carried on by registered social landlords[^c-917e11a6a8e91dc925bffd26983be793][^c-b52642df0c809f1aa295b3f79f2dbaea]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-917e11a6a8e91dc925bffd26983be793]: Textual amendment: [Art. 36FA](https://www.legislation.gov.uk/uksi/2001/544/article/36FA) inserted (23.7.2019) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2019 (S.I. 2019/1067)](https://www.legislation.gov.uk/uksi/2019/1067), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1067/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/1067/article/2/2)
+[^c-917e11a6a8e91dc925bffd26983be793]: Textual amendment: [Art. 36FA](https://www.legislation.gov.uk/uksi/2001/544/article/36FA) inserted (23.7.2019) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2019 (S.I. 2019/1067)](https://www.legislation.gov.uk/uksi/2019/1067), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1067/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/1067/article/2/2)
 
-[^key-b52642df0c809f1aa295b3f79f2dbaea]: Textual amendment: Pt. II Ch. 6A, 6B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [4](https://www.legislation.gov.uk/uksi/2013/1881/article/4)
+[^c-b52642df0c809f1aa295b3f79f2dbaea]: Textual amendment: Pt. II Ch. 6A, 6B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [4](https://www.legislation.gov.uk/uksi/2013/1881/article/4)

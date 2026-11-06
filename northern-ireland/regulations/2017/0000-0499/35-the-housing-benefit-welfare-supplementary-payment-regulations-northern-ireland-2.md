@@ -48,7 +48,7 @@ In accordance with Article 137A(9) of that Order, a draft of these Regulations w
 
 In accordance with Article 137A(10) of that Order, the Department consulted the Northern Ireland Housing Executive, as a statutory body on which these Regulations impose functions, before making these Regulations.
 
-## 1. Citation, commencement and interpretation[^key-39fac13df637a5f7ca7162cc28515e7f]
+## 1. Citation, commencement and interpretation[^c-39fac13df637a5f7ca7162cc28515e7f]
 
 (1) These Regulations may be cited as the Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017.
 
@@ -58,20 +58,20 @@ In accordance with Article 137A(10) of that Order, the Department consulted the 
 
 - “housing benefit” means housing benefit in the form of a rent rebate or rent allowance;
 - “the Housing Executive” means the Northern Ireland Housing Executive;
-- “[^key-bfe2073f866506ce752931d8abd68a95]**Overpayment Regulations**” means the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016.
+- “[^c-bfe2073f866506ce752931d8abd68a95]**Overpayment Regulations**” means the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016.
 - “registered housing association” means a housing association which is registered under Part 2 of the Housing (Northern Ireland) Order 1992[^f00002].
 
-## 2. Eligibility[^key-6a0f0c61d13cb13c1bbc334e5ddc970a]
+## 2. Eligibility[^c-6a0f0c61d13cb13c1bbc334e5ddc970a]
 
 (1) A person is entitled to a payment known as a “welfare supplementary payment” if the person qualifies under Article 137A(3) of the Welfare Reform (Northern Ireland) Order 2015 (case where person is affected by social sector size criteria in calculation of housing benefit).
 
-(2)[^key-b1c914a0c78849b4b3f4eff18785ff16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b1c914a0c78849b4b3f4eff18785ff16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b1c914a0c78849b4b3f4eff18785ff16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b1c914a0c78849b4b3f4eff18785ff16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b1c914a0c78849b4b3f4eff18785ff16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b1c914a0c78849b4b3f4eff18785ff16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-422215410c35bade6415bc048a51a4e9] At times after the revocation of paragraph (2), paragraph (1) has effect in relation to a person even if there is a time before the revocation when paragraph (2) had effect to end an entitlement under paragraph (1) in the person’s case.
+(4A)[^c-422215410c35bade6415bc048a51a4e9] At times after the revocation of paragraph (2), paragraph (1) has effect in relation to a person even if there is a time before the revocation when paragraph (2) had effect to end an entitlement under paragraph (1) in the person’s case.
 
 (5) Payments of welfare supplementary payment are to be made without the need for a claim to be made.
 
@@ -88,7 +88,7 @@ In accordance with Article 137A(10) of that Order, the Department consulted the 
 
   .
 
-## 3. Amount[^key-e5e8d1cb0cefa8b0fd74bc59a51865e2]
+## 3. Amount[^c-e5e8d1cb0cefa8b0fd74bc59a51865e2]
 
 (1) The amount of a welfare supplementary payment to which a person is entitled is the difference between—
 
@@ -97,31 +97,31 @@ In accordance with Article 137A(10) of that Order, the Department consulted the 
 
 (2) Accordingly, where there is a variation in the amount by which the housing benefit is reduced as mentioned in paragraph (1), the amount of the welfare supplementary payment to which the person is entitled is varied by the same amount.
 
-## 4. Period of payment[^key-101240ca9f43c19557a85f47d477424a]
+## 4. Period of payment[^c-101240ca9f43c19557a85f47d477424a]
 
 (1) Payments of welfare supplementary payment must be made at intervals of four weeks (or as soon as is reasonably practicable after that) in arrears.
 
 (2) A person’s entitlement to a welfare supplementary payment begins on the date on which there is a determination under regulation B14(2) of the Housing Benefit Regulations in that person’s case.
 
-## 5. Recipient[^key-6e95902cc27a7b1c23d968c950fa492b]
+## 5. Recipient[^c-6e95902cc27a7b1c23d968c950fa492b]
 
 The payments of welfare supplementary payment to which a person is entitled are to be made—
 
 - (a) to the person’s landlord, or
 - (b) if the payments of housing benefit to which the person is entitled are made direct to that person or to another person on his or her behalf by virtue of regulation 91(2) or (3) of the Housing Benefit Regulations, direct to that person or the other person, as the case may be.
 
-## 6. Change of circumstances[^key-48c8db55890615ea2cef7156988aa754]
+## 6. Change of circumstances[^c-48c8db55890615ea2cef7156988aa754]
 
 A person who is entitled to a welfare supplementary payment must notify the Housing Executive of any change of circumstances of which the person would be required to notify the Housing Executive under regulation 84 of the Housing Benefit Regulations.
 
-## 7. Disclosure[^key-dc9a85bab7dd8a0dd68317a5fa7ea1fd]
+## 7. Disclosure[^c-dc9a85bab7dd8a0dd68317a5fa7ea1fd]
 
 (1) Information which relates to claimants for housing benefit or to the amounts paid and which is held by the Housing Executive or a registered housing association, or a person providing services to the body in question in connection with the provision of those services, may be supplied to the Department for use by it in connection with—
 
 - (a) determining entitlement to a welfare supplementary payment and the amount to which a person is entitled, or
 - (b) the administration of welfare supplementary payments.
 
-(2)[^key-80021fb40bb665fdb230aa35325b1c64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-80021fb40bb665fdb230aa35325b1c64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The reference in paragraph (1) to information relating to the amounts of housing benefit paid includes a reference to information relating to investigations of whether an overpayment has been made, recovery of overpayments or appeals against decisions relating to overpayments.
 
@@ -130,7 +130,7 @@ A person who is entitled to a welfare supplementary payment must notify the Hous
 - (a) to the Housing Executive or a registered housing association for use by it in connection with the management of tenants’ accounts;
 - (b) to a body which appears to the Department to represent housing associations in Northern Ireland for the supply by it to the Housing Executive or a registered housing association for the use referred to in sub-paragraph (a).
 
-## 8. Recovery of overpayment: circumstances[^key-a776a01b6fb24e6088eb415919895314]
+## 8. Recovery of overpayment: circumstances[^c-a776a01b6fb24e6088eb415919895314]
 
 (1) The Department may recover an amount of a welfare supplementary payment paid in excess of entitlement (an “overpayment”) in each of the following four cases.
 
@@ -178,7 +178,7 @@ A person who is entitled to a welfare supplementary payment must notify the Hous
 
 (11) “Partner” has the same meaning as in the Housing Benefit Regulations; and, accordingly, if the claimant is a member of a polygamous marriage, a reference to the claimant’s partner is a reference to any of his or her partners.
 
-## 9. Recovery of overpayment: methods[^key-79ab59fd396f942525c69ef706af3206]
+## 9. Recovery of overpayment: methods[^c-79ab59fd396f942525c69ef706af3206]
 
 (1) An amount recoverable under regulation 8 may be recovered—
 
@@ -187,18 +187,18 @@ A person who is entitled to a welfare supplementary payment must notify the Hous
 - (c) in so far as the outstanding amount is not recovered under regulations 10 and 11, by means of deduction from earnings under regulation 12, and
 - (d) in so far as the outstanding amount is not recovered under regulations 10, 11 and 12, by means of action taken in court under regulation 13.
 
-(1A)[^key-0f943039f968effed3176fa68c18f365] In the application of this regulation to a case where regulation 12 does not apply by virtue of paragraph (A1) of that regulation, paragraph (1) of this regulation has effect as if sub-paragraph (c) were omitted and, in sub-paragraph (d), the reference to regulation 12 were omitted.
+(1A)[^c-0f943039f968effed3176fa68c18f365] In the application of this regulation to a case where regulation 12 does not apply by virtue of paragraph (A1) of that regulation, paragraph (1) of this regulation has effect as if sub-paragraph (c) were omitted and, in sub-paragraph (d), the reference to regulation 12 were omitted.
 
 (2) In this regulation and in regulations 10 to 13, “the outstanding amount” means, in relation to an amount which is recoverable under regulation 8, the amount which for the time being remains to be recovered.
 
-## 10. Recovery of overpayment: deduction from certain welfare supplementary payments[^key-2b0cc256fd0a350c4064c1678ef9e18f]
+## 10. Recovery of overpayment: deduction from certain welfare supplementary payments[^c-2b0cc256fd0a350c4064c1678ef9e18f]
 
 (1) The Department may, in the case of a person from whom an amount is recoverable under regulation 8, recover the outstanding amount by making deductions from—
 
 - (a) such amounts of welfare supplementary payment as are still to be paid in that person’s case, and
 - (b) in so far as the outstanding amount is not recovered by using the method under sub-paragraph (a), such amounts of any relevant payment as are still to be paid in that person’s case.
 
-(1A)[^key-423d28bf49aea5204401336da9198fcf] A deduction under paragraph (1) may, for any period for which a welfare supplementary payment or relevant payment is payable in that person’s case, be made from the amount payable at a rate not exceeding that specified at regulation 11(2)(a) of the Overpayment Regulations and it is for the Department in any given case to decide whether to act under this paragraph or under paragraph (2) or under both.
+(1A)[^c-423d28bf49aea5204401336da9198fcf] A deduction under paragraph (1) may, for any period for which a welfare supplementary payment or relevant payment is payable in that person’s case, be made from the amount payable at a rate not exceeding that specified at regulation 11(2)(a) of the Overpayment Regulations and it is for the Department in any given case to decide whether to act under this paragraph or under paragraph (2) or under both.
 
 (2) When acting under paragraph (1) in a case where the outstanding amount is less than the total of the amounts referred to in sub-paragraph (a) or (b) (as the case may be), the Department must continue to pay the amounts in question until that total is equal to the outstanding amount.
 
@@ -208,9 +208,9 @@ A person who is entitled to a welfare supplementary payment must notify the Hous
 - (b) the Welfare Supplementary Payment (Loss of Disability Living Allowance) Regulations (Northern Ireland) 2016[^f00006],
 - (c) the Welfare Supplementary Payment (Loss of Carer Payments) Regulations 2016[^f00007], or
 - (d) the Welfare Supplementary Payment (Loss of Disability-Related Premiums) Regulations (Northern Ireland) 2016[^f00008].
-- (e)[^key-5af149d76a7bf88cd9f77a620bb89038] the Welfare Supplementary Payment (Universal Credit) (Social Sector Size Criteria) Regulations (Northern Ireland) 2025.
+- (e)[^c-5af149d76a7bf88cd9f77a620bb89038] the Welfare Supplementary Payment (Universal Credit) (Social Sector Size Criteria) Regulations (Northern Ireland) 2025.
 
-## 11. Recovery of overpayment: deduction from benefits[^key-40602f785caba6285b3baa939c57ef92]
+## 11. Recovery of overpayment: deduction from benefits[^c-40602f785caba6285b3baa939c57ef92]
 
 (1) The Department may, in the case of a person from whom an amount is recoverable under regulation 8, recover the outstanding amount (subject to regulation 9(1)(b)) by making deductions from such amounts as are payable by way of relevant benefit in that person’s case.
 
@@ -235,15 +235,15 @@ A person who is entitled to a welfare supplementary payment must notify the Hous
 
 (8) A reference to contribution-related or income-related employment support allowance is to be construed in accordance with Part 1 of the Welfare Reform Act (Northern Ireland) 2007[^f00011].
 
-## 12. Recovery of overpayment: deduction from earnings[^key-b17f5ffd4b992fb2e8611a6a6ff40ca4]
+## 12. Recovery of overpayment: deduction from earnings[^c-b17f5ffd4b992fb2e8611a6a6ff40ca4]
 
-(A1)[^key-ff55befbd5616820154ca05a0d68d54a] This regulation does not apply in respect of a person who is entitled to universal credit.
+(A1)[^c-ff55befbd5616820154ca05a0d68d54a] This regulation does not apply in respect of a person who is entitled to universal credit.
 
 (1) The Department may, in the case of a person from whom an amount is recoverable under regulation 8, recover the outstanding amount (subject to regulation 9(1)(c)) by means of deduction made by the person’s employer from the person’s earnings.
 
 (2) Schedule 2 makes further provision for the purposes of this regulation.
 
-## 13. Recovery of overpayment: court action[^key-728b69a7a066e874abccf3bcb9497fdd]
+## 13. Recovery of overpayment: court action[^c-728b69a7a066e874abccf3bcb9497fdd]
 
 (1) The Department may, in the case of a person from whom an amount is recoverable under regulation 8, recover the outstanding amount (subject to regulation 9(1)(d)) by means of court action taken under this regulation.
 
@@ -251,11 +251,11 @@ A person who is entitled to a welfare supplementary payment must notify the Hous
 
 (3) Any costs of the Department in recovering the outstanding amount under this regulation may be recovered by the Department as if those costs were themselves part of the outstanding amount.
 
-## 14. Treatment of payment[^key-f7c5c18139456ba58483e3caab021eb9]
+## 14. Treatment of payment[^c-f7c5c18139456ba58483e3caab021eb9]
 
 No account is to be taken of entitlement to a welfare supplementary payment in considering a person’s entitlement to a benefit under a statutory provision relating to social security (regardless of the name or nature of the benefit).
 
-## 15. Review[^key-686745af3ec112a4731e4496bbc349d1]
+## 15. Review[^c-686745af3ec112a4731e4496bbc349d1]
 
 (1) The Department must establish procedures for reviewing—
 
@@ -277,11 +277,11 @@ Tommy O’Reilly
 
 A senior officer of the Department for Communities
 
-## SCHEDULE 1 — RELEVANT BENEFITS[^key-8ff363d41f274c17b9d5e8b345d77bef]
+## SCHEDULE 1 — RELEVANT BENEFITS[^c-8ff363d41f274c17b9d5e8b345d77bef]
 
 Regulation 11(2)
 
-[^key-8ff363d41f274c17b9d5e8b345d77bef]
+[^c-8ff363d41f274c17b9d5e8b345d77bef]
 
 - Attendance allowance
 - Bereavement allowance
@@ -309,7 +309,7 @@ Regulation 11(2)
 
 Regulation 12(2)
 
-### 1. Notice[^key-d1d5ba6f5dacfbd10655b100c73cf3d1]
+### 1. Notice[^c-d1d5ba6f5dacfbd10655b100c73cf3d1]
 
 (1) When acting under regulation 12, the Department must prepare a notice requiring an employer of the person from whom the outstanding amount is recoverable (“the liable person”)—
 
@@ -334,7 +334,7 @@ Regulation 12(2)
 
 (4) The notice has effect from the next pay-day which falls a minimum of 22 days after the day on which it is given.
 
-### 2. Meaning of “earnings” etc.[^key-27eee1ca073d12874573486b2fa380e2]
+### 2. Meaning of “earnings” etc.[^c-27eee1ca073d12874573486b2fa380e2]
 
 (1) This paragraph applies for the purposes of this Schedule.
 
@@ -366,7 +366,7 @@ Regulation 12(2)
 
 (6) “Pay-day”, in relation to the liable person, means an occasion on which earnings are to be paid to that person or the day on which earnings would normally fall to be paid.
 
-### 3. Deduction by employer: general[^key-0c9b363347fec3e9bebd4c5d412e487e]
+### 3. Deduction by employer: general[^c-0c9b363347fec3e9bebd4c5d412e487e]
 
 (1) This paragraph applies where an employer of the liable person has received a notice under paragraph 1 relating to the liable person.
 
@@ -416,7 +416,7 @@ Regulation 12(2)
   - (iii) has lapsed under paragraph 11, or
 - (b) the employer considers that, as a result of deductions under this Schedule, the outstanding amount is nil.
 
-### 4. Deduction by employer: particular cases[^key-67cd74c7888c0f0c5525acc8c51ffd9d]
+### 4. Deduction by employer: particular cases[^c-67cd74c7888c0f0c5525acc8c51ffd9d]
 
 (1) Where there is a pay-day (“the relevant pay-day”) on which the employer fails to deduct the amount required under paragraph 3, the employer must on the next available pay-day or pay-days deduct—
 
@@ -434,7 +434,7 @@ Regulation 12(2)
 
 (5) Where the employer makes a deduction on a pay-day in accordance with the notice under paragraph 1, the employer may also deduct an amount not exceeding £1 for administrative costs; and a deduction under this sub-paragraph may reduce the amount which the employer pays to the liable person on that pay-day below the protected earnings proportion.
 
-### 5. Notification to liable person[^key-15cf2f376dfbe97e7858719f3dc2c868]
+### 5. Notification to liable person[^c-15cf2f376dfbe97e7858719f3dc2c868]
 
 (1) The employer must notify the liable person in writing of—
 
@@ -445,7 +445,7 @@ Regulation 12(2)
 
 (3) The employer must, within 28 days of receiving a written request from the liable person, provide the person with an explanation in writing of how the amount of a deduction under paragraph 3 was calculated.
 
-### 6. Payment to Department[^key-f9c800612aa7c27028277b900c18f94f]
+### 6. Payment to Department[^c-f9c800612aa7c27028277b900c18f94f]
 
 (1) Where the employer makes a deduction under paragraph 3 or 4(1) to (3), the employer must pay the amount of the deduction to the Department by the 19th<sup> </sup>day of the month following that in which the deduction is made.
 
@@ -453,7 +453,7 @@ Regulation 12(2)
 
 (3) The employer must keep a record of each amount paid to the Department in the case of the liable person.
 
-### 7. Information from liable person[^key-c0a7650f8a56c23815b6eeb01ed098ec]
+### 7. Information from liable person[^c-c0a7650f8a56c23815b6eeb01ed098ec]
 
 (1) The liable person, having received a notice under paragraph 1, must notify the Department within 7 days of each occasion on which the person—
 
@@ -466,13 +466,13 @@ Regulation 12(2)
 - (b) the amount of the liable person’s earnings or expected earnings, and
 - (c) the liable person’s place of work, the nature of the liable person’s work and any staff number, payroll number or similar identifying number.
 
-### 8. Notification to Department[^key-75a69cd596b314e3ec48fd937a65c6de]
+### 8. Notification to Department[^c-75a69cd596b314e3ec48fd937a65c6de]
 
 (1) Where a notice under paragraph 1 is given to a person who is believed to be the liable person’s employer but is in fact not, the person receiving the notice must notify the Department of that fact in writing, at the address specified in the notice, as soon as reasonably practicable after the notice was given.
 
 (2) Where a person who is the liable person’s employer is required to make deductions under a notice under paragraph 1 and the liable person ceases to be in that employment, the employer must notify the Department of that fact in writing, at the address specified in the notice, within 10 days after the day on which the liable person ceases to be in that employment.
 
-### 9. Variation[^key-c537e94b336b0d8a0f10904e3b12833f]
+### 9. Variation[^c-c537e94b336b0d8a0f10904e3b12833f]
 
 (1) The Department may vary a notice under paragraph 1 so as to—
 
@@ -483,7 +483,7 @@ Regulation 12(2)
 
 (3) Where a notice as varied is given under paragraph 1, the employer who is liable to make deductions under the notice must comply with the notice as varied from the day it takes effect under that paragraph.
 
-### 10. Discharge[^key-89055a49d20e615ece912721d81c8a70]
+### 10. Discharge[^c-89055a49d20e615ece912721d81c8a70]
 
 (1) The Department must discharge a notice under paragraph 1 if the outstanding amount is paid.
 
@@ -502,13 +502,13 @@ Regulation 12(2)
 
 (5) Where a notice is discharged under sub-paragraph (2)(b) or (c), paragraph 6 nevertheless continues to apply in relation to any amount not yet paid to the Department.
 
-### 11. Lapse[^key-a45be3007419576cdd2d1fb32bf280a7]
+### 11. Lapse[^c-a45be3007419576cdd2d1fb32bf280a7]
 
 (1) Where the liable person’s employment terminates, a notice under paragraph 1 lapses immediately after the pay-day coinciding with or following the termination.
 
 (2) Where a notice lapses under this paragraph, paragraph 6 nevertheless continues to apply in relation to any amount not yet paid to the Department.
 
-### 12. Crown employment[^key-be10787351c55ada005a3a25c964e896]
+### 12. Crown employment[^c-be10787351c55ada005a3a25c964e896]
 
 (1) This paragraph applies where the liable person is employed by the Crown.
 
@@ -518,7 +518,7 @@ Regulation 12(2)
 
 (4) “Government department” includes a department of the government of the United Kingdom.
 
-### 13. Priority[^key-d84550559faeaae7ee96ab97cc080f1f]
+### 13. Priority[^c-d84550559faeaae7ee96ab97cc080f1f]
 
 (1) This paragraph applies where there is a pay-day in relation to the liable person on which the employer is required—
 
@@ -550,7 +550,7 @@ Regulation 12(2)
 
 (8) “Welfare overpayment notice” means a notice under regulation 18 of the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016[^f00017].
 
-### 14. Service by post[^key-e42b2cdc1332b628f05af5d54b5fd3cc]
+### 14. Service by post[^c-e42b2cdc1332b628f05af5d54b5fd3cc]
 
 Where a notice or notification to be given under this Schedule is sent by ordinary post to the last known address of the recipient, it is to be treated as given on the day on which it is posted.
 
@@ -626,41 +626,41 @@ Paragraph 14 specifies when a notice or notification which is sent by post is to
 
 [^f00001]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006). Article 137A was inserted by Article 19 of [S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/nisi/2016/999). Under section 1(7) of the Departments (Northern Ireland) Act 2016, the Department for Social Development, on which the enabling power for these Regulations was conferred, was renamed the Department for Communities.
 
-[^key-39fac13df637a5f7ca7162cc28515e7f]: Commencement: Reg. 1 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-39fac13df637a5f7ca7162cc28515e7f]: Commencement: Reg. 1 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-bfe2073f866506ce752931d8abd68a95]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/3) inserted (temp until 31/3/2028) (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025 (S.R. 2025/60)](https://www.legislation.gov.uk/nisr/2025/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2), [8(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/8/2)
+[^c-bfe2073f866506ce752931d8abd68a95]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/3) inserted (temp until 31/3/2028) (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025 (S.R. 2025/60)](https://www.legislation.gov.uk/nisr/2025/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2), [8(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/8/2)
 
 [^f00002]: Footnote: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725).
 
-[^key-6a0f0c61d13cb13c1bbc334e5ddc970a]: Commencement: Reg. 2 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-6a0f0c61d13cb13c1bbc334e5ddc970a]: Commencement: Reg. 2 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-b1c914a0c78849b4b3f4eff18785ff16]: Textual amendment: [Reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2017/35/regulation/2/2) omitted (10.2.2022) by virtue of [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/32)](https://www.legislation.gov.uk/nisr/2022/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/nisr/2022/32/regulation/4/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/3))
+[^c-b1c914a0c78849b4b3f4eff18785ff16]: Textual amendment: [Reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2017/35/regulation/2/2) omitted (10.2.2022) by virtue of [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/32)](https://www.legislation.gov.uk/nisr/2022/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/nisr/2022/32/regulation/4/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/3))
 
-[^key-422215410c35bade6415bc048a51a4e9]: Textual amendment: [Reg. 2(4A)](https://www.legislation.gov.uk/nisr/2017/35/regulation/2/4A) inserted (10.2.2022) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/32)](https://www.legislation.gov.uk/nisr/2022/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/nisr/2022/32/regulation/4/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/3))
+[^c-422215410c35bade6415bc048a51a4e9]: Textual amendment: [Reg. 2(4A)](https://www.legislation.gov.uk/nisr/2017/35/regulation/2/4A) inserted (10.2.2022) by [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/32)](https://www.legislation.gov.uk/nisr/2022/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/nisr/2022/32/regulation/4/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/3))
 
 [^f00004]: Footnote: [S.R. 2016 No. 270](https://www.legislation.gov.uk/nisr/2016/270).
 
-[^key-e5e8d1cb0cefa8b0fd74bc59a51865e2]: Commencement: Reg. 3 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-e5e8d1cb0cefa8b0fd74bc59a51865e2]: Commencement: Reg. 3 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-101240ca9f43c19557a85f47d477424a]: Commencement: Reg. 4 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-101240ca9f43c19557a85f47d477424a]: Commencement: Reg. 4 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-6e95902cc27a7b1c23d968c950fa492b]: Commencement: Reg. 5 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-6e95902cc27a7b1c23d968c950fa492b]: Commencement: Reg. 5 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-48c8db55890615ea2cef7156988aa754]: Commencement: Reg. 6 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-48c8db55890615ea2cef7156988aa754]: Commencement: Reg. 6 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-dc9a85bab7dd8a0dd68317a5fa7ea1fd]: Commencement: Reg. 7 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-dc9a85bab7dd8a0dd68317a5fa7ea1fd]: Commencement: Reg. 7 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-80021fb40bb665fdb230aa35325b1c64]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/7/2) omitted (10.2.2022) by virtue of [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/32)](https://www.legislation.gov.uk/nisr/2022/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2022/32/regulation/4/3) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/3))
+[^c-80021fb40bb665fdb230aa35325b1c64]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/7/2) omitted (10.2.2022) by virtue of [The Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/32)](https://www.legislation.gov.uk/nisr/2022/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2022/32/regulation/4/3) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/3))
 
-[^key-a776a01b6fb24e6088eb415919895314]: Commencement: Reg. 8 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-a776a01b6fb24e6088eb415919895314]: Commencement: Reg. 8 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-79ab59fd396f942525c69ef706af3206]: Commencement: Reg. 9 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-79ab59fd396f942525c69ef706af3206]: Commencement: Reg. 9 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-0f943039f968effed3176fa68c18f365]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/nisr/2017/35/regulation/9/1A) inserted (temp until 31/3/2028) (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025 (S.R. 2025/60)](https://www.legislation.gov.uk/nisr/2025/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2), [8(5)](https://www.legislation.gov.uk/nisr/2025/60/regulation/8/5)
+[^c-0f943039f968effed3176fa68c18f365]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/nisr/2017/35/regulation/9/1A) inserted (temp until 31/3/2028) (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025 (S.R. 2025/60)](https://www.legislation.gov.uk/nisr/2025/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2), [8(5)](https://www.legislation.gov.uk/nisr/2025/60/regulation/8/5)
 
-[^key-2b0cc256fd0a350c4064c1678ef9e18f]: Commencement: Reg. 10 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-2b0cc256fd0a350c4064c1678ef9e18f]: Commencement: Reg. 10 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-423d28bf49aea5204401336da9198fcf]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/nisr/2017/35/regulation/10/1A) inserted (temp until 31/3/2028) (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025 (S.R. 2025/60)](https://www.legislation.gov.uk/nisr/2025/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2), [8(3)](https://www.legislation.gov.uk/nisr/2025/60/regulation/8/3)
+[^c-423d28bf49aea5204401336da9198fcf]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/nisr/2017/35/regulation/10/1A) inserted (temp until 31/3/2028) (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025 (S.R. 2025/60)](https://www.legislation.gov.uk/nisr/2025/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2), [8(3)](https://www.legislation.gov.uk/nisr/2025/60/regulation/8/3)
 
 [^f00005]: Footnote: [S.R. 2016 No. 178](https://www.legislation.gov.uk/nisr/2016/178).
 
@@ -670,9 +670,9 @@ Paragraph 14 specifies when a notice or notification which is sent by post is to
 
 [^f00008]: Footnote: [S.R. 2016 No. 254](https://www.legislation.gov.uk/nisr/2016/254).
 
-[^key-5af149d76a7bf88cd9f77a620bb89038]: Textual amendment: [Reg. 10(3)(e)](https://www.legislation.gov.uk/nisr/2017/35/regulation/10/3/e) inserted (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) (Social Sector Size Criteria) Regulations (Northern Ireland) 2025 (S.R. 2025/58)](https://www.legislation.gov.uk/nisr/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2), [15(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/15/2)
+[^c-5af149d76a7bf88cd9f77a620bb89038]: Textual amendment: [Reg. 10(3)(e)](https://www.legislation.gov.uk/nisr/2017/35/regulation/10/3/e) inserted (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) (Social Sector Size Criteria) Regulations (Northern Ireland) 2025 (S.R. 2025/58)](https://www.legislation.gov.uk/nisr/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2), [15(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/15/2)
 
-[^key-40602f785caba6285b3baa939c57ef92]: Commencement: Reg. 11 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-40602f785caba6285b3baa939c57ef92]: Commencement: Reg. 11 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
 [^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459). Relevant amendments have been made by [S.R. 1990 No. 213](https://www.legislation.gov.uk/nisr/1990/213), [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199), [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154) and [S.R. 2015/24](https://www.legislation.gov.uk/nisr/2015/24).
 
@@ -680,23 +680,23 @@ Paragraph 14 specifies when a notice or notification which is sent by post is to
 
 [^f00011]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2).
 
-[^key-b17f5ffd4b992fb2e8611a6a6ff40ca4]: Commencement: Reg. 12 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-b17f5ffd4b992fb2e8611a6a6ff40ca4]: Commencement: Reg. 12 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-ff55befbd5616820154ca05a0d68d54a]: Textual amendment: [Reg. 12(A1)](https://www.legislation.gov.uk/nisr/2017/35/regulation/12/A1) inserted (temp until 31/3/2028) (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025 (S.R. 2025/60)](https://www.legislation.gov.uk/nisr/2025/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2), [8(4)](https://www.legislation.gov.uk/nisr/2025/60/regulation/8/4)
+[^c-ff55befbd5616820154ca05a0d68d54a]: Textual amendment: [Reg. 12(A1)](https://www.legislation.gov.uk/nisr/2017/35/regulation/12/A1) inserted (temp until 31/3/2028) (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025 (S.R. 2025/60)](https://www.legislation.gov.uk/nisr/2025/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2), [8(4)](https://www.legislation.gov.uk/nisr/2025/60/regulation/8/4)
 
-[^key-728b69a7a066e874abccf3bcb9497fdd]: Commencement: Reg. 13 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-728b69a7a066e874abccf3bcb9497fdd]: Commencement: Reg. 13 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-f7c5c18139456ba58483e3caab021eb9]: Commencement: Reg. 14 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-f7c5c18139456ba58483e3caab021eb9]: Commencement: Reg. 14 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-686745af3ec112a4731e4496bbc349d1]: Commencement: Reg. 15 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-686745af3ec112a4731e4496bbc349d1]: Commencement: Reg. 15 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-8ff363d41f274c17b9d5e8b345d77bef]: Commencement: Sch. 1 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-8ff363d41f274c17b9d5e8b345d77bef]: Commencement: Sch. 1 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
 [^f00012]: Footnote: Entitlement to severe disablement allowance was conferred by section 68 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, which was repealed by the Welfare Reform and Pensions (Northern Ireland) Order 1999 subject to savings in [S.R. 2000 No. 332](https://www.legislation.gov.uk/nisr/2000/332) (c. 14).
 
-[^key-d1d5ba6f5dacfbd10655b100c73cf3d1]: Commencement: Sch. 2 para. 1 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-d1d5ba6f5dacfbd10655b100c73cf3d1]: Commencement: Sch. 2 para. 1 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-27eee1ca073d12874573486b2fa380e2]: Commencement: Sch. 2 para. 2 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-27eee1ca073d12874573486b2fa380e2]: Commencement: Sch. 2 para. 2 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
 [^f00013]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 
@@ -704,30 +704,30 @@ Paragraph 14 specifies when a notice or notification which is sent by post is to
 
 [^f00015]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 
-[^key-0c9b363347fec3e9bebd4c5d412e487e]: Commencement: Sch. 2 para. 3 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-0c9b363347fec3e9bebd4c5d412e487e]: Commencement: Sch. 2 para. 3 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-67cd74c7888c0f0c5525acc8c51ffd9d]: Commencement: Sch. 2 para. 4 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-67cd74c7888c0f0c5525acc8c51ffd9d]: Commencement: Sch. 2 para. 4 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-15cf2f376dfbe97e7858719f3dc2c868]: Commencement: Sch. 2 para. 5 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-15cf2f376dfbe97e7858719f3dc2c868]: Commencement: Sch. 2 para. 5 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-f9c800612aa7c27028277b900c18f94f]: Commencement: Sch. 2 para. 6 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-f9c800612aa7c27028277b900c18f94f]: Commencement: Sch. 2 para. 6 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-c0a7650f8a56c23815b6eeb01ed098ec]: Commencement: Sch. 2 para. 7 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-c0a7650f8a56c23815b6eeb01ed098ec]: Commencement: Sch. 2 para. 7 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-75a69cd596b314e3ec48fd937a65c6de]: Commencement: Sch. 2 para. 8 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-75a69cd596b314e3ec48fd937a65c6de]: Commencement: Sch. 2 para. 8 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-c537e94b336b0d8a0f10904e3b12833f]: Commencement: Sch. 2 para. 9 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-c537e94b336b0d8a0f10904e3b12833f]: Commencement: Sch. 2 para. 9 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-89055a49d20e615ece912721d81c8a70]: Commencement: Sch. 2 para. 10 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-89055a49d20e615ece912721d81c8a70]: Commencement: Sch. 2 para. 10 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-a45be3007419576cdd2d1fb32bf280a7]: Commencement: Sch. 2 para. 11 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-a45be3007419576cdd2d1fb32bf280a7]: Commencement: Sch. 2 para. 11 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-be10787351c55ada005a3a25c964e896]: Commencement: Sch. 2 para. 12 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-be10787351c55ada005a3a25c964e896]: Commencement: Sch. 2 para. 12 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
-[^key-d84550559faeaae7ee96ab97cc080f1f]: Commencement: Sch. 2 para. 13 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-d84550559faeaae7ee96ab97cc080f1f]: Commencement: Sch. 2 para. 13 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
 
 [^f00016]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390).
 
 [^f00017]: Footnote: [S.R. 2016 No. 224](https://www.legislation.gov.uk/nisr/2016/224).
 
-[^key-e42b2cdc1332b628f05af5d54b5fd3cc]: Commencement: Sch. 2 para. 14 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)
+[^c-e42b2cdc1332b628f05af5d54b5fd3cc]: Commencement: Sch. 2 para. 14 in operation at 20.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2)

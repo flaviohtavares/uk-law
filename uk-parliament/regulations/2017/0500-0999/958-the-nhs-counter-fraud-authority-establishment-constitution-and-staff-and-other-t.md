@@ -50,17 +50,17 @@ Pursuant to section 28(7) of, and paragraph 4 of Schedule 6 to the National Heal
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and application[^key-5b62d9052f983e8a13a066d6b0910ac7]
+### 1. Citation, commencement and application[^c-5b62d9052f983e8a13a066d6b0910ac7]
 
 (1) This Order may be cited as the NHS Counter Fraud Authority (Establishment, Constitution, and Staff and Other Transfer Provisions) Order 2017 and comes into force on 1st November 2017.
 
 (2) This Order applies in relation to England only.
 
-### 2. Interpretation[^key-3ca4d72cc99c738fe32567762faff716]
+### 2. Interpretation[^c-3ca4d72cc99c738fe32567762faff716]
 
 In this Order—
 
-- [^key-57008b0fa8b19cee7796210ba3495ef6]...
+- [^c-57008b0fa8b19cee7796210ba3495ef6]...
 - “the Authority” means the NHS Counter Fraud Authority established pursuant to article 3;
 - “the BSA” means the NHS Business Services Authority[^f00002];
 - “changes in the workforce” includes a change to the place where employees are employed by the employer to carry on the business of the employer or to carry out work of a particular kind for the employer (and the reference to such a place has the same meaning as in section 139 of the Employment Rights Act 1996[^f00003]);
@@ -71,11 +71,11 @@ In this Order—
 
 ## PART 2 — Establishment and Constitution
 
-### 3. Establishment[^key-4787eb9c2f45f0c953ceb5cb770a8c9f]
+### 3. Establishment[^c-4787eb9c2f45f0c953ceb5cb770a8c9f]
 
 The special health authority to be known as the NHS Counter Fraud Authority is established by and in accordance with this Order.
 
-### 4. Functions[^key-ebbb6da0705ec5b50753e59a93692f71]
+### 4. Functions[^c-ebbb6da0705ec5b50753e59a93692f71]
 
 (1) The Authority is to exercise the functions of the Secretary of State in respect of counter fraud which are identified in paragraph (2), subject to and in accordance with this article and directions to the Authority given by the Secretary of State.
 
@@ -97,7 +97,7 @@ The special health authority to be known as the NHS Counter Fraud Authority is e
 - “counter fraud” refers to the actions which may be taken in performance of the Secretary of State’s counter fraud functions described in section 195(2) of the NHS Act;
 - “investigating” has the meaning given in section 195(5) of the NHS Act.
 
-### 5. Constitution and Governance[^key-d2a718215dcc69285440c211eaf581b3]
+### 5. Constitution and Governance[^c-d2a718215dcc69285440c211eaf581b3]
 
 (1) Subject to paragraph (2), the Authority is to consist of—
 
@@ -112,13 +112,13 @@ The special health authority to be known as the NHS Counter Fraud Authority is e
 - (c) an officer member appointed to act as chief executive of the Authority;
 - (d) an officer member appointed to act as director of finance of the Authority.
 
-### 6. Appointments and tenure, etc[^key-e46d8346c2ef202c1d3cd5e1103d88c2]
+### 6. Appointments and tenure, etc[^c-e46d8346c2ef202c1d3cd5e1103d88c2]
 
 Schedule 2 has effect in respect of the appointment and tenure of the chairperson and other members of the Authority, of the appointment and tenure of officers of the Authority, including the making of certain temporary appointments in respect of the transitional period, and as to procedural matters relating to the conduct of the Authority’s business.
 
 ## PART 3 — Transfer of Staff and Property etc from the NHS Business Service Authority and provisions for continuity in relation to the work of NHS Protect and the Authority
 
-### 7. Interpretation[^key-e0d18ba7563a0113ce654afd6f05a3f2]
+### 7. Interpretation[^c-e0d18ba7563a0113ce654afd6f05a3f2]
 
 (1) In this Part—
 
@@ -127,7 +127,7 @@ Schedule 2 has effect in respect of the appointment and tenure of the chairperso
 
 (2) This Part does not apply to transfer, or provide for continuity in relation to, criminal liabilities of the BSA or proceedings arising from such liabilities.
 
-### 8. Transfer of officers from the BSA to the Authority[^key-c0dcbab721e02221f6399f2d4febe307]
+### 8. Transfer of officers from the BSA to the Authority[^c-c0dcbab721e02221f6399f2d4febe307]
 
 (1) This article applies to any person who—
 
@@ -178,7 +178,7 @@ Schedule 2 has effect in respect of the appointment and tenure of the chairperso
 - (c) any form supplied by NHS Protect in connection with the employment of persons whose employment transfers under paragraph (2) continues to be valid until it is varied or revoked by the Authority and as if any reference in that form to NHS Protect or the BSA (in respect of that employment) were a reference to the Authority;
 - (d) any reference to NHS Protect or the BSA in any contract, arrangement, agreement, instrument or other document in connection with the employment of persons whose employment transfers under paragraph (2) is to be treated as a reference to the Authority.
 
-### 9. Transfer of property from the BSA to the Authority[^key-a2c6d74a55b91e5857c10597d9d734b6]
+### 9. Transfer of property from the BSA to the Authority[^c-a2c6d74a55b91e5857c10597d9d734b6]
 
 (1) Subject to paragraph (4), the items of property of the BSA identified in the document entitled “*The NHS Business Services Authority Transfer of Property to the NHS Counter Fraud Authority Agreement 2017*” and signed on behalf of the BSA and of the Secretary of State on 26th September 2017, are to be transferred to the Authority on the transfer date.
 
@@ -194,11 +194,11 @@ Schedule 2 has effect in respect of the appointment and tenure of the chairperso
   - (iii) intellectual property including case management records and databases;
 - (b) is without prejudice to any other arrangements the BSA may make with the Authority and any third parties for the transfer of property not transferred by virtue of this Order.
 
-### 10. Transfer of data, records and information from the BSA to the Authority[^key-397d3c82962795410d3676f371207892]
+### 10. Transfer of data, records and information from the BSA to the Authority[^c-397d3c82962795410d3676f371207892]
 
 So far as not already transferred by virtue of article 8 or 9, any data, record or information held by NHS Protect which, before the transfer date, NHS Protect used for purposes of any of the functions that the Authority is to exercise in accordance with article 4, is to transfer to the Authority.
 
-### 11. Transfer of certain BSA liabilities[^key-39ecb5bd37d4809f4fc9ae2d429e62ea]
+### 11. Transfer of certain BSA liabilities[^c-39ecb5bd37d4809f4fc9ae2d429e62ea]
 
 (1) All liabilities (actual or contingent) of the BSA relating to relevant functions are to transfer to the Authority on the transfer date.
 
@@ -206,7 +206,7 @@ So far as not already transferred by virtue of article 8 or 9, any data, record 
 
 (3) In this article, “relevant function” means any function of the Secretary of State which was exercisable by NHS Protect before the transfer date and which the Authority is to exercise pursuant to article 4.
 
-### 12. Supplementary provisions[^key-56844a5e37e0cb531b451925ca07e5b8]
+### 12. Supplementary provisions[^c-56844a5e37e0cb531b451925ca07e5b8]
 
 (1) In this article the following matters are “relevant matters”—
 
@@ -228,17 +228,17 @@ So far as not already transferred by virtue of article 8 or 9, any data, record 
 
 (8) No right to terminate or vary a contract, agreement, arrangement or instrument is to operate or become exercisable, and no provision of any contract, agreement, arrangement or instrument is to operate or become exercisable or be contravened, by reason of the transfer of any property, rights or liabilities by virtue of article 9, 10 or 11.
 
-## PART 4 — Abolition of the Authority[^key-ad812f906f49f9dce059c986211ad607]
+## PART 4 — Abolition of the Authority[^c-ad812f906f49f9dce059c986211ad607]
 
 **No longer in force.**
 
-### 13. Abolition required under section 28A of the NHS Act 2006[^key-ad812f906f49f9dce059c986211ad607]
+### 13. Abolition required under section 28A of the NHS Act 2006[^c-ad812f906f49f9dce059c986211ad607]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Revocation of Regulations
 
-### 14. Revocation of Regulations delegating functions under Part 10 of the NHS Act 2006[^key-431a111de700dc7e1427a4a49f118abe]
+### 14. Revocation of Regulations delegating functions under Part 10 of the NHS Act 2006[^c-431a111de700dc7e1427a4a49f118abe]
 
 The National Health Service Delegation of Functions to the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Counter Fraud and Security Management) Regulations 2008[^f00011] are revoked.
 
@@ -254,7 +254,7 @@ Department of Health
 
 Article 4(3)
 
-### 1. Interpretation[^key-d25d79c208fc890cf682479cc074fd46]
+### 1. Interpretation[^c-d25d79c208fc890cf682479cc074fd46]
 
 In this Schedule—
 
@@ -263,7 +263,7 @@ In this Schedule—
 - “the delegated functions” means the functions delegated to the Authority under paragraph 2(1);
 - “designated officer” means an officer designated pursuant to paragraph 3(1) and, in respect of any given authorisation granted to or being considered in relation to a senior officer or authorised officer, “the designated officer concerned” means the designated officer who is considering or who granted that authorisation.
 
-### 2. Delegation of functions[^key-120013ecce1793f64c6c2691c5eaed14]
+### 2. Delegation of functions[^c-120013ecce1793f64c6c2691c5eaed14]
 
 (1) The Secretary of State directs pursuant to section 7 of the NHS Act that the functions of the Secretary of State under sections 197[^f00013] (notice requiring production of documents) and 198 (production of documents) of the NHS Act are to be exercisable by the Authority, subject to the requirements of this Schedule.
 
@@ -271,7 +271,7 @@ In this Schedule—
 
 (3) For the purposes of section 199(3) of the NHS Act (which provides for the level of seniority of an officer to be specified in directions), an officer is a senior officer if the officer is of a grade within or above Agenda for Change pay band 7.
 
-### 3. Designated officers[^key-bfb36f4330eaa68662df60ded44e337b]
+### 3. Designated officers[^c-bfb36f4330eaa68662df60ded44e337b]
 
 (1) The Authority must designate officers to undertake its functions under paragraph 4, and other functions of designated officers under this Schedule.
 
@@ -281,20 +281,20 @@ In this Schedule—
 
 (4) A designated officer discharging other functions under this Part must be of a grade within or above Agenda for Change pay band 8b.
 
-### 4. Authorising senior officers[^key-e62875fc2e90bf080bf68a686ab4c07f]
+### 4. Authorising senior officers[^c-e62875fc2e90bf080bf68a686ab4c07f]
 
 (1) The Authority is to authorise such of its senior officers meeting the fitness requirement in paragraph 5 as it may require to act on its behalf in the exercise of the delegated functions.
 
 (2) The Authority may revoke such an authorisation if it is satisfied having regard to all relevant circumstances that it is appropriate to do so.
 
-### 5. Fitness requirements for authorised officers[^key-258d9dde93804666f088ce43277305f1]
+### 5. Fitness requirements for authorised officers[^c-258d9dde93804666f088ce43277305f1]
 
 A senior officer meets the fitness requirement if the officer is an officer—
 
 - (a) whom the designated officer concerned considers has the knowledge, skills and experience necessary to exercise the delegated functions; and
 - (b) who is an accredited Counter Fraud Specialist.
 
-### 6. Records of authorised officers[^key-cc214b575afe2573d354cb3811a478ea]
+### 6. Records of authorised officers[^c-cc214b575afe2573d354cb3811a478ea]
 
 (1) The Authority must establish and maintain a record in respect of all authorised officers.
 
@@ -306,7 +306,7 @@ A senior officer meets the fitness requirement if the officer is an officer—
 - (d) the date that the authorisation under paragraph 4 was granted; and
 - (e) where appropriate, the date on which the authorisation was revoked.
 
-### 7. Statement of authority[^key-f72299c2b7c959f6714fe115c30da4f1]
+### 7. Statement of authority[^c-f72299c2b7c959f6714fe115c30da4f1]
 
 (1) The Authority must issue an authorised officer with a written statement providing evidence of that officer’s authority to act in the exercise of the delegated functions.
 
@@ -318,14 +318,14 @@ A senior officer meets the fitness requirement if the officer is an officer—
 - (d) the name and logo of the Authority; and
 - (e) a reference to the officer’s authorisation being granted by virtue of Part 10 of the NHS Act.
 
-### 8. Production of statement[^key-1729a475dc841f77213a7e882bb010bd]
+### 8. Production of statement[^c-1729a475dc841f77213a7e882bb010bd]
 
 An authorised officer exercising the delegated functions must produce the statement issued to that officer in accordance with paragraph 7, or a copy of it—
 
 - (a) at the time of serving a notice under section 197(2) of the NHS Act (notice requiring the production of documents); or
 - (b) when requiring a person under section 198(6) of the NHS Act (statement required upon failure to produce documents) to state, to the best of that person’s knowledge and belief, where documents are.
 
-### 9. Requirement for specific authorisations in relation to personal records[^key-76082095a44f3c2e2598e677f845baf5]
+### 9. Requirement for specific authorisations in relation to personal records[^c-76082095a44f3c2e2598e677f845baf5]
 
 (1) An authorised officer must obtain a specific authorisation from a designated officer (other than that authorised officer) before acting in the exercise of the delegated functions in relation to personal records[^f00014].
 
@@ -335,7 +335,7 @@ An authorised officer exercising the delegated functions must produce the statem
 
 (4) An authorised officer must comply with any conditions imposed by a specific authorisation in relation to personal records.
 
-### 10. Procedure for specific authorisations[^key-08a6cc604c9ca1d287d9adb174574692]
+### 10. Procedure for specific authorisations[^c-08a6cc604c9ca1d287d9adb174574692]
 
 (1) An authorised officer seeking a specific authorisation in relation to personal records must complete a form provided to that authorised officer for that purpose by a designated officer.
 
@@ -346,18 +346,18 @@ An authorised officer exercising the delegated functions must produce the statem
 - (c) whether or not each document sought is necessary for the purposes of the exercise of the delegated functions; and
 - (d) the description of the proposed arrangements for the safeguarding of the documents whilst in the possession or under the control of the Authority.
 
-### 11. Records of specific authorisations in relation to personal records[^key-fef58dac66c67b346075dc258efc8b3a]
+### 11. Records of specific authorisations in relation to personal records[^c-fef58dac66c67b346075dc258efc8b3a]
 
 The Authority must establish and maintain records of all applications for specific authorisations in relation to personal records, including details of whether or not the specific authorisation was granted.
 
-### 12. Production of evidence of specific authorisation in relation to personal records[^key-56e3477ae677c4f39bb12dbac80ee8f6]
+### 12. Production of evidence of specific authorisation in relation to personal records[^c-56e3477ae677c4f39bb12dbac80ee8f6]
 
 Where an authorised officer has a specific authorisation to act in the exercise of the delegated functions in relation to personal records, that authorised officer must, in addition to producing the statement issued to that authorised officer in accordance with paragraph 7, or a copy of it, produce evidence of that specific authorisation—
 
 - (a) at the time of serving a notice under section 197(2) of the NHS Act (notice requiring production of documents); or
 - (b) when requiring a person under section 198(6) of the NHS Act (statement required upon failure to produce documents) to state, to the best of that person’s knowledge and belief, where documents are.
 
-### 13. Content of notices[^key-dbfb756c754e188525c1766d43684491]
+### 13. Content of notices[^c-dbfb756c754e188525c1766d43684491]
 
 (1) A notice to be served under section 197 of the NHS Act by the Authority must in addition to meeting the requirements of section 197(4) to (6) and (9) of the NHS Act, include—
 
@@ -377,7 +377,7 @@ Article 6
 
 ### PART 1 — Appointment and tenure of office of chairperson and non-officer members, and provision about interim arrangements
 
-#### 1. Appointment and tenure of chairperson and non-officer members[^key-b450d53918c475c5b8376e43e832ea7f]
+#### 1. Appointment and tenure of chairperson and non-officer members[^c-b450d53918c475c5b8376e43e832ea7f]
 
 (1) The chairperson and members of the Authority who are not officers of the Authority (in this Schedule, “non-officer members”) are to be appointed by the Secretary of State.
 
@@ -390,7 +390,7 @@ Article 6
 
 (4) Subject to paragraph 3, the chairperson and any non-officer member are, on the termination of their respective terms of appointment, to be eligible for re-appointment.
 
-#### 2. Appointment and tenure of chief executive and other officers, including interim arrangements[^key-36e4d1b436fbac13c567011676ab7965]
+#### 2. Appointment and tenure of chief executive and other officers, including interim arrangements[^c-36e4d1b436fbac13c567011676ab7965]
 
 (1) On commencement of this Order, the chairperson must, in consultation with, and with the consent of, the Secretary of State, appoint on such terms as may be approved by the Secretary of State an officer member to act temporarily as chief executive of the Authority during the transitional period and a second officer member to act temporarily as director of finance during the transitional period (“interim appointments”).
 
@@ -418,7 +418,7 @@ Article 6
 
 (10) A person appointed under sub-paragraph (1), (3)(b), (5) or (6) is, on the termination of the terms of that appointment, eligible for re-appointment.
 
-#### 3. Disqualification of persons for appointment (chairperson and non-officer members)[^key-02480cd52b332f7c05436b2d8c8b6bca]
+#### 3. Disqualification of persons for appointment (chairperson and non-officer members)[^c-02480cd52b332f7c05436b2d8c8b6bca]
 
 (1) Subject to paragraph 4, a person is disqualified for appointment as the chairperson or as a non-officer member if any of the following apply—
 
@@ -457,13 +457,13 @@ Article 6
 
 (2) Subject to sub-paragraph (3), for the purposes of this paragraph, “health service bodies” means—
 
-- (a) NHS England[^key-ea809ef33845eb4c9e110bdb9390e7d3];
+- (a) NHS England[^c-ea809ef33845eb4c9e110bdb9390e7d3];
 - (b) a clinical commissioning group[^f00030];
 - (c) an NHS trust[^f00031];
 - (d) an NHS foundation trust[^f00032];
 - (e) a special health authority;
 - (f) Monitor[^f00033];
-- (g) a combined authority , combined county authority[^key-8d9ec7a98c2d6fcc838efb18a80f6c48] or local authority in England carrying out functions provided for in the NHS Act, pursuant to regulations under the Local Democracy, Economic Development and Construction Act 2009[^f00034] or under the Levelling-up and Regeneration Act 2023[^key-93aa0606b501cf7bb38a177b1d87f041] or, as the case may be, an order under the Cities and Local Government Devolution Act 2016[^f00035], or to arrangements made under section 13Z, 13ZA, 13ZB, 14Z3A or 75 of the NHS Act[^f00036];
+- (g) a combined authority , combined county authority[^c-8d9ec7a98c2d6fcc838efb18a80f6c48] or local authority in England carrying out functions provided for in the NHS Act, pursuant to regulations under the Local Democracy, Economic Development and Construction Act 2009[^f00034] or under the Levelling-up and Regeneration Act 2023[^c-93aa0606b501cf7bb38a177b1d87f041] or, as the case may be, an order under the Cities and Local Government Devolution Act 2016[^f00035], or to arrangements made under section 13Z, 13ZA, 13ZB, 14Z3A or 75 of the NHS Act[^f00036];
 - (h) Care Quality Commission[^f00037];
 - (i) Health Education England[^f00038];
 - (j) Health Research Authority[^f00039]
@@ -471,7 +471,7 @@ Article 6
 - (l) Human Fertilisation and Embryology Authority[^f00041];
 - (m) Human Tissue Authority[^f00042];
 - (n) National Institute for Health and Care Excellence[^f00043];
-- (o) an executive agency of the Secretary of State for Health and Social Care[^key-ed05a7d8bc11bd208862281fa8a4990c] ;[^key-23a28c304d1d662363b2e3574ea558ad]
+- (o) an executive agency of the Secretary of State for Health and Social Care[^c-ed05a7d8bc11bd208862281fa8a4990c] ;[^c-23a28c304d1d662363b2e3574ea558ad]
 - (p) an integrated care board
 
 (3) For the purposes of sub-paragraph (1)(a), in the case of an appointment of a non-officer member other than the chairperson the first reference in that sub-paragraph to “health service body” does not include reference to an NHS trust or foundation trust.
@@ -486,13 +486,13 @@ Article 6
 - (b) in the case of a clinical commissioning group, the chair or a member of the governing body of the group; or
 - (c) in the case of any other health service body, the chairperson, a member or a director of the health service body in question.
 
-#### 4. Cessation of disqualification[^key-03c3091b6d28da299adc9f4a70a7031e]
+#### 4. Cessation of disqualification[^c-03c3091b6d28da299adc9f4a70a7031e]
 
 (1) Subject to paragraph (2), where a person is disqualified under paragraph 3(1)(e), (f), (g), (i) or (j) that person may, after the expiry of two years beginning on the date of the dismissal, removal, refusal or suspension (as the case may be), apply in writing to the Secretary of State to remove the disqualification, and the Secretary of State may direct that the disqualification is to cease.
 
 (2) Where the Secretary of State refuses an application to remove a disqualification, no further application may be made by that person until the expiry of the period of two years beginning with the date of the application, and this sub-paragraph is to apply to any subsequent application.
 
-#### 5. Termination of tenure of office of chairperson and non-officer members[^key-54111ea659d994279ed03feb2fed6038]
+#### 5. Termination of tenure of office of chairperson and non-officer members[^c-54111ea659d994279ed03feb2fed6038]
 
 (1) The chairperson or a non-officer member may resign from that office at any time during the term of that office by giving notice in writing to the Secretary of State.
 
@@ -509,7 +509,7 @@ Article 6
 
 (6) If it appears to the Secretary of State that the chairperson or a non-officer member has failed to comply with paragraph 14 (disability on account of pecuniary interest) the Secretary of State may forthwith terminate that person’s tenure of office by giving the person notice in writing to that effect.
 
-#### 6. Suspension of appointee[^key-8284b46300e211893fadfb8df1535045]
+#### 6. Suspension of appointee[^c-8284b46300e211893fadfb8df1535045]
 
 (1) The Secretary of State may suspend a chairperson or a non-officer member (“an appointee”) from office while the Secretary of State considers whether—
 
@@ -542,7 +542,7 @@ Article 6
 - (b) there are such grounds but the Secretary of State does not remove the appointee from office as chairperson or non-officer member, as the case may be, under these provisions; or
 - (c) the appointee is not disqualified for appointment under paragraph 3.
 
-#### 7. Suspension of chairperson: appointment of vice-chairperson[^key-c99b0a99b997254f52190035c6da821a]
+#### 7. Suspension of chairperson: appointment of vice-chairperson[^c-c99b0a99b997254f52190035c6da821a]
 
 (1) This paragraph applies where the chairperson is suspended under paragraph 6.
 
@@ -573,7 +573,7 @@ Article 6
 
 the Secretary of State may appoint another non-officer member as vice-chairperson.
 
-#### 8. Appointment of vice-chairperson[^key-b86e43f182f925c31d354723344084a5]
+#### 8. Appointment of vice-chairperson[^c-b86e43f182f925c31d354723344084a5]
 
 (1) The chairperson and members may appoint one of the non-officer members to be vice-chairperson for such period, not exceeding the remainder of that non-officer member’s term as a member, as they may specify on making the appointment.
 
@@ -581,7 +581,7 @@ the Secretary of State may appoint another non-officer member as vice-chairperso
 
 (3) This paragraph does not apply where paragraph 7 applies.
 
-#### 9. Powers of vice-chairperson[^key-d6ee8be689e1e6b245c753c5a198fe12]
+#### 9. Powers of vice-chairperson[^c-d6ee8be689e1e6b245c753c5a198fe12]
 
 (1) This paragraph applies where—
 
@@ -597,7 +597,7 @@ the Secretary of State may appoint another non-officer member as vice-chairperso
 
 ### PART 2 — Committees etc and the conduct of business by the Authority
 
-#### 10. Appointment of committees and sub-committees[^key-68d0c23a99434744396e3752c0ad3ae4]
+#### 10. Appointment of committees and sub-committees[^c-68d0c23a99434744396e3752c0ad3ae4]
 
 (1) Subject to such directions as may be given by the Secretary of State, the Authority may, and if so directed by the Secretary of State, must, appoint committees of the Authority consisting wholly or partly of members of the Authority or wholly of persons who are not members of the Authority.
 
@@ -605,11 +605,11 @@ the Secretary of State may appoint another non-officer member as vice-chairperso
 
 (3) Subject to such directions as may be given by the Secretary of State, paragraphs 3 and 4 (disqualification and cessation of disqualification) apply to the appointment of members of committees and sub-committees appointed under this paragraph as they apply to the appointment of non-officer members of the Authority.
 
-#### 11. Arrangements for the exercise of functions[^key-28120de58843db6bc6b015d6c74bca79]
+#### 11. Arrangements for the exercise of functions[^c-28120de58843db6bc6b015d6c74bca79]
 
 Subject to such directions as may be given by the Secretary of State, the Authority may make arrangements for the exercise, on behalf of the Authority, of any of its functions by a committee or sub-committee appointed by virtue of paragraph 10 or by an officer of the Authority, in each case subject to such restrictions and conditions as the Authority thinks fit.
 
-#### 12. Meetings and proceedings[^key-014554c05f77238de185f094680f1da2]
+#### 12. Meetings and proceedings[^c-014554c05f77238de185f094680f1da2]
 
 (1) The meetings and proceedings of the Authority must be conducted in accordance with the procedural requirements in paragraph 13 and with standing orders made under sub-paragraph (2).
 
@@ -617,7 +617,7 @@ Subject to such directions as may be given by the Secretary of State, the Author
 
 (3) Subject to such directions as may be given by the Secretary of State, the Authority may make, vary and revoke standing orders relating to the quorum, proceedings and place of meeting of any committee or sub-committee of the Authority, but subject to such standing orders, the quorum, proceedings and place of meeting are to be such as the committee or sub-committee may determine.
 
-#### 13. Procedural requirements for meetings and proceedings of the Authority[^key-7a39f3e93a7a6cb8e5f16d30f0ea594e]
+#### 13. Procedural requirements for meetings and proceedings of the Authority[^c-7a39f3e93a7a6cb8e5f16d30f0ea594e]
 
 (1) The first meeting of the Authority is to be held on such day and at such place as may be fixed by the chairperson, who is to have responsibility for convening the meeting.
 
@@ -651,7 +651,7 @@ must be delivered to each member, or sent by post to the member’s last known a
 
 (11) Minutes of the proceedings of a meeting must be prepared recording the names of the members present at that meeting, and signed at the next ensuing meeting by the person presiding at that next meeting.
 
-#### 14. Disability of chairperson and members in proceedings on account of pecuniary interest[^key-df9a19d173c3688da7f69dae6cdbb46b]
+#### 14. Disability of chairperson and members in proceedings on account of pecuniary interest[^c-df9a19d173c3688da7f69dae6cdbb46b]
 
 (1) Subject to the following provisions of this paragraph, if the chairperson or a member has any pecuniary interest, direct or indirect, in any contract, proposed contract or other matter and is present at any meeting of the Authority to which the contract, proposed contract or other matter is the subject of consideration, the chairperson or that member must at the meeting and as soon as practicable after its commencement, disclose that interest and must not take part in the consideration or discussion of the contract, proposed contract or other matter or vote on any question with respect to it.
 
@@ -691,41 +691,41 @@ this paragraph does not prohibit the appointee from taking part in the considera
     - (ii) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^f00045];
 - “shares” means shares in the share capital of a company or other body or the stock of a company or other body.
 
-#### 15. Reports by the Authority[^key-ac7c1b0ffbbb25a9ee51615584380efc]
+#### 15. Reports by the Authority[^c-ac7c1b0ffbbb25a9ee51615584380efc]
 
 The Authority must make such reports to the Secretary of State in such manner and at such time as the Secretary of State may direct, and must furnish to the Secretary of State such information as the Secretary of State may from time to time require.
 
-#### 16. Public meeting[^key-ad4d47bc1770f23604755bae14663607]
+#### 16. Public meeting[^c-ad4d47bc1770f23604755bae14663607]
 
 Where under paragraph 15 the Authority makes an annual report to the Secretary of State which directions mentioned in that paragraph require to be published, the Authority must present the report at a public meeting held not later than 30 days after the date on which the report was made.
 
-## SCHEDULE 3 — Abolition of the Authority[^key-dfb0e894d92a42335c8ce7ffc74ecb3c]
+## SCHEDULE 3 — Abolition of the Authority[^c-dfb0e894d92a42335c8ce7ffc74ecb3c]
 
 **No longer in force.**
 
 Article 13
 
-### 1. Abolition of the Authority and Interpretation of this Schedule[^key-dfb0e894d92a42335c8ce7ffc74ecb3c]
+### 1. Abolition of the Authority and Interpretation of this Schedule[^c-dfb0e894d92a42335c8ce7ffc74ecb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Provision for the transfer of officers upon abolition of the Authority[^key-dfb0e894d92a42335c8ce7ffc74ecb3c]
+### 2. Provision for the transfer of officers upon abolition of the Authority[^c-dfb0e894d92a42335c8ce7ffc74ecb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Dismissal of employee because of transfer[^key-dfb0e894d92a42335c8ce7ffc74ecb3c]
+### 3. Dismissal of employee because of transfer[^c-dfb0e894d92a42335c8ce7ffc74ecb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Pensions[^key-dfb0e894d92a42335c8ce7ffc74ecb3c]
+### 4. Pensions[^c-dfb0e894d92a42335c8ce7ffc74ecb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Provisions for the transfer of property and liabilities upon abolition of the Authority[^key-dfb0e894d92a42335c8ce7ffc74ecb3c]
+### 5. Provisions for the transfer of property and liabilities upon abolition of the Authority[^c-dfb0e894d92a42335c8ce7ffc74ecb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Continuity and supplementary provisions[^key-dfb0e894d92a42335c8ce7ffc74ecb3c]
+### 6. Continuity and supplementary provisions[^c-dfb0e894d92a42335c8ce7ffc74ecb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -753,33 +753,33 @@ No impact assessment has been prepared in respect of this Order as no impact on 
 
 [^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 7 was amended by section 21(1) to (4) of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”). Section 28 was amended by section 55(1) of, and paragraph 13 in Part 2 of Schedule 4 to, the 2012 Act. In relation to the exercise of powers to establish a new special health authority under section 28, see section 28A, which was inserted by section 48(1) of the 2012 Act and requires provision to be made for the abolition of the special health authority in orders made after the coming into force of said section 48. (Section 48 of the 2012 Act was brought into force on 1st April 2013 by [SI 2013/160 (C.9)](https://www.legislation.gov.uk/uksi/2013/160).) Section 29 was amended by section 55(1) of, and paragraph 14 in Part 2 of Schedule 4 to, the 2012 Act. In Schedule 6 to the National Health Service Act 2006 (“the 2006 Act”), paragraphs 3 and 13 were amended by section 55(1) of, and paragraph 23 of Part 2 of Schedule 4 to, the 2012 Act; and paragraph 5 in Schedule 6 to the 2006 Act was amended by section 19 of, and paragraphs 9 and 11 of Part 1 of Schedule 3 to, the Health Act 2009. By virtue of section 271 of the 2006 Act, the powers exercised in making this Order are exercisable by the Secretary of State in relation to England only.
 
-[^key-5b62d9052f983e8a13a066d6b0910ac7]: Commencement: Art. 1 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-5b62d9052f983e8a13a066d6b0910ac7]: Commencement: Art. 1 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-3ca4d72cc99c738fe32567762faff716]: Commencement: Art. 2 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-3ca4d72cc99c738fe32567762faff716]: Commencement: Art. 2 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-57008b0fa8b19cee7796210ba3495ef6]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/958/article/2) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/86/2/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-57008b0fa8b19cee7796210ba3495ef6]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/958/article/2) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/86/2/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
 [^f00002]: Footnote: The NHS Business Services Authority is a Special Health Authority established by the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Establishment and Constitution) Order 2005, [SI 2005/2414](https://www.legislation.gov.uk/uksi/2005/2414). That Order has effect as if made under section 28 of the National Health Service Act 2006 in relation to England, and section 22 of the National Health Service (Wales) Act [2006 (c. 42)](https://www.legislation.gov.uk/ukpga/2006/42) in relation to Wales, by virtue of section 4 of, and paragraphs 1 and 2 of Part 1 of Schedule 2 to, the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43).
 
 [^f00003]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18). There are no relevant amendments to section 139.
 
-[^key-4787eb9c2f45f0c953ceb5cb770a8c9f]: Commencement: Art. 3 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-4787eb9c2f45f0c953ceb5cb770a8c9f]: Commencement: Art. 3 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-ebbb6da0705ec5b50753e59a93692f71]: Commencement: Art. 4 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-ebbb6da0705ec5b50753e59a93692f71]: Commencement: Art. 4 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
 [^f00004]: Footnote: Section 197 was amended by section 55(1) of, and paragraph 105 of Part 9 of Schedule 4 to, the Health and Social Care Act 2012.
 
 [^f00005]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 83(1)(c) was amended by section 4(2)(a) of the Wales Act [2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29).
 
-[^key-d2a718215dcc69285440c211eaf581b3]: Commencement: Art. 5 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-d2a718215dcc69285440c211eaf581b3]: Commencement: Art. 5 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-e46d8346c2ef202c1d3cd5e1103d88c2]: Commencement: Art. 6 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-e46d8346c2ef202c1d3cd5e1103d88c2]: Commencement: Art. 6 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-e0d18ba7563a0113ce654afd6f05a3f2]: Commencement: Art. 7 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-e0d18ba7563a0113ce654afd6f05a3f2]: Commencement: Art. 7 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
 [^f00006]: Footnote: The NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Directions 2016, a copy of which can be found at: *https://www.nhsbsa.nhs.uk/sites/default/files/2017-02/Section\_2\_-\_B1\_NHSBSA\_Directions\_2016.pdf*, or may be obtained by writing to the Department of Health Correspondence Unit, Richmond House, 79 Whitehall, London SW1A 2NS.
 
-[^key-c0dcbab721e02221f6399f2d4febe307]: Commencement: Art. 8 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-c0dcbab721e02221f6399f2d4febe307]: Commencement: Art. 8 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
 [^f00007]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -789,59 +789,59 @@ No impact assessment has been prepared in respect of this Order as no impact on 
 
 [^f00010]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-a2c6d74a55b91e5857c10597d9d734b6]: Commencement: Art. 9 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-a2c6d74a55b91e5857c10597d9d734b6]: Commencement: Art. 9 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-397d3c82962795410d3676f371207892]: Commencement: Art. 10 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-397d3c82962795410d3676f371207892]: Commencement: Art. 10 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-39ecb5bd37d4809f4fc9ae2d429e62ea]: Commencement: Art. 11 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-39ecb5bd37d4809f4fc9ae2d429e62ea]: Commencement: Art. 11 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-56844a5e37e0cb531b451925ca07e5b8]: Commencement: Art. 12 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-56844a5e37e0cb531b451925ca07e5b8]: Commencement: Art. 12 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-ad812f906f49f9dce059c986211ad607]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2017/958/part/4) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 86(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/86/2/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ad812f906f49f9dce059c986211ad607]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2017/958/part/4) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 86(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/86/2/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-431a111de700dc7e1427a4a49f118abe]: Commencement: Art. 14 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-431a111de700dc7e1427a4a49f118abe]: Commencement: Art. 14 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
 [^f00011]: Footnote: [SI 2008/1148](https://www.legislation.gov.uk/uksi/2008/1148), to which no amendment has been made.
 
-[^key-d25d79c208fc890cf682479cc074fd46]: Commencement: Sch. 1 para. 1 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-d25d79c208fc890cf682479cc074fd46]: Commencement: Sch. 1 para. 1 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
 [^f00012]: Footnote: The Counter Fraud Professional Accreditation Board is a non-statutory regulatory body financed, and run by representatives from, in particular, the Department of Work and Pensions and its agencies, the Department of Health, certain local government bodies, HM Revenue and Customs, and the UK Passport Agency, and hosted by the University of Portsmouth, with the purposes of ensuring the delivery of professional counter fraud training and academic study and that, once qualified, those who are accredited maintain their professional standards.
 
-[^key-120013ecce1793f64c6c2691c5eaed14]: Commencement: Sch. 1 para. 2 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-120013ecce1793f64c6c2691c5eaed14]: Commencement: Sch. 1 para. 2 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
 [^f00013]: Footnote: Section 197 was amended by section 55(1) of, and paragraph 105 of Part 9 of Schedule 4 to, the Health and Social Care Act 2012.
 
-[^key-bfb36f4330eaa68662df60ded44e337b]: Commencement: Sch. 1 para. 3 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-bfb36f4330eaa68662df60ded44e337b]: Commencement: Sch. 1 para. 3 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-e62875fc2e90bf080bf68a686ab4c07f]: Commencement: Sch. 1 para. 4 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-e62875fc2e90bf080bf68a686ab4c07f]: Commencement: Sch. 1 para. 4 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-258d9dde93804666f088ce43277305f1]: Commencement: Sch. 1 para. 5 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-258d9dde93804666f088ce43277305f1]: Commencement: Sch. 1 para. 5 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-cc214b575afe2573d354cb3811a478ea]: Commencement: Sch. 1 para. 6 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-cc214b575afe2573d354cb3811a478ea]: Commencement: Sch. 1 para. 6 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-f72299c2b7c959f6714fe115c30da4f1]: Commencement: Sch. 1 para. 7 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-f72299c2b7c959f6714fe115c30da4f1]: Commencement: Sch. 1 para. 7 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-1729a475dc841f77213a7e882bb010bd]: Commencement: Sch. 1 para. 8 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-1729a475dc841f77213a7e882bb010bd]: Commencement: Sch. 1 para. 8 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-76082095a44f3c2e2598e677f845baf5]: Commencement: Sch. 1 para. 9 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-76082095a44f3c2e2598e677f845baf5]: Commencement: Sch. 1 para. 9 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
 [^f00014]: Footnote: “Personal records” for these purposes is defined in section 210(1) of the National Health Service Act 2006.
 
-[^key-08a6cc604c9ca1d287d9adb174574692]: Commencement: Sch. 1 para. 10 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-08a6cc604c9ca1d287d9adb174574692]: Commencement: Sch. 1 para. 10 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-fef58dac66c67b346075dc258efc8b3a]: Commencement: Sch. 1 para. 11 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-fef58dac66c67b346075dc258efc8b3a]: Commencement: Sch. 1 para. 11 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-56e3477ae677c4f39bb12dbac80ee8f6]: Commencement: Sch. 1 para. 12 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-56e3477ae677c4f39bb12dbac80ee8f6]: Commencement: Sch. 1 para. 12 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-dbfb756c754e188525c1766d43684491]: Commencement: Sch. 1 para. 13 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-dbfb756c754e188525c1766d43684491]: Commencement: Sch. 1 para. 13 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
 [^f00015]: Footnote: Subsection (2) was amended, and subsection (5A) was inserted, by section 55(1) of and paragraph 104 of Part 9 of Schedule 4 to, the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”). See also amendment made to the definition “NHS body” in section 275(1) of the NHS Act by section 55(1) of, and paragraph 138 of Part 12 of Schedule 4 to, the 2012 Act.
 
-[^key-b450d53918c475c5b8376e43e832ea7f]: Commencement: Sch. 2 para. 1 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-b450d53918c475c5b8376e43e832ea7f]: Commencement: Sch. 2 para. 1 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-36e4d1b436fbac13c567011676ab7965]: Commencement: Sch. 2 para. 2 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-36e4d1b436fbac13c567011676ab7965]: Commencement: Sch. 2 para. 2 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-02480cd52b332f7c05436b2d8c8b6bca]: Commencement: Sch. 2 para. 3 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-02480cd52b332f7c05436b2d8c8b6bca]: Commencement: Sch. 2 para. 3 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
 [^f00016]: Footnote: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41). Chapters 1, 2 and 3 of Part 1 have been amended by section 70 of, and Schedule 2 to, the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16); section 40 of, and Sched 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4); sections 198, 203, 207 and 278 of, and Schedules 25 and 26 to, the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40); by [SI 2004/1261](https://www.legislation.gov.uk/uksi/2004/1261); by [SI 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); by [SI 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809); by sections 26(3), 39 to 42, 44, 45 and 57 of, and Schedules 5, 13 and 15 to, the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
@@ -869,7 +869,7 @@ No impact assessment has been prepared in respect of this Order as no impact on 
 
 [^f00028]: Footnote: Section 91 was amended by section 55(1) of, and paragraph 35 of Part 4 of Schedule 4 to, the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”). Section 106 was amended by section 55(1) of, and paragraph 47 of Part 5 of Schedule 4 to, the 2012 Act. Section 123 was amended by section 55(1) of, and paragraph 60 of Part 6 of Schedule 4 to, the 2012 Act. Section 147A was inserted by section 208(2) of the 2012 Act. Subsection 3 of section 147A was amended by paragraphs 120 and 123 of Part 7 of Schedule 9 to the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9). See also section 147B which was inserted by the same provision in the 2012 Act and makes further provision about regulations under section 147A.
 
-[^key-ea809ef33845eb4c9e110bdb9390e7d3]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-ea809ef33845eb4c9e110bdb9390e7d3]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^f00030]: Footnote: Section 14D of the 2006 Act provides for the establishment of clinical commissioning groups. That section was inserted by section 25(1) of the 2012 Act.
 
@@ -879,11 +879,11 @@ No impact assessment has been prepared in respect of this Order as no impact on 
 
 [^f00033]: Footnote: Monitor is the body corporate previously known as the Independent Regulator of NHS Foundation Trusts, which was first established by section 2 of the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43). That body’s name was changed to Monitor, and its existence continued, by section 61 of the 2012 Act.
 
-[^key-8d9ec7a98c2d6fcc838efb18a80f6c48]: Textual amendment: Words in Sch. 2 para. 3(2)(g) inserted (17.4.2024) by [The Levelling Up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2024/418/regulation/5/a)
+[^c-8d9ec7a98c2d6fcc838efb18a80f6c48]: Textual amendment: Words in Sch. 2 para. 3(2)(g) inserted (17.4.2024) by [The Levelling Up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2024/418/regulation/5/a)
 
 [^f00034]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20). As amended by section 7 of the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1) (“the 2016 Act”), sections 105A and 105B provide, subject to certain tests and limitations, and with certain exceptions, including those set out in section 18 of the 2016 Act in relation to the health service, for orders to be made conferring functions of public authorities upon combined authorities.
 
-[^key-93aa0606b501cf7bb38a177b1d87f041]: Textual amendment: Words in Sch. 2 para. 3(2)(g) inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2024/418/regulation/5/b)
+[^c-93aa0606b501cf7bb38a177b1d87f041]: Textual amendment: Words in Sch. 2 para. 3(2)(g) inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2024/418/regulation/5/b)
 
 [^f00035]: Footnote: [2016 c. 1](https://www.legislation.gov.uk/ukpga/2016/1). Sections 16 and 17 provide, subject to certain tests and limitations, and with certain exceptions, including those set out in section 18 of the 2016 Act, for regulations to be made conferring functions of public authorities on local authorities.
 
@@ -903,38 +903,38 @@ No impact assessment has been prepared in respect of this Order as no impact on 
 
 [^f00043]: Footnote: The National Institute for Health and Care Excellence was established by section 232 of the 2012 Act.
 
-[^key-ed05a7d8bc11bd208862281fa8a4990c]: Textual amendment: Words in [Sch. 2 para. 3(2)(o)](https://www.legislation.gov.uk/uksi/2017/958/schedule/2/paragraph/3/2/o) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(v)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/v) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-ed05a7d8bc11bd208862281fa8a4990c]: Textual amendment: Words in [Sch. 2 para. 3(2)(o)](https://www.legislation.gov.uk/uksi/2017/958/schedule/2/paragraph/3/2/o) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(v)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/v) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-23a28c304d1d662363b2e3574ea558ad]: Textual amendment: Sch. 2 para. 3(2)(p) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2024/1205/regulation/22)
+[^c-23a28c304d1d662363b2e3574ea558ad]: Textual amendment: Sch. 2 para. 3(2)(p) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2024/1205/regulation/22)
 
-[^key-03c3091b6d28da299adc9f4a70a7031e]: Commencement: Sch. 2 para. 4 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-03c3091b6d28da299adc9f4a70a7031e]: Commencement: Sch. 2 para. 4 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-54111ea659d994279ed03feb2fed6038]: Commencement: Sch. 2 para. 5 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-54111ea659d994279ed03feb2fed6038]: Commencement: Sch. 2 para. 5 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-8284b46300e211893fadfb8df1535045]: Commencement: Sch. 2 para. 6 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-8284b46300e211893fadfb8df1535045]: Commencement: Sch. 2 para. 6 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-c99b0a99b997254f52190035c6da821a]: Commencement: Sch. 2 para. 7 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-c99b0a99b997254f52190035c6da821a]: Commencement: Sch. 2 para. 7 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-b86e43f182f925c31d354723344084a5]: Commencement: Sch. 2 para. 8 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-b86e43f182f925c31d354723344084a5]: Commencement: Sch. 2 para. 8 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-d6ee8be689e1e6b245c753c5a198fe12]: Commencement: Sch. 2 para. 9 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-d6ee8be689e1e6b245c753c5a198fe12]: Commencement: Sch. 2 para. 9 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-68d0c23a99434744396e3752c0ad3ae4]: Commencement: Sch. 2 para. 10 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-68d0c23a99434744396e3752c0ad3ae4]: Commencement: Sch. 2 para. 10 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-28120de58843db6bc6b015d6c74bca79]: Commencement: Sch. 2 para. 11 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-28120de58843db6bc6b015d6c74bca79]: Commencement: Sch. 2 para. 11 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-014554c05f77238de185f094680f1da2]: Commencement: Sch. 2 para. 12 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-014554c05f77238de185f094680f1da2]: Commencement: Sch. 2 para. 12 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-7a39f3e93a7a6cb8e5f16d30f0ea594e]: Commencement: Sch. 2 para. 13 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-7a39f3e93a7a6cb8e5f16d30f0ea594e]: Commencement: Sch. 2 para. 13 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-df9a19d173c3688da7f69dae6cdbb46b]: Commencement: Sch. 2 para. 14 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-df9a19d173c3688da7f69dae6cdbb46b]: Commencement: Sch. 2 para. 14 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
 [^f00044]: Footnote: [2014 c. 14](https://www.legislation.gov.uk/ukpga/2014/14).
 
 [^f00045]: Footnote: [1969 c. 24](https://www.legislation.gov.uk/ukpga/1969/24). The Act is subject to amendments yet to be brought into force in relation to section 1 (societies which may be registered) and as to the title of the Act, pursuant to section 8 of the Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) [2016 (c. 16)](https://www.legislation.gov.uk/ukpga/2016/16). The prospective amended title of the 1969 Act is the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969.
 
-[^key-ac7c1b0ffbbb25a9ee51615584380efc]: Commencement: Sch. 2 para. 15 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-ac7c1b0ffbbb25a9ee51615584380efc]: Commencement: Sch. 2 para. 15 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-ad4d47bc1770f23604755bae14663607]: Commencement: Sch. 2 para. 16 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
+[^c-ad4d47bc1770f23604755bae14663607]: Commencement: Sch. 2 para. 16 in force at 1.11.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1)
 
-[^key-dfb0e894d92a42335c8ce7ffc74ecb3c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2017/958/schedule/3) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 86(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/86/2/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-dfb0e894d92a42335c8ce7ffc74ecb3c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2017/958/schedule/3) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 86(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/86/2/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

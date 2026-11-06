@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Review of OGA and guidance from Secretary of State[^key-4144c5e4f6b2c0489cc6b59b188fc600]
+## 16. Review of OGA and guidance from Secretary of State[^c-4144c5e4f6b2c0489cc6b59b188fc600]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4144c5e4f6b2c0489cc6b59b188fc600]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/20/section/16) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-4144c5e4f6b2c0489cc6b59b188fc600]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/20/section/16) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

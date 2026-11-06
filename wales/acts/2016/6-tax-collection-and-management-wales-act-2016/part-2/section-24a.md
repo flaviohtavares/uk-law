@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24A. Payments of net proceeds of the visitor levy to principal councils[^key-7c93b6061ee0547df187b6d32cda874c]
+## 24A. Payments of net proceeds of the visitor levy to principal councils[^c-7c93b6061ee0547df187b6d32cda874c]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c93b6061ee0547df187b6d32cda874c]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/anaw/2016/6/section/24A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 25](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/25)
+[^c-7c93b6061ee0547df187b6d32cda874c]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/anaw/2016/6/section/24A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 25](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/25)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Registration of order for rectification of document etc.[^key-cfd3b0c8d295df26e49285dceaab8e3e]
+## 55. Registration of order for rectification of document etc.[^c-cfd3b0c8d295df26e49285dceaab8e3e]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfd3b0c8d295df26e49285dceaab8e3e]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2012/5/section/55) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-cfd3b0c8d295df26e49285dceaab8e3e]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2012/5/section/55) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

@@ -54,7 +54,7 @@ The Welsh Ministers are designated for the purposes of section 2(2) of the Europ
 
 The Secretary of State in relation to England, and the Welsh Ministers in relation to Wales, make these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.
 
-## 1. Title, extent and commencement[^key-3858491613d354605a22efdb852e0a04]
+## 1. Title, extent and commencement[^c-3858491613d354605a22efdb852e0a04]
 
 These Regulations—
 
@@ -62,11 +62,11 @@ These Regulations—
 - (b) extend to England and Wales only; and
 - (c) come into force on 22nd December 2009.
 
-## 2. Amendment of the Water Resources Act 1991[^key-db5dee082ca164d5e7f4a36fa121b177]
+## 2. Amendment of the Water Resources Act 1991[^c-db5dee082ca164d5e7f4a36fa121b177]
 
 The Water Resources Act 1991[^f00004] is amended as follows.
 
-**3.**[^key-325b72703fb1653765a1215d3d5c7f6a] (1) Section 93 (water protection zones) is amended as follows.
+**3.**[^c-325b72703fb1653765a1215d3d5c7f6a] (1) Section 93 (water protection zones) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -152,9 +152,9 @@ The Water Resources Act 1991[^f00004] is amended as follows.
 
 .
 
-**4.**[^key-1ab050d023f53a06e3da1ac392ac1d6d] Sections 94 and 95, subsection (2) of section 96 and Schedule 12 are repealed.
+**4.**[^c-1ab050d023f53a06e3da1ac392ac1d6d] Sections 94 and 95, subsection (2) of section 96 and Schedule 12 are repealed.
 
-**5.**[^key-4ffc4c14f71b472eb9b412940fafc702] For sections 161 and 161A substitute—
+**5.**[^c-4ffc4c14f71b472eb9b412940fafc702] For sections 161 and 161A substitute—
 
 > **Restoration and improvement works for controlled waters**
 >
@@ -327,7 +327,7 @@ The Water Resources Act 1991[^f00004] is amended as follows.
 >
 > (5) In this section “mine” has the same meaning as in the Mines and Quarries Act 1954.
 
-## 6. Amendment of the Anti-Pollution Works Regulations 1999[^key-ca758b2febe43bbded4524bbd8dd3367]
+## 6. Amendment of the Anti-Pollution Works Regulations 1999[^c-ca758b2febe43bbded4524bbd8dd3367]
 
 (1) Regulation 2 of the Anti-Pollution Works Regulations 1999[^f00006] is amended as follows.
 
@@ -344,7 +344,7 @@ The Water Resources Act 1991[^f00004] is amended as follows.
 
 (3) In paragraph (f), for “section 161” substitute “sections 161(4) and 161ZA(5)”.
 
-## 7. Transfer of Functions[^key-f596cbdc56abb0ddb597eb9802f6eb18]
+## 7. Transfer of Functions[^c-f596cbdc56abb0ddb597eb9802f6eb18]
 
 Nothing in the amendments and repeals made by these Regulations in sections 93, 94, 95, 96, 161 and 161A of the Water Resources Act 1991 affects functions under any other provision of that Act that have been transferred by or under the Government of Wales Act 1998[^f00007] or the Government of Wales Act 2006[^f00008].
 
@@ -387,25 +387,25 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00003]: Footnote: [S.I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901). The functions conferred on the National Assembly for Wales by means of that Order are now exercisable by the Welsh Ministers, by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-3858491613d354605a22efdb852e0a04]: Commencement: Reg. 1 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
+[^c-3858491613d354605a22efdb852e0a04]: Commencement: Reg. 1 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
 
-[^key-db5dee082ca164d5e7f4a36fa121b177]: Commencement: Reg. 2 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
+[^c-db5dee082ca164d5e7f4a36fa121b177]: Commencement: Reg. 2 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
 
 [^f00004]: Footnote: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-325b72703fb1653765a1215d3d5c7f6a]: Commencement: Reg. 3 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
+[^c-325b72703fb1653765a1215d3d5c7f6a]: Commencement: Reg. 3 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
 
 [^f00005]: Footnote: OJ No L327, 22.12.2000, p.1. Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy.
 
-[^key-1ab050d023f53a06e3da1ac392ac1d6d]: Commencement: Reg. 4 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
+[^c-1ab050d023f53a06e3da1ac392ac1d6d]: Commencement: Reg. 4 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
 
-[^key-4ffc4c14f71b472eb9b412940fafc702]: Commencement: Reg. 5 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
+[^c-4ffc4c14f71b472eb9b412940fafc702]: Commencement: Reg. 5 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
 
-[^key-ca758b2febe43bbded4524bbd8dd3367]: Commencement: Reg. 6 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
+[^c-ca758b2febe43bbded4524bbd8dd3367]: Commencement: Reg. 6 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
 
 [^f00006]: Footnote: [S.I. 1999/1006](https://www.legislation.gov.uk/uksi/1999/1006).
 
-[^key-f596cbdc56abb0ddb597eb9802f6eb18]: Commencement: Reg. 7 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
+[^c-f596cbdc56abb0ddb597eb9802f6eb18]: Commencement: Reg. 7 in force at 22.12.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c)
 
 [^f00007]: Footnote: [1998 c.38](https://www.legislation.gov.uk/ukpga/1998/38).
 

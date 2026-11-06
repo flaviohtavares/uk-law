@@ -32,7 +32,7 @@ summary: ''
 
 Proceeds Of Crime
 
-The Proceeds of Crime Act 2002 (Recovery of Listed Assets: Code of Practice) (England and Wales and Scotland) Regulations 2018 (revoked)[^key-3d3e78a7dbc66190ca2c6fcd2027c3ef]
+The Proceeds of Crime Act 2002 (Recovery of Listed Assets: Code of Practice) (England and Wales and Scotland) Regulations 2018 (revoked)[^c-3d3e78a7dbc66190ca2c6fcd2027c3ef]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 16th April 2018
 
-[^key-3d3e78a7dbc66190ca2c6fcd2027c3ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d3e78a7dbc66190ca2c6fcd2027c3ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-3d3e78a7dbc66190ca2c6fcd2027c3ef]
+## 1. Citation, commencement and extent[^c-3d3e78a7dbc66190ca2c6fcd2027c3ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Code of Practice[^key-3d3e78a7dbc66190ca2c6fcd2027c3ef]
+## 2. Code of Practice[^c-3d3e78a7dbc66190ca2c6fcd2027c3ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3d3e78a7dbc66190ca2c6fcd2027c3ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d3e78a7dbc66190ca2c6fcd2027c3ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3d3e78a7dbc66190ca2c6fcd2027c3ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d3e78a7dbc66190ca2c6fcd2027c3ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d3e78a7dbc66190ca2c6fcd2027c3ef]: Textual amendment: Regulations revoked (28.6.2021) by [The Proceeds of Crime Act 2002 (Recovery of Listed Assets: Code of Practice) Regulations 2021 (S.I. 2021/727)](https://www.legislation.gov.uk/uksi/2021/727), [regs. 1](https://www.legislation.gov.uk/uksi/2021/727/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/727/regulation/3)
+[^c-3d3e78a7dbc66190ca2c6fcd2027c3ef]: Textual amendment: Regulations revoked (28.6.2021) by [The Proceeds of Crime Act 2002 (Recovery of Listed Assets: Code of Practice) Regulations 2021 (S.I. 2021/727)](https://www.legislation.gov.uk/uksi/2021/727), [regs. 1](https://www.legislation.gov.uk/uksi/2021/727/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/727/regulation/3)

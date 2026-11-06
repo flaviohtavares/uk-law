@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Consent to supply of large trailers for use on a road[^key-c228352cd8c5c7c3ab3994528ec88ffa]
+## 23. Consent to supply of large trailers for use on a road[^c-c228352cd8c5c7c3ab3994528ec88ffa]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 
 (8) In this regulation—
 
-- “[^key-02f85246756b9daaac9bb0641d3f0e83]**appropriate approval or certificate of conformity**” means any of the following which is appropriate to the vehicle—
+- “[^c-02f85246756b9daaac9bb0641d3f0e83]**appropriate approval or certificate of conformity**” means any of the following which is appropriate to the vehicle—
   - (a) where the trailer is to be kept, or normally kept at a place in Great Britain—
     - (i) a certificate of conformity issued under regulation 16(7) relating to—
       - (aa) a GB small series type-approval,
@@ -75,8 +75,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c228352cd8c5c7c3ab3994528ec88ffa]: Commencement: Reg. 23 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-c228352cd8c5c7c3ab3994528ec88ffa]: Commencement: Reg. 23 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-02f85246756b9daaac9bb0641d3f0e83]: Textual amendment: Words in [reg. 23(8)](https://www.legislation.gov.uk/uksi/2020/818/regulation/23/8) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/15/2/a)
+[^c-02f85246756b9daaac9bb0641d3f0e83]: Textual amendment: Words in [reg. 23(8)](https://www.legislation.gov.uk/uksi/2020/818/regulation/23/8) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/15/2/a)
 
 [^c24305181]: Marginal citation: See Article 2 of that Regulation.

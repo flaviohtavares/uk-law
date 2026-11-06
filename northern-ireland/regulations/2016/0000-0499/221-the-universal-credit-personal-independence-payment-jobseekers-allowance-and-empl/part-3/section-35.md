@@ -33,9 +33,9 @@ summary: ''
 
 (5) A superseding decision made in consequence of a decision which is a relevant determination for the purposes of Article 27 of the 1998 Order [^c22846891] (restrictions on entitlement to benefit in certain cases of error) takes effect from the date of the relevant determination.
 
-(6)[^key-10c22c147d03bdff9af09b23963a828c] In the case of an employment and support allowance, a superseding decision made in accordance with regulation 26(1) (medical evidence and limited capability for work etc.), following an application by the claimant, that embodies a determination that the claimant has limited capability for work-related activity, takes effect from the date of the application.
+(6)[^c-10c22c147d03bdff9af09b23963a828c] In the case of an employment and support allowance, a superseding decision made in accordance with regulation 26(1) (medical evidence and limited capability for work etc.), following an application by the claimant, that embodies a determination that the claimant has limited capability for work-related activity, takes effect from the date of the application.
 
-(7)[^key-10c22c147d03bdff9af09b23963a828c] In the case of an employment and support allowance, a superseding decision made on the Department's own initiative in accordance with regulation 26(1) that embodies a determination that the claimant has—
+(7)[^c-10c22c147d03bdff9af09b23963a828c] In the case of an employment and support allowance, a superseding decision made on the Department's own initiative in accordance with regulation 26(1) that embodies a determination that the claimant has—
 
 - (a) limited capability for work;
 - (b) limited capability for work-related activity; or
@@ -43,7 +43,7 @@ summary: ''
 
 takes effect from the day after the last day of the relevant period as defined in regulation 5(4) of the Employment and Support Allowance Regulations where the determination is the first such determination.
 
-(8)[^key-10c22c147d03bdff9af09b23963a828c] In the case of an employment and support allowance where regulation 6 of the Employment and Support Allowance Regulations (assessment phase – previous claimants) applies, a superseding decision made in accordance with regulation 26(1) of these Regulations that embodies a determination that the claimant has—
+(8)[^c-10c22c147d03bdff9af09b23963a828c] In the case of an employment and support allowance where regulation 6 of the Employment and Support Allowance Regulations (assessment phase – previous claimants) applies, a superseding decision made in accordance with regulation 26(1) of these Regulations that embodies a determination that the claimant has—
 
 - (a) limited capability for work;
 - (b) limited capability for work-related activity; or
@@ -51,7 +51,7 @@ takes effect from the day after the last day of the relevant period as defined i
 
 takes effect from the beginning of the 14th week of the claimant's continuous period of limited capability for work.
 
-(9)[^key-10c22c147d03bdff9af09b23963a828c] In the case of universal credit, a superseding decision made in accordance with regulation 26(1) that embodies a determination that the claimant has limited capability for work or limited capability for work and work-related activity takes effect—
+(9)[^c-10c22c147d03bdff9af09b23963a828c] In the case of universal credit, a superseding decision made in accordance with regulation 26(1) that embodies a determination that the claimant has limited capability for work or limited capability for work and work-related activity takes effect—
 
 - (a) in a case to which paragraph (1) of regulation 29 of the Universal Credit Regulations (period for which the LCW or LCWRA element is not to be included) applies, from the beginning of the assessment period specified in that paragraph; or
 - (b) in any other case, from the beginning of the assessment period in which the decision (if made on the Department's own initiative) or the application for a supersession was made.
@@ -84,4 +84,4 @@ takes effect from the beginning of the 14th week of the claimant's continuous pe
 
 [^c22846891]: Marginal citation: Article 27 was amended by paragraph 9 of Schedule 1 to the State Pension Credit Act (Northern Ireland) 2002, paragraph 67 of Schedule 9 to the Constitutional Reform Act 2005 and paragraph 10(5) of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007.
 
-[^key-10c22c147d03bdff9af09b23963a828c]: Modification: Reg. 35(6)-(9) applied (with modifications) (temp.) (13.3.2020) by [The Employment and Support Allowance and Universal Credit (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/33)](https://www.legislation.gov.uk/nisr/2020/33), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/33/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2020/33/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/nisr/2020/33/regulation/5)), as amended (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [10(3)](https://www.legislation.gov.uk/nisr/2020/53/regulation/10/3)
+[^c-10c22c147d03bdff9af09b23963a828c]: Modification: Reg. 35(6)-(9) applied (with modifications) (temp.) (13.3.2020) by [The Employment and Support Allowance and Universal Credit (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/33)](https://www.legislation.gov.uk/nisr/2020/33), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/33/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2020/33/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/nisr/2020/33/regulation/5)), as amended (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [10(3)](https://www.legislation.gov.uk/nisr/2020/53/regulation/10/3)

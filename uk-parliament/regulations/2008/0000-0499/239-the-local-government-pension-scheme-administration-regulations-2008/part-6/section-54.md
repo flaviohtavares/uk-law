@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Interpretation of Part[^key-7800bb7c8cc2405c72e6b7482eed74cd]
+## 54. Interpretation of Part[^c-7800bb7c8cc2405c72e6b7482eed74cd]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ In this Part a reference to the employing authority or the appropriate administe
 
 ## Annotations
 
-[^key-7800bb7c8cc2405c72e6b7482eed74cd]: Commencement: Reg. 54 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-7800bb7c8cc2405c72e6b7482eed74cd]: Commencement: Reg. 54 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

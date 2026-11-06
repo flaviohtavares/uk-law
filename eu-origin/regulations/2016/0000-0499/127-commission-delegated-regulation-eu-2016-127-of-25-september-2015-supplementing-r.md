@@ -35,7 +35,7 @@ supplementing Regulation (EU) No 609/2013 of the European Parliament and of the 
 
 (Text with EEA relevance)
 
-[^key-2ae49cdb4a9d8ec306f11c2bf7c46028]
+[^c-2ae49cdb4a9d8ec306f11c2bf7c46028]
 
 THE EUROPEAN COMMISSION,
 
@@ -175,7 +175,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 4. Requirements on pesticides
 
-1.[^key-a2c5862465611d5dfd4eceed87565a8a] For the purposes of this Article, ‘residue’ means pesticide residue as referred to in sub-paragraph (c) of Article 3(2) of Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396).
+1.[^c-a2c5862465611d5dfd4eceed87565a8a] For the purposes of this Article, ‘residue’ means pesticide residue as referred to in sub-paragraph (c) of Article 3(2) of Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396).
 
 2. Infant formula and follow-on formula shall not contain residues at levels exceeding 0,01 mg/kg per active substance.
 
@@ -269,7 +269,7 @@ When the statement ‘lactose free’ is used for infant formula and follow-on f
 
 1. Advertising of infant formula shall be restricted to publications specialising in baby care and scientific publications.
 
-The appropriate authority[^key-007ee2e9409b42e3dc3b5c4e9ffbab3e] may further restrict or prohibit such advertising. Such advertising shall contain only information of a scientific and factual nature. Such information shall not imply or create a belief that bottle-feeding is equivalent or superior to breast feeding.
+The appropriate authority[^c-007ee2e9409b42e3dc3b5c4e9ffbab3e] may further restrict or prohibit such advertising. Such advertising shall contain only information of a scientific and factual nature. Such information shall not imply or create a belief that bottle-feeding is equivalent or superior to breast feeding.
 
 2. There shall be no point-of-sale advertising, giving of samples or any other promotional device to induce sales of infant formula directly to the consumer at the retail level, such as special displays, discount coupons, premiums, special sales, loss-leaders and tie-in sales.
 
@@ -277,7 +277,7 @@ The appropriate authority[^key-007ee2e9409b42e3dc3b5c4e9ffbab3e] may further res
 
 4. Donations or low-price sales of supplies of infant formula to institutions or organisations, whether for use in the institutions or for distribution outside them, shall only be used by or distributed for infants who have to be fed on infant formula and only for as long as required by such infants.
 
-(5.)[^key-5636757b075fe6b976f81c0463574588] In this Article, “**appropriate authority**” means—
+(5.)[^c-5636757b075fe6b976f81c0463574588] In this Article, “**appropriate authority**” means—
 
 - (a) in respect of advertising in England, the Secretary of State;
 - (b) in respect of advertising in Wales, the Welsh Ministers;
@@ -285,7 +285,7 @@ The appropriate authority[^key-007ee2e9409b42e3dc3b5c4e9ffbab3e] may further res
 
 ## Article 11. Requirements on information relating to infant and young child feeding
 
-1. The appropriate authority[^key-8e42331407f4d4866b0ceb0d86d4afb0] shall take measures ensuring that objective and consistent information is provided on infant and young child feeding for use by families and those involved in the field of infant and young child nutrition, and covering the planning, provision, design and dissemination of information and their control.
+1. The appropriate authority[^c-8e42331407f4d4866b0ceb0d86d4afb0] shall take measures ensuring that objective and consistent information is provided on infant and young child feeding for use by families and those involved in the field of infant and young child nutrition, and covering the planning, provision, design and dissemination of information and their control.
 
 2. Informational and educational materials, whether written or audiovisual, dealing with the feeding of infants and intended to reach pregnant women and mothers of infants and young children, shall include clear information on all the following points:
 
@@ -297,15 +297,15 @@ The appropriate authority[^key-007ee2e9409b42e3dc3b5c4e9ffbab3e] may further res
 
 Where such materials contain information about the use of infant formula, they shall include the social and financial implications of its use, the health hazards of inappropriate foods or feeding methods, and, in particular, the health hazards of improper use of infant formula. Such material shall not use any pictures which may idealise the use of infant formula.
 
-3. Donations of informational or educational equipment or materials by manufacturers or distributors shall be made only on request and with the written approval of the appropriate authority[^key-ca9223a135d62c82e1c574e79051273e] or within guidelines given by that authority for this purpose. Such equipment or materials may bear the donating company's name or logo, but shall not refer to a proprietary brand of infant formula and shall be distributed only through the health care system.
+3. Donations of informational or educational equipment or materials by manufacturers or distributors shall be made only on request and with the written approval of the appropriate authority[^c-ca9223a135d62c82e1c574e79051273e] or within guidelines given by that authority for this purpose. Such equipment or materials may bear the donating company's name or logo, but shall not refer to a proprietary brand of infant formula and shall be distributed only through the health care system.
 
-(4.)[^key-d23299ce23f7257accda62249dc0e794] In this Article, “**appropriate authority**” means—
+(4.)[^c-d23299ce23f7257accda62249dc0e794] In this Article, “**appropriate authority**” means—
 
 - (a) in respect of information or educational equipment or materials to be provided in England, the Secretary of State;
 - (b) in respect of information or educational equipment or materials to be provided in Wales, the Welsh Ministers;
 - (c) in respect of information or educational equipment or materials to be provided in Scotland, the Scottish Ministers.
 
-## Article 12. Notification[^key-52dc9e4bb22b0d84dc1ae45337ff0056]
+## Article 12. Notification[^c-52dc9e4bb22b0d84dc1ae45337ff0056]
 
 (1.) When infant formula is placed on the market, the food business operator shall notify the competent authority of each part of Great Britain where the product concerned is being marketed of the information appearing on the label, by sending to it a model of the label used for the product, and of any other information the competent authority may reasonably request to establish compliance with this Regulation.
 
@@ -317,11 +317,11 @@ Where such materials contain information about the use of infant formula, they s
 - (b) in respect of infant formula, or follow-on formula manufactured from protein hydrolysates or follow-on formula containing other substances than those listed in Annex II being placed on the market in Wales, the Welsh Ministers;
 - (c) in respect of infant formula, or follow-on formula manufactured from protein hydrolysates or follow-on formula containing other substances than those listed in Annex II being placed on the market in Scotland, Food Standards Scotland.
 
-## Article 13. Directive 2006/141/EC[^key-ac9364f7a43cf3b3840e2bdfdd26f223]
+## Article 13. Directive 2006/141/EC[^c-ac9364f7a43cf3b3840e2bdfdd26f223]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Entry into force and application[^key-bbad730d5afa882f4d33594b498094f5]
+## Article 14. Entry into force and application[^c-bbad730d5afa882f4d33594b498094f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1091,13 +1091,13 @@ PART A
 
 **Name referred to in Article 5(1)**
 
-The name of infant formula and follow-on formula other than infant formula and follow-on formula manufactured entirely from cows' milk or goats' milk proteins shall be respectively “ Infant formula ” and “Follow-on formula”.[^key-edccdda026842c35eb8bd3b0be21afd9]
+The name of infant formula and follow-on formula other than infant formula and follow-on formula manufactured entirely from cows' milk or goats' milk proteins shall be respectively “ Infant formula ” and “Follow-on formula”.[^c-edccdda026842c35eb8bd3b0be21afd9]
 
 PART B
 
 **Name referred to in Article 5(2)**
 
-The name of infant formula and follow-on formula manufactured entirely from cows' milk or goats' milk proteins shall be respectively “Infant milk” and “Follow-on milk”.[^key-78eb93b72cd9318f5bbc08b3b9619900]
+The name of infant formula and follow-on formula manufactured entirely from cows' milk or goats' milk proteins shall be respectively “Infant milk” and “Follow-on milk”.[^c-78eb93b72cd9318f5bbc08b3b9619900]
 
 ## ANNEX VII — REFERENCE INTAKES REFERRED TO IN ARTICLE 7(7)
 
@@ -1131,7 +1131,7 @@ The name of infant formula and follow-on formula manufactured entirely from cows
 
 ## Annotations
 
-[^key-2ae49cdb4a9d8ec306f11c2bf7c46028]: Modification: Regulation modified (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/1/a) (as amended (21.2.2021) by [The Nutrition (Amendment) and Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment) Regulations 2021 (S.I. 2021/168)](https://www.legislation.gov.uk/uksi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/3/2))
+[^c-2ae49cdb4a9d8ec306f11c2bf7c46028]: Modification: Regulation modified (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/1/a) (as amended (21.2.2021) by [The Nutrition (Amendment) and Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment) Regulations 2021 (S.I. 2021/168)](https://www.legislation.gov.uk/uksi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/3/2))
 
 [^f00001]: Footnote: [OJ L 181, 29.6.2013, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.181.01.0035.01.ENG).
 
@@ -1155,23 +1155,23 @@ The name of infant formula and follow-on formula manufactured entirely from cows
 
 [^f00011]: Footnote: Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety ([OJ L 31, 1.2.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.031.01.0001.01.ENG)).
 
-[^key-a2c5862465611d5dfd4eceed87565a8a]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2016/127/article/4/1) substituted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/4/2) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
+[^c-a2c5862465611d5dfd4eceed87565a8a]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2016/127/article/4/1) substituted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/4/2) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
 
-[^key-007ee2e9409b42e3dc3b5c4e9ffbab3e]: Textual amendment: Words in [Art. 10(1)](https://www.legislation.gov.uk/eur/2016/127/article/10/1) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/2/a)
+[^c-007ee2e9409b42e3dc3b5c4e9ffbab3e]: Textual amendment: Words in [Art. 10(1)](https://www.legislation.gov.uk/eur/2016/127/article/10/1) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/2/a)
 
-[^key-5636757b075fe6b976f81c0463574588]: Textual amendment: [Art. 10(5)](https://www.legislation.gov.uk/eur/2016/127/article/10/5) inserted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/2/b)
+[^c-5636757b075fe6b976f81c0463574588]: Textual amendment: [Art. 10(5)](https://www.legislation.gov.uk/eur/2016/127/article/10/5) inserted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/2/b)
 
-[^key-8e42331407f4d4866b0ceb0d86d4afb0]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2016/127/article/11/1) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/3/a)
+[^c-8e42331407f4d4866b0ceb0d86d4afb0]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2016/127/article/11/1) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/3/a)
 
-[^key-ca9223a135d62c82e1c574e79051273e]: Textual amendment: Words in [Art. 11(3)](https://www.legislation.gov.uk/eur/2016/127/article/11/3) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/3/b)
+[^c-ca9223a135d62c82e1c574e79051273e]: Textual amendment: Words in [Art. 11(3)](https://www.legislation.gov.uk/eur/2016/127/article/11/3) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/3/b)
 
-[^key-d23299ce23f7257accda62249dc0e794]: Textual amendment: [Art. 11(4)](https://www.legislation.gov.uk/eur/2016/127/article/11/4) inserted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(3)(c)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/3/c)
+[^c-d23299ce23f7257accda62249dc0e794]: Textual amendment: [Art. 11(4)](https://www.legislation.gov.uk/eur/2016/127/article/11/4) inserted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(3)(c)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/3/c)
 
-[^key-52dc9e4bb22b0d84dc1ae45337ff0056]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/eur/2016/127/article/12) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/4)
+[^c-52dc9e4bb22b0d84dc1ae45337ff0056]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/eur/2016/127/article/12) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/4)
 
-[^key-ac9364f7a43cf3b3840e2bdfdd26f223]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2016/127/article/13) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/5)
+[^c-ac9364f7a43cf3b3840e2bdfdd26f223]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2016/127/article/13) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/5)
 
-[^key-bbad730d5afa882f4d33594b498094f5]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/eur/2016/127/article/14) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/5)
+[^c-bbad730d5afa882f4d33594b498094f5]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/eur/2016/127/article/14) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/5)
 
 [^c000001]: Textual amendment: Substituted by [Commission Delegated Regulation (EU) 2019/828 of 14 March 2019 amending Delegated Regulation (EU) 2016/127 with regard to vitamin D requirements for infant formula and erucic acid requirements for infant formula and follow-on formula (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/828).
 
@@ -1209,6 +1209,6 @@ The name of infant formula and follow-on formula manufactured entirely from cows
 
 [^f00027]: Footnote: 1 kJ = 0,239 kcal.
 
-[^key-edccdda026842c35eb8bd3b0be21afd9]: Textual amendment: Words in Annex 6 Pt. A substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(6)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/6/a)
+[^c-edccdda026842c35eb8bd3b0be21afd9]: Textual amendment: Words in Annex 6 Pt. A substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(6)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/6/a)
 
-[^key-78eb93b72cd9318f5bbc08b3b9619900]: Textual amendment: Words in [Annex 6 Pt. B](https://www.legislation.gov.uk/eur/2016/127/annex/VI/part/B) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(6)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/6/b)
+[^c-78eb93b72cd9318f5bbc08b3b9619900]: Textual amendment: Words in [Annex 6 Pt. B](https://www.legislation.gov.uk/eur/2016/127/annex/VI/part/B) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [8(6)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/8/6/b)

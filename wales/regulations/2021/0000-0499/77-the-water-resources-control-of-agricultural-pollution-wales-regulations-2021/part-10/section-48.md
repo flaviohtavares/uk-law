@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Revocations[^key-3a946ca469316659b36deeb11193cf63]
+## 48. Revocations[^c-3a946ca469316659b36deeb11193cf63]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3a946ca469316659b36deeb11193cf63]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2021/77/regulation/48) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-3a946ca469316659b36deeb11193cf63]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2021/77/regulation/48) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
 [^f00012]: Footnote: [S.I. 2010/1493 (W. 136)](https://www.legislation.gov.uk/wsi/2010/1493).
 

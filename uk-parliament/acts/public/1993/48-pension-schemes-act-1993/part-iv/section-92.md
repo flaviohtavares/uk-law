@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Supplementary provisions.[^key-36c0be76be1b6fd5cec0810cc40b7b90]
+## 92. Supplementary provisions.[^c-36c0be76be1b6fd5cec0810cc40b7b90]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ the whole or part of a pension shall be disregarded.
 
 ## Annotations
 
-[^key-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
 [^c21360461]: Marginal citation: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60).
 

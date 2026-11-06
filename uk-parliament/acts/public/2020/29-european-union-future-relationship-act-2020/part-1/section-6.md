@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9c46ff4c6858958e23c4e2fadaebf761] In the criminal records provisions—
+(1)[^c-9c46ff4c6858958e23c4e2fadaebf761] In the criminal records provisions—
 
 - “**central authority**”, in relation to a member State, means an authority designated by the government of that member State as the appropriate authority for requesting, receiving or providing information relating to convictions;
 - “**conviction**”, in relation to UK service disciplinary proceedings—
@@ -48,7 +48,7 @@ summary: ''
   - (b) any proceedings under the Army Act 1955, the Air Force Act 1955, or the Naval Discipline Act 1957 (whether before a court-martial or before any other court or person authorised under any of those Acts to award a punishment in respect of an offence);
   - (c) any proceedings before a Standing Civilian Court established under the Armed Forces Act 1976.
 
-(2)[^key-87e6496ce4916e190cff9353d83ab3ee] The following provisions (which deem a conviction of a person discharged not to be a conviction) do not apply for the purposes of the criminal records provisions to a conviction of an individual for an offence in respect of which an order has been made discharging the individual absolutely or conditionally—
+(2)[^c-87e6496ce4916e190cff9353d83ab3ee] The following provisions (which deem a conviction of a person discharged not to be a conviction) do not apply for the purposes of the criminal records provisions to a conviction of an individual for an offence in respect of which an order has been made discharging the individual absolutely or conditionally—
 
 - (a) section 247 of the Criminal Procedure (Scotland) Act 1995;
 - (b) Article 6 of the Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24));
@@ -56,9 +56,9 @@ summary: ''
 - (d) section 82 of the Sentencing Code;
 - (e) section 187 of the Armed Forces Act 2006 or any corresponding earlier enactment.
 
-(3)[^key-87e6496ce4916e190cff9353d83ab3ee] The appropriate national authority may by regulations amend this section so as to change the meaning of “**criminal records database**” in relation to a part of the United Kingdom.
+(3)[^c-87e6496ce4916e190cff9353d83ab3ee] The appropriate national authority may by regulations amend this section so as to change the meaning of “**criminal records database**” in relation to a part of the United Kingdom.
 
-(4)[^key-87e6496ce4916e190cff9353d83ab3ee] For the purposes of subsection (3) the “appropriate national authority” is—
+(4)[^c-87e6496ce4916e190cff9353d83ab3ee] For the purposes of subsection (3) the “appropriate national authority” is—
 
 - (a) in relation to England and Wales, the Secretary of State;
 - (b) in relation to Scotland, the Scottish Ministers;
@@ -68,6 +68,6 @@ summary: ''
 
 [^c24408921]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/6/1) in force at Royal Assent for specified purposes, see [s. 40(6)(a)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/a)
 
-[^key-9c46ff4c6858958e23c4e2fadaebf761]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/6/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/f)
+[^c-9c46ff4c6858958e23c4e2fadaebf761]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/6/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/f)
 
-[^key-87e6496ce4916e190cff9353d83ab3ee]: Commencement: [S. 6(2)-(4)](https://www.legislation.gov.uk/ukpga/2020/29/section/6/2) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/f)
+[^c-87e6496ce4916e190cff9353d83ab3ee]: Commencement: [S. 6(2)-(4)](https://www.legislation.gov.uk/ukpga/2020/29/section/6/2) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/f)

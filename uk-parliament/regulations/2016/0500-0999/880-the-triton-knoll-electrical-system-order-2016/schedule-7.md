@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — Land of which temporary possession may be taken[^key-bff983e600b2c621c0feaa3d1ab5bc5b]
+## SCHEDULE 7 — Land of which temporary possession may be taken[^c-bff983e600b2c621c0feaa3d1ab5bc5b]
 
 *Extent: E+W+S*
 
@@ -70,4 +70,4 @@ Article 24
 
 ## Annotations
 
-[^key-bff983e600b2c621c0feaa3d1ab5bc5b]: Commencement: Sch. 7 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-bff983e600b2c621c0feaa3d1ab5bc5b]: Commencement: Sch. 7 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

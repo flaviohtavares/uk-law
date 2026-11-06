@@ -48,7 +48,7 @@ The Department of Agriculture, Environment and Rural Affairs being a Department 
 
 ## 1. Citation and commencement
 
-These Regulations may be cited as the Seed Marketing (Amendment) Regulations (Northern Ireland) 2020 and come into operation on 28th December 2020.[^key-8a89bbc5897764725c71a22e11bb6b4b]
+These Regulations may be cited as the Seed Marketing (Amendment) Regulations (Northern Ireland) 2020 and come into operation on 28th December 2020.[^c-8a89bbc5897764725c71a22e11bb6b4b]
 
 ## 2. Amendment of the Seed Marketing Regulations (Northern Ireland) 2016
 
@@ -161,7 +161,7 @@ These Regulations amend provisions in the 2016 Regulations to require seed inten
 
 [^c24360171]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The European Communities Act 1972 was repealed by section 1 of the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) with effect from exit day, but saved with modifications until IP completion day by section 1A of that [Act (as inserted by section 1 of the European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1)). Section 2(2) of the European Communities Act 1972 was amended by section 27(1) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-8a89bbc5897764725c71a22e11bb6b4b]: Textual amendment: Words in reg. 1 substituted (27.12.2020) by [The Seed Marketing (Amendment) (No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/322)](https://www.legislation.gov.uk/nisr/2020/322), [regs. 1](https://www.legislation.gov.uk/nisr/2020/322/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/322/regulation/2)
+[^c-8a89bbc5897764725c71a22e11bb6b4b]: Textual amendment: Words in reg. 1 substituted (27.12.2020) by [The Seed Marketing (Amendment) (No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/322)](https://www.legislation.gov.uk/nisr/2020/322), [regs. 1](https://www.legislation.gov.uk/nisr/2020/322/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/322/regulation/2)
 
 [^c24360181]: Marginal citation: S.R. [2016 No. 244](https://www.legislation.gov.uk/ukcm/2016/244), as amended by S.R. [2017 No. 222](https://www.legislation.gov.uk/ukcm/2017/222).
 

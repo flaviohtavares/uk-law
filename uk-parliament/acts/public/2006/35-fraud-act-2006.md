@@ -52,7 +52,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) A person who is guilty of fraud is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-fa7c3490ec4d63de630f8632cacee7fc] or to a fine not exceeding the statutory maximum (or to both);
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-fa7c3490ec4d63de630f8632cacee7fc] or to a fine not exceeding the statutory maximum (or to both);
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 10 years or to a fine (or to both).
 
 (4) Subsection (3)(a) applies in relation to Northern Ireland as if the reference to 12 months were a reference to 6 months.
@@ -132,7 +132,7 @@ and “**property**” means any property whether real or personal (including th
 
 (2) A person guilty of an offence under this section is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-0cca2077bb72ddd4a0c93d4bcb8658ba] or to a fine not exceeding the statutory maximum (or to both);
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-0cca2077bb72ddd4a0c93d4bcb8658ba] or to a fine not exceeding the statutory maximum (or to both);
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine (or to both).
 
 (3) Subsection (2)(a) applies in relation to Northern Ireland as if the reference to 12 months were a reference to 6 months.
@@ -148,7 +148,7 @@ and “**property**” means any property whether real or personal (including th
 
 (2) A person guilty of an offence under this section is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-d70ed6e2d48c426a8e6031188042a7a8] or to a fine not exceeding the statutory maximum (or to both);
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-d70ed6e2d48c426a8e6031188042a7a8] or to a fine not exceeding the statutory maximum (or to both);
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 10 years or to a fine (or to both).
 
 (3) Subsection (2)(a) applies in relation to Northern Ireland as if the reference to 12 months were a reference to 6 months.
@@ -183,7 +183,7 @@ and “**property**” means any property whether real or personal (including th
 
 (3) The following are within the reach of that section[^c1958457]—
 
-- (a) a company (as defined in section 1(1) of the Companies Act 2006)[^key-b38a4613a3ce6cf681a51af582d5407f];
+- (a) a company (as defined in section 1(1) of the Companies Act 2006)[^c-b38a4613a3ce6cf681a51af582d5407f];
 - (b) a person to whom that section applies (with or without adaptations or modifications) as if the person were a company;
 - (c) a person exempted from the application of that section.
 
@@ -193,12 +193,12 @@ and “**property**” means any property whether real or personal (including th
 
 (6) A person guilty of an offence under this section is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-3d4e7885efbd3bcf148abb84105f63e3] or to a fine not exceeding the statutory maximum (or to both);
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-3d4e7885efbd3bcf148abb84105f63e3] or to a fine not exceeding the statutory maximum (or to both);
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 10 years or to a fine (or to both).
 
 (7) Subsection (6)(a) applies in relation to Northern Ireland as if the reference to 12 months were a reference to 6 months.
 
-### 10. Participating in fraudulent business carried on by company etc.: penalty[^key-8028a1e0f7ff2e493866e7fc1e6b9b52]
+### 10. Participating in fraudulent business carried on by company etc.: penalty[^c-8028a1e0f7ff2e493866e7fc1e6b9b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -225,7 +225,7 @@ and “**property**” means any property whether real or personal (including th
 
 (3) A person guilty of an offence under this section is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-778f8e945e7e92415131a35ba97f1e22] or to a fine not exceeding the statutory maximum (or to both);
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-778f8e945e7e92415131a35ba97f1e22] or to a fine not exceeding the statutory maximum (or to both);
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine (or to both).
 
 (4) Subsection (3)(a) applies in relation to Northern Ireland as if the reference to 12 months were a reference to 6 months.
@@ -559,7 +559,7 @@ Section 14(1)
 
 ### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**29.**[^key-8451a6f59de489bf377df5b4e23e4830][^key-7c30530f36601284badecb86b7616896] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-8451a6f59de489bf377df5b4e23e4830][^c-7c30530f36601284badecb86b7616896] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Terrorism Act 2000 (c. 11)
 
@@ -645,7 +645,7 @@ Section 14(2)
 
 ### Maximum term of imprisonment for offences under this Act
 
-**1.** In relation to an offence committed before 2 May 2022[^key-9acb05ca5d1758d50a4c7e652a7dc3a2], the references to the general limit in a magistrates’ court[^key-b44aace81c5cc2a98d3935852a583640] in sections 1(3)(a), 6(2)(a), 7(2)(a), 9(6)(a) and 11(3)(a) are to be read as references to 6 months.
+**1.** In relation to an offence committed before 2 May 2022[^c-9acb05ca5d1758d50a4c7e652a7dc3a2], the references to the general limit in a magistrates’ court[^c-b44aace81c5cc2a98d3935852a583640] in sections 1(3)(a), 6(2)(a), 7(2)(a), 9(6)(a) and 11(3)(a) are to be read as references to 6 months.
 
 ### Increase in penalty for fraudulent trading
 
@@ -722,34 +722,34 @@ Section 14(3)
 
 ## Annotations
 
-[^key-fa7c3490ec4d63de630f8632cacee7fc]: Textual amendment: Words in s. 1(3)(a) (and, by implication, the same words in s. 1(4)) substituted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-fa7c3490ec4d63de630f8632cacee7fc]: Textual amendment: Words in s. 1(3)(a) (and, by implication, the same words in s. 1(4)) substituted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-0cca2077bb72ddd4a0c93d4bcb8658ba]: Textual amendment: Words in [s. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2006/35/section/6/2/a) (and, by implication, the same words in s. 6(3)) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-0cca2077bb72ddd4a0c93d4bcb8658ba]: Textual amendment: Words in [s. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2006/35/section/6/2/a) (and, by implication, the same words in s. 6(3)) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-d70ed6e2d48c426a8e6031188042a7a8]: Textual amendment: Words in [s. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2006/35/section/7/2/a) (and, by implication, the same words in s. 7(3)) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-d70ed6e2d48c426a8e6031188042a7a8]: Textual amendment: Words in [s. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2006/35/section/7/2/a) (and, by implication, the same words in s. 7(3)) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
 [^c1958449]: Textual amendment: Words in s. 9(2)(a) substituted (1.10.2007 with application as mentioned in Sch. 4 para. 111(6) of the amending S.I.) by virtue of [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [10(1)](https://www.legislation.gov.uk/uksi/2007/2194/article/10/1), [Sch. 4 para. 111(2)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/111/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
 [^c1958457]: Textual amendment: Words in s. 9(3) substituted (1.10.2007 with application as mentioned in Sch. 4 para. 111(6) of the amending S.I.) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [10(1)](https://www.legislation.gov.uk/uksi/2007/2194/article/10/1), [Sch. 4 para. 111(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/111/3/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
-[^key-b38a4613a3ce6cf681a51af582d5407f]: Textual amendment: Words in [s. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2006/35/section/9/3/a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 257](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/257) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-b38a4613a3ce6cf681a51af582d5407f]: Textual amendment: Words in [s. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2006/35/section/9/3/a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 257](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/257) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1958465]: Textual amendment: S. 9(4) repealed (1.10.2007 with application as mentioned in Sch. 4 para. 111(6) of the amending S.I.) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [10(1)(3)](https://www.legislation.gov.uk/uksi/2007/2194/article/10/1/3), [Sch. 4 para. 111(4)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/111/4), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/2194/schedule/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
 [^c1958463]: Textual amendment: Words in s. 9(5) substituted (1.10.2007 with application as mentioned in Sch. 4 para. 111(6) of the amending S.I.) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [10(1)](https://www.legislation.gov.uk/uksi/2007/2194/article/10/1), [Sch. 4 para. 111(5)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/111/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
-[^key-3d4e7885efbd3bcf148abb84105f63e3]: Textual amendment: Words in [s. 9(6)(a)](https://www.legislation.gov.uk/ukpga/2006/35/section/9/6/a) (and, by implication, the same words in s. 9(7)) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-3d4e7885efbd3bcf148abb84105f63e3]: Textual amendment: Words in [s. 9(6)(a)](https://www.legislation.gov.uk/ukpga/2006/35/section/9/6/a) (and, by implication, the same words in s. 9(7)) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-8028a1e0f7ff2e493866e7fc1e6b9b52]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/2006/35/section/10) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-8028a1e0f7ff2e493866e7fc1e6b9b52]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/2006/35/section/10) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-778f8e945e7e92415131a35ba97f1e22]: Textual amendment: Words in [s. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2006/35/section/11/3/a) (and, by implication, the same words in s. 11(4)) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-778f8e945e7e92415131a35ba97f1e22]: Textual amendment: Words in [s. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2006/35/section/11/3/a) (and, by implication, the same words in s. 11(4)) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
 [^c1886271]: Subordinate legislation: [S. 15](https://www.legislation.gov.uk/ukpga/2006/35/section/15) power fully exercised: 15.1.2007 appointed for specified provisions by {[S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200)}, art. 2
 
-[^key-8451a6f59de489bf377df5b4e23e4830]: Textual amendment: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/29) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [s. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8451a6f59de489bf377df5b4e23e4830]: Textual amendment: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/29) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [s. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-7c30530f36601284badecb86b7616896]: Modification: Sch. 1 para. 29 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-7c30530f36601284badecb86b7616896]: Modification: Sch. 1 para. 29 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-9acb05ca5d1758d50a4c7e652a7dc3a2]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/35/schedule/2/paragraph/1) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-9acb05ca5d1758d50a4c7e652a7dc3a2]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/35/schedule/2/paragraph/1) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-b44aace81c5cc2a98d3935852a583640]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/35/schedule/2/paragraph/1) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-b44aace81c5cc2a98d3935852a583640]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/35/schedule/2/paragraph/1) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

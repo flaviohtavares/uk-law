@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 213. Procedure where detailed assessment required[^key-86060a8a4643d3fd52f74556d2839312]
+## 213. Procedure where detailed assessment required[^c-86060a8a4643d3fd52f74556d2839312]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.35 of the 1986 Rules. Ignore paragraph (6).
 
 ## Annotations
 
-[^key-86060a8a4643d3fd52f74556d2839312]: Commencement: Rule 213 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-86060a8a4643d3fd52f74556d2839312]: Commencement: Rule 213 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

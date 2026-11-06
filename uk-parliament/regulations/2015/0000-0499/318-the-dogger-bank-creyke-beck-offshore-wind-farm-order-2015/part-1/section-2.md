@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-9aefe077b5a3564389db277925bfc968]
+## 2. Interpretation[^c-9aefe077b5a3564389db277925bfc968]
 
 *Extent: E+W+S*
 
@@ -94,7 +94,7 @@ summary: ''
   - (c) an offshore converter platform;
   - (d) a combined platform;
 - “offshore works” means the Project A offshore works, the Project B offshore works and any other authorised development associated with those works;
-- “offshore works plans” means the plans certified as the offshore works plans[^key-db6d658a8378a03cb1147bc6872ab7a4] by the Secretary of State for the purposes of this Order;
+- “offshore works plans” means the plans certified as the offshore works plans[^c-db6d658a8378a03cb1147bc6872ab7a4] by the Secretary of State for the purposes of this Order;
 - “onshore Order limits plan” means the plans certified as the onshore Order limits and grid co-ordinates plan by the Secretary of State for the purposes of this Order;
 - “onshore works” means the Project A onshore works, the Project B onshore works, the shared works and any other authorised development associated with those works;
 - “onshore works plans” means the plans certified as the onshore works plans by the Secretary of State for the purposes of this Order;
@@ -105,15 +105,15 @@ summary: ''
 - “outline code of construction practice” means the document certified as the outline code of construction practice by the Secretary of State for the purposes of this Order;
 - “owner”, in relation to land, has the same meaning as in section 7 of the Acquisition of Land Act 1981[^f00015];
 - “Project A” means the Project A offshore works and the Project A onshore works;
-- “Project A offshore works” means (except in Part 3 of Schedule 1)[^key-ac70151c4286dedf1d6a25b307da2505] Works No. 1A, 2A, 2T and 3A and any other authorised development associated with those works;
-- “Project A onshore works” means (except in Part 3 of Schedule 1)[^key-bc27c7905ad239addf279bfcebb518f4] Works No. 4A, 5A, 6A, 8A and 9A and any other authorised development associated with those works;
+- “Project A offshore works” means (except in Part 3 of Schedule 1)[^c-ac70151c4286dedf1d6a25b307da2505] Works No. 1A, 2A, 2T and 3A and any other authorised development associated with those works;
+- “Project A onshore works” means (except in Part 3 of Schedule 1)[^c-bc27c7905ad239addf279bfcebb518f4] Works No. 4A, 5A, 6A, 8A and 9A and any other authorised development associated with those works;
 - “Project B” means the Project B offshore works and the Project B onshore works;
-- “Project B offshore works” means (except in Part 3 of Schedule 1)[^key-4176a57b6334fc2c968d00c6bf5d6c27] Works No. 1B, 2B, 2BA, 2BC, 2T and 3B and any other authorised development associated with those works;
-- “Project B onshore works” means (except in Part 3 of Schedule 1)[^key-beb3cc643026c1858eeb19631241aab4] Works No. 4B, 5B, 6B, 8B and 9B and any other authorised development associated with those works;
+- “Project B offshore works” means (except in Part 3 of Schedule 1)[^c-4176a57b6334fc2c968d00c6bf5d6c27] Works No. 1B, 2B, 2BA, 2BC, 2T and 3B and any other authorised development associated with those works;
+- “Project B onshore works” means (except in Part 3 of Schedule 1)[^c-beb3cc643026c1858eeb19631241aab4] Works No. 4B, 5B, 6B, 8B and 9B and any other authorised development associated with those works;
 - “relevant planning authority” means East Riding of Yorkshire Council;
 - “Requirement” means a Requirement set out in Part 3 (requirements) of Schedule 1; and a reference to a numbered Requirement is a reference to the Requirement set out in the paragraph of the same number in that Part;
 - “scour protection” means protection against foundation scour and subsea damage, for example from trawling, through reinforcement measures and measures to prevent loss of seabed sediment around foundation bases. These measures include the use of bagged solutions filled with grout or other materials, protective aprons, mattresses, flow energy dissipation devices and rock and gravel burial;
-- “shared works” means (except in Part 3 of Schedule 1)[^key-8c85606d85e3650fae46325f345456c2] Works No. 7 and 10A to 10F;
+- “shared works” means (except in Part 3 of Schedule 1)[^c-8c85606d85e3650fae46325f345456c2] Works No. 7 and 10A to 10F;
 - “statutory undertaker” means a person falling within section 127(8) of the 2008 Act;
 - “street” means a street within the meaning of section 48 of the 1991 Act[^f00016], together with land on the verge of a street or between 2 carriageways, and includes part of a street;
 - “street authority”, in relation to a street, has the same meaning as in Part 3 of the 1991 Act[^f00017];
@@ -148,7 +148,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9aefe077b5a3564389db277925bfc968]: Commencement: Art. 2 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-9aefe077b5a3564389db277925bfc968]: Commencement: Art. 2 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
 [^f00003]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -174,19 +174,19 @@ summary: ''
 
 [^f00014]: Footnote: “Highway” is defined in section 328. See section 1 for “highway authority”.
 
-[^key-db6d658a8378a03cb1147bc6872ab7a4]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/318/article/2/1) substituted (5.10.2015) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1742)](https://www.legislation.gov.uk/uksi/2015/1742), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1742/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1742/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1742/schedule)
+[^c-db6d658a8378a03cb1147bc6872ab7a4]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/318/article/2/1) substituted (5.10.2015) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1742)](https://www.legislation.gov.uk/uksi/2015/1742), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1742/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1742/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1742/schedule)
 
 [^f00015]: Footnote: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67). The definition was amended by paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
-[^key-ac70151c4286dedf1d6a25b307da2505]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/318/article/2) inserted (21.11.2025) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/1264)](https://www.legislation.gov.uk/uksi/2025/1264), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1264/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2025/1264/article/3/a)
+[^c-ac70151c4286dedf1d6a25b307da2505]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/318/article/2) inserted (21.11.2025) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/1264)](https://www.legislation.gov.uk/uksi/2025/1264), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1264/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2025/1264/article/3/a)
 
-[^key-bc27c7905ad239addf279bfcebb518f4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/318/article/2) inserted (21.11.2025) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/1264)](https://www.legislation.gov.uk/uksi/2025/1264), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1264/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/1264/article/3/b)
+[^c-bc27c7905ad239addf279bfcebb518f4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/318/article/2) inserted (21.11.2025) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/1264)](https://www.legislation.gov.uk/uksi/2025/1264), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1264/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/1264/article/3/b)
 
-[^key-4176a57b6334fc2c968d00c6bf5d6c27]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/318/article/2) inserted (21.11.2025) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/1264)](https://www.legislation.gov.uk/uksi/2025/1264), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1264/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2025/1264/article/3/c)
+[^c-4176a57b6334fc2c968d00c6bf5d6c27]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/318/article/2) inserted (21.11.2025) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/1264)](https://www.legislation.gov.uk/uksi/2025/1264), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1264/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2025/1264/article/3/c)
 
-[^key-beb3cc643026c1858eeb19631241aab4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/318/article/2) inserted (21.11.2025) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/1264)](https://www.legislation.gov.uk/uksi/2025/1264), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1264/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2025/1264/article/3/d)
+[^c-beb3cc643026c1858eeb19631241aab4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/318/article/2) inserted (21.11.2025) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/1264)](https://www.legislation.gov.uk/uksi/2025/1264), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1264/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2025/1264/article/3/d)
 
-[^key-8c85606d85e3650fae46325f345456c2]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/318/article/2) inserted (21.11.2025) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/1264)](https://www.legislation.gov.uk/uksi/2025/1264), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1264/article/1), [3(e)](https://www.legislation.gov.uk/uksi/2025/1264/article/3/e)
+[^c-8c85606d85e3650fae46325f345456c2]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/318/article/2) inserted (21.11.2025) by [The Dogger Bank Creyke Beck Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/1264)](https://www.legislation.gov.uk/uksi/2025/1264), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1264/article/1), [3(e)](https://www.legislation.gov.uk/uksi/2025/1264/article/3/e)
 
 [^f00016]: Footnote: Section 48 was amended by section 124(2) of the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26).
 

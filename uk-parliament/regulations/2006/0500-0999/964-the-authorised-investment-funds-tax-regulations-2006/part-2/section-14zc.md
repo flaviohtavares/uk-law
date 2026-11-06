@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14ZC. Treatment of interest in non-reporting fund: cases where the conditions in regulation 14ZA(2) would not be satisfied[^key-f173e63a22d663113efe68ca36ee0537]
+## 14ZC. Treatment of interest in non-reporting fund: cases where the conditions in regulation 14ZA(2) would not be satisfied[^c-f173e63a22d663113efe68ca36ee0537]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f173e63a22d663113efe68ca36ee0537]: Textual amendment: Regs. 14ZA-14ZC and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/244)](https://www.legislation.gov.uk/uksi/2011/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/244/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/244/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2011/244/regulation/8))
+[^c-f173e63a22d663113efe68ca36ee0537]: Textual amendment: Regs. 14ZA-14ZC and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/244)](https://www.legislation.gov.uk/uksi/2011/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/244/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/244/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2011/244/regulation/8))

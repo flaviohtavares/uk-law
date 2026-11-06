@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Amendment of regulation 9 (provision of information)[^key-84d8af25ea533b923677226f51a4fa65]
+## 33. Amendment of regulation 9 (provision of information)[^c-84d8af25ea533b923677226f51a4fa65]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 9(1), after “regulation 3(3),” insert “or regulation 6(1A)�
 
 ## Annotations
 
-[^key-84d8af25ea533b923677226f51a4fa65]: Commencement: Reg. 33 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-84d8af25ea533b923677226f51a4fa65]: Commencement: Reg. 33 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

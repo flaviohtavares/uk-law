@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Accounts of distributing bodies other than the Big Lottery Fund .[^key-0a87a57b22e8705ef22fb4d79c03c01a]
+## 35. Accounts of distributing bodies other than the Big Lottery Fund .[^c-0a87a57b22e8705ef22fb4d79c03c01a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (6) The Secretary of State shall not give a direction under this section without the Treasury’s approval.
 
-(7) This section does not apply to the Big Lottery Fund[^key-803b4b1796380dda61ab8da8bc63f105] .
+(7) This section does not apply to the Big Lottery Fund[^c-803b4b1796380dda61ab8da8bc63f105] .
 
 (8)[^c1528691] The functions of the Secretary of State–
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0a87a57b22e8705ef22fb4d79c03c01a]: Textual amendment: Words in s. 35 heading substituted (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(5)(b)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/5/b), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
+[^c-0a87a57b22e8705ef22fb4d79c03c01a]: Textual amendment: Words in s. 35 heading substituted (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(5)(b)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/5/b), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
 
 [^c1528687]: Modification: S. 35(3) (as read with s. 43CC(2)(b)): transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
@@ -57,6 +57,6 @@ summary: ''
 
 [^c1528689]: Modification: S. 35(5) modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-803b4b1796380dda61ab8da8bc63f105]: Textual amendment: Words in [s. 35(7)](https://www.legislation.gov.uk/ukpga/1993/39/section/35/7) substituted (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(5)(a)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/5/a), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
+[^c-803b4b1796380dda61ab8da8bc63f105]: Textual amendment: Words in [s. 35(7)](https://www.legislation.gov.uk/ukpga/1993/39/section/35/7) substituted (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(5)(a)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/5/a), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
 
 [^c1528691]: Textual amendment: S. 35(8) added (30.6.1999) by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1), [2](https://www.legislation.gov.uk/uksi/1999/1756/article/2), [Sch. para. 15(7)](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/15/7) (with [art. 8](https://www.legislation.gov.uk/uksi/1999/1756/article/8)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)

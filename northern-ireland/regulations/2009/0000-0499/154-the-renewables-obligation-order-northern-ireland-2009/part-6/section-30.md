@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Generating stations in respect of which a statutory grant has been awarded[^key-ea3b290fa6e599e4a6416f860c884497]
+## 30. Generating stations in respect of which a statutory grant has been awarded[^c-ea3b290fa6e599e4a6416f860c884497]
 
 *Extent: N.I.*
 
@@ -41,12 +41,12 @@ summary: ''
   - (i) the repayment of all amounts due under paragraph (2)(a) or the payment of all amounts of interest due under paragraph (2)(b), and
   - (ii) where a grant or any part has been cancelled under paragraph (2)(c), the cancellation of that grant or part,
 
-the amount of electricity to be stated in each NIROC issued in respect of that electricity is 1 megawatt hour or the amount determined in accordance with any of Articles 25 to 26E[^key-251c9aad68cb3804fa8d9f483790f9d9] whichever is the greater.
+the amount of electricity to be stated in each NIROC issued in respect of that electricity is 1 megawatt hour or the amount determined in accordance with any of Articles 25 to 26E[^c-251c9aad68cb3804fa8d9f483790f9d9] whichever is the greater.
 
 (4) In determining how electricity has been generated for the purposes of paragraph (1)(b)(ii), no account is to be taken of any waste which the generating station uses for permitted ancillary purposes.
 
 ## Annotations
 
-[^key-ea3b290fa6e599e4a6416f860c884497]: Commencement: Art. 30 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-ea3b290fa6e599e4a6416f860c884497]: Commencement: Art. 30 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
-[^key-251c9aad68cb3804fa8d9f483790f9d9]: Textual amendment: Words in [art. 30(3)](https://www.legislation.gov.uk/nisr/2009/154/article/30/3) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [23](https://www.legislation.gov.uk/nisr/2013/116/article/23) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-251c9aad68cb3804fa8d9f483790f9d9]: Textual amendment: Words in [art. 30(3)](https://www.legislation.gov.uk/nisr/2009/154/article/30/3) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [23](https://www.legislation.gov.uk/nisr/2013/116/article/23) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Offence in relation to CSEA reporting[^key-97c6c90da623bca80e952008c6cb4632][^key-02d35294f110387eea1879995e92c935]
+## 69. Offence in relation to CSEA reporting[^c-97c6c90da623bca80e952008c6cb4632][^c-02d35294f110387eea1879995e92c935]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-97c6c90da623bca80e952008c6cb4632]: Commencement: S. 69 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-97c6c90da623bca80e952008c6cb4632]: Commencement: S. 69 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-02d35294f110387eea1879995e92c935]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2023/50/section/69) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)
+[^c-02d35294f110387eea1879995e92c935]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2023/50/section/69) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)

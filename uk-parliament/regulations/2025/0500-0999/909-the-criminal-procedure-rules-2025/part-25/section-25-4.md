@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.4. Procedure on plea of guilty[^key-ba117accdd20e616db170e5ba5581c4f]
+## 25.4. Procedure on plea of guilty[^c-ba117accdd20e616db170e5ba5581c4f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba117accdd20e616db170e5ba5581c4f]: Commencement: [Rule 25.4](https://www.legislation.gov.uk/uksi/2025/909/rule/25.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ba117accdd20e616db170e5ba5581c4f]: Commencement: [Rule 25.4](https://www.legislation.gov.uk/uksi/2025/909/rule/25.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

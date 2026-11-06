@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25E. Arranging regulated sale and rent back agreements[^key-828d05bdddf075bd21c8b6a1677de83b]
+## 25E. Arranging regulated sale and rent back agreements[^c-828d05bdddf075bd21c8b6a1677de83b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ is a specified kind of activity.
 
 ## Annotations
 
-[^key-828d05bdddf075bd21c8b6a1677de83b]: Textual amendment: Art. 25E inserted (1.7.2009 for specified purposes, 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/1342/article/4)
+[^c-828d05bdddf075bd21c8b6a1677de83b]: Textual amendment: Art. 25E inserted (1.7.2009 for specified purposes, 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/1342/article/4)

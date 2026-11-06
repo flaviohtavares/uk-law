@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-5f26eb9f478cfb2c8c3e1435475d1f58]
+## 1. Citation and commencement[^c-5f26eb9f478cfb2c8c3e1435475d1f58]
 
 These Regulations may be cited as the Plant Health Fees (Scotland) Amendment Regulations 2005 and shall come into force on 5th December 2005.
 
-## 2. Amendment to the Plant Health Fees (Scotland) Regulations 1996[^key-635208d57cff763253ecb006b8a9a83f]
+## 2. Amendment to the Plant Health Fees (Scotland) Regulations 1996[^c-635208d57cff763253ecb006b8a9a83f]
 
 For Schedule 2 (fees in respect of licensing services) to the Plant Health Fees (Scotland) Regulations 1996[^f00002] substitute Schedule 2 as contained in the Schedule to these Regulations.
 
@@ -62,7 +62,7 @@ Pentland House, Edinburgh
 
 8th November 2005
 
-## SCHEDULE[^key-0fd6c7d33e8df43b349a4ca49f01cb6a]
+## SCHEDULE[^c-0fd6c7d33e8df43b349a4ca49f01cb6a]
 
 Regulation 2
 
@@ -105,13 +105,13 @@ A Regulatory Impact Assessment has been prepared in respect of these Regulations
 
 [^f00001]: Footnote: [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The function conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-5f26eb9f478cfb2c8c3e1435475d1f58]: Commencement: Reg. 1 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/555/regulation/1)
+[^c-5f26eb9f478cfb2c8c3e1435475d1f58]: Commencement: Reg. 1 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/555/regulation/1)
 
-[^key-635208d57cff763253ecb006b8a9a83f]: Commencement: Reg. 2 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/555/regulation/1)
+[^c-635208d57cff763253ecb006b8a9a83f]: Commencement: Reg. 2 in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/555/regulation/1)
 
 [^f00002]: Footnote: S.I. [1996/1784](https://www.legislation.gov.uk/uksi/1996/1784) as amended by [S.S.I. 2004/249](https://www.legislation.gov.uk/ssi/2004/249).
 
-[^key-0fd6c7d33e8df43b349a4ca49f01cb6a]: Commencement: Sch. in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/555/regulation/1)
+[^c-0fd6c7d33e8df43b349a4ca49f01cb6a]: Commencement: Sch. in force at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/555/regulation/1)
 
 [^f01000]: Footnote: (a)
 

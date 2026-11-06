@@ -35,76 +35,76 @@ of 7 May 2007
 
 establishing a multi-annual plan for the sustainable exploitation of the stock of sole in the Western Channel (repealed) (revoked)
 
-[^key-4b0ee382f9cb691dc05ca8d2b4f46591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b0ee382f9cb691dc05ca8d2b4f46591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — SUBJECT-MATTER AND OBJECTIVES[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+## CHAPTER I — SUBJECT-MATTER AND OBJECTIVES[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
-### Article 1. Subject-matter[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Objective[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+### Article 1. Subject-matter[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — TOTAL ALLOWABLE CATCHES[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
-
-### Article 3. Procedure for setting the Total Allowable Catches[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+### Article 2. Objective[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Constraints on variation in TACs[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+## CHAPTER II — TOTAL ALLOWABLE CATCHES[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
+
+### Article 3. Procedure for setting the Total Allowable Catches[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — FISHING EFFORT LIMITATION[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
-
-### Article 5. Effort limitation[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+### Article 4. Constraints on variation in TACs[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — MONITORING, INSPECTION AND SURVEILLANCE[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+## CHAPTER III — FISHING EFFORT LIMITATION[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
-### Article 6. Margin of tolerance[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 7. Prior notification[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+### Article 5. Effort limitation[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Separate stowage of common sole[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+## CHAPTER IV — MONITORING, INSPECTION AND SURVEILLANCE[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
+
+### Article 6. Margin of tolerance[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Transport of common sole[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+### Article 7. Prior notification[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Specific monitoring programme[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+### Article 8. Separate stowage of common sole[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — FINAL PROVISIONS[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
-
-### Article 11. Evaluation of management measures[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+### Article 9. Transport of common sole[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Special circumstances[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+### Article 10. Specific monitoring programme[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. European Fisheries Fund[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+## CHAPTER V — FINAL PROVISIONS[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
+
+### Article 11. Evaluation of management measures[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Entry into force[^key-4b0ee382f9cb691dc05ca8d2b4f46591]
+### Article 12. Special circumstances[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b0ee382f9cb691dc05ca8d2b4f46591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 13. European Fisheries Fund[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 14. Entry into force[^c-4b0ee382f9cb691dc05ca8d2b4f46591]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4b0ee382f9cb691dc05ca8d2b4f46591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b0ee382f9cb691dc05ca8d2b4f46591]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b0ee382f9cb691dc05ca8d2b4f46591]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

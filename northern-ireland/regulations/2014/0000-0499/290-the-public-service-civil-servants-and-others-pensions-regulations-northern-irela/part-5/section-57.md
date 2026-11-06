@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Other pension accounts[^key-5542070445a349947e65b7e26c12f6b4]
+## 57. Other pension accounts[^c-5542070445a349947e65b7e26c12f6b4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ If a pension credit member of this scheme is also an active member, deferred mem
 
 ## Annotations
 
-[^key-5542070445a349947e65b7e26c12f6b4]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2014/290/regulation/57) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-5542070445a349947e65b7e26c12f6b4]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2014/290/regulation/57) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

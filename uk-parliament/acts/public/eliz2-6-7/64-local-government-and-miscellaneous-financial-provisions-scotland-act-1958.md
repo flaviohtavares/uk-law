@@ -54,14 +54,14 @@ An Act to make new provision for grants out of the Exchequer to local authoritie
 (1) The maximum period for the repayment of sums borrowed by a local authority for the purposes of—
 
 - (a) the Public Libraries Acts,
-- (b)[^key-e4238870eb10da7f33689b8a1ec0025f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e4238870eb10da7f33689b8a1ec0025f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the [^c6209431]Children and Young Persons (Scotland) Act, 1937,
 - (d) section seventy-four of the Act of 1947 (which relates to the provision of halls, offices and other buildings),
 - (e) section one hundred and thirty-two of the [^c6209441]Local Government Act, 1948 (which relates to the provision of entertainments),
 - (f) section twenty-one of the [^c6209451]National Assistance Act, 1948, or
 - (g) section fifteen of the [^c6209461]Children Act, 1948 (which relates to the provision by local authorities of homes for the accommodation of children in their care),
 
-shall be such period not exceeding sixty years as may be sanctioned by the Secretary of State; and accordingly in the Sixth Schedule to the Act of 1947, in the entries relating to the Public Libraries Acts and to the said Act of 1937, for the words “fifty years” there shall be substituted the words “sixty years” [^key-cb9cabe77025649d1b744659a300eace]...; and the following entries shall be added at the end of the said Schedule, that is to say—
+shall be such period not exceeding sixty years as may be sanctioned by the Secretary of State; and accordingly in the Sixth Schedule to the Act of 1947, in the entries relating to the Public Libraries Acts and to the said Act of 1937, for the words “fifty years” there shall be substituted the words “sixty years” [^c-cb9cabe77025649d1b744659a300eace]...; and the following entries shall be added at the end of the said Schedule, that is to say—
 
 |  |  |
 | --- | --- |
@@ -239,7 +239,7 @@ shall come into operation on the first day of April, nineteen hundred and fifty-
 
 [^c6209411]: Textual amendment: [Ss. 10](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/section/10), [11](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/section/11), [22](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/section/22), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/schedule/4/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/schedule/4/paragraph/2), [7–9](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/schedule/4/paragraph/7), [12](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/schedule/4/paragraph/12), [13(1)(2)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/schedule/4/paragraph/13/1/2), [14](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/schedule/4/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/schedule/4/paragraph/15), [16(1)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/schedule/4/paragraph/16/1), [17](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/schedule/4/paragraph/17), [Sch. 6](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/64/schedule/6) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
-[^key-e4238870eb10da7f33689b8a1ec0025f]: Textual amendment: S. 12(1)(b) repealed (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-e4238870eb10da7f33689b8a1ec0025f]: Textual amendment: S. 12(1)(b) repealed (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
 
 [^c6209431]: Marginal citation: [1937 c. 37](https://www.legislation.gov.uk/ukpga/1937/37).
 
@@ -249,7 +249,7 @@ shall come into operation on the first day of April, nineteen hundred and fifty-
 
 [^c6209461]: Marginal citation: [1948 c. 43](https://www.legislation.gov.uk/ukpga/1948/43).
 
-[^key-cb9cabe77025649d1b744659a300eace]: Textual amendment: Words in s. 12(1) repealed (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-cb9cabe77025649d1b744659a300eace]: Textual amendment: Words in s. 12(1) repealed (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
 
 [^c6209481]: Marginal citation: [1947 c. 43](https://www.legislation.gov.uk/ukpga/1947/43).
 

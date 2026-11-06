@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Disapplication of regulations 6 and 7 in certain cases[^key-6ed9963ae0fd65c0c3412e4c5c424cd9]
+## 9. Disapplication of regulations 6 and 7 in certain cases[^c-6ed9963ae0fd65c0c3412e4c5c424cd9]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ed9963ae0fd65c0c3412e4c5c424cd9]: Commencement: Reg. 9 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-6ed9963ae0fd65c0c3412e4c5c424cd9]: Commencement: Reg. 9 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).

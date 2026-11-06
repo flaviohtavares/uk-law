@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A person who is minded to make an application for planning permission or infrastructure consent[^key-e4e71bb0836debd7a0fd30dbfbcfdd3b] may ask the Welsh Ministers to make a scoping direction.
+(1) A person who is minded to make an application for planning permission or infrastructure consent[^c-e4e71bb0836debd7a0fd30dbfbcfdd3b] may ask the Welsh Ministers to make a scoping direction.
 
 (2) A request under paragraph (1) must include—
 
 - (a) a plan sufficient to identify the land;
 - (b) a brief description of the nature and purpose of the development including its location and technical capacity;
 - (c) its likely significant effects on the environment;
-- (d)[^key-e8cf9f627f5787806a136a2ff06bc804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-e8cf9f627f5787806a136a2ff06bc804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) such other information or representations as the person making the request may wish to provide or make.
 
 (3) A person making a request pursuant to paragraph (1) must send to the relevant planning authority a copy of that request and the documents which accompany that request.
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e4e71bb0836debd7a0fd30dbfbcfdd3b]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/wsi/2017/567/regulation/33/1) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(32)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/32/a) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-e4e71bb0836debd7a0fd30dbfbcfdd3b]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/wsi/2017/567/regulation/33/1) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(32)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/32/a) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
 
-[^key-e8cf9f627f5787806a136a2ff06bc804]: Textual amendment: [Reg. 33(2)(d)](https://www.legislation.gov.uk/wsi/2017/567/regulation/33/2/d) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(32)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/32/b) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-e8cf9f627f5787806a136a2ff06bc804]: Textual amendment: [Reg. 33(2)(d)](https://www.legislation.gov.uk/wsi/2017/567/regulation/33/2/d) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(32)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/32/b) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))

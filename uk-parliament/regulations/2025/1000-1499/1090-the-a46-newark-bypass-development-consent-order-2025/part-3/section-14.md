@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Construction and maintenance of new, altered or diverted streets and other structures[^key-2653ebf32ae6c5fa77d585d4db84b550]
+## 14. Construction and maintenance of new, altered or diverted streets and other structures[^c-2653ebf32ae6c5fa77d585d4db84b550]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 ## Annotations
 
-[^key-2653ebf32ae6c5fa77d585d4db84b550]: Commencement: Art. 14 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-2653ebf32ae6c5fa77d585d4db84b550]: Commencement: Art. 14 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

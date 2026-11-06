@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Benefices held in plurality.[^c6280111][^key-c719c5bdacac28929d7f236b58dc3091][^c6280101]
+## 23. Benefices held in plurality.[^c6280111][^c-c719c5bdacac28929d7f236b58dc3091][^c6280101]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ Provided that—
 
 [^c6280111]: Modification: S. 23 extended (with modifications) (W.) by [Marriage (Wales) Act 1986 (c. 7, SIF 49:1)](https://www.legislation.gov.uk/ukpga/1986/7), [s. 1](https://www.legislation.gov.uk/ukpga/1986/7/section/1)
 
-[^key-c719c5bdacac28929d7f236b58dc3091]: Modification: S. 23 applied (with modifications) (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 3 para. 12(4)](https://www.legislation.gov.uk/ukcm/2011/3/schedule/3/paragraph/12/4) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-c719c5bdacac28929d7f236b58dc3091]: Modification: S. 23 applied (with modifications) (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 3 para. 12(4)](https://www.legislation.gov.uk/ukcm/2011/3/schedule/3/paragraph/12/4) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
 [^c6280101]: Modification: S. 23 extended (with modifications) by [Pastoral Measure 1983 (No. 1, SIF 21:4)](https://www.legislation.gov.uk/ukcm/1983/1) ss. 27, 29, 40, Sch. 3 para. 14(4)
 

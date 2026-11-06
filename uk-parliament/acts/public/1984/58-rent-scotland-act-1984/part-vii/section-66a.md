@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66A. Transitional references of Part VII contracts[^key-48fd9d65bcb969c55c95438d0c943597]
+## 66A. Transitional references of Part VII contracts[^c-48fd9d65bcb969c55c95438d0c943597]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48fd9d65bcb969c55c95438d0c943597]: Textual amendment: S. 66A omitted (1.12.2016) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(13)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/13) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-48fd9d65bcb969c55c95438d0c943597]: Textual amendment: S. 66A omitted (1.12.2016) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(13)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/13) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))

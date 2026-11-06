@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Redress schemes: no Crown status[^key-f75dcc2ccb15d1035a84695d4c19f46a]
+## 104. Redress schemes: no Crown status[^c-f75dcc2ccb15d1035a84695d4c19f46a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A person exercising functions under a redress scheme (other than the Secretary o
 
 ## Annotations
 
-[^key-f75dcc2ccb15d1035a84695d4c19f46a]: Commencement: S. 104 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f75dcc2ccb15d1035a84695d4c19f46a]: Commencement: S. 104 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

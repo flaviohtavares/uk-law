@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.6. Cross-appeals[^key-64d36fe9f4ec906f18bf2c1c5a2385f0]
+## 6.6. Cross-appeals[^c-64d36fe9f4ec906f18bf2c1c5a2385f0]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ may lodge grounds of cross-appeal in Form 6.6 within the period for lodging answ
 
 ## Annotations
 
-[^key-64d36fe9f4ec906f18bf2c1c5a2385f0]: Commencement: Para. 6.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-64d36fe9f4ec906f18bf2c1c5a2385f0]: Commencement: Para. 6.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

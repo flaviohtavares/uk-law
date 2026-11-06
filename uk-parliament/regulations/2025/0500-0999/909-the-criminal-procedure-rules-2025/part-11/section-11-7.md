@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.7. Application to lift suspension of prosecution[^key-ea3637ae96763b605c0f4e168c9b0e3a]
+## 11.7. Application to lift suspension of prosecution[^c-ea3637ae96763b605c0f4e168c9b0e3a]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ not more than 20 business days after service of the application.
 
 ## Annotations
 
-[^key-ea3637ae96763b605c0f4e168c9b0e3a]: Commencement: [Rule 11.7](https://www.legislation.gov.uk/uksi/2025/909/rule/11.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ea3637ae96763b605c0f4e168c9b0e3a]: Commencement: [Rule 11.7](https://www.legislation.gov.uk/uksi/2025/909/rule/11.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

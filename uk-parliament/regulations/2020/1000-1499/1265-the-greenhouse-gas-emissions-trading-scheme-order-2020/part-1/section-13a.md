@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Meaning of regulator: maritime operators[^key-c8266d7c4c7ea98656bd891bdadd335b]
+## 13A. Meaning of regulator: maritime operators[^c-c8266d7c4c7ea98656bd891bdadd335b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8266d7c4c7ea98656bd891bdadd335b]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/uksi/2020/1265/article/13A) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/4)
+[^c-c8266d7c4c7ea98656bd891bdadd335b]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/uksi/2020/1265/article/13A) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/4)

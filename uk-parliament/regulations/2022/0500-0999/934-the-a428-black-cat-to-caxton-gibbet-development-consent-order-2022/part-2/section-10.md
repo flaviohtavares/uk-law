@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Consent to transfer benefit of Order[^key-89c873b530e11f4ce8a283b9fd2c3294]
+## 10. Consent to transfer benefit of Order[^c-89c873b530e11f4ce8a283b9fd2c3294]
 
 *Extent: E+W*
 
-(1) Subject to paragraphs (2) and (3),[^key-9c8a18cc5ff052c28b17725bae534a62] the undertaker may—
+(1) Subject to paragraphs (2) and (3),[^c-9c8a18cc5ff052c28b17725bae534a62] the undertaker may—
 
 - (a) transfer to another person (“**the transferee**”) any or all of the benefit of the provisions of this Order and such related statutory rights as may be agreed between the undertaker and the transferee;
 - (b) grant to another person (“the grantee”) for a period agreed between the undertaker and the grantee any or all of the benefit of the provisions of this Order and such related statutory rights as may be so agreed.
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89c873b530e11f4ce8a283b9fd2c3294]: Commencement: Art. 10 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-89c873b530e11f4ce8a283b9fd2c3294]: Commencement: Art. 10 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-9c8a18cc5ff052c28b17725bae534a62]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2022/934/article/10/1) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
+[^c-9c8a18cc5ff052c28b17725bae534a62]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2022/934/article/10/1) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)

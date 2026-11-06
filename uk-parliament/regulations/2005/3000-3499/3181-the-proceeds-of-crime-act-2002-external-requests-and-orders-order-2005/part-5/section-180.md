@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Rights of pre-emption etc.[^key-dafd749f33df62796388d77da6bd680b]
+## 180. Rights of pre-emption etc.[^c-dafd749f33df62796388d77da6bd680b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dafd749f33df62796388d77da6bd680b]: Commencement: [Art. 180](https://www.legislation.gov.uk/uksi/2005/3181/article/180) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-dafd749f33df62796388d77da6bd680b]: Commencement: [Art. 180](https://www.legislation.gov.uk/uksi/2005/3181/article/180) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

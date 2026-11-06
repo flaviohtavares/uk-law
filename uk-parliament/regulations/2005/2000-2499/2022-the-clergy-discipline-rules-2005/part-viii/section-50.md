@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England.
 
-## 50. Pronouncement of the tribunal’s determination of the allegation[^key-2681b6d7136dca9cfd3387e877d9a7ca][^key-c797bf0ecdcc9921603906fc7001b37d]
+## 50. Pronouncement of the tribunal’s determination of the allegation[^c-2681b6d7136dca9cfd3387e877d9a7ca][^c-c797bf0ecdcc9921603906fc7001b37d]
 
 *Extent: E*
 
-(1) The determination of the allegation of misconduct[^key-a62b70a77baf0a987158ce1762a73b31] shall be according to the opinion of the majority of the members of the tribunal.
+(1) The determination of the allegation of misconduct[^c-a62b70a77baf0a987158ce1762a73b31] shall be according to the opinion of the majority of the members of the tribunal.
 
 (2) The Chair shall pronounce the tribunal’s determination of the allegation of misconduct in public—
 
 - (a) at the end of the hearing, or
-- (b) at a later date when the Chair may sit alone for that purpose ,[^key-d168d0ac64264dd1fc801d13cf9c7cad]
+- (b) at a later date when the Chair may sit alone for that purpose ,[^c-d168d0ac64264dd1fc801d13cf9c7cad]
 
-save that, in the event of the Chair’s death or incapacity after the tribunal has determined an allegation of misconduct[^key-46f50b8d00c614f9c6d293b5ea93a895] but not yet pronounced it in public, the determination shall be pronounced by another member of the tribunal nominated for that purpose by the Registrar of Tribunals.
+save that, in the event of the Chair’s death or incapacity after the tribunal has determined an allegation of misconduct[^c-46f50b8d00c614f9c6d293b5ea93a895] but not yet pronounced it in public, the determination shall be pronounced by another member of the tribunal nominated for that purpose by the Registrar of Tribunals.
 
-(3) The tribunal’s determination shall be recorded in writing with reasons, and shall set out the opinion of the majority of its members together with the minority opinions if any, and shall be signed by the Chair, or in the event of the Chair’s death or incapacity, by another member of the tribunal nominated for that purpose by the Registrar of Tribunals[^key-54ac53247a26d6c4060ee806114193cf].
+(3) The tribunal’s determination shall be recorded in writing with reasons, and shall set out the opinion of the majority of its members together with the minority opinions if any, and shall be signed by the Chair, or in the event of the Chair’s death or incapacity, by another member of the tribunal nominated for that purpose by the Registrar of Tribunals[^c-54ac53247a26d6c4060ee806114193cf].
 
 (4) The tribunal may omit from the written determination the name and any other identifying details of any person, if satisfied that such an order—
 
@@ -41,14 +41,14 @@ save that, in the event of the Chair’s death or incapacity after the tribunal 
 
 ## Annotations
 
-[^key-2681b6d7136dca9cfd3387e877d9a7ca]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2005/2022/rule/50) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-2681b6d7136dca9cfd3387e877d9a7ca]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2005/2022/rule/50) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-c797bf0ecdcc9921603906fc7001b37d]: Textual amendment: Word in rule 50 title substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-c797bf0ecdcc9921603906fc7001b37d]: Textual amendment: Word in rule 50 title substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
 
-[^key-a62b70a77baf0a987158ce1762a73b31]: Textual amendment: Words in rule 50(1)(2) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-a62b70a77baf0a987158ce1762a73b31]: Textual amendment: Words in rule 50(1)(2) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
 
-[^key-d168d0ac64264dd1fc801d13cf9c7cad]: Textual amendment: Words in rule 50(2) added (1.2.2014) by [The Clergy Discipline (Amendment) Rules 2013 (S.I. 2013/1917)](https://www.legislation.gov.uk/uksi/2013/1917), [rules 13(2)](https://www.legislation.gov.uk/uksi/2013/1917/rule/13/2), [37(2)](https://www.legislation.gov.uk/uksi/2013/1917/rule/37/2); [2014 No. 2](https://www.legislation.gov.uk/ukcm/2014/2), [s. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2)
+[^c-d168d0ac64264dd1fc801d13cf9c7cad]: Textual amendment: Words in rule 50(2) added (1.2.2014) by [The Clergy Discipline (Amendment) Rules 2013 (S.I. 2013/1917)](https://www.legislation.gov.uk/uksi/2013/1917), [rules 13(2)](https://www.legislation.gov.uk/uksi/2013/1917/rule/13/2), [37(2)](https://www.legislation.gov.uk/uksi/2013/1917/rule/37/2); [2014 No. 2](https://www.legislation.gov.uk/ukcm/2014/2), [s. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2)
 
-[^key-46f50b8d00c614f9c6d293b5ea93a895]: Textual amendment: Words in rule 50(2) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-46f50b8d00c614f9c6d293b5ea93a895]: Textual amendment: Words in rule 50(2) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
 
-[^key-54ac53247a26d6c4060ee806114193cf]: Textual amendment: Words in rule 50(3) substituted (1.2.2014) by [The Clergy Discipline (Amendment) Rules 2013 (S.I. 2013/1917)](https://www.legislation.gov.uk/uksi/2013/1917), [rules 13(3)](https://www.legislation.gov.uk/uksi/2013/1917/rule/13/3), [37(2)](https://www.legislation.gov.uk/uksi/2013/1917/rule/37/2); [2014 No. 2](https://www.legislation.gov.uk/ukcm/2014/2), [s. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2)
+[^c-54ac53247a26d6c4060ee806114193cf]: Textual amendment: Words in rule 50(3) substituted (1.2.2014) by [The Clergy Discipline (Amendment) Rules 2013 (S.I. 2013/1917)](https://www.legislation.gov.uk/uksi/2013/1917), [rules 13(3)](https://www.legislation.gov.uk/uksi/2013/1917/rule/13/3), [37(2)](https://www.legislation.gov.uk/uksi/2013/1917/rule/37/2); [2014 No. 2](https://www.legislation.gov.uk/ukcm/2014/2), [s. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2)

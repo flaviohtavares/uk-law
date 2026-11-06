@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Upper Tribunal's “judicial review” jurisdiction[^key-90aee6a42dfebee662f93ba1264ecb06]
+## 15. Upper Tribunal's “judicial review” jurisdiction[^c-90aee6a42dfebee662f93ba1264ecb06]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 - (a) in cases arising under the law of England and Wales apply the principles that the High Court would apply in deciding whether to grant that relief under section 31(2) of the Supreme Court Act 1981 (c. 54) on an application for judicial review, and
 - (b) in cases arising under the law of Northern Ireland apply the principles that the High Court would apply in deciding whether to grant that relief on an application for judicial review.
 
-(5A)[^key-43157779444df7b6a199bd41e5b7808d] In cases arising under the law of England and Wales, subsections (2A) and (2B) of section 31 of the Senior Courts Act 1981 apply to the Upper Tribunal when deciding whether to grant relief under subsection (1) as they apply to the High Court when deciding whether to grant relief on an application for judicial review.
+(5A)[^c-43157779444df7b6a199bd41e5b7808d] In cases arising under the law of England and Wales, subsections (2A) and (2B) of section 31 of the Senior Courts Act 1981 apply to the Upper Tribunal when deciding whether to grant relief under subsection (1) as they apply to the High Court when deciding whether to grant relief on an application for judicial review.
 
 (5B) If the tribunal grants relief in reliance on section 31(2B) of the Senior Courts Act 1981 as applied by subsection (5A), the tribunal must certify that the condition in section 31(2B) as so applied is satisfied.
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-90aee6a42dfebee662f93ba1264ecb06]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/2007/15/section/15) excluded (31.12.2023 in relation to accounting periods commencing on or after that date) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 264](https://www.legislation.gov.uk/ukpga/2023/30/section/264), [Sch. 14 para. 65(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/65/3)
+[^c-90aee6a42dfebee662f93ba1264ecb06]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/2007/15/section/15) excluded (31.12.2023 in relation to accounting periods commencing on or after that date) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 264](https://www.legislation.gov.uk/ukpga/2023/30/section/264), [Sch. 14 para. 65(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/14/paragraph/65/3)
 
 [^c20738401]: Modification: S. 15(1): functions transferred (3.11.2008) by virtue of The First-tier [Tribunal and Upper Tribunal (Chambers) Order 2008 (S.I. 2008/2684)](https://www.legislation.gov.uk/uksi/2008/2684), [art. 7(b)(i)](https://www.legislation.gov.uk/uksi/2008/2684/article/7/b/i)
 
-[^key-43157779444df7b6a199bd41e5b7808d]: Textual amendment: S. 15(5A)(5B) inserted (8.8.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 84(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/84/4), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/717/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2016/717/article/6))
+[^c-43157779444df7b6a199bd41e5b7808d]: Textual amendment: S. 15(5A)(5B) inserted (8.8.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 84(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/84/4), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/717/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2016/717/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Assignment stage bids[^key-f4ade604f4b3eb170a46e47171afecb6]
+## 93. Assignment stage bids[^c-f4ade604f4b3eb170a46e47171afecb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ that is the assignment stage option.
 
 ## Annotations
 
-[^key-f4ade604f4b3eb170a46e47171afecb6]: Commencement: Reg. 93 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-f4ade604f4b3eb170a46e47171afecb6]: Commencement: Reg. 93 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

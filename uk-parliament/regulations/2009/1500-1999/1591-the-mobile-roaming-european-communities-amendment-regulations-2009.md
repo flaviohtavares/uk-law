@@ -32,7 +32,7 @@ summary: ''
 
 Electronic Communications
 
-The Mobile Roaming (European Communities) (Amendment) Regulations 2009 (revoked)[^key-fb7b7a25a21fd078a25d19ad239e3f99]
+The Mobile Roaming (European Communities) (Amendment) Regulations 2009 (revoked)[^c-fb7b7a25a21fd078a25d19ad239e3f99]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st July 2009
 
-[^key-fb7b7a25a21fd078a25d19ad239e3f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb7b7a25a21fd078a25d19ad239e3f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fb7b7a25a21fd078a25d19ad239e3f99]
+## 1. Citation and commencement[^c-fb7b7a25a21fd078a25d19ad239e3f99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-fb7b7a25a21fd078a25d19ad239e3f99]
+## 2. Amendments[^c-fb7b7a25a21fd078a25d19ad239e3f99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Savings[^key-fb7b7a25a21fd078a25d19ad239e3f99]
+## 3. Savings[^c-fb7b7a25a21fd078a25d19ad239e3f99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb7b7a25a21fd078a25d19ad239e3f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb7b7a25a21fd078a25d19ad239e3f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-fb7b7a25a21fd078a25d19ad239e3f99]
+## SCHEDULE[^c-fb7b7a25a21fd078a25d19ad239e3f99]
 
 Regulation 2
 
-**1.**[^key-fb7b7a25a21fd078a25d19ad239e3f99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fb7b7a25a21fd078a25d19ad239e3f99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fb7b7a25a21fd078a25d19ad239e3f99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fb7b7a25a21fd078a25d19ad239e3f99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb7b7a25a21fd078a25d19ad239e3f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb7b7a25a21fd078a25d19ad239e3f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb7b7a25a21fd078a25d19ad239e3f99]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1591) revoked (6.4.2023) by [The Trade (Mobile Roaming) Regulations 2023 (S.I. 2023/214)](https://www.legislation.gov.uk/uksi/2023/214), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b), [14](https://www.legislation.gov.uk/uksi/2023/214/regulation/14)
+[^c-fb7b7a25a21fd078a25d19ad239e3f99]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1591) revoked (6.4.2023) by [The Trade (Mobile Roaming) Regulations 2023 (S.I. 2023/214)](https://www.legislation.gov.uk/uksi/2023/214), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b), [14](https://www.legislation.gov.uk/uksi/2023/214/regulation/14)

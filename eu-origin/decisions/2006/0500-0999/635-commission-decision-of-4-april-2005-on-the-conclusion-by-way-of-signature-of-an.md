@@ -35,16 +35,16 @@ on the conclusion, by way of signature, of an Agreement for Co-operation in the 
 
 (2006/635/Euratom) (revoked)
 
-[^key-c4783c964ce8c0efb1ebf5d27c70f91e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4783c964ce8c0efb1ebf5d27c70f91e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-c4783c964ce8c0efb1ebf5d27c70f91e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c4783c964ce8c0efb1ebf5d27c70f91e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c4783c964ce8c0efb1ebf5d27c70f91e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c4783c964ce8c0efb1ebf5d27c70f91e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4783c964ce8c0efb1ebf5d27c70f91e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4783c964ce8c0efb1ebf5d27c70f91e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4783c964ce8c0efb1ebf5d27c70f91e]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-c4783c964ce8c0efb1ebf5d27c70f91e]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

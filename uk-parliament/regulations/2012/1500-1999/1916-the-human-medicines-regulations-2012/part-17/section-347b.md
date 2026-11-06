@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 347B. Transitional provision relating to the Windsor Framework[^key-1ad96278baa461e7ac6b2da03a790985]
+## 347B. Transitional provision relating to the Windsor Framework[^c-1ad96278baa461e7ac6b2da03a790985]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ad96278baa461e7ac6b2da03a790985]: Textual amendment: [Reg. 347B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/347B) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [133](https://www.legislation.gov.uk/uksi/2024/832/regulation/133)
+[^c-1ad96278baa461e7ac6b2da03a790985]: Textual amendment: [Reg. 347B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/347B) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [133](https://www.legislation.gov.uk/uksi/2024/832/regulation/133)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Equal opportunities[^key-41ef049815028d2ff2e92abd00b27322]
+## 116. Equal opportunities[^c-41ef049815028d2ff2e92abd00b27322]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41ef049815028d2ff2e92abd00b27322]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2008/5/section/116) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
+[^c-41ef049815028d2ff2e92abd00b27322]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2008/5/section/116) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)

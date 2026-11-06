@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24C. Appeal to Supreme Court against orders under article 24A[^key-32f57b256091844e0d45e4b88ced6b1a]
+## 24C. Appeal to Supreme Court against orders under article 24A[^c-32f57b256091844e0d45e4b88ced6b1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32f57b256091844e0d45e4b88ced6b1a]: Textual amendment: [Arts. 24A-24C](https://www.legislation.gov.uk/uksi/2005/3181/article/24A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [12](https://www.legislation.gov.uk/uksi/2015/1750/article/12)
+[^c-32f57b256091844e0d45e4b88ced6b1a]: Textual amendment: [Arts. 24A-24C](https://www.legislation.gov.uk/uksi/2005/3181/article/24A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [12](https://www.legislation.gov.uk/uksi/2015/1750/article/12)

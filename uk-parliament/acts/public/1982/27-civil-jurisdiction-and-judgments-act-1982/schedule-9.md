@@ -52,7 +52,7 @@ Section 21.
 
 **14.** Proceedings brought in any court in pursuance of—
 
-- (a) any statutory provision which, in the case of any convention to which the United Kingdom is or may become a party and which governs jurisdiction or recognition and enforcement of judgments in relation to a particular matter[^key-7fc5515c18eaf50216b18c9b6754e89e], implements the convention; and
+- (a) any statutory provision which, in the case of any convention to which the United Kingdom is or may become a party and which governs jurisdiction or recognition and enforcement of judgments in relation to a particular matter[^c-7fc5515c18eaf50216b18c9b6754e89e], implements the convention; and
 - (b) any rule of law so far as it has the effect of implementing any such convention.
 
 ## Annotations
@@ -73,4 +73,4 @@ Section 21.
 
 [^c15860461]: Marginal citation: [1980 c. 11](https://www.legislation.gov.uk/ukpga/1980/11).
 
-[^key-7fc5515c18eaf50216b18c9b6754e89e]: Textual amendment: Words in [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1982/27/schedule/9/paragraph/14) substituted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [62](https://www.legislation.gov.uk/uksi/2019/479/regulation/62) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7fc5515c18eaf50216b18c9b6754e89e]: Textual amendment: Words in [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1982/27/schedule/9/paragraph/14) substituted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [62](https://www.legislation.gov.uk/uksi/2019/479/regulation/62) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

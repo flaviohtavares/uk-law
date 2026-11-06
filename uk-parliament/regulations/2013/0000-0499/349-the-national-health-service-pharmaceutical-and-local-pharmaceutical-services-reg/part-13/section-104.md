@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] may make payments of financial assistance in respect of the development of LPS schemes.
+(1) NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] may make payments of financial assistance in respect of the development of LPS schemes.
 
 (2) If a proposal for an LPS scheme is submitted to NHS England, it must consider whether or not to select that proposal for development, unless the proposal is vexatious or frivolous.
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

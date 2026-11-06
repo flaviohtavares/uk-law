@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Abolition of Adult Learning Inspectorate[^key-a924642596ba11ffe2881263c4f0a393]
+## 134. Abolition of Adult Learning Inspectorate[^c-a924642596ba11ffe2881263c4f0a393]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a924642596ba11ffe2881263c4f0a393]: Commencement: S. 134 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-a924642596ba11ffe2881263c4f0a393]: Commencement: S. 134 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)

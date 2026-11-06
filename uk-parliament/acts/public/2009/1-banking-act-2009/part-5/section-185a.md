@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185A. Recognition criteria: DSA service provider[^key-9a12b908e4ee6544d3efe1db182bea60]
+## 185A. Recognition criteria: DSA service provider[^c-9a12b908e4ee6544d3efe1db182bea60]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a12b908e4ee6544d3efe1db182bea60]: Textual amendment: [S. 185A](https://www.legislation.gov.uk/ukpga/2009/1/section/185A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/11)
+[^c-9a12b908e4ee6544d3efe1db182bea60]: Textual amendment: [S. 185A](https://www.legislation.gov.uk/ukpga/2009/1/section/185A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/11)

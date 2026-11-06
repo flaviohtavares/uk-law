@@ -31,10 +31,10 @@ summary: ''
 
 of 13 November 1996 relating to a procedure in application of Article 83 of the Euratom Treaty (XVII-05 - Jenson Tungsten Ltd, Hemel Hempstead) (Only the English text is authentic) (revoked)
 
-[^key-c7aa83d7043bb262fa2278f8979e334a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7aa83d7043bb262fa2278f8979e334a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-c7aa83d7043bb262fa2278f8979e334a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-c7aa83d7043bb262fa2278f8979e334a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7aa83d7043bb262fa2278f8979e334a]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-c7aa83d7043bb262fa2278f8979e334a]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

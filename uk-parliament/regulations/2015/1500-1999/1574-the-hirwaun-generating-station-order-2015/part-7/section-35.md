@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Protective provisions[^key-6160aa0aac97965431797a488ea41f2b]
+## 35. Protective provisions[^c-6160aa0aac97965431797a488ea41f2b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 7 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-6160aa0aac97965431797a488ea41f2b]: Commencement: Art. 35 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-6160aa0aac97965431797a488ea41f2b]: Commencement: Art. 35 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

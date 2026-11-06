@@ -73,9 +73,9 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** (1.)[^key-143fa6f0528a9fc9cb01fd353646ff93] Competent authorities[^key-0779645e629d460f705c677c6e1c34a7] shall authorise the import from the United States of gelatine and collagen for human consumption, provided that they are accompanied by an official health certificate(s) in the form published by the appropriate authority from time to time[^key-1b705218fd80c94689e3fa3c224289eb].
+**Article 1.** (1.)[^c-143fa6f0528a9fc9cb01fd353646ff93] Competent authorities[^c-0779645e629d460f705c677c6e1c34a7] shall authorise the import from the United States of gelatine and collagen for human consumption, provided that they are accompanied by an official health certificate(s) in the form published by the appropriate authority from time to time[^c-1b705218fd80c94689e3fa3c224289eb].
 
-(2.)[^key-742c9cd55f79f7bf2c20584161a5807d] In this Decision:
+(2.)[^c-742c9cd55f79f7bf2c20584161a5807d] In this Decision:
 
 - “competent authority” has the meaning given in Article 3(3) of Regulation (EU) 2017/625;
 - “appropriate authority” means the Secretary of State (in relation to England), the Welsh Ministers (in relation to Wales) and the Scottish Ministers (in relation to Scotland); but the “appropriate authority” is the Secretary of State if consent is given by:
@@ -84,7 +84,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 2.** This Decision shall apply from 15 December 2003.
 
-**Article 3.**[^key-af7f4280604576a7f57d92c6cd280cf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-af7f4280604576a7f57d92c6cd280cf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 2 December 2003.
 
@@ -94,13 +94,13 @@ David BYRNE
 
 *Member of the Commission*
 
-## ANNEX A[^key-99725a98d1bc53ef02bba98a40c00df6]
+## ANNEX A[^c-99725a98d1bc53ef02bba98a40c00df6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX B[^key-f8e087bcc1f1b06b44b2cba39453fdc5]
+## ANNEX B[^c-f8e087bcc1f1b06b44b2cba39453fdc5]
 
 **No longer in force.**
 
@@ -120,16 +120,16 @@ David BYRNE
 
 [^f00006]: Footnote: OJ L 316, 29.11.2003, p. 20.
 
-[^key-143fa6f0528a9fc9cb01fd353646ff93]: Textual amendment: Art. 1 renumbered as Art. 1(1) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/2/a)
+[^c-143fa6f0528a9fc9cb01fd353646ff93]: Textual amendment: Art. 1 renumbered as Art. 1(1) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/2/a)
 
-[^key-0779645e629d460f705c677c6e1c34a7]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2003/863/article/1/1) substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/2/b/i)
+[^c-0779645e629d460f705c677c6e1c34a7]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2003/863/article/1/1) substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/2/b/i)
 
-[^key-1b705218fd80c94689e3fa3c224289eb]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2003/863/article/1/1) substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/2/b/ii)
+[^c-1b705218fd80c94689e3fa3c224289eb]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2003/863/article/1/1) substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/2/b/ii)
 
-[^key-742c9cd55f79f7bf2c20584161a5807d]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2003/863/article/1/2) inserted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/2/c)
+[^c-742c9cd55f79f7bf2c20584161a5807d]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2003/863/article/1/2) inserted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/2/c)
 
-[^key-af7f4280604576a7f57d92c6cd280cf3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2003/863/article/3) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/3)
+[^c-af7f4280604576a7f57d92c6cd280cf3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2003/863/article/3) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/3)
 
-[^key-99725a98d1bc53ef02bba98a40c00df6]: Textual amendment: [Annex A](https://www.legislation.gov.uk/eudn/2003/863/annex/A) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/4)
+[^c-99725a98d1bc53ef02bba98a40c00df6]: Textual amendment: [Annex A](https://www.legislation.gov.uk/eudn/2003/863/annex/A) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/4)
 
-[^key-f8e087bcc1f1b06b44b2cba39453fdc5]: Textual amendment: [Annex B](https://www.legislation.gov.uk/eudn/2003/863/annex/B) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/4)
+[^c-f8e087bcc1f1b06b44b2cba39453fdc5]: Textual amendment: [Annex B](https://www.legislation.gov.uk/eudn/2003/863/annex/B) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/7/4)

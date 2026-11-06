@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Use of domestic goods or services[^key-a0fcda35bc4e4b63392aeaa69b704296][^key-6b5270039158ad789c430e25c74ce776]
+## 17. Use of domestic goods or services[^c-a0fcda35bc4e4b63392aeaa69b704296][^c-6b5270039158ad789c430e25c74ce776]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a0fcda35bc4e4b63392aeaa69b704296]: Commencement: S. 17 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
+[^c-a0fcda35bc4e4b63392aeaa69b704296]: Commencement: S. 17 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
 
-[^key-6b5270039158ad789c430e25c74ce776]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/23/section/17) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-6b5270039158ad789c430e25c74ce776]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/23/section/17) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

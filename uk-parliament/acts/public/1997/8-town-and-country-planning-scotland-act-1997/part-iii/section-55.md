@@ -46,7 +46,7 @@ summary: ''
 
 (8) Such regulations may modify any provision of the planning Acts or any instrument made under them or may apply any such provision or instrument (with or without modification) in making any such provision as is mentioned in subsection (7).
 
-(9) Nothing in this section prevents planning permission being granted in relation to land in an enterprise zone otherwise than by virtue of this section (whether the permission is granted in pursuance of an application made under this Part, under section 242A[^key-1ebae21757c7925bd8b089b34a0525a9] or by a development order).
+(9) Nothing in this section prevents planning permission being granted in relation to land in an enterprise zone otherwise than by virtue of this section (whether the permission is granted in pursuance of an application made under this Part, under section 242A[^c-1ebae21757c7925bd8b089b34a0525a9] or by a development order).
 
 (10) Nothing in this section prejudices the right of any person to carry out development apart from this section.
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c950091]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
-[^key-1ebae21757c7925bd8b089b34a0525a9]: Textual amendment: Words in s. 55(9) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2006/243/article/4/2)
+[^c-1ebae21757c7925bd8b089b34a0525a9]: Textual amendment: Words in s. 55(9) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2006/243/article/4/2)

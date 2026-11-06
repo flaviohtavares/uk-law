@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Temporary stopping up of streets[^key-a81ef881186f58388abee72e0c829e50]
+## 8. Temporary stopping up of streets[^c-a81ef881186f58388abee72e0c829e50]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ all such other provisions as apply for the purposes of the provisions mentioned 
 
 ## Annotations
 
-[^key-a81ef881186f58388abee72e0c829e50]: Commencement: Art. 8 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-a81ef881186f58388abee72e0c829e50]: Commencement: Art. 8 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62A (Extent: E+W). Appropriate amount: England and Wales (Extent: E+W)[^key-0c2375c67e425379062274e8fbd275fd]
+## 62A (Extent: E+W). Appropriate amount: England and Wales (Extent: E+W)[^c-0c2375c67e425379062274e8fbd275fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c2375c67e425379062274e8fbd275fd]: Textual amendment: Ss. 62A, 62B inserted (E.W.) (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/15) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+[^c-0c2375c67e425379062274e8fbd275fd]: Textual amendment: Ss. 62A, 62B inserted (E.W.) (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/15) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)

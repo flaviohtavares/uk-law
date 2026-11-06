@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Commercial allocation of accounting profit or loss and tax adjustments[^key-ec344e168e92ec006cdc74fff12d8a4c]
+## 115. Commercial allocation of accounting profit or loss and tax adjustments[^c-ec344e168e92ec006cdc74fff12d8a4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec344e168e92ec006cdc74fff12d8a4c]: Modification: S. 115 modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2012/3008/regulation/13) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))
+[^c-ec344e168e92ec006cdc74fff12d8a4c]: Modification: S. 115 modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2012/3008/regulation/13) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))

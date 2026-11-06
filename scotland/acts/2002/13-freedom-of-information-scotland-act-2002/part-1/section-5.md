@@ -37,7 +37,7 @@ summary: ''
 - (a) subsection (2)(a) must specify the functions of a public nature which appear to be exercised;
 - (b) subsection (2)(b) must specify the service being provided.
 
-(5)[^key-36181ad43af30a3d0e1e3d3d2f6b4d88] Before making an order under subsection (1), the Scottish Ministers must—
+(5)[^c-36181ad43af30a3d0e1e3d3d2f6b4d88] Before making an order under subsection (1), the Scottish Ministers must—
 
 - (a) consult—
   - (i) every person to whom the order relates, or
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36181ad43af30a3d0e1e3d3d2f6b4d88]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/asp/2002/13/section/5/5) substituted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 1(1)](https://www.legislation.gov.uk/asp/2013/2/section/1/1), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-36181ad43af30a3d0e1e3d3d2f6b4d88]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/asp/2002/13/section/5/5) substituted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 1(1)](https://www.legislation.gov.uk/asp/2013/2/section/1/1), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)

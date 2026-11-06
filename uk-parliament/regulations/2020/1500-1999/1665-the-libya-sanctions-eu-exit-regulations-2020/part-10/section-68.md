@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Jurisdiction to try offences[^key-1a0ffbb76e482ded29643dc43e24baa7]
+## 68. Jurisdiction to try offences[^c-1a0ffbb76e482ded29643dc43e24baa7]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a0ffbb76e482ded29643dc43e24baa7]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-1a0ffbb76e482ded29643dc43e24baa7]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
 
 [^c24411941]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).

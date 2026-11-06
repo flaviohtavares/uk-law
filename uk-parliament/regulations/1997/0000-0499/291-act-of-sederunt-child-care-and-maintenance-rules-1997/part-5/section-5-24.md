@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.24. Registration[^key-ed68b6857369853fcd9f612864ce0f85]
+## 5.24. Registration[^c-ed68b6857369853fcd9f612864ce0f85]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed68b6857369853fcd9f612864ce0f85]: Commencement: Rule 5.24 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-ed68b6857369853fcd9f612864ce0f85]: Commencement: Rule 5.24 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

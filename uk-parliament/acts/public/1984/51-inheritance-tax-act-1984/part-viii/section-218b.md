@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218B. Pensions: information powers[^key-625f95f088070f017d24c8d514dbddd9]
+## 218B. Pensions: information powers[^c-625f95f088070f017d24c8d514dbddd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-625f95f088070f017d24c8d514dbddd9]: Textual amendment: [S. 218B](https://www.legislation.gov.uk/ukpga/1984/51/section/218B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(11)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/11), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-625f95f088070f017d24c8d514dbddd9]: Textual amendment: [S. 218B](https://www.legislation.gov.uk/ukpga/1984/51/section/218B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(11)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/11), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

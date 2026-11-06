@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3B. Investigator in a clinical trial[^key-7c4fd5bed65b9c9e7f86a804f7418d59]
+## 3B. Investigator in a clinical trial[^c-7c4fd5bed65b9c9e7f86a804f7418d59]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The investigator, in relation to a clinical trial, shall be a health care profes
 
 ## Annotations
 
-[^key-7c4fd5bed65b9c9e7f86a804f7418d59]: Textual amendment: Reg. 3B inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/538/regulation/5)
+[^c-7c4fd5bed65b9c9e7f86a804f7418d59]: Textual amendment: Reg. 3B inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/538/regulation/5)

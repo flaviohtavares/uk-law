@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Council tax calculations by major precepting authorities in England[^key-bf67a733613b31312dce0311533ee954]
+## 75. Council tax calculations by major precepting authorities in England[^c-bf67a733613b31312dce0311533ee954]
 
 *Extent: E+W*
 
@@ -92,4 +92,4 @@ Before section 43 of the Local Government Finance Act 1992 insert—
 
 ## Annotations
 
-[^key-bf67a733613b31312dce0311533ee954]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2011/20/section/75) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)
+[^c-bf67a733613b31312dce0311533ee954]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2011/20/section/75) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)

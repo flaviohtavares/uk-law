@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Claimant commitment for employment and support allowance[^key-41db15b31786da2cefb8e32d4da1e08e]
+## 60. Claimant commitment for employment and support allowance[^c-41db15b31786da2cefb8e32d4da1e08e]
 
 *Extent: N.I.*
 
-(1)[^key-e962afb3fa7890a319961d9c186d0728][^key-d7ac1a2feb362e15ecfd2c33d2ca8c5f] The Welfare Reform Act (Northern Ireland) 2007 is amended as follows.
+(1)[^c-e962afb3fa7890a319961d9c186d0728][^c-d7ac1a2feb362e15ecfd2c33d2ca8c5f] The Welfare Reform Act (Northern Ireland) 2007 is amended as follows.
 
-(2)[^key-e962afb3fa7890a319961d9c186d0728][^key-d7ac1a2feb362e15ecfd2c33d2ca8c5f] In section 1(3) (employment and support allowance) after paragraph (a) insert—
+(2)[^c-e962afb3fa7890a319961d9c186d0728][^c-d7ac1a2feb362e15ecfd2c33d2ca8c5f] In section 1(3) (employment and support allowance) after paragraph (a) insert—
 
 > - (aa) has accepted a claimant commitment,
 
@@ -70,11 +70,11 @@ summary: ''
 
 ## Annotations
 
-[^key-41db15b31786da2cefb8e32d4da1e08e]: Commencement: Art. 60 in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b)
+[^c-41db15b31786da2cefb8e32d4da1e08e]: Commencement: Art. 60 in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b)
 
-[^key-e962afb3fa7890a319961d9c186d0728]: Commencement: Art. 60(1)(2) in operation at 27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
+[^c-e962afb3fa7890a319961d9c186d0728]: Commencement: Art. 60(1)(2) in operation at 27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
-[^key-d7ac1a2feb362e15ecfd2c33d2ca8c5f]: Modification: [Art. 60(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/60/1)[(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/60/2) amendment to earlier commencing S.R. 2017/190, art. 24 (30.3.2022) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3)
+[^c-d7ac1a2feb362e15ecfd2c33d2ca8c5f]: Modification: [Art. 60(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/60/1)[(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/60/2) amendment to earlier commencing S.R. 2017/190, art. 24 (30.3.2022) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3)
 
 [^M_F_2791ddb5-1361-4b91-adef-1a74dd4c1082]: Textual amendment: Art. 60(3)-(5) repealed (27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/2), [Sch. 12 Pt. 5](https://www.legislation.gov.uk/uksi/2015/2006/schedule/12/part/5); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 

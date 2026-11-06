@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 137. Death of licence holder: effect on HMO licence[^key-54b9d9e62138b644a5f2853aa6bab9c7]
+## 137. Death of licence holder: effect on HMO licence[^c-54b9d9e62138b644a5f2853aa6bab9c7]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54b9d9e62138b644a5f2853aa6bab9c7]: Commencement: [S. 137](https://www.legislation.gov.uk/asp/2006/1/section/137) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-54b9d9e62138b644a5f2853aa6bab9c7]: Commencement: [S. 137](https://www.legislation.gov.uk/asp/2006/1/section/137) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

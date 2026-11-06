@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14F. Special guardianship support services[^c15160111][^key-1e7414efcd99e2a385f1648bf610e281]
+## 14F. Special guardianship support services[^c15160111][^c-1e7414efcd99e2a385f1648bf610e281]
 
 *Extent: E+W*
 
@@ -71,14 +71,14 @@ and may also arrange with any such authority or person for that other authority 
 
 (10) A local authority may carry out an assessment of the needs of any person for the purposes of this section at the same time as an assessment of his needs is made under any other provision of this Act or under any other enactment.
 
-(11) Section 27 (co-operation between authorities) applies in relation to the exercise of functions of a local authority in England[^key-f3c9ea6cbc3caa002a6c66f1b5f31325] under this section as it applies in relation to the exercise of functions of a local authority under Part 3 and see sections 164 and 164A of the Social Services and Well-being (Wales) Act 2014 for provision about co-operation between local authorities in Wales and other bodies.[^key-1e041b65263ba9cf01e10ea81c1c3d0f]
+(11) Section 27 (co-operation between authorities) applies in relation to the exercise of functions of a local authority in England[^c-f3c9ea6cbc3caa002a6c66f1b5f31325] under this section as it applies in relation to the exercise of functions of a local authority under Part 3 and see sections 164 and 164A of the Social Services and Well-being (Wales) Act 2014 for provision about co-operation between local authorities in Wales and other bodies.[^c-1e041b65263ba9cf01e10ea81c1c3d0f]
 
 ## Annotations
 
 [^c15160111]: Textual amendment: Ss. 14A-14G inserted (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 115(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/115/1), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k)
 
-[^key-1e7414efcd99e2a385f1648bf610e281]: Modification: S. 14F applied by S.I. 2005/1513, reg. 3A (as inserted (W.) (2.7.2018) by [The Special Guardianship (Wales) (Amendment) Regulations 2018 (S.I. 2018/573)](https://www.legislation.gov.uk/wsi/2018/573), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2018/573/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2018/573/regulation/5/2))
+[^c-1e7414efcd99e2a385f1648bf610e281]: Modification: S. 14F applied by S.I. 2005/1513, reg. 3A (as inserted (W.) (2.7.2018) by [The Special Guardianship (Wales) (Amendment) Regulations 2018 (S.I. 2018/573)](https://www.legislation.gov.uk/wsi/2018/573), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2018/573/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2018/573/regulation/5/2))
 
-[^key-f3c9ea6cbc3caa002a6c66f1b5f31325]: Textual amendment: Words in s. 14F(11) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [56(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/56/a)
+[^c-f3c9ea6cbc3caa002a6c66f1b5f31325]: Textual amendment: Words in s. 14F(11) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [56(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/56/a)
 
-[^key-1e041b65263ba9cf01e10ea81c1c3d0f]: Textual amendment: Words in s. 14F(11) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [56(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/56/b)
+[^c-1e041b65263ba9cf01e10ea81c1c3d0f]: Textual amendment: Words in s. 14F(11) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [56(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/56/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71ZA. Patient online services: provision of online access to coded information in medical record and prospective medical records[^key-83224625e25b70c79ededf2ca4c85737]
+## 71ZA. Patient online services: provision of online access to coded information in medical record and prospective medical records[^c-83224625e25b70c79ededf2ca4c85737]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ the contractor must provide P with that facility by the end of the compliance pe
 
 ## Annotations
 
-[^key-83224625e25b70c79ededf2ca4c85737]: Textual amendment: Reg. 71ZA substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/2023/449/schedule/1/paragraph/5/1)
+[^c-83224625e25b70c79ededf2ca4c85737]: Textual amendment: Reg. 71ZA substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/2023/449/schedule/1/paragraph/5/1)

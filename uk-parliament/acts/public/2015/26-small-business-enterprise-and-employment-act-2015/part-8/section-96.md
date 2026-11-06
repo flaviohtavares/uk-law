@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Protection of information about a person's date of birth[^key-2754ca38e1354ce6d1f410395aa1904f][^key-e5a16c958dea6e752146b98321e01e11][^key-fd2ba811ebc60c859ab314e3f8d96934]
+## 96. Protection of information about a person's date of birth[^c-2754ca38e1354ce6d1f410395aa1904f][^c-e5a16c958dea6e752146b98321e01e11][^c-fd2ba811ebc60c859ab314e3f8d96934]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,8 +97,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2754ca38e1354ce6d1f410395aa1904f]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2015/26/section/96) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/b)
+[^c-2754ca38e1354ce6d1f410395aa1904f]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2015/26/section/96) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/b)
 
-[^key-e5a16c958dea6e752146b98321e01e11]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2015/26/section/96) in force at 10.10.2015 for specified purposes by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/4/a)
+[^c-e5a16c958dea6e752146b98321e01e11]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2015/26/section/96) in force at 10.10.2015 for specified purposes by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/4/a)
 
-[^key-fd2ba811ebc60c859ab314e3f8d96934]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2015/26/section/96) in force at 30.6.2016 in so far as not already in force by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/d)
+[^c-fd2ba811ebc60c859ab314e3f8d96934]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2015/26/section/96) in force at 30.6.2016 in so far as not already in force by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/d)

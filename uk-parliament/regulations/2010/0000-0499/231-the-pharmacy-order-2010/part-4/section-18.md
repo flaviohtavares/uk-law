@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. The Registrar[^key-41664bdf6008f730ba789712ad8dd0cd][^key-c37861e37c58ed8b4df04e32a65a82dc]
+## 18. The Registrar[^c-41664bdf6008f730ba789712ad8dd0cd][^c-c37861e37c58ed8b4df04e32a65a82dc]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41664bdf6008f730ba789712ad8dd0cd]: Commencement: Art. 18 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-41664bdf6008f730ba789712ad8dd0cd]: Commencement: Art. 18 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-c37861e37c58ed8b4df04e32a65a82dc]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2010/231/article/18) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-c37861e37c58ed8b4df04e32a65a82dc]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2010/231/article/18) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

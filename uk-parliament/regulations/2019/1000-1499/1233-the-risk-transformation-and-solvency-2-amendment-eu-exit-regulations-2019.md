@@ -34,7 +34,7 @@ Exiting The European Union
 
 Financial Services And Markets
 
-The Risk Transformation and Solvency 2 (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-44c435c00c885c4536b3fda137e03393]
+The Risk Transformation and Solvency 2 (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-44c435c00c885c4536b3fda137e03393]
 
 Made
 
@@ -46,44 +46,44 @@ at 3.00 p.m. on 5th September 2019
 
 Coming into force in accordance with regulation 1
 
-[^key-44c435c00c885c4536b3fda137e03393]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44c435c00c885c4536b3fda137e03393]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General Provision[^key-44c435c00c885c4536b3fda137e03393]
+## PART 1 — General Provision[^c-44c435c00c885c4536b3fda137e03393]
 
-### 1. Citation and commencement[^key-44c435c00c885c4536b3fda137e03393]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendment of subordinate legislation[^key-44c435c00c885c4536b3fda137e03393]
-
-### 2. The Risk Transformation Regulations 2017[^key-44c435c00c885c4536b3fda137e03393]
+### 1. Citation and commencement[^c-44c435c00c885c4536b3fda137e03393]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018[^key-44c435c00c885c4536b3fda137e03393]
+## PART 2 — Amendment of subordinate legislation[^c-44c435c00c885c4536b3fda137e03393]
+
+### 2. The Risk Transformation Regulations 2017[^c-44c435c00c885c4536b3fda137e03393]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. The Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019[^key-44c435c00c885c4536b3fda137e03393]
+### 3. The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018[^c-44c435c00c885c4536b3fda137e03393]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019[^key-44c435c00c885c4536b3fda137e03393]
+### 4. The Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019[^c-44c435c00c885c4536b3fda137e03393]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendment of retained direct EU legislation[^key-44c435c00c885c4536b3fda137e03393]
-
-### 6. Commission Delegated Regulation (EU) 2015/35[^key-44c435c00c885c4536b3fda137e03393]
+### 5. The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019[^c-44c435c00c885c4536b3fda137e03393]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-44c435c00c885c4536b3fda137e03393]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 3 — Amendment of retained direct EU legislation[^c-44c435c00c885c4536b3fda137e03393]
 
-[^key-44c435c00c885c4536b3fda137e03393]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 6. Commission Delegated Regulation (EU) 2015/35[^c-44c435c00c885c4536b3fda137e03393]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-44c435c00c885c4536b3fda137e03393]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-44c435c00c885c4536b3fda137e03393]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-44c435c00c885c4536b3fda137e03393]: Textual amendment: Regulations revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-44c435c00c885c4536b3fda137e03393]: Textual amendment: Regulations revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

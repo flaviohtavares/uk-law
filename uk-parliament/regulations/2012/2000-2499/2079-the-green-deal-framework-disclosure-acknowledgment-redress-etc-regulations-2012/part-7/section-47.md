@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Oral tenancies and unwritten licence agreements[^key-b234f3edd840466797929ecca8788146]
+## 47. Oral tenancies and unwritten licence agreements[^c-b234f3edd840466797929ecca8788146]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Regulation 48 applies in relation to a green deal property where—
 
 ## Annotations
 
-[^key-b234f3edd840466797929ecca8788146]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2012/2079/regulation/47) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-b234f3edd840466797929ecca8788146]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2012/2079/regulation/47) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 23
 
-**1.**[^key-db70f65507edb47c2ca65a1682bafb5d] (1) Part 3 of the Traffic Management Act 2004 is modified as follows.
+**1.**[^c-db70f65507edb47c2ca65a1682bafb5d] (1) Part 3 of the Traffic Management Act 2004 is modified as follows.
 
 (2) Section 33A (implementation of permit schemes of strategic highways companies and local highway authorities in England) has effect as if—
 
@@ -46,4 +46,4 @@ Article 23
 
 ## Annotations
 
-[^key-db70f65507edb47c2ca65a1682bafb5d]: Commencement: Sch. 4 para. 1 in force at 30.1.2021, see art. 1(2)
+[^c-db70f65507edb47c2ca65a1682bafb5d]: Commencement: Sch. 4 para. 1 in force at 30.1.2021, see art. 1(2)

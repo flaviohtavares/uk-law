@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Removal of maximum age for jury service[^key-589d6791f0a5bc3abddfbaa17a1d29a6]
+## 77. Removal of maximum age for jury service[^c-589d6791f0a5bc3abddfbaa17a1d29a6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In Article 3(1) of the Juries (Northern Ireland) Order 1996 (persons qualified a
 
 ## Annotations
 
-[^key-589d6791f0a5bc3abddfbaa17a1d29a6]: Commencement: [S. 77](https://www.legislation.gov.uk/nia/2015/9/section/77) in operation at 1.7.2016 by [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/247/article/2/a)
+[^c-589d6791f0a5bc3abddfbaa17a1d29a6]: Commencement: [S. 77](https://www.legislation.gov.uk/nia/2015/9/section/77) in operation at 1.7.2016 by [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/247/article/2/a)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies where PSURs relating to a medicinal product authorised under a UKMA(NI),[^key-52a2a774804a18579d55d2de25c00431] UKMA(UK)(Category 2)[^key-56288a16b63b35bc50dd1293891d78e1], THR(NI), THR(UK) or Article 126a authorisation have been assessed under the EU single assessment procedure.
+(1) This regulation applies where PSURs relating to a medicinal product authorised under a UKMA(NI),[^c-52a2a774804a18579d55d2de25c00431] UKMA(UK)(Category 2)[^c-56288a16b63b35bc50dd1293891d78e1], THR(NI), THR(UK) or Article 126a authorisation have been assessed under the EU single assessment procedure.
 
 (2) The licensing authority must implement—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52a2a774804a18579d55d2de25c00431]: Textual amendment: Words in reg. 194(1) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 154](https://www.legislation.gov.uk/uksi/2019/775/regulation/154) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 121](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/121)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52a2a774804a18579d55d2de25c00431]: Textual amendment: Words in reg. 194(1) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 154](https://www.legislation.gov.uk/uksi/2019/775/regulation/154) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 121](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/121)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-56288a16b63b35bc50dd1293891d78e1]: Textual amendment: Words in [reg. 194(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/194/1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [85](https://www.legislation.gov.uk/uksi/2024/832/regulation/85)
+[^c-56288a16b63b35bc50dd1293891d78e1]: Textual amendment: Words in [reg. 194(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/194/1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [85](https://www.legislation.gov.uk/uksi/2024/832/regulation/85)

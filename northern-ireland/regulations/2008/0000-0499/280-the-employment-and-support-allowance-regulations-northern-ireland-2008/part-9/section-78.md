@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Date from which a change in the rate of the payment takes effect[^key-b62707cad7b40cfba9f93e53fab3d966]
+## 78. Date from which a change in the rate of the payment takes effect[^c-b62707cad7b40cfba9f93e53fab3d966]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a payment or councillor’s allowance is already being made to a claimant 
 
 ## Annotations
 
-[^key-b62707cad7b40cfba9f93e53fab3d966]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2008/280/regulation/78) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-b62707cad7b40cfba9f93e53fab3d966]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2008/280/regulation/78) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

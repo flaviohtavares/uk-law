@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Creditors’ claim that remuneration is excessive[^key-8dbf66874a804ab84986642102cb9997]
+## 49. Creditors’ claim that remuneration is excessive[^c-8dbf66874a804ab84986642102cb9997]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dbf66874a804ab84986642102cb9997]: Commencement: Rule 49 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-8dbf66874a804ab84986642102cb9997]: Commencement: Rule 49 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

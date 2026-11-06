@@ -43,13 +43,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 30C(3), 86A, 90(a), 122(1)(a) and (d), 132(4)(a), 167D and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 14(4)(b) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel in so far as its consent is required in respect of regulation 4[^f00004], and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-78609ef9b18ce522a363c63310d67049]
+## 1. Citation, commencement and interpretation[^c-78609ef9b18ce522a363c63310d67049]
 
 (1) These Regulations may be cited as the Social Security (Approved Work) Regulations (Northern Ireland) 2000 and shall come into operation on 3rd April 2000.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Severe Disablement Allowance) Regulations[^key-7af42dc00603dac51f1447894da96391]
+## 2. Amendment of the Social Security (Severe Disablement Allowance) Regulations[^c-7af42dc00603dac51f1447894da96391]
 
 In regulation 7 of the Social Security (Severe Disablement Allowance) Regulations (Northern Ireland) 1984[^f00007] (days for which persons are to be regarded as incapable of work for the purposes of severe disablement allowance) after paragraph (1B) there shall be inserted the following paragraph—
 
@@ -57,7 +57,7 @@ In regulation 7 of the Social Security (Severe Disablement Allowance) Regulation
 
 .
 
-## 3. Amendment of the Income Support (General) Regulations[^key-fd0142eb6144089f3e40fa9150ed3640]
+## 3. Amendment of the Income Support (General) Regulations[^c-fd0142eb6144089f3e40fa9150ed3640]
 
 In regulation 42 of the Income Support (General) Regulations (Northern Ireland) 1987[^f00009] (notional income)—
 
@@ -72,23 +72,23 @@ In regulation 42 of the Income Support (General) Regulations (Northern Ireland) 
 
 ## 4. Amendment of the Housing Benefit (General) Regulations
 
-In regulation 35 of the Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829][^f00012] (notional income)— *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829]
+In regulation 35 of the Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829][^f00012] (notional income)— *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829]
 
-- (a) in paragraph (5) *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829][^f00013]—
-  - (i) at the beginning there shall be inserted “Subject to paragraph (5A),”; and *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829]
-  - (ii (affected by repeal, see note))[^key-27bbb6dbab58b0eb945e0b35db513829] the words from “; but this paragraph” to the end shall be omitted; and *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829]
-- (b) after paragraph (5) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829]
+- (a) in paragraph (5) *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829][^f00013]—
+  - (i) at the beginning there shall be inserted “Subject to paragraph (5A),”; and *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829]
+  - (ii (affected by repeal, see note))[^c-27bbb6dbab58b0eb945e0b35db513829] the words from “; but this paragraph” to the end shall be omitted; and *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829]
+- (b) after paragraph (5) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829]
 
-  > (5A) Paragraph (5) shall not apply— *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829]
+  > (5A) Paragraph (5) shall not apply— *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829]
   >
-  > - (a) to a claimant who is engaged by a charitable or voluntary organisation or who is a volunteer if the appropriate authority is satisfied in any of those cases that it is reasonable for him to provide those services free of charge; or *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829]
-  > - (b) in a case where the service is performed in connection with— *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829]
-  >   - (i) the claimant’s participation in an employment or training programme in accordance with regulation 19(1)( *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829]*p*) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829][^f00014], or *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829]
-  >   - (ii (affected by repeal, see note))[^key-27bbb6dbab58b0eb945e0b35db513829] the claimant’s or the claimant’s partner’s participation in an employment or training programme as defined in regulation 19(3) of those Regulations for which a training allowance is not payable or, where such an allowance is payable, it is payable for the sole purpose of reimbursement of travelling or meal expenses to the person participating in that programme. *(affected by repeal, see note)*[^key-27bbb6dbab58b0eb945e0b35db513829]
+  > - (a) to a claimant who is engaged by a charitable or voluntary organisation or who is a volunteer if the appropriate authority is satisfied in any of those cases that it is reasonable for him to provide those services free of charge; or *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829]
+  > - (b) in a case where the service is performed in connection with— *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829]
+  >   - (i) the claimant’s participation in an employment or training programme in accordance with regulation 19(1)( *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829]*p*) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829][^f00014], or *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829]
+  >   - (ii (affected by repeal, see note))[^c-27bbb6dbab58b0eb945e0b35db513829] the claimant’s or the claimant’s partner’s participation in an employment or training programme as defined in regulation 19(3) of those Regulations for which a training allowance is not payable or, where such an allowance is payable, it is payable for the sole purpose of reimbursement of travelling or meal expenses to the person participating in that programme. *(affected by repeal, see note)*[^c-27bbb6dbab58b0eb945e0b35db513829]
 
   .
 
-## 5. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-c8cc8ccc0563e4bbe1609b3a2bb0475c]
+## 5. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-c8cc8ccc0563e4bbe1609b3a2bb0475c]
 
 In regulation 3(2) of the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00015] (days not to be treated as days of incapacity for work) after sub-paragraph (*b*) there shall be added—
 
@@ -98,7 +98,7 @@ In regulation 3(2) of the Social Security (Incapacity Benefit) Regulations (Nort
 
 .
 
-## 6. Amendment of the Social Security (Incapacity Benefit – Increases for Dependants) Regulations[^key-cfee745d0466e7b160abca3f9197e692]
+## 6. Amendment of the Social Security (Incapacity Benefit – Increases for Dependants) Regulations[^c-cfee745d0466e7b160abca3f9197e692]
 
 In regulation 9 of the Social Security (Incapacity Benefit – Increases for Dependants) Regulations (Northern Ireland) 1994[^f00016] (increase of incapacity benefit for adult dependants and persons having the care of children) after paragraph (2) there shall be inserted the following paragraph—
 
@@ -106,7 +106,7 @@ In regulation 9 of the Social Security (Incapacity Benefit – Increases for Dep
 
 .
 
-## 7. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-f0f01323bcbfae15bb509091f564152a]
+## 7. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-f0f01323bcbfae15bb509091f564152a]
 
 (1) The Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00017] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -136,7 +136,7 @@ In regulation 9 of the Social Security (Incapacity Benefit – Increases for Dep
 
 (4) In regulation 16(2)[^f00019] (person who works to be treated as capable of work) for “167F)” there shall be substituted “167F or approved work under regulation 10A)”.
 
-## 8. Amendment of the Jobseeker’s Allowance Regulations[^key-43501ee9aa4128d0c0fc0d351df9e141]
+## 8. Amendment of the Jobseeker’s Allowance Regulations[^c-43501ee9aa4128d0c0fc0d351df9e141]
 
 In regulation 105 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00020] (notional income)—
 
@@ -156,40 +156,40 @@ In regulation 105 of the Jobseeker’s Allowance Regulations (Northern Ireland) 
 
 ## 9. Amendment of the Social Security (New Deal Pilot) Regulations
 
-In regulation 13 of the Social Security (New Deal Pilot) Regulations (Northern Ireland) 1999 *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f][^f00022] (notional income)— *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
+In regulation 13 of the Social Security (New Deal Pilot) Regulations (Northern Ireland) 1999 *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f][^f00022] (notional income)— *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
 
-- (a) in paragraph (1) for sub-paragraphs ( *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]*b*) and ( *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]*c*) there shall be substituted the following sub-paragraphs— *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
+- (a) in paragraph (1) for sub-paragraphs ( *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]*b*) and ( *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]*c*) there shall be substituted the following sub-paragraphs— *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
 
-  > - (b) in paragraph (13) after “Subject to paragraph (13A)” there were inserted “and paragraph (13B)”; *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
-  > - (c) after paragraph (13A) there were inserted the following paragraph— *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
+  > - (b) in paragraph (13) after “Subject to paragraph (13A)” there were inserted “and paragraph (13B)”; *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
+  > - (c) after paragraph (13A) there were inserted the following paragraph— *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
   >
-  >   > (13B) Paragraph (13) shall not apply in a case where the service is performed in connection with the claimant’s participation in the programme known as the intensive activity period of the New Deal pilots for 25 plus as defined for the purposes of the Social Security (New Deal Pilot) Regulations (Northern Ireland) 1999 in regulation 2(1) of those Regulations. *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
+  >   > (13B) Paragraph (13) shall not apply in a case where the service is performed in connection with the claimant’s participation in the programme known as the intensive activity period of the New Deal pilots for 25 plus as defined for the purposes of the Social Security (New Deal Pilot) Regulations (Northern Ireland) 1999 in regulation 2(1) of those Regulations. *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
   >
   >   .
 
   ;
-- (b) in paragraph (2) for sub-paragraph ( *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]*b*) there shall be substituted the following sub-paragraphs— *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
+- (b) in paragraph (2) for sub-paragraph ( *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]*b*) there shall be substituted the following sub-paragraphs— *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
 
-  > - (b) in paragraph (6) after “Subject to paragraph (6A)” there were inserted “and paragraph (6D)”; *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
-  > - (c) after paragraph (6C) there were inserted the following paragraph— *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
+  > - (b) in paragraph (6) after “Subject to paragraph (6A)” there were inserted “and paragraph (6D)”; *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
+  > - (c) after paragraph (6C) there were inserted the following paragraph— *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
   >
-  >   > (6D) Paragraph (6) shall not apply in a case where the service is performed in connection with the claimant’s participation in the programme known as the intensive activity period of the New Deal pilots for 25 plus as defined for the purposes of the Social Security (New Deal Pilot) Regulations (Northern Ireland) 1999 in regulation 2(1) of those Regulations. *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
+  >   > (6D) Paragraph (6) shall not apply in a case where the service is performed in connection with the claimant’s participation in the programme known as the intensive activity period of the New Deal pilots for 25 plus as defined for the purposes of the Social Security (New Deal Pilot) Regulations (Northern Ireland) 1999 in regulation 2(1) of those Regulations. *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
   >
   >   .
 
-  ; and *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
-- (c) in paragraph (3) for sub-paragraphs ( *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]*b*) and ( *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]*c*) there shall be substituted the following sub-paragraphs— *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
+  ; and *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
+- (c) in paragraph (3) for sub-paragraphs ( *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]*b*) and ( *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]*c*) there shall be substituted the following sub-paragraphs— *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
 
-  > - (b) in paragraph (5) after “Subject to paragraph (5A)” there were inserted “and paragraph (5B)”; *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
-  > - (c) after paragraph (5A) there were inserted the following paragraph— *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
+  > - (b) in paragraph (5) after “Subject to paragraph (5A)” there were inserted “and paragraph (5B)”; *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
+  > - (c) after paragraph (5A) there were inserted the following paragraph— *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
   >
-  >   > (5B) Paragraph (5) shall not apply in a case where the service is performed in connection with the claimant’s participation in the programme known as the intensive activity period of the New Deal pilots for 25 plus as defined for the purposes of the Social Security (New Deal Pilot) Regulations (Northern Ireland) 1999 in regulation 2(1) of those Regulations. *(affected by repeal, see note)*[^key-aba8b8349b4dff0158cd75e623e4844f]
+  >   > (5B) Paragraph (5) shall not apply in a case where the service is performed in connection with the claimant’s participation in the programme known as the intensive activity period of the New Deal pilots for 25 plus as defined for the purposes of the Social Security (New Deal Pilot) Regulations (Northern Ireland) 1999 in regulation 2(1) of those Regulations. *(affected by repeal, see note)*[^c-aba8b8349b4dff0158cd75e623e4844f]
   >
   >   .
 
   .
 
-## 10. Revocations[^key-4509a6fa8b663f6a948f67c4bab5cd33]
+## 10. Revocations[^c-4509a6fa8b663f6a948f67c4bab5cd33]
 
 Regulation 7 of the Housing Benefit (General) (Amendment No. 3) Regulations (Northern Ireland) 1995[^f00023] and regulation 17(4)(*b*) of the Social Security (Amendment) (New Deal) Regulations (Northern Ireland) 1997[^f00024] are hereby revoked.
 
@@ -241,17 +241,17 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00005]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-78609ef9b18ce522a363c63310d67049]: Commencement: Reg. 1 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
+[^c-78609ef9b18ce522a363c63310d67049]: Commencement: Reg. 1 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-7af42dc00603dac51f1447894da96391]: Commencement: Reg. 2 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
+[^c-7af42dc00603dac51f1447894da96391]: Commencement: Reg. 2 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317); regulation 7 was amended by regulation 2(5) of [S.R. 1994 No. 462](https://www.legislation.gov.uk/nisr/1994/462) and regulation 7(2) of [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324)
 
 [^f00008]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); regulation 10A is inserted by regulation 7(3) of these regulations
 
-[^key-fd0142eb6144089f3e40fa9150ed3640]: Commencement: Reg. 3 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
+[^c-fd0142eb6144089f3e40fa9150ed3640]: Commencement: Reg. 3 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1999 No. 390](https://www.legislation.gov.uk/nisr/1999/390)
 
@@ -259,7 +259,7 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00011]: Footnote: Paragraph (6B) was inserted by regulation 2(2)(*b*) of [S.R. 1999 No. 390](https://www.legislation.gov.uk/nisr/1999/390)
 
-[^key-27bbb6dbab58b0eb945e0b35db513829]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/109/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-27bbb6dbab58b0eb945e0b35db513829]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/109/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00012]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending regulations are [S.R. 1991 No. 337](https://www.legislation.gov.uk/nisr/1991/337), [S.R. 1995 No. 89](https://www.legislation.gov.uk/nisr/1995/89) and [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
@@ -267,15 +267,15 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00014]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
 
-[^key-c8cc8ccc0563e4bbe1609b3a2bb0475c]: Commencement: Reg. 5 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
+[^c-c8cc8ccc0563e4bbe1609b3a2bb0475c]: Commencement: Reg. 5 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); regulation 3(1) was amended by [S.R. 1999 No. 346](https://www.legislation.gov.uk/nisr/1999/346)
 
-[^key-cfee745d0466e7b160abca3f9197e692]: Commencement: Reg. 6 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
+[^c-cfee745d0466e7b160abca3f9197e692]: Commencement: Reg. 6 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 1994 No. 485](https://www.legislation.gov.uk/nisr/1994/485)
 
-[^key-f0f01323bcbfae15bb509091f564152a]: Commencement: Reg. 7 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
+[^c-f0f01323bcbfae15bb509091f564152a]: Commencement: Reg. 7 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); relevant amending regulations are [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149) and [S.R. 1996 Nos. 289](https://www.legislation.gov.uk/nisr/1996/289) and [601](https://www.legislation.gov.uk/nisr/1996/601)
 
@@ -283,17 +283,17 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00019]: Footnote: Regulation 16(2) was amended by regulation 4(4)(*a*) of [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601)
 
-[^key-43501ee9aa4128d0c0fc0d351df9e141]: Commencement: Reg. 8 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
+[^c-43501ee9aa4128d0c0fc0d351df9e141]: Commencement: Reg. 8 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending rules are [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
 
 [^f00021]: Footnote: Paragraph (13) was amended by regulation 9(*b*) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and Article 9(5)(*h*) of [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
 
-[^key-aba8b8349b4dff0158cd75e623e4844f]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/109/regulation/9) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-aba8b8349b4dff0158cd75e623e4844f]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/109/regulation/9) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00022]: Footnote: [S.R. 1999 No. 474](https://www.legislation.gov.uk/nisr/1999/474)
 
-[^key-4509a6fa8b663f6a948f67c4bab5cd33]: Commencement: Reg. 10 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
+[^c-4509a6fa8b663f6a948f67c4bab5cd33]: Commencement: Reg. 10 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/109/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 1995 No. 89](https://www.legislation.gov.uk/nisr/1995/89)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Investigations and inquests into Troubles-related deaths[^key-a0af07288c4c5baba746c2238a744e97]
+## SCHEDULE 1A — Investigations and inquests into Troubles-related deaths[^c-a0af07288c4c5baba746c2238a744e97]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0af07288c4c5baba746c2238a744e97]: Textual amendment: Sch. 1A inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/1/2) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-a0af07288c4c5baba746c2238a744e97]: Textual amendment: Sch. 1A inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/1/2) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))

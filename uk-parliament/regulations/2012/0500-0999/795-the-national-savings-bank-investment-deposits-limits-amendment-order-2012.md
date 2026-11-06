@@ -32,7 +32,7 @@ summary: ''
 
 Savings Banks
 
-The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2012 (revoked)[^key-e59d39e791b9d98c5061691ed8d667a6]
+The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2012 (revoked)[^c-e59d39e791b9d98c5061691ed8d667a6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2012
 
-[^key-e59d39e791b9d98c5061691ed8d667a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e59d39e791b9d98c5061691ed8d667a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e59d39e791b9d98c5061691ed8d667a6]
+## 1. Citation and commencement[^c-e59d39e791b9d98c5061691ed8d667a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Savings Bank (Investment Deposits) (Limits) Order 1977[^key-e59d39e791b9d98c5061691ed8d667a6]
+## 2. Amendment of the National Savings Bank (Investment Deposits) (Limits) Order 1977[^c-e59d39e791b9d98c5061691ed8d667a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e59d39e791b9d98c5061691ed8d667a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e59d39e791b9d98c5061691ed8d667a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e59d39e791b9d98c5061691ed8d667a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e59d39e791b9d98c5061691ed8d667a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e59d39e791b9d98c5061691ed8d667a6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/795) revoked (6.4.2014) by [The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2014 (S.I. 2014/484)](https://www.legislation.gov.uk/uksi/2014/484), [arts. 1](https://www.legislation.gov.uk/uksi/2014/484/article/1), [3](https://www.legislation.gov.uk/uksi/2014/484/article/3)
+[^c-e59d39e791b9d98c5061691ed8d667a6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/795) revoked (6.4.2014) by [The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2014 (S.I. 2014/484)](https://www.legislation.gov.uk/uksi/2014/484), [arts. 1](https://www.legislation.gov.uk/uksi/2014/484/article/1), [3](https://www.legislation.gov.uk/uksi/2014/484/article/3)

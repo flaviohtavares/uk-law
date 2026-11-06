@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.29. Duties of court officers[^key-89b112ee3edf4061cd176f330367207b]
+## 50.29. Duties of court officers[^c-89b112ee3edf4061cd176f330367207b]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-89b112ee3edf4061cd176f330367207b]: Commencement: [Rule 50.29](https://www.legislation.gov.uk/uksi/2025/909/rule/50.29) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-89b112ee3edf4061cd176f330367207b]: Commencement: [Rule 50.29](https://www.legislation.gov.uk/uksi/2025/909/rule/50.29) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01370]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 105 was amended by section 160 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
 

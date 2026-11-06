@@ -60,8 +60,8 @@ Accordingly, the Treasury make the following Regulations, in exercise of the pow
 
 (1) The weekly rate of child benefit payable in respect of a child or qualifying young person shall be—
 
-- (a) subject to paragraphs (2) to (5), in a case where in any week a child or qualifying young person is the only person or, if not the only person, the elder or eldest person in respect of whom child benefit is payable to a person, £27.05[^key-0676911921090f03c925a7ae2b1a7ba0] (“the enhanced rate”);
-- (b) in any other case, £17.90[^key-fe878e9ce13c83e0a62183ea1bc6c329].
+- (a) subject to paragraphs (2) to (5), in a case where in any week a child or qualifying young person is the only person or, if not the only person, the elder or eldest person in respect of whom child benefit is payable to a person, £27.05[^c-0676911921090f03c925a7ae2b1a7ba0] (“the enhanced rate”);
+- (b) in any other case, £17.90[^c-fe878e9ce13c83e0a62183ea1bc6c329].
 
 (2) If, in any week—
 
@@ -192,9 +192,9 @@ These Regulations do not impose new costs on business.
 
 [^c1545947]: Marginal citation: [S.I. 2006/223](https://www.legislation.gov.uk/uksi/2006/223).
 
-[^key-0676911921090f03c925a7ae2b1a7ba0]: Textual amendment: Sum in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/965/regulation/2/1/a) substituted (6.4.2026) by [The Child Benefit and Guardian’s Allowance Up-rating Order 2026 (S.I. 2026/232)](https://www.legislation.gov.uk/uksi/2026/232), [arts. 1](https://www.legislation.gov.uk/uksi/2026/232/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/232/article/2/a)
+[^c-0676911921090f03c925a7ae2b1a7ba0]: Textual amendment: Sum in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/965/regulation/2/1/a) substituted (6.4.2026) by [The Child Benefit and Guardian’s Allowance Up-rating Order 2026 (S.I. 2026/232)](https://www.legislation.gov.uk/uksi/2026/232), [arts. 1](https://www.legislation.gov.uk/uksi/2026/232/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/232/article/2/a)
 
-[^key-fe878e9ce13c83e0a62183ea1bc6c329]: Textual amendment: Sum in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2006/965/regulation/2/1/b) substituted (6.4.2026) by [The Child Benefit and Guardian’s Allowance Up-rating Order 2026 (S.I. 2026/232)](https://www.legislation.gov.uk/uksi/2026/232), [arts. 1](https://www.legislation.gov.uk/uksi/2026/232/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/232/article/2/b)
+[^c-fe878e9ce13c83e0a62183ea1bc6c329]: Textual amendment: Sum in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2006/965/regulation/2/1/b) substituted (6.4.2026) by [The Child Benefit and Guardian’s Allowance Up-rating Order 2026 (S.I. 2026/232)](https://www.legislation.gov.uk/uksi/2026/232), [arts. 1](https://www.legislation.gov.uk/uksi/2026/232/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/232/article/2/b)
 
 [^c1545948]: Marginal citation: Substituted by article 3 of, and Schedule 1 to, [S.I. 2005/522](https://www.legislation.gov.uk/uksi/2005/522) .
 

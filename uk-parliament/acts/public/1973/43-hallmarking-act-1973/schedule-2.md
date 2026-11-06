@@ -53,7 +53,7 @@ Section 4.
 | Platinum | 900 | The figures 900 |
 | Platinum | 950 | The figures 950 |
 | Platinum | 999 | The figures 999 |
-| Palladium[^key-fd6843184d7ed9cb5a53301531f5a5c3] | 500 | The figures 500 |
+| Palladium[^c-fd6843184d7ed9cb5a53301531f5a5c3] | 500 | The figures 500 |
 | Palladium | 950 | The figures 950 |
 | Palladium | 999 | The figures 999 |
 
@@ -73,7 +73,7 @@ Section 4.
 | Silver | 999 | The figure of Britannia or a lion passant. In the case of an article struck by the Edinburgh Assay Office, the reference to a lion passant shall be treated as a reference to a lion rampant. |
 | Platinum | 950 | An orb surmounted by a cross |
 | Platinum | 999 | An orb surmounted by a cross |
-| Palladium[^key-258b89e6f2ca2629f128952fc2677017] | 500 | The head of Pallas Athene |
+| Palladium[^c-258b89e6f2ca2629f128952fc2677017] | 500 | The head of Pallas Athene |
 | Palladium | 950 | The head of Pallas Athene |
 | Palladium | 999 | The head of Pallas Athene |
 
@@ -128,13 +128,13 @@ Such mark (if any) as may be for the time being directed in writing by the Counc
 
 **12.** Any small working parts contained within an article which for technical reasons are of a lower standard of fineness or of a less precious metal than the remainder of the article shall, if it is practicable to strike a mark on those parts, be struck with the standard mark only but shall otherwise be ignored for the purpose of determining which hallmarks are to be struck on the remainder of the article.
 
-**13.** Where any article of gold, silver , platinum or palladium[^key-a066bf5ad7244c29cab61bf75b8fa321] is coated in whole or in part with rhodium the rhodium shall be ignored for the purpose of determining which hallmarks are to be struck.
+**13.** Where any article of gold, silver , platinum or palladium[^c-a066bf5ad7244c29cab61bf75b8fa321] is coated in whole or in part with rhodium the rhodium shall be ignored for the purpose of determining which hallmarks are to be struck.
 
-**14.** Where any article of silver , platinum or palladium[^key-41392e87439a86c431232eabbe90d22f] is coated in whole or in part with gold the gold coating shall be ignored for the purpose of determining which hallmarks are to be struck.
+**14.** Where any article of silver , platinum or palladium[^c-41392e87439a86c431232eabbe90d22f] is coated in whole or in part with gold the gold coating shall be ignored for the purpose of determining which hallmarks are to be struck.
 
 **15.** For the purposes of this Part and Part 3—
 
-- (a)[^key-6510ab867f0daa6fb41031fb7ceb01c0] the ranking of precious metals (with platinum being the most precious and silver the least precious) is—
+- (a)[^c-6510ab867f0daa6fb41031fb7ceb01c0] the ranking of precious metals (with platinum being the most precious and silver the least precious) is—
   - platinum
   - gold
   - palladium
@@ -172,7 +172,7 @@ Such mark (if any) as may be for the time being directed in writing by the Counc
 
 **19.** For the purposes of this Part—
 
-- (a) “**base metal**” means any metal other than gold, silver , platinum or palladium[^key-fcdf2a7023ae383b80d01383295b329d], and
+- (a) “**base metal**” means any metal other than gold, silver , platinum or palladium[^c-fcdf2a7023ae383b80d01383295b329d], and
 - (b) “**mixed material article**” means an article comprised of one or more precious metal parts and one or more other materials.
 
 ### Part IV — General
@@ -187,9 +187,9 @@ Such mark (if any) as may be for the time being directed in writing by the Counc
 
 [^c4487151]: Modification: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/ukpga/1973/43/schedule/2/part/1/paragraph/1) modified (1.4.2002) by [The Hallmarking (International Convention) Order 2002 (S.I. 2002/506)](https://www.legislation.gov.uk/uksi/2002/506), [art. 6(3)](https://www.legislation.gov.uk/uksi/2002/506/article/6/3)
 
-[^key-fd6843184d7ed9cb5a53301531f5a5c3]: Textual amendment: Words in Sch. 2 Pt. 1 para. 2 inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/2)
+[^c-fd6843184d7ed9cb5a53301531f5a5c3]: Textual amendment: Words in Sch. 2 Pt. 1 para. 2 inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/2)
 
-[^key-258b89e6f2ca2629f128952fc2677017]: Textual amendment: Words in Sch. 2 Pt. 1 para. 3 inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/3)
+[^c-258b89e6f2ca2629f128952fc2677017]: Textual amendment: Words in Sch. 2 Pt. 1 para. 3 inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/3)
 
 [^c4449541]: Textual amendment: [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1973/43/schedule/2/part/I) substituted (1.1.1999) by [S.I. 1998/2978](https://www.legislation.gov.uk/uksi/1998/2978), [reg. 2(15)](https://www.legislation.gov.uk/uksi/1998/2978/regulation/2/15).
 
@@ -197,12 +197,12 @@ Such mark (if any) as may be for the time being directed in writing by the Counc
 
 [^c19423871]: Textual amendment: Sch. 2 Pts. 2, 3 substituted (6.4.2007) by [The Hallmarking Act 1973 (Amendment) Regulations 2007 (S.I. 2007/872)](https://www.legislation.gov.uk/uksi/2007/872), [reg. 2(6)](https://www.legislation.gov.uk/uksi/2007/872/regulation/2/6), [Sch.](https://www.legislation.gov.uk/uksi/2007/872/schedule)
 
-[^key-a066bf5ad7244c29cab61bf75b8fa321]: Textual amendment: Words in [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1973/43/schedule/2/paragraph/13) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(4)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/4)
+[^c-a066bf5ad7244c29cab61bf75b8fa321]: Textual amendment: Words in [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1973/43/schedule/2/paragraph/13) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(4)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/4)
 
-[^key-41392e87439a86c431232eabbe90d22f]: Textual amendment: Words in [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/1973/43/schedule/2/paragraph/14) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(5)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/5)
+[^c-41392e87439a86c431232eabbe90d22f]: Textual amendment: Words in [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/1973/43/schedule/2/paragraph/14) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(5)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/5)
 
-[^key-6510ab867f0daa6fb41031fb7ceb01c0]: Textual amendment: Sch. 2 Pt. 2 para. 15(a) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(6)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/6)
+[^c-6510ab867f0daa6fb41031fb7ceb01c0]: Textual amendment: Sch. 2 Pt. 2 para. 15(a) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(6)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/6)
 
-[^key-fcdf2a7023ae383b80d01383295b329d]: Textual amendment: Words in Sch. 2 Pt. 3 para. 19(a) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(7)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/7)
+[^c-fcdf2a7023ae383b80d01383295b329d]: Textual amendment: Words in Sch. 2 Pt. 3 para. 19(a) substituted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 7(7)](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/7/7)
 
 [^c19423761]: Textual amendment: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/ukpga/1973/43/schedule/2/part/4): para. 7 renumbered (6.4.2007) as para. 20 by [The Hallmarking Act 1973 (Amendment) Regulations 2007 (S.I. 2007/872)](https://www.legislation.gov.uk/uksi/2007/872), [reg. 2(7)](https://www.legislation.gov.uk/uksi/2007/872/regulation/2/7)

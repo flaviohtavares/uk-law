@@ -30,7 +30,7 @@ summary: ''
 
 BETTING, GAMING AND LOTTERIES
 
-Bookmaking (Licensed Offices) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-7a4bf2ed5346a60de93fadd945421128]
+Bookmaking (Licensed Offices) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-7a4bf2ed5346a60de93fadd945421128]
 
 Made
 
@@ -40,32 +40,32 @@ Coming into operation
 
 22nd June 1998
 
-[^key-7a4bf2ed5346a60de93fadd945421128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a4bf2ed5346a60de93fadd945421128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7a4bf2ed5346a60de93fadd945421128]
+## 1. Citation, commencement and interpretation[^c-7a4bf2ed5346a60de93fadd945421128]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Notices in licensed offices[^key-7a4bf2ed5346a60de93fadd945421128]
+## 2. Notices in licensed offices[^c-7a4bf2ed5346a60de93fadd945421128]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restrictions on advertisements[^key-7a4bf2ed5346a60de93fadd945421128]
+## 3. Restrictions on advertisements[^c-7a4bf2ed5346a60de93fadd945421128]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Advertisements permitted[^key-7a4bf2ed5346a60de93fadd945421128]
+## 4. Advertisements permitted[^c-7a4bf2ed5346a60de93fadd945421128]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a4bf2ed5346a60de93fadd945421128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a4bf2ed5346a60de93fadd945421128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7a4bf2ed5346a60de93fadd945421128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a4bf2ed5346a60de93fadd945421128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a4bf2ed5346a60de93fadd945421128]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/190) revoked (7.8.2004) by [Bookmaking (Licensed Offices) Regulations (Northern Ireland) 2004 (S.R. 2004/258)](https://www.legislation.gov.uk/nisr/2004/258), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/258/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2004/258/regulation/5/b)
+[^c-7a4bf2ed5346a60de93fadd945421128]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/190) revoked (7.8.2004) by [Bookmaking (Licensed Offices) Regulations (Northern Ireland) 2004 (S.R. 2004/258)](https://www.legislation.gov.uk/nisr/2004/258), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/258/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2004/258/regulation/5/b)

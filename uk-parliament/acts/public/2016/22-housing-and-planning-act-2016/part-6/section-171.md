@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Sustainable drainage[^key-3a9cf34e240c1e4b33ae027d8103c295]
+## 171. Sustainable drainage[^c-3a9cf34e240c1e4b33ae027d8103c295]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Secretary of State must carry out a review of planning legislation, governme
 
 ## Annotations
 
-[^key-3a9cf34e240c1e4b33ae027d8103c295]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2016/22/section/171) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/h)
+[^c-3a9cf34e240c1e4b33ae027d8103c295]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2016/22/section/171) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/h)

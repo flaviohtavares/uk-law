@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Detention of certain PSVs used without PSV operators' licences[^c2199642][^key-6452548eb384dfdb9ec204a147079967]
+## 47. Detention of certain PSVs used without PSV operators' licences[^c2199642][^c-6452548eb384dfdb9ec204a147079967]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c2199642]: Commencement: S. 47 partly in force; s. 47 in force at Royal Assent for specified purposes, see s. 134(1)(c)
 
-[^key-6452548eb384dfdb9ec204a147079967]: Commencement: S. 47 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-6452548eb384dfdb9ec204a147079967]: Commencement: S. 47 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

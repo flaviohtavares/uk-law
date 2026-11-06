@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49A. Transfer of case records[^key-92b08807928c4b78ac75155209b2641b]
+## 49A. Transfer of case records[^c-92b08807928c4b78ac75155209b2641b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The responsible authority may transfer a copy of C’s case record (or part of t
 
 ## Annotations
 
-[^key-92b08807928c4b78ac75155209b2641b]: Textual amendment: Reg. 49A inserted (5.3.2018) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/152)](https://www.legislation.gov.uk/uksi/2018/152), [regs. 1](https://www.legislation.gov.uk/uksi/2018/152/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/152/regulation/4)
+[^c-92b08807928c4b78ac75155209b2641b]: Textual amendment: Reg. 49A inserted (5.3.2018) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/152)](https://www.legislation.gov.uk/uksi/2018/152), [regs. 1](https://www.legislation.gov.uk/uksi/2018/152/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/152/regulation/4)

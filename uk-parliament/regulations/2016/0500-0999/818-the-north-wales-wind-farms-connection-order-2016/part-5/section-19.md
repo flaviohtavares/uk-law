@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Crown land[^key-b923639cd092b9257657ab8a31367773]
+## 19. Crown land[^c-b923639cd092b9257657ab8a31367773]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ The undertaker may exercise any right under this Order to acquire compulsorily a
 
 ## Annotations
 
-[^key-b923639cd092b9257657ab8a31367773]: Commencement: Art. 19 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-b923639cd092b9257657ab8a31367773]: Commencement: Art. 19 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Duty to help to prevent an applicant from becoming homeless[^key-8388015571c583f048f8a3923e60f11c]
+## 66. Duty to help to prevent an applicant from becoming homeless[^c-8388015571c583f048f8a3923e60f11c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8388015571c583f048f8a3923e60f11c]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2014/7/section/66) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 17](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/17)
+[^c-8388015571c583f048f8a3923e60f11c]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2014/7/section/66) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 17](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/17)

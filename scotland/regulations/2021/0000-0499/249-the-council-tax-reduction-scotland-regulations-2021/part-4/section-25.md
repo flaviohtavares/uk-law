@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Telephone applications[^key-6538c1236018a76dcbc2aebb4b52b986]
+## 25. Telephone applications[^c-6538c1236018a76dcbc2aebb4b52b986]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6538c1236018a76dcbc2aebb4b52b986]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2021/249/regulation/25) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-6538c1236018a76dcbc2aebb4b52b986]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2021/249/regulation/25) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Amendment of Schedule 2 (absent voting in PCC elections)[^key-ecb5578614bde6ed6f92347b3fbfacb1]
+## 59. Amendment of Schedule 2 (absent voting in PCC elections)[^c-ecb5578614bde6ed6f92347b3fbfacb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -135,4 +135,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecb5578614bde6ed6f92347b3fbfacb1]: Commencement: Reg. 59 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-ecb5578614bde6ed6f92347b3fbfacb1]: Commencement: Reg. 59 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Evidence and procedure in cases of serious physical harm: England and Wales[^key-de1c9f8d4666dfb4f557abe8952d2870]
+## 6A. Evidence and procedure in cases of serious physical harm: England and Wales[^c-de1c9f8d4666dfb4f557abe8952d2870]
 
 *Extent: E+W+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) an offence under section 18 or 20 of the Offences against the Person Act 1861 (grievous bodily harm etc);
 - (b) an offence under section 1 of the Criminal Attempts Act 1981 of attempting to commit murder;
-- (c)[^key-1b04066a93437b0ef950f7dd33a04830] an offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation).
+- (c)[^c-1b04066a93437b0ef950f7dd33a04830] an offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation).
 
 (3) Where by virtue of section 35(3) of the Criminal Justice and Public Order Act 1994 a court or jury is permitted, in relation to the section 5 offence, to draw such inferences as appear proper from the defendant's failure to give evidence or refusal to answer a question, the court or jury may also draw such inferences in determining whether the defendant is guilty of a relevant offence, even if there would otherwise be no case for the defendant to answer in relation to that offence.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de1c9f8d4666dfb4f557abe8952d2870]: Textual amendment: S. 6A inserted (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [ss. 2](https://www.legislation.gov.uk/ukpga/2012/4/section/2), [4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)
+[^c-de1c9f8d4666dfb4f557abe8952d2870]: Textual amendment: S. 6A inserted (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [ss. 2](https://www.legislation.gov.uk/ukpga/2012/4/section/2), [4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)
 
-[^key-1b04066a93437b0ef950f7dd33a04830]: Textual amendment: [S. 6A(2)(c)](https://www.legislation.gov.uk/ukpga/2004/28/section/6A/2/c) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/8); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
+[^c-1b04066a93437b0ef950f7dd33a04830]: Textual amendment: [S. 6A(2)(c)](https://www.legislation.gov.uk/ukpga/2004/28/section/6A/2/c) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/8); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)

@@ -27,14 +27,14 @@ summary: ''
 - (a) becomes due when the aircraft first takes off on the passenger’s flight, and
 - (b) shall be paid by the operator of the aircraft.
 
-(3)[^key-a792cb5853f677611d623738aed6fce0] Sections 29 and 29A below set out how to determine if an aircraft is a chargeable aircraft for the purposes of this Chapter.
+(3)[^c-a792cb5853f677611d623738aed6fce0] Sections 29 and 29A below set out how to determine if an aircraft is a chargeable aircraft for the purposes of this Chapter.
 
-(4) Subject to sections 31 and 32 below, every passenger on an aircraft is a chargeable passenger for the purposes of this Chapter if his flight begins at an airport in England, Wales or Northern Ireland[^key-ead3d267ac5db44007827c71e1703b65].
+(4) Subject to sections 31 and 32 below, every passenger on an aircraft is a chargeable passenger for the purposes of this Chapter if his flight begins at an airport in England, Wales or Northern Ireland[^c-ead3d267ac5db44007827c71e1703b65].
 
 (5) In this Chapter, “**flight**”, in relation to any person, means his carriage on an aircraft; and for the purposes of this Chapter, a person’s flight is to be treated as beginning when he first boards the aircraft and ending when he finally disembarks from the aircraft.
 
 ## Annotations
 
-[^key-a792cb5853f677611d623738aed6fce0]: Textual amendment: S. 28(3) substituted (17.7.2012) (with effect in accordance with Sch. 23 para. 23 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/17)
+[^c-a792cb5853f677611d623738aed6fce0]: Textual amendment: S. 28(3) substituted (17.7.2012) (with effect in accordance with Sch. 23 para. 23 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/17)
 
-[^key-ead3d267ac5db44007827c71e1703b65]: Textual amendment: Words in s. 28(4) substituted (with effect in accordance with s. 17(7) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2016/11/section/17/4), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
+[^c-ead3d267ac5db44007827c71e1703b65]: Textual amendment: Words in s. 28(4) substituted (with effect in accordance with s. 17(7) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2016/11/section/17/4), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Amendment to the Reciprocal Enforcement of Maintenance Orders (United States of America) (Scotland) Order 2007[^key-67852ef4a18f943a67dfee925113a037]
+## 119. Amendment to the Reciprocal Enforcement of Maintenance Orders (United States of America) (Scotland) Order 2007[^c-67852ef4a18f943a67dfee925113a037]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Part 1 of the 1972 Act, as it has effect as set out in Schedule 2 to the Recipro
 
 ## Annotations
 
-[^key-67852ef4a18f943a67dfee925113a037]: Commencement: Art. 119 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-67852ef4a18f943a67dfee925113a037]: Commencement: Art. 119 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00035]: Footnote: [S.S.I. 2007/354](https://www.legislation.gov.uk/ssi/2007/354).

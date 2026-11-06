@@ -128,7 +128,7 @@ Section 49(2).
 
 ### The Agricultural Training Board Act 1982 (c. 9)
 
-**33.**[^key-9118933d08905e5bf32377888355ef26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-9118933d08905e5bf32377888355ef26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Industrial Training Act 1982 (c. 10)
 
@@ -329,7 +329,7 @@ Section 49(2).
 
 **67.**[^c1092721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**68.**[^key-9e90a7811ee231a1719d2dd6493f7697] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**68.**[^c-9e90a7811ee231a1719d2dd6493f7697] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **69.** In section 164(1)(a) of the 1992 Act (order in such a case for continuation of contract for purposes of pay or any benefit derived from the employment), for the words any benefit there shall be substituted the words “ any other benefit ”.
 
@@ -535,7 +535,7 @@ Section 49(2).
 
 [^c1092705]: Textual amendment: [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/32) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-9118933d08905e5bf32377888355ef26]: Textual amendment: Sch. 8 para. 33 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-9118933d08905e5bf32377888355ef26]: Textual amendment: Sch. 8 para. 33 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
 
 [^c1092708]: Commencement: [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/34) wholly in force at 1.4.1995; [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/34) not in force at Royal Assent see [s. 52](https://www.legislation.gov.uk/ukpga/1993/19/section/52); [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/34) in force in relation to England and Scotland at 1.4.1994 and for all other purposes at 1.4.1995 by [S.I. 1993/2503](https://www.legislation.gov.uk/uksi/1993/2503), [art. 2(3)](https://www.legislation.gov.uk/uksi/1993/2503/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/2503/schedule/3).
 
@@ -565,7 +565,7 @@ Section 49(2).
 
 [^c1092721]: Textual amendment: [Sch. 8 para. 67](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/67) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-9e90a7811ee231a1719d2dd6493f7697]: Textual amendment: [Sch. 8 para. 68](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/68) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-9e90a7811ee231a1719d2dd6493f7697]: Textual amendment: [Sch. 8 para. 68](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/68) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c1092722]: Commencement: [Sch. 8 para. 76](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/76) wholly in force at 10.6.1994; [Sch. 8 para. 76](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/76) not in force at Royal Assent see [s. 52](https://www.legislation.gov.uk/ukpga/1993/19/section/52); [Sch. 8 para. 76](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/76) in force at 30.8.1993 so far as it relates to s. 57A of the 1978 Act by [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1); [Sch. 8 para. 76](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/76) in force at 10.6.1994 in so far as not already in force by [S.I. 1994/1365](https://www.legislation.gov.uk/uksi/1994/1365), [art. 2](https://www.legislation.gov.uk/uksi/1994/1365/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1994/1365/schedule) (with transitional provision in [art. 3](https://www.legislation.gov.uk/uksi/1994/1365/article/3))
 

@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Bluetongue (Amendment) Order 2007 (revoked)[^key-cd71f8a16c390a8b1cf1d0d277495f71]
+The Bluetongue (Amendment) Order 2007 (revoked)[^c-cd71f8a16c390a8b1cf1d0d277495f71]
 
 Made
 
@@ -43,34 +43,34 @@ Coming into force
 
 28th September 2007
 
-[^key-cd71f8a16c390a8b1cf1d0d277495f71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd71f8a16c390a8b1cf1d0d277495f71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cd71f8a16c390a8b1cf1d0d277495f71]
+## 1. Citation and commencement[^c-cd71f8a16c390a8b1cf1d0d277495f71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-cd71f8a16c390a8b1cf1d0d277495f71]
+## 2. Amendment[^c-cd71f8a16c390a8b1cf1d0d277495f71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd71f8a16c390a8b1cf1d0d277495f71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd71f8a16c390a8b1cf1d0d277495f71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Amendments to the Bluetongue Order 2003[^key-cd71f8a16c390a8b1cf1d0d277495f71]
+## SCHEDULE 1 — Amendments to the Bluetongue Order 2003[^c-cd71f8a16c390a8b1cf1d0d277495f71]
 
 Article 2
 
-**1.**[^key-cd71f8a16c390a8b1cf1d0d277495f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cd71f8a16c390a8b1cf1d0d277495f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cd71f8a16c390a8b1cf1d0d277495f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cd71f8a16c390a8b1cf1d0d277495f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cd71f8a16c390a8b1cf1d0d277495f71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd71f8a16c390a8b1cf1d0d277495f71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd71f8a16c390a8b1cf1d0d277495f71]: Textual amendment: Order revoked (25.9.2007) by [The Bluetongue (Amendment) (No. 2) Order 2007 (S.I. 2007/2808)](https://www.legislation.gov.uk/uksi/2007/2808), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2007/2808/article/1), [3](https://www.legislation.gov.uk/uksi/2007/2808/article/3)
+[^c-cd71f8a16c390a8b1cf1d0d277495f71]: Textual amendment: Order revoked (25.9.2007) by [The Bluetongue (Amendment) (No. 2) Order 2007 (S.I. 2007/2808)](https://www.legislation.gov.uk/uksi/2007/2808), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2007/2808/article/1), [3](https://www.legislation.gov.uk/uksi/2007/2808/article/3)

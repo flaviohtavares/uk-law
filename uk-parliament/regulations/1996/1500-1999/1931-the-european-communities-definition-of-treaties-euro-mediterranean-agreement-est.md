@@ -30,7 +30,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Euro-Mediterranean Agreement Establishing an Association between the European Communities and their Member States and the Republic of Tunisia) Order 1996 (revoked)[^key-4a53d28b7e0e9c13eeb9bb0776aff2bb]
+The European Communities (Definition of Treaties) (Euro-Mediterranean Agreement Establishing an Association between the European Communities and their Member States and the Republic of Tunisia) Order 1996 (revoked)[^c-4a53d28b7e0e9c13eeb9bb0776aff2bb]
 
 Made
 
@@ -46,24 +46,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-4a53d28b7e0e9c13eeb9bb0776aff2bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a53d28b7e0e9c13eeb9bb0776aff2bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-4a53d28b7e0e9c13eeb9bb0776aff2bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4a53d28b7e0e9c13eeb9bb0776aff2bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4a53d28b7e0e9c13eeb9bb0776aff2bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4a53d28b7e0e9c13eeb9bb0776aff2bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4a53d28b7e0e9c13eeb9bb0776aff2bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a53d28b7e0e9c13eeb9bb0776aff2bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-4a53d28b7e0e9c13eeb9bb0776aff2bb]
+## SCHEDULE[^c-4a53d28b7e0e9c13eeb9bb0776aff2bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4a53d28b7e0e9c13eeb9bb0776aff2bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a53d28b7e0e9c13eeb9bb0776aff2bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4a53d28b7e0e9c13eeb9bb0776aff2bb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1996/1931) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a53d28b7e0e9c13eeb9bb0776aff2bb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1996/1931) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Amendment of regulation 50 (accompanying material)[^key-a4da07fef8ebcab77b03b31acf879979]
+## 49. Amendment of regulation 50 (accompanying material)[^c-a4da07fef8ebcab77b03b31acf879979]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulation 50 [^c23884721] is amended as follows.
 
-(1A)[^key-ebba9506a8da1c020b9085b4852d3e26] After paragraph (1) insert—
+(1A)[^c-ebba9506a8da1c020b9085b4852d3e26] After paragraph (1) insert—
 
 > (1A) An applicant for the grant of a UK marketing authorisation for a relevant medicinal product must provide—
 >
@@ -41,7 +41,7 @@ summary: ''
 
 .
 
-(2)[^key-9866f25bef9f00da397b63d6eec182ef] For paragraph (4) substitute—
+(2)[^c-9866f25bef9f00da397b63d6eec182ef] For paragraph (4) substitute—
 
 > (4) If any of the medicinal products to which the application for a UK marketing authorisation relates—
 >
@@ -54,7 +54,7 @@ summary: ''
 
 (3) After paragraph (5) insert—
 
-> (5A)[^key-709e599f90c61d6ec75ef529bc2fec79] The Secretary of State may by regulations in respect of Great Britain amend Schedule 8B (modifications of Annex I) in relation to a UKMA(GB) for the purpose of further modifying Annex I to the 2001 Directive in order to take account of scientific and technical progress.
+> (5A)[^c-709e599f90c61d6ec75ef529bc2fec79] The Secretary of State may by regulations in respect of Great Britain amend Schedule 8B (modifications of Annex I) in relation to a UKMA(GB) for the purpose of further modifying Annex I to the 2001 Directive in order to take account of scientific and technical progress.
 >
 > (5B) The licensing authority may publish, for the purposes of applications made pursuant to this regulation—
 >
@@ -62,7 +62,7 @@ summary: ''
 > - (b) scientific guidelines relating to the quality, safety and efficacy of medicinal products; and
 > - (c) guidelines describing the active substance manufacturing process and process controls.
 >
-> (5C) Unless replaced by guidance or guidelines published under the power conferred by paragraph (5B), the following guidance and guidelines continue to apply as they applied immediately before IP completion day[^key-a48e5a39fb6ae99877855ca1c0b2b351] (subject to any amendments or variations published under that paragraph)—
+> (5C) Unless replaced by guidance or guidelines published under the power conferred by paragraph (5B), the following guidance and guidelines continue to apply as they applied immediately before IP completion day[^c-a48e5a39fb6ae99877855ca1c0b2b351] (subject to any amendments or variations published under that paragraph)—
 >
 > - (a) the guidance published by the European Commission in the rules governing medicinal products in the European Community, Volume 2B, Notice to Applicants, Medicinal Products for human use, Presentation and content of the dossier, Common Technical Document [^c23884731];
 > - (b) the scientific guidelines relating to the quality, safety and efficacy of medicinal products as adopted by the Committee for Medicinal Products for Human Use and published by the EMA and the other pharmaceutical Community guidelines published by the European Commission in the different volumes of the rules governing medicinal products in the European Community [^c23884741]; and
@@ -82,7 +82,7 @@ summary: ''
 
 .
 
-(4A)[^key-bd1eb28651c9e220f8329303a1c3f596] In paragraph (6)—
+(4A)[^c-bd1eb28651c9e220f8329303a1c3f596] In paragraph (6)—
 
 - (a) for sub-paragraph (a), substitute—
 
@@ -116,17 +116,17 @@ summary: ''
 
 ## Annotations
 
-[^key-a4da07fef8ebcab77b03b31acf879979]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a4da07fef8ebcab77b03b31acf879979]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884721]: Marginal citation: Regulation 50 was amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).
 
-[^key-ebba9506a8da1c020b9085b4852d3e26]: Textual amendment: Reg. 49(1A)(1B) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 37(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/37/a)
+[^c-ebba9506a8da1c020b9085b4852d3e26]: Textual amendment: Reg. 49(1A)(1B) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 37(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/37/a)
 
-[^key-9866f25bef9f00da397b63d6eec182ef]: Textual amendment: Reg. 49(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 37(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/37/b)
+[^c-9866f25bef9f00da397b63d6eec182ef]: Textual amendment: Reg. 49(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 37(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/37/b)
 
-[^key-709e599f90c61d6ec75ef529bc2fec79]: Textual amendment: Words in reg. 49(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 37(c)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/37/c/i)
+[^c-709e599f90c61d6ec75ef529bc2fec79]: Textual amendment: Words in reg. 49(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 37(c)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/37/c/i)
 
-[^key-a48e5a39fb6ae99877855ca1c0b2b351]: Textual amendment: Words in reg. 49(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 37(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/37/c/ii)
+[^c-a48e5a39fb6ae99877855ca1c0b2b351]: Textual amendment: Words in reg. 49(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 37(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/37/c/ii)
 
 [^c23884731]: Marginal citation: The guidance is available at: https://www.gov.uk/guidance/eu-guidance-documents-referred-to-in-the-human-medicines-regulations-2012 and a hard copy may be obtained from the Medicines and Healthcare products Regulatory Agency at the address given in the Explanatory Note.
 
@@ -134,4 +134,4 @@ summary: ''
 
 [^c23884751]: Marginal citation: The guidance is available at: https://www.gov.uk/guidance/eu-guidance-documents-referred-to-in-the-human-medicines-regulations-2012 and a hard copy may be obtained from the Medicines and Healthcare products Regulatory Agency at the address given in the Explanatory Note.
 
-[^key-bd1eb28651c9e220f8329303a1c3f596]: Textual amendment: Reg. 49(4A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 37(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/37/d)
+[^c-bd1eb28651c9e220f8329303a1c3f596]: Textual amendment: Reg. 49(4A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 37(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/37/d)

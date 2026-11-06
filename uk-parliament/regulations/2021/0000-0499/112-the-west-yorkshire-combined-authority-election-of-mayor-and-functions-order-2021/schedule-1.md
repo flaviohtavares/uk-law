@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Modification of provisions of the Apprenticeships, Skills, Children and Learning Act 2009 in their application to the Combined Authority[^key-5e0aaaffbec872fe73e9e506522e1655]
+## SCHEDULE 1 — Modification of provisions of the Apprenticeships, Skills, Children and Learning Act 2009 in their application to the Combined Authority[^c-5e0aaaffbec872fe73e9e506522e1655]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ Article 9
 
 ## Annotations
 
-[^key-5e0aaaffbec872fe73e9e506522e1655]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/112/schedule/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(10)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/10)
+[^c-5e0aaaffbec872fe73e9e506522e1655]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/112/schedule/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(10)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/10)

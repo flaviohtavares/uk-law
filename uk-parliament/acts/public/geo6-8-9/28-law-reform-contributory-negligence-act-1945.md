@@ -31,7 +31,7 @@ Law Reform (Contributory Negligence) Act 1945
 
 An Act to amend the law relating to contributory negligence and for purposes connected therewith.
 
-\[15th June 1945\][^c591910][^c591911][^c591912][^c591913][^c591914][^c591915][^c591916][^c591917][^c591918][^c591919][^c591921][^key-e5ac8647c1dece88d9158074cf194a5f][^key-f73c17f03f77265b5dcb42b38520f37a][^key-2e718cf37e74d814d60e813ad06c441f][^key-bfd0f3b1ec46800d176a8ec338462403]
+\[15th June 1945\][^c591910][^c591911][^c591912][^c591913][^c591914][^c591915][^c591916][^c591917][^c591918][^c591919][^c591921][^c-e5ac8647c1dece88d9158074cf194a5f][^c-f73c17f03f77265b5dcb42b38520f37a][^c-2e718cf37e74d814d60e813ad06c441f][^c-bfd0f3b1ec46800d176a8ec338462403]
 
 ## 1. Apportionment of liability in case of contributory negligence.
 
@@ -117,13 +117,13 @@ This Act may be cited as the Law Reform (Contributory Negligence) Act 1945.
 
     Act applied (temp.from 1.1.1996 to 29.5.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 153(5)](https://www.legislation.gov.uk/ukpga/1995/21/section/153/5), [154(4)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/4), [171(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/171/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1995/21/schedule/4) (with [ss. 167(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/167/1), [169](https://www.legislation.gov.uk/ukpga/1995/21/section/169), [312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1))
 
-[^key-e5ac8647c1dece88d9158074cf194a5f]: Modification: Act applied by 1995 c. 21, s. 156A (as inserted (21.11.2008) by [Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/1244/regulation/9) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5)))
+[^c-e5ac8647c1dece88d9158074cf194a5f]: Modification: Act applied by 1995 c. 21, s. 156A (as inserted (21.11.2008) by [Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/1244/regulation/9) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5)))
 
-[^key-f73c17f03f77265b5dcb42b38520f37a]: Modification: Act applied (25.7.2013) by [The Credit Rating Agencies (Civil Liability) Regulations 2013 (S.I. 2013/1637)](https://www.legislation.gov.uk/uksi/2013/1637), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2013/1637/regulation/15/2)
+[^c-f73c17f03f77265b5dcb42b38520f37a]: Modification: Act applied (25.7.2013) by [The Credit Rating Agencies (Civil Liability) Regulations 2013 (S.I. 2013/1637)](https://www.legislation.gov.uk/uksi/2013/1637), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2013/1637/regulation/15/2)
 
-[^key-2e718cf37e74d814d60e813ad06c441f]: Modification: Act modified by Road Traffic Act 1988 (c. 52), ss. 12E, 12H(9) (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
+[^c-2e718cf37e74d814d60e813ad06c441f]: Modification: Act modified by Road Traffic Act 1988 (c. 52), ss. 12E, 12H(9) (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
 
-[^key-bfd0f3b1ec46800d176a8ec338462403]: Modification: Act modified (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2018/18/section/6/3), [21](https://www.legislation.gov.uk/ukpga/2018/18/section/21); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+[^c-bfd0f3b1ec46800d176a8ec338462403]: Modification: Act modified (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2018/18/section/6/3), [21](https://www.legislation.gov.uk/ukpga/2018/18/section/21); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
 
 [^c591922]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/Geo6/8-9/28/section/1/3) repealed by [Civil Liability (Contribution) Act 1978 (c. 47)](https://www.legislation.gov.uk/ukpga/1978/47), [Sch. 2](https://www.legislation.gov.uk/ukpga/1978/47/schedule/2)
 

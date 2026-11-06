@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 45
 
-### 1. Amendment of the Water (Scotland) Act 1980[^key-a28f36a05f53446f1c431cda835b636e]
+### 1. Amendment of the Water (Scotland) Act 1980[^c-a28f36a05f53446f1c431cda835b636e]
 
 (1) The Water (Scotland) Act 1980[^f00043] is amended in accordance with sub-paragraphs (2) to (6).
 
@@ -65,7 +65,7 @@ Regulation 45
   ; and
 - (b) omit the definition of “relevant water quality issue”.
 
-### 2. Amendment of the Private Water Supplies (Scotland) Regulations 2006[^key-78ef2d863f5c52a0b9d5c7c8c9a35d40]
+### 2. Amendment of the Private Water Supplies (Scotland) Regulations 2006[^c-78ef2d863f5c52a0b9d5c7c8c9a35d40]
 
 In the Private Water Supplies (Scotland) Regulations 2006[^f00044]—
 
@@ -93,7 +93,7 @@ In the Private Water Supplies (Scotland) Regulations 2006[^f00044]—
   - (xiv) in schedule 4, in paragraph (1), “16 and”; and
   - (xv) schedule 5A.
 
-### 3. Amendment of the Private Water Supplies (Grants) (Scotland) Regulations 2006[^key-e84f793f4cb97b7d4bf96bc4e59bfaac]
+### 3. Amendment of the Private Water Supplies (Grants) (Scotland) Regulations 2006[^c-e84f793f4cb97b7d4bf96bc4e59bfaac]
 
 In the Private Water Supplies (Grants) (Scotland) Regulations 2006[^f00045]—
 
@@ -131,7 +131,7 @@ In the Private Water Supplies (Grants) (Scotland) Regulations 2006[^f00045]—
 - (e) in regulation 5, after “2006 Regulations” insert “or, as the case may be, the 2017 Regulations”; and
 - (f) in regulation 9(4)(a), after “Part VI or Part VIII of the 2006 Regulations” insert “or, in a case where the application is made by or on behalf of a person who is an eligible person by virtue of regulation 3(3)(a), information showing that the risk assessment referred to in regulation 3(3)(a) has been carried out and a summary of the results of the risk assessment (as updated, where applicable)”.
 
-### 4. Revocations[^key-fdc107350d3b926b0fe0b46ef112a20f]
+### 4. Revocations[^c-fdc107350d3b926b0fe0b46ef112a20f]
 
 The following provisions are revoked:—
 
@@ -141,21 +141,21 @@ The following provisions are revoked:—
 
 ## Annotations
 
-[^key-a28f36a05f53446f1c431cda835b636e]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-a28f36a05f53446f1c431cda835b636e]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00043]: Footnote: [1980 c.45](https://www.legislation.gov.uk/ukpga/1980/45); sections 76FA, 76FB and subsection (1A) of section 76G were inserted by [S.S.I. 2010/95](https://www.legislation.gov.uk/ssi/2010/95) and amended by [S.S.I. 2014/364](https://www.legislation.gov.uk/ssi/2014/364), section 76HA was inserted by [S.S.I. 2006/297](https://www.legislation.gov.uk/ssi/2006/297) and amended by [S.S.I. 2010/95](https://www.legislation.gov.uk/ssi/2010/95), and section 76L was inserted by section 168 and schedule 22 of the Water Act [1989 (c.15)](https://www.legislation.gov.uk/ukpga/1989/15).
 
-[^key-78ef2d863f5c52a0b9d5c7c8c9a35d40]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-78ef2d863f5c52a0b9d5c7c8c9a35d40]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00044]: Footnote: [S.S.I. 2006/209](https://www.legislation.gov.uk/ssi/2006/209), as amended by [S.S.I. 2010/95](https://www.legislation.gov.uk/ssi/2010/95), [S.S.I. 2014/364](https://www.legislation.gov.uk/ssi/2014/364), [S.S.I. 2015/346](https://www.legislation.gov.uk/ssi/2015/346) and [S.S.I. 2017/282](https://www.legislation.gov.uk/ssi/2017/282).
 
-[^key-e84f793f4cb97b7d4bf96bc4e59bfaac]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-e84f793f4cb97b7d4bf96bc4e59bfaac]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00045]: Footnote: [S.S.I. 2006/210](https://www.legislation.gov.uk/ssi/2006/210), as amended by [S.S.I. 2014/364](https://www.legislation.gov.uk/ssi/2014/364).
 
 [^f00046]: Footnote: [2003 asp 1](https://www.legislation.gov.uk/asp/2003/1).
 
-[^key-fdc107350d3b926b0fe0b46ef112a20f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-fdc107350d3b926b0fe0b46ef112a20f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00047]: Footnote: [S.S.I. 2010/95](https://www.legislation.gov.uk/ssi/2010/95).
 

@@ -48,7 +48,7 @@ summary: ''
 | *Extent: E+W+S+N.I.*<br>**10.**[^M_I_45e2ce90-64f0-4779-8051-2f53278ecacb] Electrical connections: | No individual requirement |
 | *Extent: E+W+S+N.I.*<br>**11.**[^M_I_03babdb1-070c-40e9-d051-d82354a91be7] Tell-tale: | No requirement |
 
-### PART II — Requirements relating to optional side marker lamps[^key-e10a8aea7bee6f1775d19460689d243a]
+### PART II — Requirements relating to optional side marker lamps[^c-e10a8aea7bee6f1775d19460689d243a]
 
 Any number may be fitted and the only requirement prescribed by these Regulations in respect of any which are fitted is that specified in paragraph 7 of Part I.
 
@@ -76,4 +76,4 @@ Any number may be fitted and the only requirement prescribed by these Regulation
 
 [^M_I_03babdb1-070c-40e9-d051-d82354a91be7]: Commencement: [Sch. 9 Pt. I para. 11](https://www.legislation.gov.uk/uksi/1989/1796/schedule/9/part/I) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-e10a8aea7bee6f1775d19460689d243a]: Commencement: [Sch. 9 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/9/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-e10a8aea7bee6f1775d19460689d243a]: Commencement: [Sch. 9 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/9/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

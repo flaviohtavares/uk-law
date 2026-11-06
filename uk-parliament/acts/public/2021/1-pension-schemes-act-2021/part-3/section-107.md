@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Sanctions for avoidance of employer debt etc[^key-a05950a42940f47cdfc592f474c40dd0]
+## 107. Sanctions for avoidance of employer debt etc[^c-a05950a42940f47cdfc592f474c40dd0]
 
 *Extent: E+W+S*
 
@@ -188,4 +188,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a05950a42940f47cdfc592f474c40dd0]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2021/1/section/107) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(d)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/d) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(4)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/4))
+[^c-a05950a42940f47cdfc592f474c40dd0]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2021/1/section/107) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(d)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/d) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(4)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/4))

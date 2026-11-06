@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 413A. Temporary non-residents[^key-ac4103a7939e81f3a679393bfc309e8c]
+## 413A. Temporary non-residents[^c-ac4103a7939e81f3a679393bfc309e8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
   - (i) a material participator in the company, or
   - (ii) an associate of a material participator in the company.
 
-(6A)[^key-3ca64b8753ec3d8775f02b28361fe8bf] Where—
+(6A)[^c-3ca64b8753ec3d8775f02b28361fe8bf] Where—
 
 - (a) a company (“**company A**”) makes a payment (including by way of a loan) to the individual in the temporary period of non-residence,
 - (b) the individual is, at a relevant time, a material participator in, or is an associate of a material participator in, another company that is a close company (“**company B**”),
@@ -63,16 +63,16 @@ relevant stock dividend income in amount of the value of the relevant receipt is
 
 (6C) For the purposes of subsection (6B)(c) “arrangements” include any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
 
-(6D)[^key-a73a08900c77c7c762068f211743de88] Where tax of a similar character to income tax is payable by the individual under the law of a territory outside the United Kingdom on relevant stock dividend income—
+(6D)[^c-a73a08900c77c7c762068f211743de88] Where tax of a similar character to income tax is payable by the individual under the law of a territory outside the United Kingdom on relevant stock dividend income—
 
 - (a) credit for any such tax paid by the individual is to be allowed against income tax chargeable in respect of the relevant stock dividend income, and
 - (b) the credit is to be given effect by treating the amount of the relevant stock dividend income as reduced to such amount as would secure that so much of the credit is given as does not exceed the income tax chargeable in respect of the relevant stock dividend income.
 
-(7)[^key-5d76050536a3599532fab7f44b741782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-5d76050536a3599532fab7f44b741782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-5d76050536a3599532fab7f44b741782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-5d76050536a3599532fab7f44b741782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-5d76050536a3599532fab7f44b741782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-5d76050536a3599532fab7f44b741782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) The “notional UK tax” on the relevant stock dividend income is so much of the income tax paid by the individual for the arising year as is attributable on a just and reasonable basis to that income.
 
@@ -83,16 +83,16 @@ relevant stock dividend income in amount of the value of the relevant receipt is
 - “**relevant time**” means—
   - (a) any time in the year of departure or, if the year of departure is a split year as respects the individual, the UK part of that year, or
   - (b) any time in one or more of the 3 tax years preceding that year;
-- [^key-e703f351688057738c19ef8bef79cdf2]...
+- [^c-e703f351688057738c19ef8bef79cdf2]...
 
 ## Annotations
 
-[^key-ac4103a7939e81f3a679393bfc309e8c]: Textual amendment: S. 413A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 135](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/135)
+[^c-ac4103a7939e81f3a679393bfc309e8c]: Textual amendment: S. 413A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 135](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/135)
 
-[^key-3ca64b8753ec3d8775f02b28361fe8bf]: Textual amendment: [S. 413A(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2005/5/section/413A/6A) inserted (with effect in accordance with Sch. 3 para. 23(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 21(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/21/2), [23(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/1)
+[^c-3ca64b8753ec3d8775f02b28361fe8bf]: Textual amendment: [S. 413A(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2005/5/section/413A/6A) inserted (with effect in accordance with Sch. 3 para. 23(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 21(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/21/2), [23(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/1)
 
-[^key-a73a08900c77c7c762068f211743de88]: Textual amendment: [S. 413A(6D)](https://www.legislation.gov.uk/ukpga/2005/5/section/413A/6D) inserted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 21(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/21/3), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
+[^c-a73a08900c77c7c762068f211743de88]: Textual amendment: [S. 413A(6D)](https://www.legislation.gov.uk/ukpga/2005/5/section/413A/6D) inserted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 21(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/21/3), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
 
-[^key-5d76050536a3599532fab7f44b741782]: Textual amendment: [S. 413A(7)-(9)](https://www.legislation.gov.uk/ukpga/2005/5/section/413A/7) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 21(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/21/4), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
+[^c-5d76050536a3599532fab7f44b741782]: Textual amendment: [S. 413A(7)-(9)](https://www.legislation.gov.uk/ukpga/2005/5/section/413A/7) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 21(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/21/4), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
 
-[^key-e703f351688057738c19ef8bef79cdf2]: Textual amendment: Words in [s. 413A(11)](https://www.legislation.gov.uk/ukpga/2005/5/section/413A/11) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 21(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/21/5), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
+[^c-e703f351688057738c19ef8bef79cdf2]: Textual amendment: Words in [s. 413A(11)](https://www.legislation.gov.uk/ukpga/2005/5/section/413A/11) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 21(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/21/5), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)

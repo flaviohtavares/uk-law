@@ -42,7 +42,7 @@ as he considers appropriate for the general purposes, or any particular purposes
 
 (5) The repeals in Part 4 of that Schedule have effect on 6th April in the tax year following the designated tax year (see section 5(4)).
 
-(6) The repeals and revocations in Part 6 of that Schedule have effect on 6 April 2012[^key-cf9389b30fa83102bd7e1bcfcb9b604d].
+(6) The repeals and revocations in Part 6 of that Schedule have effect on 6 April 2012[^c-cf9389b30fa83102bd7e1bcfcb9b604d].
 
 (7) The other repeals contained in that Schedule have effect on the date on which they come into force by virtue of an order made under section 30.
 
@@ -50,4 +50,4 @@ as he considers appropriate for the general purposes, or any particular purposes
 
 ## Annotations
 
-[^key-cf9389b30fa83102bd7e1bcfcb9b604d]: Textual amendment: Words in [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 79](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/79)
+[^c-cf9389b30fa83102bd7e1bcfcb9b604d]: Textual amendment: Words in [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 79](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/79)

@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Developments of National Significance (Wales) (Amendment) Regulations 2019 (revoked)[^key-755c58f014b13b0cf3fe343cd04b20e5]
+The Developments of National Significance (Wales) (Amendment) Regulations 2019 (revoked)[^c-755c58f014b13b0cf3fe343cd04b20e5]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 April 2019
 
-[^key-755c58f014b13b0cf3fe343cd04b20e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-755c58f014b13b0cf3fe343cd04b20e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-755c58f014b13b0cf3fe343cd04b20e5]
+## 1. Title and commencement[^c-755c58f014b13b0cf3fe343cd04b20e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Developments of National Significance (Wales) Regulations 2016[^key-755c58f014b13b0cf3fe343cd04b20e5]
+## 2. Amendments to the Developments of National Significance (Wales) Regulations 2016[^c-755c58f014b13b0cf3fe343cd04b20e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-755c58f014b13b0cf3fe343cd04b20e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-755c58f014b13b0cf3fe343cd04b20e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-755c58f014b13b0cf3fe343cd04b20e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-755c58f014b13b0cf3fe343cd04b20e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-755c58f014b13b0cf3fe343cd04b20e5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2019/288) revoked (14.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a), [21(h)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/21/h) (with [reg. 22](https://www.legislation.gov.uk/wsi/2025/1192/regulation/22))
+[^c-755c58f014b13b0cf3fe343cd04b20e5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2019/288) revoked (14.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a), [21(h)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/21/h) (with [reg. 22](https://www.legislation.gov.uk/wsi/2025/1192/regulation/22))

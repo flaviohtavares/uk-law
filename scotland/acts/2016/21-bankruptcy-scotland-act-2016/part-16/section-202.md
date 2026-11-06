@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 202. Further duty of Accountant in Bankruptcy[^key-3a651ed3b51c42776eb0389c3dd12502]
+## 202. Further duty of Accountant in Bankruptcy[^c-3a651ed3b51c42776eb0389c3dd12502]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ AiB is, on receiving any notice under section 109(1) of the Insolvency Act 1986 
 
 ## Annotations
 
-[^key-3a651ed3b51c42776eb0389c3dd12502]: Commencement: [S. 202](https://www.legislation.gov.uk/asp/2016/21/section/202) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-3a651ed3b51c42776eb0389c3dd12502]: Commencement: [S. 202](https://www.legislation.gov.uk/asp/2016/21/section/202) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

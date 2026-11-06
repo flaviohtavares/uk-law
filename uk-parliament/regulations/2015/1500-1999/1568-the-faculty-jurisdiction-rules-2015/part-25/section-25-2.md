@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 25.2. Service of appeal documents[^key-1d0a0f917ed3b650fc66f9aae6e1c81d]
+## 25.2. Service of appeal documents[^c-1d0a0f917ed3b650fc66f9aae6e1c81d]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d0a0f917ed3b650fc66f9aae6e1c81d]: Commencement: [Rule 25.2](https://www.legislation.gov.uk/uksi/2015/1568/article/25.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-1d0a0f917ed3b650fc66f9aae6e1c81d]: Commencement: [Rule 25.2](https://www.legislation.gov.uk/uksi/2015/1568/article/25.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

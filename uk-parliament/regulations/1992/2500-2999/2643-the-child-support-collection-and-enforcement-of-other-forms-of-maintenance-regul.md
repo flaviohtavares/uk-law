@@ -60,7 +60,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 The following periodical payments and categories of persons are prescribed for the purposes of section 30(1) of the Act—
 
 - (a) payments under a maintenance order made in relation to a child in accordance with the provisions of section 8(6) (periodical payments in addition to child support maintenance), 8(7) (periodical payments to meet expenses incurred in connection with the provision of instruction or training) or 8(8) of the Act (periodical payments to meet expenses attributable to disability);
-- (b) any periodical payments under a maintenance order or, in Scotland, registered minutes of agreement[^M_F_1be92bb1-b8c5-47a8-f4c9-c4a5f0f4524c] which are payable to or for the benefit of a spouse, civil partner, former spouse or former civil partner[^key-0fa77f22ab53af7b5f51e4c4d6ecfaae] who is the person with care of a child who is a qualifying child in respect of whom a child support maintenance calculation[^M_F_d40ce86c-3a2f-4b30-d5a8-b6ec1c0afbd8] is in force in accordance with which the Secretary of State has arranged for the collection of child support maintenance under section 29 of the Act; and
+- (b) any periodical payments under a maintenance order or, in Scotland, registered minutes of agreement[^M_F_1be92bb1-b8c5-47a8-f4c9-c4a5f0f4524c] which are payable to or for the benefit of a spouse, civil partner, former spouse or former civil partner[^c-0fa77f22ab53af7b5f51e4c4d6ecfaae] who is the person with care of a child who is a qualifying child in respect of whom a child support maintenance calculation[^M_F_d40ce86c-3a2f-4b30-d5a8-b6ec1c0afbd8] is in force in accordance with which the Secretary of State has arranged for the collection of child support maintenance under section 29 of the Act; and
 - (c) any periodical payments under a maintenance order payable to or for the benefit of a former child of the family of the person against whom the order is made, that child having his home with the person with care.
 
 ## 3. Collection and enforcement—England and Wales
@@ -102,7 +102,7 @@ These Regulations prescribe the kinds of payments which may be collected and the
 
 [^M_F_1be92bb1-b8c5-47a8-f4c9-c4a5f0f4524c]: Textual amendment: Words in reg. 2(b) inserted (5.4.93) by S.I. 1993/913, reg. 44
 
-[^key-0fa77f22ab53af7b5f51e4c4d6ecfaae]: Textual amendment: Words in reg. 2(b) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2005/2877/schedule/4/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-0fa77f22ab53af7b5f51e4c4d6ecfaae]: Textual amendment: Words in reg. 2(b) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2005/2877/schedule/4/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
 [^M_F_d40ce86c-3a2f-4b30-d5a8-b6ec1c0afbd8]: Textual amendment: Words in reg. 2(b) substituted (3.3.03) by S.I. 2001/162, reg. 1, 3(2) (with reg. 6)
 

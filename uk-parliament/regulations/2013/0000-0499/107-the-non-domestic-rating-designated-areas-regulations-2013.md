@@ -48,16 +48,16 @@ The Secretary of State for Communities and Local Government in exercise of the p
 
 These Regulations are made with the consent of the Treasury in accordance with paragraph 39(13) of Schedule 7B to the Local Government Finance Act 1988.
 
-## 1. Citation and commencement[^key-ffa1210000ab6dd77c8d669c03fcae5c]
+## 1. Citation and commencement[^c-ffa1210000ab6dd77c8d669c03fcae5c]
 
 These Regulations may be cited as the Non-Domestic Rating (Designated Areas) Regulations 2013 and come into force on 18th February 2013.
 
-## 2. Interpretation[^key-73cf0e86c45915e1c6eb319fc10f6950]
+## 2. Interpretation[^c-73cf0e86c45915e1c6eb319fc10f6950]
 
 In these Regulations—
 
 - “the 1988 Act” means the Local Government Finance Act 1988;
-- “Birmingham City Centre Designated Area” means the area designated in Schedule[^key-a1705636915c2305988fe9ed265922d5] 1 by reference to the areas bounded externally by the outer edge of the blue line shown on maps 1 to 26;
+- “Birmingham City Centre Designated Area” means the area designated in Schedule[^c-a1705636915c2305988fe9ed265922d5] 1 by reference to the areas bounded externally by the outer edge of the blue line shown on maps 1 to 26;
 - “designated area” means an area designated by regulation 3 and Schedule 1;
 - “local list” means a list compiled and maintained in accordance with section 41 of the 1988 Act[^f00002];
 - “non-domestic rating income” has the meaning given by Schedule 2;
@@ -67,22 +67,22 @@ In these Regulations—
 - “preceding year” means the year immediately preceding the year for which a calculation under these Regulations is being made;
 - “relevant billing authority” means a billing authority in England all or part of whose area falls within a designated area;
 - “small business non-domestic rating multiplier”, in relation to a year, means the small business non-domestic rating multiplier for the year determined under Part 1 of Schedule 7 to the 1988 Act[^f00003]; and
-- “specified year” means a year falling within the period of designation[^key-8f92655b0b8542e1e826557083991939].
+- “specified year” means a year falling within the period of designation[^c-8f92655b0b8542e1e826557083991939].
 
-## 3. Designation of areas[^key-0bc50b2399cf354cf519ab2e75fff060]
+## 3. Designation of areas[^c-0bc50b2399cf354cf519ab2e75fff060]
 
 The areas referred to in Schedule 1 are designated for the purposes of these Regulations.
 
-## 4. Period of designation[^key-1d057aa89f1a8a9bf857bfada2f73f56]
+## 4. Period of designation[^c-1d057aa89f1a8a9bf857bfada2f73f56]
 
-(1)[^key-db051192009cb3669f5eb4dd2008856d] The designations made by regulation 3 and Schedule 1 take effect on 1st April 2013 and , subject to paragraph (2),[^key-5315e9dcf0452888f984bb281e373c97] remain in effect for a period of 25 years beginning with that date.
+(1)[^c-db051192009cb3669f5eb4dd2008856d] The designations made by regulation 3 and Schedule 1 take effect on 1st April 2013 and , subject to paragraph (2),[^c-5315e9dcf0452888f984bb281e373c97] remain in effect for a period of 25 years beginning with that date.
 
-(2)[^key-966052389dbf44c2a8aad714b57a2665] The designation of the Birmingham City Centre Designated Area has effect for the period of 33 years which comprises—
+(2)[^c-966052389dbf44c2a8aad714b57a2665] The designation of the Birmingham City Centre Designated Area has effect for the period of 33 years which comprises—
 
 - (a) the period of 25 years specified in paragraph (1); and
 - (b) a further period of 8 years beginning immediately after the end of the period specified in paragraph (1).
 
-## 5. Calculation of the proportion of non-domestic rating income to be disregarded[^key-b01ed2f94c5292836be1a88680680266]
+## 5. Calculation of the proportion of non-domestic rating income to be disregarded[^c-b01ed2f94c5292836be1a88680680266]
 
 (1) Schedule 2 contains rules for the calculation, in relation to each relevant billing authority and for each specified year, of a proportion of the authority’s non-domestic rating income in respect of the designated area or areas within which all or part of the authority’s area falls.
 
@@ -123,11 +123,11 @@ Department for Communities and Local Government
 
 Regulation 3
 
-**1.**[^key-0d1ef50a609846cc42d7689d88c94f12] Each of the areas listed in column 1 of the table in this Schedule is designated by reference to the area or areas bounded externally by the outer edge of the blue line shown on the map or maps specified in column 2 of the table.
+**1.**[^c-0d1ef50a609846cc42d7689d88c94f12] Each of the areas listed in column 1 of the table in this Schedule is designated by reference to the area or areas bounded externally by the outer edge of the blue line shown on the map or maps specified in column 2 of the table.
 
-**2.**[^key-14b8b37adaeb434145693b6134b49c3e] A reference in this Schedule to a map is to one of the maps numbered 1 to 117 and entitled “Maps referred to in Schedule 1 to the Non-Domestic Rating (Designated Areas) Regulations 2013”, of which prints, signed by a member of the Senior Civil Service in the Department for Communities and Local Government, are deposited and available for inspection at the offices of the Secretary of State for Communities and Local Government and, in relation to each map, at the offices of the relevant billing authority to which the map relates.
+**2.**[^c-14b8b37adaeb434145693b6134b49c3e] A reference in this Schedule to a map is to one of the maps numbered 1 to 117 and entitled “Maps referred to in Schedule 1 to the Non-Domestic Rating (Designated Areas) Regulations 2013”, of which prints, signed by a member of the Senior Civil Service in the Department for Communities and Local Government, are deposited and available for inspection at the offices of the Secretary of State for Communities and Local Government and, in relation to each map, at the offices of the relevant billing authority to which the map relates.
 
-**3.**[^key-45621266458f695578307debe89251bd] For the purposes of determining a designated area, where part only of a hereditament is situated within an area shown on a map, the whole of the hereditament is taken to be included within that designated area.
+**3.**[^c-45621266458f695578307debe89251bd] For the purposes of determining a designated area, where part only of a hereditament is situated within an area shown on a map, the whole of the hereditament is taken to be included within that designated area.
 
 | *Designated area*<br>*(Column 1)* | *Numbered map*<br>*(Column 2)* | *Baseline figure (see paragraph 3(2) of Schedule 2)*<br>*(Column 3)* |
 | --- | --- | --- |
@@ -188,7 +188,7 @@ Regulation 5
 
 ### PART 1 — Calculation of the proportion of non-domestic rating income to be disregarded for the purpose of calculations under Schedule 7B to the 1988 Act
 
-**1.**[^key-135d455cd8b7a049dc1beb22b8f83e52] (1) For the purposes of regulation 5, but subject to sub-paragraph (2), the proportion of a relevant billing authority’s non-domestic rating income for a specified year in respect of a designated area within which all or part of the authority’s area falls is the difference between—
+**1.**[^c-135d455cd8b7a049dc1beb22b8f83e52] (1) For the purposes of regulation 5, but subject to sub-paragraph (2), the proportion of a relevant billing authority’s non-domestic rating income for a specified year in respect of a designated area within which all or part of the authority’s area falls is the difference between—
 
 - (a) the amount of the authority’s non-domestic rating income for that year in respect of that area calculated in accordance with Part 2; and
 - (b) the amount calculated in relation to the authority for that year in respect of that area in accordance with Part 3.
@@ -197,7 +197,7 @@ Regulation 5
 
 ### PART 2 — Calculation of non-domestic rating income
 
-**2.**[^key-dc3c7532a25cc2c9bac69fd8ed77f5c6] (1) A relevant billing authority’s non-domestic rating income in respect of a designated area for a specified year is the amount calculated in accordance with the formula—
+**2.**[^c-dc3c7532a25cc2c9bac69fd8ed77f5c6] (1) A relevant billing authority’s non-domestic rating income in respect of a designated area for a specified year is the amount calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/107)
 
@@ -221,7 +221,7 @@ where—
 
 ### PART 3 — Calculation of the amount deducted from non-domestic rating income
 
-**3.**[^key-f80d65c1afb1afac658979118d6c4484] (1) If the specified year is not a year in which local lists must be compiled, the amount to be calculated for the purposes of paragraph 1(1)(b) in relation to the authority for the year in respect of the area is that described in sub-paragraph (2) or (3) (as the case may be).
+**3.**[^c-f80d65c1afb1afac658979118d6c4484] (1) If the specified year is not a year in which local lists must be compiled, the amount to be calculated for the purposes of paragraph 1(1)(b) in relation to the authority for the year in respect of the area is that described in sub-paragraph (2) or (3) (as the case may be).
 
 (2) For the year beginning on 1st April 2013, that amount is calculated in accordance with the formula—
 
@@ -243,7 +243,7 @@ where—
 - M<sub>2</sub> is the small business non-domestic rating multiplier for the specified year concerned; and
 - M<sub>1</sub> is the small business non-domestic rating multiplier for the preceding year.
 
-**4.**[^key-7d6d7d336f299f8f41edbd3356434bcf] (1) If the specified year is a year in which local lists must be compiled (“the revaluation year”), the amount to be calculated for the purposes of paragraph 1(1)(b) in relation to the authority for the year in respect of the area is that described in sub-paragraph (2).
+**4.**[^c-7d6d7d336f299f8f41edbd3356434bcf] (1) If the specified year is a year in which local lists must be compiled (“the revaluation year”), the amount to be calculated for the purposes of paragraph 1(1)(b) in relation to the authority for the year in respect of the area is that described in sub-paragraph (2).
 
 (2) That amount is the amount calculated in accordance with the formula—
 
@@ -279,42 +279,42 @@ https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/8470/
 
 [^f00001]: Footnote: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41). Schedule 7B was inserted into the Local Government Finance Act 1988 by section 1 of, and Schedule 1 to, the Local Government Finance Act [2012 (c.17)](https://www.legislation.gov.uk/ukpga/2012/17).
 
-[^key-ffa1210000ab6dd77c8d669c03fcae5c]: Commencement: Reg. 1 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-ffa1210000ab6dd77c8d669c03fcae5c]: Commencement: Reg. 1 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
 
-[^key-73cf0e86c45915e1c6eb319fc10f6950]: Commencement: Reg. 2 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-73cf0e86c45915e1c6eb319fc10f6950]: Commencement: Reg. 2 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
 
-[^key-a1705636915c2305988fe9ed265922d5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/107/regulation/2) inserted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2017/318/regulation/7/2/a)
+[^c-a1705636915c2305988fe9ed265922d5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/107/regulation/2) inserted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2017/318/regulation/7/2/a)
 
 [^f00002]: Footnote: Section 41 was amended by section 139 of, and paragraphs 19 and 79(3) of Schedule 5 to, the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42); section 117(1) of, and paragraph 59 of Schedule 13 to, the Local Government Finance Act [1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14); section 60(1) of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
 [^f00003]: Footnote: Relevant amendments were made to Schedule 7 by section 62 of the Local Government Act 2003.
 
-[^key-8f92655b0b8542e1e826557083991939]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/107/regulation/2) substituted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/318/regulation/7/2/b)
+[^c-8f92655b0b8542e1e826557083991939]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/107/regulation/2) substituted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/318/regulation/7/2/b)
 
-[^key-0bc50b2399cf354cf519ab2e75fff060]: Commencement: Reg. 3 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-0bc50b2399cf354cf519ab2e75fff060]: Commencement: Reg. 3 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
 
-[^key-1d057aa89f1a8a9bf857bfada2f73f56]: Commencement: Reg. 4 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-1d057aa89f1a8a9bf857bfada2f73f56]: Commencement: Reg. 4 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
 
-[^key-db051192009cb3669f5eb4dd2008856d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/107/regulation/4) renumbered as reg. 4(1) (1.4.2017) by The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 ([S.I. 2017/318](https://www.legislation.gov.uk/uksi/2017/318)), regs. 1(2), 7(3)(a)
+[^c-db051192009cb3669f5eb4dd2008856d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/107/regulation/4) renumbered as reg. 4(1) (1.4.2017) by The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 ([S.I. 2017/318](https://www.legislation.gov.uk/uksi/2017/318)), regs. 1(2), 7(3)(a)
 
-[^key-5315e9dcf0452888f984bb281e373c97]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2013/107/regulation/4/1) inserted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2017/318/regulation/7/3/b)
+[^c-5315e9dcf0452888f984bb281e373c97]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2013/107/regulation/4/1) inserted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2017/318/regulation/7/3/b)
 
-[^key-966052389dbf44c2a8aad714b57a2665]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2013/107/regulation/4/2) inserted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/uksi/2017/318/regulation/7/3/c)
+[^c-966052389dbf44c2a8aad714b57a2665]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2013/107/regulation/4/2) inserted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/uksi/2017/318/regulation/7/3/c)
 
-[^key-b01ed2f94c5292836be1a88680680266]: Commencement: Reg. 5 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-b01ed2f94c5292836be1a88680680266]: Commencement: Reg. 5 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
 
-[^key-0d1ef50a609846cc42d7689d88c94f12]: Commencement: Sch. 1 para. 1 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-0d1ef50a609846cc42d7689d88c94f12]: Commencement: Sch. 1 para. 1 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
 
-[^key-14b8b37adaeb434145693b6134b49c3e]: Commencement: Sch. 1 para. 2 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-14b8b37adaeb434145693b6134b49c3e]: Commencement: Sch. 1 para. 2 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
 
-[^key-45621266458f695578307debe89251bd]: Commencement: Sch. 1 para. 3 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-45621266458f695578307debe89251bd]: Commencement: Sch. 1 para. 3 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
 
-[^key-135d455cd8b7a049dc1beb22b8f83e52]: Commencement: Sch. 2 para. 1 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-135d455cd8b7a049dc1beb22b8f83e52]: Commencement: Sch. 2 para. 1 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
 
-[^key-dc3c7532a25cc2c9bac69fd8ed77f5c6]: Commencement: Sch. 2 para. 2 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-dc3c7532a25cc2c9bac69fd8ed77f5c6]: Commencement: Sch. 2 para. 2 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
 
 [^f00004]: Footnote: The meaning of proper practices is given in section 21 of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26), which applies to these Regulations by virtue of subsection (4)(e) of that section.
 
-[^key-f80d65c1afb1afac658979118d6c4484]: Commencement: Sch. 2 para. 3 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-f80d65c1afb1afac658979118d6c4484]: Commencement: Sch. 2 para. 3 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
 
-[^key-7d6d7d336f299f8f41edbd3356434bcf]: Commencement: Sch. 2 para. 4 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)
+[^c-7d6d7d336f299f8f41edbd3356434bcf]: Commencement: Sch. 2 para. 4 in force at 18.2.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/107/regulation/1)

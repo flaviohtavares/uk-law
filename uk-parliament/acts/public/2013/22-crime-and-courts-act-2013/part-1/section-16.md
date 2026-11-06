@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Interpretation of Part 1[^key-b412c9fbbad08d6ed4396db798153813]
+## 16. Interpretation of Part 1[^c-b412c9fbbad08d6ed4396db798153813]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,7 +98,7 @@ summary: ''
     - (ii) sections 104 to 106 of the Policing and Crime Act 2009;
   - (n) the exercise of any function relating to public health;
   - (o) the exercise of any function of the Financial Services Authority;
-  - (oa) the exercise of any function of OFCOM (the Office of Communications) under the Online Safety Act 2023;[^key-7dd22673ec89acc1b33429ee91a511a0]
+  - (oa) the exercise of any function of OFCOM (the Office of Communications) under the Online Safety Act 2023;[^c-7dd22673ec89acc1b33429ee91a511a0]
   - (p) the exercise of any function designated by the Secretary of State by order;
 
   but a function may be designated under paragraph (p) only if the function appears to the Secretary of State to be a function of a public nature;
@@ -164,6 +164,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b412c9fbbad08d6ed4396db798153813]: Commencement: S. 16 in force at 8.5.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1042/article/2/h)
+[^c-b412c9fbbad08d6ed4396db798153813]: Commencement: S. 16 in force at 8.5.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/1042/article/2/h)
 
-[^key-7dd22673ec89acc1b33429ee91a511a0]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/16/1) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 68](https://www.legislation.gov.uk/ukpga/2023/50/section/68), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/t)
+[^c-7dd22673ec89acc1b33429ee91a511a0]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/16/1) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 68](https://www.legislation.gov.uk/ukpga/2023/50/section/68), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/t)

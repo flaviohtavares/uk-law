@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Preparation and publication of apprenticeship frameworks[^key-f90c4f5eabd837a25ab34a69e0c31378]
+## 117. Preparation and publication of apprenticeship frameworks[^c-f90c4f5eabd837a25ab34a69e0c31378]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f90c4f5eabd837a25ab34a69e0c31378]: Commencement: S. 117 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-f90c4f5eabd837a25ab34a69e0c31378]: Commencement: S. 117 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)

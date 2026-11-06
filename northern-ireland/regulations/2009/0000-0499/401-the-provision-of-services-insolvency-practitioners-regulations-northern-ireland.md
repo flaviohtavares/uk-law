@@ -34,7 +34,7 @@ Insolvency
 
 Insolvency Practitioners
 
-[^key-adf2b04011d07036fb1c8fece91ccab6]The Provision of Services (Insolvency Practitioners) Regulations (Northern Ireland) 2009
+[^c-adf2b04011d07036fb1c8fece91ccab6]The Provision of Services (Insolvency Practitioners) Regulations (Northern Ireland) 2009
 
 Made
 
@@ -46,23 +46,23 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment, being a Department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to insolvency, makes the following Regulations in exercise of the powers conferred upon it by that section and by Articles 348A, 349, 351, 352 and 363 of the Insolvency (Northern Ireland) Order 1989.
 
-## 1. Citation, commencement and interpretation[^key-adf2b04011d07036fb1c8fece91ccab6]
+## 1. Citation, commencement and interpretation[^c-adf2b04011d07036fb1c8fece91ccab6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Insolvency (Northern Ireland) Order 1989[^key-adf2b04011d07036fb1c8fece91ccab6]
+## 2. Amendments to the Insolvency (Northern Ireland) Order 1989[^c-adf2b04011d07036fb1c8fece91ccab6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Insolvency Practitioners Regulations (Northern Ireland) 2006[^key-9c0b8fdb94affd286570b1753243db3e]
+## 3. Amendment to the Insolvency Practitioners Regulations (Northern Ireland) 2006[^c-9c0b8fdb94affd286570b1753243db3e]
 
 The Insolvency Practitioners Regulations (Northern Ireland) 2006[^f00009] are amended as set out in the Schedule.
 
-## 4. Transitional provisions[^key-adf2b04011d07036fb1c8fece91ccab6]
+## 4. Transitional provisions[^c-adf2b04011d07036fb1c8fece91ccab6]
 
 **No longer in force.**
 
@@ -80,41 +80,41 @@ Department of Enterprise, Trade and Investment
 
 Regulation 3
 
-**1.**[^key-adf2b04011d07036fb1c8fece91ccab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-adf2b04011d07036fb1c8fece91ccab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-adf2b04011d07036fb1c8fece91ccab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-adf2b04011d07036fb1c8fece91ccab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment to Regulation 7[^key-adf2b04011d07036fb1c8fece91ccab6]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Amendments to Regulation 8[^key-adf2b04011d07036fb1c8fece91ccab6]
+### 3. Amendment to Regulation 7[^c-adf2b04011d07036fb1c8fece91ccab6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment to Regulation 10[^key-adf2b04011d07036fb1c8fece91ccab6]
+### 4. Amendments to Regulation 8[^c-adf2b04011d07036fb1c8fece91ccab6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment to Regulation 11[^key-adf2b04011d07036fb1c8fece91ccab6]
+### 5. Amendment to Regulation 10[^c-adf2b04011d07036fb1c8fece91ccab6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment to Regulation 12[^key-adf2b04011d07036fb1c8fece91ccab6]
+### 6. Amendment to Regulation 11[^c-adf2b04011d07036fb1c8fece91ccab6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendments to Schedule 2[^key-df2e5eac7f2deb9f39466990a38bcaa4]
+### 7. Amendment to Regulation 12[^c-adf2b04011d07036fb1c8fece91ccab6]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Amendments to Schedule 2[^c-df2e5eac7f2deb9f39466990a38bcaa4]
 
 (1) Schedule 2 (requirements for security and related matters) is amended as follows.
 
@@ -150,9 +150,9 @@ Regulation 3
 
   .
 
-(5)[^key-adf2b04011d07036fb1c8fece91ccab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-adf2b04011d07036fb1c8fece91ccab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-adf2b04011d07036fb1c8fece91ccab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-adf2b04011d07036fb1c8fece91ccab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In paragraph 10 (retention of bond by recognised professional body or competent authority)—
 
@@ -173,22 +173,22 @@ Regulation 3
 
   .
 
-(8)[^key-adf2b04011d07036fb1c8fece91ccab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-adf2b04011d07036fb1c8fece91ccab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendments to Schedule 3[^key-adf2b04011d07036fb1c8fece91ccab6]
+### 9. Amendments to Schedule 3[^c-adf2b04011d07036fb1c8fece91ccab6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-adf2b04011d07036fb1c8fece91ccab6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adf2b04011d07036fb1c8fece91ccab6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-adf2b04011d07036fb1c8fece91ccab6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/401) revoked (except reg. 3 and Sch. 8(1)-(4)(7)) (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2018/1329/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-adf2b04011d07036fb1c8fece91ccab6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/401) revoked (except reg. 3 and Sch. 8(1)-(4)(7)) (31.12.2020) by [The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1329)](https://www.legislation.gov.uk/uksi/2018/1329), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2018/1329/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9c0b8fdb94affd286570b1753243db3e]: Commencement: Reg. 3 in operation at 28.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/401/regulation/1/1)
+[^c-9c0b8fdb94affd286570b1753243db3e]: Commencement: Reg. 3 in operation at 28.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/401/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 2006 No. 33](https://www.legislation.gov.uk/nisr/2006/33)
 
-[^key-df2e5eac7f2deb9f39466990a38bcaa4]: Commencement: Sch. para. 8 in operation at 28.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/401/regulation/1/1)
+[^c-df2e5eac7f2deb9f39466990a38bcaa4]: Commencement: Sch. para. 8 in operation at 28.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/401/regulation/1/1)

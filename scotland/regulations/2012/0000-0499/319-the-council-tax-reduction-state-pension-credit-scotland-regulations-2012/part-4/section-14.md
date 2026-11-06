@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) A person who is liable to pay council tax under section 75 of the Act (“relevant person”) is entitled to council tax reduction under this regulation[^key-78f647a32230270e060fe1a7c8aea80a] in respect of a day if the conditions set out in paragraphs (3) and (3A)[^key-497a089a9c791900e3995be690da63f1] are satisfied and—
+(1) A person who is liable to pay council tax under section 75 of the Act (“relevant person”) is entitled to council tax reduction under this regulation[^c-78f647a32230270e060fe1a7c8aea80a] in respect of a day if the conditions set out in paragraphs (3) and (3A)[^c-497a089a9c791900e3995be690da63f1] are satisfied and—
 
 - (a) each of the conditions set out in paragraphs (4) and (5) is satisfied; or
 - (b) the condition set out in paragraph (6) is satisfied.
@@ -29,11 +29,11 @@ summary: ''
 
 (3) The conditions referred to in paragraph (1) are that the relevant person—
 
-- (a) is for the day liable to pay council tax in respect of a dwelling in which that person resides as their sole or main residence[^key-972f8d84e9848772d23b736c7028cef4];
+- (a) is for the day liable to pay council tax in respect of a dwelling in which that person resides as their sole or main residence[^c-972f8d84e9848772d23b736c7028cef4];
 - (b) is not a person to whom regulation 15 (persons not entitled to council tax reduction: absentees), regulation 16 (persons not entitled to council tax reduction: persons treated as not being in Great Britain) or 19 (persons not entitled to council tax reduction: persons subject to immigration control) applies; and
 - (c) makes an application for council tax reduction in accordance with Part 9 (applications).
 
-(3A)[^key-d445ee1283c8e268e7cb1ce10bf32b08] The condition referred to in paragraph (1) is that the amount of council tax reduction calculated under this regulation is not less than the amount of council tax reduction calculated under regulation 14A.
+(3A)[^c-d445ee1283c8e268e7cb1ce10bf32b08] The condition referred to in paragraph (1) is that the amount of council tax reduction calculated under this regulation is not less than the amount of council tax reduction calculated under regulation 14A.
 
 (4) The condition referred to in paragraph (1)(a) is that there is an appropriate maximum council tax reduction in the case of the relevant person.
 
@@ -69,12 +69,12 @@ summary: ''
 
 ## Annotations
 
-[^key-78f647a32230270e060fe1a7c8aea80a]: Textual amendment: Words in reg. 14(1) inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/ssi/2016/253/regulation/10/a/i)
+[^c-78f647a32230270e060fe1a7c8aea80a]: Textual amendment: Words in reg. 14(1) inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/ssi/2016/253/regulation/10/a/i)
 
-[^key-497a089a9c791900e3995be690da63f1]: Textual amendment: Words in reg. 14(1) substituted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [10(a)(ii)](https://www.legislation.gov.uk/ssi/2016/253/regulation/10/a/ii)
+[^c-497a089a9c791900e3995be690da63f1]: Textual amendment: Words in reg. 14(1) substituted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [10(a)(ii)](https://www.legislation.gov.uk/ssi/2016/253/regulation/10/a/ii)
 
-[^key-972f8d84e9848772d23b736c7028cef4]: Textual amendment: Words in reg. 14(3)(a) inserted (1.10.2013) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2013 (S.S.I. 2013/218)](https://www.legislation.gov.uk/ssi/2013/218), [regs. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1), [10](https://www.legislation.gov.uk/ssi/2013/218/regulation/10)
+[^c-972f8d84e9848772d23b736c7028cef4]: Textual amendment: Words in reg. 14(3)(a) inserted (1.10.2013) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2013 (S.S.I. 2013/218)](https://www.legislation.gov.uk/ssi/2013/218), [regs. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1), [10](https://www.legislation.gov.uk/ssi/2013/218/regulation/10)
 
-[^key-d445ee1283c8e268e7cb1ce10bf32b08]: Textual amendment: Reg. 14(3A) inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2016/253/regulation/10/b)
+[^c-d445ee1283c8e268e7cb1ce10bf32b08]: Textual amendment: Reg. 14(3A) inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2016/253/regulation/10/b)
 
 [^c21458761]: Marginal citation: Schedule 1 was amended by paragraph 152 of Schedule 9 to the [Powers of Criminal Courts (Sentencing) Act 2000 (c.6)](https://www.legislation.gov.uk/ukpga/2000/6), [paragraph 18](https://www.legislation.gov.uk/ukpga/2000/6/paragraph/18) of schedule 3 to the [Regulation of Care (Scotland) Act 2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), [paragraph 152](https://www.legislation.gov.uk/asp/2001/8/paragraph/152) of Schedule 1 to the [National Health Service (Consequential Provisions) Act 2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43), [paragraph 123](https://www.legislation.gov.uk/ukpga/2006/43/paragraph/123) of Schedule 16, and Schedule 17, to the [Armed Forces Act 2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52) and [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99A. Declaration by responsible person as to statement of accounts under section 96A[^key-5997c8365f03fa021acfc4b53c7e5fe9]
+## 99A. Declaration by responsible person as to statement of accounts under section 96A[^c-5997c8365f03fa021acfc4b53c7e5fe9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5997c8365f03fa021acfc4b53c7e5fe9]: Textual amendment: S. 99A inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 35(7)](https://www.legislation.gov.uk/ukpga/2014/4/section/35/7), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-5997c8365f03fa021acfc4b53c7e5fe9]: Textual amendment: S. 99A inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 35(7)](https://www.legislation.gov.uk/ukpga/2014/4/section/35/7), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))

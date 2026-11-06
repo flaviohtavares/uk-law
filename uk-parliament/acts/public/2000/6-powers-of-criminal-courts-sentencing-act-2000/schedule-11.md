@@ -50,53 +50,53 @@ Section 165.
 
 **3.** Any reference to an enactment repealed by this Act which is contained in a document made, served or issued after the commencement of that repeal shall be construed, except so far as a contrary intention appears, as a reference or (as the context may require) as including a reference to the corresponding provision of this Act.
 
-### Part II — Specific provisions: replication of old transitional provisions[^key-a5195b8d8d3c86d71ff28247dc3f7e07]
+### Part II — Specific provisions: replication of old transitional provisions[^c-a5195b8d8d3c86d71ff28247dc3f7e07]
 
 **No longer in force.**
 
-#### Sections 37, 41, 46 and 79 and Schedules 2, 3 and 6: consent requirements[^key-a5195b8d8d3c86d71ff28247dc3f7e07]
+#### Sections 37, 41, 46 and 79 and Schedules 2, 3 and 6: consent requirements[^c-a5195b8d8d3c86d71ff28247dc3f7e07]
 
-**4.**[^key-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Section 37: minimum age for curfew order[^key-a5195b8d8d3c86d71ff28247dc3f7e07]
+#### Section 37: minimum age for curfew order[^c-a5195b8d8d3c86d71ff28247dc3f7e07]
 
-**5.**[^key-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Custodial sentences for young offenders: section 98 and re-sentencing powers[^key-a5195b8d8d3c86d71ff28247dc3f7e07]
+#### Custodial sentences for young offenders: section 98 and re-sentencing powers[^c-a5195b8d8d3c86d71ff28247dc3f7e07]
 
-**6.**[^key-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Sections 143, 147, 148 and 150: miscellaneous transitional provisions[^key-a5195b8d8d3c86d71ff28247dc3f7e07]
+#### Sections 143, 147, 148 and 150: miscellaneous transitional provisions[^c-a5195b8d8d3c86d71ff28247dc3f7e07]
 
-**8.**[^key-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part III — Specific provisions: miscellaneous transitional provisions[^key-a5195b8d8d3c86d71ff28247dc3f7e07]
-
-**No longer in force.**
-
-#### Referral orders[^key-a5195b8d8d3c86d71ff28247dc3f7e07]
-
-**11.**[^key-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Modifications for Isles of Scilly[^key-a5195b8d8d3c86d71ff28247dc3f7e07]
-
-**12.**[^key-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Consequential amendments[^key-a5195b8d8d3c86d71ff28247dc3f7e07]
-
-**13.**[^key-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Part IV — Interpretation[^key-a5195b8d8d3c86d71ff28247dc3f7e07]
+### Part III — Specific provisions: miscellaneous transitional provisions[^c-a5195b8d8d3c86d71ff28247dc3f7e07]
 
 **No longer in force.**
 
-**14.**[^key-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Referral orders[^c-a5195b8d8d3c86d71ff28247dc3f7e07]
+
+**11.**[^c-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Modifications for Isles of Scilly[^c-a5195b8d8d3c86d71ff28247dc3f7e07]
+
+**12.**[^c-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Consequential amendments[^c-a5195b8d8d3c86d71ff28247dc3f7e07]
+
+**13.**[^c-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part IV — Interpretation[^c-a5195b8d8d3c86d71ff28247dc3f7e07]
+
+**No longer in force.**
+
+**14.**[^c-a5195b8d8d3c86d71ff28247dc3f7e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -108,4 +108,4 @@ Section 165.
 
 [^c12963321]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-a5195b8d8d3c86d71ff28247dc3f7e07]: Textual amendment: Sch. 11 Pts. 2-4 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a5195b8d8d3c86d71ff28247dc3f7e07]: Textual amendment: Sch. 11 Pts. 2-4 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

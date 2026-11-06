@@ -46,7 +46,7 @@ Coming into force
 
 2nd December 2020
 
-[^key-a324717ed50d7645802f564b858b2050]The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45C(1), (3)(c), (4)(b), (4)(d), 45F(2) and 45P of the Public Health (Control of Disease) Act 1984 [^c24351401].
+[^c-a324717ed50d7645802f564b858b2050]The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45C(1), (3)(c), (4)(b), (4)(d), 45F(2) and 45P of the Public Health (Control of Disease) Act 1984 [^c24351401].
 
 These Regulations are made in response to the serious and imminent threat to public health which is posed by the incidence and spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in England.
 
@@ -56,7 +56,7 @@ In accordance with section 45R of that Act, the Secretary of State is of the opi
 
 ## Contents
 
-### PART 1 — Introductory[^key-a324717ed50d7645802f564b858b2050]
+### PART 1 — Introductory[^c-a324717ed50d7645802f564b858b2050]
 
 *Extent: E+W*
 
@@ -70,7 +70,7 @@ In accordance with section 45R of that Act, the Secretary of State is of the opi
 - [Section 6 — Permitted organised gatherings](part-1/section-6.md)
 - [Section 7 — The required precautions](part-1/section-7.md)
 
-### PART 2 — Tier restrictions[^key-a324717ed50d7645802f564b858b2050]
+### PART 2 — Tier restrictions[^c-a324717ed50d7645802f564b858b2050]
 
 *Extent: E+W*
 
@@ -127,6 +127,6 @@ No impact assessment has been prepared for these Regulations.
 
 ## Annotations
 
-[^key-a324717ed50d7645802f564b858b2050]: Textual amendment: Regulations revoked (except regs. 13, 17, Schs. 5, 6) (29.3.2021) by [The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (S.I. 2021/364)](https://www.legislation.gov.uk/uksi/2021/364), [reg. 22](https://www.legislation.gov.uk/uksi/2021/364/regulation/22) (with [regs. 21](https://www.legislation.gov.uk/uksi/2021/364/regulation/21), [23(3)(4)](https://www.legislation.gov.uk/uksi/2021/364/regulation/23/3))
+[^c-a324717ed50d7645802f564b858b2050]: Textual amendment: Regulations revoked (except regs. 13, 17, Schs. 5, 6) (29.3.2021) by [The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (S.I. 2021/364)](https://www.legislation.gov.uk/uksi/2021/364), [reg. 22](https://www.legislation.gov.uk/uksi/2021/364/regulation/22) (with [regs. 21](https://www.legislation.gov.uk/uksi/2021/364/regulation/21), [23(3)(4)](https://www.legislation.gov.uk/uksi/2021/364/regulation/23/3))
 
 [^c24351401]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Reference of disputes to the OGA[^key-ecaf409ed5bcdee43e2f104fc591e0d9]
+## 20. Reference of disputes to the OGA[^c-ecaf409ed5bcdee43e2f104fc591e0d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecaf409ed5bcdee43e2f104fc591e0d9]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2016/20/section/20) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-ecaf409ed5bcdee43e2f104fc591e0d9]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2016/20/section/20) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

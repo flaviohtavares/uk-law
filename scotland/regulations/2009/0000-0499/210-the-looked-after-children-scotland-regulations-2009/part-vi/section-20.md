@@ -29,8 +29,8 @@ summary: ''
   - (i) a particular child or children;
   - (ii) any child; or
   - (iii) certain categories of child;
-- (c) the maximum number of children a particular foster carer may have in their care at any one time;[^key-1275485c94d17b2b57450dd0821ec5f7]...
-- (d)[^key-fbd469b2ca0e7a849c425a35302c382d] following a referral under regulation 27B(2), whether the foster carer is a suitable carer for the child, despite this resulting in more than 3 children who are not all siblings of each other remaining in the care of that foster carer at any one time.
+- (c) the maximum number of children a particular foster carer may have in their care at any one time;[^c-1275485c94d17b2b57450dd0821ec5f7]...
+- (d)[^c-fbd469b2ca0e7a849c425a35302c382d] following a referral under regulation 27B(2), whether the foster carer is a suitable carer for the child, despite this resulting in more than 3 children who are not all siblings of each other remaining in the care of that foster carer at any one time.
 
 (3) Before making a recommendation under paragraph (2) the fostering panel must give the prospective foster carer the opportunity to meet with the foster panel to discuss the matter.
 
@@ -38,12 +38,12 @@ summary: ''
 
 - (a) the duties imposed on the local authority by section 17(1) of the 1995 Act;
 - (b) all the information and reports passed to it.
-- (c)[^key-caede6e68675f018979463ff2fae95fb] the presumption that no more than 3 children are to be in the care of a foster carer at any one time, unless all the children are siblings of each other.
+- (c)[^c-caede6e68675f018979463ff2fae95fb] the presumption that no more than 3 children are to be in the care of a foster carer at any one time, unless all the children are siblings of each other.
 
 ## Annotations
 
-[^key-1275485c94d17b2b57450dd0821ec5f7]: Textual amendment: Words in [reg. 20(2)(c)](https://www.legislation.gov.uk/ssi/2009/210/regulation/20/2/c) omitted (31.3.2021) by virtue of [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/4), [3(6)(a)(i)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/6/a/i)
+[^c-1275485c94d17b2b57450dd0821ec5f7]: Textual amendment: Words in [reg. 20(2)(c)](https://www.legislation.gov.uk/ssi/2009/210/regulation/20/2/c) omitted (31.3.2021) by virtue of [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/4), [3(6)(a)(i)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/6/a/i)
 
-[^key-fbd469b2ca0e7a849c425a35302c382d]: Textual amendment: [Reg. 20(2)(d)](https://www.legislation.gov.uk/ssi/2009/210/regulation/20/2/d) inserted (31.3.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/4), [3(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/6/a/ii)
+[^c-fbd469b2ca0e7a849c425a35302c382d]: Textual amendment: [Reg. 20(2)(d)](https://www.legislation.gov.uk/ssi/2009/210/regulation/20/2/d) inserted (31.3.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/4), [3(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/6/a/ii)
 
-[^key-caede6e68675f018979463ff2fae95fb]: Textual amendment: [Reg. 20(4)(c)](https://www.legislation.gov.uk/ssi/2009/210/regulation/20/4/c) inserted (31.3.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/4), [3(6)(b)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/6/b)
+[^c-caede6e68675f018979463ff2fae95fb]: Textual amendment: [Reg. 20(4)(c)](https://www.legislation.gov.uk/ssi/2009/210/regulation/20/4/c) inserted (31.3.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/4), [3(6)(b)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/6/b)

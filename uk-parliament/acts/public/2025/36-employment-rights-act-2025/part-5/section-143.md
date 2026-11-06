@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Power to recover costs of enforcement[^key-bf231bf1d2c0a6b05493d4ad0f509551][^key-e0ced0a0a5155bb8b5d263c35cac11ee]
+## 143. Power to recover costs of enforcement[^c-bf231bf1d2c0a6b05493d4ad0f509551][^c-e0ced0a0a5155bb8b5d263c35cac11ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf231bf1d2c0a6b05493d4ad0f509551]: Commencement: S. 143 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-bf231bf1d2c0a6b05493d4ad0f509551]: Commencement: S. 143 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-e0ced0a0a5155bb8b5d263c35cac11ee]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2025/36/section/143) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(32)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/32)
+[^c-e0ced0a0a5155bb8b5d263c35cac11ee]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2025/36/section/143) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(32)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/32)

@@ -42,15 +42,15 @@ The Secretary of State for Health, in exercise of the powers conferred by sectio
 
 A draft of this Order was laid before Parliament in accordance with section 304(5)(c) of the Health and Social Care Act 2012, and was approved by resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-5b53571a38508051eb4db55d56071330]
+## 1. Citation, commencement and interpretation[^c-5b53571a38508051eb4db55d56071330]
 
 (1) This Order may be cited as the National Health Service (Approval of Licensing Criteria) Order 2013 and comes into force immediately after section 86 (licensing criteria) of the 2012 Act comes fully into force [^f00002].
 
 (2) In this Order, the “2012 Act” means the Health and Social Care Act 2012.
 
-## 2. Approval of criteria[^key-fcbd50a9ddb214bfdfa4897d59dc749d]
+## 2. Approval of criteria[^c-fcbd50a9ddb214bfdfa4897d59dc749d]
 
-For the purposes of section 86(3) of the 2012 Act, the Secretary of State approves the criteria listed in the Schedule as the criteria which NHS England[^key-7a80f11b52fae964ed5e485253e43410] must set and publish (criteria for granting a licence under Chapter 3 of Part 3 of that Act).
+For the purposes of section 86(3) of the 2012 Act, the Secretary of State approves the criteria listed in the Schedule as the criteria which NHS England[^c-7a80f11b52fae964ed5e485253e43410] must set and publish (criteria for granting a licence under Chapter 3 of Part 3 of that Act).
 
 Signed by authority of the Secretary of State for Health.
 
@@ -66,18 +66,18 @@ Department of Health
 
 Article 2
 
-The criteria to be set by NHS England[^key-ad559c6256ec2b62aae196802a4f74e4] for the purposes of granting a licence to a person under Chapter 3 of Part 3 of the Health and Social Care Act 2012 are specified below.
+The criteria to be set by NHS England[^c-ad559c6256ec2b62aae196802a4f74e4] for the purposes of granting a licence to a person under Chapter 3 of Part 3 of the Health and Social Care Act 2012 are specified below.
 
-### 1. Criterion 1: requirement in relation to registration with the Care Quality Commission[^key-93bb47500a12e0770fae262e2a917d1f]
+### 1. Criterion 1: requirement in relation to registration with the Care Quality Commission[^c-93bb47500a12e0770fae262e2a917d1f]
 
 (1) The criterion in sub-paragraph (2) only applies in the case where a person, in providing a health care service for the purposes of the NHS[^f00003], is, or on the grant of a licence would be, carrying on a regulated activity within the meaning of Chapter 2 of Part 1 (the Care Quality Commission) of the Health and Social Care Act 2008 (“the 2008 Act”)[^f00004].
 
 (2) A person—
 
 - (a) must be registered with the Care Quality Commission in accordance with Chapter 2 (registration in respect of provision of health or social care) of Part 1 of the 2008 Act in respect of the carrying on of that regulated activity; or
-- (b) must have made an application pursuant to arrangements referred to in section 288(2)(b) (NHS England[^key-5dfeace88165d95203a383214d2f5e20]: duty to co-operate with Care Quality Commission) of the Health and Social Care Act 2012 and the Care Quality Commission has informed NHS England that the person will be registered with the Care Quality Commission in accordance with Chapter 2 of Part 1 of the 2008 Act in respect of the carrying on of that regulated activity at the date on which the licence is to be granted.
+- (b) must have made an application pursuant to arrangements referred to in section 288(2)(b) (NHS England[^c-5dfeace88165d95203a383214d2f5e20]: duty to co-operate with Care Quality Commission) of the Health and Social Care Act 2012 and the Care Quality Commission has informed NHS England that the person will be registered with the Care Quality Commission in accordance with Chapter 2 of Part 1 of the 2008 Act in respect of the carrying on of that regulated activity at the date on which the licence is to be granted.
 
-### 2. Criterion 2: requirement in relation to provider fitness[^key-6c29eef9c0567a8fc46fc45cb25c22c4]
+### 2. Criterion 2: requirement in relation to provider fitness[^c-6c29eef9c0567a8fc46fc45cb25c22c4]
 
 (1) In this paragraph—
 
@@ -100,7 +100,7 @@ The criteria to be set by NHS England[^key-ad559c6256ec2b62aae196802a4f74e4] for
 (4) A person is an unfit person if—
 
 - (a) in the case of an individual—
-  - (i) that person is a person who has been made[^key-c5f9ac90930f7d3b7a8128bb447b3b12] bankrupt, or whose estate has been sequestrated, and (in either case) the bankruptcy or sequestration has not been discharged or the bankruptcy order has not been annulled;
+  - (i) that person is a person who has been made[^c-c5f9ac90930f7d3b7a8128bb447b3b12] bankrupt, or whose estate has been sequestrated, and (in either case) the bankruptcy or sequestration has not been discharged or the bankruptcy order has not been annulled;
   - (ii) that person is a person in relation to whom a moratorium period under a debt relief order applies under Part VIIA (debt relief orders) of the 1986 Act[^f00008];
   - (iii) that person is a person who has made a composition or arrangement with, or granted a trust deed for, that person’s creditors and has not been discharged in respect of that composition, arrangement or deed;
   - (iv) within the preceding 5 years ending on the date the application for a licence is made, that person has been convicted in the British Islands of any offence and a sentence of imprisonment (whether suspended or not) for a period of not less than 3 months (without the option of a fine) was imposed on that person; or
@@ -125,25 +125,25 @@ A full impact assessment has not been produced for this instrument.
 
 [^f00001]: Footnote: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-5b53571a38508051eb4db55d56071330]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2960/article/1) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2960/article/1/1)
+[^c-5b53571a38508051eb4db55d56071330]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2960/article/1) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2960/article/1/1)
 
 [^f00002]: Footnote: Section 86 was commenced for limited purposes by section 306(1)(d) of the Health and Social Care Act 2012 and article 2(3) of the Health and Social Care Act 2012 (Commencement No.5, Transitional, Savings and Transitory Provisions) Order 2013 ([S.I. 2013/671 (C.28)](https://www.legislation.gov.uk/uksi/2013/671)).
 
-[^key-fcbd50a9ddb214bfdfa4897d59dc749d]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2960/article/2) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2960/article/1/1)
+[^c-fcbd50a9ddb214bfdfa4897d59dc749d]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2960/article/2) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2960/article/1/1)
 
-[^key-7a80f11b52fae964ed5e485253e43410]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/2960/article/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [113(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/113/2)
+[^c-7a80f11b52fae964ed5e485253e43410]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/2960/article/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [113(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/113/2)
 
-[^key-ad559c6256ec2b62aae196802a4f74e4]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/2960/schedule) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [113(3)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/113/3/a)
+[^c-ad559c6256ec2b62aae196802a4f74e4]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/2960/schedule) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [113(3)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/113/3/a)
 
-[^key-93bb47500a12e0770fae262e2a917d1f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/2960/schedule/paragraph/1) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2960/article/1/1)
+[^c-93bb47500a12e0770fae262e2a917d1f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/2960/schedule/paragraph/1) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2960/article/1/1)
 
 [^f00003]: Footnote: See section 64(3) and (4) of the Health and Social Care Act 2012 (“2012 Act”) for the meaning of “health care services” and “the NHS”.
 
 [^f00004]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14). Relevant amendments are made to Part 1 of the 2008 Act by sections 55(2) and 289 of, and Schedule 5 to, the 2012 Act. The Care Quality Commission is established by section 1 of the 2008 Act.
 
-[^key-5dfeace88165d95203a383214d2f5e20]: Textual amendment: Words in [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/2960/schedule/paragraph/1/2/b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [113(3)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/113/3/b)
+[^c-5dfeace88165d95203a383214d2f5e20]: Textual amendment: Words in [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/2960/schedule/paragraph/1/2/b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [113(3)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/113/3/b)
 
-[^key-6c29eef9c0567a8fc46fc45cb25c22c4]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/2960/schedule/paragraph/2) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2960/article/1/1)
+[^c-6c29eef9c0567a8fc46fc45cb25c22c4]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/2960/schedule/paragraph/2) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2960/article/1/1)
 
 [^f00005]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
@@ -151,7 +151,7 @@ A full impact assessment has not been produced for this instrument.
 
 [^f00007]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-c5f9ac90930f7d3b7a8128bb447b3b12]: Textual amendment: Word in [Sch. para. 2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2013/2960/schedule/1/paragraph/2/4/a/i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-c5f9ac90930f7d3b7a8128bb447b3b12]: Textual amendment: Word in [Sch. para. 2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2013/2960/schedule/1/paragraph/2/4/a/i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^f00008]: Footnote: Part 7A is inserted by section 108 of, and Schedule 17 to, the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 

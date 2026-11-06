@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Officers of general partners[^key-125dbcbbe05deceb0184cd52e25b5f5a]
+## 119. Officers of general partners[^c-125dbcbbe05deceb0184cd52e25b5f5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -211,4 +211,4 @@ summary: ''
 
 ## Annotations
 
-[^key-125dbcbbe05deceb0184cd52e25b5f5a]: Commencement: S. 119 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-125dbcbbe05deceb0184cd52e25b5f5a]: Commencement: S. 119 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

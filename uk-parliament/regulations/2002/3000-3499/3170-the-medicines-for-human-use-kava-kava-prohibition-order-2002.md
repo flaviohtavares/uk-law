@@ -52,13 +52,13 @@ As respects England, Wales and Scotland, the Secretary of State concerned with h
 (2) In this Order—
 
 - “the Act” means the Medicines Act 1968;
-- “[^key-2adf74f9418d1fd3f2b97416ad46fa90]**approved country for import**” has the meaning given in regulation 8(1) of the Human Medicines Regulations 2012;
-- [^key-b3883527f9cac024f18e3804f8a0eddf]...
-- [^key-b3883527f9cac024f18e3804f8a0eddf]...
+- “[^c-2adf74f9418d1fd3f2b97416ad46fa90]**approved country for import**” has the meaning given in regulation 8(1) of the Human Medicines Regulations 2012;
+- [^c-b3883527f9cac024f18e3804f8a0eddf]...
+- [^c-b3883527f9cac024f18e3804f8a0eddf]...
 - “external use” means application to the skin, hair, teeth, mucosa of the mouth, throat, nose, ear, eye, vagina or anal canal when a local action only is intended and extensive systemic absorption is unlikely to occur, and references to medicinal products being “for external use” shall be read accordingly—except that such references shall not include throat sprays, throat pastilles, throat lozenges, throat tablets, nasal drops, nasal sprays, nasal inhalations or teething preparations;
-- [^key-d4c3a751c0f795a244cf7a4e4bccf757]...
+- [^c-d4c3a751c0f795a244cf7a4e4bccf757]...
 - “medicinal product” does not include a medicinal product which is a veterinary drug.
-- [^key-d4c3a751c0f795a244cf7a4e4bccf757]...
+- [^c-d4c3a751c0f795a244cf7a4e4bccf757]...
 
 ## 2. Prohibition of sale, supply and importation of any medicinal product consisting of or containingPiper methysticum (known as Kava-kava)
 
@@ -79,8 +79,8 @@ The prohibition imposed by article 2 above shall not apply where the medicinal p
   - (ii) a food analyst or food examiner within the meaning of section 30 of the Food Safety Act 1990 [^c9639991] or Article 30 or 31 of the Food Safety (Northern Ireland) Order 1991 [^c9640001],
   - (iii) a person duly authorised by an enforcement authority under sections 111 and 112 of the Act, or
   - (iv) a sampling officer within the meaning of Schedule 3 to the Act [^c9640011];
-- (c)[^key-edde413bd8e645e61439ef32e3f99fa5] imported from an approved country for import, and is being, or is to be, exported to a country other than the United Kingdom; or
-- (d) the subject of a[^key-dc7015771407d1b32701457c5ceff46a] UK marketing authorisation, certificate of registration or traditional herbal registration[^key-19271d6a089573a68251622436c79325] within the meaning of the Human Medicines Regulations 2012.
+- (c)[^c-edde413bd8e645e61439ef32e3f99fa5] imported from an approved country for import, and is being, or is to be, exported to a country other than the United Kingdom; or
+- (d) the subject of a[^c-dc7015771407d1b32701457c5ceff46a] UK marketing authorisation, certificate of registration or traditional herbal registration[^c-19271d6a089573a68251622436c79325] within the meaning of the Human Medicines Regulations 2012.
 
 Signed by authority of the Secretary of State for Health
 
@@ -124,11 +124,11 @@ A Regulatory Impact Assessment in relation to this Order has been placed in the 
 
 [^c9639931]: Marginal citation: Section 62(3) refers to the “appropriate committee”, which is defined in section 4(6) of the Act. The Committee on Safety of Medicines was established under section 4 of the Act, by [S.I. 1970/1257](https://www.legislation.gov.uk/uksi/1970/1257), for the purposes set out in that instrument.
 
-[^key-2adf74f9418d1fd3f2b97416ad46fa90]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2002/3170/article/1) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2adf74f9418d1fd3f2b97416ad46fa90]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2002/3170/article/1) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b3883527f9cac024f18e3804f8a0eddf]: Textual amendment: Words in art. 1(2) omitted (1.4.2008) by virtue of [The Medicines for Human Use (Prohibition) (Senecio and Miscellaneous Amendments) Order 2008 (S.I. 2008/548)](https://www.legislation.gov.uk/uksi/2008/548), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/548/article/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2008/548/article/6/2/a)
+[^c-b3883527f9cac024f18e3804f8a0eddf]: Textual amendment: Words in art. 1(2) omitted (1.4.2008) by virtue of [The Medicines for Human Use (Prohibition) (Senecio and Miscellaneous Amendments) Order 2008 (S.I. 2008/548)](https://www.legislation.gov.uk/uksi/2008/548), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/548/article/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2008/548/article/6/2/a)
 
-[^key-d4c3a751c0f795a244cf7a4e4bccf757]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2002/3170/article/1) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d4c3a751c0f795a244cf7a4e4bccf757]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2002/3170/article/1) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c9639961]: Marginal citation: “Plant” includes part of a plant;*see* the definition of “plant” in section 132(1) of the Act.
 
@@ -142,8 +142,8 @@ A Regulatory Impact Assessment in relation to this Order has been placed in the 
 
 [^c9640011]: Marginal citation: Schedule 3 was amended by paragraph 12 of Schedule 3 to the Food Safety Act 1990.
 
-[^key-edde413bd8e645e61439ef32e3f99fa5]: Textual amendment: [Art. 3(c)](https://www.legislation.gov.uk/uksi/2002/3170/article/3/c) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-edde413bd8e645e61439ef32e3f99fa5]: Textual amendment: [Art. 3(c)](https://www.legislation.gov.uk/uksi/2002/3170/article/3/c) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dc7015771407d1b32701457c5ceff46a]: Textual amendment: Words in art. 3(d) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 77](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/77) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-dc7015771407d1b32701457c5ceff46a]: Textual amendment: Words in art. 3(d) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 77](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/77) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-19271d6a089573a68251622436c79325]: Textual amendment: Words in [art. 3(d)](https://www.legislation.gov.uk/uksi/2002/3170/article/3/d) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19271d6a089573a68251622436c79325]: Textual amendment: Words in [art. 3(d)](https://www.legislation.gov.uk/uksi/2002/3170/article/3/d) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

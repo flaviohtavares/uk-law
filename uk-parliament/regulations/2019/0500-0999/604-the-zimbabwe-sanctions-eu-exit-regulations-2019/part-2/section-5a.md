@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Conditions for the designation of persons by name[^key-3d6985b7ca5301d696b676c2b2aec909]
+## 5A. Conditions for the designation of persons by name[^c-3d6985b7ca5301d696b676c2b2aec909]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,11 +27,11 @@ summary: ''
 
 (2) Paragraph (3) applies where the Secretary of State chooses to designate a person under regulation 5 under the standard procedure.
 
-(3) The Secretary of State[^key-4edfef0ce2d41370b10be01864955975] may not designate a person except where condition A is met.
+(3) The Secretary of State[^c-4edfef0ce2d41370b10be01864955975] may not designate a person except where condition A is met.
 
 (4) Condition A is that the Secretary of State has reasonable grounds to suspect that that person is an involved person.
 
-(5) Paragraphs (6) to (8) apply where the Secretary of State[^key-37df12609ce7452bacee6dc451af3425] chooses to designate a person under regulation 5 under the urgent procedure.
+(5) Paragraphs (6) to (8) apply where the Secretary of State[^c-37df12609ce7452bacee6dc451af3425] chooses to designate a person under regulation 5 under the urgent procedure.
 
 (6) The Secretary of State may designate a person where condition A is not met, but conditions B and C are met.
 
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3d6985b7ca5301d696b676c2b2aec909]: Textual amendment: Reg. 5A inserted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2025/394/regulation/11/3)
+[^c-3d6985b7ca5301d696b676c2b2aec909]: Textual amendment: Reg. 5A inserted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2025/394/regulation/11/3)
 
-[^key-4edfef0ce2d41370b10be01864955975]: Textual amendment: Words in reg. 5A(3) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/12/2/a)
+[^c-4edfef0ce2d41370b10be01864955975]: Textual amendment: Words in reg. 5A(3) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/12/2/a)
 
-[^key-37df12609ce7452bacee6dc451af3425]: Textual amendment: Words in reg. 5A(5) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/12/2/b)
+[^c-37df12609ce7452bacee6dc451af3425]: Textual amendment: Words in reg. 5A(5) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/12/2/b)

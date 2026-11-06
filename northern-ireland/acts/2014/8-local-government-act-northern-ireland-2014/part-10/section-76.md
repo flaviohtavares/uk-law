@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Establishment of bodies corporate[^key-5a1779442d3d1580aa3d9d96b0c3ef40]
+## 76. Establishment of bodies corporate[^c-5a1779442d3d1580aa3d9d96b0c3ef40]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ by order establish a body corporate having the constitution and functions specif
 
 ## Annotations
 
-[^key-5a1779442d3d1580aa3d9d96b0c3ef40]: Commencement: [S. 76](https://www.legislation.gov.uk/nia/2014/8/section/76) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-5a1779442d3d1580aa3d9d96b0c3ef40]: Commencement: [S. 76](https://www.legislation.gov.uk/nia/2014/8/section/76) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

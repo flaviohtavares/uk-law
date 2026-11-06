@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58.1. Scope of this Part and interpretation[^key-255c3f534ee6812a0c822c87113f2483]
+## 58.1. Scope of this Part and interpretation[^c-255c3f534ee6812a0c822c87113f2483]
 
 *Extent: E+W*
 
-(1) This Part applies to claims in the Commercial Court of the Business and Property Division[^key-83d40aa19ad173a82f4f006eecf6f41c].
+(1) This Part applies to claims in the Commercial Court of the Business and Property Division[^c-83d40aa19ad173a82f4f006eecf6f41c].
 
-(2) In this Part and Practice Direction 58[^key-e21198d3580632b48258e238c9d51561], “commercial claim” means any claim arising out of the transaction of trade and commerce and includes any claim relating to—
+(2) In this Part and Practice Direction 58[^c-e21198d3580632b48258e238c9d51561], “commercial claim” means any claim arising out of the transaction of trade and commerce and includes any claim relating to—
 
 - (a) a business document or contract;
 - (b) the export or import of goods;
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-255c3f534ee6812a0c822c87113f2483]: Textual amendment: Pt. 58 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/4015/schedule/2)
+[^c-255c3f534ee6812a0c822c87113f2483]: Textual amendment: Pt. 58 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/4015/schedule/2)
 
-[^key-83d40aa19ad173a82f4f006eecf6f41c]: Textual amendment: Words in [rule 58.1(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/58.1/1) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(4)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/4), [15(2)](https://www.legislation.gov.uk/uksi/2026/817/rule/15/2) (with [rule 2](https://www.legislation.gov.uk/uksi/2026/817/rule/2))
+[^c-83d40aa19ad173a82f4f006eecf6f41c]: Textual amendment: Words in [rule 58.1(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/58.1/1) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(4)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/4), [15(2)](https://www.legislation.gov.uk/uksi/2026/817/rule/15/2) (with [rule 2](https://www.legislation.gov.uk/uksi/2026/817/rule/2))
 
-[^key-e21198d3580632b48258e238c9d51561]: Textual amendment: Words in [rule 58.1(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/58.1/2) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [33(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/33/a)
+[^c-e21198d3580632b48258e238c9d51561]: Textual amendment: Words in [rule 58.1(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/58.1/2) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [33(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/33/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. General functions of the Commissioner[^key-9723b0490cebc767be1b908e57bf3884]
+## 3. General functions of the Commissioner[^c-9723b0490cebc767be1b908e57bf3884]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9723b0490cebc767be1b908e57bf3884]: Commencement: Reg. 3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-9723b0490cebc767be1b908e57bf3884]: Commencement: Reg. 3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00009]: Footnote: See section 367 of the 2006 Act for the meaning of “persons subject to service law”.
 

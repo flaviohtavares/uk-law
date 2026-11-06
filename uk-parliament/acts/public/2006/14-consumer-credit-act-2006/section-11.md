@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Failure to give notice of sums in arrears[^key-a46ccd9424ff6f29b130464df6b627b8]
+## 11. Failure to give notice of sums in arrears[^c-a46ccd9424ff6f29b130464df6b627b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ After section 86C of the 1974 Act (inserted by section 10 of this Act) insert—
 
 ## Annotations
 
-[^key-a46ccd9424ff6f29b130464df6b627b8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/14/section/11) in force at 1.10.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
+[^c-a46ccd9424ff6f29b130464df6b627b8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/14/section/11) in force at 1.10.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)

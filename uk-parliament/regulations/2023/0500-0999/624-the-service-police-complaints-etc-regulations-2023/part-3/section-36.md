@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Investigations by the Commissioner[^key-41869dcaa78ce55e7df44ba98a3ad98c]
+## 36. Investigations by the Commissioner[^c-41869dcaa78ce55e7df44ba98a3ad98c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ has the same powers as a service policeman for the purposes of the carrying out 
 
 ## Annotations
 
-[^key-41869dcaa78ce55e7df44ba98a3ad98c]: Commencement: Reg. 36 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-41869dcaa78ce55e7df44ba98a3ad98c]: Commencement: Reg. 36 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

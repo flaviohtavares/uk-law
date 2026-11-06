@@ -20,23 +20,23 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-7b50c71c02621ef55dd4444709451a24] Regulations may make provision requiring the trustees or managers of closed schemes to obtain actuarial valuations of the scheme at such intervals as may be prescribed for the purposes of enabling them to determine—
+(1)[^c-7b50c71c02621ef55dd4444709451a24] Regulations may make provision requiring the trustees or managers of closed schemes to obtain actuarial valuations of the scheme at such intervals as may be prescribed for the purposes of enabling them to determine—
 
 - (a) the benefits payable under the scheme rules;
 - (b) whether to make an application under section 157.
 
-(2)[^key-7b50c71c02621ef55dd4444709451a24] Regulations under this section may prescribe how—
+(2)[^c-7b50c71c02621ef55dd4444709451a24] Regulations under this section may prescribe how—
 
 - (a) the assets, the full scheme liabilities and the protected liabilities in relation to closed schemes, and
 - (b) their amount or value,
 
 are to be determined, calculated and verified.
 
-(3)[^key-3ebc8520b572f9542ef1632fd930c0e7] Subject to any provision made under subsection (2), those matters are to be determined, calculated and verified in accordance with guidance issued by the Board.
+(3)[^c-3ebc8520b572f9542ef1632fd930c0e7] Subject to any provision made under subsection (2), those matters are to be determined, calculated and verified in accordance with guidance issued by the Board.
 
-(4)[^key-3ebc8520b572f9542ef1632fd930c0e7] In calculating the amount of any liabilities for the purposes of a valuation required by virtue of this section, a provision of the scheme rules which limits the amount of the scheme’s liabilities by reference to the value of its assets is to be disregarded.
+(4)[^c-3ebc8520b572f9542ef1632fd930c0e7] In calculating the amount of any liabilities for the purposes of a valuation required by virtue of this section, a provision of the scheme rules which limits the amount of the scheme’s liabilities by reference to the value of its assets is to be disregarded.
 
-(5)[^key-7b50c71c02621ef55dd4444709451a24] Nothing in regulations under this section may require the trustees or managers of a closed scheme to obtain an actuarial valuation of the scheme until—
+(5)[^c-7b50c71c02621ef55dd4444709451a24] Nothing in regulations under this section may require the trustees or managers of a closed scheme to obtain an actuarial valuation of the scheme until—
 
 - (a) the period within which the issue of the determination notice, under section 153(6), in respect of the Board’s determination to authorise the scheme to continue as a closed scheme, may be reviewed by virtue of Chapter 6 has expired, and
 - (b) if the issue of the notice is so reviewed—
@@ -46,7 +46,7 @@ are to be determined, calculated and verified.
 
   has been finally disposed of and the notice has not been revoked, varied or substituted.
 
-(6)[^key-7b50c71c02621ef55dd4444709451a24] In this section, in relation to a scheme—
+(6)[^c-7b50c71c02621ef55dd4444709451a24] In this section, in relation to a scheme—
 
 - “**actuarial valuation**” means a written valuation of—
   - (a) the scheme’s assets,
@@ -69,6 +69,6 @@ are to be determined, calculated and verified.
 
 ## Annotations
 
-[^key-7b50c71c02621ef55dd4444709451a24]: Commencement: S. 156(1)(2)(5)(6) in force at 1.11.2006 for specified purposes and 6.4.2007 in so far as not already in force by [S.I. 2006/2272](https://www.legislation.gov.uk/uksi/2006/2272), [art. 2(5)](https://www.legislation.gov.uk/uksi/2006/2272/article/2/5), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/2272/schedule/part/1)
+[^c-7b50c71c02621ef55dd4444709451a24]: Commencement: S. 156(1)(2)(5)(6) in force at 1.11.2006 for specified purposes and 6.4.2007 in so far as not already in force by [S.I. 2006/2272](https://www.legislation.gov.uk/uksi/2006/2272), [art. 2(5)](https://www.legislation.gov.uk/uksi/2006/2272/article/2/5), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/2272/schedule/part/1)
 
-[^key-3ebc8520b572f9542ef1632fd930c0e7]: Commencement: S. 156(3)(4) in force at 6.4.2007 by [S.I. 2006/2272](https://www.legislation.gov.uk/uksi/2006/2272), [art. 2(7)](https://www.legislation.gov.uk/uksi/2006/2272/article/2/7), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/2272/schedule/part/2)
+[^c-3ebc8520b572f9542ef1632fd930c0e7]: Commencement: S. 156(3)(4) in force at 6.4.2007 by [S.I. 2006/2272](https://www.legislation.gov.uk/uksi/2006/2272), [art. 2(7)](https://www.legislation.gov.uk/uksi/2006/2272/article/2/7), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/2272/schedule/part/2)

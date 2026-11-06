@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Restrictions on use and disclosure of information[^key-4ac092baf9a3f8579ede6b383ebf66fd]
+## 27. Restrictions on use and disclosure of information[^c-4ac092baf9a3f8579ede6b383ebf66fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ac092baf9a3f8579ede6b383ebf66fd]: Textual amendment: Ss. 25-27 expire (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/d)
+[^c-4ac092baf9a3f8579ede6b383ebf66fd]: Textual amendment: Ss. 25-27 expire (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/d)

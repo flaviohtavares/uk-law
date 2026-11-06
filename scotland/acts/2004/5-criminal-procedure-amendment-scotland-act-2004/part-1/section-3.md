@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Appeals[^key-c9e80576b874dfbd40bc70f40a9d4d95]
+## 3. Appeals[^c-c9e80576b874dfbd40bc70f40a9d4d95]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9e80576b874dfbd40bc70f40a9d4d95]: Commencement: S. 3 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-c9e80576b874dfbd40bc70f40a9d4d95]: Commencement: S. 3 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

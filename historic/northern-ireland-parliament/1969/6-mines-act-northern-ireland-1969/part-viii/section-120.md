@@ -22,8 +22,8 @@ summary: ''
 
 *Subs.(1)‐(4) rep. by SR 1980/333*
 
-(5)[^key-9937348551b18cca2562974cf1266651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-9937348551b18cca2562974cf1266651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9937348551b18cca2562974cf1266651]: Textual amendment: [S. 120(5)](https://www.legislation.gov.uk/apni/1969/6/section/120/5) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-9937348551b18cca2562974cf1266651]: Textual amendment: [S. 120(5)](https://www.legislation.gov.uk/apni/1969/6/section/120/5) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

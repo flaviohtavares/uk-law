@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Obstruction of works and trespass on the tunnel crossing[^key-779957a9457eb619d784c6806b056cc4]
+## 38. Obstruction of works and trespass on the tunnel crossing[^c-779957a9457eb619d784c6806b056cc4]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-779957a9457eb619d784c6806b056cc4]: Commencement: Art. 38 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-779957a9457eb619d784c6806b056cc4]: Commencement: Art. 38 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19.8. Insolvency or death of cautioner or guarantor[^key-a83251468c09c864939b985693fa9a59]
+## 19.8. Insolvency or death of cautioner or guarantor[^c-a83251468c09c864939b985693fa9a59]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a83251468c09c864939b985693fa9a59]: Commencement: Para. 19.8 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-a83251468c09c864939b985693fa9a59]: Commencement: Para. 19.8 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00015]: Footnote: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21). Section 16 was amended by [S.S.I. 2019/94](https://www.legislation.gov.uk/ssi/2019/94).
 

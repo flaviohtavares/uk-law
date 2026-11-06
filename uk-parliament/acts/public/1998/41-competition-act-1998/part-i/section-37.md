@@ -25,7 +25,7 @@ summary: ''
 - (a) the period during which an appeal against the imposition, or amount, of the penalty may be made has expired without an appeal having been made, or
 - (b) such an appeal has been made and determined,
 
-the CMA[^key-ece303aaea38637aad77995217aa8419] may recover from the undertaking, as a civil debt due to the CMA , any amount payable under the penalty notice which remains outstanding.
+the CMA[^c-ece303aaea38637aad77995217aa8419] may recover from the undertaking, as a civil debt due to the CMA , any amount payable under the penalty notice which remains outstanding.
 
 (2) In this section—
 
@@ -34,4 +34,4 @@ the CMA[^key-ece303aaea38637aad77995217aa8419] may recover from the undertaking,
 
 ## Annotations
 
-[^key-ece303aaea38637aad77995217aa8419]: Textual amendment: Word in s. 37(1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/21) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-ece303aaea38637aad77995217aa8419]: Textual amendment: Word in s. 37(1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/21) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

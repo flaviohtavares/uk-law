@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Bereavement pension: surviving partner[^key-e49cff261be1f4bb02646b1150218d30]
+## 81. Bereavement pension: surviving partner[^c-e49cff261be1f4bb02646b1150218d30]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e49cff261be1f4bb02646b1150218d30]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/2014/2848/regulation/81) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-e49cff261be1f4bb02646b1150218d30]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/2014/2848/regulation/81) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

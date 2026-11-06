@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**22.**[^key-46d34f5d53b925f663c54d5d56b9738f] In Part 61 (Proceeds of Crime Act 2002 150 150 rules applicable to restraint and receivership proceedings)—
+**22.**[^c-46d34f5d53b925f663c54d5d56b9738f] In Part 61 (Proceeds of Crime Act 2002 150 150 rules applicable to restraint and receivership proceedings)—
 
 - (a) in rule 61.19 (Order for costs)—
   - (i) in paragraph (1), omit “under rule 78.1”,
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-46d34f5d53b925f663c54d5d56b9738f]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2009/2087/article/22) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-46d34f5d53b925f663c54d5d56b9738f]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2009/2087/article/22) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
 
 [^f00009]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54); section 52 was amended by section 31 of, and Part II of Schedule 1 to, the Prosecution of Offences Act [1985 (c. 23)](https://www.legislation.gov.uk/ukpga/1985/23), article 3 and paragraphs 11 and 12(a) of the Schedule to The Courts Act (Consequential Amendments) Order 2004 (S.I. [2004/2035](https://www.legislation.gov.uk/uksi/2004/2035)), and it is to be amended by section 59 of, and paragraph 26 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) from 1 October 2009.

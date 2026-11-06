@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Biocidal Products (Amendment) Regulations 2010 (revoked)[^key-853f0f4ba7dd82197f645d18ae0aba3d]
+The Biocidal Products (Amendment) Regulations 2010 (revoked)[^c-853f0f4ba7dd82197f645d18ae0aba3d]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 6th April 2010
 
-[^key-853f0f4ba7dd82197f645d18ae0aba3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-853f0f4ba7dd82197f645d18ae0aba3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-853f0f4ba7dd82197f645d18ae0aba3d]
+## 1. Citation and Commencement[^c-853f0f4ba7dd82197f645d18ae0aba3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Biocidal Products Regulations 2001[^key-853f0f4ba7dd82197f645d18ae0aba3d]
+## 2. Amendment of the Biocidal Products Regulations 2001[^c-853f0f4ba7dd82197f645d18ae0aba3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-853f0f4ba7dd82197f645d18ae0aba3d]
+## 3.[^c-853f0f4ba7dd82197f645d18ae0aba3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-853f0f4ba7dd82197f645d18ae0aba3d]
+## 4.[^c-853f0f4ba7dd82197f645d18ae0aba3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-853f0f4ba7dd82197f645d18ae0aba3d]
+## 5.[^c-853f0f4ba7dd82197f645d18ae0aba3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-853f0f4ba7dd82197f645d18ae0aba3d]
+## 6.[^c-853f0f4ba7dd82197f645d18ae0aba3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-853f0f4ba7dd82197f645d18ae0aba3d]
+## 7.[^c-853f0f4ba7dd82197f645d18ae0aba3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-853f0f4ba7dd82197f645d18ae0aba3d]
+## 8.[^c-853f0f4ba7dd82197f645d18ae0aba3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-853f0f4ba7dd82197f645d18ae0aba3d]
+## 9.[^c-853f0f4ba7dd82197f645d18ae0aba3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-853f0f4ba7dd82197f645d18ae0aba3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-853f0f4ba7dd82197f645d18ae0aba3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-853f0f4ba7dd82197f645d18ae0aba3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-853f0f4ba7dd82197f645d18ae0aba3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-853f0f4ba7dd82197f645d18ae0aba3d]: Textual amendment: Regulations revoked (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 34(e)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/34/e) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1506/schedule/2))
+[^c-853f0f4ba7dd82197f645d18ae0aba3d]: Textual amendment: Regulations revoked (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 34(e)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/34/e) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1506/schedule/2))

@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2022-07-01.
 
-## 10B. Assessable income: state pension credit paid to or in respect of a parent with care or an absent parent[^key-151d554ad0ad296acea9d31d8fb2da67]
+## 10B. Assessable income: state pension credit paid to or in respect of a parent with care or an absent parent[^c-151d554ad0ad296acea9d31d8fb2da67]
 
 Where state pension credit is paid to or in respect of a parent with care or an absent parent, that parent shall, for the purposes of Schedule 1 to the Act, be taken to have no assessable income.
 
 ## Annotations
 
-[^key-151d554ad0ad296acea9d31d8fb2da67]: Textual amendment: Reg. 10B inserted (5.11.2003) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2003 (S.I. 2003/2779)](https://www.legislation.gov.uk/uksi/2003/2779), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2779/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2003/2779/regulation/4/4)
+[^c-151d554ad0ad296acea9d31d8fb2da67]: Textual amendment: Reg. 10B inserted (5.11.2003) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2003 (S.I. 2003/2779)](https://www.legislation.gov.uk/uksi/2003/2779), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2779/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2003/2779/regulation/4/4)

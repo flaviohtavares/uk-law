@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Revocations and transitional provisions[^key-0a8ba0ad1d6bec4366597f01012efe21]
+## 6. Revocations and transitional provisions[^c-0a8ba0ad1d6bec4366597f01012efe21]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0a8ba0ad1d6bec4366597f01012efe21]: Commencement: Reg. 6 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-0a8ba0ad1d6bec4366597f01012efe21]: Commencement: Reg. 6 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
 [^f00013]: Footnote: [S.I. 2015/25](https://www.legislation.gov.uk/uksi/2015/25).
 

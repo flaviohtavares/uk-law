@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 133. Conditions[^key-83fa0cfb95fd647b8a56dfe24054b474]
+## 133. Conditions[^c-83fa0cfb95fd647b8a56dfe24054b474]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ before the date by which the local authority reasonably considers that the licen
 
 ## Annotations
 
-[^key-83fa0cfb95fd647b8a56dfe24054b474]: Commencement: [S. 133](https://www.legislation.gov.uk/asp/2006/1/section/133) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-83fa0cfb95fd647b8a56dfe24054b474]: Commencement: [S. 133](https://www.legislation.gov.uk/asp/2006/1/section/133) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

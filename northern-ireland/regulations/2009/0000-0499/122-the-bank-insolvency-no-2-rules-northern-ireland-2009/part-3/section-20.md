@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Appointment of provisional bank liquidator[^key-401ef01762e8a6f8c8d8bb2a3e2550fb]
+## 20. Appointment of provisional bank liquidator[^c-401ef01762e8a6f8c8d8bb2a3e2550fb]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) An application to the court for the appointment of a provisional bank liquidator under Article 115 of the Order may be made—
 
 - (a) by the Bank of England;
-- (b)[^key-f5529eff5ba3f8d8d1d56b3ca5737241] by the Financial Conduct Authority, with the consent of the Bank of England;
+- (b)[^c-f5529eff5ba3f8d8d1d56b3ca5737241] by the Financial Conduct Authority, with the consent of the Bank of England;
 - (ba) if the bank is a PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), by the Prudential Regulation Authority, with the consent of the Bank of England; or
 - (c) by the Department.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-401ef01762e8a6f8c8d8bb2a3e2550fb]: Commencement: Rule 20 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-401ef01762e8a6f8c8d8bb2a3e2550fb]: Commencement: Rule 20 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
-[^key-f5529eff5ba3f8d8d1d56b3ca5737241]: Textual amendment: [Rule 20(2)(b)(ba)](https://www.legislation.gov.uk/nisr/2009/122/rule/20/2/b/ba) substituted for rule 20(2)(b) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 154(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/154/d)
+[^c-f5529eff5ba3f8d8d1d56b3ca5737241]: Textual amendment: [Rule 20(2)(b)(ba)](https://www.legislation.gov.uk/nisr/2009/122/rule/20/2/b/ba) substituted for rule 20(2)(b) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 154(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/154/d)

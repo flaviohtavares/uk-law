@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. OFCOM’s reports[^key-4e688894b64ba45e47987a355320d3aa][^key-cf8831fa1ffbaf455e155b4d3a1167a2]
+## 164. OFCOM’s reports[^c-4e688894b64ba45e47987a355320d3aa][^c-cf8831fa1ffbaf455e155b4d3a1167a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e688894b64ba45e47987a355320d3aa]: Commencement: S. 164 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-4e688894b64ba45e47987a355320d3aa]: Commencement: S. 164 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-cf8831fa1ffbaf455e155b4d3a1167a2]: Commencement: S. 164 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-cf8831fa1ffbaf455e155b4d3a1167a2]: Commencement: S. 164 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

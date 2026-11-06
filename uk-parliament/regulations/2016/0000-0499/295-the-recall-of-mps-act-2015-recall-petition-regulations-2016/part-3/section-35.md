@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Correction of errors during the signing period[^key-e98e23883f032c95af481377f76f3280]
+## 35. Correction of errors during the signing period[^c-e98e23883f032c95af481377f76f3280]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The petition clerk must keep a list of persons to whom signing sheets are delive
 
 ## Annotations
 
-[^key-e98e23883f032c95af481377f76f3280]: Commencement: Reg. 35 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-e98e23883f032c95af481377f76f3280]: Commencement: Reg. 35 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

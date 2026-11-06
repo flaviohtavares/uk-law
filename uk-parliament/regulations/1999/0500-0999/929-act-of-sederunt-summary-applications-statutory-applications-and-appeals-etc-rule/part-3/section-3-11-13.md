@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.13. Prescribed officer[^key-9446e2851a54d860f01d8c8ff096db00]
+## 3.11.13. Prescribed officer[^c-9446e2851a54d860f01d8c8ff096db00]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The sheriff clerk shall be the prescribed officer for the purposes of sections 1
 
 ## Annotations
 
-[^key-9446e2851a54d860f01d8c8ff096db00]: Commencement: Rule 3.11.13 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-9446e2851a54d860f01d8c8ff096db00]: Commencement: Rule 3.11.13 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

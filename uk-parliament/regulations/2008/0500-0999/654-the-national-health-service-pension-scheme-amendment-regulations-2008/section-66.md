@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Amendment of Schedule 2A[^key-67de788f3cccaac24ccbd34f8ce686ff][^M_F_32adb1c2-77e4-4aab-c1ee-313a4dab0d5a]
+## 66. Amendment of Schedule 2A[^c-67de788f3cccaac24ccbd34f8ce686ff][^M_F_32adb1c2-77e4-4aab-c1ee-313a4dab0d5a]
 
 *Extent: E+W*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-67de788f3cccaac24ccbd34f8ce686ff]: Commencement: Reg. 66 in force at 1.4.2008 but reg. 66(2)(3) has effect from 1.4.2003 in accordance with reg. 1(2), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-67de788f3cccaac24ccbd34f8ce686ff]: Commencement: Reg. 66 in force at 1.4.2008 but reg. 66(2)(3) has effect from 1.4.2003 in accordance with reg. 1(2), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^M_F_32adb1c2-77e4-4aab-c1ee-313a4dab0d5a]: Textual amendment: Regs. 62-66: incorrectly numbered regs. 1-5 following reg. 61 renumbered as regs. 62-66 (31.3.2008) by [The National Health Service Pension Scheme (Correction to Amendment) Regulations 2008 (S.I. 2008/906)](https://www.legislation.gov.uk/uksi/2008/906), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/906/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2008/906/regulation/2/3)
 

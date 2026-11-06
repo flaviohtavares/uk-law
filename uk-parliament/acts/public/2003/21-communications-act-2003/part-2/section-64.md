@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Must-carry obligations[^key-7a03dcc821ddbf8581ccd94945b05814][^key-526a07c475b512cf52a1bdff459dd04e]
+## 64. Must-carry obligations[^c-7a03dcc821ddbf8581ccd94945b05814][^c-526a07c475b512cf52a1bdff459dd04e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,11 +34,11 @@ summary: ''
 - (c) Channel 4 so far as provided in digital form;
 - (d) Channel 5 so far as provided in digital form;
 - (e) S4C Digital;
-- (f)[^key-68072f0af174bb2699638eafa90b7e8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-68072f0af174bb2699638eafa90b7e8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) General conditions making provision authorised by this section in relation to a listed service must, to such extent as OFCOM consider appropriate (and subject to subsection (5))—
 
-- (a) apply the requirement to broadcast or otherwise transmit that service to every service which is an ancillary service by reference to the listed service (including, but not limited to, a service enabling access for disabled end-users)[^key-3abaf348a0d413b8ce16d7fcfb05097c] ; and
+- (a) apply the requirement to broadcast or otherwise transmit that service to every service which is an ancillary service by reference to the listed service (including, but not limited to, a service enabling access for disabled end-users)[^c-3abaf348a0d413b8ce16d7fcfb05097c] ; and
 - (b) provide for the listed service to be treated for the purposes of the conditions as constituting such other services comprised in or provided with that service as may be determined by OFCOM.
 
 (5) General conditions making provision authorised by this section must also comply with all such restrictions (if any) as may be imposed by order made by the Secretary of State as to the maximum and minimum amounts, or proportions, of available capacity that are to be required by such conditions to be used in the case of a network for the broadcasting or other transmission of particular services, or descriptions of service.
@@ -85,10 +85,10 @@ are to be the terms on which the service is to be broadcast or otherwise transmi
 
 ## Annotations
 
-[^key-7a03dcc821ddbf8581ccd94945b05814]: Commencement: S. 64 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-7a03dcc821ddbf8581ccd94945b05814]: Commencement: S. 64 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-526a07c475b512cf52a1bdff459dd04e]: Commencement: S. 64 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-526a07c475b512cf52a1bdff459dd04e]: Commencement: S. 64 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-68072f0af174bb2699638eafa90b7e8a]: Textual amendment: [S. 64(3)(f)](https://www.legislation.gov.uk/ukpga/2003/21/section/64/3/f) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/24); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-68072f0af174bb2699638eafa90b7e8a]: Textual amendment: [S. 64(3)(f)](https://www.legislation.gov.uk/ukpga/2003/21/section/64/3/f) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/24); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
 
-[^key-3abaf348a0d413b8ce16d7fcfb05097c]: Textual amendment: Words in s. 64(4)(a) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/34) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-3abaf348a0d413b8ce16d7fcfb05097c]: Textual amendment: Words in s. 64(4)(a) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/34) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

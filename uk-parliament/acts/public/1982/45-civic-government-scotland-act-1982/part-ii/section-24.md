@@ -28,7 +28,7 @@ summary: ''
 
 - (a) the business of a pawnbroker (that is to say, a person who, under a regulated agreement under the [^c13373111]Consumer Credit Act 1974, takes an article in pawn);
 - (b) a business as a wholesale dealer purchasing exclusively from second-hand dealers licensed under this Act;
-- (c)[^key-f96591fc9904fd7a04b26977cdd109d4] the business of a charity (that is to say, a body which is entered in the Scottish Charity Register);
+- (c)[^c-f96591fc9904fd7a04b26977cdd109d4] the business of a charity (that is to say, a body which is entered in the Scottish Charity Register);
 - (d) a business as a dealer in second-hand goods or articles incidentally to another business not being that of a dealer in such goods or articles;
 - (e) a business either of financing the acquisition of goods by means of hire-purchase agreements, conditional sale agreements or credit sale agreements (as defined in section 189(1) of the [^c13373121]Consumer Credit Act 1974) or of financing the use of goods by means of hiring agreements.
 
@@ -49,7 +49,7 @@ summary: ''
 
 [^c13373111]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-f96591fc9904fd7a04b26977cdd109d4]: Textual amendment: S. 24(3)(c) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [sch. 4 para. 5(a)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/5/a); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-f96591fc9904fd7a04b26977cdd109d4]: Textual amendment: S. 24(3)(c) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [sch. 4 para. 5(a)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/5/a); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
 [^c13373121]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 

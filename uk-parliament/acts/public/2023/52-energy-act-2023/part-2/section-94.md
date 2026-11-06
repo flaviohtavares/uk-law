@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Regulations under section 92(1): procedure with devolved authorities[^key-bc69942ec0eeccc69954be0cce84b487]
+## 94. Regulations under section 92(1): procedure with devolved authorities[^c-bc69942ec0eeccc69954be0cce84b487]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ and references to provision being within devolved competence are to provision th
 
 ## Annotations
 
-[^key-bc69942ec0eeccc69954be0cce84b487]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2023/52/section/94) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-bc69942ec0eeccc69954be0cce84b487]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2023/52/section/94) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

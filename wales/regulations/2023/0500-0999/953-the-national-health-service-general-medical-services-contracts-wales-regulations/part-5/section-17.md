@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Unified services[^key-eab4f88bfe838966e9d40212657164c5]
+## 17. Unified services[^c-eab4f88bfe838966e9d40212657164c5]
 
 *Extent: E+W*
 
-(1) For the purposes of section 43(1) of the Act (requirement to provide certain primary medical services), the services which must, except in circumstances where regulation 18(7) or paragraph 124 of Schedule 3 applies, be provided under a GMS[^key-fd2a6a661233eaeb107fe7927faa2ac0] contract (“unified services”) are the services described in paragraphs (3), (5), (6), (7) and (9), and Schedule 2, during the periods[^key-7dc880b47ac97d72f9ae5fdfa6ca1485] specified in paragraph (2).
+(1) For the purposes of section 43(1) of the Act (requirement to provide certain primary medical services), the services which must, except in circumstances where regulation 18(7) or paragraph 124 of Schedule 3 applies, be provided under a GMS[^c-fd2a6a661233eaeb107fe7927faa2ac0] contract (“unified services”) are the services described in paragraphs (3), (5), (6), (7) and (9), and Schedule 2, during the periods[^c-7dc880b47ac97d72f9ae5fdfa6ca1485] specified in paragraph (2).
 
-(2) The periods[^key-25a93c3636f515f1e75a19f9563d472d] specified in this paragraph are[^key-ebaff8e8555340a42cdb661ffb51f0a5], in the case of—
+(2) The periods[^c-25a93c3636f515f1e75a19f9563d472d] specified in this paragraph are[^c-ebaff8e8555340a42cdb661ffb51f0a5], in the case of—
 
-- (a) paragraphs (3), (5) and (6), at all times within core hours as is appropriate to meet the reasonable needs of the contractor’s[^key-cc5e51ee6fe1f4abda335b3098f1a4ab] patients, and
+- (a) paragraphs (3), (5) and (6), at all times within core hours as is appropriate to meet the reasonable needs of the contractor’s[^c-cc5e51ee6fe1f4abda335b3098f1a4ab] patients, and
 - (b) paragraphs (7) and (9), at all times within core hours.
 
 (3) The services described in this paragraph are services required for the management of a contractor’s registered patients and temporary residents who are or believe themselves to be—
@@ -37,7 +37,7 @@ delivered in the manner determined by the contractor’s practice after consider
 
 (4) For the purposes of paragraph (3)—
 
-- “**disease**” (“***clefyd[^key-766b14029f76d18ad9c8ebf429fb13c0]***”) means a disease included in the list of three-character categories contained in the latest publication of the International Statistical Classification of Diseases and Related Health Problems, and
+- “**disease**” (“***clefyd[^c-766b14029f76d18ad9c8ebf429fb13c0]***”) means a disease included in the list of three-character categories contained in the latest publication of the International Statistical Classification of Diseases and Related Health Problems, and
 - “**management**” (“***rheoli***”) includes—
   - (a) offering consultation and, where appropriate, physical examination for the purpose of identifying the need, if any, for treatment or further investigation, and
   - (b) the making available of such treatment or further investigation as is necessary and appropriate, including the referral of the patient for other services under the Act and liaison with other health care professionals involved in the patient’s treatment and care.
@@ -49,16 +49,16 @@ delivered in the manner determined by the contractor’s practice after consider
 
 together with the provision of the services specified in paragraph (6).
 
-(6) The services specified[^key-f697372c7e619508d620c80fc4610b49] in paragraph (5) are—
+(6) The services specified[^c-f697372c7e619508d620c80fc4610b49] in paragraph (5) are—
 
 - (a) cervical screening services,
 - (b) child health surveillance services,
 - (c) childhood vaccinations and immunisation services,
 - (d) contraceptive services,
-- (e)[^key-e98ff76d668af31e6c8eeb74a4cc54e0] learning disability services,
-- (f)[^key-e6162617eedc1eaa863cdb110abc7f3d] maternity medical services,
-- (g)[^key-060ff2c19698fec3a0a554e6778e9813] minor surgery services, and
-- (h)[^key-da07f8021f12ef7306d9f0e38019546d] vaccination and immunisation services.
+- (e)[^c-e98ff76d668af31e6c8eeb74a4cc54e0] learning disability services,
+- (f)[^c-e6162617eedc1eaa863cdb110abc7f3d] maternity medical services,
+- (g)[^c-060ff2c19698fec3a0a554e6778e9813] minor surgery services, and
+- (h)[^c-da07f8021f12ef7306d9f0e38019546d] vaccination and immunisation services.
 
 (7) The services described in this paragraph are primary medical services required for the immediately necessary treatment of any person to whom the contractor has been requested to provide treatment owing to an accident or emergency at any place in its practice area.
 
@@ -80,26 +80,26 @@ together with the provision of the services specified in paragraph (6).
 
 ## Annotations
 
-[^key-eab4f88bfe838966e9d40212657164c5]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2023/953/regulation/17) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-eab4f88bfe838966e9d40212657164c5]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2023/953/regulation/17) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
 
-[^key-fd2a6a661233eaeb107fe7927faa2ac0]: Textual amendment: Word in reg. 17(1) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [11(a)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/11/a)
+[^c-fd2a6a661233eaeb107fe7927faa2ac0]: Textual amendment: Word in reg. 17(1) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [11(a)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/11/a)
 
-[^key-7dc880b47ac97d72f9ae5fdfa6ca1485]: Textual amendment: Word in [reg. 17(1)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/1) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(10)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/10)
+[^c-7dc880b47ac97d72f9ae5fdfa6ca1485]: Textual amendment: Word in [reg. 17(1)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/1) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(10)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/10)
 
-[^key-25a93c3636f515f1e75a19f9563d472d]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/2) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(11)(a)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/11/a)
+[^c-25a93c3636f515f1e75a19f9563d472d]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/2) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(11)(a)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/11/a)
 
-[^key-ebaff8e8555340a42cdb661ffb51f0a5]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/2) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(11)(b)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/11/b)
+[^c-ebaff8e8555340a42cdb661ffb51f0a5]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/2) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(11)(b)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/11/b)
 
-[^key-cc5e51ee6fe1f4abda335b3098f1a4ab]: Textual amendment: Words in reg. 17(2)(a) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [11(b)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/11/b)
+[^c-cc5e51ee6fe1f4abda335b3098f1a4ab]: Textual amendment: Words in reg. 17(2)(a) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [11(b)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/11/b)
 
-[^key-766b14029f76d18ad9c8ebf429fb13c0]: Textual amendment: Word in reg. 17(4) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [11(c)(i)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/11/c/i)
+[^c-766b14029f76d18ad9c8ebf429fb13c0]: Textual amendment: Word in reg. 17(4) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [11(c)(i)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/11/c/i)
 
-[^key-f697372c7e619508d620c80fc4610b49]: Textual amendment: Word in reg. 17(6) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [11(d)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/11/d)
+[^c-f697372c7e619508d620c80fc4610b49]: Textual amendment: Word in reg. 17(6) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [11(d)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/11/d)
 
-[^key-e98ff76d668af31e6c8eeb74a4cc54e0]: Textual amendment: Words in [reg. 17(6)(e)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/6/e) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(12)(a)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/12/a)
+[^c-e98ff76d668af31e6c8eeb74a4cc54e0]: Textual amendment: Words in [reg. 17(6)(e)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/6/e) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(12)(a)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/12/a)
 
-[^key-e6162617eedc1eaa863cdb110abc7f3d]: Textual amendment: Words in [reg. 17(6)(f)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/6/f) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(12)(b)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/12/b)
+[^c-e6162617eedc1eaa863cdb110abc7f3d]: Textual amendment: Words in [reg. 17(6)(f)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/6/f) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(12)(b)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/12/b)
 
-[^key-060ff2c19698fec3a0a554e6778e9813]: Textual amendment: Words in [reg. 17(6)(g)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/6/g) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(12)(c)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/12/c)
+[^c-060ff2c19698fec3a0a554e6778e9813]: Textual amendment: Words in [reg. 17(6)(g)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/6/g) substituted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(12)(c)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/12/c)
 
-[^key-da07f8021f12ef7306d9f0e38019546d]: Textual amendment: [Reg. 17(6)(h)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/6/h) inserted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(12)(d)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/12/d)
+[^c-da07f8021f12ef7306d9f0e38019546d]: Textual amendment: [Reg. 17(6)(h)](https://www.legislation.gov.uk/wsi/2023/953/regulation/17/6/h) inserted (2.3.2026) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/17)](https://www.legislation.gov.uk/wsi/2026/17), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/17/regulation/1/2), [4(12)(d)](https://www.legislation.gov.uk/wsi/2026/17/regulation/4/12/d)

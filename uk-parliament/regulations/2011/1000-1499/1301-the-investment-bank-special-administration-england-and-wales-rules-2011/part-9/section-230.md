@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 230. Further information and disclosure[^key-49fe81c60390b1ad88876706f9147552]
+## 230. Further information and disclosure[^c-49fe81c60390b1ad88876706f9147552]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49fe81c60390b1ad88876706f9147552]: Commencement: [Rule 230](https://www.legislation.gov.uk/uksi/2011/1301/rule/230) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-49fe81c60390b1ad88876706f9147552]: Commencement: [Rule 230](https://www.legislation.gov.uk/uksi/2011/1301/rule/230) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -22,7 +22,7 @@ summary: ''
 
 Section 188.
 
-### Part I — General[^key-559f32a548316c97a79d4c74e92c6224]
+### Part I — General[^c-559f32a548316c97a79d4c74e92c6224]
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
@@ -64,7 +64,7 @@ Section 188.
 | --- | --- | --- |
 | 1993 c. 48. | The Pension Schemes Act 1993. | Section 118.<br>In section 132, the words “the equal access requirements”.<br>In section 133(1), the words “the equal access requirements”.<br>In section 134, in subsection (3), the words “the equal access requirements” and in subsection (4) the words “or the equal access requirements” and the words from “or as the case may be” onwards.<br>In section 136(2)(e)(iv), the words “or the equal access requirements”.<br>In section 139(2), the words “the equal access requirements”.<br>In section 140(4), paragraph (c) and the word “and” immediately preceding it.<br>Section 153(3) and (4).<br>Section 170((5) and (6).<br>In section 181(1), the definition of “equal access requirements”. |
 
-### Part III — Provisions repealed as respects Great Britain only[^key-b40893f603bf4840a46385b03dec2693]
+### Part III — Provisions repealed as respects Great Britain only[^c-b40893f603bf4840a46385b03dec2693]
 
 *Extent: E+W+S*
 
@@ -75,7 +75,7 @@ Section 188.
 | 1975 c. 60. | The Social Security Pensions Act 1975. | In Schedule 4, paragraph 30. |
 | 1985 c. 53. | The Social Security Act 1985. | In Schedule 5, paragraph 2. |
 
-### Part IV — Subordinate legislation revoked[^key-b40893f603bf4840a46385b03dec2693]
+### Part IV — Subordinate legislation revoked[^c-b40893f603bf4840a46385b03dec2693]
 
 | Number | Short title | Extent of revocation |
 | --- | --- | --- |
@@ -90,6 +90,6 @@ Section 188.
 
 [^c21361701]: Extent: Sch. 5: repealing provisions are co-extensive with the enactments they affect (except Pt. III which does not extend to N.I.), see s. 192(1)
 
-[^key-559f32a548316c97a79d4c74e92c6224]: Commencement: [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1993/48/schedule/5/part/I) in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-559f32a548316c97a79d4c74e92c6224]: Commencement: [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1993/48/schedule/5/part/I) in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-b40893f603bf4840a46385b03dec2693]: Commencement: Sch. 5 Pts. III, IV in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-b40893f603bf4840a46385b03dec2693]: Commencement: Sch. 5 Pts. III, IV in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)

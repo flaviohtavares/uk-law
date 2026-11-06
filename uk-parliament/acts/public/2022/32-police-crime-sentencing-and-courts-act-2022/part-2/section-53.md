@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Power to specify date of attendance at police station for fingerprinting etc[^key-0b21e27b4ee931df37d80cdb938090d4]
+## 53. Power to specify date of attendance at police station for fingerprinting etc[^c-0b21e27b4ee931df37d80cdb938090d4]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b21e27b4ee931df37d80cdb938090d4]: Commencement: S. 53 in force at 28.6.2022, see [s. 208(5)(e)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/e)
+[^c-0b21e27b4ee931df37d80cdb938090d4]: Commencement: S. 53 in force at 28.6.2022, see [s. 208(5)(e)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9B. Determination of rent[^key-1c7796b69e30fc3f8ee43ddf5f1f0e77]
+## 9B. Determination of rent[^c-1c7796b69e30fc3f8ee43ddf5f1f0e77]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ might reasonably be expected to be let on the open market by a willing landlord 
 
 ## Annotations
 
-[^key-1c7796b69e30fc3f8ee43ddf5f1f0e77]: Textual amendment: Ss. 9A-9C inserted (23.12.2016 for specified purposes) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 102(3)](https://www.legislation.gov.uk/asp/2016/18/section/102/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule)
+[^c-1c7796b69e30fc3f8ee43ddf5f1f0e77]: Textual amendment: Ss. 9A-9C inserted (23.12.2016 for specified purposes) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 102(3)](https://www.legislation.gov.uk/asp/2016/18/section/102/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule)

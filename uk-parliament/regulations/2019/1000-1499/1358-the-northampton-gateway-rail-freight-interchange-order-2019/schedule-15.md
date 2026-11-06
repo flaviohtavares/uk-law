@@ -22,7 +22,7 @@ summary: ''
 
 Articles 1 and 4
 
-**1.**[^key-13c85fcfea27572fde95dcd54fc0cd13] The Sustainable Transport Working Group (“STWG”) will comprise representatives of—
+**1.**[^c-13c85fcfea27572fde95dcd54fc0cd13] The Sustainable Transport Working Group (“STWG”) will comprise representatives of—
 
 - (a) the undertaker, who will normally take the Chair;
 - (b) the local highway authority;
@@ -33,7 +33,7 @@ Articles 1 and 4
 
 except that if at the time the STWG is constituted or any time thereafter a unitary authority is stablished then paragraphs (b) and (c) will be replaced by both a highway representative and a planning representative of the unitary authority.
 
-**2.**[^key-92dce5e756666230912463d83bcdc348] The role of the STWG will be—
+**2.**[^c-92dce5e756666230912463d83bcdc348] The role of the STWG will be—
 
 - (a) to oversee the delivery of the framework travel plan and the public transport strategy;
 - (b) to review the public transport services serving the authorised development in light of levels of usage and timing of provision with the objective of maximising usage as set out in the public transport strategy;
@@ -42,7 +42,7 @@ except that if at the time the STWG is constituted or any time thereafter a unit
 - (e) to consider all occupier-specific travel plans submitted pursuant to requirement 4(2) (sustainable transport) and to advise the relevant planning authority on their consistency with, and support for, the agreed measures and targets in the framework travel plan and public transport strategy; and
 - (f) to participate in any reviews of the framework travel plan and the public transport strategy.
 
-**3.**[^key-4222bc36303732f950bb4cccb805e1b6] (1) The STWG will be administered by the undertaker in accordance with the following protocol.
+**3.**[^c-4222bc36303732f950bb4cccb805e1b6] (1) The STWG will be administered by the undertaker in accordance with the following protocol.
 
 (2) Meetings of the STWG will be convened, administered and serviced by the area-wide Travel Plan Co-ordinator appointed under the provisions of the framework travel plan.
 
@@ -58,9 +58,9 @@ except that if at the time the STWG is constituted or any time thereafter a unit
 
 (8) The STWG will at all times be free to consult with other relevant authorities and bodies and will at the election of any member be at liberty to invite persons to attend meetings in a non-voting capacity.
 
-**4.**[^key-02d43070612d853a10933e4148892fac] Decisions of the STWG are to be taken on a majority vote with each voting member of the STWG present having a single vote. In the event of a vote causing an impasse, or if any of the voting members disagree with the decision made and wish it to be reviewed, the decision (the “disputed decision”) will be reviewed using the decision review mechanism set out in paragraph 5.
+**4.**[^c-02d43070612d853a10933e4148892fac] Decisions of the STWG are to be taken on a majority vote with each voting member of the STWG present having a single vote. In the event of a vote causing an impasse, or if any of the voting members disagree with the decision made and wish it to be reviewed, the decision (the “disputed decision”) will be reviewed using the decision review mechanism set out in paragraph 5.
 
-**5.**[^key-940115c6a0949d599b98b637195c6208] (1) In the event of any disputed decision of the STWG being subject to review as provided by paragraph 4 the following protocol applies.
+**5.**[^c-940115c6a0949d599b98b637195c6208] (1) In the event of any disputed decision of the STWG being subject to review as provided by paragraph 4 the following protocol applies.
 
 (2) The voting members involved in the disputed decision (“the relevant members”) will attempt to resolve the matter and reach agreement on the disputed decision if possible without delay.
 
@@ -83,12 +83,12 @@ except that if at the time the STWG is constituted or any time thereafter a unit
 
 ## Annotations
 
-[^key-13c85fcfea27572fde95dcd54fc0cd13]: Commencement: Sch. 15 para. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-13c85fcfea27572fde95dcd54fc0cd13]: Commencement: Sch. 15 para. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-92dce5e756666230912463d83bcdc348]: Commencement: Sch. 15 para. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-92dce5e756666230912463d83bcdc348]: Commencement: Sch. 15 para. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-4222bc36303732f950bb4cccb805e1b6]: Commencement: Sch. 15 para. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-4222bc36303732f950bb4cccb805e1b6]: Commencement: Sch. 15 para. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-02d43070612d853a10933e4148892fac]: Commencement: Sch. 15 para. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-02d43070612d853a10933e4148892fac]: Commencement: Sch. 15 para. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-940115c6a0949d599b98b637195c6208]: Commencement: Sch. 15 para. 5 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-940115c6a0949d599b98b637195c6208]: Commencement: Sch. 15 para. 5 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

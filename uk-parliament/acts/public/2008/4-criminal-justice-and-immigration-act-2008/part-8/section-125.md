@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Parenting contracts and parenting orders: local authorities[^key-405f434510463a7e403323af2a3c828c]
+## 125. Parenting contracts and parenting orders: local authorities[^c-405f434510463a7e403323af2a3c828c]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-405f434510463a7e403323af2a3c828c]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2008/4/section/125) in force at 1.4.2009 by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/b)
+[^c-405f434510463a7e403323af2a3c828c]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2008/4/section/125) in force at 1.4.2009 by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/b)

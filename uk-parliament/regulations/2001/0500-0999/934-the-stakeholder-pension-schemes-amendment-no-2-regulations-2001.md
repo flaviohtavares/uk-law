@@ -505,7 +505,7 @@ In regulation 8(6) (requirement applying to all stakeholder pension schemes as r
 
 .
 
-## 14. Amendment of regulation 22[^key-35b685c469b1c07bf9fa2b1816416e01]
+## 14. Amendment of regulation 22[^c-35b685c469b1c07bf9fa2b1816416e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -737,7 +737,7 @@ These Regulations are the second set of amendments to the Stakeholder Pension Sc
 
 [^c1591858]: Marginal citation: [Section 97](https://www.legislation.gov.uk/uksi/2001/934/section/97) was amended by section 173 of, and paragraph 4 of Schedule 6 to, the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26) and by section 56 of, and paragraph 8(1) of Schedule 5 to, the [Child Support, Pensions and Social Security Act 2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-35b685c469b1c07bf9fa2b1816416e01]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2001/934/regulation/14) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2013/459/regulation/10/b)
+[^c-35b685c469b1c07bf9fa2b1816416e01]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2001/934/regulation/14) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2013/459/regulation/10/b)
 
 [^c1591859]: Marginal citation: [Section 124](https://www.legislation.gov.uk/uksi/2001/934/section/124) was amended by sections 18 and 84 of, and paragraph 18 of Schedule 2 and paragraph 61 of Schedule 12 to, the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), and by section 56 of, and paragraph 8(3) of Schedule 5 to, the [Child Support, Pensions and Social Security Act 2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
 

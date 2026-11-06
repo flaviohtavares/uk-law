@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Other exchange of information[^key-5391dcde7065d38af1dc30fc0878a325]
+## 30. Other exchange of information[^c-5391dcde7065d38af1dc30fc0878a325]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
 
 (8) This section is subject to section 352.
 
-(9)[^key-523960b23b856a99c6aca2dbf188644c] Nothing in this section authorises—
+(9)[^c-523960b23b856a99c6aca2dbf188644c] Nothing in this section authorises—
 
 - (a) the Commission to provide to the Commissioners for Her Majesty’s Revenue and Customs information received by it in the exercise of its national lottery functions, or
 - (b) the Commissioners for Her Majesty’s Revenue and Customs to provide information to the Commission for use in the exercise of its national lottery functions;
@@ -51,6 +51,6 @@ and for these purposes “national lottery functions” has the meaning given by
 
 ## Annotations
 
-[^key-5391dcde7065d38af1dc30fc0878a325]: Commencement: S. 30 in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-5391dcde7065d38af1dc30fc0878a325]: Commencement: S. 30 in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
 
-[^key-523960b23b856a99c6aca2dbf188644c]: Textual amendment: [S. 30(9)](https://www.legislation.gov.uk/ukpga/2005/19/section/30/9) inserted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/12) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-523960b23b856a99c6aca2dbf188644c]: Textual amendment: [S. 30(9)](https://www.legislation.gov.uk/ukpga/2005/19/section/30/9) inserted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/12) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))

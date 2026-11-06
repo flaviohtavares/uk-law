@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## PART 1 — SCHOOL EDUCATION
 
-### 1. Pupils experiencing inequalities of outcome[^key-d7ceabab3b3a68a8d706b23ed4982f48][^key-050c949e6db8977f0d0d49b1f07240e2]
+### 1. Pupils experiencing inequalities of outcome[^c-d7ceabab3b3a68a8d706b23ed4982f48][^c-050c949e6db8977f0d0d49b1f07240e2]
 
 After section 3 of the Standards in Scotland's Schools etc. Act 2000 insert—
 
@@ -80,9 +80,9 @@ After section 3 of the Standards in Scotland's Schools etc. Act 2000 insert—
 
 ### 2. National Improvement Framework
 
-(1)[^key-61af0347fc6e72d7b3902f0136cc01fb][^key-39fa05e8cbba07568accaeb137c1cb0e] The Standards in Scotland's Schools etc. Act 2000 is amended as follows.
+(1)[^c-61af0347fc6e72d7b3902f0136cc01fb][^c-39fa05e8cbba07568accaeb137c1cb0e] The Standards in Scotland's Schools etc. Act 2000 is amended as follows.
 
-(2)[^key-61af0347fc6e72d7b3902f0136cc01fb][^key-39fa05e8cbba07568accaeb137c1cb0e] After section 3B (inserted by section 1) insert—
+(2)[^c-61af0347fc6e72d7b3902f0136cc01fb][^c-39fa05e8cbba07568accaeb137c1cb0e] After section 3B (inserted by section 1) insert—
 
 > **3C. National Improvement Framework**
 >
@@ -116,12 +116,12 @@ After section 3 of the Standards in Scotland's Schools etc. Act 2000 insert—
 
 .
 
-(3)[^key-bcf95782256d4298daf8cde9121e0582] Sections 4 (national priorities in education) and 5 (education authority's annual statement of improvement objectives) are repealed.
+(3)[^c-bcf95782256d4298daf8cde9121e0582] Sections 4 (national priorities in education) and 5 (education authority's annual statement of improvement objectives) are repealed.
 
 (4) In section 58(1) (interpretation)—
 
-- (a)[^key-be8f75bb0b91687f1b58d1a23a0d8ca2] the definitions of “annual statement of education improvement objectives” and “national priorities in education” are repealed, and
-- (b)[^key-cd5b7b868720237c9b79092340700f2d] after the definition of “moveable property” insert—
+- (a)[^c-be8f75bb0b91687f1b58d1a23a0d8ca2] the definitions of “annual statement of education improvement objectives” and “national priorities in education” are repealed, and
+- (b)[^c-cd5b7b868720237c9b79092340700f2d] after the definition of “moveable property” insert—
 
   > “**National Improvement Framework**” has the meaning given by subsection (1) of section 3C; and includes (except in that subsection) a new National Improvement Framework published under subsection (6) of that section;
 
@@ -129,9 +129,9 @@ After section 3 of the Standards in Scotland's Schools etc. Act 2000 insert—
 
 ### 3. Plans and reports
 
-(1)[^key-68178748d619b6a26f24780514975e0d][^key-5bf8045495ef94354dfd616ffe5ef1a8] The Standards in Scotland's Schools etc. Act 2000 is amended as follows.
+(1)[^c-68178748d619b6a26f24780514975e0d][^c-5bf8045495ef94354dfd616ffe5ef1a8] The Standards in Scotland's Schools etc. Act 2000 is amended as follows.
 
-(2)[^key-68178748d619b6a26f24780514975e0d][^key-5bf8045495ef94354dfd616ffe5ef1a8] After section 3D (inserted by section 2) insert—
+(2)[^c-68178748d619b6a26f24780514975e0d][^c-5bf8045495ef94354dfd616ffe5ef1a8] After section 3D (inserted by section 2) insert—
 
 > **3E. Annual plan: Scottish Ministers**
 >
@@ -205,16 +205,16 @@ After section 3 of the Standards in Scotland's Schools etc. Act 2000 insert—
 
 .
 
-(3)[^key-652a86fc6bc574ab66483dbee689869e] In the title of section 6, for “development” substitute “ improvement ”.
+(3)[^c-652a86fc6bc574ab66483dbee689869e] In the title of section 6, for “development” substitute “ improvement ”.
 
-(4)[^key-652a86fc6bc574ab66483dbee689869e] In section 6 (school improvement plans)—
+(4)[^c-652a86fc6bc574ab66483dbee689869e] In section 6 (school improvement plans)—
 
 - (a) in subsection (1)(a)—
   - (i) for “a development” substitute “ an improvement ”, and
   - (ii) for the words from “objectives”, where it first occurs, to “objectives”, where it second occurs, substitute “ authority's plan (or revised plan) under section 3F, report under section 3H and strategy for parental involvement ”, and
 - (b) in each of subsections (1)(b) and (3) to (6), for “development”, wherever it occurs, substitute “ improvement ”.
 
-(5)[^key-652a86fc6bc574ab66483dbee689869e] In section 7 (review of school performance), after subsection (1), insert—
+(5)[^c-652a86fc6bc574ab66483dbee689869e] In section 7 (review of school performance), after subsection (1), insert—
 
 > (1A) In defining measures and standards of performance for the purposes of subsection (1), an education authority must take into account—
 >
@@ -223,14 +223,14 @@ After section 3 of the Standards in Scotland's Schools etc. Act 2000 insert—
 
 .
 
-(6)[^key-652a86fc6bc574ab66483dbee689869e] In section 8(2)(a) (preparation of school improvement plan delegated to headteacher), for “development” substitute “ improvement ”.
+(6)[^c-652a86fc6bc574ab66483dbee689869e] In section 8(2)(a) (preparation of school improvement plan delegated to headteacher), for “development” substitute “ improvement ”.
 
-(7)[^key-652a86fc6bc574ab66483dbee689869e] In section 58(1) (interpretation), in the definition of “school development plan”—
+(7)[^c-652a86fc6bc574ab66483dbee689869e] In section 58(1) (interpretation), in the definition of “school development plan”—
 
 - (a) for “development”, where it first occurs, substitute “ improvement ”, and
 - (b) for “a development” substitute “ an improvement ”.
 
-### 4. Guidance[^key-68ee973582c7f7e91257db72ec002de6]
+### 4. Guidance[^c-68ee973582c7f7e91257db72ec002de6]
 
 In section 13 of the Standards in Scotland's Schools etc. Act 2000 (guidance to education authorities)––
 
@@ -246,7 +246,7 @@ In section 13 of the Standards in Scotland's Schools etc. Act 2000 (guidance to 
 
   .
 
-### 5. Duties in relation to promotion of health[^key-668a8cbc3ef6c2b15286cbe49567bbfb]
+### 5. Duties in relation to promotion of health[^c-668a8cbc3ef6c2b15286cbe49567bbfb]
 
 In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in relation to promotion of health), after subsection (4) insert—
 
@@ -258,7 +258,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 
 .
 
-### 6. Parental involvement[^key-bc1efaea2b73b49bd7ac8a932eccbedb]
+### 6. Parental involvement[^c-bc1efaea2b73b49bd7ac8a932eccbedb]
 
 (1) The Scottish Schools (Parental Involvement) Act 2006 is amended as follows.
 
@@ -284,9 +284,9 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 
 .
 
-## PART 2 — Gaelic education[^key-26d0c10ae180c36836b4ce1d560dd7c0]
+## PART 2 — Gaelic education[^c-26d0c10ae180c36836b4ce1d560dd7c0]
 
-### Functions of Scottish Ministers[^key-09202826501f06615d4837438fbd682e]
+### Functions of Scottish Ministers[^c-09202826501f06615d4837438fbd682e]
 
 #### 6A. Duty of Scottish Ministers to promote Gaelic education
 
@@ -299,7 +299,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 
 (2) The Scottish Ministers must in particular promote, facilitate and support the provision of adequate education resources in the Gaelic language for use in school education by teachers and pupils.
 
-#### 6B. Standards relating to Gaelic education[^key-36fdbbd435eaf1a8f0dcdb3c4089a96a]
+#### 6B. Standards relating to Gaelic education[^c-36fdbbd435eaf1a8f0dcdb3c4089a96a]
 
 (1) The Scottish Ministers may by regulations specify the standards and requirements to which an education authority must conform in discharging its functions—
 
@@ -313,7 +313,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 - (a) Bòrd na Gàidhlig,
 - (b) education authorities,
 - (c) the body known as Comann nam Pàrant (Nàiseanta),
-- (d)[^key-20f021ddfec677201e4321df211e3f6b] His Majesty’s Chief Inspector of Education in Scotland,
+- (d)[^c-20f021ddfec677201e4321df211e3f6b] His Majesty’s Chief Inspector of Education in Scotland,
 - (e) the General Teaching Council for Scotland,
 - (f) persons with an interest in the promotion of the Gaelic language and Gaelic culture,
 - (g) persons with an interest in the publication of books and other resources in the Gaelic language, and
@@ -321,7 +321,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 
 (4) The Scottish Ministers must publish the results of the consultation undertaken under subsection (3).
 
-#### 6C. Guidance to public authorities relating to Gaelic education[^key-fbef1e15de910c0f4b6df676f9544523]
+#### 6C. Guidance to public authorities relating to Gaelic education[^c-fbef1e15de910c0f4b6df676f9544523]
 
 (1) The Scottish Ministers must give guidance to Scottish public authorities relating to—
 
@@ -340,7 +340,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 
 (4) The Scottish Ministers must publish any guidance given under subsection (1).
 
-#### 6D. Production of school education resources in Gaelic[^key-e883c14bf5ed5028c7bc969ea04d5330]
+#### 6D. Production of school education resources in Gaelic[^c-e883c14bf5ed5028c7bc969ea04d5330]
 
 (1) When the Scottish Ministers produce any information, guidance or documents in the English language for use in school education by teachers or pupils, they must consider whether also to produce that material in the Gaelic language.
 
@@ -359,7 +359,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 
 ### Assessments: primary education
 
-#### 7. Assessment requests[^key-5498c750339f06a70ec63873c243395c][^key-cc070a118731078a5c3b8b121ab31372]
+#### 7. Assessment requests[^c-5498c750339f06a70ec63873c243395c][^c-cc070a118731078a5c3b8b121ab31372]
 
 (1) A person who is the parent of a child who is under school age and has not commenced attendance at a primary school may request the education authority in whose area the child is resident to assess the need for Gaelic medium primary education (in this Part, “GMPE”).
 
@@ -385,7 +385,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 - (b) information (including evidence in addition to that mentioned in subsection (2)) that is to be set out in, or accompany, the request,
 - (c) evidence as mentioned in subsections (2) and (3).
 
-#### 8. GMPE assessment areas[^key-d86d34db61a9829f82cd78a4a6cd8efa]
+#### 8. GMPE assessment areas[^c-d86d34db61a9829f82cd78a4a6cd8efa]
 
 (1) This section applies where an education authority receives a request under section 7(1).
 
@@ -402,11 +402,11 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 
 (5) In taking those factors into account, the authority must have regard in particular to—
 
-- (a) any guidance under section 9 of the Gaelic Language (Scotland) Act 2005 *(affected by repeal, see note)*[^key-8b6fa9dc7c6e2d7ab99cc4411e51ec53] 6C,
+- (a) any guidance under section 9 of the Gaelic Language (Scotland) Act 2005 *(affected by repeal, see note)*[^c-8b6fa9dc7c6e2d7ab99cc4411e51ec53] 6C,
 - (b) accessibility in relation to the provision (or potential provision) of GMPE in the GMPE assessment area, and
 - (c) the residence of children who are under school age and have not commenced attendance at a primary school in respect of whom there is a demand for GMPE as mentioned in subsection (4)(a).
 
-#### 9. Initial assessments[^key-29db74d85e28de60a9eab6b05d091970]
+#### 9. Initial assessments[^c-29db74d85e28de60a9eab6b05d091970]
 
 (1) This section applies where an education authority receives a request under section 7(1) from the parent of a specified child.
 
@@ -436,13 +436,13 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 (7) The Scottish Ministers may by regulations—
 
 - (a) amend subsection (6) so as to substitute for the number of children for the time being specified there a different number,
-- (b) provide for the number of children for the time being specified in that subsection to be read as a different number in the application of that subsection to such areas of education authorities, or such parts of those areas,[^key-c85b52fbfa684ca3d3c6d092262365ec] as may be specified in the regulations.
+- (b) provide for the number of children for the time being specified in that subsection to be read as a different number in the application of that subsection to such areas of education authorities, or such parts of those areas,[^c-c85b52fbfa684ca3d3c6d092262365ec] as may be specified in the regulations.
 
-(7A)[^key-eb9247cfc8296dcfb0a022353029d304] Where the number specified in subsection (6) is to be read as a different number for different parts of a GMPE assessment area by virtue of regulations made under subsection (7)(b), the lowest number is to be read as applying to the whole of the GMPE assessment area.
+(7A)[^c-eb9247cfc8296dcfb0a022353029d304] Where the number specified in subsection (6) is to be read as a different number for different parts of a GMPE assessment area by virtue of regulations made under subsection (7)(b), the lowest number is to be read as applying to the whole of the GMPE assessment area.
 
 (8) This section is subject to section 11.
 
-#### 10. Duties of education authority[^key-695a1ef454333ee3a41dc59c3dee4b8a]
+#### 10. Duties of education authority[^c-695a1ef454333ee3a41dc59c3dee4b8a]
 
 (1) Where an education authority makes a determination under section 9(5)(a) in relation to a GMPE assessment area, the authority must—
 
@@ -476,7 +476,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 
 (6) For the purposes of complying with the duty imposed by subsection (1)(b) or (2)(c), the authority must ensure that the GMPE is provided in the GMPE assessment area within such period after making the determination as is reasonable in all the circumstances.
 
-#### 11. Requests that need not be considered[^key-b9ed599206e187506f5892222a06b9ce]
+#### 11. Requests that need not be considered[^c-b9ed599206e187506f5892222a06b9ce]
 
 (1) Subsection (2) applies where—
 
@@ -496,7 +496,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 
 (4) Despite subsection (2), the Scottish Ministers may, in such cases as they consider appropriate, direct an education authority to comply with the duty imposed by section 9(2) in relation to the further request.
 
-#### 12. Full assessments[^key-696f58f58930aa97d25d030450720552]
+#### 12. Full assessments[^c-696f58f58930aa97d25d030450720552]
 
 (1) This section applies where an education authority—
 
@@ -514,7 +514,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 
 (3) The persons are—
 
-- (a)[^key-6c4f0c500056940d4c178fdaa93a1b5e] His Majesty’s Chief Inspector of Education in Scotland,
+- (a)[^c-6c4f0c500056940d4c178fdaa93a1b5e] His Majesty’s Chief Inspector of Education in Scotland,
 - (b) Bòrd na Gàidhlig,
 - (c) the body known as Comann nam Pàrant,
 - (d) the body known as the National Parent Forum of Scotland.
@@ -529,7 +529,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 (6) In making a decision under subsection (5), the education authority must have regard to—
 
 - (a) views provided by virtue of subsection (2)(d) before the end of the period of 4 weeks beginning with the day on which the views are sought,
-- (b) any guidance under section 9 of the Gaelic Language (Scotland) Act 2005 *(affected by repeal, see note)*[^key-3fefd805690ee4d3d8aeef1465194960] 6C,
+- (b) any guidance under section 9 of the Gaelic Language (Scotland) Act 2005 *(affected by repeal, see note)*[^c-3fefd805690ee4d3d8aeef1465194960] 6C,
 - (c) information that the education authority took into account in making an initial assessment under section 9(2),
 - (d) in relation to the demand for GMPE mentioned in section 9(3) from parents of children, where those children reside,
 - (e) any information the education authority has relating to the demand for GMPE in the area of the authority from parents of children who are under school age and have not commenced attendance at a primary school,
@@ -553,7 +553,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 - (b) modify subsection (6) so as to amend, remove or add to the matters for the time being mentioned in that subsection,
 - (c) make such other modifications of this section as the Scottish Ministers think necessary or expedient in consequence of any modification of subsection (3).
 
-#### 13. Procedure following full assessment[^key-f0169196a7d11b13c435767eed5899db]
+#### 13. Procedure following full assessment[^c-f0169196a7d11b13c435767eed5899db]
 
 (1) This section applies where an education authority has carried out a full assessment of the need for GMPE in a GMPE assessment area in accordance with section 12.
 
@@ -581,7 +581,7 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
 
 ### Early learning and childcare
 
-#### 14. Power to extend Part to early learning and childcare[^key-c902852f77e358f351abf7ddf980e398]
+#### 14. Power to extend Part to early learning and childcare[^c-c902852f77e358f351abf7ddf980e398]
 
 (1) The Scottish Ministers may by regulations make such provision as they consider necessary or expedient for or in connection with the purpose mentioned in subsection (2).
 
@@ -596,9 +596,9 @@ In section 2A of the Standards in Scotland's Schools etc. Act 2000 (duties in re
   - (i) with such modifications as may be specified in the regulations, or
   - (ii) without modifications.
 
-### Promotion by education authorities of Gaelic education[^key-316cd510da34ee3d968f74cef061bf84]
+### Promotion by education authorities of Gaelic education[^c-316cd510da34ee3d968f74cef061bf84]
 
-#### 14A. Duty to promote Gaelic education in exercising functions under the 1980 Act[^key-eb0bfbaf9c3869de2da8de8d37fc6cb4]
+#### 14A. Duty to promote Gaelic education in exercising functions under the 1980 Act[^c-eb0bfbaf9c3869de2da8de8d37fc6cb4]
 
 In exercising its functions under Parts 1 and 2 of the 1980 Act, an education authority must—
 
@@ -608,7 +608,7 @@ In exercising its functions under Parts 1 and 2 of the 1980 Act, an education au
   - (iii) the teaching of the Gaelic language in its provision of further education,
 - (b) have regard to the needs and interests of all pupils and prospective pupils who are receiving, or who wish to receive, Gaelic learner education or Gaelic medium education.
 
-#### 15. Duty to promote and support Gaelic medium education and learning[^key-4cb3e5e96fb4457973d986d9698d2bff]
+#### 15. Duty to promote and support Gaelic medium education and learning[^c-4cb3e5e96fb4457973d986d9698d2bff]
 
 (1) Every education authority must promote the potential provision of school education in the area of the authority—
 
@@ -643,53 +643,53 @@ In exercising its functions under Parts 1 and 2 of the 1980 Act, an education au
 
 - (a) take reasonable steps to ensure that teachers in any class where the education is provided have such resources, training and opportunities as are reasonably necessary to adequately and effectively provide the education,
 - (b) take reasonable steps to ensure that pupils in any such class have such resources as are reasonably necessary to adequately and effectively receive and benefit from the education, and
-- (c) have regard to any guidance under section 9 of the Gaelic Language (Scotland) Act 2005 *(affected by repeal, see note)*[^key-8762906c2815abe7e38204f7f8757c93] 6C.
+- (c) have regard to any guidance under section 9 of the Gaelic Language (Scotland) Act 2005 *(affected by repeal, see note)*[^c-8762906c2815abe7e38204f7f8757c93] 6C.
 
-#### 16. Guidance (affected by repeal, see note)[^key-1807225e1fd605e9512712f450cbafbd][^key-c404a16d3ca94770693ed65f8a4092a4][^key-c404a16d3ca94770693ed65f8a4092a4]
+#### 16. Guidance (affected by repeal, see note)[^c-1807225e1fd605e9512712f450cbafbd][^c-c404a16d3ca94770693ed65f8a4092a4][^c-c404a16d3ca94770693ed65f8a4092a4]
 
-(1) Section 9 of the Gaelic Language (Scotland) Act 2005 (guidance on Gaelic education) is amended as follows. *(affected by repeal, see note)*[^key-c404a16d3ca94770693ed65f8a4092a4]
+(1) Section 9 of the Gaelic Language (Scotland) Act 2005 (guidance on Gaelic education) is amended as follows. *(affected by repeal, see note)*[^c-c404a16d3ca94770693ed65f8a4092a4]
 
-(2) In subsection (1), for “may” substitute *(affected by repeal, see note)*[^key-c404a16d3ca94770693ed65f8a4092a4] “ must ” *(affected by repeal, see note)*[^key-c404a16d3ca94770693ed65f8a4092a4].
+(2) In subsection (1), for “may” substitute *(affected by repeal, see note)*[^c-c404a16d3ca94770693ed65f8a4092a4] “ must ” *(affected by repeal, see note)*[^c-c404a16d3ca94770693ed65f8a4092a4].
 
-(3) After that subsection insert— *(affected by repeal, see note)*[^key-c404a16d3ca94770693ed65f8a4092a4]
+(3) After that subsection insert— *(affected by repeal, see note)*[^c-c404a16d3ca94770693ed65f8a4092a4]
 
-> (1A) Guidance under subsection (1) may, in particular, include provision relating to the provision of Gaelic education in schools. *(affected by repeal, see note)*[^key-c404a16d3ca94770693ed65f8a4092a4]
+> (1A) Guidance under subsection (1) may, in particular, include provision relating to the provision of Gaelic education in schools. *(affected by repeal, see note)*[^c-c404a16d3ca94770693ed65f8a4092a4]
 >
-> (1B) In subsection (1A), “ *(affected by repeal, see note)*[^key-c404a16d3ca94770693ed65f8a4092a4]**schools *(affected by repeal, see note)*[^key-c404a16d3ca94770693ed65f8a4092a4]**” has the meaning given by section 135(1) of the Education (Scotland) Act 1980. *(affected by repeal, see note)*[^key-c404a16d3ca94770693ed65f8a4092a4]
+> (1B) In subsection (1A), “ *(affected by repeal, see note)*[^c-c404a16d3ca94770693ed65f8a4092a4]**schools *(affected by repeal, see note)*[^c-c404a16d3ca94770693ed65f8a4092a4]**” has the meaning given by section 135(1) of the Education (Scotland) Act 1980. *(affected by repeal, see note)*[^c-c404a16d3ca94770693ed65f8a4092a4]
 
 .
 
-(4) After subsection (2) insert— *(affected by repeal, see note)*[^key-c404a16d3ca94770693ed65f8a4092a4]
+(4) After subsection (2) insert— *(affected by repeal, see note)*[^c-c404a16d3ca94770693ed65f8a4092a4]
 
-> (2A) Any relevant public authority having functions relating to, or to the provision of, Gaelic education must, to the extent that guidance under subsection (1) relates to the functions, have regard to the guidance in carrying out the functions. *(affected by repeal, see note)*[^key-c404a16d3ca94770693ed65f8a4092a4]
+> (2A) Any relevant public authority having functions relating to, or to the provision of, Gaelic education must, to the extent that guidance under subsection (1) relates to the functions, have regard to the guidance in carrying out the functions. *(affected by repeal, see note)*[^c-c404a16d3ca94770693ed65f8a4092a4]
 
 .
 
-### Gaelic education qualifications[^key-28f58c08bbcecc9b1ae750e9f62d9ec3]
+### Gaelic education qualifications[^c-28f58c08bbcecc9b1ae750e9f62d9ec3]
 
 #### 16B. Availability of qualifications through the medium of Gaelic
 
-(1) In exercising its function of devising qualifications, Qualifications Scotland[^key-7b2032f297f3c07eec3519f44ac357ed] must ensure that these qualifications include an appropriate number and range of qualifications available through the medium of the Gaelic language.
+(1) In exercising its function of devising qualifications, Qualifications Scotland[^c-7b2032f297f3c07eec3519f44ac357ed] must ensure that these qualifications include an appropriate number and range of qualifications available through the medium of the Gaelic language.
 
 (2) In deciding what is an appropriate number and range of qualifications for the purpose of subsection (1), Qualifications Scotland must—
 
 - (a) seek advice from—
   - (i) the Scottish Ministers,
   - (ii) Bòrd na Gàidhlig,
-  - (iii) such other persons with expertise or an interest in the Gaelic language as Qualifications Scotland[^key-22c42275971a1d07b8f52fb80c6306b0] considers appropriate,
+  - (iii) such other persons with expertise or an interest in the Gaelic language as Qualifications Scotland[^c-22c42275971a1d07b8f52fb80c6306b0] considers appropriate,
 - (b) have regard to—
   - (i) any advice received in response to a request under paragraph (a),
   - (ii) any information Qualifications Scotland has about the demand for qualifications in particular subjects or at particular levels.
 
 #### 16C. Production of material relating to qualifications through the medium of Gaelic
 
-(1) When Qualifications Scotland[^key-b75287ff74247a7cce870051439fcf11] produces information, guidance or documents in the English language for use in connection with qualifications it has devised, it must also produce equivalent material in the Gaelic language for such of those qualifications as are available through the medium of the Gaelic language.
+(1) When Qualifications Scotland[^c-b75287ff74247a7cce870051439fcf11] produces information, guidance or documents in the English language for use in connection with qualifications it has devised, it must also produce equivalent material in the Gaelic language for such of those qualifications as are available through the medium of the Gaelic language.
 
 (2) Qualifications Scotland must, on request from the Scottish Ministers, produce a translation into the Gaelic language of any material of the type mentioned in subsection (1), whether or not that material was produced before this section came into force.
 
 ### Definitions: other Acts
 
-#### 17. Meaning of “Gaelic education” and “Gaelic medium education”[^key-67c9eb24e6a7aa77a30c0b016249a6f5]
+#### 17. Meaning of “Gaelic education” and “Gaelic medium education”[^c-67c9eb24e6a7aa77a30c0b016249a6f5]
 
 (1) In section 10(1) of the Gaelic Language (Scotland) Act 2005 (interpretation), in the definition of “Gaelic education”, after “means education” insert “ consisting of teaching and learning ”.
 
@@ -697,13 +697,13 @@ In exercising its functions under Parts 1 and 2 of the 1980 Act, an education au
 
 ### Interpretation of Part 2
 
-#### 18. Interpretation of Part 2[^key-066d6f9d589149c8139709d0a57bca4e]
+#### 18. Interpretation of Part 2[^c-066d6f9d589149c8139709d0a57bca4e]
 
 (1) In this Part, the following expressions have the meanings given by section 135(1) of the 1980 Act—
 
 - “early learning and childcare”,
 - “education authority”,
-- “[^key-ea608f19e99419be2b2fcda94e42deb9]**further education,**”
+- “[^c-ea608f19e99419be2b2fcda94e42deb9]**further education,**”
 - “parent”,
 - “pupil”,
 - “school”,
@@ -714,7 +714,7 @@ In exercising its functions under Parts 1 and 2 of the 1980 Act, an education au
 
 - “**area**”, in relation to an education authority, is (except where the context otherwise requires) to be construed in accordance with section 135(1) of the 1980 Act (see the definition of “education authority”),
 - “**full assessment**” is to be construed in accordance with section 12,
-- “**Gaelic language**” means Gaelic language as used[^key-75ffc2106d804b701ed6b7ce6a1666ec] in Scotland,
+- “**Gaelic language**” means Gaelic language as used[^c-75ffc2106d804b701ed6b7ce6a1666ec] in Scotland,
 - “**Gaelic learner education**”, in relation to the Gaelic language, means the teaching of the language to, and learning of the language by, pupils to whom education is provided primarily by means of the English language,
 - “**Gaelic medium education**” means teaching and learning by means of the Gaelic language,
 - “**Gaelic medium primary education**” means primary education consisting of teaching and learning by means of the Gaelic language,
@@ -730,11 +730,11 @@ In exercising its functions under Parts 1 and 2 of the 1980 Act, an education au
 
 ## PART 3 — MISCELLANEOUS
 
-### 19. Additional support for learning[^key-b881322ab08142fb902ba458ef580ab1][^key-20c5dc03e84e147fb0bc001722bf8a6a][^key-6d06a5827f5101b42d98f8d7cde5e0ab]
+### 19. Additional support for learning[^c-b881322ab08142fb902ba458ef580ab1][^c-20c5dc03e84e147fb0bc001722bf8a6a][^c-6d06a5827f5101b42d98f8d7cde5e0ab]
 
 The schedule to this Act contains modifications of the Education (Additional Support for Learning) (Scotland) Act 2004.
 
-### 20. Children unable to attend early learning and childcare[^key-c86aabb5bb4fbded92856881da332296]
+### 20. Children unable to attend early learning and childcare[^c-c86aabb5bb4fbded92856881da332296]
 
 In section 14 of the 1980 Act (education for children unable to attend school etc.), after subsection (3) insert—
 
@@ -748,9 +748,9 @@ In section 14 of the 1980 Act (education for children unable to attend school et
 
 ### 21. Learning hours
 
-(1)[^key-2ddd3a0d4bd75622f4d959b34e3d6cc7][^key-c75b552f7a6173c4ae6f8a1aaa3b715c] The 1980 Act is amended as follows.
+(1)[^c-2ddd3a0d4bd75622f4d959b34e3d6cc7][^c-c75b552f7a6173c4ae6f8a1aaa3b715c] The 1980 Act is amended as follows.
 
-(2)[^key-2ddd3a0d4bd75622f4d959b34e3d6cc7][^key-c75b552f7a6173c4ae6f8a1aaa3b715c] After section 2 insert—
+(2)[^c-2ddd3a0d4bd75622f4d959b34e3d6cc7][^c-c75b552f7a6173c4ae6f8a1aaa3b715c] After section 2 insert—
 
 > **2ZA. Learning hours**
 >
@@ -807,7 +807,7 @@ In section 14 of the 1980 Act (education for children unable to attend school et
 
 .
 
-(3)[^key-d861ac2d26db276c07754129779afb27] In section 133 (regulations etc.)—
+(3)[^c-d861ac2d26db276c07754129779afb27] In section 133 (regulations etc.)—
 
 - (a) in subsection (2), for “(2YA)” substitute “ (2XA) ”,
 - (b) after subsection (2) insert—
@@ -826,9 +826,9 @@ In section 14 of the 1980 Act (education for children unable to attend school et
 
 ### 22. Provision of school meals
 
-(1)[^key-e8da13e54d1a90ccbe37536d6aa32414] The 1980 Act is amended as follows.
+(1)[^c-e8da13e54d1a90ccbe37536d6aa32414] The 1980 Act is amended as follows.
 
-(2)[^key-e8da13e54d1a90ccbe37536d6aa32414] For section 53 (provision of school meals) substitute—
+(2)[^c-e8da13e54d1a90ccbe37536d6aa32414] For section 53 (provision of school meals) substitute—
 
 > **53. Provision of school meals**
 >
@@ -908,18 +908,18 @@ In section 14 of the 1980 Act (education for children unable to attend school et
 
 .
 
-(4)[^key-e8da13e54d1a90ccbe37536d6aa32414] In section 56A (food and drink: nutritional requirements), in subsection (2)—
+(4)[^c-e8da13e54d1a90ccbe37536d6aa32414] In section 56A (food and drink: nutritional requirements), in subsection (2)—
 
 - (a) in paragraph (a), for “53(1)(a)” substitute “ 53(2) or (3) ”, and
 - (b) in paragraph (b)(i), for “53(1)(a)” substitute “ 53(2) or (3) ”.
 
-(5)[^key-e8da13e54d1a90ccbe37536d6aa32414] In section 56E (food and drink: guidance about sustainable development), in subsection (1)—
+(5)[^c-e8da13e54d1a90ccbe37536d6aa32414] In section 56E (food and drink: guidance about sustainable development), in subsection (1)—
 
 - (a) in paragraph (a), for “section 53(1)(a)” substitute “ subsection (2) or (3) of section 53 to pupils mentioned in subsection (1)(a) of that section ”,
 - (b) in paragraph (b), for “that section” substitute “ section 53(2) or (3) to such pupils ”, and
 - (c) in paragraph (c)(i), for “that section” substitute “ section 53(2) or (3) to such pupils ”.
 
-(6)[^key-e8da13e54d1a90ccbe37536d6aa32414] In section 133 (regulations, etc.), in subsection (2YA), for “section 53(3)(c) of this Act” substitute “ subsection (8) of section 53 that modify subsection (7) of that section as mentioned in subsection (8)(a)(iii) or (b) of that section, nor to any regulations under section 53ZA(1) or 54A(1) ”.
+(6)[^c-e8da13e54d1a90ccbe37536d6aa32414] In section 133 (regulations, etc.), in subsection (2YA), for “section 53(3)(c) of this Act” substitute “ subsection (8) of section 53 that modify subsection (7) of that section as mentioned in subsection (8)(a)(iii) or (b) of that section, nor to any regulations under section 53ZA(1) or 54A(1) ”.
 
 ### 23. Clothing grants
 
@@ -939,7 +939,7 @@ After section 54 of the 1980 Act insert—
 
 .
 
-### 24. Enforcement of statutory duties[^key-d70bc20849118791f83eb98197fa5426][^key-dca887a31248590142d27c49a3f33bfd]
+### 24. Enforcement of statutory duties[^c-d70bc20849118791f83eb98197fa5426][^c-dca887a31248590142d27c49a3f33bfd]
 
 In section 70 of the 1980 Act (powers to enforce duty of education authorities and other persons), after subsection (2) insert—
 
@@ -989,7 +989,7 @@ After section 77 of the 1980 Act insert—
 
 .
 
-### 26. Registration of independent schools[^key-d07437d4e3f01a0bd6f2cc4bde7942c6]
+### 26. Registration of independent schools[^c-d07437d4e3f01a0bd6f2cc4bde7942c6]
 
 In section 133 of the 1980 Act (regulations, etc.), after subsection (2C) insert—
 
@@ -1003,13 +1003,13 @@ In section 133 of the 1980 Act (regulations, etc.), after subsection (2C) insert
 
 .
 
-### 27. Employment of teachers in grant-aided schools[^key-c4d60a0fbc47f84c6268c7c447a4121f]
+### 27. Employment of teachers in grant-aided schools[^c-c4d60a0fbc47f84c6268c7c447a4121f]
 
 In section 90(1) of the 1980 Act (employment of teachers), after “authorities” insert “ , or managers of grant-aided schools, ”.
 
 ### 28. Head teachers: education and training standards
 
-(1)[^key-a67832e7fdb252e5a8c021a59855f272] After section 90 of the 1980 Act insert—
+(1)[^c-a67832e7fdb252e5a8c021a59855f272] After section 90 of the 1980 Act insert—
 
 > **90A. Head teachers: education and training standards**
 >
@@ -1044,7 +1044,7 @@ In section 90(1) of the 1980 Act (employment of teachers), after “authorities�
 
 .
 
-(3)[^key-1f9c6cca79223ca99a73fc3dff657a78] In section 133 of the 1980 Act (regulations, etc.), after subsection (2B) insert—
+(3)[^c-1f9c6cca79223ca99a73fc3dff657a78] In section 133 of the 1980 Act (regulations, etc.), after subsection (2B) insert—
 
 > (2BA) Subsection (2) above shall not apply to any regulations under—
 >
@@ -1055,7 +1055,7 @@ In section 90(1) of the 1980 Act (employment of teachers), after “authorities�
 
 .
 
-### 29. Provision of early learning and childcare: children with guardians[^key-4bcbc4c21ef1074ff3f9debfa8d0ed58]
+### 29. Provision of early learning and childcare: children with guardians[^c-4bcbc4c21ef1074ff3f9debfa8d0ed58]
 
 (1) The Children and Young People (Scotland) Act 2014 is amended as follows.
 
@@ -1074,7 +1074,7 @@ In section 90(1) of the 1980 Act (employment of teachers), after “authorities�
 
 ## PART 4 — GENERAL
 
-### 30. Meaning of “the 1980 Act”[^key-cbb593fa4bf55b43dd109d0cbabb3e83]
+### 30. Meaning of “the 1980 Act”[^c-cbb593fa4bf55b43dd109d0cbabb3e83]
 
 In this Act, “**the 1980 Act**” means the Education (Scotland) Act 1980.
 
@@ -1117,9 +1117,9 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
 (introduced by section 19)
 
-**1.**[^key-344556716c3a7d4bd5d8f7c8bf7f648b] The Education (Additional Support for Learning) (Scotland) Act 2004 is amended as follows.
+**1.**[^c-344556716c3a7d4bd5d8f7c8bf7f648b] The Education (Additional Support for Learning) (Scotland) Act 2004 is amended as follows.
 
-**2.**[^key-8b26994895e92a8e5c7d8eff47d4f594] For section 3 (children and young persons who lack capacity) substitute—
+**2.**[^c-8b26994895e92a8e5c7d8eff47d4f594] For section 3 (children and young persons who lack capacity) substitute—
 
 > **3. Children and young persons: capacity**
 >
@@ -1142,7 +1142,7 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
 .
 
-**3.**[^key-674aca825f7943057ed4f62cfefbf663] After section 3 insert—
+**3.**[^c-674aca825f7943057ed4f62cfefbf663] After section 3 insert—
 
 > **3A. Children: assessment of capacity, etc.**
 >
@@ -1210,7 +1210,7 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
 .
 
-**4.**[^key-0cb840c220681b8ab137bffd688eab57] In section 6 (children and young persons for whom education authority is responsible)—
+**4.**[^c-0cb840c220681b8ab137bffd688eab57] In section 6 (children and young persons for whom education authority is responsible)—
 
 - (a) after subsection (3)(a) insert—
 
@@ -1227,7 +1227,7 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
     .
 
-**5.**[^key-37d767c9f0f5ea6b0c456f76979a32ce] In section 7 (children and young persons for whose school education an education authority is not responsible)—
+**5.**[^c-37d767c9f0f5ea6b0c456f76979a32ce] In section 7 (children and young persons for whose school education an education authority is not responsible)—
 
 - (a) after subsection (3)(a) insert—
 
@@ -1247,7 +1247,7 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
   .
 
-**6.**[^key-29d305959878ff5ce428deb6f2f4fb12] In section 8 (assessments and examinations)—
+**6.**[^c-29d305959878ff5ce428deb6f2f4fb12] In section 8 (assessments and examinations)—
 
 - (a) after subsection (2)(b)(i) insert—
 
@@ -1265,13 +1265,13 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
   .
 
-**7.**[^key-621ccf1c41092a04c65e8bfa2f35fe4a] In section 8A (assessments and examinations: further provision), after subsection (3)(a) insert—
+**7.**[^c-621ccf1c41092a04c65e8bfa2f35fe4a] In section 8A (assessments and examinations: further provision), after subsection (3)(a) insert—
 
 > - (aa) where the request relates to a child who has attained the age of 12 years and who the authority is satisfied has capacity to make the request, the child,
 
 .
 
-**8.**[^key-a2fec4dc973effe09f774895fda5f8de] In section 9 (duty to prepare co-ordinated support plans), in subsection (2)(d)—
+**8.**[^c-a2fec4dc973effe09f774895fda5f8de] In section 9 (duty to prepare co-ordinated support plans), in subsection (2)(d)—
 
 - (a) in sub-paragraph (i), after “parent” insert “ can obtain advice and further information ”,
 - (b) after that sub-paragraph insert—
@@ -1282,13 +1282,13 @@ The short title of this Act is the Education (Scotland) Act 2016.
 - (c) in sub-paragraph (ii), after “parent” insert “ can obtain such advice and information ”, and
 - (d) the words “can obtain advice and further information” are repealed.
 
-**9.**[^key-64d1bc2fbd0804dbef92874ca3cc9e69] In section 10 (reviews of co-ordinated support plans), after subsection (5)(a) insert—
+**9.**[^c-64d1bc2fbd0804dbef92874ca3cc9e69] In section 10 (reviews of co-ordinated support plans), after subsection (5)(a) insert—
 
 > - (aa) in the case of a co-ordinated support plan prepared for a child who has attained the age of 12 years and who the authority is satisfied has capacity to make the request, the child,
 
 .
 
-**10.**[^key-35878949fc45e0597b0fabe79ed0a6dd] In section 11 (co-ordinated support plans: further provision)—
+**10.**[^c-35878949fc45e0597b0fabe79ed0a6dd] In section 11 (co-ordinated support plans: further provision)—
 
 - (a) in subsection (3), after paragraph (a) insert—
 
@@ -1305,12 +1305,12 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
   .
 
-**11.**[^key-34906ae3711550b6a5c93052d4c8fff2] In section 12 (duties to seek and take account of information)—
+**11.**[^c-34906ae3711550b6a5c93052d4c8fff2] In section 12 (duties to seek and take account of information)—
 
 - (a) in subsection (2)(b)(i), for “to express” substitute “ in relation to ”, and
 - (b) in subsection (6)(b)(i), for “to express” substitute “ in relation to ”.
 
-**12.**[^key-40e4aad9f4b07fc8560e498d7c826b4f] In section 13 (provision of information etc. on occurrence of certain events)—
+**12.**[^c-40e4aad9f4b07fc8560e498d7c826b4f] In section 13 (provision of information etc. on occurrence of certain events)—
 
 - (a) in subsection (4A), for “to express” substitute “ in relation to such ”, and
 - (b) in subsection (5)—
@@ -1321,19 +1321,19 @@ The short title of this Act is the Education (Scotland) Act 2016.
     , and
   - (ii) in paragraph (a), for “a” substitute “ any other ”.
 
-**13.**[^key-2d99a0ad10c044f1a01beb217068eb0f] In section 14 (supporters and advocacy), in subsection (2), after paragraph (a) insert—
+**13.**[^c-2d99a0ad10c044f1a01beb217068eb0f] In section 14 (supporters and advocacy), in subsection (2), after paragraph (a) insert—
 
 > - (aa) in the case of a child who has attained the age of 12 years and who the authority is satisfied has capacity in relation to discussions or representations as mentioned in subsection (1), the child,
 
 .
 
-**14.**[^key-78c1aa9196cfb88c4fecc36bfeb896d9] In section 15 (mediation services), after subsection (1) insert—
+**14.**[^c-78c1aa9196cfb88c4fecc36bfeb896d9] In section 15 (mediation services), after subsection (1) insert—
 
 > (1A) In making arrangements under subsection (1) for the provision of mediation services in respect of a matter that is the subject of a disagreement (or potential disagreement) between an education authority and the parents of a child, the authority must seek and take account of the views of the child in respect of the matter.
 
 .
 
-**15.**[^key-e90919b20fae0bdbe96a76e61d95d9bc] In section 16 (dispute resolution)—
+**15.**[^c-e90919b20fae0bdbe96a76e61d95d9bc] In section 16 (dispute resolution)—
 
 - (a) in subsection (1), after paragraph (a) insert—
 
@@ -1342,7 +1342,7 @@ The short title of this Act is the Education (Scotland) Act 2016.
   , and
 - (b) in subsection (3), after the word “parent”, where it occurs in each of paragraphs (a) and (b), insert “ , child ”.
 
-**16.**[^key-d1a6b4f0a62741599b382bd35e40e04f] In section 18 (references to Tribunal)—
+**16.**[^c-d1a6b4f0a62741599b382bd35e40e04f] In section 18 (references to Tribunal)—
 
 - (a) in subsection (2), after paragraph (a) insert—
 
@@ -1378,9 +1378,9 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
   .
 
-**17.**[^key-53c69ca226cb69eef025064b3146abc1] In section 19 (powers of Tribunal in relation to reference), in subsection (2), for “or (d)(iv)” substitute “ , (d)(iv), (ea) or (eb) ”.
+**17.**[^c-53c69ca226cb69eef025064b3146abc1] In section 19 (powers of Tribunal in relation to reference), in subsection (2), for “or (d)(iv)” substitute “ , (d)(iv), (ea) or (eb) ”.
 
-**18.**[^key-2dd50f0301a80c887c32ccd9ea69edc0] In section 26 (publication of information by education authority)—
+**18.**[^c-2dd50f0301a80c887c32ccd9ea69edc0] In section 26 (publication of information by education authority)—
 
 - (a) in subsection (2)(f)—
   - (i) the word “and” immediately following sub-paragraph (i) is repealed, and
@@ -1395,7 +1395,7 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
   .
 
-**19.**[^key-8d5a988a9601156c23e5810a178fd65c] In section 27 (code of practice and directions), in subsection (2), after paragraph (d) insert—
+**19.**[^c-8d5a988a9601156c23e5810a178fd65c] In section 27 (code of practice and directions), in subsection (2), after paragraph (d) insert—
 
 > - (da) the carrying out of assessments under paragraph (a) of subsection (3) of section 3A,
 > - (db) the consideration of whether something would adversely affect the wellbeing of a child as mentioned in paragraph (b) of that subsection,
@@ -1403,7 +1403,7 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
 .
 
-**20.**[^key-6297512ff3eac41ea887a6e8d00ade04][^key-9339239f384fa8e0a0b3f177f6ebd9e1] In section 27A (collection of data on additional support needs), for subsection (1) substitute—
+**20.**[^c-6297512ff3eac41ea887a6e8d00ade04][^c-9339239f384fa8e0a0b3f177f6ebd9e1] In section 27A (collection of data on additional support needs), for subsection (1) substitute—
 
 > (1) The Scottish Ministers must each year collect from each education authority such information as is specified in regulations made by the Scottish Ministers relating to children and young persons having additional support needs for whose school education the authority is responsible.
 >
@@ -1411,7 +1411,7 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
 .
 
-**21.**[^key-d7d98bb1cf57c925d2cd04d4244cc91e] In section 29 (interpretation)—
+**21.**[^c-d7d98bb1cf57c925d2cd04d4244cc91e] In section 29 (interpretation)—
 
 - (a) in subsection (1), after the definition of “Tribunal” insert—
 
@@ -1424,12 +1424,12 @@ The short title of this Act is the Education (Scotland) Act 2016.
   , and
 - (b) in subsection (2), the words “ “young person”” are repealed.
 
-**22.**[^key-dc1bcfc0809e2636a3e3a757819afcea] In section 31 (duty to inform in writing or alternative permanent form), after the word “parent”—
+**22.**[^c-dc1bcfc0809e2636a3e3a757819afcea] In section 31 (duty to inform in writing or alternative permanent form), after the word “parent”—
 
 - (a) where it first occurs, insert “ , child who has attained the age of 12 years ”, and
 - (b) where it second occurs, insert “ , child ”.
 
-**23.**[^key-785957d3b192493ba3c2456604a22419] After section 31 insert—
+**23.**[^c-785957d3b192493ba3c2456604a22419] After section 31 insert—
 
 > **31A. Provision of support service**
 >
@@ -1464,12 +1464,12 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
 .
 
-**24.**[^key-b243437b161be49a07eab947446d9635] In section 34 (orders, regulations and rules)—
+**24.**[^c-b243437b161be49a07eab947446d9635] In section 34 (orders, regulations and rules)—
 
 - (a) in subsection (4), after “except” insert “ section 3B(3), ”, and
 - (b) in subsection (5)(b), after “section” insert “ 3B(3) or ”.
 
-**25.**[^key-a0aa000ca740818cddae119809432bde] In schedule 1 (Additional Support Needs Tribunal for Scotland), in paragraph 11(2)—
+**25.**[^c-a0aa000ca740818cddae119809432bde] In schedule 1 (Additional Support Needs Tribunal for Scotland), in paragraph 11(2)—
 
 - (a) after paragraph (f) insert—
 
@@ -1489,131 +1489,131 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
 ## Annotations
 
-[^key-d7ceabab3b3a68a8d706b23ed4982f48]: Commencement: S. 1 in force at 1.8.2016 for specified purposes by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-d7ceabab3b3a68a8d706b23ed4982f48]: Commencement: S. 1 in force at 1.8.2016 for specified purposes by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-050c949e6db8977f0d0d49b1f07240e2]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/8/section/1) in force at 1.8.2017 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-050c949e6db8977f0d0d49b1f07240e2]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/8/section/1) in force at 1.8.2017 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-61af0347fc6e72d7b3902f0136cc01fb]: Commencement: S. 2(1)(2)(3)(4)(a) in force at 1.8.2016 for specified purposes by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-61af0347fc6e72d7b3902f0136cc01fb]: Commencement: S. 2(1)(2)(3)(4)(a) in force at 1.8.2016 for specified purposes by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-39fa05e8cbba07568accaeb137c1cb0e]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2016/8/section/2/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/2/2) in force at 1.8.2017 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-39fa05e8cbba07568accaeb137c1cb0e]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2016/8/section/2/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/2/2) in force at 1.8.2017 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-bcf95782256d4298daf8cde9121e0582]: Commencement: [S. 2(3)](https://www.legislation.gov.uk/asp/2016/8/section/2/3) in force at 1.8.2017 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-bcf95782256d4298daf8cde9121e0582]: Commencement: [S. 2(3)](https://www.legislation.gov.uk/asp/2016/8/section/2/3) in force at 1.8.2017 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-be8f75bb0b91687f1b58d1a23a0d8ca2]: Commencement: [S. 2(4)(a)](https://www.legislation.gov.uk/asp/2016/8/section/2/4/a) in force at 1.8.2017 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-be8f75bb0b91687f1b58d1a23a0d8ca2]: Commencement: [S. 2(4)(a)](https://www.legislation.gov.uk/asp/2016/8/section/2/4/a) in force at 1.8.2017 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-cd5b7b868720237c9b79092340700f2d]: Commencement: S. 2(4)(b) in force at 1.8.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-cd5b7b868720237c9b79092340700f2d]: Commencement: S. 2(4)(b) in force at 1.8.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-68178748d619b6a26f24780514975e0d]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/asp/2016/8/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/3/2) in force at 1.12.2016 for specified purposes by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-68178748d619b6a26f24780514975e0d]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/asp/2016/8/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/3/2) in force at 1.12.2016 for specified purposes by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-5bf8045495ef94354dfd616ffe5ef1a8]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/asp/2016/8/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/3/2) in force at 1.8.2017 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-5bf8045495ef94354dfd616ffe5ef1a8]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/asp/2016/8/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/3/2) in force at 1.8.2017 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-652a86fc6bc574ab66483dbee689869e]: Commencement: [S. 3(3)-(7)](https://www.legislation.gov.uk/asp/2016/8/section/3/3) in force at 1.8.2017 by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-652a86fc6bc574ab66483dbee689869e]: Commencement: [S. 3(3)-(7)](https://www.legislation.gov.uk/asp/2016/8/section/3/3) in force at 1.8.2017 by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-68ee973582c7f7e91257db72ec002de6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/8/section/4) in force at 1.8.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-68ee973582c7f7e91257db72ec002de6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/8/section/4) in force at 1.8.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-668a8cbc3ef6c2b15286cbe49567bbfb]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/8/section/5) in force at 1.8.2017 by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-668a8cbc3ef6c2b15286cbe49567bbfb]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/8/section/5) in force at 1.8.2017 by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-bc1efaea2b73b49bd7ac8a932eccbedb]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/8/section/6) in force at 1.8.2017 by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-bc1efaea2b73b49bd7ac8a932eccbedb]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/8/section/6) in force at 1.8.2017 by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-26d0c10ae180c36836b4ce1d560dd7c0]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2016/8/part/2) heading substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 15(2)](https://www.legislation.gov.uk/asp/2025/10/section/15/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-26d0c10ae180c36836b4ce1d560dd7c0]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2016/8/part/2) heading substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 15(2)](https://www.legislation.gov.uk/asp/2025/10/section/15/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-09202826501f06615d4837438fbd682e]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/asp/2016/8/section/6A) and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 15(3)](https://www.legislation.gov.uk/asp/2025/10/section/15/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-09202826501f06615d4837438fbd682e]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/asp/2016/8/section/6A) and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 15(3)](https://www.legislation.gov.uk/asp/2025/10/section/15/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-36fdbbd435eaf1a8f0dcdb3c4089a96a]: Textual amendment: S. 6B inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 16(2)](https://www.legislation.gov.uk/asp/2025/10/section/16/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-36fdbbd435eaf1a8f0dcdb3c4089a96a]: Textual amendment: S. 6B inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 16(2)](https://www.legislation.gov.uk/asp/2025/10/section/16/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-20f021ddfec677201e4321df211e3f6b]: Textual amendment: S. 6B(3)(d) substituted (1.3.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2026 (S.S.I. 2026/40)](https://www.legislation.gov.uk/ssi/2026/40), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/40/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2026/40/regulation/2/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-20f021ddfec677201e4321df211e3f6b]: Textual amendment: S. 6B(3)(d) substituted (1.3.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2026 (S.S.I. 2026/40)](https://www.legislation.gov.uk/ssi/2026/40), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/40/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2026/40/regulation/2/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
 
-[^key-fbef1e15de910c0f4b6df676f9544523]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/asp/2016/8/section/6C) inserted (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(2)](https://www.legislation.gov.uk/asp/2025/10/section/17/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-fbef1e15de910c0f4b6df676f9544523]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/asp/2016/8/section/6C) inserted (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(2)](https://www.legislation.gov.uk/asp/2025/10/section/17/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-e883c14bf5ed5028c7bc969ea04d5330]: Textual amendment: [Ss. 6D](https://www.legislation.gov.uk/asp/2016/8/section/6D), [6E](https://www.legislation.gov.uk/asp/2016/8/section/6E) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 18(2)](https://www.legislation.gov.uk/asp/2025/10/section/18/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-e883c14bf5ed5028c7bc969ea04d5330]: Textual amendment: [Ss. 6D](https://www.legislation.gov.uk/asp/2016/8/section/6D), [6E](https://www.legislation.gov.uk/asp/2016/8/section/6E) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 18(2)](https://www.legislation.gov.uk/asp/2025/10/section/18/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-5498c750339f06a70ec63873c243395c]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/8/section/7) in force at 1.8.2016 for specified purposes by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-5498c750339f06a70ec63873c243395c]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/8/section/7) in force at 1.8.2016 for specified purposes by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-cc070a118731078a5c3b8b121ab31372]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/8/section/7) in force at 1.2.2017 in so far as not already in force by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-cc070a118731078a5c3b8b121ab31372]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/8/section/7) in force at 1.2.2017 in so far as not already in force by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-d86d34db61a9829f82cd78a4a6cd8efa]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/8/section/8) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-d86d34db61a9829f82cd78a4a6cd8efa]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/8/section/8) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-8b6fa9dc7c6e2d7ab99cc4411e51ec53]: Textual amendment: Word in [s. 8(5)(a)](https://www.legislation.gov.uk/asp/2016/8/section/8/5/a) substituted (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(3)](https://www.legislation.gov.uk/asp/2025/10/section/17/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-8b6fa9dc7c6e2d7ab99cc4411e51ec53]: Textual amendment: Word in [s. 8(5)(a)](https://www.legislation.gov.uk/asp/2016/8/section/8/5/a) substituted (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(3)](https://www.legislation.gov.uk/asp/2025/10/section/17/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-29db74d85e28de60a9eab6b05d091970]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/8/section/9) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-29db74d85e28de60a9eab6b05d091970]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/8/section/9) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-c85b52fbfa684ca3d3c6d092262365ec]: Textual amendment: Words in [s. 9(7)(b)](https://www.legislation.gov.uk/asp/2016/8/section/9/7/b) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 27(2)(a)](https://www.legislation.gov.uk/asp/2025/10/section/27/2/a), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-c85b52fbfa684ca3d3c6d092262365ec]: Textual amendment: Words in [s. 9(7)(b)](https://www.legislation.gov.uk/asp/2016/8/section/9/7/b) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 27(2)(a)](https://www.legislation.gov.uk/asp/2025/10/section/27/2/a), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-eb9247cfc8296dcfb0a022353029d304]: Textual amendment: [S. 9(7A)](https://www.legislation.gov.uk/asp/2016/8/section/9/7A) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 27(2)(b)](https://www.legislation.gov.uk/asp/2025/10/section/27/2/b), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-eb9247cfc8296dcfb0a022353029d304]: Textual amendment: [S. 9(7A)](https://www.legislation.gov.uk/asp/2016/8/section/9/7A) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 27(2)(b)](https://www.legislation.gov.uk/asp/2025/10/section/27/2/b), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-695a1ef454333ee3a41dc59c3dee4b8a]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/8/section/10) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-695a1ef454333ee3a41dc59c3dee4b8a]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/8/section/10) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-b9ed599206e187506f5892222a06b9ce]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/8/section/11) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-b9ed599206e187506f5892222a06b9ce]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/8/section/11) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-696f58f58930aa97d25d030450720552]: Commencement: S. 12 in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-696f58f58930aa97d25d030450720552]: Commencement: S. 12 in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-6c4f0c500056940d4c178fdaa93a1b5e]: Textual amendment: S. 12(3)(a) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 26(2)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/26/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-6c4f0c500056940d4c178fdaa93a1b5e]: Textual amendment: S. 12(3)(a) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 26(2)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/26/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-3fefd805690ee4d3d8aeef1465194960]: Textual amendment: Word in s. 12(6)(b) substituted (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(4)](https://www.legislation.gov.uk/asp/2025/10/section/17/4), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-3fefd805690ee4d3d8aeef1465194960]: Textual amendment: Word in s. 12(6)(b) substituted (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(4)](https://www.legislation.gov.uk/asp/2025/10/section/17/4), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-f0169196a7d11b13c435767eed5899db]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/8/section/13) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-f0169196a7d11b13c435767eed5899db]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/8/section/13) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-c902852f77e358f351abf7ddf980e398]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/8/section/14) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-c902852f77e358f351abf7ddf980e398]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/8/section/14) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-316cd510da34ee3d968f74cef061bf84]: Textual amendment: [S. 15 cross-heading](https://www.legislation.gov.uk/asp/2016/8/part/2/crossheading/promotion-support-and-guidance) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 20(2)](https://www.legislation.gov.uk/asp/2025/10/section/20/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-316cd510da34ee3d968f74cef061bf84]: Textual amendment: [S. 15 cross-heading](https://www.legislation.gov.uk/asp/2016/8/part/2/crossheading/promotion-support-and-guidance) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 20(2)](https://www.legislation.gov.uk/asp/2025/10/section/20/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-eb0bfbaf9c3869de2da8de8d37fc6cb4]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/asp/2016/8/section/14A) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 20(3)](https://www.legislation.gov.uk/asp/2025/10/section/20/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-eb0bfbaf9c3869de2da8de8d37fc6cb4]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/asp/2016/8/section/14A) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 20(3)](https://www.legislation.gov.uk/asp/2025/10/section/20/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-4cb3e5e96fb4457973d986d9698d2bff]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/8/section/15) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-4cb3e5e96fb4457973d986d9698d2bff]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/8/section/15) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-8762906c2815abe7e38204f7f8757c93]: Textual amendment: Word in [s. 15(6)(c)](https://www.legislation.gov.uk/asp/2016/8/section/15/6/c) substituted (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(5)](https://www.legislation.gov.uk/asp/2025/10/section/17/5), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-8762906c2815abe7e38204f7f8757c93]: Textual amendment: Word in [s. 15(6)(c)](https://www.legislation.gov.uk/asp/2016/8/section/15/6/c) substituted (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(5)](https://www.legislation.gov.uk/asp/2025/10/section/17/5), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-1807225e1fd605e9512712f450cbafbd]: Commencement: S. 16 in force at 15.7.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-1807225e1fd605e9512712f450cbafbd]: Commencement: S. 16 in force at 15.7.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-c404a16d3ca94770693ed65f8a4092a4]: Textual amendment: S. 16 repealed (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(6)](https://www.legislation.gov.uk/asp/2025/10/section/17/6), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-c404a16d3ca94770693ed65f8a4092a4]: Textual amendment: S. 16 repealed (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(6)](https://www.legislation.gov.uk/asp/2025/10/section/17/6), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-28f58c08bbcecc9b1ae750e9f62d9ec3]: Textual amendment: Ss. 16B, 16C and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 23(2)](https://www.legislation.gov.uk/asp/2025/10/section/23/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-28f58c08bbcecc9b1ae750e9f62d9ec3]: Textual amendment: Ss. 16B, 16C and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 23(2)](https://www.legislation.gov.uk/asp/2025/10/section/23/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-7b2032f297f3c07eec3519f44ac357ed]: Textual amendment: Words in s. 16B substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2026 (S.S.I. 2026/40)](https://www.legislation.gov.uk/ssi/2026/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/40/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/ssi/2026/40/regulation/2/5/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-7b2032f297f3c07eec3519f44ac357ed]: Textual amendment: Words in s. 16B substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2026 (S.S.I. 2026/40)](https://www.legislation.gov.uk/ssi/2026/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/40/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/ssi/2026/40/regulation/2/5/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-22c42275971a1d07b8f52fb80c6306b0]: Textual amendment: Words in s. 16B substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2026 (S.S.I. 2026/40)](https://www.legislation.gov.uk/ssi/2026/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/40/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/ssi/2026/40/regulation/2/5/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-22c42275971a1d07b8f52fb80c6306b0]: Textual amendment: Words in s. 16B substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2026 (S.S.I. 2026/40)](https://www.legislation.gov.uk/ssi/2026/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/40/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/ssi/2026/40/regulation/2/5/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-b75287ff74247a7cce870051439fcf11]: Textual amendment: Words in s. 16C substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2026 (S.S.I. 2026/40)](https://www.legislation.gov.uk/ssi/2026/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/40/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2026/40/regulation/2/6); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-b75287ff74247a7cce870051439fcf11]: Textual amendment: Words in s. 16C substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2026 (S.S.I. 2026/40)](https://www.legislation.gov.uk/ssi/2026/40), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/40/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2026/40/regulation/2/6); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-67c9eb24e6a7aa77a30c0b016249a6f5]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/8/section/17) in force at 15.7.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-67c9eb24e6a7aa77a30c0b016249a6f5]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/8/section/17) in force at 15.7.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-066d6f9d589149c8139709d0a57bca4e]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/8/section/18) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-066d6f9d589149c8139709d0a57bca4e]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/8/section/18) in force at 1.2.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-ea608f19e99419be2b2fcda94e42deb9]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/asp/2016/8/section/18/1) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 16(3)](https://www.legislation.gov.uk/asp/2025/10/section/16/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-ea608f19e99419be2b2fcda94e42deb9]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/asp/2016/8/section/18/1) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 16(3)](https://www.legislation.gov.uk/asp/2025/10/section/16/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-75ffc2106d804b701ed6b7ce6a1666ec]: Textual amendment: Word in [s. 18(2)](https://www.legislation.gov.uk/asp/2016/8/section/18/2) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 15(4)](https://www.legislation.gov.uk/asp/2025/10/section/15/4), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-75ffc2106d804b701ed6b7ce6a1666ec]: Textual amendment: Word in [s. 18(2)](https://www.legislation.gov.uk/asp/2016/8/section/18/2) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 15(4)](https://www.legislation.gov.uk/asp/2025/10/section/15/4), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-b881322ab08142fb902ba458ef580ab1]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/8/section/19) in force at 1.1.2017 for specified purposes by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-b881322ab08142fb902ba458ef580ab1]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/8/section/19) in force at 1.1.2017 for specified purposes by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-20c5dc03e84e147fb0bc001722bf8a6a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/8/section/19) in force at 1.8.2017 for specified purposes by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-20c5dc03e84e147fb0bc001722bf8a6a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/8/section/19) in force at 1.8.2017 for specified purposes by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-6d06a5827f5101b42d98f8d7cde5e0ab]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/8/section/19) in force at 10.1.2018 in so far as not already in force by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-6d06a5827f5101b42d98f8d7cde5e0ab]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/8/section/19) in force at 10.1.2018 in so far as not already in force by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-c86aabb5bb4fbded92856881da332296]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/8/section/20) in force at 1.1.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-c86aabb5bb4fbded92856881da332296]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/8/section/20) in force at 1.1.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-2ddd3a0d4bd75622f4d959b34e3d6cc7]: Commencement: [S. 21(1)](https://www.legislation.gov.uk/asp/2016/8/section/21/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/21/2) in force at 1.8.2016 for specified purposes by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-2ddd3a0d4bd75622f4d959b34e3d6cc7]: Commencement: [S. 21(1)](https://www.legislation.gov.uk/asp/2016/8/section/21/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/21/2) in force at 1.8.2016 for specified purposes by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-c75b552f7a6173c4ae6f8a1aaa3b715c]: Commencement: [S. 21(1)](https://www.legislation.gov.uk/asp/2016/8/section/21/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/21/2) in force at 29.3.2023 in so far as not already in force by [S.S.I. 2023/74](https://www.legislation.gov.uk/ssi/2023/74), [reg. 2](https://www.legislation.gov.uk/ssi/2023/74/regulation/2)
+[^c-c75b552f7a6173c4ae6f8a1aaa3b715c]: Commencement: [S. 21(1)](https://www.legislation.gov.uk/asp/2016/8/section/21/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/21/2) in force at 29.3.2023 in so far as not already in force by [S.S.I. 2023/74](https://www.legislation.gov.uk/ssi/2023/74), [reg. 2](https://www.legislation.gov.uk/ssi/2023/74/regulation/2)
 
-[^key-d861ac2d26db276c07754129779afb27]: Commencement: [S. 21(3)](https://www.legislation.gov.uk/asp/2016/8/section/21/3) in force at 29.3.2023 by [S.S.I. 2023/74](https://www.legislation.gov.uk/ssi/2023/74), [reg. 2](https://www.legislation.gov.uk/ssi/2023/74/regulation/2)
+[^c-d861ac2d26db276c07754129779afb27]: Commencement: [S. 21(3)](https://www.legislation.gov.uk/asp/2016/8/section/21/3) in force at 29.3.2023 by [S.S.I. 2023/74](https://www.legislation.gov.uk/ssi/2023/74), [reg. 2](https://www.legislation.gov.uk/ssi/2023/74/regulation/2)
 
-[^key-e8da13e54d1a90ccbe37536d6aa32414]: Commencement: [S. 22(1)](https://www.legislation.gov.uk/asp/2016/8/section/22/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/22/2) [(4)-(6)](https://www.legislation.gov.uk/asp/2016/8/section/22/4) in force at 1.4.2018 by [S.S.I. 2018/36](https://www.legislation.gov.uk/ssi/2018/36), [reg. 2](https://www.legislation.gov.uk/ssi/2018/36/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/36/regulation/3))
+[^c-e8da13e54d1a90ccbe37536d6aa32414]: Commencement: [S. 22(1)](https://www.legislation.gov.uk/asp/2016/8/section/22/1)[(2)](https://www.legislation.gov.uk/asp/2016/8/section/22/2) [(4)-(6)](https://www.legislation.gov.uk/asp/2016/8/section/22/4) in force at 1.4.2018 by [S.S.I. 2018/36](https://www.legislation.gov.uk/ssi/2018/36), [reg. 2](https://www.legislation.gov.uk/ssi/2018/36/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/36/regulation/3))
 
-[^key-d70bc20849118791f83eb98197fa5426]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/8/section/24) in force at 1.1.2017 for specified purposes by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-d70bc20849118791f83eb98197fa5426]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/8/section/24) in force at 1.1.2017 for specified purposes by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-dca887a31248590142d27c49a3f33bfd]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/8/section/24) in force at 10.1.2018 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule) (as amended by [S.S.I. 2017/352](https://www.legislation.gov.uk/ssi/2017/352), reg. 2)
+[^c-dca887a31248590142d27c49a3f33bfd]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/8/section/24) in force at 10.1.2018 in so far as not already in force by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule) (as amended by [S.S.I. 2017/352](https://www.legislation.gov.uk/ssi/2017/352), reg. 2)
 
-[^key-d07437d4e3f01a0bd6f2cc4bde7942c6]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/8/section/26) in force at 1.1.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-d07437d4e3f01a0bd6f2cc4bde7942c6]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/8/section/26) in force at 1.1.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-c4d60a0fbc47f84c6268c7c447a4121f]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/8/section/27) in force at 1.1.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-c4d60a0fbc47f84c6268c7c447a4121f]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/8/section/27) in force at 1.1.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-a67832e7fdb252e5a8c021a59855f272]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/asp/2016/8/section/28/1) in force at 1.1.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-a67832e7fdb252e5a8c021a59855f272]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/asp/2016/8/section/28/1) in force at 1.1.2017 by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-1f9c6cca79223ca99a73fc3dff657a78]: Commencement: [S. 28(3)](https://www.legislation.gov.uk/asp/2016/8/section/28/3) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/b)
+[^c-1f9c6cca79223ca99a73fc3dff657a78]: Commencement: [S. 28(3)](https://www.legislation.gov.uk/asp/2016/8/section/28/3) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/b)
 
-[^key-4bcbc4c21ef1074ff3f9debfa8d0ed58]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/8/section/29) in force at 1.8.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-4bcbc4c21ef1074ff3f9debfa8d0ed58]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/8/section/29) in force at 1.8.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-cbb593fa4bf55b43dd109d0cbabb3e83]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/8/section/30) in force at 1.8.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-cbb593fa4bf55b43dd109d0cbabb3e83]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/8/section/30) in force at 1.8.2016 by [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
 [^c22562961]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2016/8/section/31) in force 9.3.2016 by s. 33
 
@@ -1623,54 +1623,54 @@ The short title of this Act is the Education (Scotland) Act 2016.
 
 [^c22562991]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2016/8/section/34) in force 9.3.2016 by s. 33
 
-[^key-344556716c3a7d4bd5d8f7c8bf7f648b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/1) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-344556716c3a7d4bd5d8f7c8bf7f648b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/1) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-8b26994895e92a8e5c7d8eff47d4f594]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/2) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-8b26994895e92a8e5c7d8eff47d4f594]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/2) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-674aca825f7943057ed4f62cfefbf663]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/3) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-674aca825f7943057ed4f62cfefbf663]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/3) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-0cb840c220681b8ab137bffd688eab57]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/4) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-0cb840c220681b8ab137bffd688eab57]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/4) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-37d767c9f0f5ea6b0c456f76979a32ce]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/5) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-37d767c9f0f5ea6b0c456f76979a32ce]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/5) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-29d305959878ff5ce428deb6f2f4fb12]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/6) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-29d305959878ff5ce428deb6f2f4fb12]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/6) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-621ccf1c41092a04c65e8bfa2f35fe4a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/7) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-621ccf1c41092a04c65e8bfa2f35fe4a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/7) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-a2fec4dc973effe09f774895fda5f8de]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/8) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-a2fec4dc973effe09f774895fda5f8de]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/8) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-64d1bc2fbd0804dbef92874ca3cc9e69]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/9) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-64d1bc2fbd0804dbef92874ca3cc9e69]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/9) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-35878949fc45e0597b0fabe79ed0a6dd]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/10) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-35878949fc45e0597b0fabe79ed0a6dd]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/10) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-34906ae3711550b6a5c93052d4c8fff2]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/11) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-34906ae3711550b6a5c93052d4c8fff2]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/11) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-40e4aad9f4b07fc8560e498d7c826b4f]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/12) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-40e4aad9f4b07fc8560e498d7c826b4f]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/12) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-2d99a0ad10c044f1a01beb217068eb0f]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/13) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-2d99a0ad10c044f1a01beb217068eb0f]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/13) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-78c1aa9196cfb88c4fecc36bfeb896d9]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/14) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-78c1aa9196cfb88c4fecc36bfeb896d9]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/14) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-e90919b20fae0bdbe96a76e61d95d9bc]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/15) in force at 1.8.2017 by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
+[^c-e90919b20fae0bdbe96a76e61d95d9bc]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/15) in force at 1.8.2017 by [S.S.I. 2017/164](https://www.legislation.gov.uk/ssi/2017/164), [reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/164/schedule)
 
-[^key-d1a6b4f0a62741599b382bd35e40e04f]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/16) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-d1a6b4f0a62741599b382bd35e40e04f]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/16) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-53c69ca226cb69eef025064b3146abc1]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/17) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-53c69ca226cb69eef025064b3146abc1]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/17) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-2dd50f0301a80c887c32ccd9ea69edc0]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/18) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-2dd50f0301a80c887c32ccd9ea69edc0]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/18) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-8d5a988a9601156c23e5810a178fd65c]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/19) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-8d5a988a9601156c23e5810a178fd65c]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/19) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-6297512ff3eac41ea887a6e8d00ade04]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/20) in force at 1.1.2017 for specified purposes by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-6297512ff3eac41ea887a6e8d00ade04]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/20) in force at 1.1.2017 for specified purposes by [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
 
-[^key-9339239f384fa8e0a0b3f177f6ebd9e1]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/20) in force at 10.1.2018 in so far as not already in force by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-9339239f384fa8e0a0b3f177f6ebd9e1]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/20) in force at 10.1.2018 in so far as not already in force by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-d7d98bb1cf57c925d2cd04d4244cc91e]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/21) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-d7d98bb1cf57c925d2cd04d4244cc91e]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/21) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-dc1bcfc0809e2636a3e3a757819afcea]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/22) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-dc1bcfc0809e2636a3e3a757819afcea]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/22) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-785957d3b192493ba3c2456604a22419]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/23) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-785957d3b192493ba3c2456604a22419]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/23) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-b243437b161be49a07eab947446d9635]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/24) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-b243437b161be49a07eab947446d9635]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/24) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
 
-[^key-a0aa000ca740818cddae119809432bde]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/25) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)
+[^c-a0aa000ca740818cddae119809432bde]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/asp/2016/8/schedule/paragraph/25) in force at 10.1.2018 by [S.S.I. 2017/354](https://www.legislation.gov.uk/ssi/2017/354), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/354/regulation/2/a)

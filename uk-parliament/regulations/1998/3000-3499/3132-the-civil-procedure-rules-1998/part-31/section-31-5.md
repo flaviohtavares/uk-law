@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.5. Disclosure ...[^key-9f875461a1f91a425416d04d5085e6ae][^key-662bd22f73fcd3e335c4f0a5535c832d]
+## 31.5. Disclosure ...[^c-9f875461a1f91a425416d04d5085e6ae][^c-662bd22f73fcd3e335c4f0a5535c832d]
 
 *Extent: E+W*
 
-(1)[^key-317104e6650c2afefafc036bda6651f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-317104e6650c2afefafc036bda6651f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Unless the court otherwise orders, paragraphs (3) to (8) apply to all intermediate and[^key-b688a5f12cd1b839e66cde4f1c13199f] multi-track claims, other than those which include a claim for personal injuries.
+(2) Unless the court otherwise orders, paragraphs (3) to (8) apply to all intermediate and[^c-b688a5f12cd1b839e66cde4f1c13199f] multi-track claims, other than those which include a claim for personal injuries.
 
-(3) Not less than 14 days before the first case management conference , if any,[^key-f9d6b39c765944d1916521ac7b884833] each party must file and serve a report verified by a statement of truth, which—
+(3) Not less than 14 days before the first case management conference , if any,[^c-f9d6b39c765944d1916521ac7b884833] each party must file and serve a report verified by a statement of truth, which—
 
 - (a) describes briefly what documents exist or may exist that are or may be relevant to the matters in issue in the case;
 - (b) describes where and with whom those documents are or may be located;
@@ -67,12 +67,12 @@ the court may approve them without a hearing and give directions in the terms pr
 
 ## Annotations
 
-[^key-9f875461a1f91a425416d04d5085e6ae]: Commencement: Rule 31.5 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-9f875461a1f91a425416d04d5085e6ae]: Commencement: Rule 31.5 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-662bd22f73fcd3e335c4f0a5535c832d]: Textual amendment: Words in rule 31.5 heading omitted (1.10.2013) by virtue of [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [13](https://www.legislation.gov.uk/uksi/2013/1974/rule/13)
+[^c-662bd22f73fcd3e335c4f0a5535c832d]: Textual amendment: Words in rule 31.5 heading omitted (1.10.2013) by virtue of [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [13](https://www.legislation.gov.uk/uksi/2013/1974/rule/13)
 
-[^key-317104e6650c2afefafc036bda6651f0]: Textual amendment: [Rule 31.5(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.5/1) omitted (6.4.2024) by virtue of [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2024/106/rule/8/a)
+[^c-317104e6650c2afefafc036bda6651f0]: Textual amendment: [Rule 31.5(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.5/1) omitted (6.4.2024) by virtue of [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2024/106/rule/8/a)
 
-[^key-b688a5f12cd1b839e66cde4f1c13199f]: Textual amendment: Words in [rule 31.5(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.5/2) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2024/106/rule/8/b)
+[^c-b688a5f12cd1b839e66cde4f1c13199f]: Textual amendment: Words in [rule 31.5(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.5/2) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2024/106/rule/8/b)
 
-[^key-f9d6b39c765944d1916521ac7b884833]: Textual amendment: Words in [rule 31.5(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.5/3) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2024/106/rule/8/c)
+[^c-f9d6b39c765944d1916521ac7b884833]: Textual amendment: Words in [rule 31.5(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.5/3) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2024/106/rule/8/c)

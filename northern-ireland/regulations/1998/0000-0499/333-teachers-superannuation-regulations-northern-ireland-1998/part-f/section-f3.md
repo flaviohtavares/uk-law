@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## F3. Termination of right to count reckonable service[^key-aef79565414656cc5734107bb1db0fe7]
+## F3. Termination of right to count reckonable service[^c-aef79565414656cc5734107bb1db0fe7]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ ceases to be entitled to count as reckonable service, or as part of a qualifying
 
 ## Annotations
 
-[^key-aef79565414656cc5734107bb1db0fe7]: Commencement: Reg. F3 in operation at 2.11.1998, see reg. A1
+[^c-aef79565414656cc5734107bb1db0fe7]: Commencement: Reg. F3 in operation at 2.11.1998, see reg. A1

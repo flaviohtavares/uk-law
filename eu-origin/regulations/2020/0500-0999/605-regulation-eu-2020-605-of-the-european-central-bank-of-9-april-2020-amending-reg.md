@@ -33,38 +33,38 @@ of 9 April 2020
 
 amending Regulation (EU) 2015/534 on reporting of supervisory financial information *(ECB/2020/22)* (revoked)
 
-[^key-fb74f3f827ee99b58f4d2414933604eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb74f3f827ee99b58f4d2414933604eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments[^key-fb74f3f827ee99b58f4d2414933604eb]
+## Article 1. Amendments[^c-fb74f3f827ee99b58f4d2414933604eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Final provisions[^key-fb74f3f827ee99b58f4d2414933604eb]
+## Article 2. Final provisions[^c-fb74f3f827ee99b58f4d2414933604eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb74f3f827ee99b58f4d2414933604eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb74f3f827ee99b58f4d2414933604eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-fb74f3f827ee99b58f4d2414933604eb]
+## ANNEX I[^c-fb74f3f827ee99b58f4d2414933604eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-fb74f3f827ee99b58f4d2414933604eb]
+## ANNEX II[^c-fb74f3f827ee99b58f4d2414933604eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-fb74f3f827ee99b58f4d2414933604eb]
+## ANNEX III[^c-fb74f3f827ee99b58f4d2414933604eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-fb74f3f827ee99b58f4d2414933604eb]
+## ANNEX IV[^c-fb74f3f827ee99b58f4d2414933604eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb74f3f827ee99b58f4d2414933604eb]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/b), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/1)
+[^c-fb74f3f827ee99b58f4d2414933604eb]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/b), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/1)

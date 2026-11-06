@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Prescribed forms[^key-ed02ab636f3a7dfa0784b25238937517]
+## 9. Prescribed forms[^c-ed02ab636f3a7dfa0784b25238937517]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ed02ab636f3a7dfa0784b25238937517]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2024/1155/rule/9) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-ed02ab636f3a7dfa0784b25238937517]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2024/1155/rule/9) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00030]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18); by virtue of section 1(2) of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) all references to “industrial tribunal” and “industrial tribunals” in any enactment are substituted with “employment tribunal” and “employment tribunals”. Section 11 was amended by the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), Schedule 2, paragraph 16, the Pensions Act [2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), Schedule 13, Part 2, paragraph 68 and [S.I. 2014/431](https://www.legislation.gov.uk/uksi/2014/431), [2019/469](https://www.legislation.gov.uk/uksi/2019/469) and [731](https://www.legislation.gov.uk/uksi/2019/731).

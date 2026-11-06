@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Other revocations and amendments[^key-891ccf56e4fab74cbbb69485519a9d42][^key-ca9879f622023b3047a469f2a1d21f52]
+## 68. Other revocations and amendments[^c-891ccf56e4fab74cbbb69485519a9d42][^c-ca9879f622023b3047a469f2a1d21f52]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,9 +26,9 @@ summary: ''
 
 ## Annotations
 
-[^key-891ccf56e4fab74cbbb69485519a9d42]: Commencement: Reg. 68 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-891ccf56e4fab74cbbb69485519a9d42]: Commencement: Reg. 68 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-ca9879f622023b3047a469f2a1d21f52]: Commencement: Reg. 68 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca9879f622023b3047a469f2a1d21f52]: Commencement: Reg. 68 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23947901]: Marginal citation: [S.I. 2009/847](https://www.legislation.gov.uk/uksi/2009/847).
 

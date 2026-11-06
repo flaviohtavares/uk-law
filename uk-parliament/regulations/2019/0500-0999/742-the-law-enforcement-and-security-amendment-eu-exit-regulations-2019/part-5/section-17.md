@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendment of the Psychoactive Substances Act 2016[^key-71a1fec71b88f406e6794b692d1ca04c]
+## 17. Amendment of the Psychoactive Substances Act 2016[^c-71a1fec71b88f406e6794b692d1ca04c]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-71a1fec71b88f406e6794b692d1ca04c]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-71a1fec71b88f406e6794b692d1ca04c]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691131]: Marginal citation: [2016 c.2](https://www.legislation.gov.uk/ukpga/2016/2).

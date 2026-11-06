@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Sexual Offences Court records[^key-63a11c8016fe43f31af2b4854f48ff6d]
+## 89. Sexual Offences Court records[^c-63a11c8016fe43f31af2b4854f48ff6d]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63a11c8016fe43f31af2b4854f48ff6d]: Commencement: S. 89 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-63a11c8016fe43f31af2b4854f48ff6d]: Commencement: S. 89 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

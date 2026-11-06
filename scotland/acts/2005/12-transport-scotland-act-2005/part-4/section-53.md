@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Interpretation[^key-ba9e97491ee839c57819572b8ed2c8e7]
+## 53. Interpretation[^c-ba9e97491ee839c57819572b8ed2c8e7]
 
 *Extent: S*
 
@@ -24,17 +24,17 @@ summary: ''
 
 (2) In Part 2 of this Act—
 
-- “[^key-0fd6fbd1735c8e400b23aeee681729b6]**authorised person**” has the meaning given in section 18A(1),
+- “[^c-0fd6fbd1735c8e400b23aeee681729b6]**authorised person**” has the meaning given in section 18A(1),
 - “**the Commissioner**” has the meaning given by section 16 above;
-- “[^key-ca30758b020356bf788785e14e547614]**the 1984 Act**” means the Roads (Scotland) Act 1984, and
+- “[^c-ca30758b020356bf788785e14e547614]**the 1984 Act**” means the Roads (Scotland) Act 1984, and
 - “**the 1991 Act**” means the New Roads and Street Works Act 1991 (c. 22).
 
 (3) Expressions used in Part 2 of this Act and in the 1991 Act have, in this Act, the same meaning as in that Act.
 
 ## Annotations
 
-[^key-ba9e97491ee839c57819572b8ed2c8e7]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2005/12/section/53) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-ba9e97491ee839c57819572b8ed2c8e7]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2005/12/section/53) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
 
-[^key-0fd6fbd1735c8e400b23aeee681729b6]: Textual amendment: Words in [s. 53(2)](https://www.legislation.gov.uk/asp/2005/12/section/53/2) inserted (1.4.2024) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 7(4)(a)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/4/a) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-0fd6fbd1735c8e400b23aeee681729b6]: Textual amendment: Words in [s. 53(2)](https://www.legislation.gov.uk/asp/2005/12/section/53/2) inserted (1.4.2024) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 7(4)(a)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/4/a) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-ca30758b020356bf788785e14e547614]: Textual amendment: Words in [s. 53(2)](https://www.legislation.gov.uk/asp/2005/12/section/53/2) inserted (1.4.2024) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 7(4)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/4/b) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-ca30758b020356bf788785e14e547614]: Textual amendment: Words in [s. 53(2)](https://www.legislation.gov.uk/asp/2005/12/section/53/2) inserted (1.4.2024) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 7(4)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/4/b) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

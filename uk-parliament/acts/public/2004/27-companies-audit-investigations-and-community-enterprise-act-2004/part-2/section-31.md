@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Distribution of assets on winding up[^key-553d26bdb193424343601f26afcc3ae6]
+## 31. Distribution of assets on winding up[^c-553d26bdb193424343601f26afcc3ae6]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-553d26bdb193424343601f26afcc3ae6]: Commencement: S. 31 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-553d26bdb193424343601f26afcc3ae6]: Commencement: S. 31 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)

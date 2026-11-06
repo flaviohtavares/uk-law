@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Transitional adaptations of provisions brought into force[^key-ec17b08c5dd77632d6babc868d8bc43c]
+## 6. Transitional adaptations of provisions brought into force[^c-ec17b08c5dd77632d6babc868d8bc43c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The provisions brought into force by this Order have effect subject to any trans
 
 ## Annotations
 
-[^key-ec17b08c5dd77632d6babc868d8bc43c]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/2194/article/6) in force at 1.10.2007, see [arts. 1(3)(e), 2](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/e)
+[^c-ec17b08c5dd77632d6babc868d8bc43c]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/2194/article/6) in force at 1.10.2007, see [arts. 1(3)(e), 2](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/e)

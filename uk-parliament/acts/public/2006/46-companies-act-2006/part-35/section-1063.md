@@ -38,7 +38,7 @@ summary: ''
 - (c) specify the person by whom any fee payable under the regulations is to be paid;
 - (d) specify when and how fees are to be paid.
 
-(3A)[^key-cd9abde0195ca370b429fd71a360649a] In deciding what provision to make under subsection (3)(a), the Secretary of State may take into account any costs incurred or likely to be incurred by any person for the purposes of the carrying out of—
+(3A)[^c-cd9abde0195ca370b429fd71a360649a] In deciding what provision to make under subsection (3)(a), the Secretary of State may take into account any costs incurred or likely to be incurred by any person for the purposes of the carrying out of—
 
 - (a) any function of the Secretary of State under or in connection with—
   - the Limited Partnerships Act 1907;
@@ -54,7 +54,7 @@ summary: ''
 - (f) any function carried out by the Insolvency Service on behalf of the Secretary of State in connection with the detection, investigation or prosecution of offences, or the recovery of the proceeds of crime, so far as relating to bodies corporate or other firms;
 - (g) any function carried out by the Insolvency Service in Northern Ireland on behalf of a Northern Ireland department in connection with the detection, investigation or prosecution of offences, or the recovery of the proceeds of crime, so far as relating to bodies corporate or other firms.
 
-(4) Regulations under subsection (1)[^key-d49b84466f14a875bebabe5c24db523b] are subject to negative resolution procedure.
+(4) Regulations under subsection (1)[^c-d49b84466f14a875bebabe5c24db523b] are subject to negative resolution procedure.
 
 (5) In respect of the performance of functions or the provision of services or facilities—
 
@@ -65,7 +65,7 @@ the registrar may determine from time to time what fees (if any) are chargeable.
 
 (6) Fees received by the registrar are to be paid into the Consolidated Fund.
 
-(6A)[^key-d2eee1733e19c016cbd01d4b71e76dc8] The Secretary of State may by regulations amend—
+(6A)[^c-d2eee1733e19c016cbd01d4b71e76dc8] The Secretary of State may by regulations amend—
 
 - (a) the reference in subsection (3A)(f) to functions carried out by the Insolvency Service on behalf of the Secretary of State, so long as the functions referred to are functions of the Secretary of State that are of a similar nature;
 - (b) the reference in subsection (3A)(g) to functions carried out by the Insolvency Service in Northern Ireland on behalf of a Northern Ireland department, so long as the functions referred to are functions of a Northern Ireland department that are of a similar nature.
@@ -91,8 +91,8 @@ the registrar may determine from time to time what fees (if any) are chargeable.
 
 [^c20687231]: Modification: Ss. 1061-1063 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/17/2/a) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-cd9abde0195ca370b429fd71a360649a]: Textual amendment: [S. 1063(3A)](https://www.legislation.gov.uk/ukpga/2006/46/section/1063/3A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 93(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/93/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z35)
+[^c-cd9abde0195ca370b429fd71a360649a]: Textual amendment: [S. 1063(3A)](https://www.legislation.gov.uk/ukpga/2006/46/section/1063/3A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 93(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/93/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z35)
 
-[^key-d49b84466f14a875bebabe5c24db523b]: Textual amendment: Words in [s. 1063(4)](https://www.legislation.gov.uk/ukpga/2006/46/section/1063/4) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 93(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/93/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z35)
+[^c-d49b84466f14a875bebabe5c24db523b]: Textual amendment: Words in [s. 1063(4)](https://www.legislation.gov.uk/ukpga/2006/46/section/1063/4) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 93(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/93/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z35)
 
-[^key-d2eee1733e19c016cbd01d4b71e76dc8]: Textual amendment: [S. 1063(6A)](https://www.legislation.gov.uk/ukpga/2006/46/section/1063/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2006/46/section/1063/6B) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 93(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/93/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z35)
+[^c-d2eee1733e19c016cbd01d4b71e76dc8]: Textual amendment: [S. 1063(6A)](https://www.legislation.gov.uk/ukpga/2006/46/section/1063/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2006/46/section/1063/6B) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 93(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/93/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z35)

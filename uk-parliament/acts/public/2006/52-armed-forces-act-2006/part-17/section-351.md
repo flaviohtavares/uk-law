@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 351. Detention etc of persons in overseas service hospitals[^key-0c72ee6f3470d03d601b778757beae4e]
+## 351. Detention etc of persons in overseas service hospitals[^c-0c72ee6f3470d03d601b778757beae4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 12 (powers to admit persons to and detain them in overseas service hosp
 
 ## Annotations
 
-[^key-0c72ee6f3470d03d601b778757beae4e]: Commencement: S. 351 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-0c72ee6f3470d03d601b778757beae4e]: Commencement: S. 351 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))

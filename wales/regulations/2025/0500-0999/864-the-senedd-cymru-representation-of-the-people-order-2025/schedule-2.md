@@ -22,7 +22,7 @@ summary: ''
 
 Article 14(3)
 
-### 1. Interpretation[^key-874ab9030807f560b752761d6fc1a98a]
+### 1. Interpretation[^c-874ab9030807f560b752761d6fc1a98a]
 
 For the purposes of this Schedule—
 
@@ -38,11 +38,11 @@ For the purposes of this Schedule—
 
 ### Issue of postal ballot papers
 
-#### 2. Combination of polls[^key-77a2bd489e7c8f409c8e434479145491]
+#### 2. Combination of polls[^c-77a2bd489e7c8f409c8e434479145491]
 
 Where the polls at elections are taken together under article 15(1) (combination of polls at Senedd and local government elections), the proceedings on the issue and receipt of postal ballot papers in respect of each election may, if the returning officers for those elections agree, be taken together.
 
-#### 3. Form of postal voting statement[^key-2356710b676b66b4a1037c72f67cff21]
+#### 3. Form of postal voting statement[^c-2356710b676b66b4a1037c72f67cff21]
 
 (1) Where the poll at a Senedd election is taken alone, the postal voting statement sent with the postal ballot paper to a postal voter must be in form 3 set out in Welsh and English in Schedule 10.
 
@@ -50,13 +50,13 @@ Where the polls at elections are taken together under article 15(1) (combination
 
 (3) Where the poll at a Senedd election is taken together with a poll at another election under article 15(1) or article 16(1) or (3), in any part of the constituency, but where the proceedings on the issue and receipt of postal ballot papers are not taken together under paragraph 2, the postal voting statement sent with the postal ballot paper to a postal voter for use in that part of the constituency in which polls at more than one election are taking place, must be in form 5 set out in Welsh and English in Schedule 10.
 
-#### 4. Persons entitled to be present at proceedings on issue of postal ballot papers[^key-4b9d984c8af48087bc091b40d6ee88f2]
+#### 4. Persons entitled to be present at proceedings on issue of postal ballot papers[^c-4b9d984c8af48087bc091b40d6ee88f2]
 
 (1) Without prejudice to the provisions of section 6A, 6B, 6C, 6D or 6E of the 2000 Political Parties Act[^f00102] (representatives of the Electoral Commission and accredited observers), no person may be present at the proceedings on the issue of postal ballot papers other than the returning officer and members of the returning officer’s staff.
 
 (2) The returning officer must be the relevant officer for the purposes of section 6E of that Act (powers of the relevant officer to limit attendance and the conduct of observers).
 
-#### 5. Persons entitled to be present at proceedings on receipt of postal ballot papers[^key-d719eb575d6acc4d3b48bd8fdf03fa2e]
+#### 5. Persons entitled to be present at proceedings on receipt of postal ballot papers[^c-d719eb575d6acc4d3b48bd8fdf03fa2e]
 
 (1) Subject to paragraph 6, without prejudice to the provisions of section 6A, 6B, 6C, 6D or 6E of the 2000 Political Parties Act, only the following persons may be present at the proceedings on the receipt of postal ballot papers—
 
@@ -70,7 +70,7 @@ Where the polls at elections are taken together under article 15(1) (combination
 
 (2) The returning officer must be the relevant officer for the purposes of section 6E of the 2000 Political Parties Act.
 
-#### 6. Appointment of agents to be present at proceedings on receipt of postal ballot papers[^key-9765c84444cb22a052164cb60c43937d]
+#### 6. Appointment of agents to be present at proceedings on receipt of postal ballot papers[^c-9765c84444cb22a052164cb60c43937d]
 
 (1) Subject to sub-paragraph (2), each—
 
@@ -102,15 +102,15 @@ may do any act or thing which any agent of the individual candidate or of the re
 
 (10) Where in this Schedule any act or thing is required or authorised to be done in the presence of the individual candidates or their agents or the agents of a registered political party standing nominated, the non-attendance of any such person at the time and place appointed for the purpose will not, if the act or thing is otherwise duly done, invalidate the act or thing done.
 
-#### 7. Notification of requirement of secrecy[^key-6671f99ff4ff489abfdf2d273b0000b9]
+#### 7. Notification of requirement of secrecy[^c-6671f99ff4ff489abfdf2d273b0000b9]
 
 The returning officer must make arrangements to ensure that every person attending the proceedings in connection with the issue and receipt of postal ballot papers has been given a notice setting out the provisions of article 35(5) and (7) (requirement of secrecy).
 
-#### 8. Time when postal ballot papers are to be issued[^key-0f47a1590a07626278373293c99b00aa]
+#### 8. Time when postal ballot papers are to be issued[^c-0f47a1590a07626278373293c99b00aa]
 
 Postal ballot papers and postal voting statements must be issued by the returning officer as soon as it is practicable to do so after the deadline for the delivery of nomination papers.
 
-#### 9. Procedure on issue of postal ballot paper[^key-98e38568312e4d3d794cffdcf810a4b6]
+#### 9. Procedure on issue of postal ballot paper[^c-98e38568312e4d3d794cffdcf810a4b6]
 
 (1) The number of the elector as stated in the register must be marked on the corresponding number list, next to the number and unique identifying mark of the ballot paper issued to that elector.
 
@@ -135,11 +135,11 @@ Postal ballot papers and postal voting statements must be issued by the returnin
 - (a) as shown in the record kept under article 6(4) or 10(6), or
 - (b) as given in pursuance of an application made under article 7(1) or (2) or 10(4).
 
-#### 10. Refusal to issue postal ballot papers[^key-ac6334a1e9703803d52766c281f81ddd]
+#### 10. Refusal to issue postal ballot papers[^c-ac6334a1e9703803d52766c281f81ddd]
 
 Where a returning officer is satisfied that two or more entries in either the postal voters list or the proxy postal voters list, or in each of those lists, relate to the same elector, the returning officer must not issue more than one ballot paper in respect of the same elector for the same Senedd election.
 
-#### 11. Envelopes[^key-8b0616097b13a889cb2f251283ddf748]
+#### 11. Envelopes[^c-8b0616097b13a889cb2f251283ddf748]
 
 (1) Sub-paragraphs (2) and (3) prescribe the requirements for the envelopes that must be issued to a postal voter by the returning officer in addition to the ballot paper, or ballot papers, and the postal voting statement issued in accordance with rule 32 of Schedule 5 (postal ballot papers).
 
@@ -165,7 +165,7 @@ Where a returning officer is satisfied that two or more entries in either the po
   - (i) “Amlen papur pleidleisio” there must be added the words “ar gyfer y papur(au) pleidleisio lliw \[nodwch liw’r papur(au) pleidleisio\]”, and
   - (ii) “Ballot paper envelope” there must be added the words “for the \[insert colour of ballot paper(s)\] coloured ballot paper(s)”.
 
-#### 12. Security of marked lists[^key-0dd34d1fc44876813cd5f6fddee81cd2]
+#### 12. Security of marked lists[^c-0dd34d1fc44876813cd5f6fddee81cd2]
 
 (1) As soon as practicable after the issue of each batch of postal ballot papers, the returning officer must—
 
@@ -174,7 +174,7 @@ Where a returning officer is satisfied that two or more entries in either the po
 
 (2) Until the packet has been sealed in accordance with paragraph 21(9), the returning officer must take all proper precautions for the security of the marked copy of the postal voters list and the proxy postal voters list.
 
-#### 13. Delivery of postal ballot papers[^key-0e5ba5fac380dc55754b7d918114fd3d]
+#### 13. Delivery of postal ballot papers[^c-0e5ba5fac380dc55754b7d918114fd3d]
 
 (1) For the purposes of delivering postal ballot papers, the returning officer may use—
 
@@ -188,7 +188,7 @@ Where a returning officer is satisfied that two or more entries in either the po
 
 (4) Return postage must be prepaid on all covering envelopes where the address provided by the postal voter for the receipt of the postal ballot paper is within the United Kingdom.
 
-#### 14. Spoilt postal ballot paper[^key-fc3f568de033cfa5c0ae431b90933312]
+#### 14. Spoilt postal ballot paper[^c-fc3f568de033cfa5c0ae431b90933312]
 
 (1) If a postal voter (“**P**”) has inadvertently dealt with P’s postal ballot paper or postal voting statement in a manner that it cannot be conveniently used as a ballot paper (referred to as “**a spoilt postal ballot paper**”) or a postal voting statement (referred to as “**a spoilt postal voting statement**”), P may return the spoilt postal ballot paper or the spoilt postal voting statement to the returning officer, either by hand or by post.
 
@@ -198,7 +198,7 @@ Where a returning officer is satisfied that two or more entries in either the po
 - (b) where postal ballot papers for more than one election have been issued together, including under paragraph 2, all other ballot papers so issued, whether spoilt or not, and
 - (c) the envelopes supplied for the return of the documents mentioned in sub-paragraph (1) and paragraphs (a) and (b) of this sub-paragraph.
 
-(3) Subject to sub-paragraph (4), where P returns the documents referred to in sub-paragraph (1), and, where applicable, sub-paragraph (2), to the returning officer, the returning officer must issue a replacement postal ballot paper or ballot papers , except where those documents are received after 5.00 p.m. on the day of the poll[^key-95e564172f81daf318e32e693cb8ea00].
+(3) Subject to sub-paragraph (4), where P returns the documents referred to in sub-paragraph (1), and, where applicable, sub-paragraph (2), to the returning officer, the returning officer must issue a replacement postal ballot paper or ballot papers , except where those documents are received after 5.00 p.m. on the day of the poll[^c-95e564172f81daf318e32e693cb8ea00].
 
 (4) Where the returning officer receives the documents referred to in sub-paragraph (1) and, where applicable sub-paragraph (2), after 5.00 p.m. on the day before the day of the poll, the returning officer must only issue a replacement postal ballot paper or ballot papers if P has returned the documents by hand.
 
@@ -221,7 +221,7 @@ Where a returning officer is satisfied that two or more entries in either the po
 - (b) the number of the postal ballot paper, or papers, issued under this paragraph, and
 - (c) where the postal voter whose ballot paper is spoilt is a proxy, the proxy’s name and address.
 
-#### 15. Lost postal ballot papers[^key-06376394edb8efca1246889a40830561]
+#### 15. Lost postal ballot papers[^c-06376394edb8efca1246889a40830561]
 
 (1) Where a postal voter (“**P**”) claims either to have lost or not to have received—
 
@@ -272,7 +272,7 @@ the returning officer must issue another postal ballot paper, or other postal ba
 
 (14) When dealing with lost postal ballot papers the returning officer must have regard to any guidance issued by the Electoral Commission for the purposes of this paragraph.
 
-#### 16. Cancellation of postal ballot papers[^key-294e794a04c21b5b6f47bb9699191578]
+#### 16. Cancellation of postal ballot papers[^c-294e794a04c21b5b6f47bb9699191578]
 
 (1) Where after the deadline for the delivery of nomination papers an application under—
 
@@ -303,7 +303,7 @@ is granted, or a notice under article 9(9) (cancellation of proxy appointment) i
 
 ### Receipt of postal ballot papers
 
-#### 17. Notice of opening of postal ballot paper envelopes[^key-9d375a03b9b6d43345fec55157fdbdd9]
+#### 17. Notice of opening of postal ballot paper envelopes[^c-9d375a03b9b6d43345fec55157fdbdd9]
 
 (1) The returning officer must give not less than 48 hours’ notice in writing of each occasion on which a postal voters’ ballot box and the envelopes contained in it are to be opened to—
 
@@ -316,7 +316,7 @@ is granted, or a notice under article 9(9) (cancellation of proxy appointment) i
 - (a) the time and place at which the opening of the box and envelopes is to take place, and
 - (b) the number of agents an individual candidate or registered political party may appoint under paragraph 6 to attend each opening.
 
-#### 18. Postal ballot boxes and receptacles[^key-f60ddb83fa2c1a8bfd17b2fe252304c0]
+#### 18. Postal ballot boxes and receptacles[^c-f60ddb83fa2c1a8bfd17b2fe252304c0]
 
 (1) The returning officer must provide a separate ballot box for the reception of—
 
@@ -351,7 +351,7 @@ is granted, or a notice under article 9(9) (cancellation of proxy appointment) i
 
 (7) The returning officer must take proper precautions for the safe custody of every ballot box and receptacle referred to in this paragraph.
 
-#### 19. Receipt of covering envelope[^key-c8c20680d5a04363d118368c4ae86716]
+#### 19. Receipt of covering envelope[^c-c8c20680d5a04363d118368c4ae86716]
 
 (1) Where, before the close of the poll, the returning officer receives—
 
@@ -371,7 +371,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 
 (4) Where the returning officer collects, or causes to be collected, any postal ballot paper or postal voting statement in accordance with sub-paragraph (3), the presiding officer must first make it, or them, up into a packet, or packets, sealed with the presiding officer’s own seal and the seals of any polling agents as are present and who wish to add their seals.
 
-#### 20. Opening of postal voters’ ballot box[^key-26a0f1f90472b5cb7d5e7b8c1038f70a]
+#### 20. Opening of postal voters’ ballot box[^c-26a0f1f90472b5cb7d5e7b8c1038f70a]
 
 (1) Each postal voters ballot box must be opened by the returning officer in the presence of any agents, if in attendance.
 
@@ -379,7 +379,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 
 (3) The last postal voters ballot box and all postal ballot boxes must be opened at the counting of the votes under rule 58 of Schedule 5 (the count: steps).
 
-#### 21. Opening of covering envelopes[^key-ae9cc513824ef6b8c41b7fef68141340]
+#### 21. Opening of covering envelopes[^c-ae9cc513824ef6b8c41b7fef68141340]
 
 (1) When a postal voters’ ballot box is opened, the returning officer must count and record the number of covering envelopes, including any envelope which is stated to include a postal vote and any envelope described in paragraph 19(2).
 
@@ -402,7 +402,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 
 (9) As soon as practicable after the last covering envelope has been opened, the returning officer must make up into a packet the copies of the marked postal voters list and proxy postal voters list that have been marked in accordance with sub-paragraph (7), and must seal the packet.
 
-#### 22. Confirming receipt of postal voting statements[^key-be7dfa471aa7cb79b8c319a073408d88]
+#### 22. Confirming receipt of postal voting statements[^c-be7dfa471aa7cb79b8c319a073408d88]
 
 (1) An elector or a proxy voter who is shown in the postal voters list or proxy postal voters list may make a request, at any time between the first issue of postal ballots under paragraph 9 and the close of poll, that the returning officer confirm—
 
@@ -418,7 +418,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 
 (4) When dealing with requests under sub-paragraph (1), the returning officer must have regard to any guidance issued by the Electoral Commission for the purposes of this paragraph.
 
-#### 23. Procedure in relation to postal voting statements: personal identifier verification[^key-00d2a8c23594653c497b459d21a9f539]
+#### 23. Procedure in relation to postal voting statements: personal identifier verification[^c-00d2a8c23594653c497b459d21a9f539]
 
 (1) This paragraph applies in the circumstances described in paragraph 21(3) (covering envelope contains a postal voting statement).
 
@@ -458,7 +458,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
   - (ii) in the case of a statement on which the number of more than one ballot paper appears, there is not a sufficient number of ballot papers and, in such a case, the returning officer must mark the statement to indicate which ballot paper is missing;
 - (d) in the receptacle for postal voting statements (verification procedure), any valid statement not disposed of under paragraph (b) or (c) of this sub-paragraph.
 
-#### 24. Opening of ballot paper envelopes[^key-d3c5fe27082abba8b9404ea0f67989cb]
+#### 24. Opening of ballot paper envelopes[^c-d3c5fe27082abba8b9404ea0f67989cb]
 
 (1) The returning officer must open separately each ballot paper envelope placed in the receptacle for ballot paper envelopes.
 
@@ -468,7 +468,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 - (b) in the receptacle for rejected votes, any other ballot paper, which must be marked with the words “gwrthodwyd dros dro” or the words “provisionally rejected” or both, and to which must be attached the ballot paper envelope;
 - (c) in the receptacle for rejected ballot paper envelopes, any ballot paper envelope which must be marked with the words “gwrthodwyd dros dro” or the words “provisionally rejected” or both, because it does not contain either a ballot paper or, where more than one number appears on the ballot paper envelope, a sufficient number of ballot papers, and state, in such a case, the missing ballot paper or papers.
 
-#### 25. Retrieval of cancelled postal ballot papers[^key-34166ecc2033908f05a013658300067f]
+#### 25. Retrieval of cancelled postal ballot papers[^c-34166ecc2033908f05a013658300067f]
 
 (1) The returning officer must comply with sub-paragraphs (2) and (3) where it appears to the returning officer that a cancelled postal ballot paper has been placed—
 
@@ -490,7 +490,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 - (a) must keep the ballot papers face downwards and must take all proper precautions for preventing any person seeing the votes made on the ballot papers, and
 - (b) must not be permitted to view the corresponding number list used at the issue of postal ballot papers.
 
-#### 26. Lists of rejected postal ballot papers[^key-17d5ece6445d455a0b19ddf99df8a8aa]
+#### 26. Lists of rejected postal ballot papers[^c-17d5ece6445d455a0b19ddf99df8a8aa]
 
 (1) In respect of any election, the returning officer must keep three separate lists relating to rejected postal ballot papers.
 
@@ -512,7 +512,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 - (c) the signature field is blank;
 - (d) the date of birth field is blank.
 
-#### 27. Checking of lists kept under paragraph 26[^key-90065a87740cf27081be8203e6341e50]
+#### 27. Checking of lists kept under paragraph 26[^c-90065a87740cf27081be8203e6341e50]
 
 (1) Where the returning officer receives a valid postal voting statement without the postal ballot paper, or papers, or all of the papers, to which it relates, the returning officer may, at any time prior to the close of the poll, check the list kept under paragraph 26(2) to see whether the number, or numbers, of a postal ballot paper to which the statement relates is or are entered in that list.
 
@@ -524,7 +524,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 
 (5) The returning officer must then take the appropriate steps under this Schedule as though any document earlier marked with the words “gwrthodwyd dros dro” or the words “provisionally rejected” or both, had not been so marked and must amend the document accordingly.
 
-#### 28. Sealing of receptacles[^key-efae255d8e6c04588449fb9c5f33966b]
+#### 28. Sealing of receptacles[^c-efae255d8e6c04588449fb9c5f33966b]
 
 (1) As soon as practicable after the completion of the procedure under paragraph 27(3) to (5), the returning officer must make up into separate packets the contents of—
 
@@ -538,7 +538,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 
 (3) Any documents in those packets marked with the words “gwrthodwyd dros dro” or the words “provisionally rejected” or both, are to be deemed to be marked with the word “gwrthodwyd” or the word “rejected” or both.
 
-#### 29. Abandoned poll[^key-80bda573d7699c9b370355a517d8bf56]
+#### 29. Abandoned poll[^c-80bda573d7699c9b370355a517d8bf56]
 
 (1) Where a poll is abandoned or countermanded after postal ballot papers have been issued, by reason of the death of a candidate, the returning officer—
 
@@ -547,7 +547,7 @@ the first-mentioned envelope, together with its contents, must be placed in a po
 
 (2) Sub-paragraph (1) does not apply where postal ballot papers for more than one election have been issued together under paragraph 2.
 
-#### 30. Forwarding of documents[^key-1e10de6334e3f9c9be910205bbfece6e]
+#### 30. Forwarding of documents[^c-1e10de6334e3f9c9be910205bbfece6e]
 
 (1) At the same time as the returning officer forwards the documents mentioned in rule 67 of Schedule 5 (delivery of documents to registration officer at contested elections) to the relevant registration officer, the returning officer must also forward to the same registration officer—
 
@@ -573,66 +573,66 @@ the returning officer must put them unopened in a separate packet, seal up the p
 
 ## Annotations
 
-[^key-874ab9030807f560b752761d6fc1a98a]: Commencement: Sch. 2 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-874ab9030807f560b752761d6fc1a98a]: Commencement: Sch. 2 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-77a2bd489e7c8f409c8e434479145491]: Commencement: Sch. 2 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-77a2bd489e7c8f409c8e434479145491]: Commencement: Sch. 2 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-2356710b676b66b4a1037c72f67cff21]: Commencement: Sch. 2 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-2356710b676b66b4a1037c72f67cff21]: Commencement: Sch. 2 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-4b9d984c8af48087bc091b40d6ee88f2]: Commencement: Sch. 2 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4b9d984c8af48087bc091b40d6ee88f2]: Commencement: Sch. 2 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00102]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41). Sections 6A to 6E were inserted by section 29 of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22). Section 6A was amended by paragraph 10 of Schedule 10 to Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13); paragraph 3 of Schedule 6 to the Recall of MPs Act [2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25) and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388). Section 6C was amended by paragraph 5 of Schedule 2 to the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1). Section 6D was amended by paragraph 6 of Schedule 2 to the Senedd and Elections (Wales) Act 2020.
 
-[^key-d719eb575d6acc4d3b48bd8fdf03fa2e]: Commencement: Sch. 2 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d719eb575d6acc4d3b48bd8fdf03fa2e]: Commencement: Sch. 2 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-9765c84444cb22a052164cb60c43937d]: Commencement: Sch. 2 para. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-9765c84444cb22a052164cb60c43937d]: Commencement: Sch. 2 para. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-6671f99ff4ff489abfdf2d273b0000b9]: Commencement: Sch. 2 para. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-6671f99ff4ff489abfdf2d273b0000b9]: Commencement: Sch. 2 para. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-0f47a1590a07626278373293c99b00aa]: Commencement: Sch. 2 para. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-0f47a1590a07626278373293c99b00aa]: Commencement: Sch. 2 para. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-98e38568312e4d3d794cffdcf810a4b6]: Commencement: Sch. 2 para. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-98e38568312e4d3d794cffdcf810a4b6]: Commencement: Sch. 2 para. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-ac6334a1e9703803d52766c281f81ddd]: Commencement: Sch. 2 para. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ac6334a1e9703803d52766c281f81ddd]: Commencement: Sch. 2 para. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-8b0616097b13a889cb2f251283ddf748]: Commencement: Sch. 2 para. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8b0616097b13a889cb2f251283ddf748]: Commencement: Sch. 2 para. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-0dd34d1fc44876813cd5f6fddee81cd2]: Commencement: Sch. 2 para. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-0dd34d1fc44876813cd5f6fddee81cd2]: Commencement: Sch. 2 para. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-0e5ba5fac380dc55754b7d918114fd3d]: Commencement: Sch. 2 para. 13 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-0e5ba5fac380dc55754b7d918114fd3d]: Commencement: Sch. 2 para. 13 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-fc3f568de033cfa5c0ae431b90933312]: Commencement: Sch. 2 para. 14 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-fc3f568de033cfa5c0ae431b90933312]: Commencement: Sch. 2 para. 14 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-95e564172f81daf318e32e693cb8ea00]: Textual amendment: Words in [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/wsi/2025/864/schedule/2/paragraph/14/3) inserted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [42](https://www.legislation.gov.uk/wsi/2026/91/regulation/42)
+[^c-95e564172f81daf318e32e693cb8ea00]: Textual amendment: Words in [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/wsi/2025/864/schedule/2/paragraph/14/3) inserted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [42](https://www.legislation.gov.uk/wsi/2026/91/regulation/42)
 
-[^key-06376394edb8efca1246889a40830561]: Commencement: Sch. 2 para. 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-06376394edb8efca1246889a40830561]: Commencement: Sch. 2 para. 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-294e794a04c21b5b6f47bb9699191578]: Commencement: Sch. 2 para. 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-294e794a04c21b5b6f47bb9699191578]: Commencement: Sch. 2 para. 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-9d375a03b9b6d43345fec55157fdbdd9]: Commencement: Sch. 2 para. 17 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-9d375a03b9b6d43345fec55157fdbdd9]: Commencement: Sch. 2 para. 17 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-f60ddb83fa2c1a8bfd17b2fe252304c0]: Commencement: Sch. 2 para. 18 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f60ddb83fa2c1a8bfd17b2fe252304c0]: Commencement: Sch. 2 para. 18 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-c8c20680d5a04363d118368c4ae86716]: Commencement: Sch. 2 para. 19 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-c8c20680d5a04363d118368c4ae86716]: Commencement: Sch. 2 para. 19 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-26a0f1f90472b5cb7d5e7b8c1038f70a]: Commencement: Sch. 2 para. 20 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-26a0f1f90472b5cb7d5e7b8c1038f70a]: Commencement: Sch. 2 para. 20 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-ae9cc513824ef6b8c41b7fef68141340]: Commencement: Sch. 2 para. 21 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ae9cc513824ef6b8c41b7fef68141340]: Commencement: Sch. 2 para. 21 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-be7dfa471aa7cb79b8c319a073408d88]: Commencement: Sch. 2 para. 22 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-be7dfa471aa7cb79b8c319a073408d88]: Commencement: Sch. 2 para. 22 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-00d2a8c23594653c497b459d21a9f539]: Commencement: Sch. 2 para. 23 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-00d2a8c23594653c497b459d21a9f539]: Commencement: Sch. 2 para. 23 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-d3c5fe27082abba8b9404ea0f67989cb]: Commencement: Sch. 2 para. 24 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d3c5fe27082abba8b9404ea0f67989cb]: Commencement: Sch. 2 para. 24 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-34166ecc2033908f05a013658300067f]: Commencement: Sch. 2 para. 25 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-34166ecc2033908f05a013658300067f]: Commencement: Sch. 2 para. 25 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-17d5ece6445d455a0b19ddf99df8a8aa]: Commencement: Sch. 2 para. 26 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-17d5ece6445d455a0b19ddf99df8a8aa]: Commencement: Sch. 2 para. 26 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-90065a87740cf27081be8203e6341e50]: Commencement: Sch. 2 para. 27 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-90065a87740cf27081be8203e6341e50]: Commencement: Sch. 2 para. 27 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-efae255d8e6c04588449fb9c5f33966b]: Commencement: Sch. 2 para. 28 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-efae255d8e6c04588449fb9c5f33966b]: Commencement: Sch. 2 para. 28 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-80bda573d7699c9b370355a517d8bf56]: Commencement: Sch. 2 para. 29 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-80bda573d7699c9b370355a517d8bf56]: Commencement: Sch. 2 para. 29 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-1e10de6334e3f9c9be910205bbfece6e]: Commencement: Sch. 2 para. 30 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-1e10de6334e3f9c9be910205bbfece6e]: Commencement: Sch. 2 para. 30 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

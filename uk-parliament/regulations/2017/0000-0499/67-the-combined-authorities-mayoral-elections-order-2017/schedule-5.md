@@ -25,9 +25,9 @@ Article 8
 **1.** In this Schedule—
 
 - “**candidate**” means a person who stands nominated as a candidate at the election;
-- [^key-056a87d41b2b72dfc8ad45fcbf0895e7]...
+- [^c-056a87d41b2b72dfc8ad45fcbf0895e7]...
 - “**election address**” shall be construed in accordance with paragraph 2;
-- “[^key-3de2531d55ac11b54b637782e60233a5]**elector**” means—
+- “[^c-3de2531d55ac11b54b637782e60233a5]**elector**” means—
   - (a) in relation to a combined authority mayoral election, a person entitled, in accordance with paragraph 6 of Schedule 5B to the 2009 Act, to vote in that election;
   - (b) in relation to a combined county authority mayoral election, a person entitled, in accordance with paragraph 5 of Schedule 2 to the 2023 Act, to vote at that election;
 - “**election booklet**” shall be construed in accordance with paragraph 5;
@@ -51,7 +51,7 @@ Article 8
 (5) In sub-paragraph (3) “**authorised party candidate**”, in relation to a registered political party, means a candidate who has been authorised to use the emblem or description in question by a certificate—
 
 - (a) issued by or on behalf of the registered nominating officer of the party, and
-- (b) received by the CA/CCA[^key-7a9eff35d4455684055cc4b5649eb98a] returning officer before the last time for the delivery of nomination papers for the election.
+- (b) received by the CA/CCA[^c-7a9eff35d4455684055cc4b5649eb98a] returning officer before the last time for the delivery of nomination papers for the election.
 
 (6) An election address must—
 
@@ -65,7 +65,7 @@ Article 8
 
 (2) An election address must be printed on not more than two sides of A5 paper, but if such an address is printed on two sides of such paper—
 
-- (a) it must, when submitted to the CA/CCA[^key-f3c7b42ca5c1ba5b84562a02ef7143b6] returning officer for inclusion in the election booklet, be accompanied by a second version printed on a single side of such paper, and
+- (a) it must, when submitted to the CA/CCA[^c-f3c7b42ca5c1ba5b84562a02ef7143b6] returning officer for inclusion in the election booklet, be accompanied by a second version printed on a single side of such paper, and
 - (b) if the total number of candidates from whom election addresses have been accepted by the CA/CCA returning officer by the last time for delivery of nomination papers for the election exceeds 15, the version to be included in the election booklet shall be the second version.
 
 (3) An election address must—
@@ -78,7 +78,7 @@ Article 8
 - (a) where the address is to contain a photograph of the candidate, by two identical copies of the photograph, of which one is signed on the back by the candidate, and
 - (b) in any case, by such copies of anything contained in the address as the CA/CCA returning officer may reasonably require in connection with the reproduction of the address.
 
-**5.** (1)[^key-c2b1ef36b6fabbdb98d00f4ad54a7743] For the purposes of this Schedule, the election booklet is a document prepared by the CA/CCA[^key-69e0f66ffdd751f69fbffb1036020059] returning officer which contains the election addresses of all candidates who—
+**5.** (1)[^c-c2b1ef36b6fabbdb98d00f4ad54a7743] For the purposes of this Schedule, the election booklet is a document prepared by the CA/CCA[^c-69e0f66ffdd751f69fbffb1036020059] returning officer which contains the election addresses of all candidates who—
 
 - (a) desire their election addresses to be included in the booklet, and
 - (b) have submitted—
@@ -94,7 +94,7 @@ to the CA/CCA returning officer before the last time for the delivery of nominat
 
 the CA/CCA returning officer shall decline to include the address in the election booklet.
 
-**6.** (1) The order in which the candidates' election addresses appear in the election booklet shall be determined by lot drawn by the CA/CCA[^key-5a1a8e4a62c3717c4b953ace5aedd8d4] returning officer as soon as reasonably practicable after the last time for the delivery of nomination papers for the election.
+**6.** (1) The order in which the candidates' election addresses appear in the election booklet shall be determined by lot drawn by the CA/CCA[^c-5a1a8e4a62c3717c4b953ace5aedd8d4] returning officer as soon as reasonably practicable after the last time for the delivery of nomination papers for the election.
 
 (2) The election booklet may include, in addition to candidates' election addresses, a statement by the CA/CCA returning officer—
 
@@ -144,16 +144,16 @@ shall incur any civil or criminal liability in respect of the publication of tha
 
 ## Annotations
 
-[^key-056a87d41b2b72dfc8ad45fcbf0895e7]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/1) omitted (7.2.2024) by virtue of [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(2)(a)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/2/a)
+[^c-056a87d41b2b72dfc8ad45fcbf0895e7]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/1) omitted (7.2.2024) by virtue of [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(2)(a)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/2/a)
 
-[^key-3de2531d55ac11b54b637782e60233a5]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/1) substituted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(2)(b)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/2/b)
+[^c-3de2531d55ac11b54b637782e60233a5]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/1) substituted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(2)(b)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/2/b)
 
-[^key-7a9eff35d4455684055cc4b5649eb98a]: Textual amendment: Word in [Sch. 5 para. 3(5)(b)](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/3/5/b) substituted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/3)
+[^c-7a9eff35d4455684055cc4b5649eb98a]: Textual amendment: Word in [Sch. 5 para. 3(5)(b)](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/3/5/b) substituted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/3)
 
-[^key-f3c7b42ca5c1ba5b84562a02ef7143b6]: Textual amendment: Word in [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/4) substituted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/3)
+[^c-f3c7b42ca5c1ba5b84562a02ef7143b6]: Textual amendment: Word in [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/4) substituted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/3)
 
-[^key-c2b1ef36b6fabbdb98d00f4ad54a7743]: Textual amendment: Words in [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/5/1) renumbered as Sch. 5 para. 5(1) (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(4)(a)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/4/a)
+[^c-c2b1ef36b6fabbdb98d00f4ad54a7743]: Textual amendment: Words in [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/5/1) renumbered as Sch. 5 para. 5(1) (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(4)(a)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/4/a)
 
-[^key-69e0f66ffdd751f69fbffb1036020059]: Textual amendment: Word in [Sch. 5 para. 5(1)](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/5/1)[(2)](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/5/2) substituted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(4)(b)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/4/b)
+[^c-69e0f66ffdd751f69fbffb1036020059]: Textual amendment: Word in [Sch. 5 para. 5(1)](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/5/1)[(2)](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/5/2) substituted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(4)(b)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/4/b)
 
-[^key-5a1a8e4a62c3717c4b953ace5aedd8d4]: Textual amendment: Word in [Sch. 5 paras. 6-9](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/6) substituted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(5)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/5)
+[^c-5a1a8e4a62c3717c4b953ace5aedd8d4]: Textual amendment: Word in [Sch. 5 paras. 6-9](https://www.legislation.gov.uk/uksi/2017/67/schedule/5/paragraph/6) substituted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [14(5)](https://www.legislation.gov.uk/uksi/2024/131/regulation/14/5)

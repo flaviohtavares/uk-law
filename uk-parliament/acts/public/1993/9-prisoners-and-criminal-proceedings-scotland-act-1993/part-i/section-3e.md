@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3E. Effect of early release from prison or young offenders institution by virtue of regulations[^key-117a8bc800e4f3116ac6c47d5fc6a4dd]
+## 3E. Effect of early release from prison or young offenders institution by virtue of regulations[^c-117a8bc800e4f3116ac6c47d5fc6a4dd]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-117a8bc800e4f3116ac6c47d5fc6a4dd]: Textual amendment: [Ss. 3C-3E](https://www.legislation.gov.uk/ukpga/1993/9/section/3C) inserted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 11(2)](https://www.legislation.gov.uk/asp/2023/4/section/11/2), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
+[^c-117a8bc800e4f3116ac6c47d5fc6a4dd]: Textual amendment: [Ss. 3C-3E](https://www.legislation.gov.uk/ukpga/1993/9/section/3C) inserted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 11(2)](https://www.legislation.gov.uk/asp/2023/4/section/11/2), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)

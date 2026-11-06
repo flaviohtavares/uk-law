@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Obtaining minor surgery services[^key-c1cc6fe378bd14f04aa781295477ab6d]
+## 36. Obtaining minor surgery services[^c-c1cc6fe378bd14f04aa781295477ab6d]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ for the provision of a procedure specified in Schedule 7 and the provisions of r
 
 ## Annotations
 
-[^key-c1cc6fe378bd14f04aa781295477ab6d]: Commencement: Reg. 36 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-c1cc6fe378bd14f04aa781295477ab6d]: Commencement: Reg. 36 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

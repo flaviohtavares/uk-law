@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 277. “Give notice”, etc.[^key-15b1e9181954625e260285e8347517d9]
+## 277. “Give notice”, etc.[^c-15b1e9181954625e260285e8347517d9]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 13.3[^f00101] of the 1986 Rules. In paragraph (3) leave out from “e
 
 ## Annotations
 
-[^key-15b1e9181954625e260285e8347517d9]: Commencement: Rule 277 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-15b1e9181954625e260285e8347517d9]: Commencement: Rule 277 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00101]: Footnote: Rule 13.3 was amended by [S.I. 2009/642](https://www.legislation.gov.uk/uksi/2009/642).

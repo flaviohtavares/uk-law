@@ -56,11 +56,11 @@ In accordance with Article 144(7) of Regulation (EU) 2017/625 [^c24426681], befo
 
 In accordance with the preconditions in Article 3(2B) of that Regulation, the Welsh Ministers, in relation to the application of these Regulations in relation to Wales, and the Scottish Ministers, in relation to the application of these Regulations in relation to Scotland, have consented to the Secretary of State making these Regulations.
 
-## 1. Citation and commencement[^key-6715981cb85807dfe9f6ceaba7bf3771]
+## 1. Citation and commencement[^c-6715981cb85807dfe9f6ceaba7bf3771]
 
 These Regulations may be cited as the Official Controls (Temporary Measures) (Coronavirus) (Amendment) Regulations 2021 and come into force on 31st January 2021.
 
-## 2. Amendments to Commission Implementing Regulation (EU) 2020/466 on temporary measures to contain risks to human, animal and plant health and animal welfare during certain serious disruptions of member States' control systems due to coronavirus disease (COVID-19)[^key-c3eaa94b73e74c03121cab066f1e4885]
+## 2. Amendments to Commission Implementing Regulation (EU) 2020/466 on temporary measures to contain risks to human, animal and plant health and animal welfare during certain serious disruptions of member States' control systems due to coronavirus disease (COVID-19)[^c-c3eaa94b73e74c03121cab066f1e4885]
 
 (1) Commission Implementing Regulation (EU) 2020/466 on temporary measures to contain risks to human, animal and plant health and animal welfare during certain serious disruptions of member States' control systems due to coronavirus disease (COVID-19) [^c24426691] is amended as follows.
 
@@ -74,7 +74,7 @@ These Regulations may be cited as the Official Controls (Temporary Measures) (Co
 
 (3) In Article 4(1), at the end of the words before point (a) insert “ , whether at a border control post or at a location remote from a border control post ”.
 
-(4)[^key-197b38c7b9225674119600bcb9f5a136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-197b38c7b9225674119600bcb9f5a136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Gardiner of Kimble
 
@@ -96,10 +96,10 @@ The Welsh Ministers, in relation to the application of these Regulations in rela
 
 [^c24426681]: Marginal citation: [Article 144](https://www.legislation.gov.uk/uksi/2021/78/article/144) of Regulation (EU) 2017/625 was substituted by regulation 27(4) of [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
-[^key-6715981cb85807dfe9f6ceaba7bf3771]: Commencement: Reg. 1 in force at 31.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/78/regulation/1)
+[^c-6715981cb85807dfe9f6ceaba7bf3771]: Commencement: Reg. 1 in force at 31.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/78/regulation/1)
 
-[^key-c3eaa94b73e74c03121cab066f1e4885]: Commencement: Reg. 2 in force at 31.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/78/regulation/1)
+[^c-c3eaa94b73e74c03121cab066f1e4885]: Commencement: Reg. 2 in force at 31.1.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/78/regulation/1)
 
 [^c24426691]: Marginal citation: Regulation (EU) 2020/466. This Regulation was amended by regulation 38 of [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
-[^key-197b38c7b9225674119600bcb9f5a136]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2021/78/regulation/2/4) omitted (30.6.2021 immediately after reg. 2 of the amending S.I.) by virtue of [The Official Controls (Temporary Measures) (Coronavirus) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/681)](https://www.legislation.gov.uk/uksi/2021/681), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/681/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2021/681/regulation/3/2)
+[^c-197b38c7b9225674119600bcb9f5a136]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2021/78/regulation/2/4) omitted (30.6.2021 immediately after reg. 2 of the amending S.I.) by virtue of [The Official Controls (Temporary Measures) (Coronavirus) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/681)](https://www.legislation.gov.uk/uksi/2021/681), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/681/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2021/681/regulation/3/2)

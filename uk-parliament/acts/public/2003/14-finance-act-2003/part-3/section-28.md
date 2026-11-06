@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Liability of directors etc where body corporate liable to penalty for evasion[^key-b751839df7a1e97feb86b73cd34900b7]
+## 28. Liability of directors etc where body corporate liable to penalty for evasion[^c-b751839df7a1e97feb86b73cd34900b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ the Commissioners may give a notice under this section to the body corporate (or
 
 ## Annotations
 
-[^key-b751839df7a1e97feb86b73cd34900b7]: Commencement: S. 28 in force at 27.11.2003 by [S.I. 2003/2985](https://www.legislation.gov.uk/uksi/2003/2985), [art. 2](https://www.legislation.gov.uk/uksi/2003/2985/article/2)
+[^c-b751839df7a1e97feb86b73cd34900b7]: Commencement: S. 28 in force at 27.11.2003 by [S.I. 2003/2985](https://www.legislation.gov.uk/uksi/2003/2985), [art. 2](https://www.legislation.gov.uk/uksi/2003/2985/article/2)

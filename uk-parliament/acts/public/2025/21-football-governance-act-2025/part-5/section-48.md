@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Duty not to relocate without approval[^key-72ea9b81a59bd5bd4ad3d88d97caf43f][^key-07cb56a4588c125580cdc32cfb135e23]
+## 48. Duty not to relocate without approval[^c-72ea9b81a59bd5bd4ad3d88d97caf43f][^c-07cb56a4588c125580cdc32cfb135e23]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72ea9b81a59bd5bd4ad3d88d97caf43f]: Commencement: S. 48 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-72ea9b81a59bd5bd4ad3d88d97caf43f]: Commencement: S. 48 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-07cb56a4588c125580cdc32cfb135e23]: Commencement: S. 48 in force at 1.7.2026 in so far as not already in force by [S.I. 2026/705](https://www.legislation.gov.uk/uksi/2026/705), [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/705/regulation/2/1/a/ii)
+[^c-07cb56a4588c125580cdc32cfb135e23]: Commencement: S. 48 in force at 1.7.2026 in so far as not already in force by [S.I. 2026/705](https://www.legislation.gov.uk/uksi/2026/705), [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/705/regulation/2/1/a/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-255e6bdc2d8e29413ab750f6feb2e3d6]
+## 1. Citation and commencement[^c-255e6bdc2d8e29413ab750f6feb2e3d6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Millbrook Gas Fired Generating Station Order 2019
 
 ## Annotations
 
-[^key-255e6bdc2d8e29413ab750f6feb2e3d6]: Commencement: Art. 1 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-255e6bdc2d8e29413ab750f6feb2e3d6]: Commencement: Art. 1 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

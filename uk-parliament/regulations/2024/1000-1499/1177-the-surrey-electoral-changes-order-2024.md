@@ -44,7 +44,7 @@ A draft of the instrument has been laid before Parliament and a period of forty 
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
 
-## 1. Citation, commencement, extent and application[^key-e3448d74ce48a7c70585f43d23ef1da6]
+## 1. Citation, commencement, extent and application[^c-e3448d74ce48a7c70585f43d23ef1da6]
 
 (1) This Order may be cited as the Surrey (Electoral Changes) Order 2024.
 
@@ -53,7 +53,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 (3) Article 3 comes into force—
 
 - (a) for the purpose of proceedings preliminary or relating to the election of councillors, on the day after the day on which this Order is made;
-- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00004] in 2027[^key-559d7fed1fb3cb76f30cb5522f2f1210].
+- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00004] in 2027[^c-559d7fed1fb3cb76f30cb5522f2f1210].
 
 (4) Article 4 comes into force—
 
@@ -62,13 +62,13 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (5) This Order extends to England and Wales but applies in relation to England only.
 
-## 2. Interpretation[^key-6b69067f00892a98d8c65082652ef508]
+## 2. Interpretation[^c-6b69067f00892a98d8c65082652ef508]
 
 (1) In this Order, “**the map**” means the map marked “Map referred to in the Surrey (Electoral Changes) Order 2024”, held by the Local Government Boundary Commission for England[^f00005].
 
 (2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 3. Divisions of Surrey and number of councillors[^key-f92ddee6a31e2b8cb80fe49ade4a88a6][^key-e95535c585b7a02fc9dbb0d816cf85ae]
+## 3. Divisions of Surrey and number of councillors[^c-f92ddee6a31e2b8cb80fe49ade4a88a6][^c-e95535c585b7a02fc9dbb0d816cf85ae]
 
 (1) The existing divisions of Surrey are abolished.
 
@@ -78,7 +78,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each division is one.
 
-## 4. Parish wards of the parishes of Ash, Horley, Witley & Milford and Worplesdon and number of councillors[^key-fc6b97359804f909ab5095d863db8eea][^key-60d39712dbe1af3f8f1d21ff29aee2a1]
+## 4. Parish wards of the parishes of Ash, Horley, Witley & Milford and Worplesdon and number of councillors[^c-fc6b97359804f909ab5095d863db8eea][^c-60d39712dbe1af3f8f1d21ff29aee2a1]
 
 **Not yet in force.**
 
@@ -108,11 +108,11 @@ Local Government Boundary Commission for England
 
 Schedules
 
-## Schedule 1 — Divisions of Surrey[^key-9c7de488dc238f8b8b9e43547dffe7da][^key-f616752e5f856847a9cb5c1ad36ad717]
+## Schedule 1 — Divisions of Surrey[^c-9c7de488dc238f8b8b9e43547dffe7da][^c-f616752e5f856847a9cb5c1ad36ad717]
 
 Article 3
 
-[^key-9c7de488dc238f8b8b9e43547dffe7da][^key-f616752e5f856847a9cb5c1ad36ad717]
+[^c-9c7de488dc238f8b8b9e43547dffe7da][^c-f616752e5f856847a9cb5c1ad36ad717]
 
 - 1. Addlestone
 - 2. Ash
@@ -196,7 +196,7 @@ Article 3
 - 80. Woodham & New Haw
 - 81. Worplesdon
 
-## Schedule 2 — Names of parish wards and number of councillors[^key-719dbdfa36ffb507dba7544e1b98ef6b][^key-7656b7520fb2bb0eb02fa8c55f417992]
+## Schedule 2 — Names of parish wards and number of councillors[^c-719dbdfa36ffb507dba7544e1b98ef6b][^c-7656b7520fb2bb0eb02fa8c55f417992]
 
 **Not yet in force.**
 
@@ -268,28 +268,28 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: The report is available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/surrey/.
 
-[^key-e3448d74ce48a7c70585f43d23ef1da6]: Commencement: Art. 1 in force at 13.11.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/2)
+[^c-e3448d74ce48a7c70585f43d23ef1da6]: Commencement: Art. 1 in force at 13.11.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/2)
 
 [^f00004]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-559d7fed1fb3cb76f30cb5522f2f1210]: Textual amendment: Word in art. 1(3)(b) substituted (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [42](https://www.legislation.gov.uk/uksi/2026/264/article/42)
+[^c-559d7fed1fb3cb76f30cb5522f2f1210]: Textual amendment: Word in art. 1(3)(b) substituted (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [42](https://www.legislation.gov.uk/uksi/2026/264/article/42)
 
-[^key-6b69067f00892a98d8c65082652ef508]: Commencement: Art. 2 in force at 13.11.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/2)
+[^c-6b69067f00892a98d8c65082652ef508]: Commencement: Art. 2 in force at 13.11.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/2)
 
 [^f00005]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/surrey/.
 
-[^key-f92ddee6a31e2b8cb80fe49ade4a88a6]: Commencement: Art. 3 in force at 13.11.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/a)
+[^c-f92ddee6a31e2b8cb80fe49ade4a88a6]: Commencement: Art. 3 in force at 13.11.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/a)
 
-[^key-e95535c585b7a02fc9dbb0d816cf85ae]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/1177/article/3) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(e)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/e))
+[^c-e95535c585b7a02fc9dbb0d816cf85ae]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/1177/article/3) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(e)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/e))
 
-[^key-fc6b97359804f909ab5095d863db8eea]: Commencement: Art. 4 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/a)
+[^c-fc6b97359804f909ab5095d863db8eea]: Commencement: Art. 4 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/a)
 
-[^key-60d39712dbe1af3f8f1d21ff29aee2a1]: Commencement: Art. 4 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/b)
+[^c-60d39712dbe1af3f8f1d21ff29aee2a1]: Commencement: Art. 4 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/b)
 
-[^key-9c7de488dc238f8b8b9e43547dffe7da]: Commencement: Sch. 1 in force at 13.11.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/a)
+[^c-9c7de488dc238f8b8b9e43547dffe7da]: Commencement: Sch. 1 in force at 13.11.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/a)
 
-[^key-f616752e5f856847a9cb5c1ad36ad717]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1177/schedule/1) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(e)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/e))
+[^c-f616752e5f856847a9cb5c1ad36ad717]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1177/schedule/1) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(e)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/e))
 
-[^key-719dbdfa36ffb507dba7544e1b98ef6b]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/a)
+[^c-719dbdfa36ffb507dba7544e1b98ef6b]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/a)
 
-[^key-7656b7520fb2bb0eb02fa8c55f417992]: Commencement: Sch. 2 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/b)
+[^c-7656b7520fb2bb0eb02fa8c55f417992]: Commencement: Sch. 2 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/b)

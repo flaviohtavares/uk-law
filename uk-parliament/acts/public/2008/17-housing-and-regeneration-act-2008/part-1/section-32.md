@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Recovery etc. of social housing assistance[^key-619f7e5f8df87e0669be84b0ac5cc366][^key-2b9f240531e3335d65a0f6459f8bb6a3][^key-60845003768571b8ffc0cb9032e88cce]
+## 32. Recovery etc. of social housing assistance[^c-619f7e5f8df87e0669be84b0ac5cc366][^c-2b9f240531e3335d65a0f6459f8bb6a3][^c-60845003768571b8ffc0cb9032e88cce]
 
 *Extent: E+W*
 
@@ -50,9 +50,9 @@ and for the purposes of paragraph (b) any amounts provided for by virtue of sect
 
 (10) Such a person must, if required by notice of the HCA, supply the HCA with such particulars of, and information relating to, the event as are specified in the notice.
 
-(10A)[^key-df5b4f1e109fd8113de9ff1495c2b3b2] The HCA must notify the Regulator of Social Housing at least 14 days before exercising, in relation to a registered provider of social housing, any of the powers conferred by subsections (2) to (4).
+(10A)[^c-df5b4f1e109fd8113de9ff1495c2b3b2] The HCA must notify the Regulator of Social Housing at least 14 days before exercising, in relation to a registered provider of social housing, any of the powers conferred by subsections (2) to (4).
 
-(11)[^key-f5853089ae0727ae2de04fa39683e421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-f5853089ae0727ae2de04fa39683e421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) Events determined by the HCA under subsection (1), and principles determined by the HCA under subsection (8), must be determined on or before the time the HCA gives the social housing assistance concerned unless they are determined subsequently with the agreement of the recipient of the assistance.
 
@@ -65,12 +65,12 @@ and, for the purposes of this Part, a person provides social housing if (and onl
 
 ## Annotations
 
-[^key-619f7e5f8df87e0669be84b0ac5cc366]: Commencement: S. 32 in force at 1.4.2009 for specified purposes by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/803/article/2/1/a)
+[^c-619f7e5f8df87e0669be84b0ac5cc366]: Commencement: S. 32 in force at 1.4.2009 for specified purposes by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/803/article/2/1/a)
 
-[^key-2b9f240531e3335d65a0f6459f8bb6a3]: Commencement: S. 32 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-2b9f240531e3335d65a0f6459f8bb6a3]: Commencement: S. 32 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-60845003768571b8ffc0cb9032e88cce]: Modification: Ss. 31-36 applied (with modifications) by 1999 c. 29, s. 333ZE(1)(2) (as inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17)))
+[^c-60845003768571b8ffc0cb9032e88cce]: Modification: Ss. 31-36 applied (with modifications) by 1999 c. 29, s. 333ZE(1)(2) (as inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17)))
 
-[^key-df5b4f1e109fd8113de9ff1495c2b3b2]: Textual amendment: [S. 32(10A)](https://www.legislation.gov.uk/ukpga/2008/17/section/32/10A) inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/6) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-df5b4f1e109fd8113de9ff1495c2b3b2]: Textual amendment: [S. 32(10A)](https://www.legislation.gov.uk/ukpga/2008/17/section/32/10A) inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/6) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
 
-[^key-f5853089ae0727ae2de04fa39683e421]: Textual amendment: S. 32(11) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/5), [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-f5853089ae0727ae2de04fa39683e421]: Textual amendment: S. 32(11) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/5), [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

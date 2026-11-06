@@ -16,30 +16,30 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Supporting documents: domestic abuse[^key-3676309b1fb6ad338baa079daaca2130]
+## 33. Supporting documents: domestic abuse[^c-3676309b1fb6ad338baa079daaca2130]
 
 *Extent: E+W*
 
-(1) An application for civil legal services described in paragraph 12 of Part 1 of Schedule 1 to the Act must include evidence of the domestic abuse[^key-48697fa65ee644593c70f028a51e45b5] or the risk of domestic abuse.
+(1) An application for civil legal services described in paragraph 12 of Part 1 of Schedule 1 to the Act must include evidence of the domestic abuse[^c-48697fa65ee644593c70f028a51e45b5] or the risk of domestic abuse.
 
-(2) For the purpose of paragraph (1), the evidence of domestic abuse[^key-c0ae2f73c16f4dd50c127d58031a624b] or risk of domestic abuse must be provided in one or more of the forms that is described in Schedule 1 to these Regulations[^key-308d8173b37e2b8dba94afbce8fc3bf4].
+(2) For the purpose of paragraph (1), the evidence of domestic abuse[^c-c0ae2f73c16f4dd50c127d58031a624b] or risk of domestic abuse must be provided in one or more of the forms that is described in Schedule 1 to these Regulations[^c-308d8173b37e2b8dba94afbce8fc3bf4].
 
-(3)[^key-3f18fde4f5790a620f2f7ebab4c29fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3f18fde4f5790a620f2f7ebab4c29fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3f18fde4f5790a620f2f7ebab4c29fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3f18fde4f5790a620f2f7ebab4c29fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c16a5eb4232548d49fefc1778ccdac7d] In relation to Licensed Work, this regulation applies subject to regulation 31(7A).
+(5)[^c-c16a5eb4232548d49fefc1778ccdac7d] In relation to Licensed Work, this regulation applies subject to regulation 31(7A).
 
 ## Annotations
 
-[^key-3676309b1fb6ad338baa079daaca2130]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2012/3098/regulation/33) heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2025/611/article/5/1/c)
+[^c-3676309b1fb6ad338baa079daaca2130]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2012/3098/regulation/33) heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2025/611/article/5/1/c)
 
-[^key-48697fa65ee644593c70f028a51e45b5]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/33/1) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2025/611/article/5/1/d)
+[^c-48697fa65ee644593c70f028a51e45b5]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/33/1) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2025/611/article/5/1/d)
 
-[^key-c0ae2f73c16f4dd50c127d58031a624b]: Textual amendment: Words in [reg. 33(2)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/33/2) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2025/611/article/5/1/d)
+[^c-c0ae2f73c16f4dd50c127d58031a624b]: Textual amendment: Words in [reg. 33(2)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/33/2) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2025/611/article/5/1/d)
 
-[^key-308d8173b37e2b8dba94afbce8fc3bf4]: Textual amendment: Words in reg. 33(2) substituted (8.1.2018) by [The Civil Legal Aid (Procedure) (Amendment) (No. 2) Regulations 2017 (S.I. 2017/1237)](https://www.legislation.gov.uk/uksi/2017/1237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1237/regulation/3))
+[^c-308d8173b37e2b8dba94afbce8fc3bf4]: Textual amendment: Words in reg. 33(2) substituted (8.1.2018) by [The Civil Legal Aid (Procedure) (Amendment) (No. 2) Regulations 2017 (S.I. 2017/1237)](https://www.legislation.gov.uk/uksi/2017/1237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1237/regulation/3))
 
-[^key-3f18fde4f5790a620f2f7ebab4c29fb1]: Textual amendment: Reg. 33(3)(4) omitted (8.1.2018) by virtue of [The Civil Legal Aid (Procedure) (Amendment) (No. 2) Regulations 2017 (S.I. 2017/1237)](https://www.legislation.gov.uk/uksi/2017/1237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1237/regulation/3))
+[^c-3f18fde4f5790a620f2f7ebab4c29fb1]: Textual amendment: Reg. 33(3)(4) omitted (8.1.2018) by virtue of [The Civil Legal Aid (Procedure) (Amendment) (No. 2) Regulations 2017 (S.I. 2017/1237)](https://www.legislation.gov.uk/uksi/2017/1237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/1237/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1237/regulation/3))
 
-[^key-c16a5eb4232548d49fefc1778ccdac7d]: Textual amendment: Reg. 33(5) inserted (17.7.2015) by [The Civil and Criminal Legal Aid (Amendment) Regulations 2015 (S.I. 2015/1416)](https://www.legislation.gov.uk/uksi/2015/1416), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1416/regulation/1/2/b), [2(6)(d)](https://www.legislation.gov.uk/uksi/2015/1416/regulation/2/6/d)
+[^c-c16a5eb4232548d49fefc1778ccdac7d]: Textual amendment: Reg. 33(5) inserted (17.7.2015) by [The Civil and Criminal Legal Aid (Amendment) Regulations 2015 (S.I. 2015/1416)](https://www.legislation.gov.uk/uksi/2015/1416), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1416/regulation/1/2/b), [2(6)(d)](https://www.legislation.gov.uk/uksi/2015/1416/regulation/2/6/d)

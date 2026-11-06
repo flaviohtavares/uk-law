@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Administration charges during a triggering event period[^key-a16fcd7673ea19cd52a5c1b598bbdb4e]
+## 57. Administration charges during a triggering event period[^c-a16fcd7673ea19cd52a5c1b598bbdb4e]
 
 *Extent: N.I.*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a16fcd7673ea19cd52a5c1b598bbdb4e]: Commencement: Reg. 57 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-a16fcd7673ea19cd52a5c1b598bbdb4e]: Commencement: Reg. 57 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00054]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147); Article 22 was amended by paragraph 109 of Schedule 29, and Schedule 30, to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33)
 

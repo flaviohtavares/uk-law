@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Notice restricting accommodation at certain establishments[^key-b9050e51bd62dc92a3b94a8d3ad20f4f][^key-adcb4c2a5e6b49d1e77b3a2cb66fa0fb]
+## 27. Notice restricting accommodation at certain establishments[^c-b9050e51bd62dc92a3b94a8d3ad20f4f][^c-adcb4c2a5e6b49d1e77b3a2cb66fa0fb]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ After section 22A of the 2000 Act (which is inserted by section 26) insert—
 
 ## Annotations
 
-[^key-b9050e51bd62dc92a3b94a8d3ad20f4f]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/23/section/27) in force at 1.4.2010 for E. by [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2009/3354/article/3/2/b)
+[^c-b9050e51bd62dc92a3b94a8d3ad20f4f]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/23/section/27) in force at 1.4.2010 for E. by [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2009/3354/article/3/2/b)
 
-[^key-adcb4c2a5e6b49d1e77b3a2cb66fa0fb]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/23/section/27) in force at 26.4.2010 for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(k)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/k)
+[^c-adcb4c2a5e6b49d1e77b3a2cb66fa0fb]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/23/section/27) in force at 26.4.2010 for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(k)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Repeal of offence of purchasing tobacco products by under 18s[^key-3d46a0be9b5d936ed93cb37d0be2c7da]
+## 54. Repeal of offence of purchasing tobacco products by under 18s[^c-3d46a0be9b5d936ed93cb37d0be2c7da]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d46a0be9b5d936ed93cb37d0be2c7da]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2026/18/section/54) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-3d46a0be9b5d936ed93cb37d0be2c7da]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2026/18/section/54) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

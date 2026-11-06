@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312. “Transferor” and “transferee” etc. in s.310 and s.311[^key-a27aea72889af3eea1e2d5fb396b2d02]
+## 312. “Transferor” and “transferee” etc. in s.310 and s.311[^c-a27aea72889af3eea1e2d5fb396b2d02]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a27aea72889af3eea1e2d5fb396b2d02]: Modification: S. 312 applied (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [61](https://www.legislation.gov.uk/uksi/2012/3012/regulation/61)
+[^c-a27aea72889af3eea1e2d5fb396b2d02]: Modification: S. 312 applied (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [61](https://www.legislation.gov.uk/uksi/2012/3012/regulation/61)

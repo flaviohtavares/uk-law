@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22E. Provision of micromobility vehicles must be licensed[^key-f2f131d8d2fca00a16779e13295096ff]
+## 22E. Provision of micromobility vehicles must be licensed[^c-f2f131d8d2fca00a16779e13295096ff]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2f131d8d2fca00a16779e13295096ff]: Textual amendment: Pt. 2A inserted (E.W.) (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/7/paragraph/1/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-f2f131d8d2fca00a16779e13295096ff]: Textual amendment: Pt. 2A inserted (E.W.) (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/7/paragraph/1/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

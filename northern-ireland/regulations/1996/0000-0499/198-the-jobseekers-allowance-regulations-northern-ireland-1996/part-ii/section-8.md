@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Other restrictions on availability[^key-1fa465a08876809e44f1286ee83e5ff9]
+## 8. Other restrictions on availability[^c-1fa465a08876809e44f1286ee83e5ff9]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Subject to regulations 6, 7 and 9 (employment of at least 40 hours per week, res
 
 ## Annotations
 
-[^key-1fa465a08876809e44f1286ee83e5ff9]: Commencement: Reg. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-1fa465a08876809e44f1286ee83e5ff9]: Commencement: Reg. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73A. Application for register entries for legal easements and profits a prendre[^key-4db607e7a9d7575f58405f769429f970]
+## 73A. Application for register entries for legal easements and profits a prendre[^c-4db607e7a9d7575f58405f769429f970]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4db607e7a9d7575f58405f769429f970]: Textual amendment: Rule 73A substituted for rules 73, 74, 75 (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/24) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-4db607e7a9d7575f58405f769429f970]: Textual amendment: Rule 73A substituted for rules 73, 74, 75 (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/24) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

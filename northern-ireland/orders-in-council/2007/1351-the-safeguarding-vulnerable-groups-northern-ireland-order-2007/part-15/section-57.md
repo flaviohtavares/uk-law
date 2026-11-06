@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the fact that an individual is included in a barred list;
 - (b) the fact that an individual is not included in a barred list;
-- (c) the provision of [^key-b2fa8bd8627069e5492071d9cff93d55]... information in pursuance of any of Articles 37, 38, 39, 41, 42, 43, 44, 47 and 48.
+- (c) the provision of [^c-b2fa8bd8627069e5492071d9cff93d55]... information in pursuance of any of Articles 37, 38, 39, 41, 42, 43, 44, 47 and 48.
 
 (2) Paragraph (1)(c) does not apply to the provision of information which is untrue by a person who knows the information is untrue and either—
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c21309971]: Commencement: Art. 57 wholly in operation; art. 57 not in operation at date of making see art. 1(3); art. 57 in operation for certain purposes at 14.4.2008 by [S.R. 2008/127](https://www.legislation.gov.uk/nisr/2008/127), [art. 4(n)](https://www.legislation.gov.uk/nisr/2008/127/article/4/n); art. 57 in operation at 13.3.2009 by [S.R. 2009/41](https://www.legislation.gov.uk/nisr/2009/41), [art. 3(1)(h)](https://www.legislation.gov.uk/nisr/2009/41/article/3/1/h)
 
-[^key-b2fa8bd8627069e5492071d9cff93d55]: Textual amendment: Word in [art. 57(1)(c)](https://www.legislation.gov.uk/nisi/2007/1351/article/57/1/c) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 100](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/100), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb) [(v)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/v)(bb)
+[^c-b2fa8bd8627069e5492071d9cff93d55]: Textual amendment: Word in [art. 57(1)(c)](https://www.legislation.gov.uk/nisi/2007/1351/article/57/1/c) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 100](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/100), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb) [(v)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/v)(bb)

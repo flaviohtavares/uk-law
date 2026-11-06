@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5C — MAYORS FOR COMBINED AUTHORITY AREAS: PCC FUNCTIONS[^key-6146f54012dfbacd0922e862e0d1c3ef]
+## SCHEDULE 5C — MAYORS FOR COMBINED AUTHORITY AREAS: PCC FUNCTIONS[^c-6146f54012dfbacd0922e862e0d1c3ef]
 
 *Extent: E+W*
 
@@ -94,7 +94,7 @@ summary: ''
 - “**oversight functions**”, in relation to general functions of the mayor, are functions that are of a corresponding or similar kind to those that a police and crime panel has in relation to PCC functions of the mayor;
 - “**police and crime panel**” means a panel established by virtue of an order under paragraph 4.
 
-**5A.**[^key-582e473234d40842d2a6735542257251] The Secretary of State may by order make provision about the payment of allowances to members of a police and crime panel established by virtue of an order under paragraph 4 who are members of a constituent council (within the meaning of paragraph 3 of Schedule 5A).
+**5A.**[^c-582e473234d40842d2a6735542257251] The Secretary of State may by order make provision about the payment of allowances to members of a police and crime panel established by virtue of an order under paragraph 4 who are members of a constituent council (within the meaning of paragraph 3 of Schedule 5A).
 
 ### Financial matters
 
@@ -113,9 +113,9 @@ summary: ''
 
 ### Disqualification
 
-**9.** (1) The Secretary of State must by order provide for sections 64 to 66 and section 68[^key-c1a3e20bafa4ee6b479330e153694d48] of the 2011 Act to apply in relation to a person being, or being elected as, the mayor as they apply in relation to a person being, or being elected as, a police and crime commissioner.
+**9.** (1) The Secretary of State must by order provide for sections 64 to 66 and section 68[^c-c1a3e20bafa4ee6b479330e153694d48] of the 2011 Act to apply in relation to a person being, or being elected as, the mayor as they apply in relation to a person being, or being elected as, a police and crime commissioner.
 
-(2) Provision under sub-paragraph (1) is in addition to paragraphs 8 , 9[^key-00311ae86725607d9ef219b5b7d222c4] , 9A and 9B[^key-a96a5bf0d53f412e6250eb3724521e1e] of Schedule 5B.
+(2) Provision under sub-paragraph (1) is in addition to paragraphs 8 , 9[^c-00311ae86725607d9ef219b5b7d222c4] , 9A and 9B[^c-a96a5bf0d53f412e6250eb3724521e1e] of Schedule 5B.
 
 ### Policing protocol
 
@@ -168,12 +168,12 @@ summary: ''
 
 ## Annotations
 
-[^key-6146f54012dfbacd0922e862e0d1c3ef]: Textual amendment: Sch. 5C inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/1/schedule/2)
+[^c-6146f54012dfbacd0922e862e0d1c3ef]: Textual amendment: Sch. 5C inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/1/schedule/2)
 
-[^key-582e473234d40842d2a6735542257251]: Textual amendment: [Sch. 5C para. 5A](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5C/paragraph/5A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/70/2), [255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-582e473234d40842d2a6735542257251]: Textual amendment: [Sch. 5C para. 5A](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5C/paragraph/5A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/70/2), [255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-c1a3e20bafa4ee6b479330e153694d48]: Textual amendment: Words in Sch. 5C para. 9(1) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/2/a), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-c1a3e20bafa4ee6b479330e153694d48]: Textual amendment: Words in Sch. 5C para. 9(1) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/2/a), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-00311ae86725607d9ef219b5b7d222c4]: Textual amendment: Words in Sch. 5C para. 9 substituted (28.6.2022) by [Local Government (Disqualification) Act 2022 (c. 17)](https://www.legislation.gov.uk/ukpga/2022/17), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2022/17/section/2/3), [6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2) (with [s. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5))
+[^c-00311ae86725607d9ef219b5b7d222c4]: Textual amendment: Words in Sch. 5C para. 9 substituted (28.6.2022) by [Local Government (Disqualification) Act 2022 (c. 17)](https://www.legislation.gov.uk/ukpga/2022/17), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2022/17/section/2/3), [6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2) (with [s. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5))
 
-[^key-a96a5bf0d53f412e6250eb3724521e1e]: Textual amendment: Words in Sch. 5C para. 9(2) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/2/b), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-a96a5bf0d53f412e6250eb3724521e1e]: Textual amendment: Words in Sch. 5C para. 9(2) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/2/b), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

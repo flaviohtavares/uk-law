@@ -47,7 +47,7 @@ The following table contains a list of terms used in this Part and the provision
 | principal member (of a group) | section 287(2) |
 | qualifying electricity purchase costs | section 284(6) |
 | qualifying joint venture | section 292(1) |
-| qualifying new generating plant[^key-f3c8596fa23be2a8516c3f7783fbc85b] | section 311A |
+| qualifying new generating plant[^c-f3c8596fa23be2a8516c3f7783fbc85b] | section 311A |
 | qualifying partnership | section 291(1) |
 | qualifying period | section 280(2) |
 | reference period (in relation to the determination of baseline fuel cost) | section 285(4) |
@@ -68,4 +68,4 @@ The following table contains a list of terms used in this Part and the provision
 
 ## Annotations
 
-[^key-f3c8596fa23be2a8516c3f7783fbc85b]: Textual amendment: Words in [s. 313](https://www.legislation.gov.uk/ukpga/2023/30/section/313) Table inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 21(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/21/4)
+[^c-f3c8596fa23be2a8516c3f7783fbc85b]: Textual amendment: Words in [s. 313](https://www.legislation.gov.uk/ukpga/2023/30/section/313) Table inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 21(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/21/4)

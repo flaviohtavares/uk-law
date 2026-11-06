@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Non-consensual analysis of DNA[^key-670c5c91477780aee716ae353cbe334a][^key-d5208d26ce7851de9052bb87dccb753c]
+## 45. Non-consensual analysis of DNA[^c-670c5c91477780aee716ae353cbe334a][^c-d5208d26ce7851de9052bb87dccb753c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-670c5c91477780aee716ae353cbe334a]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2004/30/section/45) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
+[^c-670c5c91477780aee716ae353cbe334a]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2004/30/section/45) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
 
-[^key-d5208d26ce7851de9052bb87dccb753c]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2004/30/section/45) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-d5208d26ce7851de9052bb87dccb753c]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2004/30/section/45) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))

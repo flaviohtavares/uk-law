@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Brokering services: non-UK activity relating to dual-use goods and dual-use technology[^key-8d47375162ab9aea7f67416132f1cc3b]
+## 36. Brokering services: non-UK activity relating to dual-use goods and dual-use technology[^c-8d47375162ab9aea7f67416132f1cc3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d47375162ab9aea7f67416132f1cc3b]: Commencement: Reg. 36 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-8d47375162ab9aea7f67416132f1cc3b]: Commencement: Reg. 36 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

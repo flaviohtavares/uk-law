@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Reports on progress towards implementation of programmes for adaptation[^key-b7753f4092da13d27aaac30715478a03]
+## 54. Reports on progress towards implementation of programmes for adaptation[^c-b7753f4092da13d27aaac30715478a03]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7753f4092da13d27aaac30715478a03]: Commencement: S. 54 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-b7753f4092da13d27aaac30715478a03]: Commencement: S. 54 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

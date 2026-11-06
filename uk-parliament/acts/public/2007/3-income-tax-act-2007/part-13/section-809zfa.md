@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809ZFA. Consideration for taking over payment obligations as lessee treated as income[^key-c7aad048ace90ce9d0b2da8b7adc85ea]
+## 809ZFA. Consideration for taking over payment obligations as lessee treated as income[^c-c7aad048ace90ce9d0b2da8b7adc85ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7aad048ace90ce9d0b2da8b7adc85ea]: Textual amendment: S. 809ZFA inserted (with application in accordance with s. 68(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/68/2)
+[^c-c7aad048ace90ce9d0b2da8b7adc85ea]: Textual amendment: S. 809ZFA inserted (with application in accordance with s. 68(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/68/2)

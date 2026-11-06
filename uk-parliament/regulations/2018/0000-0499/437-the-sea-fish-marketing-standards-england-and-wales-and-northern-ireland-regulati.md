@@ -50,11 +50,11 @@ Coming into force
 
 30th April 2018
 
-The Secretary of State and, in relation to Wales, the Welsh Ministers are designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the common agricultural policy of the European Union[^f00002].[^key-2b2e388ce7b943c21ddf398d8296a05c]
+The Secretary of State and, in relation to Wales, the Welsh Ministers are designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the common agricultural policy of the European Union[^f00002].[^c-2b2e388ce7b943c21ddf398d8296a05c]
 
-The Secretary of State, in relation to England and Northern Ireland, and the Welsh Ministers, in relation to Wales, make these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.[^key-2b2e388ce7b943c21ddf398d8296a05c]
+The Secretary of State, in relation to England and Northern Ireland, and the Welsh Ministers, in relation to Wales, make these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.[^c-2b2e388ce7b943c21ddf398d8296a05c]
 
-## 1. Citation, commencement and extent[^key-d40bee4d75aa425ab131b16c12087721]
+## 1. Citation, commencement and extent[^c-d40bee4d75aa425ab131b16c12087721]
 
 (1) These Regulations may be cited as the Sea Fish (Marketing Standards) (England and Wales and Northern Ireland) Regulations 2018.
 
@@ -62,7 +62,7 @@ The Secretary of State, in relation to England and Northern Ireland, and the Wel
 
 (3) These Regulations extend to England and Wales and Northern Ireland.
 
-## 2. Interpretation[^key-62da7c0473ff5540931f84217aa091e5]
+## 2. Interpretation[^c-62da7c0473ff5540931f84217aa091e5]
 
 In these Regulations—
 
@@ -86,20 +86,20 @@ In these Regulations—
 - “Regulation 1379/2013” means Regulation (EU) No. 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products[^f00006], as last amended by Regulation (EU) 2015/812 of the European Parliament and of the Council[^f00007];
 - “relevant provision” means one of the provisions specified in regulation 3.
 
-## 3. Application[^key-ed90b42cc08dd79fbcdbb16106f50756]
+## 3. Application[^c-ed90b42cc08dd79fbcdbb16106f50756]
 
 These Regulations apply for the purposes of enforcing—
 
 - (a) Article 2(1) of Regulation 2406/96 (fishery products may be marketed only if they meet the requirements of the Regulation), read subject to Article 2(2) of that Regulation;
 - (b) Article 34(1) of Regulation 1379/2013 (products intended for human consumption may be made available on the market only in accordance with common marketing standards laid down for those products).
 
-## 4. Authorised officers[^key-41198f4c7854092eb79b7bf8798d1aed]
+## 4. Authorised officers[^c-41198f4c7854092eb79b7bf8798d1aed]
 
 (1) The enforcement authority may in writing appoint an officer (an “authorised officer”) to act for the purposes of these Regulations.
 
 (2) The enforcement authority may provide for an appointment made under paragraph (1) to have effect for limited purposes.
 
-## 5. Power to enter premises[^key-c5b8ae5bf0d88c232667b149dd9e2d0b]
+## 5. Power to enter premises[^c-c5b8ae5bf0d88c232667b149dd9e2d0b]
 
 (1) Where an authorised officer has reasonable suspicion of a contravention of a relevant provision in, or in connection with, any premises, the officer may, at a reasonable hour, enter those premises for the purpose of enforcing that provision.
 
@@ -125,7 +125,7 @@ These Regulations apply for the purposes of enforcing—
 
 (8) A person who is brought by an authorised officer to provide assistance may exercise any powers conferred on the officer by these Regulations, but only under the supervision or direction of the officer.
 
-## 6. Warrants[^key-c7fb7722b9601114d61b0f36988ab6fe]
+## 6. Warrants[^c-c7fb7722b9601114d61b0f36988ab6fe]
 
 (1) A justice of the peace may, by signed warrant, permit an authorised officer to enter premises if the justice, on sworn information in writing or, in Northern Ireland, on a sworn complaint in writing, is satisfied—
 
@@ -145,7 +145,7 @@ These Regulations apply for the purposes of enforcing—
 
 (5) In this regulation, “justice of the peace” in Northern Ireland means a lay magistrate.
 
-## 7. Power to inspect and seize etc.[^key-1be668756e9986876296c8d5539188c7]
+## 7. Power to inspect and seize etc.[^c-1be668756e9986876296c8d5539188c7]
 
 (1) An authorised officer who has entered premises for the purposes of enforcing a relevant provision may for that purpose—
 
@@ -181,7 +181,7 @@ an authorised officer must return the items to the person appearing to be respon
 
 (4) In this regulation, “fish” means any fishery or aquaculture product that an authorised officer reasonably believes is a product listed in Article 3 of Regulation 2406/96 or Annex 1 of Regulation 1379/2013.
 
-## 8. Compliance notices[^key-6fc3eb89cab50f95fe11635dded2dd07]
+## 8. Compliance notices[^c-6fc3eb89cab50f95fe11635dded2dd07]
 
 (1) An authorised officer who has reasonable grounds for believing that a person has contravened, or is likely to contravene, a relevant provision may serve a notice (a “compliance notice”) on that person.
 
@@ -211,7 +211,7 @@ an authorised officer must return the items to the person appearing to be respon
 
 (8) A compliance notice ceases to have effect when a completion notice is served.
 
-## 9. Further provision about notices[^key-04210c2358c09fb06b0b20c66b03a775]
+## 9. Further provision about notices[^c-04210c2358c09fb06b0b20c66b03a775]
 
 (1) A notice required or authorised to be served under these Regulations on any person must be in writing and may be served on a person by—
 
@@ -242,7 +242,7 @@ an authorised officer must return the items to the person appearing to be respon
 
 (7) If a person to be served with a notice has specified an address in the United Kingdom (other than that person’s proper address) at which that person or someone on that person’s behalf will accept notices, that address must instead be treated as that person’s proper address.
 
-## 10. Appeals: England and Wales[^key-1e3b26fce2a4f63401496c0003c6042c]
+## 10. Appeals: England and Wales[^c-1e3b26fce2a4f63401496c0003c6042c]
 
 (1) This regulation applies in relation to England and Wales only.
 
@@ -260,7 +260,7 @@ an authorised officer must return the items to the person appearing to be respon
 - (a) either cancel or confirm the compliance notice, and, if it confirms the notice, it may do so either in its original form or with such modifications as it thinks fit; or
 - (b) make such order as it thinks fit as regards a decision not to serve a completion notice.
 
-## 11. Appeals: Northern Ireland[^key-6b78065f8794ad274b28e61f73b49c82]
+## 11. Appeals: Northern Ireland[^c-6b78065f8794ad274b28e61f73b49c82]
 
 (1) This regulation applies in relation to Northern Ireland only.
 
@@ -280,7 +280,7 @@ an authorised officer must return the items to the person appearing to be respon
 - (a) either cancel or confirm the compliance notice, and, if it confirms the notice, it may do so either in its original form or with such modifications as it thinks fit; or
 - (b) make such order as it thinks fit as regards a decision not to serve a completion notice.
 
-## 12. Offences: general[^key-73cd764978b0d4f8861f46578c86b9e2]
+## 12. Offences: general[^c-73cd764978b0d4f8861f46578c86b9e2]
 
 (1) A person commits an offence if that person contravenes, or causes or permits a person to contravene, a relevant provision.
 
@@ -288,7 +288,7 @@ an authorised officer must return the items to the person appearing to be respon
 
 (3) But it is a defence for a person charged with an offence under paragraph (1) or (2) to prove that the person took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
-## 13. Obstruction offences[^key-b12bda244fcb7f89436b1f70f0d280b6]
+## 13. Obstruction offences[^c-b12bda244fcb7f89436b1f70f0d280b6]
 
 A person commits an offence if that person—
 
@@ -297,7 +297,7 @@ A person commits an offence if that person—
 - (c) knowingly or recklessly gives false or misleading information to an authorised officer; or
 - (d) fails to produce a label, document or record to an authorised officer when required to do so.
 
-## 14. Offences by bodies corporate, partnerships and unincorporated associations[^key-d024424da021a4c8e59f9b3886808c27]
+## 14. Offences by bodies corporate, partnerships and unincorporated associations[^c-d024424da021a4c8e59f9b3886808c27]
 
 (1) Where a body corporate is guilty of an offence under these Regulations and that offence is proven to have been committed with the consent or connivance of, or to have been attributed to any neglect on the part of—
 
@@ -319,14 +319,14 @@ that person, as well as the body corporate, is guilty of the offence.
 - (a) an officer of the association or a member of its governing body; or
 - (b) a person purporting to act in that capacity.
 
-## 15. Penalties[^key-7f195f8077075b3616bf6542a4ede017]
+## 15. Penalties[^c-7f195f8077075b3616bf6542a4ede017]
 
 A person guilty of an offence under regulation 12 or 13 is liable on summary conviction—
 
 - (a) in England and Wales, to a fine; or
 - (b) in Northern Ireland, to a fine not exceeding level 5 on the standard scale.
 
-## 16. Protection of authorised officers acting in good faith[^key-b8cd113a826d7e65c2d4b89e3895bbbf]
+## 16. Protection of authorised officers acting in good faith[^c-b8cd113a826d7e65c2d4b89e3895bbbf]
 
 (1) An authorised officer or person accompanying that officer by virtue of regulation 5(7)(a) is not to be liable in any civil or criminal proceedings for anything done or omitted to be done in, or in connection with, the exercise or the purported exercise of the powers in these Regulations.
 
@@ -336,7 +336,7 @@ A person guilty of an offence under regulation 12 or 13 is liable on summary con
 - (b) if there were no reasonable grounds for the act or omission; or
 - (c) so as to prevent an award of damages in respect of the act or omission on the ground that it was unlawful as a result of section 6(1) of the Human Rights Act 1998[^f00010] (acts of public authorities incompatible with Convention rights).
 
-## 17. Time limit for bringing prosecution[^key-8953280eb5226a93d1b2b1158dac472c]
+## 17. Time limit for bringing prosecution[^c-8953280eb5226a93d1b2b1158dac472c]
 
 (1) Proceedings for an offence under these Regulations may be commenced within the period of 16 months beginning with the date on which the prosecutor first knows of evidence sufficient, in the prosecutor’s opinion, to justify proceedings.
 
@@ -347,7 +347,7 @@ A person guilty of an offence under regulation 12 or 13 is liable on summary con
 - (a) a certificate signed by or on behalf of the prosecutor and stating the date on which the prosecutor first knew of evidence sufficient to justify the proceedings is conclusive evidence of that fact; and
 - (b) a certificate stating that matter and purporting to be signed is deemed to be so signed unless the contrary is proved.
 
-## 18. Proceedings against partnerships and unincorporated associations[^key-1791a165d986378ca0ed1e628d2127c9]
+## 18. Proceedings against partnerships and unincorporated associations[^c-1791a165d986378ca0ed1e628d2127c9]
 
 (1) Proceedings for an offence under these Regulations alleged to have been committed by a partnership or an unincorporated association may be brought against the partnership or association in the name of the partnership or association.
 
@@ -359,7 +359,7 @@ A person guilty of an offence under regulation 12 or 13 is liable on summary con
 
 (3) A fine imposed on a partnership or unincorporated association on its conviction of an offence under these Regulations is to be paid out of the funds of the partnership or association.
 
-## 19. Enforcement[^key-366e16b819dc1c3da1c16935b08417a1]
+## 19. Enforcement[^c-366e16b819dc1c3da1c16935b08417a1]
 
 (1) The relevant provisions are enforced by the enforcement authority in accordance with these Regulations, subject to paragraph (3).
 
@@ -367,7 +367,7 @@ A person guilty of an offence under regulation 12 or 13 is liable on summary con
 
 (3) The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
 
-## 20. Revocations[^key-25a0787bd663c5bffbcfc3518136386d]
+## 20. Revocations[^c-25a0787bd663c5bffbcfc3518136386d]
 
 The following instruments are revoked—
 
@@ -414,11 +414,11 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00002]: Footnote: The Secretary of State is designated under [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811). The designation of the Secretary of State in relation to the common agricultural policy under that instrument remains exercisable in relation to Northern Ireland despite the designation of Northern Ireland Ministers and Northern Ireland Departments in relation to that matter under [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812) (see article 3(2) of that instrument). The Welsh Ministers are designated under [S.I. 2010/2690](https://www.legislation.gov.uk/uksi/2010/2690). Designation in relation to the common agricultural policy includes the common fisheries policy: Article 38 of the Treaty on the Functioning of the European Union includes the common fisheries policy within the common agricultural policy.
 
-[^key-2b2e388ce7b943c21ddf398d8296a05c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/437) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-2b2e388ce7b943c21ddf398d8296a05c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/437) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
-[^key-d40bee4d75aa425ab131b16c12087721]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/437/regulation/1) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-d40bee4d75aa425ab131b16c12087721]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/437/regulation/1) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-62da7c0473ff5540931f84217aa091e5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/437/regulation/2) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-62da7c0473ff5540931f84217aa091e5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/437/regulation/2) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
 [^f00003]: Footnote: The Marine Management Organisation is established under section 1 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
@@ -430,43 +430,43 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00007]: Footnote: OJ No. L 133, 29.5.2015, p.1.
 
-[^key-ed90b42cc08dd79fbcdbb16106f50756]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/437/regulation/3) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-ed90b42cc08dd79fbcdbb16106f50756]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/437/regulation/3) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-41198f4c7854092eb79b7bf8798d1aed]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/437/regulation/4) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-41198f4c7854092eb79b7bf8798d1aed]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/437/regulation/4) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-c5b8ae5bf0d88c232667b149dd9e2d0b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/437/regulation/5) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-c5b8ae5bf0d88c232667b149dd9e2d0b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/437/regulation/5) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-c7fb7722b9601114d61b0f36988ab6fe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/437/regulation/6) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-c7fb7722b9601114d61b0f36988ab6fe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/437/regulation/6) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-1be668756e9986876296c8d5539188c7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/437/regulation/7) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-1be668756e9986876296c8d5539188c7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/437/regulation/7) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-6fc3eb89cab50f95fe11635dded2dd07]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/437/regulation/8) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-6fc3eb89cab50f95fe11635dded2dd07]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/437/regulation/8) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-04210c2358c09fb06b0b20c66b03a775]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/437/regulation/9) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-04210c2358c09fb06b0b20c66b03a775]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/437/regulation/9) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
 [^f00008]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-1e3b26fce2a4f63401496c0003c6042c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/437/regulation/10) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-1e3b26fce2a4f63401496c0003c6042c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/437/regulation/10) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-6b78065f8794ad274b28e61f73b49c82]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/437/regulation/11) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-6b78065f8794ad274b28e61f73b49c82]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/437/regulation/11) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-73cd764978b0d4f8861f46578c86b9e2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/437/regulation/12) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-73cd764978b0d4f8861f46578c86b9e2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/437/regulation/12) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-b12bda244fcb7f89436b1f70f0d280b6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/437/regulation/13) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-b12bda244fcb7f89436b1f70f0d280b6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/437/regulation/13) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-d024424da021a4c8e59f9b3886808c27]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/437/regulation/14) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-d024424da021a4c8e59f9b3886808c27]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/437/regulation/14) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-7f195f8077075b3616bf6542a4ede017]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/437/regulation/15) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-7f195f8077075b3616bf6542a4ede017]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/437/regulation/15) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-b8cd113a826d7e65c2d4b89e3895bbbf]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/437/regulation/16) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-b8cd113a826d7e65c2d4b89e3895bbbf]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/437/regulation/16) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
 [^f00010]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-8953280eb5226a93d1b2b1158dac472c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/437/regulation/17) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-8953280eb5226a93d1b2b1158dac472c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/437/regulation/17) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-1791a165d986378ca0ed1e628d2127c9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/437/regulation/18) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-1791a165d986378ca0ed1e628d2127c9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/437/regulation/18) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
 [^f00011]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Relevant amending enactments are the Magistrates’ Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), Schedule 6 and the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), paragraph 19 of Schedule 8.
 
@@ -476,9 +476,9 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00014]: Footnote: [1945 c. 15](https://www.legislation.gov.uk/ukpga/1945/15).
 
-[^key-366e16b819dc1c3da1c16935b08417a1]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/437/regulation/19) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-366e16b819dc1c3da1c16935b08417a1]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/437/regulation/19) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
-[^key-25a0787bd663c5bffbcfc3518136386d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/437/regulation/20) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
+[^c-25a0787bd663c5bffbcfc3518136386d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/437/regulation/20) in force at 30.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/437/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 1986/1272](https://www.legislation.gov.uk/uksi/1986/1272), amended by [S.I. 1989/687](https://www.legislation.gov.uk/uksi/1989/687), [1994/452](https://www.legislation.gov.uk/uksi/1994/452); revoked, in relation to Scotland, by [S.S.I. 2004/498](https://www.legislation.gov.uk/ssi/2004/498).
 

@@ -25,7 +25,7 @@ summary: ''
 - “[^c1415637]**the Agency**” means the Environment Agency;
 - “**agricultural buildings**” has the meaning provided by paragraphs 2 to 8 of Schedule 5 to the [^c1415638]Local Government Finance Act 1988;
 - “**agricultural land**” has the meaning provided by paragraphs 2 and 4 to 8 of that Schedule;
-- “the appropriate agency” means—[^key-2669516da79c0c8655a6f78888aa993b]
+- “the appropriate agency” means—[^c-2669516da79c0c8655a6f78888aa993b]
   - (a) in relation to England, the Agency;
   - (b) in relation to Wales, the Natural Resources Body for Wales;
 - “the appropriate supervisory body” means—
@@ -35,14 +35,14 @@ summary: ''
 - “**chargeable property**” means a hereditament comprising agricultural land or agricultural buildings in respect of which drainage rates may be assessed under Chapter II of Part IV of this Act;
 - “**charging authority**” has the same meaning as in the Local Government Finance Act 1988;
 - “**conservancy authority**” means any person who has a duty or power under any enactment to conserve, maintain or improve the navigation of a tidal water and is not a navigation authority or a harbour authority within the meaning of Chapter[^c1415639] II of Part VI of the Merchant Shipping Act 1995;
-- “[^key-5843396d29d1bc8bf8f153b3416d37e2]**culvert**” means a covered channel or pipe which prevents the obstruction of a watercourse or drainage path by an artificial construction.
+- “[^c-5843396d29d1bc8bf8f153b3416d37e2]**culvert**” means a covered channel or pipe which prevents the obstruction of a watercourse or drainage path by an artificial construction.
 - “[^c1415640]**drainage**” includes—
   - (a) defence against water (including sea water);
   - (b) irrigation, other than spray irrigation;
   - (c) warping; and
   - (d) the carrying on, for any purpose, of any other practice which involves management of the level of water in a watercourse;
-- “**drainage body**” means the Agency[^c1415641] the Natural Resources Body for Wales[^key-6c788dfe0e17c46eed2e6c373429e186], an internal drainage board or any other body having power to make or maintain works for the drainage of land;
-- “[^key-2c963f81f52824e2a127bf778db0c695]**enactment**” includes an enactment comprised in subordinate legislation within the meaning of the Interpretation Act 1978;
+- “**drainage body**” means the Agency[^c1415641] the Natural Resources Body for Wales[^c-6c788dfe0e17c46eed2e6c373429e186], an internal drainage board or any other body having power to make or maintain works for the drainage of land;
+- “[^c-2c963f81f52824e2a127bf778db0c695]**enactment**” includes an enactment comprised in subordinate legislation within the meaning of the Interpretation Act 1978;
 - “**English drainage board**” means a drainage board for an English internal drainage district;
 - “**English internal drainage district**” means an internal drainage district which is wholly or mainly in England;
 - “**financial year**” means the twelve months ending with 31st March;
@@ -80,11 +80,11 @@ summary: ''
 
 (5) References in this Act to the carrying out of drainage works include references to the improvement of drainage works.
 
-(6) Nothing in this Act shall operate to release any person from an obligation to which section 21 above applies; and the functions of the Agency , the Natural Resources Body for Wales[^key-1f8b0fc6822b8fe76dba895f7c9069f5] or any internal drainage board as respects the doing of any work under this Act are not to be treated as in any way limited by the fact that some other person is under an obligation, by reason of tenure, custom, prescription or otherwise, to do that work.
+(6) Nothing in this Act shall operate to release any person from an obligation to which section 21 above applies; and the functions of the Agency , the Natural Resources Body for Wales[^c-1f8b0fc6822b8fe76dba895f7c9069f5] or any internal drainage board as respects the doing of any work under this Act are not to be treated as in any way limited by the fact that some other person is under an obligation, by reason of tenure, custom, prescription or otherwise, to do that work.
 
 (7) Where by virtue of any provision of this Act any function of a Minister of the Crown is exercisable concurrently by different Ministers, that function shall also be exercisable jointly by any two or more of those Ministers.
 
-(8) This Act so far as it confers any powers on the Agency or the Natural Resources Body for Wales[^key-69b4aa5be519cca8326fedcb7d642dc6] shall have effect subject to the provisions of the [^c1415653]Water Resources Act 1991.
+(8) This Act so far as it confers any powers on the Agency or the Natural Resources Body for Wales[^c-69b4aa5be519cca8326fedcb7d642dc6] shall have effect subject to the provisions of the [^c1415653]Water Resources Act 1991.
 
 (9) The powers conferred by this Act on the Common Council of the City of London shall be exercisable as respects that City.
 
@@ -96,19 +96,19 @@ summary: ''
 
 [^c1415638]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
-[^key-2669516da79c0c8655a6f78888aa993b]: Textual amendment: Words in [s. 72(1)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 335(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/335/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-2669516da79c0c8655a6f78888aa993b]: Textual amendment: Words in [s. 72(1)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 335(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/335/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1415639]: Textual amendment: Words in s. 72(1) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13), [para. 9(b)](https://www.legislation.gov.uk/ukpga/1995/21/paragraph/9/b) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1))
 
-[^key-5843396d29d1bc8bf8f153b3416d37e2]: Textual amendment: Words in s. 72(1) inserted (19.7.2011 for E., 1.10.2011 for W.) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/39) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e); [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
+[^c-5843396d29d1bc8bf8f153b3416d37e2]: Textual amendment: Words in s. 72(1) inserted (19.7.2011 for E., 1.10.2011 for W.) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/39) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e); [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
 
 [^c1415640]: Textual amendment: Definition in s. 72(1) substituted (21.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 100(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/100/2)(with ss. 7(6), 115, 117); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3)
 
 [^c1415641]: Textual amendment: Words in s. 72 substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [para. 191](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/191) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-6c788dfe0e17c46eed2e6c373429e186]: Textual amendment: Words in [s. 72(1)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 335(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/335/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-6c788dfe0e17c46eed2e6c373429e186]: Textual amendment: Words in [s. 72(1)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 335(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/335/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-2c963f81f52824e2a127bf778db0c695]: Textual amendment: Words in [s. 72(1)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/1) inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 97(5)](https://www.legislation.gov.uk/ukpga/2021/30/section/97/5), [147(2)(n)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/n) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-2c963f81f52824e2a127bf778db0c695]: Textual amendment: Words in [s. 72(1)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/1) inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 97(5)](https://www.legislation.gov.uk/ukpga/2021/30/section/97/5), [147(2)(n)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/n) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
 [^c1415643]: Textual amendment: Words inserted in s. 72(1) (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), [Sch. 11](https://www.legislation.gov.uk/ukpga/1994/19/schedule/11), [Pt. II](https://www.legislation.gov.uk/ukpga/1994/19/part/II), [para. 4(12)](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/4/12) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3)
 
@@ -124,9 +124,9 @@ summary: ''
 
 [^c1415649]: Modification: S. 72(2)(b)(iii) amended (1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 2 paras. 15(3)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/15/3), [19(2)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/19/2)
 
-[^key-1f8b0fc6822b8fe76dba895f7c9069f5]: Textual amendment: Words in [s. 72(6)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/6) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 335(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/335/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1f8b0fc6822b8fe76dba895f7c9069f5]: Textual amendment: Words in [s. 72(6)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/6) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 335(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/335/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-69b4aa5be519cca8326fedcb7d642dc6]: Textual amendment: Words in [s. 72(8)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/8) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 335(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/335/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-69b4aa5be519cca8326fedcb7d642dc6]: Textual amendment: Words in [s. 72(8)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/8) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 335(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/335/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1415653]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 

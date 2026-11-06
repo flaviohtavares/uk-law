@@ -31,24 +31,24 @@ Consolidated Fund (Permanent Charges Redemption) Act 1883 (repealed)
 
 1883 c.1
 
-[^key-7d48e8616dfc128bc23475b3524719f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d48e8616dfc128bc23475b3524719f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[20th March 1883\]
 
 **No longer in force.**
 
-## 1. Construction of Act and short title.[^key-7d48e8616dfc128bc23475b3524719f3][^key-7d48e8616dfc128bc23475b3524719f3]
+## 1. Construction of Act and short title.[^c-7d48e8616dfc128bc23475b3524719f3][^c-7d48e8616dfc128bc23475b3524719f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Advance of redemption money by National Debt Commissioners and repayment by terminable annuity.[^key-7d48e8616dfc128bc23475b3524719f3][^key-7d48e8616dfc128bc23475b3524719f3]
+## 2. Advance of redemption money by National Debt Commissioners and repayment by terminable annuity.[^c-7d48e8616dfc128bc23475b3524719f3][^c-7d48e8616dfc128bc23475b3524719f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-7d48e8616dfc128bc23475b3524719f3][^key-7d48e8616dfc128bc23475b3524719f3]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-7d48e8616dfc128bc23475b3524719f3][^c-7d48e8616dfc128bc23475b3524719f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7d48e8616dfc128bc23475b3524719f3]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9)
+[^c-7d48e8616dfc128bc23475b3524719f3]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9)

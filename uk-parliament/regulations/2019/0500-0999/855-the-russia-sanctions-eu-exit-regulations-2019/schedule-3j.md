@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3J — Professional and business services[^key-31c8817e62db92a1d7ae42da61a4358a]
+## SCHEDULE 3J — Professional and business services[^c-31c8817e62db92a1d7ae42da61a4358a]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,7 +80,7 @@ in accordance with generally accepted accounting principles.
 
 “**Business and management consulting services**” means advisory, guidance and operational assistance services provided for business policy and strategy and the overall planning, structuring and control of an organisation, which includes (but is not limited to) management auditing, market management, human resources, production management and project management consulting.
 
-### 6A. Meaning of construction services[^key-1a751befa609d76b40b3bffe27ab56e1]
+### 6A. Meaning of construction services[^c-1a751befa609d76b40b3bffe27ab56e1]
 
 “Construction services” means the services falling within the following codes of the 1991 Central Product Classification—
 
@@ -176,7 +176,7 @@ in accordance with generally accepted accounting principles.
 - (a) 83131 (IT consulting services);
 - (b) 83141 (IT design and development services for applications).
 
-### 8A. Meaning of legal advisory services[^key-77f5e9cab383e2ccaf719f1fca448b9a]
+### 8A. Meaning of legal advisory services[^c-77f5e9cab383e2ccaf719f1fca448b9a]
 
 (1) “Legal advisory services”—
 
@@ -185,9 +185,9 @@ in accordance with generally accepted accounting principles.
   - (ii) acting on behalf of a client, or providing advice on or in connection with, a commercial transaction, negotiation or any other dealing with a third party;
   - (iii) the preparation, execution or verification of a legal document;
 - (b) do not include any representation, advice, preparation of documents or verification of documents undertaken as part of legal representation services provided in, or in anticipation of—
-  - (i) any proceedings before administrative agencies, courts or other duly constituted official tribunals in any jurisdiction[^key-eb40accec1975ab5d0d95f07fe0ab461], or
-  - (ii) arbitral or mediation proceedings in any jurisdiction[^key-0ab8e248c21c2fd609a45f1e9ebf3184];
-- (c)[^key-a463450fe38018f7cb1c67627d8ad1aa] do not include the provision of legal advice or other services in connection with the management of claims under a contract of insurance or reinsurance.
+  - (i) any proceedings before administrative agencies, courts or other duly constituted official tribunals in any jurisdiction[^c-eb40accec1975ab5d0d95f07fe0ab461], or
+  - (ii) arbitral or mediation proceedings in any jurisdiction[^c-0ab8e248c21c2fd609a45f1e9ebf3184];
+- (c)[^c-a463450fe38018f7cb1c67627d8ad1aa] do not include the provision of legal advice or other services in connection with the management of claims under a contract of insurance or reinsurance.
 
 (2) In sub-paragraph (1)—
 
@@ -200,14 +200,14 @@ in accordance with generally accepted accounting principles.
 
 ## Annotations
 
-[^key-31c8817e62db92a1d7ae42da61a4358a]: Textual amendment: Sch. 3J inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/1331/schedule/2)
+[^c-31c8817e62db92a1d7ae42da61a4358a]: Textual amendment: Sch. 3J inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/1331/schedule/2)
 
-[^key-1a751befa609d76b40b3bffe27ab56e1]: Textual amendment: [Sch. 3J para. 6A](https://www.legislation.gov.uk/uksi/2019/855/schedule/3J/paragraph/6A) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(7)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/7)
+[^c-1a751befa609d76b40b3bffe27ab56e1]: Textual amendment: [Sch. 3J para. 6A](https://www.legislation.gov.uk/uksi/2019/855/schedule/3J/paragraph/6A) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(7)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/7)
 
-[^key-77f5e9cab383e2ccaf719f1fca448b9a]: Textual amendment: Sch. 3J para. 8A inserted (30.6.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2023 (S.I. 2023/713)](https://www.legislation.gov.uk/uksi/2023/713), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/713/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/713/regulation/10)
+[^c-77f5e9cab383e2ccaf719f1fca448b9a]: Textual amendment: Sch. 3J para. 8A inserted (30.6.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2023 (S.I. 2023/713)](https://www.legislation.gov.uk/uksi/2023/713), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/713/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/713/regulation/10)
 
-[^key-eb40accec1975ab5d0d95f07fe0ab461]: Textual amendment: Words in Sch. 3J para. 8A(1)(b)(i) inserted (6.9.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2024 (S.I. 2024/900)](https://www.legislation.gov.uk/uksi/2024/900), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/900/regulation/1/2), [5(1)(a)(i)](https://www.legislation.gov.uk/uksi/2024/900/regulation/5/1/a/i)
+[^c-eb40accec1975ab5d0d95f07fe0ab461]: Textual amendment: Words in Sch. 3J para. 8A(1)(b)(i) inserted (6.9.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2024 (S.I. 2024/900)](https://www.legislation.gov.uk/uksi/2024/900), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/900/regulation/1/2), [5(1)(a)(i)](https://www.legislation.gov.uk/uksi/2024/900/regulation/5/1/a/i)
 
-[^key-0ab8e248c21c2fd609a45f1e9ebf3184]: Textual amendment: Words in Sch. 3J para. 8A(1)(b)(ii) inserted (6.9.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2024 (S.I. 2024/900)](https://www.legislation.gov.uk/uksi/2024/900), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/900/regulation/1/2), [5(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/900/regulation/5/1/a/ii)
+[^c-0ab8e248c21c2fd609a45f1e9ebf3184]: Textual amendment: Words in Sch. 3J para. 8A(1)(b)(ii) inserted (6.9.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2024 (S.I. 2024/900)](https://www.legislation.gov.uk/uksi/2024/900), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/900/regulation/1/2), [5(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/900/regulation/5/1/a/ii)
 
-[^key-a463450fe38018f7cb1c67627d8ad1aa]: Textual amendment: Sch. 3J para. 8A(1)(c) inserted (6.9.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2024 (S.I. 2024/900)](https://www.legislation.gov.uk/uksi/2024/900), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/900/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/uksi/2024/900/regulation/5/1/b)
+[^c-a463450fe38018f7cb1c67627d8ad1aa]: Textual amendment: Sch. 3J para. 8A(1)(c) inserted (6.9.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2024 (S.I. 2024/900)](https://www.legislation.gov.uk/uksi/2024/900), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/900/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/uksi/2024/900/regulation/5/1/b)

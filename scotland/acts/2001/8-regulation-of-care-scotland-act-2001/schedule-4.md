@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — REPEALS[^c1230065][^key-4a703ea2818ce4a58b391a70bfacd87d]
+## SCHEDULE 4 — REPEALS[^c1230065][^c-4a703ea2818ce4a58b391a70bfacd87d]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c1230065]: Commencement: Sch. 4 in force for specified purposes at 1.4.2002 by [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(i)](https://www.legislation.gov.uk/ssi/2002/162/article/2/i) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-4a703ea2818ce4a58b391a70bfacd87d]: Commencement: Sch. 4 in force at 1.4.2004 for specified purposes by [S.S.I. 2004/100](https://www.legislation.gov.uk/ssi/2004/100), [art. 2(g)](https://www.legislation.gov.uk/ssi/2004/100/article/2/g) (with [arts. 3](https://www.legislation.gov.uk/ssi/2004/100/article/3), [4](https://www.legislation.gov.uk/ssi/2004/100/article/4)) (as amended (30.9.2004) by [S.S.I. 2004/377](https://www.legislation.gov.uk/ssi/2004/377), art. 2)
+[^c-4a703ea2818ce4a58b391a70bfacd87d]: Commencement: Sch. 4 in force at 1.4.2004 for specified purposes by [S.S.I. 2004/100](https://www.legislation.gov.uk/ssi/2004/100), [art. 2(g)](https://www.legislation.gov.uk/ssi/2004/100/article/2/g) (with [arts. 3](https://www.legislation.gov.uk/ssi/2004/100/article/3), [4](https://www.legislation.gov.uk/ssi/2004/100/article/4)) (as amended (30.9.2004) by [S.S.I. 2004/377](https://www.legislation.gov.uk/ssi/2004/377), art. 2)

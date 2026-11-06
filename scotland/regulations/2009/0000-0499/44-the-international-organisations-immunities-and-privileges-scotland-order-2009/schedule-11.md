@@ -24,7 +24,7 @@ Article 2
 
 ### General
 
-**1.**[^key-15e9b87312649a6a68a9d3c4fc8a7525] In this Schedule–
+**1.**[^c-15e9b87312649a6a68a9d3c4fc8a7525] In this Schedule–
 
 - “the Tribunal” means the International Tribunal for the Law of the Sea established by the Convention;
 - “the Convention” means the United Nations Convention on the Law of the Sea of 10th December 1982[^f00029];
@@ -36,19 +36,19 @@ Article 2
 
 ### The Tribunal
 
-**2.**[^key-d4bc39449d9b7ac52e261e91f6342bbc] The Tribunal shall enjoy immunity from suit and legal process, including in respect of its property, assets and funds, except in so far as the Tribunal has expressly waived such immunity in any particular case.
+**2.**[^c-d4bc39449d9b7ac52e261e91f6342bbc] The Tribunal shall enjoy immunity from suit and legal process, including in respect of its property, assets and funds, except in so far as the Tribunal has expressly waived such immunity in any particular case.
 
-**3.**[^key-631d0be7879233a4a47841591debf167] The Tribunal shall have the like inviolability of official archives and premises as, in accordance with the 1961 Convention Articles, is accorded in respect of the official archives and premises of a diplomatic mission.
+**3.**[^c-631d0be7879233a4a47841591debf167] The Tribunal shall have the like inviolability of official archives and premises as, in accordance with the 1961 Convention Articles, is accorded in respect of the official archives and premises of a diplomatic mission.
 
-**4.**[^key-7bc961e9682134f66137827b0d8ee27c] The Tribunal shall have the like relief from non-domestic rates on its official premises as, in accordance with Article 23 of the 1961 Convention Articles, is accorded in respect of the premises of a diplomatic mission.
+**4.**[^c-7bc961e9682134f66137827b0d8ee27c] The Tribunal shall have the like relief from non-domestic rates on its official premises as, in accordance with Article 23 of the 1961 Convention Articles, is accorded in respect of the premises of a diplomatic mission.
 
-**5.**[^key-fba8c82fe8274be48fd95b5cee2c3f85] (1) The Tribunal shall have exemption from prohibitions and restrictions, except where the prohibitions or restrictions arise from European Community law, on importation or exportation of goods by the Tribunal for its official use and in the case of any publications of the Tribunal imported or exported by it.
+**5.**[^c-fba8c82fe8274be48fd95b5cee2c3f85] (1) The Tribunal shall have exemption from prohibitions and restrictions, except where the prohibitions or restrictions arise from European Community law, on importation or exportation of goods by the Tribunal for its official use and in the case of any publications of the Tribunal imported or exported by it.
 
 (2) Sub-paragraph (1) shall not apply as respects the matters reserved by virtue of Section C5 (import and export control) of Part II of Schedule 5 to the Scotland Act 1998[^f00030].
 
 ### Members of the Tribunal
 
-**6.**[^key-c465357757a720b4eb614404bb569d73] (1) Members of the Tribunal shall enjoy the immunities and privileges set out in sub paragraph (2) when–
+**6.**[^c-c465357757a720b4eb614404bb569d73] (1) Members of the Tribunal shall enjoy the immunities and privileges set out in sub paragraph (2) when–
 
 - (a) engaged on the business of the Tribunal;
 - (b) residing in the United Kingdom for the purpose of holding themselves at the disposal of the Tribunal;
@@ -78,7 +78,7 @@ shall also enjoy the immunities and privileges under paragraph (2) during the pe
 
 ### Registrar and the officials
 
-**7.**[^key-3994b84f89d03d69bc1cd437284e7ecc] (1) The Registrar, when engaged on the business of the Tribunal, shall enjoy–
+**7.**[^c-3994b84f89d03d69bc1cd437284e7ecc] (1) The Registrar, when engaged on the business of the Tribunal, shall enjoy–
 
 - (a) the like immunity from suit and legal process as is accorded to or in respect of a diplomatic agent;
 - (b) the like inviolability of residence as is accorded to or in respect of a diplomatic agent;
@@ -91,7 +91,7 @@ shall also enjoy the immunities and privileges under paragraph (2) during the pe
 
 (4) Immunities and privileges accorded by this paragraph may be waived by the Tribunal.
 
-**8.**[^key-232fedec65cdfe88153ac4b5db0b7065] (1) Officials of the Tribunal (other than the Registrar), when engaged on the business of the Tribunal and as necessary for the independent exercise of their functions, shall enjoy–
+**8.**[^c-232fedec65cdfe88153ac4b5db0b7065] (1) Officials of the Tribunal (other than the Registrar), when engaged on the business of the Tribunal and as necessary for the independent exercise of their functions, shall enjoy–
 
 - (a) immunity from suit and legal process (even after they have ceased to exercise their functions) in respect of acts, including words written or spoken, done by them in the course of discharging their functions for the Tribunal; and
 - (b) the like immunity from personal arrest, detention and seizure of personal baggage as is accorded to a diplomatic agent.
@@ -104,7 +104,7 @@ shall also enjoy the immunities and privileges under paragraph (2) during the pe
 
 ### Experts
 
-**9.**[^key-b0594c9cecfbf4e7f5369dbef35f3b2c] (1) Except in so far as in any particular case such immunity or privilege is waived by the Tribunal, experts appointed under article 289 of the Convention, during the period of their mission (including time spent on journeys in that connection), shall as necessary for the independent exercise of their functions enjoy–
+**9.**[^c-b0594c9cecfbf4e7f5369dbef35f3b2c] (1) Except in so far as in any particular case such immunity or privilege is waived by the Tribunal, experts appointed under article 289 of the Convention, during the period of their mission (including time spent on journeys in that connection), shall as necessary for the independent exercise of their functions enjoy–
 
 - (a) immunity from suit and legal process (even after they have ceased to exercise their functions) in respect of acts, including words written or spoken, done by them in the course of discharging their functions for the Tribunal;
 - (b) the like inviolability for all papers and documents as is accorded to a diplomatic agent; and
@@ -114,7 +114,7 @@ shall also enjoy the immunities and privileges under paragraph (2) during the pe
 
 ### Agents, counsel and advocates
 
-**10.**[^key-09df2e2bc49999690bd4c25c9e5368b4] (1) Subject to the production of the required certificate, agents, counsel and advocates before the Tribunal during the period of their missions (including time spent on journeys in that connection), shall as necessary for the independent performance of their functions enjoy–
+**10.**[^c-09df2e2bc49999690bd4c25c9e5368b4] (1) Subject to the production of the required certificate, agents, counsel and advocates before the Tribunal during the period of their missions (including time spent on journeys in that connection), shall as necessary for the independent performance of their functions enjoy–
 
 - (a) immunity from suit and legal process (even after they have ceased to exercise their functions) in respect of acts, including words written or spoken, done by them in the course of discharging their functions for the Tribunal;
 - (b) the like inviolability for all papers and documents as is accorded to a diplomatic agent; and
@@ -131,34 +131,34 @@ shall also enjoy the immunities and privileges under paragraph (2) during the pe
 
 ### Witnesses, experts and persons performing missions
 
-**11.**[^key-6e9fe398b40962810d6642743cb7ef3c] (1) Except in so far as in any particular case such immunities or privileges are waived by the Tribunal, witnesses, experts and persons performing missions by order of the Tribunal shall during the period of their mission (including time spent on journeys in that connection) enjoy the same immunities and privileges as are provided for in paragraph 9(1).
+**11.**[^c-6e9fe398b40962810d6642743cb7ef3c] (1) Except in so far as in any particular case such immunities or privileges are waived by the Tribunal, witnesses, experts and persons performing missions by order of the Tribunal shall during the period of their mission (including time spent on journeys in that connection) enjoy the same immunities and privileges as are provided for in paragraph 9(1).
 
 (2) Sub paragraph (1) shall not operate so as to confer any immunity or privilege set out in paragraph 9(1)(b) and (c) on any person who is a British citizen, a British overseas territories citizen, a British Overseas citizen or a British National (Overseas) or who is permanently resident in the United Kingdom.
 
 ## Annotations
 
-[^key-15e9b87312649a6a68a9d3c4fc8a7525]: Commencement: Sch. 11 para. 1 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-15e9b87312649a6a68a9d3c4fc8a7525]: Commencement: Sch. 11 para. 1 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
 [^f00029]: Footnote: Cmnd. 8941.
 
-[^key-d4bc39449d9b7ac52e261e91f6342bbc]: Commencement: Sch. 11 para. 2 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-d4bc39449d9b7ac52e261e91f6342bbc]: Commencement: Sch. 11 para. 2 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-631d0be7879233a4a47841591debf167]: Commencement: Sch. 11 para. 3 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-631d0be7879233a4a47841591debf167]: Commencement: Sch. 11 para. 3 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-7bc961e9682134f66137827b0d8ee27c]: Commencement: Sch. 11 para. 4 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-7bc961e9682134f66137827b0d8ee27c]: Commencement: Sch. 11 para. 4 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-fba8c82fe8274be48fd95b5cee2c3f85]: Commencement: Sch. 11 para. 5 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-fba8c82fe8274be48fd95b5cee2c3f85]: Commencement: Sch. 11 para. 5 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
 [^f00030]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-c465357757a720b4eb614404bb569d73]: Commencement: Sch. 11 para. 6 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-c465357757a720b4eb614404bb569d73]: Commencement: Sch. 11 para. 6 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-3994b84f89d03d69bc1cd437284e7ecc]: Commencement: Sch. 11 para. 7 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-3994b84f89d03d69bc1cd437284e7ecc]: Commencement: Sch. 11 para. 7 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-232fedec65cdfe88153ac4b5db0b7065]: Commencement: Sch. 11 para. 8 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-232fedec65cdfe88153ac4b5db0b7065]: Commencement: Sch. 11 para. 8 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-b0594c9cecfbf4e7f5369dbef35f3b2c]: Commencement: Sch. 11 para. 9 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-b0594c9cecfbf4e7f5369dbef35f3b2c]: Commencement: Sch. 11 para. 9 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-09df2e2bc49999690bd4c25c9e5368b4]: Commencement: Sch. 11 para. 10 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-09df2e2bc49999690bd4c25c9e5368b4]: Commencement: Sch. 11 para. 10 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-6e9fe398b40962810d6642743cb7ef3c]: Commencement: Sch. 11 para. 11 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-6e9fe398b40962810d6642743cb7ef3c]: Commencement: Sch. 11 para. 11 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)

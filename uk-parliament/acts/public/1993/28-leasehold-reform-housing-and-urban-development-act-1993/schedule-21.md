@@ -26,19 +26,19 @@ Section 187(1).
 
 *Extent: E+W*
 
-**1.**[^key-f75e1341ee9fbe03716f01987a65a86a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f75e1341ee9fbe03716f01987a65a86a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-7374f080949689780776bc84251f340c]
+### ...[^c-7374f080949689780776bc84251f340c]
 
 *Extent: E+W+S*
 
-**2.**[^key-7374f080949689780776bc84251f340c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7374f080949689780776bc84251f340c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-bc5715a22635931435a9fefee134bfe2]
+### ...[^c-bc5715a22635931435a9fefee134bfe2]
 
 **Not yet in force.**
 
-**3.**[^key-bc5715a22635931435a9fefee134bfe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bc5715a22635931435a9fefee134bfe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Leasehold Reform Act 1967 (c. 88)
 
@@ -308,22 +308,22 @@ Section 187(1).
 
 **31.** In paragraphs 2 and 4 of Schedule 4 to that Act (further provisions as to exercise of functions by different authorities), for the words “and 8” there shall be substituted the words “ 8 and 8A ”.
 
-### ...[^key-8197c1a58d4857b1bb452ec1b242903d]
+### ...[^c-8197c1a58d4857b1bb452ec1b242903d]
 
 *Extent: E+W+S*
 
 **Not yet in force.**
 
-**32.**[^key-8197c1a58d4857b1bb452ec1b242903d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-8197c1a58d4857b1bb452ec1b242903d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f75e1341ee9fbe03716f01987a65a86a]: Textual amendment: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/1993/28/schedule/21/paragraph/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-f75e1341ee9fbe03716f01987a65a86a]: Textual amendment: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/1993/28/schedule/21/paragraph/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
-[^key-7374f080949689780776bc84251f340c]: Textual amendment: Sch. 21 para. 2 and cross-heading repealed (E.W.) (1.4.2009) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/3002/article/1/3), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2008/3002/schedule/1/paragraph/44), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/3002/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see [S.I](https://www.legislation.gov.uk/uksi/2008/3002/section/I). 2009/803, arts. 1(2), 3, 10)
+[^c-7374f080949689780776bc84251f340c]: Textual amendment: Sch. 21 para. 2 and cross-heading repealed (E.W.) (1.4.2009) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/3002/article/1/3), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2008/3002/schedule/1/paragraph/44), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/3002/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see [S.I](https://www.legislation.gov.uk/uksi/2008/3002/section/I). 2009/803, arts. 1(2), 3, 10)
 
-[^key-bc5715a22635931435a9fefee134bfe2]: Textual amendment: [Sch. 21 para. 3 and cross-heading](https://www.legislation.gov.uk/ukpga/1993/28/schedule/21/crossheading/parliamentary-commissioner-act-1967-c-13) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-bc5715a22635931435a9fefee134bfe2]: Textual amendment: [Sch. 21 para. 3 and cross-heading](https://www.legislation.gov.uk/ukpga/1993/28/schedule/21/crossheading/parliamentary-commissioner-act-1967-c-13) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
 [^c17029121]: Marginal citation: [1967 c. 88](https://www.legislation.gov.uk/ukpga/1967/88).
 
-[^key-8197c1a58d4857b1bb452ec1b242903d]: Textual amendment: Sch. 21 para. 32 and cross-heading repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-8197c1a58d4857b1bb452ec1b242903d]: Textual amendment: Sch. 21 para. 32 and cross-heading repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

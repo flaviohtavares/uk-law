@@ -49,7 +49,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) in subsection (2A) (date on which English central rating lists must be compiled), in paragraph (b), after “2017” insert “ , on 1 April 2023 ”;
 - (b) in subsection (5) (deadline for proposed list to be sent to Secretary of State or Welsh Ministers), for “30 September” substitute “ 31 December ”.
 
-(4)[^key-08148b37627d73bea24f60cec89b7992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-08148b37627d73bea24f60cec89b7992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Extent and short title
 
@@ -59,4 +59,4 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-08148b37627d73bea24f60cec89b7992]: Textual amendment: S. 1(4) omitted (W.) (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 5(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/5/2)
+[^c-08148b37627d73bea24f60cec89b7992]: Textual amendment: S. 1(4) omitted (W.) (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 5(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/5/2)

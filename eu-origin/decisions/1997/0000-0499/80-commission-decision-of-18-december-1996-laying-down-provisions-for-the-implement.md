@@ -40,61 +40,61 @@ laying down provisions for the implementation of Council Directive 96/16/EC on s
 
 (97/80/EC) (revoked)
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bc7c9d10228f1c799344bfb30fb480f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-4bc7c9d10228f1c799344bfb30fb480f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4bc7c9d10228f1c799344bfb30fb480f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4bc7c9d10228f1c799344bfb30fb480f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4bc7c9d10228f1c799344bfb30fb480f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4bc7c9d10228f1c799344bfb30fb480f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4bc7c9d10228f1c799344bfb30fb480f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-4bc7c9d10228f1c799344bfb30fb480f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-4bc7c9d10228f1c799344bfb30fb480f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-4bc7c9d10228f1c799344bfb30fb480f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-4bc7c9d10228f1c799344bfb30fb480f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — LIST OF MILK PRODUCTS[^key-4bc7c9d10228f1c799344bfb30fb480f]
+## ANNEX I — LIST OF MILK PRODUCTS[^c-4bc7c9d10228f1c799344bfb30fb480f]
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]
+[^c-4bc7c9d10228f1c799344bfb30fb480f]
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]EXPLANATORY NOTES
+[^c-4bc7c9d10228f1c799344bfb30fb480f]EXPLANATORY NOTES
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]DRINKING MILK (11)
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-4bc7c9d10228f1c799344bfb30fb480f]BUTTERMILK (12)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]DRINKING MILK (11)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]CREAM (13)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]BUTTERMILK (12)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]ACIDIFIED MILK (14)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]CREAM (13)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]DRINKS WITH A MILK BASE (15)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]ACIDIFIED MILK (14)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]OTHER FRESH PRODUCTS (16)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]DRINKS WITH A MILK BASE (15)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]CONCENTRATED MILK (21)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]OTHER FRESH PRODUCTS (16)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]POWDERED DAIRY PRODUCTS (22)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]CONCENTRATED MILK (21)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f] BUTTER (23)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]POWDERED DAIRY PRODUCTS (22)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4bc7c9d10228f1c799344bfb30fb480f] BUTTER (23)
 
 **Butter, total and other yellow fat dairy products (23):** includes butter, traditional butter, recombined butter, whey butter, rendered butter and butteroil, and other yellow fat products, expressed in butter equivalent with a milk fat content equal to 82 % by weight of the product.
 
@@ -113,7 +113,7 @@ laying down provisions for the implementation of Council Directive 96/16/EC on s
 
 Headings 2311, 2312 and 2313 also include butter which contains small amounts of herbs, spices, aromatic substances, etc. on the condition that the product retains the characteristics of butter.
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f] Rendered butter and butteroil (232):
+[^c-4bc7c9d10228f1c799344bfb30fb480f] Rendered butter and butteroil (232):
 
 **Rendered butter:** renderd butters have a milk fat content exceeding 85 % by weight. The term frequently covers, in addition to rendered butter as such, a number of other similar dehydrated butters which are known generically under various names, such as ‘dehydrated butter’, ‘anhydrous butter’, ‘butteroil’, ‘butyric fat’ (milk fat) and ‘concentrated butter’.
 
@@ -122,7 +122,7 @@ Headings 2311, 2312 and 2313 also include butter which contains small amounts of
 - Also includes ‘ghee’.
 - To avoid double counting, ‘butteroil’ relates only to direct production from cream.
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f] Other yellow fat products (233):
+[^c-4bc7c9d10228f1c799344bfb30fb480f] Other yellow fat products (233):
 
 **Reduced-fat butter (2331):** product similar to butter with a milk-fat content of less than 80 % by weight (excluding all other fat) (sales description according to section A of the Annex to Regulation (EC) No 2991/94: ‘three-quarter-fat butter’, ‘half-fat butter’ and ‘dairy spread’).
 
@@ -130,47 +130,47 @@ Headings 2311, 2312 and 2313 also include butter which contains small amounts of
 
 Table B: if the reduced-fat butter (2331) and/or ‘other’ (2332) are producted from butter manufactured in the same dairy and the type of butter is not identifiable (2311, 2312 or 2313) the data are taken from heading 23, indicating the quantity of butter concerned.
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]CHEESE (24)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]CHEESE (24)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]PROCESSED CHEESE (25)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]PROCESSED CHEESE (25)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]CASEIN AND CASEINATES (26)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]CASEIN AND CASEINATES (26)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]WHEY (27)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]WHEY (27)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]OTHER MANUFACTURED PRODUCTS (28)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]OTHER MANUFACTURED PRODUCTS (28)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-4bc7c9d10228f1c799344bfb30fb480f]
+## ANNEX II[^c-4bc7c9d10228f1c799344bfb30fb480f]
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]TABLE A
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-4bc7c9d10228f1c799344bfb30fb480f]Table B
+[^c-4bc7c9d10228f1c799344bfb30fb480f]TABLE A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]TABLE C
+[^c-4bc7c9d10228f1c799344bfb30fb480f]Table B
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]EXPLANATORY NOTES
-
-[^key-4bc7c9d10228f1c799344bfb30fb480f]TABLE A
+[^c-4bc7c9d10228f1c799344bfb30fb480f]TABLE C
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]TABLE B
+[^c-4bc7c9d10228f1c799344bfb30fb480f]EXPLANATORY NOTES
+
+[^c-4bc7c9d10228f1c799344bfb30fb480f]TABLE A
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4bc7c9d10228f1c799344bfb30fb480f]TABLE B
 
 To avoid double counting, milk products used within the same dairy for the manufacture of other milk products are not taken into account.
 
@@ -201,52 +201,52 @@ Quantities of processed fresh milk products shall be understood to be available 
 - positive: quantities (in 1 000 tonnes) of skimmed milk used in the manufacture of the product in question, including possible losses occurring during the manufacturing process,
 - negative: quantities (in 1 000 tonnes) of skimmed milk recovered during the manufacturing process for the product in question (for example: skimmed milk recovered during the manufacture of butter from whole milk or cream).
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]Other uses (codes 3-6):
+[^c-4bc7c9d10228f1c799344bfb30fb480f]Other uses (codes 3-6):
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]TABLE C
+[^c-4bc7c9d10228f1c799344bfb30fb480f]TABLE C
 
 **Agricultural holding:** a techno-economic unit under a single management producing agricultural products.
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]A:
+[^c-4bc7c9d10228f1c799344bfb30fb480f]A:
 
 Availabilities:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]B.
+[^c-4bc7c9d10228f1c799344bfb30fb480f]B.
 
 Use:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]C.
+[^c-4bc7c9d10228f1c799344bfb30fb480f]C.
 
 Products obtained:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]TABLES D AND E
+[^c-4bc7c9d10228f1c799344bfb30fb480f]TABLES D AND E
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]TABLE E
+[^c-4bc7c9d10228f1c799344bfb30fb480f]TABLE E
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]TABLE F
+[^c-4bc7c9d10228f1c799344bfb30fb480f]TABLE F
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]TABLES D, E, F AND G
+[^c-4bc7c9d10228f1c799344bfb30fb480f]TABLES D, E, F AND G
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-4bc7c9d10228f1c799344bfb30fb480f]
+## ANNEX III[^c-4bc7c9d10228f1c799344bfb30fb480f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4bc7c9d10228f1c799344bfb30fb480f]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/15)
+[^c-4bc7c9d10228f1c799344bfb30fb480f]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/15)

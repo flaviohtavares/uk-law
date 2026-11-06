@@ -41,15 +41,15 @@ Coming into force
 
 In exercise of the powers conferred on the Secretary of State by sections 41(3) and 138(7) and (8) of the School Standards and Framework Act 1998[^f00001], and now vested in the National Assembly for Wales[^f00002], the National Assembly for Wales makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-c45ea1038bcb5eb207db2a1bba621f46]
+## 1. Citation, commencement and application[^c-c45ea1038bcb5eb207db2a1bba621f46]
 
 (1) These Regulations may be cited as the Changing of School Session Times (Wales) Regulations 2000 and shall come into force on 1 September 2000.
 
 (2) These Regulations apply only in relation to Wales.
 
-## 2. Procedure for changing school session times[^key-e909fc7d7c53b3a775590438b51ba634]
+## 2. Procedure for changing school session times[^c-e909fc7d7c53b3a775590438b51ba634]
 
-(1) Where the governing body of a community, voluntary controlled or community special school or maintained nursery school[^key-d3e6933dbd886de9d0934c6414baed82] propose to make any change in the times of the school sessions (or, if there is only one, the school session), they shall—
+(1) Where the governing body of a community, voluntary controlled or community special school or maintained nursery school[^c-d3e6933dbd886de9d0934c6414baed82] propose to make any change in the times of the school sessions (or, if there is only one, the school session), they shall—
 
 - (a) before taking any of the actions mentioned in paragraphs (b) to (g), consult the local education authority, the head teacher and all persons employed in any teaching or non-teaching post at the school;
 - (b) prepare a statement—
@@ -75,14 +75,14 @@ In exercise of the powers conferred on the Secretary of State by sections 41(3) 
 
 (3) Where the change concerns the times at which a school session is to begin in the morning or end in the afternoon (or both) the period referred to in paragraph (2) shall not be less than three months.
 
-## 3. Taking effect of changed school session times[^key-f2a180680ad2236c4e6bb08b27500161]
+## 3. Taking effect of changed school session times[^c-f2a180680ad2236c4e6bb08b27500161]
 
 A change in the times of a school session shall only be made so as to take effect —
 
 - (a) where regulation 2(3) applies, at the beginning of a school year; and
 - (b) in all other cases, at the beginning of a school term.
 
-## 4. Control of meetings[^key-4f27bec6bfdc15465045a2b86d82859c]
+## 4. Control of meetings[^c-4f27bec6bfdc15465045a2b86d82859c]
 
 The proceedings of any meeting at which an opportunity for discussion must be provided by virtue of Regulation 2(1)(f) shall be under the control of the governing body.
 
@@ -110,16 +110,16 @@ Regulation 4 provides for the meeting with parents (which is required to be held
 
 [^f00002]: Footnote: *See* the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-c45ea1038bcb5eb207db2a1bba621f46]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2000/2030/regulation/1) in force at 1.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/2030/regulation/1/1)
+[^c-c45ea1038bcb5eb207db2a1bba621f46]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2000/2030/regulation/1) in force at 1.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/2030/regulation/1/1)
 
-[^key-e909fc7d7c53b3a775590438b51ba634]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2000/2030/regulation/2) in force at 1.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/2030/regulation/1/1)
+[^c-e909fc7d7c53b3a775590438b51ba634]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2000/2030/regulation/2) in force at 1.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/2030/regulation/1/1)
 
-[^key-d3e6933dbd886de9d0934c6414baed82]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2000/2030/regulation/2/1) inserted (31.10.2005) by [The Education Act 2002 (Transitional Provisions and Consequential Amendments) (Wales) Regulations 2005 (S.I. 2005/2913)](https://www.legislation.gov.uk/wsi/2005/2913), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/1/1), [12(2)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/12/2)
+[^c-d3e6933dbd886de9d0934c6414baed82]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2000/2030/regulation/2/1) inserted (31.10.2005) by [The Education Act 2002 (Transitional Provisions and Consequential Amendments) (Wales) Regulations 2005 (S.I. 2005/2913)](https://www.legislation.gov.uk/wsi/2005/2913), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/1/1), [12(2)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/12/2)
 
 [^f00003]: Footnote: See section 576 of the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56) for the meaning of “parent”.
 
-[^key-f2a180680ad2236c4e6bb08b27500161]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2000/2030/regulation/3) in force at 1.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/2030/regulation/1/1)
+[^c-f2a180680ad2236c4e6bb08b27500161]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2000/2030/regulation/3) in force at 1.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/2030/regulation/1/1)
 
-[^key-4f27bec6bfdc15465045a2b86d82859c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2000/2030/regulation/4) in force at 1.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/2030/regulation/1/1)
+[^c-4f27bec6bfdc15465045a2b86d82859c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2000/2030/regulation/4) in force at 1.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/2030/regulation/1/1)
 
 [^f00004]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).

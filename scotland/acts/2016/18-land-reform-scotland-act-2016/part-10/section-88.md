@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Modern limited duration tenancies: fixed equipment[^key-759dc48d4461b74fd4a2a01f8cb24c02]
+## 88. Modern limited duration tenancies: fixed equipment[^c-759dc48d4461b74fd4a2a01f8cb24c02]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-759dc48d4461b74fd4a2a01f8cb24c02]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2016/18/section/88) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-759dc48d4461b74fd4a2a01f8cb24c02]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2016/18/section/88) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

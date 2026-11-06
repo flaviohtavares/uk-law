@@ -48,7 +48,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with that section, he is satisfied that the scope of that Act should be both extended so as to include animals of a kind not for the time being specified in the Schedule to that Act and diminished so as to exclude animals of a kind for the time being specified in that Schedule.
 
-## 1. Citation, extent and commencement[^key-ee0bed3495a3db81f4645bcf44b8d820]
+## 1. Citation, extent and commencement[^c-ee0bed3495a3db81f4645bcf44b8d820]
 
 (1) This Order may be cited as the Dangerous Wild Animals Act 1976 (Modification) (No.2) Order 2007.
 
@@ -58,17 +58,17 @@ In accordance with that section, he is satisfied that the scope of that Act shou
 
 (4) Articles 2 and 3(2), and the Schedule, come into force on 1st October 2007.
 
-## 2. Modification to the Dangerous Wild Animals Act 1976[^key-067d8723843ba9402d918b40d5b0d210]
+## 2. Modification to the Dangerous Wild Animals Act 1976[^c-067d8723843ba9402d918b40d5b0d210]
 
 *Extent: E+W*
 
 For the Schedule to the Dangerous Wild Animals Act 1976[^f00002] substitute the Schedule set out in the Schedule to this Order.
 
-## 3. Revocations[^key-20d1bb465d3ba9d90009b80055101021][^key-8983cc0f8a4f13a028d12a42744c863e]
+## 3. Revocations[^c-20d1bb465d3ba9d90009b80055101021][^c-8983cc0f8a4f13a028d12a42744c863e]
 
-(1)[^key-20d1bb465d3ba9d90009b80055101021] The Dangerous Wild Animals Act 1976 (Modification) Order 2007[^f00003] is revoked.
+(1)[^c-20d1bb465d3ba9d90009b80055101021] The Dangerous Wild Animals Act 1976 (Modification) Order 2007[^f00003] is revoked.
 
-(2)[^key-8983cc0f8a4f13a028d12a42744c863e] The Dangerous Wild Animals Act 1976 (Modification) Order 1984[^f00004] is revoked.
+(2)[^c-8983cc0f8a4f13a028d12a42744c863e] The Dangerous Wild Animals Act 1976 (Modification) Order 1984[^f00004] is revoked.
 
 Phil Woolas
 
@@ -80,7 +80,7 @@ Department for Environment, Food and Rural Affairs
 
 *Extent: E+W*
 
-## SCHEDULE[^key-6d0ec0fdf474a124e1f4b02d9b39ae68]
+## SCHEDULE[^c-6d0ec0fdf474a124e1f4b02d9b39ae68]
 
 Article 2
 
@@ -184,18 +184,18 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [1976 c.38](https://www.legislation.gov.uk/ukpga/1976/38).
 
-[^key-ee0bed3495a3db81f4645bcf44b8d820]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/2465/article/1) in force at 30.9.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/3)
+[^c-ee0bed3495a3db81f4645bcf44b8d820]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/2465/article/1) in force at 30.9.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/3)
 
-[^key-067d8723843ba9402d918b40d5b0d210]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/2465/article/2) in force at 1.10.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/4)
+[^c-067d8723843ba9402d918b40d5b0d210]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/2465/article/2) in force at 1.10.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/4)
 
 [^f00002]: Footnote: As substituted by [S.I. 1984/1111](https://www.legislation.gov.uk/uksi/1984/1111).
 
-[^key-20d1bb465d3ba9d90009b80055101021]: Commencement: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2007/2465/article/3/1) in force at 30.9.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/3)
+[^c-20d1bb465d3ba9d90009b80055101021]: Commencement: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2007/2465/article/3/1) in force at 30.9.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/3)
 
-[^key-8983cc0f8a4f13a028d12a42744c863e]: Commencement: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2007/2465/article/3/2) in force at 1.10.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/4)
+[^c-8983cc0f8a4f13a028d12a42744c863e]: Commencement: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2007/2465/article/3/2) in force at 1.10.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/4)
 
 [^f00003]: Footnote: [S.I. 2007/1437](https://www.legislation.gov.uk/uksi/2007/1437).
 
 [^f00004]: Footnote: [S.I. 1984/1111](https://www.legislation.gov.uk/uksi/1984/1111).
 
-[^key-6d0ec0fdf474a124e1f4b02d9b39ae68]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2007/2465/schedule) in force at 1.10.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/4)
+[^c-6d0ec0fdf474a124e1f4b02d9b39ae68]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2007/2465/schedule) in force at 1.10.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/4)

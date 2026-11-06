@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 92. Independent review[^key-5c020f0dc2c2571fea579e6dca6e48c4]
+## 92. Independent review[^c-5c020f0dc2c2571fea579e6dca6e48c4]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ In the Social Security Administration Act 1992, after section 109H (inserted by 
 
 ## Annotations
 
-[^key-5c020f0dc2c2571fea579e6dca6e48c4]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-5c020f0dc2c2571fea579e6dca6e48c4]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)

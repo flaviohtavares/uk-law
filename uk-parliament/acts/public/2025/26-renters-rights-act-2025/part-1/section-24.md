@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Assured agricultural occupancies: opting out etc[^key-e75417e3290a2aac6b823ca9a0b74154][^key-cf8ed8e9e71bccd4b5b9bbcf7e753345]
+## 24. Assured agricultural occupancies: opting out etc[^c-e75417e3290a2aac6b823ca9a0b74154][^c-cf8ed8e9e71bccd4b5b9bbcf7e753345]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e75417e3290a2aac6b823ca9a0b74154]: Commencement: S. 24 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-e75417e3290a2aac6b823ca9a0b74154]: Commencement: S. 24 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-cf8ed8e9e71bccd4b5b9bbcf7e753345]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2025/26/section/24) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-cf8ed8e9e71bccd4b5b9bbcf7e753345]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2025/26/section/24) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

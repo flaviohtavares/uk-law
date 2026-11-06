@@ -86,7 +86,7 @@ Section 1
 
 > (4) In relation to a patient receiving treatment in a hospital within the meaning of the Mental Health (Northern Ireland) Order 1986, the reference in subsection (1) above to mental disorder shall be construed in accordance with that Order.
 
-**16.**[^key-6c20eb122419f1e18b18a8df360104c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-6c20eb122419f1e18b18a8df360104c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **17.** In section 145(1) (interpretation), for the definitions of “mental disorder”, “severe mental impairment”, “mental impairment” and “psychopathic disorder” substitute—
 
@@ -122,7 +122,7 @@ Section 1
 
 #### Housing Act 1996
 
-**21.**[^key-72b1aa6365b6a6308004e14272fbf29d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-72b1aa6365b6a6308004e14272fbf29d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Care Standards Act 2000
 
@@ -161,6 +161,6 @@ Section 1
 
 [^c2103694]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2007/12/schedule/1/paragraph/13) not in force at Royal Assent see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1); [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2007/12/schedule/1/paragraph/13) in force for specified purposes at 3.11.2008 by [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2008/1210/article/1/1/b), [2(a)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/a)
 
-[^key-6c20eb122419f1e18b18a8df360104c9]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2007/12/schedule/1/paragraph/16) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 6(1)](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/6/1)
+[^c-6c20eb122419f1e18b18a8df360104c9]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2007/12/schedule/1/paragraph/16) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 6(1)](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/6/1)
 
-[^key-72b1aa6365b6a6308004e14272fbf29d]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2007/12/schedule/1/paragraph/21) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)
+[^c-72b1aa6365b6a6308004e14272fbf29d]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2007/12/schedule/1/paragraph/21) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)

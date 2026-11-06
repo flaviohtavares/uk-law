@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Conditions about apparatus supply[^key-acd3d610274975a8d515c9a84bbc9b3e][^key-c2a8208c29ed0bb427e059f13716a235]
+## 93. Conditions about apparatus supply[^c-acd3d610274975a8d515c9a84bbc9b3e][^c-c2a8208c29ed0bb427e059f13716a235]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acd3d610274975a8d515c9a84bbc9b3e]: Commencement: S. 93 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-acd3d610274975a8d515c9a84bbc9b3e]: Commencement: S. 93 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-c2a8208c29ed0bb427e059f13716a235]: Commencement: S. 93 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-c2a8208c29ed0bb427e059f13716a235]: Commencement: S. 93 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

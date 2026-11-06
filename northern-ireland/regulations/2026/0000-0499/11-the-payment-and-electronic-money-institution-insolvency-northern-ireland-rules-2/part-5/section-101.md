@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Content of relevant funds claim[^key-38f058d87783b3c3de4c0b9de7c3a1d8]
+## 101. Content of relevant funds claim[^c-38f058d87783b3c3de4c0b9de7c3a1d8]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38f058d87783b3c3de4c0b9de7c3a1d8]: Commencement: [Rule 101](https://www.legislation.gov.uk/nisr/2026/11/rule/101) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-38f058d87783b3c3de4c0b9de7c3a1d8]: Commencement: [Rule 101](https://www.legislation.gov.uk/nisr/2026/11/rule/101) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

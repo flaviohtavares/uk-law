@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Taxation of loan relationships.[^key-d2615781d92fb31428b23f64f46e5b96]
+## 80. Taxation of loan relationships.[^c-d2615781d92fb31428b23f64f46e5b96]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2615781d92fb31428b23f64f46e5b96]: Textual amendment: [S. 80](https://www.legislation.gov.uk/ukpga/1996/8/section/80) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 403](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/403), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-d2615781d92fb31428b23f64f46e5b96]: Textual amendment: [S. 80](https://www.legislation.gov.uk/ukpga/1996/8/section/80) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 403](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/403), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

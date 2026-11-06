@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Pension Schemes Act shall be amended as follows.
 
-(2)[^key-ad0a0fa4f4229a3e4914aa04e3831bed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ad0a0fa4f4229a3e4914aa04e3831bed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After section 11 there shall be inserted—
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad0a0fa4f4229a3e4914aa04e3831bed]: Textual amendment: [Art. 29(2)](https://www.legislation.gov.uk/nisi/1999/3147/article/29/2) repealed (6.4.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3); [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/c)
+[^c-ad0a0fa4f4229a3e4914aa04e3831bed]: Textual amendment: [Art. 29(2)](https://www.legislation.gov.uk/nisi/1999/3147/article/29/2) repealed (6.4.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3); [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/c)

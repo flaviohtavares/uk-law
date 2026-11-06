@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78A. Restriction on removal of children and their parents etc[^key-10d1b3e17d1831ada38cc18af73c35c0][^key-aa9d75555880a5102ab11006b93d214c]
+## 78A. Restriction on removal of children and their parents etc[^c-10d1b3e17d1831ada38cc18af73c35c0][^c-aa9d75555880a5102ab11006b93d214c]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10d1b3e17d1831ada38cc18af73c35c0]: Modification: [Ss. 78-79](https://www.legislation.gov.uk/ukpga/2002/41/section/78) applied (with modifications) (31.1.2020) by [The Immigration (Citizens Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 2 paras. 1-3](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/1) (as amended (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/2))
+[^c-10d1b3e17d1831ada38cc18af73c35c0]: Modification: [Ss. 78-79](https://www.legislation.gov.uk/ukpga/2002/41/section/78) applied (with modifications) (31.1.2020) by [The Immigration (Citizens Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 2 paras. 1-3](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/1) (as amended (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/2))
 
-[^key-aa9d75555880a5102ab11006b93d214c]: Textual amendment: S. 78A inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 2](https://www.legislation.gov.uk/ukpga/2014/22/section/2), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/a)
+[^c-aa9d75555880a5102ab11006b93d214c]: Textual amendment: S. 78A inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 2](https://www.legislation.gov.uk/ukpga/2014/22/section/2), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/a)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-### PART 1A — Authorised development[^key-1cf17d97c4e32c994a7530e192480122]
+### PART 1A — Authorised development[^c-1cf17d97c4e32c994a7530e192480122]
 
 A nationally significant infrastructure project being an offshore generating station as defined in sections 14(1)(a) and 15(3) of the 2008 Act comprising—
 
@@ -74,7 +74,7 @@ A nationally significant infrastructure project being an offshore generating sta
     - (h) lighting columns and lighting; and
     - (i) safety/emergency points.
 
-### PART 1B — Ancillary and necessary works[^key-cc50186daef12e799a4fc6a8f4a668c0]
+### PART 1B — Ancillary and necessary works[^c-cc50186daef12e799a4fc6a8f4a668c0]
 
 Works within the Order limits to the extent necessary and ancillary to the construction, operation and maintenance of a nationally significant infrastructure project and forming part of that project being an offshore generating station as defined in sections 14(1)(a) and 15(3) of the 2008 Act comprising—
 
@@ -97,7 +97,7 @@ Works within the Order limits to the extent necessary and ancillary to the const
   - (g) temporary land places, moorings and other means of accommodating vessels in the construction of the works set out in Part 1A and this Part; and
   - (h) works to alter the position of apparatus on, over or under tidal waters or tidal lands within the Order limits.
 
-### PART 2 — Dimensions of structures[^key-61e20faa9cf8bd9a212c94eafede44ed]
+### PART 2 — Dimensions of structures[^c-61e20faa9cf8bd9a212c94eafede44ed]
 
 <table>
 <thead>
@@ -116,7 +116,7 @@ Works within the Order limits to the extent necessary and ancillary to the const
 
 ### PART 3 — Requirements
 
-#### 1. Interpretation[^key-2ae9a14b7742054fddd2115f67ec542f]
+#### 1. Interpretation[^c-2ae9a14b7742054fddd2115f67ec542f]
 
 In this Part—
 
@@ -127,7 +127,7 @@ In this Part—
 - “DCWW” means Dŵr Cymru Cyfyngedig (Company Reference Number: 2366777) whose registered office is at Pentwynn Road, Nelson, Treharris CF46 6LY;
 - “major event” means an event likely to generate vehicular traffic capable of occupying more than the aggregate number of visitor parking spaces within the authorised development;
 - “OEMP” means the Operational Environmental Management Plan to be submitted and approved pursuant to Requirement 5;
-- “operate” means operate the authorised development for generation of electricity for transmission to the national electricity grid following completion of wet commissioning and “operation” and “operating” is to be constructed accordingly[^key-de5e4f499cf8ba25e9baf64f4c574fbd];
+- “operate” means operate the authorised development for generation of electricity for transmission to the national electricity grid following completion of wet commissioning and “operation” and “operating” is to be constructed accordingly[^c-de5e4f499cf8ba25e9baf64f4c574fbd];
 - “OPTMP” means the Operational Phase Travel Management Plan to be submitted and approved pursuant to Requirement 22;
 - “outline Adaptive Environmental Management Plan” means the outline Adaptive Environmental Management Plan dated 25th November 2014 certified as such by the Secretary of State for the purposes of this Order;
 - “outline Construction Environmental Management Plan” means the outline Construction Environmental Management Plan dated 25th November 2014 certified as such by the Secretary of State for the purposes of this Order;
@@ -135,31 +135,31 @@ In this Part—
 - “outline Operational Environmental Management Plan” means the outline Operational Environmental Management Plan dated 4th November 2014 certified as such by the Secretary of State for the purposes of this Order;
 - “outline operational phase traffic management plan” means the outline operational phase traffic management plan submitted with the application certified as such by the Secretary of State for the purposes of this Order.
 
-#### 2. Time limits, etc.[^key-4fd2bc5746a10147a03a5b06e73e4d23]
+#### 2. Time limits, etc.[^c-4fd2bc5746a10147a03a5b06e73e4d23]
 
 The authorised development must commence no later than the expiration of 5 years beginning with the date that this Order comes into effect.
 
-**3.**[^key-41cac46699381421774abc7dad5e8927] (1) The authorised development must not commence until a construction phasing scheme for the authorised development has been submitted to and approved in writing by the relevant planning authorities. The phasing scheme must set out the sequence of construction of the authorised development and under which requirements approvals are to be sought in whole or in part depending on the contents of the construction phasing scheme.
+**3.**[^c-41cac46699381421774abc7dad5e8927] (1) The authorised development must not commence until a construction phasing scheme for the authorised development has been submitted to and approved in writing by the relevant planning authorities. The phasing scheme must set out the sequence of construction of the authorised development and under which requirements approvals are to be sought in whole or in part depending on the contents of the construction phasing scheme.
 
 (2) Where a construction phasing scheme has been submitted to and approved by the relevant planning authorities, the details to be submitted to the relevant planning authorities to discharge any requirement may relate to a particular construction phase only, in order that the construction or operation of that phase may commence in accordance with the approved details for that phase alone. Where details have not been submitted in relation to any particular construction phase, then construction of that phase must not commence until the relevant part of any requirement has been discharged in relation to that phase. Construction must then be carried out in accordance with any relevant approval.
 
-#### 4. Detailed design[^key-4403daa4aa91f25d7590d8d70a792d5c]
+#### 4. Detailed design[^c-4403daa4aa91f25d7590d8d70a792d5c]
 
 (1) The authorised development comprised in Works No. 2b, 2c, 2d, 3, 4, 5a, 7a and 7g, must be carried out in accordance with the relevant works plans and planning drawings in Schedule 7.
 
-(2) The authorised development seaward of mean low water [^key-e7acf8902838e03ab60531fba982dd1a]... comprised in Work No. 1a must be carried out in accordance with the relevant works plans and planning drawings in Schedule 7 so far as those drawings refer to works that are within the description of Work No. 1a in Part 1A[^key-baa10a8b136fa7d7474ad90da00a81b4] of Schedule 1.
+(2) The authorised development seaward of mean low water [^c-e7acf8902838e03ab60531fba982dd1a]... comprised in Work No. 1a must be carried out in accordance with the relevant works plans and planning drawings in Schedule 7 so far as those drawings refer to works that are within the description of Work No. 1a in Part 1A[^c-baa10a8b136fa7d7474ad90da00a81b4] of Schedule 1.
 
-(3) The authorised development seaward of mean low water [^key-816cd390e022cfd84ff6eec64f9ac0f7]... comprised in Work No. 1b must be carried out in accordance with the relevant works plans and planning drawings in Schedule 7 so far as those drawings refer to works that are within the description of Work No. 1b in Part 1A[^key-6adbb5b08cb85e110b2ba6ce6bccc1aa] of Schedule 1.
+(3) The authorised development seaward of mean low water [^c-816cd390e022cfd84ff6eec64f9ac0f7]... comprised in Work No. 1b must be carried out in accordance with the relevant works plans and planning drawings in Schedule 7 so far as those drawings refer to works that are within the description of Work No. 1b in Part 1A[^c-6adbb5b08cb85e110b2ba6ce6bccc1aa] of Schedule 1.
 
-(4) The authorised development comprised in Work No. 2a must be carried out in accordance with the relevant works plans and planning drawings in Schedule 7 so far as those drawings refer to works that are within the description of Work No. 2a in Part 1A[^key-39e94316fbee7476c6d9fcf1f0b85dbe] of Schedule 1.
+(4) The authorised development comprised in Work No. 2a must be carried out in accordance with the relevant works plans and planning drawings in Schedule 7 so far as those drawings refer to works that are within the description of Work No. 2a in Part 1A[^c-39e94316fbee7476c6d9fcf1f0b85dbe] of Schedule 1.
 
-(5) No authorised development is to commence until the reserved details of the landward parts above mean low water [^key-a9950c553127f3ed7a00dba34997a0ed]... of Works No. 1a and 1b and of all other works referred to in Parts 1A and 1B of Schedule 1 have been submitted to and approved by the relevant planning authorities.
+(5) No authorised development is to commence until the reserved details of the landward parts above mean low water [^c-a9950c553127f3ed7a00dba34997a0ed]... of Works No. 1a and 1b and of all other works referred to in Parts 1A and 1B of Schedule 1 have been submitted to and approved by the relevant planning authorities.
 
 (6) Where reserved details have been approved by the relevant planning authorities, the authorised development must be carried out in accordance with those details.
 
 (7) In this Requirement “reserved details” means details of layout, scale, siting, design, dimensions and external appearance.
 
-#### 5. Construction Environmental Management Plans[^key-8e154d8b3b32f9838f58d49fa396d2e5]
+#### 5. Construction Environmental Management Plans[^c-8e154d8b3b32f9838f58d49fa396d2e5]
 
 (1) No authorised development are to commence until a CEMP substantially in accordance with the outline Construction Environmental Management Plan, has been submitted to and approved by the relevant planning authorities in consultation with Natural Resources Wales.
 
@@ -174,9 +174,9 @@ The authorised development must commence no later than the expiration of 5 years
 - (a) lagoon wardens during the operational phase, whose responsibilities include (but are not limited to) securing the delivery of the OEMP and managing public access;
 - (b) a Reptile Strategy which provides for their habitat retention and management, and where necessary, their translocation to suitable receptor sites;
 - (c) access for otters, which is to be maintained at all times between the docks, River Tawe and the coastline;
-- (d) providing that reversing alarms which are not audible beyond the development site boundaries must be fitted on any Heavy Goods Vehicles (“HGVs”)[^key-dc88317361d1f484fc50cddb46696020] and mobile plant that are active during the construction phase during hours of darkness, weekends (Saturdays and Sundays) and bank holidays.
+- (d) providing that reversing alarms which are not audible beyond the development site boundaries must be fitted on any Heavy Goods Vehicles (“HGVs”)[^c-dc88317361d1f484fc50cddb46696020] and mobile plant that are active during the construction phase during hours of darkness, weekends (Saturdays and Sundays) and bank holidays.
 
-#### 6. Adaptive Environmental Management Plan[^key-5b4446d872db3cd49c0d5629ed749f20]
+#### 6. Adaptive Environmental Management Plan[^c-5b4446d872db3cd49c0d5629ed749f20]
 
 (1) No authorised development are to commence until an AEMP, substantially in accordance with the outline Adaptive Environmental Management Plan, has been submitted to and approved by the relevant planning authorities in consultation with Natural Resources Wales.
 
@@ -196,7 +196,7 @@ The authorised development must commence no later than the expiration of 5 years
 
 (7) The AEMP must provide for the appointment of a Core Review Group to include representatives of the undertaker, Natural Resources Wales and the 2 relevant planning authorities and to be chaired by an independent person selected by the Core Review Group.
 
-#### 7. Provision of landscaping[^key-13c56dac8a1fab3f8cef1eb6b5f7e97d]
+#### 7. Provision of landscaping[^c-13c56dac8a1fab3f8cef1eb6b5f7e97d]
 
 (1) The authorised development is not to be commenced until a detailed landscaping scheme and associated working programme for the authorised development reflecting the principles of the design and access statement has been submitted to and approved by the relevant planning authorities.
 
@@ -223,7 +223,7 @@ The authorised development must commence no later than the expiration of 5 years
 
 (4) The details to be submitted under sub-paragraph (2) must not include any development or works that are not within the descriptions of the authorised development contained in this Schedule.
 
-#### 8. Implementation and maintenance of landscaping[^key-353e8894d008083f1ad2587a15fedfcc]
+#### 8. Implementation and maintenance of landscaping[^c-353e8894d008083f1ad2587a15fedfcc]
 
 (1) All landscaping works must be carried out in their entirety, maintained and managed in accordance with the detailed written landscaping scheme approved under Requirement 7 and to the specified standard.
 
@@ -233,9 +233,9 @@ The authorised development must commence no later than the expiration of 5 years
 
 (4) Within 2 years from the commencement of operation of the authorised development a long term management plan for the period of operation of the development for the area of the authorised development within the jurisdiction of the City and County of Swansea Council prepared in accordance with the principles set out in the landscaping scheme shall be submitted for the approval of that Council, and all planting and landscaping must then be managed in accordance with the approved plan.
 
-(5) Within 2 years from the commencement of operation of the authorised development a long term management plan for the period of operation of the development for the area of the authorised development within the jurisdiction of the Neath Port Talbot County[^key-e573324fdbed9efa26aef10be3186be1] Borough Council prepared in accordance with the principles set out in the landscaping scheme shall be submitted for the approval of that Council, and all planting and landscaping must then be managed in accordance with the approved plan.
+(5) Within 2 years from the commencement of operation of the authorised development a long term management plan for the period of operation of the development for the area of the authorised development within the jurisdiction of the Neath Port Talbot County[^c-e573324fdbed9efa26aef10be3186be1] Borough Council prepared in accordance with the principles set out in the landscaping scheme shall be submitted for the approval of that Council, and all planting and landscaping must then be managed in accordance with the approved plan.
 
-#### 9. Highway works[^key-4bf4db5e9ec0d9025db1cb685d298789]
+#### 9. Highway works[^c-4bf4db5e9ec0d9025db1cb685d298789]
 
 (1) No phase of the authorised development affecting an existing public highway is to commence until details of the siting, design and layout of the highway works have after consultation and highway authority for the works in question been submitted to and approved by the relevant planning authority.
 
@@ -248,9 +248,9 @@ The authorised development must commence no later than the expiration of 5 years
 - (c) remedy of defects caused during and resulting from the works upon completion; and
 - (d) construction of permanent works to adoptable standards.
 
-(4) In this Requirement “the highway works” means the highway works comprised in Work[^key-8ac352f9b2c11c58af4ab8bea89bcd0f] No. 7a.
+(4) In this Requirement “the highway works” means the highway works comprised in Work[^c-8ac352f9b2c11c58af4ab8bea89bcd0f] No. 7a.
 
-#### 10. Fencing and other means of site perimeter enclosure[^key-d9cf8da8b3651e5a58173e3b14a91eba]
+#### 10. Fencing and other means of site perimeter enclosure[^c-d9cf8da8b3651e5a58173e3b14a91eba]
 
 (1) Prior to commencement of each phase of the authorised development, written details of all proposed permanent or temporary fences, walls or other means of enclosure within that phase of the authorised development must be submitted to and approved by the relevant planning authorities.
 
@@ -266,7 +266,7 @@ The authorised development must commence no later than the expiration of 5 years
 - (b) fencing and means of access as is required to secure the proper management of access to Crymlyn Burrows SSSI from the authorised development; and
 - (c) alternative access routes for otters.
 
-#### 11. Operational surface and foul water drainage[^key-ad835f0ca925410cdfb7f79080138287]
+#### 11. Operational surface and foul water drainage[^c-ad835f0ca925410cdfb7f79080138287]
 
 (1) No part of the authorised development shall commence until a written scheme to deal with the details of the surface water drainage system and the sewage system (together, the “operational drainage scheme”) incorporating a sustainable urban drainage system so far as appropriate has been submitted to and approved by the relevant planning authority in consultation with the relevant drainage authority.
 
@@ -282,11 +282,11 @@ The authorised development must commence no later than the expiration of 5 years
 
 (3) The scheme must be implemented in accordance with the approved details prior to operation of the authorised development and maintained during the operation of the authorised development.
 
-#### 12. Contamination and groundwater[^key-1d5e0d32e7ebda7dc2a789ddea9eb57e]
+#### 12. Contamination and groundwater[^c-1d5e0d32e7ebda7dc2a789ddea9eb57e]
 
 (1) Prior to the commencement of each phase of the authorised development a scheme to assess the nature and extent of any contamination on the Order land, and confirmation of whether or not it originates on the Order land must be submitted to and approved by the relevant planning authority in consultation with Natural Resources Wales. The investigation and risk assessment must be undertaken by competent persons in accordance with Land Contamination: A Guide for Developers and the EA/DeFRA Report CLR11 - Model Procedures for Management of Land Contamination and must be submitted as a written report. The written report is to include—
 
-- (a) a desktop study to identify all previous uses on the Order land and potential contaminants on land and controlled waters. The desktop study must establish a “conceptual site mode” (“CSM”)[^key-59e40cfc46289233b752989707206d59] identifying all plausible pollutant linkages to be assessed;
+- (a) a desktop study to identify all previous uses on the Order land and potential contaminants on land and controlled waters. The desktop study must establish a “conceptual site mode” (“CSM”)[^c-59e40cfc46289233b752989707206d59] identifying all plausible pollutant linkages to be assessed;
 - (b) a survey of the extent, scale and nature of contamination;
 - (c) an assessment of the potential risks to—
   - (i) human health;
@@ -294,7 +294,7 @@ The authorised development must commence no later than the expiration of 5 years
   - (iii) adjoining land;
   - (iv) property (existing or proposed) including buildings, crops, livestock, pets, woodland and service lines and pipes;
   - (v) ecological systems; and
-  - (vi) archaeological sites and monuments of special historic interest[^key-2f485493076592b4e80fecb00abb4420];
+  - (vi) archaeological sites and monuments of special historic interest[^c-2f485493076592b4e80fecb00abb4420];
 - (d) an appraisal of remedial options, and proposal of the preferred remedial options; and
 - (e) so far as relevant to land which is the subject of the written report in question, details of how the scheme has taken account of remediation works secured by an agreement under section 106 of the 1990 Act dated 20th November 2009 and made between Neath Port Talbot County Borough Council (1), St Modwen Developments Limited (2), St Modwen Properties PLC (3), BP Chemicals Limited (4) and BP Oil Llandarcy Refinery Limited (5) as well as consultation carried out with Baglan Bay Company Limited (company number 638328).
 
@@ -302,21 +302,21 @@ The authorised development must commence no later than the expiration of 5 years
 
 (3) Prior to operation of the relevant phase of authorised development commencing, a verification report which demonstrates the effectiveness of the agreed remediation works carried out in accordance with this Requirement must be submitted to and approved by the relevant planning authority.
 
-(4) In the event that contamination is found at any time when carrying out the authorised development that was not previously identified, work on the affected area must cease immediately and shall be reported in writing to the relevant planning authority. A Desk Study, Site Investigation, Risk Assessment and where necessary a Remediation Strategy must be undertaken in accordance with Land Contamination - A Guide for Developers[^key-a7a210386e742ac2afead19f8f0eb76b]. The Desk Study, Site Investigation, Risk Assessment and any Remediation Strategy must be submitted to and approved by the relevant planning authority. Prior to operation of the development, a verification report which demonstrates the effectiveness of the approved remediation must be submitted to and approved by the relevant planning authority.
+(4) In the event that contamination is found at any time when carrying out the authorised development that was not previously identified, work on the affected area must cease immediately and shall be reported in writing to the relevant planning authority. A Desk Study, Site Investigation, Risk Assessment and where necessary a Remediation Strategy must be undertaken in accordance with Land Contamination - A Guide for Developers[^c-a7a210386e742ac2afead19f8f0eb76b]. The Desk Study, Site Investigation, Risk Assessment and any Remediation Strategy must be submitted to and approved by the relevant planning authority. Prior to operation of the development, a verification report which demonstrates the effectiveness of the approved remediation must be submitted to and approved by the relevant planning authority.
 
 (5) In this Requirement “Land Contamination - A Guide for Developers” means the document entitled Land Contamination: A Guide for Developers (WLGA, WAG & EAW, 2012) certified as such by the Secretary of State for the purposes of this Order.
 
-#### 13. Storage of materials on site[^key-b26e08fea1a52e509fda622f5545720c]
+#### 13. Storage of materials on site[^c-b26e08fea1a52e509fda622f5545720c]
 
 (1) No part of the authorised development is to be brought into use until a written scheme to deal with handling and onsite storage of process chemicals, cleaning substances, fuels, oils and lubricants on site has been submitted to and approved by the relevant planning authorities.
 
 (2) All such materials must be stored in accordance with the approved scheme.
 
-#### 14. Construction water supply[^key-fef2e3c68edeb76fdd267f61d8eade8d]
+#### 14. Construction water supply[^c-fef2e3c68edeb76fdd267f61d8eade8d]
 
 No part of the authorised development is to be commenced until a building water supply licence has been granted by DCWW for construction of the authorised development.
 
-#### 15. Electrical grid connection works[^key-f370b73196d3fde6094b1f5bfd9e7781]
+#### 15. Electrical grid connection works[^c-f370b73196d3fde6094b1f5bfd9e7781]
 
 (1) No part of Work No. 5a is to be commenced until—
 
@@ -324,13 +324,13 @@ No part of the authorised development is to be commenced until a building water 
 - (b) a scheme and programme for the works, including necessary construction details and locations of laydown areas, with details of specific ecological mitigation; and
 - (c) a scheme for the restoration monitoring and aftercare of areas of land disturbed by the construction of those works upon their completion including providing for the areas to be suitable for access by the public,
 
-have been submitted[^key-8f8eede1fb99e6ed9125198e41c81eb0] to and approved by the relevant planning authority in consultation with Natural Resources Wales.
+have been submitted[^c-8f8eede1fb99e6ed9125198e41c81eb0] to and approved by the relevant planning authority in consultation with Natural Resources Wales.
 
 (2) Work No. 5a must be carried out in accordance with the approved details and scheme.
 
 (3) In this Requirement, the “ERA report” means ERA report 2015 - 0265 certified as such by the Secretary of State for the purposes of this Order.
 
-#### 16. Archaeology[^key-408000f8ce05d8b564bd1c5a378ae09c]
+#### 16. Archaeology[^c-408000f8ce05d8b564bd1c5a378ae09c]
 
 (1) No part of the authorised development in any phase is to commence until a programme of archaeological work including a written scheme of investigation has been submitted to and approved by the relevant planning authorities following consultation with Cadw. The written scheme of investigation is to include an assessment of significance and research questions appropriate for investigation and—
 
@@ -345,7 +345,7 @@ have been submitted[^key-8f8eede1fb99e6ed9125198e41c81eb0] to and approved by th
 
 (3) The site investigation and post-investigation assessment are to be completed in accordance with the programme set out in the written scheme of investigation approved under sub-paragraph (1) and provision is to be made in the written scheme of investigation for analysis, publication and dissemination of results and archive deposition.
 
-#### 17. Retention of historic assets[^key-64520ce292ab39bddedde9e984d9cde9]
+#### 17. Retention of historic assets[^c-64520ce292ab39bddedde9e984d9cde9]
 
 (1) No part of the authorised development is to commence until a written scope of work required for the retention (where reasonably practicable), or (as the case may be in relation to paragraph (b)) relocation, and enhancement of historic assets identified in the written scope of work, including in particular—
 
@@ -356,7 +356,7 @@ has been submitted to and approved by the relevant planning authority in consult
 
 (2) The authorised development is to be carried out in accordance with the approved details.
 
-#### 18. Monitoring of noise during construction[^key-aea41dcd81221379da7b5c8164f21182]
+#### 18. Monitoring of noise during construction[^c-aea41dcd81221379da7b5c8164f21182]
 
 (1) No part of the authorised development is to commence until a written scheme providing for the monitoring of noise generated during the construction of the authorised development has been submitted to and approved by the relevant planning authorities.
 
@@ -364,19 +364,19 @@ has been submitted to and approved by the relevant planning authority in consult
 
 (3) The authorised development must be carried out in accordance with the approved scheme.
 
-#### 19. Piling[^key-066f6d50c7c47c81cb0dc1c015237206]
+#### 19. Piling[^c-066f6d50c7c47c81cb0dc1c015237206]
 
 (1) No piling activities relating to those works shown on drawing TLP - SWANSEA BAY - 141003 - VO.2 as certified by the Secretary of State are to commence until a piling method statement according with the annotations of that drawing has been submitted to and approved by the relevant planning authorities in consultation with Natural Resources Wales.
 
 (2) Piling must be carried out in accordance with the approved method statement.
 
-#### 20. Site waste management plan[^key-15b188c59bc416898c64d11300f59d95]
+#### 20. Site waste management plan[^c-15b188c59bc416898c64d11300f59d95]
 
 (1) No part of the authorised development is to be constructed until a plan for the management and disposal of waste produced as a result of the construction of the authorised development has been submitted to and approved by the relevant planning authorities.
 
 (2) The construction of the authorised development must be carried out in accordance with the approved details.
 
-#### 21. Construction traffic[^key-e246b8e7d8aa91fe241fae03f3193cdc]
+#### 21. Construction traffic[^c-e246b8e7d8aa91fe241fae03f3193cdc]
 
 (1) No part of the authorised development is to commence until a construction phase traffic management plan (CPTMP) substantially in accordance with the outline construction phase traffic management plan has been submitted to and approved in writing by the relevant planning authorities.
 
@@ -389,21 +389,21 @@ has been submitted to and approved by the relevant planning authority in consult
 
 (3) All construction work must be carried out in accordance with the approved CPTMP.
 
-#### 22. Operational traffic[^key-5e4ecacf037f7a2eac3d382301acb3ae]
+#### 22. Operational traffic[^c-5e4ecacf037f7a2eac3d382301acb3ae]
 
-(1) The authorised development must not be operated until an OPTMP[^key-980888f2eebd669b96b64ce150b5bcd1], substantially in accordance with the outline operational phase traffic management plan, including identification of a travel plan co-ordinator, has been submitted to and approved by the relevant planning authorities.
+(1) The authorised development must not be operated until an OPTMP[^c-980888f2eebd669b96b64ce150b5bcd1], substantially in accordance with the outline operational phase traffic management plan, including identification of a travel plan co-ordinator, has been submitted to and approved by the relevant planning authorities.
 
 (2) The approved OPTMP must make provision for the installation of and collection of data from a suitably located automatic traffic counter provided by the undertaker.
 
 (3) The authorised development must be operated in accordance with the approved OPTMP.
 
-#### 23. Major events[^key-60ba69459afa9d07308324e4db425ec9]
+#### 23. Major events[^c-60ba69459afa9d07308324e4db425ec9]
 
 (1) No major event is to be held at the authorised development unless an overarching Major Event Strategy (“MES”) including identification of a strategy co-ordinator has been submitted to and approved by the relevant planning authorities.
 
 (2) The MES must also make provision for—
 
-- (a) prior consultation with the relevant planning authority, highway authority, Welsh Ministers and Police as well as the Maritime and Coastguard Agency and the Royal National Lifeboat Institution[^key-06a79cfd49c039b6cde98f1e63d3c692], so far as appropriate;
+- (a) prior consultation with the relevant planning authority, highway authority, Welsh Ministers and Police as well as the Maritime and Coastguard Agency and the Royal National Lifeboat Institution[^c-06a79cfd49c039b6cde98f1e63d3c692], so far as appropriate;
 - (b) submission of subsidiary event-specific Major Event Plans;
 - (c) management of pressures on Swansea Beaches and Crymlyn Burrows SSSI (to the extent appropriate);
 - (d) any co-ordination of other licensing requirements;
@@ -423,7 +423,7 @@ has been submitted to and approved by the relevant planning authority in consult
 
 (4) All major events held at the authorised development must be held in accordance with the approved MES and any event-specific Major Event Plan.
 
-#### 24. Construction and security lighting scheme[^key-4eafc01f934f2302b4eab87521e96531]
+#### 24. Construction and security lighting scheme[^c-4eafc01f934f2302b4eab87521e96531]
 
 (1) No phase of the authorised development is to commence until a detailed written construction and security lighting scheme in accordance with the design and access statement has been submitted to and approved by the relevant planning authorities.
 
@@ -436,7 +436,7 @@ has been submitted to and approved by the relevant planning authority in consult
 
 (3) Construction of the authorised development must be carried out in accordance with the approved scheme.
 
-#### 25. Permanent lighting[^key-e58c92d77bc2a7df6d4dccd972678c56]
+#### 25. Permanent lighting[^c-e58c92d77bc2a7df6d4dccd972678c56]
 
 (1) No permanent lighting forming part of the authorised development is to be installed in any phase until a detailed written and illustrated permanent lighting scheme substantially in accordance with the principles contained in the design and access statement has been submitted to and approved by the relevant planning authorities.
 
@@ -448,7 +448,7 @@ has been submitted to and approved by the relevant planning authority in consult
 
 (3) The approved scheme must be implemented as part of the authorised development.
 
-#### 26. Flood risk mitigation[^key-c64b0d020d8da88197ae1e4d6660a27f]
+#### 26. Flood risk mitigation[^c-c64b0d020d8da88197ae1e4d6660a27f]
 
 (1) No tidal works comprised in the authorised development are to commence until a scheme of mitigation works for the flood risk area at Mumbles has been submitted to and approved in writing by the relevant local planning authority following consultation with Natural Resources Wales.
 
@@ -456,9 +456,9 @@ has been submitted to and approved by the relevant planning authority in consult
 
 (3) The approved scheme must be implemented as part of the authorised development.
 
-#### 27. Fish and shellfish mitigation strategy[^key-84c0a407cbbe10b184279d31a44ad04f]
+#### 27. Fish and shellfish mitigation strategy[^c-84c0a407cbbe10b184279d31a44ad04f]
 
-(1) No part of the authorised development is to commence until a written strategy for the mitigation of the impacts of the authorised development on fish and shellfish has been submitted to and approved by the relevant local planning authority in consultation with Natural Resources Wales and the relevant port health authority[^key-51053832723694102ce7d30ac0aeb50c].
+(1) No part of the authorised development is to commence until a written strategy for the mitigation of the impacts of the authorised development on fish and shellfish has been submitted to and approved by the relevant local planning authority in consultation with Natural Resources Wales and the relevant port health authority[^c-51053832723694102ce7d30ac0aeb50c].
 
 (2) The fish and shellfish mitigation strategy must provide for—
 
@@ -475,7 +475,7 @@ has been submitted to and approved by the relevant planning authority in consult
 - (a) monitoring of turbine impacts upon fish species, including migratory fish and clupeids;
 - (b) calibration of acoustic fish deterrent devices (“AFDs”) prior to commencement of operation to be effective on fish species that are hearing generalists, including sea trout and herring;
 - (c) monitoring to test the effectiveness of AFDs;
-- (d) agreement of acceptable thresholds of impact and further action to be taken if those thresholds are exceeded;[^key-6d208d0f3457e4180955e3095e7dd29e]
+- (d) agreement of acceptable thresholds of impact and further action to be taken if those thresholds are exceeded;[^c-6d208d0f3457e4180955e3095e7dd29e]
 - (e) measures to be taken when AFDs are non-operational; and
 - (f) provision for review and adaptation of AFDs during the life of the authorised development.
 
@@ -483,7 +483,7 @@ has been submitted to and approved by the relevant planning authority in consult
 
 (6) The approved fish and shellfish mitigation strategy and any measures under it are to be implemented and maintained during construction of the authorised development, and operation of the authorised development.
 
-#### 28. Avian enhancement strategy[^key-65340874cd553c9289f77043c38f1ac0]
+#### 28. Avian enhancement strategy[^c-65340874cd553c9289f77043c38f1ac0]
 
 (1) No part of the authorised development is to commence until a written strategy of enhancement measures for avian species has been submitted to and approved by the relevant planning authorities in consultation with Natural Resources Wales.
 
@@ -494,7 +494,7 @@ has been submitted to and approved by the relevant planning authority in consult
 
 (3) The approved strategy and any measures under it are to be implemented and maintained during construction and operation of the authorised development.
 
-#### 29. Habitats creation strategy[^key-1e5ebbf2744a04b2f48ca455a1ebe8ca]
+#### 29. Habitats creation strategy[^c-1e5ebbf2744a04b2f48ca455a1ebe8ca]
 
 (1) No phase of the authorised development is to commence until a written strategy for the creation, monitoring and management of onshore habitats in that phase has been submitted and approved by the relevant planning authorities in consultation with Natural Resources Wales.
 
@@ -515,7 +515,7 @@ has been submitted to and approved by the relevant planning authority in consult
 
 (3) The approved habitats creation strategy and any measures under it are to be implemented in their entirety and maintained during the entirety operation of the authorised development.
 
-#### 30. Honeycomb worm translocation strategy[^key-6a4cc902d70b69cb765dec355ba0dca7]
+#### 30. Honeycomb worm translocation strategy[^c-6a4cc902d70b69cb765dec355ba0dca7]
 
 (1) No part of the authorised development shall be commenced until a written strategy for the translocation of the honeycomb worm (*Sabellaria alveolata*) has been submitted to and approved by the relevant planning authority in consultation with Natural Resources Wales.
 
@@ -529,19 +529,19 @@ has been submitted to and approved by the relevant planning authority in consult
 
 (3) The approved honeycomb worm translocation strategy and any measures under it are to be implemented and maintained during construction and operation of the authorised development.
 
-#### 31. Other ecological matters[^key-8f5a38c5d75bc05904b53ab0861b2fc4]
+#### 31. Other ecological matters[^c-8f5a38c5d75bc05904b53ab0861b2fc4]
 
 (1) No part of the authorised development is to be commenced until a written strategy to secure the removal or management of Japanese Knotweed and other invasive non-native species within areas affected by the authorised development has been submitted to and approved by the relevant planning authorities.
 
 (2) The approved measures are to be implemented during construction and operation of any part of the authorised development.
 
-#### 32. Passive provision for western link[^key-811bc158d794ddb42ec56f905b9f8281]
+#### 32. Passive provision for western link[^c-811bc158d794ddb42ec56f905b9f8281]
 
 (1) No authorised development is to commence in respect of Work No. 6b until a scheme for safeguarding a future access to the Order land via the eastern bank of the River Tawe has been submitted to and approved by the relevant local planning authority.
 
 (2) The authorised development is to be carried out in accordance with the approved scheme.
 
-#### 33. Turbines[^key-a4ccb0581ef13157cd283cbff5f33c42]
+#### 33. Turbines[^c-a4ccb0581ef13157cd283cbff5f33c42]
 
 (1) No authorised development is to commence in respect of Work No. 2a until a scheme of works showing—
 
@@ -553,7 +553,7 @@ has been submitted to and approved by the relevant local planning authority in c
 
 (2) The authorised development is to be carried out in accordance with the approved scheme.
 
-#### 34. Disposal of dredged arisings and protection of Kenfig SAC[^key-0561de4a34be60cd00cec25cf4ba0cde]
+#### 34. Disposal of dredged arisings and protection of Kenfig SAC[^c-0561de4a34be60cd00cec25cf4ba0cde]
 
 (1) Operation of the authorised development is not to commence until a scheme for the disposal of dredged arisings relating to maintenance of depths within the lagoon formed by the authorised works (“maintenance arisings”) has been submitted to the relevant planning authorities, in consultation with Natural Resources Wales, and approved in writing.
 
@@ -577,7 +577,7 @@ has been submitted to and approved by the relevant local planning authority in c
 
 (5) Nothing in sub-paragraph (3) of this Requirement is to prevent the undertaker from using or relying upon any scheme of that nature promoted by others relating in whole or in part to the protection or monitoring of the Kenfig SAC.
 
-#### 35. Beach mitigation management[^key-7c805fd05f1c81303a102712b0c08052]
+#### 35. Beach mitigation management[^c-7c805fd05f1c81303a102712b0c08052]
 
 (1) Operation of the authorised development is not to commence until a beach mitigation management strategy for North West Swansea Bay has been submitted to and approved by the relevant planning authority following consultation with Natural Resources Wales.
 
@@ -589,23 +589,23 @@ has been submitted to and approved by the relevant local planning authority in c
 
 (3) The approved scheme is to be implemented by the undertaker during the operation, decommissioning and post-decommissioning phases of the authorised development.
 
-#### 36. Requirement for written approval[^key-916aef979f2552497750b2c60216a05d]
+#### 36. Requirement for written approval[^c-916aef979f2552497750b2c60216a05d]
 
-Where under any of the Requirements the approval or agreement of the Secretary of State, the relevant planning authority[^key-bcd7673cac19313a1b9b7f5e99e9e618] or another person or body is required, that approval or agreement must be given in writing.
+Where under any of the Requirements the approval or agreement of the Secretary of State, the relevant planning authority[^c-bcd7673cac19313a1b9b7f5e99e9e618] or another person or body is required, that approval or agreement must be given in writing.
 
-**37.**[^key-051294af5a6b442992e190ac37bb3c73] Where approval or agreement is sought in relation to Requirements 26, 27, 34 and 35 approval must only be given by the relevant planning authority following consultation with Natural Resources Wales.
+**37.**[^c-051294af5a6b442992e190ac37bb3c73] Where approval or agreement is sought in relation to Requirements 26, 27, 34 and 35 approval must only be given by the relevant planning authority following consultation with Natural Resources Wales.
 
-#### 38. Amendments to approved details[^key-1a54ff0779bcbd74f1ae34803e7c0cac]
+#### 38. Amendments to approved details[^c-1a54ff0779bcbd74f1ae34803e7c0cac]
 
-(1) With respect to any Requirement which requires the authorised development to be carried out in accordance with the details of a plan, scheme or code approved by the relevant planning authority[^key-09ef20b3f51df8138d0bb3c378ddfff5] or any other person or body, the approved details, or plan, scheme or code are to be taken to include any amendments that may subsequently be approved in writing by the relevant planning authority or that other person or body.
+(1) With respect to any Requirement which requires the authorised development to be carried out in accordance with the details of a plan, scheme or code approved by the relevant planning authority[^c-09ef20b3f51df8138d0bb3c378ddfff5] or any other person or body, the approved details, or plan, scheme or code are to be taken to include any amendments that may subsequently be approved in writing by the relevant planning authority or that other person or body.
 
 (2) Where such details, plan, scheme or code are required to be approved in consultation with another body, any amendments of that document must also be approved in consultation with that body.
 
 (3) Any amendments to or variations from the approved details must be in accordance with the principles and assessments set out in the environmental statement. Such agreement may only be given in relation to immaterial changes where it has been demonstrated to the satisfaction of the relevant planning authority or that other person that the subject matter of the agreement sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
-#### 39. Marine mammal mitigation strategy[^key-41aecbe3abb3ed0341c6b526d0188ccc]
+#### 39. Marine mammal mitigation strategy[^c-41aecbe3abb3ed0341c6b526d0188ccc]
 
-(1) No part of the authorised development is to commence until a written strategy for the monitoring and mitigation of the impacts of the authorised[^key-5173f6fe25063687ff0815f2bdcbd0f4] development on marine mammals has been submitted to the relevant planning authorities, and in consultation with Natural Resources Wales, approved in writing.
+(1) No part of the authorised development is to commence until a written strategy for the monitoring and mitigation of the impacts of the authorised[^c-5173f6fe25063687ff0815f2bdcbd0f4] development on marine mammals has been submitted to the relevant planning authorities, and in consultation with Natural Resources Wales, approved in writing.
 
 (2) The marine mammal mitigation strategy must provide for—
 
@@ -619,21 +619,21 @@ Where under any of the Requirements the approval or agreement of the Secretary o
 
 (5) No changes to the strategy are be implemented unless they have been approved in writing by the relevant planning authorities.
 
-#### 40. Section 106 agreement[^key-5d0c24da0263c1f703d9cc7bdb00e4ba]
+#### 40. Section 106 agreement[^c-5d0c24da0263c1f703d9cc7bdb00e4ba]
 
-(1) No part of the authorised development is to commence until an agreement pursuant to section 106 of the Town and Country Planning Act 1990 (a “section 106 agreement”) has been secured between The City and County[^key-efd599883472239cfc6c0bb401455924] of Swansea Council, Neath Port Talbot County Borough Council, AB Ports and the undertaker.
+(1) No part of the authorised development is to commence until an agreement pursuant to section 106 of the Town and Country Planning Act 1990 (a “section 106 agreement”) has been secured between The City and County[^c-efd599883472239cfc6c0bb401455924] of Swansea Council, Neath Port Talbot County Borough Council, AB Ports and the undertaker.
 
-(2) The section 106 agreement mentioned in sub-paragraph (1) may be altered or varied only with the consent of all of The City and County[^key-992d087f976072cc1c199bd48031d18c] of Swansea Council, Neath Port Talbot County Borough Council, AB Ports and the undertaker.
+(2) The section 106 agreement mentioned in sub-paragraph (1) may be altered or varied only with the consent of all of The City and County[^c-992d087f976072cc1c199bd48031d18c] of Swansea Council, Neath Port Talbot County Borough Council, AB Ports and the undertaker.
 
 (3) The section 106 agreement should reflect that of 8th December 2014, as certified by the Secretary of State.
 
-#### 41. Employment and skills plan[^key-dd8069fb40ff0a847270b3ce05617022]
+#### 41. Employment and skills plan[^c-dd8069fb40ff0a847270b3ce05617022]
 
-(1) The authorised development shall not commence until an employment and skills plan detailing arrangements to promote employment and skills development opportunities has been submitted to and approved in writing by both The City and County[^key-c7576c9a749ef3071aebaf3c33d6ea4c] of Swansea Council and Neath Port Talbot County Borough Council.
+(1) The authorised development shall not commence until an employment and skills plan detailing arrangements to promote employment and skills development opportunities has been submitted to and approved in writing by both The City and County[^c-c7576c9a749ef3071aebaf3c33d6ea4c] of Swansea Council and Neath Port Talbot County Borough Council.
 
 (2) The plan must include proposals for promoting such opportunities for local residents and the approved employment and skills plan must be implemented and maintained during the construction of the authorised development, and operation of the authorised development.
 
-#### 42. Water Framework Directive[^key-e54dc4207852cce106e294c187b2d1fa]
+#### 42. Water Framework Directive[^c-e54dc4207852cce106e294c187b2d1fa]
 
 (1) The authorised development must not commence until a monitoring and management strategy document has been submitted to and approved by Natural Resources Wales, the purpose of such strategy document being to ensure that the authorised development is carried out in compliance with the Water Framework Directive, including any necessary derogation from that Directive.
 
@@ -641,140 +641,140 @@ Where under any of the Requirements the approval or agreement of the Secretary o
 
 ## Annotations
 
-[^key-1cf17d97c4e32c994a7530e192480122]: Commencement: Sch. 1 Pt. 1A in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-1cf17d97c4e32c994a7530e192480122]: Commencement: Sch. 1 Pt. 1A in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-cc50186daef12e799a4fc6a8f4a668c0]: Commencement: Sch. 1 Pt. 1B in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-cc50186daef12e799a4fc6a8f4a668c0]: Commencement: Sch. 1 Pt. 1B in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-61e20faa9cf8bd9a212c94eafede44ed]: Commencement: Sch. 1 Pt. 2 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-61e20faa9cf8bd9a212c94eafede44ed]: Commencement: Sch. 1 Pt. 2 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-2ae9a14b7742054fddd2115f67ec542f]: Commencement: Sch. 1 para. 1 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-2ae9a14b7742054fddd2115f67ec542f]: Commencement: Sch. 1 para. 1 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-de5e4f499cf8ba25e9baf64f4c574fbd]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-de5e4f499cf8ba25e9baf64f4c574fbd]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-4fd2bc5746a10147a03a5b06e73e4d23]: Commencement: Sch. 1 para. 2 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-4fd2bc5746a10147a03a5b06e73e4d23]: Commencement: Sch. 1 para. 2 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-41cac46699381421774abc7dad5e8927]: Commencement: Sch. 1 para. 3 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-41cac46699381421774abc7dad5e8927]: Commencement: Sch. 1 para. 3 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-4403daa4aa91f25d7590d8d70a792d5c]: Commencement: Sch. 1 para. 4 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-4403daa4aa91f25d7590d8d70a792d5c]: Commencement: Sch. 1 para. 4 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-e7acf8902838e03ab60531fba982dd1a]: Textual amendment: Word in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/2) omitted (27.10.2015) by virtue of [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-e7acf8902838e03ab60531fba982dd1a]: Textual amendment: Word in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/2) omitted (27.10.2015) by virtue of [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-baa10a8b136fa7d7474ad90da00a81b4]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/2) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-baa10a8b136fa7d7474ad90da00a81b4]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/2) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-816cd390e022cfd84ff6eec64f9ac0f7]: Textual amendment: Word in [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/3) omitted (27.10.2015) by virtue of [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-816cd390e022cfd84ff6eec64f9ac0f7]: Textual amendment: Word in [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/3) omitted (27.10.2015) by virtue of [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-6adbb5b08cb85e110b2ba6ce6bccc1aa]: Textual amendment: Words in [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/3) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-6adbb5b08cb85e110b2ba6ce6bccc1aa]: Textual amendment: Words in [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/3) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-39e94316fbee7476c6d9fcf1f0b85dbe]: Textual amendment: Words in [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/4) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-39e94316fbee7476c6d9fcf1f0b85dbe]: Textual amendment: Words in [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/4) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-a9950c553127f3ed7a00dba34997a0ed]: Textual amendment: Word in [Sch. 1 para. 4(5)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/5) omitted (27.10.2015) by virtue of [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-a9950c553127f3ed7a00dba34997a0ed]: Textual amendment: Word in [Sch. 1 para. 4(5)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/4/5) omitted (27.10.2015) by virtue of [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-8e154d8b3b32f9838f58d49fa396d2e5]: Commencement: Sch. 1 para. 5 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-8e154d8b3b32f9838f58d49fa396d2e5]: Commencement: Sch. 1 para. 5 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-dc88317361d1f484fc50cddb46696020]: Textual amendment: Word in [Sch. 1 para. 5(5)(d)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/5/5/d) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-dc88317361d1f484fc50cddb46696020]: Textual amendment: Word in [Sch. 1 para. 5(5)(d)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/5/5/d) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-5b4446d872db3cd49c0d5629ed749f20]: Commencement: Sch. 1 para. 6 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-5b4446d872db3cd49c0d5629ed749f20]: Commencement: Sch. 1 para. 6 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-13c56dac8a1fab3f8cef1eb6b5f7e97d]: Commencement: Sch. 1 para. 7 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-13c56dac8a1fab3f8cef1eb6b5f7e97d]: Commencement: Sch. 1 para. 7 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-353e8894d008083f1ad2587a15fedfcc]: Commencement: Sch. 1 para. 8 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-353e8894d008083f1ad2587a15fedfcc]: Commencement: Sch. 1 para. 8 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-e573324fdbed9efa26aef10be3186be1]: Textual amendment: Word in [Sch. 1 para. 8(5)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/8/5) inserted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-e573324fdbed9efa26aef10be3186be1]: Textual amendment: Word in [Sch. 1 para. 8(5)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/8/5) inserted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-4bf4db5e9ec0d9025db1cb685d298789]: Commencement: Sch. 1 para. 9 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-4bf4db5e9ec0d9025db1cb685d298789]: Commencement: Sch. 1 para. 9 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-8ac352f9b2c11c58af4ab8bea89bcd0f]: Textual amendment: Words in [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/9/4) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-8ac352f9b2c11c58af4ab8bea89bcd0f]: Textual amendment: Words in [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/9/4) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-d9cf8da8b3651e5a58173e3b14a91eba]: Commencement: Sch. 1 para. 10 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-d9cf8da8b3651e5a58173e3b14a91eba]: Commencement: Sch. 1 para. 10 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-ad835f0ca925410cdfb7f79080138287]: Commencement: Sch. 1 para. 11 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-ad835f0ca925410cdfb7f79080138287]: Commencement: Sch. 1 para. 11 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-1d5e0d32e7ebda7dc2a789ddea9eb57e]: Commencement: Sch. 1 para. 12 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-1d5e0d32e7ebda7dc2a789ddea9eb57e]: Commencement: Sch. 1 para. 12 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-59e40cfc46289233b752989707206d59]: Textual amendment: Word in [Sch. 1 para. 12(1)(a)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/12/1/a) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-59e40cfc46289233b752989707206d59]: Textual amendment: Word in [Sch. 1 para. 12(1)(a)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/12/1/a) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-2f485493076592b4e80fecb00abb4420]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 12(1)(c)(vi)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/part/3/paragraph/12/1/c/vi) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [68](https://www.legislation.gov.uk/wsi/2024/924/regulation/68)
+[^c-2f485493076592b4e80fecb00abb4420]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 12(1)(c)(vi)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/part/3/paragraph/12/1/c/vi) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [68](https://www.legislation.gov.uk/wsi/2024/924/regulation/68)
 
-[^key-a7a210386e742ac2afead19f8f0eb76b]: Textual amendment: Words in [Sch. 1 para. 12(4)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/12/4) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-a7a210386e742ac2afead19f8f0eb76b]: Textual amendment: Words in [Sch. 1 para. 12(4)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/12/4) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-b26e08fea1a52e509fda622f5545720c]: Commencement: Sch. 1 para. 13 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-b26e08fea1a52e509fda622f5545720c]: Commencement: Sch. 1 para. 13 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-fef2e3c68edeb76fdd267f61d8eade8d]: Commencement: Sch. 1 para. 14 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-fef2e3c68edeb76fdd267f61d8eade8d]: Commencement: Sch. 1 para. 14 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-f370b73196d3fde6094b1f5bfd9e7781]: Commencement: Sch. 1 para. 15 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-f370b73196d3fde6094b1f5bfd9e7781]: Commencement: Sch. 1 para. 15 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-8f8eede1fb99e6ed9125198e41c81eb0]: Textual amendment: Words in [Sch. 1 para. 15(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/15/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-8f8eede1fb99e6ed9125198e41c81eb0]: Textual amendment: Words in [Sch. 1 para. 15(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/15/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-408000f8ce05d8b564bd1c5a378ae09c]: Commencement: Sch. 1 para. 16 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-408000f8ce05d8b564bd1c5a378ae09c]: Commencement: Sch. 1 para. 16 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-64520ce292ab39bddedde9e984d9cde9]: Commencement: Sch. 1 para. 17 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-64520ce292ab39bddedde9e984d9cde9]: Commencement: Sch. 1 para. 17 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-aea41dcd81221379da7b5c8164f21182]: Commencement: Sch. 1 para. 18 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-aea41dcd81221379da7b5c8164f21182]: Commencement: Sch. 1 para. 18 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-066f6d50c7c47c81cb0dc1c015237206]: Commencement: Sch. 1 para. 19 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-066f6d50c7c47c81cb0dc1c015237206]: Commencement: Sch. 1 para. 19 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-15b188c59bc416898c64d11300f59d95]: Commencement: Sch. 1 para. 20 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-15b188c59bc416898c64d11300f59d95]: Commencement: Sch. 1 para. 20 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-e246b8e7d8aa91fe241fae03f3193cdc]: Commencement: Sch. 1 para. 21 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-e246b8e7d8aa91fe241fae03f3193cdc]: Commencement: Sch. 1 para. 21 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-5e4ecacf037f7a2eac3d382301acb3ae]: Commencement: Sch. 1 para. 22 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-5e4ecacf037f7a2eac3d382301acb3ae]: Commencement: Sch. 1 para. 22 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-980888f2eebd669b96b64ce150b5bcd1]: Textual amendment: Words in [Sch. 1 para. 22(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/22/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-980888f2eebd669b96b64ce150b5bcd1]: Textual amendment: Words in [Sch. 1 para. 22(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/22/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-60ba69459afa9d07308324e4db425ec9]: Commencement: Sch. 1 para. 23 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-60ba69459afa9d07308324e4db425ec9]: Commencement: Sch. 1 para. 23 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-06a79cfd49c039b6cde98f1e63d3c692]: Textual amendment: Words in [Sch. 1 para. 23(2)(a)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/23/2/a) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-06a79cfd49c039b6cde98f1e63d3c692]: Textual amendment: Words in [Sch. 1 para. 23(2)(a)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/23/2/a) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-4eafc01f934f2302b4eab87521e96531]: Commencement: Sch. 1 para. 24 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-4eafc01f934f2302b4eab87521e96531]: Commencement: Sch. 1 para. 24 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-e58c92d77bc2a7df6d4dccd972678c56]: Commencement: Sch. 1 para. 25 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-e58c92d77bc2a7df6d4dccd972678c56]: Commencement: Sch. 1 para. 25 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-c64b0d020d8da88197ae1e4d6660a27f]: Commencement: Sch. 1 para. 26 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-c64b0d020d8da88197ae1e4d6660a27f]: Commencement: Sch. 1 para. 26 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-84c0a407cbbe10b184279d31a44ad04f]: Commencement: Sch. 1 para. 27 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-84c0a407cbbe10b184279d31a44ad04f]: Commencement: Sch. 1 para. 27 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-51053832723694102ce7d30ac0aeb50c]: Textual amendment: Words in [Sch. 1 para. 27(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/27/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-51053832723694102ce7d30ac0aeb50c]: Textual amendment: Words in [Sch. 1 para. 27(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/27/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-6d208d0f3457e4180955e3095e7dd29e]: Textual amendment: Semicolon in Sch. 1 para. 27(4)(d) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-6d208d0f3457e4180955e3095e7dd29e]: Textual amendment: Semicolon in Sch. 1 para. 27(4)(d) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-65340874cd553c9289f77043c38f1ac0]: Commencement: Sch. 1 para. 28 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-65340874cd553c9289f77043c38f1ac0]: Commencement: Sch. 1 para. 28 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-1e5ebbf2744a04b2f48ca455a1ebe8ca]: Commencement: Sch. 1 para. 29 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-1e5ebbf2744a04b2f48ca455a1ebe8ca]: Commencement: Sch. 1 para. 29 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-6a4cc902d70b69cb765dec355ba0dca7]: Commencement: Sch. 1 para. 30 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-6a4cc902d70b69cb765dec355ba0dca7]: Commencement: Sch. 1 para. 30 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-8f5a38c5d75bc05904b53ab0861b2fc4]: Commencement: Sch. 1 para. 31 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-8f5a38c5d75bc05904b53ab0861b2fc4]: Commencement: Sch. 1 para. 31 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-811bc158d794ddb42ec56f905b9f8281]: Commencement: Sch. 1 para. 32 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-811bc158d794ddb42ec56f905b9f8281]: Commencement: Sch. 1 para. 32 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-a4ccb0581ef13157cd283cbff5f33c42]: Commencement: Sch. 1 para. 33 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-a4ccb0581ef13157cd283cbff5f33c42]: Commencement: Sch. 1 para. 33 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-0561de4a34be60cd00cec25cf4ba0cde]: Commencement: Sch. 1 para. 34 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-0561de4a34be60cd00cec25cf4ba0cde]: Commencement: Sch. 1 para. 34 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-7c805fd05f1c81303a102712b0c08052]: Commencement: Sch. 1 para. 35 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-7c805fd05f1c81303a102712b0c08052]: Commencement: Sch. 1 para. 35 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-916aef979f2552497750b2c60216a05d]: Commencement: Sch. 1 para. 36 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-916aef979f2552497750b2c60216a05d]: Commencement: Sch. 1 para. 36 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-bcd7673cac19313a1b9b7f5e99e9e618]: Textual amendment: Words in [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/36) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-bcd7673cac19313a1b9b7f5e99e9e618]: Textual amendment: Words in [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/36) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-051294af5a6b442992e190ac37bb3c73]: Commencement: Sch. 1 para. 37 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-051294af5a6b442992e190ac37bb3c73]: Commencement: Sch. 1 para. 37 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-1a54ff0779bcbd74f1ae34803e7c0cac]: Commencement: Sch. 1 para. 38 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-1a54ff0779bcbd74f1ae34803e7c0cac]: Commencement: Sch. 1 para. 38 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-09ef20b3f51df8138d0bb3c378ddfff5]: Textual amendment: Words in [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/38) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-09ef20b3f51df8138d0bb3c378ddfff5]: Textual amendment: Words in [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/38) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-41aecbe3abb3ed0341c6b526d0188ccc]: Commencement: Sch. 1 para. 39 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-41aecbe3abb3ed0341c6b526d0188ccc]: Commencement: Sch. 1 para. 39 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-5173f6fe25063687ff0815f2bdcbd0f4]: Textual amendment: Word in [Sch. 1 para. 39(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/39/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-5173f6fe25063687ff0815f2bdcbd0f4]: Textual amendment: Word in [Sch. 1 para. 39(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/39/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-5d0c24da0263c1f703d9cc7bdb00e4ba]: Commencement: Sch. 1 para. 40 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-5d0c24da0263c1f703d9cc7bdb00e4ba]: Commencement: Sch. 1 para. 40 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-efd599883472239cfc6c0bb401455924]: Textual amendment: Word in [Sch. 1 para. 40(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/40/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-efd599883472239cfc6c0bb401455924]: Textual amendment: Word in [Sch. 1 para. 40(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/40/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-992d087f976072cc1c199bd48031d18c]: Textual amendment: Word in [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/40/2) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-992d087f976072cc1c199bd48031d18c]: Textual amendment: Word in [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/40/2) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-dd8069fb40ff0a847270b3ce05617022]: Commencement: Sch. 1 para. 41 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-dd8069fb40ff0a847270b3ce05617022]: Commencement: Sch. 1 para. 41 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-c7576c9a749ef3071aebaf3c33d6ea4c]: Textual amendment: Word in [Sch. 1 para. 41(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/41/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-c7576c9a749ef3071aebaf3c33d6ea4c]: Textual amendment: Word in [Sch. 1 para. 41(1)](https://www.legislation.gov.uk/uksi/2015/1386/schedule/1/paragraph/41/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-e54dc4207852cce106e294c187b2d1fa]: Commencement: Sch. 1 para. 42 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-e54dc4207852cce106e294c187b2d1fa]: Commencement: Sch. 1 para. 42 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

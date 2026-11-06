@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Enforcement of notices under section 41[^key-97341123000b2f85912be5f2c00597d1]
+## 41A. Enforcement of notices under section 41[^c-97341123000b2f85912be5f2c00597d1]
 
 *Extent: S*
 
-(1) The court may, on an application by the CMA[^key-73683f5dfffd8017a2c9cad1ec07709f] , enquire into whether any person (“the defaulter”) has refused or otherwise failed, without reasonable excuse, to comply with a notice under section 41(1).
+(1) The court may, on an application by the CMA[^c-73683f5dfffd8017a2c9cad1ec07709f] , enquire into whether any person (“the defaulter”) has refused or otherwise failed, without reasonable excuse, to comply with a notice under section 41(1).
 
 (2) An application under subsection (1) shall include details of the possible failure which the CMA considers has occurred.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-97341123000b2f85912be5f2c00597d1]: Textual amendment: Ss. 41A, 41B inserted (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 1](https://www.legislation.gov.uk/uksi/2003/1398/article/1), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/12/3)
+[^c-97341123000b2f85912be5f2c00597d1]: Textual amendment: Ss. 41A, 41B inserted (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 1](https://www.legislation.gov.uk/uksi/2003/1398/article/1), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/12/3)
 
-[^key-73683f5dfffd8017a2c9cad1ec07709f]: Textual amendment: Words in [s. 41A(1)](https://www.legislation.gov.uk/ukpga/1990/40/section/41A/1)[(2)](https://www.legislation.gov.uk/ukpga/1990/40/section/41A/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 50](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/50); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-73683f5dfffd8017a2c9cad1ec07709f]: Textual amendment: Words in [s. 41A(1)](https://www.legislation.gov.uk/ukpga/1990/40/section/41A/1)[(2)](https://www.legislation.gov.uk/ukpga/1990/40/section/41A/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 50](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/50); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

@@ -36,7 +36,7 @@ summary: ''
 >
 > A local authority may refer to their social services committee any matter which in their view may appropriately be referred to that committee, but which would not otherwise stand referred to that committee by virtue of this Act, and may delegate to that committee any of their functions relating to a matter so referred.
 
-(3)[^key-81f52d7a8d1b5f51e651095f096fddfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-81f52d7a8d1b5f51e651095f096fddfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c13882141]: Marginal citation: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42).
 
-[^key-81f52d7a8d1b5f51e651095f096fddfc]: Textual amendment: [S. 183(3)](https://www.legislation.gov.uk/ukpga/1980/65/section/183/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-81f52d7a8d1b5f51e651095f096fddfc]: Textual amendment: [S. 183(3)](https://www.legislation.gov.uk/ukpga/1980/65/section/183/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)

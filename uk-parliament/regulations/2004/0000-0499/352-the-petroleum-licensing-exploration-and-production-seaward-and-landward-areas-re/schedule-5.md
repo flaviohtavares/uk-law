@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — TWO YEAR BREAK CLAUSE[^key-ea7abc04ff313ee1fb69d7cc28b09497]
+## SCHEDULE 5 — TWO YEAR BREAK CLAUSE[^c-ea7abc04ff313ee1fb69d7cc28b09497]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 3(6)
 
-**1.**[^key-8237488f9924dfd3dc2d530dc2ee1df5] After paragraph (1) of model clause 3 in Schedule 4 the following paragraph shall be inserted
+**1.**[^c-8237488f9924dfd3dc2d530dc2ee1df5] After paragraph (1) of model clause 3 in Schedule 4 the following paragraph shall be inserted
 
 > (2) This licence shall, unless the Minister in any particular case decides otherwise, automatically cease and determine on the second anniversary of the date of commencement of the Initial Term in the event of failure by the Licensee on or before such anniversary to—
 >
@@ -31,12 +31,12 @@ Regulation 3(6)
 
 and the next following paragraph of the said model clause shall be re-numbered (3) and expressed to apply subject to paragraph (2) above.
 
-**2.**[^key-99f2564851b39a57d0d6c07ae047d71b] For references to “the Work Programme” in model clauses 4(2)(b) and 12(1) in Schedule 4 there shall, in cases where the Minister does not exercise his discretion under the provision set out in paragraph 1 of this Schedule, be substituted references to “the work described in Part II of the Work Programme”.
+**2.**[^c-99f2564851b39a57d0d6c07ae047d71b] For references to “the Work Programme” in model clauses 4(2)(b) and 12(1) in Schedule 4 there shall, in cases where the Minister does not exercise his discretion under the provision set out in paragraph 1 of this Schedule, be substituted references to “the work described in Part II of the Work Programme”.
 
 ## Annotations
 
-[^key-ea7abc04ff313ee1fb69d7cc28b09497]: Modification: [Sch. 5](https://www.legislation.gov.uk/uksi/2004/352/schedule/5) excluded (6.4.2008) by [The Petroleum Licensing (Production) (Seaward Areas) Regulations 2008 (S.I. 2008/225)](https://www.legislation.gov.uk/uksi/2008/225), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/225/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/225/regulation/2/2)
+[^c-ea7abc04ff313ee1fb69d7cc28b09497]: Modification: [Sch. 5](https://www.legislation.gov.uk/uksi/2004/352/schedule/5) excluded (6.4.2008) by [The Petroleum Licensing (Production) (Seaward Areas) Regulations 2008 (S.I. 2008/225)](https://www.legislation.gov.uk/uksi/2008/225), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/225/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/225/regulation/2/2)
 
-[^key-8237488f9924dfd3dc2d530dc2ee1df5]: Commencement: Sch. 5 para. 1 in force at 5.3.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1)
+[^c-8237488f9924dfd3dc2d530dc2ee1df5]: Commencement: Sch. 5 para. 1 in force at 5.3.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1)
 
-[^key-99f2564851b39a57d0d6c07ae047d71b]: Commencement: Sch. 5 para. 2 in force at 5.3.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1)
+[^c-99f2564851b39a57d0d6c07ae047d71b]: Commencement: Sch. 5 para. 2 in force at 5.3.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/352/regulation/1)

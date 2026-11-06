@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c950181] The Lands Clauses Acts (except the provisions relating to the purchase of land otherwise than by agreement and the provisions relating to access to the special Act, and except sections 120 to 125 of the [^c950182]Lands Clauses Consolidation (Scotland) Act 1845) and sections 6 and 70 of the [^c950183]Railways Clauses Consolidation (Scotland) Act 1845, and sections 71 to 78 of that Act, as originally enacted and not as amended for certain purposes by section 15 of the [^c950184]Mines (Working Facilities and Support) Act 1923, shall be incorporated with this section, and in construing those Acts as so incorporated this section shall be deemed to be the special Act and references to the promoters of the undertaking or to the company shall be construed as references to the authority authorised to acquire the land under this section.
 
-(3)[^key-ce4f117d62e69b55c9c1cb5d6f9a45e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ce4f117d62e69b55c9c1cb5d6f9a45e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c950184]: Marginal citation: [1923 c. 20](https://www.legislation.gov.uk/ukpga/1923/20).
 
-[^key-ce4f117d62e69b55c9c1cb5d6f9a45e5]: Textual amendment: S. 188(3) repealed (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 60(1)(i)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/i), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-ce4f117d62e69b55c9c1cb5d6f9a45e5]: Textual amendment: S. 188(3) repealed (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 60(1)(i)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/i), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)

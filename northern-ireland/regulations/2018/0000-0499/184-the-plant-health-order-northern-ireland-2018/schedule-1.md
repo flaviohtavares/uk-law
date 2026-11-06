@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — Plant pests which may not be introduced into or spread within Northern Ireland[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+## SCHEDULE 1 — Plant pests which may not be introduced into or spread within Northern Ireland[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 *Extent: N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Articles 5(1) and (2), 12(1), 19(1), 21(1), 25(4), 30(8), 33(7),34(8), 44(3), 45(3), 46(4)
 
-### PART A — Plant pests not known to occur in any part of the European Union[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART A — Plant pests not known to occur in any part of the European Union[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Plant pests known to occur in the European Union[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART B — Plant pests known to occur in the European Union[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b37e9440ba8259021a4d4c6e6755fd2e]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))
+[^c-b37e9440ba8259021a4d4c6e6755fd2e]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))

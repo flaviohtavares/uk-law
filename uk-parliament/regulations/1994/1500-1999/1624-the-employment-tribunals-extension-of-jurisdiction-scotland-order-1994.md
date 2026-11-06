@@ -28,7 +28,7 @@ summary: ''
 
 INDUSTRIAL TRIBUNALS
 
-The Employment Tribunals[^key-26146831ab2f62a821e96206b0ef79c9] Extension of Jurisdiction (Scotland) Order 1994
+The Employment Tribunals[^c-26146831ab2f62a821e96206b0ef79c9] Extension of Jurisdiction (Scotland) Order 1994
 
 Made
 
@@ -42,7 +42,7 @@ Whereas a draft of the following Order was laid before Parliament in accordance 
 
 Now, therefore, the Lord Advocate, in exercise of the powers conferred on him by sections 131(1), (4A), (5) and (5A) and 154(3) of that Act[^f00002], and of all other powers enabling him in that behalf, hereby makes the following Order:—
 
-## 1. Citation, commencement and interpretation[^key-8604960cd1399f1a4b44a5c293ff0373]
+## 1. Citation, commencement and interpretation[^c-8604960cd1399f1a4b44a5c293ff0373]
 
 (1) This Order may be cited as the Employment Tribunals Extension of Jurisdiction (Scotland) Order 1994 and comes into force on the first day after it is made.
 
@@ -51,7 +51,7 @@ Now, therefore, the Lord Advocate, in exercise of the powers conferred on him by
 - “contract claim” means a claim in respect of which proceedings may be brought before an employment tribunal by virtue of article 3 or 4; and
 - “the 1978 Act” means the Employment Protection (Consolidation) Act 1978.
 
-## 2. Transitional provision[^key-540bf2cf90f44b15cdcb794514c8c310]
+## 2. Transitional provision[^c-540bf2cf90f44b15cdcb794514c8c310]
 
 This Order does not enable proceedings in respect of a contract claim to be brought before an employment tribunal unless—
 
@@ -60,7 +60,7 @@ This Order does not enable proceedings in respect of a contract claim to be brou
 
 occurs on or after the day on which the Order comes into force.
 
-## 3. Extension of jurisdiction[^key-73a8f1ccc7df9279d30261f26141d99e]
+## 3. Extension of jurisdiction[^c-73a8f1ccc7df9279d30261f26141d99e]
 
 Proceedings may be brought before an employment tribunal in respect of a claim of an employee for the recovery of damages or any other sum (other than a claim for damages, or for a sum due, in respect of personal injuries) if—
 
@@ -68,14 +68,14 @@ Proceedings may be brought before an employment tribunal in respect of a claim o
 - (b) the claim is not one to which article 5 applies; and
 - (c) the claim arises or is outstanding on the termination of the employee’s employment.
 
-**4.**[^key-c299531395bcf65e3d15b695ed2f8b52] Proceedings may be brought before an employment tribunal in respect of a claim of an employer for the recovery of damages or any other sum (other than a claim for damages, or for a sum due, in respect of personal injuries) if—
+**4.**[^c-c299531395bcf65e3d15b695ed2f8b52] Proceedings may be brought before an employment tribunal in respect of a claim of an employer for the recovery of damages or any other sum (other than a claim for damages, or for a sum due, in respect of personal injuries) if—
 
 - (a) the claim is one to which section 131(2) of the 1978 Act applies and which a court in Scotland would under the law for the time being in force have jurisdiction to hear and determine;
 - (b) the claim is not one to which article 5 applies;
 - (c) the claim arises or is outstanding on the termination of the employment of the employee against whom it is made; and
 - (d) proceedings in respect of a claim of that employee have been brought before an employment tribunal by virtue of this Order.
 
-**5.**[^key-a43279dd92e8e339df4bae72b7087a97] This article applies to a claim for breach of a contractual term of any of the following descriptions—
+**5.**[^c-a43279dd92e8e339df4bae72b7087a97] This article applies to a claim for breach of a contractual term of any of the following descriptions—
 
 - (a) a term requiring the employer to provide living accommodation for the employee;
 - (b) a term imposing an obligation on the employer or the employee in connection with the provision of living accommodation;
@@ -85,22 +85,22 @@ Proceedings may be brought before an employment tribunal in respect of a claim o
 
 In this article, “intellectual property” includes copyright, rights in performances, moral rights, design right, registered designs, patents and trade marks.
 
-## 6. Manner in which proceedings may be brought[^key-9ca57f87a0eea2b03f7852788eabd4e7]
+## 6. Manner in which proceedings may be brought[^c-9ca57f87a0eea2b03f7852788eabd4e7]
 
 Proceedings on a contract claim may be brought before an employment tribunal by presenting a complaint to an employment tribunal.
 
-## 7. Time within which proceedings may be brought[^key-4331b904f7c66e7d5f2955514c612b80]
+## 7. Time within which proceedings may be brought[^c-4331b904f7c66e7d5f2955514c612b80]
 
-Subject to[^key-d8e407126402f48b6e05e103279307ad] article[^key-6024b1afe902f06aa45d21fe74817844][^key-4de232d8616bdf55d11005d72fa2a0a9] 8B, an employment tribunal shall not entertain a complaint in respect of an employee’s contract claim unless it is presented—
+Subject to[^c-d8e407126402f48b6e05e103279307ad] article[^c-6024b1afe902f06aa45d21fe74817844][^c-4de232d8616bdf55d11005d72fa2a0a9] 8B, an employment tribunal shall not entertain a complaint in respect of an employee’s contract claim unless it is presented—
 
 - (a) within the period of three months beginning with the effective date of termination of the contract giving rise to the claim, or
 - (b) where there is no effective date of termination, within the period of three months beginning with the last day upon which the employee worked in the employment which has terminated, or
-- (ba)[^key-0662ebe49e1b34a11e7ac14191f92444] where the period within which a complaint must be presented in accordance with paragraph (a) or (b) is extended by regulation 15 of the Employment Act 2002 (Dispute Resolution) Regulations 2004, the period within which the complaint must be presented shall be the extended period rather than the period in paragraph (a) or (b),
+- (ba)[^c-0662ebe49e1b34a11e7ac14191f92444] where the period within which a complaint must be presented in accordance with paragraph (a) or (b) is extended by regulation 15 of the Employment Act 2002 (Dispute Resolution) Regulations 2004, the period within which the complaint must be presented shall be the extended period rather than the period in paragraph (a) or (b),
 - (c) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented within whichever of those periods is applicable, within such further period as the tribunal considers reasonable.
 
-## 8.[^key-6c970105279c0665f41fcd95d8184bbd]
+## 8.[^c-6c970105279c0665f41fcd95d8184bbd]
 
-Subject to[^key-05e8e65fa62510bbff683f220332b86e] article[^key-424ccb3641c7c88349a005e52abbd194][^key-64d374a500fea2d1813317f0e77c3845] 8B, an employment tribunal shall not entertain a complaint in respect of an employer’s contract claim unless—
+Subject to[^c-05e8e65fa62510bbff683f220332b86e] article[^c-424ccb3641c7c88349a005e52abbd194][^c-64d374a500fea2d1813317f0e77c3845] 8B, an employment tribunal shall not entertain a complaint in respect of an employer’s contract claim unless—
 
 - (a) it is presented at a time when there is before the tribunal a complaint in respect of a contract claim of a particular employee which has not been settled or withdrawn;
 - (b) it arises out of a contract with that employee; and
@@ -108,11 +108,11 @@ Subject to[^key-05e8e65fa62510bbff683f220332b86e] article[^key-424ccb3641c7c8834
 - (i) within the period of six weeks beginning with the day, or if more than one the last of the days, on which the employer (or other person who is the respondent party to the employee’s contract claim) received from the tribunal a copy of an originating application in respect of a contract claim of that employee; or
   - (ii) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented within that period, within such further period as the tribunal considers reasonable.
 
-## 8A. Extension of time limits because of mediation in certain cross-border disputes[^key-7a5a5ad2b08f44372f169dff9641634b]
+## 8A. Extension of time limits because of mediation in certain cross-border disputes[^c-7a5a5ad2b08f44372f169dff9641634b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8B. Extension of time limit to facilitate conciliation before institution of proceedings[^key-15e3c341f5c2bee80f0441bd5cd3c5ed]
+## 8B. Extension of time limit to facilitate conciliation before institution of proceedings[^c-15e3c341f5c2bee80f0441bd5cd3c5ed]
 
 (1) This article applies where this Order provides for it to apply for the purposes of a provision of this Order (“a relevant provision”).
 
@@ -127,11 +127,11 @@ Subject to[^key-05e8e65fa62510bbff683f220332b86e] article[^key-424ccb3641c7c8834
 
 (5) Where an employment tribunal has power under this Order to extend the time limit set by a relevant provision, the power is exercisable in relation to that time limit as extended by this regulation.
 
-## 9. Death and legal incapacity[^key-eef9a2e4435f9ff14db286e37b4b1375]
+## 9. Death and legal incapacity[^c-eef9a2e4435f9ff14db286e37b4b1375]
 
 Where proceedings in respect of a contract claim have been brought before an employment tribunal and an employee or employer party to them dies or comes under legal incapacity before the conclusion of the proceedings, the tribunal may order any person who represents that party or his estate to be made a party to the proceedings in place of the party who has died or come under legal incapacity and the proceedings to be carried on accordingly.
 
-## 10. Limit on payment to be ordered[^key-f746257aef78e1d5da913a01d361e1cd]
+## 10. Limit on payment to be ordered[^c-f746257aef78e1d5da913a01d361e1cd]
 
 An employment tribunal shall not in proceedings in respect of a contract claim, or in respect of a number of contract claims relating to the same contract, order the payment of an amount exceeding £25,000.
 
@@ -153,46 +153,46 @@ The Order contains a transitional provision.
 
 ## Annotations
 
-[^key-26146831ab2f62a821e96206b0ef79c9]: Textual amendment: Words in Order substituted (1.8.1998) by [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2), [17(1)](https://www.legislation.gov.uk/ukpga/1998/8/section/17/1); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
+[^c-26146831ab2f62a821e96206b0ef79c9]: Textual amendment: Words in Order substituted (1.8.1998) by [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2), [17(1)](https://www.legislation.gov.uk/ukpga/1998/8/section/17/1); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
 [^f00001]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44); section 131 was amended by section 38 of the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19).
 
 [^f00002]: Footnote: By virtue of section 131(1), the power to make this Order is vested in “the appropriate Minister”; by section 131(7), as amended by section 38(e) of the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), that expression means the Lord Advocate as respects a claim in respect of which an action could be heard and determined by a court in Scotland.
 
-[^key-8604960cd1399f1a4b44a5c293ff0373]: Commencement: Art. 1 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
+[^c-8604960cd1399f1a4b44a5c293ff0373]: Commencement: Art. 1 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
 
-[^key-540bf2cf90f44b15cdcb794514c8c310]: Commencement: Art. 2 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
+[^c-540bf2cf90f44b15cdcb794514c8c310]: Commencement: Art. 2 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
 
-[^key-73a8f1ccc7df9279d30261f26141d99e]: Commencement: Art. 3 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
+[^c-73a8f1ccc7df9279d30261f26141d99e]: Commencement: Art. 3 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
 
-[^key-c299531395bcf65e3d15b695ed2f8b52]: Commencement: Art. 4 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
+[^c-c299531395bcf65e3d15b695ed2f8b52]: Commencement: Art. 4 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
 
-[^key-a43279dd92e8e339df4bae72b7087a97]: Commencement: Art. 5 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
+[^c-a43279dd92e8e339df4bae72b7087a97]: Commencement: Art. 5 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
 
-[^key-9ca57f87a0eea2b03f7852788eabd4e7]: Commencement: Art. 6 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
+[^c-9ca57f87a0eea2b03f7852788eabd4e7]: Commencement: Art. 6 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
 
-[^key-4331b904f7c66e7d5f2955514c612b80]: Commencement: Art. 7 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
+[^c-4331b904f7c66e7d5f2955514c612b80]: Commencement: Art. 7 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
 
-[^key-d8e407126402f48b6e05e103279307ad]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/1994/1624/article/7) substituted (20.5.2011) by [The Cross-Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [64](https://www.legislation.gov.uk/uksi/2011/1133/regulation/64) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/1133/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/1133/regulation/4))
+[^c-d8e407126402f48b6e05e103279307ad]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/1994/1624/article/7) substituted (20.5.2011) by [The Cross-Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [64](https://www.legislation.gov.uk/uksi/2011/1133/regulation/64) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/1133/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/1133/regulation/4))
 
-[^key-6024b1afe902f06aa45d21fe74817844]: Textual amendment: Word in [art. 7](https://www.legislation.gov.uk/uksi/1994/1624/article/7) substituted (31.12.2020) by [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/19/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6024b1afe902f06aa45d21fe74817844]: Textual amendment: Word in [art. 7](https://www.legislation.gov.uk/uksi/1994/1624/article/7) substituted (31.12.2020) by [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/19/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4de232d8616bdf55d11005d72fa2a0a9]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/1994/1624/article/7) substituted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/14)
+[^c-4de232d8616bdf55d11005d72fa2a0a9]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/1994/1624/article/7) substituted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/14)
 
-[^key-0662ebe49e1b34a11e7ac14191f92444]: Textual amendment: [Art. 7(ba)](https://www.legislation.gov.uk/uksi/1994/1624/article/7/ba) inserted (1.10.2004) by [The Employment Act 2002 (Dispute Resolution) Regulations 2004 (S.I. 2004/752)](https://www.legislation.gov.uk/uksi/2004/752), [regs. 1](https://www.legislation.gov.uk/uksi/2004/752/regulation/1), [17(d)](https://www.legislation.gov.uk/uksi/2004/752/regulation/17/d) (with [reg. 18](https://www.legislation.gov.uk/uksi/2004/752/regulation/18))
+[^c-0662ebe49e1b34a11e7ac14191f92444]: Textual amendment: [Art. 7(ba)](https://www.legislation.gov.uk/uksi/1994/1624/article/7/ba) inserted (1.10.2004) by [The Employment Act 2002 (Dispute Resolution) Regulations 2004 (S.I. 2004/752)](https://www.legislation.gov.uk/uksi/2004/752), [regs. 1](https://www.legislation.gov.uk/uksi/2004/752/regulation/1), [17(d)](https://www.legislation.gov.uk/uksi/2004/752/regulation/17/d) (with [reg. 18](https://www.legislation.gov.uk/uksi/2004/752/regulation/18))
 
-[^key-6c970105279c0665f41fcd95d8184bbd]: Commencement: Art. 8 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
+[^c-6c970105279c0665f41fcd95d8184bbd]: Commencement: Art. 8 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
 
-[^key-05e8e65fa62510bbff683f220332b86e]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/uksi/1994/1624/article/8) substituted (20.5.2011) by [The Cross-Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [65](https://www.legislation.gov.uk/uksi/2011/1133/regulation/65) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/1133/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/1133/regulation/4))
+[^c-05e8e65fa62510bbff683f220332b86e]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/uksi/1994/1624/article/8) substituted (20.5.2011) by [The Cross-Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [65](https://www.legislation.gov.uk/uksi/2011/1133/regulation/65) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/1133/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/1133/regulation/4))
 
-[^key-424ccb3641c7c88349a005e52abbd194]: Textual amendment: Word in [art. 8](https://www.legislation.gov.uk/uksi/1994/1624/article/8) substituted (31.12.2020) by [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/19/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-424ccb3641c7c88349a005e52abbd194]: Textual amendment: Word in [art. 8](https://www.legislation.gov.uk/uksi/1994/1624/article/8) substituted (31.12.2020) by [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/19/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-64d374a500fea2d1813317f0e77c3845]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/uksi/1994/1624/article/8) substituted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/14)
+[^c-64d374a500fea2d1813317f0e77c3845]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/uksi/1994/1624/article/8) substituted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/14)
 
-[^key-7a5a5ad2b08f44372f169dff9641634b]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/uksi/1994/1624/article/8A) omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/19/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a5a5ad2b08f44372f169dff9641634b]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/uksi/1994/1624/article/8A) omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/19/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-15e3c341f5c2bee80f0441bd5cd3c5ed]: Textual amendment: [Art. 8B](https://www.legislation.gov.uk/uksi/1994/1624/article/8B) inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/15)
+[^c-15e3c341f5c2bee80f0441bd5cd3c5ed]: Textual amendment: [Art. 8B](https://www.legislation.gov.uk/uksi/1994/1624/article/8B) inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/15)
 
-[^key-eef9a2e4435f9ff14db286e37b4b1375]: Commencement: Art. 9 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
+[^c-eef9a2e4435f9ff14db286e37b4b1375]: Commencement: Art. 9 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
 
-[^key-f746257aef78e1d5da913a01d361e1cd]: Commencement: Art. 10 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)
+[^c-f746257aef78e1d5da913a01d361e1cd]: Commencement: Art. 10 in force at 12.7.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1624/article/1/1)

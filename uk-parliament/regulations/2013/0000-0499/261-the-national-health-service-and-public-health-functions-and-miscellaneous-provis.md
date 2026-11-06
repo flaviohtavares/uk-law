@@ -62,38 +62,38 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 - “**the 2006 Act**” means the National Health Service Act 2006;
 - “**the 2012 Act**” means the Health and Social Care Act 2012;
-- [^key-a62be55f1160a479ba851b47fae6fa6e]...
-- [^key-29a863640eabad7dfe208fe28bc96563]...
-- “[^key-203c7b1fad299e8da77c4f3b637b19a0]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the 2006 Act.
-- “[^key-e62310b4d614a2ae322dd5803671c751] **NHS England**” means the body corporate established under section 1H of the 2006 Act.
+- [^c-a62be55f1160a479ba851b47fae6fa6e]...
+- [^c-29a863640eabad7dfe208fe28bc96563]...
+- “[^c-203c7b1fad299e8da77c4f3b637b19a0]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the 2006 Act.
+- “[^c-e62310b4d614a2ae322dd5803671c751] **NHS England**” means the body corporate established under section 1H of the 2006 Act.
 
 ## PART 2 — Exercise of EU functions by NHS England[^M_F_ad319699-847a-454d-eb7a-2f229273f1d1]
 
-### 2. Interpretation of Part 2[^key-43c8910d5f4a477f4047abb0114b4615]
+### 2. Interpretation of Part 2[^c-43c8910d5f4a477f4047abb0114b4615]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Exercise of functions[^key-43c8910d5f4a477f4047abb0114b4615]
+### 3. Exercise of functions[^c-43c8910d5f4a477f4047abb0114b4615]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Procedure for applications[^key-43c8910d5f4a477f4047abb0114b4615]
+### 4. Procedure for applications[^c-43c8910d5f4a477f4047abb0114b4615]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Time for determination of an application[^key-43c8910d5f4a477f4047abb0114b4615]
+### 5. Time for determination of an application[^c-43c8910d5f4a477f4047abb0114b4615]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Form and content of determination[^key-43c8910d5f4a477f4047abb0114b4615]
+### 6. Form and content of determination[^c-43c8910d5f4a477f4047abb0114b4615]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. CCGs[^key-43c8910d5f4a477f4047abb0114b4615]
+### 7. CCGs[^c-43c8910d5f4a477f4047abb0114b4615]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Applications made before 1st April 2013[^key-43c8910d5f4a477f4047abb0114b4615]
+### 8. Applications made before 1st April 2013[^c-43c8910d5f4a477f4047abb0114b4615]
 
 **No longer in force.**
 
@@ -107,7 +107,7 @@ The relevant bodies for the purposes of section 269(2) and (4) of the 2006 Act (
 
 - (a) NHS England[^M_F_1e37829a-67cd-4243-dc62-1122a3654cb6];
 - (b) a local authority [^c21560601] whose area includes the whole or part of the registrar's sub-district; and
-- (c) an integrated care board[^key-14a164700c5862a4bea4bc83be29d438] whose area coincides with or includes the whole or part of the registrar's sub-district.
+- (c) an integrated care board[^c-14a164700c5862a4bea4bc83be29d438] whose area coincides with or includes the whole or part of the registrar's sub-district.
 
 ### 10. Manner and time for furnishing particulars
 
@@ -121,7 +121,7 @@ Particulars furnished under regulation 10 must be given, in the case of—
 
 - (a) NHS England[^M_F_c342dc8f-706a-498a-ff8e-ec0f9ee31c12], to a person nominated for these purposes by the chief executive of NHS England;
 - (b) a local authority, to the director of public health for the authority [^c21560611];
-- (c)[^key-9f9888bd9295b990a0488cbc7e802704] an integrated care board, to a person nominated for these purposes by the chief executive of the integrated care board.
+- (c)[^c-9f9888bd9295b990a0488cbc7e802704] an integrated care board, to a person nominated for these purposes by the chief executive of the integrated care board.
 
 ### 12. Revocation
 
@@ -186,7 +186,7 @@ The integrated care board prescribed for the purposes of section 236 of the 2006
 - (a) where the person examined is usually resident in the area of an integrated care board, the integrated care board for that area;
 - (b) where sub-paragraph (a) does not apply, the integrated care board for the area in which the person was examined.
 
-## PART 7 — Amendments to NHS England and Clinical Commissioning Groups (Responsibilities and Standing Rules) Regulations 2012[^key-13317a127a61927095bbaa1fbb7c24fb]
+## PART 7 — Amendments to NHS England and Clinical Commissioning Groups (Responsibilities and Standing Rules) Regulations 2012[^c-13317a127a61927095bbaa1fbb7c24fb]
 
 ### 18. Interpretation of Part 7
 
@@ -257,21 +257,21 @@ Regulation 13
 
 **5.** Section12ZA (commissioning arrangements by NHS England[^M_F_d805ada1-5b41-4694-a9ef-4f0fd605a2ef] or integrated care boards) [^c21560751];
 
-**6.** Section 14Z38[^key-ac07afd27c9ef1b0d8721fd215cda882] (duty to obtain appropriate advice);
+**6.** Section 14Z38[^c-ac07afd27c9ef1b0d8721fd215cda882] (duty to obtain appropriate advice);
 
-**7.** Section 14Z45[^key-f272f4091aa427f73a7d35ea83c2bab2] (public involvement and consultation by integrated care boards);
+**7.** Section 14Z45[^c-f272f4091aa427f73a7d35ea83c2bab2] (public involvement and consultation by integrated care boards);
 
 **8.** Section 80 (supply of goods and services by Secretary of State, NHS England[^M_F_bfabb24e-37a7-4e5f-cb03-5fd7b3857825] and integrated care boards) [^c21560781];
 
 **9.** Section 98A (exercise of functions) [^c21560791];
 
-**10.**[^key-be5e8f8922418e356b1854c4af0fbdd2] Section 125B (NHS England’s power to direct integrated care boards);
+**10.**[^c-be5e8f8922418e356b1854c4af0fbdd2] Section 125B (NHS England’s power to direct integrated care boards);
 
 **11.** Section 222 (power to raise money) [^c21560811];
 
 **12.** Section 252A (emergency powers) [^c21560821]**;**
 
-**13.** Section 256 (power of NHS England or an integrated care board[^key-5340b0036a89b9100cde8e474a0a0a32] to make payments towards expenditure on community services) [^c21560831];
+**13.** Section 256 (power of NHS England or an integrated care board[^c-5340b0036a89b9100cde8e474a0a0a32] to make payments towards expenditure on community services) [^c21560831];
 
 **14.** Section 257 (payments in respect of voluntary organisations under section 256) [^c21560841];
 
@@ -279,7 +279,7 @@ Regulation 13
 
 **16.** Paragraph 13 of Schedule 1 (powers in relation to research etc) [^c21560861];
 
-**17.** Paragraph 21 of Schedule 1B[^key-e2b71846d881120a145085b96a8349c9] (externally financed development agreements).
+**17.** Paragraph 21 of Schedule 1B[^c-e2b71846d881120a145085b96a8349c9] (externally financed development agreements).
 
 ### PART 2 — Provisions of other enactments
 
@@ -297,7 +297,7 @@ Regulation 13
 
 **24.** Section 4 of the Adoption and Children Act 2002 (assessments etc for adoption support services) [^c21560941];
 
-**25.**[^key-6a85e9fc89038e0da18846b193b28821] Section 6(1) of the Care Act 2014 (co-operating generally);
+**25.**[^c-6a85e9fc89038e0da18846b193b28821] Section 6(1) of the Care Act 2014 (co-operating generally);
 
 **25A.** Section 7(1) of the Care Act 2014 (co-operating in specific cases);
 
@@ -337,29 +337,29 @@ An impact assessment has not been produced for this instrument as the instrument
 
 [^c21560541]: Marginal citation: [S.I. 2001/3495](https://www.legislation.gov.uk/uksi/2001/3495).
 
-[^key-a62be55f1160a479ba851b47fae6fa6e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [60(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/60/2/a)
+[^c-a62be55f1160a479ba851b47fae6fa6e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [60(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/60/2/a)
 
-[^key-29a863640eabad7dfe208fe28bc96563]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/2/a)
+[^c-29a863640eabad7dfe208fe28bc96563]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/2/a)
 
-[^key-203c7b1fad299e8da77c4f3b637b19a0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/2) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/2/b)
+[^c-203c7b1fad299e8da77c4f3b637b19a0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/2) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/2/b)
 
-[^key-e62310b4d614a2ae322dd5803671c751]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [60(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/60/2/b)
+[^c-e62310b4d614a2ae322dd5803671c751]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [60(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/60/2/b)
 
 [^M_F_ad319699-847a-454d-eb7a-2f229273f1d1]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-43c8910d5f4a477f4047abb0114b4615]: Textual amendment: Regs. 3(a), 4(1)(a)(b), 6(2)(a)(b), 7(3)(4), 8 omitted (31.12.2020) by virtue of [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/777/regulation/12/2) (with savings and transitional provisions in [reg. 15](https://www.legislation.gov.uk/uksi/2019/777/regulation/15), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/777/schedule/1)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 10-12](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10)); and regs. 2-8 omitted so far as not omitted by [S.I. 2019/777](https://www.legislation.gov.uk/uksi/2019/777) (31.12.2020) by virtue of [The Social Security Coordination (Reciprocal Healthcare) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/776)](https://www.legislation.gov.uk/uksi/2019/776), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/776/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/776/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-43c8910d5f4a477f4047abb0114b4615]: Textual amendment: Regs. 3(a), 4(1)(a)(b), 6(2)(a)(b), 7(3)(4), 8 omitted (31.12.2020) by virtue of [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/777/regulation/12/2) (with savings and transitional provisions in [reg. 15](https://www.legislation.gov.uk/uksi/2019/777/regulation/15), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/777/schedule/1)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 10-12](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10)); and regs. 2-8 omitted so far as not omitted by [S.I. 2019/777](https://www.legislation.gov.uk/uksi/2019/777) (31.12.2020) by virtue of [The Social Security Coordination (Reciprocal Healthcare) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/776)](https://www.legislation.gov.uk/uksi/2019/776), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/776/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/776/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_1e37829a-67cd-4243-dc62-1122a3654cb6]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21560601]: Marginal citation: *See* [section 2B(5)](https://www.legislation.gov.uk/uksi/2013/261/section/2B/5) of the 2006 Act inserted by section 12 of the 2012 Act for the meaning of local authority.
 
-[^key-14a164700c5862a4bea4bc83be29d438]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/261) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-14a164700c5862a4bea4bc83be29d438]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/261) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^M_F_c342dc8f-706a-498a-ff8e-ec0f9ee31c12]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21560611]: Marginal citation: By virtue of section 73A of the 2006 Act inserted by section 30 of the 2012 Act, each local authority must, acting jointly with the Secretary of State, appoint a director of public health.
 
-[^key-9f9888bd9295b990a0488cbc7e802704]: Textual amendment: [Reg. 11(c)](https://www.legislation.gov.uk/uksi/2013/261/regulation/11/c) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/3)
+[^c-9f9888bd9295b990a0488cbc7e802704]: Textual amendment: [Reg. 11(c)](https://www.legislation.gov.uk/uksi/2013/261/regulation/11/c) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/3)
 
 [^c21560631]: Marginal citation: [S.I. 1982/286](https://www.legislation.gov.uk/uksi/1982/286).
 
@@ -369,7 +369,7 @@ An impact assessment has not been produced for this instrument as the instrument
 
 [^c21560661]: Marginal citation: [S.I. 2002/2375](https://www.legislation.gov.uk/uksi/2002/2375).
 
-[^key-13317a127a61927095bbaa1fbb7c24fb]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-13317a127a61927095bbaa1fbb7c24fb]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21560671]: Marginal citation: [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996).
 
@@ -391,9 +391,9 @@ An impact assessment has not been produced for this instrument as the instrument
 
 [^c21560751]: Marginal citation: Section 12ZA of the 2006 Act is inserted by section 55(1) of, and paragraph 9 of Schedule 4 to, the 2012 Act.
 
-[^key-ac07afd27c9ef1b0d8721fd215cda882]: Textual amendment: Word in [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/261/schedule/paragraph/6) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(4)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/4/a)
+[^c-ac07afd27c9ef1b0d8721fd215cda882]: Textual amendment: Word in [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/261/schedule/paragraph/6) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(4)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/4/a)
 
-[^key-f272f4091aa427f73a7d35ea83c2bab2]: Textual amendment: Word in [Sch. para. 7](https://www.legislation.gov.uk/uksi/2013/261/schedule/paragraph/7) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(4)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/4/b)
+[^c-f272f4091aa427f73a7d35ea83c2bab2]: Textual amendment: Word in [Sch. para. 7](https://www.legislation.gov.uk/uksi/2013/261/schedule/paragraph/7) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(4)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/4/b)
 
 [^M_F_bfabb24e-37a7-4e5f-cb03-5fd7b3857825]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
@@ -401,13 +401,13 @@ An impact assessment has not been produced for this instrument as the instrument
 
 [^c21560791]: Marginal citation: Section 98A of the 2006 Act is inserted by section 49(1) of the 2012 Act.
 
-[^key-be5e8f8922418e356b1854c4af0fbdd2]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/261/schedule/paragraph/10) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(4)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/4/c)
+[^c-be5e8f8922418e356b1854c4af0fbdd2]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/261/schedule/paragraph/10) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(4)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/4/c)
 
 [^c21560811]: Marginal citation: Section 222 of the 2006 Act is amended by section 55(1) of, and paragraph 116 of Schedule 4 to, the 2012 Act.
 
 [^c21560821]: Marginal citation: Section 252A of the 2006 Act is inserted by section 46 of the 2012 Act.
 
-[^key-5340b0036a89b9100cde8e474a0a0a32]: Textual amendment: Words in [Sch. para. 13](https://www.legislation.gov.uk/uksi/2013/261/schedule/paragraph/13) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(4)(d)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/4/d)
+[^c-5340b0036a89b9100cde8e474a0a0a32]: Textual amendment: Words in [Sch. para. 13](https://www.legislation.gov.uk/uksi/2013/261/schedule/paragraph/13) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(4)(d)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/4/d)
 
 [^c21560831]: Marginal citation: Section 256 of the 2006 Act is amended by section 55(1) of, and paragraph 129 of Schedule 4 to, the 2012 Act.
 
@@ -417,7 +417,7 @@ An impact assessment has not been produced for this instrument as the instrument
 
 [^c21560861]: Marginal citation: Paragraph 13 of Schedule 1 to the 2006 Act is substituted by section 17(2) and (13) of the 2012 Act.
 
-[^key-e2b71846d881120a145085b96a8349c9]: Textual amendment: Words in [Sch. para. 17](https://www.legislation.gov.uk/uksi/2013/261/schedule/paragraph/17) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(4)(e)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/4/e)
+[^c-e2b71846d881120a145085b96a8349c9]: Textual amendment: Words in [Sch. para. 17](https://www.legislation.gov.uk/uksi/2013/261/schedule/paragraph/17) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [61(4)(e)](https://www.legislation.gov.uk/uksi/2022/634/regulation/61/4/e)
 
 [^c21560881]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). Relevant amendments are made by section 40 of the 2012 Act.
 
@@ -433,7 +433,7 @@ An impact assessment has not been produced for this instrument as the instrument
 
 [^c21560941]: Marginal citation: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38). Relevant amendments are made by section 55(2) of, and paragraphs 104 and 105 of Schedule 5 to, the 2012 Act.
 
-[^key-6a85e9fc89038e0da18846b193b28821]: Textual amendment: Sch. paras. 25, 25A substituted for Sch. para. 25 (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 39](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/39) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+[^c-6a85e9fc89038e0da18846b193b28821]: Textual amendment: Sch. paras. 25, 25A substituted for Sch. para. 25 (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 39](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/39) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
 
 [^c21560961]: Marginal citation: [2004 c. 31](https://www.legislation.gov.uk/ukpga/2004/31). Relevant amendments are made by section 55(2) of, and paragraphs 127 and 128 of Schedule 5 to, the 2012 Act.
 

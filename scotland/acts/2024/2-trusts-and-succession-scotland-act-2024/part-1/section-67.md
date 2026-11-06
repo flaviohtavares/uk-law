@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Office supplying ex officio trustee[^key-eae4bdc5837f343a49138cdb21944977]
+## 67. Office supplying ex officio trustee[^c-eae4bdc5837f343a49138cdb21944977]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eae4bdc5837f343a49138cdb21944977]: Commencement: S. 67 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-eae4bdc5837f343a49138cdb21944977]: Commencement: S. 67 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Application of civil law to renewable energy installations etc.[^key-d977f1bd55f96ed5672d8f68fd1f3c29]
+## 87. Application of civil law to renewable energy installations etc.[^c-d977f1bd55f96ed5672d8f68fd1f3c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ are to be determined in accordance with the law in force in such part of the Uni
 
 ## Annotations
 
-[^key-d977f1bd55f96ed5672d8f68fd1f3c29]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2004/20/section/87) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-d977f1bd55f96ed5672d8f68fd1f3c29]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2004/20/section/87) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

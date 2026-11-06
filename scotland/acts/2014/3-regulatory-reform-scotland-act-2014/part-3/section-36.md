@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Power to order conviction etc. for offence to be publicised[^key-47e991d8e3acbab0118e6ecf39aea5c9]
+## 36. Power to order conviction etc. for offence to be publicised[^c-47e991d8e3acbab0118e6ecf39aea5c9]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47e991d8e3acbab0118e6ecf39aea5c9]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2014/3/section/36) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-47e991d8e3acbab0118e6ecf39aea5c9]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2014/3/section/36) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

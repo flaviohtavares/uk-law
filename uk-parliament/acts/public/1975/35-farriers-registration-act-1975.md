@@ -49,7 +49,7 @@ The Worshipful Company of Farriers (hereinafter referred to as “**the Company*
 
 (2) The registrar shall cause to be entered in the appropriate Part of the register the name and prescribed particulars of every person who, being qualified for registration, has applied in the prescribed manner for registration and has paid the prescribed fee.
 
-(2A)[^key-c1e434ed4c7496811d2188bd61aa3d12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-c1e434ed4c7496811d2188bd61aa3d12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The register shall be kept at the offices of the Council and shall be made available for public inspection at all reasonable times without charge.
 
@@ -69,7 +69,7 @@ The Worshipful Company of Farriers (hereinafter referred to as “**the Company*
 
 (4) Rules under this section prescribing fees may provide for the charging of different fees in different cases and may provide that fees shall not be chargeable in prescribed cases.
 
-(5)[^key-425e189c720d01cce371d989762ebf3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-425e189c720d01cce371d989762ebf3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5. Fraudulent entries in the register.
 
@@ -83,21 +83,21 @@ The registrar shall remove from the register the names of—
 - (b) every person who has applied for his name to be removed; and
 - (c) every person whose name has been ordered to be removed under section 15 of this Act.
 
-## 7. Qualifications for registration.[^key-4e9f862ce490f7b00d972794ead68013]
+## 7. Qualifications for registration.[^c-4e9f862ce490f7b00d972794ead68013]
 
 (1) Subject to section 15, a person is entitled to be registered in Part I of the register if he applies for registration and satisfies the Council—
 
 - (a) that on the 1<sup>st</sup> January 1976 his name was registered in the Register of Farriers kept by the Company;
 - (b) that he has satisfied such conditions as to apprenticeship or training or both as the Council may prescribe and has passed a prescribed examination;
 - (c) that he has completed a course of training as a farrier in Her Majesty’s Army and has passed a prescribed examination;
-- (d) that he is or has been registered in Part II or in Part IV of the register and has passed a prescribed examination; or[^key-88e9a56a40e3168c625a7cea22e9deca]
+- (d) that he is or has been registered in Part II or in Part IV of the register and has passed a prescribed examination; or[^c-88e9a56a40e3168c625a7cea22e9deca]
 - (e) that he holds a qualification—
-  - (i) granted otherwise than in Great Britain[^key-96b962b52bcc23bd7c9434ddc2ab7801]; and
+  - (i) granted otherwise than in Great Britain[^c-96b962b52bcc23bd7c9434ddc2ab7801]; and
   - (ii) for the time being accepted for the purposes of this subsection by the Council,
 
   and that during any period of two years subsequent to the date when he obtained his qualifications he has been regularly and gainfully engaged in the shoeing of horses;
-- (f)[^key-932c05ab7be57321b81f55c233f4f48f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-4eabbda2fabc655f157745db45513af2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-932c05ab7be57321b81f55c233f4f48f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-4eabbda2fabc655f157745db45513af2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subject to section 15, a person is entitled to be registered in Part II of the register if he applies for registration before such date as may be prescribed and satisfies the Council that during any period of two years before the date of his application or such shorter period as the Council may approve he was—
 
@@ -118,13 +118,13 @@ The registrar shall remove from the register the names of—
 
 (5) In any case in which it appears to the Council that a person has for sufficient reason failed to make an application under subsection (2), (3) or (4) before such dates as the Council may have respectively prescribed for the purposes of those subsections, the Council may direct that he is entitled to apply within such period as may be specified in that direction.
 
-(6)[^key-4c40260982862e251d9e2724d5de9d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4c40260982862e251d9e2724d5de9d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-4c40260982862e251d9e2724d5de9d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4c40260982862e251d9e2724d5de9d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-4c40260982862e251d9e2724d5de9d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4c40260982862e251d9e2724d5de9d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-4c40260982862e251d9e2724d5de9d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-4c40260982862e251d9e2724d5de9d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 8. The Company’s Register.
 
@@ -134,17 +134,17 @@ For the purposes of section 7(1)(a), the Company shall make available its Regist
 
 (1) Where an application for registration under section 7(1), (2), (3) or (4) is refused, or the registrar fails to enter the name of the applicant in the appropriate Part of the register, the applicant may appeal to the Disciplinary Committee (which is established under section 14).
 
-(2)[^key-f2774ac0c933ac6fb75f72c8e2af226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f2774ac0c933ac6fb75f72c8e2af226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f2774ac0c933ac6fb75f72c8e2af226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f2774ac0c933ac6fb75f72c8e2af226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f2774ac0c933ac6fb75f72c8e2af226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f2774ac0c933ac6fb75f72c8e2af226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-f2774ac0c933ac6fb75f72c8e2af226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f2774ac0c933ac6fb75f72c8e2af226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Where a person appeals under subsection (1), [^key-5df266a1b58d6cf2eabf33607511a622]... the Disciplinary Committee may direct that the person’s name be entered in the appropriate Part of the register.
+(6) Where a person appeals under subsection (1), [^c-5df266a1b58d6cf2eabf33607511a622]... the Disciplinary Committee may direct that the person’s name be entered in the appropriate Part of the register.
 
-(7) Where the Disciplinary Committee decides an appeal under subsection (1), [^key-1b5225d06ee58ea93fad53b2e84c8783]... the person who made that appeal may, within twenty-eight days after the person is notified of the Disciplinary Committee’s decision, appeal against that decision to the High Court or, in Scotland, to the Court of Session.
+(7) Where the Disciplinary Committee decides an appeal under subsection (1), [^c-1b5225d06ee58ea93fad53b2e84c8783]... the person who made that appeal may, within twenty-eight days after the person is notified of the Disciplinary Committee’s decision, appeal against that decision to the High Court or, in Scotland, to the Court of Session.
 
 (8) Subsections (4) and (5) of section 15 apply to an appeal under subsection (7) of this section as they apply to an appeal under subsection (1) of that section.
 
@@ -153,7 +153,7 @@ For the purposes of section 7(1)(a), the Company shall make available its Regist
 (1) The registrar shall issue—
 
 - (a) to a person registered in Part I or Part II of the register a certificate of registration in the prescribed form;
-- (b) to a person registered in Part III or Part 4[^key-7ed2bfdfc43b0889916e9bf2b01ed80b] of the register an acknowledgement of such registration in the prescribed form.
+- (b) to a person registered in Part III or Part 4[^c-7ed2bfdfc43b0889916e9bf2b01ed80b] of the register an acknowledgement of such registration in the prescribed form.
 
 (2) The Council shall make rules as to the surrender of certificates and acknowledgements issued under subsection (1) of this section.
 
@@ -180,7 +180,7 @@ It shall be the duty of the Council to keep itself informed of the nature of the
 
 ## 13. The Investigating Committee.
 
-(1) The Council shall set up a committee [^key-63c52c8e943cb793c25b39994b4d1097]... to be known as the Investigating Committee, for the preliminary investigation of cases (hereinafter referred to as “**disciplinary cases**”) in which it is alleged that a person is liable to have his name erased from the register on any grounds specified in section 15 of this Act.
+(1) The Council shall set up a committee [^c-63c52c8e943cb793c25b39994b4d1097]... to be known as the Investigating Committee, for the preliminary investigation of cases (hereinafter referred to as “**disciplinary cases**”) in which it is alleged that a person is liable to have his name erased from the register on any grounds specified in section 15 of this Act.
 
 (2) It shall be the function of the Investigating Committee to decide whether a disciplinary case ought to be referred to the Disciplinary Committee, set up under the next following section, to be dealt with by it in accordance with the following provisions of this Act.
 
@@ -188,9 +188,9 @@ It shall be the duty of the Council to keep itself informed of the nature of the
 
 ## 14. The Disciplinary Committee.
 
-(1) The Council shall set up a committee [^key-660528f68dfc53cbdf6f3389bb6137ac]... to be known as the Disciplinary Committee, for the consideration and determination of disciplinary cases referred to it under the last foregoing section and of any other cases of which they have cognizance under section 9 or any of the following provisions of this Act.
+(1) The Council shall set up a committee [^c-660528f68dfc53cbdf6f3389bb6137ac]... to be known as the Disciplinary Committee, for the consideration and determination of disciplinary cases referred to it under the last foregoing section and of any other cases of which they have cognizance under section 9 or any of the following provisions of this Act.
 
-(2) The provisions of Schedule 3 to this Act shall have effect with respect to the constitution of, and proceedings before,[^key-ac3d35da7bc52b18a1b75fd8e17b9814] the Disciplinary Committee.
+(2) The provisions of Schedule 3 to this Act shall have effect with respect to the constitution of, and proceedings before,[^c-ac3d35da7bc52b18a1b75fd8e17b9814] the Disciplinary Committee.
 
 ## 15. Removal of names from register.
 
@@ -198,8 +198,8 @@ It shall be the duty of the Council to keep itself informed of the nature of the
 
 - (a) a person who is registered by the Council is judged by the Disciplinary Committee to be guilty of serious misconduct in any professional respect; or
 - (b) the Disciplinary Committee is satisfied that such a person was not qualified for registration at the time he was registered; or
-- (c) such a person has been convicted of an offence involving cruelty to animals; [^key-27be54aa2f589282adcfc9b79c6139f3]...
-- (d)[^key-27be54aa2f589282adcfc9b79c6139f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) such a person has been convicted of an offence involving cruelty to animals; [^c-27be54aa2f589282adcfc9b79c6139f3]...
+- (d)[^c-27be54aa2f589282adcfc9b79c6139f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the Committee may, if it thinks fit, direct that the person’s name shall be removed from the register or that his registration therein shall be suspended, that is to say, it shall not have effect during a period specified in the direction:
 
@@ -224,12 +224,12 @@ Provided that, in any case falling within paragraph (b) of this subsection, wher
 Provided that this subsection shall not apply to a person—
 
 - (i) who, having had his name removed from the register, has not yet been given notice by the registrar of its removal; or
-- (ii) who, having applied for registration in the register, has not had his application finally determined ; [^key-0463224527e06b16f8cf3c3b4036ff49]...
-- (iii) [^key-0463224527e06b16f8cf3c3b4036ff49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii) who, having applied for registration in the register, has not had his application finally determined ; [^c-0463224527e06b16f8cf3c3b4036ff49]...
+- (iii) [^c-0463224527e06b16f8cf3c3b4036ff49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A person who contravenes this section shall be liable on summary conviction to a fine not exceeding £100.
 
-## 16. Offences by unregistered persons.[^key-d3a1022f020e3f4d6f01d7dea7377146]
+## 16. Offences by unregistered persons.[^c-d3a1022f020e3f4d6f01d7dea7377146]
 
 (1) Subject to the provisions of this section it shall be unlawful—
 
@@ -248,8 +248,8 @@ Provided that this subsection shall not apply to a person—
 (2) Subsection (1) of this section shall not apply to a person—
 
 - (a) who, having had his name removed from the register has not yet been given notice by the registrar of its removal; or
-- (b)[^c709703] who, having applied for registration in the register, has not had his application finally determined; [^key-939dd5ad5cfd335e9e6ebde642b6864f]...
-- (c)[^key-939dd5ad5cfd335e9e6ebde642b6864f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c709703] who, having applied for registration in the register, has not had his application finally determined; [^c-939dd5ad5cfd335e9e6ebde642b6864f]...
+- (c)[^c-939dd5ad5cfd335e9e6ebde642b6864f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A person who contravenes this section shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c709704].
 
@@ -259,7 +259,7 @@ Provided that this subsection shall not apply to a person—
 
 Any notice or other document authorised or required to be given under this Act may, without prejudice to any other method of service but subject to any provision to the contrary in rules under this Act, be served by post; and for the purposes of the application to this section of section 7 of the[^c709706] [^c709707]Interpretation Act 1978 (which relates to service by post) the proper address of a person to whose registration such a document relates shall be his address in the register.
 
-## 17A. Power to change constitution of Council and its committees[^key-9554712b2515299c26ad1c6c557b159e]
+## 17A. Power to change constitution of Council and its committees[^c-9554712b2515299c26ad1c6c557b159e]
 
 (1) The Secretary of State may by regulations amend or replace—
 
@@ -296,7 +296,7 @@ In this Act, unless the context otherwise requires—
 - “**notice**” means notice in writing;
 - “**prescribed**” means prescribed by rules drawn up by the Council;
 - “**register**” means the register maintained pursuant to section 3 of this Act;
-- “[^key-104943dcc8d4dee3181dcce15ec43121]**registered person**” means a person who is registered in the register;
+- “[^c-104943dcc8d4dee3181dcce15ec43121]**registered person**” means a person who is registered in the register;
 - “**registrar**” means the registrar of the Council; and
 - “**shoeing**” has the same meaning as farriery.
 - “**veterinary practitioner**” means a person registered in the supplementary veterinary register kept under the Veterinary Surgeons Act 1966;
@@ -320,7 +320,7 @@ SCHEDULES
 
 Section 2.
 
-### Part 1[^key-7319f9cff0193c5a11935317b13b5554]
+### Part 1[^c-7319f9cff0193c5a11935317b13b5554]
 
 #### Constitution
 
@@ -407,13 +407,13 @@ The validity of anything done by the Council is not affected by—
 
 #### Supplementary provisions
 
-**7.**[^key-953de39e02aec2dec601159251f24747] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-953de39e02aec2dec601159251f24747] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-2dd641546e7a09a22185aee97e891e3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2dd641546e7a09a22185aee97e891e3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.** (1)[^key-3fde72ec3008375c32151c45a5d688b3] In addition to the Investigating Committee and the Disciplinary Committee authorised by this Act, the Council may set up one or more additional committees of the Council or one or more area councils for any particular part or parts of Great Britain to carry out, on behalf of the Council, such of its functions as the Council may determine, not being functions required by this Act to be carried out by the Council itself.
+**9.** (1)[^c-3fde72ec3008375c32151c45a5d688b3] In addition to the Investigating Committee and the Disciplinary Committee authorised by this Act, the Council may set up one or more additional committees of the Council or one or more area councils for any particular part or parts of Great Britain to carry out, on behalf of the Council, such of its functions as the Council may determine, not being functions required by this Act to be carried out by the Council itself.
 
-(2)[^key-81d35f1c35e5017a83a15993c14a4193] The Council may make rules governing the meetings and procedure of an additional committee or area council.
+(2)[^c-81d35f1c35e5017a83a15993c14a4193] The Council may make rules governing the meetings and procedure of an additional committee or area council.
 
 (3) The rules may in particular provide—
 
@@ -426,7 +426,7 @@ The validity of anything done by the Council is not affected by—
 
 **12.** (1) The Council shall appoint auditors of the Council and shall cause its accounts to be audited annually by them and as soon as is practicable after the accounts for any period have been audited the Council shall cause them to be published.
 
-(2)[^c709715] A person shall not be appointed an auditor of the Council unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^key-5d1f736dcc3b86f2894182a492831187].
+(2)[^c709715] A person shall not be appointed an auditor of the Council unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^c-5d1f736dcc3b86f2894182a492831187].
 
 (3) None of the following persons shall be qualified to be an auditor of the Council—
 
@@ -438,7 +438,7 @@ The validity of anything done by the Council is not affected by—
 
 References in this sub-paragraph to an officer or servant shall be construed as not including references to an auditor.
 
-## SCHEDULE 2 — Constitution of the Investigating Committee[^key-7ca48fe68c8f48faa784804c38cac68e]
+## SCHEDULE 2 — Constitution of the Investigating Committee[^c-7ca48fe68c8f48faa784804c38cac68e]
 
 Section 13
 
@@ -490,7 +490,7 @@ Section 13
 
 Section 1.
 
-### Part 1[^key-31734de81c005e15d0970c00fce97e8b]
+### Part 1[^c-31734de81c005e15d0970c00fce97e8b]
 
 #### Constitution of Disciplinary Committee
 
@@ -541,11 +541,11 @@ The validity of anything done by the Disciplinary Committee is not affected by�
 
 ### Part II
 
-#### Proceedings before Disciplinary Committee[^key-49a38ba767907caa5c8170ba2d697fee]
+#### Proceedings before Disciplinary Committee[^c-49a38ba767907caa5c8170ba2d697fee]
 
 **4.** (1) For the purpose of any proceedings under this Act before the Disciplinary Committee in England and Wales (whether relating to disciplinary cases or otherwise) the Disciplinary Committee may administer oaths, and, any party to the proceedings may sue out writs of subpoena ad testificandum and duces tecum, but no person shall be compelled under any such writ to produce any document which he could not be compelled to produce on the trial of an action.
 
-(2) Section 36 of the[^c709719] Senior Courts Act 1981[^key-3d6dd007055fc8f2d2f8fb24d6849406] (which provides a special procedure for the issue of such writs so as to be in force throughout the United Kingdom) shall apply in relation to any such proceedings as aforesaid as it applies in relation to causes or matters in the High Court.
+(2) Section 36 of the[^c709719] Senior Courts Act 1981[^c-3d6dd007055fc8f2d2f8fb24d6849406] (which provides a special procedure for the issue of such writs so as to be in force throughout the United Kingdom) shall apply in relation to any such proceedings as aforesaid as it applies in relation to causes or matters in the High Court.
 
 (3) For the purpose of any proceedings under this Act before the Disciplinary Committee in Scotland (whether relating to disciplinary cases or otherwise) the Disciplinary Committee may administer oaths and the Court of Session shall on the application of any party to the proceedings have the like power as in any action in that court to grant warrant for the citation of witnesses and havers to give evidence or to produce documents before the Disciplinary Committee and for the issue of letters of second diligence against any witness or haver failing to appear after due citation, to grant warrant for the recovery of documents, and to grant commissions to persons to take the evidence of witnesses or to examine havers and receive their exhibits and productions.
 
@@ -589,55 +589,55 @@ and such incidental and supplementary provisions, as appear to the Lord Chancell
 
 [^c709682]: Commencement: Act not in force at Royal Assent see [s. 19(2)(3)](https://www.legislation.gov.uk/ukpga/1975/35/section/19/2/3)
 
-[^key-c1e434ed4c7496811d2188bd61aa3d12]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/ukpga/1975/35/section/3/2A) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/2) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1e434ed4c7496811d2188bd61aa3d12]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/ukpga/1975/35/section/3/2A) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/2) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-425e189c720d01cce371d989762ebf3e]: Textual amendment: [S. 4(5)](https://www.legislation.gov.uk/ukpga/1975/35/section/4/5) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/2) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-425e189c720d01cce371d989762ebf3e]: Textual amendment: [S. 4(5)](https://www.legislation.gov.uk/ukpga/1975/35/section/4/5) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/2) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c709683]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
-[^key-4e9f862ce490f7b00d972794ead68013]: Textual amendment: Ss. 7-9 substituted (31.3.2008) by [Farriers’ Qualifications (European Recognition) Regulations 2008 (S.I. 2008/646)](https://www.legislation.gov.uk/uksi/2008/646), [regs. 1](https://www.legislation.gov.uk/uksi/2008/646/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/646/regulation/5)
+[^c-4e9f862ce490f7b00d972794ead68013]: Textual amendment: Ss. 7-9 substituted (31.3.2008) by [Farriers’ Qualifications (European Recognition) Regulations 2008 (S.I. 2008/646)](https://www.legislation.gov.uk/uksi/2008/646), [regs. 1](https://www.legislation.gov.uk/uksi/2008/646/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/646/regulation/5)
 
-[^key-88e9a56a40e3168c625a7cea22e9deca]: Textual amendment: Word in s. 7(1)(d) inserted (31.12.2020) by [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/3/a/i) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88e9a56a40e3168c625a7cea22e9deca]: Textual amendment: Word in s. 7(1)(d) inserted (31.12.2020) by [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/3/a/i) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-96b962b52bcc23bd7c9434ddc2ab7801]: Textual amendment: Words in s. 7(1)(e)(i) substituted (31.12.2020) by [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/3/a/ii) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96b962b52bcc23bd7c9434ddc2ab7801]: Textual amendment: Words in s. 7(1)(e)(i) substituted (31.12.2020) by [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/3/a/ii) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-932c05ab7be57321b81f55c233f4f48f]: Textual amendment: S. 7(1)(f) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/3/a/iii) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-932c05ab7be57321b81f55c233f4f48f]: Textual amendment: S. 7(1)(f) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/3/a/iii) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4eabbda2fabc655f157745db45513af2]: Textual amendment: S. 7(1)(g) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/3/a/iii) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4eabbda2fabc655f157745db45513af2]: Textual amendment: S. 7(1)(g) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/3/a/iii) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4c40260982862e251d9e2724d5de9d33]: Textual amendment: S. 7(6)-(9) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/3/b) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c40260982862e251d9e2724d5de9d33]: Textual amendment: S. 7(6)-(9) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/3/b) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2774ac0c933ac6fb75f72c8e2af226f]: Textual amendment: [S. 9(2)-(5)](https://www.legislation.gov.uk/ukpga/1975/35/section/9/2) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/4/a) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2774ac0c933ac6fb75f72c8e2af226f]: Textual amendment: [S. 9(2)-(5)](https://www.legislation.gov.uk/ukpga/1975/35/section/9/2) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/4/a) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5df266a1b58d6cf2eabf33607511a622]: Textual amendment: Words in [s. 9(6)](https://www.legislation.gov.uk/ukpga/1975/35/section/9/6) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/4/b) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5df266a1b58d6cf2eabf33607511a622]: Textual amendment: Words in [s. 9(6)](https://www.legislation.gov.uk/ukpga/1975/35/section/9/6) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/4/b) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b5225d06ee58ea93fad53b2e84c8783]: Textual amendment: Words in [s. 9(7)](https://www.legislation.gov.uk/ukpga/1975/35/section/9/7) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/4/b) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b5225d06ee58ea93fad53b2e84c8783]: Textual amendment: Words in [s. 9(7)](https://www.legislation.gov.uk/ukpga/1975/35/section/9/7) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/4/b) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7ed2bfdfc43b0889916e9bf2b01ed80b]: Textual amendment: Words in s. 10(1)(b) substituted (31.12.2020) by [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/5) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ed2bfdfc43b0889916e9bf2b01ed80b]: Textual amendment: Words in s. 10(1)(b) substituted (31.12.2020) by [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/5) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c709699]: Textual amendment: Words inserted by [Farriers (Registration) (Amendment) Act 1977 (c. 31)](https://www.legislation.gov.uk/ukpga/1977/31), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/1977/31/schedule/paragraph/4)
 
 [^c709700]: Textual amendment: Ss. 11(2), 16(4) repealed by [Farriers (Registration) (Amendment) Act 1977 (c. 31)](https://www.legislation.gov.uk/ukpga/1977/31), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1977/31/section/1/2)
 
-[^key-63c52c8e943cb793c25b39994b4d1097]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/1975/35/section/13/1) omitted (15.9.2017) by virtue of [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/4); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-63c52c8e943cb793c25b39994b4d1097]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/1975/35/section/13/1) omitted (15.9.2017) by virtue of [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/4); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-660528f68dfc53cbdf6f3389bb6137ac]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1975/35/section/14/1) omitted (15.9.2017) by virtue of [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/6/a); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-660528f68dfc53cbdf6f3389bb6137ac]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1975/35/section/14/1) omitted (15.9.2017) by virtue of [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/6/a); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-ac3d35da7bc52b18a1b75fd8e17b9814]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/ukpga/1975/35/section/14/2) substituted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/6/b); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-ac3d35da7bc52b18a1b75fd8e17b9814]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/ukpga/1975/35/section/14/2) substituted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/6/b); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-27be54aa2f589282adcfc9b79c6139f3]: Textual amendment: S. 15(1)(d) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/6) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27be54aa2f589282adcfc9b79c6139f3]: Textual amendment: S. 15(1)(d) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/6) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c709701]: Textual amendment: S. 15A inserted by [Farriers (Registration) (Amendment) Act 1977 (c. 31)](https://www.legislation.gov.uk/ukpga/1977/31), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/1977/31/schedule/paragraph/5)
 
-[^key-0463224527e06b16f8cf3c3b4036ff49]: Textual amendment: S. 15A(1)(iii) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/7) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0463224527e06b16f8cf3c3b4036ff49]: Textual amendment: S. 15A(1)(iii) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/7) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d3a1022f020e3f4d6f01d7dea7377146]: Commencement: S. 16 in force at 30.3.2007 for S. in so far as not already in force by [S.S.I. 2006/581](https://www.legislation.gov.uk/ssi/2006/581), [art. 2](https://www.legislation.gov.uk/ssi/2006/581/article/2)
+[^c-d3a1022f020e3f4d6f01d7dea7377146]: Commencement: S. 16 in force at 30.3.2007 for S. in so far as not already in force by [S.S.I. 2006/581](https://www.legislation.gov.uk/ssi/2006/581), [art. 2](https://www.legislation.gov.uk/ssi/2006/581/article/2)
 
 [^c709702]: Textual amendment: S. 16(1)(c) repealed by [Farriers (Registration) (Amendment) Act 1977 (c. 31)](https://www.legislation.gov.uk/ukpga/1977/31), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1977/31/section/1/2)
 
 [^c709703]: Textual amendment: S. 16(2)(b) substituted by [Farriers (Registration) (Amendment) Act 1977 (c. 31)](https://www.legislation.gov.uk/ukpga/1977/31), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/1977/31/schedule/paragraph/6)
 
-[^key-939dd5ad5cfd335e9e6ebde642b6864f]: Textual amendment: [S. 16(2)(c)](https://www.legislation.gov.uk/ukpga/1975/35/section/16/2/c) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/8) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-939dd5ad5cfd335e9e6ebde642b6864f]: Textual amendment: [S. 16(2)(c)](https://www.legislation.gov.uk/ukpga/1975/35/section/16/2/c) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2019/457/regulation/2/8) (with [regs. 3-4A](https://www.legislation.gov.uk/uksi/2019/457/regulation/3)) (as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c709704]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
@@ -647,9 +647,9 @@ and such incidental and supplementary provisions, as appear to the Lord Chancell
 
 [^c709707]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-9554712b2515299c26ad1c6c557b159e]: Textual amendment: S. 17A inserted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [ss. 2](https://www.legislation.gov.uk/ukpga/2017/28/section/2), [3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-9554712b2515299c26ad1c6c557b159e]: Textual amendment: S. 17A inserted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [ss. 2](https://www.legislation.gov.uk/ukpga/2017/28/section/2), [3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-104943dcc8d4dee3181dcce15ec43121]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/1975/35/section/18) inserted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/3); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-104943dcc8d4dee3181dcce15ec43121]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/1975/35/section/18) inserted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/3); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
 [^c709708]: Modification: 1.1.1976 appointed under s. 19(2) by [S.I. 1975/2018](https://www.legislation.gov.uk/uksi/1975/2018)
 
@@ -657,31 +657,31 @@ and such incidental and supplementary provisions, as appear to the Lord Chancell
 
 [^c709710]: Modification: 1.11.1981 appointed (S.) under s. 19(3) with the exception of certain areas namely (i) Highland Region (ii) Western Isles Islands Area (iii) Orkney Islands Area (iv) Shetlands Islands Area and (v) all other islands: [S.I. 1981/767](https://www.legislation.gov.uk/uksi/1981/767)
 
-[^key-7319f9cff0193c5a11935317b13b5554]: Textual amendment: Sch. 1 Pt. I substituted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/1); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-7319f9cff0193c5a11935317b13b5554]: Textual amendment: Sch. 1 Pt. I substituted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/1); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-953de39e02aec2dec601159251f24747]: Textual amendment: Sch. 1 para. 7 omitted (15.9.2017) by virtue of [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/2/2); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-953de39e02aec2dec601159251f24747]: Textual amendment: Sch. 1 para. 7 omitted (15.9.2017) by virtue of [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/2/2); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-2dd641546e7a09a22185aee97e891e3d]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1975/35/schedule/1/paragraph/8) omitted (15.9.2017) by virtue of [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/2/2); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-2dd641546e7a09a22185aee97e891e3d]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1975/35/schedule/1/paragraph/8) omitted (15.9.2017) by virtue of [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/2/2); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-3fde72ec3008375c32151c45a5d688b3]: Textual amendment: [Sch. 1 para. 9(1)](https://www.legislation.gov.uk/ukpga/1975/35/schedule/1/paragraph/9/1): Sch. 1 para. 9 renumbered as Sch. 1 para. 9(1) (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/2/3/a); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-3fde72ec3008375c32151c45a5d688b3]: Textual amendment: [Sch. 1 para. 9(1)](https://www.legislation.gov.uk/ukpga/1975/35/schedule/1/paragraph/9/1): Sch. 1 para. 9 renumbered as Sch. 1 para. 9(1) (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/2/3/a); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-81d35f1c35e5017a83a15993c14a4193]: Textual amendment: [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/1975/35/schedule/1/paragraph/9/2)[(3)](https://www.legislation.gov.uk/ukpga/1975/35/schedule/1/paragraph/9/3) inserted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/2/3/b); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-81d35f1c35e5017a83a15993c14a4193]: Textual amendment: [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/1975/35/schedule/1/paragraph/9/2)[(3)](https://www.legislation.gov.uk/ukpga/1975/35/schedule/1/paragraph/9/3) inserted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/2/3/b); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
 [^c709715]: Textual amendment: Sch. 1 para. 12(2) substituted (1.10.1991) by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [reg. 2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2), [Sch. para.25](https://www.legislation.gov.uk/uksi/1991/1997/schedule/paragraph/25)
 
-[^key-5d1f736dcc3b86f2894182a492831187]: Textual amendment: Words in Sch. 1 para. 12(2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/o) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-5d1f736dcc3b86f2894182a492831187]: Textual amendment: Words in Sch. 1 para. 12(2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/o) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c709716]: Textual amendment: Words in Sch. 1 para. 12(3) omitted (1.10.1991) by virtue of [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [reg. 2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2), [Sch. para.25](https://www.legislation.gov.uk/uksi/1991/1997/schedule/paragraph/25)
 
-[^key-7ca48fe68c8f48faa784804c38cac68e]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1975/35/schedule/2) substituted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/5); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-7ca48fe68c8f48faa784804c38cac68e]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1975/35/schedule/2) substituted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/5); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-31734de81c005e15d0970c00fce97e8b]: Textual amendment: [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1975/35/schedule/3/part/I) substituted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/7); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-31734de81c005e15d0970c00fce97e8b]: Textual amendment: [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1975/35/schedule/3/part/I) substituted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/7); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-49a38ba767907caa5c8170ba2d697fee]: Textual amendment: Words in [Sch. 3 Pt. II](https://www.legislation.gov.uk/ukpga/1975/35/schedule/3/part/II) heading substituted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/8); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-49a38ba767907caa5c8170ba2d697fee]: Textual amendment: Words in [Sch. 3 Pt. II](https://www.legislation.gov.uk/ukpga/1975/35/schedule/3/part/II) heading substituted (15.9.2017) by [Farriers (Registration) Act 2017 (c. 28)](https://www.legislation.gov.uk/ukpga/2017/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2017/28/section/3/2), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/8); [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
 [^c709719]: Textual amendment: Words substituted by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1981/54/schedule/5)
 
-[^key-3d6dd007055fc8f2d2f8fb24d6849406]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-3d6dd007055fc8f2d2f8fb24d6849406]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c709720]: Textual amendment: Sch. 3 Pt. II para. 5(1)(a)(b) substituted by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 71(2)](https://www.legislation.gov.uk/ukpga/1990/41/section/71/2), [Sch. 10 para. 38](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/38)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Commission Regulation (EU) No 283/2011[^key-f79bd8a5dc1572f61c99c22cce257405]
+## 188. Commission Regulation (EU) No 283/2011[^c-f79bd8a5dc1572f61c99c22cce257405]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Regulation (EU) No 283/2011 of 22 March 2011 amending Regulation [(EC
 
 ## Annotations
 
-[^key-f79bd8a5dc1572f61c99c22cce257405]: Commencement: Reg. 188 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f79bd8a5dc1572f61c99c22cce257405]: Commencement: Reg. 188 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

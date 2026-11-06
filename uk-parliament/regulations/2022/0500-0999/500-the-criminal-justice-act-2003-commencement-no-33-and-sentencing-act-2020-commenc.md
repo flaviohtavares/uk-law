@@ -43,7 +43,7 @@ The Secretary of State makes the following Regulations in exercise of—
 - (b) the power conferred by section 104(1)(a) of the Deregulation Act 2015[^f00002]; and
 - (c) the powers conferred by sections 407(6), 417(1) and 419(1) and (2) of the Sentencing Act 2020[^f00003].
 
-## 1. Citation, commencement and extent[^key-cf97209810bd23dd50d270358aafeb81][^key-cf97209810bd23dd50d270358aafeb81]
+## 1. Citation, commencement and extent[^c-cf97209810bd23dd50d270358aafeb81][^c-cf97209810bd23dd50d270358aafeb81]
 
 (1) These Regulations may be cited as the Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022.
 
@@ -55,14 +55,14 @@ The Secretary of State makes the following Regulations in exercise of—
 
 (5) An amendment made by these Regulations has the same extent as the provision amended.
 
-## 2. Interpretation[^key-fda045cf104ab9dfda3178862b5ded84][^key-fda045cf104ab9dfda3178862b5ded84]
+## 2. Interpretation[^c-fda045cf104ab9dfda3178862b5ded84][^c-fda045cf104ab9dfda3178862b5ded84]
 
 In these Regulations—
 
 - “**the 2003 Act**” means the Criminal Justice Act 2003; and
 - “**the 2020 Act**” means the Sentencing Act 2020.
 
-## 3. Commencement of provisions in the 2003 Act[^key-759bb9867dbc847bc33ed3f694199519][^key-759bb9867dbc847bc33ed3f694199519]
+## 3. Commencement of provisions in the 2003 Act[^c-759bb9867dbc847bc33ed3f694199519][^c-759bb9867dbc847bc33ed3f694199519]
 
 The following provisions of the 2003 Act come into force on 2nd May 2022—
 
@@ -71,11 +71,11 @@ The following provisions of the 2003 Act come into force on 2nd May 2022—
   - (i) subsections (1)(b) and (3); and
   - (ii) subsections (4) and (7), insofar as they relate to paragraphs 6 and 7 of Schedule 27 (enabling powers: alteration of maximum penalties etc.).
 
-## 4. Commencement of provisions in the 2020 Act[^key-9014a2b314ff98b9cd1b578dac03aa55][^key-9014a2b314ff98b9cd1b578dac03aa55]
+## 4. Commencement of provisions in the 2020 Act[^c-9014a2b314ff98b9cd1b578dac03aa55][^c-9014a2b314ff98b9cd1b578dac03aa55]
 
 Paragraph 24 of Schedule 22 to the 2020 Act (amendments to the general limit on magistrates’ court’s power to impose imprisonment or detention in a young offender institution) comes into force on 2nd May 2022 but only for the purposes of offences which are triable either way.
 
-## 5. Amendment of provisions expressed by reference to commencement[^key-9c1bd66e9c58de4c389e25cae72518ba][^key-9c1bd66e9c58de4c389e25cae72518ba]
+## 5. Amendment of provisions expressed by reference to commencement[^c-9c1bd66e9c58de4c389e25cae72518ba][^c-9c1bd66e9c58de4c389e25cae72518ba]
 
 (1) In a provision listed in column 1 of the table in Part 1 of the Schedule, for the words in the corresponding entry in column 2 of the table substitute “2 May 2022”.
 
@@ -83,7 +83,7 @@ Paragraph 24 of Schedule 22 to the 2020 Act (amendments to the general limit on 
 
 (3) In a provision listed in column 1 of the table in Part 3 of the Schedule, for the words in the corresponding entry in column 2 of the table substitute “2 Mai 2022”.
 
-## 6. Amendment of the 2020 Act to state the effect of regulation 4[^key-9db72e8861efafd54fd92b00d1249711]
+## 6. Amendment of the 2020 Act to state the effect of regulation 4[^c-9db72e8861efafd54fd92b00d1249711]
 
 (1) In section 224 of the 2020 Act (general limit on magistrates’ court’s power to impose imprisonment or detention in a young offender institution)—
 
@@ -92,7 +92,7 @@ Paragraph 24 of Schedule 22 to the 2020 Act (amendments to the general limit on 
 
 (2) In paragraph 24 of Schedule 22 to the 2020 Act (amendments to the general limit on magistrates’ court’s power to impose imprisonment or detention in a young offender institution), after “institution)” insert “, as amended by the Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022.”.
 
-## 7. Amendment of the Environmental Protection Act 1990[^key-e6505a1d96d5cb4e6ef65be50ea62f35][^key-e6505a1d96d5cb4e6ef65be50ea62f35]
+## 7. Amendment of the Environmental Protection Act 1990[^c-e6505a1d96d5cb4e6ef65be50ea62f35][^c-e6505a1d96d5cb4e6ef65be50ea62f35]
 
 (1) The Environmental Protection Act 1990[^f00004] is amended as follows.
 
@@ -109,7 +109,7 @@ Paragraph 24 of Schedule 22 to the 2020 Act (amendments to the general limit on 
 
 .
 
-## 8. Amendment of the Scotland Act 1998[^key-a52ce25d280cd9c8eac3f0aeefeb6d7c][^key-a52ce25d280cd9c8eac3f0aeefeb6d7c]
+## 8. Amendment of the Scotland Act 1998[^c-a52ce25d280cd9c8eac3f0aeefeb6d7c][^c-a52ce25d280cd9c8eac3f0aeefeb6d7c]
 
 (1) The Scotland Act 1998[^f00005] is amended as follows.
 
@@ -136,7 +136,7 @@ Ministry of Justice
 
 Regulation 5
 
-### PART 1 — Amendments of primary legislation[^key-c7c74daa9e8d6cfdda361d6bb711b777][^key-c7c74daa9e8d6cfdda361d6bb711b777]
+### PART 1 — Amendments of primary legislation[^c-c7c74daa9e8d6cfdda361d6bb711b777][^c-c7c74daa9e8d6cfdda361d6bb711b777]
 
 <table>
 <thead>
@@ -326,7 +326,7 @@ Regulation 5
 </tbody>
 </table>
 
-### PART 2 — Amendments of secondary legislation[^key-aa426b52b392ad4c3c7c4b3adcd4c518][^key-aa426b52b392ad4c3c7c4b3adcd4c518]
+### PART 2 — Amendments of secondary legislation[^c-aa426b52b392ad4c3c7c4b3adcd4c518][^c-aa426b52b392ad4c3c7c4b3adcd4c518]
 
 <table>
 <thead>
@@ -392,9 +392,9 @@ Regulation 5
 </tbody>
 </table>
 
-[^key-5b6676a71fbf5b4c55b3fc6ff258ddf0]
+[^c-5b6676a71fbf5b4c55b3fc6ff258ddf0]
 
-### PART 3 — Amendments of Welsh primary legislation[^key-452cee9a850c241f7cef61d673839f66][^key-452cee9a850c241f7cef61d673839f66]
+### PART 3 — Amendments of Welsh primary legislation[^c-452cee9a850c241f7cef61d673839f66][^c-452cee9a850c241f7cef61d673839f66]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -782,30 +782,30 @@ The following provisions of the Sentencing Act 2020 have been brought into force
 
 [^f00003]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17).
 
-[^key-cf97209810bd23dd50d270358aafeb81]: Commencement: Reg. 1 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
+[^c-cf97209810bd23dd50d270358aafeb81]: Commencement: Reg. 1 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
 
-[^key-fda045cf104ab9dfda3178862b5ded84]: Commencement: Reg. 2 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
+[^c-fda045cf104ab9dfda3178862b5ded84]: Commencement: Reg. 2 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
 
-[^key-759bb9867dbc847bc33ed3f694199519]: Commencement: Reg. 3 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
+[^c-759bb9867dbc847bc33ed3f694199519]: Commencement: Reg. 3 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
 
-[^key-9014a2b314ff98b9cd1b578dac03aa55]: Commencement: Reg. 4 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
+[^c-9014a2b314ff98b9cd1b578dac03aa55]: Commencement: Reg. 4 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
 
-[^key-9c1bd66e9c58de4c389e25cae72518ba]: Commencement: Reg. 5 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
+[^c-9c1bd66e9c58de4c389e25cae72518ba]: Commencement: Reg. 5 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
 
-[^key-9db72e8861efafd54fd92b00d1249711]: Commencement: Reg. 6 in force at 2.5.2022 at 12.01am, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/3)
+[^c-9db72e8861efafd54fd92b00d1249711]: Commencement: Reg. 6 in force at 2.5.2022 at 12.01am, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/3)
 
-[^key-e6505a1d96d5cb4e6ef65be50ea62f35]: Commencement: Reg. 7 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
+[^c-e6505a1d96d5cb4e6ef65be50ea62f35]: Commencement: Reg. 7 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
 
 [^f00004]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-a52ce25d280cd9c8eac3f0aeefeb6d7c]: Commencement: Reg. 8 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
+[^c-a52ce25d280cd9c8eac3f0aeefeb6d7c]: Commencement: Reg. 8 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
 
 [^f00005]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-c7c74daa9e8d6cfdda361d6bb711b777]: Commencement: Sch. Pt. 1 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
+[^c-c7c74daa9e8d6cfdda361d6bb711b777]: Commencement: Sch. Pt. 1 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
 
-[^key-aa426b52b392ad4c3c7c4b3adcd4c518]: Commencement: Sch. Pt. 2 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
+[^c-aa426b52b392ad4c3c7c4b3adcd4c518]: Commencement: Sch. Pt. 2 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
 
-[^key-5b6676a71fbf5b4c55b3fc6ff258ddf0]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2) table omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/8/2)
+[^c-5b6676a71fbf5b4c55b3fc6ff258ddf0]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2) table omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/8/2)
 
-[^key-452cee9a850c241f7cef61d673839f66]: Commencement: Sch. Pt. 3 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)
+[^c-452cee9a850c241f7cef61d673839f66]: Commencement: Sch. Pt. 3 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2)

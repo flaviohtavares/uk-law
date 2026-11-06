@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. Amount of club transfer earned pension[^key-e31f3f35e2ba551275cb682f2111dec6]
+## 154. Amount of club transfer earned pension[^c-e31f3f35e2ba551275cb682f2111dec6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e31f3f35e2ba551275cb682f2111dec6]: Commencement: Reg. 154 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-e31f3f35e2ba551275cb682f2111dec6]: Commencement: Reg. 154 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

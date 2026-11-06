@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Amendment of powers to release restrictions on spending capital[^key-bc1aafb925494b3028b92b32ca0fe2a9][^key-ae7c765912a424d096823a17f530e2ff]
+## 10. Amendment of powers to release restrictions on spending capital[^c-bc1aafb925494b3028b92b32ca0fe2a9][^c-ae7c765912a424d096823a17f530e2ff]
 
 *Extent: E+W*
 
@@ -93,6 +93,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc1aafb925494b3028b92b32ca0fe2a9]: Commencement: S. 10 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-bc1aafb925494b3028b92b32ca0fe2a9]: Commencement: S. 10 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-ae7c765912a424d096823a17f530e2ff]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/6/section/10) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/643/regulation/4))
+[^c-ae7c765912a424d096823a17f530e2ff]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/6/section/10) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/643/regulation/4))

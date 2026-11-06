@@ -32,7 +32,7 @@ summary: ''
 
 INSURANCE
 
-The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) (Amendment) Regulations 2005 (revoked)[^key-8a7324dd6dc49e597922d4497ed4a574]
+The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) (Amendment) Regulations 2005 (revoked)[^c-8a7324dd6dc49e597922d4497ed4a574]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st October 2005
 
-[^key-8a7324dd6dc49e597922d4497ed4a574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a7324dd6dc49e597922d4497ed4a574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8a7324dd6dc49e597922d4497ed4a574]
+## 1. Citation, commencement and interpretation[^c-8a7324dd6dc49e597922d4497ed4a574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 3 of the principal regulations (preparation of accounts)[^key-8a7324dd6dc49e597922d4497ed4a574]
+## 2. Amendment of regulation 3 of the principal regulations (preparation of accounts)[^c-8a7324dd6dc49e597922d4497ed4a574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 6 of the principal regulations (penalties for non-compliance)[^key-8a7324dd6dc49e597922d4497ed4a574]
+## 3. Amendment of regulation 6 of the principal regulations (penalties for non-compliance)[^c-8a7324dd6dc49e597922d4497ed4a574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Schedule to the principal regulations (modifications of certain enactments in their application to industrial and provident societies)[^key-8a7324dd6dc49e597922d4497ed4a574]
+## 4. Amendment of the Schedule to the principal regulations (modifications of certain enactments in their application to industrial and provident societies)[^c-8a7324dd6dc49e597922d4497ed4a574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8a7324dd6dc49e597922d4497ed4a574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a7324dd6dc49e597922d4497ed4a574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8a7324dd6dc49e597922d4497ed4a574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a7324dd6dc49e597922d4497ed4a574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8a7324dd6dc49e597922d4497ed4a574]: Textual amendment: Regulations revoked (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-8a7324dd6dc49e597922d4497ed4a574]: Textual amendment: Regulations revoked (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

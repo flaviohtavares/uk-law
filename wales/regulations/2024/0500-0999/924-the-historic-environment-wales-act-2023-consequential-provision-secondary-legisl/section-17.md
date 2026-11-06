@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**17.**[^key-236b274ec2616c8f39fbc140b7a8a3be] In Part 2 of Schedule 1, in sub-paragraph (c), for “section 69” to “1990” substitute “section 158 of the Historic Environment (Wales) Act 2023”.
+**17.**[^c-236b274ec2616c8f39fbc140b7a8a3be] In Part 2 of Schedule 1, in sub-paragraph (c), for “section 69” to “1990” substitute “section 158 of the Historic Environment (Wales) Act 2023”.
 
 ## Annotations
 
-[^key-236b274ec2616c8f39fbc140b7a8a3be]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2024/924/regulation/17) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-236b274ec2616c8f39fbc140b7a8a3be]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2024/924/regulation/17) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

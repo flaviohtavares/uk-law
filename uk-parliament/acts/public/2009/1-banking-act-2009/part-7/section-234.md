@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. Regulations: details[^M_I_32c083de-1cb0-4e26-d6ed-f43d8634b659][^key-9e9a7bbf2f821802e272d8f5ddf15612][^key-eb2d1b33f40f96c0c064a801606d6424][^key-8a1616364af33e98903640532299c1fe]
+## 234. Regulations: details[^M_I_32c083de-1cb0-4e26-d6ed-f43d8634b659][^c-9e9a7bbf2f821802e272d8f5ddf15612][^c-eb2d1b33f40f96c0c064a801606d6424][^c-8a1616364af33e98903640532299c1fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ summary: ''
 (8) Investment bank insolvency regulations may confer functions on—
 
 - (a) a court or tribunal,
-- (b)[^key-1d0e34223b411b612b3309210af0a36d] the Prudential Regulation Authority,
+- (b)[^c-1d0e34223b411b612b3309210af0a36d] the Prudential Regulation Authority,
 - (ba) the Financial Conduct Authority,
 - (c) the Financial Services Compensation Scheme (established under Part 15 of the Financial Services and Markets Act 2000),
 - (d) the scheme manager of that Scheme, and
@@ -82,10 +82,10 @@ summary: ''
 
 [^M_I_32c083de-1cb0-4e26-d6ed-f43d8634b659]: Commencement: S. 234 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 6
 
-[^key-9e9a7bbf2f821802e272d8f5ddf15612]: Commencement: S. 234 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/6)
+[^c-9e9a7bbf2f821802e272d8f5ddf15612]: Commencement: S. 234 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/6)
 
-[^key-eb2d1b33f40f96c0c064a801606d6424]: Modification: Ss. 233-236 applied (with modifications) by S.I. 2017/752, reg. 23A, Sch. 3A paras. 2-5 (as inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/1275/regulation/6), [7](https://www.legislation.gov.uk/uksi/2020/1275/regulation/7))
+[^c-eb2d1b33f40f96c0c064a801606d6424]: Modification: Ss. 233-236 applied (with modifications) by S.I. 2017/752, reg. 23A, Sch. 3A paras. 2-5 (as inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/1275/regulation/6), [7](https://www.legislation.gov.uk/uksi/2020/1275/regulation/7))
 
-[^key-8a1616364af33e98903640532299c1fe]: Modification: Ss. 233-236 applied (with modifications) by S.I. 2011/99, reg. 24A, Sch. 2ZA paras. 2-5 (as inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1275/regulation/3), [4](https://www.legislation.gov.uk/uksi/2020/1275/regulation/4))
+[^c-8a1616364af33e98903640532299c1fe]: Modification: Ss. 233-236 applied (with modifications) by S.I. 2011/99, reg. 24A, Sch. 2ZA paras. 2-5 (as inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1275/regulation/3), [4](https://www.legislation.gov.uk/uksi/2020/1275/regulation/4))
 
-[^key-1d0e34223b411b612b3309210af0a36d]: Textual amendment: S. 234(8)(b)(ba) substituted for s. 234(8)(b) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 56](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/56) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-1d0e34223b411b612b3309210af0a36d]: Textual amendment: S. 234(8)(b)(ba) substituted for s. 234(8)(b) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 56](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/56) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

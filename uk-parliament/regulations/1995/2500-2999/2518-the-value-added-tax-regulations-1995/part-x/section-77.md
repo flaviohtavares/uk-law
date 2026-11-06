@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Trading stamp scheme[^key-34de24ab71c30b276ce40f322cbf0716]
+## 77. Trading stamp scheme[^c-34de24ab71c30b276ce40f322cbf0716]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,12 +24,12 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**78.**[^key-34de24ab71c30b276ce40f322cbf0716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**78.**[^c-34de24ab71c30b276ce40f322cbf0716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**79.**[^key-34de24ab71c30b276ce40f322cbf0716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**79.**[^c-34de24ab71c30b276ce40f322cbf0716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**80.**[^key-34de24ab71c30b276ce40f322cbf0716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**80.**[^c-34de24ab71c30b276ce40f322cbf0716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-34de24ab71c30b276ce40f322cbf0716]: Textual amendment: Pt. 10 revoked (1.6.1996) by [The Value Added Tax (Trading Stamps) Regulations 1995 (S.I. 1995/3043)](https://www.legislation.gov.uk/uksi/1995/3043), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3043/regulation/1), [2](https://www.legislation.gov.uk/uksi/1995/3043/regulation/2)
+[^c-34de24ab71c30b276ce40f322cbf0716]: Textual amendment: Pt. 10 revoked (1.6.1996) by [The Value Added Tax (Trading Stamps) Regulations 1995 (S.I. 1995/3043)](https://www.legislation.gov.uk/uksi/1995/3043), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3043/regulation/1), [2](https://www.legislation.gov.uk/uksi/1995/3043/regulation/2)

@@ -47,13 +47,13 @@ The Secretary of State, in exercise of the powers conferred on him by section 12
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and revocation[^key-23e4095c9a2bc5a6fd5d4ed862f084b1]
+### 1. Citation, commencement and revocation[^c-23e4095c9a2bc5a6fd5d4ed862f084b1]
 
 (1) These Regulations may be cited as the Secretary of State’s Traffic Orders (Procedure) (Scotland) Regulations 1987 and shall come into force on 3rd February 1988 and shall apply in Scotland only.
 
 (2) The Secretary of State’s Traffic Orders (Procedure) (Scotland) Regulations 1973[^f00002], the Secretary of State’s Traffic Orders (Procedure) (Scotland) Amendment Regulations 1979[^f00003] and the Secretary of State’s Traffic Orders (Procedure) (Scotland) Amendment Regulations 1982[^f00004] are hereby revoked.
 
-### 2. Interpretation[^key-c42f5a002d047044381d755d1fda777f]
+### 2. Interpretation[^c-c42f5a002d047044381d755d1fda777f]
 
 (1) In these Regulations the following expressions have the meanings hereby respectively assigned to them:—
 
@@ -83,7 +83,7 @@ The Secretary of State, in exercise of the powers conferred on him by section 12
 
 (4) Except where otherwise expressly provided, any reference in these Regulations to a numbered regulation or schedule is a reference to the regulation or schedule bearing that number in these Regulations and a reference in a regulation to a numbered paragraph is a reference to the paragraph bearing that number in that regulation.
 
-### 3. Application of Regulations[^key-8737903dd99beb5086476f94ad3cb9a3]
+### 3. Application of Regulations[^c-8737903dd99beb5086476f94ad3cb9a3]
 
 (1) These Regulations apply to—
 
@@ -99,15 +99,15 @@ The Secretary of State, in exercise of the powers conferred on him by section 12
 
 ## PART II — PROCEDURE BEFORE MAKING THE ORDER
 
-### 4. Consultation with police[^key-fd325407be4e8e76e15db1e358d3dd09]
+### 4. Consultation with police[^c-fd325407be4e8e76e15db1e358d3dd09]
 
 (1) Before making any order to which these Regulations apply the Secretary of State shall consult with the chief constable for the police force maintained for the area in which any road or other place to which the order is to relate is situated.
 
 (2) The consultation referred to in paragraph (1) is additional to any consultation required by the Act.
 
-(3) This regulation has effect subject to regulations 13 and 16[^key-f59234a6292eda81bcc8c4037e297fa2] below.
+(3) This regulation has effect subject to regulations 13 and 16[^c-f59234a6292eda81bcc8c4037e297fa2] below.
 
-### 5. Publication of proposals[^key-1ae3827e49ca4c5f64d8519420a37f33]
+### 5. Publication of proposals[^c-1ae3827e49ca4c5f64d8519420a37f33]
 
 (1) Before making the order the Secretary of State shall—
 
@@ -119,17 +119,17 @@ The Secretary of State, in exercise of the powers conferred on him by section 12
 
 (2) Where the order is one which relates to a road, or to roads, situated in more than one locality, it shall be sufficient for the purposes of this regulation if the notice published in each local newspaper states the general nature and effect of the order so far as it affects the road or roads situated in the locality in which that newspaper circulates and names or otherwise describes only the road or roads so affected in that locality, but the notice in the Edinburgh Gazette shall state the general nature and effect of the entire order and name or otherwise describe the whole road, or all the roads, to which the order relates.
 
-(3) This regulation has effect subject to regulations 13 to 16[^key-b5f8c72d38469549aef3c9c25e84ea0f] below.
+(3) This regulation has effect subject to regulations 13 to 16[^c-b5f8c72d38469549aef3c9c25e84ea0f] below.
 
-### 6. Objections[^key-5607b77d5844b1b522ecb64d09d8e21c]
+### 6. Objections[^c-5607b77d5844b1b522ecb64d09d8e21c]
 
 (1) The period during which objections to the order can be made shall begin not earlier than the date on which the Secretary of State has complied with the requirements of paragraph (1)(a), (b) and (c) of regulation 5 and (where such display is required) has begun to display the notices required by paragraph 1(d) of that regulation, and shall continue, in the case of orders under section 83 or 84 of the Act, for not less than 28 days, and in the case of all other orders, for not less than 21 days.
 
 (2) Any person desiring to object to the Secretary of State’s proposals to make the order shall send within the period, and to the address, specified in the notice of proposals published as required by regulation 5 a written statement of his objection and of the grounds thereof.
 
-(3) This regulation has effect subject to regulations 13 to 16[^key-1e9b215d3f972b7620512c43d2cd4b22] below.
+(3) This regulation has effect subject to regulations 13 to 16[^c-1e9b215d3f972b7620512c43d2cd4b22] below.
 
-### 7. Notice of public inquiry[^key-44c34353aa43886858b461f5714f382c]
+### 7. Notice of public inquiry[^c-44c34353aa43886858b461f5714f382c]
 
 (1) Where the Secretary of State decides, before publishing the notice of proposals under regulation 5 above, that a public inquiry shall be held, the notice of proposals shall contain, in addition to the particulars required by that regulation, the particulars specified in Part II of Schedule 1.
 
@@ -146,7 +146,7 @@ The Secretary of State, in exercise of the powers conferred on him by section 12
 
 (4) Where the notice of proposals announces the holding of a public inquiry, there shall be at least 42 days between the date on which the publication of that notice in the local newspaper and the Edinburgh Gazette under the foregoing provisions of these Regulations is completed and the date on which the inquiry is due to begin, and in all other cases there shall be at least 21 days between the date on which the publication as aforesaid of the notice announcing the holding of the public inquiry is completed or the date of the expiration of the objection period (whichever is later) and the date on which the inquiry is due to begin.
 
-### 8. Procedure at public inquiry[^key-d0b4b39ca6eae5465bdd55850262e603]
+### 8. Procedure at public inquiry[^c-d0b4b39ca6eae5465bdd55850262e603]
 
 (1) Any person interested in the subject matter of a public inquiry may appear at the inquiry in person or may be represented by counsel, solicitor or other representative.
 
@@ -156,23 +156,23 @@ The Secretary of State, in exercise of the powers conferred on him by section 12
 
 (4) Subject as aforesaid, the procedure at the inquiry shall be in the discretion of the person holding it.
 
-### 9. Consideration of objections[^key-949c2a4816919342e3200b6c4a4da2b1]
+### 9. Consideration of objections[^c-949c2a4816919342e3200b6c4a4da2b1]
 
 Before making the order the Secretary of State shall consider all objections duly made in accordance with regulation 6 above and not withdrawn and also the report and recommendations (if any) of the person holding any public inquiry in connection with the order.
 
-### 10. Modifications[^key-e7eb6838f6903f728ec3253390a29347]
+### 10. Modifications[^c-e7eb6838f6903f728ec3253390a29347]
 
 The Secretary of State may make the order with modifications (whether inconsequence of any objections or otherwise), but where the modifications which the Secretary of State proposes to make appear to him substantially to affect the character of the order as drafted, then, before making the order, he shall take such steps as appear to him to be appropriate for informing the persons likely to be concerned of the effect of the proposed modifications and for giving to those persons an opportunity to make representations in connection therewith, and shall consider any such representations which are made to him.
 
 ## PART III — MAKING THE ORDER AND SUBSEQUENT PROCEDURE
 
-### 11. Operative date of order[^key-3ce4820dfcd4f52300c74b9e8b9420dd]
+### 11. Operative date of order[^c-3ce4820dfcd4f52300c74b9e8b9420dd]
 
 (1) The order shall specify the date on which it comes into operation or, in a case where different operative dates are provided for different provisions of the order, each of the dates on which a provision of the order comes into force.
 
 (2) No date on which an order, or a provision of an order, comes into operation shall be earlier than the date on which the notice of the making of the order is published in the local newspaper under regulation 12.
 
-### 12. Notice of the making of the order[^key-8ab125bb0f8a9469c8209f5fd3b63980]
+### 12. Notice of the making of the order[^c-8ab125bb0f8a9469c8209f5fd3b63980]
 
 (1) When the Secretary of State has made the order, he shall—
 
@@ -189,11 +189,11 @@ The Secretary of State may make the order with modifications (whether inconseque
 
 (3) The provisions of paragraph (1)(f) are without prejudice to section 85 of the Act.
 
-(4) This regulation has effect subject to regulations 13, 15 and 16[^key-6388a27aeb503d731f1bf675542fed50].
+(4) This regulation has effect subject to regulations 13, 15 and 16[^c-6388a27aeb503d731f1bf675542fed50].
 
 ## PART IV — SPECIAL PROCEDURAL PROVISIONS FOR CERTAIN ORDERS
 
-### 13. Special provisions for consolidation orders and for certain variation orders[^key-03ed9c452b7afb07138e8006674374a9]
+### 13. Special provisions for consolidation orders and for certain variation orders[^c-03ed9c452b7afb07138e8006674374a9]
 
 (1) Regulations 4, 5 and 6 shall not apply to any trunk road order which is a consolidation order and regulation 12 shall have effect in relation to such an order with the following modifications, namely, that the particulars to be contained in the notice of the making of the order shall consist only of—
 
@@ -220,11 +220,11 @@ The Secretary of State may make the order with modifications (whether inconseque
 - “maximum gross weight” has the same meaning as in the Traffic Signs Regulations and General Directions 1981[^f00010]; and
 - “a specified unladen weight” means one of the weights specified in Column 1 of Schedule 4 expressed in imperial units or the metric weight equivalent to any of those weights.
 
-### 14. Special provisions for certain reserve power orders and other orders[^key-1ce225e19946bb99dc84ff8d65a470f8][^key-2e243aa4f57f74d50c26e6614b07aa23]
+### 14. Special provisions for certain reserve power orders and other orders[^c-1ce225e19946bb99dc84ff8d65a470f8][^c-2e243aa4f57f74d50c26e6614b07aa23]
 
 (1) This regulation applies to the following orders, that is to say:—
 
-- (a)[^key-069b0db8f7067f638bb535d96fc77273] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-069b0db8f7067f638bb535d96fc77273] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a reserve power order under paragraph 7 of Schedule 9 to the Act which provides only for one or more of the following matters:—
   - (i) the revocation of an order made, or having effect as if made, under section 9(1) of the Act,
   - (ii) the variation of an order made, or having effect as if made, under the said section 9(1) so as to reduce the extent of its application or the stringency of any prohibition or restriction imposed by it;
@@ -242,7 +242,7 @@ The Secretary of State may make the order with modifications (whether inconseque
 - “cycle” means a pedal cycle which is not a motor vehicle; and
 - “moped” has the same meaning as in regulation 46 of the Motor Vehicles (Construction and Use) Regulations 1978[^f00011].
 
-### 15. Special provisions for experimental orders[^key-abe17080de96ba4227cc70936babedde]
+### 15. Special provisions for experimental orders[^c-abe17080de96ba4227cc70936babedde]
 
 (1) Regulations 5 and 6 do not apply to an order under section 9 of the Act.
 
@@ -287,49 +287,49 @@ Regulations 5(1)(a), 7(1) and (2), 12(1)(c), and 13(1)(e)
 
 ### PART I — PARTICULARS TO BE INCLUDED IN THE NOTICE OF PROPOSALS
 
-**1.**[^key-035f94d845f4f6ddaa842f05e0dc1f96] The title of the order.
+**1.**[^c-035f94d845f4f6ddaa842f05e0dc1f96] The title of the order.
 
-**2.**[^key-6da45398aa32ea56e80ac142e97e7366] A statement of the general nature and effect of the order.
+**2.**[^c-6da45398aa32ea56e80ac142e97e7366] A statement of the general nature and effect of the order.
 
-**3.**[^key-b6f4dd433149920257a023edcd90080f] Where the order relates to any road, the name or other brief description of the road and, in a case where the order is an order under section 83 or 84 of the Act, a statement of the approximate length of that road to which the order will apply.
+**3.**[^c-b6f4dd433149920257a023edcd90080f] Where the order relates to any road, the name or other brief description of the road and, in a case where the order is an order under section 83 or 84 of the Act, a statement of the approximate length of that road to which the order will apply.
 
-**4.**[^key-0e17d7270a9ceeae4dc8f809bba2f517] Where the order does not relate to a road, a brief description of the place to which it does relate and of the location of that place.
+**4.**[^c-0e17d7270a9ceeae4dc8f809bba2f517] Where the order does not relate to a road, a brief description of the place to which it does relate and of the location of that place.
 
-**5.**[^key-5e9b001c766e5219f35f30a846d02404] Where the order is a reserve power order to be made under paragraph 7 of Schedule 9 to the Act, a statement of the title, date and general nature of the order proposed to be varied or revoked and the name of the authority who made that order.
+**5.**[^c-5e9b001c766e5219f35f30a846d02404] Where the order is a reserve power order to be made under paragraph 7 of Schedule 9 to the Act, a statement of the title, date and general nature of the order proposed to be varied or revoked and the name of the authority who made that order.
 
-**6.**[^key-847d915845a28a45dcad7dae0c9d28c8] A statement of all the documents required by regulation 5(1)(e) to be available for inspection, of each address at which those documents can be inspected and of the time when inspection can take place at each such address.
+**6.**[^c-847d915845a28a45dcad7dae0c9d28c8] A statement of all the documents required by regulation 5(1)(e) to be available for inspection, of each address at which those documents can be inspected and of the time when inspection can take place at each such address.
 
-**7.**[^key-7f3a278d0af3c120839f1de54422721e] The period during which, and the address to which objections to the order can be made, and a statement that all objections must be made in writing and must specify the grounds thereof.
+**7.**[^c-7f3a278d0af3c120839f1de54422721e] The period during which, and the address to which objections to the order can be made, and a statement that all objections must be made in writing and must specify the grounds thereof.
 
 ### PART II — ADDITIONAL PARTICULARS TO BE INCLUDED IN THE NOTICE OF PROPOSALS WHICH ANNOUNCES THE HOLDING OF A PUBLIC INQUIRY
 
-**1.**[^key-69d820684470826429804e5d3137454b] A statement that a public inquiry will be held in connection with the order.
+**1.**[^c-69d820684470826429804e5d3137454b] A statement that a public inquiry will be held in connection with the order.
 
-**2.**[^key-7964e34dad8c6cf6eec0efc2a1833155] The date, time and place of the inquiry.
+**2.**[^c-7964e34dad8c6cf6eec0efc2a1833155] The date, time and place of the inquiry.
 
 ### PART III — PARTICULARS TO BE INCLUDED IN THE SEPARATE NOTICE OF A PUBLIC INQUIRY
 
-**1.**[^key-853173bb28cfae8d6f424334b759394c] The title of the order.
+**1.**[^c-853173bb28cfae8d6f424334b759394c] The title of the order.
 
-**2.**[^key-83d12c893eca9700bea6ab794531a87a] A statement which refers to the public notice of proposals for the order and which indicates that a public inquiry will be held in connection with the order.
+**2.**[^c-83d12c893eca9700bea6ab794531a87a] A statement which refers to the public notice of proposals for the order and which indicates that a public inquiry will be held in connection with the order.
 
-**3.**[^key-93cdc2824fd49595877c66c768c4d0a3] A brief statement of the general nature and effect of the order and of the name or other brief description of any road or other place to which the order will apply.
+**3.**[^c-93cdc2824fd49595877c66c768c4d0a3] A brief statement of the general nature and effect of the order and of the name or other brief description of any road or other place to which the order will apply.
 
-**4.**[^key-48004b0a12c5483772ab495b8a5518ec] The date, time and place of the inquiry.
+**4.**[^c-48004b0a12c5483772ab495b8a5518ec] The date, time and place of the inquiry.
 
-**5.**[^key-453d9928f8f497841535999621fd5eae] A statement of all the documents required by regulation 7(2)(e) to be available for inspection, of each address at which those documents can be inspected and of the times when inspection can take place at each such address.
+**5.**[^c-453d9928f8f497841535999621fd5eae] A statement of all the documents required by regulation 7(2)(e) to be available for inspection, of each address at which those documents can be inspected and of the times when inspection can take place at each such address.
 
 ### PART IV — PARTICULARS TO BE INCLUDED IN THE NOTICE OF MAKING THE ORDER
 
-**1.**[^key-846eddc1013fd830a9fffe7e540d6e4d] The title of the order.
+**1.**[^c-846eddc1013fd830a9fffe7e540d6e4d] The title of the order.
 
-**2.**[^key-3870c88841d5eec1e513ba50524414cf] The date of making of the order and its operative date or dates.
+**2.**[^c-3870c88841d5eec1e513ba50524414cf] The date of making of the order and its operative date or dates.
 
-**3.**[^key-195739247b74815efb5d22be48b28880] The issue number, if any, and date of issue of the newspaper or of the Edinburgh Gazette containing the relevant notice of proposals previously published pursuant to regulation 5(1)(a) and (b), the reference number of that notice therein (if any) and a statement that the effect of the order is as described in that notice, save for such modifications (if any) as are described in the statement.
+**3.**[^c-195739247b74815efb5d22be48b28880] The issue number, if any, and date of issue of the newspaper or of the Edinburgh Gazette containing the relevant notice of proposals previously published pursuant to regulation 5(1)(a) and (b), the reference number of that notice therein (if any) and a statement that the effect of the order is as described in that notice, save for such modifications (if any) as are described in the statement.
 
-**4.**[^key-9745ba118a36e3783bedc155c3cd4846] Each address at which a copy of the order, as made, and a copy of the relevant map can be inspected, and the times when inspection can take place at each such address.
+**4.**[^c-9745ba118a36e3783bedc155c3cd4846] Each address at which a copy of the order, as made, and a copy of the relevant map can be inspected, and the times when inspection can take place at each such address.
 
-**5.**[^key-9ef38c3ff4bd74c195d0a2679f1ea956] In the case of an order under section 1, 9, 19, 32, 37, 38 or 45 of the Act or under section 36B(5) of the Road Traffic Act 1972, a statement that any person wishing to question the validity of the order or of any of its provisions on the ground that it is not within the powers of the re levant enabling Act or that a requirement of any such enabling Act or of any relevant regulations made thereunder has not been complied with may, within 6 weeks from the date on which the order was made, make application for that purpose to the Court of Session.
+**5.**[^c-9ef38c3ff4bd74c195d0a2679f1ea956] In the case of an order under section 1, 9, 19, 32, 37, 38 or 45 of the Act or under section 36B(5) of the Road Traffic Act 1972, a statement that any person wishing to question the validity of the order or of any of its provisions on the ground that it is not within the powers of the re levant enabling Act or that a requirement of any such enabling Act or of any relevant regulations made thereunder has not been complied with may, within 6 weeks from the date on which the order was made, make application for that purpose to the Court of Session.
 
 ## SCHEDULE 2 — REQUIREMENTS AS TO NOTICES TO BE DISPLAYED IN A ROAD OR OTHER PLACE
 
@@ -337,23 +337,23 @@ Regulations 5(1)(d) and 7(2)(d)
 
 ### PART I — PARTICULARS TO BE INCLUDED IN THE NOTICE
 
-**1.**[^key-717f491852b85903cead13d8cbcb8b64] The title of the order.
+**1.**[^c-717f491852b85903cead13d8cbcb8b64] The title of the order.
 
-**2.**[^key-c2363b81a39dc49ea92b3fdd031c1c58] A brief statement of the effect of the order in relation to the road or other place where it is displayed.
+**2.**[^c-c2363b81a39dc49ea92b3fdd031c1c58] A brief statement of the effect of the order in relation to the road or other place where it is displayed.
 
-**3.**[^key-dda4c3523726bb7639b62b70f083b99c] A statement of all the documents required by regulation 5(1)(e) or 7(2)(e) of these Regulations to be available for inspection, of each address at which those documents can be inspected and of the times when inspection can take place at each such address.
+**3.**[^c-dda4c3523726bb7639b62b70f083b99c] A statement of all the documents required by regulation 5(1)(e) or 7(2)(e) of these Regulations to be available for inspection, of each address at which those documents can be inspected and of the times when inspection can take place at each such address.
 
-**4.**[^key-2db3d965aa8f9a62773f1c939a3cede0] Where the notice is a notice of proposals, the address to which, and the period during which, objections to the order can be made, and a statement that all objections must be made in writing and must specify the grounds thereof.
+**4.**[^c-2db3d965aa8f9a62773f1c939a3cede0] Where the notice is a notice of proposals, the address to which, and the period during which, objections to the order can be made, and a statement that all objections must be made in writing and must specify the grounds thereof.
 
-**5.**[^key-0bc6beae2a4c509e6539c4fa38673971] Where the notice announces the holding of a public inquiry, the date, time and place of the inquiry.
+**5.**[^c-0bc6beae2a4c509e6539c4fa38673971] Where the notice announces the holding of a public inquiry, the date, time and place of the inquiry.
 
 ### PART II — OTHER REQUIREMENTS AS TO THE DISPLAY OF THE NOTICE
 
-**1.**[^key-83890880de7f5e0deebaf7e39e5e66f0] Where the order relates to any road, the notice shall be displayed in a prominent position at or near each end of the road and in such other positions (if any) as the Secretary of State thinks requisite for securing that adequate information about the subject matter of the notice is made available to persons using the road.
+**1.**[^c-83890880de7f5e0deebaf7e39e5e66f0] Where the order relates to any road, the notice shall be displayed in a prominent position at or near each end of the road and in such other positions (if any) as the Secretary of State thinks requisite for securing that adequate information about the subject matter of the notice is made available to persons using the road.
 
-**2.**[^key-9e44f894d694c7c0a55a7d6859c9cc9c] Where the order does not relate to a road, the notice shall be displayed in one or more prominent positions in the road or roads giving access to the place to which it does relate, and, where that place is in public use, in that place itself.
+**2.**[^c-9e44f894d694c7c0a55a7d6859c9cc9c] Where the order does not relate to a road, the notice shall be displayed in one or more prominent positions in the road or roads giving access to the place to which it does relate, and, where that place is in public use, in that place itself.
 
-**3.**[^key-41430affb2a490ec4ba5eb01ef08771c] The notice shall first be displayed as aforesaid not later than the date of the first publication of the corresponding notice in the local newspaper and the Secretary of State shall take all steps which it is reasonably practicable for him to take to ensure that it remains in a legible condition and continues to be so displayed—
+**3.**[^c-41430affb2a490ec4ba5eb01ef08771c] The notice shall first be displayed as aforesaid not later than the date of the first publication of the corresponding notice in the local newspaper and the Secretary of State shall take all steps which it is reasonably practicable for him to take to ensure that it remains in a legible condition and continues to be so displayed—
 
 - (a) in the case of a notice of proposals not announcing the holding of a public inquiry, until the end of the objection period;
 - (b) in the case of a notice announcing the holding of a public inquiry, until the date on which the inquiry begins.
@@ -362,24 +362,24 @@ Regulations 5(1)(d) and 7(2)(d)
 
 Regulations 5(1)(e), 7(2)(e) and 12(1)(e)
 
-**1.**[^key-e0ec16b0dfdc8979af0dc84204264e0c] There shall be available for inspection at such address or addresses, and during such times, as may be specified in the notice in connection with which they are required to be made available (one such address being, so far as practicable, an address in the area in which any road or other place to which the order relates is situated) the following documents:—
+**1.**[^c-e0ec16b0dfdc8979af0dc84204264e0c] There shall be available for inspection at such address or addresses, and during such times, as may be specified in the notice in connection with which they are required to be made available (one such address being, so far as practicable, an address in the area in which any road or other place to which the order relates is situated) the following documents:—
 
 - (a) a copy of the order as proposed to be made or made (as the case may be);
 - (b) in the case of an order which varies, revokes, applies or suspends a previous order, a copy of that order;
 - (c) in the case of a reserve power order made or proposed to be made by virtue of paragraph 3 of Schedule 9 to the Act, a copy of the direction for the purpose of securing the object of which the order is made or proposed to be made;
-- (d) in the case of a proposed order, a copy of a statement setting out the Secretary of State’s reasons for proposing to make the order, [^key-c05f84bf8851059c045b779594ada008]... [^key-0446256ac75b44b6871a0c0a5d6e9923]...
-- (da)[^key-c19d27aaa2a19700560b8807bcb70947] in the case of an experimental order under section 9 of the Act, a statement setting out the Scottish Ministers’ reasons for proceeding by way of experiment and whether they intend to consider continuing the effect of that order indefinitely by means of another order under the Act,
-- (e) in the case of an order made after the holding of a public inquiry, a copy of the report and the recommendations (if any) of the person appointed to hold the inquiry , and[^key-8e4fbe090912e820409af76d63e984a7]
+- (d) in the case of a proposed order, a copy of a statement setting out the Secretary of State’s reasons for proposing to make the order, [^c-c05f84bf8851059c045b779594ada008]... [^c-0446256ac75b44b6871a0c0a5d6e9923]...
+- (da)[^c-c19d27aaa2a19700560b8807bcb70947] in the case of an experimental order under section 9 of the Act, a statement setting out the Scottish Ministers’ reasons for proceeding by way of experiment and whether they intend to consider continuing the effect of that order indefinitely by means of another order under the Act,
+- (e) in the case of an order made after the holding of a public inquiry, a copy of the report and the recommendations (if any) of the person appointed to hold the inquiry , and[^c-8e4fbe090912e820409af76d63e984a7]
 - (f) where applicable, the documents specified in regulation 16(3)(d).
 
-**2.**[^key-f49de114833684b8b0fe5b8a15f5d985] The said documents shall be made available as aforesaid not later than the date of the first publication in the local newspaper of the notice in connection with which they are required to be made available, and they shall continue to be so available—
+**2.**[^c-f49de114833684b8b0fe5b8a15f5d985] The said documents shall be made available as aforesaid not later than the date of the first publication in the local newspaper of the notice in connection with which they are required to be made available, and they shall continue to be so available—
 
 - (a) where the notice is a notice of proposals not announcing the holding of a public inquiry, until the end of the objection period;
-- (b) where the notice is one announcing the holding of a public inquiry, until the date on which the inquiry begins; [^key-874334fdf980275038d72d61b284809a]...
-- (c) where the notice is a notice of making the order, unless it is an order under section 9 of the Act,[^key-d7bc3cc30cea6adba342e9e547ed8cb9] until the end of 6 weeks from the date on which the order is made , and[^key-ccc4ee981ec48d57d5cb6754bc784a71]
+- (b) where the notice is one announcing the holding of a public inquiry, until the date on which the inquiry begins; [^c-874334fdf980275038d72d61b284809a]...
+- (c) where the notice is a notice of making the order, unless it is an order under section 9 of the Act,[^c-d7bc3cc30cea6adba342e9e547ed8cb9] until the end of 6 weeks from the date on which the order is made , and[^c-ccc4ee981ec48d57d5cb6754bc784a71]
 - (d) where the notice is a notice of making an order under section 9 of the Act, until the end of the period within which a person may object to the making of an order under the Act for the purpose of reproducing and continuing in force indefinitely the provisions of that section 9 order (see paragraph 2 of schedule 5).
 
-## SCHEDULE 4 — TABLE OF UNLADEN AND MAXIMUM GROSS WEIGHTS[^key-f2b7bdb3f49c50849d96822b07283c3b]
+## SCHEDULE 4 — TABLE OF UNLADEN AND MAXIMUM GROSS WEIGHTS[^c-f2b7bdb3f49c50849d96822b07283c3b]
 
 Regulation 13(5)
 
@@ -397,7 +397,7 @@ Regulation 13(5)
 </tbody>
 </table>
 
-## SCHEDULE 5 — STATEMENTS FOR INCLUSION IN A NOTICE OF MAKING RELATING TO AN ORDER UNDER SECTION 9[^key-7dc139851343987ea0656c875f799363]
+## SCHEDULE 5 — STATEMENTS FOR INCLUSION IN A NOTICE OF MAKING RELATING TO AN ORDER UNDER SECTION 9[^c-7dc139851343987ea0656c875f799363]
 
 Regulation 16(3)(a)
 
@@ -434,7 +434,7 @@ Schedules 1 to 3 contain particulars of the details to be included in the press 
 
 [^f00001]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27)
 
-[^key-23e4095c9a2bc5a6fd5d4ed862f084b1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-23e4095c9a2bc5a6fd5d4ed862f084b1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1973/1121](https://www.legislation.gov.uk/uksi/1973/1121)
 
@@ -442,7 +442,7 @@ Schedules 1 to 3 contain particulars of the details to be included in the press 
 
 [^f00004]: Footnote: S.I. [1982/614](https://www.legislation.gov.uk/uksi/1982/614)
 
-[^key-c42f5a002d047044381d755d1fda777f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1987/2244/regulation/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-c42f5a002d047044381d755d1fda777f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1987/2244/regulation/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
 [^f00005]: Footnote: S.I. [1971/1521](https://www.legislation.gov.uk/uksi/1971/1521), amended by S.I. [1975/881](https://www.legislation.gov.uk/uksi/1975/881) and [1975/1586](https://www.legislation.gov.uk/uksi/1975/1586)
 
@@ -452,122 +452,122 @@ Schedules 1 to 3 contain particulars of the details to be included in the press 
 
 [^f00008]: Footnote: Section 36B(7) was amended by the Road Traffic Regulation Act 1984, Schedule 13, paragraph 15(b).
 
-[^key-8737903dd99beb5086476f94ad3cb9a3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1987/2244/regulation/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-8737903dd99beb5086476f94ad3cb9a3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1987/2244/regulation/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-fd325407be4e8e76e15db1e358d3dd09]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1987/2244/regulation/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-fd325407be4e8e76e15db1e358d3dd09]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1987/2244/regulation/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-f59234a6292eda81bcc8c4037e297fa2]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/4/3) substituted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/2)
+[^c-f59234a6292eda81bcc8c4037e297fa2]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/4/3) substituted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/2)
 
-[^key-1ae3827e49ca4c5f64d8519420a37f33]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1987/2244/regulation/5) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-1ae3827e49ca4c5f64d8519420a37f33]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1987/2244/regulation/5) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-b5f8c72d38469549aef3c9c25e84ea0f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/5/3) substituted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/3)
+[^c-b5f8c72d38469549aef3c9c25e84ea0f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/5/3) substituted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/3)
 
-[^key-5607b77d5844b1b522ecb64d09d8e21c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1987/2244/regulation/6) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-5607b77d5844b1b522ecb64d09d8e21c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1987/2244/regulation/6) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-1e9b215d3f972b7620512c43d2cd4b22]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/6/3) substituted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/4)
+[^c-1e9b215d3f972b7620512c43d2cd4b22]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/6/3) substituted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/4)
 
-[^key-44c34353aa43886858b461f5714f382c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1987/2244/regulation/7) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-44c34353aa43886858b461f5714f382c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1987/2244/regulation/7) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-d0b4b39ca6eae5465bdd55850262e603]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1987/2244/regulation/8) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-d0b4b39ca6eae5465bdd55850262e603]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1987/2244/regulation/8) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-949c2a4816919342e3200b6c4a4da2b1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1987/2244/regulation/9) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-949c2a4816919342e3200b6c4a4da2b1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1987/2244/regulation/9) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-e7eb6838f6903f728ec3253390a29347]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1987/2244/regulation/10) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-e7eb6838f6903f728ec3253390a29347]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1987/2244/regulation/10) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-3ce4820dfcd4f52300c74b9e8b9420dd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1987/2244/regulation/11) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-3ce4820dfcd4f52300c74b9e8b9420dd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1987/2244/regulation/11) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-8ab125bb0f8a9469c8209f5fd3b63980]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1987/2244/regulation/12) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-8ab125bb0f8a9469c8209f5fd3b63980]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1987/2244/regulation/12) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-6388a27aeb503d731f1bf675542fed50]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/12/4) substituted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/5)
+[^c-6388a27aeb503d731f1bf675542fed50]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/12/4) substituted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/5)
 
-[^key-03ed9c452b7afb07138e8006674374a9]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1987/2244/regulation/13) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-03ed9c452b7afb07138e8006674374a9]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1987/2244/regulation/13) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
 [^f00009]: Footnote: S.I. [1980/1070](https://www.legislation.gov.uk/uksi/1980/1070)
 
 [^f00010]: Footnote: S.I. [1981/859](https://www.legislation.gov.uk/uksi/1981/859)
 
-[^key-1ce225e19946bb99dc84ff8d65a470f8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1987/2244/regulation/14) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-1ce225e19946bb99dc84ff8d65a470f8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1987/2244/regulation/14) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-2e243aa4f57f74d50c26e6614b07aa23]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/1987/2244/regulation/14) heading substituted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/6/a)
+[^c-2e243aa4f57f74d50c26e6614b07aa23]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/1987/2244/regulation/14) heading substituted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/6/a)
 
-[^key-069b0db8f7067f638bb535d96fc77273]: Textual amendment: [Reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/14/1/a) omitted (26.11.2021) by virtue of [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/6/b)
+[^c-069b0db8f7067f638bb535d96fc77273]: Textual amendment: [Reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/14/1/a) omitted (26.11.2021) by virtue of [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/6/b)
 
 [^f00011]: Footnote: S.I. [1978/1017](https://www.legislation.gov.uk/uksi/1978/1017)
 
-[^key-abe17080de96ba4227cc70936babedde]: Textual amendment: [Regs. 15](https://www.legislation.gov.uk/uksi/1987/2244/regulation/15), [16](https://www.legislation.gov.uk/uksi/1987/2244/regulation/16) inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/7)
+[^c-abe17080de96ba4227cc70936babedde]: Textual amendment: [Regs. 15](https://www.legislation.gov.uk/uksi/1987/2244/regulation/15), [16](https://www.legislation.gov.uk/uksi/1987/2244/regulation/16) inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/7)
 
-[^key-035f94d845f4f6ddaa842f05e0dc1f96]: Commencement: [Sch. 1 Pt. I para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/I/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-035f94d845f4f6ddaa842f05e0dc1f96]: Commencement: [Sch. 1 Pt. I para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/I/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-6da45398aa32ea56e80ac142e97e7366]: Commencement: [Sch. 1 Pt. I para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/I/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-6da45398aa32ea56e80ac142e97e7366]: Commencement: [Sch. 1 Pt. I para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/I/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-b6f4dd433149920257a023edcd90080f]: Commencement: [Sch. 1 Pt. I para. 3](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/I/paragraph/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-b6f4dd433149920257a023edcd90080f]: Commencement: [Sch. 1 Pt. I para. 3](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/I/paragraph/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-0e17d7270a9ceeae4dc8f809bba2f517]: Commencement: [Sch. 1 Pt. I para. 4](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/I/paragraph/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-0e17d7270a9ceeae4dc8f809bba2f517]: Commencement: [Sch. 1 Pt. I para. 4](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/I/paragraph/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-5e9b001c766e5219f35f30a846d02404]: Commencement: [Sch. 1 Pt. I para. 5](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/I/paragraph/5) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-5e9b001c766e5219f35f30a846d02404]: Commencement: [Sch. 1 Pt. I para. 5](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/I/paragraph/5) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-847d915845a28a45dcad7dae0c9d28c8]: Commencement: [Sch. 1 Pt. I para. 6](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/paragraph/6) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-847d915845a28a45dcad7dae0c9d28c8]: Commencement: [Sch. 1 Pt. I para. 6](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/paragraph/6) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-7f3a278d0af3c120839f1de54422721e]: Commencement: [Sch. 1 Pt. I para. 7](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/paragraph/7) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-7f3a278d0af3c120839f1de54422721e]: Commencement: [Sch. 1 Pt. I para. 7](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/paragraph/7) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-69d820684470826429804e5d3137454b]: Commencement: [Sch. 1 Pt. II para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/II/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-69d820684470826429804e5d3137454b]: Commencement: [Sch. 1 Pt. II para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/II/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-7964e34dad8c6cf6eec0efc2a1833155]: Commencement: [Sch. 1 Pt. II para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/II/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-7964e34dad8c6cf6eec0efc2a1833155]: Commencement: [Sch. 1 Pt. II para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/II/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-853173bb28cfae8d6f424334b759394c]: Commencement: [Sch. 1 Pt. III para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/III/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-853173bb28cfae8d6f424334b759394c]: Commencement: [Sch. 1 Pt. III para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/III/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-83d12c893eca9700bea6ab794531a87a]: Commencement: [Sch. 1 Pt. III para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/III/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-83d12c893eca9700bea6ab794531a87a]: Commencement: [Sch. 1 Pt. III para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/III/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-93cdc2824fd49595877c66c768c4d0a3]: Commencement: [Sch. 1 Pt. III para. 3](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/III/paragraph/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-93cdc2824fd49595877c66c768c4d0a3]: Commencement: [Sch. 1 Pt. III para. 3](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/III/paragraph/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-48004b0a12c5483772ab495b8a5518ec]: Commencement: [Sch. 1 Pt. III para. 4](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/III/paragraph/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-48004b0a12c5483772ab495b8a5518ec]: Commencement: [Sch. 1 Pt. III para. 4](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/III/paragraph/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-453d9928f8f497841535999621fd5eae]: Commencement: [Sch. 1 Pt. III para. 5](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/III/paragraph/5) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-453d9928f8f497841535999621fd5eae]: Commencement: [Sch. 1 Pt. III para. 5](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/III/paragraph/5) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-846eddc1013fd830a9fffe7e540d6e4d]: Commencement: [Sch. 1 Pt. IV para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/IV/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-846eddc1013fd830a9fffe7e540d6e4d]: Commencement: [Sch. 1 Pt. IV para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/IV/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-3870c88841d5eec1e513ba50524414cf]: Commencement: [Sch. 1 Pt. IV para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/IV/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-3870c88841d5eec1e513ba50524414cf]: Commencement: [Sch. 1 Pt. IV para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/IV/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-195739247b74815efb5d22be48b28880]: Commencement: [Sch. 1 Pt. IV para. 3](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/IV/paragraph/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-195739247b74815efb5d22be48b28880]: Commencement: [Sch. 1 Pt. IV para. 3](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/IV/paragraph/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-9745ba118a36e3783bedc155c3cd4846]: Commencement: [Sch. 1 Pt. IV para. 4](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/IV/paragraph/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-9745ba118a36e3783bedc155c3cd4846]: Commencement: [Sch. 1 Pt. IV para. 4](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/IV/paragraph/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-9ef38c3ff4bd74c195d0a2679f1ea956]: Commencement: [Sch. 1 Pt. IV para. 5](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/IV/paragraph/5) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-9ef38c3ff4bd74c195d0a2679f1ea956]: Commencement: [Sch. 1 Pt. IV para. 5](https://www.legislation.gov.uk/uksi/1987/2244/schedule/1/part/IV/paragraph/5) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-717f491852b85903cead13d8cbcb8b64]: Commencement: [Sch. 2 Pt. I para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/I/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-717f491852b85903cead13d8cbcb8b64]: Commencement: [Sch. 2 Pt. I para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/I/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-c2363b81a39dc49ea92b3fdd031c1c58]: Commencement: [Sch. 2 Pt. I para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/I/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-c2363b81a39dc49ea92b3fdd031c1c58]: Commencement: [Sch. 2 Pt. I para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/I/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-dda4c3523726bb7639b62b70f083b99c]: Commencement: [Sch. 2 Pt. I para. 3](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/I/paragraph/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-dda4c3523726bb7639b62b70f083b99c]: Commencement: [Sch. 2 Pt. I para. 3](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/I/paragraph/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-2db3d965aa8f9a62773f1c939a3cede0]: Commencement: [Sch. 2 Pt. I para. 4](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/paragraph/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-2db3d965aa8f9a62773f1c939a3cede0]: Commencement: [Sch. 2 Pt. I para. 4](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/paragraph/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-0bc6beae2a4c509e6539c4fa38673971]: Commencement: [Sch. 2 Pt. I para. 5](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/paragraph/5) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-0bc6beae2a4c509e6539c4fa38673971]: Commencement: [Sch. 2 Pt. I para. 5](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/paragraph/5) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-83890880de7f5e0deebaf7e39e5e66f0]: Commencement: [Sch. 2 Pt. II para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/II/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-83890880de7f5e0deebaf7e39e5e66f0]: Commencement: [Sch. 2 Pt. II para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/II/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-9e44f894d694c7c0a55a7d6859c9cc9c]: Commencement: [Sch. 2 Pt. II para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/II/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-9e44f894d694c7c0a55a7d6859c9cc9c]: Commencement: [Sch. 2 Pt. II para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/II/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-41430affb2a490ec4ba5eb01ef08771c]: Commencement: [Sch. 2 Pt. II para. 3](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/II/paragraph/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-41430affb2a490ec4ba5eb01ef08771c]: Commencement: [Sch. 2 Pt. II para. 3](https://www.legislation.gov.uk/uksi/1987/2244/schedule/2/part/II/paragraph/3) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-e0ec16b0dfdc8979af0dc84204264e0c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-e0ec16b0dfdc8979af0dc84204264e0c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/1) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-c05f84bf8851059c045b779594ada008]: Textual amendment: Words in [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/1/d) omitted (26.11.2021) by virtue of [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/a)
+[^c-c05f84bf8851059c045b779594ada008]: Textual amendment: Words in [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/1/d) omitted (26.11.2021) by virtue of [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/a)
 
-[^key-0446256ac75b44b6871a0c0a5d6e9923]: Textual amendment: Word in [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/1/d) omitted (26.11.2021) by virtue of [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/b)
+[^c-0446256ac75b44b6871a0c0a5d6e9923]: Textual amendment: Word in [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/1/d) omitted (26.11.2021) by virtue of [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/b)
 
-[^key-c19d27aaa2a19700560b8807bcb70947]: Textual amendment: [Sch. 3 para. 1(da)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/1/da) inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(c)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/c)
+[^c-c19d27aaa2a19700560b8807bcb70947]: Textual amendment: [Sch. 3 para. 1(da)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/1/da) inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(c)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/c)
 
-[^key-8e4fbe090912e820409af76d63e984a7]: Textual amendment: [Sch. 3 para. 1(f)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/1/f) and word inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(d)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/d)
+[^c-8e4fbe090912e820409af76d63e984a7]: Textual amendment: [Sch. 3 para. 1(f)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/1/f) and word inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(d)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/d)
 
-[^key-f49de114833684b8b0fe5b8a15f5d985]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-f49de114833684b8b0fe5b8a15f5d985]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/2) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-874334fdf980275038d72d61b284809a]: Textual amendment: Word in [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/2/b) omitted (26.11.2021) by virtue of [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(e)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/e)
+[^c-874334fdf980275038d72d61b284809a]: Textual amendment: Word in [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/2/b) omitted (26.11.2021) by virtue of [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(e)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/e)
 
-[^key-d7bc3cc30cea6adba342e9e547ed8cb9]: Textual amendment: Words in [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/2/c) inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(f)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/f)
+[^c-d7bc3cc30cea6adba342e9e547ed8cb9]: Textual amendment: Words in [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/2/c) inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(f)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/f)
 
-[^key-ccc4ee981ec48d57d5cb6754bc784a71]: Textual amendment: [Sch. 3 para. 2(d)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/2/d) and word inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(g)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/g)
+[^c-ccc4ee981ec48d57d5cb6754bc784a71]: Textual amendment: [Sch. 3 para. 2(d)](https://www.legislation.gov.uk/uksi/1987/2244/schedule/3/paragraph/2/d) and word inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(8)(g)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/8/g)
 
-[^key-f2b7bdb3f49c50849d96822b07283c3b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1987/2244/schedule/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
+[^c-f2b7bdb3f49c50849d96822b07283c3b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1987/2244/schedule/4) in force at 3.2.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2244/regulation/1/1)
 
-[^key-7dc139851343987ea0656c875f799363]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/1987/2244/schedule/5) inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/9)
+[^c-7dc139851343987ea0656c875f799363]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/1987/2244/schedule/5) inserted (26.11.2021) by [The Traffic Regulation Orders (Procedure) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/348)](https://www.legislation.gov.uk/ssi/2021/348), [regs. 1](https://www.legislation.gov.uk/ssi/2021/348/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2021/348/regulation/2/9)

@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. All transactions communicated to the ITL [^key-2411ebddadcbea2b24107359f481ac47]... shall be final when the ITL notifies the Registry[^key-1746c990805ca8fc353b1fa99df6b942] that it has completed the process.
+1. All transactions communicated to the ITL [^c-2411ebddadcbea2b24107359f481ac47]... shall be final when the ITL notifies the Registry[^c-1746c990805ca8fc353b1fa99df6b942] that it has completed the process.
 
-2.[^key-cd1533d56055fb7b77994d65229dafe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-cd1533d56055fb7b77994d65229dafe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-46fe59738b09e9fdb92bcf63ccb6acbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-46fe59738b09e9fdb92bcf63ccb6acbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2411ebddadcbea2b24107359f481ac47]: Textual amendment: Words in [Art. 104(1)](https://www.legislation.gov.uk/eur/2013/389/article/104/1) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(12)(a)(i)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/12/a/i)
+[^c-2411ebddadcbea2b24107359f481ac47]: Textual amendment: Words in [Art. 104(1)](https://www.legislation.gov.uk/eur/2013/389/article/104/1) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(12)(a)(i)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/12/a/i)
 
-[^key-1746c990805ca8fc353b1fa99df6b942]: Textual amendment: Word in [Art. 104(1)](https://www.legislation.gov.uk/eur/2013/389/article/104/1) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(12)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/12/a/ii)
+[^c-1746c990805ca8fc353b1fa99df6b942]: Textual amendment: Word in [Art. 104(1)](https://www.legislation.gov.uk/eur/2013/389/article/104/1) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(12)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/12/a/ii)
 
-[^key-cd1533d56055fb7b77994d65229dafe7]: Textual amendment: [Art. 104(2)](https://www.legislation.gov.uk/eur/2013/389/article/104/2) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(12)(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/12/b)
+[^c-cd1533d56055fb7b77994d65229dafe7]: Textual amendment: [Art. 104(2)](https://www.legislation.gov.uk/eur/2013/389/article/104/2) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(12)(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/12/b)
 
-[^key-46fe59738b09e9fdb92bcf63ccb6acbd]: Textual amendment: [Art. 104(3)](https://www.legislation.gov.uk/eur/2013/389/article/104/3) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(12)(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/12/b)
+[^c-46fe59738b09e9fdb92bcf63ccb6acbd]: Textual amendment: [Art. 104(3)](https://www.legislation.gov.uk/eur/2013/389/article/104/3) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(12)(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/12/b)

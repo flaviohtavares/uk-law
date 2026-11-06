@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77.15. Hearing to determine the application to quash an acquittal[^key-bd31cc0b459af4ccdbb801894ab7dd58][^key-e455d640811289f5ed1b2bb5d1e01619]
+## 77.15. Hearing to determine the application to quash an acquittal[^c-bd31cc0b459af4ccdbb801894ab7dd58][^c-e455d640811289f5ed1b2bb5d1e01619]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ Where a hearing is ordered, the court—
 
 ## Annotations
 
-[^key-bd31cc0b459af4ccdbb801894ab7dd58]: Textual amendment: [Pt. 77](https://www.legislation.gov.uk/uksi/1998/3132/part/77) Section 2 inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/1953/schedule/4)
+[^c-bd31cc0b459af4ccdbb801894ab7dd58]: Textual amendment: [Pt. 77](https://www.legislation.gov.uk/uksi/1998/3132/part/77) Section 2 inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/1953/schedule/4)
 
-[^key-e455d640811289f5ed1b2bb5d1e01619]: Textual amendment: Pt. 77 inserted (6.4.2008) by [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rule 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2007/3543/schedule)
+[^c-e455d640811289f5ed1b2bb5d1e01619]: Textual amendment: Pt. 77 inserted (6.4.2008) by [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rule 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2007/3543/schedule)

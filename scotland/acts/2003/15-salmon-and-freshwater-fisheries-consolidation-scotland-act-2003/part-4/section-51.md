@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Financial contributions towards organisations developing freshwater fisheries[^key-fd446301529ce16eaa6e8c70231e892e]
+## 51. Financial contributions towards organisations developing freshwater fisheries[^c-fd446301529ce16eaa6e8c70231e892e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may make payments of such amount and subject to such cond
 
 ## Annotations
 
-[^key-fd446301529ce16eaa6e8c70231e892e]: Commencement: S. 51 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-fd446301529ce16eaa6e8c70231e892e]: Commencement: S. 51 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

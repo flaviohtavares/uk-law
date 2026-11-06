@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-70b0dbf69f0f880882957d6eec8f56fa] This section applies if—
+(1)[^c-70b0dbf69f0f880882957d6eec8f56fa] This section applies if—
 
 - (a) in calculating the amount of a receipt under this Chapter there is a reduction under section 288 (the additional calculation rule) by reference to a taxed receipt, or
 - (b) in calculating the amount of a receipt under Chapter 4 of Part 4 of CTA 2009 (profits of a property business: lease premiums etc) there is a reduction under section 228 of that Act (the additional calculation rule) by reference to a taxed receipt.
@@ -52,7 +52,7 @@ The receipt that is so reduced is referred to in this section as the “lease pr
 
   where—
 
-  AR is the reduction under section 288 above or section 228 of CTA 2009[^key-1f112e7af200d51c8823d3a3dee16434] by reference to the taxed receipt (see section 290(6)), and
+  AR is the reduction under section 288 above or section 228 of CTA 2009[^c-1f112e7af200d51c8823d3a3dee16434] by reference to the taxed receipt (see section 290(6)), and
 
   RRP is the number of days in the receipt period of the lease premium receipt.
 
@@ -60,6 +60,6 @@ The receipt that is so reduced is referred to in this section as the “lease pr
 
 ## Annotations
 
-[^key-70b0dbf69f0f880882957d6eec8f56fa]: Textual amendment: S. 293(1) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 620(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/620/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-70b0dbf69f0f880882957d6eec8f56fa]: Textual amendment: S. 293(1) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 620(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/620/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-1f112e7af200d51c8823d3a3dee16434]: Textual amendment: Words in s. 293(6) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 620(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/620/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-1f112e7af200d51c8823d3a3dee16434]: Textual amendment: Words in s. 293(6) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 620(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/620/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

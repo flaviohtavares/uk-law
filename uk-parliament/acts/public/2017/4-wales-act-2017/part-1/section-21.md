@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Transfer of Ministerial functions[^key-90cfb59270fcda03a3fa31461d4d4f70]
+## 21. Transfer of Ministerial functions[^c-90cfb59270fcda03a3fa31461d4d4f70]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90cfb59270fcda03a3fa31461d4d4f70]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/4/section/21) in force at 8.1.2018 by [S.I. 2017/893](https://www.legislation.gov.uk/uksi/2017/893), [reg. 2](https://www.legislation.gov.uk/uksi/2017/893/regulation/2)
+[^c-90cfb59270fcda03a3fa31461d4d4f70]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/4/section/21) in force at 8.1.2018 by [S.I. 2017/893](https://www.legislation.gov.uk/uksi/2017/893), [reg. 2](https://www.legislation.gov.uk/uksi/2017/893/regulation/2)

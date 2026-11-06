@@ -20,11 +20,11 @@ Regulation 34
 
 | *Column 1*<br>*Secondary legislation revoked* | *Column 2*<br>*Reference* | *Column 3*<br>*Extent of revocation* |
 | --- | --- | --- |
-| The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004 | [S.S.I. 2004/115](https://www.legislation.gov.uk/ssi/2004/115) | The whole Regulations, subject to regulation 33(1) [^key-4dc1a50fc713b67ff215f58eb6ae679c]... of these Regulations |
+| The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004 | [S.S.I. 2004/115](https://www.legislation.gov.uk/ssi/2004/115) | The whole Regulations, subject to regulation 33(1) [^c-4dc1a50fc713b67ff215f58eb6ae679c]... of these Regulations |
 | The General Medical Services (Transitional and Other Ancillary Provisions) (Scotland) Order 2004 | [S.S.I. 2004/142](https://www.legislation.gov.uk/ssi/2004/142) | The whole Regulations |
 | The Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) (Scotland) Regulations 2004 | [S.S.I. 2004/162](https://www.legislation.gov.uk/ssi/2004/162) | Regulation 4 |
 | The National Health Service (General Medical Services (Contracts) (Scotland) Amendment Regulations 2004 | [S.S.I. 2004/215](https://www.legislation.gov.uk/ssi/2004/215) | The whole Regulations |
-| The National Health Service (General Medical Services Contracts) (Scotland) Amendment Regulations 2005 | [S.S.I. 2005/337](https://www.legislation.gov.uk/ssi/2005/337) | The whole Regulations[^key-44053e594e4b937e7c695dd85db39e03] |
+| The National Health Service (General Medical Services Contracts) (Scotland) Amendment Regulations 2005 | [S.S.I. 2005/337](https://www.legislation.gov.uk/ssi/2005/337) | The whole Regulations[^c-44053e594e4b937e7c695dd85db39e03] |
 | The National Health Service (General Medical Services Contracts) (Scotland) Amendment Regulations 2006 | [S.S.I. 2006/247](https://www.legislation.gov.uk/ssi/2006/247) | The whole Regulations |
 | The National Health Service (General Medical Services Contracts) (Scotland) Amendment Regulations 2007 | [S.S.I. 2007/206](https://www.legislation.gov.uk/ssi/2007/206) | The whole Regulations |
 | The National Health Service (General Medical Services Contracts) (Scotland) Amendment (No. 2) Regulations 2007 | [S.S.I. 2007/392](https://www.legislation.gov.uk/ssi/2007/392) | The whole Regulations |
@@ -43,6 +43,6 @@ Regulation 34
 
 ## Annotations
 
-[^key-4dc1a50fc713b67ff215f58eb6ae679c]: Textual amendment: Words in [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2018/94/regulation/9/a)
+[^c-4dc1a50fc713b67ff215f58eb6ae679c]: Textual amendment: Words in [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2018/94/regulation/9/a)
 
-[^key-44053e594e4b937e7c695dd85db39e03]: Textual amendment: Words in [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2018/94/regulation/9/b)
+[^c-44053e594e4b937e7c695dd85db39e03]: Textual amendment: Words in [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2018/94/regulation/9/b)

@@ -23,7 +23,7 @@ summary: ''
 (1) If in a tax year—
 
 - (a) fuel is provided for a car by reason of an employee’s employment, and
-- (b) that person is chargeable to tax in respect of the car by virtue of section 120 or 120A[^key-c89aafd7db4a37345c3e02386c67201c],
+- (b) that person is chargeable to tax in respect of the car by virtue of section 120 or 120A[^c-c89aafd7db4a37345c3e02386c67201c],
 
 the cash equivalent of the benefit of the fuel is to be treated as earnings from the employment for that year.
 
@@ -36,10 +36,10 @@ the cash equivalent of the benefit of the fuel is to be treated as earnings from
 - (c) a non-cash voucher or a credit-token is used to obtain money which is spent on fuel for the car, or
 - (d) any sum is paid in respect of expenses incurred in providing fuel for the car.
 
-(4) References in this section to fuel do not include any facility or means for supplying electrical energy or any energy for a car which cannot in any circumstances emit CO[^key-730f87d13a2a7cd8b6f05553dfa4c5df]<sub>2</sub> by being driven.
+(4) References in this section to fuel do not include any facility or means for supplying electrical energy or any energy for a car which cannot in any circumstances emit CO[^c-730f87d13a2a7cd8b6f05553dfa4c5df]<sub>2</sub> by being driven.
 
 ## Annotations
 
-[^key-c89aafd7db4a37345c3e02386c67201c]: Textual amendment: Words in s. 149(1)(b) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/34)
+[^c-c89aafd7db4a37345c3e02386c67201c]: Textual amendment: Words in s. 149(1)(b) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/34)
 
-[^key-730f87d13a2a7cd8b6f05553dfa4c5df]: Textual amendment: Words in s. 149(4) substituted (with effect for the tax year 2010-11 and subsequent tax years in accordance with s. 58(18) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 58(11)](https://www.legislation.gov.uk/ukpga/2010/13/section/58/11)
+[^c-730f87d13a2a7cd8b6f05553dfa4c5df]: Textual amendment: Words in s. 149(4) substituted (with effect for the tax year 2010-11 and subsequent tax years in accordance with s. 58(18) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 58(11)](https://www.legislation.gov.uk/ukpga/2010/13/section/58/11)

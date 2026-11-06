@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Tenancy deposit schemes: regulatory framework[^key-466e54031eee7a70e0d0dd24101292ec]
+## 121. Tenancy deposit schemes: regulatory framework[^c-466e54031eee7a70e0d0dd24101292ec]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-466e54031eee7a70e0d0dd24101292ec]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2006/1/section/121) in force at 21.12.2010 by [S.S.I. 2010/436](https://www.legislation.gov.uk/ssi/2010/436), [art. 2](https://www.legislation.gov.uk/ssi/2010/436/article/2)
+[^c-466e54031eee7a70e0d0dd24101292ec]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2006/1/section/121) in force at 21.12.2010 by [S.S.I. 2010/436](https://www.legislation.gov.uk/ssi/2010/436), [art. 2](https://www.legislation.gov.uk/ssi/2010/436/article/2)

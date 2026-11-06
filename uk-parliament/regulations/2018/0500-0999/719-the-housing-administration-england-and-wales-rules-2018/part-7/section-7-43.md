@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.43. Standard contents of all notices[^key-dcc544c37d14f3020d1ddcf81a7f5403]
+## 7.43. Standard contents of all notices[^c-dcc544c37d14f3020d1ddcf81a7f5403]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ A notice must, if it is relevant to the particular notice, identify the housing 
 
 ## Annotations
 
-[^key-dcc544c37d14f3020d1ddcf81a7f5403]: Commencement: Rule 7.43 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-dcc544c37d14f3020d1ddcf81a7f5403]: Commencement: Rule 7.43 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

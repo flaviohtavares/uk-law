@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77B. Joint and several liability: sellers identified as non-compliant by the Commissioners[^key-9c9581ff15768e5b4479277fc75fa620][^key-84560ec3b8411dbcde336168a88a90e9]
+## 77B. Joint and several liability: sellers identified as non-compliant by the Commissioners[^c-9c9581ff15768e5b4479277fc75fa620][^c-84560ec3b8411dbcde336168a88a90e9]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where a person (“P”)[^key-2bd4c11e49eb925f8c8532d95ef8a2dc]...—
+(1) This section applies where a person (“P”)[^c-2bd4c11e49eb925f8c8532d95ef8a2dc]...—
 
 - (a) makes taxable supplies of goods through an online marketplace, and
 - (b) fails to comply with any requirement imposed on P by or under this Act (whether or not it relates to those supplies).
@@ -51,24 +51,24 @@ summary: ''
 - (a) the day on which the person ceases to be the operator, or
 - (b) (if later) the day on which the person notifies the Commissioners that the person is no longer the operator.
 
-(9)[^key-08a7410fe699dd9a967c039e93c947a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-08a7410fe699dd9a967c039e93c947a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-a783c54b3233135f68934047b4e4922b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-a783c54b3233135f68934047b4e4922b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) The Treasury may by regulations provide that supplies made or goods offered for sale in circumstances specified in the regulations are, or are not, to be treated for the purposes of this section as having been made or offered through an online marketplace.
 
-(12)[^key-aab8fcd3d646bc4adf48fc04ecad4e3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-aab8fcd3d646bc4adf48fc04ecad4e3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9c9581ff15768e5b4479277fc75fa620]: Textual amendment: Ss. 77B-77D inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 124(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/124/2)
+[^c-9c9581ff15768e5b4479277fc75fa620]: Textual amendment: Ss. 77B-77D inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 124(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/124/2)
 
-[^key-84560ec3b8411dbcde336168a88a90e9]: Textual amendment: Words in s. 77B heading substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 38(4)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/38/4/a)
+[^c-84560ec3b8411dbcde336168a88a90e9]: Textual amendment: Words in s. 77B heading substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 38(4)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/38/4/a)
 
-[^key-2bd4c11e49eb925f8c8532d95ef8a2dc]: Textual amendment: Words in s. 77B(1) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 38(4)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/38/4/b)
+[^c-2bd4c11e49eb925f8c8532d95ef8a2dc]: Textual amendment: Words in s. 77B(1) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 38(4)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/38/4/b)
 
-[^key-08a7410fe699dd9a967c039e93c947a5]: Textual amendment: S. 77B(9) omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/8) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-08a7410fe699dd9a967c039e93c947a5]: Textual amendment: S. 77B(9) omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/8) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-a783c54b3233135f68934047b4e4922b]: Textual amendment: S. 77B(10) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 38(4)(c)](https://www.legislation.gov.uk/ukpga/2018/3/section/38/4/c)
+[^c-a783c54b3233135f68934047b4e4922b]: Textual amendment: S. 77B(10) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 38(4)(c)](https://www.legislation.gov.uk/ukpga/2018/3/section/38/4/c)
 
-[^key-aab8fcd3d646bc4adf48fc04ecad4e3c]: Textual amendment: S. 77B(12) omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/8) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-aab8fcd3d646bc4adf48fc04ecad4e3c]: Textual amendment: S. 77B(12) omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/8) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 362. Amendment of Commission Implementing Decision (EU) 2017/2452[^key-9a1f4c029a7e654b09783fc78ee70324]
+## 362. Amendment of Commission Implementing Decision (EU) 2017/2452[^c-9a1f4c029a7e654b09783fc78ee70324]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision (EU) 2017/2452 renewing the authorisation for t
 
 ## Annotations
 
-[^key-9a1f4c029a7e654b09783fc78ee70324]: Commencement: Reg. 362 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9a1f4c029a7e654b09783fc78ee70324]: Commencement: Reg. 362 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

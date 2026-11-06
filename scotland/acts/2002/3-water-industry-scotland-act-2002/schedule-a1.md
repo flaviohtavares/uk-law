@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE A1 — Water Industry Commission for Scotland[^key-894405e95c18b120eb0d158d8c86622b]
+## SCHEDULE A1 — Water Industry Commission for Scotland[^c-894405e95c18b120eb0d158d8c86622b]
 
 *Extent: S*
 
@@ -197,4 +197,4 @@ to have knowledge, skills or experience relevant to the functions of the Commiss
 
 ## Annotations
 
-[^key-894405e95c18b120eb0d158d8c86622b]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/asp/2002/3/schedule/A1) inserted (20.6.2005 for the insertion of Sch. A1 paras. 1-7, 1.7.2005 in so far as not already in force) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 1](https://www.legislation.gov.uk/asp/2005/3/schedule/1) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-894405e95c18b120eb0d158d8c86622b]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/asp/2002/3/schedule/A1) inserted (20.6.2005 for the insertion of Sch. A1 paras. 1-7, 1.7.2005 in so far as not already in force) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 1](https://www.legislation.gov.uk/asp/2005/3/schedule/1) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)

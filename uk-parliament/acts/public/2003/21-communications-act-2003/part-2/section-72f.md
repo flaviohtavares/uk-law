@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72F. Social tariff conditions: general[^key-16b7f8037e3eca9bd7059c207ec9c2e6]
+## 72F. Social tariff conditions: general[^c-16b7f8037e3eca9bd7059c207ec9c2e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16b7f8037e3eca9bd7059c207ec9c2e6]: Textual amendment: Ss. 72C-72I and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/29) (with [reg. 6](https://www.legislation.gov.uk/uksi/2020/1419/regulation/6))
+[^c-16b7f8037e3eca9bd7059c207ec9c2e6]: Textual amendment: Ss. 72C-72I and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/29) (with [reg. 6](https://www.legislation.gov.uk/uksi/2020/1419/regulation/6))

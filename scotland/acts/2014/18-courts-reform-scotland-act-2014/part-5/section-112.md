@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Remit of appeal from the Sheriff Appeal Court to the Court of Session[^key-6f0227f3f514f8d533de30126ede4759]
+## 112. Remit of appeal from the Sheriff Appeal Court to the Court of Session[^c-6f0227f3f514f8d533de30126ede4759]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ remit the appeal to the Court of Session.
 
 ## Annotations
 
-[^key-6f0227f3f514f8d533de30126ede4759]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2014/18/section/112) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-6f0227f3f514f8d533de30126ede4759]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2014/18/section/112) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)

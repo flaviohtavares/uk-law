@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Violent offender orders[^key-5b50949dff67e49a3119d907df9d252b]
+## 119. Violent offender orders[^c-5b50949dff67e49a3119d907df9d252b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b50949dff67e49a3119d907df9d252b]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2014/12/section/119) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/9)
+[^c-5b50949dff67e49a3119d907df9d252b]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2014/12/section/119) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/9)

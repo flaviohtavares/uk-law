@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Powers to access, copy and use information stored on relevant articles[^key-fbd8983de581d183b6455fdec7d922aa][^key-37ca17ac4e39645a2e9ad18b07960ed0]
+## 26. Powers to access, copy and use information stored on relevant articles[^c-fbd8983de581d183b6455fdec7d922aa][^c-37ca17ac4e39645a2e9ad18b07960ed0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fbd8983de581d183b6455fdec7d922aa]: Commencement: S. 26 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-fbd8983de581d183b6455fdec7d922aa]: Commencement: S. 26 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-37ca17ac4e39645a2e9ad18b07960ed0]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2025/31/section/26) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)
+[^c-37ca17ac4e39645a2e9ad18b07960ed0]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2025/31/section/26) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)

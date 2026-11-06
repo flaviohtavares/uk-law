@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Variation of quarantine and hospital detention orders[^key-e7a212d3d6d84dce1254083b869e2209]
+## 51. Variation of quarantine and hospital detention orders[^c-e7a212d3d6d84dce1254083b869e2209]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7a212d3d6d84dce1254083b869e2209]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2008/5/section/51) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-e7a212d3d6d84dce1254083b869e2209]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2008/5/section/51) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

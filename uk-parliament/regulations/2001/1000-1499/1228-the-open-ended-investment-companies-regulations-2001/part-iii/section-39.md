@@ -33,7 +33,7 @@ are deemed to be free of any limitation under the company’s constitution.
 - (b) subject to paragraph (4), a person is not to be regarded as acting in bad faith by reason only of his knowing that, under the company’s constitution, an act is beyond any of the powers referred to in paragraph (1)(a) or (b); and
 - (c) subject to paragraph (4), a person is presumed to have acted in good faith unless the contrary is proved.
 
-(3) The reference in paragraph (1) to any limitation under the company’s constitution on the powers therein set out includes any limitation deriving from these Regulations, from FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules or from a resolution of the company in general meeting or of a meeting of any class of shareholders.
+(3) The reference in paragraph (1) to any limitation under the company’s constitution on the powers therein set out includes any limitation deriving from these Regulations, from FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules or from a resolution of the company in general meeting or of a meeting of any class of shareholders.
 
 (4) Sub-paragraphs (b) and (c) of paragraph (2) do not apply where—
 
@@ -46,4 +46,4 @@ are deemed to be free of any limitation under the company’s constitution.
 
 ## Annotations
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)

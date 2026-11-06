@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Lord President's agreement[^key-391416cdaa7ae227731ad3df7f04e0d5]
+## 9. Lord President's agreement[^c-391416cdaa7ae227731ad3df7f04e0d5]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-391416cdaa7ae227731ad3df7f04e0d5]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2010/16/section/9) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-391416cdaa7ae227731ad3df7f04e0d5]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2010/16/section/9) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

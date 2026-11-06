@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80A. Financial penalty for providing false or misleading information to Regulator[^key-3bf23877a9d094323eee0620866ef0c9]
+## 80A. Financial penalty for providing false or misleading information to Regulator[^c-3bf23877a9d094323eee0620866ef0c9]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bf23877a9d094323eee0620866ef0c9]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/ukpga/2004/35/section/80A) inserted (1.10.2021 except for the insertion of s. 80A(2)(a)(iv)(c)(vi), 1.8.2022 insofar as it inserts s. 80A(2)(c)(vi)) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 113](https://www.legislation.gov.uk/ukpga/2021/1/section/113), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(g)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/g) (with [reg. 6](https://www.legislation.gov.uk/uksi/2021/950/regulation/6)); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/c)
+[^c-3bf23877a9d094323eee0620866ef0c9]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/ukpga/2004/35/section/80A) inserted (1.10.2021 except for the insertion of s. 80A(2)(a)(iv)(c)(vi), 1.8.2022 insofar as it inserts s. 80A(2)(c)(vi)) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 113](https://www.legislation.gov.uk/ukpga/2021/1/section/113), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(g)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/g) (with [reg. 6](https://www.legislation.gov.uk/uksi/2021/950/regulation/6)); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Surrender of electronic communications devices by jurors[^key-bcf05d5f2ad3770222a297aa79a5d131]
+## 9A. Surrender of electronic communications devices by jurors[^c-bcf05d5f2ad3770222a297aa79a5d131]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcf05d5f2ad3770222a297aa79a5d131]: Textual amendment: Ss. 9A, 9B inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2015/2/schedule/13/paragraph/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)
+[^c-bcf05d5f2ad3770222a297aa79a5d131]: Textual amendment: Ss. 9A, 9B inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2015/2/schedule/13/paragraph/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)

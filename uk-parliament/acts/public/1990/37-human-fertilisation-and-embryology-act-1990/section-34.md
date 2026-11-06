@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where in any proceedings before a court the question whether a person is or is not the parent of a child by virtue of sections 27 to 29 of this Act or sections 33 to 47 of the Human Fertilisation and Embryology Act 2008[^key-4d33d451b24b048e36324fbbeb0d1119] falls to be determined, the court may on the application of any party to the proceedings make an order requiring the Authority—
+(1) Where in any proceedings before a court the question whether a person is or is not the parent of a child by virtue of sections 27 to 29 of this Act or sections 33 to 47 of the Human Fertilisation and Embryology Act 2008[^c-4d33d451b24b048e36324fbbeb0d1119] falls to be determined, the court may on the application of any party to the proceedings make an order requiring the Authority—
 
 - (a) to disclose whether or not any information relevant to that question is contained in the register kept in pursuance of section 31 of this Act, and
 - (b) if it is, to disclose so much of it as is specified in the order,
 
-but such an order may not require the Authority to disclose any information falling within section 31(2)(c) to (e)[^key-b6d3e4940141c90a4a007a72e5607e35] of this Act.
+but such an order may not require the Authority to disclose any information falling within section 31(2)(c) to (e)[^c-b6d3e4940141c90a4a007a72e5607e35] of this Act.
 
 (2) The court must not make an order under subsection (1) above unless it is satisfied that the interests of justice require it to do so, taking into account—
 
@@ -43,6 +43,6 @@ but such an order may not require the Authority to disclose any information fall
 
 [^c271679]: Commencement: S. 34 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-4d33d451b24b048e36324fbbeb0d1119]: Textual amendment: Words in s. 34 inserted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/34); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(d)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7) [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-4d33d451b24b048e36324fbbeb0d1119]: Textual amendment: Words in s. 34 inserted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/34); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(d)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7) [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
-[^key-b6d3e4940141c90a4a007a72e5607e35]: Textual amendment: Words in s. 34 substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/12); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-b6d3e4940141c90a4a007a72e5607e35]: Textual amendment: Words in s. 34 substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/12); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)

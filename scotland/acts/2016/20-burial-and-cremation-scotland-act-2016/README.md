@@ -102,7 +102,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 43 — Register of restored lairs: offence](part-1/section-43.md)
 - [Section 44 — Guidance](part-1/section-44.md)
 
-### PART 2 — Cremation[^key-0627f6134b94e11299941bbbcaad5585]
+### PART 2 — Cremation[^c-0627f6134b94e11299941bbbcaad5585]
 
 #### Cremation
 
@@ -233,4 +233,4 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-0627f6134b94e11299941bbbcaad5585]: Modification: [Pt. 2](https://www.legislation.gov.uk/asp/2016/20/part/2) applied (with modifications) (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [2](https://www.legislation.gov.uk/ssi/2026/50/regulation/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/50/schedule/1)
+[^c-0627f6134b94e11299941bbbcaad5585]: Modification: [Pt. 2](https://www.legislation.gov.uk/asp/2016/20/part/2) applied (with modifications) (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [2](https://www.legislation.gov.uk/ssi/2026/50/regulation/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/50/schedule/1)

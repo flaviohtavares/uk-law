@@ -25,7 +25,7 @@ summary: ''
 - (a) that a miscarriage of justice may have occurred; and
 - (b) that it is in the interests of justice that a reference should be made.
 
-(2)[^key-28dec485dda6eb63b3c5b15fca606183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-28dec485dda6eb63b3c5b15fca606183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c20916331]: Textual amendment: S. 194C renumbered as s. 194C(1) (30.10.2010) by [Criminal Procedure (Legal Assistance, Detention and Appeals) (Scotland) Act 2010 (asp 15)](https://www.legislation.gov.uk/asp/2010/15), [ss. 7(3)(a)](https://www.legislation.gov.uk/asp/2010/15/section/7/3/a), [9](https://www.legislation.gov.uk/asp/2010/15/section/9)
 
-[^key-28dec485dda6eb63b3c5b15fca606183]: Textual amendment: S. 194C(2) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 96(4)](https://www.legislation.gov.uk/asp/2016/1/section/96/4), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-28dec485dda6eb63b3c5b15fca606183]: Textual amendment: S. 194C(2) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 96(4)](https://www.legislation.gov.uk/asp/2016/1/section/96/4), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

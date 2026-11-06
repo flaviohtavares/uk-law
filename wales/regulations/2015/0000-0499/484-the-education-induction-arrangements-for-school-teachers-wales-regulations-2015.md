@@ -65,7 +65,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 17,
 - “**the 2002 Act**” (“***Deddf 2002***”) means the Education Act 2002 [^c22439911];
 - “**the 1999 Regulations**” (“***Rheoliadau 1999***”) means the Education (Teachers' Qualifications and Health Standards) (Wales) Regulations 1999 [^c22439921];
 - “**the 2014 Act**” (“***Deddf 2014***”) means the Education (Wales) Act 2014;
-- “[^key-5c8f33c50d1c90bb12fecdf92d90fba6]**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+- “[^c-5c8f33c50d1c90bb12fecdf92d90fba6]**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
 - “**appropriate body**” (“***corff priodol***”) means the appropriate body under regulation 5;
 - “**authority**” (“***awdurdod***”) means a local authority in Wales;
 - “**the Council**” (“***y Cyngor***”) means the Education Workforce Council;
@@ -73,15 +73,15 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 17,
 - “**employment-based teacher training scheme**” (“***cynllun hyfforddi athrawon ar sail**cyflogaeth***”) means a scheme established by the Welsh Ministers under regulation 8 of the School Teachers' Qualifications Regulations;
 - “**England's Induction Regulations**” (“***Rheoliadau Sefydlu Lloegr***”) means regulations made from time to time under section 135A of the 2002 Act [^c22439931] in relation to teachers in England;
 - “**FE college**” (“***coleg AB***”) means an institution within the further education sector as defined in section 91(3) of the Further and Higher Education Act 1992 [^c22439941];
-- “**governing body**” (“***corff llywodraethu***”) in relation to an FE college has the same meaning as in section 90(1) of the Further and Higher Education Act 1992 and in relation to a relevant school which is a pupil referral unit, includes the management committee of the pupil referral unit (if there is one)[^key-b42b860b366a66543b4e2daa918e369b];
+- “**governing body**” (“***corff llywodraethu***”) in relation to an FE college has the same meaning as in section 90(1) of the Further and Higher Education Act 1992 and in relation to a relevant school which is a pupil referral unit, includes the management committee of the pupil referral unit (if there is one)[^c-b42b860b366a66543b4e2daa918e369b];
 - “**graduate teacher**” (“***athro neu athrawes raddedig***”) means a person who was granted an authorisation to teach in accordance with paragraphs 5 to 11 of Schedule 2 to the 1999 Regulations before 1 September 2004;
-- “**head teacher**” (“***pennaeth***”) includes the principal of an FE college and the teacher in charge of a pupil referral unit[^key-1a862cf13157a6c21fe2d1e9596da2cb];
+- “**head teacher**” (“***pennaeth***”) includes the principal of an FE college and the teacher in charge of a pupil referral unit[^c-1a862cf13157a6c21fe2d1e9596da2cb];
 - “**induction period**” (“***cyfnod sefydlu***”) means an induction period required by these Regulations;
 - “institution (“*sefydliad*”) means a relevant school, an independent school or an FE college in which an induction period may be served under these Regulations, as the context requires;
-- [^key-c0cf2061257b47fc2b73303b7252be3b]...
+- [^c-c0cf2061257b47fc2b73303b7252be3b]...
 - “**non-maintained special school**” (“***ysgol arbennig nas cynhelir***”) means a special school which is neither a community special school nor a foundation special school;
 - “**pupil**” (“***disgybl***”) has the meaning given to it in section 3 of the Education Act 1996;
-- “[^key-5453e80178eb8e998d7aabbad1320961]**pupil referral unit**” (“***uned cyfeirio disgyblion***”) has the same meaning as in section 19A(2) of the Education Act 1996;
+- “[^c-5453e80178eb8e998d7aabbad1320961]**pupil referral unit**” (“***uned cyfeirio disgyblion***”) has the same meaning as in section 19A(2) of the Education Act 1996;
 - “**qualified teacher**” (“***athro neu athrawes gymwysedig***”) means a person who satisfies requirements specified in regulations made under section 132 of the 2002 Act;
 - “**reception year**” (“***blwyddyn derbyn***”) means a year group in which the majority of the pupils attain the age of 5;
 - “**registered teacher**” (“***athro neu athrawes gofrestredig***”) means a person who was granted an authorisation to teach in accordance with paragraphs 12 to 18 of Schedule 2 to the 1999 Regulations before 1 September 2004;
@@ -91,9 +91,9 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 17,
 - “the School Teachers' Qualifications Regulations” (“*Rheoliadau Cymwysterau Athrawon Ysgol*”) means the Education (School Teachers' Qualifications) (Wales) Regulations 2012 [^c22439961];
 - “**school term**” (“***tymor ysgol***”) includes a term of an FE college;
 - “**school year**” (“***blwyddyn ysgol***”) includes the academic year of an FE college;
-- “**special school**” (“***ysgol arbennig***”) has the same meaning as in section 337[^key-0af25c89013c3c937ddf1542323ab896] of the Education Act 1996 [^c22439971];
+- “**special school**” (“***ysgol arbennig***”) has the same meaning as in section 337[^c-0af25c89013c3c937ddf1542323ab896] of the Education Act 1996 [^c22439971];
 - “**supply teacher**” (“***athro neu athrawes gyflenwi***”) means a teacher employed wholly or mainly for the purpose of supervising or teaching pupils whose regular teacher is not available to teach them;
-- “**working day**” (“***diwrnod gwaith***”) means any day other than a Saturday, a Sunday , Christmas Day, Good Friday[^key-c45b4ed76cbf68eec1d28a85a259cc15] or a day which is a bank holiday in Wales and England[^key-1f6861f81c16f8961be0972ba142486c] within the meaning of the Banking and Financial Dealings Act 1971 [^c22439981].
+- “**working day**” (“***diwrnod gwaith***”) means any day other than a Saturday, a Sunday , Christmas Day, Good Friday[^c-c45b4ed76cbf68eec1d28a85a259cc15] or a day which is a bank holiday in Wales and England[^c-1f6861f81c16f8961be0972ba142486c] within the meaning of the Banking and Financial Dealings Act 1971 [^c22439981].
 - “**year 1**” (“***blwyddyn 1***”) means the year group in which the majority of pupils attain the age of 6;
 - “**year 2**” (“***blwyddyn 2***”) means the year group in which the majority of pupils attain the age of 7;
 - “**year 3**” (“***blwyddyn 3***”) means the year group in which the majority of pupils attain the age of 8;
@@ -110,7 +110,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 17,
 (2) For the purposes of these Regulations a person has completed an induction period when that person has served an induction period of—
 
 - (a) three school terms; or
-- (b) such other length as determined in accordance with regulation 8(4) (comprising only periods of employment which count towards an induction period under regulation 9) or regulation 8(5) (appropriate body determination where standards met)[^key-eabe10e520e269c24479b03940cd3a76]; and
+- (b) such other length as determined in accordance with regulation 8(4) (comprising only periods of employment which count towards an induction period under regulation 9) or regulation 8(5) (appropriate body determination where standards met)[^c-eabe10e520e269c24479b03940cd3a76]; and
 
 where the appropriate body extends the induction period in accordance with regulation 10, the period of that extension.
 
@@ -122,8 +122,8 @@ Failure by any person to discharge any duty within a time limit specified in the
 
 (1) For the purposes of these Regulations—
 
-- (a) the appropriate body in relation to a community, foundation or voluntary school, a community or foundation special school, [^key-6ddbd2c2855dbf42ad01004ad5a57d31]... a maintained nursery school (in each case within the meaning of the 1998 Act) , or a pupil referral unit[^key-a42f76e6ff1c4331cc1a686446a331eb] is the authority maintaining it;
-- (b)[^key-a6e85279c44b27492886b37b3ec7b669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the appropriate body in relation to a community, foundation or voluntary school, a community or foundation special school, [^c-6ddbd2c2855dbf42ad01004ad5a57d31]... a maintained nursery school (in each case within the meaning of the 1998 Act) , or a pupil referral unit[^c-a42f76e6ff1c4331cc1a686446a331eb] is the authority maintaining it;
+- (b)[^c-a6e85279c44b27492886b37b3ec7b669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the appropriate body in relation to an independent school is—
   - (i) an authority, or
   - (ii) such persons or body as the Welsh Ministers may determine, which persons or body must include as a member representative of an authority, and
@@ -135,7 +135,7 @@ Failure by any person to discharge any duty within a time limit specified in the
 
 Subject to the exceptions in Schedule 2, no person is to be employed on or after 1 April 2015 as a teacher at a relevant school unless that person has satisfactorily completed an induction period in accordance with these Regulations.
 
-## 6A. Time limit for satisfactory completion of an induction period[^key-ea7d26c594cd9e6ee72bf7408ec3dc30]
+## 6A. Time limit for satisfactory completion of an induction period[^c-ea7d26c594cd9e6ee72bf7408ec3dc30]
 
 (1) An induction period must be satisfactorily completed within 5 years beginning with the later of the date of award of qualified teacher status or 7 November 2022 (“the time limit”).
 
@@ -175,13 +175,13 @@ Subject to the exceptions in Schedule 2, no person is to be employed on or after
 
 - (a) a school in Wales in respect of which the circumstances described in grounds 6 or 8 in section 2 of the School Standards and Organisation (Wales) Act 2013 [^c22439991] apply, unless—
   - (i) the person in question began their induction period, or was employed as a graduate teacher or a registered teacher or on an employment-based teacher training scheme, at the school at a time when such circumstances did not apply, or
-  - (ii) one of Her Majesty's Inspectors of Education and Training in Wales has certified in writing that they are satisfied that the school is fit for the purpose of providing induction supervision and training, [^key-f1a71f609181112f3628c902aeaf6796]...
-- (b)[^key-f1a71f609181112f3628c902aeaf6796] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) one of Her Majesty's Inspectors of Education and Training in Wales has certified in writing that they are satisfied that the school is fit for the purpose of providing induction supervision and training, [^c-f1a71f609181112f3628c902aeaf6796]...
+- (b)[^c-f1a71f609181112f3628c902aeaf6796] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The circumstances in which a person may serve an induction period in an independent school in Wales are—
 
-- (a)[^key-58d50c80ccc9609fb790d42340d0b7bc] in the case of a person who is employed to teach pupils in years 7 to 11, the curriculum of the school for pupils in those year groups includes all the areas of learning and experience, including the mandatory elements, as defined in section 3 of the 2021 Act, which such person is employed to teach; and
-- (b)[^key-d2edffe7b2ffc3aa922c6b79bd5d5564] in all cases, the curriculum for all registered pupils in their reception year and in years 1 to 6 includes all the areas of learning and experience, including the mandatory elements, as defined in section 3 of the 2021 Act; and
+- (a)[^c-58d50c80ccc9609fb790d42340d0b7bc] in the case of a person who is employed to teach pupils in years 7 to 11, the curriculum of the school for pupils in those year groups includes all the areas of learning and experience, including the mandatory elements, as defined in section 3 of the 2021 Act, which such person is employed to teach; and
+- (b)[^c-d2edffe7b2ffc3aa922c6b79bd5d5564] in all cases, the curriculum for all registered pupils in their reception year and in years 1 to 6 includes all the areas of learning and experience, including the mandatory elements, as defined in section 3 of the 2021 Act; and
 - (c) in all cases, before the start of the induction period the proprietor of the school and either an authority or the persons or body determined by the Welsh Ministers under regulation 5(1)(c) have agreed that the authority or the persons or body, as the case may be, are to act as the appropriate body in relation to the school.
 
 (4) A person may not serve an induction period in an FE college in Wales unless before the start of the induction period the governing body of the college and an authority have agreed that the authority are to act as the appropriate body in relation to the college.
@@ -190,7 +190,7 @@ Subject to the exceptions in Schedule 2, no person is to be employed on or after
 
 (6) In this regulation, “**induction period**” (“***cyfnod sefydlu***”) includes a part of an induction period.
 
-## 7A. Professional learning that may count towards an induction period[^key-d34398e9846e216c2074df60b95f4bf4]
+## 7A. Professional learning that may count towards an induction period[^c-d34398e9846e216c2074df60b95f4bf4]
 
 A session of professional learning undertaken by a person may count towards that person’s induction period where that session of professional learning is—
 
@@ -200,7 +200,7 @@ A session of professional learning undertaken by a person may count towards that
 
 ## 8. Length of an induction period
 
-(1) Subject to paragraphs (3), (4) and (8)[^key-ae74a4bf14dbb625384fc5b8b0bb4a89] and (5)[^key-6d8be36d194155a54c0f9fbd9aa03f18], the length of an induction period is to be three school terms (“the three term rule”).
+(1) Subject to paragraphs (3), (4) and (8)[^c-ae74a4bf14dbb625384fc5b8b0bb4a89] and (5)[^c-6d8be36d194155a54c0f9fbd9aa03f18], the length of an induction period is to be three school terms (“the three term rule”).
 
 (2) For the purpose of calculating the induction period a school term may be either one school term or two half school terms which (disregarding holidays) are consecutive.
 
@@ -209,23 +209,23 @@ A session of professional learning undertaken by a person may count towards that
 - (a) where an induction period is served at an institution at which a school year does not consist of three school terms;
 - (b) where an induction period is served by a person in part time service;
 - (c) where an induction period is served in two or more institutions simultaneously;
-- (d) where any periods of employment counting towards an induction period consist of a period of less than one school term; [^key-fa67d7049a13fc3cb97ce20f6ae67b79]...
-- (e) where in the opinion of the appropriate body it is not appropriate that it applies ; or[^key-b708bf087807c02fbeff1c476179b2ce]
-- (f)[^key-2d63534cbafd269506bc14a9706333f8] where paragraph (5) applies.
-- (f)[^key-9e1ed5376cef8b650672a0a55fae4a12] where paragraph (8) applies.
+- (d) where any periods of employment counting towards an induction period consist of a period of less than one school term; [^c-fa67d7049a13fc3cb97ce20f6ae67b79]...
+- (e) where in the opinion of the appropriate body it is not appropriate that it applies ; or[^c-b708bf087807c02fbeff1c476179b2ce]
+- (f)[^c-2d63534cbafd269506bc14a9706333f8] where paragraph (5) applies.
+- (f)[^c-9e1ed5376cef8b650672a0a55fae4a12] where paragraph (8) applies.
 
 (4) The length of an induction period where the three term rule does not apply—
 
 - (a) is 380 school sessions where paragraph (3)(d) applies; and
-- (b) where paragraph (3)(a), (b), (c) or (e) applies[^key-0f1ec6c3a915f894f3cb5fba1852c0b2], is such length as the appropriate body determines provided that this period is not less than the equivalent of 380 school sessions or 3 school terms.
+- (b) where paragraph (3)(a), (b), (c) or (e) applies[^c-0f1ec6c3a915f894f3cb5fba1852c0b2], is such length as the appropriate body determines provided that this period is not less than the equivalent of 380 school sessions or 3 school terms.
 
-(5)[^key-5815f0e37c07bbaa42ac6d33931c41db] The appropriate body may, with the consent of the person concerned, reduce the length of an induction period which the person is required to serve to a minimum of 110 school sessions if the appropriate body is satisfied that the person has achieved the standards mentioned in section 18 of the 2014 Act.
+(5)[^c-5815f0e37c07bbaa42ac6d33931c41db] The appropriate body may, with the consent of the person concerned, reduce the length of an induction period which the person is required to serve to a minimum of 110 school sessions if the appropriate body is satisfied that the person has achieved the standards mentioned in section 18 of the 2014 Act.
 
 (6) In paragraphs (4) and (5) a “school session” may include a session of professional learning that satisfies the conditions of regulation 7A.
 
 (7) The sessions of professional learning that may count as school sessions must not exceed 16% of the total length of an induction period.
 
-(8)[^key-e4abcf3acc25d5c3a79703e07ae47b03] The appropriate body may, with the consent of the person concerned, reduce the length of the induction period which the person is required to serve to a minimum of one school term or 110 school sessions if the appropriate body is satisfied that the person has achieved the standards mentioned in section 18 of the 2014 Act.
+(8)[^c-e4abcf3acc25d5c3a79703e07ae47b03] The appropriate body may, with the consent of the person concerned, reduce the length of the induction period which the person is required to serve to a minimum of one school term or 110 school sessions if the appropriate body is satisfied that the person has achieved the standards mentioned in section 18 of the 2014 Act.
 
 ## 9. Periods of employment counting towards an induction period
 
@@ -267,7 +267,7 @@ Except as provided for in regulation 13 or 16, no person may serve more than one
 
 - (a) at the completion of the induction period, that person is employed at an institution in Wales; or
 - (b) at the completion of an induction period served in two or more institutions simultaneously, the lead head teacher's institution is in Wales.
-- (c)[^key-67d87a7d88d9b1386534792f2089e2fd] at the completion of the induction period, that person has undertaken a session of professional learning referred to in regulation 7A.
+- (c)[^c-67d87a7d88d9b1386534792f2089e2fd] at the completion of the induction period, that person has undertaken a session of professional learning referred to in regulation 7A.
 
 (2) Within the period of twenty working days beginning with the date on which the induction period was completed, the appropriate body must decide whether the person who has completed an induction period—
 
@@ -277,7 +277,7 @@ Except as provided for in regulation 13 or 16, no person may serve more than one
 
 (3) The appropriate body must have regard to any written representation received from the person concerned before making a decision under paragraph (2).
 
-(4) The appropriate body must within the period of 10[^key-aba6827d2f15cc47d38a0c96e14ec5d1] working days beginning with the date on which it made a decision under paragraph (2)—
+(4) The appropriate body must within the period of 10[^c-aba6827d2f15cc47d38a0c96e14ec5d1] working days beginning with the date on which it made a decision under paragraph (2)—
 
 - (a) send written notice of its decision to—
   - (i) the person concerned,
@@ -388,7 +388,7 @@ Regulation 6
 - (a) who has successfully completed the induction stage of teacher education in Northern Ireland; or
 - (b) was employed as a teacher in Northern Ireland at any time prior to the introduction of the induction stage of teacher training in Northern Ireland.
 
-**8.**[^key-ce0cded3380eac86ce43722467af0956] A person who is a qualified teacher who became so qualified by virtue of regulation 5 of, and paragraph 4, 4A or 4B[^key-088b2022c1eb70b6b33af0137eb8d1bb] of Schedule 2 to, the School Teachers' Qualifications Regulations.
+**8.**[^c-ce0cded3380eac86ce43722467af0956] A person who is a qualified teacher who became so qualified by virtue of regulation 5 of, and paragraph 4, 4A or 4B[^c-088b2022c1eb70b6b33af0137eb8d1bb] of Schedule 2 to, the School Teachers' Qualifications Regulations.
 
 **9.** A person who has successfully completed a probationary period for teachers under arrangements approved and supervised by the Director of Education of Gibraltar.
 
@@ -661,76 +661,76 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22439921]: Marginal citation: [S.I. 1999/2817](https://www.legislation.gov.uk/uksi/1999/2817) as amended by [S.I. 2002/1663](https://www.legislation.gov.uk/uksi/2002/1663) (W. 158), [S.I. 2002/2938](https://www.legislation.gov.uk/uksi/2002/2938) (W. 279), [S.I. 2003/140](https://www.legislation.gov.uk/uksi/2003/140) (W. 12), [S.I. 2004/1729](https://www.legislation.gov.uk/uksi/2004/1729) (W. 173), [S.I. 2004/1744](https://www.legislation.gov.uk/uksi/2004/1744) (W. 183), [S.I. 2004/2733](https://www.legislation.gov.uk/uksi/2004/2733) (W. 240), [S.I. 2006/873](https://www.legislation.gov.uk/uksi/2006/873) (W. 81), [S.I. 2010/1142](https://www.legislation.gov.uk/uksi/2010/1142) (W. 101) and [S.I. 2012/724](https://www.legislation.gov.uk/uksi/2012/724) (W. 96).
 
-[^key-5c8f33c50d1c90bb12fecdf92d90fba6]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (with effect in accordance with reg. 10(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/3/b)
+[^c-5c8f33c50d1c90bb12fecdf92d90fba6]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (with effect in accordance with reg. 10(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/3/b)
 
 [^c22439931]: Marginal citation: Section 135A of the Education Act 2002 was inserted by section 9 of the [Education Act 2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
 [^c22439941]: Marginal citation: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-b42b860b366a66543b4e2daa918e369b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/a)
+[^c-b42b860b366a66543b4e2daa918e369b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/a)
 
-[^key-1a862cf13157a6c21fe2d1e9596da2cb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/b)
+[^c-1a862cf13157a6c21fe2d1e9596da2cb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/b)
 
-[^key-c0cf2061257b47fc2b73303b7252be3b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) omitted (with effect in accordance with reg. 10(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/3/a)
+[^c-c0cf2061257b47fc2b73303b7252be3b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) omitted (with effect in accordance with reg. 10(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/3/a)
 
-[^key-5453e80178eb8e998d7aabbad1320961]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(d)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/d)
+[^c-5453e80178eb8e998d7aabbad1320961]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(d)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/d)
 
 [^c22439951]: Marginal citation: [S.I. 2003/3231](https://www.legislation.gov.uk/uksi/2003/3231) (W. 311) as amended by [S.I. 2006/1262](https://www.legislation.gov.uk/uksi/2006/1262) (W. 119), [S.I. 2008/1739](https://www.legislation.gov.uk/uksi/2008/1739) (W. 171), [S.I. 2011/149](https://www.legislation.gov.uk/uksi/2011/149) (W. 33) and [S.I. 2012/248](https://www.legislation.gov.uk/uksi/2012/248) (W. 41).
 
 [^c22439961]: Marginal citation: [S.I. 2012/724](https://www.legislation.gov.uk/uksi/2012/724) (W. 96).
 
-[^key-0af25c89013c3c937ddf1542323ab896]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) substituted (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (S.I. 2021/933)](https://www.legislation.gov.uk/wsi/2021/933), [regs. 1](https://www.legislation.gov.uk/wsi/2021/933/regulation/1), [5(2)](https://www.legislation.gov.uk/wsi/2021/933/regulation/5/2)
+[^c-0af25c89013c3c937ddf1542323ab896]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) substituted (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (S.I. 2021/933)](https://www.legislation.gov.uk/wsi/2021/933), [regs. 1](https://www.legislation.gov.uk/wsi/2021/933/regulation/1), [5(2)](https://www.legislation.gov.uk/wsi/2021/933/regulation/5/2)
 
 [^c22439971]: Marginal citation: 1996\. c.56.
 
-[^key-c45b4ed76cbf68eec1d28a85a259cc15]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(c)(i)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/c/i)
+[^c-c45b4ed76cbf68eec1d28a85a259cc15]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(c)(i)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/c/i)
 
-[^key-1f6861f81c16f8961be0972ba142486c]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(c)(ii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/c/ii)
+[^c-1f6861f81c16f8961be0972ba142486c]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(c)(ii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/c/ii)
 
 [^c22439981]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-eabe10e520e269c24479b03940cd3a76]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/2/b) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2020/623/regulation/6) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+[^c-eabe10e520e269c24479b03940cd3a76]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/2/b) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2020/623/regulation/6) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
 
-[^key-6ddbd2c2855dbf42ad01004ad5a57d31]: Textual amendment: Word in [reg. 5(1)(a)](https://www.legislation.gov.uk/wsi/2015/484/regulation/5/1/a) omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/4/a/i)
+[^c-6ddbd2c2855dbf42ad01004ad5a57d31]: Textual amendment: Word in [reg. 5(1)(a)](https://www.legislation.gov.uk/wsi/2015/484/regulation/5/1/a) omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/4/a/i)
 
-[^key-a42f76e6ff1c4331cc1a686446a331eb]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/wsi/2015/484/regulation/5/1/a) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/4/a/ii)
+[^c-a42f76e6ff1c4331cc1a686446a331eb]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/wsi/2015/484/regulation/5/1/a) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/4/a/ii)
 
-[^key-a6e85279c44b27492886b37b3ec7b669]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/5/1/b) omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [4(b)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/4/b)
+[^c-a6e85279c44b27492886b37b3ec7b669]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/5/1/b) omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [4(b)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/4/b)
 
-[^key-ea7d26c594cd9e6ee72bf7408ec3dc30]: Textual amendment: [Regs. 6A](https://www.legislation.gov.uk/wsi/2015/484/regulation/6A), [6B](https://www.legislation.gov.uk/wsi/2015/484/regulation/6B) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [5](https://www.legislation.gov.uk/wsi/2022/1058/regulation/5)
+[^c-ea7d26c594cd9e6ee72bf7408ec3dc30]: Textual amendment: [Regs. 6A](https://www.legislation.gov.uk/wsi/2015/484/regulation/6A), [6B](https://www.legislation.gov.uk/wsi/2015/484/regulation/6B) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [5](https://www.legislation.gov.uk/wsi/2022/1058/regulation/5)
 
 [^c22439991]: Marginal citation: [2013 anaw 1](https://www.legislation.gov.uk/anaw/2013/1).
 
-[^key-f1a71f609181112f3628c902aeaf6796]: Textual amendment: [Reg. 7(2)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/7/2/b) and word omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [6](https://www.legislation.gov.uk/wsi/2022/1058/regulation/6)
+[^c-f1a71f609181112f3628c902aeaf6796]: Textual amendment: [Reg. 7(2)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/7/2/b) and word omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [6](https://www.legislation.gov.uk/wsi/2022/1058/regulation/6)
 
-[^key-58d50c80ccc9609fb790d42340d0b7bc]: Textual amendment: [Reg. 7(3)(a)](https://www.legislation.gov.uk/wsi/2015/484/regulation/7/3/a) substituted (with effect in accordance with reg. 10(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/4/a)
+[^c-58d50c80ccc9609fb790d42340d0b7bc]: Textual amendment: [Reg. 7(3)(a)](https://www.legislation.gov.uk/wsi/2015/484/regulation/7/3/a) substituted (with effect in accordance with reg. 10(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/4/a)
 
-[^key-d2edffe7b2ffc3aa922c6b79bd5d5564]: Textual amendment: [Reg. 7(3)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/7/3/b) substituted (with effect in accordance with reg. 10(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/4/b)
+[^c-d2edffe7b2ffc3aa922c6b79bd5d5564]: Textual amendment: [Reg. 7(3)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/7/3/b) substituted (with effect in accordance with reg. 10(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/4/b)
 
-[^key-d34398e9846e216c2074df60b95f4bf4]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/wsi/2015/484/regulation/7A) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2020/623/regulation/7) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+[^c-d34398e9846e216c2074df60b95f4bf4]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/wsi/2015/484/regulation/7A) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2020/623/regulation/7) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
 
-[^key-ae74a4bf14dbb625384fc5b8b0bb4a89]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/1) substituted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(a)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/a)
+[^c-ae74a4bf14dbb625384fc5b8b0bb4a89]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/1) substituted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(a)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/a)
 
-[^key-6d8be36d194155a54c0f9fbd9aa03f18]: Textual amendment: Words in reg. 8(1) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2020/623/regulation/8/a) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+[^c-6d8be36d194155a54c0f9fbd9aa03f18]: Textual amendment: Words in reg. 8(1) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2020/623/regulation/8/a) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
 
-[^key-fa67d7049a13fc3cb97ce20f6ae67b79]: Textual amendment: Word in [reg. 8(3)(d)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/3/d) omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/b/i)
+[^c-fa67d7049a13fc3cb97ce20f6ae67b79]: Textual amendment: Word in [reg. 8(3)(d)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/3/d) omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/b/i)
 
-[^key-b708bf087807c02fbeff1c476179b2ce]: Textual amendment: Word in [reg. 8(3)(e)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/3/e) substituted for full stop (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/b/ii)
+[^c-b708bf087807c02fbeff1c476179b2ce]: Textual amendment: Word in [reg. 8(3)(e)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/3/e) substituted for full stop (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/b/ii)
 
-[^key-2d63534cbafd269506bc14a9706333f8]: Textual amendment: Reg. 8(3)(f) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2020/623/regulation/8/b) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+[^c-2d63534cbafd269506bc14a9706333f8]: Textual amendment: Reg. 8(3)(f) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2020/623/regulation/8/b) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
 
-[^key-9e1ed5376cef8b650672a0a55fae4a12]: Textual amendment: [Reg. 8(3)(f)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/3/f) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(b)(iii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/b/iii)
+[^c-9e1ed5376cef8b650672a0a55fae4a12]: Textual amendment: [Reg. 8(3)(f)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/3/f) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(b)(iii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/b/iii)
 
-[^key-0f1ec6c3a915f894f3cb5fba1852c0b2]: Textual amendment: Words in [reg. 8(4)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/4/b) substituted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(c)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/c)
+[^c-0f1ec6c3a915f894f3cb5fba1852c0b2]: Textual amendment: Words in [reg. 8(4)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/4/b) substituted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(c)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/c)
 
-[^key-5815f0e37c07bbaa42ac6d33931c41db]: Textual amendment: Reg. 8(5)-(7) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [8(d)](https://www.legislation.gov.uk/wsi/2020/623/regulation/8/d) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+[^c-5815f0e37c07bbaa42ac6d33931c41db]: Textual amendment: Reg. 8(5)-(7) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [8(d)](https://www.legislation.gov.uk/wsi/2020/623/regulation/8/d) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
 
-[^key-e4abcf3acc25d5c3a79703e07ae47b03]: Textual amendment: [Reg. 8(8)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/8) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(d)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/d)
+[^c-e4abcf3acc25d5c3a79703e07ae47b03]: Textual amendment: [Reg. 8(8)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/8) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(d)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/d)
 
-[^key-67d87a7d88d9b1386534792f2089e2fd]: Textual amendment: [Reg. 13(1)(c)](https://www.legislation.gov.uk/wsi/2015/484/regulation/13/1/c) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [9(a)](https://www.legislation.gov.uk/wsi/2020/623/regulation/9/a) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+[^c-67d87a7d88d9b1386534792f2089e2fd]: Textual amendment: [Reg. 13(1)(c)](https://www.legislation.gov.uk/wsi/2015/484/regulation/13/1/c) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [9(a)](https://www.legislation.gov.uk/wsi/2020/623/regulation/9/a) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
 
-[^key-aba6827d2f15cc47d38a0c96e14ec5d1]: Textual amendment: Word in [reg. 13(4)](https://www.legislation.gov.uk/wsi/2015/484/regulation/13/4) substituted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [8](https://www.legislation.gov.uk/wsi/2022/1058/regulation/8)
+[^c-aba6827d2f15cc47d38a0c96e14ec5d1]: Textual amendment: Word in [reg. 13(4)](https://www.legislation.gov.uk/wsi/2015/484/regulation/13/4) substituted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [8](https://www.legislation.gov.uk/wsi/2022/1058/regulation/8)
 
-[^key-ce0cded3380eac86ce43722467af0956]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2015/484/schedule/2/paragraph/8) substituted (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce0cded3380eac86ce43722467af0956]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2015/484/schedule/2/paragraph/8) substituted (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-088b2022c1eb70b6b33af0137eb8d1bb]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2015/484/schedule/2/paragraph/8) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/2/2)
+[^c-088b2022c1eb70b6b33af0137eb8d1bb]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2015/484/schedule/2/paragraph/8) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/2/2)

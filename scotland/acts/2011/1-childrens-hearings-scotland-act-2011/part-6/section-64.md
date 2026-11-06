@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Provision of information by other persons[^key-1c240d867a10ce4bbe5f2c500848ee47]
+## 64. Provision of information by other persons[^c-1c240d867a10ce4bbe5f2c500848ee47]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c240d867a10ce4bbe5f2c500848ee47]: Commencement: S. 64 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-1c240d867a10ce4bbe5f2c500848ee47]: Commencement: S. 64 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

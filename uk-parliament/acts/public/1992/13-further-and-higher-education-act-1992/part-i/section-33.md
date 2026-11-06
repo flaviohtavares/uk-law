@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Provisions supplementary to section 32.[^key-f8eab7e0d54418813a8fdb650aed6ddd]
+## 33. Provisions supplementary to section 32.[^c-f8eab7e0d54418813a8fdb650aed6ddd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8eab7e0d54418813a8fdb650aed6ddd]: Textual amendment: S. 33 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/3)
+[^c-f8eab7e0d54418813a8fdb650aed6ddd]: Textual amendment: S. 33 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/3)

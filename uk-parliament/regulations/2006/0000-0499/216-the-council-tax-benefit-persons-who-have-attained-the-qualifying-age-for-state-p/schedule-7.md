@@ -41,7 +41,7 @@ Regulation 61(1)
 
 that notice shall, subject to paragraph 6, contain a statement only as to all the matters revised.
 
-### PART 2 — Awards where state pension credit or an extended payment (qualifying contributory benefits) is payable[^key-5af2bc4d18408660dc8b1d3506e24afa]
+### PART 2 — Awards where state pension credit or an extended payment (qualifying contributory benefits) is payable[^c-5af2bc4d18408660dc8b1d3506e24afa]
 
 **9.** (1) Where a person on state pension credit is awarded council tax benefit, the decision notice shall include a statement as to—
 
@@ -56,12 +56,12 @@ and in any case where the amount to which sub-paragraph (a) or (b) refers disreg
 (2) In a case where a person on state pension credit has entitlement only to the savings credit, the following additional matters shall also be set out—
 
 - (a) the applicable amount and the basis of calculation;
-- (b) the amount of the savings credit [^key-246bb9b8f2e7fc9a087ab6d55e207a09]... taken into account;
+- (b) the amount of the savings credit [^c-246bb9b8f2e7fc9a087ab6d55e207a09]... taken into account;
 - (c) the amount of the person's income and capital as notified to the local authority by the Secretary of State and taken into account for the purposes of the council tax benefit assessment;
 - (d) any modification of the claimant's income or capital made in accordance with regulation 17 (calculation of claimant's income in savings credit only cases); and
 - (e) the amount of the claimant's capital if paragraph (7) of regulation 17 applies in his case.
 
-(3)[^key-3ff67d630ffa1d3df4dfe6c43dedca46] Where a claimant is entitled to an extended payment (qualifying contributory benefits) in accordance with regulation 44, the decision notice shall include a statement as to the matters set out in paragraph 9(1).
+(3)[^c-3ff67d630ffa1d3df4dfe6c43dedca46] Where a claimant is entitled to an extended payment (qualifying contributory benefits) in accordance with regulation 44, the decision notice shall include a statement as to the matters set out in paragraph 9(1).
 
 ### PART 3 — Awards of council tax benefit where state pension credit not in payment
 
@@ -97,7 +97,7 @@ and in any case where the amount to which sub-paragraph (a) or (b) refers disreg
 - (b) the normal weekly amount of the alternative maximum council tax benefit, which amount may be rounded to the nearest penny;
 - (c) the gross income or incomes and the rate of benefit which apply under Schedule 6;
 - (d) the first day of entitlement to benefit;
-- (e) the gross income of any second adult used to determine the rate of the alternative maximum council tax benefit or if any such adult is on income support, state pension credit, an income-based jobseeker's allowance or an income-related employment and support allowance[^key-d074afd80d938fd3c92fb469759639e9];
+- (e) the gross income of any second adult used to determine the rate of the alternative maximum council tax benefit or if any such adult is on income support, state pension credit, an income-based jobseeker's allowance or an income-related employment and support allowance[^c-d074afd80d938fd3c92fb469759639e9];
 - (f) the claimant's duty to notify any change of circumstances which might affect his entitlement to, or the amount of the alternative maximum council tax benefit and, without prejudice to the extent of the duty owed under regulation 59 (duty to notify changes of circumstances) the kind of change of circumstances which are to be notified, either upon the notice or by reference to some other document available to the claimant free of charge on application,
 
 and in any case where the amount to which sub-paragraph (a) or (b) refers disregards fractions of a penny, the notice shall include a statement to that effect.
@@ -137,10 +137,10 @@ and in any case where the amount to which sub-paragraph (a) refers disregards fr
 
 [^c1541678]: Marginal citation: Amended by [S.I. 2002/1379](https://www.legislation.gov.uk/uksi/2002/1379).
 
-[^key-5af2bc4d18408660dc8b1d3506e24afa]: Textual amendment: Words in [Sch. 7 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/2006/216/schedule/7/part/2/paragraph/9) heading inserted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [11(6)(a)](https://www.legislation.gov.uk/uksi/2008/959/regulation/11/6/a)
+[^c-5af2bc4d18408660dc8b1d3506e24afa]: Textual amendment: Words in [Sch. 7 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/2006/216/schedule/7/part/2/paragraph/9) heading inserted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [11(6)(a)](https://www.legislation.gov.uk/uksi/2008/959/regulation/11/6/a)
 
-[^key-246bb9b8f2e7fc9a087ab6d55e207a09]: Textual amendment: Words in Sch. 7 para. 9(2)(b) omitted by SI 2005/2502 reg. 3(15) (as amended) (6.3.2006) by virtue of [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 27(31)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/27/31) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-246bb9b8f2e7fc9a087ab6d55e207a09]: Textual amendment: Words in Sch. 7 para. 9(2)(b) omitted by SI 2005/2502 reg. 3(15) (as amended) (6.3.2006) by virtue of [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 27(31)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/27/31) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-3ff67d630ffa1d3df4dfe6c43dedca46]: Textual amendment: [Sch. 7 Pt. 2 para. 9(3)](https://www.legislation.gov.uk/uksi/2006/216/schedule/7/part/2/paragraph/9/3) added (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [11(6)(b)](https://www.legislation.gov.uk/uksi/2008/959/regulation/11/6/b)
+[^c-3ff67d630ffa1d3df4dfe6c43dedca46]: Textual amendment: [Sch. 7 Pt. 2 para. 9(3)](https://www.legislation.gov.uk/uksi/2006/216/schedule/7/part/2/paragraph/9/3) added (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [11(6)(b)](https://www.legislation.gov.uk/uksi/2008/959/regulation/11/6/b)
 
-[^key-d074afd80d938fd3c92fb469759639e9]: Textual amendment: Words in [Sch. 7 para. 13(e)](https://www.legislation.gov.uk/uksi/2006/216/schedule/7/paragraph/13/e) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [81](https://www.legislation.gov.uk/uksi/2008/1082/regulation/81)
+[^c-d074afd80d938fd3c92fb469759639e9]: Textual amendment: Words in [Sch. 7 para. 13(e)](https://www.legislation.gov.uk/uksi/2006/216/schedule/7/paragraph/13/e) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [81](https://www.legislation.gov.uk/uksi/2008/1082/regulation/81)

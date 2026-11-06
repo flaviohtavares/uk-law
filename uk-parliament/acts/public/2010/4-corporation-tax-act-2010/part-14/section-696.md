@@ -34,7 +34,7 @@ do not include relevant non-trading debits so far as the amount of those debits 
 (4) In subsection (3) “**the modified total profits of the accounting period**” means the total profits of that period—
 
 - (a) less, if that period is the period in which the relevant gain accrues or arises, an amount equal to so much of those profits as represents the relevant gain, and
-- (b) after deducting any amounts which can be relieved against the profits, other than an amount falling to be deducted under section 461 or 463B(1)(a)[^key-2e5aef4be9adbe35242426ff5718c095] of CTA 2009 (claim to set off deficit against other profits for the deficit period).
+- (b) after deducting any amounts which can be relieved against the profits, other than an amount falling to be deducted under section 461 or 463B(1)(a)[^c-2e5aef4be9adbe35242426ff5718c095] of CTA 2009 (claim to set off deficit against other profits for the deficit period).
 
 (5) If, as a result of subsection (3), a debit is to any extent not brought into account for an accounting period, that debit may (to that extent) be brought into account for the next accounting period, but this is subject to the application of subsections (3) and (4) to that next accounting period.
 
@@ -42,4 +42,4 @@ do not include relevant non-trading debits so far as the amount of those debits 
 
 ## Annotations
 
-[^key-2e5aef4be9adbe35242426ff5718c095]: Textual amendment: Words in [s. 696(4)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/696/4/b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 85](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/85)
+[^c-2e5aef4be9adbe35242426ff5718c095]: Textual amendment: Words in [s. 696(4)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/696/4/b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 85](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/85)

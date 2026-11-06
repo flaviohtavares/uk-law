@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 
-## SCHEDULE 3A — AMOUNT TO BE ALLOWED IN RESPECT OF TRANSFER OF PROPERTY[^key-863e492e5948a5ec62371d22003c815a]
+## SCHEDULE 3A — AMOUNT TO BE ALLOWED IN RESPECT OF TRANSFER OF PROPERTY[^c-863e492e5948a5ec62371d22003c815a]
 
 Regulations 9(1)(bb)
 
@@ -32,11 +32,11 @@ Regulations 9(1)(bb)
   - (d) any policy of insurance which has been obtained and retained for the purpose of providing a capital sum to discharge a mortgage or charge secured upon an estate or interest in land which is also the subject of the transfer (in this schedule referred to as an endowment policy);
 - “qualifying transfer” means a transfer of property—
   - (a) which was made in pursuance of a court order made, or a written maintenance agreement executed, before 5th April 1993;
-  - (b) which was made between the absent parent and either the parent with care or a relevant child, or both whether jointly or otherwise including, in Scotland, in common property[^key-d547a8057668fd7d1bdc44c54c516fc8];
+  - (b) which was made between the absent parent and either the parent with care or a relevant child, or both whether jointly or otherwise including, in Scotland, in common property[^c-d547a8057668fd7d1bdc44c54c516fc8];
   - (c) which was made at a time when the absent parent and the parent with care were living separate and apart;
-  - (d) the effect of which is that (subject to any mortgage or charge) the parent with care or a relevant child is solely beneficially entitled to the property of which the property transferred forms the whole or part, or the business asset, or the parent with care is beneficially entitled to that property or that asset together with the relevant child or absent parent or both, jointly or otherwise or, in Scotland, in common property, or the relevant child is so entitled together with the absent parent;[^key-9e3f7d11e58a367bb0ee7aa2a4bba669]
-  - (e) which was not made for the purpose only of compensating the parent with care either for the loss of a right to apply for, or receive, periodical payments or a capital sum in respect of herself, or for any reduction in the amount of such payments or sum;[^key-eccb7b5da4e622d7fe8a6bf6b5337f6f]
-- “Compensating transfer” means a transfer of property which would be a qualifying transfer (disregarding the requirement of paragraph (e) of the definition of “qualifying transfer”) if it were made by the absent parent, but which is made by the parent with care in favour of the absent parent, or[^key-6acade709876a5b1f66438f1b49b23a4] relevant child or both jointly or otherwise, or, in Scotland, in common property[^key-fca51828aa9ced3454b0912cc9bbbefd];
+  - (d) the effect of which is that (subject to any mortgage or charge) the parent with care or a relevant child is solely beneficially entitled to the property of which the property transferred forms the whole or part, or the business asset, or the parent with care is beneficially entitled to that property or that asset together with the relevant child or absent parent or both, jointly or otherwise or, in Scotland, in common property, or the relevant child is so entitled together with the absent parent;[^c-9e3f7d11e58a367bb0ee7aa2a4bba669]
+  - (e) which was not made for the purpose only of compensating the parent with care either for the loss of a right to apply for, or receive, periodical payments or a capital sum in respect of herself, or for any reduction in the amount of such payments or sum;[^c-eccb7b5da4e622d7fe8a6bf6b5337f6f]
+- “Compensating transfer” means a transfer of property which would be a qualifying transfer (disregarding the requirement of paragraph (e) of the definition of “qualifying transfer”) if it were made by the absent parent, but which is made by the parent with care in favour of the absent parent, or[^c-6acade709876a5b1f66438f1b49b23a4] relevant child or both jointly or otherwise, or, in Scotland, in common property[^c-fca51828aa9ced3454b0912cc9bbbefd];
 - “relevant date” means the date of the making of the court order or the execution of the written maintenance agreement in pursuance of which the qualifying transfer was made.
 
 (2) For the purposes of sub-paragraph (1) “business asset” means an asset, whether in the form of money or an interest in land or otherwise which, prior to the date of transfer was use in the course of a trade or business carried on—
@@ -64,9 +64,9 @@ is satisfied this Schedule shall apply as if references—
 
   an amount in respect of the relevant value of the transfer determined in accordance with the following provisions of this Schedule shall be allowed in calculating or estimating the exempt income of the absent parent.
 
-(2) Whether the evidence specified in sub-paragraph (1) is not produced within a reasonable time after the Secretary of State has been notified of the wish of the absent parent that the Secretary of State[^key-0f9f055244b9860bc6eefbb280026433] consider the question, he[^key-6982aba1413286b49f85f9fdf18ce75a] shall determine the question on the basis that the relevant value of the transfer is nil.
+(2) Whether the evidence specified in sub-paragraph (1) is not produced within a reasonable time after the Secretary of State has been notified of the wish of the absent parent that the Secretary of State[^c-0f9f055244b9860bc6eefbb280026433] consider the question, he[^c-6982aba1413286b49f85f9fdf18ce75a] shall determine the question on the basis that the relevant value of the transfer is nil.
 
-### 3. Consideration of evidence produced by other parent[^key-aa2676fd3885bc9af5036d0dee96f531]
+### 3. Consideration of evidence produced by other parent[^c-aa2676fd3885bc9af5036d0dee96f531]
 
 (1) Where an absent parent has notified the Secretary of State that he wishes him to consider whether an amount should be allowed in respect of the relevant value of a qualifying transfer, the Secretary of State shall—
 
@@ -77,11 +77,11 @@ is satisfied this Schedule shall apply as if references—
 
 ### 4. Computation of qualifying value—business assets and land
 
-(1) Subject to paragraph 6, where the property transferred[^key-218e7adb86506f19cc1f438bf49d637e] by the absent parent is, or includes an estate or interest in land, or a business asset, the qualifying value of that estate, interest or asset shall be determined in accordance with the formula—
+(1) Subject to paragraph 6, where the property transferred[^c-218e7adb86506f19cc1f438bf49d637e] by the absent parent is, or includes an estate or interest in land, or a business asset, the qualifying value of that estate, interest or asset shall be determined in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1992/1815)
 
-where—[^key-f6a9b9e15208dd76f0834324ccb92b11]
+where—[^c-f6a9b9e15208dd76f0834324ccb92b11]
 
 - QV is the qualifying value,
 - VP is the value at the relevant date of the business asset or the property of which the estate or interest forms the whole or part,
@@ -113,16 +113,16 @@ QV is the qualifying value; and
 
 b
 
-VT is the amount of cash, the balance of the account or the surrender value of the endowment policy on the relevant date and for the purposes of this calculation it is assumed that the cash, balance or policy held on the relevant date by the absent parent and the parent with care is held by them jointly in equal shares or, in Scotland, in common property.[^key-13d941575de2acdb2bb97bdb6e878be2]
+VT is the amount of cash, the balance of the account or the surrender value of the endowment policy on the relevant date and for the purposes of this calculation it is assumed that the cash, balance or policy held on the relevant date by the absent parent and the parent with care is held by them jointly in equal shares or, in Scotland, in common property.[^c-13d941575de2acdb2bb97bdb6e878be2]
 
 ### 6. Transfer wholly in lieu of periodical payments for relevant child
 
 Where the evidence produced in relation to a transfer to, or in respect of, a relevant child, shows expressly that the whole of that transfer was made exclusively in lieu of periodical payments in respect of that child—
 
-- (a) in a case to which paragraph 4 applies, the qualifying value shall be treated as being twice the qualifying value calculated in accordance with that paragraph[^key-99a61882956cb9e270e5a65a40e36b42];
+- (a) in a case to which paragraph 4 applies, the qualifying value shall be treated as being twice the qualifying value calculated in accordance with that paragraph[^c-99a61882956cb9e270e5a65a40e36b42];
 
   and
-- (b) in a case to which paragraph 5 applies, the qualifying value shall be treated as being twice the qualifying value calculated in accordance with that paragraph.[^key-d5b964813ae607c19f4d44eceabd35c6]
+- (b) in a case to which paragraph 5 applies, the qualifying value shall be treated as being twice the qualifying value calculated in accordance with that paragraph.[^c-d5b964813ae607c19f4d44eceabd35c6]
 
 ### 7. Multiple transfers to related persons
 
@@ -138,13 +138,13 @@ or any combination thereof, the relevant value by reference to which the allowan
 
 ### 8. Computation of the value of compensation transfers
 
-Subject to paragraph 8A, the value of[^key-144b306c2069eb8758289042e44d2657] a compensation transfer shall be determined in accordance with paragraph 4 to 7 above, but as if any reference in those paragraphs—
+Subject to paragraph 8A, the value of[^c-144b306c2069eb8758289042e44d2657] a compensation transfer shall be determined in accordance with paragraph 4 to 7 above, but as if any reference in those paragraphs—
 
 - (a) to the absent parent were a reference to the parent with care;
 - (b) to the parent with care were a reference to the absent parent; and
 - (c) to a qualifying transfer were a reference to a compensating transfer.
 
-### 8A.[^key-d193ef5c7e22d91100b7f48ae03d2194]
+### 8A.[^c-d193ef5c7e22d91100b7f48ae03d2194]
 
 (1) This paragraph applies where—
 
@@ -173,44 +173,44 @@ For the purposes of regulation 9(1)(bb), the amount to be allowed in the computa
 
 This Schedule in its application to Scotland shall have effect as if—
 
-- (a) in paragraph 1 for the words “legal estate or equitable interest in land” and in head (e) of paragraph 8A(1), for the words “legal estate in the land”[^key-90a674f501a4fcc9789a631a6c4fac32] there were substituted the words “an interest in land within the meaning of section 2(6) of the Conveyancing and Feudal Reform (Scotland) Act 1970”;
+- (a) in paragraph 1 for the words “legal estate or equitable interest in land” and in head (e) of paragraph 8A(1), for the words “legal estate in the land”[^c-90a674f501a4fcc9789a631a6c4fac32] there were substituted the words “an interest in land within the meaning of section 2(6) of the Conveyancing and Feudal Reform (Scotland) Act 1970”;
 - (b) in paragraph 4 the word “estate.” and the words “estate or” in each place where they respectively occur were omitted.
-- (c)[^key-4f095fd2802916c7e0caac6862e8afad] in paragraphs 1, 2, 4 and 8A for the word “mortgage” there were substituted the words “heritable security”.
+- (c)[^c-4f095fd2802916c7e0caac6862e8afad] in paragraphs 1, 2, 4 and 8A for the word “mortgage” there were substituted the words “heritable security”.
 
 ## Annotations
 
-[^key-863e492e5948a5ec62371d22003c815a]: Textual amendment: Sch. 3A inserted (18.4.1995) by [The Child Support and Income Support (Amendment) Regulations 1995 (S.I. 1995/1045)](https://www.legislation.gov.uk/uksi/1995/1045), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/1045/regulation/1/2), [57](https://www.legislation.gov.uk/uksi/1995/1045/regulation/57)
+[^c-863e492e5948a5ec62371d22003c815a]: Textual amendment: Sch. 3A inserted (18.4.1995) by [The Child Support and Income Support (Amendment) Regulations 1995 (S.I. 1995/1045)](https://www.legislation.gov.uk/uksi/1995/1045), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/1045/regulation/1/2), [57](https://www.legislation.gov.uk/uksi/1995/1045/regulation/57)
 
-[^key-d547a8057668fd7d1bdc44c54c516fc8]: Textual amendment: Words in Sch. 3A para. 1(1) inserted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(a)(i)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-d547a8057668fd7d1bdc44c54c516fc8]: Textual amendment: Words in Sch. 3A para. 1(1) inserted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(a)(i)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
 
-[^key-9e3f7d11e58a367bb0ee7aa2a4bba669]: Textual amendment: Words in Sch. 3A para. 1(1) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-9e3f7d11e58a367bb0ee7aa2a4bba669]: Textual amendment: Words in Sch. 3A para. 1(1) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
 
-[^key-eccb7b5da4e622d7fe8a6bf6b5337f6f]: Textual amendment: Words in Sch. 3A para. 1(1) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(a)(iii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/a/iii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-eccb7b5da4e622d7fe8a6bf6b5337f6f]: Textual amendment: Words in Sch. 3A para. 1(1) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(a)(iii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/a/iii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
 
-[^key-6acade709876a5b1f66438f1b49b23a4]: Textual amendment: Word in Sch. 3A para. 1(1) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(b)(i)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-6acade709876a5b1f66438f1b49b23a4]: Textual amendment: Word in Sch. 3A para. 1(1) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(b)(i)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
 
-[^key-fca51828aa9ced3454b0912cc9bbbefd]: Textual amendment: Words in Sch. 3A para. 1(1) added (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(b)(ii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-fca51828aa9ced3454b0912cc9bbbefd]: Textual amendment: Words in Sch. 3A para. 1(1) added (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(b)(ii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
 
-[^key-0f9f055244b9860bc6eefbb280026433]: Textual amendment: Words in [Sch. 3A para. 2(2)](https://www.legislation.gov.uk/uksi/1992/1815/schedule/3A/paragraph/2/2) substituted (1.6.1999) by [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [21(a)(i)](https://www.legislation.gov.uk/uksi/1999/1510/article/21/a/i)
+[^c-0f9f055244b9860bc6eefbb280026433]: Textual amendment: Words in [Sch. 3A para. 2(2)](https://www.legislation.gov.uk/uksi/1992/1815/schedule/3A/paragraph/2/2) substituted (1.6.1999) by [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [21(a)(i)](https://www.legislation.gov.uk/uksi/1999/1510/article/21/a/i)
 
-[^key-6982aba1413286b49f85f9fdf18ce75a]: Textual amendment: Word in [Sch. 3A para. 2(2)](https://www.legislation.gov.uk/uksi/1992/1815/schedule/3A/paragraph/2/2) substituted (1.6.1999) by [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [21(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1510/article/21/a/ii)
+[^c-6982aba1413286b49f85f9fdf18ce75a]: Textual amendment: Word in [Sch. 3A para. 2(2)](https://www.legislation.gov.uk/uksi/1992/1815/schedule/3A/paragraph/2/2) substituted (1.6.1999) by [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [21(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1510/article/21/a/ii)
 
-[^key-aa2676fd3885bc9af5036d0dee96f531]: Textual amendment: [Sch. 3A para. 3](https://www.legislation.gov.uk/uksi/1992/1815/schedule/3A/paragraph/3) substituted (1.6.1999) by [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [21(b)](https://www.legislation.gov.uk/uksi/1999/1510/article/21/b)
+[^c-aa2676fd3885bc9af5036d0dee96f531]: Textual amendment: [Sch. 3A para. 3](https://www.legislation.gov.uk/uksi/1992/1815/schedule/3A/paragraph/3) substituted (1.6.1999) by [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [21(b)](https://www.legislation.gov.uk/uksi/1999/1510/article/21/b)
 
-[^key-218e7adb86506f19cc1f438bf49d637e]: Textual amendment: Words in Sch. 3A para. 4(1) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(c)(i)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/c/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-218e7adb86506f19cc1f438bf49d637e]: Textual amendment: Words in Sch. 3A para. 4(1) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(c)(i)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/c/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
 
-[^key-f6a9b9e15208dd76f0834324ccb92b11]: Textual amendment: Words in Sch. 3A para. 4(1) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(c)(ii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/c/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-f6a9b9e15208dd76f0834324ccb92b11]: Textual amendment: Words in Sch. 3A para. 4(1) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(c)(ii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/c/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
 
-[^key-13d941575de2acdb2bb97bdb6e878be2]: Textual amendment: Words in Sch. 3A para. 5(b) inserted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(d)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-13d941575de2acdb2bb97bdb6e878be2]: Textual amendment: Words in Sch. 3A para. 5(b) inserted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(d)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
 
-[^key-99a61882956cb9e270e5a65a40e36b42]: Textual amendment: Words in Sch. 3A para. 6(a) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(e)(i)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/e/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-99a61882956cb9e270e5a65a40e36b42]: Textual amendment: Words in Sch. 3A para. 6(a) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(e)(i)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/e/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
 
-[^key-d5b964813ae607c19f4d44eceabd35c6]: Textual amendment: Words in Sch. 3A para. 6(b) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(e)(ii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/e/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-d5b964813ae607c19f4d44eceabd35c6]: Textual amendment: Words in Sch. 3A para. 6(b) substituted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(e)(ii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/e/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
 
-[^key-144b306c2069eb8758289042e44d2657]: Textual amendment: Words in Sch. 3A para. 8 substituted (18.12.1995) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 1995 (S.I. 1995/3261)](https://www.legislation.gov.uk/uksi/1995/3261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/1/2), [48(1)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/48/1)
+[^c-144b306c2069eb8758289042e44d2657]: Textual amendment: Words in Sch. 3A para. 8 substituted (18.12.1995) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 1995 (S.I. 1995/3261)](https://www.legislation.gov.uk/uksi/1995/3261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/1/2), [48(1)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/48/1)
 
-[^key-d193ef5c7e22d91100b7f48ae03d2194]: Textual amendment: Sch. 3A para. 8A inserted (18.12.1995) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 1995 (S.I. 1995/3261)](https://www.legislation.gov.uk/uksi/1995/3261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/1/2), [48(2)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/48/2)
+[^c-d193ef5c7e22d91100b7f48ae03d2194]: Textual amendment: Sch. 3A para. 8A inserted (18.12.1995) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 1995 (S.I. 1995/3261)](https://www.legislation.gov.uk/uksi/1995/3261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/1/2), [48(2)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/48/2)
 
-[^key-90a674f501a4fcc9789a631a6c4fac32]: Textual amendment: Words in [Sch. 3A para. 11(a)](https://www.legislation.gov.uk/uksi/1992/1815/schedule/3A/paragraph/11/a) inserted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(f)(i)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/f/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-90a674f501a4fcc9789a631a6c4fac32]: Textual amendment: Words in [Sch. 3A para. 11(a)](https://www.legislation.gov.uk/uksi/1992/1815/schedule/3A/paragraph/11/a) inserted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(f)(i)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/f/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
 
-[^key-4f095fd2802916c7e0caac6862e8afad]: Textual amendment: [Sch. 3A para. 11(c)](https://www.legislation.gov.uk/uksi/1992/1815/schedule/3A/paragraph/11/c) inserted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(f)(ii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/f/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))
+[^c-4f095fd2802916c7e0caac6862e8afad]: Textual amendment: [Sch. 3A para. 11(c)](https://www.legislation.gov.uk/uksi/1992/1815/schedule/3A/paragraph/11/c) inserted (6.4.1999) by [The Child Support (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/977)](https://www.legislation.gov.uk/uksi/1999/977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/1), [6(7)(f)(ii)](https://www.legislation.gov.uk/uksi/1999/977/regulation/6/7/f/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/1999/977/regulation/7))

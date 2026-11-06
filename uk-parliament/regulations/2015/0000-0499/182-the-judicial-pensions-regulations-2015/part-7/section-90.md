@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Option for pension credit member to commute whole pension (serious ill-health)[^key-60c318f202303ca1db7c44c52e6c4aaa]
+## 90. Option for pension credit member to commute whole pension (serious ill-health)[^c-60c318f202303ca1db7c44c52e6c4aaa]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60c318f202303ca1db7c44c52e6c4aaa]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2015/182/regulation/90) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-60c318f202303ca1db7c44c52e6c4aaa]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2015/182/regulation/90) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

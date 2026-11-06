@@ -26,7 +26,7 @@ summary: ''
 - (b) that any information which, in or in connection with the application on which the certificate was granted, was given to the court by the applicant was false in a material particular; or
 - (c) that the holder of the certificate has been refused the grant or renewal of a lottery certificate on the ground mentioned in sub-paragraph (a) or (d) within the preceding 12 months; or
 - (d) that the holder of the certificate has allowed the business carried on under the certificate to be managed by, or carried on for the benefit of, a person other than the holder of the certificate who would himself be refused the grant of a lottery certificate; or
-- (da)[^key-4b65a11036f6149130ba52719361e4a8] that the business carried on under the certificate has been carried on in a manner which involved serious, repeated or continuous failure to comply with a code of practice in force under Article 180A; or
+- (da)[^c-4b65a11036f6149130ba52719361e4a8] that the business carried on under the certificate has been carried on in a manner which involved serious, repeated or continuous failure to comply with a code of practice in force under Article 180A; or
 - (e) that the holder of the certificate has been convicted of an offence under this Part.
 
 (2) The procedure for applications for the revocation of lottery certificates is set out in Schedule 7.
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b65a11036f6149130ba52719361e4a8]: Textual amendment: [Art. 149(1)(da)](https://www.legislation.gov.uk/nisi/1985/1204/article/149/1/da) inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 16(2)(g)](https://www.legislation.gov.uk/nia/2022/14/section/16/2/g), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
+[^c-4b65a11036f6149130ba52719361e4a8]: Textual amendment: [Art. 149(1)(da)](https://www.legislation.gov.uk/nisi/1985/1204/article/149/1/da) inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 16(2)(g)](https://www.legislation.gov.uk/nia/2022/14/section/16/2/g), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)

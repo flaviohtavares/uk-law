@@ -89,7 +89,7 @@ The following provisions of the 2008 Act come into force, in so far as those pro
 
 ## 3. Cases to which the new calculation rules apply
 
-(1)[^key-5bc7536df389a5daaa4e9d941c8d6c20] The types of cases falling within this article, for the purposes of article 2, are those cases satisfying any of paragraphs (2) to (4).
+(1)[^c-5bc7536df389a5daaa4e9d941c8d6c20] The types of cases falling within this article, for the purposes of article 2, are those cases satisfying any of paragraphs (2) to (4).
 
 (2) A case satisfies this paragraph where—
 
@@ -97,12 +97,12 @@ The following provisions of the 2008 Act come into force, in so far as those pro
 - (b) that application is made in respect of at least four qualifying children with the same person with care and the same non-resident parent; and
 - (c) subject to paragraph (5), there is no existing case which has both the same person with care and the same non-resident parent referred to in sub-paragraph (b).
 
-(3)[^key-7e726c8cf9b5970135ad38c959ab58a2] A case satisfies this paragraph where it is an existing case and—
+(3)[^c-7e726c8cf9b5970135ad38c959ab58a2] A case satisfies this paragraph where it is an existing case and—
 
 - (a) the non-resident parent in a case falling within paragraph (2) is also the non-resident parent or absent parent in relation to the existing case; and
 - (b) the person with care in relation to the existing case is not the person with care in relation to the case falling within paragraph (2).
 
-(4)[^key-7e726c8cf9b5970135ad38c959ab58a2] A case satisfies this paragraph where it is an existing case and—
+(4)[^c-7e726c8cf9b5970135ad38c959ab58a2] A case satisfies this paragraph where it is an existing case and—
 
 - (a) the non-resident parent or absent parent (“A”) is a partner of a non-resident parent in a case falling within paragraph (2) (“B”); and
 - (b) A or B is in receipt of a prescribed benefit.
@@ -119,7 +119,7 @@ the case is to be treated as an existing case (and so is not a case that satisfi
 - (a) where made by telephone, the date it is made; and
 - (b) where made by post, the date of receipt by the Secretary of State.
 
-(7)[^key-d08fb068cf15986bd50bf6b3a2281609] For the purposes of paragraph (4)—
+(7)[^c-d08fb068cf15986bd50bf6b3a2281609] For the purposes of paragraph (4)—
 
 - “**partner**” has the meaning given in paragraph 10C(4) (references to various terms) of Schedule 1 to the 1991 Act as amended by the 2000 Act [^c2147505];
 - “**prescribed benefit**” means a benefit prescribed, or treated as prescribed, for the purposes of paragraph 4(1)(c) (flat rate) of Schedule 1 to the 1991 Act as amended by the 2000 Act.
@@ -136,14 +136,14 @@ The following provisions of the 2008 Act come into force, in so far as those pro
 - (a) sections 32 (power to accept part payment of arrears in full and final satisfaction) and 33 (power to write off arrears); and
 - (b) section 42 (meaning of “child”).
 
-## 5. Transitional provision for existing cases[^key-f264b353badbeea69f9a57761e13f65a]
+## 5. Transitional provision for existing cases[^c-f264b353badbeea69f9a57761e13f65a]
 
 Where a case falls within article 3(3) or (4), the provisions of the 1991 Act continue to apply—
 
 - (a) as they were in force immediately before the coming into force of the provisions in article 2 in relation to that case;
 - (b) until the maintenance calculation made in response to the application referred to in article 3(2)(a) takes effect.
 
-## 6. Transitional provision when making the maintenance calculation[^key-b05b72af4412a1fe5b1387bc757b0838]
+## 6. Transitional provision when making the maintenance calculation[^c-b05b72af4412a1fe5b1387bc757b0838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -282,18 +282,18 @@ The following provisions of the Child Maintenance and Other Payments Act 2008 ha
 
 [^c2147503]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-5bc7536df389a5daaa4e9d941c8d6c20]: Modification: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2012/3042/article/3/1) modified (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 6(a)](https://www.legislation.gov.uk/uksi/2014/1635/article/6/a)
+[^c-5bc7536df389a5daaa4e9d941c8d6c20]: Modification: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2012/3042/article/3/1) modified (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 6(a)](https://www.legislation.gov.uk/uksi/2014/1635/article/6/a)
 
 [^c2147504]: Marginal citation: [Section 4](https://www.legislation.gov.uk/uksi/2012/3042/section/4) was amended by section 18(1) of the [Child Support Act 1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34), [paragraph 19](https://www.legislation.gov.uk/ukpga/1995/34/paragraph/19) of Schedule 7, and Schedule 8, to the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14) (“**the 1998 Act**”), sections 1(2) and 2(1) to (3) of, and paragraph 11(1) to (3) of Schedule 3 to, the 2000 Act, section 35(1) of, and Schedule 8 to, the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6) (“**the 2008 Act**”) and [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007). Section 7 was amended by paragraph 21 of Schedule 7, and Schedule 8, to the 1998 Act, section 1(2) of, and paragraph 11(1),(2) and (4) of Schedule 3 to, the 2000 Act, section 35(2) of the 2008 Act and [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007).
 
-[^key-7e726c8cf9b5970135ad38c959ab58a2]: Modification: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2012/3042/article/3/3)[(4)](https://www.legislation.gov.uk/uksi/2012/3042/article/3/4) excluded (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/1635/article/6/b)
+[^c-7e726c8cf9b5970135ad38c959ab58a2]: Modification: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2012/3042/article/3/3)[(4)](https://www.legislation.gov.uk/uksi/2012/3042/article/3/4) excluded (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/1635/article/6/b)
 
-[^key-d08fb068cf15986bd50bf6b3a2281609]: Modification: [Art. 3(7)](https://www.legislation.gov.uk/uksi/2012/3042/article/3/7) excluded (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/1635/article/6/b)
+[^c-d08fb068cf15986bd50bf6b3a2281609]: Modification: [Art. 3(7)](https://www.legislation.gov.uk/uksi/2012/3042/article/3/7) excluded (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/1635/article/6/b)
 
 [^c2147505]: Marginal citation: [Part 1](https://www.legislation.gov.uk/uksi/2012/3042/part/1) of Schedule 1 to the 1991 Act was substituted by section 1(3) of, and Schedule 1 to, the 2000 Act.
 
-[^key-f264b353badbeea69f9a57761e13f65a]: Modification: [Art. 5](https://www.legislation.gov.uk/uksi/2012/3042/article/5) excluded (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/1635/article/6/b)
+[^c-f264b353badbeea69f9a57761e13f65a]: Modification: [Art. 5](https://www.legislation.gov.uk/uksi/2012/3042/article/5) excluded (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/1635/article/6/b)
 
-[^key-b05b72af4412a1fe5b1387bc757b0838]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2012/3042/article/6) omitted (29.7.2013) by virtue of [The Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013 (S.I. 2013/1860)](https://www.legislation.gov.uk/uksi/2013/1860), [art. 6](https://www.legislation.gov.uk/uksi/2013/1860/article/6)
+[^c-b05b72af4412a1fe5b1387bc757b0838]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2012/3042/article/6) omitted (29.7.2013) by virtue of [The Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013 (S.I. 2013/1860)](https://www.legislation.gov.uk/uksi/2013/1860), [art. 6](https://www.legislation.gov.uk/uksi/2013/1860/article/6)
 
 [^c2147506]: Marginal citation: [Child Maintenance and Other Payments Act 2008 (Commencement No. 4 and Transitional Provision) Order 2008 (S.I. 2008/2675)](https://www.legislation.gov.uk/uksi/2008/2675) (C. 116).

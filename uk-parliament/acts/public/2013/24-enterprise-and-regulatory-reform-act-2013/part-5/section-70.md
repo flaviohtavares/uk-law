@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Estate agency work[^key-8412067600f2ab588c37b8057667bdc4]
+## 70. Estate agency work[^c-8412067600f2ab588c37b8057667bdc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 1 of the Estate Agents Act 1979 (estate agency work), for subsection 
 
 ## Annotations
 
-[^key-8412067600f2ab588c37b8057667bdc4]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2013/24/section/70) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/g)
+[^c-8412067600f2ab588c37b8057667bdc4]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2013/24/section/70) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/g)

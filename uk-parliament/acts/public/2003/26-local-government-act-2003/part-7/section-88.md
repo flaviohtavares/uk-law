@@ -29,7 +29,7 @@ be designated in the statement as being, or forming part of, the authority’s H
 
 (2) All material that—
 
-- (a) in accordance with requirements imposed under section 87(3) is so designated in a statement prepared for the purposes of section 87(2) by an authority in Wales[^key-acceae1fa998d39bad7165fac7461fdc], and
+- (a) in accordance with requirements imposed under section 87(3) is so designated in a statement prepared for the purposes of section 87(2) by an authority in Wales[^c-acceae1fa998d39bad7165fac7461fdc], and
 - (b) has not in a subsequent statement so prepared by the authority been declared to be superseded or withdrawn,
 
 shall collectively be known as the authority’s Housing Revenue Account business plan.
@@ -38,4 +38,4 @@ shall collectively be known as the authority’s Housing Revenue Account busines
 
 ## Annotations
 
-[^key-acceae1fa998d39bad7165fac7461fdc]: Textual amendment: Words in [s. 88(2)(a)](https://www.legislation.gov.uk/ukpga/2003/26/section/88/2/a) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 29(6)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/29/6/a), [115(3)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/c)
+[^c-acceae1fa998d39bad7165fac7461fdc]: Textual amendment: Words in [s. 88(2)(a)](https://www.legislation.gov.uk/ukpga/2003/26/section/88/2/a) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 29(6)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/29/6/a), [115(3)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/c)

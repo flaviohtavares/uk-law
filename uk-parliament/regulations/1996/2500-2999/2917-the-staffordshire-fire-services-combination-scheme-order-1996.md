@@ -48,11 +48,11 @@ And whereas a draft of the Order containing the draft scheme has been laid befor
 
 Now, therefore, in exercise of the powers conferred upon him by sections 6, 8 and 10 of the 1947 Act, and section 7(2) of the Fire Services Act 1959[^f00003], the Secretary of State hereby makes the following Order:
 
-## 1. Citation[^key-f32ec7af9b855026da34ce6797044aee]
+## 1. Citation[^c-f32ec7af9b855026da34ce6797044aee]
 
 This Order may be cited as the Staffordshire Fire Services (Combination Scheme) Order 1996 and shall come into force on the day after the day on which it is made.
 
-## 2. Combination Scheme[^key-ee08e651eb8d066aed971313d17efc3a]
+## 2. Combination Scheme[^c-ee08e651eb8d066aed971313d17efc3a]
 
 The combination scheme set out in the Schedule to this Order, which shall be known as the Staffordshire Fire Services Combination Scheme, shall have effect.
 
@@ -68,14 +68,14 @@ Home Office
 
 ### PART I — CITATION, COMMENCEMENT AND INTERPRETATION
 
-#### 1. Citation and commencement[^key-3bb102cff05ea151adc652d4c3a08366]
+#### 1. Citation and commencement[^c-3bb102cff05ea151adc652d4c3a08366]
 
 This scheme may be cited as the Staffordshire Fire Services Combination Scheme and shall come into force —
 
 - (a) for the purposes of constituting an authority as the fire authority for the combined area constituted by the scheme, and the performance by that authority of any functions necessary for bringing the scheme into full operation on 1st April 1997, on the day on which the Staffordshire Fire Services (Combination Scheme) Order 1996[^f00004] comes into force, and
 - (b) for all other purposes, on 1st April 1997.
 
-#### 2. Interpretation[^key-9df23054926f57ef02bd1ba78659882a]
+#### 2. Interpretation[^c-9df23054926f57ef02bd1ba78659882a]
 
 In this scheme any reference to a paragraph or a Part is a reference to a paragraph or a Part of this scheme, and —
 
@@ -87,17 +87,17 @@ In this scheme any reference to a paragraph or a Part is a reference to a paragr
 
 ### PART II — GENERAL
 
-#### 3. The combined area[^key-8e52d40641b991147819136242e8c098]
+#### 3. The combined area[^c-8e52d40641b991147819136242e8c098]
 
 The areas of the following councils, namely the council of the city of Stoke-on-Trent and Staffordshire County Council shall be combined and shall become the combined area.
 
-#### 4. Combined Fire Authority[^key-2d91eb30cd6be96428112dbfecaad7a8]
+#### 4. Combined Fire Authority[^c-2d91eb30cd6be96428112dbfecaad7a8]
 
 (1) There shall be constituted as the fire authority for the combined area an authority to be known as the Stoke-on-Trent and Staffordshire Fire Authority.
 
 (2) The Authority shall be constituted in accordance with the provisions of Part III.
 
-#### 5. Fire brigade for combined area[^key-3ea40b8be27b8977391e8c2937a3e059]
+#### 5. Fire brigade for combined area[^c-3ea40b8be27b8977391e8c2937a3e059]
 
 (1) There shall be established a fire brigade for the combined area which shall be known as the Staffordshire Fire and Rescue Service, or by such other name as the Authority may determine.
 
@@ -105,43 +105,43 @@ The areas of the following councils, namely the council of the city of Stoke-on-
 
 (3) The Authority shall submit an establishment scheme for their area to the Secretary of State in accordance with section 7 of the Fire Services Act 1959.[^f00005]
 
-#### 6. Financial provisions etc.[^key-6f5eb5af866bcf211ea89f249f515b15]
+#### 6. Financial provisions etc.[^c-6f5eb5af866bcf211ea89f249f515b15]
 
 (1) The expenses of the Authority shall be paid out of a combined fire service fund constituted and administered in accordance with the provisions of Part IV.
 
 (2) Contributions shall be paid into the combined fire service fund by constituent authorities in accordance with the said provisions.
 
-**7.**[^key-25ef0b3060644f5f500dc8b2aaf6720c] The Authority shall appoint a treasurer of the combined fire service fund.
+**7.**[^c-25ef0b3060644f5f500dc8b2aaf6720c] The Authority shall appoint a treasurer of the combined fire service fund.
 
-#### 8. Officers and employees[^key-703fe3939c7ee35342ff7533dc7f3a6c]
+#### 8. Officers and employees[^c-703fe3939c7ee35342ff7533dc7f3a6c]
 
 The provisions of Part V shall have effect with respect to officers and employees of the Authority.
 
-**9.**[^key-d05c996fb3cff1c2a27a0b3cbd4c3300] The Authority may appoint such other officers and employees as they think necessary for the efficient discharge of their functions.
+**9.**[^c-d05c996fb3cff1c2a27a0b3cbd4c3300] The Authority may appoint such other officers and employees as they think necessary for the efficient discharge of their functions.
 
-**10.**[^key-fe0adb51ff894d910833fee16729687a] The Authority may make arrangements with any constituent authority for the use by the Authority of the services of officers and employees of the constituent authority and for the making of contracts and payments on behalf of the Authority by the constituent authority.
+**10.**[^c-fe0adb51ff894d910833fee16729687a] The Authority may make arrangements with any constituent authority for the use by the Authority of the services of officers and employees of the constituent authority and for the making of contracts and payments on behalf of the Authority by the constituent authority.
 
 ### PART III — CONSTITUTION OF COMBINED FIRE AUTHORITY
 
-**11.**[^key-1637d1fa91984a52dd6cb3fad99db3a9] (1) The Authority shall consist of not more than 25 members save that, where the minimum number of members of the Authority resulting from the operation of paragraph 12 would be greater than 25, the Authority shall consist of that number of members.
+**11.**[^c-1637d1fa91984a52dd6cb3fad99db3a9] (1) The Authority shall consist of not more than 25 members save that, where the minimum number of members of the Authority resulting from the operation of paragraph 12 would be greater than 25, the Authority shall consist of that number of members.
 
 (2) Each member of the Authority shall be appointed by a constituent authority from its own members in accordance with this Part.
 
-**12.**[^key-8518a7b845ba6b0d5455fc2ba4b9ae84] Each constituent authority shall, so far as is practicable, appoint such number of representatives to be members of the Authority as is proportionate to the number of local government electors in its area in relation to the number of such electors in the other constituent authority’s area.
+**12.**[^c-8518a7b845ba6b0d5455fc2ba4b9ae84] Each constituent authority shall, so far as is practicable, appoint such number of representatives to be members of the Authority as is proportionate to the number of local government electors in its area in relation to the number of such electors in the other constituent authority’s area.
 
-**13.**[^key-c35b7cf149e11b2f9c5bd9c1d5f625b9] A member of the Authority shall come into office on the date of his appointment and shall, subject to paragraphs 14 to 16, hold office for such period or periods as shall be determined by the constituent authority which appoints him.
+**13.**[^c-c35b7cf149e11b2f9c5bd9c1d5f625b9] A member of the Authority shall come into office on the date of his appointment and shall, subject to paragraphs 14 to 16, hold office for such period or periods as shall be determined by the constituent authority which appoints him.
 
-**14.**[^key-44623253f8be09148af91724d355fc30] A member of the Authority may resign his membership by giving notice in writing to that effect to the officer of the Authority whose function it is to receive such notice.
+**14.**[^c-44623253f8be09148af91724d355fc30] A member of the Authority may resign his membership by giving notice in writing to that effect to the officer of the Authority whose function it is to receive such notice.
 
-**15.**[^key-d81ab229262069f83a55fbf6073eca68] (1) A member of the Authority who ceases to be a member of the council which appointed him shall cease to be a member of the Authority.
+**15.**[^c-d81ab229262069f83a55fbf6073eca68] (1) A member of the Authority who ceases to be a member of the council which appointed him shall cease to be a member of the Authority.
 
 (2) A person shall be disqualified from being a member of the Authority if he holds any paid office or employment (other than the office of chairman or vice-chairman), appointments to which are or may be made or confirmed by the Authority, by any committee or sub-committee of the Authority, or by a joint committee or board on which the Authority are represented.
 
-**16.**[^key-90d00bb9dc9cf15c7d03fe04e8aad921] (1) If a member of the Authority resigns, becomes disqualified or otherwise ceases to be a member of the Authority before the expiry of his period of office, the council which appointed him shall appoint a representative to replace him, who shall come into office on the date of his appointment and, unless he resigns, becomes disqualified or otherwise ceases to be a member of the Authority, shall hold office for the remainder of the period for which his predecessor would have held office had he not resigned, become disqualified or otherwise ceased to be a member of the Authority.
+**16.**[^c-90d00bb9dc9cf15c7d03fe04e8aad921] (1) If a member of the Authority resigns, becomes disqualified or otherwise ceases to be a member of the Authority before the expiry of his period of office, the council which appointed him shall appoint a representative to replace him, who shall come into office on the date of his appointment and, unless he resigns, becomes disqualified or otherwise ceases to be a member of the Authority, shall hold office for the remainder of the period for which his predecessor would have held office had he not resigned, become disqualified or otherwise ceased to be a member of the Authority.
 
 (2) If a member of the Authority resigns, becomes disqualified or otherwise ceases to be a member of the Authority within six months before the end of his term of office, the council which appointed him shall not be required to appoint a representative to replace him for the remainder of such term unless, on the occurrence of the vacancy (or in the case of a number of simultaneous vacancies, the occurrence of the vacancies) the total number of unfilled vacancies in the membership of the Authority exceeds one third of the number of members of the Authority referred to in paragraph 11.
 
-**17.**[^key-0922551cc2f964a693e7998fa9227544] (1) The Authority shall elect a chairman, and may elect a vice-chairman, from among its members.
+**17.**[^c-0922551cc2f964a693e7998fa9227544] (1) The Authority shall elect a chairman, and may elect a vice-chairman, from among its members.
 
 (2) The chairman and, if a vice-chairman is elected, the vice-chairman, shall, subject to paragraphs 13 to 16, hold office for a period of one year from the date of their election.
 
@@ -151,17 +151,17 @@ The provisions of Part V shall have effect with respect to officers and employee
 
 (5) The election to replace the chairman under sub-paragraph (4) shall take place not later than the next following ordinary meeting of the Authority.
 
-**18.**[^key-9909523f31089274d5d9166fc7183eae] The first meeting of the Authority shall be held as soon as it is practicable to do so and shall be convened by the County Clerk and Chief Executive of Staffordshire County Council, and subsequent meetings shall be convened in such a manner as the Authority shall determine.
+**18.**[^c-9909523f31089274d5d9166fc7183eae] The first meeting of the Authority shall be held as soon as it is practicable to do so and shall be convened by the County Clerk and Chief Executive of Staffordshire County Council, and subsequent meetings shall be convened in such a manner as the Authority shall determine.
 
-**19.**[^key-7778a7f254f0664b4ebbdccd4c59ca52] At a meeting of the Authority the quorum shall be one third of the total number of members of the Authority, or such greater number of members as the Authority may determine, including at least one representative from each constituent authority.
+**19.**[^c-7778a7f254f0664b4ebbdccd4c59ca52] At a meeting of the Authority the quorum shall be one third of the total number of members of the Authority, or such greater number of members as the Authority may determine, including at least one representative from each constituent authority.
 
-**20.**[^key-350d41a1c195b50a627fe766d0c07bfc] (1) The following provisions of the Local Government Act 1972[^f00006], namely sections 82(1), 94 to 98, 101 to 106, 99 and Part VI of Schedule 12 shall, subject to sub-paragraph (2), apply to the Authority and its members as if references in those provisions to a principal council or to a local authority, other than references to a parish council, were references to the Authority.
+**20.**[^c-350d41a1c195b50a627fe766d0c07bfc] (1) The following provisions of the Local Government Act 1972[^f00006], namely sections 82(1), 94 to 98, 101 to 106, 99 and Part VI of Schedule 12 shall, subject to sub-paragraph (2), apply to the Authority and its members as if references in those provisions to a principal council or to a local authority, other than references to a parish council, were references to the Authority.
 
 (2) Section 101(6) of the Local Government Act 1972 shall have effect, by virtue of sub-paragraph (1), as if for the words “levying, or issuing a precept for, a rate” there were substituted the words “assessing or varying the contributions to be paid into the combined fire service fund by the constituent authorities”.
 
 ### PART IV — COMBINED FIRE SERVICE FUND
 
-**21.**[^key-3c39f2544b75ff47e82bf680086d72c1] (1) Each constituent authority shall, in respect of each financial year, pay into the combined fire service fund, in accordance with the provisions of this paragraph, a contribution equal to its appropriate proportion of the net expenses of the Authority in respect of that year.
+**21.**[^c-3c39f2544b75ff47e82bf680086d72c1] (1) Each constituent authority shall, in respect of each financial year, pay into the combined fire service fund, in accordance with the provisions of this paragraph, a contribution equal to its appropriate proportion of the net expenses of the Authority in respect of that year.
 
 (2) The Authority shall, before 31st December in any year, submit to each constituent authority an estimate of its net expenses for the next financial year, and shall subsequently, before l5th February, give notice to each constituent authority of the amount of the contribution to be paid by that authority under this paragraph in the next financial year.
 
@@ -189,20 +189,20 @@ The provisions of Part V shall have effect with respect to officers and employee
 - “financial year” means the period of twelve months beginning on 1st April; and
 - “working day” means a day other than a Saturday or a Sunday, Good Friday, Christmas Day or a day which is, or is to be observed as, a bank holiday, or a holiday under the Banking and Financial Dealings Act 1971[^f00008] in England and Wales.
 
-**22.**[^key-aea624a30e2661885529f2dead2f009e] The Authority shall have the power to pay out of the combined fire service fund compensation to persons employed by Staffordshire County Council who in consequence of this scheme, or anything done thereunder, suffer direct pecuniary loss by reason of the determination of their appointments or the diminution of their emoluments.
+**22.**[^c-aea624a30e2661885529f2dead2f009e] The Authority shall have the power to pay out of the combined fire service fund compensation to persons employed by Staffordshire County Council who in consequence of this scheme, or anything done thereunder, suffer direct pecuniary loss by reason of the determination of their appointments or the diminution of their emoluments.
 
 ### PART V — OFFICERS AND EMPLOYEES OF THE AUTHORITY
 
-**23.**[^key-724fee21ec60a2af318c922733bdd49e] There shall be transferred —
+**23.**[^c-724fee21ec60a2af318c922733bdd49e] There shall be transferred —
 
 - (a) to the fire brigade members of the fire brigade maintained by Staffordshire County Council, and
 - (b) to employment by the Authority persons employed by that council wholly or mainly for the purposes of the fire brigade maintained by that council.
 
-**24.**[^key-6683115ae7cc1f9428cd378804eef315] The following provisions of the Local Government Act 1972, namely sections 114, 115, 116, 117(1), (2) and (3), 118 and 119, shall apply to the officers and employees of the Authority as if references in those provisions to a local authority, other than references to a parish council, were references to the Authority.
+**24.**[^c-6683115ae7cc1f9428cd378804eef315] The following provisions of the Local Government Act 1972, namely sections 114, 115, 116, 117(1), (2) and (3), 118 and 119, shall apply to the officers and employees of the Authority as if references in those provisions to a local authority, other than references to a parish council, were references to the Authority.
 
 ### PART VI — PROPERTY, RIGHTS AND LIABILITIES
 
-**25.**[^key-6a047ba77fc03667e9be78276f0dab66] There shall be transferred from Staffordshire County Council to the Authority any property which is held by that council solely in connection with the provision of fire services, and rights and liabilities held or incurred by that council in respect of —
+**25.**[^c-6a047ba77fc03667e9be78276f0dab66] There shall be transferred from Staffordshire County Council to the Authority any property which is held by that council solely in connection with the provision of fire services, and rights and liabilities held or incurred by that council in respect of —
 
 - (a) any contract of employment with a person transferred in accordance with paragraph 23;
 - (b) the Firemen’s Pension Scheme as set out in Schedule 2 to the Firemen’s Pension Scheme Order 1992;[^f00009] and
@@ -220,68 +220,68 @@ This Order makes a scheme which combines the areas of the council of the city of
 
 [^f00003]: Footnote: [1959 c. 44](https://www.legislation.gov.uk/ukpga/1959/44).
 
-[^key-f32ec7af9b855026da34ce6797044aee]: Commencement: Art. 1 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-f32ec7af9b855026da34ce6797044aee]: Commencement: Art. 1 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-ee08e651eb8d066aed971313d17efc3a]: Commencement: Art. 2 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-ee08e651eb8d066aed971313d17efc3a]: Commencement: Art. 2 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-3bb102cff05ea151adc652d4c3a08366]: Commencement: Sch. para. 1 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-3bb102cff05ea151adc652d4c3a08366]: Commencement: Sch. para. 1 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
 [^f00004]: Footnote: [S.I. 1996/2917](https://www.legislation.gov.uk/uksi/1996/2917)
 
-[^key-9df23054926f57ef02bd1ba78659882a]: Commencement: Sch. para. 2 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-9df23054926f57ef02bd1ba78659882a]: Commencement: Sch. para. 2 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-8e52d40641b991147819136242e8c098]: Commencement: Sch. para. 3 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-8e52d40641b991147819136242e8c098]: Commencement: Sch. para. 3 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-2d91eb30cd6be96428112dbfecaad7a8]: Commencement: Sch. para. 4 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-2d91eb30cd6be96428112dbfecaad7a8]: Commencement: Sch. para. 4 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-3ea40b8be27b8977391e8c2937a3e059]: Commencement: Sch. para. 5 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-3ea40b8be27b8977391e8c2937a3e059]: Commencement: Sch. para. 5 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
 [^f00005]: Footnote: [1959 c. 44](https://www.legislation.gov.uk/ukpga/1959/44).
 
-[^key-6f5eb5af866bcf211ea89f249f515b15]: Commencement: Sch. para. 6 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-6f5eb5af866bcf211ea89f249f515b15]: Commencement: Sch. para. 6 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-25ef0b3060644f5f500dc8b2aaf6720c]: Commencement: Sch. para. 7 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-25ef0b3060644f5f500dc8b2aaf6720c]: Commencement: Sch. para. 7 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-703fe3939c7ee35342ff7533dc7f3a6c]: Commencement: Sch. para. 8 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-703fe3939c7ee35342ff7533dc7f3a6c]: Commencement: Sch. para. 8 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-d05c996fb3cff1c2a27a0b3cbd4c3300]: Commencement: Sch. para. 9 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-d05c996fb3cff1c2a27a0b3cbd4c3300]: Commencement: Sch. para. 9 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-fe0adb51ff894d910833fee16729687a]: Commencement: Sch. para. 10 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-fe0adb51ff894d910833fee16729687a]: Commencement: Sch. para. 10 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-1637d1fa91984a52dd6cb3fad99db3a9]: Commencement: Sch. para. 11 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-1637d1fa91984a52dd6cb3fad99db3a9]: Commencement: Sch. para. 11 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-8518a7b845ba6b0d5455fc2ba4b9ae84]: Commencement: Sch. para. 12 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-8518a7b845ba6b0d5455fc2ba4b9ae84]: Commencement: Sch. para. 12 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-c35b7cf149e11b2f9c5bd9c1d5f625b9]: Commencement: Sch. para. 13 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-c35b7cf149e11b2f9c5bd9c1d5f625b9]: Commencement: Sch. para. 13 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-44623253f8be09148af91724d355fc30]: Commencement: Sch. para. 14 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-44623253f8be09148af91724d355fc30]: Commencement: Sch. para. 14 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-d81ab229262069f83a55fbf6073eca68]: Commencement: Sch. para. 15 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-d81ab229262069f83a55fbf6073eca68]: Commencement: Sch. para. 15 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-90d00bb9dc9cf15c7d03fe04e8aad921]: Commencement: Sch. para. 16 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-90d00bb9dc9cf15c7d03fe04e8aad921]: Commencement: Sch. para. 16 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-0922551cc2f964a693e7998fa9227544]: Commencement: Sch. para. 17 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-0922551cc2f964a693e7998fa9227544]: Commencement: Sch. para. 17 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-9909523f31089274d5d9166fc7183eae]: Commencement: Sch. para. 18 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-9909523f31089274d5d9166fc7183eae]: Commencement: Sch. para. 18 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-7778a7f254f0664b4ebbdccd4c59ca52]: Commencement: Sch. para. 19 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-7778a7f254f0664b4ebbdccd4c59ca52]: Commencement: Sch. para. 19 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-350d41a1c195b50a627fe766d0c07bfc]: Commencement: Sch. para. 20 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-350d41a1c195b50a627fe766d0c07bfc]: Commencement: Sch. para. 20 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
 [^f00006]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-3c39f2544b75ff47e82bf680086d72c1]: Commencement: Sch. para. 21 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-3c39f2544b75ff47e82bf680086d72c1]: Commencement: Sch. para. 21 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
 [^f00007]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Section 78A was inserted by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), section 104 and Schedule 10, paragraph 10.
 
 [^f00008]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-aea624a30e2661885529f2dead2f009e]: Commencement: Sch. para. 22 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-aea624a30e2661885529f2dead2f009e]: Commencement: Sch. para. 22 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-724fee21ec60a2af318c922733bdd49e]: Commencement: Sch. para. 23 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-724fee21ec60a2af318c922733bdd49e]: Commencement: Sch. para. 23 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-6683115ae7cc1f9428cd378804eef315]: Commencement: Sch. para. 24 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-6683115ae7cc1f9428cd378804eef315]: Commencement: Sch. para. 24 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
-[^key-6a047ba77fc03667e9be78276f0dab66]: Commencement: Sch. para. 25 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
+[^c-6a047ba77fc03667e9be78276f0dab66]: Commencement: Sch. para. 25 in force at 20.11.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2917/article/1)
 
 [^f00009]: Footnote: [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129).

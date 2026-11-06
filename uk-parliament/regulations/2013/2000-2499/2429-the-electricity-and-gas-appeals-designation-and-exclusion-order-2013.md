@@ -34,7 +34,7 @@ Electricity
 
 Gas
 
-The Electricity and Gas Appeals (Designation and Exclusion) Order 2013 (revoked)[^key-b64d6c8ca14fb74695d24184646baa44]
+The Electricity and Gas Appeals (Designation and Exclusion) Order 2013 (revoked)[^c-b64d6c8ca14fb74695d24184646baa44]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 21st October 2013
 
-[^key-b64d6c8ca14fb74695d24184646baa44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b64d6c8ca14fb74695d24184646baa44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b64d6c8ca14fb74695d24184646baa44]
+## 1. Citation and commencement[^c-b64d6c8ca14fb74695d24184646baa44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b64d6c8ca14fb74695d24184646baa44]
+## 2. Interpretation[^c-b64d6c8ca14fb74695d24184646baa44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of Smart Energy Code[^key-b64d6c8ca14fb74695d24184646baa44]
+## 3. Designation of Smart Energy Code[^c-b64d6c8ca14fb74695d24184646baa44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exclusion of decisions[^key-b64d6c8ca14fb74695d24184646baa44]
+## 4. Exclusion of decisions[^c-b64d6c8ca14fb74695d24184646baa44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b64d6c8ca14fb74695d24184646baa44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b64d6c8ca14fb74695d24184646baa44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b64d6c8ca14fb74695d24184646baa44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b64d6c8ca14fb74695d24184646baa44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b64d6c8ca14fb74695d24184646baa44]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/2429) revoked (18.6.2014) by [The Electricity and Gas Appeals (Designation and Exclusion) Order 2014 (S.I. 2014/1293)](https://www.legislation.gov.uk/uksi/2014/1293), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2014/1293/schedule/paragraph/3) (with [art. 14(2)](https://www.legislation.gov.uk/uksi/2014/1293/article/14/2))
+[^c-b64d6c8ca14fb74695d24184646baa44]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/2429) revoked (18.6.2014) by [The Electricity and Gas Appeals (Designation and Exclusion) Order 2014 (S.I. 2014/1293)](https://www.legislation.gov.uk/uksi/2014/1293), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2014/1293/schedule/paragraph/3) (with [art. 14(2)](https://www.legislation.gov.uk/uksi/2014/1293/article/14/2))

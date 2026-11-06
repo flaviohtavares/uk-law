@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Removal of rule preventing appointment of body corporate as auditor[^key-c336ce6a7e8ccaf72c2df7b664a010de]
+## 53. Removal of rule preventing appointment of body corporate as auditor[^c-c336ce6a7e8ccaf72c2df7b664a010de]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c336ce6a7e8ccaf72c2df7b664a010de]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2004/24/section/53) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
+[^c-c336ce6a7e8ccaf72c2df7b664a010de]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2004/24/section/53) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)

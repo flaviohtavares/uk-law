@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Guidance on making national security determinations[^key-afe8eea6fbe025055ac9ffb48d6ae9be]
+## 22. Guidance on making national security determinations[^c-afe8eea6fbe025055ac9ffb48d6ae9be]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afe8eea6fbe025055ac9ffb48d6ae9be]: Commencement: S. 22 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/b)
+[^c-afe8eea6fbe025055ac9ffb48d6ae9be]: Commencement: S. 22 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/b)

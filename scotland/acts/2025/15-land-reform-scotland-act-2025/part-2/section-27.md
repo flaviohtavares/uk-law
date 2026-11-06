@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Tenant extension notice[^key-3d2d3b51be17474f70e905e204f8848b]
+## 27. Tenant extension notice[^c-3d2d3b51be17474f70e905e204f8848b]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d2d3b51be17474f70e905e204f8848b]: Commencement: S. 27 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-3d2d3b51be17474f70e905e204f8848b]: Commencement: S. 27 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

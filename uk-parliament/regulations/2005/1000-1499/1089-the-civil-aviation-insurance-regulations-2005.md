@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for Transport, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to air transport, in exercise of the powers conferred upon him by that section, hereby makes the following Regulations:
 
-## 1. Citation and Commencement[^key-91b8510c8c079bf4c2a8984443ab3cea]
+## 1. Citation and Commencement[^c-91b8510c8c079bf4c2a8984443ab3cea]
 
 These Regulations may be cited as the Civil Aviation (Insurance) Regulations 2005 and shall come into force on 30th April 2005.
 
-## 2. Interpretation[^key-87eab13ddb4b0e06032c64350cf031a6]
+## 2. Interpretation[^c-87eab13ddb4b0e06032c64350cf031a6]
 
 (1) In these Regulations—
 
@@ -61,23 +61,23 @@ These Regulations may be cited as the Civil Aviation (Insurance) Regulations 200
 
 (2) Other expressions used in these Regulations have, in so far as the context admits, the same meaning as in the Insurance Regulation.
 
-## 3. Competent Authority[^key-54ed8f18ee7bc1d03317b952815e77b5]
+## 3. Competent Authority[^c-54ed8f18ee7bc1d03317b952815e77b5]
 
-(1) Subject to paragraph (2) the CAA shall perform the functions that are required by Article 5[^key-c45baf1ccf56130295f56f052fdaf1be] of the Insurance Regulation to be performed by the United Kingdom or by the competent authorities of the United Kingdom.
+(1) Subject to paragraph (2) the CAA shall perform the functions that are required by Article 5[^c-c45baf1ccf56130295f56f052fdaf1be] of the Insurance Regulation to be performed by the United Kingdom or by the competent authorities of the United Kingdom.
 
 (2) The Secretary of State or a person authorised by him to act on his behalf shall perform these functions in relation to an aircraft in respect of which a permit under article 113 or 115 of the Order is required or has been granted.
 
-## 4. Offence of failing to comply with the Insurance Regulation[^key-cdedd2c7a0d87e73ba2f498314e063f0]
+## 4. Offence of failing to comply with the Insurance Regulation[^c-cdedd2c7a0d87e73ba2f498314e063f0]
 
-(1) An[^key-ad4b10153a3e7daddd5bc725a08c302e] air carrier or aircraft operator shall be guilty of an offence if he fails to comply with any requirement imposed on him by paragraphs 1 and 2 of Article 4 of the Insurance Regulation.
+(1) An[^c-ad4b10153a3e7daddd5bc725a08c302e] air carrier or aircraft operator shall be guilty of an offence if he fails to comply with any requirement imposed on him by paragraphs 1 and 2 of Article 4 of the Insurance Regulation.
 
-(2)[^key-9f8a5f160d48d8f6d3a9f78366e9b157] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9f8a5f160d48d8f6d3a9f78366e9b157] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Minimum insurance in respect of liability for passengers[^key-7ebfeb2c40053523e92aa43ebc4c9984]
+## 5. Minimum insurance in respect of liability for passengers[^c-7ebfeb2c40053523e92aa43ebc4c9984]
 
 For the purposes of paragraph 1 of Article 6 of the Insurance Regulation the level of minimum insurance cover set in respect of liability for passengers in the case of non-commercial operations by aircraft with an MTOM of 2,700 kg or less, shall be 100,000 SDRs per passenger.
 
-## 6. Provision of information[^key-080b8676ac9637378a92f66d40496666]
+## 6. Provision of information[^c-080b8676ac9637378a92f66d40496666]
 
 (1) This regulation applies if—
 
@@ -91,7 +91,7 @@ For the purposes of paragraph 1 of Article 6 of the Insurance Regulation the lev
 - (a) where the aircraft is registered under article 4 of the Order and is not an aircraft to which article 4(17) of the Order applies, the CAA shall cancel the registration of the aircraft; and
 - (b) where the aircraft is not so registered or is an aircraft to which article 4(17) of the Order applies the air carrier or aircraft operator shall be guilty of an offence.
 
-**7.**[^key-09e9997dde9d5987612e095a7f5c8080] (1) On applying for the registration of an aircraft in the United Kingdom under article 4(6) of the Order, the following shall be provided to the CAA—
+**7.**[^c-09e9997dde9d5987612e095a7f5c8080] (1) On applying for the registration of an aircraft in the United Kingdom under article 4(6) of the Order, the following shall be provided to the CAA—
 
 - (a) an insurance certificate or any other evidence of insurance relating to the aircraft for aviation-specific liability in respect of passengers, baggage, cargo or third parties; or
 - (b) a declaration in writing that the applicant will not permit the aircraft to be flown other than as a State aircraft unless he has first provided to the CAA such a certificate or such evidence of insurance.
@@ -100,7 +100,7 @@ For the purposes of paragraph 1 of Article 6 of the Insurance Regulation the lev
 
 (3) The requirement in article 4(11)(a) of the Order to inform the CAA in writing of changes in particulars shall not extend to changes in particulars furnished pursuant to paragraph (1).
 
-**8.**[^key-bb6923bc6b721df119dca21b9733f1df] (1) This regulation applies in relation to an aircraft for which a permit under article 113 or 115 of the Order is required or has been granted.
+**8.**[^c-bb6923bc6b721df119dca21b9733f1df] (1) This regulation applies in relation to an aircraft for which a permit under article 113 or 115 of the Order is required or has been granted.
 
 (2) If—
 
@@ -111,11 +111,11 @@ For the purposes of paragraph 1 of Article 6 of the Insurance Regulation the lev
 
 the air carrier or aircraft operator shall be guilty of an offence.
 
-## 9. Provision of false information[^key-436b6530b846e3004891c0f9e375ab79]
+## 9. Provision of false information[^c-436b6530b846e3004891c0f9e375ab79]
 
 Any person who for the purpose of demonstrating compliance with the requirements of paragraphs 1 and 2 of Article 4 of the Insurance Regulation knowingly or recklessly provides an insurance certificate or other evidence of insurance which is false in a material respect shall be guilty of an offence.
 
-## 10. Prevention of take off[^key-b5d16f829ee8d741a68271e03c216854]
+## 10. Prevention of take off[^c-b5d16f829ee8d741a68271e03c216854]
 
 (1) Where the relevant authority has reason to believe that an aircraft is intended or likely to be flown in such circumstances that the requirements of paragraphs 1 or 2 of Article 4 of the Insurance Regulation will be contravened he—
 
@@ -131,11 +131,11 @@ Any person who for the purpose of demonstrating compliance with the requirements
 - (a) in the case of an aircraft in respect of which a permit is required under article 113 or 115 of the Order, the Secretary of State or a person authorised to act on his behalf for this purpose; and
 - (b) in the case of any other aircraft, the CAA .
 
-## 11. Obstruction of officers of the competent authority[^key-aac941527de485a3f37877cba67b2fdf]
+## 11. Obstruction of officers of the competent authority[^c-aac941527de485a3f37877cba67b2fdf]
 
 A person who intentionally obstructs or impedes a relevant authority acting in exercise of his functions under regulation 10 shall be guilty of an offence.
 
-## 12. Penalties[^key-ab307dafc41d3750bec1d8166172ae5d]
+## 12. Penalties[^c-ab307dafc41d3750bec1d8166172ae5d]
 
 (1) A person guilty of an offence under regulation 4(1), 9, 10(2) or 11 shall be liable—
 
@@ -182,36 +182,36 @@ A Regulatory Impact Assessment has been produced and a copy placed in the librar
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-91b8510c8c079bf4c2a8984443ab3cea]: Commencement: Reg. 1 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-91b8510c8c079bf4c2a8984443ab3cea]: Commencement: Reg. 1 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
 
-[^key-87eab13ddb4b0e06032c64350cf031a6]: Commencement: Reg. 2 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-87eab13ddb4b0e06032c64350cf031a6]: Commencement: Reg. 2 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
 
 [^f00003]: Footnote: O.J. No L 138, 30.4.2004, p 1.
 
 [^f00004]: Footnote: S.I. [2000/1562](https://www.legislation.gov.uk/uksi/2000/1562), to which there are amendments not relevant to these Regulations.
 
-[^key-54ed8f18ee7bc1d03317b952815e77b5]: Commencement: Reg. 3 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-54ed8f18ee7bc1d03317b952815e77b5]: Commencement: Reg. 3 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
 
-[^key-c45baf1ccf56130295f56f052fdaf1be]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/1089/regulation/3/1) substituted (31.12.2020) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1363)](https://www.legislation.gov.uk/uksi/2018/1363), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1363/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c45baf1ccf56130295f56f052fdaf1be]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/1089/regulation/3/1) substituted (31.12.2020) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1363)](https://www.legislation.gov.uk/uksi/2018/1363), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1363/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cdedd2c7a0d87e73ba2f498314e063f0]: Commencement: Reg. 4 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-cdedd2c7a0d87e73ba2f498314e063f0]: Commencement: Reg. 4 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
 
-[^key-ad4b10153a3e7daddd5bc725a08c302e]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2005/1089/regulation/4/1) substituted (31.12.2020) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1363)](https://www.legislation.gov.uk/uksi/2018/1363), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1363/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad4b10153a3e7daddd5bc725a08c302e]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2005/1089/regulation/4/1) substituted (31.12.2020) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1363)](https://www.legislation.gov.uk/uksi/2018/1363), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1363/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f8a5f160d48d8f6d3a9f78366e9b157]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2005/1089/regulation/4/2) omitted (31.12.2020) by virtue of [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1363)](https://www.legislation.gov.uk/uksi/2018/1363), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1363/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f8a5f160d48d8f6d3a9f78366e9b157]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2005/1089/regulation/4/2) omitted (31.12.2020) by virtue of [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1363)](https://www.legislation.gov.uk/uksi/2018/1363), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1363/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7ebfeb2c40053523e92aa43ebc4c9984]: Commencement: Reg. 5 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-7ebfeb2c40053523e92aa43ebc4c9984]: Commencement: Reg. 5 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
 
-[^key-080b8676ac9637378a92f66d40496666]: Commencement: Reg. 6 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-080b8676ac9637378a92f66d40496666]: Commencement: Reg. 6 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
 
-[^key-09e9997dde9d5987612e095a7f5c8080]: Commencement: Reg. 7 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-09e9997dde9d5987612e095a7f5c8080]: Commencement: Reg. 7 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
 
-[^key-bb6923bc6b721df119dca21b9733f1df]: Commencement: Reg. 8 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-bb6923bc6b721df119dca21b9733f1df]: Commencement: Reg. 8 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
 
-[^key-436b6530b846e3004891c0f9e375ab79]: Commencement: Reg. 9 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-436b6530b846e3004891c0f9e375ab79]: Commencement: Reg. 9 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
 
-[^key-b5d16f829ee8d741a68271e03c216854]: Commencement: Reg. 10 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-b5d16f829ee8d741a68271e03c216854]: Commencement: Reg. 10 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
 
-[^key-aac941527de485a3f37877cba67b2fdf]: Commencement: Reg. 11 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-aac941527de485a3f37877cba67b2fdf]: Commencement: Reg. 11 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
 
-[^key-ab307dafc41d3750bec1d8166172ae5d]: Commencement: Reg. 12 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+[^c-ab307dafc41d3750bec1d8166172ae5d]: Commencement: Reg. 12 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)

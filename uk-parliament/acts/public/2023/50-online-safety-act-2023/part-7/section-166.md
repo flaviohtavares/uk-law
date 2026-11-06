@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Media literacy strategy and media literacy statement[^key-17ce9ded3ea991235edad4dc3e81ec82][^key-fb10a6d349e8a01fbf4e6bf9d669506e]
+## 166. Media literacy strategy and media literacy statement[^c-17ce9ded3ea991235edad4dc3e81ec82][^c-fb10a6d349e8a01fbf4e6bf9d669506e]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ After section 11 of the Communications Act insert—
 
 ## Annotations
 
-[^key-17ce9ded3ea991235edad4dc3e81ec82]: Commencement: S. 166 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-17ce9ded3ea991235edad4dc3e81ec82]: Commencement: S. 166 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-fb10a6d349e8a01fbf4e6bf9d669506e]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2023/50/section/166) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
+[^c-fb10a6d349e8a01fbf4e6bf9d669506e]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2023/50/section/166) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)

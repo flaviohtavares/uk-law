@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Default in carrying out decommissioning programmes[^key-8fa666e285ebfafccfabab5e34bb1487][^key-30a880b3606b71847f582d2e66ec5031]
+## 110. Default in carrying out decommissioning programmes[^c-8fa666e285ebfafccfabab5e34bb1487][^c-30a880b3606b71847f582d2e66ec5031]
 
 *Extent: E+W+S+N.I.*
 
 (1) Where—
 
-- (a) a decommissioning programme approved by the appropriate Minister[^key-f446ceb88a2c8efd41e9e5af847191b4] is not carried out in a particular respect, or
+- (a) a decommissioning programme approved by the appropriate Minister[^c-f446ceb88a2c8efd41e9e5af847191b4] is not carried out in a particular respect, or
 - (b) a condition to which the approval is subject is contravened,
 
 the appropriate Minister may, by notice, require a person subject to the duty under section 109(1) in relation to the programme to take such remedial action as may be specified in the notice.
@@ -47,8 +47,8 @@ the appropriate Minister may, by notice, require a person subject to the duty un
 
 ## Annotations
 
-[^key-8fa666e285ebfafccfabab5e34bb1487]: Commencement: S. 110 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
+[^c-8fa666e285ebfafccfabab5e34bb1487]: Commencement: S. 110 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
 
-[^key-30a880b3606b71847f582d2e66ec5031]: Modification: S. 110 applied (with modifications) in part (E.W.S.) (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [42(4)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/4)[(5)(d)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/5/d) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
+[^c-30a880b3606b71847f582d2e66ec5031]: Modification: S. 110 applied (with modifications) in part (E.W.S.) (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [42(4)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/4)[(5)(d)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/5/d) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
 
-[^key-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))

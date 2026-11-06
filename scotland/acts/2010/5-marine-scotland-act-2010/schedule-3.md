@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — Warrants issued under section 137[^key-bb8a23261403c0895f67f2cf52a27f40]
+## SCHEDULE 3 — Warrants issued under section 137[^c-bb8a23261403c0895f67f2cf52a27f40]
 
 *Extent: S*
 
@@ -116,4 +116,4 @@ must be returned to the appropriate person.
 
 ## Annotations
 
-[^key-bb8a23261403c0895f67f2cf52a27f40]: Modification: Sch. 3 excluded (31.12.2010) by [The Marine (Scotland) Act 2010 (Consequential Provisions) Order 2010 (S.I. 2010/2870)](https://www.legislation.gov.uk/uksi/2010/2870), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2870/article/1), [10](https://www.legislation.gov.uk/uksi/2010/2870/article/10)
+[^c-bb8a23261403c0895f67f2cf52a27f40]: Modification: Sch. 3 excluded (31.12.2010) by [The Marine (Scotland) Act 2010 (Consequential Provisions) Order 2010 (S.I. 2010/2870)](https://www.legislation.gov.uk/uksi/2010/2870), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2870/article/1), [10](https://www.legislation.gov.uk/uksi/2010/2870/article/10)

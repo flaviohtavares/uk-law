@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 216A. Penalty for failure to notify Revenue Scotland of production of exempt aggregate: Scottish aggregates tax[^key-ef6f894bcf6aec3951e11854343a3c2d]
+## 216A. Penalty for failure to notify Revenue Scotland of production of exempt aggregate: Scottish aggregates tax[^c-ef6f894bcf6aec3951e11854343a3c2d]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef6f894bcf6aec3951e11854343a3c2d]: Textual amendment: [Pt. 8 Ch. 5A](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/5A) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 43(2)](https://www.legislation.gov.uk/asp/2024/14/section/43/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
+[^c-ef6f894bcf6aec3951e11854343a3c2d]: Textual amendment: [Pt. 8 Ch. 5A](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/5A) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 43(2)](https://www.legislation.gov.uk/asp/2024/14/section/43/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)

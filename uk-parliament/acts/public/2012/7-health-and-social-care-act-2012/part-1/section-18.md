@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Regulations as to the exercise by local authorities of certain public health functions[^key-2da886b0ea13a99cf20b65f0e0ac245d][^c2191274]
+## 18. Regulations as to the exercise by local authorities of certain public health functions[^c-2da886b0ea13a99cf20b65f0e0ac245d][^c2191274]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2da886b0ea13a99cf20b65f0e0ac245d]: Commencement: S. 18 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-2da886b0ea13a99cf20b65f0e0ac245d]: Commencement: S. 18 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191274]: Commencement: S. 18 partly in force; s. 18 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

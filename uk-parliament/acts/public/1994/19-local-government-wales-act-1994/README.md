@@ -101,13 +101,13 @@ Local Government (Wales) Act 1994
 - [Section 25 — Provision of services by one new principal council for another.](part-ii/section-25.md)
 - [Section 26 — Service delivery plans.](part-ii/section-26.md)
 
-### PART III — Decentralisation and Joint Working[^key-01d968c0a1cb2488a6a03214d9dd9499]
+### PART III — Decentralisation and Joint Working[^c-01d968c0a1cb2488a6a03214d9dd9499]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### Decentralisation schemes[^key-01d968c0a1cb2488a6a03214d9dd9499]
+#### Decentralisation schemes[^c-01d968c0a1cb2488a6a03214d9dd9499]
 
 **No longer in force.**
 
@@ -117,7 +117,7 @@ Local Government (Wales) Act 1994
 - [Section 30 — Area committees: membership etc.](part-iii/section-30.md)
 - [Section 31 — Sub-committees of area committees.](part-iii/section-31.md)
 
-#### Joint working[^key-01d968c0a1cb2488a6a03214d9dd9499]
+#### Joint working[^c-01d968c0a1cb2488a6a03214d9dd9499]
 
 **No longer in force.**
 
@@ -206,4 +206,4 @@ SCHEDULES
 
 [^c10519081]: Commencement: Act partly in force at Royal Assent see 66(2)
 
-[^key-01d968c0a1cb2488a6a03214d9dd9499]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/1994/19/part/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/40/2)
+[^c-01d968c0a1cb2488a6a03214d9dd9499]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/1994/19/part/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/40/2)

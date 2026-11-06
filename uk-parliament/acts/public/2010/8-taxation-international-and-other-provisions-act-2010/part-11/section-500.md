@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 500. Abbreviated references to Acts[^key-859e3e2f8ddb12a53498b2af3450a656]
+## 500. Abbreviated references to Acts[^c-859e3e2f8ddb12a53498b2af3450a656]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In this Act—
 
 ## Annotations
 
-[^key-859e3e2f8ddb12a53498b2af3450a656]: Textual amendment: S. 373 renumbered as s. 500 (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/3/b)
+[^c-859e3e2f8ddb12a53498b2af3450a656]: Textual amendment: S. 373 renumbered as s. 500 (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/3/b)

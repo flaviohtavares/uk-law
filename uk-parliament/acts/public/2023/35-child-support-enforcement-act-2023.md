@@ -36,14 +36,14 @@ An Act to make provision about the enforcement of child support maintenance and 
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Interpretation[^key-4d85b049a2deaaa739fb311aff57a9a3]
+## 1. Interpretation[^c-4d85b049a2deaaa739fb311aff57a9a3]
 
 In this Act—
 
 - “**the 1991 Act**” means the Child Support Act 1991;
 - “**the 2008 Act**” means the Child Maintenance and Other Payments Act 2008.
 
-## 2. Making of liability order[^key-ca6f683367d0c4247edb1d81935551b6]
+## 2. Making of liability order[^c-ca6f683367d0c4247edb1d81935551b6]
 
 In section 32M of the 1991 Act (as inserted by section 25 of the 2008 Act) (liability orders), for subsection (1) substitute—
 
@@ -56,7 +56,7 @@ In section 32M of the 1991 Act (as inserted by section 25 of the 2008 Act) (liab
 >
 >   the Secretary of State may make an order in respect of that amount against the person.
 
-## 3. Power to vary liability order[^key-daa1e8c9e64b8b04e490ba43bd0c5028]
+## 3. Power to vary liability order[^c-daa1e8c9e64b8b04e490ba43bd0c5028]
 
 In section 32N of the 1991 Act (as inserted by section 25 of the 2008 Act) (regulations about liability orders), in subsection (2), after paragraph (b) insert—
 
@@ -64,11 +64,11 @@ In section 32N of the 1991 Act (as inserted by section 25 of the 2008 Act) (regu
 
 .
 
-## 4. Appeal of liability order[^key-f25acae1b54ce9592becf68fb2a9c9fc]
+## 4. Appeal of liability order[^c-f25acae1b54ce9592becf68fb2a9c9fc]
 
-(1)[^key-f25acae1b54ce9592becf68fb2a9c9fc] The 1991 Act is amended in accordance with subsections (2) to (4).
+(1)[^c-f25acae1b54ce9592becf68fb2a9c9fc] The 1991 Act is amended in accordance with subsections (2) to (4).
 
-(2)[^key-f25acae1b54ce9592becf68fb2a9c9fc] In section 32N (as inserted by section 25 of the 2008 Act) (regulations about liability orders), after subsection (2) insert—
+(2)[^c-f25acae1b54ce9592becf68fb2a9c9fc] In section 32N (as inserted by section 25 of the 2008 Act) (regulations about liability orders), after subsection (2) insert—
 
 > (3) The Secretary of State must by regulations make provision for a person against whom a liability order is made to have a right to appeal to a court against the making of the order.
 >
@@ -79,17 +79,17 @@ In section 32N of the 1991 Act (as inserted by section 25 of the 2008 Act) (regu
 > - (a) provision with respect to the period within which a right of appeal under the regulations may be exercised;
 > - (b) provision with respect to the powers of the court to which the appeal under the regulation lies.
 
-(3)[^key-f25acae1b54ce9592becf68fb2a9c9fc] In section 32M (as inserted by section 25 of the 2008 Act) (liability orders), in subsection (3) for “section 20” in both places substitute “regulations under section 32N(3)”.
+(3)[^c-f25acae1b54ce9592becf68fb2a9c9fc] In section 32M (as inserted by section 25 of the 2008 Act) (liability orders), in subsection (3) for “section 20” in both places substitute “regulations under section 32N(3)”.
 
-(4)[^key-f25acae1b54ce9592becf68fb2a9c9fc] In section 52 (regulations and orders), in subsection (2A), after paragraph (a) insert—
+(4)[^c-f25acae1b54ce9592becf68fb2a9c9fc] In section 52 (regulations and orders), in subsection (2A), after paragraph (a) insert—
 
 > - (aa) the first regulations under section 32N(3),
 
 .
 
-(5)[^key-31e36d5cd35bec6f1567490883302787] In Schedule 7 to the 2008 Act (minor and consequential amendments), omit paragraph 1(3) to (6).
+(5)[^c-31e36d5cd35bec6f1567490883302787] In Schedule 7 to the 2008 Act (minor and consequential amendments), omit paragraph 1(3) to (6).
 
-## 5. Consequential amendments[^key-c213edf5681d652fa73649aef09133d9]
+## 5. Consequential amendments[^c-c213edf5681d652fa73649aef09133d9]
 
 In section 59 of the 2008 Act (transition)—
 
@@ -98,7 +98,7 @@ In section 59 of the 2008 Act (transition)—
   - (i) omit “20(7A),”;
   - (ii) after “32M,” insert “32N,”.
 
-## 6. Extent, commencement and short title[^key-a3a955b3e850092ddab57ea9729552cd]
+## 6. Extent, commencement and short title[^c-a3a955b3e850092ddab57ea9729552cd]
 
 (1) This Act extends to England and Wales and Scotland.
 
@@ -115,16 +115,16 @@ In section 59 of the 2008 Act (transition)—
 
 ## Annotations
 
-[^key-4d85b049a2deaaa739fb311aff57a9a3]: Commencement: S. 1 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/2)
+[^c-4d85b049a2deaaa739fb311aff57a9a3]: Commencement: S. 1 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/2)
 
-[^key-ca6f683367d0c4247edb1d81935551b6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/35/section/2) comes into force in accordance with [s. 6(4)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/4)
+[^c-ca6f683367d0c4247edb1d81935551b6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/35/section/2) comes into force in accordance with [s. 6(4)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/4)
 
-[^key-daa1e8c9e64b8b04e490ba43bd0c5028]: Commencement: S. 3 comes into force in accordance with [s. 6(4)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/4)
+[^c-daa1e8c9e64b8b04e490ba43bd0c5028]: Commencement: S. 3 comes into force in accordance with [s. 6(4)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/4)
 
-[^key-f25acae1b54ce9592becf68fb2a9c9fc]: Commencement: S. 4(1)-(4) comes into force in accordance with [s. 6(4)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/4)
+[^c-f25acae1b54ce9592becf68fb2a9c9fc]: Commencement: S. 4(1)-(4) comes into force in accordance with [s. 6(4)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/4)
 
-[^key-31e36d5cd35bec6f1567490883302787]: Commencement: [S. 4(5)](https://www.legislation.gov.uk/ukpga/2023/35/section/4/5) in force at 20.9.2023, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/3)
+[^c-31e36d5cd35bec6f1567490883302787]: Commencement: [S. 4(5)](https://www.legislation.gov.uk/ukpga/2023/35/section/4/5) in force at 20.9.2023, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/3)
 
-[^key-c213edf5681d652fa73649aef09133d9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/35/section/5) in force at 20.9.2023, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/3)
+[^c-c213edf5681d652fa73649aef09133d9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/35/section/5) in force at 20.9.2023, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/3)
 
-[^key-a3a955b3e850092ddab57ea9729552cd]: Commencement: S. 6 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/2)
+[^c-a3a955b3e850092ddab57ea9729552cd]: Commencement: S. 6 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2023/35/section/6/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Modification of the Fisheries Act 1981: enforcement of EU rules[^key-2a030e10b8e0771d942782f1c36ca190]
+## 51. Modification of the Fisheries Act 1981: enforcement of EU rules[^c-2a030e10b8e0771d942782f1c36ca190]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a030e10b8e0771d942782f1c36ca190]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2013/7/section/51) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-2a030e10b8e0771d942782f1c36ca190]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2013/7/section/51) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

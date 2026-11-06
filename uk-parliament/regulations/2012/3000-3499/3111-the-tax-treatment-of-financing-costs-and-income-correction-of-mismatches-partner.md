@@ -32,7 +32,7 @@ summary: ''
 
 Corporation Tax
 
-The Tax Treatment of Financing Costs and Income (Correction of Mismatches: Partnerships and Pensions) Regulations 2012 (revoked)[^key-9fa28e054be0b3c9967c2bc00f657364]
+The Tax Treatment of Financing Costs and Income (Correction of Mismatches: Partnerships and Pensions) Regulations 2012 (revoked)[^c-9fa28e054be0b3c9967c2bc00f657364]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 7th January 2013
 
-[^key-9fa28e054be0b3c9967c2bc00f657364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fa28e054be0b3c9967c2bc00f657364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, effect and interpretation[^key-9fa28e054be0b3c9967c2bc00f657364]
+## 1. Citation, commencement, effect and interpretation[^c-9fa28e054be0b3c9967c2bc00f657364]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to Part 7 of the Taxation (International and Other Provisions) Act 2010[^key-9fa28e054be0b3c9967c2bc00f657364]
+## 2. Amendment to Part 7 of the Taxation (International and Other Provisions) Act 2010[^c-9fa28e054be0b3c9967c2bc00f657364]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Tax Treatment of Financing Costs and Income (Correction of Mismatches) Regulations 2010[^key-9fa28e054be0b3c9967c2bc00f657364]
+## 3. Amendment to the Tax Treatment of Financing Costs and Income (Correction of Mismatches) Regulations 2010[^c-9fa28e054be0b3c9967c2bc00f657364]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Election that these Regulations do not apply[^key-9fa28e054be0b3c9967c2bc00f657364]
+## 4. Election that these Regulations do not apply[^c-9fa28e054be0b3c9967c2bc00f657364]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9fa28e054be0b3c9967c2bc00f657364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fa28e054be0b3c9967c2bc00f657364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9fa28e054be0b3c9967c2bc00f657364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fa28e054be0b3c9967c2bc00f657364]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9fa28e054be0b3c9967c2bc00f657364]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/3111) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(g)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/g)
+[^c-9fa28e054be0b3c9967c2bc00f657364]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/3111) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(g)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/g)

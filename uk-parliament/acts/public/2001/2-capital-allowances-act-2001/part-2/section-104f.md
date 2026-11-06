@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104F. Special rate cars: discontinued activity continued by relevant company[^key-02a09665dc70b6b482cbe2a02e0b897a]
+## 104F. Special rate cars: discontinued activity continued by relevant company[^c-02a09665dc70b6b482cbe2a02e0b897a]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ For the purposes of this section if BC–OBA is a negative amount it is to be tr
 - “**car**” has the meaning given in section 268A;
 - “**company**” means any body corporate;
 - “**group relief company**” means—
-  - (a) a company to which group relief under Part 5 of CTA 2010[^key-0dc16722299f78c7508d4f0f9c2c9fe1] would be available (on the making of a claim) in respect of balancing allowances surrendered by the taxpayer in the taxpayer's final chargeable period, and
+  - (a) a company to which group relief under Part 5 of CTA 2010[^c-0dc16722299f78c7508d4f0f9c2c9fe1] would be available (on the making of a claim) in respect of balancing allowances surrendered by the taxpayer in the taxpayer's final chargeable period, and
   - (b) a company to which such relief would be available (on the making of a claim) in respect of balancing allowances surrendered by a company within paragraph (a);
 - “**main rate car**” has the meaning given in section 104AA;
 - “**penultimate chargeable period**” means the chargeable period preceding the final chargeable period;
@@ -70,6 +70,6 @@ For the purposes of this section if BC–OBA is a negative amount it is to be tr
 
 ## Annotations
 
-[^key-02a09665dc70b6b482cbe2a02e0b897a]: Textual amendment: S. 104F inserted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/9) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))
+[^c-02a09665dc70b6b482cbe2a02e0b897a]: Textual amendment: S. 104F inserted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/9) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))
 
-[^key-0dc16722299f78c7508d4f0f9c2c9fe1]: Textual amendment: Words in s. 104F(10) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 333](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/333) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0dc16722299f78c7508d4f0f9c2c9fe1]: Textual amendment: Words in s. 104F(10) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 333](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/333) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

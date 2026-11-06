@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Enforcement cost recovery notices[^key-02bfceabefee10412b6edd71c2f4897d]
+## 123. Enforcement cost recovery notices[^c-02bfceabefee10412b6edd71c2f4897d]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02bfceabefee10412b6edd71c2f4897d]: Commencement: Reg. 123 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-02bfceabefee10412b6edd71c2f4897d]: Commencement: Reg. 123 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

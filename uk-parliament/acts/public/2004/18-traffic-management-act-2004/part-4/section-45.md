@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-14b346009f3a7d3426a7934f756578b9] Section 53 of the 1991 Act (the street works register) is amended as follows.
+(1)[^c-14b346009f3a7d3426a7934f756578b9] Section 53 of the 1991 Act (the street works register) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -36,14 +36,14 @@ summary: ''
   >
   >   as may be prescribed.
 
-(3)[^key-14b346009f3a7d3426a7934f756578b9] After subsection (4) there is inserted—
+(3)[^c-14b346009f3a7d3426a7934f756578b9] After subsection (4) there is inserted—
 
 > (4A) In subsection (4) “**central register**” means a register covering the areas of two or more street authorities.
 
-(4)[^key-14b346009f3a7d3426a7934f756578b9] After subsection (5) there is inserted—
+(4)[^c-14b346009f3a7d3426a7934f756578b9] After subsection (5) there is inserted—
 
 > (5A) In particular the Secretary of State may require a street authority to share information in their possession with a person appointed to keep a central register which discharges the duties of that authority under this section.
 
 ## Annotations
 
-[^key-14b346009f3a7d3426a7934f756578b9]: Commencement: S. 45(1)(3)(4) in force at 29.6.2020 for E. by [S.I. 2020/659](https://www.legislation.gov.uk/uksi/2020/659), [art. 2](https://www.legislation.gov.uk/uksi/2020/659/article/2)
+[^c-14b346009f3a7d3426a7934f756578b9]: Commencement: S. 45(1)(3)(4) in force at 29.6.2020 for E. by [S.I. 2020/659](https://www.legislation.gov.uk/uksi/2020/659), [art. 2](https://www.legislation.gov.uk/uksi/2020/659/article/2)

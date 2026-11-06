@@ -32,7 +32,7 @@ summary: ''
 
 road traffic, england
 
-The Civil Enforcement of Parking Contraventions (Approved Devices) (England) Order 2007 (revoked)[^key-d09d7fe590641b9097a33492aade15fa]
+The Civil Enforcement of Parking Contraventions (Approved Devices) (England) Order 2007 (revoked)[^c-d09d7fe590641b9097a33492aade15fa]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 31st March 2008
 
-[^key-d09d7fe590641b9097a33492aade15fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d09d7fe590641b9097a33492aade15fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-d09d7fe590641b9097a33492aade15fa]
+## 1. Citation, commencement, application and interpretation[^c-d09d7fe590641b9097a33492aade15fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approved devices[^key-d09d7fe590641b9097a33492aade15fa]
+## 2. Approved devices[^c-d09d7fe590641b9097a33492aade15fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-d09d7fe590641b9097a33492aade15fa]
+## 3. Transitional provision[^c-d09d7fe590641b9097a33492aade15fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d09d7fe590641b9097a33492aade15fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d09d7fe590641b9097a33492aade15fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — THE SCHEDULED REQUIREMENTS[^key-d09d7fe590641b9097a33492aade15fa]
+## SCHEDULE — THE SCHEDULED REQUIREMENTS[^c-d09d7fe590641b9097a33492aade15fa]
 
 Article 1(3)
 
-**1.**[^key-d09d7fe590641b9097a33492aade15fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d09d7fe590641b9097a33492aade15fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d09d7fe590641b9097a33492aade15fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d09d7fe590641b9097a33492aade15fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d09d7fe590641b9097a33492aade15fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d09d7fe590641b9097a33492aade15fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d09d7fe590641b9097a33492aade15fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d09d7fe590641b9097a33492aade15fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d09d7fe590641b9097a33492aade15fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d09d7fe590641b9097a33492aade15fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d09d7fe590641b9097a33492aade15fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d09d7fe590641b9097a33492aade15fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d09d7fe590641b9097a33492aade15fa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/3486) revoked (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [32(1)(b)](https://www.legislation.gov.uk/uksi/2022/71/regulation/32/1/b) (with [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/5), [40](https://www.legislation.gov.uk/uksi/2022/71/regulation/40), [41](https://www.legislation.gov.uk/uksi/2022/71/regulation/41))
+[^c-d09d7fe590641b9097a33492aade15fa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/3486) revoked (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [32(1)(b)](https://www.legislation.gov.uk/uksi/2022/71/regulation/32/1/b) (with [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/5), [40](https://www.legislation.gov.uk/uksi/2022/71/regulation/40), [41](https://www.legislation.gov.uk/uksi/2022/71/regulation/41))

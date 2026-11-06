@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Limitation on power to make standards specifically applicable[^key-30b3fe82be6df62cb16520b59a5a39c3]
+## 43. Limitation on power to make standards specifically applicable[^c-30b3fe82be6df62cb16520b59a5a39c3]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ the standard as modified is not specifically applicable to the Minister of the C
 
 ## Annotations
 
-[^key-30b3fe82be6df62cb16520b59a5a39c3]: Commencement: [S. 43](https://www.legislation.gov.uk/mwa/2011/1/section/43) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-30b3fe82be6df62cb16520b59a5a39c3]: Commencement: [S. 43](https://www.legislation.gov.uk/mwa/2011/1/section/43) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

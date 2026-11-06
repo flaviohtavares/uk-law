@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Fees: Prudential Regulation Authority[^key-5c650968f6370957f97f7fdeb899f087]
+## 209. Fees: Prudential Regulation Authority[^c-5c650968f6370957f97f7fdeb899f087]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5c650968f6370957f97f7fdeb899f087]: Commencement: Reg. 209 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
+[^c-5c650968f6370957f97f7fdeb899f087]: Commencement: Reg. 209 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
 
 [^c23661251]: Marginal citation: The reference to the PRA's functions conferred by or under the Act is to be read in accordance with section 2AB(3) of the Act (see [section 3T(a)](https://www.legislation.gov.uk/uksi/2019/632/section/3T/a) of the Act). Sections 2AB and 3T were inserted by section 6 of the Financial Services Act 2012, and section 2AB(3) is amended by [S.I. 2018/1115](https://www.legislation.gov.uk/uksi/2018/1115) and these Regulations.
 

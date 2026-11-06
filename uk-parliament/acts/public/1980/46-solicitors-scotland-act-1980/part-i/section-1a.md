@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1A. Power to act as statutory regulator[^key-e67e30f153508a70f6561106fd94871b]
+## 1A. Power to act as statutory regulator[^c-e67e30f153508a70f6561106fd94871b]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Society may—
 
 ## Annotations
 
-[^key-e67e30f153508a70f6561106fd94871b]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/1980/46/section/1A) inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 131](https://www.legislation.gov.uk/asp/2010/16/section/131), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-e67e30f153508a70f6561106fd94871b]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/1980/46/section/1A) inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 131](https://www.legislation.gov.uk/asp/2010/16/section/131), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

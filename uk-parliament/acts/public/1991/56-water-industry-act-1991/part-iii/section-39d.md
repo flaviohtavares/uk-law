@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39D. Drought plans: supplementary[^key-7e72e959d7c6405d5dc7e2cf93cc7490]
+## 39D. Drought plans: supplementary[^c-7e72e959d7c6405d5dc7e2cf93cc7490]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ the instrument is to have no further effect and Her Majesty may by Order in Coun
 
 ## Annotations
 
-[^key-7e72e959d7c6405d5dc7e2cf93cc7490]: Textual amendment: S. 39D inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 28(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/28/5), [94(2)(g)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/g)
+[^c-7e72e959d7c6405d5dc7e2cf93cc7490]: Textual amendment: S. 39D inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 28(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/28/5), [94(2)(g)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/g)

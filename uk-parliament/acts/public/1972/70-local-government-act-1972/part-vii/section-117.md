@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 117. Disclosure by officers of interest in contracts.[^c15107401][^c15107411][^c15107421][^c15107431][^c18858421][^c18885551][^c20521041][^c22561571][^key-8fafe89064f4c009f1abc0056e24a654][^key-9cf045c883ea9989ab07f8194232d8f2]
+## 117. Disclosure by officers of interest in contracts.[^c15107401][^c15107411][^c15107421][^c15107431][^c18858421][^c18885551][^c20521041][^c22561571][^c-8fafe89064f4c009f1abc0056e24a654][^c-9cf045c883ea9989ab07f8194232d8f2]
 
 *Extent: E+W*
 
-(1)[^c15107441][^c18891441][^key-ee35793e2d21d2ca8b666922f8adfde9][^key-8c46ce04183f636bdee220c352338c41] If it comes to the knowledge of an officer employed, whether under this Act or any other enactment, by a local authority that a contract in which he has any pecuniary interest, whether direct or indirect (not being a contract to which he is himself a party), has been, or is proposed to be, entered into by the authority or any committee thereof, he shall as soon as practicable give notice in writing to the authority of the fact that he is interested therein.
+(1)[^c15107441][^c18891441][^c-ee35793e2d21d2ca8b666922f8adfde9][^c-8c46ce04183f636bdee220c352338c41] If it comes to the knowledge of an officer employed, whether under this Act or any other enactment, by a local authority that a contract in which he has any pecuniary interest, whether direct or indirect (not being a contract to which he is himself a party), has been, or is proposed to be, entered into by the authority or any committee thereof, he shall as soon as practicable give notice in writing to the authority of the fact that he is interested therein.
 
 For the purposes of this section an officer shall be treated as having indirectly a pecuniary interest in a contract or proposed contract if he would have been so treated by virtue of section 95 above had he been a member of the authority.
 
-(2)[^c15107441][^c18891451][^key-0906fe4e4584b8a9e674f37abf74f345][^key-8c46ce04183f636bdee220c352338c41] An officer of a local authority shall not, under colour of his office or employment, accept any fee or reward whatsoever other than his proper remuneration.
+(2)[^c15107441][^c18891451][^c-0906fe4e4584b8a9e674f37abf74f345][^c-8c46ce04183f636bdee220c352338c41] An officer of a local authority shall not, under colour of his office or employment, accept any fee or reward whatsoever other than his proper remuneration.
 
-(3)[^c15107441][^c18891461][^key-8c46ce04183f636bdee220c352338c41] Any person who contravenes the provisions of subsection (1) or (2) above shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale[^c15107471].
+(3)[^c15107441][^c18891461][^c-8c46ce04183f636bdee220c352338c41] Any person who contravenes the provisions of subsection (1) or (2) above shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale[^c15107471].
 
 (4) References in this section to a local authority shall include references to a corporate joint committee and[^M_F_8b18d394-e42c-407b-804c-a3cc581b4e86] to a joint committee appointed under Part VI of this Act or any other enactment.
 
@@ -77,9 +77,9 @@ For the purposes of this section an officer shall be treated as having indirectl
 
 [^c22561571]: Modification: S. 117 modified (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [art. 1](https://www.legislation.gov.uk/uksi/2010/497/article/1), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2010/497/schedule/4/paragraph/4)
 
-[^key-8fafe89064f4c009f1abc0056e24a654]: Modification: Ss. 112-117 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-8fafe89064f4c009f1abc0056e24a654]: Modification: Ss. 112-117 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
-[^key-9cf045c883ea9989ab07f8194232d8f2]: Modification: S. 117 modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [19(3)(c)](https://www.legislation.gov.uk/uksi/2018/103/regulation/19/3/c)
+[^c-9cf045c883ea9989ab07f8194232d8f2]: Modification: S. 117 modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [19(3)(c)](https://www.legislation.gov.uk/uksi/2018/103/regulation/19/3/c)
 
 [^c15107441]: Modification: S. 117(1)(2)(3) applied (with modifications) (5.12.1995) by [S.I. 1995/3132](https://www.legislation.gov.uk/uksi/1995/3132), [art. 2](https://www.legislation.gov.uk/uksi/1995/3132/article/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/1995/3132/schedule/paragraph/24); [S.I. 1995/3133](https://www.legislation.gov.uk/uksi/1995/3133), [art. 2](https://www.legislation.gov.uk/uksi/1995/3133/article/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/1995/3133/schedule/paragraph/24); [S.I. 1995/3127](https://www.legislation.gov.uk/uksi/1995/3127), [art. 2](https://www.legislation.gov.uk/uksi/1995/3127/article/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/1995/3127/schedule/paragraph/24); [S.I. 1995/3131](https://www.legislation.gov.uk/uksi/1995/3131), [art. 2](https://www.legislation.gov.uk/uksi/1995/3131/article/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/1995/3131/schedule/paragraph/24)
 
@@ -89,13 +89,13 @@ For the purposes of this section an officer shall be treated as having indirectl
 
 [^c18891441]: Modification: S. 117(1) applied (with modifications) (20.11.2006) by [The Devon and Somerset Fire and Rescue Authority (Combination Scheme) Order 2006 (S.I. 2006/2790)](https://www.legislation.gov.uk/uksi/2006/2790), [art. 2](https://www.legislation.gov.uk/uksi/2006/2790/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2006/2790/schedule/paragraph/19)
 
-[^key-ee35793e2d21d2ca8b666922f8adfde9]: Modification: S. 117(1) applied (with modifications) (1.4.2015) by [The Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015 (S.I. 2015/435)](https://www.legislation.gov.uk/uksi/2015/435), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/435/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/435/schedule/paragraph/19)
+[^c-ee35793e2d21d2ca8b666922f8adfde9]: Modification: S. 117(1) applied (with modifications) (1.4.2015) by [The Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015 (S.I. 2015/435)](https://www.legislation.gov.uk/uksi/2015/435), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/435/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/435/schedule/paragraph/19)
 
-[^key-8c46ce04183f636bdee220c352338c41]: Modification: S. 117(1)(2)(3) applied (with modifications) (1.4.2020) by [The Hampshire and Isle of Wight Fire and Rescue Authority (Combination Scheme) Order 2020 (S.I. 2020/186)](https://www.legislation.gov.uk/uksi/2020/186), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/186/paragraph/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2020/186/schedule/paragraph/22)
+[^c-8c46ce04183f636bdee220c352338c41]: Modification: S. 117(1)(2)(3) applied (with modifications) (1.4.2020) by [The Hampshire and Isle of Wight Fire and Rescue Authority (Combination Scheme) Order 2020 (S.I. 2020/186)](https://www.legislation.gov.uk/uksi/2020/186), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/186/paragraph/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2020/186/schedule/paragraph/22)
 
 [^c18891451]: Modification: S. 117(2) applied (with modifications) (20.11.2006) by [The Devon and Somerset Fire and Rescue Authority (Combination Scheme) Order 2006 (S.I. 2006/2790)](https://www.legislation.gov.uk/uksi/2006/2790), [art. 2](https://www.legislation.gov.uk/uksi/2006/2790/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2006/2790/schedule/paragraph/19)
 
-[^key-0906fe4e4584b8a9e674f37abf74f345]: Modification: S. 117(2) applied (with modifications) (1.4.2015) by [The Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015 (S.I. 2015/435)](https://www.legislation.gov.uk/uksi/2015/435), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/435/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/435/schedule/paragraph/19)
+[^c-0906fe4e4584b8a9e674f37abf74f345]: Modification: S. 117(2) applied (with modifications) (1.4.2015) by [The Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015 (S.I. 2015/435)](https://www.legislation.gov.uk/uksi/2015/435), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/435/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/435/schedule/paragraph/19)
 
 [^c18891461]: Modification: S. 117(3) applied (with modifications) (20.11.2006) by [The Devon and Somerset Fire and Rescue Authority (Combination Scheme) Order 2006 (S.I. 2006/2790)](https://www.legislation.gov.uk/uksi/2006/2790), [art. 2](https://www.legislation.gov.uk/uksi/2006/2790/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2006/2790/schedule/paragraph/19)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Short title[^key-feb6b8c9b6e17f27878031f0bec8d9c0]
+## 28. Short title[^c-feb6b8c9b6e17f27878031f0bec8d9c0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Social Security (Amendment) (Scotland) Act 20
 
 ## Annotations
 
-[^key-feb6b8c9b6e17f27878031f0bec8d9c0]: Commencement: S. 28 in force at 24.1.2025, see [s. 27(1)](https://www.legislation.gov.uk/asp/2025/2/section/27/1)
+[^c-feb6b8c9b6e17f27878031f0bec8d9c0]: Commencement: S. 28 in force at 24.1.2025, see [s. 27(1)](https://www.legislation.gov.uk/asp/2025/2/section/27/1)

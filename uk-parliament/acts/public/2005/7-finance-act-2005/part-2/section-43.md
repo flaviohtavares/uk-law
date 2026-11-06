@@ -26,8 +26,8 @@ summary: ''
 
 (3) In the second column of the table insert at the appropriate place— “ section 37(3) of the Finance Act 2005; ”, and “ section 37(6) of the Finance Act 2005; ”.
 
-(4) For the purposes of that section, any information, statements or declarations given or made jointly by the trustees of a settlement[^key-317956f78e62a931163bad30b3065134] and a vulnerable person are to be treated as given or made by the trustees.
+(4) For the purposes of that section, any information, statements or declarations given or made jointly by the trustees of a settlement[^c-317956f78e62a931163bad30b3065134] and a vulnerable person are to be treated as given or made by the trustees.
 
 ## Annotations
 
-[^key-317956f78e62a931163bad30b3065134]: Textual amendment: Words in s. 43(4) substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 35(6)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/6)[(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/7)
+[^c-317956f78e62a931163bad30b3065134]: Textual amendment: Words in s. 43(4) substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 35(6)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/6)[(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/7)

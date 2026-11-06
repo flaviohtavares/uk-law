@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-### CHAPTER I — Fees or charges for the official controls on consignments of animals and goods entering Great Britain from a third country[^key-f01240eab330d763fa46bc76093155b9]
+### CHAPTER I — Fees or charges for the official controls on consignments of animals and goods entering Great Britain from a third country[^c-f01240eab330d763fa46bc76093155b9]
 
 I.
 
 CONSIGNMENTS OF LIVE ANIMALS
 
 - ((a)) Bovine animals, equidae, pigs, sheep, goats, poultry, rabbits and small game birds or ground game, wild boar and wild ruminants:
-  - Sterling equivalent of EUR[^key-ca013f755467f92b846d86230c5212ea]  55 per consignment, up to 6 tonnes, and
+  - Sterling equivalent of EUR[^c-ca013f755467f92b846d86230c5212ea]  55 per consignment, up to 6 tonnes, and
   - Sterling equivalent of EUR  9 per tonne, over 6 and up to 46 tonnes, or
   - Sterling equivalent of EUR 420 per consignment, over 46 tonnes.
 - ((b)) Animals of other species:
@@ -237,6 +237,6 @@ FEES OR CHARGES FOR THE OFFICIAL CONTROLS ON PRODUCING AND PLACING ON THE MARKET
 
 ## Annotations
 
-[^key-f01240eab330d763fa46bc76093155b9]: Textual amendment: Words in [Annex 4 Ch. 1](https://www.legislation.gov.uk/eur/2017/625/annex/IV/chapter/I) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(3)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/3/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-f01240eab330d763fa46bc76093155b9]: Textual amendment: Words in [Annex 4 Ch. 1](https://www.legislation.gov.uk/eur/2017/625/annex/IV/chapter/I) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(3)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/3/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-ca013f755467f92b846d86230c5212ea]: Textual amendment: Words in [Annex 4](https://www.legislation.gov.uk/eur/2017/625/annex/IV) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(3)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/3/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-ca013f755467f92b846d86230c5212ea]: Textual amendment: Words in [Annex 4](https://www.legislation.gov.uk/eur/2017/625/annex/IV) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(3)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/3/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Amendment (No. 12) Regulations 2021 (revoked)[^key-03c7293d4cb2755da73af854ae5b3001]
+The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Amendment (No. 12) Regulations 2021 (revoked)[^c-03c7293d4cb2755da73af854ae5b3001]
 
 Approved by the Scottish Parliament
 
@@ -48,47 +48,47 @@ Laid before the Scottish Parliament
 
 at 9.30 a.m. on 7th December 2021
 
-[^key-03c7293d4cb2755da73af854ae5b3001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03c7293d4cb2755da73af854ae5b3001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-03c7293d4cb2755da73af854ae5b3001]
+## 1. Citation and commencement[^c-03c7293d4cb2755da73af854ae5b3001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021[^key-03c7293d4cb2755da73af854ae5b3001]
+## 2. Amendment of the Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021[^c-03c7293d4cb2755da73af854ae5b3001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 8 – requirement to possess notification of negative test result[^key-03c7293d4cb2755da73af854ae5b3001]
+## 3. Amendment of regulation 8 – requirement to possess notification of negative test result[^c-03c7293d4cb2755da73af854ae5b3001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 9 – qualifying test and valid notification[^key-03c7293d4cb2755da73af854ae5b3001]
+## 4. Amendment of regulation 9 – qualifying test and valid notification[^c-03c7293d4cb2755da73af854ae5b3001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 10 – part 3: persons not required to comply[^key-03c7293d4cb2755da73af854ae5b3001]
+## 5. Amendment of regulation 10 – part 3: persons not required to comply[^c-03c7293d4cb2755da73af854ae5b3001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 29 – Part 3 (testing before arrival in Scotland): offences and penalties[^key-03c7293d4cb2755da73af854ae5b3001]
+## 6. Amendment of regulation 29 – Part 3 (testing before arrival in Scotland): offences and penalties[^c-03c7293d4cb2755da73af854ae5b3001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of schedule 8 – passenger notices[^key-03c7293d4cb2755da73af854ae5b3001]
+## 7. Amendment of schedule 8 – passenger notices[^c-03c7293d4cb2755da73af854ae5b3001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Saving[^key-03c7293d4cb2755da73af854ae5b3001]
+## 8. Saving[^c-03c7293d4cb2755da73af854ae5b3001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c7293d4cb2755da73af854ae5b3001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03c7293d4cb2755da73af854ae5b3001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-03c7293d4cb2755da73af854ae5b3001]EXPLANATORY NOTE
+[^c-03c7293d4cb2755da73af854ae5b3001]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -106,4 +106,4 @@ An impact assessment is being prepared and will be published online at www.legis
 
 ## Annotations
 
-[^key-03c7293d4cb2755da73af854ae5b3001]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))
+[^c-03c7293d4cb2755da73af854ae5b3001]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))

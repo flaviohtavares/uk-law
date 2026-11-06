@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 923. Foreign payers of manufactured overseas dividends: the reverse charge[^key-45304ed356a4a3e69e07b226b2e7b252]
+## 923. Foreign payers of manufactured overseas dividends: the reverse charge[^c-45304ed356a4a3e69e07b226b2e7b252]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45304ed356a4a3e69e07b226b2e7b252]: Textual amendment: Ss. 922-925 omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 25](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/25)
+[^c-45304ed356a4a3e69e07b226b2e7b252]: Textual amendment: Ss. 922-925 omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 25](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/25)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — ENABLING POWERS[^key-f96eec80b4236b249bf3f58120c255c3]
+## SCHEDULE 1 — ENABLING POWERS[^c-f96eec80b4236b249bf3f58120c255c3]
 
 *Extent: E+W*
 
-[^key-f96eec80b4236b249bf3f58120c255c3]These Regulations are made under the following powers:
+[^c-f96eec80b4236b249bf3f58120c255c3]These Regulations are made under the following powers:
 
 - (a) sections 10A(7) and (9)[^f00048], 13A(6), 36(3C)[^f00049], 53[^f00050] and 201(1) and (3)[^f00051] of, rule 24[^f00052] of Schedule 1 and Schedule 2[^f00053] to, the Representation of the People Act 1983 (“the 1983 Act”);
 - (b) sections 3(5), (6) and (7)[^f00054] and 15(5) of the Representation of the People Act 1985 (“the 1985 Act”);
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f96eec80b4236b249bf3f58120c255c3]: Commencement: Sch. 1 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-f96eec80b4236b249bf3f58120c255c3]: Commencement: Sch. 1 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
 
 [^f00048]: Footnote: Sections 10A and 13A were substituted by Schedule 1 to the 2000 Act.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Presumption of suspended sentence order for sentences of 12 months or less[^key-55c79e3c893c4b51c08bf56cf0325377]
+## 1. Presumption of suspended sentence order for sentences of 12 months or less[^c-55c79e3c893c4b51c08bf56cf0325377]
 
 *Extent: E+W*
 
@@ -173,4 +173,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55c79e3c893c4b51c08bf56cf0325377]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/2/section/1) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-55c79e3c893c4b51c08bf56cf0325377]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/2/section/1) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

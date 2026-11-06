@@ -37,7 +37,7 @@ becomes a member of the panel.
 - (b) that he was a member of the Judicial Committee of the Privy Council immediately before that commencement;
 - (c) that he ceased to be a member of that Committee less than 5 years before that commencement.
 
-(4) A person becomes a member of the supplementary panel on ceasing to hold office as a judge of the Supreme Court or as a senior territorial judge, but only if, while he holds such office or within 2 years of ceasing to hold such office[^key-d880d60b96dbc14df564bf68550fadcf]—
+(4) A person becomes a member of the supplementary panel on ceasing to hold office as a judge of the Supreme Court or as a senior territorial judge, but only if, while he holds such office or within 2 years of ceasing to hold such office[^c-d880d60b96dbc14df564bf68550fadcf]—
 
 - (a) his membership of the panel is approved in writing by the President of the Supreme Court, and
 - (b) the President of the Court gives the Lord Chancellor notice in writing of the approval.
@@ -69,4 +69,4 @@ becomes a member of the panel.
 
 ## Annotations
 
-[^key-d880d60b96dbc14df564bf68550fadcf]: Textual amendment: Words in [s. 39(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/39/4) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 82](https://www.legislation.gov.uk/ukpga/2015/2/section/82), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/67)
+[^c-d880d60b96dbc14df564bf68550fadcf]: Textual amendment: Words in [s. 39(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/39/4) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 82](https://www.legislation.gov.uk/ukpga/2015/2/section/82), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/67)

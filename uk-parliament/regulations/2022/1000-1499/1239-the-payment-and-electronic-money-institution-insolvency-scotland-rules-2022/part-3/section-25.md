@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Limited disclosure of the statement of proposals[^key-2e61096ec5a3ec9c03e0b71dfa8cf449]
+## 25. Limited disclosure of the statement of proposals[^c-2e61096ec5a3ec9c03e0b71dfa8cf449]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ as it thinks just.
 
 ## Annotations
 
-[^key-2e61096ec5a3ec9c03e0b71dfa8cf449]: Commencement: Rule 25 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-2e61096ec5a3ec9c03e0b71dfa8cf449]: Commencement: Rule 25 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

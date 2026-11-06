@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Management expenses.[^key-776da689bb09e8a1931a75d5527ca85d]
+## 87. Management expenses.[^c-776da689bb09e8a1931a75d5527ca85d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-776da689bb09e8a1931a75d5527ca85d]: Textual amendment: S. 87 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 16(4)(d)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/16/4/d), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-776da689bb09e8a1931a75d5527ca85d]: Textual amendment: S. 87 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 16(4)(d)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/16/4/d), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)

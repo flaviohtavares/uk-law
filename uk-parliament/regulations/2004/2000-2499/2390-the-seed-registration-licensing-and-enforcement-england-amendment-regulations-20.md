@@ -32,7 +32,7 @@ summary: ''
 
 SEEDS, ENGLAND
 
-The Seed (Registration, Licensing and Enforcement) (England) (Amendment) Regulations 2004 (revoked)[^key-06ab1a4f18cbe4e0b2f81135820d9e71]
+The Seed (Registration, Licensing and Enforcement) (England) (Amendment) Regulations 2004 (revoked)[^c-06ab1a4f18cbe4e0b2f81135820d9e71]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 8th October 2004
 
-[^key-06ab1a4f18cbe4e0b2f81135820d9e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06ab1a4f18cbe4e0b2f81135820d9e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-06ab1a4f18cbe4e0b2f81135820d9e71]
+## 1. Title and commencement[^c-06ab1a4f18cbe4e0b2f81135820d9e71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Seed (Registration, Licensing and Enforcement) (England) Regulations 2002[^key-06ab1a4f18cbe4e0b2f81135820d9e71]
+## 2. Amendment of the Seed (Registration, Licensing and Enforcement) (England) Regulations 2002[^c-06ab1a4f18cbe4e0b2f81135820d9e71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06ab1a4f18cbe4e0b2f81135820d9e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06ab1a4f18cbe4e0b2f81135820d9e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-06ab1a4f18cbe4e0b2f81135820d9e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06ab1a4f18cbe4e0b2f81135820d9e71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06ab1a4f18cbe4e0b2f81135820d9e71]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(m)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/m)
+[^c-06ab1a4f18cbe4e0b2f81135820d9e71]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(m)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/m)

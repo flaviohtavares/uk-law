@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Power to require information[^key-ade216033057c4ed2e997fa5712e28cf][^key-1757d1e38a2d5a07c924dd9695216916]
+## 111. Power to require information[^c-ade216033057c4ed2e997fa5712e28cf][^c-1757d1e38a2d5a07c924dd9695216916]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ade216033057c4ed2e997fa5712e28cf]: Commencement: S. 111 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-ade216033057c4ed2e997fa5712e28cf]: Commencement: S. 111 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-1757d1e38a2d5a07c924dd9695216916]: Commencement: [S. 111](https://www.legislation.gov.uk/asc/2024/3/section/111) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-1757d1e38a2d5a07c924dd9695216916]: Commencement: [S. 111](https://www.legislation.gov.uk/asc/2024/3/section/111) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

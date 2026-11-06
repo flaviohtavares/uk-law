@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Aggravating factor where foreign power or designated body condition met: Northern Ireland[^key-5c1de7a9168fa70a773d701d53ed28c8][^key-de9f9699b0cdde124eab26f96da38b58][^key-5931b329c4d2f3d3e0ae7d1c4efe657c]
+## 20. Aggravating factor where foreign power or designated body condition met: Northern Ireland[^c-5c1de7a9168fa70a773d701d53ed28c8][^c-de9f9699b0cdde124eab26f96da38b58][^c-5931b329c4d2f3d3e0ae7d1c4efe657c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (4) For the purposes of this section, an offence committed by a person under Part 2 of the Serious Crime Act 2007 is related to another offence if that other offence is the offence (or one of the offences) which the person intended or believed would be committed.
 
-(5) Where the foreign power condition or the designated body condition[^key-9f2f250137cba362c7f91d059b4abc2a] is met in relation to the conduct that constitutes the offence, the court—
+(5) Where the foreign power condition or the designated body condition[^c-9f2f250137cba362c7f91d059b4abc2a] is met in relation to the conduct that constitutes the offence, the court—
 
 - (a) must treat that fact as an aggravating factor, and
 - (b) must state in open court that the offence is so aggravated.
@@ -49,10 +49,10 @@ summary: ''
 
 ## Annotations
 
-[^key-5c1de7a9168fa70a773d701d53ed28c8]: Commencement: S. 20 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-5c1de7a9168fa70a773d701d53ed28c8]: Commencement: S. 20 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-de9f9699b0cdde124eab26f96da38b58]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/32/section/20) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-de9f9699b0cdde124eab26f96da38b58]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/32/section/20) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-5931b329c4d2f3d3e0ae7d1c4efe657c]: Textual amendment: Words in [s. 20 heading](https://www.legislation.gov.uk/ukpga/2023/32/part/1/crossheading/acting-for-foreign-power-as-aggravating-factor-in-sentencing) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 22(a)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/22/a)
+[^c-5931b329c4d2f3d3e0ae7d1c4efe657c]: Textual amendment: Words in [s. 20 heading](https://www.legislation.gov.uk/ukpga/2023/32/part/1/crossheading/acting-for-foreign-power-as-aggravating-factor-in-sentencing) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 22(a)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/22/a)
 
-[^key-9f2f250137cba362c7f91d059b4abc2a]: Textual amendment: Words in [s. 20(5)](https://www.legislation.gov.uk/ukpga/2023/32/section/20/5) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 22(b)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/22/b)
+[^c-9f2f250137cba362c7f91d059b4abc2a]: Textual amendment: Words in [s. 20(5)](https://www.legislation.gov.uk/ukpga/2023/32/section/20/5) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 22(b)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/22/b)

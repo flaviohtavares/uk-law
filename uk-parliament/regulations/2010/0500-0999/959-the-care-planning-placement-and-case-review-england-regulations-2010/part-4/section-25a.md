@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25A. Temporary approval of prospective adopter as foster parent[^key-9d4132bd382da5bbfe1e649ea44a9553]
+## 25A. Temporary approval of prospective adopter as foster parent[^c-9d4132bd382da5bbfe1e649ea44a9553]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ the responsible authority may approve that person as a local authority foster pa
 
 ## Annotations
 
-[^key-9d4132bd382da5bbfe1e649ea44a9553]: Textual amendment: Reg. 25A inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/984/regulation/3)
+[^c-9d4132bd382da5bbfe1e649ea44a9553]: Textual amendment: Reg. 25A inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/984/regulation/3)

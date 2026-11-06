@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Application of landlord and tenant law[^key-ab36686a590bedea669c0049dbcf790b]
+## 35. Application of landlord and tenant law[^c-ab36686a590bedea669c0049dbcf790b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land which is the
 
 ## Annotations
 
-[^key-ab36686a590bedea669c0049dbcf790b]: Commencement: Art. 35 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-ab36686a590bedea669c0049dbcf790b]: Commencement: Art. 35 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Disapplication of s.101 of the 1974 Act[^key-cd65ea1ce42bcc7fdb711173d73e6110]
+## 63. Disapplication of s.101 of the 1974 Act[^c-cd65ea1ce42bcc7fdb711173d73e6110]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd65ea1ce42bcc7fdb711173d73e6110]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2006/14/section/63) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
+[^c-cd65ea1ce42bcc7fdb711173d73e6110]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2006/14/section/63) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)

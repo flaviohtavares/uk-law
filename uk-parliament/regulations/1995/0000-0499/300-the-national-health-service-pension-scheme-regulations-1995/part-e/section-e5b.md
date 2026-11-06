@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E5B. Increase in pensionable pay following exercise of option under regulation E5A[^key-fdd03849e884e1c3515394728a9973e2]
+## E5B. Increase in pensionable pay following exercise of option under regulation E5A[^c-fdd03849e884e1c3515394728a9973e2]
 
 *Extent: E+W+S*
 
 (1) This regulation applies if, in a case where a member has exercised the option under regulation E5A—
 
 - (a) during the period of 12 months beginning with the day after the option day the terms on which the member holds the employment or employments referred to in regulation E5A(1)(a)(iii) change again; and
-- (b) as a result, the member’s pensionable pay in that employment or those employments is increased (disregarding any increase in pensionable pay resulting from the member leaving a salary sacrifice arrangement)[^key-bff4c3790e2ac4e11bfd6702751c0d17] to more than 90% of the member’s pensionable pay during the period of 12 months ending with the option day; or
-- (c) following an increase referred to in sub-paragraph (b), the member’s pensionable pay in that employment or those employments is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^key-2cc4a0b6a5e372fc4ff549842c02c2ee] to less than 90% of the member’s pensionable pay during the period of 12 months ending with the option day.
+- (b) as a result, the member’s pensionable pay in that employment or those employments is increased (disregarding any increase in pensionable pay resulting from the member leaving a salary sacrifice arrangement)[^c-bff4c3790e2ac4e11bfd6702751c0d17] to more than 90% of the member’s pensionable pay during the period of 12 months ending with the option day; or
+- (c) following an increase referred to in sub-paragraph (b), the member’s pensionable pay in that employment or those employments is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^c-2cc4a0b6a5e372fc4ff549842c02c2ee] to less than 90% of the member’s pensionable pay during the period of 12 months ending with the option day.
 
 (2) In the circumstances referred to in—
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fdd03849e884e1c3515394728a9973e2]: Textual amendment: [Regs. E5A-E5C](https://www.legislation.gov.uk/uksi/1995/300/regulation/E5A) inserted (1.10.2023) by [The National Health Service Pension Schemes (Partial Retirement etc.) (Amendment) Regulations 2023 (S.I. 2023/952)](https://www.legislation.gov.uk/uksi/2023/952), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/952/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/952/regulation/6)
+[^c-fdd03849e884e1c3515394728a9973e2]: Textual amendment: [Regs. E5A-E5C](https://www.legislation.gov.uk/uksi/1995/300/regulation/E5A) inserted (1.10.2023) by [The National Health Service Pension Schemes (Partial Retirement etc.) (Amendment) Regulations 2023 (S.I. 2023/952)](https://www.legislation.gov.uk/uksi/2023/952), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/952/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/952/regulation/6)
 
-[^key-bff4c3790e2ac4e11bfd6702751c0d17]: Textual amendment: Words in [reg. E5B(1)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E5B/1/b) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/6/2)
+[^c-bff4c3790e2ac4e11bfd6702751c0d17]: Textual amendment: Words in [reg. E5B(1)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E5B/1/b) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/6/2)
 
-[^key-2cc4a0b6a5e372fc4ff549842c02c2ee]: Textual amendment: Words in [reg. E5B(1)(c)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E5B/1/c) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2024/281/regulation/6/3)
+[^c-2cc4a0b6a5e372fc4ff549842c02c2ee]: Textual amendment: Words in [reg. E5B(1)(c)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E5B/1/c) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2024/281/regulation/6/3)

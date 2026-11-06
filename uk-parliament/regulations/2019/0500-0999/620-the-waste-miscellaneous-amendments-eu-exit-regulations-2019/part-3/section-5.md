@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Environmental Protection Act 1990[^key-0bd8aac1fc5697bd87ed788de7b2d75d]
+## 5. Environmental Protection Act 1990[^c-0bd8aac1fc5697bd87ed788de7b2d75d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 >
 > (1) For the purposes of this Part, the Waste Framework Directive is to be read in accordance with this section.
 >
-> (2) A reference to one or more member States in a provision of the Waste Framework Directive imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, waste regulation authority or local authority which, immediately before IP completion day[^key-37da577b52afbb78749b22b149c95ba3], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England, Wales or Scotland.
+> (2) A reference to one or more member States in a provision of the Waste Framework Directive imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, waste regulation authority or local authority which, immediately before IP completion day[^c-37da577b52afbb78749b22b149c95ba3], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England, Wales or Scotland.
 >
 > (3) Article 2 is to be read as if—
 >
@@ -48,7 +48,7 @@ summary: ''
 > - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
 > - (c) paragraph 4 were omitted.
 >
-> (4)[^key-083834e93b28c3995947330c4eb2e5b8] Article 5 is to be read as if—
+> (4)[^c-083834e93b28c3995947330c4eb2e5b8] Article 5 is to be read as if—
 >
 > - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
 > - (b) after paragraph 1 there were inserted—
@@ -99,7 +99,7 @@ summary: ''
 >
 > (7) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
 >
-> (8) In this section[^key-969725eb02b76bf9db7fac817e437b05]—
+> (8) In this section[^c-969725eb02b76bf9db7fac817e437b05]—
 >
 > - “**appropriate authority**” means—
 >   - (a) in relation to England, the Secretary of State;
@@ -124,16 +124,16 @@ summary: ''
 
 ## Annotations
 
-[^key-0bd8aac1fc5697bd87ed788de7b2d75d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-0bd8aac1fc5697bd87ed788de7b2d75d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-37da577b52afbb78749b22b149c95ba3]: Textual amendment: Words in reg. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(2)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/2/a)
+[^c-37da577b52afbb78749b22b149c95ba3]: Textual amendment: Words in reg. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(2)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/2/a)
 
 [^c23656001]: Marginal citation: OJ No L 102, 11.4.2006, p 15, as last amended by Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ No L 188, 18.7.2009, p 14).
 
 [^c23656011]: Marginal citation: [S.S.I. 2010/60](https://www.legislation.gov.uk/ssi/2010/60).
 
-[^key-083834e93b28c3995947330c4eb2e5b8]: Textual amendment: Words in reg. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(2)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/2/b)
+[^c-083834e93b28c3995947330c4eb2e5b8]: Textual amendment: Words in reg. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(2)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/2/b)
 
-[^key-969725eb02b76bf9db7fac817e437b05]: Textual amendment: Words in reg. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/2/c)
+[^c-969725eb02b76bf9db7fac817e437b05]: Textual amendment: Words in reg. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/2/c)
 
 [^c23656051]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).

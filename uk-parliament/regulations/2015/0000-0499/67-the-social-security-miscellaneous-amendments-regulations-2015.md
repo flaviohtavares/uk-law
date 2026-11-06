@@ -50,11 +50,11 @@ In accordance with section 173(1)(b) of the Administration Act, the Secretary of
 
 In respect of provisions in these Regulations relating to housing benefit, in accordance with section 176(1) of the Administration Act[^f00007], the Secretary of State has consulted with organisations appearing to him to be representative of the authorities concerned.
 
-## 1. Citation and commencement[^key-9a3063658098860aa32fc72d5766f14f]
+## 1. Citation and commencement[^c-9a3063658098860aa32fc72d5766f14f]
 
 These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations 2015 and come into force on 23rd February 2015.
 
-## 2. Service User amendments[^key-57110433ee5e250a3bc9443360e63e27]
+## 2. Service User amendments[^c-57110433ee5e250a3bc9443360e63e27]
 
 (1) Paragraph (2) amends the following provisions—
 
@@ -81,15 +81,15 @@ These Regulations may be cited as the Social Security (Miscellaneous Amendments)
 
 (3) In regulation 3(6) (further interpretation) of the Jobseeker’s Allowance Regulations 2013, before sub-paragraph (a) omit “the person”.
 
-## 3. Amendment of the Social Security (Maternity Allowance) Regulations 1987[^key-057f743ca7c60513c2c6afadad6d6b24]
+## 3. Amendment of the Social Security (Maternity Allowance) Regulations 1987[^c-057f743ca7c60513c2c6afadad6d6b24]
 
 In regulation 2 of the Social Security (Maternity Allowance) Regulations 1987[^f00018] (disqualification for the receipt of a maternity allowance) omit paragraphs (5) and (6).
 
-## 4. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^key-704ec46160720aedfbef426b0a9a33b0][^key-ebb26c243bff83cfcd2439f64daaba14]
+## 4. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^c-704ec46160720aedfbef426b0a9a33b0][^c-ebb26c243bff83cfcd2439f64daaba14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations 2001[^key-32ba219c5c3e60b909af959fea5228ef]
+## 5. Amendment of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations 2001[^c-32ba219c5c3e60b909af959fea5228ef]
 
 In regulation 9 (application for allocation of national insurance number) of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations 2001[^f00020]—
 
@@ -100,7 +100,7 @@ In regulation 9 (application for allocation of national insurance number) of the
 
   .
 
-## 6. Amendment of the Housing Benefit Regulations 2006[^key-733674a32a8745b885ffeae6c5970a22]
+## 6. Amendment of the Housing Benefit Regulations 2006[^c-733674a32a8745b885ffeae6c5970a22]
 
 At the end of regulation 59(4) (calculation of grant income)[^f00022] of the Housing Benefit Regulations 2006[^f00023] add “or paid under section 63(6) of the Health Services and Public Health Act 1968[^f00024]”.
 
@@ -148,9 +148,9 @@ An impact assessment has not been produced for this instrument as no impact on b
 
 [^f00007]: Footnote: Section 176(1) was amended by paragraph 23 of Schedule 9 to the Local Government Finance Act [1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14), paragraph 3(4) of Schedule 13 to the Housing Act [1996 (c.52)](https://www.legislation.gov.uk/ukpga/1996/52) and section 69(6) of the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-9a3063658098860aa32fc72d5766f14f]: Commencement: Reg. 1 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
+[^c-9a3063658098860aa32fc72d5766f14f]: Commencement: Reg. 1 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
 
-[^key-57110433ee5e250a3bc9443360e63e27]: Commencement: Reg. 2 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
+[^c-57110433ee5e250a3bc9443360e63e27]: Commencement: Reg. 2 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). Regulation 2(1B) was inserted by [S.I. 2014/591](https://www.legislation.gov.uk/uksi/2014/591).
 
@@ -172,21 +172,21 @@ An impact assessment has not been produced for this instrument as no impact on b
 
 [^f00017]: Footnote: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 was substituted by section 25(1) of the Employment Act 1988.
 
-[^key-057f743ca7c60513c2c6afadad6d6b24]: Commencement: Reg. 3 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
+[^c-057f743ca7c60513c2c6afadad6d6b24]: Commencement: Reg. 3 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
 
 [^f00018]: Footnote: [S.I. 1987/416](https://www.legislation.gov.uk/uksi/1987/416). Regulation 2 was substituted by regulation 2(3) of [S.I. 2014/884](https://www.legislation.gov.uk/uksi/2014/884).
 
-[^key-704ec46160720aedfbef426b0a9a33b0]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/67/regulation/4) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-704ec46160720aedfbef426b0a9a33b0]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/67/regulation/4) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
 
-[^key-ebb26c243bff83cfcd2439f64daaba14]: Commencement: Reg. 4 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
+[^c-ebb26c243bff83cfcd2439f64daaba14]: Commencement: Reg. 4 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
 
-[^key-32ba219c5c3e60b909af959fea5228ef]: Commencement: Reg. 5 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
+[^c-32ba219c5c3e60b909af959fea5228ef]: Commencement: Reg. 5 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
 
 [^f00020]: Footnote: [S.I. 2001/769](https://www.legislation.gov.uk/uksi/2001/769).
 
 [^f00021]: Footnote: [S.I. 2008/3048](https://www.legislation.gov.uk/uksi/2008/3048) as amended by [S.I. 2009/819](https://www.legislation.gov.uk/uksi/2009/819) and [S.I. 2012/594](https://www.legislation.gov.uk/uksi/2012/594).
 
-[^key-733674a32a8745b885ffeae6c5970a22]: Commencement: Reg. 6 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
+[^c-733674a32a8745b885ffeae6c5970a22]: Commencement: Reg. 6 in force at 23.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1)
 
 [^f00022]: Footnote: Paragraph (4) of regulation 59 was substituted by regulation 3(2) and (3) of [S.I. 2006/1752](https://www.legislation.gov.uk/uksi/2006/1752).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Prohibition on carriage of dangerous goods[^key-b4082f9a46d473c6a3c3b339570bdea1]
+## 111. Prohibition on carriage of dangerous goods[^c-b4082f9a46d473c6a3c3b339570bdea1]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person must not deliver or cause to be delivered for carriage, or take or caus
 
 ## Annotations
 
-[^key-b4082f9a46d473c6a3c3b339570bdea1]: Commencement: [Art. 111](https://www.legislation.gov.uk/uksi/2013/2870/article/111) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-b4082f9a46d473c6a3c3b339570bdea1]: Commencement: [Art. 111](https://www.legislation.gov.uk/uksi/2013/2870/article/111) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

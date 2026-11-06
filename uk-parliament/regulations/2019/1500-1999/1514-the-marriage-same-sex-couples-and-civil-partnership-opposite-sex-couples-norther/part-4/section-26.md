@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Parental status in cases of assisted reproduction[^key-bbe05a89f3c7106c3c0dc5d48b692e0e]
+## 26. Parental status in cases of assisted reproduction[^c-bbe05a89f3c7106c3c0dc5d48b692e0e]
 
 *Extent: E+W+N.I.*
 
@@ -70,7 +70,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bbe05a89f3c7106c3c0dc5d48b692e0e]: Commencement: Reg. 26 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-bbe05a89f3c7106c3c0dc5d48b692e0e]: Commencement: Reg. 26 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00031]: Footnote: [2008 c.22](https://www.legislation.gov.uk/ukpga/2008/22).
 

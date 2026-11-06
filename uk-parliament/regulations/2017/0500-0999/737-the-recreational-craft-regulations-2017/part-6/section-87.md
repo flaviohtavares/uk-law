@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Amendment to the Co-ordination of Regulatory Enforcement (Regulatory Functions in Scotland and Northern Ireland) Order 2009[^key-61d7a2bf50efb6b8dd1091a8ff154d45]
+## 87. Amendment to the Co-ordination of Regulatory Enforcement (Regulatory Functions in Scotland and Northern Ireland) Order 2009[^c-61d7a2bf50efb6b8dd1091a8ff154d45]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ The Co-ordination of Regulatory Enforcement (Regulatory Functions in Scotland an
 
 ## Annotations
 
-[^key-61d7a2bf50efb6b8dd1091a8ff154d45]: Commencement: Reg. 87 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-61d7a2bf50efb6b8dd1091a8ff154d45]: Commencement: Reg. 87 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 
 [^f00019]: Footnote:
 

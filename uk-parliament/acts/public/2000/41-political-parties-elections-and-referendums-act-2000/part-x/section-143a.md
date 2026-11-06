@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143A. Meaning of “election material”[^key-85fb95b4d4d35cdfeb0f4cf6086c45b2]
+## 143A. Meaning of “election material”[^c-85fb95b4d4d35cdfeb0f4cf6086c45b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85fb95b4d4d35cdfeb0f4cf6086c45b2]: Textual amendment: S. 143A inserted (23.5.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 26(12)](https://www.legislation.gov.uk/ukpga/2014/4/section/26/12), [45(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/b/i); [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/f)
+[^c-85fb95b4d4d35cdfeb0f4cf6086c45b2]: Textual amendment: S. 143A inserted (23.5.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 26(12)](https://www.legislation.gov.uk/ukpga/2014/4/section/26/12), [45(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/b/i); [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/f)

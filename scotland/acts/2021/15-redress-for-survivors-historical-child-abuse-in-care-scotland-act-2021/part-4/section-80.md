@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Power to obtain information about previous payments[^key-618b908e823054d71d9f7bafe571704d]
+## 80. Power to obtain information about previous payments[^c-618b908e823054d71d9f7bafe571704d]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-618b908e823054d71d9f7bafe571704d]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2021/15/section/80) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-618b908e823054d71d9f7bafe571704d]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2021/15/section/80) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

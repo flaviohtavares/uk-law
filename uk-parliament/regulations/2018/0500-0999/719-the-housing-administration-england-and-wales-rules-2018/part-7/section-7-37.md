@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.37. Confidentiality of documents – grounds for refusing inspection[^key-7a84c5d061d38330b4ef3e8ada3c70ee]
+## 7.37. Confidentiality of documents – grounds for refusing inspection[^c-7a84c5d061d38330b4ef3e8ada3c70ee]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the housing administrator may decline to allow it to be inspected by a person wh
 
 ## Annotations
 
-[^key-7a84c5d061d38330b4ef3e8ada3c70ee]: Commencement: Rule 7.37 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-7a84c5d061d38330b4ef3e8ada3c70ee]: Commencement: Rule 7.37 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -27,7 +27,7 @@ summary: ''
   - (ii) the holder of a distribution licence; [^c21802181]. . .
   - (iii) a distribution exemption holder; or[^c21802211]
   - (iv)[^c21802231] a supply exemption holder;
-- (b) it is wholly or mainly a complaint against that holder regarding an obligation imposed upon him pursuant to the Directive or[^key-64fe2fc6177bf25f56addaf1543e5bd7] [Directive 2009/72/EC](https://www.legislation.gov.uk/european/directive/2009/0072) of the European Parliament and of the Council of 13th July 2009 concerning common rules for the internal market in electricity and repealing [Directive 2003/54/EC](https://www.legislation.gov.uk/european/directive/2003/0054); and
+- (b) it is wholly or mainly a complaint against that holder regarding an obligation imposed upon him pursuant to the Directive or[^c-64fe2fc6177bf25f56addaf1543e5bd7] [Directive 2009/72/EC](https://www.legislation.gov.uk/european/directive/2009/0072) of the European Parliament and of the Council of 13th July 2009 concerning common rules for the internal market in electricity and repealing [Directive 2003/54/EC](https://www.legislation.gov.uk/european/directive/2003/0054); and
 - (c) the subject matter of the complaint—
   - (i) does not fall to be dealt with under Article 26 or Article 42A; and
   - (ii) is not capable of being determined pursuant to any other provision of this Order.
@@ -66,7 +66,7 @@ summary: ''
 
 [^c21802231]: Textual amendment: [Art. 31A(1)(a)(iv)](https://www.legislation.gov.uk/nisi/1992/231/article/31A/1/a/iv) inserted (29.4.2013) by [Electricity (Dispute Resolution) Regulations (Northern Ireland) 2013 (S.R. 2013/94)](https://www.legislation.gov.uk/nisr/2013/94), [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2013/94/regulation/3/2/b)
 
-[^key-64fe2fc6177bf25f56addaf1543e5bd7]: Textual amendment: Words in [art. 31A(1)(b)](https://www.legislation.gov.uk/nisi/1992/231/article/31A/1/b) inserted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [12](https://www.legislation.gov.uk/nisr/2020/307/regulation/12)
+[^c-64fe2fc6177bf25f56addaf1543e5bd7]: Textual amendment: Words in [art. 31A(1)(b)](https://www.legislation.gov.uk/nisi/1992/231/article/31A/1/b) inserted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [12](https://www.legislation.gov.uk/nisr/2020/307/regulation/12)
 
 [^c21802261]: Textual amendment: [Art. 31A(5A)(5B)](https://www.legislation.gov.uk/nisi/1992/231/article/31A/5A/5B) inserted (29.4.2013) by [Electricity (Dispute Resolution) Regulations (Northern Ireland) 2013 (S.R. 2013/94)](https://www.legislation.gov.uk/nisr/2013/94), [reg. 3(3)](https://www.legislation.gov.uk/nisr/2013/94/regulation/3/3)
 

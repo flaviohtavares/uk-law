@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Liability for cost of use of alternative route.[^key-97a049678549a7658c0298fefad8b3a4][^key-a73e787c2bcfe5196ae55cf93d1b5022]
+## 136. Liability for cost of use of alternative route.[^c-97a049678549a7658c0298fefad8b3a4][^c-a73e787c2bcfe5196ae55cf93d1b5022]
 
 *Extent: S*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-97a049678549a7658c0298fefad8b3a4]: Modification: [S. 136](https://www.legislation.gov.uk/ukpga/1991/22/section/136) applied (with modifications) (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/6/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/6/section/7/7) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
+[^c-97a049678549a7658c0298fefad8b3a4]: Modification: [S. 136](https://www.legislation.gov.uk/ukpga/1991/22/section/136) applied (with modifications) (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/6/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/6/section/7/7) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
 
-[^key-a73e787c2bcfe5196ae55cf93d1b5022]: Modification: [S. 136](https://www.legislation.gov.uk/ukpga/1991/22/section/136) applied (with modifications) (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/7/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/7/section/7/7) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
+[^c-a73e787c2bcfe5196ae55cf93d1b5022]: Modification: [S. 136](https://www.legislation.gov.uk/ukpga/1991/22/section/136) applied (with modifications) (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/7/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/7/section/7/7) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
 
 [^c14150591]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).

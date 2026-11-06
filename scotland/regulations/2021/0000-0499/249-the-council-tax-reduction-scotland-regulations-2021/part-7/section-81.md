@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Duration of period of entitlement to extended council tax reduction[^key-bf30d02c09220268cdb61453ea2f4ec0]
+## 81. Duration of period of entitlement to extended council tax reduction[^c-bf30d02c09220268cdb61453ea2f4ec0]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf30d02c09220268cdb61453ea2f4ec0]: Commencement: [Reg. 81](https://www.legislation.gov.uk/ssi/2021/249/regulation/81) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-bf30d02c09220268cdb61453ea2f4ec0]: Commencement: [Reg. 81](https://www.legislation.gov.uk/ssi/2021/249/regulation/81) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

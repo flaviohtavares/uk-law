@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Enforcement by local housing authorities: duty to notify[^key-a94cb47ea0190395f79befaeb5b55bec][^key-d52f7fada5be293be1a6b09c3fbb0b4f]
+## 108. Enforcement by local housing authorities: duty to notify[^c-a94cb47ea0190395f79befaeb5b55bec][^c-d52f7fada5be293be1a6b09c3fbb0b4f]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a94cb47ea0190395f79befaeb5b55bec]: Commencement: S. 108 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-a94cb47ea0190395f79befaeb5b55bec]: Commencement: S. 108 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-d52f7fada5be293be1a6b09c3fbb0b4f]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2025/26/section/108) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/o)
+[^c-d52f7fada5be293be1a6b09c3fbb0b4f]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2025/26/section/108) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/o)

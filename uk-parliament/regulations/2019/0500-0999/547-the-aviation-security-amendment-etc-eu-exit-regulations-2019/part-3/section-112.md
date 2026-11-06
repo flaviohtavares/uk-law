@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112.[^key-235ec050025357a8839b1da5d6e456e3]
+## 112.[^c-235ec050025357a8839b1da5d6e456e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Attachment 6-C—
 
 ## Annotations
 
-[^key-235ec050025357a8839b1da5d6e456e3]: Commencement: Reg. 112 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-235ec050025357a8839b1da5d6e456e3]: Commencement: Reg. 112 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

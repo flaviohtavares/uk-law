@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Transfer schemes[^key-ac7a5c276d1c81a7c3d37baa7dca526e]
+## 9. Transfer schemes[^c-ac7a5c276d1c81a7c3d37baa7dca526e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 contains provision about schemes for the transfer of staff and proper
 
 ## Annotations
 
-[^key-ac7a5c276d1c81a7c3d37baa7dca526e]: Commencement: S. 9 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-ac7a5c276d1c81a7c3d37baa7dca526e]: Commencement: S. 9 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)

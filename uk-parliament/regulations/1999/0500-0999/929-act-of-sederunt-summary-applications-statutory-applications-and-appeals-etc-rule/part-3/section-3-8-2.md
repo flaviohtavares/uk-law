@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.8.2. Appointment of hearing[^key-83d07d471ae3696e83f03ee154acdd5a]
+## 3.8.2. Appointment of hearing[^c-83d07d471ae3696e83f03ee154acdd5a]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83d07d471ae3696e83f03ee154acdd5a]: Commencement: Rule 3.8.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-83d07d471ae3696e83f03ee154acdd5a]: Commencement: Rule 3.8.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^f00042]: Footnote: Subsection (3A) of section 21 was inserted by the Mental Health (Detention) (Scotland) Act [1991 (c. 47)](https://www.legislation.gov.uk/ukpga/1991/47), section 2.

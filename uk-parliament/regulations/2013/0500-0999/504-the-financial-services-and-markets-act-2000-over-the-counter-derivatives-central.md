@@ -42,25 +42,25 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-a19361663bfec4665ca43e419ea541f8]The Treasury are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to financial services.
+[^c-a19361663bfec4665ca43e419ea541f8]The Treasury are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to financial services.
 
-The Treasury make the following Regulations in exercise of—[^key-f22659286a411553097a3ce68de14f70]
+The Treasury make the following Regulations in exercise of—[^c-f22659286a411553097a3ce68de14f70]
 
 - (a) the powers conferred by section 2(2) of the European Communities Act 1972;
 - (b) the powers conferred by sections 155(4) and (5), 186(1) and 187(3) of the Companies Act 1989[^f00003] and now vested in them[^f00004];
 - (c) the powers conferred by sections 286 and 428(3) of the Financial Services and Markets Act 2000[^f00005], with the approval of the Secretary of State required by section 286(2) of that Act.
 
-The Treasury and the Secretary of State make the following Regulations in exercise of the powers conferred by sections 158(4) and (5), 174(2) to (4), 185 and 186(1) of the Companies Act 1989[^f00006] and now vested in them jointly[^f00007].[^key-f22659286a411553097a3ce68de14f70]
+The Treasury and the Secretary of State make the following Regulations in exercise of the powers conferred by sections 158(4) and (5), 174(2) to (4), 185 and 186(1) of the Companies Act 1989[^f00006] and now vested in them jointly[^f00007].[^c-f22659286a411553097a3ce68de14f70]
 
 ## PART 1 — Citation, commencement and interpretation
 
-### 1. Citation and commencement[^key-d0e171873f52560beb6449a907c29c0f]
+### 1. Citation and commencement[^c-d0e171873f52560beb6449a907c29c0f]
 
 (1) These Regulations may be cited as the Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013.
 
 (2) These Regulations come into force on 1st April 2013, immediately after section 6 of the Financial Services Act 2012 comes fully into force.
 
-### 2. Interpretation[^key-b4feefb68503d70143ada0f521f07526]
+### 2. Interpretation[^c-b4feefb68503d70143ada0f521f07526]
 
 (1) In these Regulations—
 
@@ -69,7 +69,7 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 - “the Bank” means the Bank of England;
 - “central counterparty” means a body corporate or unincorporated association which interposes itself between the counterparties to the contracts traded on one or more financial markets, becoming the buyer to every seller and the seller to every buyer;
 - “clearing”, in relation to a central counterparty, means the process of establishing positions, including the calculation of net obligations and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions; and “clearing services”, in relation to a central counterparty, is to be read accordingly;
-- “the EMIR regulation” has the meaning given in section 313 of the Act;[^key-5d2c7208eeacfcfbf45fed827d440da5]
+- “the EMIR regulation” has the meaning given in section 313 of the Act;[^c-5d2c7208eeacfcfbf45fed827d440da5]
 - “recognised central counterparty” means a central counterparty in relation to which a recognition order under Part 18 of the Act is in force.
 
 (2) Except as provided by paragraph (1)—
@@ -79,7 +79,7 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 
 ## PART 2 — Amendments to the Financial Services and Markets Act 2000
 
-### 3. Amendments to the Financial Services and Markets Act 2000[^key-d0cf3c6f574b62c550991c6d8a8be801]
+### 3. Amendments to the Financial Services and Markets Act 2000[^c-d0cf3c6f574b62c550991c6d8a8be801]
 
 (1) The Act is amended as follows.
 
@@ -256,7 +256,7 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 
 ## PART 3 — Amendments to the Companies Act 1989
 
-### 4. Amendments to the Companies Act 1989[^key-c9c1ea07eda10bfe10b8c62fa494057f]
+### 4. Amendments to the Companies Act 1989[^c-c9c1ea07eda10bfe10b8c62fa494057f]
 
 (1) The 1989[^f00023] Act is amended as follows.
 
@@ -648,7 +648,7 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 
 ## PART 4 — Amendments to the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001
 
-### 5. Amendments to the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^key-545b2eb0957fc1e46b5a2cfc5bb7be1a]
+### 5. Amendments to the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^c-545b2eb0957fc1e46b5a2cfc5bb7be1a]
 
 (1) The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^f00049] are amended as follows.
 
@@ -756,19 +756,19 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 
 ## PART 5 — Designation of competent authorities and powers of FCA
 
-### 6. Designation of competent authorities[^key-137d069879b998c175664c829cb80d7e]
+### 6. Designation of competent authorities[^c-137d069879b998c175664c829cb80d7e]
 
 (1) The Bank is responsible for all functions of the competent authority for central counterparties imposed by the EMIR regulation, including—
 
 - (a) functions under Title 2 (clearing, reporting and risk mitigation of OTC derivatives);
-- (b) functions under Title 3 (authorisation and supervision of central counterparties) and in particular Articles 22 and 25[^key-16c05ffd1e27eb8c8b7943847860a56a];
+- (b) functions under Title 3 (authorisation and supervision of central counterparties) and in particular Articles 22 and 25[^c-16c05ffd1e27eb8c8b7943847860a56a];
 - (c) functions under Title 4 (requirements for central counterparties);
 - (d) functions under Title 5 (interoperability arrangements);
-- (e)[^key-4dc0f61917fd7f3e53d037a9445d3175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-7dfa1785c4696fe11d419b2564b2103c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-4dc0f61917fd7f3e53d037a9445d3175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-7dfa1785c4696fe11d419b2564b2103c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) supervision of the obligations imposed on central counterparties by that Regulation.
 
-(2)[^key-a908ba31cb3c4b1aac7054b31ebb679d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a908ba31cb3c4b1aac7054b31ebb679d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The FCA is responsible for all functions of the competent authority for financial counterparties, non-financial counterparties and trading venues imposed by the EMIR regulation, including—
 
@@ -776,14 +776,14 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 - (b) considering notifications under Article 4(2) (clearing obligation: exemption in relation to intragroup transactions);
 - (c) acting as competent authority for the purposes of Article 10(5) (non-financial counterparties: requirements in relation to OTC derivative contracts);
 - (d) considering notifications and determining applications under Article 11(5) to (10) (risk mitigation techniques for OTC derivative contracts not cleared by a central counterparty: exemptions) and the functions referred to in Article 11(11);
-- (e)[^key-4c992700a060b349c944ff4f59564267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-4c992700a060b349c944ff4f59564267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-4c992700a060b349c944ff4f59564267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-4c992700a060b349c944ff4f59564267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-4c992700a060b349c944ff4f59564267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-4c992700a060b349c944ff4f59564267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The FCA is responsible for the supervision of clearing members of a central counterparty for the purposes of the EMIR regulation, including functions under—
 
-- (a)[^key-b39853e89be397a9b5d2245e177d4902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-bf4797293960a81268e1a875e0323214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b39853e89be397a9b5d2245e177d4902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-bf4797293960a81268e1a875e0323214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) Article 48(3) (default procedures: supervision of defaulting clearing member); and
 - (d) Article 52(1) (risk management).
 
@@ -791,9 +791,9 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 
 (6) The FCA is responsible for all functions of the competent authority in relation to trade repositories imposed by the EMIR regulation, including functions under—
 
-- (a) Title 6 (registration and supervision of trade repositories) [^key-31c2bc0bbe346f9d082f768f88b44a85]...; and[^key-4d79c1eefadeda3a635e35a684973da9]
-- (b) Title 7 (requirements for trade repositories); [^key-063c9545f406b71ce2a3921838d926b6]...
-- (c)[^key-063c9545f406b71ce2a3921838d926b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) Title 6 (registration and supervision of trade repositories) [^c-31c2bc0bbe346f9d082f768f88b44a85]...; and[^c-4d79c1eefadeda3a635e35a684973da9]
+- (b) Title 7 (requirements for trade repositories); [^c-063c9545f406b71ce2a3921838d926b6]...
+- (c)[^c-063c9545f406b71ce2a3921838d926b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The FCA is the competent authority for the purposes of Article 89(2) of the EMIR regulation (transitional provisions in relation to pension scheme arrangements).
 
@@ -801,19 +801,19 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 
 - (a) supervision of financial counterparties authorised by the PRA in relation to the obligations imposed by Article 11(3) and (4) of the EMIR regulation; and
 - (b) supervision of any clearing members of a central counterparty authorised by the PRA in relation to the following functions under the EMIR regulation—
-  - (i)[^key-bc9dfb65ea7f6ab4a1278b3ae4ce6913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-4ae2362292cd1630407a5435c8199b9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-bc9dfb65ea7f6ab4a1278b3ae4ce6913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-4ae2362292cd1630407a5435c8199b9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) Article 48(3); and
   - (iv) Article 52(1).
 
 (9) In this regulation, “supervision” includes monitoring, investigation and enforcement.
 
-### 7. Power of the FCA to require information[^key-1dccef65abaaced4d593ff3583a47509]
+### 7. Power of the FCA to require information[^c-1dccef65abaaced4d593ff3583a47509]
 
 (1) In this regulation a “non-authorised counterparty” is—
 
-- (a) a financial counterparty which is not an authorised person; [^key-e1add927681b7ac3e7e497beec65d0bb]...
-- (b) a non-financial counterparty; or[^key-885ad2725df2d467c11382d75630a722]
+- (a) a financial counterparty which is not an authorised person; [^c-e1add927681b7ac3e7e497beec65d0bb]...
+- (b) a non-financial counterparty; or[^c-885ad2725df2d467c11382d75630a722]
 - (c) an entity referred to in Article 4(1)(a)(v) of the EMIR regulation which is not an authorised person.
 
 (2) Where—
@@ -850,33 +850,33 @@ as it may reasonably require.
 
 (9) In this regulation, “specified” means specified in the notice.
 
-### 8. Applications, notifications and reports to FCA[^key-4a66cab626dfa9f6c693a531774a8b1b][^key-d59d18c199b8e8e8dd983eb75c22acf0]
+### 8. Applications, notifications and reports to FCA[^c-4a66cab626dfa9f6c693a531774a8b1b][^c-d59d18c199b8e8e8dd983eb75c22acf0]
 
 (1) Paragraphs (2) and (5) to (8) apply—
 
-- (a) where a person (“P”) is seeking exemption from the clearing obligation as set out in Article 4(1) or 10(1) of the EMIR regulation in reliance on Article 4(2), 4a(2),[^key-d42123e704a0cf20b1f2b3e023910702] 10(2) or 89(2) of that Regulation; or
-- (b) to a notification to the FCA under point (a) of the second subparagraph of Article 4a(1), the fourth subparagraph of Article 9(1) or point (a) of the second subparagraph of Article 10(1)[^key-fc38eea3ba3630efb219092403a4338e] of the EMIR regulation.
+- (a) where a person (“P”) is seeking exemption from the clearing obligation as set out in Article 4(1) or 10(1) of the EMIR regulation in reliance on Article 4(2), 4a(2),[^c-d42123e704a0cf20b1f2b3e023910702] 10(2) or 89(2) of that Regulation; or
+- (b) to a notification to the FCA under point (a) of the second subparagraph of Article 4a(1), the fourth subparagraph of Article 9(1) or point (a) of the second subparagraph of Article 10(1)[^c-fc38eea3ba3630efb219092403a4338e] of the EMIR regulation.
 
-(1A)[^key-ab023caa5a59e9d3080f78048917780e] Paragraphs (2), (6) and (8) apply where a financial counterparty is required to make a report under Article 12(4) or 15(2) of Commission Delegated Regulation (EU) 149/2013 of 19 December 2012 supplementing the EMIR regulation.
+(1A)[^c-ab023caa5a59e9d3080f78048917780e] Paragraphs (2), (6) and (8) apply where a financial counterparty is required to make a report under Article 12(4) or 15(2) of Commission Delegated Regulation (EU) 149/2013 of 19 December 2012 supplementing the EMIR regulation.
 
-(2) An application , notification or report[^key-45dc140ba027d49371548adfb5782362] to the FCA must—
+(2) An application , notification or report[^c-45dc140ba027d49371548adfb5782362] to the FCA must—
 
 - (a) be made in such manner as the FCA may direct; and
 - (b) contain, or be accompanied by, such other information as the FCA may reasonably require.
 
-(3) Paragraphs (4) to (8) apply where a person (“P”) is seeking exemption from the risk management procedures as set out in Article 11(3) of the EMIR regulation in reliance on Article 11(8) or (9)[^key-d939d7fbc7d13c98b77e8f8b45a4ff99] of that Regulation.
+(3) Paragraphs (4) to (8) apply where a person (“P”) is seeking exemption from the risk management procedures as set out in Article 11(3) of the EMIR regulation in reliance on Article 11(8) or (9)[^c-d939d7fbc7d13c98b77e8f8b45a4ff99] of that Regulation.
 
 (4) An application or notification to the FCA must contain, or be accompanied by, such information in addition to any information required to be provided under the EMIR regulation as the FCA may reasonably require.
 
 (5) At any time after receiving an application or notification and before determining it, the FCA may require P to provide it with such further information as it reasonably considers necessary to enable it to determine the application or consider the notification.
 
-(6) Different directions may be given, and different requirements imposed, in relation to different applications , notifications or reports[^key-68b09ae931d38ab5eacebbbd00ec0697] or categories of application , notification or report[^key-0b84923df0d3b51c51df547b54bed561].
+(6) Different directions may be given, and different requirements imposed, in relation to different applications , notifications or reports[^c-68b09ae931d38ab5eacebbbd00ec0697] or categories of application , notification or report[^c-0b84923df0d3b51c51df547b54bed561].
 
 (7) The FCA may require P to provide information under this regulation in such form, or to verify it in such a way, as the FCA may reasonably direct.
 
 (8) A requirement imposed under this regulation is a “relevant requirement” for the purposes of sections 380 (injunctions) and 382 (restitution orders) of the Act.
 
-### 9. Penalties and statements[^key-306bde385a79ee55bf3666eabb90df98][^key-46f0d43946d36c1dae7d7236bea654e7]
+### 9. Penalties and statements[^c-306bde385a79ee55bf3666eabb90df98][^c-46f0d43946d36c1dae7d7236bea654e7]
 
 (1) If the FCA considers that—
 
@@ -884,7 +884,7 @@ as it may reasonably require.
 - (b) a non-financial counterparty; or
 - (c) any other person,
 
-has contravened a relevant requirement imposed on it, the FCA may publish a statement to that effect or[^key-550f955f40240ce4f2920e7691ef909d] impose on it a penalty, in respect of the contravention, of such amount as it considers appropriate.
+has contravened a relevant requirement imposed on it, the FCA may publish a statement to that effect or[^c-550f955f40240ce4f2920e7691ef909d] impose on it a penalty, in respect of the contravention, of such amount as it considers appropriate.
 
 (2) If the FCA considers that—
 
@@ -892,7 +892,7 @@ has contravened a relevant requirement imposed on it, the FCA may publish a stat
 - (b) a non-financial counterparty; or
 - (c) any other person,
 
-has in purported compliance with a requirement imposed on it under regulation 7 or 8 knowingly or recklessly given the FCA information which is false or misleading in a material particular, the FCA may publish a statement to that effect or[^key-9d9d20b83db9767bbc39e02d27113c9a] impose on it a penalty of such amount as it considers appropriate.
+has in purported compliance with a requirement imposed on it under regulation 7 or 8 knowingly or recklessly given the FCA information which is false or misleading in a material particular, the FCA may publish a statement to that effect or[^c-9d9d20b83db9767bbc39e02d27113c9a] impose on it a penalty of such amount as it considers appropriate.
 
 (3) Where the FCA has imposed a penalty under paragraph (1) or (2), it must in addition publish a statement to that effect unless such disclosure would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved.
 
@@ -913,10 +913,10 @@ has in purported compliance with a requirement imposed on it under regulation 7 
 
 (10) In this regulation, a “relevant requirement” means a requirement imposed—
 
-- (a) by or under the EMIR regulation if it is enforceable by the FCA pursuant to regulation 6 (but not including a requirement enforceable by the FCA pursuant to paragraph (6)(a) or (b) of that regulation)[^key-12579835b08e8187bcfd89818b9c0989];
+- (a) by or under the EMIR regulation if it is enforceable by the FCA pursuant to regulation 6 (but not including a requirement enforceable by the FCA pursuant to paragraph (6)(a) or (b) of that regulation)[^c-12579835b08e8187bcfd89818b9c0989];
 - (b) under regulation 7 or 8.
 
-### 10. Penalties under regulation 9: procedure[^key-2d15ee4f6450c51342570f89d15c9892]
+### 10. Penalties under regulation 9: procedure[^c-2d15ee4f6450c51342570f89d15c9892]
 
 (1) If the FCA proposes to take action against a person under regulation 9, it must give the person concerned a warning notice.
 
@@ -938,7 +938,7 @@ has in purported compliance with a requirement imposed on it under regulation 7 
 
 ## PART 6 — Acquisition of control over recognised central counterparties
 
-### 11. Interpretation of Part 6[^key-be12379eda7dfc857d941f8c0c2f69fd]
+### 11. Interpretation of Part 6[^c-be12379eda7dfc857d941f8c0c2f69fd]
 
 In this Part—
 
@@ -948,7 +948,7 @@ In this Part—
 - “shares” has the meaning given by section 422 of the Act[^f00058] (controller), but section 422A of the Act[^f00059] (disregarded holdings) does not apply;
 - “voting power” has the meaning given by section 422 of the Act.
 
-### 12. Procedure in relation to proposed acquisition[^key-17ef710e2f305d9e052366db9a9f9a17]
+### 12. Procedure in relation to proposed acquisition[^c-17ef710e2f305d9e052366db9a9f9a17]
 
 (1) If the Bank gives a person (“P”) notice under Article 31(5) of the EMIR regulation that it opposes a proposed acquisition, P may refer the Bank’s decision to the Tribunal.
 
@@ -963,7 +963,7 @@ In this Part—
 
 (5) If, having considered any representations made by P, the Bank decides not to rescind the notice under Article 31(5) of the EMIR regulation, it must give P written notice which must comply with paragraph (2)(b).
 
-### 13. Restriction notices[^key-5b1d84f2a5d7b44dadf9933375740c29]
+### 13. Restriction notices[^c-5b1d84f2a5d7b44dadf9933375740c29]
 
 (1) The Bank may give notice in writing (a “restriction notice”) to a person (“P”) in the following circumstances.
 
@@ -997,7 +997,7 @@ In this Part—
 
 (7) A person to whom the Bank gives a restriction notice may refer the matter to the Tribunal.
 
-### 14. Orders for sale of shares[^key-32e8edf176eb8b13ae6fc966e5af2632]
+### 14. Orders for sale of shares[^c-32e8edf176eb8b13ae6fc966e5af2632]
 
 (1) The court may, on the application of the Bank, order the sale of shares or the disposition of voting power in the following circumstances.
 
@@ -1020,7 +1020,7 @@ In this Part—
 
 (6) The jurisdiction conferred by this regulation may be exercised by the High Court.
 
-### 15. Offences[^key-5a65e75845cf31d41144022447bb42b9]
+### 15. Offences[^c-5a65e75845cf31d41144022447bb42b9]
 
 (1) A person who fails to comply with an obligation to notify the Bank under the Article 31 of the EMIR regulation is guilty of an offence.
 
@@ -1044,7 +1044,7 @@ In this Part—
 
 (8) It is a defence for a person charged with an offence under paragraph (1) to show the person had, at the time of the alleged offence, no knowledge of the act or circumstances by virtue of which the duty to notify the Bank arose.
 
-## PART 6A — Removal of directors of recognised central counterparties[^key-ec98bf57f67c8a275228b81fb1d4e847]
+## PART 6A — Removal of directors of recognised central counterparties[^c-ec98bf57f67c8a275228b81fb1d4e847]
 
 ### 15A. Removal of directors of recognised central counterparties
 
@@ -1062,33 +1062,33 @@ In this Part—
 
 (7) In this regulation, “board of directors” includes, if there is no such board, the equivalent management body.
 
-## PART 7 — Investigatory powers of ESMA with regard to trade repositories[^key-da72a12b9c6f79fb9019145247a697af]
+## PART 7 — Investigatory powers of ESMA with regard to trade repositories[^c-da72a12b9c6f79fb9019145247a697af]
 
 **No longer in force.**
 
-### 15B. Interpretation[^key-da72a12b9c6f79fb9019145247a697af]
+### 15B. Interpretation[^c-da72a12b9c6f79fb9019145247a697af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Records of telephone and data traffic: Article 62(1)(e) of the EMIR regulation[^key-da72a12b9c6f79fb9019145247a697af]
+### 16. Records of telephone and data traffic: Article 62(1)(e) of the EMIR regulation[^c-da72a12b9c6f79fb9019145247a697af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Inspections: Article 63 of the EMIR regulation[^key-da72a12b9c6f79fb9019145247a697af]
+### 17. Inspections: Article 63 of the EMIR regulation[^c-da72a12b9c6f79fb9019145247a697af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Retention of documents taken under regulation 17[^key-da72a12b9c6f79fb9019145247a697af]
+### 18. Retention of documents taken under regulation 17[^c-da72a12b9c6f79fb9019145247a697af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Offences: Article 63 inspections[^key-da72a12b9c6f79fb9019145247a697af]
+### 19. Offences: Article 63 inspections[^c-da72a12b9c6f79fb9019145247a697af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 8 — Consequential amendments
 
-### 20. Amendments to the Finance Act 1991[^key-451b6b55a14e71b0d758b27332954540]
+### 20. Amendments to the Finance Act 1991[^c-451b6b55a14e71b0d758b27332954540]
 
 (1) The Finance Act 1991[^f00062] is amended as follows.
 
@@ -1114,19 +1114,19 @@ In this Part—
 
 .
 
-### 21. Amendment to the Pension Schemes Act 1993[^key-8a8f3047c7664e008d10fc07be2743bd]
+### 21. Amendment to the Pension Schemes Act 1993[^c-8a8f3047c7664e008d10fc07be2743bd]
 
 (1) The Pension Schemes Act 1993[^f00063] is amended as follows.
 
 (2) In section 149 (procedure on an investigation) in subsection (6)(l) for “or a recognised clearing house” substitute “, recognised clearing house, EEA central counterparty or third country central counterparty”.
 
-### 22. Amendment to the Pension Schemes (Northern Ireland) Act 1993[^key-231653b99d3a3f638168f256d324f439]
+### 22. Amendment to the Pension Schemes (Northern Ireland) Act 1993[^c-231653b99d3a3f638168f256d324f439]
 
 (1) The Pension Schemes (Northern Ireland) Act 1993[^f00064] is amended as follows.
 
 (2) In section 145 (procedure on an investigation) in sub-section (6)(k) for “or a recognised clearing house” substitute “, recognised clearing house, EEA central counterparty or third country central counterparty”.
 
-### 23. Amendments to the Pensions Act 2004[^key-d3a0ddcfb33ed1ed5a5b3dc5246c7c6a]
+### 23. Amendments to the Pensions Act 2004[^c-d3a0ddcfb33ed1ed5a5b3dc5246c7c6a]
 
 (1) The Pensions Act 2004[^f00065] is amended as follows.
 
@@ -1146,7 +1146,7 @@ In this Part—
 
 .
 
-### 24. Amendments to the Income Tax Act 2007[^key-d7b106d414afb9c1cbefd5288a647f60]
+### 24. Amendments to the Income Tax Act 2007[^c-d7b106d414afb9c1cbefd5288a647f60]
 
 (1) The Income Tax Act 2007[^f00066] is amended as follows.
 
@@ -1169,7 +1169,7 @@ In this Part—
 
     .
 
-### 25. Amendments to the Banking Act 2009[^key-2fa5781491c2ad95d0ca91147007010a]
+### 25. Amendments to the Banking Act 2009[^c-2fa5781491c2ad95d0ca91147007010a]
 
 (1) The Banking Act 2009[^f00067] is amended as follows.
 
@@ -1204,7 +1204,7 @@ In this Part—
   ;
 - (c) omit the entry relating to “UK clearing house”.
 
-### 26. Amendments to the Corporation Tax Act 2009[^key-8aeec509acf2f480378c5930131b2dc9]
+### 26. Amendments to the Corporation Tax Act 2009[^c-8aeec509acf2f480378c5930131b2dc9]
 
 (1) The Corporation Tax Act[^f00068] is amended as follows.
 
@@ -1217,13 +1217,13 @@ In this Part—
 
   .
 
-### 27. Amendment to the European Communities (Enforcement of Community Judgments) Order 1972[^key-d7b10a416b65b24336fdfa3b4c1573fe]
+### 27. Amendment to the European Communities (Enforcement of Community Judgments) Order 1972[^c-d7b10a416b65b24336fdfa3b4c1573fe]
 
 (1) The European Communities (Enforcement of Community Judgments) Order 1972[^f00069] is amended as follows.
 
 (2) At the end of the definition of “Community judgment” in article 2(1), insert “or Article 65 or 66 of Regulation (EU) 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories[^f00070]”.
 
-### 28. Amendment to the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^key-a55cdb58c07b191a4fa4321a2b6e8d93]
+### 28. Amendment to the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^c-a55cdb58c07b191a4fa4321a2b6e8d93]
 
 (1) The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^f00071] is amended as follows.
 
@@ -1260,7 +1260,7 @@ In this Part—
   - (ii) after “section 292(2) of that Act,” insert “to refuse to vary a recognition order under section 290ZA(1) of the 2000 Act, to vary a recognition order under section 290ZA(2) of the 2000 Act,”;
 - (b) in paragraph (j) for “UK recognised clearing house” substitute “recognised clearing house”.
 
-### 29. Amendments to the Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^key-7b4cf140146dc887e14fb1940184a4e0]
+### 29. Amendments to the Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^c-7b4cf140146dc887e14fb1940184a4e0]
 
 (1) The Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^f00072] is amended as follows.
 
@@ -1297,7 +1297,7 @@ In this Part—
   - (ii) after “section 292(2) of that Act,” insert “to refuse to vary a recognition order under section 290ZA(1) of the 2000 Act, to vary a recognition order under section 290ZA(2) of the 2000 Act,”;
 - (b) in paragraph (j) for “UK recognised clearing house” substitute “recognised clearing house”.
 
-### 30. Amendments to the Financial Markets and Insolvency Regulations 1991[^key-39792b9d5f7c548d3ec2d9022f70dc83]
+### 30. Amendments to the Financial Markets and Insolvency Regulations 1991[^c-39792b9d5f7c548d3ec2d9022f70dc83]
 
 (1) The Financial Markets and Insolvency Regulations 1991[^f00073] are amended as follows.
 
@@ -1319,7 +1319,7 @@ In this Part—
   ; and
 - (b) in paragraph (b) for “in the case of a recognised UK clearing house” substitute “in the case of a recognised clearing house which is not a recognised central counterparty”.
 
-### 31. Amendments to the Income Tax (Manufactured Overseas Dividends) Regulations 1993[^key-2a6bf7cdcf1941f10775cf0745c587bb]
+### 31. Amendments to the Income Tax (Manufactured Overseas Dividends) Regulations 1993[^c-2a6bf7cdcf1941f10775cf0745c587bb]
 
 (1) The Income Tax (Manufactured Overseas Dividends) Regulations 1993[^f00075] are amended as follows.
 
@@ -1334,7 +1334,7 @@ In this Part—
 
   .
 
-### 32. Amendments to the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^key-b9b49f5941df64ff9ebc6ddc3c6f99cc]
+### 32. Amendments to the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^c-b9b49f5941df64ff9ebc6ddc3c6f99cc]
 
 (1) The Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^f00076] are amended as follows.
 
@@ -1420,7 +1420,7 @@ In this Part—
 
   .
 
-### 33. Amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-5d2dfaddb849edc04141d264aac810e8]
+### 33. Amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-5d2dfaddb849edc04141d264aac810e8]
 
 (1) The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00085] is amended as follows.
 
@@ -1450,13 +1450,13 @@ In this Part—
 
 .
 
-### 34. Amendment to the Financial Services and Markets Act 2000 (Exemption) Order 2001[^key-4e3f9f108ec4c55f9d52f0603507f875]
+### 34. Amendment to the Financial Services and Markets Act 2000 (Exemption) Order 2001[^c-4e3f9f108ec4c55f9d52f0603507f875]
 
 (1) The Financial Services and Markets Act 2000 (Exemption) Order 2001[^f00086] is amended as follows.
 
 (2) In Schedule 1, in paragraph 37(1), after “section 285(3)” insert “or (3A)”.
 
-### 35. Amendments to the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-0ec34d3218031130c6036e2c5272e238]
+### 35. Amendments to the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^c-0ec34d3218031130c6036e2c5272e238]
 
 (1) The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^f00087] are amended as follows.
 
@@ -1519,9 +1519,9 @@ In this Part—
 
 (7) In Schedule 2, in the first column, in the entry beginning “A recognised clearing house” after “other than an overseas clearing house” insert “, an EEA central counterparty (within the meaning of section 285(1)(c) of the Act) or a third country central counterparty (within the meaning of section 285(1)(d) of the Act)”.
 
-### 36. Amendments to the Uncertificated Securities Regulations 2001[^key-7eea463ff5f1ff1cf3afb5bf16d1ab84][^key-b7e2126ded02ba7c084c79f75d161eed]
+### 36. Amendments to the Uncertificated Securities Regulations 2001[^c-7eea463ff5f1ff1cf3afb5bf16d1ab84][^c-b7e2126ded02ba7c084c79f75d161eed]
 
-(1) The Uncertificated[^key-ee10f63ee1b9d84da0630900a7870b73] Securities Regulations 2001[^f00092] are amended as follows.
+(1) The Uncertificated[^c-ee10f63ee1b9d84da0630900a7870b73] Securities Regulations 2001[^f00092] are amended as follows.
 
 (2) In Schedule 1, in paragraph 5(7), in the definition of “clearing house”—
 
@@ -1532,7 +1532,7 @@ In this Part—
 
   .
 
-### 37. Amendment to the Pension Protection Fund (PPF Ombudsman) Order (Northern Ireland) 2005[^key-799b4dd748d9335f3913b03e76808c8b]
+### 37. Amendment to the Pension Protection Fund (PPF Ombudsman) Order (Northern Ireland) 2005[^c-799b4dd748d9335f3913b03e76808c8b]
 
 (1) The Pension Protection Fund (PPF Ombudsman) Order (Northern Ireland) 2005[^f00093] is amended as follows.
 
@@ -1542,7 +1542,7 @@ In this Part—
 
 .
 
-### 38. Amendment to the Pension Protection Fund (PPF Ombudsman) Order 2005[^key-ed03a9bf6cc39debc15e21a0ea3822fc]
+### 38. Amendment to the Pension Protection Fund (PPF Ombudsman) Order 2005[^c-ed03a9bf6cc39debc15e21a0ea3822fc]
 
 (1) The Pension Protection Fund (PPF Ombudsman) Order 2005[^f00094] is amended as follows.
 
@@ -1552,7 +1552,7 @@ In this Part—
 
 .
 
-### 39. Amendment to the Financial Assistance Scheme (Appeals) Regulations 2005[^key-2e805e601d43df26bda0d98801cab308]
+### 39. Amendment to the Financial Assistance Scheme (Appeals) Regulations 2005[^c-2e805e601d43df26bda0d98801cab308]
 
 (1) The Financial Assistance Scheme (Appeals) Regulations 2005[^f00095] are amended as follows.
 
@@ -1562,7 +1562,7 @@ In this Part—
 
 .
 
-### 40. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No.9) 2009[^key-bd0b847296bd23d4662bfd2d7a8a46c7]
+### 40. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No.9) 2009[^c-bd0b847296bd23d4662bfd2d7a8a46c7]
 
 (1) The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No.9) 2009[^f00096] are amended as follows.
 
@@ -1585,7 +1585,7 @@ In this Part—
 
 .
 
-### 41. Amendments to the Investment Bank Special Administration Regulations 2011[^key-2f852ade34443445c56320fb8aeed0ef]
+### 41. Amendments to the Investment Bank Special Administration Regulations 2011[^c-2f852ade34443445c56320fb8aeed0ef]
 
 (1) The Investment Bank Special Administration Regulations 2011[^f00097] are amended as follows.
 
@@ -1601,7 +1601,7 @@ In this Part—
 
 (3) In regulation 13(1)(a)(iii) after “facilitate the” insert “transfer,”.
 
-### 42. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (Eurex Clearing AG) Regulations 2011[^key-35d6fffe9a064013d19c1d65615e175c]
+### 42. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (Eurex Clearing AG) Regulations 2011[^c-35d6fffe9a064013d19c1d65615e175c]
 
 (1) The Stamp Duty and Stamp Duty Reserve Tax (Eurex Clearing AG) Regulations 2011[^f00098] are amended as follows.
 
@@ -1645,7 +1645,7 @@ In this Part—
 
   .
 
-### 43. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (European Central Counterparty Limited) Regulations 2011[^key-6f9e2b5a696efb2176676ba683f57052]
+### 43. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (European Central Counterparty Limited) Regulations 2011[^c-6f9e2b5a696efb2176676ba683f57052]
 
 (1) The Stamp Duty and Stamp Duty Reserve Tax (European Central Counterparty Limited) Regulations 2011[^f00099] are amended as follows.
 
@@ -1689,7 +1689,7 @@ In this Part—
 
   .
 
-### 44. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (European Multilateral Clearing Facility N.V.) Regulations 2011[^key-63d9484e937e39209dabfbde45e8ad3a]
+### 44. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (European Multilateral Clearing Facility N.V.) Regulations 2011[^c-63d9484e937e39209dabfbde45e8ad3a]
 
 (1) The Stamp Duty and Stamp Duty (European Multilateral Clearing Facility N.V.) Regulations 2011[^f00100] are amended as follows.
 
@@ -1733,7 +1733,7 @@ In this Part—
 
   .
 
-### 45. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (LCH.Clearnet Limited) Regulations 2011[^key-2f1bc80cba8891cb55524e2b95accc76]
+### 45. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (LCH.Clearnet Limited) Regulations 2011[^c-2f1bc80cba8891cb55524e2b95accc76]
 
 (1) The Stamp Duty and Stamp Duty Reserve Tax (LCH.Clearnet Limited) Regulations 2011[^f00101] are amended as follows.
 
@@ -1777,7 +1777,7 @@ In this Part—
 
   .
 
-### 46. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (SIX X-CLEAR AG) Regulations 2011[^key-27a50776a4de9220c7b41810d1aef52e]
+### 46. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (SIX X-CLEAR AG) Regulations 2011[^c-27a50776a4de9220c7b41810d1aef52e]
 
 (1) The Stamp Duty and Stamp Duty Reserve Tax (SIX X-CLEAR AG) Regulations 2011[^f00102] are amended as follows.
 
@@ -1821,7 +1821,7 @@ In this Part—
 
   .
 
-### 47. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (Cassa Di Compensazione E Garanzia S.p.A.) Regulations 2011[^key-c324957bf6e54209cb0d510f4e2e672b]
+### 47. Amendments to the Stamp Duty and Stamp Duty Reserve Tax (Cassa Di Compensazione E Garanzia S.p.A.) Regulations 2011[^c-c324957bf6e54209cb0d510f4e2e672b]
 
 (1) The Stamp Duty and Stamp Duty Reserve Tax (Cassa Di Compensazione E Garanzia S.p.A.) Regulations 2011[^f00103] are amended as follows.
 
@@ -1865,7 +1865,7 @@ In this Part—
 
   .
 
-### 48. Amendments to the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^key-70af4e04ce3eeb361e0e9fdee8405b75]
+### 48. Amendments to the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^c-70af4e04ce3eeb361e0e9fdee8405b75]
 
 (1) The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^f00104] is amended as follows.
 
@@ -1900,7 +1900,7 @@ In this Part—
 
     .
 
-### 49. Amendment to the Payment to Treasury of Penalties (Enforcement Costs) Order 2013[^key-13efdb054264de2c4d78b4a31c955d5d]
+### 49. Amendment to the Payment to Treasury of Penalties (Enforcement Costs) Order 2013[^c-13efdb054264de2c4d78b4a31c955d5d]
 
 (1) The Payment to Treasury of Penalties (Enforcement Costs) Order 2013[^f00105] is amended as follows.
 
@@ -1912,7 +1912,7 @@ In this Part—
 
 ## PART 9 — Transitional and saving provisions
 
-### 50. Interpretation of Part 10[^key-748c46cd18fa2523e67db5de7a22ce80]
+### 50. Interpretation of Part 10[^c-748c46cd18fa2523e67db5de7a22ce80]
 
 In this Part—
 
@@ -1920,7 +1920,7 @@ In this Part—
 - “commencement” means the coming into force of these Regulations;
 - “FSA” means the Financial Services Authority.
 
-### 51. Information provided to or requested by FSA[^key-9ba866acb78067f9a6b070bc1b59b430]
+### 51. Information provided to or requested by FSA[^c-9ba866acb78067f9a6b070bc1b59b430]
 
 On and after commencement—
 
@@ -1935,7 +1935,7 @@ On and after commencement—
 
   is to be treated as if it had been provided to the Bank.
 
-### 52. Transitional and saving provisions: central counterparties[^key-420ebaae620bb46f7d5459444f7239cb]
+### 52. Transitional and saving provisions: central counterparties[^c-420ebaae620bb46f7d5459444f7239cb]
 
 (1) The transition period for a CCP RCH begins with commencement.
 
@@ -1959,21 +1959,21 @@ On and after commencement—
 - (a) section 285(3) of the Act[^f00106] (exemption from general prohibition for recognised clearing house);
 - (b) section 297 of the Act[^f00107] (revoking recognition);
 - (c) sections 300A to 300E of the Act[^f00108] (power to disallow excessive regulatory provision);
-- (d) subject to paragraph (5A),[^key-414bfb09a61bc37bf29c8b6aab1603ce] the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^f00109].
-- (e)[^key-f6da5158e48189f0ba9c1687fe40997b] Part 1 of the Banking Act 2009 (special resolution regime).
+- (d) subject to paragraph (5A),[^c-414bfb09a61bc37bf29c8b6aab1603ce] the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^f00109].
+- (e)[^c-f6da5158e48189f0ba9c1687fe40997b] Part 1 of the Banking Act 2009 (special resolution regime).
 
-(5A)[^key-ca98fe82f4bdac62c1944beba35551f8] During its transition period, the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001 apply in relation to a CCP RCH which is established outside the United Kingdom as if—
+(5A)[^c-ca98fe82f4bdac62c1944beba35551f8] During its transition period, the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001 apply in relation to a CCP RCH which is established outside the United Kingdom as if—
 
 - (a) they had not been amended or disapplied by these Regulations; and
 - (b) paragraph 23A of the Schedule were omitted.
 
-(6) But paragraphs (5)(d) and (5A)(a) do not apply[^key-ade620843da22805860e4515cdd9a4fd] in relation to the assessment and determination of any application by the CCP RCH under Article 14 of the EMIR regulation.
+(6) But paragraphs (5)(d) and (5A)(a) do not apply[^c-ade620843da22805860e4515cdd9a4fd] in relation to the assessment and determination of any application by the CCP RCH under Article 14 of the EMIR regulation.
 
 (7) Section 296A of the Act[^f00110] (additional power to direct recognised central counterparties) applies during the transition period for a CCP RCH as if a reference to a “recognised central counterparty” were a reference to a “CCP RCH”.
 
 (8) Nothing in these Regulations affects the validity of a CCP RCH’s recognition order during its transition period.
 
-### 53. Further transitional provisions: EEA and third country central counterparties[^key-7eafa16ce0fd43fa2f35ad8cb2f166a1]
+### 53. Further transitional provisions: EEA and third country central counterparties[^c-7eafa16ce0fd43fa2f35ad8cb2f166a1]
 
 (1) Where the competent authority of an EEA State other than the United Kingdom has made a decision to authorise or not to authorise a CCP RCH in accordance with Article 17 of the EMIR regulation—
 
@@ -1985,7 +1985,7 @@ On and after commencement—
 - (a) its recognition order under section 292(2)(b) of the Act ceases to be valid; and
 - (b) the CCP RCH is no longer a recognised clearing house.
 
-### 54. Transitional and saving provisions: overseas persons[^key-09d261250d72e22eef4c343916636462]
+### 54. Transitional and saving provisions: overseas persons[^c-09d261250d72e22eef4c343916636462]
 
 (1) The transition period for an overseas person begins with commencement.
 
@@ -1998,37 +1998,37 @@ On and after commencement—
 
 (4) In this regulation, “overseas person” means an overseas person (within the meaning of article 3(1) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00111]) which provided clearing services as a central counterparty immediately before commencement.
 
-### 55. Transitional and saving provisions: designation orders under the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^key-a532eed51c643a0f20d157fcc57566bf]
+### 55. Transitional and saving provisions: designation orders under the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^c-a532eed51c643a0f20d157fcc57566bf]
 
 Nothing in these Regulations affects any designation order in force under the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^f00112] in relation to a designated system, and no system operator shall be required to apply for an amended designation order in consequence only of these Regulations.
 
-### 55A. Transitional provisions: markets in financial instruments provisions[^key-8032eb827d7e265f21d3d6f897a8ddfb]
+### 55A. Transitional provisions: markets in financial instruments provisions[^c-8032eb827d7e265f21d3d6f897a8ddfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 55B. Transitional provision: EMIR regulation[^key-c3603d1ee33d98ffafc7ab782c9ca776]
+### 55B. Transitional provision: EMIR regulation[^c-c3603d1ee33d98ffafc7ab782c9ca776]
 
 The FCA may grant an exemption in accordance with Article 89a of the EMIR regulation.
 
 ## PART 10 — Miscellaneous
 
-### 56. Warning notices and decision notices[^key-99e9d1b49a8949606d8ebce16f67c6e3]
+### 56. Warning notices and decision notices[^c-99e9d1b49a8949606d8ebce16f67c6e3]
 
 Sections 387 (warning notices), 388 (decision notices), 389 (notices of discontinuance), 391 (publication), 393 (third party rights) and 394 (access to Authority material) of the Act[^f00113] apply in relation to a warning notice or decision notice under these Regulations.
 
-### 57. Offences[^key-3e4bb121e152993d3bd5a52891ace0ea]
+### 57. Offences[^c-3e4bb121e152993d3bd5a52891ace0ea]
 
 Sections 400 (offences by bodies corporate etc.), 401 (proceedings for offences) and 403 (jurisdiction and procedure in respect of offences) of the Act[^f00114] apply to offences under these Regulations as they apply to offences under the Act.
 
-### 58. References to the Tribunal[^key-ddeef56e2fb5605ffb50eee68041a3dd]
+### 58. References to the Tribunal[^c-ddeef56e2fb5605ffb50eee68041a3dd]
 
 Part 9 of the Act (hearings and appeals) applies to references to the Tribunal under these Regulations as it applies to references to the Tribunal under the Act.
 
-### 59. Scotland[^key-56aee074b6fd65d3b3b371b4de2cfd58]
+### 59. Scotland[^c-56aee074b6fd65d3b3b371b4de2cfd58]
 
 In the application of these Regulations to Scotland, references to the High Court are to be read as references to the Court of Session.
 
-### 60. Review[^key-a19361663bfec4665ca43e419ea541f8]
+### 60. Review[^c-a19361663bfec4665ca43e419ea541f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2042,7 +2042,7 @@ Vince Cable
 
 Secretary of State for Business, Innovation and Skills
 
-## SCHEDULE — Section 191 of the Companies Act 1989: index of defined expressions[^key-14b53116039722a81390e16b245b030c]
+## SCHEDULE — Section 191 of the Companies Act 1989: index of defined expressions[^c-14b53116039722a81390e16b245b030c]
 
 Regulation 4(19)
 
@@ -2115,13 +2115,13 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 ## Annotations
 
-[^key-a19361663bfec4665ca43e419ea541f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/504) revoked (14.12.2023 for the revocation of reg. 60) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/iii)
+[^c-a19361663bfec4665ca43e419ea541f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/504) revoked (14.12.2023 for the revocation of reg. 60) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/iii)
 
 [^f00001]: Footnote: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-f22659286a411553097a3ce68de14f70]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/504): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-f22659286a411553097a3ce68de14f70]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/504): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00003]: Footnote: [1989 c.40](https://www.legislation.gov.uk/ukpga/1989/40).
 
@@ -2133,13 +2133,13 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00007]: Footnote: The powers originally vested in the Secretary of State under sections 158(4) and (5), 174(2) to (4), and 185 of the Companies Act 1989 are now exercisable by the Secretary of State jointly with the Treasury: see the Transfer of Functions (Financial Services) Order 1992. Powers originally vested in the Secretary of State under section 186(1) are now exercisable by the Secretary of State jointly with the Treasury insofar as they relate to functions under those sections.
 
-[^key-d0e171873f52560beb6449a907c29c0f]: Commencement: Reg. 1 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-d0e171873f52560beb6449a907c29c0f]: Commencement: Reg. 1 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-b4feefb68503d70143ada0f521f07526]: Commencement: Reg. 2 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-b4feefb68503d70143ada0f521f07526]: Commencement: Reg. 2 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-5d2c7208eeacfcfbf45fed827d440da5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/504/regulation/2/1) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/335/regulation/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d2c7208eeacfcfbf45fed827d440da5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/504/regulation/2/1) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/335/regulation/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d0cf3c6f574b62c550991c6d8a8be801]: Commencement: Reg. 3 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-d0cf3c6f574b62c550991c6d8a8be801]: Commencement: Reg. 3 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00009]: Footnote: Section 55G was inserted by section 11 of the Financial Services Act 2012.
 
@@ -2169,7 +2169,7 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00022]: Footnote: Schedule 17A was inserted by Schedule 7 to the Financial Services Act 2012.
 
-[^key-c9c1ea07eda10bfe10b8c62fa494057f]: Commencement: Reg. 4 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-c9c1ea07eda10bfe10b8c62fa494057f]: Commencement: Reg. 4 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00023]: Footnote: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
 
@@ -2223,7 +2223,7 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00048]: Footnote: Section 191 was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [S.I. 2009/853](https://www.legislation.gov.uk/uksi/2009/853) and paragraph 71 of Schedule 18 to the Financial Services Act 2012.
 
-[^key-545b2eb0957fc1e46b5a2cfc5bb7be1a]: Commencement: Reg. 5 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-545b2eb0957fc1e46b5a2cfc5bb7be1a]: Commencement: Reg. 5 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00049]: Footnote: [S.I. 2001/995](https://www.legislation.gov.uk/uksi/2001/995).
 
@@ -2237,145 +2237,145 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00054]: Footnote: Section 163 was amended by [S.I. 2009/853](https://www.legislation.gov.uk/uksi/2009/853).
 
-[^key-137d069879b998c175664c829cb80d7e]: Commencement: Reg. 6 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-137d069879b998c175664c829cb80d7e]: Commencement: Reg. 6 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-16c05ffd1e27eb8c8b7943847860a56a]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/1/b) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/a/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-16c05ffd1e27eb8c8b7943847860a56a]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/1/b) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/a/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4dc0f61917fd7f3e53d037a9445d3175]: Textual amendment: [Reg. 6(1)(e)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/1/e) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/a/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4dc0f61917fd7f3e53d037a9445d3175]: Textual amendment: [Reg. 6(1)(e)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/1/e) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/a/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7dfa1785c4696fe11d419b2564b2103c]: Textual amendment: [Reg. 6(1)(f)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/1/f) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/a/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7dfa1785c4696fe11d419b2564b2103c]: Textual amendment: [Reg. 6(1)(f)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/1/f) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/a/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a908ba31cb3c4b1aac7054b31ebb679d]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/2) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a908ba31cb3c4b1aac7054b31ebb679d]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/2) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4c992700a060b349c944ff4f59564267]: Textual amendment: [Reg. 6(3)(e)-(g)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/3/e) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c992700a060b349c944ff4f59564267]: Textual amendment: [Reg. 6(3)(e)-(g)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/3/e) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b39853e89be397a9b5d2245e177d4902]: Textual amendment: [Reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/4/a) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/d) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b39853e89be397a9b5d2245e177d4902]: Textual amendment: [Reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/4/a) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/d) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf4797293960a81268e1a875e0323214]: Textual amendment: [Reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/4/b) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/d) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf4797293960a81268e1a875e0323214]: Textual amendment: [Reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/4/b) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/d) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-31c2bc0bbe346f9d082f768f88b44a85]: Textual amendment: Words in [reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/6/a) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(e)(i)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/e/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31c2bc0bbe346f9d082f768f88b44a85]: Textual amendment: Words in [reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/6/a) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(e)(i)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/e/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d79c1eefadeda3a635e35a684973da9]: Textual amendment: Word in [reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/6/a) inserted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(e)(ii)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/e/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d79c1eefadeda3a635e35a684973da9]: Textual amendment: Word in [reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/6/a) inserted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(e)(ii)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/e/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-063c9545f406b71ce2a3921838d926b6]: Textual amendment: [Reg. 6(6)(c)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/6/c) and word omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(e)(iii)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/e/iii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-063c9545f406b71ce2a3921838d926b6]: Textual amendment: [Reg. 6(6)(c)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/6/c) and word omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(e)(iii)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/e/iii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc9dfb65ea7f6ab4a1278b3ae4ce6913]: Textual amendment: [Reg. 6(8)(b)(i)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/8/b/i) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(f)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/f) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc9dfb65ea7f6ab4a1278b3ae4ce6913]: Textual amendment: [Reg. 6(8)(b)(i)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/8/b/i) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(f)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/f) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4ae2362292cd1630407a5435c8199b9c]: Textual amendment: [Reg. 6(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/8/b/ii) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(f)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/f) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ae2362292cd1630407a5435c8199b9c]: Textual amendment: [Reg. 6(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/504/regulation/6/8/b/ii) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [4(f)](https://www.legislation.gov.uk/uksi/2019/335/regulation/4/f) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1dccef65abaaced4d593ff3583a47509]: Commencement: Reg. 7 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-1dccef65abaaced4d593ff3583a47509]: Commencement: Reg. 7 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-e1add927681b7ac3e7e497beec65d0bb]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2013/504/regulation/7/1) omitted (26.8.2013) by virtue of [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/2/a)
+[^c-e1add927681b7ac3e7e497beec65d0bb]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2013/504/regulation/7/1) omitted (26.8.2013) by virtue of [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/2/a)
 
-[^key-885ad2725df2d467c11382d75630a722]: Textual amendment: [Reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2013/504/regulation/7/1/c) and word inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/2/b)
+[^c-885ad2725df2d467c11382d75630a722]: Textual amendment: [Reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2013/504/regulation/7/1/c) and word inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/2/b)
 
 [^f00055]: Footnote: Sections 380 and 382 were amended by Schedule 9 to the Financial Services Act 2012 and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and [2012/1906](https://www.legislation.gov.uk/uksi/2012/1906) and [2554](https://www.legislation.gov.uk/uksi/2012/2554).
 
-[^key-4a66cab626dfa9f6c693a531774a8b1b]: Commencement: Reg. 8 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-4a66cab626dfa9f6c693a531774a8b1b]: Commencement: Reg. 8 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-d59d18c199b8e8e8dd983eb75c22acf0]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/504/regulation/8) heading substituted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(3)(a)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/3/a)
+[^c-d59d18c199b8e8e8dd983eb75c22acf0]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/504/regulation/8) heading substituted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(3)(a)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/3/a)
 
-[^key-d42123e704a0cf20b1f2b3e023910702]: Textual amendment: Word in [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/1/a) inserted (9.7.2019) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2019 (S.I. 2019/1031)](https://www.legislation.gov.uk/uksi/2019/1031), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1031/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/1031/regulation/2/3/a)
+[^c-d42123e704a0cf20b1f2b3e023910702]: Textual amendment: Word in [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/1/a) inserted (9.7.2019) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2019 (S.I. 2019/1031)](https://www.legislation.gov.uk/uksi/2019/1031), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1031/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/1031/regulation/2/3/a)
 
-[^key-fc38eea3ba3630efb219092403a4338e]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/1/b) substituted (9.7.2019) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2019 (S.I. 2019/1031)](https://www.legislation.gov.uk/uksi/2019/1031), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1031/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/1031/regulation/2/3/b)
+[^c-fc38eea3ba3630efb219092403a4338e]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/1/b) substituted (9.7.2019) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2019 (S.I. 2019/1031)](https://www.legislation.gov.uk/uksi/2019/1031), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1031/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/1031/regulation/2/3/b)
 
-[^key-ab023caa5a59e9d3080f78048917780e]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/1A) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(3)(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/3/b)
+[^c-ab023caa5a59e9d3080f78048917780e]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/1A) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(3)(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/3/b)
 
-[^key-45dc140ba027d49371548adfb5782362]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/2) substituted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/3/c)
+[^c-45dc140ba027d49371548adfb5782362]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/2) substituted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/3/c)
 
-[^key-d939d7fbc7d13c98b77e8f8b45a4ff99]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/3) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/335/regulation/5) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d939d7fbc7d13c98b77e8f8b45a4ff99]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/3) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/335/regulation/5) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-68b09ae931d38ab5eacebbbd00ec0697]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/6) substituted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(3)(d)(i)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/3/d/i)
+[^c-68b09ae931d38ab5eacebbbd00ec0697]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/6) substituted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(3)(d)(i)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/3/d/i)
 
-[^key-0b84923df0d3b51c51df547b54bed561]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/6) substituted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/3/d/ii)
+[^c-0b84923df0d3b51c51df547b54bed561]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/uksi/2013/504/regulation/8/6) substituted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/3/d/ii)
 
-[^key-306bde385a79ee55bf3666eabb90df98]: Commencement: Reg. 9 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-306bde385a79ee55bf3666eabb90df98]: Commencement: Reg. 9 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-46f0d43946d36c1dae7d7236bea654e7]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2013/504/regulation/9) heading inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(4)(a)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/4/a)
+[^c-46f0d43946d36c1dae7d7236bea654e7]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2013/504/regulation/9) heading inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(4)(a)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/4/a)
 
-[^key-550f955f40240ce4f2920e7691ef909d]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2013/504/regulation/9/1) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(4)(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/4/b)
+[^c-550f955f40240ce4f2920e7691ef909d]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2013/504/regulation/9/1) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(4)(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/4/b)
 
-[^key-9d9d20b83db9767bbc39e02d27113c9a]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/9/2) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(4)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/4/c)
+[^c-9d9d20b83db9767bbc39e02d27113c9a]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/9/2) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(4)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/4/c)
 
-[^key-12579835b08e8187bcfd89818b9c0989]: Textual amendment: Words in [reg. 9(10)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/9/10/a) inserted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2019/335/regulation/6) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-12579835b08e8187bcfd89818b9c0989]: Textual amendment: Words in [reg. 9(10)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/9/10/a) inserted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2019/335/regulation/6) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d15ee4f6450c51342570f89d15c9892]: Commencement: Reg. 10 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-2d15ee4f6450c51342570f89d15c9892]: Commencement: Reg. 10 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00056]: Footnote: Section 210 was amended by Schedule 2 to the Financial Services Act 2010 and Schedule 9 to the Financial Services Act 2012. Section 211 was amended by Schedule 9 to the Financial Services Act 2012.
 
 [^f00057]: Footnote: Section 393(4) was amended by Schedule 9 to the Financial Services Act 2012.
 
-[^key-be12379eda7dfc857d941f8c0c2f69fd]: Commencement: Reg. 11 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-be12379eda7dfc857d941f8c0c2f69fd]: Commencement: Reg. 11 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00058]: Footnote: Section 422 was substituted by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534).
 
 [^f00059]: Footnote: Section 422A was inserted by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534) and amended by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
 
-[^key-17ef710e2f305d9e052366db9a9f9a17]: Commencement: Reg. 12 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-17ef710e2f305d9e052366db9a9f9a17]: Commencement: Reg. 12 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-5b1d84f2a5d7b44dadf9933375740c29]: Commencement: Reg. 13 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-5b1d84f2a5d7b44dadf9933375740c29]: Commencement: Reg. 13 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-32e8edf176eb8b13ae6fc966e5af2632]: Commencement: Reg. 14 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-32e8edf176eb8b13ae6fc966e5af2632]: Commencement: Reg. 14 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-5a65e75845cf31d41144022447bb42b9]: Commencement: Reg. 15 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-5a65e75845cf31d41144022447bb42b9]: Commencement: Reg. 15 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-ec98bf57f67c8a275228b81fb1d4e847]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2013/504/part/6A) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(5)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/5)
+[^c-ec98bf57f67c8a275228b81fb1d4e847]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2013/504/part/6A) inserted (26.8.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013 (S.I. 2013/1908)](https://www.legislation.gov.uk/uksi/2013/1908), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c), [4(5)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/4/5)
 
-[^key-da72a12b9c6f79fb9019145247a697af]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2013/504/part/7) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/335/regulation/7) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da72a12b9c6f79fb9019145247a697af]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2013/504/part/7) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/335/regulation/7) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-451b6b55a14e71b0d758b27332954540]: Commencement: Reg. 20 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-451b6b55a14e71b0d758b27332954540]: Commencement: Reg. 20 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00062]: Footnote: [1991 c. 31](https://www.legislation.gov.uk/ukpga/1991/31); section 116 was amended by paragraph 5 of Schedule 20 to the Financial Services and Markets Act [2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8), paragraph 7 of Schedule 21 to the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11) and section 65 of the Finance Act [2010 (c.13)](https://www.legislation.gov.uk/ukpga/2010/13); section 117 was amended by section 65 of the Finance Act 2010.
 
-[^key-8a8f3047c7664e008d10fc07be2743bd]: Commencement: Reg. 21 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-8a8f3047c7664e008d10fc07be2743bd]: Commencement: Reg. 21 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00063]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 149 was substituted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-231653b99d3a3f638168f256d324f439]: Commencement: Reg. 22 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-231653b99d3a3f638168f256d324f439]: Commencement: Reg. 22 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00064]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 145(6)(k) was substituted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-d3a0ddcfb33ed1ed5a5b3dc5246c7c6a]: Commencement: Reg. 23 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-d3a0ddcfb33ed1ed5a5b3dc5246c7c6a]: Commencement: Reg. 23 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00065]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-d7b106d414afb9c1cbefd5288a647f60]: Commencement: Reg. 24 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-d7b106d414afb9c1cbefd5288a647f60]: Commencement: Reg. 24 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00066]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3); section 886 was amended by paragraph 24 of Schedule 14 to the Finance Act 2007.
 
-[^key-2fa5781491c2ad95d0ca91147007010a]: Commencement: Reg. 25 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-2fa5781491c2ad95d0ca91147007010a]: Commencement: Reg. 25 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00067]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1), amended by section 102 of the Financial Services Act 2012.
 
-[^key-8aeec509acf2f480378c5930131b2dc9]: Commencement: Reg. 26 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-8aeec509acf2f480378c5930131b2dc9]: Commencement: Reg. 26 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00068]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).
 
-[^key-d7b10a416b65b24336fdfa3b4c1573fe]: Commencement: Reg. 27 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-d7b10a416b65b24336fdfa3b4c1573fe]: Commencement: Reg. 27 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00069]: Footnote: [S.I. 1972/1590](https://www.legislation.gov.uk/uksi/1972/1590); article 2(1) was amended by [S.I. 1998/1259](https://www.legislation.gov.uk/uksi/1998/1259) and [2003/3204](https://www.legislation.gov.uk/uksi/2003/3204).
 
 [^f00070]: Footnote: OJ No L 201, 27.7.2012, p.1.
 
-[^key-a55cdb58c07b191a4fa4321a2b6e8d93]: Commencement: Reg. 28 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-a55cdb58c07b191a4fa4321a2b6e8d93]: Commencement: Reg. 28 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00071]: Footnote: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023); amended by [S.I. 2001/3816](https://www.legislation.gov.uk/uksi/2001/3816).
 
-[^key-7b4cf140146dc887e14fb1940184a4e0]: Commencement: Reg. 29 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-7b4cf140146dc887e14fb1940184a4e0]: Commencement: Reg. 29 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00072]: Footnote: [SR 1979/195](https://www.legislation.gov.uk/nisr/1979/195).
 
-[^key-39792b9d5f7c548d3ec2d9022f70dc83]: Commencement: Reg. 30 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-39792b9d5f7c548d3ec2d9022f70dc83]: Commencement: Reg. 30 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00073]: Footnote: [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880); regulation 7 was amended by [S.I. 1999/1209](https://www.legislation.gov.uk/uksi/1999/1209) and [S.I. 2009/853](https://www.legislation.gov.uk/uksi/2009/853).
 
 [^f00074]: Footnote: [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880); regulation 11 was amended by [S.I. 2009/853](https://www.legislation.gov.uk/uksi/2009/853).
 
-[^key-2a6bf7cdcf1941f10775cf0745c587bb]: Commencement: Reg. 31 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-2a6bf7cdcf1941f10775cf0745c587bb]: Commencement: Reg. 31 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00075]: Footnote: [S.I. 1993/2004](https://www.legislation.gov.uk/uksi/1993/2004); regulation 5B was inserted by [S.I. 2011/2503](https://www.legislation.gov.uk/uksi/2011/2503).
 
-[^key-b9b49f5941df64ff9ebc6ddc3c6f99cc]: Commencement: Reg. 32 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-b9b49f5941df64ff9ebc6ddc3c6f99cc]: Commencement: Reg. 32 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00076]: Footnote: [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979); regulation 2(1) was amended by Schedule 1 to the Bankruptcy (Scotland) Act [1993 (c. 6)](https://www.legislation.gov.uk/ukpga/1993/6), [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555), [S.I. 2006/50](https://www.legislation.gov.uk/uksi/2006/50), [S.I. 2006/3221](https://www.legislation.gov.uk/uksi/2006/3221), [S.I. 2007/108](https://www.legislation.gov.uk/uksi/2007/108), [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993) and by [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99).
 
@@ -2395,15 +2395,15 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00084]: Footnote: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).
 
-[^key-5d2dfaddb849edc04141d264aac810e8]: Commencement: Reg. 33 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-5d2dfaddb849edc04141d264aac810e8]: Commencement: Reg. 33 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00085]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); article 35 was amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476); article 72(8) was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
-[^key-4e3f9f108ec4c55f9d52f0603507f875]: Commencement: Reg. 34 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-4e3f9f108ec4c55f9d52f0603507f875]: Commencement: Reg. 34 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00086]: Footnote: [S.I. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201); paragraph 37 of Schedule 1 was amended by [S.I. 2001/3623](https://www.legislation.gov.uk/uksi/2001/3623).
 
-[^key-0ec34d3218031130c6036e2c5272e238]: Commencement: Reg. 35 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-0ec34d3218031130c6036e2c5272e238]: Commencement: Reg. 35 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00087]: Footnote: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188).
 
@@ -2415,71 +2415,71 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00091]: Footnote: Regulation 11 was amended by [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066), [2006/3413](https://www.legislation.gov.uk/uksi/2006/3413), [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and [2012/916](https://www.legislation.gov.uk/uksi/2012/916).
 
-[^key-7eea463ff5f1ff1cf3afb5bf16d1ab84]: Commencement: Reg. 36 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-7eea463ff5f1ff1cf3afb5bf16d1ab84]: Commencement: Reg. 36 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-b7e2126ded02ba7c084c79f75d161eed]: Textual amendment: Word in [reg. 36](https://www.legislation.gov.uk/uksi/2013/504/regulation/36) heading substituted (18.3.2015) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2015 (S.I. 2015/348)](https://www.legislation.gov.uk/uksi/2015/348), [regs. 1](https://www.legislation.gov.uk/uksi/2015/348/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/348/regulation/2/2/a)
+[^c-b7e2126ded02ba7c084c79f75d161eed]: Textual amendment: Word in [reg. 36](https://www.legislation.gov.uk/uksi/2013/504/regulation/36) heading substituted (18.3.2015) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2015 (S.I. 2015/348)](https://www.legislation.gov.uk/uksi/2015/348), [regs. 1](https://www.legislation.gov.uk/uksi/2015/348/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/348/regulation/2/2/a)
 
-[^key-ee10f63ee1b9d84da0630900a7870b73]: Textual amendment: Word in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2013/504/regulation/36/1) substituted (18.3.2015) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2015 (S.I. 2015/348)](https://www.legislation.gov.uk/uksi/2015/348), [regs. 1](https://www.legislation.gov.uk/uksi/2015/348/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/348/regulation/2/2/b)
+[^c-ee10f63ee1b9d84da0630900a7870b73]: Textual amendment: Word in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2013/504/regulation/36/1) substituted (18.3.2015) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2015 (S.I. 2015/348)](https://www.legislation.gov.uk/uksi/2015/348), [regs. 1](https://www.legislation.gov.uk/uksi/2015/348/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/348/regulation/2/2/b)
 
 [^f00092]: Footnote: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755).
 
-[^key-799b4dd748d9335f3913b03e76808c8b]: Commencement: Reg. 37 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-799b4dd748d9335f3913b03e76808c8b]: Commencement: Reg. 37 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00093]: Footnote: [S.I. 2005/135](https://www.legislation.gov.uk/uksi/2005/135); article 5 was amended by [S.I 2005/342](https://www.legislation.gov.uk/uksi/2005/342).
 
-[^key-ed03a9bf6cc39debc15e21a0ea3822fc]: Commencement: Reg. 38 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-ed03a9bf6cc39debc15e21a0ea3822fc]: Commencement: Reg. 38 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00094]: Footnote: [S.I. 2005/824](https://www.legislation.gov.uk/uksi/2005/824); article 7 was amended by [S.I. 2005/2023](https://www.legislation.gov.uk/uksi/2005/2023) and [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 
-[^key-2e805e601d43df26bda0d98801cab308]: Commencement: Reg. 39 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-2e805e601d43df26bda0d98801cab308]: Commencement: Reg. 39 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00095]: Footnote: [S.I. 2005/3273](https://www.legislation.gov.uk/uksi/2005/3273); regulation 28 was amended by [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 
-[^key-bd0b847296bd23d4662bfd2d7a8a46c7]: Commencement: Reg. 40 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-bd0b847296bd23d4662bfd2d7a8a46c7]: Commencement: Reg. 40 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00096]: Footnote: [S.I. 2009/1828](https://www.legislation.gov.uk/uksi/2009/1828).
 
-[^key-2f852ade34443445c56320fb8aeed0ef]: Commencement: Reg. 41 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-2f852ade34443445c56320fb8aeed0ef]: Commencement: Reg. 41 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00097]: Footnote: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).
 
-[^key-35d6fffe9a064013d19c1d65615e175c]: Commencement: Reg. 42 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-35d6fffe9a064013d19c1d65615e175c]: Commencement: Reg. 42 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00098]: Footnote: [S.I. 2011/666](https://www.legislation.gov.uk/uksi/2011/666).
 
-[^key-6f9e2b5a696efb2176676ba683f57052]: Commencement: Reg. 43 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-6f9e2b5a696efb2176676ba683f57052]: Commencement: Reg. 43 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00099]: Footnote: [S.I. 2011/667](https://www.legislation.gov.uk/uksi/2011/667).
 
-[^key-63d9484e937e39209dabfbde45e8ad3a]: Commencement: Reg. 44 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-63d9484e937e39209dabfbde45e8ad3a]: Commencement: Reg. 44 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00100]: Footnote: [S.I. 2011/668](https://www.legislation.gov.uk/uksi/2011/668).
 
-[^key-2f1bc80cba8891cb55524e2b95accc76]: Commencement: Reg. 45 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-2f1bc80cba8891cb55524e2b95accc76]: Commencement: Reg. 45 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00101]: Footnote: [S.I. 2011/669](https://www.legislation.gov.uk/uksi/2011/669).
 
-[^key-27a50776a4de9220c7b41810d1aef52e]: Commencement: Reg. 46 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-27a50776a4de9220c7b41810d1aef52e]: Commencement: Reg. 46 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00102]: Footnote: [S.I. 2011/670](https://www.legislation.gov.uk/uksi/2011/670).
 
-[^key-c324957bf6e54209cb0d510f4e2e672b]: Commencement: Reg. 47 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-c324957bf6e54209cb0d510f4e2e672b]: Commencement: Reg. 47 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00103]: Footnote: [S.I. 2011/2205](https://www.legislation.gov.uk/uksi/2011/2205).
 
-[^key-70af4e04ce3eeb361e0e9fdee8405b75]: Commencement: Reg. 48 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-70af4e04ce3eeb361e0e9fdee8405b75]: Commencement: Reg. 48 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00104]: Footnote: [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50).
 
-[^key-13efdb054264de2c4d78b4a31c955d5d]: Commencement: Reg. 49 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-13efdb054264de2c4d78b4a31c955d5d]: Commencement: Reg. 49 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00105]: Footnote: [S.I. 2013/418](https://www.legislation.gov.uk/uksi/2013/418).
 
-[^key-748c46cd18fa2523e67db5de7a22ce80]: Commencement: Reg. 50 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-748c46cd18fa2523e67db5de7a22ce80]: Commencement: Reg. 50 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-9ba866acb78067f9a6b070bc1b59b430]: Commencement: Reg. 51 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-9ba866acb78067f9a6b070bc1b59b430]: Commencement: Reg. 51 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-420ebaae620bb46f7d5459444f7239cb]: Commencement: Reg. 52 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-420ebaae620bb46f7d5459444f7239cb]: Commencement: Reg. 52 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00106]: Footnote: Section 285(3) was amended by section 28 of the Financial Services Act 2012.
 
@@ -2487,42 +2487,42 @@ A Tax Information and Impact Note has not been prepared for this Instrument as i
 
 [^f00108]: Footnote: Sections 300A to 300E were inserted by section 2 of the Investment Exchanges and Clearing Houses Act [2006 (c.55)](https://www.legislation.gov.uk/ukpga/2006/55).
 
-[^key-414bfb09a61bc37bf29c8b6aab1603ce]: Textual amendment: Words in [reg. 52(5)(d)](https://www.legislation.gov.uk/uksi/2013/504/regulation/52/5/d) inserted (1.5.2014) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2014 (S.I. 2014/905)](https://www.legislation.gov.uk/uksi/2014/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/905/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/905/regulation/2/2)
+[^c-414bfb09a61bc37bf29c8b6aab1603ce]: Textual amendment: Words in [reg. 52(5)(d)](https://www.legislation.gov.uk/uksi/2013/504/regulation/52/5/d) inserted (1.5.2014) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2014 (S.I. 2014/905)](https://www.legislation.gov.uk/uksi/2014/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/905/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/905/regulation/2/2)
 
 [^f00109]: Footnote: [S.I. 2001/995](https://www.legislation.gov.uk/uksi/2001/995).
 
-[^key-f6da5158e48189f0ba9c1687fe40997b]: Textual amendment: [Reg. 52(5)(e)](https://www.legislation.gov.uk/uksi/2013/504/regulation/52/5/e) inserted (18.3.2015) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2015 (S.I. 2015/348)](https://www.legislation.gov.uk/uksi/2015/348), [regs. 1](https://www.legislation.gov.uk/uksi/2015/348/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/348/regulation/2/3)
+[^c-f6da5158e48189f0ba9c1687fe40997b]: Textual amendment: [Reg. 52(5)(e)](https://www.legislation.gov.uk/uksi/2013/504/regulation/52/5/e) inserted (18.3.2015) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2015 (S.I. 2015/348)](https://www.legislation.gov.uk/uksi/2015/348), [regs. 1](https://www.legislation.gov.uk/uksi/2015/348/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/348/regulation/2/3)
 
-[^key-ca98fe82f4bdac62c1944beba35551f8]: Textual amendment: [Reg. 52(5A)](https://www.legislation.gov.uk/uksi/2013/504/regulation/52/5A) inserted (1.5.2014) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2014 (S.I. 2014/905)](https://www.legislation.gov.uk/uksi/2014/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/905/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/905/regulation/2/3)
+[^c-ca98fe82f4bdac62c1944beba35551f8]: Textual amendment: [Reg. 52(5A)](https://www.legislation.gov.uk/uksi/2013/504/regulation/52/5A) inserted (1.5.2014) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2014 (S.I. 2014/905)](https://www.legislation.gov.uk/uksi/2014/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/905/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/905/regulation/2/3)
 
-[^key-ade620843da22805860e4515cdd9a4fd]: Textual amendment: Words in [reg. 52(6)](https://www.legislation.gov.uk/uksi/2013/504/regulation/52/6) substituted (1.5.2014) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2014 (S.I. 2014/905)](https://www.legislation.gov.uk/uksi/2014/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/905/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2014/905/regulation/2/4)
+[^c-ade620843da22805860e4515cdd9a4fd]: Textual amendment: Words in [reg. 52(6)](https://www.legislation.gov.uk/uksi/2013/504/regulation/52/6) substituted (1.5.2014) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2014 (S.I. 2014/905)](https://www.legislation.gov.uk/uksi/2014/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/905/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2014/905/regulation/2/4)
 
 [^f00110]: Footnote: Section 296A was inserted by section 31 of the Financial Services Act 2012.
 
-[^key-7eafa16ce0fd43fa2f35ad8cb2f166a1]: Commencement: Reg. 53 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-7eafa16ce0fd43fa2f35ad8cb2f166a1]: Commencement: Reg. 53 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-09d261250d72e22eef4c343916636462]: Commencement: Reg. 54 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-09d261250d72e22eef4c343916636462]: Commencement: Reg. 54 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00111]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); the definition of “overseas person” in article 3(1) was amended by [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475), [2006/2383](https://www.legislation.gov.uk/uksi/2006/2383) and [3384](https://www.legislation.gov.uk/uksi/2006/3384) and [2009/1342](https://www.legislation.gov.uk/uksi/2009/1342).
 
-[^key-a532eed51c643a0f20d157fcc57566bf]: Commencement: Reg. 55 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-a532eed51c643a0f20d157fcc57566bf]: Commencement: Reg. 55 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00112]: Footnote: [S.I.1999/2979](https://www.legislation.gov.uk/uksi/1999/2979).
 
-[^key-8032eb827d7e265f21d3d6f897a8ddfb]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/2013/504/regulation/55A) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2019/335/regulation/8) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8032eb827d7e265f21d3d6f897a8ddfb]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/2013/504/regulation/55A) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2019/335/regulation/8) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c3603d1ee33d98ffafc7ab782c9ca776]: Textual amendment: [Reg. 55B](https://www.legislation.gov.uk/uksi/2013/504/regulation/55B) inserted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2019/335/regulation/8) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3603d1ee33d98ffafc7ab782c9ca776]: Textual amendment: [Reg. 55B](https://www.legislation.gov.uk/uksi/2013/504/regulation/55B) inserted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2019/335/regulation/8) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99e9d1b49a8949606d8ebce16f67c6e3]: Commencement: Reg. 56 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-99e9d1b49a8949606d8ebce16f67c6e3]: Commencement: Reg. 56 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00113]: Footnote: Sections 387, 388, 389, 391, 393 and 394 were amended by Schedule 9 to the Financial Services Act 2012. Section 391 was also amended by section 13 of the Financial Services Act 2010, section 24 of the Financial Services Act 2012 and [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916). Section 394 was also amended by Schedule 4 to the Regulation of Investigatory Powers Act [2000 (c.23)](https://www.legislation.gov.uk/ukpga/2000/23).
 
-[^key-3e4bb121e152993d3bd5a52891ace0ea]: Commencement: Reg. 57 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-3e4bb121e152993d3bd5a52891ace0ea]: Commencement: Reg. 57 in force at 1.4.2013 in accordance with reg. 1(2)
 
 [^f00114]: Footnote: Sections 400, 401 and 403 were amended by Schedule 9 to the Financial Services Act 2012. Section 401 was also amended by Schedule 25 to the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-ddeef56e2fb5605ffb50eee68041a3dd]: Commencement: Reg. 58 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-ddeef56e2fb5605ffb50eee68041a3dd]: Commencement: Reg. 58 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-56aee074b6fd65d3b3b371b4de2cfd58]: Commencement: Reg. 59 in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-56aee074b6fd65d3b3b371b4de2cfd58]: Commencement: Reg. 59 in force at 1.4.2013 in accordance with reg. 1(2)
 
-[^key-14b53116039722a81390e16b245b030c]: Commencement: Sch. in force at 1.4.2013 in accordance with reg. 1(2)
+[^c-14b53116039722a81390e16b245b030c]: Commencement: Sch. in force at 1.4.2013 in accordance with reg. 1(2)

@@ -102,7 +102,7 @@ In that case the necessary identification evidence may be taken at the place whe
 
 (3) In particular, a check may not be made against them under—
 
-- (a) section 63A(1) , (1E) or (1F)[^key-9afd1a6050ddf4707ada9f93529f0dfb] of the Police and Criminal Evidence Act 1984 (c. 60) (checking of fingerprints and samples), or
+- (a) section 63A(1) , (1E) or (1F)[^c-9afd1a6050ddf4707ada9f93529f0dfb] of the Police and Criminal Evidence Act 1984 (c. 60) (checking of fingerprints and samples), or
 - (b) Article 63A(1) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (checking of fingerprints and samples),
 
 except for the purpose of an investigation into a relevant offence.
@@ -117,7 +117,7 @@ except for the purpose of an investigation into a relevant offence.
 
 (6) Before fingerprints or a sample are taken from a person under this Schedule, he shall be informed that they may be used as mentioned in this paragraph.
 
-### 8. Destruction of fingerprints and samples[^key-dc17253a61f030da957213b1a99d1c27]
+### 8. Destruction of fingerprints and samples[^c-dc17253a61f030da957213b1a99d1c27]
 
 (1) This paragraph applies to the following material—
 
@@ -140,6 +140,6 @@ except for the purpose of an investigation into a relevant offence.
 
 ## Annotations
 
-[^key-9afd1a6050ddf4707ada9f93529f0dfb]: Textual amendment: Words in Sch. 4 para. 7(3)(a) inserted (E.W.N.I) (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/5/2), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
+[^c-9afd1a6050ddf4707ada9f93529f0dfb]: Textual amendment: Words in Sch. 4 para. 7(3)(a) inserted (E.W.N.I) (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/5/2), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
 
-[^key-dc17253a61f030da957213b1a99d1c27]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2001/17/schedule/4/paragraph/8) substituted (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/1/paragraph/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k)
+[^c-dc17253a61f030da957213b1a99d1c27]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2001/17/schedule/4/paragraph/8) substituted (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/1/paragraph/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k)

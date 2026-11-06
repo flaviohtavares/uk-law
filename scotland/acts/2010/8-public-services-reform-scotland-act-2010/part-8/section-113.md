@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. User focus: guidance etc.[^key-f49c445aa30ba8f46a77f3e4d16b37b3]
+## 113. User focus: guidance etc.[^c-f49c445aa30ba8f46a77f3e4d16b37b3]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f49c445aa30ba8f46a77f3e4d16b37b3]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2010/8/section/113) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-f49c445aa30ba8f46a77f3e4d16b37b3]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2010/8/section/113) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)

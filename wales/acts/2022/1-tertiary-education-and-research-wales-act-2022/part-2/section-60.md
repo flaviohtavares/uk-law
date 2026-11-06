@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Duty to provide information and advice to the Welsh Ministers[^key-d097074d9ffe776e6d954a08409e57f1][^key-fc4f0ba40f1b91810f9f391d06ead1d5]
+## 60. Duty to provide information and advice to the Welsh Ministers[^c-d097074d9ffe776e6d954a08409e57f1][^c-fc4f0ba40f1b91810f9f391d06ead1d5]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d097074d9ffe776e6d954a08409e57f1]: Commencement: S. 60 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-d097074d9ffe776e6d954a08409e57f1]: Commencement: S. 60 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-fc4f0ba40f1b91810f9f391d06ead1d5]: Commencement: [S. 60](https://www.legislation.gov.uk/asc/2022/1/section/60) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/62/article/2/d) (with [art. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))
+[^c-fc4f0ba40f1b91810f9f391d06ead1d5]: Commencement: [S. 60](https://www.legislation.gov.uk/asc/2022/1/section/60) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/62/article/2/d) (with [art. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))

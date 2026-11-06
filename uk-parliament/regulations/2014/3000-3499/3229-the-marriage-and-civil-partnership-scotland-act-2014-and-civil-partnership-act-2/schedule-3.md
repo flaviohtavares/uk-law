@@ -24,7 +24,7 @@ Article 5(2)
 
 ### ENACTMENTS ETC. (GENERAL)
 
-#### 1. Pensions (Increase) Act 1971[^key-67751899a9b5b7a0f87eee596db5cf4e]
+#### 1. Pensions (Increase) Act 1971[^c-67751899a9b5b7a0f87eee596db5cf4e]
 
 (1) The Pensions (Increase) Act 1971[^f00071] is amended as follows.
 
@@ -35,7 +35,7 @@ Article 5(2)
 - (a) in the opening words after “payable” insert “to a woman”; and
 - (b) for “husband” in both places it occurs, substitute “male spouse”.
 
-#### 2. Pensions Increase (Review) Orders 1979 to 1990[^key-24058fe9046725e03160d1034f1d0d1e]
+#### 2. Pensions Increase (Review) Orders 1979 to 1990[^c-24058fe9046725e03160d1034f1d0d1e]
 
 In article 2 (interpretation) of each of—
 
@@ -54,7 +54,7 @@ In article 2 (interpretation) of each of—
 
 in the definition of “widow’s pension”, for “in respect” to the end substitute “to a woman in respect of the services of her deceased male spouse.”[^f00072].
 
-#### 3. Occupational Pension Schemes (Contracting-out) Regulations 1996[^key-6d1a7ff4d1f202ab06e9e44b58204f48]
+#### 3. Occupational Pension Schemes (Contracting-out) Regulations 1996[^c-6d1a7ff4d1f202ab06e9e44b58204f48]
 
 (1) The Occupational Pension Schemes (Contracting-out) Regulations 1996[^f00073] are amended as follows.
 
@@ -68,7 +68,7 @@ in the definition of “widow’s pension”, for “in respect” to the end su
 - (a) in sub-paragraph (c), for “widows” substitute “widows whose spouse was a man”; and
 - (b) in sub-paragraph (d), for “widowers” substitute “widowers, widows whose spouse was a woman”.
 
-#### 4. Occupational Pension Schemes (Modification of Schemes) Regulations 2006[^key-1ee56ec8cb76cc2261d30052903a12f9]
+#### 4. Occupational Pension Schemes (Modification of Schemes) Regulations 2006[^c-1ee56ec8cb76cc2261d30052903a12f9]
 
 (1) The Occupational Pension Schemes (Modification of Schemes) Regulations 2006[^f00074] are amended as follows.
 
@@ -78,18 +78,18 @@ in the definition of “widow’s pension”, for “in respect” to the end su
 
 ## Annotations
 
-[^key-67751899a9b5b7a0f87eee596db5cf4e]: Commencement: Sch. 3 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-67751899a9b5b7a0f87eee596db5cf4e]: Commencement: Sch. 3 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00071]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56). Sections 3(7) and 17(1) were amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-24058fe9046725e03160d1034f1d0d1e]: Commencement: Sch. 3 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-24058fe9046725e03160d1034f1d0d1e]: Commencement: Sch. 3 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00072]: Footnote: The orders listed in paragraph 2 of this Schedule are cited at paragraph 6 of Schedule 2 to this Order. Article 2 of each of the Orders was amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-6d1a7ff4d1f202ab06e9e44b58204f48]: Commencement: Sch. 3 para. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-6d1a7ff4d1f202ab06e9e44b58204f48]: Commencement: Sch. 3 para. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00073]: Footnote: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172); paragraph (1)(c) of regulation 55 was amended by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050), and regulation 69B was inserted by [S.I. 2009/846](https://www.legislation.gov.uk/uksi/2009/846). There are other amendments to these Regulations not relevant to this Order.
 
-[^key-1ee56ec8cb76cc2261d30052903a12f9]: Commencement: Sch. 3 para. 4 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-1ee56ec8cb76cc2261d30052903a12f9]: Commencement: Sch. 3 para. 4 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00074]: Footnote: [S.I. 2006/759](https://www.legislation.gov.uk/uksi/2006/759); to which there are amendments not relevant to this Order.

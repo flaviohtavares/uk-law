@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Power to amend licence conditions etc: feed-in tariffs[^key-71126032a72b7c7caf7062021dcc3c4f]
+## 41. Power to amend licence conditions etc: feed-in tariffs[^c-71126032a72b7c7caf7062021dcc3c4f]
 
 *Extent: E+W+S*
 
@@ -53,7 +53,7 @@ summary: ''
   - (a) which, in generating electricity, relies wholly or mainly on a source of energy or a technology mentioned in subsection (5), and
   - (b) the capacity of which to generate electricity does not exceed the specified maximum capacity;
 - “**small-scale low-carbon generator**” means an owner of plant used or intended to be used for small-scale low-carbon generation, whether or not the person is also operating or intending to operate the plant;
-- “**specified maximum capacity**” means the capacity specified by the Secretary of State by order, which must not exceed 10[^key-abcffdd009dabd7853b6678adb89dbb8] megawatts;
+- “**specified maximum capacity**” means the capacity specified by the Secretary of State by order, which must not exceed 10[^c-abcffdd009dabd7853b6678adb89dbb8] megawatts;
 - “**supply licence**” means a licence under section 6(1)(d) of the Electricity Act 1989 (c. 29).
 
 (5) The sources of energy and technologies are—
@@ -83,6 +83,6 @@ summary: ''
 
 ## Annotations
 
-[^key-71126032a72b7c7caf7062021dcc3c4f]: Commencement: S. 41 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2009/45/article/2/a/iv)
+[^c-71126032a72b7c7caf7062021dcc3c4f]: Commencement: S. 41 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2009/45/article/2/a/iv)
 
-[^key-abcffdd009dabd7853b6678adb89dbb8]: Textual amendment: Word in [s. 41(4)](https://www.legislation.gov.uk/ukpga/2008/32/section/41/4) substituted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 146](https://www.legislation.gov.uk/ukpga/2013/32/section/146), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-abcffdd009dabd7853b6678adb89dbb8]: Textual amendment: Word in [s. 41(4)](https://www.legislation.gov.uk/ukpga/2008/32/section/41/4) substituted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 146](https://www.legislation.gov.uk/ukpga/2013/32/section/146), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)

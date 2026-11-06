@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 174. Notice etc to joint administrators[^key-fd2b1822a287cf07a9a8211d9380946a]
+## 174. Notice etc to joint administrators[^c-fd2b1822a287cf07a9a8211d9380946a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where there are joint office-holders in a special administration, delivery of a 
 
 ## Annotations
 
-[^key-fd2b1822a287cf07a9a8211d9380946a]: Commencement: Rule 174 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-fd2b1822a287cf07a9a8211d9380946a]: Commencement: Rule 174 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

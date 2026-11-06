@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Insurance companies: apportionment of amounts brought into account[^key-bb510fb65d51ccd5e6a52269bf38f158]
+## 56. Insurance companies: apportionment of amounts brought into account[^c-bb510fb65d51ccd5e6a52269bf38f158]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb510fb65d51ccd5e6a52269bf38f158]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/2011/11/section/56) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(y)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/y)
+[^c-bb510fb65d51ccd5e6a52269bf38f158]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/2011/11/section/56) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(y)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/y)

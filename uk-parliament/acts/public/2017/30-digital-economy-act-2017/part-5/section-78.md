@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Disclosure of information by the Revenue and Customs to the Statistics Board[^key-f457b3c323a657608150aad683aa7a2a]
+## 78. Disclosure of information by the Revenue and Customs to the Statistics Board[^c-f457b3c323a657608150aad683aa7a2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f457b3c323a657608150aad683aa7a2a]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2017/30/section/78) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/t)
+[^c-f457b3c323a657608150aad683aa7a2a]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2017/30/section/78) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/t)

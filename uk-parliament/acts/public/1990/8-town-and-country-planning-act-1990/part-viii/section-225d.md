@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 225D. Right to appeal against notice under section 225C[^key-1353399f6fb66e2a28414f5e59df086f]
+## 225D. Right to appeal against notice under section 225C[^c-1353399f6fb66e2a28414f5e59df086f]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ it is not open to the person to raise in the proceedings any question which the 
 
 ## Annotations
 
-[^key-1353399f6fb66e2a28414f5e59df086f]: Textual amendment: Ss. 225A-225E inserted (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 127(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/127/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-1353399f6fb66e2a28414f5e59df086f]: Textual amendment: Ss. 225A-225E inserted (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 127(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/127/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)

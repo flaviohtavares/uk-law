@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Notional income[^key-d6617a650b2aff546c1e17eeea383d8b]
+## 25. Notional income[^c-d6617a650b2aff546c1e17eeea383d8b]
 
 *Extent: E+W+S*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) Except in the case of a discretionary trust or a trust derived from a payment made in consequence of a personal injury, any income which would become available to the claimant upon application being made, but which has not been acquired by him, shall be treated as possessed by the claimant but only from the date on which it could be expected to be acquired were an application made.
 
-(3) Any payment of income, other than a payment of income made under the Macfarlane Trust , the Macfarlane (Special Payments) Trust[^key-046bc7b85defcd1c848d09d81ce26b8a] or the Independent Living Fund, made–
+(3) Any payment of income, other than a payment of income made under the Macfarlane Trust , the Macfarlane (Special Payments) Trust[^c-046bc7b85defcd1c848d09d81ce26b8a] or the Independent Living Fund, made–
 
 - (a) to a third party in respect of a single claimant or in respect of a member of the family (but not a member of the third party’s family) shall be treated as possessed by that single claimant or by that member to the extent that it is used for the food, ordinary clothing or footwear, household fuel, or eligible rent to which regulation 10 of the Housing Benefit (General) Regulations 1987 refers[^f00052], of that single claimant or, as the case may be, of any member of that family or is used for any personal community charge or collective community charge contribution for which that claimant or member is liable;
-- (b) to a single claimant or a member of the family in respect of a third party (but not in respect of another member of that family) shall be treated as possessed by that single claimant or, as the case may be, that[^key-4a919d2144f1032eebd10fcd7a7909fc] member of the family to the extent that it is kept or used by him or used by or on behalf of any member of the family.
+- (b) to a single claimant or a member of the family in respect of a third party (but not in respect of another member of that family) shall be treated as possessed by that single claimant or, as the case may be, that[^c-4a919d2144f1032eebd10fcd7a7909fc] member of the family to the extent that it is kept or used by him or used by or on behalf of any member of the family.
 
 (4) Where a claimant is in receipt of any benefit (other than housing benefit) under the benefit Acts and the rate of that benefit is altered with effect from a date on or after 1st April in any year but not more than 14 days thereafter, the appropriate authority shall treat the claimant as possessing such benefit at the altered rate from the first Monday in April in that year to the date on which the altered rate is to take effect.
 
@@ -51,10 +51,10 @@ the appropriate authority shall treat the claimant as possessing such earnings (
 
 ## Annotations
 
-[^key-d6617a650b2aff546c1e17eeea383d8b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1988/1890/regulation/25) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-d6617a650b2aff546c1e17eeea383d8b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1988/1890/regulation/25) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
-[^key-046bc7b85defcd1c848d09d81ce26b8a]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/25/3) inserted (31.1.1990) by [The Income-related Benefits Schemes Amendment Regulations 1990 (S.I. 1990/127)](https://www.legislation.gov.uk/uksi/1990/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/127/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/1990/127/regulation/5/3)
+[^c-046bc7b85defcd1c848d09d81ce26b8a]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/25/3) inserted (31.1.1990) by [The Income-related Benefits Schemes Amendment Regulations 1990 (S.I. 1990/127)](https://www.legislation.gov.uk/uksi/1990/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/127/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/1990/127/regulation/5/3)
 
 [^f00052]: Footnote: S.I. [1987/1971](https://www.legislation.gov.uk/uksi/1987/1971).
 
-[^key-4a919d2144f1032eebd10fcd7a7909fc]: Textual amendment: Word in [reg. 25(3)(b)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/25/3/b) inserted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/1989/361/regulation/7)
+[^c-4a919d2144f1032eebd10fcd7a7909fc]: Textual amendment: Word in [reg. 25(3)(b)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/25/3/b) inserted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/1989/361/regulation/7)

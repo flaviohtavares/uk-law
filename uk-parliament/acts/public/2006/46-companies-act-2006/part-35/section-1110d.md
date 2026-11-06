@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1110D. Power to require businesses to report discrepancies[^key-18a2c98b619db84c9c0813b35a06a71a]
+## 1110D. Power to require businesses to report discrepancies[^c-18a2c98b619db84c9c0813b35a06a71a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18a2c98b619db84c9c0813b35a06a71a]: Textual amendment: [S. 1110D and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/35/crossheading/discrepancy-reporting) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 87(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/87/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z29)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z29)
+[^c-18a2c98b619db84c9c0813b35a06a71a]: Textual amendment: [S. 1110D and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/35/crossheading/discrepancy-reporting) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 87(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/87/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z29)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z29)

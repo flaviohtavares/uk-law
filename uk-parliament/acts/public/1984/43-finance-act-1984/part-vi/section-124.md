@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Recovery of certain tax assessed on non-residents.[^key-d4e764616104bfb7f20943b54be6433d]
+## 124. Recovery of certain tax assessed on non-residents.[^c-d4e764616104bfb7f20943b54be6433d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4e764616104bfb7f20943b54be6433d]: Textual amendment: [S. 124](https://www.legislation.gov.uk/ukpga/1984/43/section/124) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-d4e764616104bfb7f20943b54be6433d]: Textual amendment: [S. 124](https://www.legislation.gov.uk/ukpga/1984/43/section/124) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

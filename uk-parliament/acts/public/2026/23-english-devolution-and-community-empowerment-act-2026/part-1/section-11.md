@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Mayoral combined authorities and CCAs: overview and scrutiny committees[^key-f91248915192d3f86dd781cb7c5296c6]
+## 11. Mayoral combined authorities and CCAs: overview and scrutiny committees[^c-f91248915192d3f86dd781cb7c5296c6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f91248915192d3f86dd781cb7c5296c6]: Commencement: S. 11 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-f91248915192d3f86dd781cb7c5296c6]: Commencement: S. 11 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

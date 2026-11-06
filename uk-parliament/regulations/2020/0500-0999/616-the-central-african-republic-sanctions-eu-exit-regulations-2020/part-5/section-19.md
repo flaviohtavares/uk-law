@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Definition of “military goods” and “military technology”[^key-5d7758b77aeea859513e4529dea46861]
+## 19. Definition of “military goods” and “military technology”[^c-5d7758b77aeea859513e4529dea46861]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In this Part—
 
 ## Annotations
 
-[^key-5d7758b77aeea859513e4529dea46861]: Commencement: Reg. 19 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/1)
+[^c-5d7758b77aeea859513e4529dea46861]: Commencement: Reg. 19 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/1)
 
 [^c24162911]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 2 was substituted by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85) and subsequently amended by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697); [S.I. 2018/165](https://www.legislation.gov.uk/uksi/2018/165); and [S.I. 2018/939](https://www.legislation.gov.uk/uksi/2018/939). There are other instruments which amend other parts of the Order, which are not relevant to these Regulations.

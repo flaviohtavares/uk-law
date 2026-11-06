@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Sending requests for assistance[^key-e4eef284908677d04f123cca49baf1e8][^key-2e1d01b7b8c61190bba5fbf708b22983]
+## 8. Sending requests for assistance[^c-e4eef284908677d04f123cca49baf1e8][^c-2e1d01b7b8c61190bba5fbf708b22983]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ for forwarding to any court or authority mentioned in subsection (1).
 
 ## Annotations
 
-[^key-e4eef284908677d04f123cca49baf1e8]: Commencement: S. 8 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-e4eef284908677d04f123cca49baf1e8]: Commencement: S. 8 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-2e1d01b7b8c61190bba5fbf708b22983]: Modification: S. 8 applied by 1995 c. 46, s. 194IA(4) (as inserted (S.) (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 105](https://www.legislation.gov.uk/asp/2010/13/section/105), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-2e1d01b7b8c61190bba5fbf708b22983]: Modification: S. 8 applied by 1995 c. 46, s. 194IA(4) (as inserted (S.) (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 105](https://www.legislation.gov.uk/asp/2010/13/section/105), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

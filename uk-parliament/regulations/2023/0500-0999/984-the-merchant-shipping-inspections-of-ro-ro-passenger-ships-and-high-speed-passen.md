@@ -48,13 +48,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary of State has consulted the persons referred to in that section.
 
-## 1. Citation, commencement and extent[^key-10bc5290bdadcdc4a43b1e8dfef7ef2f]
+## 1. Citation, commencement and extent[^c-10bc5290bdadcdc4a43b1e8dfef7ef2f]
 
 (1) These Regulations may be cited as the Merchant Shipping (Inspections of Ro-Ro Passenger Ships and High-Speed Passenger Craft) Regulations 2023 and come into force on the 5th October 2023.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-5a6c370e6e8c33152c2ef10e49e09254]
+## 2. Interpretation[^c-5a6c370e6e8c33152c2ef10e49e09254]
 
 (1) In these Regulations—
 
@@ -92,7 +92,7 @@ In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary
 - “**the MARPOL Convention**” means the International Convention for the Prevention of Pollution from Ships 1973, as amended by the Protocols of 1978 and 1997[^f00011];
 - “**the Paris MOU**” means the Memorandum of Understanding on Port State Control, signed in Paris on 26 January 1982[^f00012];
 - “**polluting goods**” means oil, noxious liquid substances and harmful substances in packaged form;
-- “**port state control inspection**” means an inspection under the system for the enforcement of international standards, as provided for by the Merchant Shipping (Port State Control) Regulations 2026[^key-4d7d4335a71f030ffb897d257b38be9d], and references to a “port state control inspector” are to an inspector duly authorised by the Secretary of State to carry out inspections required by those Regulations;
+- “**port state control inspection**” means an inspection under the system for the enforcement of international standards, as provided for by the Merchant Shipping (Port State Control) Regulations 2026[^c-4d7d4335a71f030ffb897d257b38be9d], and references to a “port state control inspector” are to an inspector duly authorised by the Secretary of State to carry out inspections required by those Regulations;
 - “**pre-commencement inspection**” means an inspection under regulation 5(2);
 - “**prohibition of departure notice**” means a notice issued in accordance with regulation 8;
 - “**recognised organisation**” means any organisation which continues to be recognised under Regulation [(EC) No. 391/2009](https://www.legislation.gov.uk/european/regulation/2009/0391)[^f00014];
@@ -132,7 +132,7 @@ In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary
 
 (5) In these Regulations, references to “written” or “in writing” include the provision of such communication by electronic mail, facsimile or similar means, which is capable of producing a document containing the text of any communication and in a form sufficiently permanent to be used for subsequent reference.
 
-## 3. Application[^key-498686c50ee3853020f2a693fac951f9]
+## 3. Application[^c-498686c50ee3853020f2a693fac951f9]
 
 (1) These Regulations apply to—
 
@@ -148,11 +148,11 @@ which are operating on a regular service set out in paragraph (2).
 
 (3) For the purposes of this regulation, “**non-United Kingdom ship**” means any ship other than a United Kingdom ship.
 
-## 4. Professional profile of inspectors[^key-2bae6e678e366852d9a1e344ebf63658]
+## 4. Professional profile of inspectors[^c-2bae6e678e366852d9a1e344ebf63658]
 
 Any inspection under these Regulations must be carried out by a person who fulfils the minimum qualification criteria specified in Schedule 1.
 
-## 5. Pre-commencement inspections[^key-aeb7ab5956191660fd4eb16ffbc18daf]
+## 5. Pre-commencement inspections[^c-aeb7ab5956191660fd4eb16ffbc18daf]
 
 (1) Paragraph (2) applies to a ship where—
 
@@ -175,7 +175,7 @@ Any inspection under these Regulations must be carried out by a person who fulfi
 
 (6) The Secretary of State may request that a company provides evidence of compliance with the requirements of Part 1 of Schedule 2 in advance but no earlier than one month before the date of the pre-commencement inspection.
 
-## 6. Exceptions to the requirement to carry out a pre-commencement inspection[^key-59c3f94b734fcc5dec6e2a5533a9b70a]
+## 6. Exceptions to the requirement to carry out a pre-commencement inspection[^c-59c3f94b734fcc5dec6e2a5533a9b70a]
 
 (1) The Secretary of State may decide that a pre-commencement inspection need not be carried out where—
 
@@ -203,7 +203,7 @@ decide that a pre-commencement inspection of the ship is not required.
 
 (6) Any decision of the Secretary of State under this regulation in respect of a ship must be communicated in writing to the company.
 
-## 7. Regular inspections[^key-7c150f146402c9c0da91f6f6466ce57c]
+## 7. Regular inspections[^c-7c150f146402c9c0da91f6f6466ce57c]
 
 (1) Subject to paragraph (3), the Secretary of State must, in relation to each ship, ensure that the inspections set out in paragraph (2) are carried out once during the period of 12 months beginning with the date on which a ship is first used to operate a particular regular service and thereafter during each subsequent period of 12 months while the ship continues to be so used.
 
@@ -234,7 +234,7 @@ decide that a pre-commencement inspection of the ship is not required.
 
 (7) Where the Secretary of State considers that the safe operation of the ship is not affected by a change of company or transfer of maritime classification society, the Secretary of State may, after taking account of inspections previously carried out for that ship, exempt the ship from the inspection required under paragraph (6)(b) or, as the case may be, paragraph (6)(c).
 
-## 8. Rectification of deficiencies, prohibition of departure and suspension of inspection[^key-b5fd13b3033239e0e22304f4030ed19e]
+## 8. Rectification of deficiencies, prohibition of departure and suspension of inspection[^c-b5fd13b3033239e0e22304f4030ed19e]
 
 (1) The Secretary of State must inform a company of any deficiencies which are confirmed or revealed by an inspection of one of its ships.
 
@@ -295,26 +295,26 @@ decide that a pre-commencement inspection of the ship is not required.
   - (iii) subsection (11) were omitted, and
 - (b) sections 96 and 97 apply as if “**the relevant inspector**” means the person who issued the prohibition of departure notice under this regulation.
 
-## 9. Inspection report[^key-7659c36e0c59a0c25eb8a903c9ac6c17]
+## 9. Inspection report[^c-7659c36e0c59a0c25eb8a903c9ac6c17]
 
 On completion of any inspection required by these Regulations, the inspector must—
 
 - (a) draw up a written report in accordance with Schedule 4, and
 - (b) provide the ship’s master and the company with a copy of the report.
 
-## 10. Costs of issuing prohibition of departure notices[^key-13167ab3004347270b8c54df44fb3938]
+## 10. Costs of issuing prohibition of departure notices[^c-13167ab3004347270b8c54df44fb3938]
 
 (1) Where a prohibition of departure notice is issued under regulation 8(3), (5) or (7), all costs of the Secretary of State relating to the issue of the notice and any subsequent inspection relating to the deficiencies which led to the issue of the notice must be covered by the company.
 
 (2) The prohibition of departure notice must not be withdrawn until full payment is made or a sufficient guarantee is given for reimbursement of the costs.
 
-## 11. Revocation and consequential amendments[^key-73228959312e2ac67cbe1aff7057c7a5]
+## 11. Revocation and consequential amendments[^c-73228959312e2ac67cbe1aff7057c7a5]
 
 (1) The Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001[^f00020] are revoked.
 
 (2) Schedule 5 (consequential amendments) has effect.
 
-## 12. Review of the Regulations[^key-89257f81da80617b1118ed18a4b4165b]
+## 12. Review of the Regulations[^c-89257f81da80617b1118ed18a4b4165b]
 
 (1) The Secretary of State must from time to time—
 
@@ -358,33 +358,33 @@ Department for Transport
 
 Regulation 4
 
-**1.**[^key-9093ce19f027611b84eef9480a43bfb4] (1) The Secretary of State is satisfied that an inspector—
+**1.**[^c-9093ce19f027611b84eef9480a43bfb4] (1) The Secretary of State is satisfied that an inspector—
 
 - (a) has the appropriate theoretical knowledge and practical experience of ships and their operation, and
 - (b) is competent in the enforcement of the requirements of the international conventions and the relevant Paris MOU procedures.
 
 (2) The knowledge and competence required by virtue of sub-paragraph (1) must be acquired through documented training programmes.
 
-**2.**[^key-0da639e6058cdcbdbb5ac346c29e6a4d] An inspector must, as a minimum, have either—
+**2.**[^c-0da639e6058cdcbdbb5ac346c29e6a4d] An inspector must, as a minimum, have either—
 
 - (a) passed professional examinations from a marine or nautical institution and gained relevant seagoing experience as a certified ship officer holding or having held a valid certificate of competency issued in accordance with the provisions of the STCW Regulation II/2 or Regulation III/2, not limited as regards the operating area or propulsion power or tonnage,
 - (b) passed a professional examination recognised by the Secretary of State to qualify as a naval architect, mechanical engineer or any other engineer working in a maritime field and worked in that capacity for at least five years, or
 - (c) a relevant university degree or equivalent and have trained and qualified as a ship safety inspector.
 
-**3.**[^key-a660e9cb2fe0ca42466f3237acf46d9d] An inspector must have—
+**3.**[^c-a660e9cb2fe0ca42466f3237acf46d9d] An inspector must have—
 
 - (a) completed a minimum of one year’s service authorised by the Secretary of State either dealing with surveys and certification in accordance with the international conventions or involved in the monitoring of activities of recognised organisations, or
 - (b) gained an equivalent level of competence by following a minimum of one year’s field training participating in port state control inspections under the guidance of experienced port state control inspectors.
 
-**4.**[^key-2c99d181dfecff6283cb8d238ef89eb9] An inspector who meets the criteria set out in paragraph 2(a) must have gained maritime experience of at least 5 years including a period—
+**4.**[^c-2c99d181dfecff6283cb8d238ef89eb9] An inspector who meets the criteria set out in paragraph 2(a) must have gained maritime experience of at least 5 years including a period—
 
 - (a) as a deck or engine officer with at least two years experience in that role working at sea,
 - (b) as an inspector satisfying the requirements of paragraph 3(a), or
 - (c) as an assistant to a Port State Control inspector carrying out inspections.
 
-**5.**[^key-b7cc7e2de928e80aa28e31d56bb790c9] An inspector must have the ability to communicate orally and in writing with seafarers in English.
+**5.**[^c-b7cc7e2de928e80aa28e31d56bb790c9] An inspector must have the ability to communicate orally and in writing with seafarers in English.
 
-**6.**[^key-dd4bf81eb0ac99fa379f6e5c2ffde409] The Secretary of State is satisfied that an inspector has sufficient theoretical and practical experience in maritime security including—
+**6.**[^c-dd4bf81eb0ac99fa379f6e5c2ffde409] The Secretary of State is satisfied that an inspector has sufficient theoretical and practical experience in maritime security including—
 
 - (a) a good understanding of maritime security and how it is applied to the operations being examined;
 - (b) a good working knowledge of security technologies and techniques;
@@ -397,11 +397,11 @@ Regulations 5(2) and (6),6(3) and (4), 7(2) and (6)
 
 ### Part 1 — Specific requirements for ships in regular service
 
-#### 1. Interpretation[^key-42437001dd85cbdbf818a3d2a9eb22db]
+#### 1. Interpretation[^c-42437001dd85cbdbf818a3d2a9eb22db]
 
 In this Part, the reference to “Annex C of Marine Guidance Note 610 (M+F)[^f00022]” includes a reference to any document amending or replacing that Annex which is considered by the Secretary of State to be relevant from time to time.
 
-#### 2. Verification of specific requirements[^key-4b9046b6346eb90ef5285db07f842edc]
+#### 2. Verification of specific requirements[^c-4b9046b6346eb90ef5285db07f842edc]
 
 The requirements for a ship in regular service that must be verified are—
 
@@ -422,7 +422,7 @@ The requirements for a ship in regular service that must be verified are—
 
 ### Part 2 — Procedures for inspections
 
-#### 3. International convention requirements[^key-49c8061600bd8cd420b77018da004d89]
+#### 3. International convention requirements[^c-49c8061600bd8cd420b77018da004d89]
 
 (1) An inspection must ensure that the ship complies with all relevant statutory requirements, including in particular, those relating to—
 
@@ -482,9 +482,9 @@ The requirements for a ship in regular service that must be verified are—
 
 Regulation 7(2)(b)(i)
 
-**1.**[^key-d8270d0a2b84754e7051d37badd56809] When carrying out an inspection during a regular service, the following must be checked.
+**1.**[^c-d8270d0a2b84754e7051d37badd56809] When carrying out an inspection during a regular service, the following must be checked.
 
-### 2. Passenger information[^key-041957ce8a4df582591f1544dda058a9]
+### 2. Passenger information[^c-041957ce8a4df582591f1544dda058a9]
 
 In relation to passenger information—
 
@@ -492,7 +492,7 @@ In relation to passenger information—
 - (b) that the registration of passenger information complies with the Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999[^f00026];
 - (c) how the information on the total number of passengers is passed to the master and, if appropriate, how passengers undertaking a double crossing without going ashore are included in the total for the return voyage.
 
-### 3. Loading and stability information[^key-7bd52f4271470d481b2c1e8c60cad84e]
+### 3. Loading and stability information[^c-7bd52f4271470d481b2c1e8c60cad84e]
 
 In relation to loading and stability information—
 
@@ -502,7 +502,7 @@ In relation to loading and stability information—
 - (d) that goods vehicles and other cargo are weighed where required and the figures passed to the master of the ship for use in the loading and stability assessment;
 - (e) that damage control plans are permanently exhibited on the bridge and other areas of the ship that the company considers appropriate and that booklets containing damage control information specified in SOLAS Chapter II-2, Regulation 19, are provided for the ship’s officers.
 
-### 4. Security for sea[^key-14609a44e5dae53c7a8752bffa4ef670]
+### 4. Security for sea[^c-14609a44e5dae53c7a8752bffa4ef670]
 
 In relation to securing the ship for sea, that there are procedures to ensure—
 
@@ -513,14 +513,14 @@ In relation to securing the ship for sea, that there are procedures to ensure—
 - (c) that the closing arrangements for the bow, stern and side doors, and provision of indicator lights and TV surveillance show their status on the navigating bridge;
 - (d) that any malfunctioning of the operation of the indicator lights of watertight doors, particularly in relation to the switches at the doors, can be ascertained and reported.
 
-### 5. Safety announcements[^key-0484a8faa0bd8b8baf42ab3f9fc59f54]
+### 5. Safety announcements[^c-0484a8faa0bd8b8baf42ab3f9fc59f54]
 
 In relation to safety announcements—
 
 - (a) that the form of routine safety announcements and the posting of instructions and guidance on emergency procedures occurs in the language or languages appropriate to the principal nationalities of passengers carried on a particular route;
 - (b) that the routine safety announcement takes place at the commencement of a voyage and can be heard in all public spaces, including open decks, to which passengers have access.
 
-### 6. Log book entries[^key-7e142c594e073406da778aff40c1ee47]
+### 6. Log book entries[^c-7e142c594e073406da778aff40c1ee47]
 
 In relation to log books, that entries are being made with regard to—
 
@@ -530,7 +530,7 @@ In relation to log books, that entries are being made with regard to—
 - (d) draughts, freeboard and stability of the ship;
 - (e) the common working language for the crew.
 
-### 7. Dangerous goods, polluting goods and marine pollutants[^key-28639797975f59f31472b208550cdde6]
+### 7. Dangerous goods, polluting goods and marine pollutants[^c-28639797975f59f31472b208550cdde6]
 
 In relation to dangerous goods, polluting goods or marine pollutants—
 
@@ -546,18 +546,18 @@ In relation to dangerous goods, polluting goods or marine pollutants—
   - (ii) increased when any vehicle engines are running;
 - (f) that there is some form of indication on the bridge to show that the vehicle deck ventilation is in operation.
 
-### 8. Securing freight vehicles[^key-9fd460a5ddbca4728dd55c1574e64687]
+### 8. Securing freight vehicles[^c-9fd460a5ddbca4728dd55c1574e64687]
 
 In relation to freight vehicles, that there are documented procedures about how such vehicles are secured (for example: whether by block stow or individual lashings; whether sufficient strong points are available; what the arrangements are for securing freight vehicles when adverse weather is experienced or expected; the method of securing coaches and motor cycles, if any; whether the ship has a cargo securing manual).
 
-### 9. Vehicle decks[^key-9c37b8ad79913181fd5c9e9796937393]
+### 9. Vehicle decks[^c-9c37b8ad79913181fd5c9e9796937393]
 
 In relation to vehicle decks—
 
 - (a) whether special category and ro-ro cargo spaces are being continuously patrolled or monitored by a TV surveillance system so that the movement of vehicles in adverse weather and the unauthorised entry of passengers may be observed;
 - (b) that fire doors and entrances are kept shut and that notices are posted to keep passengers off the vehicle decks whilst the ship is at sea.
 
-### 10. Closure of watertight doors[^key-04365a3e7c301e7f26bfdfd3656ce946]
+### 10. Closure of watertight doors[^c-04365a3e7c301e7f26bfdfd3656ce946]
 
 In relation to the closure of watertight doors—
 
@@ -567,14 +567,14 @@ In relation to the closure of watertight doors—
 - (d) that the doors are being kept closed in restricted visibility and any hazardous situation;
 - (e) that crews are instructed in the correct way to operate the doors and are aware of the dangers of their misuse.
 
-### 11. Fire patrols[^key-a2cbff2d2a38136d4028e09f6dac63c3]
+### 11. Fire patrols[^c-a2cbff2d2a38136d4028e09f6dac63c3]
 
 In relation to fire patrols—
 
 - (a) that an efficient fire patrol is being maintained so that any outbreak of fire may be readily detected, but
 - (b) if this covers special category spaces where no fixed fire detection and alarm system is fitted, that those spaces are patrolled or monitored as indicated in paragraph 9(a).
 
-### 12. Communications in an emergency[^key-9e8c57090e9985b0cad09b08b125c86a]
+### 12. Communications in an emergency[^c-9e8c57090e9985b0cad09b08b125c86a]
 
 That there are sufficient crew members in accordance with the muster list to assist passengers in an emergency and that they are readily identifiable and able to communicate with the passengers in an emergency, taking into account an appropriate and adequate combination of any of the following factors—
 
@@ -584,11 +584,11 @@ That there are sufficient crew members in accordance with the muster list to ass
 - (d) whether complete safety instructions have been provided to passengers in their native language or languages;
 - (e) the languages in which emergency announcements may be broadcast during an emergency or drill to convey critical guidance to passengers and to facilitate crew members in assisting passengers.
 
-### 13. Common working language between crew members[^key-b5dec0def6ea24ade61f9d572047563d]
+### 13. Common working language between crew members[^c-b5dec0def6ea24ade61f9d572047563d]
 
 That a working language has been established to ensure effective crew performance in safety matters and that this working language is recorded in the ship’s logbook.
 
-### 14. Safety equipment[^key-0123c65c29f823908ac8490777a496f7]
+### 14. Safety equipment[^c-0123c65c29f823908ac8490777a496f7]
 
 In relation to safety equipment—
 
@@ -597,15 +597,15 @@ In relation to safety equipment—
 - (c) that the stowage of the lifejackets is appropriate and that the stowage of children’s lifejackets may be readily identified;
 - (d) that the loading of vehicles does not prevent the operation of the fire controls, emergency shut-offs, controls for the storm valves, or any other emergency control functions that may be located on the vehicle decks.
 
-### 15. Navigational and radio equipment[^key-2e884a6898eedba6fa812b84aee5080a]
+### 15. Navigational and radio equipment[^c-2e884a6898eedba6fa812b84aee5080a]
 
 That the navigational and radio communications equipment, including emergency position-indicating radio beacons (EPIRBs), are operational.
 
-### 16. Supplementary emergency lighting[^key-f63d9abe733bcfd28a23ce8dba0ddb78]
+### 16. Supplementary emergency lighting[^c-f63d9abe733bcfd28a23ce8dba0ddb78]
 
 That supplementary emergency lighting is fitted, when required by the relevant statutory requirements, and that a record of deficiencies is being kept.
 
-### 17. Means of escape[^key-8aa82ea724ca163756ea6bd40d410fa5]
+### 17. Means of escape[^c-8aa82ea724ca163756ea6bd40d410fa5]
 
 In relation to means of escape—
 
@@ -613,15 +613,15 @@ In relation to means of escape—
 - (b) that measures are taken to keep vehicles clear of escape routes where those escape routes cross or pass through vehicle decks;
 - (c) that exits, particularly exits from duty free shops, which may become blocked by an excess of goods, are kept clear.
 
-### 18. Engine room cleanliness[^key-c7d1ede04470743b7f3aee981811f7dd]
+### 18. Engine room cleanliness[^c-c7d1ede04470743b7f3aee981811f7dd]
 
 That the engine room is maintained in a clean condition in accordance with the planned maintenance requirements.
 
-### 19. Garbage disposal[^key-fcb1a443fabb30b31f4e95840ecf05ed]
+### 19. Garbage disposal[^c-fcb1a443fabb30b31f4e95840ecf05ed]
 
 That the arrangements for the handling and disposal of garbage are satisfactory.
 
-### 20. Planned maintenance[^key-ea4f1c19429dee9b151ead6289a7c732]
+### 20. Planned maintenance[^c-ea4f1c19429dee9b151ead6289a7c732]
 
 In relation to planned maintenance—
 
@@ -630,15 +630,15 @@ In relation to planned maintenance—
 - (c) that there are procedures in place for recording deficiencies and confirming that they have been properly rectified within a time specified commensurate with the severity of the defect so that the master and the designated person ashore within the company management structure can both be made aware of the deficiencies and are notified when those deficiencies have been rectified;
 - (d) that periodic checking of the operation of the inner and outer bow door closing arrangements includes the indicators, surveillance equipment and any scuppers in the spaces between the bow visor and the inner door and especially the closing mechanisms and their associated hydraulic systems.
 
-### 21. Making a voyage[^key-8c21dcef851932021b41f11ec2fd6316]
+### 21. Making a voyage[^c-8c21dcef851932021b41f11ec2fd6316]
 
 When making a voyage the opportunity must be taken to check overcrowding, including the availability of seats and the blocking of passageways, stairs and emergency exits by baggage and by passengers unable to find seats. The vehicle deck must be checked to ensure that it is vacated by passengers before the ship sails and that they do not again have access until immediately prior to docking.
 
-## SCHEDULE 4 — Inspection report[^key-4d204187f725d882654f1791f1f90e5a]
+## SCHEDULE 4 — Inspection report[^c-4d204187f725d882654f1791f1f90e5a]
 
 Regulation 9(a)
 
-[^key-4d204187f725d882654f1791f1f90e5a]
+[^c-4d204187f725d882654f1791f1f90e5a]
 
 The inspection report must contain at least the following items.
 
@@ -677,7 +677,7 @@ The inspection report must contain at least the following items.
 
 Regulation 11(2)
 
-### 1. The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^key-0b1543e8f76bd6dbfaf07b69f13ccf5d]
+### 1. The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^c-0b1543e8f76bd6dbfaf07b69f13ccf5d]
 
 For regulation 7B(2)(b) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^f00029], substitute—
 
@@ -685,11 +685,11 @@ For regulation 7B(2)(b) of the Merchant Shipping (Passenger Ships on Domestic Vo
 
 .
 
-### 2. The Merchant Shipping (Updating of References to Maritime Conventions) Regulations 2004[^key-ac50db0437b262d736c2f15d14b15b3e]
+### 2. The Merchant Shipping (Updating of References to Maritime Conventions) Regulations 2004[^c-ac50db0437b262d736c2f15d14b15b3e]
 
 In the Merchant Shipping (Updating of References to Maritime Conventions) Regulations 2004[^f00030], omit regulation 7.
 
-### 3. The Merchant Shipping (Ro-Ro Passenger Ships) (Stability) Regulations 2004[^key-e90fea7189e6508f907aa0b0fb95bd49]
+### 3. The Merchant Shipping (Ro-Ro Passenger Ships) (Stability) Regulations 2004[^c-e90fea7189e6508f907aa0b0fb95bd49]
 
 For regulation 7(2)(b) of the Merchant Shipping (Ro-Ro Passenger Ships) (Stability) Regulations 2004[^f00031], substitute—
 
@@ -697,7 +697,7 @@ For regulation 7(2)(b) of the Merchant Shipping (Ro-Ro Passenger Ships) (Stabili
 
 .
 
-### 4. The Merchant Shipping (Fees) Regulations 2018[^key-513fc290fd1dc4568b0a12674ecbb1b6]
+### 4. The Merchant Shipping (Fees) Regulations 2018[^c-513fc290fd1dc4568b0a12674ecbb1b6]
 
 In Schedule 1, Part 1 of the Merchant Shipping (Fees) Regulations 2018[^f00032]—
 
@@ -738,9 +738,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7. Section 85 was amended by the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), section 2(3). Section 306A was inserted by the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20). There are other amendments but none is relevant.
 
-[^key-10bc5290bdadcdc4a43b1e8dfef7ef2f]: Commencement: Reg. 1 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-10bc5290bdadcdc4a43b1e8dfef7ef2f]: Commencement: Reg. 1 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-5a6c370e6e8c33152c2ef10e49e09254]: Commencement: Reg. 2 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-5a6c370e6e8c33152c2ef10e49e09254]: Commencement: Reg. 2 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00002]: Footnote: International Management Code for the Safe Operation of Ships and for Pollution Prevention (the ISM Code) MSIS 02 revised 06-2020. The Code was adopted by the International Maritime Organization Resolution A.741(18) and may be obtained in copy from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR.
 
@@ -764,7 +764,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00012]: Footnote: The 43rd Amendment to the Paris MOU was adopted on 2 October 2020. The Paris MOU may be obtained in copy from the Secretariat Paris MOU on PSC, P.O. Box 16191, 2500 BC The Hague, The Netherlands, or found on https://www.parismou.org/inspections-risk/port-state-control-inspections-paris-mou.
 
-[^key-4d7d4335a71f030ffb897d257b38be9d]: Textual amendment: Word in reg. 2(1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-4d7d4335a71f030ffb897d257b38be9d]: Textual amendment: Word in reg. 2(1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
 [^f00014]: Footnote: EUR 2009/391, amended by [S.I. 2019/270](https://www.legislation.gov.uk/uksi/2019/270).
 
@@ -774,122 +774,122 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00017]: Footnote: The Convention was amended in 1991, 1994, 1995, 1997, 1998, 2004 (on two occasions), 2006 and 2010. The Convention may be obtained from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the IMO website: (https://treaties.un.org/doc/Publication/UNTS/Volume%201361/volume-1361-I-23001-English.pdf).
 
-[^key-498686c50ee3853020f2a693fac951f9]: Commencement: Reg. 3 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-498686c50ee3853020f2a693fac951f9]: Commencement: Reg. 3 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), amended by [S.I. 2004/2883](https://www.legislation.gov.uk/uksi/2004/2883), [2018/53](https://www.legislation.gov.uk/uksi/2018/53), [1221](https://www.legislation.gov.uk/uksi/2018/1221), [2020/1222](https://www.legislation.gov.uk/uksi/2020/1222); there are other amending instruments but none is relevant.
 
-[^key-2bae6e678e366852d9a1e344ebf63658]: Commencement: Reg. 4 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-2bae6e678e366852d9a1e344ebf63658]: Commencement: Reg. 4 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-aeb7ab5956191660fd4eb16ffbc18daf]: Commencement: Reg. 5 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-aeb7ab5956191660fd4eb16ffbc18daf]: Commencement: Reg. 5 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-59c3f94b734fcc5dec6e2a5533a9b70a]: Commencement: Reg. 6 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-59c3f94b734fcc5dec6e2a5533a9b70a]: Commencement: Reg. 6 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-7c150f146402c9c0da91f6f6466ce57c]: Commencement: Reg. 7 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-7c150f146402c9c0da91f6f6466ce57c]: Commencement: Reg. 7 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00019]: Footnote: More information about UK classification societies can be found from the website: (https://www.gov.uk/guidance/uk-authorised-recognised-organisations-ros).
 
-[^key-b5fd13b3033239e0e22304f4030ed19e]: Commencement: Reg. 8 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-b5fd13b3033239e0e22304f4030ed19e]: Commencement: Reg. 8 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-7659c36e0c59a0c25eb8a903c9ac6c17]: Commencement: Reg. 9 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-7659c36e0c59a0c25eb8a903c9ac6c17]: Commencement: Reg. 9 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-13167ab3004347270b8c54df44fb3938]: Commencement: Reg. 10 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-13167ab3004347270b8c54df44fb3938]: Commencement: Reg. 10 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-73228959312e2ac67cbe1aff7057c7a5]: Commencement: Reg. 11 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-73228959312e2ac67cbe1aff7057c7a5]: Commencement: Reg. 11 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00020]: Footnote: [S.I. 2001/152](https://www.legislation.gov.uk/uksi/2001/152), amended by [S.I. 2004/1266](https://www.legislation.gov.uk/uksi/2004/1266), [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221).
 
-[^key-89257f81da80617b1118ed18a4b4165b]: Commencement: Reg. 12 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-89257f81da80617b1118ed18a4b4165b]: Commencement: Reg. 12 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00021]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30 was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-9093ce19f027611b84eef9480a43bfb4]: Commencement: Sch. 1 para. 1 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-9093ce19f027611b84eef9480a43bfb4]: Commencement: Sch. 1 para. 1 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-0da639e6058cdcbdbb5ac346c29e6a4d]: Commencement: Sch. 1 para. 2 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-0da639e6058cdcbdbb5ac346c29e6a4d]: Commencement: Sch. 1 para. 2 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-a660e9cb2fe0ca42466f3237acf46d9d]: Commencement: Sch. 1 para. 3 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-a660e9cb2fe0ca42466f3237acf46d9d]: Commencement: Sch. 1 para. 3 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-2c99d181dfecff6283cb8d238ef89eb9]: Commencement: Sch. 1 para. 4 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-2c99d181dfecff6283cb8d238ef89eb9]: Commencement: Sch. 1 para. 4 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-b7cc7e2de928e80aa28e31d56bb790c9]: Commencement: Sch. 1 para. 5 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-b7cc7e2de928e80aa28e31d56bb790c9]: Commencement: Sch. 1 para. 5 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-dd4bf81eb0ac99fa379f6e5c2ffde409]: Commencement: Sch. 1 para. 6 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-dd4bf81eb0ac99fa379f6e5c2ffde409]: Commencement: Sch. 1 para. 6 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-42437001dd85cbdbf818a3d2a9eb22db]: Commencement: Sch. 2 para. 1 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-42437001dd85cbdbf818a3d2a9eb22db]: Commencement: Sch. 2 para. 1 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00022]: Footnote: MGN 610 (M+F) Navigation: SOLAS Chapter V – Guidance on the Merchant Shipping (Safety of Navigation) Regulations 2020 ([S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673)). This guidance is produced by the Maritime and Coastguard Agency and may be obtained in copy from the Maritime and Coastguard Agency, Spring Place, 105 Commercial Road, Southampton SO15 1EG, and on https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/904612/MGN\_610\_2020.pdf.
 
-[^key-4b9046b6346eb90ef5285db07f842edc]: Commencement: Sch. 2 para. 2 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-4b9046b6346eb90ef5285db07f842edc]: Commencement: Sch. 2 para. 2 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00023]: Footnote: MSC/Circular.699, adopted by the Maritime Safety Committee of the International Maritime Organization on 17 July 1995. The Circular may be obtained in copy from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR and on https://www.imorules.com/MSCCIRC\_699.html.
 
 [^f00024]: Footnote: The guidelines may be obtained in copy from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR and on https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.893(21).pdf.
 
-[^key-49c8061600bd8cd420b77018da004d89]: Commencement: Sch. 2 para. 3 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-49c8061600bd8cd420b77018da004d89]: Commencement: Sch. 2 para. 3 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 2022/1342](https://www.legislation.gov.uk/uksi/2022/1342).
 
-[^key-d8270d0a2b84754e7051d37badd56809]: Commencement: Sch. 3 para. 1 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-d8270d0a2b84754e7051d37badd56809]: Commencement: Sch. 3 para. 1 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-041957ce8a4df582591f1544dda058a9]: Commencement: Sch. 3 para. 2 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-041957ce8a4df582591f1544dda058a9]: Commencement: Sch. 3 para. 2 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 1999/1869](https://www.legislation.gov.uk/uksi/1999/1869), amended by [S.I. 2010/680](https://www.legislation.gov.uk/uksi/2010/680), [2010/1075](https://www.legislation.gov.uk/uksi/2010/1075), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2019/649](https://www.legislation.gov.uk/uksi/2019/649), [2021/81](https://www.legislation.gov.uk/uksi/2021/81), [2022/1219](https://www.legislation.gov.uk/uksi/2022/1219).
 
-[^key-7bd52f4271470d481b2c1e8c60cad84e]: Commencement: Sch. 3 para. 3 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-7bd52f4271470d481b2c1e8c60cad84e]: Commencement: Sch. 3 para. 3 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-14609a44e5dae53c7a8752bffa4ef670]: Commencement: Sch. 3 para. 4 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-14609a44e5dae53c7a8752bffa4ef670]: Commencement: Sch. 3 para. 4 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-0484a8faa0bd8b8baf42ab3f9fc59f54]: Commencement: Sch. 3 para. 5 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-0484a8faa0bd8b8baf42ab3f9fc59f54]: Commencement: Sch. 3 para. 5 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-7e142c594e073406da778aff40c1ee47]: Commencement: Sch. 3 para. 6 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-7e142c594e073406da778aff40c1ee47]: Commencement: Sch. 3 para. 6 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-28639797975f59f31472b208550cdde6]: Commencement: Sch. 3 para. 7 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-28639797975f59f31472b208550cdde6]: Commencement: Sch. 3 para. 7 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00027]: Footnote: [S.I. 2004/2110](https://www.legislation.gov.uk/uksi/2004/2110), amended by S.1. [2005/1092](https://www.legislation.gov.uk/uksi/2005/1092), [2008/3145](https://www.legislation.gov.uk/uksi/2008/3145), [2011/2616](https://www.legislation.gov.uk/uksi/2011/2616), [2014/3306](https://www.legislation.gov.uk/uksi/2014/3306), [2018/68](https://www.legislation.gov.uk/uksi/2018/68), [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221), [2019/42](https://www.legislation.gov.uk/uksi/2019/42), [2020/673](https://www.legislation.gov.uk/uksi/2020/673).
 
-[^key-9fd460a5ddbca4728dd55c1574e64687]: Commencement: Sch. 3 para. 8 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-9fd460a5ddbca4728dd55c1574e64687]: Commencement: Sch. 3 para. 8 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-9c37b8ad79913181fd5c9e9796937393]: Commencement: Sch. 3 para. 9 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-9c37b8ad79913181fd5c9e9796937393]: Commencement: Sch. 3 para. 9 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-04365a3e7c301e7f26bfdfd3656ce946]: Commencement: Sch. 3 para. 10 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-04365a3e7c301e7f26bfdfd3656ce946]: Commencement: Sch. 3 para. 10 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-a2cbff2d2a38136d4028e09f6dac63c3]: Commencement: Sch. 3 para. 11 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-a2cbff2d2a38136d4028e09f6dac63c3]: Commencement: Sch. 3 para. 11 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-9e8c57090e9985b0cad09b08b125c86a]: Commencement: Sch. 3 para. 12 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-9e8c57090e9985b0cad09b08b125c86a]: Commencement: Sch. 3 para. 12 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-b5dec0def6ea24ade61f9d572047563d]: Commencement: Sch. 3 para. 13 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-b5dec0def6ea24ade61f9d572047563d]: Commencement: Sch. 3 para. 13 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-0123c65c29f823908ac8490777a496f7]: Commencement: Sch. 3 para. 14 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-0123c65c29f823908ac8490777a496f7]: Commencement: Sch. 3 para. 14 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-2e884a6898eedba6fa812b84aee5080a]: Commencement: Sch. 3 para. 15 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-2e884a6898eedba6fa812b84aee5080a]: Commencement: Sch. 3 para. 15 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-f63d9abe733bcfd28a23ce8dba0ddb78]: Commencement: Sch. 3 para. 16 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-f63d9abe733bcfd28a23ce8dba0ddb78]: Commencement: Sch. 3 para. 16 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-8aa82ea724ca163756ea6bd40d410fa5]: Commencement: Sch. 3 para. 17 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-8aa82ea724ca163756ea6bd40d410fa5]: Commencement: Sch. 3 para. 17 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-c7d1ede04470743b7f3aee981811f7dd]: Commencement: Sch. 3 para. 18 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-c7d1ede04470743b7f3aee981811f7dd]: Commencement: Sch. 3 para. 18 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-fcb1a443fabb30b31f4e95840ecf05ed]: Commencement: Sch. 3 para. 19 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-fcb1a443fabb30b31f4e95840ecf05ed]: Commencement: Sch. 3 para. 19 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-ea4f1c19429dee9b151ead6289a7c732]: Commencement: Sch. 3 para. 20 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-ea4f1c19429dee9b151ead6289a7c732]: Commencement: Sch. 3 para. 20 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-8c21dcef851932021b41f11ec2fd6316]: Commencement: Sch. 3 para. 21 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-8c21dcef851932021b41f11ec2fd6316]: Commencement: Sch. 3 para. 21 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
-[^key-4d204187f725d882654f1791f1f90e5a]: Commencement: Sch. 4 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-4d204187f725d882654f1791f1f90e5a]: Commencement: Sch. 4 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00028]: Footnote: More information about UK classification societies can be found from the website: (https://www.gov.uk/guidance/uk-authorised-recognised-organisations-ros).
 
-[^key-0b1543e8f76bd6dbfaf07b69f13ccf5d]: Commencement: Sch. 5 para. 1 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-0b1543e8f76bd6dbfaf07b69f13ccf5d]: Commencement: Sch. 5 para. 1 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00029]: Footnote: [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687). Regulation 7B was inserted by [S.I. 2004/2883](https://www.legislation.gov.uk/uksi/2004/2883), there are other amending instruments but none is relevant.
 
-[^key-ac50db0437b262d736c2f15d14b15b3e]: Commencement: Sch. 5 para. 2 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-ac50db0437b262d736c2f15d14b15b3e]: Commencement: Sch. 5 para. 2 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 2004/1266](https://www.legislation.gov.uk/uksi/2004/1266).
 
-[^key-e90fea7189e6508f907aa0b0fb95bd49]: Commencement: Sch. 5 para. 3 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-e90fea7189e6508f907aa0b0fb95bd49]: Commencement: Sch. 5 para. 3 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00031]: Footnote: [S.I. 2004/2884](https://www.legislation.gov.uk/uksi/2004/2884), to which there are amendments not relevant to these Regulations.
 
-[^key-513fc290fd1dc4568b0a12674ecbb1b6]: Commencement: Sch. 5 para. 4 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
+[^c-513fc290fd1dc4568b0a12674ecbb1b6]: Commencement: Sch. 5 para. 4 in force at 5.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1)
 
 [^f00032]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.

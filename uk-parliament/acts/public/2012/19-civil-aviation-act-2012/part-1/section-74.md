@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Publication and production of documents[^key-421eb6f70af4a88a62bea0cf413decb1]
+## 74. Publication and production of documents[^c-421eb6f70af4a88a62bea0cf413decb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-421eb6f70af4a88a62bea0cf413decb1]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2012/19/section/74) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-421eb6f70af4a88a62bea0cf413decb1]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2012/19/section/74) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

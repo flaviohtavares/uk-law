@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Notice of intention to refuse application for authorisation or variation of suspension under the Financial Services Act[^key-c498d39af27f40f87b63e437ecf75dcd]
+## 5. Notice of intention to refuse application for authorisation or variation of suspension under the Financial Services Act[^c-c498d39af27f40f87b63e437ecf75dcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ the notice of intention has effect after commencement as if it were a decision n
 
 ## Annotations
 
-[^key-c498d39af27f40f87b63e437ecf75dcd]: Commencement: Art. 5 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-c498d39af27f40f87b63e437ecf75dcd]: Commencement: Art. 5 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Position of a transferee prior to entry on an issuer register of securities[^key-f970e977b614ef6030d2f94fb322a3cf]
+## 31. Position of a transferee prior to entry on an issuer register of securities[^c-f970e977b614ef6030d2f94fb322a3cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f970e977b614ef6030d2f94fb322a3cf]: Commencement: Reg. 31 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-f970e977b614ef6030d2f94fb322a3cf]: Commencement: Reg. 31 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

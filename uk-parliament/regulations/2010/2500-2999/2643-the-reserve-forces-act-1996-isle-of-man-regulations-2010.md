@@ -41,11 +41,11 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 75, 78, 79, 83, 84, 85 and 130 of the Reserve Forces Act 1996[^f00001], as it has effect in the Isle of Man[^f00002], and after consultation in accordance with sections 81(5) and 85(3) of that Act—
 
-## 1. Citation and commencement[^key-c5145a29dff2acf30063d958e1047193]
+## 1. Citation and commencement[^c-c5145a29dff2acf30063d958e1047193]
 
 These Regulations may be cited as the Reserve Forces Act 1996 (Isle of Man) Regulations 2010 and shall come into force on 2nd November 2010.
 
-## 2. Application of UK Regulations to the Isle of Man[^key-c88221a29cbc753400d8b9c100b29cb2]
+## 2. Application of UK Regulations to the Isle of Man[^c-c88221a29cbc753400d8b9c100b29cb2]
 
 The following regulations, namely––
 
@@ -53,8 +53,8 @@ The following regulations, namely––
 - the Reserve Forces (Call-out and Recall) (Exemptions etc) Regulations 1997[^f00004];
 - the Reserve Forces (Provision of Information by Persons Liable to be Recalled) Regulations 1997[^f00005];
 - the Reserve Forces Act 1996 (Consequential Provisions etc) Regulations 1998[^f00006];
-- the Reserve Forces (Call-out and Recall) (Financial Assistance) Regulations 2005[^f00007]; [^key-d82ff2a843d148a7c18151e501f84076]...
-- the Reserve Forces (Provision of Information by Persons Liable to be Recalled) (Amendment) Regulations 2005[^f00008]; and[^key-3b6905560fc1796fc3af98be6371971c]
+- the Reserve Forces (Call-out and Recall) (Financial Assistance) Regulations 2005[^f00007]; [^c-d82ff2a843d148a7c18151e501f84076]...
+- the Reserve Forces (Provision of Information by Persons Liable to be Recalled) (Amendment) Regulations 2005[^f00008]; and[^c-3b6905560fc1796fc3af98be6371971c]
 - the Reserve Forces (Call-out and Recall) (Financial Assistance) (Amendment) Regulations 2015
 
 shall apply to the Isle of Man subject to the modifications specified in the Schedule.
@@ -73,34 +73,34 @@ Regulation 2
 
 ### PART 1 — GENERAL MODIFICATIONS
 
-**1.**[^key-b31435e7d002861c59a1b993fe57b1b3] References to any Act of Parliament or statutory instrument extending to the Isle of Man, or to any provision of any such Act or instrument, shall be construed as references to the Act, instrument or provision as it has effect in the Isle of Man.
+**1.**[^c-b31435e7d002861c59a1b993fe57b1b3] References to any Act of Parliament or statutory instrument extending to the Isle of Man, or to any provision of any such Act or instrument, shall be construed as references to the Act, instrument or provision as it has effect in the Isle of Man.
 
 ### PART 2 — MODIFICATIONS OF [SI 1997/307](https://www.legislation.gov.uk/uksi/1997/307)
 
-**2.**[^key-e18bcb478aae4c47b77598e0a482f06a] In regulation 2(1), in the definition of “employer”, in paragraph (b), for “1890” substitute “1909 (an Act of Tynwald: Vol. VIII p. 327)”, and in paragraph (d), after “government department” insert “of the United Kingdom or the Isle of Man, including any Department or Statutory Board within the meaning of the Interpretation Act 1976 (an Act of Tynwald: c. 20),”.
+**2.**[^c-e18bcb478aae4c47b77598e0a482f06a] In regulation 2(1), in the definition of “employer”, in paragraph (b), for “1890” substitute “1909 (an Act of Tynwald: Vol. VIII p. 327)”, and in paragraph (d), after “government department” insert “of the United Kingdom or the Isle of Man, including any Department or Statutory Board within the meaning of the Interpretation Act 1976 (an Act of Tynwald: c. 20),”.
 
-**3.**[^key-c87b0fe0025082c53e3792c124638a9f] In Schedule 1, in paragraph 1(a)(ii), for the words from “(“within” to “1995)” substitute “(within the meaning of the Children and Young Persons Act 2001 (an Act of Tynwald: c. 20)”.
+**3.**[^c-c87b0fe0025082c53e3792c124638a9f] In Schedule 1, in paragraph 1(a)(ii), for the words from “(“within” to “1995)” substitute “(within the meaning of the Children and Young Persons Act 2001 (an Act of Tynwald: c. 20)”.
 
 ### PART 3 — MODIFICATIONS OF [SI 1998/3086](https://www.legislation.gov.uk/uksi/1998/3086)
 
-**4.**[^key-23691bf56b68014f52bb5971d03b749e] Omit regulation 6.
+**4.**[^c-23691bf56b68014f52bb5971d03b749e] Omit regulation 6.
 
-**5.**[^key-f23e5eba2ed54b0b131b2618993c4bc3] Omit regulation 10(1), (2) and (5).
+**5.**[^c-f23e5eba2ed54b0b131b2618993c4bc3] Omit regulation 10(1), (2) and (5).
 
-**6.**[^key-91f6d0564d74c4540ea973fbaf76d944] In regulation 10(3) for “In section 1(1) of the Customs and Excise Management Act 1979” substitute “In section 184(1) of the Customs and Excise Management Act 1986 (an Act of Tynwald: c. 34)”.
+**6.**[^c-91f6d0564d74c4540ea973fbaf76d944] In regulation 10(3) for “In section 1(1) of the Customs and Excise Management Act 1979” substitute “In section 184(1) of the Customs and Excise Management Act 1986 (an Act of Tynwald: c. 34)”.
 
 ### PART 4 — MODIFICATIONS OF [SI 2005/859](https://www.legislation.gov.uk/uksi/2005/859)
 
-**7.**[^key-00852f76622ad461ffb44636f081662c] In regulation 2(1)––
+**7.**[^c-00852f76622ad461ffb44636f081662c] In regulation 2(1)––
 
 - (a) omit the definition of “the 1997 Regulations”;
 - (b) in the definition of “relevant service” omit “on or after the 14th April 2005”.
 
-**8.**[^key-ddb925970d0f5d130b2002267e018651] Omit regulation 5(5).
+**8.**[^c-ddb925970d0f5d130b2002267e018651] Omit regulation 5(5).
 
-**9.**[^key-bce747700e4f97289007ec99a78dfac1] Omit regulation 16.
+**9.**[^c-bce747700e4f97289007ec99a78dfac1] Omit regulation 16.
 
-### PART 5 — MODIFICATIONS OF [SI 2015/460](https://www.legislation.gov.uk/uksi/2015/460)[^key-e32a94415b3dd20a66fd6c57f1869cfe]
+### PART 5 — MODIFICATIONS OF [SI 2015/460](https://www.legislation.gov.uk/uksi/2015/460)[^c-e32a94415b3dd20a66fd6c57f1869cfe]
 
 **10.** In regulation 3(1)(c), for the definition of “undertaking” inserted by that sub-paragraph, substitute—
 
@@ -124,9 +124,9 @@ These Regulations apply to the Isle of Man, subject to modifications, the Reserv
 
 [^f00002]: Footnote: The Reserve Forces Act 1996 was extended to the Isle of Man, with modifications, by the Reserve Forces Act 1996 (Isle of Man) Order 2010 ([S.I. 2010/2470](https://www.legislation.gov.uk/uksi/2010/2470)).
 
-[^key-c5145a29dff2acf30063d958e1047193]: Commencement: Reg. 1 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
+[^c-c5145a29dff2acf30063d958e1047193]: Commencement: Reg. 1 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
 
-[^key-c88221a29cbc753400d8b9c100b29cb2]: Commencement: Reg. 2 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
+[^c-c88221a29cbc753400d8b9c100b29cb2]: Commencement: Reg. 2 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1997/306](https://www.legislation.gov.uk/uksi/1997/306), as amended by [S.I. 1998/3086](https://www.legislation.gov.uk/uksi/1998/3086).
 
@@ -138,28 +138,28 @@ These Regulations apply to the Isle of Man, subject to modifications, the Reserv
 
 [^f00007]: Footnote: [S.I. 2005/859](https://www.legislation.gov.uk/uksi/2005/859).
 
-[^key-d82ff2a843d148a7c18151e501f84076]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2010/2643/regulation/2) omitted (2.10.2018) by virtue of [The Reserve Forces Act 1996 (Isle of Man) (Amendment) Regulations 2018 (S.I. 2018/991)](https://www.legislation.gov.uk/uksi/2018/991), [regs. 1](https://www.legislation.gov.uk/uksi/2018/991/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/991/regulation/2/2/a)
+[^c-d82ff2a843d148a7c18151e501f84076]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2010/2643/regulation/2) omitted (2.10.2018) by virtue of [The Reserve Forces Act 1996 (Isle of Man) (Amendment) Regulations 2018 (S.I. 2018/991)](https://www.legislation.gov.uk/uksi/2018/991), [regs. 1](https://www.legislation.gov.uk/uksi/2018/991/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/991/regulation/2/2/a)
 
 [^f00008]: Footnote: [S.I. 2005/3118](https://www.legislation.gov.uk/uksi/2005/3118).
 
-[^key-3b6905560fc1796fc3af98be6371971c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/2643/regulation/2) inserted (2.10.2018) by [The Reserve Forces Act 1996 (Isle of Man) (Amendment) Regulations 2018 (S.I. 2018/991)](https://www.legislation.gov.uk/uksi/2018/991), [regs. 1](https://www.legislation.gov.uk/uksi/2018/991/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/991/regulation/2/2/b)
+[^c-3b6905560fc1796fc3af98be6371971c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/2643/regulation/2) inserted (2.10.2018) by [The Reserve Forces Act 1996 (Isle of Man) (Amendment) Regulations 2018 (S.I. 2018/991)](https://www.legislation.gov.uk/uksi/2018/991), [regs. 1](https://www.legislation.gov.uk/uksi/2018/991/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/991/regulation/2/2/b)
 
-[^key-b31435e7d002861c59a1b993fe57b1b3]: Commencement: Sch. para. 1 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
+[^c-b31435e7d002861c59a1b993fe57b1b3]: Commencement: Sch. para. 1 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
 
-[^key-e18bcb478aae4c47b77598e0a482f06a]: Commencement: Sch. para. 2 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
+[^c-e18bcb478aae4c47b77598e0a482f06a]: Commencement: Sch. para. 2 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
 
-[^key-c87b0fe0025082c53e3792c124638a9f]: Commencement: Sch. para. 3 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
+[^c-c87b0fe0025082c53e3792c124638a9f]: Commencement: Sch. para. 3 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
 
-[^key-23691bf56b68014f52bb5971d03b749e]: Commencement: Sch. para. 4 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
+[^c-23691bf56b68014f52bb5971d03b749e]: Commencement: Sch. para. 4 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
 
-[^key-f23e5eba2ed54b0b131b2618993c4bc3]: Commencement: Sch. para. 5 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
+[^c-f23e5eba2ed54b0b131b2618993c4bc3]: Commencement: Sch. para. 5 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
 
-[^key-91f6d0564d74c4540ea973fbaf76d944]: Commencement: Sch. para. 6 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
+[^c-91f6d0564d74c4540ea973fbaf76d944]: Commencement: Sch. para. 6 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
 
-[^key-00852f76622ad461ffb44636f081662c]: Commencement: Sch. para. 7 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
+[^c-00852f76622ad461ffb44636f081662c]: Commencement: Sch. para. 7 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
 
-[^key-ddb925970d0f5d130b2002267e018651]: Commencement: Sch. para. 8 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
+[^c-ddb925970d0f5d130b2002267e018651]: Commencement: Sch. para. 8 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
 
-[^key-bce747700e4f97289007ec99a78dfac1]: Commencement: Sch. para. 9 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
+[^c-bce747700e4f97289007ec99a78dfac1]: Commencement: Sch. para. 9 in force at 2.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2643/regulation/1)
 
-[^key-e32a94415b3dd20a66fd6c57f1869cfe]: Textual amendment: [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2010/2643/schedule/part/5) inserted (2.10.2018) by [The Reserve Forces Act 1996 (Isle of Man) (Amendment) Regulations 2018 (S.I. 2018/991)](https://www.legislation.gov.uk/uksi/2018/991), [regs. 1](https://www.legislation.gov.uk/uksi/2018/991/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/991/regulation/2/3)
+[^c-e32a94415b3dd20a66fd6c57f1869cfe]: Textual amendment: [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2010/2643/schedule/part/5) inserted (2.10.2018) by [The Reserve Forces Act 1996 (Isle of Man) (Amendment) Regulations 2018 (S.I. 2018/991)](https://www.legislation.gov.uk/uksi/2018/991), [regs. 1](https://www.legislation.gov.uk/uksi/2018/991/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/991/regulation/2/3)

@@ -33,7 +33,7 @@ Exiting The European Union, Wales
 
 Education, Wales
 
-The Education (European University Institute) (Wales) (Amendment) (EU Exit) Regulations 2021 (revoked)[^key-514fe3dc218909330d12e674321926f8]
+The Education (European University Institute) (Wales) (Amendment) (EU Exit) Regulations 2021 (revoked)[^c-514fe3dc218909330d12e674321926f8]
 
 Made
 
@@ -47,42 +47,42 @@ Coming into force
 
 31 December 2021
 
-[^key-514fe3dc218909330d12e674321926f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-514fe3dc218909330d12e674321926f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-514fe3dc218909330d12e674321926f8]
+## 1. Title and commencement[^c-514fe3dc218909330d12e674321926f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Education (European University Institute) (Wales) Regulations 2014[^key-514fe3dc218909330d12e674321926f8]
+## 3. Amendment of the Education (European University Institute) (Wales) Regulations 2014[^c-514fe3dc218909330d12e674321926f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-514fe3dc218909330d12e674321926f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-514fe3dc218909330d12e674321926f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-514fe3dc218909330d12e674321926f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-514fe3dc218909330d12e674321926f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-514fe3dc218909330d12e674321926f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-514fe3dc218909330d12e674321926f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/1294) revoked (with application in accordance with reg. 2 of the amending W.S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [9](https://www.legislation.gov.uk/wsi/2026/3/regulation/9)
+[^c-514fe3dc218909330d12e674321926f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/1294) revoked (with application in accordance with reg. 2 of the amending W.S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [9](https://www.legislation.gov.uk/wsi/2026/3/regulation/9)

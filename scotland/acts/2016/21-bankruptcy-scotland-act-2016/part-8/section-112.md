@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Debtor's family home[^key-f0cd96492d0c7e03238828f14b943a4b]
+## 112. Debtor's family home[^c-f0cd96492d0c7e03238828f14b943a4b]
 
 *Extent: S*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0cd96492d0c7e03238828f14b943a4b]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2016/21/section/112) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-f0cd96492d0c7e03238828f14b943a4b]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2016/21/section/112) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

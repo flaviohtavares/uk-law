@@ -16,27 +16,27 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Investment principles[^key-8ae4f61b00045ebee33fee3b22100c82][^key-a7ed8489e179b987a8f0f27af89fb104]
+## 114. Investment principles[^c-8ae4f61b00045ebee33fee3b22100c82][^c-a7ed8489e179b987a8f0f27af89fb104]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Board must secure—
 
-- (a)[^key-acc5354d064e789ff267795a46a86abb] that a statement of investment principles is prepared and maintained, and
-- (b)[^key-7497f53be928e968f686eb4365dfa81c] that the statement is reviewed at such intervals, and on such occasions, as may be prescribed and, if necessary, revised.
+- (a)[^c-acc5354d064e789ff267795a46a86abb] that a statement of investment principles is prepared and maintained, and
+- (b)[^c-7497f53be928e968f686eb4365dfa81c] that the statement is reviewed at such intervals, and on such occasions, as may be prescribed and, if necessary, revised.
 
-(2)[^key-acc5354d064e789ff267795a46a86abb] In this section “**statement of investment principles**” means a written statement of the investment principles governing determinations about investments made by or on behalf of the Board.
+(2)[^c-acc5354d064e789ff267795a46a86abb] In this section “**statement of investment principles**” means a written statement of the investment principles governing determinations about investments made by or on behalf of the Board.
 
-(3)[^key-7497f53be928e968f686eb4365dfa81c] Before preparing or revising a statement of investment principles, the Board must comply with any prescribed requirements.
+(3)[^c-7497f53be928e968f686eb4365dfa81c] Before preparing or revising a statement of investment principles, the Board must comply with any prescribed requirements.
 
-(4)[^key-7497f53be928e968f686eb4365dfa81c] A statement of investment principles must be in the prescribed form and cover, amongst other things, the prescribed matters.
+(4)[^c-7497f53be928e968f686eb4365dfa81c] A statement of investment principles must be in the prescribed form and cover, amongst other things, the prescribed matters.
 
 ## Annotations
 
-[^key-8ae4f61b00045ebee33fee3b22100c82]: Modification: Pt. 2 modified in part (9.3.2005 for specified purposes, 1.4.2005 for specified purposes, 6.4.2005 in so far as not already in force (except ch. 4)) by [The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441), [regs. 1](https://www.legislation.gov.uk/uksi/2005/441/regulation/1), [2-60](https://www.legislation.gov.uk/uksi/2005/441/regulation/2), [71](https://www.legislation.gov.uk/uksi/2005/441/regulation/71), [72](https://www.legislation.gov.uk/uksi/2005/441/regulation/72)
+[^c-8ae4f61b00045ebee33fee3b22100c82]: Modification: Pt. 2 modified in part (9.3.2005 for specified purposes, 1.4.2005 for specified purposes, 6.4.2005 in so far as not already in force (except ch. 4)) by [The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441), [regs. 1](https://www.legislation.gov.uk/uksi/2005/441/regulation/1), [2-60](https://www.legislation.gov.uk/uksi/2005/441/regulation/2), [71](https://www.legislation.gov.uk/uksi/2005/441/regulation/71), [72](https://www.legislation.gov.uk/uksi/2005/441/regulation/72)
 
-[^key-a7ed8489e179b987a8f0f27af89fb104]: Modification: Pt. 2 modified (8.3.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (S.I. 2005/277)](https://www.legislation.gov.uk/uksi/2005/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/1/1), [2-11](https://www.legislation.gov.uk/uksi/2005/277/regulation/2)
+[^c-a7ed8489e179b987a8f0f27af89fb104]: Modification: Pt. 2 modified (8.3.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (S.I. 2005/277)](https://www.legislation.gov.uk/uksi/2005/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/1/1), [2-11](https://www.legislation.gov.uk/uksi/2005/277/regulation/2)
 
-[^key-acc5354d064e789ff267795a46a86abb]: Commencement: S. 114(1)(a)(2) in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-acc5354d064e789ff267795a46a86abb]: Commencement: S. 114(1)(a)(2) in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-7497f53be928e968f686eb4365dfa81c]: Commencement: S. 114(1)(b)(3)(4) in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes at 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)
+[^c-7497f53be928e968f686eb4365dfa81c]: Commencement: S. 114(1)(b)(3)(4) in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes at 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)

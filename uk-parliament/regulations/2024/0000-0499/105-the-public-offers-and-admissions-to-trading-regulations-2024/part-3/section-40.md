@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Penalties for contraventions[^key-ce6e77e13b9031000afdda4650293427]
+## 40. Penalties for contraventions[^c-ce6e77e13b9031000afdda4650293427]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce6e77e13b9031000afdda4650293427]: Commencement: Reg. 40 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-ce6e77e13b9031000afdda4650293427]: Commencement: Reg. 40 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

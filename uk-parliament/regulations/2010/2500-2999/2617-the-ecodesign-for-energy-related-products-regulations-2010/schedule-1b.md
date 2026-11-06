@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1B (Extent: E+W+S) — Conformity Assessment Bodies (Extent: E+W+S)[^key-18e8091ff0079f1fdd73f1705ffbf866]
+## SCHEDULE 1B (Extent: E+W+S) — Conformity Assessment Bodies (Extent: E+W+S)[^c-18e8091ff0079f1fdd73f1705ffbf866]
 
 *Extent: E+W+S+N.I.*
 
@@ -163,14 +163,14 @@ The Secretary of State may authorise the UK national accreditation body to carry
 
 ### PART 2 (Extent: E+W+S) — Approved body requirements (Extent: E+W+S)
 
-**10 (Extent: E+W+S).** (1 (Extent: E.W.S.) (affected by repeal, see note) (Extent: E+W+S))[^key-658f76152bed82d8df5450c2f568ef0d] A conformity assessment body must be established in Great Britain and have legal personality. *(Extent: E.W.S.)* *(affected by repeal, see note)*[^key-658f76152bed82d8df5450c2f568ef0d] *(Extent: E+W+S)*
+**10 (Extent: E+W+S).** (1 (Extent: E.W.S.) (affected by repeal, see note) (Extent: E+W+S))[^c-658f76152bed82d8df5450c2f568ef0d] A conformity assessment body must be established in Great Britain and have legal personality. *(Extent: E.W.S.)* *(affected by repeal, see note)*[^c-658f76152bed82d8df5450c2f568ef0d] *(Extent: E+W+S)*
 
 (1 (Extent: E.W.S.) (Extent: E+W+S)) A conformity assessment body must have legal personality and must be established in— *(Extent: E.W.S.)* *(Extent: E+W+S)*
 
 - (a (Extent: E.W.S.) (Extent: E+W+S)) Great Britain; or *(Extent: E.W.S.)* *(Extent: E+W+S)*
 - (b (Extent: E.W.S.) (Extent: E+W+S)) the territory of a party to the CPTPP. *(Extent: E.W.S.)* *(Extent: E+W+S)*
 
-(1A (Extent: E+W+S))[^key-255002d954f1739d6b5043f2627dcde2] In sub-paragraph (1) “ *(Extent: E+W+S)***the CPTPP *(Extent: E+W+S)***” has the meaning set out in section 1 of the Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024. *(Extent: E+W+S)*
+(1A (Extent: E+W+S))[^c-255002d954f1739d6b5043f2627dcde2] In sub-paragraph (1) “ *(Extent: E+W+S)***the CPTPP *(Extent: E+W+S)***” has the meaning set out in section 1 of the Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024. *(Extent: E+W+S)*
 
 (2 (Extent: E+W+S)) A conformity assessment body must be a third party body independent of the organisation or the product it assesses. A body belonging to a business association or professional federation representing businesses involved in the design, manufacturing, provision, assembly, use or maintenance of products which it assesses, may, on condition that its independence and the absence of any conflict of interest are demonstrated, be considered such a body. *(Extent: E+W+S)*
 
@@ -258,8 +258,8 @@ The Secretary of State may authorise the UK national accreditation body to carry
 
 ## Annotations
 
-[^key-18e8091ff0079f1fdd73f1705ffbf866]: Textual amendment: Sch. 1B inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/15) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4), [6(3)(4)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-18e8091ff0079f1fdd73f1705ffbf866]: Textual amendment: Sch. 1B inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/15) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4), [6(3)(4)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-658f76152bed82d8df5450c2f568ef0d]: Textual amendment: [Sch. 1B para. 10(1)](https://www.legislation.gov.uk/uksi/2010/2617/schedule/1B/paragraph/10/1) substituted (E.W.S.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/504/regulation/3/a)
+[^c-658f76152bed82d8df5450c2f568ef0d]: Textual amendment: [Sch. 1B para. 10(1)](https://www.legislation.gov.uk/uksi/2010/2617/schedule/1B/paragraph/10/1) substituted (E.W.S.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/504/regulation/3/a)
 
-[^key-255002d954f1739d6b5043f2627dcde2]: Textual amendment: [Sch. 1B para. 10(1A)](https://www.legislation.gov.uk/uksi/2010/2617/schedule/1B/paragraph/10/1A) inserted (E.W.S.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/504/regulation/3/b)
+[^c-255002d954f1739d6b5043f2627dcde2]: Textual amendment: [Sch. 1B para. 10(1A)](https://www.legislation.gov.uk/uksi/2010/2617/schedule/1B/paragraph/10/1A) inserted (E.W.S.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/504/regulation/3/b)

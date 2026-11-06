@@ -50,13 +50,13 @@ Before making the Regulations OFCOM have given notice of their proposal to do so
 
 The Secretary of State, in accordance with section 54(7) of that Act, has approved the making by OFCOM of these Regulations.
 
-## 1. Citation, commencement and extent[^key-dce9bc04df285300514744a4a93e48dd]
+## 1. Citation, commencement and extent[^c-dce9bc04df285300514744a4a93e48dd]
 
 These Regulations may be cited as the Wireless Telegraphy (Control of Interference from Apparatus) Regulations 2016 and shall come into force on 18th April 2016.
 
-**2.**[^key-894f2439bfe681181f7cd02eb927b493] These Regulations shall not extend to the Channel Islands or to the Isle of Man.
+**2.**[^c-894f2439bfe681181f7cd02eb927b493] These Regulations shall not extend to the Channel Islands or to the Isle of Man.
 
-## 3. Interpretation[^key-7d97bf212d5682b1fc1d83f88017db81]
+## 3. Interpretation[^c-7d97bf212d5682b1fc1d83f88017db81]
 
 In these Regulations—
 
@@ -67,7 +67,7 @@ In these Regulations—
 - “the Electromagnetic Compatibility Regulations” means the Electromagnetic Compatibility Regulations 2006[^f00002];
 - “the EMC Directive” means [Directive 2004/108/EC](https://www.legislation.gov.uk/european/directive/2004/0108) of the European Parliament and of the Council on the approximation of the laws of the Member States relating to electromagnetic compatibility[^f00003].
 
-## 4. Apparatus[^key-c003928977fb5d48dd8b6d06b189a594]
+## 4. Apparatus[^c-c003928977fb5d48dd8b6d06b189a594]
 
 The requirement set out at regulation 5, for the purposes of section 54(1) of the Wireless Telegraphy Act 2006, applies in the case of apparatus which—
 
@@ -80,11 +80,11 @@ The requirement set out at regulation 5, for the purposes of section 54(1) of th
   - (iv) functioning due to degradation, deterioration, modification, or damage; or
   - (v) used for a purpose other than its intended purpose.
 
-## 5. Requirement[^key-55743a9f4a7e794174c452fd47bdd071]
+## 5. Requirement[^c-55743a9f4a7e794174c452fd47bdd071]
 
 The requirement is that apparatus set out in regulation 4, when in use, must operate in such a way that the maximum intensity of electromagnetic disturbance generated shall not exceed the level permissible under the Electromagnetic Compatibility Regulations, when it was placed on the EEA market or put into service in the EEA.
 
-## 6. Radio Equipment and Telecommunications Terminal Equipment[^key-635d9e689d232594652da38e38cc49fc]
+## 6. Radio Equipment and Telecommunications Terminal Equipment[^c-635d9e689d232594652da38e38cc49fc]
 
 These Regulations do not apply to apparatus covered by [Directive 1999/5/EC](https://www.legislation.gov.uk/european/directive/1999/0005) of the European Parliament and of the Council on radio equipment and telecommunications terminal equipment and the mutual recognition of their conformity[^f00004].
 
@@ -126,20 +126,20 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36); sections 54 and 122(7) were extended, with modifications, to the Bailiwick of Guernsey by article 2 of the Wireless Telegraphy (Guernsey) Order 2006 ([S.I. 2006/3325](https://www.legislation.gov.uk/uksi/2006/3325)); and to the Bailiwick of Jersey by article 2 of the Wireless Telegraphy (Jersey) Order 2006 ([S.I. 2006/3324](https://www.legislation.gov.uk/uksi/2006/3324)); and to the Isle of Man by article 2 of the Wireless Telegraphy (Isle of Man) Order 2007 ([S.I. 2007/278](https://www.legislation.gov.uk/uksi/2007/278)).
 
-[^key-dce9bc04df285300514744a4a93e48dd]: Commencement: Reg. 1 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
+[^c-dce9bc04df285300514744a4a93e48dd]: Commencement: Reg. 1 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
 
-[^key-894f2439bfe681181f7cd02eb927b493]: Commencement: Reg. 2 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
+[^c-894f2439bfe681181f7cd02eb927b493]: Commencement: Reg. 2 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
 
-[^key-7d97bf212d5682b1fc1d83f88017db81]: Commencement: Reg. 3 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
+[^c-7d97bf212d5682b1fc1d83f88017db81]: Commencement: Reg. 3 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2006/3418](https://www.legislation.gov.uk/uksi/2006/3418).
 
 [^f00003]: Footnote: OJ No.L390, 31.12.04, p 24.
 
-[^key-c003928977fb5d48dd8b6d06b189a594]: Commencement: Reg. 4 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
+[^c-c003928977fb5d48dd8b6d06b189a594]: Commencement: Reg. 4 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
 
-[^key-55743a9f4a7e794174c452fd47bdd071]: Commencement: Reg. 5 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
+[^c-55743a9f4a7e794174c452fd47bdd071]: Commencement: Reg. 5 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
 
-[^key-635d9e689d232594652da38e38cc49fc]: Commencement: Reg. 6 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
+[^c-635d9e689d232594652da38e38cc49fc]: Commencement: Reg. 6 in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/426/regulation/1)
 
 [^f00004]: Footnote: OJ No. L 91, 7.4.1999, p.10 as amended by Regulation [(EC) No 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) of the European Parliament and of the Council of 29.9.2003 (OJ L284, 31.10.03, p.1) and by Regulation [(EC) No 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council of 18.06.2009 (OJ L188,18.07.2009,p.14).

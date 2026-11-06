@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Validity of old certificates[^key-9f9084b7e12271ca22058b1323c96ec5][^key-6fa497e46fbd289bd4939aa275bc803e]
+## 116. Validity of old certificates[^c-9f9084b7e12271ca22058b1323c96ec5][^c-6fa497e46fbd289bd4939aa275bc803e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ whichever shall be the earlier.
 
 ## Annotations
 
-[^key-9f9084b7e12271ca22058b1323c96ec5]: Commencement: [Reg. 116](https://www.legislation.gov.uk/uksi/1993/3138/regulation/116) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-9f9084b7e12271ca22058b1323c96ec5]: Commencement: [Reg. 116](https://www.legislation.gov.uk/uksi/1993/3138/regulation/116) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-6fa497e46fbd289bd4939aa275bc803e]: Textual amendment: [Reg. 116](https://www.legislation.gov.uk/uksi/1993/3138/regulation/116) substituted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [23](https://www.legislation.gov.uk/uksi/1998/2976/regulation/23)
+[^c-6fa497e46fbd289bd4939aa275bc803e]: Textual amendment: [Reg. 116](https://www.legislation.gov.uk/uksi/1993/3138/regulation/116) substituted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [23](https://www.legislation.gov.uk/uksi/1998/2976/regulation/23)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 151. Amount of a jobseeker’s allowance payable where a person is in a residential care or nursing home[^key-1cfec40a50a3140471f4b9061f749b71]
+## 151. Amount of a jobseeker’s allowance payable where a person is in a residential care or nursing home[^c-1cfec40a50a3140471f4b9061f749b71]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ where “A”, “B” and “I” have the values set out in regulation 150(1) 
 
 ## Annotations
 
-[^key-1cfec40a50a3140471f4b9061f749b71]: Commencement: Reg. 151 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-1cfec40a50a3140471f4b9061f749b71]: Commencement: Reg. 151 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

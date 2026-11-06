@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 187. Appointment of scheme actuary and actuarial valuations[^key-89943ec622b53952f87a8847b1b13e57]
+## 187. Appointment of scheme actuary and actuarial valuations[^c-89943ec622b53952f87a8847b1b13e57]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89943ec622b53952f87a8847b1b13e57]: Commencement: Reg. 187 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-89943ec622b53952f87a8847b1b13e57]: Commencement: Reg. 187 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Determination of sum specified in a contribution notice[^key-612162ce0caf532eb6e297862095f431]
+## 105. Determination of sum specified in a contribution notice[^c-612162ce0caf532eb6e297862095f431]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-612162ce0caf532eb6e297862095f431]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2021/1/section/105) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/b) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))
+[^c-612162ce0caf532eb6e297862095f431]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2021/1/section/105) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/b) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))

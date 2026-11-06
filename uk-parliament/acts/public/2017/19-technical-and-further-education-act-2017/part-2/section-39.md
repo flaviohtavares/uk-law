@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Disqualification of officers[^key-9a48c5d9d759a2d971f96b85939e383a]
+## 39. Disqualification of officers[^c-9a48c5d9d759a2d971f96b85939e383a]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a48c5d9d759a2d971f96b85939e383a]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/19/section/39) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-9a48c5d9d759a2d971f96b85939e383a]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/19/section/39) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

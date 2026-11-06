@@ -27,7 +27,7 @@ summary: ''
 - (a) the Lord Justice General, the Lord Justice Clerk and the Clerk of Justiciary;
 - (b) a further Lord Commissioner of Justiciary appointed by the Lord Justice General;
 - (c) the following persons appointed by the Lord Justice General after such consultation as he considers appropriate—
-  - (zi)[^key-d5e4d236c76481f23d36374726ab1f06] one Appeal Sheriff;
+  - (zi)[^c-d5e4d236c76481f23d36374726ab1f06] one Appeal Sheriff;
   - (i) two sheriffs;
   - (ii) two members of the Faculty of Advocates;
   - (iii) two solicitors;
@@ -65,6 +65,6 @@ but shall, subject to the foregoing, have power to regulate the summoning of its
 
 ## Annotations
 
-[^key-d5e4d236c76481f23d36374726ab1f06]: Textual amendment: S. 304(2)(c)(zi) inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 15](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/15); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-d5e4d236c76481f23d36374726ab1f06]: Textual amendment: S. 304(2)(c)(zi) inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 15](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/15); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
 [^c19859521]: Textual amendment: Words in s. 304(2)(c)(v) substituted (10.3.2008 and 2.6.2008 for certain purposes, otherwise 8.12.2008) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 80](https://www.legislation.gov.uk/asp/2007/6/section/80), [84](https://www.legislation.gov.uk/asp/2007/6/section/84), [Sch. para. 26(t)](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/26/t); [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42), [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule); [S.S.I. 2008/192](https://www.legislation.gov.uk/ssi/2008/192), [art. 3](https://www.legislation.gov.uk/ssi/2008/192/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/192/schedule); [S.S.I. 2008/329](https://www.legislation.gov.uk/ssi/2008/329), [art. 3](https://www.legislation.gov.uk/ssi/2008/329/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/329/schedule)

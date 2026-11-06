@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Amendment of the Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019[^key-0cd7509465bbc6e801c436f460cf31de]
+## 38. Amendment of the Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019[^c-0cd7509465bbc6e801c436f460cf31de]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0cd7509465bbc6e801c436f460cf31de]: Commencement: Reg. 38 in force at 31.12.2020 before IP completion day, see reg. 1(2)(a)
+[^c-0cd7509465bbc6e801c436f460cf31de]: Commencement: Reg. 38 in force at 31.12.2020 before IP completion day, see reg. 1(2)(a)
 
 [^c24364511]: Marginal citation: [S.I. 2019/1225](https://www.legislation.gov.uk/uksi/2019/1225).

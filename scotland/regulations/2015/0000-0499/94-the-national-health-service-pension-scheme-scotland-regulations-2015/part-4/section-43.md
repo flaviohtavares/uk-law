@@ -27,7 +27,7 @@ summary: ''
 - (a) must not exceed 3 or (if less) the number of years from the date of M's 65th birthday until M's prospective normal pension age; and
 - (b) must be a whole number of years unless—
   - (i) M's prospective normal pension age is expressed otherwise than as a whole number of years; or
-  - (ii) the scheme manager[^key-492246a3223887dfd1695ef791d35c18] (having considered the advice of the scheme actuary) considers in M's circumstances it is unreasonable to restrict the period to whole years.
+  - (ii) the scheme manager[^c-492246a3223887dfd1695ef791d35c18] (having considered the advice of the scheme actuary) considers in M's circumstances it is unreasonable to restrict the period to whole years.
 
 (3) A buy-out election must be made by written notice to the scheme manager.
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-492246a3223887dfd1695ef791d35c18]: Textual amendment: Word in [reg. 43(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2015/94/regulation/43/2/b/ii) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2016/97/regulation/8)
+[^c-492246a3223887dfd1695ef791d35c18]: Textual amendment: Word in [reg. 43(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2015/94/regulation/43/2/b/ii) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2016/97/regulation/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Power to override easements and other rights[^key-46fa40ffd355f9e97e7e8709c09cd079]
+## 21. Power to override easements and other rights[^c-46fa40ffd355f9e97e7e8709c09cd079]
 
 *Extent: E+W*
 
@@ -33,9 +33,9 @@ summary: ''
 
 (3) The interests and rights to which this article applies are any easement, liberty, privilege, right or advantage annexed to land and adversely affecting other land, including any natural right to support and include restrictions as to the user of land arising by the virtue of a contract.
 
-(4)[^key-2ad942653a9287c92fcc2cbabe2d6355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2ad942653a9287c92fcc2cbabe2d6355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Where an interest, right or restriction is interfered with or breached as mentioned in paragraph (1)[^key-91cc29ddb1d15cc3459ad93464bc7e11], compensation—
+(5) Where an interest, right or restriction is interfered with or breached as mentioned in paragraph (1)[^c-91cc29ddb1d15cc3459ad93464bc7e11], compensation—
 
 - (a) shall be payable under section 7 or 10 of the 1965 Act[^f00022]; and
 - (b) shall be assessed in the same manner and subject to the same rules as in the case of other compensation under those sections where—
@@ -53,10 +53,10 @@ the liability shall be enforceable against that undertaker.
 
 ## Annotations
 
-[^key-46fa40ffd355f9e97e7e8709c09cd079]: Commencement: Art. 21 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-46fa40ffd355f9e97e7e8709c09cd079]: Commencement: Art. 21 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
 
-[^key-2ad942653a9287c92fcc2cbabe2d6355]: Textual amendment: [Art. 21(4)](https://www.legislation.gov.uk/uksi/2015/1561/article/21/4) omitted (22.12.2015) by virtue of [The Preesall Underground Gas Storage Facility (Correction) Order 2015 (S.I. 2015/2071)](https://www.legislation.gov.uk/uksi/2015/2071), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2071/article/1), [2](https://www.legislation.gov.uk/uksi/2015/2071/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/2071/schedule)
+[^c-2ad942653a9287c92fcc2cbabe2d6355]: Textual amendment: [Art. 21(4)](https://www.legislation.gov.uk/uksi/2015/1561/article/21/4) omitted (22.12.2015) by virtue of [The Preesall Underground Gas Storage Facility (Correction) Order 2015 (S.I. 2015/2071)](https://www.legislation.gov.uk/uksi/2015/2071), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2071/article/1), [2](https://www.legislation.gov.uk/uksi/2015/2071/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/2071/schedule)
 
-[^key-91cc29ddb1d15cc3459ad93464bc7e11]: Textual amendment: Words in [art. 21(5)](https://www.legislation.gov.uk/uksi/2015/1561/article/21/5) substituted (22.12.2015) by [The Preesall Underground Gas Storage Facility (Correction) Order 2015 (S.I. 2015/2071)](https://www.legislation.gov.uk/uksi/2015/2071), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2071/article/1), [2](https://www.legislation.gov.uk/uksi/2015/2071/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/2071/schedule)
+[^c-91cc29ddb1d15cc3459ad93464bc7e11]: Textual amendment: Words in [art. 21(5)](https://www.legislation.gov.uk/uksi/2015/1561/article/21/5) substituted (22.12.2015) by [The Preesall Underground Gas Storage Facility (Correction) Order 2015 (S.I. 2015/2071)](https://www.legislation.gov.uk/uksi/2015/2071), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2071/article/1), [2](https://www.legislation.gov.uk/uksi/2015/2071/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/2071/schedule)
 
 [^f00022]: Footnote: There are amendments that are not relevant to this Order.

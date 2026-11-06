@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS, WALES
 
-The Spring Traps Approval (Wales) Order 2012 (revoked)[^key-3c5340d84893aef90eb89562fb13e33b]
+The Spring Traps Approval (Wales) Order 2012 (revoked)[^c-3c5340d84893aef90eb89562fb13e33b]
 
 Made
 
@@ -45,27 +45,27 @@ Coming into force
 
 17 December 2012
 
-[^key-3c5340d84893aef90eb89562fb13e33b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c5340d84893aef90eb89562fb13e33b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-3c5340d84893aef90eb89562fb13e33b]
+## 1. Title, commencement and application[^c-3c5340d84893aef90eb89562fb13e33b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval of spring traps[^key-3c5340d84893aef90eb89562fb13e33b]
+## 2. Approval of spring traps[^c-3c5340d84893aef90eb89562fb13e33b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-3c5340d84893aef90eb89562fb13e33b]
+## 3. Revocations[^c-3c5340d84893aef90eb89562fb13e33b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c5340d84893aef90eb89562fb13e33b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c5340d84893aef90eb89562fb13e33b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-3c5340d84893aef90eb89562fb13e33b]
+## SCHEDULE[^c-3c5340d84893aef90eb89562fb13e33b]
 
 Article 2
 
@@ -73,8 +73,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-3c5340d84893aef90eb89562fb13e33b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c5340d84893aef90eb89562fb13e33b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c5340d84893aef90eb89562fb13e33b]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2012/2941) revoked (1.2.2019) by [The Spring Traps Approval (Wales) Order 2019 (S.I. 2019/18)](https://www.legislation.gov.uk/wsi/2019/18), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2019/18/article/1/3), [3](https://www.legislation.gov.uk/wsi/2019/18/article/3)
+[^c-3c5340d84893aef90eb89562fb13e33b]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2012/2941) revoked (1.2.2019) by [The Spring Traps Approval (Wales) Order 2019 (S.I. 2019/18)](https://www.legislation.gov.uk/wsi/2019/18), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2019/18/article/1/3), [3](https://www.legislation.gov.uk/wsi/2019/18/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Teachers' residences provided etc. by statutory loan prior to 1st February 1922[^key-1abe6acf1667ea233759c57f16cb5713]
+## 90. Teachers' residences provided etc. by statutory loan prior to 1st February 1922[^c-1abe6acf1667ea233759c57f16cb5713]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1abe6acf1667ea233759c57f16cb5713]: Textual amendment: Art. 90 repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-1abe6acf1667ea233759c57f16cb5713]: Textual amendment: Art. 90 repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

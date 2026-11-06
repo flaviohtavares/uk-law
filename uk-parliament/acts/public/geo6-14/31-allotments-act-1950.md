@@ -90,7 +90,7 @@ the tenant shall, notwithstanding any agreement to the contrary, be entitled, on
 
 ### 6. Exclusion of cottage holdings, and provisions as to war-time allotments.[^c600494]
 
-The foregoing provisions of this Act shall not apply to any parcel of land attached to a cottage, and the said provisions, other than those of section two, shall not apply to land let by a local authority under Regulation sixty-two A of the Defence (General) Regulations, 1939; [^key-fe579a7f2e3c50e9f95ee61e910df8be]...
+The foregoing provisions of this Act shall not apply to any parcel of land attached to a cottage, and the said provisions, other than those of section two, shall not apply to land let by a local authority under Regulation sixty-two A of the Defence (General) Regulations, 1939; [^c-fe579a7f2e3c50e9f95ee61e910df8be]...
 
 ### 7. Application of provisions of the Allotments Act, 1922, for purposes of preceding sections.
 
@@ -190,7 +190,7 @@ Provided that nothing in this subsection shall authorise any hens or rabbits to 
 
 [^c600494]: Modification: S. 6 amended by [Emergency Laws (Miscellaneous Provisions) Act 1953 (c. 47)](https://www.legislation.gov.uk/ukpga/1953/47), [s. 5(3)](https://www.legislation.gov.uk/ukpga/1953/47/section/5/3)
 
-[^key-fe579a7f2e3c50e9f95ee61e910df8be]: Textual amendment: Words in s. 6 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/3)
+[^c-fe579a7f2e3c50e9f95ee61e910df8be]: Textual amendment: Words in s. 6 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/3)
 
 [^c600497]: Modification: The text of S. 8 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

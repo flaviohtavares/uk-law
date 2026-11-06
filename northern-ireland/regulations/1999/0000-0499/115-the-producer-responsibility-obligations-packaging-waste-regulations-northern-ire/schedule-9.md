@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9 — Groups of Companies[^key-51399172263124734739acfa53c6d96c]
+## SCHEDULE 9 — Groups of Companies[^c-51399172263124734739acfa53c6d96c]
 
 *Extent: N.I.*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 29
 
-**1.**[^key-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-51399172263124734739acfa53c6d96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51399172263124734739acfa53c6d96c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/115) revoked (9.10.2006) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/356)](https://www.legislation.gov.uk/nisr/2006/356),, [41](https://www.legislation.gov.uk/nisr/2006/356/regulation/41), [Sch. 12](https://www.legislation.gov.uk/nisr/2006/356/schedule/12); No historical revised versions have been created for amendments to this S.R. made prior to it's final revocation. A revised version of how the S.R. stood at its first commmencment is available and to see the document content as it originally stood when it was made, select the "Original (As Made) version from the left-hand menu. For further details of the amendments see the List of All Changes available in "More Resources' above"
+[^c-51399172263124734739acfa53c6d96c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/115) revoked (9.10.2006) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/356)](https://www.legislation.gov.uk/nisr/2006/356),, [41](https://www.legislation.gov.uk/nisr/2006/356/regulation/41), [Sch. 12](https://www.legislation.gov.uk/nisr/2006/356/schedule/12); No historical revised versions have been created for amendments to this S.R. made prior to it's final revocation. A revised version of how the S.R. stood at its first commmencment is available and to see the document content as it originally stood when it was made, select the "Original (As Made) version from the left-hand menu. For further details of the amendments see the List of All Changes available in "More Resources' above"

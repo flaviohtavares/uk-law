@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Amendment of section 33[^key-24ab9041303a39f0449048b50804012f]
+## 24. Amendment of section 33[^c-24ab9041303a39f0449048b50804012f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For section 33(3) (default powers of Privy Council not applicable) substitute—
 
 ## Annotations
 
-[^key-24ab9041303a39f0449048b50804012f]: Commencement: Art. 24 comes into force in accordance with art. 1(3)-(6)
+[^c-24ab9041303a39f0449048b50804012f]: Commencement: Art. 24 comes into force in accordance with art. 1(3)-(6)

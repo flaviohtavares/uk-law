@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Duty to carry out impact assessment[^key-ee0c4db76caefe5fdf696d8909a1c2fa]
+## 30. Duty to carry out impact assessment[^c-ee0c4db76caefe5fdf696d8909a1c2fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ the requirements of this section are in addition to, but may be performed contem
 
 ## Annotations
 
-[^key-ee0c4db76caefe5fdf696d8909a1c2fa]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/52/section/30) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-ee0c4db76caefe5fdf696d8909a1c2fa]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/52/section/30) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

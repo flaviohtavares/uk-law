@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Charges[^key-3a2a0ef7b9fa83631cb264e29fb05d22]
+## 80. Charges[^c-3a2a0ef7b9fa83631cb264e29fb05d22]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a2a0ef7b9fa83631cb264e29fb05d22]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2019/17/section/80) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-3a2a0ef7b9fa83631cb264e29fb05d22]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2019/17/section/80) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

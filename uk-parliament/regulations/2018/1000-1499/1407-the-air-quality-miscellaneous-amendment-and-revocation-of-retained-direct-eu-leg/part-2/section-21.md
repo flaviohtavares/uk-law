@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Decision 2017/2117/EU establishing best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council, for the production of large volume organic chemicals[^key-91e5f0f7cfe1acfc6887970e14aca119]
+## 21. Decision 2017/2117/EU establishing best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council, for the production of large volume organic chemicals[^c-91e5f0f7cfe1acfc6887970e14aca119]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91e5f0f7cfe1acfc6887970e14aca119]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-91e5f0f7cfe1acfc6887970e14aca119]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

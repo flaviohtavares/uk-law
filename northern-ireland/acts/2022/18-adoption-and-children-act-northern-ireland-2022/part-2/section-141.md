@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 141. Notification of fostering: public awareness[^key-aa04abaf770959df824088b0a7183ab5]
+## 141. Notification of fostering: public awareness[^c-aa04abaf770959df824088b0a7183ab5]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ After Article 112 of the Children Order insert—
 
 ## Annotations
 
-[^key-aa04abaf770959df824088b0a7183ab5]: Commencement: S. 141 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-aa04abaf770959df824088b0a7183ab5]: Commencement: S. 141 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

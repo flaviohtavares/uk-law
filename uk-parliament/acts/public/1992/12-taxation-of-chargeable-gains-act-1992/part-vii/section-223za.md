@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223ZA. Amount of relief: individual’s residency delayed by certain events[^key-9199d5bd7e1f08660934cf9acd8fce3b]
+## 223ZA. Amount of relief: individual’s residency delayed by certain events[^c-9199d5bd7e1f08660934cf9acd8fce3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9199d5bd7e1f08660934cf9acd8fce3b]: Textual amendment: [S. 223ZA](https://www.legislation.gov.uk/ukpga/1992/12/section/223ZA) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 24(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/24/4)
+[^c-9199d5bd7e1f08660934cf9acd8fce3b]: Textual amendment: [S. 223ZA](https://www.legislation.gov.uk/ukpga/1992/12/section/223ZA) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 24(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/24/4)

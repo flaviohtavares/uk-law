@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 48. Apportionment of payments etc. made for more than one earner[^key-48fb589def0de96e89c5acc3597ca063]
+## 48. Apportionment of payments etc. made for more than one earner[^c-48fb589def0de96e89c5acc3597ca063]
 
 After subsection (2) of section 3 of the Contributions and Benefits Act (“earnings” and “earner”) there shall be inserted the following subsection—
 
@@ -22,4 +22,4 @@ After subsection (2) of section 3 of the Contributions and Benefits Act (“earn
 
 ## Annotations
 
-[^key-48fb589def0de96e89c5acc3597ca063]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/1998/14/section/48) in force at 8.9.1998 by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/I)
+[^c-48fb589def0de96e89c5acc3597ca063]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/1998/14/section/48) in force at 8.9.1998 by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/I)

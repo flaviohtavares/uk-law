@@ -16,26 +16,26 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. The Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001[^key-660b7df424255946745807230422752e]
+## 179. The Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001[^c-660b7df424255946745807230422752e]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-64c52b88792eb148f344767903455893] The Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001 [^c23660511] is amended as follows.
+(1)[^c-64c52b88792eb148f344767903455893] The Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001 [^c23660511] is amended as follows.
 
-(2)[^key-717075f46036eb28dacb6d2e0c32731e][^key-64c52b88792eb148f344767903455893] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-717075f46036eb28dacb6d2e0c32731e][^c-64c52b88792eb148f344767903455893] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-651550e10b06ad8c5498534cc4de78c6] In article 8 [^c23660531], for “(d)”, substitute “ (da) to (de) ”.
+(3)[^c-651550e10b06ad8c5498534cc4de78c6] In article 8 [^c23660531], for “(d)”, substitute “ (da) to (de) ”.
 
 ## Annotations
 
-[^key-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-64c52b88792eb148f344767903455893]: Commencement: Reg. 179(1)(2) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
+[^c-64c52b88792eb148f344767903455893]: Commencement: Reg. 179(1)(2) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
 
 [^c23660511]: Marginal citation: [S.I. 2001/1227](https://www.legislation.gov.uk/uksi/2001/1227).
 
-[^key-717075f46036eb28dacb6d2e0c32731e]: Textual amendment: Reg. 179(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [57(3)(f)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/57/3/f)
+[^c-717075f46036eb28dacb6d2e0c32731e]: Textual amendment: Reg. 179(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [57(3)(f)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/57/3/f)
 
-[^key-651550e10b06ad8c5498534cc4de78c6]: Commencement: Reg. 179(3) in force at 23.3.2019, see reg. 1(2)(g)
+[^c-651550e10b06ad8c5498534cc4de78c6]: Commencement: Reg. 179(3) in force at 23.3.2019, see reg. 1(2)(g)
 
 [^c23660531]: Marginal citation: Article 8 was amended by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682).

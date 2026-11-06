@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107N. Public authorities: duty to have regard to shared local growth priorities[^key-bd81ccd81fa996f97d08516f703939ef]
+## 107N. Public authorities: duty to have regard to shared local growth priorities[^c-bd81ccd81fa996f97d08516f703939ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd81ccd81fa996f97d08516f703939ef]: Textual amendment: [S. 107N](https://www.legislation.gov.uk/ukpga/2009/20/section/107N) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 22 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-bd81ccd81fa996f97d08516f703939ef]: Textual amendment: [S. 107N](https://www.legislation.gov.uk/ukpga/2009/20/section/107N) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 22 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

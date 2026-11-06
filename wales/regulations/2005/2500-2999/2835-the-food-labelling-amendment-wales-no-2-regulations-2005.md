@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food Labelling (Amendment) (Wales) (No. 2) Regulations 2005 (revoked)[^key-4905bf3e44845953eddb331b3c52fcfb]
+The Food Labelling (Amendment) (Wales) (No. 2) Regulations 2005 (revoked)[^c-4905bf3e44845953eddb331b3c52fcfb]
 
 Made
 
@@ -45,50 +45,50 @@ Coming into force
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-4905bf3e44845953eddb331b3c52fcfb]
+## 1. Title, application and commencement[^c-4905bf3e44845953eddb331b3c52fcfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-4905bf3e44845953eddb331b3c52fcfb]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-4905bf3e44845953eddb331b3c52fcfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-4905bf3e44845953eddb331b3c52fcfb]
+## 3.[^c-4905bf3e44845953eddb331b3c52fcfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-4905bf3e44845953eddb331b3c52fcfb]
+## 4.[^c-4905bf3e44845953eddb331b3c52fcfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-4905bf3e44845953eddb331b3c52fcfb]
+## 5.[^c-4905bf3e44845953eddb331b3c52fcfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-4905bf3e44845953eddb331b3c52fcfb]
+## 6.[^c-4905bf3e44845953eddb331b3c52fcfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-4905bf3e44845953eddb331b3c52fcfb]
+## 7.[^c-4905bf3e44845953eddb331b3c52fcfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4905bf3e44845953eddb331b3c52fcfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4905bf3e44845953eddb331b3c52fcfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — NEW SCHEDULE 2A TO BE INSERTED IN THE FOOD LABELLING REGULATIONS 1996[^key-4905bf3e44845953eddb331b3c52fcfb]
+## SCHEDULE — NEW SCHEDULE 2A TO BE INSERTED IN THE FOOD LABELLING REGULATIONS 1996[^c-4905bf3e44845953eddb331b3c52fcfb]
 
 Regulation 7
 
-[^key-4905bf3e44845953eddb331b3c52fcfb]
+[^c-4905bf3e44845953eddb331b3c52fcfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4905bf3e44845953eddb331b3c52fcfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4905bf3e44845953eddb331b3c52fcfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4905bf3e44845953eddb331b3c52fcfb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2005/2835) revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) (Wales) Regulations 2008 (revoked) 2008 (S.I. 2008/1268)](https://www.legislation.gov.uk/wsi/2008/1268), [reg. 3(c)](https://www.legislation.gov.uk/wsi/2008/1268/regulation/3/c)
+[^c-4905bf3e44845953eddb331b3c52fcfb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2005/2835) revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) (Wales) Regulations 2008 (revoked) 2008 (S.I. 2008/1268)](https://www.legislation.gov.uk/wsi/2008/1268), [reg. 3(c)](https://www.legislation.gov.uk/wsi/2008/1268/regulation/3/c)

@@ -24,7 +24,7 @@ summary: ''
 
 (introduced by section 115)
 
-### 1. Legal Aid (Scotland) Act 1986[^key-4e27767c4b81454e3d88bee775acebf4]
+### 1. Legal Aid (Scotland) Act 1986[^c-4e27767c4b81454e3d88bee775acebf4]
 
 (1) The Legal Aid (Scotland) Act 1986 is amended as follows.
 
@@ -51,7 +51,7 @@ summary: ''
 
 .
 
-### 2. Judiciary and Courts Scotland Act 2008[^key-2481f36d833029c323276d2bf5a637b3]
+### 2. Judiciary and Courts Scotland Act 2008[^c-2481f36d833029c323276d2bf5a637b3]
 
 (1) The Judiciary and Courts (Scotland) Act 2008 is amended as follows.
 
@@ -83,7 +83,7 @@ summary: ''
 
 .
 
-### 3. Courts Reform (Scotland) Act 2014[^key-2cf790f1c9e25502e69855e19b612679]
+### 3. Courts Reform (Scotland) Act 2014[^c-2cf790f1c9e25502e69855e19b612679]
 
 (1) The Courts Reform (Scotland) Act 2014 is amended as follows.
 
@@ -103,8 +103,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4e27767c4b81454e3d88bee775acebf4]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-4e27767c4b81454e3d88bee775acebf4]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-2481f36d833029c323276d2bf5a637b3]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-2481f36d833029c323276d2bf5a637b3]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-2cf790f1c9e25502e69855e19b612679]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-2cf790f1c9e25502e69855e19b612679]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

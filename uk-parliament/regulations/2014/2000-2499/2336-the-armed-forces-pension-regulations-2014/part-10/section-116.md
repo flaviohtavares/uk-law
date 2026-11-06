@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Commutation of small pensions[^key-46378c6c372686f814163e553c2abb32]
+## 116. Commutation of small pensions[^c-46378c6c372686f814163e553c2abb32]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-46378c6c372686f814163e553c2abb32]: Commencement: [Reg. 116](https://www.legislation.gov.uk/uksi/2014/2336/regulation/116) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-46378c6c372686f814163e553c2abb32]: Commencement: [Reg. 116](https://www.legislation.gov.uk/uksi/2014/2336/regulation/116) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785)
 

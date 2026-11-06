@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Grant or refusal of applications[^key-9b9686ac0b2be9f04acccbc7e8eb41a5]
+## 62. Grant or refusal of applications[^c-9b9686ac0b2be9f04acccbc7e8eb41a5]
 
 *Extent: N.I.*
 
-(1) Where the registration officer grants an application under section 6, 7, 8 or 9 of the 1985 Act, he shall, where practicable, notify the applicant in writing[^key-6f05069c5279c6e83726c588246b7409] of his decision.
+(1) Where the registration officer grants an application under section 6, 7, 8 or 9 of the 1985 Act, he shall, where practicable, notify the applicant in writing[^c-6f05069c5279c6e83726c588246b7409] of his decision.
 
 (2) Where the registration officer grants an application for the appointment of a proxy, he shall confirm in writing to the elector that the proxy has been appointed, his name and address, and the duration of the appointment.
 
-(3) The proxy paper [^key-ff786b59357707b741e0912f28bdc1db]... to be issued by the registration officer on the appointment of a proxy shall be in Form E.
+(3) The proxy paper [^c-ff786b59357707b741e0912f28bdc1db]... to be issued by the registration officer on the appointment of a proxy shall be in Form E.
 
-(4) Where the registration officer refuses an application under section 6, 7, 8 or 9 of the 1985 Act, he shall notify the applicant in writing[^key-751df9a818fb097ff60e6b5e4aad046e] of his decision and, in the case of an application under section 6(1) or 9(4), of the reasons for it; and he shall date such a notification.
+(4) Where the registration officer refuses an application under section 6, 7, 8 or 9 of the 1985 Act, he shall notify the applicant in writing[^c-751df9a818fb097ff60e6b5e4aad046e] of his decision and, in the case of an application under section 6(1) or 9(4), of the reasons for it; and he shall date such a notification.
 
-(5) Where under regulation 61(1) or 61(4) the registration officer disregards an application for the purposes of a particular election, he shall, where practicable, notify the applicant in writing[^key-0faa18961ccbd963c49c0cd28cbee1b6] of this.
+(5) Where under regulation 61(1) or 61(4) the registration officer disregards an application for the purposes of a particular election, he shall, where practicable, notify the applicant in writing[^c-0faa18961ccbd963c49c0cd28cbee1b6] of this.
 
-(6)[^key-4b3d3acd5772e76f34ba57fcdae2e1e2] Paragraphs (7) and (8) apply in the following situations—
+(6)[^c-4b3d3acd5772e76f34ba57fcdae2e1e2] Paragraphs (7) and (8) apply in the following situations—
 
 - (a) where a person makes an application to vote by post under section 6(1) of the 1985 Act (application for postal vote for indefinite period) and the addresses provided in accordance with section 6(6) of that Act (address to which ballot paper should be sent) and regulation 55(2)(b) (address in the register) are different;
 - (b) where a person makes an application to vote by post under section 7(1) of the 1985 Act (application for postal vote for a particular election) and the addresses provided in accordance with section 7(5) of that Act (address to which ballot paper should be sent) and regulation 55(2)(b) (address in the register) are different;
@@ -58,14 +58,14 @@ summary: ''
 
 ## Annotations
 
-[^key-9b9686ac0b2be9f04acccbc7e8eb41a5]: Modification: [Reg. 62](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 78](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/78)
+[^c-9b9686ac0b2be9f04acccbc7e8eb41a5]: Modification: [Reg. 62](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 78](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/78)
 
-[^key-6f05069c5279c6e83726c588246b7409]: Textual amendment: Words in [reg. 62(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62/1) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [11(10)](https://www.legislation.gov.uk/uksi/2018/699/regulation/11/10)
+[^c-6f05069c5279c6e83726c588246b7409]: Textual amendment: Words in [reg. 62(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62/1) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [11(10)](https://www.legislation.gov.uk/uksi/2018/699/regulation/11/10)
 
-[^key-ff786b59357707b741e0912f28bdc1db]: Textual amendment: Words in [reg. 62(3)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62/3) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-ff786b59357707b741e0912f28bdc1db]: Textual amendment: Words in [reg. 62(3)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62/3) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-751df9a818fb097ff60e6b5e4aad046e]: Textual amendment: Words in [reg. 62(4)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62/4) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [11(10)](https://www.legislation.gov.uk/uksi/2018/699/regulation/11/10)
+[^c-751df9a818fb097ff60e6b5e4aad046e]: Textual amendment: Words in [reg. 62(4)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62/4) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [11(10)](https://www.legislation.gov.uk/uksi/2018/699/regulation/11/10)
 
-[^key-0faa18961ccbd963c49c0cd28cbee1b6]: Textual amendment: Words in [reg. 62(5)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62/5) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [11(10)](https://www.legislation.gov.uk/uksi/2018/699/regulation/11/10)
+[^c-0faa18961ccbd963c49c0cd28cbee1b6]: Textual amendment: Words in [reg. 62(5)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62/5) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [11(10)](https://www.legislation.gov.uk/uksi/2018/699/regulation/11/10)
 
-[^key-4b3d3acd5772e76f34ba57fcdae2e1e2]: Textual amendment: [Reg. 62(6)-(10)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62/6) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2023/1116/regulation/8)
+[^c-4b3d3acd5772e76f34ba57fcdae2e1e2]: Textual amendment: [Reg. 62(6)-(10)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/62/6) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2023/1116/regulation/8)

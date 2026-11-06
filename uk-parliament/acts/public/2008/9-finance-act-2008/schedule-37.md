@@ -26,7 +26,7 @@ Section 115
 
 **1.** TMA 1970 is amended as follows.
 
-**2.**[^key-638b22e70d048b2ffc273ccb66a72111] (1) Section 12B (records to be kept for purposes of income tax and capital gains tax returns) is amended as follows.
+**2.**[^c-638b22e70d048b2ffc273ccb66a72111] (1) Section 12B (records to be kept for purposes of income tax and capital gains tax returns) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -60,7 +60,7 @@ Section 115
 > - (a) make different provision for different cases, and
 > - (b) make provision by reference to things specified in a notice published by the Commissioners for Her Majesty's Revenue and Customs in accordance with the regulations (and not withdrawn by a subsequent notice).
 
-**3.**[^key-e032d7a7188d9ab1018bb06e33b5a1f6] (1) Paragraph 2A of Schedule 1A (records to be kept for the purposes of claims) is amended as follows.
+**3.**[^c-e032d7a7188d9ab1018bb06e33b5a1f6] (1) Paragraph 2A of Schedule 1A (records to be kept for the purposes of claims) is amended as follows.
 
 (2) After sub-paragraph (2) insert—
 
@@ -93,7 +93,7 @@ Section 115
 
 **4.** Schedule 11 to VATA 1994 (administration, collection and enforcement) is amended as follows.
 
-**5.**[^key-2a82e31cfba8d3a3633a4775c93bf0d0] (1) Paragraph 6 (duty to keep records) is amended as follows.
+**5.**[^c-2a82e31cfba8d3a3633a4775c93bf0d0] (1) Paragraph 6 (duty to keep records) is amended as follows.
 
 (2) In sub-paragraph (3), for “require”, in the second place, substitute “ specify in writing (and different periods may be specified for different cases) ”.
 
@@ -106,7 +106,7 @@ Section 115
 >
 > subject to any conditions or exceptions specified in writing by the Commissioners for Her Majesty's Revenue and Customs.
 
-**6.**[^key-c5007040c1c4c72d9bfd958f15a63023] In paragraph 6A(7) (application of provisions of paragraph 6 where directions under paragraph 6A require records to be kept)—
+**6.**[^c-c5007040c1c4c72d9bfd958f15a63023] In paragraph 6A(7) (application of provisions of paragraph 6 where directions under paragraph 6A require records to be kept)—
 
 - (a) for “Sub-paragraphs (4) to (6) of paragraph 6 (preservation of information by means approved by the Commissioners) apply” substitute “ Sub-paragraph (4) of paragraph 6 (preservation of information) applies ”, and
 - (b) for “they apply” substitute “ it applies ”.
@@ -115,7 +115,7 @@ Section 115
 
 **7.** Schedule 18 to FA 1998 (company tax returns) is amended as follows.
 
-**8.**[^key-6381f999eddcd65e2fe60310e78b2244] (1) Paragraph 21 (duty to keep and preserve records) is amended as follows.
+**8.**[^c-6381f999eddcd65e2fe60310e78b2244] (1) Paragraph 21 (duty to keep and preserve records) is amended as follows.
 
 (2) In sub-paragraph (2), for the words from “for six years” to the end substitute “ until the end of the relevant day. ”
 
@@ -144,7 +144,7 @@ Section 115
 
 (7) In sub-paragraph (6), omit the first sentence.
 
-**9.**[^key-aec81156b2c8b370cf2175036a0d279d] (1) Paragraph 22 (preservation of information instead of original records) is amended as follows.
+**9.**[^c-aec81156b2c8b370cf2175036a0d279d] (1) Paragraph 22 (preservation of information instead of original records) is amended as follows.
 
 (2) For sub-paragraph (1) substitute—
 
@@ -163,31 +163,31 @@ Section 115
 
 ### Consequential provisions
 
-**10.**[^key-ce5a9a01150d4509f0fe867220e4c406] In section 13(6) of FA 1999 (VAT and gold)—
+**10.**[^c-ce5a9a01150d4509f0fe867220e4c406] In section 13(6) of FA 1999 (VAT and gold)—
 
 - (a) for “(6)” substitute “ (4) ”,
 - (b) after “above” insert “ , and to records kept in pursuance of such regulations, ”, and
 - (c) insert at the end “ and to records kept in pursuance of that paragraph ”.
 
-**11.**[^key-7a506e1e6c1e98841210721c8e155220] In consequence of the amendments made by paragraph 2 omit—
+**11.**[^c-7a506e1e6c1e98841210721c8e155220] In consequence of the amendments made by paragraph 2 omit—
 
 - (a) section 105(4)(b) of FA 1995, and
 - (b) section 124(2) and (6) of FA 1996.
 
 ## Annotations
 
-[^key-638b22e70d048b2ffc273ccb66a72111]: Commencement: [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/2) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
+[^c-638b22e70d048b2ffc273ccb66a72111]: Commencement: [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/2) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
 
-[^key-e032d7a7188d9ab1018bb06e33b5a1f6]: Commencement: [Sch. 37 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/3) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
+[^c-e032d7a7188d9ab1018bb06e33b5a1f6]: Commencement: [Sch. 37 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/3) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
 
-[^key-2a82e31cfba8d3a3633a4775c93bf0d0]: Commencement: [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/5) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
+[^c-2a82e31cfba8d3a3633a4775c93bf0d0]: Commencement: [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/5) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
 
-[^key-c5007040c1c4c72d9bfd958f15a63023]: Commencement: [Sch. 37 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/6) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
+[^c-c5007040c1c4c72d9bfd958f15a63023]: Commencement: [Sch. 37 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/6) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
 
-[^key-6381f999eddcd65e2fe60310e78b2244]: Commencement: [Sch. 37 para. 8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/8) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
+[^c-6381f999eddcd65e2fe60310e78b2244]: Commencement: [Sch. 37 para. 8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/8) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
 
-[^key-aec81156b2c8b370cf2175036a0d279d]: Commencement: [Sch. 37 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/9) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
+[^c-aec81156b2c8b370cf2175036a0d279d]: Commencement: [Sch. 37 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/9) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
 
-[^key-ce5a9a01150d4509f0fe867220e4c406]: Commencement: [Sch. 37 para. 10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/10) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
+[^c-ce5a9a01150d4509f0fe867220e4c406]: Commencement: [Sch. 37 para. 10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/10) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
 
-[^key-7a506e1e6c1e98841210721c8e155220]: Commencement: [Sch. 37 para. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/11) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
+[^c-7a506e1e6c1e98841210721c8e155220]: Commencement: [Sch. 37 para. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/11) in force at 1.4.2009 for the purposes of the amendments made by that paragraph by [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)

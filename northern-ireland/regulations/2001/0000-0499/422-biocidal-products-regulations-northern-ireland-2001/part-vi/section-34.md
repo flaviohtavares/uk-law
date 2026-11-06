@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. General provisions on applications for authorisations and registrations[^key-cbc3e4f5e97a6f3e71113b64414ed5b6]
+## 34. General provisions on applications for authorisations and registrations[^c-cbc3e4f5e97a6f3e71113b64414ed5b6]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ shall be made to the Executive by, or on behalf of, the person responsible for f
 
 ## Annotations
 
-[^key-cbc3e4f5e97a6f3e71113b64414ed5b6]: Commencement: Reg. 34 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-cbc3e4f5e97a6f3e71113b64414ed5b6]: Commencement: Reg. 34 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

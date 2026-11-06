@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Disposal of vehicle by police officer[^key-637ebb98230451936e9e4aab8345e4a7]
+## 12. Disposal of vehicle by police officer[^c-637ebb98230451936e9e4aab8345e4a7]
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 .
 
-(4)[^key-52d8c2e7d254779c6537fd91f878a611] In that paragraph, in sub-paragraph (c)(ii) after the words “the notice was served” insert “ or such other period as may be prescribed ”.
+(4)[^c-52d8c2e7d254779c6537fd91f878a611] In that paragraph, in sub-paragraph (c)(ii) after the words “the notice was served” insert “ or such other period as may be prescribed ”.
 
 (5) In that paragraph, omit the words from “but, in a case” to the end.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-637ebb98230451936e9e4aab8345e4a7]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/23/section/12) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/13/article/4))
+[^c-637ebb98230451936e9e4aab8345e4a7]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/23/section/12) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/13/article/4))
 
-[^key-52d8c2e7d254779c6537fd91f878a611]: Commencement: [S. 12(4)](https://www.legislation.gov.uk/nia/2011/23/section/12/4) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/13/article/4))
+[^c-52d8c2e7d254779c6537fd91f878a611]: Commencement: [S. 12(4)](https://www.legislation.gov.uk/nia/2011/23/section/12/4) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/13/article/4))

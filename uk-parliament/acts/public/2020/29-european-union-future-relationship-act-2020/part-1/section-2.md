@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Retention of information received from member States[^key-521d6e935f0353aff7e1a2e3e41d2625]
+## 2. Retention of information received from member States[^c-521d6e935f0353aff7e1a2e3e41d2625]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-521d6e935f0353aff7e1a2e3e41d2625]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/29/section/2) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/b)
+[^c-521d6e935f0353aff7e1a2e3e41d2625]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/29/section/2) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/b)

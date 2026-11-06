@@ -23,9 +23,9 @@ summary: ''
 (1) In this Act a reference to the plated gross weight of a goods vehicle or trailer is a reference—
 
 - (a) in the case of a trailer which may lawfully be used in Great Britain without a Ministry plate (within the meaning of regulations under section 41 or 49 of the [^c12511171]Road Traffic Act 1988), to the maximum laden weight at which the trailer may lawfully be used in Great Britain, and
-- (b) otherwise, to the weight which is the maximum gross weight which may not be equalled or[^key-e9e93ab309bf70ecbce7afd5fef6bdb1] exceeded in Great Britain for the vehicle or trailer as indicated on the appropriate plate.
+- (b) otherwise, to the weight which is the maximum gross weight which may not be equalled or[^c-e9e93ab309bf70ecbce7afd5fef6bdb1] exceeded in Great Britain for the vehicle or trailer as indicated on the appropriate plate.
 
-(2) In this Act a reference to the plated train weight of a vehicle is a reference to the weight which is the maximum gross weight which may not be equalled or[^key-61d5b28aa1e1cb31f9a942db309fa705] exceeded in Great Britain for an articulated vehicle consisting of the vehicle and any semi-trailer which may be drawn by it as indicated on the appropriate plate.
+(2) In this Act a reference to the plated train weight of a vehicle is a reference to the weight which is the maximum gross weight which may not be equalled or[^c-61d5b28aa1e1cb31f9a942db309fa705] exceeded in Great Britain for an articulated vehicle consisting of the vehicle and any semi-trailer which may be drawn by it as indicated on the appropriate plate.
 
 (3) In subsections (1) and (2) “**appropriate plate**”, in relation to a vehicle or trailer, means—
 
@@ -57,9 +57,9 @@ he may by regulations provide for references in this section to a plating certif
 
 [^c12511171]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-e9e93ab309bf70ecbce7afd5fef6bdb1]: Textual amendment: Words in [s. 61(1)(b)](https://www.legislation.gov.uk/ukpga/1994/22/section/61/1/b) inserted (with effect in accordance with s. 90(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 90(3)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/90/3/a)
+[^c-e9e93ab309bf70ecbce7afd5fef6bdb1]: Textual amendment: Words in [s. 61(1)(b)](https://www.legislation.gov.uk/ukpga/1994/22/section/61/1/b) inserted (with effect in accordance with s. 90(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 90(3)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/90/3/a)
 
-[^key-61d5b28aa1e1cb31f9a942db309fa705]: Textual amendment: Words in [s. 61(2)](https://www.legislation.gov.uk/ukpga/1994/22/section/61/2) inserted (with effect in accordance with s. 90(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 90(3)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/90/3/b)
+[^c-61d5b28aa1e1cb31f9a942db309fa705]: Textual amendment: Words in [s. 61(2)](https://www.legislation.gov.uk/ukpga/1994/22/section/61/2) inserted (with effect in accordance with s. 90(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 90(3)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/90/3/b)
 
 [^c12511181]: Textual amendment: Words in s. 61(3)(a) inserted (1.5.1995 with effect as mentioned in [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/paragraph/29) of the amending Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 19](https://www.legislation.gov.uk/ukpga/1995/4/section/19), [Sch. 4 paras. 27(1)(a)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/paragraph/27/1/a), [29](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/paragraph/29)
 

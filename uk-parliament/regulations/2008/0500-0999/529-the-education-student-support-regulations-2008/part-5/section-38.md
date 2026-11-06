@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Students who are treated as in attendance[^key-1024895e420e0c569f722d85f79bfcaf]
+## 38. Students who are treated as in attendance[^c-1024895e420e0c569f722d85f79bfcaf]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1024895e420e0c569f722d85f79bfcaf]: Commencement: Reg. 38 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-1024895e420e0c569f722d85f79bfcaf]: Commencement: Reg. 38 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

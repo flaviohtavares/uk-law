@@ -49,7 +49,7 @@ In accordance with section 4 of the Scottish Civil Justice Council and Criminal 
 
 The Court of Session therefore makes this Act of Sederunt under the powers conferred by sections 103(1) and 104(1) of the Courts Reform (Scotland) Act 2014[^f00002] and all other powers enabling it to do so.
 
-## 1. Citation and commencement, etc.[^key-7bbae05c811c35123c3fa37410ba8052]
+## 1. Citation and commencement, etc.[^c-7bbae05c811c35123c3fa37410ba8052]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015.
 
@@ -59,7 +59,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (4) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Act of Sederunt (Expenses of Party Litigants) 1976[^key-517086daf6ddcbc7e5a07ded3df0a0f5]
+## 2. Amendment of the Act of Sederunt (Expenses of Party Litigants) 1976[^c-517086daf6ddcbc7e5a07ded3df0a0f5]
 
 (1) The Act of Sederunt (Expenses of Party Litigants) 1976[^f00003] is amended in accordance with this paragraph.
 
@@ -72,7 +72,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
   - (i) in subparagraph (a), after “the Court of Session” insert “, the Sheriff Appeal Court”;
   - (ii) omit subparagraph (d).
 
-## 3. Amendment of the Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986[^key-e625e44998f39c6612fe45cd5cfaf31d]
+## 3. Amendment of the Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986[^c-e625e44998f39c6612fe45cd5cfaf31d]
 
 (1) The Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986[^f00004] is amended in accordance with this paragraph.
 
@@ -97,7 +97,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 .
 
-## 4. Amendment of the Act of Sederunt (Proceedings in the Sheriff Court under the Debtors (Scotland) Act 1987) 1988[^key-09cdc12d53299fdd0edcc320a35d6712]
+## 4. Amendment of the Act of Sederunt (Proceedings in the Sheriff Court under the Debtors (Scotland) Act 1987) 1988[^c-09cdc12d53299fdd0edcc320a35d6712]
 
 (1) The Act of Sederunt (Proceedings in the Sheriff Court under the Debtors (Scotland) Act 1987) 1988[^f00006] is amended in accordance with this paragraph.
 
@@ -128,7 +128,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
   ;
 - (e) omit paragraph (6).
 
-## 5. Amendment of the Ordinary Cause Rules 1993[^key-ee5b3e0374c1d40fecab6af7cc7123b3]
+## 5. Amendment of the Ordinary Cause Rules 1993[^c-ee5b3e0374c1d40fecab6af7cc7123b3]
 
 (1) The Ordinary Cause Rules 1993[^f00008] are amended in accordance with this paragraph.
 
@@ -223,7 +223,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (16) In Appendix 1 (forms), omit Form A1 (form of note of appeal to the sheriff principal)[^f00018].
 
-## 6. Amendment of the Act of Sederunt (Summary Suspension) 1993[^key-ccc969a4d6fa707b0581c4bb590d001e]
+## 6. Amendment of the Act of Sederunt (Summary Suspension) 1993[^c-ccc969a4d6fa707b0581c4bb590d001e]
 
 (1) The Act of Sederunt (Summary Suspension) 1993[^f00019] is amended in accordance with this paragraph.
 
@@ -231,7 +231,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) In paragraph 4 (objections), for “sheriff principal” substitute “Sheriff Appeal Court”.
 
-## 7. Amendment of the Rules of the Court of Session 1994[^key-0c9100b09b65f1f52b697b74415ab158]
+## 7. Amendment of the Rules of the Court of Session 1994[^c-0c9100b09b65f1f52b697b74415ab158]
 
 (1) The Rules of the Court of Session 1994[^f00021] are amended in accordance with this paragraph.
 
@@ -282,7 +282,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - (a) after “a sheriff court,” insert “the Sheriff Appeal Court,”;
 - (b) for “Part III of the Social Work (Scotland) Act 1968” substitute “the Children’s Hearings (Scotland) Act 2011[^f00028]”.
 
-## 8. Amendment of the Act of Sederunt (Child Care and Maintenance Rules) 1997[^key-d78d7125dd413e9f7a4ace13cd1ab1ea]
+## 8. Amendment of the Act of Sederunt (Child Care and Maintenance Rules) 1997[^c-d78d7125dd413e9f7a4ace13cd1ab1ea]
 
 (1) The Act of Sederunt (Child Care and Maintenance Rules) 1997[^f00029] is amended in accordance with this paragraph.
 
@@ -310,7 +310,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - (c) omit rule 3.61A (leave of the sheriff principal to appeal to the Court of Session)[^f00035];
 - (d) in rule 3.66 (extent of application of Part XI of Chapter 3)[^f00036], omit “or an appeal is made under Part 15 of the 2011 Act”.
 
-## 9. Amendment of the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999[^key-fa3bb8b4dd1ecaefcdb7dafb425d2706]
+## 9. Amendment of the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999[^c-fa3bb8b4dd1ecaefcdb7dafb425d2706]
 
 (1) The Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999[^f00037] is amended in accordance with this paragraph.
 
@@ -334,7 +334,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - (a) in paragraph (8), for “marked” substitute “made”;
 - (b) in paragraph (9), for “mark” substitute “make”.
 
-## 10. Amendment of the Act of Sederunt (Proceedings for Determination of Devolution Issues Rules) 1999[^key-a3a015ca9a764b77e9fc53544bb9eb0f]
+## 10. Amendment of the Act of Sederunt (Proceedings for Determination of Devolution Issues Rules) 1999[^c-a3a015ca9a764b77e9fc53544bb9eb0f]
 
 (1) The Act of Sederunt (Proceedings for Determination of Devolution Issues Rules) 1999[^f00042] is amended in accordance with this paragraph.
 
@@ -344,7 +344,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (4) In Schedule 1 (forms), in Form 2A (form of intimation to relevant authority of appeal in proceedings in which a devolution issue has been raised)[^f00046], for “marked” substitute “made”.
 
-## 11. Amendment of the Summary Cause Rules 2002[^key-552314a0c2ccbf429167560a608e19e0]
+## 11. Amendment of the Summary Cause Rules 2002[^c-552314a0c2ccbf429167560a608e19e0]
 
 (1) The Summary Cause Rules 2002[^f00047] are amended in accordance with this paragraph.
 
@@ -399,7 +399,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (9) In Appendix 2 (glossary), in the term “stated case”, for “sheriff principal” substitute “Sheriff Appeal Court”.
 
-## 12. Amendment of the Small Claim Rules 2002[^key-bfd7d437917a5a554e77ae128d96d392]
+## 12. Amendment of the Small Claim Rules 2002[^c-bfd7d437917a5a554e77ae128d96d392]
 
 (1) The Small Claim Rules 2002[^f00052] are amended in accordance with this paragraph.
 
@@ -424,7 +424,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
     - (bb) omit “by note of appeal”;
   - (ii) in paragraph (2), for “a note of appeal” substitute “Form 21”;
   - (iii) in paragraph (3), for “a note of appeal” substitute “Form 21”;
-  - (iv)[^key-c9ce5957158d765aeb6f3269df8353f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-c9ce5957158d765aeb6f3269df8353f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (v) the heading becomes “Appeals: application for stated case”;
 - (b) omit rules 23.2 (effect of and abandonment of appeal) and 23.3 (hearing of appeal);
 - (c) in rule 23.4 (appeal in relation to a time to pay direction)—
@@ -442,7 +442,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (5) In Appendix 2 (glossary), in the term “stated case”, for “sheriff principal” substitute “Sheriff Appeal Court”.
 
-## 13. Amendment of the Rules for Applications in the Sheriff Court under the Debt Arrangement and Attachment (Scotland) Act 2002[^key-ef688ba9c8a62805beec0cc7dc2bb941]
+## 13. Amendment of the Rules for Applications in the Sheriff Court under the Debt Arrangement and Attachment (Scotland) Act 2002[^c-ef688ba9c8a62805beec0cc7dc2bb941]
 
 (1) The Rules for Applications in the Sheriff Court under the Debt Arrangement and Attachment (Scotland) Act 2002[^f00056] are amended in accordance with this paragraph.
 
@@ -456,7 +456,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) In Appendix 2 (glossary), in the term “stated case”, for “sheriff principal” substitute “Sheriff Appeal Court”.
 
-## 14. Amendment of the Sheriff Court Bankruptcy Rules[^key-c7909859c5e3eb50c9fb4970bd463026]
+## 14. Amendment of the Sheriff Court Bankruptcy Rules[^c-c7909859c5e3eb50c9fb4970bd463026]
 
 (1) The Sheriff Court Bankruptcy Rules[^f00058] are amended in accordance with this paragraph.
 
@@ -500,7 +500,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 .
 
-## 15. Amendment of the Sheriff Court Adoption Rules 2009[^key-0bf52bd458ece9b8981d7583a1901460]
+## 15. Amendment of the Sheriff Court Adoption Rules 2009[^c-0bf52bd458ece9b8981d7583a1901460]
 
 (1) The Sheriff Court Adoption Rules 2009[^f00065] are amended in accordance with this paragraph.
 
@@ -517,7 +517,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 .
 
-## 16. Amendment of the Money Attachment Rules 2009[^key-5925555cfa401b6fc8a82014d87259f8]
+## 16. Amendment of the Money Attachment Rules 2009[^c-5925555cfa401b6fc8a82014d87259f8]
 
 (1) The Money Attachment Rules 2009[^f00068] are amended in accordance with this paragraph.
 
@@ -530,7 +530,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
   .
 
-## 17. Amendment of the Act of Sederunt (Contempt of Court in Civil Proceedings) 2011[^key-0cf0ac14c46f61ef1779bf5d7778950a]
+## 17. Amendment of the Act of Sederunt (Contempt of Court in Civil Proceedings) 2011[^c-0cf0ac14c46f61ef1779bf5d7778950a]
 
 (1) The Act of Sederunt (Contempt of Court in Civil Proceedings) 2011[^f00070] is amended in accordance with this paragraph.
 
@@ -556,7 +556,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 .
 
-## 18. Amendment of the Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015[^key-e645abc323a45435001ac012a7445358]
+## 18. Amendment of the Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015[^c-e645abc323a45435001ac012a7445358]
 
 (1) The Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015[^f00073] is amended in accordance with this paragraph.
 
@@ -568,7 +568,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 .
 
-## 19. Amendment of the Act of Sederunt (Sheriff Appeal Court Rules) 2015[^key-1028dabe0911f7520a90943fd7f5ece0][^key-1028dabe0911f7520a90943fd7f5ece0]
+## 19. Amendment of the Act of Sederunt (Sheriff Appeal Court Rules) 2015[^c-1028dabe0911f7520a90943fd7f5ece0][^c-1028dabe0911f7520a90943fd7f5ece0]
 
 (1) The Act of Sederunt (Sheriff Appeal Court Rules) 2015[^f00074] is amended in accordance with this paragraph.
 
@@ -667,7 +667,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
   - (ii) the title of the Form becomes “Grounds of appeal in cross-appeal”;
 - (c) in Form 13.1 (Form of motion by email), in paragraph 11, for “5 p.m.” substitute “1700 hours”.
 
-## 20. Saving provisions[^key-7275778ce3a730bcce6f16b006b3ddcd]
+## 20. Saving provisions[^c-7275778ce3a730bcce6f16b006b3ddcd]
 
 (1) The following acts of sederunt as they applied immediately before 1st January 2016 continue to apply for the purposes of an appeal against a decision of the sheriff made before 1st January 2016—
 
@@ -751,25 +751,25 @@ The Act of Sederunt comes into force on 1st January 2016, except paragraph 19 wh
 
 [^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-7bbae05c811c35123c3fa37410ba8052]: Commencement: Para. 1 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-7bbae05c811c35123c3fa37410ba8052]: Commencement: Para. 1 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
-[^key-517086daf6ddcbc7e5a07ded3df0a0f5]: Commencement: Para. 2 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-517086daf6ddcbc7e5a07ded3df0a0f5]: Commencement: Para. 2 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00003]: Footnote: [S.I. 1976/1606](https://www.legislation.gov.uk/uksi/1976/1606), amended by [S.I. 1983/1438](https://www.legislation.gov.uk/uksi/1983/1438).
 
-[^key-e625e44998f39c6612fe45cd5cfaf31d]: Commencement: Para. 3 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-e625e44998f39c6612fe45cd5cfaf31d]: Commencement: Para. 3 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00004]: Footnote: [S.I. 1986/2297](https://www.legislation.gov.uk/uksi/1986/2297), last amended by [S.S.I. 2014/119](https://www.legislation.gov.uk/ssi/2014/119).
 
 [^f00005]: Footnote: [S.S.I. 2015/356](https://www.legislation.gov.uk/ssi/2015/356).
 
-[^key-09cdc12d53299fdd0edcc320a35d6712]: Commencement: Para. 4 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-09cdc12d53299fdd0edcc320a35d6712]: Commencement: Para. 4 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00006]: Footnote: [S.I. 1988/2013](https://www.legislation.gov.uk/uksi/1988/2013), last amended by [S.S.I. 2009/294](https://www.legislation.gov.uk/ssi/2009/294).
 
 [^f00007]: Footnote: [S.S.I. 2015/356](https://www.legislation.gov.uk/ssi/2015/356).
 
-[^key-ee5b3e0374c1d40fecab6af7cc7123b3]: Commencement: Para. 5 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-ee5b3e0374c1d40fecab6af7cc7123b3]: Commencement: Para. 5 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00008]: Footnote: The Ordinary Cause Rules 1993 are in Schedule 1 to the Sheriff Courts (Scotland) Act [1907 (c. 51)](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and was last amended by [S.S.I. 2015/312](https://www.legislation.gov.uk/ssi/2015/312).
 
@@ -793,13 +793,13 @@ The Act of Sederunt comes into force on 1st January 2016, except paragraph 19 wh
 
 [^f00018]: Footnote: Form A1 was inserted by [S.S.I. 1996/2445](https://www.legislation.gov.uk/ssi/1996/2445).
 
-[^key-ccc969a4d6fa707b0581c4bb590d001e]: Commencement: Para. 6 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-ccc969a4d6fa707b0581c4bb590d001e]: Commencement: Para. 6 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00019]: Footnote: [S.I. 1993/3128](https://www.legislation.gov.uk/uksi/1993/3128).
 
 [^f00020]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-0c9100b09b65f1f52b697b74415ab158]: Commencement: Para. 7 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-0c9100b09b65f1f52b697b74415ab158]: Commencement: Para. 7 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00021]: Footnote: The Rules of the Court of Session 1994 are in Schedule 2 to the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2015/408](https://www.legislation.gov.uk/ssi/2015/408)).
 
@@ -817,7 +817,7 @@ The Act of Sederunt comes into force on 1st January 2016, except paragraph 19 wh
 
 [^f00028]: Footnote: [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1).
 
-[^key-d78d7125dd413e9f7a4ace13cd1ab1ea]: Commencement: Para. 8 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-d78d7125dd413e9f7a4ace13cd1ab1ea]: Commencement: Para. 8 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00029]: Footnote: [S.I. 1997/291](https://www.legislation.gov.uk/uksi/1997/291), last amended by [S.S.I. 2015/283](https://www.legislation.gov.uk/ssi/2015/283).
 
@@ -835,7 +835,7 @@ The Act of Sederunt comes into force on 1st January 2016, except paragraph 19 wh
 
 [^f00036]: Footnote: Rule 3.66 was inserted by [S.S.I. 2005/190](https://www.legislation.gov.uk/ssi/2005/190) and amended by [S.S.I. 2013/172](https://www.legislation.gov.uk/ssi/2013/172).
 
-[^key-fa3bb8b4dd1ecaefcdb7dafb425d2706]: Commencement: Para. 9 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-fa3bb8b4dd1ecaefcdb7dafb425d2706]: Commencement: Para. 9 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00037]: Footnote: [S.I. 1999/929](https://www.legislation.gov.uk/uksi/1999/929), last amended by [S.S.I. 2015/283](https://www.legislation.gov.uk/ssi/2015/283).
 
@@ -847,7 +847,7 @@ The Act of Sederunt comes into force on 1st January 2016, except paragraph 19 wh
 
 [^f00041]: Footnote: Rule 3.45.11 was inserted by [S.S.I. 2014/371](https://www.legislation.gov.uk/ssi/2014/371).
 
-[^key-a3a015ca9a764b77e9fc53544bb9eb0f]: Commencement: Para. 10 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-a3a015ca9a764b77e9fc53544bb9eb0f]: Commencement: Para. 10 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00042]: Footnote: [S.I. 1999/1347](https://www.legislation.gov.uk/uksi/1999/1347), last amended by [S.S.I. 2009/323](https://www.legislation.gov.uk/ssi/2009/323).
 
@@ -859,7 +859,7 @@ The Act of Sederunt comes into force on 1st January 2016, except paragraph 19 wh
 
 [^f00046]: Footnote: Form 2A was inserted by [S.S.I. 2007/362](https://www.legislation.gov.uk/ssi/2007/362).
 
-[^key-552314a0c2ccbf429167560a608e19e0]: Commencement: Para. 11 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-552314a0c2ccbf429167560a608e19e0]: Commencement: Para. 11 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00047]: Footnote: The Summary Cause Rules 2002 are in Schedule 1 to the Act of Sederunt (Summary Cause Rules) 2002 ([S.S.I. 2002/132](https://www.legislation.gov.uk/ssi/2002/132), last amended by [S.S.I. 2015/283](https://www.legislation.gov.uk/ssi/2015/283)).
 
@@ -871,23 +871,23 @@ The Act of Sederunt comes into force on 1st January 2016, except paragraph 19 wh
 
 [^f00051]: Footnote: Appendix 1 was last amended by [S.S.I. 2015/283](https://www.legislation.gov.uk/ssi/2015/283).
 
-[^key-bfd7d437917a5a554e77ae128d96d392]: Commencement: Para. 12 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-bfd7d437917a5a554e77ae128d96d392]: Commencement: Para. 12 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00052]: Footnote: The Small Claim Rules 2002 are in Schedule 1 to the Act of Sederunt (Small Claim Rules) 2002 ([S.S.I. 2002/133](https://www.legislation.gov.uk/ssi/2002/133), last amended by [S.S.I. 2015/283](https://www.legislation.gov.uk/ssi/2015/283)).
 
 [^f00053]: Footnote: Rule 21.6 was last amended by [S.S.I. 2009/164](https://www.legislation.gov.uk/ssi/2009/164).
 
-[^key-c9ce5957158d765aeb6f3269df8353f0]: Textual amendment: [Para. 12(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/12/3/a/iv) revoked (7.7.2016) by [Act of Sederunt (Sheriff Appeal Court Rules 2015 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/194)](https://www.legislation.gov.uk/ssi/2016/194), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/1/2), [8(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/8/2)
+[^c-c9ce5957158d765aeb6f3269df8353f0]: Textual amendment: [Para. 12(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/12/3/a/iv) revoked (7.7.2016) by [Act of Sederunt (Sheriff Appeal Court Rules 2015 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/194)](https://www.legislation.gov.uk/ssi/2016/194), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/1/2), [8(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/8/2)
 
 [^f00055]: Footnote: Appendix 1 was last amended by [S.S.I. 2015/283](https://www.legislation.gov.uk/ssi/2015/283).
 
-[^key-ef688ba9c8a62805beec0cc7dc2bb941]: Commencement: Para. 13 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-ef688ba9c8a62805beec0cc7dc2bb941]: Commencement: Para. 13 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00056]: Footnote: The Rules for Applications in the Sheriff Court under the Debt Arrangement and Attachment (Scotland) Act 2002 are in Schedule 1 to the Act of Sederunt (Debt Arrangement and Attachment (Scotland) Act 2002) 2002 ([S.S.I. 2002/560](https://www.legislation.gov.uk/ssi/2002/560), last amended by [S.S.I. 2015/283](https://www.legislation.gov.uk/ssi/2015/283)).
 
 [^f00057]: Footnote: [S.S.I. 2015/356](https://www.legislation.gov.uk/ssi/2015/356).
 
-[^key-c7909859c5e3eb50c9fb4970bd463026]: Commencement: Para. 14 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-c7909859c5e3eb50c9fb4970bd463026]: Commencement: Para. 14 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00058]: Footnote: The Sheriff Court Bankruptcy Rules are in the Schedule to the Act of Sederunt (Sheriff Court Bankruptcy Rules) 2008 ([S.S.I. 2008/119](https://www.legislation.gov.uk/ssi/2008/119), last amended by [S.S.I. 2015/119](https://www.legislation.gov.uk/ssi/2015/119)).
 
@@ -903,7 +903,7 @@ The Act of Sederunt comes into force on 1st January 2016, except paragraph 19 wh
 
 [^f00064]: Footnote: [S.S.I. 2015/356](https://www.legislation.gov.uk/ssi/2015/356).
 
-[^key-0bf52bd458ece9b8981d7583a1901460]: Commencement: Para. 15 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-0bf52bd458ece9b8981d7583a1901460]: Commencement: Para. 15 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00065]: Footnote: The Sheriff Court Adoption Rules 2009 are in the Schedule to the Act of Sederunt (Sheriff Court Rules Amendment) (Adoption and Children (Scotland) Act 2007) 2009 ([S.S.I. 2009/284](https://www.legislation.gov.uk/ssi/2009/284), last amended by [S.S.I. 2015/5](https://www.legislation.gov.uk/ssi/2015/5)).
 
@@ -911,13 +911,13 @@ The Act of Sederunt comes into force on 1st January 2016, except paragraph 19 wh
 
 [^f00067]: Footnote: [S.S.I. 2015/356](https://www.legislation.gov.uk/ssi/2015/356).
 
-[^key-5925555cfa401b6fc8a82014d87259f8]: Commencement: Para. 16 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-5925555cfa401b6fc8a82014d87259f8]: Commencement: Para. 16 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00068]: Footnote: The Money Attachment Rules 2009 are in the Schedule to the Act of Sederunt (Money Attachment Rules) 2009 ([S.S.I. 2009/382](https://www.legislation.gov.uk/ssi/2009/382)).
 
 [^f00069]: Footnote: [S.S.I. 2015/356](https://www.legislation.gov.uk/ssi/2015/356).
 
-[^key-0cf0ac14c46f61ef1779bf5d7778950a]: Commencement: Para. 17 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-0cf0ac14c46f61ef1779bf5d7778950a]: Commencement: Para. 17 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00070]: Footnote: [S.S.I. 2011/388](https://www.legislation.gov.uk/ssi/2011/388).
 
@@ -925,11 +925,11 @@ The Act of Sederunt comes into force on 1st January 2016, except paragraph 19 wh
 
 [^f00072]: Footnote: [S.S.I. 2015/356](https://www.legislation.gov.uk/ssi/2015/356).
 
-[^key-e645abc323a45435001ac012a7445358]: Commencement: Para. 18 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-e645abc323a45435001ac012a7445358]: Commencement: Para. 18 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00073]: Footnote: [S.S.I. 2015/227](https://www.legislation.gov.uk/ssi/2015/227).
 
-[^key-1028dabe0911f7520a90943fd7f5ece0]: Commencement: Para. 19 in force at 31.12.2015, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/3)
+[^c-1028dabe0911f7520a90943fd7f5ece0]: Commencement: Para. 19 in force at 31.12.2015, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/3)
 
 [^f00074]: Footnote: [S.S.I. 2015/356](https://www.legislation.gov.uk/ssi/2015/356).
 
@@ -937,7 +937,7 @@ The Act of Sederunt comes into force on 1st January 2016, except paragraph 19 wh
 
 [^f00076]: Footnote: Rule 33A.74 was inserted by [S.S.I. 2005/638](https://www.legislation.gov.uk/ssi/2005/638).
 
-[^key-7275778ce3a730bcce6f16b006b3ddcd]: Commencement: Para. 20 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
+[^c-7275778ce3a730bcce6f16b006b3ddcd]: Commencement: Para. 20 in force at 1.1.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2)
 
 [^f00077]: Footnote: [S.I. 1986/2297](https://www.legislation.gov.uk/uksi/1986/2297), last amended by [S.S.I. 2014/119](https://www.legislation.gov.uk/ssi/2014/119).
 

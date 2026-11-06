@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.37. Expenses of statement of affairs[^key-f759813a9d01cff2db64b933f2080fe9]
+## 4.37. Expenses of statement of affairs[^c-f759813a9d01cff2db64b933f2080fe9]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f759813a9d01cff2db64b933f2080fe9]: Commencement: [Rule 4.37](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.37) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f759813a9d01cff2db64b933f2080fe9]: Commencement: [Rule 4.37](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.37) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

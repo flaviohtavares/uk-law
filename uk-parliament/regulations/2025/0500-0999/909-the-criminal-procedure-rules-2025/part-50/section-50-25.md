@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.25. Application for permission to appeal to the Supreme Court[^key-d3d7ccb9e33a7a84440a682906ab156b]
+## 50.25. Application for permission to appeal to the Supreme Court[^c-d3d7ccb9e33a7a84440a682906ab156b]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3d7ccb9e33a7a84440a682906ab156b]: Commencement: [Rule 50.25](https://www.legislation.gov.uk/uksi/2025/909/rule/50.25) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d3d7ccb9e33a7a84440a682906ab156b]: Commencement: [Rule 50.25](https://www.legislation.gov.uk/uksi/2025/909/rule/50.25) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01365]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); sections 32 and 114 were amended by paragraph 81 of Schedule 9 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and section 42 of, and paragraph 8 of Schedule 13 to, the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48).

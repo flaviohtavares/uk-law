@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Mixing property[^key-341b32c5e031e17066c35ffcd0838200]
+## 204. Mixing property[^c-341b32c5e031e17066c35ffcd0838200]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-341b32c5e031e17066c35ffcd0838200]: Commencement: [Art. 204](https://www.legislation.gov.uk/uksi/2005/3181/article/204) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-341b32c5e031e17066c35ffcd0838200]: Commencement: [Art. 204](https://www.legislation.gov.uk/uksi/2005/3181/article/204) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

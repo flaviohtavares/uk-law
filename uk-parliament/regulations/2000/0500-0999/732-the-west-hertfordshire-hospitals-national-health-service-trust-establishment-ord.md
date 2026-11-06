@@ -41,35 +41,35 @@ Coming into force
 
 The Secretary of State for Health, in exercise of the powers conferred on him by section 5(1) of, and paragraphs 1, 3, 4 and 5 of Schedule 2 to, the National Health Service and Community Care Act 1990[^f00001] and of all other powers enabling him in that behalf, having completed the consultation prescribed under section 5(2) of that Act[^f00002], hereby makes the following Order.
 
-## 1. Citation, commencement and interpretation[^key-d85eb5f70e5e9e85c8506f698d0ceccc]
+## 1. Citation, commencement and interpretation[^c-d85eb5f70e5e9e85c8506f698d0ceccc]
 
 (1) This Order may be cited as the West Hertfordshire Hospitals National Health Service Trust (Establishment) Order 2000 and shall come into force on 23rd March 2000.
 
-(2)[^key-79f72115074261a75cdf360e8670f435] In this Order, “**the trust**” means the West Hertfordshire Teaching Hospitals NHS Trust.
+(2)[^c-79f72115074261a75cdf360e8670f435] In this Order, “**the trust**” means the West Hertfordshire Teaching Hospitals NHS Trust.
 
-## 2. Establishment and name of the trust[^key-cd992f7ff8dff7ff7dd13112b3dd1a9a]
+## 2. Establishment and name of the trust[^c-cd992f7ff8dff7ff7dd13112b3dd1a9a]
 
-There is hereby established an NHS trust which shall be called the West Hertfordshire Teaching Hospitals NHS Trust[^key-a1c95a468a36401f9944a7d3106f569c].
+There is hereby established an NHS trust which shall be called the West Hertfordshire Teaching Hospitals NHS Trust[^c-a1c95a468a36401f9944a7d3106f569c].
 
-## 3. Nature and functions of the trust[^key-e1d54b4db52ed3f8cb225806f5759028]
+## 3. Nature and functions of the trust[^c-e1d54b4db52ed3f8cb225806f5759028]
 
 The trust’s functions shall be to provide goods and services, namely hospital accommodation and services and community health services, for the purposes of the health service.
 
-## 4. Directors of the trust[^key-b48be49b393f0e530c02c84f8ae459d4]
+## 4. Directors of the trust[^c-b48be49b393f0e530c02c84f8ae459d4]
 
 (1) The trust shall have, in addition to the chairman, 5 executive directors and 6 non-executive directors.
 
 (2) Since the trust is to be regarded as having a significant teaching commitment within the meaning of paragraph 5(1)(d) of Schedule 4 to the National Health Service Act 2006, one of the non-executive directors must be appointed from University College London.
 
-## 5. Accounting date of the trust[^key-9eca4165984b4f15b4f6124133f5a907]
+## 5. Accounting date of the trust[^c-9eca4165984b4f15b4f6124133f5a907]
 
 The accounting date of the trust shall be 31st March.
 
-## 6. Limited functions before operational date[^key-d9f4154fa82d68a41a49caaca1e95021]
+## 6. Limited functions before operational date[^c-d9f4154fa82d68a41a49caaca1e95021]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Assistance by Health Authorities before operational date[^key-f267093d3aa03f552c237e95b5090403]
+## 7. Assistance by Health Authorities before operational date[^c-f267093d3aa03f552c237e95b5090403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -93,22 +93,22 @@ This Order should be read in conjunction with the Mount Vernon and Watford Hospi
 
 [^f00002]: Footnote: See [S.I. 1996/653](https://www.legislation.gov.uk/uksi/1996/653).
 
-[^key-d85eb5f70e5e9e85c8506f698d0ceccc]: Commencement: Art. 1 in force at 23.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/732/article/1/1)
+[^c-d85eb5f70e5e9e85c8506f698d0ceccc]: Commencement: Art. 1 in force at 23.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/732/article/1/1)
 
-[^key-79f72115074261a75cdf360e8670f435]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2000/732/article/1/2) substituted (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/2/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/1314/article/2/3))
+[^c-79f72115074261a75cdf360e8670f435]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2000/732/article/1/2) substituted (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/2/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/1314/article/2/3))
 
-[^key-cd992f7ff8dff7ff7dd13112b3dd1a9a]: Commencement: Art. 2 in force at 23.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/732/article/1/1)
+[^c-cd992f7ff8dff7ff7dd13112b3dd1a9a]: Commencement: Art. 2 in force at 23.3.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/732/article/1/1)
 
-[^key-a1c95a468a36401f9944a7d3106f569c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/732/article/2) substituted (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1314/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/1314/article/2/3))
+[^c-a1c95a468a36401f9944a7d3106f569c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/732/article/2) substituted (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1314/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/1314/article/2/3))
 
-[^key-e1d54b4db52ed3f8cb225806f5759028]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2000/732/article/3) substituted (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [3](https://www.legislation.gov.uk/uksi/2021/1314/article/3)
+[^c-e1d54b4db52ed3f8cb225806f5759028]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2000/732/article/3) substituted (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [3](https://www.legislation.gov.uk/uksi/2021/1314/article/3)
 
-[^key-b48be49b393f0e530c02c84f8ae459d4]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2000/732/article/4) substituted (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [4](https://www.legislation.gov.uk/uksi/2021/1314/article/4)
+[^c-b48be49b393f0e530c02c84f8ae459d4]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2000/732/article/4) substituted (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [4](https://www.legislation.gov.uk/uksi/2021/1314/article/4)
 
-[^key-9eca4165984b4f15b4f6124133f5a907]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2000/732/article/5) substituted (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [5](https://www.legislation.gov.uk/uksi/2021/1314/article/5)
+[^c-9eca4165984b4f15b4f6124133f5a907]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2000/732/article/5) substituted (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [5](https://www.legislation.gov.uk/uksi/2021/1314/article/5)
 
-[^key-d9f4154fa82d68a41a49caaca1e95021]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2000/732/article/6) revoked (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [6](https://www.legislation.gov.uk/uksi/2021/1314/article/6)
+[^c-d9f4154fa82d68a41a49caaca1e95021]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2000/732/article/6) revoked (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [6](https://www.legislation.gov.uk/uksi/2021/1314/article/6)
 
-[^key-f267093d3aa03f552c237e95b5090403]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2000/732/article/7) revoked (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [6](https://www.legislation.gov.uk/uksi/2021/1314/article/6)
+[^c-f267093d3aa03f552c237e95b5090403]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2000/732/article/7) revoked (1.12.2021) by [The West Hertfordshire Hospitals National Health Service Trust (Establishment) (Amendment) Order 2021 (S.I. 2021/1314)](https://www.legislation.gov.uk/uksi/2021/1314), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1314/article/1/1), [6](https://www.legislation.gov.uk/uksi/2021/1314/article/6)
 
 [^f00003]: Footnote: [S.I. 2000/733](https://www.legislation.gov.uk/uksi/2000/733).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Joint operators of areas[^key-4ad8d69930f0ff1f199d8419d4b6eb01]
+## 70. Joint operators of areas[^c-4ad8d69930f0ff1f199d8419d4b6eb01]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ad8d69930f0ff1f199d8419d4b6eb01]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2012/19/section/70) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-4ad8d69930f0ff1f199d8419d4b6eb01]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2012/19/section/70) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

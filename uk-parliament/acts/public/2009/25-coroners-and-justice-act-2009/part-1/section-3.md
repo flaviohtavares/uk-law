@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Direction for other coroner to conduct investigation[^key-15db2343b46d654dd7335c22380f90d0]
+## 3. Direction for other coroner to conduct investigation[^c-15db2343b46d654dd7335c22380f90d0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15db2343b46d654dd7335c22380f90d0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2009/25/section/3) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-15db2343b46d654dd7335c22380f90d0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2009/25/section/3) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)

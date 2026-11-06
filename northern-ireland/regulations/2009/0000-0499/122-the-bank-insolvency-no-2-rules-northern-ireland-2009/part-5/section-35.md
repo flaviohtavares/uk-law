@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Meaning of “creditors”[^key-fbaf0c1bac4bcf17cb98dce20c436b50]
+## 35. Meaning of “creditors”[^c-fbaf0c1bac4bcf17cb98dce20c436b50]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.048 of the 1991 Rules.
 
 ## Annotations
 
-[^key-fbaf0c1bac4bcf17cb98dce20c436b50]: Commencement: Rule 35 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-fbaf0c1bac4bcf17cb98dce20c436b50]: Commencement: Rule 35 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

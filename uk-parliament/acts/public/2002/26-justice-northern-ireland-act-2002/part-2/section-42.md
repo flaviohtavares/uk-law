@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Independence of Director[^key-406efb7e9f80172848dba95355077112]
+## 42. Independence of Director[^c-406efb7e9f80172848dba95355077112]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-406efb7e9f80172848dba95355077112]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2002/26/section/42) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 13](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/13)
+[^c-406efb7e9f80172848dba95355077112]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2002/26/section/42) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 13](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/13)

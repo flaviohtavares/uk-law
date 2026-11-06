@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Taxpayer notices following a tax return[^key-2f1df296c6e620bfa0dbce80cdca85ec][^key-245c6f1731bc731cc61f8c2916663b6d]
+## 100. Taxpayer notices following a tax return[^c-2f1df296c6e620bfa0dbce80cdca85ec][^c-245c6f1731bc731cc61f8c2916663b6d]
 
 *Extent: E+W*
 
@@ -35,10 +35,10 @@ and the enquiry has not been completed.
 
 (5) Condition 2 is that, as regards the person, WRA has reason to suspect that—
 
-- (a) an amount that ought to have been assessed to a WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax for the tax period or in relation to the transaction may not have been assessed,
-- (b) an assessment to a WRA-collected tax for the tax period or in relation to the transaction may be or have become insufficient, [^key-e13cbfa6007b379ff7ec8821c4be183e]...
+- (a) an amount that ought to have been assessed to a WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax for the tax period or in relation to the transaction may not have been assessed,
+- (b) an assessment to a WRA-collected tax for the tax period or in relation to the transaction may be or have become insufficient, [^c-e13cbfa6007b379ff7ec8821c4be183e]...
 - (c) relief from a WRA-collected tax given or claimed for the tax period or in relation to the transaction may be or have become excessive,
-- (d)[^key-6a0cfab21284c984f6542cb6e3f128f7] an amount of tax credit to which the person is not entitled may have been claimed, or
+- (d)[^c-6a0cfab21284c984f6542cb6e3f128f7] an amount of tax credit to which the person is not entitled may have been claimed, or
 - (e) a claim for tax credit may be or have become excessive.
 
 (6) Where any partner in a partnership has made a tax return, this section has effect as if that return had been made by each of the partners.
@@ -47,12 +47,12 @@ and the enquiry has not been completed.
 
 ## Annotations
 
-[^key-2f1df296c6e620bfa0dbce80cdca85ec]: Commencement: S. 100 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-2f1df296c6e620bfa0dbce80cdca85ec]: Commencement: S. 100 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
 
-[^key-245c6f1731bc731cc61f8c2916663b6d]: Modification: S. 100 applied (with modifications) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 7 para. 43(7)](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/43/7); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-245c6f1731bc731cc61f8c2916663b6d]: Modification: S. 100 applied (with modifications) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 7 para. 43(7)](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/43/7); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
 
-[^key-e13cbfa6007b379ff7ec8821c4be183e]: Textual amendment: Word in [s. 100(5)](https://www.legislation.gov.uk/anaw/2016/6/section/100/5) omitted (1.4.2018) by virtue of [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 21(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/21/a)
+[^c-e13cbfa6007b379ff7ec8821c4be183e]: Textual amendment: Word in [s. 100(5)](https://www.legislation.gov.uk/anaw/2016/6/section/100/5) omitted (1.4.2018) by virtue of [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 21(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/21/a)
 
-[^key-6a0cfab21284c984f6542cb6e3f128f7]: Textual amendment: [S. 100(5)(d)](https://www.legislation.gov.uk/anaw/2016/6/section/100/5/d)[(e)](https://www.legislation.gov.uk/anaw/2016/6/section/100/5/e) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 21(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/21/b)
+[^c-6a0cfab21284c984f6542cb6e3f128f7]: Textual amendment: [S. 100(5)(d)](https://www.legislation.gov.uk/anaw/2016/6/section/100/5/d)[(e)](https://www.legislation.gov.uk/anaw/2016/6/section/100/5/e) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 21(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/21/b)

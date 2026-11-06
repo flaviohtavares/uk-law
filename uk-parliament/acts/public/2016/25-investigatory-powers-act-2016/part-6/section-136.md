@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Bulk interception warrants[^key-f3468809f37da109611e71c178a77dd4]
+## 136. Bulk interception warrants[^c-f3468809f37da109611e71c178a77dd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3468809f37da109611e71c178a77dd4]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2016/25/section/136) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/a)
+[^c-f3468809f37da109611e71c178a77dd4]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2016/25/section/136) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/a)

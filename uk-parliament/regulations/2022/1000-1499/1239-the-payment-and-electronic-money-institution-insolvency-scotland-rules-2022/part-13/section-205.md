@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 205. “Debt”[^key-69a02b4455bca8572e27b42967749fbf]
+## 205. “Debt”[^c-69a02b4455bca8572e27b42967749fbf]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69a02b4455bca8572e27b42967749fbf]: Commencement: Rule 205 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-69a02b4455bca8572e27b42967749fbf]: Commencement: Rule 205 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

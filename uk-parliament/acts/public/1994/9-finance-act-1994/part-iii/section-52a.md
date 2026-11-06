@@ -70,7 +70,7 @@ charges a fee in respect of an insurance-related service to a person who is or b
 
   to a person falling within any of paragraphs (a) to (d) above.
 
-(8) For the purposes of this section, any question whether a person is connected with another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^key-6462c948a605f1ae52a9f0061ff3775a] .
+(8) For the purposes of this section, any question whether a person is connected with another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^c-6462c948a605f1ae52a9f0061ff3775a] .
 
 (9) In this section—
 
@@ -85,6 +85,6 @@ charges a fee in respect of an insurance-related service to a person who is or b
 
 [^c14451971]: Textual amendment: S. 52A(6)(6A) substituted for s. 52A(6)(7) (31.7.1998 with effect as mentioned in [s. 147(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/147/5) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 147(3)](https://www.legislation.gov.uk/ukpga/1998/36/section/147/3) (with [Sch. 18 para. 6(3)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/18/paragraph/6/3))
 
-[^key-6462c948a605f1ae52a9f0061ff3775a]: Textual amendment: Words in s. 52A(8) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 281](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/281) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-6462c948a605f1ae52a9f0061ff3775a]: Textual amendment: Words in s. 52A(8) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 281](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/281) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14451981]: Textual amendment: Definition in s. 52A(9) repealed (31.7.1998 with effect as mentioned in s. 147(5) of the repealing Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [ss. 147(4)](https://www.legislation.gov.uk/ukpga/1998/36/section/147/4), [165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. V(1)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/V/1), Note (with Sch. 18 para. 6(3))

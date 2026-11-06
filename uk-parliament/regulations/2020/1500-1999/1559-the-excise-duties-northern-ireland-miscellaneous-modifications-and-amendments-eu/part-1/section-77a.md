@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**77A.**[^key-47f2ab107830ea94e334117c7aa4453b] After regulation 85 insert—
+**77A.**[^c-47f2ab107830ea94e334117c7aa4453b] After regulation 85 insert—
 
 > **85A. Deemed irregularity: non-compliance with registration and electronic simplified administrative document requirements**
 >
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47f2ab107830ea94e334117c7aa4453b]: Textual amendment: Reg. 77A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/37)
+[^c-47f2ab107830ea94e334117c7aa4453b]: Textual amendment: Reg. 77A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/37)

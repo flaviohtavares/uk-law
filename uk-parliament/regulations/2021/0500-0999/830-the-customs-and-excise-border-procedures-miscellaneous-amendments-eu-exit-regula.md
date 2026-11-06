@@ -36,7 +36,7 @@ Customs
 
 Excise
 
-The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Regulations 2021 (revoked)[^key-12390dfd69a88e28953ba27319795e40]
+The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Regulations 2021 (revoked)[^c-12390dfd69a88e28953ba27319795e40]
 
 Made
 
@@ -48,63 +48,63 @@ Laid before the House of Commons
 
 Coming into force in accordance with regulation 1.
 
-[^key-12390dfd69a88e28953ba27319795e40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12390dfd69a88e28953ba27319795e40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-12390dfd69a88e28953ba27319795e40]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 1 — Amendments relating to Border Procedures[^key-12390dfd69a88e28953ba27319795e40]
-
-### 2. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^key-12390dfd69a88e28953ba27319795e40]
+## 1. Citation and commencement[^c-12390dfd69a88e28953ba27319795e40]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of the Customs (Export) (EU Exit) Regulations 2019[^key-12390dfd69a88e28953ba27319795e40]
+## PART 1 — Amendments relating to Border Procedures[^c-12390dfd69a88e28953ba27319795e40]
+
+### 2. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^c-12390dfd69a88e28953ba27319795e40]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^key-12390dfd69a88e28953ba27319795e40]
+### 3. Amendment of the Customs (Export) (EU Exit) Regulations 2019[^c-12390dfd69a88e28953ba27319795e40]
+
+**No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Consequential Customs amendments[^key-12390dfd69a88e28953ba27319795e40]
-
-### 5. Amendment of the Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020[^key-12390dfd69a88e28953ba27319795e40]
+### 4. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^c-12390dfd69a88e28953ba27319795e40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^key-12390dfd69a88e28953ba27319795e40]
+## PART 2 — Consequential Customs amendments[^c-12390dfd69a88e28953ba27319795e40]
+
+### 5. Amendment of the Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020[^c-12390dfd69a88e28953ba27319795e40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^key-12390dfd69a88e28953ba27319795e40]
+### 6. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^c-12390dfd69a88e28953ba27319795e40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Consequential excise amendments[^key-12390dfd69a88e28953ba27319795e40]
-
-### 8. Amendment of the Excise Duties (Miscellaneous Amendments) (EU Exit) (No.3) Regulations 2019[^key-12390dfd69a88e28953ba27319795e40]
+### 7. Amendment of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^c-12390dfd69a88e28953ba27319795e40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of the Customs and Excise (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-12390dfd69a88e28953ba27319795e40]
+## PART 3 — Consequential excise amendments[^c-12390dfd69a88e28953ba27319795e40]
+
+### 8. Amendment of the Excise Duties (Miscellaneous Amendments) (EU Exit) (No.3) Regulations 2019[^c-12390dfd69a88e28953ba27319795e40]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Amendment of the Customs and Excise (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-12390dfd69a88e28953ba27319795e40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-12390dfd69a88e28953ba27319795e40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12390dfd69a88e28953ba27319795e40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-12390dfd69a88e28953ba27319795e40]EXPLANATORY NOTE
+[^c-12390dfd69a88e28953ba27319795e40]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -132,4 +132,4 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 ## Annotations
 
-[^key-12390dfd69a88e28953ba27319795e40]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/830) revoked (22.12.2021) by [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1347)](https://www.legislation.gov.uk/uksi/2021/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1347/regulation/2)
+[^c-12390dfd69a88e28953ba27319795e40]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/830) revoked (22.12.2021) by [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1347)](https://www.legislation.gov.uk/uksi/2021/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1347/regulation/2)

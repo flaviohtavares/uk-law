@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Procedure for dealing with planning applications made to the Welsh Ministers[^key-4897deb4eb1214e64ed06e51b6da68ba]
+## 82. Procedure for dealing with planning applications made to the Welsh Ministers[^c-4897deb4eb1214e64ed06e51b6da68ba]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ the Welsh Ministers (instead of the planning authority) must notify the communit
 
 ## Annotations
 
-[^key-4897deb4eb1214e64ed06e51b6da68ba]: Commencement: S. 82 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4897deb4eb1214e64ed06e51b6da68ba]: Commencement: S. 82 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

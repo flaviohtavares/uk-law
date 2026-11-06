@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — TRANSITIONAL PROVISIONS AND SAVINGS[^key-44f9f4ffae1ac6074261c630de6e3926]
+## SCHEDULE 2 — TRANSITIONAL PROVISIONS AND SAVINGS[^c-44f9f4ffae1ac6074261c630de6e3926]
 
 *Extent: E+W+S+N.I.*
 
 Article 5
 
-### 1. General saving for existing companies etc[^key-71496c2bbbd36cbf4b68cdb52ec7835b]
+### 1. General saving for existing companies etc[^c-71496c2bbbd36cbf4b68cdb52ec7835b]
 
 (1) Nothing in the Companies Act 2006[^f00010] affects—
 
@@ -40,7 +40,7 @@ Article 5
 
 (3) Nothing in this paragraph or in section 1297(3) of the Companies Act 2006 shall be read as affecting any reference to the date on which a company was registered or re-registered.
 
-### 2. Company formation (ss. 7 to 16)[^key-4528db0f638a4d58465ebb35f8589b1d]
+### 2. Company formation (ss. 7 to 16)[^c-4528db0f638a4d58465ebb35f8589b1d]
 
 (1) Sections 7 to 16 of the Companies Act 2006 (company formation) apply to applications for registration received by the registrar on or after 1st October 2009.
 
@@ -62,13 +62,13 @@ before 1st October 2009.
 - (a) the reference to a company formed and registered after the commencement of Part 1 of that Act shall be read as a reference to a company formed and registered on an application to which sub-paragraph (1) above applies, and
 - (b) the reference to a company formed and registered under the 1985 Act or 1986 Order immediately before the commencement of Part 1 of the Companies Act 2006 includes a company formed and registered on an application to which sub-paragraph (3) above applies.
 
-### 3. Articles of association (ss. 18 to 20)[^key-5247de8a37e1c665dd20d8394ef295ed]
+### 3. Articles of association (ss. 18 to 20)[^c-5247de8a37e1c665dd20d8394ef295ed]
 
 (1) Sections 7 and 8 of the 1985 Act or Articles 18 and 19 of the 1986 Order (articles of association) apply, and sections 18 to 20 of the Companies Act 2006 do not apply, to a company formed and registered under the 1985 Act or 1986 Order on an application to which paragraph 2(3) above applies.
 
 (2) Nothing in section 18(3) of the Companies Act 2006 (articles to be contained in single document divided into consecutively numbered paragraphs) is to be read as affecting the operation of section 28 of that Act (under which certain provisions are to be treated as part of a company’s articles).
 
-### 4. Amendment of provisions of articles (ss. 21 and 22)[^key-3d3bc8651cef9ebc01c37f836c275a1e]
+### 4. Amendment of provisions of articles (ss. 21 and 22)[^c-3d3bc8651cef9ebc01c37f836c275a1e]
 
 (1) The power conferred by section 21(1) of the Companies Act 2006 (amendment of company’s articles by special resolution) does not apply—
 
@@ -84,17 +84,17 @@ before 1st October 2009.
 
 (4) A special resolution passed before 1st October 2009 removing or amending with effect from that date any provision that as from that date is treated by virtue of section 28 of that Act as a provision of the company’s articles, has effect as if passed on that date.
 
-### 5. Notice to registrar of existence of restrictions on amendment of articles (s. 23)[^key-1a279a1b73956757adbe3523fc70f3a4]
+### 5. Notice to registrar of existence of restrictions on amendment of articles (s. 23)[^c-1a279a1b73956757adbe3523fc70f3a4]
 
 Section 23(1)(a) of the Companies Act 2006 (notice to registrar of fact that company’s articles on formation contain provision for entrenchment) does not apply to a transitional company.
 
-### 6. Registrar to be sent copy of amended articles (s. 26)[^key-b47c1db23f72cad9c05b6fca5fad6794]
+### 6. Registrar to be sent copy of amended articles (s. 26)[^c-b47c1db23f72cad9c05b6fca5fad6794]
 
 (1) Section 26 of the Companies Act 2006 (registrar to be sent copy of amended articles) applies in relation to amendments taking effect on or after 1st October 2009.
 
 (2) Section 18(2) and (3) of the 1985 Act or Article 29(2) and (3) of the 1986 Order continue to apply in relation to amendments taking effect before that date.
 
-### 7. Provisions of memorandum treated as provisions of articles (s. 28)[^key-d940c7aeb851e79bad1f6153ee0879b5]
+### 7. Provisions of memorandum treated as provisions of articles (s. 28)[^c-d940c7aeb851e79bad1f6153ee0879b5]
 
 (1) Section 28 of the Companies Act 2006 (existing companies: provisions of memorandum treated as provisions of articles) applies not only to an existing company but also to a transitional company.
 
@@ -105,9 +105,9 @@ Section 23(1)(a) of the Companies Act 2006 (notice to registrar of fact that com
 - (a) “before the commencement of this Part” means before 1st October 2009, and
 - (b) “after the commencement of this Part” means on or after that date.
 
-**8.**[^key-7f11a95072dc19391aefeea0dbe16239] Nothing in section 28 of the Companies Act 2006 requires a company to give notice to the registrar of an alteration of its articles.
+**8.**[^c-7f11a95072dc19391aefeea0dbe16239] Nothing in section 28 of the Companies Act 2006 requires a company to give notice to the registrar of an alteration of its articles.
 
-**9.**[^key-8eb72a1cf4d7dd9134c9d42b67ed71e5] (1) A company whose articles are deemed by virtue of section 28 of the Companies Act 2006 to contain provisions formerly in its memorandum may comply with any obligation to send a person a copy of its articles—
+**9.**[^c-8eb72a1cf4d7dd9134c9d42b67ed71e5] (1) A company whose articles are deemed by virtue of section 28 of the Companies Act 2006 to contain provisions formerly in its memorandum may comply with any obligation to send a person a copy of its articles—
 
 - (a) by appending to a copy of the other provisions of the articles a copy of the provisions of its old-style memorandum that are deemed to be provisions of the articles, or
 - (b) by sending together with a copy of the other provisions of the articles a copy of its old-style memorandum indicating the provisions that are deemed to be provisions of the articles.
@@ -117,43 +117,43 @@ Section 23(1)(a) of the Companies Act 2006 (notice to registrar of fact that com
 - (a) in the case of an existing company, to its memorandum of association as it stood immediately before 1st October 2009;
 - (b) in the case of a transitional company, to its memorandum of association as it stood on its registration or re-registration (as the case may be) apart from the operation of section 28.
 
-**10.**[^key-5d372da48685ee11a085596d92360031] Nothing in the Companies Act 2006 shall be read as enabling a company to amend or omit provisions of its articles that were formerly in its memorandum so as to change its status as a limited or unlimited company otherwise than in accordance with the relevant provisions of Part 7 of that Act (re-registration as a means of changing company’s status).
+**10.**[^c-5d372da48685ee11a085596d92360031] Nothing in the Companies Act 2006 shall be read as enabling a company to amend or omit provisions of its articles that were formerly in its memorandum so as to change its status as a limited or unlimited company otherwise than in accordance with the relevant provisions of Part 7 of that Act (re-registration as a means of changing company’s status).
 
-### 11. Constitutional documents to be provided to members (s. 32)[^key-ce964da4ba7af478529f5af92e4cb139]
+### 11. Constitutional documents to be provided to members (s. 32)[^c-ce964da4ba7af478529f5af92e4cb139]
 
 (1) Section 32 of the Companies Act 2006 (constitutional documents to be provided to members) applies where the request is received by the company on or after 1st October 2009.
 
 (2) Section 19 of the 1985 Act or Article 30 of the 1986 Order continues to apply where the request was received by the company before that date.
 
-### 12. Notice to registrar where company’s constitution altered by enactment (s. 34)[^key-12bc6785e7de0b93d79f0279c93302c1]
+### 12. Notice to registrar where company’s constitution altered by enactment (s. 34)[^c-12bc6785e7de0b93d79f0279c93302c1]
 
 (1) Section 34 of the Companies Act 2006 (notice to registrar where company’s constitution altered by enactment) applies where the enactment in question comes into force on or after 1st October 2009.
 
 (2) Section 18(1) and (3) of the 1985 Act or Article 29(1) and (3) of the 1986 Order continue to apply in relation to alterations made by statutory provisions coming into force before that date.
 
-### 13. Notice to registrar where company’s constitution altered by order (s. 35)[^key-735c642d8fdacfc3e08ab79bcf9e749f]
+### 13. Notice to registrar where company’s constitution altered by order (s. 35)[^c-735c642d8fdacfc3e08ab79bcf9e749f]
 
 Section 35 of the Companies Act 2006 (notice to registrar where company’s constitution altered by order) applies in relation to orders made on or after 1st October 2009.
 
-### 14. Documents to be incorporated in or accompany copies of articles issued by company (s. 36)[^key-c5251221e279d171a8630f735ed8efc6]
+### 14. Documents to be incorporated in or accompany copies of articles issued by company (s. 36)[^c-c5251221e279d171a8630f735ed8efc6]
 
 (1) Section 36 of the Companies Act 2006 (documents to be incorporated in or accompany copies of articles issued by company) applies to copies of a company’s articles issued on or after 1st October 2009.
 
 (2) Section 380(2), (6) and (7) of the 1985 Act or Article 388(2), (6) and (7) of the 1986 Order continue to apply to copies issued before that date.
 
-### 15. A company’s capacity (s. 39)[^key-96d799c2cffce138313c83ce2ac22604]
+### 15. A company’s capacity (s. 39)[^c-96d799c2cffce138313c83ce2ac22604]
 
 (1) Section 39 of the Companies Act 2006 (a company’s capacity) applies to acts of a company done on or after 1st October 2009.
 
 (2) Section 35 of the 1985 Act or Article 45 of the 1986 Order continues to apply to acts of a company done before that date.
 
-### 16. Execution of deeds or other documents by attorney (s. 47)[^key-96ac82343e77faec183f4e3096f7854b]
+### 16. Execution of deeds or other documents by attorney (s. 47)[^c-96ac82343e77faec183f4e3096f7854b]
 
 (1) Section 47 of the Companies Act 2006 (execution of deeds or other documents by attorney) applies where the instrument empowering a person to act as a company’s attorney is executed on or after 1st October 2009.
 
 (2) Section 38 of the 1985 Act or Article 48 of the 1986 Order continues to have effect where the power to act as a company’s attorney was conferred before that date (including in relation to instruments executed by the attorney on behalf of the company on or after that date).
 
-### 17. A company’s name (ss. 53 to 81)[^key-3027c6e0091dd94516aefb9fa3d6826e]
+### 17. A company’s name (ss. 53 to 81)[^c-3027c6e0091dd94516aefb9fa3d6826e]
 
 (1) The following provisions of the Companies Act 2006 do not affect the continued registration of a company by a name by which it was duly registered—
 
@@ -168,22 +168,22 @@ Section 35 of the Companies Act 2006 (notice to registrar where company’s cons
 - (d) section 65 (inappropriate use of indications of company type or legal form);
 - (e) section 66 (name not to be the same as another in registrar’s index).
 
-**18.**[^key-75b3b3d908aadbba2e1035c120b03200] (1) Sections 54 to 56 of the Companies Act 2006 (sensitive words and expressions) apply to applications for approval received by the Secretary of State on or after 1st October 2009.
+**18.**[^c-75b3b3d908aadbba2e1035c120b03200] (1) Sections 54 to 56 of the Companies Act 2006 (sensitive words and expressions) apply to applications for approval received by the Secretary of State on or after 1st October 2009.
 
 (2) Section 29 of the 1985 Act or Article 39 of the 1986 Order continues to apply in relation to applications received by the Secretary of State or the Department of Enterprise, Trade and Investment in Northern Ireland before that date.
 
-**19.**[^key-5a2fc2e001cd046702dff81d3298725a] (1) Sections 77(1)(a) and 78 of the Companies Act 2006 (change of name by special resolution), and sections 80 and 81 of that Act so far as relating to a change of name by special resolution, apply where—
+**19.**[^c-5a2fc2e001cd046702dff81d3298725a] (1) Sections 77(1)(a) and 78 of the Companies Act 2006 (change of name by special resolution), and sections 80 and 81 of that Act so far as relating to a change of name by special resolution, apply where—
 
 - (a) the resolution is passed on or after 1st October 2009, or
 - (b) the resolution is passed before that date but no copy of the resolution is received by the registrar under section 30 of that Act (resolution affecting a company’s constitution) before that date.
 
 (2) Section 28(1), (6) and (7) of the 1985 Act or Article 38(1), (6) and (7) of the 1986 Order continue to apply to resolutions of which a copy is received by the registrar before that date.
 
-**20.**[^key-f0c69ed54b92b6d05855d8fe8c85aaa7] The provisions of section 31(2) to (4) and (6) of the 1985 Act or Article 41(2) to (4) and (6) of the 1986 Order (power to direct company to change its name so that it ends with “limited”) continue to apply where a direction under section 31(2) or Article 41(2) was given before 1st October 2009.
+**20.**[^c-f0c69ed54b92b6d05855d8fe8c85aaa7] The provisions of section 31(2) to (4) and (6) of the 1985 Act or Article 41(2) to (4) and (6) of the 1986 Order (power to direct company to change its name so that it ends with “limited”) continue to apply where a direction under section 31(2) or Article 41(2) was given before 1st October 2009.
 
-**21.**[^key-d4fa50e89b512c2696c2e248eda3884f] The provisions of section 32 of the 1985 Act or Article 42 of the 1986 Order (power to require company to abandon misleading name) continue to apply in relation to a direction under that section or Article given before 1st October 2009.
+**21.**[^c-d4fa50e89b512c2696c2e248eda3884f] The provisions of section 32 of the 1985 Act or Article 42 of the 1986 Order (power to require company to abandon misleading name) continue to apply in relation to a direction under that section or Article given before 1st October 2009.
 
-### 22. Re-registration as a means of altering a company’s status (ss. 89 to 108)[^key-c978ca8a4897735bbfd19205880094b9]
+### 22. Re-registration as a means of altering a company’s status (ss. 89 to 108)[^c-c978ca8a4897735bbfd19205880094b9]
 
 (1) Sections 89 to 108 of the Companies Act 2006 (re-registration as a means of altering a company’s status) apply to applications for re-registration received by the registrar on or after 1st October 2009.
 
@@ -202,7 +202,7 @@ before 1st October 2009.
 
 (6) For the purposes of section 1297(3) of the Companies Act 2006 (continuity of the law) as it applies to treat a company re-registered under the 1985 Act or the 1986 Order as if re-registered under the corresponding provisions of the Companies Act 2006, the re-registration of a company on an application to which sub-paragraph (3) above applies is to be regarded as in force and effective immediately before the commencement of Part 7 of the Companies Act 2006.
 
-### 23. Register of members: information as to state of register and index (s. 120)[^key-d6ec2dfd9d59cbb024b64ae45acd100c]
+### 23. Register of members: information as to state of register and index (s. 120)[^c-d6ec2dfd9d59cbb024b64ae45acd100c]
 
 Section 120 of the Companies Act 2006 (information as to state of register or index) applies where a person—
 
@@ -211,18 +211,18 @@ Section 120 of the Companies Act 2006 (information as to state of register or in
 
 whether the person’s request to inspect, or be provided with a copy, was made before, on or after that date.
 
-### 24. Repeal of minimum membership requirement[^key-f0553556bf984a255c92f9747483fd18]
+### 24. Repeal of minimum membership requirement[^c-f0553556bf984a255c92f9747483fd18]
 
 The repeal of section 24 of the 1985 Act or Article 34 of the 1986 Order (minimum membership for carrying on business) does not affect any liability under that section or Article for debts of the company contracted before 1st October 2009.
 
-### 25. Registers of directors and secretaries (ss. 162 and 275)[^key-242b923b88a6da2f407cf5205bc54aa8]
+### 25. Registers of directors and secretaries (ss. 162 and 275)[^c-242b923b88a6da2f407cf5205bc54aa8]
 
 On and after 1st October 2009 the register of directors and secretaries kept by a company under section 288(1) of the 1985 Act or Article 296(1) of the 1986 Order shall be treated as two separate registers—
 
 - (a) a register of directors kept under and for the purposes of section 162 of the Companies Act 2006, and
 - (b) a register of secretaries kept under and for the purposes of section 275 of that Act.
 
-### 26. Particulars to be registered (ss. 163, 164 and 166 and 277 to 279)[^key-997d80732820411c0be00365cf8f5edb]
+### 26. Particulars to be registered (ss. 163, 164 and 166 and 277 to 279)[^c-997d80732820411c0be00365cf8f5edb]
 
 (1) Subject to the following provisions, an existing company need not comply with any provision of the Companies Act 2006 requiring the company’s register of directors or secretaries to contain particulars additional to those required by the 1985 Act or the 1986 Order until the earlier of—
 
@@ -235,7 +235,7 @@ On and after 1st October 2009 the register of directors and secretaries kept by 
 
 (4) This paragraph does not affect the particulars required to be included in the company’s annual return.
 
-**27.**[^key-36ae540b438b08d72961759a969b7c0c] (1) In the case of an existing company—
+**27.**[^c-36ae540b438b08d72961759a969b7c0c] (1) In the case of an existing company—
 
 - (a) the relevant existing address of a director or secretary is deemed, on and after 1st October 2009, to be a service address, and
 - (b) any entry in the company’s register of directors or secretaries stating that address is treated, on and after that date, as complying with the obligation in section 163(1)(b) or 277(1)(b) of the Companies Act 2006 to state a service address.
@@ -249,19 +249,19 @@ On and after 1st October 2009 the register of directors and secretaries kept by 
 
 (4) The operation of this paragraph does not give rise to any duty to notify the registrar under section 167 or 276 of the Companies Act 2006 (duty to notify registrar of changes in particulars contained in register).
 
-**28.**[^key-0fab9d723a6bfc28af1147ffcb30909d] (1) An existing company must remove from its register of directors on 1st October 2009 any entry relating to a shadow director.
+**28.**[^c-0fab9d723a6bfc28af1147ffcb30909d] (1) An existing company must remove from its register of directors on 1st October 2009 any entry relating to a shadow director.
 
 (2) Section 167 of the Companies Act 2006 (duty to notify registrar of changes) applies as if the shadow director had ceased to be a director on that date.
 
-**29.**[^key-83e33c20dd050c7be535d8d7d365cd75] The removal by an existing company from its register of directors or secretaries on or after 1st October 2009 of particulars required by the 1985 Act or the 1986 Order but not required by the Companies Act 2006 does not give rise to any duty to notify the registrar under section 167 or 276 of the Companies Act 2006 (duty to notify registrar of changes in particulars contained in register).
+**29.**[^c-83e33c20dd050c7be535d8d7d365cd75] The removal by an existing company from its register of directors or secretaries on or after 1st October 2009 of particulars required by the 1985 Act or the 1986 Order but not required by the Companies Act 2006 does not give rise to any duty to notify the registrar under section 167 or 276 of the Companies Act 2006 (duty to notify registrar of changes in particulars contained in register).
 
-### 30. Register of directors’ residential addresses (s. 165)[^key-40e448f78d44b436de81790dc538b093]
+### 30. Register of directors’ residential addresses (s. 165)[^c-40e448f78d44b436de81790dc538b093]
 
 (1) The duty of a company to keep a register of directors’ residential addresses has effect on and after 1st October 2009.
 
 (2) The entry on that register of information that immediately before that date was contained in the company’s register of directors and secretaries does not give rise to any duty to notify the registrar under section 167 of the Companies Act 2006 (duty to notify registrar of changes in particulars contained in register).
 
-### 31. Duty to notify registrar of changes (ss. 167 and 276)[^key-19e89d783d3340939ba52cec2f4bf788]
+### 31. Duty to notify registrar of changes (ss. 167 and 276)[^c-19e89d783d3340939ba52cec2f4bf788]
 
 (1) Sections 167 and 276 of the Companies Act 2006 (duty to notify registrar of changes) apply in relation to—
 
@@ -272,7 +272,7 @@ occurring on or after 1st October 2009.
 
 (2) Sections 288(2), (4) and (6), 289 and 290 of the 1985 Act or Articles 296(2), (4) and (6), 297 and 298 of the 1986 Order (notification to registrar of changes) continue to apply in relation to a change occurring before that date.
 
-### 32. Directors and secretaries: entries on the register of companies[^key-a8c8d7e8cea971398493cedc69a8b025]
+### 32. Directors and secretaries: entries on the register of companies[^c-a8c8d7e8cea971398493cedc69a8b025]
 
 (1) The registrar may make such entries in the register as appear to be appropriate having regard to paragraphs 26 to 30 and the information appearing on the register immediately before 1st October 2009 or notified to the registrar in accordance with paragraph 31(2).
 
@@ -283,7 +283,7 @@ occurring on or after 1st October 2009.
 
 (3) Any notification of a change of a relevant existing address occurring before 1st October 2009 that is received by the registrar on or after that date is treated as being or, as the case may be, including notification of a change of service address.
 
-### 33. Directors’ residential addresses: protection from disclosure (ss. 240 to 246)[^key-36dedd62d07e855065e05ed6cb246dc6]
+### 33. Directors’ residential addresses: protection from disclosure (ss. 240 to 246)[^c-36dedd62d07e855065e05ed6cb246dc6]
 
 Where a director’s usual residential address appears as a service address—
 
@@ -292,7 +292,7 @@ Where a director’s usual residential address appears as a service address—
 
 that address is not protected information for the purposes of Chapter 8 of Part 10 of the Companies Act 2006.
 
-**34.**[^key-2ca27f1f80c952ce5043011186aabaf0] (1) Section 242(1) of the Companies Act 2006 (duty of registrar to omit protected information from material available for inspection) does not apply—
+**34.**[^c-2ca27f1f80c952ce5043011186aabaf0] (1) Section 242(1) of the Companies Act 2006 (duty of registrar to omit protected information from material available for inspection) does not apply—
 
 - (a) to material delivered to the registrar before 1st October 2009, or
 - (b) to material delivered to the registrar on or after 1st October 2009 by virtue of paragraph 31(2) (notification of change occurring before that date).
@@ -301,12 +301,12 @@ that address is not protected information for the purposes of Chapter 8 of Part 
 
 (3) Sub-paragraphs (1) and (2) have effect subject to paragraph 36 below (which provides for the continued protection of information formerly protected by a confidentiality order).
 
-**35.**[^key-3b17dd6e27db087cec5d8e52f2e60c55] In determining under section 245(1) of the Companies Act 2006 whether to put a director’s usual residential address on the public record, the registrar may take into account only—
+**35.**[^c-3b17dd6e27db087cec5d8e52f2e60c55] In determining under section 245(1) of the Companies Act 2006 whether to put a director’s usual residential address on the public record, the registrar may take into account only—
 
 - (a) communications sent by the registrar on or after 1st October 2009, and
 - (b) evidence as to the effectiveness of service coming to the registrar’s attention on or after that date.
 
-### 36. Continuation of protection afforded by confidentiality orders under the 1985 Act[^key-4363501956d018b2ca0d41ffb5c4cff8]
+### 36. Continuation of protection afforded by confidentiality orders under the 1985 Act[^c-4363501956d018b2ca0d41ffb5c4cff8]
 
 (1) A director or secretary in relation to whom a confidentiality order under section 723B of the 1985 Act was in force immediately before 1st October 2009 is treated on and after that date as if—
 
@@ -317,7 +317,7 @@ that address is not protected information for the purposes of Chapter 8 of Part 
 
 (3) As those regulations apply in accordance with this paragraph any reference to an offence under section 1112 of the Companies Act 2006 (false statement) shall be read as a reference to an offence under regulations under section 723E(1)(a) of the 1985 Act in relation to the application for the confidentiality order.
 
-**37.**[^key-b331943ce222b62fd176297031cee9b0] (1) A director in relation to whom a confidentiality order under section 723B of the 1985 Act was in force immediately before 1st October 2009 is treated on and after that date as if—
+**37.**[^c-b331943ce222b62fd176297031cee9b0] (1) A director in relation to whom a confidentiality order under section 723B of the 1985 Act was in force immediately before 1st October 2009 is treated on and after that date as if—
 
 - (a) they had made an application under section 243(4) of the Companies Act 2006 (application to prevent disclosure of protected information by registrar to credit reference agency), and
 - (b) that application had been determined by the registrar in their favour.
@@ -326,14 +326,14 @@ that address is not protected information for the purposes of Chapter 8 of Part 
 
 (3) As those regulations apply in accordance with this paragraph any reference to an offence under section 1112 (false statement) shall be read as a reference to an offence under regulations under section 723E(1)(a) of the 1985 Act in relation to the application for the confidentiality order.
 
-**38.**[^key-87023569551428ce0a5e90aff09c3874] Where a confidentiality order under section 723B of the 1985 Act was in force immediately before 1st October 2009 in relation to a director or secretary of a company—
+**38.**[^c-87023569551428ce0a5e90aff09c3874] Where a confidentiality order under section 723B of the 1985 Act was in force immediately before 1st October 2009 in relation to a director or secretary of a company—
 
 - (a) section 162(5) and (8) of the Companies Act 2006 (inspection of company’s register of directors), or
 - (b) section 275(5) and (8) of that Act (inspection of company’s register of secretaries),
 
 do not apply in relation to the part of the company’s register containing particulars of the usual residential address of the individual that before that date were protected from disclosure by section 288(5A) of the 1985 Act.
 
-### 39. Effect of pending application for confidentiality order[^key-3875fbe69c6a67c1fc881d33f214ae87]
+### 39. Effect of pending application for confidentiality order[^c-3875fbe69c6a67c1fc881d33f214ae87]
 
 (1) Section 723B(3) to (8) of the 1985 Act (application for confidentiality order) continue to apply in relation to an application for a confidentiality order made before 1st October 2009.
 
@@ -343,7 +343,7 @@ do not apply in relation to the part of the company’s register containing part
 
 (4) If the application is successful those paragraphs continue to apply as in the case of an individual in relation to whom a confidentiality order was in force immediately before 1st October 2009.
 
-### 40. Power to make provision for employees on cessation or transfer of business (s. 247)[^key-990b53cc538a7bf9b3c9b831c47e1613]
+### 40. Power to make provision for employees on cessation or transfer of business (s. 247)[^c-990b53cc538a7bf9b3c9b831c47e1613]
 
 (1) Section 247 of the Companies Act 2006 (power to make provision for employees on cessation or transfer of business) applies to provision made on or after 1st October 2009 (subject to sub-paragraph (2)(b)).
 
@@ -352,7 +352,7 @@ do not apply in relation to the part of the company’s register containing part
 - (a) to provision made before that date, and
 - (b) to anything sanctioned in accordance with subsection (3) of that section or paragraph (3) of that Article before that date.
 
-### 41. Conversion of shares into stock (s. 540(2) and (3))[^key-9f1557f1d0c78bd06d29789b0372dd8f]
+### 41. Conversion of shares into stock (s. 540(2) and (3))[^c-9f1557f1d0c78bd06d29789b0372dd8f]
 
 (1) Section 540(2) of the Companies Act 2006 (prohibition on conversion of shares into stock) does not affect the conversion of shares into stock in pursuance of a resolution of the company in general meeting passed, or a written resolution agreed to, before 1st October 2009.
 
@@ -360,7 +360,7 @@ do not apply in relation to the part of the company’s register containing part
 
 (3) Section 122(1)(b) and (2) of the 1985 Act or Article 132(1)(b) and (2) of the 1986 Order (notice to registrar of conversion) continue to apply in relation to the conversion of shares into stock under such a resolution.
 
-### 42. Saving for provisions as to amount of authorised share capital[^key-b864530dab15db29f2b761f1cf56f28b]
+### 42. Saving for provisions as to amount of authorised share capital[^c-b864530dab15db29f2b761f1cf56f28b]
 
 (1) This paragraph applies to any provision of a company’s memorandum as to the amount of a company’s authorised share capital that is in force immediately before 1st October 2009, as altered by anything done by virtue of section 121 of the 1985 Act or Article 131 of the 1986 Order (alteration of share capital) and in force immediately before that date.
 
@@ -377,7 +377,7 @@ do not apply in relation to the part of the company’s register containing part
 
 (6) An amendment of a company’s articles on or after 1st October 2009 authorising the directors to allot shares in excess of the amount allowed by any such provision as is mentioned in sub-paragraph (1) has effect although not expressed as amending or revoking it.
 
-### 43. Power of directors to allot shares etc: private company with only one class of shares (s. 550)[^key-dd0143872bef955e4fbc3abeaa99e415]
+### 43. Power of directors to allot shares etc: private company with only one class of shares (s. 550)[^c-dd0143872bef955e4fbc3abeaa99e415]
 
 (1) Section 550 of the Companies Act 2006 (power of directors to allot shares etc: private company with only one class of shares) applies to an existing or transitional company only if the members of the company have resolved that the directors should have the powers given by that section.
 
@@ -389,32 +389,32 @@ do not apply in relation to the part of the company’s register containing part
 
 (5) Once the members of the company have resolved as mentioned in sub-paragraph (1), the application of section 550 in relation to the company is not affected by any subsequent resolution, except one altering the company’s articles so as to prohibit (to any extent) exercise of the powers mentioned in the section.
 
-**44.**[^key-3633a03f434ed9bd68fde16be3e2aa00] For the purposes of section 550 of the Companies Act 2006 provisions of the articles of an existing or transitional company—
+**44.**[^c-3633a03f434ed9bd68fde16be3e2aa00] For the purposes of section 550 of the Companies Act 2006 provisions of the articles of an existing or transitional company—
 
 - (a) authorising the directors to allot shares in accordance with section 80 of the 1985 Act or Article 90 of the 1986 Order, or
 - (b) added following an elective resolution under section 80A of the 1985 Act or Article 90A of the 1986 Order and authorising the directors to allot shares,
 
 are not to be treated as provisions prohibiting the directors from exercising the powers conferred by section 550 in cases to which the authority does not extend.
 
-### 45. Power of directors to allot shares etc: authorisation by company (s. 551)[^key-e4363092b08ca2ac69502574d72efea4]
+### 45. Power of directors to allot shares etc: authorisation by company (s. 551)[^c-e4363092b08ca2ac69502574d72efea4]
 
 An authorisation in force immediately before 1st October 2009 under section 80 or 80A of the 1985 Act or Article 90 or 90A of the 1986 Order has effect on and after that date as if given under section 551 of the Companies Act 2006 (power of directors to allot shares etc: authorisation by company).
 
-### 46. Registration of allotment (s. 554)[^key-b7948d9c604898cbfeb6e4bbf1aeb5ab]
+### 46. Registration of allotment (s. 554)[^c-b7948d9c604898cbfeb6e4bbf1aeb5ab]
 
 Section 554 of the Companies Act 2006 (registration of allotment) applies to shares allotted on or after 1st October 2009.
 
-### 47. Return of allotment (ss. 555 to 557)[^key-4fc791df0abd7ddfce79ae13b5ab4e69]
+### 47. Return of allotment (ss. 555 to 557)[^c-4fc791df0abd7ddfce79ae13b5ab4e69]
 
 (1) Section 555 of the Companies Act 2006 (return of allotment by limited company) applies to shares allotted on or after 1st October 2009.
 
 (2) Section 88 of the 1985 Act or Article 98 of the 1986 Order continues to apply to shares allotted before that date.
 
-**48.**[^key-356aa92940d621c611c5f82f488e88e8] (1) Section 556 of the Companies Act 2006 (return of allotment by unlimited company allotting new class of shares) applies to shares allotted on or after 1st October 2009.
+**48.**[^c-356aa92940d621c611c5f82f488e88e8] (1) Section 556 of the Companies Act 2006 (return of allotment by unlimited company allotting new class of shares) applies to shares allotted on or after 1st October 2009.
 
 (2) Section 128(1), (2) and (5) of the 1985 Act or Article 138(1), (2) and (5) of the 1986 Order continue to apply to shares allotted before that date.
 
-### 49. Existing shareholders’ right of pre-emption (ss. 561 to 577)[^key-f2e5778a2abb07ffa7849ae5bdd5483e]
+### 49. Existing shareholders’ right of pre-emption (ss. 561 to 577)[^c-f2e5778a2abb07ffa7849ae5bdd5483e]
 
 (1) Section 561 of the Companies Act 2006 (prohibition on allotment unless offers made to existing shareholders) applies to the allotment of shares on or after 1st October 2009.
 
@@ -427,41 +427,41 @@ and the requirements of section 561 may be met by offers within paragraph (a) or
 
 (3) Section 563 of the Companies Act 2006 (consequences of contravention) applies where section 561 applies and the reference to section 562 of that Act shall be read accordingly as including a reference to section 90 of the 1985 Act or Article 100 of the 1986 Order.
 
-**50.**[^key-45c8572ab3cd3c0175ab8f83a1feae88] (1) This paragraph applies where provision made by virtue of section 91 of the 1985 Act or Article 101 of the 1986 Order (exclusion of requirements by private company) excluding the requirements of section 89 or 90 or Article 99 or 100 is in force immediately before 1st October 2009.
+**50.**[^c-45c8572ab3cd3c0175ab8f83a1feae88] (1) This paragraph applies where provision made by virtue of section 91 of the 1985 Act or Article 101 of the 1986 Order (exclusion of requirements by private company) excluding the requirements of section 89 or 90 or Article 99 or 100 is in force immediately before 1st October 2009.
 
 (2) That provision has effect on and after that date as if it was or, as the case may be, included provision made by virtue of section 567 of the Companies Act 2006 excluding the corresponding requirements of section 561 or 562 of that Act.
 
-**51.**[^key-cf2ce41ed317e614d6e5f4a6d83760ae] (1) Section 568 of the Companies Act 2006 (exclusion of statutory pre-emption right where articles confer corresponding right) applies to the allotment of shares on or after 1st October 2009.
+**51.**[^c-cf2ce41ed317e614d6e5f4a6d83760ae] (1) Section 568 of the Companies Act 2006 (exclusion of statutory pre-emption right where articles confer corresponding right) applies to the allotment of shares on or after 1st October 2009.
 
 (2) The reference in section 568(3) to section 562 of that Act (communication of pre-emption offers to shareholders) shall be read in relation to offers made before 1st October 2009 as a reference to section 90 of the 1985 Act or Article 100 of the 1986 Order.
 
 (3) Section 563 of the Companies Act 2006 (consequences of contravention) applies in relation to such an offer as if the reference to section 562 of that Act were a reference to section 90 of the 1985 Act or Article 100 of the 1986 Order.
 
-**52.**[^key-d0736cedb30275be3edad0c6948b0b33] (1) This paragraph applies where provision excluding or modifying section 89(1) of the 1985 Act or Article 99(1) of the 1986 Order has been made by virtue of section 95(1) of the 1985 Act or Article 105(1) of the 1986 Order and is in force immediately before 1st October 2009.
+**52.**[^c-d0736cedb30275be3edad0c6948b0b33] (1) This paragraph applies where provision excluding or modifying section 89(1) of the 1985 Act or Article 99(1) of the 1986 Order has been made by virtue of section 95(1) of the 1985 Act or Article 105(1) of the 1986 Order and is in force immediately before 1st October 2009.
 
 (2) The provision has effect on and after that date as if it had been made by virtue of section 570 of the Companies Act 2006 (disapplication of pre-emption rights: directors acting under general authorisation) and excluded, or made corresponding modifications of, section 561 of that Act.
 
 (3) The power conferred to allot equity securities may accordingly be renewed under section 570(3).
 
-**53.**[^key-8345cf456deeb3050bc3b215915597e5] (1) This paragraph applies where a special resolution excluding or modifying section 89(1) of the 1985 Act or Article 99(1) of the 1986 Order has been passed by virtue of section 95(2) of the 1985 Act or Article 105(2) of the 1986 Order and is in force immediately before 1st October 2009.
+**53.**[^c-8345cf456deeb3050bc3b215915597e5] (1) This paragraph applies where a special resolution excluding or modifying section 89(1) of the 1985 Act or Article 99(1) of the 1986 Order has been passed by virtue of section 95(2) of the 1985 Act or Article 105(2) of the 1986 Order and is in force immediately before 1st October 2009.
 
 (2) The resolution has effect on and after that date as if it had been passed by virtue of section 571 of the Companies Act 2006 (disapplication of pre-emption rights by special resolution) and excluded, or made corresponding modifications of, section 561 of that Act.
 
 (3) The resolution may accordingly be renewed under section 571(3).
 
-**54.**[^key-8ba5b71c3718838c38008266ecc0f0f3] (1) It is immaterial whether the directors’ statement required before a resolution can be proposed under section 571 of the Companies Act 2006 (disapplication of pre-emption rights by special resolution) is made, or is sent, submitted or circulated as required by subsection (7) of that section before, on or after 1st October 2009.
+**54.**[^c-8ba5b71c3718838c38008266ecc0f0f3] (1) It is immaterial whether the directors’ statement required before a resolution can be proposed under section 571 of the Companies Act 2006 (disapplication of pre-emption rights by special resolution) is made, or is sent, submitted or circulated as required by subsection (7) of that section before, on or after 1st October 2009.
 
 (2) Section 572 of that Act (criminal liability for false statement) applies to a directors’ statement that is sent, submitted or circulated to a member on or after 1st October 2009.
 
 (3) Section 95(6) of the 1985 Act or Article 105(6) of the 1986 Order applies to a directors’ statement that is circulated or supplied to a member before that date.
 
-**55.**[^key-9d1203b7b05bdce87a4074c5428b96bf] (1) This paragraph applies where provision excluding or modifying section 89(1) of the 1985 Act or Article 99(1) of the 1986 Order has been made by virtue of section 95(2A) of the 1985 Act or Article 105(2A) of the 1986 Order and is in force immediately before 1st October 2009.
+**55.**[^c-9d1203b7b05bdce87a4074c5428b96bf] (1) This paragraph applies where provision excluding or modifying section 89(1) of the 1985 Act or Article 99(1) of the 1986 Order has been made by virtue of section 95(2A) of the 1985 Act or Article 105(2A) of the 1986 Order and is in force immediately before 1st October 2009.
 
 (2) The provision has effect on and after that date as if it had been made by virtue of section 573 of the Companies Act 2006 (disapplication of pre-emption rights: sale of treasury shares) and excluded, or made corresponding modifications of, section 561 of that Act.
 
 (3) The power conferred to allot equity securities may accordingly be renewed under section 570(3) or, as the case may be, section 571(3).
 
-### 56. Public companies: allotment where issue not fully subscribed (ss. 578 and 579)[^key-9c5c17e6c359da9d05db22c3a1b9ad22]
+### 56. Public companies: allotment where issue not fully subscribed (ss. 578 and 579)[^c-9c5c17e6c359da9d05db22c3a1b9ad22]
 
 (1) Sections 578 and 579 of the Companies Act 2006 (public companies: allotment where issue not fully subscribed) apply where the offer is made on or after 1st October 2009, unless a prospectus has been issued before that date.
 
@@ -471,7 +471,7 @@ and the requirements of section 561 may be met by offers within paragraph (a) or
 
 (4) References in this paragraph to a prospectus being issued are to its being made available to the public in accordance with Part 6 of the Financial Services and Markets Act 2000[^f00014].
 
-### 57. Meaning of “cash consideration” for shares (ss. 583 and 607)[^key-a6d0acd1d89dfe35715c0af21faf879b]
+### 57. Meaning of “cash consideration” for shares (ss. 583 and 607)[^c-a6d0acd1d89dfe35715c0af21faf879b]
 
 (1) Section 583(3)(e) of the Companies Act 2006 (meaning of “cash consideration for shares”: other means equivalent to payment in cash) applies only in relation to consideration received in pursuance of an obligation entered into on or after 1st October 2009.
 
@@ -479,53 +479,53 @@ and the requirements of section 561 may be met by offers within paragraph (a) or
 
 (3) Section 114 of the 1985 Act or Article 124 of the 1986 Order continues to apply in relation to consideration received in pursuance of an obligation entered into before that date.
 
-### 58. Power of court to grant relief (ss. 589 and 606)[^key-f2f33aca610a4e54ec0a9538f85820a4]
+### 58. Power of court to grant relief (ss. 589 and 606)[^c-f2f33aca610a4e54ec0a9538f85820a4]
 
 In section 589(3) and (4) and section 606(2) and (3) of the Companies Act 2006 (power of court to grant relief from liabilities in connection with payment for shares: matters to be taken into account), the words from “having regard to” to the end of the subsection shall be omitted in relation to a decision whether to grant relief in respect of a liability for interest arising before 1st October 2009.
 
-### 59. Sub-division or consolidation of shares (s. 618)[^key-ab7134657e8b3eea9749f4e5c7147189]
+### 59. Sub-division or consolidation of shares (s. 618)[^c-ab7134657e8b3eea9749f4e5c7147189]
 
 The repeal of section 122(1)(a) and (d) and (2) of the 1985 Act or Article 132(1)(a) and (d) and (2) of the 1986 Order (notice to registrar of consolidation and division, or sub-division, of shares) does not affect the operation of those provisions in relation to a consolidation and division, or sub-division, of shares effected before 1st October 2009.
 
-### 60. Reconversion of stock into shares (s. 620)[^key-e4f28012dc447d95d83eace619299122]
+### 60. Reconversion of stock into shares (s. 620)[^c-e4f28012dc447d95d83eace619299122]
 
 The repeal of section 122(1)(c) and (2) of the 1985 Act or Article 132(1)(c) and (2) of the 1986 Order (notice to registrar of reconversion of stock into shares) does not affect the operation of those provisions in relation to a reconversion effected before 1st October 2009.
 
-### 61. Variation of class rights: companies without a share capital (ss. 631 and 634)[^key-e726eac01325078381acb42c0a342444]
+### 61. Variation of class rights: companies without a share capital (ss. 631 and 634)[^c-e726eac01325078381acb42c0a342444]
 
 Nothing in section 631 or 634 of the Companies Act 2006 (variation of class rights by company without a share capital) affects a variation of class rights made (in accordance with provision in the company’s memorandum or articles) before 1st October 2009.
 
-### 62. Notice of name or other designation of class of shares (s. 636)[^key-5415ccc2efa3d266a2021346b4914a02]
+### 62. Notice of name or other designation of class of shares (s. 636)[^c-5415ccc2efa3d266a2021346b4914a02]
 
 (1) Section 636 of the Companies Act 2006 (notice of name or other designation of class of shares) applies where the new name or other designation is assigned on or after 1st October 2009.
 
 (2) Section 128(4) and (5) of the 1985 Act or Article 138(4) and (5) of the 1986 Order continue to apply where the new name or other designation was assigned before that date.
 
-### 63. Notice of particulars of variation of rights attached to shares (s. 637)[^key-e1c04a1c1f9c93063e946b32788b2756]
+### 63. Notice of particulars of variation of rights attached to shares (s. 637)[^c-e1c04a1c1f9c93063e946b32788b2756]
 
 (1) Section 637 of the Companies Act 2006 (notice of particulars of variation of rights attached to shares) applies where the variation is made on or after 1st October 2009.
 
 (2) Section 128(3) and (5) of the 1985 Act or Article 138(3) and (5) of the 1986 Order continue to apply where the variation was made before that date.
 
-### 64. Notice of new class of members (s. 638)[^key-dbeb549e416828e3d1542c0360a6bd92]
+### 64. Notice of new class of members (s. 638)[^c-dbeb549e416828e3d1542c0360a6bd92]
 
 (1) Section 638 of the Companies Act 2006 (notice of new class of members) applies where a new class of members is created on or after 1st October 2009.
 
 (2) Section 129(1) and (4) of the 1985 Act or Article 139(1) and (4) of the 1986 Order continue to apply where a new class of members was created before that date.
 
-### 65. Notice of name or other designation of class of members (s. 639)[^key-84c935ed8697c83109c54c29be1a6f32]
+### 65. Notice of name or other designation of class of members (s. 639)[^c-84c935ed8697c83109c54c29be1a6f32]
 
 (1) Section 639 of the Companies Act 2006 (notice of name or other designation of class of members) applies where the name or other designation, or new name or other designation, is assigned on or after 1st October 2009.
 
 (2) Section 129(3) and (4) of the 1985 Act or Article 139(3) and (4) of the 1986 Order continue to apply where the name or other designation, or new name or other designation, was assigned before that date.
 
-### 66. Notice of particulars of variation of class rights (s. 640)[^key-b1856a266ce4b33a12948e94ca164a6a]
+### 66. Notice of particulars of variation of class rights (s. 640)[^c-b1856a266ce4b33a12948e94ca164a6a]
 
 (1) Section 640 of the Companies Act 2006 (notice of particulars of variation of class rights) applies where the variation is made on or after 1st October 2009.
 
 (2) Section 129(2) and (4) of the 1985 Act or Article 139(2) and (4) of the 1986 Order continue to apply where the variation was made before that date.
 
-### 67. Repeal of provisions about reserve liability and reserve capital[^key-6204a887ce592239864a87cf31772111]
+### 67. Repeal of provisions about reserve liability and reserve capital[^c-6204a887ce592239864a87cf31772111]
 
 The repeal of—
 
@@ -534,7 +534,7 @@ The repeal of—
 
 does not affect the validity of any resolution under those provisions that is in force immediately before 1st October 2009.
 
-### 68. Reduction of capital confirmed by the court (ss. 645 to 653)[^key-b7aed2a5d35c69b198a1b190336f7064]
+### 68. Reduction of capital confirmed by the court (ss. 645 to 653)[^c-b7aed2a5d35c69b198a1b190336f7064]
 
 (1) Sections 645 to 651 of the Companies Act 2006 (reduction of capital confirmed by the court) apply where an application to the court is made under section 645(1) on or after 1st October 2009.
 
@@ -544,11 +544,11 @@ does not affect the validity of any resolution under those provisions that is in
 
 (4) For the purposes of an application under section 645(1) any amendments of a company’s memorandum contained in a resolution agreed to before 1st October 2009 are treated as amendments of the company’s articles.
 
-**69.**[^key-cc5a306bc18ae9ab201ab3279cf4dfa3] (1) Nothing in section 652 of the Companies Act 2006 (liability of members following reduction of capital) as it applies in relation to a reduction of capital confirmed by the court, or in section 653 of that Act (liability to creditor in case of omission from list of creditors), applies in relation to a reduction of capital in pursuance of an application to the court made before 1st October 2009.
+**69.**[^c-cc5a306bc18ae9ab201ab3279cf4dfa3] (1) Nothing in section 652 of the Companies Act 2006 (liability of members following reduction of capital) as it applies in relation to a reduction of capital confirmed by the court, or in section 653 of that Act (liability to creditor in case of omission from list of creditors), applies in relation to a reduction of capital in pursuance of an application to the court made before 1st October 2009.
 
 (2) The provisions of section 140 of the 1985 Act or Article 150 of the 1986 Order continue to apply in relation to such a reduction.
 
-### 70. Cancellation of shares in public company held by or for the company (ss. 662 to 668)[^key-359c773ce879716e30a099965b4600e4]
+### 70. Cancellation of shares in public company held by or for the company (ss. 662 to 668)[^c-359c773ce879716e30a099965b4600e4]
 
 (1) Section 662 of the Companies Act 2006 (duty to cancel shares in public company held by or for the company) applies where an event mentioned in section 662(1) or 668(1)(a) to (d) occurs on or after 1st October 2009.
 
@@ -559,17 +559,17 @@ does not affect the validity of any resolution under those provisions that is in
 
 (3) The provisions of the 1985 Act or 1986 Order continue to apply in those cases where section 662 does not apply.
 
-**71.**[^key-ec0b977d4d93e30a0f4a6a4aa544bfe1] (1) Section 663 of the Companies Act 2006 (notice of cancellation of shares in public company held by or for the company) applies where the shares referred to in subsection (1) of that section are cancelled on or after 1st October 2009.
+**71.**[^c-ec0b977d4d93e30a0f4a6a4aa544bfe1] (1) Section 663 of the Companies Act 2006 (notice of cancellation of shares in public company held by or for the company) applies where the shares referred to in subsection (1) of that section are cancelled on or after 1st October 2009.
 
 (2) Section 122(1)(f) and (2) of the 1985 Act or Article 132(1)(f) and (2) of the 1986 Order continue to apply where the shares referred to in section 122(1)(f) or Article 132(1)(f) are cancelled before that date.
 
-**72.**[^key-155bd3b7d214f21e43a23aa3618cba8b] (1) Sections 664 to 667 of the Companies Act 2006 (re-registration as private company in consequence of cancellation) apply in any case where section 662 of that Act applies (see paragraph 70(1) and (2) above).
+**72.**[^c-155bd3b7d214f21e43a23aa3618cba8b] (1) Sections 664 to 667 of the Companies Act 2006 (re-registration as private company in consequence of cancellation) apply in any case where section 662 of that Act applies (see paragraph 70(1) and (2) above).
 
 (2) The corresponding provisions of the 1985 Act or 1986 Order continue to apply in any other case.
 
 (3) For the purposes of an application under section 664 made by virtue of paragraph 70(2) above a resolution agreed to before 1st October 2009 under section 147(2) of the 1985 Act or Article 157(2) of the 1986 Order may be treated as if agreed to under section 664(1) and (2) (and as if amendments of the company’s memorandum were amendments of its articles).
 
-### 73. Redeemable shares (ss. 684 to 689)[^key-a9e48237c318b23b4348ae6ab22dfd24]
+### 73. Redeemable shares (ss. 684 to 689)[^c-a9e48237c318b23b4348ae6ab22dfd24]
 
 (1) Section 686(2) of the Companies Act 2006 (terms allowing for payment on date later than redemption date) applies—
 
@@ -578,11 +578,11 @@ does not affect the validity of any resolution under those provisions that is in
 
 (2) So much of section 159(3) of the 1985 Act or Article 169(3) of the 1986 Order as requires payment on redemption continues to apply in any other case.
 
-**74.**[^key-50cc097dcc860f1e385bbc1fea3f36b7] (1) Section 689 of the Companies Act 2006 (notice to registrar of redemption) applies where shares are redeemed on or after 1st October 2009.
+**74.**[^c-50cc097dcc860f1e385bbc1fea3f36b7] (1) Section 689 of the Companies Act 2006 (notice to registrar of redemption) applies where shares are redeemed on or after 1st October 2009.
 
 (2) Section 122(1)(e) and (2) of the 1985 Act or Article 132(1)(e) and (2) of the 1986 Order continue to apply where shares are redeemed before that date.
 
-### 75. Purchase of own shares (ss. 690 to 708)[^key-a6abb56cbf880ded1501ea96a74ba09f]
+### 75. Purchase of own shares (ss. 690 to 708)[^c-a6abb56cbf880ded1501ea96a74ba09f]
 
 Where immediately before 1st October 2009 a resolution is in force having been passed under any provision of—
 
@@ -593,7 +593,7 @@ Where immediately before 1st October 2009 a resolution is in force having been p
 
 the resolution has effect on and after that date as if passed under the corresponding provision of the Companies Act 2006 and may be varied, revoked or renewed from time to time accordingly.
 
-**76.**[^key-28047fb6a55ef8902535ed0f9a201e9c] (1) Sections 693(1)(a) and 694 of the Companies Act 2006 (purchase of own shares: authority for off-market purchase) apply—
+**76.**[^c-28047fb6a55ef8902535ed0f9a201e9c] (1) Sections 693(1)(a) and 694 of the Companies Act 2006 (purchase of own shares: authority for off-market purchase) apply—
 
 - (a) to contracts entered into on or after 1st October 2009, and
 - (b) to contracts entered into before that date that—
@@ -602,29 +602,29 @@ the resolution has effect on and after that date as if passed under the correspo
 
 (2) Sections 164 and 165 of the 1985 Act or Articles 174 and 175 of the 1986 Order continue to apply to any other contract entered into before that date.
 
-**77.**[^key-94ff535083a1298d232ca82ebb56e7a8] (1) Sections 707 and 708 of the Companies Act 2006 (return to registrar of purchase of own shares and notice of cancellation) apply in relation to shares delivered to the company on or after 1st October 2009.
+**77.**[^c-94ff535083a1298d232ca82ebb56e7a8] (1) Sections 707 and 708 of the Companies Act 2006 (return to registrar of purchase of own shares and notice of cancellation) apply in relation to shares delivered to the company on or after 1st October 2009.
 
 (2) Section 169 of the 1985 Act or Article 179 of the 1986 Order continues to apply in relation to shares delivered to the company before that date.
 
-### 78. Power of private company to redeem or purchase own shares out of capital (ss. 709 to 723)[^key-f64793ebef885bc4b2d5a47f24169e42]
+### 78. Power of private company to redeem or purchase own shares out of capital (ss. 709 to 723)[^c-f64793ebef885bc4b2d5a47f24169e42]
 
 (1) Sections 709 to 723 of the Companies Act 2006 (redemption or purchase by private company out of capital) apply where the directors’ statement referred to in section 714 is made on or after 1st October 2009.
 
 (2) Sections 171 to 178 of the 1985 Act or Articles 181 to 188 of the 1986 Order continue to apply where the statutory declaration required by section 173(3) or Article 183(3) was made before that date.
 
-### 79. Treasury shares: disposal (s. 727)[^key-7e5013fed992f896499cb54f26b6b447]
+### 79. Treasury shares: disposal (s. 727)[^c-7e5013fed992f896499cb54f26b6b447]
 
 (1) Section 727(1)(a) of the Companies Act 2006 (treasury shares: disposal) applies where the contract for the sale of the shares is entered into on or after 1st October 2009.
 
 (2) Section 162D(1)(a) of the 1985 Act or Article 172D(1)(a) of the 1986 Order continues to apply where the contract for the sale of the shares was entered into before that date.
 
-### 80. Treasury shares: notice of cancellation (s. 730)[^key-97e3e18295221571f28207bba2c4b0a2]
+### 80. Treasury shares: notice of cancellation (s. 730)[^c-97e3e18295221571f28207bba2c4b0a2]
 
 (1) Section 730 of the Companies Act 2006 (treasury shares: notice of cancellation) applies to shares cancelled on or after 1st October 2009.
 
 (2) Section 169A of the 1985 Act or Article 179A of the 1986 Order continues to apply to shares cancelled before that date.
 
-### 81. Annual returns (ss. 854 to 859)[^key-21deba31d679059a712aeb6f967f3aaa]
+### 81. Annual returns (ss. 854 to 859)[^c-21deba31d679059a712aeb6f967f3aaa]
 
 (1) Sections 854 to 859 of the Companies Act 2006 (a company’s annual return) apply to annual returns made up to a date on or after 1st October 2009.
 
@@ -632,33 +632,33 @@ the resolution has effect on and after that date as if passed under the correspo
 
 (3) Any reference in the Companies Act 2006 to a company’s last return, or to a return delivered in accordance with Part 24 of that Act, shall be read as including (so far as necessary to ensure the continuity of the law) a return made up to a date before 1st October 2009 or delivered in accordance with the 1985 Act or the 1986 Order.
 
-### 82. Company charges (ss. 860 to 894)[^key-2fc7520392e2a90e3333cdf881f7a820]
+### 82. Company charges (ss. 860 to 894)[^c-2fc7520392e2a90e3333cdf881f7a820]
 
 (1) Sections 860 and 878 of the Companies Act 2006 (charges created by company) apply to charges created on or after 1st October 2009.
 
 (2) The corresponding provisions of the 1985 Act or the 1986 Order continue to apply to charges created before that date.
 
-**83.**[^key-65e3bb9024b5cdfbd1eabe7175723312] (1) Sections 862 and 880 of the Companies Act 2006 (charges existing on property acquired) apply to property acquired on or after 1st October 2009.
+**83.**[^c-65e3bb9024b5cdfbd1eabe7175723312] (1) Sections 862 and 880 of the Companies Act 2006 (charges existing on property acquired) apply to property acquired on or after 1st October 2009.
 
 (2) Sections 400 and 416 of the 1985 Act or Article 407 of the 1986 Order continue to apply to property acquired before that date.
 
-**84.**[^key-a9c66d37c23f2639c26ab2cdc2e9092d] (1) Sections 863 and 882 of the Companies Act 2006 (charge in series of debentures) apply where the first debenture of the series is executed on or after 1st October 2009.
+**84.**[^c-a9c66d37c23f2639c26ab2cdc2e9092d] (1) Sections 863 and 882 of the Companies Act 2006 (charge in series of debentures) apply where the first debenture of the series is executed on or after 1st October 2009.
 
 (2) The corresponding provisions of the 1985 Act or the 1986 Order continue to apply where the first debenture of the series is executed before that date.
 
-**85.**[^key-e336dd95d90a71b54180f1f97ba27384] (1) Section 868 of the Companies Act 2006 (Northern Ireland: registration of certain charges etc affecting land) applies where the date of registration of the charge in the Land Registry is on or after 1st October 2009.
+**85.**[^c-e336dd95d90a71b54180f1f97ba27384] (1) Section 868 of the Companies Act 2006 (Northern Ireland: registration of certain charges etc affecting land) applies where the date of registration of the charge in the Land Registry is on or after 1st October 2009.
 
 (2) Article 408 of the 1986 Order continues to apply where the date of registration of the charge in the Land Registry is before that date.
 
-**86.**[^key-a92213f942961cad767bddd79e48f41e] (1) Section 871 of the Companies Act 2006 (notice to registrar of appointment of receiver or manager etc) applies where the order or appointment is made, or the receiver or manager ceases to act, on or after 1st October 2009.
+**86.**[^c-a92213f942961cad767bddd79e48f41e] (1) Section 871 of the Companies Act 2006 (notice to registrar of appointment of receiver or manager etc) applies where the order or appointment is made, or the receiver or manager ceases to act, on or after 1st October 2009.
 
 (2) Section 405 of the 1985 Act or Article 413 of the 1986 Order continues to apply where the order or appointment is made, or the receiver or manager ceases to act, before that date.
 
-**87.**[^key-7b146be361744224b929fc3a5604417d] (1) Sections 872 and 887 of the Companies Act 2006 (entries of satisfaction and release) apply to statements delivered to the registrar on or after 1st October 2009.
+**87.**[^c-7b146be361744224b929fc3a5604417d] (1) Sections 872 and 887 of the Companies Act 2006 (entries of satisfaction and release) apply to statements delivered to the registrar on or after 1st October 2009.
 
 (2) Section 403 or 419 of the 1985 Act or Article 411 of the 1986 Order continues to apply where the relevant statutory declaration, statement or application and statutory declaration or statement is received by the registrar before that date.
 
-### 88. Property of dissolved company (ss. 1012 to 1023)[^key-42b079db555afcaec145907f5077d49c]
+### 88. Property of dissolved company (ss. 1012 to 1023)[^c-42b079db555afcaec145907f5077d49c]
 
 (1) Sections 1012 to 1023 of the Companies Act 2006 (property of dissolved company) apply in relation to the property of a company dissolved on or after 1st October 2009.
 
@@ -676,7 +676,7 @@ the resolution has effect on and after that date as if passed under the correspo
 - (a) the other provisions of sections 1012 to 1022 of the Companies Act 2006 apply accordingly, and
 - (b) the corresponding provisions of the 1985 Act or 1986 Order do not apply.
 
-### 89. Saving for applications to court made before 1st October 2009[^key-573bd6a22c00ccf2b32b000a277bc4f8]
+### 89. Saving for applications to court made before 1st October 2009[^c-573bd6a22c00ccf2b32b000a277bc4f8]
 
 The repeal of—
 
@@ -685,11 +685,11 @@ The repeal of—
 
 does not affect an application made under that section or Article before 1st October 2009.
 
-### 90. Application to court for restoration to the register (ss. 1029 to 1032)[^key-812ee60911bc54b37235fa70c97605db]
+### 90. Application to court for restoration to the register (ss. 1029 to 1032)[^c-812ee60911bc54b37235fa70c97605db]
 
 Sections 1029 to 1032 of the Companies Act 2006 (restoration to register by the court) apply whether the company was dissolved or struck off the register before, on or after 1st October 2009.
 
-**91.**[^key-71cc0289ad45ad2ef8cf6996ec88deb7] (1) The following provisions apply where the company was dissolved or struck off the register before 1st October 2009.
+**91.**[^c-71cc0289ad45ad2ef8cf6996ec88deb7] (1) The following provisions apply where the company was dissolved or struck off the register before 1st October 2009.
 
 (2) In section 1029 (application to court for restoration to register), the references in subsection (1) to enactments under which a company may have been dissolved or struck off include corresponding earlier enactments (and for this purpose sections 1000 and 1003 of that Act are regarded as corresponding to sections 652 and 652A of the 1985 Act and Articles 603 and 603A of the 1986 Order).
 
@@ -706,7 +706,7 @@ whichever occurs first.
 
 (6) Section 1030(5) (extension of period for application where application for administrative restoration refused) applies in relation to the time limit under sub-paragraph (5) above as in relation to the time limit in section 1030(4).
 
-### 92. Effect of restoration to the register where property has vested as bona vacantia (s. 1034)[^key-fed4dc9ff9f74ac7128b92a655fa5890]
+### 92. Effect of restoration to the register where property has vested as bona vacantia (s. 1034)[^c-fed4dc9ff9f74ac7128b92a655fa5890]
 
 (1) Section 1034 of the Companies Act 2006 (effect of restoration to the register where property has vested as bona vacantia) applies whenever the company was dissolved.
 
@@ -716,7 +716,7 @@ whichever occurs first.
 
 (4) No deduction is to be made under section 1034(3) (deduction of reasonable costs of Crown representative from amount payable to company) from consideration realised before 1st October 2009.
 
-### 93. Registration of companies not formed under companies legislation (ss. 1040 to 1042)[^key-38d713b11889c7b43a87d7661358d0e1]
+### 93. Registration of companies not formed under companies legislation (ss. 1040 to 1042)[^c-38d713b11889c7b43a87d7661358d0e1]
 
 (1) The provisions of Chapter 1 of Part 33 of the Companies Act 2006 (registration of companies not formed under companies legislation) apply to applications for registration received by the registrar on or after 1st October 2009.
 
@@ -735,20 +735,20 @@ before 1st October 2009.
 
 (6) For the purposes of section 1297(3) of the Companies Act 2006 (continuity of the law) as it applies to treat the registration of a company under Chapter 2 of Part 22 of the 1985 Act or Chapter 2 of Part 22 of the 1986 Order as if done under the corresponding provision of the Companies Act 2006, the registration of a company on an application to which sub-paragraph (3) above applies is to be regarded as in force and effective immediately before the commencement of Chapter 1 of Part 33 of the Companies Act 2006.
 
-### 94. Fees payable to registrar (s. 1063)[^key-ef1fc08e350c23da8a9ba09e2fdecd6f]
+### 94. Fees payable to registrar (s. 1063)[^c-ef1fc08e350c23da8a9ba09e2fdecd6f]
 
 Any regulations under section 708 of the 1985 Act or Article 657 of the 1986 Order (fees payable to registrar) that are in force immediately before 1st October 2009 have effect on or after that date as if made under section 1063 of the Companies Act 2006.
 
-### 95. Certificates of incorporation (ss. 1064 and 1065)[^key-3c4358eca97a9764d4c4b4af4ad26d3b]
+### 95. Certificates of incorporation (ss. 1064 and 1065)[^c-3c4358eca97a9764d4c4b4af4ad26d3b]
 
 Section 1064 of the Companies Act 2006 (public notice of issue of certificate of incorporation) applies—
 
 - (a) to certificates of incorporation issued under that Act, and
 - (b) to certificates of incorporation issued under the 1985 Act or 1986 Order on or after 1st October 2009.
 
-**96.**[^key-f123fec2e827597dd0b70ed63a8081db] Section 1065 of the Companies Act 2006 (right to be provided with copy of certificate of incorporation) applies to certificates of incorporation whenever issued.
+**96.**[^c-f123fec2e827597dd0b70ed63a8081db] Section 1065 of the Companies Act 2006 (right to be provided with copy of certificate of incorporation) applies to certificates of incorporation whenever issued.
 
-### 97. Delivery of documents to the registrar (ss. 1068 to 1076)[^key-397b645640622d67c72e6d67c55ffd2b][^key-f4f90ef984cf294d2f211db9ab676009]
+### 97. Delivery of documents to the registrar (ss. 1068 to 1076)[^c-397b645640622d67c72e6d67c55ffd2b][^c-f4f90ef984cf294d2f211db9ab676009]
 
 Sections 1068 and 1069 of the Companies Act 2006 (registrar’s requirements as to form, authentication and manner of delivery and power to require delivery by electronic means) apply to all documents delivered to the registrar on or after 1st October 2013.
 
@@ -834,7 +834,7 @@ Sections 1108 to 1110 of the Companies Act 2006 (transliteration of names and ad
 
 Section 1112 of the Companies Act 2006 (general false statement offence) applies to all documents delivered, and statements made, on or after 1st October 2009.
 
-### 110. Resolution to alter company’s objects agreed to before 1st October 2009[^key-80409d0646bba3446600c55919141c66]
+### 110. Resolution to alter company’s objects agreed to before 1st October 2009[^c-80409d0646bba3446600c55919141c66]
 
 (1) The repeal of sections 4 to 6 of the 1985 Act or Articles 15 to 17 of the 1986 Order (resolution to alter company’s objects: procedure for objecting to alteration) does not affect the application of those provisions in relation to a resolution agreed to before 1st October 2009.
 
@@ -845,21 +845,21 @@ Section 1112 of the Companies Act 2006 (general false statement offence) applies
 
 the alteration has effect, in accordance with section 28 of the Companies Act 2006 (provisions of memorandum treated as provisions of articles), as an alteration of the company’s articles of association.
 
-### 111. Provision and authentication by registrar of documents sent by electronic means[^key-330f9669387a8c99496007ed7974c4b8]
+### 111. Provision and authentication by registrar of documents sent by electronic means[^c-330f9669387a8c99496007ed7974c4b8]
 
 (1) The repeal of section 710A of the 1985 Act or Article 659A of the 1986 Order (provision and authentication by registrar of documents in non-legible form) does not affect the application of those provisions on or after 1st October 2009 in relation to saved provisions of that Act or Order.
 
 (2) Section 1115(2) of the Companies Act 2006 (authentication in manner specified by registrar’s rules) does not apply to a document in relation to which section 710A(2) of the 1985 Act or Article 659A(2) of the 1986 Order applies.
 
-### 112. Notice of appointment of certain officers (ss. 1154 and 1155)[^key-cc0a1929c0e93fb1ca48967960e002b6]
+### 112. Notice of appointment of certain officers (ss. 1154 and 1155)[^c-cc0a1929c0e93fb1ca48967960e002b6]
 
 Sections 1154 and 1155 of the Companies Act 2006 (duty to notify registrar of certain appointments etc) apply in relation to appointments made on or after 1st October 2009.
 
-### 113. Amendment of memorandum or articles of commonhold association (s. 1283)[^key-a45e0274d4b476bff584082a7a43ea65]
+### 113. Amendment of memorandum or articles of commonhold association (s. 1283)[^c-a45e0274d4b476bff584082a7a43ea65]
 
 Section 1283 of the Companies Act 2006 (amendment of memorandum or articles of commonhold association) applies to amendments made on or after 1st October 2009.
 
-### 114. Extension of provisions to Northern Ireland (s. 1284)[^key-5a76f1132b34eea646a7e2cc57c108e7]
+### 114. Extension of provisions to Northern Ireland (s. 1284)[^c-5a76f1132b34eea646a7e2cc57c108e7]
 
 (1) The extension to Northern Ireland by section 1284 of the Companies Act 2006 of Parts 14 and 15 of the 1985 Act (company investigations) has effect to enable the exercise of the powers conferred by those Parts in relation to companies registered in Northern Ireland, and otherwise in relation to Northern Ireland, on and after 1st October 2009.
 
@@ -870,7 +870,7 @@ Section 1283 of the Companies Act 2006 (amendment of memorandum or articles of c
 
 (3) A direction in force immediately before 1st October 2009 under Article 438(1A) or 449(1A) of the 1986 Order (direction limiting or relaxing restrictions on shares) shall continue in force and have effect on and after that date as if made under the corresponding provision of Part 14 of the 1985 Act, and the provisions of Part 15 of that Act shall apply accordingly.
 
-### 114A. Company or business name suggesting connection with Welsh Assembly Government[^key-de6fbb4b6672b12aecbea94883b9f368]
+### 114A. Company or business name suggesting connection with Welsh Assembly Government[^c-de6fbb4b6672b12aecbea94883b9f368]
 
 (1) The repeal of section 26(2)(a) of the 1985 Act or section 2(1)(a) of the Business Names Act 1985 does not affect the operation of that provision in relation to names suggesting a connection with the Welsh Assembly Government.
 
@@ -880,13 +880,13 @@ Section 1283 of the Companies Act 2006 (amendment of memorandum or articles of c
 
 (4) Paragraphs (1) to (3) above shall cease to have effect on the coming into force of amendments of the Companies Act 2006 having the effect of extending section 54(1)(a) (company names) or, as the case may be, section 1193(1)(a) (business names) of that Act to names suggesting a connection with the Welsh Assembly Government.
 
-### 115. Saving for provisions as to form or manner in which documents to be delivered[^key-c49b990cdc48528bab80892335202a42]
+### 115. Saving for provisions as to form or manner in which documents to be delivered[^c-c49b990cdc48528bab80892335202a42]
 
 (1) Any saving in this Schedule for the effect of a provision of the 1985 Act or 1986 Order requiring use of a prescribed form extends to the form and the power under which it is prescribed.
 
 (2) Any saving in this Schedule for the effect of a provision of the 1985 Act or 1986 Order requiring a document to be delivered to the registrar extends to section 707B of the 1985 Act or Article 656B of the 1986 Order (delivery to the registrar using electronic communications) so far as relating to the provision in question and the delivery of documents under it.
 
-### 116. Savings for provisions relating to offences[^key-c4621413bc69309f28d0573717783f9c]
+### 116. Savings for provisions relating to offences[^c-c4621413bc69309f28d0573717783f9c]
 
 (1) The repeal of any provision of the 1985 Act or 1986 Order creating an offence does not affect the continued operation of that provision in relation to an offence committed before 1st October 2009.
 
@@ -896,9 +896,9 @@ Section 1283 of the Companies Act 2006 (amendment of memorandum or articles of c
 
 ## Annotations
 
-[^key-44f9f4ffae1ac6074261c630de6e3926]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2) applied (with modifications) (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1313/regulation/6)
+[^c-44f9f4ffae1ac6074261c630de6e3926]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2) applied (with modifications) (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1313/regulation/6)
 
-[^key-71496c2bbbd36cbf4b68cdb52ec7835b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-71496c2bbbd36cbf4b68cdb52ec7835b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
 [^f00010]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -908,214 +908,214 @@ Section 1283 of the Companies Act 2006 (amendment of memorandum or articles of c
 
 [^f00013]: Footnote: [S.R. (NI) 1986 No 264](https://www.legislation.gov.uk/nisr/1986/264).
 
-[^key-4528db0f638a4d58465ebb35f8589b1d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/2) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-4528db0f638a4d58465ebb35f8589b1d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/2) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-5247de8a37e1c665dd20d8394ef295ed]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/3) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-5247de8a37e1c665dd20d8394ef295ed]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/3) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-3d3bc8651cef9ebc01c37f836c275a1e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/4) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-3d3bc8651cef9ebc01c37f836c275a1e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/4) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-1a279a1b73956757adbe3523fc70f3a4]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/5) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-1a279a1b73956757adbe3523fc70f3a4]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/5) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-b47c1db23f72cad9c05b6fca5fad6794]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/6) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-b47c1db23f72cad9c05b6fca5fad6794]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/6) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-d940c7aeb851e79bad1f6153ee0879b5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/7) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-d940c7aeb851e79bad1f6153ee0879b5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/7) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-7f11a95072dc19391aefeea0dbe16239]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/8) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-7f11a95072dc19391aefeea0dbe16239]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/8) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-8eb72a1cf4d7dd9134c9d42b67ed71e5]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/9) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-8eb72a1cf4d7dd9134c9d42b67ed71e5]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/9) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-5d372da48685ee11a085596d92360031]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/10) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-5d372da48685ee11a085596d92360031]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/10) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-ce964da4ba7af478529f5af92e4cb139]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/11) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-ce964da4ba7af478529f5af92e4cb139]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/11) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-12bc6785e7de0b93d79f0279c93302c1]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/12) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-12bc6785e7de0b93d79f0279c93302c1]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/12) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-735c642d8fdacfc3e08ab79bcf9e749f]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/13) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-735c642d8fdacfc3e08ab79bcf9e749f]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/13) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-c5251221e279d171a8630f735ed8efc6]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/14) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-c5251221e279d171a8630f735ed8efc6]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/14) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-96d799c2cffce138313c83ce2ac22604]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/15) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-96d799c2cffce138313c83ce2ac22604]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/15) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-96ac82343e77faec183f4e3096f7854b]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/16) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-96ac82343e77faec183f4e3096f7854b]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/16) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-3027c6e0091dd94516aefb9fa3d6826e]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/17) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-3027c6e0091dd94516aefb9fa3d6826e]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/17) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-75b3b3d908aadbba2e1035c120b03200]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/18) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-75b3b3d908aadbba2e1035c120b03200]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/18) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-5a2fc2e001cd046702dff81d3298725a]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/19) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-5a2fc2e001cd046702dff81d3298725a]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/19) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-f0c69ed54b92b6d05855d8fe8c85aaa7]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/20) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-f0c69ed54b92b6d05855d8fe8c85aaa7]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/20) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-d4fa50e89b512c2696c2e248eda3884f]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/21) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-d4fa50e89b512c2696c2e248eda3884f]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/21) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-c978ca8a4897735bbfd19205880094b9]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/22) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-c978ca8a4897735bbfd19205880094b9]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/22) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-d6ec2dfd9d59cbb024b64ae45acd100c]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/23) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-d6ec2dfd9d59cbb024b64ae45acd100c]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/23) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-f0553556bf984a255c92f9747483fd18]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/24) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-f0553556bf984a255c92f9747483fd18]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/24) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-242b923b88a6da2f407cf5205bc54aa8]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/25) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-242b923b88a6da2f407cf5205bc54aa8]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/25) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-997d80732820411c0be00365cf8f5edb]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/26) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-997d80732820411c0be00365cf8f5edb]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/26) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-36ae540b438b08d72961759a969b7c0c]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/27) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-36ae540b438b08d72961759a969b7c0c]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/27) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-0fab9d723a6bfc28af1147ffcb30909d]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/28) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-0fab9d723a6bfc28af1147ffcb30909d]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/28) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-83e33c20dd050c7be535d8d7d365cd75]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/29) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-83e33c20dd050c7be535d8d7d365cd75]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/29) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-40e448f78d44b436de81790dc538b093]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/30) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-40e448f78d44b436de81790dc538b093]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/30) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-19e89d783d3340939ba52cec2f4bf788]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/31) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-19e89d783d3340939ba52cec2f4bf788]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/31) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-a8c8d7e8cea971398493cedc69a8b025]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/32) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-a8c8d7e8cea971398493cedc69a8b025]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/32) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-36dedd62d07e855065e05ed6cb246dc6]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/33) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-36dedd62d07e855065e05ed6cb246dc6]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/33) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-2ca27f1f80c952ce5043011186aabaf0]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/34) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-2ca27f1f80c952ce5043011186aabaf0]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/34) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-3b17dd6e27db087cec5d8e52f2e60c55]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/35) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-3b17dd6e27db087cec5d8e52f2e60c55]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/35) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-4363501956d018b2ca0d41ffb5c4cff8]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/36) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-4363501956d018b2ca0d41ffb5c4cff8]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/36) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-b331943ce222b62fd176297031cee9b0]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/37) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-b331943ce222b62fd176297031cee9b0]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/37) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-87023569551428ce0a5e90aff09c3874]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/38) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-87023569551428ce0a5e90aff09c3874]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/38) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-3875fbe69c6a67c1fc881d33f214ae87]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/39) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-3875fbe69c6a67c1fc881d33f214ae87]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/39) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-990b53cc538a7bf9b3c9b831c47e1613]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/40) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-990b53cc538a7bf9b3c9b831c47e1613]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/40) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-9f1557f1d0c78bd06d29789b0372dd8f]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/41) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-9f1557f1d0c78bd06d29789b0372dd8f]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/41) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-b864530dab15db29f2b761f1cf56f28b]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/42) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-b864530dab15db29f2b761f1cf56f28b]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/42) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-dd0143872bef955e4fbc3abeaa99e415]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/43) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-dd0143872bef955e4fbc3abeaa99e415]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/43) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-3633a03f434ed9bd68fde16be3e2aa00]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/44) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-3633a03f434ed9bd68fde16be3e2aa00]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/44) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-e4363092b08ca2ac69502574d72efea4]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/45) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-e4363092b08ca2ac69502574d72efea4]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/45) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-b7948d9c604898cbfeb6e4bbf1aeb5ab]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/46) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-b7948d9c604898cbfeb6e4bbf1aeb5ab]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/46) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-4fc791df0abd7ddfce79ae13b5ab4e69]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/47) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-4fc791df0abd7ddfce79ae13b5ab4e69]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/47) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-356aa92940d621c611c5f82f488e88e8]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/48) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-356aa92940d621c611c5f82f488e88e8]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/48) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-f2e5778a2abb07ffa7849ae5bdd5483e]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/49) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-f2e5778a2abb07ffa7849ae5bdd5483e]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/49) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-45c8572ab3cd3c0175ab8f83a1feae88]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/50) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-45c8572ab3cd3c0175ab8f83a1feae88]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/50) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-cf2ce41ed317e614d6e5f4a6d83760ae]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/51) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-cf2ce41ed317e614d6e5f4a6d83760ae]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/51) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-d0736cedb30275be3edad0c6948b0b33]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/52) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-d0736cedb30275be3edad0c6948b0b33]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/52) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-8345cf456deeb3050bc3b215915597e5]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/53) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-8345cf456deeb3050bc3b215915597e5]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/53) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-8ba5b71c3718838c38008266ecc0f0f3]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/54) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-8ba5b71c3718838c38008266ecc0f0f3]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/54) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-9d1203b7b05bdce87a4074c5428b96bf]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/55) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-9d1203b7b05bdce87a4074c5428b96bf]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/55) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-9c5c17e6c359da9d05db22c3a1b9ad22]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/56) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-9c5c17e6c359da9d05db22c3a1b9ad22]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/56) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
 [^f00014]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-a6d0acd1d89dfe35715c0af21faf879b]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/57) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-a6d0acd1d89dfe35715c0af21faf879b]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/57) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-f2f33aca610a4e54ec0a9538f85820a4]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/58) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-f2f33aca610a4e54ec0a9538f85820a4]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/58) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-ab7134657e8b3eea9749f4e5c7147189]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/59) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-ab7134657e8b3eea9749f4e5c7147189]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/59) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-e4f28012dc447d95d83eace619299122]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/60) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-e4f28012dc447d95d83eace619299122]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/60) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-e726eac01325078381acb42c0a342444]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/61) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-e726eac01325078381acb42c0a342444]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/61) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-5415ccc2efa3d266a2021346b4914a02]: Commencement: [Sch. 2 para. 62](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/62) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-5415ccc2efa3d266a2021346b4914a02]: Commencement: [Sch. 2 para. 62](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/62) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-e1c04a1c1f9c93063e946b32788b2756]: Commencement: [Sch. 2 para. 63](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/63) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-e1c04a1c1f9c93063e946b32788b2756]: Commencement: [Sch. 2 para. 63](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/63) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-dbeb549e416828e3d1542c0360a6bd92]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/64) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-dbeb549e416828e3d1542c0360a6bd92]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/64) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-84c935ed8697c83109c54c29be1a6f32]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/65) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-84c935ed8697c83109c54c29be1a6f32]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/65) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-b1856a266ce4b33a12948e94ca164a6a]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/66) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-b1856a266ce4b33a12948e94ca164a6a]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/66) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-6204a887ce592239864a87cf31772111]: Commencement: [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/67) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-6204a887ce592239864a87cf31772111]: Commencement: [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/67) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-b7aed2a5d35c69b198a1b190336f7064]: Commencement: [Sch. 2 para. 68](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/68) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-b7aed2a5d35c69b198a1b190336f7064]: Commencement: [Sch. 2 para. 68](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/68) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-cc5a306bc18ae9ab201ab3279cf4dfa3]: Commencement: [Sch. 2 para. 69](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/69) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-cc5a306bc18ae9ab201ab3279cf4dfa3]: Commencement: [Sch. 2 para. 69](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/69) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-359c773ce879716e30a099965b4600e4]: Commencement: [Sch. 2 para. 70](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/70) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-359c773ce879716e30a099965b4600e4]: Commencement: [Sch. 2 para. 70](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/70) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-ec0b977d4d93e30a0f4a6a4aa544bfe1]: Commencement: [Sch. 2 para. 71](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/71) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-ec0b977d4d93e30a0f4a6a4aa544bfe1]: Commencement: [Sch. 2 para. 71](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/71) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-155bd3b7d214f21e43a23aa3618cba8b]: Commencement: [Sch. 2 para. 72](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/72) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-155bd3b7d214f21e43a23aa3618cba8b]: Commencement: [Sch. 2 para. 72](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/72) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-a9e48237c318b23b4348ae6ab22dfd24]: Commencement: [Sch. 2 para. 73](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/73) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-a9e48237c318b23b4348ae6ab22dfd24]: Commencement: [Sch. 2 para. 73](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/73) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-50cc097dcc860f1e385bbc1fea3f36b7]: Commencement: [Sch. 2 para. 74](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/74) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-50cc097dcc860f1e385bbc1fea3f36b7]: Commencement: [Sch. 2 para. 74](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/74) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-a6abb56cbf880ded1501ea96a74ba09f]: Commencement: [Sch. 2 para. 75](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/75) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-a6abb56cbf880ded1501ea96a74ba09f]: Commencement: [Sch. 2 para. 75](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/75) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-28047fb6a55ef8902535ed0f9a201e9c]: Commencement: [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/76) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-28047fb6a55ef8902535ed0f9a201e9c]: Commencement: [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/76) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-94ff535083a1298d232ca82ebb56e7a8]: Commencement: [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/77) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-94ff535083a1298d232ca82ebb56e7a8]: Commencement: [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/77) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-f64793ebef885bc4b2d5a47f24169e42]: Commencement: [Sch. 2 para. 78](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/78) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-f64793ebef885bc4b2d5a47f24169e42]: Commencement: [Sch. 2 para. 78](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/78) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-7e5013fed992f896499cb54f26b6b447]: Commencement: [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/79) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-7e5013fed992f896499cb54f26b6b447]: Commencement: [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/79) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-97e3e18295221571f28207bba2c4b0a2]: Commencement: [Sch. 2 para. 80](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/80) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-97e3e18295221571f28207bba2c4b0a2]: Commencement: [Sch. 2 para. 80](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/80) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-21deba31d679059a712aeb6f967f3aaa]: Commencement: [Sch. 2 para. 81](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/81) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-21deba31d679059a712aeb6f967f3aaa]: Commencement: [Sch. 2 para. 81](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/81) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-2fc7520392e2a90e3333cdf881f7a820]: Commencement: [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/82) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-2fc7520392e2a90e3333cdf881f7a820]: Commencement: [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/82) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-65e3bb9024b5cdfbd1eabe7175723312]: Commencement: [Sch. 2 para. 83](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/83) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-65e3bb9024b5cdfbd1eabe7175723312]: Commencement: [Sch. 2 para. 83](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/83) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-a9c66d37c23f2639c26ab2cdc2e9092d]: Commencement: [Sch. 2 para. 84](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/84) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-a9c66d37c23f2639c26ab2cdc2e9092d]: Commencement: [Sch. 2 para. 84](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/84) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-e336dd95d90a71b54180f1f97ba27384]: Commencement: [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/85) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-e336dd95d90a71b54180f1f97ba27384]: Commencement: [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/85) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-a92213f942961cad767bddd79e48f41e]: Commencement: [Sch. 2 para. 86](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/86) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-a92213f942961cad767bddd79e48f41e]: Commencement: [Sch. 2 para. 86](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/86) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-7b146be361744224b929fc3a5604417d]: Commencement: [Sch. 2 para. 87](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/87) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-7b146be361744224b929fc3a5604417d]: Commencement: [Sch. 2 para. 87](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/87) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-42b079db555afcaec145907f5077d49c]: Textual amendment: Sch. 2 paras. 88, 88A substituted for Sch. 2 para. 88 (1.10.2009) by [The Companies Act 2006 and Limited Liability Partnerships (Transitional Provisions and Savings) (Amendment) Regulations 2009 (S.I. 2009/2476)](https://www.legislation.gov.uk/uksi/2009/2476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2/3)
+[^c-42b079db555afcaec145907f5077d49c]: Textual amendment: Sch. 2 paras. 88, 88A substituted for Sch. 2 para. 88 (1.10.2009) by [The Companies Act 2006 and Limited Liability Partnerships (Transitional Provisions and Savings) (Amendment) Regulations 2009 (S.I. 2009/2476)](https://www.legislation.gov.uk/uksi/2009/2476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2/3)
 
-[^key-573bd6a22c00ccf2b32b000a277bc4f8]: Commencement: [Sch. 2 para. 89](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/89) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-573bd6a22c00ccf2b32b000a277bc4f8]: Commencement: [Sch. 2 para. 89](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/89) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-812ee60911bc54b37235fa70c97605db]: Commencement: [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/90) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-812ee60911bc54b37235fa70c97605db]: Commencement: [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/90) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-71cc0289ad45ad2ef8cf6996ec88deb7]: Commencement: [Sch. 2 para. 91](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/91) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-71cc0289ad45ad2ef8cf6996ec88deb7]: Commencement: [Sch. 2 para. 91](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/91) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-fed4dc9ff9f74ac7128b92a655fa5890]: Commencement: [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/92) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-fed4dc9ff9f74ac7128b92a655fa5890]: Commencement: [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/92) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-38d713b11889c7b43a87d7661358d0e1]: Commencement: [Sch. 2 para. 93](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/93) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-38d713b11889c7b43a87d7661358d0e1]: Commencement: [Sch. 2 para. 93](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/93) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-ef1fc08e350c23da8a9ba09e2fdecd6f]: Commencement: [Sch. 2 para. 94](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/94) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-ef1fc08e350c23da8a9ba09e2fdecd6f]: Commencement: [Sch. 2 para. 94](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/94) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-3c4358eca97a9764d4c4b4af4ad26d3b]: Commencement: [Sch. 2 para. 95](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/95) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-3c4358eca97a9764d4c4b4af4ad26d3b]: Commencement: [Sch. 2 para. 95](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/95) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-f123fec2e827597dd0b70ed63a8081db]: Commencement: [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/96) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-f123fec2e827597dd0b70ed63a8081db]: Commencement: [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/96) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-397b645640622d67c72e6d67c55ffd2b]: Textual amendment: Sch. 2 para. 97 substituted (1.10.2013) by [The Companies and Limited Liability Partnerships (Forms, etc.) Amendment Regulations 2013 (S.I. 2013/1947)](https://www.legislation.gov.uk/uksi/2013/1947), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1947/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/1947/regulation/2)
+[^c-397b645640622d67c72e6d67c55ffd2b]: Textual amendment: Sch. 2 para. 97 substituted (1.10.2013) by [The Companies and Limited Liability Partnerships (Forms, etc.) Amendment Regulations 2013 (S.I. 2013/1947)](https://www.legislation.gov.uk/uksi/2013/1947), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1947/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/1947/regulation/2)
 
-[^key-f4f90ef984cf294d2f211db9ab676009]: Textual amendment: [Sch. 2 paras. 97-109](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/97) substituted (1.10.2009) by [The Companies Act 2006 (Part 35) (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1802)](https://www.legislation.gov.uk/uksi/2009/1802), [art. 1](https://www.legislation.gov.uk/uksi/2009/1802/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/1802/schedule)
+[^c-f4f90ef984cf294d2f211db9ab676009]: Textual amendment: [Sch. 2 paras. 97-109](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/97) substituted (1.10.2009) by [The Companies Act 2006 (Part 35) (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1802)](https://www.legislation.gov.uk/uksi/2009/1802), [art. 1](https://www.legislation.gov.uk/uksi/2009/1802/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/1802/schedule)
 
-[^key-80409d0646bba3446600c55919141c66]: Commencement: Sch. 2 para. 110 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-80409d0646bba3446600c55919141c66]: Commencement: Sch. 2 para. 110 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-330f9669387a8c99496007ed7974c4b8]: Commencement: Sch. 2 para. 111 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-330f9669387a8c99496007ed7974c4b8]: Commencement: Sch. 2 para. 111 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-cc0a1929c0e93fb1ca48967960e002b6]: Commencement: Sch. 2 para. 112 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-cc0a1929c0e93fb1ca48967960e002b6]: Commencement: Sch. 2 para. 112 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-a45e0274d4b476bff584082a7a43ea65]: Commencement: Sch. 2 para. 113 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-a45e0274d4b476bff584082a7a43ea65]: Commencement: Sch. 2 para. 113 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-5a76f1132b34eea646a7e2cc57c108e7]: Commencement: Sch. 2 para. 114 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-5a76f1132b34eea646a7e2cc57c108e7]: Commencement: Sch. 2 para. 114 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-de6fbb4b6672b12aecbea94883b9f368]: Textual amendment: Sch. 2 para. 114A inserted (1.10.2009) by [The Companies Act 2006 and Limited Liability Partnerships (Transitional Provisions and Savings) (Amendment) Regulations 2009 (S.I. 2009/2476)](https://www.legislation.gov.uk/uksi/2009/2476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2/4)
+[^c-de6fbb4b6672b12aecbea94883b9f368]: Textual amendment: Sch. 2 para. 114A inserted (1.10.2009) by [The Companies Act 2006 and Limited Liability Partnerships (Transitional Provisions and Savings) (Amendment) Regulations 2009 (S.I. 2009/2476)](https://www.legislation.gov.uk/uksi/2009/2476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2/4)
 
-[^key-c49b990cdc48528bab80892335202a42]: Commencement: Sch. 2 para. 115 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-c49b990cdc48528bab80892335202a42]: Commencement: Sch. 2 para. 115 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-c4621413bc69309f28d0573717783f9c]: Commencement: Sch. 2 para. 116 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-c4621413bc69309f28d0573717783f9c]: Commencement: Sch. 2 para. 116 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)

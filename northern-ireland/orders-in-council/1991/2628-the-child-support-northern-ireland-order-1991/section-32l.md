@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32L. Orders preventing avoidance[^key-f1ac7f1151abb77cc9f5404e84506c61]
+## 32L. Orders preventing avoidance[^c-f1ac7f1151abb77cc9f5404e84506c61]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ for an order setting aside the disposition.
 
 (4) Where the court makes an order under paragraph (1) or (2) it may make such consequential provision by order or directions as it thinks fit for giving effect to the order (including provision requiring the making of any payments or the disposal of any property).
 
-(5) Any disposition is a reviewable disposition for the purposes of paragraph (2), unless it was made for valuable consideration (other than marriage or formation of a civil partnership[^key-129a5e04bf7ecc1ee8e9878fc47b2b4b]) to a person who, at the time of the disposition, acted in relation to it in good faith and without notice of an intention to avoid payment of child support maintenance.
+(5) Any disposition is a reviewable disposition for the purposes of paragraph (2), unless it was made for valuable consideration (other than marriage or formation of a civil partnership[^c-129a5e04bf7ecc1ee8e9878fc47b2b4b]) to a person who, at the time of the disposition, acted in relation to it in good faith and without notice of an intention to avoid payment of child support maintenance.
 
 (6) Paragraph (7) applies where an application is made under this Article with respect to—
 
@@ -60,6 +60,6 @@ it is to be presumed, unless the contrary is shown, that the person who disposed
 
 ## Annotations
 
-[^key-f1ac7f1151abb77cc9f5404e84506c61]: Textual amendment: [Art. 32L](https://www.legislation.gov.uk/nisi/1991/2628/article/32L) inserted (20.12.2010) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 16](https://www.legislation.gov.uk/nia/2008/10/section/16), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)[(3)](https://www.legislation.gov.uk/nia/2008/10/section/40/3)); [S.R. 2010/416](https://www.legislation.gov.uk/nisr/2010/416), [art. 2](https://www.legislation.gov.uk/nisr/2010/416/article/2)
+[^c-f1ac7f1151abb77cc9f5404e84506c61]: Textual amendment: [Art. 32L](https://www.legislation.gov.uk/nisi/1991/2628/article/32L) inserted (20.12.2010) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 16](https://www.legislation.gov.uk/nia/2008/10/section/16), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)[(3)](https://www.legislation.gov.uk/nia/2008/10/section/40/3)); [S.R. 2010/416](https://www.legislation.gov.uk/nisr/2010/416), [art. 2](https://www.legislation.gov.uk/nisr/2010/416/article/2)
 
-[^key-129a5e04bf7ecc1ee8e9878fc47b2b4b]: Textual amendment: Words in [art. 32L(5)](https://www.legislation.gov.uk/nisi/1991/2628/article/32L/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [64(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/64/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-129a5e04bf7ecc1ee8e9878fc47b2b4b]: Textual amendment: Words in [art. 32L(5)](https://www.legislation.gov.uk/nisi/1991/2628/article/32L/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [64(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/64/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

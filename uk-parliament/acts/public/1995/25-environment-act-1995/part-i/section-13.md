@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Regional and local fisheries advisory committees.[^key-5a5e03d674ad3cbc0282a7c8511f5a59]
+## 13. Regional and local fisheries advisory committees.[^c-5a5e03d674ad3cbc0282a7c8511f5a59]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a5e03d674ad3cbc0282a7c8511f5a59]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1995/25/section/13) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2013/755/article/9/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5a5e03d674ad3cbc0282a7c8511f5a59]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1995/25/section/13) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2013/755/article/9/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

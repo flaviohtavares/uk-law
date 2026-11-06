@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Temporary registration documents for fishing vessels[^key-11bfaa6ca1d142ad9dc6161c28e74aeb]
+## 38. Temporary registration documents for fishing vessels[^c-11bfaa6ca1d142ad9dc6161c28e74aeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11bfaa6ca1d142ad9dc6161c28e74aeb]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1993/3138/regulation/38) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-11bfaa6ca1d142ad9dc6161c28e74aeb]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1993/3138/regulation/38) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

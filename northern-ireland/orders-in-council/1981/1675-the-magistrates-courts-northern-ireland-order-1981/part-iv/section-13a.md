@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13A. Control of magistrates' courts rules[^key-a4872be0be2fda4127fd3cd4dbd3474b]
+## 13A. Control of magistrates' courts rules[^c-a4872be0be2fda4127fd3cd4dbd3474b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4872be0be2fda4127fd3cd4dbd3474b]: Textual amendment: Art. 13A inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28](https://www.legislation.gov.uk/ukpga/2014/13/section/28), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/4/2)
+[^c-a4872be0be2fda4127fd3cd4dbd3474b]: Textual amendment: Art. 13A inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28](https://www.legislation.gov.uk/ukpga/2014/13/section/28), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/4/2)

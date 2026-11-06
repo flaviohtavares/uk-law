@@ -54,11 +54,11 @@ The General Medical Council has made the General Medical Council (Constitution o
 
 By virtue of paragraph 24 of Schedule 1[^f00002] to that Act the Rules shall not have effect until approved by order of the Privy Council.
 
-## 1. Citation and commencement[^key-4177b9ff905855a000cd90545063cb98]
+## 1. Citation and commencement[^c-4177b9ff905855a000cd90545063cb98]
 
 This Order may be cited as the General Medical Council (Constitution of the Medical Practitioners Tribunal Service) Rules Order of Council 2015 and comes into force on 31st December 2015.
 
-## 2. Privy Council approval[^key-ac52042a06dc4a60c36a948388a54022]
+## 2. Privy Council approval[^c-ac52042a06dc4a60c36a948388a54022]
 
 Their Lordships, having taken the Rules in the Schedule into consideration, are pleased to and do approve them.
 
@@ -72,26 +72,26 @@ Article 2
 
 These Rules are made by the General Medical Council in exercise of the powers conferred by paragraph 19F of Schedule 1 to the Medical Act 1983[^f00003].
 
-### 1. Citation, commencement and interpretation[^key-99d417209630a7c8a6312280b9398afc]
+### 1. Citation, commencement and interpretation[^c-99d417209630a7c8a6312280b9398afc]
 
 These Rules may be cited as the General Medical Council (Constitution of the Medical Practitioners Tribunal Service) Rules 2015 and come into force on 31st December 2015.
 
-**2.**[^key-f0a9f627459e55e2813c6662b3609452] Interpretation In these Rules—
+**2.**[^c-f0a9f627459e55e2813c6662b3609452] Interpretation In these Rules—
 
 - “the Act” means the Medical Act 1983;
 - “chair” means the chair of the MPTS;
 - “final outcome”, in relation to any proceedings where there are rights of appeal, means the outcome of the proceedings—
   - (a) once the period for bringing an appeal has expired without an appeal being brought; or
   - (b) if an appeal is brought in accordance with those rights, once those rights have been exhausted;
-- “lay”, in relation to any person, has the same meaning as in paragraph 1A(1)(b) of Schedule 1 to the Act;[^key-87ba4008a5b1b88ccff11b0634eb6526]
+- “lay”, in relation to any person, has the same meaning as in paragraph 1A(1)(b) of Schedule 1 to the Act;[^c-87ba4008a5b1b88ccff11b0634eb6526]
 - “licensing body” means any body, other than the General Council, anywhere in the world that licenses or regulates any profession;
 - “member”, unless the context otherwise requires, means a registrant member or a lay member and includes the chair;
-- “registrant” has the same meaning as in paragraph 1A(1)(a) of Schedule 1 to the Act;[^key-5ee620285e6766a0ef633f9784d2c363]
+- “registrant” has the same meaning as in paragraph 1A(1)(a) of Schedule 1 to the Act;[^c-5ee620285e6766a0ef633f9784d2c363]
 - “spent conviction” means—
   - (a) in relation to a conviction by a court in Great Britain, a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders Act 1974[^f00004]; or
   - (b) in relation to a conviction by a court in Northern Ireland, a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders (Northern Ireland) Order 1978[^f00005].
 
-### 3. Composition of the MPTS[^key-5661332c6947f5218816f6e6d3428f5e]
+### 3. Composition of the MPTS[^c-5661332c6947f5218816f6e6d3428f5e]
 
 (1) The MPTS are to consist of 2 registrant members and 3 lay members.
 
@@ -99,7 +99,7 @@ These Rules may be cited as the General Medical Council (Constitution of the Med
 
 (3) The General Council must set and publish criteria which a person must satisfy (whether in relation to qualifications, experience, competencies or other matters) in order to be eligible for appointment as chair or another member of the MPTS.
 
-### 4. Terms of office of members[^key-12e36b11a348572f8f1b58a733c236e0]
+### 4. Terms of office of members[^c-12e36b11a348572f8f1b58a733c236e0]
 
 (1) The term of office for which a member of the MPTS is appointed is to be determined by the General Council on appointment.
 
@@ -107,14 +107,14 @@ These Rules may be cited as the General Medical Council (Constitution of the Med
 
 (3) For the purposes of the computation of years under paragraph (2), service after 1st February 2012 as a member of the relevant committee constituted under paragraph 25 of Schedule 1 to the Act is to be taken into account: this applies to a member appointed to the MPTS under paragraph 19F(6) of Schedule 1 to the Act.
 
-### 5. Education and training of members[^key-60dd8ca1e3da17db826da35eff453056]
+### 5. Education and training of members[^c-60dd8ca1e3da17db826da35eff453056]
 
 (1) The General Council must make provision in standing orders with respect to the requirements with regard to education and training of members of the MPTS, and those standing orders may provide for—
 
 - (a) education and training to be the responsibility of another body; and
 - (b) those requirements to be set and varied by that body from time to time.
 
-### 6. Disqualification from appointment as a member[^key-2b596c9555ebceb27b21d3d667c1a152]
+### 6. Disqualification from appointment as a member[^c-2b596c9555ebceb27b21d3d667c1a152]
 
 (1) A person (P) is disqualified from appointment as a member of the MPTS if any of the following paragraphs apply.
 
@@ -175,7 +175,7 @@ These Rules may be cited as the General Medical Council (Constitution of the Med
 
 (16) If P has at any time been convicted of an offence elsewhere than in the United Kingdom and the General Council is satisfied that the person’s membership of the MPTS would be liable to undermine public confidence in the regulation of the medical profession.
 
-### 7. Removal of members from office[^key-94ba580ab9b6ccfef4682529cf2e0632]
+### 7. Removal of members from office[^c-94ba580ab9b6ccfef4682529cf2e0632]
 
 (1) A registrant member or a lay member of the MPTS must be removed from office by the General Council in the following circumstances.
 
@@ -214,7 +214,7 @@ These Rules may be cited as the General Medical Council (Constitution of the Med
 - (a) a member has become, or may be about to become, a person to whom any of paragraphs (2), (3) or (4)(b) or (c) applies; and
 - (b) that member has not notified the General Council in writing of that fact and the chair is not satisfied that the member will do so immediately.
 
-### 8. Suspension of members from office[^key-cc7161ca490354a1adb97fdf7353ae3c]
+### 8. Suspension of members from office[^c-cc7161ca490354a1adb97fdf7353ae3c]
 
 (1) The General Council may suspend a member of the MPTS from office by a notice in writing served on the member—
 
@@ -250,7 +250,7 @@ These Rules may be cited as the General Medical Council (Constitution of the Med
 
 ### Chair of the MPTS
 
-#### 9. Appointment, term of office and cessation of office of the chair[^key-ea35328837813b6b3cb6b2d7b56a635e]
+#### 9. Appointment, term of office and cessation of office of the chair[^c-ea35328837813b6b3cb6b2d7b56a635e]
 
 (1) The General Council must, as one of its functions relating to the appointment of members of the MPTS, appoint the chair of the MPTS.
 
@@ -268,7 +268,7 @@ These Rules may be cited as the General Medical Council (Constitution of the Med
 - (c) suspension of the appointee’s membership of the MPTS by the General Council; or
 - (d) a vote to terminate the appointee’s appointment as chair by a simple majority of the members of the General Council.
 
-#### 10. Deputising arrangements[^key-d88d9d58d47d3335455d8ea4407c51ff]
+#### 10. Deputising arrangements[^c-d88d9d58d47d3335455d8ea4407c51ff]
 
 (1) If, for any reason, the chair is absent from a meeting of the MPTS, the General Council may —
 
@@ -299,7 +299,7 @@ This is subject to paragraph (2).
 - (d) if the member’s membership of the MPTS is suspended by the General Council; or
 - (e) if the General Council votes (by a majority at a quorate meeting) to terminate the member’s appointment as deputy chair.
 
-#### 11. Delegation[^key-eb3d1f48acb845301f7babbb697c1698]
+#### 11. Delegation[^c-eb3d1f48acb845301f7babbb697c1698]
 
 (1) The General Council may direct the MPTS to delegate to the chair of the MPTS, or to such other officer of the General Council as the Council determines, such of the functions of the MPTS as the Council determines.
 
@@ -307,11 +307,11 @@ This is subject to paragraph (2).
 
 ### Proceedings of the MPTS
 
-#### 12. Quorum[^key-a258e91ee55f2d3ac9f8a4ac042438b2]
+#### 12. Quorum[^c-a258e91ee55f2d3ac9f8a4ac042438b2]
 
 The quorum of the MPTS is to be 3.
 
-#### 13. Effect of vacancies etc. on the validity of proceedings[^key-ca050d3a9d23b3a16d7df9da0eeb9b20]
+#### 13. Effect of vacancies etc. on the validity of proceedings[^c-ca050d3a9d23b3a16d7df9da0eeb9b20]
 
 (1) The validity of any proceedings of the MPTS is not to be affected by—
 
@@ -365,31 +365,31 @@ Rule 11 provides that the proceedings of the MPTS are unaffected by certain spec
 
 [^f00002]: Footnote: Paragraph 24 was amended by article 4(5) of [S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794).
 
-[^key-4177b9ff905855a000cd90545063cb98]: Commencement: Art. 1 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-4177b9ff905855a000cd90545063cb98]: Commencement: Art. 1 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
-[^key-ac52042a06dc4a60c36a948388a54022]: Commencement: Art. 2 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-ac52042a06dc4a60c36a948388a54022]: Commencement: Art. 2 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
 [^f00003]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Paragraph 19F of Schedule 1 was inserted by article 2(4) of [S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794).
 
-[^key-99d417209630a7c8a6312280b9398afc]: Commencement: Sch. rule 1 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-99d417209630a7c8a6312280b9398afc]: Commencement: Sch. rule 1 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
-[^key-f0a9f627459e55e2813c6662b3609452]: Commencement: Sch. rule 2 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-f0a9f627459e55e2813c6662b3609452]: Commencement: Sch. rule 2 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
-[^key-87ba4008a5b1b88ccff11b0634eb6526]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2015/1967/schedule/rule/2) substituted (13.12.2024) by [The General Medical Council (Miscellaneous Amendments) Order of Council 2024 (S.I. 2024/1133)](https://www.legislation.gov.uk/uksi/2024/1133), [art. 1](https://www.legislation.gov.uk/uksi/2024/1133/article/1), [Sch. rule 3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1133/schedule/rule/3/2/a)
+[^c-87ba4008a5b1b88ccff11b0634eb6526]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2015/1967/schedule/rule/2) substituted (13.12.2024) by [The General Medical Council (Miscellaneous Amendments) Order of Council 2024 (S.I. 2024/1133)](https://www.legislation.gov.uk/uksi/2024/1133), [art. 1](https://www.legislation.gov.uk/uksi/2024/1133/article/1), [Sch. rule 3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1133/schedule/rule/3/2/a)
 
-[^key-5ee620285e6766a0ef633f9784d2c363]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2015/1967/schedule/rule/2) substituted (13.12.2024) by [The General Medical Council (Miscellaneous Amendments) Order of Council 2024 (S.I. 2024/1133)](https://www.legislation.gov.uk/uksi/2024/1133), [art. 1](https://www.legislation.gov.uk/uksi/2024/1133/article/1), [Sch. rule 3(2)(b)](https://www.legislation.gov.uk/uksi/2024/1133/schedule/rule/3/2/b)
+[^c-5ee620285e6766a0ef633f9784d2c363]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2015/1967/schedule/rule/2) substituted (13.12.2024) by [The General Medical Council (Miscellaneous Amendments) Order of Council 2024 (S.I. 2024/1133)](https://www.legislation.gov.uk/uksi/2024/1133), [art. 1](https://www.legislation.gov.uk/uksi/2024/1133/article/1), [Sch. rule 3(2)(b)](https://www.legislation.gov.uk/uksi/2024/1133/schedule/rule/3/2/b)
 
 [^f00004]: Footnote: [1974 c.53](https://www.legislation.gov.uk/ukpga/1974/53).
 
 [^f00005]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
 
-[^key-5661332c6947f5218816f6e6d3428f5e]: Commencement: Sch. rule 3 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-5661332c6947f5218816f6e6d3428f5e]: Commencement: Sch. rule 3 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
-[^key-12e36b11a348572f8f1b58a733c236e0]: Commencement: Sch. rule 4 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-12e36b11a348572f8f1b58a733c236e0]: Commencement: Sch. rule 4 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
-[^key-60dd8ca1e3da17db826da35eff453056]: Commencement: Sch. rule 5 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-60dd8ca1e3da17db826da35eff453056]: Commencement: Sch. rule 5 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
-[^key-2b596c9555ebceb27b21d3d667c1a152]: Commencement: Sch. rule 6 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-2b596c9555ebceb27b21d3d667c1a152]: Commencement: Sch. rule 6 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
 [^f00006]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
@@ -407,20 +407,20 @@ Rule 11 provides that the proceedings of the MPTS are unaffected by certain spec
 
 [^f00013]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-94ba580ab9b6ccfef4682529cf2e0632]: Commencement: Sch. rule 7 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-94ba580ab9b6ccfef4682529cf2e0632]: Commencement: Sch. rule 7 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
-[^key-cc7161ca490354a1adb97fdf7353ae3c]: Commencement: Sch. rule 8 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-cc7161ca490354a1adb97fdf7353ae3c]: Commencement: Sch. rule 8 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
 [^f00014]: Footnote: Section 38 was substituted by article 13 of [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by article 12(6) of [S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794).
 
 [^f00015]: Footnote: Section 41A was substituted by article 13 of [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by article 6 of [S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794).
 
-[^key-ea35328837813b6b3cb6b2d7b56a635e]: Commencement: Sch. rule 9 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-ea35328837813b6b3cb6b2d7b56a635e]: Commencement: Sch. rule 9 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
-[^key-d88d9d58d47d3335455d8ea4407c51ff]: Commencement: Sch. rule 10 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-d88d9d58d47d3335455d8ea4407c51ff]: Commencement: Sch. rule 10 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
-[^key-eb3d1f48acb845301f7babbb697c1698]: Commencement: Sch. rule 11 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-eb3d1f48acb845301f7babbb697c1698]: Commencement: Sch. rule 11 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
-[^key-a258e91ee55f2d3ac9f8a4ac042438b2]: Commencement: Sch. rule 12 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-a258e91ee55f2d3ac9f8a4ac042438b2]: Commencement: Sch. rule 12 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
 
-[^key-ca050d3a9d23b3a16d7df9da0eeb9b20]: Commencement: Sch. rule 13 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)
+[^c-ca050d3a9d23b3a16d7df9da0eeb9b20]: Commencement: Sch. rule 13 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1967/article/1)

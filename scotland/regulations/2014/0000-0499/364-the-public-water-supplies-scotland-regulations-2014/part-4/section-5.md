@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Monitoring[^key-06ab3b32d4c323a36ebc207ff6562f25]
+## 5. Monitoring[^c-06ab3b32d4c323a36ebc207ff6562f25]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ Scottish Water must ensure that monitoring is carried out to establish whether, 
 
 ## Annotations
 
-[^key-06ab3b32d4c323a36ebc207ff6562f25]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/364/regulation/5) substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/2)
+[^c-06ab3b32d4c323a36ebc207ff6562f25]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/364/regulation/5) substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/2)

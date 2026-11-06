@@ -26,10 +26,10 @@ summary: ''
 
 (3) Subject to paragraph (4), for the relevant initial period the rate of the pension payable under regulation 67 is equal to the sum of—
 
-- (a)[^key-5f68e2ab512df867b4eb394f57859e3c] in the case of—
+- (a)[^c-5f68e2ab512df867b4eb394f57859e3c] in the case of—
   - (i) a deceased active member, the rate of the deceased’s pensionable pay at the time of death, or
   - (ii) a deceased non-contributing member, the rate of the deceased’s reckonable pay on the deceased’s last day of pensionable service; and
-- (b)[^key-9f87fc822ad5437de074b424bbe16a29] the rate of the deceased member’s pension payable at the time of death after taking account of any reduction in the rate of pension under—
+- (b)[^c-9f87fc822ad5437de074b424bbe16a29] the rate of the deceased member’s pension payable at the time of death after taking account of any reduction in the rate of pension under—
   - (i) Chapter 8 of this Part,
   - (ii) regulation 58, and
   - (iii) regulation 136L.
@@ -43,6 +43,6 @@ would be greater.
 
 ## Annotations
 
-[^key-5f68e2ab512df867b4eb394f57859e3c]: Textual amendment: [Reg. 73(3)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/73/3/a)[(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/73/3/b) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [37](https://www.legislation.gov.uk/nisr/2009/188/regulation/37)
+[^c-5f68e2ab512df867b4eb394f57859e3c]: Textual amendment: [Reg. 73(3)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/73/3/a)[(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/73/3/b) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [37](https://www.legislation.gov.uk/nisr/2009/188/regulation/37)
 
-[^key-9f87fc822ad5437de074b424bbe16a29]: Textual amendment: [Reg. 73(3)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/73/3/b) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [41](https://www.legislation.gov.uk/nisr/2010/22/regulation/41)
+[^c-9f87fc822ad5437de074b424bbe16a29]: Textual amendment: [Reg. 73(3)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/73/3/b) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [41](https://www.legislation.gov.uk/nisr/2010/22/regulation/41)

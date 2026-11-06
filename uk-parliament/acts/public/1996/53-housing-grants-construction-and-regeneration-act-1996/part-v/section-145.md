@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. The Commission for the New Towns: orders for dissolution.[^key-0418e68cc2de47f5c218f19c270f490a]
+## 145. The Commission for the New Towns: orders for dissolution.[^c-0418e68cc2de47f5c218f19c270f490a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0418e68cc2de47f5c218f19c270f490a]: Textual amendment: [S. 145](https://www.legislation.gov.uk/ukpga/1996/53/section/145) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-0418e68cc2de47f5c218f19c270f490a]: Textual amendment: [S. 145](https://www.legislation.gov.uk/ukpga/1996/53/section/145) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)

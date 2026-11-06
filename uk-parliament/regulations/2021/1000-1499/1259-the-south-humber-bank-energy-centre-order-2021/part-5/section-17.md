@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Felling or lopping of trees[^key-acff2372985a5083a0ac120164e2a08d]
+## 17. Felling or lopping of trees[^c-acff2372985a5083a0ac120164e2a08d]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acff2372985a5083a0ac120164e2a08d]: Commencement: Art. 17 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-acff2372985a5083a0ac120164e2a08d]: Commencement: Art. 17 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
 
 [^f00018]: Footnote: Section 206 was amended by section 192(8) of, and paragraphs 7 and 11 of Schedule 8 to, the Planning Act 2008.

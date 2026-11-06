@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Disability access fund[^key-80e282135f673ff334de3a678c13f695]
+## 36. Disability access fund[^c-80e282135f673ff334de3a678c13f695]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ a local authority must, subject to paragraph (6), include in the budget share or
 
 ## Annotations
 
-[^key-80e282135f673ff334de3a678c13f695]: Commencement: Reg. 36 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-80e282135f673ff334de3a678c13f695]: Commencement: Reg. 36 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00097]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 71 was amended by section 67(1) of the Welfare Reform and Pensions Act 1999 and by [S.I. 2021/804](https://www.legislation.gov.uk/uksi/2021/804), [2022/335](https://www.legislation.gov.uk/uksi/2022/335), [2024/1048](https://www.legislation.gov.uk/uksi/2024/1048) and [2025/224](https://www.legislation.gov.uk/uksi/2025/224).

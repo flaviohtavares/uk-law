@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Account to specify opening balance and PIA index adjustment[^key-75c06f0c60e3548b41048aff915fd094]
+## 49. Account to specify opening balance and PIA index adjustment[^c-75c06f0c60e3548b41048aff915fd094]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75c06f0c60e3548b41048aff915fd094]: Commencement: Reg. 49 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-75c06f0c60e3548b41048aff915fd094]: Commencement: Reg. 49 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

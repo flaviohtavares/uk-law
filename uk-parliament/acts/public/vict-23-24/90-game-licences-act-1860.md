@@ -68,9 +68,9 @@ The following exceptions and exemptions from the duties and provisions of this A
 
 2. The taking or destroying of conies in Great Britain by the proprietor of any warren or of any inclosed ground whatever, or by the tenant of lands, either by himself or by his direction or permission.
 
-3.[^c563280] The pursuing and killing of hares respectively by coursing with greyhounds, or by hunting with beagles or other hounds. *(Extent: E+W)* *(affected by repeal, see note)*[^key-65cb0b0b6a03397bb09ae51e8fd98e2f]
+3.[^c563280] The pursuing and killing of hares respectively by coursing with greyhounds, or by hunting with beagles or other hounds. *(Extent: E+W)* *(affected by repeal, see note)*[^c-65cb0b0b6a03397bb09ae51e8fd98e2f]
 
-4. The pursuing and killing of deer by hunting with hounds. *(Extent: E+W)* *(affected by repeal, see note)*[^key-65cb0b0b6a03397bb09ae51e8fd98e2f]
+4. The pursuing and killing of deer by hunting with hounds. *(Extent: E+W)* *(affected by repeal, see note)*[^c-65cb0b0b6a03397bb09ae51e8fd98e2f]
 
 5. The taking and killing of deer in any enclosed lands by the owner or occupier of such lands, or by his direction or permission.
 
@@ -128,7 +128,7 @@ Provided always, that no licence to deal in game shall be granted under the prov
 
 All licences and certificates to kill game and to deal in game respectively, under the provisions of this Act, shall be in such form as the Commissioners of Inland Revenue shall from time to time provide in that behalf, and shall denote the amount of duty charged thereon respectively, and shall be granted, signed, and issued at the chief office of Inland Revenue in London, Edinburgh, . . . [^c563314]respectively, and by the several supervisors of Excise in their respective districts, or by such other officers of Inland Revenue and at such places as the said Commissioners shall think fit to employ and appoint respectively in that behalf; and every such licence shall contain the proper christian and surname and place of residence of the person to whom the same shall be granted, with any other particulars which the Commissioners of Inland Revenue may direct to be inserted therein, and shall be dated on the day when the same was actually issued, and shall have effect and be in force upon the day of issuing thereof, and shall expire on the day therein mentioned for the termination thereof.
 
-## 16A. Provision as to foreign game.[^key-e1c96fb56670d42c35d327142957c7ea]
+## 16A. Provision as to foreign game.[^c-e1c96fb56670d42c35d327142957c7ea]
 
 The provisions of this Act relating to excise licences to deal in game and the dealing in and selling of game without an excise licence shall extend and apply to the dealing in and selling of hares, pheasants, partridges, grouse, heath or moor game, black game, and bustards, imported from foreign parts into Great Britain.
 
@@ -182,7 +182,7 @@ All the clauses, powers, provisions, and regulations, pains and penalties, conta
 
 [^c563280]: Textual amendment: S. 5: exceptions 3 and 4 repealed (S.) (1.8.2002) by [2002 asp 6](https://www.legislation.gov.uk/asp/2002/6), [s. 11](https://www.legislation.gov.uk/asp/2002/6/section/11), [Sch. para. 2](https://www.legislation.gov.uk/asp/2002/6/schedule/paragraph/2); [S.S.I. 2002/181](https://www.legislation.gov.uk/ssi/2002/181), [art. 2](https://www.legislation.gov.uk/ssi/2002/181/article/2)
 
-[^key-65cb0b0b6a03397bb09ae51e8fd98e2f]: Textual amendment: S. 5: exceptions 3 and 4 repealed (E.W.) (18.2.2005) by [Hunting Act 2004 (c. 37)](https://www.legislation.gov.uk/ukpga/2004/37), [s. 15](https://www.legislation.gov.uk/ukpga/2004/37/section/15), [Sch. 2 paras. 2](https://www.legislation.gov.uk/ukpga/2004/37/schedule/2/paragraph/2), [3](https://www.legislation.gov.uk/ukpga/2004/37/schedule/3) (with [s. 12](https://www.legislation.gov.uk/ukpga/2004/37/section/12))
+[^c-65cb0b0b6a03397bb09ae51e8fd98e2f]: Textual amendment: S. 5: exceptions 3 and 4 repealed (E.W.) (18.2.2005) by [Hunting Act 2004 (c. 37)](https://www.legislation.gov.uk/ukpga/2004/37), [s. 15](https://www.legislation.gov.uk/ukpga/2004/37/section/15), [Sch. 2 paras. 2](https://www.legislation.gov.uk/ukpga/2004/37/schedule/2/paragraph/2), [3](https://www.legislation.gov.uk/ukpga/2004/37/schedule/3) (with [s. 12](https://www.legislation.gov.uk/ukpga/2004/37/section/12))
 
 [^c563282]: Modification: Functions of Commissioners of Woods now exercisable by Crown Estate Commissioners: [Forestry (Transfer of Woods) Act 1923 (c. 21)](https://www.legislation.gov.uk/ukpga/1923/21), [s. 4](https://www.legislation.gov.uk/ukpga/1923/21/section/4), S.R. & O. 1924/1370 (Rev. V p. 443: 1924, p. 228), [Crown Estate Act 1956 (c. 73)](https://www.legislation.gov.uk/ukpga/1956/73), [s. 1](https://www.legislation.gov.uk/ukpga/1956/73/section/1) and [Crown Estate Act 1961 (c. 55)](https://www.legislation.gov.uk/ukpga/1961/55), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1961/55/section/1/1)
 
@@ -234,7 +234,7 @@ All the clauses, powers, provisions, and regulations, pains and penalties, conta
 
 [^c563314]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch. 1 Pt. VI](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1/part/VI)
 
-[^key-e1c96fb56670d42c35d327142957c7ea]: Textual amendment: S. 16A inserted (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/4)
+[^c-e1c96fb56670d42c35d327142957c7ea]: Textual amendment: S. 16A inserted (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/4)
 
 [^c563315]: Modification: The text of s. 17, now spent, is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

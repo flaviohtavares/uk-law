@@ -58,14 +58,14 @@ References in this subsection and subsection (6) to other shares in the same com
 
 (8) For the purposes of this section and section 76, shares are not capable of being qualifying shares at any time if—
 
-- (a) the company concerned acquired the shares otherwise than by subscription, or[^key-ba4a9cab1ada321255d298e370e32bb0]
-- (b) condition C in section 78(4) was not met in relation to the issue of the shares, [^key-70faf368c5686670a7cda634d675bf8b]...
-- (c)[^key-70faf368c5686670a7cda634d675bf8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the company concerned acquired the shares otherwise than by subscription, or[^c-ba4a9cab1ada321255d298e370e32bb0]
+- (b) condition C in section 78(4) was not met in relation to the issue of the shares, [^c-70faf368c5686670a7cda634d675bf8b]...
+- (c)[^c-70faf368c5686670a7cda634d675bf8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) For the purposes of subsection (5), shares are not capable of being qualifying shares at any time if they are shares of a different class from the shares mentioned in paragraph (a) of that subsection.
 
 ## Annotations
 
-[^key-ba4a9cab1ada321255d298e370e32bb0]: Textual amendment: Word in s. 75(8)(a) inserted (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/i)
+[^c-ba4a9cab1ada321255d298e370e32bb0]: Textual amendment: Word in s. 75(8)(a) inserted (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/i)
 
-[^key-70faf368c5686670a7cda634d675bf8b]: Textual amendment: S. 75(8)(c) and word omitted (with effect in accordance with s. 38(3) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/i)
+[^c-70faf368c5686670a7cda634d675bf8b]: Textual amendment: S. 75(8)(c) and word omitted (with effect in accordance with s. 38(3) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/i)

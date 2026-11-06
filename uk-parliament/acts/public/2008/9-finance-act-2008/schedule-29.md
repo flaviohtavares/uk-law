@@ -50,7 +50,7 @@ Section 92
 
 ### Transfer of lifetime annuities and dependants' annuities
 
-**2.**[^key-dbc9ebdc398a557bc25945e627f936ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-dbc9ebdc398a557bc25945e627f936ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Definition of investment-regulated pension schemes
 
@@ -206,7 +206,7 @@ Section 92
 
 **15.** In section 215(4)(a) of FA 2004 (amount of lifetime allowance charge), after “first lifetime allowance” insert “ charge ”.
 
-**16.**[^key-0b4ae4270d0647012a03b583d67c11c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-0b4ae4270d0647012a03b583d67c11c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Employer contributions under exempt approved schemes
 
@@ -287,6 +287,6 @@ Section 92
 
 ## Annotations
 
-[^key-dbc9ebdc398a557bc25945e627f936ea]: Textual amendment: [Sch. 29 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/2) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 75(3)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/75/3/b)
+[^c-dbc9ebdc398a557bc25945e627f936ea]: Textual amendment: [Sch. 29 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/2) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 75(3)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/75/3/b)
 
-[^key-0b4ae4270d0647012a03b583d67c11c5]: Textual amendment: [Sch. 29 para. 16](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/16) omitted (with effect in accordance with Sch. 16 para. 85 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(d)(iii)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/d/iii)
+[^c-0b4ae4270d0647012a03b583d67c11c5]: Textual amendment: [Sch. 29 para. 16](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/16) omitted (with effect in accordance with Sch. 16 para. 85 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(d)(iii)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/d/iii)

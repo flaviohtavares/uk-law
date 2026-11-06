@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Calculation of income on a weekly basis[^key-5626d775dfedb9d33709a2c8da783d49]
+## 13. Calculation of income on a weekly basis[^c-5626d775dfedb9d33709a2c8da783d49]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5626d775dfedb9d33709a2c8da783d49]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1992/1814/regulation/13) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-5626d775dfedb9d33709a2c8da783d49]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1992/1814/regulation/13) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

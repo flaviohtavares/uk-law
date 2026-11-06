@@ -66,7 +66,7 @@ made on or after 3rd August 2009.
 
 (3) These Regulations apply to an application for planning permission relating to marine fish farm development in accordance with regulation 36.
 
-(4) These Regulations do not apply to applications for planning permission made under section 31A [^key-32526f285f520c79d583e08b3837a588]... (planning permission in respect of the operation of a marine fish farm) or 242A (urgent Crown development) of the Act[^key-2949f2e6c494543612ed96c8f03389ee].
+(4) These Regulations do not apply to applications for planning permission made under section 31A [^c-32526f285f520c79d583e08b3837a588]... (planning permission in respect of the operation of a marine fish farm) or 242A (urgent Crown development) of the Act[^c-2949f2e6c494543612ed96c8f03389ee].
 
 ### 3. Interpretation
 
@@ -74,14 +74,14 @@ made on or after 3rd August 2009.
 
 - “**the Act**” means the Town and Country Planning (Scotland) Act 1997;
 - “**appointed officer**” means a person appointed by virtue of a scheme of delegation under section 43A(1) of the Act (local developments: schemes of delegation) by the planning authority to determine the application;
-- “[^key-9d1c9e5907031999c2dbfcc7ab7c3d60]**category A listed building**” means a listed building specified as being category A in a list of buildings compiled or approved under section 1 of the Listed Buildings Act [^c22583531] (listing of buildings of special architectural or historic interest);
+- “[^c-9d1c9e5907031999c2dbfcc7ab7c3d60]**category A listed building**” means a listed building specified as being category A in a list of buildings compiled or approved under section 1 of the Listed Buildings Act [^c22583531] (listing of buildings of special architectural or historic interest);
 - “**cemetery**” includes a burial ground or any other place of interment for the dead;
 - “**community council**” means a community council established in accordance with the provisions of Part IV of the Local Government (Scotland) Act 1973 [^c24094991];
 - “**Crown land**” has the meaning given in section 242(1) the Act (Crown land: preliminary definitions);
 - “design statement” and “design and access statement” have the meaning given in regulation 13;
 - “**dwellinghouse**” includes a building containing one or more flats, or a flat contained within such a building.”
-- “[^key-a61761dc1a4cc066f353026ce0095f61]**EIA report**” has the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017;
-- “**environmental statement**” has the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 [^c24095001] as those Regulations had effect on 15th May 2017[^key-0e68f95cbabb1b76596f92a71f328a96];
+- “[^c-a61761dc1a4cc066f353026ce0095f61]**EIA report**” has the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017;
+- “**environmental statement**” has the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 [^c24095001] as those Regulations had effect on 15th May 2017[^c-0e68f95cbabb1b76596f92a71f328a96];
 - “**the Fees Regulations**” means the Town and Country Planning (Fees for Applications and Deemed Applications) (Scotland) Regulations 2004 [^c24095011];
 - “**historic garden or designed landscape**” means a garden or landscape which is included in the inventory of gardens and designed landscapes compiled and maintained under section 32A of the Ancient Monuments and Archaeological Areas Act 1979 [^c24095021] (inventory of gardens and designed landscapes);
 - “**householder development**” means the carrying out of building, engineering or other operations—
@@ -118,7 +118,7 @@ made on or after 3rd August 2009.
 
 The classes of development prescribed for the purposes of section 35A(1) of the Act (pre-application consultation: preliminary) are development belonging to the categories of national developments and major developments.
 
-### 4A. Pre-application consultation – exemptions[^key-d2b230da0609836d12f9041c336f5d1e]
+### 4A. Pre-application consultation – exemptions[^c-d2b230da0609836d12f9041c336f5d1e]
 
 (1) The circumstances specified for the purposes of section 35A(1A)(b) of the Act (pre-application consultation: preliminary) in which section 35A(1) of the Act does not apply to an application for planning permission are set out in paragraph (2).
 
@@ -138,30 +138,30 @@ The classes of development prescribed for the purposes of section 35A(1) of the 
 
 (1) A notice under section 35A(3) of the Act in addition to the information mentioned in paragraphs (a) to (d) of section 35B(4) of the Act (pre-application consultation: compliance), must also contain a statement as to whether or not the planning authority have adopted a screening opinion or the Scottish Ministers have made a screening direction in respect of the development to which the notice relates.
 
-(1A)[^key-6151f2a803240da8a84b1fd3c9a9b37a] If the notice under section 35A(3) of the Act relates to a prospective application for planning permission for development of the same character or description as development in respect of which an earlier application for planning permission was made, or part of that development, the notice must contain—
+(1A)[^c-6151f2a803240da8a84b1fd3c9a9b37a] If the notice under section 35A(3) of the Act relates to a prospective application for planning permission for development of the same character or description as development in respect of which an earlier application for planning permission was made, or part of that development, the notice must contain—
 
 - (a) sufficient information to enable the earlier application to be identified by the planning authority,
 - (b) the information contained in the proposal of application notice given to the planning authority under section 35B(2) of the Act in respect of the earlier application, and
 - (c) a statement (for the purposes of assessment of the need to comply with section 35B), confirming the date, or latest date, on which the prospective applicant intends to make that application for planning permission.
 
-(2) In this regulation “**screening opinion**” and “**screening direction**” have the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017[^key-bdb88abfd57a8de1d34dcee782c4e0a1].
+(2) In this regulation “**screening opinion**” and “**screening direction**” have the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017[^c-bdb88abfd57a8de1d34dcee782c4e0a1].
 
 ### 6. Content of proposal of application notice
 
-A proposal of application notice must, in addition to those matters required by section 35B(4) of the Act, also contain an account of what consultation the applicant intends to undertake, including information as to[^key-aada9427713afa232542a3ae2ac731ba] when such consultation is to take place, with whom and what form it will take.
+A proposal of application notice must, in addition to those matters required by section 35B(4) of the Act, also contain an account of what consultation the applicant intends to undertake, including information as to[^c-aada9427713afa232542a3ae2ac731ba] when such consultation is to take place, with whom and what form it will take.
 
 ### 7. Pre-application consultation
 
 (1) The prospective applicant is to consult as respects a proposed application every community council any part of whose area is within or adjoins the land where the proposed development is situated and in doing so is to give a copy of the proposal of application notice to the community council.
 
-(2) Subject to regulation 7A,[^key-70938692b13d16a8e82a08a29f6a2101] the prospective applicant is to—
+(2) Subject to regulation 7A,[^c-70938692b13d16a8e82a08a29f6a2101] the prospective applicant is to—
 
-- (a) hold at least two public events[^key-e838e44e1acb0feea24c83276326bef0] where members of the public may make comments to the prospective applicant as regards the proposed development; and
-- (b)[^key-1724ad96450c25d70c6764abd38f227c] publish in a local newspaper circulating in the locality in which the proposed development is situated—
+- (a) hold at least two public events[^c-e838e44e1acb0feea24c83276326bef0] where members of the public may make comments to the prospective applicant as regards the proposed development; and
+- (b)[^c-1724ad96450c25d70c6764abd38f227c] publish in a local newspaper circulating in the locality in which the proposed development is situated—
   - (i) a notice in respect of the first public event containing the information specified in paragraph (2A), and
   - (ii) a further notice in respect of the final public event containing the information specified in sub-paragraphs (a) to (c) and (e) of paragraph (2A).
 
-(2A)[^key-c02f6006aa2f19e17922f0162a5b0f6b] The information is—
+(2A)[^c-c02f6006aa2f19e17922f0162a5b0f6b] The information is—
 
 - (a) a description of, and the location of, the proposed development,
 - (b) details as to how (including by what electronic means) further information may be obtained concerning the proposed development,
@@ -169,11 +169,11 @@ A proposal of application notice must, in addition to those matters required by 
 - (d) a statement explaining how, and by when, persons wishing to make comments to the prospective applicant relating to the proposal may do so, and
 - (e) a statement that comments made to the prospective applicant are not representations to the planning authority and if the prospective applicant submits an application there will be an opportunity to make representations on that application to the planning authority.
 
-(3) A public event held by the prospective applicant in accordance with paragraph (2)(a) is not to be held earlier than 7 days after notification of the date and place of the public event is given under paragraph (2)(b)(i) or (ii), as the case may be, and the final public event must be held at least 14 days after the first public event[^key-457a58afaf69d6c503b1c1cd5adc68b9].
+(3) A public event held by the prospective applicant in accordance with paragraph (2)(a) is not to be held earlier than 7 days after notification of the date and place of the public event is given under paragraph (2)(b)(i) or (ii), as the case may be, and the final public event must be held at least 14 days after the first public event[^c-457a58afaf69d6c503b1c1cd5adc68b9].
 
-(4)[^key-93b1ddc4c935ebea9a7456149eff753c] The prospective applicant must at the final public event provide feedback to members of the public in respect of comments received by the prospective applicant as regards the proposed development.
+(4)[^c-93b1ddc4c935ebea9a7456149eff753c] The prospective applicant must at the final public event provide feedback to members of the public in respect of comments received by the prospective applicant as regards the proposed development.
 
-### 7A. Temporary relaxation of pre-application consultation requirements during Coronavirus emergency period[^key-e08a4d92100f664949165e1c5b60c436]
+### 7A. Temporary relaxation of pre-application consultation requirements during Coronavirus emergency period[^c-e08a4d92100f664949165e1c5b60c436]
 
 (1) This regulation applies in relation to an application for planning permission submitted—
 
@@ -184,12 +184,12 @@ A proposal of application notice must, in addition to those matters required by 
 
 (2) Where this regulation applies in relation to an application for planning permission, regulation 7 applies in relation to that application—
 
-- (a) as if paragraphs (2)(a) and (b)(iii) and (3) were omitted, [^key-d75ecace8d5a9d35eb5036287304ecff]...
-- (b)[^key-d75ecace8d5a9d35eb5036287304ecff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) as if paragraphs (2)(a) and (b)(iii) and (3) were omitted, [^c-d75ecace8d5a9d35eb5036287304ecff]...
+- (b)[^c-d75ecace8d5a9d35eb5036287304ecff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) For the purposes of this regulation, the “emergency period” is the period beginning on 24 April 2020 and ending at the end of[^key-d795d29a0383b29f37f785ac6956c69e] 30 September 2022[^key-38db5030f58509263c7ac7319a92bd78] .
+(3) For the purposes of this regulation, the “emergency period” is the period beginning on 24 April 2020 and ending at the end of[^c-d795d29a0383b29f37f785ac6956c69e] 30 September 2022[^c-38db5030f58509263c7ac7319a92bd78] .
 
-### 7B. Form and content of pre-application consultation report[^key-cc1cabd0c1d2fefa6d85d52250d5f2e9]
+### 7B. Form and content of pre-application consultation report[^c-cc1cabd0c1d2fefa6d85d52250d5f2e9]
 
 A pre-application consultation report must contain—
 
@@ -237,7 +237,7 @@ Any application made under any of regulations 9 to 12 is to be made to the plann
 - (b) by such other plans and drawings as are necessary to describe the development to which it relates;
 - (c) where any neighbouring land is owned by the applicant, by a plan identifying that land;
 - (d) by one or other of the certificates required under regulation 15;
-- (e) where the application is not an exempt application and[^key-4ffa678d0da5d994ca0383b580aec4fe] relates to development belonging to the categories of national developments or major developments, by a pre‑application consultation report;
+- (e) where the application is not an exempt application and[^c-4ffa678d0da5d994ca0383b580aec4fe] relates to development belonging to the categories of national developments or major developments, by a pre‑application consultation report;
 - (f) where the application relates to the installation of an antenna to be employed in an electronic communications network, by an ICNIRP declaration;
 - (g) where required under regulation 13, by a design statement or a design and access statement;
 - (h) where the application relates to Crown land by a statement that the application is made in respect of Crown land; and
@@ -246,7 +246,7 @@ Any application made under any of regulations 9 to 12 is to be made to the plann
 (4) In this regulation—
 
 - “**electronic communications network**” has the same meaning as in section 32 of the Communications Act 2003 [^c24095091] (meaning of electronic communications networks and services); and
-- “[^key-fda47de37575acf3377d6777b6543605]**exempt application**” means an application for planning permission relating to development belonging to the categories of national developments or major developments to which section 35A(1) of the Act does not apply,
+- “[^c-fda47de37575acf3377d6777b6543605]**exempt application**” means an application for planning permission relating to development belonging to the categories of national developments or major developments to which section 35A(1) of the Act does not apply,
 - “**ICNIRP declaration**” means a declaration by the applicant that the antenna is designed to be in full compliance with the requirements of the radio frequency public exposure guidelines of the International Commission on Non‑Ionising Radiation Protection, as expressed in EU Council recommendation of 12th July 1999 [^c24095101] on the limitation of exposure of the general public to electromagnetic fields (0Hz to 300GHz).
 
 ### 10. Application for planning permission in principle
@@ -267,7 +267,7 @@ Any application made under any of regulations 9 to 12 is to be made to the plann
 - (b) where any neighbouring land is owned by the applicant, by a plan identifying that land;
 - (c) by one or other of the certificates required under regulation 15;
 - (d) where access to the site is to be taken directly from a road, by a description of the location of the access points to the proposed development;
-- (e) where the application is not an exempt application (as defined in regulation 9(4)) and[^key-c5dbfd4f47e453a1fa8f8eb78c1fb8e3] relates to development belonging to the categories of national developments or major developments, by a pre‑application consultation report;
+- (e) where the application is not an exempt application (as defined in regulation 9(4)) and[^c-c5dbfd4f47e453a1fa8f8eb78c1fb8e3] relates to development belonging to the categories of national developments or major developments, by a pre‑application consultation report;
 - (f) where the application relates to Crown land by a statement that the application is made in respect of Crown land; and
 - (g) by any fee payable under the Fees Regulations.
 
@@ -436,7 +436,7 @@ has been made.
 
 ### 20. Publication of application by the planning authority
 
-(1) Subject to paragraphs (3) to (6) and regulation 20A[^key-16da3740f37c5549a3f7b54ed0b2de08], in the circumstances specified in paragraph (2) the planning authority must publish a notice in the form set out in Schedule 4 in a newspaper circulating in the locality in which the neighbouring land is situated.
+(1) Subject to paragraphs (3) to (6) and regulation 20A[^c-16da3740f37c5549a3f7b54ed0b2de08], in the circumstances specified in paragraph (2) the planning authority must publish a notice in the form set out in Schedule 4 in a newspaper circulating in the locality in which the neighbouring land is situated.
 
 (2) The circumstances are—
 
@@ -444,7 +444,7 @@ has been made.
 - (b) the applicant has submitted with an application for planning permission under regulations 9, 10 or 11 a certificate issued under regulation 15(2)(b)(iii);
 - (c) the application is made under regulation 9, 10 or 11 and relates to development of one or more of the classes of development specified in Schedule 3, or
 - (d) the application is made under regulation 9, 10 or 11 and relates to development which does not accord with the provisions of the development plan;
-- (e)[^key-131df27732ecd28b1727ffaa9daf4c68] the application is made under regulation 9, 10 or 11 and relates to development falling within paragraphs 3, 3A or 4 of Schedule 5.
+- (e)[^c-131df27732ecd28b1727ffaa9daf4c68] the application is made under regulation 9, 10 or 11 and relates to development falling within paragraphs 3, 3A or 4 of Schedule 5.
 
 (3) Paragraph (2)(a) does not apply where—
 
@@ -455,7 +455,7 @@ has been made.
 
 (5) Where any of paragraphs (2)(a) to (d) apply but notice has already been published with respect to the application under paragraph (1) the planning authority are not required to publish a further notice.
 
-(6)[^key-a114b1d32cda9fe2abc7b5775d553c28] Where any of paragraph (2)(a) to (d) apply the planning authority need not publish a notice if they must publish a notice by virtue of paragraph (2)(e).
+(6)[^c-a114b1d32cda9fe2abc7b5775d553c28] Where any of paragraph (2)(a) to (d) apply the planning authority need not publish a notice if they must publish a notice by virtue of paragraph (2)(e).
 
 (7) Where paragraph (2)(e) applies paragraph (4) does not apply.
 
@@ -471,7 +471,7 @@ has been made.
   ;
 - (c) after Note 7 insert—
 
-  > Note 8 – If the proposal is a project, or part of a project, that is subject to a national or transboundary environmental impact assessment or to a requirement to provide information by virtue of regulation 20 of the 2015 Regulations, state that fact[^key-c09a50d38b207d16b6d6ed72750e3cff]
+  > Note 8 – If the proposal is a project, or part of a project, that is subject to a national or transboundary environmental impact assessment or to a requirement to provide information by virtue of regulation 20 of the 2015 Regulations, state that fact[^c-c09a50d38b207d16b6d6ed72750e3cff]
 
 ### 21. List of applications
 
@@ -595,7 +595,7 @@ the period within which the authority must give notice to an applicant of their 
   - (ii) a description of the location of the proposed development including, where applicable, a postal address;
   - (iii) the reference number of the application;
   - (iv) a description of any variation made to the application in accordance with section 32A of the Act (variation of application);
-  - (v)[^key-bff85e1f56ef51b42d226aea217b0382] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^c-bff85e1f56ef51b42d226aea217b0382] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vi) if any obligation is to be entered into under section 75 of the Act (planning obligations) in connection with the application a statement as to where the terms of such obligation or a summary of such terms may be inspected; and
 - (b) in the case of an application under regulation 12 include—
   - (i) a description of the matter in respect of which approval, consent or agreement has been granted, or as the case may be, refused;
@@ -974,25 +974,25 @@ The register of applications for planning permission which every planning author
 - (a) in respect of all applications made under regulations 9 to 12 determined by the planning authority (other than following a review of the case by virtue of section 43A(8) of the Act)—
   - (i) a copy of the decision notice; and
   - (ii) copies of any plans considered by the planning authority in determining the application;
-- (b) a copy of any environmental statement or EIA report[^key-d44e29a04ebd1e299648f4669b99a9c2] submitted with respect to the application;
+- (b) a copy of any environmental statement or EIA report[^c-d44e29a04ebd1e299648f4669b99a9c2] submitted with respect to the application;
 - (c) in respect of all applications made under regulations 9 to 11 determined by the planning authority (other than following a review of the case by virtue of section 43A(8)) of the Act, a Report containing the information mentioned in paragraph 4 of this Schedule;
 - (d) a copy of the decision of the Scottish Ministers in respect of an application, on appeal under section 47 of the Act or on a reference under section 46 of the Act;
 - (e) a copy of the decision notice of the planning authority as to the manner in which a review of the case under section 43A of the Act has been dealt with and copies of any plans considered by the planning authority in determining the review; and
-- (f) where an application is deemed to be refused under regulation 12(5)[^key-960f39ff47ef239fb9b6d07ef5446b35] of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 a statement to that effect including the date on which the application is deemed to be refused.
+- (f) where an application is deemed to be refused under regulation 12(5)[^c-960f39ff47ef239fb9b6d07ef5446b35] of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 a statement to that effect including the date on which the application is deemed to be refused.
 
 **4.** The information to be contained in the Report is—
 
 - (a) a statement of the number of representations made in respect of the application and a summary of the main issues raised by such representations;
 - (b) details of the authorities and persons consulted by the planning authority in respect of the application and a summary of the responses made by such authorities or persons;
 - (c) where in respect of the proposed development—
-  - (i) an environmental statement or EIA report[^key-fb7308b9bb0044a2c4be43b5e77b8ccc] was submitted;
+  - (i) an environmental statement or EIA report[^c-fb7308b9bb0044a2c4be43b5e77b8ccc] was submitted;
   - (ii) an appropriate assessment under the Conservation (Natural Habitats &c.) Regulations 1994 [^c24095271] was carried out;
   - (iii) a design statement or a design and access statement was submitted; or
   - (iv) any report on the impact or potential impact of the proposed development (for example the retail impact, transport impact, noise impact or risk of flooding) which was submitted in connection with the application,
 
   a summary of the main issues raised by such statement, assessment or report;
 - (d) a summary of the terms of any planning obligation entered into under section 75 of the Act in relation to the grant of planning permission for the proposed development;
-- (e) where a direction has been made by the Scottish Ministers under regulation 30, 31, 32 or 33, or under regulation 50[^key-e83237794d684a8f8537f071d80a84ea] of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017, details of such direction in respect of that decision; and
+- (e) where a direction has been made by the Scottish Ministers under regulation 30, 31, 32 or 33, or under regulation 50[^c-e83237794d684a8f8537f071d80a84ea] of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017, details of such direction in respect of that decision; and
 - (f) details of the provisions of the development plan and any other material considerations (in addition to any to be included in the Report under above paragraphs) to which the planning authority had regard in determining the application.
 
 ### 5. Certificates of lawful use or development
@@ -1006,7 +1006,7 @@ The register kept by the planning authority must also contain the following info
 - (e) the decision (if any) of the planning authority in respect of the application and the date of such decision; and
 - (f) the reference number, date and effect of any decision of the Scottish Ministers on an appeal in respect of the application.
 
-**5A.**[^key-8c009686e26ea055946fdc5b10f0b8ca] The register kept by the planning authority must also contain the following information in respect of every masterplan consent area scheme made, or proposed to be made, in respect of land in the district of the planning authority—
+**5A.**[^c-8c009686e26ea055946fdc5b10f0b8ca] The register kept by the planning authority must also contain the following information in respect of every masterplan consent area scheme made, or proposed to be made, in respect of land in the district of the planning authority—
 
 - (a) a copy of the proposed scheme or proposed alteration to a scheme published under regulation 4 of the Town and Country Planning (Masterplan Planning (Masterplan Consent Areas) (Scotland) Regulations 2024,
 - (b) a copy of the decision notice published under regulation 7 of those Regulations,
@@ -1057,7 +1057,7 @@ The following are the classes of development specified for the purposes of regul
 
 (5) the construction of buildings for or the use of buildings or land as—
 
-- (a) a crematorium , a hydrolysis facility (which has the meaning given in section 107 of the Burial and Cremation (Scotland) Act 2016)[^key-14f3444b8aedf8f4fc00b039264aedc6] or a cemetery;
+- (a) a crematorium , a hydrolysis facility (which has the meaning given in section 107 of the Burial and Cremation (Scotland) Act 2016)[^c-14f3444b8aedf8f4fc00b039264aedc6] or a cemetery;
 - (b) a zoo or wildlife park or for the business of boarding or breeding animals;
 
 (6) the construction of buildings and use of buildings or land for motor racing;
@@ -1103,7 +1103,7 @@ Subject to regulation 25, the planning authority must before determining an appl
 - (a) the development may affect a site of special scientific interest; or
 - (b) the development consists of or includes the winning and working of peat other than for the domestic requirements of the applicant.
 
-**3.** The Health and Safety Executive where the development is within an area which has been notified to the planning authority by the Health and Safety Executive for the purpose of this provision because of the presence within the vicinity of toxic, highly reactive, explosive or inflammable substances (otherwise than on a relevant nuclear site)[^key-3cc0693ac1a7562a74c19d8914400f0a] and which involves the provision of—
+**3.** The Health and Safety Executive where the development is within an area which has been notified to the planning authority by the Health and Safety Executive for the purpose of this provision because of the presence within the vicinity of toxic, highly reactive, explosive or inflammable substances (otherwise than on a relevant nuclear site)[^c-3cc0693ac1a7562a74c19d8914400f0a] and which involves the provision of—
 
 - (a) residential accommodation;
 - (b) more than 250 square metres of retail floor space;
@@ -1112,7 +1112,7 @@ Subject to regulation 25, the planning authority must before determining an appl
 
 or which is otherwise likely to result in a material increase in the number of persons working within or visiting the notified area.
 
-**3A.**[^key-0cf098c0ec9f5ca7926e8e3f6d4adda8] The Office for Nuclear Regulation where the development is within an area which has been notified to the planning authority by the Office for Nuclear Regulation for the purpose of this provision because of the presence within the vicinity of toxic, highly reactive, explosive or inflammable substances on a relevant nuclear site and which involves the provision of—
+**3A.**[^c-0cf098c0ec9f5ca7926e8e3f6d4adda8] The Office for Nuclear Regulation where the development is within an area which has been notified to the planning authority by the Office for Nuclear Regulation for the purpose of this provision because of the presence within the vicinity of toxic, highly reactive, explosive or inflammable substances on a relevant nuclear site and which involves the provision of—
 
 - (a) residential accommodation;
 - (b) more than 250 square metres of retail floor space;
@@ -1121,10 +1121,10 @@ or which is otherwise likely to result in a material increase in the number of p
 
 or which is otherwise likely to result in a material increase in the number of persons working within or visiting the notified area.
 
-**4.**[^key-bdaad152247169fe59a41cf541d5bd88] Scottish Natural Heritage, the Health and Safety Executive and SEPA where the development—
+**4.**[^c-bdaad152247169fe59a41cf541d5bd88] Scottish Natural Heritage, the Health and Safety Executive and SEPA where the development—
 
 - (a) involves the siting of new establishments;
-- (b) [^key-a9c7aa22d317ac5a5b19b4bf0efb961e]consists of modifications to establishments covered by Article 11 of Directive 2012/18/EU of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/eudr/1996/82) (OJ L 197, 24.7.2012, p.1) , as Directive 2012/18/EU had effect immediately before IP completion day[^key-e2652bbf264d19d9cda3fc471c6555fd]; or
+- (b) [^c-a9c7aa22d317ac5a5b19b4bf0efb961e]consists of modifications to establishments covered by Article 11 of Directive 2012/18/EU of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/eudr/1996/82) (OJ L 197, 24.7.2012, p.1) , as Directive 2012/18/EU had effect immediately before IP completion day[^c-e2652bbf264d19d9cda3fc471c6555fd]; or
 - (c) includes transport routes, locations of public use and residential areas in the vicinity of an establishment, where the siting or development may be the source of or increase the risk or consequences of a major accident, and, in relation to development falling within paragraph (c), any person who is, according to the register held by the planning authority under regulation 41 of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015, the person who is in control of the land on which the establishment is located.
 
 **5.** The Scottish Ministers, in the case of—
@@ -1138,11 +1138,11 @@ or which is otherwise likely to result in a material increase in the number of p
 
 (2) development likely to result in a material increase in the volume or a material change in the character of traffic entering or leaving a trunk road;
 
-(3)[^key-13f1f5afeb678a7959033924ceb372e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-13f1f5afeb678a7959033924ceb372e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c2aa5a5a7c1c0beb7d678cb770f4f792] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c2aa5a5a7c1c0beb7d678cb770f4f792] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-7428666319131c6ae6bbe2d4cc85806d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7428666319131c6ae6bbe2d4cc85806d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) development which consists of or includes the winning and working of peat other than for the domestic requirements of the applicant; or
 
@@ -1188,7 +1188,7 @@ in an area of coal working or former or proposed coal working notified by the Co
 - (b) prejudice the use of an existing outdoor sports facility for that purpose; or
 - (c) prevent the use of land, which was last used as an outdoor sports facility, from being used again for that purpose.
 
-**17.**[^key-16797084365bbc8e5d5a0d35a5947f61] Historic Environment Scotland, in the case of—
+**17.**[^c-16797084365bbc8e5d5a0d35a5947f61] Historic Environment Scotland, in the case of—
 
 - (a) development of land which is situated within 800 metres from any Royal Palace or Park, and might affect the amenities of that Palace or Park;
 - (b) development which may affect—
@@ -1211,7 +1211,7 @@ In this Schedule—
   - (c) a golf course;
   - (d) an outdoor tennis court, other than those within a private dwelling, hotel or other tourist accommodation; and
   - (e) an outdoor bowling green.
-- “[^key-f1dc10b226db50a60a4404cc19d5a4da]**relevant nuclear site**” means a site which is—
+- “[^c-f1dc10b226db50a60a4404cc19d5a4da]**relevant nuclear site**” means a site which is—
   - (a) a nuclear site (within the meaning given in section 112(1) of the Energy Act 2013);
   - (b) an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998);
   - (c) a new nuclear build site (within the meaning given in regulation 2A of those 1998 Regulations).
@@ -1225,7 +1225,7 @@ In this Schedule—
 - “**toll road**” means a road which is the subject of a toll order;
 - “**trunk road**” means a road or proposed road which is a trunk road within the meaning of section 151 of the Roads (Scotland) Act 1984 that is to say, a road which is a trunk road by virtue of section 5 of that Act or of an Order or direction under that section or section 202 of the Act; and
 
-(2) expressions which are used in paragraph 4 and in Council Directive [96/82/EC](https://www.legislation.gov.uk/eudr/1996/82) of the European Council [^c24095381] on the control of major accident hazards involving dangerous substances have the same meaning in that paragraph as in that Directive , as it had effect immediately before IP completion day[^key-ccb1a1b129dbae0647195c98e68adeae].
+(2) expressions which are used in paragraph 4 and in Council Directive [96/82/EC](https://www.legislation.gov.uk/eudr/1996/82) of the European Council [^c24095381] on the control of major accident hazards involving dangerous substances have the same meaning in that paragraph as in that Directive , as it had effect immediately before IP completion day[^c-ccb1a1b129dbae0647195c98e68adeae].
 
 ## SCHEDULE 6 — Notice to accompany refusal etc.
 
@@ -1313,21 +1313,21 @@ Part 10 revokes the Town and Country Planning (Development Management Procedure 
 
 [^c24094971]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). The functions of the Secretary of State transferred to the Scottish Ministers by section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). Sections 27A and 27C were inserted by section 6, sections 35A, 35B and 35C by section 11, section 36A by section 13, section 38A by section 14 and section 43A by section 17 of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) (“**the 2006 Act**”) and sections 32, 34, 36, 43, 59 and 275 were respectively substituted by or amended by sections 7, 10, 12, 16, 21 and 54(16) of the 2006 Act. Section 43A is amended by [S.S.I. 2013/24](https://www.legislation.gov.uk/ssi/2013/24) and [2013/26](https://www.legislation.gov.uk/ssi/2013/26).
 
-[^key-32526f285f520c79d583e08b3837a588]: Textual amendment: Words in reg. 2(4) omitted (14.9.2015) by virtue of [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2015/249/regulation/6/2)
+[^c-32526f285f520c79d583e08b3837a588]: Textual amendment: Words in reg. 2(4) omitted (14.9.2015) by virtue of [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2015/249/regulation/6/2)
 
-[^key-2949f2e6c494543612ed96c8f03389ee]: Textual amendment: Words in reg. 2(4) inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2015/249/regulation/6/2)
+[^c-2949f2e6c494543612ed96c8f03389ee]: Textual amendment: Words in reg. 2(4) inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2015/249/regulation/6/2)
 
-[^key-9d1c9e5907031999c2dbfcc7ab7c3d60]: Textual amendment: Words in reg. 3 substituted (1.10.2015) by [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/2)
+[^c-9d1c9e5907031999c2dbfcc7ab7c3d60]: Textual amendment: Words in reg. 3 substituted (1.10.2015) by [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/2)
 
 [^c22583531]: Marginal citation: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9). Section 1 is amended by paragraph 2 of Schedule 3 to the [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19).
 
 [^c24094991]: Marginal citation: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-a61761dc1a4cc066f353026ce0095f61]: Textual amendment: Words in reg. 3 inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(2)(a)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/2/a) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-a61761dc1a4cc066f353026ce0095f61]: Textual amendment: Words in reg. 3 inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(2)(a)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/2/a) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
 [^c24095001]: Marginal citation: [S.S.I. 2011/139](https://www.legislation.gov.uk/ssi/2011/139).
 
-[^key-0e68f95cbabb1b76596f92a71f328a96]: Textual amendment: Words in reg. 3 inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(2)(b)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/2/b) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-0e68f95cbabb1b76596f92a71f328a96]: Textual amendment: Words in reg. 3 inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(2)(b)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/2/b) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
 [^c24095011]: Marginal citation: [S.S.I. 2004/219](https://www.legislation.gov.uk/ssi/2004/219) as relevantly amended by [S.S.I. 2007/253](https://www.legislation.gov.uk/ssi/2007/253), [S.S.I. 2007/268](https://www.legislation.gov.uk/ssi/2007/268) and [S.S.I. 2013/105](https://www.legislation.gov.uk/ssi/2013/105).
 
@@ -1345,63 +1345,63 @@ Part 10 revokes the Town and Country Planning (Development Management Procedure 
 
 [^c24095081]: Marginal citation: See command paper 9424.
 
-[^key-d2b230da0609836d12f9041c336f5d1e]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2013/155/regulation/4A) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2021/99/regulation/3)
+[^c-d2b230da0609836d12f9041c336f5d1e]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2013/155/regulation/4A) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2021/99/regulation/3)
 
-[^key-6151f2a803240da8a84b1fd3c9a9b37a]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/ssi/2013/155/regulation/5/1A) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2021/99/regulation/4)
+[^c-6151f2a803240da8a84b1fd3c9a9b37a]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/ssi/2013/155/regulation/5/1A) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2021/99/regulation/4)
 
-[^key-bdb88abfd57a8de1d34dcee782c4e0a1]: Textual amendment: Word in reg. 5(2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(3)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/3) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-bdb88abfd57a8de1d34dcee782c4e0a1]: Textual amendment: Word in reg. 5(2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(3)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/3) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
-[^key-aada9427713afa232542a3ae2ac731ba]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/ssi/2013/155/regulation/6) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2021/99/regulation/5)
+[^c-aada9427713afa232542a3ae2ac731ba]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/ssi/2013/155/regulation/6) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2021/99/regulation/5)
 
-[^key-70938692b13d16a8e82a08a29f6a2101]: Textual amendment: Words in reg. 7(2) inserted (24.4.2020) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/124)](https://www.legislation.gov.uk/ssi/2020/124), [regs. 1](https://www.legislation.gov.uk/ssi/2020/124/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/124/regulation/2/2)
+[^c-70938692b13d16a8e82a08a29f6a2101]: Textual amendment: Words in reg. 7(2) inserted (24.4.2020) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/124)](https://www.legislation.gov.uk/ssi/2020/124), [regs. 1](https://www.legislation.gov.uk/ssi/2020/124/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/124/regulation/2/2)
 
-[^key-e838e44e1acb0feea24c83276326bef0]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7/2/a) substituted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [6(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/6/a) (with [reg. 10(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/a))
+[^c-e838e44e1acb0feea24c83276326bef0]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7/2/a) substituted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [6(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/6/a) (with [reg. 10(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/a))
 
-[^key-1724ad96450c25d70c6764abd38f227c]: Textual amendment: [Reg. 7(2)(b)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7/2/b) substituted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [6(b)](https://www.legislation.gov.uk/ssi/2021/99/regulation/6/b) (with [reg. 10(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/a))
+[^c-1724ad96450c25d70c6764abd38f227c]: Textual amendment: [Reg. 7(2)(b)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7/2/b) substituted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [6(b)](https://www.legislation.gov.uk/ssi/2021/99/regulation/6/b) (with [reg. 10(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/a))
 
-[^key-c02f6006aa2f19e17922f0162a5b0f6b]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7/2A) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [6(c)](https://www.legislation.gov.uk/ssi/2021/99/regulation/6/c) (with [reg. 10(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/a))
+[^c-c02f6006aa2f19e17922f0162a5b0f6b]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7/2A) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [6(c)](https://www.legislation.gov.uk/ssi/2021/99/regulation/6/c) (with [reg. 10(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/a))
 
-[^key-457a58afaf69d6c503b1c1cd5adc68b9]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7/3) substituted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [6(d)](https://www.legislation.gov.uk/ssi/2021/99/regulation/6/d) (with [reg. 10(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/a))
+[^c-457a58afaf69d6c503b1c1cd5adc68b9]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7/3) substituted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [6(d)](https://www.legislation.gov.uk/ssi/2021/99/regulation/6/d) (with [reg. 10(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/a))
 
-[^key-93b1ddc4c935ebea9a7456149eff753c]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7/4) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [6(e)](https://www.legislation.gov.uk/ssi/2021/99/regulation/6/e) (with [reg. 10(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/a))
+[^c-93b1ddc4c935ebea9a7456149eff753c]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7/4) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [6(e)](https://www.legislation.gov.uk/ssi/2021/99/regulation/6/e) (with [reg. 10(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/a))
 
-[^key-e08a4d92100f664949165e1c5b60c436]: Textual amendment: Reg. 7A inserted (24.4.2020) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/124)](https://www.legislation.gov.uk/ssi/2020/124), [regs. 1](https://www.legislation.gov.uk/ssi/2020/124/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/124/regulation/2/3)
+[^c-e08a4d92100f664949165e1c5b60c436]: Textual amendment: Reg. 7A inserted (24.4.2020) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/124)](https://www.legislation.gov.uk/ssi/2020/124), [regs. 1](https://www.legislation.gov.uk/ssi/2020/124/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/124/regulation/2/3)
 
-[^key-d75ecace8d5a9d35eb5036287304ecff]: Textual amendment: [Reg. 7A(2)(b)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7A/2/b) and word omitted (29.9.2021) by virtue of [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/292)](https://www.legislation.gov.uk/ssi/2021/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/292/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2021/292/regulation/7/3/a)
+[^c-d75ecace8d5a9d35eb5036287304ecff]: Textual amendment: [Reg. 7A(2)(b)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7A/2/b) and word omitted (29.9.2021) by virtue of [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/292)](https://www.legislation.gov.uk/ssi/2021/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/292/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2021/292/regulation/7/3/a)
 
-[^key-d795d29a0383b29f37f785ac6956c69e]: Textual amendment: Words in [reg. 7A(3)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7A/3) substituted (29.9.2021) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/292)](https://www.legislation.gov.uk/ssi/2021/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/292/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2021/292/regulation/7/3/b)
+[^c-d795d29a0383b29f37f785ac6956c69e]: Textual amendment: Words in [reg. 7A(3)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7A/3) substituted (29.9.2021) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/292)](https://www.legislation.gov.uk/ssi/2021/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/292/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2021/292/regulation/7/3/b)
 
-[^key-38db5030f58509263c7ac7319a92bd78]: Textual amendment: Words in [reg. 7A(3)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7A/3) substituted (30.3.2022) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2022 (S.S.I. 2022/66)](https://www.legislation.gov.uk/ssi/2022/66), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/66/regulation/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2022/66/regulation/7/2)
+[^c-38db5030f58509263c7ac7319a92bd78]: Textual amendment: Words in [reg. 7A(3)](https://www.legislation.gov.uk/ssi/2013/155/regulation/7A/3) substituted (30.3.2022) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2022 (S.S.I. 2022/66)](https://www.legislation.gov.uk/ssi/2022/66), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/66/regulation/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2022/66/regulation/7/2)
 
-[^key-cc1cabd0c1d2fefa6d85d52250d5f2e9]: Textual amendment: [Reg. 7B](https://www.legislation.gov.uk/ssi/2013/155/regulation/7B) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2021/99/regulation/7) (with [reg. 10(b)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/b))
+[^c-cc1cabd0c1d2fefa6d85d52250d5f2e9]: Textual amendment: [Reg. 7B](https://www.legislation.gov.uk/ssi/2013/155/regulation/7B) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2021/99/regulation/7) (with [reg. 10(b)](https://www.legislation.gov.uk/ssi/2021/99/regulation/10/b))
 
-[^key-4ffa678d0da5d994ca0383b580aec4fe]: Textual amendment: Words in [reg. 9(3)(e)](https://www.legislation.gov.uk/ssi/2013/155/regulation/9/3/e) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [8(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/8/a)
+[^c-4ffa678d0da5d994ca0383b580aec4fe]: Textual amendment: Words in [reg. 9(3)(e)](https://www.legislation.gov.uk/ssi/2013/155/regulation/9/3/e) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [8(a)](https://www.legislation.gov.uk/ssi/2021/99/regulation/8/a)
 
 [^c24095091]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-fda47de37575acf3377d6777b6543605]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/9/4) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [8(b)](https://www.legislation.gov.uk/ssi/2021/99/regulation/8/b)
+[^c-fda47de37575acf3377d6777b6543605]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/9/4) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [8(b)](https://www.legislation.gov.uk/ssi/2021/99/regulation/8/b)
 
 [^c24095101]: Marginal citation: 1999/519/EC.
 
-[^key-c5dbfd4f47e453a1fa8f8eb78c1fb8e3]: Textual amendment: Words in [reg. 10(3)(e)](https://www.legislation.gov.uk/ssi/2013/155/regulation/10/3/e) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2021/99/regulation/9)
+[^c-c5dbfd4f47e453a1fa8f8eb78c1fb8e3]: Textual amendment: Words in [reg. 10(3)(e)](https://www.legislation.gov.uk/ssi/2013/155/regulation/10/3/e) inserted (1.10.2021) by [The Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/99)](https://www.legislation.gov.uk/ssi/2021/99), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2021/99/regulation/9)
 
 [^c24095111]: Marginal citation: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9).
 
-[^key-16da3740f37c5549a3f7b54ed0b2de08]: Textual amendment: Words in reg. 20(1) substituted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 3(2)(a)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/3/2/a)
+[^c-16da3740f37c5549a3f7b54ed0b2de08]: Textual amendment: Words in reg. 20(1) substituted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 3(2)(a)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/3/2/a)
 
-[^key-131df27732ecd28b1727ffaa9daf4c68]: Textual amendment: Reg. 20(2)(e) inserted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/3/2/b)
+[^c-131df27732ecd28b1727ffaa9daf4c68]: Textual amendment: Reg. 20(2)(e) inserted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/3/2/b)
 
-[^key-a114b1d32cda9fe2abc7b5775d553c28]: Textual amendment: Reg. 20(6)(7) inserted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 3(2)(c)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/3/2/c)
+[^c-a114b1d32cda9fe2abc7b5775d553c28]: Textual amendment: Reg. 20(6)(7) inserted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 3(2)(c)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/3/2/c)
 
 [^M_F_58c89fea-9708-4028-c0f6-84f6483439d9]: Textual amendment: Reg. 20A inserted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 3(3)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/3/3)
 
-[^key-c09a50d38b207d16b6d6ed72750e3cff]: Textual amendment: Words in [reg. 20A(1)(c)](https://www.legislation.gov.uk/ssi/2013/155/regulation/20A/1/c) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/80/regulation/3/2) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c09a50d38b207d16b6d6ed72750e3cff]: Textual amendment: Words in [reg. 20A(1)(c)](https://www.legislation.gov.uk/ssi/2013/155/regulation/20A/1/c) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/80/regulation/3/2) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c24095121]: Marginal citation: Section 43A was inserted by section 17 of the Planning etc. (Scotland) Act 2006 and is amended by [S.S.I. 2013/24](https://www.legislation.gov.uk/ssi/2013/24) and [2013/26](https://www.legislation.gov.uk/ssi/2013/26).
 
 [^c24095131]: Marginal citation: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9).
 
-[^key-bff85e1f56ef51b42d226aea217b0382]: Textual amendment: [Reg. 28(3)(a)(v)](https://www.legislation.gov.uk/ssi/2013/155/regulation/28/3/a/v) omitted (1.12.2022) by virtue of [The Town and Country Planning (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/286)](https://www.legislation.gov.uk/ssi/2022/286), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/286/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/286/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/286/regulation/4))
+[^c-bff85e1f56ef51b42d226aea217b0382]: Textual amendment: [Reg. 28(3)(a)(v)](https://www.legislation.gov.uk/ssi/2013/155/regulation/28/3/a/v) omitted (1.12.2022) by virtue of [The Town and Country Planning (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/286)](https://www.legislation.gov.uk/ssi/2022/286), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/286/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/286/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/286/regulation/4))
 
 [^c24095141]: Marginal citation: [S.S.I. 2003/1](https://www.legislation.gov.uk/ssi/2003/1).
 
@@ -1425,49 +1425,49 @@ Part 10 revokes the Town and Country Planning (Development Management Procedure 
 
 [^c24095251]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8).
 
-[^key-d44e29a04ebd1e299648f4669b99a9c2]: Textual amendment: Words in sch. 2 para. 3(b) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(4)(a)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/4/a) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-d44e29a04ebd1e299648f4669b99a9c2]: Textual amendment: Words in sch. 2 para. 3(b) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(4)(a)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/4/a) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
-[^key-960f39ff47ef239fb9b6d07ef5446b35]: Textual amendment: Words in sch. 2 para. 3(f) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(4)(b)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/4/b) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-960f39ff47ef239fb9b6d07ef5446b35]: Textual amendment: Words in sch. 2 para. 3(f) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(4)(b)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/4/b) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
-[^key-fb7308b9bb0044a2c4be43b5e77b8ccc]: Textual amendment: Words in sch. 2 para. 4(c)(i) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(4)(a)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/4/a) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-fb7308b9bb0044a2c4be43b5e77b8ccc]: Textual amendment: Words in sch. 2 para. 4(c)(i) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(4)(a)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/4/a) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
 [^c24095271]: Marginal citation: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716).
 
-[^key-e83237794d684a8f8537f071d80a84ea]: Textual amendment: Words in sch. 2 para. 4(e) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(4)(c)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/4/c) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-e83237794d684a8f8537f071d80a84ea]: Textual amendment: Words in sch. 2 para. 4(e) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [57(4)(c)](https://www.legislation.gov.uk/ssi/2017/102/regulation/57/4/c) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
-[^key-8c009686e26ea055946fdc5b10f0b8ca]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/ssi/2013/155/schedule/2/paragraph/5A) inserted (5.12.2024) by [The Town and Country Planning (Masterplan Consent Areas) (Scotland) Regulations 2024 (S.S.I. 2024/253)](https://www.legislation.gov.uk/ssi/2024/253), [regs. 1](https://www.legislation.gov.uk/ssi/2024/253/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2024/253/regulation/10/2)
+[^c-8c009686e26ea055946fdc5b10f0b8ca]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/ssi/2013/155/schedule/2/paragraph/5A) inserted (5.12.2024) by [The Town and Country Planning (Masterplan Consent Areas) (Scotland) Regulations 2024 (S.S.I. 2024/253)](https://www.legislation.gov.uk/ssi/2024/253), [regs. 1](https://www.legislation.gov.uk/ssi/2024/253/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2024/253/regulation/10/2)
 
-[^key-14f3444b8aedf8f4fc00b039264aedc6]: Textual amendment: Words in sch. 3 para. (5)(a) inserted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2026/50/regulation/8)
+[^c-14f3444b8aedf8f4fc00b039264aedc6]: Textual amendment: Words in sch. 3 para. (5)(a) inserted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2026/50/regulation/8)
 
 [^M_F_21fb3d1b-699a-4473-9a32-ea408b8c262d]: Textual amendment: Sch. 4 Note 4: the words “Where the application is an application in respect of which the applicant was required to comply with section 35B” substituted for “Where the development to which the application belongs is a class of development prescribed for the purposes of section 35A(1)” (1.12.2022) by [The Town and Country Planning (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/286)](https://www.legislation.gov.uk/ssi/2022/286), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/286/regulation/1/1), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2022/286/regulation/2/3)
 
-[^key-3cc0693ac1a7562a74c19d8914400f0a]: Textual amendment: Words in sch. 5 para. 3 inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 209(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/209/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-3cc0693ac1a7562a74c19d8914400f0a]: Textual amendment: Words in sch. 5 para. 3 inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 209(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/209/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-0cf098c0ec9f5ca7926e8e3f6d4adda8]: Textual amendment: Sch. 5 para. 3A inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 209(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/209/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-0cf098c0ec9f5ca7926e8e3f6d4adda8]: Textual amendment: Sch. 5 para. 3A inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 209(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/209/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-bdaad152247169fe59a41cf541d5bd88]: Textual amendment: Sch. 5 para. 4 substituted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 3(4)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/3/4)
+[^c-bdaad152247169fe59a41cf541d5bd88]: Textual amendment: Sch. 5 para. 4 substituted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 3(4)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/3/4)
 
-[^key-a9c7aa22d317ac5a5b19b4bf0efb961e]: Textual amendment: Words in [sch. 5 para. 4(b)](https://www.legislation.gov.uk/ssi/2013/155/schedule/5/paragraph/4/b) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2019/80/regulation/3/3/a) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(4)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9c7aa22d317ac5a5b19b4bf0efb961e]: Textual amendment: Words in [sch. 5 para. 4(b)](https://www.legislation.gov.uk/ssi/2013/155/schedule/5/paragraph/4/b) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2019/80/regulation/3/3/a) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(4)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e2652bbf264d19d9cda3fc471c6555fd]: Textual amendment: Words in sch. 5 para. 4(b) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2019/80/regulation/3/3/a) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(4)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2/4), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2652bbf264d19d9cda3fc471c6555fd]: Textual amendment: Words in sch. 5 para. 4(b) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2019/80/regulation/3/3/a) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(4)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2/4), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13f1f5afeb678a7959033924ceb372e2]: Textual amendment: Sch. 5 para. 5(3) omitted (1.10.2015) by virtue of [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/3/a)
+[^c-13f1f5afeb678a7959033924ceb372e2]: Textual amendment: Sch. 5 para. 5(3) omitted (1.10.2015) by virtue of [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/3/a)
 
-[^key-c2aa5a5a7c1c0beb7d678cb770f4f792]: Textual amendment: Sch. 5 para. 5(4) omitted (1.10.2015) by virtue of [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/3/a)
+[^c-c2aa5a5a7c1c0beb7d678cb770f4f792]: Textual amendment: Sch. 5 para. 5(4) omitted (1.10.2015) by virtue of [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/3/a)
 
-[^key-7428666319131c6ae6bbe2d4cc85806d]: Textual amendment: Sch. 5 para. 5(5) omitted (1.10.2015) by virtue of [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/3/a)
+[^c-7428666319131c6ae6bbe2d4cc85806d]: Textual amendment: Sch. 5 para. 5(5) omitted (1.10.2015) by virtue of [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/3/a)
 
 [^c24095301]: Marginal citation: [1976 c.27](https://www.legislation.gov.uk/ukpga/1976/27).
 
 [^c24095311]: Marginal citation: [1986 c.35](https://www.legislation.gov.uk/ukpga/1986/35).
 
-[^key-16797084365bbc8e5d5a0d35a5947f61]: Textual amendment: Sch. 5 para. 17 inserted (1.10.2015) by [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/3/b) (with [reg. 5(4)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/4))
+[^c-16797084365bbc8e5d5a0d35a5947f61]: Textual amendment: Sch. 5 para. 17 inserted (1.10.2015) by [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/3/b) (with [reg. 5(4)](https://www.legislation.gov.uk/ssi/2015/237/regulation/5/4))
 
 [^c24095321]: Marginal citation: [1986 c.62](https://www.legislation.gov.uk/ukpga/1986/62).
 
 [^c24095331]: Marginal citation: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46). Section 32B was inserted by section 11 of the [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3).
 
-[^key-f1dc10b226db50a60a4404cc19d5a4da]: Textual amendment: Words in sch. 5 inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 209(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/209/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-f1dc10b226db50a60a4404cc19d5a4da]: Textual amendment: Words in sch. 5 inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 209(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/209/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c24095341]: Marginal citation: [1984 c.54](https://www.legislation.gov.uk/ukpga/1984/54). Section 151 was relevantly amended by the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 135(10) and [S.I. 2001/1400](https://www.legislation.gov.uk/uksi/2001/1400).
 
@@ -1479,4 +1479,4 @@ Part 10 revokes the Town and Country Planning (Development Management Procedure 
 
 [^c24095381]: Marginal citation: O.J. No. L 10, 14.1.1997, p.13. The Directive was amended by Regulation (EC) No. 1882/2003 of the European Parliament and of the Council of 29th September 2003 (O.J. No. L 284, 31.10.2003) and Directive 2003/105/EC of the European Parliament and of the Council of 16th December 2003 (O.J. No. L 345, 31.12.2003 p.97).
 
-[^key-ccb1a1b129dbae0647195c98e68adeae]: Textual amendment: Words in sch. 5 inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2019/80/regulation/3/3/b) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(4)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2/4), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ccb1a1b129dbae0647195c98e68adeae]: Textual amendment: Words in sch. 5 inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2019/80/regulation/3/3/b) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(4)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2/4), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

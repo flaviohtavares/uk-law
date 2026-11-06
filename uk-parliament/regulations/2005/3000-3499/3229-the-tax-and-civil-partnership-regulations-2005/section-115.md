@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115.[^key-7d9471cbd263dc3e3ffefc30af2232e7]
+## 115.[^c-7d9471cbd263dc3e3ffefc30af2232e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 169G (meaning of “arrangement” and information power), in subsect
 
 ## Annotations
 
-[^key-7d9471cbd263dc3e3ffefc30af2232e7]: Commencement: Reg. 115 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-7d9471cbd263dc3e3ffefc30af2232e7]: Commencement: Reg. 115 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

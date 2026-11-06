@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Presentation of bankruptcy petition: conditions to be satisfied[^key-471958100cdbe0dbd2007c070d4a5f44]
+## 105. Presentation of bankruptcy petition: conditions to be satisfied[^c-471958100cdbe0dbd2007c070d4a5f44]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 239 (conditions to be satisfied in respect of debtor), omit paragraph
 
 ## Annotations
 
-[^key-471958100cdbe0dbd2007c070d4a5f44]: Commencement: S. 105 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-471958100cdbe0dbd2007c070d4a5f44]: Commencement: S. 105 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

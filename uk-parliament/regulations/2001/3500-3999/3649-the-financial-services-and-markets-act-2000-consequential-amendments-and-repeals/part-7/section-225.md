@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Meaning of “appropriate bank or institution”[^key-cc0a6b0ee0a5c75ae7f5c7a33d35c46f]
+## 225. Meaning of “appropriate bank or institution”[^c-cc0a6b0ee0a5c75ae7f5c7a33d35c46f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc0a6b0ee0a5c75ae7f5c7a33d35c46f]: Textual amendment: [Art. 225](https://www.legislation.gov.uk/uksi/2001/3649/article/225) revoked (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/2)
+[^c-cc0a6b0ee0a5c75ae7f5c7a33d35c46f]: Textual amendment: [Art. 225](https://www.legislation.gov.uk/uksi/2001/3649/article/225) revoked (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/2)

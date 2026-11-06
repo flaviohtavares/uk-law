@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9ZA. Review of certificates[^key-af1f9c0694e563a54d00455278f0ee90]
+## 9ZA. Review of certificates[^c-af1f9c0694e563a54d00455278f0ee90]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 - (d) a ground for appeal is satisfied under section 11 of the 1997 Act or an appeal has been made under that section; or
 - (e) a certificate has been issued and, for any reason, a recoverable lump sum payment was not included in that certificate.
 
-(2) In this regulation and regulations 1(3) in paragraph (b) of the definition of “party to the proceedings”, 29[^key-bb29bc0e4020ded9cf61bce09c3df915] and 33 *(affected by repeal, see note)*[^key-02d9bcf8afa649f814f39a837265d811], where applicable—
+(2) In this regulation and regulations 1(3) in paragraph (b) of the definition of “party to the proceedings”, 29[^c-bb29bc0e4020ded9cf61bce09c3df915] and 33 *(affected by repeal, see note)*[^c-02d9bcf8afa649f814f39a837265d811], where applicable—
 
 - (a) any reference to the 1997 Act is to be construed so as to include a reference to that Act as applied by regulation 2 of the Lump Sum Payments Regulations and, where applicable, as modified by Schedule 1 to those Regulations;
 - (b) “ **certificate** ” means a certificate of recoverable lump sum payments, including where any of the amounts is nil;
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-af1f9c0694e563a54d00455278f0ee90]: Textual amendment: Reg. 9ZA inserted (1.10.2008 as amended by S.I. 2008/2365 reg. 6(4)) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/2/paragraph/1/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))(as amended by S.I. 2008/2365 reg. 6(4))
+[^c-af1f9c0694e563a54d00455278f0ee90]: Textual amendment: Reg. 9ZA inserted (1.10.2008 as amended by S.I. 2008/2365 reg. 6(4)) by [Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 (S.I. 2008/1596)](https://www.legislation.gov.uk/uksi/2008/1596), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1596/regulation/1/1), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2008/1596/schedule/2/paragraph/1/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2008/1596/regulation/6))(as amended by S.I. 2008/2365 reg. 6(4))
 
-[^key-bb29bc0e4020ded9cf61bce09c3df915]: Textual amendment: Words in reg. 9ZA(2) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 107](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/107)
+[^c-bb29bc0e4020ded9cf61bce09c3df915]: Textual amendment: Words in reg. 9ZA(2) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 107](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/107)
 
-[^key-02d9bcf8afa649f814f39a837265d811]: Textual amendment: Words in reg. 9ZA(2) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [4(10)(a)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/4/10/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8))
+[^c-02d9bcf8afa649f814f39a837265d811]: Textual amendment: Words in reg. 9ZA(2) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [4(10)(a)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/4/10/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8))

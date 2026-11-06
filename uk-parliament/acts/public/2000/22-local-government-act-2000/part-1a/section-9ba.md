@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9BA. Power of Secretary of State to prescribe additional permitted governance arrangements[^key-7b70b37faa9d4c7c6fc3caa9d7419124]
+## 9BA. Power of Secretary of State to prescribe additional permitted governance arrangements[^c-7b70b37faa9d4c7c6fc3caa9d7419124]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b70b37faa9d4c7c6fc3caa9d7419124]: Textual amendment: [S. 9BA](https://www.legislation.gov.uk/ukpga/2000/22/section/9BA) omitted (29.6.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 29 para. 5(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/5/3)
+[^c-7b70b37faa9d4c7c6fc3caa9d7419124]: Textual amendment: [S. 9BA](https://www.legislation.gov.uk/ukpga/2000/22/section/9BA) omitted (29.6.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 29 para. 5(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/5/3)

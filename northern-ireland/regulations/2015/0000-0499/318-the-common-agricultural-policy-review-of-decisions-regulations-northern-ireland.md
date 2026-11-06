@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Common Agricultural Policy (Review of Decisions) Regulations (Northern Ireland) 2015 (revoked)[^key-4d26b40c69b8f5f53d959958004c5afc]
+The Common Agricultural Policy (Review of Decisions) Regulations (Northern Ireland) 2015 (revoked)[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 Made
 
@@ -42,82 +42,82 @@ Coming into operation
 
 7th August 2015
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d26b40c69b8f5f53d959958004c5afc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-4d26b40c69b8f5f53d959958004c5afc]
+## 1. Title and commencement[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4d26b40c69b8f5f53d959958004c5afc]
+## 2. Interpretation[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-4d26b40c69b8f5f53d959958004c5afc]
+## 3. Application[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Review of Determinations[^key-4d26b40c69b8f5f53d959958004c5afc]
+## 4. Review of Determinations[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d26b40c69b8f5f53d959958004c5afc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Community Instruments to which these Regulations apply[^key-4d26b40c69b8f5f53d959958004c5afc]
+## SCHEDULE — Community Instruments to which these Regulations apply[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 Regulation 3
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]
+[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]
+[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]
+[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]
+[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]
+[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]
+[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]
+[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]
+[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]
+[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]
+[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]
+[^c-4d26b40c69b8f5f53d959958004c5afc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d26b40c69b8f5f53d959958004c5afc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4d26b40c69b8f5f53d959958004c5afc]: Textual amendment: Regulations revoked (1.2.2022) by The Direct Payments to [Farmers (Review of Decisions) Regulations (Northern Ireland) 2021 (S.R. 2021/346)](https://www.legislation.gov.uk/nisr/2021/346), [reg. 11](https://www.legislation.gov.uk/nisr/2021/346/regulation/11)
+[^c-4d26b40c69b8f5f53d959958004c5afc]: Textual amendment: Regulations revoked (1.2.2022) by The Direct Payments to [Farmers (Review of Decisions) Regulations (Northern Ireland) 2021 (S.R. 2021/346)](https://www.legislation.gov.uk/nisr/2021/346), [reg. 11](https://www.legislation.gov.uk/nisr/2021/346/regulation/11)

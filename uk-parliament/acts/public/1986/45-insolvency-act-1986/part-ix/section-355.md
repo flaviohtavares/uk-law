@@ -29,14 +29,14 @@ Section 352 applies to this offence.
 - (a) he prevents, or in the initial period prevented, the production of any books, papers or records relating to his estate or affairs;
 - (b) he conceals destroys, mutilates or falsifies, or causes or permits the concealment, destruction, mutilation or falsification of, any books, papers or other records relating to his estate or affairs;
 - (c) he makes, or causes or permits the making of, any false entries in any book, document or record relating to his estate or affairs; or
-- (d) in the 12 months before the making of the bankruptcy application or (as the case may be) the presentation of the bankruptcy[^key-1cd131a43bbdafc037175d46e069d614] petition, or in the initial period, he did anything which would have been an offence under paragraph (b) or (c) above if the bankruptcy order had been made before he did it.
+- (d) in the 12 months before the making of the bankruptcy application or (as the case may be) the presentation of the bankruptcy[^c-1cd131a43bbdafc037175d46e069d614] petition, or in the initial period, he did anything which would have been an offence under paragraph (b) or (c) above if the bankruptcy order had been made before he did it.
 
 Section 352 applies to this offence.
 
 (3) The bankrupt is guilty of an offence if—
 
 - (a) he disposes of, or alters or makes any omission in, or causes or permits the disposal, altering or making of any omission in, any book, document or record relating to his estate or affairs, or
-- (b) in the 12 months before the making of the bankruptcy application or (as the case may be) the presentation of the bankruptcy[^key-0888dbdedcd29226d1e115b9aa34179a] petition, or in the initial period, he did anything which would have been an offence under paragraph (a) if the bankruptcy order had been made before he did it.
+- (b) in the 12 months before the making of the bankruptcy application or (as the case may be) the presentation of the bankruptcy[^c-0888dbdedcd29226d1e115b9aa34179a] petition, or in the initial period, he did anything which would have been an offence under paragraph (a) if the bankruptcy order had been made before he did it.
 
 Section 352 applies to this offence.
 
@@ -50,8 +50,8 @@ Section 352 applies to this offence.
 
 ## Annotations
 
-[^key-1cd131a43bbdafc037175d46e069d614]: Textual amendment: Words in s. 355(2)(d) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 45(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/45/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-1cd131a43bbdafc037175d46e069d614]: Textual amendment: Words in s. 355(2)(d) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 45(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/45/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
-[^key-0888dbdedcd29226d1e115b9aa34179a]: Textual amendment: Words in s. 355(3)(b) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 45(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/45/3); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-0888dbdedcd29226d1e115b9aa34179a]: Textual amendment: Words in s. 355(3)(b) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 45(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/45/3); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
 [^c15580971]: Textual amendment: S. 355(4)(5) added (1.4.2004) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 269](https://www.legislation.gov.uk/ukpga/2002/40/section/269), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 23 para. 13](https://www.legislation.gov.uk/ukpga/2002/40/schedule/23/paragraph/13) (with [s. 249(6)](https://www.legislation.gov.uk/ukpga/2002/40/section/249/6)); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (subject to [arts. 3-8](https://www.legislation.gov.uk/uksi/2003/2093/article/3) (as amended by [S.I. 2003/2332](https://www.legislation.gov.uk/uksi/2003/2332), [art. 2](https://www.legislation.gov.uk/uksi/2003/2332/article/2)))

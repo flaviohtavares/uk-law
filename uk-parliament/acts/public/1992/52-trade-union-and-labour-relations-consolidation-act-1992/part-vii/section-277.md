@@ -38,7 +38,7 @@ summary: ''
 
 - relevant member of the House of Lords staff means any person who is employed under a contract of employment with the Corporate Officer of the House of Lords;
 - civil employment claim means a claim arising out of or relating to a contract of employment or any other contract connected with employment, or a claim in tort arising in connection with a person’s employment; and
-- the court means the High Court or the county court[^key-1b86079118c0f7f3bd9a1f19c24469b8] .
+- the court means the High Court or the county court[^c-1b86079118c0f7f3bd9a1f19c24469b8] .
 
 ## Annotations
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c14522611]: Textual amendment: S. 277(3) substituted (30.11.1993) for s. 277(3)-(6) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 49(1)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/1), [Sch. 7 para. 12(e)](https://www.legislation.gov.uk/ukpga/1993/19/schedule/7/paragraph/12/e); [S.I. 1993/2503](https://www.legislation.gov.uk/uksi/1993/2503), [art. 2(2)](https://www.legislation.gov.uk/uksi/1993/2503/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/2503/schedule/2)
 
-[^key-1b86079118c0f7f3bd9a1f19c24469b8]: Textual amendment: Words in [s. 277(3)](https://www.legislation.gov.uk/ukpga/1992/52/section/277/3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-1b86079118c0f7f3bd9a1f19c24469b8]: Textual amendment: Words in [s. 277(3)](https://www.legislation.gov.uk/ukpga/1992/52/section/277/3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

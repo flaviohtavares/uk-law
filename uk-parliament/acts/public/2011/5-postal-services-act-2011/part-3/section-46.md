@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Contributions for meeting burden[^key-43e4e6c3b5526fa8017572a79c4c7790]
+## 46. Contributions for meeting burden[^c-43e4e6c3b5526fa8017572a79c4c7790]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ to be administered by OFCOM or some other person specified in the regulations.
 
 ## Annotations
 
-[^key-43e4e6c3b5526fa8017572a79c4c7790]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2011/5/section/46) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-43e4e6c3b5526fa8017572a79c4c7790]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2011/5/section/46) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

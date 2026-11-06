@@ -25,8 +25,8 @@ summary: ''
 (2) Where a dispute in relation to a contract is referred for determination in accordance with regulation 82(1)—
 
 - (a) section 9(12) and (13) of the Act apply in the same manner as those provisions apply to a dispute referred for determination in accordance with section 9(6) and (7) of the Act; and
-- (b) section 90(5)[^key-9c6f9c908e0c596a4b66e86749ed365c] of the Act applies to any dispute referred for determination in relation to a contract which is not an NHS contract as if it were referred for determination in accordance with section 9(6) of the Act.
+- (b) section 90(5)[^c-9c6f9c908e0c596a4b66e86749ed365c] of the Act applies to any dispute referred for determination in relation to a contract which is not an NHS contract as if it were referred for determination in accordance with section 9(6) of the Act.
 
 ## Annotations
 
-[^key-9c6f9c908e0c596a4b66e86749ed365c]: Textual amendment: Words in [reg. 84(2)(b)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/84/2/b) substituted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/575/schedule/1/paragraph/6)
+[^c-9c6f9c908e0c596a4b66e86749ed365c]: Textual amendment: Words in [reg. 84(2)(b)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/84/2/b) substituted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/575/schedule/1/paragraph/6)

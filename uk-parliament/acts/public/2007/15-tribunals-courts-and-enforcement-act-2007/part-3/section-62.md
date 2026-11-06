@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-58d4e2d476dda88d6337656613e8aefa][^key-a94879255b0a39d0d6be9a239db75a8e] Schedule 12 applies where an enactment, writ or warrant confers power to use the procedure in that Schedule (taking control of goods and selling them to recover a sum of money).
+(1)[^c-58d4e2d476dda88d6337656613e8aefa][^c-a94879255b0a39d0d6be9a239db75a8e] Schedule 12 applies where an enactment, writ or warrant confers power to use the procedure in that Schedule (taking control of goods and selling them to recover a sum of money).
 
-(2)[^key-a99c0da8975f69a128fce4d256d90ac3] The power conferred by a writ or warrant of control to recover a sum of money, and any power conferred by a writ or warrant of possession or delivery to take control of goods and sell them to recover a sum of money, is exercisable only by using that procedure.
+(2)[^c-a99c0da8975f69a128fce4d256d90ac3] The power conferred by a writ or warrant of control to recover a sum of money, and any power conferred by a writ or warrant of possession or delivery to take control of goods and sell them to recover a sum of money, is exercisable only by using that procedure.
 
-(3)[^key-a99c0da8975f69a128fce4d256d90ac3] Schedule 13—
+(3)[^c-a99c0da8975f69a128fce4d256d90ac3] Schedule 13—
 
 - (a) amends some powers previously called powers to distrain, so that they become powers to use that procedure;
 - (b) makes other amendments relating to Schedule 12 and to distress or execution.
 
-(4)[^key-a99c0da8975f69a128fce4d256d90ac3] The following are renamed—
+(4)[^c-a99c0da8975f69a128fce4d256d90ac3] The following are renamed—
 
 - (a) writs of fieri facias, except writs of fieri facias de bonis ecclesiasticis, are renamed writs of control;
 - (b) warrants of execution are renamed warrants of control;
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-58d4e2d476dda88d6337656613e8aefa]: Commencement: [S. 62(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/62/1) in force at 15.7.2013 for specified purposes by [S.I. 2013/1739](https://www.legislation.gov.uk/uksi/2013/1739), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1739/article/3/a)
+[^c-58d4e2d476dda88d6337656613e8aefa]: Commencement: [S. 62(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/62/1) in force at 15.7.2013 for specified purposes by [S.I. 2013/1739](https://www.legislation.gov.uk/uksi/2013/1739), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1739/article/3/a)
 
-[^key-a94879255b0a39d0d6be9a239db75a8e]: Commencement: [S. 62(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/62/1) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-a94879255b0a39d0d6be9a239db75a8e]: Commencement: [S. 62(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/62/1) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
 
-[^key-a99c0da8975f69a128fce4d256d90ac3]: Commencement: [S. 62(2)-(4)](https://www.legislation.gov.uk/ukpga/2007/15/section/62/2) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-a99c0da8975f69a128fce4d256d90ac3]: Commencement: [S. 62(2)-(4)](https://www.legislation.gov.uk/ukpga/2007/15/section/62/2) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

@@ -35,62 +35,62 @@ of 23 June 2014
 
 concerning restrictive measures in response to the illegal annexation of Crimea and Sevastopol (revoked)
 
-[^key-ee063c3d02435b77e7ad199657d4b80c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee063c3d02435b77e7ad199657d4b80c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2a.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2a.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2b.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2b.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2c.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2c.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2d.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2d.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2e.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2e.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-ee063c3d02435b77e7ad199657d4b80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee063c3d02435b77e7ad199657d4b80c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee063c3d02435b77e7ad199657d4b80c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Websites for information on the competent authorities and address for notification to the European Commission[^key-ee063c3d02435b77e7ad199657d4b80c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II[^key-ee063c3d02435b77e7ad199657d4b80c]
+## ANNEX I — Websites for information on the competent authorities and address for notification to the European Commission[^c-ee063c3d02435b77e7ad199657d4b80c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-ee063c3d02435b77e7ad199657d4b80c]
+## ANNEX II[^c-ee063c3d02435b77e7ad199657d4b80c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — List of goods and technology referred to in Article 2b[^key-ee063c3d02435b77e7ad199657d4b80c]
+## ANNEX III[^c-ee063c3d02435b77e7ad199657d4b80c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — List of ports situated in the Crimean Peninsula referred to in Article 2d[^key-ee063c3d02435b77e7ad199657d4b80c]
+## ANNEX II — List of goods and technology referred to in Article 2b[^c-ee063c3d02435b77e7ad199657d4b80c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III — List of ports situated in the Crimean Peninsula referred to in Article 2d[^c-ee063c3d02435b77e7ad199657d4b80c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee063c3d02435b77e7ad199657d4b80c]: Textual amendment: Regulation revoked (31.12.2020) by [The Russia (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/855)](https://www.legislation.gov.uk/uksi/2019/855), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/855/regulation/1/2), [98(b)](https://www.legislation.gov.uk/uksi/2019/855/regulation/98/b) (with [reg. 103](https://www.legislation.gov.uk/uksi/2019/855/regulation/103)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee063c3d02435b77e7ad199657d4b80c]: Textual amendment: Regulation revoked (31.12.2020) by [The Russia (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/855)](https://www.legislation.gov.uk/uksi/2019/855), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/855/regulation/1/2), [98(b)](https://www.legislation.gov.uk/uksi/2019/855/regulation/98/b) (with [reg. 103](https://www.legislation.gov.uk/uksi/2019/855/regulation/103)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

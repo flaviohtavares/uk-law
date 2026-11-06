@@ -22,10 +22,10 @@ summary: ''
 
 (1) The profits of a trade carried on by a charitable trust are not taken into account in calculating total income so far as they arise from a VAT-exempt event.
 
-(2) Subsection (1) applies so far as the profits are either applied for charitable purposes or transferred to another charity[^key-67bcd0b958d6aac4bd0f0154fa81e38d].
+(2) Subsection (1) applies so far as the profits are either applied for charitable purposes or transferred to another charity[^c-67bcd0b958d6aac4bd0f0154fa81e38d].
 
 (3) An event is a VAT-exempt event if the supply of goods and services by the charitable trust in connection with the event would be exempt from value added tax under Group 12 of Schedule 9 to the Value Added Tax Act 1994 (c. 23) (fund-raising events by charities and other qualifying bodies).
 
 ## Annotations
 
-[^key-67bcd0b958d6aac4bd0f0154fa81e38d]: Textual amendment: Words in s. 529(2) substituted (1.4.2011) (with effect in accordance with art. 14(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2011 (S.I. 2011/1037)](https://www.legislation.gov.uk/uksi/2011/1037), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1037/article/1), [14(1)](https://www.legislation.gov.uk/uksi/2011/1037/article/14/1)
+[^c-67bcd0b958d6aac4bd0f0154fa81e38d]: Textual amendment: Words in s. 529(2) substituted (1.4.2011) (with effect in accordance with art. 14(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2011 (S.I. 2011/1037)](https://www.legislation.gov.uk/uksi/2011/1037), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1037/article/1), [14(1)](https://www.legislation.gov.uk/uksi/2011/1037/article/14/1)

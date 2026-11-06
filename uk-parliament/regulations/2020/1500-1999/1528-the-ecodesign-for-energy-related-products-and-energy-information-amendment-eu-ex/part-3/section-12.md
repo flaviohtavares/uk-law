@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**12.**[^key-7109d6bdda5c922dbffb71ee1602f54a] In regulation 2(1) (interpretation) after the definition of “RAMS” insert—
+**12.**[^c-7109d6bdda5c922dbffb71ee1602f54a] In regulation 2(1) (interpretation) after the definition of “RAMS” insert—
 
 > - “UK(NI) indication” means the marking in the form set out in Schedule 1 to the Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020[^f00011];
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7109d6bdda5c922dbffb71ee1602f54a]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-7109d6bdda5c922dbffb71ee1602f54a]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
 [^f00011]: Footnote: S.I. 2020/xxx \[To be completed when the instrument is made\]

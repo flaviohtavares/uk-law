@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. Requirement for tax adviser to notify clients of suspension or ineligibility orders[^M_I_3bf3af33-d0eb-4a5c-a1b6-744266553018][^key-e18cf83c0cda8dc5b4be55d6eeef7db6][^key-8b5ce311dccc0da01975f9456ad84665]
+## 238. Requirement for tax adviser to notify clients of suspension or ineligibility orders[^M_I_3bf3af33-d0eb-4a5c-a1b6-744266553018][^c-e18cf83c0cda8dc5b4be55d6eeef7db6][^c-8b5ce311dccc0da01975f9456ad84665]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 [^M_I_3bf3af33-d0eb-4a5c-a1b6-744266553018]: Commencement: S. 238 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-e18cf83c0cda8dc5b4be55d6eeef7db6]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2026/11/section/238) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-e18cf83c0cda8dc5b4be55d6eeef7db6]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2026/11/section/238) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-8b5ce311dccc0da01975f9456ad84665]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2026/11/section/238) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-8b5ce311dccc0da01975f9456ad84665]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2026/11/section/238) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

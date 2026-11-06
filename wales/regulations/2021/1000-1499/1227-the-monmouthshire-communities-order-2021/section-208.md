@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 208. Shirenewton and St Arvans — change in community boundary and consequential changes to electoral arrangements[^key-7cb9fc43af46a9cea94fdc627884caeb][^key-58cdad68158eaa7489e194bb13a11c28]
+## 208. Shirenewton and St Arvans — change in community boundary and consequential changes to electoral arrangements[^c-7cb9fc43af46a9cea94fdc627884caeb][^c-58cdad68158eaa7489e194bb13a11c28]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ The part of the community of St Arvans shown hatched on Map 137—
 
 ## Annotations
 
-[^key-7cb9fc43af46a9cea94fdc627884caeb]: Commencement: Art. 208 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-7cb9fc43af46a9cea94fdc627884caeb]: Commencement: Art. 208 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-58cdad68158eaa7489e194bb13a11c28]: Commencement: [Art. 208](https://www.legislation.gov.uk/wsi/2021/1227/article/208) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-58cdad68158eaa7489e194bb13a11c28]: Commencement: [Art. 208](https://www.legislation.gov.uk/wsi/2021/1227/article/208) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Borrowed allowances: pool VRTS participants[^key-936292bcf9dec73b7b6e6fa9e71c266e]
+## 49. Borrowed allowances: pool VRTS participants[^c-936292bcf9dec73b7b6e6fa9e71c266e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-936292bcf9dec73b7b6e6fa9e71c266e]: Commencement: Art. 49 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-936292bcf9dec73b7b6e6fa9e71c266e]: Commencement: Art. 49 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

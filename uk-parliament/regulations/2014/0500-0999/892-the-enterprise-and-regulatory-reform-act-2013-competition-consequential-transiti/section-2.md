@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Consequential amendments to other legislation etc.[^key-7a5263639df557a89c2b5ba0fe130401]
+## 2. Consequential amendments to other legislation etc.[^c-7a5263639df557a89c2b5ba0fe130401]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 (which amends various enactments to make provision for the transfer o
 
 ## Annotations
 
-[^key-7a5263639df557a89c2b5ba0fe130401]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)
+[^c-7a5263639df557a89c2b5ba0fe130401]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1)

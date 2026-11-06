@@ -22,7 +22,7 @@ summary: ''
 
 (1) The carbon budget—
 
-- (a) for the budgetary period including the year 2020, must be such that the annual equivalent of the carbon budget for the period is at least 34%[^key-f27d737eb0ddbeee9bfd3480df358cd4] lower than the 1990 baseline;
+- (a) for the budgetary period including the year 2020, must be such that the annual equivalent of the carbon budget for the period is at least 34%[^c-f27d737eb0ddbeee9bfd3480df358cd4] lower than the 1990 baseline;
 - (b) for the budgetary period including the year 2050, must be such that the annual equivalent of the carbon budget for the period is lower than the 1990 baseline by at least the percentage specified in section 1 (the target for 2050);
 - (c) for the budgetary period including any later year specified by order of the Secretary of State, must be such that the annual equivalent of the carbon budget for the period is—
   - (i) lower than the 1990 baseline by at least the percentage so specified, or
@@ -32,10 +32,10 @@ summary: ''
 
 (3) An order under this section is subject to affirmative resolution procedure.
 
-(4)[^key-7a98a5bd36ee98fed292d874b20dc60a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7a98a5bd36ee98fed292d874b20dc60a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f27d737eb0ddbeee9bfd3480df358cd4]: Textual amendment: Word in s. 5(1)(a) substituted (31.5.2009) by [Climate Change Act 2008 (2020 Target, Credit Limit and Definitions) Order 2009 (S.I. 2009/1258)](https://www.legislation.gov.uk/uksi/2009/1258), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1258/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1258/article/2/2)
+[^c-f27d737eb0ddbeee9bfd3480df358cd4]: Textual amendment: Word in s. 5(1)(a) substituted (31.5.2009) by [Climate Change Act 2008 (2020 Target, Credit Limit and Definitions) Order 2009 (S.I. 2009/1258)](https://www.legislation.gov.uk/uksi/2009/1258), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1258/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1258/article/2/2)
 
-[^key-7a98a5bd36ee98fed292d874b20dc60a]: Textual amendment: S. 5(4) omitted (31.5.2009) by virtue of [Climate Change Act 2008 (2020 Target, Credit Limit and Definitions) Order 2009 (S.I. 2009/1258)](https://www.legislation.gov.uk/uksi/2009/1258), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1258/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1258/article/2/3)
+[^c-7a98a5bd36ee98fed292d874b20dc60a]: Textual amendment: S. 5(4) omitted (31.5.2009) by virtue of [Climate Change Act 2008 (2020 Target, Credit Limit and Definitions) Order 2009 (S.I. 2009/1258)](https://www.legislation.gov.uk/uksi/2009/1258), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1258/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1258/article/2/3)

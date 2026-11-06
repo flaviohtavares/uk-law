@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82A. Sums to be deducted in calculating recoverable overpayments where the claimant has changed dwelling[^key-d6921a60c43ccc6e2278de6968d6f357]
+## 82A. Sums to be deducted in calculating recoverable overpayments where the claimant has changed dwelling[^c-d6921a60c43ccc6e2278de6968d6f357]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6921a60c43ccc6e2278de6968d6f357]: Textual amendment: [Reg. 82A](https://www.legislation.gov.uk/nisr/2006/406/regulation/82A) inserted (5.4.2010 for specified purposes) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/382)](https://www.legislation.gov.uk/nisr/2009/382), [regs.](https://www.legislation.gov.uk/nisr/2009/382/regulation), [3(6)](https://www.legislation.gov.uk/nisr/2009/382/regulation/3/6)
+[^c-d6921a60c43ccc6e2278de6968d6f357]: Textual amendment: [Reg. 82A](https://www.legislation.gov.uk/nisr/2006/406/regulation/82A) inserted (5.4.2010 for specified purposes) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/382)](https://www.legislation.gov.uk/nisr/2009/382), [regs.](https://www.legislation.gov.uk/nisr/2009/382/regulation), [3(6)](https://www.legislation.gov.uk/nisr/2009/382/regulation/3/6)

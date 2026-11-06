@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.5. Initial procedure on obstruction, disruption, etc.[^key-535b676842d49433fc7f8e884483cfcb]
+## 48.5. Initial procedure on obstruction, disruption, etc.[^c-535b676842d49433fc7f8e884483cfcb]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ summary: ''
 
 *\[Note. The conduct to which this rule applies is sometimes described as ‘criminal’ contempt of court.*
 
-*By reason of sections 15 and 45 of the Senior Courts Act 1981*, *the Court of Appeal and the Crown Court each has an inherent powerto imprison (for a maximum of 2 years), or fine (to an unlimited amount), or both, a respondent for contempt of court for the conduct listed in paragraph (1)(a), (b), (d) , (e) or (f)[^key-ce91f909885d580273c6352f34659097]. See also section 14 of the Contempt of Court Act 1981*[^f01283]*.*
+*By reason of sections 15 and 45 of the Senior Courts Act 1981*, *the Court of Appeal and the Crown Court each has an inherent powerto imprison (for a maximum of 2 years), or fine (to an unlimited amount), or both, a respondent for contempt of court for the conduct listed in paragraph (1)(a), (b), (d) , (e) or (f)[^c-ce91f909885d580273c6352f34659097]. See also section 14 of the Contempt of Court Act 1981*[^f01283]*.*
 
 *Under section 97(4) of the Magistrates’ Courts Act 1980, and under sections 12 and 14 of the Contempt of Court Act 1981, a magistrates’ court can imprison (for a maximum of 1 month), or fine (to a maximum of £2,500), or both, a respondent who contravenes a provision listed in paragraph (1)(c) or (d). Section 12(1) of the 1981 Act allows the court to deal with any person who*—
 
@@ -94,7 +94,7 @@ summary: ''
 
 ## Annotations
 
-[^key-535b676842d49433fc7f8e884483cfcb]: Commencement: [Rule 48.5](https://www.legislation.gov.uk/uksi/2025/909/rule/48.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-535b676842d49433fc7f8e884483cfcb]: Commencement: [Rule 48.5](https://www.legislation.gov.uk/uksi/2025/909/rule/48.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01275]: Footnote: [1965 c. 69](https://www.legislation.gov.uk/ukpga/1965/69); section 3 was amended by section 56 of, and Part IV of Schedule 11 to, the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23) and sections 65 and 66 of the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25).
 
@@ -112,7 +112,7 @@ summary: ''
 
 [^f01282]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 
-[^key-ce91f909885d580273c6352f34659097]: Textual amendment: Words in rule 48.5 Note substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/14)
+[^c-ce91f909885d580273c6352f34659097]: Textual amendment: Words in rule 48.5 Note substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/14)
 
 [^f01283]: Footnote: [1981 c. 49](https://www.legislation.gov.uk/ukpga/1981/49); section 14 was amended by sections 77 and 78 of, and paragraph 60 of Schedule 14 and Schedule 16 to, the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 65 of, and paragraphs 59 and 60 of Schedule 3 to, the Mental Health (Amendment) Act [1982 (c. 51)](https://www.legislation.gov.uk/ukpga/1982/51), section 148 of, and paragraph 57 of Schedule 4 to, the Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20), section 1 of the County Courts (Penalties for Contempt) Act [1983 (c. 45)](https://www.legislation.gov.uk/ukpga/1983/45), section 17 of, and Parts I and V of Schedule 4 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), section 65 of, and paragraph 6 of Schedule 3 to, the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36), section 165 of, and paragraph 84 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), section 1 of, and paragraph 19 of Schedule 1 to, the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12) and section 17 of, and paragraph 52 of Schedule 9 and paragraph 53 of Schedule 10 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22). It is further amended by sections 6 and 149 of, and paragraph 25 of Schedule 4 and Part 1 of Schedule 28 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), with effect from a date to be appointed.
 

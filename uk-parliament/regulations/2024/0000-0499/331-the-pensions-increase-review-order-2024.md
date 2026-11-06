@@ -48,21 +48,21 @@ The Secretary of State for Work and Pensions has, by virtue of section 151 of th
 
 The Treasury make the following Order in exercise of the powers conferred by section 59(1), (2), (5) and (5ZA) of the Social Security Pensions Act 1975[^f00003] and now vested in them[^f00004].
 
-## 1. Citation, commencement and extent[^key-a6ad886fad44bd0285b2d652aacd298e]
+## 1. Citation, commencement and extent[^c-a6ad886fad44bd0285b2d652aacd298e]
 
 (1) This Order may be cited as the Pensions Increase (Review) Order 2024 and comes into force on 8th April 2024.
 
 (2) This Order extends to England and Wales, Scotland and Northern Ireland.
 
-*\[Note: There was an error in the making of this Order. As a result, further provision which supersedes the matters set out in this Order is made in the Pensions Increase (Review) (No. 2) Order 2024 ([^key-cb271a46cbaa1b88a0f6d2f706c96806] [S.I. 2024/372](https://www.legislation.gov.uk/uksi/2024/372)).\]* .
+*\[Note: There was an error in the making of this Order. As a result, further provision which supersedes the matters set out in this Order is made in the Pensions Increase (Review) (No. 2) Order 2024 ([^c-cb271a46cbaa1b88a0f6d2f706c96806] [S.I. 2024/372](https://www.legislation.gov.uk/uksi/2024/372)).\]* .
 
-## 2. Interpretation[^key-ee83308407b0c224f6cdbca5c2e6316a]
+## 2. Interpretation[^c-ee83308407b0c224f6cdbca5c2e6316a]
 
 (1) In this Order, “**the Act**” means the Social Security Pensions Act 1975.
 
 (2) In this Order, any reference to a pension is a reference to a pension which began before 8th April 2024[^f00005].
 
-## 3. Pension increase: annual rate and lump sums[^key-aab6010e4508d72a090e6312e0b6fd4a]
+## 3. Pension increase: annual rate and lump sums[^c-aab6010e4508d72a090e6312e0b6fd4a]
 
 (1) This article applies to an official pension if—
 
@@ -87,7 +87,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 where A is the number of complete months in the period between the beginning date of the lump sum (or, if later, 10th April 2023) and the date on which it becomes payable.
 
-## 4. Reductions in respect of guaranteed minimum pensions[^key-8a59f02bb1a7ea1cf1f117313d901ab3]
+## 4. Reductions in respect of guaranteed minimum pensions[^c-8a59f02bb1a7ea1cf1f117313d901ab3]
 
 (1) Where—
 
@@ -147,18 +147,18 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: By virtue of article 2(1)(c) and (d) of [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-a6ad886fad44bd0285b2d652aacd298e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2024/331/article/1) in force at 8.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/331/article/1/1)
+[^c-a6ad886fad44bd0285b2d652aacd298e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2024/331/article/1) in force at 8.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/331/article/1/1)
 
-[^key-cb271a46cbaa1b88a0f6d2f706c96806]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2024/331/article/1) inserted (8.4.2024) by [The Pensions Increase (Review) (No. 2) Order 2024 (S.I. 2024/372)](https://www.legislation.gov.uk/uksi/2024/372), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/372/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/372/article/5/2)
+[^c-cb271a46cbaa1b88a0f6d2f706c96806]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2024/331/article/1) inserted (8.4.2024) by [The Pensions Increase (Review) (No. 2) Order 2024 (S.I. 2024/372)](https://www.legislation.gov.uk/uksi/2024/372), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/372/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/372/article/5/2)
 
-[^key-ee83308407b0c224f6cdbca5c2e6316a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2024/331/article/2) in force at 8.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/331/article/1/1)
+[^c-ee83308407b0c224f6cdbca5c2e6316a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2024/331/article/2) in force at 8.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/331/article/1/1)
 
 [^f00005]: Footnote: By virtue of section 59(7) of the Social Security Pensions Act [1975 (c. 60)](https://www.legislation.gov.uk/ukpga/1975/60), sections 59 and 59A of that Act have effect as if they were contained in Part 1 of the Pensions (Increase) Act [1971 (c. 56)](https://www.legislation.gov.uk/ukpga/1971/56). Consequently, for the purposes of section 11 of the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) the following expressions used in this Order have the meaning which they bear in section 59 of the Social Security Pensions Act 1975 and the Pensions (Increase) Act 1971: “beginning date”, “complete months”, “derivative pension”, “employment”, “guaranteed minimum pension”, “lump sum”, “official pension”, “pension authority”, “qualifying condition”, “relevant injury pension”, “substituted pension” and “transfer credit”. Section 8(2) of the Pensions (Increase) Act 1971 also makes provision about when a pension begins for the purposes of that Act. Section 8(2) was amended by section 1(5) of the Pensions (Miscellaneous Provisions) Act 1990 and by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), section 39(1) and (4). Section 8 was also amended by the Public Service Pensions Act [2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), Schedule 8, paragraph 4 (which inserted section 8A).
 
-[^key-aab6010e4508d72a090e6312e0b6fd4a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/331/article/3) in force at 8.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/331/article/1/1)
+[^c-aab6010e4508d72a090e6312e0b6fd4a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/331/article/3) in force at 8.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/331/article/1/1)
 
 [^f00006]: Footnote: Section 59(5) of the Social Security Pensions Act 1975 provides that increases in the rate of a pension are to be calculated by reference to the basic rate of the pension as authorised to be increased by section 1 of the Pensions (Increase) Act 1971 or by an order under section 2 of that Act or section 59 of the Social Security Pensions Act 1975.
 
-[^key-8a59f02bb1a7ea1cf1f117313d901ab3]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2024/331/article/4) in force at 8.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/331/article/1/1)
+[^c-8a59f02bb1a7ea1cf1f117313d901ab3]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2024/331/article/4) in force at 8.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/331/article/1/1)
 
 [^f00007]: Footnote: The power of direction is vested in the Treasury by [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).

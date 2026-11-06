@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 248. Postponement or cancellation of dividend[^key-13022db776d3635226178dacd8966c82]
+## 248. Postponement or cancellation of dividend[^c-13022db776d3635226178dacd8966c82]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 11.04 of the 1991 Rules.
 
 ## Annotations
 
-[^key-13022db776d3635226178dacd8966c82]: Commencement: Rule 248 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-13022db776d3635226178dacd8966c82]: Commencement: Rule 248 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

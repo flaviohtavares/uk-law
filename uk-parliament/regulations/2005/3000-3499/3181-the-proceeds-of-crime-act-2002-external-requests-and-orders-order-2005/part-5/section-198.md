@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Legal expenses excluded from freezing: required conditions[^key-0bdf6b8b44580525ec79221772891695]
+## 198. Legal expenses excluded from freezing: required conditions[^c-0bdf6b8b44580525ec79221772891695]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bdf6b8b44580525ec79221772891695]: Commencement: [Art. 198](https://www.legislation.gov.uk/uksi/2005/3181/article/198) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-0bdf6b8b44580525ec79221772891695]: Commencement: [Art. 198](https://www.legislation.gov.uk/uksi/2005/3181/article/198) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

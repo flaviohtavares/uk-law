@@ -54,11 +54,11 @@ These Regulations may be cited as the Carers (Scotland) Act 2016 (Adult Carers a
 
 (2) An adult carer's personal outcomes and needs for support must be identified through conversation between the responsible local authority and the adult carer.
 
-(2A)[^key-645d05f304fc8943061a821183c926d0] When the responsible local authority first has a conversation with a relevant adult carer under paragraph (2), the authority must identify any personal outcomes and needs for support which are immediate or urgent in relation to that carer.
+(2A)[^c-645d05f304fc8943061a821183c926d0] When the responsible local authority first has a conversation with a relevant adult carer under paragraph (2), the authority must identify any personal outcomes and needs for support which are immediate or urgent in relation to that carer.
 
 (3) An adult carer's personal outcomes and needs for support must be reviewed when the adult carer support plan is reviewed.
 
-(4)[^key-d600555fed486cdf4bc70168693194e1] For the purpose of this regulation, “a relevant adult carer” means an adult carer of a cared-for person who is terminally ill.
+(4)[^c-d600555fed486cdf4bc70168693194e1] For the purpose of this regulation, “a relevant adult carer” means an adult carer of a cared-for person who is terminally ill.
 
 ## 3. Young carers: identification of outcomes and needs for support
 
@@ -66,11 +66,11 @@ These Regulations may be cited as the Carers (Scotland) Act 2016 (Adult Carers a
 
 (2) A young carer's personal outcomes and needs for support must be identified through conversation between the responsible authority and the young carer.
 
-(2A)[^key-7376e2c1ecfdc29a4c86b96e0e4f86c7] When the responsible authority first has a conversation with a relevant young carer under paragraph (2), the authority must identify any personal outcomes and needs for support which are immediate or urgent in relation to that carer.
+(2A)[^c-7376e2c1ecfdc29a4c86b96e0e4f86c7] When the responsible authority first has a conversation with a relevant young carer under paragraph (2), the authority must identify any personal outcomes and needs for support which are immediate or urgent in relation to that carer.
 
 (3) A young carer's personal outcomes and needs for support must be reviewed when the young carer statement is reviewed.
 
-(4)[^key-6ff883f0c60dd486fc43244e73665731] For the purpose of this regulation, “a relevant young carer” means a young carer of a cared-for person who is terminally ill.
+(4)[^c-6ff883f0c60dd486fc43244e73665731] For the purpose of this regulation, “a relevant young carer” means a young carer of a cared-for person who is terminally ill.
 
 AILEEN CAMPBELL
 
@@ -92,10 +92,10 @@ Regulation 3 makes provision about the identification of a young carer's persona
 
 [^c24053181]: Marginal citation: [2016 asp 9](https://www.legislation.gov.uk/asp/2016/9).
 
-[^key-645d05f304fc8943061a821183c926d0]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/ssi/2018/109/regulation/2/2A) inserted (31.7.2021) by [The Carers (Scotland) Act 2016 (Adult Carers and Young Carers of Terminally Ill Persons: Timescales for Adult Carer Support Plans and Young Carer Statements etc.) Regulations 2021 (S.S.I. 2021/133)](https://www.legislation.gov.uk/ssi/2021/133), [regs. 1](https://www.legislation.gov.uk/ssi/2021/133/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/133/regulation/3/2)
+[^c-645d05f304fc8943061a821183c926d0]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/ssi/2018/109/regulation/2/2A) inserted (31.7.2021) by [The Carers (Scotland) Act 2016 (Adult Carers and Young Carers of Terminally Ill Persons: Timescales for Adult Carer Support Plans and Young Carer Statements etc.) Regulations 2021 (S.S.I. 2021/133)](https://www.legislation.gov.uk/ssi/2021/133), [regs. 1](https://www.legislation.gov.uk/ssi/2021/133/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/133/regulation/3/2)
 
-[^key-d600555fed486cdf4bc70168693194e1]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/ssi/2018/109/regulation/2/4) inserted (31.7.2021) by [The Carers (Scotland) Act 2016 (Adult Carers and Young Carers of Terminally Ill Persons: Timescales for Adult Carer Support Plans and Young Carer Statements etc.) Regulations 2021 (S.S.I. 2021/133)](https://www.legislation.gov.uk/ssi/2021/133), [regs. 1](https://www.legislation.gov.uk/ssi/2021/133/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2021/133/regulation/3/3)
+[^c-d600555fed486cdf4bc70168693194e1]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/ssi/2018/109/regulation/2/4) inserted (31.7.2021) by [The Carers (Scotland) Act 2016 (Adult Carers and Young Carers of Terminally Ill Persons: Timescales for Adult Carer Support Plans and Young Carer Statements etc.) Regulations 2021 (S.S.I. 2021/133)](https://www.legislation.gov.uk/ssi/2021/133), [regs. 1](https://www.legislation.gov.uk/ssi/2021/133/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2021/133/regulation/3/3)
 
-[^key-7376e2c1ecfdc29a4c86b96e0e4f86c7]: Textual amendment: Reg. 3(2A) inserted (31.7.2021) by [The Carers (Scotland) Act 2016 (Adult Carers and Young Carers of Terminally Ill Persons: Timescales for Adult Carer Support Plans and Young Carer Statements etc.) Regulations 2021 (S.S.I. 2021/133)](https://www.legislation.gov.uk/ssi/2021/133), [regs. 1](https://www.legislation.gov.uk/ssi/2021/133/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/133/regulation/6/2)
+[^c-7376e2c1ecfdc29a4c86b96e0e4f86c7]: Textual amendment: Reg. 3(2A) inserted (31.7.2021) by [The Carers (Scotland) Act 2016 (Adult Carers and Young Carers of Terminally Ill Persons: Timescales for Adult Carer Support Plans and Young Carer Statements etc.) Regulations 2021 (S.S.I. 2021/133)](https://www.legislation.gov.uk/ssi/2021/133), [regs. 1](https://www.legislation.gov.uk/ssi/2021/133/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/133/regulation/6/2)
 
-[^key-6ff883f0c60dd486fc43244e73665731]: Textual amendment: Reg. 3(4) inserted (31.7.2021) by [The Carers (Scotland) Act 2016 (Adult Carers and Young Carers of Terminally Ill Persons: Timescales for Adult Carer Support Plans and Young Carer Statements etc.) Regulations 2021 (S.S.I. 2021/133)](https://www.legislation.gov.uk/ssi/2021/133), [regs. 1](https://www.legislation.gov.uk/ssi/2021/133/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2021/133/regulation/6/3)
+[^c-6ff883f0c60dd486fc43244e73665731]: Textual amendment: Reg. 3(4) inserted (31.7.2021) by [The Carers (Scotland) Act 2016 (Adult Carers and Young Carers of Terminally Ill Persons: Timescales for Adult Carer Support Plans and Young Carer Statements etc.) Regulations 2021 (S.S.I. 2021/133)](https://www.legislation.gov.uk/ssi/2021/133), [regs. 1](https://www.legislation.gov.uk/ssi/2021/133/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2021/133/regulation/6/3)

@@ -27,7 +27,7 @@ summary: ''
 
 include a purpose (“the unallowable purpose”) which is not amongst the business or other commercial purposes of the company.
 
-(1A)[^key-6de35ab770601f207d05d242e93da507] In subsection (1)(b) “**related transaction**”, in relation to a derivative contract, includes anything which equates in substance to a disposal or acquisition of the kind mentioned in section 596(1) (as read with section 596(2)).
+(1A)[^c-6de35ab770601f207d05d242e93da507] In subsection (1)(b) “**related transaction**”, in relation to a derivative contract, includes anything which equates in substance to a disposal or acquisition of the kind mentioned in section 596(1) (as read with section 596(2)).
 
 (2) If a company is not within the charge to corporation tax in respect of a part of its activities, for the purposes of this section the business and other commercial purposes of the company do not include the purposes of that part.
 
@@ -43,10 +43,10 @@ include a purpose (“the unallowable purpose”) which is not amongst the busin
 
 (5) The references in subsections (3) and (4) to a tax avoidance purpose are references to any purpose which consists of securing a tax advantage for the company or any other person.
 
-(6) In this section “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^key-837e87410356d914a3f6a579e85673e2] (meaning of “tax advantage”).
+(6) In this section “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^c-837e87410356d914a3f6a579e85673e2] (meaning of “tax advantage”).
 
 ## Annotations
 
-[^key-6de35ab770601f207d05d242e93da507]: Textual amendment: S. 691(1A) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 91](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/91)
+[^c-6de35ab770601f207d05d242e93da507]: Textual amendment: S. 691(1A) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 91](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/91)
 
-[^key-837e87410356d914a3f6a579e85673e2]: Textual amendment: Words in s. 691(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 642](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/642) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-837e87410356d914a3f6a579e85673e2]: Textual amendment: Words in s. 691(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 642](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/642) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

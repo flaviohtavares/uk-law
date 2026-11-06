@@ -32,7 +32,7 @@ summary: ''
 
 Infrastructure Planning
 
-The Infrastructure Planning (Miscellaneous Prescribed Provisions) (Amendment) Regulations 2013 (revoked)[^key-9d54fba8526866ea5a2cafab57ae122b]
+The Infrastructure Planning (Miscellaneous Prescribed Provisions) (Amendment) Regulations 2013 (revoked)[^c-9d54fba8526866ea5a2cafab57ae122b]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 6th April 2013
 
-[^key-9d54fba8526866ea5a2cafab57ae122b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d54fba8526866ea5a2cafab57ae122b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9d54fba8526866ea5a2cafab57ae122b]
+## 1. Citation, commencement and interpretation[^c-9d54fba8526866ea5a2cafab57ae122b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 2010 Regulations[^key-9d54fba8526866ea5a2cafab57ae122b]
+## 2. Amendments to the 2010 Regulations[^c-9d54fba8526866ea5a2cafab57ae122b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Savings and transitional provision[^key-9d54fba8526866ea5a2cafab57ae122b]
+## 3. Savings and transitional provision[^c-9d54fba8526866ea5a2cafab57ae122b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d54fba8526866ea5a2cafab57ae122b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d54fba8526866ea5a2cafab57ae122b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9d54fba8526866ea5a2cafab57ae122b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d54fba8526866ea5a2cafab57ae122b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d54fba8526866ea5a2cafab57ae122b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/520) revoked (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/462/regulation/10/2))
+[^c-9d54fba8526866ea5a2cafab57ae122b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/520) revoked (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/462/regulation/10/2))

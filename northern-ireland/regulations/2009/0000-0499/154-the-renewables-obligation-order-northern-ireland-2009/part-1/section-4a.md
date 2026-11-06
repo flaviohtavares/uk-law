@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4A. Fossil derived bioliquid[^key-6da974917e156c3685f10bf509a3d9d9]
+## 4A. Fossil derived bioliquid[^c-6da974917e156c3685f10bf509a3d9d9]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6da974917e156c3685f10bf509a3d9d9]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/nisr/2009/154/article/4A) inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [6](https://www.legislation.gov.uk/nisr/2011/169/article/6) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
+[^c-6da974917e156c3685f10bf509a3d9d9]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/nisr/2009/154/article/4A) inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [6](https://www.legislation.gov.uk/nisr/2011/169/article/6) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))

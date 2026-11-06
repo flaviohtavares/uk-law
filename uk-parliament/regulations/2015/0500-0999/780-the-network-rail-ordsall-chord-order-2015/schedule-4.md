@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — STREETS SUBJECT TO STREET WORKS[^key-0ecd34c824ca86de6a06b1831f07a4a9]
+## SCHEDULE 4 — STREETS SUBJECT TO STREET WORKS[^c-0ecd34c824ca86de6a06b1831f07a4a9]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Article 10
 
 ## Annotations
 
-[^key-0ecd34c824ca86de6a06b1831f07a4a9]: Commencement: Sch. 4 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-0ecd34c824ca86de6a06b1831f07a4a9]: Commencement: Sch. 4 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

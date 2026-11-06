@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Application of right to buy provisions[^key-caf8267b3e9fe9da2e02a1d9abca7994]
+## 74. Application of right to buy provisions[^c-caf8267b3e9fe9da2e02a1d9abca7994]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ The Scottish Ministers may by regulations—
 
 ## Annotations
 
-[^key-caf8267b3e9fe9da2e02a1d9abca7994]: Commencement: S. 74 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(f)](https://www.legislation.gov.uk/ssi/2003/548/article/2/f) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-caf8267b3e9fe9da2e02a1d9abca7994]: Commencement: S. 74 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(f)](https://www.legislation.gov.uk/ssi/2003/548/article/2/f) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

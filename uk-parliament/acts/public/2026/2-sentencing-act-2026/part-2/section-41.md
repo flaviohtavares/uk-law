@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Application of provisions about release etc to certain repatriated prisoners[^key-a967208c201b2d2d92b86883f136e849]
+## 41. Application of provisions about release etc to certain repatriated prisoners[^c-a967208c201b2d2d92b86883f136e849]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ those amendments do not apply to the prisoner unless the prisoner is recalled to
 
 ## Annotations
 
-[^key-a967208c201b2d2d92b86883f136e849]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2026/2/section/41) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-a967208c201b2d2d92b86883f136e849]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2026/2/section/41) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Credit
 
-The Consumer Credit (Total Charge for Credit) Regulations 2010 (revoked)[^key-8f79300131a0fb63728c1c0951418f9e]
+The Consumer Credit (Total Charge for Credit) Regulations 2010 (revoked)[^c-8f79300131a0fb63728c1c0951418f9e]
 
 Made
 
@@ -44,52 +44,52 @@ Laid before Parliament
 
 Coming into force In accordance with regulation 1(2)
 
-[^key-8f79300131a0fb63728c1c0951418f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f79300131a0fb63728c1c0951418f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8f79300131a0fb63728c1c0951418f9e]
+## 1. Citation and commencement[^c-8f79300131a0fb63728c1c0951418f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8f79300131a0fb63728c1c0951418f9e]
+## 2. Interpretation[^c-8f79300131a0fb63728c1c0951418f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-8f79300131a0fb63728c1c0951418f9e]
+## 3. Application[^c-8f79300131a0fb63728c1c0951418f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Total charge for credit[^key-8f79300131a0fb63728c1c0951418f9e]
+## 4. Total charge for credit[^c-8f79300131a0fb63728c1c0951418f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Calculation of the annual percentage rate of charge[^key-8f79300131a0fb63728c1c0951418f9e]
+## 5. Calculation of the annual percentage rate of charge[^c-8f79300131a0fb63728c1c0951418f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Assumptions for calculation[^key-8f79300131a0fb63728c1c0951418f9e]
+## 6. Assumptions for calculation[^c-8f79300131a0fb63728c1c0951418f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f79300131a0fb63728c1c0951418f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f79300131a0fb63728c1c0951418f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Calculation of the Annual Percentage Rate of Charge[^key-8f79300131a0fb63728c1c0951418f9e]
+## SCHEDULE — Calculation of the Annual Percentage Rate of Charge[^c-8f79300131a0fb63728c1c0951418f9e]
 
 Regulation 5
 
-**1.**[^key-8f79300131a0fb63728c1c0951418f9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8f79300131a0fb63728c1c0951418f9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8f79300131a0fb63728c1c0951418f9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8f79300131a0fb63728c1c0951418f9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8f79300131a0fb63728c1c0951418f9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8f79300131a0fb63728c1c0951418f9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8f79300131a0fb63728c1c0951418f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f79300131a0fb63728c1c0951418f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f79300131a0fb63728c1c0951418f9e]: Textual amendment: Regulations revoked (26.7.2013 for specified purposes; 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2), [21(gg)](https://www.legislation.gov.uk/uksi/2013/1881/article/21/gg)
+[^c-8f79300131a0fb63728c1c0951418f9e]: Textual amendment: Regulations revoked (26.7.2013 for specified purposes; 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2), [21(gg)](https://www.legislation.gov.uk/uksi/2013/1881/article/21/gg)

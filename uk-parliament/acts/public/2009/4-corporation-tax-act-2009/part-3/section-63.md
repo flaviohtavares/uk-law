@@ -49,10 +49,10 @@ F is the fraction of the land that is so occupied calculated on a just and reaso
 
 A and TRP have the same meaning as in subsection (4).
 
-(5A)[^key-977a03208b9253222672b8aeb756e164] No expense is to be determined under this section by reference to the taxed receipt if section 232(4B) or (4C) applies.
+(5A)[^c-977a03208b9253222672b8aeb756e164] No expense is to be determined under this section by reference to the taxed receipt if section 232(4B) or (4C) applies.
 
 (6) This section is subject to section 64 (limit on deductions if tenant entitled to mineral extraction allowance).
 
 ## Annotations
 
-[^key-977a03208b9253222672b8aeb756e164]: Textual amendment: S. 63(5A) inserted (with effect in accordance with Sch. 28 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 28 para. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/28/paragraph/6)
+[^c-977a03208b9253222672b8aeb756e164]: Textual amendment: S. 63(5A) inserted (with effect in accordance with Sch. 28 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 28 para. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/28/paragraph/6)

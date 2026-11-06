@@ -46,15 +46,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 11(8) of the Education (Additional Support for Learning) (Scotland) Act 2004[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-7ed29de24cef20420f783550b959462f]
+## 1. Citation and commencement[^c-7ed29de24cef20420f783550b959462f]
 
-(1) These Regulations may be cited as the Additional Support for Learning (Co-ordinated Support Plan) (Scotland) Amendment Regulations 2010 and come into force on 14th November[^key-3d7ecb8140a5c5f85b3e47d21042b07c] 2010.
+(1) These Regulations may be cited as the Additional Support for Learning (Co-ordinated Support Plan) (Scotland) Amendment Regulations 2010 and come into force on 14th November[^c-3d7ecb8140a5c5f85b3e47d21042b07c] 2010.
 
-## 2. Amendment of the Additional Support for Learning (Co-ordinated Support Plan) (Scotland) Amendment Regulations 2005[^key-8766ccb77cee98a6ca5ec1f9f74d1e0b]
+## 2. Amendment of the Additional Support for Learning (Co-ordinated Support Plan) (Scotland) Amendment Regulations 2005[^c-8766ccb77cee98a6ca5ec1f9f74d1e0b]
 
 The Additional Support for Learning (Co-ordinated Support Plan) (Scotland) Amendment Regulations 2005[^f00002] are amended in accordance with regulations 3 to 7.
 
-## 3. Insertion of regulation 4A[^key-db643ca082f07716edf7547d3f0be186]
+## 3. Insertion of regulation 4A[^c-db643ca082f07716edf7547d3f0be186]
 
 After regulation 4 (time limit for preparation of the plan) insert—
 
@@ -74,13 +74,13 @@ After regulation 4 (time limit for preparation of the plan) insert—
 
 .
 
-## 4. Insertion of regulation 5A[^key-e12eb448dbbb8bcd98e4d4fd52ca6b06]
+## 4. Insertion of regulation 5A[^c-e12eb448dbbb8bcd98e4d4fd52ca6b06]
 
 After regulation 5 (time limit for the review of the plan) insert—
 
 > **5A. Time limit for the early review of the plan**
 >
-> (1) Subject to paragraphs (2) and (3), where an education authority receive a request in terms of section 10(4) of the Act, it must inform the person who made the request of[^key-1235d4a091cbabb2f5e4ecb44b82d439] its proposal under section 11(2)(a) or its decision under section 28(2) within 4 weeks of the date of receipt of the request.
+> (1) Subject to paragraphs (2) and (3), where an education authority receive a request in terms of section 10(4) of the Act, it must inform the person who made the request of[^c-1235d4a091cbabb2f5e4ecb44b82d439] its proposal under section 11(2)(a) or its decision under section 28(2) within 4 weeks of the date of receipt of the request.
 >
 > (2) Where the circumstances provided for in paragraph (1)(a) of regulation 7 apply, an education authority must on becoming aware that the period of 4 weeks cannot be complied with—
 >
@@ -93,7 +93,7 @@ After regulation 5 (time limit for the review of the plan) insert—
 
 .
 
-## 5. Insertion of regulation 6A[^key-7ba17dcbc0435f94a09ababdd7f0f720]
+## 5. Insertion of regulation 6A[^c-7ba17dcbc0435f94a09ababdd7f0f720]
 
 After regulation 6 (date of providing information or copy of plan) insert—
 
@@ -128,7 +128,7 @@ After regulation 6 (date of providing information or copy of plan) insert—
 
 .
 
-## 6. Insertion of regulation 9A[^key-41d980c2c7dc454096d82ee957905e1a]
+## 6. Insertion of regulation 9A[^c-41d980c2c7dc454096d82ee957905e1a]
 
 After regulation 9 (transfer of the plan) insert—
 
@@ -172,7 +172,7 @@ After regulation 9 (transfer of the plan) insert—
 
 .
 
-## 7. Amendment of regulation 11[^key-0e84ecf06d359398e854fb0aeb540219]
+## 7. Amendment of regulation 11[^c-0e84ecf06d359398e854fb0aeb540219]
 
 (1) In paragraph (3) delete “must”.
 
@@ -212,22 +212,22 @@ Regulation 7 amends regulation 11 to provide that an education authority may inf
 
 [^f00001]: Footnote: [2004 asp 4](https://www.legislation.gov.uk/asp/2004/4), as amended by the Education (Additional Support for Learning) (Scotland) Act [2009 (asp 7)](https://www.legislation.gov.uk/asp/2009/7).
 
-[^key-7ed29de24cef20420f783550b959462f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
+[^c-7ed29de24cef20420f783550b959462f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
 
-[^key-3d7ecb8140a5c5f85b3e47d21042b07c]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) substituted (15.8.2010) by [The Additional Support for Learning (Co-ordinated Support Plan and Dispute Resolution) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/275)](https://www.legislation.gov.uk/ssi/2010/275), [regs. 1](https://www.legislation.gov.uk/ssi/2010/275/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2)
+[^c-3d7ecb8140a5c5f85b3e47d21042b07c]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) substituted (15.8.2010) by [The Additional Support for Learning (Co-ordinated Support Plan and Dispute Resolution) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/275)](https://www.legislation.gov.uk/ssi/2010/275), [regs. 1](https://www.legislation.gov.uk/ssi/2010/275/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2)
 
-[^key-8766ccb77cee98a6ca5ec1f9f74d1e0b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/149/regulation/2) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
+[^c-8766ccb77cee98a6ca5ec1f9f74d1e0b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/149/regulation/2) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
 
 [^f00002]: Footnote: [S.S.I. 2005/518](https://www.legislation.gov.uk/ssi/2005/518).
 
-[^key-db643ca082f07716edf7547d3f0be186]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/149/regulation/3) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
+[^c-db643ca082f07716edf7547d3f0be186]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/149/regulation/3) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
 
-[^key-e12eb448dbbb8bcd98e4d4fd52ca6b06]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/149/regulation/4) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
+[^c-e12eb448dbbb8bcd98e4d4fd52ca6b06]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/149/regulation/4) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
 
-[^key-1235d4a091cbabb2f5e4ecb44b82d439]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2010/149/regulation/4) substituted (15.8.2010) by virtue of [The Additional Support for Learning (Co-ordinated Support Plan and Dispute Resolution) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/275)](https://www.legislation.gov.uk/ssi/2010/275), [regs. 1](https://www.legislation.gov.uk/ssi/2010/275/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/3)
+[^c-1235d4a091cbabb2f5e4ecb44b82d439]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2010/149/regulation/4) substituted (15.8.2010) by virtue of [The Additional Support for Learning (Co-ordinated Support Plan and Dispute Resolution) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/275)](https://www.legislation.gov.uk/ssi/2010/275), [regs. 1](https://www.legislation.gov.uk/ssi/2010/275/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/3)
 
-[^key-7ba17dcbc0435f94a09ababdd7f0f720]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/149/regulation/5) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
+[^c-7ba17dcbc0435f94a09ababdd7f0f720]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/149/regulation/5) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
 
-[^key-41d980c2c7dc454096d82ee957905e1a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/149/regulation/6) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
+[^c-41d980c2c7dc454096d82ee957905e1a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/149/regulation/6) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
 
-[^key-0e84ecf06d359398e854fb0aeb540219]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/149/regulation/7) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))
+[^c-0e84ecf06d359398e854fb0aeb540219]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/149/regulation/7) in force at 14.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/149/regulation/1) (as amended by [S.S.I. 2010/275](https://www.legislation.gov.uk/ssi/2010/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/275/regulation/2/2))

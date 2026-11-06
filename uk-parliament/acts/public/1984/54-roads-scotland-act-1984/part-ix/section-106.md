@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Acquisition of land for mitigating adverse effects of construction of road.[^key-a38930988c5127b02f6fd9fcbf27eed5]
+## 106. Acquisition of land for mitigating adverse effects of construction of road.[^c-a38930988c5127b02f6fd9fcbf27eed5]
 
 *Extent: S*
 
@@ -60,7 +60,7 @@ shall have effect as if the land specified therein included land which—
 
 ## Annotations
 
-[^key-a38930988c5127b02f6fd9fcbf27eed5]: Modification: [Ss. 103-111](https://www.legislation.gov.uk/ukpga/1984/54/section/103) excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(4)](https://www.legislation.gov.uk/asp/2011/2/section/20/4), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-a38930988c5127b02f6fd9fcbf27eed5]: Modification: [Ss. 103-111](https://www.legislation.gov.uk/ukpga/1984/54/section/103) excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(4)](https://www.legislation.gov.uk/asp/2011/2/section/20/4), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
 [^c1610821]: Textual amendment: Words in [s. 106(2)](https://www.legislation.gov.uk/ukpga/1984/54/section/106/2) substituted (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 4](https://www.legislation.gov.uk/ukpga/1997/11/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 2 para. 38(8)(a)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/38/8/a)
 

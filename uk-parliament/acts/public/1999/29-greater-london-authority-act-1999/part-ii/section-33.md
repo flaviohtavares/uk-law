@@ -23,8 +23,8 @@ summary: ''
 (1) The Authority shall make appropriate arrangements with a view to securing that—
 
 - (a) in the exercise of the power conferred on the Authority by section 30 above,
-- (b)[^key-8b76b3a7f7b9668cbc0a53f78916c7e8] in the formulation of the policies and proposals to be included in any of the strategies mentioned in section 41(1) below, and
-- (c)[^key-8b76b3a7f7b9668cbc0a53f78916c7e8] in the implementation of any of those strategies,
+- (b)[^c-8b76b3a7f7b9668cbc0a53f78916c7e8] in the formulation of the policies and proposals to be included in any of the strategies mentioned in section 41(1) below, and
+- (c)[^c-8b76b3a7f7b9668cbc0a53f78916c7e8] in the implementation of any of those strategies,
 
 there is due regard to the principle that there should be equality of opportunity for all people.
 
@@ -37,4 +37,4 @@ there is due regard to the principle that there should be equality of opportunit
 
 ## Annotations
 
-[^key-8b76b3a7f7b9668cbc0a53f78916c7e8]: Modification: S. 33(1)(b)(c) applied (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 6(11)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/6/11/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-8b76b3a7f7b9668cbc0a53f78916c7e8]: Modification: S. 33(1)(b)(c) applied (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 6(11)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/6/11/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Interpretation[^key-9683a0ec5cffaf4c09ab2c3019d4bba6]
+## 84. Interpretation[^c-9683a0ec5cffaf4c09ab2c3019d4bba6]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,7 +81,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9683a0ec5cffaf4c09ab2c3019d4bba6]: Commencement: Reg. 84 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-9683a0ec5cffaf4c09ab2c3019d4bba6]: Commencement: Reg. 84 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00052]: Footnote: Section 36 of the 1990 Act was repealed by [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538) in relation to England and Wales and remains in force in relation to Scotland only. There are amendments to section 36 in relation to Scotland which are not relevant to these Regulations.
 

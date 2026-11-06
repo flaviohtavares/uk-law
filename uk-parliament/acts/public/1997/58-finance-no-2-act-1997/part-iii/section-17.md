@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Withdrawal of relief on medical insurance premiums.[^key-a88213fbdd51722280d0644dfee05bc1]
+## 17. Withdrawal of relief on medical insurance premiums.[^c-a88213fbdd51722280d0644dfee05bc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a88213fbdd51722280d0644dfee05bc1]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1997/58/section/17) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-a88213fbdd51722280d0644dfee05bc1]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1997/58/section/17) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

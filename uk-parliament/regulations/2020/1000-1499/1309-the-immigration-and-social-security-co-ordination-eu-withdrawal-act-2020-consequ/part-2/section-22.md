@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Amendment of the Specialist Printing Equipment and Materials (Offences) Act 2015[^key-8086a2f8a748d490ff0248e72a25ac8a][^M_I_b5b5b6a4-00ed-44d5-8aa5-56b71ec7ecc0]
+## 22. Amendment of the Specialist Printing Equipment and Materials (Offences) Act 2015[^c-8086a2f8a748d490ff0248e72a25ac8a][^M_I_b5b5b6a4-00ed-44d5-8aa5-56b71ec7ecc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8086a2f8a748d490ff0248e72a25ac8a]: Commencement: Reg. 22 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-8086a2f8a748d490ff0248e72a25ac8a]: Commencement: Reg. 22 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_b5b5b6a4-00ed-44d5-8aa5-56b71ec7ecc0]: Commencement: Reg. 22 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

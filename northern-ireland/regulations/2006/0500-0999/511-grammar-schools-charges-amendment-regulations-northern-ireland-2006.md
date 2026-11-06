@@ -31,7 +31,7 @@ summary: ''
 
 educatiON
 
-Grammar Schools (Charges) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-9669cb837db955c3e14f675bdfca4221]
+Grammar Schools (Charges) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-9669cb837db955c3e14f675bdfca4221]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into Operation
 
 *1st September 2007*
 
-[^key-9669cb837db955c3e14f675bdfca4221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9669cb837db955c3e14f675bdfca4221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9669cb837db955c3e14f675bdfca4221]
+## 1. Citation, commencement and interpretation[^c-9669cb837db955c3e14f675bdfca4221]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-9669cb837db955c3e14f675bdfca4221]
+## 2. Revocation[^c-9669cb837db955c3e14f675bdfca4221]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Grammar Schools (Charges) Regulations (Northern Ireland) 1992[^key-9669cb837db955c3e14f675bdfca4221]
+## 3. Amendment to the Grammar Schools (Charges) Regulations (Northern Ireland) 1992[^c-9669cb837db955c3e14f675bdfca4221]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9669cb837db955c3e14f675bdfca4221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9669cb837db955c3e14f675bdfca4221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9669cb837db955c3e14f675bdfca4221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9669cb837db955c3e14f675bdfca4221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9669cb837db955c3e14f675bdfca4221]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/511) revoked (1.11.2008) by [Grammar Schools (Charges) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/376)](https://www.legislation.gov.uk/nisr/2008/376), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/376/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2008/376/regulation/2)
+[^c-9669cb837db955c3e14f675bdfca4221]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/511) revoked (1.11.2008) by [Grammar Schools (Charges) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/376)](https://www.legislation.gov.uk/nisr/2008/376), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/376/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2008/376/regulation/2)

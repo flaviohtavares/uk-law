@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Provision of information where victim is a child[^key-efc8680dd9b8eeddc286f986fe8970c9]
+## 38. Provision of information where victim is a child[^c-efc8680dd9b8eeddc286f986fe8970c9]
 
 *Extent: S*
 
@@ -128,4 +128,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efc8680dd9b8eeddc286f986fe8970c9]: Commencement: S. 38 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-efc8680dd9b8eeddc286f986fe8970c9]: Commencement: S. 38 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

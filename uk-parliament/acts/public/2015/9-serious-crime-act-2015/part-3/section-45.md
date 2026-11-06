@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Offence of participating in activities of organised crime group[^key-8e5233aea79622bb8aa54ebe80ad1942]
+## 45. Offence of participating in activities of organised crime group[^c-8e5233aea79622bb8aa54ebe80ad1942]
 
 *Extent: E+W+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e5233aea79622bb8aa54ebe80ad1942]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2015/9/section/45) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/e)
+[^c-8e5233aea79622bb8aa54ebe80ad1942]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2015/9/section/45) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/e)

@@ -24,7 +24,7 @@ summary: ''
 
 - “**acquiring authority**”, in relation to the acquisition under or for the purposes of this Act of any land (whether compulsorily or by agreement) or to a proposal so to acquire any land, means the development corporation, local roads[^c733747] authority or Minister of the Crown by whom the land is, or is proposed to be, acquired;
 - “**the Act of 1845**” means the [^c733748]Lands Clauses Consolidation (Scotland) Act 1845;
-- “[^key-48c818f3888f3ff154af75849fa6aeee]**alcohol**” has the meaning given by section 2 of the Licensing (Scotland) Act 2005 (asp 16);
+- “[^c-48c818f3888f3ff154af75849fa6aeee]**alcohol**” has the meaning given by section 2 of the Licensing (Scotland) Act 2005 (asp 16);
 - “[^c733751] **the appropriate Minister** ” means—
   - (a) in relation to statutory undertakers carrying on any railway, light railway, tramway, road transport, dock, harbour or pier undertaking, the Secretary of State for Transport;
   - (b) in relation to statutory undertakers carrying on an undertaking for the supply of gas or hydraulic power, the Secretary of State for Energy;
@@ -86,7 +86,7 @@ summary: ''
 
 [^c733748]: Marginal citation: [1845 c. 33](https://www.legislation.gov.uk/ukpga/1845/33)**(102)**.
 
-[^key-48c818f3888f3ff154af75849fa6aeee]: Textual amendment: Words in [s. 47(1)](https://www.legislation.gov.uk/ukpga/1968/16/section/47/1) substituted (1.9.2009) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/asp/2005/16/schedule/6/paragraph/3/3) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-48c818f3888f3ff154af75849fa6aeee]: Textual amendment: Words in [s. 47(1)](https://www.legislation.gov.uk/ukpga/1968/16/section/47/1) substituted (1.9.2009) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/asp/2005/16/schedule/6/paragraph/3/3) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
 [^c733751]: Textual amendment: Definition inserted by [S.I. 1976/1775](https://www.legislation.gov.uk/uksi/1976/1775), [art. 6(1)](https://www.legislation.gov.uk/uksi/1976/1775/article/6/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/1976/1775/schedule/3/paragraph/3/2)
 

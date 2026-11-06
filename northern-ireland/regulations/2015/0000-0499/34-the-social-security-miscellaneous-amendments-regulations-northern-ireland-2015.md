@@ -47,13 +47,13 @@ Regulation 6 is made with the consent of the Department of Finance and Personnel
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulation 6 should not be referred to it[^f00008].
 
-## 1. Citation, commencement and interpretation[^key-34bdd093253fd224e34aaeac0c720b88]
+## 1. Citation, commencement and interpretation[^c-34bdd093253fd224e34aaeac0c720b88]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 and shall come into operation on 23rd February 2015.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Service User amendments[^key-4258a34208f4dd05857d0af7131a2b7e]
+## 2. Service User amendments[^c-4258a34208f4dd05857d0af7131a2b7e]
 
 (1) This regulation applies to the following provisions—
 
@@ -77,15 +77,15 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
   ; and
 - (b) in sub-paragraph (b) for “sub-paragraph (a)” substitute “sub-paragraphs (a) or (ab)”.
 
-## 3. Amendment of the Social Security (Maternity Allowance) Regulations[^key-4a6a4d0b76fa789a117076f5ddf3af67]
+## 3. Amendment of the Social Security (Maternity Allowance) Regulations[^c-4a6a4d0b76fa789a117076f5ddf3af67]
 
 In regulation 2 of the Social Security (Maternity Allowance) Regulations (Northern Ireland) 1987[^f00017] (disqualification for the receipt of a maternity allowance) omit paragraphs (5) and (6).
 
-## 4. Amendment of the Social Fund Winter Fuel Payment Regulations[^key-bc201f4f3aa9a28fcc8e7de82fab87df]
+## 4. Amendment of the Social Fund Winter Fuel Payment Regulations[^c-bc201f4f3aa9a28fcc8e7de82fab87df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations[^key-bd25b709def14a903eac5f0d6762137a]
+## 5. Amendment of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations[^c-bd25b709def14a903eac5f0d6762137a]
 
 In regulation 9 of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001[^f00021] (application for allocation of national insurance number)—
 
@@ -96,7 +96,7 @@ In regulation 9 of the Social Security (Crediting and Treatment of Contributions
 
   .
 
-## 6. Amendment of the Housing Benefit Regulations[^key-efef94e237ace233449b9c477f1ba244]
+## 6. Amendment of the Housing Benefit Regulations[^c-efef94e237ace233449b9c477f1ba244]
 
 At the end of regulation 56(4) of the Housing Benefit Regulations (Northern Ireland) 2006[^f00023] (calculation of grant income) add “or paid under Article 44(2) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00024]”.
 
@@ -154,11 +154,11 @@ In so far as these Regulations are required, for the purposes of regulation 6, t
 
 [^f00008]: Footnote: S*ee* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-34bdd093253fd224e34aaeac0c720b88]: Commencement: Reg. 1 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
+[^c-34bdd093253fd224e34aaeac0c720b88]: Commencement: Reg. 1 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
 
 [^f00009]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-4258a34208f4dd05857d0af7131a2b7e]: Commencement: Reg. 2 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
+[^c-4258a34208f4dd05857d0af7131a2b7e]: Commencement: Reg. 2 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); regulation 2(1B) was inserted by regulation 2(2)(b) of [S.R. 2014 No. 105](https://www.legislation.gov.uk/nisr/2014/105)
 
@@ -174,19 +174,19 @@ In so far as these Regulations are required, for the purposes of regulation 6, t
 
 [^f00016]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 ([S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)) and Article 5 of the Industrial Training (Northern Ireland) Order 1990 ([S.I. 1990/1200 (N.I. 8)](https://www.legislation.gov.uk/nisi/1990/1200))
 
-[^key-4a6a4d0b76fa789a117076f5ddf3af67]: Commencement: Reg. 3 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
+[^c-4a6a4d0b76fa789a117076f5ddf3af67]: Commencement: Reg. 3 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1987 No. 170](https://www.legislation.gov.uk/nisr/1987/170); regulation 2 was substituted by regulation 2(3) of [S.R. 2014 No. 140](https://www.legislation.gov.uk/nisr/2014/140)
 
-[^key-bc201f4f3aa9a28fcc8e7de82fab87df]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/34/regulation/4) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
+[^c-bc201f4f3aa9a28fcc8e7de82fab87df]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/34/regulation/4) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
 
-[^key-bd25b709def14a903eac5f0d6762137a]: Commencement: Reg. 5 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
+[^c-bd25b709def14a903eac5f0d6762137a]: Commencement: Reg. 5 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
 
 [^f00021]: Footnote: [S.R. 2001 No. 102](https://www.legislation.gov.uk/nisr/2001/102)
 
 [^f00022]: Footnote: [S.I. 2008/3048](https://www.legislation.gov.uk/uksi/2008/3048) as amended by [S.I. 2009/819](https://www.legislation.gov.uk/uksi/2009/819) and [S.I. 2012/594](https://www.legislation.gov.uk/uksi/2012/594)
 
-[^key-efef94e237ace233449b9c477f1ba244]: Commencement: Reg. 6 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
+[^c-efef94e237ace233449b9c477f1ba244]: Commencement: Reg. 6 in operation at 23.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/34/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 

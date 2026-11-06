@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Duty discount for small producer alcoholic products[^M_I_d45604e5-bd9a-46cd-ad44-5bc32d31e098][^key-c1b77236c9734e17d499e35771d9be74]
+## 59. Duty discount for small producer alcoholic products[^M_I_d45604e5-bd9a-46cd-ad44-5bc32d31e098][^c-c1b77236c9734e17d499e35771d9be74]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ where—
 
 [^M_I_d45604e5-bd9a-46cd-ad44-5bc32d31e098]: Commencement: S. 59 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-c1b77236c9734e17d499e35771d9be74]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2023/30/section/59) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-c1b77236c9734e17d499e35771d9be74]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2023/30/section/59) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

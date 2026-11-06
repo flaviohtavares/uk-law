@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Other amendments of section 22 of Teaching and Higher Education Act 1998[^key-f9382255be96926cd4a75e2f63ca32cf]
+## 43. Other amendments of section 22 of Teaching and Higher Education Act 1998[^c-f9382255be96926cd4a75e2f63ca32cf]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9382255be96926cd4a75e2f63ca32cf]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2004/8/section/43) in force at 14.1.2006 by [S.I. 2006/51](https://www.legislation.gov.uk/uksi/2006/51), [art. 2](https://www.legislation.gov.uk/uksi/2006/51/article/2)
+[^c-f9382255be96926cd4a75e2f63ca32cf]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2004/8/section/43) in force at 14.1.2006 by [S.I. 2006/51](https://www.legislation.gov.uk/uksi/2006/51), [art. 2](https://www.legislation.gov.uk/uksi/2006/51/article/2)

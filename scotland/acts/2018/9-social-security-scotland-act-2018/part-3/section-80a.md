@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80A. Default provision in respect of offences[^key-baecf4587c3ee7f16a5b1135ee75eb6d]
+## 80A. Default provision in respect of offences[^c-baecf4587c3ee7f16a5b1135ee75eb6d]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baecf4587c3ee7f16a5b1135ee75eb6d]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/asp/2018/9/section/80A) inserted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 4(4)](https://www.legislation.gov.uk/asp/2020/18/section/4/4), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)
+[^c-baecf4587c3ee7f16a5b1135ee75eb6d]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/asp/2018/9/section/80A) inserted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 4(4)](https://www.legislation.gov.uk/asp/2020/18/section/4/4), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)

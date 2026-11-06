@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Method 2 and Method 3 valuation: identification of transaction values[^key-b647bd8f745fcc7e555ff7894ffd17f4][^key-3b215733b0bd1af66993893b5fdf4612][^key-3b215733b0bd1af66993893b5fdf4612]
+## 122. Method 2 and Method 3 valuation: identification of transaction values[^c-b647bd8f745fcc7e555ff7894ffd17f4][^c-3b215733b0bd1af66993893b5fdf4612][^c-3b215733b0bd1af66993893b5fdf4612]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9e0f6654be562af79d30e6101b941774] The identification of the transaction value of identical goods or similar goods—
+(1)[^c-9e0f6654be562af79d30e6101b941774] The identification of the transaction value of identical goods or similar goods—
 
 - (a) sold for export to the United Kingdom; and
 - (b) imported into the United Kingdom at the time of, or within such period as an HMRC officer considers reasonable of, the importation of the chargeable goods into the United Kingdom,
 
 must be based on a sale of such goods which satisfies paragraph (1A).
 
-(1A)[^key-8e30399ef0fb35eca12002067cf7382f] To satisfy this paragraph, a sale of goods must be—
+(1A)[^c-8e30399ef0fb35eca12002067cf7382f] To satisfy this paragraph, a sale of goods must be—
 
 - (a) by—
   - (i) the seller of the chargeable goods; or
@@ -41,10 +41,10 @@ must be based on a sale of such goods which satisfies paragraph (1A).
 
 ## Annotations
 
-[^key-b647bd8f745fcc7e555ff7894ffd17f4]: Commencement: Reg. 122 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b647bd8f745fcc7e555ff7894ffd17f4]: Commencement: Reg. 122 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-3b215733b0bd1af66993893b5fdf4612]: Modification: Pt. 12 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3b215733b0bd1af66993893b5fdf4612]: Modification: Pt. 12 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9e0f6654be562af79d30e6101b941774]: Textual amendment: [Reg. 122(1)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/122/1) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(17)(a)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/17/a)
+[^c-9e0f6654be562af79d30e6101b941774]: Textual amendment: [Reg. 122(1)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/122/1) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(17)(a)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/17/a)
 
-[^key-8e30399ef0fb35eca12002067cf7382f]: Textual amendment: [Reg. 122(1A)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/122/1A) inserted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(17)(b)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/17/b)
+[^c-8e30399ef0fb35eca12002067cf7382f]: Textual amendment: [Reg. 122(1A)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/122/1A) inserted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(17)(b)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/17/b)

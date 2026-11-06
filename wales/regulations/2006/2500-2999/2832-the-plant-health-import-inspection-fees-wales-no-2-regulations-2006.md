@@ -64,7 +64,7 @@ In these Regulations—
 - “**plant product**” (“***cynnyrch planhigyn***”) has the same meaning as in Article 2(1)(b) of the Directive; and
 - “**third country**” (“***trydedd wlad***”) means a country or territory other than one within the European Community.
 
-## 3. Consignments to which these Regulations apply[^key-874d2872ce5df87b6b265fdbab76a778]
+## 3. Consignments to which these Regulations apply[^c-874d2872ce5df87b6b265fdbab76a778]
 
 These Regulations apply in relation to consignments of—
 
@@ -79,7 +79,7 @@ which are landed in Wales from a third country or are the subject of an agreemen
 
 - (a) subject to paragraph (2), the fee specified—
   - (i) in the third column of Schedule 1 in respect of any consignment other than a consignment of a plant or plant product to which sub-paragraph (a)(ii) applies; or
-  - (ii) [^key-5b23c14515c6e0b311c0dfa5bf1e86b5]... in the fourth column of Schedule 2 in respect of a consignment of any plant or plant product listed in the first column of that Schedule and originating from a country listed in the third column of that Schedule; and
+  - (ii) [^c-5b23c14515c6e0b311c0dfa5bf1e86b5]... in the fourth column of Schedule 2 in respect of a consignment of any plant or plant product listed in the first column of that Schedule and originating from a country listed in the third column of that Schedule; and
 - (b) the fee specified for a documentary check and an identity check in the third column of Schedule 3.
 
 (2) Where, at the request of an importer, or any other person responsible for the consignment, a plant health check is carried out on a consignment outside daytime working hours, the fee payable under paragraph (1)(a) in respect of that consignment is—
@@ -107,7 +107,7 @@ Regulations 3 and 4
 | --- | --- | --- | --- |
 | Cuttings, seedlings (except forestry reproductive material), young plants of strawberries or of vegetables | Per consignment |  |  |
 |  | — up to 10,000 in number | £13.24 | £19.86 |
-|  | — for each additional 1,000 units , or part thereof[^key-9e73d4211580ee608e8e710e35c8d7be] | £0.52 | £0.78 |
+|  | — for each additional 1,000 units , or part thereof[^c-9e73d4211580ee608e8e710e35c8d7be] | £0.52 | £0.78 |
 |  | — maximum price | £105.92 | £158.88 |
 | Shrubs, trees (other than cut Christmas trees), other woody nursery plants including forest reproductive material (other than seed) | Per consignment |  |  |
 |  | — up to 1,000 in number | £13.24 | £19.86 |
@@ -157,7 +157,7 @@ Regulations 3 and 4
 |  | — maximum price | £529.60 | £794.40 |
 | Other plants or plant products not specified elsewhere in this Schedule, except forest trees | Per consignment | £13.24 | £19.86 |
 
-## SCHEDULE 2 — IMPORT INSPECTION FEES (REDUCED RATES)[^key-3bba12923061523fb77af871555a21d0]
+## SCHEDULE 2 — IMPORT INSPECTION FEES (REDUCED RATES)[^c-3bba12923061523fb77af871555a21d0]
 
 Regulation 4
 
@@ -288,14 +288,14 @@ A Regulatory Appraisal has been prepared for these Regulations. Copies are avail
 
 [^c16929591]: Marginal citation: OJ No. L 88, 25.3.2006, p. 9.
 
-[^key-874d2872ce5df87b6b265fdbab76a778]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2006/2832/regulation/3) substituted (18.12.2007) by [The Plant Health (Import Inspection Fees) (Wales) (Amendment) (No.2) Regulations 2007 (S.I. 2007/3306)](https://www.legislation.gov.uk/wsi/2007/3306), [regs. 1(b)](https://www.legislation.gov.uk/wsi/2007/3306/regulation/1/b), [2(2)](https://www.legislation.gov.uk/wsi/2007/3306/regulation/2/2)
+[^c-874d2872ce5df87b6b265fdbab76a778]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2006/2832/regulation/3) substituted (18.12.2007) by [The Plant Health (Import Inspection Fees) (Wales) (Amendment) (No.2) Regulations 2007 (S.I. 2007/3306)](https://www.legislation.gov.uk/wsi/2007/3306), [regs. 1(b)](https://www.legislation.gov.uk/wsi/2007/3306/regulation/1/b), [2(2)](https://www.legislation.gov.uk/wsi/2007/3306/regulation/2/2)
 
-[^key-5b23c14515c6e0b311c0dfa5bf1e86b5]: Textual amendment: Words in [reg. 4(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2006/2832/regulation/4/1/a/ii) omitted (23.3.2009) by virtue of [The Plant Health (Import Inspection Fees) (Wales) (Amendment) Regulations 2009 (S.I. 2009/398)](https://www.legislation.gov.uk/wsi/2009/398), [regs. 1](https://www.legislation.gov.uk/wsi/2009/398/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/398/regulation/2/2)
+[^c-5b23c14515c6e0b311c0dfa5bf1e86b5]: Textual amendment: Words in [reg. 4(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2006/2832/regulation/4/1/a/ii) omitted (23.3.2009) by virtue of [The Plant Health (Import Inspection Fees) (Wales) (Amendment) Regulations 2009 (S.I. 2009/398)](https://www.legislation.gov.uk/wsi/2009/398), [regs. 1](https://www.legislation.gov.uk/wsi/2009/398/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/398/regulation/2/2)
 
 [^c16929601]: Marginal citation: [S.I. 2006/171](https://www.legislation.gov.uk/uksi/2006/171).
 
 [^c16929611]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-9e73d4211580ee608e8e710e35c8d7be]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2006/2832/schedule/1) inserted (13.7.2007) by [The Plant Health (Import Inspection Fees) (Wales) (Amendment) Regulations 2007 (S.I. 2007/1763)](https://www.legislation.gov.uk/wsi/2007/1763), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/1763/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2007/1763/regulation/2/2)
+[^c-9e73d4211580ee608e8e710e35c8d7be]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2006/2832/schedule/1) inserted (13.7.2007) by [The Plant Health (Import Inspection Fees) (Wales) (Amendment) Regulations 2007 (S.I. 2007/1763)](https://www.legislation.gov.uk/wsi/2007/1763), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/1763/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2007/1763/regulation/2/2)
 
-[^key-3bba12923061523fb77af871555a21d0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2006/2832/schedule/2) substituted (23.3.2009) by [The Plant Health (Import Inspection Fees) (Wales) (Amendment) Regulations 2009 (S.I. 2009/398)](https://www.legislation.gov.uk/wsi/2009/398), [regs. 1](https://www.legislation.gov.uk/wsi/2009/398/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2009/398/regulation/2/3)
+[^c-3bba12923061523fb77af871555a21d0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2006/2832/schedule/2) substituted (23.3.2009) by [The Plant Health (Import Inspection Fees) (Wales) (Amendment) Regulations 2009 (S.I. 2009/398)](https://www.legislation.gov.uk/wsi/2009/398), [regs. 1](https://www.legislation.gov.uk/wsi/2009/398/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2009/398/regulation/2/3)

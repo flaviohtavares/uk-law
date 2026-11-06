@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Defence to proceedings in respect of statutory nuisance[^key-1f062c114292d5bddcc68b94719fad1c]
+## 44. Defence to proceedings in respect of statutory nuisance[^c-1f062c114292d5bddcc68b94719fad1c]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1f062c114292d5bddcc68b94719fad1c]: Commencement: Art. 44 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-1f062c114292d5bddcc68b94719fad1c]: Commencement: Art. 44 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00082]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

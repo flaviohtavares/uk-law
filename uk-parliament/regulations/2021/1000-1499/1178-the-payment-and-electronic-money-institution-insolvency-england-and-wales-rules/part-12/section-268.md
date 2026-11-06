@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 268. Omission of unobtainable information[^key-84f9dece8dcf745659214e260aebaac3]
+## 268. Omission of unobtainable information[^c-84f9dece8dcf745659214e260aebaac3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Information required under rule 266 or 267 to be included in a notice to be gaze
 
 ## Annotations
 
-[^key-84f9dece8dcf745659214e260aebaac3]: Commencement: Rule 268 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-84f9dece8dcf745659214e260aebaac3]: Commencement: Rule 268 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

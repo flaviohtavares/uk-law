@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may by order amend any of the provisions specified in subsection (2) by substituting a different sum for the sum for the time being specified there.
 
-(2)[^key-c751e192688fc4fbccef44ffbb85e5b6] The provisions referred to in subsection (1) are—
+(2)[^c-c751e192688fc4fbccef44ffbb85e5b6] The provisions referred to in subsection (1) are—
 
 - (a) section 53(5)(a) and (b)(i);
 - (b) section 59(2A)(a) and (4);
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c751e192688fc4fbccef44ffbb85e5b6]: Textual amendment: S. 69(2)(3) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 13 para. 22](https://www.legislation.gov.uk/ukpga/2003/21/schedule/13/paragraph/22) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-c751e192688fc4fbccef44ffbb85e5b6]: Textual amendment: S. 69(2)(3) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 13 para. 22](https://www.legislation.gov.uk/ukpga/2003/21/schedule/13/paragraph/22) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

@@ -108,17 +108,17 @@ The terms of the debt, including the terms as to the payment of interest and rep
 - (a) the amount to be included from time to time in any reserves of the successor company as representing its accumulated realised profits shall be determined as if any profits realised and retained by the Crown Agents had been realised and retained by the company; and
 - (b) the amount to be included in any such accounts as representing the accumulated realised losses of the successor company shall be determined as if any losses realised by the Crown Agents had been realised by the company.
 
-(4) References in this section to the statutory accounts of the successor company are to any accounts prepared by the successor company for the purposes of any provision of the Companies Act 2006[^key-fc0600787daf3b4b3a269bfe3ce2eaf1] (including group accounts).
+(4) References in this section to the statutory accounts of the successor company are to any accounts prepared by the successor company for the purposes of any provision of the Companies Act 2006[^c-fc0600787daf3b4b3a269bfe3ce2eaf1] (including group accounts).
 
 ### 6. Use of “Crown Agents” as part of company name.
 
-The words “Crown Agents” may, notwithstanding anything in section 54(1)(a) of the Companies Act 2006[^key-c521a23881d7599e533fdcb02f74505c] (prohibition of name giving impression of connection with Her Majesty’s Government), be used as part of the name of—
+The words “Crown Agents” may, notwithstanding anything in section 54(1)(a) of the Companies Act 2006[^c-c521a23881d7599e533fdcb02f74505c] (prohibition of name giving impression of connection with Her Majesty’s Government), be used as part of the name of—
 
 - (a) the successor company,
 - (b) any company of which the successor company is a wholly-owned subsidiary, or,
 - (c) any subsidiary of the successor company or any such company;
 
-and the power conferred by section 76 of the Companies Act 2006[^key-093b5e925b9cc7dc1ae262f9742b596d] (power to require company to abandon misleading name) shall not apply in relation to the use of those words as part of the name of any such company.
+and the power conferred by section 76 of the Companies Act 2006[^c-093b5e925b9cc7dc1ae262f9742b596d] (power to require company to abandon misleading name) shall not apply in relation to the use of those words as part of the name of any such company.
 
 ### 7. Corporation tax.
 
@@ -281,7 +281,7 @@ In this Act—
 - “**the appointed day**” means the day appointed under section 1(1);
 - “**the Crown Agents**” means the body corporate established by section 1 of the [^c831026]Crown Agents Act 1979 by the name of the Crown Agents for Oversea Governments and Administrations;
 - “**securities**”, in relation to the successor company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
-- “subsidiary” and “wholly-owned subsidiary” have the meaning given by section 1159 of the Companies Act 2006;[^key-edfa7385e16fbd0e1fa7ebe5f638ccf2]
+- “subsidiary” and “wholly-owned subsidiary” have the meaning given by section 1159 of the Companies Act 2006;[^c-edfa7385e16fbd0e1fa7ebe5f638ccf2]
 - “**the successor company**” means the company nominated for the purposes of section 1; and
 - “**the transitional period**”, in relation to the Crown Agents, has the meaning given by section 8(1).
 
@@ -376,11 +376,11 @@ Section 13(2).
 
 [^c831013]: Marginal citation: [1979 c. 43](https://www.legislation.gov.uk/ukpga/1979/43).
 
-[^key-fc0600787daf3b4b3a269bfe3ce2eaf1]: Textual amendment: Words in s. 5(4) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 200](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/200) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-fc0600787daf3b4b3a269bfe3ce2eaf1]: Textual amendment: Words in s. 5(4) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 200](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/200) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-c521a23881d7599e533fdcb02f74505c]: Textual amendment: Words in s. 6 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 154(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/154/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-c521a23881d7599e533fdcb02f74505c]: Textual amendment: Words in s. 6 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 154(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/154/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-093b5e925b9cc7dc1ae262f9742b596d]: Textual amendment: Words in s. 6 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 154(2)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/154/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-093b5e925b9cc7dc1ae262f9742b596d]: Textual amendment: Words in s. 6 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 154(2)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/154/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c831016]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
@@ -404,6 +404,6 @@ Section 13(2).
 
 [^c831026]: Marginal citation: [1979 c. 43](https://www.legislation.gov.uk/ukpga/1979/43).
 
-[^key-edfa7385e16fbd0e1fa7ebe5f638ccf2]: Textual amendment: Words in s. 14 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 154(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/154/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-edfa7385e16fbd0e1fa7ebe5f638ccf2]: Textual amendment: Words in s. 14 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 154(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/154/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c831028]: Marginal citation: [S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794).

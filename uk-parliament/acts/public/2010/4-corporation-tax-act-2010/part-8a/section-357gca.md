@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357GCA. Application of this Part in relation to transferred trades[^key-e06ec90a10fc27bf99cb92703441cf40][^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357GCA. Application of this Part in relation to transferred trades[^c-e06ec90a10fc27bf99cb92703441cf40][^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ the following provisions apply in determining under this Part the relevant IP pr
 
 ## Annotations
 
-[^key-e06ec90a10fc27bf99cb92703441cf40]: Textual amendment: [S. 357GCA](https://www.legislation.gov.uk/ukpga/2010/4/section/357GCA) and cross-heading inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/5)
+[^c-e06ec90a10fc27bf99cb92703441cf40]: Textual amendment: [S. 357GCA](https://www.legislation.gov.uk/ukpga/2010/4/section/357GCA) and cross-heading inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/5)
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)

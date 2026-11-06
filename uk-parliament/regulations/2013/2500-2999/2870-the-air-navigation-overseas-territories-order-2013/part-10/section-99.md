@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Operator’s responsibilities[^key-151683c98b8fb21372502e5a97cf4d2b]
+## 99. Operator’s responsibilities[^c-151683c98b8fb21372502e5a97cf4d2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-151683c98b8fb21372502e5a97cf4d2b]: Commencement: [Art. 99](https://www.legislation.gov.uk/uksi/2013/2870/article/99) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-151683c98b8fb21372502e5a97cf4d2b]: Commencement: [Art. 99](https://www.legislation.gov.uk/uksi/2013/2870/article/99) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

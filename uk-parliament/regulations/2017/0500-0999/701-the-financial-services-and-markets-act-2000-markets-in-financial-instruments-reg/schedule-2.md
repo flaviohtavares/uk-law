@@ -627,7 +627,7 @@ In section 313A(3) [^c23018921] (FCA's power to require suspension or removal of
 > - (b) a take-over bid; or
 > - (c) the non-disclosure of inside information about the issuer or the instrument.
 >
-> (2A)[^key-42b21ec25d582694f91dbbc38045067a] But the FCA is not obliged to impose a requirement under subsection (2) if it could cause significant damage to the interests of investors or the orderly functioning of the market.
+> (2A)[^c-42b21ec25d582694f91dbbc38045067a] But the FCA is not obliged to impose a requirement under subsection (2) if it could cause significant damage to the interests of investors or the orderly functioning of the market.
 >
 > (3) The FCA must revoke a requirement imposed under subsection (2) if the competent authority of the other EEA State informs the FCA it has lifted the suspension or removal mentioned in subsection (1).
 >
@@ -681,7 +681,7 @@ In section 313A(3) [^c23018921] (FCA's power to require suspension or removal of
 >   - (iv) in the case of a systematic internaliser, the systematic internaliser; or
 > - (b) in the case of a systematic internaliser does not fall within the FCA's jurisdiction by virtue of paragraph (a)—
 >   - (i) it has established a branch (as defined by Article 4.1.30 of the directive) in the United Kingdom; and
->   - (ii) the FCA considers that it is necessary to impose a requirement on the systematic internaliser under section 313CA(2), 313CB(2), or 313CC(2) for the purposes of Article 32.2 or 52.2 [^key-5a319dc46647325055131c7578edc2a4]... of the markets in financial instruments directive.
+>   - (ii) the FCA considers that it is necessary to impose a requirement on the systematic internaliser under section 313CA(2), 313CB(2), or 313CC(2) for the purposes of Article 32.2 or 52.2 [^c-5a319dc46647325055131c7578edc2a4]... of the markets in financial instruments directive.
 
 .
 
@@ -831,7 +831,7 @@ In section 398(1A) [^c23019071] (Misleading FCA or PRA: residual cases)—
 
 - (a) after paragraph (b) insert—
 
-  > - (ba) the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701[^key-0c690869c8fa390f859832c43e0577c6]);
+  > - (ba) the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701[^c-0c690869c8fa390f859832c43e0577c6]);
 
   ;
 - (b) at the end of paragraph (e) [^c23019081] omit “or”; and
@@ -1031,11 +1031,11 @@ In paragraph 8(1) of Schedule 10A [^c23019211] (liability of issuers in connecti
 
 [^c23018931]: Marginal citation: [Section 313C](https://www.legislation.gov.uk/uksi/2017/701/section/313C) was inserted by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and amended by section 36(a) Financial Services Act 2012 and by [S.I. 2010/1193](https://www.legislation.gov.uk/uksi/2010/1193) and 2012/916.
 
-[^key-42b21ec25d582694f91dbbc38045067a]: Textual amendment: Words in [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2017/701/schedule/2/paragraph/41/2A) inserted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [34](https://www.legislation.gov.uk/uksi/2017/1255/regulation/34)
+[^c-42b21ec25d582694f91dbbc38045067a]: Textual amendment: Words in [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2017/701/schedule/2/paragraph/41/2A) inserted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [34](https://www.legislation.gov.uk/uksi/2017/1255/regulation/34)
 
 [^c23018941]: Marginal citation: Section 313D was inserted by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126); there are amendments to this section but none is relevant.
 
-[^key-5a319dc46647325055131c7578edc2a4]: Textual amendment: Words in [Sch. 2 para. 42(4)](https://www.legislation.gov.uk/uksi/2017/701/schedule/2/paragraph/42/4) omitted (2.1.2018) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [35](https://www.legislation.gov.uk/uksi/2017/1255/regulation/35)
+[^c-5a319dc46647325055131c7578edc2a4]: Textual amendment: Words in [Sch. 2 para. 42(4)](https://www.legislation.gov.uk/uksi/2017/701/schedule/2/paragraph/42/4) omitted (2.1.2018) by virtue of [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [35](https://www.legislation.gov.uk/uksi/2017/1255/regulation/35)
 
 [^c23018951]: Marginal citation: OJ L 87, 31.3.2017, p. 1.
 
@@ -1063,7 +1063,7 @@ In paragraph 8(1) of Schedule 10A [^c23019211] (liability of issuers in connecti
 
 [^c23019071]: Marginal citation: Section 398(1A) was inserted by [S.I. 2013/1733](https://www.legislation.gov.uk/uksi/2013/1733).
 
-[^key-0c690869c8fa390f859832c43e0577c6]: Textual amendment: Word in [Sch. 2 para. 48(a)](https://www.legislation.gov.uk/uksi/2017/701/schedule/2/paragraph/48/a) substituted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [36](https://www.legislation.gov.uk/uksi/2017/1255/regulation/36)
+[^c-0c690869c8fa390f859832c43e0577c6]: Textual amendment: Word in [Sch. 2 para. 48(a)](https://www.legislation.gov.uk/uksi/2017/701/schedule/2/paragraph/48/a) substituted (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [36](https://www.legislation.gov.uk/uksi/2017/1255/regulation/36)
 
 [^c23019081]: Marginal citation: Paragraph (e) was amended by [S.I. 2015/1882](https://www.legislation.gov.uk/uksi/2015/1882) and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680).
 

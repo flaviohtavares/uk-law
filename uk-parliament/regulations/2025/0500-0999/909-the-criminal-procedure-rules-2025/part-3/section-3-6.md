@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.6. Application to vary a direction[^key-7866dacea2b879389e73fedc14d67e4b]
+## 3.6. Application to vary a direction[^c-7866dacea2b879389e73fedc14d67e4b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7866dacea2b879389e73fedc14d67e4b]: Commencement: [Rule 3.6](https://www.legislation.gov.uk/uksi/2025/909/rule/3.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7866dacea2b879389e73fedc14d67e4b]: Commencement: [Rule 3.6](https://www.legislation.gov.uk/uksi/2025/909/rule/3.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

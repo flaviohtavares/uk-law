@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Amendment of regulation 4 (interpretation: radioactive substances activity)[^key-176ab7de0b716c3142bc41f0a10c0938][^key-b71c7ba86544e11f1fff88406f7885f4]
+## 7. Amendment of regulation 4 (interpretation: radioactive substances activity)[^c-176ab7de0b716c3142bc41f0a10c0938][^c-b71c7ba86544e11f1fff88406f7885f4]
 
 *Extent: S*
 
@@ -63,6 +63,6 @@ For regulation 4 (interpretation: radioactive substances activity), substituteâ€
 
 ## Annotations
 
-[^key-176ab7de0b716c3142bc41f0a10c0938]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/165/regulation/7) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(c)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/c/5)
+[^c-176ab7de0b716c3142bc41f0a10c0938]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/165/regulation/7) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(c)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/c/5)
 
-[^key-b71c7ba86544e11f1fff88406f7885f4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/165/regulation/7) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-b71c7ba86544e11f1fff88406f7885f4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/165/regulation/7) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

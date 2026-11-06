@@ -82,7 +82,7 @@ Regulation 60
 
 **12.** In addition to the appointments mentioned in paragraph 11 of this Part of this Schedule, the Committee may appoint such other officers as may be required for the performance of the functions of the Committee.
 
-**13.**[^key-9a237e419ef1409898a9e677cee36fd4] The Committee may make arrangements with any employing authority, admission body, Government department or district council for the exercise of any pension function by the Committee on behalf of any employing authority, admission body, Government department or district council on such terms as may be provided for by the arrangements.
+**13.**[^c-9a237e419ef1409898a9e677cee36fd4] The Committee may make arrangements with any employing authority, admission body, Government department or district council for the exercise of any pension function by the Committee on behalf of any employing authority, admission body, Government department or district council on such terms as may be provided for by the arrangements.
 
 **14.** Section 18(2) of the Interpretation Act (Northern Ireland) 1954 [^c22152801] shall apply to any appointment made by virtue of paragraph 11 or 12 of this Part of this Schedule as if each of these paragraphs was an enactment referred to in that section but a person shall not be removed from any office mentioned in paragraph 11 of this Part of this Schedule without the written concurrence of the Department.
 
@@ -94,7 +94,7 @@ Regulation 60
 
 **3.** (1) The Committee may, with the approval of the Department, pay to a Committee member an allowance, in addition to any payments made under paragraph 1 of this Part of this Schedule.
 
-(2) Such allowance shall not exceed the amount as the Department may from time to time determine [^key-4025d96f0440438742aa94c02b824ded]... .
+(2) Such allowance shall not exceed the amount as the Department may from time to time determine [^c-4025d96f0440438742aa94c02b824ded]... .
 
 (3) The allowance shall be claimed in respect of an approved duty by a Committee member.
 
@@ -111,8 +111,8 @@ Regulation 60
 
 [^c22152781]: Marginal citation: S.R. [2000 No. 85](https://www.legislation.gov.uk/ukcm/2000/85)
 
-[^key-9a237e419ef1409898a9e677cee36fd4]: Textual amendment: [Sch. 3 Pt. 2 para. 13](https://www.legislation.gov.uk/nisr/2014/188/schedule/3/part/2/paragraph/13) substituted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2022/163/regulation/15)
+[^c-9a237e419ef1409898a9e677cee36fd4]: Textual amendment: [Sch. 3 Pt. 2 para. 13](https://www.legislation.gov.uk/nisr/2014/188/schedule/3/part/2/paragraph/13) substituted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2022/163/regulation/15)
 
 [^c22152801]: Marginal citation: [1954 c.33 (N.I)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-4025d96f0440438742aa94c02b824ded]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 3(2)](https://www.legislation.gov.uk/nisr/2014/188/schedule/3/part/3/paragraph/3/2) omitted (18.11.2019) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [83](https://www.legislation.gov.uk/nisr/2019/206/regulation/83)
+[^c-4025d96f0440438742aa94c02b824ded]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 3(2)](https://www.legislation.gov.uk/nisr/2014/188/schedule/3/part/3/paragraph/3/2) omitted (18.11.2019) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [83](https://www.legislation.gov.uk/nisr/2019/206/regulation/83)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Directions in relation to projects of national significance[^key-1ab9e3f7a1a4dece3b52e6641ebfbdc0][^key-444a65419b34030ec04c4dd6902a059d]
+## 35. Directions in relation to projects of national significance[^c-1ab9e3f7a1a4dece3b52e6641ebfbdc0][^c-444a65419b34030ec04c4dd6902a059d]
 
 *Extent: E+W+S*
 
@@ -48,6 +48,6 @@ This is subject to the following provisions of this section and section 35ZA.
 
 ## Annotations
 
-[^key-1ab9e3f7a1a4dece3b52e6641ebfbdc0]: Commencement: S. 35 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/101/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-1ab9e3f7a1a4dece3b52e6641ebfbdc0]: Commencement: S. 35 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/101/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-444a65419b34030ec04c4dd6902a059d]: Textual amendment: Ss. 35, 35A substituted for s. 35 (25.4.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/26/2), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)
+[^c-444a65419b34030ec04c4dd6902a059d]: Textual amendment: Ss. 35, 35A substituted for s. 35 (25.4.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/26/2), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)

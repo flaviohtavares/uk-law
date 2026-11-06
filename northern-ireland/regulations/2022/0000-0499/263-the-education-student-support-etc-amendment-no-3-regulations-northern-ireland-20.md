@@ -48,7 +48,7 @@ In accordance with Article 4(11)(a)(i) and (b)(i) of the Higher Education (North
 
 ### Introductory
 
-#### 1. Citation, commencement and application[^key-8c48d1d5ff1b06ba188ad8c8e7176e53]
+#### 1. Citation, commencement and application[^c-8c48d1d5ff1b06ba188ad8c8e7176e53]
 
 (1) These Regulations may be cited as The Education (Student Support, etc.) (Amendment) (No.3) Regulations (Northern Ireland) 2022.
 
@@ -66,7 +66,7 @@ In accordance with Article 4(11)(a)(i) and (b)(i) of the Higher Education (North
 - (c) on or after 1st July and before 1st August; or
 - (d) on or after 1st August and on or before 31st December.
 
-#### 2. Interpretation[^key-7d27868b12d7778427eb37b30ccf6451]
+#### 2. Interpretation[^c-7d27868b12d7778427eb37b30ccf6451]
 
 In these Regulations —
 
@@ -78,21 +78,21 @@ In these Regulations —
 
 ### CHAPTER 1 — Amendment of the Student Fees (Amounts) Regulations (Northern Ireland) 2005
 
-#### 3. Amendment to the 2005 Regulations[^key-ef5679e7ecb4a89452f60be5fc8c75af]
+#### 3. Amendment to the 2005 Regulations[^c-ef5679e7ecb4a89452f60be5fc8c75af]
 
 In regulation 3 (Prescribed basic and higher amounts)—
 
 - (a) for “£1,825” substitute “£1,855”; and
 - (b) for “£4,630” substitute “£4,710”.
 
-**4.**[^key-89ffc99f750358fc4ceb84aa2f086ae0] In regulation 4 (Prescribed basic and higher amounts for specified courses)—
+**4.**[^c-89ffc99f750358fc4ceb84aa2f086ae0] In regulation 4 (Prescribed basic and higher amounts for specified courses)—
 
 - (a) for “£890” substitute “£905”; and
 - (b) for “£2,300” substitute “£2,340”.
 
 ### CHAPTER 2 — Graduate Entry Courses
 
-#### 5. Amendments to the 2007 Regulations[^key-ef8dd0efab36ef19123410c294220ab2]
+#### 5. Amendments to the 2007 Regulations[^c-ef8dd0efab36ef19123410c294220ab2]
 
 In regulation 2[^f00007], in the appropriate place insert—
 
@@ -112,13 +112,13 @@ In regulation 2[^f00007], in the appropriate place insert—
 
 .
 
-**6.**[^key-248c4cc6b8986617aca10d5ae2effea2] In regulation 5[^f00008] (prescribed description of a qualifying person) after paragraph 3 insert—
+**6.**[^c-248c4cc6b8986617aca10d5ae2effea2] In regulation 5[^f00008] (prescribed description of a qualifying person) after paragraph 3 insert—
 
 > (3A) Paragraph (2) does not apply where the qualifying course is a graduate entry course.
 
 ### CHAPTER 3 — Amendments to Loan Amounts
 
-#### 7. Amendments to the 2009 Regulations[^key-854161d884e9ac2862f8c08ada19b067]
+#### 7. Amendments to the 2009 Regulations[^c-854161d884e9ac2862f8c08ada19b067]
 
 In Regulation 66 (current system students with full entitlement) for paragraph (4) substitute—
 
@@ -133,11 +133,11 @@ In Regulation 66 (current system students with full entitlement) for paragraph (
 > - (vii) where the student qualifies under Chapter 6 of Part 5 for an amount of maintenance grant of £3,475, £2,115; and
 > - (viii) where no maintenance grant is payable, nil.
 
-**8.**[^key-a2cc41ef12fb6bc03c8805a893e8c033] The Schedule to these Regulations has effect to substitute the figure in the third column of the table for the figure in the second column where that figure appears in the provision of the Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 set out in the first column.
+**8.**[^c-a2cc41ef12fb6bc03c8805a893e8c033] The Schedule to these Regulations has effect to substitute the figure in the third column of the table for the figure in the second column where that figure appears in the provision of the Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 set out in the first column.
 
 ### CHAPTER 5 — Miscellaneous
 
-**9.**[^key-4a0caf4edcf1f0d2c6c007a03c280265] In Schedule 6[^f00009] to the 2009 Regulations (Relevant Institutions of Higher Education in the Republic of Ireland)—
+**9.**[^c-4a0caf4edcf1f0d2c6c007a03c280265] In Schedule 6[^f00009] to the 2009 Regulations (Relevant Institutions of Higher Education in the Republic of Ireland)—
 
 - (a) add “Atlantic Technological University”;
 - (b) after “Maynooth University” add “South East Technological University”;
@@ -148,7 +148,7 @@ Mr Trevor Cooper
 
 A senior officer of the Department for the Economy
 
-## SCHEDULE[^key-600293382d292d1393702a2aeb3e8698]
+## SCHEDULE[^c-600293382d292d1393702a2aeb3e8698]
 
 Regulation 8
 
@@ -264,9 +264,9 @@ An impact assessment has not been produced for this rule as no, or no significan
 
 [^f00003]: Footnote: [S.I. 2005/1116](https://www.legislation.gov.uk/uksi/2005/1116) see Article 2(2) for definitions of “the Department”, “prescribed” and “regulations”.
 
-[^key-8c48d1d5ff1b06ba188ad8c8e7176e53]: Commencement: Reg. 1 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
+[^c-8c48d1d5ff1b06ba188ad8c8e7176e53]: Commencement: Reg. 1 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
 
-[^key-7d27868b12d7778427eb37b30ccf6451]: Commencement: Reg. 2 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
+[^c-7d27868b12d7778427eb37b30ccf6451]: Commencement: Reg. 2 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
 
 [^f00004]: Footnote: [S.R. 2009 No. 373](https://www.legislation.gov.uk/nisr/2009/373), amended by S.R.s [2010 No. 383](https://www.legislation.gov.uk/ukcm/2010/383), 2012 Nos. 62 and 398, 2013 Nos. 128 and 223, 2014 Nos. 97 and 309, [2016 No. 21](https://www.legislation.gov.uk/ukcm/2016/21), 2017 Nos. 7 and 43, [2018 No. 35](https://www.legislation.gov.uk/ukcm/2018/35), 2019 Nos.35 and 102, [2020 No. 79](https://www.legislation.gov.uk/ukcm/2020/79), 2021 Nos. 50, 85 and 260 and [2022 No 75](https://www.legislation.gov.uk/ukcm/2022/75) and 201.
 
@@ -274,24 +274,24 @@ An impact assessment has not been produced for this rule as no, or no significan
 
 [^f00006]: Footnote: [S.R. 2005 No. 290](https://www.legislation.gov.uk/nisr/2005/290) as amended by [S.R. 2006 No. 455](https://www.legislation.gov.uk/nisr/2006/455), [S.R. 2007 No. 442](https://www.legislation.gov.uk/nisr/2007/442), [S.R. 2008 No. 455](https://www.legislation.gov.uk/nisr/2008/455), [S.R. 2009 No. 400](https://www.legislation.gov.uk/nisr/2009/400), S.R 2011 Nos. 1 and 369, [S.R. 2012 No. 184](https://www.legislation.gov.uk/nisr/2012/184), [S.R. 2013 No. 120](https://www.legislation.gov.uk/nisr/2013/120), [S.R. 2014 No. 116](https://www.legislation.gov.uk/nisr/2014/116), [S.R. 2015 No. 243](https://www.legislation.gov.uk/nisr/2015/243), [S.R. 2016 No. 354](https://www.legislation.gov.uk/nisr/2016/354), [S.R. 2017 No. 104](https://www.legislation.gov.uk/nisr/2017/104), [S.R. 2018 No. 105](https://www.legislation.gov.uk/nisr/2018/105), [S.R. 2019 No. 102](https://www.legislation.gov.uk/nisr/2019/102), [S.R. 2020 No. 98](https://www.legislation.gov.uk/nisr/2020/98) and [S.R. 2022 No. 260](https://www.legislation.gov.uk/nisr/2022/260).
 
-[^key-ef5679e7ecb4a89452f60be5fc8c75af]: Commencement: Reg. 3 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
+[^c-ef5679e7ecb4a89452f60be5fc8c75af]: Commencement: Reg. 3 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
 
-[^key-89ffc99f750358fc4ceb84aa2f086ae0]: Commencement: Reg. 4 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
+[^c-89ffc99f750358fc4ceb84aa2f086ae0]: Commencement: Reg. 4 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
 
-[^key-ef8dd0efab36ef19123410c294220ab2]: Commencement: Reg. 5 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
+[^c-ef8dd0efab36ef19123410c294220ab2]: Commencement: Reg. 5 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
 
 [^f00007]: Footnote: Regulation 2 was amended by S.R. 2011 no. 376.
 
-[^key-248c4cc6b8986617aca10d5ae2effea2]: Commencement: Reg. 6 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
+[^c-248c4cc6b8986617aca10d5ae2effea2]: Commencement: Reg. 6 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
 
 [^f00008]: Footnote: Regulation 5 was amended by S.R.s [2011 No. 376](https://www.legislation.gov.uk/ukcm/2011/376), [2021 No. 85](https://www.legislation.gov.uk/ukcm/2021/85) and [2022 No.75](https://www.legislation.gov.uk/ukcm/2022/75).
 
-[^key-854161d884e9ac2862f8c08ada19b067]: Commencement: Reg. 7 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
+[^c-854161d884e9ac2862f8c08ada19b067]: Commencement: Reg. 7 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
 
-[^key-a2cc41ef12fb6bc03c8805a893e8c033]: Commencement: Reg. 8 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
+[^c-a2cc41ef12fb6bc03c8805a893e8c033]: Commencement: Reg. 8 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
 
-[^key-4a0caf4edcf1f0d2c6c007a03c280265]: Commencement: Reg. 9 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
+[^c-4a0caf4edcf1f0d2c6c007a03c280265]: Commencement: Reg. 9 in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
 
 [^f00009]: Footnote: Schedule 6 was amended by S.R.s [2013 No. 223](https://www.legislation.gov.uk/ukcm/2013/223), [2014 No. 309](https://www.legislation.gov.uk/ukcm/2014/309), [2016 No. 21](https://www.legislation.gov.uk/ukcm/2016/21), [2017 No. 43](https://www.legislation.gov.uk/ukcm/2017/43), [2019 No.35](https://www.legislation.gov.uk/ukcm/2019/35), [2020 No. 79](https://www.legislation.gov.uk/ukcm/2020/79) and [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
 
-[^key-600293382d292d1393702a2aeb3e8698]: Commencement: Sch. in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)
+[^c-600293382d292d1393702a2aeb3e8698]: Commencement: Sch. in operation at 16.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/263/regulation/1/2)

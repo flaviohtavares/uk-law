@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Environmental monitoring[^key-bab2d5619a6297c73d4a26152f6f1069][^key-7c47c6b6e648d46b8907dffd3c7edcff]
+## 16. Environmental monitoring[^c-bab2d5619a6297c73d4a26152f6f1069][^c-7c47c6b6e648d46b8907dffd3c7edcff]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bab2d5619a6297c73d4a26152f6f1069]: Commencement: S. 16 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-bab2d5619a6297c73d4a26152f6f1069]: Commencement: S. 16 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-7c47c6b6e648d46b8907dffd3c7edcff]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/30/section/16) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/c)
+[^c-7c47c6b6e648d46b8907dffd3c7edcff]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/30/section/16) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/c)

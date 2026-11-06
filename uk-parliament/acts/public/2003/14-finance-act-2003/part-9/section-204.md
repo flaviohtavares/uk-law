@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Mandatory electronic payment[^key-7a3a09a7e5cbb067ab7e219c9092bf2a]
+## 204. Mandatory electronic payment[^c-7a3a09a7e5cbb067ab7e219c9092bf2a]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-8a0985da0407c0c68d2e906bead50c5a] The Commissioners for Her Majesty's Revenue and Customs may make regulations requiring a person to use electronic means in making specified payments under legislation relating to a tax (or duty) for which the Commissioners are responsible.
+(1)[^c-8a0985da0407c0c68d2e906bead50c5a] The Commissioners for Her Majesty's Revenue and Customs may make regulations requiring a person to use electronic means in making specified payments under legislation relating to a tax (or duty) for which the Commissioners are responsible.
 
 (2) The regulations may provide for exceptions.
 
@@ -39,11 +39,11 @@ summary: ''
 (5) Regulations under this section may—
 
 - (a) allow any authorisation or requirement for which the regulations may provide to be given or imposed by means of a specific or general direction given by the Commissioners;
-- (b) provide that the conditions of any such authorisation or requirement are to be taken to be satisfied only where Her Majesty's Revenue and Customs[^key-497eb93a069a15f195fe274d4eff7d59] are satisfied as to specified matters.
+- (b) provide that the conditions of any such authorisation or requirement are to be taken to be satisfied only where Her Majesty's Revenue and Customs[^c-497eb93a069a15f195fe274d4eff7d59] are satisfied as to specified matters.
 
 (6) Regulations under this section may contain provision—
 
-- (a) requiring Her Majesty's Revenue and Customs[^key-0ec9e661aee67aea32daac82cfa93795] to notify persons appearing to them to be, or to have become, a person required to use electronic means for the making of any payments in accordance with the regulations;
+- (a) requiring Her Majesty's Revenue and Customs[^c-0ec9e661aee67aea32daac82cfa93795] to notify persons appearing to them to be, or to have become, a person required to use electronic means for the making of any payments in accordance with the regulations;
 - (b) enabling a person so notified to have the question whether he is such a person determined in the same way as an appeal.
 
 (7) Regulations under this section may confer power on the Commissioners to give specific or general directions—
@@ -54,8 +54,8 @@ summary: ''
 
 (8) The power to make provision by regulations under this section includes power—
 
-- (a) to provide for a contravention by a large employer of, or any failure by a large employer to comply with,[^key-f8e9bddcdc3a951cbfa843a837ae6684] the regulations (a “**default**”) to attract a surcharge of a specified amount;
-- (b) to provide that specified enactments relating to penalties imposed for the purposes of any matter relating to a tax (or duty) for which the Commissioners are responsible[^key-d4b5b7a79265cab97dc6f26655c72ac4] (including enactments relating to assessments, review and appeal) apply, with or without modifications, in relation to surcharges under the regulations.
+- (a) to provide for a contravention by a large employer of, or any failure by a large employer to comply with,[^c-f8e9bddcdc3a951cbfa843a837ae6684] the regulations (a “**default**”) to attract a surcharge of a specified amount;
+- (b) to provide that specified enactments relating to penalties imposed for the purposes of any matter relating to a tax (or duty) for which the Commissioners are responsible[^c-d4b5b7a79265cab97dc6f26655c72ac4] (including enactments relating to assessments, review and appeal) apply, with or without modifications, in relation to surcharges under the regulations.
 
 (9) The regulations may specify the surcharge for each default as—
 
@@ -73,32 +73,32 @@ but, in either case, they may specify £30 if it is more.
 
 (12) In this section—
 
-- “[^key-77f4f88af132cd920a135a311b977c4f]**Her Majesty's Revenue and Customs**” includes a person acting under the authority of the Commissioners in relation to payment by electronic means;
-- “[^key-1309b70ddce7b81243c0b3fd941f104f]**large employer**” means a person paying PAYE income to 250 or more recipients (and regulations under this section may make provision as to the date or period by reference to which this is to be determined and the circumstances in which a person is to be treated as paying PAYE income to a recipient);
-- “**legislation**” means any enactment, EU[^key-f65df15bd203c31d40bf2f1843802ab9] or subordinate legislation;
+- “[^c-77f4f88af132cd920a135a311b977c4f]**Her Majesty's Revenue and Customs**” includes a person acting under the authority of the Commissioners in relation to payment by electronic means;
+- “[^c-1309b70ddce7b81243c0b3fd941f104f]**large employer**” means a person paying PAYE income to 250 or more recipients (and regulations under this section may make provision as to the date or period by reference to which this is to be determined and the circumstances in which a person is to be treated as paying PAYE income to a recipient);
+- “**legislation**” means any enactment, EU[^c-f65df15bd203c31d40bf2f1843802ab9] or subordinate legislation;
 - “**specified**” means specified by or under regulations under this section;
 - “**subordinate legislation**” has the same meaning as in the Interpretation Act 1978 (c. 30).
 
-(13)[^key-c9b7e4fe1c9f3870bea8ca69ef78be37] Regulations under section 95(1) of the Finance Act 2007 (payment by cheque) may, in particular, provide for a payment which is made by cheque in contravention of regulations under this section to be treated as made when the cheque clears, as defined in the regulations under that section.
+(13)[^c-c9b7e4fe1c9f3870bea8ca69ef78be37] Regulations under section 95(1) of the Finance Act 2007 (payment by cheque) may, in particular, provide for a payment which is made by cheque in contravention of regulations under this section to be treated as made when the cheque clears, as defined in the regulations under that section.
 
 ## Annotations
 
-[^key-7a3a09a7e5cbb067ab7e219c9092bf2a]: Textual amendment: S. 204 heading substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(7)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/7)
+[^c-7a3a09a7e5cbb067ab7e219c9092bf2a]: Textual amendment: S. 204 heading substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(7)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/7)
 
-[^key-8a0985da0407c0c68d2e906bead50c5a]: Textual amendment: S. 204(1)(2) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/2)
+[^c-8a0985da0407c0c68d2e906bead50c5a]: Textual amendment: S. 204(1)(2) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/2)
 
-[^key-497eb93a069a15f195fe274d4eff7d59]: Textual amendment: Words in s. 204(5)(b) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/3)
+[^c-497eb93a069a15f195fe274d4eff7d59]: Textual amendment: Words in s. 204(5)(b) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/3)
 
-[^key-0ec9e661aee67aea32daac82cfa93795]: Textual amendment: Words in s. 204(6)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/4)
+[^c-0ec9e661aee67aea32daac82cfa93795]: Textual amendment: Words in s. 204(6)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/4)
 
-[^key-f8e9bddcdc3a951cbfa843a837ae6684]: Textual amendment: Words in s. 204(8)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(5)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/5/a)
+[^c-f8e9bddcdc3a951cbfa843a837ae6684]: Textual amendment: Words in s. 204(8)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(5)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/5/a)
 
-[^key-d4b5b7a79265cab97dc6f26655c72ac4]: Textual amendment: Words in s. 204(8)(b) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(5)(b)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/5/b)
+[^c-d4b5b7a79265cab97dc6f26655c72ac4]: Textual amendment: Words in s. 204(8)(b) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(5)(b)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/5/b)
 
-[^key-77f4f88af132cd920a135a311b977c4f]: Textual amendment: Words in s. 204(12) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(6)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/6/a)
+[^c-77f4f88af132cd920a135a311b977c4f]: Textual amendment: Words in s. 204(12) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(6)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/6/a)
 
-[^key-1309b70ddce7b81243c0b3fd941f104f]: Textual amendment: Words in s. 204(12) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(6)(b)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/6/b)
+[^c-1309b70ddce7b81243c0b3fd941f104f]: Textual amendment: Words in s. 204(12) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(6)(b)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/6/b)
 
-[^key-f65df15bd203c31d40bf2f1843802ab9]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-f65df15bd203c31d40bf2f1843802ab9]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-c9b7e4fe1c9f3870bea8ca69ef78be37]: Textual amendment: S. 204(13) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 95(6)](https://www.legislation.gov.uk/ukpga/2007/11/section/95/6)
+[^c-c9b7e4fe1c9f3870bea8ca69ef78be37]: Textual amendment: S. 204(13) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 95(6)](https://www.legislation.gov.uk/ukpga/2007/11/section/95/6)

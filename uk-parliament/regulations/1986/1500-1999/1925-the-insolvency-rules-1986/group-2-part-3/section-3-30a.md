@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.30A. Formal defects[^key-147edc46b45a1feebac43e175f55980c]
+## 3.30A. Formal defects[^c-147edc46b45a1feebac43e175f55980c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The acts of the creditors' committee established for any administrative receiver
 
 ## Annotations
 
-[^key-147edc46b45a1feebac43e175f55980c]: Textual amendment: [Rule 3.30A](https://www.legislation.gov.uk/uksi/1986/1925/rule/3) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 30](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/30)
+[^c-147edc46b45a1feebac43e175f55980c]: Textual amendment: [Rule 3.30A](https://www.legislation.gov.uk/uksi/1986/1925/rule/3) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 30](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/30)

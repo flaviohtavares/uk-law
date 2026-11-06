@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. OFT to prepare information sheets on arrears and default[^key-a8ec3c9e5c309b8e7456fd0f96d86f14]
+## 8. OFT to prepare information sheets on arrears and default[^c-a8ec3c9e5c309b8e7456fd0f96d86f14]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ At the beginning of Part 7 of the 1974 Act insert—
 
 ## Annotations
 
-[^key-a8ec3c9e5c309b8e7456fd0f96d86f14]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2006/14/section/8) in force at 31.1.2007 by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(1)](https://www.legislation.gov.uk/uksi/2007/123/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/123/schedule/1)
+[^c-a8ec3c9e5c309b8e7456fd0f96d86f14]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2006/14/section/8) in force at 31.1.2007 by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(1)](https://www.legislation.gov.uk/uksi/2007/123/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/123/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Street votes: community infrastructure levy[^key-5e61f26eba7cd30a138811f7ddaf2fed][^key-ac7dc27f25cbce463d5c8eefbb480911]
+## 107. Street votes: community infrastructure levy[^c-5e61f26eba7cd30a138811f7ddaf2fed][^c-ac7dc27f25cbce463d5c8eefbb480911]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,6 +108,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e61f26eba7cd30a138811f7ddaf2fed]: Commencement: S. 107 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-5e61f26eba7cd30a138811f7ddaf2fed]: Commencement: S. 107 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-ac7dc27f25cbce463d5c8eefbb480911]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2023/55/section/107) in force at 31.1.2024 for specified purposes by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/e)
+[^c-ac7dc27f25cbce463d5c8eefbb480911]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2023/55/section/107) in force at 31.1.2024 for specified purposes by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/e)

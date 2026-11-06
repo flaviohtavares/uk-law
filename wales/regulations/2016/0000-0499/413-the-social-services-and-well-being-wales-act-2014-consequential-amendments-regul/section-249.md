@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**249.**[^key-b06a67e6dd04b4b3b5e71e38cf18cacc] In section 194 (power to make payments towards expenditure on community services)—
+**249.**[^c-b06a67e6dd04b4b3b5e71e38cf18cacc] In section 194 (power to make payments towards expenditure on community services)—
 
 - (a) for subsection (1)(a), substitute—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b06a67e6dd04b4b3b5e71e38cf18cacc]: Commencement: Reg. 249 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-b06a67e6dd04b4b3b5e71e38cf18cacc]: Commencement: Reg. 249 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

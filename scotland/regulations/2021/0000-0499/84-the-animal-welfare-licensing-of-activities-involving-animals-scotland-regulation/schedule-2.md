@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Licence display[^key-603cb475c65ec06b247eb512fc68d7dc]
+### 1. Licence display[^c-603cb475c65ec06b247eb512fc68d7dc]
 
 (1) A copy of the licence must be clearly and prominently displayed on any premises on which the licensable activity is carried on.
 
@@ -32,7 +32,7 @@ Regulation 2
 - (b) the number of the licence holder’s licence, and
 - (c) the name of the licensing authority that granted the licence.
 
-### 2. Records[^key-558ce34d292e7f1ea516470f0dccc453]
+### 2. Records[^c-558ce34d292e7f1ea516470f0dccc453]
 
 (1) The licence holder must ensure that all the records that the licence holder is required to keep as a condition of the licence are either—
 
@@ -45,11 +45,11 @@ Regulation 2
 
 (4) Where records are not kept at any premises specified in the licence at which the licensable activity is carried on, the licence holder must promptly make such records available (whether in electronic format or otherwise) for inspection upon request by an inspector.
 
-### 3. Number of animals[^key-9fe0b20e5b732fad2286707be01a7ac6]
+### 3. Number of animals[^c-9fe0b20e5b732fad2286707be01a7ac6]
 
 The total number of animals kept for the activity at any time must not exceed the maximum that is reasonable taking into account the facilities and numbers of employed staff and volunteers on any premises on which the licensable activity is carried on.
 
-### 4. Staffing[^key-e844ea922c1db69746ef76d60a820122]
+### 4. Staffing[^c-e844ea922c1db69746ef76d60a820122]
 
 (1) Sufficient numbers of people who are competent for the purpose must be available to provide a level of care that ensures that the welfare needs of all the animals are met.
 
@@ -59,7 +59,7 @@ The total number of animals kept for the activity at any time must not exceed th
 
 (4) The licence holder must provide and ensure the implementation of a written training policy for all staff members and volunteers who care for the animals.
 
-### 5. Suitable environment[^key-04130ebcbac044e41063a5c70ab84fa8]
+### 5. Suitable environment[^c-04130ebcbac044e41063a5c70ab84fa8]
 
 (1) All areas, equipment and appliances to which the animals have access must present minimal risks of injury, illness and escape and must be constructed in materials that are robust, safe and durable, in a good state of repair and well maintained.
 
@@ -93,7 +93,7 @@ The total number of animals kept for the activity at any time must not exceed th
 
 (9) The animals must not be left unattended in any situation or for any period likely to cause them distress.
 
-### 6. Suitable diet[^key-b974a3da50323ad3d7dd5bf7d50bf900]
+### 6. Suitable diet[^c-b974a3da50323ad3d7dd5bf7d50bf900]
 
 (1) The animals must be provided with a suitable diet in terms of quality, quantity and frequency and any new feeds must be introduced gradually to allow the animals to adjust to them.
 
@@ -107,11 +107,11 @@ The total number of animals kept for the activity at any time must not exceed th
 
 (6) Where feed is prepared on any premises from which the licensable activity is carried on, there must be hygienic facilities for its preparation, including a working surface, hot and cold running water and storage.
 
-### 7. Enrichment and training of animals[^key-8ef03c2d767508c55e45f594962738eb]
+### 7. Enrichment and training of animals[^c-8ef03c2d767508c55e45f594962738eb]
 
 If the animals are kept in premises from which the licensable activity is carried on, active and effective environmental enrichment must be provided to the animals in inside and any outside environments.
 
-### 8. Animal handling and interactions[^key-1fbacc95dce2e0950dffe7e48cc8cd2a]
+### 8. Animal handling and interactions[^c-1fbacc95dce2e0950dffe7e48cc8cd2a]
 
 (1) All people responsible for the care of the animals must be competent in the appropriate handling of each animal to protect it from suffering, injury or disease.
 
@@ -119,7 +119,7 @@ If the animals are kept in premises from which the licensable activity is carrie
 
 (3) No animals from a social species may be isolated or separated from others of their species for any longer than is necessary.
 
-### 9. Protection from suffering, injury and disease[^key-e124f6e85985da8ef3fb087c45c2c696]
+### 9. Protection from suffering, injury and disease[^c-e124f6e85985da8ef3fb087c45c2c696]
 
 (1) Written procedures must—
 
@@ -166,7 +166,7 @@ except where the purpose of the euthanasia is to end suffering that has arisen s
 
 (14) Any signs of suffering, injury, disease or abnormal behaviour must be recorded and if necessary the advice of a veterinary surgeon (or in the case of fish, of an appropriately competent person) must be sought and followed.
 
-### 10. Emergencies[^key-a28449dbf5067a27311ebe65be3deb4d]
+### 10. Emergencies[^c-a28449dbf5067a27311ebe65be3deb4d]
 
 (1) If animals are kept in premises, other than domestic premises, from which the licensable activity is carried on—
 
@@ -181,22 +181,22 @@ except where the purpose of the euthanasia is to end suffering that has arisen s
 
 ## Annotations
 
-[^key-603cb475c65ec06b247eb512fc68d7dc]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-603cb475c65ec06b247eb512fc68d7dc]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-558ce34d292e7f1ea516470f0dccc453]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-558ce34d292e7f1ea516470f0dccc453]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-9fe0b20e5b732fad2286707be01a7ac6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-9fe0b20e5b732fad2286707be01a7ac6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-e844ea922c1db69746ef76d60a820122]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-e844ea922c1db69746ef76d60a820122]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-04130ebcbac044e41063a5c70ab84fa8]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-04130ebcbac044e41063a5c70ab84fa8]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-b974a3da50323ad3d7dd5bf7d50bf900]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-b974a3da50323ad3d7dd5bf7d50bf900]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-8ef03c2d767508c55e45f594962738eb]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-8ef03c2d767508c55e45f594962738eb]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-1fbacc95dce2e0950dffe7e48cc8cd2a]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-1fbacc95dce2e0950dffe7e48cc8cd2a]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-e124f6e85985da8ef3fb087c45c2c696]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/9) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-e124f6e85985da8ef3fb087c45c2c696]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/9) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-a28449dbf5067a27311ebe65be3deb4d]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/10) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-a28449dbf5067a27311ebe65be3deb4d]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2021/84/schedule/2/paragraph/10) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

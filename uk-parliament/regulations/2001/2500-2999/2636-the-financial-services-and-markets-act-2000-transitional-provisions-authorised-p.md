@@ -41,11 +41,11 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-The Treasury in exercise of their powers under sections 426 to 428 of the Financial Services and Markets Act 2000[^f00001] hereby make the following Order—[^key-43493ac79ed7093189004c1b41a306f7]
+The Treasury in exercise of their powers under sections 426 to 428 of the Financial Services and Markets Act 2000[^f00001] hereby make the following Order—[^c-43493ac79ed7093189004c1b41a306f7]
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-0659eb2b1db2da5dd9f092deab742813]
+### 1. Citation and commencement[^c-0659eb2b1db2da5dd9f092deab742813]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Transitional Provisions) (Authorised Persons etc.) Order 2001.
 
@@ -54,7 +54,7 @@ The Treasury in exercise of their powers under sections 426 to 428 of the Financ
 - (a) for the purposes of Parts I and IV, on the twenty-first day after it is laid before Parliament;
 - (b) for all other purposes, on commencement.
 
-### 2. Definitions[^key-03e723dc9e875fda54e441ad4ee7fa9e]
+### 2. Definitions[^c-03e723dc9e875fda54e441ad4ee7fa9e]
 
 (1) In this Order—
 
@@ -85,7 +85,7 @@ The Treasury in exercise of their powers under sections 426 to 428 of the Financ
 
 #### Persons authorised or exempted under the Financial Services Act
 
-##### 3. Authorisation under section 25 of the Financial Services Act[^key-a1d99b647542d1cfcc29fb9f2cd8e241]
+##### 3. Authorisation under section 25 of the Financial Services Act[^c-a1d99b647542d1cfcc29fb9f2cd8e241]
 
 (1) Any person who immediately before commencement was authorised under section 25 of the Financial Services Act is to be treated as having, at commencement, a Part IV permission to carry on regulated activities of a kind which, and on a scale which, and in relation to persons for whom he was, immediately before commencement—
 
@@ -106,7 +106,7 @@ The Treasury in exercise of their powers under sections 426 to 428 of the Financ
 
 that the person refrain from carrying on any activity which, under paragraphs (1) to (3), he has by virtue of the suspended authorisation a Part IV permission to carry on.
 
-##### 4. Authorisation under section 7 of the Financial Services Act[^key-2e0e42c6b2e82adf071036ad45a9823f]
+##### 4. Authorisation under section 7 of the Financial Services Act[^c-2e0e42c6b2e82adf071036ad45a9823f]
 
 (1) Any person who immediately before commencement was authorised under section 7 of the Financial Services Act is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which he was, immediately before commencement—
 
@@ -118,7 +118,7 @@ that the person refrain from carrying on any activity which, under paragraphs (1
 - (a) as respects which he was then also an exempted person; or
 - (b) as respects which he was then also an authorised person by virtue of section 24 or 24A of that Act.
 
-##### 5. Persons certified by designated professional bodies[^key-e5bf994030c2d7689fe621a121eda0d8]
+##### 5. Persons certified by designated professional bodies[^c-e5bf994030c2d7689fe621a121eda0d8]
 
 (1) Any person who immediately before commencement was authorised under section 15 of the Financial Services Act by virtue of holding a certificate issued by a designated professional body and who has given notice in accordance with paragraph (3) is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which he was, immediately before commencement—
 
@@ -137,7 +137,7 @@ that the person refrain from carrying on any activity which, under paragraphs (1
 
 (5) The notice referred to in paragraph (3) may state that the person wishes to have a Part IV permission at commencement only for regulated activities of a kind specified in the notice, or only for regulated activities on a scale or in relation to a class of persons so specified.
 
-##### 6. Listed institutions[^key-f3050e6decd04b71aaa0c2fd12c200ca]
+##### 6. Listed institutions[^c-f3050e6decd04b71aaa0c2fd12c200ca]
 
 (1) Any person (“P1”) who immediately before commencement was—
 
@@ -175,11 +175,11 @@ is to be treated as having, at commencement, a Part IV permission to carry on an
 
 (5) “Relevant conditions or arrangements” in paragraphs (1) and (3) means conditions imposed or arrangements made under section 43(2) of the Financial Services Act.
 
-##### 7. Lloyd’s underwriting agents[^key-c378dfe16590f9f2738160917fc51a17]
+##### 7. Lloyd’s underwriting agents[^c-c378dfe16590f9f2738160917fc51a17]
 
 Any person who, immediately before commencement, was an underwriting agent within the meaning of section 2(1) of Lloyd’s Act 1982[^f00011] is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which immediately before commencement he was permitted under that Act to carry on.
 
-##### 8. Lloyd’s members' advisers[^key-f6df142eefd8e7aaaaa6cab6e4b21fd2]
+##### 8. Lloyd’s members' advisers[^c-f6df142eefd8e7aaaaa6cab6e4b21fd2]
 
 (1) This article applies in the case of a person (“L”) where—
 
@@ -193,7 +193,7 @@ Any person who, immediately before commencement, was an underwriting agent withi
 
 (4) For the purposes of paragraph (2), an application is decided when it has been determined and there is no possibility (or further possibility) of the determination being reversed or varied on a reference to a tribunal or an appeal.
 
-##### 9. Appointed representatives[^key-d3f442a6afe564331db103106a0f8a3b]
+##### 9. Appointed representatives[^c-d3f442a6afe564331db103106a0f8a3b]
 
 Any person who—
 
@@ -202,7 +202,7 @@ Any person who—
 
 is to be treated as having, at commencement, a Part IV permission to carry on any regulated activity in respect of which he was, immediately before commencement, an exempted person by reason of section 44 of the Financial Services Act.
 
-##### 10. Investment business carried on overseas before commencement[^key-60042bb90fa0b954710909d45bac04bc]
+##### 10. Investment business carried on overseas before commencement[^c-60042bb90fa0b954710909d45bac04bc]
 
 (1) A person (“A”) who was, immediately before commencement—
 
@@ -228,7 +228,7 @@ is to be treated as having, at commencement, a Part IV permission to carry on an
 
 #### Persons authorised under the Banking Act
 
-##### 11. Persons authorised under the Banking Act[^key-affd89c6c2b719743a981898d1437c6d]
+##### 11. Persons authorised under the Banking Act[^c-affd89c6c2b719743a981898d1437c6d]
 
 (1) Any person who immediately before commencement held an authorisation granted (or deemed to be granted) under section 9 of the Banking Act is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which, immediately before commencement, he was by reason of that authorisation able to carry on in the United Kingdom without contravening section 3 of that Act.
 
@@ -239,14 +239,14 @@ is to be treated as having, at commencement, a Part IV permission to carry on an
 - (a) paragraph (1) applies to the person as if that decision had not been taken; but
 - (b) his Part IV permission to carry on the regulated activities referred to in paragraph (1) lapses at the end of the period within which an appeal can be brought against that decision, unless such an appeal is brought within that period.
 
-(4)[^key-989c09336787089d7647a322495e6d95] A person who has a Part IV permission by virtue of paragraph (1) is also to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which he was able, by virtue of section 2(4) of the Insurance Companies Act, to carry on in the United Kingdom without contravening section 2(1) of that Act and which he was, immediately before commencement, so carrying on.
+(4)[^c-989c09336787089d7647a322495e6d95] A person who has a Part IV permission by virtue of paragraph (1) is also to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which he was able, by virtue of section 2(4) of the Insurance Companies Act, to carry on in the United Kingdom without contravening section 2(1) of that Act and which he was, immediately before commencement, so carrying on.
 
 (5) A person who has a Part IV permission by virtue of paragraph (1) and who was not, immediately before commencement, authorised under the Financial Services Act, is also to be treated as having, at commencement, a Part IV permission to carry on regulated activities—
 
 - (a) of the kind specified by article 14 of the Regulated Activities Order (dealing in investments as principal) in so far as it consists of his entering into a transaction of the kind mentioned in article 16 of that Order (dealing in contractually based investments); and
 - (b) of the kind specified by article 64 of that Order (agreeing to carry on specified kinds of activity) in so far as it relates to the activity mentioned in sub-paragraph (a).
 
-##### 12. Banking business carried on overseas before commencement[^key-ca797a4048812c09f28932103ec49029]
+##### 12. Banking business carried on overseas before commencement[^c-ca797a4048812c09f28932103ec49029]
 
 (1) A person (“A”) who, immediately before commencement—
 
@@ -262,7 +262,7 @@ is to be treated as having, at commencement, a Part IV permission to carry on an
   - (b) A is regarded as carrying on in the United Kingdom by virtue of section 418;
 - “overseas banking business” means business which was deposit-taking business within the meaning of section 6 of the Banking Act and which A was carrying on in a country or territory outside the United Kingdom without contravening regulation 22 of the 2BCD Regulations.
 
-##### 13. Permission to carry on non-banking listed activities[^key-5a2c407d299a1a14e238b3b1cd941efb]
+##### 13. Permission to carry on non-banking listed activities[^c-5a2c407d299a1a14e238b3b1cd941efb]
 
 (1) This article applies to a person who, immediately before commencement—
 
@@ -297,7 +297,7 @@ he is to be treated, for the purposes of this article, as if he had, in relation
 
 #### Insurance companies
 
-##### 14. Companies authorised under the Insurance Companies Act[^key-a1befe6ef9b6099c1b5889fc792d10e8]
+##### 14. Companies authorised under the Insurance Companies Act[^c-a1befe6ef9b6099c1b5889fc792d10e8]
 
 (1) This article applies to a person who, immediately before commencement, was authorised under section 3 or 4 of the Insurance Companies Act.
 
@@ -310,7 +310,7 @@ he is to be treated, for the purposes of this article, as if he had, in relation
 
 (4) If a person to whom this article applies was also, immediately before commencement, authorised under section 22 of the Financial Services Act, any Part IV permission which he is to be treated under this article as having includes permission to carry on any regulated activities which he was by reason of that authorisation then able to carry on in the United Kingdom without contravening section 3 of that Act.
 
-(4A)[^key-28a4a06e0113391f49d731d4442bc3c4] If a person to whom this article applies was not, immediately before commencement, authorised under the Financial Services Act, any Part IV permission which he is to be treated under this article as having includes permission to carry on regulated activities—
+(4A)[^c-28a4a06e0113391f49d731d4442bc3c4] If a person to whom this article applies was not, immediately before commencement, authorised under the Financial Services Act, any Part IV permission which he is to be treated under this article as having includes permission to carry on regulated activities—
 
 - (a) of the kind specified by article 14 of the Regulated Activities Order (dealing in investments as principal) in so far as it consists of his entering into a transaction of the kind mentioned in article 16 of that Order (dealing in contractually based investments); and
 - (b) of the kind specified by article 64 of that Order (agreeing to carry on specified kinds of activity) in so far as the activity relates to the activity mentioned in sub-paragraph (a),
@@ -323,7 +323,7 @@ in so far as those activities are carried on in connection with or for the purpo
 
 (7) The condition set out in paragraph 1(2) (legal status) of Schedule 6 (threshold conditions) does not apply in relation to a person falling within paragraph (5) above if he did not meet that condition immediately before commencement.
 
-##### 15. EC companies carrying on reinsurance business[^key-22de09d6d30ba48677702e15e831ed03]
+##### 15. EC companies carrying on reinsurance business[^c-22de09d6d30ba48677702e15e831ed03]
 
 (1) This article applies to a person who was, immediately before commencement, an EC company within the meaning of the Insurance Companies Act and was by reason of compliance with—
 
@@ -342,7 +342,7 @@ able to carry on reinsurance business through a branch in the United Kingdom wit
 - (a) to a person falling within paragraph (1)(b) unless he is, at commencement, carrying on a regulated activity in the United Kingdom;
 - (b) where the person falling within paragraph (1) has (whether by virtue of this Order or otherwise) permission under Schedule 4 to carry on reinsurance business.
 
-##### 16. EC companies carrying on investment business[^key-48a13f56e037a96347ff380b76ab0f3b]
+##### 16. EC companies carrying on investment business[^c-48a13f56e037a96347ff380b76ab0f3b]
 
 (1) This article applies to a person who immediately before commencement was—
 
@@ -358,7 +358,7 @@ able to carry on reinsurance business through a branch in the United Kingdom wit
 
 (3) A person to whom this article applies is to be treated as having, at commencement, a Part IV permission to carry on any regulated activity which is a relevant investment activity.
 
-##### 17. Insurance business carried on overseas before commencement[^key-614296033cebfdeaa7f3b7e0c1f8f116]
+##### 17. Insurance business carried on overseas before commencement[^c-614296033cebfdeaa7f3b7e0c1f8f116]
 
 (1) A person (“A”) who was, immediately before commencement—
 
@@ -376,7 +376,7 @@ is to be treated as having, at commencement, a Part IV permission to carry on an
 
 #### Friendly societies etc.
 
-##### 18. Friendly societies authorised under the Friendly Societies Act[^key-660a3a7fa26c751f981d57d4841158a5]
+##### 18. Friendly societies authorised under the Friendly Societies Act[^c-660a3a7fa26c751f981d57d4841158a5]
 
 (1) This article applies to a friendly society which was, immediately before commencement, authorised under section 32 of the Friendly Societies Act or deemed to have been authorised under that section.
 
@@ -400,13 +400,13 @@ is to be treated as having, at commencement, a Part IV permission to carry on an
 
 but that permission does not so lapse if an appeal is brought within the period mentioned in sub-paragraph (b).
 
-##### 19. Friendly societies: other permissions[^key-82c8c2cef6c0ab6dfaa4cf589fb87242]
+##### 19. Friendly societies: other permissions[^c-82c8c2cef6c0ab6dfaa4cf589fb87242]
 
 (1) A friendly society is to be treated as having, at commencement, a Part IV permission to carry on any regulated activity which it was, immediately before commencement, able by virtue of section 31(2) or (3) of the Friendly Societies Act to carry on without contravening section 31(1) of that Act.
 
 (2) Any friendly society which immediately before commencement was authorised under section 23 of the Financial Services Act is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which it was, immediately before commencement, by reason of that authorisation able to carry on in the United Kingdom without contravening section 3 of that Act.
 
-(2A)[^key-0c0f4767907e5bd7098e6aa50d81f6e1] Any friendly society which was not, immediately before commencement, authorised under the Financial Services Act is to be treated as having, at commencement a Part IV permission to carry on regulated activities—
+(2A)[^c-0c0f4767907e5bd7098e6aa50d81f6e1] Any friendly society which was not, immediately before commencement, authorised under the Financial Services Act is to be treated as having, at commencement a Part IV permission to carry on regulated activities—
 
 - (a) of the kind specified by article 14 of the Regulated Activities Order (dealing in investments as principal) in so far as it consists of the society entering into a transaction of the kind mentioned in article 16 of that Order (dealing in contractually based investments); and
 - (b) of the kind specified by article 64 of that Order (agreeing to carry on specified kinds of activity) in so far as the activity relates to the activity mentioned in sub-paragraph (a),
@@ -417,7 +417,7 @@ in so far as those activities are carried on for or in connection with the regul
 
 (4) The conditions set out in paragraph 1(legal status) of Schedule 6 (threshold conditions) do not apply in relation to a society falling within this article if it did not meet those conditions immediately before commencement.
 
-##### 20. Societies registered under the Friendly Societies Act 1974[^key-eafeaed71a3abe44f3db9ecb1c74db91]
+##### 20. Societies registered under the Friendly Societies Act 1974[^c-eafeaed71a3abe44f3db9ecb1c74db91]
 
 (1) Paragraph (2) applies to a society which—
 
@@ -431,7 +431,7 @@ in so far as those activities are carried on for or in connection with the regul
 
 (4) Paragraph (2) does not apply to the St Paul’s Mutual Aid Society or the Leicester Foresters Investment Society but those societies are exempt from the general prohibition in respect of any regulated activity of the kind referred to in paragraph (2) until 1st July 2002.
 
-##### 21. Insurance business carried on overseas by friendly societies before commencement[^key-ca5b284bfbf0d16ac2f6b8b23d2ca795]
+##### 21. Insurance business carried on overseas by friendly societies before commencement[^c-ca5b284bfbf0d16ac2f6b8b23d2ca795]
 
 (1) A friendly society which was, immediately before commencement—
 
@@ -449,7 +449,7 @@ is to be treated as having, at commencement, a Part IV permission to carry on an
 
 #### Building societies
 
-##### 22. Building societies authorised under the Building Societies Act[^key-10731d6af4c77586b5c02624d1e7f13a]
+##### 22. Building societies authorised under the Building Societies Act[^c-10731d6af4c77586b5c02624d1e7f13a]
 
 (1) A building society which, immediately before commencement, was authorised or treated as authorised for the purposes of the Building Societies Act is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which, immediately before commencement, it was by reason of that authorisation able to carry on in the United Kingdom without contravening section 9(1) of that Act.
 
@@ -465,14 +465,14 @@ is to be treated as having, at commencement, a Part IV permission to carry on an
 
 but the permission does not so lapse if an appeal is brought within the period mentioned in sub-paragraph (b).
 
-(4)[^key-194a8d4d126cbaa08bff5c92ce8eae96] A society having a Part IV permission by virtue of paragraph (1) is also to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which it was able, by virtue of section 2(4) of the Insurance Companies Act, to carry on in the United Kingdom without contravening section 2(1) of that Act and which it was, immediately before commencement, so carrying on.
+(4)[^c-194a8d4d126cbaa08bff5c92ce8eae96] A society having a Part IV permission by virtue of paragraph (1) is also to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which it was able, by virtue of section 2(4) of the Insurance Companies Act, to carry on in the United Kingdom without contravening section 2(1) of that Act and which it was, immediately before commencement, so carrying on.
 
 (5) A society having a Part IV permission by virtue of paragraph (1) and which was not, immediately before commencement, authorised under the Financial Services Act, is also to be treated as having, at commencement, a Part IV permission to carry on regulated activities—
 
 - (a) of the kind specified by article 14 of the Regulated Activities Order (dealing in investments as principal) in so far as it consists of the society entering into a transaction of the kind mentioned in article 16 of that Order (dealing in contractually based investments); and
 - (b) of the kind specified by article 64 of that Order (agreeing to carry on specified kinds of activity) in so far as the activity relates to the activity mentioned in sub-paragraph (a).
 
-##### 23. Banking business carried on overseas by building societies before commencement[^key-2c1fa71c38c25bad31bce04f59aab98f]
+##### 23. Banking business carried on overseas by building societies before commencement[^c-2c1fa71c38c25bad31bce04f59aab98f]
 
 (1) A building society which was, immediately before commencement—
 
@@ -490,7 +490,7 @@ is to be treated as having, at commencement, a Part IV permission to carry on an
 
 #### Supplemental
 
-##### 24. Persons with more than one old authorisation etc.[^key-9b1604b488c9c05801e64b84b6c9047d]
+##### 24. Persons with more than one old authorisation etc.[^c-9b1604b488c9c05801e64b84b6c9047d]
 
 Where a person falls within more than one of the preceding articles of this Part, he is not to be treated as having more than one Part IV permission (which is not a possibility under the Act) but is to be treated as having a single Part IV permission to carry on all the regulated activities which the provisions in question state that he is to be treated as having a Part IV permission to carry on.
 
@@ -498,7 +498,7 @@ Where a person falls within more than one of the preceding articles of this Part
 
 #### EEA firms with “passports” under the 2BCD or ISD Regulations
 
-##### 25. EEA firms with “passports” under the 2BCD or ISD Regulations[^key-b20269b58ade71280f18226dbd21cf60]
+##### 25. EEA firms with “passports” under the 2BCD or ISD Regulations[^c-b20269b58ade71280f18226dbd21cf60]
 
 (1) This article applies to an EEA firm which immediately before commencement was—
 
@@ -544,7 +544,7 @@ is a permitted activity for the purposes of paragraph 15 of Schedule 3 as it app
 
 #### EEA firms with “passports” under the Insurance Companies Act
 
-##### 26. EC companies carrying on direct insurance through UK branch[^key-5eb8cf4fb9d63a1b35838ce919c49ed4]
+##### 26. EC companies carrying on direct insurance through UK branch[^c-5eb8cf4fb9d63a1b35838ce919c49ed4]
 
 (1) This article applies to an EEA firm which was, immediately before commencement—
 
@@ -568,7 +568,7 @@ is a permitted activity.
 - (a) the notice and certificate under paragraph 1(2)(a) of Schedule 2F to the Insurance Companies Act; and
 - (b) any later notices under paragraph 2 of that Schedule that are relevant.
 
-##### 27. EC companies providing insurance in UK[^key-08e7c769a32aa4140f63de8d9e46fd01]
+##### 27. EC companies providing insurance in UK[^c-08e7c769a32aa4140f63de8d9e46fd01]
 
 (1) This article applies to an EEA firm which was, immediately before commencement—
 
@@ -596,7 +596,7 @@ is a permitted activity.
 
 #### Treaty firms authorised under section 31 of the Financial Services Act
 
-##### 28. Treaty firms authorised under section 31 of the Financial Services Act[^key-43d4e8b0c63fadbce60d63632e7a9cc1]
+##### 28. Treaty firms authorised under section 31 of the Financial Services Act[^c-43d4e8b0c63fadbce60d63632e7a9cc1]
 
 (1) This article applies to a Treaty firm which immediately before commencement—
 
@@ -620,13 +620,13 @@ is to be treated for the purposes of paragraph 5 of Schedule 4 as having been a 
 
 (7) A limited direction means a direction which was framed so as to expire at the end of a specified period or on the occurrence of a specified event or on compliance with specified conditions.
 
-##### 29. Certificates under section 31(4) of the Financial Services Act[^key-af1b50b70192b102757032cedfcdbe1d]
+##### 29. Certificates under section 31(4) of the Financial Services Act[^c-af1b50b70192b102757032cedfcdbe1d]
 
 Any certificate issued under section 31(4) of the Financial Services Act as respects a particular EEA State shall, if in force immediately before commencement, have effect after commencement as if it were a certificate, issued by the Treasury under paragraph 3(4) of Schedule 4, that the provisions of the law of that State afford equivalent protection (within the meaning of that Schedule) in relation to the activities specified in the certificate.
 
 #### Treaty firms which are insurance companies
 
-##### 30. EC companies carrying on reinsurance business through UK branch[^key-242b4deabea7c68b9c2901cad8d92967]
+##### 30. EC companies carrying on reinsurance business through UK branch[^c-242b4deabea7c68b9c2901cad8d92967]
 
 (1) This article applies to a Treaty firm which has received home state authorisation to carry on reinsurance business and which immediately before commencement was—
 
@@ -639,7 +639,7 @@ Any certificate issued under section 31(4) of the Financial Services Act as resp
 
 (4) The notice served by the firm as required by paragraph 4(2)(a)(i) of Schedule 2F to the Insurance Companies Act of its intention to carry on reinsurance business is to be treated for the purposes of paragraph 5 of Schedule 4 as having been a notice of that intention given to the Authority in accordance with that paragraph.
 
-##### 31. EC companies carrying on investment business as Treaty firms[^key-a96f8c73baf59ff3dacc25ae8f8913b8]
+##### 31. EC companies carrying on investment business as Treaty firms[^c-a96f8c73baf59ff3dacc25ae8f8913b8]
 
 (1) This article applies to a Treaty firm which immediately before commencement was—
 
@@ -661,13 +661,13 @@ Any certificate issued under section 31(4) of the Financial Services Act as resp
 
 #### Status for purposes of Part XIII of the Act
 
-##### 32. Status for purposes of Part XIII of the Act[^key-aa3916258869f5f867f5f88f50315951]
+##### 32. Status for purposes of Part XIII of the Act[^c-aa3916258869f5f867f5f88f50315951]
 
 For the avoidance of doubt, where article 28, 30 or 31 applies, the Treaty firm is to be taken to be an “incoming firm” for the purposes of Part XIII of the Act.
 
 ### CHAPTER IV — supplemental
 
-#### 33. Old transitional provision[^key-65034f92577bd6d990711500a0587703]
+#### 33. Old transitional provision[^c-65034f92577bd6d990711500a0587703]
 
 (1) References in this Part to compliance with any requirements of Schedule 2 to the 2BCD Regulations, Schedule 3 to the ISD Regulations or Schedule 2F to the Insurance Companies Act include references to deemed compliance by virtue of paragraph 1 of Schedule 11 to the 2BCD or ISD Regulations or regulation 69 of the 3ID Regulations (“old transitional provision”).
 
@@ -688,7 +688,7 @@ and to whom article 25, 26 or 27 accordingly applies, neither article 25(8), 26(
 
 ### Prohibitions and requirements under the Financial Services Act
 
-#### 34. Prohibitions and requirements under sections 65 to 68 of the Financial Services Act[^key-1f6c497e2ab36204d31ebd03b5f1ba52]
+#### 34. Prohibitions and requirements under sections 65 to 68 of the Financial Services Act[^c-1f6c497e2ab36204d31ebd03b5f1ba52]
 
 (1) Where immediately before commencement a person was subject to a prohibition or requirement imposed under any of sections 65 to 68 of the Financial Services Act, that prohibition or requirement has effect after commencement—
 
@@ -704,7 +704,7 @@ section 48(4) to (7) and (9) to (11) applies accordingly; but section 48(8) does
 
 (3) For the purposes of paragraph (1), a prohibition imposed under section 65 of the Financial Services Act as respects activities carried on in connection with or for the purposes of an activity mentioned in paragraph (1)(a) or (b) is to be taken to relate to the carrying on of that activity,
 
-#### 35. Prohibitions and requirements imposed by recognised self-regulating organisations or recognised professional bodies[^key-316390020fb1740790af98ab50b811f0]
+#### 35. Prohibitions and requirements imposed by recognised self-regulating organisations or recognised professional bodies[^c-316390020fb1740790af98ab50b811f0]
 
 (1) This article applies where immediately before commencement a person was subject to a prohibition or requirement—
 
@@ -737,7 +737,7 @@ section 48(4) to (7) and (9) to (11) applies accordingly; but section 48(8) does
 - (c) a rule of a recognised self-regulating organisation or recognised professional body conferring power on that organisation or body to impose conditions (however described) on a member when admitting him to membership, or to vary those conditions or impose new conditions during his membership;
 - (d) a rule of a recognised self-regulating organisation or recognised professional body conferring power on that organisation or body to direct a member (in whatever manner specified by the rule) to take specified steps.
 
-#### 36. Supplemental provision relating to requirements under section 67 of the Financial Services Act etc.[^key-9ee48ce1252f7b95689161580101421b]
+#### 36. Supplemental provision relating to requirements under section 67 of the Financial Services Act etc.[^c-9ee48ce1252f7b95689161580101421b]
 
 (1) This article applies in relation to a requirement having effect by virtue of article 34 or 35 which was originally imposed—
 
@@ -760,7 +760,7 @@ if the direction was effective immediately before commencement.
 
 (5) The direction has effect after commencement as if it were a consent given by the Authority under section 48(6).
 
-#### 37. Requirements imposed under the Financial Services Act by virtue of the 2BCD or ISD Regulations as a matter of urgency[^key-5645f96f53b72e7baa371e992c139261]
+#### 37. Requirements imposed under the Financial Services Act by virtue of the 2BCD or ISD Regulations as a matter of urgency[^c-5645f96f53b72e7baa371e992c139261]
 
 Where a requirement which by virtue of article 34 has effect as if imposed under section 196—
 
@@ -771,7 +771,7 @@ it is to be treated as if section 199 had applied in its case and it had been im
 
 ### Restrictions and directions under the Banking Act
 
-#### 38. Restrictions under section 12 of the Banking Act[^key-7fc58b49cc38bfcda2e13460587e1547]
+#### 38. Restrictions under section 12 of the Banking Act[^c-7fc58b49cc38bfcda2e13460587e1547]
 
 (1) This article applies where immediately before commencement a person was subject to a restriction on authorisation imposed under section 12 of the Banking Act.
 
@@ -785,7 +785,7 @@ it is to be treated as if section 199 had applied in its case and it had been im
 
 (6) The permitted period is the period of three years beginning with the date on which the restriction under section 12 of the Banking Act was first imposed.
 
-#### 39. Directions under section 19 of the Banking Act[^key-3bfe046843d7e0bc608750127ef9e58b]
+#### 39. Directions under section 19 of the Banking Act[^c-3bfe046843d7e0bc608750127ef9e58b]
 
 (1) Where—
 
@@ -815,7 +815,7 @@ the direction has effect, after commencement, as if it were a requirement (or re
 
 ### Directions and requirements under the Insurance Companies Act
 
-#### 40. Directions under sections 11 and 12A of the Insurance Companies Act[^key-d9e85aaaf8f677087afbf2412b01f083]
+#### 40. Directions under sections 11 and 12A of the Insurance Companies Act[^c-d9e85aaaf8f677087afbf2412b01f083]
 
 (1) This article applies where immediately before commencement a person was subject to—
 
@@ -827,7 +827,7 @@ the direction has effect, after commencement, as if it were a requirement (or re
 - (a) if it relates to the carrying on of an activity or activities which the person has a Part IV permission to carry on, as if it were a requirement, imposed under section 43, that he refrain from carrying on an activity which immediately before commencement he was prevented by the direction from carrying on;
 - (b) if it relates to the carrying on of an activity or activities which he has a permission to carry on as a result of Schedule 4, as if it were a requirement, imposed under section 196, that he refrain as mentioned in sub-paragraph (a).
 
-#### 41. Requirements under sections 38, 39, 40, 41, 43 and 45 of the Insurance Companies Act[^key-a02c453731e7f6ad25ad0194edf7569b]
+#### 41. Requirements under sections 38, 39, 40, 41, 43 and 45 of the Insurance Companies Act[^c-a02c453731e7f6ad25ad0194edf7569b]
 
 (1) This article applies where immediately before commencement a person was—
 
@@ -855,7 +855,7 @@ subsections (4) to (11) of section 48 apply accordingly.
 
 (6) In relation to a requirement which has effect under paragraph (2) and which was originally imposed under section 43 of the Insurance Companies Act, the requirement is that where the person is required by the Authority’s rules to deposit any accounts or statement of the kind referred to in section 43 of that Act, he must do so on or before the date specified by the requirement originally imposed.
 
-#### 42. Order of the court under section 40A of the Insurance Companies Act[^key-caadbe4a5e8273c2ac1c2a3638794cc8]
+#### 42. Order of the court under section 40A of the Insurance Companies Act[^c-caadbe4a5e8273c2ac1c2a3638794cc8]
 
 (1) This article applies to a person where there is in force against him immediately before commencement an order of the court made under section 40A of the Insurance Companies Act[^f00024].
 
@@ -871,13 +871,13 @@ subsections (4) to (11) of section 48 apply accordingly.
 
 that notice is to be treated after commencement as if it had been given under section 48(4)(b).
 
-#### 43. Requirements imposed on former Lloyd’s underwriting members[^key-f64d8089bc4ad488113c360b2832da32]
+#### 43. Requirements imposed on former Lloyd’s underwriting members[^c-f64d8089bc4ad488113c360b2832da32]
 
 (1) This article applies to a former member of Lloyd’s who, immediately before commencement, was treated by virtue of regulation 3(1)(b) of the Insurance (Lloyd's) Regulations 1996[^f00025] as if he were a UK company to which Part II of the Insurance Companies Act applied.
 
 (2) Where immediately before commencement, a person to whom this article applies was subject to a requirement imposed under section 45 of the Insurance Companies Act in respect of any liability of his under contracts of insurance entered into by him as a member of Lloyd's, that requirement takes effect after commencement as if it were a requirement imposed on him under section 320(3) (whether or not he is a former underwriting member for the purposes of that section).
 
-#### 44. Requirements and directions under Schedule 2F to the Insurance Companies Act[^key-8b4cefbf78819610de2b218e402e2f04]
+#### 44. Requirements and directions under Schedule 2F to the Insurance Companies Act[^c-8b4cefbf78819610de2b218e402e2f04]
 
 (1) This article applies where immediately before commencement an EEA firm was subject to—
 
@@ -891,7 +891,7 @@ that notice is to be treated after commencement as if it had been given under se
 
 ### Conditions and directions under the Friendly Societies Act
 
-#### 45. Conditions imposed under the Friendly Societies Act[^key-50a245c4716471b49a394f5142176754]
+#### 45. Conditions imposed under the Friendly Societies Act[^c-50a245c4716471b49a394f5142176754]
 
 (1) This article applies where immediately before commencement a friendly society was subject to a condition imposed—
 
@@ -903,7 +903,7 @@ that notice is to be treated after commencement as if it had been given under se
 
 (3) Where a condition imposed pursuant to a direction given under section 36A of the Friendly Societies Act has effect after commencement under paragraph (2), that requirement is not to be treated as limited in time, notwithstanding section 36A(2) of that Act.
 
-#### 46. Direction under section 40 of the Friendly Societies Act[^key-93d79f29c63378b121cdc90c48500291]
+#### 46. Direction under section 40 of the Friendly Societies Act[^c-93d79f29c63378b121cdc90c48500291]
 
 (1) This article applies where—
 
@@ -914,7 +914,7 @@ that notice is to be treated after commencement as if it had been given under se
 
 (3) A direction having effect under paragraph (2) may be varied or revoked in accordance with section 44, notwithstanding section 40(5)(b) of the Friendly Societies Act.
 
-#### 47. Direction under section 51 of the Friendly Societies Act[^key-5f6019050585f7c8754fa71899171bc0]
+#### 47. Direction under section 51 of the Friendly Societies Act[^c-5f6019050585f7c8754fa71899171bc0]
 
 (1) This article applies where—
 
@@ -928,7 +928,7 @@ that notice is to be treated after commencement as if it had been given under se
 - (a) that fact does not prevent a person from being treated as subject to the direction for the purposes of this article; but
 - (b) the direction has effect as described in paragraph (2) only if the period within which an appeal can be brought against the direction expires without such an appeal being brought.
 
-#### 48. Order of the court under section 52A of the Friendly Societies Act[^key-e222b8b2d40f120e545be08455c59379]
+#### 48. Order of the court under section 52A of the Friendly Societies Act[^c-e222b8b2d40f120e545be08455c59379]
 
 (1) This article applies to a friendly society where there is in force against it immediately before commencement an order of the court made under section 52A of the Friendly Societies Act[^f00027] and where that society has, at commencement, a Part IV permission.
 
@@ -944,7 +944,7 @@ that notice is to be treated after commencement as if it had been given under se
 
 that notice is to be treated after commencement as if it had been given under section 48(4)(b).
 
-#### 49. Direction under section 53 of the Friendly Societies Act[^key-f75a87792202ec79f4e5cba6150dc98f]
+#### 49. Direction under section 53 of the Friendly Societies Act[^c-f75a87792202ec79f4e5cba6150dc98f]
 
 (1) This article applies where—
 
@@ -955,7 +955,7 @@ that notice is to be treated after commencement as if it had been given under se
 
 ### Conditions and directions under the Building Societies Act
 
-#### 50. Conditions and directions imposed under the Building Societies Act[^key-75dea6d3f516c024f4c4d07e547bae49]
+#### 50. Conditions and directions imposed under the Building Societies Act[^c-75dea6d3f516c024f4c4d07e547bae49]
 
 (1) This article applies where immediately before commencement a building society was subject to—
 
@@ -967,7 +967,7 @@ that notice is to be treated after commencement as if it had been given under se
 
 (2) Where this article applies, the condition or direction has effect after commencement as if it were a requirement imposed on the building society under section 43.
 
-#### 51. Direction under section 43A of the Building Societies Act[^key-861d642ea73193545d0ae410102fa871]
+#### 51. Direction under section 43A of the Building Societies Act[^c-861d642ea73193545d0ae410102fa871]
 
 (1) Where—
 
@@ -997,7 +997,7 @@ the direction has effect, after commencement, as if it were a requirement (or re
 
 ### Prohibitions and restrictions under the 2BCD and ISD Regulations
 
-#### 52. Prohibitions and restrictions under regulations 9, 10 and 15 of the 2BCD Regulations and regulation 9 of the ISD Regulations[^key-c900ad79b89bf7aac58a440edd1f90b5]
+#### 52. Prohibitions and restrictions under regulations 9, 10 and 15 of the 2BCD Regulations and regulation 9 of the ISD Regulations[^c-c900ad79b89bf7aac58a440edd1f90b5]
 
 (1) Where immediately before commencement a person was subject to a prohibition or restriction imposed (or deemed to be imposed) under regulation 9, 10, or 15 of the 2BCD Regulations or regulation 9 of the ISD Regulations, the prohibition or restriction has effect after commencement as if it were a requirement imposed on him under section 196.
 
@@ -1012,7 +1012,7 @@ the direction has effect, after commencement, as if it were a requirement (or re
 
 it is to be treated as if section 199 had applied in its case and it had been imposed as mentioned in section 199(8)(a).
 
-#### 53. Prohibitions and restrictions under regulations 18 and 19 of the 2BCD Regulations and regulations 15 and 16 of the ISD Regulations[^key-701207a0103a61dea1e3cca04b4f8160]
+#### 53. Prohibitions and restrictions under regulations 18 and 19 of the 2BCD Regulations and regulations 15 and 16 of the ISD Regulations[^c-701207a0103a61dea1e3cca04b4f8160]
 
 (1) Where immediately before commencement a person was subject to a prohibition imposed under regulation 18 of the 2BCD Regulations or regulation 15 of the ISD Regulations—
 
@@ -1032,7 +1032,7 @@ it is to be treated as if section 199 had applied in its case and it had been im
 
 ### Supplemental
 
-#### 54. Supplemental[^key-c4dbece355bc655adf824fed7b75a1b6]
+#### 54. Supplemental[^c-c4dbece355bc655adf824fed7b75a1b6]
 
 (1) Section 43(5) (and, in consequence, (6)) does not apply in relation to a requirement under section 43 or 196 having effect by virtue of any provision of this Part or of article 3(4) or 28(5).
 
@@ -1052,7 +1052,7 @@ the variation takes effect on the date when (but for the repeal or revocation of
 
 ## PART IV — SCOPE OF PERMISSION: PROCEDURE
 
-### 55. Notice of scope of permission[^key-eec9af1a635e3d1a2f28367b445b72d8]
+### 55. Notice of scope of permission[^c-eec9af1a635e3d1a2f28367b445b72d8]
 
 (1) The Authority must give notice in accordance with paragraph (2) (in this Part referred to as a “scope of permission notice”) to each person who has a Part IV permission by virtue of this Order.
 
@@ -1072,7 +1072,7 @@ the variation takes effect on the date when (but for the repeal or revocation of
 
 (6) In relation to a person falling within article 5(1), the scope of permission notice may take into account any indication given by that person which is contained in the notice given pursuant to paragraph (5) of that article.
 
-### 56. Responding to the scope of permission notice[^key-10a9f60498134145fa178cc35e7e99af]
+### 56. Responding to the scope of permission notice[^c-10a9f60498134145fa178cc35e7e99af]
 
 (1) A scope of permission notice must specify a period of not less than three months from the date on which the notice is given as the period within which the recipient must notify the Authority either—
 
@@ -1083,9 +1083,9 @@ the variation takes effect on the date when (but for the repeal or revocation of
 
 (3) A scope of permission notice may be withdrawn and replaced by another such notice at any time before notification has been given under paragraph (2) as respects the first notice.
 
-### 57. Scope of permission where person agrees with notice[^key-c6cf1ebb041241037e891ce85093deb0]
+### 57. Scope of permission where person agrees with notice[^c-c6cf1ebb041241037e891ce85093deb0]
 
-(1)[^key-a1f5e0c13e704055b4b23c1b41427154][^key-27159b6fe7ccabe954a04c1220f6facb][^key-4c4746cdbba8ce5711f23344bf79f9b2][^key-b35a6dc16d82a0fe394ed9310b4b79fd] Where a scope of permission notice has been given to a person under article 55 and he notifies the Authority that he agrees with the matters stated in the notice then—
+(1)[^c-a1f5e0c13e704055b4b23c1b41427154][^c-27159b6fe7ccabe954a04c1220f6facb][^c-4c4746cdbba8ce5711f23344bf79f9b2][^c-b35a6dc16d82a0fe394ed9310b4b79fd] Where a scope of permission notice has been given to a person under article 55 and he notifies the Authority that he agrees with the matters stated in the notice then—
 
 - (a) the regulated activities the person has permission under Part IV to carry on at commencement, and
 - (b) the requirements (if any) to which he is subject under section 43 at commencement,
@@ -1094,7 +1094,7 @@ are, notwithstanding anything in any other provision of this Order, to be taken 
 
 (2) If a scope of permission notice given to a person under article 55 is withdrawn before he notifies agreement, paragraph (1) does not apply in relation to that notice.
 
-### 58. Final view notices[^key-650df32bf75510ae09c7e113fc7b62c3]
+### 58. Final view notices[^c-650df32bf75510ae09c7e113fc7b62c3]
 
 (1) Where a scope of permission notice has been given to a person and either—
 
@@ -1120,7 +1120,7 @@ the Authority must within a reasonable period after receiving the notification o
 - (b) the reference in section 133(1)(a) to the decision notice or supervisory notice were a reference to the final view notice; and
 - (c) section 133(4) to (12) were omitted.
 
-### 59. Scope of permission following final view notice[^key-cc869553a13e6d3aa5937efc94518a2c]
+### 59. Scope of permission following final view notice[^c-cc869553a13e6d3aa5937efc94518a2c]
 
 (1) This article applies where a final view notice is given under article 58(1) and either the person notifies the Authority that he agrees with the final view notice, or no reference to the Tribunal is made under article 58(4) within the period allowed for such a reference.
 
@@ -1131,7 +1131,7 @@ the Authority must within a reasonable period after receiving the notification o
 
 are, notwithstanding anything in any other provision of this Order, to be taken to be as stated in the final view notice.
 
-### 60. Scope of permission where reference is made to the Tribunal[^key-3546f870d15bb8d841255746e0407f49]
+### 60. Scope of permission where reference is made to the Tribunal[^c-3546f870d15bb8d841255746e0407f49]
 
 (1) On a reference under article 58 the Tribunal must determine the question whether the Authority’s view as stated in the final view notice was appropriate having regard to article 55(4) to (6).
 
@@ -1151,7 +1151,7 @@ are, notwithstanding anything in any other provision of this Order, to be taken 
 
 and, with effect from the date of that notice, those matters are to be taken to be as stated in that notice, notwithstanding anything in any other provision of this Order.
 
-### 61. Information for public file of mutual society[^key-7ec12a2bb86e084a18659deb7bee9ff9]
+### 61. Information for public file of mutual society[^c-7ec12a2bb86e084a18659deb7bee9ff9]
 
 (1) The Authority must keep in the public file of a society a copy of any—
 
@@ -1169,7 +1169,7 @@ given to the society in accordance with this Part.
 - (a) for a friendly society, the file maintained pursuant to section 104 of the Friendly Societies Act;
 - (b) for a building society, the file maintained pursuant to section 106 of the Building Societies Act.
 
-### 62. Application of section 20[^key-613d58c5f406eba8675a1a7ff56b2073]
+### 62. Application of section 20[^c-613d58c5f406eba8675a1a7ff56b2073]
 
 (1) Subject to paragraphs (2) and (5), where—
 
@@ -1189,7 +1189,7 @@ section 20 does not apply to the carrying on by that recipient of a regulated ac
 
 (5) This article does not apply (and therefore section 20 does apply) to the carrying on of a regulated activity in contravention of a provision which was included in the recipient’s Part IV permission by virtue of a variation of that permission under section 44, 45 or 46.
 
-### 63. Requirement to reapply for Part IV permission[^key-caf55fa2dc71b1415551ad83e7f08041]
+### 63. Requirement to reapply for Part IV permission[^c-caf55fa2dc71b1415551ad83e7f08041]
 
 (1) At any time during the period of two years beginning with commencement, the Authority may give a direction under this article in relation to a class of persons—
 
@@ -1208,7 +1208,7 @@ section 20 does not apply to the carrying on by that recipient of a regulated ac
 
 (7) For the purposes of this article, an application is decided when it has been determined and there is no possibility (or no further possibility) of the determination being reversed or varied on a reference to a tribunal or an appeal.
 
-### 64. Requirement to reapply: procedure[^key-671db924d9bab0994739b5fe4466cb1b]
+### 64. Requirement to reapply: procedure[^c-671db924d9bab0994739b5fe4466cb1b]
 
 (1) A direction given under article 63 must state the reasons why it has been given to the class of persons specified in the direction.
 
@@ -1226,7 +1226,7 @@ section 20 does not apply to the carrying on by that recipient of a regulated ac
 
 ### CHAPTER 1 — authorisation and recognition of schemes
 
-#### 65. Authorised unit trust schemes[^key-a4d3157538ecc8e7fecbb66887edf4a7]
+#### 65. Authorised unit trust schemes[^c-a4d3157538ecc8e7fecbb66887edf4a7]
 
 (1) Where—
 
@@ -1244,13 +1244,13 @@ the order has effect after commencement as if it were an authorisation order mad
 
 which was in force immediately before commencement has effect after commencement as if it had been issued under section 246.
 
-#### 66. Schemes constituted in other EEA States[^key-0685073874a481411c64cafc9ff47d92]
+#### 66. Schemes constituted in other EEA States[^c-0685073874a481411c64cafc9ff47d92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 67. Schemes authorised in designated countries or territories[^key-ea8c2d7db9f5a9a21ecdfe5a7e6306ff]
+#### 67. Schemes authorised in designated countries or territories[^c-ea8c2d7db9f5a9a21ecdfe5a7e6306ff]
 
-(1)[^key-07e0b2ddb91d217bb5dd46a6d04118cc] An order under section 87(1) of the *(affected by repeal, see note)*[^key-07e0b2ddb91d217bb5dd46a6d04118cc] Financial Services Act *(affected by repeal, see note)*[^key-07e0b2ddb91d217bb5dd46a6d04118cc] which was in force immediately before commencement has effect after commencement as if it were an order made by the Treasury under section 270(1). *(affected by repeal, see note)*[^key-07e0b2ddb91d217bb5dd46a6d04118cc]
+(1)[^c-07e0b2ddb91d217bb5dd46a6d04118cc] An order under section 87(1) of the *(affected by repeal, see note)*[^c-07e0b2ddb91d217bb5dd46a6d04118cc] Financial Services Act *(affected by repeal, see note)*[^c-07e0b2ddb91d217bb5dd46a6d04118cc] which was in force immediately before commencement has effect after commencement as if it were an order made by the Treasury under section 270(1). *(affected by repeal, see note)*[^c-07e0b2ddb91d217bb5dd46a6d04118cc]
 
 (2) Where—
 
@@ -1262,7 +1262,7 @@ the scheme is to be treated after commencement as a recognised scheme under sect
 
 (3) Without prejudice to article 70, where immediately before commencement, a scheme would have been a recognised scheme under section 87 of the Financial Services Act but for a direction given under section 91(5) of that Act, this article applies as if the direction had not been given.
 
-#### 68. Individually recognised overseas schemes[^key-3143546dadd2d696f4bb8feea7a9329b]
+#### 68. Individually recognised overseas schemes[^c-3143546dadd2d696f4bb8feea7a9329b]
 
 (1) Where—
 
@@ -1277,7 +1277,7 @@ the order has effect after commencement as if it were an order made under sectio
 
 ### CHAPTER II — directions imposed on schemes
 
-#### 69. Directions imposed on authorised unit trust schemes[^key-a649f81111b1552ee0f430bbe1c00286]
+#### 69. Directions imposed on authorised unit trust schemes[^c-a649f81111b1552ee0f430bbe1c00286]
 
 (1) Where—
 
@@ -1301,7 +1301,7 @@ the application has effect after commencement as an application under section 25
 
 (4) For the purposes of paragraph (3) an application is decided when it has been determined and there is no possibility (or no further possibility) of the determination being reversed or varied on a review or appeal.
 
-#### 70. Directions imposed on schemes authorised in designated countries or territories[^key-80353e6724d9be409fa83593ff65598e]
+#### 70. Directions imposed on schemes authorised in designated countries or territories[^c-80353e6724d9be409fa83593ff65598e]
 
 Where—
 
@@ -1310,7 +1310,7 @@ Where—
 
 that direction has effect after commencement as a direction given under section 281 that the scheme is not to be a recognised scheme under section 270 for the period specified in the notice, or until the occurrence of the event specified in the notice or until the conditions specified in the notice are complied with (taking into account any variation of the direction made under section 91(8) of the Financial Services Act).
 
-#### 71. Directions imposed on individually recognised schemes[^key-d231eb0fa67a022bb8a6e4aa5ce730b4]
+#### 71. Directions imposed on individually recognised schemes[^c-d231eb0fa67a022bb8a6e4aa5ce730b4]
 
 Where—
 
@@ -1321,7 +1321,7 @@ that direction takes effect after commencement as a direction given under sectio
 
 ## PART VI — APPROVED PERSONS
 
-### 72. General rule[^key-a85381c09ee691b0df16d3192002c5a3]
+### 72. General rule[^c-a85381c09ee691b0df16d3192002c5a3]
 
 (1) Subject to paragraph (2), where at commencement a person (“E”) is performing a function for a person (“A”) under an arrangement entered into by A or by a contractor of A, then if E’s continued performance of that function after commencement would, but for this article, require the approval of the Authority under section 59(1) or (2), then that continued performance by E of that function after commencement is to be taken to have been approved by the Authority for the purposes of section 59.
 
@@ -1334,7 +1334,7 @@ that direction takes effect after commencement as a direction given under sectio
   - (iv) paragraph 4(2) or 6(1) of Schedule 13A to the Friendly Societies Act;
 - (b) immediately before commencement, the performance by E of that function would have constituted a contravention of a rule of a recognised self-regulating organisation to which either E or A was subject.
 
-### 73. Persons previously approved subject to conditions[^key-11ea0f04539fdb352fbbe7388c9b8388]
+### 73. Persons previously approved subject to conditions[^c-11ea0f04539fdb352fbbe7388c9b8388]
 
 (1) This article applies in relation to an arrangement falling within article 72(1) if—
 
@@ -1345,7 +1345,7 @@ that direction takes effect after commencement as a direction given under sectio
 
 (3) But where this article applies, any approval which has effect by virtue of article 72(1) is not to be taken to extend to approval of anything that, had it been done before commencement, would have breached any of the conditions mentioned in paragraph (1) of this article.
 
-### 74. Appointment approved but not taken up before commencement: section 60 of the Insurance Companies Act[^key-3133bd758afa75fd9e0b7edaa4cc4751]
+### 74. Appointment approved but not taken up before commencement: section 60 of the Insurance Companies Act[^c-3133bd758afa75fd9e0b7edaa4cc4751]
 
 (1) This article applies to an appointment where—
 
@@ -1361,7 +1361,7 @@ that direction takes effect after commencement as a direction given under sectio
 
 the appointment is to be taken to have been approved by the Authority under section 59 provided that the person takes up the appointment within the period mentioned in paragraph 1(4) of Schedule 2D to the Insurance Companies Act.
 
-### 75. Appointment approved but not taken up before commencement: section 61 of the Insurance Companies Act[^key-bb21c3d02685db5896271d2d986860f4]
+### 75. Appointment approved but not taken up before commencement: section 61 of the Insurance Companies Act[^c-bb21c3d02685db5896271d2d986860f4]
 
 (1) This article applies to a controllership where—
 
@@ -1377,7 +1377,7 @@ the appointment is to be taken to have been approved by the Authority under sect
 
 that controllership is to be taken to have been approved by the Authority under section 59(1) provided that the person takes up the controllership within the period mentioned in paragraph 1(4) of Schedule 2D to the Insurance Companies Act.
 
-### 76. Appointment of partner approved but not taken up before commencement[^key-d6ee5c7f3bb2f89fd3474a42926ae0e7]
+### 76. Appointment of partner approved but not taken up before commencement[^c-d6ee5c7f3bb2f89fd3474a42926ae0e7]
 
 (1) This article applies where—
 
@@ -1395,7 +1395,7 @@ the appointment is to be taken to have been approved by the Authority under sect
 
 ## PART VII — OTHER TRANSITIONAL STATUS AFTER COMMENCEMENT
 
-### 77. UK firms with “passports” before commencement[^key-a9534b61a3dbf5c6b721db04c507670a][^M_C_834e57c5-a1ee-47c1-816d-f883d3d75e1c]
+### 77. UK firms with “passports” before commencement[^c-a9534b61a3dbf5c6b721db04c507670a][^M_C_834e57c5-a1ee-47c1-816d-f883d3d75e1c]
 
 (1) This article applies to a UK firm within the meaning of Schedule 3.
 
@@ -1448,14 +1448,14 @@ then a consent notice is deemed to have been given by the Authority under paragr
 - (c) regulation 15 of the Friendly Societies Act 1992 (Amendment) Regulations 1994[^f00033]; or
 - (d) regulation 7 of the Friendly Societies (Amendment) Regulations 1997[^f00034].
 
-### 78. Disqualification of auditors[^key-8a1c9896777b7cc82ea0edabafe896ea]
+### 78. Disqualification of auditors[^c-8a1c9896777b7cc82ea0edabafe896ea]
 
 Where, at commencement, an auditor has been disqualified pursuant to section 111(3) of the Financial Services Act or section 21A(5) of the Insurance Companies Act, the disqualification has effect after commencement as disqualifying the auditor under section 345 from acting as auditor for any person—
 
 - (a) for whom he was disqualified from acting immediately before commencement; and
 - (b) who is an authorised person on commencement.
 
-### 79. Employment of prohibited persons: disqualification directions[^key-f40e8e7d7d4d6bf863267c77fb1fd235]
+### 79. Employment of prohibited persons: disqualification directions[^c-f40e8e7d7d4d6bf863267c77fb1fd235]
 
 (1) Where, at commencement—
 
@@ -1472,7 +1472,7 @@ the direction has effect after commencement as a prohibition order made under se
 
 taking into account, in both cases, any consent given by the Authority under section 59(3) of the Financial Services Act.
 
-(3)[^key-0dfb8b51fe4b929d50f10216b43c20cc] Paragraph (4) applies where—
+(3)[^c-0dfb8b51fe4b929d50f10216b43c20cc] Paragraph (4) applies where—
 
 - (a) a person (“I”) is subject to a prohibition order having effect under paragraph (1); and
 - (b) information about I has been placed on the record maintained in accordance with section 347(1)(g) as required by section 347(2) (“transitional information”).
@@ -1490,7 +1490,7 @@ taking into account, in both cases, any consent given by the Authority under sec
 
 (5) Paragraph (4) applies to transitional information until 18 January 2002 or, if on or before that date, I applies to the Authority under section 58 for the revocation of the prohibition order, then until that application is determined and there is no possibility (or no further possibility) of the determination being reversed or varied on a reference to the Tribunal or an appeal.
 
-### 80. International securities self-regulating organisations[^key-b58e0b3ca16c7cc81781ee63c90de1e6]
+### 80. International securities self-regulating organisations[^c-b58e0b3ca16c7cc81781ee63c90de1e6]
 
 An organisation which was, immediately before commencement, approved under paragraph 25B of Schedule 1 to the Financial Services Act is to be treated after commencement as approved under article 35 of the Regulated Activities Order.
 
@@ -1522,11 +1522,11 @@ Part VII covers the status of other people covered by the Act. Article 77 concer
 
 [^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-43493ac79ed7093189004c1b41a306f7]: Modification: [Order](https://www.legislation.gov.uk/uksi/2001/2636) applied (31.10.2001) by [The Financial Services and Markets Act 2000 (Interim Permissions) Order 2001 (S.I. 2001/3374)](https://www.legislation.gov.uk/uksi/2001/3374), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3374/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2001/3374/article/9/2)
+[^c-43493ac79ed7093189004c1b41a306f7]: Modification: [Order](https://www.legislation.gov.uk/uksi/2001/2636) applied (31.10.2001) by [The Financial Services and Markets Act 2000 (Interim Permissions) Order 2001 (S.I. 2001/3374)](https://www.legislation.gov.uk/uksi/2001/3374), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3374/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2001/3374/article/9/2)
 
-[^key-0659eb2b1db2da5dd9f092deab742813]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2001/2636/article/1) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-0659eb2b1db2da5dd9f092deab742813]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2001/2636/article/1) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
-[^key-03e723dc9e875fda54e441ad4ee7fa9e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2001/2636/article/2) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-03e723dc9e875fda54e441ad4ee7fa9e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2001/2636/article/2) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
 [^f00002]: Footnote: S.I. [2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
@@ -1546,49 +1546,49 @@ Part VII covers the status of other people covered by the Act. Article 77 concer
 
 [^f00010]: Footnote: S.I. [1994/1696](https://www.legislation.gov.uk/uksi/1994/1696).
 
-[^key-a1d99b647542d1cfcc29fb9f2cd8e241]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2001/2636/article/3) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-a1d99b647542d1cfcc29fb9f2cd8e241]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2001/2636/article/3) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-2e0e42c6b2e82adf071036ad45a9823f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2001/2636/article/4) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-2e0e42c6b2e82adf071036ad45a9823f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2001/2636/article/4) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-e5bf994030c2d7689fe621a121eda0d8]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2001/2636/article/5) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-e5bf994030c2d7689fe621a121eda0d8]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2001/2636/article/5) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-f3050e6decd04b71aaa0c2fd12c200ca]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2001/2636/article/6) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-f3050e6decd04b71aaa0c2fd12c200ca]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2001/2636/article/6) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-c378dfe16590f9f2738160917fc51a17]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2001/2636/article/7) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-c378dfe16590f9f2738160917fc51a17]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2001/2636/article/7) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00011]: Footnote: [1982 c. 14](https://www.legislation.gov.uk/ukpga/1982/14).
 
-[^key-f6df142eefd8e7aaaaa6cab6e4b21fd2]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2001/2636/article/8) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-f6df142eefd8e7aaaaa6cab6e4b21fd2]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2001/2636/article/8) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-d3f442a6afe564331db103106a0f8a3b]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2001/2636/article/9) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-d3f442a6afe564331db103106a0f8a3b]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2001/2636/article/9) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-60042bb90fa0b954710909d45bac04bc]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2001/2636/article/10) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-60042bb90fa0b954710909d45bac04bc]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2001/2636/article/10) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-affd89c6c2b719743a981898d1437c6d]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2001/2636/article/11) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-affd89c6c2b719743a981898d1437c6d]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2001/2636/article/11) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-989c09336787089d7647a322495e6d95]: Textual amendment: [Art. 11(4)](https://www.legislation.gov.uk/uksi/2001/2636/article/11/4)[(5)](https://www.legislation.gov.uk/uksi/2001/2636/article/11/5) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [6](https://www.legislation.gov.uk/uksi/2001/3650/article/6)
+[^c-989c09336787089d7647a322495e6d95]: Textual amendment: [Art. 11(4)](https://www.legislation.gov.uk/uksi/2001/2636/article/11/4)[(5)](https://www.legislation.gov.uk/uksi/2001/2636/article/11/5) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [6](https://www.legislation.gov.uk/uksi/2001/3650/article/6)
 
-[^key-ca797a4048812c09f28932103ec49029]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2001/2636/article/12) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-ca797a4048812c09f28932103ec49029]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2001/2636/article/12) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-5a2c407d299a1a14e238b3b1cd941efb]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2001/2636/article/13) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-5a2c407d299a1a14e238b3b1cd941efb]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2001/2636/article/13) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-a1befe6ef9b6099c1b5889fc792d10e8]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2001/2636/article/14) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-a1befe6ef9b6099c1b5889fc792d10e8]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2001/2636/article/14) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00012]: Footnote: Section 12A was inserted by the 31D Regulations, reg. 11.
 
-[^key-28a4a06e0113391f49d731d4442bc3c4]: Textual amendment: [Art. 14(4A)](https://www.legislation.gov.uk/uksi/2001/2636/article/14/4A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [7](https://www.legislation.gov.uk/uksi/2001/3650/article/7)
+[^c-28a4a06e0113391f49d731d4442bc3c4]: Textual amendment: [Art. 14(4A)](https://www.legislation.gov.uk/uksi/2001/2636/article/14/4A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [7](https://www.legislation.gov.uk/uksi/2001/3650/article/7)
 
-[^key-22de09d6d30ba48677702e15e831ed03]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2001/2636/article/15) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-22de09d6d30ba48677702e15e831ed03]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2001/2636/article/15) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00013]: Footnote: Schedule 2F was inserted by the 31D Regulations, reg. 45(2), Sch 6.
 
-[^key-48a13f56e037a96347ff380b76ab0f3b]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2001/2636/article/16) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-48a13f56e037a96347ff380b76ab0f3b]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2001/2636/article/16) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-614296033cebfdeaa7f3b7e0c1f8f116]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2001/2636/article/17) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-614296033cebfdeaa7f3b7e0c1f8f116]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2001/2636/article/17) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00014]: Footnote: Schedule 2G was inserted by the 31D Regulations.
 
-[^key-660a3a7fa26c751f981d57d4841158a5]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2001/2636/article/18) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-660a3a7fa26c751f981d57d4841158a5]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2001/2636/article/18) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00015]: Footnote: In relation to the effect of authorisation under Part IV of the Friendly Societies Act, relevant amendments to that Part were made by S.I. [1993/2519](https://www.legislation.gov.uk/uksi/1993/2519) and S.I. [1994/1984](https://www.legislation.gov.uk/uksi/1994/1984).
 
@@ -1598,163 +1598,163 @@ Part VII covers the status of other people covered by the Act. Article 77 concer
 
 [^f00018]: Footnote: Section 41 was amended by S.I. [1994/1984](https://www.legislation.gov.uk/uksi/1994/1984) and S.I. [1997/2849](https://www.legislation.gov.uk/uksi/1997/2849).
 
-[^key-82c8c2cef6c0ab6dfaa4cf589fb87242]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2001/2636/article/19) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-82c8c2cef6c0ab6dfaa4cf589fb87242]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2001/2636/article/19) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-0c0f4767907e5bd7098e6aa50d81f6e1]: Textual amendment: [Art. 19(2A)](https://www.legislation.gov.uk/uksi/2001/2636/article/19/2A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [8](https://www.legislation.gov.uk/uksi/2001/3650/article/8)
+[^c-0c0f4767907e5bd7098e6aa50d81f6e1]: Textual amendment: [Art. 19(2A)](https://www.legislation.gov.uk/uksi/2001/2636/article/19/2A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [8](https://www.legislation.gov.uk/uksi/2001/3650/article/8)
 
-[^key-eafeaed71a3abe44f3db9ecb1c74db91]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2001/2636/article/20) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-eafeaed71a3abe44f3db9ecb1c74db91]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2001/2636/article/20) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00019]: Footnote: [1974 c. 36](https://www.legislation.gov.uk/ukpga/1974/36).
 
-[^key-ca5b284bfbf0d16ac2f6b8b23d2ca795]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2001/2636/article/21) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-ca5b284bfbf0d16ac2f6b8b23d2ca795]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2001/2636/article/21) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-10731d6af4c77586b5c02624d1e7f13a]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2001/2636/article/22) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-10731d6af4c77586b5c02624d1e7f13a]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2001/2636/article/22) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00020]: Footnote: Section 46 was substituted by the Building Societies Act 1997, s. 23.
 
 [^f00021]: Footnote: Section 41(7) was amended by S.I. [1996/1669](https://www.legislation.gov.uk/uksi/1996/1669) and sub-paragraphs (a) and (b) were substituted by the Building Societies Act 1997 s. 43 and Sch. 7 para 12(3).
 
-[^key-194a8d4d126cbaa08bff5c92ce8eae96]: Textual amendment: [Art. 22(4)](https://www.legislation.gov.uk/uksi/2001/2636/article/22/4)[(5)](https://www.legislation.gov.uk/uksi/2001/2636/article/22/5) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [9](https://www.legislation.gov.uk/uksi/2001/3650/article/9)
+[^c-194a8d4d126cbaa08bff5c92ce8eae96]: Textual amendment: [Art. 22(4)](https://www.legislation.gov.uk/uksi/2001/2636/article/22/4)[(5)](https://www.legislation.gov.uk/uksi/2001/2636/article/22/5) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [9](https://www.legislation.gov.uk/uksi/2001/3650/article/9)
 
-[^key-2c1fa71c38c25bad31bce04f59aab98f]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2001/2636/article/23) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-2c1fa71c38c25bad31bce04f59aab98f]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2001/2636/article/23) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-9b1604b488c9c05801e64b84b6c9047d]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2001/2636/article/24) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-9b1604b488c9c05801e64b84b6c9047d]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2001/2636/article/24) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-b20269b58ade71280f18226dbd21cf60]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2001/2636/article/25) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-b20269b58ade71280f18226dbd21cf60]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2001/2636/article/25) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00022]: Footnote: Reg. 2C was inserted by S.I. [1999/2094](https://www.legislation.gov.uk/uksi/1999/2094), reg. 2(1), (3).
 
 [^f00023]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-5eb8cf4fb9d63a1b35838ce919c49ed4]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2001/2636/article/26) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-5eb8cf4fb9d63a1b35838ce919c49ed4]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2001/2636/article/26) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-08e7c769a32aa4140f63de8d9e46fd01]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2001/2636/article/27) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-08e7c769a32aa4140f63de8d9e46fd01]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2001/2636/article/27) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-43d4e8b0c63fadbce60d63632e7a9cc1]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2001/2636/article/28) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-43d4e8b0c63fadbce60d63632e7a9cc1]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2001/2636/article/28) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-af1b50b70192b102757032cedfcdbe1d]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2001/2636/article/29) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-af1b50b70192b102757032cedfcdbe1d]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2001/2636/article/29) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-242b4deabea7c68b9c2901cad8d92967]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2001/2636/article/30) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-242b4deabea7c68b9c2901cad8d92967]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2001/2636/article/30) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-a96f8c73baf59ff3dacc25ae8f8913b8]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2001/2636/article/31) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-a96f8c73baf59ff3dacc25ae8f8913b8]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2001/2636/article/31) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-aa3916258869f5f867f5f88f50315951]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2001/2636/article/32) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-aa3916258869f5f867f5f88f50315951]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2001/2636/article/32) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-65034f92577bd6d990711500a0587703]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2001/2636/article/33) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-65034f92577bd6d990711500a0587703]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2001/2636/article/33) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-1f6c497e2ab36204d31ebd03b5f1ba52]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2001/2636/article/34) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-1f6c497e2ab36204d31ebd03b5f1ba52]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2001/2636/article/34) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-316390020fb1740790af98ab50b811f0]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2001/2636/article/35) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-316390020fb1740790af98ab50b811f0]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2001/2636/article/35) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-9ee48ce1252f7b95689161580101421b]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2001/2636/article/36) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-9ee48ce1252f7b95689161580101421b]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2001/2636/article/36) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-5645f96f53b72e7baa371e992c139261]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2001/2636/article/37) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-5645f96f53b72e7baa371e992c139261]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2001/2636/article/37) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-7fc58b49cc38bfcda2e13460587e1547]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2001/2636/article/38) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-7fc58b49cc38bfcda2e13460587e1547]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2001/2636/article/38) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-3bfe046843d7e0bc608750127ef9e58b]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2001/2636/article/39) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-3bfe046843d7e0bc608750127ef9e58b]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2001/2636/article/39) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-d9e85aaaf8f677087afbf2412b01f083]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2001/2636/article/40) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-d9e85aaaf8f677087afbf2412b01f083]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2001/2636/article/40) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-a02c453731e7f6ad25ad0194edf7569b]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2001/2636/article/41) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-a02c453731e7f6ad25ad0194edf7569b]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2001/2636/article/41) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-caadbe4a5e8273c2ac1c2a3638794cc8]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2001/2636/article/42) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-caadbe4a5e8273c2ac1c2a3638794cc8]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2001/2636/article/42) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00024]: Footnote: Section 40A was inserted by S.I. [1994/1696](https://www.legislation.gov.uk/uksi/1994/1696) reg. 22 and has been amended by S.I. [1997/2781](https://www.legislation.gov.uk/uksi/1997/2781), art. 8, Sch, Pt I, paras 1, 25.
 
-[^key-f64d8089bc4ad488113c360b2832da32]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2001/2636/article/43) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-f64d8089bc4ad488113c360b2832da32]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2001/2636/article/43) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00025]: Footnote: S.I. [1996/3011](https://www.legislation.gov.uk/uksi/1996/3011).
 
-[^key-8b4cefbf78819610de2b218e402e2f04]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2001/2636/article/44) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-8b4cefbf78819610de2b218e402e2f04]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2001/2636/article/44) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-50a245c4716471b49a394f5142176754]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2001/2636/article/45) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-50a245c4716471b49a394f5142176754]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2001/2636/article/45) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00026]: Footnote: Section 36A was inserted by S.I. [1993/2519](https://www.legislation.gov.uk/uksi/1993/2519), reg. 2(1).
 
-[^key-93d79f29c63378b121cdc90c48500291]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2001/2636/article/46) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-93d79f29c63378b121cdc90c48500291]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2001/2636/article/46) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-5f6019050585f7c8754fa71899171bc0]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2001/2636/article/47) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-5f6019050585f7c8754fa71899171bc0]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2001/2636/article/47) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-e222b8b2d40f120e545be08455c59379]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2001/2636/article/48) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-e222b8b2d40f120e545be08455c59379]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2001/2636/article/48) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00027]: Footnote: Section 52A was inserted by S.I. [1994/1984](https://www.legislation.gov.uk/uksi/1994/1984) and has been amended by S.I. [1997/2849](https://www.legislation.gov.uk/uksi/1997/2849).
 
-[^key-f75a87792202ec79f4e5cba6150dc98f]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2001/2636/article/49) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-f75a87792202ec79f4e5cba6150dc98f]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2001/2636/article/49) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-75dea6d3f516c024f4c4d07e547bae49]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2001/2636/article/50) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-75dea6d3f516c024f4c4d07e547bae49]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2001/2636/article/50) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00028]: Footnote: Section 42A was inserted by the Building Societies Act 1997 s. 16.
 
-[^key-861d642ea73193545d0ae410102fa871]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2001/2636/article/51) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-861d642ea73193545d0ae410102fa871]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2001/2636/article/51) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00029]: Footnote: Section 43A was inserted by the Building Societies Act 1997 s. 19.
 
 [^f00030]: Footnote: Section 43B was inserted by the Building Societies Act 1997 s. 20.
 
-[^key-c900ad79b89bf7aac58a440edd1f90b5]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2001/2636/article/52) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-c900ad79b89bf7aac58a440edd1f90b5]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2001/2636/article/52) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-701207a0103a61dea1e3cca04b4f8160]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2001/2636/article/53) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-701207a0103a61dea1e3cca04b4f8160]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2001/2636/article/53) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-c4dbece355bc655adf824fed7b75a1b6]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2001/2636/article/54) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-c4dbece355bc655adf824fed7b75a1b6]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2001/2636/article/54) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-eec9af1a635e3d1a2f28367b445b72d8]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2001/2636/article/55) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-eec9af1a635e3d1a2f28367b445b72d8]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2001/2636/article/55) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
-[^key-10a9f60498134145fa178cc35e7e99af]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2001/2636/article/56) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-10a9f60498134145fa178cc35e7e99af]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2001/2636/article/56) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
-[^key-c6cf1ebb041241037e891ce85093deb0]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2001/2636/article/57) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-c6cf1ebb041241037e891ce85093deb0]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2001/2636/article/57) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
-[^key-a1f5e0c13e704055b4b23c1b41427154]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 30(2)](https://www.legislation.gov.uk/uksi/2001/3650/article/30/2) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/3))
+[^c-a1f5e0c13e704055b4b23c1b41427154]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 30(2)](https://www.legislation.gov.uk/uksi/2001/3650/article/30/2) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/3))
 
-[^key-27159b6fe7ccabe954a04c1220f6facb]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 29(3)](https://www.legislation.gov.uk/uksi/2001/3650/article/29/3) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/2))
+[^c-27159b6fe7ccabe954a04c1220f6facb]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 29(3)](https://www.legislation.gov.uk/uksi/2001/3650/article/29/3) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/2))
 
-[^key-4c4746cdbba8ce5711f23344bf79f9b2]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 30(3)](https://www.legislation.gov.uk/uksi/2001/3650/article/30/3) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/3))
+[^c-4c4746cdbba8ce5711f23344bf79f9b2]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 30(3)](https://www.legislation.gov.uk/uksi/2001/3650/article/30/3) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/3))
 
-[^key-b35a6dc16d82a0fe394ed9310b4b79fd]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 29(2)](https://www.legislation.gov.uk/uksi/2001/3650/article/29/2) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/2))
+[^c-b35a6dc16d82a0fe394ed9310b4b79fd]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 29(2)](https://www.legislation.gov.uk/uksi/2001/3650/article/29/2) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/2))
 
-[^key-650df32bf75510ae09c7e113fc7b62c3]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2001/2636/article/58) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-650df32bf75510ae09c7e113fc7b62c3]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2001/2636/article/58) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
-[^key-cc869553a13e6d3aa5937efc94518a2c]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2001/2636/article/59) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-cc869553a13e6d3aa5937efc94518a2c]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2001/2636/article/59) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
-[^key-3546f870d15bb8d841255746e0407f49]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2001/2636/article/60) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-3546f870d15bb8d841255746e0407f49]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2001/2636/article/60) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
-[^key-7ec12a2bb86e084a18659deb7bee9ff9]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2001/2636/article/61) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-7ec12a2bb86e084a18659deb7bee9ff9]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2001/2636/article/61) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
-[^key-613d58c5f406eba8675a1a7ff56b2073]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2001/2636/article/62) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-613d58c5f406eba8675a1a7ff56b2073]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2001/2636/article/62) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
-[^key-caf55fa2dc71b1415551ad83e7f08041]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2001/2636/article/63) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-caf55fa2dc71b1415551ad83e7f08041]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2001/2636/article/63) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
-[^key-671db924d9bab0994739b5fe4466cb1b]: Commencement: [Art. 64](https://www.legislation.gov.uk/uksi/2001/2636/article/64) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+[^c-671db924d9bab0994739b5fe4466cb1b]: Commencement: [Art. 64](https://www.legislation.gov.uk/uksi/2001/2636/article/64) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
 
-[^key-a4d3157538ecc8e7fecbb66887edf4a7]: Commencement: [Art. 65](https://www.legislation.gov.uk/uksi/2001/2636/article/65) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-a4d3157538ecc8e7fecbb66887edf4a7]: Commencement: [Art. 65](https://www.legislation.gov.uk/uksi/2001/2636/article/65) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^f00031]: Footnote: S.I. [1989/1535](https://www.legislation.gov.uk/uksi/1989/1535).
 
-[^key-0685073874a481411c64cafc9ff47d92]: Textual amendment: [Art. 66](https://www.legislation.gov.uk/uksi/2001/2636/article/66) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2019/325/regulation/54) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0685073874a481411c64cafc9ff47d92]: Textual amendment: [Art. 66](https://www.legislation.gov.uk/uksi/2001/2636/article/66) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2019/325/regulation/54) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ea8c2d7db9f5a9a21ecdfe5a7e6306ff]: Commencement: [Art. 67](https://www.legislation.gov.uk/uksi/2001/2636/article/67) in force at 1.12.2001 for specified purposes, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-ea8c2d7db9f5a9a21ecdfe5a7e6306ff]: Commencement: [Art. 67](https://www.legislation.gov.uk/uksi/2001/2636/article/67) in force at 1.12.2001 for specified purposes, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-07e0b2ddb91d217bb5dd46a6d04118cc]: Textual amendment: [Art. 67(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/67/1) revoked in part (21.5.2003) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Designated Countries and Territories) Order 2003 (S.I. 2003/1181)](https://www.legislation.gov.uk/uksi/2003/1181), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1181/article/1), [4](https://www.legislation.gov.uk/uksi/2003/1181/article/4)
+[^c-07e0b2ddb91d217bb5dd46a6d04118cc]: Textual amendment: [Art. 67(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/67/1) revoked in part (21.5.2003) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Designated Countries and Territories) Order 2003 (S.I. 2003/1181)](https://www.legislation.gov.uk/uksi/2003/1181), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1181/article/1), [4](https://www.legislation.gov.uk/uksi/2003/1181/article/4)
 
-[^key-3143546dadd2d696f4bb8feea7a9329b]: Commencement: [Art. 68](https://www.legislation.gov.uk/uksi/2001/2636/article/68) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-3143546dadd2d696f4bb8feea7a9329b]: Commencement: [Art. 68](https://www.legislation.gov.uk/uksi/2001/2636/article/68) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-a649f81111b1552ee0f430bbe1c00286]: Commencement: [Art. 69](https://www.legislation.gov.uk/uksi/2001/2636/article/69) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-a649f81111b1552ee0f430bbe1c00286]: Commencement: [Art. 69](https://www.legislation.gov.uk/uksi/2001/2636/article/69) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-80353e6724d9be409fa83593ff65598e]: Commencement: [Art. 70](https://www.legislation.gov.uk/uksi/2001/2636/article/70) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-80353e6724d9be409fa83593ff65598e]: Commencement: [Art. 70](https://www.legislation.gov.uk/uksi/2001/2636/article/70) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-d231eb0fa67a022bb8a6e4aa5ce730b4]: Commencement: [Art. 71](https://www.legislation.gov.uk/uksi/2001/2636/article/71) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-d231eb0fa67a022bb8a6e4aa5ce730b4]: Commencement: [Art. 71](https://www.legislation.gov.uk/uksi/2001/2636/article/71) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-a85381c09ee691b0df16d3192002c5a3]: Commencement: [Art. 72](https://www.legislation.gov.uk/uksi/2001/2636/article/72) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-a85381c09ee691b0df16d3192002c5a3]: Commencement: [Art. 72](https://www.legislation.gov.uk/uksi/2001/2636/article/72) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-11ea0f04539fdb352fbbe7388c9b8388]: Commencement: [Art. 73](https://www.legislation.gov.uk/uksi/2001/2636/article/73) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-11ea0f04539fdb352fbbe7388c9b8388]: Commencement: [Art. 73](https://www.legislation.gov.uk/uksi/2001/2636/article/73) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-3133bd758afa75fd9e0b7edaa4cc4751]: Commencement: [Art. 74](https://www.legislation.gov.uk/uksi/2001/2636/article/74) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-3133bd758afa75fd9e0b7edaa4cc4751]: Commencement: [Art. 74](https://www.legislation.gov.uk/uksi/2001/2636/article/74) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-bb21c3d02685db5896271d2d986860f4]: Commencement: [Art. 75](https://www.legislation.gov.uk/uksi/2001/2636/article/75) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-bb21c3d02685db5896271d2d986860f4]: Commencement: [Art. 75](https://www.legislation.gov.uk/uksi/2001/2636/article/75) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-d6ee5c7f3bb2f89fd3474a42926ae0e7]: Commencement: [Art. 76](https://www.legislation.gov.uk/uksi/2001/2636/article/76) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-d6ee5c7f3bb2f89fd3474a42926ae0e7]: Commencement: [Art. 76](https://www.legislation.gov.uk/uksi/2001/2636/article/76) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-a9534b61a3dbf5c6b721db04c507670a]: Commencement: [Art. 77](https://www.legislation.gov.uk/uksi/2001/2636/article/77) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-a9534b61a3dbf5c6b721db04c507670a]: Commencement: [Art. 77](https://www.legislation.gov.uk/uksi/2001/2636/article/77) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
 [^M_C_834e57c5-a1ee-47c1-816d-f883d3d75e1c]: Modification: [Art. 77](https://www.legislation.gov.uk/uksi/2001/2636/article/77) modified (1.12.2001) by [The Financial Services and Markets Act 2000 (Gibraltar) Order 2001 (S.I. 2001/3084)](https://www.legislation.gov.uk/uksi/2001/3084), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3084/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3) (as amended 31.12.2020) by [S.I. 2019/589](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/589/regulation/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (which was itself amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(e)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/e/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
@@ -1764,10 +1764,10 @@ Part VII covers the status of other people covered by the Act. Article 77 concer
 
 [^f00034]: Footnote: S.I. [1997/2849](https://www.legislation.gov.uk/uksi/1997/2849).
 
-[^key-8a1c9896777b7cc82ea0edabafe896ea]: Commencement: [Art. 78](https://www.legislation.gov.uk/uksi/2001/2636/article/78) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-8a1c9896777b7cc82ea0edabafe896ea]: Commencement: [Art. 78](https://www.legislation.gov.uk/uksi/2001/2636/article/78) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-f40e8e7d7d4d6bf863267c77fb1fd235]: Commencement: [Art. 79](https://www.legislation.gov.uk/uksi/2001/2636/article/79) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-f40e8e7d7d4d6bf863267c77fb1fd235]: Commencement: [Art. 79](https://www.legislation.gov.uk/uksi/2001/2636/article/79) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
 
-[^key-0dfb8b51fe4b929d50f10216b43c20cc]: Textual amendment: [Art. 79(3)-(5)](https://www.legislation.gov.uk/uksi/2001/2636/article/79/3) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [10](https://www.legislation.gov.uk/uksi/2001/3650/article/10)
+[^c-0dfb8b51fe4b929d50f10216b43c20cc]: Textual amendment: [Art. 79(3)-(5)](https://www.legislation.gov.uk/uksi/2001/2636/article/79/3) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [10](https://www.legislation.gov.uk/uksi/2001/3650/article/10)
 
-[^key-b58e0b3ca16c7cc81781ee63c90de1e6]: Commencement: [Art. 80](https://www.legislation.gov.uk/uksi/2001/2636/article/80) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+[^c-b58e0b3ca16c7cc81781ee63c90de1e6]: Commencement: [Art. 80](https://www.legislation.gov.uk/uksi/2001/2636/article/80) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)

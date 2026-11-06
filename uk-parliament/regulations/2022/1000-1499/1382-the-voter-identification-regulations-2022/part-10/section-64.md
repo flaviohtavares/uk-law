@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Amendment of Schedule 3 (neighbourhood planning referendum rules)[^key-def5a67ff0fddf795dab9aed15cee1a3]
+## 64. Amendment of Schedule 3 (neighbourhood planning referendum rules)[^c-def5a67ff0fddf795dab9aed15cee1a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -279,6 +279,6 @@ summary: ''
 
 ## Annotations
 
-[^key-def5a67ff0fddf795dab9aed15cee1a3]: Commencement: Reg. 64 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-def5a67ff0fddf795dab9aed15cee1a3]: Commencement: Reg. 64 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00066]: Footnote: Section 61N was inserted by paragraph 2 of Schedule 9 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), and subsection (3) was amended by section 92(1) of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).

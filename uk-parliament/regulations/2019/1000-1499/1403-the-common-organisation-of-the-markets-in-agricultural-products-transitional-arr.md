@@ -48,15 +48,15 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
 In accordance with paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-3d985ec0314b8c6bade393754bdb0149]
+## 1. Citation and commencement[^c-3d985ec0314b8c6bade393754bdb0149]
 
 These Regulations may be cited as the Common Organisation of the Markets in Agricultural Products (Transitional Arrangements etc.) (Amendment) (EU Exit) Regulations 2019 and come into force immediately before exit day.
 
-## 2. Amendment of the Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-656d84cf9db1aa00ba0eefbc8b498d1a]
+## 2. Amendment of the Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-656d84cf9db1aa00ba0eefbc8b498d1a]
 
 (1) The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c23917861] are amended as follows.
 
-(2)[^key-72a53226428869a4bff16f0e88dd531c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-72a53226428869a4bff16f0e88dd531c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For regulation 9(d)(i) substitute—
 
@@ -101,15 +101,15 @@ These Regulations may be cited as the Common Organisation of the Markets in Agri
 
   .
 
-(7)[^key-45ccb7b075ec4be2a4f4a976a2147492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-45ccb7b075ec4be2a4f4a976a2147492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-45ccb7b075ec4be2a4f4a976a2147492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-45ccb7b075ec4be2a4f4a976a2147492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-45ccb7b075ec4be2a4f4a976a2147492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-45ccb7b075ec4be2a4f4a976a2147492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-45ccb7b075ec4be2a4f4a976a2147492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-45ccb7b075ec4be2a4f4a976a2147492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-45ccb7b075ec4be2a4f4a976a2147492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-45ccb7b075ec4be2a4f4a976a2147492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 George Eustice
 
@@ -131,12 +131,12 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23917851]: Marginal citation: OJ No L 31, 1.2.2002, p.1, as last amended by Commission Regulation (EU) 2017/228 (OJ No L 35, 10.2.2017, p. 10).
 
-[^key-3d985ec0314b8c6bade393754bdb0149]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-3d985ec0314b8c6bade393754bdb0149]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-656d84cf9db1aa00ba0eefbc8b498d1a]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-656d84cf9db1aa00ba0eefbc8b498d1a]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23917861]: Marginal citation: [S.I. 2019/828](https://www.legislation.gov.uk/uksi/2019/828).
 
-[^key-72a53226428869a4bff16f0e88dd531c]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1403/regulation/2/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [8(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/8/a)
+[^c-72a53226428869a4bff16f0e88dd531c]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1403/regulation/2/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [8(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/8/a)
 
-[^key-45ccb7b075ec4be2a4f4a976a2147492]: Textual amendment: [Reg. 2(7)-(11)](https://www.legislation.gov.uk/uksi/2019/1403/regulation/2/7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [8(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/8/b)
+[^c-45ccb7b075ec4be2a4f4a976a2147492]: Textual amendment: [Reg. 2(7)-(11)](https://www.legislation.gov.uk/uksi/2019/1403/regulation/2/7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1452)](https://www.legislation.gov.uk/uksi/2020/1452), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b), [8(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/8/b)

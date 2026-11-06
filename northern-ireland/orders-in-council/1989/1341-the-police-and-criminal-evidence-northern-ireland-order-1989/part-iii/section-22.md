@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Extension of powers of seizure to computerised information[^c20410891][^c21390311][^key-d6356901327b6df45e0b28acda58d712][^key-1ee3464f17b48b22784be39afbcd7cf6]
+## 22. Extension of powers of seizure to computerised information[^c20410891][^c21390311][^c-d6356901327b6df45e0b28acda58d712][^c-1ee3464f17b48b22784be39afbcd7cf6]
 
 *Extent: N.I.*
 
@@ -35,9 +35,9 @@ summary: ''
 
 [^c21390311]: Modification: [Art. 22](https://www.legislation.gov.uk/nisi/1989/1341/article/22) applied (with modifications) (18.5.2009) by [Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009 (S.R. 2009/142)](https://www.legislation.gov.uk/nisr/2009/142), [art. 3](https://www.legislation.gov.uk/nisr/2009/142/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/142/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/142/schedule/2)
 
-[^key-d6356901327b6df45e0b28acda58d712]: Modification: [Art. 22](https://www.legislation.gov.uk/nisi/1989/1341/article/22) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2026/117/regulation/3), [9(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/117/schedule/1)
+[^c-d6356901327b6df45e0b28acda58d712]: Modification: [Art. 22](https://www.legislation.gov.uk/nisi/1989/1341/article/22) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2026/117/regulation/3), [9(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/117/schedule/1)
 
-[^key-1ee3464f17b48b22784be39afbcd7cf6]: Modification: [Art. 22](https://www.legislation.gov.uk/nisi/1989/1341/article/22) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-1ee3464f17b48b22784be39afbcd7cf6]: Modification: [Art. 22](https://www.legislation.gov.uk/nisi/1989/1341/article/22) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c17127621]: Textual amendment: [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16)
 

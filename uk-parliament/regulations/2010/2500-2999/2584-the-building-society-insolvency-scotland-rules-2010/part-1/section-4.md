@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Time limits[^key-3e55001029b2cb604a63deb3aa219bfd]
+## 4. Time limits[^c-3e55001029b2cb604a63deb3aa219bfd]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e55001029b2cb604a63deb3aa219bfd]: Commencement: Rule 4 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-3e55001029b2cb604a63deb3aa219bfd]: Commencement: Rule 4 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

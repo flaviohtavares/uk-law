@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 297. Continuing offences and penalties.[^key-58713964d52fd0d8cf61c9a5a0b827b4][^key-ce6f1dcd03d7816af2b7aac0c0af8a0b][^key-66fa6f60dd74827ec93a907fd80346db]
+## 297. Continuing offences and penalties.[^c-58713964d52fd0d8cf61c9a5a0b827b4][^c-ce6f1dcd03d7816af2b7aac0c0af8a0b][^c-66fa6f60dd74827ec93a907fd80346db]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ Where provision is made by or under this Act for the imposition of a daily penal
 
 ## Annotations
 
-[^key-58713964d52fd0d8cf61c9a5a0b827b4]: Modification: S. 297 applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [9](https://www.legislation.gov.uk/ukla/2004/1/section/9), [Sch. 1](https://www.legislation.gov.uk/ukla/2004/1/schedule/1)
+[^c-58713964d52fd0d8cf61c9a5a0b827b4]: Modification: S. 297 applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [9](https://www.legislation.gov.uk/ukla/2004/1/section/9), [Sch. 1](https://www.legislation.gov.uk/ukla/2004/1/schedule/1)
 
-[^key-ce6f1dcd03d7816af2b7aac0c0af8a0b]: Modification: S. 297 applied (with modifications) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukla/2007/2/schedule/1)
+[^c-ce6f1dcd03d7816af2b7aac0c0af8a0b]: Modification: S. 297 applied (with modifications) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukla/2007/2/schedule/1)
 
-[^key-66fa6f60dd74827ec93a907fd80346db]: Modification: S. 297 modified (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [11(4)](https://www.legislation.gov.uk/ukla/2008/3/section/11/4), [Sch. 1](https://www.legislation.gov.uk/ukla/2008/3/schedule/1)
+[^c-66fa6f60dd74827ec93a907fd80346db]: Modification: S. 297 modified (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [11(4)](https://www.legislation.gov.uk/ukla/2008/3/section/11/4), [Sch. 1](https://www.legislation.gov.uk/ukla/2008/3/schedule/1)

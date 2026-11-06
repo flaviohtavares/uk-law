@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Correction of record in response to application under section 96[^key-f2b7ac313ab52bb6b2db44fa21c6929a][^key-4046b9350ac5b35b55881412c1843112][^key-7b42558dc607329ea231e134b27c67bb]
+## 97. Correction of record in response to application under section 96[^c-f2b7ac313ab52bb6b2db44fa21c6929a][^c-4046b9350ac5b35b55881412c1843112][^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
-[^key-7b42558dc607329ea231e134b27c67bb]
+[^c-7b42558dc607329ea231e134b27c67bb]
 
 (1) On accepting an application made under section 96, the Keeper must correct the entry in the statutory pledges record accordingly.
 
@@ -44,8 +44,8 @@ but only if and to the extent that the application contains an email address for
 
 ## Annotations
 
-[^key-f2b7ac313ab52bb6b2db44fa21c6929a]: Commencement: S. 97 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-f2b7ac313ab52bb6b2db44fa21c6929a]: Commencement: S. 97 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-4046b9350ac5b35b55881412c1843112]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2023/3/section/97) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-4046b9350ac5b35b55881412c1843112]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2023/3/section/97) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
+[^c-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))

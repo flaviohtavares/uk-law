@@ -36,74 +36,74 @@ on Community statistics on public health and health and safety at work
 
 (Text with EEA relevance) (revoked)
 
-[^key-7a38a25d12e80067b81e8d68b47c8b11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a38a25d12e80067b81e8d68b47c8b11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-7a38a25d12e80067b81e8d68b47c8b11]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Scope[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## Article 1. Subject matter[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Definitions[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## Article 2. Scope[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Sources[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## Article 3. Definitions[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Methodology[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## Article 4. Sources[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Pilot studies and cost-benefit analyses[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## Article 5. Methodology[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Transmission, treatment and dissemination of data[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## Article 6. Pilot studies and cost-benefit analyses[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Quality assessment[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## Article 7. Transmission, treatment and dissemination of data[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Implementing measures[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## Article 8. Quality assessment[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Committee[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## Article 9. Implementing measures[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## Article 10. Committee[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a38a25d12e80067b81e8d68b47c8b11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — Domain: Health status and health determinants[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## Article 11. Entry into force[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Domain: Health care[^key-7a38a25d12e80067b81e8d68b47c8b11]
+[^c-7a38a25d12e80067b81e8d68b47c8b11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — Domain: Health status and health determinants[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Domain: Causes of death[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## ANNEX II — Domain: Health care[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Domain: Accidents at work[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## ANNEX III — Domain: Causes of death[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — Domain: Occupational diseases and other work-related health problems and illnesses[^key-7a38a25d12e80067b81e8d68b47c8b11]
+## ANNEX IV — Domain: Accidents at work[^c-7a38a25d12e80067b81e8d68b47c8b11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX V — Domain: Occupational diseases and other work-related health problems and illnesses[^c-7a38a25d12e80067b81e8d68b47c8b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a38a25d12e80067b81e8d68b47c8b11]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 142](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/142); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a38a25d12e80067b81e8d68b47c8b11]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 142](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/142); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

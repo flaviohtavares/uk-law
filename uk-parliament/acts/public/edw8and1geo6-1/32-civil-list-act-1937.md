@@ -31,56 +31,56 @@ Civil List Act 1937 (repealed)
 
 1937 c.32
 
-[^key-f7272c7cd42fabf3b117a2350cc15f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7272c7cd42fabf3b117a2350cc15f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1, 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
+## 1, 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
 
-## 3. Provision for Her Majesty the Queen in the event of her surviving His Majesty.[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
-
-## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
-
-## 6. Provision for His Majesty’s younger children.[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
+## 3. Provision for Her Majesty the Queen in the event of her surviving His Majesty.[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7, 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
 
-## 9. Constitution of Royal trustees.[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
+## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
-
-## 11. Payments by Treasury in respect of retired allowances.[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
+## 6. Provision for His Majesty’s younger children.[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
+## 7, 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
 
-## 13. Charge of payments under this Act.[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 14. Adjustments in respect of parts of years.[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
+## 9. Constitution of Royal trustees.[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. †Continuation of enactments, commencement, repeal and short title.[^key-f7272c7cd42fabf3b117a2350cc15f07][^key-f7272c7cd42fabf3b117a2350cc15f07]
+## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
+
+## 11. Payments by Treasury in respect of retired allowances.[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
+
+## 13. Charge of payments under this Act.[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Adjustments in respect of parts of years.[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. †Continuation of enactments, commencement, repeal and short title.[^c-f7272c7cd42fabf3b117a2350cc15f07][^c-f7272c7cd42fabf3b117a2350cc15f07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-f7272c7cd42fabf3b117a2350cc15f07]
+## SCHEDULE[^c-f7272c7cd42fabf3b117a2350cc15f07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f7272c7cd42fabf3b117a2350cc15f07]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/32) repealed (1.4.2012) by [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2011/15/schedule/1/paragraph/7)
+[^c-f7272c7cd42fabf3b117a2350cc15f07]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/32) repealed (1.4.2012) by [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2011/15/schedule/1/paragraph/7)

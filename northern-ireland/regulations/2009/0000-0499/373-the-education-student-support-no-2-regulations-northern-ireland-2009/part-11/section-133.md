@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 133. Information[^key-a28a05d359be24c9ba3257c2c6ff401b]
+## 133. Information[^c-a28a05d359be24c9ba3257c2c6ff401b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 deals with the provision of information.
 
 ## Annotations
 
-[^key-a28a05d359be24c9ba3257c2c6ff401b]: Commencement: Reg. 133 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-a28a05d359be24c9ba3257c2c6ff401b]: Commencement: Reg. 133 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

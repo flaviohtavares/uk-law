@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Amount of penalty fare[^key-26099305eacf5dfb9f5c70befdd92dbe]
+## 62. Amount of penalty fare[^c-26099305eacf5dfb9f5c70befdd92dbe]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26099305eacf5dfb9f5c70befdd92dbe]: Commencement: Art. 62 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-26099305eacf5dfb9f5c70befdd92dbe]: Commencement: Art. 62 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

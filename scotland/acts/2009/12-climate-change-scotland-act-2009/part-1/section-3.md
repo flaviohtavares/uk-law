@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Annual targets: 2021 to year before net-zero year[^key-255f9dec496cc720ee979731a37adcc3]
+## 3. Annual targets: 2021 to year before net-zero year[^c-255f9dec496cc720ee979731a37adcc3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-255f9dec496cc720ee979731a37adcc3]: Textual amendment: [S. 3 and cross-heading](https://www.legislation.gov.uk/asp/2009/12/part/1/crossheading/annual-targets) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(6)](https://www.legislation.gov.uk/asp/2024/15/section/2/6), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-255f9dec496cc720ee979731a37adcc3]: Textual amendment: [S. 3 and cross-heading](https://www.legislation.gov.uk/asp/2009/12/part/1/crossheading/annual-targets) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(6)](https://www.legislation.gov.uk/asp/2024/15/section/2/6), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)

@@ -46,16 +46,16 @@ Coming into force
 
 The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 49D(1) and (2) and 67(2) and (3) of the Disability Discrimination Act 1995[^f00001], after consultation with the National Assembly for Wales and with the consent of the Assembly, after consultation with the Scottish Ministers and with the Disability Rights Commission[^f00002], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-9ba4acc92348961fa79504eabcbc2601]
+## 1. Citation, commencement and interpretation[^c-9ba4acc92348961fa79504eabcbc2601]
 
 (1) These Regulations may be cited as the Disability Discrimination (Public Authorities) (Statutory Duties) Regulations 2005 and shall come into force on 5th December 2005.
 
 (2) In these Regulations—
 
 - “section 49A(1) duty”, in relation to a public authority, means its duty under section 49A(1) of the Disability Discrimination Act 1995; and
-- “school” means a school maintained by a local authority (within the meaning of the Education Act 1996)[^key-07dbd432787d7ccee330de5ad77ecd8a].
+- “school” means a school maintained by a local authority (within the meaning of the Education Act 1996)[^c-07dbd432787d7ccee330de5ad77ecd8a].
 
-## 2. Preparation and publication of a Disability Equality Scheme[^key-d1f0da3f9eae5459be1628eb87e5c0c2]
+## 2. Preparation and publication of a Disability Equality Scheme[^c-d1f0da3f9eae5459be1628eb87e5c0c2]
 
 (1) A public authority listed in Schedule 1 shall, on or before the relevant publication date, publish a Disability Equality Scheme (“Scheme”), that is, a scheme showing how it intends to fulfil its section 49A(1) duty and its duties under these Regulations.
 
@@ -69,7 +69,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 - (d) that authority’s arrangements for gathering information on the effect of its policies and practices on disabled persons and in particular its arrangements for gathering information on—
   - (i) their effect on the recruitment, development and retention of its disabled employees,
   - (ii) their effect, in the case of an authority specified in Part II, III or IV of Schedule 1, on the educational opportunities available to, and on the achievements of, disabled pupils and students, and
-  - (iii) the extent to which, in the case of an authority specified in Part I, V or[^key-63cd47dc5949762b7417d8a66df1a2e4] VI of Schedule 1, the services it provides and those other functions it performs take account of the needs of disabled persons; and
+  - (iii) the extent to which, in the case of an authority specified in Part I, V or[^c-63cd47dc5949762b7417d8a66df1a2e4] VI of Schedule 1, the services it provides and those other functions it performs take account of the needs of disabled persons; and
 - (e) that authority’s arrangements for making use of such information to assist it in the performance of its section 49A(1) duty and, in particular, its arrangements for—
   - (i) reviewing on a regular basis the effectiveness of the steps referred to in sub-paragraph (c), and
   - (ii) preparing subsequent Schemes.
@@ -81,21 +81,21 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (5) Such an authority may comply with the duty to publish under paragraph (1) or (4) by setting out its Scheme as part of another published document or within a number of other published documents.
 
-(6)[^key-9f9885f33f2ff69bb251c36216a3155f][^key-230d85ac980ab0296e27a71fbceaef64][^key-89ccdc75d3e73188174af78baf24beb2] Subject to paragraphs (7) to (9),[^key-fa796f31cabf3f17e32558eb42735308] in this regulation, “the relevant publication date” means—
+(6)[^c-9f9885f33f2ff69bb251c36216a3155f][^c-230d85ac980ab0296e27a71fbceaef64][^c-89ccdc75d3e73188174af78baf24beb2] Subject to paragraphs (7) to (9),[^c-fa796f31cabf3f17e32558eb42735308] in this regulation, “the relevant publication date” means—
 
 - (a) in the case of a public authority listed in Part I or II of Schedule 1, 4th December 2006;
 - (b) in the case of a public authority listed in Part III of Schedule 1, 3rd December 2007;
 - (c) in the case of a public authority listed in Part IV of Schedule 1, 1st April 2007.
-- (d)[^key-3576581830eff69ef135497a867738fa] in the case of a public authority listed in Part V of Schedule 1, 3rd December 2007.
-- (e)[^key-a172fe1c859648fbfe672ae6418a4988] in the case of a public authority listed in Part VI of Schedule 1, 1st December 2008.
+- (d)[^c-3576581830eff69ef135497a867738fa] in the case of a public authority listed in Part V of Schedule 1, 3rd December 2007.
+- (e)[^c-a172fe1c859648fbfe672ae6418a4988] in the case of a public authority listed in Part VI of Schedule 1, 1st December 2008.
 
-(7)[^key-5bf3e0935bb18c5a54a95ce30374d7bd] In the case of a public authority listed in Parts I or II of Schedule 1 which was established on or after 4th December 2006 and before 3rd December 2007, the relevant publication date is 1st December 2008.
+(7)[^c-5bf3e0935bb18c5a54a95ce30374d7bd] In the case of a public authority listed in Parts I or II of Schedule 1 which was established on or after 4th December 2006 and before 3rd December 2007, the relevant publication date is 1st December 2008.
 
 (8) In the case of a public authority listed in Parts I or II of Schedule 1 which is established on or after 3rd December 2007, the relevant publication date is the date falling twelve months after its establishment.
 
 (9) In the case of a public authority listed in Parts III to V of Schedule 1 which is established on or after the relevant publication date which would have applied to it had the public authority been established before that date, the relevant publication date is the date falling twelve months after the establishment of the public authority.
 
-## 3. Implementation of the Disability Equality Scheme[^key-96e516a13006dfd3ba70d52445f4ae61]
+## 3. Implementation of the Disability Equality Scheme[^c-96e516a13006dfd3ba70d52445f4ae61]
 
 (1) A public authority listed in Schedule 1 shall within the period of three years beginning with the date when a Scheme prepared for the purposes of regulation 2 is published—
 
@@ -106,7 +106,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (2) Nothing in this regulation imposes any duty on an authority where, in all the circumstances, it would be unreasonable or impracticable for it to perform the duty.
 
-## 4. Annual reporting[^key-a8c65c44f58dbe36cc386821b1016c90]
+## 4. Annual reporting[^c-a8c65c44f58dbe36cc386821b1016c90]
 
 (1) A public authority listed in Schedule 1 shall publish a report—
 
@@ -121,7 +121,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (3) Such an authority may comply with the duty to publish under paragraph (1) by setting out its report within another published document.
 
-## 5. Duty on public authorities listed in Schedule 2[^key-17f31a03978aec00cd8d8daccb5ccf3a]
+## 5. Duty on public authorities listed in Schedule 2[^c-17f31a03978aec00cd8d8daccb5ccf3a]
 
 (1) A reporting authority shall, in respect of its policy sector, publish a report—
 
@@ -152,9 +152,9 @@ Department for Work and Pensions
 
 Regulation 2
 
-### PART I[^key-43f1af3db96fd3e183198b66ddcc971d]
+### PART I[^c-43f1af3db96fd3e183198b66ddcc971d]
 
-- [^key-46807fa70e78224feff713ac6b664d1c]...
+- [^c-46807fa70e78224feff713ac6b664d1c]...
 - The Advisory, Conciliation and Arbitration Service
 - Any of the naval, military or air forces of the Crown (except in relation to employment in the armed forces)
 - The Arts Council of England
@@ -170,21 +170,21 @@ Regulation 2
 - The British Educational Communications and Technology Agency (BECTA)
 - The British Library
 - The British Museum
-- [^key-0cb9d4f409e0f84091f3f44d786677c0]...
+- [^c-0cb9d4f409e0f84091f3f44d786677c0]...
 - The British Transport Police
 - The British Waterways Board
-- The Care Quality Commission[^key-a8a98f95765bf4d9cbc391fd8ff53ca8]
-- [^key-28641e1c5af197ddd1722b32b9761c36]...
+- The Care Quality Commission[^c-a8a98f95765bf4d9cbc391fd8ff53ca8]
+- [^c-28641e1c5af197ddd1722b32b9761c36]...
 - The Channel Four Television Corporation, in respect of its public functions
 - The Chief Constable for the Ministry of Defence Police appointed by the Secretary of State under section 1(3) of the Ministry of Defence Police Act 1987[^f00005]
 - A chief constable of a police force maintained under section 2 of the Police Act 1996[^f00006]
 - The Children and Family Court Advisory and Support Service
 - The Children’s Commissioner for Wales
-- The Commission for Equality and Human Rights[^key-ec0e6b0616d05788128d47bcb665b766]
-- [^key-85aabf11e918688c0331445b2ec04eaf]...
+- The Commission for Equality and Human Rights[^c-ec0e6b0616d05788128d47bcb665b766]
+- [^c-85aabf11e918688c0331445b2ec04eaf]...
 - [^M_F_84ebdca4-c5c8-4e7c-a136-1f4c8e44a896]...
-- [^key-9659c7e321e87418ba01792fe598bc1d]...
-- [^key-85aabf11e918688c0331445b2ec04eaf]...
+- [^c-9659c7e321e87418ba01792fe598bc1d]...
+- [^c-85aabf11e918688c0331445b2ec04eaf]...
 - The Commissioner of Police for the City of London
 - The Commissioner of Police of the Metropolis
 - The Common Council of the City of London, in its capacity as a local authority or port health authority
@@ -192,11 +192,11 @@ Regulation 2
 - In England, a county council, a London borough council or a district council
 - In Wales, a county council or a county borough council
 - The Council of the Isles of Scilly
-- [^key-7e885b22363b934271033e202afcc631]...
+- [^c-7e885b22363b934271033e202afcc631]...
 - The Countryside Council for Wales
 - The Criminal Injuries Compensation Authority
-- [^key-f8c0650e5ace13c80b365785f44a4e68]...
-- [^key-785fa1b750b51087b3d5a5c3dd823828]...
+- [^c-f8c0650e5ace13c80b365785f44a4e68]...
+- [^c-785fa1b750b51087b3d5a5c3dd823828]...
 - The Economic & Social Research Council
 - The Electoral Commission
 - English Heritage
@@ -204,7 +204,7 @@ Regulation 2
 - English Partnerships
 - The Engineering & Physical Sciences Research Council
 - The Environment Agency
-- [^key-5422f5542b800bc6c0de14861445cdf8]...
+- [^c-5422f5542b800bc6c0de14861445cdf8]...
 - Estyn
 - The Financial Services Authority
 - A fire authority constituted by a combination scheme under section 5 or 6 of the Fire Services Act 1947[^f00007]
@@ -214,7 +214,7 @@ Regulation 2
 - The General Teaching Council for England
 - The Greater London Authority
 - A Health Authority established under section 8 of the National Health Service Act 1977[^f00008]
-- [^key-dc51430b7035654c9c323999d7a9365a]...
+- [^c-dc51430b7035654c9c323999d7a9365a]...
 - The Health and Safety Executive
 - The Heritage Lottery Fund
 - The Higher Education Funding Council for England
@@ -222,11 +222,11 @@ Regulation 2
 - The Historic Royal Palaces Trust
 - The Horniman Museum
 - A housing action trust established under Part 3 of the Housing Act 1988[^f00009]
-- The Regulator of Social Housing[^key-9e8ddc9cefca89d8a61c9e11bd79cc41]
+- The Regulator of Social Housing[^c-9e8ddc9cefca89d8a61c9e11bd79cc41]
 - The Human Fertilisation and Embryology Authority
 - The Imperial War Museum
 - The Independent Police Complaints Commission
-- the Independent Regulator of[^key-83db7fee728c8615edd570646cacc4e1] NHS Foundation Trusts
+- the Independent Regulator of[^c-83db7fee728c8615edd570646cacc4e1] NHS Foundation Trusts
 - The Independent Review Service
 - The Information Commissioner
 - A joint authority established under Part 4 of the Local Government Act 1985 (police, fire services, civil defence and transport)
@@ -256,28 +256,28 @@ Regulation 2
 - The National Maritime Museum
 - The National Museum for Science and Industry
 - A National Park Authority established by an order under s. 63 of the Environment Act 1995[^f00013]
-- The National Policing Improvement Agency[^key-0f7527c4173870e9b7f55dea41daa11e]
+- The National Policing Improvement Agency[^c-0f7527c4173870e9b7f55dea41daa11e]
 - The National Portrait Gallery
 - The Natural Environment Research Council
 - The Natural History Museum
 - The Nursing and Midwifery Council
 - Ofcom
-- [^key-7e885b22363b934271033e202afcc631]...
+- [^c-7e885b22363b934271033e202afcc631]...
 - A Passenger Transport Executive for a passenger transport area in England and Wales within the meaning of Part 2 of the Transport Act 1968[^f00014]
 - A police authority established under section 3 of the Police Act 1996
 - A primary care trust established under section 16A of the National Health Service Act 1977
-- A probation trust[^key-a7d534938ae98832edb6c8b230777b91]
+- A probation trust[^c-a7d534938ae98832edb6c8b230777b91]
 - A provider of probation services (other than the Secretary of State or a probation trust), in respect of its statutory functions and the carrying out by it of activities of a public nature in pursuance of arrangements made with it under section 3(2) of the Offender Management Act 2007
-- The Qualifications and Curriculum Development Agency (QCDA)[^key-342ff169bcc63aa52a880fcd597a2ebc]
+- The Qualifications and Curriculum Development Agency (QCDA)[^c-342ff169bcc63aa52a880fcd597a2ebc]
 - A regional development agency established under the Regional Development Agencies Act 1998[^f00015] (other than the London Development Agency)
 - Remploy Limited
-- [^key-845de21ca105a080a17d2d5a764f0693]...
-- The Science and Technology Facilities Council[^key-55d6d700fb9f166f40c37d3dda1b069e]
+- [^c-845de21ca105a080a17d2d5a764f0693]...
+- The Science and Technology Facilities Council[^c-55d6d700fb9f166f40c37d3dda1b069e]
 - The Science Museum
 - The Scottish Parliamentary Corporate Body
 - The Security Industry Authority
 - The Service Authority for the National Crime Squad
-- The Serious Organised Crime Agency[^key-3ebd64756daea795c66e2a38305d8398]
+- The Serious Organised Crime Agency[^c-3ebd64756daea795c66e2a38305d8398]
 - Sianel Pedwar Cymru (Welsh Fourth Channel Authority), in respect of its public functions
 - Sir John Soanes’s Museum
 - The Social Fund Commissioner of the Independent Review Service
@@ -295,28 +295,28 @@ Regulation 2
 - UK Sport
 - The UK Sports Council
 - The Victoria and Albert Museum
-- Visit Britain[^key-c6db799fe9f330722497ab6af182c02c]
+- Visit Britain[^c-c6db799fe9f330722497ab6af182c02c]
 - The Wallace Collection
 
-### PART II[^key-3620d565316363d86321977a617c9866]
+### PART II[^c-3620d565316363d86321977a617c9866]
 
 - The governing body of a secondary school, in England, within the meaning of section 5(2) of the Education Act 1996[^f00017], and any such school as may be determined by the Secretary of State to be treated as a secondary school under section 5(4) of that Act
 - The proprietor of a City Technology College, City College for Technology of the Arts, or an Academy
 - The governing body of an institution within the further education sector within the meaning of section 91(3) of the Further and Higher Education Act 1992[^f00018]
 - The governing body of an institution within the higher education sector within the meaning of section 91(5) of the Further and Higher Education Act 1992
-- A local authority (within the meaning of the Education Act 1996)[^key-7d5b1c5845e969049c9b09d85eb5bbdd]
+- A local authority (within the meaning of the Education Act 1996)[^c-7d5b1c5845e969049c9b09d85eb5bbdd]
 
-### PART III[^key-98e9dc37ec27088ef7fc8220ec1829a5]
+### PART III[^c-98e9dc37ec27088ef7fc8220ec1829a5]
 
 - The governing body of a primary school, in England, within the meaning of section 5(1) of the Education Act 1996, and any such school as may be determined by the Secretary of State to be treated as a primary school under section 5(4) of that Act
 - The governing body of a community special school or a foundation special school, in England, within the meaning of section 20 of the School Standards and Framework Act 1998[^f00019]
 - A local authority with respect to the pupil referral units it establishes and maintains, by virtue of section 19 of the Education Act 1996
 
-### PART IV[^key-4ec37dbaefabb64b172310b525b86cfb]
+### PART IV[^c-4ec37dbaefabb64b172310b525b86cfb]
 
-- The governing body of an educational establishment maintained by a local authority (within the meaning of the Education Act 1996)[^key-4e17d9ef024de76af031a490989df23d], in Wales
+- The governing body of an educational establishment maintained by a local authority (within the meaning of the Education Act 1996)[^c-4e17d9ef024de76af031a490989df23d], in Wales
 
-### PART V (authorities added on 6th April 2007)[^key-493f40f561b4fc99298089a82ebda14f]
+### PART V (authorities added on 6th April 2007)[^c-493f40f561b4fc99298089a82ebda14f]
 
 |  |
 | --- |
@@ -325,7 +325,7 @@ Regulation 2
 | The Board of Trustees of the Armouries |
 | The British Transport Police Authority |
 | Bwrdd yr Iaith Gymraeg (The Welsh Language Board) |
-| The Children’s Commissioner for England and 11 MILLION[^key-38fc66e66f12d231ad1aaaf5eb89cfe9] |
+| The Children’s Commissioner for England and 11 MILLION[^c-38fc66e66f12d231ad1aaaf5eb89cfe9] |
 | The Construction Industry Training Board |
 | The Council for Healthcare Regulatory Excellence |
 | Cyngor Addysgu Cyffredinol Cymru (The General Teaching Council for Wales) |
@@ -340,7 +340,7 @@ Regulation 2
 | An NHS foundation trust |
 | The National Museums and Galleries on Merseyside |
 | The Olympic Delivery Authority |
-| Passenger Focus (the operating name of the Passengers’ Council established under the Railways Act 2005)[^key-2ecd5b7fbeea137b00f99ee44f4be7a8] |
+| Passenger Focus (the operating name of the Passengers’ Council established under the Railways Act 2005)[^c-2ecd5b7fbeea137b00f99ee44f4be7a8] |
 | The Pensions Ombudsman |
 | The Pensions Regulator |
 | The Postgraduate Medical Education and Training Board |
@@ -349,7 +349,7 @@ Regulation 2
 | University for Industry |
 | The Youth Justice Board for England and Wales. |
 
-### PART VI — (authorities added on 6th April 2008)[^key-998da4dc37cf87102ab4fac1d9786bd6]
+### PART VI — (authorities added on 6th April 2008)[^c-998da4dc37cf87102ab4fac1d9786bd6]
 
 |  |
 | --- |
@@ -382,29 +382,29 @@ Regulation 2
 | The United Kingdom Atomic Energy Authority |
 | The Valuation Tribunal Service. |
 
-## SCHEDULE 2[^key-1bcdb1ce5a0089181cbce134bf0a6cbb]
+## SCHEDULE 2[^c-1bcdb1ce5a0089181cbce134bf0a6cbb]
 
 Regulation 5
 
-[^key-1bcdb1ce5a0089181cbce134bf0a6cbb]
+[^c-1bcdb1ce5a0089181cbce134bf0a6cbb]
 
 - The National Assembly for Wales
-- [^key-63f9fd6078a91a22594397c4354496c6]...
-- The Secretary of State for Business, Innovation and Skills[^key-015216eebc0f14ec7a2f189cf9c9c1cb]
-- [^key-567aa53ca0d7d2f9c55346f367104603]...
-- [^key-c03b4bbd4d212429b65112fe0b5a635b]...
-- The Secretary of State for Communities and Local Government[^key-79cefc6380dd35339b38802d4bf537af]
-- [^key-be988486b222e8b1b9e50f5d07270f2c]...
-- The Secretary of State for Culture, Olympics, Media and Sport[^key-d6e1e0d015956b5fda2ef743d4b911f0]
-- [^key-7daad8170465d4bfbd75722fa7a32481]...
-- The Secretary of State for Education[^key-52d387c5805f9d9fbf051d073db4b155]
-- The Secretary of State for Energy and Climate Change[^key-83cf66575e6d36c528649ba610587056]
+- [^c-63f9fd6078a91a22594397c4354496c6]...
+- The Secretary of State for Business, Innovation and Skills[^c-015216eebc0f14ec7a2f189cf9c9c1cb]
+- [^c-567aa53ca0d7d2f9c55346f367104603]...
+- [^c-c03b4bbd4d212429b65112fe0b5a635b]...
+- The Secretary of State for Communities and Local Government[^c-79cefc6380dd35339b38802d4bf537af]
+- [^c-be988486b222e8b1b9e50f5d07270f2c]...
+- The Secretary of State for Culture, Olympics, Media and Sport[^c-d6e1e0d015956b5fda2ef743d4b911f0]
+- [^c-7daad8170465d4bfbd75722fa7a32481]...
+- The Secretary of State for Education[^c-52d387c5805f9d9fbf051d073db4b155]
+- The Secretary of State for Energy and Climate Change[^c-83cf66575e6d36c528649ba610587056]
 - The Secretary of State for Environment, Food and Rural Affairs
 - The Secretary of State for Health
 - The Secretary of State for the Home Department
-- [^key-63f9fd6078a91a22594397c4354496c6]...
-- The Secretary of State for Justice[^key-ce27d60a3342884e91c2bbd7eb24d0a2]
-- [^key-7daad8170465d4bfbd75722fa7a32481]...
+- [^c-63f9fd6078a91a22594397c4354496c6]...
+- The Secretary of State for Justice[^c-ce27d60a3342884e91c2bbd7eb24d0a2]
+- [^c-7daad8170465d4bfbd75722fa7a32481]...
 - The Secretary of State for Transport
 - The Secretary of State for Work and Pensions
 
@@ -428,79 +428,79 @@ The regulatory impact of these Regulations was assessed as part of the regulator
 
 [^f00002]: Footnote: The consultation was conducted and consent sought in accordance with section 49D(5) to (8) of the 2005 Act.
 
-[^key-9ba4acc92348961fa79504eabcbc2601]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
+[^c-9ba4acc92348961fa79504eabcbc2601]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
 
-[^key-07dbd432787d7ccee330de5ad77ecd8a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/2) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 61(2)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/61/2)
+[^c-07dbd432787d7ccee330de5ad77ecd8a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/2) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 61(2)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/61/2)
 
-[^key-d1f0da3f9eae5459be1628eb87e5c0c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
+[^c-d1f0da3f9eae5459be1628eb87e5c0c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
 
-[^key-63cd47dc5949762b7417d8a66df1a2e4]: Textual amendment: Words in [reg. 2(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/3/d/iii) substituted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2008/641/regulation/2/a)
+[^c-63cd47dc5949762b7417d8a66df1a2e4]: Textual amendment: Words in [reg. 2(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/3/d/iii) substituted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2008/641/regulation/2/a)
 
-[^key-9f9885f33f2ff69bb251c36216a3155f]: Modification: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6) modified (1.10.2007) by [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2007/2602/schedule/paragraph/9)
+[^c-9f9885f33f2ff69bb251c36216a3155f]: Modification: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6) modified (1.10.2007) by [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2007/2602/schedule/paragraph/9)
 
-[^key-230d85ac980ab0296e27a71fbceaef64]: Modification: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6) modified (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 2 para. 12(4)](https://www.legislation.gov.uk/uksi/2008/912/schedule/2/paragraph/12/4)
+[^c-230d85ac980ab0296e27a71fbceaef64]: Modification: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6) modified (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 2 para. 12(4)](https://www.legislation.gov.uk/uksi/2008/912/schedule/2/paragraph/12/4)
 
-[^key-89ccdc75d3e73188174af78baf24beb2]: Modification: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6) modified (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/uksi/2008/912/schedule/2/paragraph/12/3)
+[^c-89ccdc75d3e73188174af78baf24beb2]: Modification: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6) modified (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/uksi/2008/912/schedule/2/paragraph/12/3)
 
-[^key-fa796f31cabf3f17e32558eb42735308]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2008/641/regulation/2/b)
+[^c-fa796f31cabf3f17e32558eb42735308]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2008/641/regulation/2/b)
 
-[^key-3576581830eff69ef135497a867738fa]: Textual amendment: [Reg. 2(6)(d)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6/d) inserted (6.4.2007) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2007 (S.I. 2007/618)](https://www.legislation.gov.uk/uksi/2007/618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/618/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2007/618/regulation/2/b)
+[^c-3576581830eff69ef135497a867738fa]: Textual amendment: [Reg. 2(6)(d)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6/d) inserted (6.4.2007) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2007 (S.I. 2007/618)](https://www.legislation.gov.uk/uksi/2007/618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/618/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2007/618/regulation/2/b)
 
-[^key-a172fe1c859648fbfe672ae6418a4988]: Textual amendment: [Reg. 2(6)(e)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6/e) added (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2008/641/regulation/2/c)
+[^c-a172fe1c859648fbfe672ae6418a4988]: Textual amendment: [Reg. 2(6)(e)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/6/e) added (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2008/641/regulation/2/c)
 
-[^key-5bf3e0935bb18c5a54a95ce30374d7bd]: Textual amendment: [Reg. 2(7)-(9)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/7) added (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2008/641/regulation/2/d)
+[^c-5bf3e0935bb18c5a54a95ce30374d7bd]: Textual amendment: [Reg. 2(7)-(9)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/2/7) added (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2008/641/regulation/2/d)
 
-[^key-96e516a13006dfd3ba70d52445f4ae61]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2966/regulation/3) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
+[^c-96e516a13006dfd3ba70d52445f4ae61]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2966/regulation/3) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
 
-[^key-a8c65c44f58dbe36cc386821b1016c90]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/2966/regulation/4) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
+[^c-a8c65c44f58dbe36cc386821b1016c90]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/2966/regulation/4) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
 
-[^key-17f31a03978aec00cd8d8daccb5ccf3a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/2966/regulation/5) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
+[^c-17f31a03978aec00cd8d8daccb5ccf3a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/2966/regulation/5) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
 
-[^key-43f1af3db96fd3e183198b66ddcc971d]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
+[^c-43f1af3db96fd3e183198b66ddcc971d]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
 
-[^key-46807fa70e78224feff713ac6b664d1c]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (6.4.2008) by virtue of [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/d)
+[^c-46807fa70e78224feff713ac6b664d1c]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (6.4.2008) by virtue of [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/d)
 
 [^f00003]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
 [^f00004]: Footnote: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-0cb9d4f409e0f84091f3f44d786677c0]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (6.4.2008) by virtue of [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/a)
+[^c-0cb9d4f409e0f84091f3f44d786677c0]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (6.4.2008) by virtue of [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/a)
 
-[^key-a8a98f95765bf4d9cbc391fd8ff53ca8]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (1.4.2009) by [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b), [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/16)
+[^c-a8a98f95765bf4d9cbc391fd8ff53ca8]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (1.4.2009) by [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b), [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/16)
 
-[^key-28641e1c5af197ddd1722b32b9761c36]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (6.4.2008) by virtue of [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/b)
+[^c-28641e1c5af197ddd1722b32b9761c36]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (6.4.2008) by virtue of [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/b)
 
 [^f00005]: Footnote: [1987 c. 4](https://www.legislation.gov.uk/ukpga/1987/4).
 
 [^f00006]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-ec0e6b0616d05788128d47bcb665b766]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (1.10.2007) by [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2007/2602/schedule/paragraph/10/b)
+[^c-ec0e6b0616d05788128d47bcb665b766]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (1.10.2007) by [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2007/2602/schedule/paragraph/10/b)
 
-[^key-85aabf11e918688c0331445b2ec04eaf]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (1.4.2009) by virtue of [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b), [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/16)
+[^c-85aabf11e918688c0331445b2ec04eaf]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (1.4.2009) by virtue of [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b), [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/16)
 
 [^M_F_84ebdca4-c5c8-4e7c-a136-1f4c8e44a896]: Textual amendment: Words in Sch. 1 Pt. I omitted (30.6.2008) by virtue of The Local Government and Public Involvement in [Health Act 2007 Consequential Provisions Order 2008 (S.I. 2008/526)](https://www.legislation.gov.uk/uksi/2008/526), [arts. 1](https://www.legislation.gov.uk/uksi/2008/526/article/1), [3](https://www.legislation.gov.uk/uksi/2008/526/article/3)
 
-[^key-9659c7e321e87418ba01792fe598bc1d]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (1.10.2007) by virtue of [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1), [Sch. para. 10(a)(i)](https://www.legislation.gov.uk/uksi/2007/2602/schedule/paragraph/10/a/i)
+[^c-9659c7e321e87418ba01792fe598bc1d]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (1.10.2007) by virtue of [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1), [Sch. para. 10(a)(i)](https://www.legislation.gov.uk/uksi/2007/2602/schedule/paragraph/10/a/i)
 
-[^key-7e885b22363b934271033e202afcc631]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (6.4.2008) by virtue of [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/c)
+[^c-7e885b22363b934271033e202afcc631]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (6.4.2008) by virtue of [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/c)
 
-[^key-f8c0650e5ace13c80b365785f44a4e68]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) entry revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 47(a)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/47/a)
+[^c-f8c0650e5ace13c80b365785f44a4e68]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) entry revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 47(a)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/47/a)
 
-[^key-785fa1b750b51087b3d5a5c3dd823828]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (1.10.2007) by virtue of [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1), [Sch. para. 10(a)(ii)](https://www.legislation.gov.uk/uksi/2007/2602/schedule/paragraph/10/a/ii)
+[^c-785fa1b750b51087b3d5a5c3dd823828]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (1.10.2007) by virtue of [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1), [Sch. para. 10(a)(ii)](https://www.legislation.gov.uk/uksi/2007/2602/schedule/paragraph/10/a/ii)
 
-[^key-5422f5542b800bc6c0de14861445cdf8]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (1.10.2007) by virtue of [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1), [Sch. para. 10(a)(iii)](https://www.legislation.gov.uk/uksi/2007/2602/schedule/paragraph/10/a/iii)
+[^c-5422f5542b800bc6c0de14861445cdf8]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (1.10.2007) by virtue of [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1), [Sch. para. 10(a)(iii)](https://www.legislation.gov.uk/uksi/2007/2602/schedule/paragraph/10/a/iii)
 
 [^f00007]: Footnote: [1947 c. 41](https://www.legislation.gov.uk/ukpga/1947/41). Sections 5 and 6 were repealed, in relation to England and Wales, by the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), but a scheme in force immediately before the repeal of those sections is given continued effect.
 
 [^f00008]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-dc51430b7035654c9c323999d7a9365a]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+[^c-dc51430b7035654c9c323999d7a9365a]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
 
 [^f00009]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 
-[^key-9e8ddc9cefca89d8a61c9e11bd79cc41]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) substituted (1.12.2008) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2008 (S.I. 2008/2831)](https://www.legislation.gov.uk/uksi/2008/2831), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/2831/schedule/2/paragraph/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2008/2831/schedule/3), [Sch. 4 paras. 5](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/5), [6](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/6)); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/b)
+[^c-9e8ddc9cefca89d8a61c9e11bd79cc41]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) substituted (1.12.2008) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2008 (S.I. 2008/2831)](https://www.legislation.gov.uk/uksi/2008/2831), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/2831/schedule/2/paragraph/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2008/2831/schedule/3), [Sch. 4 paras. 5](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/5), [6](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/6)); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/b)
 
-[^key-83db7fee728c8615edd570646cacc4e1]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) substituted (6.4.2007) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2007 (S.I. 2007/618)](https://www.legislation.gov.uk/uksi/2007/618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/618/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2007/618/regulation/3/a)
+[^c-83db7fee728c8615edd570646cacc4e1]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) substituted (6.4.2007) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2007 (S.I. 2007/618)](https://www.legislation.gov.uk/uksi/2007/618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/618/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2007/618/regulation/3/a)
 
 [^f00010]: Footnote: [1992 c. 19](https://www.legislation.gov.uk/ukpga/1992/19).
 
@@ -510,68 +510,68 @@ The regulatory impact of these Regulations was assessed as part of the regulator
 
 [^f00013]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-0f7527c4173870e9b7f55dea41daa11e]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/b)
+[^c-0f7527c4173870e9b7f55dea41daa11e]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/b)
 
 [^f00014]: Footnote: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73).
 
-[^key-a7d534938ae98832edb6c8b230777b91]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2008/912/schedule/2/paragraph/12/2)
+[^c-a7d534938ae98832edb6c8b230777b91]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2008/912/schedule/2/paragraph/12/2)
 
-[^key-342ff169bcc63aa52a880fcd597a2ebc]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) substituted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009, Parts 7 and 8 (Consequential Amendments) Order 2010 (S.I. 2010/677)](https://www.legislation.gov.uk/uksi/2010/677), [arts. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1), [14](https://www.legislation.gov.uk/uksi/2010/677/article/14)
+[^c-342ff169bcc63aa52a880fcd597a2ebc]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) substituted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009, Parts 7 and 8 (Consequential Amendments) Order 2010 (S.I. 2010/677)](https://www.legislation.gov.uk/uksi/2010/677), [arts. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1), [14](https://www.legislation.gov.uk/uksi/2010/677/article/14)
 
 [^f00015]: Footnote: [1998 c. 45](https://www.legislation.gov.uk/ukpga/1998/45).
 
-[^key-845de21ca105a080a17d2d5a764f0693]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (6.4.2007) by virtue of [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2007 (S.I. 2007/618)](https://www.legislation.gov.uk/uksi/2007/618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/618/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/618/regulation/3/b)
+[^c-845de21ca105a080a17d2d5a764f0693]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) omitted (6.4.2007) by virtue of [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2007 (S.I. 2007/618)](https://www.legislation.gov.uk/uksi/2007/618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/618/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/618/regulation/3/b)
 
-[^key-55d6d700fb9f166f40c37d3dda1b069e]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/c)
+[^c-55d6d700fb9f166f40c37d3dda1b069e]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/c)
 
-[^key-3ebd64756daea795c66e2a38305d8398]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) entries substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 47(b)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/47/b)
+[^c-3ebd64756daea795c66e2a38305d8398]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) entries substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 47(b)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/47/b)
 
-[^key-c6db799fe9f330722497ab6af182c02c]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/a)
+[^c-c6db799fe9f330722497ab6af182c02c]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/I) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/1/a)
 
-[^key-3620d565316363d86321977a617c9866]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/II) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
+[^c-3620d565316363d86321977a617c9866]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/II) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
 
 [^f00017]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
 [^f00018]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-7d5b1c5845e969049c9b09d85eb5bbdd]: Textual amendment: Words in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/II) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 61(3)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/61/3)
+[^c-7d5b1c5845e969049c9b09d85eb5bbdd]: Textual amendment: Words in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/II) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 61(3)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/61/3)
 
-[^key-98e9dc37ec27088ef7fc8220ec1829a5]: Commencement: [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/III) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
+[^c-98e9dc37ec27088ef7fc8220ec1829a5]: Commencement: [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/III) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
 
 [^f00019]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
 
-[^key-4ec37dbaefabb64b172310b525b86cfb]: Commencement: [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/IV) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
+[^c-4ec37dbaefabb64b172310b525b86cfb]: Commencement: [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/IV) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
 
-[^key-4e17d9ef024de76af031a490989df23d]: Textual amendment: Words in [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/IV) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 61(3)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/61/3)
+[^c-4e17d9ef024de76af031a490989df23d]: Textual amendment: Words in [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/IV) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 61(3)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/61/3)
 
-[^key-493f40f561b4fc99298089a82ebda14f]: Textual amendment: [Sch. 1 Pt. V](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/5) inserted (6.4.2007) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2007 (S.I. 2007/618)](https://www.legislation.gov.uk/uksi/2007/618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/618/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2007/618/regulation/4)
+[^c-493f40f561b4fc99298089a82ebda14f]: Textual amendment: [Sch. 1 Pt. V](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/5) inserted (6.4.2007) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2007 (S.I. 2007/618)](https://www.legislation.gov.uk/uksi/2007/618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/618/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2007/618/regulation/4)
 
-[^key-38fc66e66f12d231ad1aaaf5eb89cfe9]: Textual amendment: Words in [Sch. 1 Pt. V](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/5) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/2)
+[^c-38fc66e66f12d231ad1aaaf5eb89cfe9]: Textual amendment: Words in [Sch. 1 Pt. V](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/5) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/641/regulation/3/2)
 
-[^key-2ecd5b7fbeea137b00f99ee44f4be7a8]: Textual amendment: Words in [Sch. 1 Pt. V](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/5) substituted (25.2.2010) by The Passengers’ [Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/12)
+[^c-2ecd5b7fbeea137b00f99ee44f4be7a8]: Textual amendment: Words in [Sch. 1 Pt. V](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/5) substituted (25.2.2010) by The Passengers’ [Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/12)
 
-[^key-998da4dc37cf87102ab4fac1d9786bd6]: Textual amendment: [Sch. 1 Pt. VI](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/VI) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2008/641/regulation/4)
+[^c-998da4dc37cf87102ab4fac1d9786bd6]: Textual amendment: [Sch. 1 Pt. VI](https://www.legislation.gov.uk/uksi/2005/2966/schedule/1/part/VI) inserted (6.4.2008) by [The Disability Discrimination (Public Authorities) (Statutory Duties) (Amendment) Regulations 2008 (S.I. 2008/641)](https://www.legislation.gov.uk/uksi/2008/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/641/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2008/641/regulation/4)
 
-[^key-1bcdb1ce5a0089181cbce134bf0a6cbb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
+[^c-1bcdb1ce5a0089181cbce134bf0a6cbb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2966/regulation/1/1)
 
-[^key-63f9fd6078a91a22594397c4354496c6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) omitted (13.11.2009) by virtue of [The Secretary of State for Business, Innovation and Skills Order 2009 (S.I. 2009/2748)](https://www.legislation.gov.uk/uksi/2009/2748), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2748/article/1/2), [Sch. para. 33(a)](https://www.legislation.gov.uk/uksi/2009/2748/schedule/paragraph/33/a)
+[^c-63f9fd6078a91a22594397c4354496c6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) omitted (13.11.2009) by virtue of [The Secretary of State for Business, Innovation and Skills Order 2009 (S.I. 2009/2748)](https://www.legislation.gov.uk/uksi/2009/2748), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2748/article/1/2), [Sch. para. 33(a)](https://www.legislation.gov.uk/uksi/2009/2748/schedule/paragraph/33/a)
 
-[^key-015216eebc0f14ec7a2f189cf9c9c1cb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) inserted (13.11.2009) by [The Secretary of State for Business, Innovation and Skills Order 2009 (S.I. 2009/2748)](https://www.legislation.gov.uk/uksi/2009/2748), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2748/article/1/2), [Sch. para. 33(b)](https://www.legislation.gov.uk/uksi/2009/2748/schedule/paragraph/33/b)
+[^c-015216eebc0f14ec7a2f189cf9c9c1cb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) inserted (13.11.2009) by [The Secretary of State for Business, Innovation and Skills Order 2009 (S.I. 2009/2748)](https://www.legislation.gov.uk/uksi/2009/2748), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2748/article/1/2), [Sch. para. 33(b)](https://www.legislation.gov.uk/uksi/2009/2748/schedule/paragraph/33/b)
 
-[^key-567aa53ca0d7d2f9c55346f367104603]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) omitted (18.8.2010) by virtue of [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/7/a)
+[^c-567aa53ca0d7d2f9c55346f367104603]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) omitted (18.8.2010) by virtue of [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/7/a)
 
-[^key-c03b4bbd4d212429b65112fe0b5a635b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) omitted (21.8.2006) by virtue of [The Secretary of State for Communities and Local Government Order 2006 (S.I. 2006/1926)](https://www.legislation.gov.uk/uksi/2006/1926), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/1926/article/1/2), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2006/1926/schedule/paragraph/9/2)
+[^c-c03b4bbd4d212429b65112fe0b5a635b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) omitted (21.8.2006) by virtue of [The Secretary of State for Communities and Local Government Order 2006 (S.I. 2006/1926)](https://www.legislation.gov.uk/uksi/2006/1926), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/1926/article/1/2), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2006/1926/schedule/paragraph/9/2)
 
-[^key-79cefc6380dd35339b38802d4bf537af]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) inserted (21.8.2006) by [The Secretary of State for Communities and Local Government Order 2006 (S.I. 2006/1926)](https://www.legislation.gov.uk/uksi/2006/1926), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/1926/article/1/2), [Sch. para. 9(3)](https://www.legislation.gov.uk/uksi/2006/1926/schedule/paragraph/9/3)
+[^c-79cefc6380dd35339b38802d4bf537af]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) inserted (21.8.2006) by [The Secretary of State for Communities and Local Government Order 2006 (S.I. 2006/1926)](https://www.legislation.gov.uk/uksi/2006/1926), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/1926/article/1/2), [Sch. para. 9(3)](https://www.legislation.gov.uk/uksi/2006/1926/schedule/paragraph/9/3)
 
-[^key-be988486b222e8b1b9e50f5d07270f2c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) omitted (22.8.2007) by virtue of [The Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2128/article/1/2), [Sch. para. 22(2)](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/22/2)
+[^c-be988486b222e8b1b9e50f5d07270f2c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) omitted (22.8.2007) by virtue of [The Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2128/article/1/2), [Sch. para. 22(2)](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/22/2)
 
-[^key-d6e1e0d015956b5fda2ef743d4b911f0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) substituted (7.7.2010) by [The Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/11)
+[^c-d6e1e0d015956b5fda2ef743d4b911f0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) substituted (7.7.2010) by [The Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/11)
 
-[^key-7daad8170465d4bfbd75722fa7a32481]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) omitted (12.12.2007) by virtue of [The Secretaries of State for Children, Schools and Families, for Innovation, Universities and Skills and for Business, Enterprise and Regulatory Reform Order 2007 (S.I. 2007/3224)](https://www.legislation.gov.uk/uksi/2007/3224), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/3224/article/1/2), [Sch. para. 57(a)](https://www.legislation.gov.uk/uksi/2007/3224/schedule/paragraph/57/a)
+[^c-7daad8170465d4bfbd75722fa7a32481]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) omitted (12.12.2007) by virtue of [The Secretaries of State for Children, Schools and Families, for Innovation, Universities and Skills and for Business, Enterprise and Regulatory Reform Order 2007 (S.I. 2007/3224)](https://www.legislation.gov.uk/uksi/2007/3224), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/3224/article/1/2), [Sch. para. 57(a)](https://www.legislation.gov.uk/uksi/2007/3224/schedule/paragraph/57/a)
 
-[^key-52d387c5805f9d9fbf051d073db4b155]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) inserted (18.8.2010) by [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/7/b)
+[^c-52d387c5805f9d9fbf051d073db4b155]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) inserted (18.8.2010) by [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/7/b)
 
-[^key-83cf66575e6d36c528649ba610587056]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) inserted (5.3.2009) by [The Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2009/229/schedule/2/paragraph/17)
+[^c-83cf66575e6d36c528649ba610587056]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) inserted (5.3.2009) by [The Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2009/229/schedule/2/paragraph/17)
 
-[^key-ce27d60a3342884e91c2bbd7eb24d0a2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) inserted (22.8.2007) by [The Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2128/article/1/2), [Sch. para. 22(3)](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/22/3)
+[^c-ce27d60a3342884e91c2bbd7eb24d0a2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2966/schedule/2) inserted (22.8.2007) by [The Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2128/article/1/2), [Sch. para. 22(3)](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/22/3)

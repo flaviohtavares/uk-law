@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 5 of, as read with paragraph 3 of Schedule 3 to, the Public Expenditure and Receipts Act 1968[^f00001]:
 
-## 1. Citation and commencement[^key-5a5dfd1543efb7165fc6235c7f9e8f52]
+## 1. Citation and commencement[^c-5a5dfd1543efb7165fc6235c7f9e8f52]
 
 This Order may be cited as the Lyon Court and Office Fees (Variation) Order 2008 and shall come into force on 23rd May 2008.
 
-## 2. Variation of fees[^key-a5768840f6f12cff30ba7896a5b34d8b]
+## 2. Variation of fees[^c-a5768840f6f12cff30ba7896a5b34d8b]
 
 Schedule B to the Lyon King of Arms Act 1867[^f00002] is amended in accordance with Article 3 of, and Schedules 1 and 2 to, this Order.
 
-**3.**[^key-cb54b72bf60a823a69954ba721539e6d] (1) The entries and corresponding fees in Schedule B listed in Schedule 1 are deleted.
+**3.**[^c-cb54b72bf60a823a69954ba721539e6d] (1) The entries and corresponding fees in Schedule B listed in Schedule 1 are deleted.
 
 (2) The contents of Schedule 2 are inserted as Part 1 (fees payable in respect of reserved functions) at the beginning of Schedule B.
 
@@ -68,7 +68,7 @@ London
 
 28th April 2008
 
-## SCHEDULE 1[^key-db00807ebba1a985f9217d790f011f07]
+## SCHEDULE 1[^c-db00807ebba1a985f9217d790f011f07]
 
 Article 2 and 3
 
@@ -94,7 +94,7 @@ Article 2 and 3
 
 Article 2 and 3
 
-### PART 1 — Fees payable in respect of reserved functions[^key-9fd5de364381000c2f935c50286e29e8]
+### PART 1 — Fees payable in respect of reserved functions[^c-9fd5de364381000c2f935c50286e29e8]
 
 <table>
 <thead>
@@ -129,19 +129,19 @@ This Order varies the fees payable in respect of reserved functions in Schedule 
 
 [^f00001]: Footnote: [1968 c. 14](https://www.legislation.gov.uk/ukpga/1968/14).
 
-[^key-5a5dfd1543efb7165fc6235c7f9e8f52]: Commencement: Art. 1 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1166/article/1)
+[^c-5a5dfd1543efb7165fc6235c7f9e8f52]: Commencement: Art. 1 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1166/article/1)
 
-[^key-a5768840f6f12cff30ba7896a5b34d8b]: Commencement: Art. 2 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1166/article/1)
+[^c-a5768840f6f12cff30ba7896a5b34d8b]: Commencement: Art. 2 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1166/article/1)
 
 [^f00002]: Footnote: [1867 c. 17](https://www.legislation.gov.uk/ukpga/1867/17); Schedule B was last amended by article 3 of, and the Schedule to, S.I. [1996/413 (S.29)](https://www.legislation.gov.uk/uksi/1996/413).
 
-[^key-cb54b72bf60a823a69954ba721539e6d]: Commencement: Art. 3 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1166/article/1)
+[^c-cb54b72bf60a823a69954ba721539e6d]: Commencement: Art. 3 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1166/article/1)
 
-[^key-db00807ebba1a985f9217d790f011f07]: Commencement: Sch. 1 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1166/article/1)
+[^c-db00807ebba1a985f9217d790f011f07]: Commencement: Sch. 1 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1166/article/1)
 
 [^f00003]: Footnote: This column shows the fees which were payable in respect of the matters to which they relate under Schedule B to the Lyon King of Arms Act 1867, as amended by S.I. [1995/132](https://www.legislation.gov.uk/uksi/1995/132) and S.I. [1996/413 (S.29)](https://www.legislation.gov.uk/uksi/1996/413), before the coming into force of this Order.
 
-[^key-9fd5de364381000c2f935c50286e29e8]: Commencement: Sch. 2 Pt. 1 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1166/article/1)
+[^c-9fd5de364381000c2f935c50286e29e8]: Commencement: Sch. 2 Pt. 1 in force at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1166/article/1)
 
 [^f00004]: Footnote: [1890 c. 39](https://www.legislation.gov.uk/ukpga/1890/39). Section 1 of the 1890 Act was amended by section 1 of, and Part X of Schedule 1 to, the Statute Law (Repeals) Act [1998 (c. 43)](https://www.legislation.gov.uk/ukpga/1998/43).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 888DA. Payments of interest by a QAHC[^key-ab25c02f100b077d0a6f7ca101ca2194]
+## 888DA. Payments of interest by a QAHC[^c-ab25c02f100b077d0a6f7ca101ca2194]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The duty to deduct a sum representing income tax under section 874 does not appl
 
 ## Annotations
 
-[^key-ab25c02f100b077d0a6f7ca101ca2194]: Textual amendment: [S. 888DA](https://www.legislation.gov.uk/ukpga/2007/3/section/888DA) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/55)
+[^c-ab25c02f100b077d0a6f7ca101ca2194]: Textual amendment: [S. 888DA](https://www.legislation.gov.uk/ukpga/2007/3/section/888DA) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/55)

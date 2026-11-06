@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 23 — Data-gathering powers[^key-0708a9c1ee36b86742c4713c1c3c46d8][^key-4a6bcc9abf3eb243d6bb49707dcd46fd]
+## SCHEDULE 23 — Data-gathering powers[^c-0708a9c1ee36b86742c4713c1c3c46d8][^c-4a6bcc9abf3eb243d6bb49707dcd46fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -198,7 +198,7 @@ Section 86(1)
 
 **13.** A person who (in whatever capacity) is in receipt of money or value of or belonging to another is a relevant data-holder.
 
-#### Merchant acquirers etc[^key-113193cb4c147e361b5264db644c71e8]
+#### Merchant acquirers etc[^c-113193cb4c147e361b5264db644c71e8]
 
 **13A.** (1) A person who has a contractual obligation to make payments to retailers in settlement of payment card transactions is a relevant data-holder.
 
@@ -210,7 +210,7 @@ Section 86(1)
 
 (3) In this paragraph any reference to a payment card being accepted as payment includes a reference to any account number or other indicators associated with a payment card being accepted as payment.
 
-#### Providers of electronic stored-value payment services[^key-f2dae7bb75b87c03f9464973ac80a6b6]
+#### Providers of electronic stored-value payment services[^c-f2dae7bb75b87c03f9464973ac80a6b6]
 
 **13B.** (1) A person who provides electronic stored-value payment services is a relevant data-holder.
 
@@ -229,7 +229,7 @@ is a relevant data-holder.
 
 (3) For the purposes of this paragraph, information about transactions includes information that is capable of indicating the likely quantity or value of transactions.
 
-#### 13D. Money service businesses[^key-0e3f8ee36211bf1ad5851c52cffca38b]
+#### 13D. Money service businesses[^c-0e3f8ee36211bf1ad5851c52cffca38b]
 
 (1) A person is a relevant data-holder if the person—
 
@@ -245,8 +245,8 @@ is a relevant data-holder.
 
 (3) An excluded credit institution is a credit institution which has permission to carry on the regulated activity of accepting deposits—
 
-- (a) under Part 4A of the Financial Services and Markets Act 2000 (permission to carry on regulated activities), [^key-9619e8ab391c4b104a1f748d41aa3773]...
-- (b)[^key-9076a1df47d18443a617009105981b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) under Part 4A of the Financial Services and Markets Act 2000 (permission to carry on regulated activities), [^c-9619e8ab391c4b104a1f748d41aa3773]...
+- (b)[^c-9076a1df47d18443a617009105981b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Sub-paragraph (3) is to be read with section 22 of and Schedule 2 to the Financial Services and Markets Act 2000, and any order under that section (classes of regulated activities).
 
@@ -292,7 +292,7 @@ is a relevant data-holder.
 
 #### Licences, approvals etc
 
-**17.**[^key-3657baebba1d60d7a1a3288c3202d28b] (1) A person by whom licences or approvals are issued or a register is maintained is a relevant data-holder.
+**17.**[^c-3657baebba1d60d7a1a3288c3202d28b] (1) A person by whom licences or approvals are issued or a register is maintained is a relevant data-holder.
 
 (2) “ **Register** ” includes—
 
@@ -315,7 +315,7 @@ is a relevant data-holder.
 **19.** (1) Each of the following is a relevant data-holder—
 
 - (a) a person who effects or is a party to securities transactions wholly or partly on behalf of others (whether as agent or principal),
-- (b) a person who, in the course of business, acts as registrar or administrator in respect of securities transactions (including a person who manages a clearing house or a central securities depository as defined in point (1) of Article 2(1) of Regulation ([^key-769f6c0e18bf88839b02bbc4a4dd838d]EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories for any terminal market in securities),
+- (b) a person who, in the course of business, acts as registrar or administrator in respect of securities transactions (including a person who manages a clearing house or a central securities depository as defined in point (1) of Article 2(1) of Regulation ([^c-769f6c0e18bf88839b02bbc4a4dd838d]EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories for any terminal market in securities),
 - (c) a person who makes a payment derived from securities to anyone other than the registered or inscribed holder of the securities,
 - (d) a person who makes a payment derived from bearer securities, and
 - (e) an accountable person within the meaning of the Stamp Duty Reserve Tax Regulations 1986 ( S.I. 1986/1711).
@@ -341,7 +341,7 @@ is a relevant data-holder.
 
 **20.** Each of the following is a relevant data-holder—
 
-- (a) the committee or other person or body of persons responsible for managing a clearing house or a central securities depository (as defined in paragraph 19)[^key-2b718764984fa880757440bcc162946c] for any terminal market in commodities,
+- (a) the committee or other person or body of persons responsible for managing a clearing house or a central securities depository (as defined in paragraph 19)[^c-2b718764984fa880757440bcc162946c] for any terminal market in commodities,
 - (b) an auctioneer,
 - (c) a person carrying on a business of dealing in any description of tangible movable property, and
 - (d) a person carrying on a business of acting as an agent or intermediary in dealings in any description of tangible movable property.
@@ -376,9 +376,9 @@ is a relevant data-holder.
 
 **25.** A person who is involved (in any capacity) in any of the following activities is a relevant data-holder—
 
-- (a) subjecting aggregate to exploitation in England, Wales or Northern Ireland[^key-2c3386ab2c9d1b0e0ec5a71bc8506a6c] (as defined for the purposes of Part 2 of FA 2001) or connected activities,
+- (a) subjecting aggregate to exploitation in England, Wales or Northern Ireland[^c-2c3386ab2c9d1b0e0ec5a71bc8506a6c] (as defined for the purposes of Part 2 of FA 2001) or connected activities,
 - (b) making or receiving supplies of taxable commodities (as defined for the purposes of Schedule 6 to FA 2000) or connected activities, and
-- (c) disposal of material[^key-a49a7b4d631a4e1d0681f5e46baf029a] (as defined for the purposes of Part 3 of FA 1996).
+- (c) disposal of material[^c-a49a7b4d631a4e1d0681f5e46baf029a] (as defined for the purposes of Part 3 of FA 1996).
 
 #### Settlements
 
@@ -516,12 +516,12 @@ the data-holder is liable to a further penalty, for each subsequent day on which
 
 #### Right to appeal against penalty
 
-**36.** (1)[^key-cc341da5d8e411a44fee3fb8d615cf43] The data-holder may appeal against a decision by an officer of Revenue and Customs—
+**36.** (1)[^c-cc341da5d8e411a44fee3fb8d615cf43] The data-holder may appeal against a decision by an officer of Revenue and Customs—
 
 - (a) that a penalty is payable under paragraph 30, 31 or 32, or
 - (b) as to the amount of such a penalty.
 
-(2)[^key-0ac60e3c7b993cc5177c944bdce223ab] But sub-paragraph (1)(b) does not give a right of appeal against the amount of an increased daily penalty payable by virtue of paragraph 38.
+(2)[^c-0ac60e3c7b993cc5177c944bdce223ab] But sub-paragraph (1)(b) does not give a right of appeal against the amount of an increased daily penalty payable by virtue of paragraph 38.
 
 #### Procedure on appeal against penalty
 
@@ -548,28 +548,28 @@ the data-holder is liable to a further penalty, for each subsequent day on which
 
 - (a) a penalty under paragraph 31 is assessed under paragraph 35,
 - (b) the failure in respect of which that assessment is made continues for more than 30 days beginning with the date on which notification of that assessment is given, and
-- (c) the data-holder has been told that an application may be made under this paragraph for an increased daily penalty to be assessable[^key-7e7e3609902b777bda201edd187777de].
+- (c) the data-holder has been told that an application may be made under this paragraph for an increased daily penalty to be assessable[^c-7e7e3609902b777bda201edd187777de].
 
-(2) If this paragraph applies, an officer of Revenue and Customs may make an application to the tribunal for an increased daily penalty to be assessable[^key-39281077c9cf011172d346d3227e9c59] on the data-holder.
+(2) If this paragraph applies, an officer of Revenue and Customs may make an application to the tribunal for an increased daily penalty to be assessable[^c-39281077c9cf011172d346d3227e9c59] on the data-holder.
 
-(3)[^key-5eb3b36f51b9db043dd439b4d4500939] If the tribunal decides that an increased daily penalty should be assessable—
+(3)[^c-5eb3b36f51b9db043dd439b4d4500939] If the tribunal decides that an increased daily penalty should be assessable—
 
 - (a) the tribunal must determine the day from which the increased daily penalty is to apply and the maximum amount of that penalty (“the new maximum amount”);
 - (b) from that day, paragraph 31 has effect in the data-holder’s case as if “the new maximum amount” were substituted for “£60”.
 
 (4) The new maximum amount may not be more than £1,000.
 
-(5) But subject to that, in determining the new maximum amount[^key-9884e533c3ecdac051784cd7510c1a11] the tribunal must have regard to—
+(5) But subject to that, in determining the new maximum amount[^c-9884e533c3ecdac051784cd7510c1a11] the tribunal must have regard to—
 
 - (a) the likely cost to the data-holder of complying with the data-holder notice,
 - (b) any benefits to the data-holder of not complying with it, and
 - (c) any benefits to anyone else resulting from the data-holder's non-compliance.
 
-**39.** (1) If the tribunal makes a determination[^key-ad83f15117f02fef35082638a296dd0f] under paragraph 38, HMRC must notify the data-holder.
+**39.** (1) If the tribunal makes a determination[^c-ad83f15117f02fef35082638a296dd0f] under paragraph 38, HMRC must notify the data-holder.
 
-(2) The notification must specify the new maximum amount and the day from which it applies[^key-84832f3668218519a17093e0affe3d38].
+(2) The notification must specify the new maximum amount and the day from which it applies[^c-84832f3668218519a17093e0affe3d38].
 
-(3)[^key-2ceb74e68a7146bb39dcaf569c5df704] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2ceb74e68a7146bb39dcaf569c5df704] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Enforcement of penalties
 
@@ -577,7 +577,7 @@ the data-holder is liable to a further penalty, for each subsequent day on which
 
 (2) That date is—
 
-- (a) the date on which notification under paragraph 35 [^key-3ae0c464fadb38362d5f868963177194]... is given in respect of the penalty, or
+- (a) the date on which notification under paragraph 35 [^c-3ae0c464fadb38362d5f868963177194]... is given in respect of the penalty, or
 - (b) if (in the case of a penalty under paragraph 30, 31 or 32) a notice of appeal under paragraph 36 is given, the date on which the appeal is finally determined or withdrawn.
 
 (3) A penalty under this Schedule may be enforced as if it were income tax charged in an assessment and due and payable.
@@ -620,12 +620,12 @@ the data-holder is liable to a further penalty, for each subsequent day on which
 
 #### Tax
 
-**45.** (1)[^key-dad1505c1418826d515db30becc139ec] In this Schedule “**tax**” means any or all of the following—
+**45.** (1)[^c-dad1505c1418826d515db30becc139ec] In this Schedule “**tax**” means any or all of the following—
 
 - (a) income tax,
 - (b) capital gains tax,
 - (c) corporation tax,
-- (ca)[^key-7626600ba8a4878d0f491133c60eabb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ca)[^c-7626600ba8a4878d0f491133c60eabb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) VAT,
 - (e) insurance premium tax,
 - (f) inheritance tax,
@@ -641,14 +641,14 @@ the data-holder is liable to a further penalty, for each subsequent day on which
 
 (3) “**VAT**” means—
 
-- (a) value added tax charged in accordance with VATA 1994, [^key-f03b2ee18b31d2afee79b394e1cedf4c]...
-- (b)[^key-f03b2ee18b31d2afee79b394e1cedf4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) value added tax charged in accordance with VATA 1994, [^c-f03b2ee18b31d2afee79b394e1cedf4c]...
+- (b)[^c-f03b2ee18b31d2afee79b394e1cedf4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 and includes any amount that is recoverable under paragraph 5(2) of Schedule 11 to VATA 1994 (amounts shown on invoices as VAT).
 
 (4) “**Relevant foreign tax**” means—
 
-- (a) a tax of a member State [^key-ce9301528a6eb5880cdf16c141c77f8c]... which is covered by the provisions for the exchange of information under the Council Directive 2011/16/[^key-8280eb7ab004f62a0dc1952d7211de56]EU of 15 February 2011 on administrative cooperation in the field of taxation (as amended from time to time), and
+- (a) a tax of a member State [^c-ce9301528a6eb5880cdf16c141c77f8c]... which is covered by the provisions for the exchange of information under the Council Directive 2011/16/[^c-8280eb7ab004f62a0dc1952d7211de56]EU of 15 February 2011 on administrative cooperation in the field of taxation (as amended from time to time), and
 - (b) any tax or duty which is imposed under the law of a territory in relation to which arrangements having effect by virtue of section 173 of FA 2006 (international tax enforcement arrangements) have been made and which is covered by the arrangements.
 
 #### Statutory records
@@ -683,7 +683,7 @@ and includes any amount that is recoverable under paragraph 5(2) of Schedule 11 
   - (c) warrants or other instruments entitling the holder to subscribe for or otherwise acquire anything within paragraph (a) or (b),
 
   issued by or on behalf of a person resident in, or a government or public or local authority of, any country (including a country outside the United Kingdom);
-- “**shares**” is to be construed in accordance with section 99[^key-4db91c49e34e3e197bc6c421fc480676] of TCGA 1992;
+- “**shares**” is to be construed in accordance with section 99[^c-4db91c49e34e3e197bc6c421fc480676] of TCGA 1992;
 - “**tax functions**” means functions relating to tax;
 - “**the tribunal**” means the First-tier Tribunal or, where determined by or under the Tribunal Procedure Rules, the Upper Tribunal.
 
@@ -833,7 +833,7 @@ and includes any amount that is recoverable under paragraph 5(2) of Schedule 11 
 - (e) section 1097 (information about person for whom chargeable payment is received), and
 - (f) section 1102(2) (non-qualifying distributions etc: additional information).
 
-(3)[^key-c5f2ffdb34856bfc9eb3e638263491aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c5f2ffdb34856bfc9eb3e638263491aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 7 — Application of this Schedule
 
@@ -846,60 +846,60 @@ and includes any amount that is recoverable under paragraph 5(2) of Schedule 11 
 
 ## Annotations
 
-[^key-0708a9c1ee36b86742c4713c1c3c46d8]: Modification: Sch. 23 applied by S.I. 2009/470 reg. 33(1) (as substituted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2013 (S.I. 2013/607)](https://www.legislation.gov.uk/uksi/2013/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/607/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2013/607/regulation/9)))
+[^c-0708a9c1ee36b86742c4713c1c3c46d8]: Modification: Sch. 23 applied by S.I. 2009/470 reg. 33(1) (as substituted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2013 (S.I. 2013/607)](https://www.legislation.gov.uk/uksi/2013/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/607/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2013/607/regulation/9)))
 
-[^key-4a6bcc9abf3eb243d6bb49707dcd46fd]: Modification: Sch. 23 applied (16.6.2016) (with application in accordance with reg. 1 of the amending S.I.) by [The Education (Postgraduate Masters Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [43(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/43/1)
+[^c-4a6bcc9abf3eb243d6bb49707dcd46fd]: Modification: Sch. 23 applied (16.6.2016) (with application in accordance with reg. 1 of the amending S.I.) by [The Education (Postgraduate Masters Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [43(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/43/1)
 
-[^key-113193cb4c147e361b5264db644c71e8]: Textual amendment: Sch. 23 para. 13A and cross-heading inserted (with application in accordance with s. 228(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) , [s. 228(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/228/1)
+[^c-113193cb4c147e361b5264db644c71e8]: Textual amendment: Sch. 23 para. 13A and cross-heading inserted (with application in accordance with s. 228(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) , [s. 228(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/228/1)
 
-[^key-f2dae7bb75b87c03f9464973ac80a6b6]: Textual amendment: Sch. 23 paras. 13B, 13C and cross-headings inserted (with application in accordance with s. 176(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 176(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/176/1)
+[^c-f2dae7bb75b87c03f9464973ac80a6b6]: Textual amendment: Sch. 23 paras. 13B, 13C and cross-headings inserted (with application in accordance with s. 176(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 176(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/176/1)
 
-[^key-0e3f8ee36211bf1ad5851c52cffca38b]: Textual amendment: Sch. 23 para. 13D and cross-heading inserted (with application in accordance with s. 69(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/69/1)
+[^c-0e3f8ee36211bf1ad5851c52cffca38b]: Textual amendment: Sch. 23 para. 13D and cross-heading inserted (with application in accordance with s. 69(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/69/1)
 
-[^key-9619e8ab391c4b104a1f748d41aa3773]: Textual amendment: Word in Sch. 23 para. 13D(3)(a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/3/a/i) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9619e8ab391c4b104a1f748d41aa3773]: Textual amendment: Word in Sch. 23 para. 13D(3)(a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/3/a/i) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9076a1df47d18443a617009105981b19]: Textual amendment: Sch. 23 para. 13D(3)(b) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/3/a/ii) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9076a1df47d18443a617009105981b19]: Textual amendment: Sch. 23 para. 13D(3)(b) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/3/a/ii) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3657baebba1d60d7a1a3288c3202d28b]: Modification: [Sch. 23 para. 17](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/17) modified (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 39(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/39/5), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-3657baebba1d60d7a1a3288c3202d28b]: Modification: [Sch. 23 para. 17](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/17) modified (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 39(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/39/5), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
 
-[^key-769f6c0e18bf88839b02bbc4a4dd838d]: Textual amendment: Words in [Sch. 23 para. 19(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/19/1/b) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 15(a)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/15/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-769f6c0e18bf88839b02bbc4a4dd838d]: Textual amendment: Words in [Sch. 23 para. 19(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/19/1/b) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 15(a)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/15/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
-[^key-2b718764984fa880757440bcc162946c]: Textual amendment: Words in [Sch. 23 para. 20(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/20/a) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 15(b)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/15/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-2b718764984fa880757440bcc162946c]: Textual amendment: Words in [Sch. 23 para. 20(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/20/a) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 15(b)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/15/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
-[^key-2c3386ab2c9d1b0e0ec5a71bc8506a6c]: Textual amendment: Words in Sch. 23 para. 25(a) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/13); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-2c3386ab2c9d1b0e0ec5a71bc8506a6c]: Textual amendment: Words in Sch. 23 para. 25(a) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/13); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
 
-[^key-a49a7b4d631a4e1d0681f5e46baf029a]: Textual amendment: Words in [Sch. 23 para. 25(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/25/c) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 28](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/28)
+[^c-a49a7b4d631a4e1d0681f5e46baf029a]: Textual amendment: Words in [Sch. 23 para. 25(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/25/c) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 28](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/28)
 
-[^key-cc341da5d8e411a44fee3fb8d615cf43]: Textual amendment: [Sch. 23 para. 36(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/36/1): Sch. 24 para. 36 renumbered as Sch. 24 para. 36(1) (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/5)
+[^c-cc341da5d8e411a44fee3fb8d615cf43]: Textual amendment: [Sch. 23 para. 36(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/36/1): Sch. 24 para. 36 renumbered as Sch. 24 para. 36(1) (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/5)
 
-[^key-0ac60e3c7b993cc5177c944bdce223ab]: Textual amendment: [Sch. 23 para. 36(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/36/2) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/5)
+[^c-0ac60e3c7b993cc5177c944bdce223ab]: Textual amendment: [Sch. 23 para. 36(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/36/2) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/5)
 
-[^key-7e7e3609902b777bda201edd187777de]: Textual amendment: Word in Sch. 23 para. 38(1)(c) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/2/a)
+[^c-7e7e3609902b777bda201edd187777de]: Textual amendment: Word in Sch. 23 para. 38(1)(c) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/2/a)
 
-[^key-39281077c9cf011172d346d3227e9c59]: Textual amendment: Word in Sch. 23 para. 38(2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/2/a)
+[^c-39281077c9cf011172d346d3227e9c59]: Textual amendment: Word in Sch. 23 para. 38(2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/2/a)
 
-[^key-5eb3b36f51b9db043dd439b4d4500939]: Textual amendment: Sch. 23 para. 38(3)(4) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/2/b)
+[^c-5eb3b36f51b9db043dd439b4d4500939]: Textual amendment: Sch. 23 para. 38(3)(4) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/2/b)
 
-[^key-9884e533c3ecdac051784cd7510c1a11]: Textual amendment: Words in Sch. 23 para. 38(5) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(2)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/2/c)
+[^c-9884e533c3ecdac051784cd7510c1a11]: Textual amendment: Words in Sch. 23 para. 38(5) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(2)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/2/c)
 
-[^key-ad83f15117f02fef35082638a296dd0f]: Textual amendment: Words in [Sch. 23 para. 39(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/39/1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/3/a)
+[^c-ad83f15117f02fef35082638a296dd0f]: Textual amendment: Words in [Sch. 23 para. 39(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/39/1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/3/a)
 
-[^key-84832f3668218519a17093e0affe3d38]: Textual amendment: Words in [Sch. 23 para. 39(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/39/2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/3/b)
+[^c-84832f3668218519a17093e0affe3d38]: Textual amendment: Words in [Sch. 23 para. 39(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/39/2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/3/b)
 
-[^key-2ceb74e68a7146bb39dcaf569c5df704]: Textual amendment: [Sch. 23 para. 39(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/39/3) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(3)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/3/c)
+[^c-2ceb74e68a7146bb39dcaf569c5df704]: Textual amendment: [Sch. 23 para. 39(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/39/3) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(3)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/3/c)
 
-[^key-3ae0c464fadb38362d5f868963177194]: Textual amendment: Words in [Sch. 23 para. 40(2)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/40/2/a) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/4)
+[^c-3ae0c464fadb38362d5f868963177194]: Textual amendment: Words in [Sch. 23 para. 40(2)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/40/2/a) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 177(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/177/4)
 
-[^key-dad1505c1418826d515db30becc139ec]: Modification: [Sch. 23 para. 45(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/45/1) modified (temp.) (with effect in accordance with [Sch. 10 para. 43](https://www.legislation.gov.uk/uksi/2022/1321/schedule/10/paragraph/43) of the amending Act) (as amended (5.1.2023) by [S.I. 2022/1321](https://www.legislation.gov.uk/uksi/2022/1321), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1321/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1321/regulation/2/2))) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 10 para. 30(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/30/2)
+[^c-dad1505c1418826d515db30becc139ec]: Modification: [Sch. 23 para. 45(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/45/1) modified (temp.) (with effect in accordance with [Sch. 10 para. 43](https://www.legislation.gov.uk/uksi/2022/1321/schedule/10/paragraph/43) of the amending Act) (as amended (5.1.2023) by [S.I. 2022/1321](https://www.legislation.gov.uk/uksi/2022/1321), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1321/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1321/regulation/2/2))) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 10 para. 30(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/30/2)
 
-[^key-7626600ba8a4878d0f491133c60eabb5]: Textual amendment: [Sch. 23 para. 45(1)(ca)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/45/1/ca) omitted (for accounting periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/46/2), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/5/paragraph/3/3)
+[^c-7626600ba8a4878d0f491133c60eabb5]: Textual amendment: [Sch. 23 para. 45(1)(ca)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/45/1/ca) omitted (for accounting periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/46/2), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/5/paragraph/3/3)
 
-[^key-f03b2ee18b31d2afee79b394e1cedf4c]: Textual amendment: [Sch. 23 para. 45(3)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/45/3/b) and word omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 120](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/120) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-f03b2ee18b31d2afee79b394e1cedf4c]: Textual amendment: [Sch. 23 para. 45(3)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/45/3/b) and word omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 120](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/120) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-ce9301528a6eb5880cdf16c141c77f8c]: Textual amendment: Words in [Sch. 23 para. 45(4)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/45/4/a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(3)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/3/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce9301528a6eb5880cdf16c141c77f8c]: Textual amendment: Words in [Sch. 23 para. 45(4)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/45/4/a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(3)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/3/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8280eb7ab004f62a0dc1952d7211de56]: Textual amendment: Words in Sch. 23 para. 45(4) substituted (1.1.2013) by [The European Administrative Co-Operation (Taxation) Regulations 2012 (S.I. 2012/3062)](https://www.legislation.gov.uk/uksi/2012/3062), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3062/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2012/3062/regulation/6/2)
+[^c-8280eb7ab004f62a0dc1952d7211de56]: Textual amendment: Words in Sch. 23 para. 45(4) substituted (1.1.2013) by [The European Administrative Co-Operation (Taxation) Regulations 2012 (S.I. 2012/3062)](https://www.legislation.gov.uk/uksi/2012/3062), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3062/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2012/3062/regulation/6/2)
 
-[^key-4db91c49e34e3e197bc6c421fc480676]: Textual amendment: Words in [Sch. 23 para. 47](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/47) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2017/1204/regulation/15)
+[^c-4db91c49e34e3e197bc6c421fc480676]: Textual amendment: Words in [Sch. 23 para. 47](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/47) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2017/1204/regulation/15)
 
-[^key-c5f2ffdb34856bfc9eb3e638263491aa]: Textual amendment: [Sch. 23 para. 64(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/64/3) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 69(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/69/a)
+[^c-c5f2ffdb34856bfc9eb3e638263491aa]: Textual amendment: [Sch. 23 para. 64(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/64/3) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 69(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/69/a)

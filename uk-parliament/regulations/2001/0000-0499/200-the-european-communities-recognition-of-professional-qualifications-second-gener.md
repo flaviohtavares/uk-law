@@ -31,7 +31,7 @@ summary: ''
 
 PROFESSIONAL QUALIFICATIONS
 
-The European Communities (Recognition of Professional Qualifications) (Second General System) (Amendment) Regulations 2001 (revoked)[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]
+The European Communities (Recognition of Professional Qualifications) (Second General System) (Amendment) Regulations 2001 (revoked)[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]
 
 Made
 
@@ -45,54 +45,54 @@ Coming into force
 
 27th February 2001
 
-[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]
+## 1. Citation, commencement and interpretation[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of principal Regulations[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]
+## 2. Amendment of principal Regulations[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PROVISIONS SUBSTITUTED FOR PARTS I AND II, RESPECTIVELY, OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]
+## SCHEDULE 1 — PROVISIONS SUBSTITUTED FOR PARTS I AND II, RESPECTIVELY, OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]
 
 Regulation 2(3)
 
-> **PART I — PROFESSIONS REGULATED BY LAW OR PUBLIC AUTHORITY[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]**
+> **PART I — PROFESSIONS REGULATED BY LAW OR PUBLIC AUTHORITY[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II — PROFESSIONS REGULATED BY PROFESSIONAL ASSOCIATIONS[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]**
+> **PART II — PROFESSIONS REGULATED BY PROFESSIONAL ASSOCIATIONS[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PROVISIONS SUBSTITUTED FOR THAT PART OF SECTION 1 (PARAMEDICAL AND CHILDCARE TRAINING COURSES) OF PART I OF SCHEDULE 5 TO THE PRINCIPAL REGULATIONS WHICH SPECIFIES SUCH COURSES IN AUSTRIA[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]
+## SCHEDULE 2 — PROVISIONS SUBSTITUTED FOR THAT PART OF SECTION 1 (PARAMEDICAL AND CHILDCARE TRAINING COURSES) OF PART I OF SCHEDULE 5 TO THE PRINCIPAL REGULATIONS WHICH SPECIFIES SUCH COURSES IN AUSTRIA[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]
 
 Regulation 2(4)
 
-[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]
+[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — PROVISIONS SUBSTITUTED FOR PART II OF SCHEDULE 5 TO THE PRINCIPAL REGULATIONS[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]
+## SCHEDULE 3 — PROVISIONS SUBSTITUTED FOR PART II OF SCHEDULE 5 TO THE PRINCIPAL REGULATIONS[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]
 
 Regulation 2(5)
 
-[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]
+[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-28b7f67e7e7afaaa1fa2a69f6d056f9a]: Textual amendment: Regulations revoked (1.1.2003) by [The European Communities (Recognition of Professional Qualifications) (Second General System) Regulations 2002 (S.I. 2002/2934)](https://www.legislation.gov.uk/uksi/2002/2934), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/2934/regulation/1/2), [27(c)](https://www.legislation.gov.uk/uksi/2002/2934/regulation/27/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2002/2934/regulation/2))
+[^c-28b7f67e7e7afaaa1fa2a69f6d056f9a]: Textual amendment: Regulations revoked (1.1.2003) by [The European Communities (Recognition of Professional Qualifications) (Second General System) Regulations 2002 (S.I. 2002/2934)](https://www.legislation.gov.uk/uksi/2002/2934), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/2934/regulation/1/2), [27(c)](https://www.legislation.gov.uk/uksi/2002/2934/regulation/27/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2002/2934/regulation/2))

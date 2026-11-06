@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 286. Safety and security in hospitals[^key-8ac88646cb9fc7f80e617e525cc46234][^key-a527716ea698698c55f04d6639f992be]
+## 286. Safety and security in hospitals[^c-8ac88646cb9fc7f80e617e525cc46234][^c-a527716ea698698c55f04d6639f992be]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ and make that which is authorised subject to conditions specified in the regulat
 
 ## Annotations
 
-[^key-8ac88646cb9fc7f80e617e525cc46234]: Commencement: S. 286 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-8ac88646cb9fc7f80e617e525cc46234]: Commencement: S. 286 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-a527716ea698698c55f04d6639f992be]: Commencement: S. 286 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-a527716ea698698c55f04d6639f992be]: Commencement: S. 286 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

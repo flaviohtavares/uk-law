@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. Rate increases: deemed date of receipt of certain premiums[^key-bfeecdc9acb23c1cd1dc5f37dd213f65]
+## 66A. Rate increases: deemed date of receipt of certain premiums[^c-bfeecdc9acb23c1cd1dc5f37dd213f65]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfeecdc9acb23c1cd1dc5f37dd213f65]: Textual amendment: [Ss. 66A-66C](https://www.legislation.gov.uk/ukpga/1994/9/section/66A) inserted (with effect in accordance with s. 18(4) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 18(2)](https://www.legislation.gov.uk/ukpga/2017/10/section/18/2)
+[^c-bfeecdc9acb23c1cd1dc5f37dd213f65]: Textual amendment: [Ss. 66A-66C](https://www.legislation.gov.uk/ukpga/1994/9/section/66A) inserted (with effect in accordance with s. 18(4) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 18(2)](https://www.legislation.gov.uk/ukpga/2017/10/section/18/2)

@@ -45,15 +45,15 @@ Coming into force
 
 The Secretary of State for Transport, in exercise of the powers conferred by sections 54, 61, 63 and 66 of the Road Traffic Act 1988[^f00001] and of all other powers enabling him in that behalf, and after consultation with representative organisations in accordance with section 195(2) of that Act, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-b16231a466e557598cea7fa2c0b9a0ba]
+## 1. Citation and commencement[^c-b16231a466e557598cea7fa2c0b9a0ba]
 
 These Regulations may be cited as the Motor Vehicles (Approval)(Amendment) Regulations 2004 and shall come into force on 1st April 2004.
 
-## 2. Preliminary[^key-a4adae8b5646fb8b12a2f56c7b86584c]
+## 2. Preliminary[^c-a4adae8b5646fb8b12a2f56c7b86584c]
 
 The Motor Vehicles (Approval) Regulations[^f00002] shall have effect with the following amendments.
 
-## 3. Amendment of Regulation 3 (Interpretation)[^key-f4f68eb6d0c4c6b9cd60f303dca3c0ea]
+## 3. Amendment of Regulation 3 (Interpretation)[^c-f4f68eb6d0c4c6b9cd60f303dca3c0ea]
 
 (1) Regulation 3(1) shall be amended as follows.
 
@@ -65,7 +65,7 @@ The Motor Vehicles (Approval) Regulations[^f00002] shall have effect with the fo
 
 .
 
-## 4. Amendment of Regulation 5 (Approval requirements for relevant vehicles)[^key-b3b0d384b9204b631e98391dac251164]
+## 4. Amendment of Regulation 5 (Approval requirements for relevant vehicles)[^c-b3b0d384b9204b631e98391dac251164]
 
 (1) Regulation 5 shall be amended as follows.
 
@@ -91,7 +91,7 @@ The Motor Vehicles (Approval) Regulations[^f00002] shall have effect with the fo
 
 .
 
-## 5. Amendment of Regulation 6 (Application for Minister’s approval certificate)[^key-611aae84a4f505e99d5ec07adff7cd9a]
+## 5. Amendment of Regulation 6 (Application for Minister’s approval certificate)[^c-611aae84a4f505e99d5ec07adff7cd9a]
 
 (1) Regulation 6 shall be amended as follows.
 
@@ -103,7 +103,7 @@ The Motor Vehicles (Approval) Regulations[^f00002] shall have effect with the fo
 
 .
 
-## 6. Amendment of Regulation 11 (form of certificate)[^key-2b3c46b7e99b05d078b9bb709bf9cd69]
+## 6. Amendment of Regulation 11 (form of certificate)[^c-2b3c46b7e99b05d078b9bb709bf9cd69]
 
 For the Table in regulation 11, there shall be substituted the following Table.
 
@@ -129,7 +129,7 @@ For the Table in regulation 11, there shall be substituted the following Table.
 </tbody>
 </table>
 
-## 7. Amendment of Schedule 2[^key-c748737c1030c7fae28f15c80f7abd61]
+## 7. Amendment of Schedule 2[^c-c748737c1030c7fae28f15c80f7abd61]
 
 (1) Schedule 2 shall be amended as follows.
 
@@ -155,19 +155,19 @@ For the Table in regulation 11, there shall be substituted the following Table.
 
 (5) Paragraph 6 shall be deleted.
 
-## 8. Amendment of Schedule 3[^key-ecf06dd3f50a42cd922fcd67e7af68d1]
+## 8. Amendment of Schedule 3[^c-ecf06dd3f50a42cd922fcd67e7af68d1]
 
 For the Table in Schedule 3, there shall be substituted the Table set out in Schedule 1 of these Regulations.
 
-## 9. Amendment of Schedule 4[^key-a4188fd89fe8454e0eb146ec88953383]
+## 9. Amendment of Schedule 4[^c-a4188fd89fe8454e0eb146ec88953383]
 
 For the Table in Schedule 4, there shall be substituted the Table set out in Schedule 2 of these Regulations.
 
-## 10. Amendment of Schedule 5[^key-250329ef8ead6e0a1bd8c690cc4a5187]
+## 10. Amendment of Schedule 5[^c-250329ef8ead6e0a1bd8c690cc4a5187]
 
 For the certificate in Schedule 5, there shall be substituted the certificate set out in Schedule 3 of these Regulations.
 
-## 11. Amendment of Schedule 6[^key-246efa2cd2ceba70e22fa39b4ccdaa5d]
+## 11. Amendment of Schedule 6[^c-246efa2cd2ceba70e22fa39b4ccdaa5d]
 
 (1) In part II of Schedule 6, in the third and fourth columns of the Table, for the references to Community Directives in Schedule 3 shall be inserted the entries specified below.
 
@@ -235,7 +235,7 @@ Department for Transport
 
 8th March 2004
 
-## SCHEDULE 1 — APPROVAL REQUIREMENTS FOR RELEVANT VEHICLES (REPLACING SCHEDULE 3)[^key-f5f6871d1439b0db5b84fb023e9c6200]
+## SCHEDULE 1 — APPROVAL REQUIREMENTS FOR RELEVANT VEHICLES (REPLACING SCHEDULE 3)[^c-f5f6871d1439b0db5b84fb023e9c6200]
 
 Regulation 5(1)(a)
 
@@ -278,7 +278,7 @@ Regulation 5(1)(a)
 
 [^f00005]
 
-## SCHEDULE 2 — APPROVAL REQUIREMENTS FOR RELEVANT VEHICLES EXCEPT SCHEDULE 2 VEHICLES (REPLACING SCHEDULE 4)[^key-29d07ad0a96518a87377a958f696fbc6]
+## SCHEDULE 2 — APPROVAL REQUIREMENTS FOR RELEVANT VEHICLES EXCEPT SCHEDULE 2 VEHICLES (REPLACING SCHEDULE 4)[^c-29d07ad0a96518a87377a958f696fbc6]
 
 Regulation 5(!)(b)
 
@@ -322,7 +322,7 @@ Regulation 5(!)(b)
 </tbody>
 </table>
 
-## SCHEDULE 3[^key-855c1e2187782af135f5def6859f1dcf]
+## SCHEDULE 3[^c-855c1e2187782af135f5def6859f1dcf]
 
 Regulation 11
 
@@ -358,38 +358,38 @@ A regulatory impact assessment has been prepared and copies can be obtained from
 
 [^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52); section 61 was amended by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), section 63 was amended by S.I. [1992/3107](https://www.legislation.gov.uk/uksi/1992/3107).
 
-[^key-b16231a466e557598cea7fa2c0b9a0ba]: Commencement: Reg. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-b16231a466e557598cea7fa2c0b9a0ba]: Commencement: Reg. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
-[^key-a4adae8b5646fb8b12a2f56c7b86584c]: Commencement: Reg. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-a4adae8b5646fb8b12a2f56c7b86584c]: Commencement: Reg. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
 [^f00002]: Footnote: S.I. [2001/25](https://www.legislation.gov.uk/uksi/2001/25).
 
-[^key-f4f68eb6d0c4c6b9cd60f303dca3c0ea]: Commencement: Reg. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-f4f68eb6d0c4c6b9cd60f303dca3c0ea]: Commencement: Reg. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
 [^f00003]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50).
 
-[^key-b3b0d384b9204b631e98391dac251164]: Commencement: Reg. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-b3b0d384b9204b631e98391dac251164]: Commencement: Reg. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
 [^f00004]: Footnote: S.I. [1981/154 (N.I.1)](https://www.legislation.gov.uk/nisi/1981/154).
 
-[^key-611aae84a4f505e99d5ec07adff7cd9a]: Commencement: Reg. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-611aae84a4f505e99d5ec07adff7cd9a]: Commencement: Reg. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
-[^key-2b3c46b7e99b05d078b9bb709bf9cd69]: Commencement: Reg. 6 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-2b3c46b7e99b05d078b9bb709bf9cd69]: Commencement: Reg. 6 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
-[^key-c748737c1030c7fae28f15c80f7abd61]: Commencement: Reg. 7 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-c748737c1030c7fae28f15c80f7abd61]: Commencement: Reg. 7 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
-[^key-ecf06dd3f50a42cd922fcd67e7af68d1]: Commencement: Reg. 8 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-ecf06dd3f50a42cd922fcd67e7af68d1]: Commencement: Reg. 8 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
-[^key-a4188fd89fe8454e0eb146ec88953383]: Commencement: Reg. 9 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-a4188fd89fe8454e0eb146ec88953383]: Commencement: Reg. 9 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
-[^key-250329ef8ead6e0a1bd8c690cc4a5187]: Commencement: Reg. 10 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-250329ef8ead6e0a1bd8c690cc4a5187]: Commencement: Reg. 10 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
-[^key-246efa2cd2ceba70e22fa39b4ccdaa5d]: Commencement: Reg. 11 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-246efa2cd2ceba70e22fa39b4ccdaa5d]: Commencement: Reg. 11 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
-[^key-f5f6871d1439b0db5b84fb023e9c6200]: Commencement: Sch. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-f5f6871d1439b0db5b84fb023e9c6200]: Commencement: Sch. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
 [^f00005]: Footnote: S.I. [1994/3117](https://www.legislation.gov.uk/uksi/1994/3117).
 
-[^key-29d07ad0a96518a87377a958f696fbc6]: Commencement: Sch. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-29d07ad0a96518a87377a958f696fbc6]: Commencement: Sch. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
 
-[^key-855c1e2187782af135f5def6859f1dcf]: Commencement: Sch. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)
+[^c-855c1e2187782af135f5def6859f1dcf]: Commencement: Sch. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/623/regulation/1)

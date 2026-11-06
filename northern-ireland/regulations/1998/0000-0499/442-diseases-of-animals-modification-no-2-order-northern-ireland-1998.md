@@ -30,7 +30,7 @@ summary: ''
 
 ANIMALS
 
-Diseases of Animals (Modification) (No. 2) Order (Northern Ireland) 1998 (revoked)[^key-ca2547d6bc1cb66f3d2337eacacff989]
+Diseases of Animals (Modification) (No. 2) Order (Northern Ireland) 1998 (revoked)[^c-ca2547d6bc1cb66f3d2337eacacff989]
 
 Made
 
@@ -40,32 +40,32 @@ Coming into operation
 
 29th January 1999
 
-[^key-ca2547d6bc1cb66f3d2337eacacff989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca2547d6bc1cb66f3d2337eacacff989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ca2547d6bc1cb66f3d2337eacacff989]
+## 1. Citation, commencement and interpretation[^c-ca2547d6bc1cb66f3d2337eacacff989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Diseases of Animals (Northern Ireland) Order 1981[^key-ca2547d6bc1cb66f3d2337eacacff989]
+## 2. Modification of the Diseases of Animals (Northern Ireland) Order 1981[^c-ca2547d6bc1cb66f3d2337eacacff989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-ca2547d6bc1cb66f3d2337eacacff989]
+## 3. Revocations[^c-ca2547d6bc1cb66f3d2337eacacff989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision[^key-ca2547d6bc1cb66f3d2337eacacff989]
+## 4. Transitional provision[^c-ca2547d6bc1cb66f3d2337eacacff989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ca2547d6bc1cb66f3d2337eacacff989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca2547d6bc1cb66f3d2337eacacff989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ca2547d6bc1cb66f3d2337eacacff989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca2547d6bc1cb66f3d2337eacacff989]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca2547d6bc1cb66f3d2337eacacff989]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/442) revoked (18.7.2002) by [Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002 (S.R. 2002/225)](https://www.legislation.gov.uk/nisr/2002/225), [reg. 1](https://www.legislation.gov.uk/nisr/2002/225/regulation/1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/I)
+[^c-ca2547d6bc1cb66f3d2337eacacff989]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/442) revoked (18.7.2002) by [Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002 (S.R. 2002/225)](https://www.legislation.gov.uk/nisr/2002/225), [reg. 1](https://www.legislation.gov.uk/nisr/2002/225/regulation/1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/I)

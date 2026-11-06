@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. Sections 221 to 228: interpretation and supplementary[^key-904f0fcdaa60afb6ba47da8a74c1a289]
+## 229. Sections 221 to 228: interpretation and supplementary[^c-904f0fcdaa60afb6ba47da8a74c1a289]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-904f0fcdaa60afb6ba47da8a74c1a289]: Commencement: S. 229 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(s)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/s)
+[^c-904f0fcdaa60afb6ba47da8a74c1a289]: Commencement: S. 229 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(s)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/s)

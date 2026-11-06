@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) For the purposes of this Act “**dwelling**” means a dwelling which is [^key-56d7e225c7a3f926f44439acb60748b6]... in Wales, and⁠—
+(1) For the purposes of this Act “**dwelling**” means a dwelling which is [^c-56d7e225c7a3f926f44439acb60748b6]... in Wales, and⁠—
 
 - (a) does not include any structure or vehicle which is capable of being moved from one place to another, but
 - (b) includes any land occupied together with the dwelling, unless the land is agricultural land exceeding 0.809 hectares.
@@ -37,4 +37,4 @@ but does not include land occupied together with a house as a park, gardens (oth
 
 ## Annotations
 
-[^key-56d7e225c7a3f926f44439acb60748b6]: Textual amendment: Word in [s. 246(1)](https://www.legislation.gov.uk/anaw/2016/1/section/246/1) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/7)
+[^c-56d7e225c7a3f926f44439acb60748b6]: Textual amendment: Word in [s. 246(1)](https://www.legislation.gov.uk/anaw/2016/1/section/246/1) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/7)

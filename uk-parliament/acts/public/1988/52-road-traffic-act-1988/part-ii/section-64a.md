@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64A. Failure to hold EC certificate of conformity for unregistered motor cycle or tractor[^key-5cddec8d6f86e3dd5f4ceb60f92a5899]
+## 64A. Failure to hold EC certificate of conformity for unregistered motor cycle or tractor[^c-5cddec8d6f86e3dd5f4ceb60f92a5899]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cddec8d6f86e3dd5f4ceb60f92a5899]: Textual amendment: [S. 64A](https://www.legislation.gov.uk/ukpga/1988/52/section/64A) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 22(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/22/1)
+[^c-5cddec8d6f86e3dd5f4ceb60f92a5899]: Textual amendment: [S. 64A](https://www.legislation.gov.uk/ukpga/1988/52/section/64A) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 22(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/22/1)

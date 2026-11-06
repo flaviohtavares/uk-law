@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Sexual offences: defences in relation to offences against older children[^key-39b8f6d6e0490bd33155fdfdebfdbce2]
+## 44. Sexual offences: defences in relation to offences against older children[^c-39b8f6d6e0490bd33155fdfdebfdbce2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 39 of the Sexual Offences (Scotland) Act 2009 (asp 9) (defences in re
 
 ## Annotations
 
-[^key-39b8f6d6e0490bd33155fdfdebfdbce2]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2010/13/section/44) in force at 1.12.2010 by [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/357/article/2/b)
+[^c-39b8f6d6e0490bd33155fdfdebfdbce2]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2010/13/section/44) in force at 1.12.2010 by [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/357/article/2/b)

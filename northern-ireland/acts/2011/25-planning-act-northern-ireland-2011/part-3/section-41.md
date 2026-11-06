@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Notice, etc., of applications for planning permission[^key-8278140dab34a841f73857879b9db5f2][^key-bd12b40abd26e23d9b7368d4b3f54ff4][^key-2f5f0ed73ae267031cc18d32f95f44b5][^key-2f5f0ed73ae267031cc18d32f95f44b5]
+## 41. Notice, etc., of applications for planning permission[^c-8278140dab34a841f73857879b9db5f2][^c-bd12b40abd26e23d9b7368d4b3f54ff4][^c-2f5f0ed73ae267031cc18d32f95f44b5][^c-2f5f0ed73ae267031cc18d32f95f44b5]
 
 *Extent: N.I.*
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8278140dab34a841f73857879b9db5f2]: Commencement: S. 41 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
+[^c-8278140dab34a841f73857879b9db5f2]: Commencement: S. 41 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
 
-[^key-bd12b40abd26e23d9b7368d4b3f54ff4]: Commencement: S. 41 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
+[^c-bd12b40abd26e23d9b7368d4b3f54ff4]: Commencement: S. 41 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
 
-[^key-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))

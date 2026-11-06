@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Landlord registration[^key-f3f0b9a0167adaa8947e50349f24c96a]
+## 19. Landlord registration[^c-f3f0b9a0167adaa8947e50349f24c96a]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3f0b9a0167adaa8947e50349f24c96a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/14/section/19) in force at 1.12.2017 by [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-f3f0b9a0167adaa8947e50349f24c96a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/14/section/19) in force at 1.12.2017 by [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 9.9. Works affecting character of listed building etc: publication of notice on diocesan website[^key-f1c90b988864e50a24f39053c13f602f]
+## 9.9. Works affecting character of listed building etc: publication of notice on diocesan website[^c-f1c90b988864e50a24f39053c13f602f]
 
 *Extent: E*
 
@@ -30,7 +30,7 @@ summary: ''
   to such extent as would be likely to affect its character as a building of special architectural or historic interest; or
 - (c) demolition affecting the exterior of an unlisted building in a conservation area.
 
-(2) The registrar or chancellor must give directions for the publication on the diocesan website , or another publicly accessible website which is identified on the diocesan website,[^key-ea860dd8a49ab383274435f9aeebe095] of a notice which contains the following—
+(2) The registrar or chancellor must give directions for the publication on the diocesan website , or another publicly accessible website which is identified on the diocesan website,[^c-ea860dd8a49ab383274435f9aeebe095] of a notice which contains the following—
 
 - (a) details of the church or building to which the petition relates,
 - (b) a statement that an application is being made to the consistory court for permission to carry out works to the church or building,
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1c90b988864e50a24f39053c13f602f]: Commencement: [Rule 9.9](https://www.legislation.gov.uk/uksi/2015/1568/article/9.9) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-f1c90b988864e50a24f39053c13f602f]: Commencement: [Rule 9.9](https://www.legislation.gov.uk/uksi/2015/1568/article/9.9) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
 
-[^key-ea860dd8a49ab383274435f9aeebe095]: Textual amendment: Words in [rule 9.9(2)](https://www.legislation.gov.uk/uksi/2015/1568/rule/9.9/2) inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [11(e)](https://www.legislation.gov.uk/uksi/2019/1184/rule/11/e) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/4))
+[^c-ea860dd8a49ab383274435f9aeebe095]: Textual amendment: Words in [rule 9.9(2)](https://www.legislation.gov.uk/uksi/2015/1568/rule/9.9/2) inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [11(e)](https://www.legislation.gov.uk/uksi/2019/1184/rule/11/e) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/4))

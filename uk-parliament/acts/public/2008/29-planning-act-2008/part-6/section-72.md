@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Panel ceasing to have any members[^key-35c09ae9bfe01b5f7b8654b4121da191]
+## 72. Panel ceasing to have any members[^c-35c09ae9bfe01b5f7b8654b4121da191]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ as done by or in relation to the new Panel.
 
 ## Annotations
 
-[^key-35c09ae9bfe01b5f7b8654b4121da191]: Commencement: S. 72 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-35c09ae9bfe01b5f7b8654b4121da191]: Commencement: S. 72 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

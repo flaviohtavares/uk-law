@@ -26,13 +26,13 @@ Section 3
 
 #### Introductory
 
-**1.**[^key-0396fcc57f638fa39f4511097b0113a6] (1) This Part specifies the procedure by which a Road Investment Strategy is set.
+**1.**[^c-0396fcc57f638fa39f4511097b0113a6] (1) This Part specifies the procedure by which a Road Investment Strategy is set.
 
 (2) It does not apply to the first Road Investment Strategy under section 3 where it is published and laid before Parliament by the Secretary of State within a year of that section coming into force.
 
 #### Step 1: the Secretary of State's proposals
 
-**2.**[^key-6ac3cddbc04d4b0755c17366c644762e] (1) The Secretary of State must provide a strategic highways company with proposals for a Road Investment Strategy.
+**2.**[^c-6ac3cddbc04d4b0755c17366c644762e] (1) The Secretary of State must provide a strategic highways company with proposals for a Road Investment Strategy.
 
 (2) The proposals must include details of—
 
@@ -49,7 +49,7 @@ Section 3
 
 #### Step 2: the strategic highways company's response
 
-**3.**[^key-ab0b03f9a7c8e23f84f21e755ab9dbad] (1) Having been provided with proposals under paragraph 2, the strategic highways company must respond to the Secretary of State—
+**3.**[^c-ab0b03f9a7c8e23f84f21e755ab9dbad] (1) Having been provided with proposals under paragraph 2, the strategic highways company must respond to the Secretary of State—
 
 - (a) agreeing to the proposals, or
 - (b) making counter-proposals.
@@ -58,7 +58,7 @@ Section 3
 
 #### Step 3: where the strategic highways company has agreed to the proposals
 
-**4.**[^key-500e8e065ca4c8be759964f414cc87d3] (1) Where the strategic highways company has agreed to proposals under paragraph 2, the Secretary of State may publish those proposals as the Road Investment Strategy.
+**4.**[^c-500e8e065ca4c8be759964f414cc87d3] (1) Where the strategic highways company has agreed to proposals under paragraph 2, the Secretary of State may publish those proposals as the Road Investment Strategy.
 
 (2) The Secretary of State may only publish proposals under sub-paragraph (1) if satisfied that appropriate consultation has taken place.
 
@@ -66,7 +66,7 @@ Section 3
 
 #### Step 4: where the strategic highways company has made counter-proposals or failed to respond
 
-**5.**[^key-1e06950eabca4c8a34bd11809a59a187] (1) Where the strategic highways company has made counter-proposals to the Secretary of State's proposals under paragraph 3, or has failed to respond before the date specified, the Secretary of State may—
+**5.**[^c-1e06950eabca4c8a34bd11809a59a187] (1) Where the strategic highways company has made counter-proposals to the Secretary of State's proposals under paragraph 3, or has failed to respond before the date specified, the Secretary of State may—
 
 - (a) provide the company with revised proposals under paragraph 2, or
 - (b) publish as the Road Investment Strategy—
@@ -79,7 +79,7 @@ Section 3
 
 ### PART 2 — Varying a Road Investment Strategy
 
-**6.**[^key-37034abd234770d56a5a17bf62b9a353] (1) This paragraph applies where the Secretary of State is considering varying a Road Investment Strategy.
+**6.**[^c-37034abd234770d56a5a17bf62b9a353] (1) This paragraph applies where the Secretary of State is considering varying a Road Investment Strategy.
 
 (2) Paragraphs 2 to 5 apply to proposals for a varied Road Investment Strategy as they apply to proposals for a Road Investment Strategy.
 
@@ -87,14 +87,14 @@ Section 3
 
 ## Annotations
 
-[^key-0396fcc57f638fa39f4511097b0113a6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/1) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-0396fcc57f638fa39f4511097b0113a6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/1) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-6ac3cddbc04d4b0755c17366c644762e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/2) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-6ac3cddbc04d4b0755c17366c644762e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/2) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-ab0b03f9a7c8e23f84f21e755ab9dbad]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/3) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-ab0b03f9a7c8e23f84f21e755ab9dbad]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/3) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-500e8e065ca4c8be759964f414cc87d3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/4) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-500e8e065ca4c8be759964f414cc87d3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/4) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-1e06950eabca4c8a34bd11809a59a187]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/5) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-1e06950eabca4c8a34bd11809a59a187]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/5) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-37034abd234770d56a5a17bf62b9a353]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/6) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-37034abd234770d56a5a17bf62b9a353]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/7/schedule/2/paragraph/6) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

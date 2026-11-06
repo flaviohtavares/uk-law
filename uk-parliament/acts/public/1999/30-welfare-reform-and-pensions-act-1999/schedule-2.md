@@ -28,7 +28,7 @@ Section 18.
 
 *Extent: S*
 
-**1.**[^c1314408] In section 32(2) of the *(affected by repeal, see note)*[^key-a2a1edf745afc7a377ac6c63850191ac] [^c1314409]Bankruptcy (Scotland) Act 1985 (vesting of estate, and dealings of debtor, after sequestration), at the beginning insert *(affected by repeal, see note)*[^key-a2a1edf745afc7a377ac6c63850191ac] “ Notwithstanding anything in section 11 or 12 of the Welfare Reform and Pensions Act 1999, ” *(affected by repeal, see note)*[^key-a2a1edf745afc7a377ac6c63850191ac].
+**1.**[^c1314408] In section 32(2) of the *(affected by repeal, see note)*[^c-a2a1edf745afc7a377ac6c63850191ac] [^c1314409]Bankruptcy (Scotland) Act 1985 (vesting of estate, and dealings of debtor, after sequestration), at the beginning insert *(affected by repeal, see note)*[^c-a2a1edf745afc7a377ac6c63850191ac] “ Notwithstanding anything in section 11 or 12 of the Welfare Reform and Pensions Act 1999, ” *(affected by repeal, see note)*[^c-a2a1edf745afc7a377ac6c63850191ac].
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ Section 18.
 
 **3.**[^c1314412] (1) In the [^c1314413]Pension Schemes Act 1993—
 
-- (a)[^key-7da8c24eec0cab38b3f25a94ebbedcbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7da8c24eec0cab38b3f25a94ebbedcbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in section 181(1) (general interpretation), for the definition of “employed earner” substitute—
 
   > “**employed earner**” and “**self-employed earner**” have the meanings given by section 2 of the [^c1314414]Social Security Contributions and Benefits Act 1992;
@@ -65,7 +65,7 @@ Section 18.
 
 *Extent: E+W+S*
 
-**5.**[^key-ef236c6b3685787d6d3bed6babcfe67e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ef236c6b3685787d6d3bed6babcfe67e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Effect of certain orders on guaranteed minimum pensions
 
@@ -124,7 +124,7 @@ Section 18.
 
 *Extent: E+W+S*
 
-**9.**[^key-0de1e04c3a1b1a826f040e0045b4136f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-0de1e04c3a1b1a826f040e0045b4136f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.**[^c1314429] In section 8(4) of the [^c1314430]Pensions Act 1995 (provision which may be contained in orders made by the Authority appointing pension scheme trustees), omit the word “or” at the end of paragraph (a).
 
@@ -157,21 +157,21 @@ Section 18.
 
 *Extent: E+W+S*
 
-**13.**[^key-fa6b219c625927829edbd72312fe0391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-fa6b219c625927829edbd72312fe0391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Occupational pension schemes: certificates etc. relating to minimum funding requirement
 
 *Extent: E+W+S*
 
-**14.**[^key-fa6b219c625927829edbd72312fe0391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-fa6b219c625927829edbd72312fe0391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Excess assets of wound-up schemes
 
-**15.**[^key-fa6b219c625927829edbd72312fe0391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-fa6b219c625927829edbd72312fe0391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Pensions Compensation Board
 
-**16.**[^key-fa6b219c625927829edbd72312fe0391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-fa6b219c625927829edbd72312fe0391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Diligence against pensions: Scotland
 
@@ -211,7 +211,7 @@ Section 18.
 
 [^c1314408]: Commencement: Sch. 2 para. 1 wholly in force at 29.5.2000; Sch. 2 para. 1 in force for certain purposes at Royal Assent see s. 89(1)(5); Sch. 2 para. 1 in force at 29.5.2000 by [S.I. 2000/1382](https://www.legislation.gov.uk/uksi/2000/1382), [art. 2(e)](https://www.legislation.gov.uk/uksi/2000/1382/article/2/e)
 
-[^key-a2a1edf745afc7a377ac6c63850191ac]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/1) repealed (S) (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-a2a1edf745afc7a377ac6c63850191ac]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/1) repealed (S) (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
 [^c1314409]: Marginal citation: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66).
 
@@ -223,7 +223,7 @@ Section 18.
 
 [^c1314413]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-7da8c24eec0cab38b3f25a94ebbedcbb]: Textual amendment: [Sch. 2 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/3/1/a) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-7da8c24eec0cab38b3f25a94ebbedcbb]: Textual amendment: [Sch. 2 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/3/1/a) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
 [^c1314414]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -231,7 +231,7 @@ Section 18.
 
 [^c1314416]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-ef236c6b3685787d6d3bed6babcfe67e]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/5) repealed (6.4.2012 being "the abolition date" for the purposes of s. 15(1) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6), [Sch. 7 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/part/3)); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/a)
+[^c-ef236c6b3685787d6d3bed6babcfe67e]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/5) repealed (6.4.2012 being "the abolition date" for the purposes of s. 15(1) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6), [Sch. 7 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/part/3)); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/a)
 
 [^c1314419]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/6) wholly in force at 6.4.2002; [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/6) in force for certain purposes at Royal Assent see [s. 89(1)(5)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1/5); [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/6) in force at 6.4.2002 insofar as not already in force by [S.I. 2002/153](https://www.legislation.gov.uk/uksi/2002/153), [art. 2(j)](https://www.legislation.gov.uk/uksi/2002/153/article/2/j)
 
@@ -249,7 +249,7 @@ Section 18.
 
 [^c1314426]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-0de1e04c3a1b1a826f040e0045b4136f]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/9) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1)
+[^c-0de1e04c3a1b1a826f040e0045b4136f]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/9) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1)
 
 [^c1314429]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/10) wholly in force at 25.4.2000; [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/10) in force for certain purposes at Royal Assent see [s. 89(1)(5)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1/5); [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/10) in force at 25.4.2000 by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/II)
 
@@ -265,7 +265,7 @@ Section 18.
 
 [^c1314435]: Marginal citation: [S.I. 1992/3218](https://www.legislation.gov.uk/uksi/1992/3218)
 
-[^key-fa6b219c625927829edbd72312fe0391]: Textual amendment: [Sch. 2 paras. 13-16](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/13) repealed (1.9.2005 for the repeal of Sch. 2 para. 16, 4.12.2005 for the repeal of Sch. 2 para. 14 for specified purposes, 30.12.2005 for the repeal of Sch. 2 para. 14 otherwise, 6.4.2006 for the repeal of Sch. 2 para. 13) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(16)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/16), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/3); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/b), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-fa6b219c625927829edbd72312fe0391]: Textual amendment: [Sch. 2 paras. 13-16](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/13) repealed (1.9.2005 for the repeal of Sch. 2 para. 16, 4.12.2005 for the repeal of Sch. 2 para. 14 for specified purposes, 30.12.2005 for the repeal of Sch. 2 para. 14 otherwise, 6.4.2006 for the repeal of Sch. 2 para. 13) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(16)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/16), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/3); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/b), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
 [^c1314444]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/17) wholly in force at 25.4.2000; [Sch. para. 17](https://www.legislation.gov.uk/ukpga/1999/30/schedule/paragraph/17) in force for certain purposes at Royal Assent see [s. 89(1)(5)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1/5); [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/1999/30/schedule/2/paragraph/17) in force at 25.4.2000 by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/II)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Death, incapacity and insolvency[^key-daa5b408045d06cde0815889ee439dbe]
+## 85. Death, incapacity and insolvency[^c-daa5b408045d06cde0815889ee439dbe]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ A must give WRA notice of the cessation and the date on which it occurred.
 
 ## Annotations
 
-[^key-daa5b408045d06cde0815889ee439dbe]: Commencement: [S. 85](https://www.legislation.gov.uk/anaw/2017/3/section/85) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-daa5b408045d06cde0815889ee439dbe]: Commencement: [S. 85](https://www.legislation.gov.uk/anaw/2017/3/section/85) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

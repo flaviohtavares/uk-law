@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Appointment of new trustee by truster[^key-f504c0a0f40d454ab5350174cc0ce007]
+## 2. Appointment of new trustee by truster[^c-f504c0a0f40d454ab5350174cc0ce007]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f504c0a0f40d454ab5350174cc0ce007]: Commencement: S. 2 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-f504c0a0f40d454ab5350174cc0ce007]: Commencement: S. 2 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

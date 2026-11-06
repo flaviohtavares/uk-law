@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 845H. Qualifying foreign income[^key-fa6e1a8f7071272a8f9d117519835e5b]
+## 845H. Qualifying foreign income[^c-fa6e1a8f7071272a8f9d117519835e5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,20 +62,20 @@ Income is qualifying foreign income if it—
   </tbody>
   </table>
 
-  [^key-e650a5a13d315950e90104299e4a3a02][^key-244f57e39935e2bcd174753d9b9f5472][^key-d85549b66fcc310e358d6f20033d65bb][^key-25c05d1ffcb7c646f5ddf4fa2f5fbe7b][^key-a5ef0b783daea2c04d1316e40b354ea6][^key-2b5c0ed06c1ea7875a4c71496aa4592b]
+  [^c-e650a5a13d315950e90104299e4a3a02][^c-244f57e39935e2bcd174753d9b9f5472][^c-d85549b66fcc310e358d6f20033d65bb][^c-25c05d1ffcb7c646f5ddf4fa2f5fbe7b][^c-a5ef0b783daea2c04d1316e40b354ea6][^c-2b5c0ed06c1ea7875a4c71496aa4592b]
 
 ## Annotations
 
-[^key-fa6e1a8f7071272a8f9d117519835e5b]: Textual amendment: [Pt. 8 Ch. 5](https://www.legislation.gov.uk/ukpga/2005/5/part/8/chapter/5) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(1)(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/1/4)
+[^c-fa6e1a8f7071272a8f9d117519835e5b]: Textual amendment: [Pt. 8 Ch. 5](https://www.legislation.gov.uk/ukpga/2005/5/part/8/chapter/5) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(1)(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/1/4)
 
-[^key-e650a5a13d315950e90104299e4a3a02]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/4/a)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6)
+[^c-e650a5a13d315950e90104299e4a3a02]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/4/a)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6)
 
-[^key-244f57e39935e2bcd174753d9b9f5472]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(4)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/4/b)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6)
+[^c-244f57e39935e2bcd174753d9b9f5472]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(4)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/4/b)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6)
 
-[^key-d85549b66fcc310e358d6f20033d65bb]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/1/a/i) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
+[^c-d85549b66fcc310e358d6f20033d65bb]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/1/a/i) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
 
-[^key-25c05d1ffcb7c646f5ddf4fa2f5fbe7b]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/1/a/ii) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
+[^c-25c05d1ffcb7c646f5ddf4fa2f5fbe7b]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/1/a/ii) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
 
-[^key-a5ef0b783daea2c04d1316e40b354ea6]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/1/a/iii) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
+[^c-a5ef0b783daea2c04d1316e40b354ea6]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/1/a/iii) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
 
-[^key-2b5c0ed06c1ea7875a4c71496aa4592b]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/1/b) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
+[^c-2b5c0ed06c1ea7875a4c71496aa4592b]: Textual amendment: Words in [s. 845H](https://www.legislation.gov.uk/ukpga/2005/5/section/845H) Table inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/1/b) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))

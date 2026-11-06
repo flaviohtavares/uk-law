@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Definition of “personally connected”[^M_I_82f63fde-5f35-4ae3-efd9-906f1fdd96c4][^key-22fc840d9c737583a07d3a2bf55cd384]
+## 2. Definition of “personally connected”[^M_I_82f63fde-5f35-4ae3-efd9-906f1fdd96c4][^c-22fc840d9c737583a07d3a2bf55cd384]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^M_I_82f63fde-5f35-4ae3-efd9-906f1fdd96c4]: Commencement: S. 2 in force at 5.7.2021 for specified purposes by [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/1)
 
-[^key-22fc840d9c737583a07d3a2bf55cd384]: Commencement: S. 2 in force at 1.10.2021 in so far as not already in force by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/b)
+[^c-22fc840d9c737583a07d3a2bf55cd384]: Commencement: S. 2 in force at 1.10.2021 in so far as not already in force by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/b)

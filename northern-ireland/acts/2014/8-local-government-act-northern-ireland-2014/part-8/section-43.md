@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Access to agenda and connected reports[^key-1f1875607fd69c764da6d97c46b181a8]
+## 43. Access to agenda and connected reports[^c-1f1875607fd69c764da6d97c46b181a8]
 
 *Extent: N.I.*
 
-(1) Copies of the agenda for a meeting of a council and, subject to subsection (2), copies of any report for the meeting must be open to inspection by members of the public at the offices of the council or on the council’s website[^key-570ae1ba4c6dc9126874dad04914b5f5] in accordance with subsection (3).
+(1) Copies of the agenda for a meeting of a council and, subject to subsection (2), copies of any report for the meeting must be open to inspection by members of the public at the offices of the council or on the council’s website[^c-570ae1ba4c6dc9126874dad04914b5f5] in accordance with subsection (3).
 
 (2) If the clerk of the council thinks fit, there may be excluded from the copies of reports provided in pursuance of subsection (1) the whole of any report which, or any part which, relates only to items during which, in the opinion of the clerk, the meeting is likely not to be open to the public.
 
@@ -53,6 +53,6 @@ but nothing in this subsection requires copies of any agenda, item or report to 
 
 ## Annotations
 
-[^key-1f1875607fd69c764da6d97c46b181a8]: Commencement: S. 43 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-1f1875607fd69c764da6d97c46b181a8]: Commencement: S. 43 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-570ae1ba4c6dc9126874dad04914b5f5]: Textual amendment: Words in s. 43(1) inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2020/74/regulation/8)
+[^c-570ae1ba4c6dc9126874dad04914b5f5]: Textual amendment: Words in s. 43(1) inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2020/74/regulation/8)

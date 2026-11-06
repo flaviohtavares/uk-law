@@ -44,14 +44,14 @@ summary: ''
 (6) The amount of the special loss deferred tax assets that is to be used is the lesser of—
 
 - (a) the amount of the assets, and
-- (b)[^key-7041be5dcc84857c87af70e051950afc] the result of Step 2 in section 132(1) multiplied by 15%.
+- (b)[^c-7041be5dcc84857c87af70e051950afc] the result of Step 2 in section 132(1) multiplied by 15%.
 
-Any remainder continues to be a special loss deferred tax asset of the relevant members of the group (and is available for use in subsequent accounting periods in which the election has effect[^key-5426aee0b20d3e992b5c4a6644072705]).
+Any remainder continues to be a special loss deferred tax asset of the relevant members of the group (and is available for use in subsequent accounting periods in which the election has effect[^c-5426aee0b20d3e992b5c4a6644072705]).
 
 (7) Each of the standard members that made a profit in that period is to use the proportion of the amount to be used in accordance with subsection (6) that is equal to the proportion the adjusted profits of the member bears to the total adjusted profits of all of the standard members that made a profit.
 
 ## Annotations
 
-[^key-7041be5dcc84857c87af70e051950afc]: Textual amendment: [S. 187(6)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/187/6/b) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 51(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/51/3/a)
+[^c-7041be5dcc84857c87af70e051950afc]: Textual amendment: [S. 187(6)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/187/6/b) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 51(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/51/3/a)
 
-[^key-5426aee0b20d3e992b5c4a6644072705]: Textual amendment: Words in [s. 187(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/187/6) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 51(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/51/3/b)
+[^c-5426aee0b20d3e992b5c4a6644072705]: Textual amendment: Words in [s. 187(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/187/6) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 51(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/51/3/b)

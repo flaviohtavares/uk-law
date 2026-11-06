@@ -35,17 +35,17 @@ summary: ''
 
 - (a) relief as a result of a claim under section 459(1)(a) (claim for deficit to be set off against total profits for the deficit period),
 - (b) relief in respect of a loss or deficit incurred or treated as incurred in an accounting period before the deficit period,
-- (c) relief under Part 6 of CTA 2010 (charitable donations relief)[^key-1bc258c6f1e6ce486324cfbc1373c7aa] in respect of payments made wholly and exclusively for the purposes of a trade,
-- (d) relief under section 37 of CTA 2010 (losses deducted from total[^key-710e70278da2c60a2d4283d9a67b1efb] profits of the same, or an earlier, accounting period), and
+- (c) relief under Part 6 of CTA 2010 (charitable donations relief)[^c-1bc258c6f1e6ce486324cfbc1373c7aa] in respect of payments made wholly and exclusively for the purposes of a trade,
+- (d) relief under section 37 of CTA 2010 (losses deducted from total[^c-710e70278da2c60a2d4283d9a67b1efb] profits of the same, or an earlier, accounting period), and
 - (e) if the company is a company with investment business for the purposes of Part 16 (companies with investment business)—
   - (i) any deduction in respect of management expenses under section 1219 (expenses of management of a company's investment business),
-  - (ii) relief under Part 6 of CTA 2010[^key-2a456bf56bc25fd5857032ef07490d71] in respect of payments made wholly and exclusively for the purposes of its business, and
+  - (ii) relief under Part 6 of CTA 2010[^c-2a456bf56bc25fd5857032ef07490d71] in respect of payments made wholly and exclusively for the purposes of its business, and
   - (iii) any allowance under Part 2 of CAA 2001 (plant and machinery allowances).
 
 ## Annotations
 
-[^key-1bc258c6f1e6ce486324cfbc1373c7aa]: Textual amendment: Words in s. 463(5)(c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 621(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/621/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1bc258c6f1e6ce486324cfbc1373c7aa]: Textual amendment: Words in s. 463(5)(c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 621(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/621/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-710e70278da2c60a2d4283d9a67b1efb]: Textual amendment: Words in s. 463(5)(d) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 621(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/621/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-710e70278da2c60a2d4283d9a67b1efb]: Textual amendment: Words in s. 463(5)(d) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 621(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/621/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-2a456bf56bc25fd5857032ef07490d71]: Textual amendment: Words in s. 463(5)(e)(ii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 621(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/621/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2a456bf56bc25fd5857032ef07490d71]: Textual amendment: Words in s. 463(5)(e)(ii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 621(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/621/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

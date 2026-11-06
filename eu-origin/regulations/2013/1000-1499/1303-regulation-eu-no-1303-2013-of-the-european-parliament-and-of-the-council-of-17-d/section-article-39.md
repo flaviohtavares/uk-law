@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 39. Contribution of ERDF and EAFRD to joint uncapped guarantee and securitisation financial instruments in favour of SMEs, implemented by the EIB[^key-f32b3dbc7f95085ad44079b21e5ac710]
+## Article 39. Contribution of ERDF and EAFRD to joint uncapped guarantee and securitisation financial instruments in favour of SMEs, implemented by the EIB[^c-f32b3dbc7f95085ad44079b21e5ac710]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f32b3dbc7f95085ad44079b21e5ac710]: Textual amendment: [Art. 39](https://www.legislation.gov.uk/eur/2013/1303/article/39) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/785/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f32b3dbc7f95085ad44079b21e5ac710]: Textual amendment: [Art. 39](https://www.legislation.gov.uk/eur/2013/1303/article/39) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/785/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -72,7 +72,7 @@ where—
   - (iii) chargeable at rate R but for social housing relief;
 - (c) “building”, “in-use building”, “new build”, “relevant building” and “relevant charging schedules” have the same meaning as in regulation 40.
 
-## 50.[^M_E_ee415cca-0ccf-4f89-eff5-4691086b1dcc][^key-220032ece71a87910152ad8c847c1edf]
+## 50.[^M_E_ee415cca-0ccf-4f89-eff5-4691086b1dcc][^c-220032ece71a87910152ad8c847c1edf]
 
 *Extent: E*
 
@@ -86,4 +86,4 @@ The amount of social housing relief for which a chargeable development is eligib
 
 [^M_E_ee415cca-0ccf-4f89-eff5-4691086b1dcc]: Extent: This version of this provision applies to England only; a separate version has been created for Wales only
 
-[^key-220032ece71a87910152ad8c847c1edf]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/uksi/2010/948/regulation/50) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-220032ece71a87910152ad8c847c1edf]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/uksi/2010/948/regulation/50) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

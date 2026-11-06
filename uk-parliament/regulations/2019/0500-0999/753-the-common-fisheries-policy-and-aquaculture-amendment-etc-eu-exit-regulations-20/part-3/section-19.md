@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Council Regulation [(EC) No 812/2004](https://www.legislation.gov.uk/eur/2004/812) laying down measures concerning incidental catches of cetaceans in fisheries[^key-36c6621fe18268e3e4b5362d4349a3e7]
+## 19. Council Regulation [(EC) No 812/2004](https://www.legislation.gov.uk/eur/2004/812) laying down measures concerning incidental catches of cetaceans in fisheries[^c-36c6621fe18268e3e4b5362d4349a3e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36c6621fe18268e3e4b5362d4349a3e7]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/753/regulation/19) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36c6621fe18268e3e4b5362d4349a3e7]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/753/regulation/19) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

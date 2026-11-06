@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Application, disapplication and modification of legislative provisions[^key-f1b855c0c591331de3782bb0caa086c1]
+## 56. Application, disapplication and modification of legislative provisions[^c-f1b855c0c591331de3782bb0caa086c1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Part 1 of Schedule 19 *(miscellaneous controls)* to this Order, which makes prov
 
 ## Annotations
 
-[^key-f1b855c0c591331de3782bb0caa086c1]: Commencement: Art. 56 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-f1b855c0c591331de3782bb0caa086c1]: Commencement: Art. 56 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13AA. Eligible rent and maximum rent (social sector)[^key-f35f907a8f26e636ba6f0647a945f666][^key-5f56bebf5956e73edb22b70e1374f729]
+## 13AA. Eligible rent and maximum rent (social sector)[^c-f35f907a8f26e636ba6f0647a945f666][^c-5f56bebf5956e73edb22b70e1374f729]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 where that eligible rent is more than the eligible rent determined in accordance with paragraph (2).
 
-(4)[^key-0a837b98c28aa7e52a1e38b6426fce34] For the purposes of paragraph (3), a claimant is treated as occupying the dwelling if—
+(4)[^c-0a837b98c28aa7e52a1e38b6426fce34] For the purposes of paragraph (3), a claimant is treated as occupying the dwelling if—
 
 - (a) any of paragraphs (13), (13D) (with (13E) where applicable) or (13G) of regulation 7 is satisfied and for that purpose those paragraphs shall have effect as if sub-paragraph (b) of those paragraphs were omitted; or
 - (b) any of paragraphs (17), (17C) or (17D) of regulation 7 is satisfied and for that purpose those paragraphs shall have effect as if sub-paragraph (b) of paragraph (16) of that regulation were omitted.
@@ -58,8 +58,8 @@ where that eligible rent is more than the eligible rent determined in accordance
 
 ## Annotations
 
-[^key-f35f907a8f26e636ba6f0647a945f666]: Textual amendment: [Reg. 13AA](https://www.legislation.gov.uk/nisr/2006/405/regulation/13AA) inserted (20.2.2017) by [The Housing Benefit (Amendment No. 2) Regulations (Northern Ireland) 2016 (S.R. 2016/326)](https://www.legislation.gov.uk/nisr/2016/326), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3), [5(5)](https://www.legislation.gov.uk/nisr/2016/326/regulation/5/5) (as amended by [S.R. 2016/432](https://www.legislation.gov.uk/nisr/2016/432), [reg. 7](https://www.legislation.gov.uk/nisr/2016/432/regulation/7))
+[^c-f35f907a8f26e636ba6f0647a945f666]: Textual amendment: [Reg. 13AA](https://www.legislation.gov.uk/nisr/2006/405/regulation/13AA) inserted (20.2.2017) by [The Housing Benefit (Amendment No. 2) Regulations (Northern Ireland) 2016 (S.R. 2016/326)](https://www.legislation.gov.uk/nisr/2016/326), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3), [5(5)](https://www.legislation.gov.uk/nisr/2016/326/regulation/5/5) (as amended by [S.R. 2016/432](https://www.legislation.gov.uk/nisr/2016/432), [reg. 7](https://www.legislation.gov.uk/nisr/2016/432/regulation/7))
 
-[^key-5f56bebf5956e73edb22b70e1374f729]: Textual amendment: [Regs. 13A-13C](https://www.legislation.gov.uk/nisr/2006/405/regulation/13A) inserted (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/6)
+[^c-5f56bebf5956e73edb22b70e1374f729]: Textual amendment: [Regs. 13A-13C](https://www.legislation.gov.uk/nisr/2006/405/regulation/13A) inserted (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/6)
 
-[^key-0a837b98c28aa7e52a1e38b6426fce34]: Textual amendment: [Reg. 13AA(4)](https://www.legislation.gov.uk/nisr/2006/405/regulation/13AA/4) substituted (20.2.2017) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/1)](https://www.legislation.gov.uk/nisr/2017/1), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/b), [2(3)](https://www.legislation.gov.uk/nisr/2017/1/regulation/2/3)
+[^c-0a837b98c28aa7e52a1e38b6426fce34]: Textual amendment: [Reg. 13AA(4)](https://www.legislation.gov.uk/nisr/2006/405/regulation/13AA/4) substituted (20.2.2017) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/1)](https://www.legislation.gov.uk/nisr/2017/1), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2017/1/regulation/1/1/b), [2(3)](https://www.legislation.gov.uk/nisr/2017/1/regulation/2/3)

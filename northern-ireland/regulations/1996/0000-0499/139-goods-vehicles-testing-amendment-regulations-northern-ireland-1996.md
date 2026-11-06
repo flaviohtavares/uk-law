@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 65(1) and (2), 67(1) and 110(2) of the Road Traffic (Northern Ireland) Order 1995[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-ba064ecba61096eedfc5ac525f0f9dc7]
+## 1. Citation and commencement[^c-ba064ecba61096eedfc5ac525f0f9dc7]
 
 These Regulations may be cited as the Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 3rd June 1996.
 
-## 2. Amendment of the Goods Vehicles (Testing) Regulations (Northern Ireland) 1995[^key-c3d4e9cb59f8b2da534693a543d1b19b]
+## 2. Amendment of the Goods Vehicles (Testing) Regulations (Northern Ireland) 1995[^c-c3d4e9cb59f8b2da534693a543d1b19b]
 
 The Goods Vehicles (Testing) Regulations (Northern Ireland) 1995[^f00002] shall be amended as follows—
 
@@ -80,8 +80,8 @@ These Regulations amend the Goods Vehicles (Testing) Regulations (Northern Irela
 
 [^f00001]: Footnote: S.I. [1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994); *see* Article 2(2) for the definition of “the Department”
 
-[^key-ba064ecba61096eedfc5ac525f0f9dc7]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/139/regulation/1)
+[^c-ba064ecba61096eedfc5ac525f0f9dc7]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/139/regulation/1)
 
-[^key-c3d4e9cb59f8b2da534693a543d1b19b]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/139/regulation/1)
+[^c-c3d4e9cb59f8b2da534693a543d1b19b]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/139/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1995 No. 450](https://www.legislation.gov.uk/nisr/1995/450)

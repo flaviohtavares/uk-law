@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Requests for information made by member States[^key-cc2c8690972630fc83c520b99de9f68a]
+## 5. Requests for information made by member States[^c-cc2c8690972630fc83c520b99de9f68a]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,4 +86,4 @@ the designated UK authority must, as soon as practicable before the end of the r
 
 ## Annotations
 
-[^key-cc2c8690972630fc83c520b99de9f68a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/29/section/5) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/e)
+[^c-cc2c8690972630fc83c520b99de9f68a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/29/section/5) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/e)

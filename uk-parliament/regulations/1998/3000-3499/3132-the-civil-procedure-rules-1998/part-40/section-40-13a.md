@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.13A. County Court set-off of cross-judgments[^key-bb64368f8f525da541d5965b2fa4038d]
+## 40.13A. County Court set-off of cross-judgments[^c-bb64368f8f525da541d5965b2fa4038d]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb64368f8f525da541d5965b2fa4038d]: Textual amendment: [Rule 40.13A](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.13A) inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(3)](https://www.legislation.gov.uk/uksi/2014/407/article/2/3), [16(d)](https://www.legislation.gov.uk/uksi/2014/407/rule/16/d) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/regulation/41/2))
+[^c-bb64368f8f525da541d5965b2fa4038d]: Textual amendment: [Rule 40.13A](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.13A) inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(3)](https://www.legislation.gov.uk/uksi/2014/407/article/2/3), [16(d)](https://www.legislation.gov.uk/uksi/2014/407/rule/16/d) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/regulation/41/2))

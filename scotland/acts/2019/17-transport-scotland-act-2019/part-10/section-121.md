@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Health boards: duty to work with community transport bodies[^key-f5fd624b5f7bd7b9155e8b4cc4d237fc]
+## 121. Health boards: duty to work with community transport bodies[^c-f5fd624b5f7bd7b9155e8b4cc4d237fc]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5fd624b5f7bd7b9155e8b4cc4d237fc]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2019/17/section/121) in force at 1.10.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-f5fd624b5f7bd7b9155e8b4cc4d237fc]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2019/17/section/121) in force at 1.10.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Accounts to be kept of receipts and disbursements, which shall be open for inspection. Penalty for refusal.[^key-c932cb2e4a669a8a1e5790c03ad24649]
+## 89. Accounts to be kept of receipts and disbursements, which shall be open for inspection. Penalty for refusal.[^c-c932cb2e4a669a8a1e5790c03ad24649]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Commissioners shall cause books to be provided and kept, and true and regula
 
 ## Annotations
 
-[^key-c932cb2e4a669a8a1e5790c03ad24649]: Modification: Ss. 36-92 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-c932cb2e4a669a8a1e5790c03ad24649]: Modification: Ss. 36-92 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
 
 [^c5651761]: Textual amendment: Words substituted (E.W.S.) by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)

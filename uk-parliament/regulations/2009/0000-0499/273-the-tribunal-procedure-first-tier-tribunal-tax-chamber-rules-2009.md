@@ -54,7 +54,7 @@ The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of 
 
 (1) These Rules may be cited as the Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009 and come into force on 1st April 2009.
 
-(2)[^key-0938bcc4e4afca027fcd46eba07af3f6] These Rules apply to proceedings before the Tax Chamber of the First-tier Tribunal.
+(2)[^c-0938bcc4e4afca027fcd46eba07af3f6] These Rules apply to proceedings before the Tax Chamber of the First-tier Tribunal.
 
 (3) In these Rules—
 
@@ -64,36 +64,36 @@ The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of 
   - (b) in proceedings started jointly by more than one person, such persons acting jointly or each such person, as the context requires;
   - (c) a person substituted as an appellant under rule 9 (substitution and addition of parties);
 - “**Basic case**” means a case allocated to the Basic category under rule 23 (allocation of cases to categories);
-- “[^key-a2ca06954490382e9b34f20a4ae412cc]**CAA case**” means an application under section 563 of the Capital Allowances Act 2001;
+- “[^c-a2ca06954490382e9b34f20a4ae412cc]**CAA case**” means an application under section 563 of the Capital Allowances Act 2001;
 - “**Complex case**” means a case allocated to the Complex category under rule 23 (allocation of cases to categories);
-- “Compliance Officer” means the Compliance Officer for[^key-7e4c43d15a3e35fd44fb9f1d8c2ee0f9] IPSA;
+- “Compliance Officer” means the Compliance Officer for[^c-7e4c43d15a3e35fd44fb9f1d8c2ee0f9] IPSA;
 - “**Default Paper case**” means a case allocated to the Default Paper category under rule 23 (allocation of cases to categories);
-- “devolved Welsh case” means an appeal, referral or application under—[^key-11f0099bcea40f0352a52f309c5f4891]
+- “devolved Welsh case” means an appeal, referral or application under—[^c-11f0099bcea40f0352a52f309c5f4891]
   - (a) a Measure or Act of the National Assembly for Wales; or
   - (b) an instrument made under a Measure or Act of the National Assembly for Wales;
 - “**document**” means anything in which information is recorded in any form, and an obligation under these Rules to provide or allow access to a document or a copy of a document for any purpose means, unless the Tribunal directs otherwise, an obligation to provide or allow access to such document or copy in a legible form or in a form which can be readily made into a legible form;
-- “[^key-34e8f304600140bdcff472c5492e68c4]**financial restrictions civil penalty case**” means an appeal under paragraph 26(3) or 28(1) of Schedule 7 to the Counter-Terrorism Act 2008;
+- “[^c-34e8f304600140bdcff472c5492e68c4]**financial restrictions civil penalty case**” means an appeal under paragraph 26(3) or 28(1) of Schedule 7 to the Counter-Terrorism Act 2008;
 - “**hearing**” means an oral hearing and includes a hearing conducted in whole or in part by video link, telephone or other means of instantaneous two-way electronic communication;
-- “[^key-136acd96b3e1a4cec8d939de429cc443]HMRC” means His Majesty’s[^key-5f9355dcbc3513808215c22e43f5f781] Revenue and Customs but also includes—
-  - (a) the Serious Organised Crime Agency when carrying out functions under section 317 of the Proceeds of Crime Act 2002; [^key-6a7ce8cb2cbdfcd77840e64d1e8ce8ba]...
-  - (b) the Director of Border Revenue when carrying out functions under section 7 of the Borders, Citizenship and Immigration Act 2009; and[^key-5d305255c54659ab4662ae0bff055ade]
-  - (c) the Gambling Commission when carrying out functions under Part 3 of the Finance Act 2022 (economic crime (anti-money laundering) levy)[^key-be57267bb258d86855a78b5f36d4d636];
-- “[^key-d59677c198f75843e31be5ab9969dbf7]IPSA” means the Independent Parliamentary Standards Authority;
+- “[^c-136acd96b3e1a4cec8d939de429cc443]HMRC” means His Majesty’s[^c-5f9355dcbc3513808215c22e43f5f781] Revenue and Customs but also includes—
+  - (a) the Serious Organised Crime Agency when carrying out functions under section 317 of the Proceeds of Crime Act 2002; [^c-6a7ce8cb2cbdfcd77840e64d1e8ce8ba]...
+  - (b) the Director of Border Revenue when carrying out functions under section 7 of the Borders, Citizenship and Immigration Act 2009; and[^c-5d305255c54659ab4662ae0bff055ade]
+  - (c) the Gambling Commission when carrying out functions under Part 3 of the Finance Act 2022 (economic crime (anti-money laundering) levy)[^c-be57267bb258d86855a78b5f36d4d636];
+- “[^c-d59677c198f75843e31be5ab9969dbf7]IPSA” means the Independent Parliamentary Standards Authority;
 - “MP expenses case” means an appeal under the Parliamentary Standards Act 2009;
 - “**party**” means a person who is (or was at the time that the Tribunal disposed of the proceedings) an appellant or respondent in proceedings before the Tribunal;
 - “**practice direction**” means a direction given under section 23 of the 2007 Act;
-- “respondent” means—[^key-10000078ad4819ca70b789f3f38d8ed9]
-  - (a) in a case other than an MP expenses case or a devolved Welsh case[^key-b41297f506b3dc400511cff23ec67de5]—
+- “respondent” means—[^c-10000078ad4819ca70b789f3f38d8ed9]
+  - (a) in a case other than an MP expenses case or a devolved Welsh case[^c-b41297f506b3dc400511cff23ec67de5]—
     - (i) HMRC, where HMRC is not an appellant;
     - (ii) in proceedings brought by HMRC alone, a person against whom the proceedings are brought or to whom the proceedings relate;
-  - (b) in a MP expenses case, the Compliance Officer; [^key-e6447e7547536b1bcff4205485d03187]...
-  - (ba) in a devolved Welsh case—[^key-198e9a9ddf78f23a093b79b71f27abcb]
+  - (b) in a MP expenses case, the Compliance Officer; [^c-e6447e7547536b1bcff4205485d03187]...
+  - (ba) in a devolved Welsh case—[^c-198e9a9ddf78f23a093b79b71f27abcb]
     - (i) WRA, where WRA is not an appellant;
     - (ii) in proceedings brought by WRA alone, a person against whom the proceedings are brought or to whom the proceedings relate; and
   - (d) in any case, a person substituted or added as a respondent under rule 9 (substitution and addition of parties);
 - “**Standard case**” means a case allocated to the Standard category under rule 23 (allocation of cases to categories);
-- [^key-a86eebea4712da4bf567b19a4665f46d]...
-- “**Tribunal**” means the First-tier Tribunal [^key-9085746a58a30f80221c44772cc32695]...
+- [^c-a86eebea4712da4bf567b19a4665f46d]...
+- “**Tribunal**” means the First-tier Tribunal [^c-9085746a58a30f80221c44772cc32695]...
 - “WRA” means the Welsh Revenue Authority.
 
 ### 2. Overriding objective and parties' obligation to co-operate with the Tribunal
@@ -131,11 +131,11 @@ The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of 
 
 ### 4. Delegation to staff
 
-(1) Staff appointed under section 40(1) of the 2007 Act (tribunal staff and services) or section 2(1) of the Courts Act 2003 (court officers, staff and services)[^key-93d4bd694f7de73876d7ab49623b6c47] may, if authorised by[^key-470fed4a2ea233f68e96cd801b932a2c] the Senior President of Tribunals under paragraph 3(3) of Schedule 5 to the 2007 Act[^key-9b3a42bea8acfaf9db0d1699f3c5f94f], carry out functions of a judicial nature permitted or required to be done by the Tribunal.
+(1) Staff appointed under section 40(1) of the 2007 Act (tribunal staff and services) or section 2(1) of the Courts Act 2003 (court officers, staff and services)[^c-93d4bd694f7de73876d7ab49623b6c47] may, if authorised by[^c-470fed4a2ea233f68e96cd801b932a2c] the Senior President of Tribunals under paragraph 3(3) of Schedule 5 to the 2007 Act[^c-9b3a42bea8acfaf9db0d1699f3c5f94f], carry out functions of a judicial nature permitted or required to be done by the Tribunal.
 
-(2)[^key-3d8b82f157ba78f997f1cd4a75423a8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3d8b82f157ba78f997f1cd4a75423a8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Within 14 days after the date that the Tribunal sends notice of a decision made by a member of staff [^key-4af2f95acf0f48e739da5c5e2b65a6f9]... under paragraph (1) to a party, that party may make a written application to the Tribunal requiring that decision to be considered afresh by a judge.
+(3) Within 14 days after the date that the Tribunal sends notice of a decision made by a member of staff [^c-4af2f95acf0f48e739da5c5e2b65a6f9]... under paragraph (1) to a party, that party may make a written application to the Tribunal requiring that decision to be considered afresh by a judge.
 
 ### 5. Case management powers
 
@@ -160,7 +160,7 @@ The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of 
   - (ii) the Tribunal considers that the other tribunal is a more appropriate forum for the determination of the case;
 - (l) suspend the effect of its own decision pending the determination by the Tribunal or the Upper Tribunal, as the case may be, of an application for permission to appeal, a review or an appeal.
 
-### 5A. Coronavirus temporary rule (decisions without a hearing)[^key-d7264ce162587ac8bfdd14528cf29c5f]
+### 5A. Coronavirus temporary rule (decisions without a hearing)[^c-d7264ce162587ac8bfdd14528cf29c5f]
 
 (1) Notwithstanding anything in rule 24(2) (basic cases), rule 26(7) (further steps in a default paper case) and rule 29 (determination with or without a hearing), the Tribunal may make a decision which disposes of proceedings without a hearing if the Tribunal considers that the conditions in paragraph (2) are satisfied.
 
@@ -255,12 +255,12 @@ The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of 
 
 (1) The Tribunal may only make an order in respect of costs (or, in Scotland, expenses)—
 
-- (a) under section 29(4) of the 2007 Act (wasted costs) and costs incurred in applying for such costs[^key-a47ec6904860f540c4dee846b05b3c5a];
-- (b) if the Tribunal considers that a party or their representative has acted unreasonably in bringing, defending or conducting the proceedings; [^key-ca2da1af0ac3eb84c01e173d87016669]...
+- (a) under section 29(4) of the 2007 Act (wasted costs) and costs incurred in applying for such costs[^c-a47ec6904860f540c4dee846b05b3c5a];
+- (b) if the Tribunal considers that a party or their representative has acted unreasonably in bringing, defending or conducting the proceedings; [^c-ca2da1af0ac3eb84c01e173d87016669]...
 - (c) if—
   - (i) the proceedings have been allocated as a Complex case under rule 23 (allocation of cases to categories); and
-  - (ii) the taxpayer (or, where more than one party is a taxpayer, one of them) has not sent or delivered a written request to the Tribunal, within 28 days of receiving notice that the case had been allocated as a Complex case, that the proceedings be excluded from potential liability for costs or expenses under this sub-paragraph; or[^key-372c65c24197415f7c51793b3b1d5adf]
-- (d)[^key-1721021060be909527a859a2727163cf] in a MP expenses case, if—
+  - (ii) the taxpayer (or, where more than one party is a taxpayer, one of them) has not sent or delivered a written request to the Tribunal, within 28 days of receiving notice that the case had been allocated as a Complex case, that the proceedings be excluded from potential liability for costs or expenses under this sub-paragraph; or[^c-372c65c24197415f7c51793b3b1d5adf]
+- (d)[^c-1721021060be909527a859a2727163cf] in a MP expenses case, if—
   - (i) the case has been allocated as a Complex case under rule 23 (allocation of cases to categories); and
   - (ii) the appellant has not sent or delivered a written request to the Tribunal, within 28 days of receiving notice that the case had been allocated as a Complex case, that the proceedings be excluded from potential liability for costs or expenses under this sub-paragraph.
 
@@ -274,7 +274,7 @@ The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of 
 (4) An application for an order under paragraph (1) may be made at any time during the proceedings but may not be made later than 28 days after the date on which the Tribunal sends—
 
 - (a) a decision notice recording the decision which finally disposes of all issues in the proceedings; or
-- (b) notice under rule 17(2) of its receipt of a withdrawal[^key-4639cdb046ff69d8f59c019e2d2e2225] which ends the proceedings.
+- (b) notice under rule 17(2) of its receipt of a withdrawal[^c-4639cdb046ff69d8f59c019e2d2e2225] which ends the proceedings.
 
 (5) The Tribunal may not make an order under paragraph (1) against a person (the “paying person”) without first—
 
@@ -285,7 +285,7 @@ The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of 
 
 - (a) summary assessment by the Tribunal;
 - (b) agreement of a specified sum by the paying person and the person entitled to receive the costs or expenses (the “receiving person”); or
-- (c) assessment of the whole or a specified part of the costs or expenses , including the costs or expenses of the assessment,[^key-373454d348e1e1384d920205e65c26c6] incurred by the receiving person, if not agreed.
+- (c) assessment of the whole or a specified part of the costs or expenses , including the costs or expenses of the assessment,[^c-373454d348e1e1384d920205e65c26c6] incurred by the receiving person, if not agreed.
 
 (7) Following an order for assessment under paragraph (6)(c) the paying person or the receiving person may apply—
 
@@ -293,7 +293,7 @@ The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of 
 - (b) in Scotland, to the Auditor of the Sheriff Court or the Court of Session (as specified in the order) for the taxation of the expenses according to the fees payable in that court; or
 - (c) in Northern Ireland, to the Taxing Office of the High Court of Northern Ireland for taxation on the standard basis or, if specified in the order, on the indemnity basis.
 
-(7A)[^key-5ca8cb98d8485e5b483877fcdf48e0f5] Upon making an order for the assessment of costs, the Tribunal may order an amount to be paid on account before the costs or expenses are assessed.
+(7A)[^c-5ca8cb98d8485e5b483877fcdf48e0f5] Upon making an order for the assessment of costs, the Tribunal may order an amount to be paid on account before the costs or expenses are assessed.
 
 (8) In this rule “**taxpayer**” means a party who is liable to pay, or has paid, the tax, duty, levy or penalty to which the proceedings relate or part of such tax, duty, levy or penalty, or whose liability to do so is in issue in the proceedings;
 
@@ -314,7 +314,7 @@ The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of 
 
 (6) Paragraphs (2) to (4) do not apply to a person (other than an appointed representative) who accompanies a party in accordance with paragraph (5).
 
-(7) In this rule “**legal representative**” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation within the meaning of that Act[^key-2cdf3fee6674924abdd6c7795b162ce9], an advocate or solicitor in Scotland, or a barrister or solicitor in Northern Ireland.
+(7) In this rule “**legal representative**” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation within the meaning of that Act[^c-2cdf3fee6674924abdd6c7795b162ce9], an advocate or solicitor in Scotland, or a barrister or solicitor in Northern Ireland.
 
 ### 12. Calculating time
 
@@ -396,10 +396,10 @@ The Tribunal may make an order prohibiting the disclosure or publication of—
 
 (1) Subject to any provision in an enactment relating to withdrawal or settlement of particular proceedings, a party may give notice to the Tribunal of the withdrawal of the case made by it in the Tribunal proceedings, or any part of that case—
 
-- (a) [^key-e55dc93ad539ef0d71be11ea705242d7]... by sending or delivering to the Tribunal a written notice of withdrawal; or
+- (a) [^c-e55dc93ad539ef0d71be11ea705242d7]... by sending or delivering to the Tribunal a written notice of withdrawal; or
 - (b) orally at a hearing.
 
-(2) The Tribunal must notify each [^key-b547f5d757dc00a3123e22a0484cca8f]... party in writing of its receipt of[^key-846ba2e906839ce5d93a3be14626e0f7] a withdrawal under this rule.
+(2) The Tribunal must notify each [^c-b547f5d757dc00a3123e22a0484cca8f]... party in writing of its receipt of[^c-846ba2e906839ce5d93a3be14626e0f7] a withdrawal under this rule.
 
 (3) A party who has withdrawn their case may apply to the Tribunal for the case to be reinstated.
 
@@ -450,7 +450,7 @@ does not apply to that case or matter.
 
 #### 20. Starting appeal proceedings
 
-(1)[^key-0c6c5020bf30f110ebab5c41520ed63d] A person making or notifying an appeal to the Tribunal under any enactment must start proceedings by sending or delivering a notice of appeal to the Tribunal.
+(1)[^c-0c6c5020bf30f110ebab5c41520ed63d] A person making or notifying an appeal to the Tribunal under any enactment must start proceedings by sending or delivering a notice of appeal to the Tribunal.
 
 (2) The notice of appeal must include—
 
@@ -463,7 +463,7 @@ does not apply to that case or matter.
 
 (3) The appellant must provide with the notice of appeal a copy of any written record of any decision appealed against, and any statement of reasons for that decision, that the appellant has or can reasonably obtain.
 
-(4)[^key-c3f7f972fef353b090bbb684a5408170] If the notice of appeal is provided after the end of any period specified in an enactment referred to in paragraph (1) but the enactment provides that an appeal may be made or notified after that period with the permission of the Tribunal—
+(4)[^c-c3f7f972fef353b090bbb684a5408170] If the notice of appeal is provided after the end of any period specified in an enactment referred to in paragraph (1) but the enactment provides that an appeal may be made or notified after that period with the permission of the Tribunal—
 
 - (a) the notice of appeal must include a request for such permission and the reason why the notice of appeal was not provided in time; and
 - (b) unless the Tribunal gives such permission, the Tribunal must not admit the appeal.
@@ -489,7 +489,7 @@ does not apply to that case or matter.
 - (a) the application notice or notice of reference must include a request for an extension of time and the reason why the application notice or notice of reference was not provided in time; and
 - (b) unless the Tribunal extends time for the application notice or notice of reference under rule 5(3)(a) (power to extend time) the Tribunal must not admit the application notice or notice of reference.
 
-(3A)[^key-ab3bb5234f81615400204b20b4ad6b25] The power of the Tribunal under these Rules to extend time for starting proceedings shall not apply in a CAA case.
+(3A)[^c-ab3bb5234f81615400204b20b4ad6b25] The power of the Tribunal under these Rules to extend time for starting proceedings shall not apply in a CAA case.
 
 (4) When the Tribunal receives an application notice or a notice of reference it must send a copy of the notice and any accompanying document to any respondent.
 
@@ -509,9 +509,9 @@ does not apply to that case or matter.
 
 #### 23. Allocation of cases to categories
 
-(1)[^key-f79dc1222e9df42f978568fb6b64eeab] When the Tribunal receives a notice of appeal, application notice or notice of reference, the Tribunal must give a direction—
+(1)[^c-f79dc1222e9df42f978568fb6b64eeab] When the Tribunal receives a notice of appeal, application notice or notice of reference, the Tribunal must give a direction—
 
-- (a) in an MP expenses case , a financial restrictions civil penalty case or a[^key-c6188a197a943164ae2d6bafa1296e2f] CAA case, allocating the case to one of the categories set out in paragraph (2)(c) or (d); and
+- (a) in an MP expenses case , a financial restrictions civil penalty case or a[^c-c6188a197a943164ae2d6bafa1296e2f] CAA case, allocating the case to one of the categories set out in paragraph (2)(c) or (d); and
 - (b) in any other case, allocating the case to one of the categories set out in paragraph (2).
 
 (2) The categories referred to in paragraph (1) are—
@@ -551,7 +551,7 @@ does not apply to that case or matter.
 
 #### 25. Respondent's statement of case
 
-(1)[^key-8bb72f1a2e1173862ff9f167b6548b81] A respondent must send or deliver a statement of case to the Tribunal, the appellant and any other respondent so that it is received—
+(1)[^c-8bb72f1a2e1173862ff9f167b6548b81] A respondent must send or deliver a statement of case to the Tribunal, the appellant and any other respondent so that it is received—
 
 - (a) in a Default Paper case, within 42 days after the Tribunal sent the notice of appeal or a copy of the application notice or notice of reference;
 - (b) in an MP expenses case, within 28 days after the Tribunal sent the notice of appeal; or
@@ -599,9 +599,9 @@ does not apply to that case or matter.
 
 #### 28. Transfer of Complex cases to the Upper Tribunal
 
-(1) If a case has been allocated as a Complex case the Tribunal may, with the consent of the parties, refer a case or a preliminary issue[^key-df013e2abe46fb5711d83bf4e39ca51a] to the President of the Tax Chamber of the First-tier Tribunal[^key-8b89de71efc8d41b8742001e4185122b] with a request that the case or issue[^key-a53e3df57b36548c3e5b3523b83b7c6c] be considered for transfer to the Upper Tribunal.
+(1) If a case has been allocated as a Complex case the Tribunal may, with the consent of the parties, refer a case or a preliminary issue[^c-df013e2abe46fb5711d83bf4e39ca51a] to the President of the Tax Chamber of the First-tier Tribunal[^c-8b89de71efc8d41b8742001e4185122b] with a request that the case or issue[^c-a53e3df57b36548c3e5b3523b83b7c6c] be considered for transfer to the Upper Tribunal.
 
-(2)[^key-1908b2c1c637f789c263b6bceff5bb6b] If a case or issue has been referred by the Tribunal under paragraph (1), the President of the Tax Chamber may, with the concurrence of the President of the Tax and Chancery Chamber of the Upper Tribunal, direct that the case or issue be transferred to and determined by the Upper Tribunal.
+(2)[^c-1908b2c1c637f789c263b6bceff5bb6b] If a case or issue has been referred by the Tribunal under paragraph (1), the President of the Tax Chamber may, with the concurrence of the President of the Tax and Chancery Chamber of the Upper Tribunal, direct that the case or issue be transferred to and determined by the Upper Tribunal.
 
 ### CHAPTER 3 — Hearings
 
@@ -641,7 +641,7 @@ Subject to rules 19 (proceedings without notice to a respondent) and 32(4) (excl
 - (d) in order to avoid serious harm to the public interest; or
 - (e) because not to do so would prejudice the interests of justice.
 
-(2A)[^key-25d5f89ae0bf77e7b6b000da28d3428c] The Tribunal may direct that a hearing, or part of it, is to be held in private if—
+(2A)[^c-25d5f89ae0bf77e7b6b000da28d3428c] The Tribunal may direct that a hearing, or part of it, is to be held in private if—
 
 - (a) the Tribunal directs that the proceedings are to be conducted wholly or partly as video proceedings or audio proceedings;
 - (b) it is not reasonably practicable for such a hearing, or such part, to be accessed in a court or tribunal venue by persons who are not parties entitled to participate in the hearing;
@@ -661,7 +661,7 @@ Subject to rules 19 (proceedings without notice to a respondent) and 32(4) (excl
 
 (6) If the Tribunal publishes a report of a decision resulting from a hearing which was held wholly or partly in private, the Tribunal must, so far as practicable, ensure that the report does not disclose information which was referred to only in a part of the hearing that was held in private (including such information which enables the identification of any person whose affairs were dealt with in the part of the hearing that was held in private) if to do so would undermine the purpose of holding the hearing in private.
 
-#### 32A. Coronavirus temporary rule (recording of remote hearings)[^key-44a711ff561e4ee34f6f7ae5f82d4270]
+#### 32A. Coronavirus temporary rule (recording of remote hearings)[^c-44a711ff561e4ee34f6f7ae5f82d4270]
 
 (1) In the circumstances set out in paragraph (3), the Tribunal must direct that the hearing be recorded, if practicable.
 
@@ -672,7 +672,7 @@ Subject to rules 19 (proceedings without notice to a respondent) and 32(4) (excl
 - (a) held in private under rule 32(2A); or
 - (b) only treated as held in public by virtue of a media representative being able to access the proceedings remotely while they are taking place.
 
-(4)[^key-ccd7255b5a78a5fdb1ccf12e61b2229d] On the application of any person, any recording made pursuant to a direction under paragraph (1) is to be accessed with the consent of the Tribunal in such manner as the Tribunal may direct.
+(4)[^c-ccd7255b5a78a5fdb1ccf12e61b2229d] On the application of any person, any recording made pursuant to a direction under paragraph (1) is to be accessed with the consent of the Tribunal in such manner as the Tribunal may direct.
 
 #### 33. Hearings in a party's absence
 
@@ -693,23 +693,23 @@ If a party fails to attend a hearing the Tribunal may proceed with the hearing i
 
 (1) The Tribunal may give a decision orally at a hearing.
 
-(2) The Tribunal must provide to each party , as soon as reasonably practicable[^key-bdefbca8ebf96b1af3c24c7328fe337a] after making a decision (other than a decision under Part 4) which finally disposes of all issues in proceedings or of a preliminary issue dealt with following a direction under rule 5(3)(e)[^key-dfb98dd543063f2e0ba346826150b675] [^key-b1c0abaf255e77a2ba89fe4d6d4a3aab]..., a decision notice which—
+(2) The Tribunal must provide to each party , as soon as reasonably practicable[^c-bdefbca8ebf96b1af3c24c7328fe337a] after making a decision (other than a decision under Part 4) which finally disposes of all issues in proceedings or of a preliminary issue dealt with following a direction under rule 5(3)(e)[^c-dfb98dd543063f2e0ba346826150b675] [^c-b1c0abaf255e77a2ba89fe4d6d4a3aab]..., a decision notice which—
 
 - (a) states the Tribunal's decision; and
 - (b) notifies the party of any right of appeal against the decision and the time within which, and the manner in which, the right of appeal may be exercised.
 
-(3) The[^key-e61e97dad2ffb40b0d9079c3731e40b5] decision notice must—
+(3) The[^c-e61e97dad2ffb40b0d9079c3731e40b5] decision notice must—
 
 - (a) include a summary of the findings of fact and reasons for the decision; or
 - (b) be accompanied by full written findings of fact and reasons for the decision.
 
-(3A)[^key-11ac9704c776a6802cfbb6a0002978e2] Paragraph (3) does not apply where the Tribunal has given reasons for the decision, whether summary or full, orally at a hearing.
+(3A)[^c-11ac9704c776a6802cfbb6a0002978e2] Paragraph (3) does not apply where the Tribunal has given reasons for the decision, whether summary or full, orally at a hearing.
 
 (4) If the Tribunal provides no findings and reasons, or summary findings and reasons only, in or with the decision notice, a party to the proceedings may apply for full written findings and reasons, and must do so before making an application for permission to appeal under rule 39 (application for permission to appeal).
 
-(5) An application under paragraph (4) must be made in writing and be sent or delivered to the Tribunal so that it is received within 14 days[^key-688d055fd2510d603c2a63713b62fe50] after the date that the Tribunal sent or otherwise provided the decision notice under paragraph (2) to the party making the application.
+(5) An application under paragraph (4) must be made in writing and be sent or delivered to the Tribunal so that it is received within 14 days[^c-688d055fd2510d603c2a63713b62fe50] after the date that the Tribunal sent or otherwise provided the decision notice under paragraph (2) to the party making the application.
 
-(6) The Tribunal must send a full written statement of findings and reasons to each party as soon as reasonably practicable[^key-dedb4aa3ae9de469bf3c7c43f351545f] after receiving an application for full written reasons made in accordance with paragraphs (4) and (5) [^key-d66772751a65da258f669171dc626eca]....
+(6) The Tribunal must send a full written statement of findings and reasons to each party as soon as reasonably practicable[^c-dedb4aa3ae9de469bf3c7c43f351545f] after receiving an application for full written reasons made in accordance with paragraphs (4) and (5) [^c-d66772751a65da258f669171dc626eca]....
 
 ## PART 4 — Correcting, setting aside, reviewing and appealing Tribunal decisions
 
@@ -729,7 +729,7 @@ The Tribunal may at any time correct any clerical mistake or other accidental sl
 
 ### 38. Setting aside a decision which disposes of proceedings
 
-(1) The Tribunal may , on the application of a party or on its own initiative,[^key-06371d9c3eb541d2e5bc4fd997f6178f] set aside a decision which disposes of proceedings, or part of such a decision, and re-make the decision, or the relevant part of it, if—
+(1) The Tribunal may , on the application of a party or on its own initiative,[^c-06371d9c3eb541d2e5bc4fd997f6178f] set aside a decision which disposes of proceedings, or part of such a decision, and re-make the decision, or the relevant part of it, if—
 
 - (a) the Tribunal considers that it is in the interests of justice to do so; and
 - (b) one or more of the conditions in paragraph (2) is satisfied.
@@ -751,8 +751,8 @@ The Tribunal may at any time correct any clerical mistake or other accidental sl
 
 (2) An application under paragraph (1) must be sent or delivered to the Tribunal so that it is received no later than 56 days after the latest of the dates that the Tribunal sends to the person making the application—
 
-- (za)[^key-ea7b0042b78a924c2663c3f957e0e452] the relevant decision notice;
-- (a)[^key-c84d5a06553d5eb816283486beb5d917] where—
+- (za)[^c-ea7b0042b78a924c2663c3f957e0e452] the relevant decision notice;
+- (a)[^c-c84d5a06553d5eb816283486beb5d917] where—
   - (i) the decision disposes of all issues in the proceedings; or
   - (ii) subject to paragraph (2A), the decision disposes of a preliminary issue dealt with following a direction under rule 5(3)(e),
 
@@ -760,7 +760,7 @@ The Tribunal may at any time correct any clerical mistake or other accidental sl
 - (b) notification of amended reasons for, or correction of, the decision following a review; or
 - (c) notification that an application for the decision to be set aside has been unsuccessful.
 
-(2A)[^key-51be4c93b1fa9c1d2d79158093735955] The Tribunal may direct that the 56 days within which a party may send or deliver an application for permission to appeal against a decision that disposes of a preliminary issue shall run from the date of the decision that disposes of all issues in the proceedings.
+(2A)[^c-51be4c93b1fa9c1d2d79158093735955] The Tribunal may direct that the 56 days within which a party may send or deliver an application for permission to appeal against a decision that disposes of a preliminary issue shall run from the date of the decision that disposes of all issues in the proceedings.
 
 (3) The date in paragraph (2)(c) applies only if the application for the decision to be set aside was made within the time stipulated in rule 38 (setting aside a decision which disposes of proceedings), or any extension of that time granted by the Tribunal.
 
@@ -849,128 +849,128 @@ Part 4 deals with correcting, setting aside, reviewing and appealing against Tri
 
 [^c19570481]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-0938bcc4e4afca027fcd46eba07af3f6]: Textual amendment: Rule 1(2) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/2)
+[^c-0938bcc4e4afca027fcd46eba07af3f6]: Textual amendment: Rule 1(2) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/2)
 
-[^key-a2ca06954490382e9b34f20a4ae412cc]: Textual amendment: Words in rule 1(3) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [34(a)](https://www.legislation.gov.uk/uksi/2013/477/article/34/a)
+[^c-a2ca06954490382e9b34f20a4ae412cc]: Textual amendment: Words in rule 1(3) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [34(a)](https://www.legislation.gov.uk/uksi/2013/477/article/34/a)
 
-[^key-7e4c43d15a3e35fd44fb9f1d8c2ee0f9]: Textual amendment: Words in rule 1(3) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/3/a)
+[^c-7e4c43d15a3e35fd44fb9f1d8c2ee0f9]: Textual amendment: Words in rule 1(3) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/3/a)
 
-[^key-11f0099bcea40f0352a52f309c5f4891]: Textual amendment: Words in rule 1(3) inserted (21.12.2017) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [8(a)](https://www.legislation.gov.uk/uksi/2017/1168/rule/8/a)
+[^c-11f0099bcea40f0352a52f309c5f4891]: Textual amendment: Words in rule 1(3) inserted (21.12.2017) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [8(a)](https://www.legislation.gov.uk/uksi/2017/1168/rule/8/a)
 
-[^key-34e8f304600140bdcff472c5492e68c4]: Textual amendment: Words in rule 1(3) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [34(b)](https://www.legislation.gov.uk/uksi/2013/477/article/34/b)
+[^c-34e8f304600140bdcff472c5492e68c4]: Textual amendment: Words in rule 1(3) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [34(b)](https://www.legislation.gov.uk/uksi/2013/477/article/34/b)
 
-[^key-136acd96b3e1a4cec8d939de429cc443]: Textual amendment: Words in rule 1(3) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/3/b)
+[^c-136acd96b3e1a4cec8d939de429cc443]: Textual amendment: Words in rule 1(3) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/3/b)
 
-[^key-5f9355dcbc3513808215c22e43f5f781]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/uksi/2009/273/rule/1/3) substituted (6.4.2023) by [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/327/rule/3/2)
+[^c-5f9355dcbc3513808215c22e43f5f781]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/uksi/2009/273/rule/1/3) substituted (6.4.2023) by [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/327/rule/3/2)
 
-[^key-6a7ce8cb2cbdfcd77840e64d1e8ce8ba]: Textual amendment: Word in [rule 1(3)](https://www.legislation.gov.uk/uksi/2009/273/rule/1/3) omitted (6.4.2024) by virtue of [The Tribunal Procedure (Amendment) Rules 2024 (S.I. 2024/364)](https://www.legislation.gov.uk/uksi/2024/364), [rules 1](https://www.legislation.gov.uk/uksi/2024/364/rule/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/364/rule/2/2/a)
+[^c-6a7ce8cb2cbdfcd77840e64d1e8ce8ba]: Textual amendment: Word in [rule 1(3)](https://www.legislation.gov.uk/uksi/2009/273/rule/1/3) omitted (6.4.2024) by virtue of [The Tribunal Procedure (Amendment) Rules 2024 (S.I. 2024/364)](https://www.legislation.gov.uk/uksi/2024/364), [rules 1](https://www.legislation.gov.uk/uksi/2024/364/rule/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/364/rule/2/2/a)
 
-[^key-5d305255c54659ab4662ae0bff055ade]: Textual amendment: Word in [rule 1(3)](https://www.legislation.gov.uk/uksi/2009/273/rule/1/3) inserted (6.4.2024) by [The Tribunal Procedure (Amendment) Rules 2024 (S.I. 2024/364)](https://www.legislation.gov.uk/uksi/2024/364), [rules 1](https://www.legislation.gov.uk/uksi/2024/364/rule/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/364/rule/2/2/b)
+[^c-5d305255c54659ab4662ae0bff055ade]: Textual amendment: Word in [rule 1(3)](https://www.legislation.gov.uk/uksi/2009/273/rule/1/3) inserted (6.4.2024) by [The Tribunal Procedure (Amendment) Rules 2024 (S.I. 2024/364)](https://www.legislation.gov.uk/uksi/2024/364), [rules 1](https://www.legislation.gov.uk/uksi/2024/364/rule/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/364/rule/2/2/b)
 
-[^key-be57267bb258d86855a78b5f36d4d636]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/uksi/2009/273/rule/1/3) inserted (6.4.2024) by [The Tribunal Procedure (Amendment) Rules 2024 (S.I. 2024/364)](https://www.legislation.gov.uk/uksi/2024/364), [rules 1](https://www.legislation.gov.uk/uksi/2024/364/rule/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/364/rule/2/2/c)
+[^c-be57267bb258d86855a78b5f36d4d636]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/uksi/2009/273/rule/1/3) inserted (6.4.2024) by [The Tribunal Procedure (Amendment) Rules 2024 (S.I. 2024/364)](https://www.legislation.gov.uk/uksi/2024/364), [rules 1](https://www.legislation.gov.uk/uksi/2024/364/rule/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/364/rule/2/2/c)
 
-[^key-d59677c198f75843e31be5ab9969dbf7]: Textual amendment: Words in rule 1(3) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/3/c)
+[^c-d59677c198f75843e31be5ab9969dbf7]: Textual amendment: Words in rule 1(3) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/3/c)
 
-[^key-10000078ad4819ca70b789f3f38d8ed9]: Textual amendment: Words in rule 1(3) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(3)(d)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/3/d)
+[^c-10000078ad4819ca70b789f3f38d8ed9]: Textual amendment: Words in rule 1(3) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(3)(d)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/3/d)
 
-[^key-b41297f506b3dc400511cff23ec67de5]: Textual amendment: Words in rule 1(3) inserted (21.12.2017) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2017/1168/rule/8/b/i)
+[^c-b41297f506b3dc400511cff23ec67de5]: Textual amendment: Words in rule 1(3) inserted (21.12.2017) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2017/1168/rule/8/b/i)
 
-[^key-e6447e7547536b1bcff4205485d03187]: Textual amendment: Word in rule 1(3) omitted (21.12.2017) by virtue of [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1168/rule/8/b/ii)
+[^c-e6447e7547536b1bcff4205485d03187]: Textual amendment: Word in rule 1(3) omitted (21.12.2017) by virtue of [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1168/rule/8/b/ii)
 
-[^key-198e9a9ddf78f23a093b79b71f27abcb]: Textual amendment: Words in rule 1(3) inserted (21.12.2017) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [8(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1168/rule/8/b/iii)
+[^c-198e9a9ddf78f23a093b79b71f27abcb]: Textual amendment: Words in rule 1(3) inserted (21.12.2017) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [8(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1168/rule/8/b/iii)
 
-[^key-a86eebea4712da4bf567b19a4665f46d]: Textual amendment: Words in rule 1(3) omitted (1.4.2011) by virtue of [The Tribunal Procedure (Amendment) Rules 2011 (S.I. 2011/651)](https://www.legislation.gov.uk/uksi/2011/651), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/651/article/1/2/a), [5(2)](https://www.legislation.gov.uk/uksi/2011/651/article/5/2)
+[^c-a86eebea4712da4bf567b19a4665f46d]: Textual amendment: Words in rule 1(3) omitted (1.4.2011) by virtue of [The Tribunal Procedure (Amendment) Rules 2011 (S.I. 2011/651)](https://www.legislation.gov.uk/uksi/2011/651), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/651/article/1/2/a), [5(2)](https://www.legislation.gov.uk/uksi/2011/651/article/5/2)
 
-[^key-9085746a58a30f80221c44772cc32695]: Textual amendment: Full stop in rule 1(3) omitted (21.12.2017) by virtue of [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [8(c)](https://www.legislation.gov.uk/uksi/2017/1168/rule/8/c)
+[^c-9085746a58a30f80221c44772cc32695]: Textual amendment: Full stop in rule 1(3) omitted (21.12.2017) by virtue of [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [8(c)](https://www.legislation.gov.uk/uksi/2017/1168/rule/8/c)
 
 [^c19570511]: Marginal citation: [1996 c.23](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-93d4bd694f7de73876d7ab49623b6c47]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2009/273/rule/4/1) inserted (21.7.2020) by [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/2/a/i)
+[^c-93d4bd694f7de73876d7ab49623b6c47]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2009/273/rule/4/1) inserted (21.7.2020) by [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/2/a/i)
 
-[^key-470fed4a2ea233f68e96cd801b932a2c]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2009/273/rule/4/1) substituted (21.7.2020) by [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/2/a/ii)
+[^c-470fed4a2ea233f68e96cd801b932a2c]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2009/273/rule/4/1) substituted (21.7.2020) by [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/2/a/ii)
 
-[^key-9b3a42bea8acfaf9db0d1699f3c5f94f]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2009/273/rule/4/1) inserted (21.7.2020) by [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/2/a/iii)
+[^c-9b3a42bea8acfaf9db0d1699f3c5f94f]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2009/273/rule/4/1) inserted (21.7.2020) by [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/2/a/iii)
 
-[^key-3d8b82f157ba78f997f1cd4a75423a8e]: Textual amendment: [Rule 4(2)](https://www.legislation.gov.uk/uksi/2009/273/rule/4/2) omitted (21.7.2020) by virtue of [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/2/b)
+[^c-3d8b82f157ba78f997f1cd4a75423a8e]: Textual amendment: [Rule 4(2)](https://www.legislation.gov.uk/uksi/2009/273/rule/4/2) omitted (21.7.2020) by virtue of [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/2/b)
 
-[^key-4af2f95acf0f48e739da5c5e2b65a6f9]: Textual amendment: Words in [rule 4(3)](https://www.legislation.gov.uk/uksi/2009/273/rule/4/3) omitted (21.7.2020) by virtue of [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/2/c)
+[^c-4af2f95acf0f48e739da5c5e2b65a6f9]: Textual amendment: Words in [rule 4(3)](https://www.legislation.gov.uk/uksi/2009/273/rule/4/3) omitted (21.7.2020) by virtue of [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/2/c)
 
-[^key-d7264ce162587ac8bfdd14528cf29c5f]: Textual amendment: [Rule 5A](https://www.legislation.gov.uk/uksi/2009/273/rule/5A) inserted (temp.) (10.4.2020) by virtue of [The Tribunal Procedure (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/416)](https://www.legislation.gov.uk/uksi/2020/416), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/7/2) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2))
+[^c-d7264ce162587ac8bfdd14528cf29c5f]: Textual amendment: [Rule 5A](https://www.legislation.gov.uk/uksi/2009/273/rule/5A) inserted (temp.) (10.4.2020) by virtue of [The Tribunal Procedure (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/416)](https://www.legislation.gov.uk/uksi/2020/416), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/7/2) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2))
 
-[^key-a47ec6904860f540c4dee846b05b3c5a]: Textual amendment: Words in rule 10(1)(a) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [35](https://www.legislation.gov.uk/uksi/2013/477/article/35)
+[^c-a47ec6904860f540c4dee846b05b3c5a]: Textual amendment: Words in rule 10(1)(a) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [35](https://www.legislation.gov.uk/uksi/2013/477/article/35)
 
-[^key-ca2da1af0ac3eb84c01e173d87016669]: Textual amendment: Word in rule 10(1)(b) omitted (29.11.2010) by virtue of [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/4/a)
+[^c-ca2da1af0ac3eb84c01e173d87016669]: Textual amendment: Word in rule 10(1)(b) omitted (29.11.2010) by virtue of [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/4/a)
 
-[^key-372c65c24197415f7c51793b3b1d5adf]: Textual amendment: Word in rule 10(1)(c) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/4/b)
+[^c-372c65c24197415f7c51793b3b1d5adf]: Textual amendment: Word in rule 10(1)(c) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/4/b)
 
-[^key-1721021060be909527a859a2727163cf]: Textual amendment: Rule 10(1)(d) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(4)(c)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/4/c)
+[^c-1721021060be909527a859a2727163cf]: Textual amendment: Rule 10(1)(d) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(4)(c)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/4/c)
 
-[^key-4639cdb046ff69d8f59c019e2d2e2225]: Textual amendment: Words in rule 10(4) substituted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [36](https://www.legislation.gov.uk/uksi/2013/477/article/36)
+[^c-4639cdb046ff69d8f59c019e2d2e2225]: Textual amendment: Words in rule 10(4) substituted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [36](https://www.legislation.gov.uk/uksi/2013/477/article/36)
 
-[^key-373454d348e1e1384d920205e65c26c6]: Textual amendment: Words in rule 10(6)(c) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [37](https://www.legislation.gov.uk/uksi/2013/477/article/37)
+[^c-373454d348e1e1384d920205e65c26c6]: Textual amendment: Words in rule 10(6)(c) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [37](https://www.legislation.gov.uk/uksi/2013/477/article/37)
 
 [^c19570521]: Marginal citation: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).
 
-[^key-5ca8cb98d8485e5b483877fcdf48e0f5]: Textual amendment: Rule 10(7A) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [38](https://www.legislation.gov.uk/uksi/2013/477/article/38)
+[^c-5ca8cb98d8485e5b483877fcdf48e0f5]: Textual amendment: Rule 10(7A) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [38](https://www.legislation.gov.uk/uksi/2013/477/article/38)
 
-[^key-2cdf3fee6674924abdd6c7795b162ce9]: Textual amendment: Words in rule 11(7) substituted (18.1.2010) by [The Tribunal Procedure (Amendment) Rules 2010 (S.I. 2010/43)](https://www.legislation.gov.uk/uksi/2010/43), [rules 1](https://www.legislation.gov.uk/uksi/2010/43/rule/1), [16](https://www.legislation.gov.uk/uksi/2010/43/rule/16)
+[^c-2cdf3fee6674924abdd6c7795b162ce9]: Textual amendment: Words in rule 11(7) substituted (18.1.2010) by [The Tribunal Procedure (Amendment) Rules 2010 (S.I. 2010/43)](https://www.legislation.gov.uk/uksi/2010/43), [rules 1](https://www.legislation.gov.uk/uksi/2010/43/rule/1), [16](https://www.legislation.gov.uk/uksi/2010/43/rule/16)
 
 [^c19570541]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-e55dc93ad539ef0d71be11ea705242d7]: Textual amendment: Words in rule 17(1)(a) omitted (1.4.2013) by virtue of [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [39(a)](https://www.legislation.gov.uk/uksi/2013/477/article/39/a)
+[^c-e55dc93ad539ef0d71be11ea705242d7]: Textual amendment: Words in rule 17(1)(a) omitted (1.4.2013) by virtue of [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [39(a)](https://www.legislation.gov.uk/uksi/2013/477/article/39/a)
 
-[^key-b547f5d757dc00a3123e22a0484cca8f]: Textual amendment: Word in rule 17(2) omitted (1.4.2013) by virtue of [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [39(b)(i)](https://www.legislation.gov.uk/uksi/2013/477/article/39/b/i)
+[^c-b547f5d757dc00a3123e22a0484cca8f]: Textual amendment: Word in rule 17(2) omitted (1.4.2013) by virtue of [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [39(b)(i)](https://www.legislation.gov.uk/uksi/2013/477/article/39/b/i)
 
-[^key-846ba2e906839ce5d93a3be14626e0f7]: Textual amendment: Words in rule 17(2) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [39(b)(ii)](https://www.legislation.gov.uk/uksi/2013/477/article/39/b/ii)
+[^c-846ba2e906839ce5d93a3be14626e0f7]: Textual amendment: Words in rule 17(2) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [39(b)(ii)](https://www.legislation.gov.uk/uksi/2013/477/article/39/b/ii)
 
-[^key-0c6c5020bf30f110ebab5c41520ed63d]: Textual amendment: Rule 20(1) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/5/a)
+[^c-0c6c5020bf30f110ebab5c41520ed63d]: Textual amendment: Rule 20(1) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/5/a)
 
-[^key-c3f7f972fef353b090bbb684a5408170]: Textual amendment: Rule 20(4) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/5/b)
+[^c-c3f7f972fef353b090bbb684a5408170]: Textual amendment: Rule 20(4) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/5/b)
 
-[^key-ab3bb5234f81615400204b20b4ad6b25]: Textual amendment: Rule 21(3A) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [40](https://www.legislation.gov.uk/uksi/2013/477/article/40)
+[^c-ab3bb5234f81615400204b20b4ad6b25]: Textual amendment: Rule 21(3A) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [40](https://www.legislation.gov.uk/uksi/2013/477/article/40)
 
-[^key-f79dc1222e9df42f978568fb6b64eeab]: Textual amendment: Rule 23(1) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(6)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/6)
+[^c-f79dc1222e9df42f978568fb6b64eeab]: Textual amendment: Rule 23(1) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(6)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/6)
 
-[^key-c6188a197a943164ae2d6bafa1296e2f]: Textual amendment: Words in rule 23(1)(a) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [41](https://www.legislation.gov.uk/uksi/2013/477/article/41)
+[^c-c6188a197a943164ae2d6bafa1296e2f]: Textual amendment: Words in rule 23(1)(a) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [41](https://www.legislation.gov.uk/uksi/2013/477/article/41)
 
-[^key-8bb72f1a2e1173862ff9f167b6548b81]: Textual amendment: Rule 25(1) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(7)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/7)
+[^c-8bb72f1a2e1173862ff9f167b6548b81]: Textual amendment: Rule 25(1) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(7)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/7)
 
-[^key-df013e2abe46fb5711d83bf4e39ca51a]: Textual amendment: Words in rule 28(1) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(8)(a)(i)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/8/a/i)
+[^c-df013e2abe46fb5711d83bf4e39ca51a]: Textual amendment: Words in rule 28(1) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(8)(a)(i)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/8/a/i)
 
-[^key-8b89de71efc8d41b8742001e4185122b]: Textual amendment: Words in rule 28(1) inserted (1.4.2011) by [The Tribunal Procedure (Amendment) Rules 2011 (S.I. 2011/651)](https://www.legislation.gov.uk/uksi/2011/651), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/651/article/1/2/a), [5(3)](https://www.legislation.gov.uk/uksi/2011/651/article/5/3)
+[^c-8b89de71efc8d41b8742001e4185122b]: Textual amendment: Words in rule 28(1) inserted (1.4.2011) by [The Tribunal Procedure (Amendment) Rules 2011 (S.I. 2011/651)](https://www.legislation.gov.uk/uksi/2011/651), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/651/article/1/2/a), [5(3)](https://www.legislation.gov.uk/uksi/2011/651/article/5/3)
 
-[^key-a53e3df57b36548c3e5b3523b83b7c6c]: Textual amendment: Words in rule 28(1) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/8/a/ii)
+[^c-a53e3df57b36548c3e5b3523b83b7c6c]: Textual amendment: Words in rule 28(1) inserted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/8/a/ii)
 
-[^key-1908b2c1c637f789c263b6bceff5bb6b]: Textual amendment: Rule 28(2) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(8)(b)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/8/b)
+[^c-1908b2c1c637f789c263b6bceff5bb6b]: Textual amendment: Rule 28(2) substituted (29.11.2010) by [The Tribunal Procedure (Amendment No. 3) Rules 2010 (S.I. 2010/2653)](https://www.legislation.gov.uk/uksi/2010/2653), [rules 1](https://www.legislation.gov.uk/uksi/2010/2653/article/1), [6(8)(b)](https://www.legislation.gov.uk/uksi/2010/2653/article/6/8/b)
 
-[^key-25d5f89ae0bf77e7b6b000da28d3428c]: Textual amendment: [Rule 32(2A)](https://www.legislation.gov.uk/uksi/2009/273/rule/32/2A) inserted (temp.) (10.4.2020) by virtue of [The Tribunal Procedure (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/416)](https://www.legislation.gov.uk/uksi/2020/416), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/416/rule/7/3) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2))
+[^c-25d5f89ae0bf77e7b6b000da28d3428c]: Textual amendment: [Rule 32(2A)](https://www.legislation.gov.uk/uksi/2009/273/rule/32/2A) inserted (temp.) (10.4.2020) by virtue of [The Tribunal Procedure (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/416)](https://www.legislation.gov.uk/uksi/2020/416), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/416/rule/7/3) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2))
 
-[^key-44a711ff561e4ee34f6f7ae5f82d4270]: Textual amendment: Rule 32A inserted (temp.) (10.4.2020) by virtue of [The Tribunal Procedure (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/416)](https://www.legislation.gov.uk/uksi/2020/416), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/416/rule/7/4) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2))
+[^c-44a711ff561e4ee34f6f7ae5f82d4270]: Textual amendment: Rule 32A inserted (temp.) (10.4.2020) by virtue of [The Tribunal Procedure (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/416)](https://www.legislation.gov.uk/uksi/2020/416), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/416/rule/7/4) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2))
 
-[^key-ccd7255b5a78a5fdb1ccf12e61b2229d]: Textual amendment: Rule 32A(4) inserted (temp.) (21.7.2020) by virtue of [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/3) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/2))
+[^c-ccd7255b5a78a5fdb1ccf12e61b2229d]: Textual amendment: Rule 32A(4) inserted (temp.) (21.7.2020) by virtue of [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2020/651/rule/7/3) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/2))
 
-[^key-bdefbca8ebf96b1af3c24c7328fe337a]: Textual amendment: Words in [art. 35(2)](https://www.legislation.gov.uk/uksi/2009/273/article/35/2) substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/a/i)
+[^c-bdefbca8ebf96b1af3c24c7328fe337a]: Textual amendment: Words in [art. 35(2)](https://www.legislation.gov.uk/uksi/2009/273/article/35/2) substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/a/i)
 
-[^key-dfb98dd543063f2e0ba346826150b675]: Textual amendment: Words in rule 35(2) substituted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [42](https://www.legislation.gov.uk/uksi/2013/477/article/42)
+[^c-dfb98dd543063f2e0ba346826150b675]: Textual amendment: Words in rule 35(2) substituted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [42](https://www.legislation.gov.uk/uksi/2013/477/article/42)
 
-[^key-b1c0abaf255e77a2ba89fe4d6d4a3aab]: Textual amendment: Words in [art. 35(2)](https://www.legislation.gov.uk/uksi/2009/273/article/35/2) omitted (2.3.2026) by virtue of [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/a/ii)
+[^c-b1c0abaf255e77a2ba89fe4d6d4a3aab]: Textual amendment: Words in [art. 35(2)](https://www.legislation.gov.uk/uksi/2009/273/article/35/2) omitted (2.3.2026) by virtue of [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/a/ii)
 
-[^key-e61e97dad2ffb40b0d9079c3731e40b5]: Textual amendment: Word in [art. 35(3)](https://www.legislation.gov.uk/uksi/2009/273/article/35/3) substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/b)
+[^c-e61e97dad2ffb40b0d9079c3731e40b5]: Textual amendment: Word in [art. 35(3)](https://www.legislation.gov.uk/uksi/2009/273/article/35/3) substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/b)
 
-[^key-11ac9704c776a6802cfbb6a0002978e2]: Textual amendment: [Art. 35(3A)](https://www.legislation.gov.uk/uksi/2009/273/article/35/3A) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/c)
+[^c-11ac9704c776a6802cfbb6a0002978e2]: Textual amendment: [Art. 35(3A)](https://www.legislation.gov.uk/uksi/2009/273/article/35/3A) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/c)
 
-[^key-688d055fd2510d603c2a63713b62fe50]: Textual amendment: Words in [art. 35(5)](https://www.legislation.gov.uk/uksi/2009/273/article/35/5) substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(d)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/d)
+[^c-688d055fd2510d603c2a63713b62fe50]: Textual amendment: Words in [art. 35(5)](https://www.legislation.gov.uk/uksi/2009/273/article/35/5) substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(d)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/d)
 
-[^key-dedb4aa3ae9de469bf3c7c43f351545f]: Textual amendment: Words in [art. 35(6)](https://www.legislation.gov.uk/uksi/2009/273/article/35/6) substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(e)(i)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/e/i)
+[^c-dedb4aa3ae9de469bf3c7c43f351545f]: Textual amendment: Words in [art. 35(6)](https://www.legislation.gov.uk/uksi/2009/273/article/35/6) substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(e)(i)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/e/i)
 
-[^key-d66772751a65da258f669171dc626eca]: Textual amendment: Words in [art. 35(6)](https://www.legislation.gov.uk/uksi/2009/273/article/35/6) omitted (2.3.2026) by virtue of [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/e/ii)
+[^c-d66772751a65da258f669171dc626eca]: Textual amendment: Words in [art. 35(6)](https://www.legislation.gov.uk/uksi/2009/273/article/35/6) omitted (2.3.2026) by virtue of [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [4(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/115/rule/4/2/e/ii)
 
-[^key-06371d9c3eb541d2e5bc4fd997f6178f]: Textual amendment: Words in [rule 38(1)](https://www.legislation.gov.uk/uksi/2009/273/rule/38/1) inserted (30.5.2025) by [The Tribunal Procedure (Amendment) Rules 2025 (S.I. 2025/561)](https://www.legislation.gov.uk/uksi/2025/561), [rules 1](https://www.legislation.gov.uk/uksi/2025/561/rule/1), [6(2)](https://www.legislation.gov.uk/uksi/2025/561/rule/6/2)
+[^c-06371d9c3eb541d2e5bc4fd997f6178f]: Textual amendment: Words in [rule 38(1)](https://www.legislation.gov.uk/uksi/2009/273/rule/38/1) inserted (30.5.2025) by [The Tribunal Procedure (Amendment) Rules 2025 (S.I. 2025/561)](https://www.legislation.gov.uk/uksi/2025/561), [rules 1](https://www.legislation.gov.uk/uksi/2025/561/rule/1), [6(2)](https://www.legislation.gov.uk/uksi/2025/561/rule/6/2)
 
-[^key-ea7b0042b78a924c2663c3f957e0e452]: Textual amendment: Rule 39(2)(za) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [43(a)](https://www.legislation.gov.uk/uksi/2013/477/article/43/a)
+[^c-ea7b0042b78a924c2663c3f957e0e452]: Textual amendment: Rule 39(2)(za) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [43(a)](https://www.legislation.gov.uk/uksi/2013/477/article/43/a)
 
-[^key-c84d5a06553d5eb816283486beb5d917]: Textual amendment: Rule 39(2)(a) substituted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [43(b)](https://www.legislation.gov.uk/uksi/2013/477/article/43/b)
+[^c-c84d5a06553d5eb816283486beb5d917]: Textual amendment: Rule 39(2)(a) substituted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [43(b)](https://www.legislation.gov.uk/uksi/2013/477/article/43/b)
 
-[^key-51be4c93b1fa9c1d2d79158093735955]: Textual amendment: Rule 39(2A) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [43(c)](https://www.legislation.gov.uk/uksi/2013/477/article/43/c)
+[^c-51be4c93b1fa9c1d2d79158093735955]: Textual amendment: Rule 39(2A) inserted (1.4.2013) by [The Tribunal Procedure (Amendment) Rules 2013 (S.I. 2013/477)](https://www.legislation.gov.uk/uksi/2013/477), [rules 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/477/article/1/2/c), [43(c)](https://www.legislation.gov.uk/uksi/2013/477/article/43/c)
 
 [^c19570551]: Marginal citation: [S.I. 2008/2684](https://www.legislation.gov.uk/uksi/2008/2684). The Order is amended by the First-tier [Tribunal and Upper Tribunal (Chambers) (Amendment) Order 2009 (S.I. 2009/196)](https://www.legislation.gov.uk/uksi/2009/196).

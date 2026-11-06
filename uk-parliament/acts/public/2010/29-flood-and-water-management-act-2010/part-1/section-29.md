@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Restructuring[^key-a90daae4746d4c81e10ea565b48fdc25]
+## 29. Restructuring[^c-a90daae4746d4c81e10ea565b48fdc25]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a90daae4746d4c81e10ea565b48fdc25]: Commencement: S. 29 in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-a90daae4746d4c81e10ea565b48fdc25]: Commencement: S. 29 in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

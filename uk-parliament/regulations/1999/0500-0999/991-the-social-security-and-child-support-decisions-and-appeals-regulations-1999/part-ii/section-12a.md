@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12A. Recrudescence of a prescribed disease[^key-f6da60fa71de2cd71532197dfa123c2d]
+## 12A. Recrudescence of a prescribed disease[^c-f6da60fa71de2cd71532197dfa123c2d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6da60fa71de2cd71532197dfa123c2d]: Textual amendment: Reg. 12A inserted (19.6.2000) by [The Social Security and Child Support (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/1596)](https://www.legislation.gov.uk/uksi/2000/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1596/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2000/1596/regulation/19)
+[^c-f6da60fa71de2cd71532197dfa123c2d]: Textual amendment: Reg. 12A inserted (19.6.2000) by [The Social Security and Child Support (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/1596)](https://www.legislation.gov.uk/uksi/2000/1596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1596/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2000/1596/regulation/19)

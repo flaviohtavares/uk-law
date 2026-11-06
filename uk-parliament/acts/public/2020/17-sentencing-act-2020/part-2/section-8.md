@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Deferment order: supervisor[^key-dd4933bb198336badd4215e4cdf7c241]
+## 8. Deferment order: supervisor[^c-dd4933bb198336badd4215e4cdf7c241]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ the justice may issue a summons directed to that supervisor requiring the superv
 
 ## Annotations
 
-[^key-dd4933bb198336badd4215e4cdf7c241]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2020/17/section/8) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-dd4933bb198336badd4215e4cdf7c241]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2020/17/section/8) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

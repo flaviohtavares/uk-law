@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Right to appeal after 1st April 2019 against a decision of the Regulator[^key-c748e225fb69ceb81eabd4585caba9e8][^key-dff06f318e0695183de94489f397527a]
+## 66. Right to appeal after 1st April 2019 against a decision of the Regulator[^c-c748e225fb69ceb81eabd4585caba9e8][^c-dff06f318e0695183de94489f397527a]
 
 *Extent: E+W+S*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c748e225fb69ceb81eabd4585caba9e8]: Commencement: Art. 66 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-c748e225fb69ceb81eabd4585caba9e8]: Commencement: Art. 66 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-dff06f318e0695183de94489f397527a]: Commencement: [Art. 66](https://www.legislation.gov.uk/uksi/2018/1253/article/66) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-dff06f318e0695183de94489f397527a]: Commencement: [Art. 66](https://www.legislation.gov.uk/uksi/2018/1253/article/66) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00101]: Footnote: Section 133 was substituted by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22) and amended by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 23, the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), section 4(2), the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17(5) and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388), [2014/3329](https://www.legislation.gov.uk/uksi/2014/3329), [2016/680](https://www.legislation.gov.uk/uksi/2016/680) and [2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).

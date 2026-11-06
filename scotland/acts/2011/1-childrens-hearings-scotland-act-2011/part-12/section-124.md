@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Requirement to establish child's age[^key-0782eebbd954d8e9d692eb6aa8d35d5f]
+## 124. Requirement to establish child's age[^c-0782eebbd954d8e9d692eb6aa8d35d5f]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0782eebbd954d8e9d692eb6aa8d35d5f]: Commencement: S. 124 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-0782eebbd954d8e9d692eb6aa8d35d5f]: Commencement: S. 124 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

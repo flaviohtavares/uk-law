@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Abolition of the office of Information Commissioner[^key-ad6b657682c873adff9aa8bda62ab87d][^key-ac349d4ff69279b962e68faef6d73c1c]
+## 118. Abolition of the office of Information Commissioner[^c-ad6b657682c873adff9aa8bda62ab87d][^c-ac349d4ff69279b962e68faef6d73c1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad6b657682c873adff9aa8bda62ab87d]: Commencement: S. 118 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-ad6b657682c873adff9aa8bda62ab87d]: Commencement: S. 118 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-ac349d4ff69279b962e68faef6d73c1c]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2025/18/section/118) in force at 30.9.2026 by [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/1015/regulation/4))
+[^c-ac349d4ff69279b962e68faef6d73c1c]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2025/18/section/118) in force at 30.9.2026 by [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/1015/regulation/4))

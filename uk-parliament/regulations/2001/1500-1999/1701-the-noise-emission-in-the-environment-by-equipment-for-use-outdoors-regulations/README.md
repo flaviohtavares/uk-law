@@ -49,7 +49,7 @@ Remaining regulations
 
 3rd July 2001
 
-The Secretary of State, being a Minister designated[^c16921701] for the purposes of section 2(2) of the European Communities Act 1972[^c16921711] in relation to measures relating to noise emission in the environment by equipment for use outdoors, in exercise of the powers conferred on him by that section and of all his other enabling powers, hereby makes the following Regulations:[^key-8c6d0ad3141571d328142f99dc6d738c]
+The Secretary of State, being a Minister designated[^c16921701] for the purposes of section 2(2) of the European Communities Act 1972[^c16921711] in relation to measures relating to noise emission in the environment by equipment for use outdoors, in exercise of the powers conferred on him by that section and of all his other enabling powers, hereby makes the following Regulations:[^c-8c6d0ad3141571d328142f99dc6d738c]
 
 ## Contents
 
@@ -147,4 +147,4 @@ A Regulatory Impact Assessment in respect of these Regulations is available and 
 
 [^c16921711]: Textual amendment: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-8c6d0ad3141571d328142f99dc6d738c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/1701) modified (E.W.S.) (19.6.2021) by [The Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 (S.I. 2021/730)](https://www.legislation.gov.uk/uksi/2021/730), [regs. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/730/regulation/4), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/1)
+[^c-8c6d0ad3141571d328142f99dc6d738c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/1701) modified (E.W.S.) (19.6.2021) by [The Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 (S.I. 2021/730)](https://www.legislation.gov.uk/uksi/2021/730), [regs. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/730/regulation/4), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/1)

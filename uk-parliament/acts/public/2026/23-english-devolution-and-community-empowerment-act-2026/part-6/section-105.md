@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Regulations[^key-bd02667fa4b15aa98bd4ca506d8d3a0a]
+## 105. Regulations[^c-bd02667fa4b15aa98bd4ca506d8d3a0a]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd02667fa4b15aa98bd4ca506d8d3a0a]: Commencement: S. 105 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)
+[^c-bd02667fa4b15aa98bd4ca506d8d3a0a]: Commencement: S. 105 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)

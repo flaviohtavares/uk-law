@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The Health Research Authority (Establishment and Constitution) Amendment Order 2012 (revoked)[^key-7bf761530921f4042589679d78d89935]
+The Health Research Authority (Establishment and Constitution) Amendment Order 2012 (revoked)[^c-7bf761530921f4042589679d78d89935]
 
 Made
 
@@ -46,42 +46,42 @@ Coming into force
 
 28th May 2012
 
-[^key-7bf761530921f4042589679d78d89935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bf761530921f4042589679d78d89935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7bf761530921f4042589679d78d89935]
+## 1. Citation and commencement[^c-7bf761530921f4042589679d78d89935]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments of the Health Research Authority (Establishment and Constitution) Order 2011[^key-7bf761530921f4042589679d78d89935]
+## 2. Amendments of the Health Research Authority (Establishment and Constitution) Order 2011[^c-7bf761530921f4042589679d78d89935]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendment of Regulations[^key-7bf761530921f4042589679d78d89935]
+## 3. Consequential amendment of Regulations[^c-7bf761530921f4042589679d78d89935]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7bf761530921f4042589679d78d89935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bf761530921f4042589679d78d89935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Consequential amendment of Regulations[^key-7bf761530921f4042589679d78d89935]
+## SCHEDULE — Consequential amendment of Regulations[^c-7bf761530921f4042589679d78d89935]
 
 Article 3
 
-### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^key-7bf761530921f4042589679d78d89935]
+### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^c-7bf761530921f4042589679d78d89935]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^key-7bf761530921f4042589679d78d89935]
+### 2. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^c-7bf761530921f4042589679d78d89935]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7bf761530921f4042589679d78d89935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bf761530921f4042589679d78d89935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7bf761530921f4042589679d78d89935]: Textual amendment: Order revoked (1.1.2015) by [The Health Research Authority (Transfer of Staff, Property and Liabilities) and Care Act 2014 (Consequential Amendments) Order 2014 (S.I. 2014/3090)](https://www.legislation.gov.uk/uksi/2014/3090), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2014/3090/schedule/paragraph/2/b)
+[^c-7bf761530921f4042589679d78d89935]: Textual amendment: Order revoked (1.1.2015) by [The Health Research Authority (Transfer of Staff, Property and Liabilities) and Care Act 2014 (Consequential Amendments) Order 2014 (S.I. 2014/3090)](https://www.legislation.gov.uk/uksi/2014/3090), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2014/3090/schedule/paragraph/2/b)

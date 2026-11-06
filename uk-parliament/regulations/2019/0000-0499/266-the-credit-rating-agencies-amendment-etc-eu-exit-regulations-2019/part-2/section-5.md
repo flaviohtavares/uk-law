@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Guidance[^key-40b02e3d560797fa9ef1398105031a3c]
+## 5. Guidance[^c-40b02e3d560797fa9ef1398105031a3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ The FCA may give guidance consisting of such information and advice as it consid
 
 ## Annotations
 
-[^key-40b02e3d560797fa9ef1398105031a3c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-40b02e3d560797fa9ef1398105031a3c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

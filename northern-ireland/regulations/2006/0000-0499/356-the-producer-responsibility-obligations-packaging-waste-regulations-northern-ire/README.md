@@ -31,7 +31,7 @@ summary: ''
 
 PUBLIC HEALTH
 
-The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2006 (revoked)[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2006 (revoked)[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 *9th October 2006*
 
-[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART 1 — GENERAL[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -55,7 +55,7 @@ Coming into operation
 - [Section 2 — Interpretation and notices](part-1/section-2.md)
 - [Section 3 — Exclusion of charities from producer responsibility obligations](part-1/section-3.md)
 
-### PART 2 — PRODUCERS AND OBLIGATIONS[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART 2 — PRODUCERS AND OBLIGATIONS[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -64,7 +64,7 @@ Coming into operation
 - [Section 4 — Producers and producer responsibility obligations](part-2/section-4.md)
 - [Section 5 — Producers and Scheme membership](part-2/section-5.md)
 
-### PART 3 — REGISTRATION: PRODUCERS AND SCHEMES[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART 3 — REGISTRATION: PRODUCERS AND SCHEMES[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -85,7 +85,7 @@ Coming into operation
 - [Section 18 — Cancellation of registration of a scheme](part-3/section-18.md)
 - [Section 19 — Information provided to scheme operators](part-3/section-19.md)
 
-### PART 4 — RECORDS, RETURNS AND CERTIFICATE[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART 4 — RECORDS, RETURNS AND CERTIFICATE[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -95,7 +95,7 @@ Coming into operation
 - [Section 21 — Producers – certifying obligation](part-4/section-21.md)
 - [Section 22 — Schemes – records and returns](part-4/section-22.md)
 
-### PART 5 — ACCREDITATION OF REPROCESSORS AND EXPORTERS[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART 5 — ACCREDITATION OF REPROCESSORS AND EXPORTERS[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -106,7 +106,7 @@ Coming into operation
 - [Section 25 — Conditions of accreditation](part-5/section-25.md)
 - [Section 26 — Suspension and cancellation of accreditation](part-5/section-26.md)
 
-### PART 6 — APPEALS[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART 6 — APPEALS[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -117,7 +117,7 @@ Coming into operation
 - [Section 29 — Determination of appeals](part-6/section-29.md)
 - [Section 30 — Status pending appeal](part-6/section-30.md)
 
-### PART 7 — POWERS AND DUTIES OF THE DEPARTMENT[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART 7 — POWERS AND DUTIES OF THE DEPARTMENT[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -130,7 +130,7 @@ Coming into operation
 - [Section 35 — Entry and inspection](part-7/section-35.md)
 - [Section 36 — Provision of information to the Department](part-7/section-36.md)
 
-### PART 8 — GROUPS OF COMPANIES, PUB OPERATING BUSINESSES AND LICENSORS AND MID-YEAR CHANGES[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART 8 — GROUPS OF COMPANIES, PUB OPERATING BUSINESSES AND LICENSORS AND MID-YEAR CHANGES[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -140,7 +140,7 @@ Coming into operation
 - [Section 38 — Packaging handled by licensors and pub operating businesses](part-8/section-38.md)
 - [Section 39 — Mid-year changes](part-8/section-39.md)
 
-### PART 9 — OFFENCES[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART 9 — OFFENCES[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -148,7 +148,7 @@ Coming into operation
 
 - [Section 40 — Offences and penalties](part-9/section-40.md)
 
-### PART 10 — REVOCATION AND TRANSITIONAL PROVISION[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART 10 — REVOCATION AND TRANSITIONAL PROVISION[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -173,12 +173,12 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/356) revoked (5.4.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 (S.R. 2007/198)](https://www.legislation.gov.uk/nisr/2007/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/1/1), [41(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/2)[(3)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/3))
+[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/356) revoked (5.4.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 (S.R. 2007/198)](https://www.legislation.gov.uk/nisr/2007/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/1/1), [41(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/2)[(3)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/3))

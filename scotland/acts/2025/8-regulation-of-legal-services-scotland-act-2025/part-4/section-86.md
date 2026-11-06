@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Eligibility criteria: law centres[^key-be13a4ba48b89daf5dafbdd7b11057db]
+## 86. Eligibility criteria: law centres[^c-be13a4ba48b89daf5dafbdd7b11057db]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ In section 48 (eligibility criteria) of the 2010 Act, in subsection (4)—
 
 ## Annotations
 
-[^key-be13a4ba48b89daf5dafbdd7b11057db]: Commencement: S. 86 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-be13a4ba48b89daf5dafbdd7b11057db]: Commencement: S. 86 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — STREETS SUBJECT TO STREET WORKS[^key-b3e64eb6d9b6597a741b90afe705dbe9]
+## SCHEDULE 3 — STREETS SUBJECT TO STREET WORKS[^c-b3e64eb6d9b6597a741b90afe705dbe9]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ Table 1
 
 ## Annotations
 
-[^key-b3e64eb6d9b6597a741b90afe705dbe9]: Commencement: Sch. 3 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-b3e64eb6d9b6597a741b90afe705dbe9]: Commencement: Sch. 3 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

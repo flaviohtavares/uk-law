@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192A. Exemptions for gains or losses on disposal of shares etc[^key-a6fcc18d9a3ea87b0bce65e4a1f139d4]
+## 192A. Exemptions for gains or losses on disposal of shares etc[^c-a6fcc18d9a3ea87b0bce65e4a1f139d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7AC (exemptions for disposal of shares etc by companies with substantia
 
 ## Annotations
 
-[^key-a6fcc18d9a3ea87b0bce65e4a1f139d4]: Textual amendment: S. 192A and cross-heading inserted (with application in accordance with s. 44(3) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 44(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/44/1)
+[^c-a6fcc18d9a3ea87b0bce65e4a1f139d4]: Textual amendment: S. 192A and cross-heading inserted (with application in accordance with s. 44(3) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 44(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/44/1)

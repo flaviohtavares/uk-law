@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: S*
 
-(1) A person is disqualified from appointment and from holding office as the Commissioner[^key-6a63bd9331ea1f25055912b95009658b] if the person—
+(1) A person is disqualified from appointment and from holding office as the Commissioner[^c-6a63bd9331ea1f25055912b95009658b] if the person—
 
 - (a) is a member of the Parliament or its staff,
 - (b) was a member of the Parliament at any time within two years before the date when the appointment might otherwise have been made,
 - (c) is disqualified from being a member of the Parliament,
 - (d) is a member of the House of Commons,
 - (e) is a member of the House of Lords entitled to vote there,
-- (f) is employed, or appointed in any other capacity, by the Commissioner[^key-e95dc1ce80bf5d6ea05d52094f9a4205],
+- (f) is employed, or appointed in any other capacity, by the Commissioner[^c-e95dc1ce80bf5d6ea05d52094f9a4205],
 - (g) is a member, employee or appointee of—
   - (i) the Standards Commission for Scotland,
   - (ii) a specified authority, or
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a63bd9331ea1f25055912b95009658b]: Textual amendment: Words in s. 8(1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/9/a)
+[^c-6a63bd9331ea1f25055912b95009658b]: Textual amendment: Words in s. 8(1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/9/a)
 
-[^key-e95dc1ce80bf5d6ea05d52094f9a4205]: Textual amendment: Word in s. 8(1)(f) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/9/b)
+[^c-e95dc1ce80bf5d6ea05d52094f9a4205]: Textual amendment: Word in s. 8(1)(f) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/9/b)

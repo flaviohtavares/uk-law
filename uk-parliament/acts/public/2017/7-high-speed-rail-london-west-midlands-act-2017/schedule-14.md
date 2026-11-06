@@ -22,26 +22,26 @@ summary: ''
 
 Section 11
 
-**1.**[^key-131772bf701eac3196f7279b05a4b490] Omit section 6.
+**1.**[^c-131772bf701eac3196f7279b05a4b490] Omit section 6.
 
-**2.**[^key-0fe30f6caa15607b9cadf8d5a167d850] In section 7(2) (acquisition of airspace), for paragraphs (a) and (b) substitute—
-
-> - (a) Schedule 2A to the Compulsory Purchase Act 1965 (counter-notice requiring purchase of land not in notice to treat);
-> - (b) Schedule A1 to the Compulsory Purchase (Vesting Declarations) Act 1981 (corresponding provision in case of general vesting declaration);
-> - (c) section 153(4A) of the Town and Country Planning Act 1990 (blighted land: proposed acquisition of part interest; material detriment test).
-
-**3.**[^key-6246048dd59ae2f255d305067a7cf5f1] In section 8(2) (acquisition of subsoil or under-surface), for paragraphs (a) and (b) substitute—
+**2.**[^c-0fe30f6caa15607b9cadf8d5a167d850] In section 7(2) (acquisition of airspace), for paragraphs (a) and (b) substitute—
 
 > - (a) Schedule 2A to the Compulsory Purchase Act 1965 (counter-notice requiring purchase of land not in notice to treat);
 > - (b) Schedule A1 to the Compulsory Purchase (Vesting Declarations) Act 1981 (corresponding provision in case of general vesting declaration);
 > - (c) section 153(4A) of the Town and Country Planning Act 1990 (blighted land: proposed acquisition of part interest; material detriment test).
 
-**4.**[^key-a663dc0b9672dc60fe819a963723bfd2] In section 49 (compulsory acquisition of land for relocation)—
+**3.**[^c-6246048dd59ae2f255d305067a7cf5f1] In section 8(2) (acquisition of subsoil or under-surface), for paragraphs (a) and (b) substitute—
+
+> - (a) Schedule 2A to the Compulsory Purchase Act 1965 (counter-notice requiring purchase of land not in notice to treat);
+> - (b) Schedule A1 to the Compulsory Purchase (Vesting Declarations) Act 1981 (corresponding provision in case of general vesting declaration);
+> - (c) section 153(4A) of the Town and Country Planning Act 1990 (blighted land: proposed acquisition of part interest; material detriment test).
+
+**4.**[^c-a663dc0b9672dc60fe819a963723bfd2] In section 49 (compulsory acquisition of land for relocation)—
 
 - (a) omit subsection (4)(b), and
 - (b) in subsection (5), omit ““237,””.
 
-**5.**[^key-5dd9cc37a3ee3842b5f081b55bee00d3] (1) Paragraph 2 of Schedule 6 (acquisition of land: application of Compulsory Purchase Act 1965) is amended as follows.
+**5.**[^c-5dd9cc37a3ee3842b5f081b55bee00d3] (1) Paragraph 2 of Schedule 6 (acquisition of land: application of Compulsory Purchase Act 1965) is amended as follows.
 
 (2) For sub-paragraph (3) substitute—
 
@@ -91,7 +91,7 @@ Section 11
 
 (5) Omit sub-paragraph (5).
 
-**6.**[^key-cab5d040701d5b7b564d6bae36819761] For paragraph 3 of Schedule 6 (acquisition of rights in land: application of Compulsory Purchase (Vesting Declarations) Act 1981) substitute—
+**6.**[^c-cab5d040701d5b7b564d6bae36819761] For paragraph 3 of Schedule 6 (acquisition of rights in land: application of Compulsory Purchase (Vesting Declarations) Act 1981) substitute—
 
 > **3.** In its application by virtue of section 4(4), the Compulsory Purchase (Vesting Declarations) Act 1981 has effect as if—
 >
@@ -102,7 +102,7 @@ Section 11
 > - (e) in Schedule A1 (counter-notice requiring purchase of land not in general vesting declaration), paragraph 1(2) were omitted, and
 > - (f) references to the Compulsory Purchase Act 1965 were to that Act as applied by section 4(3) to the acquisition of land under section 4(1).
 
-**7.**[^key-f50b75b6cfadfc5d931896e201193ce0] This is the section referred to in paragraph 3(a) of Schedule 6 (as substituted by paragraph 6 above)—
+**7.**[^c-f50b75b6cfadfc5d931896e201193ce0] This is the section referred to in paragraph 3(a) of Schedule 6 (as substituted by paragraph 6 above)—
 
 > **3A. Preliminary notices**
 >
@@ -125,7 +125,7 @@ Section 11
 > - (a) the person is for the time being entitled to dispose of the fee simple of the land, whether in possession or reversion, or
 > - (b) the person holds, or is entitled to the rents and profits of, the land under a lease or agreement, the unexpired term of which exceeds one month.
 
-**8.**[^key-6ece7862564a0a888d17d74ef38af8ff] (1) Paragraph 2 of Schedule 9 (acquisition of rights in land: application of Compulsory Purchase Act 1965) is amended as follows.
+**8.**[^c-6ece7862564a0a888d17d74ef38af8ff] (1) Paragraph 2 of Schedule 9 (acquisition of rights in land: application of Compulsory Purchase Act 1965) is amended as follows.
 
 (2) Omit sub-paragraph (4).
 
@@ -198,7 +198,7 @@ Section 11
 
 (5) Omit sub-paragraph (10).
 
-**9.**[^key-a80e897f3fe9214b7591a751db596f94] In paragraph 4 of Schedule 9 (acquisition of rights in land: application of Compulsory Purchase (Vesting Declarations) Act 1981), for sub-paragraph (7) substitute—
+**9.**[^c-a80e897f3fe9214b7591a751db596f94] In paragraph 4 of Schedule 9 (acquisition of rights in land: application of Compulsory Purchase (Vesting Declarations) Act 1981), for sub-paragraph (7) substitute—
 
 > (7) Schedule A1 to the 1981 Act (counter-notice requiring purchase of land not in general vesting declaration) has effect as if—
 >
@@ -209,26 +209,26 @@ Section 11
 > - (e) in paragraphs 14 and 15, references to the severance of the land proposed to be acquired were to the acquisition of the right or the imposition of the restrictive covenant, and
 > - (f) in paragraph 15, after ““in addition to”” there were substituted “ or in substitution for ”.
 
-**10.**[^key-175a16a261b8e37111a2aae6093b617d] Omit Schedule 10.
+**10.**[^c-175a16a261b8e37111a2aae6093b617d] Omit Schedule 10.
 
 ## Annotations
 
-[^key-131772bf701eac3196f7279b05a4b490]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/1) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-131772bf701eac3196f7279b05a4b490]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/1) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-0fe30f6caa15607b9cadf8d5a167d850]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/2) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-0fe30f6caa15607b9cadf8d5a167d850]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/2) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-6246048dd59ae2f255d305067a7cf5f1]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/3) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-6246048dd59ae2f255d305067a7cf5f1]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/3) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-a663dc0b9672dc60fe819a963723bfd2]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/4) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-a663dc0b9672dc60fe819a963723bfd2]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/4) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-5dd9cc37a3ee3842b5f081b55bee00d3]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/5) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-5dd9cc37a3ee3842b5f081b55bee00d3]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/5) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-cab5d040701d5b7b564d6bae36819761]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/6) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-cab5d040701d5b7b564d6bae36819761]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/6) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-f50b75b6cfadfc5d931896e201193ce0]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/7) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-f50b75b6cfadfc5d931896e201193ce0]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/7) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-6ece7862564a0a888d17d74ef38af8ff]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/8) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-6ece7862564a0a888d17d74ef38af8ff]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/8) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-a80e897f3fe9214b7591a751db596f94]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/9) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-a80e897f3fe9214b7591a751db596f94]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/9) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-175a16a261b8e37111a2aae6093b617d]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/10) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-175a16a261b8e37111a2aae6093b617d]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/10) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)

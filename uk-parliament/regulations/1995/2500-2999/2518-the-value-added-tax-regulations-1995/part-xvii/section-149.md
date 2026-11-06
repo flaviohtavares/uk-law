@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Refunds in relation to new means of transport[^key-e50114a17e3f06c19c82910aeda6c509]
+## 149. Refunds in relation to new means of transport[^c-e50114a17e3f06c19c82910aeda6c509]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A claimant shall make his claim in writing no earlier than one month and no late
 
 ## Annotations
 
-[^key-e50114a17e3f06c19c82910aeda6c509]: Commencement: Reg. 149 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-e50114a17e3f06c19c82910aeda6c509]: Commencement: Reg. 149 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

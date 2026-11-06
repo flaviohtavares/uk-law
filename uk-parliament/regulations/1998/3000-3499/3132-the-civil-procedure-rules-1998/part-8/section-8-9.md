@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.9. Modifications to the general rules[^key-1e8f5785c853199ba5f5d8e14b051b69]
+## 8.9. Modifications to the general rules[^c-1e8f5785c853199ba5f5d8e14b051b69]
 
 *Extent: E+W*
 
@@ -28,12 +28,12 @@ Where the Part 8 procedure is followed—
   - (iii) any time limit in these Rules which prevents the parties from taking a step before a defence is filed does not apply; and
   - (iv) the requirement under rule 7.8 to serve on the defendant a form for defending the claim does not apply;
 - (b) the claimant may not obtain judgment by request on an admission and therefore—
-  - (i) rule 14.2 does[^key-04ef40b938d44d4ededd8347cbd89563] not apply; and
+  - (i) rule 14.2 does[^c-04ef40b938d44d4ededd8347cbd89563] not apply; and
   - (ii) the requirement under rule 7.8 to serve on the defendant a form for admitting the claim does not apply; and
 - (c) the claim shall be treated as allocated to the multi-track and therefore Part 26 does not apply.
 
 ## Annotations
 
-[^key-1e8f5785c853199ba5f5d8e14b051b69]: Commencement: [Rule 8.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-1e8f5785c853199ba5f5d8e14b051b69]: Commencement: [Rule 8.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-04ef40b938d44d4ededd8347cbd89563]: Textual amendment: Words in [rule 8.9(b)(i)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.9/b/i) substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2024/106/rule/3)
+[^c-04ef40b938d44d4ededd8347cbd89563]: Textual amendment: Words in [rule 8.9(b)(i)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.9/b/i) substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2024/106/rule/3)

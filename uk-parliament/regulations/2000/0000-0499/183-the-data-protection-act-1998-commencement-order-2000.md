@@ -37,9 +37,9 @@ Made
 
 The Secretary of State, in exercise of the powers conferred on him by sections 67(2) and 75(3) of the Data Protection Act 1998[^f00001], hereby makes the following Order:
 
-**1.**[^key-e44fa73d2abcc68df2434c5af38b069e] This Order may be cited as the Data Protection Act 1998 (Commencement) Order 2000.
+**1.**[^c-e44fa73d2abcc68df2434c5af38b069e] This Order may be cited as the Data Protection Act 1998 (Commencement) Order 2000.
 
-**2.**[^key-ca0807890a81912802e95022096c76bf] (1) The provisions of the Data Protection Act 1998, other than those referred to in section 75(2) (provisions coming into force on the day on which that Act was passed) and section 56 (prohibition of requirement as to production of certain records), shall come into force on 1st March 2000.
+**2.**[^c-ca0807890a81912802e95022096c76bf] (1) The provisions of the Data Protection Act 1998, other than those referred to in section 75(2) (provisions coming into force on the day on which that Act was passed) and section 56 (prohibition of requirement as to production of certain records), shall come into force on 1st March 2000.
 
 (2) The coming into force of section 62 of the Data Protection Act 1998 shall not affect the application of section 159 (correction of wrong information) or section 160 (alternative procedure for business consumers) of the Consumer Credit Act 1974[^f00002] in any case where a credit reference agency has, in response to a request under section 158(1) of that Act, complied with section 158(1) and (2) or dealt with the request under section 160(3) before 1st March 2000.
 
@@ -63,8 +63,8 @@ The provisions of the Data Protection Act 1998 implement Directive [95/46/EC](ht
 
 [^f00001]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-e44fa73d2abcc68df2434c5af38b069e]: Commencement: Art. 1 in force at made date
+[^c-e44fa73d2abcc68df2434c5af38b069e]: Commencement: Art. 1 in force at made date
 
-[^key-ca0807890a81912802e95022096c76bf]: Commencement: Art. 2 in force at made date
+[^c-ca0807890a81912802e95022096c76bf]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).

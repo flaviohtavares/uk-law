@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Information and access[^key-f9d99a016fa504a0ca9d5c93fb1629cb]
+## 107. Information and access[^c-f9d99a016fa504a0ca9d5c93fb1629cb]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9d99a016fa504a0ca9d5c93fb1629cb]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2012/5/section/107) in force at 1.11.2012 by [S.S.I. 2012/265](https://www.legislation.gov.uk/ssi/2012/265), [art. 2](https://www.legislation.gov.uk/ssi/2012/265/article/2)
+[^c-f9d99a016fa504a0ca9d5c93fb1629cb]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2012/5/section/107) in force at 1.11.2012 by [S.S.I. 2012/265](https://www.legislation.gov.uk/ssi/2012/265), [art. 2](https://www.legislation.gov.uk/ssi/2012/265/article/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257SH. Power to require information in other cases[^key-aaf10c7dc329529b2ca19087f01e69e7]
+## 257SH. Power to require information in other cases[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subsection (2) applies if SI relief is claimed in respect of the investment, and an officer of Revenue and Customs has reason to believe that it may not be due because of any such arrangements as are mentioned in section 257LB(1), 257LC, 257LE, 257LEA,[^key-d01c091098c71a2b25db286a85410d93] 257LH, 257ME(3), 257MK(2) or (4), 257MM(5) or (6), 257MN(5), 257MU or 257MV(1), (5), (6) or (7).
+(1) Subsection (2) applies if SI relief is claimed in respect of the investment, and an officer of Revenue and Customs has reason to believe that it may not be due because of any such arrangements as are mentioned in section 257LB(1), 257LC, 257LE, 257LEA,[^c-d01c091098c71a2b25db286a85410d93] 257LH, 257ME(3), 257MK(2) or (4), 257MM(5) or (6), 257MN(5), 257MU or 257MV(1), (5), (6) or (7).
 
 (2) The officer may by notice require any person concerned to supply the officer within such time as may be specified in the notice with—
 
@@ -35,7 +35,7 @@ summary: ''
 | --- | --- |
 | Section 257LB(1) or 257LC | The investor, the social enterprise and any person connected with the social enterprise |
 | Section 257LE or 257MK(2) or (4) | The investor, the social enterprise and any person controlling the social enterprise |
-| Section 257LEA[^key-bb72efee74291bd15307ad304ea315ab] | The investor, the social enterprise, any person controlling the social enterprise and any person whom an officer of Revenue and Customs has reason to believe may be a party to the arrangements in question |
+| Section 257LEA[^c-bb72efee74291bd15307ad304ea315ab] | The investor, the social enterprise, any person controlling the social enterprise and any person whom an officer of Revenue and Customs has reason to believe may be a party to the arrangements in question |
 | Section 257LH | The investor |
 | Section 257ME(3), 257MU(1) or 257MV(1) | The social enterprise and any person controlling the social enterprise |
 | Section 257MM(5) or (6), 257MN(5), 257MU(2), (3) or (4) or 257MV(5), (6) or (7) | The investor, the social enterprise, any other company in question, and any person controlling the social enterprise or any other company in question |
@@ -58,8 +58,8 @@ must, if so required by an officer of Revenue and Customs, state whether the inv
 
 ## Annotations
 
-[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
+[^c-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
 
-[^key-d01c091098c71a2b25db286a85410d93]: Textual amendment: Word in [s. 257SH(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/257SH/1) inserted (with effect in accordance with Sch. 1 para. 14(3)(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/5/2)
+[^c-d01c091098c71a2b25db286a85410d93]: Textual amendment: Word in [s. 257SH(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/257SH/1) inserted (with effect in accordance with Sch. 1 para. 14(3)(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/5/2)
 
-[^key-bb72efee74291bd15307ad304ea315ab]: Textual amendment: Words in [s. 257SH(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/257SH/4) inserted (with effect in accordance with Sch. 1 para. 14(3)(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/5/3)
+[^c-bb72efee74291bd15307ad304ea315ab]: Textual amendment: Words in [s. 257SH(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/257SH/4) inserted (with effect in accordance with Sch. 1 para. 14(3)(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/5/3)

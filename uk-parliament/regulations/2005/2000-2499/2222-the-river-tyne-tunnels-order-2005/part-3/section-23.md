@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Power to acquire new rights[^key-394efad15153afb3e6f6c99dd29a77f2]
+## 23. Power to acquire new rights[^c-394efad15153afb3e6f6c99dd29a77f2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-394efad15153afb3e6f6c99dd29a77f2]: Commencement: Art. 23 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-394efad15153afb3e6f6c99dd29a77f2]: Commencement: Art. 23 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

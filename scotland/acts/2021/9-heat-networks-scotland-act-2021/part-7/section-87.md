@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Modifying schedule of key heat network assets[^key-a24b8d22296613c2be69179e2c6ec259]
+## 87. Modifying schedule of key heat network assets[^c-a24b8d22296613c2be69179e2c6ec259]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a24b8d22296613c2be69179e2c6ec259]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2021/9/section/87) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-a24b8d22296613c2be69179e2c6ec259]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2021/9/section/87) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

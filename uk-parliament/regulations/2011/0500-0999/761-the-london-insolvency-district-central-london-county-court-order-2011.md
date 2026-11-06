@@ -34,7 +34,7 @@ Senior Courts Of England And Wales
 
 County Courts, England And Wales
 
-The London Insolvency District (Central London County Court) Order 2011 (revoked)[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]
+The London Insolvency District (Central London County Court) Order 2011 (revoked)[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]
 
 Made
 
@@ -48,48 +48,48 @@ Coming into force
 
 6th April 2011
 
-[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]
+## 1. Citation and commencement[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Areas within the London insolvency district[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]
+## 2. Areas within the London insolvency district[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Jurisdiction under the Insolvency Act 1986[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]
+## 3. Jurisdiction under the Insolvency Act 1986[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f697fcd7cda86f57dc4b40b8e5b0a46a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f697fcd7cda86f57dc4b40b8e5b0a46a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to the Insolvency Act 1986[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 6. Amendments to the Civil Courts Order 1983[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]
+## 5. Amendment to the Insolvency Act 1986[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f697fcd7cda86f57dc4b40b8e5b0a46a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 8. Amendments to the Civil Courts (Amendment No. 3) Order 1992[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]
+## 6. Amendments to the Civil Courts Order 1983[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Transitional provisions[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]
+**7.**[^c-f697fcd7cda86f57dc4b40b8e5b0a46a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendments to the Civil Courts (Amendment No. 3) Order 1992[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 9. Transitional provisions[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f697fcd7cda86f57dc4b40b8e5b0a46a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/761) revoked (22.4.2014) by [The London Insolvency District (County Court at Central London) Order 2014 (S.I. 2014/818)](https://www.legislation.gov.uk/uksi/2014/818), [art. 2](https://www.legislation.gov.uk/uksi/2014/818/article/2)
+[^c-f697fcd7cda86f57dc4b40b8e5b0a46a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/761) revoked (22.4.2014) by [The London Insolvency District (County Court at Central London) Order 2014 (S.I. 2014/818)](https://www.legislation.gov.uk/uksi/2014/818), [art. 2](https://www.legislation.gov.uk/uksi/2014/818/article/2)

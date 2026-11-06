@@ -45,11 +45,11 @@ Coming into operation
 
 The Secretary of State, in pursuance of section 64 of the Police (Northern Ireland) Act 1998[^f00001] as amended by section 65 of the Police (Northern Ireland) Act 2000[^f00002], and after consulting the Police Authority, Police Association and Police Ombudsman for Northern Ireland in accordance with section 64 of the 1998 Act, hereby makes the following regulations:—
 
-## 1. Citation and commencement[^key-9de1ecb8412f3fb2065c083e3fd8169f]
+## 1. Citation and commencement[^c-9de1ecb8412f3fb2065c083e3fd8169f]
 
 These regulations may be cited as the RUC (Complaints etc) Regulations 2001 and shall come into operation on 2nd May 2001.
 
-## 2. Amendment of earlier Regulations[^key-5a813f35d637f86523b19a81db012aa3]
+## 2. Amendment of earlier Regulations[^c-5a813f35d637f86523b19a81db012aa3]
 
 (1) The Royal Ulster Constabulary (Discipline and Disciplinary) Appeals Regulations 1988[^f00003] shall be amended as follows—
 
@@ -154,7 +154,7 @@ These regulations may be cited as the RUC (Complaints etc) Regulations 2001 and 
   - (ii) paragraph (*b*) shall be omitted, and
   - (iii) in paragraph (*c*), for “in either case that” there shall be substituted “and”.
 
-## 3. Interpretation[^key-cb1041c1443ea0db87d72af34944b31a]
+## 3. Interpretation[^c-cb1041c1443ea0db87d72af34944b31a]
 
 The following expressions have the meanings hereby respectively assigned to them, that is to say:—
 
@@ -171,11 +171,11 @@ The following expressions have the meanings hereby respectively assigned to them
 - “the Order” means the Police (Northern Ireland) Order 1987[^f00010];
 - “Police Authority” means the Police Authority for Northern Ireland established by section 1 of the 1998 Act.
 
-## 4. Application of regulations[^key-657750a36f79ff57c693cbe6cfe54320]
+## 4. Application of regulations[^c-657750a36f79ff57c693cbe6cfe54320]
 
 These regulations apply to any complaint made on or after 6th November 2000 or to any other matter brought to the Ombudsman’s attention on or after 6th November 2000.
 
-## 5. Conditions to be met for complaints[^key-1d3cd2cf53ed94591c540273bad96d33]
+## 5. Conditions to be met for complaints[^c-1d3cd2cf53ed94591c540273bad96d33]
 
 Subject to regulations 6 and 10, the requirements for a complaint received under section 52(1) of the 1998 Act to be dealt with in accordance with the provisions of Part VII of the 1998 Act shall be:
 
@@ -192,7 +192,7 @@ Subject to regulations 6 and 10, the requirements for a complaint received under
 - (e) the complaint has not been otherwise dealt with under regulations made under 64(2)(*d*) or (*e*) of the 1998 Act, or
 - (f) the complaint has not otherwise been investigated by the police.
 
-## 6. Exceptions for certain complaints[^key-9fed01800d430fb9fa79a44d4d5d1046]
+## 6. Exceptions for certain complaints[^c-9fed01800d430fb9fa79a44d4d5d1046]
 
 (1) Regulation 5(2) shall not apply where the complaint is not the same or substantially the same as a previous complaint or matter and the Ombudsman believes that a member may have committed a criminal offence or behaved in a manner which would justify disciplinary proceedings; and the Ombudsman believes that the complaint should be investigated because of the gravity of the matter or the exceptional circumstances.
 
@@ -204,7 +204,7 @@ Subject to regulations 6 and 10, the requirements for a complaint received under
 
 (5) If any conduct to which a complaint wholly or partly relates is or has been the subject of disciplinary or criminal proceedings, the Ombudsman shall have no powers in relation to the complaint in so far as it relates to that conduct.
 
-## 7. Conditions to be met for other matters – referred by the Secretary of State, Chief Constable or Police Authority[^key-a0b20e22acb13794243e3142a880b310]
+## 7. Conditions to be met for other matters – referred by the Secretary of State, Chief Constable or Police Authority[^c-a0b20e22acb13794243e3142a880b310]
 
 Subject to Regulations 9 and 10, the Ombudsman shall consider any other matter referred to him under subsections (1), (2), or (4) of section 55 of the 1998 Act if:
 
@@ -219,7 +219,7 @@ Subject to Regulations 9 and 10, the Ombudsman shall consider any other matter r
 - (e) the matter has not been otherwise dealt with under regulations made under 64(2)(*d*) or (*e*) of the 1998 Act; or
 - (f) the matter has not been otherwise investigated by the police.
 
-## 8. Conditions to be met for other matters – being considered by the Ombudsman[^key-cd7db6f53e759c9778b716b8ea314f74]
+## 8. Conditions to be met for other matters – being considered by the Ombudsman[^c-cd7db6f53e759c9778b716b8ea314f74]
 
 Subject to Regulations 9 and 10, the Ombudsman shall be able to consider a formal investigation of any non-complaint matter under section 55(6) of the 1998 Act if:
 
@@ -231,7 +231,7 @@ Subject to Regulations 9 and 10, the Ombudsman shall be able to consider a forma
 - (f) the matter has not been otherwise dealt with under regulations made under 64(2)(*d*) or (*e*) of the 1998 Act; or
 - (g) the matter has not been otherwise investigated by the police.
 
-## 9. Exceptions for certain matters[^key-9ac1cdc45e3bee1f89df7bbd81c1fa75]
+## 9. Exceptions for certain matters[^c-9ac1cdc45e3bee1f89df7bbd81c1fa75]
 
 (1) Regulation 7(1) and 8(1) shall not apply where the matter is not the same or substantially the same as a previous complaint or matter and the Ombudsman believes that a member may have committed a criminal offence or behaved in a manner which would justify disciplinary proceedings, and the Ombudsman believes that the matter should be investigated because of the gravity of the matter or the exceptional circumstances.
 
@@ -243,13 +243,13 @@ Subject to Regulations 9 and 10, the Ombudsman shall be able to consider a forma
 
 (5) If any conduct to which any other matter wholly or partly relates is or has been the subject of disciplinary or criminal proceedings the Ombudsman shall have no powers in relation to the matter in so far as it relates to that conduct.
 
-## 10. Initial period[^key-f7249e0c5cbfd08f195c6f972ce37516]
+## 10. Initial period[^c-f7249e0c5cbfd08f195c6f972ce37516]
 
 (1) In the initial period paragraphs 5(2) and 7(1) and 8(1) shall have effect with the substitution of “2 years” for “12 months”.
 
 (2) In paragraph (1) “the initial period” means the period of 12 months beginning on 6th November 2000.
 
-## 11. Standard of proof[^key-91dd95fc75d1f0f42b2175cdce05d553]
+## 11. Standard of proof[^c-91dd95fc75d1f0f42b2175cdce05d553]
 
 (1) Where a complaint or other matter relates to conduct by a member which occurred or commenced before 6th November 2000 a charge shall not be regarded as proved unless it is:
 
@@ -293,9 +293,9 @@ The regulations refer to the Royal Ulster Constabulary. The references should be
 
 [^f00002]: Footnote: [2000 Ch 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
-[^key-9de1ecb8412f3fb2065c083e3fd8169f]: Commencement: Reg. 1 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+[^c-9de1ecb8412f3fb2065c083e3fd8169f]: Commencement: Reg. 1 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
 
-[^key-5a813f35d637f86523b19a81db012aa3]: Commencement: Reg. 2 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+[^c-5a813f35d637f86523b19a81db012aa3]: Commencement: Reg. 2 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1988/10](https://www.legislation.gov.uk/nisr/1988/10)
 
@@ -311,22 +311,22 @@ The regulations refer to the Royal Ulster Constabulary. The references should be
 
 [^f00009]: Footnote: [S.R. 2000/399](https://www.legislation.gov.uk/nisr/2000/399)
 
-[^key-cb1041c1443ea0db87d72af34944b31a]: Commencement: Reg. 3 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+[^c-cb1041c1443ea0db87d72af34944b31a]: Commencement: Reg. 3 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
 
 [^f00010]: Footnote: [1987 No. 938 (N.I. 10)](https://www.legislation.gov.uk/nisi/1987/938)
 
-[^key-657750a36f79ff57c693cbe6cfe54320]: Commencement: Reg. 4 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+[^c-657750a36f79ff57c693cbe6cfe54320]: Commencement: Reg. 4 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
 
-[^key-1d3cd2cf53ed94591c540273bad96d33]: Commencement: Reg. 5 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+[^c-1d3cd2cf53ed94591c540273bad96d33]: Commencement: Reg. 5 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
 
-[^key-9fed01800d430fb9fa79a44d4d5d1046]: Commencement: Reg. 6 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+[^c-9fed01800d430fb9fa79a44d4d5d1046]: Commencement: Reg. 6 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
 
-[^key-a0b20e22acb13794243e3142a880b310]: Commencement: Reg. 7 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+[^c-a0b20e22acb13794243e3142a880b310]: Commencement: Reg. 7 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
 
-[^key-cd7db6f53e759c9778b716b8ea314f74]: Commencement: Reg. 8 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+[^c-cd7db6f53e759c9778b716b8ea314f74]: Commencement: Reg. 8 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
 
-[^key-9ac1cdc45e3bee1f89df7bbd81c1fa75]: Commencement: Reg. 9 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+[^c-9ac1cdc45e3bee1f89df7bbd81c1fa75]: Commencement: Reg. 9 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
 
-[^key-f7249e0c5cbfd08f195c6f972ce37516]: Commencement: Reg. 10 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+[^c-f7249e0c5cbfd08f195c6f972ce37516]: Commencement: Reg. 10 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
 
-[^key-91dd95fc75d1f0f42b2175cdce05d553]: Commencement: Reg. 11 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)
+[^c-91dd95fc75d1f0f42b2175cdce05d553]: Commencement: Reg. 11 in operation at 2.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1)

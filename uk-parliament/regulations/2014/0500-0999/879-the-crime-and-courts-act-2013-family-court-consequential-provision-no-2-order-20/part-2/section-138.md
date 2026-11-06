@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**138.**[^key-1be0f813c96c5d2cbea623154864442b] In paragraph 2—
+**138.**[^c-1be0f813c96c5d2cbea623154864442b] In paragraph 2—
 
 - (a) in sub-paragraph (1), for “a magistrates’ court” substitute “the family court”;
 - (b) in sub-paragraph (2), for “the magistrates’ court designated for these purposes by rules of court” substitute “the family court”;
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1be0f813c96c5d2cbea623154864442b]: Commencement: Art. 138 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-1be0f813c96c5d2cbea623154864442b]: Commencement: Art. 138 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

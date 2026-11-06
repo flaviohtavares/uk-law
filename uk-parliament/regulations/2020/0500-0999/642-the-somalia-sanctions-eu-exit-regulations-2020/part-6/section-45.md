@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Exception for authorised conduct in a relevant country[^key-e67020007041efa3f84c892a3c1919b0]
+## 45. Exception for authorised conduct in a relevant country[^c-e67020007041efa3f84c892a3c1919b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e67020007041efa3f84c892a3c1919b0]: Commencement: Reg. 45 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-e67020007041efa3f84c892a3c1919b0]: Commencement: Reg. 45 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

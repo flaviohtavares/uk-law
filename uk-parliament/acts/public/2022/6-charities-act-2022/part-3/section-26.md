@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Power to delay registration of unsuitably named charity[^key-558afce867e8ab1436200e92ef3e2904][^key-aa934b47d8f3c51ea6cf1195db12174b]
+## 26. Power to delay registration of unsuitably named charity[^c-558afce867e8ab1436200e92ef3e2904][^c-aa934b47d8f3c51ea6cf1195db12174b]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ After section 45 of the Charities Act 2011 insert—
 
 ## Annotations
 
-[^key-558afce867e8ab1436200e92ef3e2904]: Commencement: S. 26 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-558afce867e8ab1436200e92ef3e2904]: Commencement: S. 26 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-aa934b47d8f3c51ea6cf1195db12174b]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/6/section/26) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/13)
+[^c-aa934b47d8f3c51ea6cf1195db12174b]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/6/section/26) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/13)

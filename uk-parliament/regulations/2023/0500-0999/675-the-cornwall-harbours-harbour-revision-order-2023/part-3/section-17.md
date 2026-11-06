@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. General reserve fund[^key-70588216ff7320e49fb455f926755fe7]
+## 17. General reserve fund[^c-70588216ff7320e49fb455f926755fe7]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70588216ff7320e49fb455f926755fe7]: Commencement: Art. 17 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-70588216ff7320e49fb455f926755fe7]: Commencement: Art. 17 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

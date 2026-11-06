@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Offence of carrying out activities under arrangements tainted by false information[^key-e43439917ccc7142acbef23719f48133][^key-7bb4eef0e730dabe57ceb69effab22de]
+## 78. Offence of carrying out activities under arrangements tainted by false information[^c-e43439917ccc7142acbef23719f48133][^c-7bb4eef0e730dabe57ceb69effab22de]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e43439917ccc7142acbef23719f48133]: Commencement: S. 78 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-e43439917ccc7142acbef23719f48133]: Commencement: S. 78 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-7bb4eef0e730dabe57ceb69effab22de]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/32/section/78) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-7bb4eef0e730dabe57ceb69effab22de]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/32/section/78) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

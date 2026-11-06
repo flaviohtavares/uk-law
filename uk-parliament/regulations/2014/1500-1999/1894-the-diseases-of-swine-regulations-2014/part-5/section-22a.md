@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22A. Emergency vaccination of feral pigs in England against classical swine fever and African swine fever[^key-bc20a8601555a8cea5cd4593a6e1c953]
+## 22A. Emergency vaccination of feral pigs in England against classical swine fever and African swine fever[^c-bc20a8601555a8cea5cd4593a6e1c953]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc20a8601555a8cea5cd4593a6e1c953]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/22A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(19)](https://www.legislation.gov.uk/uksi/2026/475/article/3/19)
+[^c-bc20a8601555a8cea5cd4593a6e1c953]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/22A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(19)](https://www.legislation.gov.uk/uksi/2026/475/article/3/19)

@@ -392,7 +392,7 @@ Section 1
 
 **31.** In section 636A of ITEPA 2003 (taxation of pension lump sums)—
 
-- (a)[^key-c244c35f891bf9acbbf3055f111857e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c244c35f891bf9acbbf3055f111857e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (7) (definitions) after “ “drawdown pension fund lump sum death benefit”,” insert—
 
   > “flexi-access drawdown fund lump sum death benefit”,
@@ -2010,7 +2010,7 @@ Section 1
 
 [^c2233435]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/28) in force at Royal Assent, but see sub-para. (2)
 
-[^key-c244c35f891bf9acbbf3055f111857e0]: Textual amendment: Sch. 1 para. 31(a) omitted (with effect in accordance with s. 22(12) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 22(11)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/33/section/22/11/b/i)
+[^c-c244c35f891bf9acbbf3055f111857e0]: Textual amendment: Sch. 1 para. 31(a) omitted (with effect in accordance with s. 22(12) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 22(11)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/33/section/22/11/b/i)
 
 [^c2233436]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32) in force at Royal Assent, but see sub-para. (4)
 

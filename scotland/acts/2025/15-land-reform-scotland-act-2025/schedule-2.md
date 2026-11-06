@@ -26,7 +26,7 @@ summary: ''
 
 ### Part 1 — Small landholdings and small landholders
 
-#### 1. Leases of small landholdings[^key-409a7c5882d07115f7c81f3ca84d38a2]
+#### 1. Leases of small landholdings[^c-409a7c5882d07115f7c81f3ca84d38a2]
 
 (1) A small landholding—
 
@@ -44,13 +44,13 @@ summary: ''
 
 (3) Where the small landholding is subject to a lease mentioned in sub-paragraph (2)(b), the land comprised in the lease on the day on which this paragraph comes into force includes any site which, immediately before that day, is deemed to be part of the holding to which the lease applies under section 26(1) of the Small Landholders (Scotland) Act 1911.
 
-#### 2. Persons who may be small landholders[^key-1f932134a825eb2361f762d7b022b077]
+#### 2. Persons who may be small landholders[^c-1f932134a825eb2361f762d7b022b077]
 
 (1) A small landholder is the tenant under a lease of a small landholding.
 
 (2) A small landholder must be an individual.
 
-#### 3. Land which may not be, or be part of, a small landholding[^key-4c5a9ba770600d0d36640aea955610c8]
+#### 3. Land which may not be, or be part of, a small landholding[^c-4c5a9ba770600d0d36640aea955610c8]
 
 (1) A small landholding may not comprise or include the following—
 
@@ -75,7 +75,7 @@ summary: ''
 - “**crofting counties**” is to be construed in accordance with section 61 of the Crofters (Scotland) Act 1993,
 - “**diversification agreement**” means an agreement under paragraph 16(2).
 
-#### 4. Size of small landholding[^key-9a62465e4e99dec6b793377f0f9776bf]
+#### 4. Size of small landholding[^c-9a62465e4e99dec6b793377f0f9776bf]
 
 (1) A small landholding must not exceed 20 hectares, unless sub-paragraph (2) applies.
 
@@ -91,7 +91,7 @@ summary: ''
 
 (4) Where sub-paragraph (2) applies, the lease may not be varied so as to add to the subjects of the lease unless, following the variation, the area of the holding would not exceed the area for the time being mentioned in sub-paragraph (1).
 
-#### 5. Duration of lease of small landholding[^key-3b25bdc9a2c9f0d5a0432717dbc67223]
+#### 5. Duration of lease of small landholding[^c-3b25bdc9a2c9f0d5a0432717dbc67223]
 
 (1) A lease of a small landholding—
 
@@ -109,14 +109,14 @@ is of no effect.
 
 ### Part 2 — Rent
 
-#### 6. Rent[^key-a8e7be7c4eaf00bedfebbbd5010c8f84]
+#### 6. Rent[^c-a8e7be7c4eaf00bedfebbbd5010c8f84]
 
 The rent payable by a small landholder to a landlord in respect of a small landholding is—
 
 - (a) the rent agreed between the parties (either on entering into the lease or on a subsequent variation of it), or
 - (b) the rent fixed by the Land Court.
 
-#### 7. Alteration of rent by agreement[^key-8f2ea7879eeaf7cff5750c02884558cd]
+#### 7. Alteration of rent by agreement[^c-8f2ea7879eeaf7cff5750c02884558cd]
 
 (1) A small landholder and a landlord of a small landholding may, by written agreement, alter the rent payable in respect of the holding.
 
@@ -129,7 +129,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 
 (4) Nothing in this paragraph prevents a new agreement under sub-paragraph (1) from taking effect prior to the expiry of the period specified in an agreement by virtue of sub-paragraph (2).
 
-#### 8. Application to Land Court to fix the rent[^key-8c4ae1c97024c557eb08d3d7092ec400]
+#### 8. Application to Land Court to fix the rent[^c-8c4ae1c97024c557eb08d3d7092ec400]
 
 (1) On the application of a small landholder or a landlord of a small landholding, the Land Court may, where either condition A or condition B is met, make an order fixing the rent payable by the landholder in respect of the holding.
 
@@ -167,7 +167,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 
 (8) An order fixing the rent under sub-paragraph (1) takes effect as from the first term date (being the date of Whitsunday or Martinmas) falling after the date on which the order is made.
 
-#### 9. Land Court’s power to fix the rent in connection with a ruling on diversification[^key-27b7b8d1415e9100a0683622e42238d6]
+#### 9. Land Court’s power to fix the rent in connection with a ruling on diversification[^c-27b7b8d1415e9100a0683622e42238d6]
 
 (1) This paragraph applies where—
 
@@ -180,7 +180,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 
 (3) Sub-paragraphs (5) to (8) of paragraph 8 apply to an order under sub-paragraph (2) as they apply to an order under paragraph 8(1).
 
-#### 10. Land Court’s powers in respect of rent arrears[^key-127767831282f1fe512b7a26bd400403]
+#### 10. Land Court’s powers in respect of rent arrears[^c-127767831282f1fe512b7a26bd400403]
 
 (1) The Land Court may, on the application of a small landholder to whom an application under paragraph 8(1) or 9(1)(b) (a “rent review application”) relates, make an order sisting any proceedings for the removal of the landholder for non-payment of rent until the rent review application is determined.
 
@@ -205,7 +205,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 
 ### Part 3 — Use of small landholding
 
-#### 11. Conditions of let[^key-e9e8f702cdac8914b0eb72f23c0acbd7]
+#### 11. Conditions of let[^c-e9e8f702cdac8914b0eb72f23c0acbd7]
 
 (1) A small landholder must comply with the conditions of let in sub-paragraph (2).
 
@@ -232,7 +232,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 
 (4) The Land Court may on the application of the landlord or the landholder determine whether a subsidiary or auxiliary purpose is reasonable and not inconsistent with the cultivation of the holding.
 
-#### 12. Dwelling-houses[^key-1bcd3110ec0c1a41ec363df87204b2a5]
+#### 12. Dwelling-houses[^c-1bcd3110ec0c1a41ec363df87204b2a5]
 
 (1) A small landholder may not erect a dwelling-house on the landholder’s small landholding (whether or not as a replacement for another dwelling-house on the holding) without the prior written consent of the landlord unless sub-paragraph (2) or (3) applies.
 
@@ -248,7 +248,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 
 (4) A landholder referred to in sub-paragraph (2)(a) and (3)(a) is a landholder who, immediately before paragraph 1 comes into force, is a new landholder for the purposes of section 2(1) of the Small Landholders (Scotland) Act 1911, or the successor of such a new landholder.
 
-#### 13. Landlord’s right of access[^key-18b3dcc28f96a2a255b63cfaeeeede9e]
+#### 13. Landlord’s right of access[^c-18b3dcc28f96a2a255b63cfaeeeede9e]
 
 (1) The landlord of a small landholding or a person authorised by the landlord may, subject to the conditions in sub-paragraph (2), enter the holding for the purpose of—
 
@@ -275,7 +275,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 
 (6) For the purpose of sub-paragraph (1)(e), “**game**” means deer, hares, rabbits, pheasants, partridges, quails, grouse, woodcocks, snipes, widgeons and teals.
 
-#### 14. Landlord’s right to use water rising on holding[^key-7c976ac3fa9cbf61b3a6d68a7f7a5991]
+#### 14. Landlord’s right to use water rising on holding[^c-7c976ac3fa9cbf61b3a6d68a7f7a5991]
 
 (1) The landlord of a small landholding may, for any estate purpose, use any spring of water rising on the holding which is not required by the small landholder in connection with the use of the holding.
 
@@ -288,7 +288,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 
 (4) Nothing in this paragraph is to be construed as affecting the rights of any person other than the landlord and the landholder in relation to any spring of water on the holding.
 
-#### 15. Compensation for damage caused by game or game management[^key-19814ad5ff0cd1dcf8471786ad6475d7]
+#### 15. Compensation for damage caused by game or game management[^c-19814ad5ff0cd1dcf8471786ad6475d7]
 
 (1) This paragraph applies where neither the small landholder of a small landholding nor any other person with a right in the holding deriving from the landholder has—
 
@@ -343,7 +343,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 
 ### Part 4 — Diversification
 
-#### 16. Diversification agreement[^key-8a852adbe40be8fee6c6085e1590f5b0]
+#### 16. Diversification agreement[^c-8a852adbe40be8fee6c6085e1590f5b0]
 
 (1) The small landholder and the landlord of a small landholding may enter into a diversification agreement.
 
@@ -359,7 +359,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
   - (iv) any conditions relating to the use of the land or any changes to be made to the land for that purpose, and
   - (v) the date on which the landholder may commence using the land for that purpose.
 
-#### 17. Notice of diversification[^key-84ba2f474b634e69054cc27e2094bde1]
+#### 17. Notice of diversification[^c-84ba2f474b634e69054cc27e2094bde1]
 
 (1) A small landholder may give a notice (in this Part, a “notice of diversification”) to the landlord of the landholder’s small landholding where—
 
@@ -394,7 +394,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 - (a) the proposed use of land specified in a notice of diversification in accordance with sub-paragraph (2)(b) for the purpose specified in the notice in accordance with sub-paragraph (2)(a), and
 - (b) any proposed changes to the land specified in the notice in accordance with sub-paragraph (2)(c).
 
-#### 18. Request by landlord for information about proposed diversification[^key-5dfe2f6dadf3c63e317b5da2bef9bc0e]
+#### 18. Request by landlord for information about proposed diversification[^c-5dfe2f6dadf3c63e317b5da2bef9bc0e]
 
 (1) A landlord may, on one occasion within the period of 30 days beginning with the day on which a notice of diversification is given to the landlord by a small landholder, request the landholder to provide the landlord with relevant information.
 
@@ -407,7 +407,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 
 (3) The landholder is to provide any information reasonably requested under sub-paragraph (1) within the period of 30 days beginning with the day on which it is requested.
 
-#### 19. Landlord’s agreement or objection to notice of diversification[^key-ca2b59cc9b6008e9a0d9321adca8b046]
+#### 19. Landlord’s agreement or objection to notice of diversification[^c-ca2b59cc9b6008e9a0d9321adca8b046]
 
 (1) A landlord who is given a notice of diversification by a small landholder must notify the landholder in writing within the period mentioned in sub-paragraph (2) of whether the landlord—
 
@@ -453,7 +453,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
   - (i) information to be included in a notice given under sub-paragraph (1)(b) in relation to each ground of objection,
   - (ii) the manner in which that information is to be provided.
 
-#### 20. Negotiation of diversification agreement[^key-31295ec9a11405517d08fd0504974823]
+#### 20. Negotiation of diversification agreement[^c-31295ec9a11405517d08fd0504974823]
 
 (1) This paragraph applies where a landlord notifies a small landholder under paragraph 19(1)(b) that the landlord objects to a diversification proposal in a notice of diversification.
 
@@ -473,7 +473,7 @@ The rent payable by a small landholder to a landlord in respect of a small landh
 
 is, instead of the period mentioned in paragraph 21(1) or (as the case may be) 23(3), the period of 90 days beginning with the day on which the objection is notified under paragraph 19(1)(b).
 
-#### 21. Withdrawal of objection[^key-a1429bb6c7ab66d48e78d23bcf9b3cfc]
+#### 21. Withdrawal of objection[^c-a1429bb6c7ab66d48e78d23bcf9b3cfc]
 
 (1) A landlord may withdraw an objection to a diversification proposal notified to a small landholder under paragraph 19(1)(b) within the period of 60 days beginning with the day on which it is notified.
 
@@ -494,7 +494,7 @@ is, instead of the period mentioned in paragraph 21(1) or (as the case may be) 2
   - (ii) the date on which the landlord notifies the landholder of the withdrawal under sub-paragraph (2)(a), and
 - (b) the landlord may not make an application to the Land Court under paragraph 23(2) in relation to the proposal.
 
-#### 22. Withdrawal or modification of conditions[^key-976e6a57c9230f109bb18623607ee27d]
+#### 22. Withdrawal or modification of conditions[^c-976e6a57c9230f109bb18623607ee27d]
 
 (1) This paragraph applies where a landlord imposes conditions on a small landholder in relation to the implementation of a diversification proposal under paragraph 19(4) or 21(2)(b).
 
@@ -510,7 +510,7 @@ is, instead of the period mentioned in paragraph 21(1) or (as the case may be) 2
 - (a) the modifications to the conditions and the reasons for making them, and
 - (b) why the landlord considers the conditions, as modified, are reasonable.
 
-#### 23. Determination of Land Court in relation to objection to diversification[^key-93193ce841748d7085042352ee0edc71]
+#### 23. Determination of Land Court in relation to objection to diversification[^c-93193ce841748d7085042352ee0edc71]
 
 (1) This paragraph applies where a landlord notifies a small landholder under paragraph 19(1)(b) that the landlord objects to a diversification proposal.
 
@@ -553,7 +553,7 @@ is, instead of the period mentioned in paragraph 21(1) or (as the case may be) 2
 
 (10) An application purportedly made under sub-paragraph (2) after the end of the period mentioned in sub-paragraph (3) (as read with paragraph 20(5)) is to be treated as not having been made (and the Land Court may not make a determination under this paragraph in respect of it).
 
-#### 24. Diversification agreement entered into during proceedings under paragraph 23[^key-b661fdc6c312c288e0f86d58f949dbd1]
+#### 24. Diversification agreement entered into during proceedings under paragraph 23[^c-b661fdc6c312c288e0f86d58f949dbd1]
 
 (1) This paragraph applies where the landlord and the small landholder of a small landholding enter into a diversification agreement—
 
@@ -567,7 +567,7 @@ is, instead of the period mentioned in paragraph 21(1) or (as the case may be) 2
 
 (3) But nothing in sub-paragraph (2) prevents a landholder using land in accordance with the diversification agreement.
 
-#### 25. Application by landholder to Land Court to remove conditions[^key-66895f47731fcbe4a431962373f3b86e]
+#### 25. Application by landholder to Land Court to remove conditions[^c-66895f47731fcbe4a431962373f3b86e]
 
 (1) Where a landlord imposes a condition on a small landholder under paragraph 19(4) or 21(2)(b), the landholder may, before the end of the period mentioned in sub-paragraph (2), apply to the Land Court for a determination that the condition is unreasonable.
 
@@ -587,7 +587,7 @@ is, instead of the period mentioned in paragraph 21(1) or (as the case may be) 2
 - (a) remove the condition, and
 - (b) in its place, impose on the landholder such reasonable conditions as it considers appropriate.
 
-#### 26. Use of land other than for cultivation[^key-850a88ef6563cb14362025b5fc5cb9ef]
+#### 26. Use of land other than for cultivation[^c-850a88ef6563cb14362025b5fc5cb9ef]
 
 (1) A small landholding does not cease to be a small landholding by reason only that the land comprising the holding, or part of it, is used for a diverse purpose if the use of the land for that purpose is in accordance with a diversification agreement or an authorised diversification proposal.
 
@@ -598,7 +598,7 @@ is, instead of the period mentioned in paragraph 21(1) or (as the case may be) 2
 - (a) agreed to by a landlord under this Part, or
 - (b) approved by the Land Court under paragraph 23(6)(a)(i).
 
-#### 27. Interpretation of Part[^key-1ed876b5f4b3a9ea40122a64937cbc0b]
+#### 27. Interpretation of Part[^c-1ed876b5f4b3a9ea40122a64937cbc0b]
 
 In this Part—
 
@@ -611,7 +611,7 @@ In this Part—
 
 #### Chapter 1 — Renunciation
 
-##### 28. Renunciation of tenancy by small landholder[^key-d21bd249afd80d26dbdfba3a31860602]
+##### 28. Renunciation of tenancy by small landholder[^c-d21bd249afd80d26dbdfba3a31860602]
 
 (1) A small landholder may, on giving 1 year’s written notice to the landlord, renounce the landholder’s tenancy with effect as from any term of Whitsunday or Martinmas.
 
@@ -621,7 +621,7 @@ In this Part—
 
 #### Chapter 2 — Assignation
 
-##### 29. Ability to assign[^key-78f22528f74f510fddf86bd5dfaf9f10]
+##### 29. Ability to assign[^c-78f22528f74f510fddf86bd5dfaf9f10]
 
 (1) A small landholder may assign the landholder’s interest in a small landholding to any one of the persons mentioned in sub-paragraph (2) if, following notice under sub-paragraph (4), the landlord of the holding consents to the proposed assignation.
 
@@ -657,7 +657,7 @@ In this Part—
 
 (6) Any term of a lease or of an agreement between a landlord and a small landholder which purports to provide that the landholder’s interest in the holding may not be assigned in accordance with this paragraph, or in accordance with an order of the Land Court under paragraph 30(6), is, in so far as it so purports, null and void.
 
-##### 30. Landlord’s objection to assignation[^key-6eeab737643319b045b617d05f63d87d]
+##### 30. Landlord’s objection to assignation[^c-6eeab737643319b045b617d05f63d87d]
 
 (1) Where an assignation is proposed in accordance with paragraph 29 and the proposed assignee is a near relative of the small landholder, the only grounds on which the landlord of the small landholding may withhold consent are that—
 
@@ -711,7 +711,7 @@ In this Part—
 
 #### Chapter 3 — Succession
 
-##### 31. Bequest of holding[^key-3656834c513f82aca68ea66763a664e2]
+##### 31. Bequest of holding[^c-3656834c513f82aca68ea66763a664e2]
 
 (1) A small landholder may, by will or other testamentary writing, bequeath the landholder’s interest in a small landholding to any one of the persons mentioned in sub-paragraph (2).
 
@@ -743,7 +743,7 @@ In this Part—
 
 (7) Unless a counter-notice is given by the landlord in accordance with paragraph 33(2) or 34(2), the giving of a notice under sub-paragraph (5) has the effect of making the deceased landholder’s lease of the holding binding on the landlord and the legatee, as landlord and small landholder respectively, from the date of the deceased’s death.
 
-##### 32. Intestate succession to holding[^key-008869a246e8794ba0477c819650b126]
+##### 32. Intestate succession to holding[^c-008869a246e8794ba0477c819650b126]
 
 (1) A small landholder’s interest in a small landholding is, on the landholder’s death, to be treated as intestate estate of the deceased in accordance with Part 1 of the Succession (Scotland) Act 1964 where—
 
@@ -762,7 +762,7 @@ In this Part—
 
 (4) Unless a counter-notice is given by the landlord in accordance with paragraph 33(2) or 34(2), the giving of a notice under sub-paragraph (2) has the effect of making the deceased landholder’s lease of the holding binding on the landlord and the acquirer, as landlord and small landholder respectively, from the date on which the deceased landholder’s interest in the small landholding was transferred under section 16 of the Succession (Scotland) Act 1964.
 
-##### 33. Landlord’s objection to successor: near relatives[^key-82247d532eb9630537b397e8c8b0f30f]
+##### 33. Landlord’s objection to successor: near relatives[^c-82247d532eb9630537b397e8c8b0f30f]
 
 (1) This paragraph applies where a landlord is given a notice under paragraph 31(5) or 32(2) by a legatee or (as the case may be) acquirer who is a near relative of the deceased.
 
@@ -804,7 +804,7 @@ In this Part—
 - (a) in the case of the legatee, from the date of the deceased landholder’s death,
 - (b) in the case of the acquirer, from the date on which the deceased landholder’s interest in the small landholding was transferred under section 16 of the Succession (Scotland) Act 1964.
 
-##### 34. Landlord’s objection to successor: other persons[^key-ec0fd00dc32e283a73411bdf73f490e8]
+##### 34. Landlord’s objection to successor: other persons[^c-ec0fd00dc32e283a73411bdf73f490e8]
 
 (1) This paragraph applies where a landlord is given a notice under paragraph 31(5) or 32(2) by a legatee or (as the case may be) acquirer who is not a near relative of the deceased.
 
@@ -834,7 +834,7 @@ is established to the satisfaction of the Land Court, it must make an order quas
 
 (7) A decision of the Land Court under this paragraph is final.
 
-##### 35. Landlord’s objection to successor: right to temporary occupation[^key-4dd548bb6e7936466f113c39ea7f6159]
+##### 35. Landlord’s objection to successor: right to temporary occupation[^c-4dd548bb6e7936466f113c39ea7f6159]
 
 (1) From the date of the deceased small landholder’s death until the conclusion of any proceedings under paragraph 33 or 34, the legatee or (as the case may be) acquirer is entitled to possession of the small landholding in question.
 
@@ -847,11 +847,11 @@ is established to the satisfaction of the Land Court, it must make an order quas
 
 ### Part 6 — Removal of small landholder
 
-#### 36. Security of tenure[^key-8f511aad2a51455fdefdfa7481aabfcf]
+#### 36. Security of tenure[^c-8f511aad2a51455fdefdfa7481aabfcf]
 
 A small landholder may be removed from a small landholding only in accordance with an order made by the Land Court under paragraph 37 (removal for breach of conditions) or under paragraph 38 (resumption).
 
-#### 37. Removal for breach of conditions[^key-e4e5e05aa16b45d8067c7a7b00151631]
+#### 37. Removal for breach of conditions[^c-e4e5e05aa16b45d8067c7a7b00151631]
 
 (1) The Land Court may, on the application of the landlord of a small landholding, make an order for the removal of the small landholder from the holding, if satisfied that one or more of the grounds for removal in sub-paragraph (2) is met.
 
@@ -873,7 +873,7 @@ A small landholder may be removed from a small landholding only in accordance wi
 
 (3) Before making an order under sub-paragraph (1) the court must have regard to any representations from the small landholder.
 
-#### 38. Resumption by landlord[^key-06976ed57ac95bd1b7a8892f95516e7f]
+#### 38. Resumption by landlord[^c-06976ed57ac95bd1b7a8892f95516e7f]
 
 (1) The landlord of a small landholding may apply to the Land Court to resume all or part of the holding for a reasonable purpose related to the good of the holding or the landlord’s estate.
 
@@ -903,7 +903,7 @@ A small landholder may be removed from a small landholding only in accordance wi
 
 #### Chapter 1 — Right to compensation
 
-##### 39. Small landholder’s right to compensation[^key-db451b482f4b09061b0aad8c2222b5cb]
+##### 39. Small landholder’s right to compensation[^c-db451b482f4b09061b0aad8c2222b5cb]
 
 (1) Paragraphs 40 and 41 apply where—
 
@@ -929,7 +929,7 @@ A small landholder may be removed from a small landholding only in accordance wi
 
 (4) For the purposes of sub-paragraph (1)(a) and (b), a landholder is not to be treated as having been removed from a small landholding or as having renounced a tenancy of it if the landholder continues in occupation of it under a new tenancy to which this schedule applies.
 
-##### 40. Small landholder’s right to compensation: improvements[^key-8815c54285cc59c6102e391b7ef0a739]
+##### 40. Small landholder’s right to compensation: improvements[^c-8815c54285cc59c6102e391b7ef0a739]
 
 (1) The small landholder is entitled to compensation from the landlord of the small landholding where—
 
@@ -959,7 +959,7 @@ A small landholder may be removed from a small landholding only in accordance wi
   - (b) any other improvement which the Land Court considers adds to the value of a holding to an incoming tenant,
 - “**predecessor under the same tenancy**” does not include a sub-tenant.
 
-##### 41. Small landholder’s right to compensation: increase in value due to diversification[^key-6a2daa6f67337bdfa8f4985e50e1b115]
+##### 41. Small landholder’s right to compensation: increase in value due to diversification[^c-6a2daa6f67337bdfa8f4985e50e1b115]
 
 (1) The small landholder is entitled to compensation from the landlord of the small landholding where—
 
@@ -974,7 +974,7 @@ A small landholder may be removed from a small landholding only in accordance wi
 
 (3) But where an incoming tenant’s ability to use the whole of the land comprised in the holding for the purposes of cultivation is substantially prejudiced as a result of the use or change in question, no compensation is payable under sub-paragraph (1) unless the use or change has an environmental benefit.
 
-##### 42. Landlord’s right to compensation[^key-d59f1df43e884fbafe13e518abe3d133]
+##### 42. Landlord’s right to compensation[^c-d59f1df43e884fbafe13e518abe3d133]
 
 (1) Paragraphs 43 and 44 apply where—
 
@@ -1003,7 +1003,7 @@ A small landholder may be removed from a small landholding only in accordance wi
 
 (5) Where a landholder abandons a tenancy of a small landholding, the tenancy is to be treated for the purposes of this Part as having been terminated.
 
-##### 43. Landlord’s right to compensation: deterioration etc. of holding.[^key-bd989447ad812bd3c44729bda1379540]
+##### 43. Landlord’s right to compensation: deterioration etc. of holding.[^c-bd989447ad812bd3c44729bda1379540]
 
 (1) The landlord of the small landholding is entitled to compensation from the small landholder where—
 
@@ -1022,7 +1022,7 @@ A small landholder may be removed from a small landholding only in accordance wi
   - (ii) the date of termination of the tenancy,
 - (b) in any other case, the date of termination of the tenancy.
 
-##### 44. Landlord’s right to compensation: decrease in value due to diversification[^key-a4e41e5cf06dff2b9925ee301b0a7cb6]
+##### 44. Landlord’s right to compensation: decrease in value due to diversification[^c-a4e41e5cf06dff2b9925ee301b0a7cb6]
 
 (1) The landlord of the small landholding is entitled to compensation from the small landholder where—
 
@@ -1033,7 +1033,7 @@ A small landholder may be removed from a small landholding only in accordance wi
 
 (3) The amount of compensation payable under sub-paragraph (1) is an amount equal to the amount by which the value of the holding is reduced from what it would have been without the use or change in question.
 
-##### 45. Recovery of compensation: further provision[^key-809cb2e1d19071e34346db0d014d9ea1]
+##### 45. Recovery of compensation: further provision[^c-809cb2e1d19071e34346db0d014d9ea1]
 
 (1) Compensation is recoverable by a landlord under paragraph 43 or 44 only where—
 
@@ -1045,11 +1045,11 @@ A small landholder may be removed from a small landholding only in accordance wi
 
 #### Chapter 2 — Compensation: ancillary provision
 
-##### 46. Outstanding rent[^key-ce3fb8aea4dc502bc022c81ade8bf2d4]
+##### 46. Outstanding rent[^c-ce3fb8aea4dc502bc022c81ade8bf2d4]
 
 Where compensation is due to a small landholder by a landlord under Chapter 1, any sum of rent due or to become due by the landholder in respect of the small landholding may be offset against that compensation.
 
-##### 47. Compensation to outgoing landholder by incoming landholder[^key-a627f1629c4d810ea5300ce800af358c]
+##### 47. Compensation to outgoing landholder by incoming landholder[^c-a627f1629c4d810ea5300ce800af358c]
 
 (1) This paragraph applies where an incoming tenant of a small landholding (the “incoming landholder”) agrees with the outgoing small landholder of the holding (the “outgoing landholder”) and the landlord of the holding to take on the outgoing landholder’s rights and liabilities in respect of any rights to compensation which would otherwise arise under this Part.
 
@@ -1060,7 +1060,7 @@ Where compensation is due to a small landholder by a landlord under Chapter 1, a
 
 and, accordingly, the outgoing landholder has no right to, nor liability for, compensation under this Part.
 
-##### 48. Record of condition[^key-dd80bd34575a9e203b1549c357d92a5d]
+##### 48. Record of condition[^c-dd80bd34575a9e203b1549c357d92a5d]
 
 (1) A landlord or a small landholder of a small landholding may, at any time during the tenancy of the holding, require a record of condition of the holding, or part of the holding, to be made.
 
@@ -1089,7 +1089,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 #### Chapter 3 — Process for determination of compensation amount
 
-##### 49. Application to Tenant Farming Commissioner[^key-b4adc3ef8f8c0a1a5ad444b69cb46396]
+##### 49. Application to Tenant Farming Commissioner[^c-b4adc3ef8f8c0a1a5ad444b69cb46396]
 
 (1) A landlord or small landholder may apply to the Tenant Farming Commissioner for an assessment of the amount of compensation due to or by a person under this Part in respect of a small landholding.
 
@@ -1097,7 +1097,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (3) The Scottish Ministers may by regulations prescribe the form and content of an application under sub-paragraph (1).
 
-##### 50. Appointment of valuer by Tenant Farming Commissioner[^key-2c849334f3b069fdf74d5bfb2157a070]
+##### 50. Appointment of valuer by Tenant Farming Commissioner[^c-2c849334f3b069fdf74d5bfb2157a070]
 
 (1) This paragraph applies where the Tenant Farming Commissioner is given an application under paragraph 49.
 
@@ -1114,7 +1114,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (6) The Scottish Ministers may by regulations modify the period specified in sub-paragraph (4).
 
-##### 51. Objection to valuer appointed by Tenant Farming Commissioner[^key-e7e313560731bb80d3de616f7982a0fc]
+##### 51. Objection to valuer appointed by Tenant Farming Commissioner[^c-e7e313560731bb80d3de616f7982a0fc]
 
 (1) The small landholder or, as the case may be, the landlord may apply to the Land Court to appoint a person as the valuer in place of the valuer appointed under paragraph 50(2) on the grounds that the valuer so appointed (either or both)—
 
@@ -1135,7 +1135,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (4) The decision of the Land Court on an application under sub-paragraph (1) is final.
 
-##### 52. Valuer’s expenses[^key-4f905922e0964701fb944f72cdc84736]
+##### 52. Valuer’s expenses[^c-4f905922e0964701fb944f72cdc84736]
 
 (1) Where a valuer is appointed under paragraph 50(2) or 51(3)(b), the person responsible for meeting the expenses incurred in carrying out the valuer’s functions under this Part is—
 
@@ -1146,7 +1146,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (3) For the purpose of sub-paragraph (1), a compensation award is in a person’s favour where, ignoring the effect of paragraph 46, the compensation payable to the person under this Part exceeds the compensation payable by the person under it.
 
-##### 53. Assessment of compensation[^key-675361640aa0a2f66351ba92462c32da]
+##### 53. Assessment of compensation[^c-675361640aa0a2f66351ba92462c32da]
 
 (1) The valuer is to assess the amount of compensation to which the landlord or (as the case may be) small landholder is entitled under Chapter 1.
 
@@ -1164,7 +1164,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (5) Before laying a draft of a Scottish statutory instrument containing regulations under sub-paragraph (4) before the Scottish Parliament, the Scottish Ministers must consult such persons as they consider appropriate.
 
-##### 54. Notice of assessment[^key-4c4f52ab54c4216f43d9e4e199102968]
+##### 54. Notice of assessment[^c-4c4f52ab54c4216f43d9e4e199102968]
 
 (1) The valuer must—
 
@@ -1191,7 +1191,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (4) The notice may also contain or be accompanied by any other information that the valuer considers appropriate.
 
-##### 55. Appeal against valuer’s assessment[^key-b237f440de6e69476d7bd2a5900ef692]
+##### 55. Appeal against valuer’s assessment[^c-b237f440de6e69476d7bd2a5900ef692]
 
 (1) The small landholder or the landlord may appeal to the Lands Tribunal against a notice of assessment.
 
@@ -1213,7 +1213,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (7) The decision of the Lands Tribunal in an appeal under this paragraph is final.
 
-##### 56. Referral of certain matters by Lands Tribunal to Land Court[^key-88775cc32cbe2989d72b0a4259ae0141]
+##### 56. Referral of certain matters by Lands Tribunal to Land Court[^c-88775cc32cbe2989d72b0a4259ae0141]
 
 (1) This paragraph applies where, in an appeal before the Lands Tribunal under paragraph 55, an issue of law arises which may competently be determined by the Land Court by virtue of section 1(6) of the Scottish Land Court Act 1993 or this Act.
 
@@ -1221,7 +1221,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 ### Part 8 — Right to buy
 
-#### 57. Register of Community Interests in Land: small landholders’ interests in buying land[^key-315e7528036e936aab97132f5436b324]
+#### 57. Register of Community Interests in Land: small landholders’ interests in buying land[^c-315e7528036e936aab97132f5436b324]
 
 (1) In this Part—
 
@@ -1235,7 +1235,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 - (a) a record of any notice or notification given to the Keeper under this Part, and
 - (b) where the registration of a landholder’s interest in buying land is removed under paragraph 60(4), an entry specifying the date on which that is effected.
 
-#### 58. Registration of small landholder’s interest in buying land[^key-e58ad1f7cfbd5a3f6c54c00249486704]
+#### 58. Registration of small landholder’s interest in buying land[^c-e58ad1f7cfbd5a3f6c54c00249486704]
 
 (1) A small landholder may apply to have registered an interest in buying the land comprising the landholder’s small landholding by giving a notice (a “notice of interest”) to the Keeper.
 
@@ -1271,7 +1271,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 - (a) registering landholders’ interests in buying land, and
 - (b) providing extracts, and copy extracts, of registration.
 
-#### 59. Owner’s challenge to registration[^key-c214dde837f5d86de52d5654f19fe27c]
+#### 59. Owner’s challenge to registration[^c-c214dde837f5d86de52d5654f19fe27c]
 
 (1) This paragraph applies where the Keeper gives the owner of land comprising a small landholding, under paragraph 58(4)(b), an extract of the registration of the small landholder’s interest in buying the land comprising the holding.
 
@@ -1293,7 +1293,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (7) The Court may make such order as it considers appropriate in an appeal under sub-paragraph (6).
 
-#### 60. Duration of registration[^key-cd3df5986fb862f2edf5b1a83c1852ff]
+#### 60. Duration of registration[^c-cd3df5986fb862f2edf5b1a83c1852ff]
 
 (1) The registration under paragraph 58(4)(a) of a small landholder’s interest in buying land—
 
@@ -1312,7 +1312,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (4) The Keeper must remove from the Register any registration of a landholder’s interest in buying land which no longer has effect.
 
-#### 61. Notice of proposal to transfer land[^key-3f60a87d55e1ebb08a10df239fc4745d]
+#### 61. Notice of proposal to transfer land[^c-3f60a87d55e1ebb08a10df239fc4745d]
 
 (1) This paragraph applies where—
 
@@ -1335,7 +1335,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 - (a) section 20(2) or 23(2) of the Conveyancing and Feudal Reform (Scotland) Act 1970, or
 - (b) a warrant granted under section 24(1) of that Act.
 
-#### 62. Transfers not requiring notice[^key-4f299a6b1123f638ba6c402026140473]
+#### 62. Transfers not requiring notice[^c-4f299a6b1123f638ba6c402026140473]
 
 (1) A transfer of land is an exempt transfer for the purposes of paragraph 61 if the transfer is or (as the case may be) would be—
 
@@ -1369,7 +1369,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (6) Before laying a draft of a Scottish statutory instrument containing regulations under sub-paragraph (5) before the Scottish Parliament, the Scottish Ministers must consult such persons as they consider appropriate.
 
-#### 63. Right to buy[^key-6789393bdde91587bbe166e1896d39f0]
+#### 63. Right to buy[^c-6789393bdde91587bbe166e1896d39f0]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -1399,7 +1399,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (8) Before laying a draft of a Scottish statutory instrument containing regulations under sub-paragraph (7) before the Scottish Parliament, the Scottish Ministers must consult such persons as they consider appropriate.
 
-#### 64. Exercise of right to buy[^key-0f33d63f346717985e701cee857abb55]
+#### 64. Exercise of right to buy[^c-0f33d63f346717985e701cee857abb55]
 
 (1) Where a small landholder has a right to buy land under paragraph 63(2) by virtue of paragraph 63(1)(a), the landholder may proceed in accordance with paragraph 66 to buy the land from the owner of the land or (as the case may be) the eligible creditor provided that notice is given under sub-paragraph (2).
 
@@ -1432,7 +1432,7 @@ and, accordingly, the outgoing landholder has no right to, nor liability for, co
 
 (10) Regulations under sub-paragraph (9) may modify this paragraph.
 
-#### 65. Effect of extinguishing right to buy[^key-045c06d4d62b8b55b474618fd58d7deb]
+#### 65. Effect of extinguishing right to buy[^c-045c06d4d62b8b55b474618fd58d7deb]
 
 Where a small landholder’s right to buy land is extinguished under paragraph 64(7) or 66(9), the landholder may acquire a subsequent right to buy the same land or any part of it under paragraph 63(2), but only if—
 
@@ -1441,7 +1441,7 @@ Where a small landholder’s right to buy land is extinguished under paragraph 6
   - (i) the land is transferred to another person, and
   - (ii) that person requires to give notice of a proposal to transfer land in relation to a subsequent transfer.
 
-#### 66. Procedure for buying[^key-451b778fe5c4c83e72ced755508f2095]
+#### 66. Procedure for buying[^c-451b778fe5c4c83e72ced755508f2095]
 
 (1) It is for the small landholder to make the offer to buy in exercise of the landholder’s right to buy under paragraph 63.
 
@@ -1485,7 +1485,7 @@ Where a small landholder’s right to buy land is extinguished under paragraph 6
 - (a) the landholder fails to comply with an order under sub-paragraph (8), or
 - (b) where the seller has not applied for an order under that sub-paragraph, the landholder has not (having regard to the period fixed by or agreed under sub-paragraph (4)) within a reasonable period from the acquiring by the landholder of the right to buy otherwise concluded missives with the seller for the sale of the land to the landholder.
 
-#### 67. Appointment of valuer[^key-4a2975994fb5ce2e2581e15b8a3ac306]
+#### 67. Appointment of valuer[^c-4a2975994fb5ce2e2581e15b8a3ac306]
 
 (1) Where the price to be paid for land is not agreed between the seller and the small landholder as mentioned in paragraph 66(2)(a), the land is, except where sub-paragraph (2) applies, to be valued by a valuer appointed by agreement between the seller and the landholder or by a person nominated by them.
 
@@ -1502,7 +1502,7 @@ Where a small landholder’s right to buy land is extinguished under paragraph 6
 
 (5) In this Part, “**valuer**” includes two valuers with an overseer.
 
-#### 68. Valuation of the land[^key-a5baf5398f28d4c687167d57b15e1d55]
+#### 68. Valuation of the land[^c-a5baf5398f28d4c687167d57b15e1d55]
 
 (1) A valuer appointed under paragraph 67 is to assess the value of the land in respect of which a small landholder’s right to buy under paragraph 63 is being exercised as at—
 
@@ -1560,7 +1560,7 @@ Where a small landholder’s right to buy land is extinguished under paragraph 6
   - (i) that sub-paragraph, and
   - (ii) sub-paragraph (5).
 
-#### 69. Valuation etc.: further provision[^key-c8349a16279e5e80b47ed7d3481337ca]
+#### 69. Valuation etc.: further provision[^c-c8349a16279e5e80b47ed7d3481337ca]
 
 (1) A valuer appointed under paragraph 67 is—
 
@@ -1597,7 +1597,7 @@ Where a small landholder’s right to buy land is extinguished under paragraph 6
 
 (8) The Scottish Ministers may by regulations make further provision for or in connection with the matters provided for in this paragraph and paragraphs 67 and 68.
 
-#### 70. Appeal to Lands Tribunal against valuation[^key-e0611eda7a9d998987c7eacb76fb8b9a]
+#### 70. Appeal to Lands Tribunal against valuation[^c-e0611eda7a9d998987c7eacb76fb8b9a]
 
 (1) The seller or the small landholder to whom a valuation carried out under paragraph 68 relates may appeal to the Lands Tribunal against the valuation.
 
@@ -1626,13 +1626,13 @@ Where a small landholder’s right to buy land is extinguished under paragraph 6
 
 (7) The decision of the Lands Tribunal in an appeal under this paragraph is final.
 
-#### 71. Referral of certain matters by Lands Tribunal to Land Court[^key-2f089ef1519e9e80abdeadbcca0efd31]
+#### 71. Referral of certain matters by Lands Tribunal to Land Court[^c-2f089ef1519e9e80abdeadbcca0efd31]
 
 (1) This paragraph applies where, in an appeal before the Lands Tribunal under paragraph 70, an issue of law arises which may competently be determined by the Land Court by virtue of section 1(6) of the Scottish Land Court Act 1993 or this Act.
 
 (2) The Tribunal is to refer the issue to the Land Court for determination unless the Tribunal considers that it is not appropriate to do so.
 
-#### 72. Registration of small landholder’s interest: power to modify provisions[^key-4aaa2017d035121852916a6837368f02]
+#### 72. Registration of small landholder’s interest: power to modify provisions[^c-4aaa2017d035121852916a6837368f02]
 
 (1) The Scottish Ministers may by regulations make provision for or in connection with the registration under this Part of small landholders’ interests in buying the land comprised in their landholdings.
 
@@ -1656,7 +1656,7 @@ Where a small landholder’s right to buy land is extinguished under paragraph 6
 - (b) such persons as the Scottish Ministers consider representative of the interests of small landholders and their landlords, and
 - (c) such other persons as the Scottish Ministers consider are likely to have an interest in the registration of interests to buy land under this Part.
 
-#### 73. Interpretation of Part[^key-c1f294b9a78866573d5d89ceca113993]
+#### 73. Interpretation of Part[^c-c1f294b9a78866573d5d89ceca113993]
 
 In this Part—
 
@@ -1668,7 +1668,7 @@ In this Part—
 
 ### Part 9 — Alternative dispute resolution
 
-#### 74. Agreement to resolve matters other than by application to Land Court[^key-9087bb1489de90f5ab8fa3eabc6cbd89]
+#### 74. Agreement to resolve matters other than by application to Land Court[^c-9087bb1489de90f5ab8fa3eabc6cbd89]
 
 (1) Where this schedule makes provision for any matter to be determined by the Land Court, the matter may, if the landlord and small landholder agree at or after the time when the matter arises, instead be determined by another method of resolving the matter (including arbitration).
 
@@ -1681,7 +1681,7 @@ In this Part—
   - (iv) paragraph 84 (whether a term of a contract or agreement contracting out of a provision of this schedule is to be approved), or
 - (b) on appeal.
 
-#### 75. Arbitration: procedure etc.[^key-ddb9306f7fe537730800a368438f38c5]
+#### 75. Arbitration: procedure etc.[^c-ddb9306f7fe537730800a368438f38c5]
 
 (1) This paragraph applies to any arbitration to which a matter is referred by the landlord and small landholder under paragraph 74(1).
 
@@ -1710,7 +1710,7 @@ and the arbitrator or, as the case may be, each arbitrator, may be appointed by 
   - (i) remit the case to the arbitrator for further procedure, and
   - (ii) direct the arbitrator on any question of law relevant to the case.
 
-#### 76. Conduct of arbitrator and setting aside of arbitrator’s award[^key-3455bce5f0f051d0607feb44d38e35b8]
+#### 76. Conduct of arbitrator and setting aside of arbitrator’s award[^c-3455bce5f0f051d0607feb44d38e35b8]
 
 (1) Any person with an interest in a matter determined by an arbitration to which paragraph 75 applies that has reasonable grounds for believing that—
 
@@ -1726,7 +1726,7 @@ may make an application to the Land Court for an order under sub-paragraph (2).
 
 ### Part 10 — Consequential modifications
 
-#### 77. Repeal and disapplication of existing law[^key-5b3823a8ea32a7cfcff1821c84c64518]
+#### 77. Repeal and disapplication of existing law[^c-5b3823a8ea32a7cfcff1821c84c64518]
 
 (1) The following enactments are repealed—
 
@@ -1772,13 +1772,13 @@ may make an application to the Land Court for an order under sub-paragraph (2).
 - (b) section 24 of the Small Landholders (Scotland) Act 1911,
 - (c) section 23 of the Small Landholders and Agricultural Holdings (Scotland) Act 1931.
 
-#### 78. Crofters Holdings (Scotland) Act 1887[^key-e375a2e761b7ef3ec0b39d695ef4b9d4]
+#### 78. Crofters Holdings (Scotland) Act 1887[^c-e375a2e761b7ef3ec0b39d695ef4b9d4]
 
 (1) The Crofters Holdings (Scotland) Act 1887 is modified as follows.
 
 (2) In section 2 (stay of proceedings for sale of crofter’s effects), the words from “The powers” to the end are repealed.
 
-#### 79. Small Landholders (Scotland) Act 1911[^key-c9bb90a47bf68d8a873a8cee970a1ac8]
+#### 79. Small Landholders (Scotland) Act 1911[^c-c9bb90a47bf68d8a873a8cee970a1ac8]
 
 (1) The Small Landholders (Scotland) Act 1911 is modified as follows.
 
@@ -1831,7 +1831,7 @@ may make an application to the Land Court for an order under sub-paragraph (2).
 
   .
 
-#### 80. Small Landholders and Agricultural Holdings (Scotland) Act 1931[^key-0bfec6430317629af7f09ce4b029ec70]
+#### 80. Small Landholders and Agricultural Holdings (Scotland) Act 1931[^c-0bfec6430317629af7f09ce4b029ec70]
 
 (1) The Small Landholders and Agricultural Holdings (Scotland) Act 1931 is modified as follows.
 
@@ -1852,7 +1852,7 @@ may make an application to the Land Court for an order under sub-paragraph (2).
 
 .
 
-#### 81. Succession (Scotland) Act 1964[^key-74dee8ab383f11390396e86c093eb26b]
+#### 81. Succession (Scotland) Act 1964[^c-74dee8ab383f11390396e86c093eb26b]
 
 (1) The Succession (Scotland) Act 1964 is modified as follows.
 
@@ -1888,7 +1888,7 @@ may make an application to the Land Court for an order under sub-paragraph (2).
 - (a) the words “section 16 of the Crofters Holdings (Scotland) Act 1886 or” are repealed,
 - (b) after “(asp 11)” insert “or paragraph 33 or 34 of schedule 2 of the Land Reform (Scotland) Act 2025”.
 
-#### 82. Crofters (Scotland) Act 1993[^key-7948d52d5fbc2f1320391b6b1e002342]
+#### 82. Crofters (Scotland) Act 1993[^c-7948d52d5fbc2f1320391b6b1e002342]
 
 (1) The Crofters (Scotland) Act 1993 is modified as follows.
 
@@ -1900,7 +1900,7 @@ may make an application to the Land Court for an order under sub-paragraph (2).
 
 .
 
-#### 83. Scottish Land Court Act 1993[^key-53dcea0f611cb120fd52dc2ca6b9fc18]
+#### 83. Scottish Land Court Act 1993[^c-53dcea0f611cb120fd52dc2ca6b9fc18]
 
 (1) The Scottish Land Court Act 1993 is modified as follows.
 
@@ -1908,11 +1908,11 @@ may make an application to the Land Court for an order under sub-paragraph (2).
 
 ### Part 11 — General and interpretation
 
-#### 84. Restriction on contracting out of small landholders’ statutory rights[^key-afa5ec5f2b1baf5dce1ba58c32195f24]
+#### 84. Restriction on contracting out of small landholders’ statutory rights[^c-afa5ec5f2b1baf5dce1ba58c32195f24]
 
 Any term of a contract or agreement entered into by a small landholder purporting to deprive the small landholder of a right conferred on the small landholder by this schedule is void unless the contract or agreement is approved by the Land Court.
 
-#### 85. Restriction on contracting out of rights to apply to Land Court[^key-8d9aafc659d3b259c34b613ade4919a1]
+#### 85. Restriction on contracting out of rights to apply to Land Court[^c-8d9aafc659d3b259c34b613ade4919a1]
 
 Any term of—
 
@@ -1921,7 +1921,7 @@ Any term of—
 
 that makes provision restricting any right of the landlord or small landholder to apply to the Land Court by virtue of this schedule to have a matter determined by the Court is, so far as it makes that provision, of no effect.
 
-#### 86. Interpretation[^key-b798fdc55719b7703e765072cc014a1e]
+#### 86. Interpretation[^c-b798fdc55719b7703e765072cc014a1e]
 
 In this schedule—
 
@@ -1934,174 +1934,174 @@ In this schedule—
 
 ## Annotations
 
-[^key-409a7c5882d07115f7c81f3ca84d38a2]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-409a7c5882d07115f7c81f3ca84d38a2]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-1f932134a825eb2361f762d7b022b077]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-1f932134a825eb2361f762d7b022b077]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-4c5a9ba770600d0d36640aea955610c8]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-4c5a9ba770600d0d36640aea955610c8]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-9a62465e4e99dec6b793377f0f9776bf]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-9a62465e4e99dec6b793377f0f9776bf]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-3b25bdc9a2c9f0d5a0432717dbc67223]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-3b25bdc9a2c9f0d5a0432717dbc67223]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-a8e7be7c4eaf00bedfebbbd5010c8f84]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-a8e7be7c4eaf00bedfebbbd5010c8f84]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-8f2ea7879eeaf7cff5750c02884558cd]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-8f2ea7879eeaf7cff5750c02884558cd]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-8c4ae1c97024c557eb08d3d7092ec400]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-8c4ae1c97024c557eb08d3d7092ec400]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-27b7b8d1415e9100a0683622e42238d6]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-27b7b8d1415e9100a0683622e42238d6]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-127767831282f1fe512b7a26bd400403]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-127767831282f1fe512b7a26bd400403]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-e9e8f702cdac8914b0eb72f23c0acbd7]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-e9e8f702cdac8914b0eb72f23c0acbd7]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-1bcd3110ec0c1a41ec363df87204b2a5]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-1bcd3110ec0c1a41ec363df87204b2a5]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-18b3dcc28f96a2a255b63cfaeeeede9e]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-18b3dcc28f96a2a255b63cfaeeeede9e]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-7c976ac3fa9cbf61b3a6d68a7f7a5991]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-7c976ac3fa9cbf61b3a6d68a7f7a5991]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-19814ad5ff0cd1dcf8471786ad6475d7]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-19814ad5ff0cd1dcf8471786ad6475d7]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-8a852adbe40be8fee6c6085e1590f5b0]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-8a852adbe40be8fee6c6085e1590f5b0]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-84ba2f474b634e69054cc27e2094bde1]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-84ba2f474b634e69054cc27e2094bde1]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-5dfe2f6dadf3c63e317b5da2bef9bc0e]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-5dfe2f6dadf3c63e317b5da2bef9bc0e]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-ca2b59cc9b6008e9a0d9321adca8b046]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-ca2b59cc9b6008e9a0d9321adca8b046]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-31295ec9a11405517d08fd0504974823]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-31295ec9a11405517d08fd0504974823]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-a1429bb6c7ab66d48e78d23bcf9b3cfc]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-a1429bb6c7ab66d48e78d23bcf9b3cfc]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-976e6a57c9230f109bb18623607ee27d]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-976e6a57c9230f109bb18623607ee27d]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-93193ce841748d7085042352ee0edc71]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-93193ce841748d7085042352ee0edc71]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-b661fdc6c312c288e0f86d58f949dbd1]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-b661fdc6c312c288e0f86d58f949dbd1]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-66895f47731fcbe4a431962373f3b86e]: Commencement: Sch. 2 para. 25 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-66895f47731fcbe4a431962373f3b86e]: Commencement: Sch. 2 para. 25 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-850a88ef6563cb14362025b5fc5cb9ef]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-850a88ef6563cb14362025b5fc5cb9ef]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-1ed876b5f4b3a9ea40122a64937cbc0b]: Commencement: Sch. 2 para. 27 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-1ed876b5f4b3a9ea40122a64937cbc0b]: Commencement: Sch. 2 para. 27 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-d21bd249afd80d26dbdfba3a31860602]: Commencement: Sch. 2 para. 28 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-d21bd249afd80d26dbdfba3a31860602]: Commencement: Sch. 2 para. 28 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-78f22528f74f510fddf86bd5dfaf9f10]: Commencement: Sch. 2 para. 29 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-78f22528f74f510fddf86bd5dfaf9f10]: Commencement: Sch. 2 para. 29 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-6eeab737643319b045b617d05f63d87d]: Commencement: Sch. 2 para. 30 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-6eeab737643319b045b617d05f63d87d]: Commencement: Sch. 2 para. 30 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-3656834c513f82aca68ea66763a664e2]: Commencement: Sch. 2 para. 31 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-3656834c513f82aca68ea66763a664e2]: Commencement: Sch. 2 para. 31 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-008869a246e8794ba0477c819650b126]: Commencement: Sch. 2 para. 32 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-008869a246e8794ba0477c819650b126]: Commencement: Sch. 2 para. 32 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-82247d532eb9630537b397e8c8b0f30f]: Commencement: Sch. 2 para. 33 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-82247d532eb9630537b397e8c8b0f30f]: Commencement: Sch. 2 para. 33 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-ec0fd00dc32e283a73411bdf73f490e8]: Commencement: Sch. 2 para. 34 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-ec0fd00dc32e283a73411bdf73f490e8]: Commencement: Sch. 2 para. 34 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-4dd548bb6e7936466f113c39ea7f6159]: Commencement: Sch. 2 para. 35 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-4dd548bb6e7936466f113c39ea7f6159]: Commencement: Sch. 2 para. 35 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-8f511aad2a51455fdefdfa7481aabfcf]: Commencement: Sch. 2 para. 36 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-8f511aad2a51455fdefdfa7481aabfcf]: Commencement: Sch. 2 para. 36 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-e4e5e05aa16b45d8067c7a7b00151631]: Commencement: Sch. 2 para. 37 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-e4e5e05aa16b45d8067c7a7b00151631]: Commencement: Sch. 2 para. 37 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-06976ed57ac95bd1b7a8892f95516e7f]: Commencement: Sch. 2 para. 38 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-06976ed57ac95bd1b7a8892f95516e7f]: Commencement: Sch. 2 para. 38 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-db451b482f4b09061b0aad8c2222b5cb]: Commencement: Sch. 2 para. 39 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-db451b482f4b09061b0aad8c2222b5cb]: Commencement: Sch. 2 para. 39 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-8815c54285cc59c6102e391b7ef0a739]: Commencement: Sch. 2 para. 40 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-8815c54285cc59c6102e391b7ef0a739]: Commencement: Sch. 2 para. 40 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-6a2daa6f67337bdfa8f4985e50e1b115]: Commencement: Sch. 2 para. 41 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-6a2daa6f67337bdfa8f4985e50e1b115]: Commencement: Sch. 2 para. 41 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-d59f1df43e884fbafe13e518abe3d133]: Commencement: Sch. 2 para. 42 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-d59f1df43e884fbafe13e518abe3d133]: Commencement: Sch. 2 para. 42 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-bd989447ad812bd3c44729bda1379540]: Commencement: Sch. 2 para. 43 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-bd989447ad812bd3c44729bda1379540]: Commencement: Sch. 2 para. 43 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-a4e41e5cf06dff2b9925ee301b0a7cb6]: Commencement: Sch. 2 para. 44 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-a4e41e5cf06dff2b9925ee301b0a7cb6]: Commencement: Sch. 2 para. 44 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-809cb2e1d19071e34346db0d014d9ea1]: Commencement: Sch. 2 para. 45 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-809cb2e1d19071e34346db0d014d9ea1]: Commencement: Sch. 2 para. 45 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-ce3fb8aea4dc502bc022c81ade8bf2d4]: Commencement: Sch. 2 para. 46 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-ce3fb8aea4dc502bc022c81ade8bf2d4]: Commencement: Sch. 2 para. 46 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-a627f1629c4d810ea5300ce800af358c]: Commencement: Sch. 2 para. 47 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-a627f1629c4d810ea5300ce800af358c]: Commencement: Sch. 2 para. 47 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-dd80bd34575a9e203b1549c357d92a5d]: Commencement: Sch. 2 para. 48 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-dd80bd34575a9e203b1549c357d92a5d]: Commencement: Sch. 2 para. 48 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-b4adc3ef8f8c0a1a5ad444b69cb46396]: Commencement: Sch. 2 para. 49 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-b4adc3ef8f8c0a1a5ad444b69cb46396]: Commencement: Sch. 2 para. 49 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-2c849334f3b069fdf74d5bfb2157a070]: Commencement: Sch. 2 para. 50 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-2c849334f3b069fdf74d5bfb2157a070]: Commencement: Sch. 2 para. 50 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-e7e313560731bb80d3de616f7982a0fc]: Commencement: Sch. 2 para. 51 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-e7e313560731bb80d3de616f7982a0fc]: Commencement: Sch. 2 para. 51 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-4f905922e0964701fb944f72cdc84736]: Commencement: Sch. 2 para. 52 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-4f905922e0964701fb944f72cdc84736]: Commencement: Sch. 2 para. 52 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-675361640aa0a2f66351ba92462c32da]: Commencement: Sch. 2 para. 53 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-675361640aa0a2f66351ba92462c32da]: Commencement: Sch. 2 para. 53 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-4c4f52ab54c4216f43d9e4e199102968]: Commencement: Sch. 2 para. 54 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-4c4f52ab54c4216f43d9e4e199102968]: Commencement: Sch. 2 para. 54 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-b237f440de6e69476d7bd2a5900ef692]: Commencement: Sch. 2 para. 55 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-b237f440de6e69476d7bd2a5900ef692]: Commencement: Sch. 2 para. 55 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-88775cc32cbe2989d72b0a4259ae0141]: Commencement: Sch. 2 para. 56 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-88775cc32cbe2989d72b0a4259ae0141]: Commencement: Sch. 2 para. 56 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-315e7528036e936aab97132f5436b324]: Commencement: Sch. 2 para. 57 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-315e7528036e936aab97132f5436b324]: Commencement: Sch. 2 para. 57 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-e58ad1f7cfbd5a3f6c54c00249486704]: Commencement: Sch. 2 para. 58 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-e58ad1f7cfbd5a3f6c54c00249486704]: Commencement: Sch. 2 para. 58 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-c214dde837f5d86de52d5654f19fe27c]: Commencement: Sch. 2 para. 59 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-c214dde837f5d86de52d5654f19fe27c]: Commencement: Sch. 2 para. 59 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-cd3df5986fb862f2edf5b1a83c1852ff]: Commencement: Sch. 2 para. 60 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-cd3df5986fb862f2edf5b1a83c1852ff]: Commencement: Sch. 2 para. 60 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-3f60a87d55e1ebb08a10df239fc4745d]: Commencement: Sch. 2 para. 61 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-3f60a87d55e1ebb08a10df239fc4745d]: Commencement: Sch. 2 para. 61 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-4f299a6b1123f638ba6c402026140473]: Commencement: Sch. 2 para. 62 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-4f299a6b1123f638ba6c402026140473]: Commencement: Sch. 2 para. 62 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-6789393bdde91587bbe166e1896d39f0]: Commencement: Sch. 2 para. 63 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-6789393bdde91587bbe166e1896d39f0]: Commencement: Sch. 2 para. 63 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-0f33d63f346717985e701cee857abb55]: Commencement: Sch. 2 para. 64 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-0f33d63f346717985e701cee857abb55]: Commencement: Sch. 2 para. 64 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-045c06d4d62b8b55b474618fd58d7deb]: Commencement: Sch. 2 para. 65 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-045c06d4d62b8b55b474618fd58d7deb]: Commencement: Sch. 2 para. 65 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-451b778fe5c4c83e72ced755508f2095]: Commencement: Sch. 2 para. 66 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-451b778fe5c4c83e72ced755508f2095]: Commencement: Sch. 2 para. 66 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-4a2975994fb5ce2e2581e15b8a3ac306]: Commencement: Sch. 2 para. 67 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-4a2975994fb5ce2e2581e15b8a3ac306]: Commencement: Sch. 2 para. 67 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-a5baf5398f28d4c687167d57b15e1d55]: Commencement: Sch. 2 para. 68 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-a5baf5398f28d4c687167d57b15e1d55]: Commencement: Sch. 2 para. 68 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-c8349a16279e5e80b47ed7d3481337ca]: Commencement: Sch. 2 para. 69 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-c8349a16279e5e80b47ed7d3481337ca]: Commencement: Sch. 2 para. 69 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-e0611eda7a9d998987c7eacb76fb8b9a]: Commencement: Sch. 2 para. 70 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-e0611eda7a9d998987c7eacb76fb8b9a]: Commencement: Sch. 2 para. 70 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-2f089ef1519e9e80abdeadbcca0efd31]: Commencement: Sch. 2 para. 71 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-2f089ef1519e9e80abdeadbcca0efd31]: Commencement: Sch. 2 para. 71 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-4aaa2017d035121852916a6837368f02]: Commencement: Sch. 2 para. 72 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-4aaa2017d035121852916a6837368f02]: Commencement: Sch. 2 para. 72 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-c1f294b9a78866573d5d89ceca113993]: Commencement: Sch. 2 para. 73 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-c1f294b9a78866573d5d89ceca113993]: Commencement: Sch. 2 para. 73 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-9087bb1489de90f5ab8fa3eabc6cbd89]: Commencement: Sch. 2 para. 74 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-9087bb1489de90f5ab8fa3eabc6cbd89]: Commencement: Sch. 2 para. 74 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-ddb9306f7fe537730800a368438f38c5]: Commencement: Sch. 2 para. 75 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-ddb9306f7fe537730800a368438f38c5]: Commencement: Sch. 2 para. 75 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-3455bce5f0f051d0607feb44d38e35b8]: Commencement: Sch. 2 para. 76 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-3455bce5f0f051d0607feb44d38e35b8]: Commencement: Sch. 2 para. 76 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-5b3823a8ea32a7cfcff1821c84c64518]: Commencement: Sch. 2 para. 77 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-5b3823a8ea32a7cfcff1821c84c64518]: Commencement: Sch. 2 para. 77 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-e375a2e761b7ef3ec0b39d695ef4b9d4]: Commencement: Sch. 2 para. 78 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-e375a2e761b7ef3ec0b39d695ef4b9d4]: Commencement: Sch. 2 para. 78 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-c9bb90a47bf68d8a873a8cee970a1ac8]: Commencement: Sch. 2 para. 79 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-c9bb90a47bf68d8a873a8cee970a1ac8]: Commencement: Sch. 2 para. 79 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-0bfec6430317629af7f09ce4b029ec70]: Commencement: Sch. 2 para. 80 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-0bfec6430317629af7f09ce4b029ec70]: Commencement: Sch. 2 para. 80 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-74dee8ab383f11390396e86c093eb26b]: Commencement: Sch. 2 para. 81 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-74dee8ab383f11390396e86c093eb26b]: Commencement: Sch. 2 para. 81 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-7948d52d5fbc2f1320391b6b1e002342]: Commencement: Sch. 2 para. 82 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-7948d52d5fbc2f1320391b6b1e002342]: Commencement: Sch. 2 para. 82 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-53dcea0f611cb120fd52dc2ca6b9fc18]: Commencement: Sch. 2 para. 83 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-53dcea0f611cb120fd52dc2ca6b9fc18]: Commencement: Sch. 2 para. 83 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-afa5ec5f2b1baf5dce1ba58c32195f24]: Commencement: Sch. 2 para. 84 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-afa5ec5f2b1baf5dce1ba58c32195f24]: Commencement: Sch. 2 para. 84 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-8d9aafc659d3b259c34b613ade4919a1]: Commencement: Sch. 2 para. 85 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-8d9aafc659d3b259c34b613ade4919a1]: Commencement: Sch. 2 para. 85 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-b798fdc55719b7703e765072cc014a1e]: Commencement: Sch. 2 para. 86 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-b798fdc55719b7703e765072cc014a1e]: Commencement: Sch. 2 para. 86 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

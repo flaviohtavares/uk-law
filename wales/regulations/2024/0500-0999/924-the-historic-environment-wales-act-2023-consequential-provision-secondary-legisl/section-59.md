@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**59.**[^key-c6b3b6f452b45037f4e0829d7fef31ad] In article 26(7), in sub-paragraph (b) of both the definition of “householder appeal” and “minor commercial appeal”, for “section 20” to the end substitute “section 100 of the Historic Environment (Wales) Act 2023 (right to appeal against planning authority decision or failure to make decision).”
+**59.**[^c-c6b3b6f452b45037f4e0829d7fef31ad] In article 26(7), in sub-paragraph (b) of both the definition of “householder appeal” and “minor commercial appeal”, for “section 20” to the end substitute “section 100 of the Historic Environment (Wales) Act 2023 (right to appeal against planning authority decision or failure to make decision).”
 
 ## Annotations
 
-[^key-c6b3b6f452b45037f4e0829d7fef31ad]: Commencement: [Reg. 59](https://www.legislation.gov.uk/wsi/2024/924/regulation/59) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-c6b3b6f452b45037f4e0829d7fef31ad]: Commencement: [Reg. 59](https://www.legislation.gov.uk/wsi/2024/924/regulation/59) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

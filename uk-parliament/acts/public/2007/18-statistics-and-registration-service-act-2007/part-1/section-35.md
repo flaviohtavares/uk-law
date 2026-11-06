@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Committees[^key-0634afe4eb00b168dba727900a0e6be6]
+## 35. Committees[^c-0634afe4eb00b168dba727900a0e6be6]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0634afe4eb00b168dba727900a0e6be6]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2007/18/section/35) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-0634afe4eb00b168dba727900a0e6be6]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2007/18/section/35) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-882587ad66d301cf552ac45de9a2757e] Part 5 of the Nationality, Immigration and Asylum Act 2002 (immigration and asylum appeals) is amended as follows.
+(1)[^c-882587ad66d301cf552ac45de9a2757e] Part 5 of the Nationality, Immigration and Asylum Act 2002 (immigration and asylum appeals) is amended as follows.
 
-(2)[^key-e18736d057c3589618ed05f778e75734] For section 92 substitute—
+(2)[^c-e18736d057c3589618ed05f778e75734] For section 92 substitute—
 
 > **92. Place from which an appeal may be brought or continued**
 >
@@ -55,7 +55,7 @@ summary: ''
 >
 > (8) Where an appellant brings an appeal from within the United Kingdom but leaves the United Kingdom before the appeal is finally determined, the appeal is to be treated as abandoned unless the claim to which the appeal relates has been certified under section 94(1) or (7) or section 94B.
 
-(3)[^key-882587ad66d301cf552ac45de9a2757e] After section 94A, insert—
+(3)[^c-882587ad66d301cf552ac45de9a2757e] After section 94A, insert—
 
 > **94B. Appeal from within the United Kingdom: certification of human rights claims made by persons liable to deportation**
 >
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-882587ad66d301cf552ac45de9a2757e]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/ukpga/2014/22/section/17/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/17/3) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(n)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/n)
+[^c-882587ad66d301cf552ac45de9a2757e]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/ukpga/2014/22/section/17/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/17/3) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(n)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/n)
 
-[^key-e18736d057c3589618ed05f778e75734]: Commencement: [S. 17(2)](https://www.legislation.gov.uk/ukpga/2014/22/section/17/2) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/c) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9), [15](https://www.legislation.gov.uk/uksi/2014/2771/article/15)) (as amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+[^c-e18736d057c3589618ed05f778e75734]: Commencement: [S. 17(2)](https://www.legislation.gov.uk/ukpga/2014/22/section/17/2) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/c) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9), [15](https://www.legislation.gov.uk/uksi/2014/2771/article/15)) (as amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))

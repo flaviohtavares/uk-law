@@ -29,7 +29,7 @@ Regulation 31, 35 and 36
 - (a) a transfer value is calculated on the cash equivalent basis if it is calculated in the manner prescribed under section 97 of PSA 1993 for the calculation of cash equivalents, and
 - (b) “**occupational pension scheme**” has the same meaning as in section 150(5) of FA 2004.
 
-**2.** Paragraphs 3 to 6 are subject to paragraphs 7 to 10A[^key-d626eaf8522d6b1c6e5f015d598868d6].
+**2.** Paragraphs 3 to 6 are subject to paragraphs 7 to 10A[^c-d626eaf8522d6b1c6e5f015d598868d6].
 
 **3.** Where—
 
@@ -102,11 +102,11 @@ C is any cash equivalent paid on the transfer.
 
 **10.** Where a transfer value is paid to the scheme managers of an occupational pension scheme which is not a contracted-out scheme, or of a personal pension scheme, there may be deducted from it the amount of any contributions equivalent premium paid by the Secretary of State.
 
-**10A.**[^key-2216a475fcc79d1bbea687edfd53e2c7] The Secretary of State may, on the advice of the scheme actuary, adjust a transfer value calculated in accordance with this Part.
+**10A.**[^c-2216a475fcc79d1bbea687edfd53e2c7] The Secretary of State may, on the advice of the scheme actuary, adjust a transfer value calculated in accordance with this Part.
 
 ### PART 2 — Inward Transfers
 
-**11.**[^key-73cc72d8a70ebb259a010d36337cf13d] If Section 3 of Chapter 3 of Part 4 (Transfers on a CUKS basis; transfers in) applies, a person (P) is entitled to count as reckonable service the period of service under a comparable United Kingdom scheme certified by the scheme managers as having stood to P's credit under the scheme when P ceased to be subject to it.
+**11.**[^c-73cc72d8a70ebb259a010d36337cf13d] If Section 3 of Chapter 3 of Part 4 (Transfers on a CUKS basis; transfers in) applies, a person (P) is entitled to count as reckonable service the period of service under a comparable United Kingdom scheme certified by the scheme managers as having stood to P's credit under the scheme when P ceased to be subject to it.
 
 **11A.** (1) If Section 3 of Chapter 2 of Part 4 (Transfers on a club basis; transfer in) applies, a person (P) is entitled to count as reckonable service the period specified in this paragraph.
 
@@ -125,7 +125,7 @@ C is any cash equivalent paid on the transfer.
 
 **13.** (1) This paragraph applies where—
 
-- (a)[^key-09c12e62677807421cd2931c3bef73a4] the person is subject to a personal pension scheme after ceasing to be in pensionable employment and that pensionable employment was after 31st December 1985.
+- (a)[^c-09c12e62677807421cd2931c3bef73a4] the person is subject to a personal pension scheme after ceasing to be in pensionable employment and that pensionable employment was after 31st December 1985.
 - (b) the person (P) has made an election under regulation 10 (election for employment to be pensionable) and falls within regulation 10(2)(a),
 - (c) the previous election under regulation B6 of TSR 1988 (election not to be pensionable) was made before 30th June 1994,
 - (d) P has been in excluded employment between the date of the election under regulation B6 of TSR 1988 and the date of the election under regulation 10 of these Regulations,
@@ -154,20 +154,20 @@ C is any cash equivalent paid on the transfer.
 
 ### PART 3 — Inward transfers: bulk transfers
 
-**14.** In this Part “**bulk transfer**” has the same meaning as in regulation 36A[^key-3b580eab56a9f55b9c098ea07d3f9b30].
+**14.** In this Part “**bulk transfer**” has the same meaning as in regulation 36A[^c-3b580eab56a9f55b9c098ea07d3f9b30].
 
-**15.** The person is entitled to count as reckonable service a period of service determined in accordance with the terms of the bulk transfer as agreed between the Secretary of State and the scheme manager[^key-e7ce880e32557d8d6710785e3849e179] of the previous scheme, the Secretary of State having taken advice from the scheme actuary as to those terms.
+**15.** The person is entitled to count as reckonable service a period of service determined in accordance with the terms of the bulk transfer as agreed between the Secretary of State and the scheme manager[^c-e7ce880e32557d8d6710785e3849e179] of the previous scheme, the Secretary of State having taken advice from the scheme actuary as to those terms.
 
 ## Annotations
 
-[^key-d626eaf8522d6b1c6e5f015d598868d6]: Textual amendment: Word in [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/2) substituted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/13/2)
+[^c-d626eaf8522d6b1c6e5f015d598868d6]: Textual amendment: Word in [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/2) substituted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/13/2)
 
-[^key-2216a475fcc79d1bbea687edfd53e2c7]: Textual amendment: [Sch. 6 para. 10A](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/10A) inserted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/13/3)
+[^c-2216a475fcc79d1bbea687edfd53e2c7]: Textual amendment: [Sch. 6 para. 10A](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/10A) inserted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/13/3)
 
-[^key-73cc72d8a70ebb259a010d36337cf13d]: Textual amendment: [Sch. 6 paras. 11-12](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/11) substituted for Sch. 6 paras. 11, 12 (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [25(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/25/a)
+[^c-73cc72d8a70ebb259a010d36337cf13d]: Textual amendment: [Sch. 6 paras. 11-12](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/11) substituted for Sch. 6 paras. 11, 12 (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [25(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/25/a)
 
-[^key-09c12e62677807421cd2931c3bef73a4]: Textual amendment: [Sch. 6 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/13/1/a) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/25/b)
+[^c-09c12e62677807421cd2931c3bef73a4]: Textual amendment: [Sch. 6 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/13/1/a) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/25/b)
 
-[^key-3b580eab56a9f55b9c098ea07d3f9b30]: Textual amendment: Word in [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/14) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [25(c)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/25/c)
+[^c-3b580eab56a9f55b9c098ea07d3f9b30]: Textual amendment: Word in [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/14) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [25(c)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/25/c)
 
-[^key-e7ce880e32557d8d6710785e3849e179]: Textual amendment: Words in [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/15) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [25(d)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/25/d)
+[^c-e7ce880e32557d8d6710785e3849e179]: Textual amendment: Words in [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2010/990/schedule/6/paragraph/15) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [25(d)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/25/d)

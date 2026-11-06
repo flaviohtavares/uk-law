@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25A. Removal of protection zones and surveillance zones in England[^key-a3484fe656bbbd6f071fb8c97545e82c]
+## 25A. Removal of protection zones and surveillance zones in England[^c-a3484fe656bbbd6f071fb8c97545e82c]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3484fe656bbbd6f071fb8c97545e82c]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/25A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(23)](https://www.legislation.gov.uk/uksi/2026/475/article/3/23)
+[^c-a3484fe656bbbd6f071fb8c97545e82c]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/25A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(23)](https://www.legislation.gov.uk/uksi/2026/475/article/3/23)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**8.**[^key-211bb129853697d87426ff711c0c5295] Omit Part 3.
+**8.**[^c-211bb129853697d87426ff711c0c5295] Omit Part 3.
 
 ## Annotations
 
-[^key-211bb129853697d87426ff711c0c5295]: Commencement: Reg. 8 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-211bb129853697d87426ff711c0c5295]: Commencement: Reg. 8 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

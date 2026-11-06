@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Regulations[^key-8f0d4dc14a8f7ab04b70f26e946bef28]
+## 140. Regulations[^c-8f0d4dc14a8f7ab04b70f26e946bef28]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f0d4dc14a8f7ab04b70f26e946bef28]: Commencement: S. 140 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-8f0d4dc14a8f7ab04b70f26e946bef28]: Commencement: S. 140 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

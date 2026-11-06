@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Meaning of “social care worker”[^key-9d264b0f740b4ff7397a659f7a843634][^key-25d6c23d85db8c12aa46a2b2cbff133b]
+## 42. Meaning of “social care worker”[^c-9d264b0f740b4ff7397a659f7a843634][^c-25d6c23d85db8c12aa46a2b2cbff133b]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d264b0f740b4ff7397a659f7a843634]: Commencement: S. 42 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-9d264b0f740b4ff7397a659f7a843634]: Commencement: S. 42 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-25d6c23d85db8c12aa46a2b2cbff133b]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2025/36/section/42) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(12)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/12)
+[^c-25d6c23d85db8c12aa46a2b2cbff133b]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2025/36/section/42) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(12)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/12)

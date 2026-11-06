@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Where the First-tier Tribunal[^key-d9b7285572e5a8a3cc8f9b87366adc3c] notifies the local authority that a landlord—
+(1) Where the First-tier Tribunal[^c-d9b7285572e5a8a3cc8f9b87366adc3c] notifies the local authority that a landlord—
 
 - (a) is unable to comply with the duty imposed by section 14(1)(b), or
 - (b) has failed, or is unable, to comply with a repairing standard enforcement order,
@@ -41,4 +41,4 @@ the local authority may carry out the work specified in subsection (2).
 
 ## Annotations
 
-[^key-d9b7285572e5a8a3cc8f9b87366adc3c]: Textual amendment: Words in s. 36(1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 6(10)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/6/10) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-d9b7285572e5a8a3cc8f9b87366adc3c]: Textual amendment: Words in s. 36(1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 6(10)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/6/10) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))

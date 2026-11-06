@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Failure to provide information in relation to limited capability for work[^key-167f436530e0cd3431330543000dbdea]
+## 18. Failure to provide information in relation to limited capability for work[^c-167f436530e0cd3431330543000dbdea]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-167f436530e0cd3431330543000dbdea]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/219/regulation/18) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-167f436530e0cd3431330543000dbdea]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/219/regulation/18) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

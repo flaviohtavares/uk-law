@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-327cd0a3f98c330a707f84743a10194b]
+## 1. Citation and commencement[^c-327cd0a3f98c330a707f84743a10194b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Rules may be cited as the Building Society Insolvency (Scotland) Rules 201
 
 ## Annotations
 
-[^key-327cd0a3f98c330a707f84743a10194b]: Commencement: Rule 1 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-327cd0a3f98c330a707f84743a10194b]: Commencement: Rule 1 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

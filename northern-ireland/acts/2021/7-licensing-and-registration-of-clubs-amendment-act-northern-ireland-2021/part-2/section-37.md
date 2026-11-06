@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Private functions[^key-ff6e486998cb1746b9da404965d9c212][^key-0e6377770e5fd7ff6cf39c54fcdd7fde]
+## 37. Private functions[^c-ff6e486998cb1746b9da404965d9c212][^c-0e6377770e5fd7ff6cf39c54fcdd7fde]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ In Article 32 of the Registration of Clubs Order (young persons prohibited from 
 
 ## Annotations
 
-[^key-ff6e486998cb1746b9da404965d9c212]: Commencement: S. 37 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-ff6e486998cb1746b9da404965d9c212]: Commencement: S. 37 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-0e6377770e5fd7ff6cf39c54fcdd7fde]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2021/7/section/37) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-0e6377770e5fd7ff6cf39c54fcdd7fde]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2021/7/section/37) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

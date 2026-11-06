@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Duty of Mayor and Assembly to address climate change[^key-95b160fd3a69814e43a8b00c700c210a]
+## 42. Duty of Mayor and Assembly to address climate change[^c-95b160fd3a69814e43a8b00c700c210a]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ In Part 9 of the GLA Act 1999 (environmental functions) after section 361 insert
 
 ## Annotations
 
-[^key-95b160fd3a69814e43a8b00c700c210a]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2007/24/section/42) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)
+[^c-95b160fd3a69814e43a8b00c700c210a]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2007/24/section/42) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)

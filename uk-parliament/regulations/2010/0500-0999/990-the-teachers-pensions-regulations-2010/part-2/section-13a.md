@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13A. Accepted phased withdrawal schools[^key-60a00c8647eb6fc9324563233b1e7253]
+## 13A. Accepted phased withdrawal schools[^c-60a00c8647eb6fc9324563233b1e7253]
 
 *Extent: E+W+S*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60a00c8647eb6fc9324563233b1e7253]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2010/990/regulation/13A) inserted (1.8.2021) by [The Teachers’ Pensions (Miscellaneous Provisions) (Amendment) Regulations 2021 (S.I. 2021/805)](https://www.legislation.gov.uk/uksi/2021/805), [regs. 1](https://www.legislation.gov.uk/uksi/2021/805/regulation/1), [7](https://www.legislation.gov.uk/uksi/2021/805/regulation/7)
+[^c-60a00c8647eb6fc9324563233b1e7253]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2010/990/regulation/13A) inserted (1.8.2021) by [The Teachers’ Pensions (Miscellaneous Provisions) (Amendment) Regulations 2021 (S.I. 2021/805)](https://www.legislation.gov.uk/uksi/2021/805), [regs. 1](https://www.legislation.gov.uk/uksi/2021/805/regulation/1), [7](https://www.legislation.gov.uk/uksi/2021/805/regulation/7)

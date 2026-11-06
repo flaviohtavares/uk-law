@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Amendment of regulation G10[^key-11e7083c99b68b75d76d1849d3b4490f]
+## 26. Amendment of regulation G10[^c-11e7083c99b68b75d76d1849d3b4490f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ For paragraph (4) of regulation G10 (surviving civil partner’s pension) substi
 
 ## Annotations
 
-[^key-11e7083c99b68b75d76d1849d3b4490f]: Commencement: Reg. 26 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-11e7083c99b68b75d76d1849d3b4490f]: Commencement: Reg. 26 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Persons who may be required to submit abandonment programmes[^key-faa21f092aa428e9058c656367c9f37b]
+## 72. Persons who may be required to submit abandonment programmes[^c-faa21f092aa428e9058c656367c9f37b]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,4 +104,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faa21f092aa428e9058c656367c9f37b]: Commencement: S. 72 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/i)
+[^c-faa21f092aa428e9058c656367c9f37b]: Commencement: S. 72 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/i)

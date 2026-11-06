@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Continuing payments where state pension credit claimed[^key-ef980f4a3ed700dd6d49d4ca1b14f88f]
+## 10. Continuing payments where state pension credit claimed[^c-ef980f4a3ed700dd6d49d4ca1b14f88f]
 
 *Extent: N.I.*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ef980f4a3ed700dd6d49d4ca1b14f88f]: Commencement: Reg. 10 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-ef980f4a3ed700dd6d49d4ca1b14f88f]: Commencement: Reg. 10 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00074]: Footnote: Regulation 62A was inserted by regulation 3 of [S.R. 1996 No. 115](https://www.legislation.gov.uk/nisr/1996/115) and amended by regulation 4(2)(a), (b) and (c) of [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381), regulation 3(2) to (7) of [S.R. 2001 No. 99](https://www.legislation.gov.uk/nisr/2001/99) and Schedule 1 to [S.R. 2001 No. 215](https://www.legislation.gov.uk/nisr/2001/215)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Investments made for the purposes of a superannuation fund[^key-16c8c608861b42a9808443da8e4883f2]
+## 23. Investments made for the purposes of a superannuation fund[^c-16c8c608861b42a9808443da8e4883f2]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ A lease or a contract is excluded from section 48 if the authority become lessee
 
 ## Annotations
 
-[^key-16c8c608861b42a9808443da8e4883f2]: Commencement: Reg. 23 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-16c8c608861b42a9808443da8e4883f2]: Commencement: Reg. 23 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00021]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).

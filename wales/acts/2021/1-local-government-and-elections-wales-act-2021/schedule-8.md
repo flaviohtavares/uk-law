@@ -24,13 +24,13 @@ summary: ''
 
 ### Local Government Act 2000 (c. 22)
 
-**1.**[^key-bead67f7db074456306e162dd8a5dd1c] The 2000 Act is amended as follows.
+**1.**[^c-bead67f7db074456306e162dd8a5dd1c] The 2000 Act is amended as follows.
 
-**2.**[^key-b3ddde2a27356770466766ac12a4941a] In section 69 (investigations by the Public Services Ombudsman for Wales), after subsection (5) insert—
+**2.**[^c-b3ddde2a27356770466766ac12a4941a] In section 69 (investigations by the Public Services Ombudsman for Wales), after subsection (5) insert—
 
 > (6) Sections 69A to 69E apply in relation to the exercise of the functions of the Public Services Ombudsman for Wales under this section.
 
-**3.**[^key-33b9239a6e80e1370bdb05e1b954048d] After section 69 of the 2000 Act insert—
+**3.**[^c-33b9239a6e80e1370bdb05e1b954048d] After section 69 of the 2000 Act insert—
 
 > **69A. Possible conflict of interest in an investigation**
 >
@@ -141,12 +141,12 @@ summary: ''
 >
 > The Welsh Ministers may by regulations amend this Chapter to make further or different provision about the exercise of the functions of the Public Services Ombudsman for Wales under section 69.
 
-**4.**[^key-caa532af3dc770241f06db7a29269e0d] In section 70 (investigations: further provisions)—
+**4.**[^c-caa532af3dc770241f06db7a29269e0d] In section 70 (investigations: further provisions)—
 
 - (a) omit subsections (1) and (2);
 - (b) for the heading substitute “ Ceasing investigations etc. ”.
 
-**5.**[^key-5f415b34d3bc73cd440839b876071ca4] For section 74 (law of defamation) substitute—
+**5.**[^c-5f415b34d3bc73cd440839b876071ca4] For section 74 (law of defamation) substitute—
 
 > **Law of defamation**
 >
@@ -159,42 +159,42 @@ summary: ''
 >   - (i) is made in communications with the Ombudsman or a person exercising a function of the Ombudsman, and
 >   - (ii) is made for the purposes of, or in connection with, the Ombudsman's functions under Chapters 3 and 4 of this Part.
 
-**6.**[^key-cf69938bc61fb0ca297b5143dadd3851] In section 106(7) (Wales: orders and regulations), before “may not” insert “ or regulations under section 69F ”.
+**6.**[^c-cf69938bc61fb0ca297b5143dadd3851] In section 106(7) (Wales: orders and regulations), before “may not” insert “ or regulations under section 69F ”.
 
 ### Government of Wales Act 2006 (c. 32)
 
-**7.**[^key-22b0840b90bc07a2a2efccdb9da9a076] In table 1 in paragraph 35(3) of Schedule 11 to the Government of Wales Act 2006 (transitional provisions), omit the entry for section 70(1) of the 2000 Act.
+**7.**[^c-22b0840b90bc07a2a2efccdb9da9a076] In table 1 in paragraph 35(3) of Schedule 11 to the Government of Wales Act 2006 (transitional provisions), omit the entry for section 70(1) of the 2000 Act.
 
 ### Localism Act 2011 (c. 20)
 
-**8.**[^key-c7ad26ef5c2d9d8f46eaea5fac3da209] In Schedule 4 to the Localism Act 2011 (conduct of local government members: amendments), omit paragraph 38(2).
+**8.**[^c-c7ad26ef5c2d9d8f46eaea5fac3da209] In Schedule 4 to the Localism Act 2011 (conduct of local government members: amendments), omit paragraph 38(2).
 
 ### Social Services and Well-being (Wales) Act 2014 (anaw 4)
 
-**9.**[^key-15cf4ef26606dd884e371b0e6f2d3da1] In Schedule 3 to the Social Services and Well-being (Wales) Act 2014 (minor and consequential amendments), omit paragraph 12.
+**9.**[^c-15cf4ef26606dd884e371b0e6f2d3da1] In Schedule 3 to the Social Services and Well-being (Wales) Act 2014 (minor and consequential amendments), omit paragraph 12.
 
 ### Public Services Ombudsman (Wales) Act 2019 (anaw 3)
 
-**10.**[^key-f93f7ec9fade64d7d8d27f50a3d77f0e] In Schedule 5 to the Public Services Ombudsman (Wales) Act 2019 (consequential amendments), omit paragraph 20.
+**10.**[^c-f93f7ec9fade64d7d8d27f50a3d77f0e] In Schedule 5 to the Public Services Ombudsman (Wales) Act 2019 (consequential amendments), omit paragraph 20.
 
 ## Annotations
 
-[^key-bead67f7db074456306e162dd8a5dd1c]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/1) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-bead67f7db074456306e162dd8a5dd1c]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/1) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
 
-[^key-b3ddde2a27356770466766ac12a4941a]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/2) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-b3ddde2a27356770466766ac12a4941a]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/2) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
 
-[^key-33b9239a6e80e1370bdb05e1b954048d]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/3) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-33b9239a6e80e1370bdb05e1b954048d]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/3) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
 
-[^key-caa532af3dc770241f06db7a29269e0d]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/4) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-caa532af3dc770241f06db7a29269e0d]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/4) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
 
-[^key-5f415b34d3bc73cd440839b876071ca4]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/5) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-5f415b34d3bc73cd440839b876071ca4]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/5) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
 
-[^key-cf69938bc61fb0ca297b5143dadd3851]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/6) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-cf69938bc61fb0ca297b5143dadd3851]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/6) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
 
-[^key-22b0840b90bc07a2a2efccdb9da9a076]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/7) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-22b0840b90bc07a2a2efccdb9da9a076]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/7) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
 
-[^key-c7ad26ef5c2d9d8f46eaea5fac3da209]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/8) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-c7ad26ef5c2d9d8f46eaea5fac3da209]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/8) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
 
-[^key-15cf4ef26606dd884e371b0e6f2d3da1]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/9) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-15cf4ef26606dd884e371b0e6f2d3da1]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/9) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
 
-[^key-f93f7ec9fade64d7d8d27f50a3d77f0e]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/10) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-f93f7ec9fade64d7d8d27f50a3d77f0e]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/10) in force at 5.5.2022 by [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))

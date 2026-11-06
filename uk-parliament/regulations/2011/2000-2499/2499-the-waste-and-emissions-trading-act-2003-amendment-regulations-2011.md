@@ -138,29 +138,29 @@ The following provisions cease to apply where the allocating authority is the Se
 - (a) section 9(3) and (4) (duty not to exceed allowances);
 - (b) section 26(4) (penalties under Chapter 1: general).
 
-## PART 3 — Amendment of the Landfill Allowances and Trading Scheme (England) Regulations 2004[^key-0d11c54e7bcab63f74a2a3c32e359379]
+## PART 3 — Amendment of the Landfill Allowances and Trading Scheme (England) Regulations 2004[^c-0d11c54e7bcab63f74a2a3c32e359379]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### 9. Amendment of the Landfill Allowances and Trading Scheme (England) Regulations 2004[^key-0d11c54e7bcab63f74a2a3c32e359379]
+### 9. Amendment of the Landfill Allowances and Trading Scheme (England) Regulations 2004[^c-0d11c54e7bcab63f74a2a3c32e359379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of regulation 2 (interpretation)[^key-0d11c54e7bcab63f74a2a3c32e359379]
+### 10. Amendment of regulation 2 (interpretation)[^c-0d11c54e7bcab63f74a2a3c32e359379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Substitution of “local authority collected municipal waste” and “biodegradable local authority collected municipal waste”[^key-0d11c54e7bcab63f74a2a3c32e359379]
+### 11. Substitution of “local authority collected municipal waste” and “biodegradable local authority collected municipal waste”[^c-0d11c54e7bcab63f74a2a3c32e359379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendment of regulation 13 (determining the amount of biodegradable municipal waste in amounts of waste)[^key-0d11c54e7bcab63f74a2a3c32e359379]
+### 12. Amendment of regulation 13 (determining the amount of biodegradable municipal waste in amounts of waste)[^c-0d11c54e7bcab63f74a2a3c32e359379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amendment of regulation 20 (penalties: exceeding allowances)[^key-0d11c54e7bcab63f74a2a3c32e359379]
+### 13. Amendment of regulation 20 (penalties: exceeding allowances)[^c-0d11c54e7bcab63f74a2a3c32e359379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -210,7 +210,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c21070171]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). The definition of “waste collection authorities” in section 30(3) was amended by section 66(8) of, and Schedule 18 to, the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), and by section 180 of, and paragraph 167(3) of Schedule 13 to, the [Local Government etc. (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-0d11c54e7bcab63f74a2a3c32e359379]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2011/2499/part/3) revoked (31.3.2013) by [The Waste and Emissions Trading Act 2003 (Amendment etc.) Regulations 2013 (S.I. 2013/141)](https://www.legislation.gov.uk/uksi/2013/141), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/141/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2013/141/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/141/regulation/8))
+[^c-0d11c54e7bcab63f74a2a3c32e359379]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2011/2499/part/3) revoked (31.3.2013) by [The Waste and Emissions Trading Act 2003 (Amendment etc.) Regulations 2013 (S.I. 2013/141)](https://www.legislation.gov.uk/uksi/2013/141), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/141/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2013/141/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/141/regulation/8))
 
 [^c21070181]: Marginal citation: [S.I. 2009/105](https://www.legislation.gov.uk/uksi/2009/105).
 

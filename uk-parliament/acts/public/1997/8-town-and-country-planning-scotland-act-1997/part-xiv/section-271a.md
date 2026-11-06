@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 271A. Service of notices on the Crown[^key-c827ac8ff3f5351a3158083aa0d263ff]
+## 271A. Service of notices on the Crown[^c-c827ac8ff3f5351a3158083aa0d263ff]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c827ac8ff3f5351a3158083aa0d263ff]: Textual amendment: S. 271A inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/17) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-c827ac8ff3f5351a3158083aa0d263ff]: Textual amendment: S. 271A inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/17) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)

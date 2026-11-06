@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8E. Temporary registration in the register of pharmaceutical chemists in certain emergencies[^key-7807f398416cb1207ed2ce02c1e3efc2]
+## 8E. Temporary registration in the register of pharmaceutical chemists in certain emergencies[^c-7807f398416cb1207ed2ce02c1e3efc2]
 
 *Extent: N.I.*
 
@@ -85,4 +85,4 @@ but this is subject to paragraph (11).
 
 ## Annotations
 
-[^key-7807f398416cb1207ed2ce02c1e3efc2]: Textual amendment: Art. 8E inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2020/7/schedule/4/paragraph/3) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-7807f398416cb1207ed2ce02c1e3efc2]: Textual amendment: Art. 8E inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2020/7/schedule/4/paragraph/3) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))

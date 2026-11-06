@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Requisitioned meetings general[^key-3753391b42501ffc71e43b8bb2b7b867]
+## 44. Requisitioned meetings general[^c-3753391b42501ffc71e43b8bb2b7b867]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.064 of the 1991 Rules.
 
 ## Annotations
 
-[^key-3753391b42501ffc71e43b8bb2b7b867]: Commencement: Rule 44 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-3753391b42501ffc71e43b8bb2b7b867]: Commencement: Rule 44 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

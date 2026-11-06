@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Dissolution of existing bodies.[^key-2d39f0e987c8778d06b090c2988f7379]
+## 33. Dissolution of existing bodies.[^c-2d39f0e987c8778d06b090c2988f7379]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d39f0e987c8778d06b090c2988f7379]: Textual amendment: S. 33 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-2d39f0e987c8778d06b090c2988f7379]: Textual amendment: S. 33 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)

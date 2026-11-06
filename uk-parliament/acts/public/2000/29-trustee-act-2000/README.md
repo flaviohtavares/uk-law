@@ -33,7 +33,7 @@ An Act to amend the law relating to trustees and persons having the investment p
 
 \[23rd November 2000\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-82926ef17eb4b5e5ce7d1c3379088338][^key-89efcfa4afe63107e0978292556403e8]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-82926ef17eb4b5e5ce7d1c3379088338][^c-89efcfa4afe63107e0978292556403e8]
 
 ## Contents
 
@@ -62,7 +62,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 9 — Restriction or exclusion of this Part etc.](part-iii/section-9.md)
 - [Section 10 — Existing trusts.](part-iii/section-10.md)
 
-### Part IV — Agents, nominees and custodians[^key-047655f7cf3bdef606dfa0bbd6845de2][^key-bda550d93a82c3279886b0254cac0dc0][^key-d57456c198f943258b9ef4f628e26225]
+### Part IV — Agents, nominees and custodians[^c-047655f7cf3bdef606dfa0bbd6845de2][^c-bda550d93a82c3279886b0254cac0dc0][^c-d57456c198f943258b9ef4f628e26225]
 
 *Extent: E+W*
 
@@ -130,12 +130,12 @@ SCHEDULES
 
 ## Annotations
 
-[^key-82926ef17eb4b5e5ce7d1c3379088338]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/29) power to apply conferred (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 68(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/68/2), [149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)
+[^c-82926ef17eb4b5e5ce7d1c3379088338]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/29) power to apply conferred (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 68(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/68/2), [149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)
 
-[^key-89efcfa4afe63107e0978292556403e8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/29) applied (5.7.2010) by [The National Employment Savings Trust Order 2010 (S.I. 2010/917)](https://www.legislation.gov.uk/uksi/2010/917), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3), [16](https://www.legislation.gov.uk/uksi/2010/917/article/16)
+[^c-89efcfa4afe63107e0978292556403e8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/29) applied (5.7.2010) by [The National Employment Savings Trust Order 2010 (S.I. 2010/917)](https://www.legislation.gov.uk/uksi/2010/917), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3), [16](https://www.legislation.gov.uk/uksi/2010/917/article/16)
 
-[^key-047655f7cf3bdef606dfa0bbd6845de2]: Modification: Pt. 4 applied in part (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [33](https://www.legislation.gov.uk/uksi/2012/3012/regulation/33)
+[^c-047655f7cf3bdef606dfa0bbd6845de2]: Modification: Pt. 4 applied in part (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [33](https://www.legislation.gov.uk/uksi/2012/3012/regulation/33)
 
-[^key-bda550d93a82c3279886b0254cac0dc0]: Modification: Pt. 4 applied (with modifications) (in part) by 1956 c. lxvii, s. 5(1B)-(1D) (as substituted (10.3.2015) by [The Charities (People's Dispensary for Sick Animals) Order 2015 (S.I. 2015/198)](https://www.legislation.gov.uk/uksi/2015/198), [art. 1](https://www.legislation.gov.uk/uksi/2015/198/article/1), [Sch. Scheme para. 4](https://www.legislation.gov.uk/uksi/2015/198/schedule/Scheme/paragraph/4))
+[^c-bda550d93a82c3279886b0254cac0dc0]: Modification: Pt. 4 applied (with modifications) (in part) by 1956 c. lxvii, s. 5(1B)-(1D) (as substituted (10.3.2015) by [The Charities (People's Dispensary for Sick Animals) Order 2015 (S.I. 2015/198)](https://www.legislation.gov.uk/uksi/2015/198), [art. 1](https://www.legislation.gov.uk/uksi/2015/198/article/1), [Sch. Scheme para. 4](https://www.legislation.gov.uk/uksi/2015/198/schedule/Scheme/paragraph/4))
 
-[^key-d57456c198f943258b9ef4f628e26225]: Modification: Pt. 4 applied (with modifications) by 1961 c. xxxviii, s. 9(2)(3)(a)(4) (as substituted (1.9.2017) by [The Charities (Shakespeare Birthplace Trust) Order 2017 (S.I. 2017/783)](https://www.legislation.gov.uk/uksi/2017/783), [art. 1](https://www.legislation.gov.uk/uksi/2017/783/article/1), [Sch. Scheme para. 5](https://www.legislation.gov.uk/uksi/2017/783/schedule/Scheme/paragraph/5))
+[^c-d57456c198f943258b9ef4f628e26225]: Modification: Pt. 4 applied (with modifications) by 1961 c. xxxviii, s. 9(2)(3)(a)(4) (as substituted (1.9.2017) by [The Charities (Shakespeare Birthplace Trust) Order 2017 (S.I. 2017/783)](https://www.legislation.gov.uk/uksi/2017/783), [art. 1](https://www.legislation.gov.uk/uksi/2017/783/article/1), [Sch. Scheme para. 5](https://www.legislation.gov.uk/uksi/2017/783/schedule/Scheme/paragraph/5))

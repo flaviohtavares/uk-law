@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70G. Regulations[^key-8adf765414ce0d9accbf79b875f46cbf]
+## 70G. Regulations[^c-8adf765414ce0d9accbf79b875f46cbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ for the purposes of this Chapter.
 
 ## Annotations
 
-[^key-8adf765414ce0d9accbf79b875f46cbf]: Textual amendment: Pt. 3 Ch. 3A inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/2) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
+[^c-8adf765414ce0d9accbf79b875f46cbf]: Textual amendment: Pt. 3 Ch. 3A inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/2) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))

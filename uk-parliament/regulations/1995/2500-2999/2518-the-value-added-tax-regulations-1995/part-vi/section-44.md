@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Interpretation of Part VI[^key-10b2f4d806627516f79561bc68ef6756]
+## 44. Interpretation of Part VI[^c-10b2f4d806627516f79561bc68ef6756]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In this Part—
 
 ## Annotations
 
-[^key-10b2f4d806627516f79561bc68ef6756]: Commencement: Reg. 44 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-10b2f4d806627516f79561bc68ef6756]: Commencement: Reg. 44 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1993/2001](https://www.legislation.gov.uk/uksi/1993/2001).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation, commencement, interpretation and extent[^key-d015d5fa8a93663bf2e2906d6d5d41a6][^key-303027104bfd48702c214bfad5004824]
+## 1. Citation, commencement, interpretation and extent[^c-d015d5fa8a93663bf2e2906d6d5d41a6][^c-303027104bfd48702c214bfad5004824]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d015d5fa8a93663bf2e2906d6d5d41a6]: Commencement: Art. 1 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-d015d5fa8a93663bf2e2906d6d5d41a6]: Commencement: Art. 1 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-303027104bfd48702c214bfad5004824]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2018/1253/article/1) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-303027104bfd48702c214bfad5004824]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2018/1253/article/1) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

@@ -44,15 +44,15 @@ Coming into force
 
 12th November 1998
 
-The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred by section 85(1)(a) and (b), (3), (5) to (7) and section 86(1) and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-da0cf17eb31a307c816649b943e44708]
+The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred by section 85(1)(a) and (b), (3), (5) to (7) and section 86(1) and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^c-da0cf17eb31a307c816649b943e44708]
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-48bd985230340a343905e59e0133a85c]
+### 1. Citation and commencement[^c-48bd985230340a343905e59e0133a85c]
 
 These Regulations may be cited as the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A) Regulations 1998 and shall come into force on 12th November 1998.
 
-### 2. Interpretation[^key-4e9e9827b46d7e8484fa77a0509353e5]
+### 2. Interpretation[^c-4e9e9827b46d7e8484fa77a0509353e5]
 
 (1) In these Regulations:
 
@@ -75,8 +75,8 @@ These Regulations may be cited as the Merchant Shipping (Passenger Ship Construc
 - “dead ship condition” means the condition under which the main propulsion plant, boilers and auxiliaries are not in operation due to the absence of power;
 - “deadweight” means the difference in tonnes between the displacement of a ship in water of a specific gravity of 1.025 and the lightweight of the ship;
 - “draught” means the vertical distance from the moulded base line to a subdivision load waterline;
-- [^key-4da4e17d766d16aada2e8a32668fd39d]...
-- “[^key-1a71d27931e1e8fd7bff17b2f5663e2c]**EEA State**” has the meaning given by Schedule 1 to the Interpretation Act 1978;
+- [^c-4da4e17d766d16aada2e8a32668fd39d]...
+- “[^c-1a71d27931e1e8fd7bff17b2f5663e2c]**EEA State**” has the meaning given by Schedule 1 to the Interpretation Act 1978;
 - “emergency condition” means a condition under which any services needed for normal operational and habitable conditions are not in working order due to failure of the main source of electrical power;
 - “emergency source of electrical power” means a source of electric power intended to supply the emergency switchboard in the event of failure of the main source of electrical power;
 - “emergency switchboard” means a switchboard which in the event of failure of the main electrical power supply system is directly supplied by the emergency source of electrical power or the transitional source of emergency electrical power and is intended to distribute electrical energy to the emergency services;
@@ -85,14 +85,14 @@ These Regulations may be cited as the Merchant Shipping (Passenger Ship Construc
   - (b) in which all other openings in the sides or ends thereof are fitted with efficient weathertight means of closing;
 
   but does not include a bridge or poop fulfilling these requirements unless access to machinery and other working spaces within the bridge or poop is provided by alternative means which are available at all times when access openings in the bulkheads of the bridge or poop are closed;
-- “every other ship” means , subject to regulation 3B(2),[^key-e1961016c3d4d18969536bc549ae2ced] a ship which requires a heeling test or buoyancy test given in column 4 of the tables in section 1 of Schedule 2 in Merchant Shipping Notice MSN 1699(M);
-- “factor of subdivision” in relation to any ship or portion thereof means , subject to regulation 3B(2),[^key-88efe2559891a83ca100f88dad840250] the factor of subdivision determined in accordance with such provisions of Schedule 2 in Merchant Shipping Notice MSN 1699(M), as applied to that ship or portion as the case may be;
+- “every other ship” means , subject to regulation 3B(2),[^c-e1961016c3d4d18969536bc549ae2ced] a ship which requires a heeling test or buoyancy test given in column 4 of the tables in section 1 of Schedule 2 in Merchant Shipping Notice MSN 1699(M);
+- “factor of subdivision” in relation to any ship or portion thereof means , subject to regulation 3B(2),[^c-88efe2559891a83ca100f88dad840250] the factor of subdivision determined in accordance with such provisions of Schedule 2 in Merchant Shipping Notice MSN 1699(M), as applied to that ship or portion as the case may be;
 - “favourable weather” means fine, clear settled weather with a sea state such as to cause only moderate rolling and/or pitching;
 - “freeboard deck” has the same meaning as in the Merchant Shipping (Load Line) Rules 1998[^f00004];
 - “forward perpendicular” means the forward extremity of the length of the ship;
 - “hazardous area” means an area in which explosive gas-air mixtures are, or may be expected to be, present in quantities such as to require special precautions for the construction and use of electrical apparatus or other apparatus which otherwise would constitute a source of ignition;
 - “heeling test” means a test carried out in accordance with Schedule 2 Section 3 in Merchant Shipping Notice MSN 1699(M);
-- “high-speed craft” means a craft capable of a maximum speed in metres per second (m/s) equal to or exceeding: 3.7 ∇ 0.1667 where ∇ = volume of displacement corresponding to the design waterline (m3), excluding craft the hull of which is supported clear above the water surface in non displacement mode by aerodynamic forces generated by ground effect;[^key-c01a1264f539a916d03c579a374fc2d1]
+- “high-speed craft” means a craft capable of a maximum speed in metres per second (m/s) equal to or exceeding: 3.7 ∇ 0.1667 where ∇ = volume of displacement corresponding to the design waterline (m3), excluding craft the hull of which is supported clear above the water surface in non displacement mode by aerodynamic forces generated by ground effect;[^c-c01a1264f539a916d03c579a374fc2d1]
 - “independent power pump” means a pump operated by power otherwise than from the ship’s main engines;
 - “length” in relation to a ship, unless otherwise defined, means the length of a ship measured between perpendiculars taken at the extremities of the deepest subdivision load waterline;
 - “lightweight” means the displacement of a ship in tonnes without cargo, fuel, lubricating oil, ballast water, fresh water and feed water in tanks, consumable stores and passengers and crew and their effects;
@@ -122,7 +122,7 @@ These Regulations may be cited as the Merchant Shipping (Passenger Ship Construc
 - “passenger ship” means a ship carrying more than 12 passengers and propelled by electricity or other mechanical power;
 - “passenger space” means a space provided for the use of passengers;
 - “public spaces” includes halls, dining rooms, bars, smoke rooms, lounges, recreation rooms, nurseries, libraries and similar public permanently enclosed spaces;
-- “[^key-90e3098c7c1b3413b5a0d6cd36b80a30]**relevant standard of an EEA state**”, in relation to a reference to an International Standard or a British Standard, means—
+- “[^c-90e3098c7c1b3413b5a0d6cd36b80a30]**relevant standard of an EEA state**”, in relation to a reference to an International Standard or a British Standard, means—
   - (a) a relevant standard or code of practice of a national standards body or equivalent body of an EEA State;
   - (b) a relevant international standard recognised for use in an EEA State; or
   - (c) a relevant specification acknowledged for use as a standard by a public authority of an EEA State,
@@ -159,7 +159,7 @@ These Regulations may be cited as the Merchant Shipping (Passenger Ship Construc
 shall include—
 
 - (i) a reference to any document amending that publication which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice, Marine Guidance Note or Marine Information Note; and
-- (ii) with respect to a British Standard, a reference to a relevant standard of an EEA State [^key-4386f4e67363b615b265b0d6a0fd3740]....
+- (ii) with respect to a British Standard, a reference to a relevant standard of an EEA State [^c-4386f4e67363b615b265b0d6a0fd3740]....
 
 (4) Where a ship is operated by a person other than its owner (whether on behalf of the owner or some other person, or on his own behalf), a reference in these Regulations to the owner shall be construed as including a reference to that person.
 
@@ -185,23 +185,23 @@ shall include—
     - (ii) between one hour before sunrise and one hour after sunset in the case of ships fitted with navigation lights conforming to the collision regulations and betwen sunrise and sunset in the case of any other ships;
   - “sea” does not include any waters of Category A, B, C or D.
 
-### 3. Application[^key-ebce8d5118fae6ec2c888facd7f6c232]
+### 3. Application[^c-ebce8d5118fae6ec2c888facd7f6c232]
 
-Subject to regulation 3A below, and to regulation (5)(1) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (which relates to passenger ships of Classes[^key-59e189e977ceaa110c2ab64b24a687da] III, VI and VI(A) which are 24 metres or over in length and are existing ships, engaged on domestic voyages, for the purposes of those Regulations), these Regulations apply to passenger ships of Classes III, IV, V, VI and VI(A) except that these Regulations shall not apply to high speed craft to which the Merchant Shipping (High Speed Craft) Regulations 2022[^key-0e155fdbcc0e3b06ea89b66a771115f3] apply.
+Subject to regulation 3A below, and to regulation (5)(1) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (which relates to passenger ships of Classes[^c-59e189e977ceaa110c2ab64b24a687da] III, VI and VI(A) which are 24 metres or over in length and are existing ships, engaged on domestic voyages, for the purposes of those Regulations), these Regulations apply to passenger ships of Classes III, IV, V, VI and VI(A) except that these Regulations shall not apply to high speed craft to which the Merchant Shipping (High Speed Craft) Regulations 2022[^c-0e155fdbcc0e3b06ea89b66a771115f3] apply.
 
-**3A.**[^key-74b086e7061d0423a67c915f35732979] These Regulations do not apply to—
+**3A.**[^c-74b086e7061d0423a67c915f35732979] These Regulations do not apply to—
 
 - (a) any passenger ship of Class III, VI or VI(A) which is a new ship, engaged on domestic voyages, for the purposes of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000,
 - (b) any passenger ship to which the Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010 apply,
 - (c) any vessel to which the Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 apply.
 
-**3B.**[^key-5bfa8aff34bec289e1e66366dfce2c51] (1) The amendments made to these Regulations by regulation 3(4) to (8) of the Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 do not apply to a ship until the date of that ship’s first survey after the second anniversary of the date on which those Regulations came into force.
+**3B.**[^c-5bfa8aff34bec289e1e66366dfce2c51] (1) The amendments made to these Regulations by regulation 3(4) to (8) of the Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 do not apply to a ship until the date of that ship’s first survey after the second anniversary of the date on which those Regulations came into force.
 
 (2) The amendments made to Merchant Shipping Notice 1699 (M) by Amendment 3 do not apply to a ship until the date of that ship’s first survey after the anniversary specified in paragraph (1).
 
 (3) For the purposes of paragraphs (1) and (2), “**survey**” means the ship’s renewal survey as required by regulation 6(3)(b) of the Merchant Shipping (Survey and Certification) Regulations 2015.
 
-### 4. Exemptions for certain Classes of ships and individual ships[^key-16fa97c8140c8e06150e82b2114a88d4]
+### 4. Exemptions for certain Classes of ships and individual ships[^c-16fa97c8140c8e06150e82b2114a88d4]
 
 The Secretary of State may exempt certain Classes of ships or individual ships from the provisions of any of the regulations contained in these Regulations, subject to such conditions as he may specify, and may alter or cancel any exemption so granted. In particular he may exempt from any of the requirements of these Regulations—
 
@@ -209,27 +209,27 @@ The Secretary of State may exempt certain Classes of ships or individual ships f
 - (b) any ship which embodies features of a novel kind, if the application might, in his opinion, seriously impede research into the development of such features and their incorporation in ships. Any such ship shall, however, comply with safety requirements which are adequate for the service for which it is intended and are such as to ensure the overall safety of the ship; and
 - (c) either absolutely, or subject to such conditions as he thinks fit, any ship constructed before the requirement first came in force, if he is satisfied that compliance with that requirement is either impractical or unreasonable in the case of that ship.
 
-### 5. Approved standards[^key-be57baa70147062269f5b1d9a4d481ce]
+### 5. Approved standards[^c-be57baa70147062269f5b1d9a4d481ce]
 
 In complying with the requirements of these Regulations, with respect to construction or maintenance relating to hull, machinery, electrical installations and control installations, United Kingdom ships shall comply with the approved standards listed in Merchant Shipping Notice No. M. 1672 which are relevant to it.
 
 ## PART II — STRENGTH, CONSTRUCTION AND WATERTIGHT SUBDIVISION
 
-### 6. Structural strength[^key-0bb158d4252efce0304cd46708b20da5]
+### 6. Structural strength[^c-0bb158d4252efce0304cd46708b20da5]
 
 The structural strength of every ship shall be sufficient for the service for which the ship is intended.
 
-### 7. Construction of watertight bulkheads[^key-b0e2914b966dcd34e287136c8e0bfe01]
+### 7. Construction of watertight bulkheads[^c-b0e2914b966dcd34e287136c8e0bfe01]
 
 (1) Every portion of the ship required by these Regulations to be watertight shall be constructed in accordance with such of the requirements of Schedule 4 in Merchant Shipping Notice MSN 1699(M) as apply to it.
 
 (2) All tanks forming part of the structure of the ship and used for the storage of oil fuel or other liquids including double bottoms, peak tanks, settling tanks and bunkers shall be of a design and construction adequate for that purpose.
 
-### 8. Watertight subdivision[^key-b2bd7513e9a4f764befce30ca949d875]
+### 8. Watertight subdivision[^c-b2bd7513e9a4f764befce30ca949d875]
 
 Every subdivided ship shall be subdivided by bulkheads, which shall be watertight up to the bulkhead deck, into compartments the maximum length of which shall be calculated in accordance with such of the provisions of Section 2 of Schedule 2 in Merchant Shipping Notice MSN 1699(M) as apply to that ship. Every other portion of the internal structure which affects the efficiency of the subdivision of the ship shall be watertight, and shall be of a design which will maintain the integrity of the subdivision.
 
-### 9. Peak and machinery space bulkheads, shaft tunnels[^key-dfecf28c12cc3a5cf02048420e6e0ab3]
+### 9. Peak and machinery space bulkheads, shaft tunnels[^c-dfecf28c12cc3a5cf02048420e6e0ab3]
 
 (1) Every subdivided ship shall be provided with a collision bulkhead which shall be watertight up to the bulkhead deck and shall be fitted at a distance from the ship’s forward perpendicular of not less than five per cent of the length of the ship and not more than three metres plus five per cent of such length. If the ship has a forward superstructure, the collision bulkhead shall be extended weathertight to the deck next above the bulkhead deck. The extension shall not be required to be fitted directly over the bulkhead below, provided that it is at least five per cent of the length of the ship from the forward perpendicular and the part of the bulkhead deck which forms the step is made effectively weathertight. A collision bulkhead need not be provided if the design of the ship, its service or its operation makes its fitting unnecessary.
 
@@ -241,19 +241,19 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (4) Where bow doors are fitted and a sloping loading ramp forms part of the extension of the collision bulkhead above the bulkhead deck, any part of the ramp structure which is more than 2.3 metres above the bulkhead deck may extend forward of the limit specified in paragraph (1). The ramp shall form a complete weathertight closure of the collision bulkhead extension above the bulkhead deck.
 
-### 10. Weatherdeck[^key-3f06ec5b9f52a748e8cf646a10be3212]
+### 10. Weatherdeck[^c-3f06ec5b9f52a748e8cf646a10be3212]
 
 On a subdivided ship the bulkhead deck or a deck above the bulkhead deck shall be weathertight. All openings in an exposed weathertight deck shall have coamings of adequate height and strength and shall be provided with efficient and rapid means of closing so as to make them weathertight. Freeing ports, open rails and scuppers shall be fitted as necessary for rapidly clearing the weather deck of water under all weather conditions.
 
-### 11. Partial subdivision above the bulkhead deck[^key-2a47058538fe634a3ca63267e87a92ee]
+### 11. Partial subdivision above the bulkhead deck[^c-2a47058538fe634a3ca63267e87a92ee]
 
 On subdivided ships all reasonable and practicable measures shall be taken to limit, where necessary, the entry and spread of water above the bulkhead deck. Such measures may include partial bulkheads or webs. Where such partial watertight bulkheads and webs are fitted on the bulkhead deck, above or in the immediate vicinity of main subdivision bulkheads, they shall have watertight shell and bulkhead deck connections so as to restrict the flow of water along the deck when the ship is heeled in a damaged condition. Where such partial watertight bulkheads do not coincide with the bulkheads below, the bulkhead deck between shall be made effectively watertight.
 
-### 12. Openings in watertight bulkheads[^key-14d6f1bcda05a1fdd718432d2a23e834]
+### 12. Openings in watertight bulkheads[^c-14d6f1bcda05a1fdd718432d2a23e834]
 
 Bulkheads required by these Regulations to be watertight shall not be pierced by doorways, ventilation trunks or other similar openings, unless such openings are essential for the proper working of the ship and do not impair the ship’s survivability standard.
 
-### 13. Openings in the shell plating below the bulkhead deck[^key-bdfcdc6928e728576489cb5593300069]
+### 13. Openings in the shell plating below the bulkhead deck[^c-bdfcdc6928e728576489cb5593300069]
 
 (1) In every subdivided ship the number of sidescuttles, scuppers, sanitary discharges and other openings in the shell below the bulkhead deck shall be the minimum compatible with the design and proper working of the ship. Every such sidescuttle shall be a non-opening type and shall be fitted with efficient hinged deadlights permanently attached so that it can be readily and effectively closed and secured watertight.
 
@@ -261,7 +261,7 @@ Bulkheads required by these Regulations to be watertight shall not be pierced by
 
 (3) In every subdivided ship the design and operation of openings in the shell plating below the bulkhead deck shall take into account the specifications set out in Schedule 10 in Merchant Shipping Notice MSN 1699(M).
 
-### 14. Side and other openings above the bulkhead deck[^key-c238e3301cc654d80e21edb39c01ff2e]
+### 14. Side and other openings above the bulkhead deck[^c-c238e3301cc654d80e21edb39c01ff2e]
 
 (1) In every subdivided ship, sidescuttles, windows, gangway ports, cargo ports, bunkering ports and other openings in the shell above the bulkhead deck and their means of closing shall be of efficient design and construction and of sufficient strength having regard to the spaces in which they are fitted and to their positions relative to the deepest subdivision load waterline and to the intended service of the ship. All sidescuttles and windows shall be manufactured to standards recognised by the Certifying Authority.
 
@@ -271,11 +271,11 @@ Bulkheads required by these Regulations to be watertight shall not be pierced by
 
 ## PART III — CLOSING OF OPENINGS IN HULLS AND WATERTIGHT BULKHEADSBELOW THE BULKHEAD DECK
 
-### 15. Interpretations[^key-0a85ac599b85d2de7bff43e8ce07bb7c]
+### 15. Interpretations[^c-0a85ac599b85d2de7bff43e8ce07bb7c]
 
 In this Part “a closing appliance” shall be deemed to be below the margin line if the sill of the opening with which it is associated is below that line.
 
-### 16. Closure of hull openings and openings in watertight bulkheads[^key-8d4df922672c4058a8c78561dfd1c1d8]
+### 16. Closure of hull openings and openings in watertight bulkheads[^c-8d4df922672c4058a8c78561dfd1c1d8]
 
 (1) The following closing appliances are to be securely closed before the ship proceeds on any voyage and are to be kept so closed until the ship has been secured at a berth or anchorage—
 
@@ -291,11 +291,11 @@ In this Part “a closing appliance” shall be deemed to be below the margin li
 
 (4) Both the watertight cover and the automatic non-return valve of any overboard discharge having its inboard opening below the margin line shall be kept closed and secured when such device is not in use.
 
-### 17. Marking of valves, doors and mechanisms[^key-bc812229c2111e1918dc58513eadd10e]
+### 17. Marking of valves, doors and mechanisms[^c-bc812229c2111e1918dc58513eadd10e]
 
 All doors, valves and mechanisms connected with the damage control and watertight integrity of the ship shall be suitably marked to ensure that they may be properly used to provide maximum safety.
 
-### 18. Drills and inspections[^key-1051dc416d47b4235094ee68bcda4715]
+### 18. Drills and inspections[^c-1051dc416d47b4235094ee68bcda4715]
 
 (1) All deadlights which are accessible, all watertight doors, all valves and closing mechanisms of scuppers and the devices referred to in regulation 16(4) shall be opened and closed for purposes of drill—
 
@@ -309,11 +309,11 @@ All doors, valves and mechanisms connected with the damage control and watertigh
 - (a) all valves, the closing of which is necessary to make watertight any compartment below the margin line; and
 - (b) all valves, the operation of which is necessary for the efficient operation of damage-control cross-connections.
 
-### 19. Notices[^key-b3fbe2150a292fa0feb7647e5576e89a]
+### 19. Notices[^c-b3fbe2150a292fa0feb7647e5576e89a]
 
 Suitable notices and signs shall be provided on, or in the vicinity of, all the closing appliances referred to in regulation 16 to indicate, as necessary, the procedures for operating the appliances, the purpose of the controls and any precautions to be observed.
 
-### 20. Entries to be recorded[^key-c1f45713e6f62d309c870e79abd14338]
+### 20. Entries to be recorded[^c-c1f45713e6f62d309c870e79abd14338]
 
 Entries shall be made in a book retained on board to record the following—
 
@@ -325,7 +325,7 @@ Entries shall be made in a book retained on board to record the following—
 
 ## PART IV — CLOSING OF OPENINGS IN ENCLOSED SUPERSTRUCTURES AND IN BULKHEADS ABOVE THE BULKHEAD DECK
 
-### 21. Application and interpretation[^key-b3fcb603d6150d1c03ce96b9c294168f]
+### 21. Application and interpretation[^c-b3fcb603d6150d1c03ce96b9c294168f]
 
 (1) This Part applies to—
 
@@ -344,7 +344,7 @@ Entries shall be made in a book retained on board to record the following—
 
 (3) A door shall be deemed to be above the bulkhead deck if the sill of the opening with which it is associated is above that deck.
 
-### 22. Closure of main loading doors[^key-289e00dca63b2eb95e1c3d48550b69f2]
+### 22. Closure of main loading doors[^c-289e00dca63b2eb95e1c3d48550b69f2]
 
 (1) Except in the cases specified in paragraphs (2) and (4) the following loading doors—
 
@@ -361,7 +361,7 @@ shall be closed and locked before the ship leaves its berth and shall be kept cl
 
 (4) Paragraph (1) shall not apply to small doors intended to be used for pilot access, fuelling or other matters necessary for the operation of the ship and not intended to be used by passengers or for loading cargo.
 
-### 23. Supervision and reporting of closure[^key-3c76460877595f1cb2e47e5fd578db5c]
+### 23. Supervision and reporting of closure[^c-3c76460877595f1cb2e47e5fd578db5c]
 
 (1) Before the ship proceeds on a voyage an officer appointed for the purpose by the master shall—
 
@@ -370,7 +370,7 @@ shall be closed and locked before the ship leaves its berth and shall be kept cl
 
 (2) Save as permitted by regulation 22(2) the ship shall not proceed on a voyage until the report referred to in sub-paragraph (1)(b) has been received by the master or other officer in charge of the bridge.
 
-### 24. Closure of weathertight doors in bulkheads[^key-093d14bc92c52c7cfac0a00ab00e9980]
+### 24. Closure of weathertight doors in bulkheads[^c-093d14bc92c52c7cfac0a00ab00e9980]
 
 (1) Weathertight doors above the bulkhead deck (except doors fitted in collision bulkheads to which regulation 22 applies) which are fitted in bulkheads which are required to be watertight or weathertight as the case may be and which separate or form the boundary of cargo spaces shall be closed and locked before the ship leaves its berth and be kept closed and locked until the ship has been secured at its next berth.
 
@@ -378,11 +378,11 @@ shall be closed and locked before the ship leaves its berth and shall be kept cl
 
 (3) Any weathertight door which may be opened in accordance with the exception to paragraph (2) shall be kept clear of obstructions which might prevent its rapid closure.
 
-### 25. Opening of doors in an emergency[^key-fed96dd67315e24a5c15fb0fc0fe5c4e]
+### 25. Opening of doors in an emergency[^c-fed96dd67315e24a5c15fb0fc0fe5c4e]
 
 Notwithstanding the provisions of regulations 22(1) and 24(1), gangway and cargo loading doors may be opened in an emergency but only when the master considers such opening will not put the safety of the ship at risk.
 
-### 26. Entries in a record book[^key-44c4db2e4ddc2fa0e88c7b94d758e8ac]
+### 26. Entries in a record book[^c-44c4db2e4ddc2fa0e88c7b94d758e8ac]
 
 Entries shall be made in a book retained on board for recording the following—
 
@@ -390,7 +390,7 @@ Entries shall be made in a book retained on board for recording the following—
 
 (2) the times of the opening and closing of any weathertight door pursuant to regulations 24(2) and 25.
 
-### 27. Listing of loading and unloading berths[^key-ff706f4810650a7d03603775af8f0006]
+### 27. Listing of loading and unloading berths[^c-ff706f4810650a7d03603775af8f0006]
 
 (1) The owner of the ship shall ensure that the ship is provided with a list (the Berth List) of all loading berths at which it is intended the ship shall load or discharge cargo or vehicles.
 
@@ -405,23 +405,23 @@ Entries shall be made in a book retained on board for recording the following—
 
 (4) No ro-ro passenger ship shall, except in an emergency, load or discharge cargo or vehicles through a loading door at any berth which is not listed in the ship’s Berth List (and in the copy thereof supplied to the Maritime and Coastguard Agency).
 
-### 28. Written instructions regarding the opening of weathertight doors[^key-1b0f3235b07f61cddadc70ebbe8d0897]
+### 28. Written instructions regarding the opening of weathertight doors[^c-1b0f3235b07f61cddadc70ebbe8d0897]
 
 (1) The owner of a ship shall ensure that the ship is provided with written instructions concerning the doors referred to in this Part.
 
 (2) Such written instructions shall be approved by the Certifying Authority.
 
-### 29. Compliance with written instructions[^key-b6597df8bafc98a1bc235b1b83a83585]
+### 29. Compliance with written instructions[^c-b6597df8bafc98a1bc235b1b83a83585]
 
 No door shall be opened or closed except in compliance with the written instructions provided in accordance with regulation 28.
 
 ## PART V — STABILITY, SURVIVABILITY AND SHIPSIDE MARKINGS
 
-### 30. Intact stability standard[^key-987046548148c3e5e2e972e361e7a122]
+### 30. Intact stability standard[^c-987046548148c3e5e2e972e361e7a122]
 
 After correcting for the effect of free surface of liquids in tanks every subdivided ship shall, in all probable loading conditions, satisfy the stability criteria set out in Schedule 1 in Merchant Shipping Notice MSN 1699(M).
 
-### 31. Inclining and stability information[^key-b2a80f63f08ec3197cde40de3bbf4bb6]
+### 31. Inclining and stability information[^c-b2a80f63f08ec3197cde40de3bbf4bb6]
 
 (1) Every subdivided ship on completion shall be inclined and the elements of her stability determined and every other ship shall undergo the heeling test or buoyancy test specified in Sections 3 and 4 of Schedule 2 in Merchant Shipping Notice MSN 1699(M) respectively. The master shall be supplied by the owner with approved information relating to the stability of the ship in accordance with the following provisions of this regulation.
 
@@ -443,13 +443,13 @@ After correcting for the effect of free surface of liquids in tanks every subdiv
 
 (7) Ships required to comply with the heeling test or buoyancy test specified in Sections 3 and 4 of Schedule 2 in Merchant Shipping Notice MSN 1699(M) shall be furnished with stability information in the form of a written record setting out the principal particulars.
 
-### 32. Standard of survivability[^key-06cb31ad6d839fa5a2728fd783c9bbb1]
+### 32. Standard of survivability[^c-06cb31ad6d839fa5a2728fd783c9bbb1]
 
-(1) Subject to regulation 3B(2) (application),[^key-64e4579e6d35781d91a1160ee98e02a6] every ship shall comply with the appropriate standard of survivability in accordance with column 4 of either Table 1 or Table 2 (as appropriate) in Schedule 2 in Merchant Shipping Notice MSN 1699(M) as determined by the description of ships given in columns 1 to 3 of the Tables.
+(1) Subject to regulation 3B(2) (application),[^c-64e4579e6d35781d91a1160ee98e02a6] every ship shall comply with the appropriate standard of survivability in accordance with column 4 of either Table 1 or Table 2 (as appropriate) in Schedule 2 in Merchant Shipping Notice MSN 1699(M) as determined by the description of ships given in columns 1 to 3 of the Tables.
 
-(2)[^key-2febe606c0b96c23c628774a3e492097] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2febe606c0b96c23c628774a3e492097] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Stability in the damaged condition[^key-dfbefb93f77e05006d77cf98fa4af788]
+### 33. Stability in the damaged condition[^c-dfbefb93f77e05006d77cf98fa4af788]
 
 (1) This regulation applies to all subdivided ships constructed before 29th April 1990.
 
@@ -485,7 +485,7 @@ Requirements for subdivided ships constructed on or after 29th April 1990
 - (a) for the purpose of paragraph (3)(a) the sufficiency of intact stability shall be calculated in accordance with section 1 and 3 of Schedule 3 in Merchant Shipping Notice MSN 1699(M); and
 - (b) the heel referred to in paragraph (4)(a) shall not exceed 15 degrees and the cross-flooding fittings shall be capable of meeting the requirements of section 3(2)(c) of Schedule 3 in Merchant Shipping Notice MSN 1699.
 
-### 34. Loading and stability assessment of ro-ro passenger ships of Classes III, IV and V[^key-92f724f00f329c9a0ee763d870cdf32c]
+### 34. Loading and stability assessment of ro-ro passenger ships of Classes III, IV and V[^c-92f724f00f329c9a0ee763d870cdf32c]
 
 (1) This regulation applies to ro-ro passenger ships of Classes III, IV and V.
 
@@ -519,43 +519,43 @@ Requirements for subdivided ships constructed on or after 29th April 1990
 
 (7) A copy of the information required by sub-paragraph (6)(b)(ii) shall be forwarded, as soon as is practicable, to a person nominated by the owner as being responsible and retained in his custody for a period of at least one calendar month.
 
-### 35. Draught marks[^key-eb59c509b622b3de5802c5504f319537]
+### 35. Draught marks[^c-eb59c509b622b3de5802c5504f319537]
 
 Every subdivided ship shall have scale of draughts marked clearly at the bow and stern.
 
-### 36. Subdivision load lines[^key-114c1adadba69ceedabdd10782ff89ae]
+### 36. Subdivision load lines[^c-114c1adadba69ceedabdd10782ff89ae]
 
 Every subdivided ship shall be marked on its side amidships with the subdivision load lines assigned to it in accordance with Schedule 5 in Merchant Shipping Notice MSN 1699(M).
 
-### 37. Freeboard marking[^key-3f1c8c8c9812c5d7aae35ceab2df1e08]
+### 37. Freeboard marking[^c-3f1c8c8c9812c5d7aae35ceab2df1e08]
 
 Passenger ships which are not required to be subdivided shall be marked on the side amidships with the freeboard assigned in accordance with paragraph 2 of Section 3 of Schedule 2 in Merchant Shipping Notice MSN (1699(M). The mark shall consist of a horizontal line 25 millimetres in breadth and 300 millimetres in length. The colour and method of marking shall be in accordance with regulation 36.
 
-### 38. Exhibition of damage control plans[^key-f0bb2e9057c046bd3833eb62bc09cfe4]
+### 38. Exhibition of damage control plans[^c-f0bb2e9057c046bd3833eb62bc09cfe4]
 
 In every subdivided ship there shall be permanently exhibited, for the information of the officer in charge of the ship, plans showing clearly for each level the boundaries of the watertight compartments, the openings therein, the means of closing such openings and the position of the controls and the arrangements for the correction of any list due to flooding. In addition, booklets containing such information shall be made available by the owner for the use of the officers of the ship.
 
-### 39. Sounding pipes[^key-c5d3c2bd6af60041c1640a5d3557ebda]
+### 39. Sounding pipes[^c-c5d3c2bd6af60041c1640a5d3557ebda]
 
 In every ship all tanks forming part of the structure of the ship and all watertight compartments, not being part of the machinery space, shall be provided with efficient sounding arrangements which shall be protected where necessary against damage.
 
 ## PART VI — BILGE PUMPING ARRANGEMENTS
 
-### 40. General[^key-67549db86aaf4d636e71bcdc41588bc9]
+### 40. General[^c-67549db86aaf4d636e71bcdc41588bc9]
 
 (1) Every ship shall be provided with an efficient pumping plant capable of pumping from and draining any watertight compartment in the ship, other than a space permanently appropriated for the carriage of fresh water, water ballast or oil and for which other efficient means of pumping or drainage is provided, under all conditions likely to arise in practice after a casualty, whether or not the ship remains upright. Wing suctions shall be provided if necessary. Efficient arrangements shall be provided whereby water in any watertight compartment may find its way to the suction pipes.
 
-(2) Sanitary, ballast and general service pumps having a suitable capacity in accordance with paragraph 5(3)[^key-d2e79cdb8d3c28785085d56f011d44b3] of Schedule 6 in Merchant Shipping Notice MSN 1699(M) may be accepted as independent power pumps if fitted with necessary connections to the bilge pump systems.
+(2) Sanitary, ballast and general service pumps having a suitable capacity in accordance with paragraph 5(3)[^c-d2e79cdb8d3c28785085d56f011d44b3] of Schedule 6 in Merchant Shipping Notice MSN 1699(M) may be accepted as independent power pumps if fitted with necessary connections to the bilge pump systems.
 
-### 41. Number and type of bilge pumps[^key-b3c7324875217c87ede5ad559f72cd09]
+### 41. Number and type of bilge pumps[^c-b3c7324875217c87ede5ad559f72cd09]
 
-Subject to regulation 3B(2) (application),[^key-517a788abc23419a10a1a69d129266a6] every ship shall be provided with bilge pumps in accordance with tables set out in Schedule 6 in Merchant Shipping Notice MSN 1699(M).
+Subject to regulation 3B(2) (application),[^c-517a788abc23419a10a1a69d129266a6] every ship shall be provided with bilge pumps in accordance with tables set out in Schedule 6 in Merchant Shipping Notice MSN 1699(M).
 
-### 42. Requirements for bilge pumps and bilge suctions[^key-3623bcedcab86711ef96de182781f7b4]
+### 42. Requirements for bilge pumps and bilge suctions[^c-3623bcedcab86711ef96de182781f7b4]
 
-Subject to regulation 3B(2) (application),[^key-f827234986313905d4d47f485d67e3b3] bilge pumps and bilge piping provided in any ship to meet the requirements of these Regulations shall as far as practicable meet the conditions and specifications set out in Schedule 6 in Merchant Shipping Notice MSN 1699(M).
+Subject to regulation 3B(2) (application),[^c-f827234986313905d4d47f485d67e3b3] bilge pumps and bilge piping provided in any ship to meet the requirements of these Regulations shall as far as practicable meet the conditions and specifications set out in Schedule 6 in Merchant Shipping Notice MSN 1699(M).
 
-### 42A. Requirement for bilge alarms[^key-ad04530892652e978e0c2dd1b7b52248]
+### 42A. Requirement for bilge alarms[^c-ad04530892652e978e0c2dd1b7b52248]
 
 (1) Subject to regulation 3B, every ship shall be fitted, at each of the locations listed in paragraph (2), with an alarm capable of detecting the presence of water in the bilges (“bilge alarm”) in accordance with Schedule 6 to Merchant Shipping Notice 1699 (M).
 
@@ -573,7 +573,7 @@ Subject to regulation 3B(2) (application),[^key-f827234986313905d4d47f485d67e3b3
 
 ## PART VII — ELECTRICAL EQUIPMENT AND INSTALLATIONS
 
-### 43. General[^key-62372fd9b1a37aaa3a3583e0e6ee9193]
+### 43. General[^c-62372fd9b1a37aaa3a3583e0e6ee9193]
 
 (1) In every ship the electrical equipment and installations (including any electrical means of propulsion) shall be such that the ship and all persons on board are protected against electrical hazards.
 
@@ -590,7 +590,7 @@ Subject to regulation 3B(2) (application),[^key-f827234986313905d4d47f485d67e3b3
 - (a) all electrical auxiliary services necessary for maintaining the ship in normal operational and habitable condition will be ensured without recourse to the emergency source of electrical power; and
 - (b) the electrical services essential for safety will be ensured under emergency conditions.
 
-### 44. Main source of electrical power and main switchboards: ships of Class III[^key-c6dacd59d8e3b50d415a001c827be86b]
+### 44. Main source of electrical power and main switchboards: ships of Class III[^c-c6dacd59d8e3b50d415a001c827be86b]
 
 - (i) In every ship of Class III a main source of electrical power shall be provided of sufficient capacity to supply all the services referred to in regulation 43(3)(a) and (b).
 - (ii) The main source of electrical power shall be arranged so that such services can be maintained regardless of the speed and direction of rotation of the propulsion machinery or shafting.
@@ -612,7 +612,7 @@ Additional requirements for ships of Class III constructed on or after 1st Septe
 - (a) normal operational conditions of propulsion and safety of the ship and minimum comfortable conditions of habitability including those for cooking, heating, domestic refrigeration, mechanical ventilation, sanitary and fresh water can be maintained; and
 - (b) from a dead ship condition, the remaining sets are capable of providing the electrical services necessary to start the main propulsion plant. The emergency source of electrical power may be used for this purpose if it is capable of simultaneously supplying the emergency supplies required by these Regulations or is capable of supplying such services when combined with any other source of electrical power.
 
-### 45. Lighting systems Requirements for ships constructed on or after 1st September 1984[^key-da821995ee9e7244c4a601e6482f7cc5]
+### 45. Lighting systems Requirements for ships constructed on or after 1st September 1984[^c-da821995ee9e7244c4a601e6482f7cc5]
 
 (1) The main source of electrical power shall be capable of illuminating any part of the ship normally accessible to and used by the passengers or the crew.
 
@@ -620,7 +620,7 @@ Additional requirements for ships of Class III constructed on or after 1st Septe
 
 (3) Lighting fittings shall be arranged to prevent rises in temperature which would be injurious to the fitting or the electric wiring or which would result in a risk of fire.
 
-### 46. Emergency source of electrical power and emergency switchboards: ships of Class III[^key-5d4bfe238dff29569827df7244d46c4e]
+### 46. Emergency source of electrical power and emergency switchboards: ships of Class III[^c-5d4bfe238dff29569827df7244d46c4e]
 
 (1) In a ship of Class III which is provided with an emergency bilge pump in compliance with Schedule 6 in Merchant Shipping Notice MSN 1699(M), or an emergency fire pump, being an electrically operated pump, there shall be provided, in a position above the bulkhead deck outside of the machinery casings, a self-contained emergency source of electrical power, capable of operating the pump for a period of 24 hours.
 
@@ -641,7 +641,7 @@ Additional requirements for ships of Class III constructed on or after 1st Septe
 
 (5) The emergency source of electrical power and its associated equipment shall be in accordance with the relevant conditions and specifications set out in Schedule 7 in Merchant Shipping Notice MSN 1699(M).
 
-### 47. General precautions against shock, fire and other hazards[^key-994594efc867792b154578563f959d73]
+### 47. General precautions against shock, fire and other hazards[^c-994594efc867792b154578563f959d73]
 
 (1) All electrical equipment shall be so constructed and installed that there will be no danger or injury to any person handling it in a proper manner. Exposed metal parts of electrical equipment which are not intended to have a voltage above that of earth, but which may have such a voltage under fault conditions, shall be earthed unless such equipment is—
 
@@ -689,7 +689,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (18) The electrical, mechanical, flame retarding and where applicable fire resisting properties of the terminations and joints in any conductor shall be at least equivalent to those of the conductor.
 
-### 48. Electrical equipment in hazardous areas and spaces[^key-5c6ed86e26a78e0b54a114f64a6a22bd]
+### 48. Electrical equipment in hazardous areas and spaces[^c-5c6ed86e26a78e0b54a114f64a6a22bd]
 
 (1) Electrical equipment shall not be installed in any hazardous area unless such equipment is—
 
@@ -719,7 +719,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 ## PART VIII — BOILERS AND MACHINERY
 
-### 49. General[^key-d85e2e2d4f81491a106fb9361f4a06c3]
+### 49. General[^c-d85e2e2d4f81491a106fb9361f4a06c3]
 
 (1) In every ship the machinery, boilers and other pressure vessels, associated piping systems and fittings shall be of a design and construction adequate for the service for which they are intended and shall be so installed and protected as to reduce to a minimum any danger to persons on board, due regard being paid to moving parts, hot surfaces and other hazards. The design shall have regard to the materials used in construction, the purpose for which the equipment is intended, the working conditions to which it will be subjected and the environmental conditions on board.
 
@@ -759,7 +759,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (8) In any ship the main propulsion machinery and all auxiliary machinery essential to the propulsion and the safety of the ship shall be designed to operate when the ship is upright and when inclined at any angle of list up to and including 15 degrees either way under static conditions and 22.5 degrees either way under dynamic conditions (rolling) and simultaneously inclined dynamically (pitching) 7.5 degrees by bow or stern. A reduction in these angles taking into consideration the type, size and service conditions of the ship may be permitted by the Certifying Authority.
 
-### 50. Machinery[^key-c1ead3422d355e8b406af9f6f72d4ad6]
+### 50. Machinery[^c-c1ead3422d355e8b406af9f6f72d4ad6]
 
 (1) All gearing and every shaft and coupling used for transmission of power essential for the propulsion and safety of the ship or for the safety of persons on board shall be so designed and constructed that they will withstand the maximum working stresses to which they will be subjected in all service conditions taking into account the type of engines by which these components are driven or of which they form part.
 
@@ -771,7 +771,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (4) Every internal combustion engine having a cylinder diameter of 200 millimetres or greater, or a crankcase volume of 0.6 cubic metres or greater, shall be provided with crankcase explosion relief valves of a suitable type having sufficient area to relieve abnormal pressure in the crankcase. Each explosion relief valve shall be arranged or provided with means to ensure that any discharge from it is so directed as to minimise the possibility of injury to personnel.
 
-### 51. Means of manoeuvring and going astern[^key-07e22be3de4e3f548dbde5c2495e6d89]
+### 51. Means of manoeuvring and going astern[^c-07e22be3de4e3f548dbde5c2495e6d89]
 
 (1) Every ship shall have sufficient power for going astern to secure proper control of the ship in all normal circumstances. The ability of the machinery to reverse the direction of thrust of the propeller in sufficient time, and so to bring the ship to rest from maximum ahead service speed shall be demonstrated and recorded.
 
@@ -779,9 +779,9 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (2) The effectiveness of any supplementary means of stopping or manoeuvring the ship shall be demonstrated and recorded.
 
-(3) Every ship with multiple propellers shall undergo trials to determine the ability of the ship to manoeuvre with one or more propellers[^key-9b4b8fe1c38975d56a8c822e44dc68e2] inoperative.
+(3) Every ship with multiple propellers shall undergo trials to determine the ability of the ship to manoeuvre with one or more propellers[^c-9b4b8fe1c38975d56a8c822e44dc68e2] inoperative.
 
-### 52. Boilers and other pressure vessels[^key-5086d469e9505885e5f51a7992f76587]
+### 52. Boilers and other pressure vessels[^c-5086d469e9505885e5f51a7992f76587]
 
 (1) Every boiler or other pressure vessel and its respective mountings shall, before being put into service for the first time, be subjected to a hydraulic test to a pressure suitably in excess of the working pressure which will ensure that the boiler or other pressure vessel and its mountings are adequate in strength and design for the service for which it is intended and having regard to—
 
@@ -805,7 +805,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (7) Means shall be provided to test and control the quality of the water in the boilers.
 
-### 53. Boiler feed systems[^key-4b94edc688fc724109fba1e26b7adf9c]
+### 53. Boiler feed systems[^c-4b94edc688fc724109fba1e26b7adf9c]
 
 (1) Every boiler shall be provided with not less than two efficient and separate feed water systems so arranged that either of such systems may be opened for inspection or overhaul without affecting the efficiency of the other. Means shall be provided which will prevent overpressure in any part of the systems.
 
@@ -825,7 +825,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (6) Means shall be provided to test and control the quality of the feed water to the boilers.
 
-### 54. Steam pipe systems[^key-0fe138233570adff453021ab19980aed]
+### 54. Steam pipe systems[^c-0fe138233570adff453021ab19980aed]
 
 (1) Every steam pipe and every fitting connected thereto through which steam may pass shall be so designed and constructed as to withstand the maximum working stresses to which it may be subjected, with a factor of safety which is adequate having regard to—
 
@@ -842,7 +842,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (6) If any steam pipe can receive steam from any source at a higher pressure than it can otherwise withstand with an adequate factor of safety, an efficient reducing valve, relief valve and pressure gauge shall be fitted to such a pipe.
 
-### 55. Air pressure systems[^key-2dbc791e42fa37284bdbddbc984db106]
+### 55. Air pressure systems[^c-2dbc791e42fa37284bdbddbc984db106]
 
 (1) In every ship in which machinery essential for the propulsion and safety of the ship or of persons on board is required to be started, operated or controlled solely by compressed air there shall be provided at least one independently driven air compressor which shall be of efficient design and of sufficient strength and capacity for the service for which it is intended.
 
@@ -850,15 +850,15 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (3) Every air receiver and air bottle shall be fitted with means of access for purposes of inspection and shall be provided with efficient drains for the removal of oil and water and with efficient relief valves to prevent overpressure. If the air receiver or air bottle can be isolated from the relief valve, it shall be fitted with one or more fusible plugs so as to discharge its contents in the event of fire.
 
-### 56. Cooling systems[^key-04ed38ffee863afc359cdb877a39818f]
+### 56. Cooling systems[^c-04ed38ffee863afc359cdb877a39818f]
 
 In every ship where machinery essential for the propulsion or safety of the ship or of persons on board is dependent for its operation on an efficient cooling water system there shall be provided at least one circulating pump. Such a pump shall be capable of supplying adequate cooling water to such machinery, oil coolers, fresh water woolers or condensers fitted thereto.
 
-### 57. Oil fuel installations[^key-538e88e0bbbad3c6022e66e704462f8a]
+### 57. Oil fuel installations[^c-538e88e0bbbad3c6022e66e704462f8a]
 
 The arrangements for the storage, distribution and utilisation of the oil fuel shall be such as to ensure the safety of the ship and persons on board and shall take into account the provisions and specifications set out in Schedule 8 in Merchant Shipping Notice MSN 1699(M).
 
-### 58. Oil systems for lubricating, heating, cooling and control[^key-f31717bb585d922dbb32c1d4115e2bc0]
+### 58. Oil systems for lubricating, heating, cooling and control[^c-f31717bb585d922dbb32c1d4115e2bc0]
 
 (1) In every ship in which oil is circulated under pressure for lubrication, heating or cooling or as the sole means of control of machinery essential for the propulsion or safety of the ship or persons on board, at least one pump shall be provided which shall be adequate for circulating such oil.
 
@@ -868,7 +868,7 @@ Additional requirements for ships constructed on or after 25th May 1980
 
 (3) Alternative arrangements to those specified in paragraph (2) may be permitted in machinery spaces, other than those of Category A, where it is clear that the safety of the ship is not impaired.
 
-### 59. Machinery controls Requirements for ships constructed on or after 1st September 1984[^key-8cd1ce33c783b75d13fdae6d8358b604]
+### 59. Machinery controls Requirements for ships constructed on or after 1st September 1984[^c-8cd1ce33c783b75d13fdae6d8358b604]
 
 (1) Effective means shall be provided for the operation and control of main and auxiliary machinery essential for the propulsion and safety of the ship.
 
@@ -891,22 +891,22 @@ Additional requirements for ships constructed on or after 25th May 1980
 
 (4) Any automatic starting, operating or control systems shall be so designed that the failure of any part of such systems shall not prevent their operation manually.
 
-### 60. Steering gear[^key-f7f22c99ea7cf6b67f9c1b13752adfdf]
+### 60. Steering gear[^c-f7f22c99ea7cf6b67f9c1b13752adfdf]
 
-Every ship shall be provided with an efficient main and auxiliary steering gear in accordance with the specifications set out in Schedule 9 in Merchant Shipping Notice MSN 1699(M). If the size of the vessel or the complexity of the steering machinery warrants, the design of the steering gear should take into account, where practicable, the requirements of paragraph 10 to 15 and paragraph 17 of Schedule 9 in Merchant Shipping Notice[^key-2bc57fb689dfe078357a3aa1d6cd83bd] MSN 1698(M).
+Every ship shall be provided with an efficient main and auxiliary steering gear in accordance with the specifications set out in Schedule 9 in Merchant Shipping Notice MSN 1699(M). If the size of the vessel or the complexity of the steering machinery warrants, the design of the steering gear should take into account, where practicable, the requirements of paragraph 10 to 15 and paragraph 17 of Schedule 9 in Merchant Shipping Notice[^c-2bc57fb689dfe078357a3aa1d6cd83bd] MSN 1698(M).
 
-### 61. Ventilation systems in machinery spaces Requirements for ships constructed on or after 1st September 1984[^key-cbe2feeff5721f5c8ebb9b5943331b16]
+### 61. Ventilation systems in machinery spaces Requirements for ships constructed on or after 1st September 1984[^c-cbe2feeff5721f5c8ebb9b5943331b16]
 
 Machinery spaces of Category A shall be ventilated so that an adequate supply of air is maintained for the safety and well-being of personnel and the operation of machinery, including boilers, at full power in all weather conditions. Any other machinery space shall be adequately ventilated having regard in particular to the prevention of an accumulation of oil vapour under all normal conditions.
 
-### 62. Protection against noise Requirements for ships constructed on or after 1st September 1984[^key-9d2c2cb2cd9c52176eb0692b68631a94]
+### 62. Protection against noise Requirements for ships constructed on or after 1st September 1984[^c-9d2c2cb2cd9c52176eb0692b68631a94]
 
 (1)
 
 - (a) Measures shall be taken to reduce noise levels in machinery spaces as far as is reasonable and practicable.
 - (b) On completion of a ship, noise levels in machinery spaces shall be measured when the largest number of machines that operate simultaneously in service are working at their normal service loads.
 - (c) Measurements taken during sea trials at the maximum ahead service speed of the ship will be acceptable as providing the necessary figures.
-- (d) The equipment and procedures for measuring and recording noise levels in machinery spaces shall generally be in accordance with the provisions of the publication “The Code of Practice for Noise Levels in Ships” published by Her Majesty’s Stationery Office (published 1990)[^key-3934b37fc3ed87027c534a0a70e123b2].
+- (d) The equipment and procedures for measuring and recording noise levels in machinery spaces shall generally be in accordance with the provisions of the publication “The Code of Practice for Noise Levels in Ships” published by Her Majesty’s Stationery Office (published 1990)[^c-3934b37fc3ed87027c534a0a70e123b2].
 
 (2) Noise levels in machinery spaces shall not exceed 110 dB(A) provided that under such conditions as may be specified, higher noise levels may be permitted, having regard to the size of ship and the type of machinery installed.
 
@@ -916,42 +916,42 @@ Machinery spaces of Category A shall be ventilated so that an adequate supply of
 
 ## PART IX — MISCELLANEOUS REQUIREMENTS
 
-### 63. Guardrails and stanchions[^key-4bdf17850e087f17ad5a87cd4c2cdb94]
+### 63. Guardrails and stanchions[^c-4bdf17850e087f17ad5a87cd4c2cdb94]
 
 (1) In every ship bulwarks or guard rails shall be provided on every exposed deck to which any passenger or vehicles may have access. Such bulwarks or guard rails, together with stanchions supporting the guard rails shall be so placed, designed and constructed, and in particular shall be of such a height above the deck as to prevent any passenger who may have access to that deck or any vehicle from accidentally falling therefrom. Any freeing ports fitted in such a bulwark shall be covered by a grid or bars which will prevent any person from falling through the port.
 
 (2) In every open ship of Class V, VI or VI(A) every wash strake, covering board and coaming shall be so placed, designed and constructed and shall be of such a height above the floorboards as to prevent any person from accidentally falling overboard.
 
-### 64. Anchor handling equipment, anchors and chain cables[^key-feff9f4ef239a81a1a5799a9bf125b7e]
+### 64. Anchor handling equipment, anchors and chain cables[^c-feff9f4ef239a81a1a5799a9bf125b7e]
 
 Every ship shall be provided with anchor handling equipment, together with such anchors and chain cables as are sufficient in number, weight and strength, having regard to size and intended service to the ship. This equipment shall be tested and certified by the Certifying Authority.
 
-### 65. Hawsers and warps[^key-9dd0ddd6141b6129ba643ec729c56ef4]
+### 65. Hawsers and warps[^c-9dd0ddd6141b6129ba643ec729c56ef4]
 
 Every ship shall be provided with such hawsers and warps as are sufficient in number and strength, having regard to the size and intended service of the ship.
 
-### 66. Gas welding, flame cutting and domestic fuel installations[^key-e93e0d650112b722886fcfdff1f7579f]
+### 66. Gas welding, flame cutting and domestic fuel installations[^c-e93e0d650112b722886fcfdff1f7579f]
 
 In every ship constructed on or after 1st September 1984 every gas welding, flame cutting or domestic gaseous fuel installation shall be designed, constructed and installed so that the safety of the ship and of the persons on board is not impaired.
 
-### 67. The use of asbestos[^key-0b2dff0b1c9b7abc6a765ae7449581a4]
+### 67. The use of asbestos[^c-0b2dff0b1c9b7abc6a765ae7449581a4]
 
 In every ship constructed on or after 1st September 1984 asbestos or any material containing asbestos shall not be installed in any part of the ship.
 
 ## PART X — MISCELLANEOUS REQUIREMENTS FOR SHIPS WITH SPECIAL CATEGORY OR RO-RO CARGO SPACES
 
-### 68. Application[^key-7bf0de28077f8c4f54b4c5565520f4c8]
+### 68. Application[^c-7bf0de28077f8c4f54b4c5565520f4c8]
 
 This Part applies to ro-ro passenger ships.
 
-### 69. Access opening indicator lights[^key-679044d84c5b4d0f1ad1490eb710dded]
+### 69. Access opening indicator lights[^c-679044d84c5b4d0f1ad1490eb710dded]
 
 - (a) Indicators shall be provided for all shell doors, loading doors and other closing appliances fitted to openings which if left open or not properly secured could lead to major flooding of a special category space or ro-ro cargo space.
 - (b) The indicator system shall be a panel at the navigating bridge consisting of a green indicator light and a red indicator light for each access opening connected to suitable switches at the opening so that the green light will be illuminated on the panel for a particular opening only when the door or other closing appliance is both closed and secured;
 - (c) All switches or relays shall be connected so that if the door or appliance is not fully closed or properly secured the red light on the panel will illuminate;
 - (d) The power supply for the indicator system shall be independent of the power supply for operating and securing the doors or closing appliances.
 
-### 70. Supplementary emergency lighting[^key-f79dc721b293c521ae26e316596da07a]
+### 70. Supplementary emergency lighting[^c-f79dc721b293c521ae26e316596da07a]
 
 (1)
 
@@ -963,40 +963,40 @@ This Part applies to ro-ro passenger ships.
 
 (2) A portable rechargeable battery-operated hand lamp shall be provided in every crew space alleyway, recreational space and every working space which is normally occupied unless supplementary emergency lighting as required by paragraph (1) is provided.
 
-### 71. Television surveillance[^key-193b919731bb3d2238ab7457b9bc8db1]
+### 71. Television surveillance[^c-193b919731bb3d2238ab7457b9bc8db1]
 
 A television system shall be installed which shall be capable of transmitting reliable information to the navigating bridge on the condition (including position) of bow doors, stern doors or any other cargo or vehicle loading doors which if left open or not properly secured could lead to major flooding of a special category space or ro-ro cargo space. Special category spaces and ro-ro cargo spaces shall be continuously patrolled or shall be monitored by a television surveillance system during any voyage so that movement of vehicles in adverse weather or unauthorised entry by passengers can be observed. The system monitors shall be placed at a location that is continuously manned whilst the ship is underway.
 
 ## PART XI — EQUIVALENTS, PENALTIES, DETENTION ANDINVALID STABILITY INFORMATION
 
-### 72. Alternative construction, equipment and machinery[^key-9229c619f04e9df51673cfd35826dfb9]
+### 72. Alternative construction, equipment and machinery[^c-9229c619f04e9df51673cfd35826dfb9]
 
 (1) Where these Regulations require that the hull or machinery of a ship shall be constructed in a particular manner, or that particular equipment shall be provided, or particular provision shall be made, the Secretary of State may approve the hull or machinery of the ship to be constructed in any other manner or any other equipment to be provided or other provision made, if he is satisfied by trial thereof or otherwise that other construction or equipment or other provision is at least as effective as that required by these Regulations.
 
 (2) For the purposes of these Regulations, the results of a verification or test shall be accepted if the verification or test is carried out—
 
-- (a) in accordance with these Regulations or with a Standard, Code of Practice, Specification or technical description of an EEA State [^key-cedfae1685c42ce5f561f88ba0194ee2]... offering equivalent levels of safety, suitability and fitness for purpose; and
-- (b) by a body or laboratory of an EEA State [^key-cedfae1685c42ce5f561f88ba0194ee2]... offering suitable and satisfactory guarantees of technical and professional competence and independence.
+- (a) in accordance with these Regulations or with a Standard, Code of Practice, Specification or technical description of an EEA State [^c-cedfae1685c42ce5f561f88ba0194ee2]... offering equivalent levels of safety, suitability and fitness for purpose; and
+- (b) by a body or laboratory of an EEA State [^c-cedfae1685c42ce5f561f88ba0194ee2]... offering suitable and satisfactory guarantees of technical and professional competence and independence.
 
-### 73. Penalties[^key-c232bdf9124317b681fcf7cc73fef98e]
+### 73. Penalties[^c-c232bdf9124317b681fcf7cc73fef98e]
 
-(1) If a ship proceeds or attempts to proceed on any voyage without complying with the requirements of these Regulations other than the requirement of regulations 18(2) and (3), 20 and 25, the owner and master of the ship shall each be guilty of an offence for each case of non-compliance and liable on summary conviction to a fine not exceeding the statutory maximum[^key-ad25e96f1e53c5028e3d9de5c51e26c1] or, on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.
+(1) If a ship proceeds or attempts to proceed on any voyage without complying with the requirements of these Regulations other than the requirement of regulations 18(2) and (3), 20 and 25, the owner and master of the ship shall each be guilty of an offence for each case of non-compliance and liable on summary conviction to a fine not exceeding the statutory maximum[^c-ad25e96f1e53c5028e3d9de5c51e26c1] or, on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.
 
 (2) Any contravention of regulation 20 or 34(2) shall be an offence on the part of the owner and any contravention of regulation 34(3), (4), (5) or (6)(b) shall be an offence on the part of the master. Any such offence shall be punishable on summary conviction by a fine not exceeding the statutory maximum or, on conviction on indictment by imprisonment for a term not exceeding two years, or a fine, or both.
 
-(2A)[^key-b5289cfed27bc1649f4586e18bbfd010] If any officer appointed in accordance with regulation 23(1) reports to the master or other officer in charge of the bridge a door to be closed and locked when it is not in fact closed and locked he shall be guilty of an offence, punishable on summary conviction by a fine not exceeding the statutory maximum or, on conviction on indictment, by imprisonment for a term not exceeding two years and a fine.
+(2A)[^c-b5289cfed27bc1649f4586e18bbfd010] If any officer appointed in accordance with regulation 23(1) reports to the master or other officer in charge of the bridge a door to be closed and locked when it is not in fact closed and locked he shall be guilty of an offence, punishable on summary conviction by a fine not exceeding the statutory maximum or, on conviction on indictment, by imprisonment for a term not exceeding two years and a fine.
 
-(3) Any contravention of regulation 34(4)(a) by an officer appointed in accordance with that regulation shall be an offence punishable on summary conviction by a fine not exceeding the statutory maximum[^key-a6101508937cdea7b0f53a3d591c6a92] or on conviction on indictment by a fine.
+(3) Any contravention of regulation 34(4)(a) by an officer appointed in accordance with that regulation shall be an offence punishable on summary conviction by a fine not exceeding the statutory maximum[^c-a6101508937cdea7b0f53a3d591c6a92] or on conviction on indictment by a fine.
 
 (4) Any person who fails to carry out an inspection which he has been appointed by the master to carry out under regulation 18(2) or (3) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
 (5) It shall be a defence to a charge under these Regulations to prove that the person charged took all reasonable steps to avoid commission of the offence.
 
-### 74. Power to detain[^key-ed0f61ecae176513cf599d907871a8d4]
+### 74. Power to detain[^c-ed0f61ecae176513cf599d907871a8d4]
 
 In any case where a ship does not comply with the requirements of these Regulations, the ship shall be liable to be detained and section 284 of the Merchant Shipping Act 1995 (which relates to the detention of a ship) shall have effect in relation to the ship, subject to the modification that as if for the words “this Act” wherever they appear, there were substituted “the Merchant Shipping (Passenger Ship Construction: Classes III to VI(A)) Regulations 1998.”
 
-### 75. Invalid stability information[^key-ccec58c06a7d679046f3aaf55f72ed61]
+### 75. Invalid stability information[^c-ccec58c06a7d679046f3aaf55f72ed61]
 
 (1) After any survey required by these Regulations of any new or existing United Kingdom passenger ship to which these Regulations apply has been completed and a Passenger Ship Certificate has been issued, the Secretary of State may cancel such certificate if the ship has not carried out a survey as specified in regulation 31(2).
 
@@ -1035,206 +1035,206 @@ Department of the Environment,Transport and the Regions
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); sections 85 and 86 were amended by the Merchant Shipping and Maritime Securities Act [1977 (c. 28)](https://www.legislation.gov.uk/ukpga/1977/28), section 8.
 
-[^key-da0cf17eb31a307c816649b943e44708]: Modification: Regulations excluded in part (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/b)
+[^c-da0cf17eb31a307c816649b943e44708]: Modification: Regulations excluded in part (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/b)
 
-[^key-48bd985230340a343905e59e0133a85c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-48bd985230340a343905e59e0133a85c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-4e9e9827b46d7e8484fa77a0509353e5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-4e9e9827b46d7e8484fa77a0509353e5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
 [^f00002]: Footnote: S.I. [1997/2367](https://www.legislation.gov.uk/uksi/1997/2367).
 
-[^key-4da4e17d766d16aada2e8a32668fd39d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/2) omitted (20.12.2018) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(1)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/1)[(2)(f)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/f)
+[^c-4da4e17d766d16aada2e8a32668fd39d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/2) omitted (20.12.2018) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(1)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/1)[(2)(f)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/f)
 
-[^key-1a71d27931e1e8fd7bff17b2f5663e2c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/2) substituted (20.12.2018) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(1)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/1)[(2)(f)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/f)
+[^c-1a71d27931e1e8fd7bff17b2f5663e2c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/2) substituted (20.12.2018) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(1)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/1)[(2)(f)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/f)
 
-[^key-e1961016c3d4d18969536bc549ae2ced]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/1) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/2/a)
+[^c-e1961016c3d4d18969536bc549ae2ced]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/1) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/2/a)
 
-[^key-88efe2559891a83ca100f88dad840250]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/1) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/2/b)
+[^c-88efe2559891a83ca100f88dad840250]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/1) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/2/b)
 
 [^f00004]: Footnote: S.I. [1998/2241](https://www.legislation.gov.uk/uksi/1998/2241).
 
-[^key-c01a1264f539a916d03c579a374fc2d1]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/2) substituted (8.3.2004) by [The Merchant Shipping (High Speed Craft) Regulations 2004 (S.I. 2004/302)](https://www.legislation.gov.uk/uksi/2004/302), [reg. 1](https://www.legislation.gov.uk/uksi/2004/302/regulation/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2004/302/schedule/paragraph/6)
+[^c-c01a1264f539a916d03c579a374fc2d1]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/2) substituted (8.3.2004) by [The Merchant Shipping (High Speed Craft) Regulations 2004 (S.I. 2004/302)](https://www.legislation.gov.uk/uksi/2004/302), [reg. 1](https://www.legislation.gov.uk/uksi/2004/302/regulation/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2004/302/schedule/paragraph/6)
 
-[^key-90e3098c7c1b3413b5a0d6cd36b80a30]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/2) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90e3098c7c1b3413b5a0d6cd36b80a30]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/2) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4386f4e67363b615b265b0d6a0fd3740]: Textual amendment: Words in [reg. 2(3)(ii)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/3/ii) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4386f4e67363b615b265b0d6a0fd3740]: Textual amendment: Words in [reg. 2(3)(ii)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/2/3/ii) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ebce8d5118fae6ec2c888facd7f6c232]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/2515/regulation/3) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-ebce8d5118fae6ec2c888facd7f6c232]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/2515/regulation/3) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-59e189e977ceaa110c2ab64b24a687da]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1998/2515/regulation/3) inserted (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2000/2687/schedule/paragraph/2/2)
+[^c-59e189e977ceaa110c2ab64b24a687da]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1998/2515/regulation/3) inserted (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2000/2687/schedule/paragraph/2/2)
 
-[^key-0e155fdbcc0e3b06ea89b66a771115f3]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1998/2515/regulation/3) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/8) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-0e155fdbcc0e3b06ea89b66a771115f3]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1998/2515/regulation/3) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/8) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-74b086e7061d0423a67c915f35732979]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/1998/2515/regulation/3A) substituted (20.4.2010) by [The Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 (S.I. 2010/1075)](https://www.legislation.gov.uk/uksi/2010/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1075/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1075/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1075/regulation/3))
+[^c-74b086e7061d0423a67c915f35732979]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/1998/2515/regulation/3A) substituted (20.4.2010) by [The Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 (S.I. 2010/1075)](https://www.legislation.gov.uk/uksi/2010/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1075/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1075/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1075/regulation/3))
 
-[^key-5bfa8aff34bec289e1e66366dfce2c51]: Textual amendment: Reg. 3B inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/3)
+[^c-5bfa8aff34bec289e1e66366dfce2c51]: Textual amendment: Reg. 3B inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/3)
 
-[^key-16fa97c8140c8e06150e82b2114a88d4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/2515/regulation/4) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-16fa97c8140c8e06150e82b2114a88d4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/2515/regulation/4) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-be57baa70147062269f5b1d9a4d481ce]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/2515/regulation/5) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-be57baa70147062269f5b1d9a4d481ce]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/2515/regulation/5) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-0bb158d4252efce0304cd46708b20da5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/2515/regulation/6) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-0bb158d4252efce0304cd46708b20da5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/2515/regulation/6) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-b0e2914b966dcd34e287136c8e0bfe01]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/2515/regulation/7) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-b0e2914b966dcd34e287136c8e0bfe01]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/2515/regulation/7) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-b2bd7513e9a4f764befce30ca949d875]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/2515/regulation/8) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-b2bd7513e9a4f764befce30ca949d875]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/2515/regulation/8) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-dfecf28c12cc3a5cf02048420e6e0ab3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/2515/regulation/9) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-dfecf28c12cc3a5cf02048420e6e0ab3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/2515/regulation/9) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-3f06ec5b9f52a748e8cf646a10be3212]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/2515/regulation/10) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-3f06ec5b9f52a748e8cf646a10be3212]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/2515/regulation/10) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-2a47058538fe634a3ca63267e87a92ee]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/2515/regulation/11) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-2a47058538fe634a3ca63267e87a92ee]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/2515/regulation/11) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-14d6f1bcda05a1fdd718432d2a23e834]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/2515/regulation/12) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-14d6f1bcda05a1fdd718432d2a23e834]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/2515/regulation/12) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-bdfcdc6928e728576489cb5593300069]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/2515/regulation/13) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-bdfcdc6928e728576489cb5593300069]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/2515/regulation/13) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-c238e3301cc654d80e21edb39c01ff2e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1998/2515/regulation/14) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-c238e3301cc654d80e21edb39c01ff2e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1998/2515/regulation/14) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-0a85ac599b85d2de7bff43e8ce07bb7c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1998/2515/regulation/15) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-0a85ac599b85d2de7bff43e8ce07bb7c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1998/2515/regulation/15) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-8d4df922672c4058a8c78561dfd1c1d8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/2515/regulation/16) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-8d4df922672c4058a8c78561dfd1c1d8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/2515/regulation/16) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-bc812229c2111e1918dc58513eadd10e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1998/2515/regulation/17) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-bc812229c2111e1918dc58513eadd10e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1998/2515/regulation/17) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-1051dc416d47b4235094ee68bcda4715]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1998/2515/regulation/18) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-1051dc416d47b4235094ee68bcda4715]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1998/2515/regulation/18) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-b3fbe2150a292fa0feb7647e5576e89a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1998/2515/regulation/19) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-b3fbe2150a292fa0feb7647e5576e89a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1998/2515/regulation/19) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-c1f45713e6f62d309c870e79abd14338]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1998/2515/regulation/20) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-c1f45713e6f62d309c870e79abd14338]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1998/2515/regulation/20) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-b3fcb603d6150d1c03ce96b9c294168f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1998/2515/regulation/21) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-b3fcb603d6150d1c03ce96b9c294168f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1998/2515/regulation/21) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-289e00dca63b2eb95e1c3d48550b69f2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1998/2515/regulation/22) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-289e00dca63b2eb95e1c3d48550b69f2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1998/2515/regulation/22) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-3c76460877595f1cb2e47e5fd578db5c]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1998/2515/regulation/23) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-3c76460877595f1cb2e47e5fd578db5c]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1998/2515/regulation/23) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-093d14bc92c52c7cfac0a00ab00e9980]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1998/2515/regulation/24) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-093d14bc92c52c7cfac0a00ab00e9980]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1998/2515/regulation/24) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-fed96dd67315e24a5c15fb0fc0fe5c4e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1998/2515/regulation/25) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-fed96dd67315e24a5c15fb0fc0fe5c4e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1998/2515/regulation/25) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-44c4db2e4ddc2fa0e88c7b94d758e8ac]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1998/2515/regulation/26) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-44c4db2e4ddc2fa0e88c7b94d758e8ac]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1998/2515/regulation/26) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-ff706f4810650a7d03603775af8f0006]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1998/2515/regulation/27) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-ff706f4810650a7d03603775af8f0006]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1998/2515/regulation/27) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-1b0f3235b07f61cddadc70ebbe8d0897]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1998/2515/regulation/28) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-1b0f3235b07f61cddadc70ebbe8d0897]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1998/2515/regulation/28) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-b6597df8bafc98a1bc235b1b83a83585]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1998/2515/regulation/29) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-b6597df8bafc98a1bc235b1b83a83585]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1998/2515/regulation/29) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-987046548148c3e5e2e972e361e7a122]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1998/2515/regulation/30) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-987046548148c3e5e2e972e361e7a122]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1998/2515/regulation/30) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-b2a80f63f08ec3197cde40de3bbf4bb6]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1998/2515/regulation/31) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-b2a80f63f08ec3197cde40de3bbf4bb6]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1998/2515/regulation/31) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-06cb31ad6d839fa5a2728fd783c9bbb1]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1998/2515/regulation/32) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-06cb31ad6d839fa5a2728fd783c9bbb1]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1998/2515/regulation/32) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-64e4579e6d35781d91a1160ee98e02a6]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/1998/2515/regulation/32) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(4)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/4)
+[^c-64e4579e6d35781d91a1160ee98e02a6]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/1998/2515/regulation/32) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(4)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/4)
 
-[^key-2febe606c0b96c23c628774a3e492097]: Textual amendment: [Reg. 32(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/32/2) omitted (11.6.2001) by virtue of [The Merchant Shipping (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/1638)](https://www.legislation.gov.uk/uksi/2001/1638), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2001/1638/regulation/6/a)
+[^c-2febe606c0b96c23c628774a3e492097]: Textual amendment: [Reg. 32(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/32/2) omitted (11.6.2001) by virtue of [The Merchant Shipping (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/1638)](https://www.legislation.gov.uk/uksi/2001/1638), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2001/1638/regulation/6/a)
 
-[^key-dfbefb93f77e05006d77cf98fa4af788]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1998/2515/regulation/33) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-dfbefb93f77e05006d77cf98fa4af788]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1998/2515/regulation/33) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-92f724f00f329c9a0ee763d870cdf32c]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1998/2515/regulation/34) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-92f724f00f329c9a0ee763d870cdf32c]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1998/2515/regulation/34) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-eb59c509b622b3de5802c5504f319537]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1998/2515/regulation/35) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-eb59c509b622b3de5802c5504f319537]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1998/2515/regulation/35) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-114c1adadba69ceedabdd10782ff89ae]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1998/2515/regulation/36) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-114c1adadba69ceedabdd10782ff89ae]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1998/2515/regulation/36) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-3f1c8c8c9812c5d7aae35ceab2df1e08]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1998/2515/regulation/37) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-3f1c8c8c9812c5d7aae35ceab2df1e08]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1998/2515/regulation/37) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-f0bb2e9057c046bd3833eb62bc09cfe4]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1998/2515/regulation/38) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-f0bb2e9057c046bd3833eb62bc09cfe4]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1998/2515/regulation/38) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-c5d3c2bd6af60041c1640a5d3557ebda]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1998/2515/regulation/39) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-c5d3c2bd6af60041c1640a5d3557ebda]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1998/2515/regulation/39) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-67549db86aaf4d636e71bcdc41588bc9]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1998/2515/regulation/40) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-67549db86aaf4d636e71bcdc41588bc9]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1998/2515/regulation/40) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-d2e79cdb8d3c28785085d56f011d44b3]: Textual amendment: Word in [reg. 40(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/40/2) substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(5)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/5)
+[^c-d2e79cdb8d3c28785085d56f011d44b3]: Textual amendment: Word in [reg. 40(2)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/40/2) substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(5)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/5)
 
-[^key-b3c7324875217c87ede5ad559f72cd09]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1998/2515/regulation/41) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-b3c7324875217c87ede5ad559f72cd09]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1998/2515/regulation/41) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-517a788abc23419a10a1a69d129266a6]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/1998/2515/regulation/41) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(6)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/6)
+[^c-517a788abc23419a10a1a69d129266a6]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/uksi/1998/2515/regulation/41) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(6)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/6)
 
-[^key-3623bcedcab86711ef96de182781f7b4]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1998/2515/regulation/42) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-3623bcedcab86711ef96de182781f7b4]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1998/2515/regulation/42) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-f827234986313905d4d47f485d67e3b3]: Textual amendment: Words in [reg. 42](https://www.legislation.gov.uk/uksi/1998/2515/regulation/42) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(7)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/7)
+[^c-f827234986313905d4d47f485d67e3b3]: Textual amendment: Words in [reg. 42](https://www.legislation.gov.uk/uksi/1998/2515/regulation/42) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(7)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/7)
 
-[^key-ad04530892652e978e0c2dd1b7b52248]: Textual amendment: Reg. 42A inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(8)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/8)
+[^c-ad04530892652e978e0c2dd1b7b52248]: Textual amendment: Reg. 42A inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [3(8)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/3/8)
 
-[^key-62372fd9b1a37aaa3a3583e0e6ee9193]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1998/2515/regulation/43) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-62372fd9b1a37aaa3a3583e0e6ee9193]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1998/2515/regulation/43) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-c6dacd59d8e3b50d415a001c827be86b]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1998/2515/regulation/44) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-c6dacd59d8e3b50d415a001c827be86b]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1998/2515/regulation/44) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-da821995ee9e7244c4a601e6482f7cc5]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1998/2515/regulation/45) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-da821995ee9e7244c4a601e6482f7cc5]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1998/2515/regulation/45) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-5d4bfe238dff29569827df7244d46c4e]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1998/2515/regulation/46) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-5d4bfe238dff29569827df7244d46c4e]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1998/2515/regulation/46) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-994594efc867792b154578563f959d73]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1998/2515/regulation/47) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-994594efc867792b154578563f959d73]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1998/2515/regulation/47) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-5c6ed86e26a78e0b54a114f64a6a22bd]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1998/2515/regulation/48) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-5c6ed86e26a78e0b54a114f64a6a22bd]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1998/2515/regulation/48) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-d85e2e2d4f81491a106fb9361f4a06c3]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1998/2515/regulation/49) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-d85e2e2d4f81491a106fb9361f4a06c3]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1998/2515/regulation/49) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-c1ead3422d355e8b406af9f6f72d4ad6]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1998/2515/regulation/50) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-c1ead3422d355e8b406af9f6f72d4ad6]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1998/2515/regulation/50) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-07e22be3de4e3f548dbde5c2495e6d89]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1998/2515/regulation/51) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-07e22be3de4e3f548dbde5c2495e6d89]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1998/2515/regulation/51) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-9b4b8fe1c38975d56a8c822e44dc68e2]: Textual amendment: Words in [reg. 51(3)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/51/3) substituted (1.8.2002) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1650)](https://www.legislation.gov.uk/uksi/2002/1650), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1650/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2002/1650/regulation/3/a)
+[^c-9b4b8fe1c38975d56a8c822e44dc68e2]: Textual amendment: Words in [reg. 51(3)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/51/3) substituted (1.8.2002) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1650)](https://www.legislation.gov.uk/uksi/2002/1650), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1650/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2002/1650/regulation/3/a)
 
-[^key-5086d469e9505885e5f51a7992f76587]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1998/2515/regulation/52) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-5086d469e9505885e5f51a7992f76587]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1998/2515/regulation/52) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-4b94edc688fc724109fba1e26b7adf9c]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1998/2515/regulation/53) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-4b94edc688fc724109fba1e26b7adf9c]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1998/2515/regulation/53) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-0fe138233570adff453021ab19980aed]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1998/2515/regulation/54) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-0fe138233570adff453021ab19980aed]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1998/2515/regulation/54) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-2dbc791e42fa37284bdbddbc984db106]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/1998/2515/regulation/55) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-2dbc791e42fa37284bdbddbc984db106]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/1998/2515/regulation/55) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-04ed38ffee863afc359cdb877a39818f]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1998/2515/regulation/56) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-04ed38ffee863afc359cdb877a39818f]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1998/2515/regulation/56) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-538e88e0bbbad3c6022e66e704462f8a]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1998/2515/regulation/57) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-538e88e0bbbad3c6022e66e704462f8a]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1998/2515/regulation/57) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-f31717bb585d922dbb32c1d4115e2bc0]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/1998/2515/regulation/58) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-f31717bb585d922dbb32c1d4115e2bc0]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/1998/2515/regulation/58) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-8cd1ce33c783b75d13fdae6d8358b604]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1998/2515/regulation/59) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-8cd1ce33c783b75d13fdae6d8358b604]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1998/2515/regulation/59) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-f7f22c99ea7cf6b67f9c1b13752adfdf]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/1998/2515/regulation/60) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-f7f22c99ea7cf6b67f9c1b13752adfdf]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/1998/2515/regulation/60) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-2bc57fb689dfe078357a3aa1d6cd83bd]: Textual amendment: Words in [reg. 60](https://www.legislation.gov.uk/uksi/1998/2515/regulation/60) added (1.8.2002) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1650)](https://www.legislation.gov.uk/uksi/2002/1650), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1650/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2002/1650/regulation/3/b)
+[^c-2bc57fb689dfe078357a3aa1d6cd83bd]: Textual amendment: Words in [reg. 60](https://www.legislation.gov.uk/uksi/1998/2515/regulation/60) added (1.8.2002) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1650)](https://www.legislation.gov.uk/uksi/2002/1650), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1650/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2002/1650/regulation/3/b)
 
-[^key-cbe2feeff5721f5c8ebb9b5943331b16]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/1998/2515/regulation/61) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-cbe2feeff5721f5c8ebb9b5943331b16]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/1998/2515/regulation/61) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-9d2c2cb2cd9c52176eb0692b68631a94]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/1998/2515/regulation/62) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-9d2c2cb2cd9c52176eb0692b68631a94]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/1998/2515/regulation/62) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-3934b37fc3ed87027c534a0a70e123b2]: Textual amendment: Words in [reg. 62(1)(d)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/62/1/d) substituted (1.8.2002) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1650)](https://www.legislation.gov.uk/uksi/2002/1650), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1650/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2002/1650/regulation/3/c)
+[^c-3934b37fc3ed87027c534a0a70e123b2]: Textual amendment: Words in [reg. 62(1)(d)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/62/1/d) substituted (1.8.2002) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1650)](https://www.legislation.gov.uk/uksi/2002/1650), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1650/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2002/1650/regulation/3/c)
 
-[^key-4bdf17850e087f17ad5a87cd4c2cdb94]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/1998/2515/regulation/63) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-4bdf17850e087f17ad5a87cd4c2cdb94]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/1998/2515/regulation/63) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-feff9f4ef239a81a1a5799a9bf125b7e]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/1998/2515/regulation/64) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-feff9f4ef239a81a1a5799a9bf125b7e]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/1998/2515/regulation/64) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-9dd0ddd6141b6129ba643ec729c56ef4]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/1998/2515/regulation/65) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-9dd0ddd6141b6129ba643ec729c56ef4]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/1998/2515/regulation/65) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-e93e0d650112b722886fcfdff1f7579f]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/1998/2515/regulation/66) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-e93e0d650112b722886fcfdff1f7579f]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/1998/2515/regulation/66) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-0b2dff0b1c9b7abc6a765ae7449581a4]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1998/2515/regulation/67) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-0b2dff0b1c9b7abc6a765ae7449581a4]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1998/2515/regulation/67) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-7bf0de28077f8c4f54b4c5565520f4c8]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1998/2515/regulation/68) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-7bf0de28077f8c4f54b4c5565520f4c8]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1998/2515/regulation/68) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-679044d84c5b4d0f1ad1490eb710dded]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/1998/2515/regulation/69) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-679044d84c5b4d0f1ad1490eb710dded]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/1998/2515/regulation/69) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-f79dc721b293c521ae26e316596da07a]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/1998/2515/regulation/70) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-f79dc721b293c521ae26e316596da07a]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/1998/2515/regulation/70) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-193b919731bb3d2238ab7457b9bc8db1]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/1998/2515/regulation/71) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-193b919731bb3d2238ab7457b9bc8db1]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/1998/2515/regulation/71) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-9229c619f04e9df51673cfd35826dfb9]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/1998/2515/regulation/72) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-9229c619f04e9df51673cfd35826dfb9]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/1998/2515/regulation/72) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-cedfae1685c42ce5f561f88ba0194ee2]: Textual amendment: Words in [reg. 72(2)(a)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/72/2/a)[(b)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/72/2/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cedfae1685c42ce5f561f88ba0194ee2]: Textual amendment: Words in [reg. 72(2)(a)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/72/2/a)[(b)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/72/2/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c232bdf9124317b681fcf7cc73fef98e]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1998/2515/regulation/73) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-c232bdf9124317b681fcf7cc73fef98e]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1998/2515/regulation/73) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-ad25e96f1e53c5028e3d9de5c51e26c1]: Textual amendment: Words in [reg. 73(1)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/73/1) substituted (11.6.2001) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/1638)](https://www.legislation.gov.uk/uksi/2001/1638), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2001/1638/regulation/6/b)
+[^c-ad25e96f1e53c5028e3d9de5c51e26c1]: Textual amendment: Words in [reg. 73(1)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/73/1) substituted (11.6.2001) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/1638)](https://www.legislation.gov.uk/uksi/2001/1638), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2001/1638/regulation/6/b)
 
-[^key-b5289cfed27bc1649f4586e18bbfd010]: Textual amendment: Reg. 73(2A) inserted (1.8.2002) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1650)](https://www.legislation.gov.uk/uksi/2002/1650), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1650/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2002/1650/regulation/3/d)
+[^c-b5289cfed27bc1649f4586e18bbfd010]: Textual amendment: Reg. 73(2A) inserted (1.8.2002) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1650)](https://www.legislation.gov.uk/uksi/2002/1650), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1650/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2002/1650/regulation/3/d)
 
-[^key-a6101508937cdea7b0f53a3d591c6a92]: Textual amendment: Words in [reg. 73(3)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/73/3) substituted (1.8.2002) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1650)](https://www.legislation.gov.uk/uksi/2002/1650), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1650/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2002/1650/regulation/3/e)
+[^c-a6101508937cdea7b0f53a3d591c6a92]: Textual amendment: Words in [reg. 73(3)](https://www.legislation.gov.uk/uksi/1998/2515/regulation/73/3) substituted (1.8.2002) by [The Merchant Shipping (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1650)](https://www.legislation.gov.uk/uksi/2002/1650), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1650/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2002/1650/regulation/3/e)
 
-[^key-ed0f61ecae176513cf599d907871a8d4]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/1998/2515/regulation/74) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-ed0f61ecae176513cf599d907871a8d4]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/1998/2515/regulation/74) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
 
-[^key-ccec58c06a7d679046f3aaf55f72ed61]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/1998/2515/regulation/75) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)
+[^c-ccec58c06a7d679046f3aaf55f72ed61]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/1998/2515/regulation/75) in force at 12.11.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2515/regulation/1)

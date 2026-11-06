@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 195. Information to be provided to a member before reserve forces service leave[^key-c2746d7defddebcd88452488237d3089]
+## 195. Information to be provided to a member before reserve forces service leave[^c-c2746d7defddebcd88452488237d3089]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The scheme manager must give a member who is about to start on a period of reser
 
 ## Annotations
 
-[^key-c2746d7defddebcd88452488237d3089]: Commencement: Reg. 195 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-c2746d7defddebcd88452488237d3089]: Commencement: Reg. 195 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

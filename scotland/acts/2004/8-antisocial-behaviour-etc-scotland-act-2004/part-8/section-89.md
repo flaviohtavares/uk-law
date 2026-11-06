@@ -35,16 +35,16 @@ the authority shall remove the person from its register.
 (3) This subsection applies where—
 
 - (a) the person was registered by virtue of section 84(4); and
-- (b) paragraph (c) or (d)(ii)[^key-627a677af3450ba4c21aa638481f88d7] of that section no longer applies.
+- (b) paragraph (c) or (d)(ii)[^c-627a677af3450ba4c21aa638481f88d7] of that section no longer applies.
 
-(3A)[^key-18ef2177467e3ec890a3c6334297a94e] Where—
+(3A)[^c-18ef2177467e3ec890a3c6334297a94e] Where—
 
 - (a) a person is registered by the local authority by virtue of section 84(4), and
 - (b) paragraph (d)(i) of that section no longer applies,
 
 the authority may remove the person from the register.
 
-(4)[^key-de8aa347bf02a8a8e1e60a26f1890126] Where a registered person, without reasonable excuse, fails to comply with the duty imposed by section 92B(1) the authority may remove the person from the register.
+(4)[^c-de8aa347bf02a8a8e1e60a26f1890126] Where a registered person, without reasonable excuse, fails to comply with the duty imposed by section 92B(1) the authority may remove the person from the register.
 
 (5) Where—
 
@@ -55,8 +55,8 @@ the authority shall remove the person from its register.
 
 ## Annotations
 
-[^key-627a677af3450ba4c21aa638481f88d7]: Textual amendment: Word in [s. 89(3)(b)](https://www.legislation.gov.uk/asp/2004/8/section/89/3/b) substituted (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(3)(a)](https://www.legislation.gov.uk/asp/2014/14/section/60/3/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-627a677af3450ba4c21aa638481f88d7]: Textual amendment: Word in [s. 89(3)(b)](https://www.legislation.gov.uk/asp/2004/8/section/89/3/b) substituted (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(3)(a)](https://www.legislation.gov.uk/asp/2014/14/section/60/3/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-18ef2177467e3ec890a3c6334297a94e]: Textual amendment: [S. 89(3A)](https://www.legislation.gov.uk/asp/2004/8/section/89/3A) inserted (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(3)(b)](https://www.legislation.gov.uk/asp/2014/14/section/60/3/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-18ef2177467e3ec890a3c6334297a94e]: Textual amendment: [S. 89(3A)](https://www.legislation.gov.uk/asp/2004/8/section/89/3A) inserted (31.1.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 60(3)(b)](https://www.legislation.gov.uk/asp/2014/14/section/60/3/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-de8aa347bf02a8a8e1e60a26f1890126]: Textual amendment: S. 89(4)(5) added (1.4.2013) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [s. 41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3), [sch. para. 4](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/4); [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-de8aa347bf02a8a8e1e60a26f1890126]: Textual amendment: S. 89(4)(5) added (1.4.2013) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [s. 41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3), [sch. para. 4](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/4); [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Conditions ceasing to apply[^key-dc728170a5eb4b4081790fad40b37873]
+## 17. Conditions ceasing to apply[^c-dc728170a5eb4b4081790fad40b37873]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc728170a5eb4b4081790fad40b37873]: Commencement: S. 17 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-dc728170a5eb4b4081790fad40b37873]: Commencement: S. 17 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))

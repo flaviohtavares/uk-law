@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Child sexual abuse image-generators: Northern Ireland[^key-d8ba4eb33eb69e3273ead8c858f09f0b]
+## 73. Child sexual abuse image-generators: Northern Ireland[^c-d8ba4eb33eb69e3273ead8c858f09f0b]
 
 *Extent: N.I.*
 
@@ -144,4 +144,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8ba4eb33eb69e3273ead8c858f09f0b]: Commencement: S. 73 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(g)
+[^c-d8ba4eb33eb69e3273ead8c858f09f0b]: Commencement: S. 73 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(g)

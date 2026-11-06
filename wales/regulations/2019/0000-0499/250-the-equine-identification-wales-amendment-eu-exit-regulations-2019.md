@@ -51,7 +51,7 @@ The Welsh Ministers, in exercise of the power conferred by paragraph 1(1) of Sch
 
 The requirements of paragraph 4(2) of Schedule 7 to that Act (relating to the appropriate National Assembly for Wales scrutiny procedure for these Regulations) have been satisfied.
 
-## 1. Title, commencement and application[^key-d11e7b911583dac4ce4c404b862a5394]
+## 1. Title, commencement and application[^c-d11e7b911583dac4ce4c404b862a5394]
 
 (1) The title of these Regulations is the Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2019.
 
@@ -59,15 +59,15 @@ The requirements of paragraph 4(2) of Schedule 7 to that Act (relating to the ap
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. The Equine Identification (Wales) Regulations 2019[^key-8e8dfd23e34259cf37d2e9fd3c418498]
+## 2. The Equine Identification (Wales) Regulations 2019[^c-8e8dfd23e34259cf37d2e9fd3c418498]
 
 (1) The Equine Identification (Wales) Regulations 2019 [^c23566291] are amended as follows.
 
 (2) In regulation 6(1), for “born in the European Union” substitute “ born in a member State or in the United Kingdom ”.
 
-(3) In the heading to regulation 7, for “European Union” substitute “ Great Britain from a country other than Northern Ireland or a member State[^key-ab46a1a28205510db065a9b330f1fa5f] ”.
+(3) In the heading to regulation 7, for “European Union” substitute “ Great Britain from a country other than Northern Ireland or a member State[^c-ab46a1a28205510db065a9b330f1fa5f] ”.
 
-(4)[^key-3a2d46bda3d3ed1c480e37dfcc106792] In regulation 13(3)(b), for “another member State” substitute “a member State or Northern Ireland”.
+(4)[^c-3a2d46bda3d3ed1c480e37dfcc106792] In regulation 13(3)(b), for “another member State” substitute “a member State or Northern Ireland”.
 
 (5) In regulation 33, for paragraph (4) substitute—
 
@@ -91,12 +91,12 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23566281]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-d11e7b911583dac4ce4c404b862a5394]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d11e7b911583dac4ce4c404b862a5394]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-8e8dfd23e34259cf37d2e9fd3c418498]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-8e8dfd23e34259cf37d2e9fd3c418498]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23566291]: Marginal citation: [S.I. 2019/57](https://www.legislation.gov.uk/uksi/2019/57) (W.20).
 
-[^key-ab46a1a28205510db065a9b330f1fa5f]: Textual amendment: Words in reg. 2(3) substituted (31.12.2020 immediately before IP completion day) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1240)](https://www.legislation.gov.uk/wsi/2020/1240), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1240/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1240/regulation/2/2)
+[^c-ab46a1a28205510db065a9b330f1fa5f]: Textual amendment: Words in reg. 2(3) substituted (31.12.2020 immediately before IP completion day) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1240)](https://www.legislation.gov.uk/wsi/2020/1240), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1240/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1240/regulation/2/2)
 
-[^key-3a2d46bda3d3ed1c480e37dfcc106792]: Textual amendment: Reg. 2(4) substituted (31.12.2020 immediately before IP completion day) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1240)](https://www.legislation.gov.uk/wsi/2020/1240), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1240/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/1240/regulation/2/3)
+[^c-3a2d46bda3d3ed1c480e37dfcc106792]: Textual amendment: Reg. 2(4) substituted (31.12.2020 immediately before IP completion day) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1240)](https://www.legislation.gov.uk/wsi/2020/1240), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1240/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/1240/regulation/2/3)

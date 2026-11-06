@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Further provision about remands[^key-86046abaeda0af4efd5353b50318513a]
+## 46. Further provision about remands[^c-86046abaeda0af4efd5353b50318513a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 5 (which makes further provision about the remand of a person under sec
 
 ## Annotations
 
-[^key-86046abaeda0af4efd5353b50318513a]: Commencement: S. 46 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-86046abaeda0af4efd5353b50318513a]: Commencement: S. 46 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)

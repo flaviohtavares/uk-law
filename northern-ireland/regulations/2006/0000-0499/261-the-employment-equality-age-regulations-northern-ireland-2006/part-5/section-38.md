@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Research and education[^key-1d3dc465ed081ffca47351e9131dae28]
+## 38. Research and education[^c-1d3dc465ed081ffca47351e9131dae28]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d3dc465ed081ffca47351e9131dae28]: Commencement: Reg. 38 in operation at 14.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/2)
+[^c-1d3dc465ed081ffca47351e9131dae28]: Commencement: Reg. 38 in operation at 14.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/2)

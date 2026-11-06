@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Power to delegate functions[^key-4989c6b8d0434da2afe9d708b941669b]
+## 58. Power to delegate functions[^c-4989c6b8d0434da2afe9d708b941669b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to paragraph 9B of Schedule 2 to the Act of 1964 (functions which cannot
 
 ## Annotations
 
-[^key-4989c6b8d0434da2afe9d708b941669b]: Commencement: Art. 58 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-4989c6b8d0434da2afe9d708b941669b]: Commencement: Art. 58 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

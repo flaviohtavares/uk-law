@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Closure and adjustment of pension accounts on transfer out or repayment of balance of contributions[^key-d5aea09b0983ec004671299486476da2]
+## 29. Closure and adjustment of pension accounts on transfer out or repayment of balance of contributions[^c-d5aea09b0983ec004671299486476da2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5aea09b0983ec004671299486476da2]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/2848/regulation/29) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-d5aea09b0983ec004671299486476da2]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/2848/regulation/29) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00042]: Footnote: Regulation 116 (refund of all member contributions and payments for extra pension made by member) provides for extinguishment of rights following the refund of all member contributions and payments for extra pension made by the member. Regulation 138 ( effect of transfers-out ) provides for extinguishment of rights following the making of a transfer payment.

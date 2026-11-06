@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Cancellation of initial notice: notice of contravention of building regulations[^key-7e0705744acf59d1773e6d64352e0f15]
+## 16. Cancellation of initial notice: notice of contravention of building regulations[^c-7e0705744acf59d1773e6d64352e0f15]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e0705744acf59d1773e6d64352e0f15]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2024/1268/regulation/16) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-7e0705744acf59d1773e6d64352e0f15]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2024/1268/regulation/16) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

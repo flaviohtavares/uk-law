@@ -29,25 +29,25 @@ summary: ''
 
 Education, Wales
 
-[^M_C_0a88cb2d-58dc-4cb0-cf1f-c7658797741a]The Education (Student Support) (Wales) Regulations 2013 *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+[^M_C_0a88cb2d-58dc-4cb0-cf1f-c7658797741a]The Education (Student Support) (Wales) Regulations 2013 *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
-Made *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+Made *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
-12 December 2013 *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+12 December 2013 *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
-Laid before the National Assembly for Wales *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+Laid before the National Assembly for Wales *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
-16 December 2013 *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+16 December 2013 *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
-Coming into force *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+Coming into force *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
-10th January 2014 *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+10th January 2014 *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
-The Welsh Ministers, in exercise of the powers conferred upon the Secretary of State by sections 22 and 42(6) of the Teaching and Higher Education Act 1998 *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a][^f00001], and now exercisable by them *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a][^f00002] make the following Regulations: *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a][^key-5342d92c5bc43a5511753edf74e5c294]
+The Welsh Ministers, in exercise of the powers conferred upon the Secretary of State by sections 22 and 42(6) of the Teaching and Higher Education Act 1998 *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a][^f00001], and now exercisable by them *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a][^f00002] make the following Regulations: *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a][^c-5342d92c5bc43a5511753edf74e5c294]
 
 ## Contents
 
-### PART 1 (affected by repeal, see note) — GENERAL (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 1 (affected by repeal, see note) — GENERAL (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Revocation, savings and transitional provisions](part-1/section-3.md)
 
-### PART 2 (affected by repeal, see note) — ELIGIBILITY (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 2 (affected by repeal, see note) — ELIGIBILITY (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -65,7 +65,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 7 — Previous study](part-2/section-7.md)
 - [Section 8 — Transfer of status](part-2/section-8.md)
 
-### PART 3 (affected by repeal, see note) — APPLYING FOR SUPPORT AND PROVISION OF INFORMATION (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 3 (affected by repeal, see note) — APPLYING FOR SUPPORT AND PROVISION OF INFORMATION (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -74,11 +74,11 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 11 — Information](part-3/section-11.md)
 - [Section 12 — Requirement to enter into a contract for a loan](part-3/section-12.md)
 
-### PART 4 (affected by repeal, see note) — GRANTS AND LOANS FOR FEES (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 4 (affected by repeal, see note) — GRANTS AND LOANS FOR FEES (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
-#### CHAPTER 1 (affected by repeal, see note) — GENERAL PROVISION (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+#### CHAPTER 1 (affected by repeal, see note) — GENERAL PROVISION (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -86,7 +86,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 14 — Students becoming eligible during the course of an academic year](part-4/section-14.md)
 - [Section 15 — Events](part-4/section-15.md)
 
-#### CHAPTER 2 (affected by repeal, see note) — GRANTS FOR FEES (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+#### CHAPTER 2 (affected by repeal, see note) — GRANTS FOR FEES (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 19 — Fee grant](part-4/section-19.md)
 - [Section 20 — New fee grant](part-4/section-20.md)
 
-#### CHAPTER 3 (affected by repeal, see note) — FEE CONTRIBUTION LOANS AND FEE LOANS (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+#### CHAPTER 3 (affected by repeal, see note) — FEE CONTRIBUTION LOANS AND FEE LOANS (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -108,7 +108,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 26 — New private institution fee loan](part-4/section-26.md)
 - [Section 27 — Accelerated graduate entry fee loan](part-4/section-27.md)
 
-### PART 5 (affected by repeal, see note) — GRANTS FOR LIVING COSTS (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 5 (affected by repeal, see note) — GRANTS FOR LIVING COSTS (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -134,7 +134,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 47 — Special support grant – new system eligible students who are 2010 cohort students or 2012 cohort students](part-5/section-47.md)
 - [Section 48 — Special support grant – new system eligible students who are 2011 cohort students](part-5/section-48.md)
 
-### PART 6 (affected by repeal, see note) — LOANS FOR LIVING COSTS (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 6 (affected by repeal, see note) — LOANS FOR LIVING COSTS (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -153,26 +153,26 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 62 — Deductions from loans for living costs](part-6/section-62.md)
 - [Section 63 — Interpretation of Part 6](part-6/section-63.md)
 
-### PART 7 (affected by repeal, see note) — GENERAL LOAN PROVISIONS (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 7 (affected by repeal, see note) — GENERAL LOAN PROVISIONS (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
 - [Section 64 — Additional amount of loans](part-7/section-64.md)
 
-### PART 8 (affected by repeal, see note) — COLLEGE FEE LOANS (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 8 (affected by repeal, see note) — COLLEGE FEE LOANS (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
 - [Section 65 — College fee loans](part-8/section-65.md)
 
-### PART 9 (affected by repeal, see note) — FINANCIAL ASSESSMENT (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 9 (affected by repeal, see note) — FINANCIAL ASSESSMENT (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
 - [Section 66 — Calculation of contribution](part-9/section-66.md)
 - [Section 67 — Application of contribution](part-9/section-67.md)
 
-### PART 10 (affected by repeal, see note) — PAYMENTS (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 10 (affected by repeal, see note) — PAYMENTS (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -185,7 +185,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 74 — Overpayments](part-10/section-74.md)
 - [Section 75 — Payments - interpretation](part-10/section-75.md)
 
-### PART 11 (affected by repeal, see note) — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 11 (affected by repeal, see note) — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -207,7 +207,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 91 — Payment of grants for books, travel and other expenditure and grants for disabled distance learning students’ living costs](part-11/section-91.md)
 - [Section 92 — Overpayments](part-11/section-92.md)
 
-### PART 12 (affected by repeal, see note) — SUPPORT FOR PART-TIME COURSES (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 12 (affected by repeal, see note) — SUPPORT FOR PART-TIME COURSES (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -239,7 +239,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 120 — Payment of new part-time fee loan](part-12/section-120.md)
 - [Section 121 — Overpayments](part-12/section-121.md)
 
-### PART 13 (affected by repeal, see note) — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 13 (affected by repeal, see note) — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -254,7 +254,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 - [Section 130 — Payment of grant](part-13/section-130.md)
 - [Section 131 — Overpayments](part-13/section-131.md)
 
-### PART 14 (affected by repeal, see note) — AMENDMENT OF THE 2012 REGULATIONS (affected by repeal, see note)[^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+### PART 14 (affected by repeal, see note) — AMENDMENT OF THE 2012 REGULATIONS (affected by repeal, see note)[^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -269,11 +269,11 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 *Extent: E+W*
 
-Huw Lewis *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+Huw Lewis *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
-Minister for Education and Skills, one of the Welsh Ministers *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+Minister for Education and Skills, one of the Welsh Ministers *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
-12 December 2013 *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+12 December 2013 *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
@@ -368,10 +368,10 @@ Part 14 makes amendments to the 2012 Regulations in relation to “compressed fi
 
 [^M_C_0a88cb2d-58dc-4cb0-cf1f-c7658797741a]: Modification: Regulations continued for specified purposes (17.2.2017) by [The Education (Student Support) (Wales) Regulations 2017 (S.I. 2017/47)](https://www.legislation.gov.uk/uksi/2017/47), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/47/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2017/47/regulation/3/13) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/47/regulation/1/3), [3(16)](https://www.legislation.gov.uk/uksi/2017/47/regulation/3/16)) (as amended (12.3.2018) by [S.I. 2018/191](https://www.legislation.gov.uk/uksi/2018/191), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2018/191/regulation/2), [100](https://www.legislation.gov.uk/uksi/2018/191/regulation/100), [Sch. 6 paras. 2-4](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/2))
 
-[^key-fb65aa289c1f5f6c86282db81d96956a]: Textual amendment: Regulations revoked (19.2.2015) by [The Education (Student Support) (Wales) Regulations 2015 (S.I. 2015/54)](https://www.legislation.gov.uk/uksi/2015/54), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/54/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/1) (with savings in [reg. 3(13)(15)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/13/15))
+[^c-fb65aa289c1f5f6c86282db81d96956a]: Textual amendment: Regulations revoked (19.2.2015) by [The Education (Student Support) (Wales) Regulations 2015 (S.I. 2015/54)](https://www.legislation.gov.uk/uksi/2015/54), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/54/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/1) (with savings in [reg. 3(13)(15)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/13/15))
 
 [^f00001]: Footnote: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30); section 22 was amended by the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), section 146 and Schedule 11, the Income Tax (Earnings and Pensions) Act [2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6, the Finance Act [2003 (c.14)](https://www.legislation.gov.uk/ukpga/2003/14), section 147, the Higher Education Act [2004 (c.8)](https://www.legislation.gov.uk/ukpga/2004/8), sections 42 and 43 and Schedule 7 and the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22), section 257. *See* section 43(1) of the Teaching and Higher Education Act 1998 for the definition of “prescribed” and “regulations”.
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 22 of the Teaching and Higher Education Act 1998 (except so far as they relate to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e) or (f) or (5) of section 22) were transferred to the National Assembly for Wales by section 44 of the Higher Education Act 2004 and the Higher Education Act 2004 (Commencement No. 2 and Transitional Provision) (Wales) Order 2005 ([S.I. 2005/1833 (W.149) (C.79))](https://www.legislation.gov.uk/wsi/2005/1833) as amended by the Higher Education Act 2004 (Commencement No. 2 and Transitional Provision) (Wales) (Amendment) Order 2006 ([S.I. 2006/1660 (W.159) (C.56))](https://www.legislation.gov.uk/wsi/2006/1660). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of paragraphs 30(1) and 30(2)(c) of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-5342d92c5bc43a5511753edf74e5c294]: Modification: Regulations: functions made exercisable concurrently (31.8.2014) by [The Higher Education Funding Council for Wales (Supplementary Functions) Order 2014 (S.I. 2014/1464)](https://www.legislation.gov.uk/uksi/2014/1464), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1464/article/1/1), [2](https://www.legislation.gov.uk/uksi/2014/1464/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/1464/article/3))
+[^c-5342d92c5bc43a5511753edf74e5c294]: Modification: Regulations: functions made exercisable concurrently (31.8.2014) by [The Higher Education Funding Council for Wales (Supplementary Functions) Order 2014 (S.I. 2014/1464)](https://www.legislation.gov.uk/uksi/2014/1464), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1464/article/1/1), [2](https://www.legislation.gov.uk/uksi/2014/1464/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/1464/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. High Court's power to require preparation or review of sentencing guidelines[^key-1758ab18ce4d2a6e3d64f716c7aebbf1]
+## 8. High Court's power to require preparation or review of sentencing guidelines[^c-1758ab18ce4d2a6e3d64f716c7aebbf1]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1758ab18ce4d2a6e3d64f716c7aebbf1]: Commencement: S. 8 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-1758ab18ce4d2a6e3d64f716c7aebbf1]: Commencement: S. 8 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)

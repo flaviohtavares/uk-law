@@ -46,7 +46,7 @@ The Secretary of State has consulted with such representative organisations as a
 
 A draft of this Order has been approved by a resolution of each House of Parliament in accordance with section 90E(4) of the 1988 Act and section 8(4) of the 2004 Act.
 
-## 1. Citation, commencement and extent[^key-82bdafe36135d72e643f162f0b3793f9]
+## 1. Citation, commencement and extent[^c-82bdafe36135d72e643f162f0b3793f9]
 
 This Order—
 
@@ -54,7 +54,7 @@ This Order—
 - (b) comes into force on 31st October 2019 or the day after the day on which it is made, whichever is later; and
 - (c) extends to England and Wales and Scotland, except for article 2 which extends to England and Wales only.
 
-## 2. Conferral of further special powers on traffic officers[^key-bd5712c167b818f8eb89130e62fff070]
+## 2. Conferral of further special powers on traffic officers[^c-bd5712c167b818f8eb89130e62fff070]
 
 *Extent: E+W*
 
@@ -97,9 +97,9 @@ This Order—
 - “**special road**” has the meaning given in section 329(1) of the Highways Act 1980 [^c23914811];
 - “**traffic restriction period**” means a period of time when a restriction imposed by article 2(1) of the Heavy Commercial Vehicles in Kent (No. 3) Order 2019 [^c23914821] applies.
 
-(9)[^key-9a936dd619fe0a294083b8cc2b2f1d41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-9a936dd619fe0a294083b8cc2b2f1d41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Road Safety (Financial Penalty Deposit) (Appropriate Amount) Order 2009[^key-49a87728eb3c2d9f20c5df950065ee7a]
+## 3. Amendment of the Road Safety (Financial Penalty Deposit) (Appropriate Amount) Order 2009[^c-49a87728eb3c2d9f20c5df950065ee7a]
 
 (1) The Road Safety (Financial Penalty Deposit) (Appropriate Amount) Order 2009 [^c23914831] is amended as follows.
 
@@ -163,9 +163,9 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^c23914781]: Marginal citation: See section 1 (traffic officers: introduction) of the Traffic Management Act 2004.
 
-[^key-82bdafe36135d72e643f162f0b3793f9]: Commencement: Art. 1 in force at 31.10.2019, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
+[^c-82bdafe36135d72e643f162f0b3793f9]: Commencement: Art. 1 in force at 31.10.2019, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
 
-[^key-bd5712c167b818f8eb89130e62fff070]: Commencement: Art. 2 in force at 31.10.2019, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
+[^c-bd5712c167b818f8eb89130e62fff070]: Commencement: Art. 2 in force at 31.10.2019, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
 
 [^c23914791]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52); [section 66A](https://www.legislation.gov.uk/uksi/2019/1388/section/66A) was inserted by the [Road Traffic Act 1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), [section 9(1)](https://www.legislation.gov.uk/ukpga/1991/40/section/9/1), and amended by the [Goods Vehicles (Licensing of Operators) Act 1995 (c. 23)](https://www.legislation.gov.uk/ukpga/1995/23), [section 60(1)](https://www.legislation.gov.uk/ukpga/1995/23/section/60/1) and Schedule 7, paragraph 11.
 
@@ -175,8 +175,8 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^c23914821]: Marginal citation: [S.I. 2019/1210](https://www.legislation.gov.uk/uksi/2019/1210).
 
-[^key-9a936dd619fe0a294083b8cc2b2f1d41]: Textual amendment: [Art. 2(9)](https://www.legislation.gov.uk/uksi/2019/1388/article/2/9) omitted (31.10.2021) by virtue of [The Heavy Commercial Vehicles in Kent (No. 1) (Amendment) Order 2021 (S.I. 2021/1206)](https://www.legislation.gov.uk/uksi/2021/1206), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2021/1206/article/2/2)
+[^c-9a936dd619fe0a294083b8cc2b2f1d41]: Textual amendment: [Art. 2(9)](https://www.legislation.gov.uk/uksi/2019/1388/article/2/9) omitted (31.10.2021) by virtue of [The Heavy Commercial Vehicles in Kent (No. 1) (Amendment) Order 2021 (S.I. 2021/1206)](https://www.legislation.gov.uk/uksi/2021/1206), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2021/1206/article/2/2)
 
-[^key-49a87728eb3c2d9f20c5df950065ee7a]: Commencement: Art. 3 in force at 31.10.2019, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
+[^c-49a87728eb3c2d9f20c5df950065ee7a]: Commencement: Art. 3 in force at 31.10.2019, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
 
 [^c23914831]: Marginal citation: [S.I. 2009/492](https://www.legislation.gov.uk/uksi/2009/492), amended by [S.I. 2018/1233](https://www.legislation.gov.uk/uksi/2018/1233); there are other amending instruments but none is relevant.

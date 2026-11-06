@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Prohibition on interference with support or shelter etc.[^key-bedd8f073335d0ae0e40ad7f24af3ab2]
+## 9. Prohibition on interference with support or shelter etc.[^c-bedd8f073335d0ae0e40ad7f24af3ab2]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bedd8f073335d0ae0e40ad7f24af3ab2]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2004/11/section/9) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)
+[^c-bedd8f073335d0ae0e40ad7f24af3ab2]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2004/11/section/9) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)

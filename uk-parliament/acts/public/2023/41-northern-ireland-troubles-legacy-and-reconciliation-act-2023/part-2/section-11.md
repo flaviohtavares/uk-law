@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Requests for reviews: general provision[^key-3f19b577c18957b18ecb4b5b5ecd1183][^key-46b526b8c7e0671a3495e072357be521]
+## 11. Requests for reviews: general provision[^c-3f19b577c18957b18ecb4b5b5ecd1183][^c-46b526b8c7e0671a3495e072357be521]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ the Commissioner for Investigations is to decide how that request is to be dealt
 
 ## Annotations
 
-[^key-3f19b577c18957b18ecb4b5b5ecd1183]: Commencement: S. 11 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-3f19b577c18957b18ecb4b5b5ecd1183]: Commencement: S. 11 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-46b526b8c7e0671a3495e072357be521]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/41/section/11) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/h) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-46b526b8c7e0671a3495e072357be521]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/41/section/11) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/h) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

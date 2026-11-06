@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Sections 87 and 88: supplementary[^key-d4996ff5c513d4071a2bd33388a6fcd2]
+## 89. Sections 87 and 88: supplementary[^c-d4996ff5c513d4071a2bd33388a6fcd2]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4996ff5c513d4071a2bd33388a6fcd2]: Commencement: S. 89 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-d4996ff5c513d4071a2bd33388a6fcd2]: Commencement: S. 89 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))

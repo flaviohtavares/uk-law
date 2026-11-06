@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Sexual harm prevention orders and sexual risk orders, etc[^key-9eea4964ec9f53818580ed64b723bf4f]
+## 113. Sexual harm prevention orders and sexual risk orders, etc[^c-9eea4964ec9f53818580ed64b723bf4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9eea4964ec9f53818580ed64b723bf4f]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2014/12/section/113) in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/373/article/2/a)
+[^c-9eea4964ec9f53818580ed64b723bf4f]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2014/12/section/113) in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/373/article/2/a)

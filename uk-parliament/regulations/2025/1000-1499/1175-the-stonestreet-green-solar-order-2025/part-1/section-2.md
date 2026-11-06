@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-c29875ec7753c809c04d7c284b0eda59]
+## 2. Interpretation[^c-c29875ec7753c809c04d7c284b0eda59]
 
 *Extent: E+W+S*
 
@@ -50,7 +50,7 @@ summary: ''
 - “**crown land plans**” means the document of that name identified in the table in Schedule 14 (documents and plans to be certified) and which is certified as such by the Secretary of State for the purposes of this Order in accordance with article 41 (certification of plans, etc.);
 - “**CTMP**” means a construction traffic management plan;
 - “**cycle track**” has the same meaning as in section 329 (further provision as to interpretation) of the 1980 Act;
-- “**cycleway**” means a way constituting or comprised in a highway, being a way over which the public have the following, but no other, rights of way, that is to say, a right of way on pedal cycles (other than pedal cycles which are motor vehicles within the meaning of the Road Traffic Act 1988[^f00023])[^key-d3100904f49842cbb61fe3c59ad5dd08]with a right of way on foot and a right of way on horseback or leading a horse;
+- “**cycleway**” means a way constituting or comprised in a highway, being a way over which the public have the following, but no other, rights of way, that is to say, a right of way on pedal cycles (other than pedal cycles which are motor vehicles within the meaning of the Road Traffic Act 1988[^f00023])[^c-d3100904f49842cbb61fe3c59ad5dd08]with a right of way on foot and a right of way on horseback or leading a horse;
 - “**DC**” means direct current;
 - “**DC-DC converters**” means electrical infrastructure to allow communication and transmission of electricity between the inverters and the BESS;
 - “**DEMP**” means a decommissioning environmental management plan;
@@ -74,7 +74,7 @@ summary: ''
 - “**local planning authority**” means the local planning authority for the borough of Ashford;
 - “**maintain**” includes inspect, upkeep, repair, refurbish, adjust, alter, remove, reconstruct and replace in relation to the authorised development, provided such works do not give rise to any materially new or materially different environmental effects to those identified in the environmental statement; and any derivative of “maintain” must be construed accordingly;
 - “**mounting structure**” means a frame or rack used to host the solar PV panels, and “mounting structures” shall be interpreted accordingly;
-- “**National Grid**” means National Grid Electricity Transmission plc, company number 02366977[^key-a95ebb02c8a8339197a78cb65c60f160], whose registered office is at 1-3 Strand, London, WC2N 5EH, being a licence holder within the meaning of Part 1 of the 1989 Act;
+- “**National Grid**” means National Grid Electricity Transmission plc, company number 02366977[^c-a95ebb02c8a8339197a78cb65c60f160], whose registered office is at 1-3 Strand, London, WC2N 5EH, being a licence holder within the meaning of Part 1 of the 1989 Act;
 - “**Network Rail**” means Network Rail Infrastructure Limited (company number 02904587, whose registered office is at Waterloo General Office, London, SE1 8SW) and any associated company of Network Rail Infrastructure Limited which holds property for railway purposes, and for the purpose of this definition “**associated company**” means any company which is (within the meaning of section 1159 of the Companies Act 2006) the holding company of Network Rail Infrastructure Limited, a subsidiary of Network Rail Infrastructure Limited or another subsidiary of the holding company of Network Rail Infrastructure Limited and any successor to Network Rail Infrastructure Limited’s railway undertaking;
 - “**OMP**” means an operational management plan;
 - “**ONMMS**” means an operational noise mitigation and monitoring scheme;
@@ -142,7 +142,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c29875ec7753c809c04d7c284b0eda59]: Commencement: Art. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-c29875ec7753c809c04d7c284b0eda59]: Commencement: Art. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
 [^f00012]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -168,9 +168,9 @@ summary: ''
 
 [^f00023]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-d3100904f49842cbb61fe3c59ad5dd08]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1175/article/2/1): bracket inserted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
+[^c-d3100904f49842cbb61fe3c59ad5dd08]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1175/article/2/1): bracket inserted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
 
-[^key-a95ebb02c8a8339197a78cb65c60f160]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1175/article/2/1) substituted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
+[^c-a95ebb02c8a8339197a78cb65c60f160]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1175/article/2/1) substituted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
 
 [^f00024]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 

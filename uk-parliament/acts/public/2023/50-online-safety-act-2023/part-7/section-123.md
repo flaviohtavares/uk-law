@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Warning notices[^key-a139a5c4e119c5755b1aadc67a211523][^key-dcd20099833f88fe575c4f44a1d2b52b]
+## 123. Warning notices[^c-a139a5c4e119c5755b1aadc67a211523][^c-dcd20099833f88fe575c4f44a1d2b52b]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a139a5c4e119c5755b1aadc67a211523]: Commencement: S. 123 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-a139a5c4e119c5755b1aadc67a211523]: Commencement: S. 123 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-dcd20099833f88fe575c4f44a1d2b52b]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2023/50/section/123) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)
+[^c-dcd20099833f88fe575c4f44a1d2b52b]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2023/50/section/123) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)

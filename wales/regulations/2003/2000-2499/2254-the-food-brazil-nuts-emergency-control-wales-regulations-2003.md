@@ -53,7 +53,7 @@ The National Assembly for Wales, being designated [^c5186731] for the purposes o
 
 - “**the Act**” (“***y Ddeddf***”) means the Food Safety Act 1990 [^c5186751] and, save where the context otherwise requires and subject to paragraph (2), any expression used both in these Regulations and in the Act has the meaning it bears in the Act;
 - “**Brazil nuts**” (“***cnau Brasil***”) means Brazil nuts in shell falling within CN code 0801 21 00 originating in or consigned from Brazil [^c5186761];
-- “the Commission Decision” (“[^key-ced2730cde1faf9fd5b855cbf1138b8c]*Penderfyniad y Comisiwn*”) means Commission Decision [2003/493/EC](https://www.legislation.gov.uk/eud/2003/493) imposing special conditions on the import of Brazil nuts in shell originating in or consigned from Brazil as amended by Commission Decision [2004/428/EC](https://www.legislation.gov.uk/eud/2004/428) amending Decision [2003/493/EC](https://www.legislation.gov.uk/eud/2003/493) as regards the points of entry through which Brazil nuts in shell originating in or consigned from Brazil may only be imported into the Community;
+- “the Commission Decision” (“[^c-ced2730cde1faf9fd5b855cbf1138b8c]*Penderfyniad y Comisiwn*”) means Commission Decision [2003/493/EC](https://www.legislation.gov.uk/eud/2003/493) imposing special conditions on the import of Brazil nuts in shell originating in or consigned from Brazil as amended by Commission Decision [2004/428/EC](https://www.legislation.gov.uk/eud/2004/428) amending Decision [2003/493/EC](https://www.legislation.gov.uk/eud/2003/493) as regards the points of entry through which Brazil nuts in shell originating in or consigned from Brazil may only be imported into the Community;
 - “**Directive [98/53/EC](https://www.legislation.gov.uk/eudr/1998/53)**” (“***Cyfarwyddeb [98/53/EC](https://www.legislation.gov.uk/eudr/1998/53)***”) means Commission Directive [98/53/EC](https://www.legislation.gov.uk/eudr/1998/53) laying down the sampling methods and the methods of analysis for the official control of the levels for certain contaminants in foodstuffs [^c5186781] as amended by Commission Decision [2002/27/EC](https://www.legislation.gov.uk/eud/2002/27) [^c5186791];
 - “**food authority**” (“***awdurdod bwyd***”) has the same meaning as in section 5(1A) and (3)(a) and (b) of the Act;
 - “**free circulation**” (“***cylchrediad rhydd***”) has the same meaning as in Article 23.2, as read with Article 24, of the Treaty establishing the European Community; and
@@ -147,7 +147,7 @@ shall be sufficient evidence of the facts stated in it unless, in a case falling
 
 ## 6. Re-dispatch or destruction of illegal imports
 
-(1)[^key-432fe075121442d256e21ed2cf9fcc23] If on an inspection or examination of any Brazil nuts it appears to an authorised officer of a port health authority or as the case may be food authority that they do not comply with the maximum levels for aflatoxin B1 and aflatoxin total established by Commission Regulation [(EC) No. 466/2001](https://www.legislation.gov.uk/eur/2001/466) setting maximum levels for certain contaminants in foodstuffs the authorised officer may after appropriate consultation with a person appearing to the authorised officer to be the importer serve on that person a notice ordering —
+(1)[^c-432fe075121442d256e21ed2cf9fcc23] If on an inspection or examination of any Brazil nuts it appears to an authorised officer of a port health authority or as the case may be food authority that they do not comply with the maximum levels for aflatoxin B1 and aflatoxin total established by Commission Regulation [(EC) No. 466/2001](https://www.legislation.gov.uk/eur/2001/466) setting maximum levels for certain contaminants in foodstuffs the authorised officer may after appropriate consultation with a person appearing to the authorised officer to be the importer serve on that person a notice ordering —
 
 - (a) the re-dispatch of the Brazil nuts to the country of origin within such reasonable period as shall be specified in the notice, but only if the conditions specified in points (a) to (c) of Article 6 of the Commission Decision are complied with; or
 - (b) (where those conditions are not complied with) the destruction of the Brazil nuts within such reasonable period as shall be so specified.
@@ -157,7 +157,7 @@ shall be sufficient evidence of the facts stated in it unless, in a case falling
 - (a) the right of appeal to a magistrates' court; and
 - (b) the period within which such an appeal may be brought.
 
-(3) Any person who is aggrieved by a decision of an authorised officer to serve a notice under paragraph (1) may appeal to a magistrates' court, which shall determine whether or not the notice should be upheld or set aside[^key-fa0fa6a2c35165f81671e954a42b7c0e].
+(3) Any person who is aggrieved by a decision of an authorised officer to serve a notice under paragraph (1) may appeal to a magistrates' court, which shall determine whether or not the notice should be upheld or set aside[^c-fa0fa6a2c35165f81671e954a42b7c0e].
 
 (4) The period within which such an appeal as is mentioned in paragraph (3) may be brought shall be 6 days from the date on which the notice was served exclusive of Saturdays, Sundays and Public Holidays and the making of the complaint shall be deemed for the purpose of this paragraph to be the bringing of the appeal.
 
@@ -209,7 +209,7 @@ No regulatory appraisal has been prepared in relation to these Regulations.
 
 [^c5186761]: Marginal citation: CN Code is the code number of the “combined nomenclature” established by Council Regulation 2658/87 on the tariff and statistical nomenclature and on the customs tariff (OJ No. L256, 7.9.87, p.1).
 
-[^key-ced2730cde1faf9fd5b855cbf1138b8c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2003/2254/regulation/2/1) substituted (31.7.2004) by [The Food (Emergency Control) (Wales) (Miscellaneous Amendments) (No. 2) Regulations 2004 (S.I. 2004/1804)](https://www.legislation.gov.uk/wsi/2004/1804), [regs. 1](https://www.legislation.gov.uk/wsi/2004/1804/regulation/1), [4](https://www.legislation.gov.uk/wsi/2004/1804/regulation/4)
+[^c-ced2730cde1faf9fd5b855cbf1138b8c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2003/2254/regulation/2/1) substituted (31.7.2004) by [The Food (Emergency Control) (Wales) (Miscellaneous Amendments) (No. 2) Regulations 2004 (S.I. 2004/1804)](https://www.legislation.gov.uk/wsi/2004/1804), [regs. 1](https://www.legislation.gov.uk/wsi/2004/1804/regulation/1), [4](https://www.legislation.gov.uk/wsi/2004/1804/regulation/4)
 
 [^c5186781]: Marginal citation: OJ No. L201, 17.7.1998, p.93.
 
@@ -221,9 +221,9 @@ No regulatory appraisal has been prepared in relation to these Regulations.
 
 [^c5186821]: Marginal citation: OJ No. L372, 31.12.85, p.50.
 
-[^key-432fe075121442d256e21ed2cf9fcc23]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/wsi/2003/2254/regulation/6/1)[(2)](https://www.legislation.gov.uk/wsi/2003/2254/regulation/6/2) substituted (8.2.2004) by [The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (S.I. 2004/245)](https://www.legislation.gov.uk/wsi/2004/245), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/245/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2004/245/regulation/2/2)
+[^c-432fe075121442d256e21ed2cf9fcc23]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/wsi/2003/2254/regulation/6/1)[(2)](https://www.legislation.gov.uk/wsi/2003/2254/regulation/6/2) substituted (8.2.2004) by [The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (S.I. 2004/245)](https://www.legislation.gov.uk/wsi/2004/245), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/245/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2004/245/regulation/2/2)
 
-[^key-fa0fa6a2c35165f81671e954a42b7c0e]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/wsi/2003/2254/regulation/6/3) substituted (8.2.2004) by [The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (S.I. 2004/245)](https://www.legislation.gov.uk/wsi/2004/245), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/245/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2004/245/regulation/2/3)
+[^c-fa0fa6a2c35165f81671e954a42b7c0e]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/wsi/2003/2254/regulation/6/3) substituted (8.2.2004) by [The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (S.I. 2004/245)](https://www.legislation.gov.uk/wsi/2004/245), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/245/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2004/245/regulation/2/3)
 
 [^c5186831]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

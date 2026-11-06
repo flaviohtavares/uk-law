@@ -95,7 +95,7 @@ An Act to consolidate the Medical Acts 1956 to 1978 and certain related provisio
 - [Section 28 — The Review Board for Overseas Qualified Practitioners.](part-iii/section-28.md)
 - [Section 29 — Functions of the Review Board.](part-iii/section-29.md)
 
-### PART IIIA — LICENCE TO PRACTISE AND REVALIDATION[^key-089e07199dbb8215c7c42d5015c5b9e4]
+### PART IIIA — LICENCE TO PRACTISE AND REVALIDATION[^c-089e07199dbb8215c7c42d5015c5b9e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -140,7 +140,7 @@ An Act to consolidate the Medical Acts 1956 to 1978 and certain related provisio
 - [Section 34A — Proof of registration](part-iv/section-34a.md)
 - [Section 34B — Registration and training appeals](part-iv/section-34b.md)
 
-### PART 4A — POSTGRADUATE MEDICAL EDUCATION AND TRAINING[^key-9a57fee46fdfa0d193ec4e7f087225b8]
+### PART 4A — POSTGRADUATE MEDICAL EDUCATION AND TRAINING[^c-9a57fee46fdfa0d193ec4e7f087225b8]
 
 - [Section 34C — The General Practitioner Register](part-4a/section-34c.md)
 - [Section 34D — The Specialist Register](part-4a/section-34d.md)
@@ -156,7 +156,7 @@ An Act to consolidate the Medical Acts 1956 to 1978 and certain related provisio
 - [Section 34N — Power to require information](part-4a/section-34n.md)
 - [Section 34O — Fees](part-4a/section-34o.md)
 
-### Part V — Fitness to Practise and Medical Ethics[^key-7788b796b861cfe6b41c3c4c54e63682]
+### Part V — Fitness to Practise and Medical Ethics[^c-7788b796b861cfe6b41c3c4c54e63682]
 
 *Extent: E+W+S+N.I.*
 
@@ -189,7 +189,7 @@ An Act to consolidate the Medical Acts 1956 to 1978 and certain related provisio
 - [Section 44D — Approved practice settings](part-v/section-44d.md)
 - [Section 45 — Disciplinary provisions affecting practitioners who render services while visiting the United Kingdom](part-v/section-45.md)
 
-### Part 5A — Responsible Officers[^key-3ae8ad4d765c2c18509b88750dd18d80]
+### Part 5A — Responsible Officers[^c-3ae8ad4d765c2c18509b88750dd18d80]
 
 *Extent: E+W+S+N.I.*
 
@@ -246,10 +246,10 @@ SCHEDULES
 
 [^c13413201]: Modification: Act: power to modify conferred (15.3.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 60(1)(2)(a)(4)](https://www.legislation.gov.uk/ukpga/1999/8/section/60/1/2/a/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/8/schedule/3); [S.I. 2000/779](https://www.legislation.gov.uk/uksi/2000/779), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/779/article/2/1)
 
-[^key-089e07199dbb8215c7c42d5015c5b9e4]: Textual amendment: Pt. 3A inserted (17.12.2002 for s. 29G(1)(a)(2)(3), 8.9.2009 for the insertion of ss. 29A, 29B, 29D, 29E, 29G, 29J for specified purposes and specified headings as notified in the London Gazette dated 21.8.2009, 16.11.2009 for the insertion of ss. 29B, 29D, 29E for specified purposes and for the insertion of ss. 29F, 29H as notified in the London Gazette dated 21.8.2009, 3.12.2012 for the insertion of ss. 29A(4)(d), 29C, 29E(2)(b)(4)(a), 29J(1)(a) in so far as not already in force as notified in the London Gazette dated 2.11.2012) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [arts. 1(2)(g)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2/g), [10](https://www.legislation.gov.uk/uksi/2002/3135/article/10) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
+[^c-089e07199dbb8215c7c42d5015c5b9e4]: Textual amendment: Pt. 3A inserted (17.12.2002 for s. 29G(1)(a)(2)(3), 8.9.2009 for the insertion of ss. 29A, 29B, 29D, 29E, 29G, 29J for specified purposes and specified headings as notified in the London Gazette dated 21.8.2009, 16.11.2009 for the insertion of ss. 29B, 29D, 29E for specified purposes and for the insertion of ss. 29F, 29H as notified in the London Gazette dated 21.8.2009, 3.12.2012 for the insertion of ss. 29A(4)(d), 29C, 29E(2)(b)(4)(a), 29J(1)(a) in so far as not already in force as notified in the London Gazette dated 2.11.2012) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [arts. 1(2)(g)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2/g), [10](https://www.legislation.gov.uk/uksi/2002/3135/article/10) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
 
-[^key-9a57fee46fdfa0d193ec4e7f087225b8]: Textual amendment: Pt. 4A inserted (11.2.2010 for specified purposes, 1.4.2010 in so far as not already in force) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/234/schedule/1/paragraph/10); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-9a57fee46fdfa0d193ec4e7f087225b8]: Textual amendment: Pt. 4A inserted (11.2.2010 for specified purposes, 1.4.2010 in so far as not already in force) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/234/schedule/1/paragraph/10); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
-[^key-7788b796b861cfe6b41c3c4c54e63682]: Textual amendment: Pt. V substituted (1.7.2003 for the substitution of s. 41A(2)(a) and Pt. V heading for specified purposes as notified in the London Gazette dated 1.7.2003, 7.7.2004 for the substitution of s. 35CC(1) as notified in the London Gazette dated 2.7.2004, 1.11.2004 in so far as not already in force except for the substitution of ss. 41(7)(8), 41C, 44(4), 44A(3) as notified in the London Gazette dated 8.10.2004, 16.11.2009 for the insertion of s. 41C as notified in the London Gazette dated 21.8.2009) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [13](https://www.legislation.gov.uk/uksi/2002/3135/article/13) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
+[^c-7788b796b861cfe6b41c3c4c54e63682]: Textual amendment: Pt. V substituted (1.7.2003 for the substitution of s. 41A(2)(a) and Pt. V heading for specified purposes as notified in the London Gazette dated 1.7.2003, 7.7.2004 for the substitution of s. 35CC(1) as notified in the London Gazette dated 2.7.2004, 1.11.2004 in so far as not already in force except for the substitution of ss. 41(7)(8), 41C, 44(4), 44A(3) as notified in the London Gazette dated 8.10.2004, 16.11.2009 for the insertion of s. 41C as notified in the London Gazette dated 21.8.2009) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [13](https://www.legislation.gov.uk/uksi/2002/3135/article/13) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
 
-[^key-3ae8ad4d765c2c18509b88750dd18d80]: Textual amendment: Pt. 5A inserted (21.7.2008 for specified purposes, 1.4.2010 for E.W.S.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 119](https://www.legislation.gov.uk/ukpga/2008/14/section/119), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/708/article/3/a)
+[^c-3ae8ad4d765c2c18509b88750dd18d80]: Textual amendment: Pt. 5A inserted (21.7.2008 for specified purposes, 1.4.2010 for E.W.S.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 119](https://www.legislation.gov.uk/ukpga/2008/14/section/119), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/708/article/3/a)

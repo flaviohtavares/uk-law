@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Penalties[^key-b4622270e3187e2d3adf92582fa9b6b8]
+## 133. Penalties[^c-b4622270e3187e2d3adf92582fa9b6b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person who is guilty of an offence under any of regulations 124 to 132 is liab
 
 ## Annotations
 
-[^key-b4622270e3187e2d3adf92582fa9b6b8]: Commencement: Reg. 133 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-b4622270e3187e2d3adf92582fa9b6b8]: Commencement: Reg. 133 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

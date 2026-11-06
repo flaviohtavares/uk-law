@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. National Smart Ticketing Advisory Board[^key-f2d375404d3a3b3cd487924cc1374fb2]
+## 43. National Smart Ticketing Advisory Board[^c-f2d375404d3a3b3cd487924cc1374fb2]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2d375404d3a3b3cd487924cc1374fb2]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2019/17/section/43) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-f2d375404d3a3b3cd487924cc1374fb2]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2019/17/section/43) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

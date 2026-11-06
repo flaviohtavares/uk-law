@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Power to inform public about compliance failures[^key-b813bcb59352da593b47e8983d98b191][^key-6b690d2b14076f2967fc7656cde547a3]
+## 45. Power to inform public about compliance failures[^c-b813bcb59352da593b47e8983d98b191][^c-6b690d2b14076f2967fc7656cde547a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b813bcb59352da593b47e8983d98b191]: Commencement: S. 45 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-b813bcb59352da593b47e8983d98b191]: Commencement: S. 45 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-6b690d2b14076f2967fc7656cde547a3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/46/section/45) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-6b690d2b14076f2967fc7656cde547a3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/46/section/45) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

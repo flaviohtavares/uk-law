@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Determination of the amount of benefit conferred[^key-eeb6457322b786616204ef644fe51435]
+## 24. Determination of the amount of benefit conferred[^c-eeb6457322b786616204ef644fe51435]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eeb6457322b786616204ef644fe51435]: Commencement: Reg. 24 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-eeb6457322b786616204ef644fe51435]: Commencement: Reg. 24 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

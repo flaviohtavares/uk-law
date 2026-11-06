@@ -48,11 +48,11 @@ The Department of Enterprise, Trade and Investment, in exercise of the powers co
 
 ## PART I — CITATION, COMMENCEMENT AND INTERPRETATION
 
-### 1. Citation and commencement[^key-9c44dbb889407cb360403108bb725070]
+### 1. Citation and commencement[^c-9c44dbb889407cb360403108bb725070]
 
 These Regulations may be cited as the Limited Liability Partnerships Regulations (Northern Ireland) 2004 and shall come into operation on 13th September 2004.
 
-### 2. Interpretation[^key-0781d7d78ad7dfb49d8cf470c21dac8f]
+### 2. Interpretation[^c-0781d7d78ad7dfb49d8cf470c21dac8f]
 
 In these Regulations –
 
@@ -65,7 +65,7 @@ In these Regulations –
 
 ## PART II — ACCOUNTS AND AUDIT
 
-### 3. Application of the accounts and audit provisions of the 1986 Order to limited liability partnerships[^key-3d364d9b925f17873aabbcb263b24590]
+### 3. Application of the accounts and audit provisions of the 1986 Order to limited liability partnerships[^c-3d364d9b925f17873aabbcb263b24590]
 
 (1) Subject to paragraph (2), the provisions of Part VIII of the 1986 Order (Accounts and Audit)[^f00005] shall apply to limited liability partnerships.
 
@@ -79,7 +79,7 @@ In these Regulations –
 
 ## PART III — COMPANIES (NORTHERN IRELAND) ORDER 1986 AND COMPANY DIRECTORS DISQUALIFICATION (NORTHERN IRELAND) ORDER 2002
 
-### 4. Application of the remainder of the provisions of the 1986 Order and of the Company Directors Disqualification (Northern Ireland) Order 2002 to limited liability partnerships[^key-2d4fb3ce08f4b365d868cb24a43d0766]
+### 4. Application of the remainder of the provisions of the 1986 Order and of the Company Directors Disqualification (Northern Ireland) Order 2002 to limited liability partnerships[^c-2d4fb3ce08f4b365d868cb24a43d0766]
 
 (1) The provisions of the 1986 Order specified in the first column of Part I of Schedule 2 shall apply to limited liability partnerships, except where the context otherwise requires, with the following modifications –
 
@@ -106,7 +106,7 @@ In these Regulations –
 
 ## PART IV — WINDING UP AND INSOLVENCY
 
-### 5. Application of the 1986 Order to limited liability partnerships[^key-a38fb0d60c016484959c9a83092830fb]
+### 5. Application of the 1986 Order to limited liability partnerships[^c-a38fb0d60c016484959c9a83092830fb]
 
 (1) Subject to paragraph (2), Parts I to V, VII and XI to XIV of the 1986 Order shall apply to limited liability partnerships.
 
@@ -122,7 +122,7 @@ In these Regulations –
 
 ## PART V — FINANCIAL SERVICES AND MARKETS
 
-### 6. Application of provisions contained in Parts XV and XXIV of the 2000 Act to limited liability partnerships[^key-19f669aaea7271135c6cb88e8dc8d72e]
+### 6. Application of provisions contained in Parts XV and XXIV of the 2000 Act to limited liability partnerships[^c-19f669aaea7271135c6cb88e8dc8d72e]
 
 (1) Subject to paragraph (2), sections 215(3), (4) and (6), 356, 359(1) to (4), 361 to 365, 367, 370 and 371 of the 2000 Act shall apply to limited liability partnerships.
 
@@ -134,7 +134,7 @@ In these Regulations –
 
 ## PART VI — DEFAULT PROVISION AND EXPULSION
 
-### 7. Default provision for limited liability partnerships[^key-fe5a62a79a347de06afc0ea542a26c14]
+### 7. Default provision for limited liability partnerships[^c-fe5a62a79a347de06afc0ea542a26c14]
 
 The mutual rights and duties of the members and the mutual rights and duties of the limited liability partnership and the members shall be determined, subject to the provisions of the general law and to the terms of any limited liability partnership agreement, by the following rules:
 
@@ -161,17 +161,17 @@ The mutual rights and duties of the members and the mutual rights and duties of 
 
 (10) Every member must account to the limited liability partnership for any benefit derived by him without the consent of the limited liability partnership from any transaction concerning the limited liability partnership, or from any use by him of the property of the limited liability partnership, name or business connection.
 
-### 8. Expulsion[^key-0450135e416059eeaf2239d37489942e]
+### 8. Expulsion[^c-0450135e416059eeaf2239d37489942e]
 
 No majority of the members can expel any member unless a power to do so has been conferred by express agreement between the members.
 
 ## PART VII — MISCELLANEOUS
 
-### 9. General and consequential amendments[^key-e20816dc4917a5f56a3e63c631168991]
+### 9. General and consequential amendments[^c-e20816dc4917a5f56a3e63c631168991]
 
 The statutory provisions mentioned in Schedule 4 shall have effect subject to the amendments specified in that Schedule.
 
-### 10. Application of subordinate legislation[^key-240e402bb3279fb5b46063c7da656f6a]
+### 10. Application of subordinate legislation[^c-240e402bb3279fb5b46063c7da656f6a]
 
 (1) The subordinate legislation specified in Schedule 5 shall apply to limited liability partnerships and –
 
@@ -189,7 +189,7 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE 1 — MODIFICATIONS TO PROVISIONS OF PART VIII OF THE 1986 ORDER APPLIED BY THESE REGULATIONS[^key-64a7b07eb127f83a6625afff2b60cbe2]
+## SCHEDULE 1 — MODIFICATIONS TO PROVISIONS OF PART VIII OF THE 1986 ORDER APPLIED BY THESE REGULATIONS[^c-64a7b07eb127f83a6625afff2b60cbe2]
 
 Regulation 3
 
@@ -378,7 +378,7 @@ Regulation 3
 
 Regulation 4
 
-### PART I — modifications to provisions of the 1986 order applied to limited liability partnerships[^key-184eaf67ae34c660c27936f09644d693]
+### PART I — modifications to provisions of the 1986 order applied to limited liability partnerships[^c-184eaf67ae34c660c27936f09644d693]
 
 <table>
 <thead>
@@ -620,7 +620,7 @@ Regulation 4
 
 [^f00072][^f00073][^f00074][^f00075][^f00076][^f00077][^f00078][^f00079][^f00080][^f00081][^f00082][^f00083][^f00084][^f00085][^f00086][^f00087][^f00088][^f00089][^f00090][^f00091][^f00092][^f00093][^f00094][^f00095][^f00096][^f00097][^f00098][^f00099][^f00100][^f00101][^f00102][^f00103][^f00104][^f00105][^f00106][^f00107][^f00108][^f00109][^f00110][^f00111][^f00112][^f00113][^f00114][^f00115][^f00116][^f00117][^f00118][^f00119][^f00120][^f00121][^f00122][^f00123][^f00124][^f00125][^f00126][^f00127][^f00128][^f00129][^f00130][^f00131][^f00132][^f00133][^f00134][^f00135][^f00136][^f00137][^f00138][^f00139][^f00140][^f00141][^f00142][^f00143][^f00144][^f00145][^f00146][^f00147][^f00148][^f00149][^f00150][^f00151][^f00152][^f00153][^f00154][^f00155][^f00156][^f00157]
 
-### PART II — modifications to the company directors disqualification (northern ireland) order 2002[^key-8b484fd0dad33c1569fd85e257e67d51]
+### PART II — modifications to the company directors disqualification (northern ireland) order 2002[^c-8b484fd0dad33c1569fd85e257e67d51]
 
 | Provisions | Modifications |
 | --- | --- |
@@ -628,7 +628,7 @@ Regulation 4
 | Part I of Schedule 1 | Omit paragraphs 6 and 7. |
 | Part II of Schedule 1 | After paragraph 10 insert –<br>> **10A.** The extent of the member’s and shadow member’s responsibility for events leading to a member or shadow member, whether himself or some other member or shadow member, being declared by the court to be liable to make a contribution to the assets of the limited liability partnership under Article 178A of the Insolvency (Northern Ireland) Order 1989.<br>. |
 
-## SCHEDULE 3 — MODIFICATIONS TO THE 1989 ORDER[^key-061b151ef86732a99274c3c3fc0bd4a5]
+## SCHEDULE 3 — MODIFICATIONS TO THE 1989 ORDER[^c-061b151ef86732a99274c3c3fc0bd4a5]
 
 Regulation 5
 
@@ -932,11 +932,11 @@ Regulation 9
 
 ### The Bills of Sale (Ireland) Act (1879) Amendment Act [1883 c. 7](https://www.legislation.gov.uk/ukpga/1883/7)
 
-**1.**[^key-5da7cdff43eab7a485c368892d5a90f1] In section 17, after “incorporated company” insert “or by any limited liability partnership” and after “such company” insert “or a limited liability partnership”.
+**1.**[^c-5da7cdff43eab7a485c368892d5a90f1] In section 17, after “incorporated company” insert “or by any limited liability partnership” and after “such company” insert “or a limited liability partnership”.
 
 ### The Third Parties (Rights Against Insurers) Act (Northern Ireland) [1930 c. 19 (N.I.)](https://www.legislation.gov.uk/apni/1930/19)
 
-**2.**[^key-320355bad30cd0e1e11a41b661a4da61] After section 3, insert –
+**2.**[^c-320355bad30cd0e1e11a41b661a4da61] After section 3, insert –
 
 > **3A. Application to limited liability partnerships**
 >
@@ -948,7 +948,7 @@ Regulation 9
 
 ### The Criminal Justice (Miscellaneous Provisions) Act (Northern Ireland) [1968 c. 28 (N.I.)](https://www.legislation.gov.uk/apni/1968/28)
 
-**3.**[^key-a5a188b9157d08ed7943178257362df7] In section 1(8)(d), insert at the end –
+**3.**[^c-a5a188b9157d08ed7943178257362df7] In section 1(8)(d), insert at the end –
 
 > ; and in this paragraph references to the secretary, in relation to a limited liability partnership, are to any designated member of the limited liability partnership.
 
@@ -956,19 +956,19 @@ Regulation 9
 
 ### Solicitors (Northern Ireland) Order 1976 (N.I. 12)
 
-**4.**[^key-0f1305756a1b81a10742fbaf5ad0284a] In Article 3(2), after the definition of “notice”, insert –
+**4.**[^c-0f1305756a1b81a10742fbaf5ad0284a] In Article 3(2), after the definition of “notice”, insert –
 
 > - “officer”, in relation to a limited liability partnership, means a member of the limited liability partnership;
 
 .
 
-**5.**[^key-adc7aacece7f1e4ce5b201bf603373b0] In Article 26A(9) insert at the end –
+**5.**[^c-adc7aacece7f1e4ce5b201bf603373b0] In Article 26A(9) insert at the end –
 
 > and “officer”, in relation to a limited liability partnership, means a member of the limited liability partnership
 
 .
 
-**6.**[^key-f7170e61e49da805ab800d66fb90105d] In paragraph 1(3) of Schedule 1A, insert at the end –
+**6.**[^c-f7170e61e49da805ab800d66fb90105d] In paragraph 1(3) of Schedule 1A, insert at the end –
 
 > and references in this Schedule to a director, in relation to a limited liability partnership, are references to a member of the limited liability partnership
 
@@ -976,7 +976,7 @@ Regulation 9
 
 ### Sex Discrimination (Northern Ireland) Order 1976 (N.I. 15)
 
-**7.**[^key-3825f50fb7cb1d11e31fcb6a9ab0d5e9] In Article 14, insert at the end –
+**7.**[^c-3825f50fb7cb1d11e31fcb6a9ab0d5e9] In Article 14, insert at the end –
 
 > (6) This Article applies to a limited liability partnership as it applies to a firm; and, in its application to a limited liability partnership, references to a partner in a firm are references to a member of the limited liability partnership.
 
@@ -984,7 +984,7 @@ Regulation 9
 
 ### The Betting and Gaming Duties Act [1981 c. 63](https://www.legislation.gov.uk/ukpga/1981/63)
 
-**8.**[^key-1d8ad94fe1865e49ea560785e68143eb] After section 32, insert –
+**8.**[^c-1d8ad94fe1865e49ea560785e68143eb] After section 32, insert –
 
 > **32A. Application to limited liability partnerships**
 >
@@ -996,7 +996,7 @@ Regulation 9
 
 ### Companies (Northern Ireland) Order 1986 (N.I. 6)
 
-**9.**[^key-9eb4ce83ed6ce0dcc88d61755a5424ea] In Article 36[^f00189], in paragraph (1), after sub-paragraph (bb) insert –
+**9.**[^c-9eb4ce83ed6ce0dcc88d61755a5424ea] In Article 36[^f00189], in paragraph (1), after sub-paragraph (bb) insert –
 
 > - (bbb) which includes, at any place in the name, the expression “limited liability partnership”;
 
@@ -1004,13 +1004,13 @@ Regulation 9
 
 ### Business Names (Northern Ireland) Order 1986 (N.I. 7)
 
-**10.**[^key-76defd4105370e7bb7dc277c88a7cc57] In Article 3, in paragraph (1), insert at the end –
+**10.**[^c-76defd4105370e7bb7dc277c88a7cc57] In Article 3, in paragraph (1), insert at the end –
 
 > - (d) in the case of a limited liability partnership, does not consist of its corporate name without any addition other than one so permitted.
 
 .
 
-**11.**[^key-734567d2ed13cd354d8a630deb538965] (1) Article 6 is amended as follows.
+**11.**[^c-734567d2ed13cd354d8a630deb538965] (1) Article 6 is amended as follows.
 
 (2) In paragraph (1)(a), for “subject to paragraph (3)” substitute “subject to paragraphs (3) and (3A)”, omit the word “and” at the end of head (iii) and after that head insert –
 
@@ -1039,7 +1039,7 @@ Regulation 9
 
 ### Insolvency (Northern Ireland) Order 1989 (N.I. 19)
 
-**12.**[^key-54412063268184b7fe57f6e846d2e1ec] (1) Article 96 is amended as follows.
+**12.**[^c-54412063268184b7fe57f6e846d2e1ec] (1) Article 96 is amended as follows.
 
 (2) In paragraph (1), after “sold” insert “(a)” and at the end insert –
 
@@ -1067,7 +1067,7 @@ Regulation 9
 
 ### Employment Rights (Northern Ireland) Order 1996 (N.I. 16)
 
-**13.**[^key-8bac542f43dcbad11a9bd2ef2f60480a] (1) Article 201 is amended as follows.
+**13.**[^c-8bac542f43dcbad11a9bd2ef2f60480a] (1) Article 201 is amended as follows.
 
 (2) In paragraph (5), omit the word “and” at the end of sub-paragraph (a), and insert at the end of sub-paragraph (b) –
 
@@ -1087,7 +1087,7 @@ Regulation 9
 
 .
 
-**14.**[^key-6b3f68742de98943766f7533861bf3ee] (1) Article 228 is amended as follows.
+**14.**[^c-6b3f68742de98943766f7533861bf3ee] (1) Article 228 is amended as follows.
 
 (2) In paragraph (1), omit the word “and” at the end of sub-paragraph (a), and insert at the end of sub-paragraph (b) –
 
@@ -1107,7 +1107,7 @@ Regulation 9
 
 ### Race Relations (Northern Ireland) Order 1997 (N.I. 6)
 
-**15.**[^key-72af78f067594717c46bbc6658b86207] In Article 12, insert at the end –
+**15.**[^c-72af78f067594717c46bbc6658b86207] In Article 12, insert at the end –
 
 > (6) This Article applies to a limited liability partnership as it applies to a firm; and, in its application to a limited liability partnership, references to a partner in a firm are references to a member of the limited liability partnership.
 
@@ -1115,7 +1115,7 @@ Regulation 9
 
 ### The Contracts (Rights of Third Parties) Act [1999 c. 31](https://www.legislation.gov.uk/ukpga/1999/31)
 
-**16.**[^key-31276393b261d51eb0d3fac0d6592420] In section 6, after subsection (2) insert –
+**16.**[^c-31276393b261d51eb0d3fac0d6592420] In section 6, after subsection (2) insert –
 
 > (2A) Section 1 confers no rights on a third party in the case of any incorporation document of a limited liability partnership or any limited liability partnership agreement as defined in the Limited Liability Partnerships Regulations (Northern Ireland) 2004.
 
@@ -1123,7 +1123,7 @@ Regulation 9
 
 ### The Financial Services and Markets Act [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
 
-**17.**[^key-568432b3dc4bde93c0b148faf790de77] In each of sections 177(2), 221(2) and 232(2) insert at the end –
+**17.**[^c-568432b3dc4bde93c0b148faf790de77] In each of sections 177(2), 221(2) and 232(2) insert at the end –
 
 > ; and “officer”, in relation to a limited liability partnership, means a member of the limited liability partnership.
 
@@ -1131,7 +1131,7 @@ Regulation 9
 
 ### Culpable officer provisions
 
-**18.**[^key-0fbaa77ee2b51677abf2959524ffc49c] (1) A culpable officer provision applies in the case of a limited liability partnership as if the reference in the provision to a director (or a person purporting to act as a director) were a reference to a member (or a person purporting to act as a member) of the limited liability partnership.
+**18.**[^c-0fbaa77ee2b51677abf2959524ffc49c] (1) A culpable officer provision applies in the case of a limited liability partnership as if the reference in the provision to a director (or a person purporting to act as a director) were a reference to a member (or a person purporting to act as a member) of the limited liability partnership.
 
 (2) A culpable officer provision is a provision in any statutory provision to the effect that where –
 
@@ -1146,51 +1146,51 @@ Regulation 10
 
 ### PART I
 
-**1.**[^key-97dc718e215ef7583c9738b115df5967] The Companies (Revision of Defective Accounts and Report) Regulations (Northern Ireland) 1991[^f00190].
+**1.**[^c-97dc718e215ef7583c9738b115df5967] The Companies (Revision of Defective Accounts and Report) Regulations (Northern Ireland) 1991[^f00190].
 
-**2.**[^key-43fe4855fe4058fa79fe8d35846afbc3] The Companies (Defective Accounts) (Authorised Person) Order (Northern Ireland) 1991[^f00191].
+**2.**[^c-43fe4855fe4058fa79fe8d35846afbc3] The Companies (Defective Accounts) (Authorised Person) Order (Northern Ireland) 1991[^f00191].
 
-**3.**[^key-42c633dc320fb2677928a6bb6507fcde] The Accounting Standards (Prescribed Body) Regulations (Northern Ireland) 1990[^f00192].
+**3.**[^c-42c633dc320fb2677928a6bb6507fcde] The Accounting Standards (Prescribed Body) Regulations (Northern Ireland) 1990[^f00192].
 
-**4.**[^key-3a5fb925829b6532ef0ea602fceccc78] The Companies (Inspection and Copying of Registers, Indices and Documents) Regulations (Northern Ireland) 1993[^f00193].
+**4.**[^c-3a5fb925829b6532ef0ea602fceccc78] The Companies (Inspection and Copying of Registers, Indices and Documents) Regulations (Northern Ireland) 1993[^f00193].
 
-**5.**[^key-e79941ec6afc4b7ed3f380524754e360] The Companies (Registers and other Records) Regulations (Northern Ireland)1986[^f00194].
+**5.**[^c-e79941ec6afc4b7ed3f380524754e360] The Companies (Registers and other Records) Regulations (Northern Ireland)1986[^f00194].
 
-**6.**[^key-2cd514c2e3c13e310cc530451e3096cf] Companies (1986 Order) (Disclosure of Remuneration for Non-Audit Work) Regulations (Northern Ireland) 1993[^f00195].
+**6.**[^c-2cd514c2e3c13e310cc530451e3096cf] Companies (1986 Order) (Disclosure of Remuneration for Non-Audit Work) Regulations (Northern Ireland) 1993[^f00195].
 
 ### PART II
 
-**1.**[^key-1d816a5c5d64e2c8f2b1a4d1539e3134] The Insolvency Practitioners Regulations (Northern Ireland) 1991[^f00196].
+**1.**[^c-1d816a5c5d64e2c8f2b1a4d1539e3134] The Insolvency Practitioners Regulations (Northern Ireland) 1991[^f00196].
 
-**2.**[^key-1df4c45dfa2576640737e645ed0e0054] The Insolvency Practitioners (Recognised Professional Bodies) Order (Northern Ireland) 1991[^f00197].
+**2.**[^c-1df4c45dfa2576640737e645ed0e0054] The Insolvency Practitioners (Recognised Professional Bodies) Order (Northern Ireland) 1991[^f00197].
 
-**3.**[^key-9ad10fffb1756f3ad7e6dd34afadbf72] The Insolvency Rules (Northern Ireland) 1991[^f00198].
+**3.**[^c-9ad10fffb1756f3ad7e6dd34afadbf72] The Insolvency Rules (Northern Ireland) 1991[^f00198].
 
-**4.**[^key-857437e7ad6cbe4388b74beb4ea82562] The Insolvency (Fees) Order (Northern Ireland) 1991[^f00199].
+**4.**[^c-857437e7ad6cbe4388b74beb4ea82562] The Insolvency (Fees) Order (Northern Ireland) 1991[^f00199].
 
-**5.**[^key-b8ea892b6afd2fedbd22ead20b5d7f78] The Insolvency (Deposits) Order (Northern Ireland) 1991[^f00200].
+**5.**[^c-b8ea892b6afd2fedbd22ead20b5d7f78] The Insolvency (Deposits) Order (Northern Ireland) 1991[^f00200].
 
-**6.**[^key-6670173e8c7c54a280f9f2e46664754d] The Co-operation of Insolvency Courts (Designation of Relevant Countries and Territories) Order 1986[^f00201].
+**6.**[^c-6670173e8c7c54a280f9f2e46664754d] The Co-operation of Insolvency Courts (Designation of Relevant Countries and Territories) Order 1986[^f00201].
 
-**7.**[^key-17646bce11259605269a90df3e654ee5] The Co-operation of Insolvency Courts (Designation of Relevant Countries) Order 1996[^f00202].
+**7.**[^c-17646bce11259605269a90df3e654ee5] The Co-operation of Insolvency Courts (Designation of Relevant Countries) Order 1996[^f00202].
 
-**8.**[^key-1809e7ed32713d4f2604f9b4736960ba] The Co-operation of Insolvency Courts (Designation of Relevant Country) Order 1998[^f00203].
+**8.**[^c-1809e7ed32713d4f2604f9b4736960ba] The Co-operation of Insolvency Courts (Designation of Relevant Country) Order 1998[^f00203].
 
-**9.**[^key-237e047d6ee2261abe6d0c480777d48c] The Insolvency (Monetary Limits) Order (Northern Ireland) 1991[^f00204].
+**9.**[^c-237e047d6ee2261abe6d0c480777d48c] The Insolvency (Monetary Limits) Order (Northern Ireland) 1991[^f00204].
 
-**10.**[^key-3e3d29e0848ec1b566f66a60610842de] The Insolvency Regulations (Northern Ireland) 1996[^f00205].
+**10.**[^c-3e3d29e0848ec1b566f66a60610842de] The Insolvency Regulations (Northern Ireland) 1996[^f00205].
 
 ### PART III
 
-**1.**[^key-ac82ebc08a95aa391cb45947148d8da9] The Company and Business Names Regulations (Northern Ireland) 1984[^f00206].
+**1.**[^c-ac82ebc08a95aa391cb45947148d8da9] The Company and Business Names Regulations (Northern Ireland) 1984[^f00206].
 
-**2.**[^key-98445f7c9a9afa471f6ad24d078a78dd] The Companies (Disqualification Orders) Regulations (Northern Ireland) 2003[^f00207].
+**2.**[^c-98445f7c9a9afa471f6ad24d078a78dd] The Companies (Disqualification Orders) Regulations (Northern Ireland) 2003[^f00207].
 
-**3.**[^key-4ba3892d2bf633a4332f5036cb680e31] The Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules (Northern Ireland) 2003[^f00208].
+**3.**[^c-4ba3892d2bf633a4332f5036cb680e31] The Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules (Northern Ireland) 2003[^f00208].
 
-**4.**[^key-eef1a595463cf68d1fae7bb4dd14cb38] The Uncertificated Securities Regulations 2001[^f00209].
+**4.**[^c-eef1a595463cf68d1fae7bb4dd14cb38] The Uncertificated Securities Regulations 2001[^f00209].
 
-**5.**[^key-9688bbc859537fdc019010bc13f1eb3f] The Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 2003[^f00210].
+**5.**[^c-9688bbc859537fdc019010bc13f1eb3f] The Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 2003[^f00210].
 
 (This note is not part of the Regulations)
 
@@ -1239,9 +1239,9 @@ The new Article 178A provides that withdrawals made by members during the two ye
 
 [^f00001]: Footnote: [2002 c. 12 (N.I.)](https://www.legislation.gov.uk/nia/2002/12)
 
-[^key-9c44dbb889407cb360403108bb725070]: Commencement: Reg. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-9c44dbb889407cb360403108bb725070]: Commencement: Reg. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-0781d7d78ad7dfb49d8cf470c21dac8f]: Commencement: Reg. 2 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-0781d7d78ad7dfb49d8cf470c21dac8f]: Commencement: Reg. 2 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00002]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
@@ -1249,33 +1249,33 @@ The new Article 178A provides that withdrawals made by members during the two ye
 
 [^f00004]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
 
-[^key-3d364d9b925f17873aabbcb263b24590]: Commencement: Reg. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-3d364d9b925f17873aabbcb263b24590]: Commencement: Reg. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00005]: Footnote: Article 229 was inserted into the 1986 Order by Article 4 of the Companies (Northern Ireland) Order 1990 (S.I. [1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)) in place of an existing Article of that number; Article 231 was inserted into the 1986 Order by Article 5 of the Companies (Northern Ireland) Order 1990 in place of an existing Article of that number; Article 234 was inserted into the 1986 Order by Article 6 of the Companies (Northern Ireland) Order 1990 in place of an existing Article of that number; Articles 235, 237 and 238 were inserted into the 1986 Order by Article 7 of the Companies (Northern Ireland) Order 1990 in place of existing Articles of those numbers. Article 253C was inserted into the 1986 Order by Article 14 of the Companies (Northern Ireland) Order 1990; Article 256 was inserted into the 1986 Order by Article 15(3) of the Companies (Northern Ireland) Order 1990 in place of an existing Article of that number and amended by [S.R. 1997 No. 314](https://www.legislation.gov.uk/nisr/1997/314) and S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649); Article 256A was inserted into the 1986 Order by [S.R. 1997 No. 436](https://www.legislation.gov.uk/nisr/1997/436); Article 257 was inserted into the 1986 Order by Article 15(3) of the Companies (Northern Ireland) Order 1990 in place of an existing Article of that number and amended by [S.R. 1992 No. 503](https://www.legislation.gov.uk/nisr/1992/503). Article 264 was inserted into the 1986 Order by Article 21 of the Companies (Northern Ireland) Order 1990. The footnotes to Schedule 1 provide details of the amendments made to the provisions which are listed in that Schedule
 
-[^key-2d4fb3ce08f4b365d868cb24a43d0766]: Commencement: Reg. 4 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-2d4fb3ce08f4b365d868cb24a43d0766]: Commencement: Reg. 4 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00006]: Footnote: S.I. [2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150)
 
-[^key-a38fb0d60c016484959c9a83092830fb]: Commencement: Reg. 5 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-a38fb0d60c016484959c9a83092830fb]: Commencement: Reg. 5 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00007]: Footnote: S.I. [1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)
 
 [^f00008]: Footnote: S.I. [1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504)
 
-[^key-19f669aaea7271135c6cb88e8dc8d72e]: Commencement: Reg. 6 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-19f669aaea7271135c6cb88e8dc8d72e]: Commencement: Reg. 6 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-fe5a62a79a347de06afc0ea542a26c14]: Commencement: Reg. 7 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-fe5a62a79a347de06afc0ea542a26c14]: Commencement: Reg. 7 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-0450135e416059eeaf2239d37489942e]: Commencement: Reg. 8 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-0450135e416059eeaf2239d37489942e]: Commencement: Reg. 8 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-e20816dc4917a5f56a3e63c631168991]: Commencement: Reg. 9 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-e20816dc4917a5f56a3e63c631168991]: Commencement: Reg. 9 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-240e402bb3279fb5b46063c7da656f6a]: Commencement: Reg. 10 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-240e402bb3279fb5b46063c7da656f6a]: Commencement: Reg. 10 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00009]: Footnote: S.I. [1986/1033 (N.I. 7)](https://www.legislation.gov.uk/nisi/1986/1033)
 
-[^key-64a7b07eb127f83a6625afff2b60cbe2]: Commencement: Sch. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-64a7b07eb127f83a6625afff2b60cbe2]: Commencement: Sch. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00010]: Footnote: Article 230 was inserted into the 1986 Order by Article 4 of the Companies (Northern Ireland) Order 1990 in place of an existing Article of that number
 
@@ -1401,7 +1401,7 @@ The new Article 178A provides that withdrawals made by members during the two ye
 
 [^f00071]: Footnote: Schedule 8A was inserted by [S.R. 1997 No. 436](https://www.legislation.gov.uk/nisr/1997/436)
 
-[^key-184eaf67ae34c660c27936f09644d693]: Commencement: Sch. 2 Pt. I in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-184eaf67ae34c660c27936f09644d693]: Commencement: Sch. 2 Pt. I in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00072]: Footnote: Article 2(3) was amended by section 212(3) of, and Part II of Schedule 17 to, the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), by section 108 of, and Schedule 7 to, the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22), by Articles 381 and 382 of, and paragraph 1 of Schedule 9 and Schedule 10 to, the Insolvency Order (Northern Ireland) 1989, by Articles 25 and 26 of, and paragraph 1 of Schedule 10 and Schedule 15 to, the Companies (Northern Ireland) Order 1990, by Article 113 of, and Schedule 6 to, the Companies (No. 2) (Northern Ireland) Order 1990 (S.I. [1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504)), by section 79(13) of, and paragraph 18(1) of Schedule 5 to, the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36) and by S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)
 
@@ -1575,9 +1575,9 @@ The new Article 178A provides that withdrawals made by members during the two ye
 
 [^f00157]: Footnote: Schedule 23 was amended by Article 212(2) and (3) of, and paragraph 42 of Schedule 16 and Part II of Schedule 17 to, the Financial Services Act 1986, by Articles 25(3) and 35(1) of, and Schedule 5 to, the Companies (Northern Ireland) Order 1989, by Article 382 of, and Schedule 10 to, the Insolvency (Northern Ireland) Order 1989, by Articles 25 and 26 of, and paragraph 27 of Schedule 10 and Part I of Schedule 15 to, the Companies (Northern Ireland) Order 1990, by Articles 11(8), 12(2), 43, 54(2), 55(2), 57(2), 58(3), 74(3), 113 of, and paragraph 1 of Schedule 2 and Schedule 6 to, the Companies (No. 2) (Northern Ireland) Order 1990, by Article 5(7) of the Deregulation (Northern Ireland) Order 1997 and by [S.R. 1992 No. 405](https://www.legislation.gov.uk/nisr/1992/405), [S.R. 1993 No. 198](https://www.legislation.gov.uk/nisr/1993/198) and [S.R. 2003 No. 3](https://www.legislation.gov.uk/nisr/2003/3)
 
-[^key-8b484fd0dad33c1569fd85e257e67d51]: Commencement: Sch. 2 Pt. II in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-8b484fd0dad33c1569fd85e257e67d51]: Commencement: Sch. 2 Pt. II in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-061b151ef86732a99274c3c3fc0bd4a5]: Commencement: Sch. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-061b151ef86732a99274c3c3fc0bd4a5]: Commencement: Sch. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00158]: Footnote: Article 2 was amended by [S.R. 1991 No. 366](https://www.legislation.gov.uk/nisr/1991/366), [S.R. 1995 No. 225](https://www.legislation.gov.uk/nisr/1995/225), [S.R. 2002 No. 223](https://www.legislation.gov.uk/nisr/2002/223) and Article 3 of, and paragraph 2 of Schedule 1 to, the Insolvency (Northern Ireland) Order 2002 (S.I. [2002/3152 (N.I. 6)](https://www.legislation.gov.uk/nisi/2002/3152))
 
@@ -1641,124 +1641,124 @@ The new Article 178A provides that withdrawals made by members during the two ye
 
 [^f00188]: Footnote: Schedule 7 was amended by Article 113 of, and Schedule 6 to, the Companies (No.2) (Northern Ireland) Order 1990 and by Articles 3, 4 and 5 of, and paragraph 12 of Schedule 1, paragraph 12 of Schedule 2 and paragraph 15 of Schedule 3 to, the Insolvency (Northern Ireland) Order 2002
 
-[^key-5da7cdff43eab7a485c368892d5a90f1]: Commencement: Sch. 4 para. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-5da7cdff43eab7a485c368892d5a90f1]: Commencement: Sch. 4 para. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-320355bad30cd0e1e11a41b661a4da61]: Commencement: Sch. 4 para. 2 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-320355bad30cd0e1e11a41b661a4da61]: Commencement: Sch. 4 para. 2 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-a5a188b9157d08ed7943178257362df7]: Commencement: Sch. 4 para. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-a5a188b9157d08ed7943178257362df7]: Commencement: Sch. 4 para. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-0f1305756a1b81a10742fbaf5ad0284a]: Commencement: Sch. 4 para. 4 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-0f1305756a1b81a10742fbaf5ad0284a]: Commencement: Sch. 4 para. 4 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-adc7aacece7f1e4ce5b201bf603373b0]: Commencement: Sch. 4 para. 5 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-adc7aacece7f1e4ce5b201bf603373b0]: Commencement: Sch. 4 para. 5 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-f7170e61e49da805ab800d66fb90105d]: Commencement: Sch. 4 para. 6 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-f7170e61e49da805ab800d66fb90105d]: Commencement: Sch. 4 para. 6 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-3825f50fb7cb1d11e31fcb6a9ab0d5e9]: Commencement: Sch. 4 para. 7 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-3825f50fb7cb1d11e31fcb6a9ab0d5e9]: Commencement: Sch. 4 para. 7 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-1d8ad94fe1865e49ea560785e68143eb]: Commencement: Sch. 4 para. 8 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-1d8ad94fe1865e49ea560785e68143eb]: Commencement: Sch. 4 para. 8 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-9eb4ce83ed6ce0dcc88d61755a5424ea]: Commencement: Sch. 4 para. 9 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-9eb4ce83ed6ce0dcc88d61755a5424ea]: Commencement: Sch. 4 para. 9 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00189]: Footnote: Article 36 was amended by [S.R. 1997 No. 251](https://www.legislation.gov.uk/nisr/1997/251)
 
-[^key-76defd4105370e7bb7dc277c88a7cc57]: Commencement: Sch. 4 para. 10 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-76defd4105370e7bb7dc277c88a7cc57]: Commencement: Sch. 4 para. 10 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-734567d2ed13cd354d8a630deb538965]: Commencement: Sch. 4 para. 11 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-734567d2ed13cd354d8a630deb538965]: Commencement: Sch. 4 para. 11 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-54412063268184b7fe57f6e846d2e1ec]: Commencement: Sch. 4 para. 12 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-54412063268184b7fe57f6e846d2e1ec]: Commencement: Sch. 4 para. 12 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-8bac542f43dcbad11a9bd2ef2f60480a]: Commencement: Sch. 4 para. 13 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-8bac542f43dcbad11a9bd2ef2f60480a]: Commencement: Sch. 4 para. 13 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-6b3f68742de98943766f7533861bf3ee]: Commencement: Sch. 4 para. 14 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-6b3f68742de98943766f7533861bf3ee]: Commencement: Sch. 4 para. 14 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-72af78f067594717c46bbc6658b86207]: Commencement: Sch. 4 para. 15 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-72af78f067594717c46bbc6658b86207]: Commencement: Sch. 4 para. 15 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-31276393b261d51eb0d3fac0d6592420]: Commencement: Sch. 4 para. 16 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-31276393b261d51eb0d3fac0d6592420]: Commencement: Sch. 4 para. 16 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-568432b3dc4bde93c0b148faf790de77]: Commencement: Sch. 4 para. 17 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-568432b3dc4bde93c0b148faf790de77]: Commencement: Sch. 4 para. 17 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-0fbaa77ee2b51677abf2959524ffc49c]: Commencement: Sch. 4 para. 18 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-0fbaa77ee2b51677abf2959524ffc49c]: Commencement: Sch. 4 para. 18 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
-[^key-97dc718e215ef7583c9738b115df5967]: Commencement: Sch. 5 Pt. I para. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-97dc718e215ef7583c9738b115df5967]: Commencement: Sch. 5 Pt. I para. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00190]: Footnote: [S.R. 1991 No. 268](https://www.legislation.gov.uk/nisr/1991/268) as amended by [S.R. 1995 No. 128](https://www.legislation.gov.uk/nisr/1995/128) and [S.R. 1997 No. 423](https://www.legislation.gov.uk/nisr/1997/423)
 
-[^key-43fe4855fe4058fa79fe8d35846afbc3]: Commencement: Sch. 5 Pt. I para. 2 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-43fe4855fe4058fa79fe8d35846afbc3]: Commencement: Sch. 5 Pt. I para. 2 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00191]: Footnote: [S.R. 1991 No. 269](https://www.legislation.gov.uk/nisr/1991/269)
 
-[^key-42c633dc320fb2677928a6bb6507fcde]: Commencement: Sch. 5 Pt. I para. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-42c633dc320fb2677928a6bb6507fcde]: Commencement: Sch. 5 Pt. I para. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00192]: Footnote: [S.R. 1990 No. 338](https://www.legislation.gov.uk/nisr/1990/338)
 
-[^key-3a5fb925829b6532ef0ea602fceccc78]: Commencement: Sch. 5 Pt. I para. 4 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-3a5fb925829b6532ef0ea602fceccc78]: Commencement: Sch. 5 Pt. I para. 4 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00193]: Footnote: [S.R. 1993 No. 66](https://www.legislation.gov.uk/nisr/1993/66)
 
-[^key-e79941ec6afc4b7ed3f380524754e360]: Commencement: Sch. 5 Pt. I para. 5 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-e79941ec6afc4b7ed3f380524754e360]: Commencement: Sch. 5 Pt. I para. 5 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00194]: Footnote: [S.R. 1986 No. 306](https://www.legislation.gov.uk/nisr/1986/306)
 
-[^key-2cd514c2e3c13e310cc530451e3096cf]: Commencement: Sch. 5 Pt. I para. 6 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-2cd514c2e3c13e310cc530451e3096cf]: Commencement: Sch. 5 Pt. I para. 6 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00195]: Footnote: [S.R. 1993 No. 65](https://www.legislation.gov.uk/nisr/1993/65)
 
-[^key-1d816a5c5d64e2c8f2b1a4d1539e3134]: Commencement: Sch. 5 Pt. II para. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-1d816a5c5d64e2c8f2b1a4d1539e3134]: Commencement: Sch. 5 Pt. II para. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00196]: Footnote: [S.R. 1991 No. 302](https://www.legislation.gov.uk/nisr/1991/302) as amended by [S.R. 1993 No. 317](https://www.legislation.gov.uk/nisr/1993/317), [S.R. 1993 No. 454](https://www.legislation.gov.uk/nisr/1993/454) and [S.R. 2003 No. 547](https://www.legislation.gov.uk/nisr/2003/547)
 
-[^key-1df4c45dfa2576640737e645ed0e0054]: Commencement: Sch. 5 Pt. II para. 2 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-1df4c45dfa2576640737e645ed0e0054]: Commencement: Sch. 5 Pt. II para. 2 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00197]: Footnote: [S.R. 1991 No. 301](https://www.legislation.gov.uk/nisr/1991/301)
 
-[^key-9ad10fffb1756f3ad7e6dd34afadbf72]: Commencement: Sch. 5 Pt. II para. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-9ad10fffb1756f3ad7e6dd34afadbf72]: Commencement: Sch. 5 Pt. II para. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00198]: Footnote: [S.R. 1991 No. 364](https://www.legislation.gov.uk/nisr/1991/364) as amended by [S.R. 1994 No. 26](https://www.legislation.gov.uk/nisr/1994/26), [S.R. 1995 No. 291](https://www.legislation.gov.uk/nisr/1995/291), [S.R. 2000 No. 247](https://www.legislation.gov.uk/nisr/2000/247), [S.R. 2002 No. 261](https://www.legislation.gov.uk/nisr/2002/261) and [S.R. 2003 No. 549](https://www.legislation.gov.uk/nisr/2003/549)
 
-[^key-857437e7ad6cbe4388b74beb4ea82562]: Commencement: Sch. 5 Pt. II para. 4 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-857437e7ad6cbe4388b74beb4ea82562]: Commencement: Sch. 5 Pt. II para. 4 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00199]: Footnote: [S.R. 1991 No. 385](https://www.legislation.gov.uk/nisr/1991/385) as amended by [S.R. 1992 No. 398](https://www.legislation.gov.uk/nisr/1992/398) and [S.R. 1996 No. 576](https://www.legislation.gov.uk/nisr/1996/576)
 
-[^key-b8ea892b6afd2fedbd22ead20b5d7f78]: Commencement: Sch. 5 Pt. II para. 5 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-b8ea892b6afd2fedbd22ead20b5d7f78]: Commencement: Sch. 5 Pt. II para. 5 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00200]: Footnote: [S.R. 1991 No. 384](https://www.legislation.gov.uk/nisr/1991/384) as amended by [S.R. 1996 No. 577](https://www.legislation.gov.uk/nisr/1996/577)
 
-[^key-6670173e8c7c54a280f9f2e46664754d]: Commencement: Sch. 5 Pt. II para. 6 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-6670173e8c7c54a280f9f2e46664754d]: Commencement: Sch. 5 Pt. II para. 6 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00201]: Footnote: S.I. [1986/2123](https://www.legislation.gov.uk/uksi/1986/2123)
 
-[^key-17646bce11259605269a90df3e654ee5]: Commencement: Sch. 5 para. 7 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-17646bce11259605269a90df3e654ee5]: Commencement: Sch. 5 para. 7 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00202]: Footnote: S.I. [1996/253](https://www.legislation.gov.uk/uksi/1996/253)
 
-[^key-1809e7ed32713d4f2604f9b4736960ba]: Commencement: Sch. 5 para. 8 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-1809e7ed32713d4f2604f9b4736960ba]: Commencement: Sch. 5 para. 8 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00203]: Footnote: S.I. [1998/2766](https://www.legislation.gov.uk/uksi/1998/2766)
 
-[^key-237e047d6ee2261abe6d0c480777d48c]: Commencement: Sch. 5 para. 9 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-237e047d6ee2261abe6d0c480777d48c]: Commencement: Sch. 5 para. 9 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00204]: Footnote: [S.R. 1991 No. 386](https://www.legislation.gov.uk/nisr/1991/386)
 
-[^key-3e3d29e0848ec1b566f66a60610842de]: Commencement: Sch. 5 para. 10 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-3e3d29e0848ec1b566f66a60610842de]: Commencement: Sch. 5 para. 10 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00205]: Footnote: [S.R. 1996 No. 574](https://www.legislation.gov.uk/nisr/1996/574)
 
-[^key-ac82ebc08a95aa391cb45947148d8da9]: Commencement: Sch. 5 Pt. III para. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-ac82ebc08a95aa391cb45947148d8da9]: Commencement: Sch. 5 Pt. III para. 1 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00206]: Footnote: [S.R. 1984 No. 49](https://www.legislation.gov.uk/nisr/1984/49)
 
-[^key-98445f7c9a9afa471f6ad24d078a78dd]: Commencement: Sch. 5 Pt. III para. 2 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-98445f7c9a9afa471f6ad24d078a78dd]: Commencement: Sch. 5 Pt. III para. 2 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00207]: Footnote: [S.R. 2003 No. 347](https://www.legislation.gov.uk/nisr/2003/347)
 
-[^key-4ba3892d2bf633a4332f5036cb680e31]: Commencement: Sch. 5 Pt. III para. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-4ba3892d2bf633a4332f5036cb680e31]: Commencement: Sch. 5 Pt. III para. 3 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00208]: Footnote: [S.R. 2003 No. 358](https://www.legislation.gov.uk/nisr/2003/358)
 
-[^key-eef1a595463cf68d1fae7bb4dd14cb38]: Commencement: Sch. 5 Pt. III para. 4 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-eef1a595463cf68d1fae7bb4dd14cb38]: Commencement: Sch. 5 Pt. III para. 4 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00209]: Footnote: S.I. [1995/3272](https://www.legislation.gov.uk/uksi/1995/3272)
 
-[^key-9688bbc859537fdc019010bc13f1eb3f]: Commencement: Sch. 5 Pt. III para. 5 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
+[^c-9688bbc859537fdc019010bc13f1eb3f]: Commencement: Sch. 5 Pt. III para. 5 in operation at 13.9.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/307/regulation/1)
 
 [^f00210]: Footnote: [S.R. 2003 No. 357](https://www.legislation.gov.uk/nisr/2003/357)

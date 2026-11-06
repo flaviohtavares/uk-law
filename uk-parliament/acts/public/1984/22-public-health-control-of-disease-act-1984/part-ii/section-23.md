@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Exclusion of children from places of entertainment or assembly.[^key-5fe1e202e7ec46cbe1679755f539bebf]
+## 23. Exclusion of children from places of entertainment or assembly.[^c-5fe1e202e7ec46cbe1679755f539bebf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fe1e202e7ec46cbe1679755f539bebf]: Textual amendment: Pt. II repealed (6.4.2010 for E. except in relation to ss. 13-15, 26.7.2010 for W. except in relation to ss. 13-15) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 130(1)](https://www.legislation.gov.uk/ukpga/2008/14/section/130/1), [170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3), [170(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(b)(f)](https://www.legislation.gov.uk/uksi/2010/708/article/6/b/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(b)(f)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))
+[^c-5fe1e202e7ec46cbe1679755f539bebf]: Textual amendment: Pt. II repealed (6.4.2010 for E. except in relation to ss. 13-15, 26.7.2010 for W. except in relation to ss. 13-15) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 130(1)](https://www.legislation.gov.uk/ukpga/2008/14/section/130/1), [170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3), [170(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(b)(f)](https://www.legislation.gov.uk/uksi/2010/708/article/6/b/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(b)(f)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))

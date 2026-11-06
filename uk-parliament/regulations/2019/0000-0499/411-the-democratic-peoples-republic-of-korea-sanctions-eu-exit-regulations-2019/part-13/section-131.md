@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Transitional provision: Treasury licences[^key-37001396e8983cc4788cbcc4ee3d21b9][^key-4fc99749920f04bd8072b57d438400af]
+## 131. Transitional provision: Treasury licences[^c-37001396e8983cc4788cbcc4ee3d21b9][^c-4fc99749920f04bd8072b57d438400af]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,9 +63,9 @@ is to be treated on and after the relevant date as a reference to the correspond
 
 ## Annotations
 
-[^key-37001396e8983cc4788cbcc4ee3d21b9]: Commencement: Reg. 131 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-37001396e8983cc4788cbcc4ee3d21b9]: Commencement: Reg. 131 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-4fc99749920f04bd8072b57d438400af]: Commencement: [Reg. 131](https://www.legislation.gov.uk/uksi/2019/411/regulation/131) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4fc99749920f04bd8072b57d438400af]: Commencement: [Reg. 131](https://www.legislation.gov.uk/uksi/2019/411/regulation/131) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636981]: Marginal citation: OJ L 88, 29.3.2007, p. 1–11.
 

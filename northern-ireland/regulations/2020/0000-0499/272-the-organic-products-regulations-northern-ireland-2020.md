@@ -44,17 +44,17 @@ The Department of Agriculture, Environment and Rural Affairs, being a Department
 
 The Department makes these Regulations in exercise of the powers conferred by section 2(2) of and paragraph 1A of Schedule 2 to the European Communities Act 1972 and section 56(1) and (2) of the Finance Act 1973.
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department that it is expedient for references in these Regulations to an EU instrument or to any provision of an EU instrument to be construed as a reference to that instrument or that provision as amended from time to time.[^key-eb760836974b17198eb42382ed88b66f]
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department that it is expedient for references in these Regulations to an EU instrument or to any provision of an EU instrument to be construed as a reference to that instrument or that provision as amended from time to time.[^c-eb760836974b17198eb42382ed88b66f]
 
-In accordance with section 56(5) of the Finance Act 1973, the Department of Finance consent to the making of these Regulations.[^key-eb760836974b17198eb42382ed88b66f]
+In accordance with section 56(5) of the Finance Act 1973, the Department of Finance consent to the making of these Regulations.[^c-eb760836974b17198eb42382ed88b66f]
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-8b2e30d9e16428da5d391564d958460c]
+### 1. Citation and commencement[^c-8b2e30d9e16428da5d391564d958460c]
 
 These Regulations may be cited as the Organic Products Regulations (Northern Ireland) 2020, and shall come into operation on 31 December 2020.
 
-### 2. Interpretation[^key-8cbf177deffb756d68920e62e2a59a4a]
+### 2. Interpretation[^c-8cbf177deffb756d68920e62e2a59a4a]
 
 (1) In these Regulations—
 
@@ -82,7 +82,7 @@ These Regulations may be cited as the Organic Products Regulations (Northern Ire
 
 ## PART 2 — Designations and exemptions
 
-### 3. Designation of competent authority etc.[^key-3a22de0042ba4c15262a55633f739470]
+### 3. Designation of competent authority etc.[^c-3a22de0042ba4c15262a55633f739470]
 
 (1) The Secretary of State is the competent authority for the purposes of the Council Regulation, Commission Regulation 889/2008, Commission Regulation 1235/2008 and these Regulations.
 
@@ -90,23 +90,23 @@ These Regulations may be cited as the Organic Products Regulations (Northern Ire
 
 (3) The Soil Association is the manager of the database for the purposes of Article 48(2) of Commission Regulation 889/2008.
 
-### 4. Exemption from requirement to adhere to control system[^key-d4248390e72dedb289934efdd79cfc8e]
+### 4. Exemption from requirement to adhere to control system[^c-d4248390e72dedb289934efdd79cfc8e]
 
 Article 28 of the Council Regulation (requirements to notify activities and submit undertakings to the control system) does not apply to an operator who sells an organic product directly to the final consumer or user, provided that the operator does not produce, prepare, store other than in connection with the point of sale, or import such a product from a third country, or has not contracted out such activities to a third party.
 
-### 5. Permitted exceptions to the organic production rules[^key-ec9fd9ba846ff916b1b67b84d32fec29]
+### 5. Permitted exceptions to the organic production rules[^c-ec9fd9ba846ff916b1b67b84d32fec29]
 
 A control body may permit the use of non-organic seed and seed potatoes for the purposes of Article 45(1)(b) and in accordance with Article 45 of the Commission Regulation 889/2008.
 
 ## PART 3 — Control of third country imports
 
-### 6. Advance notification[^key-e5f6d4efca0ba4e15147cb7e82bbc540]
+### 6. Advance notification[^c-e5f6d4efca0ba4e15147cb7e82bbc540]
 
 (1) A person seeking the release for free circulation in the European Union of a consignment must, during normal office hours of the district council at the place of import, give to an authorised officer advance notice in writing of the intended arrival of the consignment at that place of import.
 
 (2) Any such notice must be given at least six hours in advance in relation to a consignment arriving by air and at least twenty four hours in advance in relation to a consignment arriving by any other means.
 
-### 7. Control on movement[^key-067c3787edb223ac22fa4454fd35eea1]
+### 7. Control on movement[^c-067c3787edb223ac22fa4454fd35eea1]
 
 (1) An authorised officer may prohibit the movement of a consignment from the place of import, or from any other place from which release for free circulation in the European Union is being sought if the officer has reason to believe that there has been a failure to comply with any relevant provision of the Council Regulation or Community Regulation 1235/2008.
 
@@ -132,7 +132,7 @@ an authorised officer may order that, under supervision, the controlled consignm
 
 (7) An authorised officer who is satisfied that the steps specified in the notice under paragraph (3)(d) have been taken must, as soon as possible, remove the prohibition on movement.
 
-### 8. Consent to movement[^key-718d1b87fb8b4ca90144ac8c49fc5cdf]
+### 8. Consent to movement[^c-718d1b87fb8b4ca90144ac8c49fc5cdf]
 
 (1) An authorised officer may, at any time, give written consent to the movement of a controlled assignment.
 
@@ -151,23 +151,23 @@ an authorised officer may order that, under supervision, the controlled consignm
 
 ## PART 4 — Fees
 
-### 9. Fees – general[^key-ba882c05fe7ad9f34bd81c72bc78b660]
+### 9. Fees – general[^c-ba882c05fe7ad9f34bd81c72bc78b660]
 
 (1) All fees payable under this Part are payable on invoice.
 
 (2) In any proceedings for recovery of an amount payable under this part, a certificate issued by the person to whom the amount is payable stating that payment of an amount payable under this Part was not received by a date specified in the certificate is evidence of the facts stated.
 
-### 10. Fees for registering information on the database[^key-0e6f44a8f285c70e77a363c854e8643c]
+### 10. Fees for registering information on the database[^c-0e6f44a8f285c70e77a363c854e8643c]
 
 (1) Subject to paragraph (2), the Soil Association must charge a supplier a fee of £182 for registering information in the database in accordance with Articles 49(1) and 51(1) of Commission Regulation 889/2008.
 
 (2) The Soil Association may waive the whole or part of any fee payable under paragraph (1).
 
-### 11. Fees for ingredient authorisation[^key-912ff1680fffc0de0ba9d88bea63ec0b]
+### 11. Fees for ingredient authorisation[^c-912ff1680fffc0de0ba9d88bea63ec0b]
 
 The competent authority may charge a fee of £38 for issuing or for renewing a provisional authorisation to permit the use of a non-organic agricultural ingredient in organic production for the purposes of Article 19(2)(c) of the Council Regulation.
 
-### 12. Fees for approvals of control bodies and post-approval inspections[^key-9c5ec8f0cbdc1b123ce51fdbd9a67f6e]
+### 12. Fees for approvals of control bodies and post-approval inspections[^c-9c5ec8f0cbdc1b123ce51fdbd9a67f6e]
 
 (1) The competent authority may charge a person who has applied for approval as a control body for the purposes of Article 27 of the Council Regulation a fee of £203.
 
@@ -179,7 +179,7 @@ The competent authority may charge a fee of £38 for issuing or for renewing a p
 
 (3) Any fee payable by a control body under this regulation remains payable even if its approval as a control body has subsequently been withdrawn by the competent authority under Article 27(8) or 27(9)(d) of the Council Regulation.
 
-### 13. Fees relating to the control system[^key-ab04139627429ad4f2714c0a6b03118b]
+### 13. Fees relating to the control system[^c-ab04139627429ad4f2714c0a6b03118b]
 
 (1) A control body must charge an operator a fee in respect of any expenses reasonably incurred by it in carrying out an inspection of the operator’s holding, premises or facilities.
 
@@ -187,7 +187,7 @@ The competent authority may charge a fee of £38 for issuing or for renewing a p
 
 (3) In this regulation, “inspection” means an inspection or control visit carried out for the purposes of Article 65 of Commission Regulation 889/2008.
 
-### 14. Fees relating to third country imports[^key-23a69b1dbe7bec1b4294f6378a4e9627]
+### 14. Fees relating to third country imports[^c-23a69b1dbe7bec1b4294f6378a4e9627]
 
 (1) Subject to paragraph (2), district council must charge an importer of a consignment a fee in respect of any expenses reasonably incurred by it—
 
@@ -198,14 +198,14 @@ The competent authority may charge a fee of £38 for issuing or for renewing a p
 
 ## PART 5 — Offences and enforcement
 
-### 15. Notification requirement[^key-46448bd40c83c94902667c3c094b6854]
+### 15. Notification requirement[^c-46448bd40c83c94902667c3c094b6854]
 
 For the purposes of Article 30 of the Council Regulation (measures in case of infringements and irregularities), where a control body believes that an irregularity, severe infringement or infringement with prolonged effect has been found, it must—
 
 - (a) notify that belief in writing to the competent authority and the district council; and
 - (b) give the district council any information which it may reasonably require for the purpose of enforcing these Regulations.
 
-### 16. Obtaining samples and analysis etc[^key-88ad86907e404f77e193c83efb63dffd]
+### 16. Obtaining samples and analysis etc[^c-88ad86907e404f77e193c83efb63dffd]
 
 (1) An authorised officer may, for the purposes of ascertaining whether any offence under these Regulations has been committed, purchase or take a sample of any organic product.
 
@@ -229,7 +229,7 @@ is evidence of the facts stated in it unless, in a case falling within sub-parag
 
 (7) In this regulation “public analyst” has the same meaning as in article 27 of the Food Safety (Northern Ireland) Order 1991[^f00008].
 
-### 17. Offences[^key-5abc9fae194c09023fed9b2848c443aa]
+### 17. Offences[^c-5abc9fae194c09023fed9b2848c443aa]
 
 (1) The Schedule (specified EU provisions) has effect.
 
@@ -240,17 +240,17 @@ is evidence of the facts stated in it unless, in a case falling within sub-parag
 - (a) to move it or cause it to be moved otherwise than in accordance with the written consent of an authorised officer, or
 - (b) to remove or cause to be removed from it a label which has been affixed under regulation 7(6).
 
-### 18. Penalties[^key-8a895af237b9fd091b21ad71401a57fb]
+### 18. Penalties[^c-8a895af237b9fd091b21ad71401a57fb]
 
 A person guilty of an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 19. Offence due to fault of another person[^key-071dbe6b407c36ed741b04bf506939b4]
+### 19. Offence due to fault of another person[^c-071dbe6b407c36ed741b04bf506939b4]
 
 (1) Where the commission by a person (“A”) of an offence under regulation 17 is due to an act of default of another person (“B”), B is guilty of the offence.
 
 (2) B may be charged with and convicted of the offence whether or not proceedings are taken against A.
 
-### 20. Defence of due diligence[^key-71454447fba3d4f9d1c26203fefd9a9b]
+### 20. Defence of due diligence[^c-71454447fba3d4f9d1c26203fefd9a9b]
 
 (1) In proceedings against a person for an offence under regulation 17, it is a defence for the person to prove that all reasonable precautions were taken and due diligence was exercised to avoid committing the offence.
 
@@ -261,13 +261,13 @@ A person guilty of an offence under these Regulations is liable on summary convi
 - (a) at least seven clear days before the hearing, and
 - (b) where A has preciously appeared before a court in connection with the alleged offence, within one month of A’s first such appearance.
 
-### 21. Enforcement[^key-9a6839dd6d44807e158da991ab6015df]
+### 21. Enforcement[^c-9a6839dd6d44807e158da991ab6015df]
 
 (1) Subject to paragraphs (2), these Regulations and the specified EU provisions are enforced by the district council within its district.
 
 (2) In relation to cases of a particular description, or a particular case, the competent authority may give written directions to a district council concerning the enforcement of these Regulations, and such directions may also be given by the Department of Agriculture, Environment and Rural Affairs.
 
-### 22. Powers of entry[^key-dd4785b877cb2b2ab7b8c31adbf2f902]
+### 22. Powers of entry[^c-dd4785b877cb2b2ab7b8c31adbf2f902]
 
 (1) An authorised officer may, on producing (if so required) a duly authenticated document showing the officer’s authority, at all reasonable hours enter any premises for the purposes of enforcing the specified EU provisions or these Regulations.
 
@@ -294,7 +294,7 @@ the lay magistrate may by signed warrant authorise an authorised person to enter
 
 (8) In this regulation, “premises” includes any vehicle stall or movable structure but does not include any premises, or part of any premises, used only as a dwelling.
 
-### 23. Powers following entry[^key-a49990b11d626de50ad87286d1290935]
+### 23. Powers following entry[^c-a49990b11d626de50ad87286d1290935]
 
 (1) An authorised officer entering premises under regulation 22 may—
 
@@ -311,11 +311,11 @@ the lay magistrate may by signed warrant authorise an authorised person to enter
 
 (4) In this regulation, “business” includes any undertaking whether it operates for profit or not and any undertaking or activity carried out by a public authority, including a district council.
 
-### 24. Power to require assistance[^key-e14ab8062ffa75b6f7b0935f5cb0a25b]
+### 24. Power to require assistance[^c-e14ab8062ffa75b6f7b0935f5cb0a25b]
 
 An authorised officer may require any person to provide the officer with such assistance, information or facilities as the officer may reasonably require for the purposes of carrying out functions under these Regulations.
 
-### 25. Obstruction etc. of authorised officers[^key-02f77641204edc70782ef958a7d0b345]
+### 25. Obstruction etc. of authorised officers[^c-02f77641204edc70782ef958a7d0b345]
 
 (1) It is an offence for a person—
 
@@ -326,11 +326,11 @@ An authorised officer may require any person to provide the officer with such as
 
 (3) Nothing in paragraph (1)(b) requires a person to answer any question or give any information if to do so might incriminate the person.
 
-### 26. Extended time limit for bringing prosecutions[^key-94aa9fe67c20106e3ee7198ccebf0c92]
+### 26. Extended time limit for bringing prosecutions[^c-94aa9fe67c20106e3ee7198ccebf0c92]
 
 No prosecution for an offence under these Regulations may be begun after the expiry of one year from the commission of the offence or six months from its discovery by the prosecutor, whichever is the earlier.
 
-### 27. Protection of officers etc. acting in good faith[^key-e3fe33d87444399676bc1ef61f16a36a]
+### 27. Protection of officers etc. acting in good faith[^c-e3fe33d87444399676bc1ef61f16a36a]
 
 (1) An authorised officer or an officer or agent of a control body is not liable in any civil or criminal proceedings for anything done in the purported execution of these Regulations, the Council Regulation, Commission Regulation 889/2008 or Commission Regulation 1235/2008 if the court is satisfied that the act was done in good faith and there were reasonable grounds for doing it.
 
@@ -338,7 +338,7 @@ No prosecution for an offence under these Regulations may be begun after the exp
 
 ## PART 6 — Supplementary provisions and revocations
 
-### 28. Use of electronic communications[^key-9c93d68eeb0f0f319b528916b9301716]
+### 28. Use of electronic communications[^c-9c93d68eeb0f0f319b528916b9301716]
 
 (1) Any requirement under or by virtue of these Regulations for a person to give a notice to another person may be met by means of an electronic communication if—
 
@@ -365,7 +365,7 @@ A senior officer of the
 
 Department of Finance
 
-## SCHEDULE — Specified EU Provisions[^key-d527157a8050cd246eb36cee371bf8ed]
+## SCHEDULE — Specified EU Provisions[^c-d527157a8050cd246eb36cee371bf8ed]
 
 Regulations 2(1) and 17
 
@@ -411,11 +411,11 @@ The Schedule lists provisions of the Council Regulation and two Commission Regul
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-eb760836974b17198eb42382ed88b66f]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2020/272) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-eb760836974b17198eb42382ed88b66f]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2020/272) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
-[^key-8b2e30d9e16428da5d391564d958460c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-8b2e30d9e16428da5d391564d958460c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-8cbf177deffb756d68920e62e2a59a4a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/272/regulation/2) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-8cbf177deffb756d68920e62e2a59a4a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/272/regulation/2) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
 [^f00003]: Footnote: OJ L250, 18.09.08, p 1 as last amended by Commission Implementing Regulation (EU) 2019/2164
 
@@ -427,60 +427,60 @@ The Schedule lists provisions of the Council Regulation and two Commission Regul
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-3a22de0042ba4c15262a55633f739470]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2020/272/regulation/3) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-3a22de0042ba4c15262a55633f739470]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2020/272/regulation/3) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-d4248390e72dedb289934efdd79cfc8e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2020/272/regulation/4) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-d4248390e72dedb289934efdd79cfc8e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2020/272/regulation/4) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-ec9fd9ba846ff916b1b67b84d32fec29]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2020/272/regulation/5) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-ec9fd9ba846ff916b1b67b84d32fec29]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2020/272/regulation/5) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-e5f6d4efca0ba4e15147cb7e82bbc540]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2020/272/regulation/6) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-e5f6d4efca0ba4e15147cb7e82bbc540]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2020/272/regulation/6) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-067c3787edb223ac22fa4454fd35eea1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2020/272/regulation/7) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-067c3787edb223ac22fa4454fd35eea1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2020/272/regulation/7) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-718d1b87fb8b4ca90144ac8c49fc5cdf]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2020/272/regulation/8) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-718d1b87fb8b4ca90144ac8c49fc5cdf]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2020/272/regulation/8) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-ba882c05fe7ad9f34bd81c72bc78b660]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2020/272/regulation/9) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-ba882c05fe7ad9f34bd81c72bc78b660]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2020/272/regulation/9) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-0e6f44a8f285c70e77a363c854e8643c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2020/272/regulation/10) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-0e6f44a8f285c70e77a363c854e8643c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2020/272/regulation/10) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-912ff1680fffc0de0ba9d88bea63ec0b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2020/272/regulation/11) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-912ff1680fffc0de0ba9d88bea63ec0b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2020/272/regulation/11) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-9c5ec8f0cbdc1b123ce51fdbd9a67f6e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2020/272/regulation/12) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-9c5ec8f0cbdc1b123ce51fdbd9a67f6e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2020/272/regulation/12) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-ab04139627429ad4f2714c0a6b03118b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2020/272/regulation/13) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-ab04139627429ad4f2714c0a6b03118b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2020/272/regulation/13) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-23a69b1dbe7bec1b4294f6378a4e9627]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2020/272/regulation/14) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-23a69b1dbe7bec1b4294f6378a4e9627]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2020/272/regulation/14) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-46448bd40c83c94902667c3c094b6854]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2020/272/regulation/15) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-46448bd40c83c94902667c3c094b6854]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2020/272/regulation/15) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-88ad86907e404f77e193c83efb63dffd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2020/272/regulation/16) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-88ad86907e404f77e193c83efb63dffd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2020/272/regulation/16) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762), to which there are amendments not relevant to these Regulations.
 
-[^key-5abc9fae194c09023fed9b2848c443aa]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2020/272/regulation/17) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-5abc9fae194c09023fed9b2848c443aa]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2020/272/regulation/17) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-8a895af237b9fd091b21ad71401a57fb]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2020/272/regulation/18) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-8a895af237b9fd091b21ad71401a57fb]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2020/272/regulation/18) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-071dbe6b407c36ed741b04bf506939b4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2020/272/regulation/19) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-071dbe6b407c36ed741b04bf506939b4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2020/272/regulation/19) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-71454447fba3d4f9d1c26203fefd9a9b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2020/272/regulation/20) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-71454447fba3d4f9d1c26203fefd9a9b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2020/272/regulation/20) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-9a6839dd6d44807e158da991ab6015df]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2020/272/regulation/21) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-9a6839dd6d44807e158da991ab6015df]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2020/272/regulation/21) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-dd4785b877cb2b2ab7b8c31adbf2f902]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2020/272/regulation/22) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-dd4785b877cb2b2ab7b8c31adbf2f902]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2020/272/regulation/22) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-a49990b11d626de50ad87286d1290935]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2020/272/regulation/23) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-a49990b11d626de50ad87286d1290935]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2020/272/regulation/23) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-e14ab8062ffa75b6f7b0935f5cb0a25b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2020/272/regulation/24) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-e14ab8062ffa75b6f7b0935f5cb0a25b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2020/272/regulation/24) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-02f77641204edc70782ef958a7d0b345]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2020/272/regulation/25) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-02f77641204edc70782ef958a7d0b345]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2020/272/regulation/25) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-94aa9fe67c20106e3ee7198ccebf0c92]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2020/272/regulation/26) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-94aa9fe67c20106e3ee7198ccebf0c92]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2020/272/regulation/26) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-e3fe33d87444399676bc1ef61f16a36a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2020/272/regulation/27) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-e3fe33d87444399676bc1ef61f16a36a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2020/272/regulation/27) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
-[^key-9c93d68eeb0f0f319b528916b9301716]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2020/272/regulation/28) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-9c93d68eeb0f0f319b528916b9301716]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2020/272/regulation/28) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
 
 [^f00009]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-d527157a8050cd246eb36cee371bf8ed]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2020/272/schedule) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)
+[^c-d527157a8050cd246eb36cee371bf8ed]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2020/272/schedule) in operation at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/272/regulation/1)

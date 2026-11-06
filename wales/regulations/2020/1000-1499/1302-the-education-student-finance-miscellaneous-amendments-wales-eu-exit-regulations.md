@@ -49,7 +49,7 @@ now exercisable by them[^f00003] and powers conferred on them under sections 5(5
 
 ## PART 1 — TITLE, COMMENCEMENT AND APPLICATION
 
-### 1. Title, commencement and application[^key-b1ff6e1c7cd8d0c153c28d6b95341f2a]
+### 1. Title, commencement and application[^c-b1ff6e1c7cd8d0c153c28d6b95341f2a]
 
 (1) The title of these Regulations is the Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020.
 
@@ -61,15 +61,15 @@ now exercisable by them[^f00003] and powers conferred on them under sections 5(5
 
 ## PART 2 — REVOCATION OF REGULATIONS
 
-**2.**[^key-13528be4204f567c4f43da0f8e379a86] The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^f00005] and the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) (Amendment) (EU Exit) Regulations 2019[^f00006] are revoked.
+**2.**[^c-13528be4204f567c4f43da0f8e379a86] The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^f00005] and the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) (Amendment) (EU Exit) Regulations 2019[^f00006] are revoked.
 
 ## PART 3 — AMENDMENT OF REGULATIONS
 
-### 3. Amendments to the Education (Fees and Awards) (Wales) Regulations 2007[^key-39f8f0e77c614561f6cd95445b89a7fd]
+### 3. Amendments to the Education (Fees and Awards) (Wales) Regulations 2007[^c-39f8f0e77c614561f6cd95445b89a7fd]
 
 The Education (Fees and Awards) (Wales) Regulations 2007[^f00007] are amended as follows.
 
-### 4. Amendments to regulation 2[^key-498ba6726ace8975276cd98c254d7fcf]
+### 4. Amendments to regulation 2[^c-498ba6726ace8975276cd98c254d7fcf]
 
 In regulation 2 (interpretation)—
 
@@ -85,7 +85,7 @@ In regulation 2 (interpretation)—
   - (iii) for “the territory comprising the European Economic Area, Switzerland and Turkey” substitute “the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey”;
 - (e) in paragraph (7), after “an area” insert “other than the United Kingdom or Gibraltar”.
 
-### 5. Amendments to the Schedule[^key-ce86a09dd213c15b01c31fd50acc4b45]
+### 5. Amendments to the Schedule[^c-ce86a09dd213c15b01c31fd50acc4b45]
 
 (1) The Schedule is amended as follows.
 
@@ -190,23 +190,23 @@ In regulation 2 (interpretation)—
 
 (10) In paragraph 12(c) (children of Turkish workers), after “the territory comprising” insert “the United Kingdom,”.
 
-### 6. Amendments to the Education (European University Institute) (Wales) Regulations 2014[^key-28cedf0a544bbb9bf67779259bae376f]
+### 6. Amendments to the Education (European University Institute) (Wales) Regulations 2014[^c-28cedf0a544bbb9bf67779259bae376f]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendments to Schedule 1[^key-28cedf0a544bbb9bf67779259bae376f]
+### 7. Amendments to Schedule 1[^c-28cedf0a544bbb9bf67779259bae376f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendments to Schedule 2[^key-28cedf0a544bbb9bf67779259bae376f]
+### 8. Amendments to Schedule 2[^c-28cedf0a544bbb9bf67779259bae376f]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^key-8a2d0484e25121566442ccf5244a4a00]
+### 9. Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^c-8a2d0484e25121566442ccf5244a4a00]
 
 (1) The Schedule to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00010] is amended as follows.
 
@@ -311,15 +311,15 @@ In regulation 2 (interpretation)—
 
 (10) In paragraph 12(c) (children of Turkish workers), after “the territory comprising” insert “the United Kingdom,”.
 
-### 10. Amendments to the Education (Student Support) (Wales) Regulations 2017[^key-c24da36b97df601609ef64c0b1123b3d]
+### 10. Amendments to the Education (Student Support) (Wales) Regulations 2017[^c-c24da36b97df601609ef64c0b1123b3d]
 
 The Education (Student Support) (Wales) Regulations 2017[^f00011] are amended as follows.
 
-### 11. Amendment to regulation 2[^key-e20ccb7631385282d4e26252e633e113]
+### 11. Amendment to regulation 2[^c-e20ccb7631385282d4e26252e633e113]
 
 In regulation 2(1) (interpretation), omit the definition of “right of permanent residence”.
 
-### 12. Amendments to regulation 15[^key-4c439bc910db7743f807a74597c516a0]
+### 12. Amendments to regulation 15[^c-4c439bc910db7743f807a74597c516a0]
 
 In regulation 15 (events)—
 
@@ -330,7 +330,7 @@ In regulation 15 (events)—
 
   .
 
-### 13. Amendment to regulation 23[^key-c8050163aaa551a3b70890c6af36b01c]
+### 13. Amendment to regulation 23[^c-c8050163aaa551a3b70890c6af36b01c]
 
 For regulation 23(12)(d) (general qualifying conditions for grants for living costs) substitute—
 
@@ -338,7 +338,7 @@ For regulation 23(12)(d) (general qualifying conditions for grants for living co
 
 .
 
-### 14. Amendments to regulation 30[^key-76df010795418f8433beea7f78b832e0]
+### 14. Amendments to regulation 30[^c-76df010795418f8433beea7f78b832e0]
 
 In regulation 30(1) (grants for dependants – interpretation), in sub-paragraph (o)—
 
@@ -353,7 +353,7 @@ In regulation 30(1) (grants for dependants – interpretation), in sub-paragraph
 
   .
 
-### 15. Amendment to regulation 49[^key-2c484c4b0266e825d561d04b800630a4]
+### 15. Amendment to regulation 49[^c-2c484c4b0266e825d561d04b800630a4]
 
 For regulation 49(2)(d) (students becoming eligible during the course of an academic year) substitute—
 
@@ -361,7 +361,7 @@ For regulation 49(2)(d) (students becoming eligible during the course of an acad
 
 .
 
-### 16. Amendments to regulation 65[^key-83b0590d96771b5b565c039707bfbf03]
+### 16. Amendments to regulation 65[^c-83b0590d96771b5b565c039707bfbf03]
 
 In regulation 65(4) (students becoming eligible during the course of the academic year)—
 
@@ -372,7 +372,7 @@ In regulation 65(4) (students becoming eligible during the course of the academi
 
   .
 
-### 17. Amendments to regulation 82[^key-f02715a20ec85d38ed7d7b7ac7f2c7a7]
+### 17. Amendments to regulation 82[^c-f02715a20ec85d38ed7d7b7ac7f2c7a7]
 
 In regulation 82(4) (students becoming eligible during the course of the academic year)—
 
@@ -383,7 +383,7 @@ In regulation 82(4) (students becoming eligible during the course of the academi
 
   .
 
-### 18. Amendments to regulation 95[^key-d681030b178127b06a4ec50a7397186c]
+### 18. Amendments to regulation 95[^c-d681030b178127b06a4ec50a7397186c]
 
 In regulation 95(1) (part-time grants for dependants – interpretation), in sub-paragraph (o)—
 
@@ -398,7 +398,7 @@ In regulation 95(1) (part-time grants for dependants – interpretation), in sub
 
   .
 
-### 19. Amendment to regulation 111[^key-847433198cb8166cfd037fad94a90201]
+### 19. Amendment to regulation 111[^c-847433198cb8166cfd037fad94a90201]
 
 For regulation 111(2)(d) (students becoming eligible during the course of an academic year) substitute—
 
@@ -406,7 +406,7 @@ For regulation 111(2)(d) (students becoming eligible during the course of an aca
 
 .
 
-### 20. Amendments to Schedule 1[^key-5446b0d7762aab438c45266ccc444033]
+### 20. Amendments to Schedule 1[^c-5446b0d7762aab438c45266ccc444033]
 
 (1) Schedule 1 (eligible students) is amended as follows.
 
@@ -499,7 +499,7 @@ For regulation 111(2)(d) (students becoming eligible during the course of an aca
   ;
 - (h) in paragraph 12(c) (children of Turkish workers), after “the territory comprising” insert “the United Kingdom, Gibraltar,”.
 
-### 21. Amendments to Schedule 4[^key-db0239ecb8cdb72708053200009cdaa7]
+### 21. Amendments to Schedule 4[^c-db0239ecb8cdb72708053200009cdaa7]
 
 In Schedule 4 (college fee loans), paragraph 6—
 
@@ -510,7 +510,7 @@ In Schedule 4 (college fee loans), paragraph 6—
 
   .
 
-### 22. Amendments to Schedule 5[^key-de7cba9a9d1e62e235f9e332c1df6783]
+### 22. Amendments to Schedule 5[^c-de7cba9a9d1e62e235f9e332c1df6783]
 
 (1) Schedule 5 (financial assessment) is amended as follows.
 
@@ -537,7 +537,7 @@ In Schedule 4 (college fee loans), paragraph 6—
   - (ii) sub-paragraph (6), in each place it occurs;
   - (iii) sub-paragraph (7).
 
-### 23. Amendments to Schedule 6[^key-f246060a5a94211e7f48a6e6ce58413c]
+### 23. Amendments to Schedule 6[^c-f246060a5a94211e7f48a6e6ce58413c]
 
 (1) Schedule 6 (financial assessment – part-time grants for dependants) is amended as follows.
 
@@ -562,15 +562,15 @@ In Schedule 4 (college fee loans), paragraph 6—
   - (ii) sub-paragraph (6), in each place it occurs;
   - (iii) sub-paragraph (7).
 
-### 24. Amendments to the Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^key-aea464681eabe99fbd89020537881153]
+### 24. Amendments to the Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^c-aea464681eabe99fbd89020537881153]
 
 The Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^f00012] are amended as follows.
 
-### 25. Amendment to regulation 2[^key-058dd63e3421139b4448dc336d5db8c8]
+### 25. Amendment to regulation 2[^c-058dd63e3421139b4448dc336d5db8c8]
 
 In regulation 2(1) (interpretation), omit the definition of “right of permanent residence”.
 
-### 26. Amendments to regulation 8[^key-798480f8f044d8d5d42c5d8e8edc6402]
+### 26. Amendments to regulation 8[^c-798480f8f044d8d5d42c5d8e8edc6402]
 
 In regulation 8 (events)—
 
@@ -581,7 +581,7 @@ In regulation 8 (events)—
 
   .
 
-### 27. Amendments to Schedule 1[^key-23488941437c4b6e46fc9b0ce3378082]
+### 27. Amendments to Schedule 1[^c-23488941437c4b6e46fc9b0ce3378082]
 
 (1) Schedule 1 (eligible students) is amended as follows.
 
@@ -674,11 +674,11 @@ In regulation 8 (events)—
   ;
 - (h) in paragraph 12(c) (children of Turkish workers), after “the territory comprising” insert “the United Kingdom, Gibraltar,”.
 
-### 28. Amendments to the Education (Student Support) (Wales) Regulations 2018[^key-6625fd1b384330278bc10180af04ae29]
+### 28. Amendments to the Education (Student Support) (Wales) Regulations 2018[^c-6625fd1b384330278bc10180af04ae29]
 
 The Education (Student Support) (Wales) Regulations 2018[^f00013] are amended as follows.
 
-### 29. Amendments to regulation 80[^key-4b618b624a645835bdf12f650c01808f]
+### 29. Amendments to regulation 80[^c-4b618b624a645835bdf12f650c01808f]
 
 In regulation 80(2)(b) (qualifying for a tuition fee loan during the academic year)—
 
@@ -689,7 +689,7 @@ In regulation 80(2)(b) (qualifying for a tuition fee loan during the academic ye
 
   .
 
-### 30. Amendment to regulation 81[^key-6fa363d8a7a1bc03aba6a79daac58e68]
+### 30. Amendment to regulation 81[^c-6fa363d8a7a1bc03aba6a79daac58e68]
 
 For regulation 81(3)(b)(iii) (qualifying for grants or maintenance loan during the academic year) substitute—
 
@@ -697,7 +697,7 @@ For regulation 81(3)(b)(iii) (qualifying for grants or maintenance loan during t
 
 .
 
-### 31. Amendments to Schedule 2[^key-ae559f5e9560af64128a4f0bde8b51b5]
+### 31. Amendments to Schedule 2[^c-ae559f5e9560af64128a4f0bde8b51b5]
 
 (1) Schedule 2 (categories of eligible student) is amended as follows.
 
@@ -797,7 +797,7 @@ For regulation 81(3)(b)(iii) (qualifying for grants or maintenance loan during t
 
   .
 
-### 32. Amendments to Schedule 3[^key-4d0ff078070c90d117e87e5648e7d23c]
+### 32. Amendments to Schedule 3[^c-4d0ff078070c90d117e87e5648e7d23c]
 
 (1) Schedule 3 (calculation of income) is amended as follows.
 
@@ -822,7 +822,7 @@ For regulation 81(3)(b)(iii) (qualifying for grants or maintenance loan during t
 - (c) paragraph 18 (treatment of income not treated as income for income tax purposes), in each place it occurs;
 - (d) paragraph 19(1) (P’s income in currency other than sterling).
 
-### 33. Amendments to Schedule 5[^key-fe8da5f172ffd72563e84fb3e7d8ac42]
+### 33. Amendments to Schedule 5[^c-fe8da5f172ffd72563e84fb3e7d8ac42]
 
 (1) Schedule 5 (Oxbridge college fee loans) is amended as follows.
 
@@ -835,15 +835,15 @@ For regulation 81(3)(b)(iii) (qualifying for grants or maintenance loan during t
 
   .
 
-### 34. Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^key-4aa12bdb77ef7228d265d75fcd8010c0]
+### 34. Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^c-4aa12bdb77ef7228d265d75fcd8010c0]
 
 The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00014] are amended as follows.
 
-### 35. Amendment to regulation 2[^key-fa71e631394919fa9cb431d0b769400c]
+### 35. Amendment to regulation 2[^c-fa71e631394919fa9cb431d0b769400c]
 
 In regulation 2(1) (interpretation), omit the definition of “right of permanent residence”.
 
-### 36. Amendments to regulation 8[^key-c2d531c92bee89e08d3c050b3604a0d8]
+### 36. Amendments to regulation 8[^c-c2d531c92bee89e08d3c050b3604a0d8]
 
 In regulation 8 (events)—
 
@@ -854,7 +854,7 @@ In regulation 8 (events)—
 
   .
 
-### 37. Amendments to Schedule 1[^key-856a2c2f033384dc3d960b97c169e06c]
+### 37. Amendments to Schedule 1[^c-856a2c2f033384dc3d960b97c169e06c]
 
 (1) Schedule 1 (eligible students) is amended as follows.
 
@@ -947,11 +947,11 @@ In regulation 8 (events)—
   ;
 - (h) in paragraph 13(c) (children of Turkish workers), after “the territory comprising” insert “the United Kingdom, Gibraltar,”.
 
-### 38. Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^key-0761da1571b4082ab23226f73dcd4610]
+### 38. Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^c-0761da1571b4082ab23226f73dcd4610]
 
 The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00015] are amended as follows.
 
-### 39. Amendments to regulation 16[^key-6008619cda0b5523091f6983dafd9447]
+### 39. Amendments to regulation 16[^c-6008619cda0b5523091f6983dafd9447]
 
 In regulation 16(1)(b) (students becoming eligible during a course)—
 
@@ -962,7 +962,7 @@ In regulation 16(1)(b) (students becoming eligible during a course)—
 
   .
 
-### 40. Amendments to Schedule 2[^key-7f837fed82ca18c56d47661557d5b425]
+### 40. Amendments to Schedule 2[^c-7f837fed82ca18c56d47661557d5b425]
 
 (1) Schedule 2 (categories of eligible students) is amended as follows.
 
@@ -1062,7 +1062,7 @@ In regulation 16(1)(b) (students becoming eligible during a course)—
 
   .
 
-### 41. Amendments to Schedule 3[^key-5bfd5e181d1d4eb9effd43d144caff19]
+### 41. Amendments to Schedule 3[^c-5bfd5e181d1d4eb9effd43d144caff19]
 
 (1) Schedule 3 (calculation of income) is amended as follows.
 
@@ -1154,100 +1154,100 @@ The Welsh Ministers Code of Practice on the carrying out of Regulatory Impact As
 
 [^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1).
 
-[^key-b1ff6e1c7cd8d0c153c28d6b95341f2a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1) in force at 31.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/2)
+[^c-b1ff6e1c7cd8d0c153c28d6b95341f2a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1) in force at 31.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/2)
 
-[^key-13528be4204f567c4f43da0f8e379a86]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2020/1302/regulation/2) in force at 31.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/2)
+[^c-13528be4204f567c4f43da0f8e379a86]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2020/1302/regulation/2) in force at 31.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2019/424 (W. 98)](https://www.legislation.gov.uk/wsi/2019/424).
 
 [^f00006]: Footnote: [S.I. 2019/1039 (W. 182)](https://www.legislation.gov.uk/wsi/2019/1039).
 
-[^key-39f8f0e77c614561f6cd95445b89a7fd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/1302/regulation/3) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-39f8f0e77c614561f6cd95445b89a7fd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/1302/regulation/3) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
 [^f00007]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310), amended by [S.I. 2008/1259 (W. 126)](https://www.legislation.gov.uk/wsi/2008/1259), [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142), [S.I. 2011/1978 (W. 218)](https://www.legislation.gov.uk/wsi/2011/1978), [S.I. 2013/1792 (W. 179)](https://www.legislation.gov.uk/wsi/2013/1792), [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235) and [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); there are other amending instruments but none is relevant.
 
-[^key-498ba6726ace8975276cd98c254d7fcf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2020/1302/regulation/4) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-498ba6726ace8975276cd98c254d7fcf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2020/1302/regulation/4) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-ce86a09dd213c15b01c31fd50acc4b45]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2020/1302/regulation/5) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-ce86a09dd213c15b01c31fd50acc4b45]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2020/1302/regulation/5) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
 [^f00008]: Footnote: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-28cedf0a544bbb9bf67779259bae376f]: Textual amendment: [Regs. 6-8](https://www.legislation.gov.uk/wsi/2020/1302/regulation/6) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.[S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3)), regs. 1(2), 2, 10(e)
+[^c-28cedf0a544bbb9bf67779259bae376f]: Textual amendment: [Regs. 6-8](https://www.legislation.gov.uk/wsi/2020/1302/regulation/6) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.[S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3)), regs. 1(2), 2, 10(e)
 
-[^key-8a2d0484e25121566442ccf5244a4a00]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2020/1302/regulation/9) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-8a2d0484e25121566442ccf5244a4a00]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2020/1302/regulation/9) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
 [^f00010]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484), amended by [S.I. 2016/276 (W. 100)](https://www.legislation.gov.uk/wsi/2016/276), [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235) and [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192).
 
-[^key-c24da36b97df601609ef64c0b1123b3d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2020/1302/regulation/10) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-c24da36b97df601609ef64c0b1123b3d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2020/1302/regulation/10) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
 [^f00011]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), amended by [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235), [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192) and [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142).
 
-[^key-e20ccb7631385282d4e26252e633e113]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2020/1302/regulation/11) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-e20ccb7631385282d4e26252e633e113]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2020/1302/regulation/11) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-4c439bc910db7743f807a74597c516a0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2020/1302/regulation/12) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-4c439bc910db7743f807a74597c516a0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2020/1302/regulation/12) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-c8050163aaa551a3b70890c6af36b01c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2020/1302/regulation/13) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-c8050163aaa551a3b70890c6af36b01c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2020/1302/regulation/13) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-76df010795418f8433beea7f78b832e0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2020/1302/regulation/14) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-76df010795418f8433beea7f78b832e0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2020/1302/regulation/14) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-2c484c4b0266e825d561d04b800630a4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2020/1302/regulation/15) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-2c484c4b0266e825d561d04b800630a4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2020/1302/regulation/15) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-83b0590d96771b5b565c039707bfbf03]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2020/1302/regulation/16) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-83b0590d96771b5b565c039707bfbf03]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2020/1302/regulation/16) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-f02715a20ec85d38ed7d7b7ac7f2c7a7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2020/1302/regulation/17) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-f02715a20ec85d38ed7d7b7ac7f2c7a7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2020/1302/regulation/17) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-d681030b178127b06a4ec50a7397186c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2020/1302/regulation/18) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-d681030b178127b06a4ec50a7397186c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2020/1302/regulation/18) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-847433198cb8166cfd037fad94a90201]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2020/1302/regulation/19) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-847433198cb8166cfd037fad94a90201]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2020/1302/regulation/19) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-5446b0d7762aab438c45266ccc444033]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2020/1302/regulation/20) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-5446b0d7762aab438c45266ccc444033]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2020/1302/regulation/20) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-db0239ecb8cdb72708053200009cdaa7]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2020/1302/regulation/21) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-db0239ecb8cdb72708053200009cdaa7]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2020/1302/regulation/21) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-de7cba9a9d1e62e235f9e332c1df6783]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2020/1302/regulation/22) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-de7cba9a9d1e62e235f9e332c1df6783]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2020/1302/regulation/22) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-f246060a5a94211e7f48a6e6ce58413c]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2020/1302/regulation/23) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-f246060a5a94211e7f48a6e6ce58413c]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2020/1302/regulation/23) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-aea464681eabe99fbd89020537881153]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2020/1302/regulation/24) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-aea464681eabe99fbd89020537881153]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2020/1302/regulation/24) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
 [^f00012]: Footnote: [S.I. 2017/523 (W. 109)](https://www.legislation.gov.uk/wsi/2017/523), amended by [S.I. 2017/712 (W. 169)](https://www.legislation.gov.uk/wsi/2017/712), [S.I. 2018/277 (W. 53)](https://www.legislation.gov.uk/wsi/2018/277), [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895), [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192) and [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142).
 
-[^key-058dd63e3421139b4448dc336d5db8c8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2020/1302/regulation/25) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-058dd63e3421139b4448dc336d5db8c8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2020/1302/regulation/25) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-798480f8f044d8d5d42c5d8e8edc6402]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2020/1302/regulation/26) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-798480f8f044d8d5d42c5d8e8edc6402]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2020/1302/regulation/26) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-23488941437c4b6e46fc9b0ce3378082]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-23488941437c4b6e46fc9b0ce3378082]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-6625fd1b384330278bc10180af04ae29]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2020/1302/regulation/28) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-6625fd1b384330278bc10180af04ae29]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2020/1302/regulation/28) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
 [^f00013]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), amended by [S.I. 2018/813 (W. 164)](https://www.legislation.gov.uk/wsi/2018/813), [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235) and [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142).
 
-[^key-4b618b624a645835bdf12f650c01808f]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2020/1302/regulation/29) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-4b618b624a645835bdf12f650c01808f]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2020/1302/regulation/29) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-6fa363d8a7a1bc03aba6a79daac58e68]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2020/1302/regulation/30) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-6fa363d8a7a1bc03aba6a79daac58e68]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2020/1302/regulation/30) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-ae559f5e9560af64128a4f0bde8b51b5]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2020/1302/regulation/31) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-ae559f5e9560af64128a4f0bde8b51b5]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2020/1302/regulation/31) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-4d0ff078070c90d117e87e5648e7d23c]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2020/1302/regulation/32) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-4d0ff078070c90d117e87e5648e7d23c]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2020/1302/regulation/32) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-fe8da5f172ffd72563e84fb3e7d8ac42]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2020/1302/regulation/33) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-fe8da5f172ffd72563e84fb3e7d8ac42]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2020/1302/regulation/33) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-4aa12bdb77ef7228d265d75fcd8010c0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2020/1302/regulation/34) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-4aa12bdb77ef7228d265d75fcd8010c0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2020/1302/regulation/34) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
 [^f00014]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656), amended by [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814) [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235) and [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192).
 
-[^key-fa71e631394919fa9cb431d0b769400c]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2020/1302/regulation/35) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-fa71e631394919fa9cb431d0b769400c]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2020/1302/regulation/35) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-c2d531c92bee89e08d3c050b3604a0d8]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2020/1302/regulation/36) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-c2d531c92bee89e08d3c050b3604a0d8]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2020/1302/regulation/36) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-856a2c2f033384dc3d960b97c169e06c]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2020/1302/regulation/37) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-856a2c2f033384dc3d960b97c169e06c]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2020/1302/regulation/37) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-0761da1571b4082ab23226f73dcd4610]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2020/1302/regulation/38) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-0761da1571b4082ab23226f73dcd4610]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2020/1302/regulation/38) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
 [^f00015]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895), amended by [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142).
 
-[^key-6008619cda0b5523091f6983dafd9447]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2020/1302/regulation/39) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-6008619cda0b5523091f6983dafd9447]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2020/1302/regulation/39) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-7f837fed82ca18c56d47661557d5b425]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2020/1302/regulation/40) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-7f837fed82ca18c56d47661557d5b425]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2020/1302/regulation/40) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
 
-[^key-5bfd5e181d1d4eb9effd43d144caff19]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)
+[^c-5bfd5e181d1d4eb9effd43d144caff19]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3)

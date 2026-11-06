@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Licensing of NHS foundation trusts[^key-cb17c76895c922a08c7d3d7f4e15b3da][^key-5609784148eb155fecc499294c58bfe3]
+## 61. Licensing of NHS foundation trusts[^c-cb17c76895c922a08c7d3d7f4e15b3da][^c-5609784148eb155fecc499294c58bfe3]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In section 88 of the Health and Social Care Act 2012 (application and grant of l
 
 ## Annotations
 
-[^key-cb17c76895c922a08c7d3d7f4e15b3da]: Commencement: S. 61 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-cb17c76895c922a08c7d3d7f4e15b3da]: Commencement: S. 61 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-5609784148eb155fecc499294c58bfe3]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2022/31/section/61) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-5609784148eb155fecc499294c58bfe3]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2022/31/section/61) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

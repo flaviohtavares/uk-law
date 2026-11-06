@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Power to contract for police services[^key-cb84d2c36a3626f979901c00aab79a19]
+## 40. Power to contract for police services[^c-cb84d2c36a3626f979901c00aab79a19]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb84d2c36a3626f979901c00aab79a19]: Commencement: Art. 40 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-cb84d2c36a3626f979901c00aab79a19]: Commencement: Art. 40 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00026]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).

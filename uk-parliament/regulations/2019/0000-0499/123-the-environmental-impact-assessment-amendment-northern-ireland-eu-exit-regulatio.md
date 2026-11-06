@@ -40,7 +40,7 @@ Forestry, Northern Ireland
 
 Water Resources, Northern Ireland
 
-The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^key-74f5ad04e83e7e23b717c4df1c5be3fc]
+The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^c-74f5ad04e83e7e23b717c4df1c5be3fc]
 
 Sift requirements satisfied
 
@@ -56,36 +56,36 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-74f5ad04e83e7e23b717c4df1c5be3fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74f5ad04e83e7e23b717c4df1c5be3fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-74f5ad04e83e7e23b717c4df1c5be3fc]
+## 1. Citation, commencement and extent[^c-74f5ad04e83e7e23b717c4df1c5be3fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Environmental Assessment of Plans and Programmes Regulations (Northern Ireland) 2004[^key-74f5ad04e83e7e23b717c4df1c5be3fc]
+## 2. Amendments to the Environmental Assessment of Plans and Programmes Regulations (Northern Ireland) 2004[^c-74f5ad04e83e7e23b717c4df1c5be3fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Environmental Impact Assessment (Forestry) Regulations (Northern Ireland) 2006[^key-74f5ad04e83e7e23b717c4df1c5be3fc]
+## 3. Amendments to the Environmental Impact Assessment (Forestry) Regulations (Northern Ireland) 2006[^c-74f5ad04e83e7e23b717c4df1c5be3fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Environmental Impact Assessment (Agriculture) Regulations (Northern Ireland) 2007[^key-74f5ad04e83e7e23b717c4df1c5be3fc]
+## 4. Amendments to the Environmental Impact Assessment (Agriculture) Regulations (Northern Ireland) 2007[^c-74f5ad04e83e7e23b717c4df1c5be3fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Water Resources (Environmental Impact Assessment) Regulations (Northern Ireland) 2017[^key-74f5ad04e83e7e23b717c4df1c5be3fc]
+## 5. Amendments to the Water Resources (Environmental Impact Assessment) Regulations (Northern Ireland) 2017[^c-74f5ad04e83e7e23b717c4df1c5be3fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74f5ad04e83e7e23b717c4df1c5be3fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74f5ad04e83e7e23b717c4df1c5be3fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-74f5ad04e83e7e23b717c4df1c5be3fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74f5ad04e83e7e23b717c4df1c5be3fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74f5ad04e83e7e23b717c4df1c5be3fc]: Textual amendment: Regulations revoked (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2019/279/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74f5ad04e83e7e23b717c4df1c5be3fc]: Textual amendment: Regulations revoked (31.12.2020) by [The Environmental Impact Assessment (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/279)](https://www.legislation.gov.uk/uksi/2019/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/279/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2019/279/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

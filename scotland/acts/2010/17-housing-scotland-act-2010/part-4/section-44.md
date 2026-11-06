@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Inquiries: survey powers[^key-8ce0a6f7a9a5bbe5df7640a08f64d330]
+## 44. Inquiries: survey powers[^c-8ce0a6f7a9a5bbe5df7640a08f64d330]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ce0a6f7a9a5bbe5df7640a08f64d330]: Commencement: S. 44 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-8ce0a6f7a9a5bbe5df7640a08f64d330]: Commencement: S. 44 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

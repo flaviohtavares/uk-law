@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Small producer exemption[^key-0467decd7afcd87c9c24d7e9c3113d04]
+## 37. Small producer exemption[^c-0467decd7afcd87c9c24d7e9c3113d04]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0467decd7afcd87c9c24d7e9c3113d04]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/10/section/37) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-0467decd7afcd87c9c24d7e9c3113d04]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/10/section/37) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Community special schools[^key-4951a4f339afb0d4d612cbbe6be247c7]
+## 15. Community special schools[^c-4951a4f339afb0d4d612cbbe6be247c7]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
   | *Category of governor* | *Normal basis* | *Option if less than 100 registered pupils* |
   | --- | --- | --- |
   | Parent Governors | 4 or 5 | 3 |
-  | Authority governors[^key-caea41cff2cdc92e79f95f866a20725d] | 3 or 4 | 2 |
+  | Authority governors[^c-caea41cff2cdc92e79f95f866a20725d] | 3 or 4 | 2 |
   | Teacher Governors | 1 or 2 | 1 |
   | Staff governors | 1 | 1 or 0 |
   | Community Governors | 3 or 4 | 2 |
@@ -39,7 +39,7 @@ summary: ''
 
 (3) As regards the alternatives specified in the second of the table, the governing body of a community special school to which that column applies must be constituted in such a way as to reflect either all the first alternatives or all the second alternatives.
 
-(4) Where a community special school is established in a hospital the local authority[^key-53cce6a313c521fbc7cc7016977bee99] must designate as the appropriate body—
+(4) Where a community special school is established in a hospital the local authority[^c-53cce6a313c521fbc7cc7016977bee99] must designate as the appropriate body—
 
 - (a) one local health board or more than one board to act jointly, or
 - (b) the National Health Service Trust,
@@ -48,15 +48,15 @@ with which the school is most closely associated and the appropriate body must a
 
 (5) Where a community special school is not established in a hospital—
 
-- (a) the local authority[^key-c4c79c7967c926688a9099569a46b877] may designate one voluntary organisation or more than one such organisation to act jointly, as the appropriate voluntary organisation concerned with matters in respect of which the school is specially organised, and
+- (a) the local authority[^c-c4c79c7967c926688a9099569a46b877] may designate one voluntary organisation or more than one such organisation to act jointly, as the appropriate voluntary organisation concerned with matters in respect of which the school is specially organised, and
 - (b) where an appropriate voluntary organisation is so designated, it must appoint the representative governor to take the place of one of the number of community governors specified in whichever of the second or third column of the table as applies to the school.
 
 ## Annotations
 
-[^key-4951a4f339afb0d4d612cbbe6be247c7]: Commencement: Reg. 15 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-4951a4f339afb0d4d612cbbe6be247c7]: Commencement: Reg. 15 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-caea41cff2cdc92e79f95f866a20725d]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/wsi/2005/2914/regulation/15) Table substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/7)
+[^c-caea41cff2cdc92e79f95f866a20725d]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/wsi/2005/2914/regulation/15) Table substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/7)
 
-[^key-53cce6a313c521fbc7cc7016977bee99]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/15/4) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(8)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/8)
+[^c-53cce6a313c521fbc7cc7016977bee99]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/15/4) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(8)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/8)
 
-[^key-c4c79c7967c926688a9099569a46b877]: Textual amendment: Words in [reg. 15(5)(a)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/15/5/a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(8)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/8)
+[^c-c4c79c7967c926688a9099569a46b877]: Textual amendment: Words in [reg. 15(5)(a)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/15/5/a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(8)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/8)

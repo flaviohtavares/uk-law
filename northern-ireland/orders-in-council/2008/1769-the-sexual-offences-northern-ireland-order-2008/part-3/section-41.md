@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Articles 38 to 40: interpretation[^key-23b1c3d893cc32c3f7d79361091e14a5]
+## 41. Articles 38 to 40: interpretation[^c-23b1c3d893cc32c3f7d79361091e14a5]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ are to doing so in any part of the world.
 
 ## Annotations
 
-[^key-23b1c3d893cc32c3f7d79361091e14a5]: Textual amendment: [Art. 41](https://www.legislation.gov.uk/nisi/2008/1769/article/41) substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/6); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-23b1c3d893cc32c3f7d79361091e14a5]: Textual amendment: [Art. 41](https://www.legislation.gov.uk/nisi/2008/1769/article/41) substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/6); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)

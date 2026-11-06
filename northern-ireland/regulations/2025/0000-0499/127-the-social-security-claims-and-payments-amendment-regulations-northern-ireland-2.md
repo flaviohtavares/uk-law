@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 5(1)(a) and (j), 165(1), (4), (5), (5A) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-c557511e516a548da8517737a818bd3e]
+## 1. Citation, commencement and interpretation[^c-c557511e516a548da8517737a818bd3e]
 
 (1) These Regulations may be cited as the Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 1 August 2025.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-0392837fb113a438e950d5e373e87542]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-0392837fb113a438e950d5e373e87542]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00003] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -141,9 +141,9 @@ A full impact assessment has not been produced for these Regulations as no signi
 
 [^f00002]: Footnote: See Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-c557511e516a548da8517737a818bd3e]: Commencement: Reg. 1 in operation at 1.8.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/127/regulation/1/1)
+[^c-c557511e516a548da8517737a818bd3e]: Commencement: Reg. 1 in operation at 1.8.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/127/regulation/1/1)
 
-[^key-0392837fb113a438e950d5e373e87542]: Commencement: Reg. 2 in operation at 1.8.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/127/regulation/1/1)
+[^c-0392837fb113a438e950d5e373e87542]: Commencement: Reg. 2 in operation at 1.8.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/127/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 

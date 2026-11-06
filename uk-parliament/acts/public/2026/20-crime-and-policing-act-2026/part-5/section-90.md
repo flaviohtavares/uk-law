@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Exception in respect of certain disclosures by children[^key-9923fefd7da39bef4bbd6cc2d0518f9e]
+## 90. Exception in respect of certain disclosures by children[^c-9923fefd7da39bef4bbd6cc2d0518f9e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9923fefd7da39bef4bbd6cc2d0518f9e]: Commencement: S. 90 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9923fefd7da39bef4bbd6cc2d0518f9e]: Commencement: S. 90 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

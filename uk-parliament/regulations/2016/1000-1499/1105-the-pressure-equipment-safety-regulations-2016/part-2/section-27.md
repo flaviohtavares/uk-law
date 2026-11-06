@@ -26,7 +26,7 @@ summary: ''
 - (b) withdraw the pressure equipment or assembly; or
 - (c) recall the pressure equipment or assembly.
 
-(2) Where the pressure equipment or assembly presents a risk, the importer must immediately inform the market surveillance authority and the competent national authorities [^key-0745c234f38aec9ac35929b3cf420938]... of the risk, giving details of—
+(2) Where the pressure equipment or assembly presents a risk, the importer must immediately inform the market surveillance authority and the competent national authorities [^c-0745c234f38aec9ac35929b3cf420938]... of the risk, giving details of—
 
 - (a) the respect in which the pressure equipment or assembly is considered not to be in conformity with Part 2; and
 - (b) any corrective measures taken.
@@ -41,7 +41,7 @@ summary: ''
 - (b) withdraw the pressure equipment or assembly; or
 - (c) recall the pressure equipment or assembly.
 
-(2) Where the pressure equipment or assembly presents a risk, the importer must immediately inform the market surveillance authority and the competent national authorities of any other relevant state[^key-412bf334a9f694b466bd8bd689f0f299] in which the importer made the pressure equipment or assembly available on the market of the risk, giving details of—
+(2) Where the pressure equipment or assembly presents a risk, the importer must immediately inform the market surveillance authority and the competent national authorities of any other relevant state[^c-412bf334a9f694b466bd8bd689f0f299] in which the importer made the pressure equipment or assembly available on the market of the risk, giving details of—
 
 - (a) the respect in which the pressure equipment or assembly is considered not to be in conformity with Part 2; and
 - (b) any corrective measures taken.
@@ -50,8 +50,8 @@ summary: ''
 
 [^M_E_7cf9b2fb-e0f2-4fdf-978a-e31fbb6bf0b0]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-0745c234f38aec9ac35929b3cf420938]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/27/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 17](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/17) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0745c234f38aec9ac35929b3cf420938]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/27/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 17](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/17) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_621ee534-d5c5-4669-b511-a9a0ce6c40bd]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-412bf334a9f694b466bd8bd689f0f299]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/27/2) substituted (N.I.) (31.12.2020) by [The Pressure Vessels (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/678)](https://www.legislation.gov.uk/uksi/2020/678), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/678/regulation/1/b), [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/678/schedule/2/paragraph/3/1)
+[^c-412bf334a9f694b466bd8bd689f0f299]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/27/2) substituted (N.I.) (31.12.2020) by [The Pressure Vessels (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/678)](https://www.legislation.gov.uk/uksi/2020/678), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/678/regulation/1/b), [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/678/schedule/2/paragraph/3/1)

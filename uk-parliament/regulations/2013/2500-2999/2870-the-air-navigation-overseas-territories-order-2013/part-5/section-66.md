@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Keeping and production of records of exposure to cosmic radiation[^key-d9f3f357f4b46ad2d1a910180490ab0c]
+## 66. Keeping and production of records of exposure to cosmic radiation[^c-d9f3f357f4b46ad2d1a910180490ab0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9f3f357f4b46ad2d1a910180490ab0c]: Commencement: [Art. 66](https://www.legislation.gov.uk/uksi/2013/2870/article/66) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-d9f3f357f4b46ad2d1a910180490ab0c]: Commencement: [Art. 66](https://www.legislation.gov.uk/uksi/2013/2870/article/66) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

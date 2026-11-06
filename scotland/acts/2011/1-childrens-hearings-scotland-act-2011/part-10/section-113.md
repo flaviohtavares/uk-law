@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Child and relevant person: representation at review hearing[^key-f530e11ead4c2272806abe6be9b5507d]
+## 113. Child and relevant person: representation at review hearing[^c-f530e11ead4c2272806abe6be9b5507d]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f530e11ead4c2272806abe6be9b5507d]: Commencement: S. 113 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-f530e11ead4c2272806abe6be9b5507d]: Commencement: S. 113 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Parties being of the same sex no longer to be a ground on which a marriage is void[^key-3e12b7db6e1c4c5427b6384e857da47b]
+## 5. Parties being of the same sex no longer to be a ground on which a marriage is void[^c-3e12b7db6e1c4c5427b6384e857da47b]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3e12b7db6e1c4c5427b6384e857da47b]: Commencement: Reg. 5 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-3e12b7db6e1c4c5427b6384e857da47b]: Commencement: Reg. 5 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 1978/1045 (N.I. 15)](https://www.legislation.gov.uk/nisi/1978/1045).
 

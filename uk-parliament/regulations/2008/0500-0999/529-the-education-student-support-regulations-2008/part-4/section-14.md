@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Students becoming eligible in the course of an academic year[^key-b98c0e599ae287122fee0430c63e2aba]
+## 14. Students becoming eligible in the course of an academic year[^c-b98c0e599ae287122fee0430c63e2aba]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Where one of the events listed in regulation 15 occurs in the course of an acade
 
 ## Annotations
 
-[^key-b98c0e599ae287122fee0430c63e2aba]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-b98c0e599ae287122fee0430c63e2aba]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

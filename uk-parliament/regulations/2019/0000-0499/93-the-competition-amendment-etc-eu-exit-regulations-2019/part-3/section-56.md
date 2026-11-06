@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56.[^key-5e5ff75d975c9f940611f03e8b8d7c6b]
+## 56.[^c-5e5ff75d975c9f940611f03e8b8d7c6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 153(2) [^c23883181], omit the words from â€œ; and in this subsectionâ
 
 ## Annotations
 
-[^key-5e5ff75d975c9f940611f03e8b8d7c6b]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-5e5ff75d975c9f940611f03e8b8d7c6b]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883181]: Marginal citation: Section 153(2) was amended by [S.I. 2004/1079](https://www.legislation.gov.uk/uksi/2004/1079).

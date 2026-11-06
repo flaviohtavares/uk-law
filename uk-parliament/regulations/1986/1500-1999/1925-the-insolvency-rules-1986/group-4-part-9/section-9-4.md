@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.4. Procedure for examination[^key-f23f1fac9e09463122f5ecb50f001558]
+## 9.4. Procedure for examination[^c-f23f1fac9e09463122f5ecb50f001558]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Any other person who could have applied for an order under the applicable section in respect of the insolvent's affairs may, with the leave of the court and if the applicant does not object, attend the examination and put questions to the respondent (but only through the applicant).
 
-(3)[^key-ecb4b14671a552ae2d72554cd5a2db1e] If the respondent is ordered to clarify any matter or to give additional information, the court shall direct him as to the questions which he is required to answer, and as to whether his answers (if any) are to be made on affidavit.
+(3)[^c-ecb4b14671a552ae2d72554cd5a2db1e] If the respondent is ordered to clarify any matter or to give additional information, the court shall direct him as to the questions which he is required to answer, and as to whether his answers (if any) are to be made on affidavit.
 
 (4) Where application has been made under the applicable section on information provided by a creditor of the insolvent, that creditor may, with the leave of the court and if the applicant does not object, attend the examination and put questions to the respondent (but only through the applicant).
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f23f1fac9e09463122f5ecb50f001558]: Commencement: [Rule 9.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/9.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f23f1fac9e09463122f5ecb50f001558]: Commencement: [Rule 9.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/9.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-ecb4b14671a552ae2d72554cd5a2db1e]: Textual amendment: Rule 9.4(3) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/10)
+[^c-ecb4b14671a552ae2d72554cd5a2db1e]: Textual amendment: Rule 9.4(3) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/10)

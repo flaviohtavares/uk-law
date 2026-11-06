@@ -26,11 +26,11 @@ Section 11
 
 ### Part 1 — New scrutiny regime for combined authorities that are established mayoral strategic authorities
 
-#### 1. Introduction[^key-d16a9b7a27d97e7f4eef03a4beeb5ce4]
+#### 1. Introduction[^c-d16a9b7a27d97e7f4eef03a4beeb5ce4]
 
 LDEDCA 2009 is amended in accordance with this Part of this Schedule.
 
-#### 2. The new scrutiny regime[^key-a535c01d8731841ab74768e85fd04565]
+#### 2. The new scrutiny regime[^c-a535c01d8731841ab74768e85fd04565]
 
 After Schedule 5A insert—
 
@@ -423,11 +423,11 @@ After Schedule 5A insert—
 
 ### Part 2 — Amendments consequential on Part 1 of this Schedule
 
-#### 3. Introduction[^key-5e120bb7ff4627830f1cc759f0c9329d]
+#### 3. Introduction[^c-5e120bb7ff4627830f1cc759f0c9329d]
 
 LDEDCA 2009 is amended in accordance with this Part of this Schedule.
 
-#### 4. Section 104: overview and scrutiny committees[^key-866f30e8c99bbda29a9a461383496f05]
+#### 4. Section 104: overview and scrutiny committees[^c-866f30e8c99bbda29a9a461383496f05]
 
 (1) Section 104 is amended in accordance with this paragraph.
 
@@ -441,13 +441,13 @@ LDEDCA 2009 is amended in accordance with this Part of this Schedule.
 
 > (9B) In this section and Schedules 5A and 5AA “**established mayoral strategic authority**” has the same meaning as in the English Devolution and Community Empowerment Act 2026 (see section 1(6)(a) of that Act).
 
-#### 5. Section 107C: deputy mayors[^key-73608fe563bfb9f61cd45d955f4fbbce]
+#### 5. Section 107C: deputy mayors[^c-73608fe563bfb9f61cd45d955f4fbbce]
 
 In section 107C(3), after paragraph (c) insert—
 
 > - (d) the person ceases to be deputy mayor by virtue of paragraph 8 of Schedule 5AA.
 
-#### 6. Schedule 5A: overview and scrutiny committees[^key-d1119ad4f031d1eda8e6bd24c202cd3b]
+#### 6. Schedule 5A: overview and scrutiny committees[^c-d1119ad4f031d1eda8e6bd24c202cd3b]
 
 (1) Schedule 5A is amended in accordance with this paragraph.
 
@@ -476,7 +476,7 @@ In section 107C(3), after paragraph (c) insert—
 >
 > (3) The power under section 117(1A) to make different provision for different purposes includes power to specify different styles under this paragraph in relation to different descriptions of combined authorities.
 
-#### 7. Schedule 5B: election of Mayors of combined authorities etc[^key-3f243d6ae16ed0ed435762c78696af06]
+#### 7. Schedule 5B: election of Mayors of combined authorities etc[^c-3f243d6ae16ed0ed435762c78696af06]
 
 In Schedule 5B, after paragraph 11 insert—
 
@@ -484,7 +484,7 @@ In Schedule 5B, after paragraph 11 insert—
 >
 > Paragraph 8 of Schedule 5AA makes provision for a person’s term of office as mayor to end because of repeated failure to attend meetings of an overview and scrutiny committee.
 
-#### 8. Schedule 5BA: commissioners[^key-f1a5539978e9960ac7de9cb5aef5fe41]
+#### 8. Schedule 5BA: commissioners[^c-f1a5539978e9960ac7de9cb5aef5fe41]
 
 In Schedule 5BA (inserted by Schedule 3 to this Act), in paragraph 9—
 
@@ -497,11 +497,11 @@ In Schedule 5BA (inserted by Schedule 3 to this Act), in paragraph 9—
 
 ### Part 3 — Extension of new scrutiny regime to all mayoral combined authorities
 
-#### 9. Introduction[^key-0173f33263d3136863e2c64a8d822a47]
+#### 9. Introduction[^c-0173f33263d3136863e2c64a8d822a47]
 
 LDEDCA 2009 is amended in accordance with this Part of this Schedule.
 
-#### 10. Amendment of section 104[^key-da56511db55cbe40dcaf5b697bdc6923]
+#### 10. Amendment of section 104[^c-da56511db55cbe40dcaf5b697bdc6923]
 
 (1) Section 104 (as amended by paragraph 4 of this Schedule) is amended in accordance with this paragraph.
 
@@ -511,7 +511,7 @@ LDEDCA 2009 is amended in accordance with this Part of this Schedule.
 
 (4) Omit subsection (9B).
 
-#### 11. Exclusion of all mayoral combined authorities from scrutiny regime in Schedule 5A LDEDCA 2009[^key-b75f7d333e0ad30f69f058798bbd1d68]
+#### 11. Exclusion of all mayoral combined authorities from scrutiny regime in Schedule 5A LDEDCA 2009[^c-b75f7d333e0ad30f69f058798bbd1d68]
 
 (1) Schedule 5A (as amended by paragraph 6 of this Schedule) is amended in accordance with this paragraph.
 
@@ -539,7 +539,7 @@ LDEDCA 2009 is amended in accordance with this Part of this Schedule.
 
 > (5) For the purposes of sub-paragraph (4)(b) “**appropriate person**” means a person who is not a member of the registered political party which has the most representatives among the members of the constituent councils (or, if there is no such party because two or more parties have the same number of representatives, is not a member of any of those parties).
 
-#### 12. Inclusion of all mayoral combined authorities in the new scrutiny regime[^key-a4a169b138745762fe901ba929d5dc65]
+#### 12. Inclusion of all mayoral combined authorities in the new scrutiny regime[^c-a4a169b138745762fe901ba929d5dc65]
 
 (1) Schedule 5AA (as inserted by paragraph 2 of this Schedule) is amended in accordance with this paragraph.
 
@@ -558,26 +558,26 @@ LDEDCA 2009 is amended in accordance with this Part of this Schedule.
 
 ## Annotations
 
-[^key-d16a9b7a27d97e7f4eef03a4beeb5ce4]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-d16a9b7a27d97e7f4eef03a4beeb5ce4]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-a535c01d8731841ab74768e85fd04565]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-a535c01d8731841ab74768e85fd04565]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-5e120bb7ff4627830f1cc759f0c9329d]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-5e120bb7ff4627830f1cc759f0c9329d]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-866f30e8c99bbda29a9a461383496f05]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-866f30e8c99bbda29a9a461383496f05]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-73608fe563bfb9f61cd45d955f4fbbce]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-73608fe563bfb9f61cd45d955f4fbbce]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-d1119ad4f031d1eda8e6bd24c202cd3b]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-d1119ad4f031d1eda8e6bd24c202cd3b]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-3f243d6ae16ed0ed435762c78696af06]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-3f243d6ae16ed0ed435762c78696af06]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-f1a5539978e9960ac7de9cb5aef5fe41]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-f1a5539978e9960ac7de9cb5aef5fe41]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-0173f33263d3136863e2c64a8d822a47]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-0173f33263d3136863e2c64a8d822a47]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-da56511db55cbe40dcaf5b697bdc6923]: Commencement: Sch. 5 para. 10 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-da56511db55cbe40dcaf5b697bdc6923]: Commencement: Sch. 5 para. 10 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-b75f7d333e0ad30f69f058798bbd1d68]: Commencement: Sch. 5 para. 11 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-b75f7d333e0ad30f69f058798bbd1d68]: Commencement: Sch. 5 para. 11 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-a4a169b138745762fe901ba929d5dc65]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-a4a169b138745762fe901ba929d5dc65]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

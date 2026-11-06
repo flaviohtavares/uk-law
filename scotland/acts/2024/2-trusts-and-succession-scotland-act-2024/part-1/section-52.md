@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Resignation of supervisor[^key-fd5e21b9913d0672a0b3184a9d8b6afc]
+## 52. Resignation of supervisor[^c-fd5e21b9913d0672a0b3184a9d8b6afc]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd5e21b9913d0672a0b3184a9d8b6afc]: Commencement: S. 52 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-fd5e21b9913d0672a0b3184a9d8b6afc]: Commencement: S. 52 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

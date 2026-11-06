@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Pension ceases to be payable[^key-8656aef3696b96bb9b34629328219e7a]
+## 124. Pension ceases to be payable[^c-8656aef3696b96bb9b34629328219e7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8656aef3696b96bb9b34629328219e7a]: Commencement: [Reg. 124](https://www.legislation.gov.uk/uksi/2014/2336/regulation/124) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-8656aef3696b96bb9b34629328219e7a]: Commencement: [Reg. 124](https://www.legislation.gov.uk/uksi/2014/2336/regulation/124) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

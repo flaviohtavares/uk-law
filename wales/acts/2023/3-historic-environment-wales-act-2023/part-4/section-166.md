@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 166. Conservation area agreements[^key-123a6e67f0ded577116a8b58f007c395][^key-1f2380e2b4799cb9bff1a0689824ada4]
+## 166. Conservation area agreements[^c-123a6e67f0ded577116a8b58f007c395][^c-1f2380e2b4799cb9bff1a0689824ada4]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-123a6e67f0ded577116a8b58f007c395]: Commencement: S. 166 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-123a6e67f0ded577116a8b58f007c395]: Commencement: S. 166 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-1f2380e2b4799cb9bff1a0689824ada4]: Commencement: [S. 166](https://www.legislation.gov.uk/asc/2023/3/section/166) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-1f2380e2b4799cb9bff1a0689824ada4]: Commencement: [S. 166](https://www.legislation.gov.uk/asc/2023/3/section/166) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

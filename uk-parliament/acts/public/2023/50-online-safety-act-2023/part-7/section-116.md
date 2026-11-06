@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Intelligence service information[^key-57b472f484d2ec4e288c9b2800b45eb6]
+## 116. Intelligence service information[^c-57b472f484d2ec4e288c9b2800b45eb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ OFCOM must, before publication, remove or obscure the information which by reaso
 
 ## Annotations
 
-[^key-57b472f484d2ec4e288c9b2800b45eb6]: Commencement: S. 116 in force at Royal Assent, see [s. 240(4)(r)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/r)
+[^c-57b472f484d2ec4e288c9b2800b45eb6]: Commencement: S. 116 in force at Royal Assent, see [s. 240(4)(r)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/r)

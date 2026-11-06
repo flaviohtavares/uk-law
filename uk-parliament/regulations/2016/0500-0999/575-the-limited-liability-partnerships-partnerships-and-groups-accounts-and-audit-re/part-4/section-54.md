@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Amendments to Section C of Part 2 of Schedule 1 (alternative accounting rules: non-IAS individual accounts)[^key-f7d94abfd5b4eb7882d9bf22a4dffd09]
+## 54. Amendments to Section C of Part 2 of Schedule 1 (alternative accounting rules: non-IAS individual accounts)[^c-f7d94abfd5b4eb7882d9bf22a4dffd09]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In Section C of Part 2 of Schedule 1 (alternative accounting rules: non-IAS indi
 
 ## Annotations
 
-[^key-f7d94abfd5b4eb7882d9bf22a4dffd09]: Commencement: Reg. 54 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-f7d94abfd5b4eb7882d9bf22a4dffd09]: Commencement: Reg. 54 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

@@ -51,7 +51,7 @@ Section 59.
 - (a) for the words “the consent of the Corporation”, in the first place where they occur, there shall be substituted “consent”; and
 - (b) for the words “the consent of the Corporation”, in the second place where they occur, there shall be substituted “that consent”.
 
-(3)[^key-8907db233d32edbbda92678834359ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8907db233d32edbbda92678834359ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -107,7 +107,7 @@ Section 59.
 
 **23.**[^c12876281] In section 33 (recognition of central association), in subsection (1) after “housing associations” there shall be inserted “in Great Britain or in any part of Great Britain”.
 
-**24.**[^key-b8fc4b4eba63433e5234c2bf7a0d8a67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-b8fc4b4eba63433e5234c2bf7a0d8a67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -139,13 +139,13 @@ Section 59.
 
 .
 
-**28.** (1 (Extent: E+W) (affected by repeal, see note))[^key-488e690ce6cf7a9d8da88b82f7dffd9f] In section 69 (power to vary or terminate certain agreements) at the end of subsection (1)(a) there shall be added “(including such an agreement under which rights and obligations have been transferred to Housing for Wales)”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-488e690ce6cf7a9d8da88b82f7dffd9f]
+**28.** (1 (Extent: E+W) (affected by repeal, see note))[^c-488e690ce6cf7a9d8da88b82f7dffd9f] In section 69 (power to vary or terminate certain agreements) at the end of subsection (1)(a) there shall be added “(including such an agreement under which rights and obligations have been transferred to Housing for Wales)”. *(Extent: E+W)* *(affected by repeal, see note)*[^c-488e690ce6cf7a9d8da88b82f7dffd9f]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-488e690ce6cf7a9d8da88b82f7dffd9f] After subsection (2) of that section there shall be inserted the following subsection— *(Extent: E+W)* *(affected by repeal, see note)*[^key-488e690ce6cf7a9d8da88b82f7dffd9f]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-488e690ce6cf7a9d8da88b82f7dffd9f] After subsection (2) of that section there shall be inserted the following subsection— *(Extent: E+W)* *(affected by repeal, see note)*[^c-488e690ce6cf7a9d8da88b82f7dffd9f]
 
-> (2A (Extent: E+W) (affected by repeal, see note))[^key-488e690ce6cf7a9d8da88b82f7dffd9f] In the case of an agreement under which rights and obligations have been transferred to Housing for Wales, the reference to a party to the agreement includes a reference to Housing for Wales. *(Extent: E+W)* *(affected by repeal, see note)*[^key-488e690ce6cf7a9d8da88b82f7dffd9f]
+> (2A (Extent: E+W) (affected by repeal, see note))[^c-488e690ce6cf7a9d8da88b82f7dffd9f] In the case of an agreement under which rights and obligations have been transferred to Housing for Wales, the reference to a party to the agreement includes a reference to Housing for Wales. *(Extent: E+W)* *(affected by repeal, see note)*[^c-488e690ce6cf7a9d8da88b82f7dffd9f]
 
-**29.** In section 69A (land subject to housing management agreement) for the words “housing association grant, revenue deficit grant or hostel deficit grant” there shall be substituted “grant under section 50 (housing association grant) or section 51 (revenue deficit grant) of the Housing Act 1988”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-267b5b4ffac328a982539397062759f5]
+**29.** In section 69A (land subject to housing management agreement) for the words “housing association grant, revenue deficit grant or hostel deficit grant” there shall be substituted “grant under section 50 (housing association grant) or section 51 (revenue deficit grant) of the Housing Act 1988”. *(Extent: E+W)* *(affected by repeal, see note)*[^c-267b5b4ffac328a982539397062759f5]
 
 **30.** (1) In Part I of Schedule 5 (residual subsidies)—
 
@@ -160,24 +160,24 @@ Section 59.
 
 (2) In subsection (2) of that section for the words “the Corporation” there shall be substituted “the Housing Corporation”. *(affected by repeal, see note)*[^c20568151]
 
-(3) At the end of that section there shall be inserted the following subsections— *(Extent: E+W)* *(affected by repeal, see note)*[^key-15372d50d2cb9fdb69e9202dffb463f7]
+(3) At the end of that section there shall be inserted the following subsections— *(Extent: E+W)* *(affected by repeal, see note)*[^c-15372d50d2cb9fdb69e9202dffb463f7]
 
-> (3 (Extent: E+W) (affected by repeal, see note))[^key-15372d50d2cb9fdb69e9202dffb463f7] In this Part “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-15372d50d2cb9fdb69e9202dffb463f7]**registered housing association *(Extent: E+W)* *(affected by repeal, see note)*[^key-15372d50d2cb9fdb69e9202dffb463f7]**” in relation to the Corporation, means a housing association registered in the register maintained by the Corporation. *(Extent: E+W)* *(affected by repeal, see note)*[^key-15372d50d2cb9fdb69e9202dffb463f7]
+> (3 (Extent: E+W) (affected by repeal, see note))[^c-15372d50d2cb9fdb69e9202dffb463f7] In this Part “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-15372d50d2cb9fdb69e9202dffb463f7]**registered housing association *(Extent: E+W)* *(affected by repeal, see note)*[^c-15372d50d2cb9fdb69e9202dffb463f7]**” in relation to the Corporation, means a housing association registered in the register maintained by the Corporation. *(Extent: E+W)* *(affected by repeal, see note)*[^c-15372d50d2cb9fdb69e9202dffb463f7]
 >
-> (4 (Extent: E+W) (affected by repeal, see note))[^key-15372d50d2cb9fdb69e9202dffb463f7] In this Part,— *(Extent: E+W)* *(affected by repeal, see note)*[^key-15372d50d2cb9fdb69e9202dffb463f7]
+> (4 (Extent: E+W) (affected by repeal, see note))[^c-15372d50d2cb9fdb69e9202dffb463f7] In this Part,— *(Extent: E+W)* *(affected by repeal, see note)*[^c-15372d50d2cb9fdb69e9202dffb463f7]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-15372d50d2cb9fdb69e9202dffb463f7] in relation to land in Wales held by an unregistered housing association, “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-15372d50d2cb9fdb69e9202dffb463f7]**the Corporation *(Extent: E+W)* *(affected by repeal, see note)*[^key-15372d50d2cb9fdb69e9202dffb463f7]**” means Housing for Wales; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-15372d50d2cb9fdb69e9202dffb463f7]
-> - (b (Extent: E+W) (affected by repeal, see note))[^key-15372d50d2cb9fdb69e9202dffb463f7] in relation to land outside Wales held by such an association, “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-15372d50d2cb9fdb69e9202dffb463f7]**the Corporation *(Extent: E+W)* *(affected by repeal, see note)*[^key-15372d50d2cb9fdb69e9202dffb463f7]**” means the Housing Corporation. *(Extent: E+W)* *(affected by repeal, see note)*[^key-15372d50d2cb9fdb69e9202dffb463f7]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-15372d50d2cb9fdb69e9202dffb463f7] in relation to land in Wales held by an unregistered housing association, “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-15372d50d2cb9fdb69e9202dffb463f7]**the Corporation *(Extent: E+W)* *(affected by repeal, see note)*[^c-15372d50d2cb9fdb69e9202dffb463f7]**” means Housing for Wales; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-15372d50d2cb9fdb69e9202dffb463f7]
+> - (b (Extent: E+W) (affected by repeal, see note))[^c-15372d50d2cb9fdb69e9202dffb463f7] in relation to land outside Wales held by such an association, “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-15372d50d2cb9fdb69e9202dffb463f7]**the Corporation *(Extent: E+W)* *(affected by repeal, see note)*[^c-15372d50d2cb9fdb69e9202dffb463f7]**” means the Housing Corporation. *(Extent: E+W)* *(affected by repeal, see note)*[^c-15372d50d2cb9fdb69e9202dffb463f7]
 
 *Extent: S*
 
 **32.**[^c12876371] In section 75 (general functions), in subsection (1)(c) for the words “a register of housing associations” there shall be substituted “the register of housing associations referred to in section 3”.
 
-**33.** At the end of section 77 (advisory service) there shall be added the following subsection— *(Extent: E+W)* *(affected by repeal, see note)*[^key-eac3b36d594e3255575f6e132e6c27e8]
+**33.** At the end of section 77 (advisory service) there shall be added the following subsection— *(Extent: E+W)* *(affected by repeal, see note)*[^c-eac3b36d594e3255575f6e132e6c27e8]
 
-> (3 (Extent: E+W) (affected by repeal, see note))[^key-eac3b36d594e3255575f6e132e6c27e8] The powers conferred on the Corporation by subsections (1) and (2) may be exercised by the Housing Corporation and Housing for Wales acting jointly *(Extent: E+W)* *(affected by repeal, see note)*[^key-eac3b36d594e3255575f6e132e6c27e8]
+> (3 (Extent: E+W) (affected by repeal, see note))[^c-eac3b36d594e3255575f6e132e6c27e8] The powers conferred on the Corporation by subsections (1) and (2) may be exercised by the Housing Corporation and Housing for Wales acting jointly *(Extent: E+W)* *(affected by repeal, see note)*[^c-eac3b36d594e3255575f6e132e6c27e8]
 
-. *(Extent: E+W)* *(affected by repeal, see note)*[^key-eac3b36d594e3255575f6e132e6c27e8]
+. *(Extent: E+W)* *(affected by repeal, see note)*[^c-eac3b36d594e3255575f6e132e6c27e8]
 
 **34.** (1) In section 83 (power to guarantee loans), in subsection (3) (maximum amount outstanding in respect of loans etc.) for the words “the Corporation”, in each place where they occur, there shall be substituted “the Housing Corporation”.
 
@@ -231,7 +231,7 @@ Section 59.
 
 [^c12875941]: Textual amendment: Sch. 6 para. 7 repealed (S.) (1.11.2001) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 15(8)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/15/8); [S.S.I. 2001/336](https://www.legislation.gov.uk/ssi/2001/336), [art. 2(3)](https://www.legislation.gov.uk/ssi/2001/336/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2001/336/schedule/part/II) Table (subject to transitional provisions and savings in art. 3)
 
-[^key-8907db233d32edbbda92678834359ef6]: Textual amendment: [Sch. 6 para. 7(3)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/7/3) repealed (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-8907db233d32edbbda92678834359ef6]: Textual amendment: [Sch. 6 para. 7(3)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/7/3) repealed (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
 [^c12875951]: Textual amendment: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/8) repealed (S.) (1.11.2001) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 15(8)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/15/8); [S.S.I. 2001/336](https://www.legislation.gov.uk/ssi/2001/336), [art. 2(3)](https://www.legislation.gov.uk/ssi/2001/336/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2001/336/schedule/part/II) Table (subject to transitional provisions and savings in art. 3) (subject to transitional provisions and savings in art. 3)
 
@@ -265,7 +265,7 @@ Section 59.
 
 [^c12876281]: Textual amendment: [Sch. 6 paras. 3-6](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/3), [9-23](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/9) repealed (E.W.) (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [ss. 227](https://www.legislation.gov.uk/ukpga/1996/52/section/227), [231(4)(b)](https://www.legislation.gov.uk/ukpga/1996/52/section/231/4/b), [Sch. 19 Pt. I](https://www.legislation.gov.uk/ukpga/1996/52/schedule/19/part/I); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3) (subject to transitional provisions and savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2402/schedule))
 
-[^key-b8fc4b4eba63433e5234c2bf7a0d8a67]: Textual amendment: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/24) repealed (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-b8fc4b4eba63433e5234c2bf7a0d8a67]: Textual amendment: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/24) repealed (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
 [^c12876291]: Textual amendment: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/25) repealed (S.) (1.11.2001) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 15(8)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/15/8); [S.S.I. 2001/336](https://www.legislation.gov.uk/ssi/2001/336), [art. 2(3)](https://www.legislation.gov.uk/ssi/2001/336/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2001/336/schedule/part/II) Table (subject to transitional provisions and savings in art. 3)
 
@@ -275,9 +275,9 @@ Section 59.
 
 [^c12876341]: Textual amendment: [Sch. 6 para. 26(c)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/26/c) repealed (E.W.) (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 4](https://www.legislation.gov.uk/uksi/1996/2325/article/4), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1996/2325/schedule/1/part/I)
 
-[^key-488e690ce6cf7a9d8da88b82f7dffd9f]: Textual amendment: Sch. 6 para. 28 repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-488e690ce6cf7a9d8da88b82f7dffd9f]: Textual amendment: Sch. 6 para. 28 repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
-[^key-267b5b4ffac328a982539397062759f5]: Textual amendment: [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/29) repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-267b5b4ffac328a982539397062759f5]: Textual amendment: [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/29) repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c12876351]: Textual amendment: [Sch. 6 para. 30(1)(b)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/30/1/b) and the word “and” immediately preceding it repealed (1.11.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. VI](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/VI) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 5](https://www.legislation.gov.uk/uksi/1998/2244/article/5)
 
@@ -285,11 +285,11 @@ Section 59.
 
 [^c20568151]: Textual amendment: Sch. 6 para. 31(2) repealed (E.W.) (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 6](https://www.legislation.gov.uk/uksi/2009/484/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2)
 
-[^key-15372d50d2cb9fdb69e9202dffb463f7]: Textual amendment: [Sch. 6 para. 31(3)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/31/3) repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-15372d50d2cb9fdb69e9202dffb463f7]: Textual amendment: [Sch. 6 para. 31(3)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/31/3) repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c12876371]: Textual amendment: [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/32) repealed (E.W.) (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 4](https://www.legislation.gov.uk/uksi/1996/2325/article/4), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1996/2325/schedule/1/part/I)
 
-[^key-eac3b36d594e3255575f6e132e6c27e8]: Textual amendment: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/33) repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-eac3b36d594e3255575f6e132e6c27e8]: Textual amendment: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/33) repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c20568201]: Textual amendment: [Sch. 6 para. 35](https://www.legislation.gov.uk/ukpga/1988/50/schedule/6/paragraph/35) repealed (E.W.) (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 6](https://www.legislation.gov.uk/uksi/2009/484/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2)
 

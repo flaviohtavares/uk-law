@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Insertion of section 49A[^key-3d074c02c4c25d346bc5b4bc8cdbf0a4]
+## 41. Insertion of section 49A[^c-3d074c02c4c25d346bc5b4bc8cdbf0a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d074c02c4c25d346bc5b4bc8cdbf0a4]: Commencement: Art. 41 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-3d074c02c4c25d346bc5b4bc8cdbf0a4]: Commencement: Art. 41 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

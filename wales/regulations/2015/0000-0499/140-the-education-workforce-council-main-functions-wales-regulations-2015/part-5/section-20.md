@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Establishment of Investigating Committees[^key-a8cf082bed4091c103160c31e6e0a4a6]
+## 20. Establishment of Investigating Committees[^c-a8cf082bed4091c103160c31e6e0a4a6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Council must establish one or more committees to be known as Investigating C
 
 ## Annotations
 
-[^key-a8cf082bed4091c103160c31e6e0a4a6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2015/140/regulation/20) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-a8cf082bed4091c103160c31e6e0a4a6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2015/140/regulation/20) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

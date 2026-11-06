@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.6. Interpreter for the purposes of proceedings involving a television or telephone link[^key-f9bd49f8e6fc38170ede3868fc6bcf02]
+## 49.6. Interpreter for the purposes of proceedings involving a television or telephone link[^c-f9bd49f8e6fc38170ede3868fc6bcf02]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9bd49f8e6fc38170ede3868fc6bcf02]: Commencement: [Rule 49.6](https://www.legislation.gov.uk/uksi/2025/909/rule/49.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f9bd49f8e6fc38170ede3868fc6bcf02]: Commencement: [Rule 49.6](https://www.legislation.gov.uk/uksi/2025/909/rule/49.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

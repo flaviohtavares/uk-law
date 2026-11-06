@@ -98,7 +98,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(
 
 (3) This Article does not have effect in relation to an offence committed before the coming into operation of this Article.
 
-### 5. Failure to furnish documentation: fixed penalty notice[^key-124d68dc832d630afbe9a83a39bd2ab2]
+### 5. Failure to furnish documentation: fixed penalty notice[^c-124d68dc832d630afbe9a83a39bd2ab2]
 
 In the 1997 Order, after Article 5 insert—
 
@@ -235,7 +235,7 @@ In the 1997 Order, after Article 5 insert—
 
 (2) This Article does not have effect in relation to an offence committed before the coming into operation of this Article.
 
-### 9. Power to search and seize vehicles[^key-7f708860d9885222de8996ecc6a684a4]
+### 9. Power to search and seize vehicles[^c-7f708860d9885222de8996ecc6a684a4]
 
 After Article 5D of the 1997 Order (inserted by Article 8), insert—
 
@@ -454,7 +454,7 @@ In the 1997 Order after Article 22 (receptacles for commercial or industrial was
 
 (2) This Article does not have effect in relation to an offence committed, or alleged to have been committed, before the coming into operation of this Article.
 
-### 14. Registration requirements and conditions[^key-7d99fd6de2b9bceaf502298395b42c01]
+### 14. Registration requirements and conditions[^c-7d99fd6de2b9bceaf502298395b42c01]
 
 (1) Article 39 of the 1997 Order (power to make regulations about registration of carriers) is amended as follows.
 
@@ -489,7 +489,7 @@ In the 1997 Order after Article 22 (receptacles for commercial or industrial was
 
 (7) In Article 40 of the 1997 Order (restrictions on power under Article 39), in paragraph (2), after “except” insert “ in accordance with regulations under paragraph (5A) of that Article or ”.
 
-### 15. Enforcement powers[^key-2e1cc707269d1e68127244cd98bccaec]
+### 15. Enforcement powers[^c-2e1cc707269d1e68127244cd98bccaec]
 
 For Article 42 of the 1997 Order substitute—
 
@@ -575,7 +575,7 @@ For Article 42 of the 1997 Order substitute—
 
 .
 
-### 16. Failure to produce authority: fixed penalty notice[^key-3bc0008e0a63e1d7161e60bb6e3ad727]
+### 16. Failure to produce authority: fixed penalty notice[^c-3bc0008e0a63e1d7161e60bb6e3ad727]
 
 In the 1997 Order, after Article 42A (inserted by Article 15) insert—
 
@@ -686,7 +686,7 @@ Christine Cook
 
 Deputy Clerk of the Privy Council
 
-## SCHEDULE — REPEALS[^c20525811][^key-84d61c7d21d88c8a3469a10b2753ee72]
+## SCHEDULE — REPEALS[^c20525811][^c-84d61c7d21d88c8a3469a10b2753ee72]
 
 Article 20
 
@@ -704,15 +704,15 @@ This Order makes miscellaneous amendments to the Waste and Contaminated Land (No
 
     7.4.2008 appointed for specified provision by [S.R. 2008/75](https://www.legislation.gov.uk/nisr/2008/75), [art. 2](https://www.legislation.gov.uk/nisr/2008/75/article/2)
 
-[^key-124d68dc832d630afbe9a83a39bd2ab2]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisi/2007/611/article/5) in operation at 11.3.2013 by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/33/article/2/a)
+[^c-124d68dc832d630afbe9a83a39bd2ab2]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisi/2007/611/article/5) in operation at 11.3.2013 by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/33/article/2/a)
 
-[^key-7f708860d9885222de8996ecc6a684a4]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisi/2007/611/article/9) in operation at 11.3.2013 by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(b)](https://www.legislation.gov.uk/nisr/2013/33/article/2/b)
+[^c-7f708860d9885222de8996ecc6a684a4]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisi/2007/611/article/9) in operation at 11.3.2013 by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(b)](https://www.legislation.gov.uk/nisr/2013/33/article/2/b)
 
-[^key-7d99fd6de2b9bceaf502298395b42c01]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisi/2007/611/article/14) in operation at 11.3.2013 by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/33/article/2/c)
+[^c-7d99fd6de2b9bceaf502298395b42c01]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisi/2007/611/article/14) in operation at 11.3.2013 by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/33/article/2/c)
 
-[^key-2e1cc707269d1e68127244cd98bccaec]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisi/2007/611/article/15) in operation at 11.3.2013 by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(d)](https://www.legislation.gov.uk/nisr/2013/33/article/2/d)
+[^c-2e1cc707269d1e68127244cd98bccaec]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisi/2007/611/article/15) in operation at 11.3.2013 by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(d)](https://www.legislation.gov.uk/nisr/2013/33/article/2/d)
 
-[^key-3bc0008e0a63e1d7161e60bb6e3ad727]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisi/2007/611/article/16) in operation at 11.3.2013 by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(e)](https://www.legislation.gov.uk/nisr/2013/33/article/2/e)
+[^c-3bc0008e0a63e1d7161e60bb6e3ad727]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisi/2007/611/article/16) in operation at 11.3.2013 by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(e)](https://www.legislation.gov.uk/nisr/2013/33/article/2/e)
 
 [^c22540911]: Textual amendment: [Art. 18(1)(c)](https://www.legislation.gov.uk/nisi/2007/611/article/18/1/c) repealed (17.10.2011) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 11(2)](https://www.legislation.gov.uk/nia/2011/5/section/11/2), [12(1)](https://www.legislation.gov.uk/nia/2011/5/section/12/1), [Sch. 2](https://www.legislation.gov.uk/nia/2011/5/schedule/2); [S.R. 2011/312](https://www.legislation.gov.uk/nisr/2011/312), [art. 2](https://www.legislation.gov.uk/nisr/2011/312/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/312/schedule)
 
@@ -720,4 +720,4 @@ This Order makes miscellaneous amendments to the Waste and Contaminated Land (No
 
 [^c20525811]: Commencement: [Sch.](https://www.legislation.gov.uk/nisi/2007/611/schedule) partly in operation; [Sch.](https://www.legislation.gov.uk/nisi/2007/611/schedule) not in operation at date of making see [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3); [Sch.](https://www.legislation.gov.uk/nisi/2007/611/schedule) in operation for specified purposes at 25.6.2007 by [S.R. 2007/294](https://www.legislation.gov.uk/nisr/2007/294), [art. 2](https://www.legislation.gov.uk/nisr/2007/294/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/294/schedule)
 
-[^key-84d61c7d21d88c8a3469a10b2753ee72]: Commencement: [Sch.](https://www.legislation.gov.uk/nisi/2007/611/schedule) in operation at 11.3.2013 in so far as not already in operation by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(f)](https://www.legislation.gov.uk/nisr/2013/33/article/2/f)
+[^c-84d61c7d21d88c8a3469a10b2753ee72]: Commencement: [Sch.](https://www.legislation.gov.uk/nisi/2007/611/schedule) in operation at 11.3.2013 in so far as not already in operation by [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(f)](https://www.legislation.gov.uk/nisr/2013/33/article/2/f)

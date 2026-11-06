@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Availability of seating requirement to a spaceflight participant[^key-a29e6e76c2e548d35e88289107c29164]
+## 122. Availability of seating requirement to a spaceflight participant[^c-a29e6e76c2e548d35e88289107c29164]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A spaceflight operator must make a copy of the requirement relating to seating i
 
 ## Annotations
 
-[^key-a29e6e76c2e548d35e88289107c29164]: Commencement: Reg. 122 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-a29e6e76c2e548d35e88289107c29164]: Commencement: Reg. 122 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. When compliance notice or expenses demand becomes operative[^key-c788473834246be49db4a85b1ad25689]
+## 24. When compliance notice or expenses demand becomes operative[^c-c788473834246be49db4a85b1ad25689]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c788473834246be49db4a85b1ad25689]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2013/6/section/24) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-c788473834246be49db4a85b1ad25689]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2013/6/section/24) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

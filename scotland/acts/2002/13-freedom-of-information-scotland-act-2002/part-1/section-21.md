@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-3f117f374df88355cd424044adddaf14] Subject to subsection (2), a Scottish public authority receiving a requirement for review must (unless that requirement is withdrawn or is as mentioned in subsection (8)) comply promptly; and in any event by not later than the twentieth *(affected by repeal, see note)*[^key-edaa29573c5841bd4a83eecbcc0a40e6] sixtieth working day after receipt by it of the requirement.
+(1)[^c-3f117f374df88355cd424044adddaf14] Subject to subsection (2), a Scottish public authority receiving a requirement for review must (unless that requirement is withdrawn or is as mentioned in subsection (8)) comply promptly; and in any event by not later than the twentieth *(affected by repeal, see note)*[^c-edaa29573c5841bd4a83eecbcc0a40e6] sixtieth working day after receipt by it of the requirement.
 
 (2) If—
 
 - (a) the authority is the Keeper of the Records of Scotland; and
 - (b) a different authority is, by virtue of section 22(4), to review a decision to which the requirement relates,
 
-subsection (1) applies with the substitution, for the reference to the twentieth *(affected by repeal, see note)*[^key-341edd200d2c235ee8c12dc009d3d488] sixtieth working day, of a reference to the thirtieth *(affected by repeal, see note)*[^key-ae8a4abc40e38513e6bcbada1fb00329] seventieth working day.
+subsection (1) applies with the substitution, for the reference to the twentieth *(affected by repeal, see note)*[^c-341edd200d2c235ee8c12dc009d3d488] sixtieth working day, of a reference to the thirtieth *(affected by repeal, see note)*[^c-ae8a4abc40e38513e6bcbada1fb00329] seventieth working day.
 
 (3) A requirement for review may be withdrawn by the applicant who made it, by notice in writing to the authority, at any time before the authority makes its decision on the requirement.
 
@@ -57,10 +57,10 @@ subsection (1) applies with the substitution, for the reference to the twentieth
 
 ## Annotations
 
-[^key-3f117f374df88355cd424044adddaf14]: Modification: S. 21(1) modified (1.12.2016) by [The Freedom of Information (Scotland) Act 2002 (Time for Compliance) Regulations 2016 (S.S.I. 2016/346)](https://www.legislation.gov.uk/ssi/2016/346), [regs. 1](https://www.legislation.gov.uk/ssi/2016/346/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/346/regulation/2/2) (with [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/346/regulation/2/1))
+[^c-3f117f374df88355cd424044adddaf14]: Modification: S. 21(1) modified (1.12.2016) by [The Freedom of Information (Scotland) Act 2002 (Time for Compliance) Regulations 2016 (S.S.I. 2016/346)](https://www.legislation.gov.uk/ssi/2016/346), [regs. 1](https://www.legislation.gov.uk/ssi/2016/346/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/346/regulation/2/2) (with [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/346/regulation/2/1))
 
-[^key-edaa29573c5841bd4a83eecbcc0a40e6]: Textual amendment: Word in [s. 21(1)](https://www.legislation.gov.uk/asp/2002/13/section/21/1) substituted (temp.) (7.4.2020) by virtue of [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 6 para. 3(2)(a)](https://www.legislation.gov.uk/asp/2020/7/schedule/6/paragraph/3/2/a) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))
+[^c-edaa29573c5841bd4a83eecbcc0a40e6]: Textual amendment: Word in [s. 21(1)](https://www.legislation.gov.uk/asp/2002/13/section/21/1) substituted (temp.) (7.4.2020) by virtue of [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 6 para. 3(2)(a)](https://www.legislation.gov.uk/asp/2020/7/schedule/6/paragraph/3/2/a) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))
 
-[^key-341edd200d2c235ee8c12dc009d3d488]: Textual amendment: Word in [s. 21(2)](https://www.legislation.gov.uk/asp/2002/13/section/21/2) substituted (temp.) (7.4.2020) by virtue of [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 6 para. 3(2)(b)(i)](https://www.legislation.gov.uk/asp/2020/7/schedule/6/paragraph/3/2/b/i) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))
+[^c-341edd200d2c235ee8c12dc009d3d488]: Textual amendment: Word in [s. 21(2)](https://www.legislation.gov.uk/asp/2002/13/section/21/2) substituted (temp.) (7.4.2020) by virtue of [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 6 para. 3(2)(b)(i)](https://www.legislation.gov.uk/asp/2020/7/schedule/6/paragraph/3/2/b/i) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))
 
-[^key-ae8a4abc40e38513e6bcbada1fb00329]: Textual amendment: Word in [s. 21(2)](https://www.legislation.gov.uk/asp/2002/13/section/21/2) substituted (temp.) (7.4.2020) by virtue of [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 6 para. 3(2)(b)(ii)](https://www.legislation.gov.uk/asp/2020/7/schedule/6/paragraph/3/2/b/ii) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))
+[^c-ae8a4abc40e38513e6bcbada1fb00329]: Textual amendment: Word in [s. 21(2)](https://www.legislation.gov.uk/asp/2002/13/section/21/2) substituted (temp.) (7.4.2020) by virtue of [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 6 para. 3(2)(b)(ii)](https://www.legislation.gov.uk/asp/2020/7/schedule/6/paragraph/3/2/b/ii) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))

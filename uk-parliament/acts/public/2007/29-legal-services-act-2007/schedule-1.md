@@ -43,7 +43,7 @@ Section 2
 (3) It is a condition of the appointment of the chairman that the person appointed must not during the appointment—
 
 - (a) carry on any activity which is a reserved legal activity,
-- (b)[^key-aadf1274267e58b20e4c5f8b779a15a9] carry on a regulated claims management activity (within the meaning given by section 417(1) of the Financial Services and Markets Act 2000 (definitions)), or
+- (b)[^c-aadf1274267e58b20e4c5f8b779a15a9] carry on a regulated claims management activity (within the meaning given by section 417(1) of the Financial Services and Markets Act 2000 (definitions)), or
 - (c) provide immigration advice or immigration services,
 
 for or in expectation of any fee, gain or reward.
@@ -52,7 +52,7 @@ for or in expectation of any fee, gain or reward.
 
 - (a) an authorised person in relation to an activity which is a reserved legal activity;
 - (b) a person authorised, by a person designated under section 5(1) of the Compensation Act 2006, to provide services which are regulated claims management services (within the meaning of that Act);
-- (ba)[^key-d51d87885acbd842392efa3340902cdb] an authorised person (within the meaning given in section 31 of the Financial Services and Markets Act 2000 (authorised persons)) in relation to regulated claims management activity (within the meaning given by section 417(1) of that Act (definitions));
+- (ba)[^c-d51d87885acbd842392efa3340902cdb] an authorised person (within the meaning given in section 31 of the Financial Services and Markets Act 2000 (authorised persons)) in relation to regulated claims management activity (within the meaning given by section 417(1) of that Act (definitions));
 - (c) an advocate in Scotland;
 - (d) a solicitor in Scotland;
 - (e) a member of the Bar of Northern Ireland;
@@ -112,7 +112,7 @@ for or in expectation of any fee, gain or reward.
 
 - (a) has failed without reasonable excuse to discharge the functions of the office for a continuous period of at least 6 months,
 - (b) has been convicted of an offence,
-- (c) is an undischarged bankrupt or is a person in relation to whom a moratorium period under a debt relief order applies (under Part 7A of the Insolvency Act 1986)[^key-a86d5812dd92872dbecce6c6fe90a463], or
+- (c) is an undischarged bankrupt or is a person in relation to whom a moratorium period under a debt relief order applies (under Part 7A of the Insolvency Act 1986)[^c-a86d5812dd92872dbecce6c6fe90a463], or
 - (d) is otherwise unfit to hold the office or unable to discharge its functions.
 
 (4) This sub-paragraph applies if the member is the chairman and has breached the condition imposed on his appointment by paragraph 2(3).
@@ -310,12 +310,12 @@ before the end of the month of August next following the financial year to which
 
 ## Annotations
 
-[^key-aadf1274267e58b20e4c5f8b779a15a9]: Textual amendment: Sch. 1 para. 2(3)(b) substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(9)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/9/a/i)
+[^c-aadf1274267e58b20e4c5f8b779a15a9]: Textual amendment: Sch. 1 para. 2(3)(b) substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(9)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/9/a/i)
 
-[^key-d51d87885acbd842392efa3340902cdb]: Textual amendment: Sch. 1 para. 2(4)(ba) inserted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/9/a/ii)
+[^c-d51d87885acbd842392efa3340902cdb]: Textual amendment: Sch. 1 para. 2(4)(ba) inserted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/9/a/ii)
 
 [^M_F_6df2a04e-8faa-48a5-a80b-ec9da242a01a]: Textual amendment: Words in Sch. 1 para. 3(l) substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(9)(b)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/9/b)
 
-[^key-a86d5812dd92872dbecce6c6fe90a463]: Textual amendment: Words in Sch. 1 para. 7(3)(c) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 61(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/61/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-a86d5812dd92872dbecce6c6fe90a463]: Textual amendment: Words in Sch. 1 para. 7(3)(c) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 61(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/61/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
 [^c20062901]: Modification: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2007/29/schedule/1/paragraph/10) modified (temp.) (7.3.2008) by [The Legal Services Act 2007 (Commencement No.1 and Transitory Provisions) Order 2008 (S.I. 2008/222)](https://www.legislation.gov.uk/uksi/2008/222), [art. 8](https://www.legislation.gov.uk/uksi/2008/222/article/8)

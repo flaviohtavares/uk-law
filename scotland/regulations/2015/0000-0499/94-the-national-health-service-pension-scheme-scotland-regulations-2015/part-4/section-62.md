@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies if a member (M) has paid a lump sum contribution for additional pension.
 
-(3)[^key-0d98c65a970bacf2cea97dd4f18ca3a0] If M dies before the end of the refund period—
+(3)[^c-0d98c65a970bacf2cea97dd4f18ca3a0] If M dies before the end of the refund period—
 
 - (a) the amount of the lump sum paid by M must be repaid to M’s executors;
 - (b) the amount of lump sum paid by M’s employing authority pursuant to regulation 56 must be repaid to the authority; and
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d98c65a970bacf2cea97dd4f18ca3a0]: Textual amendment: [Reg. 62(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/62/3)[(4)](https://www.legislation.gov.uk/ssi/2015/94/regulation/62/4) substituted for reg. 62(2) (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2017/433/regulation/7)
+[^c-0d98c65a970bacf2cea97dd4f18ca3a0]: Textual amendment: [Reg. 62(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/62/3)[(4)](https://www.legislation.gov.uk/ssi/2015/94/regulation/62/4) substituted for reg. 62(2) (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2017/433/regulation/7)

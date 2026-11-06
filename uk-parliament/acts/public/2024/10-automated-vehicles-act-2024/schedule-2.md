@@ -24,7 +24,7 @@ summary: ''
 
 Section 45
 
-### 1. Theft Act [1968 (c. 60)](https://www.legislation.gov.uk/ukpga/1968/60)[^key-3a0fb69cb8ad2d5e1311fa6f9b50835f]
+### 1. Theft Act [1968 (c. 60)](https://www.legislation.gov.uk/ukpga/1968/60)[^c-3a0fb69cb8ad2d5e1311fa6f9b50835f]
 
 In section 12 of the Theft Act 1968 (taking motor vehicle or other conveyance without authority), in subsection (7), for paragraph (a) (but not the final “and”) substitute—
 
@@ -36,15 +36,15 @@ In section 12 of the Theft Act 1968 (taking motor vehicle or other conveyance wi
 
 .
 
-### 2. Prescription and Limitation (Scotland) Act [1973 (c. 52)](https://www.legislation.gov.uk/ukpga/1973/52)[^key-5a28da9a8eccada2cf7081d984344a7a]
+### 2. Prescription and Limitation (Scotland) Act [1973 (c. 52)](https://www.legislation.gov.uk/ukpga/1973/52)[^c-5a28da9a8eccada2cf7081d984344a7a]
 
 In section 18ZA of the Prescription and Limitation (Scotland) Act 1973 (actions under section 2 of the Automated and Electric Vehicles Act 2018), in subsections (1) and (4)(b), before “automated” insert “authorised”.
 
-### 3. Limitation Act [1980 (c. 58)](https://www.legislation.gov.uk/ukpga/1980/58)[^key-7a7c4cbc0729c7b9cab5fc1e354969db]
+### 3. Limitation Act [1980 (c. 58)](https://www.legislation.gov.uk/ukpga/1980/58)[^c-7a7c4cbc0729c7b9cab5fc1e354969db]
 
 In section 14(1B) of the Limitation Act 1980 (date of knowledge for purposes of limitation periods to do with automated vehicles), before “**automated**” (in both places it occurs) insert “authorised”.
 
-### 4. Road Traffic Act [1988 (c. 52)](https://www.legislation.gov.uk/ukpga/1988/52)[^key-558613aa89d7f69e15934106da2a1624]
+### 4. Road Traffic Act [1988 (c. 52)](https://www.legislation.gov.uk/ukpga/1988/52)[^c-558613aa89d7f69e15934106da2a1624]
 
 (1) The Road Traffic Act 1988 is amended as follows.
 
@@ -73,7 +73,7 @@ In section 14(1B) of the Limitation Act 1980 (date of knowledge for purposes of 
 
 .
 
-### 5. Automated and Electric Vehicles Act [2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18)[^key-b49aa730a6056d95e1e111ab5babc69d]
+### 5. Automated and Electric Vehicles Act [2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18)[^c-b49aa730a6056d95e1e111ab5babc69d]
 
 (1) The Automated and Electric Vehicles Act 2018 is amended as follows.
 
@@ -129,12 +129,12 @@ In section 14(1B) of the Limitation Act 1980 (date of knowledge for purposes of 
 
 ## Annotations
 
-[^key-3a0fb69cb8ad2d5e1311fa6f9b50835f]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-3a0fb69cb8ad2d5e1311fa6f9b50835f]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-5a28da9a8eccada2cf7081d984344a7a]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-5a28da9a8eccada2cf7081d984344a7a]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-7a7c4cbc0729c7b9cab5fc1e354969db]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-7a7c4cbc0729c7b9cab5fc1e354969db]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-558613aa89d7f69e15934106da2a1624]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-558613aa89d7f69e15934106da2a1624]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-b49aa730a6056d95e1e111ab5babc69d]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-b49aa730a6056d95e1e111ab5babc69d]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

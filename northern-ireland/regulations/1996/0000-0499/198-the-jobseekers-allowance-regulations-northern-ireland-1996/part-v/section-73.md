@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Good cause for the purposes of Article 21(5)(b) of the Order[^key-58a1530c932392591fa6574d7b7358ae]
+## 73. Good cause for the purposes of Article 21(5)(b) of the Order[^c-58a1530c932392591fa6574d7b7358ae]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58a1530c932392591fa6574d7b7358ae]: Commencement: Reg. 73 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-58a1530c932392591fa6574d7b7358ae]: Commencement: Reg. 73 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

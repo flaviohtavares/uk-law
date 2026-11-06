@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Directions relating to breach of duty or to international obligations.[^key-cce50149da905aeeb2b340f1ce31fcf3]
+## 24. Directions relating to breach of duty or to international obligations.[^c-cce50149da905aeeb2b340f1ce31fcf3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ he may give the Agency such directions as he may consider appropriate for remedy
 
 (4) The Secretary of State may give the Agency such directions as he considers appropriate for the implementation of—
 
-- (a) any obligations of the United Kingdom under the EU[^key-1f09af14e4680e0075238de122b0f448]Treaties, or
+- (a) any obligations of the United Kingdom under the EU[^c-1f09af14e4680e0075238de122b0f448]Treaties, or
 - (b) any international agreement to which the United Kingdom is a party.
 
 (5) The power under subsection (4) may also be exercised—
@@ -58,11 +58,11 @@ he may give the Agency such directions as he may consider appropriate for remedy
 
 ## Annotations
 
-[^key-cce50149da905aeeb2b340f1ce31fcf3]: Modification: S. 24 transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-cce50149da905aeeb2b340f1ce31fcf3]: Modification: S. 24 transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
 
 [^c1312460]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-1f09af14e4680e0075238de122b0f448]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-1f09af14e4680e0075238de122b0f448]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c1312461]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 

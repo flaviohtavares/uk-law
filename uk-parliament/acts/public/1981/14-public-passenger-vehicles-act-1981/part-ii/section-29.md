@@ -22,8 +22,8 @@ summary: ''
 
 A contract for the conveyance of a passenger in a public service vehicle shall, so far as it purports to negative or to restrict the liability of a person in respect of a claim which may be made against him in respect of the death of, or bodily injury to, the passenger while being carried in, entering or alighting from the vehicle, or purports to impose any conditions with respect to the enforcement of any such liability, be void.
 
-This section does not apply to anything that is governed by Article 6 of the[^key-e281f9a99bde936abbc562f182bd4cc6] 2011 Regulation.
+This section does not apply to anything that is governed by Article 6 of the[^c-e281f9a99bde936abbc562f182bd4cc6] 2011 Regulation.
 
 ## Annotations
 
-[^key-e281f9a99bde936abbc562f182bd4cc6]: Textual amendment: Words in [s. 29](https://www.legislation.gov.uk/ukpga/1981/14/section/29) inserted (19.8.2013) by [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) Regulations 2013 (S.I. 2013/1865)](https://www.legislation.gov.uk/uksi/2013/1865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1865/regulation/1/1), [13(1)(a)](https://www.legislation.gov.uk/uksi/2013/1865/regulation/13/1/a)
+[^c-e281f9a99bde936abbc562f182bd4cc6]: Textual amendment: Words in [s. 29](https://www.legislation.gov.uk/ukpga/1981/14/section/29) inserted (19.8.2013) by [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) Regulations 2013 (S.I. 2013/1865)](https://www.legislation.gov.uk/uksi/2013/1865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1865/regulation/1/1), [13(1)(a)](https://www.legislation.gov.uk/uksi/2013/1865/regulation/13/1/a)

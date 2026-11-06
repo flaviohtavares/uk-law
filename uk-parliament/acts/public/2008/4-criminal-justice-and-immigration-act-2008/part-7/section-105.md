@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Notice of applications[^key-0ac8c45d86f6304809bb9430ca5fdd98]
+## 105. Notice of applications[^c-0ac8c45d86f6304809bb9430ca5fdd98]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ as the case may be.
 
 ## Annotations
 
-[^key-0ac8c45d86f6304809bb9430ca5fdd98]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2008/4/section/105) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/h)
+[^c-0ac8c45d86f6304809bb9430ca5fdd98]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2008/4/section/105) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/h)

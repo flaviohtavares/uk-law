@@ -33,7 +33,7 @@ Prevention of Damage by Pests Act 1949
 
 An Act to re-enact with modifications the Rats and Mice (Destruction) Act 1919; to make permanent provision for preventing loss of food by infestation; and for purposes connected therewith.
 
-\[30th July 1949\][^c598763][^c598764][^key-2f20fe2b9c52cacd17544eda980bdbfa]
+\[30th July 1949\][^c598763][^c598764][^c-2f20fe2b9c52cacd17544eda980bdbfa]
 
 ## Part I — Rats and Mice[^c598765]
 
@@ -48,7 +48,7 @@ Provided that—
 - (a) the local authority for any port health district, whether constituted before or after the commencement of this Act, shall be the port health authority; and
 - (b) in relation to sewers vested in the council of any county or in the Greater London Council[^c598768] the functions of the local authority under this Part of this Act shall be exercisable by that council and not by any other authority.
 
-(2) The local authorities for the purposes of this Part of this Act in Scotland shall be the councils constituted under section 2 of the Local Government[^key-32b6c5db9aee743c172c186866a400ec] etc. (Scotland) Act 1994 (c. 39).
+(2) The local authorities for the purposes of this Part of this Act in Scotland shall be the councils constituted under section 2 of the Local Government[^c-32b6c5db9aee743c172c186866a400ec] etc. (Scotland) Act 1994 (c. 39).
 
 (3) Section six of the [^c598771]Public Health Act 1936 (which provides for the constitution of united districts for any of the purposes of that Act) shall have effect as if the purposes of this Part of this Act were purposes of that Act.
 
@@ -66,13 +66,13 @@ Provided that—
 
 (1) Subject to the provisions of this section, the occupier of any land shall give to the local authority forthwith notice in writing if it comes to his knowledge that rats or mice are living on or resorting to the land in substantial numbers.
 
-(2) The foregoing subsection shall not apply to agricultural land, [^key-e368c2b251e1f2076e8d9e57c303f025]...
+(2) The foregoing subsection shall not apply to agricultural land, [^c-e368c2b251e1f2076e8d9e57c303f025]...
 
 (3) A person shall not be required to give notice under this section to the local authority of any matters of which notice is given to the Minister in pursuance of Part II of this Act.
 
 (4) Any person who fails to give a notice which he is required to give under this section shall be liable on summary conviction to a fine not exceeding level 1 on the standard scale[^c598774].
 
-### 4. Power of local authority to require action.[^key-51c2247ec55c3c30f53b1d021a760bec][^key-fa251e73d4c0f3b25b9f1722367ebd90]
+### 4. Power of local authority to require action.[^c-51c2247ec55c3c30f53b1d021a760bec][^c-fa251e73d4c0f3b25b9f1722367ebd90]
 
 (1) If in the case of any land it appears to the local authority, whether in consequence of a notice given in respect of the land under the last foregoing section or otherwise, that steps should be taken for the destruction of rats or mice on the land or otherwise for keeping the land free from rats and mice, they may serve on the owner or occupier of the land a notice requiring him to take, within such reasonable period as may be specified in the notice, such reasonable steps for the purpose aforesaid as may be so specified; and where the owner of any land is not also the occupier thereof separate notices may be served under this section on the owner and on the occupier.
 
@@ -103,7 +103,7 @@ and may prescribe the times at which any treatment required by the notice is to 
 
 (2)[^c598779] Without prejudice to the provisions of subsection (1) of this section, but subject to the provisions of the last foregoing section with respect to appeals, a person who fails to take any steps as aforesaid shall be guilty of an offence and liable on summary conviction to a fine not exceeding in the case of a first offence fifty pounds[^c598780] level 3 on the standard scale, and in the case of a second or any subsequent offence one hundred pounds[^c598782] level 3 on the standard scale.
 
-### 6. Additional powers of local authorities in relation to groups of premises.[^key-04aab6c850c1cabe387a92e064d0e665][^key-05759d5c98d1ad6566f8a43030046479]
+### 6. Additional powers of local authorities in relation to groups of premises.[^c-04aab6c850c1cabe387a92e064d0e665][^c-05759d5c98d1ad6566f8a43030046479]
 
 (1) If it appears to the local authority that rats or mice are found in substantial numbers on any land comprising premises in the occupation of different persons and that it is expedient to deal with the land as one unit for the purpose of destroying rats or mice or keeping the land so far as practicable free from rats and mice, they may, without serving notices under section four of this Act on the occupiers or owners of those premises, themselves take in relation to the land such steps as they consider necessary or expedient for the purpose aforesaid:
 
@@ -127,7 +127,7 @@ Provided that the steps taken by the local authority under this section shall no
 
 > (2) Sections 65 to 67 of the Water (Scotland) Act 1980[^c598787] shall, so far as applicable, apply to expenses recoverable by a local authority under section five or section six of this Act as they apply to expenses recoverable under that Act by an islands or district council within the meaning of that Act.
 
-### 8. Provisions as to threshing and dismantling of ricks.[^key-1901a9a547f1841a1e06f729181d0baf]
+### 8. Provisions as to threshing and dismantling of ricks.[^c-1901a9a547f1841a1e06f729181d0baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -202,7 +202,7 @@ Provided that the steps taken by the local authority under this section shall no
 - (a) in the case of directions requiring the carrying out of any structural works, within twenty-one days from the service of the directions;
 - (b) in the case of directions requiring the destruction of any food or container, within seven days from the service of the directions,
 
-appeal to a court of summary jurisdiction [^key-3a2960844e75babfbcbac1954638821b].....
+appeal to a court of summary jurisdiction [^c-3a2960844e75babfbcbac1954638821b].....
 
 (2) Upon any such appeal the court, if satisfied that the directions are for any reason invalid, or that any requirement thereof is excessive or unreasonable, may quash or amend the directions, as the case may be, but in any other case shall dismiss the appeal:
 
@@ -214,7 +214,7 @@ Provided that if and so far as the appeal is based on the ground of some informa
 
 (5) In the application of this section to Scotland—
 
-- (a) in subsection (1), for the words “to a court of summary jurisdiction”[^key-e6724c8914532287ae4fa8034900b639] there shall be substituted the words “by way of an application to the sheriff in whose jurisdiction the works are required to be carried out or, as the case may be, in which the food or container is for the time being”;
+- (a) in subsection (1), for the words “to a court of summary jurisdiction”[^c-e6724c8914532287ae4fa8034900b639] there shall be substituted the words “by way of an application to the sheriff in whose jurisdiction the works are required to be carried out or, as the case may be, in which the food or container is for the time being”;
 - (b) subsection (4) shall not apply.
 
 ### 16. Powers of Minister in case of failure to comply with directions.
@@ -229,13 +229,13 @@ Provided that if and so far as the appeal is based on the ground of some informa
 
 Subject to the provisions of this Part of this Act with respect to appeals, any person who contravenes or fails to comply with this Part of this Act or any directions given thereunder shall be guilty of an offence and liable on summary conviction to a fine not exceeding in the case of a first offence one hundred pounds, and in the case of a second or any subsequent offence two hundred pounds.
 
-### 18. Power of Minister to delegate to local authorities.[^key-6990e8b87e91d9596ff3bd5f1ab83fce]
+### 18. Power of Minister to delegate to local authorities.[^c-6990e8b87e91d9596ff3bd5f1ab83fce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part III — Supplemental
 
-### 19. Control of methods of destruction of pests, &c.[^key-2b958ddd089d823b7ad42a91ef019942]
+### 19. Control of methods of destruction of pests, &c.[^c-2b958ddd089d823b7ad42a91ef019942]
 
 *Extent: E+W+S*
 
@@ -296,7 +296,7 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 
 *Extent: E+W+S*
 
-### 25. Compensation of officers.[^key-60f4a614a04011a165012641bb943e8c]
+### 25. Compensation of officers.[^c-60f4a614a04011a165012641bb943e8c]
 
 *Extent: E+W+S*
 
@@ -319,7 +319,7 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 (1) There shall be paid out of moneys provided by Parliament—
 
 - (a) any expenses of the Minister under this Act;
-- (b)[^key-53cff058fe8dcce7ba345d6fffad4625] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-53cff058fe8dcce7ba345d6fffad4625] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any expenses of the Minister in carrying out research in matters connected with the functions of the Minister and of local authorities under this Act.
 
 (2) Any receipts of the Minister under this Act shall be paid into the Exchequer.
@@ -338,7 +338,7 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 - “**land**” includes land covered with water, and any building or part of a building;
 - “**manufacture**” includes processing;
 - “**the Minister**” means the Minister of Agriculture, Fisheries and Food[^c598829], or, in relation to Scotland, the Secretary of State;
-- “owner” has the same meaning as in the *(affected by repeal, see note)*[^key-63d96ce5e0a7889e8706c9dd8fe1a601] [^c598830] Public Health Act 1936, or, in Scotland, the *(affected by repeal, see note)*[^key-63d96ce5e0a7889e8706c9dd8fe1a601] [^c598831] Public Health (Scotland) Act 1897. *(affected by repeal, see note)*[^key-63d96ce5e0a7889e8706c9dd8fe1a601]
+- “owner” has the same meaning as in the *(affected by repeal, see note)*[^c-63d96ce5e0a7889e8706c9dd8fe1a601] [^c598830] Public Health Act 1936, or, in Scotland, the *(affected by repeal, see note)*[^c-63d96ce5e0a7889e8706c9dd8fe1a601] [^c598831] Public Health (Scotland) Act 1897. *(affected by repeal, see note)*[^c-63d96ce5e0a7889e8706c9dd8fe1a601]
 
 (2) For the purposes of Part I of this Act, any land which is vested in or under the control of a local authority (whether or not being the local authority for the purposes of that Part) and is not occupied by any other person shall be deemed to be occupied by that authority.
 
@@ -358,9 +358,9 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 
 (1) This Act may be cited as the Prevention of Damage by Pests Act 1949.
 
-(2)[^key-2174ca457b4e308422207918ff795608][^c598833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2174ca457b4e308422207918ff795608][^c598833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-33196d246f069b33dda97bbc02196c01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-33196d246f069b33dda97bbc02196c01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -370,7 +370,7 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 
     Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-2f20fe2b9c52cacd17544eda980bdbfa]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-2f20fe2b9c52cacd17544eda980bdbfa]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c598765]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/part/I) (ss. 1–12) power to apply conferred (E.W.) by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 68(1)(d)](https://www.legislation.gov.uk/ukpga/1988/50/section/68/1/d)
 
@@ -380,7 +380,7 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 
 [^c598768]: Textual amendment: Words inserted by [London Government Act 1963 (c. 33)](https://www.legislation.gov.uk/ukpga/1963/33), [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/1963/33/schedule/17/paragraph/10)
 
-[^key-32b6c5db9aee743c172c186866a400ec]: Textual amendment: Words in s. 1(2) substituted (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/3) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
+[^c-32b6c5db9aee743c172c186866a400ec]: Textual amendment: Words in s. 1(2) substituted (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/3) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
 
 [^c598771]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
@@ -388,13 +388,13 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 
 [^c598773]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/2/2) repealed by [Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1980/65), [s. 194](https://www.legislation.gov.uk/ukpga/1980/65/section/194), [Sch. 34 Pt. I](https://www.legislation.gov.uk/ukpga/1980/65/schedule/34/part/I)
 
-[^key-e368c2b251e1f2076e8d9e57c303f025]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-e368c2b251e1f2076e8d9e57c303f025]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c598774]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
-[^key-51c2247ec55c3c30f53b1d021a760bec]: Modification: S. 4 modified (E.) (6.4.2010) by [Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-51c2247ec55c3c30f53b1d021a760bec]: Modification: S. 4 modified (E.) (6.4.2010) by [Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-fa251e73d4c0f3b25b9f1722367ebd90]: Modification: S. 4 modified (E.) (6.4.2010) by [Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-fa251e73d4c0f3b25b9f1722367ebd90]: Modification: S. 4 modified (E.) (6.4.2010) by [Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
 [^c598775]: Textual amendment: S. 4(3) repealed by [Agriculture (Miscellaneous Provisions) Act 1972 (c. 62)](https://www.legislation.gov.uk/ukpga/1972/62), [Sch. 6](https://www.legislation.gov.uk/ukpga/1972/62/schedule/6)
 
@@ -410,9 +410,9 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 
 [^c598782]: Textual amendment: “level 3 on the standard scale” substituted (S.) for “one hundred pounds” by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289E–289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289E)
 
-[^key-04aab6c850c1cabe387a92e064d0e665]: Modification: S. 6 modified (E.) (6.4.2010) by [Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-04aab6c850c1cabe387a92e064d0e665]: Modification: S. 6 modified (E.) (6.4.2010) by [Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-05759d5c98d1ad6566f8a43030046479]: Modification: S. 6 modified (E.) (6.4.2010) by [Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-05759d5c98d1ad6566f8a43030046479]: Modification: S. 6 modified (E.) (6.4.2010) by [Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
 [^c598784]: Textual amendment: Words repealed by [Local Government Act 1974 (c. 7)](https://www.legislation.gov.uk/ukpga/1974/7), [Sch. 8](https://www.legislation.gov.uk/ukpga/1974/7/schedule/8)
 
@@ -420,7 +420,7 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 
 [^c598787]: Textual amendment: Words substituted by [Water (Scotland) Act 1980 (c. 45, SIF 130)](https://www.legislation.gov.uk/ukpga/1980/45), [s. 112](https://www.legislation.gov.uk/ukpga/1980/45/section/112), [Sch. 10](https://www.legislation.gov.uk/ukpga/1980/45/schedule/10)
 
-[^key-1901a9a547f1841a1e06f729181d0baf]: Textual amendment: S. 8 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-1901a9a547f1841a1e06f729181d0baf]: Textual amendment: S. 8 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c598790]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/9) repealed (E.W.) by [Local Government (Miscellaneous Provisions) Act 1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), [Sch. 2](https://www.legislation.gov.uk/ukpga/1976/57/schedule/2)
 
@@ -446,17 +446,17 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 
 [^c598802]: Textual amendment: Words substituted by virtue of [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [s. 237(2)](https://www.legislation.gov.uk/ukpga/1973/65/section/237/2)
 
-[^key-3a2960844e75babfbcbac1954638821b]: Textual amendment: Words in s. 15(1) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-3a2960844e75babfbcbac1954638821b]: Textual amendment: Words in s. 15(1) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c598805]: Textual amendment: Words substituted by [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), [s. 56(2)](https://www.legislation.gov.uk/ukpga/1971/23/section/56/2), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1971/23/schedule/9/part/I)
 
-[^key-e6724c8914532287ae4fa8034900b639]: Textual amendment: Words in s. 15(5) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 84(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/84/3); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-e6724c8914532287ae4fa8034900b639]: Textual amendment: Words in s. 15(5) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 84(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/84/3); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c598806]: Modification: [Ss. 17](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/17), [19(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/19/2) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 35](https://www.legislation.gov.uk/ukpga/1982/48/section/35) (in relation to liability on first and subsequent convictions), 38 (increase of fines) and 46 (substitution of references to levels on the standard scale) apply (E.W.)
 
-[^key-6990e8b87e91d9596ff3bd5f1ab83fce]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/18) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-6990e8b87e91d9596ff3bd5f1ab83fce]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/18) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
-[^key-2b958ddd089d823b7ad42a91ef019942]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/19) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-2b958ddd089d823b7ad42a91ef019942]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/19) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c598812]: Marginal citation: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
 
@@ -480,9 +480,9 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 
 [^c598824]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/24) repealed by [London Government Act 1963 (c. 33)](https://www.legislation.gov.uk/ukpga/1963/33), [Sch. 18 Pt. II](https://www.legislation.gov.uk/ukpga/1963/33/schedule/18/part/II)
 
-[^key-60f4a614a04011a165012641bb943e8c]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/25) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-60f4a614a04011a165012641bb943e8c]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/25) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
-[^key-53cff058fe8dcce7ba345d6fffad4625]: Textual amendment: [S. 27(1)(b)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/27/1/b) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-53cff058fe8dcce7ba345d6fffad4625]: Textual amendment: [S. 27(1)(b)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/27/1/b) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c598827]: Marginal citation: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
 
@@ -490,7 +490,7 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 
 [^c598829]: Textual amendment: Words substituted by virtue of [S.I. 1955/554](https://www.legislation.gov.uk/uksi/1955/554) (1955 I, p. 1200), art. 3
 
-[^key-63d96ce5e0a7889e8706c9dd8fe1a601]: Textual amendment: Words in s. 28(1) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (No. 319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
+[^c-63d96ce5e0a7889e8706c9dd8fe1a601]: Textual amendment: Words in s. 28(1) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (No. 319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
 
 [^c598830]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
@@ -498,8 +498,8 @@ Provided that Part I of this Act shall not be applied by any such Order in Counc
 
 [^c598832]: Textual amendment: [S. 29(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/29/2) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 
-[^key-2174ca457b4e308422207918ff795608]: Textual amendment: S. 30(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-2174ca457b4e308422207918ff795608]: Textual amendment: S. 30(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c598833]: Modification: The text of s. 30(2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-33196d246f069b33dda97bbc02196c01]: Textual amendment: [S. 30(3)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/30/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-33196d246f069b33dda97bbc02196c01]: Textual amendment: [S. 30(3)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/55/section/30/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)

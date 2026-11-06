@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Constitution etc. of Council[^key-94fdfbdc1b94b90142017e9ae26c7a0e]
+## 114. Constitution etc. of Council[^c-94fdfbdc1b94b90142017e9ae26c7a0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94fdfbdc1b94b90142017e9ae26c7a0e]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2008/14/section/114) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/b)
+[^c-94fdfbdc1b94b90142017e9ae26c7a0e]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2008/14/section/114) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/b)

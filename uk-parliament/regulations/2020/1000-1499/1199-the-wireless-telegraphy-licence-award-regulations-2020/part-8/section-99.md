@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Determination of 3.6 GHz lot additional prices where there is a valid full adjacency agreement[^key-a688a6bb3f79c06760b81cb438f47772]
+## 99. Determination of 3.6 GHz lot additional prices where there is a valid full adjacency agreement[^c-a688a6bb3f79c06760b81cb438f47772]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where OFCOM determined the assignment of 3.6 GHz lots under regulation 96, there
 
 ## Annotations
 
-[^key-a688a6bb3f79c06760b81cb438f47772]: Commencement: Reg. 99 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-a688a6bb3f79c06760b81cb438f47772]: Commencement: Reg. 99 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Consultation on reports[^key-5dcaf312b9e20a302905ef8eb06731f9][^key-0b662d12df010ffc6c97cb67a648519f]
+## 16. Consultation on reports[^c-5dcaf312b9e20a302905ef8eb06731f9][^c-0b662d12df010ffc6c97cb67a648519f]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5dcaf312b9e20a302905ef8eb06731f9]: Commencement: S. 16 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-5dcaf312b9e20a302905ef8eb06731f9]: Commencement: S. 16 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-0b662d12df010ffc6c97cb67a648519f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/41/section/16) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/l) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-0b662d12df010ffc6c97cb67a648519f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/41/section/16) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/l) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

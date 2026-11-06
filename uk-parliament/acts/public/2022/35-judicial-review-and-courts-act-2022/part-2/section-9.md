@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Powers to proceed if accused absent from allocation hearing[^key-d2da3a430c4078930fbd89c7523df247]
+## 9. Powers to proceed if accused absent from allocation hearing[^c-d2da3a430c4078930fbd89c7523df247]
 
 *Extent: E+W+S+N.I.*
 
@@ -144,4 +144,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2da3a430c4078930fbd89c7523df247]: Commencement: S. 9 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-d2da3a430c4078930fbd89c7523df247]: Commencement: S. 9 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

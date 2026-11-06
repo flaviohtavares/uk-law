@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74.[^key-39ffffc9975bce40c343d22bafda897e]
+## 74.[^c-39ffffc9975bce40c343d22bafda897e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39ffffc9975bce40c343d22bafda897e]: Textual amendment: S. 74 repealed (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table
+[^c-39ffffc9975bce40c343d22bafda897e]: Textual amendment: S. 74 repealed (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table

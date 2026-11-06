@@ -29,7 +29,7 @@ summary: ''
 
 (2) A company is excluded if it is—
 
-- (a) a charitable company [^key-de358ab20c6cf6b122b5d593f55c799b]...,
+- (a) a charitable company [^c-de358ab20c6cf6b122b5d593f55c799b]...,
 - (b) an eligible body as defined in section 468, or
 - (c) a scientific research association as defined in section 469.
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de358ab20c6cf6b122b5d593f55c799b]: Textual amendment: Words in s. 610(2)(a) omitted (with effect in accordance with art. 21 of the commencing S.I.) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 27(5)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/27/5), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 21](https://www.legislation.gov.uk/uksi/2012/736/article/21)
+[^c-de358ab20c6cf6b122b5d593f55c799b]: Textual amendment: Words in s. 610(2)(a) omitted (with effect in accordance with art. 21 of the commencing S.I.) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 27(5)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/27/5), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 21](https://www.legislation.gov.uk/uksi/2012/736/article/21)

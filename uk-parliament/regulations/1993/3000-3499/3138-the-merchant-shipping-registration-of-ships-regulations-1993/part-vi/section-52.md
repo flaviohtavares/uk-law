@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Change of name[^key-5cbe66b6ac5d1522f88e72d62acc9178]
+## 52. Change of name[^c-5cbe66b6ac5d1522f88e72d62acc9178]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cbe66b6ac5d1522f88e72d62acc9178]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1993/3138/regulation/52) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-5cbe66b6ac5d1522f88e72d62acc9178]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1993/3138/regulation/52) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

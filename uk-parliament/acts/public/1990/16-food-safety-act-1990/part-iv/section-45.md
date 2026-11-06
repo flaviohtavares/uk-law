@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Regulations as to charges.[^key-210e5554bf3cfef4d382bcb8e19b0e75][^key-9d78c64d4e95edaa6362ffd686cc9340]
+## 45. Regulations as to charges.[^c-210e5554bf3cfef4d382bcb8e19b0e75][^c-9d78c64d4e95edaa6362ffd686cc9340]
 
 *Extent: E+W+S*
 
@@ -33,9 +33,9 @@ summary: ''
 
 ## Annotations
 
-[^key-210e5554bf3cfef4d382bcb8e19b0e75]: Modification: S. 45: transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-210e5554bf3cfef4d382bcb8e19b0e75]: Modification: S. 45: transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
 
-[^key-9d78c64d4e95edaa6362ffd686cc9340]: Modification: S. 45: power to apply in part for certain purposes conferred (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 49(2)(c)(x)](https://www.legislation.gov.uk/asp/2015/1/section/49/2/c/x), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-9d78c64d4e95edaa6362ffd686cc9340]: Modification: S. 45: power to apply in part for certain purposes conferred (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 49(2)(c)(x)](https://www.legislation.gov.uk/asp/2015/1/section/49/2/c/x), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
 [^c10205331]: Textual amendment: Words in s. 45(1)(2) substituted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(1)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/8) (with [ss. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38), [40(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/2)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 

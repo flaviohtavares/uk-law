@@ -37,8 +37,8 @@ summary: ''
 
 (6) Before any order is made under this Article, the Committee shall—
 
-- (a) cause a draft of the order to be sent to the Legal Services Oversight Commissioner and the Council[^key-12259ef6e543377d81d5ca0ce240f26f]; and
-- (b) consider any observations in writing submitted to them by the Commissioner or the Council[^key-9472a37d62b23261bdf94ac3c47d2143] within three months of the sending of the draft;
+- (a) cause a draft of the order to be sent to the Legal Services Oversight Commissioner and the Council[^c-12259ef6e543377d81d5ca0ce240f26f]; and
+- (b) consider any observations in writing submitted to them by the Commissioner or the Council[^c-9472a37d62b23261bdf94ac3c47d2143] within three months of the sending of the draft;
 
 and the Committee may then make the order either in the form of the draft or with such alterations or additions as they may think fit.
 
@@ -69,6 +69,6 @@ and the Committee may then make the order either in the form of the draft or wit
 
 [^c21337601]: Textual amendment: Words in [art. 71(3)](https://www.legislation.gov.uk/nisi/1976/582/article/71/3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-12259ef6e543377d81d5ca0ce240f26f]: Textual amendment: Words in [art. 71(6)(a)](https://www.legislation.gov.uk/nisi/1976/582/article/71/6/a) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 3(5)(a)](https://www.legislation.gov.uk/nia/2016/14/section/3/5/a), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-12259ef6e543377d81d5ca0ce240f26f]: Textual amendment: Words in [art. 71(6)(a)](https://www.legislation.gov.uk/nisi/1976/582/article/71/6/a) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 3(5)(a)](https://www.legislation.gov.uk/nia/2016/14/section/3/5/a), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-9472a37d62b23261bdf94ac3c47d2143]: Textual amendment: Words in [art. 71(6)(b)](https://www.legislation.gov.uk/nisi/1976/582/article/71/6/b) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 3(5)(b)](https://www.legislation.gov.uk/nia/2016/14/section/3/5/b), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-9472a37d62b23261bdf94ac3c47d2143]: Textual amendment: Words in [art. 71(6)(b)](https://www.legislation.gov.uk/nisi/1976/582/article/71/6/b) substituted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 3(5)(b)](https://www.legislation.gov.uk/nia/2016/14/section/3/5/b), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)

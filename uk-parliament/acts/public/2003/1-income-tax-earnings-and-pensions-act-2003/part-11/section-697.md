@@ -39,9 +39,9 @@ summary: ''
 (4) There is excluded from the scope of what constitutes enhancing the value of an asset for the purposes of this section any enhancement of value arising on the acquisition by the employee (whether or not as a result of the exercise of a right to acquire shares) of—
 
 - (a) any shares acquired by the employee under a scheme approved under ... Schedule 9 to ICTA (approved profit sharing schemes),
-- (aa)[^key-101a785a5e0b910f16abde51809364a0] any shares acquired by the employee under a scheme which is a Schedule 3 SAYE option scheme (see Schedule 3),
-- (ab)[^key-5eb843384b1a0f8f29002d274e28ad04] any shares acquired by the employee under a scheme which is a Schedule 4 CSOP scheme (see Schedule 4),
-- (b) any right over or interest in shares obtained or acquired by the employee under a scheme mentioned in any of the preceding paragraphs[^key-8a85392a7090075ff08349e1de4b6e4c], or
+- (aa)[^c-101a785a5e0b910f16abde51809364a0] any shares acquired by the employee under a scheme which is a Schedule 3 SAYE option scheme (see Schedule 3),
+- (ab)[^c-5eb843384b1a0f8f29002d274e28ad04] any shares acquired by the employee under a scheme which is a Schedule 4 CSOP scheme (see Schedule 4),
+- (b) any right over or interest in shares obtained or acquired by the employee under a scheme mentioned in any of the preceding paragraphs[^c-8a85392a7090075ff08349e1de4b6e4c], or
 - (c) any shares acquired by the employee as a result of the exercise of a right over shares obtained before 27th November 1996,
 
 if the shares in question form part of the share capital of a company falling within section 701(3).
@@ -50,8 +50,8 @@ if the shares in question form part of the share capital of a company falling wi
 
 ## Annotations
 
-[^key-101a785a5e0b910f16abde51809364a0]: Textual amendment: S. 697(4)(aa) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 137(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/137/b), [146](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/146) (with [Sch. 8 paras. 147-157](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/147))
+[^c-101a785a5e0b910f16abde51809364a0]: Textual amendment: S. 697(4)(aa) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 137(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/137/b), [146](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/146) (with [Sch. 8 paras. 147-157](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/147))
 
-[^key-5eb843384b1a0f8f29002d274e28ad04]: Textual amendment: S. 697(4)(ab) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 201](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/201), [204](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/204) (with [Sch. 8 paras. 205-215](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/205))
+[^c-5eb843384b1a0f8f29002d274e28ad04]: Textual amendment: S. 697(4)(ab) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 201](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/201), [204](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/204) (with [Sch. 8 paras. 205-215](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/205))
 
-[^key-8a85392a7090075ff08349e1de4b6e4c]: Textual amendment: Words in s. 697(4)(b) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 137(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/137/c), [146](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/146) (with [Sch. 8 paras. 147-157](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/147))
+[^c-8a85392a7090075ff08349e1de4b6e4c]: Textual amendment: Words in s. 697(4)(b) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 137(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/137/c), [146](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/146) (with [Sch. 8 paras. 147-157](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/147))

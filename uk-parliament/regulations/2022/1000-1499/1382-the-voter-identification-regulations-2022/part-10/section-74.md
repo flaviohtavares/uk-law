@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. New regulation 20A (provision of private area for production of proof of identity: England and Wales and Scotland)[^key-3aa41bcd72077af82fe147ed95a0bc84]
+## 74. New regulation 20A (provision of private area for production of proof of identity: England and Wales and Scotland)[^c-3aa41bcd72077af82fe147ed95a0bc84]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ After regulation 20 (identification of secure storage) insert—
 
 ## Annotations
 
-[^key-3aa41bcd72077af82fe147ed95a0bc84]: Commencement: Reg. 74 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-3aa41bcd72077af82fe147ed95a0bc84]: Commencement: Reg. 74 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

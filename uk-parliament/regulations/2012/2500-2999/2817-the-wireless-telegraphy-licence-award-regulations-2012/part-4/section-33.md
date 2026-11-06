@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Determination of round prices for subsequent primary bid rounds[^key-d39429e40eff4fa81c0b9be406da5e98]
+## 33. Determination of round prices for subsequent primary bid rounds[^c-d39429e40eff4fa81c0b9be406da5e98]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d39429e40eff4fa81c0b9be406da5e98]: Commencement: Reg. 33 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-d39429e40eff4fa81c0b9be406da5e98]: Commencement: Reg. 33 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

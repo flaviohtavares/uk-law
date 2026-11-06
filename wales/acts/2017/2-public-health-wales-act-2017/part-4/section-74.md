@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Revocation of approval: notification requirements[^key-501202f76f8508b3c152fb5a361d8ebc]
+## 74. Revocation of approval: notification requirements[^c-501202f76f8508b3c152fb5a361d8ebc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-501202f76f8508b3c152fb5a361d8ebc]: Commencement: [S. 74](https://www.legislation.gov.uk/anaw/2017/2/section/74) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(q)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/q) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-501202f76f8508b3c152fb5a361d8ebc]: Commencement: [S. 74](https://www.legislation.gov.uk/anaw/2017/2/section/74) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(q)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/q) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

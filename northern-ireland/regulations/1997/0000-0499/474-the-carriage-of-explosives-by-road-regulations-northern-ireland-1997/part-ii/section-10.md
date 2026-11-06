@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Suitability of vehicles and containers[^key-0b6f07bf7063450aba7ebdc65264bf25]
+## 10. Suitability of vehicles and containers[^c-0b6f07bf7063450aba7ebdc65264bf25]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b6f07bf7063450aba7ebdc65264bf25]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1997/474/regulation/10) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-0b6f07bf7063450aba7ebdc65264bf25]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1997/474/regulation/10) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

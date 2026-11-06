@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. International road haulage[^key-5c910a7cbcd97bdc6b4de7e7b32b88c3]
+## 24. International road haulage[^c-5c910a7cbcd97bdc6b4de7e7b32b88c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c910a7cbcd97bdc6b4de7e7b32b88c3]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2020/29/section/24) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/v)
+[^c-5c910a7cbcd97bdc6b4de7e7b32b88c3]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2020/29/section/24) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/v)

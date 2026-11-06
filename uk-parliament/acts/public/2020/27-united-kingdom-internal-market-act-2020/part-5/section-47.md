@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Unfettered access to UK internal market for Northern Ireland goods[^key-45453962b2db4cb0acbac7556bbb21ec]
+## 47. Unfettered access to UK internal market for Northern Ireland goods[^c-45453962b2db4cb0acbac7556bbb21ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ summary: ''
 
 (8) For the purposes of this section—
 
-- (a)[^key-d929e8e6f68f57a929fe0792d3fe93d0] an “NI-GB” check, control or administrative process is one applicable to the movement of qualifying Northern Ireland goods from Northern Ireland to Great Britain which—
+- (a)[^c-d929e8e6f68f57a929fe0792d3fe93d0] an “NI-GB” check, control or administrative process is one applicable to the movement of qualifying Northern Ireland goods from Northern Ireland to Great Britain which—
   - (i) is direct movement, or
   - (ii) would be direct movement but for the fact the goods merely pass through the Republic of Ireland (and only the Republic of Ireland) in making that movement;
 - (b) an “existing kind” of NI-GB check, control or administrative process is one that—
@@ -94,6 +94,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45453962b2db4cb0acbac7556bbb21ec]: Commencement: S. 47 in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/g)
+[^c-45453962b2db4cb0acbac7556bbb21ec]: Commencement: S. 47 in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/g)
 
-[^key-d929e8e6f68f57a929fe0792d3fe93d0]: Textual amendment: S. 47(8)(a) substituted (20.2.2024) by [The Windsor Framework (UK Internal Market and Unfettered Access) Regulations 2024 (S.I. 2024/163)](https://www.legislation.gov.uk/uksi/2024/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/163/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/163/regulation/2/4)
+[^c-d929e8e6f68f57a929fe0792d3fe93d0]: Textual amendment: S. 47(8)(a) substituted (20.2.2024) by [The Windsor Framework (UK Internal Market and Unfettered Access) Regulations 2024 (S.I. 2024/163)](https://www.legislation.gov.uk/uksi/2024/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/163/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/163/regulation/2/4)

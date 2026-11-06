@@ -33,7 +33,7 @@ SOCIAL CARE, WALES
 
 CHILDREN AND YOUNG PERSONS, WALES
 
-The Care Homes (Wales) Regulations 2002 (revoked)[^key-bb7e39c4828d00db75bf1115a9686214]
+The Care Homes (Wales) Regulations 2002 (revoked)[^c-bb7e39c4828d00db75bf1115a9686214]
 
 Made
 
@@ -43,11 +43,11 @@ Coming into force
 
 1st April 2002
 
-[^key-bb7e39c4828d00db75bf1115a9686214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb7e39c4828d00db75bf1115a9686214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-bb7e39c4828d00db75bf1115a9686214]
+### PART I — GENERAL[^c-bb7e39c4828d00db75bf1115a9686214]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ Coming into force
 - [Section 5A — Information about fees](part-i/section-5a.md)
 - [Section 6 — Review of statement of purpose and service user’s guide](part-i/section-6.md)
 
-### PART II — REGISTERED PERSONS[^key-bb7e39c4828d00db75bf1115a9686214]
+### PART II — REGISTERED PERSONS[^c-bb7e39c4828d00db75bf1115a9686214]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ Coming into force
 - [Section 10 — Registered person — general requirements](part-ii/section-10.md)
 - [Section 11 — Notification of offences](part-ii/section-11.md)
 
-### PART III — CONDUCT OF CARE HOME[^key-bb7e39c4828d00db75bf1115a9686214]
+### PART III — CONDUCT OF CARE HOME[^c-bb7e39c4828d00db75bf1115a9686214]
 
 *Extent: E+W*
 
@@ -92,7 +92,7 @@ Coming into force
 - [Section 22 — Staff disciplinary procedure](part-iii/section-22.md)
 - [Section 23 — Complaints](part-iii/section-23.md)
 
-### PART IV — PREMISES[^key-bb7e39c4828d00db75bf1115a9686214]
+### PART IV — PREMISES[^c-bb7e39c4828d00db75bf1115a9686214]
 
 *Extent: E+W*
 
@@ -100,7 +100,7 @@ Coming into force
 
 - [Section 24 — Fitness of premises](part-iv/section-24.md)
 
-### PART V — MANAGEMENT[^key-bb7e39c4828d00db75bf1115a9686214]
+### PART V — MANAGEMENT[^c-bb7e39c4828d00db75bf1115a9686214]
 
 *Extent: E+W*
 
@@ -110,7 +110,7 @@ Coming into force
 - [Section 26 — Financial position](part-v/section-26.md)
 - [Section 27 — Visits by registered provider](part-v/section-27.md)
 
-### PART VI — CHILDREN[^key-bb7e39c4828d00db75bf1115a9686214]
+### PART VI — CHILDREN[^c-bb7e39c4828d00db75bf1115a9686214]
 
 *Extent: E+W*
 
@@ -127,7 +127,7 @@ Coming into force
 - [Section 36 — Review of quality of care](part-vi/section-36.md)
 - [Section 37 — Offences](part-vi/section-37.md)
 
-### PART VII — MISCELLANEOUS[^key-bb7e39c4828d00db75bf1115a9686214]
+### PART VII — MISCELLANEOUS[^c-bb7e39c4828d00db75bf1115a9686214]
 
 *Extent: E+W*
 
@@ -157,12 +157,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-bb7e39c4828d00db75bf1115a9686214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb7e39c4828d00db75bf1115a9686214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-bb7e39c4828d00db75bf1115a9686214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb7e39c4828d00db75bf1115a9686214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bb7e39c4828d00db75bf1115a9686214]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/324) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)
+[^c-bb7e39c4828d00db75bf1115a9686214]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/324) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)

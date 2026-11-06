@@ -24,7 +24,7 @@ Article 5(1)
 
 ### PART 1 — CONTRARY PROVISION (GENERAL)
 
-#### 1. Contrary provision: general[^key-562b6ea062b09b8606cf979ca7143019]
+#### 1. Contrary provision: general[^c-562b6ea062b09b8606cf979ca7143019]
 
 Paragraph 1(1) and (2) and paragraphs 2 to 4 of Schedule 1 are subject to any contrary provision made by—
 
@@ -33,11 +33,11 @@ Paragraph 1(1) and (2) and paragraphs 2 to 4 of Schedule 1 are subject to any co
 
 including any such contrary provision contained in amendments of existing Scottish legislation.
 
-#### 2. Contrary provision: EU instruments[^key-69eea8e22545361816c462ed4c5042b4]
+#### 2. Contrary provision: EU instruments[^c-69eea8e22545361816c462ed4c5042b4]
 
 Paragraph 1(1) and (2) and paragraphs 2 to 4 of Schedule 1 do not apply to EU instruments.
 
-#### 3. Contrary provision: private Acts[^key-e8bb15171fb0e7d7a01d3b27c697b21a]
+#### 3. Contrary provision: private Acts[^c-e8bb15171fb0e7d7a01d3b27c697b21a]
 
 Paragraph 1(1) and (2) and paragraphs 2 to 4 of Schedule 1 do not apply to a private Act made before the day on which section 4 of the 2014 Act comes into force which—
 
@@ -47,7 +47,7 @@ Paragraph 1(1) and (2) and paragraphs 2 to 4 of Schedule 1 do not apply to a pri
 
 ### PART 2 — DISAPPLICATION OF SCHEDULE 1 IN RESPECT OF ROYAL TITLES AND PEERAGES
 
-#### 4. Provision disapplying the effect of Schedule 1 etc. in respect of the common law[^key-31bb932d43b44e569c1794a55ffb037d]
+#### 4. Provision disapplying the effect of Schedule 1 etc. in respect of the common law[^c-31bb932d43b44e569c1794a55ffb037d]
 
 (1) Paragraph 1(1) and (2) of Schedule 1 do not affect any rule of law concerning the right of a person—
 
@@ -58,13 +58,13 @@ Paragraph 1(1) and (2) and paragraphs 2 to 4 of Schedule 1 do not apply to a pri
 
 ### PART 3 — ENACTMENTS ETC. (GENERAL)
 
-#### 5. Provision to which Schedule 1 is subject[^key-f310db5e5a045c1f77dac968aa463f87]
+#### 5. Provision to which Schedule 1 is subject[^c-f310db5e5a045c1f77dac968aa463f87]
 
 (1) Paragraph 1(1) and (2) of Schedule 1 have effect subject to sub-paragraph (2) of this article.
 
 (2) In applying rules E.3(6)(a), E.4(3)(a) and E.5(3)(a) in Part E of Schedule 1 to the Armed Forces Pension Scheme Order 2005[^f00018] for the purposes of calculating death benefits payable under rules E1 and E2, a surviving spouse who was married to someone of the same sex is to be treated in the same way as the surviving civil partner of a civil partnership.
 
-#### 6. Provision disapplying the effect of Schedule 1 in respect of enactments[^key-5b46a35bebb5cf5a4ff9118f437ec32d]
+#### 6. Provision disapplying the effect of Schedule 1 in respect of enactments[^c-5b46a35bebb5cf5a4ff9118f437ec32d]
 
 Paragraph 1(1) and (2) and paragraphs 2 to 4 of Schedule 1 do not apply to—
 
@@ -120,19 +120,19 @@ Paragraph 1(1) and (2) and paragraphs 2 to 4 of Schedule 1 do not apply to—
 
 ## Annotations
 
-[^key-562b6ea062b09b8606cf979ca7143019]: Commencement: Sch. 2 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-562b6ea062b09b8606cf979ca7143019]: Commencement: Sch. 2 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
-[^key-69eea8e22545361816c462ed4c5042b4]: Commencement: Sch. 2 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-69eea8e22545361816c462ed4c5042b4]: Commencement: Sch. 2 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
-[^key-e8bb15171fb0e7d7a01d3b27c697b21a]: Commencement: Sch. 2 para. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-e8bb15171fb0e7d7a01d3b27c697b21a]: Commencement: Sch. 2 para. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
-[^key-31bb932d43b44e569c1794a55ffb037d]: Commencement: Sch. 2 para. 4 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-31bb932d43b44e569c1794a55ffb037d]: Commencement: Sch. 2 para. 4 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
-[^key-f310db5e5a045c1f77dac968aa463f87]: Commencement: Sch. 2 para. 5 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-f310db5e5a045c1f77dac968aa463f87]: Commencement: Sch. 2 para. 5 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00018]: Footnote: [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438); to which there are amendments not relevant to this Order.
 
-[^key-5b46a35bebb5cf5a4ff9118f437ec32d]: Commencement: Sch. 2 para. 6 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-5b46a35bebb5cf5a4ff9118f437ec32d]: Commencement: Sch. 2 para. 6 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00019]: Footnote: [1351 c.2](https://www.legislation.gov.uk/ukpga/1351/2); the Act was extended to Scotland by the Treason Act 1708, and amended by the Forgery Act [1830 (c.66)](https://www.legislation.gov.uk/ukpga/1830/66), section 31, 2 and 3 Will 4 (c.34), section 1, 9 Geo 4 (c.31), section 1, 10 Geo 4 (c.34), section 1, the Escheat (Procedure) Act [1887 (c.53)](https://www.legislation.gov.uk/ukpga/1887/53), the Schedule, the Statute Law Revision Act [1948 (c.62)](https://www.legislation.gov.uk/ukpga/1948/62), the Criminal Law Act [1967 (c.58)](https://www.legislation.gov.uk/ukpga/1967/58), Schedule 3, Part 1, the Succession to the Crown Act [2013 (c.20)](https://www.legislation.gov.uk/ukpga/2013/20), the Schedule (not yet in force).
 

@@ -32,11 +32,11 @@ summary: ''
 - (a) the FCA must be given notice of any change of registered office, and
 - (b) where such notice is given, or where a registered society's name is changed (see section 13), the FCA must register the change of registered office or name as an amendment of the society's rules.
 
-(4)[^key-602b6d8dd535ddcda4cb85c7bc6eee5f] If the FCA is satisfied that an amendment of a society's rules is not contrary to the provisions of this Act, it must—
+(4)[^c-602b6d8dd535ddcda4cb85c7bc6eee5f] If the FCA is satisfied that an amendment of a society's rules is not contrary to the provisions of this Act, it must—
 
 - (a) register the amendment, and
 - (b) give the society an acknowledgment of registration bearing the FCA's seal.
 
 ## Annotations
 
-[^key-602b6d8dd535ddcda4cb85c7bc6eee5f]: Modification: [S. 16(4)](https://www.legislation.gov.uk/ukpga/2014/14/section/16/4) modified by 1979 c. 34, s. 4(3) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/5/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-602b6d8dd535ddcda4cb85c7bc6eee5f]: Modification: [S. 16(4)](https://www.legislation.gov.uk/ukpga/2014/14/section/16/4) modified by 1979 c. 34, s. 4(3) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/5/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

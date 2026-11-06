@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies if—
 
 - (a) a person is entitled to an allowance for income tax purposes,
-- (b) that person enters into a tax agreement with an officer of Revenue and Customs[^key-f8383d059f6983497492acea54d7cfe8] for the tax year in which the allowance would be given effect, and
+- (b) that person enters into a tax agreement with an officer of Revenue and Customs[^c-f8383d059f6983497492acea54d7cfe8] for the tax year in which the allowance would be given effect, and
 - (c) no assessment giving effect to the allowance is made for that tax year.
 
 (2) In this section “ **tax agreement** ” means an agreement in writing as to the extent to which the allowance in question is to be given effect for the tax year in question.
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

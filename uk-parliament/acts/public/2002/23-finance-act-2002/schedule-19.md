@@ -132,10 +132,10 @@ In section 52(3), in the Table, after the entry relating to expenditure qualifyi
 
 .
 
-### 6. Single asset pool in relation to cars above cost threshold[^key-63033e685840b2b839834ab41f0122c3]
+### 6. Single asset pool in relation to cars above cost threshold[^c-63033e685840b2b839834ab41f0122c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63033e685840b2b839834ab41f0122c3]: Textual amendment: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2002/23/schedule/19/paragraph/6) omitted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 25](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/25) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))
+[^c-63033e685840b2b839834ab41f0122c3]: Textual amendment: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2002/23/schedule/19/paragraph/6) omitted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 25](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/25) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.31. Procedure where detailed assessment is required[^key-80d94dcee4a7f64cfb920b30b5c86be8]
+## 4.31. Procedure where detailed assessment is required[^c-80d94dcee4a7f64cfb920b30b5c86be8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80d94dcee4a7f64cfb920b30b5c86be8]: Commencement: Rule 4.31 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-80d94dcee4a7f64cfb920b30b5c86be8]: Commencement: Rule 4.31 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

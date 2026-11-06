@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Statutory authority to override easements and other rights[^key-15abb74e8eb9de37670e31bf7e60a1eb]
+## 33. Statutory authority to override easements and other rights[^c-15abb74e8eb9de37670e31bf7e60a1eb]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ authorised by virtue of this Order and the operation of section 158 of the 2008 
 
 ## Annotations
 
-[^key-15abb74e8eb9de37670e31bf7e60a1eb]: Commencement: Art. 33 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-15abb74e8eb9de37670e31bf7e60a1eb]: Commencement: Art. 33 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

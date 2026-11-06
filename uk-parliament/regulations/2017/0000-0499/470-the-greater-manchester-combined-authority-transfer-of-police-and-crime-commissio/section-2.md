@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-6c63e6c0d708d368892f1e7b4e25db09]
+## 2. Interpretation[^c-6c63e6c0d708d368892f1e7b4e25db09]
 
 *Extent: E+W*
 
@@ -31,12 +31,12 @@ In this Order—
 - “election for the return of the mayor” means an election held pursuant to the 2016 Order;
 - “the mayor” means the mayor for the area;
 - “the police and crime commissioner” means the police and crime commissioner for Greater Manchester;
-- “the PCC component” means the component of the precept under section 40 of the Local Government Finance Act 1992 (as modified by the Combined Authorities (Finance) Order 2017) in respect of the mayor’s PCC functions;[^key-75d2ab28a0566caff813a08aea9ec07c]
+- “the PCC component” means the component of the precept under section 40 of the Local Government Finance Act 1992 (as modified by the Combined Authorities (Finance) Order 2017) in respect of the mayor’s PCC functions;[^c-75d2ab28a0566caff813a08aea9ec07c]
 - “the PCC component council tax requirement” means the component of the council tax requirement calculated under section 42A of the Local Government Finance Act 1992 (as modified by the Combined Authorities (Finance) Order 2017) in respect of the mayor’s PCC functions.
 
 ## Annotations
 
-[^key-6c63e6c0d708d368892f1e7b4e25db09]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/470/article/2) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-6c63e6c0d708d368892f1e7b4e25db09]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/470/article/2) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00008]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20).
 
@@ -44,4 +44,4 @@ In this Order—
 
 [^f00010]: Footnote: [S.I. 2016/448](https://www.legislation.gov.uk/uksi/2016/448).
 
-[^key-75d2ab28a0566caff813a08aea9ec07c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/470/article/2) substituted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2018/444/article/4/2)
+[^c-75d2ab28a0566caff813a08aea9ec07c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/470/article/2) substituted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2018/444/article/4/2)

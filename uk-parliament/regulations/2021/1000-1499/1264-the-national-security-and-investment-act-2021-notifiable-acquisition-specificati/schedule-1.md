@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-e48822cc75376e1a0f9c591d9a2f2512]
+### 1. Interpretation[^c-e48822cc75376e1a0f9c591d9a2f2512]
 
 In this Schedule—
 
@@ -51,7 +51,7 @@ In this Schedule—
   - (c) the accessibility of design and production for semiconductor devices and chips where “chips” include Field Programmable Gate Array devices, System on Chip, Application Specific Integrated Circuits and Readout Integrated Circuits and where “**devices**” includes radio and microwave frequency control circuitry, power amplifiers, low noise amplifiers and monolithic microwave integrated circuits and detectors;
 - “**technical textiles**” means textiles (and their processes and enablers) specifically developed for their functional performance including additional functionality (such as integrated computing, processing or data transmission), 3D architectures, protection against blast and ballistic events but does not include sportswear or clothing that is ordinarily available to consumers or household goods.
 
-### 2. Activities[^key-b4e7365fa9ed16b5046776eeb15f4986]
+### 2. Activities[^c-b4e7365fa9ed16b5046776eeb15f4986]
 
 (1) A qualifying entity carrying on activities that consist of or include any of the activities set out in sub-paragraph (2) in relation to—
 
@@ -74,7 +74,7 @@ In this Schedule—
 - (a) Schedule 2 to the Export Control Order 2008[^f00005]; or
 - (b) Annex I and Annex IV to Council Regulation [(EC) No 2009/42](https://www.legislation.gov.uk/european/regulation/1942/2009)8 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items[^f00006].
 
-### 3. Sectors and matters[^key-b3385fcb40cb9b683328fcab8d214fce]
+### 3. Sectors and matters[^c-b3385fcb40cb9b683328fcab8d214fce]
 
 The following Table sets out the sectors and matters referred to in paragraph 2(1)(b).
 
@@ -97,16 +97,16 @@ Table
 
 ## Annotations
 
-[^key-e48822cc75376e1a0f9c591d9a2f2512]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/1/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-e48822cc75376e1a0f9c591d9a2f2512]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/1/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00003]: Footnote: ISO/TS 80004-13:2017 Nanotechnologies-Vocabulary-Part 13 Graphene and related two-dimensional (2D) materials is published by the International Organization for Standardization. The terms and definitions set out in the standard are available at https://www.iso.org/obp/ui/#iso:std:iso:ts:80004:-13:ed-1:v1:en.
 
 [^f00004]: Footnote: ISO/TR 10993-22:2017 Nanotechnologies-Vocabulary-Part 1: Core terms is published by the International Organization for Standardization. The terms and definitions set out in the standard are available at https://www.iso.org/obp/ui#iso:std:iso:tr:10993:-22:ed-1:v1:en.
 
-[^key-b4e7365fa9ed16b5046776eeb15f4986]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/1/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-b4e7365fa9ed16b5046776eeb15f4986]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/1/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 2 was substituted by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85) and subsequently amended by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697), [2018/165](https://www.legislation.gov.uk/uksi/2018/165), [2018/939](https://www.legislation.gov.uk/uksi/2018/939) and [2019/989](https://www.legislation.gov.uk/uksi/2019/989).
 
 [^f00006]: Footnote: EUR 2009/428 as amended by [S.I. 2020/1502](https://www.legislation.gov.uk/uksi/2020/1502) and [2020/1510](https://www.legislation.gov.uk/uksi/2020/1510).
 
-[^key-b3385fcb40cb9b683328fcab8d214fce]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/1/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-b3385fcb40cb9b683328fcab8d214fce]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/1/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)

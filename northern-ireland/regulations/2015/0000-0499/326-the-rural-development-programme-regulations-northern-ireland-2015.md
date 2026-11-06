@@ -46,11 +46,11 @@ The Department of Agriculture and Rural Development is designated[^f00001] for t
 
 The Department of Agriculture and Rural Development, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, makes the following Regulations.
 
-## 1. Citation and commencement[^key-b97158728a64ebdc5e245b3871e9293d]
+## 1. Citation and commencement[^c-b97158728a64ebdc5e245b3871e9293d]
 
 These Regulations may be cited as the Rural Development Programme Regulations (Northern Ireland) 2015 and come into operation on 5<sup>th</sup> October 2015.
 
-## 2. Interpretation[^key-de7e644b4bdc4adcdd3ad66fbc0176b1]
+## 2. Interpretation[^c-de7e644b4bdc4adcdd3ad66fbc0176b1]
 
 (1) In these Regulations—
 
@@ -84,13 +84,13 @@ These Regulations may be cited as the Rural Development Programme Regulations (N
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Assistance for rural development[^key-e4be33d70e54d814d50998039aa13e70]
+## 3. Assistance for rural development[^c-e4be33d70e54d814d50998039aa13e70]
 
 (1) The Department may pay financial assistance to a beneficiary towards expenditure incurred or to be incurred by him in connection with any approved operation.
 
 (2) Where, as a direct result of carrying out any operation, a farmer forgoes income that would otherwise have accrued to him from the carrying out of agricultural activity, then in relation to that operation “expenditure incurred” includes such income foregone.
 
-## 4. Payment[^key-b99e78c38379f32577f06b5b4a117434]
+## 4. Payment[^c-b99e78c38379f32577f06b5b4a117434]
 
 (1) The Department may make a rural development payment in the form of a single lump sum or by instalments.
 
@@ -99,13 +99,13 @@ These Regulations may be cited as the Rural Development Programme Regulations (N
 - (a) at such time or times as the Department thinks fit; and
 - (b) subject to such conditions as the Department reasonably may determine.
 
-## 5. Applications for approval of operations[^key-518a2c1f97c4c7ebc55a15abfed32a67]
+## 5. Applications for approval of operations[^c-518a2c1f97c4c7ebc55a15abfed32a67]
 
 (1) An application for the approval of an operation shall be made to the Department or, in such circumstances as the Department may determine and publish in writing, to an agent.
 
 (2) Such an application shall be made in such form and contain such information as the Department or its agent, as appropriate, may require.
 
-## 6. Approval of operations[^key-833dea8c18b43955c35b3bbbc988451e]
+## 6. Approval of operations[^c-833dea8c18b43955c35b3bbbc988451e]
 
 (1) The Department or its agent may, on application made to it, approve any operation for the purposes of Regulation 3 and may do so—
 
@@ -137,17 +137,17 @@ but shall not do so except in accordance with paragraph (2).
 
 (7) In exercising its powers under paragraphs (1) and (3), the Department or its agent will take into account the need for approved operations to contribute towards achieving the objectives described in Article 4 of the Rural Development Regulation.
 
-## 7. Claims[^key-e7182e0c7b70e9cb83266a6ac12a79f8]
+## 7. Claims[^c-e7182e0c7b70e9cb83266a6ac12a79f8]
 
 A claim for a rural development payment shall be made at such time and in such form and be accompanied by such information as the Department or its agent reasonably may require.
 
-## 8. Provision of information[^key-c4567351e842aad33b7229cd5ae41328]
+## 8. Provision of information[^c-c4567351e842aad33b7229cd5ae41328]
 
 (1) A beneficiary shall supply the Department or its agent with such information about an approved operation as the Department or its agent reasonably may require.
 
 (2) Where the Department or its agent requires such information, the beneficiary shall supply the Department or its agent with the information within such period as the Department or its agent reasonably may determine.
 
-## 9. Powers of entry[^key-3c02dbf00f6b8f2d91261112611be0e3]
+## 9. Powers of entry[^c-3c02dbf00f6b8f2d91261112611be0e3]
 
 (1) An authorised person may exercise any of the powers specified in this regulation for the purposes of enforcing these Regulations or the European Regulations.
 
@@ -163,7 +163,7 @@ A claim for a rural development payment shall be made at such time and in such f
 
 (4) An authorised person who enters any unoccupied premises must leave them as effectively secured as they were before entry.
 
-## 10. Powers of an authorised person[^key-cfec6b84dea4f62fc7233dc52b4ba681]
+## 10. Powers of an authorised person[^c-cfec6b84dea4f62fc7233dc52b4ba681]
 
 (1) An authorised person who has entered any land or premises under regulation 9 may—
 
@@ -179,7 +179,7 @@ A claim for a rural development payment shall be made at such time and in such f
 
 (2) Paragraph (1) applies in relation to a person referred to in regulation 9(3)(b) when such a person is acting under the instructions of an authorised person, as if such person were an authorised person.
 
-## 11. Record keeping[^key-88182eaafbdbcf9280b63b39ab1b9f08]
+## 11. Record keeping[^c-88182eaafbdbcf9280b63b39ab1b9f08]
 
 (1) Save as provided in paragraphs (2) and (3), a beneficiary must retain any invoice, account or other document relating to an approved operation for such a period as the Department or its agent reasonably may determine.
 
@@ -187,15 +187,15 @@ A claim for a rural development payment shall be made at such time and in such f
 
 (3) Paragraph (1) does not apply in relation to any document removed by any person lawfully authorised to remove it.
 
-## 12. Transfers of holdings[^key-9c11ef71dc7bc5751abd93c45464fee5]
+## 12. Transfers of holdings[^c-9c11ef71dc7bc5751abd93c45464fee5]
 
 For the purposes of Article 8(3)(a) of the Horizontal Implementing Regulation, the period within which the transferee must inform the Department of the transfer and request payment of the aid or support, or both, is 90 days beginning with the first day after the date of the transfer.
 
-## 13. Definition of Agricultural Land[^key-c25d73b596ea89acc2e8ed06b2a7ee72]
+## 13. Definition of Agricultural Land[^c-c25d73b596ea89acc2e8ed06b2a7ee72]
 
 The Department shall publish in such manner as it thinks appropriate a definition of agricultural land for the purposes of Article 28(2) of the Rural Development Regulation.
 
-## 14. Determinations relating to operations[^key-76496a887deabfeba5d005521eb0260c]
+## 14. Determinations relating to operations[^c-76496a887deabfeba5d005521eb0260c]
 
 (1) The Department or its agent may determine that, in relation to any claim or application made to it, or an operation approved by it—
 
@@ -217,7 +217,7 @@ The Department shall publish in such manner as it thinks appropriate a definitio
 - (b) afford that beneficiary the opportunity of making written representations within such period as the Department or its agent considers reasonable; and
 - (c) consider any such representations in deciding whether to make any determination.
 
-## 15. Powers of recovery etc in relation to rural development payments[^key-bbc807a1028ea0ee545d301ce722f978]
+## 15. Powers of recovery etc in relation to rural development payments[^c-bbc807a1028ea0ee545d301ce722f978]
 
 (1) Where the Department or its agent makes a determination under regulation 14(1), the Department may—
 
@@ -230,11 +230,11 @@ The Department shall publish in such manner as it thinks appropriate a definitio
 
 (4) The powers conferred by this regulation are exercisable by a notice served by the body exercising the power on the beneficiary in question.
 
-## 16. Recovery of payments[^key-3c4df5ca20a093ae029d55be14be8b56]
+## 16. Recovery of payments[^c-3c4df5ca20a093ae029d55be14be8b56]
 
 In any case where an amount falls to be paid to the Department by virtue of (or by virtue of action taken under) these Regulations, the amount falling to be paid shall be recoverable as a debt.
 
-## 17. Recovery of interest[^key-5b7b567e9330083c239b064a17309c1b]
+## 17. Recovery of interest[^c-5b7b567e9330083c239b064a17309c1b]
 
 (1) Where the Department exercises the power conferred by regulation 15(1)(b), it may also recover, on demand, interest on the sum to be recovered in respect of each day of the period referred to in Article 7(2) of the Horizontal Implementing Regulation, and the rate of interest applicable on any day is one percentage point above the Bank of England base rate.
 
@@ -249,7 +249,7 @@ In any case where an amount falls to be paid to the Department by virtue of (or 
 
 (5) In any proceedings relating to this regulation, a certificate of the Department stating the Bank of England base rate applicable during the period specified in the certificate shall be conclusive evidence of the rate applicable in the specified period if the certificate also states that the Bank of England notified the Department of that rate.
 
-## 18. Set-off[^key-8824b5d30ea1dc6ec9dd5c820cdd3269]
+## 18. Set-off[^c-8824b5d30ea1dc6ec9dd5c820cdd3269]
 
 The amount of —
 
@@ -260,7 +260,7 @@ The amount of —
 
   may be set off against the amount of any sum recoverable by the Department under Regulation 16 or 17.
 
-## 19. Offences and penalties[^key-ef3934b0428d4891ebae7a962f59e1b8]
+## 19. Offences and penalties[^c-ef3934b0428d4891ebae7a962f59e1b8]
 
 (1) It is an offence for any person to—
 
@@ -281,7 +281,7 @@ The amount of —
 
 (6) For the purposes of this regulation, a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient, in the opinion of the prosecutor, to justify the proceedings came to their knowledge is conclusive of that fact.
 
-## 20. Offences by bodies corporate, partnerships or unincorporated associations[^key-811c34ea2996afa30a05f3a2b4439813]
+## 20. Offences by bodies corporate, partnerships or unincorporated associations[^c-811c34ea2996afa30a05f3a2b4439813]
 
 (1) Proceedings for an offence under regulation 19 alleged to have been committed by a partnership or an unincorporated association may be brought against the partnership or association in the name of the partnership or association.
 
@@ -315,11 +315,11 @@ The amount of —
 
   that officer, member or other person, as well as the association, is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-## 21. Undertakings[^key-b4d7b3118c1fe9d97fc4d7d4b7dd7cf6]
+## 21. Undertakings[^c-b4d7b3118c1fe9d97fc4d7d4b7dd7cf6]
 
 A beneficiary may be required by the Department to give such undertakings as the Department considers appropriate in relation to any rural development payment or any approved operation.
 
-## 22. Revocations[^key-fcad8ffa1b7cf59dcade0844030bbd7f]
+## 22. Revocations[^c-fcad8ffa1b7cf59dcade0844030bbd7f]
 
 (1) Subject to the following paragraphs the Regulations listed in Schedule 2 are revoked.
 
@@ -350,11 +350,11 @@ A senior officer of the
 
 Department of Agriculture and Rural Development
 
-## SCHEDULE 1 — MEANING OF “EUROPEAN REGULATIONS”[^key-872b4a02fe4d57c8ae398ccf053c04f3]
+## SCHEDULE 1 — MEANING OF “EUROPEAN REGULATIONS”[^c-872b4a02fe4d57c8ae398ccf053c04f3]
 
 Regulation 2(1)
 
-[^key-872b4a02fe4d57c8ae398ccf053c04f3]
+[^c-872b4a02fe4d57c8ae398ccf053c04f3]
 
 - Regulation (EU) No. 1303/2013 of the Council laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund etc, known as the Common Provisions Regulation[^f00022];
 - Regulation (EU) No. 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy, known as the Horizontal Regulation[^f00023];
@@ -365,11 +365,11 @@ Regulation 2(1)
 - Commission Delegated Regulation (EU) No. 807/2014 supplementing the Rural Development Regulation, known as the Rural Development Delegated Regulation[^f00026];
 - Commission Implementing Regulation (EU) No. 808/2014 laying down rules for the application of the Rural Development Regulation, known as the Rural Development Implementing Regulation[^f00027].
 
-## SCHEDULE 2 — Revocations[^key-5e34a7627a4cca369bd7c2789a51338b]
+## SCHEDULE 2 — Revocations[^c-5e34a7627a4cca369bd7c2789a51338b]
 
 Regulation 22
 
-[^key-5e34a7627a4cca369bd7c2789a51338b]
+[^c-5e34a7627a4cca369bd7c2789a51338b]
 
 - The Agricultural and Forestry Marketing Development Grant Regulations (Northern Ireland) 2007
 - The Agricultural and Forestry Processing and Marketing Grant Regulations (Northern Ireland) 2007
@@ -413,9 +413,9 @@ Regulation 21 provides the Department with the power to require a beneficiary to
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-b97158728a64ebdc5e245b3871e9293d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-b97158728a64ebdc5e245b3871e9293d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-de7e644b4bdc4adcdd3ad66fbc0176b1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/326/regulation/2) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-de7e644b4bdc4adcdd3ad66fbc0176b1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/326/regulation/2) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L 30, 31.1.2009, p.16, as last amended by Commission Implementing Regulation (EU) No. 320/2014 (O.J. No. L 93, 28.3.2014, p.81) and repealed on 1<sup>st</sup> January 2015 by Article 72(2) of Regulation 1307/2013
 
@@ -433,51 +433,51 @@ Regulation 21 provides the Department with the power to require a beneficiary to
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e4be33d70e54d814d50998039aa13e70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/326/regulation/3) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-e4be33d70e54d814d50998039aa13e70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/326/regulation/3) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-b99e78c38379f32577f06b5b4a117434]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/326/regulation/4) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-b99e78c38379f32577f06b5b4a117434]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/326/regulation/4) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-518a2c1f97c4c7ebc55a15abfed32a67]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/326/regulation/5) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-518a2c1f97c4c7ebc55a15abfed32a67]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/326/regulation/5) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-833dea8c18b43955c35b3bbbc988451e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/326/regulation/6) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-833dea8c18b43955c35b3bbbc988451e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/326/regulation/6) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-e7182e0c7b70e9cb83266a6ac12a79f8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/326/regulation/7) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-e7182e0c7b70e9cb83266a6ac12a79f8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/326/regulation/7) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-c4567351e842aad33b7229cd5ae41328]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/326/regulation/8) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-c4567351e842aad33b7229cd5ae41328]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/326/regulation/8) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-3c02dbf00f6b8f2d91261112611be0e3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/326/regulation/9) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-3c02dbf00f6b8f2d91261112611be0e3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/326/regulation/9) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-cfec6b84dea4f62fc7233dc52b4ba681]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/326/regulation/10) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-cfec6b84dea4f62fc7233dc52b4ba681]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/326/regulation/10) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-88182eaafbdbcf9280b63b39ab1b9f08]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/326/regulation/11) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-88182eaafbdbcf9280b63b39ab1b9f08]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/326/regulation/11) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-9c11ef71dc7bc5751abd93c45464fee5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/326/regulation/12) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-9c11ef71dc7bc5751abd93c45464fee5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/326/regulation/12) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-c25d73b596ea89acc2e8ed06b2a7ee72]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/326/regulation/13) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-c25d73b596ea89acc2e8ed06b2a7ee72]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/326/regulation/13) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-76496a887deabfeba5d005521eb0260c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/326/regulation/14) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-76496a887deabfeba5d005521eb0260c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/326/regulation/14) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-bbc807a1028ea0ee545d301ce722f978]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/326/regulation/15) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-bbc807a1028ea0ee545d301ce722f978]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/326/regulation/15) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-3c4df5ca20a093ae029d55be14be8b56]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/326/regulation/16) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-3c4df5ca20a093ae029d55be14be8b56]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/326/regulation/16) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-5b7b567e9330083c239b064a17309c1b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/326/regulation/17) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-5b7b567e9330083c239b064a17309c1b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/326/regulation/17) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
 [^f00011]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11)
 
-[^key-8824b5d30ea1dc6ec9dd5c820cdd3269]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/326/regulation/18) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-8824b5d30ea1dc6ec9dd5c820cdd3269]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/326/regulation/18) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-ef3934b0428d4891ebae7a962f59e1b8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/326/regulation/19) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-ef3934b0428d4891ebae7a962f59e1b8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/326/regulation/19) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-811c34ea2996afa30a05f3a2b4439813]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/326/regulation/20) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-811c34ea2996afa30a05f3a2b4439813]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/326/regulation/20) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
 [^f00012]: Footnote: [1945 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1945/15); section 18 was amended by the Magistrates’ Courts Act (Northern Ireland) [1964 (c. 21) (N.I.)](https://www.legislation.gov.uk/apni/1964/21) and by the Justice (Northern Ireland) Act [2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), Schedule 12
 
 [^f00013]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675) (as amended)
 
-[^key-b4d7b3118c1fe9d97fc4d7d4b7dd7cf6]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/326/regulation/21) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-b4d7b3118c1fe9d97fc4d7d4b7dd7cf6]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/326/regulation/21) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
-[^key-fcad8ffa1b7cf59dcade0844030bbd7f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2015/326/regulation/22) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-fcad8ffa1b7cf59dcade0844030bbd7f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2015/326/regulation/22) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
 [^f00014]: Footnote: [S.R. 2007 No. 417](https://www.legislation.gov.uk/nisr/2007/417)
 
@@ -495,7 +495,7 @@ Regulation 21 provides the Department with the power to require a beneficiary to
 
 [^f00021]: Footnote: [S.R. 2008 No. 172](https://www.legislation.gov.uk/nisr/2008/172)
 
-[^key-872b4a02fe4d57c8ae398ccf053c04f3]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/326/schedule/1) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-872b4a02fe4d57c8ae398ccf053c04f3]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/326/schedule/1) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
 [^f00022]: Footnote: O.J. No. L 347, 20.12.2013, p.320
 
@@ -509,6 +509,6 @@ Regulation 21 provides the Department with the power to require a beneficiary to
 
 [^f00027]: Footnote: O.J. No. L 227, 31.7.2014, p.18
 
-[^key-5e34a7627a4cca369bd7c2789a51338b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2015/326/schedule/2) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
+[^c-5e34a7627a4cca369bd7c2789a51338b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2015/326/schedule/2) in operation at 5.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1)
 
 [^f00028]: Footnote: [S.R. 2010 No. 99](https://www.legislation.gov.uk/nisr/2010/99)

@@ -36,7 +36,7 @@ An Act to make provision about funding of building societies and the assimilatio
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. The funding limit: funds to be disregarded[^key-5e0c42c1457f2d46ba47585484a5a070]
+## 1. The funding limit: funds to be disregarded[^c-5e0c42c1457f2d46ba47585484a5a070]
 
 (1) Section 7 of the Building Societies Act 1986 (the funding limit) is amended as follows.
 
@@ -65,7 +65,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 >
 > (9D) A statutory instrument containing regulations under subsection (9B) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-## 2. Attendance at meetings by electronic means[^key-842444b89db5efe0ebd0721bf16ae028]
+## 2. Attendance at meetings by electronic means[^c-842444b89db5efe0ebd0721bf16ae028]
 
 After paragraph 34 of Schedule 2 to the Building Societies Act 1986 insert—
 
@@ -76,7 +76,7 @@ After paragraph 34 of Schedule 2 to the Building Societies Act 1986 insert—
 > - (a) necessary to ensure the identification of those attending and the security of the electronic communication, and
 > - (b) proportionate to the achievement of those objectives.
 
-## 3. Power to assimilate with company law: common seals and execution of documents[^key-1ee18f154ecd2f69312276b812f3b13e]
+## 3. Power to assimilate with company law: common seals and execution of documents[^c-1ee18f154ecd2f69312276b812f3b13e]
 
 (1) Section 104 of the Building Societies Act 1986 (power to amend, etc. to assimilate company law) is amended as follows.
 
@@ -90,7 +90,7 @@ After paragraph 34 of Schedule 2 to the Building Societies Act 1986 insert—
 
 > (3A) The power conferred by subsection (1) by virtue of subsection (2)(za) is exercisable only for the purpose of making provision in relation to common seals and the execution of documents.
 
-## 4. Extent, commencement, transitional provision and short title[^key-d3515c3bc40d6a26065ed7bf9aad4eb0]
+## 4. Extent, commencement, transitional provision and short title[^c-d3515c3bc40d6a26065ed7bf9aad4eb0]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -102,10 +102,10 @@ After paragraph 34 of Schedule 2 to the Building Societies Act 1986 insert—
 
 ## Annotations
 
-[^key-5e0c42c1457f2d46ba47585484a5a070]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/18/section/1) in force at 24.7.2024, see [s. 4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2)
+[^c-5e0c42c1457f2d46ba47585484a5a070]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/18/section/1) in force at 24.7.2024, see [s. 4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2)
 
-[^key-842444b89db5efe0ebd0721bf16ae028]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/18/section/2) in force at 24.7.2024, see [s. 4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2)
+[^c-842444b89db5efe0ebd0721bf16ae028]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/18/section/2) in force at 24.7.2024, see [s. 4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2)
 
-[^key-1ee18f154ecd2f69312276b812f3b13e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2024/18/section/3) in force at 24.7.2024, see [s. 4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2)
+[^c-1ee18f154ecd2f69312276b812f3b13e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2024/18/section/3) in force at 24.7.2024, see [s. 4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2)
 
-[^key-d3515c3bc40d6a26065ed7bf9aad4eb0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2024/18/section/4) in force at 24.7.2024, see [s. 4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2)
+[^c-d3515c3bc40d6a26065ed7bf9aad4eb0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2024/18/section/4) in force at 24.7.2024, see [s. 4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2)

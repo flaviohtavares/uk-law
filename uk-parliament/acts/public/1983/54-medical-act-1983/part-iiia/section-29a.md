@@ -31,13 +31,13 @@ summary: ''
 - (a) grant of a licence to practise;
 - (b) refusal of a licence to practise;
 - (c) withdrawal of a licence to practise; and
-- (d)[^key-9e449446276b71c68ffebbd84551f85c] revalidation of a medical practitioner of a prescribed description whenever a licensing authority sees fit to do so, either as a condition of the practitioner’s continuing to hold a licence to practise or of the practitioner’s licence to practise being restored.
+- (d)[^c-9e449446276b71c68ffebbd84551f85c] revalidation of a medical practitioner of a prescribed description whenever a licensing authority sees fit to do so, either as a condition of the practitioner’s continuing to hold a licence to practise or of the practitioner’s licence to practise being restored.
 
 (5) In this Part—
 
 - “licensing authority” means—
   - (a) the Registrar;
-  - (b) [^key-29186628d0b40d7f4792b9e90bd347d5]a ...Registration Panel;
+  - (b) [^c-29186628d0b40d7f4792b9e90bd347d5]a ...Registration Panel;
   - (c) such other committee of the General Council as may be prescribed; or
   - (d) such other officer of the General Council as may be prescribed;
 - “prescribed” means prescribed by regulations made by the General Council under subsection (2) above; and
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e449446276b71c68ffebbd84551f85c]: Textual amendment: S. 29A(4)(d) substituted (3.12.2012 immediately after the commencement of S.I. 2002/3135, art. 10 in so far as it relates to 1983 c. 54, ss. 29A(4)(d), 29C and S.I. 2006/1914, art. 65 (and art. 2 in so far as it relates to art. 65)) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/8/2); [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(a)(i)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/a/i)
+[^c-9e449446276b71c68ffebbd84551f85c]: Textual amendment: S. 29A(4)(d) substituted (3.12.2012 immediately after the commencement of S.I. 2002/3135, art. 10 in so far as it relates to 1983 c. 54, ss. 29A(4)(d), 29C and S.I. 2006/1914, art. 65 (and art. 2 in so far as it relates to art. 65)) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/8/2); [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(a)(i)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/a/i)
 
-[^key-29186628d0b40d7f4792b9e90bd347d5]: Textual amendment: Words in s. 29A(5)(b) substituted (19.7.2006, 9.9.2009 in so far as not already in force as notified in the London Gazette dated 21.8.2009) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2006/1914/article/3/2/a)
+[^c-29186628d0b40d7f4792b9e90bd347d5]: Textual amendment: Words in s. 29A(5)(b) substituted (19.7.2006, 9.9.2009 in so far as not already in force as notified in the London Gazette dated 21.8.2009) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2006/1914/article/3/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Advertising the product[^key-baf4df1019bf68b5b7c18db09703cfd7]
+## 10. Advertising the product[^c-baf4df1019bf68b5b7c18db09703cfd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baf4df1019bf68b5b7c18db09703cfd7]: Commencement: Reg. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-baf4df1019bf68b5b7c18db09703cfd7]: Commencement: Reg. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

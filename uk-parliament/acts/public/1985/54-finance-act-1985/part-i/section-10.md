@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Computer records etc.[^key-19d7a84b26f4bcd4b12d242358e9ddcf]
+## 10. Computer records etc.[^c-19d7a84b26f4bcd4b12d242358e9ddcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19d7a84b26f4bcd4b12d242358e9ddcf]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1985/54/section/10) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 114(8)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/114/8/a)
+[^c-19d7a84b26f4bcd4b12d242358e9ddcf]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1985/54/section/10) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 114(8)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/114/8/a)

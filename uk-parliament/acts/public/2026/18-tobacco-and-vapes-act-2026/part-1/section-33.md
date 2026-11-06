@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Programme of enforcement action: England[^key-02cdc90bc8043303bbc6f215ca058911]
+## 33. Programme of enforcement action: England[^c-02cdc90bc8043303bbc6f215ca058911]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02cdc90bc8043303bbc6f215ca058911]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2026/18/section/33) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-02cdc90bc8043303bbc6f215ca058911]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2026/18/section/33) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

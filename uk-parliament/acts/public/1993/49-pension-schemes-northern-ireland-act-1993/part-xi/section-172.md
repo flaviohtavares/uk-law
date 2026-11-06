@@ -31,7 +31,7 @@ summary: ''
 - (a) sums equal to the amount of any expenses incurred by the Department (or by persons acting on its behalf) in exercising its functions under Chapter II of Part VII and section 153;
 - (b) such sums as the Department may estimate to be the amount of the administrative expenses of the Department or any government department in carrying into effect the remaining provisions of this Act, other than—
   - (i) Chapter I of Part IV and Part VIII so far as it applies for the purposes of that Chapter, sections [^c11732441]. . . 149(2), 154(1) to (5), 158, 159 [^c11732451]. . . and 171;
-  - (ii)[^key-47f8e4a6ab33e4c3ac03d68e3918d862] sections 27, 29, 113, 150 and 151;
+  - (ii)[^c-47f8e4a6ab33e4c3ac03d68e3918d862] sections 27, 29, 113, 150 and 151;
   - (iii) sections 156 and 162.
 
 (3) The sums payable under subsection (2)(b)—
@@ -51,7 +51,7 @@ summary: ''
 (6) There shall be paid into the Consolidated Fund of the United Kingdom—
 
 - (a)[^c11732481] subject to subsection (5), so far as it relates to payments out of money provided by Parliament, any sum recovered by the Inland Revenue under the provisions within subsection (2)(b)(ii); and
-- (b)[^key-c7792b2b7d04e4e29a9cd59f09d021a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c7792b2b7d04e4e29a9cd59f09d021a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) There shall also be paid into the National Insurance Fund—
 
@@ -78,13 +78,13 @@ summary: ''
 
 [^c11732451]: Textual amendment: Words in s. 172(2)(b)(i) repealed (6.4.1997) by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213), [arts. 147](https://www.legislation.gov.uk/nisi/1995/3213/article/147), [168](https://www.legislation.gov.uk/nisi/1995/3213/article/168), [Sch. 3 para. 65(a)(i)](https://www.legislation.gov.uk/nisi/1995/3213/schedule/3/paragraph/65/a/i), [Sch. 5 Pt. III](https://www.legislation.gov.uk/nisi/1995/3213/schedule/5/part/III); [S.R. 1997/192](https://www.legislation.gov.uk/nisr/1997/192), [art. 2(b)](https://www.legislation.gov.uk/nisr/1997/192/article/2/b)
 
-[^key-47f8e4a6ab33e4c3ac03d68e3918d862]: Textual amendment: S. 172(2)(b)(ii)(iii) substituted for s. 172(2)(b)(ii) (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [4(23)](https://www.legislation.gov.uk/nisr/2012/124/article/4/23)
+[^c-47f8e4a6ab33e4c3ac03d68e3918d862]: Textual amendment: S. 172(2)(b)(ii)(iii) substituted for s. 172(2)(b)(ii) (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [4(23)](https://www.legislation.gov.uk/nisr/2012/124/article/4/23)
 
 [^c11732471]: Textual amendment: S. 172(3A) inserted (24.3.1999 for certain purposes and otherwise 1.4.1999) by [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/1999/671/article/1/2/b), [3(1)](https://www.legislation.gov.uk/uksi/1999/671/article/3/1), [Sch. 1 para. 74(3)](https://www.legislation.gov.uk/uksi/1999/671/schedule/1/paragraph/74/3); [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2)
 
 [^c11732481]: Textual amendment: S. 172(6)(a)(b) inserted (24.3.1999 for certain purposes and otherwise 1.4.1999) by [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/1999/671/article/1/2/b), [3(1)](https://www.legislation.gov.uk/uksi/1999/671/article/3/1), [Sch. 1 para. 74(4)](https://www.legislation.gov.uk/uksi/1999/671/schedule/1/paragraph/74/4); [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2)
 
-[^key-c7792b2b7d04e4e29a9cd59f09d021a9]: Textual amendment: S. 172(6)(b) repealed (6.4.2006) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11); [S.R. 2006/95](https://www.legislation.gov.uk/nisr/2006/95), [art. 2(c)](https://www.legislation.gov.uk/nisr/2006/95/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2006/95/schedule/part/3)
+[^c-c7792b2b7d04e4e29a9cd59f09d021a9]: Textual amendment: S. 172(6)(b) repealed (6.4.2006) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11); [S.R. 2006/95](https://www.legislation.gov.uk/nisr/2006/95), [art. 2(c)](https://www.legislation.gov.uk/nisr/2006/95/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2006/95/schedule/part/3)
 
 [^c11732491]: Textual amendment: Words in s. 172(7)(a) substituted (22.12.1999 for certain purposes and otherwise 6.4.2000) by [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30), [s. 74](https://www.legislation.gov.uk/ukpga/1999/30/section/74), [Sch. 10 para. 8(3)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/10/paragraph/8/3); [S.I. 1999/3420](https://www.legislation.gov.uk/uksi/1999/3420), [art. 2](https://www.legislation.gov.uk/uksi/1999/3420/article/2)
 

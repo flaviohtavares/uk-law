@@ -26,7 +26,7 @@ summary: ''
 - (b) an entry removed by virtue of paragraph (a) above may be restored to the part in question;
 - (c) a person’s registration in a part of that register may be suspended (and that person treated as not being registered in that part notwithstanding that the relevant entry still appears in it) for such period as the Council may specify in the case in question;
 - (d) a suspension by virtue of paragraph (c) above may be terminated; and
-- (e) an entry in a part of that register may be altered (other than in implementation of a decision[^key-38c36730a7fc3a037bd219bfdb2886d0] of which notice is given under section 47(1) of this Act).
+- (e) an entry in a part of that register may be altered (other than in implementation of a decision[^c-38c36730a7fc3a037bd219bfdb2886d0] of which notice is given under section 47(1) of this Act).
 
 (2) Rules under subsection (1) above shall—
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c1230024]: Commencement: S. 49 wholly in force at 1.4.2002, see s. 81(2)-(4) and [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(e)](https://www.legislation.gov.uk/ssi/2002/162/article/2/e) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-38c36730a7fc3a037bd219bfdb2886d0]: Textual amendment: Word in s. 49(1)(e) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 15 para. 6](https://www.legislation.gov.uk/asp/2010/8/schedule/15/paragraph/6); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-38c36730a7fc3a037bd219bfdb2886d0]: Textual amendment: Word in s. 49(1)(e) substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 15 para. 6](https://www.legislation.gov.uk/asp/2010/8/schedule/15/paragraph/6); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

@@ -48,28 +48,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-2d89307eda7b5b54df0b889c2919d622]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d89307eda7b5b54df0b889c2919d622]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2d89307eda7b5b54df0b889c2919d622]
+## 1. Citation and commencement[^c-2d89307eda7b5b54df0b889c2919d622]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Court of Session Act 1988[^key-2d89307eda7b5b54df0b889c2919d622]
+## 2. Amendment of the Court of Session Act 1988[^c-2d89307eda7b5b54df0b889c2919d622]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-2d89307eda7b5b54df0b889c2919d622]
+## 3. Revocation[^c-2d89307eda7b5b54df0b889c2919d622]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d89307eda7b5b54df0b889c2919d622]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d89307eda7b5b54df0b889c2919d622]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2d89307eda7b5b54df0b889c2919d622]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d89307eda7b5b54df0b889c2919d622]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d89307eda7b5b54df0b889c2919d622]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/423) revoked (17.3.2022) by [The Maximum Number of Judges (Scotland) Order 2022 (S.S.I. 2022/96)](https://www.legislation.gov.uk/ssi/2022/96), [arts. 1](https://www.legislation.gov.uk/ssi/2022/96/article/1), [3](https://www.legislation.gov.uk/ssi/2022/96/article/3)
+[^c-2d89307eda7b5b54df0b889c2919d622]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/423) revoked (17.3.2022) by [The Maximum Number of Judges (Scotland) Order 2022 (S.S.I. 2022/96)](https://www.legislation.gov.uk/ssi/2022/96), [arts. 1](https://www.legislation.gov.uk/ssi/2022/96/article/1), [3](https://www.legislation.gov.uk/ssi/2022/96/article/3)

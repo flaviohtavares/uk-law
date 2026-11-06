@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 346. Power of personal representative to serve blight notice[^key-6ae0525229791c11d771ad6c0212dfa5]
+## 346. Power of personal representative to serve blight notice[^c-6ae0525229791c11d771ad6c0212dfa5]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ae0525229791c11d771ad6c0212dfa5]: Commencement: S. 346 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6ae0525229791c11d771ad6c0212dfa5]: Commencement: S. 346 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

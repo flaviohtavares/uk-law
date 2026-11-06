@@ -69,7 +69,7 @@ In these Regulations—
     - (ii) in any other case, the occupier of the premises on which the machine stands or to which it is affixed;
   - (c) in any other case, the person appearing to the authorised officer to be the owner of the sample when the officer procured it;
 - “**qualified**” means qualified for the purposes of the Act.
-- “[^key-35805bb85dedbc61cc109ab5c4df895e]**specified state**” (“***gwladwriaeth benodedig***”) means a state specified in Schedule 2 to the Recognition of Professional Qualifications and the Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023;
+- “[^c-35805bb85dedbc61cc109ab5c4df895e]**specified state**” (“***gwladwriaeth benodedig***”) means a state specified in Schedule 2 to the Recognition of Professional Qualifications and the Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023;
 
 ## 3. Sampling and analysis provisions to which these Regulations do not apply
 
@@ -176,9 +176,9 @@ Regulation 3
 | *Title* | *Reference* | *Specified provisions* |
 | --- | --- | --- |
 | The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) Regulations 1997 | S.I. 1997/1729 | Regulations 7,8,9 and 10 |
-| [^key-1f4606bff1d9609b578b10afebcf5759]. . . | [^key-1f4606bff1d9609b578b10afebcf5759]. . . | [^key-1f4606bff1d9609b578b10afebcf5759]. . . |
+| [^c-1f4606bff1d9609b578b10afebcf5759]. . . | [^c-1f4606bff1d9609b578b10afebcf5759]. . . | [^c-1f4606bff1d9609b578b10afebcf5759]. . . |
 | The Materials and Articles in Contact with Food (Wales) Regulations 2012 | S.I. 2012/2705 (W.291) | Regulations 7,8 and 9 |
-| The Contaminants in Food (Wales) Regulations 2013 (to the extent that a sample falls to be prepared and analysed in accordance with[^key-f33909d71b5cbd649e316447a1288a9f] Commission Regulation [(EC) No. 1881/2006](https://www.legislation.gov.uk/eur/2006/1881) setting maximum levels for certain contaminants in foodstuffs) | S.I.  2013/----. | Regulations 7,8 and 9 |
+| The Contaminants in Food (Wales) Regulations 2013 (to the extent that a sample falls to be prepared and analysed in accordance with[^c-f33909d71b5cbd649e316447a1288a9f] Commission Regulation [(EC) No. 1881/2006](https://www.legislation.gov.uk/eur/2006/1881) setting maximum levels for certain contaminants in foodstuffs) | S.I.  2013/----. | Regulations 7,8 and 9 |
 | The Poultry Meat (Wales) Regulations 2011 | S.I. 2011/1719 (W.195) | Regulations 7,8 and 9 |
 
 ## SCHEDULE 2 — Qualifications of Food Examiners
@@ -200,17 +200,17 @@ Regulation 5
 
 **5.** Fellowship or Membership of the Institute of Food Science and Technology[^M_F_a7c0e1ed-9d86-49b9-c3c1-a21d929664e2]....
 
-**6.** In paragraphs 1 and 2 of this Part, “**degree**” means a degree awarded by a body recognised for the purposes of section 214 of the Education Reform Act 1988 (which relates to bodies empowered to award degrees in the United Kingdom) or by a university in a member State of the European Union[^key-5b385dd32c11344f2bf210e030e698fe] or in a specified state[^key-231deee6d536f608b9bd4876000dedd1].
+**6.** In paragraphs 1 and 2 of this Part, “**degree**” means a degree awarded by a body recognised for the purposes of section 214 of the Education Reform Act 1988 (which relates to bodies empowered to award degrees in the United Kingdom) or by a university in a member State of the European Union[^c-5b385dd32c11344f2bf210e030e698fe] or in a specified state[^c-231deee6d536f608b9bd4876000dedd1].
 
 ### PART 2
 
 **1.** The Laboratory of the Government Chemist.
 
-**2.** A laboratory owned by a Government Department or a laboratory under the equivalent control of the government of a member State of the European Union[^key-77c14ca127916316987db6d134a22db0] or of a specified state[^key-80da4e8297fa68e85016d702f4dc6ec5].
+**2.** A laboratory owned by a Government Department or a laboratory under the equivalent control of the government of a member State of the European Union[^c-77c14ca127916316987db6d134a22db0] or of a specified state[^c-80da4e8297fa68e85016d702f4dc6ec5].
 
-**3.** A laboratory appointed as an official laboratory under Regulation[^key-f750c3da3cd57dac56207d0509fbe5db] [(EU) 2017/625](https://www.legislation.gov.uk/eur/2017/625) of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
+**3.** A laboratory appointed as an official laboratory under Regulation[^c-f750c3da3cd57dac56207d0509fbe5db] [(EU) 2017/625](https://www.legislation.gov.uk/eur/2017/625) of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
 
-**4.** A laboratory of a university in the United Kingdom or of a member State of the European Union[^key-8d8eb5bf269ce02f25c21df01b28cf57] or of a specified state[^key-e19b5243e199f1bfcf283a21de1bf534].
+**4.** A laboratory of a university in the United Kingdom or of a member State of the European Union[^c-8d8eb5bf269ce02f25c21df01b28cf57] or of a specified state[^c-e19b5243e199f1bfcf283a21de1bf534].
 
 **5.** A laboratory of a fundable body within the meaning of the Further and Higher Education (Scotland) Act 2005 [^c21703051].
 
@@ -251,7 +251,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c21703001]: Marginal citation: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Commission Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the treaty to Council Decision 1999/468/EC with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny — Part Four (OJ No. L188, 18.7.2009, p.14).
 
-[^key-35805bb85dedbc61cc109ab5c4df895e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2013/479/regulation/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/2)
+[^c-35805bb85dedbc61cc109ab5c4df895e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2013/479/regulation/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/2)
 
 [^c21703011]: Marginal citation: [S.I. 1990/2463](https://www.legislation.gov.uk/uksi/1990/2463).
 
@@ -261,24 +261,24 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c21703041]: Marginal citation: [S.I. 1990/2463](https://www.legislation.gov.uk/uksi/1990/2463).
 
-[^key-1f4606bff1d9609b578b10afebcf5759]: Textual amendment: Words in Sch. 1 omitted (28.11.2015) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2015 (S.I. 2015/1867)](https://www.legislation.gov.uk/wsi/2015/1867), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1867/regulation/1/2), [Sch. 13 para. 4](https://www.legislation.gov.uk/wsi/2015/1867/schedule/13/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1867/regulation/3))
+[^c-1f4606bff1d9609b578b10afebcf5759]: Textual amendment: Words in Sch. 1 omitted (28.11.2015) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2015 (S.I. 2015/1867)](https://www.legislation.gov.uk/wsi/2015/1867), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1867/regulation/1/2), [Sch. 13 para. 4](https://www.legislation.gov.uk/wsi/2015/1867/schedule/13/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1867/regulation/3))
 
-[^key-f33909d71b5cbd649e316447a1288a9f]: Textual amendment: Words in Sch. 1 substituted (31.10.2013) by [The Contaminants in Food (Wales) Regulations 2013 (S.I. 2013/2493)](https://www.legislation.gov.uk/wsi/2013/2493), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2013/2493/regulation/9)
+[^c-f33909d71b5cbd649e316447a1288a9f]: Textual amendment: Words in Sch. 1 substituted (31.10.2013) by [The Contaminants in Food (Wales) Regulations 2013 (S.I. 2013/2493)](https://www.legislation.gov.uk/wsi/2013/2493), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2013/2493/regulation/9)
 
 [^M_F_a7c0e1ed-9d86-49b9-c3c1-a21d929664e2]: Textual amendment: Words in Sch. 2 para. 5 omitted (1.1.2014) by virtue of [The Food (Miscellaneous Amendments) (Wales) Regulations 2013 (S.I. 2013/3049)](https://www.legislation.gov.uk/uksi/2013/3049), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3049/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2013/3049/regulation/4/2)
 
-[^key-5b385dd32c11344f2bf210e030e698fe]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/1/paragraph/6) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [11(2)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/11/2/a)
+[^c-5b385dd32c11344f2bf210e030e698fe]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/1/paragraph/6) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [11(2)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/11/2/a)
 
-[^key-231deee6d536f608b9bd4876000dedd1]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/1/paragraph/6) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(3)(a)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/3/a)
+[^c-231deee6d536f608b9bd4876000dedd1]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/1/paragraph/6) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(3)(a)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/3/a)
 
-[^key-77c14ca127916316987db6d134a22db0]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/2) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [11(2)(b)(i)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/11/2/b/i)
+[^c-77c14ca127916316987db6d134a22db0]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/2) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [11(2)(b)(i)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/11/2/b/i)
 
-[^key-80da4e8297fa68e85016d702f4dc6ec5]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(3)(b)(i)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/3/b/i)
+[^c-80da4e8297fa68e85016d702f4dc6ec5]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(3)(b)(i)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/3/b/i)
 
-[^key-f750c3da3cd57dac56207d0509fbe5db]: Textual amendment: Words in Sch. 2 Pt. 2 para. 3 substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/2), [38](https://www.legislation.gov.uk/wsi/2019/1482/regulation/38)
+[^c-f750c3da3cd57dac56207d0509fbe5db]: Textual amendment: Words in Sch. 2 Pt. 2 para. 3 substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/2), [38](https://www.legislation.gov.uk/wsi/2019/1482/regulation/38)
 
-[^key-8d8eb5bf269ce02f25c21df01b28cf57]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/4) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [11(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/11/2/b/ii)
+[^c-8d8eb5bf269ce02f25c21df01b28cf57]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/4) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [11(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/11/2/b/ii)
 
-[^key-e19b5243e199f1bfcf283a21de1bf534]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/4) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/3/b/ii)
+[^c-e19b5243e199f1bfcf283a21de1bf534]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/4) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/3/b/ii)
 
 [^c21703051]: Marginal citation: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6).

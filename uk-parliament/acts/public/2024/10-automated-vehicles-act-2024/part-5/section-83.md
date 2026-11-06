@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Disapplication of taxi, private hire vehicle and bus legislation[^key-c11a754e4f8cb272cda1303a41e27588][^key-3b75efb1ec45abadd74411a9b28ab5fe]
+## 83. Disapplication of taxi, private hire vehicle and bus legislation[^c-c11a754e4f8cb272cda1303a41e27588][^c-3b75efb1ec45abadd74411a9b28ab5fe]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c11a754e4f8cb272cda1303a41e27588]: Commencement: S. 83 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-c11a754e4f8cb272cda1303a41e27588]: Commencement: S. 83 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-3b75efb1ec45abadd74411a9b28ab5fe]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2024/10/section/83) in force at 15.5.2026 by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/a)
+[^c-3b75efb1ec45abadd74411a9b28ab5fe]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2024/10/section/83) in force at 15.5.2026 by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/a)

@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Criminal Justice Act 2003 (Alcohol Abstinence and Monitoring Requirement) (Prescription of Arrangement for Monitoring) Order 2017 (revoked)[^key-c24372d6bede99fb2c19abad0baf5030]
+The Criminal Justice Act 2003 (Alcohol Abstinence and Monitoring Requirement) (Prescription of Arrangement for Monitoring) Order 2017 (revoked)[^c-c24372d6bede99fb2c19abad0baf5030]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st May 2017
 
-[^key-c24372d6bede99fb2c19abad0baf5030]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c24372d6bede99fb2c19abad0baf5030]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c24372d6bede99fb2c19abad0baf5030]
+## 1. Citation and commencement[^c-c24372d6bede99fb2c19abad0baf5030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Arrangement for monitoring[^key-c24372d6bede99fb2c19abad0baf5030]
+## 2. Arrangement for monitoring[^c-c24372d6bede99fb2c19abad0baf5030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c24372d6bede99fb2c19abad0baf5030]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c24372d6bede99fb2c19abad0baf5030]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c24372d6bede99fb2c19abad0baf5030]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c24372d6bede99fb2c19abad0baf5030]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c24372d6bede99fb2c19abad0baf5030]: Textual amendment: Order revoked (31.3.2018) by [The Criminal Justice Act 2003 (Alcohol Abstinence and Monitoring Requirement) (Prescription of Arrangement for Monitoring) Order 2018 (S.I. 2018/210)](https://www.legislation.gov.uk/uksi/2018/210), [arts. 1](https://www.legislation.gov.uk/uksi/2018/210/article/1), [2(f)](https://www.legislation.gov.uk/uksi/2018/210/article/2/f)
+[^c-c24372d6bede99fb2c19abad0baf5030]: Textual amendment: Order revoked (31.3.2018) by [The Criminal Justice Act 2003 (Alcohol Abstinence and Monitoring Requirement) (Prescription of Arrangement for Monitoring) Order 2018 (S.I. 2018/210)](https://www.legislation.gov.uk/uksi/2018/210), [arts. 1](https://www.legislation.gov.uk/uksi/2018/210/article/1), [2(f)](https://www.legislation.gov.uk/uksi/2018/210/article/2/f)

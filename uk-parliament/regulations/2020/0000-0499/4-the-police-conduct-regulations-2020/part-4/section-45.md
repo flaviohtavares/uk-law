@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Appeal from misconduct meeting: officers other than senior officers[^key-6afdd25db345315a856b0cc8e30df9eb]
+## 45. Appeal from misconduct meeting: officers other than senior officers[^c-6afdd25db345315a856b0cc8e30df9eb]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ summary: ''
   - (i) a member of a police force who, in the opinion of the appropriate authority is more senior than that person, or
   - (ii) a more senior police staff member,
 
-[^key-71ff3807e30731560cf05374a1c33b59]... appointed by the appropriate authority.
+[^c-71ff3807e30731560cf05374a1c33b59]... appointed by the appropriate authority.
 
 (5) The appropriate authority must as soon as practicable give the officer concerned written notice of—
 
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6afdd25db345315a856b0cc8e30df9eb]: Commencement: Reg. 45 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-6afdd25db345315a856b0cc8e30df9eb]: Commencement: Reg. 45 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-71ff3807e30731560cf05374a1c33b59]: Textual amendment: Words in [reg. 45(4)](https://www.legislation.gov.uk/uksi/2020/4/regulation/45/4) omitted (7.5.2024) by virtue of [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2024/521/regulation/4/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-71ff3807e30731560cf05374a1c33b59]: Textual amendment: Words in [reg. 45(4)](https://www.legislation.gov.uk/uksi/2020/4/regulation/45/4) omitted (7.5.2024) by virtue of [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2024/521/regulation/4/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))

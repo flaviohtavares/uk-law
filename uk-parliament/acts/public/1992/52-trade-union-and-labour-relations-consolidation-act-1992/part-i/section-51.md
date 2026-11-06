@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-9d1e58bcb718b1e0507f616dbfa17918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9d1e58bcb718b1e0507f616dbfa17918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-1bb888f66af4869596120a6f2c5946e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1bb888f66af4869596120a6f2c5946e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Every person who is entitled to vote at the election must—
 
@@ -31,8 +31,8 @@ summary: ''
 
 (4) So far as is reasonably practicable, every person who is entitled to vote at the election must—
 
-- (a)[^key-a1607017f9b995db6a3011cf914ca25c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) be given a convenient opportunity to vote [^key-8228e12f6c9a785c364dca6bf2a3544c]....
+- (a)[^c-a1607017f9b995db6a3011cf914ca25c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) be given a convenient opportunity to vote [^c-8228e12f6c9a785c364dca6bf2a3544c]....
 
 (5) The ballot shall be conducted so as to secure that—
 
@@ -50,10 +50,10 @@ For the purposes of paragraph (b) an inaccuracy in counting shall be disregarded
 
 ## Annotations
 
-[^key-9d1e58bcb718b1e0507f616dbfa17918]: Textual amendment: S. 51(1) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(6)(a)](https://www.legislation.gov.uk/uksi/2026/881/article/3/6/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-9d1e58bcb718b1e0507f616dbfa17918]: Textual amendment: S. 51(1) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(6)(a)](https://www.legislation.gov.uk/uksi/2026/881/article/3/6/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-1bb888f66af4869596120a6f2c5946e8]: Textual amendment: S. 51(2) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(6)(a)](https://www.legislation.gov.uk/uksi/2026/881/article/3/6/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-1bb888f66af4869596120a6f2c5946e8]: Textual amendment: S. 51(2) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(6)(a)](https://www.legislation.gov.uk/uksi/2026/881/article/3/6/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-a1607017f9b995db6a3011cf914ca25c]: Textual amendment: [S. 51(4)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/51/4/a) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(6)(b)](https://www.legislation.gov.uk/uksi/2026/881/article/3/6/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-a1607017f9b995db6a3011cf914ca25c]: Textual amendment: [S. 51(4)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/51/4/a) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(6)(b)](https://www.legislation.gov.uk/uksi/2026/881/article/3/6/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-8228e12f6c9a785c364dca6bf2a3544c]: Textual amendment: Words in s. 51(4)(b) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(6)(c)](https://www.legislation.gov.uk/uksi/2026/881/article/3/6/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-8228e12f6c9a785c364dca6bf2a3544c]: Textual amendment: Words in s. 51(4)(b) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(6)(c)](https://www.legislation.gov.uk/uksi/2026/881/article/3/6/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

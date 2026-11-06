@@ -92,7 +92,7 @@ Section 138.
 
 **13.** Any such council as is mentioned in the [^c11865661]Telegraph Act 1899 which, at the beginning of the appointed day, is licensed by the Postmaster General to provide a system of public telephonic communication, shall, so long as the licence continues in force, be deemed, for the purposes of that Act, to be licensed by the Post Office so to provide.
 
-**14.**[^key-6af37f6b8d15ca5516654784abf77f60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-6af37f6b8d15ca5516654784abf77f60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15, 16**[^c11865701]
 
@@ -116,7 +116,7 @@ and “**works**” includes any building, structure, excavation or other work o
 
 (5) In the application of this paragraph to Scotland, the following shall be substituted for heads (a) to (g) of sub-paragraph (2):—
 
-> - (a) an enactment contained in the Burgh Police (Scotland) Acts 1892 to 1903 [^key-24ecb53ddcb611d458e27a40340f22c4]... or byelaws made under any such enactment;
+> - (a) an enactment contained in the Burgh Police (Scotland) Acts 1892 to 1903 [^c-24ecb53ddcb611d458e27a40340f22c4]... or byelaws made under any such enactment;
 > - (b) the Roads Improvement Act 1925;
 > - (c)[^c11865851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > - (d) section 53 of the Water (Scotland) Act 1946;
@@ -331,7 +331,7 @@ planning permission for the development shall be deemed to be granted by the aut
 
 [^c11865661]: Marginal citation: [1899 c. 38](https://www.legislation.gov.uk/ukpga/1899/38).
 
-[^key-6af37f6b8d15ca5516654784abf77f60]: Textual amendment: Sch. 9 para. 14 repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))
+[^c-6af37f6b8d15ca5516654784abf77f60]: Textual amendment: Sch. 9 para. 14 repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))
 
 [^c11865701]: Textual amendment: [Sch. 9 paras. 3(1)(3)(4)(6)](https://www.legislation.gov.uk/ukpga/1969/48/schedule/9/paragraph/3/1/3/4/6), [4](https://www.legislation.gov.uk/ukpga/1969/48/schedule/9/paragraph/4), [5](https://www.legislation.gov.uk/ukpga/1969/48/schedule/9/paragraph/5), [8](https://www.legislation.gov.uk/ukpga/1969/48/schedule/9/paragraph/8), [15](https://www.legislation.gov.uk/ukpga/1969/48/schedule/9/paragraph/15), [16](https://www.legislation.gov.uk/ukpga/1969/48/schedule/9/paragraph/16), [18](https://www.legislation.gov.uk/ukpga/1969/48/schedule/9/paragraph/18), [19](https://www.legislation.gov.uk/ukpga/1969/48/schedule/9/paragraph/19) repealed by [British Telecommunications Act 1981 (c. 38)](https://www.legislation.gov.uk/ukpga/1981/38), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1981/38/schedule/6/part/I)
 
@@ -349,7 +349,7 @@ planning permission for the development shall be deemed to be granted by the aut
 
 [^c11865841]: Marginal citation: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
 
-[^key-24ecb53ddcb611d458e27a40340f22c4]: Textual amendment: Words in [Sch. 9 para. 17(5)](https://www.legislation.gov.uk/ukpga/1969/48/schedule/9/paragraph/17/5) repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-24ecb53ddcb611d458e27a40340f22c4]: Textual amendment: Words in [Sch. 9 para. 17(5)](https://www.legislation.gov.uk/ukpga/1969/48/schedule/9/paragraph/17/5) repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c11865851]: Textual amendment: Sch. 9 para. 17(5)(c) repealed (8.11.1995) by 1995 C. 44, s. 1, Sch. 1 Pt. VI
 

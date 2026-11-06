@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Radiation protection functions[^key-dfd2f9d240cd781ed9bd2a5d4544212f]
+## 58. Radiation protection functions[^c-dfd2f9d240cd781ed9bd2a5d4544212f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 - (a) the Health and Safety Executive;
 - (b) the Health and Safety Executive for Northern Ireland.
-- (c)[^key-a6269df254acd8fb3be17a474a026cb9] the Office for Nuclear Regulation.
+- (c)[^c-a6269df254acd8fb3be17a474a026cb9] the Office for Nuclear Regulation.
 
 (7) In subsection (2)(f), “**facilities**” has the same meaning as in the National Health Service Act 2006.
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dfd2f9d240cd781ed9bd2a5d4544212f]: Commencement: S. 58 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-dfd2f9d240cd781ed9bd2a5d4544212f]: Commencement: S. 58 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-a6269df254acd8fb3be17a474a026cb9]: Textual amendment: [S. 58(6)(c)](https://www.legislation.gov.uk/ukpga/2012/7/section/58/6/c) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 103](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/103); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-a6269df254acd8fb3be17a474a026cb9]: Textual amendment: [S. 58(6)(c)](https://www.legislation.gov.uk/ukpga/2012/7/section/58/6/c) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 103](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/103); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

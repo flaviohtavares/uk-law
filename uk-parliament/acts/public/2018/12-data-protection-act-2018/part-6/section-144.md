@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. False statements made in response to information notices[^key-6251e3f8b043005c1b3af9c93785fec4]
+## 144. False statements made in response to information notices[^c-6251e3f8b043005c1b3af9c93785fec4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ It is an offence for a person, in response to an information notice—
 
 ## Annotations
 
-[^key-6251e3f8b043005c1b3af9c93785fec4]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2018/12/section/144) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
+[^c-6251e3f8b043005c1b3af9c93785fec4]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2018/12/section/144) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)

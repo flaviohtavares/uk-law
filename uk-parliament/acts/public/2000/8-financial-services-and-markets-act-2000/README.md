@@ -33,17 +33,17 @@ Financial Services and Markets Act 2000
 
 \[14th June 2000\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-2c35e4aa14234e386de1b22038c54b90][^key-0bbbb77b9ab438ae0eecd235cda40eac][^key-e5b5a4e62bc8f9d44e1e78e3bbf8219b][^key-9edc5a688d5e6de75780df4633d70282][^key-d680ece4a54e33a5ec9834a65622f373][^key-02609d733b83963600734b8577aff6fb][^key-e4e0526cc6d03a881bb3dadb9c476b4c][^key-fe42c63f7f6d2b9e30b4f8b49294d769][^key-cff5dc2b7bb34f2b151648dd77be7d07][^key-c5ca51895955addbd0f3aaadacce4f6e][^key-da693ee743b7eeb5a6fcf9621dce1a5a][^key-452c210e4a985c321ce92a5bd074f832][^key-e6355b20392e621b486a093ff025afda][^key-7ad2322896bae706dc8a0afd27db8b8c][^key-c31c761d0c26454cd4395d9133b422c0]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-2c35e4aa14234e386de1b22038c54b90][^c-0bbbb77b9ab438ae0eecd235cda40eac][^c-e5b5a4e62bc8f9d44e1e78e3bbf8219b][^c-9edc5a688d5e6de75780df4633d70282][^c-d680ece4a54e33a5ec9834a65622f373][^c-02609d733b83963600734b8577aff6fb][^c-e4e0526cc6d03a881bb3dadb9c476b4c][^c-fe42c63f7f6d2b9e30b4f8b49294d769][^c-cff5dc2b7bb34f2b151648dd77be7d07][^c-c5ca51895955addbd0f3aaadacce4f6e][^c-da693ee743b7eeb5a6fcf9621dce1a5a][^c-452c210e4a985c321ce92a5bd074f832][^c-e6355b20392e621b486a093ff025afda][^c-7ad2322896bae706dc8a0afd27db8b8c][^c-c31c761d0c26454cd4395d9133b422c0]
 
 ## Contents
 
-### Part I — The Regulator[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+### Part I — The Regulator[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 1 — The Financial Services Authority.](part-i/section-1.md)
 
-#### The Authority’s general duties[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+#### The Authority’s general duties[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 2 — The Authority’s general duties.](part-i/section-2.md)
 
-#### The regulatory objectives[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+#### The regulatory objectives[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,7 +63,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 5 — The protection of consumers.](part-i/section-5.md)
 - [Section 6 — The reduction of financial crime.](part-i/section-6.md)
 
-#### Enhancing public understanding of financial matters etc[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+#### Enhancing public understanding of financial matters etc[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,7 +71,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 6A — Enhancing public understanding of financial matters etc](part-i/section-6a.md)
 
-#### Corporate governance[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+#### Corporate governance[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,7 +79,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 7 — Duty of Authority to follow principles of good governance.](part-i/section-7.md)
 
-#### Arrangements for consulting practitioners and consumers[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+#### Arrangements for consulting practitioners and consumers[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,7 +90,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 10 — The Consumer Panel.](part-i/section-10.md)
 - [Section 11 — Duty to consider representations by the Panels.](part-i/section-11.md)
 
-#### Reviews[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+#### Reviews[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,7 +99,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 12 — Reviews.](part-i/section-12.md)
 - [Section 13 — Right to obtain documents and information.](part-i/section-13.md)
 
-#### Inquiries[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+#### Inquiries[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,19 +111,19 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 17 — Conclusion of inquiry.](part-i/section-17.md)
 - [Section 18 — Obstruction and contempt.](part-i/section-18.md)
 
-### PART 1A — The Regulators[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+### PART 1A — The Regulators[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — The Financial Conduct Authority[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+#### CHAPTER 1 — The Financial Conduct Authority[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
-##### The Financial Conduct Authority[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### The Financial Conduct Authority[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 1A — The Financial Conduct Authority](part-1a/section-1a.md)
 
-##### The FCA's general duties[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### The FCA's general duties[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 1B — The FCA's general duties](part-1a/section-1b.md)
 - [Section 1C — The consumer protection objective](part-1a/section-1c.md)
@@ -131,34 +131,34 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 1E — The competition objective](part-1a/section-1e.md)
 - [Section 1EB — Competitiveness and growth objective](part-1a/section-1eb.md)
 
-##### Interpretation of terms used in relation to FCA's general duties[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Interpretation of terms used in relation to FCA's general duties[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 1F — Meaning of “relevant markets” in strategic objective](part-1a/section-1f.md)
 - [Section 1G — Meaning of “consumer”](part-1a/section-1g.md)
 - [Section 1H — Further interpretative provisions for sections 1B to 1G](part-1a/section-1h.md)
 - [Section 1I — Meaning of “the UK financial system”](part-1a/section-1i.md)
 
-##### Modifications applying if core activity not regulated by PRA[^key-0f9d598ffd7c9e6f0ced20ad1c05f0e9][^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Modifications applying if core activity not regulated by PRA[^c-0f9d598ffd7c9e6f0ced20ad1c05f0e9][^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 1IA — Modifications applying if core activity not regulated by PRA](part-1a/section-1ia.md)
 
-##### Power to amend objectives[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Power to amend objectives[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 1J — Power to amend objectives](part-1a/section-1j.md)
 
-##### Recommendations[^key-3f724d703bd5bd36774c999b4ac86de0][^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Recommendations[^c-3f724d703bd5bd36774c999b4ac86de0][^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 1JA — Recommendations by Treasury in connection with general duties](part-1a/section-1ja.md)
 
-##### Guidance about objectives[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Guidance about objectives[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 1K — Guidance about objectives](part-1a/section-1k.md)
 
-##### Supervision, monitoring and enforcement[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Supervision, monitoring and enforcement[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 1L — Supervision, monitoring and enforcement](part-1a/section-1l.md)
 
-##### Arrangements for consulting practitioners and consumers[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Arrangements for consulting practitioners and consumers[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 1M — The FCA's general duty to consult](part-1a/section-1m.md)
 - [Section 1MA — Composition of Panels](part-1a/section-1ma.md)
@@ -170,25 +170,25 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 1R — Duty to consider representations made by the Panels](part-1a/section-1r.md)
 - [Section 1RA — Statement of policy on panel appointments](part-1a/section-1ra.md)
 
-##### Requirements for public consultation[^key-759d9d17d9578e47e4e1f1c9d3d722f4][^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Requirements for public consultation[^c-759d9d17d9578e47e4e1f1c9d3d722f4][^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 1RB — Requirements in connection with public consultations](part-1a/section-1rb.md)
 
-##### Reviews[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Reviews[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 1S — Reviews](part-1a/section-1s.md)
 - [Section 1T — Right to obtain documents and information](part-1a/section-1t.md)
 
-#### CHAPTER 2 — The Prudential Regulation Authority[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+#### CHAPTER 2 — The Prudential Regulation Authority[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
-##### The Prudential Regulation Authority[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### The Prudential Regulation Authority[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 2A — The Prudential Regulation Authority](part-1a/section-2a.md)
 - [Section 2AB — Functions of the PRA](part-1a/section-2ab.md)
 
-##### The PRA's general duties[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### The PRA's general duties[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 2B — The PRA's general objective](part-1a/section-2b.md)
 - [Section 2C — Insurance objective](part-1a/section-2c.md)
@@ -200,11 +200,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 2I — Guidance about objectives](part-1a/section-2i.md)
 - [Section 2J — Interpretation of Chapter 2](part-1a/section-2j.md)
 
-##### Supervision[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Supervision[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 2K — Arrangements for supervision of PRA-authorised persons](part-1a/section-2k.md)
 
-##### Arrangements for consulting practitioners[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Arrangements for consulting practitioners[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 2L — The PRA's general duty to consult](part-1a/section-2l.md)
 - [Section 2LA — Composition of Panels](part-1a/section-2la.md)
@@ -213,32 +213,32 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 2N — Duty to consider representations](part-1a/section-2n.md)
 - [Section 2NA — Statement of policy on panel appointments](part-1a/section-2na.md)
 
-##### Requirements for public consultation[^key-2a01d5592c42c94665291aaffe2ab78e][^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Requirements for public consultation[^c-2a01d5592c42c94665291aaffe2ab78e][^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 2NB — Requirements in connection with public consultations](part-1a/section-2nb.md)
 
-##### Reviews[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Reviews[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 2O — Reviews](part-1a/section-2o.md)
 - [Section 2P — Right to obtain documents and information](part-1a/section-2p.md)
 
-#### CHAPTER 3 — Further provisions relating to FCA and PRA[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+#### CHAPTER 3 — Further provisions relating to FCA and PRA[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
-##### Introductory[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Introductory[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 3A — Meaning of “regulator”](part-1a/section-3a.md)
 
-##### Regulatory principles[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Regulatory principles[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 3B — Regulatory principles to be applied by both regulators](part-1a/section-3b.md)
 
-##### Corporate governance[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Corporate governance[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 3C — Duty to follow principles of good governance](part-1a/section-3c.md)
 
-##### Relationship between FCA and PRA[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Relationship between FCA and PRA[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 3D — Duty of FCA and PRA to ensure co-ordinated exercise of functions](part-1a/section-3d.md)
 - [Section 3E — Memorandum of understanding](part-1a/section-3e.md)
@@ -246,29 +246,29 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 3G — Power to establish boundary between FCA and PRA responsibilities](part-1a/section-3g.md)
 - [Section 3H — Parliamentary control of orders under section 3G](part-1a/section-3h.md)
 
-##### Power of PRA to restrain proposed action by FCA[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Power of PRA to restrain proposed action by FCA[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 3I — Power of PRA to require FCA to refrain from specified action](part-1a/section-3i.md)
 - [Section 3J — Power of PRA in relation to with-profits policies](part-1a/section-3j.md)
 - [Section 3K — Revocation of directions under section 3I or 3J](part-1a/section-3k.md)
 - [Section 3L — Further provisions about directions under section 3I or 3J](part-1a/section-3l.md)
 
-##### Directions relating to consolidated supervision[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Directions relating to consolidated supervision[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 3M — Directions relating to consolidated supervision of groups](part-1a/section-3m.md)
 - [Section 3N — Revocation of directions under section 3M](part-1a/section-3n.md)
 - [Section 3O — Further provisions about directions under section 3M](part-1a/section-3o.md)
 - [Section 3P — Consultation by regulator complying with direction](part-1a/section-3p.md)
 
-##### Co-operation with Bank of England[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Co-operation with Bank of England[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 3Q — Co-operation by FCA ... with Bank of England](part-1a/section-3q.md)
 
-##### Arrangements for provision of services[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Arrangements for provision of services[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 3R — Arrangements for provision of services](part-1a/section-3r.md)
 
-##### Rules[^key-24a197ee929d042fbbdd185dfd199378][^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Rules[^c-24a197ee929d042fbbdd185dfd199378][^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 3RA — Duty of FCA and PRA to review rules](part-1a/section-3ra.md)
 - [Section 3RB — Statement of policy relating to review of rules](part-1a/section-3rb.md)
@@ -276,11 +276,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 3RD — Report on certain reviews](part-1a/section-3rd.md)
 - [Section 3RE — Power of Treasury to require making of rules by regulations](part-1a/section-3re.md)
 
-##### Enhancing public understanding of financial matters etc.[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+##### Enhancing public understanding of financial matters etc.[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 - [Section 3S — The consumer financial education body](part-1a/section-3s.md)
 
-##### Interpretation[^key-4f59898aacce442b581cb94cd25adffd]
+##### Interpretation[^c-4f59898aacce442b581cb94cd25adffd]
 
 - [Section 3T — Interpretation](part-1a/section-3t.md)
 
@@ -354,11 +354,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 39 — Exemption of appointed representatives.](part-iii/section-39.md)
 - [Section 39A — Certain tied agents operating outside United Kingdom](part-iii/section-39a.md)
 
-### Part IV — Permission to Carry on Regulated Activities[^key-b03507c0a7312de4f2bd96a84be18317]
+### Part IV — Permission to Carry on Regulated Activities[^c-b03507c0a7312de4f2bd96a84be18317]
 
 *Extent: E+W+S+N.I.*
 
-#### Application for permission[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Application for permission[^c-b03507c0a7312de4f2bd96a84be18317]
 
 *Extent: E+W+S+N.I.*
 
@@ -367,14 +367,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 40 — Application for permission.](part-iv/section-40.md)
 - [Section 41 — The threshold conditions.](part-iv/section-41.md)
 
-#### Permission[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Permission[^c-b03507c0a7312de4f2bd96a84be18317]
 
 **No longer in force.**
 
 - [Section 42 — Giving permission.](part-iv/section-42.md)
 - [Section 43 — Imposition of requirements.](part-iv/section-43.md)
 
-#### Variation and cancellation of Part IV permission[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Variation and cancellation of Part IV permission[^c-b03507c0a7312de4f2bd96a84be18317]
 
 *Extent: E+W+S+N.I.*
 
@@ -386,19 +386,19 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 47 — Exercise of power in support of overseas regulator.](part-iv/section-47.md)
 - [Section 48 — Prohibitions and restrictions.](part-iv/section-48.md)
 
-#### Connected persons[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Connected persons[^c-b03507c0a7312de4f2bd96a84be18317]
 
 **No longer in force.**
 
 - [Section 49 — Persons connected with an applicant.](part-iv/section-49.md)
 
-#### Additional permissions[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Additional permissions[^c-b03507c0a7312de4f2bd96a84be18317]
 
 **No longer in force.**
 
 - [Section 50 — Authority’s duty to consider other permissions etc.](part-iv/section-50.md)
 
-#### Procedure[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Procedure[^c-b03507c0a7312de4f2bd96a84be18317]
 
 *Extent: E+W+S+N.I.*
 
@@ -409,24 +409,24 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 53 — Exercise of own-initiative power: procedure.](part-iv/section-53.md)
 - [Section 54 — Cancellation of Part IV permission: procedure.](part-iv/section-54.md)
 
-#### Notification[^key-b03507c0a7312de4f2bd96a84be18317][^key-2f24d6ecbfdb497ec2b868d9faae36fc]
+#### Notification[^c-b03507c0a7312de4f2bd96a84be18317][^c-2f24d6ecbfdb497ec2b868d9faae36fc]
 
 **No longer in force.**
 
 - [Section 54A — Notification of ESMA](part-iv/section-54a.md)
 - [Section 54B — Notification of EBA](part-iv/section-54b.md)
 
-#### References to the Tribunal[^key-b03507c0a7312de4f2bd96a84be18317]
+#### References to the Tribunal[^c-b03507c0a7312de4f2bd96a84be18317]
 
 **No longer in force.**
 
 - [Section 55 — Right to refer matters to the Tribunal.](part-iv/section-55.md)
 
-### PART 4A — Permission to carry on regulated activities[^key-458f07f97c52abbc75f4da1d8faac7ad][^key-77a3d4d2f3e4722cb966b230167fb61f][^M_C_a030a099-d002-4a7a-ad1f-ab1354936a3a][^key-ce3846e94c00c2b5de5093368c06ab2c][^key-b03507c0a7312de4f2bd96a84be18317]
+### PART 4A — Permission to carry on regulated activities[^c-458f07f97c52abbc75f4da1d8faac7ad][^c-77a3d4d2f3e4722cb966b230167fb61f][^M_C_a030a099-d002-4a7a-ad1f-ab1354936a3a][^c-ce3846e94c00c2b5de5093368c06ab2c][^c-b03507c0a7312de4f2bd96a84be18317]
 
 *Extent: E+W+S+N.I.*
 
-#### Application for permission[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Application for permission[^c-b03507c0a7312de4f2bd96a84be18317]
 
 - [Section 55A — Application for permission](part-4a/section-55a.md)
 - [Section 55B — The threshold conditions](part-4a/section-55b.md)
@@ -436,7 +436,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 55F — Giving permission: the PRA](part-4a/section-55f.md)
 - [Section 55G — Giving permission: special cases](part-4a/section-55g.md)
 
-#### Variation and cancellation of Part 4A permission[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Variation and cancellation of Part 4A permission[^c-b03507c0a7312de4f2bd96a84be18317]
 
 *Extent: E+W+S+N.I.*
 
@@ -447,7 +447,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 55K — Investment firms: particular conditions that enable cancellation](part-4a/section-55k.md)
 - [Section 55KA — Insurance undertakings, reinsurance undertakings and third-country insurance undertakings: particular conditions that enable cancellation](part-4a/section-55ka.md)
 
-#### Imposition and variation of requirements[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Imposition and variation of requirements[^c-b03507c0a7312de4f2bd96a84be18317]
 
 *Extent: E+W+S+N.I.*
 
@@ -461,23 +461,23 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 55PA — Assets requirements imposed on insurance undertakings or reinsurance undertakings](part-4a/section-55pa.md)
 - [Section 55PB — Requirements relating to general meetings](part-4a/section-55pb.md)
 
-#### Exercise of power in support of overseas regulator[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Exercise of power in support of overseas regulator[^c-b03507c0a7312de4f2bd96a84be18317]
 
 - [Section 55Q — Exercise of power in support of overseas regulator](part-4a/section-55q.md)
 
-#### Connected persons[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Connected persons[^c-b03507c0a7312de4f2bd96a84be18317]
 
 - [Section 55R — Persons connected with an applicant](part-4a/section-55r.md)
 
-#### Additional permissions[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Additional permissions[^c-b03507c0a7312de4f2bd96a84be18317]
 
 - [Section 55S — Duty of FCA or PRA to consider other permissions](part-4a/section-55s.md)
 
-#### Persons whose interests are protected[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Persons whose interests are protected[^c-b03507c0a7312de4f2bd96a84be18317]
 
 - [Section 55T — Persons whose interests are protected](part-4a/section-55t.md)
 
-#### Procedure[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Procedure[^c-b03507c0a7312de4f2bd96a84be18317]
 
 *Extent: E+W+S+N.I.*
 
@@ -497,15 +497,15 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 55Z2 — Notification of EBA](part-4a/section-55z2.md)
 - [Section 55Z2A — Notification of the European bodies](part-4a/section-55z2a.md)
 
-#### References to the Tribunal[^key-b03507c0a7312de4f2bd96a84be18317]
+#### References to the Tribunal[^c-b03507c0a7312de4f2bd96a84be18317]
 
 - [Section 55Z3 — Right to refer matters to the Tribunal](part-4a/section-55z3.md)
 
-#### Interpretation[^key-b03507c0a7312de4f2bd96a84be18317]
+#### Interpretation[^c-b03507c0a7312de4f2bd96a84be18317]
 
 - [Section 55Z4 — Interpretation of Part 4A](part-4a/section-55z4.md)
 
-### Part V — Performance of Regulated Activities[^c1709214][^key-0bbc03188a08e8ec51bc65a2886281f6][^key-eda52a5f85298c935f4f5b8c78dcdf33]
+### Part V — Performance of Regulated Activities[^c1709214][^c-0bbc03188a08e8ec51bc65a2886281f6][^c-eda52a5f85298c935f4f5b8c78dcdf33]
 
 *Extent: E+W+S+N.I.*
 
@@ -544,21 +544,21 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 63C — Statement of policy](part-v/section-63c.md)
 - [Section 63D — Statement of policy: procedure](part-v/section-63d.md)
 
-#### Certification of employees[^key-deb2d2fd8c7e2919e06e69498557312d]
+#### Certification of employees[^c-deb2d2fd8c7e2919e06e69498557312d]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 63E — Certification of employees by ... authorised persons](part-v/section-63e.md)
 - [Section 63F — Issuing of certificates](part-v/section-63f.md)
 
-#### ...[^key-6116a686d2639d40d636fd6a4a45be89]
+#### ...[^c-6116a686d2639d40d636fd6a4a45be89]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 64 — Conduct: statements and codes.](part-v/section-64.md)
 - [Section 65 — Statements and codes: procedure.](part-v/section-65.md)
 
-#### Conduct of approved persons and others[^key-577d50c0cb794975e90a3eb452c6035f]
+#### Conduct of approved persons and others[^c-577d50c0cb794975e90a3eb452c6035f]
 
 *Extent: E+W+S+N.I.*
 
@@ -577,13 +577,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 71 — Actions for damages.](part-v/section-71.md)
 
-#### “Relevant authorised person”[^key-3dea3c90a9472d94c59389a41fa3422d]
+#### “Relevant authorised person”[^c-3dea3c90a9472d94c59389a41fa3422d]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 71A — Meaning of “relevant authorised person”](part-v/section-71a.md)
 
-#### Removal of directors and senior executives and appointment of temporary manager[^key-e9ccb3f825f099ec67a5a5f18082ae8d]
+#### Removal of directors and senior executives and appointment of temporary manager[^c-e9ccb3f825f099ec67a5a5f18082ae8d]
 
 - [Section 71B — Removal of directors and senior executives](part-v/section-71b.md)
 - [Section 71C — Temporary manager](part-v/section-71c.md)
@@ -594,9 +594,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 71H — Removal of directors and senior executives and appointment of temporary manager: procedure](part-v/section-71h.md)
 - [Section 71I — Sections 71B to 71H: interpretation](part-v/section-71i.md)
 
-### PART 5A — Designated activities[^key-0b37bb1bfd301e02d8c8df3c7e213886]
+### PART 5A — Designated activities[^c-0b37bb1bfd301e02d8c8df3c7e213886]
 
-#### CHAPTER 1 — GENERAL PROVISIONS[^key-b5350a25a9f2b73182ddcbfadde97a44][^key-0b37bb1bfd301e02d8c8df3c7e213886]
+#### CHAPTER 1 — GENERAL PROVISIONS[^c-b5350a25a9f2b73182ddcbfadde97a44][^c-0b37bb1bfd301e02d8c8df3c7e213886]
 
 - [Section 71K — Designated activities](part-5a/section-71k.md)
 - [Section 71L — Restrictions on carrying on of designated activities](part-5a/section-71l.md)
@@ -608,13 +608,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 71R — Designated activities and rules: connected amendments](part-5a/section-71r.md)
 - [Section 71S — Designated activities regulations: Parliamentary control](part-5a/section-71s.md)
 
-#### CHAPTER 2 — PROVISIONS RELATING TO PARTICULAR DESIGNATED ACTIVITIES[^key-2175f3032e84c642e79a415782bc91ad][^key-0b37bb1bfd301e02d8c8df3c7e213886]
+#### CHAPTER 2 — PROVISIONS RELATING TO PARTICULAR DESIGNATED ACTIVITIES[^c-2175f3032e84c642e79a415782bc91ad][^c-0b37bb1bfd301e02d8c8df3c7e213886]
 
-##### “Relevant designated activity” and “relevant Part 5A requirement”[^key-2175f3032e84c642e79a415782bc91ad][^key-0b37bb1bfd301e02d8c8df3c7e213886]
+##### “Relevant designated activity” and “relevant Part 5A requirement”[^c-2175f3032e84c642e79a415782bc91ad][^c-0b37bb1bfd301e02d8c8df3c7e213886]
 
 - [Section 71T — Meaning of “relevant designated activity” and “relevant Part 5A requirement”](part-5a/section-71t.md)
 
-##### Procedure relating to relevant Part 5A directions[^key-2175f3032e84c642e79a415782bc91ad][^key-0b37bb1bfd301e02d8c8df3c7e213886]
+##### Procedure relating to relevant Part 5A directions[^c-2175f3032e84c642e79a415782bc91ad][^c-0b37bb1bfd301e02d8c8df3c7e213886]
 
 - [Section 71U — Meaning of “relevant Part 5A direction” for purposes of this Chapter](part-5a/section-71u.md)
 - [Section 71V — Procedure for giving, varying or revoking relevant Part 5A direction](part-5a/section-71v.md)
@@ -622,18 +622,18 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 71X — Determination of application under section 71W](part-5a/section-71x.md)
 - [Section 71Y — Relevant Part 5A direction: right to refer to Tribunal](part-5a/section-71y.md)
 
-### Part VI — Official Listing[^c1709248][^key-967a80b2785ab656c0938eb196e8e131]
+### Part VI — Official Listing[^c1709248][^c-967a80b2785ab656c0938eb196e8e131]
 
 *Extent: E+W+S+N.I.*
 
-#### ...[^key-434e2887d2476bf9d9690396a81ff091]
+#### ...[^c-434e2887d2476bf9d9690396a81ff091]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 72 — The competent authority.](part-vi/section-72.md)
 - [Section 73 — General duty of the competent authority.](part-vi/section-73.md)
 
-#### Rules[^key-c76012ebf16cc8cbd905409d652854bd]
+#### Rules[^c-c76012ebf16cc8cbd905409d652854bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -665,7 +665,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 82 — Exemptions from disclosure.](part-vi/section-82.md)
 - [Section 83 — Registration of listing particulars.](part-vi/section-83.md)
 
-#### Contravention of prohibition relating to public offer of securities[^key-6f4b9b4fa2953a1c0ff188e3576aed7d][^c2075607]
+#### Contravention of prohibition relating to public offer of securities[^c-6f4b9b4fa2953a1c0ff188e3576aed7d][^c2075607]
 
 *Extent: E+W+S+N.I.*
 
@@ -690,7 +690,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 87E — Transfer by FCA of application for approval](part-vi/section-87e.md)
 - [Section 87F — Transfer to FCA of application for approval](part-vi/section-87f.md)
 
-#### Final terms[^key-35e9979e6586f7194e4934742ed8b853][^c2075607]
+#### Final terms[^c-35e9979e6586f7194e4934742ed8b853][^c2075607]
 
 *Extent: E+W+S+N.I.*
 
@@ -706,7 +706,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 87H — Prospectus approved in another EEA State](part-vi/section-87h.md)
 - [Section 87I — Provision of information to host Member State](part-vi/section-87i.md)
 
-#### Transferable securities: powers of FCA[^c2075607][^key-d3a1c2415a87e7755a67c5c9cd124d60]
+#### Transferable securities: powers of FCA[^c2075607][^c-d3a1c2415a87e7755a67c5c9cd124d60]
 
 *Extent: E+W+S+N.I.*
 
@@ -756,7 +756,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 89F — Transparency rules: interpretation etc](part-vi/section-89f.md)
 - [Section 89G — Transparency rules: other supplementary provisions](part-vi/section-89g.md)
 
-#### Power of FCA to call for information[^c2076386][^key-9927ca5530fa26b483ba2aa61ac1396f]
+#### Power of FCA to call for information[^c2076386][^c-9927ca5530fa26b483ba2aa61ac1396f]
 
 *Extent: E+W+S+N.I.*
 
@@ -780,7 +780,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 89O — Corporate governance rules](part-vi/section-89o.md)
 
-#### Primary information providers[^key-35e29e729315b2655146aede15026cb7]
+#### Primary information providers[^c-35e29e729315b2655146aede15026cb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -843,7 +843,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 102C — Meaning of “home State” in relation to transferable securities](part-vi/section-102c.md)
 - [Section 103 — Interpretation of this Part](part-vi/section-103.md)
 
-### Part VII — Control of Business Transfers[^key-2c4cde6f0aedc37760add8016d02056e]
+### Part VII — Control of Business Transfers[^c-2c4cde6f0aedc37760add8016d02056e]
 
 *Extent: E+W+S+N.I.*
 
@@ -875,7 +875,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 117 — Power to modify this Part.](part-vii/section-117.md)
 
-### Part 7A — Unilateral changes to pension schemes[^key-acad4d00c0669c167e0aa25529827af5]
+### Part 7A — Unilateral changes to pension schemes[^c-acad4d00c0669c167e0aa25529827af5]
 
 - [Section 117A — Pension schemes to which this Part applies](part-7a/section-117a.md)
 - [Section 117B — Unilateral changes](part-7a/section-117b.md)
@@ -887,11 +887,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 117H — Treasury regulations](part-7a/section-117h.md)
 - [Section 117I — Interpretation of Part](part-7a/section-117i.md)
 
-### Part VIII — Provisions relating to market abuse[^key-cf7592050f4832795c8252130750189a][^key-23ca893f5bb28c8830a8477f38411cfd]
+### Part VIII — Provisions relating to market abuse[^c-cf7592050f4832795c8252130750189a][^c-23ca893f5bb28c8830a8477f38411cfd]
 
 *Extent: E+W+S+N.I.*
 
-#### ...[^key-bc97dddedb2e2fdc1649a982dd8b17ea]
+#### ...[^c-bc97dddedb2e2fdc1649a982dd8b17ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -900,7 +900,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 118B — Insiders](part-viii/section-118b.md)
 - [Section 118C — Inside information](part-viii/section-118c.md)
 
-#### ...[^key-bc97dddedb2e2fdc1649a982dd8b17ea]
+#### ...[^c-bc97dddedb2e2fdc1649a982dd8b17ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -909,7 +909,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 121 — Codes: procedure.](part-viii/section-121.md)
 - [Section 122 — Effect of the code.](part-viii/section-122.md)
 
-#### Powers to require information and supplemental provisions[^key-6fd0432ab398d8bfa3958d489ec58a52]
+#### Powers to require information and supplemental provisions[^c-6fd0432ab398d8bfa3958d489ec58a52]
 
 - [Section 122A — Power to require information from issuers](part-viii/section-122a.md)
 - [Section 122B — General power to require information](part-viii/section-122b.md)
@@ -918,7 +918,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 122E — Retention of documents taken under section 122D](part-viii/section-122e.md)
 - [Section 122F — Offences](part-viii/section-122f.md)
 
-#### Other administrative powers[^key-6fd0432ab398d8bfa3958d489ec58a52]
+#### Other administrative powers[^c-6fd0432ab398d8bfa3958d489ec58a52]
 
 *Extent: E+W+S+N.I.*
 
@@ -928,7 +928,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 122I — Power to suspend trading in financial instruments](part-viii/section-122i.md)
 - [Section 122IA — Power to suspend auctioning of auctioned products on a recognised auction platform](part-viii/section-122ia.md)
 
-#### Administrative sanctions[^key-c896184dfa6bee8c57153acdb689ff02]
+#### Administrative sanctions[^c-c896184dfa6bee8c57153acdb689ff02]
 
 - [Section 123 — Power to impose penalties or issue censure](part-viii/section-123.md)
 - [Section 123A — Power to prohibit individuals from managing or dealing](part-viii/section-123a.md)
@@ -962,7 +962,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 131AD — Individual liability in respect of legal persons under Articles 8 and 12 of the market abuse regulation](part-viii/section-131ad.md)
 - [Section 131AE — Liability for contraventions of Article 14 or 15 of the market abuse regulation](part-viii/section-131ae.md)
 
-### Part 8A — Short selling[^key-0594248248884fd56e22e5156c1f51c8]
+### Part 8A — Short selling[^c-0594248248884fd56e22e5156c1f51c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -990,7 +990,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 131FB — Entry of premises under warrant](part-8a/section-131fb.md)
 - [Section 131FC — Retention of documents taken under section 131FB](part-8a/section-131fc.md)
 
-#### Breach of short selling regulation etc[^key-ebbd6e69975b3beb1a69093b45801309][^M_F_4a19da9f-e925-4239-c907-7c752ab21cb3]
+#### Breach of short selling regulation etc[^c-ebbd6e69975b3beb1a69093b45801309][^M_F_4a19da9f-e925-4239-c907-7c752ab21cb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -1003,26 +1003,26 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 131K — Statement of policy: procedure](part-8a/section-131k.md)
 - [Section 131L — Offences](part-8a/section-131l.md)
 
-### PART 8B — Cash access services[^key-fc4ab12a6f7e8c559f905cdc2c6661c9]
+### PART 8B — Cash access services[^c-fc4ab12a6f7e8c559f905cdc2c6661c9]
 
-#### Introductory[^key-fc4ab12a6f7e8c559f905cdc2c6661c9]
+#### Introductory[^c-fc4ab12a6f7e8c559f905cdc2c6661c9]
 
 - [Section 131M — Overview](part-8b/section-131m.md)
 - [Section 131N — Cash access services and coordination arrangements](part-8b/section-131n.md)
 - [Section 131O — Current accounts and relevant current account providers](part-8b/section-131o.md)
 
-#### Cash access policy statement[^key-fc4ab12a6f7e8c559f905cdc2c6661c9]
+#### Cash access policy statement[^c-fc4ab12a6f7e8c559f905cdc2c6661c9]
 
 - [Section 131P — Cash access policy statement](part-8b/section-131p.md)
 - [Section 131Q — Provision of reports to assist the Treasury](part-8b/section-131q.md)
 
-#### Designation[^key-fc4ab12a6f7e8c559f905cdc2c6661c9]
+#### Designation[^c-fc4ab12a6f7e8c559f905cdc2c6661c9]
 
 - [Section 131R — Designation](part-8b/section-131r.md)
 - [Section 131S — Designation criteria](part-8b/section-131s.md)
 - [Section 131T — Cancellation or variation of a designation notice](part-8b/section-131t.md)
 
-#### Supervision of designated persons[^key-fc4ab12a6f7e8c559f905cdc2c6661c9]
+#### Supervision of designated persons[^c-fc4ab12a6f7e8c559f905cdc2c6661c9]
 
 - [Section 131U — Purpose for which FCA must exercise functions under this Part](part-8b/section-131u.md)
 - [Section 131V — FCA rules](part-8b/section-131v.md)
@@ -1033,7 +1033,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 131Z1 — Costs of supervision](part-8b/section-131z1.md)
 - [Section 131Z2 — Exclusion and modification of other FCA duties](part-8b/section-131z2.md)
 
-### Part IX — Hearings and Appeals[^c1709309][^c2077178][^c2081178][^c2077227][^c2077236][^c2078068][^c2078179][^c2078189][^c2078702][^c2078733][^c2079310][^key-0742ec5dbd1207244bf53b81155fcc4b][^key-e38baa5938b9a1df6e87f46dea7f64cc][^key-3cbf00504e057280cbedae1a207aaf38][^key-16f24ef4b4266785e2ba0c215b81060e][^key-97104f970d6bfdeb0b1a68a0b9ca42d3][^key-ccf8906e93efe3e97212b403c1c5bc15][^key-eb66102a4e07e46a02f335ea7692911e][^key-b35428636dde0b0779b1def777a7cce9][^key-0eef88a8430b1b6b58cea2caf4516a38][^key-5b4ea641ba44ec69172330efa6d26357][^key-6159aabd4ef4eeb9f84f66e88645ac72][^key-bac508694ce14a65461c20a4b0656e05][^key-d66a2a10654eeeefbb9bc1b444370cd2][^key-8dace81431a702ed29c6efd94939c028][^key-5e399d3bc3a38ccdc6b38d1f6090b8ef][^key-362d464a506164d40f7ea00b25fa4eff][^key-74c1b9808e1c13ebce3b9a6bc27860e4][^key-cfa63202eb3241f9246618227a753dbd][^key-d865c738fc4719ba803d41203c48dc3e][^key-2368620b1d7126fa2620fed6e827f0d9][^key-beb5316b243049f5ce1d1ebdd4498265][^key-edae2e9e3b96b96668c11bef6f74ad75][^key-728c50d2a8a6cff43bb9760a4e76fb6c][^key-2506622be8b49cb2d23466eb9c050fbb][^key-4f3cbf6efe75129cf1a03e96162228c5][^key-dd16244bded20f744720106625caa917][^key-01d5bee8b8b3488a0ee73817847fd086][^key-53d87e1de64e2a8f0b5b854809d248f3][^key-cd55866c124ca52663892eddaac5130a][^key-a367f1347f88a7258bcfd92fce272d5e][^key-b8c97830a8a6c82d4099b092270f3a92][^key-8a92d8d8d482e6b2b7b424bdc0afbc9e][^key-9a7fae0b7dbb1fdc3987ec18947c90fa][^key-24d51bd40d293ab771ce3d771a359a70][^key-77fa24d4c0bf5aafb4a647a1ca71ccfd][^key-6773d63fcb2fe2a80b55fc09c35271d7][^key-7f150623b2f99b20c966cd2a49b47480][^key-6df8fcd3d5df235b47b6f3314363d9ff][^key-62bf989ed4930a4196619c44950bd332]
+### Part IX — Hearings and Appeals[^c1709309][^c2077178][^c2081178][^c2077227][^c2077236][^c2078068][^c2078179][^c2078189][^c2078702][^c2078733][^c2079310][^c-0742ec5dbd1207244bf53b81155fcc4b][^c-e38baa5938b9a1df6e87f46dea7f64cc][^c-3cbf00504e057280cbedae1a207aaf38][^c-16f24ef4b4266785e2ba0c215b81060e][^c-97104f970d6bfdeb0b1a68a0b9ca42d3][^c-ccf8906e93efe3e97212b403c1c5bc15][^c-eb66102a4e07e46a02f335ea7692911e][^c-b35428636dde0b0779b1def777a7cce9][^c-0eef88a8430b1b6b58cea2caf4516a38][^c-5b4ea641ba44ec69172330efa6d26357][^c-6159aabd4ef4eeb9f84f66e88645ac72][^c-bac508694ce14a65461c20a4b0656e05][^c-d66a2a10654eeeefbb9bc1b444370cd2][^c-8dace81431a702ed29c6efd94939c028][^c-5e399d3bc3a38ccdc6b38d1f6090b8ef][^c-362d464a506164d40f7ea00b25fa4eff][^c-74c1b9808e1c13ebce3b9a6bc27860e4][^c-cfa63202eb3241f9246618227a753dbd][^c-d865c738fc4719ba803d41203c48dc3e][^c-2368620b1d7126fa2620fed6e827f0d9][^c-beb5316b243049f5ce1d1ebdd4498265][^c-edae2e9e3b96b96668c11bef6f74ad75][^c-728c50d2a8a6cff43bb9760a4e76fb6c][^c-2506622be8b49cb2d23466eb9c050fbb][^c-4f3cbf6efe75129cf1a03e96162228c5][^c-dd16244bded20f744720106625caa917][^c-01d5bee8b8b3488a0ee73817847fd086][^c-53d87e1de64e2a8f0b5b854809d248f3][^c-cd55866c124ca52663892eddaac5130a][^c-a367f1347f88a7258bcfd92fce272d5e][^c-b8c97830a8a6c82d4099b092270f3a92][^c-8a92d8d8d482e6b2b7b424bdc0afbc9e][^c-9a7fae0b7dbb1fdc3987ec18947c90fa][^c-24d51bd40d293ab771ce3d771a359a70][^c-77fa24d4c0bf5aafb4a647a1ca71ccfd][^c-6773d63fcb2fe2a80b55fc09c35271d7][^c-7f150623b2f99b20c966cd2a49b47480][^c-6df8fcd3d5df235b47b6f3314363d9ff][^c-62bf989ed4930a4196619c44950bd332]
 
 *Extent: E+W+S+N.I.*
 
@@ -1054,13 +1054,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 137 — Appeal on a point of law.](part-ix/section-137.md)
 
-### PART 9A — Rules and Guidance[^key-d3af761239f9e575a79c7d599233f904][^key-7b20c7a7fb801e6a4286735b9cd0aea3][^key-d227c3f18b9d7bad75657c5ff2802205][^key-21b57312258ba0aa1c8d8ab82c9b72ba][^key-e922c816a6b3c56cc617ae59c14f3510]
+### PART 9A — Rules and Guidance[^c-d3af761239f9e575a79c7d599233f904][^c-7b20c7a7fb801e6a4286735b9cd0aea3][^c-d227c3f18b9d7bad75657c5ff2802205][^c-21b57312258ba0aa1c8d8ab82c9b72ba][^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Rule-making powers[^key-21b57312258ba0aa1c8d8ab82c9b72ba][^key-e922c816a6b3c56cc617ae59c14f3510]
+#### CHAPTER 1 — Rule-making powers[^c-21b57312258ba0aa1c8d8ab82c9b72ba][^c-e922c816a6b3c56cc617ae59c14f3510]
 
-##### General rule-making powers of the FCA and the PRA[^key-e922c816a6b3c56cc617ae59c14f3510]
+##### General rule-making powers of the FCA and the PRA[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
@@ -1091,7 +1091,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 137M — Special provision relating to adequacy of resolution plans](part-9a/section-137m.md)
 - [Section 137N — Recovery plans and resolution packs: restriction on duty of confidence](part-9a/section-137n.md)
 
-##### Specific rule-making powers[^key-e922c816a6b3c56cc617ae59c14f3510]
+##### Specific rule-making powers[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
@@ -1103,27 +1103,27 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 137SA — Rules to recover expenses relating to the Money and Pensions Service](part-9a/section-137sa.md)
 - [Section 137SB — Rules to recover debt advice expenses incurred by the devolved authorities](part-9a/section-137sb.md)
 
-##### Supplementary powers[^key-e922c816a6b3c56cc617ae59c14f3510]
+##### Supplementary powers[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 - [Section 137T — General supplementary powers](part-9a/section-137t.md)
 
-#### CHAPTER 2 — Rules: modification, waiver, contravention and procedural provisions[^key-564bdd1d706171eb82d6fed61a06601c][^key-a3b43149eb08ca27fdf54e15addb4d87][^key-5d8d11ffe796f707e058cdc0576d0dc4][^key-cb6f0c788ff618621553f0ca35b3a27c][^key-d3af761239f9e575a79c7d599233f904][^key-7b20c7a7fb801e6a4286735b9cd0aea3][^key-d227c3f18b9d7bad75657c5ff2802205][^key-900eacff346b904ad28932142590347c][^key-21b57312258ba0aa1c8d8ab82c9b72ba][^key-2e1433315b5c3192fcfad058c238c92c][^key-4d6717fa7da81e8a91435b2f162dad69][^key-e922c816a6b3c56cc617ae59c14f3510]
+#### CHAPTER 2 — Rules: modification, waiver, contravention and procedural provisions[^c-564bdd1d706171eb82d6fed61a06601c][^c-a3b43149eb08ca27fdf54e15addb4d87][^c-5d8d11ffe796f707e058cdc0576d0dc4][^c-cb6f0c788ff618621553f0ca35b3a27c][^c-d3af761239f9e575a79c7d599233f904][^c-7b20c7a7fb801e6a4286735b9cd0aea3][^c-d227c3f18b9d7bad75657c5ff2802205][^c-900eacff346b904ad28932142590347c][^c-21b57312258ba0aa1c8d8ab82c9b72ba][^c-2e1433315b5c3192fcfad058c238c92c][^c-4d6717fa7da81e8a91435b2f162dad69][^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
-##### Modification or waiver of rules[^key-e922c816a6b3c56cc617ae59c14f3510]
+##### Modification or waiver of rules[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 - [Section 138A — Modification or waiver of rules](part-9a/section-138a.md)
 - [Section 138B — Publication of directions under section 138A](part-9a/section-138b.md)
 - [Section 138BA — Disapplication or modification of rules in individual cases](part-9a/section-138ba.md)
 
-##### Contravention of rules[^key-e922c816a6b3c56cc617ae59c14f3510]
+##### Contravention of rules[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 - [Section 138C — Evidential provisions](part-9a/section-138c.md)
 - [Section 138D — Actions for damages](part-9a/section-138d.md)
 - [Section 138E — Limits on effect of contravening rules](part-9a/section-138e.md)
 
-##### Procedural provisions[^key-e922c816a6b3c56cc617ae59c14f3510]
+##### Procedural provisions[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 - [Section 138EA — Matters to consider when making rules](part-9a/section-138ea.md)
 - [Section 138F — Notification of rules](part-9a/section-138f.md)
@@ -1141,19 +1141,19 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 138N — Temporary product intervention rules: statement of policy](part-9a/section-138n.md)
 - [Section 138O — Statement of policy under section 138N: procedure](part-9a/section-138o.md)
 
-#### CHAPTER 2A — Technical Standards[^key-ad0fb2474c7f5a47b300abbd986285c8][^key-e922c816a6b3c56cc617ae59c14f3510]
+#### CHAPTER 2A — Technical Standards[^c-ad0fb2474c7f5a47b300abbd986285c8][^c-e922c816a6b3c56cc617ae59c14f3510]
 
 - [Section 138P — Technical standards](part-9a/section-138p.md)
 - [Section 138Q — Standards instruments](part-9a/section-138q.md)
 - [Section 138R — Treasury approval](part-9a/section-138r.md)
 - [Section 138S — Application of Chapters 1 and 2](part-9a/section-138s.md)
 
-#### CHAPTER 3 — Guidance[^key-d3af761239f9e575a79c7d599233f904][^key-7b20c7a7fb801e6a4286735b9cd0aea3][^key-d227c3f18b9d7bad75657c5ff2802205][^key-e922c816a6b3c56cc617ae59c14f3510]
+#### CHAPTER 3 — Guidance[^c-d3af761239f9e575a79c7d599233f904][^c-7b20c7a7fb801e6a4286735b9cd0aea3][^c-d227c3f18b9d7bad75657c5ff2802205][^c-e922c816a6b3c56cc617ae59c14f3510]
 
 - [Section 139A — Power of the FCA to give guidance](part-9a/section-139a.md)
 - [Section 139B — Notification of FCA guidance to the Treasury](part-9a/section-139b.md)
 
-#### CHAPTER 4 — Competition scrutiny[^key-ea2ed338adcf18639804d8451e319771][^key-e922c816a6b3c56cc617ae59c14f3510]
+#### CHAPTER 4 — Competition scrutiny[^c-ea2ed338adcf18639804d8451e319771][^c-e922c816a6b3c56cc617ae59c14f3510]
 
 - [Section 140A — Interpretation](part-9a/section-140a.md)
 - [Section 140B — Advice about effect of regulating provision or practice](part-9a/section-140b.md)
@@ -1164,16 +1164,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 140G — Duty of regulator to publish response](part-9a/section-140g.md)
 - [Section 140H — Role of the Treasury](part-9a/section-140h.md)
 
-#### CHAPTER 5 — Power to make consequential amendments[^key-21b57312258ba0aa1c8d8ab82c9b72ba][^key-e922c816a6b3c56cc617ae59c14f3510]
+#### CHAPTER 5 — Power to make consequential amendments[^c-21b57312258ba0aa1c8d8ab82c9b72ba][^c-e922c816a6b3c56cc617ae59c14f3510]
 
 - [Section 141A — Power to make consequential amendments of references to rules etc.](part-9a/section-141a.md)
 - [Section 141B — Power to consequentially amend enactments](part-9a/section-141b.md)
 
-### PART 9B — Ring-fencing[^key-6fe38a8b18a1667130a7809faea362b1][^key-515367dab7cbebca7f7219bdee427297]
+### PART 9B — Ring-fencing[^c-6fe38a8b18a1667130a7809faea362b1][^c-515367dab7cbebca7f7219bdee427297]
 
 *Extent: E+W+S+N.I.*
 
-#### Introductory[^key-515367dab7cbebca7f7219bdee427297]
+#### Introductory[^c-515367dab7cbebca7f7219bdee427297]
 
 - [Section 142A — “Ring-fenced body”](part-9b/section-142a.md)
 - [Section 142B — Core activities](part-9b/section-142b.md)
@@ -1182,17 +1182,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 142E — Power of Treasury to impose prohibitions](part-9b/section-142e.md)
 - [Section 142F — Orders under section 142A, 142B, 142D or 142E](part-9b/section-142f.md)
 
-#### Ring-fenced bodies not to carry on excluded activities or contravene prohibitions[^key-515367dab7cbebca7f7219bdee427297]
+#### Ring-fenced bodies not to carry on excluded activities or contravene prohibitions[^c-515367dab7cbebca7f7219bdee427297]
 
 - [Section 142G — Ring-fenced bodies not to carry on excluded activities or contravene prohibitions](part-9b/section-142g.md)
 
-#### Ring-fencing rules[^key-515367dab7cbebca7f7219bdee427297]
+#### Ring-fencing rules[^c-515367dab7cbebca7f7219bdee427297]
 
 - [Section 142H — Ring-fencing rules](part-9b/section-142h.md)
 - [Section 142I — Powers of Treasury in relation to ring-fencing rules](part-9b/section-142i.md)
 - [Section 142J — Review of ring-fencing rules etc](part-9b/section-142j.md)
 
-#### Group restructuring powers[^key-515367dab7cbebca7f7219bdee427297]
+#### Group restructuring powers[^c-515367dab7cbebca7f7219bdee427297]
 
 - [Section 142K — Cases in which group restructuring powers become exercisable](part-9b/section-142k.md)
 - [Section 142L — Group restructuring powers](part-9b/section-142l.md)
@@ -1203,37 +1203,37 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 142Q — Consultation etc. between regulators](part-9b/section-142q.md)
 - [Section 142R — Relationship with regulators' powers under Parts 4A and 12A](part-9b/section-142r.md)
 
-#### Failure of parent undertaking to comply with direction[^key-515367dab7cbebca7f7219bdee427297]
+#### Failure of parent undertaking to comply with direction[^c-515367dab7cbebca7f7219bdee427297]
 
 - [Section 142S — Power to impose penalty or issue censure](part-9b/section-142s.md)
 - [Section 142T — Procedure and right to refer to Tribunal](part-9b/section-142t.md)
 - [Section 142U — Duty on publication of statement](part-9b/section-142u.md)
 - [Section 142V — Imposition of penalties under section 142S: statement of policy](part-9b/section-142v.md)
 
-#### Pension liabilities[^key-515367dab7cbebca7f7219bdee427297]
+#### Pension liabilities[^c-515367dab7cbebca7f7219bdee427297]
 
 - [Section 142W — Pension liabilities](part-9b/section-142w.md)
 - [Section 142X — Further interpretative provisions for section 142W](part-9b/section-142x.md)
 
-#### Loss-absorbency requirements[^key-515367dab7cbebca7f7219bdee427297]
+#### Loss-absorbency requirements[^c-515367dab7cbebca7f7219bdee427297]
 
 - [Section 142Y — Power of Treasury in relation to loss-absorbency requirements](part-9b/section-142y.md)
 
-#### General[^key-515367dab7cbebca7f7219bdee427297]
+#### General[^c-515367dab7cbebca7f7219bdee427297]
 
 - [Section 142Z — Affirmative procedure in relation to certain orders under Part 9B](part-9b/section-142z.md)
 - [Section 142Z1 — Interpretation of Part 9B](part-9b/section-142z1.md)
 
-### PART 9C — Prudential regulation of FCA investment firms[^key-bd67ac6625e8b346806ee8e45f8d282f]
+### PART 9C — Prudential regulation of FCA investment firms[^c-bd67ac6625e8b346806ee8e45f8d282f]
 
-#### Interpretation[^key-bd67ac6625e8b346806ee8e45f8d282f]
+#### Interpretation[^c-bd67ac6625e8b346806ee8e45f8d282f]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 143A — FCA investment firms](part-9c/section-143a.md)
 - [Section 143B — Other terms used in this Part](part-9c/section-143b.md)
 
-#### Rules[^key-bd67ac6625e8b346806ee8e45f8d282f]
+#### Rules[^c-bd67ac6625e8b346806ee8e45f8d282f]
 
 *Extent: E+W+S+N.I.*
 
@@ -1245,13 +1245,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 143H — Explanation to accompany consultation on rules](part-9c/section-143h.md)
 - [Section 143I — Exceptions from sections 143G and 143H](part-9c/section-143i.md)
 
-#### Requirement to have UK parent undertaking[^key-bd67ac6625e8b346806ee8e45f8d282f]
+#### Requirement to have UK parent undertaking[^c-bd67ac6625e8b346806ee8e45f8d282f]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 143J — Requirement to have UK parent undertaking](part-9c/section-143j.md)
 
-#### Imposition of requirements on non-authorised parent undertakings[^key-bd67ac6625e8b346806ee8e45f8d282f]
+#### Imposition of requirements on non-authorised parent undertakings[^c-bd67ac6625e8b346806ee8e45f8d282f]
 
 *Extent: E+W+S+N.I.*
 
@@ -1263,7 +1263,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 143P — Right to refer matters to the Tribunal](part-9c/section-143p.md)
 - [Section 143Q — Assets requirements](part-9c/section-143q.md)
 
-#### Control of managers etc of non-authorised parent undertakings[^key-bd67ac6625e8b346806ee8e45f8d282f]
+#### Control of managers etc of non-authorised parent undertakings[^c-bd67ac6625e8b346806ee8e45f8d282f]
 
 *Extent: E+W+S+N.I.*
 
@@ -1273,7 +1273,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 143U — Varying and withdrawing a Part 9C prohibition order](part-9c/section-143u.md)
 - [Section 143V — Offence of breaching a Part 9C prohibition order](part-9c/section-143v.md)
 
-#### Disciplinary measures for non-authorised parent undertakings[^key-bd67ac6625e8b346806ee8e45f8d282f]
+#### Disciplinary measures for non-authorised parent undertakings[^c-bd67ac6625e8b346806ee8e45f8d282f]
 
 *Extent: E+W+S+N.I.*
 
@@ -1282,7 +1282,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 143Y — Statement of policy for penalties under section 143W](part-9c/section-143y.md)
 - [Section 143Z — Procedure for statement of policy](part-9c/section-143z.md)
 
-### PART 9D — Prudential regulation of credit institutions etc[^key-6420734e39edba39c2ee15c1faba8a67]
+### PART 9D — Prudential regulation of credit institutions etc[^c-6420734e39edba39c2ee15c1faba8a67]
 
 #### Interpretation
 
@@ -1301,11 +1301,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 144G — Disapplication or modification of CRR rules in individual cases](part-9d/section-144g.md)
 - [Section 144H — Relationship with the capital requirements regulation](part-9d/section-144h.md)
 
-### Part X — Rules and Guidance[^key-e922c816a6b3c56cc617ae59c14f3510]
+### Part X — Rules and Guidance[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter I — Rule-making Powers[^key-e922c816a6b3c56cc617ae59c14f3510]
+#### Chapter I — Rule-making Powers[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
@@ -1324,7 +1324,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 142 — Insurance business: regulations supplementing Authority’s rules.](part-x/section-142.md)
 - [Section 143 — Endorsement of codes etc.](part-x/section-143.md)
 
-##### Specific rules[^key-e922c816a6b3c56cc617ae59c14f3510]
+##### Specific rules[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
@@ -1335,13 +1335,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 146 — Money laundering rules.](part-x/section-146.md)
 - [Section 147 — Control of information rules.](part-x/section-147.md)
 
-##### Modification or waiver[^key-e922c816a6b3c56cc617ae59c14f3510]
+##### Modification or waiver[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 **No longer in force.**
 
 - [Section 148 — Modification or waiver of rules.](part-x/section-148.md)
 
-##### Contravention of rules[^key-e922c816a6b3c56cc617ae59c14f3510]
+##### Contravention of rules[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
@@ -1351,7 +1351,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 150 — Actions for damages.](part-x/section-150.md)
 - [Section 151 — Limits on effect of contravening rules.](part-x/section-151.md)
 
-##### Procedural provisions[^key-e922c816a6b3c56cc617ae59c14f3510]
+##### Procedural provisions[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 **No longer in force.**
 
@@ -1361,7 +1361,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 155 — Consultation.](part-x/section-155.md)
 - [Section 156 — General supplementary powers.](part-x/section-156.md)
 
-#### Chapter II — Guidance[^key-e922c816a6b3c56cc617ae59c14f3510]
+#### Chapter II — Guidance[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
@@ -1371,7 +1371,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 158 — Notification of guidance to the Treasury.](part-x/section-158.md)
 - [Section 158A — Guidance on outsourcing by investment firms and credit institutions](part-x/section-158a.md)
 
-#### Chapter III — Competition Scrutiny[^key-e922c816a6b3c56cc617ae59c14f3510]
+#### Chapter III — Competition Scrutiny[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 **No longer in force.**
 
@@ -1382,7 +1382,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 163 — Role of the Treasury.](part-x/section-163.md)
 - [Section 164 — The Competition Act 1998.](part-x/section-164.md)
 
-### Part XI — Information Gathering and Investigations[^c1709347][^c2080375][^c2080377][^key-0ce57f6e67028f5b4b12504639635a3a][^key-d1523af4aad18297e5acc75ac8852735][^key-e5d60babf0ba670037f63e6f5b5208a8][^key-8b5ad22b0cde14ec305803fa66ce057e][^key-112383fe5a86c309d9e7649b99484d27][^key-19c88b71035238fef70016b74fe97f13][^key-bfe56d79059535fbb6296db273cce443][^key-d34873a518ad368acf246f6b71392703][^key-c6adcf923083024022a4cc17d8adace7][^key-758e63816022797be6332e31b3368504][^key-5b9bd016002b5cca7267aa59ce6bb2f5][^key-666b6c518c4631f8637bfd9a3f05c475][^key-df858946574f400175e9528c90ffeca8][^key-653480f1705f74d1101001ad88c6fb8a][^key-bf358913118de111f0f8b582d833b7c6][^key-5f912c8f1ff198f6adbc49f595fd8b72][^key-499a2b9e752d4eacbd59a451732ce592][^key-8f8aaa7dfbf922dd9c669d7f8d8d664a][^key-ecbd8bd8bd6347c592846879cc999246][^key-61c81371e037211b973712b3d865367e][^key-670ce9b9376509be62a69f12a4d39874][^key-6e50533187a23900e1b5ed23af9af792][^key-69cc3f0413270dde800fe6d85101a062][^key-f38dc2f5018f1b33e51905d1df0a9bd7][^key-3b6ea2208ca7da5ff3a95a6bd36049f7][^key-309837bbb05efd336a25ec1277f4b8bc][^key-32deac3ca546be5c4939348763e30f8a][^key-94c265799e9e81648b97356aa3e96bda][^key-ac02ebce1228de43d7e4cbd87a937d6c]
+### Part XI — Information Gathering and Investigations[^c1709347][^c2080375][^c2080377][^c-0ce57f6e67028f5b4b12504639635a3a][^c-d1523af4aad18297e5acc75ac8852735][^c-e5d60babf0ba670037f63e6f5b5208a8][^c-8b5ad22b0cde14ec305803fa66ce057e][^c-112383fe5a86c309d9e7649b99484d27][^c-19c88b71035238fef70016b74fe97f13][^c-bfe56d79059535fbb6296db273cce443][^c-d34873a518ad368acf246f6b71392703][^c-c6adcf923083024022a4cc17d8adace7][^c-758e63816022797be6332e31b3368504][^c-5b9bd016002b5cca7267aa59ce6bb2f5][^c-666b6c518c4631f8637bfd9a3f05c475][^c-df858946574f400175e9528c90ffeca8][^c-653480f1705f74d1101001ad88c6fb8a][^c-bf358913118de111f0f8b582d833b7c6][^c-5f912c8f1ff198f6adbc49f595fd8b72][^c-499a2b9e752d4eacbd59a451732ce592][^c-8f8aaa7dfbf922dd9c669d7f8d8d664a][^c-ecbd8bd8bd6347c592846879cc999246][^c-61c81371e037211b973712b3d865367e][^c-670ce9b9376509be62a69f12a4d39874][^c-6e50533187a23900e1b5ed23af9af792][^c-69cc3f0413270dde800fe6d85101a062][^c-f38dc2f5018f1b33e51905d1df0a9bd7][^c-3b6ea2208ca7da5ff3a95a6bd36049f7][^c-309837bbb05efd336a25ec1277f4b8bc][^c-32deac3ca546be5c4939348763e30f8a][^c-94c265799e9e81648b97356aa3e96bda][^c-ac02ebce1228de43d7e4cbd87a937d6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -1428,11 +1428,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 177 — Offences.](part-xi/section-177.md)
 
-#### Interpretation[^key-6743369830a805b8848d192695fe83e3]
+#### Interpretation[^c-6743369830a805b8848d192695fe83e3]
 
 - [Section 177A — Interpretation of Part 11](part-xi/section-177a.md)
 
-### Part XII — Control Over Authorised Persons[^c1709396][^c2081065][^key-1ce0ee7ac9caca451688999f688ad006][^key-4ee2b8cee7788ed158b8ec69a22318e4][^key-7cd2cdae7f8ae093ddbd22e72ce6965a][^key-5ec268b1694f87b12fd031373cc9d701][^key-df19c8effbd5d5fdcb3b4e8361becb49][^key-b5f32a678753cf0bb7712809ccd6b876]
+### Part XII — Control Over Authorised Persons[^c1709396][^c2081065][^c-1ce0ee7ac9caca451688999f688ad006][^c-4ee2b8cee7788ed158b8ec69a22318e4][^c-7cd2cdae7f8ae093ddbd22e72ce6965a][^c-5ec268b1694f87b12fd031373cc9d701][^c-df19c8effbd5d5fdcb3b4e8361becb49][^c-b5f32a678753cf0bb7712809ccd6b876]
 
 *Extent: E+W+S+N.I.*
 
@@ -1488,16 +1488,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 192 — Power to change definitions of control etc.](part-xii/section-192.md)
 
-### PART 12A — Powers exercisable in relation to parent undertakings[^key-8628c60b9494b1d63957cdd6cbea73ea]
+### PART 12A — Powers exercisable in relation to parent undertakings[^c-8628c60b9494b1d63957cdd6cbea73ea]
 
 *Extent: E+W+S+N.I.*
 
-#### Introductory[^key-8628c60b9494b1d63957cdd6cbea73ea]
+#### Introductory[^c-8628c60b9494b1d63957cdd6cbea73ea]
 
 - [Section 192A — Meaning of “qualifying authorised person”](part-12a/section-192a.md)
 - [Section 192B — Meaning of “qualifying parent undertaking”](part-12a/section-192b.md)
 
-#### Power of direction[^key-8628c60b9494b1d63957cdd6cbea73ea]
+#### Power of direction[^c-8628c60b9494b1d63957cdd6cbea73ea]
 
 - [Section 192C — Power to direct qualifying parent undertaking](part-12a/section-192c.md)
 - [Section 192D — Requirements that may be imposed](part-12a/section-192d.md)
@@ -1507,34 +1507,34 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 192H — Statement of policy: directions under section 192C](part-12a/section-192h.md)
 - [Section 192I — Statement of policy relating to directions: procedure](part-12a/section-192i.md)
 
-#### Rules requiring provision of information by parent undertakings[^key-8628c60b9494b1d63957cdd6cbea73ea]
+#### Rules requiring provision of information by parent undertakings[^c-8628c60b9494b1d63957cdd6cbea73ea]
 
 - [Section 192J — Rules requiring provision of information by parent undertakings](part-12a/section-192j.md)
 
-#### Rules applying to parent undertakings of ring-fenced bodies[^key-57262b162bfb4e08f630688f4bdce51c][^key-8628c60b9494b1d63957cdd6cbea73ea]
+#### Rules applying to parent undertakings of ring-fenced bodies[^c-57262b162bfb4e08f630688f4bdce51c][^c-8628c60b9494b1d63957cdd6cbea73ea]
 
 - [Section 192JA — Rules applying to parent undertakings of ring-fenced bodies](part-12a/section-192ja.md)
 
-#### Rules requiring parent undertakings to facilitate resolution[^key-57262b162bfb4e08f630688f4bdce51c][^key-8628c60b9494b1d63957cdd6cbea73ea]
+#### Rules requiring parent undertakings to facilitate resolution[^c-57262b162bfb4e08f630688f4bdce51c][^c-8628c60b9494b1d63957cdd6cbea73ea]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 192JB — Rules requiring parent undertakings to facilitate resolution](part-12a/section-192jb.md)
 
-#### Failure to comply with direction or breach of rules[^key-8628c60b9494b1d63957cdd6cbea73ea]
+#### Failure to comply with direction or breach of rules[^c-8628c60b9494b1d63957cdd6cbea73ea]
 
 - [Section 192K — Power to impose penalty or issue censure](part-12a/section-192k.md)
 - [Section 192L — Procedure and right to refer to Tribunal](part-12a/section-192l.md)
 - [Section 192M — Duty on publication of statement](part-12a/section-192m.md)
 - [Section 192N — Imposition of penalties under section 192K: statement of policy](part-12a/section-192n.md)
 
-### PART 12B — Approval of certain holding companies[^key-4d512704618ed9bb6b40a3628ede6e5b]
+### PART 12B — Approval of certain holding companies[^c-4d512704618ed9bb6b40a3628ede6e5b]
 
-#### Interpretation[^key-01bb7d98288a0e5c392ddd7764028efa][^key-4d512704618ed9bb6b40a3628ede6e5b]
+#### Interpretation[^c-01bb7d98288a0e5c392ddd7764028efa][^c-4d512704618ed9bb6b40a3628ede6e5b]
 
 - [Section 192O — Interpretation](part-12b/section-192o.md)
 
-#### Approval[^key-7032d8dadde262a71720d6dc35174395][^key-4d512704618ed9bb6b40a3628ede6e5b]
+#### Approval[^c-7032d8dadde262a71720d6dc35174395][^c-4d512704618ed9bb6b40a3628ede6e5b]
 
 - [Section 192P — Requirement for approval](part-12b/section-192p.md)
 - [Section 192Q — Application for approval or exemption](part-12b/section-192q.md)
@@ -1546,7 +1546,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 192W — Consultation between regulators](part-12b/section-192w.md)
 - [Section 192X — References to Tribunal](part-12b/section-192x.md)
 
-#### Rules[^key-8cab15c42c8a3368cb633b04562190d7][^key-4d512704618ed9bb6b40a3628ede6e5b]
+#### Rules[^c-8cab15c42c8a3368cb633b04562190d7][^c-4d512704618ed9bb6b40a3628ede6e5b]
 
 - [Section 192XA — Rules applying to holding companies](part-12b/section-192xa.md)
 - [Section 192XB — Procedural provision](part-12b/section-192xb.md)
@@ -1557,7 +1557,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 192Z2 — Directions and penalties: statement of policy](part-12b/section-192z2.md)
 - [Section 192Z3 — Statement of policy relating to directions: procedure](part-12b/section-192z3.md)
 
-### Part XIII — Incoming Firms: Intervention by FCA or PRA[^c1709427][^key-9f63f5697dff3df23c0e83ac69fd37b4][^key-89265f8907faefc5c43d81b00f72d7a7][^key-8ce0a246596c3d53a43e62c8ca1893d1][^key-d75df45b4c4e3590a2b7b5a23cef16b9]
+### Part XIII — Incoming Firms: Intervention by FCA or PRA[^c1709427][^c-9f63f5697dff3df23c0e83ac69fd37b4][^c-89265f8907faefc5c43d81b00f72d7a7][^c-8ce0a246596c3d53a43e62c8ca1893d1][^c-d75df45b4c4e3590a2b7b5a23cef16b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -1601,7 +1601,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 203 — Power to prohibit the carrying on of Consumer Credit Act business.](part-xiii/section-203.md)
 - [Section 204 — Power to restrict the carrying on of Consumer Credit Act business.](part-xiii/section-204.md)
 
-### PART 13A — Enhanced supervision of firms exercising rights under the Insurance Distribution Directive[^key-a96b2ca449afe6f9e389bc30e21f7e53]
+### PART 13A — Enhanced supervision of firms exercising rights under the Insurance Distribution Directive[^c-a96b2ca449afe6f9e389bc30e21f7e53]
 
 **No longer in force.**
 
@@ -1610,7 +1610,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 203C — Modification or waiver of rules where firm subject to enhanced supervision](part-13a/section-203c.md)
 - [Section 203D — Publication of directions under section 203C](part-13a/section-203d.md)
 
-### Part XIV — Disciplinary Measures[^c1709462][^key-382ee182f5efcfdf21efeffe306039b7][^key-a55bd7b2d0ab039e5cbd2822caf75362][^key-8db4b12de91eaca59034347131164485][^key-964e95c168b615c1027c9f43d835a26d][^key-083d26278f89cf771f99e57f240344af]
+### Part XIV — Disciplinary Measures[^c1709462][^c-382ee182f5efcfdf21efeffe306039b7][^c-a55bd7b2d0ab039e5cbd2822caf75362][^c-8db4b12de91eaca59034347131164485][^c-964e95c168b615c1027c9f43d835a26d][^c-083d26278f89cf771f99e57f240344af]
 
 *Extent: E+W+S+N.I.*
 
@@ -1659,13 +1659,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 217ZA — Insurers subject to write-down orders](part-xv/section-217za.md)
 - [Section 217ZB — Recovery of financial assistance under section 217ZA](part-xv/section-217zb.md)
 
-#### Relationship with the regulators[^key-9125f98ab94f25364b20dd2ca48c7a5e]
+#### Relationship with the regulators[^c-9125f98ab94f25364b20dd2ca48c7a5e]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 217A — Co-operation](part-xv/section-217a.md)
 
-#### Annual plan and report[^key-80f398cdb10ccf030b510c5cd3547c1d]
+#### Annual plan and report[^c-80f398cdb10ccf030b510c5cd3547c1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -1714,7 +1714,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 224F — Rules about relevant schemes](part-15a/section-224f.md)
 
-### Part XVI — The Ombudsman Scheme[^c2080373][^c2081044][^key-604263f9bf9906cb8b24577d7a5bbae1][^key-8d1dd84aab9b48b3687a3a62cb6e21a7][^key-29960c9e14efb0ac8cdb71a892be2d90]
+### Part XVI — The Ombudsman Scheme[^c2080373][^c2081044][^c-604263f9bf9906cb8b24577d7a5bbae1][^c-8d1dd84aab9b48b3687a3a62cb6e21a7][^c-29960c9e14efb0ac8cdb71a892be2d90]
 
 *Extent: E+W+S+N.I.*
 
@@ -1752,17 +1752,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 234 — Industry funding.](part-xvi/section-234.md)
 - [Section 234A — Funding by consumer credit licensees etc.](part-xvi/section-234a.md)
 
-#### Successors to businesses[^key-793a0431db3a2240032552d264043234]
+#### Successors to businesses[^c-793a0431db3a2240032552d264043234]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 234B — Transfers of liability](part-xvi/section-234b.md)
 
-### PART 16A — Consumer protection and competition[^key-3a7c4f4d0ed9d918d9f02ae5d27550d7]
+### PART 16A — Consumer protection and competition[^c-3a7c4f4d0ed9d918d9f02ae5d27550d7]
 
 *Extent: E+W+S+N.I.*
 
-#### Super-complaints and references to FCA[^key-3a7c4f4d0ed9d918d9f02ae5d27550d7]
+#### Super-complaints and references to FCA[^c-3a7c4f4d0ed9d918d9f02ae5d27550d7]
 
 - [Section 234C — Complaints by consumer bodies](part-16a/section-234c.md)
 - [Section 234D — Reference by scheme operator or regulated person](part-16a/section-234d.md)
@@ -1770,7 +1770,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 234F — Section 234E: exceptions](part-16a/section-234f.md)
 - [Section 234G — Guidance](part-16a/section-234g.md)
 
-#### Competition[^key-3a7c4f4d0ed9d918d9f02ae5d27550d7]
+#### Competition[^c-3a7c4f4d0ed9d918d9f02ae5d27550d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -1783,7 +1783,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 234N — Exclusion of general duties](part-16a/section-234n.md)
 - [Section 234O — Supplementary provision](part-16a/section-234o.md)
 
-### Part XVII — Collective Investment Schemes[^key-1261358abf3b8c33e4557fbeee8e1424]
+### Part XVII — Collective Investment Schemes[^c-1261358abf3b8c33e4557fbeee8e1424]
 
 *Extent: E+W+S+N.I.*
 
@@ -1806,7 +1806,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 240 — Restriction on approval of promotion.](part-xvii/section-240.md)
 - [Section 241 — Actions for damages.](part-xvii/section-241.md)
 
-#### CHAPTER 2A — PROHIBITION ON ISSUE OF BEARER UNITS[^key-91be7e0f212419082087d5a09c0be83b]
+#### CHAPTER 2A — PROHIBITION ON ISSUE OF BEARER UNITS[^c-91be7e0f212419082087d5a09c0be83b]
 
 - [Section 241A — Bearer units no longer to be issued](part-xvii/section-241a.md)
 
@@ -1871,9 +1871,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 261A — Information for home state regulator](part-xvii/section-261a.md)
 - [Section 261B — Information for feeder UCITS](part-xvii/section-261b.md)
 
-#### CHAPTER 3A — AUTHORISED CONTRACTUAL SCHEMES[^key-a633e90c680abea1208a9855c68fc2f4]
+#### CHAPTER 3A — AUTHORISED CONTRACTUAL SCHEMES[^c-a633e90c680abea1208a9855c68fc2f4]
 
-##### Applications for authorisation[^key-a633e90c680abea1208a9855c68fc2f4]
+##### Applications for authorisation[^c-a633e90c680abea1208a9855c68fc2f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -1883,45 +1883,45 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 261EA — Authorisation orders: authorised money market funds](part-xvii/section-261ea.md)
 - [Section 261F — Determination of applications](part-xvii/section-261f.md)
 
-##### Applications refused[^key-a633e90c680abea1208a9855c68fc2f4]
+##### Applications refused[^c-a633e90c680abea1208a9855c68fc2f4]
 
 - [Section 261G — Procedure when refusing an application](part-xvii/section-261g.md)
 
-##### Certificates[^key-a633e90c680abea1208a9855c68fc2f4]
+##### Certificates[^c-a633e90c680abea1208a9855c68fc2f4]
 
 - [Section 261H — Certificates](part-xvii/section-261h.md)
 
-##### Rules[^key-a633e90c680abea1208a9855c68fc2f4]
+##### Rules[^c-a633e90c680abea1208a9855c68fc2f4]
 
 - [Section 261I — Contractual scheme rules](part-xvii/section-261i.md)
 - [Section 261J — Contractual scheme particulars rules](part-xvii/section-261j.md)
 - [Section 261K — Disciplinary measures](part-xvii/section-261k.md)
 - [Section 261L — Modification or waiver of rules](part-xvii/section-261l.md)
 
-##### Co-ownership schemes: rights and liabilities of participants[^key-a633e90c680abea1208a9855c68fc2f4]
+##### Co-ownership schemes: rights and liabilities of participants[^c-a633e90c680abea1208a9855c68fc2f4]
 
 - [Section 261M — Contracts](part-xvii/section-261m.md)
 - [Section 261N — Effect of becoming or ceasing to be a participant](part-xvii/section-261n.md)
 - [Section 261O — Limited liability](part-xvii/section-261o.md)
 - [Section 261P — Segregated liability in relation to umbrella co-ownership schemes](part-xvii/section-261p.md)
 
-##### Alterations[^key-a633e90c680abea1208a9855c68fc2f4]
+##### Alterations[^c-a633e90c680abea1208a9855c68fc2f4]
 
 - [Section 261Q — Alteration of contractual schemes and changes of operator or depositary](part-xvii/section-261q.md)
 - [Section 261R — Procedure when refusing approval of a proposal under section 261Q](part-xvii/section-261r.md)
 - [Section 261S — Proposal to convert to a non-feeder UCITS](part-xvii/section-261s.md)
 
-##### Exclusion clauses[^key-a633e90c680abea1208a9855c68fc2f4]
+##### Exclusion clauses[^c-a633e90c680abea1208a9855c68fc2f4]
 
 - [Section 261T — Avoidance of exclusion clauses](part-xvii/section-261t.md)
 
-##### Ending of authorisation[^key-a633e90c680abea1208a9855c68fc2f4]
+##### Ending of authorisation[^c-a633e90c680abea1208a9855c68fc2f4]
 
 - [Section 261U — Revocation of authorisation order otherwise than by consent](part-xvii/section-261u.md)
 - [Section 261V — Procedure for revoking authorisation order](part-xvii/section-261v.md)
 - [Section 261W — Requests for revocation of authorisation order](part-xvii/section-261w.md)
 
-##### Powers of intervention[^key-a633e90c680abea1208a9855c68fc2f4]
+##### Powers of intervention[^c-a633e90c680abea1208a9855c68fc2f4]
 
 - [Section 261X — Directions](part-xvii/section-261x.md)
 - [Section 261Y — Applications to the court](part-xvii/section-261y.md)
@@ -1932,7 +1932,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 261Z4 — Information for home state regulator](part-xvii/section-261z4.md)
 - [Section 261Z5 — Information for feeder UCITS](part-xvii/section-261z5.md)
 
-#### CHAPTER 3B — Unauthorised co-ownership AIFs[^key-ed924db09d5d7e04e32aa2a070474308]
+#### CHAPTER 3B — Unauthorised co-ownership AIFs[^c-ed924db09d5d7e04e32aa2a070474308]
 
 - [Section 261Z6 — Power to make provision about unauthorised co-ownership AIFs](part-xvii/section-261z6.md)
 
@@ -1943,7 +1943,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 262 — Open-ended investment companies.](part-xvii/section-262.md)
 - [Section 263 — Amendment of section 716 Companies Act 1985.](part-xvii/section-263.md)
 
-#### Chapter V — Recognised Overseas Schemes[^key-1261358abf3b8c33e4557fbeee8e1424]
+#### Chapter V — Recognised Overseas Schemes[^c-1261358abf3b8c33e4557fbeee8e1424]
 
 *Extent: E+W+S+N.I.*
 
@@ -1958,14 +1958,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 268 — Procedure on giving directions under section 267 and varying them on FCA's own initiative.](part-xvii/section-268.md)
 - [Section 269 — Procedure on application for variation or revocation of direction.](part-xvii/section-269.md)
 
-##### ...[^key-c6726501ad94d1f45dc0536a778ab486]
+##### ...[^c-c6726501ad94d1f45dc0536a778ab486]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 270 — Schemes authorised in designated countries or territories.](part-xvii/section-270.md)
 - [Section 271 — Procedure.](part-xvii/section-271.md)
 
-##### Schemes authorised in approved countries[^key-25992651a59835f6044c574ac05fd8cf]
+##### Schemes authorised in approved countries[^c-25992651a59835f6044c574ac05fd8cf]
 
 - [Section 271A — Schemes authorised in approved countries](part-xvii/section-271a.md)
 - [Section 271B — Approval of country: equivalent protection afforded to participants](part-xvii/section-271b.md)
@@ -1999,7 +1999,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 277 — Alteration of schemes and changes of operator, trustee or depositary.](part-xvii/section-277.md)
 - [Section 277A — Regular provision of information relating to compliance with requirements for recognition](part-xvii/section-277a.md)
 
-##### ...[^key-4de9d77d5a5d0f31c78465a104bbdb3b]
+##### ...[^c-4de9d77d5a5d0f31c78465a104bbdb3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -2029,11 +2029,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 284 — Power to investigate.](part-xvii/section-284.md)
 
-### PART 17A — Transformer Vehicles[^key-54fbbb52a18d7fc05aebffb8592a4a54]
+### PART 17A — Transformer Vehicles[^c-54fbbb52a18d7fc05aebffb8592a4a54]
 
 - [Section 284A — Transformer vehicles](part-17a/section-284a.md)
 
-### Part XVIII — Recognised investment exchanges, clearing houses , CSDs and other parties[^c2124731][^key-3f53960bd15e06617b50ddc14d4dfdad][^key-e20c090c133fe6369a1fa2d921226024]
+### Part XVIII — Recognised investment exchanges, clearing houses , CSDs and other parties[^c2124731][^c-3f53960bd15e06617b50ddc14d4dfdad][^c-e20c090c133fe6369a1fa2d921226024]
 
 *Extent: E+W+S+N.I.*
 
@@ -2095,13 +2095,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 300D — Consideration by appropriate regulator whether to disallow proposed provision](part-xviii/section-300d.md)
 - [Section 300E — Power to disallow excessive regulatory provision: supplementary](part-xviii/section-300e.md)
 
-##### General rule-making powers[^key-445febb945fb0c587ab3a0117029731b]
+##### General rule-making powers[^c-445febb945fb0c587ab3a0117029731b]
 
 - [Section 300F — Rules relating to central counterparties and central securities depositories](part-xviii/section-300f.md)
 - [Section 300G — Section 300F: rules in relation to overseas FMI entities](part-xviii/section-300g.md)
 - [Section 300H — Rules relating to investment exchanges and data reporting service providers](part-xviii/section-300h.md)
 
-##### Bank of England rules[^key-c6a2b6df945e8b4a4957d1c5c0a02500]
+##### Bank of England rules[^c-c6a2b6df945e8b4a4957d1c5c0a02500]
 
 - [Section 300I — Duty of Bank of England to review rules](part-xviii/section-300i.md)
 - [Section 300J — Statement of policy relating to review of rules](part-xviii/section-300j.md)
@@ -2177,13 +2177,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 309 — Statements by the Treasury.](part-xviii/section-309.md)
 - [Section 310 — Procedure on exercise of certain powers by the Treasury.](part-xviii/section-310.md)
 
-#### CHAPTER 2A — Performance of functions of recognised bodies[^key-ece2c29fab1c3cdde545c7b7f425c28f]
+#### CHAPTER 2A — Performance of functions of recognised bodies[^c-ece2c29fab1c3cdde545c7b7f425c28f]
 
-##### Relevant recognised bodies[^key-ece2c29fab1c3cdde545c7b7f425c28f]
+##### Relevant recognised bodies[^c-ece2c29fab1c3cdde545c7b7f425c28f]
 
 - [Section 309A — Recognised bodies to which this Chapter applies](part-xviii/section-309a.md)
 
-##### Prohibition[^key-ece2c29fab1c3cdde545c7b7f425c28f]
+##### Prohibition[^c-ece2c29fab1c3cdde545c7b7f425c28f]
 
 - [Section 309B — Part 18 prohibition orders](part-xviii/section-309b.md)
 - [Section 309C — Procedure for making Part 18 prohibition orders](part-xviii/section-309c.md)
@@ -2191,7 +2191,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 309E — Offence of breaching prohibition](part-xviii/section-309e.md)
 - [Section 309F — Duty in relation to prohibited individuals](part-xviii/section-309f.md)
 
-##### Approval[^key-ece2c29fab1c3cdde545c7b7f425c28f]
+##### Approval[^c-ece2c29fab1c3cdde545c7b7f425c28f]
 
 - [Section 309G — Requirement for approval](part-xviii/section-309g.md)
 - [Section 309H — Rules under section 309G(3): transitional provision](part-xviii/section-309h.md)
@@ -2212,16 +2212,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 309W — Statement of policy on penalties](part-xviii/section-309w.md)
 - [Section 309X — Procedure for statement of policy on penalties](part-xviii/section-309x.md)
 
-##### Certification of employees[^key-ece2c29fab1c3cdde545c7b7f425c28f]
+##### Certification of employees[^c-ece2c29fab1c3cdde545c7b7f425c28f]
 
 - [Section 309Y — Certification of employees by relevant recognised bodies](part-xviii/section-309y.md)
 - [Section 309Z — Issuing certificates](part-xviii/section-309z.md)
 
-##### Rules of conduct[^key-ece2c29fab1c3cdde545c7b7f425c28f]
+##### Rules of conduct[^c-ece2c29fab1c3cdde545c7b7f425c28f]
 
 - [Section 309Z1 — Rules of conduct](part-xviii/section-309z1.md)
 
-##### Disciplinary action by appropriate regulator[^key-ece2c29fab1c3cdde545c7b7f425c28f]
+##### Disciplinary action by appropriate regulator[^c-ece2c29fab1c3cdde545c7b7f425c28f]
 
 - [Section 309Z2 — Power to take disciplinary action for misconduct](part-xviii/section-309z2.md)
 - [Section 309Z3 — Meaning of “misconduct”](part-xviii/section-309z3.md)
@@ -2229,11 +2229,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 309Z5 — Statement of policy about disciplinary action](part-xviii/section-309z5.md)
 - [Section 309Z6 — Procedure for statement of policy about disciplinary action](part-xviii/section-309z6.md)
 
-##### Interpretation[^key-ece2c29fab1c3cdde545c7b7f425c28f]
+##### Interpretation[^c-ece2c29fab1c3cdde545c7b7f425c28f]
 
 - [Section 309Z7 — Interpretation of Chapter 2A](part-xviii/section-309z7.md)
 
-##### Application of this Chapter to credit rating agencies[^key-ece2c29fab1c3cdde545c7b7f425c28f]
+##### Application of this Chapter to credit rating agencies[^c-ece2c29fab1c3cdde545c7b7f425c28f]
 
 - [Section 309Z8 — Power to apply this Chapter to credit rating agencies](part-xviii/section-309z8.md)
 
@@ -2244,7 +2244,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 311 — The Chapter I prohibition.](part-xviii/section-311.md)
 - [Section 312 — The Chapter II prohibition.](part-xviii/section-312.md)
 
-#### CHAPTER 3A — PASSPORT RIGHTS[^key-7b6d2284191737daa68a651f0f502b90]
+#### CHAPTER 3A — PASSPORT RIGHTS[^c-7b6d2284191737daa68a651f0f502b90]
 
 *Extent: E+W+S+N.I.*
 
@@ -2269,7 +2269,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 312D — Interpretation of Chapter 3A](part-xviii/section-312d.md)
 
-#### CHAPTER 3B — Disciplinary measures in respect of recognised bodies[^key-fa4379193daabc86e89c7f8ed34bb8ad][^key-3f5a063e1904b6fb607dc9e417256987][^key-9011c9bf6e22711b633989798022d9c9]
+#### CHAPTER 3B — Disciplinary measures in respect of recognised bodies[^c-fa4379193daabc86e89c7f8ed34bb8ad][^c-3f5a063e1904b6fb607dc9e417256987][^c-9011c9bf6e22711b633989798022d9c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -2282,7 +2282,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 312J — Statement of policy](part-xviii/section-312j.md)
 - [Section 312K — Statement of policy: procedure](part-xviii/section-312k.md)
 
-#### CHAPTER 3C — Critical third parties[^key-324dd5e825c1cf2b2115d54b810555ac]
+#### CHAPTER 3C — Critical third parties[^c-324dd5e825c1cf2b2115d54b810555ac]
 
 - [Section 312L — Critical third parties](part-xviii/section-312l.md)
 - [Section 312M — Power to make rules](part-xviii/section-312m.md)
@@ -2303,7 +2303,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 313 — Interpretation of Part XVIII.](part-xviii/section-313.md)
 
-### Part 18A — SUSPENSION AND REMOVAL OF FINANCIAL INSTRUMENTS FROM TRADING[^key-8ca8673f0b2e12770e450c40185d8d26][^c2077965]
+### Part 18A — SUSPENSION AND REMOVAL OF FINANCIAL INSTRUMENTS FROM TRADING[^c-8ca8673f0b2e12770e450c40185d8d26][^c2077965]
 
 *Extent: E+W+S+N.I.*
 
@@ -2373,7 +2373,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 332 — Rules in relation to persons to whom the general prohibition does not apply.](part-xx/section-332.md)
 - [Section 333 — False claims to be a person to whom the general prohibition does not apply.](part-xx/section-333.md)
 
-### PART 20A — PENSIONS GUIDANCE[^key-bb01b8719dde33fca021fc6101fe14e6]
+### PART 20A — PENSIONS GUIDANCE[^c-bb01b8719dde33fca021fc6101fe14e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -2381,7 +2381,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 333A — Introduction and definitions](part-20a/section-333a.md)
 
-#### Giving of pensions guidance[^key-bb01b8719dde33fca021fc6101fe14e6]
+#### Giving of pensions guidance[^c-bb01b8719dde33fca021fc6101fe14e6]
 
 **No longer in force.**
 
@@ -2389,25 +2389,25 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 333C — Giving of pensions guidance](part-20a/section-333c.md)
 - [Section 333D — Financial assistance to bodies involved in giving pensions guidance](part-20a/section-333d.md)
 
-#### Designation of guidance providers[^key-bb01b8719dde33fca021fc6101fe14e6]
+#### Designation of guidance providers[^c-bb01b8719dde33fca021fc6101fe14e6]
 
 **No longer in force.**
 
 - [Section 333E — Designation of providers of pensions guidance](part-20a/section-333e.md)
 
-#### Co-operation and information sharing[^key-bb01b8719dde33fca021fc6101fe14e6]
+#### Co-operation and information sharing[^c-bb01b8719dde33fca021fc6101fe14e6]
 
 **No longer in force.**
 
 - [Section 333F — Co-operation and information sharing](part-20a/section-333f.md)
 
-#### False claims when giving pensions guidance[^key-bb01b8719dde33fca021fc6101fe14e6]
+#### False claims when giving pensions guidance[^c-bb01b8719dde33fca021fc6101fe14e6]
 
 **No longer in force.**
 
 - [Section 333G — Offence of falsely claiming to be giving pensions guidance under arrangements made with Secretary of State](part-20a/section-333g.md)
 
-#### Standards for giving of pensions guidance by designated guidance providers[^key-bb01b8719dde33fca021fc6101fe14e6]
+#### Standards for giving of pensions guidance by designated guidance providers[^c-bb01b8719dde33fca021fc6101fe14e6]
 
 **No longer in force.**
 
@@ -2419,21 +2419,21 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 333M — Failure by designated guidance providers to comply with standards: ... directions](part-20a/section-333m.md)
 - [Section 333N — Directions to designated guidance providers under section 333M: relationship with power to revoke a designation](part-20a/section-333n.md)
 
-#### FCA's duties and power to give guidance[^key-bb01b8719dde33fca021fc6101fe14e6]
+#### FCA's duties and power to give guidance[^c-bb01b8719dde33fca021fc6101fe14e6]
 
 **No longer in force.**
 
 - [Section 333O — FCA's duties](part-20a/section-333o.md)
 - [Section 333P — Power of the FCA to give guidance](part-20a/section-333p.md)
 
-#### Funding of pensions guidance[^key-bb01b8719dde33fca021fc6101fe14e6]
+#### Funding of pensions guidance[^c-bb01b8719dde33fca021fc6101fe14e6]
 
 **No longer in force.**
 
 - [Section 333Q — Funding of FCA's pensions guidance costs](part-20a/section-333q.md)
 - [Section 333R — Funding of Secretary of State’s pensions guidance costs](part-20a/section-333r.md)
 
-### PART 20B — Illegal Money Lending[^key-8e0c8441769702c3a6785fb588ee58ec]
+### PART 20B — Illegal Money Lending[^c-8e0c8441769702c3a6785fb588ee58ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -2464,7 +2464,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S+N.I.*
 
-#### General duties of regulator[^key-e831a928746164b9d91df9a19f1ff644][^key-a924acd4bd20269966c8363805e1ab05]
+#### General duties of regulator[^c-e831a928746164b9d91df9a19f1ff644][^c-a924acd4bd20269966c8363805e1ab05]
 
 *Extent: E+W+S+N.I.*
 
@@ -2487,7 +2487,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 343 — Information given by auditor or actuary to a regulator: persons with close links.](part-xxii/section-343.md)
 - [Section 344 — Duty of auditor or actuary resigning etc. to give notice.](part-xxii/section-344.md)
 
-#### Disciplinary measures[^key-00fa7d40fdc4a3f86d459fd353c60259]
+#### Disciplinary measures[^c-00fa7d40fdc4a3f86d459fd353c60259]
 
 *Extent: E+W+S+N.I.*
 
@@ -2525,7 +2525,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 352 — Offences.](part-xxiii/section-352.md)
 - [Section 353 — Removal of other restrictions on disclosure.](part-xxiii/section-353.md)
 
-#### Information received from Bank of England[^key-abe6fc72b84f2c289f2cbd16bf3e6cb7]
+#### Information received from Bank of England[^c-abe6fc72b84f2c289f2cbd16bf3e6cb7]
 
 - [Section 353A — Information received from Bank of England](part-xxiii/section-353a.md)
 
@@ -2546,7 +2546,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 354G — Information under the UCITS directive](part-xxiii/section-354g.md)
 - [Section 354H — Information under the Insurance Distribution Directive](part-xxiii/section-354h.md)
 
-### Part XXIV — Insolvency[^key-610bb42a9d98b6eb83f86a751eec7b9d][^key-3ca2936c5b784102cd914b4d4c83b3b5][^key-a1ea1bb62be9b99ef949a13016cc7495]
+### Part XXIV — Insolvency[^c-610bb42a9d98b6eb83f86a751eec7b9d][^c-3ca2936c5b784102cd914b4d4c83b3b5][^c-a1ea1bb62be9b99ef949a13016cc7495]
 
 *Extent: E+W+S+N.I.*
 
@@ -2554,7 +2554,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 355 — Interpretation of this Part.](part-xxiv/section-355.md)
 
-#### Arrangements and reconstructions: companies in financial difficulty[^key-5fe5bb330be89aaad84db1eb96e6bd54]
+#### Arrangements and reconstructions: companies in financial difficulty[^c-5fe5bb330be89aaad84db1eb96e6bd54]
 
 *Extent: E+W+S+N.I.*
 
@@ -2630,11 +2630,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 378 — Treatment of assets on winding up.](part-xxiv/section-378.md)
 - [Section 379 — Winding-up rules.](part-xxiv/section-379.md)
 
-#### Settlement finality[^key-b81d0fc8fb194115f45a756cbe388cb4]
+#### Settlement finality[^c-b81d0fc8fb194115f45a756cbe388cb4]
 
 - [Section 379A — Power to apply settlement finality regime to payment institutions](part-xxiv/section-379a.md)
 
-### Part XXV — Injunctions and Restitution[^c1709682][^key-0529eba7b933c8fcefd68865caf1972c][^key-b306f4c1df6035197bfd6edfe2277da7][^key-6f3640d4b16291637a9be4d06c5baa98][^key-bf5e1fb0b389f1ea96d1fd9290319e9c][^key-ec87a74f9b0797d22d23ecc9ae0631b4][^key-af676d23ad8b9c9341c2011616ed134e][^key-f00ea1c267f5437c2261871b6bea6617][^key-e459734233cf7ceebf359d64a0ad5a73][^key-cf332e7483bafab75eb4d21bb680b3d8][^key-c0feda63612be175750e3cdc70726dcf]
+### Part XXV — Injunctions and Restitution[^c1709682][^c-0529eba7b933c8fcefd68865caf1972c][^c-b306f4c1df6035197bfd6edfe2277da7][^c-6f3640d4b16291637a9be4d06c5baa98][^c-bf5e1fb0b389f1ea96d1fd9290319e9c][^c-ec87a74f9b0797d22d23ecc9ae0631b4][^c-af676d23ad8b9c9341c2011616ed134e][^c-f00ea1c267f5437c2261871b6bea6617][^c-e459734233cf7ceebf359d64a0ad5a73][^c-cf332e7483bafab75eb4d21bb680b3d8][^c-c0feda63612be175750e3cdc70726dcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -2652,7 +2652,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 382 — Restitution orders.](part-xxv/section-382.md)
 - [Section 383 — Restitution orders in cases of market abuse.](part-xxv/section-383.md)
 
-#### Restitution required by FCA or PRA[^key-23bf5b0d28dbca45c3750c9d4782fcc1]
+#### Restitution required by FCA or PRA[^c-23bf5b0d28dbca45c3750c9d4782fcc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -2660,7 +2660,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 385 — Warning notices.](part-xxv/section-385.md)
 - [Section 386 — Decision notices.](part-xxv/section-386.md)
 
-### Part XXVI — Notices[^c1709698][^c2076516][^c2077036][^c2077135][^c2077428][^c2078134][^key-129aea3995592f5ec1a8d31d95e38037][^key-c879ccd29431a2f73863ea99e6506085][^key-314e55c5c1aeaf741f3033ac7230f945][^key-c43d5977199343fe97ca13478558c9a7][^key-369cdb66e9503f41196974a3a5495798][^key-1fa0fd429e678522b4b38f753b65a491][^key-f21fd1bc69cd9b8d8cef26c0c092b9e2][^key-33b456ccb00f7be39b3aa94eef503ced][^key-508426a6df1bc457dd775fc0623ff6a4][^key-22079497bf41e61ca716cc3afeeac3a4][^key-2f73238c6fa00d9ddcc9a2c2a4bdb2c3][^key-f33b9f682d0a773e3e350cd460557a8c][^key-b9b0cccca45b602746224897044c7dd4][^key-ab85ff4dc3d96802284f69eb92b521d2][^key-8a71d5c8f62fb152187d5685bdb82f84][^key-bf3a1e5fae6d3731f87644b8cf20460f][^key-f1e49da15e8ee180792b8f6f5c05dc95][^key-bc1a8bf9e1160afc9c5e8c82cbf2e9f0][^key-cca6b3a6f02cba00a85fdb25ca12ea68][^key-598c907acf74e6eb6e6bef0b44a58a71][^key-603f12b2df08c9fd255ff4bca6860ddd][^key-7eb97470a1459a3f288c83e83a55a3ab][^key-7604e3b7eb55bc682c712573a8e69b66][^key-e9ae19f0d00ae0f48fd435227fce0e18][^key-446110d33f0e5b84b0df7bf0f4be59df][^key-293767e57ae89e16518ceca388dac808][^key-c5259238537c0efcb7317dbaaf03a32b][^key-19d40001422c7c4018860e09a7a06898][^key-46e22ddd9bd72fa4544be3588a0158fc][^key-0125f8dc2df5d0a7efc0b4c9c3621904]
+### Part XXVI — Notices[^c1709698][^c2076516][^c2077036][^c2077135][^c2077428][^c2078134][^c-129aea3995592f5ec1a8d31d95e38037][^c-c879ccd29431a2f73863ea99e6506085][^c-314e55c5c1aeaf741f3033ac7230f945][^c-c43d5977199343fe97ca13478558c9a7][^c-369cdb66e9503f41196974a3a5495798][^c-1fa0fd429e678522b4b38f753b65a491][^c-f21fd1bc69cd9b8d8cef26c0c092b9e2][^c-33b456ccb00f7be39b3aa94eef503ced][^c-508426a6df1bc457dd775fc0623ff6a4][^c-22079497bf41e61ca716cc3afeeac3a4][^c-2f73238c6fa00d9ddcc9a2c2a4bdb2c3][^c-f33b9f682d0a773e3e350cd460557a8c][^c-b9b0cccca45b602746224897044c7dd4][^c-ab85ff4dc3d96802284f69eb92b521d2][^c-8a71d5c8f62fb152187d5685bdb82f84][^c-bf3a1e5fae6d3731f87644b8cf20460f][^c-f1e49da15e8ee180792b8f6f5c05dc95][^c-bc1a8bf9e1160afc9c5e8c82cbf2e9f0][^c-cca6b3a6f02cba00a85fdb25ca12ea68][^c-598c907acf74e6eb6e6bef0b44a58a71][^c-603f12b2df08c9fd255ff4bca6860ddd][^c-7eb97470a1459a3f288c83e83a55a3ab][^c-7604e3b7eb55bc682c712573a8e69b66][^c-e9ae19f0d00ae0f48fd435227fce0e18][^c-446110d33f0e5b84b0df7bf0f4be59df][^c-293767e57ae89e16518ceca388dac808][^c-c5259238537c0efcb7317dbaaf03a32b][^c-19d40001422c7c4018860e09a7a06898][^c-46e22ddd9bd72fa4544be3588a0158fc][^c-0125f8dc2df5d0a7efc0b4c9c3621904]
 
 *Extent: E+W+S+N.I.*
 
@@ -2697,14 +2697,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 393 — Third party rights.](part-xxvi/section-393.md)
 - [Section 394 — Access to FCA or PRA material.](part-xxvi/section-394.md)
 
-#### The FCA's and PRA's procedures[^key-d061c01a69cf48eca0845bbe0bebff86]
+#### The FCA's and PRA's procedures[^c-d061c01a69cf48eca0845bbe0bebff86]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 395 — The FCA's and PRA's procedures.](part-xxvi/section-395.md)
 - [Section 396 — Statements under section 395: consultation.](part-xxvi/section-396.md)
 
-### Part XXVII — Offences[^key-f27ea322e6f3eccf38d6952f370ae745][^key-c646dcf7d340dd84bebbb8250d8c9f47][^key-8696800328cdb10db7a1f54eaa9d2782][^key-1f949bbfc09751accb07f77f00ef122d][^key-c8dfa39a8b2d4861ebd3ab6bd8a349ee][^key-f5fc5bad12ba0a3038c4378cd4ca0898][^key-cb7996d996f5ea669b13ee232aac28be][^key-f2beae1a79435a1ec54d7ceff083e39f][^key-f876f136721887d7d46f78906efaf3d6]
+### Part XXVII — Offences[^c-f27ea322e6f3eccf38d6952f370ae745][^c-c646dcf7d340dd84bebbb8250d8c9f47][^c-8696800328cdb10db7a1f54eaa9d2782][^c-1f949bbfc09751accb07f77f00ef122d][^c-c8dfa39a8b2d4861ebd3ab6bd8a349ee][^c-f5fc5bad12ba0a3038c4378cd4ca0898][^c-cb7996d996f5ea669b13ee232aac28be][^c-f2beae1a79435a1ec54d7ceff083e39f][^c-f876f136721887d7d46f78906efaf3d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -2755,7 +2755,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 408 — EFTA firms.](part-xxviii/section-408.md)
 - [Section 409 — Gibraltar.](part-xxviii/section-409.md)
 
-#### International powers and obligations[^key-b9dd52bed304804ec6075432c361c3a1]
+#### International powers and obligations[^c-b9dd52bed304804ec6075432c361c3a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -2763,7 +2763,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 409B — Notification in relation to international trade obligations](part-xxviii/section-409b.md)
 - [Section 410 — International obligations.](part-xxviii/section-410.md)
 
-#### Fees to meet Treasury expenses[^key-a364d5b9f338e1e1be94798c9c17fec1]
+#### Fees to meet Treasury expenses[^c-a364d5b9f338e1e1be94798c9c17fec1]
 
 *Extent: E+W+S+N.I.*
 
@@ -2795,12 +2795,12 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 415 — Jurisdiction in civil proceedings.](part-xxviii/section-415.md)
 
-#### Powers under the Act[^c2077312][^key-8252bedbb7d598a4cadeee35589909dc]
+#### Powers under the Act[^c2077312][^c-8252bedbb7d598a4cadeee35589909dc]
 
 - [Section 415A — Powers under the Act](part-xxviii/section-415a.md)
 - [Section 415AA — Application of powers to formerly authorised persons](part-xxviii/section-415aa.md)
 
-#### Consultation and co-operation[^key-3fe21ef34ca8611c234b12bfedd995be][^key-7ca9764ad6afbaa9dac342bd92e5c20f]
+#### Consultation and co-operation[^c-3fe21ef34ca8611c234b12bfedd995be][^c-7ca9764ad6afbaa9dac342bd92e5c20f]
 
 - [Section 415B — Consultation in relation to taking certain enforcement action](part-xxviii/section-415b.md)
 - [Section 415C — Co-operation and consultation in relation to exercise of functions](part-xxviii/section-415c.md)
@@ -2809,7 +2809,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 416 — Provisions relating to industrial assurance and certain other enactments.](part-xxviii/section-416.md)
 
-#### Sustainability disclosure requirements[^key-cd858b6b93a04bc1f33eb387e389a50d]
+#### Sustainability disclosure requirements[^c-cd858b6b93a04bc1f33eb387e389a50d]
 
 - [Section 416A — SDR policy statement](part-xxviii/section-416a.md)
 - [Section 416B — FCA and PRA rules etc](part-xxviii/section-416b.md)
@@ -2934,139 +2934,139 @@ SCHEDULES
 
 [^c2073824]: Modification: Act modified (1.7.2009 for certain purposes and 30.6.2010 otherwise) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [34](https://www.legislation.gov.uk/uksi/2009/1342/article/34), [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2009/1342/schedule/paragraph/4), [5](https://www.legislation.gov.uk/uksi/2009/1342/schedule/paragraph/5)
 
-[^key-2c35e4aa14234e386de1b22038c54b90]: Modification: Act excluded (27.3.2012 for specified purposes) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 134(5)](https://www.legislation.gov.uk/ukpga/2012/7/section/134/5), [306(1)(d)(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
+[^c-2c35e4aa14234e386de1b22038c54b90]: Modification: Act excluded (27.3.2012 for specified purposes) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 134(5)](https://www.legislation.gov.uk/ukpga/2012/7/section/134/5), [306(1)(d)(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-0bbbb77b9ab438ae0eecd235cda40eac]: Modification: Act excluded by 2008 c. 10, s. 8(1A) (as inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 14(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/14/a))
+[^c-0bbbb77b9ab438ae0eecd235cda40eac]: Modification: Act excluded by 2008 c. 10, s. 8(1A) (as inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 14(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/14/a))
 
-[^key-e5b5a4e62bc8f9d44e1e78e3bbf8219b]: Modification: Act modified by 1990 c. 41, s. 107(17) (as inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/2/3/b))
+[^c-e5b5a4e62bc8f9d44e1e78e3bbf8219b]: Modification: Act modified by 1990 c. 41, s. 107(17) (as inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/2/3/b))
 
-[^key-9edc5a688d5e6de75780df4633d70282]: Modification: Act applied (with modifications) (temp. until 3.1.2018) by S.I. 2011/2699, reg. 6, Sch. 1 (as substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2016/680/regulation/21/3))
+[^c-9edc5a688d5e6de75780df4633d70282]: Modification: Act applied (with modifications) (temp. until 3.1.2018) by S.I. 2011/2699, reg. 6, Sch. 1 (as substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2016/680/regulation/21/3))
 
-[^key-d680ece4a54e33a5ec9834a65622f373]: Modification: Act applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 15(4)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/15/4) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-d680ece4a54e33a5ec9834a65622f373]: Modification: Act applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 15(4)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/15/4) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
-[^key-02609d733b83963600734b8577aff6fb]: Modification: Act applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 16(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/16/3) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-02609d733b83963600734b8577aff6fb]: Modification: Act applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 16(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/16/3) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
-[^key-e4e0526cc6d03a881bb3dadb9c476b4c]: Modification: Act modified (E.W.S.) (10.7.2018) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 31](https://www.legislation.gov.uk/ukpga/2018/10/section/31)
+[^c-e4e0526cc6d03a881bb3dadb9c476b4c]: Modification: Act modified (E.W.S.) (10.7.2018) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 31](https://www.legislation.gov.uk/ukpga/2018/10/section/31)
 
-[^key-fe42c63f7f6d2b9e30b4f8b49294d769]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/8): power to amend conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/67/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ss)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ss)
+[^c-fe42c63f7f6d2b9e30b4f8b49294d769]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/8): power to amend conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/67/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ss)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ss)
 
-[^key-cff5dc2b7bb34f2b151648dd77be7d07]: Modification: Act: power to amend or repeal conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 15](https://www.legislation.gov.uk/ukpga/2023/29/section/15), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(j)(l)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/j/l)
+[^c-cff5dc2b7bb34f2b151648dd77be7d07]: Modification: Act: power to amend or repeal conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 15](https://www.legislation.gov.uk/ukpga/2023/29/section/15), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(j)(l)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/j/l)
 
-[^key-c5ca51895955addbd0f3aaadacce4f6e]: Modification: Act: power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
+[^c-c5ca51895955addbd0f3aaadacce4f6e]: Modification: Act: power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
 
-[^key-da693ee743b7eeb5a6fcf9621dce1a5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/8): power to modify conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 13](https://www.legislation.gov.uk/ukpga/2023/29/section/13), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/h)[(l)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/l)
+[^c-da693ee743b7eeb5a6fcf9621dce1a5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/8): power to modify conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 13](https://www.legislation.gov.uk/ukpga/2023/29/section/13), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/h)[(l)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/l)
 
-[^key-452c210e4a985c321ce92a5bd074f832]: Modification: Act modified (temp.) (8.1.2024) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) Regulations 2023 (S.I. 2023/1398)](https://www.legislation.gov.uk/uksi/2023/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1398/regulation/6), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1398/schedule/part/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2023/1398/regulation/13)) (as amended (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2025/93/regulation/6/1))
+[^c-452c210e4a985c321ce92a5bd074f832]: Modification: Act modified (temp.) (8.1.2024) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) Regulations 2023 (S.I. 2023/1398)](https://www.legislation.gov.uk/uksi/2023/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1398/regulation/6), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1398/schedule/part/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2023/1398/regulation/13)) (as amended (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2025/93/regulation/6/1))
 
-[^key-e6355b20392e621b486a093ff025afda]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/8) applied (with modifications) (30.6.2024) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023 (S.I. 2023/1347)](https://www.legislation.gov.uk/uksi/2023/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2023/1347/regulation/8)
+[^c-e6355b20392e621b486a093ff025afda]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/8) applied (with modifications) (30.6.2024) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023 (S.I. 2023/1347)](https://www.legislation.gov.uk/uksi/2023/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2023/1347/regulation/8)
 
-[^key-7ad2322896bae706dc8a0afd27db8b8c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/8) applied (with modifications) (temp.) (5.6.2025) by [The Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025 (S.I. 2025/583)](https://www.legislation.gov.uk/uksi/2025/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/583/regulation/12), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/583/schedule/1/paragraph/1) (with [reg. 20](https://www.legislation.gov.uk/uksi/2025/583/regulation/20))
+[^c-7ad2322896bae706dc8a0afd27db8b8c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/8) applied (with modifications) (temp.) (5.6.2025) by [The Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025 (S.I. 2025/583)](https://www.legislation.gov.uk/uksi/2025/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/583/regulation/12), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/583/schedule/1/paragraph/1) (with [reg. 20](https://www.legislation.gov.uk/uksi/2025/583/regulation/20))
 
-[^key-c31c761d0c26454cd4395d9133b422c0]: Modification: Act: power to apply (with modifications) conferred (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 33(2)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/33/2/b), [133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b) (with [s. 35](https://www.legislation.gov.uk/ukpga/2026/22/section/35))
+[^c-c31c761d0c26454cd4395d9133b422c0]: Modification: Act: power to apply (with modifications) conferred (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 33(2)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/33/2/b), [133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b) (with [s. 35](https://www.legislation.gov.uk/ukpga/2026/22/section/35))
 
-[^key-213c415ae170f27ccc3cbe5ebbb68cce]: Textual amendment: Pt. 1A substituted for Pt. 1 (24.1.2013 for specified purposes, 19.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/6/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), [4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-213c415ae170f27ccc3cbe5ebbb68cce]: Textual amendment: Pt. 1A substituted for Pt. 1 (24.1.2013 for specified purposes, 19.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/6/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), [4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-0f9d598ffd7c9e6f0ced20ad1c05f0e9]: Textual amendment: [S. 1IA](https://www.legislation.gov.uk/ukpga/2000/8/section/1IA) and cross-heading inserted (1.1.2019) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 2](https://www.legislation.gov.uk/ukpga/2013/33/section/2), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/b)
+[^c-0f9d598ffd7c9e6f0ced20ad1c05f0e9]: Textual amendment: [S. 1IA](https://www.legislation.gov.uk/ukpga/2000/8/section/1IA) and cross-heading inserted (1.1.2019) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 2](https://www.legislation.gov.uk/ukpga/2013/33/section/2), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/b)
 
-[^key-3f724d703bd5bd36774c999b4ac86de0]: Textual amendment: S. 1JA and cross-heading inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 19](https://www.legislation.gov.uk/ukpga/2016/14/section/19), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(n)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/n)
+[^c-3f724d703bd5bd36774c999b4ac86de0]: Textual amendment: S. 1JA and cross-heading inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 19](https://www.legislation.gov.uk/ukpga/2016/14/section/19), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(n)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/n)
 
-[^key-759d9d17d9578e47e4e1f1c9d3d722f4]: Textual amendment: [S. 1RB](https://www.legislation.gov.uk/ukpga/2000/8/section/1RB) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2023/29/section/36/1), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(z)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/z)
+[^c-759d9d17d9578e47e4e1f1c9d3d722f4]: Textual amendment: [S. 1RB](https://www.legislation.gov.uk/ukpga/2000/8/section/1RB) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2023/29/section/36/1), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(z)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/z)
 
-[^key-2a01d5592c42c94665291aaffe2ab78e]: Textual amendment: [S. 2NB](https://www.legislation.gov.uk/ukpga/2000/8/section/2NB) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/36/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3) (with savings in [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 4](https://www.legislation.gov.uk/uksi/2023/936/regulation/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(z)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/z)
+[^c-2a01d5592c42c94665291aaffe2ab78e]: Textual amendment: [S. 2NB](https://www.legislation.gov.uk/ukpga/2000/8/section/2NB) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/36/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3) (with savings in [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 4](https://www.legislation.gov.uk/uksi/2023/936/regulation/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(z)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/z)
 
-[^key-24a197ee929d042fbbdd185dfd199378]: Textual amendment: [Ss. 3RA-3RD](https://www.legislation.gov.uk/ukpga/2000/8/section/3RA) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/29/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(t)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/t)
+[^c-24a197ee929d042fbbdd185dfd199378]: Textual amendment: [Ss. 3RA-3RD](https://www.legislation.gov.uk/ukpga/2000/8/section/3RA) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/29/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(t)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/t)
 
-[^key-4f59898aacce442b581cb94cd25adffd]: Textual amendment: S. 3T and cross-heading inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(i)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/i)
+[^c-4f59898aacce442b581cb94cd25adffd]: Textual amendment: S. 3T and cross-heading inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(i)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/i)
 
-[^key-b03507c0a7312de4f2bd96a84be18317]: Textual amendment: Pt. 4A substituted for ss. 40-55 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/2), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-b03507c0a7312de4f2bd96a84be18317]: Textual amendment: Pt. 4A substituted for ss. 40-55 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/2), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-2f24d6ecbfdb497ec2b868d9faae36fc]: Textual amendment: Ss. 54A, 54B and cross-heading inserted (16.4.2012) by [The Financial Services (Omnibus 1 Directive) Regulations 2012 (S.I. 2012/916)](https://www.legislation.gov.uk/uksi/2012/916), [regs. 1](https://www.legislation.gov.uk/uksi/2012/916/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/916/regulation/2/2)
+[^c-2f24d6ecbfdb497ec2b868d9faae36fc]: Textual amendment: Ss. 54A, 54B and cross-heading inserted (16.4.2012) by [The Financial Services (Omnibus 1 Directive) Regulations 2012 (S.I. 2012/916)](https://www.legislation.gov.uk/uksi/2012/916), [regs. 1](https://www.legislation.gov.uk/uksi/2012/916/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/916/regulation/2/2)
 
-[^key-458f07f97c52abbc75f4da1d8faac7ad]: Modification: Pt. 4A excluded by S.I. 1998/1870, reg. 14(2)(c) (as substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 22(5)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/22/5/b))
+[^c-458f07f97c52abbc75f4da1d8faac7ad]: Modification: Pt. 4A excluded by S.I. 1998/1870, reg. 14(2)(c) (as substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 22(5)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/22/5/b))
 
-[^key-77a3d4d2f3e4722cb966b230167fb61f]: Modification: Pt. 4A modified (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [31(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/31/6)
+[^c-77a3d4d2f3e4722cb966b230167fb61f]: Modification: Pt. 4A modified (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [31(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/31/6)
 
 [^M_C_a030a099-d002-4a7a-ad1f-ab1354936a3a]: Modification: Pt. 4A modified (7.11.2018) by The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149), regs. 1(2), 5-7 (with regs. 4, 8-19) (as amended (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), regs. 1, 6(2))
 
-[^key-ce3846e94c00c2b5de5093368c06ab2c]: Modification: Pt. 4A modified by S.I. 2018/1149, reg. 43 (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/405/regulation/2))
+[^c-ce3846e94c00c2b5de5093368c06ab2c]: Modification: Pt. 4A modified by S.I. 2018/1149, reg. 43 (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/405/regulation/2))
 
 [^c1709214]: Modification: Pt. 5 modified (1.12.2001) by [S.I. 2001/3592](https://www.legislation.gov.uk/uksi/2001/3592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2), [114(3)(a)](https://www.legislation.gov.uk/uksi/2001/3592/article/114/3/a), [128(3)(a)](https://www.legislation.gov.uk/uksi/2001/3592/article/128/3/a) (with [art. 23(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/23/2))
 
-[^key-0bbc03188a08e8ec51bc65a2886281f6]: Modification: Pt. 5 modified (7.11.2018) by [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2018/1149/regulation/23) (with [regs. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4), [22](https://www.legislation.gov.uk/uksi/2018/1149/regulation/22), [26(1)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/26/1)[(2)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/26/2)) (as amended (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2))
+[^c-0bbc03188a08e8ec51bc65a2886281f6]: Modification: Pt. 5 modified (7.11.2018) by [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2018/1149/regulation/23) (with [regs. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4), [22](https://www.legislation.gov.uk/uksi/2018/1149/regulation/22), [26(1)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/26/1)[(2)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/26/2)) (as amended (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2))
 
-[^key-eda52a5f85298c935f4f5b8c78dcdf33]: Modification: Pt. 5 modified by S.I. 2018/1149, reg. 69 (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/405/regulation/4))
+[^c-eda52a5f85298c935f4f5b8c78dcdf33]: Modification: Pt. 5 modified by S.I. 2018/1149, reg. 69 (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/405/regulation/4))
 
 [^c2077905]: Textual amendment: Ss. 63A-63D and preceding cross-heading inserted (8.6.2010) by [Financial Services Act 2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), [ss. 11](https://www.legislation.gov.uk/ukpga/2010/28/section/11), [26(2)(b)](https://www.legislation.gov.uk/ukpga/2010/28/section/26/2/b)
 
-[^key-deb2d2fd8c7e2919e06e69498557312d]: Textual amendment: Ss. 63E, 63F inserted (25.7.2014 for specified purposes, 7.3.2016 for the insertion of s. 63F otherwise, 7.3.2017 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 29](https://www.legislation.gov.uk/ukpga/2013/33/section/29), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/b); [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2015/490/article/2/2) (with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
+[^c-deb2d2fd8c7e2919e06e69498557312d]: Textual amendment: Ss. 63E, 63F inserted (25.7.2014 for specified purposes, 7.3.2016 for the insertion of s. 63F otherwise, 7.3.2017 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 29](https://www.legislation.gov.uk/ukpga/2013/33/section/29), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/b); [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2015/490/article/2/2) (with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
 
-[^key-6116a686d2639d40d636fd6a4a45be89]: Textual amendment: Ss. 64, 65 and cross-heading omitted (25.7.2014 for specified purposes, 7.3.2016 in so far as not already in force) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/30/2), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/c); [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/b) (as amended by [S.I. 2015/2055](https://www.legislation.gov.uk/uksi/2015/2055), art. 2(2) and with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
+[^c-6116a686d2639d40d636fd6a4a45be89]: Textual amendment: Ss. 64, 65 and cross-heading omitted (25.7.2014 for specified purposes, 7.3.2016 in so far as not already in force) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/30/2), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/c); [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/b) (as amended by [S.I. 2015/2055](https://www.legislation.gov.uk/uksi/2015/2055), art. 2(2) and with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
 
-[^key-577d50c0cb794975e90a3eb452c6035f]: Textual amendment: Ss. 64A, 64B and cross-heading inserted (25.7.2014 for specified purposes, 7.3.2016 for specified purposes) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 30(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/30/3), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/c); [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/d) (as inserted by [S.I. 2015/2055](https://www.legislation.gov.uk/uksi/2015/2055), art. 2(4) and with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
+[^c-577d50c0cb794975e90a3eb452c6035f]: Textual amendment: Ss. 64A, 64B and cross-heading inserted (25.7.2014 for specified purposes, 7.3.2016 for specified purposes) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 30(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/30/3), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/c); [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/d) (as inserted by [S.I. 2015/2055](https://www.legislation.gov.uk/uksi/2015/2055), art. 2(4) and with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
 
-[^key-3dea3c90a9472d94c59389a41fa3422d]: Textual amendment: S. 71A and cross-heading inserted (25.7.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 33](https://www.legislation.gov.uk/ukpga/2013/33/section/33), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/d)
+[^c-3dea3c90a9472d94c59389a41fa3422d]: Textual amendment: S. 71A and cross-heading inserted (25.7.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 33](https://www.legislation.gov.uk/ukpga/2013/33/section/33), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/d)
 
-[^key-e9ccb3f825f099ec67a5a5f18082ae8d]: Textual amendment: Ss. 71B-71I and cross-heading inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [32](https://www.legislation.gov.uk/uksi/2016/1239/article/32)
+[^c-e9ccb3f825f099ec67a5a5f18082ae8d]: Textual amendment: Ss. 71B-71I and cross-heading inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [32](https://www.legislation.gov.uk/uksi/2016/1239/article/32)
 
-[^key-0b37bb1bfd301e02d8c8df3c7e213886]: Textual amendment: Pt. 5A inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/8/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/e)
+[^c-0b37bb1bfd301e02d8c8df3c7e213886]: Textual amendment: Pt. 5A inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/8/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/e)
 
-[^key-b5350a25a9f2b73182ddcbfadde97a44]: Textual amendment: Pt. 5A Ch. 1 heading inserted (14.1.2025) by [The Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 (S.I. 2025/22)](https://www.legislation.gov.uk/uksi/2025/22), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/22/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2025/22/schedule/paragraph/2)
+[^c-b5350a25a9f2b73182ddcbfadde97a44]: Textual amendment: Pt. 5A Ch. 1 heading inserted (14.1.2025) by [The Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 (S.I. 2025/22)](https://www.legislation.gov.uk/uksi/2025/22), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/22/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2025/22/schedule/paragraph/2)
 
-[^key-2175f3032e84c642e79a415782bc91ad]: Textual amendment: Pt. 5A Ch. 2 inserted (14.1.2025) by [The Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 (S.I. 2025/22)](https://www.legislation.gov.uk/uksi/2025/22), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/22/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2025/22/schedule/paragraph/3)
+[^c-2175f3032e84c642e79a415782bc91ad]: Textual amendment: Pt. 5A Ch. 2 inserted (14.1.2025) by [The Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 (S.I. 2025/22)](https://www.legislation.gov.uk/uksi/2025/22), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/22/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2025/22/schedule/paragraph/3)
 
 [^c1709248]: Modification: Pt. 6 (ss. 72-103) applied (with modifications) (1.12.2001) by [S.I. 1995/1537](https://www.legislation.gov.uk/uksi/1995/1537), [Sch. 4](https://www.legislation.gov.uk/uksi/1995/1537/schedule/4) (as amended (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [511](https://www.legislation.gov.uk/uksi/2001/3649/article/511))
 
-[^key-967a80b2785ab656c0938eb196e8e131]: Modification: Pt. 6 modified (31.12.2020) by [The Official Listing of Securities, Prospectus and Transparency (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/707)](https://www.legislation.gov.uk/uksi/2019/707), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/707/regulation/1/2), [73](https://www.legislation.gov.uk/uksi/2019/707/regulation/73) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/1234/regulation/23) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/3), [29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-967a80b2785ab656c0938eb196e8e131]: Modification: Pt. 6 modified (31.12.2020) by [The Official Listing of Securities, Prospectus and Transparency (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/707)](https://www.legislation.gov.uk/uksi/2019/707), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/707/regulation/1/2), [73](https://www.legislation.gov.uk/uksi/2019/707/regulation/73) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/1234/regulation/23) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/3), [29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-434e2887d2476bf9d9690396a81ff091]: Textual amendment: S. 72 and cross-heading omitted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 16(14)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/14/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-434e2887d2476bf9d9690396a81ff091]: Textual amendment: S. 72 and cross-heading omitted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 16(14)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/14/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-c76012ebf16cc8cbd905409d652854bd]: Textual amendment: S. 73A crossheading inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 16(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/4), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c76012ebf16cc8cbd905409d652854bd]: Textual amendment: S. 73A crossheading inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 16(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/4), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-6f4b9b4fa2953a1c0ff188e3576aed7d]: Textual amendment: [S. 84 cross-heading](https://www.legislation.gov.uk/ukpga/2000/8/part/VI/crossheading/prospectuses) substituted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2024/105/schedule/3/paragraph/4) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))
+[^c-6f4b9b4fa2953a1c0ff188e3576aed7d]: Textual amendment: [S. 84 cross-heading](https://www.legislation.gov.uk/ukpga/2000/8/part/VI/crossheading/prospectuses) substituted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2024/105/schedule/3/paragraph/4) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))
 
 [^c2075607]: Textual amendment: Ss. 84-87R and cross-headings substituted for ss. 84-87 (1.7.2005) by [The Prospectus Regulations 2005 (S.I. 2005/1433)](https://www.legislation.gov.uk/uksi/2005/1433), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1433/regulation/2/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/1433/schedule/1/paragraph/5)
 
-[^key-35e9979e6586f7194e4934742ed8b853]: Textual amendment: S. 87FA and cross-heading inserted (17.12.2014) by [The Payments to Governments and Miscellaneous Provisions Regulations 2014 (S.I. 2014/3293)](https://www.legislation.gov.uk/uksi/2014/3293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3293/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2014/3293/regulation/3/1)
+[^c-35e9979e6586f7194e4934742ed8b853]: Textual amendment: S. 87FA and cross-heading inserted (17.12.2014) by [The Payments to Governments and Miscellaneous Provisions Regulations 2014 (S.I. 2014/3293)](https://www.legislation.gov.uk/uksi/2014/3293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3293/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2014/3293/regulation/3/1)
 
-[^key-d3a1c2415a87e7755a67c5c9cd124d60]: Textual amendment: Words in ss. 87J-87O and cross-heading substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(e)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/e), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-d3a1c2415a87e7755a67c5c9cd124d60]: Textual amendment: Words in ss. 87J-87O and cross-heading substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(e)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/e), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c2076380]: Textual amendment: Ss. 89A-89G and cross-heading inserted (8.11.2006) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1266(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1266/1), [1300(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/1/a) (with [s. 1266(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1266/2))
 
 [^c2076386]: Textual amendment: Ss. 89H-89J and cross-heading inserted (8.11.2006) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1267](https://www.legislation.gov.uk/ukpga/2006/46/section/1267), [1300(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/1/a)
 
-[^key-9927ca5530fa26b483ba2aa61ac1396f]: Textual amendment: Words in ss. 89A-97 substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(g)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/g), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9927ca5530fa26b483ba2aa61ac1396f]: Textual amendment: Words in ss. 89A-97 substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(g)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/g), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c2076389]: Textual amendment: Ss. 89K-89N and cross-heading inserted (8.11.2006) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1268](https://www.legislation.gov.uk/ukpga/2006/46/section/1268), [1300(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/1/a)
 
 [^c2076393]: Textual amendment: S. 89O and cross-heading inserted (8.11.2006) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1269](https://www.legislation.gov.uk/ukpga/2006/46/section/1269), [1300(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/1/a)
 
-[^key-35e29e729315b2655146aede15026cb7]: Textual amendment: Ss. 89P-89V inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 19(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/19/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-35e29e729315b2655146aede15026cb7]: Textual amendment: Ss. 89P-89V inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 19(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/19/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c2076422]: Textual amendment: S. 90 cross-heading substituted (8.11.2006) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1272](https://www.legislation.gov.uk/ukpga/2006/46/section/1272), [1300(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/1/a), [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2006/46/schedule/15/paragraph/4)
 
 [^c2075993]: Textual amendment: Ss. 102A-103 substituted for s. 103 (1.7.2005) by [The Prospectus Regulations 2005 (S.I. 2005/1433)](https://www.legislation.gov.uk/uksi/2005/1433), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1433/regulation/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2005/1433/schedule/1/paragraph/11)
 
-[^key-2c4cde6f0aedc37760add8016d02056e]: Modification: [Pt. 7](https://www.legislation.gov.uk/ukpga/2000/8/part/7): power to amend conferred (1.9.2023) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 22(8)(a)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/8/a), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5); [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/c)
+[^c-2c4cde6f0aedc37760add8016d02056e]: Modification: [Pt. 7](https://www.legislation.gov.uk/ukpga/2000/8/part/7): power to amend conferred (1.9.2023) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 22(8)(a)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/8/a), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5); [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/c)
 
-[^key-acad4d00c0669c167e0aa25529827af5]: Textual amendment: Pt. 7A inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2026/22/section/49/2), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(e)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/e)
+[^c-acad4d00c0669c167e0aa25529827af5]: Textual amendment: Pt. 7A inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2026/22/section/49/2), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(e)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/e)
 
-[^key-cf7592050f4832795c8252130750189a]: Modification: Pt. 8 applied (with modifications) (18.6.2012) by [The Recognised Auction Platforms Regulations 2011 (S.I. 2011/2699)](https://www.legislation.gov.uk/uksi/2011/2699), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/2/b), [6](https://www.legislation.gov.uk/uksi/2011/2699/regulation/6), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2699/schedule/1) (as amended (3.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/b), [9](https://www.legislation.gov.uk/uksi/2017/1255/regulation/9))
+[^c-cf7592050f4832795c8252130750189a]: Modification: Pt. 8 applied (with modifications) (18.6.2012) by [The Recognised Auction Platforms Regulations 2011 (S.I. 2011/2699)](https://www.legislation.gov.uk/uksi/2011/2699), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/2/b), [6](https://www.legislation.gov.uk/uksi/2011/2699/regulation/6), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2699/schedule/1) (as amended (3.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/b), [9](https://www.legislation.gov.uk/uksi/2017/1255/regulation/9))
 
-[^key-23ca893f5bb28c8830a8477f38411cfd]: Textual amendment: Pt. 8 heading substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/2)
+[^c-23ca893f5bb28c8830a8477f38411cfd]: Textual amendment: Pt. 8 heading substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/2)
 
-[^key-bc97dddedb2e2fdc1649a982dd8b17ea]: Textual amendment: Ss. 118-122 and cross-headings omitted (3.7.2016) by virtue of [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/3)
+[^c-bc97dddedb2e2fdc1649a982dd8b17ea]: Textual amendment: Ss. 118-122 and cross-headings omitted (3.7.2016) by virtue of [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/3)
 
-[^key-6fd0432ab398d8bfa3958d489ec58a52]: Textual amendment: Ss. 122A-122I and cross-headings inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/4)
+[^c-6fd0432ab398d8bfa3958d489ec58a52]: Textual amendment: Ss. 122A-122I and cross-headings inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/4)
 
-[^key-c896184dfa6bee8c57153acdb689ff02]: Textual amendment: Ss. 123-123C and cross-heading substituted for s. 123 and cross-heading (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/5)
+[^c-c896184dfa6bee8c57153acdb689ff02]: Textual amendment: Ss. 123-123C and cross-heading substituted for s. 123 and cross-heading (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/5)
 
-[^key-0594248248884fd56e22e5156c1f51c8]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/ukpga/2000/8/part/8A) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/1/2) (with [reg. 27](https://www.legislation.gov.uk/uksi/2025/29/regulation/27)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
+[^c-0594248248884fd56e22e5156c1f51c8]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/ukpga/2000/8/part/8A) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/1/2) (with [reg. 27](https://www.legislation.gov.uk/uksi/2025/29/regulation/27)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
 
-[^key-ebbd6e69975b3beb1a69093b45801309]: Textual amendment: Ss. 131FA-131FC inserted (1.11.2012) by [The Financial Services and Markets Act 2000 (Short Selling) Regulations 2012 (S.I. 2012/2554)](https://www.legislation.gov.uk/uksi/2012/2554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2554/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/2554/regulation/2/5)
+[^c-ebbd6e69975b3beb1a69093b45801309]: Textual amendment: Ss. 131FA-131FC inserted (1.11.2012) by [The Financial Services and Markets Act 2000 (Short Selling) Regulations 2012 (S.I. 2012/2554)](https://www.legislation.gov.uk/uksi/2012/2554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2554/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/2554/regulation/2/5)
 
 [^M_F_4a19da9f-e925-4239-c907-7c752ab21cb3]: Textual amendment: Word in cross-heading preceding s. 131G substituted (1.11.2012) by [The Financial Services and Markets Act 2000 (Short Selling) Regulations 2012 (S.I. 2012/2554)](https://www.legislation.gov.uk/uksi/2012/2554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2554/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2012/2554/regulation/2/7)
 
-[^key-fc4ab12a6f7e8c559f905cdc2c6661c9]: Textual amendment: [Pt. 8B](https://www.legislation.gov.uk/ukpga/2000/8/part/8B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/1)
+[^c-fc4ab12a6f7e8c559f905cdc2c6661c9]: Textual amendment: [Pt. 8B](https://www.legislation.gov.uk/ukpga/2000/8/part/8B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/1)
 
 [^c1709309]: Modification: Pt. 9 applied (17.8.2001 for certain purposes otherwise 1.12.2001) by [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53), [s. 46A(7)](https://www.legislation.gov.uk/ukpga/1986/53/section/46A/7) (as substituted (17.8.2001 for certain purposes otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. II para. 148](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/II/paragraph/148) (with [art. 13(1) Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1/schedule/5))); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
@@ -3096,119 +3096,119 @@ SCHEDULES
 
 [^c2079310]: Modification: Pt. 9 applied (with modifications) (9.2.2011 for certain purposes and 30.4.2011 otherwise) by [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [regs. 1(2)(a)(xiv)(b)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2/a/xiv/b), [62](https://www.legislation.gov.uk/uksi/2011/99/regulation/62), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/99/schedule/3/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3)) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 196(5)(b)(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/196/5/b))
 
-[^key-0742ec5dbd1207244bf53b81155fcc4b]: Modification: Pt. 9 applied (with modifications) (15.1.2013) by [The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 (S.I. 2012/3122)](https://www.legislation.gov.uk/uksi/2012/3122), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3122/regulation/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/7) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(b)(p)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/b))
+[^c-0742ec5dbd1207244bf53b81155fcc4b]: Modification: Pt. 9 applied (with modifications) (15.1.2013) by [The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 (S.I. 2012/3122)](https://www.legislation.gov.uk/uksi/2012/3122), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3122/regulation/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/7) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(b)(p)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/b))
 
-[^key-e38baa5938b9a1df6e87f46dea7f64cc]: Modification: Pt. 9 applied (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [58](https://www.legislation.gov.uk/uksi/2013/504/regulation/58) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+[^c-e38baa5938b9a1df6e87f46dea7f64cc]: Modification: Pt. 9 applied (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [58](https://www.legislation.gov.uk/uksi/2013/504/regulation/58) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
 
-[^key-3cbf00504e057280cbedae1a207aaf38]: Modification: Pt. 9 applied (with modifications) (E.W.) (9.7.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 (S.I. 2013/1635)](https://www.legislation.gov.uk/uksi/2013/1635), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1), [31(1)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/31/1) (as amended (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(8)](https://www.legislation.gov.uk/uksi/2016/163/article/6/8))
+[^c-3cbf00504e057280cbedae1a207aaf38]: Modification: Pt. 9 applied (with modifications) (E.W.) (9.7.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 (S.I. 2013/1635)](https://www.legislation.gov.uk/uksi/2013/1635), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1), [31(1)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/31/1) (as amended (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(8)](https://www.legislation.gov.uk/uksi/2016/163/article/6/8))
 
-[^key-16f24ef4b4266785e2ba0c215b81060e]: Modification: Pt. 9 applied (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [70(1)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/70/1)
+[^c-16f24ef4b4266785e2ba0c215b81060e]: Modification: Pt. 9 applied (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [70(1)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/70/1)
 
-[^key-97104f970d6bfdeb0b1a68a0b9ca42d3]: Modification: Pt. 9 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/4)
+[^c-97104f970d6bfdeb0b1a68a0b9ca42d3]: Modification: Pt. 9 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/4)
 
-[^key-ccf8906e93efe3e97212b403c1c5bc15]: Modification: Pt. 9 applied (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2013/3115/regulation/42) (with [reg. 44](https://www.legislation.gov.uk/uksi/2013/3115/regulation/44))
+[^c-ccf8906e93efe3e97212b403c1c5bc15]: Modification: Pt. 9 applied (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2013/3115/regulation/42) (with [reg. 44](https://www.legislation.gov.uk/uksi/2013/3115/regulation/44))
 
-[^key-eb66102a4e07e46a02f335ea7692911e]: Modification: Pt. 9 applied (21.11.2014) by [The Central Securities Depositories Regulations 2014 (S.I. 2014/2879)](https://www.legislation.gov.uk/uksi/2014/2879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/1/1), [5(12)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/5/12)
+[^c-eb66102a4e07e46a02f335ea7692911e]: Modification: Pt. 9 applied (21.11.2014) by [The Central Securities Depositories Regulations 2014 (S.I. 2014/2879)](https://www.legislation.gov.uk/uksi/2014/2879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/1/1), [5(12)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/5/12)
 
-[^key-b35428636dde0b0779b1def777a7cce9]: Modification: Pt. 9 applied (with modifications) (12.12.2014) by [The Immigration Act 2014 (Bank Accounts) Regulations 2014 (S.I. 2014/3085)](https://www.legislation.gov.uk/uksi/2014/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1), [30](https://www.legislation.gov.uk/uksi/2014/3085/regulation/30)
+[^c-b35428636dde0b0779b1def777a7cce9]: Modification: Pt. 9 applied (with modifications) (12.12.2014) by [The Immigration Act 2014 (Bank Accounts) Regulations 2014 (S.I. 2014/3085)](https://www.legislation.gov.uk/uksi/2014/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1), [30](https://www.legislation.gov.uk/uksi/2014/3085/regulation/30)
 
-[^key-0eef88a8430b1b6b58cea2caf4516a38]: Modification: Pt. 9 modified (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [67(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/67/2)
+[^c-0eef88a8430b1b6b58cea2caf4516a38]: Modification: Pt. 9 modified (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [67(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/67/2)
 
-[^key-5b4ea641ba44ec69172330efa6d26357]: Modification: Pt. 9 applied (31.3.2015) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/3), [56(2)](https://www.legislation.gov.uk/uksi/2015/575/section/56/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/4))
+[^c-5b4ea641ba44ec69172330efa6d26357]: Modification: Pt. 9 applied (31.3.2015) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/3), [56(2)](https://www.legislation.gov.uk/uksi/2015/575/section/56/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/4))
 
-[^key-6159aabd4ef4eeb9f84f66e88645ac72]: Modification: Pt. 9 applied (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [24(1)](https://www.legislation.gov.uk/uksi/2015/910/article/24/1) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-6159aabd4ef4eeb9f84f66e88645ac72]: Modification: Pt. 9 applied (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [24(1)](https://www.legislation.gov.uk/uksi/2015/910/article/24/1) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-bac508694ce14a65461c20a4b0656e05]: Modification: Pt. 9 applied (1.1.2016) by [The Capital Requirements (Capital Buffers and Macro-prudential Measures) Regulations 2014 (S.I. 2014/894)](https://www.legislation.gov.uk/uksi/2014/894), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/894/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2014/894/regulation/4)
+[^c-bac508694ce14a65461c20a4b0656e05]: Modification: Pt. 9 applied (1.1.2016) by [The Capital Requirements (Capital Buffers and Macro-prudential Measures) Regulations 2014 (S.I. 2014/894)](https://www.legislation.gov.uk/uksi/2014/894), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/894/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2014/894/regulation/4)
 
-[^key-d66a2a10654eeeefbb9bc1b444370cd2]: Modification: Pt. 9 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2015/1945/regulation/46)
+[^c-d66a2a10654eeeefbb9bc1b444370cd2]: Modification: Pt. 9 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2015/1945/regulation/46)
 
-[^key-8dace81431a702ed29c6efd94939c028]: Modification: Pt. 9 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Finance Platforms) Regulations 2015 (S.I. 2015/1946)](https://www.legislation.gov.uk/uksi/2015/1946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2015/1946/regulation/43)
+[^c-8dace81431a702ed29c6efd94939c028]: Modification: Pt. 9 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Finance Platforms) Regulations 2015 (S.I. 2015/1946)](https://www.legislation.gov.uk/uksi/2015/1946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2015/1946/regulation/43)
 
-[^key-5e399d3bc3a38ccdc6b38d1f6090b8ef]: Modification: Pt. 9 applied (with modifications) (13.7.2016) by [The Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016 (S.I. 2016/715)](https://www.legislation.gov.uk/uksi/2016/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2016/715/regulation/22)
+[^c-5e399d3bc3a38ccdc6b38d1f6090b8ef]: Modification: Pt. 9 applied (with modifications) (13.7.2016) by [The Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016 (S.I. 2016/715)](https://www.legislation.gov.uk/uksi/2016/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2016/715/regulation/22)
 
-[^key-362d464a506164d40f7ea00b25fa4eff]: Modification: Pt. 9 applied (with modifications) (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [93(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/93/2)[(3)](https://www.legislation.gov.uk/uksi/2017/692/regulation/93/3) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-362d464a506164d40f7ea00b25fa4eff]: Modification: Pt. 9 applied (with modifications) (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [93(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/93/2)[(3)](https://www.legislation.gov.uk/uksi/2017/692/regulation/93/3) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
-[^key-74c1b9808e1c13ebce3b9a6bc27860e4]: Modification: Pt. 9 applied (with modifications) (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 1 para. 18(1)](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/18/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+[^c-74c1b9808e1c13ebce3b9a6bc27860e4]: Modification: Pt. 9 applied (with modifications) (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 1 para. 18(1)](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/18/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
 
-[^key-cfa63202eb3241f9246618227a753dbd]: Modification: Pt. 9 applied (with modifications) (13.10.2017) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/c), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-cfa63202eb3241f9246618227a753dbd]: Modification: Pt. 9 applied (with modifications) (13.10.2017) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/c), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-d865c738fc4719ba803d41203c48dc3e]: Modification: Pt. 9 applied (with modifications) by S.I. 2014/2879, reg. 5C(12) (as inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/9) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1)))
+[^c-d865c738fc4719ba803d41203c48dc3e]: Modification: Pt. 9 applied (with modifications) by S.I. 2014/2879, reg. 5C(12) (as inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/9) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1)))
 
-[^key-2368620b1d7126fa2620fed6e827f0d9]: Modification: Pt. 9 applied by S.I. 2014/2879, reg. 5I(8) (as inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/9) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1)))
+[^c-2368620b1d7126fa2620fed6e827f0d9]: Modification: Pt. 9 applied by S.I. 2014/2879, reg. 5I(8) (as inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/9) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1)))
 
-[^key-beb5316b243049f5ce1d1ebdd4498265]: Modification: Pt. 9 applied by S.I. 2014/2879, reg. 5L(3) (as inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/9) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1)))
+[^c-beb5316b243049f5ce1d1ebdd4498265]: Modification: Pt. 9 applied by S.I. 2014/2879, reg. 5L(3) (as inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/9) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1)))
 
-[^key-edae2e9e3b96b96668c11bef6f74ad75]: Modification: Pt. 9 applied by S.I. 2014/2879, reg. 5H(6) (as inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/9) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1)))
+[^c-edae2e9e3b96b96668c11bef6f74ad75]: Modification: Pt. 9 applied by S.I. 2014/2879, reg. 5H(6) (as inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/9) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1)))
 
-[^key-728c50d2a8a6cff43bb9760a4e76fb6c]: Modification: Pt. 9 applied (with modifications) (1.1.2018) by [The Packaged Retail and Insurance-based Investment Products Regulations 2017 (S.I. 2017/1127)](https://www.legislation.gov.uk/uksi/2017/1127), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1127/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/1127/schedule/1/paragraph/1)
+[^c-728c50d2a8a6cff43bb9760a4e76fb6c]: Modification: Pt. 9 applied (with modifications) (1.1.2018) by [The Packaged Retail and Insurance-based Investment Products Regulations 2017 (S.I. 2017/1127)](https://www.legislation.gov.uk/uksi/2017/1127), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1127/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/1127/schedule/1/paragraph/1)
 
-[^key-2506622be8b49cb2d23466eb9c050fbb]: Modification: Pt. 9 applied (with modifications) (3.1.2018) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [32](https://www.legislation.gov.uk/uksi/2017/699/regulation/32)
+[^c-2506622be8b49cb2d23466eb9c050fbb]: Modification: Pt. 9 applied (with modifications) (3.1.2018) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [32](https://www.legislation.gov.uk/uksi/2017/699/regulation/32)
 
-[^key-4f3cbf6efe75129cf1a03e96162228c5]: Modification: Pt. 9 applied (with modifications) (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2018/135/regulation/18)
+[^c-4f3cbf6efe75129cf1a03e96162228c5]: Modification: Pt. 9 applied (with modifications) (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2018/135/regulation/18)
 
-[^key-dd16244bded20f744720106625caa917]: Modification: Pt. 9 applied (with modifications) (1.1.2019) by [The Securitisation Regulations 2018 (S.I. 2018/1288)](https://www.legislation.gov.uk/uksi/2018/1288), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1288/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/2) (with [Sch. 1 paras. 13](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/14))
+[^c-dd16244bded20f744720106625caa917]: Modification: Pt. 9 applied (with modifications) (1.1.2019) by [The Securitisation Regulations 2018 (S.I. 2018/1288)](https://www.legislation.gov.uk/uksi/2018/1288), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1288/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/2) (with [Sch. 1 paras. 13](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/14))
 
-[^key-01d5bee8b8b3488a0ee73817847fd086]: Modification: Pt. 9 applied by S.I. 2018/1201, Sch. 3 para. 12J(5) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/2))
+[^c-01d5bee8b8b3488a0ee73817847fd086]: Modification: Pt. 9 applied by S.I. 2018/1201, Sch. 3 para. 12J(5) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/2))
 
-[^key-53d87e1de64e2a8f0b5b854809d248f3]: Modification: Pt. 9 applied by S.I. 2018/1149, reg. 57 (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/405/regulation/3))
+[^c-53d87e1de64e2a8f0b5b854809d248f3]: Modification: Pt. 9 applied by S.I. 2018/1149, reg. 57 (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/405/regulation/3))
 
-[^key-cd55866c124ca52663892eddaac5130a]: Modification: Pt. 9 applied (with modifications) by S.I. 2018/1201, reg. 13H (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/405/regulation/11))
+[^c-cd55866c124ca52663892eddaac5130a]: Modification: Pt. 9 applied (with modifications) by S.I. 2018/1201, reg. 13H (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/405/regulation/11))
 
-[^key-a367f1347f88a7258bcfd92fce272d5e]: Modification: Pt. 9 applied by S.I. 2018/1201, reg. 34(5) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/3))
+[^c-a367f1347f88a7258bcfd92fce272d5e]: Modification: Pt. 9 applied by S.I. 2018/1201, reg. 34(5) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/3))
 
-[^key-b8c97830a8a6c82d4099b092270f3a92]: Modification: Pt. 9 applied (with modifications) (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2020/1385/regulation/18)
+[^c-b8c97830a8a6c82d4099b092270f3a92]: Modification: Pt. 9 applied (with modifications) (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2020/1385/regulation/18)
 
-[^key-8a92d8d8d482e6b2b7b424bdc0afbc9e]: Modification: Pt. 9 applied (with modifications) (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [73](https://www.legislation.gov.uk/uksi/2019/335/regulation/73) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a92d8d8d482e6b2b7b424bdc0afbc9e]: Modification: Pt. 9 applied (with modifications) (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [73](https://www.legislation.gov.uk/uksi/2019/335/regulation/73) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9a7fae0b7dbb1fdc3987ec18947c90fa]: Modification: Pt. 9 applied (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/17/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a7fae0b7dbb1fdc3987ec18947c90fa]: Modification: Pt. 9 applied (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/17/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24d51bd40d293ab771ce3d771a359a70]: Modification: Pt. 9 applied (with modifications) (31.12.2020) by [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [34](https://www.legislation.gov.uk/uksi/2019/542/regulation/34) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24d51bd40d293ab771ce3d771a359a70]: Modification: Pt. 9 applied (with modifications) (31.12.2020) by [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [34](https://www.legislation.gov.uk/uksi/2019/542/regulation/34) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-77fa24d4c0bf5aafb4a647a1ca71ccfd]: Modification: Pt. 9 applied (1.7.2021) by Regulation (EU) No. 600/2014, Art. 49B(4) (as inserted by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/9); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o))
+[^c-77fa24d4c0bf5aafb4a647a1ca71ccfd]: Modification: Pt. 9 applied (1.7.2021) by Regulation (EU) No. 600/2014, Art. 49B(4) (as inserted by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/9); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o))
 
-[^key-6773d63fcb2fe2a80b55fc09c35271d7]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2000/8/part/9) applied (with modifications) (30.1.2024 for specified purposes) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/8) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3))
+[^c-6773d63fcb2fe2a80b55fc09c35271d7]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2000/8/part/9) applied (with modifications) (30.1.2024 for specified purposes) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/8) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3))
 
-[^key-7f150623b2f99b20c966cd2a49b47480]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2000/8/part/9) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/107/regulation/17); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
+[^c-7f150623b2f99b20c966cd2a49b47480]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2000/8/part/9) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/107/regulation/17); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
 
-[^key-6df8fcd3d5df235b47b6f3314363d9ff]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2000/8/part/9) applied (with modifications) (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/8) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)); as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2)
+[^c-6df8fcd3d5df235b47b6f3314363d9ff]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2000/8/part/9) applied (with modifications) (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/8) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)); as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2)
 
-[^key-62bf989ed4930a4196619c44950bd332]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2000/8/part/9) applied (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2/3), [55(8)](https://www.legislation.gov.uk/uksi/2026/102/regulation/55/8), [59(10)](https://www.legislation.gov.uk/uksi/2026/102/regulation/59/10), [63(8)](https://www.legislation.gov.uk/uksi/2026/102/regulation/63/8) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-62bf989ed4930a4196619c44950bd332]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2000/8/part/9) applied (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2/3), [55(8)](https://www.legislation.gov.uk/uksi/2026/102/regulation/55/8), [59(10)](https://www.legislation.gov.uk/uksi/2026/102/regulation/59/10), [63(8)](https://www.legislation.gov.uk/uksi/2026/102/regulation/63/8) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
 
-[^key-d3af761239f9e575a79c7d599233f904]: Modification: Pt. 9A applied (with modifications) (31.12.2020) by [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1797/regulation/1), [35](https://www.legislation.gov.uk/uksi/2013/1797/regulation/35) (as amended by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/4), [56(7)](https://www.legislation.gov.uk/uksi/2019/680/regulation/56/7)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3af761239f9e575a79c7d599233f904]: Modification: Pt. 9A applied (with modifications) (31.12.2020) by [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1797/regulation/1), [35](https://www.legislation.gov.uk/uksi/2013/1797/regulation/35) (as amended by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/4), [56(7)](https://www.legislation.gov.uk/uksi/2019/680/regulation/56/7)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b20c7a7fb801e6a4286735b9cd0aea3]: Modification: Pt. 9A applied (31.12.2020) by [The Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019 (S.I. 2019/407)](https://www.legislation.gov.uk/uksi/2019/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/407/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/407/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/407/schedule/3) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 27(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/27/a) and [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/54/2))
+[^c-7b20c7a7fb801e6a4286735b9cd0aea3]: Modification: Pt. 9A applied (31.12.2020) by [The Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019 (S.I. 2019/407)](https://www.legislation.gov.uk/uksi/2019/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/407/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/407/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/407/schedule/3) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 27(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/27/a) and [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/54/2))
 
-[^key-d227c3f18b9d7bad75657c5ff2802205]: Modification: Pt. 9A applied (with modifications) (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1797/regulation/1/1), [74](https://www.legislation.gov.uk/uksi/2013/1797/regulation/74) (as amended by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/7)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d227c3f18b9d7bad75657c5ff2802205]: Modification: Pt. 9A applied (with modifications) (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1797/regulation/1/1), [74](https://www.legislation.gov.uk/uksi/2013/1797/regulation/74) (as amended by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/7)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21b57312258ba0aa1c8d8ab82c9b72ba]: Modification: Pt. 9A applied (1.7.2021) by Regulation (EU) No. 600/2014, Art. 49A(12) (as inserted by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/9); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o))
+[^c-21b57312258ba0aa1c8d8ab82c9b72ba]: Modification: Pt. 9A applied (1.7.2021) by Regulation (EU) No. 600/2014, Art. 49A(12) (as inserted by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/9); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o))
 
-[^key-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-564bdd1d706171eb82d6fed61a06601c]: Modification: Pt. 9A Ch. 2 applied (with modifications) by [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99), [Sch. 3 para. 2A(2)(3)](https://www.legislation.gov.uk/uksi/2011/99/schedule/3/paragraph/2A/2/3) (as inserted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)(3)(f)(i)(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii/3/f/i/6), [Sch. 8 para. 5(31)(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/31/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3)) and as amended (18.9.2023) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/a), [2(3)(a)(iii)-(v)](https://www.legislation.gov.uk/uksi/2023/790/regulation/2/3/a/iii))
+[^c-564bdd1d706171eb82d6fed61a06601c]: Modification: Pt. 9A Ch. 2 applied (with modifications) by [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99), [Sch. 3 para. 2A(2)(3)](https://www.legislation.gov.uk/uksi/2011/99/schedule/3/paragraph/2A/2/3) (as inserted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)(3)(f)(i)(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii/3/f/i/6), [Sch. 8 para. 5(31)(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/31/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3)) and as amended (18.9.2023) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/a), [2(3)(a)(iii)-(v)](https://www.legislation.gov.uk/uksi/2023/790/regulation/2/3/a/iii))
 
-[^key-a3b43149eb08ca27fdf54e15addb4d87]: Modification: Pt. 9A Ch. 2 applied (with modifications) (13.8.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(b)(ii)(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/b/ii/6), [Sch. 6 para. 3(2)](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/3/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3)) (as amended (18.9.2023) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/a), [4(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/790/regulation/4/5/a/iii))
+[^c-a3b43149eb08ca27fdf54e15addb4d87]: Modification: Pt. 9A Ch. 2 applied (with modifications) (13.8.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(b)(ii)(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/b/ii/6), [Sch. 6 para. 3(2)](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/3/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3)) (as amended (18.9.2023) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/a), [4(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/790/regulation/4/5/a/iii))
 
-[^key-5d8d11ffe796f707e058cdc0576d0dc4]: Modification: Pt. 9A Ch. 2 applied (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [209(6)](https://www.legislation.gov.uk/uksi/2019/632/regulation/209/6) (with [reg. 209(7)](https://www.legislation.gov.uk/uksi/2019/632/regulation/209/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d8d11ffe796f707e058cdc0576d0dc4]: Modification: Pt. 9A Ch. 2 applied (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [209(6)](https://www.legislation.gov.uk/uksi/2019/632/regulation/209/6) (with [reg. 209(7)](https://www.legislation.gov.uk/uksi/2019/632/regulation/209/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cb6f0c788ff618621553f0ca35b3a27c]: Modification: Pt. 9A Ch. 2 applied (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [208(7)](https://www.legislation.gov.uk/uksi/2019/632/regulation/208/7) (with [reg. 208(8)](https://www.legislation.gov.uk/uksi/2019/632/regulation/208/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb6f0c788ff618621553f0ca35b3a27c]: Modification: Pt. 9A Ch. 2 applied (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [208(7)](https://www.legislation.gov.uk/uksi/2019/632/regulation/208/7) (with [reg. 208(8)](https://www.legislation.gov.uk/uksi/2019/632/regulation/208/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-900eacff346b904ad28932142590347c]: Modification: Pt. 9A Ch. 2 applied in part (1.7.2021) by Regulation (EU) No. 600/2014, Art. 50D (as inserted by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/12) (with [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/13)); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o))
+[^c-900eacff346b904ad28932142590347c]: Modification: Pt. 9A Ch. 2 applied in part (1.7.2021) by Regulation (EU) No. 600/2014, Art. 50D (as inserted by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/12) (with [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/13)); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o))
 
-[^key-2e1433315b5c3192fcfad058c238c92c]: Modification: [Pt. 9A Ch. 2](https://www.legislation.gov.uk/ukpga/2000/8/part/9A/chapter/2) applied in part (with modifications) (29.10.2024 for specified purposes, 6.7.2026 in so far as not already in force) by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701), [reg. 15A](https://www.legislation.gov.uk/uksi/2017/701/regulation/15A) (as inserted by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/45) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [regs. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/c/ii), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/ii))
+[^c-2e1433315b5c3192fcfad058c238c92c]: Modification: [Pt. 9A Ch. 2](https://www.legislation.gov.uk/ukpga/2000/8/part/9A/chapter/2) applied in part (with modifications) (29.10.2024 for specified purposes, 6.7.2026 in so far as not already in force) by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701), [reg. 15A](https://www.legislation.gov.uk/uksi/2017/701/regulation/15A) (as inserted by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/45) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [regs. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/c/ii), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/ii))
 
-[^key-4d6717fa7da81e8a91435b2f162dad69]: Modification: [Pt. 9A Ch. 2](https://www.legislation.gov.uk/ukpga/2000/8/part/9A/chapter/2) applied (1.1.2026) by [The Financial Services and Markets Act 2023 (Mutual Recognition Agreement) (Switzerland) Regulations 2025 (S.I. 2025/1145)](https://www.legislation.gov.uk/uksi/2025/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/13/3), [34(3)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/34/3)
+[^c-4d6717fa7da81e8a91435b2f162dad69]: Modification: [Pt. 9A Ch. 2](https://www.legislation.gov.uk/ukpga/2000/8/part/9A/chapter/2) applied (1.1.2026) by [The Financial Services and Markets Act 2023 (Mutual Recognition Agreement) (Switzerland) Regulations 2025 (S.I. 2025/1145)](https://www.legislation.gov.uk/uksi/2025/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/13/3), [34(3)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/34/3)
 
-[^key-ad0fb2474c7f5a47b300abbd986285c8]: Textual amendment: Pt. 9A Ch. 2A inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/7/8)
+[^c-ad0fb2474c7f5a47b300abbd986285c8]: Textual amendment: Pt. 9A Ch. 2A inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/7/8)
 
-[^key-ea2ed338adcf18639804d8451e319771]: Modification: Pt. 9A Ch. 4 applied (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 107(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/107/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-ea2ed338adcf18639804d8451e319771]: Modification: Pt. 9A Ch. 4 applied (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 107(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/107/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-6fe38a8b18a1667130a7809faea362b1]: Modification: Pt. 9B power to apply (with modifications) conferred (1.1.2019) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2013/33/section/7/2/b), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/f)
+[^c-6fe38a8b18a1667130a7809faea362b1]: Modification: Pt. 9B power to apply (with modifications) conferred (1.1.2019) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2013/33/section/7/2/b), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/f)
 
-[^key-515367dab7cbebca7f7219bdee427297]: Textual amendment: Pt. 9B inserted (1.3.2014 for the insertion of ss. 142A-142F, 142I, 142W-142Z1 for specified purposes, 21.4.2016 for the insertion of s. 142H, 1.1.2019 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/4/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/512/article/2/a); [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(d)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/d)
+[^c-515367dab7cbebca7f7219bdee427297]: Textual amendment: Pt. 9B inserted (1.3.2014 for the insertion of ss. 142A-142F, 142I, 142W-142Z1 for specified purposes, 21.4.2016 for the insertion of s. 142H, 1.1.2019 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/4/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/512/article/2/a); [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(d)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/d)
 
-[^key-bd67ac6625e8b346806ee8e45f8d282f]: Textual amendment: Pt. 9C inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/2/paragraph/1); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/4/b)
+[^c-bd67ac6625e8b346806ee8e45f8d282f]: Textual amendment: Pt. 9C inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/2/paragraph/1); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/4/b)
 
-[^key-6420734e39edba39c2ee15c1faba8a67]: Textual amendment: Pt. 9D repealed (1.1.2024 for the repeal of s. 144H(2)) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/4) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4), [7(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/7/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/5/e/iii)
+[^c-6420734e39edba39c2ee15c1faba8a67]: Textual amendment: Pt. 9D repealed (1.1.2024 for the repeal of s. 144H(2)) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/4) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4), [7(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/7/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/5/e/iii)
 
 [^c1709347]: Modification: Pt. 11 modified (1.12.2001) by [S.I. 2001/2657](https://www.legislation.gov.uk/uksi/2001/2657), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2657/article/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2001/2657/article/18/2) (which was revoked (8.10.2001) by [S.I. 2001/3083](https://www.legislation.gov.uk/uksi/2001/3083), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3083/article/1/2), [23](https://www.legislation.gov.uk/uksi/2001/3083/article/23)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
@@ -3220,95 +3220,95 @@ SCHEDULES
 
 [^c2080377]: Modification: Pt. 11 applied (with modifications) (11.2.2010) by The Cross-Border Payments in [Euro Regulations 2010 (S.I. 2010/89)](https://www.legislation.gov.uk/uksi/2010/89), [reg. 19](https://www.legislation.gov.uk/uksi/2010/89/regulation/19), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/89/schedule/paragraph/2)
 
-[^key-0ce57f6e67028f5b4b12504639635a3a]: Modification: Pt. 11 applied (with modifications) (15.1.2013) by The Payments in [Euro (Credit Transfers and Direct Debits) Regulations 2012 (S.I. 2012/3122)](https://www.legislation.gov.uk/uksi/2012/3122), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3122/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/2) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/b))
+[^c-0ce57f6e67028f5b4b12504639635a3a]: Modification: Pt. 11 applied (with modifications) (15.1.2013) by The Payments in [Euro (Credit Transfers and Direct Debits) Regulations 2012 (S.I. 2012/3122)](https://www.legislation.gov.uk/uksi/2012/3122), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3122/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/2) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/b))
 
-[^key-d1523af4aad18297e5acc75ac8852735]: Modification: Pt. 11 applied (with modifications) (E.W.) (9.7.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 (S.I. 2013/1635)](https://www.legislation.gov.uk/uksi/2013/1635), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1), [13](https://www.legislation.gov.uk/uksi/2013/1635/regulation/13)
+[^c-d1523af4aad18297e5acc75ac8852735]: Modification: Pt. 11 applied (with modifications) (E.W.) (9.7.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 (S.I. 2013/1635)](https://www.legislation.gov.uk/uksi/2013/1635), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1), [13](https://www.legislation.gov.uk/uksi/2013/1635/regulation/13)
 
-[^key-e5d60babf0ba670037f63e6f5b5208a8]: Modification: Pt. 11 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/5)
+[^c-e5d60babf0ba670037f63e6f5b5208a8]: Modification: Pt. 11 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/5)
 
-[^key-8b5ad22b0cde14ec305803fa66ce057e]: Modification: Pt. 11 modified (temp. to 1.4.2014) (31.12.2013) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2013 (S.I. 2013/3128)](https://www.legislation.gov.uk/uksi/2013/3128), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3128/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/3128/article/4/1)[(2)](https://www.legislation.gov.uk/uksi/2013/3128/article/4/2)
+[^c-8b5ad22b0cde14ec305803fa66ce057e]: Modification: Pt. 11 modified (temp. to 1.4.2014) (31.12.2013) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2013 (S.I. 2013/3128)](https://www.legislation.gov.uk/uksi/2013/3128), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3128/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/3128/article/4/1)[(2)](https://www.legislation.gov.uk/uksi/2013/3128/article/4/2)
 
-[^key-112383fe5a86c309d9e7649b99484d27]: Modification: Pt. 11 applied (with modifications) (12.12.2014) by [The Immigration Act 2014 (Bank Accounts) Regulations 2014 (S.I. 2014/3085)](https://www.legislation.gov.uk/uksi/2014/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/3085/regulation/14)
+[^c-112383fe5a86c309d9e7649b99484d27]: Modification: Pt. 11 applied (with modifications) (12.12.2014) by [The Immigration Act 2014 (Bank Accounts) Regulations 2014 (S.I. 2014/3085)](https://www.legislation.gov.uk/uksi/2014/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/3085/regulation/14)
 
-[^key-19c88b71035238fef70016b74fe97f13]: Modification: Pt. 11 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Finance Platforms) Regulations 2015 (S.I. 2015/1946)](https://www.legislation.gov.uk/uksi/2015/1946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2015/1946/regulation/23)
+[^c-19c88b71035238fef70016b74fe97f13]: Modification: Pt. 11 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Finance Platforms) Regulations 2015 (S.I. 2015/1946)](https://www.legislation.gov.uk/uksi/2015/1946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2015/1946/regulation/23)
 
-[^key-bfe56d79059535fbb6296db273cce443]: Modification: Pt. 11 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2015/1945/regulation/26)
+[^c-bfe56d79059535fbb6296db273cce443]: Modification: Pt. 11 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2015/1945/regulation/26)
 
-[^key-d34873a518ad368acf246f6b71392703]: Modification: Pt. 11 applied (with modifications) (18.9.2016) by [The Payment Accounts Regulations 2015 (S.I. 2015/2038)](https://www.legislation.gov.uk/uksi/2015/2038), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/1/2/b), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/2)
+[^c-d34873a518ad368acf246f6b71392703]: Modification: Pt. 11 applied (with modifications) (18.9.2016) by [The Payment Accounts Regulations 2015 (S.I. 2015/2038)](https://www.legislation.gov.uk/uksi/2015/2038), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/1/2/b), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/2)
 
-[^key-c6adcf923083024022a4cc17d8adace7]: Modification: Pt. 11 applied (with modifications) (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 1 para. 19(1)](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/19/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+[^c-c6adcf923083024022a4cc17d8adace7]: Modification: Pt. 11 applied (with modifications) (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 1 para. 19(1)](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/19/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
 
-[^key-758e63816022797be6332e31b3368504]: Modification: Pt. 11 applied (with modifications) (3.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [33](https://www.legislation.gov.uk/uksi/2017/699/regulation/33)
+[^c-758e63816022797be6332e31b3368504]: Modification: Pt. 11 applied (with modifications) (3.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [33](https://www.legislation.gov.uk/uksi/2017/699/regulation/33)
 
-[^key-5b9bd016002b5cca7267aa59ce6bb2f5]: Modification: Pt. 11 applied (with modifications) (1.1.2018) by [The Packaged Retail and Insurance-based Investment Products Regulations 2017 (S.I. 2017/1127)](https://www.legislation.gov.uk/uksi/2017/1127), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1127/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2017/1127/schedule/1/paragraph/2)
+[^c-5b9bd016002b5cca7267aa59ce6bb2f5]: Modification: Pt. 11 applied (with modifications) (1.1.2018) by [The Packaged Retail and Insurance-based Investment Products Regulations 2017 (S.I. 2017/1127)](https://www.legislation.gov.uk/uksi/2017/1127), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1127/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2017/1127/schedule/1/paragraph/2)
 
-[^key-666b6c518c4631f8637bfd9a3f05c475]: Modification: Pt. 11 applied (with modifications) (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2018/135/regulation/19)
+[^c-666b6c518c4631f8637bfd9a3f05c475]: Modification: Pt. 11 applied (with modifications) (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2018/135/regulation/19)
 
-[^key-df858946574f400175e9528c90ffeca8]: Modification: Pt. 11 modified (10.5.2018) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(1)(f)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/1/f), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2018/10/schedule/5/paragraph/1)
+[^c-df858946574f400175e9528c90ffeca8]: Modification: Pt. 11 modified (10.5.2018) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(1)(f)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/1/f), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2018/10/schedule/5/paragraph/1)
 
-[^key-653480f1705f74d1101001ad88c6fb8a]: Modification: Pt. 11 modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [82(13)](https://www.legislation.gov.uk/uksi/2018/1253/article/82/13)
+[^c-653480f1705f74d1101001ad88c6fb8a]: Modification: Pt. 11 modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [82(13)](https://www.legislation.gov.uk/uksi/2018/1253/article/82/13)
 
-[^key-bf358913118de111f0f8b582d833b7c6]: Modification: Pt. 11 applied (with modifications) (1.1.2019) by [The Securitisation Regulations 2018 (S.I. 2018/1288)](https://www.legislation.gov.uk/uksi/2018/1288), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1288/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/3) (with [Sch. 1 paras. 13](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/14))
+[^c-bf358913118de111f0f8b582d833b7c6]: Modification: Pt. 11 applied (with modifications) (1.1.2019) by [The Securitisation Regulations 2018 (S.I. 2018/1288)](https://www.legislation.gov.uk/uksi/2018/1288), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1288/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/3) (with [Sch. 1 paras. 13](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/14))
 
-[^key-5f912c8f1ff198f6adbc49f595fd8b72]: Modification: Pt. 11 applied (with modifications) (10.6.2019) by [The Proxy Advisors (Shareholders Rights) Regulations 2019 (S.I. 2019/926)](https://www.legislation.gov.uk/uksi/2019/926), [regs. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/926/regulation/20), [22](https://www.legislation.gov.uk/uksi/2019/926/regulation/22) (as amended by [S.I. 2020/628](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(5)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/5))
+[^c-5f912c8f1ff198f6adbc49f595fd8b72]: Modification: Pt. 11 applied (with modifications) (10.6.2019) by [The Proxy Advisors (Shareholders Rights) Regulations 2019 (S.I. 2019/926)](https://www.legislation.gov.uk/uksi/2019/926), [regs. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/926/regulation/20), [22](https://www.legislation.gov.uk/uksi/2019/926/regulation/22) (as amended by [S.I. 2020/628](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(5)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/5))
 
-[^key-499a2b9e752d4eacbd59a451732ce592]: Modification: Pt. 11 applied in part (with modifications) (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [75](https://www.legislation.gov.uk/uksi/2019/335/regulation/75) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-499a2b9e752d4eacbd59a451732ce592]: Modification: Pt. 11 applied in part (with modifications) (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [75](https://www.legislation.gov.uk/uksi/2019/335/regulation/75) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f8aaa7dfbf922dd9c669d7f8d8d664a]: Modification: Pt. 11 applied in part (with modifications) (31.12.2020) by [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [36](https://www.legislation.gov.uk/uksi/2019/542/regulation/36) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f8aaa7dfbf922dd9c669d7f8d8d664a]: Modification: Pt. 11 applied in part (with modifications) (31.12.2020) by [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [36](https://www.legislation.gov.uk/uksi/2019/542/regulation/36) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ecbd8bd8bd6347c592846879cc999246]: Modification: Pt. 11 applied (with modifications) (30.4.2011) by [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 62](https://www.legislation.gov.uk/uksi/2011/99/regulation/62), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2011/99/schedule/3/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3)) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 196(5)(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/196/5/c); and (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [18(4)(b)](https://www.legislation.gov.uk/uksi/2014/366/article/18/4/b); and (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2019/1511/regulation/19) and (31.12.2020) by [S.I. 2018/1201](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 21(3)(a)-(c)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/21/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/1)) (with further transitional provisions in Sch. 3 Pt. 1A as inserted by [S.I. 2019/405](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1](https://www.legislation.gov.uk/uksi/2019/405/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/405/regulation/10) and as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/1010/regulation/7); [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7); and [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)) and (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 62(b)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/62/b) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv))](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-ecbd8bd8bd6347c592846879cc999246]: Modification: Pt. 11 applied (with modifications) (30.4.2011) by [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 62](https://www.legislation.gov.uk/uksi/2011/99/regulation/62), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2011/99/schedule/3/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3)) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 196(5)(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/196/5/c); and (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [18(4)(b)](https://www.legislation.gov.uk/uksi/2014/366/article/18/4/b); and (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2019/1511/regulation/19) and (31.12.2020) by [S.I. 2018/1201](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 21(3)(a)-(c)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/21/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/1)) (with further transitional provisions in Sch. 3 Pt. 1A as inserted by [S.I. 2019/405](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1](https://www.legislation.gov.uk/uksi/2019/405/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/405/regulation/10) and as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/1010/regulation/7); [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7); and [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)) and (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 62(b)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/62/b) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv))](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-61c81371e037211b973712b3d865367e]: Modification: Pt. 11 applied (with modifications) (31.12.2020) by [The Credit Rating Agencies (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/266)](https://www.legislation.gov.uk/uksi/2019/266), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/3), [18(1)](https://www.legislation.gov.uk/uksi/2019/266/regulation/18/1) (as amended by [S.I. 2020/1384](https://www.legislation.gov.uk/uksi/2020/1384), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1384/regulation/1/4), [50(3)](https://www.legislation.gov.uk/uksi/2020/1384/regulation/50/3)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61c81371e037211b973712b3d865367e]: Modification: Pt. 11 applied (with modifications) (31.12.2020) by [The Credit Rating Agencies (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/266)](https://www.legislation.gov.uk/uksi/2019/266), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/3), [18(1)](https://www.legislation.gov.uk/uksi/2019/266/regulation/18/1) (as amended by [S.I. 2020/1384](https://www.legislation.gov.uk/uksi/2020/1384), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1384/regulation/1/4), [50(3)](https://www.legislation.gov.uk/uksi/2020/1384/regulation/50/3)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-670ce9b9376509be62a69f12a4d39874]: Modification: Pt. 11 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3)) (as amended by [S.I. 2018/1201](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 72(3)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/72/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); and (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 72(b)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/72/b) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv))](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-670ce9b9376509be62a69f12a4d39874]: Modification: Pt. 11 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3)) (as amended by [S.I. 2018/1201](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 72(3)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/72/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); and (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 72(b)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/72/b) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv))](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-6e50533187a23900e1b5ed23af9af792]: Modification: Pt. 11 applied (with modifications) (30.1.2024 for specified purposes) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/10) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3))
+[^c-6e50533187a23900e1b5ed23af9af792]: Modification: Pt. 11 applied (with modifications) (30.1.2024 for specified purposes) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/10) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3))
 
-[^key-69cc3f0413270dde800fe6d85101a062]: Modification: Pt. 11 applied (with modifications) (30.1.2024 for specified purposes) by [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [regs. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2), [44(4)](https://www.legislation.gov.uk/uksi/2024/105/regulation/44/4) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48))
+[^c-69cc3f0413270dde800fe6d85101a062]: Modification: Pt. 11 applied (with modifications) (30.1.2024 for specified purposes) by [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [regs. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2), [44(4)](https://www.legislation.gov.uk/uksi/2024/105/regulation/44/4) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48))
 
-[^key-f38dc2f5018f1b33e51905d1df0a9bd7]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2000/8/part/11) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/107/regulation/18); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
+[^c-f38dc2f5018f1b33e51905d1df0a9bd7]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2000/8/part/11) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/107/regulation/18); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
 
-[^key-3b6ea2208ca7da5ff3a95a6bd36049f7]: Modification: Pt. 11 applied (with modifications) (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/10) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)); as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2)
+[^c-3b6ea2208ca7da5ff3a95a6bd36049f7]: Modification: Pt. 11 applied (with modifications) (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/10) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)); as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2)
 
-[^key-309837bbb05efd336a25ec1277f4b8bc]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2000/8/part/11) modified (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2025/859/article/10/6)
+[^c-309837bbb05efd336a25ec1277f4b8bc]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2000/8/part/11) modified (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2025/859/article/10/6)
 
-[^key-32deac3ca546be5c4939348763e30f8a]: Modification: Pt. 11 applied (with modifications) (3.11.2025) by [S.I. 2024/105](https://www.legislation.gov.uk/uksi/2024/105), [reg. 44(5)](https://www.legislation.gov.uk/uksi/2024/105/regulation/44/5) (as substituted by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/1076/regulation/2))
+[^c-32deac3ca546be5c4939348763e30f8a]: Modification: Pt. 11 applied (with modifications) (3.11.2025) by [S.I. 2024/105](https://www.legislation.gov.uk/uksi/2024/105), [reg. 44(5)](https://www.legislation.gov.uk/uksi/2024/105/regulation/44/5) (as substituted by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/1076/regulation/2))
 
-[^key-94c265799e9e81648b97356aa3e96bda]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2000/8/part/11) modified (1.1.2026) by [The Financial Services and Markets Act 2023 (Mutual Recognition Agreement) (Switzerland) Regulations 2025 (S.I. 2025/1145)](https://www.legislation.gov.uk/uksi/2025/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/1/2), [13(5)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/13/5), [14(8)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/14/8)
+[^c-94c265799e9e81648b97356aa3e96bda]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2000/8/part/11) modified (1.1.2026) by [The Financial Services and Markets Act 2023 (Mutual Recognition Agreement) (Switzerland) Regulations 2025 (S.I. 2025/1145)](https://www.legislation.gov.uk/uksi/2025/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/1/2), [13(5)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/13/5), [14(8)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/14/8)
 
-[^key-ac02ebce1228de43d7e4cbd87a937d6c]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2000/8/part/XI) applied (with modifications) (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [44(4)](https://www.legislation.gov.uk/uksi/2024/105/regulation/44/4) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))
+[^c-ac02ebce1228de43d7e4cbd87a937d6c]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2000/8/part/XI) applied (with modifications) (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [44(4)](https://www.legislation.gov.uk/uksi/2024/105/regulation/44/4) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))
 
-[^key-6743369830a805b8848d192695fe83e3]: Textual amendment: [S. 177A](https://www.legislation.gov.uk/ukpga/2000/8/section/177A) and cross-heading inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/22/schedule/2/paragraph/10) (with [Sch. 2 Pt. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/2/part/3)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/4/b)
+[^c-6743369830a805b8848d192695fe83e3]: Textual amendment: [S. 177A](https://www.legislation.gov.uk/ukpga/2000/8/section/177A) and cross-heading inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/22/schedule/2/paragraph/10) (with [Sch. 2 Pt. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/2/part/3)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/4/b)
 
 [^c1709396]: Modification: Pt. 12 modified (1.12.2001) by [S.I. 2001/3592](https://www.legislation.gov.uk/uksi/2001/3592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2), [114(3)(a)](https://www.legislation.gov.uk/uksi/2001/3592/article/114/3/a) (with [art. 23(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/23/2))
 
 [^c2081065]: Modification: Pt. 12 applied (with modifications) (30.4.2011) by [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 62](https://www.legislation.gov.uk/uksi/2011/99/regulation/62), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2011/99/schedule/3/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3)) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 196(5)(d)(e)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/196/5/d))
 
-[^key-1ce0ee7ac9caca451688999f688ad006]: Modification: Pt. 12 excluded (26.7.2013 for specified purposes, 2.9.2013 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(5)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/5), [59(7)](https://www.legislation.gov.uk/uksi/2013/1881/article/59/7)
+[^c-1ce0ee7ac9caca451688999f688ad006]: Modification: Pt. 12 excluded (26.7.2013 for specified purposes, 2.9.2013 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(5)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/5), [59(7)](https://www.legislation.gov.uk/uksi/2013/1881/article/59/7)
 
-[^key-4ee2b8cee7788ed158b8ec69a22318e4]: Modification: Pt. 12 applied (with modifications) (13.8.2017 for specified purposes, 13.10.2017 in so far as nt already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/b/iii)[(3)(c)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/c), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-4ee2b8cee7788ed158b8ec69a22318e4]: Modification: Pt. 12 applied (with modifications) (13.8.2017 for specified purposes, 13.10.2017 in so far as nt already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/b/iii)[(3)(c)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/c), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-7cd2cdae7f8ae093ddbd22e72ce6965a]: Modification: Pt. 12 excluded (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/1212/regulation/8)
+[^c-7cd2cdae7f8ae093ddbd22e72ce6965a]: Modification: Pt. 12 excluded (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/1212/regulation/8)
 
-[^key-5ec268b1694f87b12fd031373cc9d701]: Modification: Pt. 12 modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [83(10)](https://www.legislation.gov.uk/uksi/2018/1253/article/83/10)
+[^c-5ec268b1694f87b12fd031373cc9d701]: Modification: Pt. 12 modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [83(10)](https://www.legislation.gov.uk/uksi/2018/1253/article/83/10)
 
-[^key-df19c8effbd5d5fdcb3b4e8361becb49]: Modification: Pt. 12 applied (with modifications) (11.8.2022) by [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), [Sch. 6B para. 1](https://www.legislation.gov.uk/uksi/2017/692/schedule/6B/paragraph/1) (as inserted by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/2/c), [12(4)](https://www.legislation.gov.uk/uksi/2022/860/regulation/12/4))
+[^c-df19c8effbd5d5fdcb3b4e8361becb49]: Modification: Pt. 12 applied (with modifications) (11.8.2022) by [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), [Sch. 6B para. 1](https://www.legislation.gov.uk/uksi/2017/692/schedule/6B/paragraph/1) (as inserted by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/2/c), [12(4)](https://www.legislation.gov.uk/uksi/2022/860/regulation/12/4))
 
-[^key-b5f32a678753cf0bb7712809ccd6b876]: Modification: [Pt. 12](https://www.legislation.gov.uk/ukpga/2000/8/part/12) applied (with modifications) (30.6.2026) by [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), [Sch. 6B paras. 1](https://www.legislation.gov.uk/uksi/2017/692/schedule/6B/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2017/692/schedule/6B/paragraph/2), [5](https://www.legislation.gov.uk/uksi/2017/692/schedule/6B/paragraph/5) (as substituted by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2/5), [37](https://www.legislation.gov.uk/uksi/2026/621/regulation/37))
+[^c-b5f32a678753cf0bb7712809ccd6b876]: Modification: [Pt. 12](https://www.legislation.gov.uk/ukpga/2000/8/part/12) applied (with modifications) (30.6.2026) by [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), [Sch. 6B paras. 1](https://www.legislation.gov.uk/uksi/2017/692/schedule/6B/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2017/692/schedule/6B/paragraph/2), [5](https://www.legislation.gov.uk/uksi/2017/692/schedule/6B/paragraph/5) (as substituted by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2/5), [37](https://www.legislation.gov.uk/uksi/2026/621/regulation/37))
 
 [^c2081646]: Textual amendment: Ss. 178-191G and cross-headings substituted (21.3.2009) for ss. 178-191 and cross-headings by [The Financial Services and Markets Act 2000 (Controllers) Regulations 2009 (S.I. 2009/534)](https://www.legislation.gov.uk/uksi/2009/534), [reg. 3](https://www.legislation.gov.uk/uksi/2009/534/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/534/schedule/1) (with [reg. 8](https://www.legislation.gov.uk/uksi/2009/534/regulation/8))
 
-[^key-8628c60b9494b1d63957cdd6cbea73ea]: Textual amendment: Pt. 12A inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 27](https://www.legislation.gov.uk/ukpga/2012/21/section/27), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-8628c60b9494b1d63957cdd6cbea73ea]: Textual amendment: Pt. 12A inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 27](https://www.legislation.gov.uk/ukpga/2012/21/section/27), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-57262b162bfb4e08f630688f4bdce51c]: Textual amendment: Ss. 192JA, 192JB and cross-headings inserted (31.12.2014 for the insertion of s. 192JB, 21.4.2016 for the insertion of s. 192JA) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 133(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/133/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/2); [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/512/article/2/b); [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(l)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/l)
+[^c-57262b162bfb4e08f630688f4bdce51c]: Textual amendment: Ss. 192JA, 192JB and cross-headings inserted (31.12.2014 for the insertion of s. 192JB, 21.4.2016 for the insertion of s. 192JA) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 133(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/133/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/2); [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/512/article/2/b); [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(l)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/l)
 
-[^key-4d512704618ed9bb6b40a3628ede6e5b]: Textual amendment: Pt. 12B inserted (28.12.2020 for specified purposes, 29.12.2020 in so far as not already in force) by [The Financial Holding Companies (Approval etc.) and Capital Requirements (Capital Buffers and Macro-prudential Measures) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1406)](https://www.legislation.gov.uk/uksi/2020/1406), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/a)[(b)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/b), [2(7)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/2/7) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1406/regulation/5))
+[^c-4d512704618ed9bb6b40a3628ede6e5b]: Textual amendment: Pt. 12B inserted (28.12.2020 for specified purposes, 29.12.2020 in so far as not already in force) by [The Financial Holding Companies (Approval etc.) and Capital Requirements (Capital Buffers and Macro-prudential Measures) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1406)](https://www.legislation.gov.uk/uksi/2020/1406), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/a)[(b)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/b), [2(7)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/2/7) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1406/regulation/5))
 
-[^key-01bb7d98288a0e5c392ddd7764028efa]: Textual amendment: S. 192O cross-heading inserted (9.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/3) (with [Sch. 3 Pt. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/part/4)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-01bb7d98288a0e5c392ddd7764028efa]: Textual amendment: S. 192O cross-heading inserted (9.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/3) (with [Sch. 3 Pt. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/part/4)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-7032d8dadde262a71720d6dc35174395]: Textual amendment: S. 192P cross-heading inserted (9.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/5) (with [Sch. 3 Pt. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/part/4)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-7032d8dadde262a71720d6dc35174395]: Textual amendment: S. 192P cross-heading inserted (9.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/5) (with [Sch. 3 Pt. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/part/4)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-8cab15c42c8a3368cb633b04562190d7]: Textual amendment: Ss. 192XA-192XC and cross-heading inserted (9.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/7) (with [Sch. 3 Pt. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/part/4)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-8cab15c42c8a3368cb633b04562190d7]: Textual amendment: Ss. 192XA-192XC and cross-heading inserted (9.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/7) (with [Sch. 3 Pt. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/part/4)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
 [^c1709427]: Modification: Pt. 13 modified (1.12.2001) by [S.I. 2001/3592](https://www.legislation.gov.uk/uksi/2001/3592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2), [114(3)(a)](https://www.legislation.gov.uk/uksi/2001/3592/article/114/3/a) (with [art. 23(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/23/2))
 
@@ -3318,29 +3318,29 @@ SCHEDULES
 
     Pt 13 excluded (1.12.2001) by [S.I. 2001/3592](https://www.legislation.gov.uk/uksi/2001/3592), [art. 107(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/107/2) (with [art. 23(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/23/2))
 
-[^key-9f63f5697dff3df23c0e83ac69fd37b4]: Modification: Pt. 13 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/6)
+[^c-9f63f5697dff3df23c0e83ac69fd37b4]: Modification: Pt. 13 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/6)
 
-[^key-89265f8907faefc5c43d81b00f72d7a7]: Modification: Pt. 13 applied (with modifications) by S.I. 2011/99, Sch. 3 para 4A (as inserted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(31)(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/31/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3)))
+[^c-89265f8907faefc5c43d81b00f72d7a7]: Modification: Pt. 13 applied (with modifications) by S.I. 2011/99, Sch. 3 para 4A (as inserted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(31)(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/31/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3)))
 
-[^key-8ce0a246596c3d53a43e62c8ca1893d1]: Modification: Pt. 13 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3)) (which amending provision was revoked (31.12.2020) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 72(4)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/72/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-8ce0a246596c3d53a43e62c8ca1893d1]: Modification: Pt. 13 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3)) (which amending provision was revoked (31.12.2020) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 72(4)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/72/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-d75df45b4c4e3590a2b7b5a23cef16b9]: Textual amendment: Words in Pt. 13 heading substituted (27.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2012/21/schedule/4/paragraph/30) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [arts. 2](https://www.legislation.gov.uk/uksi/2013/423/article/2), [3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-d75df45b4c4e3590a2b7b5a23cef16b9]: Textual amendment: Words in Pt. 13 heading substituted (27.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2012/21/schedule/4/paragraph/30) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [arts. 2](https://www.legislation.gov.uk/uksi/2013/423/article/2), [3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c2075269]: Textual amendment: S. 203: words in cross-heading substituted (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 278](https://www.legislation.gov.uk/ukpga/2002/40/section/278), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 25 para. 40(7)(c)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/40/7/c); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3))
 
-[^key-a96b2ca449afe6f9e389bc30e21f7e53]: Textual amendment: [Pt. 13A](https://www.legislation.gov.uk/ukpga/2000/8/part/13A) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a96b2ca449afe6f9e389bc30e21f7e53]: Textual amendment: [Pt. 13A](https://www.legislation.gov.uk/ukpga/2000/8/part/13A) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1709462]: Modification: Pt. 14 applied (1.12.2001) by [1951 c. 65](https://www.legislation.gov.uk/ukpga/1951/65), [s. 57(5)](https://www.legislation.gov.uk/ukpga/1951/65/section/57/5) (as substituted (1.12.2001) by [S.I. 2001/3647](https://www.legislation.gov.uk/uksi/2001/3647), [art. 5](https://www.legislation.gov.uk/uksi/2001/3647/article/5), [Sch. 3 Pt. I para. 5(3)](https://www.legislation.gov.uk/uksi/2001/3647/schedule/3/part/I/paragraph/5/3))
 
-[^key-382ee182f5efcfdf21efeffe306039b7]: Modification: Pt. 14 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/7)
+[^c-382ee182f5efcfdf21efeffe306039b7]: Modification: Pt. 14 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/7)
 
-[^key-a55bd7b2d0ab039e5cbd2822caf75362]: Modification: Pt. 14 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [12(10)](https://www.legislation.gov.uk/uksi/2013/1881/article/12/10)
+[^c-a55bd7b2d0ab039e5cbd2822caf75362]: Modification: Pt. 14 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [12(10)](https://www.legislation.gov.uk/uksi/2013/1881/article/12/10)
 
-[^key-8db4b12de91eaca59034347131164485]: Modification: Pt. 14 modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [82(13)](https://www.legislation.gov.uk/uksi/2018/1253/article/82/13)
+[^c-8db4b12de91eaca59034347131164485]: Modification: Pt. 14 modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [82(13)](https://www.legislation.gov.uk/uksi/2018/1253/article/82/13)
 
-[^key-964e95c168b615c1027c9f43d835a26d]: Modification: Pt. 14 applied (with modifications) (1.1.2019) by [The Securitisation Regulations 2018 (S.I. 2018/1288)](https://www.legislation.gov.uk/uksi/2018/1288), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1288/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/4) (with [Sch. 1 paras. 13](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/14))
+[^c-964e95c168b615c1027c9f43d835a26d]: Modification: Pt. 14 applied (with modifications) (1.1.2019) by [The Securitisation Regulations 2018 (S.I. 2018/1288)](https://www.legislation.gov.uk/uksi/2018/1288), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1288/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/4) (with [Sch. 1 paras. 13](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/14))
 
-[^key-083d26278f89cf771f99e57f240344af]: Modification: [Pt. 14](https://www.legislation.gov.uk/ukpga/2000/8/part/14) modified (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2025/859/article/10/6)
+[^c-083d26278f89cf771f99e57f240344af]: Modification: [Pt. 14](https://www.legislation.gov.uk/ukpga/2000/8/part/14) modified (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2025/859/article/10/6)
 
 [^c1737499]: Modification: Pt. XV (ss. 212-224) excluded (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. 2001/544)](https://www.legislation.gov.uk/uksi/2001/544), [art. 9J](https://www.legislation.gov.uk/uksi/2001/544/article/9J) (as inserted by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2), [4](https://www.legislation.gov.uk/uksi/2002/682/article/4))
 
@@ -3352,9 +3352,9 @@ SCHEDULES
 
 [^c2079665]: Modification: Pt. 15 modified (8.10.2008 at 12.15 p.m.) by The Kaupthing Singer & [Friedlander Limited Transfer of Certain Rights and Liabilities Order 2008 (S.I. 2008/2674)](https://www.legislation.gov.uk/uksi/2008/2674), [art. 15](https://www.legislation.gov.uk/uksi/2008/2674/article/15) (with [art. 16(8)](https://www.legislation.gov.uk/uksi/2008/2674/article/16/8))
 
-[^key-9125f98ab94f25364b20dd2ca48c7a5e]: Textual amendment: S. 217A and cross-heading inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/10/paragraph/7) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9125f98ab94f25364b20dd2ca48c7a5e]: Textual amendment: S. 217A and cross-heading inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/10/paragraph/7) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-80f398cdb10ccf030b510c5cd3547c1d]: Textual amendment: S. 218 cross-heading substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/10/paragraph/8) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-80f398cdb10ccf030b510c5cd3547c1d]: Textual amendment: S. 218 cross-heading substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/10/paragraph/8) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c2080763]: Textual amendment: Pt. 15A inserted (12.10.2010) by [Financial Services Act 2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), [ss. 17](https://www.legislation.gov.uk/ukpga/2010/28/section/17), [26(3)](https://www.legislation.gov.uk/ukpga/2010/28/section/26/3); [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/d)
 
@@ -3362,95 +3362,95 @@ SCHEDULES
 
 [^c2081044]: Modification: Pt. XVI applied (30.4.2011) by [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 76(2)](https://www.legislation.gov.uk/uksi/2011/99/regulation/76/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3))
 
-[^key-604263f9bf9906cb8b24577d7a5bbae1]: Modification: Pt. XVI applied (with modifications) (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [26](https://www.legislation.gov.uk/uksi/2015/910/article/26) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-604263f9bf9906cb8b24577d7a5bbae1]: Modification: Pt. XVI applied (with modifications) (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [26](https://www.legislation.gov.uk/uksi/2015/910/article/26) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-8d1dd84aab9b48b3687a3a62cb6e21a7]: Modification: Pt. XVI applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [17(1)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/17/1)
+[^c-8d1dd84aab9b48b3687a3a62cb6e21a7]: Modification: Pt. XVI applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [17(1)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/17/1)
 
-[^key-29960c9e14efb0ac8cdb71a892be2d90]: Modification: Pt. XVI applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Finance Platforms) Regulations 2015 (S.I. 2015/1946)](https://www.legislation.gov.uk/uksi/2015/1946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2015/1946/regulation/14)
+[^c-29960c9e14efb0ac8cdb71a892be2d90]: Modification: Pt. XVI applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Finance Platforms) Regulations 2015 (S.I. 2015/1946)](https://www.legislation.gov.uk/uksi/2015/1946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2015/1946/regulation/14)
 
-[^key-793a0431db3a2240032552d264043234]: Textual amendment: S. 234B and cross-heading inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2012/21/schedule/11/paragraph/12) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-793a0431db3a2240032552d264043234]: Textual amendment: S. 234B and cross-heading inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2012/21/schedule/11/paragraph/12) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-3a7c4f4d0ed9d918d9f02ae5d27550d7]: Textual amendment: Pt. 16A inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 43](https://www.legislation.gov.uk/ukpga/2012/21/section/43), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3a7c4f4d0ed9d918d9f02ae5d27550d7]: Textual amendment: Pt. 16A inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 43](https://www.legislation.gov.uk/ukpga/2012/21/section/43), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-1261358abf3b8c33e4557fbeee8e1424]: Modification: Pt. 17 modified (20.2.2019) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [62](https://www.legislation.gov.uk/uksi/2019/325/regulation/62) (as amended (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/12/b))
+[^c-1261358abf3b8c33e4557fbeee8e1424]: Modification: Pt. 17 modified (20.2.2019) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [62](https://www.legislation.gov.uk/uksi/2019/325/regulation/62) (as amended (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/12/b))
 
 [^c1709513]: Modification: Pt. XVII Ch. II (ss. 238-241) modified (31.10.2001) by [S.I. 2001/3347](https://www.legislation.gov.uk/uksi/2001/3347), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2001/3347/schedule/paragraph/8)
 
-[^key-91be7e0f212419082087d5a09c0be83b]: Textual amendment: [Pt. 17 Ch. 2A](https://www.legislation.gov.uk/ukpga/2000/8/part/XVII/chapter/2A) inserted (1.1.2021) by [The Bearer Certificates (Collective Investment Schemes) Regulations 2020 (S.I. 2020/1346)](https://www.legislation.gov.uk/uksi/2020/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1346/regulation/2)
+[^c-91be7e0f212419082087d5a09c0be83b]: Textual amendment: [Pt. 17 Ch. 2A](https://www.legislation.gov.uk/ukpga/2000/8/part/XVII/chapter/2A) inserted (1.1.2021) by [The Bearer Certificates (Collective Investment Schemes) Regulations 2020 (S.I. 2020/1346)](https://www.legislation.gov.uk/uksi/2020/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1346/regulation/2)
 
-[^key-a633e90c680abea1208a9855c68fc2f4]: Textual amendment: Pt. 17 Ch. 3A inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/3/12) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-a633e90c680abea1208a9855c68fc2f4]: Textual amendment: Pt. 17 Ch. 3A inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/3/12) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
-[^key-ed924db09d5d7e04e32aa2a070474308]: Textual amendment: Pt. 17 Ch. 3B inserted (29.10.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/64/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/c)
+[^c-ed924db09d5d7e04e32aa2a070474308]: Textual amendment: Pt. 17 Ch. 3B inserted (29.10.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/64/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/c)
 
-[^key-c6726501ad94d1f45dc0536a778ab486]: Textual amendment: Ss. 270, 271 and crossheading omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/18)
+[^c-c6726501ad94d1f45dc0536a778ab486]: Textual amendment: Ss. 270, 271 and crossheading omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/18)
 
-[^key-25992651a59835f6044c574ac05fd8cf]: Textual amendment: [Ss. 271A-271S](https://www.legislation.gov.uk/ukpga/2000/8/section/271A) and cross-heading inserted (23.2.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/1); [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-25992651a59835f6044c574ac05fd8cf]: Textual amendment: [Ss. 271A-271S](https://www.legislation.gov.uk/ukpga/2000/8/section/271A) and cross-heading inserted (23.2.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/1); [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-4de9d77d5a5d0f31c78465a104bbdb3b]: Textual amendment: S. 278 crossheading omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/22)
+[^c-4de9d77d5a5d0f31c78465a104bbdb3b]: Textual amendment: S. 278 crossheading omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/22)
 
 [^c2109279]: Textual amendment: Ch. 5A inserted (1.7.2011) by The Undertakings for Collective Investment in [Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [reg. 2(26)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/2/26)
 
-[^key-54fbbb52a18d7fc05aebffb8592a4a54]: Textual amendment: Pt. 17A inserted (4.5.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/31/2), [41(1)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/1)
+[^c-54fbbb52a18d7fc05aebffb8592a4a54]: Textual amendment: Pt. 17A inserted (4.5.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/31/2), [41(1)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/1)
 
 [^c2124731]: Modification: Pt. 18 applied in part (with modifications) (12.12.2011) by [The Recognised Auction Platforms Regulations 2011 (S.I. 2011/2699)](https://www.legislation.gov.uk/uksi/2011/2699), [reg. 7](https://www.legislation.gov.uk/uksi/2011/2699/regulation/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2699/schedule/2) (as amended (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/37) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1)))
 
-[^key-3f53960bd15e06617b50ddc14d4dfdad]: Textual amendment: Pt. 18 heading substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/2/8) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-3f53960bd15e06617b50ddc14d4dfdad]: Textual amendment: Pt. 18 heading substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/2/8) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
-[^key-e20c090c133fe6369a1fa2d921226024]: Textual amendment: Words in [Pt. 18](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII) heading substituted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/18/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/m)
+[^c-e20c090c133fe6369a1fa2d921226024]: Textual amendment: Words in [Pt. 18](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII) heading substituted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/18/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/m)
 
 [^c2077847]: Textual amendment: S. 292A and cross-heading inserted (1.4.2007 for certain purposes and 1.11.2007 otherwise) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007 (S.I. 2007/126)](https://www.legislation.gov.uk/uksi/2007/126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/126/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2007/126/regulation/3/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2007/126/schedule/2/paragraph/5)
 
 [^c2077179]: Textual amendment: S. 300A and cross-heading inserted (20.12.2006) by [Investment Exchanges and Clearing Houses Act 2006 (c. 55)](https://www.legislation.gov.uk/ukpga/2006/55), [ss. 1](https://www.legislation.gov.uk/ukpga/2006/55/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2006/55/section/5/2) (with [s. 5(3)](https://www.legislation.gov.uk/ukpga/2006/55/section/5/3))
 
-[^key-445febb945fb0c587ab3a0117029731b]: Textual amendment: Ss. 300F, 300G and cross-heading inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/9/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/a)
+[^c-445febb945fb0c587ab3a0117029731b]: Textual amendment: Ss. 300F, 300G and cross-heading inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/9/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/a)
 
-[^key-c6a2b6df945e8b4a4957d1c5c0a02500]: Textual amendment: Ss. 300I-300M and cross-heading inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/49/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/e)
+[^c-c6a2b6df945e8b4a4957d1c5c0a02500]: Textual amendment: Ss. 300I-300M and cross-heading inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/49/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/e)
 
 [^c2090267]: Textual amendment: Pt. 18 Ch. 1A substituted (21.3.2009) by virtue of [The Financial Services and Markets Act 2000 (Controllers) Regulations 2009 (S.I. 2009/534)](https://www.legislation.gov.uk/uksi/2009/534), [reg. 5](https://www.legislation.gov.uk/uksi/2009/534/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/534/schedule/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2009/534/regulation/8))
 
 [^c2075351]: Textual amendment: S. 303: cross-heading substituted (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 278](https://www.legislation.gov.uk/ukpga/2002/40/section/278), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 25 para. 40(10)(f)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/40/10/f); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3))
 
-[^key-ece2c29fab1c3cdde545c7b7f425c28f]: Textual amendment: [Pt. 18 Ch. 2A](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII/chapter/2A) inserted (29.6.2023 for specified purposes) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/10/paragraph/1)
+[^c-ece2c29fab1c3cdde545c7b7f425c28f]: Textual amendment: [Pt. 18 Ch. 2A](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII/chapter/2A) inserted (29.6.2023 for specified purposes) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/10/paragraph/1)
 
-[^key-7b6d2284191737daa68a651f0f502b90]: Textual amendment: Pt. 18 Ch. 3A omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/662/regulation/7) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b6d2284191737daa68a651f0f502b90]: Textual amendment: Pt. 18 Ch. 3A omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/662/regulation/7) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fa4379193daabc86e89c7f8ed34bb8ad]: Modification: [Pt. 18 Ch. 3B](https://www.legislation.gov.uk/ukpga/2000/8/part/18/chapter/3B) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2024/107/regulation/19); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
+[^c-fa4379193daabc86e89c7f8ed34bb8ad]: Modification: [Pt. 18 Ch. 3B](https://www.legislation.gov.uk/ukpga/2000/8/part/18/chapter/3B) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2024/107/regulation/19); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
 
-[^key-3f5a063e1904b6fb607dc9e417256987]: Textual amendment: Pt. 18 Ch. 3B inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 33](https://www.legislation.gov.uk/ukpga/2012/21/section/33), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3f5a063e1904b6fb607dc9e417256987]: Textual amendment: Pt. 18 Ch. 3B inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 33](https://www.legislation.gov.uk/ukpga/2012/21/section/33), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-9011c9bf6e22711b633989798022d9c9]: Textual amendment: Words in [Pt. 18 Ch. 3B](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII/chapter/3B) heading inserted (29.6.2023 for specified purposes) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/10/paragraph/9)
+[^c-9011c9bf6e22711b633989798022d9c9]: Textual amendment: Words in [Pt. 18 Ch. 3B](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII/chapter/3B) heading inserted (29.6.2023 for specified purposes) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/10/paragraph/9)
 
-[^key-324dd5e825c1cf2b2115d54b810555ac]: Textual amendment: [Pt. 18 Ch. 3C](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII/chapter/3C) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/18/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/m)
+[^c-324dd5e825c1cf2b2115d54b810555ac]: Textual amendment: [Pt. 18 Ch. 3C](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII/chapter/3C) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/18/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/m)
 
-[^key-8ca8673f0b2e12770e450c40185d8d26]: Modification: [Pt. 18A](https://www.legislation.gov.uk/ukpga/2000/8/part/18A): power to amend conferred (1.9.2023) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 22(8)(b)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/8/b), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5); [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/c)
+[^c-8ca8673f0b2e12770e450c40185d8d26]: Modification: [Pt. 18A](https://www.legislation.gov.uk/ukpga/2000/8/part/18A): power to amend conferred (1.9.2023) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 22(8)(b)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/8/b), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5); [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/c)
 
 [^c2077965]: Textual amendment: Pt. 18A inserted (1.4.2007 for certain purposes and 1.11.2007 otherwise) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007 (S.I. 2007/126)](https://www.legislation.gov.uk/uksi/2007/126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/126/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2007/126/regulation/3/3), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2007/126/schedule/3/paragraph/1)
 
 [^c2080430]: Modification: Pt. 20 modified (E.W.S.) by [S.I. 2000/119](https://www.legislation.gov.uk/uksi/2000/119), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2000/119/schedule/4/paragraph/11) (as substituted (1.7.2009 in accordance with art. 1(1)(c) of [S.I. 2009/1587](https://www.legislation.gov.uk/uksi/2009/1587)) by [S.I. 2009/1587](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(11)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/11))
 
-[^key-bb01b8719dde33fca021fc6101fe14e6]: Textual amendment: [Pt. 20A](https://www.legislation.gov.uk/ukpga/2000/8/part/20A) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/19); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(v)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/v)
+[^c-bb01b8719dde33fca021fc6101fe14e6]: Textual amendment: [Pt. 20A](https://www.legislation.gov.uk/ukpga/2000/8/part/20A) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/19); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(v)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/v)
 
-[^key-8e0c8441769702c3a6785fb588ee58ec]: Textual amendment: Pt. 20B inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/29/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/w)
+[^c-8e0c8441769702c3a6785fb588ee58ec]: Textual amendment: Pt. 20B inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/29/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/w)
 
 [^c2078483]: Modification: [Pt. 22](https://www.legislation.gov.uk/ukpga/2000/8/part/22) applied (with modifications) (30.4.2011) by [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2/b), [62](https://www.legislation.gov.uk/uksi/2011/99/regulation/62), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2011/99/schedule/3/paragraph/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3)) (as amended (1.4.2013) by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 196(5)(e)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/196/5/e) and (18.9.2023) by [S.I. 2023/790](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/2/3/b))
 
-[^key-e831a928746164b9d91df9a19f1ff644]: Textual amendment: S. 339A cross-heading substituted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 134(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/134/3), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-e831a928746164b9d91df9a19f1ff644]: Textual amendment: S. 339A cross-heading substituted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 134(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/134/3), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-a924acd4bd20269966c8363805e1ab05]: Textual amendment: S. 339A and cross-heading inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-a924acd4bd20269966c8363805e1ab05]: Textual amendment: S. 339A and cross-heading inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-00fa7d40fdc4a3f86d459fd353c60259]: Textual amendment: Ss. 345-345E and cross-heading substituted for s. 345 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 13 para. 7(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/7/1) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-00fa7d40fdc4a3f86d459fd353c60259]: Textual amendment: Ss. 345-345E and cross-heading substituted for s. 345 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 13 para. 7(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/7/1) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-abe6fc72b84f2c289f2cbd16bf3e6cb7]: Textual amendment: S. 353A and cross-heading inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2012/21/schedule/12/paragraph/24) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-abe6fc72b84f2c289f2cbd16bf3e6cb7]: Textual amendment: S. 353A and cross-heading inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2012/21/schedule/12/paragraph/24) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-610bb42a9d98b6eb83f86a751eec7b9d]: Modification: Pt. 24 applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-610bb42a9d98b6eb83f86a751eec7b9d]: Modification: Pt. 24 applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
-[^key-3ca2936c5b784102cd914b4d4c83b3b5]: Modification: Pt. 24 applied in part (with modifications) (8.7.2021) by [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752), [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/9) (as substituted by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [48(1)](https://www.legislation.gov.uk/uksi/2021/716/regulation/48/1))
+[^c-3ca2936c5b784102cd914b4d4c83b3b5]: Modification: Pt. 24 applied in part (with modifications) (8.7.2021) by [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752), [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/9) (as substituted by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [48(1)](https://www.legislation.gov.uk/uksi/2021/716/regulation/48/1))
 
-[^key-a1ea1bb62be9b99ef949a13016cc7495]: Modification: Pt. 24 applied in part (with modifications) (8.7.2021) by [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2011/99/schedule/3/paragraph/7) (as substituted by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [48(2)](https://www.legislation.gov.uk/uksi/2021/716/regulation/48/2))
+[^c-a1ea1bb62be9b99ef949a13016cc7495]: Modification: Pt. 24 applied in part (with modifications) (8.7.2021) by [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2011/99/schedule/3/paragraph/7) (as substituted by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [48(2)](https://www.legislation.gov.uk/uksi/2021/716/regulation/48/2))
 
-[^key-5fe5bb330be89aaad84db1eb96e6bd54]: Textual amendment: Ss. 355A, 355B and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 20(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/20/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-5fe5bb330be89aaad84db1eb96e6bd54]: Textual amendment: Ss. 355A, 355B and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 20(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/20/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-b81d0fc8fb194115f45a756cbe388cb4]: Textual amendment: S. 379A and cross-heading inserted (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 112](https://www.legislation.gov.uk/ukpga/2017/30/section/112), [118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1)
+[^c-b81d0fc8fb194115f45a756cbe388cb4]: Textual amendment: S. 379A and cross-heading inserted (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 112](https://www.legislation.gov.uk/ukpga/2017/30/section/112), [118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1)
 
 [^c1709682]: Modification: Pt. 25 amended (1.12.2001) by [S.I. 2001/2657](https://www.legislation.gov.uk/uksi/2001/2657), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2657/article/1/1), [10(10)](https://www.legislation.gov.uk/uksi/2001/2657/article/10/10), [11(10)](https://www.legislation.gov.uk/uksi/2001/2657/article/11/10) (which was revoked (8.10.2001) by [S.I. 2001/3083](https://www.legislation.gov.uk/uksi/2001/3083), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3083/article/1/2), [23](https://www.legislation.gov.uk/uksi/2001/3083/article/23)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
@@ -3458,27 +3458,27 @@ SCHEDULES
 
     Pt. 25 extended (1.12.2001) by [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3646/article/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2001/3646/article/3/1/a)
 
-[^key-0529eba7b933c8fcefd68865caf1972c]: Modification: Pt. 25 applied (with modifications) (E.W.) (9.7.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 (S.I. 2013/1635)](https://www.legislation.gov.uk/uksi/2013/1635), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/24/1)
+[^c-0529eba7b933c8fcefd68865caf1972c]: Modification: Pt. 25 applied (with modifications) (E.W.) (9.7.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 (S.I. 2013/1635)](https://www.legislation.gov.uk/uksi/2013/1635), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/24/1)
 
-[^key-b306f4c1df6035197bfd6edfe2277da7]: Modification: Pt. 25 applied (with modifications) (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/21) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+[^c-b306f4c1df6035197bfd6edfe2277da7]: Modification: Pt. 25 applied (with modifications) (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/21) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
 
-[^key-6f3640d4b16291637a9be4d06c5baa98]: Modification: Pt. 25 applied (with modifications) (1.1.2018) by [The Packaged Retail and Insurance-based Investment Products Regulations 2017 (S.I. 2017/1127)](https://www.legislation.gov.uk/uksi/2017/1127), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1127/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/1127/schedule/1/paragraph/5)
+[^c-6f3640d4b16291637a9be4d06c5baa98]: Modification: Pt. 25 applied (with modifications) (1.1.2018) by [The Packaged Retail and Insurance-based Investment Products Regulations 2017 (S.I. 2017/1127)](https://www.legislation.gov.uk/uksi/2017/1127), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1127/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/1127/schedule/1/paragraph/5)
 
-[^key-bf5e1fb0b389f1ea96d1fd9290319e9c]: Modification: Pt. 25 applied (with modifications) (3.1.2018) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [36](https://www.legislation.gov.uk/uksi/2017/699/regulation/36)
+[^c-bf5e1fb0b389f1ea96d1fd9290319e9c]: Modification: Pt. 25 applied (with modifications) (3.1.2018) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [36](https://www.legislation.gov.uk/uksi/2017/699/regulation/36)
 
-[^key-ec87a74f9b0797d22d23ecc9ae0631b4]: Modification: Pt. 25 applied (with modifications) (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2018/135/regulation/22)
+[^c-ec87a74f9b0797d22d23ecc9ae0631b4]: Modification: Pt. 25 applied (with modifications) (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2018/135/regulation/22)
 
-[^key-af676d23ad8b9c9341c2011616ed134e]: Modification: Pt. 25 applied (with modifications) (1.1.2019) by [The Securitisation Regulations 2018 (S.I. 2018/1288)](https://www.legislation.gov.uk/uksi/2018/1288), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1288/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/6) (with [Sch. 1 paras. 13](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/14))
+[^c-af676d23ad8b9c9341c2011616ed134e]: Modification: Pt. 25 applied (with modifications) (1.1.2019) by [The Securitisation Regulations 2018 (S.I. 2018/1288)](https://www.legislation.gov.uk/uksi/2018/1288), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1288/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/6) (with [Sch. 1 paras. 13](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/14))
 
-[^key-f00ea1c267f5437c2261871b6bea6617]: Modification: Pt. 25 applied (with modifications) (10.6.2019) by [The Proxy Advisors (Shareholders Rights) Regulations 2019 (S.I. 2019/926)](https://www.legislation.gov.uk/uksi/2019/926), [regs. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/926/regulation/20), [25](https://www.legislation.gov.uk/uksi/2019/926/regulation/25)
+[^c-f00ea1c267f5437c2261871b6bea6617]: Modification: Pt. 25 applied (with modifications) (10.6.2019) by [The Proxy Advisors (Shareholders Rights) Regulations 2019 (S.I. 2019/926)](https://www.legislation.gov.uk/uksi/2019/926), [regs. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/926/regulation/20), [25](https://www.legislation.gov.uk/uksi/2019/926/regulation/25)
 
-[^key-e459734233cf7ceebf359d64a0ad5a73]: Modification: Pt. 25 applied (with modifications) (30.1.2024 for specified purposes) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/11) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3))
+[^c-e459734233cf7ceebf359d64a0ad5a73]: Modification: Pt. 25 applied (with modifications) (30.1.2024 for specified purposes) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/11) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3))
 
-[^key-cf332e7483bafab75eb4d21bb680b3d8]: Modification: [Pt. 25](https://www.legislation.gov.uk/ukpga/2000/8/part/25) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2024/107/regulation/22); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
+[^c-cf332e7483bafab75eb4d21bb680b3d8]: Modification: [Pt. 25](https://www.legislation.gov.uk/ukpga/2000/8/part/25) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2024/107/regulation/22); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
 
-[^key-c0feda63612be175750e3cdc70726dcf]: Modification: Pt. 25 applied (with modifications) (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/11) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)); as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2)
+[^c-c0feda63612be175750e3cdc70726dcf]: Modification: Pt. 25 applied (with modifications) (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/11) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)); as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2)
 
-[^key-23bf5b0d28dbca45c3750c9d4782fcc1]: Textual amendment: Words in s. 384 cross-heading substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 23(10)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/23/10) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-23bf5b0d28dbca45c3750c9d4782fcc1]: Textual amendment: Words in s. 384 cross-heading substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 23(10)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/23/10) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c1709698]: Modification: Pt. 26 (ss. 387-396) applied (with modifications) (17.8.2001 for certain purposes otherwise 1.12.2001) by [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40), [s. 58A(6)(8)](https://www.legislation.gov.uk/ukpga/1992/40/section/58A/6/8) (as substituted (17.8.2001 for certain purposes otherwise 1.12.2001) by 2001/2617, arts. 2, 8, 13(1), Sch. 3 Pt. I para. 75 (with art. 13(3), Sch.5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
@@ -3500,102 +3500,102 @@ SCHEDULES
 
 [^c2078134]: Modification: Pt. 26 applied (with modifications) (9.2.2011 for certain purposes and 30.4.2011 otherwise) by [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [regs. 1(2)(a)(xiv)(b)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2/a/xiv/b), [62](https://www.legislation.gov.uk/uksi/2011/99/regulation/62), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2011/99/schedule/3/paragraph/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3)) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), Sch. 2 para. 196(5)(h))
 
-[^key-129aea3995592f5ec1a8d31d95e38037]: Modification: Pt. 26 applied (with modifications) (15.1.2013) by [The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 (S.I. 2012/3122)](https://www.legislation.gov.uk/uksi/2012/3122), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3122/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/5) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(n)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/n)[(o)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/o))
+[^c-129aea3995592f5ec1a8d31d95e38037]: Modification: Pt. 26 applied (with modifications) (15.1.2013) by [The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 (S.I. 2012/3122)](https://www.legislation.gov.uk/uksi/2012/3122), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3122/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/5) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(n)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/n)[(o)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/o))
 
-[^key-c879ccd29431a2f73863ea99e6506085]: Modification: Pt. 26 applied (with modifications) (E.W.) (9.7.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 (S.I. 2013/1635)](https://www.legislation.gov.uk/uksi/2013/1635), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1), [30(1)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/30/1)
+[^c-c879ccd29431a2f73863ea99e6506085]: Modification: Pt. 26 applied (with modifications) (E.W.) (9.7.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 (S.I. 2013/1635)](https://www.legislation.gov.uk/uksi/2013/1635), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1), [30(1)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/30/1)
 
-[^key-314e55c5c1aeaf741f3033ac7230f945]: Modification: Pt. 26 applied (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [70(2)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/70/2)
+[^c-314e55c5c1aeaf741f3033ac7230f945]: Modification: Pt. 26 applied (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [70(2)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/70/2)
 
-[^key-c43d5977199343fe97ca13478558c9a7]: Modification: Pt. 26 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/11)
+[^c-c43d5977199343fe97ca13478558c9a7]: Modification: Pt. 26 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/11)
 
-[^key-369cdb66e9503f41196974a3a5495798]: Modification: Pt. 26 applied (with modifications) (12.12.2014) by [The Immigration Act 2014 (Bank Accounts) Regulations 2014 (S.I. 2014/3085)](https://www.legislation.gov.uk/uksi/2014/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1), [29](https://www.legislation.gov.uk/uksi/2014/3085/regulation/29)
+[^c-369cdb66e9503f41196974a3a5495798]: Modification: Pt. 26 applied (with modifications) (12.12.2014) by [The Immigration Act 2014 (Bank Accounts) Regulations 2014 (S.I. 2014/3085)](https://www.legislation.gov.uk/uksi/2014/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1), [29](https://www.legislation.gov.uk/uksi/2014/3085/regulation/29)
 
-[^key-1fa0fd429e678522b4b38f753b65a491]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied (with modifications) by [S.I. 2002/1775](https://www.legislation.gov.uk/uksi/2002/1775), [reg. 11C(5)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/11C/5) (as inserted (24.3.2015) by [The Electronic Commerce Directive (Financial Services and Markets) (Amendment) Order 2015 (S.I. 2015/852)](https://www.legislation.gov.uk/uksi/2015/852), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/852/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2015/852/article/2/2))
+[^c-1fa0fd429e678522b4b38f753b65a491]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied (with modifications) by [S.I. 2002/1775](https://www.legislation.gov.uk/uksi/2002/1775), [reg. 11C(5)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/11C/5) (as inserted (24.3.2015) by [The Electronic Commerce Directive (Financial Services and Markets) (Amendment) Order 2015 (S.I. 2015/852)](https://www.legislation.gov.uk/uksi/2015/852), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/852/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2015/852/article/2/2))
 
-[^key-f21fd1bc69cd9b8d8cef26c0c092b9e2]: Modification: Pt. 26 applied (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [24(2)](https://www.legislation.gov.uk/uksi/2015/910/article/24/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-f21fd1bc69cd9b8d8cef26c0c092b9e2]: Modification: Pt. 26 applied (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [24(2)](https://www.legislation.gov.uk/uksi/2015/910/article/24/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-33b456ccb00f7be39b3aa94eef503ced]: Modification: Pt. 26 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Finance Platforms) Regulations 2015 (S.I. 2015/1946)](https://www.legislation.gov.uk/uksi/2015/1946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2015/1946/regulation/41)
+[^c-33b456ccb00f7be39b3aa94eef503ced]: Modification: Pt. 26 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Finance Platforms) Regulations 2015 (S.I. 2015/1946)](https://www.legislation.gov.uk/uksi/2015/1946), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2015/1946/regulation/41)
 
-[^key-508426a6df1bc457dd775fc0623ff6a4]: Modification: Pt. 26 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2015/1945/regulation/44)
+[^c-508426a6df1bc457dd775fc0623ff6a4]: Modification: Pt. 26 applied (with modifications) (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2015/1945/regulation/44)
 
-[^key-22079497bf41e61ca716cc3afeeac3a4]: Modification: Pt. 26 applied (with modifications) (13.7.2016) by [The Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016 (S.I. 2016/715)](https://www.legislation.gov.uk/uksi/2016/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2016/715/regulation/19)
+[^c-22079497bf41e61ca716cc3afeeac3a4]: Modification: Pt. 26 applied (with modifications) (13.7.2016) by [The Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016 (S.I. 2016/715)](https://www.legislation.gov.uk/uksi/2016/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2016/715/regulation/19)
 
-[^key-2f73238c6fa00d9ddcc9a2c2a4bdb2c3]: Modification: Pt. 26 applied (with modifications) (18.9.2016) by [The Payment Accounts Regulations 2015 (S.I. 2015/2038)](https://www.legislation.gov.uk/uksi/2015/2038), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/1/2/b), [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/4)
+[^c-2f73238c6fa00d9ddcc9a2c2a4bdb2c3]: Modification: Pt. 26 applied (with modifications) (18.9.2016) by [The Payment Accounts Regulations 2015 (S.I. 2015/2038)](https://www.legislation.gov.uk/uksi/2015/2038), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/1/2/b), [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/4)
 
-[^key-f33b9f682d0a773e3e350cd460557a8c]: Modification: Pt. 26 modified (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/22) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+[^c-f33b9f682d0a773e3e350cd460557a8c]: Modification: Pt. 26 modified (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/22) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
 
-[^key-b9b0cccca45b602746224897044c7dd4]: Modification: Pt. 26 applied (with modifications) (3.7.2017 for specified purposes, 3.1.2018 in so far as not already in force, 3.1.2018 in so far as not already in force) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [37](https://www.legislation.gov.uk/uksi/2017/699/regulation/37)
+[^c-b9b0cccca45b602746224897044c7dd4]: Modification: Pt. 26 applied (with modifications) (3.7.2017 for specified purposes, 3.1.2018 in so far as not already in force, 3.1.2018 in so far as not already in force) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [37](https://www.legislation.gov.uk/uksi/2017/699/regulation/37)
 
-[^key-ab85ff4dc3d96802284f69eb92b521d2]: Modification: Pt. 26 applied (with modifications) (13.10.2017) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/c), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-ab85ff4dc3d96802284f69eb92b521d2]: Modification: Pt. 26 applied (with modifications) (13.10.2017) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/c), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-8a71d5c8f62fb152187d5685bdb82f84]: Modification: Pt. 26 applied (with modifications) (1.1.2018) by [The Packaged Retail and Insurance-based Investment Products Regulations 2017 (S.I. 2017/1127)](https://www.legislation.gov.uk/uksi/2017/1127), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1127/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2017/1127/schedule/1/paragraph/6)
+[^c-8a71d5c8f62fb152187d5685bdb82f84]: Modification: Pt. 26 applied (with modifications) (1.1.2018) by [The Packaged Retail and Insurance-based Investment Products Regulations 2017 (S.I. 2017/1127)](https://www.legislation.gov.uk/uksi/2017/1127), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1127/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2017/1127/schedule/1/paragraph/6)
 
-[^key-bf3a1e5fae6d3731f87644b8cf20460f]: Modification: Pt. 26 applied (with modifications) (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2018/135/regulation/23)
+[^c-bf3a1e5fae6d3731f87644b8cf20460f]: Modification: Pt. 26 applied (with modifications) (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2018/135/regulation/23)
 
-[^key-f1e49da15e8ee180792b8f6f5c05dc95]: Modification: Pt. 26 applied (with modifications) (1.1.2019) by [The Securitisation Regulations 2018 (S.I. 2018/1288)](https://www.legislation.gov.uk/uksi/2018/1288), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1288/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/7) (with [Sch. 1 paras. 13](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/14))
+[^c-f1e49da15e8ee180792b8f6f5c05dc95]: Modification: Pt. 26 applied (with modifications) (1.1.2019) by [The Securitisation Regulations 2018 (S.I. 2018/1288)](https://www.legislation.gov.uk/uksi/2018/1288), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1288/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/7) (with [Sch. 1 paras. 13](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/uksi/2018/1288/schedule/1/paragraph/14))
 
-[^key-bc1a8bf9e1160afc9c5e8c82cbf2e9f0]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied by [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 56(4)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/56/4) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/405/regulation/3))
+[^c-bc1a8bf9e1160afc9c5e8c82cbf2e9f0]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied by [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 56(4)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/56/4) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/405/regulation/3))
 
-[^key-cca6b3a6f02cba00a85fdb25ca12ea68]: Modification: Pt. 26 applied by S.I. 2018/1201, reg. 34(3) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/3))
+[^c-cca6b3a6f02cba00a85fdb25ca12ea68]: Modification: Pt. 26 applied by S.I. 2018/1201, reg. 34(3) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/3))
 
-[^key-598c907acf74e6eb6e6bef0b44a58a71]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied by [S.I. 2018/1201](https://www.legislation.gov.uk/uksi/2018/1201), [Sch. 3 para. 12J(3)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/12J/3) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/2))
+[^c-598c907acf74e6eb6e6bef0b44a58a71]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied by [S.I. 2018/1201](https://www.legislation.gov.uk/uksi/2018/1201), [Sch. 3 para. 12J(3)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/12J/3) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/2))
 
-[^key-603f12b2df08c9fd255ff4bca6860ddd]: Modification: Pt. 26 applied (with modifications) (10.6.2019) by [The Proxy Advisors (Shareholders Rights) Regulations 2019 (S.I. 2019/926)](https://www.legislation.gov.uk/uksi/2019/926), [regs. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/926/regulation/20), [26](https://www.legislation.gov.uk/uksi/2019/926/regulation/26) (as amended by [S.I. 2020/628](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(6)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/6))
+[^c-603f12b2df08c9fd255ff4bca6860ddd]: Modification: Pt. 26 applied (with modifications) (10.6.2019) by [The Proxy Advisors (Shareholders Rights) Regulations 2019 (S.I. 2019/926)](https://www.legislation.gov.uk/uksi/2019/926), [regs. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/926/regulation/20), [26](https://www.legislation.gov.uk/uksi/2019/926/regulation/26) (as amended by [S.I. 2020/628](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(6)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/6))
 
-[^key-7eb97470a1459a3f288c83e83a55a3ab]: Modification: Pt. 26 applied (with modifications) (31.12.2020) by [The Credit Rating Agencies (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/266)](https://www.legislation.gov.uk/uksi/2019/266), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/3), [19(1)](https://www.legislation.gov.uk/uksi/2019/266/regulation/19/1) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7eb97470a1459a3f288c83e83a55a3ab]: Modification: Pt. 26 applied (with modifications) (31.12.2020) by [The Credit Rating Agencies (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/266)](https://www.legislation.gov.uk/uksi/2019/266), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/3), [19(1)](https://www.legislation.gov.uk/uksi/2019/266/regulation/19/1) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7604e3b7eb55bc682c712573a8e69b66]: Modification: Pt. 26 applied (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/16/4) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7604e3b7eb55bc682c712573a8e69b66]: Modification: Pt. 26 applied (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/16/4) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e9ae19f0d00ae0f48fd435227fce0e18]: Modification: Pt. 26 applied in part (with modifications) (31.12.2020) by [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/542/regulation/37) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e9ae19f0d00ae0f48fd435227fce0e18]: Modification: Pt. 26 applied in part (with modifications) (31.12.2020) by [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/542/regulation/37) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-446110d33f0e5b84b0df7bf0f4be59df]: Modification: Pt. 26 applied in part (with modifications) (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [76](https://www.legislation.gov.uk/uksi/2019/335/regulation/76) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-446110d33f0e5b84b0df7bf0f4be59df]: Modification: Pt. 26 applied in part (with modifications) (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [76](https://www.legislation.gov.uk/uksi/2019/335/regulation/76) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-293767e57ae89e16518ceca388dac808]: Modification: Pt. 26 applied in part (with modifications) (30.1.2024 for specified purposes) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/12) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3))
+[^c-293767e57ae89e16518ceca388dac808]: Modification: Pt. 26 applied in part (with modifications) (30.1.2024 for specified purposes) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/12) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3))
 
-[^key-c5259238537c0efcb7317dbaaf03a32b]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/107/regulation/23); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
+[^c-c5259238537c0efcb7317dbaaf03a32b]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/107/regulation/23); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
 
-[^key-19d40001422c7c4018860e09a7a06898]: Modification: Pt. 26 applied in part (with modifications) (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/12) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)); as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2)
+[^c-19d40001422c7c4018860e09a7a06898]: Modification: Pt. 26 applied in part (with modifications) (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [reg. 2(1)(e)(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2024/102/schedule/1/paragraph/12) (with [reg. 52(3)](https://www.legislation.gov.uk/uksi/2024/102/regulation/52/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)); as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2)
 
-[^key-46e22ddd9bd72fa4544be3588a0158fc]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied (with modifications) (1.1.2026) by [The Financial Services and Markets Act 2023 (Mutual Recognition Agreement) (Switzerland) Regulations 2025 (S.I. 2025/1145)](https://www.legislation.gov.uk/uksi/2025/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/1/2), [32(1)(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/32/1/2)
+[^c-46e22ddd9bd72fa4544be3588a0158fc]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied (with modifications) (1.1.2026) by [The Financial Services and Markets Act 2023 (Mutual Recognition Agreement) (Switzerland) Regulations 2025 (S.I. 2025/1145)](https://www.legislation.gov.uk/uksi/2025/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/1/2), [32(1)(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/32/1/2)
 
-[^key-0125f8dc2df5d0a7efc0b4c9c3621904]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2/3), [59(8)](https://www.legislation.gov.uk/uksi/2026/102/regulation/59/8) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-0125f8dc2df5d0a7efc0b4c9c3621904]: Modification: [Pt. 26](https://www.legislation.gov.uk/ukpga/2000/8/part/26) applied (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2/3), [59(8)](https://www.legislation.gov.uk/uksi/2026/102/regulation/59/8) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
 
-[^key-d061c01a69cf48eca0845bbe0bebff86]: Textual amendment: Words in s. 395 cross-heading substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 34(15)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/34/15) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-d061c01a69cf48eca0845bbe0bebff86]: Textual amendment: Words in s. 395 cross-heading substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 34(15)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/34/15) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-f27ea322e6f3eccf38d6952f370ae745]: Modification: Pt. 27 applied (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [50(3)](https://www.legislation.gov.uk/uksi/2013/1881/article/50/3)
+[^c-f27ea322e6f3eccf38d6952f370ae745]: Modification: Pt. 27 applied (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [50(3)](https://www.legislation.gov.uk/uksi/2013/1881/article/50/3)
 
-[^key-c646dcf7d340dd84bebbb8250d8c9f47]: Modification: Pt. 27 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/12)
+[^c-c646dcf7d340dd84bebbb8250d8c9f47]: Modification: Pt. 27 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/12)
 
-[^key-8696800328cdb10db7a1f54eaa9d2782]: Modification: Pt. 27 modified (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/23) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+[^c-8696800328cdb10db7a1f54eaa9d2782]: Modification: Pt. 27 modified (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/23) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
 
-[^key-1f949bbfc09751accb07f77f00ef122d]: Modification: Pt. 27 applied (with modifications) (3.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [38](https://www.legislation.gov.uk/uksi/2017/699/regulation/38)
+[^c-1f949bbfc09751accb07f77f00ef122d]: Modification: Pt. 27 applied (with modifications) (3.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [38](https://www.legislation.gov.uk/uksi/2017/699/regulation/38)
 
-[^key-c8dfa39a8b2d4861ebd3ab6bd8a349ee]: Modification: Pt. 27 applied (with modifications) (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2018/135/regulation/24)
+[^c-c8dfa39a8b2d4861ebd3ab6bd8a349ee]: Modification: Pt. 27 applied (with modifications) (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2018/135/regulation/24)
 
-[^key-f5fc5bad12ba0a3038c4378cd4ca0898]: Modification: Pt. 27 applied (with modifications) (10.6.2019) by [The Proxy Advisors (Shareholders Rights) Regulations 2019 (S.I. 2019/926)](https://www.legislation.gov.uk/uksi/2019/926), [regs. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/926/regulation/20), [27](https://www.legislation.gov.uk/uksi/2019/926/regulation/27)
+[^c-f5fc5bad12ba0a3038c4378cd4ca0898]: Modification: Pt. 27 applied (with modifications) (10.6.2019) by [The Proxy Advisors (Shareholders Rights) Regulations 2019 (S.I. 2019/926)](https://www.legislation.gov.uk/uksi/2019/926), [regs. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/926/regulation/20), [27](https://www.legislation.gov.uk/uksi/2019/926/regulation/27)
 
-[^key-cb7996d996f5ea669b13ee232aac28be]: Modification: Pt. 27 applied (with modifications) (31.12.2020) by [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [38](https://www.legislation.gov.uk/uksi/2019/542/regulation/38) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb7996d996f5ea669b13ee232aac28be]: Modification: Pt. 27 applied (with modifications) (31.12.2020) by [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [38](https://www.legislation.gov.uk/uksi/2019/542/regulation/38) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2beae1a79435a1ec54d7ceff083e39f]: Modification: Pt. 27 applied (with modifications) (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [77](https://www.legislation.gov.uk/uksi/2019/335/regulation/77) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2beae1a79435a1ec54d7ceff083e39f]: Modification: Pt. 27 applied (with modifications) (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [77](https://www.legislation.gov.uk/uksi/2019/335/regulation/77) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f876f136721887d7d46f78906efaf3d6]: Modification: [Pt. 27](https://www.legislation.gov.uk/ukpga/2000/8/part/27) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/107/regulation/24); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
+[^c-f876f136721887d7d46f78906efaf3d6]: Modification: [Pt. 27](https://www.legislation.gov.uk/ukpga/2000/8/part/27) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/107/regulation/24); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
 
 [^c2078023]: Textual amendment: Ss. 404-404G and preceding cross-heading substituted (12.10.2010) for s. 404 and preceding cross-heading by [Financial Services Act 2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), [ss. 14](https://www.legislation.gov.uk/ukpga/2010/28/section/14), [26(3)](https://www.legislation.gov.uk/ukpga/2010/28/section/26/3); [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2](https://www.legislation.gov.uk/uksi/2010/2480/article/2)
 
-[^key-b9dd52bed304804ec6075432c361c3a1]: Textual amendment: Words in [s. 410](https://www.legislation.gov.uk/ukpga/2000/8/section/410) cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/32/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3) (with savings in [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 4](https://www.legislation.gov.uk/uksi/2023/936/regulation/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(w)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/w)
+[^c-b9dd52bed304804ec6075432c361c3a1]: Textual amendment: Words in [s. 410](https://www.legislation.gov.uk/ukpga/2000/8/section/410) cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/32/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3) (with savings in [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 4](https://www.legislation.gov.uk/uksi/2023/936/regulation/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(w)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/w)
 
-[^key-a364d5b9f338e1e1be94798c9c17fec1]: Textual amendment: Ss. 410A, 410B and cross-heading inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/135/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-a364d5b9f338e1e1be94798c9c17fec1]: Textual amendment: Ss. 410A, 410B and cross-heading inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/135/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
 [^c2076076]: Textual amendment: Ss. 412A, 412B and preceding cross-heading inserted (1.4.2007 for certain purposes and 1.11.2007 otherwise) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007 (S.I. 2007/126)](https://www.legislation.gov.uk/uksi/2007/126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/126/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2007/126/regulation/3/5), [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2007/126/schedule/5/paragraph/18)
 
 [^c2077312]: Textual amendment: S. 415A and preceding cross-heading inserted (8.4.2010) by [Financial Services Act 2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2010/28/section/24/1), [26(1)(l)](https://www.legislation.gov.uk/ukpga/2010/28/section/26/1/l), [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2010/28/schedule/2/paragraph/30)
 
-[^key-8252bedbb7d598a4cadeee35589909dc]: Textual amendment: Words in s. 415A cross-heading substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 25(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/25/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-8252bedbb7d598a4cadeee35589909dc]: Textual amendment: Words in s. 415A cross-heading substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 25(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/25/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-3fe21ef34ca8611c234b12bfedd995be]: Textual amendment: S. 415B and cross-heading inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 41](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/41) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3fe21ef34ca8611c234b12bfedd995be]: Textual amendment: S. 415B and cross-heading inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 41](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/41) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-7ca9764ad6afbaa9dac342bd92e5c20f]: Textual amendment: Words in [s. 415B cross-heading](https://www.legislation.gov.uk/ukpga/2000/8/part/XXVIII/crossheading/consultation) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/40/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(dd)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/dd)
+[^c-7ca9764ad6afbaa9dac342bd92e5c20f]: Textual amendment: Words in [s. 415B cross-heading](https://www.legislation.gov.uk/ukpga/2000/8/part/XXVIII/crossheading/consultation) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/40/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(dd)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/dd)
 
-[^key-cd858b6b93a04bc1f33eb387e389a50d]: Textual amendment: Ss. 416A, 416B and cross-heading inserted (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/21/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/a)
+[^c-cd858b6b93a04bc1f33eb387e389a50d]: Textual amendment: Ss. 416A, 416B and cross-heading inserted (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/21/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/a)
 
 [^c2078771]: Textual amendment: S. 137 and preceding cross-heading omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [5(1)](https://www.legislation.gov.uk/uksi/2010/22/article/5/1), [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/46)

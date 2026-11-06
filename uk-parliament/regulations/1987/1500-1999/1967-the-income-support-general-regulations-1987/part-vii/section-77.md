@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Modification of section 23(5) of the Act[^key-1383d0e6c4020878699e1d62542181cb]
+## 77. Modification of section 23(5) of the Act[^c-1383d0e6c4020878699e1d62542181cb]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Where income support is payable for a part-week, section 23(5) of the Act (trade
 
 ## Annotations
 
-[^key-1383d0e6c4020878699e1d62542181cb]: Textual amendment: Pt. 7 inserted (11.4.1988) by [The Income Support (General) Amendment Regulations 1988 (S.I. 1988/663)](https://www.legislation.gov.uk/uksi/1988/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/1988/663/regulation/27)
+[^c-1383d0e6c4020878699e1d62542181cb]: Textual amendment: Pt. 7 inserted (11.4.1988) by [The Income Support (General) Amendment Regulations 1988 (S.I. 1988/663)](https://www.legislation.gov.uk/uksi/1988/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/1988/663/regulation/27)

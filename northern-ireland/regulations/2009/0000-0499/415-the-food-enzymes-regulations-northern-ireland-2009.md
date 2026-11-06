@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Food Enzymes Regulations (Northern Ireland) 2009 (revoked)[^key-ecde36d89f374453cd6c14f6036bd72f]
+The Food Enzymes Regulations (Northern Ireland) 2009 (revoked)[^c-ecde36d89f374453cd6c14f6036bd72f]
 
 Made
 
@@ -42,54 +42,54 @@ Coming into operation
 
 20th January 2010
 
-[^key-ecde36d89f374453cd6c14f6036bd72f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecde36d89f374453cd6c14f6036bd72f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ecde36d89f374453cd6c14f6036bd72f]
+## 1. Citation and commencement[^c-ecde36d89f374453cd6c14f6036bd72f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ecde36d89f374453cd6c14f6036bd72f]
+## 2. Interpretation[^c-ecde36d89f374453cd6c14f6036bd72f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences, penalties and savings[^key-ecde36d89f374453cd6c14f6036bd72f]
+## 3. Offences, penalties and savings[^c-ecde36d89f374453cd6c14f6036bd72f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement and competent authorities[^key-ecde36d89f374453cd6c14f6036bd72f]
+## 4. Enforcement and competent authorities[^c-ecde36d89f374453cd6c14f6036bd72f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^key-ecde36d89f374453cd6c14f6036bd72f]
+## 5. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^c-ecde36d89f374453cd6c14f6036bd72f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Condemnation of Food[^key-ecde36d89f374453cd6c14f6036bd72f]
+## 6. Condemnation of Food[^c-ecde36d89f374453cd6c14f6036bd72f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^key-ecde36d89f374453cd6c14f6036bd72f]
+## 7. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^c-ecde36d89f374453cd6c14f6036bd72f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Caseins and Caseinates Regulations (Northern Ireland) 1986[^key-ecde36d89f374453cd6c14f6036bd72f]
+## 8. Amendment of the Caseins and Caseinates Regulations (Northern Ireland) 1986[^c-ecde36d89f374453cd6c14f6036bd72f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2003[^key-ecde36d89f374453cd6c14f6036bd72f]
+## 9. Amendment of the Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2003[^c-ecde36d89f374453cd6c14f6036bd72f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of the Novel Foods and Novel Food Ingredients Regulations (Northern Ireland) 2004[^key-ecde36d89f374453cd6c14f6036bd72f]
+## 10. Amendment of the Novel Foods and Novel Food Ingredients Regulations (Northern Ireland) 2004[^c-ecde36d89f374453cd6c14f6036bd72f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ecde36d89f374453cd6c14f6036bd72f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecde36d89f374453cd6c14f6036bd72f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ecde36d89f374453cd6c14f6036bd72f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecde36d89f374453cd6c14f6036bd72f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ecde36d89f374453cd6c14f6036bd72f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/415) revoked (1.1.2018) by [The Novel Foods Regulations (Northern Ireland) 2017 (S.R. 2017/233)](https://www.legislation.gov.uk/nisr/2017/233), [regs. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2017/233/regulation/6/b)
+[^c-ecde36d89f374453cd6c14f6036bd72f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/415) revoked (1.1.2018) by [The Novel Foods Regulations (Northern Ireland) 2017 (S.R. 2017/233)](https://www.legislation.gov.uk/nisr/2017/233), [regs. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2017/233/regulation/6/b)

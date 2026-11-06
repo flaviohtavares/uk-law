@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Duty to respond to Commissioner’s recommendations[^key-0e033070c2903779704d3a6eacef9a3d]
+## 49A. Duty to respond to Commissioner’s recommendations[^c-0e033070c2903779704d3a6eacef9a3d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e033070c2903779704d3a6eacef9a3d]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/ukpga/2004/28/section/49A) inserted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 22(3)](https://www.legislation.gov.uk/ukpga/2024/21/section/22/3), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/d)
+[^c-0e033070c2903779704d3a6eacef9a3d]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/ukpga/2004/28/section/49A) inserted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 22(3)](https://www.legislation.gov.uk/ukpga/2024/21/section/22/3), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2B — Model clauses for petroleum exploration and development licences granted by the Welsh Ministers[^key-53442c6c0b0672a7511925498956ffb9]
+## SCHEDULE 2B — Model clauses for petroleum exploration and development licences granted by the Welsh Ministers[^c-53442c6c0b0672a7511925498956ffb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ The Licensee must at all times keep the Secretary of State and the OGA effectual
 
 ## Annotations
 
-[^key-53442c6c0b0672a7511925498956ffb9]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/uksi/2014/1686/schedule/2B) inserted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/980/schedule/1) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
+[^c-53442c6c0b0672a7511925498956ffb9]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/uksi/2014/1686/schedule/2B) inserted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/980/schedule/1) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))

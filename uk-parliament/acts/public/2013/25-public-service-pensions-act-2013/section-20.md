@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Final salary link[^key-8decdc82c857ccf16ab64fc521d35ac6]
+## 20. Final salary link[^c-8decdc82c857ccf16ab64fc521d35ac6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 contains provision for a “**final salary link**” in relation to s
 
 ## Annotations
 
-[^key-8decdc82c857ccf16ab64fc521d35ac6]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2013/25/section/20) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/433/article/2/g)
+[^c-8decdc82c857ccf16ab64fc521d35ac6]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2013/25/section/20) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/433/article/2/g)

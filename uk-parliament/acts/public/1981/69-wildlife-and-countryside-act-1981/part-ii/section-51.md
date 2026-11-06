@@ -24,12 +24,12 @@ summary: ''
 
 - (a)[^c4947491] to determine whether the land should be notified under section 28(1);
 - (b) to assess the condition of the flora, fauna, or geological or physiographical features by reason of which land which has been notified under section 28(1) is of special interest;
-- (c) to determine whether or not to offer to enter into a nature reserve agreement or an[^c19470001] SSSI agreement [^key-d1c643803e978eb8e87b7442dbf5e14a]... in relation to the land;
+- (c) to determine whether or not to offer to enter into a nature reserve agreement or an[^c19470001] SSSI agreement [^c-d1c643803e978eb8e87b7442dbf5e14a]... in relation to the land;
 - (d) to ascertain whether a condition to which a consent referred to in section 28E(3)(a) was subject has been complied with in relation to the land;
 - (e) to ascertain whether an offence under section 28P or under byelaws made by virtue of section 28R is being, or has been, committed on or in relation to the land;
 - (f) to formulate a management scheme for the land or determine whether a management scheme (or a proposed management scheme) for the land should be modified;
 - (g) to prepare a management notice for the land;
-- (h) to ascertain whether the terms of a nature reserve agreement or an SSSI agreement [^key-c141eb51409b0153acf8c66b115cce36]... in relation to the land, or the terms of a management scheme or the requirements of a management notice in relation to the land, have been complied with;
+- (h) to ascertain whether the terms of a nature reserve agreement or an SSSI agreement [^c-c141eb51409b0153acf8c66b115cce36]... in relation to the land, or the terms of a management scheme or the requirements of a management notice in relation to the land, have been complied with;
 - (i) to determine whether or not to offer to make a payment under section 28M in relation to the land;
 - (j) to determine any question in relation to the acquisition of the land by agreement or compulsorily;
 - (k) to determine any question in relation to compensation under section 20(3) of the 1949 Act as applied by section 28R of this Act;
@@ -45,7 +45,7 @@ but nothing in this subsection shall authorise any person to enter a dwelling.
 
 (2) In subsection (1) “**the relevant authority**” means—
 
-- (a) for the purposes of paragraphs (a) to (ka)[^c19470131] of that subsection, Natural England or[^c19470031] the Natural Resources Body for Wales[^key-6c0a037a85e87c75d2f9d158a8997f51];
+- (a) for the purposes of paragraphs (a) to (ka)[^c19470131] of that subsection, Natural England or[^c19470031] the Natural Resources Body for Wales[^c-6c0a037a85e87c75d2f9d158a8997f51];
 - (b) for the purposes of paragraph (l)[^c4947521] of that subsection, the Secretary of State or the relevant authority within the meaning of section 34;
 - (c) for the purposes of paragraph (m) of that subsection, [^c19470161]. . . the National Park authority[^c4947541].
 
@@ -93,9 +93,9 @@ except where the damage is attributable to the fault of the person who sustained
 
 [^c19470001]: Textual amendment: Words in s. 51(1)(c)(h) inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 95(2)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/95/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-d1c643803e978eb8e87b7442dbf5e14a]: Textual amendment: Words in [s. 51(1)(c)](https://www.legislation.gov.uk/ukpga/1981/69/section/51/1/c) omitted (E.W.) (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(9)(a)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/9/a)
+[^c-d1c643803e978eb8e87b7442dbf5e14a]: Textual amendment: Words in [s. 51(1)(c)](https://www.legislation.gov.uk/ukpga/1981/69/section/51/1/c) omitted (E.W.) (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(9)(a)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/9/a)
 
-[^key-c141eb51409b0153acf8c66b115cce36]: Textual amendment: Words in [s. 51(1)(h)](https://www.legislation.gov.uk/ukpga/1981/69/section/51/1/h) omitted (E.W.) (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(9)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/9/b)
+[^c-c141eb51409b0153acf8c66b115cce36]: Textual amendment: Words in [s. 51(1)(h)](https://www.legislation.gov.uk/ukpga/1981/69/section/51/1/h) omitted (E.W.) (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 3(9)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/3/9/b)
 
 [^c19470091]: Textual amendment: S. 51(1)(ka) inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2006/16/section/58/2), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
@@ -105,7 +105,7 @@ except where the damage is attributable to the fault of the person who sustained
 
 [^c19470031]: Textual amendment: Words in s. 51(2)(a) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 95(3)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/95/3); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-6c0a037a85e87c75d2f9d158a8997f51]: Textual amendment: Words in s. 51(2)(a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 179](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/179) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-6c0a037a85e87c75d2f9d158a8997f51]: Textual amendment: Words in s. 51(2)(a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 179](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/179) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c4947521]: Textual amendment: Words in s. 51(2)(a)(b)(c) substituted (E.W.) (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 80(4)(a)(b)(c)](https://www.legislation.gov.uk/ukpga/2000/37/section/80/4/a/b/c)
 

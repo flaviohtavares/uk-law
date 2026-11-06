@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Specification of apprenticeship standards for Wales[^key-72075916d5d516acea24bdca02fcd436][^key-86e3546cc5697f54eb7036d249310bac]
+## 28. Specification of apprenticeship standards for Wales[^c-72075916d5d516acea24bdca02fcd436][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72075916d5d516acea24bdca02fcd436]: Commencement: S. 28 in force at 10.5.2013 by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/1/k)
+[^c-72075916d5d516acea24bdca02fcd436]: Commencement: S. 28 in force at 10.5.2013 by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/1/k)
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)

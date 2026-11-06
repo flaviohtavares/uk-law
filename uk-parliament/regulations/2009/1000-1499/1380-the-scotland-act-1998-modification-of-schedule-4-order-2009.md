@@ -35,7 +35,7 @@ CONSTITUTIONAL LAW
 
 DEVOLUTION, SCOTLAND
 
-The Scotland Act 1998 (Modification of Schedule 4) Order 2009 (revoked)[^key-61305ec5176f851406a899881344c84d]
+The Scotland Act 1998 (Modification of Schedule 4) Order 2009 (revoked)[^c-61305ec5176f851406a899881344c84d]
 
 Made
 
@@ -49,24 +49,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-61305ec5176f851406a899881344c84d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61305ec5176f851406a899881344c84d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-61305ec5176f851406a899881344c84d]
+## 1. Citation, commencement and extent[^c-61305ec5176f851406a899881344c84d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Limitation period for certain human rights proceedings brought by virtue of the Scotland Act 1998[^key-61305ec5176f851406a899881344c84d]
+## 2. Limitation period for certain human rights proceedings brought by virtue of the Scotland Act 1998[^c-61305ec5176f851406a899881344c84d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61305ec5176f851406a899881344c84d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61305ec5176f851406a899881344c84d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-61305ec5176f851406a899881344c84d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61305ec5176f851406a899881344c84d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61305ec5176f851406a899881344c84d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1380) revoked (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2012/11/section/14/4), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 14(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/14/5)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/g)
+[^c-61305ec5176f851406a899881344c84d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1380) revoked (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2012/11/section/14/4), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 14(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/14/5)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/g)

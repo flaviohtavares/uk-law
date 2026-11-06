@@ -44,39 +44,39 @@ Coming into force
 
 The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by sections 16 and 17 of the Road Traffic Act 1988[^f00001], and after consultation with representative organisations in accordance with the provisions of section 195(2) of that Act, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-4eef40b55adb240e8b1a060ea528b71e]
+## 1. Citation and commencement[^c-4eef40b55adb240e8b1a060ea528b71e]
 
 These Regulations may be cited as the Motor Cycles (Protective Helmets) Regulations 1998 and shall come into force on 21st August 1998.
 
-## 2. Revocation[^key-d19997580a6bbd38d04bd7935ea7279e]
+## 2. Revocation[^c-d19997580a6bbd38d04bd7935ea7279e]
 
 The Regulations specified in Schedule 1 to these Regulations are hereby revoked.
 
-## 3. Interpretation[^key-ca584f89d0488cbec7d842072e2921b6]
+## 3. Interpretation[^c-ca584f89d0488cbec7d842072e2921b6]
 
 In these Regulations—
 
 - (a) “EEA State” means a State which is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00002];
-- (aa)[^key-9b81a1e65ebb51ee1e516b099fcee52b] “ECE Regulation 22” means Regulation No. 22 set out in Addendum 21 to the UNECE Agreement;
+- (aa)[^c-9b81a1e65ebb51ee1e516b099fcee52b] “ECE Regulation 22” means Regulation No. 22 set out in Addendum 21 to the UNECE Agreement;
 - (aaa) “ECE Regulation 22.05” means ECE Regulation 22 as amended by the 05 series of amendments and all previous amendments in force on 30th June 2000;
 - (aaaa) “the UNECE Agreement” means the Agreement of the United Nations Economic Commission for Europe concluded at Geneva on 20th March 1958 as amended concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or used on wheeled vehicles and the conditions for the reciprocal recognition of approvals granted on the basis of these prescriptions, to which the United Kingdom is a party by virtue of an instrument of accession dated 14th January 1963 deposited with the Secretary General of the United Nations on 15th January 1963;
 - (b) a reference to a numbered regulation is a reference to the regulation so numbered in these Regulations; and
 - (c) a reference to a numbered paragraph is a reference to the paragraph so numbered in the regulation in which the reference occurs.
 
-## 4. Protective headgear[^key-9fea1ceb854e70268cd6cab0fb945bd2]
+## 4. Protective headgear[^c-9fea1ceb854e70268cd6cab0fb945bd2]
 
-(1) Save as provided in paragraphs (2) and (2A)[^key-50fad35ca3049846abb7cef335f4b129], every person driving or riding (otherwise than in a side-car) on a motor bicycle when on a road shall wear protective headgear.
+(1) Save as provided in paragraphs (2) and (2A)[^c-50fad35ca3049846abb7cef335f4b129], every person driving or riding (otherwise than in a side-car) on a motor bicycle when on a road shall wear protective headgear.
 
 (2) Nothing in paragraph (1) shall apply to any person driving or riding on a motor bicycle if—
 
 - (a) it is a mowing machine; or
 - (b) it is for the time being propelled by a person on foot.
 
-(2A)[^key-8b27ca893186e1e95efd6178b35b31c2] Nothing in paragraph (1) shall apply to any person driving an electric scooter being used in a trial.
+(2A)[^c-8b27ca893186e1e95efd6178b35b31c2] Nothing in paragraph (1) shall apply to any person driving an electric scooter being used in a trial.
 
 (3) In this regulation—
 
-- “electric scooter” means a motor bicycle which—[^key-91d78f9a68c03683cfb20613bdfab1dc]
+- “electric scooter” means a motor bicycle which—[^c-91d78f9a68c03683cfb20613bdfab1dc]
   - (a) is fitted with an electric motor with a maximum continuous power rating not exceeding 500 watts;
   - (b) is not fitted with pedals that are capable of propelling the vehicle;
   - (c) has two wheels, one front and one rear, aligned along the direction of travel;
@@ -95,20 +95,20 @@ In these Regulations—
     - (i) bears a marking applied by its manufacturer indicating compliance with the specifications contained in one of the British Standards (whether or not as modified by any amendment) mentioned in Schedule 2 to these Regulations; or
     - (ii) is of a type manufactured for use by persons on motor cycles which by virtue of its shape, material and construction could reasonably be expected to afford to the wearer a degree of protection from accidental injury similar to or greater than that provided by a helmet of a type prescribed by regulation 5;
   - (b) if worn with a chin cup attached to or held in position by a strap, is provided with an additional strap (to be fastened under the wearer’s jaw) for securing the helmet to the head; and
-  - (c) is securely fastened to the head by means of straps provided for that purpose; [^key-e60067cb4a79d12bd6731ef625df22a0]...
-- “strap” includes any fastening device ; and[^key-0b1df0bb0cc7b24b07a1c5cc06af94bc]
+  - (c) is securely fastened to the head by means of straps provided for that purpose; [^c-e60067cb4a79d12bd6731ef625df22a0]...
+- “strap” includes any fastening device ; and[^c-0b1df0bb0cc7b24b07a1c5cc06af94bc]
 - “trial” means an assessment as to the suitability of electric scooters for use on roads conducted by virtue of—
   - (a) an order made under sections 44 and 63(5) of the Road Traffic Act 1988; or
   - (b) an arrangement made between one or more local public authorities and a person who hires out electric scooters
 
-## 5. Prescribed types of recommended helmet[^key-9437b821b1fa4692c9ba712f3bd7f3af]
+## 5. Prescribed types of recommended helmet[^c-9437b821b1fa4692c9ba712f3bd7f3af]
 
 (1) The types of helmet hereby prescribed as types of helmet recommended as affording protection to persons on or in motor cycles from injury in the event of an accident are helmets which as regards their shape, construction and other qualities conform—
 
-- (a) with British Standard 6658:1985 as amended by Amendment Slip number 1 published on 28th February 1986 and are marked with the number of that standard, [^key-9378a7a298ef031d648de5dd2c8a0d9e]...
+- (a) with British Standard 6658:1985 as amended by Amendment Slip number 1 published on 28th February 1986 and are marked with the number of that standard, [^c-9378a7a298ef031d648de5dd2c8a0d9e]...
 - (b) with any other standard accepted by an EEA State which offers in use equivalent levels of safety, suitability and fitness for purpose and are marked with a mark to indicate that standard,
 
-and in each case[^key-99b33f973f26351232a95bd9ea00ddaa] are marked with an approved certification mark of an approved body (whether or not they are required to be so marked by the standard in point) , or[^key-5878c0b1380b6d1c736e60f43b26454b]
+and in each case[^c-99b33f973f26351232a95bd9ea00ddaa] are marked with an approved certification mark of an approved body (whether or not they are required to be so marked by the standard in point) , or[^c-5878c0b1380b6d1c736e60f43b26454b]
 
 - (c) with ECE Regulation 22.05 including the approval, marking and conformity of production requirements of that Regulation.
 
@@ -121,9 +121,9 @@ and in each case[^key-99b33f973f26351232a95bd9ea00ddaa] are marked with an appro
   - (i) the British Standards Institution; or
   - (ii) any body approved by an EEA State to undertake conformity assessments equivalent to those undertaken by the British Standards Institution.
 
-## 6. Saving for the Trade Descriptions Act 1968 and the Consumer Protection Act 1987[^key-3085d7402e4042d051beb44942e55f50]
+## 6. Saving for the Trade Descriptions Act 1968 and the Consumer Protection Act 1987[^c-3085d7402e4042d051beb44942e55f50]
 
-Nothing in regulation 5(1) shall be taken to authorise any person to apply any number or mark referred to therein in contravention of [^key-2688efd7e8112838b7e2b62fd7a2d805]... the Consumer Protection Act 1987[^f00004].
+Nothing in regulation 5(1) shall be taken to authorise any person to apply any number or mark referred to therein in contravention of [^c-2688efd7e8112838b7e2b62fd7a2d805]... the Consumer Protection Act 1987[^f00004].
 
 Signed by authority of the Secretary of State for the Environment, Transport and the Regions
 
@@ -135,7 +135,7 @@ Department of the Environment, Transport and the Regions
 
 22nd July 1998
 
-## SCHEDULE 1 — REVOCATIONS[^key-c90c88376a124ef346cb2ff33f509e69]
+## SCHEDULE 1 — REVOCATIONS[^c-c90c88376a124ef346cb2ff33f509e69]
 
 Regulation 2
 
@@ -155,7 +155,7 @@ Regulation 2
 
 Regulation 4(3)
 
-**1.**[^key-78a603f99ef9c74b52f0f8c6da1b5e09] British Standard 2001:1956 as amended by the following Amendment Slips—
+**1.**[^c-78a603f99ef9c74b52f0f8c6da1b5e09] British Standard 2001:1956 as amended by the following Amendment Slips—
 
 | Number | Date of Publication |
 | --- | --- |
@@ -166,7 +166,7 @@ Regulation 4(3)
 | 5 | 13th March 1968 |
 | 6 | 18th February 1972 |
 
-**2.**[^key-730325b9c7b053c1f69a9825e2aa4d2f] British Standard 1869:1960 as amended by the following Amendment Slips—
+**2.**[^c-730325b9c7b053c1f69a9825e2aa4d2f] British Standard 1869:1960 as amended by the following Amendment Slips—
 
 | Number | Date of Publication |
 | --- | --- |
@@ -180,7 +180,7 @@ Regulation 4(3)
 | 10 | 2nd September 1974 |
 | 11 | 1st March 1975 |
 
-**3.**[^key-daef3cd54dff2a4a51fb0d2977afc794] British Standard 2495:1960 as amended by the following Amendment Slips—
+**3.**[^c-daef3cd54dff2a4a51fb0d2977afc794] British Standard 2495:1960 as amended by the following Amendment Slips—
 
 | Number | Date of Publication |
 | --- | --- |
@@ -193,7 +193,7 @@ Regulation 4(3)
 | 7 | 1st February 1974 |
 | 8 | 1st March 1975 |
 
-**4.**[^key-9dbc90d317da3cfec5e16af354c647e8] British Standard 2001:1972 as amended by the following Amendment Slips—
+**4.**[^c-9dbc90d317da3cfec5e16af354c647e8] British Standard 2001:1972 as amended by the following Amendment Slips—
 
 | Number | Date of Publication |
 | --- | --- |
@@ -203,20 +203,11 @@ Regulation 4(3)
 | 4 | 2nd September 1974 |
 | 5 | 1st March 1975 |
 
-**5.**[^key-390d6e15d0af41bc9e17203f3bf44902] British Standard 5361:1976
+**5.**[^c-390d6e15d0af41bc9e17203f3bf44902] British Standard 5361:1976
 
-**6.**[^key-3fe08c645581b76a97ecb8b7ec7cf0e1] British Standard 2495:1977
+**6.**[^c-3fe08c645581b76a97ecb8b7ec7cf0e1] British Standard 2495:1977
 
-**7.**[^key-2eb2567eb7eb4fc4c20d195e330be084] British Standard 5361:1976 as amended by the following Amendment Slips—
-
-| Number | Date of Publication |
-| --- | --- |
-| 1 | 30th September 1977 |
-| 2 | 31st August 1978 |
-| 3 | 31st August 1979 |
-| 4 | 29th February 1980 |
-
-**8.**[^key-d77b14cc9864d941f5b3aa349cf2d286] British Standard 2495:1977 as amended by the following Amendment Slips—
+**7.**[^c-2eb2567eb7eb4fc4c20d195e330be084] British Standard 5361:1976 as amended by the following Amendment Slips—
 
 | Number | Date of Publication |
 | --- | --- |
@@ -225,7 +216,7 @@ Regulation 4(3)
 | 3 | 31st August 1979 |
 | 4 | 29th February 1980 |
 
-**9.**[^key-322a358c541445926139743ec047e257] British Standard 5361:1976 as amended by the following Amendment Slips—
+**8.**[^c-d77b14cc9864d941f5b3aa349cf2d286] British Standard 2495:1977 as amended by the following Amendment Slips—
 
 | Number | Date of Publication |
 | --- | --- |
@@ -233,9 +224,8 @@ Regulation 4(3)
 | 2 | 31st August 1978 |
 | 3 | 31st August 1979 |
 | 4 | 29th February 1980 |
-| 5 | 27th February 1981 |
 
-**10.**[^key-bfe28ecedc28ad10347423b3fab2ffe6] British Standard 2495:1977 as amended by the following Amendment Slips—
+**9.**[^c-322a358c541445926139743ec047e257] British Standard 5361:1976 as amended by the following Amendment Slips—
 
 | Number | Date of Publication |
 | --- | --- |
@@ -245,7 +235,17 @@ Regulation 4(3)
 | 4 | 29th February 1980 |
 | 5 | 27th February 1981 |
 
-**11.**[^key-602368f249763d4735fcc2322a777540] British Standard 6658:1985 as amended by the following Amendment Slip—
+**10.**[^c-bfe28ecedc28ad10347423b3fab2ffe6] British Standard 2495:1977 as amended by the following Amendment Slips—
+
+| Number | Date of Publication |
+| --- | --- |
+| 1 | 30th September 1977 |
+| 2 | 31st August 1978 |
+| 3 | 31st August 1979 |
+| 4 | 29th February 1980 |
+| 5 | 27th February 1981 |
+
+**11.**[^c-602368f249763d4735fcc2322a777540] British Standard 6658:1985 as amended by the following Amendment Slip—
 
 | Number | Date of Publication |
 | --- | --- |
@@ -269,62 +269,62 @@ Copies of the Directives can be obtained from the Stationery Office.
 
 [^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-4eef40b55adb240e8b1a060ea528b71e]: Commencement: Reg. 1 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-4eef40b55adb240e8b1a060ea528b71e]: Commencement: Reg. 1 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-d19997580a6bbd38d04bd7935ea7279e]: Commencement: Reg. 2 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-d19997580a6bbd38d04bd7935ea7279e]: Commencement: Reg. 2 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-ca584f89d0488cbec7d842072e2921b6]: Commencement: Reg. 3 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-ca584f89d0488cbec7d842072e2921b6]: Commencement: Reg. 3 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
 [^f00002]: Footnote: Cm 2073 and 2183.
 
-[^key-9b81a1e65ebb51ee1e516b099fcee52b]: Textual amendment: [Regs. 3(aa)-(aaaa)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/3/aa) inserted (30.6.2000) by [The Motor Cycles (Protective Helmets) (Amendment) Regulations 2000 (S.I. 2000/1488)](https://www.legislation.gov.uk/uksi/2000/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2000/1488/regulation/2)
+[^c-9b81a1e65ebb51ee1e516b099fcee52b]: Textual amendment: [Regs. 3(aa)-(aaaa)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/3/aa) inserted (30.6.2000) by [The Motor Cycles (Protective Helmets) (Amendment) Regulations 2000 (S.I. 2000/1488)](https://www.legislation.gov.uk/uksi/2000/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2000/1488/regulation/2)
 
-[^key-9fea1ceb854e70268cd6cab0fb945bd2]: Commencement: Reg. 4 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-9fea1ceb854e70268cd6cab0fb945bd2]: Commencement: Reg. 4 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-50fad35ca3049846abb7cef335f4b129]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/4/1) substituted (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/3/2/a)
+[^c-50fad35ca3049846abb7cef335f4b129]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/4/1) substituted (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/3/2/a)
 
-[^key-8b27ca893186e1e95efd6178b35b31c2]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/4/2A) inserted (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/3/2/b)
+[^c-8b27ca893186e1e95efd6178b35b31c2]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/4/2A) inserted (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/3/2/b)
 
-[^key-91d78f9a68c03683cfb20613bdfab1dc]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/4/3) inserted (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/3/2/c/i)
+[^c-91d78f9a68c03683cfb20613bdfab1dc]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/4/3) inserted (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/3/2/c/i)
 
-[^key-e60067cb4a79d12bd6731ef625df22a0]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/4/3) omitted (4.7.2020) by virtue of [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/3/2/c/ii)
+[^c-e60067cb4a79d12bd6731ef625df22a0]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/4/3) omitted (4.7.2020) by virtue of [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/3/2/c/ii)
 
-[^key-0b1df0bb0cc7b24b07a1c5cc06af94bc]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/4/3) inserted (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [3(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/3/2/c/iii)
+[^c-0b1df0bb0cc7b24b07a1c5cc06af94bc]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/4/3) inserted (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [Pt. 1 reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [3(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/3/2/c/iii)
 
-[^key-9437b821b1fa4692c9ba712f3bd7f3af]: Commencement: Reg. 5 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-9437b821b1fa4692c9ba712f3bd7f3af]: Commencement: Reg. 5 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-9378a7a298ef031d648de5dd2c8a0d9e]: Textual amendment: Word in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/5/1/a) revoked (30.6.2000) by [The Motor Cycles (Protective Helmets) (Amendment) Regulations 2000 (S.I. 2000/1488)](https://www.legislation.gov.uk/uksi/2000/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/3/2)
+[^c-9378a7a298ef031d648de5dd2c8a0d9e]: Textual amendment: Word in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/5/1/a) revoked (30.6.2000) by [The Motor Cycles (Protective Helmets) (Amendment) Regulations 2000 (S.I. 2000/1488)](https://www.legislation.gov.uk/uksi/2000/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/3/2)
 
-[^key-99b33f973f26351232a95bd9ea00ddaa]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/5/1) substituted (30.6.2000) by [The Motor Cycles (Protective Helmets) (Amendment) Regulations 2000 (S.I. 2000/1488)](https://www.legislation.gov.uk/uksi/2000/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/3/3)
+[^c-99b33f973f26351232a95bd9ea00ddaa]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/5/1) substituted (30.6.2000) by [The Motor Cycles (Protective Helmets) (Amendment) Regulations 2000 (S.I. 2000/1488)](https://www.legislation.gov.uk/uksi/2000/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/3/3)
 
-[^key-5878c0b1380b6d1c736e60f43b26454b]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/5/1/c) and word inserted (30.6.2000) by [The Motor Cycles (Protective Helmets) (Amendment) Regulations 2000 (S.I. 2000/1488)](https://www.legislation.gov.uk/uksi/2000/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/3/4)
+[^c-5878c0b1380b6d1c736e60f43b26454b]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/1998/1807/regulation/5/1/c) and word inserted (30.6.2000) by [The Motor Cycles (Protective Helmets) (Amendment) Regulations 2000 (S.I. 2000/1488)](https://www.legislation.gov.uk/uksi/2000/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2000/1488/regulation/3/4)
 
-[^key-3085d7402e4042d051beb44942e55f50]: Commencement: Reg. 6 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-3085d7402e4042d051beb44942e55f50]: Commencement: Reg. 6 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-2688efd7e8112838b7e2b62fd7a2d805]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1998/1807/regulation/6) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 89](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/89), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-2688efd7e8112838b7e2b62fd7a2d805]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1998/1807/regulation/6) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 89](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/89), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
 [^f00004]: Footnote: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43).
 
-[^key-c90c88376a124ef346cb2ff33f509e69]: Commencement: Sch. 1 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-c90c88376a124ef346cb2ff33f509e69]: Commencement: Sch. 1 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-78a603f99ef9c74b52f0f8c6da1b5e09]: Commencement: Sch. 2 para. 1 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-78a603f99ef9c74b52f0f8c6da1b5e09]: Commencement: Sch. 2 para. 1 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-730325b9c7b053c1f69a9825e2aa4d2f]: Commencement: Sch. 2 para. 2 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-730325b9c7b053c1f69a9825e2aa4d2f]: Commencement: Sch. 2 para. 2 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-daef3cd54dff2a4a51fb0d2977afc794]: Commencement: Sch. 2 para. 3 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-daef3cd54dff2a4a51fb0d2977afc794]: Commencement: Sch. 2 para. 3 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-9dbc90d317da3cfec5e16af354c647e8]: Commencement: Sch. 2 para. 4 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-9dbc90d317da3cfec5e16af354c647e8]: Commencement: Sch. 2 para. 4 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-390d6e15d0af41bc9e17203f3bf44902]: Commencement: Sch. 2 para. 5 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-390d6e15d0af41bc9e17203f3bf44902]: Commencement: Sch. 2 para. 5 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-3fe08c645581b76a97ecb8b7ec7cf0e1]: Commencement: Sch. 2 para. 6 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-3fe08c645581b76a97ecb8b7ec7cf0e1]: Commencement: Sch. 2 para. 6 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-2eb2567eb7eb4fc4c20d195e330be084]: Commencement: Sch. 2 para. 7 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-2eb2567eb7eb4fc4c20d195e330be084]: Commencement: Sch. 2 para. 7 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-d77b14cc9864d941f5b3aa349cf2d286]: Commencement: Sch. 2 para. 8 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-d77b14cc9864d941f5b3aa349cf2d286]: Commencement: Sch. 2 para. 8 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-322a358c541445926139743ec047e257]: Commencement: Sch. 2 para. 9 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-322a358c541445926139743ec047e257]: Commencement: Sch. 2 para. 9 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-bfe28ecedc28ad10347423b3fab2ffe6]: Commencement: Sch. 2 para. 10 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-bfe28ecedc28ad10347423b3fab2ffe6]: Commencement: Sch. 2 para. 10 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
 
-[^key-602368f249763d4735fcc2322a777540]: Commencement: Sch. 2 para. 11 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)
+[^c-602368f249763d4735fcc2322a777540]: Commencement: Sch. 2 para. 11 in force at 21.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1807/regulation/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Schedule 3 (classification and supply, wholesale dealers and sheep dip) has effect.
 
-(2) No person may supply a veterinary medicinal product (including a veterinary medicinal product which has been incorporated into a medicated feedingstuff or intermediate feedingstuff)[^key-7d1eed6919208777394d36dd02bfa4d9] that has passed its expiry date.
+(2) No person may supply a veterinary medicinal product (including a veterinary medicinal product which has been incorporated into a medicated feedingstuff or intermediate feedingstuff)[^c-7d1eed6919208777394d36dd02bfa4d9] that has passed its expiry date.
 
 (3) No person may open the package (including the outer package) of a veterinary medicinal product before it has been supplied to the final user, other than as permitted under Schedule 3.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d1eed6919208777394d36dd02bfa4d9]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/7/2) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/567/regulation/6)
+[^c-7d1eed6919208777394d36dd02bfa4d9]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/7/2) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/567/regulation/6)

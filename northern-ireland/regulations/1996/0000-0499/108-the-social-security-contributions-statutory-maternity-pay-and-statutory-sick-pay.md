@@ -42,17 +42,17 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 149(5)(*b*), 152(1), 158(1), 159(1), 166(1) and 167(1) of, and paragraph 6(1) of Schedule 1 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and section 122 of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and of all other powers enabling it in that behalf, and with the concurrence of the Inland Revenue in so far as their concurrence is required, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-6e23091d16dabdae9123426db8705ba6]
+## 1. Citation, commencement and interpretation[^c-6e23091d16dabdae9123426db8705ba6]
 
 (1) These Regulations may be cited as the Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1996.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Social Security (Contributions) Regulations[^key-19c8013d7e27f763cb953c32d8b6aa46]
+## 2. Amendment of the Social Security (Contributions) Regulations[^c-19c8013d7e27f763cb953c32d8b6aa46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Statutory Sick Pay (General) Regulations[^key-02ccf31b64c691c5d0a00686fde7b9c8]
+## 3. Amendment of the Statutory Sick Pay (General) Regulations[^c-02ccf31b64c691c5d0a00686fde7b9c8]
 
 (1) The Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00011] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -88,9 +88,9 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
   ;
 - (c) in paragraph (4)(*b*)[^f00014] the words from “or, if later” to the end shall be omitted.
 
-(6)[^key-c2ad14e903c99510de6dcdf0b3680497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c2ad14e903c99510de6dcdf0b3680497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Statutory Sick Pay (Mariners, Airmen and Persons Abroad) Regulations[^key-bc007a1b13ad31d86eeffe6d494c1320]
+## 4. Amendment of the Statutory Sick Pay (Mariners, Airmen and Persons Abroad) Regulations[^c-bc007a1b13ad31d86eeffe6d494c1320]
 
 (1) The Statutory Sick Pay (Mariners, Airmen and Persons Abroad) Regulations (Northern Ireland) 1982[^f00017] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -125,7 +125,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (5) Regulations 9 and 10 are hereby revoked.
 
-## 5. Amendment of the Statutory Maternity Pay (Persons Abroad and Mariners) Regulations[^key-d21d9acf2a5fd7bb84648fabe110d3ab]
+## 5. Amendment of the Statutory Maternity Pay (Persons Abroad and Mariners) Regulations[^c-d21d9acf2a5fd7bb84648fabe110d3ab]
 
 (1) The Statutory Maternity Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 1987[^f00019] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -159,11 +159,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (6) Regulation 8 is hereby revoked.
 
-## 6. Transitional provision[^key-56d104c420e40478fde49d9839e46212]
+## 6. Transitional provision[^c-56d104c420e40478fde49d9839e46212]
 
 Where a woman’s expected day of confinement falls in a week which begins before 18th August 1996, the Statutory Maternity Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 1987 shall have effect as if regulation 5 of these Regulations had not been made.
 
-## 7. Revocations[^key-f4bd384d0d630191a467d1e7b8ff5eb2]
+## 7. Revocations[^c-f4bd384d0d630191a467d1e7b8ff5eb2]
 
 The following Regulations are hereby revoked—
 
@@ -208,13 +208,13 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 122 is amended by paragraph 48 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
 
-[^key-6e23091d16dabdae9123426db8705ba6]: Commencement: Reg. 1 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+[^c-6e23091d16dabdae9123426db8705ba6]: Commencement: Reg. 1 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-19c8013d7e27f763cb953c32d8b6aa46]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/108/regulation/2) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
+[^c-19c8013d7e27f763cb953c32d8b6aa46]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/108/regulation/2) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
 
-[^key-02ccf31b64c691c5d0a00686fde7b9c8]: Commencement: Reg. 3 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+[^c-02ccf31b64c691c5d0a00686fde7b9c8]: Commencement: Reg. 3 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263); relevant amending regulations are [S.R. 1984 No. 91](https://www.legislation.gov.uk/nisr/1984/91), [S.R. 1986 No. 83](https://www.legislation.gov.uk/nisr/1986/83), [S.R. 1987 No. 248](https://www.legislation.gov.uk/nisr/1987/248) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
@@ -224,21 +224,21 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00014]: Footnote: Paragraph (4)(*b*) was substituted by [S.R. 1986 No. 83](https://www.legislation.gov.uk/nisr/1986/83)
 
-[^key-c2ad14e903c99510de6dcdf0b3680497]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/1996/108/regulation/3/6) revoked (27.10.2008) by [The Statutory Sick Pay (General) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/356)](https://www.legislation.gov.uk/nisr/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/356/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/356/regulation/3)
+[^c-c2ad14e903c99510de6dcdf0b3680497]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/1996/108/regulation/3/6) revoked (27.10.2008) by [The Statutory Sick Pay (General) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/356)](https://www.legislation.gov.uk/nisr/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/356/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/356/regulation/3)
 
-[^key-bc007a1b13ad31d86eeffe6d494c1320]: Commencement: Reg. 4 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+[^c-bc007a1b13ad31d86eeffe6d494c1320]: Commencement: Reg. 4 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1982 No. 306](https://www.legislation.gov.uk/nisr/1982/306)
 
 [^f00018]: Footnote: Regulation 112 was amended by [S.R. 1992 No. 41](https://www.legislation.gov.uk/nisr/1992/41)
 
-[^key-d21d9acf2a5fd7bb84648fabe110d3ab]: Commencement: Reg. 5 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+[^c-d21d9acf2a5fd7bb84648fabe110d3ab]: Commencement: Reg. 5 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 1987 No. 171](https://www.legislation.gov.uk/nisr/1987/171)
 
-[^key-56d104c420e40478fde49d9839e46212]: Commencement: Reg. 6 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+[^c-56d104c420e40478fde49d9839e46212]: Commencement: Reg. 6 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
 
-[^key-f4bd384d0d630191a467d1e7b8ff5eb2]: Commencement: Reg. 7 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
+[^c-f4bd384d0d630191a467d1e7b8ff5eb2]: Commencement: Reg. 7 in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/108/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1983 No. 64](https://www.legislation.gov.uk/nisr/1983/64)
 

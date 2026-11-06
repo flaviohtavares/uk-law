@@ -34,7 +34,7 @@ the trader shall, within the prescribed period after receiving the notice, eithe
 
 (3) Subsection (1) does not apply in relation to any agreement if the trader has previously complied with that subsection on the service of a notice under it with respect to that agreement.
 
-(4) Subsection (1) does not apply to a non-commercial agreement or to a regulated deferred payment credit agreement[^key-97244eca5c5868dcb32be48bbf3dd065].
+(4) Subsection (1) does not apply to a non-commercial agreement or to a regulated deferred payment credit agreement[^c-97244eca5c5868dcb32be48bbf3dd065].
 
 (5) [^c19905791]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -42,7 +42,7 @@ the trader shall, within the prescribed period after receiving the notice, eithe
 
 ## Annotations
 
-[^key-97244eca5c5868dcb32be48bbf3dd065]: Textual amendment: Words in [s. 103(4)](https://www.legislation.gov.uk/ukpga/1974/39/section/103/4) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(19)](https://www.legislation.gov.uk/uksi/2025/859/article/2/19)
+[^c-97244eca5c5868dcb32be48bbf3dd065]: Textual amendment: Words in [s. 103(4)](https://www.legislation.gov.uk/ukpga/1974/39/section/103/4) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(19)](https://www.legislation.gov.uk/uksi/2025/859/article/2/19)
 
 [^c19905791]: Textual amendment: S. 103(5) repealed (26.5.2008) by The Consumer Protection from [Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [regs. 30(1)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/30/1/3), [Sch. 2 para. 24(a)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/24/a), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with savings in [reg. 28(2)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2/3))
 

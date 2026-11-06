@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Proposals for pilots made by the Welsh Ministers[^key-1e30255c5c457abe395bbfb8b69190a2]
+## 8. Proposals for pilots made by the Welsh Ministers[^c-1e30255c5c457abe395bbfb8b69190a2]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e30255c5c457abe395bbfb8b69190a2]: Commencement: S. 8 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-1e30255c5c457abe395bbfb8b69190a2]: Commencement: S. 8 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

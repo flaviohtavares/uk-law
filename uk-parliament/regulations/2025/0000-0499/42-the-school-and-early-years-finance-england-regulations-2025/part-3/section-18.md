@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. English as an additional language[^key-e72fba09d659be7d05f2cf1a788c1fb3]
+## 18. English as an additional language[^c-e72fba09d659be7d05f2cf1a788c1fb3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e72fba09d659be7d05f2cf1a788c1fb3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/42/regulation/18) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-e72fba09d659be7d05f2cf1a788c1fb3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/42/regulation/18) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

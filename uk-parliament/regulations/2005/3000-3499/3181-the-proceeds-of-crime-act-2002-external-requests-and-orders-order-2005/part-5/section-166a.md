@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166A. Receivers in connection with prohibitory property orders[^key-d13d7e1fae8f68ae166d54239d533995]
+## 166A. Receivers in connection with prohibitory property orders[^c-d13d7e1fae8f68ae166d54239d533995]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d13d7e1fae8f68ae166d54239d533995]: Textual amendment: [Arts. 166A-166C](https://www.legislation.gov.uk/uksi/2005/3181/article/166A) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [26](https://www.legislation.gov.uk/uksi/2018/1078/article/26)
+[^c-d13d7e1fae8f68ae166d54239d533995]: Textual amendment: [Arts. 166A-166C](https://www.legislation.gov.uk/uksi/2005/3181/article/166A) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [26](https://www.legislation.gov.uk/uksi/2018/1078/article/26)

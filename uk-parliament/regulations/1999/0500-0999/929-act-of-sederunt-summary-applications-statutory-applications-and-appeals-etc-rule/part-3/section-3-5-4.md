@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.5.4. Procedure where leave of court required[^key-2dc72b9c82dc03633e14bdfbe9c8f643]
+## 3.5.4. Procedure where leave of court required[^c-2dc72b9c82dc03633e14bdfbe9c8f643]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dc72b9c82dc03633e14bdfbe9c8f643]: Commencement: Rule 3.5.4 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-2dc72b9c82dc03633e14bdfbe9c8f643]: Commencement: Rule 3.5.4 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

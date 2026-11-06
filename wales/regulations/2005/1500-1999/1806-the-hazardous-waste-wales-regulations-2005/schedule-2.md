@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — ANNEX II OF THE HAZARDOUS WASTE DIRECTIVE[^key-d4176e75a57723e1793b6348b044a27d]
+## SCHEDULE 2 — ANNEX II OF THE HAZARDOUS WASTE DIRECTIVE[^c-d4176e75a57723e1793b6348b044a27d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Regulation 3(2)(a)(ii)
 
 ## Annotations
 
-[^key-d4176e75a57723e1793b6348b044a27d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2005/1806/schedule/2) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 28](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/28)
+[^c-d4176e75a57723e1793b6348b044a27d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2005/1806/schedule/2) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 28](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/28)

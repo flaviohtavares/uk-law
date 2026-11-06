@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Calculation A[^key-e00a5688d2de2709a2ee63ff5c3268bc]
+## 8. Calculation A[^c-e00a5688d2de2709a2ee63ff5c3268bc]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e00a5688d2de2709a2ee63ff5c3268bc]: Commencement: Art. 8 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-e00a5688d2de2709a2ee63ff5c3268bc]: Commencement: Art. 8 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

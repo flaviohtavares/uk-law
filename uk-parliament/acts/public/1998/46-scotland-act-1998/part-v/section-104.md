@@ -24,16 +24,16 @@ summary: ''
 
 (2) The legislation is subordinate legislation under an Act of Parliament made by—
 
-- (a) a member of the Scottish Government[^key-1a6eec0a223077253e974615c6946a62],
+- (a) a member of the Scottish Government[^c-1a6eec0a223077253e974615c6946a62],
 - (b) a Scottish public authority with mixed functions or no reserved functions, or
-- (c)[^key-b5e93c630ba1060f72e8055ac50fdc57] any other person (not being a Minister of the Crown) if the function of making the legislation is exercisable within devolved competence.
+- (c)[^c-b5e93c630ba1060f72e8055ac50fdc57] any other person (not being a Minister of the Crown) if the function of making the legislation is exercisable within devolved competence.
 
-(3)[^key-22bf7518af9d8584da1862c5cd0f35ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-22bf7518af9d8584da1862c5cd0f35ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
 
-[^key-b5e93c630ba1060f72e8055ac50fdc57]: Modification: S. 104(2)(c) modified (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 36(12)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/12/b), [72(1)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/b)
+[^c-b5e93c630ba1060f72e8055ac50fdc57]: Modification: S. 104(2)(c) modified (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 36(12)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/12/b), [72(1)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/b)
 
-[^key-22bf7518af9d8584da1862c5cd0f35ec]: Textual amendment: [S. 104(3)](https://www.legislation.gov.uk/ukpga/1998/46/section/104/3) omitted (18.5.2017) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/10/3), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/h)
+[^c-22bf7518af9d8584da1862c5cd0f35ec]: Textual amendment: [S. 104(3)](https://www.legislation.gov.uk/ukpga/1998/46/section/104/3) omitted (18.5.2017) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/10/3), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/h)

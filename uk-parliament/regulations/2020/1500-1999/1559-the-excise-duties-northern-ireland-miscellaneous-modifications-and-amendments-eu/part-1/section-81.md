@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Amendments to the Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019[^key-6a5220f5783c0641f556c835eaade762]
+## 81. Amendments to the Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019[^c-6a5220f5783c0641f556c835eaade762]
 
 *Extent: E+W+S+N.I.*
 
 The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019[^f00009] are amended as follows.
 
-**82.**[^key-d192f6ed3d6cf525304f9546a196e080] Insert “UK” before “computerised system” in these places—
+**82.**[^c-d192f6ed3d6cf525304f9546a196e080] Insert “UK” before “computerised system” in these places—
 
 - (a) regulation 7(2)(c) (insertion of definition of “change of destination message”);
 - (b) regulation 7(2)(f) (substitution of definition of “electronic administrative document”);
@@ -30,7 +30,7 @@ The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) R
 - (d) regulation 24(2), (3) in the inserted paragraph (2C), (5) and (7) in the inserted paragraph (8) (amendments of regulation 58);
 - (e) regulation 26 (insertion of regulation 59A).
 
-**83.**[^key-7e44b5f3d47b3d42b250088da435ca47] After regulation 4 insert—
+**83.**[^c-7e44b5f3d47b3d42b250088da435ca47] After regulation 4 insert—
 
 > **4A.** Insert “UK” before “computerised system” in these places—
 >
@@ -50,13 +50,13 @@ The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) R
 
 .
 
-**84.**[^key-9701a1fea7d8723be105afc3a7e7e281] In regulation 6 (insertion of regulation 2A), omit “”.” at the end of inserted regulation 2A and insert—
+**84.**[^c-9701a1fea7d8723be105afc3a7e7e281] In regulation 6 (insertion of regulation 2A), omit “”.” at the end of inserted regulation 2A and insert—
 
 > **2B.** These Regulations have effect subject to the Northern Ireland Regulations 2020 which apply to excise goods in Northern Ireland where specified in those Regulations.”.
 
 .
 
-**85.**[^key-3ce84e747b9285a9f793938df739e654] In regulation 7(2) (amendment of regulation 3)—
+**85.**[^c-3ce84e747b9285a9f793938df739e654] In regulation 7(2) (amendment of regulation 3)—
 
 - (a) in subparagraph (a), after paragraph (i) insert—
 
@@ -81,13 +81,13 @@ The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) R
 
   .
 
-**86.**[^key-04c4f46709d4c21bcfc662750cfe3970] After regulation 8 and before the heading “Amendments to Part 2” insert—
+**86.**[^c-04c4f46709d4c21bcfc662750cfe3970] After regulation 8 and before the heading “Amendments to Part 2” insert—
 
 > **8A.** In regulation 5 (goods released for consumption in the United Kingdom – excise duty point) for “regulation 7(2)” substitute “regulations 7(2) and 7A”.
 
 .
 
-**87.**[^key-f330ae3faac2bd79fd31366ef3015e9c] In regulation 9[^f00012] (amendments to regulation 6)—
+**87.**[^c-f330ae3faac2bd79fd31366ef3015e9c] In regulation 9[^f00012] (amendments to regulation 6)—
 
 - (a) after paragraph (3) insert—
 
@@ -101,7 +101,7 @@ The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) R
 
   .
 
-**88.**[^key-224e839b0c2cdcf79f8b0355ab732809] After regulation 10 (amendments to regulation 7) insert—
+**88.**[^c-224e839b0c2cdcf79f8b0355ab732809] After regulation 10 (amendments to regulation 7) insert—
 
 > **10A.** After regulation 7 insert—
 >
@@ -113,7 +113,7 @@ The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) R
 
 .
 
-**89.**[^key-72e7c4fb623f6e72f315d8494a8bb7c3] For regulation 19 (amendment to regulation 37) substitute—
+**89.**[^c-72e7c4fb623f6e72f315d8494a8bb7c3] For regulation 19 (amendment to regulation 37) substitute—
 
 > **19.** In regulation 37—
 >
@@ -134,13 +134,13 @@ The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) R
 
 .
 
-**90.**[^key-bfd96d8534a99f9c068900f128ff1746] For regulation 22(3)(a) (amendments to regulation 56) substitute—
+**90.**[^c-bfd96d8534a99f9c068900f128ff1746] For regulation 22(3)(a) (amendments to regulation 56) substitute—
 
 > - (a) for “regulation 58(3)” substitute “regulation 56A(1);”.
 
 .
 
-**91.**[^key-6f63190d3736666f1db0e2601eeda71b] After regulation 22 insert—
+**91.**[^c-6f63190d3736666f1db0e2601eeda71b] After regulation 22 insert—
 
 > **22A.** After regulation 56 insert—
 >
@@ -157,7 +157,7 @@ The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) R
 
 .
 
-**92.**[^key-a978c2b217320aafadd55ce77fce6b2a] In regulation 23 (amendment of regulation 57) insert—
+**92.**[^c-a978c2b217320aafadd55ce77fce6b2a] In regulation 23 (amendment of regulation 57) insert—
 
 > (1A) After paragraph (1) insert—
 >
@@ -169,36 +169,36 @@ The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) R
 
 ## Annotations
 
-[^key-6a5220f5783c0641f556c835eaade762]: Commencement: Reg. 81 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-6a5220f5783c0641f556c835eaade762]: Commencement: Reg. 81 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2019/13](https://www.legislation.gov.uk/uksi/2019/13) prospectively amended by [S.I 2019/474](https://www.legislation.gov.uk/uksi/2019/474) and [S.I 2019/1216](https://www.legislation.gov.uk/uksi/2019/1216). To be brought into force by way of commencement regulations to be made by HM Treasury.
 
-[^key-d192f6ed3d6cf525304f9546a196e080]: Commencement: Reg. 82 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-d192f6ed3d6cf525304f9546a196e080]: Commencement: Reg. 82 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
 [^f00010]: Footnote: Regulation 22(4) of [S.I. 2019/13](https://www.legislation.gov.uk/uksi/2019/13) was substituted by [S.I. 2019/1216](https://www.legislation.gov.uk/uksi/2019/1216).
 
-[^key-7e44b5f3d47b3d42b250088da435ca47]: Commencement: Reg. 83 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-7e44b5f3d47b3d42b250088da435ca47]: Commencement: Reg. 83 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
-[^key-9701a1fea7d8723be105afc3a7e7e281]: Commencement: Reg. 84 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-9701a1fea7d8723be105afc3a7e7e281]: Commencement: Reg. 84 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
-[^key-3ce84e747b9285a9f793938df739e654]: Commencement: Reg. 85 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-3ce84e747b9285a9f793938df739e654]: Commencement: Reg. 85 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559).
 
-[^key-04c4f46709d4c21bcfc662750cfe3970]: Commencement: Reg. 86 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-04c4f46709d4c21bcfc662750cfe3970]: Commencement: Reg. 86 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
-[^key-f330ae3faac2bd79fd31366ef3015e9c]: Commencement: Reg. 87 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-f330ae3faac2bd79fd31366ef3015e9c]: Commencement: Reg. 87 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
 [^f00012]: Footnote: As amended by regulation 5(2) of [S.I. 2019/1216](https://www.legislation.gov.uk/uksi/2019/1216).
 
-[^key-224e839b0c2cdcf79f8b0355ab732809]: Commencement: Reg. 88 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-224e839b0c2cdcf79f8b0355ab732809]: Commencement: Reg. 88 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
 [^f00013]: Footnote: Any notices mentioned in this instrument will be published at: https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. A hard copy may be obtained free of charge by arrangement with HM Revenue and Customs, 100 Parliament Street, London SW1A 2BQ.
 
-[^key-72e7c4fb623f6e72f315d8494a8bb7c3]: Commencement: Reg. 89 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-72e7c4fb623f6e72f315d8494a8bb7c3]: Commencement: Reg. 89 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
-[^key-bfd96d8534a99f9c068900f128ff1746]: Commencement: Reg. 90 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-bfd96d8534a99f9c068900f128ff1746]: Commencement: Reg. 90 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
-[^key-6f63190d3736666f1db0e2601eeda71b]: Commencement: Reg. 91 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-6f63190d3736666f1db0e2601eeda71b]: Commencement: Reg. 91 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
-[^key-a978c2b217320aafadd55ce77fce6b2a]: Commencement: Reg. 92 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-a978c2b217320aafadd55ce77fce6b2a]: Commencement: Reg. 92 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)

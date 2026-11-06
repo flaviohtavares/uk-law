@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Information for staff[^key-5be3fb699715abe147bccbacf1d0e343]
+## 27. Information for staff[^c-5be3fb699715abe147bccbacf1d0e343]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5be3fb699715abe147bccbacf1d0e343]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2019/165/regulation/27) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-5be3fb699715abe147bccbacf1d0e343]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2019/165/regulation/27) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

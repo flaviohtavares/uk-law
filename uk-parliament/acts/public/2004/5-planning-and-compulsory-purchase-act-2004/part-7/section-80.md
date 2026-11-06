@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Special provision relating to national security[^key-5a5e0998504b2c99e4849f77eb02cba7][^key-7f2e7fcca50f0785d0df30ac082cecc9]
+## 80. Special provision relating to national security[^c-5a5e0998504b2c99e4849f77eb02cba7][^c-7f2e7fcca50f0785d0df30ac082cecc9]
 
 *Extent: E+W*
 
@@ -126,6 +126,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a5e0998504b2c99e4849f77eb02cba7]: Commencement: S. 80 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-5a5e0998504b2c99e4849f77eb02cba7]: Commencement: S. 80 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-7f2e7fcca50f0785d0df30ac082cecc9]: Commencement: S. 80 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-7f2e7fcca50f0785d0df30ac082cecc9]: Commencement: S. 80 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)

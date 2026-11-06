@@ -42,11 +42,11 @@ Coming into force in accordance with regulation 1
 
 [^c23592481]The Treasury, in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 , make the following Regulations.
 
-A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 1 of Schedule 7 to the European Union (Withdrawal) Act 2018.[^key-6a05a784ca4b6b4f64de05bcef65f96b][^key-42dd30f6eeaa0b5e266501d3847caf8c]
+A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 1 of Schedule 7 to the European Union (Withdrawal) Act 2018.[^c-6a05a784ca4b6b4f64de05bcef65f96b][^c-42dd30f6eeaa0b5e266501d3847caf8c]
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-8e335ed4213f5827b7c82b389c1cf00a]
+### 1. Citation, commencement and interpretation[^c-8e335ed4213f5827b7c82b389c1cf00a]
 
 (1) These Regulations may be cited as the Venture Capital Funds (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -54,11 +54,11 @@ A draft of these Regulations has been approved by a resolution of each House of 
 
 ## PART 2 — Amendment of the European Venture Capital Funds Regulation
 
-### 2. European Venture Capital Funds Regulation[^key-9d102f4f048965133f3cdddbf148a70a]
+### 2. European Venture Capital Funds Regulation[^c-9d102f4f048965133f3cdddbf148a70a]
 
 The EuVECA Regulation is amended in accordance with this Part.
 
-### 3. Subject matter, scope and definitions[^key-f4a9c1f78042ed7fbf8aa5fe79548d85]
+### 3. Subject matter, scope and definitions[^c-f4a9c1f78042ed7fbf8aa5fe79548d85]
 
 (1) In Article 1—
 
@@ -141,9 +141,9 @@ The EuVECA Regulation is amended in accordance with this Part.
   > - (q) ‘the AIFM Regulations’ means the Alternative Investment Fund Managers Regulations 2013;
   > - (r) ‘the Markets in Financial Instruments Regulation 2014’ means Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments, as that Regulation forms part of domestic law.
   >
-  > Any reference in this Regulation to a sourcebook is to a sourcebook in the Handbook of Rules and Guidance published by the FCA containing rules made and guidance issued by the FCA under FSMA as the sourcebook has effect on IP completion day[^key-d2b1132053679b8c6eda5ff493d1d87e].
+  > Any reference in this Regulation to a sourcebook is to a sourcebook in the Handbook of Rules and Guidance published by the FCA containing rules made and guidance issued by the FCA under FSMA as the sourcebook has effect on IP completion day[^c-d2b1132053679b8c6eda5ff493d1d87e].
 
-### 4. Conditions for the use of the designation “RVECA”[^key-094a977bf7b73d8e21ed267c849490ac]
+### 4. Conditions for the use of the designation “RVECA”[^c-094a977bf7b73d8e21ed267c849490ac]
 
 (1) In Article 4—
 
@@ -172,7 +172,7 @@ The EuVECA Regulation is amended in accordance with this Part.
 
 (6) In Article 13, in paragraph 3, for the words from “Directive [2003/71/EC](https://www.legislation.gov.uk/european/directive/2003/0071)” to “admitted to trading” substitute “ Part 6 of FSMA ”.
 
-### 5. Supervision and administrative cooperation[^key-a817770f808f5714a7d0d45c79ffa645]
+### 5. Supervision and administrative cooperation[^c-a817770f808f5714a7d0d45c79ffa645]
 
 (1) In Article 14—
 
@@ -213,7 +213,7 @@ The EuVECA Regulation is amended in accordance with this Part.
 - (c) omit paragraph 3;
 - (d) in paragraph 4, for “Directive 2011/61/EU” substitute—
 
-  > the law of the United Kingdom which was relied on immediately before IP completion day[^key-dc504bfec1af80fec0bd02d4b0fb3952] to implement Directive 2011/61/EU and its implementing measures—
+  > the law of the United Kingdom which was relied on immediately before IP completion day[^c-dc504bfec1af80fec0bd02d4b0fb3952] to implement Directive 2011/61/EU and its implementing measures—
   >
   > - (a) as they have effect on IP completion day, in the case of rules made by the FCA or by the PRA under FSMA, and
   > - (b) as amended from time to time, in all other cases.
@@ -285,7 +285,7 @@ The EuVECA Regulation is amended in accordance with this Part.
 
 (11) Omit Article 24.
 
-### 6. Transitional and final provisions[^key-c49974a77ff68d5eb629ef39e5fdb14f]
+### 6. Transitional and final provisions[^c-c49974a77ff68d5eb629ef39e5fdb14f]
 
 (1) For Article 25 substitute—
 
@@ -312,16 +312,16 @@ The EuVECA Regulation is amended in accordance with this Part.
 
 (3) After Article 28, omit “This Regulation shall be binding in its entirely and directly applicable in all Member States”.
 
-## PART 3 — Transitional provision for managers and funds registered with the FCA before IP completion day[^key-b6c482a30e35d8628f2fa1656c3dc63d]
+## PART 3 — Transitional provision for managers and funds registered with the FCA before IP completion day[^c-b6c482a30e35d8628f2fa1656c3dc63d]
 
-### 7. Application of regulation 8[^key-2493e086c5a6d91a94d54722547f94bd]
+### 7. Application of regulation 8[^c-2493e086c5a6d91a94d54722547f94bd]
 
-Regulation 8 applies to a manager of a qualifying venture capital fund who, before IP completion day[^key-bc397e6cf51c9d1236975a94c035b18d]—
+Regulation 8 applies to a manager of a qualifying venture capital fund who, before IP completion day[^c-bc397e6cf51c9d1236975a94c035b18d]—
 
 - (a) is informed by the FCA that the manager has been registered as a manager of a qualifying venture capital fund, in accordance with Article 14(4) of Regulation (EU) No 345/2013 as it had effect before IP completion day; and
 - (b) has not otherwise ceased to meet the conditions in Regulation (EU) No 345/2013 for registration as a manager of a qualifying venture capital fund as those conditions had effect before IP completion day.
 
-### 8. Managers treated as registered for the purposes of Article 14 of the EuVECA Regulation[^key-0e2c82dbbaa8944cfcd248c512f47ac5]
+### 8. Managers treated as registered for the purposes of Article 14 of the EuVECA Regulation[^c-0e2c82dbbaa8944cfcd248c512f47ac5]
 
 (1) A manager of a qualifying venture capital fund to whom this regulation applies is to be treated as registered in accordance with Article 14 of the EuVECA Regulation.
 
@@ -329,20 +329,20 @@ Regulation 8 applies to a manager of a qualifying venture capital fund who, befo
 
 (3) References in primary or secondary legislation to a manager of a qualifying venture capital fund that is registered in accordance with Article 14 of the EuVECA Regulation are to be read, unless the contrary intention appears, as including a manager to whom this regulation applies.
 
-### 9. Funds treated as registered for the purposes of Article 14a of the EuVECA Regulation[^key-87f5b4e961aa5feeda52793103d30dd6]
+### 9. Funds treated as registered for the purposes of Article 14a of the EuVECA Regulation[^c-87f5b4e961aa5feeda52793103d30dd6]
 
-(1) A collective investment undertaking which, immediately before IP completion day[^key-82e0504533e40543a7bb69306ae80aaf], is a qualifying venture capital fund (as defined in Article 3(1)(b) of the EuVECA Regulation as it had effect immediately before IP completion day) is to be treated as registered in accordance with Article 14a of the EuVECA Regulation where, before IP completion day, the FCA informs the manager of that fund that the fund has been registered as a qualifying venture capital fund, in accordance with Article 14a(6) of Regulation (EU) No 345/2013 as it had effect before IP completion day.
+(1) A collective investment undertaking which, immediately before IP completion day[^c-82e0504533e40543a7bb69306ae80aaf], is a qualifying venture capital fund (as defined in Article 3(1)(b) of the EuVECA Regulation as it had effect immediately before IP completion day) is to be treated as registered in accordance with Article 14a of the EuVECA Regulation where, before IP completion day, the FCA informs the manager of that fund that the fund has been registered as a qualifying venture capital fund, in accordance with Article 14a(6) of Regulation (EU) No 345/2013 as it had effect before IP completion day.
 
 (2) Paragraphs 1, 2, 4, 5 and 6 of Article 14a of the EuVECA Regulation do not apply to a manager in relation to any qualifying venture capital fund to which this regulation applies.
 
-### 10. Interpretation[^key-b98f5a8a02bce6e707db0500f20c9224]
+### 10. Interpretation[^c-b98f5a8a02bce6e707db0500f20c9224]
 
 In this Part—
 
 - “**FCA**” means the Financial Conduct Authority;
 - “**manager of a qualifying venture capital fund**” has the meaning given by Article 3(1)(c) of the EuVECA Regulation.
 
-### 11. Modification of the Alternative Investment Fund Managers Regulations 2013[^key-1b48d6acc1364a4a960540a7ef4837ae]
+### 11. Modification of the Alternative Investment Fund Managers Regulations 2013[^c-1b48d6acc1364a4a960540a7ef4837ae]
 
 (1) The Alternative Investment Fund Managers Regulations 2013 [^c23592561] are modified as follows.
 
@@ -375,15 +375,15 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23592481]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-6a05a784ca4b6b4f64de05bcef65f96b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/333) modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by S.I. 2020/1301, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a05a784ca4b6b4f64de05bcef65f96b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/333) modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by S.I. 2020/1301, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42dd30f6eeaa0b5e266501d3847caf8c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/333): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-42dd30f6eeaa0b5e266501d3847caf8c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/333): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-8e335ed4213f5827b7c82b389c1cf00a]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-8e335ed4213f5827b7c82b389c1cf00a]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-9d102f4f048965133f3cdddbf148a70a]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-9d102f4f048965133f3cdddbf148a70a]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-f4a9c1f78042ed7fbf8aa5fe79548d85]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-f4a9c1f78042ed7fbf8aa5fe79548d85]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23592491]: Marginal citation: [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
@@ -395,35 +395,35 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23592531]: Marginal citation: OJ L335, 17.12.2009, p.1.
 
-[^key-d2b1132053679b8c6eda5ff493d1d87e]: Textual amendment: Words in [reg. 3(3)(h)](https://www.legislation.gov.uk/uksi/2019/333/regulation/3/3/h) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/a)
+[^c-d2b1132053679b8c6eda5ff493d1d87e]: Textual amendment: Words in [reg. 3(3)(h)](https://www.legislation.gov.uk/uksi/2019/333/regulation/3/3/h) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/a)
 
-[^key-094a977bf7b73d8e21ed267c849490ac]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-094a977bf7b73d8e21ed267c849490ac]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23592541]: Marginal citation: [Schedule 1](https://www.legislation.gov.uk/uksi/2019/333/schedule/1) is inserted into the Markets in Financial Instruments Regulation 2014 by the Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018.
 
-[^key-a817770f808f5714a7d0d45c79ffa645]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a817770f808f5714a7d0d45c79ffa645]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-dc504bfec1af80fec0bd02d4b0fb3952]: Textual amendment: Words in [reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2019/333/regulation/5/2/d) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/b)
+[^c-dc504bfec1af80fec0bd02d4b0fb3952]: Textual amendment: Words in [reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2019/333/regulation/5/2/d) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/b)
 
 [^c23592551]: Marginal citation: [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
-[^key-c49974a77ff68d5eb629ef39e5fdb14f]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c49974a77ff68d5eb629ef39e5fdb14f]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-b6c482a30e35d8628f2fa1656c3dc63d]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2019/333/part/3) heading substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(c)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/c)
+[^c-b6c482a30e35d8628f2fa1656c3dc63d]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2019/333/part/3) heading substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(c)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/c)
 
-[^key-2493e086c5a6d91a94d54722547f94bd]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2493e086c5a6d91a94d54722547f94bd]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-bc397e6cf51c9d1236975a94c035b18d]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2019/333/regulation/7) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(d)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/d)
+[^c-bc397e6cf51c9d1236975a94c035b18d]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2019/333/regulation/7) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(d)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/d)
 
-[^key-0e2c82dbbaa8944cfcd248c512f47ac5]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0e2c82dbbaa8944cfcd248c512f47ac5]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-87f5b4e961aa5feeda52793103d30dd6]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-87f5b4e961aa5feeda52793103d30dd6]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-82e0504533e40543a7bb69306ae80aaf]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2019/333/regulation/9/1) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(e)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/e)
+[^c-82e0504533e40543a7bb69306ae80aaf]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2019/333/regulation/9/1) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(e)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/e)
 
-[^key-b98f5a8a02bce6e707db0500f20c9224]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b98f5a8a02bce6e707db0500f20c9224]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-1b48d6acc1364a4a960540a7ef4837ae]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1b48d6acc1364a4a960540a7ef4837ae]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23592561]: Marginal citation: [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 

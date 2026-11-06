@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Date on which entitlement is to begin[^key-6e91115ed8b05c78516bcd09de662a90]
+## 56. Date on which entitlement is to begin[^c-6e91115ed8b05c78516bcd09de662a90]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e91115ed8b05c78516bcd09de662a90]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1992/1814/regulation/56) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-6e91115ed8b05c78516bcd09de662a90]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1992/1814/regulation/56) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

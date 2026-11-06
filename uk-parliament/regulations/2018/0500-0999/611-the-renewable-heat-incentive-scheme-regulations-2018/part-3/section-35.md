@@ -74,7 +74,7 @@ may make an application for a tariff guarantee in respect of that plant or that 
 
 - (a) that a tariff guarantee will be granted if the Authority is satisfied that financial close has been reached;
 - (b) the evidence which is required for the purposes of sub-paragraph (a);
-- (c)[^key-73ebd750d0f787d94c433b36d8c98dec] the date by which such evidence must be provided, which must be no later than—
+- (c)[^c-73ebd750d0f787d94c433b36d8c98dec] the date by which such evidence must be provided, which must be no later than—
   - (i) 3 weeks from the date on which the provisional tariff guarantee notice is issued; or
   - (ii) 31st March 2021,
 
@@ -90,9 +90,9 @@ may make an application for a tariff guarantee in respect of that plant or that 
 - (d) the information which the applicant must supply to the Authority during the period of the tariff guarantee, and the frequency with which that information must be supplied; and
 - (e) any further conditions which the Authority thinks fit in relation to the tariff guarantee.
 
-(7A)[^key-51756e321ace864ee155ff5d2af2ab6e] Where the Authority has issued a notice under paragraph (7) before 20th July 2020 for an application made on or after 17th July 2019 and before 29th June 2020, the Authority may re-issue the notice substituting a date no later than 31st March 2022 as the date by which, for the purposes of the tariff guarantee, the plant must be commissioned or the injection of biomethane must commence.
+(7A)[^c-51756e321ace864ee155ff5d2af2ab6e] Where the Authority has issued a notice under paragraph (7) before 20th July 2020 for an application made on or after 17th July 2019 and before 29th June 2020, the Authority may re-issue the notice substituting a date no later than 31st March 2022 as the date by which, for the purposes of the tariff guarantee, the plant must be commissioned or the injection of biomethane must commence.
 
-(7B)[^key-641acff9e00bcaa27c936578626b491e] Where a notice under paragraph (7) in respect of a plant to which paragraph (3) applies has been reissued under paragraph (7A), the Authority may re-issue the notice substituting a date no later than 31st March 2023 as the date by which, for the purposes of the tariff guarantee, the plant must be commissioned.
+(7B)[^c-641acff9e00bcaa27c936578626b491e] Where a notice under paragraph (7) in respect of a plant to which paragraph (3) applies has been reissued under paragraph (7A), the Authority may re-issue the notice substituting a date no later than 31st March 2023 as the date by which, for the purposes of the tariff guarantee, the plant must be commissioned.
 
 (7C) Where a notice under paragraph (7) has been reissued under paragraph (7A) to an applicant who proposes to produce biomethane for injection and the applicant is not eligible to make an application for a tariff guarantee under regulation 4(1) of the Green Gas Support Scheme Regulations 2021 in respect of that production, the Authority may re-issue the notice substituting a date no later than 31st March 2023 as the date by which, for the purposes of the tariff guarantee, the injection of biomethane must commence.
 
@@ -103,9 +103,9 @@ may make an application for a tariff guarantee in respect of that plant or that 
 - (c) the Authority considers that the information on which the decision to grant the tariff guarantee was based was incorrect in a material particular; or
 - (d) the Authority considers that the plant or the production and injection of biomethane is materially different from the plant or production and injection of biomethane which was proposed under paragraph (4) or (5).
 
-(8A)[^key-a0828fd7db9385ac7754a243731d7475] Where the Authority has revoked a tariff guarantee before 20th July 2020 for an application made on or after 17th July 2019 and before 29th June 2020 because the applicant failed to meet the condition imposed in accordance with paragraph (7)(b), the Authority may reissue a notice under paragraph (7) substituting a date no later than 31st March 2022 as the date by which, for the purposes of the tariff guarantee, the plant must be commissioned or the injection of biomethane must commence.
+(8A)[^c-a0828fd7db9385ac7754a243731d7475] Where the Authority has revoked a tariff guarantee before 20th July 2020 for an application made on or after 17th July 2019 and before 29th June 2020 because the applicant failed to meet the condition imposed in accordance with paragraph (7)(b), the Authority may reissue a notice under paragraph (7) substituting a date no later than 31st March 2022 as the date by which, for the purposes of the tariff guarantee, the plant must be commissioned or the injection of biomethane must commence.
 
-(8B)[^key-7dfda7ba9c75397866c64ddc9dcd117c] Where a notice under paragraph (7) has been reissued under paragraph (8A) in respect of a plant to which paragraph (3) applies, the Authority may re-issue the notice substituting a date no later than 31st March 2023 as the date by which, for the purposes of the tariff guarantee, the plant must be commissioned.
+(8B)[^c-7dfda7ba9c75397866c64ddc9dcd117c] Where a notice under paragraph (7) has been reissued under paragraph (8A) in respect of a plant to which paragraph (3) applies, the Authority may re-issue the notice substituting a date no later than 31st March 2023 as the date by which, for the purposes of the tariff guarantee, the plant must be commissioned.
 
 (8C) Where a notice under paragraph (7) has been reissued under paragraph (8A) to an applicant who proposes to produce biomethane for injection and the applicant is not eligible to make an application for a tariff guarantee under regulation 4(1) of the Green Gas Support Scheme Regulations 2021 in respect of that production, the Authority may re-issue the notice substituting a date no later than 31st March 2023 as the date by which, for the purposes of the tariff guarantee, the injection of biomethane must commence.
 
@@ -123,7 +123,7 @@ the tariff applicable at the tariff start date is the initial tariff which would
 
 the guaranteed tariff will apply to the first 250GWh of such heat or biomethane only.
 
-(11) In relation to tariff guarantee applications made before 17th July 2019, the[^key-02eb3d359ae7e8342407119268bea908] guaranteed tariff does not apply where—
+(11) In relation to tariff guarantee applications made before 17th July 2019, the[^c-02eb3d359ae7e8342407119268bea908] guaranteed tariff does not apply where—
 
 - (a) the tariff start date in relation to an accredited RHI installation is earlier than the date given under paragraph (4)(b) or the tariff start date for a producer of biomethane for injection is earlier than the date given in accordance with paragraph (5)(a);
 - (b) the tariff guarantee has been revoked; or
@@ -133,7 +133,7 @@ the guaranteed tariff will apply to the first 250GWh of such heat or biomethane 
 
   whichever is the earlier.
 
-(11A)[^key-975904ffead834c587f1e889e9a2d49f] In relation to tariff guarantee applications made on or after 29th June 2020 and before 20th July 2020[^key-91cfeab10cdc95d062acd6663b8ccde0], the guaranteed tariff does not apply where—
+(11A)[^c-975904ffead834c587f1e889e9a2d49f] In relation to tariff guarantee applications made on or after 29th June 2020 and before 20th July 2020[^c-91cfeab10cdc95d062acd6663b8ccde0], the guaranteed tariff does not apply where—
 
 - (a) the tariff start date in relation to an accredited RHI installation is earlier than the date given under paragraph (4)(b) or the tariff start date for a producer of biomethane for injection is earlier than the date given in accordance with paragraph (5)(a);
 - (b) the tariff guarantee has been revoked; or
@@ -143,11 +143,11 @@ the guaranteed tariff will apply to the first 250GWh of such heat or biomethane 
 
   whichever is the earlier.
 
-(11B)[^key-fb034f88aeb8dccb9026d5c23464688d] In relation to tariff guarantee applications made on or after 17th July 2019 and before 29th June 2020 or on or after 20th July 2020, the guaranteed tariff does not apply where—
+(11B)[^c-fb034f88aeb8dccb9026d5c23464688d] In relation to tariff guarantee applications made on or after 17th July 2019 and before 29th June 2020 or on or after 20th July 2020, the guaranteed tariff does not apply where—
 
 - (a) the tariff start date in relation to an accredited RHI installation is earlier than the date given under paragraph (4)(b) or the tariff start date for a producer of biomethane for injection is earlier than the date given in accordance with paragraph (5)(a);
 - (b) the tariff guarantee has been revoked and a notice under paragraph (7) has not been reissued under paragraph (8A); or
-- (c) the tariff start date in relation to—[^key-5a69cfa8ebe4578f51d7107370e4a4d6]
+- (c) the tariff start date in relation to—[^c-5a69cfa8ebe4578f51d7107370e4a4d6]
   - (i) an accredited RHI installation in respect of which a notice under paragraph (7) has been reissued under paragraph (7B) or (8B) is after 31st March 2023;
   - (ii) a producer of biomethane for injection to whom a notice under paragraph (7) has been reissued under paragraph (7C) or (8C) is after 31st March 2023; or
   - (iii) any other accredited RHI installation or producer of biomethane for injection is after 31st March 2022.
@@ -169,14 +169,14 @@ the guaranteed tariff will apply to the first 250GWh of such heat or biomethane 
 
 (14) The Secretary of State—
 
-- (a) must determine and publish the budget allocation for tariff guarantees (the “budget allocation”) for each of the financial years 2018/2019, 2019/2020 , 2020/2021, 2021/2022 and 2022/2023[^key-e36dfb94e662b608495cd17ae5ebb3e8];
+- (a) must determine and publish the budget allocation for tariff guarantees (the “budget allocation”) for each of the financial years 2018/2019, 2019/2020 , 2020/2021, 2021/2022 and 2022/2023[^c-e36dfb94e662b608495cd17ae5ebb3e8];
 - (b) must publish—
   - (i) estimates of inflation for each of the relevant financial years;
   - (ii) load factors applicable for each relevant technology;
   - (iii) quarterly biomethane production factors;
 - (c) may review the budget allocation for a current or future relevant financial year;
 - (d) may, as a result of such a review, increase a budget allocation, provided that such increase may only take effect on 1st February, 1st May, 1st August or 1st November in a relevant financial year.
-- (e)[^key-fd2210fcb248652492c7090883113973] may determine and publish that part of the budget allocation which will be allocated to a particular technology or group of technologies.
+- (e)[^c-fd2210fcb248652492c7090883113973] may determine and publish that part of the budget allocation which will be allocated to a particular technology or group of technologies.
 
 (15) The Authority must publish the following information on its website—
 
@@ -238,28 +238,28 @@ the guaranteed tariff will apply to the first 250GWh of such heat or biomethane 
 
 ## Annotations
 
-[^key-73ebd750d0f787d94c433b36d8c98dec]: Textual amendment: Reg. 35(6)(c) substituted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/a)
+[^c-73ebd750d0f787d94c433b36d8c98dec]: Textual amendment: Reg. 35(6)(c) substituted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/a)
 
-[^key-51756e321ace864ee155ff5d2af2ab6e]: Textual amendment: Reg. 35(7A) inserted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/b)
+[^c-51756e321ace864ee155ff5d2af2ab6e]: Textual amendment: Reg. 35(7A) inserted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/b)
 
-[^key-641acff9e00bcaa27c936578626b491e]: Textual amendment: [Reg. 35(7B)](https://www.legislation.gov.uk/uksi/2018/611/regulation/35/7B)[(7C)](https://www.legislation.gov.uk/uksi/2018/611/regulation/35/7C) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [39(a)](https://www.legislation.gov.uk/uksi/2022/159/regulation/39/a)
+[^c-641acff9e00bcaa27c936578626b491e]: Textual amendment: [Reg. 35(7B)](https://www.legislation.gov.uk/uksi/2018/611/regulation/35/7B)[(7C)](https://www.legislation.gov.uk/uksi/2018/611/regulation/35/7C) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [39(a)](https://www.legislation.gov.uk/uksi/2022/159/regulation/39/a)
 
-[^key-a0828fd7db9385ac7754a243731d7475]: Textual amendment: Reg. 35(8A) inserted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/c)
+[^c-a0828fd7db9385ac7754a243731d7475]: Textual amendment: Reg. 35(8A) inserted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/c)
 
-[^key-7dfda7ba9c75397866c64ddc9dcd117c]: Textual amendment: [Reg. 35(8B)](https://www.legislation.gov.uk/uksi/2018/611/regulation/35/8B)[(8C)](https://www.legislation.gov.uk/uksi/2018/611/regulation/35/8C) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [39(b)](https://www.legislation.gov.uk/uksi/2022/159/regulation/39/b)
+[^c-7dfda7ba9c75397866c64ddc9dcd117c]: Textual amendment: [Reg. 35(8B)](https://www.legislation.gov.uk/uksi/2018/611/regulation/35/8B)[(8C)](https://www.legislation.gov.uk/uksi/2018/611/regulation/35/8C) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [39(b)](https://www.legislation.gov.uk/uksi/2022/159/regulation/39/b)
 
-[^key-02eb3d359ae7e8342407119268bea908]: Textual amendment: Words in reg. 35(11) substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/5/1)
+[^c-02eb3d359ae7e8342407119268bea908]: Textual amendment: Words in reg. 35(11) substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/5/1)
 
-[^key-975904ffead834c587f1e889e9a2d49f]: Textual amendment: Reg. 35(11A) inserted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/5/2)
+[^c-975904ffead834c587f1e889e9a2d49f]: Textual amendment: Reg. 35(11A) inserted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/5/2)
 
-[^key-91cfeab10cdc95d062acd6663b8ccde0]: Textual amendment: Words in reg. 35(11A) substituted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/d)
+[^c-91cfeab10cdc95d062acd6663b8ccde0]: Textual amendment: Words in reg. 35(11A) substituted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/d)
 
-[^key-fb034f88aeb8dccb9026d5c23464688d]: Textual amendment: Reg. 35(11B) inserted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/e)
+[^c-fb034f88aeb8dccb9026d5c23464688d]: Textual amendment: Reg. 35(11B) inserted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/e)
 
-[^key-5a69cfa8ebe4578f51d7107370e4a4d6]: Textual amendment: Words in [reg. 35(11B)(c)](https://www.legislation.gov.uk/uksi/2018/611/regulation/35/11B/c) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [39(c)](https://www.legislation.gov.uk/uksi/2022/159/regulation/39/c)
+[^c-5a69cfa8ebe4578f51d7107370e4a4d6]: Textual amendment: Words in [reg. 35(11B)(c)](https://www.legislation.gov.uk/uksi/2018/611/regulation/35/11B/c) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [39(c)](https://www.legislation.gov.uk/uksi/2022/159/regulation/39/c)
 
-[^key-e36dfb94e662b608495cd17ae5ebb3e8]: Textual amendment: Words in reg. 35(14)(a) substituted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(f)(i)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/f/i)
+[^c-e36dfb94e662b608495cd17ae5ebb3e8]: Textual amendment: Words in reg. 35(14)(a) substituted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(f)(i)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/f/i)
 
-[^key-fd2210fcb248652492c7090883113973]: Textual amendment: Reg. 35(14)(e) inserted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/f/ii)
+[^c-fd2210fcb248652492c7090883113973]: Textual amendment: Reg. 35(14)(e) inserted (20.7.2020) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2020 (S.I. 2020/650)](https://www.legislation.gov.uk/uksi/2020/650), [regs. 1](https://www.legislation.gov.uk/uksi/2020/650/regulation/1), [3(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/650/regulation/3/2/f/ii)
 
 [^c22955741]: Marginal citation: This is a factor to account for the calorific value per cubic metre of biomethane (10 kWh/m<sup>3</sup>) and proportion of eligible biomethane per unit of biomethane injected (0.91).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Annual report by PCSP to council[^key-7abc48baf4d8c4ca26ecf266afaf2b37]
+## 24. Annual report by PCSP to council[^c-7abc48baf4d8c4ca26ecf266afaf2b37]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7abc48baf4d8c4ca26ecf266afaf2b37]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2011/24/section/24) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-7abc48baf4d8c4ca26ecf266afaf2b37]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2011/24/section/24) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

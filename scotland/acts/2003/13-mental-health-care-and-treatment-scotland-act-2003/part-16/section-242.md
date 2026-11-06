@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 242. Treatment not mentioned in section 234(2), 237(3) or 240(3)[^key-8733d12c6726ae3d9dfec6aa5c682a86]
+## 242. Treatment not mentioned in section 234(2), 237(3) or 240(3)[^c-8733d12c6726ae3d9dfec6aa5c682a86]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ medical treatment is given to the patient in accordance with this subsection if 
 
 ## Annotations
 
-[^key-8733d12c6726ae3d9dfec6aa5c682a86]: Commencement: [S. 242](https://www.legislation.gov.uk/asp/2003/13/section/242) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-8733d12c6726ae3d9dfec6aa5c682a86]: Commencement: [S. 242](https://www.legislation.gov.uk/asp/2003/13/section/242) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

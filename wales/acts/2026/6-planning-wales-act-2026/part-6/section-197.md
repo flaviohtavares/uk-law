@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 197. Duty to pass CIL to other persons[^key-e7623bce585cee5fcf2808c09f51e223]
+## 197. Duty to pass CIL to other persons[^c-e7623bce585cee5fcf2808c09f51e223]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7623bce585cee5fcf2808c09f51e223]: Commencement: S. 197 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e7623bce585cee5fcf2808c09f51e223]: Commencement: S. 197 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

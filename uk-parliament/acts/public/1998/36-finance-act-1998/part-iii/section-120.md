@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Rate of CGT for trustees etc.[^key-fb724c488323acf04dadaff0273f414b]
+## 120. Rate of CGT for trustees etc.[^c-fb724c488323acf04dadaff0273f414b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb724c488323acf04dadaff0273f414b]: Textual amendment: S. 120 omitted (with effect in accordance with Sch. 2 para. 22 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(c)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/c/i)
+[^c-fb724c488323acf04dadaff0273f414b]: Textual amendment: S. 120 omitted (with effect in accordance with Sch. 2 para. 22 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(c)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/c/i)

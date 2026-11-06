@@ -32,7 +32,7 @@ summary: ''
 
 SEA FISHERIES
 
-The Sea Fishing (Control Procedures for Herring, Mackerel and Horse Mackerel) (Scotland) Order 2008 (revoked)[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+The Sea Fishing (Control Procedures for Herring, Mackerel and Horse Mackerel) (Scotland) Order 2008 (revoked)[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 Made
 
@@ -46,83 +46,83 @@ Coming into force
 
 1st April 2008
 
-[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 1. Citation, commencement and extent[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 2. Interpretation[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Approval of pelagic weighing systems[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 3. Approval of pelagic weighing systems[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Weighing procedures for herring, mackerel and horse mackerel[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 4. Weighing procedures for herring, mackerel and horse mackerel[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Weighing of fresh fish after transport[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 5. Weighing of fresh fish after transport[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Approval to weigh fresh fish after transport[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 6. Approval to weigh fresh fish after transport[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 7. Offences[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Penalties[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 8. Penalties[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Recovery of fines[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 9. Recovery of fines[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Powers of British sea fishery officers in relation to fishing boats[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 10. Powers of British sea fishery officers in relation to fishing boats[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Powers of British sea fishery officers on land[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 11. Powers of British sea fishery officers on land[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Powers of British sea fishery officers to seize fish and fishing gear[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 12. Powers of British sea fishery officers to seize fish and fishing gear[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Protection of officers[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 13. Protection of officers[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Obstruction of officers[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 14. Obstruction of officers[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Offences by bodies corporate[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 15. Offences by bodies corporate[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Admissibility in evidence of logbooks and other documents[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 16. Admissibility in evidence of logbooks and other documents[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendment of the Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures) (Scotland) Order 2007[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## 17. Amendment of the Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures) (Scotland) Order 2007[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS (MAXIMUM FINES ON SUMMARY CONVICTION)[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]
+## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS (MAXIMUM FINES ON SUMMARY CONVICTION)[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]
 
 articles 2(1) and (4), 7 and 8(2)
 
@@ -130,8 +130,8 @@ articles 2(1) and (4), 7 and 8(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1b0ae5c035ecb3a6a0ca2000caf540e]: Textual amendment: Order revoked (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [31(1)(h)](https://www.legislation.gov.uk/ssi/2015/320/article/31/1/h) (with [art. 31(3)](https://www.legislation.gov.uk/ssi/2015/320/article/31/3))
+[^c-d1b0ae5c035ecb3a6a0ca2000caf540e]: Textual amendment: Order revoked (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [31(1)(h)](https://www.legislation.gov.uk/ssi/2015/320/article/31/1/h) (with [art. 31(3)](https://www.legislation.gov.uk/ssi/2015/320/article/31/3))

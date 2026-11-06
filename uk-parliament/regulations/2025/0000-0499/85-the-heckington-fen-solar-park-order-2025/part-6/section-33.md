@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Application of landlord and tenant law[^key-c49a5ec72311e1d05323e6eda7dddff7]
+## 33. Application of landlord and tenant law[^c-c49a5ec72311e1d05323e6eda7dddff7]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land which is the
 
 ## Annotations
 
-[^key-c49a5ec72311e1d05323e6eda7dddff7]: Commencement: Art. 33 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-c49a5ec72311e1d05323e6eda7dddff7]: Commencement: Art. 33 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

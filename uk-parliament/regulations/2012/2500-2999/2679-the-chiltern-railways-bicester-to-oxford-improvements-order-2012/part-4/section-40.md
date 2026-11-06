@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Power to lop trees overhanging the authorised works[^key-5fa223fa6a56ff422843f9d813ac604f]
+## 40. Power to lop trees overhanging the authorised works[^c-5fa223fa6a56ff422843f9d813ac604f]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fa223fa6a56ff422843f9d813ac604f]: Commencement: Art. 40 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-5fa223fa6a56ff422843f9d813ac604f]: Commencement: Art. 40 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Report on use of proceeds of the levy[^key-d587495894dafc0bd918392dd9f3e678]
+## 45. Report on use of proceeds of the levy[^c-d587495894dafc0bd918392dd9f3e678]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d587495894dafc0bd918392dd9f3e678]: Commencement: S. 45 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-d587495894dafc0bd918392dd9f3e678]: Commencement: S. 45 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

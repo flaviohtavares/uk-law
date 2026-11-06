@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Adoption of plan[^key-a1fcf037daca61a86675bf1235b14d10]
+## 24. Adoption of plan[^c-a1fcf037daca61a86675bf1235b14d10]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1fcf037daca61a86675bf1235b14d10]: Commencement: S. 24 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a1fcf037daca61a86675bf1235b14d10]: Commencement: S. 24 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

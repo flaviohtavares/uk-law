@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE[^key-a75c14d3a14df3def4d7503bded5c2fa]
+## SCHEDULE[^c-a75c14d3a14df3def4d7503bded5c2fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -158,7 +158,7 @@ Regulation 52
 
 ## Annotations
 
-[^key-a75c14d3a14df3def4d7503bded5c2fa]: Commencement: Sch. in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-a75c14d3a14df3def4d7503bded5c2fa]: Commencement: Sch. in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
 
 [^f00015]: Footnote: Regulations 67B and 67D are inserted by regulation 27(b) of these Regulations.
 

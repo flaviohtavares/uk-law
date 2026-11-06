@@ -58,7 +58,7 @@ Section 74(2).
 
 #### Advice and information
 
-**3.**[^key-9075b471575a4a5c20db28285ef521d2] (1) The Director may publish advice and information explaining provisions of this Schedule to persons who are likely to be affected by them.
+**3.**[^c-9075b471575a4a5c20db28285ef521d2] (1) The Director may publish advice and information explaining provisions of this Schedule to persons who are likely to be affected by them.
 
 (2) Any advice or information published by the Director under this paragraph is to be published in such form and manner as he considers appropriate.
 
@@ -89,7 +89,7 @@ is to be treated as a non-notifiable agreement for the purposes of the RTPA.
 
 #### Guidance
 
-**7.**[^key-6da2cc2fdfcda7b793623d024375786c] (1) Sub-paragraphs (2) to (4) apply in relation to agreements made during the interim period.
+**7.**[^c-6da2cc2fdfcda7b793623d024375786c] (1) Sub-paragraphs (2) to (4) apply in relation to agreements made during the interim period.
 
 (2) An application may be made to the Director in anticipation of the coming into force of section 13 in accordance with directions given by the Director and such an application is to have effect on and after the starting date as if properly made under section 13.
 
@@ -161,7 +161,7 @@ ceases to have effect on that date.
 - (b) the Court of Appeal;
 - (c) the Court of Session;
 - (d) the High Court or Court of Appeal in Northern Ireland; or
-- (e)[^key-a3580b90afcb52da3fb2dd5e69599ab7] the Supreme Court.
+- (e)[^c-a3580b90afcb52da3fb2dd5e69599ab7] the Supreme Court.
 
 ##### RTPA section 3 applications
 
@@ -249,7 +249,7 @@ ceases to have effect on that date.
 
 (2) The Chapter I prohibition does not apply to an agreement to the extent to which there is a transitional period for the agreement.
 
-(3)[^key-0b71bce4d8c124ac26f4f55319919cac] The Secretary of State may by regulations provide for sections 13 to 16 and Schedule 5 to apply with such modifications (if any) as may be specified in the regulations, in respect of applications to the Director about agreements for which there is a transitional period.
+(3)[^c-0b71bce4d8c124ac26f4f55319919cac] The Secretary of State may by regulations provide for sections 13 to 16 and Schedule 5 to apply with such modifications (if any) as may be specified in the regulations, in respect of applications to the Director about agreements for which there is a transitional period.
 
 ##### Cases for which there is no transitional period
 
@@ -341,16 +341,16 @@ there is a transitional period for the agreement, to the extent to which it cons
 
 **26.** (1) In the case of an agreement in respect of which—
 
-- (a)[^key-1d7953be4189069a11e2766c0f99322d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1d7953be4189069a11e2766c0f99322d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a direction under section 194A(3) of the [^c8784361]Broadcasting Act 1990 (“**the 1990 Act**”) is in force immediately before the starting date,
 
 the transitional period lasts for five years.
 
-(2)[^key-98255cd655acdf22f025ddb821e1d11f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-98255cd655acdf22f025ddb821e1d11f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Sub-paragraphs (1) [^key-68dea37b22dd78f79c615d416f439e90]... do not affect the power of—
+(3) Sub-paragraphs (1) [^c-68dea37b22dd78f79c615d416f439e90]... do not affect the power of—
 
-- (a)[^key-dc24423fd298783bf766eece52058e84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-dc24423fd298783bf766eece52058e84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Secretary of State to make a declaration under section 194A of the 1990 Act (as amended by Schedule 2 to this Act),
 
 in respect of an agreement for which there is a transitional period.
@@ -553,11 +553,11 @@ the transitional period ends on the date when the agreement so ceases.
 
 (2) In sub-paragraph (1) “**sectoral matters**” means—
 
-- (a)[^key-4f047cd376ea32a3e6229bedb0a9a829] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4f047cd376ea32a3e6229bedb0a9a829] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the case of the Director General of Gas Supply, the matters referred to in section 36A(3) and (4) of the [^c8784491]Gas Act 1986;
 - (c) in the case of the Director General of Electricity Supply, the matters referred to in section 43(3) of the [^c8784501]Electricity Act 1989;
 - (d) in the case of the Director General of Electricity Supply for Northern Ireland, the matters referred to in Article 46(3) of the [^c8784511]Electricity (Northern Ireland) Order 1992;
-- (e) in the case of the Water Services Regulation Authority[^key-38b2d2c7cf95462309edf3b1d581a788], the matters referred to in section 31(3) of the [^c8784521]Water Industry Act 1991;
+- (e) in the case of the Water Services Regulation Authority[^c-38b2d2c7cf95462309edf3b1d581a788], the matters referred to in section 31(3) of the [^c8784521]Water Industry Act 1991;
 - (f) in the case of the Rail Regulator, the matters referred to in section 67(3) of the [^c8784531]Railways Act 1993;
 - (g) in the case of the Director General of Gas for Northern Ireland, the matters referred to in Article 23(3) of the [^c8784541]Gas (Northern Ireland) Order 1996.
 - (h)[^c8784551] in the case of the Civil Aviation Authority, the supply of air traffic services within the meaning given by section 98 of the Transport Act 2000.
@@ -570,7 +570,7 @@ the transitional period ends on the date when the agreement so ceases.
 
 #### Chapter V — Extending the transitional period
 
-**36.**[^key-0a2e2054ff32a0c92a323f87497eeb81] (1) A party to an agreement for which there is a transitional period may apply to the Director, not less than three months before the end of the period, for the period to be extended.
+**36.**[^c-0a2e2054ff32a0c92a323f87497eeb81] (1) A party to an agreement for which there is a transitional period may apply to the Director, not less than three months before the end of the period, for the period to be extended.
 
 (2) The Director may (on his own initiative or on an application under sub-paragraph (1))—
 
@@ -595,13 +595,13 @@ the transitional period ends on the date when the agreement so ceases.
 
 ##### General
 
-**37.**[^key-0a2e2054ff32a0c92a323f87497eeb81] (1) Subject to sub-paragraph (2), the Director may by a direction in writing terminate the transitional period for an agreement, but only in accordance with paragraph 38.
+**37.**[^c-0a2e2054ff32a0c92a323f87497eeb81] (1) Subject to sub-paragraph (2), the Director may by a direction in writing terminate the transitional period for an agreement, but only in accordance with paragraph 38.
 
 (2) The Director may not terminate the transitional period, nor exercise any of the powers in paragraph 38, in respect of an agreement which is excluded from the Chapter I prohibition by virtue of any of the provisions of Part I of this Act other than paragraph 1 of Schedule 1 or paragraph 2 or 9 of Schedule 3 or the Competition Act 1998 (Land and Vertical Agreements Exclusion) Order 2000[^c8784561].
 
 ##### Circumstances in which the Director may terminate the transitional period
 
-**38.**[^key-0a2e2054ff32a0c92a323f87497eeb81] (1) If the Director is considering whether to give a direction under paragraph 37 (“**a direction**”), he may in writing require any party to the agreement concerned to give him such information in connection with that agreement as he may require.
+**38.**[^c-0a2e2054ff32a0c92a323f87497eeb81] (1) If the Director is considering whether to give a direction under paragraph 37 (“**a direction**”), he may in writing require any party to the agreement concerned to give him such information in connection with that agreement as he may require.
 
 (2) If at the end of such period as may be specified in rules made under section 51, a person has failed, without reasonable excuse, to comply with a requirement imposed under sub-paragraph (1), the Director may give a direction.
 
@@ -619,7 +619,7 @@ the transitional period ends on the date when the agreement so ceases.
 
 ##### Procedural requirements on giving a paragraph 37 direction
 
-**39.**[^key-0a2e2054ff32a0c92a323f87497eeb81] (1) The Director must specify in a direction under paragraph 37 (“**a direction**”) the date on which it is to have effect (which must not be less than 28 days after the direction is given).
+**39.**[^c-0a2e2054ff32a0c92a323f87497eeb81] (1) The Director must specify in a direction under paragraph 37 (“**a direction**”) the date on which it is to have effect (which must not be less than 28 days after the direction is given).
 
 (2) Copies of the direction must be given to—
 
@@ -732,13 +732,13 @@ the period is not affected by paragraph 37 or 38.
 
 [^c8784301]: Textual amendment: Words in the definition of “regulator” in Sch. 13 para. 1(1) inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [ss. 97](https://www.legislation.gov.uk/ukpga/2000/38/section/97), [Sch. 8 Pt. IV para. 16(2)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/8/part/IV/paragraph/16/2) (with [s. 106](https://www.legislation.gov.uk/ukpga/2000/38/section/106)); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3](https://www.legislation.gov.uk/uksi/2001/57/article/3), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I)
 
-[^key-9075b471575a4a5c20db28285ef521d2]: Modification: Sch. 13 para. 3 modified (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 371(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/371/8), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9075b471575a4a5c20db28285ef521d2]: Modification: Sch. 13 para. 3 modified (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 371(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/371/8), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6da2cc2fdfcda7b793623d024375786c]: Modification: Sch. 13 para. 7 modified (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 371(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/371/8), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6da2cc2fdfcda7b793623d024375786c]: Modification: Sch. 13 para. 7 modified (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 371(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/371/8), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c8784311]: Commencement: Sch. 13 para. 10 wholly in force; Sch. 13 para. 10 not in force at Royal Assent see s. 76(3); Sch. 13 para. 10(5) in force at 11.1.1999 by [S.I. 1998/3166](https://www.legislation.gov.uk/uksi/1998/3166), [art. 2](https://www.legislation.gov.uk/uksi/1998/3166/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/3166/schedule)Sch. 13 para. 10(1)-(4) and (6) fully in force at 1.3.2000 by [S.I. 2000/344](https://www.legislation.gov.uk/uksi/2000/344), [art. 2](https://www.legislation.gov.uk/uksi/2000/344/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/344/schedule)
 
-[^key-a3580b90afcb52da3fb2dd5e69599ab7]: Textual amendment: Sch. 13 para. 10(6)(e) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 65(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/65/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-a3580b90afcb52da3fb2dd5e69599ab7]: Textual amendment: Sch. 13 para. 10(6)(e) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 65(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/65/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c8784321]: Commencement: Sch. 13 para. 11 partly in force; Sch. 13 para. 11 not in force at Royal Assent see s. 76(3); Sch. 13 para. 11 in force for certain purposes at 11.1.1999 by [S.I. 1998/3166](https://www.legislation.gov.uk/uksi/1998/3166), [art. 2](https://www.legislation.gov.uk/uksi/1998/3166/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/3166/schedule)
 
@@ -746,17 +746,17 @@ the period is not affected by paragraph 37 or 38.
 
 [^c8784341]: Commencement: Sch. 13 para. 19 wholly in force; Sch. 13 para. 19 not in force at Royal Assent see s. 76(3); Sch. 13 para. 19(3) in force at 11.1.1999 by [S.I. 1998/3166](https://www.legislation.gov.uk/uksi/1998/3166), [art. 2](https://www.legislation.gov.uk/uksi/1998/3166/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/3166/schedule); Sch. 13 para. 19(1) and (2) in force at 1.3.2000 by [S.I. 2000/344](https://www.legislation.gov.uk/uksi/2000/344), [art. 2](https://www.legislation.gov.uk/uksi/2000/344/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/344/schedule)
 
-[^key-0b71bce4d8c124ac26f4f55319919cac]: Modification: Sch. 13 para. 19(3) modified (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 371(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/371/8), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0b71bce4d8c124ac26f4f55319919cac]: Modification: Sch. 13 para. 19(3) modified (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 371(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/371/8), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-1d7953be4189069a11e2766c0f99322d]: Textual amendment: Sch. 13 para. 26(1)(a) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-1d7953be4189069a11e2766c0f99322d]: Textual amendment: Sch. 13 para. 26(1)(a) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c8784361]: Marginal citation: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
 
-[^key-98255cd655acdf22f025ddb821e1d11f]: Textual amendment: Sch. 13 para. 26(2) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-98255cd655acdf22f025ddb821e1d11f]: Textual amendment: Sch. 13 para. 26(2) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-68dea37b22dd78f79c615d416f439e90]: Textual amendment: Words in Sch. 13 para. 26(3) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-68dea37b22dd78f79c615d416f439e90]: Textual amendment: Words in Sch. 13 para. 26(3) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-dc24423fd298783bf766eece52058e84]: Textual amendment: Sch. 13 para. 26(3)(a) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-dc24423fd298783bf766eece52058e84]: Textual amendment: Sch. 13 para. 26(3)(a) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c8784371]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -766,7 +766,7 @@ the period is not affected by paragraph 37 or 38.
 
 [^c8784401]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-4f047cd376ea32a3e6229bedb0a9a829]: Textual amendment: Sch. 13 para. 35(2)(a) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4f047cd376ea32a3e6229bedb0a9a829]: Textual amendment: Sch. 13 para. 35(2)(a) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c8784491]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 
@@ -774,7 +774,7 @@ the period is not affected by paragraph 37 or 38.
 
 [^c8784511]: Marginal citation: [S.I. 1992/231 (N.I.1)](https://www.legislation.gov.uk/nisi/1992/231).
 
-[^key-38b2d2c7cf95462309edf3b1d581a788]: Textual amendment: Words in Sch. 13 para. 35(2)(e) substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 32(5)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/32/5); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(f)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/f)
+[^c-38b2d2c7cf95462309edf3b1d581a788]: Textual amendment: Words in Sch. 13 para. 35(2)(e) substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 32(5)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/32/5); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(f)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/f)
 
 [^c8784521]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
@@ -784,7 +784,7 @@ the period is not affected by paragraph 37 or 38.
 
 [^c8784551]: Textual amendment: Sch. 13 para. 35(2)(h) inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [ss. 97](https://www.legislation.gov.uk/ukpga/2000/38/section/97), [Sch. 8 Pt. IV para. 16(3)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/8/part/IV/paragraph/16/3) (with [s. 106](https://www.legislation.gov.uk/ukpga/2000/38/section/106)); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3](https://www.legislation.gov.uk/uksi/2001/57/article/3), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I)
 
-[^key-0a2e2054ff32a0c92a323f87497eeb81]: Modification: Sch. 13 paras. 36-39 modified (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 371(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/371/8), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0a2e2054ff32a0c92a323f87497eeb81]: Modification: Sch. 13 paras. 36-39 modified (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 371(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/371/8), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c8784561]: Textual amendment: Words in Sch. 13 para. 37(2) inserted (1.3.2000) by [S.I. 2000/311](https://www.legislation.gov.uk/uksi/2000/311), [art. 2](https://www.legislation.gov.uk/uksi/2000/311/article/2)
 

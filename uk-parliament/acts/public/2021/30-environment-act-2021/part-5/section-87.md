@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Electronic service of documents[^key-f7aad11af590e96d2bfade59e9bd71d1][^key-b0e5d426f734968aacdee5b3beb89f33]
+## 87. Electronic service of documents[^c-f7aad11af590e96d2bfade59e9bd71d1][^c-b0e5d426f734968aacdee5b3beb89f33]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ In section 216 of the Water Industry Act 1991 (service of documents) after subse
 
 ## Annotations
 
-[^key-f7aad11af590e96d2bfade59e9bd71d1]: Commencement: S. 87 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)
+[^c-f7aad11af590e96d2bfade59e9bd71d1]: Commencement: S. 87 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)
 
-[^key-b0e5d426f734968aacdee5b3beb89f33]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2021/30/section/87) in force at 10.5.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(f)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/f)
+[^c-b0e5d426f734968aacdee5b3beb89f33]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2021/30/section/87) in force at 10.5.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(f)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/f)

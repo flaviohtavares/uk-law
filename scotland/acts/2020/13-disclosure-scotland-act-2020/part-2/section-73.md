@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Compulsory Scheme membership[^key-34ceaf9536c4f1502167418387267c66]
+## 73. Compulsory Scheme membership[^c-34ceaf9536c4f1502167418387267c66]
 
 *Extent: S*
 
-(1)[^key-eacab5911382265a007a27c68339bcf5] The PVG Act is amended as follows.
+(1)[^c-eacab5911382265a007a27c68339bcf5] The PVG Act is amended as follows.
 
-(2)[^key-49219be7d446e0acf37663b7fa5ecc34][^key-dcdf673c2710dfa76811b32e39be5005] After section 45B (inserted by section 72) insert—
+(2)[^c-49219be7d446e0acf37663b7fa5ecc34][^c-dcdf673c2710dfa76811b32e39be5005] After section 45B (inserted by section 72) insert—
 
 > **45C. Individuals must be scheme members to carry out regulated roles**
 >
@@ -91,14 +91,14 @@ summary: ''
 
 .
 
-(3)[^key-eacab5911382265a007a27c68339bcf5] In section 100 (orders and regulations), in subsection (4), after the entry in the list for section 35(2) insert— “ Section 45E(1) ”.
+(3)[^c-eacab5911382265a007a27c68339bcf5] In section 100 (orders and regulations), in subsection (4), after the entry in the list for section 35(2) insert— “ Section 45E(1) ”.
 
 ## Annotations
 
-[^key-34ceaf9536c4f1502167418387267c66]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2020/13/section/73) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-34ceaf9536c4f1502167418387267c66]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2020/13/section/73) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-eacab5911382265a007a27c68339bcf5]: Commencement: [S. 73(1)](https://www.legislation.gov.uk/asp/2020/13/section/73/1)[(3)](https://www.legislation.gov.uk/asp/2020/13/section/73/3) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-eacab5911382265a007a27c68339bcf5]: Commencement: [S. 73(1)](https://www.legislation.gov.uk/asp/2020/13/section/73/1)[(3)](https://www.legislation.gov.uk/asp/2020/13/section/73/3) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-49219be7d446e0acf37663b7fa5ecc34]: Commencement: [S. 73(2)](https://www.legislation.gov.uk/asp/2020/13/section/73/2) in force at 1.4.2025 for specified purposes by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2025/27/regulation/12))
+[^c-49219be7d446e0acf37663b7fa5ecc34]: Commencement: [S. 73(2)](https://www.legislation.gov.uk/asp/2020/13/section/73/2) in force at 1.4.2025 for specified purposes by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2025/27/regulation/12))
 
-[^key-dcdf673c2710dfa76811b32e39be5005]: Commencement: [S. 73(2)](https://www.legislation.gov.uk/asp/2020/13/section/73/2) in force at 1.7.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(3)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/3) (with [reg. 11](https://www.legislation.gov.uk/ssi/2025/27/regulation/11))
+[^c-dcdf673c2710dfa76811b32e39be5005]: Commencement: [S. 73(2)](https://www.legislation.gov.uk/asp/2020/13/section/73/2) in force at 1.7.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(3)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/3) (with [reg. 11](https://www.legislation.gov.uk/ssi/2025/27/regulation/11))

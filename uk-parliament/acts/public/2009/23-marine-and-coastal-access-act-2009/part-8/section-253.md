@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Further provision about seizure[^key-4d2445180ad02a9150ded6c756cf5554]
+## 253. Further provision about seizure[^c-4d2445180ad02a9150ded6c756cf5554]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ to secure that the item is not removed or otherwise interfered with until such t
 
 ## Annotations
 
-[^key-4d2445180ad02a9150ded6c756cf5554]: Commencement: S. 253 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-4d2445180ad02a9150ded6c756cf5554]: Commencement: S. 253 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

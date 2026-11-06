@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Modification by agreement.[^key-d09d33f01a1c1dd19e3d558402badcf5]
+## 11. Modification by agreement.[^c-d09d33f01a1c1dd19e3d558402badcf5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d09d33f01a1c1dd19e3d558402badcf5]: Textual amendment: S. 11 omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [43(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/43/2) (with [reg. 44](https://www.legislation.gov.uk/uksi/2011/2704/regulation/44))
+[^c-d09d33f01a1c1dd19e3d558402badcf5]: Textual amendment: S. 11 omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [43(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/43/2) (with [reg. 44](https://www.legislation.gov.uk/uksi/2011/2704/regulation/44))

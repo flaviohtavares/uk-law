@@ -63,24 +63,24 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (1) In these Regulations—
 
-- [^key-a79ef800f2f7b4a24df24fa92c95b3b8]...
-- “**the accounts**”, in relation to a qualifying partnership, means the annual accounts and reports[^key-1dd18823ac137ab963cd7d16a2cbcea8] [^key-d6ab9a3d6c46c18ba45348588dcfe3d1]... required by regulation 4,
+- [^c-a79ef800f2f7b4a24df24fa92c95b3b8]...
+- “**the accounts**”, in relation to a qualifying partnership, means the annual accounts and reports[^c-1dd18823ac137ab963cd7d16a2cbcea8] [^c-d6ab9a3d6c46c18ba45348588dcfe3d1]... required by regulation 4,
 - “**dealt with on a consolidated basis**” means dealt with by the method of full consolidation, the method of proportional consolidation or the equity method of accounting,
 - “**financial year**”, in relation to a qualifying partnership, means any period of not more than 18 months in respect of which a profit and loss account of the partnership is required to be made up by or in accordance with its constitution or, failing any such requirement, each period of 12 months beginning with 1st April,
-- [^key-d9ea51b2c78df43b866596bf5fc94916]...
+- [^c-d9ea51b2c78df43b866596bf5fc94916]...
 - “**general partner**” has the same meaning as in the Limited Partnerships Act 1907 [^c19144461],
 - “**the Large and Medium-sized Companies Accounts Regulations**” means the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008 [^c19144471],
 - “**limited company**” means a company limited by shares or limited by guarantee,
 - “**limited partnership**” means a partnership formed in accordance with the Limited Partnerships Act 1907,
 - “**qualifying partnership**” has the meaning given by regulation 3,
-- [^key-349e228caeed43eef0e5b5fdc34c2be0]...
+- [^c-349e228caeed43eef0e5b5fdc34c2be0]...
 - “**the Small Companies Accounts Regulations**” means the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 [^c19144491],
 
 and except as otherwise provided in these Regulations, words and expressions used in the Companies Act 2006 have the same meaning in these Regulations as they have in that Act.
 
-(2)[^key-991ddadb5b2e36a23c4c941c3d83b449] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-991ddadb5b2e36a23c4c941c3d83b449] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Qualifying partnerships[^key-bf00a6d115c87526ad5f971e68f44725]
+### 3. Qualifying partnerships[^c-bf00a6d115c87526ad5f971e68f44725]
 
 (1) A “qualifying partnership” is a partnership formed under the law of any part of the United Kingdom each of whose members or, in the case of a limited partnership, each of whose general partners is—
 
@@ -127,11 +127,11 @@ and except as otherwise provided in these Regulations, words and expressions use
 
 ## PART 2 — PARTNERSHIP ACCOUNTS
 
-### 4. Preparation of accounts of qualifying partnerships[^key-e9feb8c88dff705d1828061bf7849be5][^key-83dffcb1e0f0132cb968ec0c41dc5f65][^key-eb678614f823c5e51ee1cebf48f54010][^key-bff884f28010b53d5ddc49594ea38dfc][^key-99bb3e06b159b354a9feaf378ff61474][^key-2f8c57d7877b1638de1f777ab9d73285]
+### 4. Preparation of accounts of qualifying partnerships[^c-e9feb8c88dff705d1828061bf7849be5][^c-83dffcb1e0f0132cb968ec0c41dc5f65][^c-eb678614f823c5e51ee1cebf48f54010][^c-bff884f28010b53d5ddc49594ea38dfc][^c-99bb3e06b159b354a9feaf378ff61474][^c-2f8c57d7877b1638de1f777ab9d73285]
 
 (1) Subject to regulation 7, the persons who are members of a qualifying partnership at the end of any financial year of the partnership must, in respect of that year—
 
-- (a) prepare the like annual accounts and reports[^key-5387b5f1739118159de56a2cf0e7a0e4], and
+- (a) prepare the like annual accounts and reports[^c-5387b5f1739118159de56a2cf0e7a0e4], and
 - (b) cause to be prepared such an auditor's report,
 
 as would be required, if the partnership were a company, under Part 15 (accounts and reports) and Chapter 1 of Part 16 (requirement for audited accounts) of the Companies Act 2006, and under the Small Companies Accounts Regulations or the Large and Medium-sized Companies Accounts Regulations (as the case may be).
@@ -151,18 +151,18 @@ as would be required, if the partnership were a company, under Part 15 (accounts
 
 (2) Subject to regulation 7, a limited company which is a member of a qualifying partnership must supply to any person upon request—
 
-- (a) the name of each member of the partnership which is to deliver, or has delivered, a copy of the latest accounts of the partnership to the registrar under paragraph (1), [^key-db896f2b340518228404026fbcf3c974]...
-- (b)[^key-db896f2b340518228404026fbcf3c974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the name of each member of the partnership which is to deliver, or has delivered, a copy of the latest accounts of the partnership to the registrar under paragraph (1), [^c-db896f2b340518228404026fbcf3c974]...
+- (b)[^c-db896f2b340518228404026fbcf3c974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Publication of accounts of qualifying partnerships at head office
 
-(1)[^key-9d5f4f70df03912f1bc7f1e206c4f264] Subject to regulation 7,[^key-ef5958c0a6cfddc5eacde15c909ca54a] this regulation applies where none of the members of a qualifying partnership is a limited company.
+(1)[^c-9d5f4f70df03912f1bc7f1e206c4f264] Subject to regulation 7,[^c-ef5958c0a6cfddc5eacde15c909ca54a] this regulation applies where none of the members of a qualifying partnership is a limited company.
 
-(2)[^key-1cb25320d5044cb20788280839bbbd52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1cb25320d5044cb20788280839bbbd52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The members of the qualifying partnership—
 
-- (a)[^key-31112b3066d40610f0f680b02b776113] must make the latest accounts available for inspection by any person, without charge and during business hours as follows—
+- (a)[^c-31112b3066d40610f0f680b02b776113] must make the latest accounts available for inspection by any person, without charge and during business hours as follows—
   - (i) where a qualifying partnership has a principal place of business in the United Kingdom, at that principal place of business;
   - (ii) where the qualifying partnership has no principal place of business in the United Kingdom, but at least one of its members has a principal place of business or a head office in the United Kingdom, at a member’s principal place of business or head office in the United Kingdom nominated by the members of the qualifying partnership for the purposes of this regulation;
   - (iii) where the qualifying partnership has no principal place of business in the United Kingdom and none of its members has a principal place of business or a head office in the United Kingdom, at an address in the United Kingdom nominated by the members of a qualifying partnership, and
@@ -184,40 +184,40 @@ as would be required, if the partnership were a company, under Part 15 (accounts
 
 at a price not exceeding the administrative cost of making the copy.
 
-### 7. Exemption from regulations 4 to 6 where accounts consolidated[^key-8eb18aa90edf5e5b4db24c252652ac0e][^key-97de8f5e3d7aaff253a1fcd99472094b][^key-330bf25eb54ab349271d42bbf765afa4][^key-4f826db9f07d3aa5628795f0d5419916][^key-ca1d166997ef29f58c36ee3851d9cfe3][^key-7f6df42ffe7f82a717cd108f8707f2fc]
+### 7. Exemption from regulations 4 to 6 where accounts consolidated[^c-8eb18aa90edf5e5b4db24c252652ac0e][^c-97de8f5e3d7aaff253a1fcd99472094b][^c-330bf25eb54ab349271d42bbf765afa4][^c-4f826db9f07d3aa5628795f0d5419916][^c-ca1d166997ef29f58c36ee3851d9cfe3][^c-7f6df42ffe7f82a717cd108f8707f2fc]
 
 (1) The members of a qualifying partnership are exempt from the requirements of regulations 4 to 6 if the partnership is dealt with on a consolidated basis in group accounts prepared by—
 
-- (a) a member of the partnership which is established under the law of any part of the United Kingdom[^key-cec0ef0229d2befbd8d3048e8b02222f], or
+- (a) a member of the partnership which is established under the law of any part of the United Kingdom[^c-cec0ef0229d2befbd8d3048e8b02222f], or
 - (b) a parent undertaking of such a member which parent undertaking is so established,
 
 and (in either case) the conditions mentioned in paragraph (2) are complied with.
 
 (2) The conditions are—
 
-- (a)[^key-c7da82c4d133ac927e4016592c8d87f5] that the group accounts are prepared and audited, if the undertaking is a company, in accordance with the requirements of the Companies Act 2006, or, if the undertaking is not a company, the legal requirements which apply to the preparation and audit of consolidated accounts for that undertaking, and
+- (a)[^c-c7da82c4d133ac927e4016592c8d87f5] that the group accounts are prepared and audited, if the undertaking is a company, in accordance with the requirements of the Companies Act 2006, or, if the undertaking is not a company, the legal requirements which apply to the preparation and audit of consolidated accounts for that undertaking, and
 - (b) the notes to those accounts disclose that advantage has been taken of the exemption conferred by this regulation.
 
 (3) Where advantage is taken of the exemption conferred by this regulation, any member of the qualifying partnership which is a limited company must disclose on request the name of at least one member or parent undertaking in whose group accounts the partnership has been or is to be dealt with on a consolidated basis.
 
 ## PART 3 — AUDITORS
 
-### 8. Appointment of auditor[^key-bc09bf9253cceb37bf6b7b84729b004f][^key-de6b65edf2859cf5663f7f55e0788dbd][^key-b7f0b898b13c73d8d0dc901d0adfc32d][^key-8c558895776c137adae3ab8b91c14ce0][^key-91c5bbadd640190a5842cdb0001aaca9][^key-bd6ccf44283790610bc6af5cd77bfc42]
+### 8. Appointment of auditor[^c-bc09bf9253cceb37bf6b7b84729b004f][^c-de6b65edf2859cf5663f7f55e0788dbd][^c-b7f0b898b13c73d8d0dc901d0adfc32d][^c-8c558895776c137adae3ab8b91c14ce0][^c-91c5bbadd640190a5842cdb0001aaca9][^c-bd6ccf44283790610bc6af5cd77bfc42]
 
 An auditor may be appointed for the purposes of regulation 4(1)(b) only by the members of a qualifying partnership.
 
-### 9. Functions of auditor[^key-bc09bf9253cceb37bf6b7b84729b004f][^key-de6b65edf2859cf5663f7f55e0788dbd][^key-b7f0b898b13c73d8d0dc901d0adfc32d][^key-8c558895776c137adae3ab8b91c14ce0][^key-91c5bbadd640190a5842cdb0001aaca9][^key-bd6ccf44283790610bc6af5cd77bfc42]
+### 9. Functions of auditor[^c-bc09bf9253cceb37bf6b7b84729b004f][^c-de6b65edf2859cf5663f7f55e0788dbd][^c-b7f0b898b13c73d8d0dc901d0adfc32d][^c-8c558895776c137adae3ab8b91c14ce0][^c-91c5bbadd640190a5842cdb0001aaca9][^c-bd6ccf44283790610bc6af5cd77bfc42]
 
 (1) The following provisions of the Companies Act 2006 apply to the auditor of a qualifying partnership as they apply to an auditor of a company—
 
 - (a) section 495 (auditor's report on company's annual accounts);
-- (aa)[^key-abe74780ee2c31be0c2676359fd01e85] section 496 (auditor's report on strategic report and director's report);
+- (aa)[^c-abe74780ee2c31be0c2676359fd01e85] section 496 (auditor's report on strategic report and director's report);
 - (b) section 498 (duties of auditor);
 - (c) section 499 (auditor's general right to information).
 
 (2) The auditor of a qualifying partnership must supply the members of the qualifying partnership with such information as is necessary to enable any disclosure required by regulation 4(2) to be made.
 
-### 10. Signature of auditor's report[^key-bc09bf9253cceb37bf6b7b84729b004f][^key-de6b65edf2859cf5663f7f55e0788dbd][^key-b7f0b898b13c73d8d0dc901d0adfc32d][^key-8c558895776c137adae3ab8b91c14ce0][^key-91c5bbadd640190a5842cdb0001aaca9][^key-bd6ccf44283790610bc6af5cd77bfc42]
+### 10. Signature of auditor's report[^c-bc09bf9253cceb37bf6b7b84729b004f][^c-de6b65edf2859cf5663f7f55e0788dbd][^c-b7f0b898b13c73d8d0dc901d0adfc32d][^c-8c558895776c137adae3ab8b91c14ce0][^c-91c5bbadd640190a5842cdb0001aaca9][^c-bd6ccf44283790610bc6af5cd77bfc42]
 
 Sections 503 to 506 of the Companies Act 2006 (signature of auditor's report) apply in relation to the auditor's report required by regulation 4(1)(b), subject to—
 
@@ -344,7 +344,7 @@ apply to an offence under this regulation.
 
 (2) The regulations specified in paragraph (1) continue to apply to any financial year of a qualifying partnership beginning before 6th April 2008.
 
-### 19. Review[^key-dd3209cc1fbdd79150106b9701b3c3c1]
+### 19. Review[^c-dd3209cc1fbdd79150106b9701b3c3c1]
 
 (1) The Secretary of State must from time to time—
 
@@ -394,9 +394,9 @@ Regulations 4(4) and 10(b)
   - (i) in paragraph 3(2), the words from “used” to the end, and
   - (ii) paragraph 6,
 - (b) in Part 2 of Schedule 1, paragraph 21,
-- (c)[^key-eaba0ffddb85a3ed9d3d22244882c27e] in Part 3 of Schedule 1, paragraph 49,
-- (d)[^key-42cbc474a6c7f96b29571695d115a289] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-17f10987ff4e54d46a3b3278c88c085f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-eaba0ffddb85a3ed9d3d22244882c27e] in Part 3 of Schedule 1, paragraph 49,
+- (d)[^c-42cbc474a6c7f96b29571695d115a289] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-17f10987ff4e54d46a3b3278c88c085f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) Schedule 5, and
 - (g) in Part 1 of Schedule 6, paragraphs 13(3) and (4), 14 and 15, and in Part 2 of that Schedule, paragraph 36.
 
@@ -410,7 +410,7 @@ Regulations 4(4) and 10(b)
 - (d) in Part 1 of Schedule 4, paragraph 9, and in Part 2 paragraph 12,
 - (e) in Schedule 5, paragraphs 2, 4 and 5,
 - (f) in Part 1 of Schedule 6 to those Regulations, paragraphs 13(3) and (4), 14 and 15, and
-- (g) Schedule 7 to those Regulations [^key-1f97b341b9e57873f807f7b3d1d1cd8f]....
+- (g) Schedule 7 to those Regulations [^c-1f97b341b9e57873f807f7b3d1d1cd8f]....
 
 (3) Sub-paragraphs (1) and (2) are not to be construed as affecting the requirement to give a true and fair view under sections 393, 396 and 404 of the Companies Act 2006.
 
@@ -456,94 +456,94 @@ A transposition note has been prepared which sets out how Directive 2006/43 is t
 
 [^c19144441]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-a79ef800f2f7b4a24df24fa92c95b3b8]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/7) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a79ef800f2f7b4a24df24fa92c95b3b8]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/7) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1dd18823ac137ab963cd7d16a2cbcea8]: Textual amendment: Words in reg. 2(1) substituted (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/2/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
+[^c-1dd18823ac137ab963cd7d16a2cbcea8]: Textual amendment: Words in reg. 2(1) substituted (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/2/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
 
-[^key-d6ab9a3d6c46c18ba45348588dcfe3d1]: Textual amendment: Words in reg. 2(1) omitted (1.9.2013) by virtue of [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/2/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
+[^c-d6ab9a3d6c46c18ba45348588dcfe3d1]: Textual amendment: Words in reg. 2(1) omitted (1.9.2013) by virtue of [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/2/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
 
-[^key-d9ea51b2c78df43b866596bf5fc94916]: Textual amendment: Words in reg. 2(1) omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [42(2)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/42/2/b)
+[^c-d9ea51b2c78df43b866596bf5fc94916]: Textual amendment: Words in reg. 2(1) omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [42(2)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/42/2/b)
 
 [^c19144461]: Marginal citation: [1907 c.24](https://www.legislation.gov.uk/ukpga/1907/24).
 
 [^c19144471]: Marginal citation: [S.I. 2008/410](https://www.legislation.gov.uk/uksi/2008/410).
 
-[^key-349e228caeed43eef0e5b5fdc34c2be0]: Textual amendment: Words in reg. 2(1) omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [42(2)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/42/2/c)
+[^c-349e228caeed43eef0e5b5fdc34c2be0]: Textual amendment: Words in reg. 2(1) omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [42(2)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/42/2/c)
 
 [^c19144491]: Marginal citation: [S.I. 2008/409](https://www.legislation.gov.uk/uksi/2008/409).
 
-[^key-991ddadb5b2e36a23c4c941c3d83b449]: Textual amendment: Reg. 2(2) omitted (1.9.2013) by virtue of [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/2/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
+[^c-991ddadb5b2e36a23c4c941c3d83b449]: Textual amendment: Reg. 2(2) omitted (1.9.2013) by virtue of [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/2/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
 
-[^key-bf00a6d115c87526ad5f971e68f44725]: Textual amendment: Regs. 3, 3A substituted for reg. 3 (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
+[^c-bf00a6d115c87526ad5f971e68f44725]: Textual amendment: Regs. 3, 3A substituted for reg. 3 (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
 
-[^key-e9feb8c88dff705d1828061bf7849be5]: Modification: Reg. 4 applied (E.W.S.) (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations 2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/9/3)
+[^c-e9feb8c88dff705d1828061bf7849be5]: Modification: Reg. 4 applied (E.W.S.) (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations 2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/9/3)
 
-[^key-83dffcb1e0f0132cb968ec0c41dc5f65]: Modification: Reg. 4 applied (N.I.) (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/121/regulation/9/3)
+[^c-83dffcb1e0f0132cb968ec0c41dc5f65]: Modification: Reg. 4 applied (N.I.) (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/121/regulation/9/3)
 
-[^key-eb678614f823c5e51ee1cebf48f54010]: Modification: Reg. 4 applied (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/234/regulation/9/3)
+[^c-eb678614f823c5e51ee1cebf48f54010]: Modification: Reg. 4 applied (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/234/regulation/9/3)
 
-[^key-bff884f28010b53d5ddc49594ea38dfc]: Modification: Reg. 4 applied (N.I.) (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/59/regulation/9/3)
+[^c-bff884f28010b53d5ddc49594ea38dfc]: Modification: Reg. 4 applied (N.I.) (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/59/regulation/9/3)
 
-[^key-99bb3e06b159b354a9feaf378ff61474]: Modification: Reg. 4 applied (N.I.) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/148/regulation/9/3)
+[^c-99bb3e06b159b354a9feaf378ff61474]: Modification: Reg. 4 applied (N.I.) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/148/regulation/9/3)
 
-[^key-2f8c57d7877b1638de1f777ab9d73285]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/569/regulation/4) applied (N.I.) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2024/78/regulation/9/3)
+[^c-2f8c57d7877b1638de1f777ab9d73285]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/569/regulation/4) applied (N.I.) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2024/78/regulation/9/3)
 
-[^key-5387b5f1739118159de56a2cf0e7a0e4]: Textual amendment: Word in reg. 4(1)(a) substituted (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
+[^c-5387b5f1739118159de56a2cf0e7a0e4]: Textual amendment: Word in reg. 4(1)(a) substituted (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
 
 [^c19144501]: Marginal citation: [S.I. 2008/489](https://www.legislation.gov.uk/uksi/2008/489).
 
-[^key-db896f2b340518228404026fbcf3c974]: Textual amendment: Reg. 5(2)(b) and word omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db896f2b340518228404026fbcf3c974]: Textual amendment: Reg. 5(2)(b) and word omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d5f4f70df03912f1bc7f1e206c4f264]: Textual amendment: Reg. 6(1)(2) substituted (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/5/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
+[^c-9d5f4f70df03912f1bc7f1e206c4f264]: Textual amendment: Reg. 6(1)(2) substituted (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/5/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
 
-[^key-ef5958c0a6cfddc5eacde15c909ca54a]: Textual amendment: Words in reg. 6(1) inserted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef5958c0a6cfddc5eacde15c909ca54a]: Textual amendment: Words in reg. 6(1) inserted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1cb25320d5044cb20788280839bbbd52]: Textual amendment: Reg. 6(2) omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1cb25320d5044cb20788280839bbbd52]: Textual amendment: Reg. 6(2) omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-31112b3066d40610f0f680b02b776113]: Textual amendment: Reg. 6(3)(a) substituted (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/5/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
+[^c-31112b3066d40610f0f680b02b776113]: Textual amendment: Reg. 6(3)(a) substituted (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/4/5/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
 
 [^c19144531]: Marginal citation: [1889 c.10](https://www.legislation.gov.uk/ukpga/1889/10).
 
-[^key-8eb18aa90edf5e5b4db24c252652ac0e]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/569/regulation/7) excluded (E.W.S.) (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations 2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/9/3)
+[^c-8eb18aa90edf5e5b4db24c252652ac0e]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/569/regulation/7) excluded (E.W.S.) (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations 2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/9/3)
 
-[^key-97de8f5e3d7aaff253a1fcd99472094b]: Modification: Reg. 7 excluded (N.I.) (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/121/regulation/9/3)
+[^c-97de8f5e3d7aaff253a1fcd99472094b]: Modification: Reg. 7 excluded (N.I.) (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/121/regulation/9/3)
 
-[^key-330bf25eb54ab349271d42bbf765afa4]: Modification: Reg. 7 excluded (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/234/regulation/9/3)
+[^c-330bf25eb54ab349271d42bbf765afa4]: Modification: Reg. 7 excluded (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/234/regulation/9/3)
 
-[^key-4f826db9f07d3aa5628795f0d5419916]: Modification: Reg. 7 excluded (N.I.) (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/59/regulation/9/3)
+[^c-4f826db9f07d3aa5628795f0d5419916]: Modification: Reg. 7 excluded (N.I.) (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/59/regulation/9/3)
 
-[^key-ca1d166997ef29f58c36ee3851d9cfe3]: Modification: Reg. 7 excluded (N.I.) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/148/regulation/9/3)
+[^c-ca1d166997ef29f58c36ee3851d9cfe3]: Modification: Reg. 7 excluded (N.I.) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/148/regulation/9/3)
 
-[^key-7f6df42ffe7f82a717cd108f8707f2fc]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/569/regulation/7) excluded (N.I.) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2024/78/regulation/9/3)
+[^c-7f6df42ffe7f82a717cd108f8707f2fc]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/569/regulation/7) excluded (N.I.) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2024/78/regulation/9/3)
 
-[^key-cec0ef0229d2befbd8d3048e8b02222f]: Textual amendment: Words in reg. 7(1)(a) substituted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cec0ef0229d2befbd8d3048e8b02222f]: Textual amendment: Words in reg. 7(1)(a) substituted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c7da82c4d133ac927e4016592c8d87f5]: Textual amendment: Reg. 7(2)(a) substituted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7da82c4d133ac927e4016592c8d87f5]: Textual amendment: Reg. 7(2)(a) substituted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc09bf9253cceb37bf6b7b84729b004f]: Modification: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2008/569/regulation/8) applied (E.W.S.) (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations 2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/9/3)
+[^c-bc09bf9253cceb37bf6b7b84729b004f]: Modification: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2008/569/regulation/8) applied (E.W.S.) (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations 2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/9/3)
 
-[^key-de6b65edf2859cf5663f7f55e0788dbd]: Modification: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2008/569/regulation/8) applied (N.I.) (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/121/regulation/9/3)
+[^c-de6b65edf2859cf5663f7f55e0788dbd]: Modification: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2008/569/regulation/8) applied (N.I.) (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/121/regulation/9/3)
 
-[^key-b7f0b898b13c73d8d0dc901d0adfc32d]: Modification: Regs. 8-10 applied (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/234/regulation/9/3)
+[^c-b7f0b898b13c73d8d0dc901d0adfc32d]: Modification: Regs. 8-10 applied (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2022/234/regulation/9/3)
 
-[^key-8c558895776c137adae3ab8b91c14ce0]: Modification: Regs. 8-10 applied (N.I.) (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/59/regulation/9/3)
+[^c-8c558895776c137adae3ab8b91c14ce0]: Modification: Regs. 8-10 applied (N.I.) (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/59/regulation/9/3)
 
-[^key-91c5bbadd640190a5842cdb0001aaca9]: Modification: Regs. 8-10 applied (N.I.) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/148/regulation/9/3)
+[^c-91c5bbadd640190a5842cdb0001aaca9]: Modification: Regs. 8-10 applied (N.I.) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2023/148/regulation/9/3)
 
-[^key-bd6ccf44283790610bc6af5cd77bfc42]: Modification: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2008/569/regulation/8) applied (N.I.) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2024/78/regulation/9/3)
+[^c-bd6ccf44283790610bc6af5cd77bfc42]: Modification: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2008/569/regulation/8) applied (N.I.) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2024/78/regulation/9/3)
 
-[^key-abe74780ee2c31be0c2676359fd01e85]: Textual amendment: [Reg. 9(1)(aa)](https://www.legislation.gov.uk/uksi/2008/569/regulation/9/1/aa) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [14(2)](https://www.legislation.gov.uk/uksi/2016/649/regulation/14/2)
+[^c-abe74780ee2c31be0c2676359fd01e85]: Textual amendment: [Reg. 9(1)(aa)](https://www.legislation.gov.uk/uksi/2008/569/regulation/9/1/aa) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [14(2)](https://www.legislation.gov.uk/uksi/2016/649/regulation/14/2)
 
 [^c19144541]: Marginal citation: [S.I. 1993/1820](https://www.legislation.gov.uk/uksi/1993/1820).
 
 [^c19144551]: Marginal citation: [S.R. 1994/133](https://www.legislation.gov.uk/nisr/1994/133), as amended by [S.R. 2006/354](https://www.legislation.gov.uk/nisr/2006/354).
 
-[^key-dd3209cc1fbdd79150106b9701b3c3c1]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2008/569/regulation/19) inserted (17.5.2016) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [64(2)](https://www.legislation.gov.uk/uksi/2016/575/regulation/64/2)
+[^c-dd3209cc1fbdd79150106b9701b3c3c1]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2008/569/regulation/19) inserted (17.5.2016) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [64(2)](https://www.legislation.gov.uk/uksi/2016/575/regulation/64/2)
 
-[^key-eaba0ffddb85a3ed9d3d22244882c27e]: Textual amendment: [Sch. para. 2(1)(c)](https://www.legislation.gov.uk/uksi/2008/569/schedule/paragraph/2/1/c) substituted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [42(5)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/42/5/a)
+[^c-eaba0ffddb85a3ed9d3d22244882c27e]: Textual amendment: [Sch. para. 2(1)(c)](https://www.legislation.gov.uk/uksi/2008/569/schedule/paragraph/2/1/c) substituted (6.4.2015) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [42(5)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/42/5/a)
 
-[^key-42cbc474a6c7f96b29571695d115a289]: Textual amendment: [Sch. para. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/569/schedule/paragraph/2/1/d) omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [42(5)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/42/5/b)
+[^c-42cbc474a6c7f96b29571695d115a289]: Textual amendment: [Sch. para. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/569/schedule/paragraph/2/1/d) omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [42(5)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/42/5/b)
 
-[^key-17f10987ff4e54d46a3b3278c88c085f]: Textual amendment: [Sch. para. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/569/schedule/paragraph/2/1/e) omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [42(5)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/42/5/c)
+[^c-17f10987ff4e54d46a3b3278c88c085f]: Textual amendment: [Sch. para. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/569/schedule/paragraph/2/1/e) omitted (6.4.2015) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [42(5)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/42/5/c)
 
-[^key-1f97b341b9e57873f807f7b3d1d1cd8f]: Textual amendment: Words in [Sch. para. 2(2)(g)](https://www.legislation.gov.uk/uksi/2008/569/schedule/paragraph/2/2/g) omitted (with effect in relation to financial years beginning on or after 6.4.2025) by virtue of [The Companies (Accounts and Reports) (Amendment and Transitional Provision) Regulations 2024 (S.I. 2024/1303)](https://www.legislation.gov.uk/uksi/2024/1303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/2/2), [7(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/7/2)
+[^c-1f97b341b9e57873f807f7b3d1d1cd8f]: Textual amendment: Words in [Sch. para. 2(2)(g)](https://www.legislation.gov.uk/uksi/2008/569/schedule/paragraph/2/2/g) omitted (with effect in relation to financial years beginning on or after 6.4.2025) by virtue of [The Companies (Accounts and Reports) (Amendment and Transitional Provision) Regulations 2024 (S.I. 2024/1303)](https://www.legislation.gov.uk/uksi/2024/1303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/2/2), [7(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/7/2)

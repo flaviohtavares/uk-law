@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 254. Renewal of local licences[^key-2bcf754c93780df91b6381fef3e0ac79]
+## 254. Renewal of local licences[^c-2bcf754c93780df91b6381fef3e0ac79]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 104A(5) of the 1990 Act (conditions of renewal of local licence), aft
 
 ## Annotations
 
-[^key-2bcf754c93780df91b6381fef3e0ac79]: Commencement: S. 254 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2bcf754c93780df91b6381fef3e0ac79]: Commencement: S. 254 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

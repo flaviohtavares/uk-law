@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Orders under sections 84 to 91[^key-2cd677000b2977383b0210be9adc4e58]
+## 92. Orders under sections 84 to 91[^c-2cd677000b2977383b0210be9adc4e58]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ as the Secretary of State considers appropriate.
 
 ## Annotations
 
-[^key-2cd677000b2977383b0210be9adc4e58]: Commencement: S. 92 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-2cd677000b2977383b0210be9adc4e58]: Commencement: S. 92 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

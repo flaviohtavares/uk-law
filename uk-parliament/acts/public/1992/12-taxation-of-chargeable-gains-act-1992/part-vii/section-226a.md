@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226A. Private residence relief: cases where relief obtained under section 260[^key-ea1f146812f30fa1026da94cc76dcfa6]
+## 226A. Private residence relief: cases where relief obtained under section 260[^c-ea1f146812f30fa1026da94cc76dcfa6]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ is made after the making of the later disposal and subsection (2) above does not
 
 ## Annotations
 
-[^key-ea1f146812f30fa1026da94cc76dcfa6]: Textual amendment: Ss. 226A, 226B inserted (with effect in accordance with Sch. 22 paras. 7(3)(4), 8 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2004/12/schedule/22/paragraph/6)
+[^c-ea1f146812f30fa1026da94cc76dcfa6]: Textual amendment: Ss. 226A, 226B inserted (with effect in accordance with Sch. 22 paras. 7(3)(4), 8 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2004/12/schedule/22/paragraph/6)

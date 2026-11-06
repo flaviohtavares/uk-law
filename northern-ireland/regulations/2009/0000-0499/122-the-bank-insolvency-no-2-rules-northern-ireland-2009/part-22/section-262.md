@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 262. Quorum at meeting of creditors or contributories[^key-e861c47808188140f88353268215e22e]
+## 262. Quorum at meeting of creditors or contributories[^c-e861c47808188140f88353268215e22e]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e861c47808188140f88353268215e22e]: Commencement: Rule 262 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-e861c47808188140f88353268215e22e]: Commencement: Rule 262 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

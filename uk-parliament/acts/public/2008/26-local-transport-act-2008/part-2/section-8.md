@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Nature of duty to develop transport policies[^key-c64aa560567b97c452c005565a505ace][^key-72c716cb56de1e237d95c072ce89f6fb]
+## 8. Nature of duty to develop transport policies[^c-c64aa560567b97c452c005565a505ace][^c-72c716cb56de1e237d95c072ce89f6fb]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c64aa560567b97c452c005565a505ace]: Commencement: S. 8 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/1)[3](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/3))
+[^c-c64aa560567b97c452c005565a505ace]: Commencement: S. 8 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/1)[3](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/3))
 
-[^key-72c716cb56de1e237d95c072ce89f6fb]: Commencement: S. 8 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/579/article/2/b)
+[^c-72c716cb56de1e237d95c072ce89f6fb]: Commencement: S. 8 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/579/article/2/b)

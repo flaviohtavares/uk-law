@@ -64,7 +64,7 @@ summary: ''
 
 ### Local Government Act 2000 (c. 22)
 
-**2.**[^key-e876502926b650544aee15cec1c62c93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e876502926b650544aee15cec1c62c93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education Act 2002 (c. 32)
 
@@ -103,4 +103,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e876502926b650544aee15cec1c62c93]: Textual amendment: [Sch. 14 para. 2](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/2) omitted (1.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 8](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/8); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(c)](https://www.legislation.gov.uk/wsi/2021/231/article/4/c)
+[^c-e876502926b650544aee15cec1c62c93]: Textual amendment: [Sch. 14 para. 2](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/2) omitted (1.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 8](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/8); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(c)](https://www.legislation.gov.uk/wsi/2021/231/article/4/c)

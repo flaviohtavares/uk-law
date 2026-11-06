@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Amendment of Schedule A1[^key-6d3da56e898404fcf593565d01ff3bf9]
+## 60. Amendment of Schedule A1[^c-6d3da56e898404fcf593565d01ff3bf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d3da56e898404fcf593565d01ff3bf9]: Commencement: Reg. 60 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-6d3da56e898404fcf593565d01ff3bf9]: Commencement: Reg. 60 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00044]: Footnote: Schedule A1 was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Financial support to specified providers for higher education[^key-105cf1f25b9650438f8b3f97f80ad90d][^key-360c0fa1729b943ee26d5734d2a79bcc]
+## 88. Financial support to specified providers for higher education[^c-105cf1f25b9650438f8b3f97f80ad90d][^c-360c0fa1729b943ee26d5734d2a79bcc]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-105cf1f25b9650438f8b3f97f80ad90d]: Commencement: S. 88 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-105cf1f25b9650438f8b3f97f80ad90d]: Commencement: S. 88 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-360c0fa1729b943ee26d5734d2a79bcc]: Commencement: [S. 88](https://www.legislation.gov.uk/asc/2022/1/section/88) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(ff)](https://www.legislation.gov.uk/wsi/2023/919/article/3/ff)
+[^c-360c0fa1729b943ee26d5734d2a79bcc]: Commencement: [S. 88](https://www.legislation.gov.uk/asc/2022/1/section/88) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(ff)](https://www.legislation.gov.uk/wsi/2023/919/article/3/ff)

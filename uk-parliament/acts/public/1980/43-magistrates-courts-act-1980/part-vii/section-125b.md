@@ -33,7 +33,7 @@ summary: ''
 
 (3) [^c19415241]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Where a warrant has been executed by a person mentioned in subsection (1) above, a written statement indicating the matters specified in subsection (5) below shall, on the demand of the person arrested, committed or detained or , in the case of a warrant of control, against whom the warrant is issued[^key-b656d15703868f4165e69556e5ca404e] , be shown to him as soon as practicable.
+(4) Where a warrant has been executed by a person mentioned in subsection (1) above, a written statement indicating the matters specified in subsection (5) below shall, on the demand of the person arrested, committed or detained or , in the case of a warrant of control, against whom the warrant is issued[^c-b656d15703868f4165e69556e5ca404e] , be shown to him as soon as practicable.
 
 (5) The matters referred to in subsection (4) above are—
 
@@ -56,7 +56,7 @@ summary: ''
 
 [^c19415241]: Textual amendment: S. 125B(3) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 239(4)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/239/4), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y/aa)
 
-[^key-b656d15703868f4165e69556e5ca404e]: Textual amendment: Words in s. 125B(4) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 59](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/59) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-b656d15703868f4165e69556e5ca404e]: Textual amendment: Words in s. 125B(4) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 59](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/59) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c19415181]: Textual amendment: Words in s. 125B(5)(d) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 239(5)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/239/5); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 

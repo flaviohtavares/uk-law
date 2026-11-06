@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Power to require production of documents, etc[^key-e70633e5caa18bfe101170b460f912d5]
+## 42. Power to require production of documents, etc[^c-e70633e5caa18bfe101170b460f912d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e70633e5caa18bfe101170b460f912d5]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2016/2/section/42) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-e70633e5caa18bfe101170b460f912d5]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2016/2/section/42) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

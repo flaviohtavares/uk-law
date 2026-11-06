@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 18) Regulations 2020 (revoked)[^key-615c16dd0b39667ee3e2178986c76e12]
+The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 18) Regulations 2020 (revoked)[^c-615c16dd0b39667ee3e2178986c76e12]
 
 Made
 
@@ -45,27 +45,27 @@ Laid before Senedd Cymru
 
 at 3.00 p.m. on 6 November 2020
 
-[^key-615c16dd0b39667ee3e2178986c76e12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-615c16dd0b39667ee3e2178986c76e12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, coming into force and interpretation[^key-615c16dd0b39667ee3e2178986c76e12]
+## 1. Title, coming into force and interpretation[^c-615c16dd0b39667ee3e2178986c76e12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Removal of Denmark from the list of exempt countries and territories[^key-615c16dd0b39667ee3e2178986c76e12]
+## 2. Removal of Denmark from the list of exempt countries and territories[^c-615c16dd0b39667ee3e2178986c76e12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-615c16dd0b39667ee3e2178986c76e12]
+## 3. Transitional provision[^c-615c16dd0b39667ee3e2178986c76e12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-615c16dd0b39667ee3e2178986c76e12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-615c16dd0b39667ee3e2178986c76e12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-615c16dd0b39667ee3e2178986c76e12]EXPLANATORY NOTE
+[^c-615c16dd0b39667ee3e2178986c76e12]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -75,4 +75,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-615c16dd0b39667ee3e2178986c76e12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1223) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 20](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/20)
+[^c-615c16dd0b39667ee3e2178986c76e12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1223) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 20](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/20)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Form P46 where employer does not receive Form P45 and code not known[^key-63e8ae57cf84afe4c10f7294479a2e17]
+## 13. Form P46 where employer does not receive Form P45 and code not known[^c-63e8ae57cf84afe4c10f7294479a2e17]
 
 *Extent: E+W+S+N.I.*
 
 In regulation 46(7) (Form P46 where employer does not receive Form P45 and code not known), for “51(2)” substitute “51(2)(a)”.
 
-**14.**[^key-81ddd1259bd42e1f740c5f18b60513f5] After regulation 49 insert—
+**14.**[^c-81ddd1259bd42e1f740c5f18b60513f5] After regulation 49 insert—
 
 > **49A. Procedure where employee fails to assist with completion of new employee fields in returns under regulations 67B and 67D**
 >
@@ -85,6 +85,6 @@ In regulation 46(7) (Form P46 where employer does not receive Form P45 and code 
 
 ## Annotations
 
-[^key-63e8ae57cf84afe4c10f7294479a2e17]: Commencement: Reg. 13 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-63e8ae57cf84afe4c10f7294479a2e17]: Commencement: Reg. 13 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
 
-[^key-81ddd1259bd42e1f740c5f18b60513f5]: Commencement: Reg. 14 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-81ddd1259bd42e1f740c5f18b60513f5]: Commencement: Reg. 14 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

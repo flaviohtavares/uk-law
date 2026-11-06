@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Order of names[^key-679def69748fcdb97ee8be6a162b6c4e]
+## 41. Order of names[^c-679def69748fcdb97ee8be6a162b6c4e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-679def69748fcdb97ee8be6a162b6c4e]: Commencement: Reg. 41 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-679def69748fcdb97ee8be6a162b6c4e]: Commencement: Reg. 41 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)

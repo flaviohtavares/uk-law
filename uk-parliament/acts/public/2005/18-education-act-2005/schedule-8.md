@@ -24,7 +24,7 @@ Section 54
 
 **1.**[^c19807361] In this Schedule “**the 2002 Act**” means the Education Act 2002 (c. 32).
 
-**2.**[^key-f9776d6715b92760f1f42bad03307497][^c19807371] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f9776d6715b92760f1f42bad03307497][^c19807371] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.**[^c19807391] For sections 163 and 164 of the 2002 Act substitute—
 
@@ -87,7 +87,7 @@ Section 54
 >
 > (12) Subsection (11) has effect subject to paragraph 4 of Schedule 6 to the Government of Wales Act 1998 (Treasury power to direct that requirement for payment into Consolidated Fund not to apply in relation to specified sums received by the Chief Inspector for Wales).
 
-**4.**[^key-3ee86fa02868d7bbf5096f90e0c35783][^c19807421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3ee86fa02868d7bbf5096f90e0c35783][^c19807421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.**[^c19631811] In section 171 of the 2002 Act (interpretation of Chapter 1 of Part 10), omit the definition of “registered inspector”.
 
@@ -95,13 +95,13 @@ Section 54
 
 [^c19807361]: Commencement: Sch. 8 wholly in force at 1.9.2006; Sch. 8 not in force at Royal Assent see s. 125; Sch. 8 in force for E. at 1.9.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 8 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-f9776d6715b92760f1f42bad03307497]: Textual amendment: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2005/18/schedule/8/paragraph/2) repealed (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4)[(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/aa)
+[^c-f9776d6715b92760f1f42bad03307497]: Textual amendment: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2005/18/schedule/8/paragraph/2) repealed (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4)[(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/aa)
 
 [^c19807371]: Commencement: Sch. 8 wholly in force at 1.9.2006; Sch. 8 not in force at Royal Assent see s. 125; Sch. 8 in force for E. at 1.9.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 8 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
 [^c19807391]: Commencement: Sch. 8 wholly in force at 1.9.2006; Sch. 8 not in force at Royal Assent see s. 125; Sch. 8 in force for E. at 1.9.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 8 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-3ee86fa02868d7bbf5096f90e0c35783]: Textual amendment: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2005/18/schedule/8/paragraph/4) repealed (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4)[(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/aa)
+[^c-3ee86fa02868d7bbf5096f90e0c35783]: Textual amendment: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2005/18/schedule/8/paragraph/4) repealed (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4)[(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/aa)
 
 [^c19807421]: Commencement: Sch. 8 wholly in force at 1.9.2006; Sch. 8 not in force at Royal Assent see s. 125; Sch. 8 in force for E. at 1.9.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 8 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 

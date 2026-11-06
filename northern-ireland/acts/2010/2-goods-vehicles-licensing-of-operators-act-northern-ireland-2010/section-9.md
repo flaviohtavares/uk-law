@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Publication by Department of notice of application for licence[^key-b43169b9f62b07d8bf9dd04ee0c8dd25][^key-85e4e25e9c8f8f561199ef967f5fe42e]
+## 9. Publication by Department of notice of application for licence[^c-b43169b9f62b07d8bf9dd04ee0c8dd25][^c-85e4e25e9c8f8f561199ef967f5fe42e]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ any objection to, or representations against, the grant of the application may b
 
 ## Annotations
 
-[^key-b43169b9f62b07d8bf9dd04ee0c8dd25]: Commencement: S. 9 in operation at 22.6.2012 for specified purposes by [S.R. 2012/247](https://www.legislation.gov.uk/nisr/2012/247), [art. 2](https://www.legislation.gov.uk/nisr/2012/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/247/schedule)
+[^c-b43169b9f62b07d8bf9dd04ee0c8dd25]: Commencement: S. 9 in operation at 22.6.2012 for specified purposes by [S.R. 2012/247](https://www.legislation.gov.uk/nisr/2012/247), [art. 2](https://www.legislation.gov.uk/nisr/2012/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/247/schedule)
 
-[^key-85e4e25e9c8f8f561199ef967f5fe42e]: Commencement: S. 9 in operation at 1.7.2012 in so far as not already in operation by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-85e4e25e9c8f8f561199ef967f5fe42e]: Commencement: S. 9 in operation at 1.7.2012 in so far as not already in operation by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

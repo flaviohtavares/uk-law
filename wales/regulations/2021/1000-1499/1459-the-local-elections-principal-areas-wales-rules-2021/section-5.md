@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Conduct of elections to the council of a principal area[^key-be243826c75d4113e42e601622965592][^key-c618dc08f043697edb62ce78278fd126]
+## 5. Conduct of elections to the council of a principal area[^c-be243826c75d4113e42e601622965592][^c-c618dc08f043697edb62ce78278fd126]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be243826c75d4113e42e601622965592]: Commencement: Rule 5 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-be243826c75d4113e42e601622965592]: Commencement: Rule 5 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-c618dc08f043697edb62ce78278fd126]: Modification: [Rule 5](https://www.legislation.gov.uk/wsi/2021/1459/rule/5) applied in part (with modifications) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 paras. 22](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/22), [24](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/24) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-c618dc08f043697edb62ce78278fd126]: Modification: [Rule 5](https://www.legislation.gov.uk/wsi/2021/1459/rule/5) applied in part (with modifications) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 paras. 22](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/22), [24](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/24) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))

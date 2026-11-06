@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Information about complaints for community patients[^key-1dcc74f04b613dd8f9cd061049e01167]
+## 42. Information about complaints for community patients[^c-1dcc74f04b613dd8f9cd061049e01167]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ In section 132A of the Mental Health Act 1983 (duty of managers of hospitals to 
 
 ## Annotations
 
-[^key-1dcc74f04b613dd8f9cd061049e01167]: Commencement: S. 42 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-1dcc74f04b613dd8f9cd061049e01167]: Commencement: S. 42 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

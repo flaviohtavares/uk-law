@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Abolition of the Qualifications and Curriculum Development Agency[^key-1b7f185c8e9a7321a633598f4a896fe9]
+## 25. Abolition of the Qualifications and Curriculum Development Agency[^c-1b7f185c8e9a7321a633598f4a896fe9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Sections 175 to 191 of, and Schedule 11 to, ASCLA 2009 (the Qualifications and C
 
 ## Annotations
 
-[^key-1b7f185c8e9a7321a633598f4a896fe9]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2011/21/section/25) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-1b7f185c8e9a7321a633598f4a896fe9]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2011/21/section/25) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

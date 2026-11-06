@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Commutation of small pension for lump-sum[^key-831d2538bc662a3a085d364b4073e183]
+## 35. Commutation of small pension for lump-sum[^c-831d2538bc662a3a085d364b4073e183]
 
 *Extent: N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-831d2538bc662a3a085d364b4073e183]: Commencement: Reg. 35 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-831d2538bc662a3a085d364b4073e183]: Commencement: Reg. 35 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00012]: Footnote: [S.R. (N.I.) 1996 No.493](https://www.legislation.gov.uk/nisr/1996/493)
 

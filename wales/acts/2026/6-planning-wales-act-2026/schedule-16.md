@@ -26,7 +26,7 @@ summary: ''
 
 ### PART 1 — COMPENSATION FOLLOWING MAKING OF DISCONTINUANCE ORDER
 
-#### 1. Compensation where discontinuance order relates to minerals[^key-34c989855c214745bffd98d1a03386a7]
+#### 1. Compensation where discontinuance order relates to minerals[^c-34c989855c214745bffd98d1a03386a7]
 
 (1) Where a discontinuance order relates to a use of land for carrying out mining operations or depositing mineral waste, compensation is payable under section 211 only if one or more of the following conditions are met.
 
@@ -60,7 +60,7 @@ summary: ''
 
 ### PART 2 — COMPENSATION FOLLOWING MAKING OF PROHIBITION ORDER OR PROTECTION ORDER
 
-#### 2. Compensation under section 211 following making of prohibition order[^key-c26335b93759cc22be5f485355e8a138]
+#### 2. Compensation under section 211 following making of prohibition order[^c-c26335b93759cc22be5f485355e8a138]
 
 (1) Subsections (2) to (5) of section 211 apply where a prohibition order is made in relation to land in the area of a planning authority and either or both of the following conditions are met.
 
@@ -72,7 +72,7 @@ summary: ''
 - (b) a discontinuance order was made relating to a use of the land for carrying out mining operations or depositing mineral waste;
 - (c) an order was made under section 102 modifying a minerals permission.
 
-#### 3. Compensation in other cases[^key-65b0a59c27b474139b7d48aa1949a7b3]
+#### 3. Compensation in other cases[^c-65b0a59c27b474139b7d48aa1949a7b3]
 
 (1) This paragraph applies where—
 
@@ -100,7 +100,7 @@ summary: ''
 
 (6) Compensation payable under this paragraph must be reduced by the value to the claimant of any timber, apparatus or other materials removed for the purpose of complying with the order in question.
 
-#### 4. Deduction from compensation under paragraph 3[^key-e31bacd5589d702e041355805bbc79ea]
+#### 4. Deduction from compensation under paragraph 3[^c-e31bacd5589d702e041355805bbc79ea]
 
 (1) A planning authority must deduct the amount determined in accordance with this paragraph from any compensation that it pays under paragraph 3 in consequence of a prohibition order or protection order.
 
@@ -119,10 +119,10 @@ where—
 
 ## Annotations
 
-[^key-34c989855c214745bffd98d1a03386a7]: Commencement: Sch. 16 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-34c989855c214745bffd98d1a03386a7]: Commencement: Sch. 16 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-c26335b93759cc22be5f485355e8a138]: Commencement: Sch. 16 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c26335b93759cc22be5f485355e8a138]: Commencement: Sch. 16 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-65b0a59c27b474139b7d48aa1949a7b3]: Commencement: Sch. 16 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-65b0a59c27b474139b7d48aa1949a7b3]: Commencement: Sch. 16 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-e31bacd5589d702e041355805bbc79ea]: Commencement: Sch. 16 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e31bacd5589d702e041355805bbc79ea]: Commencement: Sch. 16 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

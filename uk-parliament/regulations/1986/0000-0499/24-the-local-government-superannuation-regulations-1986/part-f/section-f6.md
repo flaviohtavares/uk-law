@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## F6. Reckonable service and benefits[^key-c2a94a022f8c30c0213cdd85c8572e5e]
+## F6. Reckonable service and benefits[^c-c2a94a022f8c30c0213cdd85c8572e5e]
 
 *Extent: E+W+S*
 
@@ -129,4 +129,4 @@ rounding up any fraction of a day resulting from the calculation to the nearest 
 
 ## Annotations
 
-[^key-c2a94a022f8c30c0213cdd85c8572e5e]: Commencement: [Reg. F6](https://www.legislation.gov.uk/uksi/1986/24/regulation/F6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-c2a94a022f8c30c0213cdd85c8572e5e]: Commencement: [Reg. F6](https://www.legislation.gov.uk/uksi/1986/24/regulation/F6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

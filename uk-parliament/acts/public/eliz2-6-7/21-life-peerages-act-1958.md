@@ -35,7 +35,7 @@ An Act to make provision for the creation of life peerages carrying the right to
 
 ## 1. Power to create life peerages carrying right to sit in the House of Lords.
 
-(1) [^key-98bf536ab67370c360a05d266eeac2d7]... Her Majesty shall have power by letters patent to confer on any person a peerage for life having the incidents specified in subsection (2) of this section.
+(1) [^c-98bf536ab67370c360a05d266eeac2d7]... Her Majesty shall have power by letters patent to confer on any person a peerage for life having the incidents specified in subsection (2) of this section.
 
 (2) A peerage conferred under this section shall, during the life of the person on whom it is conferred, entitle him—
 
@@ -54,4 +54,4 @@ This Act may be cited as the Life Peerages Act 1958.
 
 ## Annotations
 
-[^key-98bf536ab67370c360a05d266eeac2d7]: Textual amendment: Words in s. 1(1) repealed (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/15), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/e/f)
+[^c-98bf536ab67370c360a05d266eeac2d7]: Textual amendment: Words in s. 1(1) repealed (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/15), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/e/f)

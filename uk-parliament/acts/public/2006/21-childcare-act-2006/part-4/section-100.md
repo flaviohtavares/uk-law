@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Provision of information about young children: transitory provision[^key-194776425fbc60327fa290f5f2ec383d][^key-780baf1b784faecf440a201efee78f3f]
+## 100. Provision of information about young children: transitory provision[^c-194776425fbc60327fa290f5f2ec383d][^c-780baf1b784faecf440a201efee78f3f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-194776425fbc60327fa290f5f2ec383d]: Textual amendment: [S. 100](https://www.legislation.gov.uk/ukpga/2006/21/section/100) repealed (1.9.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/4), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-194776425fbc60327fa290f5f2ec383d]: Textual amendment: [S. 100](https://www.legislation.gov.uk/ukpga/2006/21/section/100) repealed (1.9.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/4), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
 
-[^key-780baf1b784faecf440a201efee78f3f]: Commencement: S. 100 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/e)
+[^c-780baf1b784faecf440a201efee78f3f]: Commencement: S. 100 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/e)

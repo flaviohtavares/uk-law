@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Execution of deeds.[^key-af4cb430545da2f962928d4c4f0b76a5]
+## 239. Execution of deeds.[^c-af4cb430545da2f962928d4c4f0b76a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-af4cb430545da2f962928d4c4f0b76a5]: Textual amendment: Pt. VI heading substituted (30.7.2009) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/3)[(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/5); [S.I. 2009/2094](https://www.legislation.gov.uk/uksi/2009/2094), [art. 2](https://www.legislation.gov.uk/uksi/2009/2094/article/2)
+[^c-af4cb430545da2f962928d4c4f0b76a5]: Textual amendment: Pt. VI heading substituted (30.7.2009) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/3)[(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/5); [S.I. 2009/2094](https://www.legislation.gov.uk/uksi/2009/2094), [art. 2](https://www.legislation.gov.uk/uksi/2009/2094/article/2)
 
 [^c14457011]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Disclosure of information[^key-5da2dcc3c05094caf072a3e1a3b93d52]
+## 58. Disclosure of information[^c-5da2dcc3c05094caf072a3e1a3b93d52]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any information obtained under or by virtue of Part 6 (Exceptions and licences), this Part or Part 9 (Maritime enforcement), or
 - (b) any information held in connection with—
-  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance) , Part 3A (Director disqualification sanctions)[^key-df1884e0cf692680283516b674c4aa1c] or Part 5 (Trade), or
+  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance) , Part 3A (Director disqualification sanctions)[^c-df1884e0cf692680283516b674c4aa1c] or Part 5 (Trade), or
   - (ii) any exception or licence under Part 6 or anything done in accordance with such an exception or under the authority of such a licence.
 
 (2) Information referred to in paragraph (1) may be disclosed for, or in connection with, any of the following purposes—
@@ -73,9 +73,9 @@ summary: ''
 
 ## Annotations
 
-[^key-5da2dcc3c05094caf072a3e1a3b93d52]: Commencement: Reg. 58 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-5da2dcc3c05094caf072a3e1a3b93d52]: Commencement: Reg. 58 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
-[^key-df1884e0cf692680283516b674c4aa1c]: Textual amendment: Words in [reg. 58(1)(b)(i)](https://www.legislation.gov.uk/uksi/2021/496/regulation/58/1/b/i) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [16(8)](https://www.legislation.gov.uk/uksi/2024/643/regulation/16/8)
+[^c-df1884e0cf692680283516b674c4aa1c]: Textual amendment: Words in [reg. 58(1)(b)(i)](https://www.legislation.gov.uk/uksi/2021/496/regulation/58/1/b/i) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [16(8)](https://www.legislation.gov.uk/uksi/2024/643/regulation/16/8)
 
 [^c24500331]: Marginal citation: [2017 c. 3](https://www.legislation.gov.uk/ukpga/2017/3).
 

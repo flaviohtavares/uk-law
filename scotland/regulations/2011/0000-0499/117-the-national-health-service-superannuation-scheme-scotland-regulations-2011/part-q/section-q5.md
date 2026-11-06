@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Q5. Paying by regular additional contributions[^key-3011ccb03ae84477f2bc0c00bdc95336]
+## Q5. Paying by regular additional contributions[^c-3011ccb03ae84477f2bc0c00bdc95336]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3011ccb03ae84477f2bc0c00bdc95336]: Modification: Regs. Q1-Q6 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [22](https://www.legislation.gov.uk/ssi/2015/95/regulation/22)
+[^c-3011ccb03ae84477f2bc0c00bdc95336]: Modification: Regs. Q1-Q6 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [22](https://www.legislation.gov.uk/ssi/2015/95/regulation/22)

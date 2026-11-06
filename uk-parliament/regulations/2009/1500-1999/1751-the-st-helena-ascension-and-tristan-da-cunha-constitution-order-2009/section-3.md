@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Revocations[^key-486352444e46deadb70bb67a0cdaf5fd]
+## 3. Revocations[^c-486352444e46deadb70bb67a0cdaf5fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The St Helena Constitution Order 1988 and the St Helena Constitution Order 1989[
 
 ## Annotations
 
-[^key-486352444e46deadb70bb67a0cdaf5fd]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/1751/article/3) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
+[^c-486352444e46deadb70bb67a0cdaf5fd]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/1751/article/3) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
 
 [^f00004]: Footnote: [S.I. 1989/155](https://www.legislation.gov.uk/uksi/1989/155).

@@ -46,34 +46,34 @@ The Department of the Environment makes the following Regulations in exercise of
 
 In accordance with section 57(11) of that Act the Department has consulted such representative organisations as it thinks fit.
 
-## 1. Citation and Commencement[^key-d04a01e5b5fd2aea659ea57ceb1e0a8a]
+## 1. Citation and Commencement[^c-d04a01e5b5fd2aea659ea57ceb1e0a8a]
 
 These Regulations may be cited as the Goods Vehicles (Licensing of Operators) (Exemption) Regulations (Northern Ireland) 2012 and shall come into operation on 1<sup>st</sup> July 2012.
 
-## 2. Interpretation[^key-251227cd0e856fc6ba4ef7bef493ab84]
+## 2. Interpretation[^c-251227cd0e856fc6ba4ef7bef493ab84]
 
 In these Regulations—
 
 - “the 1995 Act” means the Goods Vehicles (Licensing of Operators) Act 1995[^f00002];
 - “the 2010 Act” means the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010;
-- “[^key-8180238f0c6e831f7f99a84d8634ca5e]**national transport operations**” has the meaning given in section 58(1) of the 2010 Act;
+- “[^c-8180238f0c6e831f7f99a84d8634ca5e]**national transport operations**” has the meaning given in section 58(1) of the 2010 Act;
 - “own account operator” means an operator who uses a goods vehicle on a road for the carriage of goods for or in connection with any trade or business carried on by the holder of the licence, other than that of carrying goods for hire or reward; and
 - “relevant plated weight” means the gross weight not to be exceeded of a loaded vehicle as defined in regulation 79 of the Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999[^f00003].
 
-## 3. Small goods vehicle[^key-02bd7b747ac3746f3a7b469efb3df8f0]
+## 3. Small goods vehicle[^c-02bd7b747ac3746f3a7b469efb3df8f0]
 
 (1) For the purposes of section 1(2)(a) of the 2010 Act a goods vehicle is a small goods vehicle if it forms part of a vehicle combination and complies with the conditions set out in paragraph (2)(a) or (b).
 
 (2) The conditions referred to in paragraph (1) are that-
 
-- (a) the vehicle and combination of vehicles used for hire and reward has a relevant plated weight up to and including—[^key-c5b4e66418f2edaa31ef710fb405bace]
+- (a) the vehicle and combination of vehicles used for hire and reward has a relevant plated weight up to and including—[^c-c5b4e66418f2edaa31ef710fb405bace]
 - (i) 2.5 tonnes; or
 - (ii) 3.5 tonnes if it is used only for national transport operations; or
 - (b) the vehicle and combination of vehicles used by an own account operator includes a towing vehicle that has a relevant plated weight which is no more than 3.5 tonnes.
 
 (3) Paragraph (2) applies in spite of Article 1(4)(c) of Regulation (EC) No.1071/2009 (exemption for slow vehicles unless otherwise provided in national law).
 
-## 4. Exemption from requirement to hold an Operator’s Licence[^key-2235dd49f527a38bd80229922ec9eec0]
+## 4. Exemption from requirement to hold an Operator’s Licence[^c-2235dd49f527a38bd80229922ec9eec0]
 
 The provisions of section 1(1) of the 2010 Act shall not apply to the use of vehicles of any class as set out in the Schedule.
 
@@ -89,74 +89,74 @@ Department of the Environment
 
 Regulation 4
 
-**1.**[^key-70b401214ce9ad5405559e5d6698fe8e] A vehicle constructed or adapted primarily for the carriage of passengers and their effects, and any trailer drawn by it, while being so used.
+**1.**[^c-70b401214ce9ad5405559e5d6698fe8e] A vehicle constructed or adapted primarily for the carriage of passengers and their effects, and any trailer drawn by it, while being so used.
 
-**2.**[^key-01cc3a75b98843ef428d39fefd5c1347] A vehicle which is being used for funerals.
+**2.**[^c-01cc3a75b98843ef428d39fefd5c1347] A vehicle which is being used for funerals.
 
-**3.**[^key-56a6121e1420a5776972406fc91a72de] An emergency vehicle which is being used for police, fire and rescue or ambulance purposes.
+**3.**[^c-56a6121e1420a5776972406fc91a72de] An emergency vehicle which is being used for police, fire and rescue or ambulance purposes.
 
-**4.**[^key-4beb1773e13b2b7411060b7b88afd18e] A vehicle being used in by the Serious Organised Crime Agency in exercise of its functions.
+**4.**[^c-4beb1773e13b2b7411060b7b88afd18e] A vehicle being used in by the Serious Organised Crime Agency in exercise of its functions.
 
-**5.**[^key-45e8466287ca203575ccc42c3a631dcf] A vehicle which is being used under a trade licence issued under the Vehicle Excise and Registration Act 1994[^f00005].
+**5.**[^c-45e8466287ca203575ccc42c3a631dcf] A vehicle which is being used under a trade licence issued under the Vehicle Excise and Registration Act 1994[^f00005].
 
-**6.**[^key-62a04c5b8701b0c09c329eced5722923] A vehicle used by or under the control of Her Majesty’s United Kingdom forces or a visiting force.
+**6.**[^c-62a04c5b8701b0c09c329eced5722923] A vehicle used by or under the control of Her Majesty’s United Kingdom forces or a visiting force.
 
-**7.**[^key-033457f3c9ec589950b24f6e80d705dc] A vehicle being used under the direction of HM Coastguard or of the Royal National Lifeboat Institution (or similar) for the carriage of lifeboats, life-saving appliances or crew.
+**7.**[^c-033457f3c9ec589950b24f6e80d705dc] A vehicle being used under the direction of HM Coastguard or of the Royal National Lifeboat Institution (or similar) for the carriage of lifeboats, life-saving appliances or crew.
 
-**8.**[^key-5048323025a70cea3411d97c81a4cee6] A vehicle being used solely on roads under the control of a harbour authority.
+**8.**[^c-5048323025a70cea3411d97c81a4cee6] A vehicle being used solely on roads under the control of a harbour authority.
 
-**9.**[^key-7659f0d5aae77351e2e858f4fe764446] A vehicle being used by a local authority in the discharge of any function conferred on or exercisable by that authority under Regulations made under the Civil Contingencies Act 2004[^f00006].
+**9.**[^c-7659f0d5aae77351e2e858f4fe764446] A vehicle being used by a local authority in the discharge of any function conferred on or exercisable by that authority under Regulations made under the Civil Contingencies Act 2004[^f00006].
 
-**10.**[^key-29a598155445f51ab103aed601c60614] A vehicle being used in an emergency by a public undertaking for the supply of water, electricity, gas or telephone services.
+**10.**[^c-29a598155445f51ab103aed601c60614] A vehicle being used in an emergency by a public undertaking for the supply of water, electricity, gas or telephone services.
 
-**11.**[^key-8df055ed4d4696c84f83c42320bc6def] A vehicle proceeding to or from a vehicle testing centre[^f00007] for the purposes of an examination of that vehicle and/or its trailer, provided that the only load being carried is a load required for the purposes of the examination under the Goods Vehicles (Testing) Regulations (Northern Ireland) 2003[^f00008].
+**11.**[^c-8df055ed4d4696c84f83c42320bc6def] A vehicle proceeding to or from a vehicle testing centre[^f00007] for the purposes of an examination of that vehicle and/or its trailer, provided that the only load being carried is a load required for the purposes of the examination under the Goods Vehicles (Testing) Regulations (Northern Ireland) 2003[^f00008].
 
-**12.**[^key-c22dbd3e8b62f3a591f7cd39688f38bd] A vehicle fitted with a machine, appliance, apparatus or other contrivance which is a permanent or essentially permanent fixture for carrying out maintenance on the road, water, electricity or gas networks and provided that the only goods carried on the vehicle are—
+**12.**[^c-c22dbd3e8b62f3a591f7cd39688f38bd] A vehicle fitted with a machine, appliance, apparatus or other contrivance which is a permanent or essentially permanent fixture for carrying out maintenance on the road, water, electricity or gas networks and provided that the only goods carried on the vehicle are—
 
 - (a) required for use in connection with the function of the machine, appliance, apparatus or contrivance or the running of the vehicle; or
 - (b) mud, including contents of road gullies, or other matter swept up from the surface of a road by the use of the machine, appliance, apparatus or other contrivance.
 
-**13.**[^key-2297f14ab8586045ffeef9a14a4cd7fa] A tower wagon, mobile elevated platform or trailer drawn thereby, provided that the only goods carried on the trailer are goods required for use in connection with the work on which the tower wagon or mobile elevated platform is ordinarily used as such.
+**13.**[^c-2297f14ab8586045ffeef9a14a4cd7fa] A tower wagon, mobile elevated platform or trailer drawn thereby, provided that the only goods carried on the trailer are goods required for use in connection with the work on which the tower wagon or mobile elevated platform is ordinarily used as such.
 
-**14.**[^key-ae0b4eff02032af0af44b44a58918895] A vehicle which is being used for snow clearing, or for the distribution of grit, salt or other materials on frosted, icebound or snow-covered public roads or for going to or from the place where it is to be used for the said purposes or for any other purpose directly connected with those purposes.
+**14.**[^c-ae0b4eff02032af0af44b44a58918895] A vehicle which is being used for snow clearing, or for the distribution of grit, salt or other materials on frosted, icebound or snow-covered public roads or for going to or from the place where it is to be used for the said purposes or for any other purpose directly connected with those purposes.
 
-**15.**[^key-d67f0f79f6cd65406331cadcd46f2bd9] A showman’s goods vehicle and any trailer drawn thereby.
+**15.**[^c-d67f0f79f6cd65406331cadcd46f2bd9] A showman’s goods vehicle and any trailer drawn thereby.
 
-**16.**[^key-3ace64ee6fff4a88281af18166731258] An agricultural tractor as defined under regulation 2 of the Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999[^f00009] and used on the public roads solely for—
+**16.**[^c-3ace64ee6fff4a88281af18166731258] An agricultural tractor as defined under regulation 2 of the Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999[^f00009] and used on the public roads solely for—
 
 - (a) agriculture, horticulture or forestry purposes;
 - (b) activities falling within cutting verges bordering public roads; and
 - (c) cutting hedges or trees bordering public roads or bordering verges which border public roads.
 
-**17.**[^key-fa3e37b38fca10cee8f42bf5a05f8f64] An agricultural vehicle which is—
+**17.**[^c-fa3e37b38fca10cee8f42bf5a05f8f64] An agricultural vehicle which is—
 
 - (a) designed for off road use;
 - (b) designed to lift and load; and
 - (c) used only in agriculture, horticulture or forestry.
 
-**18.**[^key-fb07f4d54622b82f97607b04dfb1f7fe] A limited use vehicle which is used solely for the purposes relating to agriculture, horticulture or forestry and—
+**18.**[^c-fb07f4d54622b82f97607b04dfb1f7fe] A limited use vehicle which is used solely for the purposes relating to agriculture, horticulture or forestry and—
 
 - (a) is used on public roads only in passing between different areas of privately-owned land; and
 - (b) the distance it travels on public roads in passing between any two such areas does not exceed 1.5 km.
 
-**19.**[^key-d20e92e39862910d27f1e29ccb095059] (1) A motor vehicle authorised to carry goods for hire and reward or in connection with a trade or business elsewhere than in the United Kingdom—
+**19.**[^c-d20e92e39862910d27f1e29ccb095059] (1) A motor vehicle authorised to carry goods for hire and reward or in connection with a trade or business elsewhere than in the United Kingdom—
 
-- (a) which if it were used in Great Britain for purposes or in circumstances corresponding to those for which it is used in Northern Ireland, would by virtue of regulations made for the purpose of implementing [^key-a59acfa679ecedc1048166b116d0c4fd]... any agreement relating to the international carriage of goods by road which has been applied to Northern Ireland, be exempt from the requirement for the user to hold an operator’s licence under section 2 of the 1995 Act; or
-- (b) which carries a permit valid for the journey on which the goods are being carried issued with the authority of the Secretary of State for Transport such as, if the vehicle were used in Great Britain for purposes and in circumstances corresponding to those for which it is being used in Northern Ireland, would satisfy the requirements of section 2 of the 1995 Act, as amended by regulations made for the purposes of implementing [^key-7e26dec87c99dd01f49a416242f6c51e]... any agreement relating to the international carriage of goods by road which has been applied to Northern Ireland.
+- (a) which if it were used in Great Britain for purposes or in circumstances corresponding to those for which it is used in Northern Ireland, would by virtue of regulations made for the purpose of implementing [^c-a59acfa679ecedc1048166b116d0c4fd]... any agreement relating to the international carriage of goods by road which has been applied to Northern Ireland, be exempt from the requirement for the user to hold an operator’s licence under section 2 of the 1995 Act; or
+- (b) which carries a permit valid for the journey on which the goods are being carried issued with the authority of the Secretary of State for Transport such as, if the vehicle were used in Great Britain for purposes and in circumstances corresponding to those for which it is being used in Northern Ireland, would satisfy the requirements of section 2 of the 1995 Act, as amended by regulations made for the purposes of implementing [^c-7e26dec87c99dd01f49a416242f6c51e]... any agreement relating to the international carriage of goods by road which has been applied to Northern Ireland.
 
 (2) A motor vehicle which is authorised under section 2 of the 1995 Act to carry goods for hire or reward in Great Britain and which is being used in Northern Ireland to carry goods for hire and reward shall be exempt from the provisions of section 1 of the 2010 Act.
 
-**20.**[^key-121613545f800a65c7dab46a923cdf48] A vehicle proceeding to or from or engaged in a practical test of competence to drive that vehicle under Article 5 of the Road Traffic (Northern Ireland) Order 1981[^f00010], provided that the only load being carried is the load required to be carried on the vehicle for the purposes of the test, as prescribed in regulation 26 of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^f00011].
+**20.**[^c-121613545f800a65c7dab46a923cdf48] A vehicle proceeding to or from or engaged in a practical test of competence to drive that vehicle under Article 5 of the Road Traffic (Northern Ireland) Order 1981[^f00010], provided that the only load being carried is the load required to be carried on the vehicle for the purposes of the test, as prescribed in regulation 26 of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^f00011].
 
-**21.**[^key-c97bd7ee547d14cfdee8cf2b51a3f3a9] A vehicle being used for the instruction of drivers who have not passed the practical test of competence to drive the vehicle under Article 5 of the Road Traffic (Northern Ireland) Order 1981, provided that the only load being carried is the load required to be carried on the vehicle for the purposes of the test, as prescribed in regulation 26 of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996.
+**21.**[^c-c97bd7ee547d14cfdee8cf2b51a3f3a9] A vehicle being used for the instruction of drivers who have not passed the practical test of competence to drive the vehicle under Article 5 of the Road Traffic (Northern Ireland) Order 1981, provided that the only load being carried is the load required to be carried on the vehicle for the purposes of the test, as prescribed in regulation 26 of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996.
 
-**22.**[^key-2e2008e6415216f6f3d5e2a3bcc2c9cf] A vehicle being used in the course of a driving lesson, periodic training , national periodic training[^key-2fa64464acfc8e9e738bfa7a03a9af64] or driving test for the purpose of enabling that person to obtain a CPC or a national periodic CPC[^key-401b4aa1d8a4c70be59c0b92db679f24] within the meaning of the Vehicle Drivers (Certificate of Professional Competence) Regulations 2007[^f00012], provided that no goods are being carried other than those allowed to be carried for the purposes of the initial CPC test as prescribed in regulation 5A of those Regulations[^f00013].
+**22.**[^c-2e2008e6415216f6f3d5e2a3bcc2c9cf] A vehicle being used in the course of a driving lesson, periodic training , national periodic training[^c-2fa64464acfc8e9e738bfa7a03a9af64] or driving test for the purpose of enabling that person to obtain a CPC or a national periodic CPC[^c-401b4aa1d8a4c70be59c0b92db679f24] within the meaning of the Vehicle Drivers (Certificate of Professional Competence) Regulations 2007[^f00012], provided that no goods are being carried other than those allowed to be carried for the purposes of the initial CPC test as prescribed in regulation 5A of those Regulations[^f00013].
 
-**22A.**[^key-b896f8c44c8af4f22f5cac947a315eff] A goods vehicle used for international haulage by a haulier established in a member State who holds a Community licence issued under Article 4 of Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/european/regulation/2009/1072) of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market as it has effect in EU law as amended from time to time.
+**22A.**[^c-b896f8c44c8af4f22f5cac947a315eff] A goods vehicle used for international haulage by a haulier established in a member State who holds a Community licence issued under Article 4 of Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/european/regulation/2009/1072) of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market as it has effect in EU law as amended from time to time.
 
-**23.**[^key-55cf974d79df4e3604e652f18d3d57fc] A vehicle which is being used to carry out a cabotage operation consisting of national carriage for hire or reward on a temporary basis in the United Kingdom in accordance with the provisions of Regulation (EC) No.1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market.
+**23.**[^c-55cf974d79df4e3604e652f18d3d57fc] A vehicle which is being used to carry out a cabotage operation consisting of national carriage for hire or reward on a temporary basis in the United Kingdom in accordance with the provisions of Regulation (EC) No.1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market.
 
-**24.**[^key-82db6cf8e52b9d1a06ad7a80fedbe968] A vehicle which is constructed or permanently adapted primarily for any one or more of the purposes of lifting, towing and transporting a disabled vehicle when it is carrying out one of the following functions—
+**24.**[^c-82db6cf8e52b9d1a06ad7a80fedbe968] A vehicle which is constructed or permanently adapted primarily for any one or more of the purposes of lifting, towing and transporting a disabled vehicle when it is carrying out one of the following functions—
 
 - (a) the recovery of a disabled vehicle;
 - (b) the removal of a disabled vehicle from the place where it became disabled to premises at which it is to be repaired or scrapped; and
@@ -180,94 +180,94 @@ A Regulatory Impact Assessment has been prepared and copies are available from T
 
 [^f00001]: Footnote: [2010 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2010/2)
 
-[^key-d04a01e5b5fd2aea659ea57ceb1e0a8a]: Commencement: Reg. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-d04a01e5b5fd2aea659ea57ceb1e0a8a]: Commencement: Reg. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-251227cd0e856fc6ba4ef7bef493ab84]: Commencement: Reg. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-251227cd0e856fc6ba4ef7bef493ab84]: Commencement: Reg. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
 [^f00002]: Footnote: [1995 c.23](https://www.legislation.gov.uk/ukpga/1995/23)
 
-[^key-8180238f0c6e831f7f99a84d8634ca5e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/256/regulation/2) inserted (20.5.2022 at 11.00 p.m.) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/2), [104](https://www.legislation.gov.uk/uksi/2022/293/regulation/104)
+[^c-8180238f0c6e831f7f99a84d8634ca5e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/256/regulation/2) inserted (20.5.2022 at 11.00 p.m.) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/2), [104](https://www.legislation.gov.uk/uksi/2022/293/regulation/104)
 
 [^f00003]: Footnote: [S.R. 1999 No.454](https://www.legislation.gov.uk/nisr/1999/454)
 
-[^key-02bd7b747ac3746f3a7b469efb3df8f0]: Commencement: Reg. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-02bd7b747ac3746f3a7b469efb3df8f0]: Commencement: Reg. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-c5b4e66418f2edaa31ef710fb405bace]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2012/256/regulation/3/2/a) substituted (20.5.2022 at 11.00 p.m.) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/2), [105](https://www.legislation.gov.uk/uksi/2022/293/regulation/105)
+[^c-c5b4e66418f2edaa31ef710fb405bace]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2012/256/regulation/3/2/a) substituted (20.5.2022 at 11.00 p.m.) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/2), [105](https://www.legislation.gov.uk/uksi/2022/293/regulation/105)
 
-[^key-2235dd49f527a38bd80229922ec9eec0]: Commencement: Reg. 4 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-2235dd49f527a38bd80229922ec9eec0]: Commencement: Reg. 4 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-70b401214ce9ad5405559e5d6698fe8e]: Commencement: Sch. para. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-70b401214ce9ad5405559e5d6698fe8e]: Commencement: Sch. para. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-01cc3a75b98843ef428d39fefd5c1347]: Commencement: Sch. para. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-01cc3a75b98843ef428d39fefd5c1347]: Commencement: Sch. para. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-56a6121e1420a5776972406fc91a72de]: Commencement: Sch. para. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-56a6121e1420a5776972406fc91a72de]: Commencement: Sch. para. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-4beb1773e13b2b7411060b7b88afd18e]: Commencement: Sch. para. 4 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-4beb1773e13b2b7411060b7b88afd18e]: Commencement: Sch. para. 4 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-45e8466287ca203575ccc42c3a631dcf]: Commencement: Sch. para. 5 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-45e8466287ca203575ccc42c3a631dcf]: Commencement: Sch. para. 5 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
 [^f00005]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22)
 
-[^key-62a04c5b8701b0c09c329eced5722923]: Commencement: Sch. para. 6 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-62a04c5b8701b0c09c329eced5722923]: Commencement: Sch. para. 6 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-033457f3c9ec589950b24f6e80d705dc]: Commencement: Sch. para. 7 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-033457f3c9ec589950b24f6e80d705dc]: Commencement: Sch. para. 7 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-5048323025a70cea3411d97c81a4cee6]: Commencement: Sch. para. 8 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-5048323025a70cea3411d97c81a4cee6]: Commencement: Sch. para. 8 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-7659f0d5aae77351e2e858f4fe764446]: Commencement: Sch. para. 9 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-7659f0d5aae77351e2e858f4fe764446]: Commencement: Sch. para. 9 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
 [^f00006]: Footnote: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36)
 
-[^key-29a598155445f51ab103aed601c60614]: Commencement: Sch. para. 10 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-29a598155445f51ab103aed601c60614]: Commencement: Sch. para. 10 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-8df055ed4d4696c84f83c42320bc6def]: Commencement: Sch. para. 11 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-8df055ed4d4696c84f83c42320bc6def]: Commencement: Sch. para. 11 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1995/ 2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994) *see* Article 73
 
 [^f00008]: Footnote: [S.R. 2003 No. 304](https://www.legislation.gov.uk/nisr/2003/304)
 
-[^key-c22dbd3e8b62f3a591f7cd39688f38bd]: Commencement: Sch. para. 12 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-c22dbd3e8b62f3a591f7cd39688f38bd]: Commencement: Sch. para. 12 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-2297f14ab8586045ffeef9a14a4cd7fa]: Commencement: Sch. para. 13 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-2297f14ab8586045ffeef9a14a4cd7fa]: Commencement: Sch. para. 13 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-ae0b4eff02032af0af44b44a58918895]: Commencement: Sch. para. 14 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-ae0b4eff02032af0af44b44a58918895]: Commencement: Sch. para. 14 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-d67f0f79f6cd65406331cadcd46f2bd9]: Commencement: Sch. para. 15 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-d67f0f79f6cd65406331cadcd46f2bd9]: Commencement: Sch. para. 15 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-3ace64ee6fff4a88281af18166731258]: Commencement: Sch. para. 16 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-3ace64ee6fff4a88281af18166731258]: Commencement: Sch. para. 16 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1999 No. 454](https://www.legislation.gov.uk/nisr/1999/454)
 
-[^key-fa3e37b38fca10cee8f42bf5a05f8f64]: Commencement: Sch. para. 17 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-fa3e37b38fca10cee8f42bf5a05f8f64]: Commencement: Sch. para. 17 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-fb07f4d54622b82f97607b04dfb1f7fe]: Commencement: Sch. para. 18 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-fb07f4d54622b82f97607b04dfb1f7fe]: Commencement: Sch. para. 18 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-d20e92e39862910d27f1e29ccb095059]: Commencement: Sch. para. 19 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-d20e92e39862910d27f1e29ccb095059]: Commencement: Sch. para. 19 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-a59acfa679ecedc1048166b116d0c4fd]: Textual amendment: Words in [Sch. para. 19(1)(a)](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/19/1/a) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [106](https://www.legislation.gov.uk/uksi/2022/293/regulation/106)
+[^c-a59acfa679ecedc1048166b116d0c4fd]: Textual amendment: Words in [Sch. para. 19(1)(a)](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/19/1/a) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [106](https://www.legislation.gov.uk/uksi/2022/293/regulation/106)
 
-[^key-7e26dec87c99dd01f49a416242f6c51e]: Textual amendment: Words in [Sch. para. 19(1)(b)](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/19/1/b) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [106](https://www.legislation.gov.uk/uksi/2022/293/regulation/106)
+[^c-7e26dec87c99dd01f49a416242f6c51e]: Textual amendment: Words in [Sch. para. 19(1)(b)](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/19/1/b) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [106](https://www.legislation.gov.uk/uksi/2022/293/regulation/106)
 
-[^key-121613545f800a65c7dab46a923cdf48]: Commencement: Sch. para. 20 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-121613545f800a65c7dab46a923cdf48]: Commencement: Sch. para. 20 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
 [^f00010]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154)
 
 [^f00011]: Footnote: [S.R. 1996 No. 542](https://www.legislation.gov.uk/nisr/1996/542)
 
-[^key-c97bd7ee547d14cfdee8cf2b51a3f3a9]: Commencement: Sch. para. 21 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-c97bd7ee547d14cfdee8cf2b51a3f3a9]: Commencement: Sch. para. 21 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-2e2008e6415216f6f3d5e2a3bcc2c9cf]: Commencement: Sch. para. 22 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-2e2008e6415216f6f3d5e2a3bcc2c9cf]: Commencement: Sch. para. 22 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
 
-[^key-2fa64464acfc8e9e738bfa7a03a9af64]: Textual amendment: Words in [Sch. para. 22](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/22) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [25(2)(a)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/25/2/a) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+[^c-2fa64464acfc8e9e738bfa7a03a9af64]: Textual amendment: Words in [Sch. para. 22](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/22) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [25(2)(a)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/25/2/a) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
 
-[^key-401b4aa1d8a4c70be59c0b92db679f24]: Textual amendment: Words in [Sch. para. 22](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/22) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [25(2)(b)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/25/2/b) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+[^c-401b4aa1d8a4c70be59c0b92db679f24]: Textual amendment: Words in [Sch. para. 22](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/22) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [25(2)(b)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/25/2/b) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
 
 [^f00012]: Footnote: [S.I. 2007/605](https://www.legislation.gov.uk/uksi/2007/605)
 
 [^f00013]: Footnote: Regulation 5A was inserted by regulation 7 of [S.I. 2008/1965](https://www.legislation.gov.uk/uksi/2008/1965)
 
-[^key-b896f8c44c8af4f22f5cac947a315eff]: Textual amendment: [Sch. para. 22A](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/22A) inserted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/708/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b896f8c44c8af4f22f5cac947a315eff]: Textual amendment: [Sch. para. 22A](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/22A) inserted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/708/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55cf974d79df4e3604e652f18d3d57fc]: Textual amendment: [Sch. para. 23](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/23) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/708/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55cf974d79df4e3604e652f18d3d57fc]: Textual amendment: [Sch. para. 23](https://www.legislation.gov.uk/nisr/2012/256/schedule/paragraph/23) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/708/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-82db6cf8e52b9d1a06ad7a80fedbe968]: Commencement: Sch. para. 24 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)
+[^c-82db6cf8e52b9d1a06ad7a80fedbe968]: Commencement: Sch. para. 24 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/256/regulation/1)

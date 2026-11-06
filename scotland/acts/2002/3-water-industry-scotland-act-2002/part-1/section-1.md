@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Water Industry Commission for Scotland[^key-8fe0d96cbb256f48fed2df41862114b0]
+## 1. Water Industry Commission for Scotland[^c-8fe0d96cbb256f48fed2df41862114b0]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ relating to the provision to them of water and sewerage services.
 
 ## Annotations
 
-[^key-8fe0d96cbb256f48fed2df41862114b0]: Textual amendment: S. 1 substituted (20.6.2005 for specified purposes, 1.7.2005 in so far as not already in force) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 1(1)](https://www.legislation.gov.uk/asp/2005/3/section/1/1), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-8fe0d96cbb256f48fed2df41862114b0]: Textual amendment: S. 1 substituted (20.6.2005 for specified purposes, 1.7.2005 in so far as not already in force) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 1(1)](https://www.legislation.gov.uk/asp/2005/3/section/1/1), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)

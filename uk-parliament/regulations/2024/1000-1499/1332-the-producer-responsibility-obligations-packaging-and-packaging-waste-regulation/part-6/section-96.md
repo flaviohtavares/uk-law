@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Applications for accreditation: general requirements[^key-a6d649f18272f6e69f511689e5b078ff]
+## 96. Applications for accreditation: general requirements[^c-a6d649f18272f6e69f511689e5b078ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6d649f18272f6e69f511689e5b078ff]: Commencement: Reg. 96 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-a6d649f18272f6e69f511689e5b078ff]: Commencement: Reg. 96 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

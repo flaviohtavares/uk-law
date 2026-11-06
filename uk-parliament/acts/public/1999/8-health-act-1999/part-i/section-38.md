@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Controls: supplementary.[^key-a60b31ecddb2b6f2dff514d7f983da40][^c4666861][^c22572801]
+## 38. Controls: supplementary.[^c-a60b31ecddb2b6f2dff514d7f983da40][^c4666861][^c22572801]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ the manufacture or supply for the purposes of the health service of health servi
 
 ## Annotations
 
-[^key-a60b31ecddb2b6f2dff514d7f983da40]: Commencement: S. 38 in force at 7.8.2017 in so far as not already in force by [S.I. 2017/810](https://www.legislation.gov.uk/uksi/2017/810), [art. 2(d)](https://www.legislation.gov.uk/uksi/2017/810/article/2/d)
+[^c-a60b31ecddb2b6f2dff514d7f983da40]: Commencement: S. 38 in force at 7.8.2017 in so far as not already in force by [S.I. 2017/810](https://www.legislation.gov.uk/uksi/2017/810), [art. 2(d)](https://www.legislation.gov.uk/uksi/2017/810/article/2/d)
 
 [^c4666861]: Commencement: S. 38 partly in force; s. 38 not in force at Royal Assent see s. 67(1); s. 38(6) in force for certain purposes at 3.8.1999 by [S.I. 1999/2177](https://www.legislation.gov.uk/uksi/1999/2177), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/1999/2177/article/2/2/d); s. 38 in force for certain purposes at 1.9.1999 by [S.I. 1999/2177](https://www.legislation.gov.uk/uksi/1999/2177), [art. 3(b)](https://www.legislation.gov.uk/uksi/1999/2177/article/3/b); s. 38(5) in force at 1.11.1999 by [S.I. 1999/2177](https://www.legislation.gov.uk/uksi/1999/2177), [art. 2(4)(a)](https://www.legislation.gov.uk/uksi/1999/2177/article/2/4/a); s. 38 in force for certain purposes at 1.11.1999 by [S.I. 1999/2177](https://www.legislation.gov.uk/uksi/1999/2177), [art. 2(4)(b)](https://www.legislation.gov.uk/uksi/1999/2177/article/2/4/b); s. 38 in force for certain purposes at 3.4.2007 by [S.I. 2007/1179](https://www.legislation.gov.uk/uksi/2007/1179), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1179/article/2/c)
 

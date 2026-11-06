@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Inspections in connection with certain courses[^key-41f7edcce096871c24b9ac0c3c7d4d74]
+## 115. Inspections in connection with certain courses[^c-41f7edcce096871c24b9ac0c3c7d4d74]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41f7edcce096871c24b9ac0c3c7d4d74]: Commencement: [S. 115](https://www.legislation.gov.uk/anaw/2016/2/section/115) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(d)](https://www.legislation.gov.uk/wsi/2017/309/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-41f7edcce096871c24b9ac0c3c7d4d74]: Commencement: [S. 115](https://www.legislation.gov.uk/anaw/2016/2/section/115) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(d)](https://www.legislation.gov.uk/wsi/2017/309/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

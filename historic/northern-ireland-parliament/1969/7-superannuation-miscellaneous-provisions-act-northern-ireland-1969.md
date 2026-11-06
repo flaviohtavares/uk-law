@@ -48,7 +48,7 @@ An Act to amend the law relating to the superannuation and other benefits payabl
 - [(d)[^c5454191] paragraphs 5 to 7 of Schedule 10 to the Social Security (Northern Ireland) Act 1975 [^m00004];\]
 - (e) section 2 of this Act.
 
-(5) In subsection (3), “derivative benefit” means any lump sum or widow's ,[^key-950f7e6b6be068da409181a6949a904d] widower’s, surviving civil partner’s or children's pension payable under the Judicial Pensions Act (Northern Ireland 1951 [^m00005], or under any of the enactments mentioned in subsection (4).
+(5) In subsection (3), “derivative benefit” means any lump sum or widow's ,[^c-950f7e6b6be068da409181a6949a904d] widower’s, surviving civil partner’s or children's pension payable under the Judicial Pensions Act (Northern Ireland 1951 [^m00005], or under any of the enactments mentioned in subsection (4).
 
 ## 2. Pensions for presidents of the industrial court and industrial tribunals.
 
@@ -199,7 +199,7 @@ a recommendation that \[[^c5454201] the Department of the Civil Service\] pay to
 
 [^m00004]: Marginal citation: 1975 c.15
 
-[^key-950f7e6b6be068da409181a6949a904d]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/apni/1969/7/section/1/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [59(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/59/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-950f7e6b6be068da409181a6949a904d]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/apni/1969/7/section/1/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [59(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/59/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^m00005]: Marginal citation: 1951 c.20
 

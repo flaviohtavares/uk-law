@@ -45,19 +45,19 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (1) These Regulations may be cited as the Personal and Occupational Pension Schemes (Protected Rights) Regulations 1996 and shall come into force on 6th April 1997.
 
-(2) [^M_F_7e3455e6-7d6e-4934-c4b9-5258e4182054][^M_F_ccbb7f90-f622-47b0-af39-50ed5b4c3294][^key-f782988d659ec30e951ac1747551899f]... In these Regulations, unless the context otherwise requires—
+(2) [^M_F_7e3455e6-7d6e-4934-c4b9-5258e4182054][^M_F_ccbb7f90-f622-47b0-af39-50ed5b4c3294][^c-f782988d659ec30e951ac1747551899f]... In these Regulations, unless the context otherwise requires—
 
 “the 1993 Act” means the Pension Schemes Act 1993;
 
-[^key-b98dd6456baba85af92811979284167a]...
+[^c-b98dd6456baba85af92811979284167a]...
 
 “child benefit” has the same meaning as in the Social Security Contributions and Benefits Act 1992 [^c1690630];
 
-“income withdrawal” has the meaning given by paragraph 7 of Schedule 28 to the Finance Act 2004;[^key-6ba574b48a47fc0e5631cd2cf2ec0d51]
+“income withdrawal” has the meaning given by paragraph 7 of Schedule 28 to the Finance Act 2004;[^c-6ba574b48a47fc0e5631cd2cf2ec0d51]
 
 “lifetime annuity” has the meaning given by paragraph 3 of Schedule 28 to the Finance Act 2004;
 
-“marital or civil partnership status”, in relation to a person, means whether that person has previously formed a marriage or a civil partnership and, if so, whether that marriage or civil partnership has ended;[^key-756a4b616e8f686003e5e241c9e10969]
+“marital or civil partnership status”, in relation to a person, means whether that person has previously formed a marriage or a civil partnership and, if so, whether that marriage or civil partnership has ended;[^c-756a4b616e8f686003e5e241c9e10969]
 
 “member” means member of an occupational pension scheme or a personal pension scheme;
 
@@ -69,18 +69,18 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 “principal appointed day” means the day designated as the principal appointed day for the purposes of Part III of the Pensions Act 1995;
 
-“scheme” means an occupational pension scheme or a personal pension scheme; [^key-a918609d3eb5bd5ecaab040b4c1fe61f]...
+“scheme” means an occupational pension scheme or a personal pension scheme; [^c-a918609d3eb5bd5ecaab040b4c1fe61f]...
 
 “scheme pension” has the meaning given by paragraph 2 of Schedule 28 to the Finance Act 2004; and
 
 “the scheme pension purchase price” has the meaning given by paragraph 3(7B) of Schedule 29 to the Finance Act 2004;
 
-“section 9(2B) rights” are—[^key-e7fc72b1ac881c4cc7c974f95c9c64d3]
+“section 9(2B) rights” are—[^c-e7fc72b1ac881c4cc7c974f95c9c64d3]
 
 - (a) rights to the payment of pensions and accrued rights to pensions (other than rights attributable to voluntary contributions) under a scheme contracted-out by virtue of section 9(2B) of the 1993 Act, so far as attributable to an earner’s service in contracted-out employment on or after the principal appointed day; and
 - (b) where a transfer payment has been made to such a scheme, any rights arising under the scheme as a consequence of that payment which are derived directly or indirectly from—
   - (i) such rights as are referred to in sub-paragraph (a) under another scheme contracted-out by virtue of section 9(2B) of that Act; or
-  - (ii) protected rights under another occupational pension scheme or under a personal pension scheme attributable to payments or contributions in respect of [^key-e0430bba70e4580c5119ca7a9241a753] ... employment on or after the principal appointed day; and[^key-2c3407a0717a89ccb452123383bf8c5b]
+  - (ii) protected rights under another occupational pension scheme or under a personal pension scheme attributable to payments or contributions in respect of [^c-e0430bba70e4580c5119ca7a9241a753] ... employment on or after the principal appointed day; and[^c-2c3407a0717a89ccb452123383bf8c5b]
 
 “specified pension or annuity” means any pension or annuity which became a pension or annuity in payment before 6th April 2005.
 
@@ -90,69 +90,69 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 - (b) in a regulation to a numbered paragraph is to the paragraph of that regulation bearing that number; and
 - (c) in a paragraph to a lettered sub-paragraph is to the sub-paragraph of that paragraph bearing that letter.
 
-## 2. Manner of calculation and verification of protected rights[^key-84f890b6153bedf7fdd6afd60aad90ff]
+## 2. Manner of calculation and verification of protected rights[^c-84f890b6153bedf7fdd6afd60aad90ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Options under section 10(2) and (3) of the 1993 Act for schemes to designate which rights are protected rights[^key-24be9490cd058240f162939fd4b5d576]
+## 3. Options under section 10(2) and (3) of the 1993 Act for schemes to designate which rights are protected rights[^c-24be9490cd058240f162939fd4b5d576]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Conditions applying to pensions and annuities which give effect to protected rights[^key-75c4a3a289513d71606b112274c87419]
+## 4. Conditions applying to pensions and annuities which give effect to protected rights[^c-75c4a3a289513d71606b112274c87419]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Circumstances in which and periods for which pension or annuity is to be paid to widow or widower after being paid to member[^key-02dfc60c005d8fd130d35ab72fa4ece6]
+## 5. Circumstances in which and periods for which pension or annuity is to be paid to widow or widower after being paid to member[^c-02dfc60c005d8fd130d35ab72fa4ece6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Interim arrangements[^key-319effb5952c461fee352f5b5d8c0c0b]
+## 6. Interim arrangements[^c-319effb5952c461fee352f5b5d8c0c0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Payments made under interim arrangements[^key-e355b12acd7b036a170bb45279307368]
+## 7. Payments made under interim arrangements[^c-e355b12acd7b036a170bb45279307368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Giving effect to protected rights by the provision of a lump sum[^key-fd239f376e9ebca9098477d2dbbd604b]
+## 8. Giving effect to protected rights by the provision of a lump sum[^c-fd239f376e9ebca9098477d2dbbd604b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Suspension and forfeiture of payments giving effect to protected rights[^key-3c1aa62467d090b79947e56f53c9fa67]
+## 9. Suspension and forfeiture of payments giving effect to protected rights[^c-3c1aa62467d090b79947e56f53c9fa67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Choice of insurance company by annuitant[^key-d85fd6b9c2b6a24e960bc8067bf74c47]
+## 10. Choice of insurance company by annuitant[^c-d85fd6b9c2b6a24e960bc8067bf74c47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Insurance companies that may provide protected rights by way of annuities[^key-fb7fd3d628e69a974ced28b8f07feb4b]
+## 11. Insurance companies that may provide protected rights by way of annuities[^c-fb7fd3d628e69a974ced28b8f07feb4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Death of member before effect given to his protected rights[^key-bb69dfdf2cd0f1cdd2114ff7bddc788e]
+## 12. Death of member before effect given to his protected rights[^c-bb69dfdf2cd0f1cdd2114ff7bddc788e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Death before effect given to protected rights: interim arrangements for widow, widower or surviving civil partner[^key-f93d93338b1cbcef13919f7d287889c4][^key-04be635c5a422b8a8da8d99f84a99fe6]
+## 13. Death before effect given to protected rights: interim arrangements for widow, widower or surviving civil partner[^c-f93d93338b1cbcef13919f7d287889c4][^c-04be635c5a422b8a8da8d99f84a99fe6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Enforceable entitlement after death of member[^key-36907e71fb6ef77bee56dd84acaa2bd6]
+## 14. Enforceable entitlement after death of member[^c-36907e71fb6ef77bee56dd84acaa2bd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Further requirements in respect of giving effect to protected rights[^key-01af41b7a3c997433fde1ee811ffb007]
+## 15. Further requirements in respect of giving effect to protected rights[^c-01af41b7a3c997433fde1ee811ffb007]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 16. Personal pension schemes—notifications to the Secretary of State
 
-(1)[^key-9f7fa0c0ce684486f55cb1a12f373ad0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9f7fa0c0ce684486f55cb1a12f373ad0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-548c04181cfc3ae0a9cc5988fa9da476] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-548c04181cfc3ae0a9cc5988fa9da476] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Tax-exemption and tax-approval[^key-f89c01194d33092057ffd7dd16e81a05]
+## 17. Tax-exemption and tax-approval[^c-f89c01194d33092057ffd7dd16e81a05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -210,56 +210,56 @@ An assessment of the compliance cost of the measures arising from the Pensions A
 
 [^M_F_ccbb7f90-f622-47b0-af39-50ed5b4c3294]: Textual amendment: Reg. 1(2) revoked in part (6.4.2012) by S.I. 2011/1246, art. 1(2)(a), 10(a)
 
-[^key-f782988d659ec30e951ac1747551899f]: Textual amendment: Reg. 1(2) revoked in part (6.4.2013) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/b), [26(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/26/a)
+[^c-f782988d659ec30e951ac1747551899f]: Textual amendment: Reg. 1(2) revoked in part (6.4.2013) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/b), [26(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/26/a)
 
-[^key-b98dd6456baba85af92811979284167a]: Textual amendment: Words in reg. 1(2) omitted (1.10.2008) by virtue of [Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/2/a)
+[^c-b98dd6456baba85af92811979284167a]: Textual amendment: Words in reg. 1(2) omitted (1.10.2008) by virtue of [Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/2/a)
 
 [^c1690630]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).*See* Part IX of that Act.
 
-[^key-6ba574b48a47fc0e5631cd2cf2ec0d51]: Textual amendment: Words in reg. 1(2) inserted (6.4.2007) by [Taxation of Pension Schemes (Protected Rights and Pension Commencement Lump Sums) (Amendment) Order 2007 (S.I. 2007/829)](https://www.legislation.gov.uk/uksi/2007/829), [arts. 1](https://www.legislation.gov.uk/uksi/2007/829/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/829/article/4/a)
+[^c-6ba574b48a47fc0e5631cd2cf2ec0d51]: Textual amendment: Words in reg. 1(2) inserted (6.4.2007) by [Taxation of Pension Schemes (Protected Rights and Pension Commencement Lump Sums) (Amendment) Order 2007 (S.I. 2007/829)](https://www.legislation.gov.uk/uksi/2007/829), [arts. 1](https://www.legislation.gov.uk/uksi/2007/829/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/829/article/4/a)
 
-[^key-756a4b616e8f686003e5e241c9e10969]: Textual amendment: Words in reg. 1(2) inserted (5.12.2005) by [Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/26)
+[^c-756a4b616e8f686003e5e241c9e10969]: Textual amendment: Words in reg. 1(2) inserted (5.12.2005) by [Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/26)
 
-[^key-a918609d3eb5bd5ecaab040b4c1fe61f]: Textual amendment: Word in reg. 1(2) omitted (6.4.2005) by virtue of [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2005/704/regulation/3/a)
+[^c-a918609d3eb5bd5ecaab040b4c1fe61f]: Textual amendment: Word in reg. 1(2) omitted (6.4.2005) by virtue of [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2005/704/regulation/3/a)
 
-[^key-e7fc72b1ac881c4cc7c974f95c9c64d3]: Textual amendment: Words in reg. 1(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/786)](https://www.legislation.gov.uk/uksi/1997/786), [reg. 1](https://www.legislation.gov.uk/uksi/1997/786/regulation/1), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/9/2)
+[^c-e7fc72b1ac881c4cc7c974f95c9c64d3]: Textual amendment: Words in reg. 1(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/786)](https://www.legislation.gov.uk/uksi/1997/786), [reg. 1](https://www.legislation.gov.uk/uksi/1997/786/regulation/1), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/9/2)
 
-[^key-e0430bba70e4580c5119ca7a9241a753]: Textual amendment: Words in reg. 1(2) deleted (30.12.1999) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/3198)](https://www.legislation.gov.uk/uksi/1999/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/1999/3198/regulation/12)
+[^c-e0430bba70e4580c5119ca7a9241a753]: Textual amendment: Words in reg. 1(2) deleted (30.12.1999) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/3198)](https://www.legislation.gov.uk/uksi/1999/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/1999/3198/regulation/12)
 
-[^key-2c3407a0717a89ccb452123383bf8c5b]: Textual amendment: Words in reg. 1(2) inserted (6.4.2005) by [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2005/704/regulation/3/b)
+[^c-2c3407a0717a89ccb452123383bf8c5b]: Textual amendment: Words in reg. 1(2) inserted (6.4.2005) by [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2005/704/regulation/3/b)
 
-[^key-84f890b6153bedf7fdd6afd60aad90ff]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/1996/1537/regulation/2) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/b)
+[^c-84f890b6153bedf7fdd6afd60aad90ff]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/1996/1537/regulation/2) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/b)
 
-[^key-24be9490cd058240f162939fd4b5d576]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1996/1537/regulation/3) revoked (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [10(b)](https://www.legislation.gov.uk/uksi/2011/1246/article/10/b)
+[^c-24be9490cd058240f162939fd4b5d576]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1996/1537/regulation/3) revoked (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [10(b)](https://www.legislation.gov.uk/uksi/2011/1246/article/10/b)
 
-[^key-75c4a3a289513d71606b112274c87419]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1996/1537/regulation/4) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/c)
+[^c-75c4a3a289513d71606b112274c87419]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1996/1537/regulation/4) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/c)
 
-[^key-02dfc60c005d8fd130d35ab72fa4ece6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1996/1537/regulation/5) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(d)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/d)
+[^c-02dfc60c005d8fd130d35ab72fa4ece6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1996/1537/regulation/5) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(d)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/d)
 
-[^key-319effb5952c461fee352f5b5d8c0c0b]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1996/1537/regulation/6) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(e)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/e)
+[^c-319effb5952c461fee352f5b5d8c0c0b]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1996/1537/regulation/6) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(e)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/e)
 
-[^key-e355b12acd7b036a170bb45279307368]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1996/1537/regulation/7) omitted (6.4.2006) by virtue of [Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [21(2)](https://www.legislation.gov.uk/uksi/2006/745/article/21/2)
+[^c-e355b12acd7b036a170bb45279307368]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1996/1537/regulation/7) omitted (6.4.2006) by virtue of [Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [21(2)](https://www.legislation.gov.uk/uksi/2006/745/article/21/2)
 
-[^key-fd239f376e9ebca9098477d2dbbd604b]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1996/1537/regulation/8) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(f)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/f)
+[^c-fd239f376e9ebca9098477d2dbbd604b]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1996/1537/regulation/8) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(f)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/f)
 
-[^key-3c1aa62467d090b79947e56f53c9fa67]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1996/1537/regulation/9) revoked (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [10(c)](https://www.legislation.gov.uk/uksi/2011/1246/article/10/c)
+[^c-3c1aa62467d090b79947e56f53c9fa67]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1996/1537/regulation/9) revoked (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [10(c)](https://www.legislation.gov.uk/uksi/2011/1246/article/10/c)
 
-[^key-d85fd6b9c2b6a24e960bc8067bf74c47]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1996/1537/regulation/10) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(g)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/g)
+[^c-d85fd6b9c2b6a24e960bc8067bf74c47]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1996/1537/regulation/10) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(g)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/g)
 
-[^key-fb7fd3d628e69a974ced28b8f07feb4b]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1996/1537/regulation/11) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(h)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/h)
+[^c-fb7fd3d628e69a974ced28b8f07feb4b]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1996/1537/regulation/11) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(h)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/h)
 
-[^key-bb69dfdf2cd0f1cdd2114ff7bddc788e]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1996/1537/regulation/12) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(i)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/i)
+[^c-bb69dfdf2cd0f1cdd2114ff7bddc788e]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1996/1537/regulation/12) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(i)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/i)
 
-[^key-f93d93338b1cbcef13919f7d287889c4]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1996/1537/regulation/13) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(j)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/j)
+[^c-f93d93338b1cbcef13919f7d287889c4]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1996/1537/regulation/13) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(j)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/j)
 
-[^key-04be635c5a422b8a8da8d99f84a99fe6]: Textual amendment: Words in reg. 13 substituted (5.12.2005) by [Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 32(a)](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/32/a)
+[^c-04be635c5a422b8a8da8d99f84a99fe6]: Textual amendment: Words in reg. 13 substituted (5.12.2005) by [Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 32(a)](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/32/a)
 
-[^key-36907e71fb6ef77bee56dd84acaa2bd6]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/1996/1537/regulation/14) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(k)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/k)
+[^c-36907e71fb6ef77bee56dd84acaa2bd6]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/1996/1537/regulation/14) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(k)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/k)
 
-[^key-01af41b7a3c997433fde1ee811ffb007]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/1996/1537/regulation/15) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(l)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/l)
+[^c-01af41b7a3c997433fde1ee811ffb007]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/1996/1537/regulation/15) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(l)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/l)
 
-[^key-9f7fa0c0ce684486f55cb1a12f373ad0]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/uksi/1996/1537/regulation/16/1) revoked (6.4.2013) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/b), [26(b)](https://www.legislation.gov.uk/uksi/2011/1246/article/26/b)
+[^c-9f7fa0c0ce684486f55cb1a12f373ad0]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/uksi/1996/1537/regulation/16/1) revoked (6.4.2013) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/b), [26(b)](https://www.legislation.gov.uk/uksi/2011/1246/article/26/b)
 
-[^key-548c04181cfc3ae0a9cc5988fa9da476]: Textual amendment: Reg. 16(2) revoked (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [10(d)](https://www.legislation.gov.uk/uksi/2011/1246/article/10/d)
+[^c-548c04181cfc3ae0a9cc5988fa9da476]: Textual amendment: Reg. 16(2) revoked (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [10(d)](https://www.legislation.gov.uk/uksi/2011/1246/article/10/d)
 
-[^key-f89c01194d33092057ffd7dd16e81a05]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1996/1537/regulation/17) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(m)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/m)
+[^c-f89c01194d33092057ffd7dd16e81a05]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1996/1537/regulation/17) revoked (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [7(m)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/7/m)

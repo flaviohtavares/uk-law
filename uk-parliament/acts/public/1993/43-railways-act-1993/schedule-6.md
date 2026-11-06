@@ -30,7 +30,7 @@ Section 59.
 
 - (a) as if references in those sections to an administration order were references to a railway administration order and references to an administrator were references to a special railway administrator;
 - (aa)[^c19019491] as if references in those sections to the appropriate national authority were to be construed in accordance with section 59(6)(za) of this Act; and
-- (b) where the company in relation to which the order has been made is a protected railway company which is not a company registered under the Companies Act 2006 in England and Wales or Scotland[^key-a5ec014a955687d2ef3bba5df0dbb01a], as if references in those sections to a company included references to such a company.
+- (b) where the company in relation to which the order has been made is a protected railway company which is not a company registered under the Companies Act 2006 in England and Wales or Scotland[^c-a5ec014a955687d2ef3bba5df0dbb01a], as if references in those sections to a company included references to such a company.
 
 #### Effect of order
 
@@ -54,7 +54,7 @@ Section 59.
 **4.** In section 14 of the 1986 Act (general powers of administrator), as applied by this Part of this Schedule,—
 
 - (a) in subsection (1)(b), the reference to the powers specified in Schedule 1 to that Act shall be taken to include a reference to a power to act on behalf of the company for the purposes of this Act or any provision of a local or private Act which confers any power, or imposes any duty or obligation, on the company; and
-- (b) in subsection (4), the reference to a power conferred by the company’s articles of association[^key-1fd2d2f5715f667cebafa2d13d4d2c6d] —
+- (b) in subsection (4), the reference to a power conferred by the company’s articles of association[^c-1fd2d2f5715f667cebafa2d13d4d2c6d] —
   - (i) shall be taken to include a reference to any power conferred by any provision of a local or private Act which confers any power, or imposes any duty or obligation, on the company; and
   - (ii) in the case of a company which is an unregistered company, shall be taken also to include a reference to any power conferred by the company’s constitution.
 
@@ -89,18 +89,18 @@ Section 59.
 
 (4)[^c19014921] In subsection (4), the words “**or varied**” and “**or variation**” shall be omitted and for the words “ to the registrar of companies ” there shall be substituted—
 
-- (a)[^key-23f58ee1602aed5b5d1a2579c8227c6d] where the company—
+- (a)[^c-23f58ee1602aed5b5d1a2579c8227c6d] where the company—
   - (i) is registered under the Companies Act 2006, or
   - (ii) is subject to a requirement imposed by regulations under section 1043 or 1046 of the Companies Act 2006 (unregistered UK companies or overseas companies) to deliver any documents to the registrar of companies,
 
-  the words “to the Office of Rail and Road[^key-2d0ef8e2a1e361e43e35fd367e6ec38f] , the appropriate national authority and the registrar of companies”; and
+  the words “to the Office of Rail and Road[^c-2d0ef8e2a1e361e43e35fd367e6ec38f] , the appropriate national authority and the registrar of companies”; and
 - (b) where paragraph (a) above does not apply, the words “to the Office of Rail and Road and the appropriate national authority”.
 
 #### Notice of making of order
 
 **8.**[^c19015011] In section 21(2) of the 1986 Act (notice of order to be given by administrator), as applied by this Part of this Schedule, for the words “to the registrar of companies" there shall be substituted—
 
-- (a)[^key-5cf271f724c343666a5a4530f48a5ed3] where the company—
+- (a)[^c-5cf271f724c343666a5a4530f48a5ed3] where the company—
   - (i) is registered under the Companies Act 2006, or
   - (ii) is subject to a requirement imposed by regulations under section 1043 or 1046 of the Companies Act 2006 (unregistered UK companies or overseas companies) to deliver any documents to the registrar of companies,
 
@@ -134,7 +134,7 @@ Section 59.
 > - (b) the Office of Rail and Road
 > - (c) [^c19012261]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > - (d) all creditors of the company, so far as the special railway administrator is aware of their addresses; and
-> - (e)[^key-823dee484e5f32413b38c55fd2bfc931] where the company—
+> - (e)[^c-823dee484e5f32413b38c55fd2bfc931] where the company—
 >   - (i) is registered under the Companies Act 2006, or
 >   - (ii) is subject to a requirement imposed by regulations under section 1043 or 1046 of the Companies Act 2006 (unregistered UK companies or overseas companies) to deliver any documents to the registrar of companies,
 >
@@ -173,11 +173,11 @@ Section 59.
 
 (5)[^c19015991] For subsection (6) there shall be substituted—
 
-> (6) Where a railway administration order is discharged in consequence of such provision in an order under this section as is mentioned in subsection (4)(d)(i), the special railway administrator shall, within 14 days after the date on which the discharge takes effect, send a copy[^key-268b945f79ab925c62cfd9919882618b] of the order under this section—
+> (6) Where a railway administration order is discharged in consequence of such provision in an order under this section as is mentioned in subsection (4)(d)(i), the special railway administrator shall, within 14 days after the date on which the discharge takes effect, send a copy[^c-268b945f79ab925c62cfd9919882618b] of the order under this section—
 >
 > - (a) to the Office of Rail and Road;
 > - (b) to the Director of Passenger Rail Franchising; and
-> - (c)[^key-80fa0bcda31eaf0d7932cd84bdffe0c5] where the company—
+> - (c)[^c-80fa0bcda31eaf0d7932cd84bdffe0c5] where the company—
 >   - (i) is registered under the Companies Act 2006, or
 >   - (ii) is subject to a requirement imposed by regulations under section 1043 or 1046 of the Companies Act 2006 (unregistered UK companies or overseas companies) to deliver any documents to the registrar of companies,
 >
@@ -307,7 +307,7 @@ are being managed by the special railway administrator.
 
 [^c19019491]: Textual amendment: Sch. 6 para. 1(aa) inserted (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 49(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/49/5), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
-[^key-a5ec014a955687d2ef3bba5df0dbb01a]: Textual amendment: Words in Sch. 6 para. 1(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-a5ec014a955687d2ef3bba5df0dbb01a]: Textual amendment: Words in Sch. 6 para. 1(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c14118711]: Textual amendment: Words in [Sch. 6 para. 2(b)](https://www.legislation.gov.uk/ukpga/1993/43/schedule/6/paragraph/2/b) inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 252](https://www.legislation.gov.uk/ukpga/2000/38/section/252), [Sch. 27 para. 48](https://www.legislation.gov.uk/ukpga/2000/38/schedule/27/paragraph/48); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
@@ -315,7 +315,7 @@ are being managed by the special railway administrator.
 
 [^c19009901]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/1993/43/schedule/6/paragraph/3): "in the substituted subsection (3), paragraph (b)" repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-1fd2d2f5715f667cebafa2d13d4d2c6d]: Textual amendment: Words in [Sch. 6 para. 4(b)](https://www.legislation.gov.uk/ukpga/1993/43/schedule/6/paragraph/4/b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-1fd2d2f5715f667cebafa2d13d4d2c6d]: Textual amendment: Words in [Sch. 6 para. 4(b)](https://www.legislation.gov.uk/ukpga/1993/43/schedule/6/paragraph/4/b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c19012331]: Textual amendment: Words in Sch. 6 para. 7 substituted (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), ss. {49(4)(c)}, 60; [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
@@ -323,26 +323,26 @@ are being managed by the special railway administrator.
 
 [^c19014921]: Textual amendment: By [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 49(6)](https://www.legislation.gov.uk/ukpga/2005/14/section/49/6), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60); S.I 2005/2812, {art. 2(1)}, Sch. 1 it is provided that for the words "the Strategic Rail Authority" the words "the appropriate national authority" are substituted in Sch. 6 para. 7(4) (16.10.2005)
 
-[^key-23f58ee1602aed5b5d1a2579c8227c6d]: Textual amendment: Sch. 6 para. 7(4)(a)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(c)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-23f58ee1602aed5b5d1a2579c8227c6d]: Textual amendment: Sch. 6 para. 7(4)(a)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(c)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-2d0ef8e2a1e361e43e35fd367e6ec38f]: Textual amendment: Words in [Sch. 6 paras. 7-10](https://www.legislation.gov.uk/ukpga/1993/43/schedule/6/paragraph/7) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(ddd)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/ddd)
+[^c-2d0ef8e2a1e361e43e35fd367e6ec38f]: Textual amendment: Words in [Sch. 6 paras. 7-10](https://www.legislation.gov.uk/ukpga/1993/43/schedule/6/paragraph/7) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(ddd)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/ddd)
 
 [^c19015011]: Textual amendment: By [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 49(6)](https://www.legislation.gov.uk/ukpga/2005/14/section/49/6), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60); S.I 2005/2812, {art. 2(1)}, Sch. 1 it is provided that for the words "the Strategic Rail Authority" the words "the appropriate national authority" are substituted in Sch. 6 para. 8 (16.10.2005)
 
-[^key-5cf271f724c343666a5a4530f48a5ed3]: Textual amendment: Sch. 6 para. 8(a)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(c)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-5cf271f724c343666a5a4530f48a5ed3]: Textual amendment: Sch. 6 para. 8(a)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(c)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c19012261]: Textual amendment: Sch. 6 para. 9: words in subsections (1)(c)(2A)(c) "of the substituted section 23" repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14118741]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-823dee484e5f32413b38c55fd2bfc931]: Textual amendment: Words in Sch. 6 para. 9 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(d)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/d) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-823dee484e5f32413b38c55fd2bfc931]: Textual amendment: Words in Sch. 6 para. 9 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(d)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/d) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c19012301]: Textual amendment: Sch. 6 para. 10(2): words "in the substituted subsection 21(1A)" repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c19015991]: Textual amendment: By [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 49(6)](https://www.legislation.gov.uk/ukpga/2005/14/section/49/6), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60); S.I 2005/2812, {art. 2(1)}, Sch. 1 it is provided that for the words "the Strategic Rail Authority" the words "the appropriate national authority" are substituted in Sch. 6 para. 10(5) (16.10.2005)
 
-[^key-268b945f79ab925c62cfd9919882618b]: Textual amendment: Words in Sch. 6 para. 10(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(e)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/e/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-268b945f79ab925c62cfd9919882618b]: Textual amendment: Words in Sch. 6 para. 10(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(e)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/e/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-80fa0bcda31eaf0d7932cd84bdffe0c5]: Textual amendment: Words in Sch. 6 para. 10(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(e)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/e/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-80fa0bcda31eaf0d7932cd84bdffe0c5]: Textual amendment: Words in Sch. 6 para. 10(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(7)(e)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/7/e/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c14118771]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).

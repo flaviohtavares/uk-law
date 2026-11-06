@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Report on disposal of Crown's shares in UK Green Investment Bank company[^key-7729f6ffbd605b02d3a6e9bc2397966a]
+## 6A. Report on disposal of Crown's shares in UK Green Investment Bank company[^c-7729f6ffbd605b02d3a6e9bc2397966a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7729f6ffbd605b02d3a6e9bc2397966a]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/2013/24/section/6A) inserted (18.8.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 37(6)](https://www.legislation.gov.uk/ukpga/2016/12/section/37/6), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5) (with [s. 38](https://www.legislation.gov.uk/ukpga/2016/12/section/38)); [S.I. 2017/842](https://www.legislation.gov.uk/uksi/2017/842), [reg. 2](https://www.legislation.gov.uk/uksi/2017/842/regulation/2)
+[^c-7729f6ffbd605b02d3a6e9bc2397966a]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/2013/24/section/6A) inserted (18.8.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 37(6)](https://www.legislation.gov.uk/ukpga/2016/12/section/37/6), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5) (with [s. 38](https://www.legislation.gov.uk/ukpga/2016/12/section/38)); [S.I. 2017/842](https://www.legislation.gov.uk/uksi/2017/842), [reg. 2](https://www.legislation.gov.uk/uksi/2017/842/regulation/2)

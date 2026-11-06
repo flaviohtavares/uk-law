@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110.[^key-ca552a1fb8bd51d392fdda38d236f615]
+## 110.[^c-ca552a1fb8bd51d392fdda38d236f615]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ For Article 24, substitute—
 >
 > **3.**
 >
-> The person who, for the first time, places on the market a feed material that is not listed in the Catalogue must immediately notify its use to the representatives of feed businesses in Great Britain[^key-db32328f474d7f0c4916f52a91e2adb1].
+> The person who, for the first time, places on the market a feed material that is not listed in the Catalogue must immediately notify its use to the representatives of feed businesses in Great Britain[^c-db32328f474d7f0c4916f52a91e2adb1].
 >
 > **4.**
 >
@@ -50,6 +50,6 @@ For Article 24, substitute—
 
 ## Annotations
 
-[^key-ca552a1fb8bd51d392fdda38d236f615]: Commencement: Reg. 110 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ca552a1fb8bd51d392fdda38d236f615]: Commencement: Reg. 110 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-db32328f474d7f0c4916f52a91e2adb1]: Textual amendment: Words in reg. 110 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(20)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/20)
+[^c-db32328f474d7f0c4916f52a91e2adb1]: Textual amendment: Words in reg. 110 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(20)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/20)

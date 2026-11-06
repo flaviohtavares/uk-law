@@ -68,7 +68,7 @@ Political expenditure is exempt from the need for authorisation under Part 14 of
 (1) This article applies to political expenditure incurred in respect of the preparation, publication or dissemination of news material, where that material contains matter which would render that preparation, publication or dissemination on the part of the company an activity on the part of the company that is capable of being reasonably regarded as intended—
 
 - (a) to affect public support for a political party or other political organisation, or an independent election candidate, or
-- (b) to influence voters in relation to any national or regional referendum held under the law of the United Kingdom[^key-687438bb5c591aa73059346830e7a616].
+- (b) to influence voters in relation to any national or regional referendum held under the law of the United Kingdom[^c-687438bb5c591aa73059346830e7a616].
 
 (2) Until 1st October 2008, paragraph (1)(a) has effect as if the words “or an independent election candidate” were omitted.
 
@@ -103,4 +103,4 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c18816571]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46)
 
-[^key-687438bb5c591aa73059346830e7a616]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/2081/article/3/1/b) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/348/schedule/2/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-687438bb5c591aa73059346830e7a616]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/2081/article/3/1/b) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/348/schedule/2/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

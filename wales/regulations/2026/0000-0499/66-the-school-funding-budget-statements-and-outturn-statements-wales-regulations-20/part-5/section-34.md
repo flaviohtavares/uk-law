@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Timing of publication of budget statements[^key-d86032931ac0022aa269d5cf41f7d580]
+## 34. Timing of publication of budget statements[^c-d86032931ac0022aa269d5cf41f7d580]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d86032931ac0022aa269d5cf41f7d580]: Commencement: Reg. 34 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-d86032931ac0022aa269d5cf41f7d580]: Commencement: Reg. 34 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

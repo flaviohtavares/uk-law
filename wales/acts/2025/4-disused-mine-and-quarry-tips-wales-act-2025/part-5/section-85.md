@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Power to modify application of Act to Authority land[^key-469392d623ebfda9197c92debf613248]
+## 85. Power to modify application of Act to Authority land[^c-469392d623ebfda9197c92debf613248]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Welsh Ministers may, by regulations, modify the application of this Act in r
 
 ## Annotations
 
-[^key-469392d623ebfda9197c92debf613248]: Commencement: S. 85 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-469392d623ebfda9197c92debf613248]: Commencement: S. 85 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9C. Widening access to fundable higher education[^key-c2d4bbc8ce134a003db84e6775e34423]
+## 9C. Widening access to fundable higher education[^c-c2d4bbc8ce134a003db84e6775e34423]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2d4bbc8ce134a003db84e6775e34423]: Textual amendment: S. 9C inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 3](https://www.legislation.gov.uk/asp/2013/12/section/3), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-c2d4bbc8ce134a003db84e6775e34423]: Textual amendment: S. 9C inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 3](https://www.legislation.gov.uk/asp/2013/12/section/3), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)

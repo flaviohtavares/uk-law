@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Child's duty to attend children's hearing[^key-5d1bde638d411092b45d7afe00638db5]
+## 73. Child's duty to attend children's hearing[^c-5d1bde638d411092b45d7afe00638db5]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d1bde638d411092b45d7afe00638db5]: Commencement: S. 73 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-5d1bde638d411092b45d7afe00638db5]: Commencement: S. 73 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

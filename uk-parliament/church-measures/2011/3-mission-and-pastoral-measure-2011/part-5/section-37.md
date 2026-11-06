@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 37. Status and duties of new benefices[^key-1076e348daa219314541c7f4be2ce64b]
+## 37. Status and duties of new benefices[^c-1076e348daa219314541c7f4be2ce64b]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1076e348daa219314541c7f4be2ce64b]: Commencement: S. 37 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-1076e348daa219314541c7f4be2ce64b]: Commencement: S. 37 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

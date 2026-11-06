@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Provision of relevant Scottish police information[^key-ee87c9b54dc0aff29d5d11a018b92f83]
+## 14. Provision of relevant Scottish police information[^c-ee87c9b54dc0aff29d5d11a018b92f83]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee87c9b54dc0aff29d5d11a018b92f83]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/13/section/14) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-ee87c9b54dc0aff29d5d11a018b92f83]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/13/section/14) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

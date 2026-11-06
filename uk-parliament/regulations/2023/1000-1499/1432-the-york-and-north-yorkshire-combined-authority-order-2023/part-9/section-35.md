@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Secondments[^key-88f1000eadc17a60fd45d5ae01090eaf]
+## 35. Secondments[^c-88f1000eadc17a60fd45d5ae01090eaf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the case of a person who immediately before 7th May 2024 is seconded to the p
 
 ## Annotations
 
-[^key-88f1000eadc17a60fd45d5ae01090eaf]: Commencement: Art. 35 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-88f1000eadc17a60fd45d5ae01090eaf]: Commencement: Art. 35 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

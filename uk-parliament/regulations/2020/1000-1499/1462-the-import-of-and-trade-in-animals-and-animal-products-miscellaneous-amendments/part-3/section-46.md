@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Commission Decision [2006/168/EC](https://www.legislation.gov.uk/european/decision/2006/0168) establishing the animal health and veterinary certification requirements for imports into the Community of bovine embryos[^key-96ca2871bbc9fe658eda9bf868e67a56]
+## 46. Commission Decision [2006/168/EC](https://www.legislation.gov.uk/european/decision/2006/0168) establishing the animal health and veterinary certification requirements for imports into the Community of bovine embryos[^c-96ca2871bbc9fe658eda9bf868e67a56]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,4 +96,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96ca2871bbc9fe658eda9bf868e67a56]: Commencement: Reg. 46 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-96ca2871bbc9fe658eda9bf868e67a56]: Commencement: Reg. 46 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

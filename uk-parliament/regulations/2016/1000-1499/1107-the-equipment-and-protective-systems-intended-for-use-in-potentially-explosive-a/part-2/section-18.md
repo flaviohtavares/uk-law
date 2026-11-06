@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Prohibition on placing on the market products which are not in conformity[^key-0366fb7425af2397d7eb2ce9dfb530eb]
+## 18. Prohibition on placing on the market products which are not in conformity[^c-0366fb7425af2397d7eb2ce9dfb530eb]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ An importer must not place a product on the market unless it is in conformity wi
 
 ## Annotations
 
-[^key-0366fb7425af2397d7eb2ce9dfb530eb]: Commencement: Reg. 18 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-0366fb7425af2397d7eb2ce9dfb530eb]: Commencement: Reg. 18 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

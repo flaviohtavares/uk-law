@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Further amendment of 1980 Act in respect of recorded children.[^key-33cee4a0d619027fbe61e67995542d15]
+## 72. Further amendment of 1980 Act in respect of recorded children.[^c-33cee4a0d619027fbe61e67995542d15]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33cee4a0d619027fbe61e67995542d15]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/1989/39/section/72) repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 6(b)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/6/b); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-33cee4a0d619027fbe61e67995542d15]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/1989/39/section/72) repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 6(b)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/6/b); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 503. How beneficiary's income is reduced[^key-dcfde42a8a4a87c4ccb2cfdeeb0c2f76]
+## 503. How beneficiary's income is reduced[^c-dcfde42a8a4a87c4ccb2cfdeeb0c2f76]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,8 +26,8 @@ summary: ''
 
 - first, reduce dividend income within subsection (3) (if any),
 - second, reduce dividend income not within that subsection (if any),
-- third, reduce savings income (if any), [^key-51efcd883aea0fc20b614502e8941cad]...
-- fourth, reduce property income (if any), and[^key-823be05b292771c4d20c3f3488ed760b]
+- third, reduce savings income (if any), [^c-51efcd883aea0fc20b614502e8941cad]...
+- fourth, reduce property income (if any), and[^c-823be05b292771c4d20c3f3488ed760b]
 - fifth, reduce other income (if any).
 
 (3) Income is within this subsection so far as it is—
@@ -56,8 +56,8 @@ The result is the reduced amount of the component of the beneficiary's income.
 
 ## Annotations
 
-[^key-dcfde42a8a4a87c4ccb2cfdeeb0c2f76]: Modification: S. 503 applied (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 611(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/611/2), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-dcfde42a8a4a87c4ccb2cfdeeb0c2f76]: Modification: S. 503 applied (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 611(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/611/2), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-51efcd883aea0fc20b614502e8941cad]: Textual amendment: Word in s. 503(2) omitted (for the tax year 2027-28 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/28)
+[^c-51efcd883aea0fc20b614502e8941cad]: Textual amendment: Word in s. 503(2) omitted (for the tax year 2027-28 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/28)
 
-[^key-823be05b292771c4d20c3f3488ed760b]: Textual amendment: Words in s. 503(2) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/28)
+[^c-823be05b292771c4d20c3f3488ed760b]: Textual amendment: Words in s. 503(2) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/28)

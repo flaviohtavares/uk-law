@@ -26,7 +26,7 @@ summary: ''
 
 #### The rule
 
-**1.**[^key-22b1eccd3e4ae02657cabbb3be73c9af] (1) A tenancy or licence which is not within section 7 may be an occupation contract if—
+**1.**[^c-22b1eccd3e4ae02657cabbb3be73c9af] (1) A tenancy or licence which is not within section 7 may be an occupation contract if—
 
 - (a) it confers the right to occupy the dwelling as a home on an individual (“**the beneficiary**”) other than the person with whom it is made, and
 - (b) the notice condition is met.
@@ -37,7 +37,7 @@ summary: ''
 
 #### Contracts for another's benefit: further provision
 
-**2.**[^key-2c9189571763055e1c3cc305e9cecdd9] (1) This paragraph applies where a notice under paragraph 1(3) is given in relation to a tenancy or licence within paragraph 1(1)(a).
+**2.**[^c-2c9189571763055e1c3cc305e9cecdd9] (1) This paragraph applies where a notice under paragraph 1(3) is given in relation to a tenancy or licence within paragraph 1(1)(a).
 
 (2) The notice may specify provisions of this Act and regulations made under it which are to have effect in relation to the occupation contract as if references to the contract-holder were references to the beneficiary.
 
@@ -49,7 +49,7 @@ summary: ''
 
 #### The rule
 
-**3.**[^key-90ffc06c0025dea9605d38aa2b6869f4] (1) A tenancy or licence within section 7, but to which sub-paragraph (2) applies, is not an occupation contract unless the notice condition is met.
+**3.**[^c-90ffc06c0025dea9605d38aa2b6869f4] (1) A tenancy or licence within section 7, but to which sub-paragraph (2) applies, is not an occupation contract unless the notice condition is met.
 
 (2) This sub-paragraph applies to a tenancy or licence—
 
@@ -62,10 +62,10 @@ summary: ''
 
 #### Meaning of “care institution”
 
-**4.**[^key-446fb88da8bceb99009882cedcb9696f] “**Care institution**” means—
+**4.**[^c-446fb88da8bceb99009882cedcb9696f] “**Care institution**” means—
 
 - (a) a health service hospital within the meaning of the National Health Service (Wales) Act 2006 (c. 49) (see section 206(1) of that Act),
-- (b)[^key-59620043ef3d04394be961e7a0ce78e7] an independent hospital within the meaning of the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14) (see section 2 of that Act),
+- (b)[^c-59620043ef3d04394be961e7a0ce78e7] an independent hospital within the meaning of the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14) (see section 2 of that Act),
 - (c) a place at which a care home service within the meaning of paragraph 1 of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act [2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2) is provided wholly or mainly to persons aged 18 or over,
 - (c) a place at which a care home service within the meaning of paragraph 1 of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act [2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2) is provided wholly or mainly to persons aged 18 or over,
 - (d) a place at which a residential family centre service within the meaning of paragraph 3 of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act 2016 is provided, or
@@ -75,7 +75,7 @@ summary: ''
 
 #### Meaning of “temporary expedient”
 
-**5.**[^key-8579a91794c4086762bbcc403b3ccd3a] (1) A tenancy or licence is a temporary expedient if it is made as a temporary expedient with a person who entered the dwelling to which it relates (or any other dwelling) as a trespasser.
+**5.**[^c-8579a91794c4086762bbcc403b3ccd3a] (1) A tenancy or licence is a temporary expedient if it is made as a temporary expedient with a person who entered the dwelling to which it relates (or any other dwelling) as a trespasser.
 
 (2) It is irrelevant whether or not, before the beginning of the tenancy or licence, another tenancy or licence to occupy the dwelling (or any other dwelling) had been made with the person.
 
@@ -83,7 +83,7 @@ summary: ''
 
 #### Meaning of “shared accommodation”
 
-**6.**[^key-080fe8184f86413e977d4fc168767e6d] (1) The shared accommodation exception applies if—
+**6.**[^c-080fe8184f86413e977d4fc168767e6d] (1) The shared accommodation exception applies if—
 
 - (a) the terms of the tenancy or licence provide for the tenant or licensee to share any accommodation with the landlord, and
 - (b) immediately before the tenancy or licence is made the landlord occupies as the landlord's only or principal home a dwelling which includes all or part of the shared accommodation.
@@ -111,7 +111,7 @@ summary: ''
 
 #### The rule
 
-**7.**[^key-b4804d4898cebfdb2f580135af6d1b22] (1) A tenancy or licence is not an occupation contract at any time when this paragraph applies to it.
+**7.**[^c-b4804d4898cebfdb2f580135af6d1b22] (1) A tenancy or licence is not an occupation contract at any time when this paragraph applies to it.
 
 (2) This paragraph applies to a tenancy or licence if all the persons with whom it is made are excluded from being contract-holders by section 7(6) (individuals who have not reached the age of 18).
 
@@ -120,27 +120,27 @@ summary: ''
 - (a) a tenancy to which Part 2 of the Landlord and Tenant Act 1954 (c. 56) (business tenancies) applies;
 - (b) a protected occupancy or a statutory tenancy within the meaning of the Rent (Agriculture) Act 1976 (c. 80);
 - (c) a protected tenancy or a statutory tenancy within the meaning of the Rent Act 1977 (c. 42);
-- (d)[^key-293eeb95da572210919ed0b8b03a7400] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-293eeb95da572210919ed0b8b03a7400] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) a tenancy of an agricultural holding within the meaning of the Agricultural Holdings Act 1986 (c. 5);
 - (f) a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995 (c. 8);
 - (g) a long tenancy (see paragraph 8);
 - (h) a tenancy or licence which relates to armed forces accommodation (see paragraph 9);
 - (i) a tenancy or licence which relates to direct access accommodation (see paragraph 10);
-- (j)[^key-8b8ebd20756b62a064a68d8e4f0e2192] a tenancy or licence which relates to accommodation provided—
+- (j)[^c-8b8ebd20756b62a064a68d8e4f0e2192] a tenancy or licence which relates to accommodation provided—
   - (i) by, or on behalf of, the Secretary of State in connection with a requirement imposed under section 3(6) (general provisions) of the Bail Act [1976 (c. 63)](https://www.legislation.gov.uk/ukpga/1976/63), or
   - (ii) under Part 1 (arrangements for the provision of probation services) of the Offender Management Act [2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21) for the probation purposes (within the meaning of section 1 of that Act);
 - (k) a tenancy or licence which relates to—
   - (i) accommodation provided under section 4 (accommodation) or Part 6 (support for asylum-seekers, etc.) of the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), or
   - (ii) facilities provided under paragraph 9 of Schedule 10 to the Immigration Act 2016 (c. 19) (immigration bail) for the accommodation of a person at an address specified in an immigration bail condition;
-- (l)[^key-2081dd024853fc64592a42eaebea3653] a licence which relates to private sector temporary homelessness accommodation (see paragraph 10A).
+- (l)[^c-2081dd024853fc64592a42eaebea3653] a licence which relates to private sector temporary homelessness accommodation (see paragraph 10A).
 
 #### Meaning of “long tenancy”
 
-**8.**[^key-6b9026703c25c08acea15442bea45d42] (1) “**Long tenancy**” means—
+**8.**[^c-6b9026703c25c08acea15442bea45d42] (1) “**Long tenancy**” means—
 
 - (a) a tenancy for a fixed term of more than 21 years (whether or not it is or may become terminable before the end of that term by notice given by the tenant or by re-entry or forfeiture),
 - (b) a tenancy for a term fixed by law because of a covenant or obligation for perpetual renewal, other than a tenancy by sub-demise from one which is not a long tenancy, or
-- (c) a tenancy made in pursuance of Part 5 of the Housing Act 1985 (c. 68) (the right to buy), including a tenancy made in pursuance of that Part as that Part had effect[^key-6040f16199fac068ecaf27542bba01cb] because of section 17 of the Housing Act 1996 (c. 52) (the right to acquire).
+- (c) a tenancy made in pursuance of Part 5 of the Housing Act 1985 (c. 68) (the right to buy), including a tenancy made in pursuance of that Part as that Part had effect[^c-6040f16199fac068ecaf27542bba01cb] because of section 17 of the Housing Act 1996 (c. 52) (the right to acquire).
 
 (2) But a tenancy terminable by notice after a death is not a long tenancy unless it is a shared ownership tenancy.
 
@@ -159,7 +159,7 @@ summary: ''
 
 #### Meaning of “armed forces accommodation”
 
-**9.**[^key-3769a038f807463bb4a410036658c633] Armed forces accommodation is accommodation which is provided to—
+**9.**[^c-3769a038f807463bb4a410036658c633] Armed forces accommodation is accommodation which is provided to—
 
 - (a) a member of any of Her Majesty's forces,
 - (b) a member of the family of a member of any of Her Majesty's forces, or
@@ -169,7 +169,7 @@ for the purposes of any of Her Majesty's forces.
 
 #### Meaning of “direct access accommodation”
 
-**10.**[^key-0ad91de4f372e3d2fc91d011d42b435f] (1) Direct access accommodation is accommodation which—
+**10.**[^c-0ad91de4f372e3d2fc91d011d42b435f] (1) Direct access accommodation is accommodation which—
 
 - (a) is provided by a community landlord or a registered charity,
 - (b) (subject to availability) is provided on demand to any person who appears to satisfy criteria determined by the community landlord or charity, and
@@ -177,7 +177,7 @@ for the purposes of any of Her Majesty's forces.
 
 (2) Accommodation may be direct access accommodation even if it is provided to the same person for several periods in succession.
 
-##### 10A. Meaning of “private sector temporary homelessness accommodation”[^key-27a7efcb9d58f943e10c06120100fb05]
+##### 10A. Meaning of “private sector temporary homelessness accommodation”[^c-27a7efcb9d58f943e10c06120100fb05]
 
 (1) Private sector temporary homelessness accommodation is accommodation which—
 
@@ -188,9 +188,9 @@ for the purposes of any of Her Majesty's forces.
 
 ### PART 4 — TENANCIES AND LICENCES TO WHICH SPECIAL RULES APPLY: HOMELESSNESS
 
-**11.**[^key-1b18ab7a25b4ea18ba3c03350f5f5389] A tenancy or licence within section 7, but made with an individual by a local housing authority because of the authority's functions under Part 2 of the Housing (Wales) Act 2014 (anaw 7) (homelessness), is not an occupation contract unless the authority is satisfied that it owes a duty to the individual under section 75(1) of that Act (duty to secure availability of suitable accommodation).
+**11.**[^c-1b18ab7a25b4ea18ba3c03350f5f5389] A tenancy or licence within section 7, but made with an individual by a local housing authority because of the authority's functions under Part 2 of the Housing (Wales) Act 2014 (anaw 7) (homelessness), is not an occupation contract unless the authority is satisfied that it owes a duty to the individual under section 75(1) of that Act (duty to secure availability of suitable accommodation).
 
-**12.**[^key-6b6b944c41d617703224a921a1bd6233][^key-f3dab3480882ebc29fd2aaf76e16b563] (1) This paragraph applies where a local housing authority, in pursuance of any of its homelessness housing functions, makes arrangements with a relevant landlord for the provision of accommodation , but this paragraph does not apply in relation to a licence of the kind described in paragraph 7(3)(l)[^key-b6b9337d5417a5409767f4fa5bd605e4].
+**12.**[^c-6b6b944c41d617703224a921a1bd6233][^c-f3dab3480882ebc29fd2aaf76e16b563] (1) This paragraph applies where a local housing authority, in pursuance of any of its homelessness housing functions, makes arrangements with a relevant landlord for the provision of accommodation , but this paragraph does not apply in relation to a licence of the kind described in paragraph 7(3)(l)[^c-b6b9337d5417a5409767f4fa5bd605e4].
 
 (2) A tenancy or licence within section 7 but made with a relevant landlord in pursuance of the arrangements is not an occupation contract until immediately after the end of the notification period.
 
@@ -221,7 +221,7 @@ the day on which that person is notified of the outcome of the assessment or the
 
 ### PART 5 — TENANCIES AND LICENCES TO WHICH SPECIAL RULES APPLY: SUPPORTED ACCOMMODATION
 
-**13.**[^key-30838c4d32391304270d405eabc08517] (1) A tenancy or licence within section 7, but which relates to supported accommodation (see section 143), is not an occupation contract if the landlord intends that the accommodation provided under the tenancy or licence is not to be subject to an occupation contract.
+**13.**[^c-30838c4d32391304270d405eabc08517] (1) A tenancy or licence within section 7, but which relates to supported accommodation (see section 143), is not an occupation contract if the landlord intends that the accommodation provided under the tenancy or licence is not to be subject to an occupation contract.
 
 (2) But if the tenancy or licence continues after the end of the relevant period, it becomes an occupation contract immediately after the end of that period.
 
@@ -236,7 +236,7 @@ the day on which that person is notified of the outcome of the assessment or the
 
 #### Meaning of relevant period where there are previous contracts
 
-**14.**[^key-6bbedf53b2565ca71c8018f6b61ceb67] (1) This paragraph applies in relation to a tenancy or licence mentioned in paragraph 13(1) (“the current tenancy or licence”) if—
+**14.**[^c-6bbedf53b2565ca71c8018f6b61ceb67] (1) This paragraph applies in relation to a tenancy or licence mentioned in paragraph 13(1) (“the current tenancy or licence”) if—
 
 - (a) the tenant or licensee was previously entitled to occupy supported accommodation under one or more relevant previous contracts, and
 - (b) the current tenancy or licence is the immediate successor of a relevant previous contract.
@@ -269,42 +269,42 @@ the day on which that person is notified of the outcome of the assessment or the
 
 #### Extending the relevant period
 
-**15.** (1)[^key-d1d7801f3a2f95b22282b04534823851] The landlord may (on one or more occasions) extend the relevant period of a tenancy or licence mentioned in paragraph 13(1) by giving the tenant or licensee a notice of extension in accordance with this paragraph.
+**15.** (1)[^c-d1d7801f3a2f95b22282b04534823851] The landlord may (on one or more occasions) extend the relevant period of a tenancy or licence mentioned in paragraph 13(1) by giving the tenant or licensee a notice of extension in accordance with this paragraph.
 
-(2)[^key-d1d7801f3a2f95b22282b04534823851] The relevant period may not be extended by more than three months on any separate occasion.
+(2)[^c-d1d7801f3a2f95b22282b04534823851] The relevant period may not be extended by more than three months on any separate occasion.
 
-(3)[^key-d1d7801f3a2f95b22282b04534823851] The notice of extension must be given at least four weeks before the date on which the relevant period would end under whichever of the following applies—
+(3)[^c-d1d7801f3a2f95b22282b04534823851] The notice of extension must be given at least four weeks before the date on which the relevant period would end under whichever of the following applies—
 
 - (a) paragraph 13(3)(a) or (b);
 - (b) paragraph 14(3)(a) or (b);
 - (c) paragraph 14(4)(a) or (b);
 - (d) paragraph 14(5)(a) or (b).
 
-(4)[^key-d1d7801f3a2f95b22282b04534823851] Before giving a notice of extension, the landlord must consult the tenant or licensee.
+(4)[^c-d1d7801f3a2f95b22282b04534823851] Before giving a notice of extension, the landlord must consult the tenant or licensee.
 
-(5)[^key-d1d7801f3a2f95b22282b04534823851] A landlord (other than a local housing authority) may not give a notice of extension without the consent of the local housing authority in whose area the accommodation is provided.
+(5)[^c-d1d7801f3a2f95b22282b04534823851] A landlord (other than a local housing authority) may not give a notice of extension without the consent of the local housing authority in whose area the accommodation is provided.
 
-(6)[^key-d1d7801f3a2f95b22282b04534823851] The notice of extension must—
+(6)[^c-d1d7801f3a2f95b22282b04534823851] The notice of extension must—
 
 - (a) state that the landlord has decided to extend the relevant period,
 - (b) set out the reasons for extending the relevant period,
 - (c) if the landlord is not a local housing authority, state that the local housing authority in whose area the accommodation is provided has consented to the extension, and
 - (d) specify the date on which the relevant period will come to an end.
 
-(7)[^key-d1d7801f3a2f95b22282b04534823851] The notice of extension must also inform the tenant or licensee that he or she has a right to apply for a review in the county court under paragraph 16, and of the time by which the application must be made.
+(7)[^c-d1d7801f3a2f95b22282b04534823851] The notice of extension must also inform the tenant or licensee that he or she has a right to apply for a review in the county court under paragraph 16, and of the time by which the application must be made.
 
-(8)[^key-d1d7801f3a2f95b22282b04534823851] In making the decision to extend the relevant period, the landlord may take into account⁠—
+(8)[^c-d1d7801f3a2f95b22282b04534823851] In making the decision to extend the relevant period, the landlord may take into account⁠—
 
 - (a) the conduct of the tenant or licensee (or, if there is more than one tenant or licensee, the conduct of any of them), and
 - (b) the conduct of any person who appears to the landlord to live in the dwelling.
 
-(9)[^key-d1d7801f3a2f95b22282b04534823851] A landlord may take a person's conduct into account under sub-paragraph (8)(b) whether or not the person lives continuously in the dwelling, and whatever the capacity in which the person lives in the dwelling.
+(9)[^c-d1d7801f3a2f95b22282b04534823851] A landlord may take a person's conduct into account under sub-paragraph (8)(b) whether or not the person lives continuously in the dwelling, and whatever the capacity in which the person lives in the dwelling.
 
-(10)[^key-4d2ee7e088813ee51212d760c447b2cc][^key-0b6e0e804dc57c7ad9ab85de80fb900a] The Welsh Ministers may make provision by regulations for the purposes of sub-paragraph (5), including provision about the procedure to be followed in relation to obtaining the consent of a local housing authority.
+(10)[^c-4d2ee7e088813ee51212d760c447b2cc][^c-0b6e0e804dc57c7ad9ab85de80fb900a] The Welsh Ministers may make provision by regulations for the purposes of sub-paragraph (5), including provision about the procedure to be followed in relation to obtaining the consent of a local housing authority.
 
 #### County court review of decision to extend
 
-**16.**[^key-e2840de8a15155359498b6c10413a29d] (1) This section applies if a landlord gives a tenant or licensee a notice of extension under paragraph 15.
+**16.**[^c-e2840de8a15155359498b6c10413a29d] (1) This section applies if a landlord gives a tenant or licensee a notice of extension under paragraph 15.
 
 (2) The tenant or licensee may apply to the county court for a review—
 
@@ -338,62 +338,62 @@ the day on which that person is notified of the outcome of the assessment or the
 
 ### PART 6 — POWER TO AMEND SCHEDULE
 
-**17.**[^key-89e06247e0cdcbd6ad94642e3962d03d][^key-e5379e09de29df9ce226d0c1b9f82005] The Welsh Ministers may by regulations amend this Schedule.
+**17.**[^c-89e06247e0cdcbd6ad94642e3962d03d][^c-e5379e09de29df9ce226d0c1b9f82005] The Welsh Ministers may by regulations amend this Schedule.
 
 ## Annotations
 
-[^key-22b1eccd3e4ae02657cabbb3be73c9af]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-22b1eccd3e4ae02657cabbb3be73c9af]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-2c9189571763055e1c3cc305e9cecdd9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-2c9189571763055e1c3cc305e9cecdd9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-90ffc06c0025dea9605d38aa2b6869f4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-90ffc06c0025dea9605d38aa2b6869f4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-446fb88da8bceb99009882cedcb9696f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/4) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-446fb88da8bceb99009882cedcb9696f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/4) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-59620043ef3d04394be961e7a0ce78e7]: Textual amendment: [Sch. 2 para. 4(b)-(e)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/4/b) substituted for Sch. 2 para. 4(b)(c) (1.12.2022) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/uksi/2018/195), [regs. 2(4)](https://www.legislation.gov.uk/uksi/2018/195/regulation/2/4), [56](https://www.legislation.gov.uk/uksi/2018/195/regulation/56); [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [art. 2](https://www.legislation.gov.uk/uksi/2022/906/article/2)
+[^c-59620043ef3d04394be961e7a0ce78e7]: Textual amendment: [Sch. 2 para. 4(b)-(e)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/4/b) substituted for Sch. 2 para. 4(b)(c) (1.12.2022) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/uksi/2018/195), [regs. 2(4)](https://www.legislation.gov.uk/uksi/2018/195/regulation/2/4), [56](https://www.legislation.gov.uk/uksi/2018/195/regulation/56); [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [art. 2](https://www.legislation.gov.uk/uksi/2022/906/article/2)
 
-[^key-8579a91794c4086762bbcc403b3ccd3a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/5) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-8579a91794c4086762bbcc403b3ccd3a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/5) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-080fe8184f86413e977d4fc168767e6d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-080fe8184f86413e977d4fc168767e6d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-b4804d4898cebfdb2f580135af6d1b22]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/7) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-b4804d4898cebfdb2f580135af6d1b22]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/7) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-293eeb95da572210919ed0b8b03a7400]: Textual amendment: [Sch. 2 para. 7(3)(d)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/7/3/d) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/5/2)
+[^c-293eeb95da572210919ed0b8b03a7400]: Textual amendment: [Sch. 2 para. 7(3)(d)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/7/3/d) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/5/2)
 
-[^key-8b8ebd20756b62a064a68d8e4f0e2192]: Textual amendment: [Sch. 2 para. 7(3)(j)(k)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/7/3/j/k) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment) Regulations 2022 (S.I. 2022/803)](https://www.legislation.gov.uk/uksi/2022/803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/803/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/803/regulation/2) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
+[^c-8b8ebd20756b62a064a68d8e4f0e2192]: Textual amendment: [Sch. 2 para. 7(3)(j)(k)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/7/3/j/k) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment) Regulations 2022 (S.I. 2022/803)](https://www.legislation.gov.uk/uksi/2022/803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/803/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/803/regulation/2) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
 
-[^key-2081dd024853fc64592a42eaebea3653]: Textual amendment: [Sch. 2 para. 7(3)(l)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/7/3/l) inserted (30.11.2023) by [The Renting Homes (Wales) Act 2016 and Homelessness (Suitability of Accommodation) (Wales) Order 2015 (Amendment) Regulations 2023 (S.I. 2023/1277)](https://www.legislation.gov.uk/wsi/2023/1277), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/2/2/a/i)
+[^c-2081dd024853fc64592a42eaebea3653]: Textual amendment: [Sch. 2 para. 7(3)(l)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/7/3/l) inserted (30.11.2023) by [The Renting Homes (Wales) Act 2016 and Homelessness (Suitability of Accommodation) (Wales) Order 2015 (Amendment) Regulations 2023 (S.I. 2023/1277)](https://www.legislation.gov.uk/wsi/2023/1277), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/2/2/a/i)
 
-[^key-6b9026703c25c08acea15442bea45d42]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/8) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-6b9026703c25c08acea15442bea45d42]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/8) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-6040f16199fac068ecaf27542bba01cb]: Textual amendment: Words in [Sch. 2 para. 8(1)(c)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/8/1/c) substituted (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/9/2); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+[^c-6040f16199fac068ecaf27542bba01cb]: Textual amendment: Words in [Sch. 2 para. 8(1)(c)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/8/1/c) substituted (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/9/2); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
 
-[^key-3769a038f807463bb4a410036658c633]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/9) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-3769a038f807463bb4a410036658c633]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/9) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-0ad91de4f372e3d2fc91d011d42b435f]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/10) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-0ad91de4f372e3d2fc91d011d42b435f]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/10) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-27a7efcb9d58f943e10c06120100fb05]: Textual amendment: [Sch. 2 para. 10A](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/10A) inserted (30.11.2023) by [The Renting Homes (Wales) Act 2016 and Homelessness (Suitability of Accommodation) (Wales) Order 2015 (Amendment) Regulations 2023 (S.I. 2023/1277)](https://www.legislation.gov.uk/wsi/2023/1277), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/2/2/a/ii)
+[^c-27a7efcb9d58f943e10c06120100fb05]: Textual amendment: [Sch. 2 para. 10A](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/10A) inserted (30.11.2023) by [The Renting Homes (Wales) Act 2016 and Homelessness (Suitability of Accommodation) (Wales) Order 2015 (Amendment) Regulations 2023 (S.I. 2023/1277)](https://www.legislation.gov.uk/wsi/2023/1277), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/2/2/a/ii)
 
-[^key-1b18ab7a25b4ea18ba3c03350f5f5389]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/11) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-1b18ab7a25b4ea18ba3c03350f5f5389]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/11) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-6b6b944c41d617703224a921a1bd6233]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/12) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-6b6b944c41d617703224a921a1bd6233]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/12) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-f3dab3480882ebc29fd2aaf76e16b563]: Modification: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/12) modified (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/wsi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2), [16](https://www.legislation.gov.uk/wsi/2022/1172/regulation/16) (with [reg. 19](https://www.legislation.gov.uk/wsi/2022/1172/regulation/19))
+[^c-f3dab3480882ebc29fd2aaf76e16b563]: Modification: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/12) modified (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/wsi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2), [16](https://www.legislation.gov.uk/wsi/2022/1172/regulation/16) (with [reg. 19](https://www.legislation.gov.uk/wsi/2022/1172/regulation/19))
 
-[^key-b6b9337d5417a5409767f4fa5bd605e4]: Textual amendment: Words in [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/12/1) inserted (30.11.2023) by [The Renting Homes (Wales) Act 2016 and Homelessness (Suitability of Accommodation) (Wales) Order 2015 (Amendment) Regulations 2023 (S.I. 2023/1277)](https://www.legislation.gov.uk/wsi/2023/1277), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/2/2/b)
+[^c-b6b9337d5417a5409767f4fa5bd605e4]: Textual amendment: Words in [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/12/1) inserted (30.11.2023) by [The Renting Homes (Wales) Act 2016 and Homelessness (Suitability of Accommodation) (Wales) Order 2015 (Amendment) Regulations 2023 (S.I. 2023/1277)](https://www.legislation.gov.uk/wsi/2023/1277), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/2/2/b)
 
-[^key-30838c4d32391304270d405eabc08517]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/13) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-30838c4d32391304270d405eabc08517]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/13) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-6bbedf53b2565ca71c8018f6b61ceb67]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/14) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-6bbedf53b2565ca71c8018f6b61ceb67]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/14) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-d1d7801f3a2f95b22282b04534823851]: Commencement: [Sch. 2 para. 15(1)-(9)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/15/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-d1d7801f3a2f95b22282b04534823851]: Commencement: [Sch. 2 para. 15(1)-(9)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/15/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-4d2ee7e088813ee51212d760c447b2cc]: Commencement: [Sch. 2 para. 15(10)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/15/10) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
+[^c-4d2ee7e088813ee51212d760c447b2cc]: Commencement: [Sch. 2 para. 15(10)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/15/10) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
 
-[^key-0b6e0e804dc57c7ad9ab85de80fb900a]: Commencement: [Sch. 2 para. 15(10)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/15/10) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-0b6e0e804dc57c7ad9ab85de80fb900a]: Commencement: [Sch. 2 para. 15(10)](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/15/10) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-e2840de8a15155359498b6c10413a29d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/16) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-e2840de8a15155359498b6c10413a29d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/16) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-89e06247e0cdcbd6ad94642e3962d03d]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/17) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
+[^c-89e06247e0cdcbd6ad94642e3962d03d]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/17) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
 
-[^key-e5379e09de29df9ce226d0c1b9f82005]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/17) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-e5379e09de29df9ce226d0c1b9f82005]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2016/1/schedule/2/paragraph/17) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

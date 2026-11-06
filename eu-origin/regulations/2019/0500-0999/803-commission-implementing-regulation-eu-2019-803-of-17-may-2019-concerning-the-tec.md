@@ -35,117 +35,117 @@ concerning the technical requirements regarding the content of quality reports o
 
 (Text with EEA relevance) (revoked)
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9302bb0140472dd50b0d4eeaa24121ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-9302bb0140472dd50b0d4eeaa24121ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9302bb0140472dd50b0d4eeaa24121ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9302bb0140472dd50b0d4eeaa24121ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9302bb0140472dd50b0d4eeaa24121ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-9302bb0140472dd50b0d4eeaa24121ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-9302bb0140472dd50b0d4eeaa24121ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9302bb0140472dd50b0d4eeaa24121ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — TECHNICAL QUALITY ASSURANCE REQUIREMENTS REGARDING THE CONTENT OF THE QUALITY REPORTS OF EUROPEAN STATISTICS ON NATURAL GAS AND ELECTRICITY PRICES[^key-9302bb0140472dd50b0d4eeaa24121ff]
+## ANNEX — TECHNICAL QUALITY ASSURANCE REQUIREMENTS REGARDING THE CONTENT OF THE QUALITY REPORTS OF EUROPEAN STATISTICS ON NATURAL GAS AND ELECTRICITY PRICES[^c-9302bb0140472dd50b0d4eeaa24121ff]
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]
+[^c-9302bb0140472dd50b0d4eeaa24121ff]
 
 ***The quality reports shall include information on all the quality criteria laid down in Article 12(1) of Regulation (EC) No 223/2009.***
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]1.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]1.
 
 RELEVANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]2.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]2.
 
 ACCURACY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]3.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]3.
 
 TIMELINESS AND PUNCTUALITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]4.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]4.
 
 ACCESSIBILITY AND CLARITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]5.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]5.
 
 COMPARABILITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]6.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]6.
 
 COHERENCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]
+[^c-9302bb0140472dd50b0d4eeaa24121ff]
 
 ***Member States shall also report on the following additional quality aspects:***
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]1.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]1.
 
 QUALITY MANAGEMENT:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]2.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]2.
 
 DATA REVISION:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]
+[^c-9302bb0140472dd50b0d4eeaa24121ff]
 
 ***In accordance with Article 7(3) of Regulation (EU) 2016/1952, those reports shall include information on the scope and collection of the data, the calculation criteria, the methodology and data sources used, and any changes made.***
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]1.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]1.
 
 STATISTICAL PRESENTATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]2.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]2.
 
 STATISTICAL PROCESSING:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]3.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]3.
 
 RELEASE POLICY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]4.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]4.
 
 FREQUENCY OF DISSEMINATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]
+[^c-9302bb0140472dd50b0d4eeaa24121ff]
 
 ***In line with the statistical principles laid down in points (e) and (f) of Article 2(1) of Regulation (EC) No 223/2009, Member States shall report on:***
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]1.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]1.
 
 CONFIDENTIALITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]2.
+[^c-9302bb0140472dd50b0d4eeaa24121ff]2.
 
 COST AND BURDEN:
 
@@ -153,4 +153,4 @@ COST AND BURDEN:
 
 ## Annotations
 
-[^key-9302bb0140472dd50b0d4eeaa24121ff]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 107](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/107)
+[^c-9302bb0140472dd50b0d4eeaa24121ff]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 107](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/107)

@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 73. Good Cause for the purposes of section 19(5)(b)[^key-39b4bdb5b550d71762120dfd9dbe7b05]
+## 73. Good Cause for the purposes of section 19(5)(b)[^c-39b4bdb5b550d71762120dfd9dbe7b05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-39b4bdb5b550d71762120dfd9dbe7b05]: Textual amendment: [Reg. 73](https://www.legislation.gov.uk/uksi/1996/207/regulation/73) revoked (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/2/6)
+[^c-39b4bdb5b550d71762120dfd9dbe7b05]: Textual amendment: [Reg. 73](https://www.legislation.gov.uk/uksi/1996/207/regulation/73) revoked (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/2/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Article 9b of Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^key-a8b487b04e1d29dddd3a12be0b32681a]
+## 29. Article 9b of Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^c-a8b487b04e1d29dddd3a12be0b32681a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 9b (functional airspace blocks system coordinator).
 
 ## Annotations
 
-[^key-a8b487b04e1d29dddd3a12be0b32681a]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a8b487b04e1d29dddd3a12be0b32681a]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

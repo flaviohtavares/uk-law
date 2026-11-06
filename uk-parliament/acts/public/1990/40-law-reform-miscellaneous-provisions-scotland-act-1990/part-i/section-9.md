@@ -31,7 +31,7 @@ summary: ''
   - (ii) a class of persons or area which has ceased to be suitable or appropriate, having regard to the spirit of the trust deed or other document constituting the trust, or as regards which it has ceased to be practicable to administer the property available under the trust; or
 - (d) that the purposes of the trust, whether in whole or in part, have, since the trust was constituted—
   - (i) been adequately provided for by other means; or
-  - (ii) ceased to be such as would enable the trust to be entered in the Scottish Charity Register[^key-a816bc7f96e7630af73a336001cfb63a]; or
+  - (ii) ceased to be such as would enable the trust to be entered in the Scottish Charity Register[^c-a816bc7f96e7630af73a336001cfb63a]; or
   - (iii) ceased in any other way to provide a suitable and effective method of using the property available under the trust, having regard to the spirit of the trust deed or other document constituting the trust,
 
 the court, on the application of the trustees, may, subject to subsection (2) below, approve a scheme for the variation or reorganisation of the trust purposes.
@@ -61,4 +61,4 @@ and the court, if it is satisfied that the conditions specified in subsection (2
 
 [^c13712581]: Commencement: S. 9 wholly in force; s. 9(5) in force for certain purposes at 4.7.1992 and s. 9 wholly in force at 27.7.1992 see s. 75(2) and [S.I. 1992/1599](https://www.legislation.gov.uk/uksi/1992/1599), [arts.3](https://www.legislation.gov.uk/uksi/1992/1599/article/3),5, Schs. 1, 3.
 
-[^key-a816bc7f96e7630af73a336001cfb63a]: Textual amendment: Words in [s. 9(1)(d)(ii)](https://www.legislation.gov.uk/ukpga/1990/40/section/9/1/d/ii) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(c)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/c); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-a816bc7f96e7630af73a336001cfb63a]: Textual amendment: Words in [s. 9(1)(d)(ii)](https://www.legislation.gov.uk/ukpga/1990/40/section/9/1/d/ii) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(c)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/c); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)

@@ -68,9 +68,9 @@ An Act to amend the law relating to the age of majority, to persons who have not
 
 for the words “twenty-one years ” there shall be substituted the words “eighteen years ”.
 
-(2)[^key-d7942dec971c6355fb7452a511f91546] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d7942dec971c6355fb7452a511f91546] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Where for the purpose of obtaining a certificate [^c751150]. . . for marriage or marriage schedule[^key-059030eb9409ccb82fb605fa73c8de80] under Part III of the said Act of 1949 a person declares that the consent of any person or persons whose consent to the marriage is required under the said section 3 has been obtained, the superintendent registrar may refuse to issue the certificate [^c751150]. . . for marriage or marriage schedule unless satisfied by the production of written evidence that the consent of that person or of those persons has in fact been obtained.
+(3) Where for the purpose of obtaining a certificate [^c751150]. . . for marriage or marriage schedule[^c-059030eb9409ccb82fb605fa73c8de80] under Part III of the said Act of 1949 a person declares that the consent of any person or persons whose consent to the marriage is required under the said section 3 has been obtained, the superintendent registrar may refuse to issue the certificate [^c751150]. . . for marriage or marriage schedule unless satisfied by the production of written evidence that the consent of that person or of those persons has in fact been obtained.
 
 (4) In this section any expression which is also used in the said Act of 1949 has the same meaning as in that Act.
 
@@ -136,9 +136,9 @@ may be revoked by that person notwithstanding that he is still under that age wh
 
 ### 10. Modification of enactments relating to Duke of Cornwall and other children of Her Majesty.
 
-(1)[^key-416299f1392e98f54d280a656822f035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-416299f1392e98f54d280a656822f035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-416299f1392e98f54d280a656822f035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-416299f1392e98f54d280a656822f035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c751186] In section 38 of the [^c751187]Duchy of Cornwall Management Act 1863 (under which certain rights and powers of the Duke of Cornwall may, while he is under 21, be exercised on his behalf by the Sovereign or persons acting under Her authority) for the words “twenty-one years ” wherever they occur there shall be substituted the words “eighteen years ”.
 
@@ -192,9 +192,9 @@ A person who is not of full age may be described as a minor instead of as an inf
 
 (1) In section 11 of the [^c751201] Married Women’s Property Act 1882 and section 2 of the [^c751202] Married Women’s Policies of Assurance (Scotland) Act 1880 (policies of assurance effected for the benefit of children) the expression “ **children** ” shall include illegitimate children.
 
-(2)[^key-53c8c87d61ab60bd2eb793c3a487118a][^c751203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-53c8c87d61ab60bd2eb793c3a487118a][^c751203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Subsection (1) of this section does not affect the operation of the said Acts of 1882 and 1880 in relation to a policy effected before the coming into force of that subsection; [^key-860e79c67ef8be00109707d43659e678]...
+(3) Subsection (1) of this section does not affect the operation of the said Acts of 1882 and 1880 in relation to a policy effected before the coming into force of that subsection; [^c-860e79c67ef8be00109707d43659e678]...
 
 ## Part III — Provisions for use of Blood Tests in determining Paternity
 
@@ -243,7 +243,7 @@ and the report shall be received by the court as evidence in the proceedings of 
 - (a)[^c751238] if the person who has the care and control of him consents; or
 - (b) where that person does not consent, if the court considers that it would be in his best interests for the sample to be taken.
 
-(4)[^key-03a7a7168aea14bf79eef3982d84e60b] A bodily sample may be taken from a person who lacks capacity (within the meaning of the Mental Capacity Act 2005) to give his consent, if consent is given by the court giving the direction under section 20 or by—
+(4)[^c-03a7a7168aea14bf79eef3982d84e60b] A bodily sample may be taken from a person who lacks capacity (within the meaning of the Mental Capacity Act 2005) to give his consent, if consent is given by the court giving the direction under section 20 or by—
 
 - (a) a donee of an enduring power of attorney or lasting power of attorney (within the meaning of that Act), or
 - (b) a deputy appointed, or any other person authorised, by the Court of Protection,
@@ -295,7 +295,7 @@ If for the purpose of providing a bodily sample for a test required to give effe
 In this Part of this Act the following expressions have the meanings hereby respectively assigned to them, that is to say—
 
 - “[^c751280] **bodily sample** ” means a sample of bodily fluid or bodily tissue taken for the purpose of scientific tests;
-- “**excluded** ” means excluded subject to the occurrence of mutation to section 27 of the[^c751281] [^c751282]Family Law Reform Act 1987 , to[^key-e65dd82358687d520685769298729c1a] sections 27 to 29 of the Human Fertilisation and Embryology Act 1990 and to sections 33 to 47 of the Human Fertilisation and Embryology Act 2008[^key-312ad735f4a8750d94ea8495f7e3e121].
+- “**excluded** ” means excluded subject to the occurrence of mutation to section 27 of the[^c751281] [^c751282]Family Law Reform Act 1987 , to[^c-e65dd82358687d520685769298729c1a] sections 27 to 29 of the Human Fertilisation and Embryology Act 1990 and to sections 33 to 47 of the Human Fertilisation and Embryology Act 2008[^c-312ad735f4a8750d94ea8495f7e3e121].
 - “[^c751283] **scientific tests** ” means scientific tests carried out under this Part of this Act and made with the object of ascertaining the inheritable characteristics of bodily fluids or bodily tissue.
 
 ## Part IV — Miscellaneous and General
@@ -321,7 +321,7 @@ Any presumption of law as to the legitimacy or illegitimacy of any person may in
 - (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c751286]
 - (b) section 2, so far as it amends any provision of . . . [^c751287] the [^c751288]Marriage with Foreigners Act 1906, has the same extent as that provision;
 - (c) sections . . . [^c751289] 6(7), so far as they affect Part II of the [^c751290]Maintenance Orders Act 1950, extend to Scotland and Northern Ireland;
-- (d)[^key-a12b2f04c3b546ad471a1ce671ef2ba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-a12b2f04c3b546ad471a1ce671ef2ba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) section 11, so far as it relates to the [^c751292]Employers and Workmen Act 1875, extends to Scotland;
 - (f) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c751293]
 - (g) section 19 extends to Scotland;
@@ -359,14 +359,14 @@ Section 1(3).
 |  |  | . . . [^c751361] | . . . [^c751361] |
 | . . . [^c751381] | . . . [^c751381] | . . . [^c751381] | . . . [^c751381] |
 |  |  | . . . [^c751381] | . . . [^c751381] |
-| [^key-079b06477b9f10a83fdf103a5b57753f]. . . | [^key-079b06477b9f10a83fdf103a5b57753f]. . . | [^key-079b06477b9f10a83fdf103a5b57753f]. . . | [^key-079b06477b9f10a83fdf103a5b57753f]. . . |
-| [^key-3be35e4865d57ebb611716cb81193291]. . . | [^key-3be35e4865d57ebb611716cb81193291]. . . | [^key-3be35e4865d57ebb611716cb81193291]. . . | [^key-3be35e4865d57ebb611716cb81193291]. . . |
+| [^c-079b06477b9f10a83fdf103a5b57753f]. . . | [^c-079b06477b9f10a83fdf103a5b57753f]. . . | [^c-079b06477b9f10a83fdf103a5b57753f]. . . | [^c-079b06477b9f10a83fdf103a5b57753f]. . . |
+| [^c-3be35e4865d57ebb611716cb81193291]. . . | [^c-3be35e4865d57ebb611716cb81193291]. . . | [^c-3be35e4865d57ebb611716cb81193291]. . . | [^c-3be35e4865d57ebb611716cb81193291]. . . |
 
 ### Part II — Rules, Regulations Etc.[^c751387]
 
 |  | Title | Provision | Subject matter |
 | --- | --- | --- | --- |
-| [^key-d39b9ae51dd789f36ed3edc63f9b46df]. . . | [^key-d39b9ae51dd789f36ed3edc63f9b46df]. . . | [^key-d39b9ae51dd789f36ed3edc63f9b46df]. . . | [^key-d39b9ae51dd789f36ed3edc63f9b46df]. . . |
+| [^c-d39b9ae51dd789f36ed3edc63f9b46df]. . . | [^c-d39b9ae51dd789f36ed3edc63f9b46df]. . . | [^c-d39b9ae51dd789f36ed3edc63f9b46df]. . . | [^c-d39b9ae51dd789f36ed3edc63f9b46df]. . . |
 
 ## SCHEDULE 2 — Statutory Provisions Unaffected by Section 1
 
@@ -374,7 +374,7 @@ Section 1(4).
 
 **1.** The Regency Acts 1937 to 1953.
 
-**2.** [^c751392]. . . [^key-841f43d28012bd44d1cd40f82b62b9dd]. . . [^c751394]. . . [^c751392]. . .
+**2.** [^c751392]. . . [^c-841f43d28012bd44d1cd40f82b62b9dd]. . . [^c751394]. . . [^c751392]. . .
 
 **3.**[^c751396] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -462,11 +462,11 @@ which is expressed to continue in force until the person who is the subject of t
 
 [^c751148]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
-[^key-d7942dec971c6355fb7452a511f91546]: Textual amendment: S. 2(2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-d7942dec971c6355fb7452a511f91546]: Textual amendment: S. 2(2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c751150]: Textual amendment: Words in s. 2(3) repealed (1.1.2001) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1/3), [Sch. 14 para. 37](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/37), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/2698](https://www.legislation.gov.uk/uksi/2000/2698), [art. 2](https://www.legislation.gov.uk/uksi/2000/2698/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2698/schedule)
 
-[^key-059030eb9409ccb82fb605fa73c8de80]: Textual amendment: Words in s. 2(3) inserted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/55) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-059030eb9409ccb82fb605fa73c8de80]: Textual amendment: Words in s. 2(3) inserted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/55) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^c751152]: Marginal citation: [1857 c. 26](https://www.legislation.gov.uk/ukpga/1857/26).
 
@@ -488,7 +488,7 @@ which is expressed to continue in force until the person who is the subject of t
 
 [^c751184]: Modification: S. 9 excluded by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 259(9)](https://www.legislation.gov.uk/ukpga/1988/1/section/259)
 
-[^key-416299f1392e98f54d280a656822f035]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/ukpga/1969/46/section/10/1)[(2)](https://www.legislation.gov.uk/ukpga/1969/46/section/10/2) omitted (1.4.2012) by virtue of [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2011/15/schedule/1/paragraph/20)
+[^c-416299f1392e98f54d280a656822f035]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/ukpga/1969/46/section/10/1)[(2)](https://www.legislation.gov.uk/ukpga/1969/46/section/10/2) omitted (1.4.2012) by virtue of [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2011/15/schedule/1/paragraph/20)
 
 [^c751186]: Modification: The text of ss. 2(2), 10(3), 11(*b*)(*c*), is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
@@ -522,11 +522,11 @@ which is expressed to continue in force until the person who is the subject of t
 
 [^c751202]: Marginal citation: [1880 c. 26](https://www.legislation.gov.uk/ukpga/1880/26).
 
-[^key-53c8c87d61ab60bd2eb793c3a487118a]: Textual amendment: S. 19(2) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-53c8c87d61ab60bd2eb793c3a487118a]: Textual amendment: S. 19(2) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c751203]: Modification: The text of ss. 2(1), 19(2), Sch. 1 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-860e79c67ef8be00109707d43659e678]: Textual amendment: Words in s. 19(3) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-860e79c67ef8be00109707d43659e678]: Textual amendment: Words in s. 19(3) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c2155495]: Editorial: Unreliable sidenote
 
@@ -558,7 +558,7 @@ which is expressed to continue in force until the person who is the subject of t
 
 [^c751238]: Textual amendment: S. 21(3)(a)(b) substituted (1.4.2001) for words in s. 21(3) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2000/19/section/82/3) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/774](https://www.legislation.gov.uk/uksi/2001/774), [art. 2](https://www.legislation.gov.uk/uksi/2001/774/article/2)
 
-[^key-03a7a7168aea14bf79eef3982d84e60b]: Textual amendment: [S. 21(4)](https://www.legislation.gov.uk/ukpga/1969/46/section/21/4) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/15) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-03a7a7168aea14bf79eef3982d84e60b]: Textual amendment: [S. 21(4)](https://www.legislation.gov.uk/ukpga/1969/46/section/21/4) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/15) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c751247]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/ukpga/1969/46/section/22/1) substituted (1.4.2001) by [Family Law Reform Act 1987 (c. 42, SIF 49:7)](https://www.legislation.gov.uk/ukpga/1987/42), [s. 33(1)](https://www.legislation.gov.uk/ukpga/1987/42/section/33/1), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/ukpga/1987/42/schedule/2/paragraph/23/2); [S.I. 2001/777](https://www.legislation.gov.uk/uksi/2001/777), [art. 2](https://www.legislation.gov.uk/uksi/2001/777/article/2)
 
@@ -586,9 +586,9 @@ which is expressed to continue in force until the person who is the subject of t
 
 [^c751282]: Marginal citation: [1987 c.42](https://www.legislation.gov.uk/ukpga/1987/42)**(47:7).**
 
-[^key-e65dd82358687d520685769298729c1a]: Textual amendment: Word in s. 25 substituted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 13(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/13/a); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(d)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-e65dd82358687d520685769298729c1a]: Textual amendment: Word in s. 25 substituted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 13(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/13/a); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(d)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
-[^key-312ad735f4a8750d94ea8495f7e3e121]: Textual amendment: Words in s. 25 inserted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 13(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/13/b); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(d)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-312ad735f4a8750d94ea8495f7e3e121]: Textual amendment: Words in s. 25 inserted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 13(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/13/b); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(d)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
 [^c751283]: Textual amendment: Definition in s. 25 inserted (1.4.2001) by [Family Law Reform Act 1987 (c. 42, SIF 49:7)](https://www.legislation.gov.uk/ukpga/1987/42), [s. 23(2)(b)](https://www.legislation.gov.uk/ukpga/1987/42/section/23/2/b); [S.I. 2001/777](https://www.legislation.gov.uk/uksi/2001/777), [art. 2](https://www.legislation.gov.uk/uksi/2001/777/article/2)
 
@@ -606,7 +606,7 @@ which is expressed to continue in force until the person who is the subject of t
 
 [^c751290]: Marginal citation: [1950 c. 37](https://www.legislation.gov.uk/ukpga/1950/37).
 
-[^key-a12b2f04c3b546ad471a1ce671ef2ba5]: Textual amendment: [S. 28(4)(d)](https://www.legislation.gov.uk/ukpga/1969/46/section/28/4/d) omitted (1.4.2012) by virtue of [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2011/15/schedule/1/paragraph/21)
+[^c-a12b2f04c3b546ad471a1ce671ef2ba5]: Textual amendment: [S. 28(4)(d)](https://www.legislation.gov.uk/ukpga/1969/46/section/28/4/d) omitted (1.4.2012) by virtue of [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2011/15/schedule/1/paragraph/21)
 
 [^c751292]: Marginal citation: [1875 c. 90](https://www.legislation.gov.uk/ukpga/1875/90).
 
@@ -630,17 +630,17 @@ which is expressed to continue in force until the person who is the subject of t
 
 [^c751381]: Textual amendment: Entry relating to the [Building Societies Act 1962 (c. 37)](https://www.legislation.gov.uk/ukpga/1962/37) repealed by [Building Societies Act 1986 (c. 53, SIF 16)](https://www.legislation.gov.uk/ukpga/1986/53), [s. 120](https://www.legislation.gov.uk/ukpga/1986/53/section/120), [Sch. 19 Pt. I](https://www.legislation.gov.uk/ukpga/1986/53/schedule/19/part/I)
 
-[^key-079b06477b9f10a83fdf103a5b57753f]: Textual amendment: Sch. 1 entry repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-079b06477b9f10a83fdf103a5b57753f]: Textual amendment: Sch. 1 entry repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
 
-[^key-3be35e4865d57ebb611716cb81193291]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1969/46/schedule/1) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-3be35e4865d57ebb611716cb81193291]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1969/46/schedule/1) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c751387]: Textual amendment: Sch. 1 Pt.II, except the entry relating to the Government Stock Regulations 1965, repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.VIII](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/VIII).
 
-[^key-d39b9ae51dd789f36ed3edc63f9b46df]: Textual amendment: Sch. 1 Pt. 2 entry omitted (1.7.2004) by virtue of [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [18](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/18) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-d39b9ae51dd789f36ed3edc63f9b46df]: Textual amendment: Sch. 1 Pt. 2 entry omitted (1.7.2004) by virtue of [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [18](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/18) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c751392]: Textual amendment: Words repealed by [Representation of the People Act 1983 (c. 2, SIF 42)](https://www.legislation.gov.uk/ukpga/1983/2), [ss. 204](https://www.legislation.gov.uk/ukpga/1983/2/section/204), [205](https://www.legislation.gov.uk/ukpga/1983/2/section/205), [206](https://www.legislation.gov.uk/ukpga/1983/2/section/206), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1983/2/schedule/9/part/I)
 
-[^key-841f43d28012bd44d1cd40f82b62b9dd]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1969/46/schedule/2/paragraph/2) repealed (1.1.2007 for E.W.S. and 7.2.2007 for N.I.) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [s. 77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2), [Sch. 1 para. 103](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/103), [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/22/schedule/2); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 14(bb)(iv)(cc)(iii)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/14) (with [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2/paragraph/1)); [S.I. 2007/230](https://www.legislation.gov.uk/uksi/2007/230), [art. 2](https://www.legislation.gov.uk/uksi/2007/230/article/2)
+[^c-841f43d28012bd44d1cd40f82b62b9dd]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1969/46/schedule/2/paragraph/2) repealed (1.1.2007 for E.W.S. and 7.2.2007 for N.I.) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [s. 77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2), [Sch. 1 para. 103](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/103), [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/22/schedule/2); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 14(bb)(iv)(cc)(iii)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/14) (with [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2/paragraph/1)); [S.I. 2007/230](https://www.legislation.gov.uk/uksi/2007/230), [art. 2](https://www.legislation.gov.uk/uksi/2007/230/article/2)
 
 [^c751394]: Textual amendment: Words in Sch. 2 para. 2 repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.VIII](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/VIII).
 

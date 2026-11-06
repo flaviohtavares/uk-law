@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Amount of pension for a scheme year[^key-19185b336a94365644a0c7a46d39d067]
+## 49. Amount of pension for a scheme year[^c-19185b336a94365644a0c7a46d39d067]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-19185b336a94365644a0c7a46d39d067]: Commencement: Reg. 49 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-19185b336a94365644a0c7a46d39d067]: Commencement: Reg. 49 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00040]: Footnote: See Part 4, Chapter 3 for the amount of pensionable earnings a member is taken to receive during a period of assumed pay.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Amendments to the Government of Maintained Schools (Training Requirements for Governors) (Wales) Regulations 2013[^key-92ca871086453ff5ace051f47c0332c1]
+## 93. Amendments to the Government of Maintained Schools (Training Requirements for Governors) (Wales) Regulations 2013[^c-92ca871086453ff5ace051f47c0332c1]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92ca871086453ff5ace051f47c0332c1]: Commencement: Reg. 93 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-92ca871086453ff5ace051f47c0332c1]: Commencement: Reg. 93 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00046]: Footnote: [2013/2124 (W.207)](https://www.legislation.gov.uk/wsi/2013/2124)

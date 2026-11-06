@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Notification of information to the Poison Information Service[^key-b9d8e718013d96d20e8c4a44475887c5]
+## 29. Notification of information to the Poison Information Service[^c-b9d8e718013d96d20e8c4a44475887c5]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ in connection with the medical treatment of a person who may have been affected 
 
 ## Annotations
 
-[^key-b9d8e718013d96d20e8c4a44475887c5]: Commencement: Reg. 29 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-b9d8e718013d96d20e8c4a44475887c5]: Commencement: Reg. 29 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

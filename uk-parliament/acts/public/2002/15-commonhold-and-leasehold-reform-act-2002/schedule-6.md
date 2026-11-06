@@ -29,7 +29,7 @@ Section 72
 - (a) of any non-residential part, or
 - (b) (where there is more than one such part) of those parts (taken together),
 
-exceeds 50%[^key-500c03c40d6c9ae5956a8df86ac96d51] of the internal floor area of the premises (taken as a whole).
+exceeds 50%[^c-500c03c40d6c9ae5956a8df86ac96d51] of the internal floor area of the premises (taken as a whole).
 
 (2) A part of premises is a non-residential part if it is neither—
 
@@ -101,13 +101,13 @@ and “**son**” and “**daughter**” include stepson and stepdaughter (“**
 
 (2) Sub-paragraph (1)(b) does not apply where the right to manage the premises ceased to be exercisable by virtue of section 73(5).
 
-(3) The appropriate tribunal[^key-c7010a6fb9f29914b9e14d50eebd0d53] may, on an application made by a RTM company, determine that sub-paragraph (1)(b) is not to apply in any case if it considers that it would be unreasonable for it to apply in the circumstances of the case.
+(3) The appropriate tribunal[^c-c7010a6fb9f29914b9e14d50eebd0d53] may, on an application made by a RTM company, determine that sub-paragraph (1)(b) is not to apply in any case if it considers that it would be unreasonable for it to apply in the circumstances of the case.
 
 ## Annotations
 
 [^c21533141]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6) wholly in force at 30.3.2004; [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6) not in force at Royal Assent see [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6) in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6) in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
-[^key-500c03c40d6c9ae5956a8df86ac96d51]: Textual amendment: Word in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6/paragraph/1/1) substituted (3.3.2025) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 49](https://www.legislation.gov.uk/ukpga/2024/22/section/49), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/a)
+[^c-500c03c40d6c9ae5956a8df86ac96d51]: Textual amendment: Word in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6/paragraph/1/1) substituted (3.3.2025) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 49](https://www.legislation.gov.uk/ukpga/2024/22/section/49), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/a)
 
 [^c21533151]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6) wholly in force at 30.3.2004; [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6) not in force at Royal Assent see [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6) in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6) in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
@@ -119,4 +119,4 @@ and “**son**” and “**daughter**” include stepson and stepdaughter (“**
 
 [^c21533181]: Commencement: Sch. 6 wholly in force at 30.3.2004; Sch. 6 not in force at Royal Assent see s. 181(1); Sch. 6 in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); Sch. 6 in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
-[^key-c7010a6fb9f29914b9e14d50eebd0d53]: Textual amendment: Words in [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6/paragraph/5/3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 145](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/145) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-c7010a6fb9f29914b9e14d50eebd0d53]: Textual amendment: Words in [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/6/paragraph/5/3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 145](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/145) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

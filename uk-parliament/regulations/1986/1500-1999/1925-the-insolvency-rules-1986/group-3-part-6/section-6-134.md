@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.134. Advertisement of resignation or removal[^key-8cca40d05dde2620fca6c59307c545af]
+## 6.134. Advertisement of resignation or removal[^c-8cca40d05dde2620fca6c59307c545af]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a new trustee is appointed in place of one who has resigned or been remove
 
 ## Annotations
 
-[^key-8cca40d05dde2620fca6c59307c545af]: Commencement: [Rule 6.134](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.134) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-8cca40d05dde2620fca6c59307c545af]: Commencement: [Rule 6.134](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.134) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Restriction on establishment of a securitisation special purpose entity[^key-ad57a342c25ed099a73646ee75561c51]
+## 8A. Restriction on establishment of a securitisation special purpose entity[^c-ad57a342c25ed099a73646ee75561c51]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad57a342c25ed099a73646ee75561c51]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2024/102/part/3A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/5)
+[^c-ad57a342c25ed099a73646ee75561c51]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2024/102/part/3A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/5)

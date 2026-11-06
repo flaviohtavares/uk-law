@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3A (Extent: W) (affected by repeal, see note). Immobilisation after stunning (Extent: W) (affected by repeal, see note)[^M_E_88fq0m7i-q5tt-4pcn-sets-67c1bc768229d][^key-29e8ef3a5d57f823261f46df805d0311][^key-29e8ef3a5d57f823261f46df805d0311][^key-29e8ef3a5d57f823261f46df805d0311]
+## 3A (Extent: W) (affected by repeal, see note). Immobilisation after stunning (Extent: W) (affected by repeal, see note)[^M_E_88fq0m7i-q5tt-4pcn-sets-67c1bc768229d][^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311]
 
 *Extent: E*
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: W)* *(affected by repeal, see note)*[^key-29e8ef3a5d57f823261f46df805d0311]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: W)* *(affected by repeal, see note)*[^c-29e8ef3a5d57f823261f46df805d0311]
 
-## 3A. Immobilisation after stunning[^key-29e8ef3a5d57f823261f46df805d0311][^M_E_94eace8f-b4b7-47fe-d687-3416604df076]
+## 3A. Immobilisation after stunning[^c-29e8ef3a5d57f823261f46df805d0311][^M_E_94eace8f-b4b7-47fe-d687-3416604df076]
 
 *Extent: W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3A. Laceration of central nervous tissue after stunning[^M_E_k22pojbm-oqhq-v9m7-x3x1-67c1bc768226e][^key-06fa2683250b6f459e94a57f417a9737]
+## 3A. Laceration of central nervous tissue after stunning[^M_E_k22pojbm-oqhq-v9m7-x3x1-67c1bc768226e][^c-06fa2683250b6f459e94a57f417a9737]
 
 *Extent: S*
 
@@ -40,10 +40,10 @@ summary: ''
 
 [^M_E_88fq0m7i-q5tt-4pcn-sets-67c1bc768229d]: Extent: This version of this provision applies to England only; separate versions have been created for Scotland and Wales
 
-[^key-29e8ef3a5d57f823261f46df805d0311]: Textual amendment: Regulations revoked (W.) (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/uksi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2014/951/regulation/1/c), [46(a)](https://www.legislation.gov.uk/uksi/2014/951/regulation/46/a); and revoked (E.) (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(a)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/a)
+[^c-29e8ef3a5d57f823261f46df805d0311]: Textual amendment: Regulations revoked (W.) (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/uksi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2014/951/regulation/1/c), [46(a)](https://www.legislation.gov.uk/uksi/2014/951/regulation/46/a); and revoked (E.) (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(a)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/a)
 
 [^M_E_94eace8f-b4b7-47fe-d687-3416604df076]: Extent: This version of this provision applies to Wales only; separate versions have been created for England and Scotland
 
 [^M_E_k22pojbm-oqhq-v9m7-x3x1-67c1bc768226e]: Extent: This version of this provision applies to Scotland only; separate versions have been created for England and Wales
 
-[^key-06fa2683250b6f459e94a57f417a9737]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/1995/731/regulation/3A) inserted (S.) (1.4.2001) by [The Restriction on Pithing (Scotland) Regulations 2001 (S.S.I. 2001/73)](https://www.legislation.gov.uk/ssi/2001/73), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2001/73/regulation/1/1/a), [4](https://www.legislation.gov.uk/ssi/2001/73/regulation/4)
+[^c-06fa2683250b6f459e94a57f417a9737]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/1995/731/regulation/3A) inserted (S.) (1.4.2001) by [The Restriction on Pithing (Scotland) Regulations 2001 (S.S.I. 2001/73)](https://www.legislation.gov.uk/ssi/2001/73), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2001/73/regulation/1/1/a), [4](https://www.legislation.gov.uk/ssi/2001/73/regulation/4)

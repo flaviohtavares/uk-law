@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Persons working on vessels[^key-97150aca7bc4d01e6b729de1c9f496d8]
+## 76. Persons working on vessels[^c-97150aca7bc4d01e6b729de1c9f496d8]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97150aca7bc4d01e6b729de1c9f496d8]: Commencement: S. 76 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-97150aca7bc4d01e6b729de1c9f496d8]: Commencement: S. 76 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

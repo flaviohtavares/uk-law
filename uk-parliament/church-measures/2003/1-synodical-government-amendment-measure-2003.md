@@ -33,7 +33,7 @@ A Measure passed by the General Synod of the Church of England to amend the law 
 
 \[6th March 2003\]
 
-## 1. Amendment of Synodical Government Measure 1969[^key-5e5f16fee3bff6139ebc1baa8dad1efb]
+## 1. Amendment of Synodical Government Measure 1969[^c-5e5f16fee3bff6139ebc1baa8dad1efb]
 
 (1) In section 4(2) of the Synodical Government Measure 1969 (1969 No. 2) after paragraph (c) there shall be inserted the following paragraphs—
 
@@ -44,7 +44,7 @@ A Measure passed by the General Synod of the Church of England to amend the law 
 
 (2) The Church Representation Rules contained in Schedule 3 to that Measure shall have effect subject to the amendments specified in the Schedule to this Measure.
 
-## 2. Amendment of Pastoral Measure 1983[^key-e1069cef2f783313f113e739a16de2ae]
+## 2. Amendment of Pastoral Measure 1983[^c-e1069cef2f783313f113e739a16de2ae]
 
 (1) The Pastoral Measure 1983 (1983 No. 1) shall have effect subject to the following amendments.
 
@@ -56,19 +56,19 @@ A Measure passed by the General Synod of the Church of England to amend the law 
 
 .
 
-(3)[^key-e0f245a83375b241f812d10614f8deba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e0f245a83375b241f812d10614f8deba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-1f8bc59874f1c16b691ca313e8fa2dae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1f8bc59874f1c16b691ca313e8fa2dae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-5e44b585e9d6960af1495a8649743340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5e44b585e9d6960af1495a8649743340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-7aa5194710a62a82aa84ed043c6b711f]
+## 3. Transitional provisions[^c-7aa5194710a62a82aa84ed043c6b711f]
 
 (1) The amendment of rule 10(1) of the Church Representation Rules effected by paragraph 2 of the Schedule to this Measure shall not affect the term of office of any person who is a member of a parochial church council or deanery synod on the date on which that amendment comes into force.
 
 (2) The amendment of rule 14(1) of those Rules effected by paragraph 4 of that Schedule shall not affect the term of office of any person who is a member of a parochial church council on the date on which that amendment comes into force and shall not apply to the first election of members of a parochial church council held after that date.
 
-## 4. Short title, commencement and extent[^key-4a0294dc21615b3ca4775171ee6fc69f]
+## 4. Short title, commencement and extent[^c-4a0294dc21615b3ca4775171ee6fc69f]
 
 (1) This Measure may be cited as the Synodical Government (Amendment) Measure 2003.
 
@@ -84,19 +84,19 @@ A Measure passed by the General Synod of the Church of England to amend the law 
 
 Section 1(2)
 
-**1.**[^key-592575366e4d9401d2fc06a872aed5a1] The Church Representation Rules shall be amended as follows.
+**1.**[^c-592575366e4d9401d2fc06a872aed5a1] The Church Representation Rules shall be amended as follows.
 
-**2.**[^key-dc5eb7e4bf2508f9ba5388c664e777a8] In rule 10(1) at the end of sub-paragraph (a) there shall be inserted the words “ and, unless he is under the age of eighteen years at the date of the election, has been so entered for at least the preceding period of six months ”.
+**2.**[^c-dc5eb7e4bf2508f9ba5388c664e777a8] In rule 10(1) at the end of sub-paragraph (a) there shall be inserted the words “ and, unless he is under the age of eighteen years at the date of the election, has been so entered for at least the preceding period of six months ”.
 
-**3.**[^key-bf4efc055fe4b7cecc01dba4ee4ba8a0] In rule 14(1) after sub-paragraph (a) there shall be inserted the following sub-paragraph—
+**3.**[^c-bf4efc055fe4b7cecc01dba4ee4ba8a0] In rule 14(1) after sub-paragraph (a) there shall be inserted the following sub-paragraph—
 
 > - (aa) any clerk in Holy Orders who is duly authorised to act as chairman of meetings of the council by the bishop in accordance with paragraph 5(b) of Appendix II to these rules;
 
 .
 
-**4.**[^key-e300dd40ec428518309a0680bab65484] In rule 14(1) in sub-paragraph (g) for the words from the beginning to “determined” there shall be substituted the words “ six representatives of the laity where there are not more than fifty names on the electoral roll, nine such representatives where there are not more than one hundred names on the roll and, where there are more than one hundred names on the roll, a further three such representatives for every one hundred (or part thereof) names on the roll up to a maximum of fifteen such members, and so that the aforesaid numbers “six”, “nine”, “three” and “fifteen” ”.
+**4.**[^c-e300dd40ec428518309a0680bab65484] In rule 14(1) in sub-paragraph (g) for the words from the beginning to “determined” there shall be substituted the words “ six representatives of the laity where there are not more than fifty names on the electoral roll, nine such representatives where there are not more than one hundred names on the roll and, where there are more than one hundred names on the roll, a further three such representatives for every one hundred (or part thereof) names on the roll up to a maximum of fifteen such members, and so that the aforesaid numbers “six”, “nine”, “three” and “fifteen” ”.
 
-**5.**[^key-22f177c72a9e5cdaaba08a77ee0530f1] For rule 16 there shall be substituted the following rule—
+**5.**[^c-22f177c72a9e5cdaaba08a77ee0530f1] For rule 16 there shall be substituted the following rule—
 
 > **16.** (1) Subject to the following provisions of these rules, representatives of the laity serving on the parochial church council by virtue of rule 14(1)(g) shall hold office from the conclusion of the annual meeting at which they were elected until the conclusion of the third annual meeting thereafter, one third retiring and being elected each year, but, subject to rule 17, shall on retirement be eligible for re-election.
 >
@@ -112,17 +112,17 @@ Section 1(2)
 
 .
 
-**6.**[^key-f484c960d60f5d66d0e50f500973ec16] In rule 18—
+**6.**[^c-f484c960d60f5d66d0e50f500973ec16] In rule 18—
 
 - (a) in paragraph 3(i) the words from “including” to “of this rule” shall be omitted,
 - (b) paragraph (5A) shall be omitted, and
 - (c) in paragraph (6) the words “or to apply for a designation referred to in paragraph (5A) above” shall be omitted.
 
-**7.**[^key-5e3ac04479b54d4f40209fd5173f5011] In rule 31(8) for the number “150” there shall be substituted the number “ 120 ”.
+**7.**[^c-5e3ac04479b54d4f40209fd5173f5011] In rule 31(8) for the number “150” there shall be substituted the number “ 120 ”.
 
-**8.**[^key-b7177d70955e02c3fae9998d1295868d] In rule 54(1) in the definition of “parish” paragraph (d) shall be omitted.
+**8.**[^c-b7177d70955e02c3fae9998d1295868d] In rule 54(1) in the definition of “parish” paragraph (d) shall be omitted.
 
-**9.**[^key-571a36cbcd2f6854456dd6c701b9a273] In Appendix II in paragraph 5—
+**9.**[^c-571a36cbcd2f6854456dd6c701b9a273] In Appendix II in paragraph 5—
 
 - (a) for sub-paragraphs (a) to (d) there shall be substituted the following sub-paragraphs—
 
@@ -135,34 +135,34 @@ Section 1(2)
 
 ## Annotations
 
-[^key-5e5f16fee3bff6139ebc1baa8dad1efb]: Commencement: S. 1 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-5e5f16fee3bff6139ebc1baa8dad1efb]: Commencement: S. 1 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-e1069cef2f783313f113e739a16de2ae]: Commencement: S. 2 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-e1069cef2f783313f113e739a16de2ae]: Commencement: S. 2 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-e0f245a83375b241f812d10614f8deba]: Textual amendment: S. 2(3) repealed (11.6.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-e0f245a83375b241f812d10614f8deba]: Textual amendment: S. 2(3) repealed (11.6.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
 
-[^key-1f8bc59874f1c16b691ca313e8fa2dae]: Textual amendment: S. 2(4) repealed (1.2.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-1f8bc59874f1c16b691ca313e8fa2dae]: Textual amendment: S. 2(4) repealed (1.2.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
 
-[^key-5e44b585e9d6960af1495a8649743340]: Textual amendment: S. 2(5) repealed (1.2.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-5e44b585e9d6960af1495a8649743340]: Textual amendment: S. 2(5) repealed (1.2.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
 
-[^key-7aa5194710a62a82aa84ed043c6b711f]: Commencement: S. 3 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-7aa5194710a62a82aa84ed043c6b711f]: Commencement: S. 3 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-4a0294dc21615b3ca4775171ee6fc69f]: Commencement: S. 4 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-4a0294dc21615b3ca4775171ee6fc69f]: Commencement: S. 4 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-592575366e4d9401d2fc06a872aed5a1]: Commencement: Sch. para. 1 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-592575366e4d9401d2fc06a872aed5a1]: Commencement: Sch. para. 1 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-dc5eb7e4bf2508f9ba5388c664e777a8]: Commencement: Sch. para. 2 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-dc5eb7e4bf2508f9ba5388c664e777a8]: Commencement: Sch. para. 2 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-bf4efc055fe4b7cecc01dba4ee4ba8a0]: Commencement: Sch. para. 3 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-bf4efc055fe4b7cecc01dba4ee4ba8a0]: Commencement: Sch. para. 3 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-e300dd40ec428518309a0680bab65484]: Commencement: Sch. para. 4 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-e300dd40ec428518309a0680bab65484]: Commencement: Sch. para. 4 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-22f177c72a9e5cdaaba08a77ee0530f1]: Commencement: Sch. para. 5 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-22f177c72a9e5cdaaba08a77ee0530f1]: Commencement: Sch. para. 5 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-f484c960d60f5d66d0e50f500973ec16]: Commencement: Sch. para. 6 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-f484c960d60f5d66d0e50f500973ec16]: Commencement: Sch. para. 6 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-5e3ac04479b54d4f40209fd5173f5011]: Commencement: Sch. para. 7 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-5e3ac04479b54d4f40209fd5173f5011]: Commencement: Sch. para. 7 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-b7177d70955e02c3fae9998d1295868d]: Commencement: Sch. para. 8 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-b7177d70955e02c3fae9998d1295868d]: Commencement: Sch. para. 8 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
 
-[^key-571a36cbcd2f6854456dd6c701b9a273]: Commencement: Sch. para. 9 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops
+[^c-571a36cbcd2f6854456dd6c701b9a273]: Commencement: Sch. para. 9 in force at 1.1.2004 by [2003 No. 2](https://www.legislation.gov.uk/ukci/2003/2), Instrument made by Archbishops

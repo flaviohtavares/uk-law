@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Interpretation[^key-5e511286954db52ba9fcdfa00f3cc563]
+## 81. Interpretation[^c-5e511286954db52ba9fcdfa00f3cc563]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e511286954db52ba9fcdfa00f3cc563]: Commencement: S. 81 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-5e511286954db52ba9fcdfa00f3cc563]: Commencement: S. 81 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

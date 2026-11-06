@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Penalties[^key-c85a3494301877df2356ff4fd8dcd09a]
+## 48. Penalties[^c-c85a3494301877df2356ff4fd8dcd09a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c85a3494301877df2356ff4fd8dcd09a]: Commencement: Reg. 48 in force at 27.3.2020, see reg. 1
+[^c-c85a3494301877df2356ff4fd8dcd09a]: Commencement: Reg. 48 in force at 27.3.2020, see reg. 1

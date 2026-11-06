@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Application of Part[^key-6b3765e1bc805f7f6b7fd5c1b26262b2]
+## 131. Application of Part[^c-6b3765e1bc805f7f6b7fd5c1b26262b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ This Part—
 
 ## Annotations
 
-[^key-6b3765e1bc805f7f6b7fd5c1b26262b2]: Commencement: [Reg. 131](https://www.legislation.gov.uk/uksi/2014/2848/regulation/131) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-6b3765e1bc805f7f6b7fd5c1b26262b2]: Commencement: [Reg. 131](https://www.legislation.gov.uk/uksi/2014/2848/regulation/131) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00050]: Footnote: Chapter 5 of Part 4 of PSA 1993 was inserted by s.264 of the [Pensions Act 2004(c.35)](https://www.legislation.gov.uk/ukpga/2004/35).

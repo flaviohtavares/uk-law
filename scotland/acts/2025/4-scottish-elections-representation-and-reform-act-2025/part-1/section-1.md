@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Scottish Parliament elections[^key-4b06a9ead081fc9f3264eb30357c4e46][^key-4180dabbd958b6f8717c9aca8806669f]
+## 1. Scottish Parliament elections[^c-4b06a9ead081fc9f3264eb30357c4e46][^c-4180dabbd958b6f8717c9aca8806669f]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b06a9ead081fc9f3264eb30357c4e46]: Commencement: S. 1 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-4b06a9ead081fc9f3264eb30357c4e46]: Commencement: S. 1 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-4180dabbd958b6f8717c9aca8806669f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/4/section/1) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-4180dabbd958b6f8717c9aca8806669f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/4/section/1) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**8.**[^key-4054eb251b89d5ed3f187c023547a873][^key-5e73940b828b22b0e4d2f749c2bb3956] For the purposes of article 7, the “Trustee of the RMPP” includes—
+**8.**[^c-4054eb251b89d5ed3f187c023547a873][^c-5e73940b828b22b0e4d2f749c2bb3956] For the purposes of article 7, the “Trustee of the RMPP” includes—
 
 - (a) the trustee of the RMPP at the qualifying time;
 - (b) a former or future trustee of the RMPP;
@@ -27,6 +27,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4054eb251b89d5ed3f187c023547a873]: Commencement: Art. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-4054eb251b89d5ed3f187c023547a873]: Commencement: Art. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-5e73940b828b22b0e4d2f749c2bb3956]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/687/article/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-5e73940b828b22b0e4d2f749c2bb3956]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/687/article/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)

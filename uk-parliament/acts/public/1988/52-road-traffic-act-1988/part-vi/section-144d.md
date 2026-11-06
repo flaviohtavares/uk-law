@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144D. Section 144A offence: supplementary[^key-8a89cbf10f3ce66142cd3e28f52a66ad]
+## 144D. Section 144A offence: supplementary[^c-8a89cbf10f3ce66142cd3e28f52a66ad]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a89cbf10f3ce66142cd3e28f52a66ad]: Textual amendment: Ss. 144A-144D inserted (4.2.2011) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10) (with [s. 61(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/3)); [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/19/article/2/a)
+[^c-8a89cbf10f3ce66142cd3e28f52a66ad]: Textual amendment: Ss. 144A-144D inserted (4.2.2011) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10) (with [s. 61(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/3)); [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/19/article/2/a)

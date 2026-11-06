@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## L10. Finance[^key-574acc48dcf0bf16aedde8de57fc1b11]
+## L10. Finance[^c-574acc48dcf0bf16aedde8de57fc1b11]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ the allowance shall be treated for the purposes of paragraph (1) as a benefit un
 
 ## Annotations
 
-[^key-574acc48dcf0bf16aedde8de57fc1b11]: Commencement: [Reg. L10](https://www.legislation.gov.uk/uksi/1986/24/regulation/L10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-574acc48dcf0bf16aedde8de57fc1b11]: Commencement: [Reg. L10](https://www.legislation.gov.uk/uksi/1986/24/regulation/L10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

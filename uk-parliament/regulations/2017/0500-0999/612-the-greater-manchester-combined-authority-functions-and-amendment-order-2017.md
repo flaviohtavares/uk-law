@@ -54,11 +54,11 @@ In accordance with sections 104(10), 105(3A) and 105B(1)(b) and (2) of the 2009 
 
 A draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament pursuant to section 117(2) of the 2009 Act.
 
-In accordance with section 105B(9) of the 2009 Act the Secretary of State has laid before Parliament a report explaining the effect of this Order and why the Secretary of State considers it appropriate to make this Order.[^key-488023ea38d8b005d5ce1cbc6e4dac0e]
+In accordance with section 105B(9) of the 2009 Act the Secretary of State has laid before Parliament a report explaining the effect of this Order and why the Secretary of State considers it appropriate to make this Order.[^c-488023ea38d8b005d5ce1cbc6e4dac0e]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-af3340e74bfe54379ee69b7b937466c6][^key-af3340e74bfe54379ee69b7b937466c6]
+### 1. Citation and commencement[^c-af3340e74bfe54379ee69b7b937466c6][^c-af3340e74bfe54379ee69b7b937466c6]
 
 (1) This Order may be cited as the Greater Manchester Combined Authority (Functions and Amendment) Order 2017.
 
@@ -68,55 +68,55 @@ In accordance with section 105B(9) of the 2009 Act the Secretary of State has la
 
 (4) Part 4 comes into force on 1st April 2018.
 
-### 2. Interpretation[^key-93906df23a4d95c7efe9d637160e6f55][^key-93906df23a4d95c7efe9d637160e6f55]
+### 2. Interpretation[^c-93906df23a4d95c7efe9d637160e6f55][^c-93906df23a4d95c7efe9d637160e6f55]
 
 In this Order—
 
 - “the 1989 Act” means the Local Government and Housing Act 1989[^f00007];
-- [^key-3fa92190ba65a3e0e40783eb8162c80e]...
-- [^key-8c62e0bcf7cc26eb653dc6b62b05368a]...
-- [^key-97805b3b89d6802f38f957b4f9217536]...
+- [^c-3fa92190ba65a3e0e40783eb8162c80e]...
+- [^c-8c62e0bcf7cc26eb653dc6b62b05368a]...
+- [^c-97805b3b89d6802f38f957b4f9217536]...
 - “the 2009 Act” means the Local Democracy, Economic Development and Construction Act 2009;
-- [^key-08610391c8a1117f669fb01155beadcc]...
+- [^c-08610391c8a1117f669fb01155beadcc]...
 - “the 2011 Order” means the Greater Manchester Combined Authority Order 2011[^f00012];
 - “the Area” means the area of the GMCA;
 - “constituent councils” means the district councils for the local government areas of Bolton, Bury, Manchester, Oldham, Rochdale, Salford, Stockport, Tameside, Trafford and Wigan;
-- [^key-a64063c3c437a5ed20de0a009bcf7e32]...
+- [^c-a64063c3c437a5ed20de0a009bcf7e32]...
 - “GMCA” means the Greater Manchester Combined Authority, a body corporate established by the 2011 Order[^f00013];
 - “GMWDA” means the Greater Manchester Waste Disposal Authority established by the Waste Regulation and Disposal (Authorities) Order 1985[^f00014]; and
 - “the Mayor” means the mayor for the Area[^f00015], except in the term “the Mayor of London”.
 
-## PART 2 — Mayoral development corporation[^key-5712525cba29f54c4877cce3dbdf22f1]
+## PART 2 — Mayoral development corporation[^c-5712525cba29f54c4877cce3dbdf22f1]
 
 **No longer in force.**
 
-### 3. Conferral of functions on the GMCA[^key-5712525cba29f54c4877cce3dbdf22f1]
+### 3. Conferral of functions on the GMCA[^c-5712525cba29f54c4877cce3dbdf22f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Application of provisions in the 2011 Act[^key-5712525cba29f54c4877cce3dbdf22f1]
+### 4. Application of provisions in the 2011 Act[^c-5712525cba29f54c4877cce3dbdf22f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Incidental provisions[^key-5712525cba29f54c4877cce3dbdf22f1]
+### 5. Incidental provisions[^c-5712525cba29f54c4877cce3dbdf22f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5712525cba29f54c4877cce3dbdf22f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5712525cba29f54c4877cce3dbdf22f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5712525cba29f54c4877cce3dbdf22f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5712525cba29f54c4877cce3dbdf22f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Grants[^key-f8f70748c89b9071534b0bce2d13947e]
+## PART 3 — Grants[^c-f8f70748c89b9071534b0bce2d13947e]
 
 **No longer in force.**
 
-### 8. Power to pay grant[^key-f8f70748c89b9071534b0bce2d13947e]
+### 8. Power to pay grant[^c-f8f70748c89b9071534b0bce2d13947e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Waste Disposal
 
-### 9. Abolition and transfer of functions[^key-42fdc7b6c7b9f9a98573b406525e18cb]
+### 9. Abolition and transfer of functions[^c-42fdc7b6c7b9f9a98573b406525e18cb]
 
 (1) The functions of the GMWDA are functions of the GMCA that are exercisable in relation to the local government areas of the constituent councils other than the district council for the local government area of Wigan.
 
@@ -124,7 +124,7 @@ In this Order—
 
 (3) In this Part, “GMWDA area” means the local government areas of the constituent councils for the local government areas of Bolton, Bury, Manchester, Oldham, Rochdale, Salford, Stockport, Tameside and Trafford.
 
-### 10. Adaptation of enactments[^key-16372edbc583b3cd96db8d4175df316b]
+### 10. Adaptation of enactments[^c-16372edbc583b3cd96db8d4175df316b]
 
 (1) This article has effect in consequence of article 9.
 
@@ -155,7 +155,7 @@ in any enactment (whenever passed or made) is to be treated, in its application 
 - (o) paragraph 1 of the Schedule to the Whole of Government Accounts (Designation of Bodies) Order 2015[^f00044]; and
 - (p) article 2 of the Audit Commission for Local Authorities and the National Health Service in England (Specified Organisations) (England) Order 2009[^f00045].
 
-### 11. Continuity[^key-1d6ead1f5b1ca1f0460228f1c9c8636a]
+### 11. Continuity[^c-1d6ead1f5b1ca1f0460228f1c9c8636a]
 
 (1) Nothing in articles 9 or 10 affects the validity of anything done by or in relation to the GMWDA before the commencement date of this Part as specified in article 1(4).
 
@@ -205,11 +205,11 @@ as they have effect in relation to the transfer made by this Order of land or ot
 
 ## PART 5 — Funding
 
-### 12. Funding[^key-8ad5b7175f114d75d84875d83a8c04b2][^key-8ad5b7175f114d75d84875d83a8c04b2]
+### 12. Funding[^c-8ad5b7175f114d75d84875d83a8c04b2][^c-8ad5b7175f114d75d84875d83a8c04b2]
 
-(1) Subject to paragraph (5), the constituent councils must ensure that the costs of the GMCA reasonably attributable to the exercise of its functions are met,[^key-f485c4de7cee24442351cd85bacaa50e] to the extent that the GMCA has not decided to meet these costs from other resources available to the GMCA.
+(1) Subject to paragraph (5), the constituent councils must ensure that the costs of the GMCA reasonably attributable to the exercise of its functions are met,[^c-f485c4de7cee24442351cd85bacaa50e] to the extent that the GMCA has not decided to meet these costs from other resources available to the GMCA.
 
-(2) Subject to paragraph (4), the constituent councils must meet the costs of the expenditure reasonably incurred by the Mayor in, or in connection with, the exercise of any mayoral function[^key-f1d8f9270166e76c36184b4e780f7be0] to the extent that the Mayor has not decided to meet these costs from other resources available to the GMCA.
+(2) Subject to paragraph (4), the constituent councils must meet the costs of the expenditure reasonably incurred by the Mayor in, or in connection with, the exercise of any mayoral function[^c-f1d8f9270166e76c36184b4e780f7be0] to the extent that the Mayor has not decided to meet these costs from other resources available to the GMCA.
 
 (3) Subject to paragraphs (5) and (6), any amount payable by each of the constituent councils to ensure that the costs of the GMCA referred to in paragraphs (1) and (2) are met is to be determined by apportioning such costs between the constituent councils in such proportions as they may agree or, in default of such agreement, in accordance with the proportion to the total resident population of the GMCA which resides in the area of each constituent council at the relevant date as estimated by the Statistics Board[^f00048].
 
@@ -228,13 +228,13 @@ as they have effect in relation to the transfer made by this Order of land or ot
 
 ## PART 6 — Data sharing; delegation of functions; mayoral functions
 
-### 13. Data sharing[^key-802a56141106ee46fb12bcfdaac0bb6d][^key-802a56141106ee46fb12bcfdaac0bb6d]
+### 13. Data sharing[^c-802a56141106ee46fb12bcfdaac0bb6d][^c-802a56141106ee46fb12bcfdaac0bb6d]
 
-(1)[^key-be37ef7b5edf28acba6405323ab3da60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-be37ef7b5edf28acba6405323ab3da60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-be37ef7b5edf28acba6405323ab3da60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-be37ef7b5edf28acba6405323ab3da60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-be37ef7b5edf28acba6405323ab3da60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-be37ef7b5edf28acba6405323ab3da60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The GMCA is a local enforcing authority for the purposes of section 113 of the Environment Act 1995 (disclosure of information)[^f00052] in consequence of the functions conferred by paragraphs 3 to 5 of Schedule 3 to the 2011 Order.
 
@@ -249,24 +249,24 @@ as they have effect in relation to the transfer made by this Order of land or ot
 
 (7) In this article, “the 2008 Act” means the Education and Skills Act 2008[^f00059].
 
-### 14. Arrangements for delegation of general functions of the Mayor[^key-d40ce87cf62ffe2b4fa14d4ed5170f80]
+### 14. Arrangements for delegation of general functions of the Mayor[^c-d40ce87cf62ffe2b4fa14d4ed5170f80]
 
 In arrangements made under section 107D(3)(b) and (7)(b) of the 2009 Act (functions of mayors: general) the Greater Manchester Passenger Transport Executive[^f00060] is to be treated as if it were an officer of the GMCA.
 
-### 15. Functions exercisable only by the mayor[^key-98c0ce874e5e4f44a6586b26b8175260]
+### 15. Functions exercisable only by the mayor[^c-98c0ce874e5e4f44a6586b26b8175260]
 
-(1)[^key-2ca0b2581d5c4d3833aae8655d6f13ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2ca0b2581d5c4d3833aae8655d6f13ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) For the purposes of the exercise of any mayoral function[^key-7e92e22ce932711ad8ea43acdcae9c99]—
+(2) For the purposes of the exercise of any mayoral function[^c-7e92e22ce932711ad8ea43acdcae9c99]—
 
-- (a)[^key-ab6a5f0624771e20c0e54937068b4727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the Mayor has the power to do in relation to any mayoral function[^key-db8e5034f111fd8f5967f91ca84540da] anything that the GMCA may do under section 113A of the 2009 Act (general power of EPB or combined authority) for the purposes of its functions[^f00068].
+- (a)[^c-ab6a5f0624771e20c0e54937068b4727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the Mayor has the power to do in relation to any mayoral function[^c-db8e5034f111fd8f5967f91ca84540da] anything that the GMCA may do under section 113A of the 2009 Act (general power of EPB or combined authority) for the purposes of its functions[^f00068].
 
-(3)[^key-bf7133156db8eca5273605dd0cf161e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bf7133156db8eca5273605dd0cf161e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Mayor may not make arrangements in accordance with section 107D(3) of the 2009 Act[^f00069] in relation to the level or amount of earn back to be used or allocated to any exercise of a general function.
 
-(5) Anything which, immediately before 8th May 2017, is in the process of being done by or in relation to the GMCA or by or in relation to a constituent council [^key-21de5cb842077bec2548062c3b2e10fe]... in relation to earn back, is to be treated as having been done by or in relation to the Mayor.
+(5) Anything which, immediately before 8th May 2017, is in the process of being done by or in relation to the GMCA or by or in relation to a constituent council [^c-21de5cb842077bec2548062c3b2e10fe]... in relation to earn back, is to be treated as having been done by or in relation to the Mayor.
 
 (6) In paragraphs (4) and (5) “earn back” means the arrangements specified in paragraph 17 of the Greater Manchester Agreement of 3rd November 2014[^f00070].
 
@@ -274,9 +274,9 @@ In arrangements made under section 107D(3)(b) and (7)(b) of the 2009 Act (functi
 
 ### 16. Amendment of the Greater Manchester Combined Authority Order 2011
 
-(1)[^key-029c043c5199b26173315f0bc93e353b] Schedule 1 (constitution) to the 2011 Order is amended as set out in the following paragraphs.
+(1)[^c-029c043c5199b26173315f0bc93e353b] Schedule 1 (constitution) to the 2011 Order is amended as set out in the following paragraphs.
 
-(2)[^key-0ba1c8820c6483962cc051503208f482] In paragraph 3 (proceedings)—
+(2)[^c-0ba1c8820c6483962cc051503208f482] In paragraph 3 (proceedings)—
 
 - (a) in sub-paragraph (1)—
   - (i) after “(2B)” insert “(2C), (2D), (2E) and (2F)”;
@@ -312,7 +312,7 @@ In arrangements made under section 107D(3)(b) and (7)(b) of the 2009 Act (functi
 
   .
 
-(3)[^key-029c043c5199b26173315f0bc93e353b] After paragraph 3 (proceedings) insert—
+(3)[^c-029c043c5199b26173315f0bc93e353b] After paragraph 3 (proceedings) insert—
 
 > **3A. Committees– general**
 >
@@ -347,7 +347,7 @@ In arrangements made under section 107D(3)(b) and (7)(b) of the 2009 Act (functi
 
 .
 
-(4)[^key-0ba1c8820c6483962cc051503208f482] After paragraph (5) (standing orders) insert—
+(4)[^c-0ba1c8820c6483962cc051503208f482] After paragraph (5) (standing orders) insert—
 
 > **5A. Overview and scrutiny committees**
 >
@@ -355,9 +355,9 @@ In arrangements made under section 107D(3)(b) and (7)(b) of the 2009 Act (functi
 
 .
 
-(5)[^key-029c043c5199b26173315f0bc93e353b] Omit paragraph 6 (remuneration).
+(5)[^c-029c043c5199b26173315f0bc93e353b] Omit paragraph 6 (remuneration).
 
-### 17. Consequential provision[^key-5aae959735bd8b61b9fd201b53d30fcb][^key-5aae959735bd8b61b9fd201b53d30fcb]
+### 17. Consequential provision[^c-5aae959735bd8b61b9fd201b53d30fcb][^c-5aae959735bd8b61b9fd201b53d30fcb]
 
 (1) Regulation 64 of the Local Government Pension Scheme Regulations 2013 (special circumstances where revised actuarial valuations and certificates must be obtained)[^f00075] has effect in relation to the GMCA as though after paragraph (8) there were inserted—
 
@@ -379,13 +379,13 @@ Department for Communities and Local Government
 
 26th April 2017
 
-## SCHEDULE — Modification of the application of Part 8 of the 2011 Act[^key-9c3a36970eb2ef863640a39680197e85]
+## SCHEDULE — Modification of the application of Part 8 of the 2011 Act[^c-9c3a36970eb2ef863640a39680197e85]
 
 **No longer in force.**
 
 Article 4(1) and (2)
 
-**1.**[^key-9c3a36970eb2ef863640a39680197e85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9c3a36970eb2ef863640a39680197e85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -429,25 +429,25 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00006]: Footnote: This Order relates to the area of the Greater Manchester Combined Authority, which was established by the Greater Manchester Combined Authority Order 2011 ([S.I. 2011/908](https://www.legislation.gov.uk/uksi/2011/908)) as amended by the Greater Manchester Combined Authority (Amendment) Order 2015 ([S.I. 2015/960](https://www.legislation.gov.uk/uksi/2015/960)) and by the Greater Manchester Combined Authority (Functions and Amendment) Order 2016 ([S.I. 2016/1267](https://www.legislation.gov.uk/uksi/2016/1267)). Article 2 of [S.I. 2011/908](https://www.legislation.gov.uk/uksi/2011/908) defines the “combined area” as the area consisting of the areas of the constituent councils, who are the local government areas of Bolton, Bury, Manchester, Oldham, Rochdale, Salford, Stockport, Tameside, Trafford and Wigan.
 
-[^key-488023ea38d8b005d5ce1cbc6e4dac0e]: Modification: [Order](https://www.legislation.gov.uk/uksi/2017/612) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
+[^c-488023ea38d8b005d5ce1cbc6e4dac0e]: Modification: [Order](https://www.legislation.gov.uk/uksi/2017/612) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
 
-[^key-af3340e74bfe54379ee69b7b937466c6]: Commencement: Art. 1 in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
+[^c-af3340e74bfe54379ee69b7b937466c6]: Commencement: Art. 1 in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
 
-[^key-93906df23a4d95c7efe9d637160e6f55]: Commencement: Art. 2 in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
+[^c-93906df23a4d95c7efe9d637160e6f55]: Commencement: Art. 2 in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
 
 [^f00007]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-3fa92190ba65a3e0e40783eb8162c80e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/612/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/2/a)
+[^c-3fa92190ba65a3e0e40783eb8162c80e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/612/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/2/a)
 
-[^key-8c62e0bcf7cc26eb653dc6b62b05368a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/612/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/2/b)
+[^c-8c62e0bcf7cc26eb653dc6b62b05368a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/612/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/2/b)
 
-[^key-97805b3b89d6802f38f957b4f9217536]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/612/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(2)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/2/c)
+[^c-97805b3b89d6802f38f957b4f9217536]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/612/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(2)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/2/c)
 
-[^key-08610391c8a1117f669fb01155beadcc]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/612/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(2)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/2/d)
+[^c-08610391c8a1117f669fb01155beadcc]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/612/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(2)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/2/d)
 
 [^f00012]: Footnote: [S.I. 2011/908](https://www.legislation.gov.uk/uksi/2011/908).
 
-[^key-a64063c3c437a5ed20de0a009bcf7e32]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/612/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(2)(e)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/2/e)
+[^c-a64063c3c437a5ed20de0a009bcf7e32]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/612/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(2)(e)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/2/e)
 
 [^f00013]: Footnote: Article 3(2) of the 2011 Order provides that “the combined authority is to be a body corporate and to be known as the Greater Manchester Combined Authority (“the GMCA”)”.
 
@@ -455,13 +455,13 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00015]: Footnote: Article 3 of [S.I. 2016/448](https://www.legislation.gov.uk/uksi/2016/448) provides for there to be a mayor for the area of the GMCA.
 
-[^key-5712525cba29f54c4877cce3dbdf22f1]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2017/612/part/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/3)
+[^c-5712525cba29f54c4877cce3dbdf22f1]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2017/612/part/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/3)
 
-[^key-f8f70748c89b9071534b0bce2d13947e]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2017/612/part/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/4)
+[^c-f8f70748c89b9071534b0bce2d13947e]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2017/612/part/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/4)
 
-[^key-42fdc7b6c7b9f9a98573b406525e18cb]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/612/article/9) in force at 1.4.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/612/article/1/4)
+[^c-42fdc7b6c7b9f9a98573b406525e18cb]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/612/article/9) in force at 1.4.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/612/article/1/4)
 
-[^key-16372edbc583b3cd96db8d4175df316b]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/612/article/10) in force at 1.4.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/612/article/1/4)
+[^c-16372edbc583b3cd96db8d4175df316b]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/612/article/10) in force at 1.4.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/612/article/1/4)
 
 [^f00032]: Footnote: [1962 c. 56](https://www.legislation.gov.uk/ukpga/1962/56). Section 2 was amended by paragraph 22 of Schedule 8 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51). There are other amendments but none are relevant.
 
@@ -491,25 +491,25 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00045]: Footnote: [S.I. 2009/1360](https://www.legislation.gov.uk/uksi/2009/1360).
 
-[^key-1d6ead1f5b1ca1f0460228f1c9c8636a]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2017/612/article/11) in force at 1.4.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/612/article/1/4)
+[^c-1d6ead1f5b1ca1f0460228f1c9c8636a]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2017/612/article/11) in force at 1.4.2018, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/612/article/1/4)
 
 [^f00046]: Footnote: Section 74 was amended by section 117 of, and paragraph 72 of Schedule 13 to, the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14); section 20 of, and paragraph 21 of Schedule 6 to, the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19); section 120 of, and paragraph 1 of Schedule 24 to, the Environment Act 1995; section 105 of the 1999 Act; section 109 of, and paragraph 305(a) of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39); section 53 of, and paragraph 68 of Schedule 1 to, the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21); section 22 of, and paragraph 16 of Part 2 of Schedule 1 to, the Local Government and Involvement in Public Health Act 2007; sections 119 and 146 of, and paragraphs 74 and 75 of Schedule 6 and Part 4 of Schedule 7 to, the 2009 Act; section 99 of, and paragraphs 181 and 182 of Schedule 16 to the Police Reform and Social Responsibility Act 2011; section 79 of, and paragraphs 1 and 2 of Schedule 7 to, the 2011 Act; section 9(1)(a), (b) and (2) of, and paragraphs 9 and 10 of Schedule 5 to, the 2016 Act; and by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825).
 
 [^f00047]: Footnote: [S.I. 2006/248](https://www.legislation.gov.uk/uksi/2006/248).
 
-[^key-8ad5b7175f114d75d84875d83a8c04b2]: Commencement: Art. 12 in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
+[^c-8ad5b7175f114d75d84875d83a8c04b2]: Commencement: Art. 12 in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
 
-[^key-f485c4de7cee24442351cd85bacaa50e]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2017/612/article/12/1) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(5)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/5/a)
+[^c-f485c4de7cee24442351cd85bacaa50e]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2017/612/article/12/1) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(5)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/5/a)
 
-[^key-f1d8f9270166e76c36184b4e780f7be0]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2017/612/article/12/2) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/5/b)
+[^c-f1d8f9270166e76c36184b4e780f7be0]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2017/612/article/12/2) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/5/b)
 
 [^f00048]: Footnote: Section 25 of the Statistics and Registration Service Act [2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18) provides that the Statistics Board is responsible for the functions in section 19 of the Registration Service Act [1953 (c. 37)](https://www.legislation.gov.uk/ukpga/1953/37).
 
 [^f00049]: Footnote: Section 40 was amended by section 83 of the 1999 Act, section 79 of, and paragraphs 1, 7 and 17 of Schedule 7 to, the 2011 Act and section 5 of the 2016 Act.
 
-[^key-802a56141106ee46fb12bcfdaac0bb6d]: Commencement: Art. 13 in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
+[^c-802a56141106ee46fb12bcfdaac0bb6d]: Commencement: Art. 13 in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
 
-[^key-be37ef7b5edf28acba6405323ab3da60]: Textual amendment: [Art. 13(1)-(3)](https://www.legislation.gov.uk/uksi/2017/612/article/13/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/a)
+[^c-be37ef7b5edf28acba6405323ab3da60]: Textual amendment: [Art. 13(1)-(3)](https://www.legislation.gov.uk/uksi/2017/612/article/13/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/a)
 
 [^f00052]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). Section 113 was amended by section 6 of, and paragraphs 14 and 18 of Schedule 2 to, and by paragraph 1 of Schedule 3 to, the Pollution Prevention and Control Act [1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24) and by [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973).
 
@@ -527,33 +527,33 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00059]: Footnote: [2008 c. 25](https://www.legislation.gov.uk/ukpga/2008/25).
 
-[^key-d40ce87cf62ffe2b4fa14d4ed5170f80]: Commencement: Art. 14 in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/612/article/1/3)
+[^c-d40ce87cf62ffe2b4fa14d4ed5170f80]: Commencement: Art. 14 in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/612/article/1/3)
 
 [^f00060]: Footnote: The Greater Manchester Passenger Transport Executive was established by the South East Lancashire and North East Cheshire Passenger Transport Area (Designation) Order 1969 ([S.I. 1969/95](https://www.legislation.gov.uk/uksi/1969/95)).
 
-[^key-98c0ce874e5e4f44a6586b26b8175260]: Commencement: Art. 15 in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/612/article/1/3)
+[^c-98c0ce874e5e4f44a6586b26b8175260]: Commencement: Art. 15 in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/612/article/1/3)
 
-[^key-2ca0b2581d5c4d3833aae8655d6f13ce]: Textual amendment: [Art. 15(1)](https://www.legislation.gov.uk/uksi/2017/612/article/15/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/i)
+[^c-2ca0b2581d5c4d3833aae8655d6f13ce]: Textual amendment: [Art. 15(1)](https://www.legislation.gov.uk/uksi/2017/612/article/15/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/i)
 
-[^key-7e92e22ce932711ad8ea43acdcae9c99]: Textual amendment: Words in [art. 15(2)](https://www.legislation.gov.uk/uksi/2017/612/article/15/2) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/ii/aa)
+[^c-7e92e22ce932711ad8ea43acdcae9c99]: Textual amendment: Words in [art. 15(2)](https://www.legislation.gov.uk/uksi/2017/612/article/15/2) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/ii/aa)
 
-[^key-ab6a5f0624771e20c0e54937068b4727]: Textual amendment: [Art. 15(2)(a)](https://www.legislation.gov.uk/uksi/2017/612/article/15/2/a) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/ii/bb)
+[^c-ab6a5f0624771e20c0e54937068b4727]: Textual amendment: [Art. 15(2)(a)](https://www.legislation.gov.uk/uksi/2017/612/article/15/2/a) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/ii/bb)
 
-[^key-db8e5034f111fd8f5967f91ca84540da]: Textual amendment: Words in [art. 15(2)(b)](https://www.legislation.gov.uk/uksi/2017/612/article/15/2/b) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/ii/cc)
+[^c-db8e5034f111fd8f5967f91ca84540da]: Textual amendment: Words in [art. 15(2)(b)](https://www.legislation.gov.uk/uksi/2017/612/article/15/2/b) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/ii/cc)
 
 [^f00068]: Footnote: Section 113A was inserted by section 13 of the 2011 Act and amended by section 23 of, and paragraph 25 of Schedule 5 to, the 2016 Act.
 
-[^key-bf7133156db8eca5273605dd0cf161e3]: Textual amendment: [Art. 15(3)](https://www.legislation.gov.uk/uksi/2017/612/article/15/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/iii)
+[^c-bf7133156db8eca5273605dd0cf161e3]: Textual amendment: [Art. 15(3)](https://www.legislation.gov.uk/uksi/2017/612/article/15/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/iii)
 
 [^f00069]: Footnote: Section 107D(3) of the 2009 Act provides for the mayor for the area of a combined authority to make arrangements for the exercise of any general function of the mayor.
 
-[^key-21de5cb842077bec2548062c3b2e10fe]: Textual amendment: Words in [art. 15(5)](https://www.legislation.gov.uk/uksi/2017/612/article/15/5) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/iv)
+[^c-21de5cb842077bec2548062c3b2e10fe]: Textual amendment: Words in [art. 15(5)](https://www.legislation.gov.uk/uksi/2017/612/article/15/5) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/6/b/iv)
 
 [^f00070]: Footnote: The Greater Manchester Agreement of 3rd November 2014 is available at https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/369858/Greater\_Manchester\_Agreement\_i.pdf. A written copy of the Greater Manchester Agreement of 3rd November 2014 is available on request from the Department for Communities and Local Government, Fry Building, 2 Marsham Street, London SW1P 4DF.
 
-[^key-029c043c5199b26173315f0bc93e353b]: Commencement: [Art. 16(1)](https://www.legislation.gov.uk/uksi/2017/612/article/16/1)[(3)](https://www.legislation.gov.uk/uksi/2017/612/article/16/3)[(5)](https://www.legislation.gov.uk/uksi/2017/612/article/16/5) in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
+[^c-029c043c5199b26173315f0bc93e353b]: Commencement: [Art. 16(1)](https://www.legislation.gov.uk/uksi/2017/612/article/16/1)[(3)](https://www.legislation.gov.uk/uksi/2017/612/article/16/3)[(5)](https://www.legislation.gov.uk/uksi/2017/612/article/16/5) in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
 
-[^key-0ba1c8820c6483962cc051503208f482]: Commencement: [Art. 16(2)](https://www.legislation.gov.uk/uksi/2017/612/article/16/2)[(4)](https://www.legislation.gov.uk/uksi/2017/612/article/16/4) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/612/article/1/3)
+[^c-0ba1c8820c6483962cc051503208f482]: Commencement: [Art. 16(2)](https://www.legislation.gov.uk/uksi/2017/612/article/16/2)[(4)](https://www.legislation.gov.uk/uksi/2017/612/article/16/4) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/612/article/1/3)
 
 [^f00071]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38). Sections 108 and 109 were amended by sections 7(1) and (2), 8 and 9 of, and paragraphs 41 and 42 of Part 3 of Schedule 4 and Part 1 of Schedule 7 to the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), and by paragraphs 95 to 97 of the 2009 Act.
 
@@ -563,10 +563,10 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00074]: Footnote: Schedule 5A was inserted by section 8 of, and Schedule 3 to, the 2016 Act.
 
-[^key-5aae959735bd8b61b9fd201b53d30fcb]: Commencement: Art. 17 in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
+[^c-5aae959735bd8b61b9fd201b53d30fcb]: Commencement: Art. 17 in force at 27.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2)
 
 [^f00075]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356). Regulation 64 was amended by [S.I. 2014/1146](https://www.legislation.gov.uk/uksi/2014/1146) and by [S.I. 2015/755](https://www.legislation.gov.uk/uksi/2015/755).
 
 [^f00076]: Footnote: [2008 c. 26](https://www.legislation.gov.uk/ukpga/2008/26).
 
-[^key-9c3a36970eb2ef863640a39680197e85]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2017/612/schedule) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(7)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/7)
+[^c-9c3a36970eb2ef863640a39680197e85]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2017/612/schedule) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [11(7)](https://www.legislation.gov.uk/uksi/2026/519/regulation/11/7)

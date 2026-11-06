@@ -25,12 +25,12 @@ summary: ''
 - (a) the individual to whom the TPIM notice relates may appeal to the court against the extension or revival; and
 - (b) the function of the court on such an appeal is to review the Secretary of State's decisions that conditions A, C and D were met and continue to be met.
 
-(2) If the Secretary of State varies under section 12(1)(c)[^key-121a33a963e046954496efaf3cf13e99] measures specified in a TPIM notice (and the variation does not consist of the relaxation or removal of measures) without the consent of the individual to whom the TPIM notice relates [^key-ba5b8e2f20fbacd4088ed536f21c63ba]...—
+(2) If the Secretary of State varies under section 12(1)(c)[^c-121a33a963e046954496efaf3cf13e99] measures specified in a TPIM notice (and the variation does not consist of the relaxation or removal of measures) without the consent of the individual to whom the TPIM notice relates [^c-ba5b8e2f20fbacd4088ed536f21c63ba]...—
 
 - (a) the individual may appeal to the court against the variation; and
 - (b) the function of the court on such an appeal is to review the Secretary of State's decisions that the variation was necessary, and continues to be necessary, for purposes connected with preventing or restricting involvement by the individual in terrorism-related activity.
 
-(2A)[^key-9388601ea3a7b800f64f76b4fd16ec92] If the Secretary of State varies a relocation measure specified in a TPIM notice under section 12(1A)—
+(2A)[^c-9388601ea3a7b800f64f76b4fd16ec92] If the Secretary of State varies a relocation measure specified in a TPIM notice under section 12(1A)—
 
 - (a) the individual may appeal to the court against the variation; and
 - (b) the function of the court on such an appeal is to review the Secretary of State's decisions that—
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-121a33a963e046954496efaf3cf13e99]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/16/2) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 36(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/36/3/a/i), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-121a33a963e046954496efaf3cf13e99]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/16/2) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 36(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/36/3/a/i), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-ba5b8e2f20fbacd4088ed536f21c63ba]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/16/2) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 36(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/11/section/36/3/a/ii), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-ba5b8e2f20fbacd4088ed536f21c63ba]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/16/2) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 36(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/11/section/36/3/a/ii), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-9388601ea3a7b800f64f76b4fd16ec92]: Textual amendment: [S. 16(2A)](https://www.legislation.gov.uk/ukpga/2011/23/section/16/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2011/23/section/16/2B) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 36(3)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/36/3/b), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-9388601ea3a7b800f64f76b4fd16ec92]: Textual amendment: [S. 16(2A)](https://www.legislation.gov.uk/ukpga/2011/23/section/16/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2011/23/section/16/2B) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 36(3)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/36/3/b), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)

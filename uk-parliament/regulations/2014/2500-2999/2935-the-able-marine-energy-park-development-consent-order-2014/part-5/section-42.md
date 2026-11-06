@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Statutory undertakers[^key-e81f1c30ca4f6a84cca1001d21a12618]
+## 42. Statutory undertakers[^c-e81f1c30ca4f6a84cca1001d21a12618]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may only extinguish the rights of, remove or reposition the appar
 
 ## Annotations
 
-[^key-e81f1c30ca4f6a84cca1001d21a12618]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2014/2935/article/42) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-e81f1c30ca4f6a84cca1001d21a12618]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2014/2935/article/42) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

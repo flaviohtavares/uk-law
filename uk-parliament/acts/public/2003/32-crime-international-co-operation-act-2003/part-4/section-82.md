@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Driver licensing information[^key-a0d8c1849b030418b4ea787e57cda163]
+## 82. Driver licensing information[^c-a0d8c1849b030418b4ea787e57cda163]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Information held in any form—
 
 ## Annotations
 
-[^key-a0d8c1849b030418b4ea787e57cda163]: Commencement: S. 82 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-a0d8c1849b030418b4ea787e57cda163]: Commencement: S. 82 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

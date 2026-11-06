@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5B. Treatment of certain sums held in accounts managed by Keydata Investment Services Limited[^key-e22cc15b8d76581c072b1b9f7d2e931c]
+## 5B. Treatment of certain sums held in accounts managed by Keydata Investment Services Limited[^c-e22cc15b8d76581c072b1b9f7d2e931c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e22cc15b8d76581c072b1b9f7d2e931c]: Textual amendment: [Reg. 5B](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5B) omitted (8.8.2012) by virtue of [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [10](https://www.legislation.gov.uk/uksi/2012/1871/regulation/10)
+[^c-e22cc15b8d76581c072b1b9f7d2e931c]: Textual amendment: [Reg. 5B](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5B) omitted (8.8.2012) by virtue of [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [10](https://www.legislation.gov.uk/uksi/2012/1871/regulation/10)

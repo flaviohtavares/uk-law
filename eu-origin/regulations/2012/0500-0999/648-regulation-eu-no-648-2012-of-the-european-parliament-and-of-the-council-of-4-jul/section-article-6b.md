@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 6b. Risk reduction services[^key-baaa4b1c914274b5e6c7c1d2d25f24e8]
+## Article 6b. Risk reduction services[^c-baaa4b1c914274b5e6c7c1d2d25f24e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baaa4b1c914274b5e6c7c1d2d25f24e8]: Textual amendment: [Art. 6b](https://www.legislation.gov.uk/eur/2012/648/article/6b) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/29) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/ii)
+[^c-baaa4b1c914274b5e6c7c1d2d25f24e8]: Textual amendment: [Art. 6b](https://www.legislation.gov.uk/eur/2012/648/article/6b) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/29) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/ii)

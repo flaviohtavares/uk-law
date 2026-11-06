@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Meaning of property management work[^key-48f4af3643490d9575506bc2c2e68423][^key-08cfede58d606699412e5e50e60843ea]
+## 12. Meaning of property management work[^c-48f4af3643490d9575506bc2c2e68423][^c-08cfede58d606699412e5e50e60843ea]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-48f4af3643490d9575506bc2c2e68423]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2014/7/section/12) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-48f4af3643490d9575506bc2c2e68423]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2014/7/section/12) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-08cfede58d606699412e5e50e60843ea]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2014/7/section/12) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-08cfede58d606699412e5e50e60843ea]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2014/7/section/12) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

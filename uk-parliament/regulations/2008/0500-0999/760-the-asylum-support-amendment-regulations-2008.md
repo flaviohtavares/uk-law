@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 166(3) of, and paragraphs 1 and 3(a) of Schedule 8 to, the Immigration and Asylum Act 1999[^f00001], makes the following Regulations:
 
-## 1. Citation and commencement[^key-8b0b96c9a3fe5929c8d8bc9ba12e2928]
+## 1. Citation and commencement[^c-8b0b96c9a3fe5929c8d8bc9ba12e2928]
 
 These Regulations may be cited as the Asylum Support (Amendment) Regulations 2008 and shall come into force on the 14th April 2008.
 
-## 2. Kind and levels of support for essential living needs[^key-eaad06eb20ba82a3f40ffc5d6c851b88]
+## 2. Kind and levels of support for essential living needs[^c-eaad06eb20ba82a3f40ffc5d6c851b88]
 
 For the table at regulation 10(2) of the Asylum Support Regulations 2000[^f00002] substitute:
 
@@ -67,7 +67,7 @@ For the table at regulation 10(2) of the Asylum Support Regulations 2000[^f00002
 
 .
 
-## 3. Revocation of the Asylum Support (Amendment) Regulations 2007[^key-3df3ae2c24cb8f9b2de2731ab32d3bfb]
+## 3. Revocation of the Asylum Support (Amendment) Regulations 2007[^c-3df3ae2c24cb8f9b2de2731ab32d3bfb]
 
 The Asylum Support (Amendment) Regulations 2007 are revoked.
 
@@ -91,10 +91,10 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33)
 
-[^key-8b0b96c9a3fe5929c8d8bc9ba12e2928]: Commencement: Reg. 1 in force at 14.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/760/regulation/1)
+[^c-8b0b96c9a3fe5929c8d8bc9ba12e2928]: Commencement: Reg. 1 in force at 14.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/760/regulation/1)
 
-[^key-eaad06eb20ba82a3f40ffc5d6c851b88]: Commencement: Reg. 2 in force at 14.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/760/regulation/1)
+[^c-eaad06eb20ba82a3f40ffc5d6c851b88]: Commencement: Reg. 2 in force at 14.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/760/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2000/704](https://www.legislation.gov.uk/uksi/2000/704): regulation 10(2) was substituted by regulation 4 of the Asylum Support (Amendment) Regulations 2002 ([S.I. 2002/472](https://www.legislation.gov.uk/uksi/2002/472)) and amended by regulation 2 of the Asylum Support (Amendment) (No. 2) Regulations 2002 ([S.I. 2002/2169](https://www.legislation.gov.uk/uksi/2002/2169)), regulation 2 of the Asylum Support (Amendment) (No. 2) Regulations 2003 ([S.I. 2003/755](https://www.legislation.gov.uk/uksi/2003/755)), regulation 2 of the Asylum Support (Amendment) Regulations 2004 ([S.I. 2004/763](https://www.legislation.gov.uk/uksi/2004/763)), regulation 2 of the Asylum Support (Amendment) (No. 2) Regulations 2004 ([S.I. 2004/1313](https://www.legislation.gov.uk/uksi/2004/1313)), regulation 2 of the Asylum Support (Amendment) (No. 2) Regulations 2005 ([S.I. 2005/738](https://www.legislation.gov.uk/uksi/2005/738)), regulation 2 of the Asylum Support (Amendment) Regulations 2006 ([S.I. 2006/733](https://www.legislation.gov.uk/uksi/2006/733)) and regulation 3 of the Asylum Support (Amendment) Regulations 2007 ([S.I. 2007/863](https://www.legislation.gov.uk/uksi/2007/863)).
 
-[^key-3df3ae2c24cb8f9b2de2731ab32d3bfb]: Commencement: Reg. 3 in force at 14.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/760/regulation/1)
+[^c-3df3ae2c24cb8f9b2de2731ab32d3bfb]: Commencement: Reg. 3 in force at 14.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/760/regulation/1)

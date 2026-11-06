@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27C (Extent: W.). Power of community meeting to apply for an order dissolving its separate community council (Extent: W.)[^key-fb7c4ce8971764c9634bb717e9782919]
+## 27C (Extent: W.). Power of community meeting to apply for an order dissolving its separate community council (Extent: W.)[^c-fb7c4ce8971764c9634bb717e9782919]
 
 *Extent: E+W.*
 
@@ -41,4 +41,4 @@ are present and voting at the community meeting. *(Extent: W.)*
 
 ## Annotations
 
-[^key-fb7c4ce8971764c9634bb717e9782919]: Textual amendment: S. 27C inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 103](https://www.legislation.gov.uk/mwa/2011/4/section/103), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-fb7c4ce8971764c9634bb717e9782919]: Textual amendment: S. 27C inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 103](https://www.legislation.gov.uk/mwa/2011/4/section/103), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

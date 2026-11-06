@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**77.**[^key-f4f1fbc5e65ad522eac7b39246e12647] In regulation 85—
+**77.**[^c-f4f1fbc5e65ad522eac7b39246e12647] In regulation 85—
 
 - (a) in paragraph (1)—
   - (i) in subparagraph (b) omit “the Member State in which” and for “is another” substitute “in an EU”;
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4f1fbc5e65ad522eac7b39246e12647]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-f4f1fbc5e65ad522eac7b39246e12647]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

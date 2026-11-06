@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Reduction of benefits where lifetime allowance charge payable[^key-7f4bbf85c982ecc2a31fb4c11390987c]
+## 179. Reduction of benefits where lifetime allowance charge payable[^c-7f4bbf85c982ecc2a31fb4c11390987c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f4bbf85c982ecc2a31fb4c11390987c]: Commencement: [Reg. 179](https://www.legislation.gov.uk/uksi/2014/2848/regulation/179) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-7f4bbf85c982ecc2a31fb4c11390987c]: Commencement: [Reg. 179](https://www.legislation.gov.uk/uksi/2014/2848/regulation/179) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

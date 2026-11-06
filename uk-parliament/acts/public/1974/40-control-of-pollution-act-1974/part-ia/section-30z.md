@@ -36,7 +36,7 @@ summary: ''
 
 (5) Where the operator of a mine is—
 
-- (a) the Accountant in Bankruptcy acting as trustee[^key-dbfaf8b5c7fc6b1843027ff5062ee9a2] or interim trustee in a sequestration (within the meaning of the Bankruptcy (Scotland) Act 2016[^key-6663ed78fe7f9259971f87a404063b14]); or
+- (a) the Accountant in Bankruptcy acting as trustee[^c-dbfaf8b5c7fc6b1843027ff5062ee9a2] or interim trustee in a sequestration (within the meaning of the Bankruptcy (Scotland) Act 2016[^c-6663ed78fe7f9259971f87a404063b14]); or
 - (b) the official receiver acting in a compulsory capacity,
 
 he shall not be guilty of an offence under subsection (3) above by reason of any failure to give the notice required by subsection (1) above if, as soon as is reasonably practicable (whether before or after the abandonment), he gives to SEPA notice of the abandonment or proposed abandonment, containing such information as may be prescribed.
@@ -61,9 +61,9 @@ it shall be the duty of SEPA to inform the local authority in whose area that la
 
 [^c2446141]: Textual amendment: Pt. IA (ss. 30Y, 30Z) inserted (12.10.1995 for specified purposes otherwise 1.1.1999) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 59](https://www.legislation.gov.uk/ukpga/1995/25/section/59) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/2649](https://www.legislation.gov.uk/uksi/1995/2649), [art. 2(i)](https://www.legislation.gov.uk/uksi/1995/2649/article/2/i); [S.I. 1998/3272](https://www.legislation.gov.uk/uksi/1998/3272), [art. 2](https://www.legislation.gov.uk/uksi/1998/3272/article/2)
 
-[^key-dbfaf8b5c7fc6b1843027ff5062ee9a2]: Textual amendment: Word in s. 30Z(5)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/2/3/a)
+[^c-dbfaf8b5c7fc6b1843027ff5062ee9a2]: Textual amendment: Word in s. 30Z(5)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/2/3/a)
 
-[^key-6663ed78fe7f9259971f87a404063b14]: Textual amendment: Word in s. 30Z(5)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/2/3/b)
+[^c-6663ed78fe7f9259971f87a404063b14]: Textual amendment: Word in s. 30Z(5)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/2/3/b)
 
 [^c2446171]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43).
 

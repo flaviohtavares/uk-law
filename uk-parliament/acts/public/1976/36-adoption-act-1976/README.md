@@ -116,7 +116,7 @@ An Act to consolidate the enactments having effect in England and Wales in relat
 - [Section 36 — Offences relating to protected children.](part-iii/section-36.md)
 - [Section 37 — Miscellaneous provisions relating to protected children.](part-iii/section-37.md)
 
-### Part IV — Status of Adopted Children[^c13482081][^key-b0e2019f040eb91b79136ff20e4ecba0]
+### Part IV — Status of Adopted Children[^c13482081][^c-b0e2019f040eb91b79136ff20e4ecba0]
 
 *Extent: E+W*
 
@@ -194,4 +194,4 @@ SCHEDULES
 
 [^c13482081]: Modification: Part IV (ss. 38-49): definition applied (5.4.1993) by [Child Support Act 1991 (c. 48, SIF 20)](https://www.legislation.gov.uk/ukpga/1991/48), [s. 26(3)](https://www.legislation.gov.uk/ukpga/1991/48/section/26/3), (with s. 9(2)); [S.I. 1992/2644](https://www.legislation.gov.uk/uksi/1992/2644), [art.2](https://www.legislation.gov.uk/uksi/1992/2644/article/2).
 
-[^key-b0e2019f040eb91b79136ff20e4ecba0]: Modification: [Pt. IV](https://www.legislation.gov.uk/ukpga/1976/36/part/IV) extended (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 66(3)](https://www.legislation.gov.uk/ukpga/2002/38/section/66/3), [148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1) (with [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/1), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d)
+[^c-b0e2019f040eb91b79136ff20e4ecba0]: Modification: [Pt. IV](https://www.legislation.gov.uk/ukpga/1976/36/part/IV) extended (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 66(3)](https://www.legislation.gov.uk/ukpga/2002/38/section/66/3), [148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1) (with [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/1), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d)

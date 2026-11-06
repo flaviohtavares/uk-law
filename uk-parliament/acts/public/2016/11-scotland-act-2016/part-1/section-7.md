@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Expenditure in connection with elections[^key-c10095021a998d23e88f24cc7dd81b89]
+## 7. Expenditure in connection with elections[^c-c10095021a998d23e88f24cc7dd81b89]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,4 +119,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c10095021a998d23e88f24cc7dd81b89]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/11/section/7) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/e)
+[^c-c10095021a998d23e88f24cc7dd81b89]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/11/section/7) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/e)

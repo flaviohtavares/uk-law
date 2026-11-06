@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Offence provisions[^key-6e074b00d8ee526cdd6c71f562e982d8]
+## SCHEDULE 6 — Offence provisions[^c-6e074b00d8ee526cdd6c71f562e982d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Regulations 56 and 57
 
-### PART I — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS AVAILABLE[^key-6e074b00d8ee526cdd6c71f562e982d8]
+### PART I — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS AVAILABLE[^c-6e074b00d8ee526cdd6c71f562e982d8]
 
-[^key-6e074b00d8ee526cdd6c71f562e982d8]
+[^c-6e074b00d8ee526cdd6c71f562e982d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS NOT AVAILABLE[^key-6e074b00d8ee526cdd6c71f562e982d8]
+### PART II — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS NOT AVAILABLE[^c-6e074b00d8ee526cdd6c71f562e982d8]
 
-[^key-6e074b00d8ee526cdd6c71f562e982d8]
+[^c-6e074b00d8ee526cdd6c71f562e982d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e074b00d8ee526cdd6c71f562e982d8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/1227) revoked (31.12.2003) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2003 (S.I. 2003/3177)](https://www.legislation.gov.uk/uksi/2003/3177), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3177/regulation/1), [68](https://www.legislation.gov.uk/uksi/2003/3177/regulation/68), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3177/schedule/6)
+[^c-6e074b00d8ee526cdd6c71f562e982d8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/1227) revoked (31.12.2003) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2003 (S.I. 2003/3177)](https://www.legislation.gov.uk/uksi/2003/3177), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3177/regulation/1), [68](https://www.legislation.gov.uk/uksi/2003/3177/regulation/68), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3177/schedule/6)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Service of notices etc.[^key-6045b6e13e52c21c73154993c1ea5653]
+## 37. Service of notices etc.[^c-6045b6e13e52c21c73154993c1ea5653]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-6045b6e13e52c21c73154993c1ea5653]: Commencement: S. 37 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-6045b6e13e52c21c73154993c1ea5653]: Commencement: S. 37 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

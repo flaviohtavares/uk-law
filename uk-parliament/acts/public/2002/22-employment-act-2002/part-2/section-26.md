@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Determination without a hearing[^key-ffee595948a66129c56ec6576680dbff]
+## 26. Determination without a hearing[^c-ffee595948a66129c56ec6576680dbff]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ In section 7 of the Employment Tribunals Act 1996 (employment tribunal procedure
 
 ## Annotations
 
-[^key-ffee595948a66129c56ec6576680dbff]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2002/22/section/26) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)
+[^c-ffee595948a66129c56ec6576680dbff]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2002/22/section/26) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)

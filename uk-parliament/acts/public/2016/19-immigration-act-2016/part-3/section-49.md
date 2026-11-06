@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Duty to pass on items seized under section 48[^key-0260dfbe53a2cae329d334b08bbba4a4]
+## 49. Duty to pass on items seized under section 48[^c-0260dfbe53a2cae329d334b08bbba4a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0260dfbe53a2cae329d334b08bbba4a4]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2016/19/section/49) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)
+[^c-0260dfbe53a2cae329d334b08bbba4a4]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2016/19/section/49) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)

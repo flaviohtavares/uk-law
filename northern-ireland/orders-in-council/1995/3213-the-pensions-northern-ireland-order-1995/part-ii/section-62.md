@@ -51,7 +51,7 @@ and references to the terms on which members of the scheme are treated are to be
 
 (6) In the case of a term within paragraph (5)(a) the effect of an equal treatment rule is that the term shall be treated as so modified as not to permit the discretion to be exercised in a way less favourable to the woman than to the man.
 
-(7)[^key-d5f9eef0b4384d645be05a141d932c96] Where a person (“**A**”) is or has been in pensionable service under an occupational pension scheme, an equal treatment rule has the effects set out in paragraphs (8) and (9).
+(7)[^c-d5f9eef0b4384d645be05a141d932c96] Where a person (“**A**”) is or has been in pensionable service under an occupational pension scheme, an equal treatment rule has the effects set out in paragraphs (8) and (9).
 
 (8) If, by virtue of the application of the guaranteed minimum pension provisions, any of the terms referred to in paragraph (2) is less favourable to A than it would be if A were of the opposite sex, the term is modified so as not to be less favourable.
 
@@ -68,4 +68,4 @@ the term is modified so as to prevent the exercise of the discretion in that way
 
 ## Annotations
 
-[^key-d5f9eef0b4384d645be05a141d932c96]: Textual amendment: [Art. 62(7)-(11)](https://www.legislation.gov.uk/nisi/1995/3213/article/62/7) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/3/2)
+[^c-d5f9eef0b4384d645be05a141d932c96]: Textual amendment: [Art. 62(7)-(11)](https://www.legislation.gov.uk/nisi/1995/3213/article/62/7) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/3/2)

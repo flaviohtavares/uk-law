@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Meaning of “image” and “child”[^key-0847a51ac3ae101290fc26ecab4775a8]
+## 65. Meaning of “image” and “child”[^c-0847a51ac3ae101290fc26ecab4775a8]
 
 *Extent: E+W+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0847a51ac3ae101290fc26ecab4775a8]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2009/25/section/65) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/1)
+[^c-0847a51ac3ae101290fc26ecab4775a8]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2009/25/section/65) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/1)

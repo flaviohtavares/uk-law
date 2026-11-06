@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Certain supplies of alcohol to be treated as sales[^key-6ac2c90af8c1525b95d231cf5a8ba320]
+## 3. Certain supplies of alcohol to be treated as sales[^c-6ac2c90af8c1525b95d231cf5a8ba320]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac2c90af8c1525b95d231cf5a8ba320]: Commencement: S. 3 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-6ac2c90af8c1525b95d231cf5a8ba320]: Commencement: S. 3 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

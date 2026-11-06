@@ -32,7 +32,7 @@ FAMILY LAW
 
 CHILD SUPPORT
 
-The Child Support Commissioners (Procedure) (Amendment No. 2) Regulations (Northern Ireland) 1997 (revoked)[^key-723fa5da637bd5829fb80fab94cdbb09]
+The Child Support Commissioners (Procedure) (Amendment No. 2) Regulations (Northern Ireland) 1997 (revoked)[^c-723fa5da637bd5829fb80fab94cdbb09]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into operation
 
 1st November 1997
 
-[^key-723fa5da637bd5829fb80fab94cdbb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-723fa5da637bd5829fb80fab94cdbb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-723fa5da637bd5829fb80fab94cdbb09]
+## 1. Citation and commencement[^c-723fa5da637bd5829fb80fab94cdbb09]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Child Support Commissioners (Procedure) Regulations[^key-723fa5da637bd5829fb80fab94cdbb09]
+## 2. Amendment of the Child Support Commissioners (Procedure) Regulations[^c-723fa5da637bd5829fb80fab94cdbb09]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-723fa5da637bd5829fb80fab94cdbb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-723fa5da637bd5829fb80fab94cdbb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-723fa5da637bd5829fb80fab94cdbb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-723fa5da637bd5829fb80fab94cdbb09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-723fa5da637bd5829fb80fab94cdbb09]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/426) revoked (7.6.1999) by [The Child Support Commissioners (Procedure) Regulations (Northern Ireland) 1999 (S.R. 1999/226)](https://www.legislation.gov.uk/nisr/1999/226), [regs. 1](https://www.legislation.gov.uk/nisr/1999/226/regulation/1), [2(d)](https://www.legislation.gov.uk/nisr/1999/226/regulation/2/d)
+[^c-723fa5da637bd5829fb80fab94cdbb09]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/426) revoked (7.6.1999) by [The Child Support Commissioners (Procedure) Regulations (Northern Ireland) 1999 (S.R. 1999/226)](https://www.legislation.gov.uk/nisr/1999/226), [regs. 1](https://www.legislation.gov.uk/nisr/1999/226/regulation/1), [2(d)](https://www.legislation.gov.uk/nisr/1999/226/regulation/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Bereavement support payment: prisoners[^key-bdbfdc2c8c889c1a9a3af0760e00e66a][^key-7922a0c55ab48164974a2078dec63448]
+## 32. Bereavement support payment: prisoners[^c-bdbfdc2c8c889c1a9a3af0760e00e66a][^c-7922a0c55ab48164974a2078dec63448]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdbfdc2c8c889c1a9a3af0760e00e66a]: Commencement: S. 32 in force at 8.3.2017 for specified purposes by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/a)
+[^c-bdbfdc2c8c889c1a9a3af0760e00e66a]: Commencement: S. 32 in force at 8.3.2017 for specified purposes by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/a)
 
-[^key-7922a0c55ab48164974a2078dec63448]: Commencement: S. 32 in force at 6.4.2017 in so far as not already in force by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
+[^c-7922a0c55ab48164974a2078dec63448]: Commencement: S. 32 in force at 6.4.2017 in so far as not already in force by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)

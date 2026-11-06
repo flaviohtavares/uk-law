@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Power to attach conditions to site licence[^key-1fb572349842632a8a79a229fbfe7b7b]
+## 9. Power to attach conditions to site licence[^c-1fb572349842632a8a79a229fbfe7b7b]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fb572349842632a8a79a229fbfe7b7b]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2013/6/section/9) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-1fb572349842632a8a79a229fbfe7b7b]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2013/6/section/9) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

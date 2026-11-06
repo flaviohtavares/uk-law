@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Approval of persons to supply reports[^key-2186d8799ea72731b5f16943dd534941]
+## 158. Approval of persons to supply reports[^c-2186d8799ea72731b5f16943dd534941]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In relation to any of its functions under any of the provisions of this Order th
 
 ## Annotations
 
-[^key-2186d8799ea72731b5f16943dd534941]: Commencement: [Art. 158](https://www.legislation.gov.uk/uksi/2015/870/article/158) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-2186d8799ea72731b5f16943dd534941]: Commencement: [Art. 158](https://www.legislation.gov.uk/uksi/2015/870/article/158) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

@@ -120,7 +120,7 @@ The Board must send a copy of its decision under section 141 of the Act to—
 
 A decision or determination by the Board under section 141 of the Act is not binding until—
 
-- (a) the period within which the decision or determination may be reviewed by virtue of Chapter 6 of Part 2[^key-f698dc59c72a8c4640818502c12b72b8] of the Act has expired; and
+- (a) the period within which the decision or determination may be reviewed by virtue of Chapter 6 of Part 2[^c-f698dc59c72a8c4640818502c12b72b8] of the Act has expired; and
 - (b) if the decision or determination is so reviewed—
   - (i) the review and any reconsideration;
   - (ii) any reference to the PPF Ombudsman in respect of the matter; and
@@ -190,11 +190,11 @@ paragraph (2) shall apply.
 
 - (a) after paragraph 15(4) of Schedule 7 there were inserted—
 
-  > **(4A).[^key-c04672b1663cc46e30c629148fd2da3b]**
+  > **(4A).[^c-c04672b1663cc46e30c629148fd2da3b]**
   >
   > Where the deferred member has exercised an option to commute a portion of a pension for a lump sum under the scheme rules, the protected pension rate shall be reduced by the percentage of the pension commuted for a lump sum under the scheme rules.
   >
-  > **(4B).[^key-2a872c467fef19b8d1828d484a74c578]**
+  > **(4B).[^c-2a872c467fef19b8d1828d484a74c578]**
   >
   > Sub-paragraph (4A) shall not apply where the admissible rules provide, in whatever form, that the initial annual rate of the pension shall be reduced by reference to the amount of the pension commuted for a lump sum under the scheme rules
 
@@ -272,8 +272,8 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1133774]: Marginal citation: *See* section 317(2)(c) of the Pensions Act 2004 which provides that the Secretary of State must consult such persons as he considers appropriate before making regulations by virtue of the provisions of that Act (other than Part 8). This duty does not apply where regulations are made before the end of six months beginning with the coming into force of the provisions of that Act by virtue of which the regulations are made.
 
-[^key-f698dc59c72a8c4640818502c12b72b8]: Textual amendment: Words in [reg. 9(a)](https://www.legislation.gov.uk/uksi/2005/652/regulation/9/a) inserted (1.4.2005) by [The Occupational Pension Schemes and Pension Protection Fund (Amendment) Regulations 2005 (S.I. 2005/993)](https://www.legislation.gov.uk/uksi/2005/993), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/993/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2005/993/regulation/7/a)
+[^c-f698dc59c72a8c4640818502c12b72b8]: Textual amendment: Words in [reg. 9(a)](https://www.legislation.gov.uk/uksi/2005/652/regulation/9/a) inserted (1.4.2005) by [The Occupational Pension Schemes and Pension Protection Fund (Amendment) Regulations 2005 (S.I. 2005/993)](https://www.legislation.gov.uk/uksi/2005/993), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/993/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2005/993/regulation/7/a)
 
-[^key-c04672b1663cc46e30c629148fd2da3b]: Textual amendment: Word in reg. 14(2)(a) substituted (1.4.2005) by [The Occupational Pension Schemes and Pension Protection Fund (Amendment) Regulations 2005 (S.I. 2005/993)](https://www.legislation.gov.uk/uksi/2005/993), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/993/regulation/1/1), [7(b)(i)](https://www.legislation.gov.uk/uksi/2005/993/regulation/7/b/i)
+[^c-c04672b1663cc46e30c629148fd2da3b]: Textual amendment: Word in reg. 14(2)(a) substituted (1.4.2005) by [The Occupational Pension Schemes and Pension Protection Fund (Amendment) Regulations 2005 (S.I. 2005/993)](https://www.legislation.gov.uk/uksi/2005/993), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/993/regulation/1/1), [7(b)(i)](https://www.legislation.gov.uk/uksi/2005/993/regulation/7/b/i)
 
-[^key-2a872c467fef19b8d1828d484a74c578]: Textual amendment: Words in reg. 14(2)(a) substituted (1.4.2005) by [The Occupational Pension Schemes and Pension Protection Fund (Amendment) Regulations 2005 (S.I. 2005/993)](https://www.legislation.gov.uk/uksi/2005/993), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/993/regulation/1/1), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2005/993/regulation/7/b/ii)
+[^c-2a872c467fef19b8d1828d484a74c578]: Textual amendment: Words in reg. 14(2)(a) substituted (1.4.2005) by [The Occupational Pension Schemes and Pension Protection Fund (Amendment) Regulations 2005 (S.I. 2005/993)](https://www.legislation.gov.uk/uksi/2005/993), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/993/regulation/1/1), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2005/993/regulation/7/b/ii)

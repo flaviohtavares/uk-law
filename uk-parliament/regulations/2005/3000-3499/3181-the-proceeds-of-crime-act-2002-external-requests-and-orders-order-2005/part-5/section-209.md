@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Performance of functions of Scottish Ministers by constables in Scotland[^key-5add9de1bef0884151880dab2158ea2d]
+## 209. Performance of functions of Scottish Ministers by constables in Scotland[^c-5add9de1bef0884151880dab2158ea2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5add9de1bef0884151880dab2158ea2d]: Commencement: [Art. 209](https://www.legislation.gov.uk/uksi/2005/3181/article/209) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-5add9de1bef0884151880dab2158ea2d]: Commencement: [Art. 209](https://www.legislation.gov.uk/uksi/2005/3181/article/209) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92.[^key-f119d21f0bd2a4ebb96f0082b1b0bb22]
+## 92.[^c-f119d21f0bd2a4ebb96f0082b1b0bb22]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In article 3, in paragraphs (a) and (b), for “member States” substitute “ 
 
 ## Annotations
 
-[^key-f119d21f0bd2a4ebb96f0082b1b0bb22]: Commencement: Reg. 92 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-f119d21f0bd2a4ebb96f0082b1b0bb22]: Commencement: Reg. 92 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0bffa90cc651bfc47c06a101607d7bb1] The Senedd[^key-60edd79c70d763519861630d1afb7962] must, in the conduct of Senedd proceedings, give effect, so far as is both appropriate in the circumstances and reasonably practicable, to the principle that the English and Welsh languages should be treated on a basis of equality.
+(1)[^c-0bffa90cc651bfc47c06a101607d7bb1] The Senedd[^c-60edd79c70d763519861630d1afb7962] must, in the conduct of Senedd proceedings, give effect, so far as is both appropriate in the circumstances and reasonably practicable, to the principle that the English and Welsh languages should be treated on a basis of equality.
 
 (1) The official languages of the Senedd are English and Welsh.
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^c16526711]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-0bffa90cc651bfc47c06a101607d7bb1]: Textual amendment: S. 35(1)-(1D) substituted for s. 35(1) (13.11.2012) by [National Assembly for Wales (Official Languages) Act 2012 (anaw 1)](https://www.legislation.gov.uk/anaw/2012/1), [ss. 1](https://www.legislation.gov.uk/anaw/2012/1/section/1), [3(b)](https://www.legislation.gov.uk/anaw/2012/1/section/3/b)
+[^c-0bffa90cc651bfc47c06a101607d7bb1]: Textual amendment: S. 35(1)-(1D) substituted for s. 35(1) (13.11.2012) by [National Assembly for Wales (Official Languages) Act 2012 (anaw 1)](https://www.legislation.gov.uk/anaw/2012/1), [ss. 1](https://www.legislation.gov.uk/anaw/2012/1/section/1), [3(b)](https://www.legislation.gov.uk/anaw/2012/1/section/3/b)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

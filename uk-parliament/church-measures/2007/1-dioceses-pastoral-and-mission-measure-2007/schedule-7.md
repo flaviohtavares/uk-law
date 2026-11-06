@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## SCHEDULE 7 — Repeals[^key-a81677fb5f48039f00922b9d3ab3e5af][^key-c5a35344905cd0a9a5cc035f2a40aa84][^key-88c11003543383c87d5a47d4cd56fa71][^key-f65a45d50c532c78a78b166f64a9a351][^key-06ab5831ef6886443441cac500d8496a]
+## SCHEDULE 7 — Repeals[^c-a81677fb5f48039f00922b9d3ab3e5af][^c-c5a35344905cd0a9a5cc035f2a40aa84][^c-88c11003543383c87d5a47d4cd56fa71][^c-f65a45d50c532c78a78b166f64a9a351][^c-06ab5831ef6886443441cac500d8496a]
 
 *Extent: E*
 
@@ -45,12 +45,12 @@ Section 65
 
 ## Annotations
 
-[^key-a81677fb5f48039f00922b9d3ab3e5af]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7) in force at 1.2.2008 for specified purposes by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-a81677fb5f48039f00922b9d3ab3e5af]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7) in force at 1.2.2008 for specified purposes by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
 
-[^key-c5a35344905cd0a9a5cc035f2a40aa84]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7) in force at 1.5.2008 for specified purposes by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-c5a35344905cd0a9a5cc035f2a40aa84]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7) in force at 1.5.2008 for specified purposes by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
 
-[^key-88c11003543383c87d5a47d4cd56fa71]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7) in force at 11.6.2008 for specified purposes by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-88c11003543383c87d5a47d4cd56fa71]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7) in force at 11.6.2008 for specified purposes by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
 
-[^key-f65a45d50c532c78a78b166f64a9a351]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7) in force at 1.9.2008 for specified purposes by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-f65a45d50c532c78a78b166f64a9a351]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7) in force at 1.9.2008 for specified purposes by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
 
-[^key-06ab5831ef6886443441cac500d8496a]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7) in force at 1.1.2011 in so far as not already in force by [2010 No. 4](https://www.legislation.gov.uk/ukci/2010/4), [art. 2(d)](https://www.legislation.gov.uk/ukci/2010/4/article/2/d)
+[^c-06ab5831ef6886443441cac500d8496a]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7) in force at 1.1.2011 in so far as not already in force by [2010 No. 4](https://www.legislation.gov.uk/ukci/2010/4), [art. 2(d)](https://www.legislation.gov.uk/ukci/2010/4/article/2/d)

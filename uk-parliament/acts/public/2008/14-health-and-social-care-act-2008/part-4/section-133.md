@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Penalty: Great Britain[^c1942079][^key-e30f71453a7b15a50c17b8b119d0e7e2]
+## 133. Penalty: Great Britain[^c1942079][^c-e30f71453a7b15a50c17b8b119d0e7e2]
 
 *Extent: E+W+S*
 
@@ -91,4 +91,4 @@ summary: ''
 
 [^c1942079]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2008/14/section/133) partly in force; [s. 133](https://www.legislation.gov.uk/ukpga/2008/14/section/133) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-e30f71453a7b15a50c17b8b119d0e7e2]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2008/14/section/133) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-e30f71453a7b15a50c17b8b119d0e7e2]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2008/14/section/133) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)

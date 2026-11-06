@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Amendment of Schedule 2B[^key-abfdc39bb284f0013de0bcb8b98a162a]
+## 24. Amendment of Schedule 2B[^c-abfdc39bb284f0013de0bcb8b98a162a]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abfdc39bb284f0013de0bcb8b98a162a]: Commencement: Reg. 24 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-abfdc39bb284f0013de0bcb8b98a162a]: Commencement: Reg. 24 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00023]: Footnote: Schedule 2B was inserted by [S.R. (N.I.) 2008 No. 192](https://www.legislation.gov.uk/nisr/2008/192).

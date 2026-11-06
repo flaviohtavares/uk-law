@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Q16. Effect of part payment of periodical contributions[^key-fe948e6e6be11778de657a3a0227d20c]
+## Q16. Effect of part payment of periodical contributions[^c-fe948e6e6be11778de657a3a0227d20c]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe948e6e6be11778de657a3a0227d20c]: Modification: Reg. Q16 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-fe948e6e6be11778de657a3a0227d20c]: Modification: Reg. Q16 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)

@@ -78,7 +78,7 @@ Nothing in these Regulations—
 
 Nothing in these Regulations requires a UK producer [^c23006631] to record and keep, or provide, information about a product if the producer could not reasonably have known, at the time the producer purchased or supplied the product, that it was, or was to be, a UK health service product [^c23006641].
 
-### 5. Information required to be provided via an NHS England online gateway[^key-f4243b9cacaa907d21e78a927334dbd6]
+### 5. Information required to be provided via an NHS England online gateway[^c-f4243b9cacaa907d21e78a927334dbd6]
 
 (1) This regulation applies where a question arises as to whether any information required to be provided by, or under, these Regulations electronically via an NHS England online gateway has been so provided.
 
@@ -184,7 +184,7 @@ Nothing in these Regulations requires a UK producer [^c23006631] to record and k
 (3) The information for a quarterly period must be provided—
 
 - (a) in an electronic spreadsheet provided for that purpose by the Secretary of State, or
-- (b) if the Secretary of State does not provide such a spreadsheet, via the NHS England[^key-75913eaee8c4a011826d66211da1aa34] online gateway.
+- (b) if the Secretary of State does not provide such a spreadsheet, via the NHS England[^c-75913eaee8c4a011826d66211da1aa34] online gateway.
 
 (4) The information for a quarterly period must be provided within the period of 28 days beginning with the first day of the month which begins immediately after the end of that quarterly period.
 
@@ -304,7 +304,7 @@ Nothing in these Regulations requires a UK producer [^c23006631] to record and k
 (3) The information for a quarterly period must be provided—
 
 - (a) in an electronic spreadsheet provided for that purpose by the Secretary of State, or
-- (b) if the Secretary of State does not provide such a spreadsheet, via the NHS England[^key-06766562f95a7814a96440f5e2c9c74e] online gateway.
+- (b) if the Secretary of State does not provide such a spreadsheet, via the NHS England[^c-06766562f95a7814a96440f5e2c9c74e] online gateway.
 
 (4) The information for a quarterly period must be provided within the period of 28 days beginning with the first day of the month which begins immediately after the last day of that quarterly period.
 
@@ -524,7 +524,7 @@ For the purposes of this Part—
 (4) A producer must provide the requested information—
 
 - (a) in an electronic spreadsheet provided for that purpose by the Secretary of State, or
-- (b) if the Secretary of State does not provide such a spreadsheet, via the NHS England[^key-a21938884562295f5aacf7f9d7e881d5] online gateway.
+- (b) if the Secretary of State does not provide such a spreadsheet, via the NHS England[^c-a21938884562295f5aacf7f9d7e881d5] online gateway.
 
 (5) In this regulation, “**retained information**”, in relation to a UK producer, means the information which the producer is required to record and keep under this Part.
 
@@ -590,7 +590,7 @@ For the purposes of this Part—
 (5) The producer must provide the requested information—
 
 - (a) in an electronic spreadsheet provided for that purpose by the Secretary of State, or
-- (b) if the Secretary of State does not provide such a spreadsheet, via the NHS England[^key-6bd8fa8686da5c7bb314061d9d1cc46b] online gateway.
+- (b) if the Secretary of State does not provide such a spreadsheet, via the NHS England[^c-6bd8fa8686da5c7bb314061d9d1cc46b] online gateway.
 
 (6) The producer must provide the requested information within the period of 28 days beginning with the day on which the producer is given the request.
 
@@ -704,11 +704,11 @@ For the purposes of this Part—
 
 (4) In this regulation—
 
-- “**notifiable presentation**” means a presentation of health service medicine in respect of which a UK[^key-daef14b64633148fbea14d2b27b77d31] marketing authorisation has been granted [^key-8a00330d72dd25b0655c2599b6d8b12e]...
+- “**notifiable presentation**” means a presentation of health service medicine in respect of which a UK[^c-daef14b64633148fbea14d2b27b77d31] marketing authorisation has been granted [^c-8a00330d72dd25b0655c2599b6d8b12e]...
 - “**designated producer**”, in relation to a notifiable presentation, means—
-  - (a) the UK producer who holds the UK[^key-606d268fdc17488a4b5a7516f03f62be] marketing authorisation for the presentation, if that producer manufactures the presentation;
+  - (a) the UK producer who holds the UK[^c-606d268fdc17488a4b5a7516f03f62be] marketing authorisation for the presentation, if that producer manufactures the presentation;
   - (b) otherwise, a UK producer who manufactures the presentation or imports the presentation and supplies it by way of sale;
-- “ **UK[^key-c694c30a1d4ed38a2ca7bcd9e872b128] marketing authorisation**” has the meaning given in regulation 8(1) of the 2012 Regulations.
+- “ **UK[^c-c694c30a1d4ed38a2ca7bcd9e872b128] marketing authorisation**” has the meaning given in regulation 8(1) of the 2012 Regulations.
 
 ## PART 7 — Information about reasonable estimates
 
@@ -935,7 +935,7 @@ Regulation 2
   - (a) in relation to a UK primary medical services provider, Health Service chemist or an NHS hospital purchaser, has the meaning given in section 275 of the 2006 Act;
   - (b) in relation to any other UK producer, has the meaning given in section 390 of the Companies Act 2006 [^c23006871];
 - “**Health Service chemist**” has the meaning given in paragraph 3(7);
-- [^key-f25e2b9593ed762971506455356273aa]...
+- [^c-f25e2b9593ed762971506455356273aa]...
 - “**importer**” means a person—
   - (a) who is not a medicines wholesaler, but
   - (b) who imports health service medicines into the United Kingdom and supplies those medicines;
@@ -952,8 +952,8 @@ Regulation 2
 - “**net NHS wholesale income**” has the meaning given in paragraph 4(3);
 - “**net purchase amount**” has the meaning given in paragraph 4(4);
 - “**net sales income**” has the meaning given in paragraph 4(5);
-- [^key-f25e2b9593ed762971506455356273aa]...
-- “[^key-9cb387f577c2f3b49af9f0123d4fc610]**NHS England**” means the body corporate established under section 1H of the National Health Service Act 2006;
+- [^c-f25e2b9593ed762971506455356273aa]...
+- “[^c-9cb387f577c2f3b49af9f0123d4fc610]**NHS England**” means the body corporate established under section 1H of the National Health Service Act 2006;
 - “**NHS England online gateway**” in relation to information required to be provided to the Secretary of State by, or under, these Regulations, means a service provided on NHS England’s website for the provision of that information;
 - “**NHS framework contract**” has the meaning given in paragraph 5;
 - “**NHS hospital purchaser**” means a person who—
@@ -1109,7 +1109,7 @@ Regulation 2
 
 (1) In these Regulations, “**NHS framework contract**” means—
 
-- (za)[^key-8604630113d96bc9b64074e4f2a48b6e] a public contract awarded in accordance with a framework under the Procurement Act 2023,
+- (za)[^c-8604630113d96bc9b64074e4f2a48b6e] a public contract awarded in accordance with a framework under the Procurement Act 2023,
 - (zb) a public contract awarded under the Procurement Act 2023,
 - (a) a contract with a contracting authority which is based on a framework agreement concluded under the 2006 Regulations, the 2012 Scotland Regulations, the 2015 Regulations or the 2015 Scotland Regulations, or
 - (b) a public contract awarded under the 2006 Regulations, the 2012 Scotland Regulations, the 2015 Regulations or the 2015 Scotland Regulations;
@@ -1120,7 +1120,7 @@ Regulation 2
 - “**the 2012 Scotland Regulations**” means the Public Contracts (Scotland) Regulations 2012 [^c23006931];
 - “**the 2015 Regulations**” means the Public Contracts Regulations 2015 [^c23006941];
 - “**the 2015 Scotland Regulations**” means the Public Contracts (Scotland) Regulations 2015 [^c23006951];
-- “[^key-9f4ba11a917608960619db42b945f43d]**contracting authority**”—
+- “[^c-9f4ba11a917608960619db42b945f43d]**contracting authority**”—
   - (a) in relation to a contract awarded in accordance with a framework, where the framework was awarded under the Procurement Act 2023, means a public authority within the meaning of the Procurement Act 2023 (see section 2 of that Act) that is not an excluded authority within the meaning of section 2(5)(a), (c) or (d) of that Act, but as if in section 2(5)(d)(ii) the reference to paragraph (b) were omitted;
   - (b) in relation to a contract based on a framework agreement—
     - (i) where the framework agreement was concluded under the 2006 Regulations, has the meaning given in regulation 3 of those Regulations;
@@ -1321,7 +1321,7 @@ Table 2
 
 | *Column 1 – Bodies* | *Column 2 – Purpose for which information disclosed under section 264B(1) of the 2006 Act may be used* |
 | --- | --- |
-| Any NHS foundation trust;<br>Any NHS trust established under the 2006 Act;<br>Any integrated care board[^key-84fa6521ea59fb470c998b366a449e16]. | The purpose is that of exercising functions connected with any of the matters specified in section 264A(3)(c). |
+| Any NHS foundation trust;<br>Any NHS trust established under the 2006 Act;<br>Any integrated care board[^c-84fa6521ea59fb470c998b366a449e16]. | The purpose is that of exercising functions connected with any of the matters specified in section 264A(3)(c). |
 | Any NHS trust established under the 2006 Wales Act;<br>Any Local Health Board. | The purpose is that of exercising functions connected with any of the matters specified in section 264A(3)(f). |
 | Any Health Board constituted under section 2 of the 1978 Act | The purpose is that of exercising functions connected with any of the matters specified in section 264A(3)(i). |
 | The Regional Health and Social Care Board established under section 7 of the Health and Social Care (Reform) Act Northern Ireland 2009 [^c23006961] | The purpose is that of exercising functions connected with any of the matters specified in section 264A(3)(k). |
@@ -1554,7 +1554,7 @@ An impact assessment relating to these Regulations has been prepared and copies 
 
 [^c23006641]: Marginal citation: See the definition of “UK health service products” in section 264A(14) of the National Health Service Act 2006.
 
-[^key-f4243b9cacaa907d21e78a927334dbd6]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/677/regulation/5) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(2)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-f4243b9cacaa907d21e78a927334dbd6]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/677/regulation/5) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(2)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
 [^c23006651]: Marginal citation: See section 266(6) of the National Health Service Act 2006 for the definition of “health service medicine”.
 
@@ -1570,25 +1570,25 @@ An impact assessment relating to these Regulations has been prepared and copies 
 
 [^c23006711]: Marginal citation: See section 266(6) of the [National Health Service Act 2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41) for the definition of “manufacturer”.
 
-[^key-75913eaee8c4a011826d66211da1aa34]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2018/677/regulation/9/3/b) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(3)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-75913eaee8c4a011826d66211da1aa34]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2018/677/regulation/9/3/b) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(3)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
 [^c23006721]: Marginal citation: [Regulation 167](https://www.legislation.gov.uk/uksi/2018/677/regulation/167) of the 2012 Regulations was amended by [S.I. 2017/715](https://www.legislation.gov.uk/uksi/2017/715).
 
-[^key-06766562f95a7814a96440f5e2c9c74e]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2018/677/regulation/14/3/b) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(4)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-06766562f95a7814a96440f5e2c9c74e]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2018/677/regulation/14/3/b) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(4)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-a21938884562295f5aacf7f9d7e881d5]: Textual amendment: Words in [reg. 23(4)(b)](https://www.legislation.gov.uk/uksi/2018/677/regulation/23/4/b) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(5)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-a21938884562295f5aacf7f9d7e881d5]: Textual amendment: Words in [reg. 23(4)(b)](https://www.legislation.gov.uk/uksi/2018/677/regulation/23/4/b) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(5)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
 [^c23006731]: Marginal citation: See the definition of “information notice” in section 264A(6) of the National Health Service Act 2006.
 
-[^key-6bd8fa8686da5c7bb314061d9d1cc46b]: Textual amendment: Words in [reg. 26(5)(b)](https://www.legislation.gov.uk/uksi/2018/677/regulation/26/5/b) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(6)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-6bd8fa8686da5c7bb314061d9d1cc46b]: Textual amendment: Words in [reg. 26(5)(b)](https://www.legislation.gov.uk/uksi/2018/677/regulation/26/5/b) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(6)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-daef14b64633148fbea14d2b27b77d31]: Textual amendment: Word in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2018/677/regulation/29/4) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 15(a)(i)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/15/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-daef14b64633148fbea14d2b27b77d31]: Textual amendment: Word in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2018/677/regulation/29/4) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 15(a)(i)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/15/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8a00330d72dd25b0655c2599b6d8b12e]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2018/677/regulation/29/4) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 15(a)(ii)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/15/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a00330d72dd25b0655c2599b6d8b12e]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2018/677/regulation/29/4) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 15(a)(ii)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/15/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-606d268fdc17488a4b5a7516f03f62be]: Textual amendment: Word in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2018/677/regulation/29/4) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 15(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/15/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-606d268fdc17488a4b5a7516f03f62be]: Textual amendment: Word in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2018/677/regulation/29/4) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 15(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/15/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c694c30a1d4ed38a2ca7bcd9e872b128]: Textual amendment: Word in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2018/677/regulation/29/4) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 15(c)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/15/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c694c30a1d4ed38a2ca7bcd9e872b128]: Textual amendment: Word in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2018/677/regulation/29/4) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 15(c)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/15/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23006751]: Marginal citation: [2005 asp 13](https://www.legislation.gov.uk/asp/2005/13).
 
@@ -1620,9 +1620,9 @@ An impact assessment relating to these Regulations has been prepared and copies 
 
 [^c23006871]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-f25e2b9593ed762971506455356273aa]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2018/677/schedule/1/paragraph/1/1) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(7)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/7/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-f25e2b9593ed762971506455356273aa]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2018/677/schedule/1/paragraph/1/1) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(7)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/7/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-9cb387f577c2f3b49af9f0123d4fc610]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2018/677/schedule/1/paragraph/1/1) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(7)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/7/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-9cb387f577c2f3b49af9f0123d4fc610]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2018/677/schedule/1/paragraph/1/1) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 58(7)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/58/7/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
 [^c23006891]: Marginal citation: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
@@ -1630,7 +1630,7 @@ An impact assessment relating to these Regulations has been prepared and copies 
 
 [^c23006911]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-8604630113d96bc9b64074e4f2a48b6e]: Textual amendment: [Sch. 1 para. 5(za)](https://www.legislation.gov.uk/uksi/2018/677/schedule/1/paragraph/5/za)[(zb)](https://www.legislation.gov.uk/uksi/2018/677/schedule/1/paragraph/5/zb) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [24(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/24/2/a)
+[^c-8604630113d96bc9b64074e4f2a48b6e]: Textual amendment: [Sch. 1 para. 5(za)](https://www.legislation.gov.uk/uksi/2018/677/schedule/1/paragraph/5/za)[(zb)](https://www.legislation.gov.uk/uksi/2018/677/schedule/1/paragraph/5/zb) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [24(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/24/2/a)
 
 [^c23006921]: Marginal citation: [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5); the Regulations were revoked, subject to transitional provisions, by the [Public Contracts Regulations 2015 (S.I. 2015/102)](https://www.legislation.gov.uk/uksi/2015/102), [regulation 116](https://www.legislation.gov.uk/uksi/2015/102/regulation/116).
 
@@ -1640,8 +1640,8 @@ An impact assessment relating to these Regulations has been prepared and copies 
 
 [^c23006951]: Marginal citation: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446), to which there are amendments not relevant to these Regulations.
 
-[^key-9f4ba11a917608960619db42b945f43d]: Textual amendment: Words in [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/uksi/2018/677/schedule/1/paragraph/5/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [24(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/24/2/b)
+[^c-9f4ba11a917608960619db42b945f43d]: Textual amendment: Words in [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/uksi/2018/677/schedule/1/paragraph/5/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [24(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/24/2/b)
 
-[^key-84fa6521ea59fb470c998b366a449e16]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2018/677) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-84fa6521ea59fb470c998b366a449e16]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2018/677) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^c23006961]: Marginal citation: [2009 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.71. Expenses of preparing accounts[^key-f9e945a16052a22c65841be2a0af65d7]
+## 6.71. Expenses of preparing accounts[^c-f9e945a16052a22c65841be2a0af65d7]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9e945a16052a22c65841be2a0af65d7]: Commencement: [Rule 6.71](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.71) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f9e945a16052a22c65841be2a0af65d7]: Commencement: [Rule 6.71](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.71) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

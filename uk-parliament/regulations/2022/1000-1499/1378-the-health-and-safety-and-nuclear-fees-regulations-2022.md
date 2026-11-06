@@ -58,7 +58,7 @@ In accordance with paragraph 3(1) of Schedule 4 to the 2018 Act, these Regulatio
 
 In accordance with paragraph 19 of Schedule 7 to the 2018 Act, the Secretary of State is of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft having been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement, extent and application[^key-77f9b55b1d9b224c24993127436bcda4]
+## 1. Citation, commencement, extent and application[^c-77f9b55b1d9b224c24993127436bcda4]
 
 (1) These Regulations may be cited as the Health and Safety and Nuclear (Fees) Regulations 2022 and come into force on 21st December 2022.
 
@@ -66,7 +66,7 @@ In accordance with paragraph 19 of Schedule 7 to the 2018 Act, the Secretary of 
 
 (3) These Regulations apply to any work outside Great Britain to which sections 1 to 59 and 80 to 82 of the 1974 Act apply by virtue of the Health and Safety at Work etc. Act 1974 (Application Outside Great Britain) Order 2013[^f00005] as they apply to work within Great Britain.
 
-## 2. Interpretation[^key-a8cac33615489b74f050fa0ffac591a6]
+## 2. Interpretation[^c-a8cac33615489b74f050fa0ffac591a6]
 
 (1) In these Regulations—
 
@@ -85,19 +85,19 @@ In accordance with paragraph 19 of Schedule 7 to the 2018 Act, the Secretary of 
 
 (3) Any reference in these Regulations to the renewal of an approval, explosives certificate or licence (each referred to in this paragraph as an “**authorisation**”) means the granting of the authorisation concerned to follow a previous authorisation of the same kind without any amendment or gap in time.
 
-## 3. Fees for applications for approval under the Agriculture (Tractor Cabs) Regulations 1974[^key-455dff11b485b0f323249e73ec852f2c]
+## 3. Fees for applications for approval under the Agriculture (Tractor Cabs) Regulations 1974[^c-455dff11b485b0f323249e73ec852f2c]
 
 (1) A fee is payable by the applicant to the Executive on each application for the approval of plant and equipment under the Agriculture (Tractor Cabs) Regulations 1974[^f00012].
 
 (2) The fee payable on application for the type of approval described in column 1 of Schedule 1 is that specified in the corresponding entry in column 2 of that Schedule.
 
-## 4. Fees for applications for approval under the Freight Containers (Safety Convention) Regulations 2017[^key-22e777944172639a8ec6c6c2585632c7]
+## 4. Fees for applications for approval under the Freight Containers (Safety Convention) Regulations 2017[^c-22e777944172639a8ec6c6c2585632c7]
 
 (1) A fee is payable by the applicant to the Executive on each application for the approval of a scheme or programme for examination of freight containers under the Freight Containers (Safety Convention) Regulations 2017[^f00013].
 
-(2) The fee payable on each application for the approval described in column 1[^key-e823ae317252ba8f3abad715861a43e2] of Schedule 2 is that specified in column 2 of that Schedule.
+(2) The fee payable on each application for the approval described in column 1[^c-e823ae317252ba8f3abad715861a43e2] of Schedule 2 is that specified in column 2 of that Schedule.
 
-## 5. Fees for various applications under the Control of Asbestos Regulations 2012[^key-25c24182033c9dd5457005d42945f3bb]
+## 5. Fees for various applications under the Control of Asbestos Regulations 2012[^c-25c24182033c9dd5457005d42945f3bb]
 
 (1) A fee is payable to the Executive by the applicant on each application for a licence under the 2012 Asbestos Regulations.
 
@@ -115,7 +115,7 @@ In accordance with paragraph 19 of Schedule 7 to the 2018 Act, the Secretary of 
 
 (8) The fee payable under paragraph (7) is that specified in column 3 of Table 2 in Schedule 3.
 
-## 6. Fees for examination or surveillance by an employment medical adviser[^key-59a949a0a03fa4fbb7c50a3c3063e899]
+## 6. Fees for examination or surveillance by an employment medical adviser[^c-59a949a0a03fa4fbb7c50a3c3063e899]
 
 (1) A fee is payable to the Executive by an employer in respect of a medical examination or medical surveillance of each of that employer’s employees by an employment medical adviser for the purposes of any provision specified in column 1 of Schedule 4.
 
@@ -127,21 +127,21 @@ In accordance with paragraph 19 of Schedule 7 to the 2018 Act, the Secretary of 
 
 (3) Where an employment medical adviser carries out a medical examination of a self-employed person for the purposes of the 2012 Asbestos Regulations, that self-employed person must pay fees to the Executive ascertained in accordance with paragraph (2).
 
-## 7. Fees for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations 2002[^key-989524d5af8c398249273bfcf7f8129e]
+## 7. Fees for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations 2002[^c-989524d5af8c398249273bfcf7f8129e]
 
 (1) A fee is payable to the Executive by an employer in respect of medical surveillance of any of that employer’s employees by an employment medical adviser for the purposes of the Control of Lead at Work Regulations 2002[^f00014].
 
 (2) The fee payable for each item described in column 1 of Schedule 5 is that specified in the corresponding entry in column 2 of that Schedule.
 
-## 8. Fees payable in connection with the Ionising Radiations Regulations 2017 and the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-92007d3ff616d45a79b8a93df38ed485]
+## 8. Fees payable in connection with the Ionising Radiations Regulations 2017 and the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^c-92007d3ff616d45a79b8a93df38ed485]
 
 (1) A fee is payable to the Executive by the applicant on each application for an original type approval of apparatus pursuant to paragraphs 1(d)(i) or 1(e)(i) of Schedule 1 to the 2017 Regulations or for an amendment, pursuant to section 11(1) of the 1974 Act, of an original type approval granted either under the 2017 Regulations or the 1999 Regulations.
 
-(2) A fee is payable to the appropriate authority [^key-ea932ed37b06b245e4bfb7e7ff3bd4fe]... by the applicant on each application for registration [^key-b368d74ed84a936cd8411dc4442c80b0]... for the purposes of the 2017 Regulations.
+(2) A fee is payable to the appropriate authority [^c-ea932ed37b06b245e4bfb7e7ff3bd4fe]... by the applicant on each application for registration [^c-b368d74ed84a936cd8411dc4442c80b0]... for the purposes of the 2017 Regulations.
 
 (3) The fee payable by the applicant for an application referred to in paragraph (1) or (2) in respect of each matter specified in column 1 of Table 1 in Schedule 6 is that specified in the corresponding entry in column 2 of that Table.
 
-(3A)[^key-66b063e979c8d35ed1d137eb6a23deab] A fee is payable to the appropriate authority by the applicant on each application under regulation 7(2) of the 2017 Regulations for a consent to carry out specified practices for the purposes of those Regulations.
+(3A)[^c-66b063e979c8d35ed1d137eb6a23deab] A fee is payable to the appropriate authority by the applicant on each application under regulation 7(2) of the 2017 Regulations for a consent to carry out specified practices for the purposes of those Regulations.
 
 (4) A fee is payable by the applicant to the Executive on each application for—
 
@@ -156,7 +156,7 @@ In accordance with paragraph 19 of Schedule 7 to the 2018 Act, the Secretary of 
 - (a) its inspectors; or
 - (b) a person appointed to advise the Executive,
 
-in connection with any application in respect of which a fee is payable by virtue of paragraph (2) or (4) (other than an application for registration pursuant to regulation 6 of the 2017 Regulations)[^key-5a2673d647de7ca96b915dd63100a2f6], and the fee for such work in connection with each matter described in column 1 of Tables 1 and 2 in Schedule 6 is that specified in the corresponding entry in column 3 of those Tables for each hour worked adjusted pro rata for a period worked of less than one hour.
+in connection with any application in respect of which a fee is payable by virtue of paragraph (2) or (4) (other than an application for registration pursuant to regulation 6 of the 2017 Regulations)[^c-5a2673d647de7ca96b915dd63100a2f6], and the fee for such work in connection with each matter described in column 1 of Tables 1 and 2 in Schedule 6 is that specified in the corresponding entry in column 3 of those Tables for each hour worked adjusted pro rata for a period worked of less than one hour.
 
 (7) Where the Executive requires an inspection to be carried out in connection with any application mentioned in paragraph (2) or (4), a fee is payable by the applicant to the Executive of an amount equal to the reasonable cost of travelling and subsistence of any member of the Executive’s staff in connection with the inspection.
 
@@ -164,19 +164,19 @@ in connection with any application in respect of which a fee is payable by virtu
 
 (9) Subject to paragraph (10), a fee is payable by an employer to the Executive for each dose record sent by or on behalf of that employer pursuant to regulation 22(3)(e) of the 2017 Regulations in the amount set out in column 2 of Table 3 in Schedule 6 for the work carried out by or on behalf of the Executive by virtue of the provisions set out in column 1 of that Table and for the purpose specified in column 3 of that Table.
 
-(10) The employer is not required to pay a fee under paragraph (9) unless the total amount payable in respect of all dose records relating to a calendar year sent by, or on behalf of, that employer is at least £27[^key-d408d79b424bb0e3c76265d3f9972bee].
+(10) The employer is not required to pay a fee under paragraph (9) unless the total amount payable in respect of all dose records relating to a calendar year sent by, or on behalf of, that employer is at least £27[^c-d408d79b424bb0e3c76265d3f9972bee].
 
 (11) For the purposes of this regulation and Schedule 6—
 
 - “**the 1999 Regulations**” means the Ionising Radiations Regulations 1999[^f00015];
 - “**the 2019 Regulations**” means the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^f00016];
-- “[^key-6210bb217ce2619183bf8c0bcba79eaa]**appropriate authority**” has the meaning given in regulation 6(10) of the 2017 Regulations;
+- “[^c-6210bb217ce2619183bf8c0bcba79eaa]**appropriate authority**” has the meaning given in regulation 6(10) of the 2017 Regulations;
 - “**processing**” means obtaining, recording or holding the information or carrying out any operation or set of operations on that information, including—
   - (a) organisation, adaptation or alteration of the information;
   - (b) retrieval or consultation of the information; and
   - (c) disclosure by transmission, dissemination or otherwise making available the information, in whatever format.
 
-## 9. Fees payable in relation to the Explosives Regulations 2014 and the Acetylene Safety (England and Wales and Scotland) Regulations 2014[^key-e60073e4dc35abe4cbda13d0270a4471][^key-772cc90d255958879b5ff822f9de7ea0]
+## 9. Fees payable in relation to the Explosives Regulations 2014 and the Acetylene Safety (England and Wales and Scotland) Regulations 2014[^c-e60073e4dc35abe4cbda13d0270a4471][^c-772cc90d255958879b5ff822f9de7ea0]
 
 (1)  A fee is payable to the Executive or the ONR, as appropriate, by the person referred to in column 3 of the table in Part 1 of Schedule 7, for the performance by or on behalf of the Executive or by the ONR of such functions as are conferred on the Executive or the ONR by virtue of the provision specified in column 1 of that table for the purpose specified in column 2 of that table.
 
@@ -227,11 +227,11 @@ in connection with any application in respect of which a fee is payable by virtu
 - “**relevant person**” means an explosives licensee or an acetylene licensee as the case may be;
 - “**site manufacturing code**” means the code attributed to a site that manufactures civil explosives by the Executive under regulation 34 of the Explosives Regulations 2014.
 
-## 10. Fees payable in relation to the Petroleum (Consolidation) Regulations 2014[^key-25b60813e37caeb0ae0c12486ec4c5ce]
+## 10. Fees payable in relation to the Petroleum (Consolidation) Regulations 2014[^c-25b60813e37caeb0ae0c12486ec4c5ce]
 
-Where an application in relation to a provision in the Petroleum (Consolidation) Regulations 2014[^f00023] specified in column 1 of Part 6[^key-85b2c0726f7c0f1033e55ef3470a7e5f] of Schedule 7 is made for the purpose described in the corresponding entry in column 2 of that Part, the fee specified in the corresponding entry in column 3 of that Part is payable to the petroleum enforcement authority by the applicant.
+Where an application in relation to a provision in the Petroleum (Consolidation) Regulations 2014[^f00023] specified in column 1 of Part 6[^c-85b2c0726f7c0f1033e55ef3470a7e5f] of Schedule 7 is made for the purpose described in the corresponding entry in column 2 of that Part, the fee specified in the corresponding entry in column 3 of that Part is payable to the petroleum enforcement authority by the applicant.
 
-## 11. Fees in relation to Part 5 of the Dangerous Goods in Harbour Areas Regulations 2016[^key-fc864ad4d9a475d5d539296c1e43837e][^key-32a92ebba9e8abd691b6b18696eb6b8f]
+## 11. Fees in relation to Part 5 of the Dangerous Goods in Harbour Areas Regulations 2016[^c-fc864ad4d9a475d5d539296c1e43837e][^c-32a92ebba9e8abd691b6b18696eb6b8f]
 
 (1) A fee is payable to the appropriate authority by the person referred to in column 2 of the table in Schedule 8, for the performance by or on behalf of the appropriate authority of such functions as are conferred on it for the purpose specified in column 1 of that table.
 
@@ -251,14 +251,14 @@ Where an application in relation to a provision in the Petroleum (Consolidation)
 - “**appropriate authority**” has the same meaning as in regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016;
 - “**explosives licensee**” has the meaning given in regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016.
 
-## 12. Estimate of cost of work[^key-41162f30b0408f2bb08921ebfa658f2e]
+## 12. Estimate of cost of work[^c-41162f30b0408f2bb08921ebfa658f2e]
 
 (1) Where any fee is to be assessed on the basis of the reasonable cost to the ONR or the licensing authority of carrying out relevant work, the ONR or the licensing authority (as the case may be) must—
 
 - (a) on receipt of the application or request, as the case may be, prepare and send an estimate of the cost of carrying out the relevant work to the person making that application or request; and
 - (b) before carrying out the relevant work, obtain confirmation from the person making the application or request that the person wishes the work to be carried out on the basis of that estimate of cost.
 
-(1A)[^key-9b780667cabe92445c4c7dfae94045c0] In addition, where—
+(1A)[^c-9b780667cabe92445c4c7dfae94045c0] In addition, where—
 
 - (a) a fee is to be assessed on the basis of the reasonable cost to the licensing authority of carrying out relevant work; and
 - (b) the licensing authority proposes to vary an explosives licence without the agreement of the explosives licensee as permitted by regulation 16 of the Explosives Regulations 2014,
@@ -272,7 +272,7 @@ the licensing authority must prepare and send an estimate of the cost of carryin
 - (a) in relation to the ONR, any work under regulation 16(1) or (2);
 - (b) in relation to the licensing authority, any work under regulation 9(4).
 
-## 13. Fees for notifications and applications under the Genetically Modified Organisms (Contained Use) Regulations 2014[^key-74eb676db72860a9e2d301aef2f132a4]
+## 13. Fees for notifications and applications under the Genetically Modified Organisms (Contained Use) Regulations 2014[^c-74eb676db72860a9e2d301aef2f132a4]
 
 (1) The fee specified in column 2 of Schedule 9 is payable by a notifier or applicant to the competent authority on each such notification or application under the 2014 GMO Regulations as is referred to in the corresponding entry in column 1 of that Schedule.
 
@@ -280,7 +280,7 @@ the licensing authority must prepare and send an estimate of the cost of carryin
 
 (3) For the purposes of this regulation and Schedule 9, “**notifier**” and “**competent authority**” have the same meaning as in the 2014 GMO Regulations.
 
-## 14. Fees payable in respect of offshore installations[^key-c0b35491bdba2e4b61ae873fcd81b2a4]
+## 14. Fees payable in respect of offshore installations[^c-c0b35491bdba2e4b61ae873fcd81b2a4]
 
 (1) A fee is payable to the Executive by the person referred to in column 2 of Schedule 10 for the performance by the Executive of such functions conferred on the Executive as are specified in column 1 of that Schedule.
 
@@ -303,7 +303,7 @@ the licensing authority must prepare and send an estimate of the cost of carryin
     - (ii) in any other case, given in regulation 2(1) of those Regulations in relation to a production installation;
   - (b) in a case concerning the 2015 Regulations, has the meaning given in those Regulations[^f00030].
 
-## 14A. Fees payable in respect of boreholes and onshore oil, gas and geothermal well and borehole operations[^key-c98003a553d4d6854fe111524844dc57]
+## 14A. Fees payable in respect of boreholes and onshore oil, gas and geothermal well and borehole operations[^c-c98003a553d4d6854fe111524844dc57]
 
 (1) Subject to paragraph (2), a fee is payable to the Executive by the person referred to in column 2 of Schedule 14 for the performance by the Executive of such functions conferred on it under the 1995 Regulations as are specified in column 1 of that Schedule.
 
@@ -346,11 +346,11 @@ the licensing authority must prepare and send an estimate of the cost of carryin
 - “**petroleum**”, “**well**” and “**well operator**” have the meanings given in regulation 2 of the Offshore Installations and Wells (Design and Construction etc) Regulations 1996
 - “**territorial waters**” means United Kingdom territorial waters adjacent to Great Britain and “**within territorial waters**” includes on, over and under them.
 
-## 15. Fees payable in respect of gas safety functions[^key-012bcfa1a32ec26e7cf47f21eb68cc2b]
+## 15. Fees payable in respect of gas safety functions[^c-012bcfa1a32ec26e7cf47f21eb68cc2b]
 
 (1) A fee is payable to the Executive by the person referred to in column 2 of Schedule 11 for the performance by the Executive of such functions conferred on the Executive as are specified in column 1 of that Schedule.
 
-(2) A fee is payable to the Executive by a person conveying gas who has prepared a safety case pursuant to the 1996 Regulations , by a network emergency co-ordinator or by an emergency reporting service provider[^key-1e6e782101e13c5c79c9578284851ca6] for the performance by or on behalf of the Executive, or by an inspector appointed by it, of any function conferred on the Executive or the inspector by the 1974 Act which relates to the enforcement of any of the relevant statutory provisions against one or both of the following—
+(2) A fee is payable to the Executive by a person conveying gas who has prepared a safety case pursuant to the 1996 Regulations , by a network emergency co-ordinator or by an emergency reporting service provider[^c-1e6e782101e13c5c79c9578284851ca6] for the performance by or on behalf of the Executive, or by an inspector appointed by it, of any function conferred on the Executive or the inspector by the 1974 Act which relates to the enforcement of any of the relevant statutory provisions against one or both of the following—
 
 - (a) that person in relation to the network, including a pipeline that it is intended will form part of the network, to which the safety case relates; or
 - (b) a contractor in relation to work carried out by that contractor on or in connection with that work, including work on a pipeline that it is intended will form part of that network,
@@ -365,10 +365,10 @@ insofar as such enforcement is for the purpose of protecting persons from risks 
 (4) For the purposes of this regulation and Schedule 11—
 
 - “**the 1996 Regulations**” means the Gas Safety (Management) Regulations 1996[^f00032];
-- “emergency reporting service provider”, “[^key-b9bdcd9a9644eeaabb698ea8d625c870]**network**”, “**network emergency co-ordinator**” and “**safety case**” have the meanings given in the 1996 Regulations (see regulation 2(1) of those Regulations); and
+- “emergency reporting service provider”, “[^c-b9bdcd9a9644eeaabb698ea8d625c870]**network**”, “**network emergency co-ordinator**” and “**safety case**” have the meanings given in the 1996 Regulations (see regulation 2(1) of those Regulations); and
 - “**major accident hazard pipeline**” has the same meaning as in the Pipelines Safety Regulations 1996.
 
-## 15A. Fees payable in relation to pipelines conveying fluids under the Pipeline Safety Regulations 1996[^key-d726428ce0f0db4928de77d1106a2277]
+## 15A. Fees payable in relation to pipelines conveying fluids under the Pipeline Safety Regulations 1996[^c-d726428ce0f0db4928de77d1106a2277]
 
 (1) Subject to paragraph (3), a fee is payable to the Executive by the operator of a pipeline (including a major accident hazard pipeline) for the performance by or on behalf of the Executive, or by an inspector appointed by it, of the functions specified in paragraph (2).
 
@@ -435,7 +435,7 @@ insofar as such enforcement is for the purpose of protecting persons from risks 
 - “**owner**” means in relation to an offshore wind or marine energy installation the person who controls the operation of that installation.
 - “**territorial sea**” has the meaning given in article 2 of the Health and Safety at Work etc. Act 1974 (Application Outside Great Britain) Order 2013.
 
-## 16. Fees payable in relation to nuclear installations[^key-1784eb32a60402825545440b81a8f748]
+## 16. Fees payable in relation to nuclear installations[^c-1784eb32a60402825545440b81a8f748]
 
 (1) Where, by virtue of the provisions specified in entry (a) or (b) of column 1 of Table 1 in Schedule 12, the ONR carries out any work for a purpose specified in column 2 of that Table, a fee is payable to the ONR by the person referred to in column 3 of that Table.
 
@@ -457,23 +457,23 @@ insofar as such enforcement is for the purpose of protecting persons from risks 
   - (a) a provision of the Nuclear Safeguards Act 2000[^f00036]; or
   - (b) a provision of nuclear safeguards regulations[^f00037].
 
-## 17. Provisions supplementary to regulations 8(3A) , 9, 11 and 14 to 16[^key-17d8a4732762564ba6293b6677c6b26c][^key-5fbbf792ec394d121b612fb2ae903497][^key-d58d4535f15b75d5987fede4919ecec5]
+## 17. Provisions supplementary to regulations 8(3A) , 9, 11 and 14 to 16[^c-17d8a4732762564ba6293b6677c6b26c][^c-5fbbf792ec394d121b612fb2ae903497][^c-d58d4535f15b75d5987fede4919ecec5]
 
-(1) Any fee referred to in regulations 8(3A)[^key-733334f3dc94b443fce3c0adfaabd041] , 9(1), (8) and (10), 11(1) and (3)[^key-058f6de10d42e9d64e25e553bfa45d82] and 14 to 16 above—
+(1) Any fee referred to in regulations 8(3A)[^c-733334f3dc94b443fce3c0adfaabd041] , 9(1), (8) and (10), 11(1) and (3)[^c-058f6de10d42e9d64e25e553bfa45d82] and 14 to 16 above—
 
 - (a) is not to exceed the sum of the costs reasonably incurred—
   - (i) in the case of regulation 16(1) or (2), by the ONR in carrying out the work referred to in the respective paragraph;
-  - (ia)[^key-26c898763d9c1944db9b5dca39430a5a] in the case of regulation 8(3A) , by the Executive or the ONR (as the case may be) in carrying out the work in connection with an application referred to in that provision;
-  - (ii) in any other case, by the Executive , the ONR, the acetylene licensing authority or the appropriate authority[^key-e2887db8b8aa75f0c7c30059e4428455] (as the case may be) in performing the function referred to in the respective regulation; [^key-aadfaa73c5752a174071d2e2b67ea2ed]...
-- (b)[^key-aadfaa73c5752a174071d2e2b67ea2ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ia)[^c-26c898763d9c1944db9b5dca39430a5a] in the case of regulation 8(3A) , by the Executive or the ONR (as the case may be) in carrying out the work in connection with an application referred to in that provision;
+  - (ii) in any other case, by the Executive , the ONR, the acetylene licensing authority or the appropriate authority[^c-e2887db8b8aa75f0c7c30059e4428455] (as the case may be) in performing the function referred to in the respective regulation; [^c-aadfaa73c5752a174071d2e2b67ea2ed]...
+- (b)[^c-aadfaa73c5752a174071d2e2b67ea2ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) No fee payable under regulations 8(3A)[^key-57f412a31c4fee91d6bb967244e9d3e3] , 9(1), (8) and (10), 11(1) and (3)[^key-e303eebff6f608322476de03b4369905] and 14 to 16 is to include any costs connected with—
+(2) No fee payable under regulations 8(3A)[^c-57f412a31c4fee91d6bb967244e9d3e3] , 9(1), (8) and (10), 11(1) and (3)[^c-e303eebff6f608322476de03b4369905] and 14 to 16 is to include any costs connected with—
 
 - (a) in England and Wales, any criminal investigation or prosecution, incurred (in either case) from the date on which any information is laid or, as the case may be, any written charge is issued;
 - (b) in Scotland, any criminal investigation or prosecution, incurred (in either case) after such time as the Executive submits a report to the Procurator Fiscal for a decision as to whether a prosecution should be brought; or
 - (c) any appeal pursuant to section 24 of the 1974 Act (appeal against improvement or prohibition notice) and Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^f00038] or paragraph 6 of Schedule 8 to the 2013 Act (appeal against improvement notice or prohibition notice) and Schedule 1 to those Regulations.
 
-(2A)[^key-ebc742a062b7571d5b1a2c1aa80a747f] Where a fee is payable under any of regulations 8(3A), 9(1), (8) and (10), 11(1) and (3) and 14 to 16, the Executive, the ONR, the acetylene licensing authority or the appropriate authority, as the case may be, must send or give to the person who must pay the fee an invoice which—
+(2A)[^c-ebc742a062b7571d5b1a2c1aa80a747f] Where a fee is payable under any of regulations 8(3A), 9(1), (8) and (10), 11(1) and (3) and 14 to 16, the Executive, the ONR, the acetylene licensing authority or the appropriate authority, as the case may be, must send or give to the person who must pay the fee an invoice which—
 
 - (a) includes a statement of the work done and the costs incurred, and
 - (b) specifies the period to which that statement relates.
@@ -491,17 +491,17 @@ insofar as such enforcement is for the purpose of protecting persons from risks 
 
 (6) Any reference in regulations 14 to 16 to work carried out by a contractor is a reference to work carried out for the benefit of the person by whom the fees are payable under that regulation by a contractor or a contractor’s employees, whether pursuant to an agreement or an arrangement which the contractor has made with that person or with another person.
 
-(7) Any reference in regulations 9(11), 11(4) and[^key-b48e4767f709ae043fe2b48b39801868] 14 to 16 to a function conferred on an inspector by the 1974 Act which relates to enforcement against a person of any of the relevant statutory provisions includes a reference to any function conferred on an inspector by that Act which is exercised for the purpose of carrying into effect those provisions in relation to that person.
+(7) Any reference in regulations 9(11), 11(4) and[^c-b48e4767f709ae043fe2b48b39801868] 14 to 16 to a function conferred on an inspector by the 1974 Act which relates to enforcement against a person of any of the relevant statutory provisions includes a reference to any function conferred on an inspector by that Act which is exercised for the purpose of carrying into effect those provisions in relation to that person.
 
 (8) Any reference in regulation 16 to a function conferred on an inspector by the 2013 Act which relates to enforcement against a person of any of the nuclear provisions includes a reference to any function conferred on an inspector by that Act which is exercised for the purpose of carrying into effect those provisions in relation to that person.
 
-(9)[^key-8f6ee2674a9466e9dd29ecdfd245de9a] For the purposes of this regulation—
+(9)[^c-8f6ee2674a9466e9dd29ecdfd245de9a] For the purposes of this regulation—
 
 - “acetylene licensing authority” has the same meaning given in regulation 9;
 - “appropriate authority” has the same meaning given in regulation 11;
 - “nuclear provisions” has the same meaning given in regulation 16.
 
-## 18. Fees for applications for approvals under the Offshore Installations and Pipeline Works (First-Aid) Regulations 1989[^key-473afb26dd42b476552a338c22b4466c]
+## 18. Fees for applications for approvals under the Offshore Installations and Pipeline Works (First-Aid) Regulations 1989[^c-473afb26dd42b476552a338c22b4466c]
 
 (1) A fee is payable by the applicant to the Executive on each application for an original approval or a renewal of an approval of training under regulation 5(2)(a) of the Offshore Installations and Pipeline Works (First-Aid) Regulations 1989[^f00040].
 
@@ -528,14 +528,14 @@ and is payable prior to the notification of the result of the application for ap
 (6) Subject to paragraph (7), the fee payable under paragraph (5) is—
 
 - (a) where the site visit is in connection with an approval relating to offshore first-aid training, that specified in column 1 of Table 3 in Schedule 13; or
-- (b) where the site visit is in connection with an approval relating to offshore[^key-97f89b1d5b8c0150164843299721c9a0] medical training, that specified in column 2 of that Table,
+- (b) where the site visit is in connection with an approval relating to offshore[^c-97f89b1d5b8c0150164843299721c9a0] medical training, that specified in column 2 of that Table,
 
-provided that, where the site visit is in respect of both kinds of approval of training as are referred to in sub-paragraphs (a) and (b) above and takes only one day to complete, the sum of the payable fees in columns 1 and 2 of that Table is to be reduced by an amount of £161[^key-74cd3c8e9bcf30ec10f1c99ac9802095].
+provided that, where the site visit is in respect of both kinds of approval of training as are referred to in sub-paragraphs (a) and (b) above and takes only one day to complete, the sum of the payable fees in columns 1 and 2 of that Table is to be reduced by an amount of £161[^c-74cd3c8e9bcf30ec10f1c99ac9802095].
 
 (7) The fee payable under paragraph (5) where the site visit is carried out because a shortcoming in the training has been identified by the Executive during an earlier site visit—
 
 - (a) where the site visit is in connection with an approval relating to offshore first-aid training, is that specified in column 3 of Table 3 in Schedule 13; or
-- (b) where the site visit is in connection with an approval [^key-7b6b3abb420863bd03ffd2a8ef450765]... relating to offshore medical training, is that specified in column 4 of that Table.
+- (b) where the site visit is in connection with an approval [^c-7b6b3abb420863bd03ffd2a8ef450765]... relating to offshore medical training, is that specified in column 4 of that Table.
 
 (8) Where the Executive requires a site visit to be made for the purpose of investigating a complaint in relation to training provided pursuant to an approval mentioned in paragraph (1), a fee is payable to the Executive by the provider of the training where—
 
@@ -561,17 +561,17 @@ a fee is payable by the training provider to the Executive in respect of that ca
 
 (12) The fee referred to in paragraphs (6), (7), (9) and (11) is payable within 30 days from the date of the invoice that the Executive has sent or given to the person providing the approved training.
 
-## 19. Provisions supplementary to regulation 18[^key-c7c787e600843edf0a9e6235436cf580]
+## 19. Provisions supplementary to regulation 18[^c-c7c787e600843edf0a9e6235436cf580]
 
-(1) Where an application for an original approval of either offshore first-aid training or offshore medical training is made and the applicant thereafter applies for an original approval of one of those two kinds of training not earlier applied for, or the applications are made together, the Executive must repay to the applicant the amount of £60[^key-1f19a39ca9911ab63ffba7ae752f7c0b] in respect of the fees paid for the original approvals of training applied for.
+(1) Where an application for an original approval of either offshore first-aid training or offshore medical training is made and the applicant thereafter applies for an original approval of one of those two kinds of training not earlier applied for, or the applications are made together, the Executive must repay to the applicant the amount of £60[^c-1f19a39ca9911ab63ffba7ae752f7c0b] in respect of the fees paid for the original approvals of training applied for.
 
 (2) For the purposes of this regulation, “offshore first-aid training” and “offshore medical training” have the meanings given in regulation 18.
 
-## 20. Fees for notifications under the Borehole Sites and Operations Regulations 1995[^key-d7f615c75099be612f5b76fe32014882][^key-693370be6bf7259edb835bbee41d2a81]
+## 20. Fees for notifications under the Borehole Sites and Operations Regulations 1995[^c-d7f615c75099be612f5b76fe32014882][^c-693370be6bf7259edb835bbee41d2a81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Fees payable in connection with work relating to biocides[^key-10e2b48e39206caba655aa2f3ef12bd7]
+## 21. Fees payable in connection with work relating to biocides[^c-10e2b48e39206caba655aa2f3ef12bd7]
 
 (1) The competent authority must charge fees for—
 
@@ -610,7 +610,7 @@ a fee is payable by the training provider to the Executive in respect of that ca
 
 (12) Expressions used in the Biocides Regulation which are also used in this regulation or Schedule 15 have the same meaning in these Regulations as they have in the Biocides Regulation.
 
-## 22. Fees payable for activities under the CLP Regulation[^key-10af63e35ad53bb8ec977eb20421b52c]
+## 22. Fees payable for activities under the CLP Regulation[^c-10af63e35ad53bb8ec977eb20421b52c]
 
 (1) The Agency may charge fees for work it carries out within the scope of the CLP Regulation which relates to the activities listed in column 1 of Schedule 16.
 
@@ -639,7 +639,7 @@ a fee is payable by the training provider to the Executive in respect of that ca
 
 (12) Expressions used in the CLP Regulation which are also used in this regulation or Schedule 16 have the same meaning in these Regulations as they have in the CLP Regulation.
 
-## 23. Fees for intervention[^key-59064a1873a56fb68870f17ffa421c71]
+## 23. Fees for intervention[^c-59064a1873a56fb68870f17ffa421c71]
 
 (1) Subject to regulation 24, if—
 
@@ -664,7 +664,7 @@ a fee is payable by that person to the Executive for the performance of the func
 
 (7) A fee for intervention is payable by a person in respect of the functions described in paragraph (3) only to the extent that the performance of any such function by the Executive is reasonably attributable to that person.
 
-## 24. Provisions supplementary to regulation 23[^key-e660da685178a35a6631469f0313a70f]
+## 24. Provisions supplementary to regulation 23[^c-e660da685178a35a6631469f0313a70f]
 
 (1) A fee for intervention is not to exceed the sum of the costs reasonably incurred by the Executive for its performance of the functions referred to in paragraphs (2) and (3) of regulation 23.
 
@@ -705,7 +705,7 @@ a fee is payable by that person to the Executive for the performance of the func
 - (c) the 2013 Biocidal Products and Chemicals Regulations; and
 - (d) the 2014 GMO Regulations.
 
-## 25. Repayments and disputes[^key-ee508f9c50e061290123293e1a055669]
+## 25. Repayments and disputes[^c-ee508f9c50e061290123293e1a055669]
 
 (1) If a person is—
 
@@ -739,7 +739,7 @@ the Executive must repay such part of any fee for intervention paid as is wholly
 
 (8) For the purposes of this regulation, “**enforcement notice**” means an improvement notice or a prohibition notice.
 
-## 26. Review[^key-a44721d909a729c5a8c6a546209509e7]
+## 26. Review[^c-a44721d909a729c5a8c6a546209509e7]
 
 (1) The Secretary of State must from time to time—
 
@@ -759,11 +759,11 @@ the Executive must repay such part of any fee for intervention paid as is wholly
 
 (5) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
 
-## 27. Revocations[^key-b594518a8da4881d67c55c92744898c7]
+## 27. Revocations[^c-b594518a8da4881d67c55c92744898c7]
 
 The Health and Safety and Nuclear (Fees) Regulations 2021[^f00054] are revoked.
 
-**28.**[^key-04a4fddae7aa49789179764b8dc17ecd][^key-b594518a8da4881d67c55c92744898c7] Regulation 14 of the Chemicals (Health and Safety) Trade and Miscellaneous Amendments Regulations 2022[^f00055] (amendment of the Health and Safety and Nuclear (Fees) Regulations 2021) is revoked.
+**28.**[^c-04a4fddae7aa49789179764b8dc17ecd][^c-b594518a8da4881d67c55c92744898c7] Regulation 14 of the Chemicals (Health and Safety) Trade and Miscellaneous Amendments Regulations 2022[^f00055] (amendment of the Health and Safety and Nuclear (Fees) Regulations 2021) is revoked.
 
 Signed by authority of the Secretary of State
 
@@ -785,24 +785,24 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 19th December 2022
 
-## SCHEDULE 1 — Fees for applications for approval under the Agriculture (Tractor Cabs) Regulations 1974[^key-9cdeb9d4ee2837010c61312d4f960dc3]
+## SCHEDULE 1 — Fees for applications for approval under the Agriculture (Tractor Cabs) Regulations 1974[^c-9cdeb9d4ee2837010c61312d4f960dc3]
 
 Regulation 3
 
 | 1 (Subject matter) | 2 (Fee) |
 | --- | --- |
-| (a) Original approval of a tractor cab | £552[^key-396c078a810fb80cfc4fe6ae408f4d31] |
+| (a) Original approval of a tractor cab | £552[^c-396c078a810fb80cfc4fe6ae408f4d31] |
 | (b) Revision of an existing approval of a tractor cab | £303 |
 
-## SCHEDULE 2 — Fee for application for approval under the Freight Containers (Safety Convention) Regulations 2017[^key-b9ad0ee2313e9614e413745ae7a87b87]
+## SCHEDULE 2 — Fee for application for approval under the Freight Containers (Safety Convention) Regulations 2017[^c-b9ad0ee2313e9614e413745ae7a87b87]
 
 Regulation 4
 
 | 1 (Subject matter) | 2 (Fee) |
 | --- | --- |
-| Approval of scheme or programme for examination of freight containers | £107[^key-dc95ad2e5299087e25ecf4b3aa1f354d] |
+| Approval of scheme or programme for examination of freight containers | £107[^c-dc95ad2e5299087e25ecf4b3aa1f354d] |
 
-## SCHEDULE 3 — Fees for various applications under the Control of Asbestos Regulations 2012[^key-926f029a344bb88233816e4dc482601d]
+## SCHEDULE 3 — Fees for various applications under the Control of Asbestos Regulations 2012[^c-926f029a344bb88233816e4dc482601d]
 
 Regulation 5
 
@@ -810,37 +810,37 @@ Table 1
 
 | 1 (Subject matter of licence) | 2 (Fee) |
 | --- | --- |
-| Licence for work with asbestos or renewal of (original) licence | £3,683[^key-6c70b90a38bc35b317db8a43c3a9e1cb] |
+| Licence for work with asbestos or renewal of (original) licence | £3,683[^c-6c70b90a38bc35b317db8a43c3a9e1cb] |
 
 Table 2
 
 | 1 (Fee for re-assessment of licence application) | 2 (Fee for amendment of condition, or duration, of licence) | 3 (Fee for other amendment, or replacement, of a licence) |
 | --- | --- | --- |
-| £844[^key-16ed52e416935c934bafe3e4f6183324] | £844 | £91 |
+| £844[^c-16ed52e416935c934bafe3e4f6183324] | £844 | £91 |
 
-## SCHEDULE 4 — Fees for examination or surveillance by an employment medical adviser[^key-7e6fb15376171034186bfd5f7b8da01f]
+## SCHEDULE 4 — Fees for examination or surveillance by an employment medical adviser[^c-7e6fb15376171034186bfd5f7b8da01f]
 
 Regulation 6
 
 | 1 (Provision) | 2 (Reference) | 3 (Basic fee) | 4 (Fee for x-rays) | 5 (Fee for laboratory tests) |
 | --- | --- | --- | --- | --- |
-| The 2017 Regulations | [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075) | £44[^key-055d307a89975e583f68e00a2a5fab9c] where surveillance is confined to examination of, and making entries in, records, and £78[^key-aeaa4c036c0f60c29a3e6ac18472a45c] in other cases | £84 | £48 |
+| The 2017 Regulations | [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075) | £44[^c-055d307a89975e583f68e00a2a5fab9c] where surveillance is confined to examination of, and making entries in, records, and £78[^c-aeaa4c036c0f60c29a3e6ac18472a45c] in other cases | £84 | £48 |
 | The 2012 Asbestos Regulations | [S.I. 2012/632](https://www.legislation.gov.uk/uksi/2012/632) | £84 | £84 | £48 |
 | The Control of Substances Hazardous to Health Regulations 2002 | [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677) | £84 | £84 | £48 |
-| The Work in Compressed Air Regulations 1996[^key-621cd91f1a1f1006a6951f5f975b4999] | [S.I. 1996/1656](https://www.legislation.gov.uk/uksi/1996/1656) | £84 | £84 | £48 |
+| The Work in Compressed Air Regulations 1996[^c-621cd91f1a1f1006a6951f5f975b4999] | [S.I. 1996/1656](https://www.legislation.gov.uk/uksi/1996/1656) | £84 | £84 | £48 |
 
-## SCHEDULE 5 — Fees for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations 2002[^key-e962272f4a6be19d9fb1381c28cce2b0]
+## SCHEDULE 5 — Fees for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations 2002[^c-e962272f4a6be19d9fb1381c28cce2b0]
 
 Regulation 7
 
 | 1 (Item) | 2 (Fee) |
 | --- | --- |
-| (a) On the first assessment of an employee (including any clinical medical examination and laboratory tests in connection with the assessment) | £84[^key-052d0b2190ff564fb1ea2e486353933a] |
+| (a) On the first assessment of an employee (including any clinical medical examination and laboratory tests in connection with the assessment) | £84[^c-052d0b2190ff564fb1ea2e486353933a] |
 | (b) On each subsequent assessment of an employee— |  |
 | (i) for laboratory tests, where these are carried out | £48 |
 | (ii) for a clinical medical examination, where this is carried out | £48 |
 
-## SCHEDULE 6 — Fees payable in connection with the Ionising Radiations Regulations 2017 and the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-934b5e604f56d8fbf6237616521dc4b9]
+## SCHEDULE 6 — Fees payable in connection with the Ionising Radiations Regulations 2017 and the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^c-934b5e604f56d8fbf6237616521dc4b9]
 
 Regulation 8
 
@@ -850,7 +850,7 @@ Table 1
 | --- | --- | --- |
 | **Original approval or reassessment of such approval of dosimetry services granted under regulation 36 of the 2017 Regulations for the purposes of those Regulations** |  |  |
 | **Group I – Dose record keeping** |  |  |
-| (a) where the application is solely in respect of Group I functions | £917[^key-8fe02138ccb40c1bdca5f28f945c329a] | £154 per hour worked |
+| (a) where the application is solely in respect of Group I functions | £917[^c-8fe02138ccb40c1bdca5f28f945c329a] | £154 per hour worked |
 | (b) where the application for Group I functions is linked to an application in respect of functions in another group | £917 | £154 per hour worked |
 | **Group II – External dosimetry** |  |  |
 | (a) whole body (beta, gamma, thermal neutrons) thermoluminescent film | £917 | £154 per hour worked |
@@ -864,26 +864,26 @@ Table 1
 | (b) for each additional one of the above techniques | £917 | £154 per hour worked |
 | **Original type approval of apparatus under paragraph 1(d)(i) or 1(e)(i) of Schedule 1 to the 2017 Regulations (which excepts such type approved apparatus from the notification requirements of regulation 5 of those Regulations** | £154 | £154 per hour worked |
 | **Amendment of an original approval of dosimetry services granted under regulation 36 of the 2017 Regulations for the purposes of those Regulations, or an original type approval of apparatus under paragraph 1(d)(i) or 1(e)(i) of Schedule 1 to those Regulations** | £63 | £154 per hour worked |
-| Application for registration pursuant to regulation 6 of the 2017 Regulations[^key-5b922f078e2c547a3d6a5a1bb3a445eb] | £27 | n/a |
+| Application for registration pursuant to regulation 6 of the 2017 Regulations[^c-5b922f078e2c547a3d6a5a1bb3a445eb] | £27 | n/a |
 
 Table 2
 
 | 1 (Purpose of application) | 2 (Fee) | 3 (Fee for work by Inspectors or person appointed to advise the Executive) |
 | --- | --- | --- |
-| Original approval or reassessment of such approval of dosimetry services granted under regulation 36 of the 2017 Regulations for the purposes of regulation 18 of the 2019 Regulations | £2,160[^key-da432579648aa6d03aa9cc47013d8000] | £154 per hour worked |
+| Original approval or reassessment of such approval of dosimetry services granted under regulation 36 of the 2017 Regulations for the purposes of regulation 18 of the 2019 Regulations | £2,160[^c-da432579648aa6d03aa9cc47013d8000] | £154 per hour worked |
 | Amendment of an original approval of dosimetry services granted under regulation 36 of the 2017 Regulations for the purposes of regulation 18 of the 2019 Regulations | £63 | £154 per hour worked |
 
 Table 3
 
 | 1 (Statutory provision) | 2 (Fee) | 3 (Purpose of the work) |
 | --- | --- | --- |
-| Section 11(1) and 11(2)(a) and (b) of the 1974 Act | £3.99[^key-3fefb64bb948cf3d90fa8a4c2239d4ba] | Processing information contained in a record sent to the Executive pursuant to regulation 22(3)(e) of the 2017 Regulations |
+| Section 11(1) and 11(2)(a) and (b) of the 1974 Act | £3.99[^c-3fefb64bb948cf3d90fa8a4c2239d4ba] | Processing information contained in a record sent to the Executive pursuant to regulation 22(3)(e) of the 2017 Regulations |
 
-## SCHEDULE 7 — Fees payable in relation to the Explosives Regulations 2014, the 2014 Acetylene Regulations and the Petroleum (Consolidation) Regulations 2014[^key-386a3ad67f45e909b40bc3ef150f883a]
+## SCHEDULE 7 — Fees payable in relation to the Explosives Regulations 2014, the 2014 Acetylene Regulations and the Petroleum (Consolidation) Regulations 2014[^c-386a3ad67f45e909b40bc3ef150f883a]
 
 Regulations 9 and 10
 
-### PART 1 — Fees for applications for licences, variations, transfers or replacements of licences, to manufacture or to store explosives, made to the Executive or the ONR under the Explosives Regulations 2014[^key-a6c70827cce967bb6eeced5a84be4f47]
+### PART 1 — Fees for applications for licences, variations, transfers or replacements of licences, to manufacture or to store explosives, made to the Executive or the ONR under the Explosives Regulations 2014[^c-a6c70827cce967bb6eeced5a84be4f47]
 
 | 1 (Provision of the Explosives Regulations 2014 under which a licence is granted, varied, transferred or replaced) | 2 (Purpose of application or exercise of function) | 3 (Person by whom the fee is payable) |
 | --- | --- | --- |
@@ -895,14 +895,14 @@ Regulations 9 and 10
 |  | Replacement of any of the above licences, if lost | Explosives licensee |
 | Regulation 23(1)(c) | Revocation of any of the above licences | Explosives licensee |
 
-### PART 2 — Fees for applications to issue a recipient competent authority document or site manufacturing code for civil explosives under the Explosives Regulations 2014[^key-19afa9f61e3b7c6a16a003a7f43f3cae]
+### PART 2 — Fees for applications to issue a recipient competent authority document or site manufacturing code for civil explosives under the Explosives Regulations 2014[^c-19afa9f61e3b7c6a16a003a7f43f3cae]
 
 | 1 (Provision of the Explosives Regulations 2014 under which a licence, document or code is issued) | 2 (Purpose of application or exercise of function) | 3 (Fee) |
 | --- | --- | --- |
 | Regulation 8 | Recipient competent authority document for the transfer of civil explosives | £138 |
 | Regulation 34 | Attribution of site manufacturing code for civil explosives | £69 |
 
-### PART 3 — Fees for applications for licences, or variations to, or transfer of, licences to store explosives, made to licensing authorities specified in paragraph 1(a) of Schedule 1 to the Explosives Regulations 2014[^key-ce6fcb293e98268f84ff986b62219c0e]
+### PART 3 — Fees for applications for licences, or variations to, or transfer of, licences to store explosives, made to licensing authorities specified in paragraph 1(a) of Schedule 1 to the Explosives Regulations 2014[^c-ce6fcb293e98268f84ff986b62219c0e]
 
 | 1 (Provision of the Explosives Regulations 2014 under which application is made or function is exercised) | 2 (Purpose of application or exercise of function) | 3 (Fee) |
 | --- | --- | --- |
@@ -951,7 +951,7 @@ The fee payable for a licence or renewal of a licence—
 - (d) of more than three but less than four years’ duration is, respectively, the fee set out above for a licence or renewal of a licence of three years’ duration increased proportionately according to the duration of the period for which the licence or renewal is granted;
 - (e) of more than four but less than five years’ duration is, respectively, the fee set out above for a licence or renewal of a licence of four years’ duration increased proportionately according to the duration of the period for which the licence or renewal is granted.
 
-### PART 4 — Fees for explosives certificates under the Explosives Regulations 2014[^key-5c4f6400b235960563a9b67662c1f8ec]
+### PART 4 — Fees for explosives certificates under the Explosives Regulations 2014[^c-5c4f6400b235960563a9b67662c1f8ec]
 
 | 1 (Provision of the Explosives Regulations 2014 under which a fee is payable) | 2 (Purpose of application) | 3 (Fee) |
 | --- | --- | --- |
@@ -1041,7 +1041,7 @@ The fee payable for an explosives certificate or renewal of an explosive certifi
 - (d) of more than three years but less than four years’ duration is, respectively, the fee set out above for an explosives certificate, or a renewal of three years’ duration increased proportionately according to the duration of the period for which the explosives certificate or renewal is granted;
 - (e) of more than four years but less than five years’ duration is, respectively, the fee set out above for an explosives certificate, or a renewal of four years’ duration increased proportionately according to the duration of the period for which the explosives certificate or renewal is granted.
 
-### PART 5 — Fees for applications under and replacements of licences under the 2014 Acetylene Regulations[^key-a3a394ded3b3b10b9020e14ff27f69d2]
+### PART 5 — Fees for applications under and replacements of licences under the 2014 Acetylene Regulations[^c-a3a394ded3b3b10b9020e14ff27f69d2]
 
 | 1 (Purpose of application under the 2014 Acetylene Regulations) | 2 (Person by whom the fee is payable) |
 | --- | --- |
@@ -1064,7 +1064,7 @@ The fee payable for an explosives certificate or renewal of an explosive certifi
 |  | exceeding 2,500 litres but not exceeding 50,000 litres | £65 for each year of certificate |
 |  | exceeding 50,000 litres | £137 for each year of certificate |
 
-## SCHEDULE 8 — Fees in relation to Part 5 of the Dangerous Goods in Harbour Areas Regulations 2016[^key-d29be6ffe59d44f495a046662d692754][^key-27e81b6c256e784122f9d1386e2886b1]
+## SCHEDULE 8 — Fees in relation to Part 5 of the Dangerous Goods in Harbour Areas Regulations 2016[^c-d29be6ffe59d44f495a046662d692754][^c-27e81b6c256e784122f9d1386e2886b1]
 
 Regulation 11
 
@@ -1076,14 +1076,14 @@ Regulation 11
 | Granting of an exemption under regulation 28 of the Dangerous Goods in Harbour Areas Regulations 2016 to any requirement or prohibition imposed by or under Part 5 of those Regulations | Explosives licensee |
 | Varying name of licensee or address of site | Explosives licensee |
 
-## SCHEDULE 9 — Fees for notifications and applications under the 2014 GMO Regulations[^key-5aac1f9f9a2fe1548c2ec3cebc57d450]
+## SCHEDULE 9 — Fees for notifications and applications under the 2014 GMO Regulations[^c-5aac1f9f9a2fe1548c2ec3cebc57d450]
 
 Regulation 13
 
 | 1 (Description) | 2 (Fee) |
 | --- | --- |
-| (a) Notification of premises to be used for contained use for the first time under regulation 9(2) | £538[^key-b8e7fb7837e17d51567c46f3c0cca4fc] |
-| (b) Notification of class 2 contained use[^key-b395233ec51dc858a6e58ec73f28f641] under regulation 10(2) | £1,074 |
+| (a) Notification of premises to be used for contained use for the first time under regulation 9(2) | £538[^c-b8e7fb7837e17d51567c46f3c0cca4fc] |
+| (b) Notification of class 2 contained use[^c-b395233ec51dc858a6e58ec73f28f641] under regulation 10(2) | £1,074 |
 | (c) Notification of premises to be used for contained use for the first time under regulation 9(2) at the same time as notification of class 2 contained use under regulation 10(2) | £1,074 |
 | (d) Notification of class 3 contained use under regulation 11(2) | £1,163 |
 | (e) Notification of premises to be used for contained use for the first time under regulation 9(2) at the same time as notification of class 3 contained use under regulation 11(2) | £1,163 |
@@ -1092,9 +1092,9 @@ Regulation 13
 | (h) Notification of contained use under regulation 12(2) | £1,074 |
 | (i) Notification of premises to be used for contained use for the first time under regulation 9(2) at the same time as notification of contained use under regulation 12(2) | £1,074 |
 | (j) Notification of change or new information affecting risks under regulation 15(1) | £803 |
-| (k) Application for the written agreement of the competent authority under regulation 19(2) where the application is made after a notification has been submitted pursuant to regulation 9(2)[^key-0c42ceb3d640f8439189446a1618fbe3] , 10(2), 11(2) or 12(2) | £803 |
+| (k) Application for the written agreement of the competent authority under regulation 19(2) where the application is made after a notification has been submitted pursuant to regulation 9(2)[^c-0c42ceb3d640f8439189446a1618fbe3] , 10(2), 11(2) or 12(2) | £803 |
 
-## SCHEDULE 10 — Fees payable in respect of offshore installations[^key-c9cb3e918eb8795bbb9eab019d7fc671]
+## SCHEDULE 10 — Fees payable in respect of offshore installations[^c-c9cb3e918eb8795bbb9eab019d7fc671]
 
 Regulation 14
 
@@ -1111,17 +1111,17 @@ Regulation 14
 | Providing advice with respect to the preparation of a safety case or a revision to a current safety case which is proposed to be sent to the competent authority pursuant to any provision of the 2015 Regulations | The operator or owner who has requested that advice |
 | Assessing whether to grant an exemption pursuant to regulation 35 of the 2015 Regulations and granting any such exemption | The operator or owner who has requested the exemption |
 
-## SCHEDULE 11 — Fees payable in respect of gas safety functions[^key-254ff9ec43c5130ba222939dac18f9b6]
+## SCHEDULE 11 — Fees payable in respect of gas safety functions[^c-254ff9ec43c5130ba222939dac18f9b6]
 
 Regulation 15
 
 | 1 (Function) | 2 (Person by whom fee is payable) |
 | --- | --- |
-| Assessing a safety case or a revision of a safety case (sent to the Executive pursuant to any provision of the 1996 Regulations) for the purpose of deciding whether to accept that safety case or revision, and accepting any such safety case or revision | The person conveying gas, the person intending to convey gas , the network emergency co-ordinator or the emergency reporting service provider[^key-364c3466ccccd9a5987913b3fcb9f1e9] who has prepared the safety case or revision pursuant to that provision |
+| Assessing a safety case or a revision of a safety case (sent to the Executive pursuant to any provision of the 1996 Regulations) for the purpose of deciding whether to accept that safety case or revision, and accepting any such safety case or revision | The person conveying gas, the person intending to convey gas , the network emergency co-ordinator or the emergency reporting service provider[^c-364c3466ccccd9a5987913b3fcb9f1e9] who has prepared the safety case or revision pursuant to that provision |
 | Providing advice with respect to the preparation of a safety case or revision to a safety case which is proposed to be sent to the Executive pursuant to any provision of the 1996 Regulations | The person conveying gas, the person intending to convey gas , the network emergency co-ordinator or the emergency reporting service provider who has requested that advice |
 | Assessing whether to grant an exemption pursuant to regulation 11 of the 1996 Regulations | The operator or owner who has requested the exemption |
 
-## SCHEDULE 12 — Fees payable in relation to nuclear assessments, design proposals and potential nuclear site applications under section 1(1) of the 1965 Act[^key-524a39a4d08640ccdbdae899e154a077]
+## SCHEDULE 12 — Fees payable in relation to nuclear assessments, design proposals and potential nuclear site applications under section 1(1) of the 1965 Act[^c-524a39a4d08640ccdbdae899e154a077]
 
 Regulation 16
 
@@ -1138,7 +1138,7 @@ Table 2
 | --- | --- | --- |
 | Section 78 of the 2013 Act and sections 1(3) and 3 of the 1965 Act | Providing advice to a potential applicant for a licence under section 1(1) of the 1965 Act on any matter relating to a potential application for a licence | The person who has requested the advice |
 
-## SCHEDULE 13 — Fees for applications for approvals under the Offshore Installations and Pipelines Works (First-Aid) Regulations 1989[^key-20d6f2ddccffc9a3a83ccba3015148f8]
+## SCHEDULE 13 — Fees for applications for approvals under the Offshore Installations and Pipelines Works (First-Aid) Regulations 1989[^c-20d6f2ddccffc9a3a83ccba3015148f8]
 
 Regulation 18
 
@@ -1146,29 +1146,29 @@ Table 1
 
 | 1 (Fee for an original approval of offshore first-aid training) | 2 (Fee for an original approval of offshore medical training) | 3 (Fee for renewal of approval of offshore first-aid training) | 4 (Fee for renewal of approval of offshore medical training) |
 | --- | --- | --- | --- |
-| £1,928[^key-bc045c68bddb99ef0d889946976db6da] | £2,655 | £134 | £134 |
+| £1,928[^c-bc045c68bddb99ef0d889946976db6da] | £2,655 | £134 | £134 |
 
 Table 2
 
 | 1 (Fee for an additional site visit relating to offshore first-aid training) | 2 (Fee for additional site visit relating to offshore medical training) |
 | --- | --- |
-| £644[^key-8590c802f2fe64f34a258ba218010393] | £1,520 |
+| £644[^c-8590c802f2fe64f34a258ba218010393] | £1,520 |
 
 Table 3
 
 | 1 (Fee for an initial site visit relating to offshore first-aid training) | 2 (Fee for an initial site visit relating to offshore medical training) | 3 (Fee for any additional site visit relating to offshore first-aid training) | 4 (Fee for any additional site visit relating to offshore medical training) |
 | --- | --- | --- | --- |
-| £655[^key-66a334eebdb4485d95aae033e51378a9] | £1,520 | £644 | £1,520 |
+| £655[^c-66a334eebdb4485d95aae033e51378a9] | £1,520 | £644 | £1,520 |
 
 Table 4
 
 | 1 (Fee for a site visit to investigate a complaint relating to offshore first-aid training) | 2 (Fee for a site visit to investigate a complaint relating to offshore medical training) | 3 (Fee for a cancelled site visit relating to offshore first-aid training) | 4 (Fee for a cancelled site visit relating to offshore medical training) |
 | --- | --- | --- | --- |
-| £655[^key-5bcd0a1a8b4deb750da41b51ebd4f9e0] | £1,520 | £655 | The reasonable cost to the Executive due to the cancellation |
+| £655[^c-5bcd0a1a8b4deb750da41b51ebd4f9e0] | £1,520 | £655 | The reasonable cost to the Executive due to the cancellation |
 
-## SCHEDULE 14 — Fees for notifications under the Borehole Sites and Operations Regulations 1995[^key-a242be020c5501167d6a8ece7b7b40ec]
+## SCHEDULE 14 — Fees for notifications under the Borehole Sites and Operations Regulations 1995[^c-a242be020c5501167d6a8ece7b7b40ec]
 
-Regulation 14A[^key-8787d2ba1b8de6013a0d341e574039a1]
+Regulation 14A[^c-8787d2ba1b8de6013a0d341e574039a1]
 
 | 1 (Function) | 2 (Person by whom fee is payable) |
 | --- | --- |
@@ -1178,13 +1178,13 @@ Regulation 14A[^key-8787d2ba1b8de6013a0d341e574039a1]
 | Assessing a notification sent to the Executive pursuant to regulation 6(4) of the 1995 Regulations for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The operator of a borehole site |
 | Assessing a notification sent to the Executive pursuant to regulation 6(5) of the 1995 Regulations for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The operator of a borehole site or, in the case of particulars previously notified under regulation 6(3) of the 1995 Regulations, the person entitled to drill the borehole |
 
-## SCHEDULE 15 — Fees payable for work in connection with biocides[^key-b2409a57adb36fbe9b240d6fe8f00e73]
+## SCHEDULE 15 — Fees payable for work in connection with biocides[^c-b2409a57adb36fbe9b240d6fe8f00e73]
 
 Regulation 21
 
 | 1 (Activity) | 2 (Fee per person per day worked) |
 | --- | --- |
-| (a) Validation of an application for approval of an active substance | £509[^key-dc36802bb3caf356f192d5e6e1e5abc8] |
+| (a) Validation of an application for approval of an active substance | £509[^c-dc36802bb3caf356f192d5e6e1e5abc8] |
 | (b) Evaluation of an application to approve an active substance | £509 |
 | (c) Evaluation of an application to renew an active substance approval | £509 |
 | (d) Validation of an application to amend the conditions of approval of an active substance | £499 |
@@ -1206,13 +1206,13 @@ Regulation 21
 | (t) Assessment of technical equivalence | £499 |
 | (u) Evaluation of an application under regulation 13 of the 2013 Biocidal Products and Chemicals Regulations | £448 |
 
-## SCHEDULE 16 — Fees payable for activities under the CLP Regulation[^key-3fde76fb5c848b63dc4a0789bc0d8379]
+## SCHEDULE 16 — Fees payable for activities under the CLP Regulation[^c-3fde76fb5c848b63dc4a0789bc0d8379]
 
 Regulation 22
 
 | 1 (Activity) | 2 (Person by whom fee is payable) | 3 (Fee per person per day worked) |
 | --- | --- | --- |
-| Consideration of a proposal submitted under subparagraph (b) of paragraph 6 of Article 37[^key-18acc8466701bb44d7f870024baf6c60] | Person submitting the application | £499[^key-15786f2048ab68adbd3292c33b60981c] |
+| Consideration of a proposal submitted under subparagraph (b) of paragraph 6 of Article 37[^c-18acc8466701bb44d7f870024baf6c60] | Person submitting the application | £499[^c-15786f2048ab68adbd3292c33b60981c] |
 
 EXPLANATORY NOTE
 
@@ -1265,11 +1265,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: Section 11 was substituted by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960) and amended by paragraph 2 of Schedule 12 to the Energy Act 2013, by section 1 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20) and by paragraph 2 of Schedule 1 to the Building Safety Act [2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30).
 
-[^key-77f9b55b1d9b224c24993127436bcda4]: Commencement: Reg. 1 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-77f9b55b1d9b224c24993127436bcda4]: Commencement: Reg. 1 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2013/240](https://www.legislation.gov.uk/uksi/2013/240).
 
-[^key-a8cac33615489b74f050fa0ffac591a6]: Commencement: Reg. 2 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-a8cac33615489b74f050fa0ffac591a6]: Commencement: Reg. 2 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2012/632](https://www.legislation.gov.uk/uksi/2012/632). This instrument was amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469). Other amending instruments have been made, but none is relevant to these Regulations.
 
@@ -1283,63 +1283,63 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00011]: Footnote: The Office for Nuclear Regulation was established by section 77 of the Energy Act 2013.
 
-[^key-455dff11b485b0f323249e73ec852f2c]: Commencement: Reg. 3 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-455dff11b485b0f323249e73ec852f2c]: Commencement: Reg. 3 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 1974/2034](https://www.legislation.gov.uk/uksi/1974/2034). This instrument was amended by [S.I. 1976/1247](https://www.legislation.gov.uk/uksi/1976/1247), [1981/1414](https://www.legislation.gov.uk/uksi/1981/1414) and [1990/1075](https://www.legislation.gov.uk/uksi/1990/1075).
 
-[^key-22e777944172639a8ec6c6c2585632c7]: Commencement: Reg. 4 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-22e777944172639a8ec6c6c2585632c7]: Commencement: Reg. 4 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2017/325](https://www.legislation.gov.uk/uksi/2017/325).
 
-[^key-e823ae317252ba8f3abad715861a43e2]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/4/2) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2023/247/regulation/12)
+[^c-e823ae317252ba8f3abad715861a43e2]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/4/2) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2023/247/regulation/12)
 
-[^key-25c24182033c9dd5457005d42945f3bb]: Commencement: Reg. 5 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-25c24182033c9dd5457005d42945f3bb]: Commencement: Reg. 5 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-59a949a0a03fa4fbb7c50a3c3063e899]: Commencement: Reg. 6 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-59a949a0a03fa4fbb7c50a3c3063e899]: Commencement: Reg. 6 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-989524d5af8c398249273bfcf7f8129e]: Commencement: Reg. 7 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-989524d5af8c398249273bfcf7f8129e]: Commencement: Reg. 7 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 2002/2676](https://www.legislation.gov.uk/uksi/2002/2676). This instrument has been amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960), [2014/469](https://www.legislation.gov.uk/uksi/2014/469) and [2018/390](https://www.legislation.gov.uk/uksi/2018/390). Other amending instruments have been made, but none is relevant to these Regulations.
 
-[^key-92007d3ff616d45a79b8a93df38ed485]: Commencement: Reg. 8 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-92007d3ff616d45a79b8a93df38ed485]: Commencement: Reg. 8 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-ea932ed37b06b245e4bfb7e7ff3bd4fe]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/2) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/2/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+[^c-ea932ed37b06b245e4bfb7e7ff3bd4fe]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/2) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/2/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
 
-[^key-b368d74ed84a936cd8411dc4442c80b0]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/2) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/2/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+[^c-b368d74ed84a936cd8411dc4442c80b0]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/2) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/2/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
 
-[^key-66b063e979c8d35ed1d137eb6a23deab]: Textual amendment: [Reg. 8(3A)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/3A) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/3) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+[^c-66b063e979c8d35ed1d137eb6a23deab]: Textual amendment: [Reg. 8(3A)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/3A) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/3) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
 
-[^key-5a2673d647de7ca96b915dd63100a2f6]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/6) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/4) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+[^c-5a2673d647de7ca96b915dd63100a2f6]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/6) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/4) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
 
-[^key-d408d79b424bb0e3c76265d3f9972bee]: Textual amendment: Sum in [Reg. 8(10)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/10) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/322/regulation/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-d408d79b424bb0e3c76265d3f9972bee]: Textual amendment: Sum in [Reg. 8(10)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/10) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/322/regulation/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
 [^f00015]: Footnote: [S.I. 1999/3232](https://www.legislation.gov.uk/uksi/1999/3232). Amending instruments are [S.I. 2001/2626](https://www.legislation.gov.uk/uksi/2001/2626), [2001/2975](https://www.legislation.gov.uk/uksi/2001/2975), [2008/960](https://www.legislation.gov.uk/uksi/2008/960), [2010/675](https://www.legislation.gov.uk/uksi/2010/675), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2014/469](https://www.legislation.gov.uk/uksi/2014/469), [2014/3248](https://www.legislation.gov.uk/uksi/2014/3248) and [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154). Subject to savings, these Regulations were revoked by [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075).
 
 [^f00016]: Footnote: [S.I. 2019/703](https://www.legislation.gov.uk/uksi/2019/703). There are amending instruments, but none is relevant to these Regulations.
 
-[^key-6210bb217ce2619183bf8c0bcba79eaa]: Textual amendment: Words in [reg. 8(11)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/11) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/5) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+[^c-6210bb217ce2619183bf8c0bcba79eaa]: Textual amendment: Words in [reg. 8(11)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/11) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/5) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
 
-[^key-e60073e4dc35abe4cbda13d0270a4471]: Commencement: Reg. 9 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-e60073e4dc35abe4cbda13d0270a4471]: Commencement: Reg. 9 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-772cc90d255958879b5ff822f9de7ea0]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/1378/regulation/9) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2024/322/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-772cc90d255958879b5ff822f9de7ea0]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/1378/regulation/9) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2024/322/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-25b60813e37caeb0ae0c12486ec4c5ce]: Commencement: Reg. 10 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-25b60813e37caeb0ae0c12486ec4c5ce]: Commencement: Reg. 10 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 2014/1637](https://www.legislation.gov.uk/uksi/2014/1637). This instrument was amended by [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483).
 
-[^key-85b2c0726f7c0f1033e55ef3470a7e5f]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2022/1378/regulation/10) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/322/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-85b2c0726f7c0f1033e55ef3470a7e5f]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2022/1378/regulation/10) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/322/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-fc864ad4d9a475d5d539296c1e43837e]: Commencement: Reg. 11 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-fc864ad4d9a475d5d539296c1e43837e]: Commencement: Reg. 11 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-32a92ebba9e8abd691b6b18696eb6b8f]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/1378/regulation/11) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2024/322/regulation/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-32a92ebba9e8abd691b6b18696eb6b8f]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/1378/regulation/11) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2024/322/regulation/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-41162f30b0408f2bb08921ebfa658f2e]: Commencement: Reg. 12 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-41162f30b0408f2bb08921ebfa658f2e]: Commencement: Reg. 12 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-9b780667cabe92445c4c7dfae94045c0]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/12/1A)[(1B)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/12/1B) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2023/247/regulation/7)
+[^c-9b780667cabe92445c4c7dfae94045c0]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/12/1A)[(1B)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/12/1B) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2023/247/regulation/7)
 
-[^key-74eb676db72860a9e2d301aef2f132a4]: Commencement: Reg. 13 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-74eb676db72860a9e2d301aef2f132a4]: Commencement: Reg. 13 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-c0b35491bdba2e4b61ae873fcd81b2a4]: Commencement: Reg. 14 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-c0b35491bdba2e4b61ae873fcd81b2a4]: Commencement: Reg. 14 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 2005/3117](https://www.legislation.gov.uk/uksi/2005/3117). This instrument was amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), [2015/398](https://www.legislation.gov.uk/uksi/2015/398) and [2016/912](https://www.legislation.gov.uk/uksi/2016/912). Other amendments have been made, but none is relevant to these Regulations.
 
@@ -1353,21 +1353,21 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00030]: Footnote: “Operator” is defined in regulation 2(1) of the 2015 Regulations.
 
-[^key-c98003a553d4d6854fe111524844dc57]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2022/1378/regulation/14A) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2024/322/regulation/9) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-c98003a553d4d6854fe111524844dc57]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2022/1378/regulation/14A) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2024/322/regulation/9) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-012bcfa1a32ec26e7cf47f21eb68cc2b]: Commencement: Reg. 15 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-012bcfa1a32ec26e7cf47f21eb68cc2b]: Commencement: Reg. 15 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-1e6e782101e13c5c79c9578284851ca6]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/15/2) substituted (6.4.2023) by [The Gas Safety (Management) (Amendment) Regulations 2023 (S.I. 2023/284)](https://www.legislation.gov.uk/uksi/2023/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2023/284/regulation/15/2/a)
+[^c-1e6e782101e13c5c79c9578284851ca6]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/15/2) substituted (6.4.2023) by [The Gas Safety (Management) (Amendment) Regulations 2023 (S.I. 2023/284)](https://www.legislation.gov.uk/uksi/2023/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2023/284/regulation/15/2/a)
 
 [^f00031]: Footnote: [S.I. 1996/825](https://www.legislation.gov.uk/uksi/1996/825). There are amendments to this instrument, but none are relevant to these Regulations.
 
 [^f00032]: Footnote: [S.I. 1996/551](https://www.legislation.gov.uk/uksi/1996/551). There are amendments to this instrument, but none are relevant to these Regulations.
 
-[^key-b9bdcd9a9644eeaabb698ea8d625c870]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/15/4) substituted (6.4.2023) by [The Gas Safety (Management) (Amendment) Regulations 2023 (S.I. 2023/284)](https://www.legislation.gov.uk/uksi/2023/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/uksi/2023/284/regulation/15/2/b)
+[^c-b9bdcd9a9644eeaabb698ea8d625c870]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/15/4) substituted (6.4.2023) by [The Gas Safety (Management) (Amendment) Regulations 2023 (S.I. 2023/284)](https://www.legislation.gov.uk/uksi/2023/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/uksi/2023/284/regulation/15/2/b)
 
-[^key-d726428ce0f0db4928de77d1106a2277]: Textual amendment: [Regs. 15A-15C](https://www.legislation.gov.uk/uksi/2022/1378/regulation/15A) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2024/322/regulation/12) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-d726428ce0f0db4928de77d1106a2277]: Textual amendment: [Regs. 15A-15C](https://www.legislation.gov.uk/uksi/2022/1378/regulation/15A) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2024/322/regulation/12) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-1784eb32a60402825545440b81a8f748]: Commencement: Reg. 16 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-1784eb32a60402825545440b81a8f748]: Commencement: Reg. 16 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00034]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57). Section 1 was substituted by paragraph 17 of Schedule 12 to the Energy Act 2013 (“**the 2013 Act**”). Section 3 was substituted by paragraph 18 of Schedule 12 to the 2013 Act, and amended by [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154) and [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219). There are other amendments to the 1965 Act, but none is relevant to these Regulations.
 
@@ -1377,55 +1377,55 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00037]: Footnote: “Nuclear safeguards regulations” is defined in section 112 of the Energy Act 2013. That definition was inserted by section 1(3)(a) of the 2018 Act.
 
-[^key-17d8a4732762564ba6293b6677c6b26c]: Commencement: Reg. 17 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-17d8a4732762564ba6293b6677c6b26c]: Commencement: Reg. 17 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-5fbbf792ec394d121b612fb2ae903497]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17) heading inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+[^c-5fbbf792ec394d121b612fb2ae903497]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17) heading inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
 
-[^key-d58d4535f15b75d5987fede4919ecec5]: Textual amendment: Word in [reg. 17](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17) heading inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-d58d4535f15b75d5987fede4919ecec5]: Textual amendment: Word in [reg. 17](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17) heading inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-733334f3dc94b443fce3c0adfaabd041]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/b/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+[^c-733334f3dc94b443fce3c0adfaabd041]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/b/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
 
-[^key-058f6de10d42e9d64e25e553bfa45d82]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(b)(i)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-058f6de10d42e9d64e25e553bfa45d82]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(b)(i)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-26c898763d9c1944db9b5dca39430a5a]: Textual amendment: [Reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/a)[(ia)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/ia) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/b/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+[^c-26c898763d9c1944db9b5dca39430a5a]: Textual amendment: [Reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/a)[(ia)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/ia) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/b/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
 
-[^key-e2887db8b8aa75f0c7c30059e4428455]: Textual amendment: Words in [reg. 17(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/a/ii) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(b)(ii)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-e2887db8b8aa75f0c7c30059e4428455]: Textual amendment: Words in [reg. 17(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/a/ii) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(b)(ii)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-aadfaa73c5752a174071d2e2b67ea2ed]: Textual amendment: [Reg. 17(1)(b)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/b) and word omitted (1.4.2024) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(b)(iii)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/b/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-aadfaa73c5752a174071d2e2b67ea2ed]: Textual amendment: [Reg. 17(1)(b)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/b) and word omitted (1.4.2024) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(b)(iii)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/b/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-57f412a31c4fee91d6bb967244e9d3e3]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+[^c-57f412a31c4fee91d6bb967244e9d3e3]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
 
-[^key-e303eebff6f608322476de03b4369905]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(c)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-e303eebff6f608322476de03b4369905]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(c)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
 [^f00038]: Footnote: [S.I. 2013/1237](https://www.legislation.gov.uk/uksi/2013/1237). This instrument was amended by [S.I. 2014/468](https://www.legislation.gov.uk/uksi/2014/468). Other amending instruments have been made, but none are relevant to these Regulations.
 
-[^key-ebc742a062b7571d5b1a2c1aa80a747f]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2A)[(2B)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2B) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(d)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-ebc742a062b7571d5b1a2c1aa80a747f]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2A)[(2B)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2B) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(d)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
 [^f00039]: Footnote: [S.I. 1987/2197](https://www.legislation.gov.uk/uksi/1987/2197).
 
-[^key-b48e4767f709ae043fe2b48b39801868]: Textual amendment: Words in [reg. 17(7)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/7) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(e)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-b48e4767f709ae043fe2b48b39801868]: Textual amendment: Words in [reg. 17(7)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/7) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(e)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-8f6ee2674a9466e9dd29ecdfd245de9a]: Textual amendment: [Reg. 17(9)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/9) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(f)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/f) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-8f6ee2674a9466e9dd29ecdfd245de9a]: Textual amendment: [Reg. 17(9)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/9) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(f)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/f) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-473afb26dd42b476552a338c22b4466c]: Commencement: Reg. 18 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-473afb26dd42b476552a338c22b4466c]: Commencement: Reg. 18 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00040]: Footnote: [S.I. 1989/1671](https://www.legislation.gov.uk/uksi/1989/1671). Regulation 5 was amended by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and [2015/398](https://www.legislation.gov.uk/uksi/2015/398).
 
-[^key-97f89b1d5b8c0150164843299721c9a0]: Textual amendment: Word in [reg. 18(6)(b)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/18/6/b) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/13/a)
+[^c-97f89b1d5b8c0150164843299721c9a0]: Textual amendment: Word in [reg. 18(6)(b)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/18/6/b) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/13/a)
 
-[^key-74cd3c8e9bcf30ec10f1c99ac9802095]: Textual amendment: Sum in [Reg. 18](https://www.legislation.gov.uk/uksi/2022/1378/regulation/18) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/322/regulation/14) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-74cd3c8e9bcf30ec10f1c99ac9802095]: Textual amendment: Sum in [Reg. 18](https://www.legislation.gov.uk/uksi/2022/1378/regulation/18) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/322/regulation/14) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-7b6b3abb420863bd03ffd2a8ef450765]: Textual amendment: Word in [reg. 18(7)(b)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/18/7/b) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2023/247/regulation/13/b)
+[^c-7b6b3abb420863bd03ffd2a8ef450765]: Textual amendment: Word in [reg. 18(7)(b)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/18/7/b) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2023/247/regulation/13/b)
 
-[^key-c7c787e600843edf0a9e6235436cf580]: Commencement: Reg. 19 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-c7c787e600843edf0a9e6235436cf580]: Commencement: Reg. 19 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-1f19a39ca9911ab63ffba7ae752f7c0b]: Textual amendment: Sum in [Reg. 19](https://www.legislation.gov.uk/uksi/2022/1378/regulation/19) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/322/regulation/15) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-1f19a39ca9911ab63ffba7ae752f7c0b]: Textual amendment: Sum in [Reg. 19](https://www.legislation.gov.uk/uksi/2022/1378/regulation/19) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/322/regulation/15) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-d7f615c75099be612f5b76fe32014882]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2022/1378/regulation/20) omitted (1.4.2024) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2024/322/regulation/10) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-d7f615c75099be612f5b76fe32014882]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2022/1378/regulation/20) omitted (1.4.2024) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2024/322/regulation/10) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-693370be6bf7259edb835bbee41d2a81]: Commencement: Reg. 20 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-693370be6bf7259edb835bbee41d2a81]: Commencement: Reg. 20 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-10e2b48e39206caba655aa2f3ef12bd7]: Commencement: Reg. 21 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-10e2b48e39206caba655aa2f3ef12bd7]: Commencement: Reg. 21 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00044]: Footnote: EUR 2012/528.
 
@@ -1433,15 +1433,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00046]: Footnote: EUR 2014/1062.
 
-[^key-10af63e35ad53bb8ec977eb20421b52c]: Commencement: Reg. 22 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-10af63e35ad53bb8ec977eb20421b52c]: Commencement: Reg. 22 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00047]: Footnote: EUR 2008/1272.
 
-[^key-59064a1873a56fb68870f17ffa421c71]: Commencement: Reg. 23 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-59064a1873a56fb68870f17ffa421c71]: Commencement: Reg. 23 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00048]: Footnote: A copy of HSE 47 – Guidance on the application of Fee for Intervention can be obtained from https://www.hse.gov.uk/pubns/hse47.htm, or in hard copy from the Health and Safety Executive, Redgrave Court, Merton Road, Bootle, Merseyside, L20 7HS.
 
-[^key-e660da685178a35a6631469f0313a70f]: Commencement: Reg. 24 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-e660da685178a35a6631469f0313a70f]: Commencement: Reg. 24 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00049]: Footnote: [S.I. 2013/1237](https://www.legislation.gov.uk/uksi/2013/1237). There are amendments to this instrument, but none are relevant to these Regulations.
 
@@ -1451,108 +1451,108 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00052]: Footnote: [S.I. 2009/716](https://www.legislation.gov.uk/uksi/2009/716). There are amendments to this instrument, but none is relevant to these Regulations.
 
-[^key-ee508f9c50e061290123293e1a055669]: Commencement: Reg. 25 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-ee508f9c50e061290123293e1a055669]: Commencement: Reg. 25 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-a44721d909a729c5a8c6a546209509e7]: Commencement: Reg. 26 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-a44721d909a729c5a8c6a546209509e7]: Commencement: Reg. 26 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00053]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30 was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and paragraph 36 of Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-b594518a8da4881d67c55c92744898c7]: Commencement: Reg. 27 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-b594518a8da4881d67c55c92744898c7]: Commencement: Reg. 27 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00054]: Footnote: [S.I. 2021/33](https://www.legislation.gov.uk/uksi/2021/33), as amended by [S.I. 2022/1037](https://www.legislation.gov.uk/uksi/2022/1037).
 
-[^key-04a4fddae7aa49789179764b8dc17ecd]: Commencement: Reg. 28 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-04a4fddae7aa49789179764b8dc17ecd]: Commencement: Reg. 28 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
 [^f00055]: Footnote: [S.I. 2022/1037](https://www.legislation.gov.uk/uksi/2022/1037).
 
-[^key-9cdeb9d4ee2837010c61312d4f960dc3]: Commencement: Sch. 1 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-9cdeb9d4ee2837010c61312d4f960dc3]: Commencement: Sch. 1 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-396c078a810fb80cfc4fe6ae408f4d31]: Textual amendment: Sums in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1378/schedule/1) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-396c078a810fb80cfc4fe6ae408f4d31]: Textual amendment: Sums in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1378/schedule/1) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-b9ad0ee2313e9614e413745ae7a87b87]: Commencement: Sch. 2 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-b9ad0ee2313e9614e413745ae7a87b87]: Commencement: Sch. 2 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-dc95ad2e5299087e25ecf4b3aa1f354d]: Textual amendment: Sum in Sch. 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-dc95ad2e5299087e25ecf4b3aa1f354d]: Textual amendment: Sum in Sch. 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-926f029a344bb88233816e4dc482601d]: Commencement: Sch. 3 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-926f029a344bb88233816e4dc482601d]: Commencement: Sch. 3 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-6c70b90a38bc35b317db8a43c3a9e1cb]: Textual amendment: Sum in Sch. 3 Table 1 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-6c70b90a38bc35b317db8a43c3a9e1cb]: Textual amendment: Sum in Sch. 3 Table 1 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-16ed52e416935c934bafe3e4f6183324]: Textual amendment: Sums in [Sch. 3](https://www.legislation.gov.uk/uksi/2022/1378/schedule/3) Table 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-16ed52e416935c934bafe3e4f6183324]: Textual amendment: Sums in [Sch. 3](https://www.legislation.gov.uk/uksi/2022/1378/schedule/3) Table 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-7e6fb15376171034186bfd5f7b8da01f]: Commencement: Sch. 4 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-7e6fb15376171034186bfd5f7b8da01f]: Commencement: Sch. 4 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-055d307a89975e583f68e00a2a5fab9c]: Textual amendment: Sum in Sch. 4 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-055d307a89975e583f68e00a2a5fab9c]: Textual amendment: Sum in Sch. 4 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-aeaa4c036c0f60c29a3e6ac18472a45c]: Textual amendment: Sum in [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1378/schedule/4) table substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/247/schedule) table
+[^c-aeaa4c036c0f60c29a3e6ac18472a45c]: Textual amendment: Sum in [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1378/schedule/4) table substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/247/schedule) table
 
-[^key-621cd91f1a1f1006a6951f5f975b4999]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1378/schedule/4) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2023/247/regulation/14)
+[^c-621cd91f1a1f1006a6951f5f975b4999]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1378/schedule/4) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2023/247/regulation/14)
 
-[^key-e962272f4a6be19d9fb1381c28cce2b0]: Commencement: Sch. 5 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-e962272f4a6be19d9fb1381c28cce2b0]: Commencement: Sch. 5 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-052d0b2190ff564fb1ea2e486353933a]: Textual amendment: Sum in Sch. 5 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-052d0b2190ff564fb1ea2e486353933a]: Textual amendment: Sum in Sch. 5 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-934b5e604f56d8fbf6237616521dc4b9]: Commencement: Sch. 6 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-934b5e604f56d8fbf6237616521dc4b9]: Commencement: Sch. 6 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-8fe02138ccb40c1bdca5f28f945c329a]: Textual amendment: Sum in Sch. 6 Table 1 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-8fe02138ccb40c1bdca5f28f945c329a]: Textual amendment: Sum in Sch. 6 Table 1 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-5b922f078e2c547a3d6a5a1bb3a445eb]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/uksi/2022/1378/schedule/6) Table 1 inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/247/regulation/5)
+[^c-5b922f078e2c547a3d6a5a1bb3a445eb]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/uksi/2022/1378/schedule/6) Table 1 inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/247/regulation/5)
 
-[^key-da432579648aa6d03aa9cc47013d8000]: Textual amendment: Sum in Sch. 6 Table 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-da432579648aa6d03aa9cc47013d8000]: Textual amendment: Sum in Sch. 6 Table 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-3fefb64bb948cf3d90fa8a4c2239d4ba]: Textual amendment: Sum in Sch. 6 Table 3 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-3fefb64bb948cf3d90fa8a4c2239d4ba]: Textual amendment: Sum in Sch. 6 Table 3 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-386a3ad67f45e909b40bc3ef150f883a]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2022/1378/schedule/7) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/322/regulation/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-386a3ad67f45e909b40bc3ef150f883a]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2022/1378/schedule/7) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/322/regulation/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-a6c70827cce967bb6eeced5a84be4f47]: Commencement: Sch. 7 Pt. 1 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-a6c70827cce967bb6eeced5a84be4f47]: Commencement: Sch. 7 Pt. 1 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-19afa9f61e3b7c6a16a003a7f43f3cae]: Commencement: Sch. 7 Pt. 2 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-19afa9f61e3b7c6a16a003a7f43f3cae]: Commencement: Sch. 7 Pt. 2 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-ce6fcb293e98268f84ff986b62219c0e]: Commencement: Sch. 7 Pt. 3 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-ce6fcb293e98268f84ff986b62219c0e]: Commencement: Sch. 7 Pt. 3 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-5c4f6400b235960563a9b67662c1f8ec]: Commencement: Sch. 7 Pt. 4 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-5c4f6400b235960563a9b67662c1f8ec]: Commencement: Sch. 7 Pt. 4 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-a3a394ded3b3b10b9020e14ff27f69d2]: Commencement: Sch. 7 Pt. 5 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-a3a394ded3b3b10b9020e14ff27f69d2]: Commencement: Sch. 7 Pt. 5 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-d29be6ffe59d44f495a046662d692754]: Commencement: Sch. 8 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-d29be6ffe59d44f495a046662d692754]: Commencement: Sch. 8 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-27e81b6c256e784122f9d1386e2886b1]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2022/1378/schedule/8) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/322/regulation/8) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-27e81b6c256e784122f9d1386e2886b1]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2022/1378/schedule/8) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/322/regulation/8) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-5aac1f9f9a2fe1548c2ec3cebc57d450]: Commencement: Sch. 9 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-5aac1f9f9a2fe1548c2ec3cebc57d450]: Commencement: Sch. 9 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-b8e7fb7837e17d51567c46f3c0cca4fc]: Textual amendment: Sum in Sch. 9 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-b8e7fb7837e17d51567c46f3c0cca4fc]: Textual amendment: Sum in Sch. 9 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-b395233ec51dc858a6e58ec73f28f641]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2022/1378/schedule/9) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/15/a)
+[^c-b395233ec51dc858a6e58ec73f28f641]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2022/1378/schedule/9) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/15/a)
 
-[^key-0c42ceb3d640f8439189446a1618fbe3]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2022/1378/schedule/9) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2023/247/regulation/15/b)
+[^c-0c42ceb3d640f8439189446a1618fbe3]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2022/1378/schedule/9) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2023/247/regulation/15/b)
 
-[^key-c9cb3e918eb8795bbb9eab019d7fc671]: Commencement: Sch. 10 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-c9cb3e918eb8795bbb9eab019d7fc671]: Commencement: Sch. 10 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-254ff9ec43c5130ba222939dac18f9b6]: Commencement: Sch. 11 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-254ff9ec43c5130ba222939dac18f9b6]: Commencement: Sch. 11 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-364c3466ccccd9a5987913b3fcb9f1e9]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/uksi/2022/1378/schedule/11) substituted (6.4.2023) by [The Gas Safety (Management) (Amendment) Regulations 2023 (S.I. 2023/284)](https://www.legislation.gov.uk/uksi/2023/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3), [15(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/15/3)
+[^c-364c3466ccccd9a5987913b3fcb9f1e9]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/uksi/2022/1378/schedule/11) substituted (6.4.2023) by [The Gas Safety (Management) (Amendment) Regulations 2023 (S.I. 2023/284)](https://www.legislation.gov.uk/uksi/2023/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3), [15(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/15/3)
 
-[^key-524a39a4d08640ccdbdae899e154a077]: Commencement: Sch. 12 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-524a39a4d08640ccdbdae899e154a077]: Commencement: Sch. 12 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-20d6f2ddccffc9a3a83ccba3015148f8]: Commencement: Sch. 13 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-20d6f2ddccffc9a3a83ccba3015148f8]: Commencement: Sch. 13 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-bc045c68bddb99ef0d889946976db6da]: Textual amendment: Sum in Sch. 13 Table 1 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-bc045c68bddb99ef0d889946976db6da]: Textual amendment: Sum in Sch. 13 Table 1 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-8590c802f2fe64f34a258ba218010393]: Textual amendment: Sum in Sch. 13 Table 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-8590c802f2fe64f34a258ba218010393]: Textual amendment: Sum in Sch. 13 Table 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-66a334eebdb4485d95aae033e51378a9]: Textual amendment: Sum in Sch. 13 Table 3 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-66a334eebdb4485d95aae033e51378a9]: Textual amendment: Sum in Sch. 13 Table 3 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-5bcd0a1a8b4deb750da41b51ebd4f9e0]: Textual amendment: Sum in Sch. 13 Table 4 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-5bcd0a1a8b4deb750da41b51ebd4f9e0]: Textual amendment: Sum in Sch. 13 Table 4 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-a242be020c5501167d6a8ece7b7b40ec]: Commencement: Sch. 14 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-a242be020c5501167d6a8ece7b7b40ec]: Commencement: Sch. 14 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-8787d2ba1b8de6013a0d341e574039a1]: Textual amendment: Words in [Sch. 14](https://www.legislation.gov.uk/uksi/2022/1378/schedule/14) shoulder note substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2024/322/regulation/11) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-8787d2ba1b8de6013a0d341e574039a1]: Textual amendment: Words in [Sch. 14](https://www.legislation.gov.uk/uksi/2022/1378/schedule/14) shoulder note substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2024/322/regulation/11) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-b2409a57adb36fbe9b240d6fe8f00e73]: Commencement: Sch. 15 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-b2409a57adb36fbe9b240d6fe8f00e73]: Commencement: Sch. 15 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-dc36802bb3caf356f192d5e6e1e5abc8]: Textual amendment: Sum in Sch. 15 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-dc36802bb3caf356f192d5e6e1e5abc8]: Textual amendment: Sum in Sch. 15 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
 
-[^key-3fde76fb5c848b63dc4a0789bc0d8379]: Commencement: Sch. 16 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+[^c-3fde76fb5c848b63dc4a0789bc0d8379]: Commencement: Sch. 16 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
 
-[^key-18acc8466701bb44d7f870024baf6c60]: Textual amendment: Words in Sch. 16 substituted (21.5.2026) by [The Chemicals (Health and Safety) (Amendment, Consequential and Transitional Provision) Regulations 2026 (S.I. 2026/484)](https://www.legislation.gov.uk/uksi/2026/484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/484/regulation/1/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2026/484/schedule/paragraph/3/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/484/regulation/3))
+[^c-18acc8466701bb44d7f870024baf6c60]: Textual amendment: Words in Sch. 16 substituted (21.5.2026) by [The Chemicals (Health and Safety) (Amendment, Consequential and Transitional Provision) Regulations 2026 (S.I. 2026/484)](https://www.legislation.gov.uk/uksi/2026/484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/484/regulation/1/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2026/484/schedule/paragraph/3/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/484/regulation/3))
 
-[^key-15786f2048ab68adbd3292c33b60981c]: Textual amendment: Sum in Sch. 16 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+[^c-15786f2048ab68adbd3292c33b60981c]: Textual amendment: Sum in Sch. 16 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))

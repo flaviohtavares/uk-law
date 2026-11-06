@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Interpretation[^key-83b008dbfe5f76e0c6482a6c41cd1067]
+## 44. Interpretation[^c-83b008dbfe5f76e0c6482a6c41cd1067]
 
 *Extent: E+W+S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83b008dbfe5f76e0c6482a6c41cd1067]: Commencement: S. 44 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-83b008dbfe5f76e0c6482a6c41cd1067]: Commencement: S. 44 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

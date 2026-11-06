@@ -32,7 +32,7 @@ summary: ''
 
 Sports Grounds And Sporting Events, England And Wales
 
-The Football Spectators (Seating) Order 2021 (revoked)[^key-9e4a4a9a8570c40dcac9e2d12d9698a5]
+The Football Spectators (Seating) Order 2021 (revoked)[^c-9e4a4a9a8570c40dcac9e2d12d9698a5]
 
 Made
 
@@ -46,39 +46,39 @@ Coming into force
 
 7th December 2021
 
-[^key-9e4a4a9a8570c40dcac9e2d12d9698a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e4a4a9a8570c40dcac9e2d12d9698a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-9e4a4a9a8570c40dcac9e2d12d9698a5]
+## 1. Citation, commencement, extent and interpretation[^c-9e4a4a9a8570c40dcac9e2d12d9698a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Direction[^key-9e4a4a9a8570c40dcac9e2d12d9698a5]
+## 2. Direction[^c-9e4a4a9a8570c40dcac9e2d12d9698a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendments and revocation[^key-9e4a4a9a8570c40dcac9e2d12d9698a5]
+## 3. Consequential amendments and revocation[^c-9e4a4a9a8570c40dcac9e2d12d9698a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Review[^key-9e4a4a9a8570c40dcac9e2d12d9698a5]
+## 4. Review[^c-9e4a4a9a8570c40dcac9e2d12d9698a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9e4a4a9a8570c40dcac9e2d12d9698a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e4a4a9a8570c40dcac9e2d12d9698a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Requirements to be imposed[^key-9e4a4a9a8570c40dcac9e2d12d9698a5]
+## SCHEDULE 1 — Requirements to be imposed[^c-9e4a4a9a8570c40dcac9e2d12d9698a5]
 
 Article 2
 
-**1.**[^key-9e4a4a9a8570c40dcac9e2d12d9698a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9e4a4a9a8570c40dcac9e2d12d9698a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9e4a4a9a8570c40dcac9e2d12d9698a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9e4a4a9a8570c40dcac9e2d12d9698a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Premises in respect of which a condition imposing requirements as respects the seating of spectators at football matches must be imposed[^key-9e4a4a9a8570c40dcac9e2d12d9698a5]
+## SCHEDULE 2 — Premises in respect of which a condition imposing requirements as respects the seating of spectators at football matches must be imposed[^c-9e4a4a9a8570c40dcac9e2d12d9698a5]
 
 Article 2
 
@@ -86,7 +86,7 @@ Article 2
 
 **No longer in force.**
 
-[^key-9e4a4a9a8570c40dcac9e2d12d9698a5]EXPLANATORY NOTE
+[^c-9e4a4a9a8570c40dcac9e2d12d9698a5]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -98,4 +98,4 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 ## Annotations
 
-[^key-9e4a4a9a8570c40dcac9e2d12d9698a5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/1239) revoked (25.7.2022) by [The Football Spectators (Seating) Order 2022 (S.I. 2022/728)](https://www.legislation.gov.uk/uksi/2022/728), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/728/article/1/1), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2022/728/schedule/3/paragraph/23)
+[^c-9e4a4a9a8570c40dcac9e2d12d9698a5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/1239) revoked (25.7.2022) by [The Football Spectators (Seating) Order 2022 (S.I. 2022/728)](https://www.legislation.gov.uk/uksi/2022/728), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/728/article/1/1), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2022/728/schedule/3/paragraph/23)

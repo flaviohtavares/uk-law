@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 143. Conditions for hardship payments[^key-9b73f48bedeb7a5f1858a630320e9c4e]
+## 143. Conditions for hardship payments[^c-9b73f48bedeb7a5f1858a630320e9c4e]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b73f48bedeb7a5f1858a630320e9c4e]: Commencement: Reg. 143 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-9b73f48bedeb7a5f1858a630320e9c4e]: Commencement: Reg. 143 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

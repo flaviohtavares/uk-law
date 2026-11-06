@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Meaning of company and application of provisions to unregistered, foreign and other companies.[^key-1cb71e963736a73d13233f395ee94e1c]
+## 224. Meaning of company and application of provisions to unregistered, foreign and other companies.[^c-1cb71e963736a73d13233f395ee94e1c]
 
 *Extent: E+W+S*
 
-(1)[^key-5efd67b144e823521310c0000902ab47] In the PPP administration order provisions of this Act—
+(1)[^c-5efd67b144e823521310c0000902ab47] In the PPP administration order provisions of this Act—
 
 - “company” means—
   - (a) a company registered under the Companies Act 2006, or
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1cb71e963736a73d13233f395ee94e1c]: Commencement: S. 224 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+[^c-1cb71e963736a73d13233f395ee94e1c]: Commencement: S. 224 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
 
-[^key-5efd67b144e823521310c0000902ab47]: Textual amendment: S. 224(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 178(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/178/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-5efd67b144e823521310c0000902ab47]: Textual amendment: S. 224(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 178(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/178/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c12803981]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).

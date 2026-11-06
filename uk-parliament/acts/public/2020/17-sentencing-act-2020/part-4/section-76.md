@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Effect of Chapter on other powers of court to consider seriousness[^key-7e57c013a5d02b91fd430438a12627c2]
+## 76. Effect of Chapter on other powers of court to consider seriousness[^c-7e57c013a5d02b91fd430438a12627c2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Chapter that requires or permits a court to take any matter into
 
 ## Annotations
 
-[^key-7e57c013a5d02b91fd430438a12627c2]: Commencement: S. 76 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7e57c013a5d02b91fd430438a12627c2]: Commencement: S. 76 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

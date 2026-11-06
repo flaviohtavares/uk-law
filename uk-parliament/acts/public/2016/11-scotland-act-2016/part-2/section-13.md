@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Power of Scottish Parliament to set rates of income tax[^key-30fd76441060d315580c03cb00abb71d]
+## 13. Power of Scottish Parliament to set rates of income tax[^c-30fd76441060d315580c03cb00abb71d]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ summary: ''
 
 (14) This section comes into force on such day as the Treasury may by regulations appoint.
 
-(15)[^key-eaa75abc3da34c576a80ae02dd7b4e97] The amendments made by this section have effect in relation to the tax year appointed by the Treasury by regulations and subsequent tax years.
+(15)[^c-eaa75abc3da34c576a80ae02dd7b4e97] The amendments made by this section have effect in relation to the tax year appointed by the Treasury by regulations and subsequent tax years.
 
 (16) The tax year appointed under subsection (15) must begin on or after the day appointed under subsection (14).
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30fd76441060d315580c03cb00abb71d]: Commencement: S. 13 in force at 30.11.2016 (with effect in accordance with reg. 3 of the commencing S.I.) by [S.I. 2016/1161](https://www.legislation.gov.uk/uksi/2016/1161), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1161/regulation/2)
+[^c-30fd76441060d315580c03cb00abb71d]: Commencement: S. 13 in force at 30.11.2016 (with effect in accordance with reg. 3 of the commencing S.I.) by [S.I. 2016/1161](https://www.legislation.gov.uk/uksi/2016/1161), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1161/regulation/2)
 
-[^key-eaa75abc3da34c576a80ae02dd7b4e97]: Modification: S. 13(15): 2017-18 appointed as the first tax year by [S.I. 2016/1161](https://www.legislation.gov.uk/uksi/2016/1161), reg. 3
+[^c-eaa75abc3da34c576a80ae02dd7b4e97]: Modification: S. 13(15): 2017-18 appointed as the first tax year by [S.I. 2016/1161](https://www.legislation.gov.uk/uksi/2016/1161), reg. 3

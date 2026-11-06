@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Continuity option 1: discharge of liabilities and winding up[^key-dc42b1a683b14f385ca09aedd8ba451b]
+## 29. Continuity option 1: discharge of liabilities and winding up[^c-dc42b1a683b14f385ca09aedd8ba451b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 6 applies when the trustees of a collective money purchase scheme are r
 
 ## Annotations
 
-[^key-dc42b1a683b14f385ca09aedd8ba451b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2022/255/regulation/29) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-dc42b1a683b14f385ca09aedd8ba451b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2022/255/regulation/29) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

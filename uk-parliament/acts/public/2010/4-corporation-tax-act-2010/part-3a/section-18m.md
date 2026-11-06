@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18M. Interpretation of section 18L(3)[^key-42deab48616b9859b4756e8776e38515]
+## 18M. Interpretation of section 18L(3)[^c-42deab48616b9859b4756e8776e38515]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42deab48616b9859b4756e8776e38515]: Textual amendment: Pt. 3A inserted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/3)
+[^c-42deab48616b9859b4756e8776e38515]: Textual amendment: Pt. 3A inserted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/3)

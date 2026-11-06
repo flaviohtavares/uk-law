@@ -25,7 +25,7 @@ The types of amount referred to in section 481 are as follows. *Type 1*
 A payment—
 
 - (a) which is made to the trustees or to which the trustees are entitled, and
-- (b) which is made by way of[^key-6ae990b7a769f48f0b4d076b472cf4de] [^key-856f4fa1340f4dde576fa7a9a58b1dc2]... distribution by a company on the redemption, repayment or purchase of shares in the company or on the purchase of rights to acquire such shares.
+- (b) which is made by way of[^c-6ae990b7a769f48f0b4d076b472cf4de] [^c-856f4fa1340f4dde576fa7a9a58b1dc2]... distribution by a company on the redemption, repayment or purchase of shares in the company or on the purchase of rights to acquire such shares.
 
 *Type 2*
 
@@ -33,7 +33,7 @@ Accrued income profits treated as made by the trustees under section 628(5) or 6
 
 *Type 3*
 
-Income treated as arising to the trustees under regulation 17 of the Offshore Funds (Tax) Regulations 2009 ([^key-5ac29af9b6b8fcfaf73cc911842aa105][S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)).
+Income treated as arising to the trustees under regulation 17 of the Offshore Funds (Tax) Regulations 2009 ([^c-5ac29af9b6b8fcfaf73cc911842aa105][S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)).
 
 *Type 4*
 
@@ -68,20 +68,20 @@ Proceeds in relation to which the trustees are liable for income tax under secti
 
 *Type 11*
 
-Income treated as arising to the trustees under Part 9A of this Act (transactions in land)[^key-e9f0d08f271f5f9ee615a7cdd641b455].
+Income treated as arising to the trustees under Part 9A of this Act (transactions in land)[^c-e9f0d08f271f5f9ee615a7cdd641b455].
 
-*Type 12[^key-03038976fd2b8c09700d2a2f71a2ff51]*
+*Type 12[^c-03038976fd2b8c09700d2a2f71a2ff51]*
 
 Income treated as arising to the trustees under section 396A of ITTOIA 2005 (arrangements offering a choice of income or capital return).
 
 ## Annotations
 
-[^key-6ae990b7a769f48f0b4d076b472cf4de]: Textual amendment: Words in s. 482 inserted (with effect in accordance with s. 55(3) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/55/2)
+[^c-6ae990b7a769f48f0b4d076b472cf4de]: Textual amendment: Words in s. 482 inserted (with effect in accordance with s. 55(3) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/55/2)
 
-[^key-856f4fa1340f4dde576fa7a9a58b1dc2]: Textual amendment: Word in s. 482 omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 63(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/63/5)
+[^c-856f4fa1340f4dde576fa7a9a58b1dc2]: Textual amendment: Word in s. 482 omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 63(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/63/5)
 
-[^key-5ac29af9b6b8fcfaf73cc911842aa105]: Textual amendment: Words in s. 482 substituted (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [129(3)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/129/3)
+[^c-5ac29af9b6b8fcfaf73cc911842aa105]: Textual amendment: Words in s. 482 substituted (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [129(3)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/129/3)
 
-[^key-e9f0d08f271f5f9ee615a7cdd641b455]: Textual amendment: Words in s. 482 substituted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/3) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))
+[^c-e9f0d08f271f5f9ee615a7cdd641b455]: Textual amendment: Words in s. 482 substituted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/3) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))
 
-[^key-03038976fd2b8c09700d2a2f71a2ff51]: Textual amendment: Words in s. 482 inserted (with effect in accordance with s. 19(10) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 19(8)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/8)
+[^c-03038976fd2b8c09700d2a2f71a2ff51]: Textual amendment: Words in s. 482 inserted (with effect in accordance with s. 19(10) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 19(8)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/8)

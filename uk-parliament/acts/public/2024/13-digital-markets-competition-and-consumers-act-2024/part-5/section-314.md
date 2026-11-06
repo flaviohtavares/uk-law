@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 314. Statement of policy on penalties[^key-5087d1c3229ed0bc300b4826b687b3d3][^key-ffbfd948f6817bd6c000f8679f3a05ee]
+## 314. Statement of policy on penalties[^c-5087d1c3229ed0bc300b4826b687b3d3][^c-ffbfd948f6817bd6c000f8679f3a05ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5087d1c3229ed0bc300b4826b687b3d3]: Commencement: S. 314 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5087d1c3229ed0bc300b4826b687b3d3]: Commencement: S. 314 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-ffbfd948f6817bd6c000f8679f3a05ee]: Commencement: [S. 314](https://www.legislation.gov.uk/ukpga/2024/13/section/314) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/3)
+[^c-ffbfd948f6817bd6c000f8679f3a05ee]: Commencement: [S. 314](https://www.legislation.gov.uk/ukpga/2024/13/section/314) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/3)

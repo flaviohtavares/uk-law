@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 382. “Bankruptcy debt” , “liability”[^key-78514d1690105f8e7a064a5a6ac12cf0][^c15581531]
+## 382. “Bankruptcy debt” , “liability”[^c-78514d1690105f8e7a064a5a6ac12cf0][^c15581531]
 
 *Extent: E+W*
 
@@ -33,11 +33,11 @@ summary: ''
 
 (4) In this Group of Parts, except in so far as the context otherwise requires, “**liability**” means (subject to subsection (3) above) a liability to pay money or money’s worth, including any liability under an enactment, any liability for breach of trust, any liability in contract, tort or bailment and any liability arising out of an obligation to make restitution.
 
-(5)[^key-5bc92e19e6b50c187adea9a6f3c4718c] Liability under the Child Support Act 1991 to pay child support maintenance to any person is not a debt or liability for the purposes of Part 8.
+(5)[^c-5bc92e19e6b50c187adea9a6f3c4718c] Liability under the Child Support Act 1991 to pay child support maintenance to any person is not a debt or liability for the purposes of Part 8.
 
 ## Annotations
 
-[^key-78514d1690105f8e7a064a5a6ac12cf0]: Textual amendment: Words in s. 382 heading substituted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 142(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/142/2), [150(2)(i)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/i)
+[^c-78514d1690105f8e7a064a5a6ac12cf0]: Textual amendment: Words in s. 382 heading substituted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 142(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/142/2), [150(2)(i)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/i)
 
 [^c15581531]: Modification: S. 382 applied with modifications by [S.I. 1986/1999](https://www.legislation.gov.uk/uksi/1986/1999), [art. 3](https://www.legislation.gov.uk/uksi/1986/1999/article/3), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1986/1999/schedule/1/part/II)
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c15581551]: Marginal citation: [1973 c. 62](https://www.legislation.gov.uk/ukpga/1973/62).
 
-[^key-5bc92e19e6b50c187adea9a6f3c4718c]: Textual amendment: S. 382(5) inserted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 142(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/142/1), [150(2)(i)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/i)
+[^c-5bc92e19e6b50c187adea9a6f3c4718c]: Textual amendment: S. 382(5) inserted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 142(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/142/1), [150(2)(i)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/i)

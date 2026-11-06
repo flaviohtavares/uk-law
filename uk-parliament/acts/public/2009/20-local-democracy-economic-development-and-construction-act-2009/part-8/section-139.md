@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Requirement for construction contracts to be in writing[^key-43690f71ddce1d815e4405520159df90][^key-60719d7e0dd4723324313c6b12ac188d][^key-d794430d79149aa7f1b3d2f3d4bb925c]
+## 139. Requirement for construction contracts to be in writing[^c-43690f71ddce1d815e4405520159df90][^c-60719d7e0dd4723324313c6b12ac188d][^c-d794430d79149aa7f1b3d2f3d4bb925c]
 
 *Extent: E+W+S*
 
@@ -29,8 +29,8 @@ summary: ''
 
 ## Annotations
 
-[^key-43690f71ddce1d815e4405520159df90]: Commencement: S. 139 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
+[^c-43690f71ddce1d815e4405520159df90]: Commencement: S. 139 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
 
-[^key-60719d7e0dd4723324313c6b12ac188d]: Commencement: S. 139 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
+[^c-60719d7e0dd4723324313c6b12ac188d]: Commencement: S. 139 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
 
-[^key-d794430d79149aa7f1b3d2f3d4bb925c]: Commencement: S. 139 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)
+[^c-d794430d79149aa7f1b3d2f3d4bb925c]: Commencement: S. 139 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)

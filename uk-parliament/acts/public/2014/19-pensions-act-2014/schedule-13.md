@@ -24,20 +24,20 @@ Section 24
 
 ### Part 1 — Pension Schemes Act 1993: amendments
 
-**1.**[^key-ce8547b188373e26d818b76f89ae6e46][^key-0c36e06c418f7a19972a80681b3e5493] The Pension Schemes Act 1993 is amended as follows.
+**1.**[^c-ce8547b188373e26d818b76f89ae6e46][^c-0c36e06c418f7a19972a80681b3e5493] The Pension Schemes Act 1993 is amended as follows.
 
-**2.**[^key-322576522a3b42a645aa9494da5a1d8b] For “the abolition date” (in each place) substitute “ the first abolition date ”.
+**2.**[^c-322576522a3b42a645aa9494da5a1d8b] For “the abolition date” (in each place) substitute “ the first abolition date ”.
 
-**3.**[^key-b283ca9832935707dff237b3c2c5a3cb] In the heading for Part 3 of the Act—
+**3.**[^c-b283ca9832935707dff237b3c2c5a3cb] In the heading for Part 3 of the Act—
 
 - (a) for “Certification of pension schemes” substitute “ Schemes that were contracted-out etc ”;
 - (b) omit “and duties”.
 
-**4.**[^key-d57541e887ff0939ab9b3671316b9c36] For the heading to Chapter 1 of Part 3 substitute “ Schemes that were contracted-out: guaranteed minimum pensions and alteration of scheme rules etc ”.
+**4.**[^c-d57541e887ff0939ab9b3671316b9c36] For the heading to Chapter 1 of Part 3 substitute “ Schemes that were contracted-out: guaranteed minimum pensions and alteration of scheme rules etc ”.
 
-**5.**[^key-28b0b984f142298e0a6019d8a5f8a631] Section 7 (issue of contracting-out certificates) is repealed (and accordingly, any certificates in force under that section immediately before this paragraph comes into force cease to have effect).
+**5.**[^c-28b0b984f142298e0a6019d8a5f8a631] Section 7 (issue of contracting-out certificates) is repealed (and accordingly, any certificates in force under that section immediately before this paragraph comes into force cease to have effect).
 
-**6.**[^key-753f953d2c6826c5a97defc0eee46e6b] After section 7 insert—
+**6.**[^c-753f953d2c6826c5a97defc0eee46e6b] After section 7 insert—
 
 > **7A. Meaning of “the first abolition date” and “the second abolition date”**
 >
@@ -64,7 +64,7 @@ Section 24
 >
 > (8) An appropriate scheme certificate that was in force in relation to a scheme is to be taken as conclusive that the scheme was, at that time, an appropriate scheme.
 
-**7.**[^key-30460f8d8aefd9ede04fad8e05c90914] (1) Section 8 (meaning of “contracted-out employment”, “guaranteed minimum pension” and “minimum payment”) is amended as follows.
+**7.**[^c-30460f8d8aefd9ede04fad8e05c90914] (1) Section 8 (meaning of “contracted-out employment”, “guaranteed minimum pension” and “minimum payment”) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -84,17 +84,17 @@ Section 24
 
 > (4) A contracting-out certificate that was in force in respect of an employed earner's employment is to be taken as conclusive that the employment was, at that time, contracted-out employment.
 
-**8.**[^key-77df142824e027915b720b9ab58cd6d8] The italic heading above section 9 is repealed.
+**8.**[^c-77df142824e027915b720b9ab58cd6d8] The italic heading above section 9 is repealed.
 
-**9.**[^key-07d28ac14e03180d0f217b5809f4d3a2] Sections 9 and 11 (requirements for certification of schemes: general) are repealed.
+**9.**[^c-07d28ac14e03180d0f217b5809f4d3a2] Sections 9 and 11 (requirements for certification of schemes: general) are repealed.
 
-**10.**[^key-29ce12145a22301e6584161a02e30ddd] The italic heading above section 12A is repealed.
+**10.**[^c-29ce12145a22301e6584161a02e30ddd] The italic heading above section 12A is repealed.
 
-**11.**[^key-cb4d368011a9c167a4d3874b570a18d2] Sections 12A to 12D (requirements for certification applying to employment from 6 April 1997) are repealed.
+**11.**[^c-cb4d368011a9c167a4d3874b570a18d2] Sections 12A to 12D (requirements for certification applying to employment from 6 April 1997) are repealed.
 
-**12.**[^key-e1d6a33b179c9fe676e1fbd55d061b1e] For the italic heading above section 13 substitute “ Guaranteed minimum pensions ”.
+**12.**[^c-e1d6a33b179c9fe676e1fbd55d061b1e] For the italic heading above section 13 substitute “ Guaranteed minimum pensions ”.
 
-**13.**[^key-747b9fc65e6d7055e791dba75e493651] (1) Before section 13 insert—
+**13.**[^c-747b9fc65e6d7055e791dba75e493651] (1) Before section 13 insert—
 
 > **12E. Former salary related contracted-out schemes to comply with GMP requirements**
 >
@@ -115,7 +115,7 @@ Section 24
 
 (3) But section 12E does not treat a scheme as having included any provision before this paragraph comes into force.
 
-**14.**[^key-f4620cbe08760c32adae467c11f1f09b] In section 13 (minimum pensions for earners), in subsection (2)—
+**14.**[^c-f4620cbe08760c32adae467c11f1f09b] In section 13 (minimum pensions for earners), in subsection (2)—
 
 - (a) for “is a married woman or widow who is liable” substitute “ was a married woman or widow who was liable ”;
 - (b) after “Act 1992” insert “ at a time during a relevant year when she was in contracted-out employment by reference to the scheme ”;
@@ -123,7 +123,7 @@ Section 24
 
   > “**Relevant year**” has the meaning given by section 14(8).
 
-**15.**[^key-b940f33879042007ab25c7ed0c0997fb] (1) Section 14 (earner's guaranteed minimum) is amended as follows.
+**15.**[^c-b940f33879042007ab25c7ed0c0997fb] (1) Section 14 (earner's guaranteed minimum) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -134,7 +134,7 @@ Section 24
 
 (3) In subsection (2), for “earnings such as are mentioned in subsection (1)” substitute “ excess earnings mentioned in subsection (1)(b) ”.
 
-**16.**[^key-e38f13e525f5ccf679a211801df1a68b] In section 16 (revaluation of earnings factors for the purposes of section 14: early leavers etc), for subsection (2) substitute—
+**16.**[^c-e38f13e525f5ccf679a211801df1a68b] In section 16 (revaluation of earnings factors for the purposes of section 14: early leavers etc), for subsection (2) substitute—
 
 > (2) The scheme may provide that in a case where—
 >
@@ -143,7 +143,7 @@ Section 24
 >
 > the earnings factors for that person shall be determined for the purposes of section 14(2) by reference to the last such order to come into force before the end of the tax year in which the earner ceases to be in pensionable service under the scheme (“the last service tax year”).
 
-**17.**[^key-8d0804dc0d6569040aa0326a0dd94574] (1) Section 17 (minimum pensions for widows, widowers and surviving civil partners) is amended as follows.
+**17.**[^c-8d0804dc0d6569040aa0326a0dd94574] (1) Section 17 (minimum pensions for widows, widowers and surviving civil partners) is amended as follows.
 
 (2) In subsection (4A), after paragraph (a) insert—
 
@@ -161,29 +161,29 @@ Section 24
 
 > (9A) For the purposes of subsection (4A)(aa) and (ab) a person attains state pension age when he or she attains pensionable age within the meaning given by the rules in paragraph 1 of Schedule 4 to the Pensions Act 1995.
 
-**18.**[^key-b8aa415063db14d7f25b62968ac60d14] In section 20 (transfer of accrued rights), in subsection (1)(a)—
+**18.**[^c-b8aa415063db14d7f25b62968ac60d14] In section 20 (transfer of accrued rights), in subsection (1)(a)—
 
 - (a) in sub-paragraph (i), after “under a” insert “ scheme that was a ”;
 - (b) in sub-paragraph (ii)—
   - (i) omit “which is not contracted-out,”;
   - (ii) after “under a” insert “ scheme that was a ”.
 
-**19.**[^key-190e1fa8da068f1e30f9c53f5521302a] In section 23 (securing of benefits), in subsection (2), omit paragraph (d).
+**19.**[^c-190e1fa8da068f1e30f9c53f5521302a] In section 23 (securing of benefits), in subsection (2), omit paragraph (d).
 
-**20.**[^key-5b17356b88808c00f5dafdee9f437134] In section 24A—
+**20.**[^c-5b17356b88808c00f5dafdee9f437134] In section 24A—
 
 - (a) the existing text becomes subsection (1), and
 - (b) after that subsection insert—
 
   > (2) The Secretary of State must give such guidance (if any) as he or she thinks appropriate about GMP conversion.
 
-**21.**[^key-8e4b606d34c93268e35ed8aa1d0ad63b] In section 25 (power for HMRC to impose conditions as to investments and resources), in subsection (2), after “A” insert “ scheme that was a ”.
+**21.**[^c-8e4b606d34c93268e35ed8aa1d0ad63b] In section 25 (power for HMRC to impose conditions as to investments and resources), in subsection (2), after “A” insert “ scheme that was a ”.
 
-**22.**[^key-2469c5fa8f3e94cf0cb89a962b388610] Sections 34 to 36 (cancellation, variation, surrender and refusal of certificates) are repealed.
+**22.**[^c-2469c5fa8f3e94cf0cb89a962b388610] Sections 34 to 36 (cancellation, variation, surrender and refusal of certificates) are repealed.
 
-**23.**[^key-4d3feaa6f33f34aa04ac58c15400c9cf] In the italic heading above section 37, for “scheme rules after certification” substitute “ rules by former salary related contracted-out schemes ”.
+**23.**[^c-4d3feaa6f33f34aa04ac58c15400c9cf] In the italic heading above section 37, for “scheme rules after certification” substitute “ rules by former salary related contracted-out schemes ”.
 
-**24.**[^key-b71e6f0006c78397074b6eab1e94e851][^key-a16ef5a4c094e80e1cb5336a16d99f83] In section 37 (alteration of rules of contracted-out schemes) for subsections (1) to (3) substitute—
+**24.**[^c-b71e6f0006c78397074b6eab1e94e851][^c-a16ef5a4c094e80e1cb5336a16d99f83] In section 37 (alteration of rules of contracted-out schemes) for subsections (1) to (3) substitute—
 
 > (1) Except in prescribed cases, the rules of a scheme that was a salary related contracted-out scheme cannot be altered unless the alteration is of a prescribed description.
 >
@@ -191,7 +191,7 @@ Section 24
 >
 > (3) Subsection (1) does not apply to a scheme if no person is entitled to receive, or has accrued rights to, any benefits under the scheme attributable to a period when the scheme was contracted-out.
 
-**25.**[^key-5d01721bb0106bf90922272150b9de43][^key-9a7b4f0c84e7fe7b2bf478e2e448304e] After section 37 insert—
+**25.**[^c-5d01721bb0106bf90922272150b9de43][^c-9a7b4f0c84e7fe7b2bf478e2e448304e] After section 37 insert—
 
 > **37A. Transfer of liabilities etc: schemes contracted-out on or after 6 April 1997**
 >
@@ -212,22 +212,22 @@ Section 24
 >
 > (3) Regulations under subsection (1) may provide that any provision of this Part shall have effect subject to such modifications as may be specified in the regulations.
 
-**26.**[^key-15b2e24740a5e83b4fd7f1602b57e028] For the heading to Chapter 2 of Part 3 substitute “ Reduction in social security benefits for members of schemes that were contracted-out ”.
+**26.**[^c-15b2e24740a5e83b4fd7f1602b57e028] For the heading to Chapter 2 of Part 3 substitute “ Reduction in social security benefits for members of schemes that were contracted-out ”.
 
-**27.**[^key-d3967ebe78b03e2a4640e664a4e21960] In section 40 (scope of Chapter 2)—
+**27.**[^c-d3967ebe78b03e2a4640e664a4e21960] In section 40 (scope of Chapter 2)—
 
 - (a) omit paragraph (a);
 - (b) in paragraph (c) for “such schemes” substitute “ schemes that were contracted-out pension schemes ”.
 
-**28.**[^key-2eedd3a3079bce384a74a100dac445fc] The italic heading above section 41 is repealed.
+**28.**[^c-2eedd3a3079bce384a74a100dac445fc] The italic heading above section 41 is repealed.
 
-**29.**[^key-a2f8fec7d0aaa36b7345125a2951a07a] Section 41 (reduced rates of Class 1 contributions) is repealed.
+**29.**[^c-a2f8fec7d0aaa36b7345125a2951a07a] Section 41 (reduced rates of Class 1 contributions) is repealed.
 
-**30.**[^key-9ddb8e7ec5242ceb7ce5859dc6aa8d8b] (1) Section 42 (review and alteration of reduced rates of Class 1 contributions) is repealed.
+**30.**[^c-9ddb8e7ec5242ceb7ce5859dc6aa8d8b] (1) Section 42 (review and alteration of reduced rates of Class 1 contributions) is repealed.
 
 (2) There is no duty, before the repeal of section 42 comes into force, to lay before Parliament any reports under that section.
 
-**31.**[^key-f153c953023b787970ae357e5e2734ba] In section 48A (additional pension and other benefits), in subsection (1), for the words from the beginning to the end of paragraph (b) substitute
+**31.**[^c-f153c953023b787970ae357e5e2734ba] In section 48A (additional pension and other benefits), in subsection (1), for the words from the beginning to the end of paragraph (b) substitute
 
 > In relation to—
 >
@@ -237,13 +237,13 @@ Section 24
 
 .
 
-**32.**[^key-89f1c30846f49c06acab528723ec582e] Section 49 (women, married women and widows) is repealed.
+**32.**[^c-89f1c30846f49c06acab528723ec582e] Section 49 (women, married women and widows) is repealed.
 
-**33.**[^key-740df91877f2db149b921acdd6b91bb2] Section 50 (powers of HMRC to approve arrangements for scheme ceasing to be certified) is repealed.
+**33.**[^c-740df91877f2db149b921acdd6b91bb2] Section 50 (powers of HMRC to approve arrangements for scheme ceasing to be certified) is repealed.
 
-**34.**[^key-b56218d1f75af7a05bf29aa036ccac69] In section 51 (calculation of guaranteed minimum pensions under approved arrangements), in subsection (1)(b), for “ceases” substitute “ ceased ”.
+**34.**[^c-b56218d1f75af7a05bf29aa036ccac69] In section 51 (calculation of guaranteed minimum pensions under approved arrangements), in subsection (1)(b), for “ceases” substitute “ ceased ”.
 
-**35.**[^key-ae686e4823935359bad2ecaa2af517c0] For section 52 substitute—
+**35.**[^c-ae686e4823935359bad2ecaa2af517c0] For section 52 substitute—
 
 > **52. Supervision of former salary related contracted-out schemes**
 >
@@ -252,11 +252,11 @@ Section 24
 > - (a) a guaranteed minimum pension under the scheme, or
 > - (b) a pension under the scheme attributable to service on or after the principal appointed day but before the scheme ceased to be contracted-out.
 
-**36.**[^key-0c8ca73fc0338926dfdc70191a0c52f7] In section 53 (supervision: former contracted-out schemes), omit subsection (3).
+**36.**[^c-0c8ca73fc0338926dfdc70191a0c52f7] In section 53 (supervision: former contracted-out schemes), omit subsection (3).
 
-**37.**[^key-e3ae7c14d07d8417ef820dee5d30a6fe] Sections 55 to 68 (state scheme premiums) are repealed.
+**37.**[^c-e3ae7c14d07d8417ef820dee5d30a6fe] Sections 55 to 68 (state scheme premiums) are repealed.
 
-**38.**[^key-aef250f6e43ba39c381b0c3ff8a3f834] In section 87 (general protection principle), in subsection (1)(a), for sub-paragraph (i) substitute—
+**38.**[^c-aef250f6e43ba39c381b0c3ff8a3f834] In section 87 (general protection principle), in subsection (1)(a), for sub-paragraph (i) substitute—
 
 > - (i) the date (“the cessation date”) which is the earlier of—
 >   - (a) the date on which an earner ceases to be in pensionable service under a scheme that was, before the second abolition date, a salary related contracted-out scheme; and
@@ -264,18 +264,18 @@ Section 24
 
 .
 
-**39.**[^key-900ea7acbce2b2f5eaf3ace62bcee8bc] In section 96 (further provisions concerning exercise of option to take cash equivalent in a particular way), in subsection (2), in paragraph (a)(i) omit “which is not a contracted-out scheme”.
+**39.**[^c-900ea7acbce2b2f5eaf3ace62bcee8bc] In section 96 (further provisions concerning exercise of option to take cash equivalent in a particular way), in subsection (2), in paragraph (a)(i) omit “which is not a contracted-out scheme”.
 
-**40.**[^key-100535b6e4fec0ccd035b26baefd93d7] In section 109 (annual increase of guaranteed minimum pensions), in subsection (3A)(b), omit “for the purposes of Part 3 of the Pensions Act 1995”.
+**40.**[^c-100535b6e4fec0ccd035b26baefd93d7] In section 109 (annual increase of guaranteed minimum pensions), in subsection (3A)(b), omit “for the purposes of Part 3 of the Pensions Act 1995”.
 
-**41.**[^key-a5fca32416ea0e75244a4a00360f27d1] In section 171 (questions arising in proceedings), in subsection (1), omit paragraph (b) and the “or” before it.
+**41.**[^c-a5fca32416ea0e75244a4a00360f27d1] In section 171 (questions arising in proceedings), in subsection (1), omit paragraph (b) and the “or” before it.
 
-**42.**[^key-cb72c7977494f27822e98954a18b4e27] In section 178 (trustees and managers of schemes), in paragraph (a)—
+**42.**[^c-cb72c7977494f27822e98954a18b4e27] In section 178 (trustees and managers of schemes), in paragraph (a)—
 
 - (a) after “1985” insert “ or ”;
 - (b) omit “or Part II of Schedule 5 to the Child Support, Pensions and Social Security Act 2000”.
 
-**43.**[^key-83b2699505c89c1cd902b23e46627bee] (1) Section 181(1) (general interpretation) is amended as follows.
+**43.**[^c-83b2699505c89c1cd902b23e46627bee] (1) Section 181(1) (general interpretation) is amended as follows.
 
 (2) In the appropriate places insert—
 
@@ -299,11 +299,11 @@ Section 24
 
 (8) In the definition of “money purchase contracted-out scheme”, for “section 181A” substitute “ section 7B ”.
 
-**44.**[^key-299ae0aee4e5bb7be773fccf5c9cdf5a] Section 181A (interpretation of references to money purchase contracted-out schemes or appropriate schemes after first abolition date) is repealed.
+**44.**[^c-299ae0aee4e5bb7be773fccf5c9cdf5a] Section 181A (interpretation of references to money purchase contracted-out schemes or appropriate schemes after first abolition date) is repealed.
 
-**45.**[^key-e0c7102a71e68999ec85393c8512381e] In section 185 (consultation about other regulations), omit subsection (9).
+**45.**[^c-e0c7102a71e68999ec85393c8512381e] In section 185 (consultation about other regulations), omit subsection (9).
 
-**46.**[^key-aeea8d678099eed4834f5bbc8485b2ac] (1) Schedule 2 (certification regulations) is amended as follows.
+**46.**[^c-aeea8d678099eed4834f5bbc8485b2ac] (1) Schedule 2 (certification regulations) is amended as follows.
 
 (2) Omit paragraphs 1 to 4.
 
@@ -311,7 +311,7 @@ Section 24
 
 (4) Omit paragraphs 6 to 8.
 
-**47.**[^key-5c0b489c3e2a9d917e48941dffb14fdb] (1) Schedule 4 (priority in bankruptcy) is amended as follows.
+**47.**[^c-5c0b489c3e2a9d917e48941dffb14fdb] (1) Schedule 4 (priority in bankruptcy) is amended as follows.
 
 (2) In paragraph 2—
 
@@ -335,36 +335,36 @@ Section 24
 
 #### Social Security Contributions and Benefits Act 1992 (c. 4)
 
-**48.**[^key-e9f170d1525a5cf05ba111c49a6478f5] The Contributions and Benefits Act is amended as follows.
+**48.**[^c-e9f170d1525a5cf05ba111c49a6478f5] The Contributions and Benefits Act is amended as follows.
 
-**49.**[^key-8e47abe694eb215c4f687534ff726cad] In section 1 (outline of contributory system), in subsection (3), omit the words after paragraph (b).
+**49.**[^c-8e47abe694eb215c4f687534ff726cad] In section 1 (outline of contributory system), in subsection (3), omit the words after paragraph (b).
 
-**50.**[^key-d5bacfdd65f1e59b79986115463ac9e8] In section 4C (power to make provision in consequence of provision made by virtue of section 4B(2) etc), in subsection (5), in each of paragraphs (a) and (b) omit the words from “, including” to the end.
+**50.**[^c-d5bacfdd65f1e59b79986115463ac9e8] In section 4C (power to make provision in consequence of provision made by virtue of section 4B(2) etc), in subsection (5), in each of paragraphs (a) and (b) omit the words from “, including” to the end.
 
-**51.**[^key-9ec56dc333e01883f5417962f5de22d5] In section 8 (calculation of primary Class 1 contributions), in subsection (3), omit paragraph (c) and the “and” before it.
+**51.**[^c-9ec56dc333e01883f5417962f5de22d5] In section 8 (calculation of primary Class 1 contributions), in subsection (3), omit paragraph (c) and the “and” before it.
 
-**52.**[^key-318ddc08c020358dacfaba5569105459] In section 9 (calculation of secondary Class 1 contributions), in subsection (3), omit paragraph (c) and the “and” before it.
+**52.**[^c-318ddc08c020358dacfaba5569105459] In section 9 (calculation of secondary Class 1 contributions), in subsection (3), omit paragraph (c) and the “and” before it.
 
-**53.**[^key-cfb979a2aacf82376bc9adc0b79203ec] In section 20 (descriptions of contributory benefits), in subsection (3), for “(reduction in state scheme contributions and benefits for members of certified schemes)” substitute “ (reduction in benefits for members of schemes that were contracted-out) ”.
+**53.**[^c-cfb979a2aacf82376bc9adc0b79203ec] In section 20 (descriptions of contributory benefits), in subsection (3), for “(reduction in state scheme contributions and benefits for members of certified schemes)” substitute “ (reduction in benefits for members of schemes that were contracted-out) ”.
 
-**54.**[^key-c5bb7212b2da1d12ba992fe1d652c75f] In Schedule 1 (supplementary provisions relating to national insurance contributions), in paragraph 1, omit sub-paragraphs (2), (3), (6) and (9) to (11).
+**54.**[^c-c5bb7212b2da1d12ba992fe1d652c75f] In Schedule 1 (supplementary provisions relating to national insurance contributions), in paragraph 1, omit sub-paragraphs (2), (3), (6) and (9) to (11).
 
 #### Social Security Administration Act 1992 (c. 5)
 
-**55.**[^key-1e5527fe16d74fd132a312527c070321] The Administration Act is amended as follows.
+**55.**[^c-1e5527fe16d74fd132a312527c070321] The Administration Act is amended as follows.
 
-**56.**[^key-f0a26ffe0975e3db94b831479043510c] In section 150 (annual up-rating of benefits), in subsection (10A), for “the abolition date, as defined by section 181(1) of the Pensions Act,” substitute “ 6 April 2012 (the date appointed for the commencement of section 15(1) of the Pensions Act 2007) ”.
+**56.**[^c-f0a26ffe0975e3db94b831479043510c] In section 150 (annual up-rating of benefits), in subsection (10A), for “the abolition date, as defined by section 181(1) of the Pensions Act,” substitute “ 6 April 2012 (the date appointed for the commencement of section 15(1) of the Pensions Act 2007) ”.
 
-**57.**[^key-9d5b67d83564af81af193ccdc3a94ec5] In section 191 (interpretation - general)—
+**57.**[^c-9d5b67d83564af81af193ccdc3a94ec5] In section 191 (interpretation - general)—
 
 - (a) in the definition of “money purchase contracted-out scheme”, for “section 181A” substitute “ section 7B ”;
 - (b) in the definition of “personal pension scheme” etc, for “section 181A(6)” substitute “ section 7B(6) ”.
 
 #### Pensions Act 1995 (c. 26)
 
-**58.**[^key-aeef2fa7bbfae7c1e5f61163d1221c4e] The Pensions Act 1995 is amended as follows.
+**58.**[^c-aeef2fa7bbfae7c1e5f61163d1221c4e] The Pensions Act 1995 is amended as follows.
 
-**59.**[^key-e4dac434077488ec24c00841e756c256] (1) Section 51 (annual increase in rate of pension) is amended as follows.
+**59.**[^c-e4dac434077488ec24c00841e756c256] (1) Section 51 (annual increase in rate of pension) is amended as follows.
 
 (2) For “the appointed day” (in each place) substitute “ 6 April 1997 ”.
 
@@ -375,9 +375,9 @@ Section 24
 > - (a) it has not, at any time on or after 6 April 1997, been a salary related contracted-out scheme (see section 7B of the Pension Schemes Act 1993), or
 > - (b) it has, at any time on or after 6 April 1997, been a salary related contracted-out scheme but no person is entitled to receive, or has accrued rights to, benefits under the scheme attributable to a period on or after that day when it was such a scheme.
 
-**60.**[^key-2d2d9a6ac30e02635b30ee6778522214] In section 54 (sections 51 to 53: supplementary), in subsection (3), omit the definition of “the appointed day”.
+**60.**[^c-2d2d9a6ac30e02635b30ee6778522214] In section 54 (sections 51 to 53: supplementary), in subsection (3), omit the definition of “the appointed day”.
 
-**61.**[^key-6022d5636e42d73b63d6d6d71e46fe2e] For section 69 substitute—
+**61.**[^c-6022d5636e42d73b63d6d6d71e46fe2e] For section 69 substitute—
 
 > **69. Grounds for applying for modifications: winding up registered schemes**
 >
@@ -394,57 +394,57 @@ Section 24
 >
 > (5) In this section “**registered pension scheme**” means an occupational pension scheme registered under section 153 of the Finance Act 2004 (other than a public service pension scheme).
 
-**62.**[^key-044c76d14b0a44dc4df688fe0bff7302] In section 70 (section 69: supplementary), omit subsection (3).
+**62.**[^c-044c76d14b0a44dc4df688fe0bff7302] In section 70 (section 69: supplementary), omit subsection (3).
 
-**63.**[^key-f96f569248f54e06f9f471672914eaff] In section 71 (effect of orders under section 69), in subsection (1)—
+**63.**[^c-f96f569248f54e06f9f471672914eaff] In section 71 (effect of orders under section 69), in subsection (1)—
 
 - (a) for “paragraph (a)” substitute “ paragraph (b) ”;
 - (b) for “paragraph (b)” substitute “ paragraph (a) ”.
 - (64) In section 72 (modification of public service pension schemes), in subsection (1), for “section 69(1)(b)” substitute “ section 69(1)(a) ”.
 
-**65.**[^key-fda1eb3e4f3423eb5f89cae813060736] Sections 136(1), (3) and (5), 137(3) and (4) and 148 (amendments to do with contracting-out) are repealed.
+**65.**[^c-fda1eb3e4f3423eb5f89cae813060736] Sections 136(1), (3) and (5), 137(3) and (4) and 148 (amendments to do with contracting-out) are repealed.
 
 #### Employment Rights Act 1996 (c. 18)
 
-**66.**[^key-eaf65e3299250b03bafc84793cd6c3b5] The Employment Rights Act 1996 is amended as follows.
+**66.**[^c-eaf65e3299250b03bafc84793cd6c3b5] The Employment Rights Act 1996 is amended as follows.
 
-**67.**[^key-4e225bd6ee4765d6d59e97452c9e45eb] In section 3 (note to be included in statement of initial employment particulars), omit subsection (5).
+**67.**[^c-4e225bd6ee4765d6d59e97452c9e45eb] In section 3 (note to be included in statement of initial employment particulars), omit subsection (5).
 
-**68.**[^key-75cf2953d631e0571fe771b74613e062] In section 11 (references to employment tribunals), in subsection (3), omit paragraph (a) (including the “and” at the end of it).
+**68.**[^c-75cf2953d631e0571fe771b74613e062] In section 11 (references to employment tribunals), in subsection (3), omit paragraph (a) (including the “and” at the end of it).
 
 #### Child Support, Pensions and Social Security Act 2000 (c. 19)
 
-**69.**[^key-eae372d515528297463bdf12f97bbe63] The Child Support, Pensions and Social Security Act 2000 is amended as follows.
+**69.**[^c-eae372d515528297463bdf12f97bbe63] The Child Support, Pensions and Social Security Act 2000 is amended as follows.
 
-**70.**[^key-ea16a7d6cbab1d238713fb45e8826f4f] (1) Section 42 (disclosure of state pension information) is amended as follows.
+**70.**[^c-ea16a7d6cbab1d238713fb45e8826f4f] (1) Section 42 (disclosure of state pension information) is amended as follows.
 
 (2) In subsection (3)(d), omit “which is not contracted-out employment”.
 
 (3) In subsection (11), omit the definition of “contracted-out employment”.
 
-**71.**[^key-7c2f4b0be10add0094aa1fdd30ec56ec] Part 2 of Schedule 5 (alternative to anti-franking rules) is repealed.
+**71.**[^c-7c2f4b0be10add0094aa1fdd30ec56ec] Part 2 of Schedule 5 (alternative to anti-franking rules) is repealed.
 
 #### Employment Act 2002 (c. 22)
 
-**72.**[^key-605862d162e9d17b4f485fdcd76b2426] In section 15 of the Employment Act 2002 (use of information by HMRC), in subsection (2)(c), for “(certification of pension schemes etc)” substitute “ (schemes that were contracted-out etc) ”.
+**72.**[^c-605862d162e9d17b4f485fdcd76b2426] In section 15 of the Employment Act 2002 (use of information by HMRC), in subsection (2)(c), for “(certification of pension schemes etc)” substitute “ (schemes that were contracted-out etc) ”.
 
 #### Pensions Act 2004 (c. 35)
 
-**73.**[^key-0c9165fb042cee9f7a0110abe7dcde30] In section 258 of the Pensions Act 2004 (pension protection on transfer of employment), in subsection (2)(c), for sub-paragraphs (i) and (ii) substitute “ complies with prescribed requirements ”.
+**73.**[^c-0c9165fb042cee9f7a0110abe7dcde30] In section 258 of the Pensions Act 2004 (pension protection on transfer of employment), in subsection (2)(c), for sub-paragraphs (i) and (ii) substitute “ complies with prescribed requirements ”.
 
 #### Companies Act 2006 (c. 46)
 
-**74.**[^key-4dee6e7653b8b7fed65fa681c91cbff9] The Companies Act 2006 is amended as follows.
+**74.**[^c-4dee6e7653b8b7fed65fa681c91cbff9] The Companies Act 2006 is amended as follows.
 
-**75.**[^key-244a31a8cd4b48245d1ca6290bb63d31] In section 140 (interests to be disregarded: employer's rights of recovery under pension scheme or employee's share scheme), in subsection (2), omit “section 61 of the Pension Schemes Act 1993 or”.
+**75.**[^c-244a31a8cd4b48245d1ca6290bb63d31] In section 140 (interests to be disregarded: employer's rights of recovery under pension scheme or employee's share scheme), in subsection (2), omit “section 61 of the Pension Schemes Act 1993 or”.
 
-**76.**[^key-1dc351c4ecdfc778eee5434a1953d08d] In section 673 (interests to be disregarded in determining whether company has beneficial interest: employer's charges and other rights of recovery), in subsection (1)(b), omit sub-paragraph (i).
+**76.**[^c-1dc351c4ecdfc778eee5434a1953d08d] In section 673 (interests to be disregarded in determining whether company has beneficial interest: employer's charges and other rights of recovery), in subsection (1)(b), omit sub-paragraph (i).
 
 #### Pensions Act 2007 (c. 22)
 
-**77.**[^key-d139bdbc404e92f657c08b6ef29f576d] The Pensions Act 2007 is amended as follows.
+**77.**[^c-d139bdbc404e92f657c08b6ef29f576d] The Pensions Act 2007 is amended as follows.
 
-**78.**[^key-2fd50155fa7dfdf61890bf19b459d863] (1) Section 15 (abolition of contracting-out for defined contribution pension schemes) is amended as follows.
+**78.**[^c-2fd50155fa7dfdf61890bf19b459d863] (1) Section 15 (abolition of contracting-out for defined contribution pension schemes) is amended as follows.
 
 (2) In subsection (1), for “the abolition date” substitute “ 6 April 2012 ”.
 
@@ -452,9 +452,9 @@ Section 24
 
 (4) In subsection (4), for “the abolition date” (in each place) substitute “ 6 April 2012 ”.
 
-**79.**[^key-4782d1f478521f6dd8da3c50bc2e58d3] In section 27 (consequential provision, repeals and revocations), in subsection (6), for “the abolition date (within the meaning of section 15)” substitute “ 6 April 2012 ”.
+**79.**[^c-4782d1f478521f6dd8da3c50bc2e58d3] In section 27 (consequential provision, repeals and revocations), in subsection (6), for “the abolition date (within the meaning of section 15)” substitute “ 6 April 2012 ”.
 
-**80.**[^key-a60fdc79cdef11097826a2d6bd98f66d] (1) Schedule 4 (abolition of contracting-out for defined contribution pension schemes) is amended as follows.
+**80.**[^c-a60fdc79cdef11097826a2d6bd98f66d] (1) Schedule 4 (abolition of contracting-out for defined contribution pension schemes) is amended as follows.
 
 (2) In paragraphs 61, 62(1), (2)(a) and (b)(i) and (3), 65 and 66(2) for “the abolition date” (in each place) substitute “ 6 April 2012 ”.
 
@@ -462,186 +462,186 @@ Section 24
 
 #### Pensions Act 2008 (c. 30)
 
-**81.**[^key-30720ab143dc7038ca94a19faf531979] The Pensions Act 2008 is amended as follows.
+**81.**[^c-30720ab143dc7038ca94a19faf531979] The Pensions Act 2008 is amended as follows.
 
-**82.**[^key-b3772a95d437a1c501be9e014602b354] For section 21 substitute—
+**82.**[^c-b3772a95d437a1c501be9e014602b354] For section 21 substitute—
 
 > **21. Quality requirement: UK defined benefits schemes**
 >
 > A defined benefits scheme that has its main administration in the United Kingdom satisfies the quality requirement in relation to a jobholder if it satisfies the test scheme standard in relation to that jobholder.
 
-**83.**[^key-07151ccbbd188dc3c19a85ae60b44c3f] In section 22 (test scheme standard), for subsection (2) substitute—
+**83.**[^c-07151ccbbd188dc3c19a85ae60b44c3f] In section 22 (test scheme standard), for subsection (2) substitute—
 
 > (2) Subject to subsection (3), the relevant members are J and all active members who are jobholders of the same employer as J.
 
 ## Annotations
 
-[^key-ce8547b188373e26d818b76f89ae6e46]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/1) in force at 7.7.2015 for specified purposes by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/1/a)
+[^c-ce8547b188373e26d818b76f89ae6e46]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/1) in force at 7.7.2015 for specified purposes by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/1/a)
 
-[^key-0c36e06c418f7a19972a80681b3e5493]: Commencement: Sch. 13 para. 1 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
+[^c-0c36e06c418f7a19972a80681b3e5493]: Commencement: Sch. 13 para. 1 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
 
-[^key-322576522a3b42a645aa9494da5a1d8b]: Commencement: Sch. 13 para. 2 in force at 6.4.2016, see s. 56(1)(4)
+[^c-322576522a3b42a645aa9494da5a1d8b]: Commencement: Sch. 13 para. 2 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-b283ca9832935707dff237b3c2c5a3cb]: Commencement: Sch. 13 para. 3 in force at 6.4.2016, see s. 56(1)(4)
+[^c-b283ca9832935707dff237b3c2c5a3cb]: Commencement: Sch. 13 para. 3 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d57541e887ff0939ab9b3671316b9c36]: Commencement: Sch. 13 para. 4 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d57541e887ff0939ab9b3671316b9c36]: Commencement: Sch. 13 para. 4 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-28b0b984f142298e0a6019d8a5f8a631]: Commencement: Sch. 13 para. 5 in force at 6.4.2016, see s. 56(1)(4)
+[^c-28b0b984f142298e0a6019d8a5f8a631]: Commencement: Sch. 13 para. 5 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-753f953d2c6826c5a97defc0eee46e6b]: Commencement: Sch. 13 para. 6 in force at 6.4.2016, see s. 56(1)(4)
+[^c-753f953d2c6826c5a97defc0eee46e6b]: Commencement: Sch. 13 para. 6 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-30460f8d8aefd9ede04fad8e05c90914]: Commencement: Sch. 13 para. 7 in force at 6.4.2016, see s. 56(1)(4)
+[^c-30460f8d8aefd9ede04fad8e05c90914]: Commencement: Sch. 13 para. 7 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-77df142824e027915b720b9ab58cd6d8]: Commencement: Sch. 13 para. 8 in force at 6.4.2016, see s. 56(1)(4)
+[^c-77df142824e027915b720b9ab58cd6d8]: Commencement: Sch. 13 para. 8 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-07d28ac14e03180d0f217b5809f4d3a2]: Commencement: Sch. 13 para. 9 in force at 6.4.2016, see s. 56(1)(4)
+[^c-07d28ac14e03180d0f217b5809f4d3a2]: Commencement: Sch. 13 para. 9 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-29ce12145a22301e6584161a02e30ddd]: Commencement: Sch. 13 para. 10 in force at 6.4.2016, see s. 56(1)(4)
+[^c-29ce12145a22301e6584161a02e30ddd]: Commencement: Sch. 13 para. 10 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-cb4d368011a9c167a4d3874b570a18d2]: Commencement: Sch. 13 para. 11 in force at 6.4.2016, see s. 56(1)(4)
+[^c-cb4d368011a9c167a4d3874b570a18d2]: Commencement: Sch. 13 para. 11 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e1d6a33b179c9fe676e1fbd55d061b1e]: Commencement: Sch. 13 para. 12 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e1d6a33b179c9fe676e1fbd55d061b1e]: Commencement: Sch. 13 para. 12 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-747b9fc65e6d7055e791dba75e493651]: Commencement: Sch. 13 para. 13 in force at 6.4.2016, see s. 56(1)(4)
+[^c-747b9fc65e6d7055e791dba75e493651]: Commencement: Sch. 13 para. 13 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-f4620cbe08760c32adae467c11f1f09b]: Commencement: Sch. 13 para. 14 in force at 6.4.2016, see s. 56(1)(4)
+[^c-f4620cbe08760c32adae467c11f1f09b]: Commencement: Sch. 13 para. 14 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-b940f33879042007ab25c7ed0c0997fb]: Commencement: Sch. 13 para. 15 in force at 6.4.2016, see s. 56(1)(4)
+[^c-b940f33879042007ab25c7ed0c0997fb]: Commencement: Sch. 13 para. 15 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e38f13e525f5ccf679a211801df1a68b]: Commencement: Sch. 13 para. 16 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e38f13e525f5ccf679a211801df1a68b]: Commencement: Sch. 13 para. 16 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-8d0804dc0d6569040aa0326a0dd94574]: Commencement: Sch. 13 para. 17 in force at 6.4.2016, see s. 56(1)(4)
+[^c-8d0804dc0d6569040aa0326a0dd94574]: Commencement: Sch. 13 para. 17 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-b8aa415063db14d7f25b62968ac60d14]: Commencement: Sch. 13 para. 18 in force at 6.4.2016, see s. 56(1)(4)
+[^c-b8aa415063db14d7f25b62968ac60d14]: Commencement: Sch. 13 para. 18 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-190e1fa8da068f1e30f9c53f5521302a]: Commencement: Sch. 13 para. 19 in force at 6.4.2016, see s. 56(1)(4)
+[^c-190e1fa8da068f1e30f9c53f5521302a]: Commencement: Sch. 13 para. 19 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-5b17356b88808c00f5dafdee9f437134]: Commencement: Sch. 13 para. 20 in force at 6.4.2016, see s. 56(1)(4)
+[^c-5b17356b88808c00f5dafdee9f437134]: Commencement: Sch. 13 para. 20 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-8e4b606d34c93268e35ed8aa1d0ad63b]: Commencement: Sch. 13 para. 21 in force at 6.4.2016, see s. 56(1)(4)
+[^c-8e4b606d34c93268e35ed8aa1d0ad63b]: Commencement: Sch. 13 para. 21 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-2469c5fa8f3e94cf0cb89a962b388610]: Commencement: Sch. 13 para. 22 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2469c5fa8f3e94cf0cb89a962b388610]: Commencement: Sch. 13 para. 22 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-4d3feaa6f33f34aa04ac58c15400c9cf]: Commencement: Sch. 13 para. 23 in force at 6.4.2016, see s. 56(1)(4)
+[^c-4d3feaa6f33f34aa04ac58c15400c9cf]: Commencement: Sch. 13 para. 23 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-b71e6f0006c78397074b6eab1e94e851]: Commencement: [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/24) in force at 7.7.2015 for specified purposes by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/1/b)
+[^c-b71e6f0006c78397074b6eab1e94e851]: Commencement: [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/24) in force at 7.7.2015 for specified purposes by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/1/b)
 
-[^key-a16ef5a4c094e80e1cb5336a16d99f83]: Commencement: Sch. 13 para. 24 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
+[^c-a16ef5a4c094e80e1cb5336a16d99f83]: Commencement: Sch. 13 para. 24 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
 
-[^key-5d01721bb0106bf90922272150b9de43]: Commencement: [Sch. 13 para. 25](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/25) in force at 7.7.2015 for specified purposes by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/1/c)
+[^c-5d01721bb0106bf90922272150b9de43]: Commencement: [Sch. 13 para. 25](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/25) in force at 7.7.2015 for specified purposes by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/1/c)
 
-[^key-9a7b4f0c84e7fe7b2bf478e2e448304e]: Commencement: Sch. 13 para. 25 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
+[^c-9a7b4f0c84e7fe7b2bf478e2e448304e]: Commencement: Sch. 13 para. 25 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
 
-[^key-15b2e24740a5e83b4fd7f1602b57e028]: Commencement: Sch. 13 para. 26 in force at 6.4.2016, see s. 56(1)(4)
+[^c-15b2e24740a5e83b4fd7f1602b57e028]: Commencement: Sch. 13 para. 26 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d3967ebe78b03e2a4640e664a4e21960]: Commencement: Sch. 13 para. 27 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d3967ebe78b03e2a4640e664a4e21960]: Commencement: Sch. 13 para. 27 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-2eedd3a3079bce384a74a100dac445fc]: Commencement: Sch. 13 para. 28 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2eedd3a3079bce384a74a100dac445fc]: Commencement: Sch. 13 para. 28 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-a2f8fec7d0aaa36b7345125a2951a07a]: Commencement: Sch. 13 para. 29 in force at 6.4.2016, see s. 56(1)(4)
+[^c-a2f8fec7d0aaa36b7345125a2951a07a]: Commencement: Sch. 13 para. 29 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-9ddb8e7ec5242ceb7ce5859dc6aa8d8b]: Commencement: Sch. 13 para. 30 in force at 6.4.2016, see s. 56(1)(4)
+[^c-9ddb8e7ec5242ceb7ce5859dc6aa8d8b]: Commencement: Sch. 13 para. 30 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-f153c953023b787970ae357e5e2734ba]: Commencement: Sch. 13 para. 31 in force at 6.4.2016, see s. 56(1)(4)
+[^c-f153c953023b787970ae357e5e2734ba]: Commencement: Sch. 13 para. 31 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-89f1c30846f49c06acab528723ec582e]: Commencement: Sch. 13 para. 32 in force at 6.4.2016, see s. 56(1)(4)
+[^c-89f1c30846f49c06acab528723ec582e]: Commencement: Sch. 13 para. 32 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-740df91877f2db149b921acdd6b91bb2]: Commencement: Sch. 13 para. 33 in force at 6.4.2016, see s. 56(1)(4)
+[^c-740df91877f2db149b921acdd6b91bb2]: Commencement: Sch. 13 para. 33 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-b56218d1f75af7a05bf29aa036ccac69]: Commencement: Sch. 13 para. 34 in force at 6.4.2016, see s. 56(1)(4)
+[^c-b56218d1f75af7a05bf29aa036ccac69]: Commencement: Sch. 13 para. 34 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-ae686e4823935359bad2ecaa2af517c0]: Commencement: Sch. 13 para. 35 in force at 6.4.2016, see s. 56(1)(4)
+[^c-ae686e4823935359bad2ecaa2af517c0]: Commencement: Sch. 13 para. 35 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-0c8ca73fc0338926dfdc70191a0c52f7]: Commencement: Sch. 13 para. 36 in force at 6.4.2016, see s. 56(1)(4)
+[^c-0c8ca73fc0338926dfdc70191a0c52f7]: Commencement: Sch. 13 para. 36 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e3ae7c14d07d8417ef820dee5d30a6fe]: Commencement: Sch. 13 para. 37 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e3ae7c14d07d8417ef820dee5d30a6fe]: Commencement: Sch. 13 para. 37 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-aef250f6e43ba39c381b0c3ff8a3f834]: Commencement: Sch. 13 para. 38 in force at 6.4.2016, see s. 56(1)(4)
+[^c-aef250f6e43ba39c381b0c3ff8a3f834]: Commencement: Sch. 13 para. 38 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-900ea7acbce2b2f5eaf3ace62bcee8bc]: Commencement: Sch. 13 para. 39 in force at 6.4.2016, see s. 56(1)(4)
+[^c-900ea7acbce2b2f5eaf3ace62bcee8bc]: Commencement: Sch. 13 para. 39 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-100535b6e4fec0ccd035b26baefd93d7]: Commencement: Sch. 13 para. 40 in force at 6.4.2016, see s. 56(1)(4)
+[^c-100535b6e4fec0ccd035b26baefd93d7]: Commencement: Sch. 13 para. 40 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-a5fca32416ea0e75244a4a00360f27d1]: Commencement: Sch. 13 para. 41 in force at 6.4.2016, see s. 56(1)(4)
+[^c-a5fca32416ea0e75244a4a00360f27d1]: Commencement: Sch. 13 para. 41 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-cb72c7977494f27822e98954a18b4e27]: Commencement: Sch. 13 para. 42 in force at 6.4.2016, see s. 56(1)(4)
+[^c-cb72c7977494f27822e98954a18b4e27]: Commencement: Sch. 13 para. 42 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-83b2699505c89c1cd902b23e46627bee]: Commencement: Sch. 13 para. 43 in force at 6.4.2016, see s. 56(1)(4)
+[^c-83b2699505c89c1cd902b23e46627bee]: Commencement: Sch. 13 para. 43 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-299ae0aee4e5bb7be773fccf5c9cdf5a]: Commencement: Sch. 13 para. 44 in force at 6.4.2016, see s. 56(1)(4)
+[^c-299ae0aee4e5bb7be773fccf5c9cdf5a]: Commencement: Sch. 13 para. 44 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e0c7102a71e68999ec85393c8512381e]: Commencement: Sch. 13 para. 45 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e0c7102a71e68999ec85393c8512381e]: Commencement: Sch. 13 para. 45 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-aeea8d678099eed4834f5bbc8485b2ac]: Commencement: Sch. 13 para. 46 in force at 6.4.2016, see s. 56(1)(4)
+[^c-aeea8d678099eed4834f5bbc8485b2ac]: Commencement: Sch. 13 para. 46 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-5c0b489c3e2a9d917e48941dffb14fdb]: Commencement: Sch. 13 para. 47 in force at 6.4.2016, see s. 56(1)(4)
+[^c-5c0b489c3e2a9d917e48941dffb14fdb]: Commencement: Sch. 13 para. 47 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e9f170d1525a5cf05ba111c49a6478f5]: Commencement: Sch. 13 para. 48 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e9f170d1525a5cf05ba111c49a6478f5]: Commencement: Sch. 13 para. 48 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-8e47abe694eb215c4f687534ff726cad]: Commencement: Sch. 13 para. 49 in force at 6.4.2016, see s. 56(1)(4)
+[^c-8e47abe694eb215c4f687534ff726cad]: Commencement: Sch. 13 para. 49 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d5bacfdd65f1e59b79986115463ac9e8]: Commencement: Sch. 13 para. 50 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d5bacfdd65f1e59b79986115463ac9e8]: Commencement: Sch. 13 para. 50 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-9ec56dc333e01883f5417962f5de22d5]: Commencement: Sch. 13 para. 51 in force at 6.4.2016, see s. 56(1)(4)
+[^c-9ec56dc333e01883f5417962f5de22d5]: Commencement: Sch. 13 para. 51 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-318ddc08c020358dacfaba5569105459]: Commencement: Sch. 13 para. 52 in force at 6.4.2016, see s. 56(1)(4)
+[^c-318ddc08c020358dacfaba5569105459]: Commencement: Sch. 13 para. 52 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-cfb979a2aacf82376bc9adc0b79203ec]: Commencement: Sch. 13 para. 53 in force at 6.4.2016, see s. 56(1)(4)
+[^c-cfb979a2aacf82376bc9adc0b79203ec]: Commencement: Sch. 13 para. 53 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-c5bb7212b2da1d12ba992fe1d652c75f]: Commencement: Sch. 13 para. 54 in force at 6.4.2016, see s. 56(1)(4)
+[^c-c5bb7212b2da1d12ba992fe1d652c75f]: Commencement: Sch. 13 para. 54 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-1e5527fe16d74fd132a312527c070321]: Commencement: Sch. 13 para. 55 in force at 6.4.2016, see s. 56(1)(4)
+[^c-1e5527fe16d74fd132a312527c070321]: Commencement: Sch. 13 para. 55 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-f0a26ffe0975e3db94b831479043510c]: Commencement: Sch. 13 para. 56 in force at 6.4.2016, see s. 56(1)(4)
+[^c-f0a26ffe0975e3db94b831479043510c]: Commencement: Sch. 13 para. 56 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-9d5b67d83564af81af193ccdc3a94ec5]: Commencement: Sch. 13 para. 57 in force at 6.4.2016, see s. 56(1)(4)
+[^c-9d5b67d83564af81af193ccdc3a94ec5]: Commencement: Sch. 13 para. 57 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-aeef2fa7bbfae7c1e5f61163d1221c4e]: Commencement: Sch. 13 para. 58 in force at 6.4.2016, see s. 56(1)(4)
+[^c-aeef2fa7bbfae7c1e5f61163d1221c4e]: Commencement: Sch. 13 para. 58 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e4dac434077488ec24c00841e756c256]: Commencement: Sch. 13 para. 59 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e4dac434077488ec24c00841e756c256]: Commencement: Sch. 13 para. 59 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-2d2d9a6ac30e02635b30ee6778522214]: Commencement: Sch. 13 para. 60 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2d2d9a6ac30e02635b30ee6778522214]: Commencement: Sch. 13 para. 60 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-6022d5636e42d73b63d6d6d71e46fe2e]: Commencement: Sch. 13 para. 61 in force at 6.4.2016, see s. 56(1)(4)
+[^c-6022d5636e42d73b63d6d6d71e46fe2e]: Commencement: Sch. 13 para. 61 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-044c76d14b0a44dc4df688fe0bff7302]: Commencement: Sch. 13 para. 62 in force at 6.4.2016, see s. 56(1)(4)
+[^c-044c76d14b0a44dc4df688fe0bff7302]: Commencement: Sch. 13 para. 62 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-f96f569248f54e06f9f471672914eaff]: Commencement: Sch. 13 para. 63 in force at 6.4.2016, see s. 56(1)(4)
+[^c-f96f569248f54e06f9f471672914eaff]: Commencement: Sch. 13 para. 63 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-fda1eb3e4f3423eb5f89cae813060736]: Commencement: Sch. 13 para. 65 in force at 6.4.2016, see s. 56(1)(4)
+[^c-fda1eb3e4f3423eb5f89cae813060736]: Commencement: Sch. 13 para. 65 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-eaf65e3299250b03bafc84793cd6c3b5]: Commencement: Sch. 13 para. 66 in force at 6.4.2016, see s. 56(1)(4)
+[^c-eaf65e3299250b03bafc84793cd6c3b5]: Commencement: Sch. 13 para. 66 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-4e225bd6ee4765d6d59e97452c9e45eb]: Commencement: Sch. 13 para. 67 in force at 6.4.2016, see s. 56(1)(4)
+[^c-4e225bd6ee4765d6d59e97452c9e45eb]: Commencement: Sch. 13 para. 67 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-75cf2953d631e0571fe771b74613e062]: Commencement: Sch. 13 para. 68 in force at 6.4.2016, see s. 56(1)(4)
+[^c-75cf2953d631e0571fe771b74613e062]: Commencement: Sch. 13 para. 68 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-eae372d515528297463bdf12f97bbe63]: Commencement: Sch. 13 para. 69 in force at 6.4.2016, see s. 56(1)(4)
+[^c-eae372d515528297463bdf12f97bbe63]: Commencement: Sch. 13 para. 69 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-ea16a7d6cbab1d238713fb45e8826f4f]: Commencement: Sch. 13 para. 70 in force at 6.4.2016, see s. 56(1)(4)
+[^c-ea16a7d6cbab1d238713fb45e8826f4f]: Commencement: Sch. 13 para. 70 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-7c2f4b0be10add0094aa1fdd30ec56ec]: Commencement: Sch. 13 para. 71 in force at 6.4.2016, see s. 56(1)(4)
+[^c-7c2f4b0be10add0094aa1fdd30ec56ec]: Commencement: Sch. 13 para. 71 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-605862d162e9d17b4f485fdcd76b2426]: Commencement: Sch. 13 para. 72 in force at 6.4.2016, see s. 56(1)(4)
+[^c-605862d162e9d17b4f485fdcd76b2426]: Commencement: Sch. 13 para. 72 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-0c9165fb042cee9f7a0110abe7dcde30]: Commencement: Sch. 13 para. 73 in force at 6.4.2016, see s. 56(1)(4)
+[^c-0c9165fb042cee9f7a0110abe7dcde30]: Commencement: Sch. 13 para. 73 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-4dee6e7653b8b7fed65fa681c91cbff9]: Commencement: Sch. 13 para. 74 in force at 6.4.2016, see s. 56(1)(4)
+[^c-4dee6e7653b8b7fed65fa681c91cbff9]: Commencement: Sch. 13 para. 74 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-244a31a8cd4b48245d1ca6290bb63d31]: Commencement: Sch. 13 para. 75 in force at 6.4.2016, see s. 56(1)(4)
+[^c-244a31a8cd4b48245d1ca6290bb63d31]: Commencement: Sch. 13 para. 75 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-1dc351c4ecdfc778eee5434a1953d08d]: Commencement: Sch. 13 para. 76 in force at 6.4.2016, see s. 56(1)(4)
+[^c-1dc351c4ecdfc778eee5434a1953d08d]: Commencement: Sch. 13 para. 76 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d139bdbc404e92f657c08b6ef29f576d]: Commencement: Sch. 13 para. 77 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d139bdbc404e92f657c08b6ef29f576d]: Commencement: Sch. 13 para. 77 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-2fd50155fa7dfdf61890bf19b459d863]: Commencement: Sch. 13 para. 78 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2fd50155fa7dfdf61890bf19b459d863]: Commencement: Sch. 13 para. 78 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-4782d1f478521f6dd8da3c50bc2e58d3]: Commencement: Sch. 13 para. 79 in force at 6.4.2016, see s. 56(1)(4)
+[^c-4782d1f478521f6dd8da3c50bc2e58d3]: Commencement: Sch. 13 para. 79 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-a60fdc79cdef11097826a2d6bd98f66d]: Commencement: Sch. 13 para. 80 in force at 6.4.2016, see s. 56(1)(4)
+[^c-a60fdc79cdef11097826a2d6bd98f66d]: Commencement: Sch. 13 para. 80 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-30720ab143dc7038ca94a19faf531979]: Commencement: Sch. 13 para. 81 in force at 6.4.2016, see s. 56(1)(4)
+[^c-30720ab143dc7038ca94a19faf531979]: Commencement: Sch. 13 para. 81 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-b3772a95d437a1c501be9e014602b354]: Commencement: Sch. 13 para. 82 in force at 6.4.2016, see s. 56(1)(4)
+[^c-b3772a95d437a1c501be9e014602b354]: Commencement: Sch. 13 para. 82 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-07151ccbbd188dc3c19a85ae60b44c3f]: Commencement: Sch. 13 para. 83 in force at 6.4.2016, see s. 56(1)(4)
+[^c-07151ccbbd188dc3c19a85ae60b44c3f]: Commencement: Sch. 13 para. 83 in force at 6.4.2016, see s. 56(1)(4)

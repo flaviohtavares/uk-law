@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 537. Payments in return for capital contribution to partnership[^key-2e9870acc84e9e778ec77ab67b4f0983]
+## 537. Payments in return for capital contribution to partnership[^c-2e9870acc84e9e778ec77ab67b4f0983]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e9870acc84e9e778ec77ab67b4f0983]: Textual amendment: Pt. 6 Ch. 8 omitted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 paras. 8(c)(ii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/8/c/ii), [12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)
+[^c-2e9870acc84e9e778ec77ab67b4f0983]: Textual amendment: Pt. 6 Ch. 8 omitted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 paras. 8(c)(ii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/8/c/ii), [12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)

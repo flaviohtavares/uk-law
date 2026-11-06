@@ -44,13 +44,13 @@ The Department of Health[^f00001], in conjunction with the Department of Finance
 
 In accordance with Article 61(4) of that Order, the Department has consulted with such organisations as appear to be representative of the dental profession.
 
-## 1. Citation, commencement and interpretation[^key-eeb31125579fc807cf06ab8bc6e4c7db]
+## 1. Citation, commencement and interpretation[^c-eeb31125579fc807cf06ab8bc6e4c7db]
 
 (1) These Regulations may be cited as the General Dental Services (Amendment) Regulations (Northern Ireland) 2022 and shall come into operation on 25th November 2022.
 
 (2) In these Regulations, “**the principal Regulations**” means the Health and Personal Social Services General Dental Services Regulations (Northern Ireland) 1993[^f00004].
 
-## 2. Amendment of the principal Regulations[^key-e6f5f52f0dc9afdee385efce158b516a]
+## 2. Amendment of the principal Regulations[^c-e6f5f52f0dc9afdee385efce158b516a]
 
 (1) The principal Regulations are amended in accordance with paragraphs (2) to (5)—
 
@@ -149,11 +149,11 @@ Regulation 2(5) amends Schedule 5 to the principal Regulations to allow the prio
 
 [^f00003]: Footnote: [2022 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2022/3)
 
-[^key-eeb31125579fc807cf06ab8bc6e4c7db]: Commencement: Reg. 1 in operation at 25.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/276/regulation/1/1)
+[^c-eeb31125579fc807cf06ab8bc6e4c7db]: Commencement: Reg. 1 in operation at 25.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/276/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1993 No. 326](https://www.legislation.gov.uk/nisr/1993/326): relevant amending Regulations are [S.R. 1993 No. 401](https://www.legislation.gov.uk/nisr/1993/401), [1998 No. 245](https://www.legislation.gov.uk/nisr/1998/245), [1999 No.100](https://www.legislation.gov.uk/nisr/1999/100), [2003 No. 325](https://www.legislation.gov.uk/nisr/2003/325), [S.R. 2007 No. 292](https://www.legislation.gov.uk/nisr/2007/292), [2014 No. 267](https://www.legislation.gov.uk/nisr/2014/267), [2017 No.10](https://www.legislation.gov.uk/nisr/2017/10) and [2022 No.104](https://www.legislation.gov.uk/nisr/2022/104)
 
-[^key-e6f5f52f0dc9afdee385efce158b516a]: Commencement: Reg. 2 in operation at 25.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/276/regulation/1/1)
+[^c-e6f5f52f0dc9afdee385efce158b516a]: Commencement: Reg. 2 in operation at 25.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/276/regulation/1/1)
 
 [^f00005]: Footnote: )Regulation 5A was inserted by reg. 4 of [S.R. 1993 No. 401](https://www.legislation.gov.uk/nisr/1993/401) and substituted by reg. 2(4) of [S.R. 2017 No. 10](https://www.legislation.gov.uk/nisr/2017/10). Regulation 5A was previously amended by regulation 4 of [S.R. 1998 No. 245](https://www.legislation.gov.uk/nisr/1998/245) and regulation 5(3) of [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 

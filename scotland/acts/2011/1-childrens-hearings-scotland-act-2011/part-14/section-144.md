@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 144. Implementation of compulsory supervision order: general duties of implementation authority[^key-235419851c1983a3634dd1ef93ec1ffe][^key-3c6736c596c3190bd3693e72b9a332ef]
+## 144. Implementation of compulsory supervision order: general duties of implementation authority[^c-235419851c1983a3634dd1ef93ec1ffe][^c-3c6736c596c3190bd3693e72b9a332ef]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-235419851c1983a3634dd1ef93ec1ffe]: Commencement: S. 144 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-235419851c1983a3634dd1ef93ec1ffe]: Commencement: S. 144 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-3c6736c596c3190bd3693e72b9a332ef]: Modification: [S. 144](https://www.legislation.gov.uk/asp/2011/1/section/144) modified (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(4)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/4) (as amended (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 27(2)(b)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/27/2/b); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/f))
+[^c-3c6736c596c3190bd3693e72b9a332ef]: Modification: [S. 144](https://www.legislation.gov.uk/asp/2011/1/section/144) modified (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(4)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/4) (as amended (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 27(2)(b)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/27/2/b); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/f))

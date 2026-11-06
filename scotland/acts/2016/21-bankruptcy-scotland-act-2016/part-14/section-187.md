@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 187. Electronic delivery of notices etc. under this Part[^key-c2c16b943ab1cfe666c163143d309ae6]
+## 187. Electronic delivery of notices etc. under this Part[^c-c2c16b943ab1cfe666c163143d309ae6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2c16b943ab1cfe666c163143d309ae6]: Textual amendment: [S. 187](https://www.legislation.gov.uk/asp/2016/21/section/187) repealed (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 19(3)](https://www.legislation.gov.uk/asp/2022/8/section/19/3), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-c2c16b943ab1cfe666c163143d309ae6]: Textual amendment: [S. 187](https://www.legislation.gov.uk/asp/2016/21/section/187) repealed (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 19(3)](https://www.legislation.gov.uk/asp/2022/8/section/19/3), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

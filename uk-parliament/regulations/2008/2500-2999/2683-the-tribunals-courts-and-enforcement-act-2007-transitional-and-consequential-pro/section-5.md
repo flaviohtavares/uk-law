@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transitional provision[^key-74392ea87bd47780483515002aef78fa]
+## 5. Transitional provision[^c-74392ea87bd47780483515002aef78fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Where an appeal lies to the High Court under regulation 12 of the Road Traffic (
 
 ## Annotations
 
-[^key-74392ea87bd47780483515002aef78fa]: Commencement: Art. 5 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)
+[^c-74392ea87bd47780483515002aef78fa]: Commencement: Art. 5 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)
 
 [^f00013]: Footnote: [S.I. 1999/786](https://www.legislation.gov.uk/uksi/1999/786).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 288. Proceedings other than special administration commenced[^key-1b060131d2223bd97dd44981a371a89f]
+## 288. Proceedings other than special administration commenced[^c-1b060131d2223bd97dd44981a371a89f]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b060131d2223bd97dd44981a371a89f]: Commencement: Rule 288 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-1b060131d2223bd97dd44981a371a89f]: Commencement: Rule 288 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

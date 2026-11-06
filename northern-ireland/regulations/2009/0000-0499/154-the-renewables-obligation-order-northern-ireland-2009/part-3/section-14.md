@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Matters to be certified by NIROCs[^key-4ebd3d73c14e786591ef34dec5434749]
+## 14. Matters to be certified by NIROCs[^c-4ebd3d73c14e786591ef34dec5434749]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a NIROC does not certify the matters within Article 54(3) of the Energy Or
 
 ## Annotations
 
-[^key-4ebd3d73c14e786591ef34dec5434749]: Commencement: Art. 14 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-4ebd3d73c14e786591ef34dec5434749]: Commencement: Art. 14 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

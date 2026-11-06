@@ -59,7 +59,7 @@ In section 79H of that Act (suspension of registration), after subsection (2) th
 
 (3) In subsection (2)(a), after “order” there is inserted “ or determination ”.
 
-### 4. Inspections by Chief Inspector[^c381791][^key-43ab5ee34f74d373726a9f49fd3d08a9]
+### 4. Inspections by Chief Inspector[^c381791][^c-43ab5ee34f74d373726a9f49fd3d08a9]
 
 (1) Section 79Q of that Act (inspection of childminding and day care) is amended as follows.
 
@@ -97,11 +97,11 @@ In paragraph 4 of Schedule 9A to that Act (disqualification for registration for
 > - (a) he has disclosed the fact to the registration authority, and
 > - (b) the registration authority has consented in writing to his registration and has not withdrawn that consent.
 
-### 7. Disclosure of criminal record[^key-1f981d78393223e06e33211047d2abdb]
+### 7. Disclosure of criminal record[^c-1f981d78393223e06e33211047d2abdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-3cfef2c120e6ed0c1394315343e56a2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3cfef2c120e6ed0c1394315343e56a2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -113,12 +113,12 @@ In paragraph 4 of Schedule 9A to that Act (disqualification for registration for
 
 [^c381791]: Commencement: Sch. 13 para. 4 in force at 2.9.2002 for E. by [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), [art. 4](https://www.legislation.gov.uk/uksi/2002/2002/article/4)
 
-[^key-43ab5ee34f74d373726a9f49fd3d08a9]: Commencement: Sch. 13 para. 4 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-43ab5ee34f74d373726a9f49fd3d08a9]: Commencement: Sch. 13 para. 4 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c381794]: Commencement: Sch. 13 para. 5 wholly in force at 19.12.2002; Sch. 13 para. 5 not in force at Royal Assent, see s. 216; Sch. 13 para. 5 in force for E. at 2.9.2002 by [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), [art. 4](https://www.legislation.gov.uk/uksi/2002/2002/article/4); Sch. 13 para. 5 in force for W. at 19.12.2002 by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 4](https://www.legislation.gov.uk/uksi/2002/3185/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/I)
 
 [^c392428]: Commencement: Sch. 13 para. 6 wholly in force at 19.12.2002; Sch. 13 para. 6 not in force at Royal Assent, see s. 216; Sch. 13 para. 6 in force for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule)) and in force for W. at 19.12.2002 by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 4](https://www.legislation.gov.uk/uksi/2002/3185/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/I)
 
-[^key-1f981d78393223e06e33211047d2abdb]: Textual amendment: Sch. 13 para. 7 repealed (6.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 7(f)](https://www.legislation.gov.uk/uksi/2006/378/article/7/f)
+[^c-1f981d78393223e06e33211047d2abdb]: Textual amendment: Sch. 13 para. 7 repealed (6.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 7(f)](https://www.legislation.gov.uk/uksi/2006/378/article/7/f)
 
-[^key-3cfef2c120e6ed0c1394315343e56a2a]: Textual amendment: Sch. 13 para. 8 repealed (6.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 7(f)](https://www.legislation.gov.uk/uksi/2006/378/article/7/f)
+[^c-3cfef2c120e6ed0c1394315343e56a2a]: Textual amendment: Sch. 13 para. 8 repealed (6.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 7(f)](https://www.legislation.gov.uk/uksi/2006/378/article/7/f)

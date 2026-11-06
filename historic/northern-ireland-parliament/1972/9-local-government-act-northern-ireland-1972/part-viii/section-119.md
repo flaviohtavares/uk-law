@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119. Evidence of resolutions, etc.[^key-778c2286b18a8907ed674ed86a63867c]
+## 119. Evidence of resolutions, etc.[^c-778c2286b18a8907ed674ed86a63867c]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ shall be evidence of the facts stated in the certificate and that in the case of
 
 ## Annotations
 
-[^key-778c2286b18a8907ed674ed86a63867c]: Modification: [S. 119](https://www.legislation.gov.uk/apni/1972/9/section/119) applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2013/179/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2013/179/schedule/2)
+[^c-778c2286b18a8907ed674ed86a63867c]: Modification: [S. 119](https://www.legislation.gov.uk/apni/1972/9/section/119) applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2013/179/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2013/179/schedule/2)

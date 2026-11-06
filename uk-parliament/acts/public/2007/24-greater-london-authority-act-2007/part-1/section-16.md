@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Exercise of Mayor's functions when temporarily unable to act[^key-8f6b4606696e85f0ccd0aba87bff51f6]
+## 16. Exercise of Mayor's functions when temporarily unable to act[^c-8f6b4606696e85f0ccd0aba87bff51f6]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f6b4606696e85f0ccd0aba87bff51f6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2007/24/section/16) in force at 30.10.2007 by [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/b)
+[^c-8f6b4606696e85f0ccd0aba87bff51f6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2007/24/section/16) in force at 30.10.2007 by [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/b)

@@ -35,28 +35,28 @@ adapting Regulation (EC) No 437/2003 of the European Parliament and of the Counc
 
 (Text with EEA relevance) (revoked)
 
-[^key-0bb579cd15afb178cdf544cdeada557e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bb579cd15afb178cdf544cdeada557e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-0bb579cd15afb178cdf544cdeada557e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0bb579cd15afb178cdf544cdeada557e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0bb579cd15afb178cdf544cdeada557e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0bb579cd15afb178cdf544cdeada557e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-0bb579cd15afb178cdf544cdeada557e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-0bb579cd15afb178cdf544cdeada557e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0bb579cd15afb178cdf544cdeada557e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bb579cd15afb178cdf544cdeada557e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-0bb579cd15afb178cdf544cdeada557e]
+## ANNEX I[^c-0bb579cd15afb178cdf544cdeada557e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-0bb579cd15afb178cdf544cdeada557e]
+## ANNEX II[^c-0bb579cd15afb178cdf544cdeada557e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0bb579cd15afb178cdf544cdeada557e]: Textual amendment: Regulation revoked (22.11.2023) by [The Aviation Statistics Regulations 2023 (S.I. 2023/1074)](https://www.legislation.gov.uk/uksi/2023/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/11/c)
+[^c-0bb579cd15afb178cdf544cdeada557e]: Textual amendment: Regulation revoked (22.11.2023) by [The Aviation Statistics Regulations 2023 (S.I. 2023/1074)](https://www.legislation.gov.uk/uksi/2023/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2023/1074/regulation/11/c)

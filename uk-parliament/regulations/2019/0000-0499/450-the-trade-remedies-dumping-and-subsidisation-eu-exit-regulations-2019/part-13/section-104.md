@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Modifications to Part 6[^key-260556fc3cfa731417de20db06ed0a2b]
+## 104. Modifications to Part 6[^c-260556fc3cfa731417de20db06ed0a2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 40 (general provisions) has effect as if, in paragraphs (1) and (2)(c
 
 ## Annotations
 
-[^key-260556fc3cfa731417de20db06ed0a2b]: Commencement: Reg. 104 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-260556fc3cfa731417de20db06ed0a2b]: Commencement: Reg. 104 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

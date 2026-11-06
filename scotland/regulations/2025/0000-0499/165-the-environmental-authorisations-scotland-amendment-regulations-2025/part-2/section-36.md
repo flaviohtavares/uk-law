@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Amendment of schedule 2 (off-site conditions)[^key-49678660d90cfca8576e3e816c0e05a5]
+## 36. Amendment of schedule 2 (off-site conditions)[^c-49678660d90cfca8576e3e816c0e05a5]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In schedule 2 (off-site conditions)—
 
 ## Annotations
 
-[^key-49678660d90cfca8576e3e816c0e05a5]: Commencement: Reg. 36 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-49678660d90cfca8576e3e816c0e05a5]: Commencement: Reg. 36 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

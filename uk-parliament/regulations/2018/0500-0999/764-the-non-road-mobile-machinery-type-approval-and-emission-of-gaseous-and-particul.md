@@ -63,7 +63,7 @@ These Regulations—
 (1) In these Regulations—
 
 - “**enforcement authority**” means the Secretary of State;
-- “[^key-ebcd704c7109c2a38113c627a07ea612]**EU NRMM Regulation**” means the NRMM Regulation as that Regulation has effect in EU law;
+- “[^c-ebcd704c7109c2a38113c627a07ea612]**EU NRMM Regulation**” means the NRMM Regulation as that Regulation has effect in EU law;
 - “**the NRMM Regulation**” means Regulation (EU) 2016/1628 of the European Parliament and of the Council on requirements relating to gaseous and particulate pollutant emission limits and type-approval for internal combustion engines for non-road mobile machinery, as it may be amended from time to time;
 - “**relevant products**” means—
   - (a) engines;
@@ -174,7 +174,7 @@ the statement or marking is invalid.
 
 (2) The approval authority may, by notice given to the holder, exempt from paragraph (1) one or more engine types within an engine family specified in the notice.
 
-## 10A. Products approved in member States or in Northern Ireland[^key-e01081d77e866f2c32277f8b9222d433]
+## 10A. Products approved in member States or in Northern Ireland[^c-e01081d77e866f2c32277f8b9222d433]
 
 (1) Paragraphs (2) to (4) apply notwithstanding anything in these Regulations or the NRMM Regulation.
 
@@ -197,7 +197,7 @@ the statement or marking is invalid.
 
   and includes any such approval which is revised or extended.;
 
-## 10B. Provisional type-approvals[^key-b5585a01cc6fc66231e45ea65edffbd5]
+## 10B. Provisional type-approvals[^c-b5585a01cc6fc66231e45ea65edffbd5]
 
 (1) Where the approval authority is satisfied on application made to it by the manufacturer of a qualifying relevant product—
 
@@ -697,13 +697,13 @@ The net costs imposed on business, the voluntary sector and the public sector by
 
 [^c23325251]: Marginal citation: OJ No L 252, 16.9.2016, p. 53.
 
-[^key-ebcd704c7109c2a38113c627a07ea612]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/764/regulation/2/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/10/2)
+[^c-ebcd704c7109c2a38113c627a07ea612]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/764/regulation/2/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/10/2)
 
 [^c23325261]: Marginal citation: OJ No L 218, 13.8.2008, p.30.
 
-[^key-e01081d77e866f2c32277f8b9222d433]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2018/764/regulation/10A) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/10/3)
+[^c-e01081d77e866f2c32277f8b9222d433]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2018/764/regulation/10A) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/10/3)
 
-[^key-b5585a01cc6fc66231e45ea65edffbd5]: Textual amendment: [Reg. 10B](https://www.legislation.gov.uk/uksi/2018/764/regulation/10B) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/10/4)
+[^c-b5585a01cc6fc66231e45ea65edffbd5]: Textual amendment: [Reg. 10B](https://www.legislation.gov.uk/uksi/2018/764/regulation/10B) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/10/4)
 
 [^c23325271]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 

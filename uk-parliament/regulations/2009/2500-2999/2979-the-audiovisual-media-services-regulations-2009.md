@@ -714,7 +714,7 @@ In section 362(1) of the 2003 Act (expressions used in Part 3 of that Act) omit 
 
 In section 405(1) of the 2003 Act (general interpretation)—
 
-- (a)[^key-a6ac14ac326ffae78ab29de0ff50fa03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a6ac14ac326ffae78ab29de0ff50fa03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after the definition of “OFCOM” insert—
 
   > “**on-demand programme service**” has the meaning given by section 368A(1);
@@ -800,7 +800,7 @@ In section 405(1) of the 2003 Act (general interpretation)—
 
 (5) Section 115 (general interpretation) is amended as follows.
 
-(6)[^key-c544d8ead9d782076e29c2dcf061d455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c544d8ead9d782076e29c2dcf061d455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) After the definition of “receiving apparatus” insert—
 
@@ -855,7 +855,7 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^c21237471]: Marginal citation: [2002 c. 36](https://www.legislation.gov.uk/ukpga/2002/36).
 
-[^key-a6ac14ac326ffae78ab29de0ff50fa03]: Textual amendment: [Reg. 11(a)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/11/a) omitted (1.10.2013) by virtue of [The Broadcasting and Communications (Amendment) Regulations 2013 (S.I. 2013/2217)](https://www.legislation.gov.uk/uksi/2013/2217), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2217/regulation/2/2)
+[^c-a6ac14ac326ffae78ab29de0ff50fa03]: Textual amendment: [Reg. 11(a)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/11/a) omitted (1.10.2013) by virtue of [The Broadcasting and Communications (Amendment) Regulations 2013 (S.I. 2013/2217)](https://www.legislation.gov.uk/uksi/2013/2217), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2217/regulation/2/2)
 
 [^c19941711]: Marginal citation: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48)
 
@@ -863,6 +863,6 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^c21237481]: Marginal citation: [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55).
 
-[^key-c544d8ead9d782076e29c2dcf061d455]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/13/6) omitted (1.10.2013) by virtue of [The Broadcasting and Communications (Amendment) Regulations 2013 (S.I. 2013/2217)](https://www.legislation.gov.uk/uksi/2013/2217), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2217/regulation/2/3)
+[^c-c544d8ead9d782076e29c2dcf061d455]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/13/6) omitted (1.10.2013) by virtue of [The Broadcasting and Communications (Amendment) Regulations 2013 (S.I. 2013/2217)](https://www.legislation.gov.uk/uksi/2013/2217), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2217/regulation/2/3)
 
 [^c19941731]: Marginal citation: Directive 2007/65 EC OJ No L 332, 18.12.2007, p.27 amending Directive 89/552/EEC OJ No L 298, 17.10.1989, p.23 as amended by Directive 97/36/EC OJ No L 202, 30.7.1997, p.60

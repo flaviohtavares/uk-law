@@ -24,25 +24,25 @@ Article 3(2)
 
 ### PART 1 — Primary Legislation
 
-#### 1. Police (Property) Act 1897[^key-bd92919125f00f86cba086cd2bfa9eb7]
+#### 1. Police (Property) Act 1897[^c-bd92919125f00f86cba086cd2bfa9eb7]
 
 (1) The Police (Property) Act 1897[^f00019] is modified as follows.
 
 (2) In section 2(2A), for the last reference to “relevant body” substitute “combined authority”.
 
-#### 2. Trustee Investments Act 1961[^key-b759baec6b0d12373588d7157d8936ed]
+#### 2. Trustee Investments Act 1961[^c-b759baec6b0d12373588d7157d8936ed]
 
 (1) The Trustee Investments Act 1961[^f00020] is modified as follows.
 
 (2) In paragraph 9 of Part 2 of Schedule 1, for “similar officer of the authority” substitute “similar officer of the combined authority deployed wholly or partly in relation to the PCC functions of the mayor”.
 
-#### 3. Pensions (Increase) Act 1971[^key-5e01496cbf04058835b6c02e658a4e47]
+#### 3. Pensions (Increase) Act 1971[^c-5e01496cbf04058835b6c02e658a4e47]
 
 (1) The Pensions (Increase) Act 1971[^f00021] is modified as follows.
 
 (2) In paragraph 51(aa) of Schedule 2, for “a police and crime commissioner” substitute “the police and crime commissioner for Greater Manchester or of the combined authority deployed wholly or partly in relation to the mayor’s PCC functions”.
 
-#### 4. Local Government (Miscellaneous Provisions) Act 1976[^key-8ca48d3cc639e59cb288721c41f78c3d]
+#### 4. Local Government (Miscellaneous Provisions) Act 1976[^c-8ca48d3cc639e59cb288721c41f78c3d]
 
 (1) The Local Government (Miscellaneous Provisions) Act 1976[^f00022] is modified as follows.
 
@@ -52,7 +52,7 @@ Article 3(2)
 
 (4) In section 44(1), in paragraph (a)[^f00025] of the definition of “local authority”, for “13 to 16, 29, 30, 38, 39 and 41” substitute “13, 14, 16, 29 and 38”.
 
-#### 5. Local Government, Planning and Land Act 1980[^key-37b0660b44928c11560508546cf14ef6]
+#### 5. Local Government, Planning and Land Act 1980[^c-37b0660b44928c11560508546cf14ef6]
 
 (1) The Local Government, Planning and Land Act 1980[^f00026] is modified as follows.
 
@@ -67,13 +67,13 @@ Article 3(2)
   - (i) in paragraph (dbzb) after “that Act”, insert “or (as the case may be) the mayor”[^f00027];
   - (ii) omit paragraph (dc)[^f00028].
 
-#### 6. Dartford-Thurrock Crossing Act 1988[^key-e1006b1b3e5c615fa81feeaa05bcd7e1]
+#### 6. Dartford-Thurrock Crossing Act 1988[^c-e1006b1b3e5c615fa81feeaa05bcd7e1]
 
 (1) The Dartford-Thurrock Crossing Act 1988[^f00029] is modified as follows.
 
 (2) In section 19(a)(i), for “a local policing body” substitute “the combined authority for use in relation to the exercise of the mayor’s PCC functions”.
 
-#### 7. Local Government Finance Act 1988[^key-46b698fb8a9d5744bc2e22c959e1a55e]
+#### 7. Local Government Finance Act 1988[^c-46b698fb8a9d5744bc2e22c959e1a55e]
 
 (1) The Local Government Finance Act 1988[^f00030] is modified as follows.
 
@@ -98,7 +98,7 @@ Article 3(2)
 
 .
 
-#### 8. Road Traffic Act 1988[^key-d88d02761c3edaf253eec4a65d8d106a]
+#### 8. Road Traffic Act 1988[^c-d88d02761c3edaf253eec4a65d8d106a]
 
 (1) The Road Traffic Act 1988[^f00036] is modified as follows.
 
@@ -107,7 +107,7 @@ Article 3(2)
 - (a) for “a local policing body” substitute “the combined authority for use in relation to the mayor’s PCC functions”;
 - (b) for “a police and crime commissioner’s staff (within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011)” substitute “the combined authority’s staff deployed wholly or partly in relation to the mayor’s PCC functions”.
 
-#### 9. Local Government and Housing Act 1989[^key-c3a34f3f00016ebb96cebecb80e5862e]
+#### 9. Local Government and Housing Act 1989[^c-c3a34f3f00016ebb96cebecb80e5862e]
 
 (1) The Local Government and Housing Act 1989[^f00037] is modified as follows.
 
@@ -146,7 +146,7 @@ Article 3(2)
 
 (6) Omit section 13(5ZA)[^f00049].
 
-#### 10. Police Act 1996[^key-befda8cd83997c332f7c0fb1c8fd6674]
+#### 10. Police Act 1996[^c-befda8cd83997c332f7c0fb1c8fd6674]
 
 (1) The Police Act 1996 Act[^f00050] is modified as follows.
 
@@ -154,7 +154,7 @@ Article 3(2)
 
 (3) In section 41[^f00052]—
 
-- (a) in subsection (1), for “commissioner’s council tax requirement (under section 42A of the Local Government Finance Act 1992) or budget requirement (under section 43 of that Act)” substitute “PCC component council tax requirement[^key-56f047b55fe140ebdd35f52c1c7044df]”;
+- (a) in subsection (1), for “commissioner’s council tax requirement (under section 42A of the Local Government Finance Act 1992) or budget requirement (under section 43 of that Act)” substitute “PCC component council tax requirement[^c-56f047b55fe140ebdd35f52c1c7044df]”;
 - (b) in subsection (4), for “precept issued or calculation made by the commissioner under Part 1 of the Local Government and Finance Act 1992”, substitute “determination by the mayor of the final amount of the PCC component”.
 
 (4) In section 53E[^f00053]—
@@ -171,7 +171,7 @@ Article 3(2)
 
 (7) In section 96(1B)[^f00058], for “precept for a financial year is issued by the police and crime commissioner under section 40 of the Local Government Finance Act 1992” substitute “PCC component is determined by the mayor”.
 
-#### 11. Police Reform Act 2002[^key-3332237fc8633243618c16eae01f239d]
+#### 11. Police Reform Act 2002[^c-3332237fc8633243618c16eae01f239d]
 
 (1) The Police Reform Act 2002 Act[^f00059] is modified as follows.
 
@@ -183,7 +183,7 @@ Article 3(2)
 - (b) for the second reference to “local policing body” substitute “combined authority”;
 - (c) for “or body” substitute “or authority”.
 
-#### 12. Proceeds of Crime Act 2002[^key-24aaf1c5e5341e6257239b59441586d4]
+#### 12. Proceeds of Crime Act 2002[^c-24aaf1c5e5341e6257239b59441586d4]
 
 (1) The Proceeds of Crime Act 2002[^f00062] is modified as follows.
 
@@ -193,7 +193,7 @@ Article 3(2)
 
 .
 
-#### 13. Local Government Act 2003[^key-06051acc2f77559d55a2b7c74cb5c8d6]
+#### 13. Local Government Act 2003[^c-06051acc2f77559d55a2b7c74cb5c8d6]
 
 (1) The Local Government Act 2003[^f00063] is modified as follows.
 
@@ -202,7 +202,7 @@ Article 3(2)
 - (a) in subsection (1)(a), for “its part”, substitute “the part of the combined authority”;
 - (b) in subsection (2), for “on the part of the authority”, substitute “on the part of the combined authority”.
 
-#### 14. Railways and Transport Safety Act 2003[^key-644d9d74e4fd78e2de0586c1d15ac675]
+#### 14. Railways and Transport Safety Act 2003[^c-644d9d74e4fd78e2de0586c1d15ac675]
 
 (1) The Railways and Transport Safety Act 2003[^f00064] is modified as follows.
 
@@ -212,7 +212,7 @@ Article 3(2)
 
 .
 
-#### 15. Local Government and Public Involvement in Health Act 2007[^key-36ff63fbaa4dcd74f7179bbc52bb6cf1]
+#### 15. Local Government and Public Involvement in Health Act 2007[^c-36ff63fbaa4dcd74f7179bbc52bb6cf1]
 
 (1) The Local Government and Public Involvement in Health Act 2007[^f00065] is modified as follows.
 
@@ -222,31 +222,31 @@ Article 3(2)
 
 .
 
-#### 16. Local Democracy, Economic Development and Construction Act 2009[^key-fa57363ae494a5a6777cbed94d0db38a]
+#### 16. Local Democracy, Economic Development and Construction Act 2009[^c-fa57363ae494a5a6777cbed94d0db38a]
 
 (1) The 2009 Act is modified as follows.
 
 (2) In paragraph 9(1)(a) of Schedule 5B[^f00066], for “or deputy mayor” substitute “, deputy mayor or deputy mayor for policing and crime”.
 
-#### 17. Police Reform and Social Responsibility Act 2011[^key-d70fd83bfedb61f53c54c0c4e8db2b31]
+#### 17. Police Reform and Social Responsibility Act 2011[^c-d70fd83bfedb61f53c54c0c4e8db2b31]
 
 The 2011 Act is modified as follows.
 
-**18.**[^key-0ca2af5f9ed8d275e89826fa6eff148f] In section 5[^f00067]—
+**18.**[^c-0ca2af5f9ed8d275e89826fa6eff148f] In section 5[^f00067]—
 
 - (a) in subsection (1), for “ordinary election” substitute “election for the return of a mayor”;
 - (b) in subsection (13)—
   - (i) in the definition of “financial year”, for “year of the police and crime commissioner” substitute “year of the combined authority”;
   - (ii) omit the definition of “ordinary election”.
 
-**19.**[^key-b286082df43c7de578c0ac48cef1aaa3] In section 7(7)[^f00068]—
+**19.**[^c-b286082df43c7de578c0ac48cef1aaa3] In section 7(7)[^f00068]—
 
 - (a) in the definition of “financial year”, for “year of the elected local policing body” substitute “year of the combined authority”
 - (b) omit the definition of “ordinary election”;
 - (c) in the definition of “planning period” for “ordinary election” substitute “election for the return of a mayor”;
 - (d) in the definition of “qualifying day” for “ordinary election” substitute “election for the return of a mayor”.
 
-**20.**[^key-3e0aa30687af8cedf08ebfe93bba2615] In section 16—
+**20.**[^c-3e0aa30687af8cedf08ebfe93bba2615] In section 16—
 
 - (a) for subsection (1), substitute—
 
@@ -260,13 +260,13 @@ The 2011 Act is modified as follows.
   ;
 - (b) in subsection (2), for “the body” substitute “the combined authority”.
 
-**21.**[^key-5ed6d283bd80a243bc51358d343f4d71] In section 18[^f00069]—
+**21.**[^c-5ed6d283bd80a243bc51358d343f4d71] In section 18[^f00069]—
 
 - (a) for each reference to “deputy police and crime commissioner” substitute “deputy mayor for policing and crime”;
 
 *Extent: E*
 
-- (aa)[^key-ab064dff062649c7605b30ec91c2a76a] for subsection (1) substitute—
+- (aa)[^c-ab064dff062649c7605b30ec91c2a76a] for subsection (1) substitute—
 
   > (1) The mayor must—
   >
@@ -286,7 +286,7 @@ The 2011 Act is modified as follows.
 - (c) in subsection (7)—
   - (i) for paragraph (f), substitute—
 
-    > - (f) calculating the PCC component council tax requirement[^key-70dec958c6b82dd9efe8507bdd05a04c].
+    > - (f) calculating the PCC component council tax requirement[^c-70dec958c6b82dd9efe8507bdd05a04c].
 
     ;
   - (ii) omit paragraphs (g) and (h)[^f00070];
@@ -296,18 +296,18 @@ The 2011 Act is modified as follows.
 
     .
 
-**22.**[^key-be1fb4b70a4e399e9c005dd6db4c5490] In section 21, after subsection (3) insert—
+**22.**[^c-be1fb4b70a4e399e9c005dd6db4c5490] In section 21, after subsection (3) insert—
 
 > (3A) Expenditure may be paid out of the police fund only if, and to the extent that, it is incurred in or otherwise relates to, the exercise of the mayor’s PCC functions.
 
 .
 
-**23.**[^key-5e0355b1366d979c0813284be7477340] In section 28—
+**23.**[^c-5e0355b1366d979c0813284be7477340] In section 28—
 
 - (a) omit subsections (1A) and (1B)[^f00071];
 - (b) in subsection (6)(a), after “police and crime commissioner” insert “, the deputy mayor for policing and crime and any other person who exercises any function of the mayor pursuant to arrangements made under section 18”.
 
-**24.**[^key-98c4dd8db67c91974e98fa27723f2f7f] In section 29—
+**24.**[^c-98c4dd8db67c91974e98fa27723f2f7f] In section 29—
 
 - (a) for subsection (1), substitute—
 
@@ -337,7 +337,7 @@ The 2011 Act is modified as follows.
   ;
 - (d) in subsection (6), after “commissioner” insert “or “the deputy mayor for policing and crime”.
 
-**25.**[^key-69bed4612488cb77749e075349096b64] In section 30—
+**25.**[^c-69bed4612488cb77749e075349096b64] In section 30—
 
 - (a) in subsection (1), for “relevant police and crime commissioner” substitute “the mayor so far as acting in the exercise of PCC functions”;
 - (b) for subsection (3), substitute—
@@ -346,13 +346,13 @@ The 2011 Act is modified as follows.
 
   .
 
-**26.**[^key-6b27cc7004737a40203bb7e8f34792eb] In subsection 31(3), for paragraphs (b) to (d) substitute—
+**26.**[^c-6b27cc7004737a40203bb7e8f34792eb] In subsection 31(3), for paragraphs (b) to (d) substitute—
 
 > - (b) deputy mayor for policing and crime.
 
 .
 
-**27.**[^key-822208e61761fce3e2b36962c282f2c4] In section 62—
+**27.**[^c-822208e61761fce3e2b36962c282f2c4] In section 62—
 
 - (a) for subsection (1), substitute—
 
@@ -377,7 +377,7 @@ The 2011 Act is modified as follows.
   - (ii) omit “(6)(c) or”;
 - (h) omit subsection (8).
 
-**28.**[^key-5977a66d483558ce5a22fa162cfff987] For section 63, substitute—
+**28.**[^c-5977a66d483558ce5a22fa162cfff987] For section 63, substitute—
 
 > (1) Subsection (2) applies where—
 >
@@ -391,7 +391,7 @@ The 2011 Act is modified as follows.
 
 .
 
-**29.**[^key-88655f6fc267f927591267cfef03d7c4] For section 64(3) to (4A)[^f00072], substitute—
+**29.**[^c-88655f6fc267f927591267cfef03d7c4] For section 64(3) to (4A)[^f00072], substitute—
 
 > (3) A person is disqualified from being elected at an election held under the 2016 Order if—
 >
@@ -405,7 +405,7 @@ The 2011 Act is modified as follows.
 
 .
 
-**30.**[^key-8bd75c9dbabdd896d5e53bd065457865] In section 65—
+**30.**[^c-8bd75c9dbabdd896d5e53bd065457865] In section 65—
 
 - (a) in subsection (1)(e)[^f00073], insert after paragraph (ii)—
 
@@ -421,7 +421,7 @@ The 2011 Act is modified as follows.
 
   .
 
-**31.**[^key-f478ca542a3f2d9b8c893102269e4c2e] In section 70—
+**31.**[^c-f478ca542a3f2d9b8c893102269e4c2e] In section 70—
 
 - (a) for subsection (1), substitute—
 
@@ -447,7 +447,7 @@ The 2011 Act is modified as follows.
   ;
 - (e) omit subsection (7).
 
-**32.**[^key-d6edc175debe0c97bea13cad69664eb1] In Schedule 1—
+**32.**[^c-d6edc175debe0c97bea13cad69664eb1] In Schedule 1—
 
 - (a) for paragraph 1, substitute—
 
@@ -516,7 +516,7 @@ The 2011 Act is modified as follows.
 
   .
 
-**33.**[^key-f6918bbb3b1319b22c5f51f8d358f51a] In Schedule 5—
+**33.**[^c-f6918bbb3b1319b22c5f51f8d358f51a] In Schedule 5—
 
 - (a) in paragraph 1—
   - (i) for sub-paragraph (1), substitute—
@@ -540,7 +540,7 @@ The 2011 Act is modified as follows.
   - (i) in sub-paragraph (1), for “issuing of precepts” substitute “determining the amount of the PCC component”;
   - (ii) in sub-paragraph (4), for “precept that may be issued” substitute “amount of the PCC component”.
 
-**34.**[^key-947dd23bdc0155abe2c6b71752b594af] In Schedule 6[^f00077]—
+**34.**[^c-947dd23bdc0155abe2c6b71752b594af] In Schedule 6[^f00077]—
 
 - (a) for paragraph 21, substitute—
 
@@ -549,7 +549,7 @@ The 2011 Act is modified as follows.
   ;
 - (b) in paragraph 22(a), for the words “police and crime commissioner for that police area” substitute “combined authority”;
 
-**35.**[^key-c5a385db7eb1d6c995cb5b21b7001bf9] In Schedule 7—
+**35.**[^c-c5a385db7eb1d6c995cb5b21b7001bf9] In Schedule 7—
 
 - (a) in paragraph 3(1)(a)(ii), for “deputy police and crime commissioner” substitute “deputy mayor for policing and crime (unless the holder of that office is a member of the combined authority)”;
 - (b) for paragraph 4, substitute—
@@ -559,13 +559,13 @@ The 2011 Act is modified as follows.
   > - (a) relate to a holder of the office of—
   >   - (i) mayor; or
   >   - (ii) deputy mayor for policing and crime, if the holder of that office is a member of the combined authority, and
-  > - (b) are not, or cease to be, investigated by the Director General of the Independent Office for Police Conduct[^key-c492bc03b241dd7e05813a6f15737183] or a police force.
+  > - (b) are not, or cease to be, investigated by the Director General of the Independent Office for Police Conduct[^c-c492bc03b241dd7e05813a6f15737183] or a police force.
   >
   > (2) Regulations must secure that such complaints are dealt with in accordance with the combined authority’s code of conduct adopted under section 27(2) of the Localism Act 2011.
 
   .
 
-**36.**[^key-53f7038cd493cc956b867b132e7385ef] In Schedule 8—
+**36.**[^c-53f7038cd493cc956b867b132e7385ef] In Schedule 8—
 
 - (a) for paragraph 4(10), substitute—
 
@@ -584,7 +584,7 @@ The 2011 Act is modified as follows.
 
   .
 
-#### 37. Local Audit and Accountability Act 2014[^key-d61152d162c230e97a653cc23271891e]
+#### 37. Local Audit and Accountability Act 2014[^c-d61152d162c230e97a653cc23271891e]
 
 (1) The Local Audit and Accountability Act 2014[^f00078] is modified as follows.
 
@@ -603,7 +603,7 @@ The 2011 Act is modified as follows.
 
 ### PART 2 — Secondary Legislation
 
-#### 38. Motor Vehicles (Third Party Risks) Regulations 1972[^key-cd8a79215dddc438ae8bbbb70c344e3d]
+#### 38. Motor Vehicles (Third Party Risks) Regulations 1972[^c-cd8a79215dddc438ae8bbbb70c344e3d]
 
 (1) The Motor Vehicles (Third Party Risks) Regulations 1972[^f00079] are modified as follows.
 
@@ -613,19 +613,19 @@ The 2011 Act is modified as follows.
 
 .
 
-#### 39. Official Secrets Act 1989 (Prescription) Order 1990[^key-799bcf3eadc6179938e46afd00a97f07]
+#### 39. Official Secrets Act 1989 (Prescription) Order 1990[^c-799bcf3eadc6179938e46afd00a97f07]
 
 (1) The Official Secrets Act 1989 (Prescription) Order 1990[^f00080] is modified as follows.
 
 (2) In Schedule 2, for “a Deputy police and crime commissioner”, substitute “a Deputy mayor for policing and crime”.
 
-#### 40. Police (Disposal of Sound Equipment) Regulations 1995[^key-5b92166a4eb9f80b5ae0e114328b6f47]
+#### 40. Police (Disposal of Sound Equipment) Regulations 1995[^c-5b92166a4eb9f80b5ae0e114328b6f47]
 
 (1) The Police (Disposal of Sound Equipment) Regulations 1995[^f00081] and modified as follows.
 
 (2) In regulation 4(4), for “local policing body” substitute “combined authority”.
 
-#### 41. Police (Property) Regulations 1997[^key-b7798853e4cfa4d81d2f74c8d10c3eba]
+#### 41. Police (Property) Regulations 1997[^c-b7798853e4cfa4d81d2f74c8d10c3eba]
 
 (1) The Police (Property) Regulations 1997[^f00082] are modified as follows.
 
@@ -633,13 +633,13 @@ The 2011 Act is modified as follows.
 
 (3) In regulation 7(1), for “vest in them” substitute “vest in the combined authority”.
 
-#### 42. Health and Safety (Enforcing Authority) Regulations 1998[^key-5639ce1ff817835c3cfd9f60b813e045]
+#### 42. Health and Safety (Enforcing Authority) Regulations 1998[^c-5639ce1ff817835c3cfd9f60b813e045]
 
 (1) The Health and Safety (Enforcing Authority) Regulations 1998[^f00083] are modified as follows.
 
 (2) In regulation 4(3)(d), for “a local policing body” substitute “the combined authority in relation to the mayor’s PCC functions”.
 
-#### 43. Motor Vehicles (Driving Licences) Regulations 1999[^key-7fb3fbc808ffd60d0c020b682a6204da]
+#### 43. Motor Vehicles (Driving Licences) Regulations 1999[^c-7fb3fbc808ffd60d0c020b682a6204da]
 
 (1) The Motor Vehicles (Driving Licences) Regulations 1999[^f00084] are modified as follows.
 
@@ -649,7 +649,7 @@ The 2011 Act is modified as follows.
 
 (4) In regulation 58(2)(c)(ii)[^f00087], for “local policing body” substitute “the combined authority deployed wholly or partly in relation to the mayor’s PCC functions”.
 
-#### 44. Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) Order 1999[^key-c198f7ff67440f6ef77b8ea56c957478]
+#### 44. Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) Order 1999[^c-c198f7ff67440f6ef77b8ea56c957478]
 
 (1) The Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) Order 1999[^f00088] is modified as follows.
 
@@ -659,19 +659,19 @@ The 2011 Act is modified as follows.
 
 .
 
-#### 45. Motor Vehicles (Access to Driver Licensing Records) Regulations 2001[^key-84804f7459bc9f3ae62acd7aa49106b9]
+#### 45. Motor Vehicles (Access to Driver Licensing Records) Regulations 2001[^c-84804f7459bc9f3ae62acd7aa49106b9]
 
 (1) The Motor Vehicles (Access to Driver Licensing Records) Regulations 2001[^f00089] are modified as follows.
 
 (2) In regulation 3(2), for “local policing body or” substitute “the combined authority deployed wholly or partly in relation to the mayor’s PCC functions or a”.
 
-#### 46. Police and Criminal Evidence Act 1984 (Drug Testing of Persons in Police Detention) (Prescribed Persons) Regulations 2001[^key-8f6d77823a8a091ea217fdd9f5bcc7f9]
+#### 46. Police and Criminal Evidence Act 1984 (Drug Testing of Persons in Police Detention) (Prescribed Persons) Regulations 2001[^c-8f6d77823a8a091ea217fdd9f5bcc7f9]
 
 (1) The Police and Criminal Evidence Act 1984 (Drug Testing of Persons in Police Detention) (Prescribed Persons) Regulations 2001[^f00090] are modified as follows.
 
 (2) In regulation 2(1)(b), for “a local policing body or” substitute “the combined authority deployed wholly or partly in relation to the mayor’s PCC functions or a”.
 
-#### 47. Police Regulations 2003[^key-f75d806b84a7f1417ef31017027da34d]
+#### 47. Police Regulations 2003[^c-f75d806b84a7f1417ef31017027da34d]
 
 (1) The Police Regulations 2003[^f00091] are modified as follows.
 
@@ -679,7 +679,7 @@ The 2011 Act is modified as follows.
 
 (3) In regulation 24(1)(b), for “local policing body” substitute “combined authority deployed wholly or partly in relation to the mayor’s PCC functions”.
 
-#### 48. Docking of Working Dogs’ Tails (England) Regulations 2007[^key-15709d1e4f13c24a2038bd50894508b4]
+#### 48. Docking of Working Dogs’ Tails (England) Regulations 2007[^c-15709d1e4f13c24a2038bd50894508b4]
 
 (1) The Docking of Working Dogs’ Tails (England) Regulations 2007[^f00092] are modified as follows.
 
@@ -693,13 +693,13 @@ The 2011 Act is modified as follows.
 
 .
 
-#### 49. REACH Enforcement Regulations 2008[^key-b6e0f3e3611f71896c9e3d3255c995e8]
+#### 49. REACH Enforcement Regulations 2008[^c-b6e0f3e3611f71896c9e3d3255c995e8]
 
 (1) The Reach Enforcement Regulations 2008[^f00093] are modified as follows.
 
 (2) In paragraph 5(c) of Part 3 of Schedule 3, for “local policing body” substitute “the combined authority in relation to the mayor’s PCC functions”.
 
-#### 50. Elected Local Policing Bodies (Specified Information) Order 2011[^key-5af48d0f901a07de87b52cfa13e4c1ab]
+#### 50. Elected Local Policing Bodies (Specified Information) Order 2011[^c-5af48d0f901a07de87b52cfa13e4c1ab]
 
 (1) The Elected Local Policing Bodies (Specified Information) Order 2011[^f00094] is modified as follows.
 
@@ -748,7 +748,7 @@ The 2011 Act is modified as follows.
 
     .
 
-#### 51. Policing Protocol Order 2011[^key-73829c25cd860d51a402ce542f936767]
+#### 51. Policing Protocol Order 2011[^c-73829c25cd860d51a402ce542f936767]
 
 (1) The Policing Protocol Order 2011[^f00097] is modified as follows.
 
@@ -770,11 +770,11 @@ The 2011 Act is modified as follows.
   - (iii) omit sub-paragraph (i);
 - (f) after paragraph 24, insert—
 
-  > **24A.** Complaints against the mayor and deputy mayor for policing and crime (if that person is a member of the combined authority) will be dealt with in accordance with the combined authority’s existing standards regime, which operates under local government legislation. Serious complaints and conduct matters must be passed to the Director General of the Independent Office for Police Conduct[^key-952c84faca87d6ad02d5dbd9281ebd6b] in line with legislation.
+  > **24A.** Complaints against the mayor and deputy mayor for policing and crime (if that person is a member of the combined authority) will be dealt with in accordance with the combined authority’s existing standards regime, which operates under local government legislation. Serious complaints and conduct matters must be passed to the Director General of the Independent Office for Police Conduct[^c-952c84faca87d6ad02d5dbd9281ebd6b] in line with legislation.
 
   .
 
-#### 52. Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012[^key-ab17275ef40c8539a70d4c3cc6faffe4]
+#### 52. Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012[^c-ab17275ef40c8539a70d4c3cc6faffe4]
 
 (1) The Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012[^f00098] are modified as follows.
 
@@ -832,13 +832,13 @@ The 2011 Act is modified as follows.
 
 .
 
-#### 53. Police Appeals Tribunals Rules 2012[^key-5e8f68cd7fc6cc8cc9c2acc3f6ccf277]
+#### 53. Police Appeals Tribunals Rules 2012[^c-5e8f68cd7fc6cc8cc9c2acc3f6ccf277]
 
 (1) The Police Appeals Tribunals Rules 2012[^f00101] are modified as follows.
 
 (2) In rule 15(4) for “relevant local policing body” substitute “combined authority”.
 
-#### 54. Police and Crime Commissioner (Disqualification) (Supplementary Provisions) Regulations 2012[^key-b78e4d59e975d08bb99e1317dd42148d]
+#### 54. Police and Crime Commissioner (Disqualification) (Supplementary Provisions) Regulations 2012[^c-b78e4d59e975d08bb99e1317dd42148d]
 
 (1) The Police and Crime Commissioner (Disqualification) (Supplementary Provisions) Regulations 2012[^f00102] are modified as follows.
 
@@ -852,7 +852,7 @@ The 2011 Act is modified as follows.
 
   .
 
-#### 55. Police and Crime Panels (Precepts and Chief Constable Appointments) Regulations 2012[^key-3fd04399304243d379a8aa5996af7a28]
+#### 55. Police and Crime Panels (Precepts and Chief Constable Appointments) Regulations 2012[^c-3fd04399304243d379a8aa5996af7a28]
 
 (1) The Police and Crime Panels (Precepts and Chief Constable Appointments) Regulations 2012[^f00103] are modified as follows.
 
@@ -865,7 +865,7 @@ The 2011 Act is modified as follows.
 - (a) in sub-paragraph (a), for “issuing the revised precept as the precept” substitute “finalising the revised precept as the PCC component to be determined”;
 - (b) in sub-paragraph (b), for “precept that should be issued” substitute “PCC component that should be determined”.
 
-(4A)[^key-bac3ae7d2ed5cb60af95c18c50a406e8] In regulation 7 (police and crime commissioner’s consideration of second report), for “1st March” substitute “the penultimate working day in February”.
+(4A)[^c-bac3ae7d2ed5cb60af95c18c50a406e8] In regulation 7 (police and crime commissioner’s consideration of second report), for “1st March” substitute “the penultimate working day in February”.
 
 (5) In regulation 8—
 
@@ -876,7 +876,7 @@ The 2011 Act is modified as follows.
   - (i) in sub-paragraph (a), for “issue a precept” substitute “finalise the PCC component”;
   - (ii) in sub-paragraph (b), for “issue a precept” substitute “finalise the PCC component”.
 
-#### 56. Local Government Pension Scheme Regulations 2013[^key-7e8a82a58a935be7cdb9685d7fad8bff]
+#### 56. Local Government Pension Scheme Regulations 2013[^c-7e8a82a58a935be7cdb9685d7fad8bff]
 
 (1) The Local Government Pension Scheme Regulations 2013[^f00104] are modified as follows.
 
@@ -888,7 +888,7 @@ The 2011 Act is modified as follows.
 
 .
 
-#### 57. Local Audit (Auditor Resignation and Removal) Regulations 2014[^key-db2cf3d273f60b070ed74f8fc45fafef]
+#### 57. Local Audit (Auditor Resignation and Removal) Regulations 2014[^c-db2cf3d273f60b070ed74f8fc45fafef]
 
 (1) The Local Audit (Auditor Resignation and Removal) Regulations 2014[^f00105] are modified as follows.
 
@@ -897,7 +897,7 @@ The 2011 Act is modified as follows.
 - (a) in paragraph (3), for “police and crime commissioner” substitute “combined authority”;
 - (b) in paragraph (4), for “a police and crime commissioner” substitute “the combined authority in relation to the mayor’s PCC functions”.
 
-#### 58. Combined Authorities (Mayors) (Filling of Vacancies) Order 2017[^key-a56f61f7a0702d35f45d8732240f30e1]
+#### 58. Combined Authorities (Mayors) (Filling of Vacancies) Order 2017[^c-a56f61f7a0702d35f45d8732240f30e1]
 
 (1) The Combined Authorities (Mayors) (Filling of Vacancies) Order 2017[^f00106] is modified as follows.
 
@@ -913,19 +913,19 @@ The 2011 Act is modified as follows.
 
 ## Annotations
 
-[^key-bd92919125f00f86cba086cd2bfa9eb7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/1) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-bd92919125f00f86cba086cd2bfa9eb7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/1) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00019]: Footnote: [1897 c. 30](https://www.legislation.gov.uk/ukpga/1897/30). Section 2(2A) was inserted by section 1(2) and (3) of the Police (Property) Act [1997 (c. 30)](https://www.legislation.gov.uk/ukpga/1997/30).
 
-[^key-b759baec6b0d12373588d7157d8936ed]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/2) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-b759baec6b0d12373588d7157d8936ed]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/2) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00020]: Footnote: [1961 c. 62](https://www.legislation.gov.uk/ukpga/1961/62).
 
-[^key-5e01496cbf04058835b6c02e658a4e47]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/3) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-5e01496cbf04058835b6c02e658a4e47]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/3) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00021]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56). Paragraph 51(aa) was inserted by section 99 of, and paragraph 97 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-8ca48d3cc639e59cb288721c41f78c3d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/4) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-8ca48d3cc639e59cb288721c41f78c3d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/4) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00022]: Footnote: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
 
@@ -935,7 +935,7 @@ The 2011 Act is modified as follows.
 
 [^f00025]: Footnote: Section 44(1) was amended by section 119 of, and paragraph 43(a) of Schedule 6 to, the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20); and section 99 of, and paragraph 127 of Schedule 16, to the Police Reform and Social Responsibility Act 2011; there are other amendments to this section, but none is relevant.
 
-[^key-37b0660b44928c11560508546cf14ef6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/5) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-37b0660b44928c11560508546cf14ef6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/5) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00026]: Footnote: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
@@ -943,11 +943,11 @@ The 2011 Act is modified as follows.
 
 [^f00028]: Footnote: Section 99(4)(dc) was substituted by section 99 of, and paragraph 141 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-e1006b1b3e5c615fa81feeaa05bcd7e1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/6) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-e1006b1b3e5c615fa81feeaa05bcd7e1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/6) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00029]: Footnote: [1988 c. 20](https://www.legislation.gov.uk/ukpga/1988/20); section 19(a)(i) was substituted by section 99 of, and paragraph 177 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011. There are other amendments to section 19(a) that are not relevant to this Order.
 
-[^key-46b698fb8a9d5744bc2e22c959e1a55e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/7) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-46b698fb8a9d5744bc2e22c959e1a55e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/7) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00030]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
@@ -961,11 +961,11 @@ The 2011 Act is modified as follows.
 
 [^f00035]: Footnote: Subsection (2B) was amended by section 99 of, and paragraph 190(3) of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-d88d02761c3edaf253eec4a65d8d106a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/8) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-d88d02761c3edaf253eec4a65d8d106a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/8) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00036]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52); section 144(2)(b) was amended by section 99 of, and paragraph 197(3)(a) and (b) of Schedule 16 to, the Police Reform and Social Responsibility Act 2011. There are other amendments the section, but none is relevant.
 
-[^key-c3a34f3f00016ebb96cebecb80e5862e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/9) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-c3a34f3f00016ebb96cebecb80e5862e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/9) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00037]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
@@ -993,7 +993,7 @@ The 2011 Act is modified as follows.
 
 [^f00049]: Footnote: Section 13(5ZA) was inserted by section 7 of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-befda8cd83997c332f7c0fb1c8fd6674]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/10) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-befda8cd83997c332f7c0fb1c8fd6674]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/10) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00050]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16).
 
@@ -1001,7 +1001,7 @@ The 2011 Act is modified as follows.
 
 [^f00052]: Footnote: Section 41 was amended by paragraph 28 of Schedule 2 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48); section 22 of the Police Reform and Social Responsibility Act 2011; and by paragraph 33 of Schedule 7 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-56f047b55fe140ebdd35f52c1c7044df]: Textual amendment: Words in [Sch. 1 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/10/3/a) inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/444/article/4/3/a)
+[^c-56f047b55fe140ebdd35f52c1c7044df]: Textual amendment: Words in [Sch. 1 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/10/3/a) inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/444/article/4/3/a)
 
 [^f00053]: Footnote: Section 53E was inserted by section 125 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
 
@@ -1015,7 +1015,7 @@ The 2011 Act is modified as follows.
 
 [^f00058]: Footnote: Section 96(1B) was inserted by section 14(3) of the Police Reform and Social Responsibility Act 2011.
 
-[^key-3332237fc8633243618c16eae01f239d]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/11) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-3332237fc8633243618c16eae01f239d]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/11) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00059]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
 
@@ -1023,119 +1023,119 @@ The 2011 Act is modified as follows.
 
 [^f00061]: Footnote: Section 42(7) was amended by section 99 of, and paragraphs 277 and 295 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-24aaf1c5e5341e6257239b59441586d4]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/12) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-24aaf1c5e5341e6257239b59441586d4]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/12) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00062]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); paragraph (aa) was inserted by section 99 of, and paragraph 305 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-06051acc2f77559d55a2b7c74cb5c8d6]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/13) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-06051acc2f77559d55a2b7c74cb5c8d6]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/13) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00063]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-644d9d74e4fd78e2de0586c1d15ac675]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/14) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-644d9d74e4fd78e2de0586c1d15ac675]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/14) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00064]: Footnote: [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20); paragraph 7(2)(c) was inserted by section 99 of, and paragraph 328 of Schedule 16 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-36ff63fbaa4dcd74f7179bbc52bb6cf1]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/15) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-36ff63fbaa4dcd74f7179bbc52bb6cf1]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/15) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00065]: Footnote: [2007 c. 28](https://www.legislation.gov.uk/ukpga/2007/28); section 15(1)(a) was amended by section 74 of, and paragraph 14(2)(a) of Schedule 10 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-fa57363ae494a5a6777cbed94d0db38a]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/16) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-fa57363ae494a5a6777cbed94d0db38a]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/16) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00066]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20); paragraph 9(1) of Schedule 5B was inserted by section 2 of, and paragraph 1 of Schedule 1 to, the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1).
 
-[^key-d70fd83bfedb61f53c54c0c4e8db2b31]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/17) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-d70fd83bfedb61f53c54c0c4e8db2b31]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/17) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-0ca2af5f9ed8d275e89826fa6eff148f]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/18) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-0ca2af5f9ed8d275e89826fa6eff148f]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/18) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00067]: Footnote: There are amendments to section 5, none of which are relevant to this Order.
 
-[^key-b286082df43c7de578c0ac48cef1aaa3]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/19) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-b286082df43c7de578c0ac48cef1aaa3]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/19) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00068]: Footnote: Section 7 was amended by section 181 of, and paragraph 97 of Schedule 11 to, the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12)
 
-[^key-3e0aa30687af8cedf08ebfe93bba2615]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/20) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-3e0aa30687af8cedf08ebfe93bba2615]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/20) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-5ed6d283bd80a243bc51358d343f4d71]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/21) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-5ed6d283bd80a243bc51358d343f4d71]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/21) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00069]: Footnote: Section 18 was amended by section 79 of, and paragraph 53 of Schedule 7 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); and section 45 of, and paragraph 116 of Schedule 12 to, the Local Audit and Accountability Act [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2).
 
-[^key-ab064dff062649c7605b30ec91c2a76a]: Textual amendment: [Sch. 1 para. 21(aa)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/21/aa) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2026/23/section/46/7), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-ab064dff062649c7605b30ec91c2a76a]: Textual amendment: [Sch. 1 para. 21(aa)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/21/aa) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2026/23/section/46/7), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-70dec958c6b82dd9efe8507bdd05a04c]: Textual amendment: Words in [Sch. 1 para. 21(c)(i)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/21/c/i) inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2018/444/article/4/3/b)
+[^c-70dec958c6b82dd9efe8507bdd05a04c]: Textual amendment: Words in [Sch. 1 para. 21(c)(i)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/21/c/i) inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2018/444/article/4/3/b)
 
 [^f00070]: Footnote: Paragraphs (7)(g) and (h) were added by section 45 of, and paragraph 116 of Schedule 12 to, the Local Audit and Accountability Act [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2).
 
-[^key-be1fb4b70a4e399e9c005dd6db4c5490]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/22) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-be1fb4b70a4e399e9c005dd6db4c5490]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/22) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-5e0355b1366d979c0813284be7477340]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/23) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-5e0355b1366d979c0813284be7477340]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/23) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00071]: Footnote: Subsections (1A) and (1B) were added by section 6 of, and paragraph 89 of Schedule 1 to, the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-98c4dd8db67c91974e98fa27723f2f7f]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/24) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-98c4dd8db67c91974e98fa27723f2f7f]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/24) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-69bed4612488cb77749e075349096b64]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/25) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-69bed4612488cb77749e075349096b64]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/25) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-6b27cc7004737a40203bb7e8f34792eb]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/26) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-6b27cc7004737a40203bb7e8f34792eb]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/26) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-822208e61761fce3e2b36962c282f2c4]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/27) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-822208e61761fce3e2b36962c282f2c4]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/27) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-5977a66d483558ce5a22fa162cfff987]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/28) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-5977a66d483558ce5a22fa162cfff987]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/28) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-88655f6fc267f927591267cfef03d7c4]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/29) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-88655f6fc267f927591267cfef03d7c4]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/29) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00072]: Footnote: Subsection (4A) was inserted into section 64 by article 10 of this Order.
 
-[^key-8bd75c9dbabdd896d5e53bd065457865]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/30) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-8bd75c9dbabdd896d5e53bd065457865]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/30) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00073]: Footnote: Section 65(1) was amended by paragraph 184 of Schedule 8 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
 [^f00074]: Footnote: Subsection (1A) was inserted by section 123 of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-f478ca542a3f2d9b8c893102269e4c2e]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/31) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-f478ca542a3f2d9b8c893102269e4c2e]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/31) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-d6edc175debe0c97bea13cad69664eb1]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/32) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-d6edc175debe0c97bea13cad69664eb1]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/32) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00075]: Footnote: Paragraph 8 was amended by section 122(2) and (3) of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
 [^f00076]: Footnote: [S.I. 2016/448](https://www.legislation.gov.uk/uksi/2016/448) makes provision for the election of a mayor with PCC functions in Greater Manchester.
 
-[^key-f6918bbb3b1319b22c5f51f8d358f51a]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/33) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-f6918bbb3b1319b22c5f51f8d358f51a]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/33) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-947dd23bdc0155abe2c6b71752b594af]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/34) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-947dd23bdc0155abe2c6b71752b594af]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/34) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00077]: Footnote: There are amendments to Schedule 6, none of which is relevant to this instrument.
 
-[^key-c5a385db7eb1d6c995cb5b21b7001bf9]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/35) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-c5a385db7eb1d6c995cb5b21b7001bf9]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/35) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-c492bc03b241dd7e05813a6f15737183]: Textual amendment: Words in [Sch. 1 para. 35(b)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/35/b) substituted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [35(2)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/35/2) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-c492bc03b241dd7e05813a6f15737183]: Textual amendment: Words in [Sch. 1 para. 35(b)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/35/b) substituted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [35(2)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/35/2) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-53f7038cd493cc956b867b132e7385ef]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/36) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-53f7038cd493cc956b867b132e7385ef]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/36) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
-[^key-d61152d162c230e97a653cc23271891e]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/37) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-d61152d162c230e97a653cc23271891e]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/37) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00078]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2).
 
-[^key-cd8a79215dddc438ae8bbbb70c344e3d]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/38) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-cd8a79215dddc438ae8bbbb70c344e3d]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/38) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00079]: Footnote: [S.I. 1972/1217](https://www.legislation.gov.uk/uksi/1972/1217); regulation 7(3) was amended by [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058). There are other amending instruments, but none is relevant.
 
-[^key-799bcf3eadc6179938e46afd00a97f07]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/39) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-799bcf3eadc6179938e46afd00a97f07]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/39) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00080]: Footnote: [S.I. 1990/200](https://www.legislation.gov.uk/uksi/1990/200); amended by [S.I. 2012/2900](https://www.legislation.gov.uk/uksi/2012/2900). There are other amending instruments, but none is relevant.
 
-[^key-5b92166a4eb9f80b5ae0e114328b6f47]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/40) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-5b92166a4eb9f80b5ae0e114328b6f47]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/40) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00081]: Footnote: [S.I. 1995/722](https://www.legislation.gov.uk/uksi/1995/722); regulation 4 was amended by [S.I. 2000/1549](https://www.legislation.gov.uk/uksi/2000/1549) and [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058).
 
-[^key-b7798853e4cfa4d81d2f74c8d10c3eba]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/41) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-b7798853e4cfa4d81d2f74c8d10c3eba]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/41) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00082]: Footnote: [S.I. 1997/1908](https://www.legislation.gov.uk/uksi/1997/1908); regulations 6 and 7 were amended by [S.I. 2002/2313](https://www.legislation.gov.uk/uksi/2002/2313) and [S.I. 2013/2318](https://www.legislation.gov.uk/uksi/2013/2318).
 
-[^key-5639ce1ff817835c3cfd9f60b813e045]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/42) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-5639ce1ff817835c3cfd9f60b813e045]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/42) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00083]: Footnote: [S.I. 1998/494](https://www.legislation.gov.uk/uksi/1998/494); regulation 4(3)(d) was amended by [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058). There are other amending instruments, but none is relevant.
 
-[^key-7fb3fbc808ffd60d0c020b682a6204da]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/43) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-7fb3fbc808ffd60d0c020b682a6204da]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/43) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00084]: Footnote: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864).
 
@@ -1145,31 +1145,31 @@ The 2011 Act is modified as follows.
 
 [^f00087]: Footnote: Regulation 58(2)(c)(ii) was substituted by [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058).
 
-[^key-c198f7ff67440f6ef77b8ea56c957478]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/44) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-c198f7ff67440f6ef77b8ea56c957478]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/44) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00088]: Footnote: [S.I. 1999/2277](https://www.legislation.gov.uk/uksi/1999/2277); paragraph 2 of Section 6 of Schedule 1 was substituted by [S.I. 2012/2733](https://www.legislation.gov.uk/uksi/2012/2733).
 
-[^key-84804f7459bc9f3ae62acd7aa49106b9]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/45) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-84804f7459bc9f3ae62acd7aa49106b9]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/45) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00089]: Footnote: [S.I. 2001/3343](https://www.legislation.gov.uk/uksi/2001/3343); regulation 3 was amended by [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058).
 
-[^key-8f6d77823a8a091ea217fdd9f5bcc7f9]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/46) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-8f6d77823a8a091ea217fdd9f5bcc7f9]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/46) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00090]: Footnote: [S.I. 2001/2645](https://www.legislation.gov.uk/uksi/2001/2645); regulation 2(1)(b) was amended by [S.I. 2012/61](https://www.legislation.gov.uk/uksi/2012/61).
 
-[^key-f75d806b84a7f1417ef31017027da34d]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/47) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-f75d806b84a7f1417ef31017027da34d]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/47) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00091]: Footnote: [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527); regulation 24(1)(b) was amended by [S.I. 2011/3026](https://www.legislation.gov.uk/uksi/2011/3026).
 
-[^key-15709d1e4f13c24a2038bd50894508b4]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/48) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-15709d1e4f13c24a2038bd50894508b4]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/48) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00092]: Footnote: [S.I. 2007/1120](https://www.legislation.gov.uk/uksi/2007/1120); regulation 2 was amended by [S.I. 2012/61](https://www.legislation.gov.uk/uksi/2012/61).
 
-[^key-b6e0f3e3611f71896c9e3d3255c995e8]: Commencement: [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/49) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-b6e0f3e3611f71896c9e3d3255c995e8]: Commencement: [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/49) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00093]: Footnote: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852); paragraph 5(c) of Part 3 of Schedule 3 was amended by [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058). There are other amendments but none is relevant.
 
-[^key-5af48d0f901a07de87b52cfa13e4c1ab]: Commencement: [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/50) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-5af48d0f901a07de87b52cfa13e4c1ab]: Commencement: [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/50) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00094]: Footnote: [S.I. 2011/3050](https://www.legislation.gov.uk/uksi/2011/3050).
 
@@ -1177,13 +1177,13 @@ The 2011 Act is modified as follows.
 
 [^f00096]: Footnote: Paragraph 4 of the Schedule was amended by [S.I. 2012/2479](https://www.legislation.gov.uk/uksi/2012/2479).
 
-[^key-73829c25cd860d51a402ce542f936767]: Commencement: [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/51) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-73829c25cd860d51a402ce542f936767]: Commencement: [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/51) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00097]: Footnote: [S.I. 2011/2744](https://www.legislation.gov.uk/uksi/2011/2744).
 
-[^key-952c84faca87d6ad02d5dbd9281ebd6b]: Textual amendment: Words in [Sch. 1 para. 51(2)(f)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/51/2/f) substituted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [35(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/35/3) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-952c84faca87d6ad02d5dbd9281ebd6b]: Textual amendment: Words in [Sch. 1 para. 51(2)(f)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/51/2/f) substituted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [35(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/35/3) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-ab17275ef40c8539a70d4c3cc6faffe4]: Commencement: [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-ab17275ef40c8539a70d4c3cc6faffe4]: Commencement: [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00098]: Footnote: [S.I. 2012/62](https://www.legislation.gov.uk/uksi/2012/62), to which there are amendments not relevant to this Order.
 
@@ -1191,28 +1191,28 @@ The 2011 Act is modified as follows.
 
 [^f00100]: Footnote: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-5e8f68cd7fc6cc8cc9c2acc3f6ccf277]: Commencement: [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/53) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-5e8f68cd7fc6cc8cc9c2acc3f6ccf277]: Commencement: [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/53) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00101]: Footnote: [S.I. 2012/2630](https://www.legislation.gov.uk/uksi/2012/2630), to which there are amendments not relevant to this Order.
 
-[^key-b78e4d59e975d08bb99e1317dd42148d]: Commencement: [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/54) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-b78e4d59e975d08bb99e1317dd42148d]: Commencement: [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/54) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00102]: Footnote: [S.I. 2012/2087](https://www.legislation.gov.uk/uksi/2012/2087).
 
-[^key-3fd04399304243d379a8aa5996af7a28]: Commencement: [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-3fd04399304243d379a8aa5996af7a28]: Commencement: [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00103]: Footnote: [S.I. 2012/2271](https://www.legislation.gov.uk/uksi/2012/2271).
 
-[^key-bac3ae7d2ed5cb60af95c18c50a406e8]: Textual amendment: [Sch. 1 para. 55(4A)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/4A) inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2018/444/article/4/3/c)
+[^c-bac3ae7d2ed5cb60af95c18c50a406e8]: Textual amendment: [Sch. 1 para. 55(4A)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/4A) inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2018/444/article/4/3/c)
 
-[^key-7e8a82a58a935be7cdb9685d7fad8bff]: Commencement: [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/56) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-7e8a82a58a935be7cdb9685d7fad8bff]: Commencement: [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/56) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00104]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356), to which there are amendments not relevant to this Order.
 
-[^key-db2cf3d273f60b070ed74f8fc45fafef]: Commencement: [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/57) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-db2cf3d273f60b070ed74f8fc45fafef]: Commencement: [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/57) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00105]: Footnote: [S.I. 2014/1710](https://www.legislation.gov.uk/uksi/2014/1710), to which there are amendments not relevant to this Order.
 
-[^key-a56f61f7a0702d35f45d8732240f30e1]: Commencement: [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/58) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-a56f61f7a0702d35f45d8732240f30e1]: Commencement: [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/58) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00106]: Footnote: [S.I. 2017/69](https://www.legislation.gov.uk/uksi/2017/69)

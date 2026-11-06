@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Requirements, appeals, etc.[^key-dbc7da6939a4ef9a28345fcc50a1810a]
+## 43. Requirements, appeals, etc.[^c-dbc7da6939a4ef9a28345fcc50a1810a]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbc7da6939a4ef9a28345fcc50a1810a]: Commencement: Art. 43 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-dbc7da6939a4ef9a28345fcc50a1810a]: Commencement: Art. 43 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

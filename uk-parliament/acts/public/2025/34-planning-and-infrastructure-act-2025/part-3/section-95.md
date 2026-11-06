@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Duty of co-operation[^key-ad6502a08c3aebc64944be83c8fe24ee][^key-392610335e53ef3a7a607a06b284ff03]
+## 95. Duty of co-operation[^c-ad6502a08c3aebc64944be83c8fe24ee][^c-392610335e53ef3a7a607a06b284ff03]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad6502a08c3aebc64944be83c8fe24ee]: Commencement: S. 95 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-ad6502a08c3aebc64944be83c8fe24ee]: Commencement: S. 95 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-392610335e53ef3a7a607a06b284ff03]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/34/section/95) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(i)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/i)
+[^c-392610335e53ef3a7a607a06b284ff03]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/34/section/95) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(i)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/i)

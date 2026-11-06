@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Protection of officers.[^key-2cb2239c16abcbd082304a6ee82146f6]
+## 31. Protection of officers.[^c-2cb2239c16abcbd082304a6ee82146f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cb2239c16abcbd082304a6ee82146f6]: Textual amendment: S. 31 omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-2cb2239c16abcbd082304a6ee82146f6]: Textual amendment: S. 31 omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))

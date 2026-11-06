@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Repeals[^c1127615][^key-0932d854ee50c830732fe37a479dac3c]
+## SCHEDULE 7 — Repeals[^c1127615][^c-0932d854ee50c830732fe37a479dac3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,4 +150,4 @@ Section 35(2).
 
 [^c1127615]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/1996/46/schedule/7) partly in force: Sch. 7 not in force at Royal Assent, Sch. 7 in force for specified purposes at 1.9.1996, see [s. 36(2)(4)](https://www.legislation.gov.uk/ukpga/1996/46/section/36/2/4); [Sch. 7](https://www.legislation.gov.uk/ukpga/1996/46/schedule/7) in force for specified purposes at 1.10.1996 by [S.I. 1996/2474](https://www.legislation.gov.uk/uksi/1996/2474), [art. 2](https://www.legislation.gov.uk/uksi/1996/2474/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/1996/2474/article/3)); [Sch. 7](https://www.legislation.gov.uk/ukpga/1996/46/schedule/7) in force for specified purposes at 1.4.1997 by [S.I. 1997/304](https://www.legislation.gov.uk/uksi/1997/304), [art. 2](https://www.legislation.gov.uk/uksi/1997/304/article/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/1997/304/schedule/2)); [Sch. 7](https://www.legislation.gov.uk/ukpga/1996/46/schedule/7) in force at 1.5.2001 insofar as not already in force (subject to certain exceptions) by [S.I. 2001/1519](https://www.legislation.gov.uk/uksi/2001/1519), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/1519/article/2/1/2))
 
-[^key-0932d854ee50c830732fe37a479dac3c]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/1996/46/schedule/7) in force at 29.4.2005 in so far as not already in force by [S.I. 2005/1119](https://www.legislation.gov.uk/uksi/2005/1119), [art. 2](https://www.legislation.gov.uk/uksi/2005/1119/article/2)
+[^c-0932d854ee50c830732fe37a479dac3c]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/1996/46/schedule/7) in force at 29.4.2005 in so far as not already in force by [S.I. 2005/1119](https://www.legislation.gov.uk/uksi/2005/1119), [art. 2](https://www.legislation.gov.uk/uksi/2005/1119/article/2)

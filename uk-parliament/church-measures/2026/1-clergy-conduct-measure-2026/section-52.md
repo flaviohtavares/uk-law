@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 52. Appeal etc to court[^key-90b686cef22eedd71ab14a9fd775b02e]
+## 52. Appeal etc to court[^c-90b686cef22eedd71ab14a9fd775b02e]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90b686cef22eedd71ab14a9fd775b02e]: Commencement: S. 52 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-90b686cef22eedd71ab14a9fd775b02e]: Commencement: S. 52 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65B. Inspection of vehicles: Scotland[^key-5b9d112e10d16e6f2e2e04a12fcda8b4]
+## 65B. Inspection of vehicles: Scotland[^c-5b9d112e10d16e6f2e2e04a12fcda8b4]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b9d112e10d16e6f2e2e04a12fcda8b4]: Textual amendment: S. 65B inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 13](https://www.legislation.gov.uk/asp/2006/11/section/13), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-5b9d112e10d16e6f2e2e04a12fcda8b4]: Textual amendment: S. 65B inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 13](https://www.legislation.gov.uk/asp/2006/11/section/13), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

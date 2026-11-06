@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Making of order[^key-804b3cc1ff2b9681aef4c158daf359d7]
+## 2. Making of order[^c-804b3cc1ff2b9681aef4c158daf359d7]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-804b3cc1ff2b9681aef4c158daf359d7]: Textual amendment: Order 23 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [art. 3(4)](https://www.legislation.gov.uk/nisr/2019/234/article/3/4), [rule 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-804b3cc1ff2b9681aef4c158daf359d7]: Textual amendment: Order 23 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [art. 3(4)](https://www.legislation.gov.uk/nisr/2019/234/article/3/4), [rule 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

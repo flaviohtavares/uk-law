@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Section 149: evidential burdens and lifestyle offences[^key-54fe5d6afb5fc6ca888f42c6de402785]
+## 150. Section 149: evidential burdens and lifestyle offences[^c-54fe5d6afb5fc6ca888f42c6de402785]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54fe5d6afb5fc6ca888f42c6de402785]: Commencement: S. 150 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-54fe5d6afb5fc6ca888f42c6de402785]: Commencement: S. 150 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

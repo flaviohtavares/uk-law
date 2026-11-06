@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71F. Temporary manager: instrument of appointment[^key-e9ccb3f825f099ec67a5a5f18082ae8d]
+## 71F. Temporary manager: instrument of appointment[^c-e9ccb3f825f099ec67a5a5f18082ae8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ the appropriate regulator must publish the instrument of appointment on its webs
 
 ## Annotations
 
-[^key-e9ccb3f825f099ec67a5a5f18082ae8d]: Textual amendment: Ss. 71B-71I and cross-heading inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [32](https://www.legislation.gov.uk/uksi/2016/1239/article/32)
+[^c-e9ccb3f825f099ec67a5a5f18082ae8d]: Textual amendment: Ss. 71B-71I and cross-heading inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [32](https://www.legislation.gov.uk/uksi/2016/1239/article/32)

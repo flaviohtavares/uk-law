@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62A. Treatment of loans for specific purposes[^key-2edf01209069bd45c554e9537b1b4266]
+## 62A. Treatment of loans for specific purposes[^c-2edf01209069bd45c554e9537b1b4266]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A loan under the Education (Student Support) Regulations 2011 or regulations mad
 
 ## Annotations
 
-[^key-2edf01209069bd45c554e9537b1b4266]: Textual amendment: [Reg. 62A](https://www.legislation.gov.uk/nisr/2006/405/regulation/62A) inserted (3.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024 (S.R. 2024/54)](https://www.legislation.gov.uk/nisr/2024/54), [regs. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c), [4](https://www.legislation.gov.uk/nisr/2024/54/regulation/4)
+[^c-2edf01209069bd45c554e9537b1b4266]: Textual amendment: [Reg. 62A](https://www.legislation.gov.uk/nisr/2006/405/regulation/62A) inserted (3.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024 (S.R. 2024/54)](https://www.legislation.gov.uk/nisr/2024/54), [regs. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c), [4](https://www.legislation.gov.uk/nisr/2024/54/regulation/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Local pensions board: membership[^key-f6ea3e178ef60cfbaa7b3007d9819de7]
+## 6. Local pensions board: membership[^c-f6ea3e178ef60cfbaa7b3007d9819de7]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f6ea3e178ef60cfbaa7b3007d9819de7]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-f6ea3e178ef60cfbaa7b3007d9819de7]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00044]: Footnote: See section 5(6) of the Public Service Pensions Act 2013 for definitions of these terms.

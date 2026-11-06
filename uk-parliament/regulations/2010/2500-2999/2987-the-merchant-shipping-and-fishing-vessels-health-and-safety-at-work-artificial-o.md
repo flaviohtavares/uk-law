@@ -54,11 +54,11 @@ In accordance with section 86(4) of the Act the Secretary of State has consulted
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-2f1df11b59ed8f3cc3f5a6d926ca8ae0]
+### 1. Citation and commencement[^c-2f1df11b59ed8f3cc3f5a6d926ca8ae0]
 
 These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Artificial Optical Radiation) Regulations 2010 and they come into force on 10th January 2011.
 
-### 2. Interpretation[^key-70898eab70be52d4ba8720755fdfe1ab]
+### 2. Interpretation[^c-70898eab70be52d4ba8720755fdfe1ab]
 
 (1) In these Regulations—
 
@@ -74,7 +74,7 @@ These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Hea
   - (a) for non-coherent radiation those values set out in Annex 1 to the Directive; and
   - (b) for laser radiation those values set out in Annex II to the Directive;
 - “the General Duties Regulations” means the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^f00007];
-- [^key-98be53340da46029fa092b9fbd504f00]...
+- [^c-98be53340da46029fa092b9fbd504f00]...
 - “health and safety” includes the occupational health and safety of persons whilst on board a ship and whilst boarding or leaving the ship;
 - “health surveillance” means the assessment of an individual worker to determine the state of health of that individual, as related to exposure;
 - “the IEC” means the International Electrotechnical Commission;
@@ -96,19 +96,19 @@ These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Hea
 - “surveyor of ships” has the meaning given by section 256(9) of the Act;
 - “ultraviolet radiation” is optical radiation of wavelength range exceeding 100 nm and not exceeding 400 nm, divided into UVA (exceeding 315 and not exceeding 400 nm), UVB (exceeding 280 and not exceeding 315 nm) and UVC (exceeding 100 and not exceeding 280 nm);
 - “United Kingdom ship” means a ship which—
-  - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act, or[^key-54f177f5026bf154dd9e4e3966c33a49]
-  - (b) [^key-98be53340da46029fa092b9fbd504f00]...
+  - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act, or[^c-54f177f5026bf154dd9e4e3966c33a49]
+  - (b) [^c-98be53340da46029fa092b9fbd504f00]...
   - (c) a hovercraft registered under the Hovercraft Act 1968[^f00008];
 - “United Kingdom waters” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom; and
 - “visible radiation” means optical radiation of wavelength range exceeding 380 nm and not exceeding 780 nm.
 
-(2) In these Regulations any reference to an Annex to the Directive is a reference to that Annex as it had effect immediately before IP completion day[^key-dcdb02c3e7eec8eb3d2ed65aca5b809d].
+(2) In these Regulations any reference to an Annex to the Directive is a reference to that Annex as it had effect immediately before IP completion day[^c-dcdb02c3e7eec8eb3d2ed65aca5b809d].
 
 (3) Subject to paragraph (1) and regulation 3, words and expressions used in these Regulations have the same meaning as in the Directive.
 
 (4) In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of that hovercraft.
 
-### 3. Meaning of “worker”[^key-eed0aae40a54a15ea76b60635cdc4f8a]
+### 3. Meaning of “worker”[^c-eed0aae40a54a15ea76b60635cdc4f8a]
 
 (1) In these Regulations, “worker” means a person employed under a contract of employment, and includes a trainee or apprentice other than a person who is training in a vessel which is being used—
 
@@ -126,7 +126,7 @@ and which is operating under a relevant code.
 
 (3) In paragraph (2) each reference to a Code includes a reference to any document containing an amendment or replacement of that Code which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice which contains a statement to that effect.
 
-### 4. Application[^key-7cb384cca0381f5d138d87e501891383]
+### 4. Application[^c-7cb384cca0381f5d138d87e501891383]
 
 (1) Without prejudice to regulation 5 (general duties) of the General Duties Regulations, and subject to paragraphs (2) to (4), these Regulations apply in relation to activities in which workers are subject or are potentially subject to exposure, giving rise to risks to their health and safety, which take place on United Kingdom ships.
 
@@ -146,7 +146,7 @@ that provision does not apply in relation to activities on that ship to the exte
 - (a) “civil protection service” includes the fire and rescue and ambulance services and search and rescue services provided by any other person; and
 - (b) “public service activities” includes the activities of the armed forces, HM Coastguard, HM Revenue and Customs, immigration officers, police, prison officers and the security and intelligence services.
 
-### 5. Application of related legislation[^key-8c3066db6f75a5178e923c909362e40a]
+### 5. Application of related legislation[^c-8c3066db6f75a5178e923c909362e40a]
 
 (1) The General Duties Regulations continue to apply to activities to which these Regulations apply, without prejudice to any more stringent or specific provisions contained in these Regulations.
 
@@ -154,7 +154,7 @@ that provision does not apply in relation to activities on that ship to the exte
 
 ## PART 2 — DUTIES OF EMPLOYERS AND OTHERS
 
-### 6. Assessment of health risks[^key-0f3129d4463e1926504a24821856d5a9]
+### 6. Assessment of health risks[^c-0f3129d4463e1926504a24821856d5a9]
 
 (1) Where work is to be carried out which could expose any worker to levels of artificial optical radiation that create a reasonably foreseeable risk of an adverse health effect on that worker, the employer must, in carrying out the risk assessment required by regulation 7 (risk assessment) of the General Duties Regulation—
 
@@ -166,9 +166,9 @@ that provision does not apply in relation to activities on that ship to the exte
 - (a) for laser radiation, the standards of the IEC; or
 - (b) for non-coherent radiation, the standards of the IEC and the recommendations of the CIE and the CEN.
 
-(3) Where there is a risk of exposure which is not covered by the standards and recommendations set out in paragraph (2) [^key-0a6206794fcb57f9b5cd9dcfa49a77ec]... the assessment and measurement may be carried out using any available national or international science-based guidelines.
+(3) Where there is a risk of exposure which is not covered by the standards and recommendations set out in paragraph (2) [^c-0a6206794fcb57f9b5cd9dcfa49a77ec]... the assessment and measurement may be carried out using any available national or international science-based guidelines.
 
-(4) The assessment in accordance with paragraph (1)(a) may take account of data provided by the manufacturers of equipment which is a source of optical radiation [^key-6b8176390066f4728ab68aa49e969b51]....
+(4) The assessment in accordance with paragraph (1)(a) may take account of data provided by the manufacturers of equipment which is a source of optical radiation [^c-6b8176390066f4728ab68aa49e969b51]....
 
 (5) The employer must ensure that the assessment and measurement referred to in paragraph (1)(a)—
 
@@ -184,7 +184,7 @@ that provision does not apply in relation to activities on that ship to the exte
   - (vii) appropriate information obtained from health surveillance, including, as far as possible, published information;
   - (viii) multiple sources of exposure;
   - (ix) a classification applied to a laser as defined in accordance with the relevant IEC standard and, in relation to any artificial source likely to cause damage similar to that of a laser of class 3B or 4, any similar classification; and
-  - (x) information provided by the manufacturers of optical radiation sources and associated work equipment [^key-4a9a0fe598db1052981af18f0c657f5a]....
+  - (x) information provided by the manufacturers of optical radiation sources and associated work equipment [^c-4a9a0fe598db1052981af18f0c657f5a]....
 
 (6) Before the commencement of any activity with the potential to involve exposure, the employer must be in possession of a record in a suitable medium of the risk assessment, if any, required to be carried out in accordance with this regulation.
 
@@ -192,7 +192,7 @@ that provision does not apply in relation to activities on that ship to the exte
 
 (8) An assessment carried out in accordance with this regulation, whether for the first time or by way of renewal, is in these Regulations called a regulation 6 assessment and is to be used by the employer to identify which measures must be taken in accordance with regulation 7.
 
-### 7. General principles for prevention of risks[^key-3591b172627ba520e10a43836a05e4ba]
+### 7. General principles for prevention of risks[^c-3591b172627ba520e10a43836a05e4ba]
 
 (1) So far as is reasonably practicable, taking account of technical progress and of the availability of measures to control the risk at source, the employer must eliminate or reduce to a minimum the risk to the health and safety of workers arising from exposure, using the principles for prevention of risk set out in the General Duties Regulations.
 
@@ -205,7 +205,7 @@ that provision does not apply in relation to activities on that ship to the exte
 - (e) the design and layout of workplaces and workstations;
 - (f) limitation of the duration and level of exposure;
 - (g) the availability of appropriate personal protective equipment;
-- (h) the instructions of the manufacturer of equipment which is a source of optical radiation [^key-ab65663a00ae0bec68db32e654c0f9c9]...; and
+- (h) the instructions of the manufacturer of equipment which is a source of optical radiation [^c-ab65663a00ae0bec68db32e654c0f9c9]...; and
 - (i) the requirements of workers belonging to particularly sensitive risk groups.
 
 (3) Where the regulation 6 assessment indicates the possibility that workers could be subject to exposure exceeding the exposure limit values, the employer must—
@@ -219,7 +219,7 @@ that provision does not apply in relation to activities on that ship to the exte
 - (b) identify the reasons why the exposure limit values have been exceeded; and
 - (c) adapt the protection and prevention measures accordingly in order to prevent the exposure limit values being exceeded again.
 
-### 8. Information and training for workers[^key-ae7c05bed2082449a25ffc13228be920]
+### 8. Information and training for workers[^c-ae7c05bed2082449a25ffc13228be920]
 
 Without prejudice to the provisions of the General Duties Regulations covering information and training for workers, the employer must ensure that workers who are likely to be subject to exposure, or their representatives, receive appropriate information and training, concerning in particular—
 
@@ -231,7 +231,7 @@ Without prejudice to the provisions of the General Duties Regulations covering i
 - (f) safe working practices to minimise risks from exposure; and
 - (g) proper use of appropriate personal protective equipment.
 
-### 9. Health surveillance[^key-ceed39e2858a1c29128f6e4df7defdb6]
+### 9. Health surveillance[^c-ceed39e2858a1c29128f6e4df7defdb6]
 
 (1) The employer must ensure that there are arrangements whereby workers for whom a regulation 6 assessment reveals a risk to health and safety are kept under appropriate health surveillance by a health authority.
 
@@ -273,11 +273,11 @@ Without prejudice to the provisions of the General Duties Regulations covering i
 
 (9) In this regulation “health authority” means a doctor, occupational health professional or other authority suitably qualified to undertake the requirements of this regulation.
 
-### 10. Consultation with and participation of workers[^key-9348929dd1b643992503eae7add828e8]
+### 10. Consultation with and participation of workers[^c-9348929dd1b643992503eae7add828e8]
 
 The employer must consult workers or their representatives about matters covered by these Regulations in accordance with regulation 20 (consultation of workers) of the General Duties Regulations.
 
-### 11. Duties of other persons[^key-8c0352bac3b807c9afa976b7de04c00b]
+### 11. Duties of other persons[^c-8c0352bac3b807c9afa976b7de04c00b]
 
 (1) Where a person on whom a duty is imposed by any of the preceding provisions of these Regulations does not have control of the matter to which that provision relates because responsibility for the operation of the ship falls upon another person, that duty also extends to any other person who has control of that matter.
 
@@ -288,7 +288,7 @@ The employer must consult workers or their representatives about matters covered
 
 ## PART 3 — ENFORCEMENT
 
-### 12. Offences and penalties[^key-83329b293ef946c9710a308747e14b06]
+### 12. Offences and penalties[^c-83329b293ef946c9710a308747e14b06]
 
 (1) Any person who fails to comply with regulation 6, 7 or 9 is guilty of an offence and is liable—
 
@@ -309,11 +309,11 @@ The employer must consult workers or their representatives about matters covered
 
 (8) Where an offence under these Regulations committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of that offence and is liable to be proceeded against and punished accordingly.
 
-### 13. Onus of proving what is reasonably practicable[^key-97150bc284c0003a68af5459181cddd6]
+### 13. Onus of proving what is reasonably practicable[^c-97150bc284c0003a68af5459181cddd6]
 
 In any proceedings under these Regulations consisting of a failure to comply with a duty or a requirement to do something so far as is reasonably practicable, it is for the defendant to prove that it was not reasonably practicable to do more than was in fact done to satisfy that duty or requirement.
 
-### 14. Detention of a United Kingdom ship[^key-12f14acb3c8ddb12ae7ee883deb0c87f]
+### 14. Detention of a United Kingdom ship[^c-12f14acb3c8ddb12ae7ee883deb0c87f]
 
 (1) Where a surveyor of ships is satisfied that there is or has been a failure to comply in relation to any ship with the requirements of the preceding provisions of these Regulations, that ship is liable to be detained until a surveyor of ships is satisfied that those requirements are complied with.
 
@@ -350,7 +350,7 @@ and any balance must be repaid to the first-mentioned person.
 - (a) references to the master or owner of the ship were references to the employer or other person having control of the matter in question; and
 - (b) references to an offence under section 131 were references to an offence arising from the failure in question.
 
-### 15. Inspection and other measures in respect of ships registered outside the United Kingdom ships[^key-9af42b360fd8e4d8f69613760a755167]
+### 15. Inspection and other measures in respect of ships registered outside the United Kingdom ships[^c-9af42b360fd8e4d8f69613760a755167]
 
 (1) When a ship which is not a United Kingdom ship is in United Kingdom waters, a relevant inspector may inspect that ship to ascertain whether the standards required in relation to United Kingdom ships by the preceding provisions of these Regulations are met in relation to that ship.
 
@@ -369,11 +369,11 @@ and any balance must be repaid to the first-mentioned person.
 
 (7) In paragraph (1), “relevant inspector” means a person mentioned in paragraph (a), (b) or (c) of section 258(1) of the Act[^f00017].
 
-### 16. Application of powers of inspectors in relation to Government ships[^key-d3c150c2ec0979cb8361ef0fc1f040e0]
+### 16. Application of powers of inspectors in relation to Government ships[^c-d3c150c2ec0979cb8361ef0fc1f040e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Enforcement of detention[^key-e4c8cef0e8b2813e8a3502b711ef76d7]
+### 17. Enforcement of detention[^c-e4c8cef0e8b2813e8a3502b711ef76d7]
 
 (1) Section 284 of the Act[^f00019] (enforcing detention of ship) applies where a ship is liable to be detained under these Regulations as if—
 
@@ -386,11 +386,11 @@ and any balance must be repaid to the first-mentioned person.
 - (b) specifies the matters which, in the opinion of the surveyor of ships, have the effect that in relation to that ship those requirements are not met; and
 - (c) requires the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the Act.
 
-### 18. Right of appeal and compensation[^key-66d9f28e8046452531922e166c0df7f7]
+### 18. Right of appeal and compensation[^c-66d9f28e8046452531922e166c0df7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Prohibition on charging of workers[^key-92553f8a45548aaf2cef6045963df06e]
+### 19. Prohibition on charging of workers[^c-92553f8a45548aaf2cef6045963df06e]
 
 No charge in respect of anything done or provided in accordance with any requirement of these Regulations may be levied or permitted to be levied on any worker.
 
@@ -430,23 +430,23 @@ An impact assessment of the effect of these Regulations on the cost of business 
 
 [^f00005]: Footnote: O.J. No. L. 114, 27.4.2006, p. 38, amended by Directive [2007/30/EC](https://www.legislation.gov.uk/european/directive/2007/0030) of 20 June 2007 (O.J. No. L. 165, 27.6.2007, p. 21) and by Regulation [(EC) No. 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) of 22 October 2008 (O.J. No. L. 311, 21.11.2008, p. 1). Added to Annex XVIII of the EEA Agreement by Article 1 of the Decision of the EEA Joint Committee No. 123/2007 of 28th September 2007 (O.J. No. L. 47, 21.2.2008, p. 49). Directive 89/391 is to be found at O.J. No. L. 103, 29.6.1989, p.1.
 
-[^key-2f1df11b59ed8f3cc3f5a6d926ca8ae0]: Commencement: Reg. 1 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-2f1df11b59ed8f3cc3f5a6d926ca8ae0]: Commencement: Reg. 1 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
-[^key-70898eab70be52d4ba8720755fdfe1ab]: Commencement: Reg. 2 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-70898eab70be52d4ba8720755fdfe1ab]: Commencement: Reg. 2 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
 [^f00006]: Footnote: O.J. L No. 114, 27.4.2006, p. 38.
 
 [^f00007]: Footnote: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), amended by [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411) and [2001/54](https://www.legislation.gov.uk/uksi/2001/54).
 
-[^key-98be53340da46029fa092b9fbd504f00]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-98be53340da46029fa092b9fbd504f00]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-54f177f5026bf154dd9e4e3966c33a49]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-54f177f5026bf154dd9e4e3966c33a49]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^f00008]: Footnote: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
 
-[^key-dcdb02c3e7eec8eb3d2ed65aca5b809d]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/2) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dcdb02c3e7eec8eb3d2ed65aca5b809d]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/2) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eed0aae40a54a15ea76b60635cdc4f8a]: Commencement: Reg. 3 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-eed0aae40a54a15ea76b60635cdc4f8a]: Commencement: Reg. 3 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
 [^f00009]: Footnote: Published by the Stationery Office in 1993 (ISBN 0-11-551184-9).
 
@@ -454,56 +454,56 @@ An impact assessment of the effect of these Regulations on the cost of business 
 
 [^f00011]: Footnote: Published by the Stationery Office in 1999 (ISBN 0-11-551812-6).
 
-[^key-7cb384cca0381f5d138d87e501891383]: Commencement: Reg. 4 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-7cb384cca0381f5d138d87e501891383]: Commencement: Reg. 4 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
-[^key-8c3066db6f75a5178e923c909362e40a]: Commencement: Reg. 5 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-8c3066db6f75a5178e923c909362e40a]: Commencement: Reg. 5 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
 [^f00012]: Footnote: [S.I. 2010/1140](https://www.legislation.gov.uk/uksi/2010/1140).
 
 [^f00013]: Footnote: [S.R. 2010/210](https://www.legislation.gov.uk/nisr/2010/210).
 
-[^key-0f3129d4463e1926504a24821856d5a9]: Commencement: Reg. 6 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-0f3129d4463e1926504a24821856d5a9]: Commencement: Reg. 6 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
-[^key-0a6206794fcb57f9b5cd9dcfa49a77ec]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/6/3) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a6206794fcb57f9b5cd9dcfa49a77ec]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/6/3) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6b8176390066f4728ab68aa49e969b51]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/6/4) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b8176390066f4728ab68aa49e969b51]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/6/4) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a9a0fe598db1052981af18f0c657f5a]: Textual amendment: Words in [reg. 6(5)(c)(x)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/6/5/c/x) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [10(3)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a9a0fe598db1052981af18f0c657f5a]: Textual amendment: Words in [reg. 6(5)(c)(x)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/6/5/c/x) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [10(3)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3591b172627ba520e10a43836a05e4ba]: Commencement: Reg. 7 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-3591b172627ba520e10a43836a05e4ba]: Commencement: Reg. 7 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
-[^key-ab65663a00ae0bec68db32e654c0f9c9]: Textual amendment: Words in [reg. 7(2)(h)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/7/2/h) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab65663a00ae0bec68db32e654c0f9c9]: Textual amendment: Words in [reg. 7(2)(h)](https://www.legislation.gov.uk/uksi/2010/2987/regulation/7/2/h) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00014]: Footnote: [S.I. 2001/3444](https://www.legislation.gov.uk/uksi/2001/3444).
 
-[^key-ae7c05bed2082449a25ffc13228be920]: Commencement: Reg. 8 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-ae7c05bed2082449a25ffc13228be920]: Commencement: Reg. 8 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
-[^key-ceed39e2858a1c29128f6e4df7defdb6]: Commencement: Reg. 9 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-ceed39e2858a1c29128f6e4df7defdb6]: Commencement: Reg. 9 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
-[^key-9348929dd1b643992503eae7add828e8]: Commencement: Reg. 10 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-9348929dd1b643992503eae7add828e8]: Commencement: Reg. 10 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
-[^key-8c0352bac3b807c9afa976b7de04c00b]: Commencement: Reg. 11 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-8c0352bac3b807c9afa976b7de04c00b]: Commencement: Reg. 11 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
-[^key-83329b293ef946c9710a308747e14b06]: Commencement: Reg. 12 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-83329b293ef946c9710a308747e14b06]: Commencement: Reg. 12 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
-[^key-97150bc284c0003a68af5459181cddd6]: Commencement: Reg. 13 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-97150bc284c0003a68af5459181cddd6]: Commencement: Reg. 13 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
-[^key-12f14acb3c8ddb12ae7ee883deb0c87f]: Commencement: Reg. 14 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-12f14acb3c8ddb12ae7ee883deb0c87f]: Commencement: Reg. 14 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
 [^f00015]: Footnote: Cmnd. 8941.
 
-[^key-9af42b360fd8e4d8f69613760a755167]: Commencement: Reg. 15 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-9af42b360fd8e4d8f69613760a755167]: Commencement: Reg. 15 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
 [^f00016]: Footnote: The International Labour Office is the permanent secretariat of the International Labour Organisation which is an agency of the United Nations.
 
 [^f00017]: Footnote: Section 258(1) was amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1 paragraph 4 and Schedule 7 Part I, and modified in relation to a ship in a port in the United Kingdom by [S.I. 1995/3128](https://www.legislation.gov.uk/uksi/1995/3128).
 
-[^key-d3c150c2ec0979cb8361ef0fc1f040e0]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2010/2987/regulation/16) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-d3c150c2ec0979cb8361ef0fc1f040e0]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2010/2987/regulation/16) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-e4c8cef0e8b2813e8a3502b711ef76d7]: Commencement: Reg. 17 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-e4c8cef0e8b2813e8a3502b711ef76d7]: Commencement: Reg. 17 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
 
 [^f00019]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1 paragraph 5.
 
-[^key-66d9f28e8046452531922e166c0df7f7]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2010/2987/regulation/18) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-66d9f28e8046452531922e166c0df7f7]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2010/2987/regulation/18) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-92553f8a45548aaf2cef6045963df06e]: Commencement: Reg. 19 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)
+[^c-92553f8a45548aaf2cef6045963df06e]: Commencement: Reg. 19 in force at 10.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2987/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Period for withdrawal of agreement to pay penalty[^key-5173c4d6f51fb0132b04d89b36c0c61d]
+## 115. Period for withdrawal of agreement to pay penalty[^c-5173c4d6f51fb0132b04d89b36c0c61d]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5173c4d6f51fb0132b04d89b36c0c61d]: Commencement: S. 115 in force at 8.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/c)
+[^c-5173c4d6f51fb0132b04d89b36c0c61d]: Commencement: S. 115 in force at 8.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/c)

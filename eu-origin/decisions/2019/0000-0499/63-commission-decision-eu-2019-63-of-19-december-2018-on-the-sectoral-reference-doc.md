@@ -35,325 +35,325 @@ on the sectoral reference document on best environmental management practices, s
 
 (Text with EEA relevance) (revoked)
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2638981e4eb22ce7ca81991adc1473bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2638981e4eb22ce7ca81991adc1473bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2638981e4eb22ce7ca81991adc1473bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2638981e4eb22ce7ca81991adc1473bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2638981e4eb22ce7ca81991adc1473bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2638981e4eb22ce7ca81991adc1473bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-2638981e4eb22ce7ca81991adc1473bf]
+## ANNEX[^c-2638981e4eb22ce7ca81991adc1473bf]
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]1.
+[^c-2638981e4eb22ce7ca81991adc1473bf]1.
 
 **INTRODUCTION**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Relevant legal background
+[^c-2638981e4eb22ce7ca81991adc1473bf] Relevant legal background
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] How to understand and use this document
+[^c-2638981e4eb22ce7ca81991adc1473bf] How to understand and use this document
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] How SRDs should be taken into account by EMAS-registered organisations
+[^c-2638981e4eb22ce7ca81991adc1473bf] How SRDs should be taken into account by EMAS-registered organisations
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Structure of the Sectoral Reference Document
+[^c-2638981e4eb22ce7ca81991adc1473bf] Structure of the Sectoral Reference Document
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]2.
+[^c-2638981e4eb22ce7ca81991adc1473bf]2.
 
 **SCOPE**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Overview of key material flows of the electrical and electronic equipment (EEE) manufacturing value chain
+[^c-2638981e4eb22ce7ca81991adc1473bf] Overview of key material flows of the electrical and electronic equipment (EEE) manufacturing value chain
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.
 
 **BEST ENVIRONMENTAL MANAGEMENT PRACTICES, SECTOR ENVIRONMENTAL PERFORMANCE INDICATORS AND BENCHMARKS OF EXCELLENCE FOR THE ELECTRICAL AND ELECTRONIC EQUIPMENT MANUFACTURING SECTOR**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.1.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.1.
 
 **BEMPs for manufacturing processes**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.1.1.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.1.1.
 
 *Energy-efficient cleanroom technology*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.1.2.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.1.2.
 
 *Energy-efficient cooling technology*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.1.3.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.1.3.
 
 *Energy-efficient soldering*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.1.4.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.1.4.
 
 *On-site copper recycling in process chemicals*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.1.5.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.1.5.
 
 *Cascade rinsing systems*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.1.6.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.1.6.
 
 *Minimisation of perfluorocompound emissions*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.1.7.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.1.7.
 
 *Rational and efficient use of compressed air*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.1.8.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.1.8.
 
 *Protection and enhancement of biodiversity*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.1.9.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.1.9.
 
 *Use of renewable energy*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.1.10.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.1.10.
 
 *Optimised waste management within manufacturing facilities*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.2.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.2.
 
 **BEMPs for supply chain management**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.2.1.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.2.1.
 
 *Assessment tools for cost-effective and environmentally sound substitution of hazardous substances*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.2.2.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.2.2.
 
 *Disclosure and setting of targets for supply chain greenhouse gases emissions*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.2.3.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.2.3.
 
 *Application of Life Cycle Assessment*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.2.4.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.2.4.
 
 *Protection and enhancement of biodiversity along the electrical and electronic equipment supply chain*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.3.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.3.
 
 **BEMPs fostering a more circular economy**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.3.1.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.3.1.
 
 *Strategic guidance on designing products for the circular economy*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.3.2.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.3.2.
 
 *Integrated product service offering*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.3.3.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.3.3.
 
 *Remanufacturing or high-quality refurbishment of used products*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]3.3.4.
+[^c-2638981e4eb22ce7ca81991adc1473bf]3.3.4.
 
 *Increase of the content of recycled plastics in electrical and electronic equipment*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Applicability
+[^c-2638981e4eb22ce7ca81991adc1473bf] Applicability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
+[^c-2638981e4eb22ce7ca81991adc1473bf] Associated environmental performance indicators and benchmarks of excellence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]4.
+[^c-2638981e4eb22ce7ca81991adc1473bf]4.
 
 **RECOMMENDED SECTOR-SPECIFIC KEY ENVIRONMENTAL PERFORMANCE INDICATORS**
 
@@ -361,4 +361,4 @@ on the sectoral reference document on best environmental management practices, s
 
 ## Annotations
 
-[^key-2638981e4eb22ce7ca81991adc1473bf]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2019/559/schedule) (with [reg. 12(2)(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/12/2/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/4/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2638981e4eb22ce7ca81991adc1473bf]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2019/559/schedule) (with [reg. 12(2)(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/12/2/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/4/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

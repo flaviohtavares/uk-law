@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Stamp duty reserve tax: interpretation[^key-1f92e2e09d69e24664811ad575575391]
+## 10. Stamp duty reserve tax: interpretation[^c-1f92e2e09d69e24664811ad575575391]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f92e2e09d69e24664811ad575575391]: Commencement: Art. 10 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-1f92e2e09d69e24664811ad575575391]: Commencement: Art. 10 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00012]: Footnote: Subsection (5B), together with subsection (5A), of section 99 was inserted by paragraph 12(3) of Schedule 19 to the Finance Act 1999.

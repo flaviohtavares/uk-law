@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Meaning of racial hatred[^key-1b398822489a6df17631a8cbfe3152e4]
+## 37. Meaning of racial hatred[^c-1b398822489a6df17631a8cbfe3152e4]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b398822489a6df17631a8cbfe3152e4]: Textual amendment: [S. 37](https://www.legislation.gov.uk/ukpga/2001/24/section/37) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-1b398822489a6df17631a8cbfe3152e4]: Textual amendment: [S. 37](https://www.legislation.gov.uk/ukpga/2001/24/section/37) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)

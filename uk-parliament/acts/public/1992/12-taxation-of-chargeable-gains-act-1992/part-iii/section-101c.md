@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101C. Transfer within group to venture capital trust.[^key-41f65cdfbd6d55d70cd59074453f59b5]
+## 101C. Transfer within group to venture capital trust.[^c-41f65cdfbd6d55d70cd59074453f59b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,10 +43,10 @@ summary: ''
 
 (6) Notwithstanding any limitation on the time for making assessments, any assessment to corporation tax chargeable in consequence of this section may, in a case in which the time of approval is the time at which an accounting period of the company begins, be made at any time within 6 years after the end of that accounting period.
 
-(7) Any reference in this section to an approval is a reference to an approval for the purposes of Part 6 of ITA 2007[^key-9f6e207641873576b948e622acec4edb].
+(7) Any reference in this section to an approval is a reference to an approval for the purposes of Part 6 of ITA 2007[^c-9f6e207641873576b948e622acec4edb].
 
 ## Annotations
 
-[^key-41f65cdfbd6d55d70cd59074453f59b5]: Textual amendment: S. 101C inserted (with application in accordance with s. 135(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 135(2)](https://www.legislation.gov.uk/ukpga/1998/36/section/135/2)
+[^c-41f65cdfbd6d55d70cd59074453f59b5]: Textual amendment: S. 101C inserted (with application in accordance with s. 135(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 135(2)](https://www.legislation.gov.uk/ukpga/1998/36/section/135/2)
 
-[^key-9f6e207641873576b948e622acec4edb]: Textual amendment: Words in s. 101C(7) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 305](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/305) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-9f6e207641873576b948e622acec4edb]: Textual amendment: Words in s. 101C(7) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 305](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/305) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

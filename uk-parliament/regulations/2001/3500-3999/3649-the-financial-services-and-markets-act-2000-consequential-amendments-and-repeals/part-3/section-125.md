@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Determination of questions by Secretary of State[^key-a87ec128e5f3c975fa2ddfa7bfd55e80]
+## 125. Determination of questions by Secretary of State[^c-a87ec128e5f3c975fa2ddfa7bfd55e80]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 170(1)(c) of the Pension Schemes Act 1993 (Determination of questions
 
 ## Annotations
 
-[^key-a87ec128e5f3c975fa2ddfa7bfd55e80]: Commencement: Art. 125 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a87ec128e5f3c975fa2ddfa7bfd55e80]: Commencement: Art. 125 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

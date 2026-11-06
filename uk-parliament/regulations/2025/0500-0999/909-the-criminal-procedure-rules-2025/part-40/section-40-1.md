@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.1. When this Part applies[^key-a95596ad834e8606d69865313d6f98ac]
+## 40.1. When this Part applies[^c-a95596ad834e8606d69865313d6f98ac]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a95596ad834e8606d69865313d6f98ac]: Commencement: [Rule 40.1](https://www.legislation.gov.uk/uksi/2025/909/rule/40.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a95596ad834e8606d69865313d6f98ac]: Commencement: [Rule 40.1](https://www.legislation.gov.uk/uksi/2025/909/rule/40.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00979]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33); section 159(1) was amended by section 61 of the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25).
 

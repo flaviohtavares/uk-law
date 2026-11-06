@@ -32,7 +32,7 @@ summary: ''
 
 PLANT HEALTH, ENGLAND
 
-The Plant Health (England) Order 2005 (revoked)[^key-8ed570a5487bc3402d3a15f7269e4771]
+The Plant Health (England) Order 2005 (revoked)[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 3rd October 2005
 
-[^key-8ed570a5487bc3402d3a15f7269e4771]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ed570a5487bc3402d3a15f7269e4771]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-8ed570a5487bc3402d3a15f7269e4771]
+### PART 1 — GENERAL[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 1 — Title, commencement, extent and application](part-1/section-1.md)
 - [Section 2 — General interpretation](part-1/section-2.md)
 
-### PART 2 — IMPORTS FROM THIRD COUNTRIES[^key-8ed570a5487bc3402d3a15f7269e4771]
+### PART 2 — IMPORTS FROM THIRD COUNTRIES[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 *Extent: E+W*
 
@@ -82,7 +82,7 @@ Coming into force
 - [Section 17 — Approved places of inspection](part-2/section-17.md)
 - [Section 18 — Requirement for plant health movement document](part-2/section-18.md)
 
-### PART 3 — INTERNAL COMMUNITY CONTROLS ON MOVEMENT[^key-8ed570a5487bc3402d3a15f7269e4771]
+### PART 3 — INTERNAL COMMUNITY CONTROLS ON MOVEMENT[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 *Extent: E+W*
 
@@ -95,7 +95,7 @@ Coming into force
 - [Section 23 — Validity of plant passports for England](part-3/section-23.md)
 - [Section 24 — General provisions relating to plant passports](part-3/section-24.md)
 
-### PART 4 — REGISTRATION OF PLANT TRADERS AND AUTHORITY TO ISSUE PLANT PASSPORTS[^key-8ed570a5487bc3402d3a15f7269e4771]
+### PART 4 — REGISTRATION OF PLANT TRADERS AND AUTHORITY TO ISSUE PLANT PASSPORTS[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 *Extent: E+W*
 
@@ -107,7 +107,7 @@ Coming into force
 - [Section 28 — Conditions for maintaining registration as a plant trader](part-4/section-28.md)
 - [Section 29 — Authority to issue plant passports](part-4/section-29.md)
 
-### PART 5 — SWISS TRADE AND SWISS PLANT PASSPORTS[^key-8ed570a5487bc3402d3a15f7269e4771]
+### PART 5 — SWISS TRADE AND SWISS PLANT PASSPORTS[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 *Extent: E+W*
 
@@ -115,7 +115,7 @@ Coming into force
 
 - [Section 30 — Swiss trade and Swiss plant passports](part-5/section-30.md)
 
-### PART 6 — MEASURES TO CONTROL THE LANDING OF RELEVANT MATERIAL AND PREVENT THE SPREAD OF PLANT PESTS[^key-8ed570a5487bc3402d3a15f7269e4771]
+### PART 6 — MEASURES TO CONTROL THE LANDING OF RELEVANT MATERIAL AND PREVENT THE SPREAD OF PLANT PESTS[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 *Extent: E+W*
 
@@ -130,7 +130,7 @@ Coming into force
 - [Section 37 — Failure to comply with a notice](part-6/section-37.md)
 - [Section 38 — Power to enter premises used wholly or mainly as a dwelling](part-6/section-38.md)
 
-### PART 7 — PLANTING OF, AND CONTROL OF PLANT PESTS ON, CERTAIN SOLANACEOUS SPECIES[^key-8ed570a5487bc3402d3a15f7269e4771]
+### PART 7 — PLANTING OF, AND CONTROL OF PLANT PESTS ON, CERTAIN SOLANACEOUS SPECIES[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 *Extent: E+W*
 
@@ -138,7 +138,7 @@ Coming into force
 
 - [Section 39 — Miscellaneous provisions for certain solanaceous species](part-7/section-39.md)
 
-### PART 8 — LICENCES[^key-8ed570a5487bc3402d3a15f7269e4771]
+### PART 8 — LICENCES[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 *Extent: E+W*
 
@@ -147,7 +147,7 @@ Coming into force
 - [Section 40 — Licences to carry out activities prohibited by this Order](part-8/section-40.md)
 - [Section 41 — Licences for trial or scientific purposes and for work on varietal selections](part-8/section-41.md)
 
-### PART 9 — NOTIFICATIONS, PROVISION AND EXCHANGE OF INFORMATION[^key-8ed570a5487bc3402d3a15f7269e4771]
+### PART 9 — NOTIFICATIONS, PROVISION AND EXCHANGE OF INFORMATION[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 *Extent: E+W*
 
@@ -157,7 +157,7 @@ Coming into force
 - [Section 43 — Notification of the likely entry into, or presence in, a free zone of plant pests or relevant material](part-9/section-43.md)
 - [Section 44 — Information to be given](part-9/section-44.md)
 
-### PART 10 — OFFENCES[^key-8ed570a5487bc3402d3a15f7269e4771]
+### PART 10 — OFFENCES[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 *Extent: E+W*
 
@@ -166,7 +166,7 @@ Coming into force
 - [Section 45 — Offences](part-10/section-45.md)
 - [Section 46 — Penalties](part-10/section-46.md)
 
-### PART 11 — THE CUSTOMS ACT AND REVOCATION[^key-8ed570a5487bc3402d3a15f7269e4771]
+### PART 11 — THE CUSTOMS ACT AND REVOCATION[^c-8ed570a5487bc3402d3a15f7269e4771]
 
 *Extent: E+W*
 
@@ -199,16 +199,16 @@ Coming into force
 
 **No longer in force.**
 
-[^key-8ed570a5487bc3402d3a15f7269e4771]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ed570a5487bc3402d3a15f7269e4771]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-8ed570a5487bc3402d3a15f7269e4771]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ed570a5487bc3402d3a15f7269e4771]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8ed570a5487bc3402d3a15f7269e4771]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/2530) revoked (1.7.2015) by [The Plant Health (England) Order 2015 (revoked) 2015 (S.I. 2015/610)](https://www.legislation.gov.uk/uksi/2015/610), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2015/610/article/1/b), [49(1)](https://www.legislation.gov.uk/uksi/2015/610/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/uksi/2015/610/article/49/2)[(3)](https://www.legislation.gov.uk/uksi/2015/610/article/49/3))
+[^c-8ed570a5487bc3402d3a15f7269e4771]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/2530) revoked (1.7.2015) by [The Plant Health (England) Order 2015 (revoked) 2015 (S.I. 2015/610)](https://www.legislation.gov.uk/uksi/2015/610), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2015/610/article/1/b), [49(1)](https://www.legislation.gov.uk/uksi/2015/610/article/49/1) (with [art. 49(2)](https://www.legislation.gov.uk/uksi/2015/610/article/49/2)[(3)](https://www.legislation.gov.uk/uksi/2015/610/article/49/3))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

@@ -24,7 +24,7 @@ Article 60
 
 ### PART 1 — INTRODUCTORY
 
-#### 1. Interpretation[^key-c190d168ea4a9d5aa074b4133dad66fb]
+#### 1. Interpretation[^c-c190d168ea4a9d5aa074b4133dad66fb]
 
 (1) In this licence—
 
@@ -54,7 +54,7 @@ Article 60
 
 (2) Unless otherwise specified, all geographical co-ordinates given in this licence are in latitude and longitude degrees and minutes to two decimal places.
 
-#### 2. Contact Details[^key-77292ac4f9c553343066db4d057701dd]
+#### 2. Contact Details[^c-77292ac4f9c553343066db4d057701dd]
 
 (1) The main points of contact with the MMO are as follows—
 
@@ -66,14 +66,14 @@ Article 60
 
 ### PART 2 — LICENSABLE MARINE ACTIVITIES
 
-**3.**[^key-8d0778d3919ed733317e2ac417a31154] Subject to the licence conditions in Part 4 of this licence, this licence authorises the undertaker to carry out any licensable marine activities under section 66(1) of the 2009 Act which involve the construction, alteration or improvement of any works in or over the sea or on or under the sea bed and which—
+**3.**[^c-8d0778d3919ed733317e2ac417a31154] Subject to the licence conditions in Part 4 of this licence, this licence authorises the undertaker to carry out any licensable marine activities under section 66(1) of the 2009 Act which involve the construction, alteration or improvement of any works in or over the sea or on or under the sea bed and which—
 
 - (a) form part of, or are related to, the authorised development; and
 - (b) are not exempt from requiring a marine licence by virtue of any provision made under section 74 of the 2009 Act.
 
-**4.**[^key-cdcaf794cf88ba09ccecdde83af2ab00] The activities set out in this Part may be carried out by the undertaker as if licenced under the 2009 Act.
+**4.**[^c-cdcaf794cf88ba09ccecdde83af2ab00] The activities set out in this Part may be carried out by the undertaker as if licenced under the 2009 Act.
 
-**5.**[^key-5e58d8eadb8d271438c455a8106a3e96] (1) In this licence, “**authorised development**” means construction, alteration, improvement, maintenance, operation and decommissioning of those parts of each of the following works to the extent that such works constitute licensable marine activities—
+**5.**[^c-5e58d8eadb8d271438c455a8106a3e96] (1) In this licence, “**authorised development**” means construction, alteration, improvement, maintenance, operation and decommissioning of those parts of each of the following works to the extent that such works constitute licensable marine activities—
 
 - (a) the construction and decommissioning of the drainage pipeline and outfall, during the construction phase, from the northern tunnel entrance compound which may include—
   - (i) a buried pipe within the foreshore and a outfall structure at the discharge point that would terminate in a precast outfall or diffuser head on the subtidal riverbed slope and would be with a length of 400m and a maximum diameter of 1m; and
@@ -134,19 +134,19 @@ Article 60
 
 ### PART 3 — ENFORCEMENT
 
-**6.**[^key-aee1daa9567f7a8216a3d7884abda1c1] Any breach of this licence does not constitute a breach of the Order but is subject to the enforcement regime in Chapter 3 of Part 4 of the 2009 Act.
+**6.**[^c-aee1daa9567f7a8216a3d7884abda1c1] Any breach of this licence does not constitute a breach of the Order but is subject to the enforcement regime in Chapter 3 of Part 4 of the 2009 Act.
 
 ### PART 4 — CONDITIONS
 
-#### 7. General conditions[^key-8dce71b62e9165c92e164e94efd3dd02]
+#### 7. General conditions[^c-8dce71b62e9165c92e164e94efd3dd02]
 
 Where provisions under section 71(5) of the 2009 Act apply, all conditions attached to this licence apply to any person who for the time being owns, occupies or enjoys any use of the licensable marine activities for which this licence has been granted.
 
-**8.**[^key-986ca9d14830b32995a696cdd3dc9a64] (1) The MMO must be notified at the earliest opportunity should any information on which the granting of this licence was based change or is likely to change.
+**8.**[^c-986ca9d14830b32995a696cdd3dc9a64] (1) The MMO must be notified at the earliest opportunity should any information on which the granting of this licence was based change or is likely to change.
 
 (2) Failure to comply with paragraph (1) may render this licence invalid and may lead to enforcement action.
 
-#### 9. Distribution of copies[^key-12821cff6ba02442108c8e8bcc050fb4]
+#### 9. Distribution of copies[^c-12821cff6ba02442108c8e8bcc050fb4]
 
 (1) The MMO must be notified in writing of—
 
@@ -164,7 +164,7 @@ Where provisions under section 71(5) of the 2009 Act apply, all conditions attac
 - (a) provide the start date of any licensed activities;
 - (b) be provided to the MMO Marine Licensing Team within 5 business days of publication.
 
-#### 10. Construction method statement[^key-d491e2127973b984f2c1cbda2c02e6e9]
+#### 10. Construction method statement[^c-d491e2127973b984f2c1cbda2c02e6e9]
 
 (1) The undertaker must submit details of a method statement to the MMO for approval by the MMO at least 30 business days prior to the commencement of the licensable marine activity.
 
@@ -184,7 +184,7 @@ Where provisions under section 71(5) of the 2009 Act apply, all conditions attac
 
 (4) The licensable marine activity must be carried out in accordance with the approved method statement, unless otherwise agreed in writing with the MMO.
 
-#### 11. Marine pollution contingency plan[^key-19906db56a8d8808351c8788611fdc33]
+#### 11. Marine pollution contingency plan[^c-19906db56a8d8808351c8788611fdc33]
 
 (1) The undertaker must submit a marine pollution contingency plan for approval by the MMO at least 30 business days prior to the commencement of the first licensable marine activity.
 
@@ -194,15 +194,15 @@ Where provisions under section 71(5) of the 2009 Act apply, all conditions attac
 
 (4) The licensable marine activities must be carried out in accordance with the approved marine pollution contingency plan, unless otherwise agreed in writing by the MMO.
 
-#### 12. Concrete and cement[^key-1357568b08a5a7bad2846364d47047ea]
+#### 12. Concrete and cement[^c-1357568b08a5a7bad2846364d47047ea]
 
 Waste concrete, slurry or wash water from concrete or cement activities must not be discharged, intentionally or unintentionally, into the marine environment. Concrete and cement mixing and washing areas must be contained and sited at least 10 metres from any water body or surface water drain.
 
-#### 13. Coatings and treatment[^key-0dddbd830d8226a1b5d94bcdba981a5c]
+#### 13. Coatings and treatment[^c-0dddbd830d8226a1b5d94bcdba981a5c]
 
 The undertaker must ensure that only coatings and treatments can be used that are suitable for use in the marine environment.
 
-#### 14. Spills, etc.[^key-5ecf1006d023c233e885b4dfc79e4c60]
+#### 14. Spills, etc.[^c-5ecf1006d023c233e885b4dfc79e4c60]
 
 (1) Bunding and/or storage facilities must be installed to contain and prevent the release of fuel, oils, and chemicals associated with plant, refuelling and construction equipment, into the marine environment. Secondary containment must be used with a capacity of no less than 110% of the container’s storage capacity
 
@@ -210,7 +210,7 @@ The undertaker must ensure that only coatings and treatments can be used that ar
 
 (3) During licensed activities all wastes must be stored in designated areas that are isolated from surface water drains and open water and are bunded to contain any spillage
 
-#### 15. Piling techniques[^key-f78d68888e70982328c275388f23db17]
+#### 15. Piling techniques[^c-f78d68888e70982328c275388f23db17]
 
 (1) Where a licensable marine activity involves piling the undertaker must comply with the requirements set out in sub-paragraph (2).
 
@@ -222,7 +222,7 @@ The undertaker must ensure that only coatings and treatments can be used that ar
 - (b) where percussive piling is necessary, soft-start procedures are to be used to ensure an incremental increase in pile power, over a period of not less than 20 minutes until full operational power is achieved; and
 - (c) where piling ceases for at least 10 minutes the soft-start procedures must be repeated.
 
-#### 16. Noise registry[^key-1edcda107e5332e9beafd5f10d885d0c]
+#### 16. Noise registry[^c-1edcda107e5332e9beafd5f10d885d0c]
 
 Where impact piling is required as part of a method statement approved by the MMO under condition 10, the undertaker must—
 
@@ -233,15 +233,15 @@ Where impact piling is required as part of a method statement approved by the MM
   - (i) submit details of the actual location, start and end dates of impact pile driving to the Marine Noise Registry in order to satisfy the close out requirements of the Marine Noise Registry; and
   - (ii) send copies of the notifications required under sub-paragraph (i) within 5 business days of the date of submission of the details required under sub-paragraph (i).
 
-#### 17. Removal of temporary structures, etc.[^key-d33fdef0e5e4c88d56b526b00b2e1382]
+#### 17. Removal of temporary structures, etc.[^c-d33fdef0e5e4c88d56b526b00b2e1382]
 
 The undertaker must remove all equipment, temporary structures, waste and debris associated with the licensable marine activities within 30 business days of the completion of those activities, unless otherwise agreed in writing by the MMO.
 
-#### 18. Notice of completion of licensable marine activity[^key-6d7bb2dddadebb16c8dcf759b116d083]
+#### 18. Notice of completion of licensable marine activity[^c-6d7bb2dddadebb16c8dcf759b116d083]
 
 The undertaker must inform the MMO in writing of the completion of the last marine activity no more than 10 business days following the completion of the said activity.
 
-#### 19. Licensable marine activity at Coalhouse Point[^key-5a02c26d08d13adbdc3e0b6eeacf5296]
+#### 19. Licensable marine activity at Coalhouse Point[^c-5a02c26d08d13adbdc3e0b6eeacf5296]
 
 (1) The licensable marine activities referred to at paragraph 5(1)(c) must not commence until a detailed design plan has been submitted to and approved in writing by the MMO. The detailed design plan must include—
 
@@ -254,17 +254,17 @@ The undertaker must inform the MMO in writing of the completion of the last mari
 
 ### PART 5 — PROCEDURE FOR THE DISCHARGE OF CONDITIONS
 
-#### 20. Meaning of “return”[^key-9e6b5dbfdaca0d27c8f5c171d0926a69]
+#### 20. Meaning of “return”[^c-9e6b5dbfdaca0d27c8f5c171d0926a69]
 
 In this Part, “**return**” means a submission by the undertaker for approval by the MMO of any method statement or plan required under Part 4 of this licence.
 
-#### 21. Further information regarding return[^key-a2bc7cc6d7860483bbb8618e136e582f]
+#### 21. Further information regarding return[^c-a2bc7cc6d7860483bbb8618e136e582f]
 
 (1) The MMO may request in writing such further information from the undertaker as is necessary to enable the MMO to consider the return.
 
 (2) If the MMO does not make a request under sub-paragraph (1) within 30 business days of the day immediately following that on which the return is received by the MMO, it is deemed to have sufficient information to consider the return and is not entitled to request further information after this date without the prior agreement of the undertaker.
 
-#### 22. Determination of return[^key-cdafdc550cbddc8561eddee5abfd5aa8]
+#### 22. Determination of return[^c-cdafdc550cbddc8561eddee5abfd5aa8]
 
 (1) In determining the return the MMO may have regard to—
 
@@ -278,7 +278,7 @@ In this Part, “**return**” means a submission by the undertaker for approval
 - (b) grant the return subject to conditions as the MMO thinks fit; or
 - (c) refuse the return.
 
-#### 23. Notice of determination[^key-66b4bcb07aeff54adfb98d0b41b12e1d]
+#### 23. Notice of determination[^c-66b4bcb07aeff54adfb98d0b41b12e1d]
 
 (1) Subject to sub-paragraph (2) or (3), the MMO must give notice to the undertaker of the determination of the return within 30 business days of the day immediately following that on which the return is received by the MMO, or as soon as reasonably practicable after that date.
 
@@ -288,13 +288,13 @@ In this Part, “**return**” means a submission by the undertaker for approval
 
 (4) Where the MMO refuses the return the refusal notice must state the reasons for the refusal.
 
-#### 24. Arbitration[^key-6927e2a6bc5dec774f128b363227ace7]
+#### 24. Arbitration[^c-6927e2a6bc5dec774f128b363227ace7]
 
 Regulations made under section 73 of the 2009 Act apply to any difference under any provision of this licence and article 64 (arbitration) does not apply.
 
 ### PART 6 — CHANGES TO THE DEEMED MARINE LICENCE
 
-**25.**[^key-a21799513e747644386f758f59cee521] (1) In the event that the undertaker wishes to undertake the licensable marine activity contrary to the conditions of this licence, it must inform the MMO at the earliest opportunity and request a variation to the conditions of this licence.
+**25.**[^c-a21799513e747644386f758f59cee521] (1) In the event that the undertaker wishes to undertake the licensable marine activity contrary to the conditions of this licence, it must inform the MMO at the earliest opportunity and request a variation to the conditions of this licence.
 
 (2) The undertaker must not carry out any licensable marine activity contrary to the conditions of this licence until a variation to the licence has been approved by the MMO pursuant to its powers under section 72(3) of the 2009 Act.
 
@@ -304,7 +304,7 @@ Regulations made under section 73 of the 2009 Act apply to any difference under 
 
 ## Annotations
 
-[^key-c190d168ea4a9d5aa074b4133dad66fb]: Commencement: Sch. 15 para. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-c190d168ea4a9d5aa074b4133dad66fb]: Commencement: Sch. 15 para. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00195]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
@@ -314,50 +314,50 @@ Regulations made under section 73 of the 2009 Act apply to any difference under 
 
 [^f00198]: Footnote: [1981 c. 19](https://www.legislation.gov.uk/ukpga/1981/19).
 
-[^key-77292ac4f9c553343066db4d057701dd]: Commencement: Sch. 15 para. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-77292ac4f9c553343066db4d057701dd]: Commencement: Sch. 15 para. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-8d0778d3919ed733317e2ac417a31154]: Commencement: Sch. 15 para. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-8d0778d3919ed733317e2ac417a31154]: Commencement: Sch. 15 para. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-cdcaf794cf88ba09ccecdde83af2ab00]: Commencement: Sch. 15 para. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-cdcaf794cf88ba09ccecdde83af2ab00]: Commencement: Sch. 15 para. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-5e58d8eadb8d271438c455a8106a3e96]: Commencement: Sch. 15 para. 5 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-5e58d8eadb8d271438c455a8106a3e96]: Commencement: Sch. 15 para. 5 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-aee1daa9567f7a8216a3d7884abda1c1]: Commencement: Sch. 15 para. 6 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-aee1daa9567f7a8216a3d7884abda1c1]: Commencement: Sch. 15 para. 6 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-8dce71b62e9165c92e164e94efd3dd02]: Commencement: Sch. 15 para. 7 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-8dce71b62e9165c92e164e94efd3dd02]: Commencement: Sch. 15 para. 7 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-986ca9d14830b32995a696cdd3dc9a64]: Commencement: Sch. 15 para. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-986ca9d14830b32995a696cdd3dc9a64]: Commencement: Sch. 15 para. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-12821cff6ba02442108c8e8bcc050fb4]: Commencement: Sch. 15 para. 9 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-12821cff6ba02442108c8e8bcc050fb4]: Commencement: Sch. 15 para. 9 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-d491e2127973b984f2c1cbda2c02e6e9]: Commencement: Sch. 15 para. 10 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-d491e2127973b984f2c1cbda2c02e6e9]: Commencement: Sch. 15 para. 10 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-19906db56a8d8808351c8788611fdc33]: Commencement: Sch. 15 para. 11 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-19906db56a8d8808351c8788611fdc33]: Commencement: Sch. 15 para. 11 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-1357568b08a5a7bad2846364d47047ea]: Commencement: Sch. 15 para. 12 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-1357568b08a5a7bad2846364d47047ea]: Commencement: Sch. 15 para. 12 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-0dddbd830d8226a1b5d94bcdba981a5c]: Commencement: Sch. 15 para. 13 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-0dddbd830d8226a1b5d94bcdba981a5c]: Commencement: Sch. 15 para. 13 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-5ecf1006d023c233e885b4dfc79e4c60]: Commencement: Sch. 15 para. 14 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-5ecf1006d023c233e885b4dfc79e4c60]: Commencement: Sch. 15 para. 14 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-f78d68888e70982328c275388f23db17]: Commencement: Sch. 15 para. 15 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-f78d68888e70982328c275388f23db17]: Commencement: Sch. 15 para. 15 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-1edcda107e5332e9beafd5f10d885d0c]: Commencement: Sch. 15 para. 16 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-1edcda107e5332e9beafd5f10d885d0c]: Commencement: Sch. 15 para. 16 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-d33fdef0e5e4c88d56b526b00b2e1382]: Commencement: Sch. 15 para. 17 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-d33fdef0e5e4c88d56b526b00b2e1382]: Commencement: Sch. 15 para. 17 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-6d7bb2dddadebb16c8dcf759b116d083]: Commencement: Sch. 15 para. 18 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-6d7bb2dddadebb16c8dcf759b116d083]: Commencement: Sch. 15 para. 18 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-5a02c26d08d13adbdc3e0b6eeacf5296]: Commencement: Sch. 15 para. 19 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-5a02c26d08d13adbdc3e0b6eeacf5296]: Commencement: Sch. 15 para. 19 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-9e6b5dbfdaca0d27c8f5c171d0926a69]: Commencement: Sch. 15 para. 20 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-9e6b5dbfdaca0d27c8f5c171d0926a69]: Commencement: Sch. 15 para. 20 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-a2bc7cc6d7860483bbb8618e136e582f]: Commencement: Sch. 15 para. 21 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-a2bc7cc6d7860483bbb8618e136e582f]: Commencement: Sch. 15 para. 21 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-cdafdc550cbddc8561eddee5abfd5aa8]: Commencement: Sch. 15 para. 22 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-cdafdc550cbddc8561eddee5abfd5aa8]: Commencement: Sch. 15 para. 22 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-66b4bcb07aeff54adfb98d0b41b12e1d]: Commencement: Sch. 15 para. 23 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-66b4bcb07aeff54adfb98d0b41b12e1d]: Commencement: Sch. 15 para. 23 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-6927e2a6bc5dec774f128b363227ace7]: Commencement: Sch. 15 para. 24 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-6927e2a6bc5dec774f128b363227ace7]: Commencement: Sch. 15 para. 24 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-a21799513e747644386f758f59cee521]: Commencement: Sch. 15 para. 25 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-a21799513e747644386f758f59cee521]: Commencement: Sch. 15 para. 25 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

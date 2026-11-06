@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Failure to comply with WRA's agreement to defer[^key-1d331251d38934e224a314f15b52fc84]
+## 63. Failure to comply with WRA's agreement to defer[^c-1d331251d38934e224a314f15b52fc84]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the deferral request is to be treated as if it had never been made (and section 
 
 ## Annotations
 
-[^key-1d331251d38934e224a314f15b52fc84]: Commencement: [S. 63](https://www.legislation.gov.uk/anaw/2017/1/section/63) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-1d331251d38934e224a314f15b52fc84]: Commencement: [S. 63](https://www.legislation.gov.uk/anaw/2017/1/section/63) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

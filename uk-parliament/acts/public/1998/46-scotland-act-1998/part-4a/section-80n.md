@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80N. Tax on Wild Fisheries[^key-2ced9b19dc8ce43fc1795fe3bf545b07]
+## 80N. Tax on Wild Fisheries[^c-2ced9b19dc8ce43fc1795fe3bf545b07]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ced9b19dc8ce43fc1795fe3bf545b07]: Textual amendment: Pt. 4A Ch. 7 inserted (9.2.2018) by [The Scotland Act 1998 (Specification of Devolved Tax) (Wild Fisheries) Order 2018 (S.I. 2018/177)](https://www.legislation.gov.uk/uksi/2018/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/177/article/1/2), [2](https://www.legislation.gov.uk/uksi/2018/177/article/2)
+[^c-2ced9b19dc8ce43fc1795fe3bf545b07]: Textual amendment: Pt. 4A Ch. 7 inserted (9.2.2018) by [The Scotland Act 1998 (Specification of Devolved Tax) (Wild Fisheries) Order 2018 (S.I. 2018/177)](https://www.legislation.gov.uk/uksi/2018/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/177/article/1/2), [2](https://www.legislation.gov.uk/uksi/2018/177/article/2)

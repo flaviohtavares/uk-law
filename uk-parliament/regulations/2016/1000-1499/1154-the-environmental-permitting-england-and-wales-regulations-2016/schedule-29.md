@@ -690,7 +690,7 @@ In paragraph 3 of Schedule 1 to the Common Agricultural Policy (Integrated Admin
   - (ii) in sub-paragraph (2), for “rheoliad 35(2)(p) o Reoliadau Trwyddedu Amgylcheddol (Cymru a Lloegr) 2010” substitute “ rheoliad 35(2) o Reoliadau Trwyddedu Amgylcheddol (Cymru a Lloegr) 2016 ”;
   - (iii) in sub-paragraph (3), for “Rheoliadau Trwyddedu Amgylcheddol (Cymru a Lloegr) 2010”, in both places it occurs, substitute “ Rheoliadau Trwyddedu Amgylcheddol (Cymru a Lloegr) 2016 ”.
 
-#### 76. Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^key-f2ff187727edf78df88336d4293ac267]
+#### 76. Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^c-f2ff187727edf78df88336d4293ac267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1199,7 +1199,7 @@ In article 16(8) of the North Wales Wind Farms Connection Order 2016 [^c23195731
 
 [^c23195311]: Marginal citation: [S.I. 2014/3223](https://www.legislation.gov.uk/uksi/2014/3223) (W. 328), to which there are amendments not relevant to these Regulations.
 
-[^key-f2ff187727edf78df88336d4293ac267]: Textual amendment: [Sch. 29 Pt. 2 para. 76](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/76) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg.](https://www.legislation.gov.uk/uksi/2023/816/regulation), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-f2ff187727edf78df88336d4293ac267]: Textual amendment: [Sch. 29 Pt. 2 para. 76](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/76) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg.](https://www.legislation.gov.uk/uksi/2023/816/regulation), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
 [^c23195331]: Marginal citation: [S.I. 2014/3328](https://www.legislation.gov.uk/uksi/2014/3328), to which there are amendments not relevant to these Regulations.
 

@@ -16,19 +16,19 @@ summary: ''
 
 ## 14. Requirement to refer to rent officers
 
-(1)[^key-6d112622c88191a2a39e975f6dba7d24] Subject to the following provisions of this regulation, a relevant authority shall apply to a rent officer for a determination to be made in pursuance of the Housing Act functions where—
+(1)[^c-6d112622c88191a2a39e975f6dba7d24] Subject to the following provisions of this regulation, a relevant authority shall apply to a rent officer for a determination to be made in pursuance of the Housing Act functions where—
 
 - (a) it has received a claim on which rent allowance may be awarded and any of the circumstances specified in regulation 13C(5)(a) to (e) (rent allowance cases for which a maximum rent (standard local rent) is not to be determined) apply;
 - (b) it has received relevant information regarding a claim on which rent allowance may be awarded and any of the circumstances specified in regulation 13C(5)(a) to (e) apply;
 - (c) it has received a notification of a change relating to a rent allowance and a maximum rent ( LHA ) does not fall to be determined under regulation 13C (determination of a maximum rent ( LHA ));
 - (d) it has received a notification of a change of dwelling and any of the circumstances specified in regulation 13C(5)(a) to (e) apply;
 - (e) it has received, except in the case where any liability to make payments in respect of a dwelling would be to a housing authority, a request from a person (“the prospective occupier”), on a properly completed form approved for the purpose by the relevant authority, which includes the specified matters and any of the circumstances specified in regulation 13C(5)(a) to (d) apply;
-- (f) 52 weeks have expired since it last made an application under sub-paragraph (a), (b), (c), (d), (e) or (h)[^key-fc96d0e70d13e0a70839934d803c478c] in relation to the claim or award in question and—
+- (f) 52 weeks have expired since it last made an application under sub-paragraph (a), (b), (c), (d), (e) or (h)[^c-fc96d0e70d13e0a70839934d803c478c] in relation to the claim or award in question and—
   - (i) a maximum rent ( LHA ) determined under regulation 13D does not apply; and
-  - (ii) a maximum rent (LHA) is not to be determined under regulation 13D; [^key-242ca8b545ddbdecef66c36897743f2b] ...
+  - (ii) a maximum rent (LHA) is not to be determined under regulation 13D; [^c-242ca8b545ddbdecef66c36897743f2b] ...
 - (g) 52 weeks have expired since an application was made under sub-paragraph (f) or a previous application was made under this sub-paragraph, whichever last occurred, and—
   - (i) a maximum rent (LHA) determined under regulation 13D does not apply; and
-  - (ii) a maximum rent (LHA) is not to be determined under regulation 13D; or[^key-94f5f5af9190955880ca0db87acffcea]
+  - (ii) a maximum rent (LHA) is not to be determined under regulation 13D; or[^c-94f5f5af9190955880ca0db87acffcea]
 - (h) has received notification that any of the circumstances in regulation 13C(5) apply.
 
 (2) An application shall not be required under paragraph (1) where a claim, relevant information regarding a claim, notification or request relates to either—
@@ -61,7 +61,7 @@ except that, in the case of a request to which paragraph (1)(e) (request from pr
 
 (8) In this regulation—
 
-- “change relating to a rent allowance” means a change or increase to which paragraph 2(3)(a), (b), (c), (d)[^key-ca6bdc3aa7712fe1e9df208746093f10] (e)[^key-1a59e4a4edf7158a0c43e2811fcdf951], (f) or (g)[^key-2ef372e8690b31718241351f0b05057e] of Schedule 2 applies;
+- “change relating to a rent allowance” means a change or increase to which paragraph 2(3)(a), (b), (c), (d)[^c-ca6bdc3aa7712fe1e9df208746093f10] (e)[^c-1a59e4a4edf7158a0c43e2811fcdf951], (f) or (g)[^c-2ef372e8690b31718241351f0b05057e] of Schedule 2 applies;
 - “prospective occupier” shall include a person currently in receipt of housing benefit in respect of a dwelling which he occupies as his home and who is contemplating entering into a new agreement to occupy that dwelling, but only where his current agreement commenced 11 months or more before the request under paragraph (1)(e);
 - “specified matters” means—
   - (a) the signature of the prospective occupier;
@@ -73,22 +73,22 @@ except that, in the case of a request to which paragraph (1)(e) (request from pr
   - (b) in any other case, a licence to occupy premises,
 
   and reference to a tenant, landlord or any other expression appropriate to a tenancy shall be construed accordingly;
-- [^key-d6d6bcbbb7121e95c75f24a7fa1315d2]...
+- [^c-d6d6bcbbb7121e95c75f24a7fa1315d2]...
 
 ## Annotations
 
-[^key-6d112622c88191a2a39e975f6dba7d24]: Textual amendment: Reg. 14 substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2007/2869/regulation/8)
+[^c-6d112622c88191a2a39e975f6dba7d24]: Textual amendment: Reg. 14 substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2007/2869/regulation/8)
 
-[^key-fc96d0e70d13e0a70839934d803c478c]: Textual amendment: Words in reg. 14(1)(f) substituted by SI 2007/2869 reg. 8 (as amended) (7.4.2008) by [Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [5(5)(a)(i)](https://www.legislation.gov.uk/uksi/2008/586/regulation/5/5/a/i)
+[^c-fc96d0e70d13e0a70839934d803c478c]: Textual amendment: Words in reg. 14(1)(f) substituted by SI 2007/2869 reg. 8 (as amended) (7.4.2008) by [Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [5(5)(a)(i)](https://www.legislation.gov.uk/uksi/2008/586/regulation/5/5/a/i)
 
-[^key-242ca8b545ddbdecef66c36897743f2b]: Textual amendment: Word in reg. 14(1)(f)(ii) omitted by SI 2007/2869 reg. 8 (as amended) (7.4.2008) by virtue of [Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [5(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/586/regulation/5/5/a/ii)
+[^c-242ca8b545ddbdecef66c36897743f2b]: Textual amendment: Word in reg. 14(1)(f)(ii) omitted by SI 2007/2869 reg. 8 (as amended) (7.4.2008) by virtue of [Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [5(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/586/regulation/5/5/a/ii)
 
-[^key-94f5f5af9190955880ca0db87acffcea]: Textual amendment: Reg. 14(1)(h) and word added by SI 2007/2869 reg. 8 (as amended) (7.4.2008) by [Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2008/586/regulation/5/5/b)
+[^c-94f5f5af9190955880ca0db87acffcea]: Textual amendment: Reg. 14(1)(h) and word added by SI 2007/2869 reg. 8 (as amended) (7.4.2008) by [Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2008/586/regulation/5/5/b)
 
-[^key-ca6bdc3aa7712fe1e9df208746093f10]: Textual amendment: Words in reg. 14(8) substituted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/3/7)
+[^c-ca6bdc3aa7712fe1e9df208746093f10]: Textual amendment: Words in reg. 14(8) substituted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/3/7)
 
-[^key-1a59e4a4edf7158a0c43e2811fcdf951]: Textual amendment: Words in reg. 14(8) substituted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/665/regulation/3/4)
+[^c-1a59e4a4edf7158a0c43e2811fcdf951]: Textual amendment: Words in reg. 14(8) substituted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/665/regulation/3/4)
 
-[^key-2ef372e8690b31718241351f0b05057e]: Textual amendment: Words in reg. 14(8) substituted (4.12.2013) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2828)](https://www.legislation.gov.uk/uksi/2013/2828), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2828/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/2828/regulation/3/4)
+[^c-2ef372e8690b31718241351f0b05057e]: Textual amendment: Words in reg. 14(8) substituted (4.12.2013) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2828)](https://www.legislation.gov.uk/uksi/2013/2828), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2828/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/2828/regulation/3/4)
 
-[^key-d6d6bcbbb7121e95c75f24a7fa1315d2]: Textual amendment: Words in reg. 14(8) omitted by SI 2007/2869 reg. 8 (as amended) (7.4.2008) by virtue of [Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [5(5)(c)](https://www.legislation.gov.uk/uksi/2008/586/regulation/5/5/c)
+[^c-d6d6bcbbb7121e95c75f24a7fa1315d2]: Textual amendment: Words in reg. 14(8) omitted by SI 2007/2869 reg. 8 (as amended) (7.4.2008) by virtue of [Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [5(5)(c)](https://www.legislation.gov.uk/uksi/2008/586/regulation/5/5/c)

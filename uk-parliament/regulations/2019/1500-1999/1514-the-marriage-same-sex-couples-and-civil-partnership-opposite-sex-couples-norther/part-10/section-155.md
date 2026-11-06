@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003[^key-c7dbfcdb84ae4897fb1e9cc99c0b6058]
+## 155. Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003[^c-c7dbfcdb84ae4897fb1e9cc99c0b6058]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ In regulation 3 of the Employment Equality (Sexual Orientation) Regulations (Nor
 
 ## Annotations
 
-[^key-c7dbfcdb84ae4897fb1e9cc99c0b6058]: Commencement: Reg. 155 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-c7dbfcdb84ae4897fb1e9cc99c0b6058]: Commencement: Reg. 155 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00262]: Footnote: [S.R. (N.I.) 2003/497](https://www.legislation.gov.uk/nisr/2003/497). Regulation 3 was amended by [S.R. (N.I.) 2005/520](https://www.legislation.gov.uk/nisr/2005/520).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8A (Extent: S) — REVIEW OF CRIMINAL RECORD CERTIFICATES (Extent: S)[^key-95bc6f2e8b7383f87b5bdf1c5fad00a2][^key-cda1fd6d0aded7cc5666a383cc53f150]
+## SCHEDULE 8A (Extent: S) — REVIEW OF CRIMINAL RECORD CERTIFICATES (Extent: S)[^c-95bc6f2e8b7383f87b5bdf1c5fad00a2][^c-cda1fd6d0aded7cc5666a383cc53f150]
 
 *Extent: NI*
 
@@ -135,6 +135,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95bc6f2e8b7383f87b5bdf1c5fad00a2]: Textual amendment: Sch. 8A inserted (N.I.) (1.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/4); [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 3(b)](https://www.legislation.gov.uk/nisr/2015/418/article/3/b)
+[^c-95bc6f2e8b7383f87b5bdf1c5fad00a2]: Textual amendment: Sch. 8A inserted (N.I.) (1.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/4); [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 3(b)](https://www.legislation.gov.uk/nisr/2015/418/article/3/b)
 
-[^key-cda1fd6d0aded7cc5666a383cc53f150]: Textual amendment: Schs. 8A, 8B inserted (S.) (8.2.2016) by [The Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial (No. 2) Order 2015 (S.S.I. 2015/423)](https://www.legislation.gov.uk/ssi/2015/423), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/423/article/1/2), [3(8)](https://www.legislation.gov.uk/ssi/2015/423/article/3/8) (with [arts. 5-10](https://www.legislation.gov.uk/ssi/2015/423/article/5), [12](https://www.legislation.gov.uk/ssi/2015/423/article/12))
+[^c-cda1fd6d0aded7cc5666a383cc53f150]: Textual amendment: Schs. 8A, 8B inserted (S.) (8.2.2016) by [The Police Act 1997 and the Protection of Vulnerable Groups (Scotland) Act 2007 Remedial (No. 2) Order 2015 (S.S.I. 2015/423)](https://www.legislation.gov.uk/ssi/2015/423), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/423/article/1/2), [3(8)](https://www.legislation.gov.uk/ssi/2015/423/article/3/8) (with [arts. 5-10](https://www.legislation.gov.uk/ssi/2015/423/article/5), [12](https://www.legislation.gov.uk/ssi/2015/423/article/12))

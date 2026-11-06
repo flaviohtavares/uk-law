@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Registration to be in accordance with regulations 27 and 28[^key-400f07012ba471e8cb8030abd738d8f9]
+## 29. Registration to be in accordance with regulations 27 and 28[^c-400f07012ba471e8cb8030abd738d8f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any purported registration of a transfer of title to an uncertificated unit of a
 
 ## Annotations
 
-[^key-400f07012ba471e8cb8030abd738d8f9]: Commencement: Reg. 29 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-400f07012ba471e8cb8030abd738d8f9]: Commencement: Reg. 29 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

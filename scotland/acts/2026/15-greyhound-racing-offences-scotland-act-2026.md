@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 1. Offence of racing a greyhound on a racetrack[^key-82f50d09bd2c1afe7cdf86188476688a]
+### 1. Offence of racing a greyhound on a racetrack[^c-82f50d09bd2c1afe7cdf86188476688a]
 
 (1) A person commits an offence if the person—
 
@@ -64,7 +64,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (7) Regulations under subsection (5) are subject to the affirmative procedure.
 
-### 2. Offence of operating a track for the racing of greyhounds[^key-43e6619932b308270c317767939231f8]
+### 2. Offence of operating a track for the racing of greyhounds[^c-43e6619932b308270c317767939231f8]
 
 (1) A person commits an offence if the person—
 
@@ -85,17 +85,17 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 3. Powers of enforcement[^key-38b1add006b220d156a302d89c915ec2]
+### 3. Powers of enforcement[^c-38b1add006b220d156a302d89c915ec2]
 
 Schedule 1 makes provision about the powers of constables for the purposes of and in connection with this Act.
 
-### 4. Disposals following conviction, etc.[^key-b515a3c8ab6b2031940ed0e66bbe2019]
+### 4. Disposals following conviction, etc.[^c-b515a3c8ab6b2031940ed0e66bbe2019]
 
 Schedule 2 modifies the Animal Health and Welfare (Scotland) Act 2006 in relation to the making of deprivation, disqualification and seizure orders in connection with an offence under section 1(1) or 2(1).
 
 ## Final provisions
 
-### 5. Individual culpability where organisation commits an offence[^key-f38c358f1b37ce76ebe3601ecf709d23]
+### 5. Individual culpability where organisation commits an offence[^c-f38c358f1b37ce76ebe3601ecf709d23]
 
 **Not yet in force.**
 
@@ -124,7 +124,7 @@ Schedule 2 modifies the Animal Health and Welfare (Scotland) Act 2006 in relatio
 | Other partnership | Partner |
 | Any other body or association | Individual who is concerned in the management or control of its affairs |
 
-### 6. Ancillary provision[^key-6c3df98d650fcc76b9267c4b5c7fd853]
+### 6. Ancillary provision[^c-6c3df98d650fcc76b9267c4b5c7fd853]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -138,7 +138,7 @@ Schedule 2 modifies the Animal Health and Welfare (Scotland) Act 2006 in relatio
 - (a) are subject to the affirmative procedure if they add to, replace, or omit any part of the text of this or any other Act,
 - (b) otherwise, are subject to the negative procedure.
 
-### 7. Interpretation[^key-0ca7fc86ff1b28a3329011ac987598ab]
+### 7. Interpretation[^c-0ca7fc86ff1b28a3329011ac987598ab]
 
 **Not yet in force.**
 
@@ -150,7 +150,7 @@ In this Act, unless the contrary intention appears—
 - “**responsible for**”, in relation to a greyhound, is to be construed in accordance with section 1(3),
 - “**responsible for**”, in relation to a racetrack, is to be construed in accordance with section 2(3).
 
-### 8. Commencement[^key-8c8fb0cfc09809667fb2aeeb0ac96593]
+### 8. Commencement[^c-8c8fb0cfc09809667fb2aeeb0ac96593]
 
 (1) This section and sections 6 and 9 come into force on the day after Royal Assent.
 
@@ -161,7 +161,7 @@ In this Act, unless the contrary intention appears—
 - (a) make different provision for different purposes,
 - (b) include transitional, transitory or saving provision.
 
-### 9. Short title[^key-5535baed5f3f58a4fb82ebd831cd554c]
+### 9. Short title[^c-5535baed5f3f58a4fb82ebd831cd554c]
 
 The short title of this Act is the Greyhound Racing (Offences) (Scotland) Act 2026.
 
@@ -171,7 +171,7 @@ The short title of this Act is the Greyhound Racing (Offences) (Scotland) Act 20
 
 (introduced by section 3)
 
-### 1. Interpretation[^key-24d37a5aba56dd571b4df8cc6b29ad0c]
+### 1. Interpretation[^c-24d37a5aba56dd571b4df8cc6b29ad0c]
 
 In this schedule—
 
@@ -192,14 +192,14 @@ In this schedule—
   - (a) a provision of this schedule, or
   - (b) a warrant granted under a provision of this schedule.
 
-### 2. Entry and associated powers[^key-793940faec190dc6c5b76e4ff0d2d59b]
+### 2. Entry and associated powers[^c-793940faec190dc6c5b76e4ff0d2d59b]
 
 A constable may enter any premises (other than domestic premises)—
 
 - (a) if there are reasonable grounds for suspecting that a relevant offence has been or is being committed at the premises, and
 - (b) for the purpose of ascertaining whether or not a relevant offence has been or is being committed at the premises.
 
-**3.**[^key-90232d9fe256351ffcfb10b37a9c3050] (1) A sheriff or justice of the peace may grant a warrant under this sub-paragraph if satisfied—
+**3.**[^c-90232d9fe256351ffcfb10b37a9c3050] (1) A sheriff or justice of the peace may grant a warrant under this sub-paragraph if satisfied—
 
 - (a) that there are reasonable grounds for suspecting—
   - (i) that a relevant offence has been or is being committed at any premises, or
@@ -218,12 +218,12 @@ A constable may enter any premises (other than domestic premises)—
 - (a) the premises are unoccupied, or
 - (b) the occupier is temporarily absent.
 
-**4.**[^key-1d7a9df90a82169fbc8c9a7dc955b777] A warrant under paragraph 3(1) authorises a constable—
+**4.**[^c-1d7a9df90a82169fbc8c9a7dc955b777] A warrant under paragraph 3(1) authorises a constable—
 
 - (a) to enter the premises,
 - (b) to search for, examine and seize any greyhound, equipment, document or other thing tending to provide evidence of the commission of, or participation in, a relevant offence.
 
-**5.**[^key-a60eb424b1496895e95b9342a2c86cc2] (1) A constable may exercise the powers in sub-paragraph (2) without a warrant under paragraph 3(1) if—
+**5.**[^c-a60eb424b1496895e95b9342a2c86cc2] (1) A constable may exercise the powers in sub-paragraph (2) without a warrant under paragraph 3(1) if—
 
 - (a) it appears to the constable that any delay would frustrate the purpose for which the powers are to be exercised, and
 - (b) the premises are not domestic premises.
@@ -233,21 +233,21 @@ A constable may enter any premises (other than domestic premises)—
 - (a) to enter premises,
 - (b) to search for, examine and seize any greyhound, equipment, document or other thing tending to provide evidence of the commission of, or participation in, a relevant offence.
 
-**6.**[^key-5351435793cdd3f4d94c5151859332c0] The power to seize a greyhound under paragraph 4(b) or 5(2)(b) may only be exercised—
+**6.**[^c-5351435793cdd3f4d94c5151859332c0] The power to seize a greyhound under paragraph 4(b) or 5(2)(b) may only be exercised—
 
 - (a) where the greyhound is in the possession or control of a person who the constable has reasonable grounds for suspecting has committed or is committing a relevant offence, and
 - (b) where the constable considers it appropriate to seize the greyhound for the purposes of—
   - (i) enabling the greyhound to be used in proceedings for a relevant offence, or
   - (ii) enabling the greyhound to be forfeited in accordance with [Part 2](https://www.legislation.gov.uk/ukpga/1995/43/part/2) of the [Proceeds of Crime (Scotland) Act 1995](https://www.legislation.gov.uk/ukpga/1995/43/contents).
 
-**7.**[^key-b351676edbeee8197adca6a7122f73e0] (1) A thing seized in exercise of the power in paragraph 4(b) or 5(2)(b) must be returned when retention of it is no longer justified for the purposes of—
+**7.**[^c-b351676edbeee8197adca6a7122f73e0] (1) A thing seized in exercise of the power in paragraph 4(b) or 5(2)(b) must be returned when retention of it is no longer justified for the purposes of—
 
 - (a) enabling it to be used in proceedings for a relevant offence, or
 - (b) enabling it to be forfeited in accordance with [Part 2](https://www.legislation.gov.uk/ukpga/1995/43/part/2) of the [Proceeds of Crime (Scotland) Act 1995](https://www.legislation.gov.uk/ukpga/1995/43/contents).
 
 (2) Sub-paragraph (1) does not apply to perishable things which no longer have any commercial value.
 
-### 8. Stopping and detaining vehicles or vessels[^key-01d4aabf087e86f214d713a373ec2cbf]
+### 8. Stopping and detaining vehicles or vessels[^c-01d4aabf087e86f214d713a373ec2cbf]
 
 (1) A constable in uniform may stop and detain a vehicle or vessel for the purpose of the exercise of a relevant power.
 
@@ -257,20 +257,20 @@ A constable may enter any premises (other than domestic premises)—
 
 (4) In this paragraph, “**vehicle**” includes caravan (within the meaning of section 29(1) of the Caravan Sites and Control of Development Act 1960).
 
-### 9. Entry and associated powers: supplementary[^key-7a543684eb2d5a455e4fa76a2ca4efec]
+### 9. Entry and associated powers: supplementary[^c-7a543684eb2d5a455e4fa76a2ca4efec]
 
 A warrant granted under a provision of this schedule remains in force for one month beginning with the date on which it was granted.
 
-**10.**[^key-bf5c20b63df7e434ecf450caf78cac5e] A constable may, if necessary, use reasonable force when exercising a relevant power.
+**10.**[^c-bf5c20b63df7e434ecf450caf78cac5e] A constable may, if necessary, use reasonable force when exercising a relevant power.
 
-**11.**[^key-87047455087c0855773138ad4b615bb3] A constable exercising a relevant power must produce evidence of the constable’s authority if asked to do so.
+**11.**[^c-87047455087c0855773138ad4b615bb3] A constable exercising a relevant power must produce evidence of the constable’s authority if asked to do so.
 
-**12.**[^key-77587b959cdc01097d92792f69a77ad5] A relevant power includes power to take onto premises—
+**12.**[^c-77587b959cdc01097d92792f69a77ad5] A relevant power includes power to take onto premises—
 
 - (a) such persons for assistance as are required for the purpose of exercising the power, and
 - (b) such equipment as is required for that purpose.
 
-**13.**[^key-7b9a3f868cd6e74853dd10bef7e309e8] (1) A person mentioned in sub-paragraph (2) must—
+**13.**[^c-7b9a3f868cd6e74853dd10bef7e309e8] (1) A person mentioned in sub-paragraph (2) must—
 
 - (a) comply with any reasonable direction made by a constable exercising a relevant power, and
 - (b) in particular, give the constable such information and assistance as the constable may reasonably require.
@@ -285,9 +285,9 @@ A warrant granted under a provision of this schedule remains in force for one mo
   - (iv) to have actual care and control of a person under the age of 16 years who is responsible for the greyhound,
 - (c) a person who appears to be under the direction or control of a person mentioned in paragraph (a) or (b).
 
-**14.**[^key-52fd6283dd973ad88217916318fb40a7] A constable exercising a relevant power in relation to unoccupied premises must leave the premises as effectively secured against entry as the constable found them.
+**14.**[^c-52fd6283dd973ad88217916318fb40a7] A constable exercising a relevant power in relation to unoccupied premises must leave the premises as effectively secured against entry as the constable found them.
 
-### 15. Offences[^key-f4d015916dc30b53728f3d4bd52c69ef]
+### 15. Offences[^c-f4d015916dc30b53728f3d4bd52c69ef]
 
 (1) A person commits an offence if the person contravenes paragraph 13(1) without reasonable excuse.
 
@@ -295,7 +295,7 @@ A warrant granted under a provision of this schedule remains in force for one mo
 
 (3) A person who commits an offence under sub-paragraph (1) or (2) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 16. Powers of constables under this schedule[^key-7a6e6173a2ef43c8397ebe4dd5b54e32]
+### 16. Powers of constables under this schedule[^c-7a6e6173a2ef43c8397ebe4dd5b54e32]
 
 The powers conferred on constables by this schedule do not affect any powers conferred on constables apart from this schedule.
 
@@ -303,7 +303,7 @@ The powers conferred on constables by this schedule do not affect any powers con
 
 (introduced by section 4)
 
-**1.**[^key-65bd41ebdcdc4dc7efdd345e4e872a09] (1) The Animal Health and Welfare (Scotland) Act 2006 is modified as follows.
+**1.**[^c-65bd41ebdcdc4dc7efdd345e4e872a09] (1) The Animal Health and Welfare (Scotland) Act 2006 is modified as follows.
 
 (2) In section 39 (deprivation orders), after subsection (10)(d) insert—
 
@@ -332,54 +332,54 @@ The powers conferred on constables by this schedule do not affect any powers con
 
 ## Annotations
 
-[^key-82f50d09bd2c1afe7cdf86188476688a]: Commencement: S. 1 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-82f50d09bd2c1afe7cdf86188476688a]: Commencement: S. 1 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-43e6619932b308270c317767939231f8]: Commencement: S. 2 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-43e6619932b308270c317767939231f8]: Commencement: S. 2 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-38b1add006b220d156a302d89c915ec2]: Commencement: S. 3 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-38b1add006b220d156a302d89c915ec2]: Commencement: S. 3 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-b515a3c8ab6b2031940ed0e66bbe2019]: Commencement: S. 4 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-b515a3c8ab6b2031940ed0e66bbe2019]: Commencement: S. 4 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-f38c358f1b37ce76ebe3601ecf709d23]: Commencement: S. 5 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-f38c358f1b37ce76ebe3601ecf709d23]: Commencement: S. 5 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-6c3df98d650fcc76b9267c4b5c7fd853]: Commencement: S. 6 in force at 15.5.2026, see [s. 8(1)](https://www.legislation.gov.uk/asp/2026/15/section/8/1)
+[^c-6c3df98d650fcc76b9267c4b5c7fd853]: Commencement: S. 6 in force at 15.5.2026, see [s. 8(1)](https://www.legislation.gov.uk/asp/2026/15/section/8/1)
 
-[^key-0ca7fc86ff1b28a3329011ac987598ab]: Commencement: S. 7 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-0ca7fc86ff1b28a3329011ac987598ab]: Commencement: S. 7 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-8c8fb0cfc09809667fb2aeeb0ac96593]: Commencement: S. 8 in force at 15.5.2026, see [s. 8(1)](https://www.legislation.gov.uk/asp/2026/15/section/8/1)
+[^c-8c8fb0cfc09809667fb2aeeb0ac96593]: Commencement: S. 8 in force at 15.5.2026, see [s. 8(1)](https://www.legislation.gov.uk/asp/2026/15/section/8/1)
 
-[^key-5535baed5f3f58a4fb82ebd831cd554c]: Commencement: S. 9 in force at 15.5.2026, see [s. 8(1)](https://www.legislation.gov.uk/asp/2026/15/section/8/1)
+[^c-5535baed5f3f58a4fb82ebd831cd554c]: Commencement: S. 9 in force at 15.5.2026, see [s. 8(1)](https://www.legislation.gov.uk/asp/2026/15/section/8/1)
 
-[^key-24d37a5aba56dd571b4df8cc6b29ad0c]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-24d37a5aba56dd571b4df8cc6b29ad0c]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-793940faec190dc6c5b76e4ff0d2d59b]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-793940faec190dc6c5b76e4ff0d2d59b]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-90232d9fe256351ffcfb10b37a9c3050]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-90232d9fe256351ffcfb10b37a9c3050]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-1d7a9df90a82169fbc8c9a7dc955b777]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-1d7a9df90a82169fbc8c9a7dc955b777]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-a60eb424b1496895e95b9342a2c86cc2]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-a60eb424b1496895e95b9342a2c86cc2]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-5351435793cdd3f4d94c5151859332c0]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-5351435793cdd3f4d94c5151859332c0]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-b351676edbeee8197adca6a7122f73e0]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-b351676edbeee8197adca6a7122f73e0]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-01d4aabf087e86f214d713a373ec2cbf]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-01d4aabf087e86f214d713a373ec2cbf]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-7a543684eb2d5a455e4fa76a2ca4efec]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-7a543684eb2d5a455e4fa76a2ca4efec]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-bf5c20b63df7e434ecf450caf78cac5e]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-bf5c20b63df7e434ecf450caf78cac5e]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-87047455087c0855773138ad4b615bb3]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-87047455087c0855773138ad4b615bb3]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-77587b959cdc01097d92792f69a77ad5]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-77587b959cdc01097d92792f69a77ad5]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-7b9a3f868cd6e74853dd10bef7e309e8]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-7b9a3f868cd6e74853dd10bef7e309e8]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-52fd6283dd973ad88217916318fb40a7]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-52fd6283dd973ad88217916318fb40a7]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-f4d015916dc30b53728f3d4bd52c69ef]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-f4d015916dc30b53728f3d4bd52c69ef]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-7a6e6173a2ef43c8397ebe4dd5b54e32]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-7a6e6173a2ef43c8397ebe4dd5b54e32]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
 
-[^key-65bd41ebdcdc4dc7efdd345e4e872a09]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)
+[^c-65bd41ebdcdc4dc7efdd345e4e872a09]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/asp/2026/15/section/8/2)

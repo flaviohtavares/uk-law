@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1216AD. Excluded programmes[^key-d270a9585cd06681b6121dd8d870fc26]
+## 1216AD. Excluded programmes[^c-d270a9585cd06681b6121dd8d870fc26]
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of this Part, but subject to section 1216ADA,[^key-b0d255372a7fad5a6209e92b84944301] a television programme is an excluded programme if it falls within any of the Heads set out in the following subsections—
+(1) For the purposes of this Part, but subject to section 1216ADA,[^c-b0d255372a7fad5a6209e92b84944301] a television programme is an excluded programme if it falls within any of the Heads set out in the following subsections—
 
 - (a) subsection (2) (advertisements etc),
 - (b) subsection (3) (current affairs etc),
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d270a9585cd06681b6121dd8d870fc26]: Textual amendment: Pt. 15A inserted (17.7.2013 for specified purposes, 19.7.2013 in so far as not already in force, and with effect in accordance with Sch. 16 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 16 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/2); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)
+[^c-d270a9585cd06681b6121dd8d870fc26]: Textual amendment: Pt. 15A inserted (17.7.2013 for specified purposes, 19.7.2013 in so far as not already in force, and with effect in accordance with Sch. 16 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 16 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/2); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)
 
-[^key-b0d255372a7fad5a6209e92b84944301]: Textual amendment: Words in s. 1216AD(1) inserted (with effect in accordance with s. 30(7) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 30(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/30/5)
+[^c-b0d255372a7fad5a6209e92b84944301]: Textual amendment: Words in s. 1216AD(1) inserted (with effect in accordance with s. 30(7) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 30(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/30/5)

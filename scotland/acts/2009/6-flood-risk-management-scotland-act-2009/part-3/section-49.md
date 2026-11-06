@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. District flood risk advisory groups[^key-57fe725e84bb1dbb825d292df5e18277]
+## 49. District flood risk advisory groups[^c-57fe725e84bb1dbb825d292df5e18277]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57fe725e84bb1dbb825d292df5e18277]: Commencement: S. 49 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-57fe725e84bb1dbb825d292df5e18277]: Commencement: S. 49 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

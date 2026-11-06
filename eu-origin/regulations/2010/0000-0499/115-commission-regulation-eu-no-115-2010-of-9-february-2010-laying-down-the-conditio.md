@@ -87,7 +87,7 @@ Natural mineral waters and spring waters together are referred to hereinafter as
 
 Products which were placed on the market by 10 August 2010 and which do not comply with Article 4, may continue to be marketed until 10 August 2011.
 
-[^key-1de81e65d30763e32d54beba2035eaf1]...
+[^c-1de81e65d30763e32d54beba2035eaf1]...
 
 Done at Brussels, 9 February 2010.
 
@@ -107,7 +107,7 @@ The following critical processing steps shall be implemented and monitored appro
   - Treatment with an acid to remove residual sodium hydroxide and activate the medium.
   - Rinsing with drinking or demineralised water and conditioning with the water as the final step in order to ensure that the filter has no impact on the overall mineral content of the treated water.
 - 3.. The chemicals and reagents used for the initialisation and regeneration procedures shall comply with the relevant European standards[^f00004] or applicable national standards relating to the purity of the chemical reagents used for treatment of water intended for human consumption.
-- 4.. The activated alumina shall comply with the European standard for leaching tests (EN 12902)[^f00005] to ensure that no residues are released into the water resulting in concentrations exceeding the limits set in Directive 2003/40/EC or in the absence of limits in that Directive, the limits set in Directive 98/83/EC or in applicable national legislation. The total amount of aluminium ions in the treated water as it results after the release of aluminium, the main component of activated alumina, shall not exceed 200microg/L, as established in Directive 98/83/EC. This amount shall be checked regularly in accordance with:[^key-747208e44beb7dde6020f8aa7b09ea2c]
+- 4.. The activated alumina shall comply with the European standard for leaching tests (EN 12902)[^f00005] to ensure that no residues are released into the water resulting in concentrations exceeding the limits set in Directive 2003/40/EC or in the absence of limits in that Directive, the limits set in Directive 98/83/EC or in applicable national legislation. The total amount of aluminium ions in the treated water as it results after the release of aluminium, the main component of activated alumina, shall not exceed 200microg/L, as established in Directive 98/83/EC. This amount shall be checked regularly in accordance with:[^c-747208e44beb7dde6020f8aa7b09ea2c]
   - (a) in relation to the use of activated alumina to remove fluoride from natural mineral water or spring water in England, regulation 16(3) of the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) Regulations 2007;
   - (b) in relation to the use of activated alumina to remove fluoride from natural mineral water or spring water in Scotland, regulation 16(1)(b) of the Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) (No. 2) Regulations 2007;
   - (c) in relation to the use of activated alumina to remove fluoride from natural mineral water or spring water in Wales, regulation 27(1) of the Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2015.
@@ -122,12 +122,12 @@ The following critical processing steps shall be implemented and monitored appro
 
 [^f00003]: Footnote: [OJ L 330, 5.12.1998, p. 32](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.330.01.0032.01.ENG).
 
-[^key-1de81e65d30763e32d54beba2035eaf1]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2010/115/signature) omitted (31.12.2020) by virtue of [The Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/529)](https://www.legislation.gov.uk/uksi/2019/529), [regs. 1](https://www.legislation.gov.uk/uksi/2019/529/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/529/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1de81e65d30763e32d54beba2035eaf1]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2010/115/signature) omitted (31.12.2020) by virtue of [The Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/529)](https://www.legislation.gov.uk/uksi/2019/529), [regs. 1](https://www.legislation.gov.uk/uksi/2019/529/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/529/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: European Standards developed by the European Committee for Standardisation (CEN).
 
 [^f00005]: Footnote: European Standard EN 12902 (2004): Products used for treatment of water intended for human consumption. Inorganic supporting and filtering materials.
 
-[^key-747208e44beb7dde6020f8aa7b09ea2c]: Textual amendment: Words in Annex substituted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/529)](https://www.legislation.gov.uk/uksi/2019/529), [regs. 1](https://www.legislation.gov.uk/uksi/2019/529/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/529/regulation/4/3), [Sch.](https://www.legislation.gov.uk/uksi/2019/529/schedule) (as amended by [S.I. 2020/1501](https://www.legislation.gov.uk/uksi/2020/1501), [reg. 4(5)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-747208e44beb7dde6020f8aa7b09ea2c]: Textual amendment: Words in Annex substituted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/529)](https://www.legislation.gov.uk/uksi/2019/529), [regs. 1](https://www.legislation.gov.uk/uksi/2019/529/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/529/regulation/4/3), [Sch.](https://www.legislation.gov.uk/uksi/2019/529/schedule) (as amended by [S.I. 2020/1501](https://www.legislation.gov.uk/uksi/2020/1501), [reg. 4(5)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: [OJ L 139, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0001.01.ENG).

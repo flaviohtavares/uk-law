@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND PERSONAL SOCIAL SERVICES
 
-Travelling Expenses and Remission of Charges (Amendment No. 2) Regulations (Northern Ireland) 1997 (revoked)[^key-c7f6ba8dd41bb324076f250bb1c68fb5]
+Travelling Expenses and Remission of Charges (Amendment No. 2) Regulations (Northern Ireland) 1997 (revoked)[^c-c7f6ba8dd41bb324076f250bb1c68fb5]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 3rd November 1997
 
-[^key-c7f6ba8dd41bb324076f250bb1c68fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7f6ba8dd41bb324076f250bb1c68fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c7f6ba8dd41bb324076f250bb1c68fb5]
+## 1. Citation, commencement and interpretation[^c-c7f6ba8dd41bb324076f250bb1c68fb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the principal Regulations[^key-c7f6ba8dd41bb324076f250bb1c68fb5]
+## 2. Amendment of Schedule 1 to the principal Regulations[^c-c7f6ba8dd41bb324076f250bb1c68fb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Further amendment of Schedule 1 to the principal Regulations[^key-c7f6ba8dd41bb324076f250bb1c68fb5]
+## 3. Further amendment of Schedule 1 to the principal Regulations[^c-c7f6ba8dd41bb324076f250bb1c68fb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7f6ba8dd41bb324076f250bb1c68fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7f6ba8dd41bb324076f250bb1c68fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c7f6ba8dd41bb324076f250bb1c68fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7f6ba8dd41bb324076f250bb1c68fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7f6ba8dd41bb324076f250bb1c68fb5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/440) revoked (6.4.2004) by [Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004 (S.R. 2004/91)](https://www.legislation.gov.uk/nisr/2004/91), [reg. 1](https://www.legislation.gov.uk/nisr/2004/91/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/91/schedule/2)
+[^c-c7f6ba8dd41bb324076f250bb1c68fb5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/440) revoked (6.4.2004) by [Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004 (S.R. 2004/91)](https://www.legislation.gov.uk/nisr/2004/91), [reg. 1](https://www.legislation.gov.uk/nisr/2004/91/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/91/schedule/2)

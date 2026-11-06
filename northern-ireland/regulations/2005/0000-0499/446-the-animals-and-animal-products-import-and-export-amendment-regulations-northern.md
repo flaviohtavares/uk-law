@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 ANIMALS
 
-The Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-ee1e61b3cdd802cde7a9c5868793908f]
+The Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-ee1e61b3cdd802cde7a9c5868793908f]
 
 Made
 
@@ -43,226 +43,226 @@ Coming into operation
 
 7th November 2005
 
-[^key-ee1e61b3cdd802cde7a9c5868793908f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee1e61b3cdd802cde7a9c5868793908f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ee1e61b3cdd802cde7a9c5868793908f]
+## 1. Citation and commencement[^c-ee1e61b3cdd802cde7a9c5868793908f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ee1e61b3cdd802cde7a9c5868793908f]
+## 2. Interpretation[^c-ee1e61b3cdd802cde7a9c5868793908f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2005[^key-ee1e61b3cdd802cde7a9c5868793908f]
+## 3. Amendment of the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2005[^c-ee1e61b3cdd802cde7a9c5868793908f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee1e61b3cdd802cde7a9c5868793908f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee1e61b3cdd802cde7a9c5868793908f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-ee1e61b3cdd802cde7a9c5868793908f]
+## SCHEDULE 1[^c-ee1e61b3cdd802cde7a9c5868793908f]
 
-> **SCHEDULE 2 — INTRA-COMMUNITY TRADE: LEGISLATION AND ADDITIONAL REQUIREMENTS[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **SCHEDULE 2 — INTRA-COMMUNITY TRADE: LEGISLATION AND ADDITIONAL REQUIREMENTS[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
 > Regulations 2(4), 4,5(1), 6(1),(2),7(5),8(1), 10, 12(7)(a),13(3), 22(2)(b) and 26
 >
-> **PART I — LEGISLATION ON INTRA-COMMUNITY TRADE[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **PART I — LEGISLATION ON INTRA-COMMUNITY TRADE[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **Bovine animals and swine[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Bovine animals and swine[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **1.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Bovine semen[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Bovine semen[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **2.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Bovine embryos[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Bovine embryos[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **3.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Equidae[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Equidae[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **4.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Porcine semen[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Porcine semen[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **5.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Poultry and hatching eggs[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Poultry and hatching eggs[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **6.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Animal waste[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Animal waste[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **7.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Fish[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Fish[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **8. Farmed fish[^key-ee1e61b3cdd802cde7a9c5868793908f]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **9. Fish other than farmed fish[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **8. Farmed fish[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10. Live Bivalve molluscs[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **9. Fish other than farmed fish[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Ovine and caprine animals[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **10. Live Bivalve molluscs[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **11.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Other animals, semen, ova and embryos[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Ovine and caprine animals[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **12.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Pathogens[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Other animals, semen, ova and embryos[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **13.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **12.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Pure-bred animals of the bovine species[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Pathogens[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **14.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **13.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Breeding animals of the porcine species[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Pure-bred animals of the bovine species[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **15.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **14.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Pure-bred breeding sheep and goats[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Breeding animals of the porcine species[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **16.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **15.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Registered Equidae[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Pure-bred breeding sheep and goats[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **17.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **16.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II — ADDITIONAL REQUIREMENTS FOR THE TRANSPORT OF CATTLE, PIGS, SHEEP AND GOATS[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Registered Equidae[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **1.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **17.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **PART II — ADDITIONAL REQUIREMENTS FOR THE TRANSPORT OF CATTLE, PIGS, SHEEP AND GOATS[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **3.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART III — ADDITIONAL REQUIREMENTS FOR DEALERS IN CATTLE, PIGS, SHEEP AND GOATS[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **4.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **1.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **PART III — ADDITIONAL REQUIREMENTS FOR DEALERS IN CATTLE, PIGS, SHEEP AND GOATS[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **3.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **5.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **6.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-ee1e61b3cdd802cde7a9c5868793908f]
+## SCHEDULE 2[^c-ee1e61b3cdd802cde7a9c5868793908f]
 
-> **SCHEDULE 4 — Community Legislation on Third Countries[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **SCHEDULE 4 — Community Legislation on Third Countries[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
 > Regulations 2(4),15(5), 19 and 26
 >
-> **PART I — INSTRUMENTS SPECIFYING THIRD COUNTRIES AND TERRITORIES IN THIRD COUNTRIES FROM WHICH MEMBER STATES MAY AUTHORISE CERTAIN IMPORTS[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **PART I — INSTRUMENTS SPECIFYING THIRD COUNTRIES AND TERRITORIES IN THIRD COUNTRIES FROM WHICH MEMBER STATES MAY AUTHORISE CERTAIN IMPORTS[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **1.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II — DETAILED PROVISIONS[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **PART II — DETAILED PROVISIONS[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **Bovine, ovine and caprine animals and swine from third countries[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Bovine, ovine and caprine animals and swine from third countries[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **1.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Cloven-hoofed animals and elephants from third countries[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Cloven-hoofed animals and elephants from third countries[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **2.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Equidae[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Equidae[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **3. General[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **3. General[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Temporary admission of registered horses[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Temporary admission of registered horses[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **5.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Registered horses for racing, etc, upon re-entry[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Registered horses for racing, etc, upon re-entry[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **6.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Equidae for slaughter[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Equidae for slaughter[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **7.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Registered equidae for breeding and production[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Registered equidae for breeding and production[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **8.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Poultry[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Poultry[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **9.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Other specified animals, semen, ova and embryos[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Other specified animals, semen, ova and embryos[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **10.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Live animals from New Zealand[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Live animals from New Zealand[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **11.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Zootechnical conditions[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Zootechnical conditions[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **12.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **12.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Finfish and Shellfish from third countries[^key-ee1e61b3cdd802cde7a9c5868793908f]**
+> **Finfish and Shellfish from third countries[^c-ee1e61b3cdd802cde7a9c5868793908f]**
 >
-> **13.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **13.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **14.**[^key-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **14.**[^c-ee1e61b3cdd802cde7a9c5868793908f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee1e61b3cdd802cde7a9c5868793908f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee1e61b3cdd802cde7a9c5868793908f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee1e61b3cdd802cde7a9c5868793908f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/446) revoked (1.11.2006) by [The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006 (S.R. 2006/401)](https://www.legislation.gov.uk/nisr/2006/401), [regs. 1](https://www.legislation.gov.uk/nisr/2006/401/regulation/1), [34](https://www.legislation.gov.uk/nisr/2006/401/regulation/34), [Sch. 9](https://www.legislation.gov.uk/nisr/2006/401/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/nisr/2006/401/regulation/3))
+[^c-ee1e61b3cdd802cde7a9c5868793908f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/446) revoked (1.11.2006) by [The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006 (S.R. 2006/401)](https://www.legislation.gov.uk/nisr/2006/401), [regs. 1](https://www.legislation.gov.uk/nisr/2006/401/regulation/1), [34](https://www.legislation.gov.uk/nisr/2006/401/regulation/34), [Sch. 9](https://www.legislation.gov.uk/nisr/2006/401/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/nisr/2006/401/regulation/3))

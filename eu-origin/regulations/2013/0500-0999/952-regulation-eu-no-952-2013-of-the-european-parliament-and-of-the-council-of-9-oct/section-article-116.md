@@ -47,7 +47,7 @@ Notwithstanding the first subparagraph, files shall not be transmitted in either
 
 5. No repayment or remission shall be granted when the situation which led to the notification of the customs debt results from deception by the debtor.
 
-6.[^key-ea072223523c7477fa7fc1403cfc33a7] Repayment shall not give rise to the payment of interest by the customs authorities concerned.
+6.[^c-ea072223523c7477fa7fc1403cfc33a7] Repayment shall not give rise to the payment of interest by the customs authorities concerned.
 
 However, interest shall be paid where a decision granting repayment is not implemented within three months of the date on which that decision was taken, unless the failure to meet the deadline was outside the control of the customs authorities.
 
@@ -61,6 +61,6 @@ In such cases, any interest paid under the second subparagraph of paragraph 6 sh
 
 [^f00017]: Footnote: [OJ L 82, 22.3.1997, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1997.082.01.0001.01.ENG).
 
-[^key-ea072223523c7477fa7fc1403cfc33a7]: Modification: Art. 116(6) excluded (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AD(b)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AD/b), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+[^c-ea072223523c7477fa7fc1403cfc33a7]: Modification: Art. 116(6) excluded (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AD(b)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AD/b), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
 
 [^c000003]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (Official Journal of the European Union L 269 of 10 October 2013)](https://www.legislation.gov.uk/eur/2013/952/pdfs/eurcs_20130952_en_002.pdf).

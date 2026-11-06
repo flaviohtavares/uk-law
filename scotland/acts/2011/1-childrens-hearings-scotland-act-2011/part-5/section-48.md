@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Application for variation or termination[^key-cf1413c02d88afa6bf665f61d694bbf5]
+## 48. Application for variation or termination[^c-cf1413c02d88afa6bf665f61d694bbf5]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf1413c02d88afa6bf665f61d694bbf5]: Commencement: S. 48 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-cf1413c02d88afa6bf665f61d694bbf5]: Commencement: S. 48 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152B. Costs recovery: appeals[^key-de09f62874ce5b57d564dc216d4f4ee0]
+## 152B. Costs recovery: appeals[^c-de09f62874ce5b57d564dc216d4f4ee0]
 
 *Extent: E+W+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de09f62874ce5b57d564dc216d4f4ee0]: Textual amendment: Ss. 152A-152C inserted (1.5.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 23(5)](https://www.legislation.gov.uk/ukpga/2011/21/section/23/5), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 3](https://www.legislation.gov.uk/uksi/2012/924/article/3)
+[^c-de09f62874ce5b57d564dc216d4f4ee0]: Textual amendment: Ss. 152A-152C inserted (1.5.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 23(5)](https://www.legislation.gov.uk/ukpga/2011/21/section/23/5), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 3](https://www.legislation.gov.uk/uksi/2012/924/article/3)

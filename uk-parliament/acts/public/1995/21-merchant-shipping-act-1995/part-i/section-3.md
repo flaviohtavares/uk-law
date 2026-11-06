@@ -36,11 +36,11 @@ summary: ''
 
 (6) Any person guilty of an offence under this section shall be liable—
 
-- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-453ef4000b7ad6109124f86491f5f79a] a fine *(Extent: E+W)*;
+- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-453ef4000b7ad6109124f86491f5f79a] a fine *(Extent: E+W)*;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.
 
 (7) This section applies to things done outside, as well as to things done within, the United Kingdom.
 
 ## Annotations
 
-[^key-453ef4000b7ad6109124f86491f5f79a]: Textual amendment: Words in [s. 3(6)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/3/6/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-453ef4000b7ad6109124f86491f5f79a]: Textual amendment: Words in [s. 3(6)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/3/6/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

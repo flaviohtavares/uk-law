@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Fitness of registered service manager[^key-f1a61ac546294178e94b8576c8eca320]
+## 12. Fitness of registered service manager[^c-f1a61ac546294178e94b8576c8eca320]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ An individual may only be registered as a registered service manager if—
 
 ## Annotations
 
-[^key-f1a61ac546294178e94b8576c8eca320]: Commencement: Reg. 12 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-f1a61ac546294178e94b8576c8eca320]: Commencement: Reg. 12 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

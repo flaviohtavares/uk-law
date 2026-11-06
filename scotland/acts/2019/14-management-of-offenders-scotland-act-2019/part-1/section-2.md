@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Particular rules regarding disposals[^key-b47417d57afd666f2453c97aabffc9c9]
+## 2. Particular rules regarding disposals[^c-b47417d57afd666f2453c97aabffc9c9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b47417d57afd666f2453c97aabffc9c9]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/14/section/2) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))
+[^c-b47417d57afd666f2453c97aabffc9c9]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/14/section/2) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))

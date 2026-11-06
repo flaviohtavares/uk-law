@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82.[^key-5154a93da275c02c7220182359ea01c8]
+## 82.[^c-5154a93da275c02c7220182359ea01c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 612 (retirement benefit schemes: interpretative provisions), in subse
 
 ## Annotations
 
-[^key-5154a93da275c02c7220182359ea01c8]: Commencement: Reg. 82 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-5154a93da275c02c7220182359ea01c8]: Commencement: Reg. 82 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

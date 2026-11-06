@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Sale of alcohol to a child or young person[^key-6aabb6279a077cc05b0b3357aea7890c]
+## 102. Sale of alcohol to a child or young person[^c-6aabb6279a077cc05b0b3357aea7890c]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6aabb6279a077cc05b0b3357aea7890c]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2005/16/section/102) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-6aabb6279a077cc05b0b3357aea7890c]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2005/16/section/102) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
 [^M_F_10ae1952-a135-4546-8a5f-12a078fd772b]: Textual amendment: S. 102(4)(aa) inserted (31.12.2020) by [The Licensing (Amendment) (EU Exit) (Scotland) Regulations 2019 (S.S.I. 2019/6)](https://www.legislation.gov.uk/ssi/2019/6), [regs. 1](https://www.legislation.gov.uk/ssi/2019/6/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/6/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

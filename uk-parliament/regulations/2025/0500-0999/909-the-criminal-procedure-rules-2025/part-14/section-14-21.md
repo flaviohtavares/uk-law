@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.21. Application to extend a custody time limit[^key-483c0e973b048158dfdbc3cc442527e0]
+## 14.21. Application to extend a custody time limit[^c-483c0e973b048158dfdbc3cc442527e0]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-483c0e973b048158dfdbc3cc442527e0]: Commencement: [Rule 14.21](https://www.legislation.gov.uk/uksi/2025/909/rule/14.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-483c0e973b048158dfdbc3cc442527e0]: Commencement: [Rule 14.21](https://www.legislation.gov.uk/uksi/2025/909/rule/14.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00387]: Footnote: [S.I. 1987/299](https://www.legislation.gov.uk/uksi/1987/299); regulation 7 was amended by [S.I. 1989/767](https://www.legislation.gov.uk/uksi/1989/767).
 

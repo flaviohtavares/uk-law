@@ -63,7 +63,7 @@ The regulator must exercise its functions under these Regulations for the purpos
 
 (3) In the case of a new installation or a substantial change where Article 4 of Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^c23193531] applies, any relevant information obtained or conclusion arrived at pursuant to Articles 5, 6 or 7 of that Directive shall be taken into consideration by the regulator for the purposes of granting the environmental permit.
 
-(4)[^key-30fbb72c3940c3f6f29ea5f47915a6f8] In sub-paragraph (3), a reference to a numbered Article of Directive 2011/92/EU is to be construed as a reference to the EU-derived domestic legislation which transposed that Article in respect of England and Wales.
+(4)[^c-30fbb72c3940c3f6f29ea5f47915a6f8] In sub-paragraph (3), a reference to a numbered Article of Directive 2011/92/EU is to be construed as a reference to the EU-derived domestic legislation which transposed that Article in respect of England and Wales.
 
 ### 5. Exercise of relevant functions
 
@@ -74,13 +74,13 @@ The regulator must exercise its functions under these Regulations for the purpos
   - (ii) no significant air pollution is caused;
 - (b) where an environmental quality standard requires stricter conditions than those achievable by the use of best available techniques, additional measures are required by the permit, without prejudice to other measures which might be taken to comply with environmental quality standards;
 - (c) permits include emission limit values, which may if appropriate be supplemented or replaced by equivalent parameters or technical measures, for polluting substances likely to be emitted into the air from the installation concerned in significant quantities;
-- (d)[^key-9eec0ef5697b7e4c6774d4407cbff4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-9eec0ef5697b7e4c6774d4407cbff4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The regulator must ensure that emission limit values or equivalent parameters or technical measures are based on best available techniques without prescribing the use of any technique or specific technology, but taking into account the technical characteristics of the installation, including (except in the case of mobile plant) its geographical location and the local environmental conditions.
 
 (3) In this paragraph “**substance**” means any chemical element and its compounds and any biological entity or micro-organism, with the exception of the following substances—
 
-- (a) radioactive substances as defined in Article 4[^key-b7a32d3e7f0ef5a42e38adf9e3afa98f] of the Basic Safety Standards Directive;
+- (a) radioactive substances as defined in Article 4[^c-b7a32d3e7f0ef5a42e38adf9e3afa98f] of the Basic Safety Standards Directive;
 - (b) genetically modified micro-organisms as defined in Article 2(b) of Directive [2009/41/EC](https://www.legislation.gov.uk/eudr/2009/41) of the European Parliament and of the Council on the contained use of genetically modified micro-organisms [^c23193551];
 - (c) genetically modified organisms as defined in point 2 of Article 2 of Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms [^c23193561].
 
@@ -107,11 +107,11 @@ The regulator must ensure that it is informed of developments in best available 
 
 [^c23193531]: Marginal citation: OJ No L 26, 28.1.2012, p 1, as last amended by Directive 2014/52/EU (OJ No L 124, 25.4.2014, p 1).
 
-[^key-30fbb72c3940c3f6f29ea5f47915a6f8]: Textual amendment: [Sch. 8 para. 4(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/8/paragraph/4/4) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30fbb72c3940c3f6f29ea5f47915a6f8]: Textual amendment: [Sch. 8 para. 4(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/8/paragraph/4/4) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9eec0ef5697b7e4c6774d4407cbff4d9]: Textual amendment: [Sch. 8 para. 5(1)(d)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/8/paragraph/5/1/d) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9eec0ef5697b7e4c6774d4407cbff4d9]: Textual amendment: [Sch. 8 para. 5(1)(d)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/8/paragraph/5/1/d) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b7a32d3e7f0ef5a42e38adf9e3afa98f]: Textual amendment: Words in Sch. 8 para. 5(3)(a) substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [regs. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/428/regulation/6)
+[^c-b7a32d3e7f0ef5a42e38adf9e3afa98f]: Textual amendment: Words in Sch. 8 para. 5(3)(a) substituted (2.5.2018) by [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [regs. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/428/regulation/6)
 
 [^c23193551]: Marginal citation: OJ No L 125, 21.5.2009, p 75.
 

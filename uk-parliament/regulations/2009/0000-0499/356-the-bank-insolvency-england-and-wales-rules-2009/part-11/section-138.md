@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Manner of distributing assets[^key-6042d788d27555b5d295da0c8055261c]
+## 138. Manner of distributing assets[^c-6042d788d27555b5d295da0c8055261c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.180 of the 1986 Rules.
 
 ## Annotations
 
-[^key-6042d788d27555b5d295da0c8055261c]: Commencement: Rule 138 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-6042d788d27555b5d295da0c8055261c]: Commencement: Rule 138 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

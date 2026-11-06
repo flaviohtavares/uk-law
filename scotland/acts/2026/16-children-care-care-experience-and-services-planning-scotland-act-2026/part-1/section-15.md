@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Promotion of family group decision-making services[^key-c6f728dc8d889725e6794d57f7122720]
+## 15. Promotion of family group decision-making services[^c-c6f728dc8d889725e6794d57f7122720]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6f728dc8d889725e6794d57f7122720]: Commencement: S. 15 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-c6f728dc8d889725e6794d57f7122720]: Commencement: S. 15 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

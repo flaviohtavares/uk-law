@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Endangering safety of any person or property[^key-e3dfd426545fdda913d85c9618b4160c]
+## 74. Endangering safety of any person or property[^c-e3dfd426545fdda913d85c9618b4160c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not recklessly or negligently cause or permit an aircraft to endan
 
 ## Annotations
 
-[^key-e3dfd426545fdda913d85c9618b4160c]: Commencement: [Art. 74](https://www.legislation.gov.uk/uksi/2015/870/article/74) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-e3dfd426545fdda913d85c9618b4160c]: Commencement: [Art. 74](https://www.legislation.gov.uk/uksi/2015/870/article/74) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

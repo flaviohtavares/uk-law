@@ -47,7 +47,7 @@ Coming into force
 
 14th December 2023
 
-The Secretary of State[^f00001], in exercise of the powers conferred by sections 1(1)(c) and (3)(b), 3(1)(a), (b)(ii), (d)(i) and (ii), 3A(1), 4, 5, 7(1) to (5) and (8), 9(2)(a), 10(2) to (4), 11, 12, 14, 15, 16, 17, 19, 20, 21(1), 45(1)(a), 54(1) and (2), 62(4) to (6) of, and paragraphs 2(b), 4(b) and (c), 5(a)(ii) and (b), 6(a)(ii) and (b), 11(a)(ii) and (iii), 13(b), (h), (k), (l), (m), (n) and (w), 14(a), (f) and (k), 17(a), 19(a), 20 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018[^f00002] makes the following Regulations:[^key-f9ded9765986417eb10576fac4a20829][^key-68a77292403dfe3d0765b4326f9be4f3]
+The Secretary of State[^f00001], in exercise of the powers conferred by sections 1(1)(c) and (3)(b), 3(1)(a), (b)(ii), (d)(i) and (ii), 3A(1), 4, 5, 7(1) to (5) and (8), 9(2)(a), 10(2) to (4), 11, 12, 14, 15, 16, 17, 19, 20, 21(1), 45(1)(a), 54(1) and (2), 62(4) to (6) of, and paragraphs 2(b), 4(b) and (c), 5(a)(ii) and (b), 6(a)(ii) and (b), 11(a)(ii) and (iii), 13(b), (h), (k), (l), (m), (n) and (w), 14(a), (f) and (k), 17(a), 19(a), 20 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018[^f00002] makes the following Regulations:[^c-f9ded9765986417eb10576fac4a20829][^c-68a77292403dfe3d0765b4326f9be4f3]
 
 ## Contents
 
@@ -130,7 +130,7 @@ The Secretary of State[^f00001], in exercise of the powers conferred by sections
 
 - [Section 35 — Provision of interception and monitoring services](part-6/section-35.md)
 
-#### CHAPTER 4 — Goods and Technology of Strategic Concern[^key-02ba46774d4b313e9e7a89100d69f194]
+#### CHAPTER 4 — Goods and Technology of Strategic Concern[^c-02ba46774d4b313e9e7a89100d69f194]
 
 *Extent: E+W+S+N.I.*
 
@@ -143,7 +143,7 @@ The Secretary of State[^f00001], in exercise of the powers conferred by sections
 - [Section 42 — Financial services and funds relating to goods of strategic concern and technology of strategic concern](part-6/section-42.md)
 - [Section 43 — Brokering services: non-UK activity relating to goods of strategic concern and technology of strategic concern](part-6/section-43.md)
 
-#### Chapter 4A — Ships[^key-ed946ff1507a2e0c3b07217da50f68ca]
+#### Chapter 4A — Ships[^c-ed946ff1507a2e0c3b07217da50f68ca]
 
 - [Section 43A — Interpretation of this Chapter](part-6/section-43a.md)
 - [Section 43B — Technical assistance relating to ships](part-6/section-43b.md)
@@ -311,10 +311,10 @@ A full impact assessment has not been produced for the Regulations as no, or no 
 
 [^f00002]: Footnote: [2018 c. 13](https://www.legislation.gov.uk/ukpga/2018/13). Section 17(5)(b)(i) (enforcement) is amended by the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), Schedule 24, paragraph 443(1). Sections 1, 11, 12 and 16 are amended by the Economic Crime (Transparency and Enforcement) Act [2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), sections 57, 58, 59 and 65. Section 3A is inserted by the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), section 35(3) and is in force only for the limited purpose of conferring power to make regulations.
 
-[^key-f9ded9765986417eb10576fac4a20829]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2023/1314) extended (British overseas territories) (with modifications) (14.12.2023) by [The Iran (Sanctions) (Overseas Territories) Order 2023 (S.I. 2023/1377)](https://www.legislation.gov.uk/uksi/2023/1377), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1), [2](https://www.legislation.gov.uk/uksi/2023/1377/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1377/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2) (as amended (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34))
+[^c-f9ded9765986417eb10576fac4a20829]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2023/1314) extended (British overseas territories) (with modifications) (14.12.2023) by [The Iran (Sanctions) (Overseas Territories) Order 2023 (S.I. 2023/1377)](https://www.legislation.gov.uk/uksi/2023/1377), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1), [2](https://www.legislation.gov.uk/uksi/2023/1377/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1377/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2) (as amended (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34))
 
-[^key-68a77292403dfe3d0765b4326f9be4f3]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2023/1314) extended (Isle of Man) (with modifications) (14.12.2023) by [The Iran (Sanctions) (Isle of Man) Order 2023 (S.I. 2023/1376)](https://www.legislation.gov.uk/uksi/2023/1376), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1376/article/1/1), [2](https://www.legislation.gov.uk/uksi/2023/1376/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1376/schedule)
+[^c-68a77292403dfe3d0765b4326f9be4f3]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2023/1314) extended (Isle of Man) (with modifications) (14.12.2023) by [The Iran (Sanctions) (Isle of Man) Order 2023 (S.I. 2023/1376)](https://www.legislation.gov.uk/uksi/2023/1376), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1376/article/1/1), [2](https://www.legislation.gov.uk/uksi/2023/1376/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1376/schedule)
 
-[^key-02ba46774d4b313e9e7a89100d69f194]: Textual amendment: [Pt. 6 Ch. 4](https://www.legislation.gov.uk/uksi/2023/1314/part/6/chapter/4) heading substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/1)
+[^c-02ba46774d4b313e9e7a89100d69f194]: Textual amendment: [Pt. 6 Ch. 4](https://www.legislation.gov.uk/uksi/2023/1314/part/6/chapter/4) heading substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/1)
 
-[^key-ed946ff1507a2e0c3b07217da50f68ca]: Textual amendment: [Pt. 6 Ch. 4A](https://www.legislation.gov.uk/uksi/2023/1314/part/6/chapter/4A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2026/983/regulation/18)
+[^c-ed946ff1507a2e0c3b07217da50f68ca]: Textual amendment: [Pt. 6 Ch. 4A](https://www.legislation.gov.uk/uksi/2023/1314/part/6/chapter/4A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2026/983/regulation/18)

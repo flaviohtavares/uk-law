@@ -49,7 +49,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 2A(3) of the 1972 Act, the Secretary of State, in determining the distribution of substances as between the various parts of Schedule 1A[^f00002] to the 1972 Act, has had regard to the desirability of restricting Parts 3 and 4 to substances that meet the criteria provided by section 2A(3)(a) and (b) of the 1972 Act.
 
-## 1. Citation, commencement, extent and interpretation[^key-f4826c8ceb3bafe44f8737d24f3d02ff]
+## 1. Citation, commencement, extent and interpretation[^c-f4826c8ceb3bafe44f8737d24f3d02ff]
 
 (1) These Regulations may be cited as the Control of Explosives Precursors and Poisons Regulations 2023 and come into force on 1st October 2023.
 
@@ -61,11 +61,11 @@ In accordance with section 2A(3) of the 1972 Act, the Secretary of State, in det
 - (b) “**the 2015 Regulations**” means the Control of Poisons and Explosives Precursors Regulations 2015[^f00003];
 - (c) a person is a business customer in relation to the supply of a regulated substance or a reportable substance[^f00004] if the person acquires, or seeks to acquire, the regulated substance or the reportable substance for purposes connected with that person’s trade, business or profession, or the person’s performance of a public function.
 
-## 2. Notification requirement[^key-1dfd6d498a1828089b5623c5d117b677]
+## 2. Notification requirement[^c-1dfd6d498a1828089b5623c5d117b677]
 
 A person must not supply a regulated substance or a reportable substance (“the substance”) to a business customer unless the person first notifies the business customer in writing that the substance is a regulated substance or a reportable substance for the purposes of the 1972 Act.
 
-## 3. Additional requirements relating to the supply of a regulated explosives precursor[^key-6272e8bbb8e43ee8d92e3af5e7c86a94]
+## 3. Additional requirements relating to the supply of a regulated explosives precursor[^c-6272e8bbb8e43ee8d92e3af5e7c86a94]
 
 (1) A person must not supply a regulated explosives precursor to a business customer unless the person first complies with the requirements imposed by paragraphs (2) to (4) (but see paragraph (6)).
 
@@ -92,7 +92,7 @@ A person must not supply a regulated substance or a reportable substance (“the
 
 (7) In this regulation “**VAT registration number**” means the number allocated by the Commissioners for His Majesty’s Revenue and Customs to a person registered under the Value Added Tax Act 1994[^f00005].
 
-## 4. Provision of information to workers[^key-af697f70ab41e45f2defad1aec29e7ef]
+## 4. Provision of information to workers[^c-af697f70ab41e45f2defad1aec29e7ef]
 
 (1) This regulation applies to a person who carries on a trade, business or profession involving the supply of regulated substances or reportable substances, and who engages a worker in connection with making such supplies (“the worker”).
 
@@ -104,7 +104,7 @@ A person must not supply a regulated substance or a reportable substance (“the
 
 (3) In this regulation “**worker**” has the meaning given by section 230(3) of the Employment Rights Act 1996[^f00006].
 
-## 5. Online marketplaces[^key-65a63334bfc35341b8359952830b5ae9]
+## 5. Online marketplaces[^c-65a63334bfc35341b8359952830b5ae9]
 
 (1) An operator of an online marketplace must take all reasonably practicable measures to provide information to any supplier who uses the online marketplace to make a relevant transaction, about—
 
@@ -124,7 +124,7 @@ A person must not supply a regulated substance or a reportable substance (“the
 - (d) whether or not a relevant transaction is suspicious is to be construed in accordance section 3C(3) and (4) of the 1972 Act;
 - (e) a duty to report a relevant transaction is a duty to give notice of it to the Secretary of State in accordance with regulation 6.
 
-## 6. Reporting of suspicious transactions etc.[^key-9e39b1d596ae3cff66d1f56eaa4be5e6]
+## 6. Reporting of suspicious transactions etc.[^c-9e39b1d596ae3cff66d1f56eaa4be5e6]
 
 (1) This regulation applies to a person who—
 
@@ -143,7 +143,7 @@ A person must not supply a regulated substance or a reportable substance (“the
 - (a) if the reporting requirement applies to a person in the case of a relevant transaction, the customer or the prospective customer to the relevant transaction; or
 - (b) if the reporting requirement applies to an operator of an online marketplace, the supplier using the online marketplace to make a relevant transaction, and the customer or prospective customer to that transaction.
 
-## 7. Review[^key-17c022346ff07175a1c2dc20163476b9]
+## 7. Review[^c-17c022346ff07175a1c2dc20163476b9]
 
 (1) The Secretary of State must from time to time—
 
@@ -154,7 +154,7 @@ A person must not supply a regulated substance or a reportable substance (“the
 
 (3) Subsequent reports must be published at intervals not exceeding five years.
 
-## 8. Amendments to Schedule 1A to the 1972 Act[^key-6c081f40801c084cbfbe998ba7167cd1]
+## 8. Amendments to Schedule 1A to the 1972 Act[^c-6c081f40801c084cbfbe998ba7167cd1]
 
 (1) Schedule 1A to the 1972 Act (regulated substances and reportable substances) is amended as follows.
 
@@ -241,7 +241,7 @@ A person must not supply a regulated substance or a reportable substance (“the
 
   .
 
-## 9. Amendments to the 2015 Regulations[^key-162e29cd0206788f67ac976d6f9e10df]
+## 9. Amendments to the 2015 Regulations[^c-162e29cd0206788f67ac976d6f9e10df]
 
 Regulation 2 of the 2015 Regulations (supplies of substances involving despatch to Northern Ireland or export from the UK: modification of section 3A of the Act) is amended as follows—
 
@@ -279,30 +279,30 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00002]: Footnote: Schedule 1A was inserted by section 90 of, and paragraph 16 of Schedule 21 to, the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-f4826c8ceb3bafe44f8737d24f3d02ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/63/regulation/1) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+[^c-f4826c8ceb3bafe44f8737d24f3d02ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/63/regulation/1) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2015/966](https://www.legislation.gov.uk/uksi/2015/966).
 
 [^f00004]: Footnote: The terms “regulated substance”, “reportable substance” and “regulated explosives precursor”, which are used in various places in these Regulations, are defined by section 2 of the Poisons Act [1972 (c. 66)](https://www.legislation.gov.uk/ukpga/1972/66).
 
-[^key-1dfd6d498a1828089b5623c5d117b677]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/63/regulation/2) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+[^c-1dfd6d498a1828089b5623c5d117b677]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/63/regulation/2) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
 
-[^key-6272e8bbb8e43ee8d92e3af5e7c86a94]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/63/regulation/3) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+[^c-6272e8bbb8e43ee8d92e3af5e7c86a94]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/63/regulation/3) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
 
 [^f00005]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-af697f70ab41e45f2defad1aec29e7ef]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/63/regulation/4) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+[^c-af697f70ab41e45f2defad1aec29e7ef]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/63/regulation/4) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
 
 [^f00006]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-65a63334bfc35341b8359952830b5ae9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/63/regulation/5) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+[^c-65a63334bfc35341b8359952830b5ae9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/63/regulation/5) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
 
-[^key-9e39b1d596ae3cff66d1f56eaa4be5e6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/63/regulation/6) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+[^c-9e39b1d596ae3cff66d1f56eaa4be5e6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/63/regulation/6) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
 
-[^key-17c022346ff07175a1c2dc20163476b9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/63/regulation/7) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+[^c-17c022346ff07175a1c2dc20163476b9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/63/regulation/7) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
 
-[^key-6c081f40801c084cbfbe998ba7167cd1]: Textual amendment: Reg. 8 substituted (1.10.2023) by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2)
+[^c-6c081f40801c084cbfbe998ba7167cd1]: Textual amendment: Reg. 8 substituted (1.10.2023) by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2)
 
-[^key-162e29cd0206788f67ac976d6f9e10df]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/63/regulation/9) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+[^c-162e29cd0206788f67ac976d6f9e10df]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/63/regulation/9) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
 
 [^f00008]: Footnote: Regulation 2(3) was amended by regulation 50(2) of the Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 ([S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742)).

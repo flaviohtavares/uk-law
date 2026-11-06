@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Publicity for determinations.[^key-f4fdfe879b2cc8be4f03bd16f2dc043f]
+## 32. Publicity for determinations.[^c-f4fdfe879b2cc8be4f03bd16f2dc043f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4fdfe879b2cc8be4f03bd16f2dc043f]: Textual amendment: Ss. 25-35 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-f4fdfe879b2cc8be4f03bd16f2dc043f]: Textual amendment: Ss. 25-35 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

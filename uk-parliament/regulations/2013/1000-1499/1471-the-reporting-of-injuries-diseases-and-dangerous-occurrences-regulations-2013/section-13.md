@@ -42,9 +42,9 @@ summary: ''
 
 (4) In paragraph (3), “**appropriate person**” means the responsible person or—
 
-- (a) in the case of a coal mine, a person appointed in the management structure of that mine established pursuant to regulation 10(1) of the Mines Regulations 2014[^key-58e3d98dd1a25d6b11fe460787ada7d7]; or
+- (a) in the case of a coal mine, a person appointed in the management structure of that mine established pursuant to regulation 10(1) of the Mines Regulations 2014[^c-58e3d98dd1a25d6b11fe460787ada7d7]; or
 - (b) in the case of a quarry, a person appointed in the management structure of that quarry established pursuant to regulation 8(1) of the 1999 Regulations.
 
 ## Annotations
 
-[^key-58e3d98dd1a25d6b11fe460787ada7d7]: Textual amendment: Words in [reg. 13(4)(a)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/13/4/a) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(d)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-58e3d98dd1a25d6b11fe460787ada7d7]: Textual amendment: Words in [reg. 13(4)(a)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/13/4/a) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(d)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

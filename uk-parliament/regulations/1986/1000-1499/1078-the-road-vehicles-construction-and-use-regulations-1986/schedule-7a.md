@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7A — MOTOR CYCLE NOISE AND MOTOR CYCLE SILENCERS[^key-f1385837cca91cde3db6e7d9ffdfc676]
+## SCHEDULE 7A — MOTOR CYCLE NOISE AND MOTOR CYCLE SILENCERS[^c-f1385837cca91cde3db6e7d9ffdfc676]
 
 *Extent: E+W+S*
 
@@ -92,4 +92,4 @@ where the standard, code of practice, international standard or technical specif
 
 ## Annotations
 
-[^key-f1385837cca91cde3db6e7d9ffdfc676]: Textual amendment: [Sch. 7A](https://www.legislation.gov.uk/uksi/1986/1078/schedule/7A) inserted (1.7.1994) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1994 (S.I. 1994/14)](https://www.legislation.gov.uk/uksi/1994/14), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/14/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/1994/14/regulation/3/8), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/14/schedule/2)
+[^c-f1385837cca91cde3db6e7d9ffdfc676]: Textual amendment: [Sch. 7A](https://www.legislation.gov.uk/uksi/1986/1078/schedule/7A) inserted (1.7.1994) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1994 (S.I. 1994/14)](https://www.legislation.gov.uk/uksi/1994/14), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/14/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/1994/14/regulation/3/8), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/14/schedule/2)

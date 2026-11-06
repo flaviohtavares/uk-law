@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1260. Section 1259: supplementary[^key-10b4f0d2f8be14be567fb9833f85804f]
+## 1260. Section 1259: supplementary[^c-10b4f0d2f8be14be567fb9833f85804f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10b4f0d2f8be14be567fb9833f85804f]: Modification: Ss. 1259-1265 modified (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 765(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/765/2), [768(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/768/4), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-10b4f0d2f8be14be567fb9833f85804f]: Modification: Ss. 1259-1265 modified (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 765(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/765/2), [768(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/768/4), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

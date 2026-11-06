@@ -37,13 +37,13 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by sections 73(1) and 75(3) of the Immigration Act 2014[^f00001], makes the following Order:
 
-## 1. Citation and interpretation[^key-de477fe545d83c64a7c8197375f7608f]
+## 1. Citation and interpretation[^c-de477fe545d83c64a7c8197375f7608f]
 
 (1) This Order may be cited as the Immigration Act 2014 (Commencement No. 1, Transitory and Saving Provisions) Order 2014.
 
 (2) In this Order, “the Act” means the Immigration Act 2014.
 
-## 2. Provisions coming into force on 14th July 2014[^key-b52c4cdb9b4aa03fc4e963dacedcd5a8]
+## 2. Provisions coming into force on 14th July 2014[^c-b52c4cdb9b4aa03fc4e963dacedcd5a8]
 
 The day appointed for the coming into force of the following provisions of the Act is 14th July 2014—
 
@@ -55,7 +55,7 @@ The day appointed for the coming into force of the following provisions of the A
 - (f) section 73(6) (transitional and consequential provision) so far as it is necessary for the purpose of the provisions listed in sub-paragraph (g);
 - (g) Part 6 of Schedule 9.
 
-## 3. Provisions coming into force on 28th July 2014[^key-8909a006b880b573940f284f2894daeb]
+## 3. Provisions coming into force on 28th July 2014[^c-8909a006b880b573940f284f2894daeb]
 
 The day appointed for the coming into force of the following provisions of the Act is 28th July 2014—
 
@@ -89,15 +89,15 @@ The day appointed for the coming into force of the following provisions of the A
 - (bb) Schedule 8 (embarkation checks); and
 - (cc) paragraphs 2, 8, 10(1) and (3), 11 to 16 and 32 and Parts 5 and 10 of Schedule 9.
 
-## 4. Transitory and saving provision[^key-b9439396b4f607c4529d58edd0ee93e6]
+## 4. Transitory and saving provision[^c-b9439396b4f607c4529d58edd0ee93e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ca2d974704103c5e6774c4ccfd0faeb5] The commencement of section 44 does not have effect in relation to an appeal in respect of a penalty notice issued before 28th July 2014 (including a penalty notice issued before that date but withdrawn and, after that date, re-issued).
+**5.**[^c-ca2d974704103c5e6774c4ccfd0faeb5] The commencement of section 44 does not have effect in relation to an appeal in respect of a penalty notice issued before 28th July 2014 (including a penalty notice issued before that date but withdrawn and, after that date, re-issued).
 
-**6.**[^key-ba0e99ac18fc7ea1d90420f8f91b1262] The commencement of section 45 does not have effect in relation to a sum payable to the Secretary of State as a penalty under section 15 of the Immigration, Asylum and Nationality Act 2006[^f00003] if proceedings for the enforcement of the penalty were commenced before 28th July 2014.
+**6.**[^c-ba0e99ac18fc7ea1d90420f8f91b1262] The commencement of section 45 does not have effect in relation to a sum payable to the Secretary of State as a penalty under section 15 of the Immigration, Asylum and Nationality Act 2006[^f00003] if proceedings for the enforcement of the penalty were commenced before 28th July 2014.
 
-**7.**[^key-67e3a3374e108170cf7fd863b067962a] (1) During the relevant period “chargeable function” in section 70 of the Act is to be read as a reference to an application, service or process in connection with immigration or nationality in respect of which a fee is chargeable pursuant to the Immigration and Nationality (Fees Order) 2011[^f00004].
+**7.**[^c-67e3a3374e108170cf7fd863b067962a] (1) During the relevant period “chargeable function” in section 70 of the Act is to be read as a reference to an application, service or process in connection with immigration or nationality in respect of which a fee is chargeable pursuant to the Immigration and Nationality (Fees Order) 2011[^f00004].
 
 (2) In paragraph (1), the relevant period means the period beginning on 28th July 2014 and ending on the date the first fees order made under section 68 of the Act comes into force.
 
@@ -123,20 +123,20 @@ Article 7 makes transitory provision in relation to section 70 and provides that
 
 [^f00001]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-de477fe545d83c64a7c8197375f7608f]: Commencement: Art. 1 in force at made date
+[^c-de477fe545d83c64a7c8197375f7608f]: Commencement: Art. 1 in force at made date
 
-[^key-b52c4cdb9b4aa03fc4e963dacedcd5a8]: Commencement: Art. 2 in force at made date
+[^c-b52c4cdb9b4aa03fc4e963dacedcd5a8]: Commencement: Art. 2 in force at made date
 
-[^key-8909a006b880b573940f284f2894daeb]: Commencement: Art. 3 in force at made date
+[^c-8909a006b880b573940f284f2894daeb]: Commencement: Art. 3 in force at made date
 
-[^key-b9439396b4f607c4529d58edd0ee93e6]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2014/1820/article/4) revoked (15.10.2014) by [The Immigration Act 2014 (Commencement No. 3, Transitional and Saving Provisions) Order 2014 (S.I. 2014/2771)](https://www.legislation.gov.uk/uksi/2014/2771), [art. 14](https://www.legislation.gov.uk/uksi/2014/2771/article/14)
+[^c-b9439396b4f607c4529d58edd0ee93e6]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2014/1820/article/4) revoked (15.10.2014) by [The Immigration Act 2014 (Commencement No. 3, Transitional and Saving Provisions) Order 2014 (S.I. 2014/2771)](https://www.legislation.gov.uk/uksi/2014/2771), [art. 14](https://www.legislation.gov.uk/uksi/2014/2771/article/14)
 
-[^key-ca2d974704103c5e6774c4ccfd0faeb5]: Commencement: Art. 5 in force at made date
+[^c-ca2d974704103c5e6774c4ccfd0faeb5]: Commencement: Art. 5 in force at made date
 
-[^key-ba0e99ac18fc7ea1d90420f8f91b1262]: Commencement: Art. 6 in force at made date
+[^c-ba0e99ac18fc7ea1d90420f8f91b1262]: Commencement: Art. 6 in force at made date
 
 [^f00003]: Footnote: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13).
 
-[^key-67e3a3374e108170cf7fd863b067962a]: Commencement: Art. 7 in force at made date
+[^c-67e3a3374e108170cf7fd863b067962a]: Commencement: Art. 7 in force at made date
 
 [^f00004]: Footnote: [S.I. 2011/445](https://www.legislation.gov.uk/uksi/2011/445); this Order was amended by the Immigration and Nationality (Fees) (Amendment) Order 2013 ([S.I. 2013/249](https://www.legislation.gov.uk/uksi/2013/249)) and the Immigration and Nationality (Fees) (Amendment) Order 2014 ([S.I. 2014/205](https://www.legislation.gov.uk/uksi/2014/205)).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Maintenance of drainage works[^key-7627129eb4d96c399e0a836997007a93]
+## 19. Maintenance of drainage works[^c-7627129eb4d96c399e0a836997007a93]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7627129eb4d96c399e0a836997007a93]: Commencement: Art. 19 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-7627129eb4d96c399e0a836997007a93]: Commencement: Art. 19 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
 [^f00033]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).

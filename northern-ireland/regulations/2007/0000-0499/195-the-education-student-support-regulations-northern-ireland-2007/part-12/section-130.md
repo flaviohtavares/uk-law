@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 130. Applications for support[^key-fdb2c488766cbc8208ee254701bfb753]
+## 130. Applications for support[^c-fdb2c488766cbc8208ee254701bfb753]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdb2c488766cbc8208ee254701bfb753]: Commencement: [Reg. 130](https://www.legislation.gov.uk/nisr/2007/195/regulation/130) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-fdb2c488766cbc8208ee254701bfb753]: Commencement: [Reg. 130](https://www.legislation.gov.uk/nisr/2007/195/regulation/130) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The annual rate of a pension to which P[^key-be289fbb7a3293d35414dd2e00bf2da8] becomes entitled under regulation 21 is determined in accordance with the following steps.
+(1) The annual rate of a pension to which P[^c-be289fbb7a3293d35414dd2e00bf2da8] becomes entitled under regulation 21 is determined in accordance with the following steps.
 
 *Step 1*
 
@@ -64,13 +64,13 @@ where—
 - F is the period, expressed in years and any fraction of a year, which is one half of the period—
   - (i) beginning with the day after that on which P retires, and
   - (ii) ending with the day on which P would reach normal pension age;
-- X is the aggregate length of P's reckonable service in relevant[^key-65c4c6e4910b9999a833edcad5b1f252] offices (including any eligible relevant offices in respect of which P has taken partial retirement) determined in accordance with the formula in regulation 5(1) as though regulation 5(2) does not apply;
+- X is the aggregate length of P's reckonable service in relevant[^c-65c4c6e4910b9999a833edcad5b1f252] offices (including any eligible relevant offices in respect of which P has taken partial retirement) determined in accordance with the formula in regulation 5(1) as though regulation 5(2) does not apply;
 - Y is the period, or the aggregate of the periods, expressed in years and any fraction of a year, during which P held one or more eligible fee-paid judicial offices, disregarding any day in respect of which the conditions in regulation 4(2) (qualifying fee-paid days) are not met.
 
 ## Annotations
 
-[^key-be289fbb7a3293d35414dd2e00bf2da8]: Textual amendment: Word in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/22/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/23/a)
+[^c-be289fbb7a3293d35414dd2e00bf2da8]: Textual amendment: Word in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/22/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/23/a)
 
 [^c23060381]: Textual amendment: [1993 c.8](https://www.legislation.gov.uk/ukpga/1993/8).
 
-[^key-65c4c6e4910b9999a833edcad5b1f252]: Textual amendment: Word in [reg. 22(4)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/22/4/b) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/23/b)
+[^c-65c4c6e4910b9999a833edcad5b1f252]: Textual amendment: Word in [reg. 22(4)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/22/4/b) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/23/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.4. Information to be included in a warrant[^key-ae000b826a2a27582022b4da0436d0e6]
+## 13.4. Information to be included in a warrant[^c-ae000b826a2a27582022b4da0436d0e6]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ae000b826a2a27582022b4da0436d0e6]: Commencement: [Rule 13.4](https://www.legislation.gov.uk/uksi/2025/909/rule/13.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ae000b826a2a27582022b4da0436d0e6]: Commencement: [Rule 13.4](https://www.legislation.gov.uk/uksi/2025/909/rule/13.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00327]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 

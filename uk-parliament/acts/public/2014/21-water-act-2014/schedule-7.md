@@ -24,7 +24,7 @@ Section 56
 
 ### Water Act 1989 (c. 15)
 
-**1.**[^key-4802b436a399fd86b1a9bc486617c56e] (1) Section 174 of the Water Act 1989 (general restrictions on disclosure of information) is amended as follows.
+**1.**[^c-4802b436a399fd86b1a9bc486617c56e] (1) Section 174 of the Water Act 1989 (general restrictions on disclosure of information) is amended as follows.
 
 (2) In subsection (2)(b)—
 
@@ -38,15 +38,15 @@ Section 56
 
 ### Water Industry Act 1991 (c. 56)
 
-**2.**[^key-86417a6e20a3240b16b2b529bb76b917][^key-fea73b29219c230dfb70b15e8033b2ad][^key-632074e8149b97c72e1438f5156f7d67][^key-3bf78ffc6343f0cd2b4dbcf28f3a79bd][^key-339bb1ab47bdd15a3941295078c2c4c4][^key-89705dd7d98ea9c0c9498062159564c5][^key-baddfae90e6668a4048d8efe63984696][^key-fcd1cfed62916ed68656b474286966e1][^key-54162333c064d5518628a2ac57e2a058][^key-b16bb011412a574d8a8b96d32bb24a7a][^key-12fb0c40bcb989b6277e105a0b72896c][^key-6d40eda99cbe27486b6e1c60c41c9693] The Water Industry Act 1991 is amended as follows.
+**2.**[^c-86417a6e20a3240b16b2b529bb76b917][^c-fea73b29219c230dfb70b15e8033b2ad][^c-632074e8149b97c72e1438f5156f7d67][^c-3bf78ffc6343f0cd2b4dbcf28f3a79bd][^c-339bb1ab47bdd15a3941295078c2c4c4][^c-89705dd7d98ea9c0c9498062159564c5][^c-baddfae90e6668a4048d8efe63984696][^c-fcd1cfed62916ed68656b474286966e1][^c-54162333c064d5518628a2ac57e2a058][^c-b16bb011412a574d8a8b96d32bb24a7a][^c-12fb0c40bcb989b6277e105a0b72896c][^c-6d40eda99cbe27486b6e1c60c41c9693] The Water Industry Act 1991 is amended as follows.
 
-**3.** (1)[^key-b0b071868c82528f2bbb13c0aefa398c][^key-e1796cd6d6efc5ef49bd742fca6ed53e][^key-eeb8fd7f703d339cf793d0cf98e52769][^key-caafc4438f70072060bff7e9aadedfc4][^key-b0a2410c2a12781ac6ad3efc60084510][^key-742a88d51577981b75bdf4c9757a6134][^key-09ead3f04e4c7483a03d9643337423ad][^key-db964ccdc0f589449d3f34cbdad7668e] Section 2 (general duties with respect to water industry) is amended as follows.
+**3.** (1)[^c-b0b071868c82528f2bbb13c0aefa398c][^c-e1796cd6d6efc5ef49bd742fca6ed53e][^c-eeb8fd7f703d339cf793d0cf98e52769][^c-caafc4438f70072060bff7e9aadedfc4][^c-b0a2410c2a12781ac6ad3efc60084510][^c-742a88d51577981b75bdf4c9757a6134][^c-09ead3f04e4c7483a03d9643337423ad][^c-db964ccdc0f589449d3f34cbdad7668e] Section 2 (general duties with respect to water industry) is amended as follows.
 
-(2)[^key-b0b071868c82528f2bbb13c0aefa398c][^key-e1796cd6d6efc5ef49bd742fca6ed53e][^key-eeb8fd7f703d339cf793d0cf98e52769][^key-caafc4438f70072060bff7e9aadedfc4][^key-3df40b93e305ef9258267ecf71da7c73][^key-742a88d51577981b75bdf4c9757a6134][^key-09ead3f04e4c7483a03d9643337423ad][^key-db964ccdc0f589449d3f34cbdad7668e] In subsection (1), for the words from “the following” to the end there is substituted “ the powers and duties conferred or imposed on the Secretary of State or the Authority by virtue of any of the relevant provisions. ”
+(2)[^c-b0b071868c82528f2bbb13c0aefa398c][^c-e1796cd6d6efc5ef49bd742fca6ed53e][^c-eeb8fd7f703d339cf793d0cf98e52769][^c-caafc4438f70072060bff7e9aadedfc4][^c-3df40b93e305ef9258267ecf71da7c73][^c-742a88d51577981b75bdf4c9757a6134][^c-09ead3f04e4c7483a03d9643337423ad][^c-db964ccdc0f589449d3f34cbdad7668e] In subsection (1), for the words from “the following” to the end there is substituted “ the powers and duties conferred or imposed on the Secretary of State or the Authority by virtue of any of the relevant provisions. ”
 
-(3)[^key-92dc133fe99553385ca64c024ac641cb] In subsection (2A)(d), for “of a licensed water supplier” there is substituted “ of a water supply licensee or sewerage licensee ”.
+(3)[^c-92dc133fe99553385ca64c024ac641cb] In subsection (2A)(d), for “of a licensed water supplier” there is substituted “ of a water supply licensee or sewerage licensee ”.
 
-(4)[^key-1efb0a9713b4fdfbb96eb025a3ab9dee] In subsection (2C)—
+(4)[^c-1efb0a9713b4fdfbb96eb025a3ab9dee] In subsection (2C)—
 
 - (a) the “and” after paragraph (d) is repealed;
 - (b) in paragraph (e), for the words from “not eligible” to the end there is substituted “ household premises (as defined in section 17C) ”;
@@ -58,19 +58,19 @@ Section 56
 
   .
 
-(5)[^key-1efb0a9713b4fdfbb96eb025a3ab9dee] In subsection (2D), for the words from “not eligible” to “the total quantity” there is substituted “ below the consumption threshold if the total quantity ”.
+(5)[^c-1efb0a9713b4fdfbb96eb025a3ab9dee] In subsection (2D), for the words from “not eligible” to “the total quantity” there is substituted “ below the consumption threshold if the total quantity ”.
 
-(6)[^key-92dc133fe99553385ca64c024ac641cb] In subsection (2DB) (inserted by section 22), in paragraph (b) (meaning of sewerage systems), for the words from “a reference to the system comprising” to the end there is substituted “ to be construed in accordance with section 17BA(7). ”
+(6)[^c-92dc133fe99553385ca64c024ac641cb] In subsection (2DB) (inserted by section 22), in paragraph (b) (meaning of sewerage systems), for the words from “a reference to the system comprising” to the end there is substituted “ to be construed in accordance with section 17BA(7). ”
 
-(7)[^key-92dc133fe99553385ca64c024ac641cb] In subsection (5A), in the definition of “the interests of consumers”—
+(7)[^c-92dc133fe99553385ca64c024ac641cb] In subsection (5A), in the definition of “the interests of consumers”—
 
 - (a) in paragraph (a), for “licensed water suppliers” there is substituted “ water supply licensees ”;
 - (b) in paragraph (b), for “by sewerage undertakers” there is substituted “ either by sewerage undertakers or by sewerage licensees acting in their capacity as such ”.
 
-(8)[^key-db964ccdc0f589449d3f34cbdad7668e] In subsection (6)—
+(8)[^c-db964ccdc0f589449d3f34cbdad7668e] In subsection (6)—
 
-- (a)[^key-b0b071868c82528f2bbb13c0aefa398c][^key-e1796cd6d6efc5ef49bd742fca6ed53e][^key-eeb8fd7f703d339cf793d0cf98e52769][^key-caafc4438f70072060bff7e9aadedfc4][^key-3df40b93e305ef9258267ecf71da7c73][^key-742a88d51577981b75bdf4c9757a6134][^key-09ead3f04e4c7483a03d9643337423ad] in paragraph (a), for the words from “the provisions of” to “water suppliers” there is substituted “ the relevant provisions ”;
-- (b)[^key-c99634cc5c5edc1600f3234605683488][^key-c33435df187d6b0b022584bd0c125722][^key-e1d7252c8e484b6fac73ff5313748d5e][^key-c7be9942165e27eb5d86439831955bbf][^key-9023eb70a6090c7af1cbc7d0c50762fb][^key-68b7059cb53ab0035b88c6cf8eca5d15][^key-6572b7610b0a2103ca10dd3e5bc9e5c8][^M_I_a6990998-0179-46b3-ff96-cf35b06b0fad] in paragraph (a), for the words from “contained in” to the end, there is substituted
+- (a)[^c-b0b071868c82528f2bbb13c0aefa398c][^c-e1796cd6d6efc5ef49bd742fca6ed53e][^c-eeb8fd7f703d339cf793d0cf98e52769][^c-caafc4438f70072060bff7e9aadedfc4][^c-3df40b93e305ef9258267ecf71da7c73][^c-742a88d51577981b75bdf4c9757a6134][^c-09ead3f04e4c7483a03d9643337423ad] in paragraph (a), for the words from “the provisions of” to “water suppliers” there is substituted “ the relevant provisions ”;
+- (b)[^c-c99634cc5c5edc1600f3234605683488][^c-c33435df187d6b0b022584bd0c125722][^c-e1d7252c8e484b6fac73ff5313748d5e][^c-c7be9942165e27eb5d86439831955bbf][^c-9023eb70a6090c7af1cbc7d0c50762fb][^c-68b7059cb53ab0035b88c6cf8eca5d15][^c-6572b7610b0a2103ca10dd3e5bc9e5c8][^M_I_a6990998-0179-46b3-ff96-cf35b06b0fad] in paragraph (a), for the words from “contained in” to the end, there is substituted
 
   > contained in—
   >
@@ -79,15 +79,15 @@ Section 56
   > - (iii) any of sections 42 to 54 of the Water Act 2014.
 
   ;
-- (c)[^key-b0b071868c82528f2bbb13c0aefa398c][^key-e1796cd6d6efc5ef49bd742fca6ed53e][^key-eeb8fd7f703d339cf793d0cf98e52769][^key-caafc4438f70072060bff7e9aadedfc4][^key-3df40b93e305ef9258267ecf71da7c73][^key-742a88d51577981b75bdf4c9757a6134][^key-09ead3f04e4c7483a03d9643337423ad] paragraphs (b) and (c) are repealed.
+- (c)[^c-b0b071868c82528f2bbb13c0aefa398c][^c-e1796cd6d6efc5ef49bd742fca6ed53e][^c-eeb8fd7f703d339cf793d0cf98e52769][^c-caafc4438f70072060bff7e9aadedfc4][^c-3df40b93e305ef9258267ecf71da7c73][^c-742a88d51577981b75bdf4c9757a6134][^c-09ead3f04e4c7483a03d9643337423ad] paragraphs (b) and (c) are repealed.
 
-**4.**[^key-bea47fb02d0c3aa4f298eb873dd7421e] In section 2A (strategic priorities and objectives: England) (inserted by section 24), in subsection (4)(d), for “licensed water suppliers” there is substituted “ water supply licensees and sewerage licensees ”.
+**4.**[^c-bea47fb02d0c3aa4f298eb873dd7421e] In section 2A (strategic priorities and objectives: England) (inserted by section 24), in subsection (4)(d), for “licensed water suppliers” there is substituted “ water supply licensees and sewerage licensees ”.
 
-**5.**[^key-5a9b92d12ff3456192dd5d07b5bf4d29] In section 2B (strategic priorities and objectives: Wales) (inserted by section 24), in subsection (4)(d), for “licensed water suppliers” there is substituted “ water supply licensees ”.
+**5.**[^c-5a9b92d12ff3456192dd5d07b5bf4d29] In section 2B (strategic priorities and objectives: Wales) (inserted by section 24), in subsection (4)(d), for “licensed water suppliers” there is substituted “ water supply licensees ”.
 
-**6.**[^key-f0ca9ef7d818fa9d118d0092afa001b8] In section 6 (appointment of relevant undertakers), in subsection (5A), for “a licensed water supplier” there is substituted “ a water supply licensee or sewerage licensee ”.
+**6.**[^c-f0ca9ef7d818fa9d118d0092afa001b8] In section 6 (appointment of relevant undertakers), in subsection (5A), for “a licensed water supplier” there is substituted “ a water supply licensee or sewerage licensee ”.
 
-**7.**[^key-bc6eaf94265849147b6228a5d77e29ca] (1) Section 10 (transitional provision with respect to replacement appointments) is amended as follows.
+**7.**[^c-bc6eaf94265849147b6228a5d77e29ca] (1) Section 10 (transitional provision with respect to replacement appointments) is amended as follows.
 
 (2) In subsection (2), for “and (4)” there is substituted “ to (4) ”.
 
@@ -100,57 +100,57 @@ Section 56
 - (a) in subsection (3B) (application of certain provisions to references to competition authority under section 12) for “sections 16A and 16B” there is substituted “ sections 14A and 14B ”;
 - (b) in subsection (3D), for “16B” there is substituted “ 14B ”.
 
-**9.**[^key-0de10b3c390737326973bba259b6d7bb] For the heading of Chapter 1A of Part 2 there is substituted— “ Water supply licences and sewerage licences ”.
+**9.**[^c-0de10b3c390737326973bba259b6d7bb] For the heading of Chapter 1A of Part 2 there is substituted— “ Water supply licences and sewerage licences ”.
 
-**10.** (1)[^key-d89a331262c6e81bbb71816e2805c593][^key-c214a012658b6ac9c6498cbf82f3ac4f] Section 17B (provision supplementary to section 17A) is amended as follows.
+**10.** (1)[^c-d89a331262c6e81bbb71816e2805c593][^c-c214a012658b6ac9c6498cbf82f3ac4f] Section 17B (provision supplementary to section 17A) is amended as follows.
 
-(2)[^key-7d7cdbaeb003feddc653a941c33165e0] For the title there is substituted “ Meaning of supply system ”.
+(2)[^c-7d7cdbaeb003feddc653a941c33165e0] For the title there is substituted “ Meaning of supply system ”.
 
-(3)[^key-7d7cdbaeb003feddc653a941c33165e0] Subsections (1) to (4) (provision as to guidance on extent of premises) are repealed.
+(3)[^c-7d7cdbaeb003feddc653a941c33165e0] Subsections (1) to (4) (provision as to guidance on extent of premises) are repealed.
 
-(4)[^key-46e172612bb322931e0527b78cf5c270] Subsection (9) (references to a licensed water supplier) is repealed.
+(4)[^c-46e172612bb322931e0527b78cf5c270] Subsection (9) (references to a licensed water supplier) is repealed.
 
-**11.**[^key-c4e9e1344a2a4fd59cb5ec0a33f924be] In section 17C (meaning of “household premises”), in subsection (1), for “section 17A(3)(a) above” there is substituted “ paragraphs 4 and 7(a) of Schedule 2A and paragraph 2 of Schedule 2B ”.
+**11.**[^c-c4e9e1344a2a4fd59cb5ec0a33f924be] In section 17C (meaning of “household premises”), in subsection (1), for “section 17A(3)(a) above” there is substituted “ paragraphs 4 and 7(a) of Schedule 2A and paragraph 2 of Schedule 2B ”.
 
-**12.** (1)[^key-11d8029b1a4c169ebd14d85b43e0b024][^key-087249180b58095add5d28497cb25eb2][^key-c7ab1da73af0455aaf3fe3e930c6e08c] Section 17D (the threshold requirement) is amended as follows.
+**12.** (1)[^c-11d8029b1a4c169ebd14d85b43e0b024][^c-087249180b58095add5d28497cb25eb2][^c-c7ab1da73af0455aaf3fe3e930c6e08c] Section 17D (the threshold requirement) is amended as follows.
 
-(2)[^key-a770c33173c9dc573e33dfa8e0b5a45d] In subsection (1) (purpose of section 17D)—
+(2)[^c-a770c33173c9dc573e33dfa8e0b5a45d] In subsection (1) (purpose of section 17D)—
 
 - (a) for “section 17A(3)(b) above” there is substituted “ paragraph 7(b) of Schedule 2A ”;
 - (b) after “the supply of water to any premises” there is inserted “ in accordance with a restricted retail authorisation ”.
 
-(3)[^key-89cf80412f47e88717dbaeb9d988e3e0] In subsection (2) (description of the requirement), for “licensed water supplier” there is substituted “ water supply licensee ”.
+(3)[^c-89cf80412f47e88717dbaeb9d988e3e0] In subsection (2) (description of the requirement), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-(4)[^key-ea35a33d7564a8a2a3e357414707ae36] In subsection (3) (guidance on making estimate)—
+(4)[^c-ea35a33d7564a8a2a3e357414707ae36] In subsection (3) (guidance on making estimate)—
 
 - (a) after “guidance issued” there is inserted “ from time to time ”;
 - (b) for “the Secretary of State” there is substituted “ the Welsh Ministers ”.
 
-(5)[^key-ea35a33d7564a8a2a3e357414707ae36] Subsection (5) (duty of Secretary of State to consult the National Assembly for Wales before issuing guidance) is repealed.
+(5)[^c-ea35a33d7564a8a2a3e357414707ae36] Subsection (5) (duty of Secretary of State to consult the National Assembly for Wales before issuing guidance) is repealed.
 
-(6)[^key-ea35a33d7564a8a2a3e357414707ae36] Subsection (6) (application of guidance provision to threshold requirement) is repealed.
+(6)[^c-ea35a33d7564a8a2a3e357414707ae36] Subsection (6) (application of guidance provision to threshold requirement) is repealed.
 
-(7)[^key-ea35a33d7564a8a2a3e357414707ae36] In subsection (7) (regulations as to entering into an undertaking to supply water)—
+(7)[^c-ea35a33d7564a8a2a3e357414707ae36] In subsection (7) (regulations as to entering into an undertaking to supply water)—
 
 - (a) for “The Secretary of State” there is substituted “ The Welsh Ministers ”;
 - (b) for “licensed water supplier” there is substituted “ water supply licensee ”;
 - (c) the words “(subject to subsection (12) below)” are repealed.
 
-(8)[^key-ea35a33d7564a8a2a3e357414707ae36] In subsection (8) (regulations to alter the threshold)—
+(8)[^c-ea35a33d7564a8a2a3e357414707ae36] In subsection (8) (regulations to alter the threshold)—
 
 - (a) for “The Secretary of State” there is substituted “ The Welsh Ministers ”;
 - (b) the words “(subject to subsection (12) below)” are repealed.
 
-(9)[^key-ea35a33d7564a8a2a3e357414707ae36] In subsection (10) (procedure), for “each House of Parliament” there is substituted “ the Assembly ”.
+(9)[^c-ea35a33d7564a8a2a3e357414707ae36] In subsection (10) (procedure), for “each House of Parliament” there is substituted “ the Assembly ”.
 
-(10)[^key-ea35a33d7564a8a2a3e357414707ae36] In subsection (11) (consultation before making regulations)—
+(10)[^c-ea35a33d7564a8a2a3e357414707ae36] In subsection (11) (consultation before making regulations)—
 
 - (a) for “the Secretary of State”, in the first place where those words occur, there is substituted “ the Welsh Ministers ”;
 - (b) for “the Secretary of State thinks” there is substituted “ the Welsh Ministers think ”.
 
-(11)[^key-ea35a33d7564a8a2a3e357414707ae36] Subsections (12) and (13) (exercise of powers by Welsh Ministers) are repealed.
+(11)[^c-ea35a33d7564a8a2a3e357414707ae36] Subsections (12) and (13) (exercise of powers by Welsh Ministers) are repealed.
 
-**13.**[^key-1fc2c79a45678b477f88fd2c83cddd87] After section 17D there is inserted—
+**13.**[^c-1fc2c79a45678b477f88fd2c83cddd87] After section 17D there is inserted—
 
 > **17DA. Guidance**
 >
@@ -162,7 +162,7 @@ Section 56
 >
 > in such manner as the Authority considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by it.
 
-**14.**[^key-e8a8e0792f5d961d54b892157a911a71] (1) Section 17E (determinations by the Authority) is amended as follows.
+**14.**[^c-e8a8e0792f5d961d54b892157a911a71] (1) Section 17E (determinations by the Authority) is amended as follows.
 
 (2) For subsection (1) there is substituted—
 
@@ -183,29 +183,29 @@ Section 56
   ;
 - (c) in paragraph (b), after “to be supplied” there is inserted “ or served ”.
 
-**15.** (1)[^key-108673cd164891a5522b45f3138c8e93][^key-7fc19a252a2a69bf7837cd1e79298b6d] Section 17F (procedure for granting water supply licences) is amended as follows.
+**15.** (1)[^c-108673cd164891a5522b45f3138c8e93][^c-7fc19a252a2a69bf7837cd1e79298b6d] Section 17F (procedure for granting water supply licences) is amended as follows.
 
-(2)[^key-d90a528493aee23c8ccc2624602236bc] In the title, after “water supply” there is inserted “ and sewerage ”.
+(2)[^c-d90a528493aee23c8ccc2624602236bc] In the title, after “water supply” there is inserted “ and sewerage ”.
 
-(3)[^key-9756aa5db111e9d0821d0f2a50409323] In subsection (4)—
+(3)[^c-9756aa5db111e9d0821d0f2a50409323] In subsection (4)—
 
 - (a) the words “the Secretary of State or” are repealed;
 - (b) the words “he or”, in each place they occur, are repealed.
 
 (4) In subsection (7)—
 
-- (a)[^key-9756aa5db111e9d0821d0f2a50409323] the words “the Secretary of State or” are repealed;
-- (b)[^key-d90a528493aee23c8ccc2624602236bc] for paragraph (g) there is substituted—
+- (a)[^c-9756aa5db111e9d0821d0f2a50409323] the words “the Secretary of State or” are repealed;
+- (b)[^c-d90a528493aee23c8ccc2624602236bc] for paragraph (g) there is substituted—
 
   > - (g) on each water supply licensee and sewerage licensee (other than the holder of the licence in question);
 
   ;
-- (c)[^key-9756aa5db111e9d0821d0f2a50409323] paragraph (h) is repealed;
-- (d)[^key-9756aa5db111e9d0821d0f2a50409323] in paragraph (i), the words “if the licence or variation is granted by the Authority,” are repealed.
+- (c)[^c-9756aa5db111e9d0821d0f2a50409323] paragraph (h) is repealed;
+- (d)[^c-9756aa5db111e9d0821d0f2a50409323] in paragraph (i), the words “if the licence or variation is granted by the Authority,” are repealed.
 
-(5)[^key-9756aa5db111e9d0821d0f2a50409323] In subsection (8), the words “by the Secretary of State or” are repealed.
+(5)[^c-9756aa5db111e9d0821d0f2a50409323] In subsection (8), the words “by the Secretary of State or” are repealed.
 
-**16.**[^key-efa8f4b57aaaa693e03383e73028e7dd] (1) Section 17G (water supply licence conditions) is amended as follows.
+**16.**[^c-efa8f4b57aaaa693e03383e73028e7dd] (1) Section 17G (water supply licence conditions) is amended as follows.
 
 (2) For the title there is substituted “ Licence conditions ”.
 
@@ -232,7 +232,7 @@ Section 56
 
 (8) In subsection (7) (payments received by Secretary of State paid into the Consolidated Fund), for “the Secretary of State” there is substituted “ the Authority ”.
 
-**17.**[^key-f807f167b5daa1ede9d09f0b9b3e7187] (1) Section 17H (standard conditions of water supply licences) is amended as follows.
+**17.**[^c-f807f167b5daa1ede9d09f0b9b3e7187] (1) Section 17H (standard conditions of water supply licences) is amended as follows.
 
 (2) For subsections (1) to (3) there is substituted—
 
@@ -280,7 +280,7 @@ Section 56
 - (a) the words “Secretary of State or the” are repealed;
 - (b) the words “he or” are repealed.
 
-**18.**[^key-4aa681a1a9483428097fa0f479135aee] After section 17H there is inserted—
+**18.**[^c-4aa681a1a9483428097fa0f479135aee] After section 17H there is inserted—
 
 > **17HA. Standard conditions of sewerage licences**
 >
@@ -328,7 +328,7 @@ Section 56
 >
 > (12) The modification under subsection (7) of part of a standard condition is not to prevent any other part of the condition from continuing to be treated as a standard condition for the purposes of this Chapter.
 
-**19.**[^key-6458c8870cef95bf5447fafacdd42fca] (1) Section 17I (modification of licences by agreement) is amended as follows.
+**19.**[^c-6458c8870cef95bf5447fafacdd42fca] (1) Section 17I (modification of licences by agreement) is amended as follows.
 
 (2) For the title there is substituted “ Modification of licences by agreement ”.
 
@@ -352,7 +352,7 @@ Section 56
 
 > (5A) The Secretary of State is to consult the Welsh Ministers before giving a direction under subsection (5) in relation to a water supply licence.
 
-**20.**[^key-2b19a8e0a18d29402013ee4ac75227e7] (1) Section 17J (general modification of standard conditions) is amended as follows.
+**20.**[^c-2b19a8e0a18d29402013ee4ac75227e7] (1) Section 17J (general modification of standard conditions) is amended as follows.
 
 (2) For the title there is substituted “ Modification of standard conditions ”.
 
@@ -399,7 +399,7 @@ Section 56
 
 (13) In subsection (13) (meaning of “relevant licence holder”), for “retail licences or combined licences” there is substituted “ water supply licences or sewerage licences or of such of those licences as grant a particular authorisation or combination of authorisations ”.
 
-**21.**[^key-2b684b65a900e57cbcd0c03ddb897f40] (1) Section 17K (references to competition authority in relation to the modification of licences) is amended as follows.
+**21.**[^c-2b684b65a900e57cbcd0c03ddb897f40] (1) Section 17K (references to competition authority in relation to the modification of licences) is amended as follows.
 
 (2) For the title there is substituted “ Modification references to competition authority ”.
 
@@ -409,7 +409,7 @@ Section 56
 
 (5) In subsection (5)(b) (persons to be served with copy of reference or variation), in sub-paragraph (iv), at the beginning there is inserted “in a case relating to a water supply licence or licences,”.
 
-**22.**[^key-77507c39859c4fb361985b01c5589a32] (1) Section 17N (reports on modification references) is amended as follows.
+**22.**[^c-77507c39859c4fb361985b01c5589a32] (1) Section 17N (reports on modification references) is amended as follows.
 
 (2) For the title there is substituted “ Reports on modification references ”.
 
@@ -419,7 +419,7 @@ Section 56
 
 (5) In subsection (12) (meaning of “relevant time”), in paragraph (a), after “Secretary of State and” there is inserted “ , if the report relates to water supply licences, ”.
 
-**23.**[^key-5e9afb1938c40945ff97a4e78e7a5adf] (1) Section 17O (modification of licences following report) is amended as follows.
+**23.**[^c-5e9afb1938c40945ff97a4e78e7a5adf] (1) Section 17O (modification of licences following report) is amended as follows.
 
 (2) For the title there is substituted “ Modification of licences following report ”.
 
@@ -442,7 +442,7 @@ Section 56
 
   > Where the Authority modifies the standard conditions of water supply licences or sewerage licences that grant particular authorisations or combinations of authorisations, paragraph (a) has effect only as regards licences granting the same authorisations or combinations of authorisations.
 
-**24.**[^key-b01af085ed4bd84e378b441128bb00a4] (1) Section 17P (competition authority's power of veto following report) is amended as follows.
+**24.**[^c-b01af085ed4bd84e378b441128bb00a4] (1) Section 17P (competition authority's power of veto following report) is amended as follows.
 
 (2) For the title there is substituted “ Power of veto following report ”.
 
@@ -465,7 +465,7 @@ Section 56
 
   > Where the Authority modifies the standard conditions of water supply licences or sewerage licences that grant particular authorisations or combinations of authorisations, paragraph (a) has effect only as regards licences granting the same authorisations or combinations of authorisations.
 
-**25.**[^key-c0ab2b8701587bcc53109994601bc167] (1) Section 17R (modification of licences by order under other enactments) is amended as follows.
+**25.**[^c-c0ab2b8701587bcc53109994601bc167] (1) Section 17R (modification of licences by order under other enactments) is amended as follows.
 
 (2) For the title there is substituted “ Modification by order under other enactments ”.
 
@@ -490,7 +490,7 @@ Section 56
 
 (6) In subsection (5) (publication of modifications), for “retail licences or combined licences” there is substituted “ water supply licences or sewerage licences ”.
 
-**26.**[^key-3f217a2790f4de4bc797a8e5a0fe9de4] (1) Section 18 (orders for securing compliance with certain provisions) is amended as follows.
+**26.**[^c-3f217a2790f4de4bc797a8e5a0fe9de4] (1) Section 18 (orders for securing compliance with certain provisions) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -509,11 +509,11 @@ Section 56
 
 (5) In subsection (6)(a), after “Part or” there is inserted “ a person holding ”.
 
-**27.**[^key-fc3cfad01af4f2bce92e6f90f246b364] In section 19 (exceptions to the duty to enforce), for “company”, in each place, there is substituted “ person ”.
+**27.**[^c-fc3cfad01af4f2bce92e6f90f246b364] In section 19 (exceptions to the duty to enforce), for “company”, in each place, there is substituted “ person ”.
 
-**28.**[^key-aeb9dd72188ff49edfb28a1ce55acc79] In section 20 (procedure for enforcement orders), for “company to which”, in each place, there is substituted “ person to whom ”.
+**28.**[^c-aeb9dd72188ff49edfb28a1ce55acc79] In section 20 (procedure for enforcement orders), for “company to which”, in each place, there is substituted “ person to whom ”.
 
-**29.**[^key-84015e0efb007228c62dc60ac79a8369] (1) Section 21 (validity of enforcement orders) is amended as follows.
+**29.**[^c-84015e0efb007228c62dc60ac79a8369] (1) Section 21 (validity of enforcement orders) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -522,12 +522,12 @@ Section 56
 
 (3) In subsection (2), for “company” there is substituted “ person ”.
 
-**30.**[^key-49001e8f1fb05f82a384fb1912f50cef] In section 22 (effect of enforcement order), in subsection (3)—
+**30.**[^c-49001e8f1fb05f82a384fb1912f50cef] In section 22 (effect of enforcement order), in subsection (3)—
 
 - (a) for “company”, in each place, there is substituted “ person ”;
 - (b) for “it” there is substituted “ the person ”.
 
-**31.**[^key-89c94e9865c821657e476eab3749d9e3] (1) Section 22A (penalties) is amended as follows.
+**31.**[^c-89c94e9865c821657e476eab3749d9e3] (1) Section 22A (penalties) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -567,7 +567,7 @@ Section 56
 
 .
 
-**32.**[^key-e9bb9de707b34ecc7636a11a87e7883d] (1) Section 22C (time limits on the imposition of financial penalties) is amended as follows.
+**32.**[^c-e9bb9de707b34ecc7636a11a87e7883d] (1) Section 22C (time limits on the imposition of financial penalties) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -580,19 +580,19 @@ Section 56
 - (a) after the first “penalty” there is inserted “ on a person ”;
 - (b) for “company” there is substituted “ person ”.
 
-**33.**[^key-0eebbe2093980e2a9dbe1ab91dfe57d3] (1) Section 22E (appeals) is amended as follows.
+**33.**[^c-0eebbe2093980e2a9dbe1ab91dfe57d3] (1) Section 22E (appeals) is amended as follows.
 
 (2) In subsection (1), for “company on which” there is substituted “ person on whom ”.
 
 (3) In subsections (2)(a) and (b) (in both places) and (4)(b), for “company” there is substituted “ person ”.
 
-**34.**[^key-b8365d7902708cd0eda5566be27807b8] In section 22F (recovery of penalties), for “company” there is substituted “ person ”.
+**34.**[^c-b8365d7902708cd0eda5566be27807b8] In section 22F (recovery of penalties), for “company” there is substituted “ person ”.
 
-**35.** (1)[^key-d0e87e7fa0d38cc10488861831463f4d] Section 23 (meaning and effect of special administration orders) is amended as follows.
+**35.** (1)[^c-d0e87e7fa0d38cc10488861831463f4d] Section 23 (meaning and effect of special administration orders) is amended as follows.
 
-(2)[^key-f9fece9a287374ae7e89641522959336] In subsection (1), for “a qualifying licensed water supplier” there is substituted “ a qualifying water supply licensee or a qualifying sewerage licensee ”.
+(2)[^c-f9fece9a287374ae7e89641522959336] In subsection (1), for “a qualifying licensed water supplier” there is substituted “ a qualifying water supply licensee or a qualifying sewerage licensee ”.
 
-(3)[^key-9dae23a309cc4a0b6d1a4421a1d5b32e] In subsection (2A)—
+(3)[^c-9dae23a309cc4a0b6d1a4421a1d5b32e] In subsection (2A)—
 
 - (a) for “a qualifying licensed water supplier” there is substituted “ a qualifying water supply licensee ”;
 - (b) for “subsection (6)(b)” there is substituted “ subsection (7) ”.
@@ -611,7 +611,7 @@ Section 56
 
 (6) In subsection (2C), for “and (2A)(b)” there is substituted “ , (2A)(b) and (2AA)(b) ”.
 
-(7)[^key-c540c910f6cf38c01a0c94d87d93a87c] In subsection (4), for paragraph (b) there is substituted—
+(7)[^c-c540c910f6cf38c01a0c94d87d93a87c] In subsection (4), for paragraph (b) there is substituted—
 
 > - (b) a company carries on activities relating to—
 >   - (i) the introduction or introductions of water mentioned in subsection (7) formerly carried on by another company; or
@@ -619,7 +619,7 @@ Section 56
 
 .
 
-(8)[^key-a2af71f44222899b470613f69732198f] In subsection (6)—
+(8)[^c-a2af71f44222899b470613f69732198f] In subsection (6)—
 
 - (a) for “licensed water supplier” there is substituted “ water supply licensee ”;
 - (b) for “qualifying licensed water supplier” there is substituted “ qualifying water supply licensee ”;
@@ -628,7 +628,7 @@ Section 56
   > - (a) it is the holder of a water supply licence giving it a wholesale or supplementary authorisation (within the meaning of Chapter 1A of this Part), and
   > - (b) the condition in subsection (7) is satisfied in relation to it.
 
-(9)[^key-a2af71f44222899b470613f69732198f] After subsection (6) there is inserted—
+(9)[^c-a2af71f44222899b470613f69732198f] After subsection (6) there is inserted—
 
 > (7) The condition in this subsection is that—
 >
@@ -647,7 +647,7 @@ Section 56
 > - (a) the removal of matter by the licence holder which is permitted under section 117C or 117D is designated as strategic sewerage provision under section 117N, or
 > - (b) the removals of matter by the licence holder which are permitted under section 117C or 117D are designated as collective strategic sewerage provision under section 117O.
 
-**36.**[^key-c02d99eaf6a2f8f3ccbfd6f027efdd27] (1) Section 24 (special administration orders made on special petitions) is amended as follows.
+**36.**[^c-c02d99eaf6a2f8f3ccbfd6f027efdd27] (1) Section 24 (special administration orders made on special petitions) is amended as follows.
 
 (2) In subsection (1A)—
 
@@ -673,11 +673,11 @@ Section 56
 
 (5) In subsection (7)(b), for “qualifying licensed water supplier” there is substituted “ qualifying water supply licensee or a qualifying sewerage licensee ”.
 
-**37.**[^key-e027438a40f7257f7193b917c1b520d4] In section 25 (power to make special administration order on winding-up petition) for “qualifying licensed water supplier”, in both places, there is substituted “ qualifying water supply licensee or a qualifying sewerage licensee ”.
+**37.**[^c-e027438a40f7257f7193b917c1b520d4] In section 25 (power to make special administration order on winding-up petition) for “qualifying licensed water supplier”, in both places, there is substituted “ qualifying water supply licensee or a qualifying sewerage licensee ”.
 
-**38.**[^key-e6406331b11c1cdd502f9f3d7790ef5c] In section 26 (restrictions on voluntary winding up and insolvency proceedings), in subsection (1), for “qualifying licensed water supplier” there is substituted “ qualifying water supply licensee or a qualifying sewerage licensee ”.
+**38.**[^c-e6406331b11c1cdd502f9f3d7790ef5c] In section 26 (restrictions on voluntary winding up and insolvency proceedings), in subsection (1), for “qualifying licensed water supplier” there is substituted “ qualifying water supply licensee or a qualifying sewerage licensee ”.
 
-**39.**[^key-94645e94e8d03eda0d71ebd0cf6f4f4c] (1) Section 27 (general duty of Authority to keep matters under review) is amended as follows.
+**39.**[^c-94645e94e8d03eda0d71ebd0cf6f4f4c] (1) Section 27 (general duty of Authority to keep matters under review) is amended as follows.
 
 (2) In subsection (1)(b), for “licensed water suppliers” there is substituted “ water supply licensees or sewerage licensees ”.
 
@@ -691,12 +691,12 @@ Section 56
 - (a) in paragraph (c), for the words from “retail” to “Part)” there is substituted “ the authorisations or combinations of authorisations given by licences under Chapter 1A of this Part (see sections 17A and 17BA) ”;
 - (b) in paragraph (d), for “company” there is substituted “ person ”.
 
-**40.**[^key-531ddccd1ea5566e1f9351fb676e0528] In section 27A (establishment of the Council and committees), in subsection (13), in the definition of “the interests of consumers”—
+**40.**[^c-531ddccd1ea5566e1f9351fb676e0528] In section 27A (establishment of the Council and committees), in subsection (13), in the definition of “the interests of consumers”—
 
 - (a) in paragraph (a), for “licensed water suppliers” there is substituted “ water supply licensees ”;
 - (b) in paragraph (b), for “by sewerage undertakers” there is substituted “ either by sewerage undertakers or by sewerage licensees acting in their capacity as such ”.
 
-**41.**[^key-3a70e84a012a75c49ce9c146b686d63b] (1) Section 27C (the interests of consumers) is amended as follows.
+**41.**[^c-3a70e84a012a75c49ce9c146b686d63b] (1) Section 27C (the interests of consumers) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -712,9 +712,9 @@ Section 56
 
 (3) In subsection (2), for the words from “not eligible” to “the total quantity” there is substituted “ below the consumption threshold if the total quantity ”.
 
-**42.**[^key-c01b5427996a87ecccb18069356a8bdc] In section 27E (provision of advice and information to public authorities), in subsection (1), for “licensed water suppliers” there is substituted “ water supply licensees, sewerage licensees ”.
+**42.**[^c-c01b5427996a87ecccb18069356a8bdc] In section 27E (provision of advice and information to public authorities), in subsection (1), for “licensed water suppliers” there is substituted “ water supply licensees, sewerage licensees ”.
 
-**43.**[^key-291a5798c7be9e65f371b60c21605920] (1) Section 27H (provision of information to the Council) is amended as follows.
+**43.**[^c-291a5798c7be9e65f371b60c21605920] (1) Section 27H (provision of information to the Council) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -733,13 +733,13 @@ Section 56
 - (a) for “it” there is substituted “ the body or person ”;
 - (b) for “its” there is substituted “ the ”.
 
-**44.**[^key-264ca570fcc0839daaf38ea3ea17f94d] (1) Section 27K (sections 27H to 27J: supplementary) is amended as follows.
+**44.**[^c-264ca570fcc0839daaf38ea3ea17f94d] (1) Section 27K (sections 27H to 27J: supplementary) is amended as follows.
 
 (2) In subsection (2), for “or a licensed water supplier” there is substituted “ , a water supply licensee or a sewerage licensee ”.
 
 (3) In subsection (5), for “and a licensed water supplier” there is substituted “ , a water supply licensee and a sewerage licensee ”.
 
-**45.**[^key-15cb11c5de4e76b9d0a61d1abd6d60b6] (1) Section 29 (consumer complaints) is amended as follows.
+**45.**[^c-15cb11c5de4e76b9d0a61d1abd6d60b6] (1) Section 29 (consumer complaints) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -757,26 +757,26 @@ Section 56
 
 (4) In subsections (8)(a) and (b) and (9), for “or the licensed water supplier” there is substituted “ , the water supply licensee or the sewerage licensee ”.
 
-**46.**[^key-8a0ce48e6658c8f6f5c3d6244fae9c8b] In the heading to Chapter 1 of Part 3 (general duties of water undertakers) at the end there is inserted “etc”.
+**46.**[^c-8a0ce48e6658c8f6f5c3d6244fae9c8b] In the heading to Chapter 1 of Part 3 (general duties of water undertakers) at the end there is inserted “etc”.
 
-**47.**[^key-5830e654675cda2e8e3997f98dd7dffb] In section 37A (water resources management plans: preparation and review)—
+**47.**[^c-5830e654675cda2e8e3997f98dd7dffb] In section 37A (water resources management plans: preparation and review)—
 
 - (a) in subsection (3)(b), for “licensed water suppliers” there is substituted “ water supply licensees ”;
 - (b) in subsection (8)(d) for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**48.**[^key-83fa284928893f88164b4425bcb089bb] In section 37C (water resources management plans: provision of information)—
+**48.**[^c-83fa284928893f88164b4425bcb089bb] In section 37C (water resources management plans: provision of information)—
 
 - (a) for “licensed water supplier”, in each place, there is substituted “ water supply licensee ”;
 - (b) in the closing words to subsection (3), for “licensed water supplier's” there is substituted “water supply licensee's”.
 
-**49.**[^key-5d57f56b33713047b63638f0ed6ad6f3] In section 37D (water resources management plans: supplementary), in subsection (3)(b), for “licensed water supplier” there is substituted “ water supply licensee ”.
+**49.**[^c-5d57f56b33713047b63638f0ed6ad6f3] In section 37D (water resources management plans: supplementary), in subsection (3)(b), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**50.**[^key-5bca822ff5ecc3c34e565ddbbfb615df] In section 38B (publication of statistical information about complaints)—
+**50.**[^c-5bca822ff5ecc3c34e565ddbbfb615df] In section 38B (publication of statistical information about complaints)—
 
 - (a) in subsection (1), for “licensed water suppliers” there is substituted “ water supply licensees ”;
 - (b) in subsection (2), for “licensed water suppliers” there is substituted “ water supply licensees ”.
 
-**51.**[^key-95d7f554988b96c771585a8d130ce9ab] (1) Section 39A (information to be given to customers about performance) is amended as follows.
+**51.**[^c-95d7f554988b96c771585a8d130ce9ab] (1) Section 39A (information to be given to customers about performance) is amended as follows.
 
 (2) In subsections (1) and (2A), for “licensed water suppliers”, in both places, there is substituted “ water supply licensees ”.
 
@@ -795,31 +795,31 @@ Section 56
 
 (6) In subsection (3), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**52.**[^key-38cfba997414662c68c9febb90b35b43] In section 39B (drought plans: preparation and review)—
+**52.**[^c-38cfba997414662c68c9febb90b35b43] In section 39B (drought plans: preparation and review)—
 
 - (a) in subsection (4)(b), for “licensed water suppliers” there is substituted “ water supply licensees ”;
 - (b) in subsection (7)(d), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**53.**[^key-1e30ed8947067b7dbad386ad4adb7b55] In section 39C (drought plans: provision of information)—
+**53.**[^c-1e30ed8947067b7dbad386ad4adb7b55] In section 39C (drought plans: provision of information)—
 
 - (a) for “licensed water supplier”, in each place, there is substituted “ water supply licensee ”;
 - (b) in the closing words to subsection (3), for “licensed water supplier's” there is substituted “water supply licensee's”.
 
-**54.**[^key-1f0e599fda3bcd38faab9fac43c14726] In section 42 (financial conditions for compliance with the duty in section 41), subsection (7) (terms defined in sections 43 and 43A) is repealed.
+**54.**[^c-1f0e599fda3bcd38faab9fac43c14726] In section 42 (financial conditions for compliance with the duty in section 41), subsection (7) (terms defined in sections 43 and 43A) is repealed.
 
-**55.**[^key-7afdd31ce6c7c0f8d13cd2fbb9b23864] Sections 43 and 43A (calculations for the purpose of section 42) are repealed.
+**55.**[^c-7afdd31ce6c7c0f8d13cd2fbb9b23864] Sections 43 and 43A (calculations for the purpose of section 42) are repealed.
 
-**56.**[^key-649d3d08c76e029914cd4b9e19664d73] In section 47 (conditions of connection with water main), in subsection (1), for “sections 48 to” there is substituted “ sections 49 and ”.
+**56.**[^c-649d3d08c76e029914cd4b9e19664d73] In section 47 (conditions of connection with water main), in subsection (1), for “sections 48 to” there is substituted “ sections 49 and ”.
 
-**57.**[^key-ac9966a20a0afdfeb3a161df4d771670] Section 48 (interest on sums provided by way of security) is repealed.
+**57.**[^c-ac9966a20a0afdfeb3a161df4d771670] Section 48 (interest on sums provided by way of security) is repealed.
 
-**58.**[^key-f800f085e40699dcccc643ca10e7b002] (1) Section 52 (domestic supply duty) is amended as follows.
+**58.**[^c-f800f085e40699dcccc643ca10e7b002] (1) Section 52 (domestic supply duty) is amended as follows.
 
 (2) In subsection (4A) (exclusion of certain premises), in paragraph (c), at the beginning, there is inserted “in the case of premises to be supplied using the supply system of a water undertaker whose area is wholly or mainly in Wales,”.
 
-**59.**[^key-1975aedff08ff51fec4db3962aa5df00] In section 55 (supplies for non-domestic purposes), in subsection (1A)(b), after “17C above) or” there is inserted “ , in the case of premises to be supplied using the supply system of a water undertaker whose area is wholly or mainly in Wales, ”.
+**59.**[^c-1975aedff08ff51fec4db3962aa5df00] In section 55 (supplies for non-domestic purposes), in subsection (1A)(b), after “17C above) or” there is inserted “ , in the case of premises to be supplied using the supply system of a water undertaker whose area is wholly or mainly in Wales, ”.
 
-**60.**[^key-08597f363af3411b847ccfb0e99b5356] (1) Section 61 (disconnections for non-payment of charges) is amended as follows.
+**60.**[^c-08597f363af3411b847ccfb0e99b5356] (1) Section 61 (disconnections for non-payment of charges) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -888,19 +888,19 @@ Section 56
 > - (a) in a case where the undertaker is exercising the power in subsection (1) because charges are due to it, the secondary premises are supplied by a person other than the undertaker;
 > - (b) in a case where the undertaker is exercising the power in subsection (1) because of a request for disconnection under subsection (1ZB), the secondary premises are supplied by a person other than the licensee which made that request.
 
-**61.**[^key-68df12346bb3d53a27773a1c5fbcf84a] In section 63 (general duties of undertakers with respect to disconnections), after subsection (3) there is inserted—
+**61.**[^c-68df12346bb3d53a27773a1c5fbcf84a] In section 63 (general duties of undertakers with respect to disconnections), after subsection (3) there is inserted—
 
 > (3A) A water undertaker is not guilty of an offence under subsection (3) where it disconnects a service pipe or otherwise cuts off a supply of water under section 61 in the circumstances mentioned in section 61(1ZB) (request from water supply licensee).
 
-**62.**[^key-954297baec3baceeb033b22d5544325f] In the italic heading preceding section 63AA, for “licensed water supplier” there is substituted “ water supply licensee ”.
+**62.**[^c-954297baec3baceeb033b22d5544325f] In the italic heading preceding section 63AA, for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**63.**[^key-2c361159c553e619b8704525f77d0c82] (1) Section 63AA (supply by licensed water supplier: domestic supply duty) is amended as follows.
+**63.**[^c-2c361159c553e619b8704525f77d0c82] (1) Section 63AA (supply by licensed water supplier: domestic supply duty) is amended as follows.
 
 (2) In the title, for “licensed water supplier” there is substituted “ water supply licensee ”.
 
 (3) In subsection (1)(a), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**64.**[^key-747af5ab1778d580e79d647ed69e8640] (1) Section 63AB (supply by licensed water supplier: non-domestic supply) is amended as follows.
+**64.**[^c-747af5ab1778d580e79d647ed69e8640] (1) Section 63AB (supply by licensed water supplier: non-domestic supply) is amended as follows.
 
 (2) In the title, for “licensed water supplier” there is substituted “ water supply licensee ”.
 
@@ -908,13 +908,13 @@ Section 56
 
 (4) In subsection (1)(a), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**65.**[^key-6d7f78e587689ed87506cffae524676d] (1) Section 63AC (interim duty of water undertaker: domestic and non-domestic supply) is amended as follows.
+**65.**[^c-6d7f78e587689ed87506cffae524676d] (1) Section 63AC (interim duty of water undertaker: domestic and non-domestic supply) is amended as follows.
 
 (2) In subsections (1)(a) and (2), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**66.**[^key-8c0ff53b46e4e337cb6c2117d6c9d0cd] In the italic heading preceding section 68, for “licensed water suppliers” there is substituted “ water supply licensees ”.
+**66.**[^c-8c0ff53b46e4e337cb6c2117d6c9d0cd] In the italic heading preceding section 68, for “licensed water suppliers” there is substituted “ water supply licensees ”.
 
-**67.**[^key-59c1b65ce8db41cd7c30ef728905d962] (1) Section 68 (duties with respect to water quality) is amended as follows.
+**67.**[^c-59c1b65ce8db41cd7c30ef728905d962] (1) Section 68 (duties with respect to water quality) is amended as follows.
 
 (2) In the title, for “licensed water suppliers” there is substituted “ water supply licensees ”.
 
@@ -946,7 +946,7 @@ Section 56
 >
 > prescribed by regulations made by the Welsh Ministers by statutory instrument, which is subject to annulment in pursuance of a resolution of the Assembly.
 
-**68.**[^key-d690537ab8bc1610c7de060a7e15420b] (1) Section 69 (regulations for preserving water quality) is amended as follows.
+**68.**[^c-d690537ab8bc1610c7de060a7e15420b] (1) Section 69 (regulations for preserving water quality) is amended as follows.
 
 (2) In subsections (1), (2), (5)(aa), (6)(b) and (c) and (7)(a)(ii) and (b), for “licensed water supplier”, in each place, there is substituted “ water supply licensee ”.
 
@@ -956,20 +956,20 @@ Section 56
 
 (5) In subsections (5)(b) and (6)(b), for “or supplier”, in both places, there is substituted “ or licensee ”.
 
-**69.**[^key-aa61ab8ced8d73fbdd710476f5bb71bc] In section 72 (contamination of water sources), in subsection (5)(c) for “licensed water supplier” there is substituted “ water supply licensee ”.
+**69.**[^c-aa61ab8ced8d73fbdd710476f5bb71bc] In section 72 (contamination of water sources), in subsection (5)(c) for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**70.**[^key-b0d88289c7c1ab669d7ab2e6def99b37] In section 73 (offences of contaminating, wasting and misusing water etc), in subsection (1)—
+**70.**[^c-b0d88289c7c1ab669d7ab2e6def99b37] In section 73 (offences of contaminating, wasting and misusing water etc), in subsection (1)—
 
 - (a) for “licensed water supplier” there is substituted “ water supply licensee ”;
 - (b) in paragraph (b), for “supplier” there is substituted “ licensee ”.
 
-**71.**[^key-f2ca23847e1600c67c9f4ee4b31c68da] (1) Section 74 (regulations for preventing contamination, waste etc and with respect to water fittings) is amended as follows.
+**71.**[^c-f2ca23847e1600c67c9f4ee4b31c68da] (1) Section 74 (regulations for preventing contamination, waste etc and with respect to water fittings) is amended as follows.
 
 (2) In subsection (1)(b) and (d), for “licensed water supplier”, in each place, there is substituted “ water supply licensee ”.
 
 (3) In subsection (1)(c), for “a licensed water supplier” there is substituted “ that or another water supply licensee ”.
 
-**72.**[^key-74f572f6c9ebcdcf6dc830f4fd97786f] (1) Section 75 (power to prevent damage and to take steps to prevent contamination, waste etc) is amended as follows.
+**72.**[^c-74f572f6c9ebcdcf6dc830f4fd97786f] (1) Section 75 (power to prevent damage and to take steps to prevent contamination, waste etc) is amended as follows.
 
 (2) In subsection (1A), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
@@ -977,20 +977,20 @@ Section 56
 
 (4) In subsection (12), for “section 17B(5)” there is substituted “ section 17B ”.
 
-**73.**[^key-c7034b76416009bdff9f68fc85eb47dc] In section 76 (temporary bans on use)—
+**73.**[^c-c7034b76416009bdff9f68fc85eb47dc] In section 76 (temporary bans on use)—
 
 - (a) in subsection (1), for “by it” there is substituted “ by means of its supply system ”;
 - (b) after subsection (7) there is inserted—
 
   > (8) The reference in subsection (1) to the supply system of a water undertaker is to be construed in accordance with section 17B.
 
-**74.** (1)[^key-f116125b257ce93ec5a0c6f3d6d6f5ab][^key-ff39a9eef5fc39b3c6c8bf49a36d4c5d] Section 78 (local authority functions in relation to undertakers' supplies) is amended as follows.
+**74.** (1)[^c-f116125b257ce93ec5a0c6f3d6d6f5ab][^c-ff39a9eef5fc39b3c6c8bf49a36d4c5d] Section 78 (local authority functions in relation to undertakers' supplies) is amended as follows.
 
-(2)[^key-93f543bcbb6fabdab2f23d57f2d10aac] In subsection (1)(a), for “licensed water supplier” there is substituted “ water supply licensee ”.
+(2)[^c-93f543bcbb6fabdab2f23d57f2d10aac] In subsection (1)(a), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-(3)[^key-8738a05037b6cf4b5ee3fa20cd50ddf4] In subsection (3), for “section 17B(5)” there is substituted “ section 17B ”.
+(3)[^c-8738a05037b6cf4b5ee3fa20cd50ddf4] In subsection (3), for “section 17B(5)” there is substituted “ section 17B ”.
 
-**75.**[^key-6cd7ed0dec84d111b4af2bf342381655] (1) Section 86 (assessors for the enforcement of water quality) is amended as follows.
+**75.**[^c-6cd7ed0dec84d111b4af2bf342381655] (1) Section 86 (assessors for the enforcement of water quality) is amended as follows.
 
 (2) In subsections (2)(a)(i), (3), (4)(c)(i) and (6), for “licensed water supplier”, in each place, there is substituted “ water supply licensee ”.
 
@@ -998,23 +998,23 @@ Section 56
 
 (4) In subsection (6), for “it” there is substituted “ that person ”.
 
-**76.**[^key-d033c8fb222542583ec5bc57b8d8dfc6] In section 87 (fluoridation of water supplies at request of relevant authorities), in subsections (2)(b) and (3)(b), for “licensed water supplier” there is substituted “ water supply licensee ”.
+**76.**[^c-d033c8fb222542583ec5bc57b8d8dfc6] In section 87 (fluoridation of water supplies at request of relevant authorities), in subsections (2)(b) and (3)(b), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**77.**[^key-3cf73587cd53476d4cb24a113634b33c] In section 87C (fluoridation arrangements: compliance), in subsection (4)(b), for “licensed water supplier” there is substituted “ water supply licensee ”.
+**77.**[^c-3cf73587cd53476d4cb24a113634b33c] In section 87C (fluoridation arrangements: compliance), in subsection (4)(b), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**78.**[^key-8ac83f9216f962bc8f8892dc3dbdbe46] In section 90 (indemnities in respect of fluoridation), in subsection (2)—
+**78.**[^c-8ac83f9216f962bc8f8892dc3dbdbe46] In section 90 (indemnities in respect of fluoridation), in subsection (2)—
 
 - (a) for “licensed water supplier” there is substituted “ water supply licensee ”;
 - (b) for “it”, in both places, there is substituted “ the licensee ”.
 
-**79.**[^key-efbdd0b8eda877ee3dea808a0cb6ebe8] In section 93 (interpretation of Part 3), in subsection (1), in the definition of “private supply”, for “licensed water supplier” there is substituted “ water supply licensee ”.
+**79.**[^c-efbdd0b8eda877ee3dea808a0cb6ebe8] In section 93 (interpretation of Part 3), in subsection (1), in the definition of “private supply”, for “licensed water supplier” there is substituted “ water supply licensee ”.
 
-**80.**[^key-44357ba757c8cece4e60fb3bd0054043] (1) In section 93A (duty to promote the efficient use of water)—
+**80.**[^c-44357ba757c8cece4e60fb3bd0054043] (1) In section 93A (duty to promote the efficient use of water)—
 
 - (a) in subsections (1), (2) and (3), for “licensed water supplier”, in each place, there is substituted “ water supply licensee ”;
 - (b) in subsections (1) and (3), for “its customers” there is substituted “ that person's customers ”.
 
-**81.**[^key-e7e003b07ca33ac44debbff8dad51775] (1) Section 93B (power of Authority to impose requirements on water undertakers) is amended as follows.
+**81.**[^c-e7e003b07ca33ac44debbff8dad51775] (1) Section 93B (power of Authority to impose requirements on water undertakers) is amended as follows.
 
 (2) In subsections (1), (2), (3), (4), (5) and (6), for “licensed water supplier”, in each place, there is substituted “ water supply licensee ”.
 
@@ -1026,7 +1026,7 @@ Section 56
 
 (6) In subsections (3) and (6), for “its customers”, in each place, there is substituted “ that person's customers ”.
 
-**82.**[^key-e556e6458f2a5c5c1ae5e380c767da51] (1) Section 93C (publicity of requirements imposed under section 93B) is amended as follows.
+**82.**[^c-e556e6458f2a5c5c1ae5e380c767da51] (1) Section 93C (publicity of requirements imposed under section 93B) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1035,7 +1035,7 @@ Section 56
 
 (3) In subsection (2)(b), for “or supplier” there is substituted “ or licensee ”.
 
-**83.**[^key-165b190f41e64d4de5e6d77fe1a4ff08] (1) Section 93D (information as to compliance with requirements under section 93B) is amended as follows.
+**83.**[^c-165b190f41e64d4de5e6d77fe1a4ff08] (1) Section 93D (information as to compliance with requirements under section 93B) is amended as follows.
 
 (2) In subsections (1), (3) and (4), for “licensed water supplier”, in each place, there is substituted “ water supply licensee ”.
 
@@ -1043,14 +1043,14 @@ Section 56
 
 (4) In subsection (3), for “or supplier's” there is substituted “or licensee's”.
 
-**84.**[^key-323ef624ba6b066c395720f213f39746] In the heading to Chapter 1 of Part 4 (general functions of sewerage undertakers), at the end there is inserted “etc”.
+**84.**[^c-323ef624ba6b066c395720f213f39746] In the heading to Chapter 1 of Part 4 (general functions of sewerage undertakers), at the end there is inserted “etc”.
 
-**85.**[^key-4c167b539a45ba50ee83f144a5d6d099] In section 95B (publication of statistical information about complaints)—
+**85.**[^c-4c167b539a45ba50ee83f144a5d6d099] In section 95B (publication of statistical information about complaints)—
 
 - (a) in subsection (1), after “undertakers” there is inserted “ or sewerage licensees ”;
 - (b) in subsection (2), after “undertakers” there is inserted “ or sewerage licensees ”.
 
-**86.**[^key-2a7c88f2930f841368c2552725d93194] (1) Section 96A (information to be given to customers about overall performance) is amended as follows.
+**86.**[^c-2a7c88f2930f841368c2552725d93194] (1) Section 96A (information to be given to customers about overall performance) is amended as follows.
 
 (2) In subsection (1), after “customers” there is inserted “ , and, if the direction so specifies, sewerage licensees using the undertaker's sewerage system for the purpose of providing sewerage services to the premises of customers, ”.
 
@@ -1073,16 +1073,16 @@ Section 56
 
 (6) In subsection (3), after “undertaker” there is inserted “ or sewerage licensee ”.
 
-**87.**[^key-c1d706ea268b6d2bbfca52b6167a35bb] In section 99 (financial conditions for compliance with the duty in section 98), subsection (7) (terms defined in sections 100 and 100A) is repealed.
+**87.**[^c-c1d706ea268b6d2bbfca52b6167a35bb] In section 99 (financial conditions for compliance with the duty in section 98), subsection (7) (terms defined in sections 100 and 100A) is repealed.
 
-**88.**[^key-01688a859090b80f25d5bc6669c0b4ee] Sections 100 and 100A (calculations for the purposes of section 99) are repealed.
+**88.**[^c-01688a859090b80f25d5bc6669c0b4ee] Sections 100 and 100A (calculations for the purposes of section 99) are repealed.
 
 **89.** In section 101B (power to provide lateral drain following provision of public sewer) (as amended by section 19)—
 
-- (a)[^key-b45ba37a36559d86dbeaec2466c355fe] in subsection (3), for “water” there is substituted “ sewerage ”;
-- (b)[^key-d1f30d72671e66acf018b9c314c7a6aa] in subsection (4), the “or” following paragraph (a) is repealed.
+- (a)[^c-b45ba37a36559d86dbeaec2466c355fe] in subsection (3), for “water” there is substituted “ sewerage ”;
+- (b)[^c-d1f30d72671e66acf018b9c314c7a6aa] in subsection (4), the “or” following paragraph (a) is repealed.
 
-**90.**[^key-eb75ca04bd96947fe23a31ba35c909ff] In section 102 (adoption of sewers and disposal works), in subsection (4) (sewerage undertaker to give notice of proposal), after “under this section—” there is inserted—
+**90.**[^c-eb75ca04bd96947fe23a31ba35c909ff] In section 102 (adoption of sewers and disposal works), in subsection (4) (sewerage undertaker to give notice of proposal), after “under this section—” there is inserted—
 
 > - (za) shall give notice of its proposal to any sewerage licensee which uses, or removes matter from, the undertaker's sewerage system in accordance with a retail, wholesale or disposal authorisation;
 
@@ -1092,14 +1092,14 @@ Section 56
 
 **91.** In section 104 (agreements to adopt sewers, etc), subsection (9) (inserted by section 42(3) of the Flood and Water Management Act 2010) is repealed.
 
-**92.**[^key-1afad0d74ff6b45436630faa163900ab] In section 105 (appeals with respect to adoption)—
+**92.**[^c-1afad0d74ff6b45436630faa163900ab] In section 105 (appeals with respect to adoption)—
 
 - (a) subsection (2) is repealed;
 - (b) in subsection (4), paragraph (b) and the “or” preceding it are repealed;
 - (c) subsection (6) is repealed;
 - (d) in subsection (7), the words from “and for” to the end are repealed.
 
-**93.**[^key-6b8569ec82c1cbfb95a214b40463bd46] In section 105C (adoption schemes: supplementary), in subsection (2), after paragraph (a) insert—
+**93.**[^c-6b8569ec82c1cbfb95a214b40463bd46] In section 105C (adoption schemes: supplementary), in subsection (2), after paragraph (a) insert—
 
 > - (aa) any sewerage licensee which uses, or removes matter from, the sewerage system of any such sewerage undertaker in accordance with a retail, wholesale or disposal authorisation;
 
@@ -1114,43 +1114,43 @@ Section 56
 > - (a) an order under section 105ZA which is deemed to be an agreement by virtue of section 105ZA(5), and
 > - (b) an agreement which has been varied by order under section 105ZB(1).
 
-**95.**[^key-994432d6942073b46840f7d0ecd44a1a] In section 107 (right of sewerage undertaker to undertake the making of communications with public sewers), after subsection (6) there is inserted—
+**95.**[^c-994432d6942073b46840f7d0ecd44a1a] In section 107 (right of sewerage undertaker to undertake the making of communications with public sewers), after subsection (6) there is inserted—
 
 > (7) A reference in this section to an agreement under section 104 includes a reference to—
 >
 > - (a) an order under section 105ZA which is deemed to be an agreement by virtue of section 105ZA(5), and
 > - (b) an agreement which has been varied by order under section 105ZB(1).
 
-**96.**[^key-fdd69e17003db461404fa4ca4ffe50d3] In section 113 (power to alter drainage system of premises in an area), in subsection (3), for the words from “notice of its proposals to” to the end of the subsection there is substituted
+**96.**[^c-fdd69e17003db461404fa4ca4ffe50d3] In section 113 (power to alter drainage system of premises in an area), in subsection (3), for the words from “notice of its proposals to” to the end of the subsection there is substituted
 
 > notice of its proposals to—
 >
 > - (a) the owner of the premises in question, and
 > - (b) any sewerage licensee providing sewerage services to those premises.
 
-**97.**[^key-3ee1a9db4ee8ec81049e726b5cb26b28] In section 117 (interpretation of Chapter 2), in subsection (5)(a), after “the Water Resources Act 1991” there is inserted “ or the Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675) ”.
+**97.**[^c-3ee1a9db4ee8ec81049e726b5cb26b28] In section 117 (interpretation of Chapter 2), in subsection (5)(a), after “the Water Resources Act 1991” there is inserted “ or the Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675) ”.
 
-**98.** (1)[^key-9824c243b7ec42fc92df3986f92cfe36][^key-120dba7c191811aca0a533bcf0ea3b7c] Section 146 (connection charges etc) is amended as follows.
+**98.** (1)[^c-9824c243b7ec42fc92df3986f92cfe36][^c-120dba7c191811aca0a533bcf0ea3b7c] Section 146 (connection charges etc) is amended as follows.
 
-(2)[^key-90f66aa8f86d0383e24f86237da96a63] After subsection (3) there is inserted—
+(2)[^c-90f66aa8f86d0383e24f86237da96a63] After subsection (3) there is inserted—
 
 > (3A) The reference in subsection (3) to an agreement under section 104 includes a reference to—
 >
 > - (a) an order under section 105ZA which is deemed to be an agreement by virtue of section 105ZA(5), and
 > - (b) an agreement which has been varied by order under section 105ZB(1).
 
-(3)[^key-3e442d442e9ed568607d7d457811d603] In subsection (4)—
+(3)[^c-3e442d442e9ed568607d7d457811d603] In subsection (4)—
 
 - (a) after “sewerage undertaker” there is inserted “ or a sewerage licensee ”;
 - (b) after “to the undertaker” there is inserted “ or the licensee (as the case may be) ”.
 
-(4)[^key-3e442d442e9ed568607d7d457811d603] In subsection (5), after “certain charges” there is inserted “ by relevant undertakers ”.
+(4)[^c-3e442d442e9ed568607d7d457811d603] In subsection (5), after “certain charges” there is inserted “ by relevant undertakers ”.
 
-**99.**[^key-23f9b109c0835f058685027454ffb732] In section 147 (charging for use of emergency water), in subsection (1), after “undertaker” there is inserted “ or water supply licensee ”.
+**99.**[^c-23f9b109c0835f058685027454ffb732] In section 147 (charging for use of emergency water), in subsection (1), after “undertaker” there is inserted “ or water supply licensee ”.
 
-**100.**[^key-451a027dadd0b0b27f0e67e80c35d068] In section 148 (restriction on charging for metering works), in subsection (2)(cc), after “section 66D” there is inserted “ or 117E ”.
+**100.**[^c-451a027dadd0b0b27f0e67e80c35d068] In section 148 (restriction on charging for metering works), in subsection (2)(cc), after “section 66D” there is inserted “ or 117E ”.
 
-**101.**[^key-0df0dc0315ef4db71198790d2c3d6b24] In section 150 (fixing maximum charges for services provided with the help of undertakers' services), for subsection (1A) there is substituted—
+**101.**[^c-0df0dc0315ef4db71198790d2c3d6b24] In section 150 (fixing maximum charges for services provided with the help of undertakers' services), for subsection (1A) there is substituted—
 
 > (1A) This section does not apply to—
 >
@@ -1159,9 +1159,9 @@ Section 56
 >
 > to premises of customers in accordance with Chapter 1A of Part 2.
 
-**102.**[^key-3fd8c6fc10cd4403a98502d3319c16c9] In section 152 (grants for national security purposes), in subsection (1), for “and licensed water suppliers” there is substituted “ , water supply licensees and sewerage licensees ”.
+**102.**[^c-3fd8c6fc10cd4403a98502d3319c16c9] In section 152 (grants for national security purposes), in subsection (1), for “and licensed water suppliers” there is substituted “ , water supply licensees and sewerage licensees ”.
 
-**103.**[^key-00241408c48b00576e2b588aab640d14] (1) Section 154A (financial assistance to reduce charges of relevant undertakers and water supply licensees) is amended as follows.
+**103.**[^c-00241408c48b00576e2b588aab640d14] (1) Section 154A (financial assistance to reduce charges of relevant undertakers and water supply licensees) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1205,20 +1205,20 @@ Section 56
 
 **104.** In section 158 (powers to lay pipes in streets), in subsection (7)(a), for the words from “section 66B(3)(a)(ii) above” to “section 66B(3)(a)(iii) above” there is substituted “ section 66B(4)(a)(i) or (b)(i) which is used for the purpose of supplying water other than for domestic or food production purposes or laid in pursuance of section 66B(4)(b)(ii) ”.
 
-**105.** (1)[^key-2ee1f3925524a1fac11e3d1b70f308ea][^key-d0af08ba96e779a449d3a992ebec01c1] Section 162 (works in connection with metering) is amended as follows.
+**105.** (1)[^c-2ee1f3925524a1fac11e3d1b70f308ea][^c-d0af08ba96e779a449d3a992ebec01c1] Section 162 (works in connection with metering) is amended as follows.
 
 (2) In subsection (1A)—
 
-- (a)[^key-02d8db33a2029e61c6fb66d419152bf8] in paragraph (d), for “licensed water supplier” there is substituted “ water supply licensee ”;
-- (b)[^key-dbe90daff94c0df9a7edadfa84682473] after paragraph (d) there is inserted
+- (a)[^c-02d8db33a2029e61c6fb66d419152bf8] in paragraph (d), for “licensed water supplier” there is substituted “ water supply licensee ”;
+- (b)[^c-dbe90daff94c0df9a7edadfa84682473] after paragraph (d) there is inserted
 
   > , or
   >
   > - (e) a sewerage licensee provides sewerage services in respect of those premises using the undertaker's sewerage system.
 
-(3)[^key-dbe90daff94c0df9a7edadfa84682473] In subsection (1B), for “section 17B(5)” there is substituted “ section 17B ”.
+(3)[^c-dbe90daff94c0df9a7edadfa84682473] In subsection (1B), for “section 17B(5)” there is substituted “ section 17B ”.
 
-(4)[^key-dbe90daff94c0df9a7edadfa84682473] After subsection (1B) there is inserted—
+(4)[^c-dbe90daff94c0df9a7edadfa84682473] After subsection (1B) there is inserted—
 
 > (1C) In subsection (1A)(e) above, the reference to the sewerage system of a sewerage undertaker shall be construed in accordance with section 17BA.
 
@@ -1236,9 +1236,9 @@ Section 56
 
 .
 
-**108.** (1)[^key-ae9e44da60f38725f23a39d93fe4e7c3][^key-02f592156c48920d9e71a7621064b279] Section 174 (offences of interference with works etc) is amended as follows.
+**108.** (1)[^c-ae9e44da60f38725f23a39d93fe4e7c3][^c-02f592156c48920d9e71a7621064b279] Section 174 (offences of interference with works etc) is amended as follows.
 
-(2)[^key-0420b5b14c3a586520e242e0340a409f] In subsection (1A)—
+(2)[^c-0420b5b14c3a586520e242e0340a409f] In subsection (1A)—
 
 - (a) in the opening words, for “the licensed water supplier” there is substituted “ the water supply licensee ”;
 - (b) in paragraph (a)(i)—
@@ -1248,16 +1248,16 @@ Section 56
   - (i) for “the supplier” there is substituted “ the licensee ”;
   - (ii) for “its licence” there is substituted “ the licensee's licence ”.
 
-(3)[^key-0420b5b14c3a586520e242e0340a409f] In subsection (2)(b), for “licensed water supplier” there is substituted “ water supply licensee ”.
+(3)[^c-0420b5b14c3a586520e242e0340a409f] In subsection (2)(b), for “licensed water supplier” there is substituted “ water supply licensee ”.
 
 (4) In subsection (2A)—
 
-- (a)[^key-0420b5b14c3a586520e242e0340a409f] in paragraph (b), in the opening words, for “a licensed water supplier” there is substituted “ a water supply licensee ”;
-- (b)[^key-0420b5b14c3a586520e242e0340a409f] in paragraph (b)(i), for “the supplier” there is substituted “ the licensee ”;
-- (c)[^key-0420b5b14c3a586520e242e0340a409f] in paragraph (b)(ii), for “the supplier”, in both places, there is substituted “ the licensee ”;
-- (d)[^key-69c078174791685431ebd0005530b59b] in the words following paragraph (b), for “section 17B(5)” there is substituted “ section 17B ”.
+- (a)[^c-0420b5b14c3a586520e242e0340a409f] in paragraph (b), in the opening words, for “a licensed water supplier” there is substituted “ a water supply licensee ”;
+- (b)[^c-0420b5b14c3a586520e242e0340a409f] in paragraph (b)(i), for “the supplier” there is substituted “ the licensee ”;
+- (c)[^c-0420b5b14c3a586520e242e0340a409f] in paragraph (b)(ii), for “the supplier”, in both places, there is substituted “ the licensee ”;
+- (d)[^c-69c078174791685431ebd0005530b59b] in the words following paragraph (b), for “section 17B(5)” there is substituted “ section 17B ”.
 
-(5)[^key-0420b5b14c3a586520e242e0340a409f] In subsection (3A)—
+(5)[^c-0420b5b14c3a586520e242e0340a409f] In subsection (3A)—
 
 - (a) in the opening words, for “the licensed water supplier” there is substituted “ the water supply licensee ”;
 - (b) in paragraph (a)(i), for “a licensed water supplier” there is substituted “ a water supply licensee ”;
@@ -1266,19 +1266,19 @@ Section 56
   - (ii) for “its licence” there is substituted “ the licensee's licence ”;
 - (d) in paragraph (b), for “a supplier”, in both places, there is substituted “ a licensee ”.
 
-(6)[^key-0420b5b14c3a586520e242e0340a409f] In subsection (5A)—
+(6)[^c-0420b5b14c3a586520e242e0340a409f] In subsection (5A)—
 
 - (a) in paragraph (a), for “a licensed water supplier” there is substituted “ a water supply licensee ”;
 - (b) in paragraph (b)—
   - (i) for “the supplier” there is substituted “ the licensee ”;
   - (ii) for “its licence” there is substituted “ the licensee's licence ”.
 
-(7)[^key-0420b5b14c3a586520e242e0340a409f] In subsection (8A)(b)—
+(7)[^c-0420b5b14c3a586520e242e0340a409f] In subsection (8A)(b)—
 
 - (a) for “a licensed water supplier” there is substituted “ a water supply licensee ”;
 - (b) for “the supplier” there is substituted “ the licensee ”.
 
-**109.**[^key-1c17861ead159ca858e1ae34ac9170a5] (1) Section 175 (offence of tampering with meter) is amended as follows.
+**109.**[^c-1c17861ead159ca858e1ae34ac9170a5] (1) Section 175 (offence of tampering with meter) is amended as follows.
 
 (2) In subsection (1) (offence of tampering) for “or licensed water supplier” there is substituted “ , water supply licensee or sewerage licensee ”.
 
@@ -1297,9 +1297,9 @@ Section 56
 
   .
 
-**110.**[^key-a3126ce0e9a99699a2c692fb1e94bd4a] In section 179 (vesting of works in undertaker), in subsection (1A) (when persons may agree to vest pipes etc in a person other than the undertaker), the words from “but no agreement” to the end are repealed.
+**110.**[^c-a3126ce0e9a99699a2c692fb1e94bd4a] In section 179 (vesting of works in undertaker), in subsection (1A) (when persons may agree to vest pipes etc in a person other than the undertaker), the words from “but no agreement” to the end are repealed.
 
-**111.**[^key-fda0d645229c4c17832f272f63f67496] (1) Section 195 (the Authority's register) is amended as follows.
+**111.**[^c-fda0d645229c4c17832f272f63f67496] (1) Section 195 (the Authority's register) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -1310,19 +1310,19 @@ Section 56
 
 (4) Subsection (3A) is repealed.
 
-**112.** (1)[^key-5ea110f0d882d6a3957c8a716a569e1f][^key-17e087d50040c998f41c8c21824069cd] Section 195A (reasons for decisions) is amended as follows.
+**112.** (1)[^c-5ea110f0d882d6a3957c8a716a569e1f][^c-17e087d50040c998f41c8c21824069cd] Section 195A (reasons for decisions) is amended as follows.
 
-(2)[^key-e22beaa3ed83f2356e740c025406dffd] In subsection (1)(f), for “66D(1)” there is substituted “ 66CA(1) ”.
+(2)[^c-e22beaa3ed83f2356e740c025406dffd] In subsection (1)(f), for “66D(1)” there is substituted “ 66CA(1) ”.
 
-(3)[^key-4db88d6bf7f970ed38c0e5cdfd50d9d1] In subsection (3), after “appointment or” there is inserted “ the person holding the ”.
+(3)[^c-4db88d6bf7f970ed38c0e5cdfd50d9d1] In subsection (3), after “appointment or” there is inserted “ the person holding the ”.
 
-**113.**[^key-cf04e647fba18906b0b3bf7a61638f8e] (1) Section 201 (publication of certain information and advice) is amended as follows.
+**113.**[^c-cf04e647fba18906b0b3bf7a61638f8e] (1) Section 201 (publication of certain information and advice) is amended as follows.
 
 (2) In subsection (1)(b), for “company” there is substituted “ person ”.
 
 (3) In subsection (2), after “Part II of this Act or” there is inserted “ a person holding ”.
 
-**114.**[^key-f57f67db859ea3e9a6347e7bb534a639] (1) Section 202 (duties of undertakers to furnish the Secretary of State with information) is amended as follows.
+**114.**[^c-f57f67db859ea3e9a6347e7bb534a639] (1) Section 202 (duties of undertakers to furnish the Secretary of State with information) is amended as follows.
 
 (2) In subsection (1A), for “company”, in both places, there is substituted “ person ”.
 
@@ -1339,19 +1339,19 @@ Section 56
 
 **115.** In section 205 (exchange of metering information between undertakers), in subsection (4)—
 
-- (a)[^key-594e8ee8f90f3b178f6f0791097ece8a] the “and” at the end of paragraph (a) is repealed;
-- (b)[^key-43a0a57b72fe8720dfdd94f2107ba29d] in paragraph (b), for “licensed water supplier” there is substituted “ water supply licensee ”;
+- (a)[^c-594e8ee8f90f3b178f6f0791097ece8a] the “and” at the end of paragraph (a) is repealed;
+- (b)[^c-43a0a57b72fe8720dfdd94f2107ba29d] in paragraph (b), for “licensed water supplier” there is substituted “ water supply licensee ”;
 - (c) after paragraph (b) there is inserted—
 
   > - (c) any sewerage licensee.
 
-**116.**[^key-99d976f6289579ad9873353067d064d4] (1) Section 206 (restriction on disclosure of information) is amended as follows.
+**116.**[^c-99d976f6289579ad9873353067d064d4] (1) Section 206 (restriction on disclosure of information) is amended as follows.
 
 (2) In subsection (3)(b), for “a licensed water supplier of any of the duties imposed on it” there is substituted “ a water supply licensee or sewerage licensee of any of the duties imposed on the licensee ”.
 
 (3) In subsection (5)(a), for “a licensed water supplier of activities under its licence” there is substituted “ a water supply licensee or sewerage licensee of activities under the licence held by the licensee ”.
 
-**117.**[^key-e946b01de7a71131355200ace21f5e62] (1) Section 208 (directions in the interests of national security) is amended as follows.
+**117.**[^c-e946b01de7a71131355200ace21f5e62] (1) Section 208 (directions in the interests of national security) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1370,13 +1370,13 @@ Section 56
 - (b) for “on it” there is substituted “ on that undertaker or licensee ”;
 - (c) for “to it” there is substituted “ to that undertaker or licensee ”.
 
-**118.**[^key-3285ffa38437bf1d86e47807c0121db9] In section 211 (limitation on right to prosecute in respect of sewerage offences), in paragraph (b), after “undertaker;” there is inserted—
+**118.**[^c-3285ffa38437bf1d86e47807c0121db9] In section 211 (limitation on right to prosecute in respect of sewerage offences), in paragraph (b), after “undertaker;” there is inserted—
 
 > - (ba) a sewerage licensee;
 
 .
 
-**119.** (1)[^key-70bf4c3964c92a4203f01c2e23c24bb1] Section 213 (powers to make regulations) is amended as follows.
+**119.** (1)[^c-70bf4c3964c92a4203f01c2e23c24bb1] Section 213 (powers to make regulations) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1388,32 +1388,32 @@ Section 56
 
 > (1ZA) The requirement in subsection (1) does not apply in the case of regulations made by the Welsh Ministers under section 17D(8).
 
-(4)[^key-b795ee4f09a92ed2073c34f5e4749c89] In subsection (2)(a), for “or sewerage undertaker or licensed water supplier” there is substituted “ , sewerage undertaker, water supply licensee or sewerage licensee ”.
+(4)[^c-b795ee4f09a92ed2073c34f5e4749c89] In subsection (2)(a), for “or sewerage undertaker or licensed water supplier” there is substituted “ , sewerage undertaker, water supply licensee or sewerage licensee ”.
 
-**120.** (1)[^key-871d2fbb28df09c19fbcfdba204033ab][^key-9c66d69efacf69263a135aa35471dd6a][^key-aff29d3409f13728d291fc1345e17547][^key-4c35aa5537eecb974b388f3c1f5d5aba] Section 219 (general interpretation) is amended as follows.
+**120.** (1)[^c-871d2fbb28df09c19fbcfdba204033ab][^c-9c66d69efacf69263a135aa35471dd6a][^c-aff29d3409f13728d291fc1345e17547][^c-4c35aa5537eecb974b388f3c1f5d5aba] Section 219 (general interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
-- (a)[^key-1bae230e94167ca42163d1c7c7c4f687] in the definition of “customer or potential customer”, in paragraph (a), for “licensed water supplier” there is substituted “ water supply licensee or sewerage licensee ”;
-- (b)[^key-619252729b12f8d5617bb8d6ccf21bdb] in the definition of “protected land”, in paragraph (b), for “section 218” there is substituted “ section 217 ”;
-- (c)[^key-1bae230e94167ca42163d1c7c7c4f687] in the definition of “sewerage services”, for “includes” there is substituted
+- (a)[^c-1bae230e94167ca42163d1c7c7c4f687] in the definition of “customer or potential customer”, in paragraph (a), for “licensed water supplier” there is substituted “ water supply licensee or sewerage licensee ”;
+- (b)[^c-619252729b12f8d5617bb8d6ccf21bdb] in the definition of “protected land”, in paragraph (b), for “section 218” there is substituted “ section 217 ”;
+- (c)[^c-1bae230e94167ca42163d1c7c7c4f687] in the definition of “sewerage services”, for “includes” there is substituted
 
   > —
   >
   > - (a) in the case of a sewerage undertaker, includes
 
   ;
-- (d)[^key-1bae230e94167ca42163d1c7c7c4f687] in that definition, after the paragraph (a) so formed there is inserted
+- (d)[^c-1bae230e94167ca42163d1c7c7c4f687] in that definition, after the paragraph (a) so formed there is inserted
 
   > or
   >
   > - (b) in the case of a sewerage licensee, means the services provided by that person in that person's capacity as a sewerage licensee;
 
   ;
-- (e)[^key-1bae230e94167ca42163d1c7c7c4f687] in the definition of “water main”—
+- (e)[^c-1bae230e94167ca42163d1c7c7c4f687] in the definition of “water main”—
   - (i) for “licensed water supplier” there is substituted “ water supply licensee ”;
   - (ii) for “or supplier” there is substituted “ or licensee ”;
-- (f)[^key-1bae230e94167ca42163d1c7c7c4f687] the following are inserted at the appropriate place—
+- (f)[^c-1bae230e94167ca42163d1c7c7c4f687] the following are inserted at the appropriate place—
 
   > “**charging rules**” means rules issued under section 144ZA;
 
@@ -1426,20 +1426,20 @@ Section 56
   > “**water supply licensee**” is to be construed in accordance with section 17A(7);
 
   ;
-- (g)[^key-1bae230e94167ca42163d1c7c7c4f687] the definition of “licensed water supplier” is repealed.
+- (g)[^c-1bae230e94167ca42163d1c7c7c4f687] the definition of “licensed water supplier” is repealed.
 
-(3)[^key-c0a2eac1b5e00da6b9897a90aa6ff204][^key-d47318084014330e69f3acabc1bc5967][^key-079b3300d17711ea6a87f568b884d282] After subsection (10) there is inserted—
+(3)[^c-c0a2eac1b5e00da6b9897a90aa6ff204][^c-d47318084014330e69f3acabc1bc5967][^c-079b3300d17711ea6a87f568b884d282] After subsection (10) there is inserted—
 
 > (11) Subsection (10) does not apply to references to the Chief Inspector of Drinking Water in sections 8, 17AA, 51CA, 51CB, 66DB, 66P and 86ZA.
 
-**121.**[^key-45af15a9c33a9c5832264ea0b6718790] In Schedule 1A (the Water Services Regulation Authority), in paragraph 9(3), for paragraph (f) (and the “and” following it) there is substituted—
+**121.**[^c-45af15a9c33a9c5832264ea0b6718790] In Schedule 1A (the Water Services Regulation Authority), in paragraph 9(3), for paragraph (f) (and the “and” following it) there is substituted—
 
 > - (f) water supply licensees;
 > - (fa) sewerage licensees; and
 
 .
 
-**122.**[^key-e5f311a8bf5262cdba34b339b5bc6127] (1) Schedule 2 (transitional provision on termination of appointments) is amended as follows.
+**122.**[^c-e5f311a8bf5262cdba34b339b5bc6127] (1) Schedule 2 (transitional provision on termination of appointments) is amended as follows.
 
 (2) In paragraph 1—
 
@@ -1475,15 +1475,15 @@ Section 56
 
 (3) In paragraph 2(7A)(b), for “licensed water supplier” there is substituted “ water supply licensee or sewerage licensee ”.
 
-**123.**[^key-9272f621eb99b8355e8831e1ecae4fa3] In Schedule 8 (pre-1989 Act transitional authority for trade effluent discharges etc), after paragraph 2(3) there is inserted—
+**123.**[^c-9272f621eb99b8355e8831e1ecae4fa3] In Schedule 8 (pre-1989 Act transitional authority for trade effluent discharges etc), after paragraph 2(3) there is inserted—
 
 > (3A) If a sewerage undertaker serves a notice under sub-paragraph (2) in relation to premises in respect of which a sewerage licensee provides sewerage services, the sewerage undertaker must send a copy of the notice to the sewerage licensee.
 
 ### Water Resources Act 1991 (c. 57)
 
-**124.**[^key-3c045f7204fb779e366f2bcbf0998c28] The Water Resources Act 1991 is amended as follows.
+**124.**[^c-3c045f7204fb779e366f2bcbf0998c28] The Water Resources Act 1991 is amended as follows.
 
-**125.**[^key-57c0988dc369bf1e365d881b58ce05a9] (1) Section 203 (exchange of information with respect to pollution incidents etc) is amended as follows.
+**125.**[^c-57c0988dc369bf1e365d881b58ce05a9] (1) Section 203 (exchange of information with respect to pollution incidents etc) is amended as follows.
 
 (2) In subsection (1A)—
 
@@ -1510,7 +1510,7 @@ Section 56
 - (a) for “licensed water supplier” there is substituted “ water supply licensee ”;
 - (b) for “a company” there is substituted “ a person ”.
 
-**126.**[^key-ff6238c6151c7824e5cb3a460040b03b] (1) Section 204 (restriction on disclosure of information) is amended as follows.
+**126.**[^c-ff6238c6151c7824e5cb3a460040b03b] (1) Section 204 (restriction on disclosure of information) is amended as follows.
 
 (2) In subsection (2)(b)—
 
@@ -1524,35 +1524,35 @@ Section 56
 
 ### The National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)
 
-**127.**[^key-32161c8773963f5bc9bcfd3de96e2800] In Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999, in the entry relating to the Water Industry Act 1991—
+**127.**[^c-32161c8773963f5bc9bcfd3de96e2800] In Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999, in the entry relating to the Water Industry Act 1991—
 
 - (a) for “licensed water suppliers” there is substituted “ water supply licensees ”;
 - (b) for “licensed water supplier”, in each place those words occur, there is substituted “ water supply licensee ”.
 
 ### Enterprise Act 2002 (c. 40)
 
-**128.**[^key-24b5eef0942eceb1834d7ebc80786f00] The Enterprise Act 2002 is amended as follows.
+**128.**[^c-24b5eef0942eceb1834d7ebc80786f00] The Enterprise Act 2002 is amended as follows.
 
-**129.**[^key-d06f414fcf3eac33b25f691791459383] (1) Section 168 (regulated markets) is amended as follows.
+**129.**[^c-d06f414fcf3eac33b25f691791459383] (1) Section 168 (regulated markets) is amended as follows.
 
 (2) In subsection (3)(ff), after “section 66D” there is inserted “ or 117E ”.
 
 (3) In subsection (4)(ff), after “section 66D”, in both places, there is inserted “ or 117E ”.
 
-**130.**[^key-b6d429b2d74fd5c3f637e66bb5e84ec5] In section 249 (special administration regime), in subsection (1)(aa)—
+**130.**[^c-b6d429b2d74fd5c3f637e66bb5e84ec5] In section 249 (special administration regime), in subsection (1)(aa)—
 
 - (a) for “licensed water supplier” there is substituted “ water supply licensee ”;
 - (b) after “administration order)” there is inserted “ or a qualifying sewerage licensee within the meaning of subsection (8) of that section ”.
 
 ### Water Act 2003 (c. 37)
 
-**131.**[^key-f5314c7916f512e927fb230123987b93] The Water Act 2003 is amended as follows.
+**131.**[^c-f5314c7916f512e927fb230123987b93] The Water Act 2003 is amended as follows.
 
 **Not yet in force.**
 
 **132.** Section 40 (which inserted the section 2A of the Water Industry Act 1991 that is being replaced by section 24 of this Act) is repealed.
 
-**133.**[^key-7e07f7600f1ec32869b09d84bd01efe8] (1) Section 52 (co-operation between water regulators) is amended as follows.
+**133.**[^c-7e07f7600f1ec32869b09d84bd01efe8] (1) Section 52 (co-operation between water regulators) is amended as follows.
 
 (2) In subsection (3)—
 
@@ -1567,7 +1567,7 @@ Section 56
 > - “**sewerage licensee**” means a person holding a sewerage licence under Chapter 1A of Part 2 of the Water Industry Act 1991;
 > - “**water supply licensee**” means a person holding a water supply licence under Chapter 1A of Part 2 of the Water Industry Act 1991.
 
-**134.**[^key-8f9c61b5e240c6486aa96a584d0dc7ea] (1) Section 58 (fluoridation of water supplies) is amended as follows, to the extent that it is not in force on the day on which paragraphs 76 to 78 come into force.
+**134.**[^c-8f9c61b5e240c6486aa96a584d0dc7ea] (1) Section 58 (fluoridation of water supplies) is amended as follows, to the extent that it is not in force on the day on which paragraphs 76 to 78 come into force.
 
 (2) In subsection (2)—
 
@@ -1581,18 +1581,18 @@ Section 56
 
 ### Government of Wales Act 2006 (c. 32)
 
-**135.**[^key-58f6069adbae216d9a1f850a16ec6c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**135.**[^c-58f6069adbae216d9a1f850a16ec6c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Consumers, Estate Agents and Redress Act 2007 (c. 17)
 
-**136.**[^key-3f188cc16f9b7f80a79f77ad3f72a1cb] The Consumers, Estate Agents and Redress Act 2007 is amended as follows.
+**136.**[^c-3f188cc16f9b7f80a79f77ad3f72a1cb] The Consumers, Estate Agents and Redress Act 2007 is amended as follows.
 
-**137.**[^key-e0990fd2d6b95111968ab16e2f99a093] In section 4 (meaning of “designated consumers”), in subsection (3)—
+**137.**[^c-e0990fd2d6b95111968ab16e2f99a093] In section 4 (meaning of “designated consumers”), in subsection (3)—
 
 - (a) for “or a licensed water supplier” there is substituted “ , a water supply licensee or a sewerage licensee ”;
 - (b) for “its capacity” there is substituted “ the undertaker's or licensee's capacity ”.
 
-**138.**[^key-fe9f2a0c0f43668ccd179dd3a9e3708e] (1) Section 25 (enforcement by regulator of section 24 notice) is amended as follows.
+**138.**[^c-fe9f2a0c0f43668ccd179dd3a9e3708e] (1) Section 25 (enforcement by regulator of section 24 notice) is amended as follows.
 
 (2) In subsection (2), for “its capacity” there is substituted “ the person's capacity ”.
 
@@ -1600,12 +1600,12 @@ Section 56
 
 (4) In subsection (7), for “or licensed water supplier” there is substituted “ , water supply licensee or sewerage licensee ”.
 
-**139.**[^key-e08f3925f3055a6e452d67243486347e] In section 33 (supplementary provision about transfer and abolition orders), in subsection (10)—
+**139.**[^c-e08f3925f3055a6e452d67243486347e] In section 33 (supplementary provision about transfer and abolition orders), in subsection (10)—
 
 - (a) for “or a licensed water supplier” there is substituted “ , a water supply licensee or a sewerage licensee ”;
 - (b) for “its capacity” there is substituted “ the undertaker's or licensee's capacity ”.
 
-**140.**[^key-f4ce8ddae153f6f28aac3f4a81f1e87e] In section 41 (interpretation of Part 1), in subsection (1)—
+**140.**[^c-f4ce8ddae153f6f28aac3f4a81f1e87e] In section 41 (interpretation of Part 1), in subsection (1)—
 
 - (a) the definition of “licensed water supplier” is repealed;
 - (b) at the appropriate place there is inserted—
@@ -1616,7 +1616,7 @@ Section 56
 
   > “**water supply licensee**” means a person holding a water supply licence under Chapter 1A of Part 2 of the Water Industry Act 1991.
 
-**141.**[^key-202dc1059066418905383c306229d845] (1) Section 42 (interpretation of Part 2) is amended as follows.
+**141.**[^c-202dc1059066418905383c306229d845] (1) Section 42 (interpretation of Part 2) is amended as follows.
 
 (2) In subsection (1), in the table—
 
@@ -1634,13 +1634,13 @@ Section 56
 
   > “**water supply licensee**” has the same meaning as in Part 1.
 
-**142.**[^key-ff2f782fe105fc5203ea39459b3e8c40] In section 52 (enforcement of requirements imposed under Part 2), in subsection (3), for “or licensed water supplier” there is substituted “ , water supply licensee or sewerage licensee ”.
+**142.**[^c-ff2f782fe105fc5203ea39459b3e8c40] In section 52 (enforcement of requirements imposed under Part 2), in subsection (3), for “or licensed water supplier” there is substituted “ , water supply licensee or sewerage licensee ”.
 
 ### Flood and Water Management Act 2010 (c. 29)
 
-**143.**[^key-6d3feab21012e6fa0f1441e9285b79dc][^key-6f8ca72f910ef56f785954e4e8cff1b9] The Flood and Water Management Act 2010 is amended as follows.
+**143.**[^c-6d3feab21012e6fa0f1441e9285b79dc][^c-6f8ca72f910ef56f785954e4e8cff1b9] The Flood and Water Management Act 2010 is amended as follows.
 
-**144.**[^key-cd33c77cb9c5e9b89b79abc251860c04] In section 6 (other Part 1 definitions), in subsection (11) (“water company”)—
+**144.**[^c-cd33c77cb9c5e9b89b79abc251860c04] In section 6 (other Part 1 definitions), in subsection (11) (“water company”)—
 
 - (a) in the opening words, the words “a company which holds” are repealed;
 - (b) in paragraph (a), at the beginning there is inserted “a company which holds”;
@@ -1657,424 +1657,424 @@ Section 56
 - (a) subsection (2) (which substitutes section 105(2) of the Water Industry Act 1991) is repealed;
 - (b) subsection (3) (which inserts section 104(9) of the Water Industry Act 1991) is repealed.
 
-**147.**[^key-bc172d517c0834c1d3cc932027270e0b] In section 44 (social tariffs in charges schemes), in subsection (3), for the words from “in connection with” to “1991 Act)” there is substituted “under the Water Industry Act 1991 in connection with undertakers' charges schemes under section 143 of that Act”.
+**147.**[^c-bc172d517c0834c1d3cc932027270e0b] In section 44 (social tariffs in charges schemes), in subsection (3), for the words from “in connection with” to “1991 Act)” there is substituted “under the Water Industry Act 1991 in connection with undertakers' charges schemes under section 143 of that Act”.
 
 ## Annotations
 
-[^key-4802b436a399fd86b1a9bc486617c56e]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/1) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-4802b436a399fd86b1a9bc486617c56e]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/1) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-86417a6e20a3240b16b2b529bb76b917]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(e)(i)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/e/i)
+[^c-86417a6e20a3240b16b2b529bb76b917]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(e)(i)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/e/i)
 
-[^key-fea73b29219c230dfb70b15e8033b2ad]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 15.7.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/f/ii)
+[^c-fea73b29219c230dfb70b15e8033b2ad]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 15.7.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/f/ii)
 
-[^key-632074e8149b97c72e1438f5156f7d67]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/f/ii)
+[^c-632074e8149b97c72e1438f5156f7d67]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/f/ii)
 
-[^key-3bf78ffc6343f0cd2b4dbcf28f3a79bd]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.11.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(c)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/c/ii)
+[^c-3bf78ffc6343f0cd2b4dbcf28f3a79bd]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.11.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(c)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/c/ii)
 
-[^key-339bb1ab47bdd15a3941295078c2c4c4]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(g)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/g/ii)
+[^c-339bb1ab47bdd15a3941295078c2c4c4]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(g)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/g/ii)
 
-[^key-89705dd7d98ea9c0c9498062159564c5]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.1.2016 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(viii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/viii)
+[^c-89705dd7d98ea9c0c9498062159564c5]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.1.2016 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(viii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/viii)
 
-[^key-baddfae90e6668a4048d8efe63984696]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-baddfae90e6668a4048d8efe63984696]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-fcd1cfed62916ed68656b474286966e1]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.9.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/3/g/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-fcd1cfed62916ed68656b474286966e1]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.9.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/3/g/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-54162333c064d5518628a2ac57e2a058]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(i)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/i)
+[^c-54162333c064d5518628a2ac57e2a058]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(i)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/i)
 
-[^key-b16bb011412a574d8a8b96d32bb24a7a]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/i)
+[^c-b16bb011412a574d8a8b96d32bb24a7a]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/i)
 
-[^key-12fb0c40bcb989b6277e105a0b72896c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.10.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/i)
+[^c-12fb0c40bcb989b6277e105a0b72896c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.10.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/i)
 
-[^key-6d40eda99cbe27486b6e1c60c41c9693]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/i) (as amended by S.I. 2017/926, art. 2(3))
+[^c-6d40eda99cbe27486b6e1c60c41c9693]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/2) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/i) (as amended by S.I. 2017/926, art. 2(3))
 
-[^key-b0b071868c82528f2bbb13c0aefa398c]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 15.7.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/f/ii)
+[^c-b0b071868c82528f2bbb13c0aefa398c]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 15.7.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/f/ii)
 
-[^key-e1796cd6d6efc5ef49bd742fca6ed53e]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/f/ii)
+[^c-e1796cd6d6efc5ef49bd742fca6ed53e]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/f/ii)
 
-[^key-eeb8fd7f703d339cf793d0cf98e52769]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 1.11.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(c)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/c/ii)
+[^c-eeb8fd7f703d339cf793d0cf98e52769]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 1.11.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(c)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/c/ii)
 
-[^key-caafc4438f70072060bff7e9aadedfc4]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(g)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/g/ii)
+[^c-caafc4438f70072060bff7e9aadedfc4]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(g)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/g/ii)
 
-[^key-b0a2410c2a12781ac6ad3efc60084510]: Commencement: Sch. 7 para. 3(1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(c)(i)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-b0a2410c2a12781ac6ad3efc60084510]: Commencement: Sch. 7 para. 3(1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(c)(i)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-742a88d51577981b75bdf4c9757a6134]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 1.9.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/3/g/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-742a88d51577981b75bdf4c9757a6134]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 1.9.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/3/g/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-09ead3f04e4c7483a03d9643337423ad]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(aa)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/aa)[(ii)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/ii)
+[^c-09ead3f04e4c7483a03d9643337423ad]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(aa)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/aa)[(ii)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/ii)
 
-[^key-db964ccdc0f589449d3f34cbdad7668e]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/ii)
+[^c-db964ccdc0f589449d3f34cbdad7668e]: Commencement: Sch. 7 para. 3(1)(2)(8)(a)(c) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/ii)
 
-[^key-3df40b93e305ef9258267ecf71da7c73]: Commencement: Sch. 7 para. 3(2)(8)(a)(c) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(c)(iv)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/c/iv) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-3df40b93e305ef9258267ecf71da7c73]: Commencement: Sch. 7 para. 3(2)(8)(a)(c) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(c)(iv)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/c/iv) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-92dc133fe99553385ca64c024ac641cb]: Commencement: Sch. 7 para. 3(3)(6)(7) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(c)(ii)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/c/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-92dc133fe99553385ca64c024ac641cb]: Commencement: Sch. 7 para. 3(3)(6)(7) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(c)(ii)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/c/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-1efb0a9713b4fdfbb96eb025a3ab9dee]: Commencement: Sch. 7 para. 3(4)(5) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/ii)
+[^c-1efb0a9713b4fdfbb96eb025a3ab9dee]: Commencement: Sch. 7 para. 3(4)(5) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/ii)
 
-[^key-c99634cc5c5edc1600f3234605683488]: Commencement: Sch. 7 para. 3(8)(b) in force at 15.7.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(f)(i)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/f/i)
+[^c-c99634cc5c5edc1600f3234605683488]: Commencement: Sch. 7 para. 3(8)(b) in force at 15.7.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(f)(i)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/f/i)
 
-[^key-c33435df187d6b0b022584bd0c125722]: Commencement: Sch. 7 para. 3(8)(b) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(f)(i)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/f/i)
+[^c-c33435df187d6b0b022584bd0c125722]: Commencement: Sch. 7 para. 3(8)(b) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(f)(i)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/f/i)
 
-[^key-e1d7252c8e484b6fac73ff5313748d5e]: Commencement: Sch. 7 para. 3(8)(b) in force at 1.11.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(c)(i)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/c/i)
+[^c-e1d7252c8e484b6fac73ff5313748d5e]: Commencement: Sch. 7 para. 3(8)(b) in force at 1.11.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(c)(i)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/c/i)
 
-[^key-c7be9942165e27eb5d86439831955bbf]: Commencement: Sch. 7 para. 3(8)(b) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(g)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/g/i)
+[^c-c7be9942165e27eb5d86439831955bbf]: Commencement: Sch. 7 para. 3(8)(b) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(g)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/g/i)
 
-[^key-9023eb70a6090c7af1cbc7d0c50762fb]: Commencement: Sch. 7 para. 3(8)(b) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(c)(iii)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/c/iii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-9023eb70a6090c7af1cbc7d0c50762fb]: Commencement: Sch. 7 para. 3(8)(b) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(c)(iii)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/c/iii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-68b7059cb53ab0035b88c6cf8eca5d15]: Commencement: Sch. 7 para. 3(8)(b) in force at 1.9.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 3(g)(i)](https://www.legislation.gov.uk/uksi/2016/465/article/3/g/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-68b7059cb53ab0035b88c6cf8eca5d15]: Commencement: Sch. 7 para. 3(8)(b) in force at 1.9.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 3(g)(i)](https://www.legislation.gov.uk/uksi/2016/465/article/3/g/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-6572b7610b0a2103ca10dd3e5bc9e5c8]: Commencement: Sch. 7 para. 3(8)(b) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(bb)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/bb)[(ii)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/ii)
+[^c-6572b7610b0a2103ca10dd3e5bc9e5c8]: Commencement: Sch. 7 para. 3(8)(b) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(bb)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/bb)[(ii)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/ii)
 
 [^M_I_a6990998-0179-46b3-ff96-cf35b06b0fad]: Commencement: Sch. 7 para. 3(8)(b) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/ii)
 
-[^key-bea47fb02d0c3aa4f298eb873dd7421e]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/4) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-bea47fb02d0c3aa4f298eb873dd7421e]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/4) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-5a9b92d12ff3456192dd5d07b5bf4d29]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/5) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-5a9b92d12ff3456192dd5d07b5bf4d29]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/5) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-f0ca9ef7d818fa9d118d0092afa001b8]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/6) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-f0ca9ef7d818fa9d118d0092afa001b8]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/6) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-bc6eaf94265849147b6228a5d77e29ca]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/7) in force at 1.11.2016 by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(iii)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/iii)
+[^c-bc6eaf94265849147b6228a5d77e29ca]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/7) in force at 1.11.2016 by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(iii)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/iii)
 
-[^key-0de10b3c390737326973bba259b6d7bb]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/9) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-0de10b3c390737326973bba259b6d7bb]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/9) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-d89a331262c6e81bbb71816e2805c593]: Commencement: [Sch. 7 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/10/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(f)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-d89a331262c6e81bbb71816e2805c593]: Commencement: [Sch. 7 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/10/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(f)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-c214a012658b6ac9c6498cbf82f3ac4f]: Commencement: [Sch. 7 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/10/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/iii)
+[^c-c214a012658b6ac9c6498cbf82f3ac4f]: Commencement: [Sch. 7 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/10/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/iii)
 
-[^key-7d7cdbaeb003feddc653a941c33165e0]: Commencement: [Sch. 7 para. 10(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/10/2) [(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/10/3) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/iii)
+[^c-7d7cdbaeb003feddc653a941c33165e0]: Commencement: [Sch. 7 para. 10(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/10/2) [(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/10/3) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/iii)
 
-[^key-46e172612bb322931e0527b78cf5c270]: Commencement: [Sch. 7 para. 10(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/10/4) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(f)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-46e172612bb322931e0527b78cf5c270]: Commencement: [Sch. 7 para. 10(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/10/4) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(f)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-c4e9e1344a2a4fd59cb5ec0a33f924be]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/11) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/i)
+[^c-c4e9e1344a2a4fd59cb5ec0a33f924be]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/11) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/i)
 
-[^key-11d8029b1a4c169ebd14d85b43e0b024]: Commencement: [Sch. 7 para. 12(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/1) in force at 1.1.2016 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(iii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/iii)
+[^c-11d8029b1a4c169ebd14d85b43e0b024]: Commencement: [Sch. 7 para. 12(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/1) in force at 1.1.2016 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(iii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/iii)
 
-[^key-087249180b58095add5d28497cb25eb2]: Commencement: [Sch. 7 para. 12(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(g)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-087249180b58095add5d28497cb25eb2]: Commencement: [Sch. 7 para. 12(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(g)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-c7ab1da73af0455aaf3fe3e930c6e08c]: Commencement: [Sch. 7 para. 12(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/iv)
+[^c-c7ab1da73af0455aaf3fe3e930c6e08c]: Commencement: [Sch. 7 para. 12(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/iv)
 
-[^key-a770c33173c9dc573e33dfa8e0b5a45d]: Commencement: [Sch. 7 para. 12(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/2) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/ii) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/1938/article/4))
+[^c-a770c33173c9dc573e33dfa8e0b5a45d]: Commencement: [Sch. 7 para. 12(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/2) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/ii) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/1938/article/4))
 
-[^key-89cf80412f47e88717dbaeb9d988e3e0]: Commencement: [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/3) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(g)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-89cf80412f47e88717dbaeb9d988e3e0]: Commencement: [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/3) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(g)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-ea35a33d7564a8a2a3e357414707ae36]: Commencement: [Sch. 7 para. 12(4)-(11)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/4) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/iv) (with [art. 11](https://www.legislation.gov.uk/uksi/2017/462/article/11))
+[^c-ea35a33d7564a8a2a3e357414707ae36]: Commencement: [Sch. 7 para. 12(4)-(11)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/12/4) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/iv) (with [art. 11](https://www.legislation.gov.uk/uksi/2017/462/article/11))
 
-[^key-1fc2c79a45678b477f88fd2c83cddd87]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/13) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(iv)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/iv)
+[^c-1fc2c79a45678b477f88fd2c83cddd87]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/13) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(iv)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/iv)
 
-[^key-e8a8e0792f5d961d54b892157a911a71]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/14) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(h)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/h) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-e8a8e0792f5d961d54b892157a911a71]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/14) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(h)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/h) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-108673cd164891a5522b45f3138c8e93]: Commencement: Sch. 7 para. 15(1) in force at 1.1.2016 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(vi)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/vi)
+[^c-108673cd164891a5522b45f3138c8e93]: Commencement: Sch. 7 para. 15(1) in force at 1.1.2016 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(vi)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/vi)
 
-[^key-7fc19a252a2a69bf7837cd1e79298b6d]: Commencement: [Sch. 7 para. 15(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/15/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(i)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-7fc19a252a2a69bf7837cd1e79298b6d]: Commencement: [Sch. 7 para. 15(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/15/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(i)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-d90a528493aee23c8ccc2624602236bc]: Commencement: [Sch. 7 para. 15(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/15/2)[(4)(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/15/4/b) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(i)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-d90a528493aee23c8ccc2624602236bc]: Commencement: [Sch. 7 para. 15(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/15/2)[(4)(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/15/4/b) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(i)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-9756aa5db111e9d0821d0f2a50409323]: Commencement: Sch. 7 para. 15(3)(4)(a)(c)(d)(5) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(v)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/v)
+[^c-9756aa5db111e9d0821d0f2a50409323]: Commencement: Sch. 7 para. 15(3)(4)(a)(c)(d)(5) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(v)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/v)
 
-[^key-efa8f4b57aaaa693e03383e73028e7dd]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/16) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(vii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/vii)
+[^c-efa8f4b57aaaa693e03383e73028e7dd]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/16) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(vii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/vii)
 
-[^key-f807f167b5daa1ede9d09f0b9b3e7187]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/17) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(vii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/vii)
+[^c-f807f167b5daa1ede9d09f0b9b3e7187]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/17) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(vii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/vii)
 
-[^key-4aa681a1a9483428097fa0f479135aee]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/18) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(vii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/vii)
+[^c-4aa681a1a9483428097fa0f479135aee]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/18) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(f)(vii)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/f/vii)
 
-[^key-6458c8870cef95bf5447fafacdd42fca]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/19) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-6458c8870cef95bf5447fafacdd42fca]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/19) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-2b19a8e0a18d29402013ee4ac75227e7]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/20) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-2b19a8e0a18d29402013ee4ac75227e7]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/20) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-2b684b65a900e57cbcd0c03ddb897f40]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/21) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-2b684b65a900e57cbcd0c03ddb897f40]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/21) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-77507c39859c4fb361985b01c5589a32]: Commencement: [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/22) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-77507c39859c4fb361985b01c5589a32]: Commencement: [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/22) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-5e9afb1938c40945ff97a4e78e7a5adf]: Commencement: [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/23) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-5e9afb1938c40945ff97a4e78e7a5adf]: Commencement: [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/23) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-b01af085ed4bd84e378b441128bb00a4]: Commencement: [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/24) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-b01af085ed4bd84e378b441128bb00a4]: Commencement: [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/24) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-c0ab2b8701587bcc53109994601bc167]: Commencement: [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/25) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-c0ab2b8701587bcc53109994601bc167]: Commencement: [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/25) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-3f217a2790f4de4bc797a8e5a0fe9de4]: Commencement: [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/26) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-3f217a2790f4de4bc797a8e5a0fe9de4]: Commencement: [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/26) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-fc3cfad01af4f2bce92e6f90f246b364]: Commencement: [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/27) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-fc3cfad01af4f2bce92e6f90f246b364]: Commencement: [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/27) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-aeb9dd72188ff49edfb28a1ce55acc79]: Commencement: [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/28) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-aeb9dd72188ff49edfb28a1ce55acc79]: Commencement: [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/28) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-84015e0efb007228c62dc60ac79a8369]: Commencement: [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/29) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-84015e0efb007228c62dc60ac79a8369]: Commencement: [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/29) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-49001e8f1fb05f82a384fb1912f50cef]: Commencement: [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/30) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-49001e8f1fb05f82a384fb1912f50cef]: Commencement: [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/30) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-89c94e9865c821657e476eab3749d9e3]: Commencement: [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/31) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-89c94e9865c821657e476eab3749d9e3]: Commencement: [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/31) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-e9bb9de707b34ecc7636a11a87e7883d]: Commencement: [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/32) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-e9bb9de707b34ecc7636a11a87e7883d]: Commencement: [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/32) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-0eebbe2093980e2a9dbe1ab91dfe57d3]: Commencement: [Sch. 7 para. 33](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/33) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-0eebbe2093980e2a9dbe1ab91dfe57d3]: Commencement: [Sch. 7 para. 33](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/33) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-b8365d7902708cd0eda5566be27807b8]: Commencement: [Sch. 7 para. 34](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/34) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-b8365d7902708cd0eda5566be27807b8]: Commencement: [Sch. 7 para. 34](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/34) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-d0e87e7fa0d38cc10488861831463f4d]: Commencement: [Sch. 7 para. 35(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/1) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(aa)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/aa)[(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/v)
+[^c-d0e87e7fa0d38cc10488861831463f4d]: Commencement: [Sch. 7 para. 35(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/1) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(aa)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/aa)[(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/v)
 
-[^key-f9fece9a287374ae7e89641522959336]: Commencement: [Sch. 7 para. 35(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/2) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(bb)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/bb)[(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/v)
+[^c-f9fece9a287374ae7e89641522959336]: Commencement: [Sch. 7 para. 35(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/2) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(bb)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/bb)[(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/v)
 
-[^key-9dae23a309cc4a0b6d1a4421a1d5b32e]: Commencement: [Sch. 7 para. 35(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/3) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(cc)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/cc)[(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/v)
+[^c-9dae23a309cc4a0b6d1a4421a1d5b32e]: Commencement: [Sch. 7 para. 35(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/3) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(cc)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/cc)[(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/v)
 
-[^key-c540c910f6cf38c01a0c94d87d93a87c]: Commencement: [Sch. 7 para. 35(7)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/7) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(dd)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/dd)[(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/v)
+[^c-c540c910f6cf38c01a0c94d87d93a87c]: Commencement: [Sch. 7 para. 35(7)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/7) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(dd)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/dd)[(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/v)
 
-[^key-a2af71f44222899b470613f69732198f]: Commencement: [Sch. 7 para. 35(8)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/8) [(9)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/9) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(ee)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/ee)[(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/v)
+[^c-a2af71f44222899b470613f69732198f]: Commencement: [Sch. 7 para. 35(8)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/8) [(9)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/35/9) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(ee)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/ee)[(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/v)
 
-[^key-c02d99eaf6a2f8f3ccbfd6f027efdd27]: Commencement: [Sch. 7 para. 36](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/36) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vi)
+[^c-c02d99eaf6a2f8f3ccbfd6f027efdd27]: Commencement: [Sch. 7 para. 36](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/36) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vi)
 
-[^key-e027438a40f7257f7193b917c1b520d4]: Commencement: [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/37) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vi)
+[^c-e027438a40f7257f7193b917c1b520d4]: Commencement: [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/37) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vi)
 
-[^key-e6406331b11c1cdd502f9f3d7790ef5c]: Commencement: [Sch. 7 para. 38](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/38) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vi)
+[^c-e6406331b11c1cdd502f9f3d7790ef5c]: Commencement: [Sch. 7 para. 38](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/38) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vi)
 
-[^key-94645e94e8d03eda0d71ebd0cf6f4f4c]: Commencement: [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/39) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-94645e94e8d03eda0d71ebd0cf6f4f4c]: Commencement: [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/39) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-531ddccd1ea5566e1f9351fb676e0528]: Commencement: [Sch. 7 para. 40](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/40) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-531ddccd1ea5566e1f9351fb676e0528]: Commencement: [Sch. 7 para. 40](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/40) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-3a70e84a012a75c49ce9c146b686d63b]: Commencement: [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/41) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-3a70e84a012a75c49ce9c146b686d63b]: Commencement: [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/41) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-c01b5427996a87ecccb18069356a8bdc]: Commencement: [Sch. 7 para. 42](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/42) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-c01b5427996a87ecccb18069356a8bdc]: Commencement: [Sch. 7 para. 42](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/42) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-291a5798c7be9e65f371b60c21605920]: Commencement: [Sch. 7 para. 43](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/43) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-291a5798c7be9e65f371b60c21605920]: Commencement: [Sch. 7 para. 43](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/43) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-264ca570fcc0839daaf38ea3ea17f94d]: Commencement: [Sch. 7 para. 44](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/44) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-264ca570fcc0839daaf38ea3ea17f94d]: Commencement: [Sch. 7 para. 44](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/44) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-15cb11c5de4e76b9d0a61d1abd6d60b6]: Commencement: [Sch. 7 para. 45](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/45) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-15cb11c5de4e76b9d0a61d1abd6d60b6]: Commencement: [Sch. 7 para. 45](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/45) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-8a0ce48e6658c8f6f5c3d6244fae9c8b]: Commencement: [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/46) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-8a0ce48e6658c8f6f5c3d6244fae9c8b]: Commencement: [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/46) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-5830e654675cda2e8e3997f98dd7dffb]: Commencement: [Sch. 7 para. 47](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/47) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-5830e654675cda2e8e3997f98dd7dffb]: Commencement: [Sch. 7 para. 47](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/47) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-83fa284928893f88164b4425bcb089bb]: Commencement: [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/48) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-83fa284928893f88164b4425bcb089bb]: Commencement: [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/48) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-5d57f56b33713047b63638f0ed6ad6f3]: Commencement: [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/49) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-5d57f56b33713047b63638f0ed6ad6f3]: Commencement: [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/49) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-5bca822ff5ecc3c34e565ddbbfb615df]: Commencement: [Sch. 7 para. 50](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/50) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-5bca822ff5ecc3c34e565ddbbfb615df]: Commencement: [Sch. 7 para. 50](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/50) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-95d7f554988b96c771585a8d130ce9ab]: Commencement: [Sch. 7 para. 51](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/51) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-95d7f554988b96c771585a8d130ce9ab]: Commencement: [Sch. 7 para. 51](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/51) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-38cfba997414662c68c9febb90b35b43]: Commencement: [Sch. 7 para. 52](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/52) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-38cfba997414662c68c9febb90b35b43]: Commencement: [Sch. 7 para. 52](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/52) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-1e30ed8947067b7dbad386ad4adb7b55]: Commencement: [Sch. 7 para. 53](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/53) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-1e30ed8947067b7dbad386ad4adb7b55]: Commencement: [Sch. 7 para. 53](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/53) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-1f0e599fda3bcd38faab9fac43c14726]: Commencement: [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/54) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/ii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
+[^c-1f0e599fda3bcd38faab9fac43c14726]: Commencement: [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/54) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/ii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
 
-[^key-7afdd31ce6c7c0f8d13cd2fbb9b23864]: Commencement: [Sch. 7 para. 55](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/55) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/ii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
+[^c-7afdd31ce6c7c0f8d13cd2fbb9b23864]: Commencement: [Sch. 7 para. 55](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/55) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/ii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
 
-[^key-649d3d08c76e029914cd4b9e19664d73]: Commencement: [Sch. 7 para. 56](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/56) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/ii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
+[^c-649d3d08c76e029914cd4b9e19664d73]: Commencement: [Sch. 7 para. 56](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/56) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/ii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
 
-[^key-ac9966a20a0afdfeb3a161df4d771670]: Commencement: [Sch. 7 para. 57](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/57) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/ii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
+[^c-ac9966a20a0afdfeb3a161df4d771670]: Commencement: [Sch. 7 para. 57](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/57) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/ii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
 
-[^key-f800f085e40699dcccc643ca10e7b002]: Commencement: [Sch. 7 para. 58](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/58) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vii)
+[^c-f800f085e40699dcccc643ca10e7b002]: Commencement: [Sch. 7 para. 58](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/58) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vii)
 
-[^key-1975aedff08ff51fec4db3962aa5df00]: Commencement: [Sch. 7 para. 59](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/59) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vii)
+[^c-1975aedff08ff51fec4db3962aa5df00]: Commencement: [Sch. 7 para. 59](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/59) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vii)
 
-[^key-08597f363af3411b847ccfb0e99b5356]: Commencement: [Sch. 7 para. 60](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/60) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vii)
+[^c-08597f363af3411b847ccfb0e99b5356]: Commencement: [Sch. 7 para. 60](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/60) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vii)
 
-[^key-68df12346bb3d53a27773a1c5fbcf84a]: Commencement: [Sch. 7 para. 61](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/61) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vii)
+[^c-68df12346bb3d53a27773a1c5fbcf84a]: Commencement: [Sch. 7 para. 61](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/61) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(vii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/vii)
 
-[^key-954297baec3baceeb033b22d5544325f]: Commencement: [Sch. 7 para. 62](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/62) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-954297baec3baceeb033b22d5544325f]: Commencement: [Sch. 7 para. 62](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/62) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-2c361159c553e619b8704525f77d0c82]: Commencement: [Sch. 7 para. 63](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/63) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-2c361159c553e619b8704525f77d0c82]: Commencement: [Sch. 7 para. 63](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/63) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-747af5ab1778d580e79d647ed69e8640]: Commencement: [Sch. 7 para. 64](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/64) in force at 6.3.2017 by [S.I. 2017/58](https://www.legislation.gov.uk/uksi/2017/58), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/58/article/2/c) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2017/58/article/3/1))
+[^c-747af5ab1778d580e79d647ed69e8640]: Commencement: [Sch. 7 para. 64](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/64) in force at 6.3.2017 by [S.I. 2017/58](https://www.legislation.gov.uk/uksi/2017/58), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/58/article/2/c) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2017/58/article/3/1))
 
-[^key-6d7f78e587689ed87506cffae524676d]: Commencement: [Sch. 7 para. 65](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/65) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-6d7f78e587689ed87506cffae524676d]: Commencement: [Sch. 7 para. 65](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/65) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-8c0ff53b46e4e337cb6c2117d6c9d0cd]: Commencement: [Sch. 7 para. 66](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/66) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-8c0ff53b46e4e337cb6c2117d6c9d0cd]: Commencement: [Sch. 7 para. 66](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/66) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-59c1b65ce8db41cd7c30ef728905d962]: Commencement: [Sch. 7 para. 67](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/67) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-59c1b65ce8db41cd7c30ef728905d962]: Commencement: [Sch. 7 para. 67](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/67) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-d690537ab8bc1610c7de060a7e15420b]: Commencement: [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/68) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-d690537ab8bc1610c7de060a7e15420b]: Commencement: [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/68) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-aa61ab8ced8d73fbdd710476f5bb71bc]: Commencement: [Sch. 7 para. 69](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/69) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-aa61ab8ced8d73fbdd710476f5bb71bc]: Commencement: [Sch. 7 para. 69](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/69) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-b0d88289c7c1ab669d7ab2e6def99b37]: Commencement: [Sch. 7 para. 70](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/70) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-b0d88289c7c1ab669d7ab2e6def99b37]: Commencement: [Sch. 7 para. 70](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/70) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-f2ca23847e1600c67c9f4ee4b31c68da]: Commencement: [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/71) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-f2ca23847e1600c67c9f4ee4b31c68da]: Commencement: [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/71) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-74f572f6c9ebcdcf6dc830f4fd97786f]: Commencement: [Sch. 7 para. 72](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/72) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-74f572f6c9ebcdcf6dc830f4fd97786f]: Commencement: [Sch. 7 para. 72](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/72) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-c7034b76416009bdff9f68fc85eb47dc]: Commencement: [Sch. 7 para. 73](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/73) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(viii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/viii)
+[^c-c7034b76416009bdff9f68fc85eb47dc]: Commencement: [Sch. 7 para. 73](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/73) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(viii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/viii)
 
-[^key-f116125b257ce93ec5a0c6f3d6d6f5ab]: Commencement: [Sch. 7 para. 74(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/74/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(n)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/n) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-f116125b257ce93ec5a0c6f3d6d6f5ab]: Commencement: [Sch. 7 para. 74(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/74/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(n)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/n) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-ff39a9eef5fc39b3c6c8bf49a36d4c5d]: Commencement: [Sch. 7 para. 74(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/74/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(ix)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/ix)
+[^c-ff39a9eef5fc39b3c6c8bf49a36d4c5d]: Commencement: [Sch. 7 para. 74(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/74/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(ix)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/ix)
 
-[^key-93f543bcbb6fabdab2f23d57f2d10aac]: Commencement: [Sch. 7 para. 74(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/74/2) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(n)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/n) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-93f543bcbb6fabdab2f23d57f2d10aac]: Commencement: [Sch. 7 para. 74(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/74/2) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(n)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/n) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-8738a05037b6cf4b5ee3fa20cd50ddf4]: Commencement: [Sch. 7 para. 74(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/74/3) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(ix)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/ix)
+[^c-8738a05037b6cf4b5ee3fa20cd50ddf4]: Commencement: [Sch. 7 para. 74(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/74/3) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(ix)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/ix)
 
-[^key-6cd7ed0dec84d111b4af2bf342381655]: Commencement: [Sch. 7 para. 75](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/75) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-6cd7ed0dec84d111b4af2bf342381655]: Commencement: [Sch. 7 para. 75](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/75) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-d033c8fb222542583ec5bc57b8d8dfc6]: Commencement: [Sch. 7 para. 76](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/76) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-d033c8fb222542583ec5bc57b8d8dfc6]: Commencement: [Sch. 7 para. 76](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/76) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-3cf73587cd53476d4cb24a113634b33c]: Commencement: [Sch. 7 para. 77](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/77) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-3cf73587cd53476d4cb24a113634b33c]: Commencement: [Sch. 7 para. 77](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/77) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-8ac83f9216f962bc8f8892dc3dbdbe46]: Commencement: [Sch. 7 para. 78](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/78) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-8ac83f9216f962bc8f8892dc3dbdbe46]: Commencement: [Sch. 7 para. 78](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/78) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-efbdd0b8eda877ee3dea808a0cb6ebe8]: Commencement: [Sch. 7 para. 79](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/79) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-efbdd0b8eda877ee3dea808a0cb6ebe8]: Commencement: [Sch. 7 para. 79](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/79) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-44357ba757c8cece4e60fb3bd0054043]: Commencement: [Sch. 7 para. 80](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/80) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-44357ba757c8cece4e60fb3bd0054043]: Commencement: [Sch. 7 para. 80](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/80) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-e7e003b07ca33ac44debbff8dad51775]: Commencement: [Sch. 7 para. 81](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/81) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-e7e003b07ca33ac44debbff8dad51775]: Commencement: [Sch. 7 para. 81](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/81) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-e556e6458f2a5c5c1ae5e380c767da51]: Commencement: [Sch. 7 para. 82](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/82) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-e556e6458f2a5c5c1ae5e380c767da51]: Commencement: [Sch. 7 para. 82](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/82) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-165b190f41e64d4de5e6d77fe1a4ff08]: Commencement: [Sch. 7 para. 83](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/83) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-165b190f41e64d4de5e6d77fe1a4ff08]: Commencement: [Sch. 7 para. 83](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/83) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-323ef624ba6b066c395720f213f39746]: Commencement: [Sch. 7 para. 84](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/84) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-323ef624ba6b066c395720f213f39746]: Commencement: [Sch. 7 para. 84](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/84) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(o)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/o) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-4c167b539a45ba50ee83f144a5d6d099]: Commencement: [Sch. 7 para. 85](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/85) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(x)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/x)
+[^c-4c167b539a45ba50ee83f144a5d6d099]: Commencement: [Sch. 7 para. 85](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/85) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(x)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/x)
 
-[^key-2a7c88f2930f841368c2552725d93194]: Commencement: [Sch. 7 para. 86](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/86) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(p)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/p) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-2a7c88f2930f841368c2552725d93194]: Commencement: [Sch. 7 para. 86](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/86) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(p)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/p) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-c1d706ea268b6d2bbfca52b6167a35bb]: Commencement: [Sch. 7 para. 87](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/87) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/iii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
+[^c-c1d706ea268b6d2bbfca52b6167a35bb]: Commencement: [Sch. 7 para. 87](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/87) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/iii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
 
-[^key-01688a859090b80f25d5bc6669c0b4ee]: Commencement: [Sch. 7 para. 88](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/88) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/iii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
+[^c-01688a859090b80f25d5bc6669c0b4ee]: Commencement: [Sch. 7 para. 88](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/88) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/iii) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by S.I. 2017/926, art. 2(3))
 
-[^key-b45ba37a36559d86dbeaec2466c355fe]: Commencement: Sch. 7 para. 89(a) in force at 1.4.2018 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(iv)(aa)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/aa) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by [S.I. 2017/926](https://www.legislation.gov.uk/uksi/2017/926), art. 2(3))
+[^c-b45ba37a36559d86dbeaec2466c355fe]: Commencement: Sch. 7 para. 89(a) in force at 1.4.2018 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(iv)(aa)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/aa) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by [S.I. 2017/926](https://www.legislation.gov.uk/uksi/2017/926), art. 2(3))
 
-[^key-d1f30d72671e66acf018b9c314c7a6aa]: Commencement: Sch. 7 para. 89(b) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(iv)(bb)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/bb) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by [S.I. 2017/926](https://www.legislation.gov.uk/uksi/2017/926), art. 2(3))
+[^c-d1f30d72671e66acf018b9c314c7a6aa]: Commencement: Sch. 7 para. 89(b) in force at 1.4.2018 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(e)(iv)(bb)](https://www.legislation.gov.uk/uksi/2017/462/article/5/e/bb) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14)) (as amended by [S.I. 2017/926](https://www.legislation.gov.uk/uksi/2017/926), art. 2(3))
 
-[^key-eb75ca04bd96947fe23a31ba35c909ff]: Commencement: [Sch. 7 para. 90](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/90) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xi)
+[^c-eb75ca04bd96947fe23a31ba35c909ff]: Commencement: [Sch. 7 para. 90](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/90) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xi)
 
-[^key-1afad0d74ff6b45436630faa163900ab]: Commencement: [Sch. 7 para. 92](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/92) in force at 1.10.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/ii) (as substituted by S.I. 2017/926, art. 2(2))
+[^c-1afad0d74ff6b45436630faa163900ab]: Commencement: [Sch. 7 para. 92](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/92) in force at 1.10.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/ii) (as substituted by S.I. 2017/926, art. 2(2))
 
-[^key-6b8569ec82c1cbfb95a214b40463bd46]: Commencement: [Sch. 7 para. 93](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/93) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xii)
+[^c-6b8569ec82c1cbfb95a214b40463bd46]: Commencement: [Sch. 7 para. 93](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/93) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xii)
 
-[^key-994432d6942073b46840f7d0ecd44a1a]: Commencement: [Sch. 7 para. 95](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/95) in force at 1.10.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(d)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/iii) (as substituted by S.I. 2017/926, art. 2(2))
+[^c-994432d6942073b46840f7d0ecd44a1a]: Commencement: [Sch. 7 para. 95](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/95) in force at 1.10.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(d)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/iii) (as substituted by S.I. 2017/926, art. 2(2))
 
-[^key-fdd69e17003db461404fa4ca4ffe50d3]: Commencement: [Sch. 7 para. 96](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/96) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xiii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xiii)
+[^c-fdd69e17003db461404fa4ca4ffe50d3]: Commencement: [Sch. 7 para. 96](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/96) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xiii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xiii)
 
-[^key-3ee1a9db4ee8ec81049e726b5cb26b28]: Commencement: [Sch. 7 para. 97](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/97) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/e/ii)
+[^c-3ee1a9db4ee8ec81049e726b5cb26b28]: Commencement: [Sch. 7 para. 97](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/97) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/e/ii)
 
-[^key-9824c243b7ec42fc92df3986f92cfe36]: Commencement: Sch. 7 para. 98(1) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(aa)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/aa)[(xiv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xiv)
+[^c-9824c243b7ec42fc92df3986f92cfe36]: Commencement: Sch. 7 para. 98(1) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(aa)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/aa)[(xiv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xiv)
 
-[^key-120dba7c191811aca0a533bcf0ea3b7c]: Commencement: Sch. 7 para. 98(1) in force at 1.10.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(d)(aa)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/aa)[(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/iv) (as substituted by [S.I. 2017/926](https://www.legislation.gov.uk/uksi/2017/926), art. 2(2))
+[^c-120dba7c191811aca0a533bcf0ea3b7c]: Commencement: Sch. 7 para. 98(1) in force at 1.10.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(d)(aa)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/aa)[(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/iv) (as substituted by [S.I. 2017/926](https://www.legislation.gov.uk/uksi/2017/926), art. 2(2))
 
-[^key-90f66aa8f86d0383e24f86237da96a63]: Commencement: Sch. 7 para. 98(2) in force at 1.10.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(d)(bb)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/bb)[(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/iv) (as substituted by [S.I. 2017/926](https://www.legislation.gov.uk/uksi/2017/926), art. 2(2))
+[^c-90f66aa8f86d0383e24f86237da96a63]: Commencement: Sch. 7 para. 98(2) in force at 1.10.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(d)(bb)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/bb)[(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/4/d/iv) (as substituted by [S.I. 2017/926](https://www.legislation.gov.uk/uksi/2017/926), art. 2(2))
 
-[^key-3e442d442e9ed568607d7d457811d603]: Commencement: Sch. 7 para. 98(3)(4) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(bb)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/bb)[(xiv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xiv)
+[^c-3e442d442e9ed568607d7d457811d603]: Commencement: Sch. 7 para. 98(3)(4) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(bb)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/bb)[(xiv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xiv)
 
-[^key-23f9b109c0835f058685027454ffb732]: Commencement: [Sch. 7 para. 99](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/99) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(q)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/q) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-23f9b109c0835f058685027454ffb732]: Commencement: [Sch. 7 para. 99](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/99) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(q)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/q) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-451a027dadd0b0b27f0e67e80c35d068]: Commencement: [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/100) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xv)
+[^c-451a027dadd0b0b27f0e67e80c35d068]: Commencement: [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/100) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xv)
 
-[^key-0df0dc0315ef4db71198790d2c3d6b24]: Commencement: [Sch. 7 para. 101](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/101) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(r)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/r) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-0df0dc0315ef4db71198790d2c3d6b24]: Commencement: [Sch. 7 para. 101](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/101) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(r)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/r) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-3fd8c6fc10cd4403a98502d3319c16c9]: Commencement: [Sch. 7 para. 102](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/102) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(r)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/r) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-3fd8c6fc10cd4403a98502d3319c16c9]: Commencement: [Sch. 7 para. 102](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/102) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(r)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/r) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-00241408c48b00576e2b588aab640d14]: Commencement: [Sch. 7 para. 103](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/103) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(r)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/r) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-00241408c48b00576e2b588aab640d14]: Commencement: [Sch. 7 para. 103](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/103) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(r)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/r) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-2ee1f3925524a1fac11e3d1b70f308ea]: Commencement: [Sch. 7 para. 105(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(s)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/s) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-2ee1f3925524a1fac11e3d1b70f308ea]: Commencement: [Sch. 7 para. 105(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(s)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/s) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-d0af08ba96e779a449d3a992ebec01c1]: Commencement: [Sch. 7 para. 105(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xvi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xvi)
+[^c-d0af08ba96e779a449d3a992ebec01c1]: Commencement: [Sch. 7 para. 105(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xvi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xvi)
 
-[^key-02d8db33a2029e61c6fb66d419152bf8]: Commencement: [Sch. 7 para. 105(2)(a)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/2/a) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(s)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/s) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-02d8db33a2029e61c6fb66d419152bf8]: Commencement: [Sch. 7 para. 105(2)(a)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/2/a) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(s)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/s) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-dbe90daff94c0df9a7edadfa84682473]: Commencement: [Sch. 7 para. 105(2)(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/2/b) [(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/3) [(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/4) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xvi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xvi)
+[^c-dbe90daff94c0df9a7edadfa84682473]: Commencement: [Sch. 7 para. 105(2)(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/2/b) [(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/3) [(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/105/4) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xvi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xvi)
 
-[^key-ae9e44da60f38725f23a39d93fe4e7c3]: Commencement: [Sch. 7 para. 108(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(u)(ii)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/u/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-ae9e44da60f38725f23a39d93fe4e7c3]: Commencement: [Sch. 7 para. 108(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(u)(ii)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/u/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-02f592156c48920d9e71a7621064b279]: Commencement: [Sch. 7 para. 108(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xvii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xvii)
+[^c-02f592156c48920d9e71a7621064b279]: Commencement: [Sch. 7 para. 108(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xvii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xvii)
 
-[^key-0420b5b14c3a586520e242e0340a409f]: Commencement: [Sch. 7 para. 108(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/2) [(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/3) [(4)(a)-(c)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/4/a) [(5)-(7)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/5) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(u)(i)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/u/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-0420b5b14c3a586520e242e0340a409f]: Commencement: [Sch. 7 para. 108(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/2) [(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/3) [(4)(a)-(c)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/4/a) [(5)-(7)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/5) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(u)(i)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/u/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-69c078174791685431ebd0005530b59b]: Commencement: [Sch. 7 para. 108(4)(d)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/4/d) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xvii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xvii)
+[^c-69c078174791685431ebd0005530b59b]: Commencement: [Sch. 7 para. 108(4)(d)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/108/4/d) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xvii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xvii)
 
-[^key-1c17861ead159ca858e1ae34ac9170a5]: Commencement: [Sch. 7 para. 109](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/109) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(v)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/v) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-1c17861ead159ca858e1ae34ac9170a5]: Commencement: [Sch. 7 para. 109](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/109) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(v)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/v) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-a3126ce0e9a99699a2c692fb1e94bd4a]: Commencement: [Sch. 7 para. 110](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/110) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(v)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/v) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-a3126ce0e9a99699a2c692fb1e94bd4a]: Commencement: [Sch. 7 para. 110](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/110) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(v)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/v) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-fda0d645229c4c17832f272f63f67496]: Commencement: [Sch. 7 para. 111](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/111) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xviii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xviii)
+[^c-fda0d645229c4c17832f272f63f67496]: Commencement: [Sch. 7 para. 111](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/111) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xviii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xviii)
 
-[^key-5ea110f0d882d6a3957c8a716a569e1f]: Commencement: [Sch. 7 para. 112(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/112/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(w)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/w) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-5ea110f0d882d6a3957c8a716a569e1f]: Commencement: [Sch. 7 para. 112(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/112/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(w)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/w) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-17e087d50040c998f41c8c21824069cd]: Commencement: [Sch. 7 para. 112(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/112/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xix)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xix)
+[^c-17e087d50040c998f41c8c21824069cd]: Commencement: [Sch. 7 para. 112(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/112/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xix)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xix)
 
-[^key-e22beaa3ed83f2356e740c025406dffd]: Commencement: [Sch. 7 para. 112(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/112/2) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xix)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xix)
+[^c-e22beaa3ed83f2356e740c025406dffd]: Commencement: [Sch. 7 para. 112(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/112/2) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xix)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xix)
 
-[^key-4db88d6bf7f970ed38c0e5cdfd50d9d1]: Commencement: [Sch. 7 para. 112(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/112/3) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(w)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/w) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-4db88d6bf7f970ed38c0e5cdfd50d9d1]: Commencement: [Sch. 7 para. 112(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/112/3) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(w)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/w) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-cf04e647fba18906b0b3bf7a61638f8e]: Commencement: [Sch. 7 para. 113](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/113) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(x)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/x) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-cf04e647fba18906b0b3bf7a61638f8e]: Commencement: [Sch. 7 para. 113](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/113) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(x)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/x) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-f57f67db859ea3e9a6347e7bb534a639]: Commencement: [Sch. 7 para. 114](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/114) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(x)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/x) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-f57f67db859ea3e9a6347e7bb534a639]: Commencement: [Sch. 7 para. 114](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/114) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(x)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/x) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-594e8ee8f90f3b178f6f0791097ece8a]: Commencement: [Sch. 7 para. 115(a)(c)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/115/a/c) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xx)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xx)
+[^c-594e8ee8f90f3b178f6f0791097ece8a]: Commencement: [Sch. 7 para. 115(a)(c)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/115/a/c) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xx)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xx)
 
-[^key-43a0a57b72fe8720dfdd94f2107ba29d]: Commencement: Sch. 7 para. 115(b) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(y)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/y) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-43a0a57b72fe8720dfdd94f2107ba29d]: Commencement: Sch. 7 para. 115(b) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(y)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/y) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-99d976f6289579ad9873353067d064d4]: Commencement: [Sch. 7 para. 116](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/116) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(z)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/z) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-99d976f6289579ad9873353067d064d4]: Commencement: [Sch. 7 para. 116](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/116) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(z)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/z) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-e946b01de7a71131355200ace21f5e62]: Commencement: [Sch. 7 para. 117](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/117) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(z)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/z) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-e946b01de7a71131355200ace21f5e62]: Commencement: [Sch. 7 para. 117](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/117) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(z)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/z) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-3285ffa38437bf1d86e47807c0121db9]: Commencement: [Sch. 7 para. 118](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/118) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxi)
+[^c-3285ffa38437bf1d86e47807c0121db9]: Commencement: [Sch. 7 para. 118](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/118) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxi)
 
-[^key-70bf4c3964c92a4203f01c2e23c24bb1]: Commencement: [Sch. 7 para. 119(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/119/1) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(iv)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/iv)
+[^c-70bf4c3964c92a4203f01c2e23c24bb1]: Commencement: [Sch. 7 para. 119(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/119/1) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(iv)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/iv)
 
-[^key-b795ee4f09a92ed2073c34f5e4749c89]: Commencement: [Sch. 7 para. 119(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/119/4) in force at 1.11.2016 by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(v)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/v)
+[^c-b795ee4f09a92ed2073c34f5e4749c89]: Commencement: [Sch. 7 para. 119(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/119/4) in force at 1.11.2016 by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(v)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/v)
 
-[^key-871d2fbb28df09c19fbcfdba204033ab]: Commencement: Sch. 7 para. 120(1) in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/e/iii)
+[^c-871d2fbb28df09c19fbcfdba204033ab]: Commencement: Sch. 7 para. 120(1) in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/e/iii)
 
-[^key-9c66d69efacf69263a135aa35471dd6a]: Commencement: Sch. 7 para. 120(1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(aa)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/aa) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-9c66d69efacf69263a135aa35471dd6a]: Commencement: Sch. 7 para. 120(1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(aa)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/aa) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-aff29d3409f13728d291fc1345e17547]: Commencement: Sch. 7 para. 120(1) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(vi)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/vi)
+[^c-aff29d3409f13728d291fc1345e17547]: Commencement: Sch. 7 para. 120(1) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(vi)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/vi)
 
-[^key-4c35aa5537eecb974b388f3c1f5d5aba]: Commencement: Sch. 7 para. 120(1) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxii)(aa)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxii/aa)
+[^c-4c35aa5537eecb974b388f3c1f5d5aba]: Commencement: Sch. 7 para. 120(1) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxii)(aa)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxii/aa)
 
-[^key-1bae230e94167ca42163d1c7c7c4f687]: Commencement: Sch. 7 para. 120(2)(a) (c)-(g) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(aa)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/aa) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-1bae230e94167ca42163d1c7c7c4f687]: Commencement: Sch. 7 para. 120(2)(a) (c)-(g) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(aa)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/aa) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-619252729b12f8d5617bb8d6ccf21bdb]: Commencement: Sch. 7 para. 120(2)(b) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(e)(iv)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/e/iv)
+[^c-619252729b12f8d5617bb8d6ccf21bdb]: Commencement: Sch. 7 para. 120(2)(b) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(e)(iv)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/e/iv)
 
-[^key-c0a2eac1b5e00da6b9897a90aa6ff204]: Commencement: Sch. 7 para. 120(3) in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(e)(v)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/e/v)
+[^c-c0a2eac1b5e00da6b9897a90aa6ff204]: Commencement: Sch. 7 para. 120(3) in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(e)(v)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/e/v)
 
-[^key-d47318084014330e69f3acabc1bc5967]: Commencement: Sch. 7 para. 120(3) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(vii)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/vii)
+[^c-d47318084014330e69f3acabc1bc5967]: Commencement: Sch. 7 para. 120(3) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(h)(vii)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/h/vii)
 
-[^key-079b3300d17711ea6a87f568b884d282]: Commencement: Sch. 7 para. 120(3) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxii)(bb)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxii/bb)
+[^c-079b3300d17711ea6a87f568b884d282]: Commencement: Sch. 7 para. 120(3) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxii)(bb)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxii/bb)
 
-[^key-45af15a9c33a9c5832264ea0b6718790]: Commencement: [Sch. 7 para. 121](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/121) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(bb)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/bb) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-45af15a9c33a9c5832264ea0b6718790]: Commencement: [Sch. 7 para. 121](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/121) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(bb)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/bb) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-e5f311a8bf5262cdba34b339b5bc6127]: Commencement: [Sch. 7 para. 122](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/122) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(bb)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/bb) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-e5f311a8bf5262cdba34b339b5bc6127]: Commencement: [Sch. 7 para. 122](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/122) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(bb)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/bb) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-9272f621eb99b8355e8831e1ecae4fa3]: Commencement: [Sch. 7 para. 123](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/123) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxiii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxiii)
+[^c-9272f621eb99b8355e8831e1ecae4fa3]: Commencement: [Sch. 7 para. 123](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/123) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxiii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxiii)
 
-[^key-3c045f7204fb779e366f2bcbf0998c28]: Commencement: [Sch. 7 para. 124](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/124) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(cc)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/cc) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-3c045f7204fb779e366f2bcbf0998c28]: Commencement: [Sch. 7 para. 124](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/124) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(cc)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/cc) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-57c0988dc369bf1e365d881b58ce05a9]: Commencement: [Sch. 7 para. 125](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/125) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(cc)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/cc) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-57c0988dc369bf1e365d881b58ce05a9]: Commencement: [Sch. 7 para. 125](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/125) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(cc)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/cc) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-ff6238c6151c7824e5cb3a460040b03b]: Commencement: [Sch. 7 para. 126](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/126) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(cc)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/cc) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-ff6238c6151c7824e5cb3a460040b03b]: Commencement: [Sch. 7 para. 126](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/126) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(cc)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/cc) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-32161c8773963f5bc9bcfd3de96e2800]: Commencement: [Sch. 7 para. 127](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/127) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(cc)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/cc) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-32161c8773963f5bc9bcfd3de96e2800]: Commencement: [Sch. 7 para. 127](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/127) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(cc)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/cc) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-24b5eef0942eceb1834d7ebc80786f00]: Commencement: [Sch. 7 para. 128](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/128) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxiv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxiv)
+[^c-24b5eef0942eceb1834d7ebc80786f00]: Commencement: [Sch. 7 para. 128](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/128) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxiv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxiv)
 
-[^key-d06f414fcf3eac33b25f691791459383]: Commencement: [Sch. 7 para. 129](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/129) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxiv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxiv)
+[^c-d06f414fcf3eac33b25f691791459383]: Commencement: [Sch. 7 para. 129](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/129) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxiv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxiv)
 
-[^key-b6d429b2d74fd5c3f637e66bb5e84ec5]: Commencement: [Sch. 7 para. 130](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/130) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxiv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxiv)
+[^c-b6d429b2d74fd5c3f637e66bb5e84ec5]: Commencement: [Sch. 7 para. 130](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/130) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxiv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxiv)
 
-[^key-f5314c7916f512e927fb230123987b93]: Commencement: [Sch. 7 para. 131](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/131) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(dd)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/dd) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-f5314c7916f512e927fb230123987b93]: Commencement: [Sch. 7 para. 131](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/131) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(dd)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/dd) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-7e07f7600f1ec32869b09d84bd01efe8]: Commencement: [Sch. 7 para. 133](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/133) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(dd)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/dd) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-7e07f7600f1ec32869b09d84bd01efe8]: Commencement: [Sch. 7 para. 133](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/133) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(dd)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/dd) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-8f9c61b5e240c6486aa96a584d0dc7ea]: Commencement: [Sch. 7 para. 134](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/134) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(dd)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/dd) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-8f9c61b5e240c6486aa96a584d0dc7ea]: Commencement: [Sch. 7 para. 134](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/134) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(dd)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/dd) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-58f6069adbae216d9a1f850a16ec6c4f]: Textual amendment: Sch. 7 para. 135 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 98](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/98) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-58f6069adbae216d9a1f850a16ec6c4f]: Textual amendment: Sch. 7 para. 135 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 98](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/98) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-3f188cc16f9b7f80a79f77ad3f72a1cb]: Commencement: [Sch. 7 para. 136](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/136) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
+[^c-3f188cc16f9b7f80a79f77ad3f72a1cb]: Commencement: [Sch. 7 para. 136](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/136) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
 
-[^key-e0990fd2d6b95111968ab16e2f99a093]: Commencement: [Sch. 7 para. 137](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/137) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
+[^c-e0990fd2d6b95111968ab16e2f99a093]: Commencement: [Sch. 7 para. 137](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/137) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
 
-[^key-fe9f2a0c0f43668ccd179dd3a9e3708e]: Commencement: [Sch. 7 para. 138](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/138) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
+[^c-fe9f2a0c0f43668ccd179dd3a9e3708e]: Commencement: [Sch. 7 para. 138](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/138) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
 
-[^key-e08f3925f3055a6e452d67243486347e]: Commencement: [Sch. 7 para. 139](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/139) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
+[^c-e08f3925f3055a6e452d67243486347e]: Commencement: [Sch. 7 para. 139](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/139) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
 
-[^key-f4ce8ddae153f6f28aac3f4a81f1e87e]: Commencement: [Sch. 7 para. 140](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/140) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
+[^c-f4ce8ddae153f6f28aac3f4a81f1e87e]: Commencement: [Sch. 7 para. 140](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/140) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
 
-[^key-202dc1059066418905383c306229d845]: Commencement: [Sch. 7 para. 141](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/141) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
+[^c-202dc1059066418905383c306229d845]: Commencement: [Sch. 7 para. 141](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/141) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
 
-[^key-ff2f782fe105fc5203ea39459b3e8c40]: Commencement: [Sch. 7 para. 142](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/142) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
+[^c-ff2f782fe105fc5203ea39459b3e8c40]: Commencement: [Sch. 7 para. 142](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/142) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
 
-[^key-6d3feab21012e6fa0f1441e9285b79dc]: Commencement: [Sch. 7 para. 143](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/143) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(g)(iv)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/g/iv)
+[^c-6d3feab21012e6fa0f1441e9285b79dc]: Commencement: [Sch. 7 para. 143](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/143) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(g)(iv)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/g/iv)
 
-[^key-6f8ca72f910ef56f785954e4e8cff1b9]: Commencement: [Sch. 7 para. 143](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/143) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(ff)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/ff) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-6f8ca72f910ef56f785954e4e8cff1b9]: Commencement: [Sch. 7 para. 143](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/143) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(ff)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/ff) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-cd33c77cb9c5e9b89b79abc251860c04]: Commencement: [Sch. 7 para. 144](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/144) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(ff)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/ff) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-cd33c77cb9c5e9b89b79abc251860c04]: Commencement: [Sch. 7 para. 144](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/144) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(ff)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/ff) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-bc172d517c0834c1d3cc932027270e0b]: Commencement: [Sch. 7 para. 147](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/147) in force at 18.12.2015 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(g)(iii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/g/iii)
+[^c-bc172d517c0834c1d3cc932027270e0b]: Commencement: [Sch. 7 para. 147](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/147) in force at 18.12.2015 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(g)(iii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/g/iii)

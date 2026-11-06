@@ -24,7 +24,7 @@ Section 172
 
 ### PART 1 — Programme services: watershed
 
-#### 1. Television programme services[^key-30c3279e69b65b35b0fce23d95e1f680]
+#### 1. Television programme services[^c-30c3279e69b65b35b0fce23d95e1f680]
 
 After section 321 of the Communications Act 2003 insert—
 
@@ -59,7 +59,7 @@ After section 321 of the Communications Act 2003 insert—
 >
 > (9) A statutory instrument containing regulations under subsection (7) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-#### 2. On-demand programme services[^key-441a845e55f9f362332a6f145481b739]
+#### 2. On-demand programme services[^c-441a845e55f9f362332a6f145481b739]
 
 After section 368F of the Communications Act 2003 insert—
 
@@ -93,7 +93,7 @@ After section 368F of the Communications Act 2003 insert—
 
 ### PART 2 — Online services: prohibition
 
-**3.**[^key-e920ba33ac535bd8041f8fd96a1bc611] In the Communications Act 2003, after Part 4B insert—
+**3.**[^c-e920ba33ac535bd8041f8fd96a1bc611] In the Communications Act 2003, after Part 4B insert—
 
 > **PART 4C — Online advertising of less healthy food and drink**
 >
@@ -325,15 +325,15 @@ After section 368F of the Communications Act 2003 insert—
 
 ### PART 3 — Consequential amendments
 
-**4.**[^key-768f279e4ab7218e7bb8443f8427552c] The Communications Act 2003 is amended as follows.
+**4.**[^c-768f279e4ab7218e7bb8443f8427552c] The Communications Act 2003 is amended as follows.
 
-**5.**[^key-acc4fd43006dd57efca60fcdf68557f8] In section 368C (on-demand programme services: duties of the appropriate regulatory authority), after subsection (5) insert—
+**5.**[^c-acc4fd43006dd57efca60fcdf68557f8] In section 368C (on-demand programme services: duties of the appropriate regulatory authority), after subsection (5) insert—
 
 > (6) The appropriate regulatory authority must draw up and, from time to time, review and revise, guidance setting out their intentions concerning the exercise of their functions under this Part in relation to the prohibition imposed by section 368FA (advertising: less healthy food and drink).
 >
 > (7) The appropriate regulatory authority must consult the Secretary of State before drawing up or revising guidance under subsection (6).
 
-**6.**[^key-49fd8c6ce62508b9fc8643a2caaa7fa7] In section 402(2) (instruments subject to negative procedure) —
+**6.**[^c-49fd8c6ce62508b9fc8643a2caaa7fa7] In section 402(2) (instruments subject to negative procedure) —
 
 - (a) in paragraph (a) omit “or regulations under section 368BC”;
 - (b) after paragraph (a) insert—
@@ -349,14 +349,14 @@ After section 368F of the Communications Act 2003 insert—
 
 ## Annotations
 
-[^key-30c3279e69b65b35b0fce23d95e1f680]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/1) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
+[^c-30c3279e69b65b35b0fce23d95e1f680]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/1) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
 
-[^key-441a845e55f9f362332a6f145481b739]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/2) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
+[^c-441a845e55f9f362332a6f145481b739]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/2) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
 
-[^key-e920ba33ac535bd8041f8fd96a1bc611]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/3) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
+[^c-e920ba33ac535bd8041f8fd96a1bc611]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/3) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
 
-[^key-768f279e4ab7218e7bb8443f8427552c]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/4) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
+[^c-768f279e4ab7218e7bb8443f8427552c]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/4) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
 
-[^key-acc4fd43006dd57efca60fcdf68557f8]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/5) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
+[^c-acc4fd43006dd57efca60fcdf68557f8]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/5) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
 
-[^key-49fd8c6ce62508b9fc8643a2caaa7fa7]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/6) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
+[^c-49fd8c6ce62508b9fc8643a2caaa7fa7]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/6) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)

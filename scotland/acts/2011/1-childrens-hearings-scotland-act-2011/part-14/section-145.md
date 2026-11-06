@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 145. Duty where order requires child to reside in certain place[^key-17534c0acfd9e46f4ac266720c5f321c][^key-5fb887447a74372753b827e1252af4cd]
+## 145. Duty where order requires child to reside in certain place[^c-17534c0acfd9e46f4ac266720c5f321c][^c-5fb887447a74372753b827e1252af4cd]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17534c0acfd9e46f4ac266720c5f321c]: Commencement: S. 145 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-17534c0acfd9e46f4ac266720c5f321c]: Commencement: S. 145 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-5fb887447a74372753b827e1252af4cd]: Modification: [S. 145](https://www.legislation.gov.uk/asp/2011/1/section/145) modified (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(5)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/5)
+[^c-5fb887447a74372753b827e1252af4cd]: Modification: [S. 145](https://www.legislation.gov.uk/asp/2011/1/section/145) modified (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(5)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/5)

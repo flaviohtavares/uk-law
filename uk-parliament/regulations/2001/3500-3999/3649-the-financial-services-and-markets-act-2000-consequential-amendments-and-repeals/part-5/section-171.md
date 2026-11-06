@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Appeals to the Secretary of State[^key-8023a8c07639334f34bd5a68e5a8cee3]
+## 171. Appeals to the Secretary of State[^c-8023a8c07639334f34bd5a68e5a8cee3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In the table at the end of section 41 of the Consumer Credit Act 1974 (appeals t
 
 ## Annotations
 
-[^key-8023a8c07639334f34bd5a68e5a8cee3]: Commencement: Art. 171 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8023a8c07639334f34bd5a68e5a8cee3]: Commencement: Art. 171 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

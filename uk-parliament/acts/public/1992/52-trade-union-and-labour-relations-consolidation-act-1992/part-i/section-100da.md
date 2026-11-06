@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100DA. Electronic voting[^key-43be7aef81c2253a2b130251d00bc135]
+## 100DA. Electronic voting[^c-43be7aef81c2253a2b130251d00bc135]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where electronic voting is a selected means of voting for a ballot, Parts 1 and 
 
 ## Annotations
 
-[^key-43be7aef81c2253a2b130251d00bc135]: Textual amendment: Ss. 100DA, 100DB and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(10)](https://www.legislation.gov.uk/uksi/2026/881/article/5/10) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-43be7aef81c2253a2b130251d00bc135]: Textual amendment: Ss. 100DA, 100DB and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(10)](https://www.legislation.gov.uk/uksi/2026/881/article/5/10) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

@@ -45,11 +45,11 @@ Coming into force
 
 In exercise of the powers conferred on the Secretary of State by sections 518 and 569(4) of the Education Act 1996[^f00001] the Secretary of State for Education and Skills hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-245d5935fb2754ff77325a2ff14f2f47]
+## 1. Citation and commencement[^c-245d5935fb2754ff77325a2ff14f2f47]
 
 These Regulations may be cited as the Education Maintenance Allowance (Pilot Areas) Regulations 2001 and shall come into force on 20th August 2001.
 
-## 2. Interpretation[^key-2b9210f4ac60fc7c2d618e85bd17149d]
+## 2. Interpretation[^c-2b9210f4ac60fc7c2d618e85bd17149d]
 
 (1) In these Regulations—
 
@@ -111,7 +111,7 @@ These Regulations may be cited as the Education Maintenance Allowance (Pilot Are
 - (a) the school year in which the student was in a class in which the majority of the students reached the age of 16, where the student attended school; or
 - (b) the academic year in which the student reached the age of 16, where the student did not attend school.
 
-## 3. Payment of education maintenance allowance[^key-32944439fea47d2eaedfb5ea317d70ed]
+## 3. Payment of education maintenance allowance[^c-32944439fea47d2eaedfb5ea317d70ed]
 
 (1) Subject to paragraph (2) and the provisions of these Regulations a relevant authority may, in respect of any academic year, pay any of the allowances specified in regulation 8, 9, 10 or 11 in respect of any student over compulsory school age if—
 
@@ -127,7 +127,7 @@ These Regulations may be cited as the Education Maintenance Allowance (Pilot Are
 
 (3) Nothing in regulation 4 of the Local Education Authority (Post-Compulsory Education Awards) Regulations 1999[^f00008] shall apply in relation to the payment of any of the allowances specified in regulations 8, 9, 10 or 11.
 
-## 4. Residence condition[^key-c53fd50ea5b164a1157fe9fcdc18befd]
+## 4. Residence condition[^c-c53fd50ea5b164a1157fe9fcdc18befd]
 
 The condition specified in this regulation is—
 
@@ -135,7 +135,7 @@ The condition specified in this regulation is—
 - (b) where the student was an independent student, that the student was ordinarily resident in a relevant area on any date during the relevant period; or
 - (c) that the student was a looked after student at any time during the relevant period.
 
-## 5. Income condition[^key-5c094779d1117d4814aabc894860b540]
+## 5. Income condition[^c-5c094779d1117d4814aabc894860b540]
 
 (1) The condition specified in this Regulation is—
 
@@ -190,7 +190,7 @@ whether or not, in either case, it would be so computed apart from the provision
   - (c) £30,000 in any other case;
 - “the relevant parent” means (where the student’s parents do not live together as husband and wife), the parent with whom the student normally resides, or where the student is not an independent student but does not normally reside with either of his parents, whichever of the student’s parents as the authority determines.
 
-## 6. Other Conditions[^key-7851ddc39c61b78fc75c8eaaba3ed17a]
+## 6. Other Conditions[^c-7851ddc39c61b78fc75c8eaaba3ed17a]
 
 (1) The conditions specified in this regulation are—
 
@@ -217,7 +217,7 @@ whether or not, in either case, it would be so computed apart from the provision
 
 (3) Paragraph (1)(b) shall not apply to the extent that the relevant authority consider that it would be impracticable by reason of any disability for the parent of the student or the student to sign the education maintenance allowance learning agreement.
 
-## 7. Meaning of education maintenance allowance learning agreement[^key-98173522cdfcda6c2dcd27a7580ab213]
+## 7. Meaning of education maintenance allowance learning agreement[^c-98173522cdfcda6c2dcd27a7580ab213]
 
 (1) For the purposes of these Regulations an education maintenance allowance learning agreement is a document—
 
@@ -233,7 +233,7 @@ whether or not, in either case, it would be so computed apart from the provision
 
 (2) Where a student is to be educated other than at an institution paragraph (1) shall have effect as if for “the institution” there were substituted “the local education authority”.
 
-## 8. Weekly allowance[^key-03658033d9d823e57690c293e2e25837]
+## 8. Weekly allowance[^c-03658033d9d823e57690c293e2e25837]
 
 (1) Except as provided in paragraph (7) and subject to paragraphs (2) and (4) an allowance (“a weekly allowance”) may be paid in respect of each week during which the student—
 
@@ -281,7 +281,7 @@ whether or not, in either case, it would be so computed apart from the provision
 
 (8) In the regulation “training allowance” means a payment made by the Secretary of State to the student in connection with his use of facilities arranged by the Secretary of State pursuant to section 2 of the Employment and Training Act 1973[^f00014], or a payment made by the Learning and Skills Council for England to the student under section 5(1)(c) of the Learning and Skills Act 2000.
 
-## 9. Termly bonus[^key-3c0133d6362406b635e45904471d8136]
+## 9. Termly bonus[^c-3c0133d6362406b635e45904471d8136]
 
 (1) Except as provided in paragraph (6) or where paragraph (2) or (3) applies, and subject to paragraph (4), an allowance (“a termly bonus”) may be paid in respect of any term period where the institution has notified the relevant authority that in its opinion the student has attended the institution for the apropriate percentage of the hours for which he is expected to attend in accordance with the education maintenance allowance learning agreement and has otherwise done everything else that is expected of him in accordance with the learning agreement or had good reason for failing to do so.
 
@@ -310,7 +310,7 @@ whether or not, in either case, it would be so computed apart from the provision
 
 (6) No termly bonus may be paid where the relevant authority is North East Lincolnshire or Worcestershire.
 
-## 10. Achievement bonus[^key-266a7cb70ed19ff8ce3a7804b875dfc2]
+## 10. Achievement bonus[^c-266a7cb70ed19ff8ce3a7804b875dfc2]
 
 (1) Except as provided in paragraph (5) and subject to paragraph (2) an allowance (“an achievement bonus”) may be paid in respect of any student who achieves any learning goal specified in the education maintenance allowance learning agreement arising from being in full-time education.
 
@@ -325,7 +325,7 @@ whether or not, in either case, it would be so computed apart from the provision
 
 (4) No achievement bonus may be paid where the relevant authority is North East Lincolnshire or Worcestershire.
 
-## 11. Special allowance[^key-0038d8b494691a97dd8cae258a64fc89]
+## 11. Special allowance[^c-0038d8b494691a97dd8cae258a64fc89]
 
 (1) Where the relevant authority is Cornwall, Nottingham, Stoke-on-Trent or Walsall an allowance may be paid in respect of any student—
 
@@ -339,7 +339,7 @@ if the conditions in paragraph (2) are satisfied.
 - (a) the period during which she did not do everything that was expected of her in accordance with the education maintenance allowance learning agreement does not exceed 18 weeks; and
 - (b) after the expiry of the period referred to in sub-paragraph (a) above, she does everything that is expected of her in accordance with the learning agreement for a continuous period of 4 weeks unless in the opinion of the institution (or the relevant authority where the student is educated otherwise than at a relevant educational establishment), she has good reason for failing to do so.
 
-## 12. Revocation[^key-d0ae29950ba8fc4c36218e3e0e639499]
+## 12. Revocation[^c-d0ae29950ba8fc4c36218e3e0e639499]
 
 The Education Maintenance Allowance (Pilot Areas) Regulations 2000 are hereby revoked.
 
@@ -355,7 +355,7 @@ Department for Education and Skills
 
 Regulation 2
 
-### PART I[^key-6c76bd444c8bf5e4d2bda095ca8bb381]
+### PART I[^c-6c76bd444c8bf5e4d2bda095ca8bb381]
 
 - Bolton
 - Cornwall
@@ -373,7 +373,7 @@ Regulation 2
 - Stoke-on-Trent
 - Walsall
 
-### PART II[^key-42bcad1577f99e4c71e91424800c0fbd]
+### PART II[^c-42bcad1577f99e4c71e91424800c0fbd]
 
 - Barking & Dagenham
 - Barnsley
@@ -433,9 +433,9 @@ The main differences between these Regulations and the 2000 Regulations are chan
 
 [^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 518 was substituted by section 129 of the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31). By virtue of S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672) the powers conferred by this section are exercisable by the Secretary of State only in relation to England.
 
-[^key-245d5935fb2754ff77325a2ff14f2f47]: Commencement: Reg. 1 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-245d5935fb2754ff77325a2ff14f2f47]: Commencement: Reg. 1 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
-[^key-2b9210f4ac60fc7c2d618e85bd17149d]: Commencement: Reg. 2 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-2b9210f4ac60fc7c2d618e85bd17149d]: Commencement: Reg. 2 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
 [^f00002]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -449,40 +449,40 @@ The main differences between these Regulations and the 2000 Regulations are chan
 
 [^f00007]: Footnote: [1989 c. 49](https://www.legislation.gov.uk/ukpga/1989/49).
 
-[^key-32944439fea47d2eaedfb5ea317d70ed]: Commencement: Reg. 3 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-32944439fea47d2eaedfb5ea317d70ed]: Commencement: Reg. 3 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
 [^f00008]: Footnote: S.I. [1999/229](https://www.legislation.gov.uk/uksi/1999/229); amended by S.I. [2000/2057](https://www.legislation.gov.uk/uksi/2000/2057).
 
-[^key-c53fd50ea5b164a1157fe9fcdc18befd]: Commencement: Reg. 4 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-c53fd50ea5b164a1157fe9fcdc18befd]: Commencement: Reg. 4 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
-[^key-5c094779d1117d4814aabc894860b540]: Commencement: Reg. 5 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-5c094779d1117d4814aabc894860b540]: Commencement: Reg. 5 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
 [^f00009]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48); amended by the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19).
 
 [^f00010]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-7851ddc39c61b78fc75c8eaaba3ed17a]: Commencement: Reg. 6 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-7851ddc39c61b78fc75c8eaaba3ed17a]: Commencement: Reg. 6 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
 [^f00011]: Footnote: S.I. [2000/2012](https://www.legislation.gov.uk/uksi/2000/2012).
 
 [^f00012]: Footnote: The regulations currently in force are the Education (Grants etc.) (Dance and Drama) (England) Regulations 2000 (S.I. [2000/2144](https://www.legislation.gov.uk/uksi/2000/2144)).
 
-[^key-98173522cdfcda6c2dcd27a7580ab213]: Commencement: Reg. 7 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-98173522cdfcda6c2dcd27a7580ab213]: Commencement: Reg. 7 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
-[^key-03658033d9d823e57690c293e2e25837]: Commencement: Reg. 8 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-03658033d9d823e57690c293e2e25837]: Commencement: Reg. 8 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
 [^f00013]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
 [^f00014]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by section 25 of the Employment Act [1998 (c. 19)](https://www.legislation.gov.uk/ukpga/1998/19) and subsections (4) and (6) were repealed by the Employment Act [1989 (c. 38)](https://www.legislation.gov.uk/ukpga/1989/38) Schedule 7 Part I.
 
-[^key-3c0133d6362406b635e45904471d8136]: Commencement: Reg. 9 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-3c0133d6362406b635e45904471d8136]: Commencement: Reg. 9 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
-[^key-266a7cb70ed19ff8ce3a7804b875dfc2]: Commencement: Reg. 10 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-266a7cb70ed19ff8ce3a7804b875dfc2]: Commencement: Reg. 10 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
-[^key-0038d8b494691a97dd8cae258a64fc89]: Commencement: Reg. 11 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-0038d8b494691a97dd8cae258a64fc89]: Commencement: Reg. 11 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
-[^key-d0ae29950ba8fc4c36218e3e0e639499]: Commencement: Reg. 12 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-d0ae29950ba8fc4c36218e3e0e639499]: Commencement: Reg. 12 in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
-[^key-6c76bd444c8bf5e4d2bda095ca8bb381]: Commencement: Sch. Pt. I in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-6c76bd444c8bf5e4d2bda095ca8bb381]: Commencement: Sch. Pt. I in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
 
-[^key-42bcad1577f99e4c71e91424800c0fbd]: Commencement: Sch. Pt. II in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)
+[^c-42bcad1577f99e4c71e91424800c0fbd]: Commencement: Sch. Pt. II in force at 20.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2750/regulation/1)

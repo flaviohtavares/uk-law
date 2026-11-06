@@ -22,7 +22,7 @@ summary: ''
 
 (1) If it appears to the comptroller that an invention for which a patent has been granted formed part of the state of the art by virtue only of section 2(3) above, he may on his own initiative by order revoke the patent, but shall not do so without giving the proprietor of the patent an opportunity of making any observations and of amending the specification of the patent so as to exclude any matter which formed part of the state of the art as aforesaid without contravening section 76 below.
 
-(1A)[^key-1cac2e225655a521c2e8a33dd74f8cf8] Where the comptroller issues an opinion under section 74A that section 1(1)(a) or (b) is not satisfied in relation to an invention for which there is a patent, the comptroller may revoke the patent.
+(1A)[^c-1cac2e225655a521c2e8a33dd74f8cf8] Where the comptroller issues an opinion under section 74A that section 1(1)(a) or (b) is not satisfied in relation to an invention for which there is a patent, the comptroller may revoke the patent.
 
 (1B) The power under subsection (1A) may not be exercised before—
 
@@ -44,6 +44,6 @@ and he shall not then take any action if the decision is not to maintain the Eur
 
 ## Annotations
 
-[^key-1cac2e225655a521c2e8a33dd74f8cf8]: Textual amendment: S. 73(1A)-(1C) inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 16(4)](https://www.legislation.gov.uk/ukpga/2014/18/section/16/4), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2014/2330/article/6))
+[^c-1cac2e225655a521c2e8a33dd74f8cf8]: Textual amendment: S. 73(1A)-(1C) inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 16(4)](https://www.legislation.gov.uk/ukpga/2014/18/section/16/4), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2014/2330/article/6))
 
 [^c8020961]: Textual amendment: S. 73(2)(3)(4) substituted for subsections (2) and (3) by [Copyright, Designs and Patents Act 1988 (c. 48, SIF 67A)](https://www.legislation.gov.uk/ukpga/1988/48), [s. 295](https://www.legislation.gov.uk/ukpga/1988/48/section/295), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/1988/48/schedule/5/paragraph/19)

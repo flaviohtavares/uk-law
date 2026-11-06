@@ -32,7 +32,7 @@ summary: ''
 
 Customs And Excise
 
-The Customs (Contravention of a Relevant Rule) (Amendment) Regulations 2018 (revoked)[^key-192b91ed4b0f7d19597917d52cec8f1e]
+The Customs (Contravention of a Relevant Rule) (Amendment) Regulations 2018 (revoked)[^c-192b91ed4b0f7d19597917d52cec8f1e]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 9th May 2018
 
-[^key-192b91ed4b0f7d19597917d52cec8f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-192b91ed4b0f7d19597917d52cec8f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-192b91ed4b0f7d19597917d52cec8f1e]
+## 1. Citation and commencement[^c-192b91ed4b0f7d19597917d52cec8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^key-192b91ed4b0f7d19597917d52cec8f1e]
+## 2. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^c-192b91ed4b0f7d19597917d52cec8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2[^key-192b91ed4b0f7d19597917d52cec8f1e]
+## 3. Amendment of regulation 2[^c-192b91ed4b0f7d19597917d52cec8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Schedule[^key-192b91ed4b0f7d19597917d52cec8f1e]
+## 4. Amendment of the Schedule[^c-192b91ed4b0f7d19597917d52cec8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-192b91ed4b0f7d19597917d52cec8f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-192b91ed4b0f7d19597917d52cec8f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-192b91ed4b0f7d19597917d52cec8f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-192b91ed4b0f7d19597917d52cec8f1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-192b91ed4b0f7d19597917d52cec8f1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/483) revoked (31.12.2020) by [The Customs (Contravention of a Relevant Rule) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1260)](https://www.legislation.gov.uk/uksi/2018/1260), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1260/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2018/1260/regulation/6); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-192b91ed4b0f7d19597917d52cec8f1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/483) revoked (31.12.2020) by [The Customs (Contravention of a Relevant Rule) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1260)](https://www.legislation.gov.uk/uksi/2018/1260), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1260/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2018/1260/regulation/6); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

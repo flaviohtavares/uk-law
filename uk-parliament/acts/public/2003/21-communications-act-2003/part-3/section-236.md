@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Direction to licensee to take remedial action[^key-9caf3992c45573b257d2559e5aa98db0]
+## 236. Direction to licensee to take remedial action[^c-9caf3992c45573b257d2559e5aa98db0]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) that the holder of a licence to provide a television licensable content service has contravened a condition of the licence; and
 - (b) that the contravention can be appropriately remedied by the inclusion in the licensed service of a correction or a statement of findings (or both).
 
-(2)[^key-4d054239ef5bebe701306f31798df38f] OFCOM may direct the licence holder to include a correction or a statement of findings (or both) in the licensed service.
+(2)[^c-4d054239ef5bebe701306f31798df38f] OFCOM may direct the licence holder to include a correction or a statement of findings (or both) in the licensed service.
 
 (3) A direction may require the correction or statement of findings to be in such form, and to be included in programmes at such time or times, as OFCOM may determine.
 
@@ -46,6 +46,6 @@ they must send a copy of the direction or representations to the Secretary of St
 
 ## Annotations
 
-[^key-9caf3992c45573b257d2559e5aa98db0]: Commencement: S. 236 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9caf3992c45573b257d2559e5aa98db0]: Commencement: S. 236 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4d054239ef5bebe701306f31798df38f]: Modification: S. 236(2) modified (20.7.2004) by [Contracting Out (Functions relating to Broadcast Advertising) and Specification of Relevant Functions Order 2004 (S.I. 2004/1975)](https://www.legislation.gov.uk/uksi/2004/1975), [art. 1](https://www.legislation.gov.uk/uksi/2004/1975/article/1), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2004/1975/schedule/paragraph/2/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/1975/article/5))
+[^c-4d054239ef5bebe701306f31798df38f]: Modification: S. 236(2) modified (20.7.2004) by [Contracting Out (Functions relating to Broadcast Advertising) and Specification of Relevant Functions Order 2004 (S.I. 2004/1975)](https://www.legislation.gov.uk/uksi/2004/1975), [art. 1](https://www.legislation.gov.uk/uksi/2004/1975/article/1), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2004/1975/schedule/paragraph/2/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/1975/article/5))

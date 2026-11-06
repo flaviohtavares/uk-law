@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Formalities of establishment[^key-0a7d89b224eadde2d968971ce1b37e15]
+## 105. Formalities of establishment[^c-0a7d89b224eadde2d968971ce1b37e15]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a7d89b224eadde2d968971ce1b37e15]: Commencement: [Rule 105](https://www.legislation.gov.uk/uksi/2011/1301/rule/105) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-0a7d89b224eadde2d968971ce1b37e15]: Commencement: [Rule 105](https://www.legislation.gov.uk/uksi/2011/1301/rule/105) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265. Amendment of Section A of Annex 2 to [Commission Regulation (EU) No 1321/2014](https://www.legislation.gov.uk/eur/2014/1321)[^key-77874fe369ac126bf68deb3f29886583]
+## 265. Amendment of Section A of Annex 2 to [Commission Regulation (EU) No 1321/2014](https://www.legislation.gov.uk/eur/2014/1321)[^c-77874fe369ac126bf68deb3f29886583]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (c) in point (j)—
   - (i) in points (1) and (2), for “Community territory” substitute “United Kingdom”;
   - (ii) in point (5), in the last paragraph, for “competent authority” substitute “CAA”;
-- (d)[^key-d592ce09816d340e8f4010eccffc0088] in point (k)(6), in each place the words occur, for “competent authority” substitute “CAA”.
+- (d)[^c-d592ce09816d340e8f4010eccffc0088] in point (k)(6), in each place the words occur, for “competent authority” substitute “CAA”.
 
 (4) In point 145.A.35(h), for “competent authorities, the Agency and the Member State” substitute “CAA”.
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77874fe369ac126bf68deb3f29886583]: Commencement: Reg. 265 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-77874fe369ac126bf68deb3f29886583]: Commencement: Reg. 265 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d592ce09816d340e8f4010eccffc0088]: Textual amendment: Reg. 265(3)(d) inserted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [25](https://www.legislation.gov.uk/uksi/2020/1116/regulation/25)
+[^c-d592ce09816d340e8f4010eccffc0088]: Textual amendment: Reg. 265(3)(d) inserted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [25](https://www.legislation.gov.uk/uksi/2020/1116/regulation/25)

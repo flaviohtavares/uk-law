@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E3B. Early retirement pension (redundancy etc. notifications)[^key-a34eee2796c72deba24f3a5639aa2017]
+## E3B. Early retirement pension (redundancy etc. notifications)[^c-a34eee2796c72deba24f3a5639aa2017]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a34eee2796c72deba24f3a5639aa2017]: Textual amendment: [Regs. E3-E3D](https://www.legislation.gov.uk/uksi/1995/300/regulation/E3) substituted for [reg. E3](https://www.legislation.gov.uk/uksi/1995/300/regulation/E3) (1.12.2006) by [The National Health Service (Pension Scheme and Compensation for Premature Retirement) Amendment Regulations 2006 (S.I. 2006/2919)](https://www.legislation.gov.uk/uksi/2006/2919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2919/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2006/2919/regulation/2/5)
+[^c-a34eee2796c72deba24f3a5639aa2017]: Textual amendment: [Regs. E3-E3D](https://www.legislation.gov.uk/uksi/1995/300/regulation/E3) substituted for [reg. E3](https://www.legislation.gov.uk/uksi/1995/300/regulation/E3) (1.12.2006) by [The National Health Service (Pension Scheme and Compensation for Premature Retirement) Amendment Regulations 2006 (S.I. 2006/2919)](https://www.legislation.gov.uk/uksi/2006/2919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2919/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2006/2919/regulation/2/5)

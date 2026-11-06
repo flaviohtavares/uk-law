@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Orders under section 91(14) of the Children Act 1989[^key-d5258907949c387b529be7b8a8e11f5c]
+## 67. Orders under section 91(14) of the Children Act 1989[^c-d5258907949c387b529be7b8a8e11f5c]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5258907949c387b529be7b8a8e11f5c]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2021/17/section/67) in force at 19.5.2022 by [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/2/1/b)
+[^c-d5258907949c387b529be7b8a8e11f5c]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2021/17/section/67) in force at 19.5.2022 by [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/2/1/b)

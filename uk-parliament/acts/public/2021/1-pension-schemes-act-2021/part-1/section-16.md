@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Systems and processes requirements[^c24458211][^key-208983a637385c62d02d9b2b6519f93b]
+## 16. Systems and processes requirements[^c24458211][^c-208983a637385c62d02d9b2b6519f93b]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c24458211]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/1/section/16) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-208983a637385c62d02d9b2b6519f93b]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/1/section/16) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-208983a637385c62d02d9b2b6519f93b]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/1/section/16) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

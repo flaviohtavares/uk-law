@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53A. Trade remedy repayment investigations[^key-fb966cbc792b530700cfbadec01ddd31][^key-1330cd76f553f3156a642275965fb126]
+## 53A. Trade remedy repayment investigations[^c-fb966cbc792b530700cfbadec01ddd31][^c-1330cd76f553f3156a642275965fb126]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb966cbc792b530700cfbadec01ddd31]: Modification: [Reg. 53A](https://www.legislation.gov.uk/uksi/2018/1248/regulation/53A) applied (with modifications) (24.12.2024) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 32A](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32A) (as inserted by [The Customs (Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1265)](https://www.legislation.gov.uk/uksi/2024/1265), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1265/regulation/1), [6](https://www.legislation.gov.uk/uksi/2024/1265/regulation/6))
+[^c-fb966cbc792b530700cfbadec01ddd31]: Modification: [Reg. 53A](https://www.legislation.gov.uk/uksi/2018/1248/regulation/53A) applied (with modifications) (24.12.2024) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 32A](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32A) (as inserted by [The Customs (Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1265)](https://www.legislation.gov.uk/uksi/2024/1265), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1265/regulation/1), [6](https://www.legislation.gov.uk/uksi/2024/1265/regulation/6))
 
-[^key-1330cd76f553f3156a642275965fb126]: Textual amendment: Reg. 53A inserted (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019 (S.I. 2019/486)](https://www.legislation.gov.uk/uksi/2019/486), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/486/regulation/1/3), [6(20)](https://www.legislation.gov.uk/uksi/2019/486/regulation/6/20) (as amended by [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346), [reg. 9(2)(c)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/9/2/c)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1330cd76f553f3156a642275965fb126]: Textual amendment: Reg. 53A inserted (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019 (S.I. 2019/486)](https://www.legislation.gov.uk/uksi/2019/486), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/486/regulation/1/3), [6(20)](https://www.legislation.gov.uk/uksi/2019/486/regulation/6/20) (as amended by [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346), [reg. 9(2)(c)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/9/2/c)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

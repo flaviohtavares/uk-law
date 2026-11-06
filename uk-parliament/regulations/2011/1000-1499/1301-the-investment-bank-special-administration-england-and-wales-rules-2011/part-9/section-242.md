@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 242. Directions[^key-b1c01102e795ca7b53622766f0804972]
+## 242. Directions[^c-b1c01102e795ca7b53622766f0804972]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The court may at any time give such directions as it thinks just as to—
 
 ## Annotations
 
-[^key-b1c01102e795ca7b53622766f0804972]: Commencement: [Rule 242](https://www.legislation.gov.uk/uksi/2011/1301/rule/242) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b1c01102e795ca7b53622766f0804972]: Commencement: [Rule 242](https://www.legislation.gov.uk/uksi/2011/1301/rule/242) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

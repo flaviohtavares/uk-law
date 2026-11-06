@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning
 
-The Town and Country Planning (Marine Fish Farming) (Scotland) Amendment Regulations 2012 (revoked)[^key-994cef2438ba8d01b1616042a61f34af]
+The Town and Country Planning (Marine Fish Farming) (Scotland) Amendment Regulations 2012 (revoked)[^c-994cef2438ba8d01b1616042a61f34af]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 10th November 2012
 
-[^key-994cef2438ba8d01b1616042a61f34af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-994cef2438ba8d01b1616042a61f34af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-994cef2438ba8d01b1616042a61f34af]
+## 1. Citation and commencement[^c-994cef2438ba8d01b1616042a61f34af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Town and Country Planning (Marine Fish Farming) (Scotland) Regulations 2007[^key-994cef2438ba8d01b1616042a61f34af]
+## 2. Amendment of the Town and Country Planning (Marine Fish Farming) (Scotland) Regulations 2007[^c-994cef2438ba8d01b1616042a61f34af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-994cef2438ba8d01b1616042a61f34af]
+## 3. Revocation[^c-994cef2438ba8d01b1616042a61f34af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-994cef2438ba8d01b1616042a61f34af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-994cef2438ba8d01b1616042a61f34af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-994cef2438ba8d01b1616042a61f34af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-994cef2438ba8d01b1616042a61f34af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-994cef2438ba8d01b1616042a61f34af]: Textual amendment: Regulations revoked (8.11.2013) by [The Town and Country Planning (Marine Fish Farming) (Scotland) Regulations 2013 (S.S.I. 2013/277)](https://www.legislation.gov.uk/ssi/2013/277), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/277/regulation/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2013/277/regulation/5/c)
+[^c-994cef2438ba8d01b1616042a61f34af]: Textual amendment: Regulations revoked (8.11.2013) by [The Town and Country Planning (Marine Fish Farming) (Scotland) Regulations 2013 (S.S.I. 2013/277)](https://www.legislation.gov.uk/ssi/2013/277), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/277/regulation/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2013/277/regulation/5/c)

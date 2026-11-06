@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.7. Application of other rules about procedure in the Court of Appeal[^key-251282e3c1e8f2133da3fff2e4d6703e]
+## 27.7. Application of other rules about procedure in the Court of Appeal[^c-251282e3c1e8f2133da3fff2e4d6703e]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ On an application under rule 27.4 (Application for order for retrial)—
 
 ## Annotations
 
-[^key-251282e3c1e8f2133da3fff2e4d6703e]: Commencement: [Rule 27.7](https://www.legislation.gov.uk/uksi/2025/909/rule/27.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-251282e3c1e8f2133da3fff2e4d6703e]: Commencement: [Rule 27.7](https://www.legislation.gov.uk/uksi/2025/909/rule/27.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00642]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 7 was amended by sections 43 and 170 of, and Schedule 16 to, the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33) and paragraph 44 of Schedule 36 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

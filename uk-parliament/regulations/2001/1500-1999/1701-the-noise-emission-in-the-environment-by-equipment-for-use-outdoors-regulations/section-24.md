@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Review[^key-58aa90c0b7d7cf9af4d5e4c6e8067bda]
+## 24. Review[^c-58aa90c0b7d7cf9af4d5e4c6e8067bda]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58aa90c0b7d7cf9af4d5e4c6e8067bda]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2001/1701/regulation/24) inserted (E.W.S) (13.4.2026) by [The Noise Emission in the Environment by Equipment for Use Outdoors (Amendment and Transitional) Regulations 2025 (S.I. 2025/1073)](https://www.legislation.gov.uk/uksi/2025/1073), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1073/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2025/1073/regulation/2/8)
+[^c-58aa90c0b7d7cf9af4d5e4c6e8067bda]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2001/1701/regulation/24) inserted (E.W.S) (13.4.2026) by [The Noise Emission in the Environment by Equipment for Use Outdoors (Amendment and Transitional) Regulations 2025 (S.I. 2025/1073)](https://www.legislation.gov.uk/uksi/2025/1073), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1073/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2025/1073/regulation/2/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47A. Meaning of “provider”[^key-517bcedc3cd0fde286e0aed30e2751c7]
+## 47A. Meaning of “provider”[^c-517bcedc3cd0fde286e0aed30e2751c7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ For the purposes of the definition of “provider” in section 99 of the Act (i
 
 ## Annotations
 
-[^key-517bcedc3cd0fde286e0aed30e2751c7]: Textual amendment: Reg. 47A inserted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [39](https://www.legislation.gov.uk/uksi/2012/215/regulation/39)
+[^c-517bcedc3cd0fde286e0aed30e2751c7]: Textual amendment: Reg. 47A inserted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [39](https://www.legislation.gov.uk/uksi/2012/215/regulation/39)

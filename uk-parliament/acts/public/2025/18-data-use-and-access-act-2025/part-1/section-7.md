@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Interface bodies[^key-a5f36ec61ee6692a3f3dfc0fce17340a][^key-49a5eaca435bbfe059b79b4905862c70]
+## 7. Interface bodies[^c-a5f36ec61ee6692a3f3dfc0fce17340a][^c-49a5eaca435bbfe059b79b4905862c70]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5f36ec61ee6692a3f3dfc0fce17340a]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-a5f36ec61ee6692a3f3dfc0fce17340a]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-49a5eaca435bbfe059b79b4905862c70]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/18/section/7) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-49a5eaca435bbfe059b79b4905862c70]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/18/section/7) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

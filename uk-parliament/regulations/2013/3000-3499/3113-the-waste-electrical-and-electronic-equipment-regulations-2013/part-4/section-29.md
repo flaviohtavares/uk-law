@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Financing: WEEE from users other than private households[^key-dde667cc35af3f086e4cf61741c273e6]
+## 29. Financing: WEEE from users other than private households[^c-dde667cc35af3f086e4cf61741c273e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dde667cc35af3f086e4cf61741c273e6]: Commencement: Reg. 29 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-dde667cc35af3f086e4cf61741c273e6]: Commencement: Reg. 29 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

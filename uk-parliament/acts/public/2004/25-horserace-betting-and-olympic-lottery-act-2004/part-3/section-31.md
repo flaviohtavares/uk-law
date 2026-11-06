@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Distribution policy[^key-09741ac6a9063f366ae8063d893e1db9]
+## 31. Distribution policy[^c-09741ac6a9063f366ae8063d893e1db9]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Olympic Lottery Distributor shall comply with any requirement of the Secretary of State[^key-787d1d30d7f6e01bcfefca9815cc433a]... to—
+(1) The Olympic Lottery Distributor shall comply with any requirement of the Secretary of State[^c-787d1d30d7f6e01bcfefca9815cc433a]... to—
 
 - (a) prepare a policy for the distribution of money under section 30, or
 - (b) review and revise the policy.
@@ -39,26 +39,26 @@ summary: ''
 
 (4) Before preparing or revising a policy the Distributor—
 
-- (a) shall submit a draft of the policy or revision to the Secretary of State[^key-787d1d30d7f6e01bcfefca9815cc433a]..., and
+- (a) shall submit a draft of the policy or revision to the Secretary of State[^c-787d1d30d7f6e01bcfefca9815cc433a]..., and
 - (b) shall consult—
-  - (i) the Gambling[^key-4412f53e26b6f0cc1c3f35c3371c1ea3] Commission,
+  - (i) the Gambling[^c-4412f53e26b6f0cc1c3f35c3371c1ea3] Commission,
   - (ii) the Mayor of London,
   - (iii) the National Olympic Committee, and
   - (iv) the British Paralympic Association.
 
 (5) The Distributor shall as soon as is reasonably practicable send a copy of a policy or revision under this section to—
 
-- (a) the Secretary of State[^key-787d1d30d7f6e01bcfefca9815cc433a]...,
+- (a) the Secretary of State[^c-787d1d30d7f6e01bcfefca9815cc433a]...,
 - (b) the Mayor of London,
 - (c) the National Olympic Committee, and
 - (d) the British Paralympic Association.
 
-(6) Where the Secretary of State[^key-787d1d30d7f6e01bcfefca9815cc433a]... receives a copy of a policy or revision under subsection (5) he shall lay it before Parliament.
+(6) Where the Secretary of State[^c-787d1d30d7f6e01bcfefca9815cc433a]... receives a copy of a policy or revision under subsection (5) he shall lay it before Parliament.
 
 ## Annotations
 
-[^key-09741ac6a9063f366ae8063d893e1db9]: Commencement: S. 31 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)
+[^c-09741ac6a9063f366ae8063d893e1db9]: Commencement: S. 31 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)
 
-[^key-787d1d30d7f6e01bcfefca9815cc433a]: Textual amendment: Words in s. 31 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 4(f)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/4/f)
+[^c-787d1d30d7f6e01bcfefca9815cc433a]: Textual amendment: Words in s. 31 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 4(f)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/4/f)
 
-[^key-4412f53e26b6f0cc1c3f35c3371c1ea3]: Textual amendment: Word in [s. 31(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/25/section/31/4/b/i) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 27(d)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/27/d) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-4412f53e26b6f0cc1c3f35c3371c1ea3]: Textual amendment: Word in [s. 31(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/25/section/31/4/b/i) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 27(d)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/27/d) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))

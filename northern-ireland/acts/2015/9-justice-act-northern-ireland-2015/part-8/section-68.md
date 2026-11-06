@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Notification requirements: absence from notified residence[^key-2b9cbc669b861b3a3b0ce65feb79c36e]
+## 68. Notification requirements: absence from notified residence[^c-2b9cbc669b861b3a3b0ce65feb79c36e]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ the offender must notify the date of the offender's actual return to the police 
 
 ## Annotations
 
-[^key-2b9cbc669b861b3a3b0ce65feb79c36e]: Commencement: [S. 68](https://www.legislation.gov.uk/nia/2015/9/section/68) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(n)](https://www.legislation.gov.uk/nisr/2016/417/article/2/n)
+[^c-2b9cbc669b861b3a3b0ce65feb79c36e]: Commencement: [S. 68](https://www.legislation.gov.uk/nia/2015/9/section/68) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(n)](https://www.legislation.gov.uk/nisr/2016/417/article/2/n)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Preparation of local well-being plans: further consultation and approval[^key-247b0ff37d0917b69bf05672aec27573]
+## 43. Preparation of local well-being plans: further consultation and approval[^c-247b0ff37d0917b69bf05672aec27573]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-247b0ff37d0917b69bf05672aec27573]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2015/2/section/43) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-247b0ff37d0917b69bf05672aec27573]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2015/2/section/43) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

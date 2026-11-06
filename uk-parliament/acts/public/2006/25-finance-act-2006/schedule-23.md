@@ -152,13 +152,13 @@ Section 161
 
 **20.** (1) Paragraph 2 of Schedule 28 (scheme pension) is amended as follows.
 
-(2)[^key-6d372216af2157e21056c58bb2ab8813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6d372216af2157e21056c58bb2ab8813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6d372216af2157e21056c58bb2ab8813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6d372216af2157e21056c58bb2ab8813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In sub-paragraph (8), for “(4)(e) and (h)” substitute “ (4)(e) or (h) or (5) ”.
 
-**21.**[^key-c1d643c006efc4b04d838737d435f682] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-c1d643c006efc4b04d838737d435f682] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Pension commencement lump sum: scheme pensions under money purchase arrangements
 
@@ -281,7 +281,7 @@ Section 161
 
 ### Annuity protection lump sum death benefit: benefits from unsecured pension fund
 
-**29.**[^key-71f750fd4f4d84012cd234fa48471c1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-71f750fd4f4d84012cd234fa48471c1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Benefit crystallisation events: reaching 75 after designation for unsecured pension
 
@@ -347,7 +347,7 @@ Section 161
 
 (3) In subsection (3), after “(2)” insert “ or (2A) ”.
 
-(4)[^key-2db8971ac3d8e38679ab616cf25e215f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2db8971ac3d8e38679ab616cf25e215f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **35.** (1) Section 283 (transitionals and savings) is amended as follows.
 
@@ -597,10 +597,10 @@ Section 161
 
 ## Annotations
 
-[^key-6d372216af2157e21056c58bb2ab8813]: Textual amendment: Sch. 23 para. 20(2)(3) omitted (with effect in accordance with s. 20(6) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 20(5)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/20/5/a)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/20/6); [S.I. 2016/1005](https://www.legislation.gov.uk/uksi/2016/1005), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1005/regulation/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1005/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2016/1005/regulation/3), [4](https://www.legislation.gov.uk/uksi/2016/1005/regulation/4))
+[^c-6d372216af2157e21056c58bb2ab8813]: Textual amendment: Sch. 23 para. 20(2)(3) omitted (with effect in accordance with s. 20(6) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 20(5)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/20/5/a)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/20/6); [S.I. 2016/1005](https://www.legislation.gov.uk/uksi/2016/1005), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1005/regulation/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1005/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2016/1005/regulation/3), [4](https://www.legislation.gov.uk/uksi/2016/1005/regulation/4))
 
-[^key-c1d643c006efc4b04d838737d435f682]: Textual amendment: [Sch. 23 para. 21](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/21) repealed (with effect in accordance with s. 51(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/51/4)
+[^c-c1d643c006efc4b04d838737d435f682]: Textual amendment: [Sch. 23 para. 21](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/21) repealed (with effect in accordance with s. 51(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/51/4)
 
-[^key-71f750fd4f4d84012cd234fa48471c1a]: Textual amendment: [Sch. 23 para. 29](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/29) omitted (with effect in accordance with Sch. 16 para. 85 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(b)(ii)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/b/ii)
+[^c-71f750fd4f4d84012cd234fa48471c1a]: Textual amendment: [Sch. 23 para. 29](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/29) omitted (with effect in accordance with Sch. 16 para. 85 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(b)(ii)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/b/ii)
 
-[^key-2db8971ac3d8e38679ab616cf25e215f]: Textual amendment: [Sch. 23 para. 34(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/34/4) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 75(3)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/75/3/a)
+[^c-2db8971ac3d8e38679ab616cf25e215f]: Textual amendment: [Sch. 23 para. 34(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/34/4) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 75(3)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/75/3/a)

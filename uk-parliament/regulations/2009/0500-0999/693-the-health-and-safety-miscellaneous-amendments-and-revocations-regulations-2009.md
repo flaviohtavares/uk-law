@@ -64,11 +64,11 @@ These Regulations may be cited as the Health and Safety (Miscellaneous Amendment
 
 The amendments made by regulation 3(1) and Schedule 1 to —
 
-- (a)[^key-d5e8fb5b2764f3c23e7070c696bcd8e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-4a55be73f26c548dc1f4efe40e888041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d5e8fb5b2764f3c23e7070c696bcd8e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4a55be73f26c548dc1f4efe40e888041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Control of Noise at Work Regulations 2005 [^c19606611],
 
-shall apply outside Great Britain to the extent that they affect provisions of those Regulations which apply outside Great Britain by virtue of [^key-7103515d18e536eb67dd3661c4b6781d]... regulation 14 of the Control of Noise Regulations 2005.
+shall apply outside Great Britain to the extent that they affect provisions of those Regulations which apply outside Great Britain by virtue of [^c-7103515d18e536eb67dd3661c4b6781d]... regulation 14 of the Control of Noise Regulations 2005.
 
 ## 3. Amendments and revocations
 
@@ -88,11 +88,11 @@ Department for Work and Pensions
 
 Regulation 3(1)
 
-### 1. The Control of Explosives Regulations 1991[^key-8450fe1f684b6424ec6c1ca6ccc3b3b3]
+### 1. The Control of Explosives Regulations 1991[^c-8450fe1f684b6424ec6c1ca6ccc3b3b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. The Health and Safety (Enforcing Authority) Regulations 1998[^key-8abe8457d184bf06ddd68260393b7c95]
+### 2. The Health and Safety (Enforcing Authority) Regulations 1998[^c-8abe8457d184bf06ddd68260393b7c95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -104,7 +104,7 @@ For paragraph (7) of regulation 24 of the Genetically Modified Organisms (Contai
 
 .
 
-### 4. The Manufacture and Storage of Explosives Regulations 2005[^key-c1c2a5d645766e9806fdd59450bb30e0]
+### 4. The Manufacture and Storage of Explosives Regulations 2005[^c-c1c2a5d645766e9806fdd59450bb30e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -379,21 +379,21 @@ Regulation 3(2)
 
 [^c19606591]: Marginal citation: [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082), amended by [S.I. 2007/2598](https://www.legislation.gov.uk/uksi/2007/2598).
 
-[^key-d5e8fb5b2764f3c23e7070c696bcd8e7]: Textual amendment: Reg. 2(a) omitted (1.10.2014) by virtue of [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 22(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/22/a), Sch. 14 Pt. 2
+[^c-d5e8fb5b2764f3c23e7070c696bcd8e7]: Textual amendment: Reg. 2(a) omitted (1.10.2014) by virtue of [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 22(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/22/a), Sch. 14 Pt. 2
 
-[^key-4a55be73f26c548dc1f4efe40e888041]: Textual amendment: Reg. 2(b) omitted (1.10.2014) by virtue of [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 22(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/22/a), Sch. 14 Pt. 2
+[^c-4a55be73f26c548dc1f4efe40e888041]: Textual amendment: Reg. 2(b) omitted (1.10.2014) by virtue of [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 22(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/22/a), Sch. 14 Pt. 2
 
 [^c19606611]: Marginal citation: [S.I. 2005/1643](https://www.legislation.gov.uk/uksi/2005/1643).
 
-[^key-7103515d18e536eb67dd3661c4b6781d]: Textual amendment: Words in reg. 2 omitted (1.10.2014) by virtue of [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 22(b)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/22/b)
+[^c-7103515d18e536eb67dd3661c4b6781d]: Textual amendment: Words in reg. 2 omitted (1.10.2014) by virtue of [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 22(b)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/22/b)
 
-[^key-8450fe1f684b6424ec6c1ca6ccc3b3b3]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/1) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-8450fe1f684b6424ec6c1ca6ccc3b3b3]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/1) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
-[^key-8abe8457d184bf06ddd68260393b7c95]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/2) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-8abe8457d184bf06ddd68260393b7c95]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/2) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
 [^c19606661]: Marginal citation: [S.I. 2000/2831](https://www.legislation.gov.uk/uksi/2000/2831), to which there are amendments not relevant to these Regulations.
 
-[^key-c1c2a5d645766e9806fdd59450bb30e0]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/4) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-c1c2a5d645766e9806fdd59450bb30e0]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/4) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
 [^c19606711]: Marginal citation: [S.I. 2005/1643](https://www.legislation.gov.uk/uksi/2005/1643).
 

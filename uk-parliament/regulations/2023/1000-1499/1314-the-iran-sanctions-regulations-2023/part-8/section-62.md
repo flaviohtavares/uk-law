@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Trade licences[^key-c9cad536649d21ce9ac6b5f6d889f9d7]
+## 62. Trade licences[^c-c9cad536649d21ce9ac6b5f6d889f9d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The prohibitions in Chapters 2, 3 and 4 of Part 6 (Trade) do not apply to anythi
 
 ## Annotations
 
-[^key-c9cad536649d21ce9ac6b5f6d889f9d7]: Commencement: Reg. 62 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-c9cad536649d21ce9ac6b5f6d889f9d7]: Commencement: Reg. 62 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

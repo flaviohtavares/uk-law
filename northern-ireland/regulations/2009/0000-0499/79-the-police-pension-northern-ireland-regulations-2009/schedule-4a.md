@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4A[^key-c2ca5d2b6d8e78e257c559467372d7ed]
+## SCHEDULE 4A[^c-c2ca5d2b6d8e78e257c559467372d7ed]
 
 *Extent: N.I.*
 
@@ -179,4 +179,4 @@ Regulation 91A
 
 ## Annotations
 
-[^key-c2ca5d2b6d8e78e257c559467372d7ed]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/nisr/2009/79/schedule/4A) inserted (1.4.2013) by [The Police Pension (Northern Ireland) (Amendment) Regulations 2013 (S.R. 2013/36)](https://www.legislation.gov.uk/nisr/2013/36), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/36/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/9)
+[^c-c2ca5d2b6d8e78e257c559467372d7ed]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/nisr/2009/79/schedule/4A) inserted (1.4.2013) by [The Police Pension (Northern Ireland) (Amendment) Regulations 2013 (S.R. 2013/36)](https://www.legislation.gov.uk/nisr/2013/36), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/36/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/9)

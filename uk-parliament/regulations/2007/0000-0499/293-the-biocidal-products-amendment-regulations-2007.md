@@ -32,7 +32,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Biocidal Products (Amendment) Regulations 2007 (revoked)[^key-8a4ea35993d7f95738400c64e5634379]
+The Biocidal Products (Amendment) Regulations 2007 (revoked)[^c-8a4ea35993d7f95738400c64e5634379]
 
 Made
 
@@ -46,131 +46,131 @@ Coming into force
 
 6th April 2007
 
-[^key-8a4ea35993d7f95738400c64e5634379]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a4ea35993d7f95738400c64e5634379]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8a4ea35993d7f95738400c64e5634379]
+## 1. Citation and commencement[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Biocidal Products Regulations 2001[^key-8a4ea35993d7f95738400c64e5634379]
+## 2. Amendment of the Biocidal Products Regulations 2001[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-8a4ea35993d7f95738400c64e5634379]
+## 3.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-8a4ea35993d7f95738400c64e5634379]
+## 4.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-8a4ea35993d7f95738400c64e5634379]
+## 5.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-8a4ea35993d7f95738400c64e5634379]
+## 6.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-8a4ea35993d7f95738400c64e5634379]
+## 7.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-8a4ea35993d7f95738400c64e5634379]
+## 8.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-8a4ea35993d7f95738400c64e5634379]
+## 9.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-8a4ea35993d7f95738400c64e5634379]
+## 10.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-8a4ea35993d7f95738400c64e5634379]
+## 11.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-8a4ea35993d7f95738400c64e5634379]
+## 12.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-8a4ea35993d7f95738400c64e5634379]
+## 13.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-8a4ea35993d7f95738400c64e5634379]
+## 14.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-8a4ea35993d7f95738400c64e5634379]
+## 15.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-8a4ea35993d7f95738400c64e5634379]
+## 16.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-8a4ea35993d7f95738400c64e5634379]
+## 17.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18.[^key-8a4ea35993d7f95738400c64e5634379]
+## 18.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19.[^key-8a4ea35993d7f95738400c64e5634379]
+## 19.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20.[^key-8a4ea35993d7f95738400c64e5634379]
+## 20.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21.[^key-8a4ea35993d7f95738400c64e5634379]
+## 21.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22.[^key-8a4ea35993d7f95738400c64e5634379]
+## 22.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23.[^key-8a4ea35993d7f95738400c64e5634379]
+## 23.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.[^key-8a4ea35993d7f95738400c64e5634379]
+## 24.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.[^key-8a4ea35993d7f95738400c64e5634379]
+## 25.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26.[^key-8a4ea35993d7f95738400c64e5634379]
+## 26.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27.[^key-8a4ea35993d7f95738400c64e5634379]
+## 27.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28.[^key-8a4ea35993d7f95738400c64e5634379]
+## 28.[^c-8a4ea35993d7f95738400c64e5634379]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8a4ea35993d7f95738400c64e5634379]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a4ea35993d7f95738400c64e5634379]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-8a4ea35993d7f95738400c64e5634379]
+## SCHEDULE[^c-8a4ea35993d7f95738400c64e5634379]
 
 Regulation 23
 
-> **SCHEDULE 5A — LIST OF ACTIVE SUBSTANCES AND THE ESSENTIAL USE[^key-8a4ea35993d7f95738400c64e5634379]**
+> **SCHEDULE 5A — LIST OF ACTIVE SUBSTANCES AND THE ESSENTIAL USE[^c-8a4ea35993d7f95738400c64e5634379]**
 >
 > Regulation 15A(2)
 >
@@ -178,8 +178,8 @@ Regulation 23
 
 **May not be in force at this date. Check the source.**
 
-[^key-8a4ea35993d7f95738400c64e5634379]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a4ea35993d7f95738400c64e5634379]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8a4ea35993d7f95738400c64e5634379]: Textual amendment: Regulations revoked (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [34(d)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/34/d) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1506/schedule/2))
+[^c-8a4ea35993d7f95738400c64e5634379]: Textual amendment: Regulations revoked (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [34(d)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/34/d) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1506/schedule/2))

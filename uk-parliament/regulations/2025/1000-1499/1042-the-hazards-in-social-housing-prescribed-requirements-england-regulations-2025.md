@@ -48,7 +48,7 @@ In accordance with section 10B(8) of the Landlord and Tenant Act 1985, a draft o
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and application[^key-227176f6d558b386d31886c8c24e9bd4]
+### 1. Citation, commencement, extent and application[^c-227176f6d558b386d31886c8c24e9bd4]
 
 (1) These Regulations may be cited as the Hazards in Social Housing (Prescribed Requirements) (England) Regulations 2025.
 
@@ -58,7 +58,7 @@ In accordance with section 10B(8) of the Landlord and Tenant Act 1985, a draft o
 
 (4) These Regulations apply to lessors of social homes in England (whenever the lease was granted).
 
-### 2. Interpretation[^key-f48d9b23834d6115270726ff7ba42a63]
+### 2. Interpretation[^c-f48d9b23834d6115270726ff7ba42a63]
 
 In these Regulations—
 
@@ -92,7 +92,7 @@ In these Regulations—
   - (b) Christmas Day or Good Friday, or
   - (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00002] in England and Wales.
 
-### 3. Meaning of “significant hazard” and “emergency hazard”[^key-a56068f522553505ae1243c1f34542f7]
+### 3. Meaning of “significant hazard” and “emergency hazard”[^c-a56068f522553505ae1243c1f34542f7]
 
 (1) In these Regulations—
 
@@ -118,7 +118,7 @@ In these Regulations—
 - (a) the lessor is required, under a lease or by virtue of an enactment, to repair or maintain it, or
 - (b) the lessor holds a legal estate in possession in it and no other person is required, under a lease or by virtue of an enactment, to repair or maintain it (but the reference to “**possession**” does not include the receipt of rents and profits or the right to receive the same).
 
-### 4. Meaning of “required work” etc.[^key-209b8053e8eeeebcaac7b0485369350a]
+### 4. Meaning of “required work” etc.[^c-209b8053e8eeeebcaac7b0485369350a]
 
 In these Regulations—
 
@@ -139,7 +139,7 @@ In these Regulations—
 
 ## PART 2 — Requirement to take emergency action
 
-### 5. Requirement to take emergency action[^key-494840db439c1355568e9f458bfa3aa7]
+### 5. Requirement to take emergency action[^c-494840db439c1355568e9f458bfa3aa7]
 
 (1) This regulation applies if Condition 1 or 2 applies.
 
@@ -182,7 +182,7 @@ In these Regulations—
 
 ## PART 3 — Investigation of hazards
 
-### 6. Requirement to undertake standard investigation[^key-beb08d23d5430dba0b5692855224d8a2]
+### 6. Requirement to undertake standard investigation[^c-beb08d23d5430dba0b5692855224d8a2]
 
 (1) This regulation applies if—
 
@@ -207,7 +207,7 @@ In these Regulations—
 - “**standard investigation period**” means the period of 10 working days beginning on the day after the day on which the lessor becomes aware of the issue of concern;
 - “**extended investigation period**” means the period of 10 working days beginning on the day after the day on which the lessee requests the physical inspection.
 
-### 7. Requirement to undertake renewed investigation including physical inspection[^key-a55e7154115047b945d3716f0e436934]
+### 7. Requirement to undertake renewed investigation including physical inspection[^c-a55e7154115047b945d3716f0e436934]
 
 (1) This regulation applies if—
 
@@ -227,7 +227,7 @@ In these Regulations—
 
 (4) In this regulation, “**preventative work**” means, in relation to a significant hazard or emergency hazard, any required work that is necessary to ensure, so far as is possible, that the hazard in question does not recur (whether or not that work is also necessary to make the social home safe).
 
-### 8. Requirement to undertake further investigation[^key-7e665e22487ec141acbb1a0b453cf9c7]
+### 8. Requirement to undertake further investigation[^c-7e665e22487ec141acbb1a0b453cf9c7]
 
 (1) This regulation applies if a standard, renewed or emergency investigation concludes that a social home is affected by a significant hazard or emergency hazard but that a further investigation is necessary to determine—
 
@@ -245,7 +245,7 @@ In these Regulations—
 
 ## PART 4 — Requirement to provide written summary following investigation
 
-### 9. Requirement to provide written summary following investigation[^key-156c27731dce645de66a307ed444722c]
+### 9. Requirement to provide written summary following investigation[^c-156c27731dce645de66a307ed444722c]
 
 (1) This regulation applies following a relevant investigation unless—
 
@@ -265,7 +265,7 @@ In these Regulations—
 
 (4) In this regulation, “**the relevant period**” means the period of 3 working days beginning on the day after the day on which the relevant investigation is completed
 
-### 10. Giving of documents under regulation 9[^key-8b9f4c7f664a65f4d0d5d1b28c97b7b0]
+### 10. Giving of documents under regulation 9[^c-8b9f4c7f664a65f4d0d5d1b28c97b7b0]
 
 A document that is required to be given to the lessee under regulation 9 may be given by—
 
@@ -278,7 +278,7 @@ and the time at which it is given is the time that it is delivered, left, posted
 
 ## PART 5 — Non-emergency action
 
-### 11. Requirement to make safe: significant hazards[^key-a97d4e22a303ea906e5b43ddbe08f1ee]
+### 11. Requirement to make safe: significant hazards[^c-a97d4e22a303ea906e5b43ddbe08f1ee]
 
 (1) Paragraph (2) applies if a relevant investigation identifies relevant safety work in relation to a significant hazard that was not identified by a previous associated investigation.
 
@@ -293,7 +293,7 @@ and the time at which it is given is the time that it is delivered, left, posted
 - (b) a subsequent associated investigation concludes that the social home is not affected by a significant hazard or emergency hazard, or
 - (c) a subsequent associated investigation concludes that there is no relevant safety work in relation to the hazard in question.
 
-### 12. Requirement to keep safe[^key-5fc5c73ce9d87412fd70f933ef753ab8]
+### 12. Requirement to keep safe[^c-5fc5c73ce9d87412fd70f933ef753ab8]
 
 (1) This regulation applies where relevant safety work in relation to a significant hazard or emergency hazard affecting a social home has been completed.
 
@@ -315,7 +315,7 @@ and the time at which it is given is the time that it is delivered, left, posted
   - (b) is not necessary to make the social home safe, and
   - (c) is not cladding work.
 
-### 13. Supplementary preventative work[^key-571bfd1d93a88be676d9096273d50617]
+### 13. Supplementary preventative work[^c-571bfd1d93a88be676d9096273d50617]
 
 (1) Subject to paragraph (5), paragraphs (2) to (4) apply where a relevant investigation identifies any relevant supplementary preventative work that was not identified by a previous associated investigation and—
 
@@ -347,7 +347,7 @@ and the time at which it is given is the time that it is delivered, left, posted
   - (b) where paragraph (1)(b) applies, the day after the day on which the further investigation is completed;
 - “**relevant supplementary preventative work**” has the meaning given by regulation 12(5).
 
-### 14. Requirement to keep the lessee updated[^key-42f6fb6b9d5fce2428f067e27622526a]
+### 14. Requirement to keep the lessee updated[^c-42f6fb6b9d5fce2428f067e27622526a]
 
 (1) This regulation applies if a relevant investigation identifies required work.
 
@@ -371,7 +371,7 @@ and the time at which it is given is the time that it is delivered, left, posted
 
 ## PART 6 — Temporary rehousing etc.
 
-### 15. Application of this Part[^key-ae411325dbe913ca1d7b3fc44ca26c80]
+### 15. Application of this Part[^c-ae411325dbe913ca1d7b3fc44ca26c80]
 
 (1) This Part applies if—
 
@@ -393,7 +393,7 @@ and the time at which it is given is the time that it is delivered, left, posted
     - (ii) in any other case, the period of 24 hours beginning at the time that the investigation mentioned in paragraph (1)(a) is completed, or
   - (b) in relation to a significant hazard, the period of 5 working days beginning on the day after the day on which the investigation mentioned in paragraph (1)(a) is completed.
 
-### 16. Temporary rehousing[^key-2de8b2324712f607879f08cb5d5461a7]
+### 16. Temporary rehousing[^c-2de8b2324712f607879f08cb5d5461a7]
 
 (1) The lessor must secure the provision of suitable alternative accommodation to the lessee’s household, at no cost to the lessee, from the time that the initial remediation period ends until the appropriate time, unless the lessee refuses an offer to secure such provision.
 
@@ -416,7 +416,7 @@ and the time at which it is given is the time that it is delivered, left, posted
 - (a) a person within sub-paragraph (a) or (b) of that definition has caring responsibilities for C, and
 - (b) C usually stays overnight in the social home at least once per week and would have been expected to have continued to do so during the assumed rehousing period.
 
-### 17. Provision of safety advice[^key-7cca14afb2e7ad5a0b20d2a17a44c0bd]
+### 17. Provision of safety advice[^c-7cca14afb2e7ad5a0b20d2a17a44c0bd]
 
 (1) This regulation applies unless the lessor has reasonable grounds to believe that the social home will be unoccupied for the whole of the assumed rehousing period.
 
@@ -435,18 +435,18 @@ and the time at which it is given is the time that it is delivered, left, posted
 
 ## PART 7 — General
 
-### 18. Restriction on contracting out[^key-33fcab0de4e47df08e4a84747c04cecb]
+### 18. Restriction on contracting out[^c-33fcab0de4e47df08e4a84747c04cecb]
 
 Any provision of a lease of a social home or of any agreement relating to such a lease (whether made before or after the grant or creation of the lease) is void to the extent that it purports—
 
 - (a) to exclude or limit the obligations of the lessor under the covenant implied by section 10A(2) of the Landlord and Tenant Act 1985, or
 - (b) to authorise any forfeiture or impose on the lessee any penalty, disability or obligation in the event of the lessee enforcing or relying upon those obligations.
 
-### 19. Availability of specific performance[^key-7ec097d3e47d34900acc624357c98bb9]
+### 19. Availability of specific performance[^c-7ec097d3e47d34900acc624357c98bb9]
 
 Where in any proceedings before a court it is alleged that a lessor is in breach of an obligation under the covenant implied by section 10A(2) of the Landlord and Tenant Act 1985, the court may order specific performance of the obligation (regardless of any equitable rule restricting the scope of that remedy).
 
-### 20. Implied covenant allowing entry[^key-f9fd8fc7cbc099c347c856ac6006886e]
+### 20. Implied covenant allowing entry[^c-f9fd8fc7cbc099c347c856ac6006886e]
 
 (1) In a lease of a social home, there is implied a covenant by the lessee that the lessor, or a person authorised in writing by the lessor, may enter the social home for the purposes of complying with any requirement under these Regulations that is applicable in relation to the social home.
 
@@ -455,7 +455,7 @@ Where in any proceedings before a court it is alleged that a lessor is in breach
 - (a) only at reasonable times of the day, and
 - (b) only if at least 24 hours’ notice in writing has been given to the occupier of the dwelling.
 
-### 21. Transitional provision: prior awareness of relevant matters[^key-e42c1f2d131c988b46eb952ad649c283]
+### 21. Transitional provision: prior awareness of relevant matters[^c-e42c1f2d131c988b46eb952ad649c283]
 
 (1) This regulation applies in relation to a relevant matter in relation to a social home of which the lessor became aware before the relevant time.
 
@@ -521,7 +521,7 @@ Where in any proceedings before a court it is alleged that a lessor is in breach
 
   .
 
-### 22. Saving provision: lease ceasing to be relevant social housing lease[^key-d1cec119a9d84eaa87f46f99c47e2fbe]
+### 22. Saving provision: lease ceasing to be relevant social housing lease[^c-d1cec119a9d84eaa87f46f99c47e2fbe]
 
 (1) This regulation applies where the covenant in section 10A(2) of the Landlord and Tenant Act 1985 (“the implied covenant”) ceases to be implied in a lease because the lease ceases to be a relevant social housing lease[^f00005].
 
@@ -532,7 +532,7 @@ Where in any proceedings before a court it is alleged that a lessor is in breach
 - (a) any breach of a requirement under these Regulations which occurs before the implied covenant ceases to have effect;
 - (b) any breach of a requirement under these Regulations that continues to have effect by virtue of paragraph (2).
 
-### 23. Review[^key-f10a4b93d2c839f9db274d91c1d42467]
+### 23. Review[^c-f10a4b93d2c839f9db274d91c1d42467]
 
 (1) The Secretary of State must from time to time—
 
@@ -622,58 +622,58 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1985 c. 70](https://www.legislation.gov.uk/ukpga/1985/70). Sections 10A and 10B were inserted by section 42 of the Social Housing (Regulation) Act [2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36). Section 10B(8) was amended by paragraph 3 of Schedule 11, from a date to be appointed.
 
-[^key-227176f6d558b386d31886c8c24e9bd4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-227176f6d558b386d31886c8c24e9bd4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-f48d9b23834d6115270726ff7ba42a63]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1042/regulation/2) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-f48d9b23834d6115270726ff7ba42a63]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1042/regulation/2) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
 [^f00002]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80). Schedule 1 to the Act specifies the days that are bank holidays in England and Wales. Section 1(2) and (3) makes provision allowing His Majesty to, by proclamation, appoint different or additional bank holidays.
 
-[^key-a56068f522553505ae1243c1f34542f7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1042/regulation/3) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-a56068f522553505ae1243c1f34542f7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1042/regulation/3) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
 [^f00003]: Footnote: See section 10A(7) of the Landlord and Tenant Act 1985 for the definition of “prescribed hazard”.
 
 [^f00004]: Footnote: See section 10A(7) of the Landlord and Tenant Act 1985 for the definition of “lessee”.
 
-[^key-209b8053e8eeeebcaac7b0485369350a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1042/regulation/4) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-209b8053e8eeeebcaac7b0485369350a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1042/regulation/4) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-494840db439c1355568e9f458bfa3aa7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1042/regulation/5) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-494840db439c1355568e9f458bfa3aa7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1042/regulation/5) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-beb08d23d5430dba0b5692855224d8a2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1042/regulation/6) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-beb08d23d5430dba0b5692855224d8a2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1042/regulation/6) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-a55e7154115047b945d3716f0e436934]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1042/regulation/7) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-a55e7154115047b945d3716f0e436934]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1042/regulation/7) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-7e665e22487ec141acbb1a0b453cf9c7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1042/regulation/8) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-7e665e22487ec141acbb1a0b453cf9c7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1042/regulation/8) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-156c27731dce645de66a307ed444722c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1042/regulation/9) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-156c27731dce645de66a307ed444722c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1042/regulation/9) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-8b9f4c7f664a65f4d0d5d1b28c97b7b0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1042/regulation/10) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-8b9f4c7f664a65f4d0d5d1b28c97b7b0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1042/regulation/10) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-a97d4e22a303ea906e5b43ddbe08f1ee]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/1042/regulation/11) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-a97d4e22a303ea906e5b43ddbe08f1ee]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/1042/regulation/11) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-5fc5c73ce9d87412fd70f933ef753ab8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/1042/regulation/12) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-5fc5c73ce9d87412fd70f933ef753ab8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/1042/regulation/12) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-571bfd1d93a88be676d9096273d50617]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/1042/regulation/13) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-571bfd1d93a88be676d9096273d50617]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/1042/regulation/13) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-42f6fb6b9d5fce2428f067e27622526a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/1042/regulation/14) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-42f6fb6b9d5fce2428f067e27622526a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/1042/regulation/14) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-ae411325dbe913ca1d7b3fc44ca26c80]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/1042/regulation/15) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-ae411325dbe913ca1d7b3fc44ca26c80]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/1042/regulation/15) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-2de8b2324712f607879f08cb5d5461a7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/1042/regulation/16) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-2de8b2324712f607879f08cb5d5461a7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/1042/regulation/16) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-7cca14afb2e7ad5a0b20d2a17a44c0bd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/1042/regulation/17) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-7cca14afb2e7ad5a0b20d2a17a44c0bd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/1042/regulation/17) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-33fcab0de4e47df08e4a84747c04cecb]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/1042/regulation/18) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-33fcab0de4e47df08e4a84747c04cecb]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/1042/regulation/18) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-7ec097d3e47d34900acc624357c98bb9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/1042/regulation/19) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-7ec097d3e47d34900acc624357c98bb9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/1042/regulation/19) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-f9fd8fc7cbc099c347c856ac6006886e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/1042/regulation/20) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-f9fd8fc7cbc099c347c856ac6006886e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/1042/regulation/20) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-e42c1f2d131c988b46eb952ad649c283]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/1042/regulation/21) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-e42c1f2d131c988b46eb952ad649c283]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/1042/regulation/21) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
-[^key-d1cec119a9d84eaa87f46f99c47e2fbe]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/1042/regulation/22) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-d1cec119a9d84eaa87f46f99c47e2fbe]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/1042/regulation/22) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
 [^f00005]: Footnote: See section 10A(6) of the Landlord and Tenant Act 1985 for the definition of “relevant social housing lease”.
 
-[^key-f10a4b93d2c839f9db274d91c1d42467]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/1042/regulation/23) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
+[^c-f10a4b93d2c839f9db274d91c1d42467]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/1042/regulation/23) in force at 27.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1042/regulation/1/2)
 
 [^f00006]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).

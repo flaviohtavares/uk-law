@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Application of this Part to countries to which it does not extend[^key-9321723c4502c8d9e2530f90756f78cb]
+## 159. Application of this Part to countries to which it does not extend[^c-9321723c4502c8d9e2530f90756f78cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9321723c4502c8d9e2530f90756f78cb]: Textual amendment: S. 159 substituted (1.12.2016 for specified purposes, 6.4.2017 in so far as not already in force) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/2014/18/section/22/4), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2016/1139](https://www.legislation.gov.uk/uksi/2016/1139), [arts. 2](https://www.legislation.gov.uk/uksi/2016/1139/article/2), [3](https://www.legislation.gov.uk/uksi/2016/1139/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/1139/article/4))
+[^c-9321723c4502c8d9e2530f90756f78cb]: Textual amendment: S. 159 substituted (1.12.2016 for specified purposes, 6.4.2017 in so far as not already in force) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/2014/18/section/22/4), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2016/1139](https://www.legislation.gov.uk/uksi/2016/1139), [arts. 2](https://www.legislation.gov.uk/uksi/2016/1139/article/2), [3](https://www.legislation.gov.uk/uksi/2016/1139/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/1139/article/4))

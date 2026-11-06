@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Paragraph 7 (banking business transfer schemes)[^key-085a204cad1897db7c2a27a8cfecc7a2]
+## 108. Paragraph 7 (banking business transfer schemes)[^c-085a204cad1897db7c2a27a8cfecc7a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ For paragraph 7 [^c23658821] (banking business transfer schemes) substitute—
 
 ## Annotations
 
-[^key-085a204cad1897db7c2a27a8cfecc7a2]: Commencement: Reg. 108 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-085a204cad1897db7c2a27a8cfecc7a2]: Commencement: Reg. 108 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658821]: Marginal citation: Paragraph 7 was amended by paragraph 2 of Schedule 1 to the Financial Services (Banking Reform) Act 2013.

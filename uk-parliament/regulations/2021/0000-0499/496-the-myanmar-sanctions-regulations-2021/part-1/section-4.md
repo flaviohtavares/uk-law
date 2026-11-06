@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Purposes[^key-8f152245bca8044a5e0a7adda6d823e2]
+## 4. Purposes[^c-8f152245bca8044a5e0a7adda6d823e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ The purposes of the regulations contained in this instrument are to—
 
 ## Annotations
 
-[^key-8f152245bca8044a5e0a7adda6d823e2]: Commencement: Reg. 4 in force at 29.4.2021 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/2)
+[^c-8f152245bca8044a5e0a7adda6d823e2]: Commencement: Reg. 4 in force at 29.4.2021 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/2)

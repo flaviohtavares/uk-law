@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84B. Statutory instruments[^key-2440f60c5c8428a897a94d8dff8d0461]
+## 84B. Statutory instruments[^c-2440f60c5c8428a897a94d8dff8d0461]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2440f60c5c8428a897a94d8dff8d0461]: Textual amendment: [Regs. 84A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/84A), [84B](https://www.legislation.gov.uk/uksi/2017/1013/regulation/84B) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [69](https://www.legislation.gov.uk/uksi/2019/579/regulation/69); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2440f60c5c8428a897a94d8dff8d0461]: Textual amendment: [Regs. 84A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/84A), [84B](https://www.legislation.gov.uk/uksi/2017/1013/regulation/84B) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [69](https://www.legislation.gov.uk/uksi/2019/579/regulation/69); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

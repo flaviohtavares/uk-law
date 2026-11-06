@@ -32,7 +32,7 @@ summary: ''
 
 Energy
 
-The Renewable Heat Incentive Scheme Regulations 2011 (revoked)[^key-a328146d1b52d980296b0d512af27431]
+The Renewable Heat Incentive Scheme Regulations 2011 (revoked)[^c-a328146d1b52d980296b0d512af27431]
 
 Made
 
@@ -40,11 +40,11 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-a328146d1b52d980296b0d512af27431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a328146d1b52d980296b0d512af27431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introductory provisions[^key-a328146d1b52d980296b0d512af27431]
+### PART 1 — Introductory provisions[^c-a328146d1b52d980296b0d512af27431]
 
 **No longer in force.**
 
@@ -52,19 +52,19 @@ Coming into force in accordance with regulation 1
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Renewable heat incentive scheme](part-1/section-3.md)
 
-### PART 2 — Eligibility and matters relating to eligibility[^key-a328146d1b52d980296b0d512af27431]
+### PART 2 — Eligibility and matters relating to eligibility[^c-a328146d1b52d980296b0d512af27431]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Eligible installations[^key-a328146d1b52d980296b0d512af27431]
+#### CHAPTER 1 — Eligible installations[^c-a328146d1b52d980296b0d512af27431]
 
 **No longer in force.**
 
 - [Section 4 — Eligible installations](part-2/section-4.md)
 
-#### CHAPTER 2 — Eligibility criteria for technologies[^key-a328146d1b52d980296b0d512af27431]
+#### CHAPTER 2 — Eligibility criteria for technologies[^c-a328146d1b52d980296b0d512af27431]
 
 *Extent: E+W+S*
 
@@ -85,7 +85,7 @@ Coming into force in accordance with regulation 1
 - [Section 14 — Plants comprised of more than one plant](part-2/section-14.md)
 - [Section 15 — Excluded plants](part-2/section-15.md)
 
-#### CHAPTER 3 — Eligibility criteria in relation to metering and steam measuring[^key-a328146d1b52d980296b0d512af27431]
+#### CHAPTER 3 — Eligibility criteria in relation to metering and steam measuring[^c-a328146d1b52d980296b0d512af27431]
 
 *Extent: E+W+S*
 
@@ -100,7 +100,7 @@ Coming into force in accordance with regulation 1
 - [Section 20 — Matters relating to all heat meters and steam measuring equipment](part-2/section-20.md)
 - [Section 21 — Additional metering requirements for plants generating heat from biogas](part-2/section-21.md)
 
-### PART 3 — Accreditation and registration[^key-a328146d1b52d980296b0d512af27431]
+### PART 3 — Accreditation and registration[^c-a328146d1b52d980296b0d512af27431]
 
 *Extent: E+W+S*
 
@@ -114,11 +114,11 @@ Coming into force in accordance with regulation 1
 - [Section 26 — Preliminary accreditation](part-3/section-26.md)
 - [Section 26A — Preliminary registration of biomethane producers](part-3/section-26a.md)
 
-### PART 4 — Ongoing obligations for participants[^key-a328146d1b52d980296b0d512af27431]
+### PART 4 — Ongoing obligations for participants[^c-a328146d1b52d980296b0d512af27431]
 
 **No longer in force.**
 
-#### CHAPTER 1 — Ongoing obligations relating to the use of solid biomass to generate heat[^key-a328146d1b52d980296b0d512af27431]
+#### CHAPTER 1 — Ongoing obligations relating to the use of solid biomass to generate heat[^c-a328146d1b52d980296b0d512af27431]
 
 **No longer in force.**
 
@@ -127,7 +127,7 @@ Coming into force in accordance with regulation 1
 - [Section 29 — Participants using solid biomass in accredited RHI installations with an installation capacity of 1MWth or above](part-4/section-29.md)
 - [Section 30 — Participants using solid biomass in accredited RHI installations with an installation capacity of between 45kWth and 1MWth](part-4/section-30.md)
 
-#### CHAPTER 2 — Ongoing obligations relating to the use of biogas to generate heat and the production of biomethane for injection[^key-a328146d1b52d980296b0d512af27431]
+#### CHAPTER 2 — Ongoing obligations relating to the use of biogas to generate heat and the production of biomethane for injection[^c-a328146d1b52d980296b0d512af27431]
 
 **No longer in force.**
 
@@ -135,7 +135,7 @@ Coming into force in accordance with regulation 1
 - [Section 32 — Participants generating heat from biogas](part-4/section-32.md)
 - [Section 33 — Biomethane producers](part-4/section-33.md)
 
-#### CHAPTER 3 — Ongoing obligations relating to other matters[^key-a328146d1b52d980296b0d512af27431]
+#### CHAPTER 3 — Ongoing obligations relating to other matters[^c-a328146d1b52d980296b0d512af27431]
 
 *Extent: E+W+S*
 
@@ -146,7 +146,7 @@ Coming into force in accordance with regulation 1
 - [Section 35 — Ongoing obligations in relation to metering](part-4/section-35.md)
 - [Section 36 — Ongoing obligations in relation to the provision of information](part-4/section-36.md)
 
-#### CHAPTER 4 — Sustainable solid biomass etc[^key-a328146d1b52d980296b0d512af27431]
+#### CHAPTER 4 — Sustainable solid biomass etc[^c-a328146d1b52d980296b0d512af27431]
 
 **No longer in force.**
 
@@ -156,7 +156,7 @@ Coming into force in accordance with regulation 1
 - [Section 36D — Sustainability audit reports](part-4/section-36d.md)
 - [Section 36E — Schemes for listing approved sustainable fuels](part-4/section-36e.md)
 
-### PART 5 — Periodic support payments[^key-a328146d1b52d980296b0d512af27431]
+### PART 5 — Periodic support payments[^c-a328146d1b52d980296b0d512af27431]
 
 *Extent: E+W+S*
 
@@ -182,7 +182,7 @@ Coming into force in accordance with regulation 1
 - [Section 42 — Periodic support payments to producers of biomethane](part-5/section-42.md)
 - [Section 42A — Calculation of heat loss in certain circumstances](part-5/section-42a.md)
 
-### PART 6 — Additional RHI capacity[^key-a328146d1b52d980296b0d512af27431]
+### PART 6 — Additional RHI capacity[^c-a328146d1b52d980296b0d512af27431]
 
 *Extent: E+W+S*
 
@@ -191,7 +191,7 @@ Coming into force in accordance with regulation 1
 - [Section 43 — Treatment of additional RHI capacity](part-6/section-43.md)
 - [Section 43A — Additional capacity for biomethane production](part-6/section-43a.md)
 
-### PART 7 — Enforcement[^key-a328146d1b52d980296b0d512af27431]
+### PART 7 — Enforcement[^c-a328146d1b52d980296b0d512af27431]
 
 **No longer in force.**
 
@@ -201,32 +201,32 @@ Coming into force in accordance with regulation 1
 - [Section 47 — Revocation of accreditation or registration](part-7/section-47.md)
 - [Section 48 — Overpayment notices and offsetting](part-7/section-48.md)
 
-### PART 8 — Revocation of sanctions[^key-a328146d1b52d980296b0d512af27431]
+### PART 8 — Revocation of sanctions[^c-a328146d1b52d980296b0d512af27431]
 
 **No longer in force.**
 
 - [Section 49 — Revocation of Part 7 sanctions](part-8/section-49.md)
 
-### PART 9 — Inspection[^key-a328146d1b52d980296b0d512af27431]
+### PART 9 — Inspection[^c-a328146d1b52d980296b0d512af27431]
 
 **No longer in force.**
 
 - [Section 50 — Power to inspect accredited RHI installations and equipment used to produce biomethane](part-9/section-50.md)
 
-### PART 10 — Reviews[^key-a328146d1b52d980296b0d512af27431]
+### PART 10 — Reviews[^c-a328146d1b52d980296b0d512af27431]
 
 **No longer in force.**
 
 - [Section 51 — Right of review](part-10/section-51.md)
 
-### PART 10A — Restriction of entry to the scheme[^key-a328146d1b52d980296b0d512af27431]
+### PART 10A — Restriction of entry to the scheme[^c-a328146d1b52d980296b0d512af27431]
 
 **No longer in force.**
 
 - [Section 51A — Circumstances in which entry to the scheme is restricted](part-10a/section-51a.md)
 - [Section 51B — Interpretation](part-10a/section-51b.md)
 
-### PART 11 — Administrative Functions of the Authority and notices[^key-a328146d1b52d980296b0d512af27431]
+### PART 11 — Administrative Functions of the Authority and notices[^c-a328146d1b52d980296b0d512af27431]
 
 *Extent: E+W+S*
 
@@ -242,7 +242,7 @@ Coming into force in accordance with regulation 1
 
 **No longer in force.**
 
-[^key-a328146d1b52d980296b0d512af27431]SCHEDULES
+[^c-a328146d1b52d980296b0d512af27431]SCHEDULES
 
 - [SCHEDULE A1](schedule-a1.md)
 - [SCHEDULE 1](schedule-1.md)
@@ -261,14 +261,14 @@ Coming into force in accordance with regulation 1
 
 **No longer in force.**
 
-[^key-a328146d1b52d980296b0d512af27431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a328146d1b52d980296b0d512af27431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-a328146d1b52d980296b0d512af27431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a328146d1b52d980296b0d512af27431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a328146d1b52d980296b0d512af27431]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), regs. 1(1), [92(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/1) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-a328146d1b52d980296b0d512af27431]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), regs. 1(1), [92(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/1) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))

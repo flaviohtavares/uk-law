@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77B. Internet services: information offences[^key-8047f97e80ed5d8854c44fb0f21cc6bf]
+## 77B. Internet services: information offences[^c-8047f97e80ed5d8854c44fb0f21cc6bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8047f97e80ed5d8854c44fb0f21cc6bf]: Textual amendment: Regs. 77A, 77B inserted (29.4.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/477)](https://www.legislation.gov.uk/uksi/2022/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/477/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/477/regulation/7)
+[^c-8047f97e80ed5d8854c44fb0f21cc6bf]: Textual amendment: Regs. 77A, 77B inserted (29.4.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/477)](https://www.legislation.gov.uk/uksi/2022/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/477/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/477/regulation/7)

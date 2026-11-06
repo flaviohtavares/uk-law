@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Disclosure of confidential information[^key-539c513ac683fbd450e9d11c5006156b]
+## 48. Disclosure of confidential information[^c-539c513ac683fbd450e9d11c5006156b]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-539c513ac683fbd450e9d11c5006156b]: Commencement: Art. 48 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-539c513ac683fbd450e9d11c5006156b]: Commencement: Art. 48 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

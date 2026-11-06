@@ -35,162 +35,162 @@ on electronic freight transport information
 
 (Text with EEA relevance) (revoked)
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-427d24d9c36d083d256dd548bc1fd5de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — GENERAL PROVISIONS[^key-427d24d9c36d083d256dd548bc1fd5de]
+## CHAPTER I — GENERAL PROVISIONS[^c-427d24d9c36d083d256dd548bc1fd5de]
 
-### Article 1. Subject matter[^key-427d24d9c36d083d256dd548bc1fd5de]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Scope[^key-427d24d9c36d083d256dd548bc1fd5de]
+### Article 1. Subject matter[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Definitions[^key-427d24d9c36d083d256dd548bc1fd5de]
+### Article 2. Scope[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — REGULATORY INFORMATION MADE AVAILABLE ELECTRONICALLY[^key-427d24d9c36d083d256dd548bc1fd5de]
-
-### Article 4. Requirements for economic operators concerned[^key-427d24d9c36d083d256dd548bc1fd5de]
+### Article 3. Definitions[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Requirements for competent authorities[^key-427d24d9c36d083d256dd548bc1fd5de]
+## CHAPTER II — REGULATORY INFORMATION MADE AVAILABLE ELECTRONICALLY[^c-427d24d9c36d083d256dd548bc1fd5de]
+
+### Article 4. Requirements for economic operators concerned[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Confidential commercial information[^key-427d24d9c36d083d256dd548bc1fd5de]
+### Article 5. Requirements for competent authorities[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. eFTI common data set and eFTI data subsets[^key-427d24d9c36d083d256dd548bc1fd5de]
+### Article 6. Confidential commercial information[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Common procedures and rules for access[^key-427d24d9c36d083d256dd548bc1fd5de]
+### Article 7. eFTI common data set and eFTI data subsets[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — eFTI PLATFORMS AND eFTI SERVICE PROVIDERS[^key-427d24d9c36d083d256dd548bc1fd5de]
-
-### SECTION 1 — Requirements for eFTI platforms and eFTI service providers[^key-427d24d9c36d083d256dd548bc1fd5de]
-
-#### Article 9. Functional requirements for eFTI platforms[^key-427d24d9c36d083d256dd548bc1fd5de]
+### Article 8. Common procedures and rules for access[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 10. Requirements for eFTI service providers[^key-427d24d9c36d083d256dd548bc1fd5de]
+## CHAPTER III — eFTI PLATFORMS AND eFTI SERVICE PROVIDERS[^c-427d24d9c36d083d256dd548bc1fd5de]
+
+### SECTION 1 — Requirements for eFTI platforms and eFTI service providers[^c-427d24d9c36d083d256dd548bc1fd5de]
+
+#### Article 9. Functional requirements for eFTI platforms[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 2 — Certification[^key-427d24d9c36d083d256dd548bc1fd5de]
-
-#### Article 11. Conformity assessment bodies[^key-427d24d9c36d083d256dd548bc1fd5de]
+#### Article 10. Requirements for eFTI service providers[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 12. Certification of eFTI platforms[^key-427d24d9c36d083d256dd548bc1fd5de]
+### SECTION 2 — Certification[^c-427d24d9c36d083d256dd548bc1fd5de]
+
+#### Article 11. Conformity assessment bodies[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 13. Certification of eFTI service providers[^key-427d24d9c36d083d256dd548bc1fd5de]
+#### Article 12. Certification of eFTI platforms[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — DELEGATIONS OF POWER AND IMPLEMENTING PROVISIONS[^key-427d24d9c36d083d256dd548bc1fd5de]
-
-### Article 14. Exercise of the delegation[^key-427d24d9c36d083d256dd548bc1fd5de]
+#### Article 13. Certification of eFTI service providers[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Committee procedure[^key-427d24d9c36d083d256dd548bc1fd5de]
+## CHAPTER IV — DELEGATIONS OF POWER AND IMPLEMENTING PROVISIONS[^c-427d24d9c36d083d256dd548bc1fd5de]
+
+### Article 14. Exercise of the delegation[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — FINAL PROVISIONS[^key-427d24d9c36d083d256dd548bc1fd5de]
-
-### Article 16. Review[^key-427d24d9c36d083d256dd548bc1fd5de]
+### Article 15. Committee procedure[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Monitoring[^key-427d24d9c36d083d256dd548bc1fd5de]
+## CHAPTER V — FINAL PROVISIONS[^c-427d24d9c36d083d256dd548bc1fd5de]
+
+### Article 16. Review[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Entry into force and application[^key-427d24d9c36d083d256dd548bc1fd5de]
+### Article 17. Monitoring[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 18. Entry into force and application[^c-427d24d9c36d083d256dd548bc1fd5de]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-427d24d9c36d083d256dd548bc1fd5de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — REGULATORY INFORMATION THAT FALLS WITHIN THE SCOPE OF THIS REGULATION[^key-427d24d9c36d083d256dd548bc1fd5de]
+## ANNEX I — REGULATORY INFORMATION THAT FALLS WITHIN THE SCOPE OF THIS REGULATION[^c-427d24d9c36d083d256dd548bc1fd5de]
 
-### PART A – Regulatory information requirements referred to in point (b) of Article 2(1)[^key-427d24d9c36d083d256dd548bc1fd5de]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART B – National law[^key-427d24d9c36d083d256dd548bc1fd5de]
+### PART A – Regulatory information requirements referred to in point (b) of Article 2(1)[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — REQUIREMENTS RELATING TO CONFORMITY ASSESSMENT BODIES[^key-427d24d9c36d083d256dd548bc1fd5de]
-
-[^key-427d24d9c36d083d256dd548bc1fd5de]1.
+### PART B – National law[^c-427d24d9c36d083d256dd548bc1fd5de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]2.
+## ANNEX II — REQUIREMENTS RELATING TO CONFORMITY ASSESSMENT BODIES[^c-427d24d9c36d083d256dd548bc1fd5de]
+
+[^c-427d24d9c36d083d256dd548bc1fd5de]1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-427d24d9c36d083d256dd548bc1fd5de]2.
 
 A conformity assessment body shall be a third-party body independent of the organisation or the eFTI platform or platform service provider it assesses.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]3.
+[^c-427d24d9c36d083d256dd548bc1fd5de]3.
 
 A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be the designer, manufacturer, supplier, installer, purchaser, owner, user or maintainer of the eFTI platform or platform service provider which they assess, nor the representative of any of those parties.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]4.
+[^c-427d24d9c36d083d256dd548bc1fd5de]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]5.
+[^c-427d24d9c36d083d256dd548bc1fd5de]5.
 
 A conformity assessment body shall be capable of carrying out all the conformity assessment tasks assigned to it by Articles 12 and 13 of this Regulation, whether those tasks are carried out by the conformity assessment body itself or on its behalf and under its responsibility.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]6.
+[^c-427d24d9c36d083d256dd548bc1fd5de]6.
 
 The personnel responsible for carrying out conformity assessment tasks shall have the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]7.
+[^c-427d24d9c36d083d256dd548bc1fd5de]7.
 
 The impartiality of the conformity assessment bodies, their top level management and of the personnel responsible for carrying out the conformity assessment tasks shall be guaranteed.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]8.
+[^c-427d24d9c36d083d256dd548bc1fd5de]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]9.
+[^c-427d24d9c36d083d256dd548bc1fd5de]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]10.
+[^c-427d24d9c36d083d256dd548bc1fd5de]10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-427d24d9c36d083d256dd548bc1fd5de]: Textual amendment: Regulation revoked (E.W.S.) (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-427d24d9c36d083d256dd548bc1fd5de]: Textual amendment: Regulation revoked (E.W.S.) (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

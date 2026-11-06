@@ -22,7 +22,7 @@ summary: ''
 
 (1) The arrangements the employer must make in accordance with section 3(2) (automatic enrolment) of the Act are to enter into arrangements with—
 
-- (a) the trustees or managers of an automatic enrolment scheme which is an occupational pension scheme, so that before the end of a period of six weeks[^key-a1f075552ad145d52f9c8060d4d6fa5c] beginning with the automatic enrolment date the jobholder to whom section 3 of the Act applies becomes an active member of that scheme with effect from the automatic enrolment date; or
+- (a) the trustees or managers of an automatic enrolment scheme which is an occupational pension scheme, so that before the end of a period of six weeks[^c-a1f075552ad145d52f9c8060d4d6fa5c] beginning with the automatic enrolment date the jobholder to whom section 3 of the Act applies becomes an active member of that scheme with effect from the automatic enrolment date; or
 - (b) the provider of an automatic enrolment scheme which is a personal pension scheme, so that before the end of a period of six weeks beginning with the automatic enrolment date the jobholder to whom section 3 of the Act applies is given information about the terms and conditions of the agreement to be deemed to exist under paragraph (2).
 
 (2) Where the employer enters into arrangements with a personal pension scheme provider under paragraph (1)(b), the jobholder is deemed to have entered into an agreement to be an active member of that scheme with effect from the automatic enrolment date, on the later of—
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1f075552ad145d52f9c8060d4d6fa5c]: Textual amendment: Words in reg. 6(1) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/4)
+[^c-a1f075552ad145d52f9c8060d4d6fa5c]: Textual amendment: Words in reg. 6(1) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/4)

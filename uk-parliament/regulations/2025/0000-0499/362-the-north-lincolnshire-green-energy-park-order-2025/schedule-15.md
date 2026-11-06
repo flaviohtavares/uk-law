@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 15 — DOCUMENTS AND PLANS TO BE CERTIFIED[^key-d0ac320d8d792757e4290455da504acd]
+## SCHEDULE 15 — DOCUMENTS AND PLANS TO BE CERTIFIED[^c-d0ac320d8d792757e4290455da504acd]
 
 *Extent: E+W+S*
 
@@ -64,10 +64,10 @@ Article 46
 </tbody>
 </table>
 
-[^key-d85572d684caa6179d77cb464bd0613e]
+[^c-d85572d684caa6179d77cb464bd0613e]
 
 ## Annotations
 
-[^key-d0ac320d8d792757e4290455da504acd]: Commencement: Sch. 15 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-d0ac320d8d792757e4290455da504acd]: Commencement: Sch. 15 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-d85572d684caa6179d77cb464bd0613e]: Textual amendment: Words in [Sch. 15](https://www.legislation.gov.uk/uksi/2025/362/schedule/15) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-d85572d684caa6179d77cb464bd0613e]: Textual amendment: Words in [Sch. 15](https://www.legislation.gov.uk/uksi/2025/362/schedule/15) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)

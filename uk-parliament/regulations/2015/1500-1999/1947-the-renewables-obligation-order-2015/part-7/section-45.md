@@ -46,8 +46,8 @@ summary: ''
   - (ii) is not registered under article 91;
 - (d) a combustion unit in relation to which a capacity market transfer notice (within the meaning of article 48(3)) has come into force; or
 - (e) a combustion unit in relation to which a CFD transfer notice (within the meaning of article 50(3))—
-  - (i) has come into force, [^key-7270e18aa9a93971aa4074432ee5129a]...
-  - (ii)[^key-7270e18aa9a93971aa4074432ee5129a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) has come into force, [^c-7270e18aa9a93971aa4074432ee5129a]...
+  - (ii)[^c-7270e18aa9a93971aa4074432ee5129a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) For the purposes of paragraph (4)—
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7270e18aa9a93971aa4074432ee5129a]: Textual amendment: [Art. 45(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2015/1947/article/45/4/e/ii) and word omitted (31.12.2020) by virtue of [The Renewables Obligation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/35)](https://www.legislation.gov.uk/uksi/2019/35), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/35/regulation/1/2), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2019/35/schedule/1/paragraph/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7270e18aa9a93971aa4074432ee5129a]: Textual amendment: [Art. 45(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2015/1947/article/45/4/e/ii) and word omitted (31.12.2020) by virtue of [The Renewables Obligation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/35)](https://www.legislation.gov.uk/uksi/2019/35), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/35/regulation/1/2), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2019/35/schedule/1/paragraph/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Life policies etc: chargeable events[^key-55005e4b0fe114e9e88e67561a258ecb]
+## 87. Life policies etc: chargeable events[^c-55005e4b0fe114e9e88e67561a258ecb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55005e4b0fe114e9e88e67561a258ecb]: Textual amendment: [S. 87](https://www.legislation.gov.uk/ukpga/2002/23/section/87) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(k)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/k)
+[^c-55005e4b0fe114e9e88e67561a258ecb]: Textual amendment: [S. 87](https://www.legislation.gov.uk/ukpga/2002/23/section/87) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(k)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/k)

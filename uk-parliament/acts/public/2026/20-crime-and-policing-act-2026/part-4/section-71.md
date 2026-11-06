@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Protections for witnesses, and lifestyle offences[^key-8c0fb5dc038bd0580c477915659c95a6]
+## 71. Protections for witnesses, and lifestyle offences[^c-8c0fb5dc038bd0580c477915659c95a6]
 
 *Extent: E+W+N.I.*
 
@@ -105,4 +105,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c0fb5dc038bd0580c477915659c95a6]: Commencement: S. 71 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(f)
+[^c-8c0fb5dc038bd0580c477915659c95a6]: Commencement: S. 71 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(f)

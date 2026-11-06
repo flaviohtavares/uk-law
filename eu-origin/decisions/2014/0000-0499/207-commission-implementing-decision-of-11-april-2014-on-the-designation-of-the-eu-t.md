@@ -37,18 +37,18 @@ on the designation of the .eu Top Level Domain Registry
 
 (2014/207/EU) (revoked)
 
-[^key-14b869297f15c171fdea5ce057ee0b05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14b869297f15c171fdea5ce057ee0b05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-14b869297f15c171fdea5ce057ee0b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-14b869297f15c171fdea5ce057ee0b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-14b869297f15c171fdea5ce057ee0b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-14b869297f15c171fdea5ce057ee0b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-14b869297f15c171fdea5ce057ee0b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-14b869297f15c171fdea5ce057ee0b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-14b869297f15c171fdea5ce057ee0b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-14b869297f15c171fdea5ce057ee0b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-14b869297f15c171fdea5ce057ee0b05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14b869297f15c171fdea5ce057ee0b05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-14b869297f15c171fdea5ce057ee0b05]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [7(f)](https://www.legislation.gov.uk/uksi/2019/919/regulation/7/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14b869297f15c171fdea5ce057ee0b05]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [7(f)](https://www.legislation.gov.uk/uksi/2019/919/regulation/7/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

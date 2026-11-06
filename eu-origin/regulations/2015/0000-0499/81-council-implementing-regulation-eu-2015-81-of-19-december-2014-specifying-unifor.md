@@ -33,46 +33,46 @@ of 19 December 2014
 
 specifying uniform conditions of application of Regulation (EU) No 806/2014 of the European Parliament and of the Council with regard to *ex ante* contributions to the Single Resolution Fund (revoked)
 
-[^key-9ebbec30dead531b7f3f3c1c02db7e9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ebbec30dead531b7f3f3c1c02db7e9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-9ebbec30dead531b7f3f3c1c02db7e9b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Scope[^key-9ebbec30dead531b7f3f3c1c02db7e9b]
+## Article 1. Subject matter[^c-9ebbec30dead531b7f3f3c1c02db7e9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Definitions[^key-9ebbec30dead531b7f3f3c1c02db7e9b]
+## Article 2. Scope[^c-9ebbec30dead531b7f3f3c1c02db7e9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Calculation of the annual contributions[^key-9ebbec30dead531b7f3f3c1c02db7e9b]
+## Article 3. Definitions[^c-9ebbec30dead531b7f3f3c1c02db7e9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Communication by the Board[^key-9ebbec30dead531b7f3f3c1c02db7e9b]
+## Article 4. Calculation of the annual contributions[^c-9ebbec30dead531b7f3f3c1c02db7e9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Reporting[^key-9ebbec30dead531b7f3f3c1c02db7e9b]
+## Article 5. Communication by the Board[^c-9ebbec30dead531b7f3f3c1c02db7e9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Call of irrevocable payment commitments[^key-9ebbec30dead531b7f3f3c1c02db7e9b]
+## Article 6. Reporting[^c-9ebbec30dead531b7f3f3c1c02db7e9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Specific adjustments in the initial period[^key-9ebbec30dead531b7f3f3c1c02db7e9b]
+## Article 7. Call of irrevocable payment commitments[^c-9ebbec30dead531b7f3f3c1c02db7e9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-9ebbec30dead531b7f3f3c1c02db7e9b]
+## Article 8. Specific adjustments in the initial period[^c-9ebbec30dead531b7f3f3c1c02db7e9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ebbec30dead531b7f3f3c1c02db7e9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Entry into force[^c-9ebbec30dead531b7f3f3c1c02db7e9b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9ebbec30dead531b7f3f3c1c02db7e9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9ebbec30dead531b7f3f3c1c02db7e9b]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [34(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/34/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ebbec30dead531b7f3f3c1c02db7e9b]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [34(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/34/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Liability of others for offences committed by bodies[^key-cd4bffef667b94d49c53a149628d6ad4]
+## 134. Liability of others for offences committed by bodies[^c-cd4bffef667b94d49c53a149628d6ad4]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ the person (as well as the body) commits the offence and is liable to be proceed
 
 ## Annotations
 
-[^key-cd4bffef667b94d49c53a149628d6ad4]: Commencement: S. 134 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-cd4bffef667b94d49c53a149628d6ad4]: Commencement: S. 134 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

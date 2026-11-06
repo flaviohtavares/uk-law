@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Regulation (EU) 2017/1004 of the European Parliament and of the Council on the establishment of a Union framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy[^key-fbb35fb47f342cd2552140924d882bb1]
+## 32. Regulation (EU) 2017/1004 of the European Parliament and of the Council on the establishment of a Union framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy[^c-fbb35fb47f342cd2552140924d882bb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,7 +87,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fbb35fb47f342cd2552140924d882bb1]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-fbb35fb47f342cd2552140924d882bb1]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c24328201]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 

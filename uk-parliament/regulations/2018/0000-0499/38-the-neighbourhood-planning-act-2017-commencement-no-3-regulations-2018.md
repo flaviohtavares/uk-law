@@ -37,13 +37,13 @@ Made
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 46(1), (2) and (4) of the Neighbourhood Planning Act 2017[^f00001]:
 
-## 1. Citation and interpretation[^key-4f98275bd8c46f4adb988e53de69ad6a]
+## 1. Citation and interpretation[^c-4f98275bd8c46f4adb988e53de69ad6a]
 
 (1) These Regulations may be cited as the Neighbourhood Planning Act 2017 (Commencement No. 3) Regulations 2018.
 
 (2) In these Regulations, “the Act” means the Neighbourhood Planning Act 2017.
 
-## 2. Provisions coming into force on 16th January 2018[^key-f941caa8d5558f41beb6a67374515409]
+## 2. Provisions coming into force on 16th January 2018[^c-f941caa8d5558f41beb6a67374515409]
 
 The following provisions of the Act come into force on 16th January 2018—
 
@@ -51,7 +51,7 @@ The following provisions of the Act come into force on 16th January 2018—
 - (b) section 9 (power to direct preparation of joint development plan documents), so far as not already in force; and
 - (c) section 10 and Schedule 2 (county councils’ default powers in relation to development plan documents).
 
-## 3. Provisions coming into force on 31st January 2018[^key-9baf2ad550a75ebd274317d5d5a5ec94]
+## 3. Provisions coming into force on 31st January 2018[^c-9baf2ad550a75ebd274317d5d5a5ec94]
 
 The following provisions of the Act come into force on 31st January 2018—
 
@@ -59,14 +59,14 @@ The following provisions of the Act come into force on 31st January 2018—
 - (b) section 4 (modification of neighbourhood development order or plan) and Schedule 1 (new Schedule A2 to the Planning and Compulsory Purchase Act 2004[^f00002]), so far as not already in force; and
 - (c) section 5 (changes to neighbourhood areas etc).
 
-## 4. Provisions coming into force on 31st July 2018[^key-19e46ec382da0b815c60076beb710f0a]
+## 4. Provisions coming into force on 31st July 2018[^c-19e46ec382da0b815c60076beb710f0a]
 
 The following provisions of the Act come into force on 31st July 2018—
 
 - (a) section 6 (assistance in connection with neighbourhood planning); and
 - (b) section 13(2) (statements of community involvement).
 
-## 5. Transitional provisions: statements of community involvement[^key-1e9907e5a40b268d3d059a0368374d51]
+## 5. Transitional provisions: statements of community involvement[^c-1e9907e5a40b268d3d059a0368374d51]
 
 (1) The amendments made by section 13(2) of the Act (statements of community involvement) do not apply to a local planning authority in relation to its preparation of a development plan document where, in respect of its proposals for that document, the local planning authority has complied with the requirements of regulation 18(1) of the Town and Country Planning (Local Planning)(England) Regulations 2012[^f00003] before 31st July 2018.
 
@@ -139,16 +139,16 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00001]: Footnote: [2017 c.20](https://www.legislation.gov.uk/ukpga/2017/20).
 
-[^key-4f98275bd8c46f4adb988e53de69ad6a]: Commencement: Reg. 1 in force at made date
+[^c-4f98275bd8c46f4adb988e53de69ad6a]: Commencement: Reg. 1 in force at made date
 
-[^key-f941caa8d5558f41beb6a67374515409]: Commencement: Reg. 2 in force at made date
+[^c-f941caa8d5558f41beb6a67374515409]: Commencement: Reg. 2 in force at made date
 
-[^key-9baf2ad550a75ebd274317d5d5a5ec94]: Commencement: Reg. 3 in force at made date
+[^c-9baf2ad550a75ebd274317d5d5a5ec94]: Commencement: Reg. 3 in force at made date
 
 [^f00002]: Footnote: [2004 c.5](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-19e46ec382da0b815c60076beb710f0a]: Commencement: Reg. 4 in force at made date
+[^c-19e46ec382da0b815c60076beb710f0a]: Commencement: Reg. 4 in force at made date
 
-[^key-1e9907e5a40b268d3d059a0368374d51]: Commencement: Reg. 5 in force at made date
+[^c-1e9907e5a40b268d3d059a0368374d51]: Commencement: Reg. 5 in force at made date
 
 [^f00003]: Footnote: [S.I. 2012/767](https://www.legislation.gov.uk/uksi/2012/767).

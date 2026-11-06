@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Interpretation of this Chapter[^key-d30e5eb87f90264baf102ca65424c315]
+## 16. Interpretation of this Chapter[^c-d30e5eb87f90264baf102ca65424c315]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Chapter “**licence**” means an operator licence, a range control lic
 
 ## Annotations
 
-[^key-d30e5eb87f90264baf102ca65424c315]: Commencement: Reg. 16 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d30e5eb87f90264baf102ca65424c315]: Commencement: Reg. 16 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

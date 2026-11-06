@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Resolution for whole-council elections[^key-8d831ab71b5784e238e479f73016d62d]
+## 32. Resolution for whole-council elections[^c-8d831ab71b5784e238e479f73016d62d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d831ab71b5784e238e479f73016d62d]: Commencement: S. 32 in force at 30.12.2007, see s. 245(2)
+[^c-8d831ab71b5784e238e479f73016d62d]: Commencement: S. 32 in force at 30.12.2007, see s. 245(2)

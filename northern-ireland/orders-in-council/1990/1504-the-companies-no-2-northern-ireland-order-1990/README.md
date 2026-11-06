@@ -27,7 +27,7 @@ summary: ''
 
 1990 No. 1504 (N.I. 10)
 
-The Companies (No. 2) (Northern Ireland) Order 1990[^key-a05591a8f621cc25b66c568f3786e3c5]
+The Companies (No. 2) (Northern Ireland) Order 1990[^c-a05591a8f621cc25b66c568f3786e3c5]
 
 24th July 1990 [^c21805761][^c22530151]
 
@@ -239,7 +239,7 @@ SCHEDULES
 
 ## Annotations
 
-[^key-a05591a8f621cc25b66c568f3786e3c5]: Modification: [Order](https://www.legislation.gov.uk/nisi/1990/1504) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/c)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-a05591a8f621cc25b66c568f3786e3c5]: Modification: [Order](https://www.legislation.gov.uk/nisi/1990/1504) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(c)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/c)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
 
 [^c21805761]: Modification: Order modified (21.2.2009) by [Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [art. 3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 

@@ -31,22 +31,22 @@ Vexatious Actions (Scotland) Act 1898 (repealed)
 
 1898 c.35
 
-[^key-2e48fb011b0dc16f8628a15f58381a7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e48fb011b0dc16f8628a15f58381a7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Power of Court of Session to prohibit institution of action without leave.[^key-2e48fb011b0dc16f8628a15f58381a7b]
+## 1. Power of Court of Session to prohibit institution of action without leave.[^c-2e48fb011b0dc16f8628a15f58381a7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1A.[^key-2e48fb011b0dc16f8628a15f58381a7b]
+## 1A.[^c-2e48fb011b0dc16f8628a15f58381a7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title.[^key-2e48fb011b0dc16f8628a15f58381a7b]
+## 2. Short title.[^c-2e48fb011b0dc16f8628a15f58381a7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2e48fb011b0dc16f8628a15f58381a7b]: Textual amendment: Act repealed (S.) (28.11.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 27](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/27); [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/291/article/4))
+[^c-2e48fb011b0dc16f8628a15f58381a7b]: Textual amendment: Act repealed (S.) (28.11.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 27](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/27); [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/291/article/4))

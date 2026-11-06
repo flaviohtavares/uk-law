@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Intimate searches[^c11323891][^c11323901][^c18892241][^c18895621][^c19560111][^key-5b79c5c2a7e9eba71540b19dfdb8d95b]
+## 55. Intimate searches[^c11323891][^c11323901][^c18892241][^c18895621][^c19560111][^c-5b79c5c2a7e9eba71540b19dfdb8d95b]
 
 *Extent: E+W*
 
 (1) Subject to the following provisions of this section, if an officer of at least the rank of inspector[^c11323911] has reasonable grounds for believing—
 
-- (a)[^key-9ba76b4119125eb83b5008d9d044c011] that a person who has been arrested and is in police detention may have concealed on him anything which—
+- (a)[^c-9ba76b4119125eb83b5008d9d044c011] that a person who has been arrested and is in police detention may have concealed on him anything which—
   - (i) he could use to cause physical injury to himself or others; and
   - (ii) he might so use while he is in police detention or in the custody of a court; or
 - (b) that such a person—
@@ -31,9 +31,9 @@ summary: ''
 
 he may authorise an intimate search[^c11323921] of that person.
 
-(2)[^key-9ba76b4119125eb83b5008d9d044c011] An officer may not authorise an intimate search of a person for anything unless he has reasonable grounds for believing that it cannot be found without his being intimately searched.
+(2)[^c-9ba76b4119125eb83b5008d9d044c011] An officer may not authorise an intimate search of a person for anything unless he has reasonable grounds for believing that it cannot be found without his being intimately searched.
 
-(3)[^key-9ba76b4119125eb83b5008d9d044c011] An officer may give an authorisation under subsection (1) above orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
+(3)[^c-9ba76b4119125eb83b5008d9d044c011] An officer may give an authorisation under subsection (1) above orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
 
 (3A)[^c18959211] A drug offence search shall not be carried out unless the appropriate consent has been given in writing.
 
@@ -44,13 +44,13 @@ he may authorise an intimate search[^c11323921] of that person.
 
 (4) An intimate search which is only a drug offence search shall be by way of examination by a suitably qualified person.
 
-(5)[^key-9ba76b4119125eb83b5008d9d044c011] Except as provided by subsection (4) above, an intimate search shall be by way of examination by a suitably qualified person unless an officer of at least the rank of inspector considers that this is not practicable.
+(5)[^c-9ba76b4119125eb83b5008d9d044c011] Except as provided by subsection (4) above, an intimate search shall be by way of examination by a suitably qualified person unless an officer of at least the rank of inspector considers that this is not practicable.
 
-(6)[^c16940071][^key-9ba76b4119125eb83b5008d9d044c011] An intimate search which is not carried out as mentioned in subsection (5) above shall be carried out by a constable.
+(6)[^c16940071][^c-9ba76b4119125eb83b5008d9d044c011] An intimate search which is not carried out as mentioned in subsection (5) above shall be carried out by a constable.
 
-(7)[^c16940401][^key-9ba76b4119125eb83b5008d9d044c011] A constable may not carry out an intimate search of a person of the opposite sex.
+(7)[^c16940401][^c-9ba76b4119125eb83b5008d9d044c011] A constable may not carry out an intimate search of a person of the opposite sex.
 
-(8)[^key-9ba76b4119125eb83b5008d9d044c011] No intimate search may be carried out except—
+(8)[^c-9ba76b4119125eb83b5008d9d044c011] No intimate search may be carried out except—
 
 - (a) at a police station;
 - (b) at a hospital;
@@ -59,7 +59,7 @@ he may authorise an intimate search[^c11323921] of that person.
 
 (9) An intimate search which is only a drug offence search may not be carried out at a police station.
 
-(10)[^key-9ba76b4119125eb83b5008d9d044c011] If an intimate search of a person is carried out, the custody record relating to him shall state—
+(10)[^c-9ba76b4119125eb83b5008d9d044c011] If an intimate search of a person is carried out, the custody record relating to him shall state—
 
 - (a) which parts of his body were searched; and
 - (b) why they were searched.
@@ -70,9 +70,9 @@ he may authorise an intimate search[^c11323921] of that person.
 - (b) the grounds for giving the authorisation; and
 - (c) the fact that the appropriate consent was given.
 
-(11)[^key-9ba76b4119125eb83b5008d9d044c011] The information required to be recorded by subsections (10) and (10A)[^c18959261] above shall be recorded as soon as practicable after the completion of the search.
+(11)[^c-9ba76b4119125eb83b5008d9d044c011] The information required to be recorded by subsections (10) and (10A)[^c18959261] above shall be recorded as soon as practicable after the completion of the search.
 
-(12)[^key-9ba76b4119125eb83b5008d9d044c011] The custody officer at a police station may seize and retain anything which is found on an intimate search of a person, or cause any such thing to be seized and retained—
+(12)[^c-9ba76b4119125eb83b5008d9d044c011] The custody officer at a police station may seize and retain anything which is found on an intimate search of a person, or cause any such thing to be seized and retained—
 
 - (a) if he believes that the person from whom it is seized may use it—
   - (i) to cause physical injury to himself or any other person;
@@ -81,7 +81,7 @@ he may authorise an intimate search[^c11323921] of that person.
   - (iv) to assist him to escape; or
 - (b) if he has reasonable grounds for believing that it may be evidence relating to an offence.
 
-(13)[^key-9ba76b4119125eb83b5008d9d044c011] Where anything is seized under this section, the person from whom it is seized shall be told the reason for the seizure unless he is—
+(13)[^c-9ba76b4119125eb83b5008d9d044c011] Where anything is seized under this section, the person from whom it is seized shall be told the reason for the seizure unless he is—
 
 - (a) violent or likely to become violent; or
 - (b) incapable of understanding what is said to him.
@@ -94,7 +94,7 @@ he may authorise an intimate search[^c11323921] of that person.
 
 may draw such inferences from the refusal as appear proper.
 
-(14)[^key-9ba76b4119125eb83b5008d9d044c011] Every annual report—
+(14)[^c-9ba76b4119125eb83b5008d9d044c011] Every annual report—
 
 - (a)[^c11323941] under section 22 of the [^c11323951]Police Act 1996; or
 - (b) made by the Commissioner of Police of the Metropolis,
@@ -103,7 +103,7 @@ shall contain information about searches under this section which have been carr
 
 (14A) [^c18959501]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15)[^key-9ba76b4119125eb83b5008d9d044c011] The information about such searches shall include—
+(15)[^c-9ba76b4119125eb83b5008d9d044c011] The information about such searches shall include—
 
 - (a) the total number of searches;
 - (b) the number of searches conducted by way of examination by a suitably qualified person;
@@ -115,7 +115,7 @@ shall contain information about searches under this section which have been carr
 - (a) the total number of drug offence searches; and
 - (b) the result of those searches.
 
-(17)[^key-9ba76b4119125eb83b5008d9d044c011] In this section—
+(17)[^c-9ba76b4119125eb83b5008d9d044c011] In this section—
 
 - “**the appropriate criminal intent**” means an intent to commit an offence under—
 - (a) section 5(3) of the [^c11323971]Misuse of Drugs Act 1971 (possession of controlled drug with intent to supply to another); or
@@ -147,11 +147,11 @@ shall contain information about searches under this section which have been carr
 
 [^c19560111]: Modification: S. 55 applied (with modifications) (31.12.2006) by [The Police and Criminal Evidence Act 1984 (Application to the Armed Forces) Order 2006 (S.I. 2006/2015)](https://www.legislation.gov.uk/uksi/2006/2015), [arts. 2](https://www.legislation.gov.uk/uksi/2006/2015/article/2), [3](https://www.legislation.gov.uk/uksi/2006/2015/article/3), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2006/2015/schedule/1)
 
-[^key-5b79c5c2a7e9eba71540b19dfdb8d95b]: Modification: S. 55 applied (with modifications) (4.11.2015) by [The Police and Criminal Evidence Act 1984 (Application to Revenue and Customs) Order 2015 (S.I. 2015/1783)](https://www.legislation.gov.uk/uksi/2015/1783), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1783/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1783/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/2), [(3)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/3), [4-19](https://www.legislation.gov.uk/uksi/2015/1783/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1783/schedule/2))
+[^c-5b79c5c2a7e9eba71540b19dfdb8d95b]: Modification: S. 55 applied (with modifications) (4.11.2015) by [The Police and Criminal Evidence Act 1984 (Application to Revenue and Customs) Order 2015 (S.I. 2015/1783)](https://www.legislation.gov.uk/uksi/2015/1783), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1783/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1783/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/2), [(3)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/3), [4-19](https://www.legislation.gov.uk/uksi/2015/1783/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1783/schedule/2))
 
 [^c11323911]: Textual amendment: Words in s. 55(1)(5) inserted (1.4.2003) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 79](https://www.legislation.gov.uk/ukpga/2001/16/section/79), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(g)](https://www.legislation.gov.uk/uksi/2003/708/article/2/g)
 
-[^key-9ba76b4119125eb83b5008d9d044c011]: Modification: S. 55(1)(a)(2)(3)(5)-(8)(10)(11)-(13)(14)(15)(17) applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
+[^c-9ba76b4119125eb83b5008d9d044c011]: Modification: S. 55(1)(a)(2)(3)(5)-(8)(10)(11)-(13)(14)(15)(17) applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
 
 [^c11323921]: Textual amendment: Words substituted by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [s. 170(1)](https://www.legislation.gov.uk/ukpga/1988/33/section/170/1), [Sch. 15 para. 99](https://www.legislation.gov.uk/ukpga/1988/33/schedule/15/paragraph/99)
 

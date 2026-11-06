@@ -26,14 +26,14 @@ summary: ''
 
 (3) No [^c9546721]. . . order shall be made under—
 
-- (a) section [^c9546761]. . ., 17(7),[^key-4d0c9d48b553b7eb76a056b531be3583] 18(5), 42(2) or 44(5), [^c9546771]. . .
+- (a) section [^c9546761]. . ., 17(7),[^c-4d0c9d48b553b7eb76a056b531be3583] 18(5), 42(2) or 44(5), [^c9546771]. . .
 - (b)[^c9546771] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 unless a draft of the [^c9546721]. . .order has been laid before, and approved by a resolution of, each House of Parliament.
 
 (4)[^c9546801] Any [^c9546721]. . . order made by the Secretary of State under this Act may make different provision for different cases, circumstances or areas and may contain such incidental, supplemental, saving or transitional provisions as the Secretary of State thinks fit.
 
-(5)[^key-2ec267df17406ae3be595f943764b14e] Any power of the Department of Justice in Northern Ireland to make an order under this Act shall be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+(5)[^c-2ec267df17406ae3be595f943764b14e] Any power of the Department of Justice in Northern Ireland to make an order under this Act shall be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
 
 (6) No order shall be made by the Department of Justice under section 44(5) unless a draft of it has been laid before, and approved by a resolution of, the Northern Ireland Assembly (and subsection (3) above shall not apply to the making of any order by the Department of Justice).
 
@@ -49,7 +49,7 @@ unless a draft of the [^c9546721]. . .order has been laid before, and approved b
 
 [^c9546761]: Textual amendment: Word in s. 64(3) repealed (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(4)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/4), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/I) (with [Sch. 11 paras. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/2))
 
-[^key-4d0c9d48b553b7eb76a056b531be3583]: Textual amendment: Word in [s. 64(3)(a)](https://www.legislation.gov.uk/ukpga/1999/23/section/64/3/a) inserted (27.6.2011) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 99(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/99/3), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 23](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/23)); [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)
+[^c-4d0c9d48b553b7eb76a056b531be3583]: Textual amendment: Word in [s. 64(3)(a)](https://www.legislation.gov.uk/ukpga/1999/23/section/64/3/a) inserted (27.6.2011) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 99(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/99/3), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 23](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/23)); [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)
 
 [^c9546771]: Textual amendment: S. 64(3)(b) and the word preceding it repealed (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(4)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/4), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/I) (with [Sch. 11 paras. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/2))
 
@@ -57,4 +57,4 @@ unless a draft of the [^c9546721]. . .order has been laid before, and approved b
 
     S. 64(4) power partly exercised (29.7.2000): 4.9.2000 appointed for specified provisions by [S.I. 2000/2091](https://www.legislation.gov.uk/uksi/2000/2091), [art. 2](https://www.legislation.gov.uk/uksi/2000/2091/article/2)
 
-[^key-2ec267df17406ae3be595f943764b14e]: Textual amendment: S. 64(5)-(8) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 44](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/44) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-2ec267df17406ae3be595f943764b14e]: Textual amendment: S. 64(5)-(8) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 44](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/44) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

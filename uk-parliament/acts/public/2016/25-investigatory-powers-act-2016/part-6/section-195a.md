@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195A. Section 195: procedure where use of criteria approved by senior official[^key-264fe77341b07d0f4943575c38d16c97]
+## 195A. Section 195: procedure where use of criteria approved by senior official[^c-264fe77341b07d0f4943575c38d16c97]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-264fe77341b07d0f4943575c38d16c97]: Textual amendment: [Ss. 195](https://www.legislation.gov.uk/ukpga/2016/25/section/195), [195A](https://www.legislation.gov.uk/ukpga/2016/25/section/195A) substituted for s. 195 (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/27/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/y)
+[^c-264fe77341b07d0f4943575c38d16c97]: Textual amendment: [Ss. 195](https://www.legislation.gov.uk/ukpga/2016/25/section/195), [195A](https://www.legislation.gov.uk/ukpga/2016/25/section/195A) substituted for s. 195 (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/27/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/y)

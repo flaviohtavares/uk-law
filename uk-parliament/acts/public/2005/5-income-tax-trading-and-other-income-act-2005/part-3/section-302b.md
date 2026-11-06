@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 302B. Section 302A: supplementary[^key-00f44adaa85eead200c21ffd6098af79]
+## 302B. Section 302A: supplementary[^c-00f44adaa85eead200c21ffd6098af79]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) Subsection (1) applies despite any obligation as to secrecy or other restriction on the disclosure of information.
 
-(3)[^key-4888d6a31e6e9d9f0f17a8b7369f77d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4888d6a31e6e9d9f0f17a8b7369f77d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-4888d6a31e6e9d9f0f17a8b7369f77d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4888d6a31e6e9d9f0f17a8b7369f77d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-00f44adaa85eead200c21ffd6098af79]: Textual amendment: Ss. 302A-302C and cross-heading inserted (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/22) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-00f44adaa85eead200c21ffd6098af79]: Textual amendment: Ss. 302A-302C and cross-heading inserted (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/22) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-4888d6a31e6e9d9f0f17a8b7369f77d2]: Textual amendment: S. 302B(3)(4) omitted (with effect in accordance with Sch. 23 para. 65 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 57(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/57/2), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))
+[^c-4888d6a31e6e9d9f0f17a8b7369f77d2]: Textual amendment: S. 302B(3)(4) omitted (with effect in accordance with Sch. 23 para. 65 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 57(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/57/2), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))

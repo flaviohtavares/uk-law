@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Sexual harassment: power to make provision about “reasonable steps”[^key-b8bdd9726cb72578250480dc7d71c87b][^key-fb5ec5e8b281308d7d3320e1788b5731]
+## 22. Sexual harassment: power to make provision about “reasonable steps”[^c-b8bdd9726cb72578250480dc7d71c87b][^c-fb5ec5e8b281308d7d3320e1788b5731]
 
 *Extent: E+W+S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8bdd9726cb72578250480dc7d71c87b]: Commencement: S. 22 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b8bdd9726cb72578250480dc7d71c87b]: Commencement: S. 22 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-fb5ec5e8b281308d7d3320e1788b5731]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/36/section/22) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/c)
+[^c-fb5ec5e8b281308d7d3320e1788b5731]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/36/section/22) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/c)

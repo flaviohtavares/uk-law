@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Transfers: supplementary provision[^key-52c8e184e2a627b5dd962a1ef2e85c2a]
+## 38. Transfers: supplementary provision[^c-52c8e184e2a627b5dd962a1ef2e85c2a]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ as they have effect in relation to the transfer made by this Part of land or oth
 
 ## Annotations
 
-[^key-52c8e184e2a627b5dd962a1ef2e85c2a]: Commencement: Art. 38 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-52c8e184e2a627b5dd962a1ef2e85c2a]: Commencement: Art. 38 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

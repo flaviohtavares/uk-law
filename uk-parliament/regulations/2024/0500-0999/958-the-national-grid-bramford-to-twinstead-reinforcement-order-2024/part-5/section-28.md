@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Use of subsoil under or airspace over streets[^key-ec701b459b557b127c62d8459acb259e]
+## 28. Use of subsoil under or airspace over streets[^c-ec701b459b557b127c62d8459acb259e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec701b459b557b127c62d8459acb259e]: Commencement: Art. 28 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-ec701b459b557b127c62d8459acb259e]: Commencement: Art. 28 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

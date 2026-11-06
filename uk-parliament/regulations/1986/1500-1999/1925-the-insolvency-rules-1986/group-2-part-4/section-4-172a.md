@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.172A. Formal defects[^key-acc0f7314c0d1c7ccddca58e372dd9e1]
+## 4.172A. Formal defects[^c-acc0f7314c0d1c7ccddca58e372dd9e1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The acts of the liquidation committee established for any winding up are valid n
 
 ## Annotations
 
-[^key-acc0f7314c0d1c7ccddca58e372dd9e1]: Textual amendment: [Rule 4.172A](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.172A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 75](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/75)
+[^c-acc0f7314c0d1c7ccddca58e372dd9e1]: Textual amendment: [Rule 4.172A](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.172A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 75](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/75)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Protective provisions for specified undertakers[^key-7a79a4badc3fce6a13854f86bb242b36]
+## 25. Protective provisions for specified undertakers[^c-7a79a4badc3fce6a13854f86bb242b36]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 9 (Protective provisions) shall have effect.
 
 ## Annotations
 
-[^key-7a79a4badc3fce6a13854f86bb242b36]: Commencement: Art. 25 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-7a79a4badc3fce6a13854f86bb242b36]: Commencement: Art. 25 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

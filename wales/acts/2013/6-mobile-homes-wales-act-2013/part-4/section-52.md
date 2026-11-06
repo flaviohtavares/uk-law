@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Site rules[^key-ecdadc054d0303ae4f4172d6ee09302c][^key-ad6c975d176e6d533085553eae3d7039]
+## 52. Site rules[^c-ecdadc054d0303ae4f4172d6ee09302c][^c-ad6c975d176e6d533085553eae3d7039]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ecdadc054d0303ae4f4172d6ee09302c]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2013/6/section/52) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/11/article/2/a)
+[^c-ecdadc054d0303ae4f4172d6ee09302c]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2013/6/section/52) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/11/article/2/a)
 
-[^key-ad6c975d176e6d533085553eae3d7039]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2013/6/section/52) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-ad6c975d176e6d533085553eae3d7039]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2013/6/section/52) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

@@ -35,24 +35,24 @@ amending and correcting Delegated Regulation (EU) 2017/587 to specify the requir
 
 (Text with EEA relevance) (revoked)
 
-[^key-5a07a74687a9e4cddcfa31b0870b8508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a07a74687a9e4cddcfa31b0870b8508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Delegated Regulation (EU) 2017/587[^key-5a07a74687a9e4cddcfa31b0870b8508]
+## Article 1. Amendments to Delegated Regulation (EU) 2017/587[^c-5a07a74687a9e4cddcfa31b0870b8508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Corrections to Delegated Regulation (EU) 2017/587[^key-5a07a74687a9e4cddcfa31b0870b8508]
+## Article 2. Corrections to Delegated Regulation (EU) 2017/587[^c-5a07a74687a9e4cddcfa31b0870b8508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-5a07a74687a9e4cddcfa31b0870b8508]
+## Article 3. Entry into force[^c-5a07a74687a9e4cddcfa31b0870b8508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a07a74687a9e4cddcfa31b0870b8508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a07a74687a9e4cddcfa31b0870b8508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a07a74687a9e4cddcfa31b0870b8508]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/1/part/3)
+[^c-5a07a74687a9e4cddcfa31b0870b8508]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/1/part/3)

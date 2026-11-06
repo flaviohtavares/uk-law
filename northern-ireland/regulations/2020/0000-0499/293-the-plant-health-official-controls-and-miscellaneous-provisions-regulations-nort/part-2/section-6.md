@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Designation of competent authority[^key-05d2450edced47fe9c21ca0e14a9607c]
+## 6. Designation of competent authority[^c-05d2450edced47fe9c21ca0e14a9607c]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The Department of Agriculture, Environment and Rural Affairs is designated as th
 
 ## Annotations
 
-[^key-05d2450edced47fe9c21ca0e14a9607c]: Commencement: Reg. 6 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-05d2450edced47fe9c21ca0e14a9607c]: Commencement: Reg. 6 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

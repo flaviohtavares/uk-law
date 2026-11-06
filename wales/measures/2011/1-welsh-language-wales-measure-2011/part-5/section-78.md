@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. No imposed enforcement action[^key-3b3664310308ed601205ab3c746f6dc4]
+## 78. No imposed enforcement action[^c-3b3664310308ed601205ab3c746f6dc4]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b3664310308ed601205ab3c746f6dc4]: Commencement: [S. 78](https://www.legislation.gov.uk/mwa/2011/1/section/78) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-3b3664310308ed601205ab3c746f6dc4]: Commencement: [S. 78](https://www.legislation.gov.uk/mwa/2011/1/section/78) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

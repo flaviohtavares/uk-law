@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Provisional amount of deferred pension[^key-7cdc3d7a38d9dfca03d1d5a7f804a69b]
+## 54. Provisional amount of deferred pension[^c-7cdc3d7a38d9dfca03d1d5a7f804a69b]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cdc3d7a38d9dfca03d1d5a7f804a69b]: Commencement: Reg. 54 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-7cdc3d7a38d9dfca03d1d5a7f804a69b]: Commencement: Reg. 54 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

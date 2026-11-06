@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Delegation of functions by Ministers etc. to the new Agencies.[^c14537101][^key-dd4efb94d05210f9a8ffafd1dc00c979]
+## 38. Delegation of functions by Ministers etc. to the new Agencies.[^c14537101][^c-dd4efb94d05210f9a8ffafd1dc00c979]
 
 *Extent: E+W+S*
 
@@ -58,15 +58,15 @@ he may include in any such arrangements provision for the making of such payment
 (10) In this section—
 
 - “**eligible function**” means any function of a Minister of the Crown which the Secretary of State, having regard to the functions conferred or imposed upon the new Agency in question under or by virtue of this Act or any other enactment, considers can appropriately be exercised by that new Agency (or any of its employees) on behalf of that Minister;
-- “ *(Extent: S)*[^key-7d04fa23b021c1e5d19dfeb8b4f083e7]**enactment *(Extent: S)***” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament; *(Extent: S)*
+- “ *(Extent: S)*[^c-7d04fa23b021c1e5d19dfeb8b4f083e7]**enactment *(Extent: S)***” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament; *(Extent: S)*
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the [^c14537111]Crown Act 1975.
 
 ## Annotations
 
 [^c14537101]: Modification: S. 38 modified (30.6.1999) by [S.I. 1999/1746](https://www.legislation.gov.uk/uksi/1999/1746), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1746/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/1999/1746/article/5/1); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-dd4efb94d05210f9a8ffafd1dc00c979]: Modification: S. 38 functions cease to be exercisable (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [6](https://www.legislation.gov.uk/uksi/2013/1821/article/6) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-dd4efb94d05210f9a8ffafd1dc00c979]: Modification: S. 38 functions cease to be exercisable (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [6](https://www.legislation.gov.uk/uksi/2013/1821/article/6) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
 
-[^key-7d04fa23b021c1e5d19dfeb8b4f083e7]: Textual amendment: Words in [s. 38(10)](https://www.legislation.gov.uk/ukpga/1995/25/section/38/10) inserted (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 43(5)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43/5); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
+[^c-7d04fa23b021c1e5d19dfeb8b4f083e7]: Textual amendment: Words in [s. 38(10)](https://www.legislation.gov.uk/ukpga/1995/25/section/38/10) inserted (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 43(5)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43/5); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
 
 [^c14537111]: Marginal citation: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).

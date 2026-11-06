@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Amendments to Commission Implementing Regulation (EU) 2019/1873 on the procedures at border control posts for a coordinated performance by competent authorities of intensified official controls on products of animal origin, germinal products, animal by-products and composite products[^key-55375d6e0c554fe31888d866754da1b2]
+## 33. Amendments to Commission Implementing Regulation (EU) 2019/1873 on the procedures at border control posts for a coordinated performance by competent authorities of intensified official controls on products of animal origin, germinal products, animal by-products and composite products[^c-55375d6e0c554fe31888d866754da1b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,7 +96,7 @@ summary: ''
 
 ## Annotations
 
-[^key-55375d6e0c554fe31888d866754da1b2]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-55375d6e0c554fe31888d866754da1b2]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368891]: Marginal citation: [Article 131](https://www.legislation.gov.uk/uksi/2020/1481/article/131) was amended by regulation 24(2) of the [Official Controls (Animals, Feed and Food, Plant Health etc) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 169. Forfeiture and set-off: procedure and appeals[^key-1a58002b5423c8b1950d352c7f7d7a24]
+## 169. Forfeiture and set-off: procedure and appeals[^c-1a58002b5423c8b1950d352c7f7d7a24]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a58002b5423c8b1950d352c7f7d7a24]: Commencement: [Reg. 169](https://www.legislation.gov.uk/nisr/2014/290/regulation/169) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-1a58002b5423c8b1950d352c7f7d7a24]: Commencement: [Reg. 169](https://www.legislation.gov.uk/nisr/2014/290/regulation/169) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

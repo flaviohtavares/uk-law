@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93A. Fees[^key-8a897cd8891897f7764e40f73db78afb]
+## 93A. Fees[^c-8a897cd8891897f7764e40f73db78afb]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a897cd8891897f7764e40f73db78afb]: Textual amendment: [S. 93A](https://www.legislation.gov.uk/ukpga/1999/33/section/93A) inserted (2.12.2025 for specified purposes, 2.2.2026 in so far as not already in force) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/12); [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/e/ii)
+[^c-8a897cd8891897f7764e40f73db78afb]: Textual amendment: [S. 93A](https://www.legislation.gov.uk/ukpga/1999/33/section/93A) inserted (2.12.2025 for specified purposes, 2.2.2026 in so far as not already in force) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/12); [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/e/ii)

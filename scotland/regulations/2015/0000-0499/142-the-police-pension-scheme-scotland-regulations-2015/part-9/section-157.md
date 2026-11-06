@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 157. Payment of one benefit only in respect of deceased member[^key-ef4c6e694bcec6c5eb36b502972625a8]
+## 157. Payment of one benefit only in respect of deceased member[^c-ef4c6e694bcec6c5eb36b502972625a8]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) P may choose which of the benefits in paragraph (2) P wishes to be paid.
 
-(4) If P chooses which benefit P wishes to be paid, the scheme manager[^key-a84d046d48a147bb133b2419a8ecd05d] must pay P that benefit.
+(4) If P chooses which benefit P wishes to be paid, the scheme manager[^c-a84d046d48a147bb133b2419a8ecd05d] must pay P that benefit.
 
 (5) If P does not choose which benefit P wishes to be paid, the scheme manager must pay P—
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef4c6e694bcec6c5eb36b502972625a8]: Commencement: Reg. 157 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ef4c6e694bcec6c5eb36b502972625a8]: Commencement: Reg. 157 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-a84d046d48a147bb133b2419a8ecd05d]: Textual amendment: Word in [reg. 157(4)](https://www.legislation.gov.uk/ssi/2015/142/regulation/157/4) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2015/325/regulation/8)
+[^c-a84d046d48a147bb133b2419a8ecd05d]: Textual amendment: Word in [reg. 157(4)](https://www.legislation.gov.uk/ssi/2015/142/regulation/157/4) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2015/325/regulation/8)

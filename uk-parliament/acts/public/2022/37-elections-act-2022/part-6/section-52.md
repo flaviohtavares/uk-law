@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Further provision about notice under section 51[^key-45629be3b1e7f2afdfac74f51baae8a2][^key-5b3a674f57f837854302ebc6a642eaca]
+## 52. Further provision about notice under section 51[^c-45629be3b1e7f2afdfac74f51baae8a2][^c-5b3a674f57f837854302ebc6a642eaca]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45629be3b1e7f2afdfac74f51baae8a2]: Commencement: S. 52 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-45629be3b1e7f2afdfac74f51baae8a2]: Commencement: S. 52 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-5b3a674f57f837854302ebc6a642eaca]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2022/37/section/52) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-5b3a674f57f837854302ebc6a642eaca]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2022/37/section/52) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Maintenance and diversion of the authorised development[^key-8d71638607022796e611eef65395c7a8]
+## 5. Maintenance and diversion of the authorised development[^c-8d71638607022796e611eef65395c7a8]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d71638607022796e611eef65395c7a8]: Commencement: Art. 5 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-8d71638607022796e611eef65395c7a8]: Commencement: Art. 5 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)

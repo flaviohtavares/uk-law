@@ -22,9 +22,9 @@ summary: ''
 
 (1) Community councillors shall be elected by the local government electors for the community in accordance with this Act and Part I of the Representation of the People Act 1983[^c15089521].
 
-(2)[^c15089531] There shall be ordinary elections of community councillors in 2022[^key-ae4147d1f1c5dc4482228670960c415e] and in every fifth *(Extent: W)*[^key-d6a97d8a908467c2be48748c84af771d] year thereafter.
+(2)[^c15089531] There shall be ordinary elections of community councillors in 2022[^c-ae4147d1f1c5dc4482228670960c415e] and in every fifth *(Extent: W)*[^c-d6a97d8a908467c2be48748c84af771d] year thereafter.
 
-(2A) The term of office of the community councillors shall be five *(Extent: W)*[^key-c24aa484c6f0cd9554cad442a1a93bf7] years.
+(2A) The term of office of the community councillors shall be five *(Extent: W)*[^c-c24aa484c6f0cd9554cad442a1a93bf7] years.
 
 (2B) On the fourth day after any such ordinary election—
 
@@ -41,8 +41,8 @@ summary: ''
 
 [^c15089531]: Textual amendment: S. 35(2)(2A)(2B) substituted for s. 35(2) (3.4.1995) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 15](https://www.legislation.gov.uk/ukpga/1994/19/section/15) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 3(1)](https://www.legislation.gov.uk/uksi/1995/852/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/852/schedule/1)
 
-[^key-ae4147d1f1c5dc4482228670960c415e]: Textual amendment: Word in s. 35(2) substituted (W.) (6.11.2019) by [The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 (S.I. 2019/1269)](https://www.legislation.gov.uk/wsi/2019/1269), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2019/1269/article/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2019/1269/article/3/3)
+[^c-ae4147d1f1c5dc4482228670960c415e]: Textual amendment: Word in s. 35(2) substituted (W.) (6.11.2019) by [The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 (S.I. 2019/1269)](https://www.legislation.gov.uk/wsi/2019/1269), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2019/1269/article/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2019/1269/article/3/3)
 
-[^key-d6a97d8a908467c2be48748c84af771d]: Textual amendment: Word in s. 35(2) substituted (W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 15(2)](https://www.legislation.gov.uk/asc/2021/1/section/15/2), [175(3)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/d)
+[^c-d6a97d8a908467c2be48748c84af771d]: Textual amendment: Word in s. 35(2) substituted (W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 15(2)](https://www.legislation.gov.uk/asc/2021/1/section/15/2), [175(3)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/d)
 
-[^key-c24aa484c6f0cd9554cad442a1a93bf7]: Textual amendment: Word in s. 35(2A) substituted (W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 15(3)](https://www.legislation.gov.uk/asc/2021/1/section/15/3), [175(3)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/d)
+[^c-c24aa484c6f0cd9554cad442a1a93bf7]: Textual amendment: Word in s. 35(2A) substituted (W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 15(3)](https://www.legislation.gov.uk/asc/2021/1/section/15/3), [175(3)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/d)

@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Parking attendants[^key-dc2e42a6dc2efe10f60963a69ccbd288]
+## 25. Parking attendants[^c-dc2e42a6dc2efe10f60963a69ccbd288]
 
 *Extent: N.I.*
 
-(1) The parking authority[^key-61332f24686553e6161cdca027a990d6] may appoint such persons as may be necessary for the superintendence of parking places.
+(1) The parking authority[^c-61332f24686553e6161cdca027a990d6] may appoint such persons as may be necessary for the superintendence of parking places.
 
 (2) Persons appointed under paragraph (1) shall be known as parking attendants.
 
 ## Annotations
 
-[^key-dc2e42a6dc2efe10f60963a69ccbd288]: Modification: Arts. 25-27: transfer of functions (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(1)](https://www.legislation.gov.uk/nia/2015/3/article/1/1)[(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8) (with [art. 1(2)](https://www.legislation.gov.uk/nia/2015/3/article/1/2))
+[^c-dc2e42a6dc2efe10f60963a69ccbd288]: Modification: Arts. 25-27: transfer of functions (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(1)](https://www.legislation.gov.uk/nia/2015/3/article/1/1)[(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8) (with [art. 1(2)](https://www.legislation.gov.uk/nia/2015/3/article/1/2))
 
-[^key-61332f24686553e6161cdca027a990d6]: Textual amendment: Words in art. 25 substituted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 4](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/4)
+[^c-61332f24686553e6161cdca027a990d6]: Textual amendment: Words in art. 25 substituted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 4](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/4)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Enactments conferring functions transferred by article 2[^key-0e160592492d70f9a337e8c4b5d45f7a]
+## SCHEDULE 1 — Enactments conferring functions transferred by article 2[^c-0e160592492d70f9a337e8c4b5d45f7a]
 
 *Extent: E+W+S+N.I.*
 
 Article 2
 
-[^key-0e160592492d70f9a337e8c4b5d45f7a]
+[^c-0e160592492d70f9a337e8c4b5d45f7a]
 
 - **Public general Acts**
 - Transport Act 1962[^f00012], except sections 1, 10 to 14, 16 to 21A, 24, 25, 27(1) to (5) and (7) to (8C), 36, 73 to 75, 81, 89 (except so far as it relates to section 27(6)), Schedule 1 and Part 4 of Schedule 7.
@@ -53,7 +53,7 @@ Article 2
 
 ## Annotations
 
-[^key-0e160592492d70f9a337e8c4b5d45f7a]: Commencement: Sch. 1 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-0e160592492d70f9a337e8c4b5d45f7a]: Commencement: Sch. 1 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00012]: Footnote: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46). Relevant amendments were made by the Harbours Act 1964; the Transport Act [1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73); the Statute Law (Repeals) Act [1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22); the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67); the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38); the Railways Act [2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14); [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251) and [2003/1545](https://www.legislation.gov.uk/uksi/2003/1545). Section 72 ceased to have effect in relation to the British Waterways Board by virtue of section 137(8) of the Transport Act 1968. The Transport Act 1962 provided for the distribution of the functions and property of the British Transport Commission (the BTC) amongst four boards. Under section 31, the British Waterways Board (the Board) became the successor to the property, rights and liabilities comprised in the part of the BTC’s undertaking constituted by their inland waterways (with an exception) and certain harbours. Functions of the BTC under a number of public and local Acts (including under the Coast Protection Act [1949 (c. 74)](https://www.legislation.gov.uk/ukpga/1949/74) and several British Transport Commission Acts) were transferred to the Board under section 32(1) and Schedule 2. Functions of the BTC under statutory provisions so far as relating to an undertaking, or part of an undertaking, or property transferred to the Board by Part 2 of the Transport Act 1962 were transferred to the Board by section 32(3). Functions of the BTC under statutory provisions authorising the carrying out of works designed to be used in connection with an undertaking or part of an undertaking transferred to the Board, or the acquisition of land for the purpose of carrying out such works, were transferred to the Board by section 32(4). The functions transferred included functions of the BTC under or by virtue of the Transport Act [1947 (c. 49)](https://www.legislation.gov.uk/ukpga/1947/49), S.R. & O 1947/2797, various British Transport Commission Acts and other legislation. Functions under certain statutory provisions authorising the BTC to appoint, nominate, or concur in or approve the appointment or nomination of, a member of certain bodies were transferred from the BTC to the Board by virtue of the British Transport Commission (Transfer of Functions) (Appointments and Nominations) Order 1963 ([S.I. 1963/2023](https://www.legislation.gov.uk/uksi/1963/2023)) (made under section 32(5)).
 

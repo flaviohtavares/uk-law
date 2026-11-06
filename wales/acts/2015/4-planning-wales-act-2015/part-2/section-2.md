@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Sustainable development[^key-44d63979e958fae3ad750035244a4042]
+## 2. Sustainable development[^c-44d63979e958fae3ad750035244a4042]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44d63979e958fae3ad750035244a4042]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2015/4/section/2) in force at 1.4.2016 by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 5(a)](https://www.legislation.gov.uk/wsi/2015/1987/article/5/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2015/1987/article/6))
+[^c-44d63979e958fae3ad750035244a4042]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2015/4/section/2) in force at 1.4.2016 by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 5(a)](https://www.legislation.gov.uk/wsi/2015/1987/article/5/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2015/1987/article/6))

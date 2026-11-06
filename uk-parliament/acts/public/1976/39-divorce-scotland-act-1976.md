@@ -37,12 +37,12 @@ An Act to amend the law of Scotland relating to divorce and separation; to facil
 
 *Extent: S*
 
-### 1. Grounds of divorce.[^key-279b8a759cad697269571254fb272207]
+### 1. Grounds of divorce.[^c-279b8a759cad697269571254fb272207]
 
 (1) In an action for divorce the court may grant decree of divorce if, but only if, it is established in accordance with the following provisions of this Act that .
 
-- (a)[^key-897041ddfd93ccca2cba929fe6f7cb56] the marriage has broken down irretrievably or[^key-ff4e8084c390f1a4b016dfc72ac8ec6e]
-- (b) subject to subsection (3B),[^key-5753abed292178da6f79b2b0d4e05379] an interim gender recognition certificate under the Gender Recognition Act 2004 has, after the date of the marriage, been issued to either party to the marriage.
+- (a)[^c-897041ddfd93ccca2cba929fe6f7cb56] the marriage has broken down irretrievably or[^c-ff4e8084c390f1a4b016dfc72ac8ec6e]
+- (b) subject to subsection (3B),[^c-5753abed292178da6f79b2b0d4e05379] an interim gender recognition certificate under the Gender Recognition Act 2004 has, after the date of the marriage, been issued to either party to the marriage.
 
 References in this Act (other than in sections 5(1) and 13 of this Act) to an action for divorce are to be construed as references to such an action brought after the commencement of this Act.
 
@@ -50,15 +50,15 @@ References in this Act (other than in sections 5(1) and 13 of this Act) to an ac
 
 - (a) since the date of the marriage the defender has committed adultery; or
 - (b) since the date of the marriage the defender has at any time behaved (whether or not as a result of mental abnormality and whether such behaviour has been active or passive) in such a way that the pursuer cannot reasonably be expected to cohabit with the defender; or
-- (c)[^key-522936f9618bb43f7d075926fedfdc43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) there has been no cohabitation between the parties at any time during a continuous period of one year[^key-b8a469b320cc7e0b62fab4c281e71d10] after the date of the marriage and immediately preceding the bringing of the action and the defender consents to the granting of decree of divorce; or
-- (e) there has been no cohabitation between the parties at any time during a continuous period of two[^key-d5733241248098c960c138958565c094] years after the date of the marriage and immediately preceding the bringing of the action.
+- (c)[^c-522936f9618bb43f7d075926fedfdc43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) there has been no cohabitation between the parties at any time during a continuous period of one year[^c-b8a469b320cc7e0b62fab4c281e71d10] after the date of the marriage and immediately preceding the bringing of the action and the defender consents to the granting of decree of divorce; or
+- (e) there has been no cohabitation between the parties at any time during a continuous period of two[^c-d5733241248098c960c138958565c094] years after the date of the marriage and immediately preceding the bringing of the action.
 
 (3) The irretrievable breakdown of a marriage shall not be taken to be established in an action for divorce by reason of subsection (2)(a) of this section if the adultery mentioned in the said subsection (2)(a) has been connived at in such a way as to raise the defence of*lenocinium*or has been condoned by the pursuer’s cohabitation with the defender in the knowledge or belief that the defender has committed the adultery.
 
-(3A)[^key-902a068227d55e5087f4d79b5898d801] For the avoidance of doubt, in relation to marriage between persons of the same sex, adultery has the same meaning as it has in relation to marriage between persons of different sexes.
+(3A)[^c-902a068227d55e5087f4d79b5898d801] For the avoidance of doubt, in relation to marriage between persons of the same sex, adultery has the same meaning as it has in relation to marriage between persons of different sexes.
 
-(3B)[^key-3c9f7b985e19131b65ff0e2b7ef27be3] Subsection (1)(b)—
+(3B)[^c-3c9f7b985e19131b65ff0e2b7ef27be3] Subsection (1)(b)—
 
 - (a) does not apply where, under the Gender Recognition Act 2004, the Gender Recognition Panel issue a full gender recognition certificate to the person to whom the interim gender recognition certificate was issued, but
 - (b) continues to apply despite a full gender recognition certificate being issued to that person by the sheriff under section 4E of that Act.
@@ -72,19 +72,19 @@ References in this Act (other than in sections 5(1) and 13 of this Act) to an ac
 
 and where the defender has indicated (and not withdrawn) his consent in the prescribed manner, such indication shall be sufficient evidence of such consent.
 
-(5)[^key-3d3bc3472549eaefb47ba092ff22eab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3d3bc3472549eaefb47ba092ff22eab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In an action for divorce the standard of proof required to establish the ground of the action shall be on balance of probability.
 
 ### 2. Encouragement of reconciliation.
 
-(1) At any time before granting decree under paragraph (a) of section 1(1)[^key-3edf936e0796289ebcfc56ba506276bf], if it appears to the court that there is a reasonable prospect of a reconciliation between the parties, it shall continue, or further continue, the action for such period as it thinks proper to enable attempts to be made to effect such a reconciliation; and if during any such continuation the parties cohabit with one another, no account shall be taken of such cohabitation for the purposes of that action.
+(1) At any time before granting decree under paragraph (a) of section 1(1)[^c-3edf936e0796289ebcfc56ba506276bf], if it appears to the court that there is a reasonable prospect of a reconciliation between the parties, it shall continue, or further continue, the action for such period as it thinks proper to enable attempts to be made to effect such a reconciliation; and if during any such continuation the parties cohabit with one another, no account shall be taken of such cohabitation for the purposes of that action.
 
 (2) Adultery shall not be held to have been condoned within the meaning of section 1(3) of this Act by reason only of the fact that after the commission of the adultery the pursuer has continued or resumed cohabitation with the defender, provided that the pursuer has not cohabited with the defender at any time after the end of the period of three months from the date on which such cohabitation as is referred to in the said section 1(3) was continued or resumed as aforesaid.
 
-(3)[^key-2688b7836d36b1b472dbb6bd0d311d11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2688b7836d36b1b472dbb6bd0d311d11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) In considering whether any period mentioned in paragraph [^key-3249e6d2cf5909f50053f7a5d23d82c2]..., (d), or (e) of section 1(2) of this Act has been continuous no account shall be taken of any period or periods not exceeding six months in all during which the parties cohabited with one another; but no such period or periods during which the parties cohabited with one another shall count as part of the period of non-cohabitation required by any of those paragraphs.
+(4) In considering whether any period mentioned in paragraph [^c-3249e6d2cf5909f50053f7a5d23d82c2]..., (d), or (e) of section 1(2) of this Act has been continuous no account shall be taken of any period or periods not exceeding six months in all during which the parties cohabited with one another; but no such period or periods during which the parties cohabited with one another shall count as part of the period of non-cohabitation required by any of those paragraphs.
 
 ### 3. Action for divorce following on decree of separation.
 
@@ -92,7 +92,7 @@ and where the defender has indicated (and not withdrawn) his consent in the pres
 
 (2) Nothing in this section shall entitle the court to grant decree of divorce without receiving evidence from the pursuer.
 
-### 3A. Postponement of decree of divorce where religious impediment to remarry exists[^key-31ba1d4629e075dea92bd43e377dd1bc]
+### 3A. Postponement of decree of divorce where religious impediment to remarry exists[^c-31ba1d4629e075dea92bd43e377dd1bc]
 
 (1) Notwithstanding that irretrievable breakdown of a marriage has been established in an action for divorce, the court may—
 
@@ -154,7 +154,7 @@ postpone the grant of decree in the action until it is satisfied that the other 
 
 ## Supplemental
 
-### 9. Abolition of oath of calumny.[^key-fbefee37f16b176686a1c5c216219b16]
+### 9. Abolition of oath of calumny.[^c-fbefee37f16b176686a1c5c216219b16]
 
 *Extent: S*
 
@@ -246,33 +246,33 @@ SCHEDULE 2 Enactments Repealed [image: see source](https://www.legislation.gov.u
 
 [^c799870]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
 
-[^key-279b8a759cad697269571254fb272207]: Textual amendment: S. 1 title substituted (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/2/paragraph/6/2); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
+[^c-279b8a759cad697269571254fb272207]: Textual amendment: S. 1 title substituted (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/2/paragraph/6/2); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
 
-[^key-897041ddfd93ccca2cba929fe6f7cb56]: Textual amendment: Words in s. 1(1) renumbered as s. 1(1)(a) (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 2 para. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/2/paragraph/6/1/a); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
+[^c-897041ddfd93ccca2cba929fe6f7cb56]: Textual amendment: Words in s. 1(1) renumbered as s. 1(1)(a) (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 2 para. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/2/paragraph/6/1/a); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
 
-[^key-ff4e8084c390f1a4b016dfc72ac8ec6e]: Textual amendment: S. 1(1)(b) inserted (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 2 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/2/paragraph/6/1/b); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
+[^c-ff4e8084c390f1a4b016dfc72ac8ec6e]: Textual amendment: S. 1(1)(b) inserted (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 2 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/2/paragraph/6/1/b); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
 
-[^key-5753abed292178da6f79b2b0d4e05379]: Textual amendment: Words in [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1976/39/section/1/1/b) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 31(2)](https://www.legislation.gov.uk/asp/2014/5/section/31/2), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-5753abed292178da6f79b2b0d4e05379]: Textual amendment: Words in [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1976/39/section/1/1/b) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 31(2)](https://www.legislation.gov.uk/asp/2014/5/section/31/2), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-522936f9618bb43f7d075926fedfdc43]: Textual amendment: S. 1(2)(c) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 12](https://www.legislation.gov.uk/asp/2006/2/section/12), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-522936f9618bb43f7d075926fedfdc43]: Textual amendment: S. 1(2)(c) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 12](https://www.legislation.gov.uk/asp/2006/2/section/12), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-b8a469b320cc7e0b62fab4c281e71d10]: Textual amendment: Words in s. 1(2)(d) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 11(a)](https://www.legislation.gov.uk/asp/2006/2/section/11/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-b8a469b320cc7e0b62fab4c281e71d10]: Textual amendment: Words in s. 1(2)(d) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 11(a)](https://www.legislation.gov.uk/asp/2006/2/section/11/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-d5733241248098c960c138958565c094]: Textual amendment: Word in s. 1(2)(e) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 11(b)](https://www.legislation.gov.uk/asp/2006/2/section/11/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-d5733241248098c960c138958565c094]: Textual amendment: Word in s. 1(2)(e) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 11(b)](https://www.legislation.gov.uk/asp/2006/2/section/11/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-902a068227d55e5087f4d79b5898d801]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/ukpga/1976/39/section/1/3A) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 5(2)](https://www.legislation.gov.uk/asp/2014/5/section/5/2), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-902a068227d55e5087f4d79b5898d801]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/ukpga/1976/39/section/1/3A) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 5(2)](https://www.legislation.gov.uk/asp/2014/5/section/5/2), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-3c9f7b985e19131b65ff0e2b7ef27be3]: Textual amendment: [S. 1(3B)](https://www.legislation.gov.uk/ukpga/1976/39/section/1/3B) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 31(3)](https://www.legislation.gov.uk/asp/2014/5/section/31/3), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-3c9f7b985e19131b65ff0e2b7ef27be3]: Textual amendment: [S. 1(3B)](https://www.legislation.gov.uk/ukpga/1976/39/section/1/3B) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 31(3)](https://www.legislation.gov.uk/asp/2014/5/section/31/3), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-3d3bc3472549eaefb47ba092ff22eab2]: Textual amendment: S. 1(5) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 13](https://www.legislation.gov.uk/asp/2006/2/section/13), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-3d3bc3472549eaefb47ba092ff22eab2]: Textual amendment: S. 1(5) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 13](https://www.legislation.gov.uk/asp/2006/2/section/13), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-3edf936e0796289ebcfc56ba506276bf]: Textual amendment: Words in s. 2(1) substituted (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2004/7/schedule/2/paragraph/7); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
+[^c-3edf936e0796289ebcfc56ba506276bf]: Textual amendment: Words in s. 2(1) substituted (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2004/7/schedule/2/paragraph/7); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
 
-[^key-2688b7836d36b1b472dbb6bd0d311d11]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1976/39/section/2/3) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-2688b7836d36b1b472dbb6bd0d311d11]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1976/39/section/2/3) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-3249e6d2cf5909f50053f7a5d23d82c2]: Textual amendment: Word in [s. 2(4)](https://www.legislation.gov.uk/ukpga/1976/39/section/2/4) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-3249e6d2cf5909f50053f7a5d23d82c2]: Textual amendment: Word in [s. 2(4)](https://www.legislation.gov.uk/ukpga/1976/39/section/2/4) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-31ba1d4629e075dea92bd43e377dd1bc]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/1976/39/section/3A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 15](https://www.legislation.gov.uk/asp/2006/2/section/15), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-31ba1d4629e075dea92bd43e377dd1bc]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/1976/39/section/3A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 15](https://www.legislation.gov.uk/asp/2006/2/section/15), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c799871]: Textual amendment: S. 5 repealed with saving by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss. 28(2)(3)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/2/3), [29(4)](https://www.legislation.gov.uk/ukpga/1985/37/section/29/4)
 
@@ -280,7 +280,7 @@ SCHEDULE 2 Enactments Repealed [image: see source](https://www.legislation.gov.u
 
 [^c799873]: Textual amendment: S. 8 repealed by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/2), [29(4)](https://www.legislation.gov.uk/ukpga/1985/37/section/29/4)
 
-[^key-fbefee37f16b176686a1c5c216219b16]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1976/39/section/9) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 14(2)](https://www.legislation.gov.uk/asp/2006/2/section/14/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-fbefee37f16b176686a1c5c216219b16]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1976/39/section/9) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 14(2)](https://www.legislation.gov.uk/asp/2006/2/section/14/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c799874]: Modification: The text of ss. 10(3), 12(1)(2), Schs. 1, 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

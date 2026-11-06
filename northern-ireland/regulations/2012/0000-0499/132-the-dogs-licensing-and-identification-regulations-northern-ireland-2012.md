@@ -100,7 +100,7 @@ In these Regulations—
   - (ii) the capture or destruction of vermin;
   - (iii) the purpose of driving or tending sheep or cattle.
 
-### 7. Licence identification[^key-30f0c54feba8eb2945ee4137f6ad37b6]
+### 7. Licence identification[^c-30f0c54feba8eb2945ee4137f6ad37b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -154,7 +154,7 @@ In these Regulations—
 
 (6) For the purpose of this regulation a competent person means a veterinary surgeon or person who has been received instruction on how to implant a microchip.
 
-### 9A. Updating information[^key-36fc6c29152379ada419d27a43d51c4b]
+### 9A. Updating information[^c-36fc6c29152379ada419d27a43d51c4b]
 
 Where the information referred to in regulation 9(2)(b) changes at any time after the recording of that information on the database, the keeper shall notify the operator of the database with the new information as soon as reasonably practicable.
 
@@ -299,11 +299,11 @@ Contravention of the provisions under regulations 6, 7, 8 and 11 is an offence u
 
 [^c21221941]: Marginal citation: [S.I. 1983/764 (N.I. 8)](https://www.legislation.gov.uk/nisi/1983/764), as amended by [S.I. 1991/2292 (N.I. 21)](https://www.legislation.gov.uk/nisi/1991/2292), [2001 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2001/1) and [2011 c.9 (N.I.)](https://www.legislation.gov.uk/nia/2011/9)
 
-[^key-30f0c54feba8eb2945ee4137f6ad37b6]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2012/132/regulation/7) revoked (1.1.2015) by [The Dogs (Licensing and Identification) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/283)](https://www.legislation.gov.uk/nisr/2014/283), [regs. 1](https://www.legislation.gov.uk/nisr/2014/283/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/283/regulation/2/2)
+[^c-30f0c54feba8eb2945ee4137f6ad37b6]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2012/132/regulation/7) revoked (1.1.2015) by [The Dogs (Licensing and Identification) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/283)](https://www.legislation.gov.uk/nisr/2014/283), [regs. 1](https://www.legislation.gov.uk/nisr/2014/283/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/283/regulation/2/2)
 
 [^c21221951]: Marginal citation: ISO Central Secretariat, International Organization for Standardization (ISO), 1 rue de Varemb, Case postale 56, CH-1211, Geneva 20, Switzerland.
 
-[^key-36fc6c29152379ada419d27a43d51c4b]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2012/132/regulation/9A) inserted (1.1.2015) by [The Dogs (Licensing and Identification) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/283)](https://www.legislation.gov.uk/nisr/2014/283), [regs. 1](https://www.legislation.gov.uk/nisr/2014/283/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/283/regulation/2/3)
+[^c-36fc6c29152379ada419d27a43d51c4b]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2012/132/regulation/9A) inserted (1.1.2015) by [The Dogs (Licensing and Identification) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/283)](https://www.legislation.gov.uk/nisr/2014/283), [regs. 1](https://www.legislation.gov.uk/nisr/2014/283/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/283/regulation/2/3)
 
 [^c21221961]: Marginal citation: S.R. [2011 No. 279](https://www.legislation.gov.uk/ukcm/2011/279)
 

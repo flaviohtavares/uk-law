@@ -32,7 +32,7 @@ summary: ''
 
 REPRESENTATION OF THE PEOPLE
 
-The Political Parties, Elections and Referendums Act 2000 (Non-Party Campaigner Code of Practice) (Appointed Date) (Scotland) Order 2025 (revoked)[^key-3823617c6d0fd2ee72aa72518c8a1bbe]
+The Political Parties, Elections and Referendums Act 2000 (Non-Party Campaigner Code of Practice) (Appointed Date) (Scotland) Order 2025 (revoked)[^c-3823617c6d0fd2ee72aa72518c8a1bbe]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 17th November 2025
 
-[^key-3823617c6d0fd2ee72aa72518c8a1bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3823617c6d0fd2ee72aa72518c8a1bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3823617c6d0fd2ee72aa72518c8a1bbe]
+## 1. Citation, commencement and interpretation[^c-3823617c6d0fd2ee72aa72518c8a1bbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed Date[^key-3823617c6d0fd2ee72aa72518c8a1bbe]
+## 2. Appointed Date[^c-3823617c6d0fd2ee72aa72518c8a1bbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3823617c6d0fd2ee72aa72518c8a1bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3823617c6d0fd2ee72aa72518c8a1bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3823617c6d0fd2ee72aa72518c8a1bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3823617c6d0fd2ee72aa72518c8a1bbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3823617c6d0fd2ee72aa72518c8a1bbe]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2025/288) revoked (17.11.2025) by [The Political Parties, Elections and Referendums Act 2000 (Non-Party Campaigner Code of Practice) (Appointed Date) (Scotland) (No. 2) Order 2025 (S.S.I. 2025/347)](https://www.legislation.gov.uk/ssi/2025/347), [arts. 1](https://www.legislation.gov.uk/ssi/2025/347/article/1), [3](https://www.legislation.gov.uk/ssi/2025/347/article/3)
+[^c-3823617c6d0fd2ee72aa72518c8a1bbe]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2025/288) revoked (17.11.2025) by [The Political Parties, Elections and Referendums Act 2000 (Non-Party Campaigner Code of Practice) (Appointed Date) (Scotland) (No. 2) Order 2025 (S.S.I. 2025/347)](https://www.legislation.gov.uk/ssi/2025/347), [arts. 1](https://www.legislation.gov.uk/ssi/2025/347/article/1), [3](https://www.legislation.gov.uk/ssi/2025/347/article/3)

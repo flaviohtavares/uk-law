@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330ZA. Ordering of allowances[^key-5673b9e5ea6fb62ed7daf18b795aca16]
+## 330ZA. Ordering of allowances[^c-5673b9e5ea6fb62ed7daf18b795aca16]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5673b9e5ea6fb62ed7daf18b795aca16]: Textual amendment: S. 330ZA inserted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2015/11/schedule/14/paragraph/4)
+[^c-5673b9e5ea6fb62ed7daf18b795aca16]: Textual amendment: S. 330ZA inserted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2015/11/schedule/14/paragraph/4)

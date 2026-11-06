@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Modification of Part 1 of the 1965 Act[^key-aa5ab7284f8282184cb055aa2d290539]
+## 24. Modification of Part 1 of the 1965 Act[^c-aa5ab7284f8282184cb055aa2d290539]
 
 *Extent: E+W*
 
@@ -44,11 +44,11 @@ summary: ''
   >
   > **30.**
   >
-  > In this Schedule, references to entering on and taking possession of land do not include doing so under article 16 (protective work to buildings), article 26 (temporary use of land for carrying out the authorised project[^key-556ec02efe251e7b02bf8e9369e7c170]) or article 27 (temporary use of land for maintaining the authorised project) of the Hornsea Three Offshore[^key-43724ec2bc5fbdf52e32f210792f8df9] Wind Farm Order 2020.
+  > In this Schedule, references to entering on and taking possession of land do not include doing so under article 16 (protective work to buildings), article 26 (temporary use of land for carrying out the authorised project[^c-556ec02efe251e7b02bf8e9369e7c170]) or article 27 (temporary use of land for maintaining the authorised project) of the Hornsea Three Offshore[^c-43724ec2bc5fbdf52e32f210792f8df9] Wind Farm Order 2020.
 
 ## Annotations
 
-[^key-aa5ab7284f8282184cb055aa2d290539]: Commencement: Art. 24 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-aa5ab7284f8282184cb055aa2d290539]: Commencement: Art. 24 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
 [^c24412831]: Marginal citation: Inserted by section 202(1) of the [Housing and Planning Act 2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
@@ -56,6 +56,6 @@ summary: ''
 
 [^c24412851]: Marginal citation: Inserted by schedule 17(1) paragraph 3 to the [Housing and Planning Act 2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-556ec02efe251e7b02bf8e9369e7c170]: Textual amendment: Word in [art. 24(5)(b)](https://www.legislation.gov.uk/uksi/2020/1656/article/24/5/b) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-556ec02efe251e7b02bf8e9369e7c170]: Textual amendment: Word in [art. 24(5)(b)](https://www.legislation.gov.uk/uksi/2020/1656/article/24/5/b) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
-[^key-43724ec2bc5fbdf52e32f210792f8df9]: Textual amendment: Word in [art. 24(5)(b)](https://www.legislation.gov.uk/uksi/2020/1656/article/24/5/b) inserted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-43724ec2bc5fbdf52e32f210792f8df9]: Textual amendment: Word in [art. 24(5)(b)](https://www.legislation.gov.uk/uksi/2020/1656/article/24/5/b) inserted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Use of name that a company has been required to change[^key-ea73699ad7252ac65de5dd6099815e56][^key-b61ddeac260a611b6927fd3c866f056a]
+## 25. Use of name that a company has been required to change[^c-ea73699ad7252ac65de5dd6099815e56][^c-b61ddeac260a611b6927fd3c866f056a]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea73699ad7252ac65de5dd6099815e56]: Commencement: S. 25 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-ea73699ad7252ac65de5dd6099815e56]: Commencement: S. 25 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-b61ddeac260a611b6927fd3c866f056a]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/56/section/25) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/t)
+[^c-b61ddeac260a611b6927fd3c866f056a]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/56/section/25) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/t)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — POWERS UNDER AND BY VIRTUE OF WHICH THIS ACT OF ADJOURNAL IS MADE[^key-c26dd93d40aa13cd2b12bcdebc454dbb]
+## SCHEDULE 1 — POWERS UNDER AND BY VIRTUE OF WHICH THIS ACT OF ADJOURNAL IS MADE[^c-c26dd93d40aa13cd2b12bcdebc454dbb]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ Preamble
 
 ## Annotations
 
-[^key-c26dd93d40aa13cd2b12bcdebc454dbb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1996/513/schedule/1) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-c26dd93d40aa13cd2b12bcdebc454dbb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1996/513/schedule/1) in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)

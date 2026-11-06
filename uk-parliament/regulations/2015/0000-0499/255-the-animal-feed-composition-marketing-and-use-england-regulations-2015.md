@@ -52,40 +52,40 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 There has been open and transparent public consultation during the preparation of these Regulations in accordance with the requirements of Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00008] or, in the case of provisions relating to feed for non food-producing animals, of section 84(1) of the Agriculture Act 1970.
 
-## PART 1 — Introductory and general[^key-778908713a7a908416a60b5c15b1d867]
+## PART 1 — Introductory and general[^c-778908713a7a908416a60b5c15b1d867]
 
-### 1. Title, application and commencement[^key-61e1f2fe6b597273a1e7adfbf2c8b113]
+### 1. Title, application and commencement[^c-61e1f2fe6b597273a1e7adfbf2c8b113]
 
 These Regulations may be cited as the Animal Feed (Composition, Marketing and Use) (England) Regulations 2015, apply in relation to England only and come into force on 6th April 2015.
 
-### 2. Interpretation and scope[^key-cc0b3a8a9f9464753da7587a954c41b8]
+### 2. Interpretation and scope[^c-cc0b3a8a9f9464753da7587a954c41b8]
 
 (1) In these Regulations —
 
-- [^key-02fc13c476ea2e6151721ecad45382d8]...
-- [^key-f7d1f7e8fbc59d372c0b5a95125dd87b]...
+- [^c-02fc13c476ea2e6151721ecad45382d8]...
+- [^c-f7d1f7e8fbc59d372c0b5a95125dd87b]...
 - “Regulation 178/2002” means Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety;
 - “Regulation 1829/2003” means Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed[^f00011];
-- “Regulation 1831/2003” means Regulation[^key-4341abbf105ff46620713fe42600a859] [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition as last amended by Commission Regulation (EU) 2015/2294 amending Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council as regards the establishment of a new functional group of feed additives;
-- [^key-77b038b45b3a17237b7c2646e22c1421]...
+- “Regulation 1831/2003” means Regulation[^c-4341abbf105ff46620713fe42600a859] [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition as last amended by Commission Regulation (EU) 2015/2294 amending Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council as regards the establishment of a new functional group of feed additives;
+- [^c-77b038b45b3a17237b7c2646e22c1421]...
 - “Regulation 767/2009” means Regulation [(EC) No. 767/2009](https://www.legislation.gov.uk/european/regulation/2009/0767) of the European Parliament and of the Council on the placing on the market and use of feed, amending European Parliament and Council Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) and repealing Council [Directive 79/373/EEC](https://www.legislation.gov.uk/european/directive/1979/0373), Commission [Directive 80/511/EEC](https://www.legislation.gov.uk/european/directive/1980/0511), Council Directives [82/471/EEC](https://www.legislation.gov.uk/european/directive/1982/0471), [83/228/EEC](https://www.legislation.gov.uk/european/directive/1983/0228), [93/74/EEC](https://www.legislation.gov.uk/european/directive/1993/0074), [93/113/EC](https://www.legislation.gov.uk/european/directive/1993/0113) and [96/25/EC](https://www.legislation.gov.uk/european/directive/1996/0025) and Commission [Decision 2004/217/EC](https://www.legislation.gov.uk/european/decision/2004/0217)[^f00014];
-- “Regulation 2020/354” means Commission Regulation (EU) 2020/354 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing[^key-9e70aea0fd481cc271b4dea8aa4552c5] [Directive 2008/38/EC](https://www.legislation.gov.uk/european/directive/2008/0038);
+- “Regulation 2020/354” means Commission Regulation (EU) 2020/354 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing[^c-9e70aea0fd481cc271b4dea8aa4552c5] [Directive 2008/38/EC](https://www.legislation.gov.uk/european/directive/2008/0038);
 - “the Agency” means the Food Standards Agency;
 - “feed authority” means an authority identified in section 67(1) of the Agriculture Act 1970 as having the duty to enforce Part IV of that Act within its area or district as the case may be.
 
-(2) Any expression used in these Regulations and in Regulation 178/2002, Regulation 1831/2003 Regulation 767/2009 or Regulation 2020/354[^key-5c3977e9a95f9fdefc3e36c00514f13c] has the meaning in these Regulations that it bears in the assimilated[^key-5cbfd5e2cf4427c5774b9ce645c149b5] Regulation concerned.
+(2) Any expression used in these Regulations and in Regulation 178/2002, Regulation 1831/2003 Regulation 767/2009 or Regulation 2020/354[^c-5c3977e9a95f9fdefc3e36c00514f13c] has the meaning in these Regulations that it bears in the assimilated[^c-5cbfd5e2cf4427c5774b9ce645c149b5] Regulation concerned.
 
-(3)[^key-03e4127afe3cbd94a6b142d564fbd828] Any reference to an [^key-1ca04eb84870084d65ac173a056bfe70]... instrument defined in paragraph (1) is a reference to that [^key-1ca04eb84870084d65ac173a056bfe70]... instrument as it may be amended from time to time.
+(3)[^c-03e4127afe3cbd94a6b142d564fbd828] Any reference to an [^c-1ca04eb84870084d65ac173a056bfe70]... instrument defined in paragraph (1) is a reference to that [^c-1ca04eb84870084d65ac173a056bfe70]... instrument as it may be amended from time to time.
 
 (4) These Regulations do not apply to any feed additive in category (d) or (e) of Article 6(1) of Regulation 1831/2003, with the exception of those in the functional groups listed in paragraph 4(a), (b) and (c) of Annex 1 to that Regulation[^f00015].
 
 ## PART 2 — Enforcement of Regulation 178/2002
 
-### 3. Interpretation of this Part[^key-64a8104103f94bd83bca613d7303b121]
+### 3. Interpretation of this Part[^c-64a8104103f94bd83bca613d7303b121]
 
 In this Part any reference to a numbered Article is a reference to the Article so numbered in Regulation 178/2002.
 
-### 4. Offence of failing to comply with a specified provision of Regulation 178/2002[^key-b0f210427410e373e29a959a3e8ce100]
+### 4. Offence of failing to comply with a specified provision of Regulation 178/2002[^c-b0f210427410e373e29a959a3e8ce100]
 
 (1) A person who contravenes or fails to comply with a provision specified in paragraph (2) commits an offence.
 
@@ -97,7 +97,7 @@ In this Part any reference to a numbered Article is a reference to the Article s
 - (d) Article 18(2) and (3) (requirements that operators must have traceability information and make such information available to competent authorities) in so far as they relate to feed business operators; and
 - (e) Article 20 (responsibilities of feed business operators regarding feed that does not satisfy feed safety requirements).
 
-### 5. Competent authorities for the purposes of Regulation 178/2002[^key-89bf45d8a1e00ac58b117181ea90782c]
+### 5. Competent authorities for the purposes of Regulation 178/2002[^c-89bf45d8a1e00ac58b117181ea90782c]
 
 The competent authority —
 
@@ -106,51 +106,51 @@ The competent authority —
 
 ## PART 3 — Enforcement of Regulation 1829/2003
 
-### 6. Interpretation of this Part[^key-e6e52bb737a7a43fec85d6bab43a6baf]
+### 6. Interpretation of this Part[^c-e6e52bb737a7a43fec85d6bab43a6baf]
 
 In this Part any reference to a numbered Article is a reference to the Article so numbered in Regulation 1829/2003.
 
-### 7. Offence of failing to comply with a specified provision of Regulation 1829/2003[^key-36214945767abd5ef1a7c86d0638f15e]
+### 7. Offence of failing to comply with a specified provision of Regulation 1829/2003[^c-36214945767abd5ef1a7c86d0638f15e]
 
 (1) A person who contravenes or fails to comply with a provision specified in paragraph (2) commits an offence.
 
 (2) The specified provisions are —
 
-- (a) Article 16(2) (prohibition on placing on the market, using or processing a product referred to in Article 15(1)[^f00016] unless it is covered by an authorisation and satisfies relevant conditions), as read with Article 20(6) [^key-ddad330e51aec31ea6d478733294e494]...;
+- (a) Article 16(2) (prohibition on placing on the market, using or processing a product referred to in Article 15(1)[^f00016] unless it is covered by an authorisation and satisfies relevant conditions), as read with Article 20(6) [^c-ddad330e51aec31ea6d478733294e494]...;
 - (b) Article 21(1) (requirement that the authorisation holder and the parties concerned must comply with conditions imposed in an authorisation for that product, and that the authorisation holder must comply with post-market monitoring requirements);
-- (c) Article 21(3) [^key-a5516a1b9c4b4058c11ea18371f0c98c]...; and
+- (c) Article 21(3) [^c-a5516a1b9c4b4058c11ea18371f0c98c]...; and
 - (d) Article 25 (requirement for certain labelling indications).
 
-### 8. Competent authority for the purposes of Regulation 1829/2003[^key-87041d2e51e7c4c11aca134332050525]
+### 8. Competent authority for the purposes of Regulation 1829/2003[^c-87041d2e51e7c4c11aca134332050525]
 
 The national competent authority for the purposes of Chapter III of Regulation 1829/2003 is the Agency.
 
 ## PART 4 — Enforcement of Regulation 1831/2003
 
-### 9. Interpretation of this Part[^key-21a8acf8c3df99569d1d8ae208d39aff]
+### 9. Interpretation of this Part[^c-21a8acf8c3df99569d1d8ae208d39aff]
 
 In this Part any reference to a numbered Article is a reference to the Article so numbered in Regulation 1831/2003.
 
-### 10. Offence of failing to comply with a specified provision of Regulation 1831/2003[^key-c66c83452f554b49f1bf90627047c3aa]
+### 10. Offence of failing to comply with a specified provision of Regulation 1831/2003[^c-c66c83452f554b49f1bf90627047c3aa]
 
-(1)[^key-11adad475b5667197971eddeb5c49ca4] A person commits an offence if that person contravenes or fails to comply with a provision specified in paragraph (2) as read, in the case of subparagraph (a) or (e) with Article 2 (transitional provision) of Commission Regulation (EU) 2015/327 amending Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council as regards requirements for the placing on the market and conditions of use of additives consisting of preparations.
+(1)[^c-11adad475b5667197971eddeb5c49ca4] A person commits an offence if that person contravenes or fails to comply with a provision specified in paragraph (2) as read, in the case of subparagraph (a) or (e) with Article 2 (transitional provision) of Commission Regulation (EU) 2015/327 amending Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council as regards requirements for the placing on the market and conditions of use of additives consisting of preparations.
 
 (2) The specified provisions are —
 
 - (a) Article 3(1) (prohibition on placing on the market, processing or using a feed additive unless it is covered by an authorisation and satisfies relevant conditions), as read with paragraph (2) (national authorisation for scientific experimental purposes), paragraph (4) (conditions on mixing of additives) and Article 10 (status of existing products);
 - (b) Article 3(3) (restriction on the persons who may first place on the market certain additives);
 - (c) Article 12(1) (requirement that any person using or placing on the market an additive, or a feed into which it has been incorporated, or any other interested party, must ensure that any conditions which have been imposed are respected);
-- (d) Article 12(2) (requirement on the holder of an authorisation to observe monitoring obligations where they have been imposed, to inform the Food Safety Authority[^key-1914262ec270cddf6402be14eb589e5d] of any new information about a product which might affect the evaluation of the safety of its use in feed, or of any prohibition or restriction on the feed imposed by the competent authority in a third country);
+- (d) Article 12(2) (requirement on the holder of an authorisation to observe monitoring obligations where they have been imposed, to inform the Food Safety Authority[^c-1914262ec270cddf6402be14eb589e5d] of any new information about a product which might affect the evaluation of the safety of its use in feed, or of any prohibition or restriction on the feed imposed by the competent authority in a third country);
 - (e) Article 16(1),(3) and (4) (prohibition on the placing on the market of feed additives or premixtures unless labelled in the specified manner and with prescribed information), as read with paragraph (2) (derogation for certain flavouring compounds); and
 - (f) Article 16(5) (requirement that additives and premixtures must be marketed only in closed packages or containers which must be closed in such a way that the fastener is damaged on opening and cannot be re-used).
 
 ## PART 5 — Enforcement of Regulation 767/2009
 
-### 11. Interpretation of this Part and Schedule 1[^key-0399dbb241030d7c04169ed64878f5a2]
+### 11. Interpretation of this Part and Schedule 1[^c-0399dbb241030d7c04169ed64878f5a2]
 
 In this Part and in Schedule 1 any reference to a numbered Article or Annex is a reference to the Article or Annex so numbered in Regulation 767/2009.
 
-### 12. Offence of failing to comply with a specified provision of Regulation 767/2009[^key-43a93f867368773db200c0a07ff7f973]
+### 12. Offence of failing to comply with a specified provision of Regulation 767/2009[^c-43a93f867368773db200c0a07ff7f973]
 
 (1) ) Subject to the transitional provisions contained in Article 32, a person who —
 
@@ -159,9 +159,9 @@ In this Part and in Schedule 1 any reference to a numbered Article or Annex is a
 
 commits an offence.
 
-(2) Where, pursuant to Article 17(2)(c), the name of a specific feed material may be replaced by the name of the category to which the feed material belongs, only the categories listed in Schedule 3[^key-f0604749390901c41267d9362dc799d6] may be indicated.
+(2) Where, pursuant to Article 17(2)(c), the name of a specific feed material may be replaced by the name of the category to which the feed material belongs, only the categories listed in Schedule 3[^c-f0604749390901c41267d9362dc799d6] may be indicated.
 
-### 13. Competent authorities for the purposes of Regulation 767/2009[^key-af87d3aafff11876daa6a8ec7d44052e]
+### 13. Competent authorities for the purposes of Regulation 767/2009[^c-af87d3aafff11876daa6a8ec7d44052e]
 
 (1) Each feed authority in its area or district is the competent authority for the purposes of —
 
@@ -170,41 +170,41 @@ commits an offence.
 
 (2) The Agency is the competent authority for the purposes of —
 
-- (a)[^key-68770cecb0b86491c38be19bebc9494f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) Article 13(1)(b) as the competent authority that may submit to the appropriate authority[^key-c8a0831965ef54967f01644d0e9a535f] doubts concerning the scientific substantiation of a claim.
+- (a)[^c-68770cecb0b86491c38be19bebc9494f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) Article 13(1)(b) as the competent authority that may submit to the appropriate authority[^c-c8a0831965ef54967f01644d0e9a535f] doubts concerning the scientific substantiation of a claim.
 
 (3) The Agency and each feed authority in its area or district is a competent authority for the purposes of Article 5(2).
 
-## PART 6 — Undesirable substances in products intended for animal feed[^key-9ceb114ca0b760d1aa91bda50cdcfba4][^key-91f26225d46d4c4a5e07c5baf121fcae]
+## PART 6 — Undesirable substances in products intended for animal feed[^c-9ceb114ca0b760d1aa91bda50cdcfba4][^c-91f26225d46d4c4a5e07c5baf121fcae]
 
-### 14. Interpretation of this Part[^key-d8b86bd2212c3a2fad09678884aa8443]
+### 14. Interpretation of this Part[^c-d8b86bd2212c3a2fad09678884aa8443]
 
 In this Part —
 
-- (a)[^key-ec7065a678ce4ff33a8ec323a0a2b7cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ec7065a678ce4ff33a8ec323a0a2b7cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “undesirable substance” means any substance or product, not being a pathogenic agent, which is present in or on a feed and —
   - (i) constitutes a potential danger to human or animal health or to the environment, or
   - (ii) could adversely affect livestock production.
 
-### 15. Control of animal feeds containing undesirable substances[^key-af682a7b2350175d536db794fd25fcc4]
+### 15. Control of animal feeds containing undesirable substances[^c-af682a7b2350175d536db794fd25fcc4]
 
 (1) A person who —
 
-- (a) places on the market any feed that is specified in column 2 of a table in Schedule 4[^key-413e64eb0aec41202352a38642227dae]; or
+- (a) places on the market any feed that is specified in column 2 of a table in Schedule 4[^c-413e64eb0aec41202352a38642227dae]; or
 - (b) uses any such feed,
 
-commits an offence if it contains any undesirable substance listed in column 1 of that table[^key-91779ba18e01744fb8f2ebb47bbfb452] in excess of the relevant maximum content specified in column 3.
+commits an offence if it contains any undesirable substance listed in column 1 of that table[^c-91779ba18e01744fb8f2ebb47bbfb452] in excess of the relevant maximum content specified in column 3.
 
 (2) A person who places on the market or uses any complementary feed commits an offence if —
 
-- (a) having regard to the quantity of it recommended for use in a daily ration, it contains any undesirable substance listed in column 1 of a table in Schedule 4[^key-d969d23546d9809cf56c6073457fcccd] in excess of the maximum content specified for it in column 3 in relation to complete feeds; and
-- (b) there is no provision relating to any complementary feed in the corresponding entry in column 2 of that table[^key-45f5d6fcb396b844656a8adec5fc1dcf].
+- (a) having regard to the quantity of it recommended for use in a daily ration, it contains any undesirable substance listed in column 1 of a table in Schedule 4[^c-d969d23546d9809cf56c6073457fcccd] in excess of the maximum content specified for it in column 3 in relation to complete feeds; and
+- (b) there is no provision relating to any complementary feed in the corresponding entry in column 2 of that table[^c-45f5d6fcb396b844656a8adec5fc1dcf].
 
-(3) A person who for the purpose of dilution mixes any feed with a feed that is specified in column 2 of a table in Schedule 4[^key-aab42cf4ff5ef79516b12a2a722874b9] and which contains any undesirable substance listed in column 1 of that table[^key-8d690d71486d8c05aa48d9b9690e4416] in excess of the maximum content specified for it in column 3 commits an offence.
+(3) A person who for the purpose of dilution mixes any feed with a feed that is specified in column 2 of a table in Schedule 4[^c-aab42cf4ff5ef79516b12a2a722874b9] and which contains any undesirable substance listed in column 1 of that table[^c-8d690d71486d8c05aa48d9b9690e4416] in excess of the maximum content specified for it in column 3 commits an offence.
 
 (4) A person who places on the market or uses any feed which is not sound and genuine and of merchantable quality commits an offence.
 
-(5) For the purposes of paragraph (4) a feed listed in column 2 of a table in Schedule 4[^key-d6b4b12fe4330bc53b7bc98427026aa4] shall be deemed not to be sound, genuine and of merchantable quality if it contains any undesirable substance specified in column 1 of that table[^key-17665aa79d40d9d2f07344b44a53f606] in excess of the maximum content specified in relation to it in column 3.
+(5) For the purposes of paragraph (4) a feed listed in column 2 of a table in Schedule 4[^c-d6b4b12fe4330bc53b7bc98427026aa4] shall be deemed not to be sound, genuine and of merchantable quality if it contains any undesirable substance specified in column 1 of that table[^c-17665aa79d40d9d2f07344b44a53f606] in excess of the maximum content specified in relation to it in column 3.
 
 (6) A person who has, for the purpose of a trade or business, possession or control of any of the feeds specified in paragraph (7) must, if required by an inspector, procure and produce to the inspector an analysis in order to demonstrate that the content of inorganic arsenic in the feed specified in that paragraph is less than 2 parts per million.
 
@@ -212,14 +212,14 @@ commits an offence if it contains any undesirable substance listed in column 1 o
 
 - (a) palm kernel expeller;
 - (b) feeds obtained from the processing of fish and other marine animals;
-- (c) seaweed meal and feed materials derived from seaweed; [^key-71ccccd4e4d9d3872cede48b2101af3d]...
+- (c) seaweed meal and feed materials derived from seaweed; [^c-71ccccd4e4d9d3872cede48b2101af3d]...
 - (d) complete feeds for fish or for fur-producing animals;
-- (e)[^key-226ce96d61fda486d419d1d9e8d9324f] peat;
+- (e)[^c-226ce96d61fda486d419d1d9e8d9324f] peat;
 - (f) leonardite.
 
 (8) A person who, without reasonable excuse, fails to comply with a requirement made under paragraph (6) commits an offence.
 
-(9)[^key-c53799f43a729d3aa161d7c8be2e4ff8] In order to reduce or eliminate sources of undesirable substances in products intended for animal feed, feed authorities must, in cooperation with feed business operators, carry out investigations to identify the sources of undesirable substances, in cases where the maximum levels are exceeded and in cases where increased levels of such substances are detected, taking into account background levels; for the purpose of ensuring a uniform approach in cases of increased levels, action thresholds to trigger investigations are set out in Schedule 5.
+(9)[^c-c53799f43a729d3aa161d7c8be2e4ff8] In order to reduce or eliminate sources of undesirable substances in products intended for animal feed, feed authorities must, in cooperation with feed business operators, carry out investigations to identify the sources of undesirable substances, in cases where the maximum levels are exceeded and in cases where increased levels of such substances are detected, taking into account background levels; for the purpose of ensuring a uniform approach in cases of increased levels, action thresholds to trigger investigations are set out in Schedule 5.
 
 (10) Feed authorities must transmit to the Agency all relevant information and findings of the source and the measures taken to reduce the level of, or eliminate, undesirable substances.
 
@@ -242,7 +242,7 @@ commits an offence if it contains any undesirable substance listed in column 1 o
 
 (13) A direction issued under paragraph (11)(a) and a revocation notice under paragraph (12)(c) must be published by the Secretary of State without delay.
 
-### 15A. Regulations[^key-c14f0327e5b374827089d2aaa46fd08b]
+### 15A. Regulations[^c-c14f0327e5b374827089d2aaa46fd08b]
 
 (1) The Secretary of State may, by regulations, make provision to—
 
@@ -255,10 +255,10 @@ commits an offence if it contains any undesirable substance listed in column 1 o
 
 (4) Regulations made under this regulation may—
 
-- (a) contain consequential, incidental, supplementary, transitional or saving provision (including provision amending, repealing or revoking assimilated direct[^key-20a2141905ce3a669ba67da15d387d79] legislation);
+- (a) contain consequential, incidental, supplementary, transitional or saving provision (including provision amending, repealing or revoking assimilated direct[^c-20a2141905ce3a669ba67da15d387d79] legislation);
 - (b) make different provision for different purposes.
 
-## PART 7 — Enforcement of Regulation 2020/354[^key-2c543cc70290b7c3968f46e2c81f5c8b]
+## PART 7 — Enforcement of Regulation 2020/354[^c-2c543cc70290b7c3968f46e2c81f5c8b]
 
 ### 16. Interpretation of this Part
 
@@ -270,19 +270,19 @@ A person who contravenes or fails to comply with Article 1 (conditions on market
 
 ## PART 8 — Administration and enforcement
 
-### 18. Penalties for offences under these Regulations[^key-9df4c62847521fdeeda256f8b72256a0]
+### 18. Penalties for offences under these Regulations[^c-9df4c62847521fdeeda256f8b72256a0]
 
-(1) A person found guilty of an offence under regulation 4(1), 7(1), 10(1), 12(1), 15(1), (2), (3) or (4) or 17[^key-9dc15d2e3738ddc30745453ec4050c0f] is liable on summary conviction to a term of imprisonment not exceeding 3 months or to a fine not exceeding level 5 on the standard scale, or both.
+(1) A person found guilty of an offence under regulation 4(1), 7(1), 10(1), 12(1), 15(1), (2), (3) or (4) or 17[^c-9dc15d2e3738ddc30745453ec4050c0f] is liable on summary conviction to a term of imprisonment not exceeding 3 months or to a fine not exceeding level 5 on the standard scale, or both.
 
 (2) A person found guilty of an offence under regulation 15(8) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 19. Duties to enforce[^key-b39f5c67b6fbc9c03ffd168a84bf0e46]
+### 19. Duties to enforce[^c-b39f5c67b6fbc9c03ffd168a84bf0e46]
 
-It is the duty of each feed authority within its area or district to execute and enforce Regulation 178/2002, Regulation 1829/2003[^key-f9d82bd49f928dfbf2600e747654b4fa], Regulation 1831/2003, Regulation 767/2009, Regulation 2020/354[^key-654f55f16b69868837d12441b1a05a93] and these Regulations.
+It is the duty of each feed authority within its area or district to execute and enforce Regulation 178/2002, Regulation 1829/2003[^c-f9d82bd49f928dfbf2600e747654b4fa], Regulation 1831/2003, Regulation 767/2009, Regulation 2020/354[^c-654f55f16b69868837d12441b1a05a93] and these Regulations.
 
 ## PART 9 — Amendment and revocation
 
-### 20. Amendment of the Official Feed and Food Controls (England) Regulations 2009[^key-99691391b7105c868065e411994b0215]
+### 20. Amendment of the Official Feed and Food Controls (England) Regulations 2009[^c-99691391b7105c868065e411994b0215]
 
 (1) The Official Feed and Food Controls (England) Regulations 2009[^f00017] are amended in accordance with paragraph (2).
 
@@ -291,11 +291,11 @@ It is the duty of each feed authority within its area or district to execute and
 - (a) omit paragraph (c); and
 - (b) in paragraph (f), for the expression “the Animal Feed (England) Regulations 2010” substitute “the Animal Feed (Composition, Marketing and Use) (England) Regulations 2015”.
 
-### 21. Revocations[^key-2df072eb3645a50251e35baed8da71b6]
+### 21. Revocations[^c-2df072eb3645a50251e35baed8da71b6]
 
 The Regulations listed in the first column of Schedule 2 are revoked to the extent specified in the second column.
 
-### 22. Statutory review[^key-ccf6f102216bbb2b5ec5acc771107cfa]
+### 22. Statutory review[^c-ccf6f102216bbb2b5ec5acc771107cfa]
 
 (1) The Food Standards Agency must from time to time —
 
@@ -304,7 +304,7 @@ The Regulations listed in the first column of Schedule 2 are revoked to the exte
 
 publish the report.
 
-(2)[^key-b05e0f462684dfaed2930c789104df66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b05e0f462684dfaed2930c789104df66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular -
 
@@ -326,7 +326,7 @@ Department of Health
 
 25th February 2015
 
-## SCHEDULE 1 — Specified Provisions of Regulation 767/2009[^key-71d6cc73bdf4af3656c19fbbdf29e666]
+## SCHEDULE 1 — Specified Provisions of Regulation 767/2009[^c-71d6cc73bdf4af3656c19fbbdf29e666]
 
 Regulation 12
 
@@ -355,7 +355,7 @@ Table 1
 | Article 24(2) | Requirement that if the name of a feed material listed in the Catalogue of feed materials is used, all relevant provisions of the Catalogue must be complied with. |
 | Article 24(3) | Obligation on a person who first places on the market a feed material not listed in the Catalogue of feed materials to notify its use. |
 
-## SCHEDULE 2 — Revocations[^key-08c9686bc0e209606f2257f45cc7efa7]
+## SCHEDULE 2 — Revocations[^c-08c9686bc0e209606f2257f45cc7efa7]
 
 Regulation 21
 
@@ -365,7 +365,7 @@ Regulation 21
 | The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (England) (Revocation) Regulations 2007 ([S.I. 2007/3007](https://www.legislation.gov.uk/uksi/2007/3007)) | The whole Regulations |
 | The Animal Feed (England) Regulations 2010 ([S.I. 2010/2503](https://www.legislation.gov.uk/uksi/2010/2503)) | The whole Regulations other than regulations 1, 2 and 14. |
 
-## SCHEDULE 3 — Categories of feed materials which may be indicated in place of individual feed materials[^key-c945444a91965173612f97d532889cf0]
+## SCHEDULE 3 — Categories of feed materials which may be indicated in place of individual feed materials[^c-c945444a91965173612f97d532889cf0]
 
 Regulation 12(2)
 
@@ -391,7 +391,7 @@ Regulation 12(2)
 | 18.Insects | All types of insects and their stages of development |
 | 19.Bakery products | All bread, cakes, biscuits and pasta products |
 
-## SCHEDULE 4 — Maximum levels of undesirable substances[^key-fd1a8b5d81966257c17e650007b08825]
+## SCHEDULE 4 — Maximum levels of undesirable substances[^c-fd1a8b5d81966257c17e650007b08825]
 
 Regulations 15 and 15A
 
@@ -884,7 +884,7 @@ Table 7: AUTHORISED FEED ADDITIVES IN NON-TARGET FEED FOLLOWING UNAVOIDABLE CARR
 
 [^f01038][^f01039][^f01039][^f01039][^f01039][^f01039][^f01039][^f01039][^f01039][^f01039][^f01039][^f01039]
 
-## SCHEDULE 5 — Action thresholds triggering investigations: dioxins and PCBs[^key-541bd5dcab6c534f879ce37ecb0592e6]
+## SCHEDULE 5 — Action thresholds triggering investigations: dioxins and PCBs[^c-541bd5dcab6c534f879ce37ecb0592e6]
 
 Regulations 15 and 15A
 
@@ -1036,141 +1036,141 @@ EXPLANATORY NOTE
 
 [^f00008]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by Regulation (EU) No. 652/2014 of the European Parliament and of the Council (OJ No. L189, 27.6.2014, p.1).
 
-[^key-778908713a7a908416a60b5c15b1d867]: Modification: [Pt. 1](https://www.legislation.gov.uk/uksi/2015/255/part/1) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-778908713a7a908416a60b5c15b1d867]: Modification: [Pt. 1](https://www.legislation.gov.uk/uksi/2015/255/part/1) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-61e1f2fe6b597273a1e7adfbf2c8b113]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-61e1f2fe6b597273a1e7adfbf2c8b113]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-cc0b3a8a9f9464753da7587a954c41b8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/255/regulation/2) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-cc0b3a8a9f9464753da7587a954c41b8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/255/regulation/2) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-02fc13c476ea2e6151721ecad45382d8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/1) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/2/a/i)
+[^c-02fc13c476ea2e6151721ecad45382d8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/1) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/2/a/i)
 
-[^key-f7d1f7e8fbc59d372c0b5a95125dd87b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/1) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/2/a/ii)
+[^c-f7d1f7e8fbc59d372c0b5a95125dd87b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/1) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/2/a/ii)
 
 [^f00011]: Footnote: OJ No.L268, 18.10.2003, p.1. This Regulation was last amended by Regulation [(EC) No 298/2008](https://www.legislation.gov.uk/european/regulation/2008/0298) of the European Parliament and of the Council (OJ No. L97, 9.4.2008, p.64).
 
-[^key-4341abbf105ff46620713fe42600a859]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/1) substituted (17.4.2019) by [The Animal Feed (Composition, Marketing and Use) (England) (Amendment) Regulations 2019 (S.I. 2019/675)](https://www.legislation.gov.uk/uksi/2019/675), [regs. 1](https://www.legislation.gov.uk/uksi/2019/675/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/675/regulation/2/2/a)
+[^c-4341abbf105ff46620713fe42600a859]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/1) substituted (17.4.2019) by [The Animal Feed (Composition, Marketing and Use) (England) (Amendment) Regulations 2019 (S.I. 2019/675)](https://www.legislation.gov.uk/uksi/2019/675), [regs. 1](https://www.legislation.gov.uk/uksi/2019/675/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/675/regulation/2/2/a)
 
-[^key-77b038b45b3a17237b7c2646e22c1421]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/1) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/2/a/i)
+[^c-77b038b45b3a17237b7c2646e22c1421]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/1) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/2/a/i)
 
 [^f00014]: Footnote: OJ No. L229, 1.9.2009, p.1. This Regulation was last amended by [Commission Regulation (EC) No. 939/2010](https://www.legislation.gov.uk/european/regulation/2010/0939) (OJ No. L277, 21.10.2010, p.4).
 
-[^key-9e70aea0fd481cc271b4dea8aa4552c5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/1) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/2/a/ii)
+[^c-9e70aea0fd481cc271b4dea8aa4552c5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/1) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/2/a/ii)
 
-[^key-5c3977e9a95f9fdefc3e36c00514f13c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/2/b)
+[^c-5c3977e9a95f9fdefc3e36c00514f13c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/2/b)
 
-[^key-5cbfd5e2cf4427c5774b9ce645c149b5]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 4(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/4/a)
+[^c-5cbfd5e2cf4427c5774b9ce645c149b5]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 4(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/4/a)
 
-[^key-03e4127afe3cbd94a6b142d564fbd828]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/3) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/2/c)
+[^c-03e4127afe3cbd94a6b142d564fbd828]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/3) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/2/c)
 
-[^key-1ca04eb84870084d65ac173a056bfe70]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/3) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/2/c)
+[^c-1ca04eb84870084d65ac173a056bfe70]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2015/255/regulation/2/3) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/2/c)
 
 [^f00015]: Footnote: Categories (d) and (e) of Article 6(1) comprise, respectively, zootechnical additives and coccidiostats and histomonostats. Functional groups listed in paragraphs 4(a), (b) and (c) of Annex I comprise digestibility enhancers, gut flora stabilisers and substances which favourably affect the environment.
 
-[^key-64a8104103f94bd83bca613d7303b121]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/255/regulation/3) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-64a8104103f94bd83bca613d7303b121]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/255/regulation/3) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-b0f210427410e373e29a959a3e8ce100]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/255/regulation/4) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-b0f210427410e373e29a959a3e8ce100]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/255/regulation/4) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-89bf45d8a1e00ac58b117181ea90782c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/255/regulation/5) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-89bf45d8a1e00ac58b117181ea90782c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/255/regulation/5) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-e6e52bb737a7a43fec85d6bab43a6baf]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/255/regulation/6) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-e6e52bb737a7a43fec85d6bab43a6baf]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/255/regulation/6) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-36214945767abd5ef1a7c86d0638f15e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/255/regulation/7) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-36214945767abd5ef1a7c86d0638f15e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/255/regulation/7) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
 [^f00016]: Footnote: The products referred to in Article 15(1) are genetically modified organisms (GMOs) for feed use, feed containing or consisting of GMOs and feed produced from GMOs.
 
-[^key-ddad330e51aec31ea6d478733294e494]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/7/2/a) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ddad330e51aec31ea6d478733294e494]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/7/2/a) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a5516a1b9c4b4058c11ea18371f0c98c]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2015/255/regulation/7/2/c) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a5516a1b9c4b4058c11ea18371f0c98c]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2015/255/regulation/7/2/c) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-87041d2e51e7c4c11aca134332050525]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/255/regulation/8) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-87041d2e51e7c4c11aca134332050525]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/255/regulation/8) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-21a8acf8c3df99569d1d8ae208d39aff]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/255/regulation/9) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-21a8acf8c3df99569d1d8ae208d39aff]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/255/regulation/9) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-c66c83452f554b49f1bf90627047c3aa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/255/regulation/10) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-c66c83452f554b49f1bf90627047c3aa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/255/regulation/10) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-11adad475b5667197971eddeb5c49ca4]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/10/1) substituted (17.4.2019) by [The Animal Feed (Composition, Marketing and Use) (England) (Amendment) Regulations 2019 (S.I. 2019/675)](https://www.legislation.gov.uk/uksi/2019/675), [regs. 1](https://www.legislation.gov.uk/uksi/2019/675/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/675/regulation/2/3)
+[^c-11adad475b5667197971eddeb5c49ca4]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/10/1) substituted (17.4.2019) by [The Animal Feed (Composition, Marketing and Use) (England) (Amendment) Regulations 2019 (S.I. 2019/675)](https://www.legislation.gov.uk/uksi/2019/675), [regs. 1](https://www.legislation.gov.uk/uksi/2019/675/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/675/regulation/2/3)
 
-[^key-1914262ec270cddf6402be14eb589e5d]: Textual amendment: Words in [reg. 10(2)(d)](https://www.legislation.gov.uk/uksi/2015/255/regulation/10/2/d) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/654/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1914262ec270cddf6402be14eb589e5d]: Textual amendment: Words in [reg. 10(2)(d)](https://www.legislation.gov.uk/uksi/2015/255/regulation/10/2/d) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/654/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0399dbb241030d7c04169ed64878f5a2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/255/regulation/11) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-0399dbb241030d7c04169ed64878f5a2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/255/regulation/11) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-43a93f867368773db200c0a07ff7f973]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/255/regulation/12) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-43a93f867368773db200c0a07ff7f973]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/255/regulation/12) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-f0604749390901c41267d9362dc799d6]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2015/255/regulation/12/2) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/3)
+[^c-f0604749390901c41267d9362dc799d6]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2015/255/regulation/12/2) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/3)
 
-[^key-af87d3aafff11876daa6a8ec7d44052e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/255/regulation/13) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-af87d3aafff11876daa6a8ec7d44052e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/255/regulation/13) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-68770cecb0b86491c38be19bebc9494f]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/13/2/a) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68770cecb0b86491c38be19bebc9494f]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/13/2/a) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c8a0831965ef54967f01644d0e9a535f]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/2015/255/regulation/13/2/b) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8a0831965ef54967f01644d0e9a535f]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/2015/255/regulation/13/2/b) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ceb114ca0b760d1aa91bda50cdcfba4]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2015/255/part/6) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-9ceb114ca0b760d1aa91bda50cdcfba4]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2015/255/part/6) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-91f26225d46d4c4a5e07c5baf121fcae]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2015/255/part/6) heading substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/4)
+[^c-91f26225d46d4c4a5e07c5baf121fcae]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2015/255/part/6) heading substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/4)
 
-[^key-d8b86bd2212c3a2fad09678884aa8443]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/255/regulation/14) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-d8b86bd2212c3a2fad09678884aa8443]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/255/regulation/14) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-ec7065a678ce4ff33a8ec323a0a2b7cd]: Textual amendment: [Reg. 14(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/14/a) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/5)
+[^c-ec7065a678ce4ff33a8ec323a0a2b7cd]: Textual amendment: [Reg. 14(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/14/a) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/5)
 
-[^key-af682a7b2350175d536db794fd25fcc4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/255/regulation/15) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-af682a7b2350175d536db794fd25fcc4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/255/regulation/15) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-413e64eb0aec41202352a38642227dae]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/1/a) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/a/i)
+[^c-413e64eb0aec41202352a38642227dae]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/1/a) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/a/i)
 
-[^key-91779ba18e01744fb8f2ebb47bbfb452]: Textual amendment: Word in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/a/ii)
+[^c-91779ba18e01744fb8f2ebb47bbfb452]: Textual amendment: Word in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/a/ii)
 
-[^key-d969d23546d9809cf56c6073457fcccd]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/2/a) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/b/i)
+[^c-d969d23546d9809cf56c6073457fcccd]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/2/a) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/b/i)
 
-[^key-45f5d6fcb396b844656a8adec5fc1dcf]: Textual amendment: Word in [reg. 15(2)(b)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/2/b) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/b/ii)
+[^c-45f5d6fcb396b844656a8adec5fc1dcf]: Textual amendment: Word in [reg. 15(2)(b)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/2/b) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/b/ii)
 
-[^key-aab42cf4ff5ef79516b12a2a722874b9]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/c/i)
+[^c-aab42cf4ff5ef79516b12a2a722874b9]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/c/i)
 
-[^key-8d690d71486d8c05aa48d9b9690e4416]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/c/ii)
+[^c-8d690d71486d8c05aa48d9b9690e4416]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/c/ii)
 
-[^key-d6b4b12fe4330bc53b7bc98427026aa4]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/5) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(d)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/d/i)
+[^c-d6b4b12fe4330bc53b7bc98427026aa4]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/5) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(d)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/d/i)
 
-[^key-17665aa79d40d9d2f07344b44a53f606]: Textual amendment: Word in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/5) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/d/ii)
+[^c-17665aa79d40d9d2f07344b44a53f606]: Textual amendment: Word in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/5) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/d/ii)
 
-[^key-71ccccd4e4d9d3872cede48b2101af3d]: Textual amendment: Word in [reg. 15(7)(c)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/7/c) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(e)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/e/i)
+[^c-71ccccd4e4d9d3872cede48b2101af3d]: Textual amendment: Word in [reg. 15(7)(c)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/7/c) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(e)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/e/i)
 
-[^key-226ce96d61fda486d419d1d9e8d9324f]: Textual amendment: [Reg. 15(7)(e)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/7/e)[(f)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/7/f) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/e/ii)
+[^c-226ce96d61fda486d419d1d9e8d9324f]: Textual amendment: [Reg. 15(7)(e)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/7/e)[(f)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/7/f) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/e/ii)
 
-[^key-c53799f43a729d3aa161d7c8be2e4ff8]: Textual amendment: [Reg. 15(9)-(13)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/9) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(f)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/f)
+[^c-c53799f43a729d3aa161d7c8be2e4ff8]: Textual amendment: [Reg. 15(9)-(13)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15/9) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(6)(f)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/6/f)
 
-[^key-c14f0327e5b374827089d2aaa46fd08b]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2015/255/regulation/15A) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/7)
+[^c-c14f0327e5b374827089d2aaa46fd08b]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2015/255/regulation/15A) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/7)
 
-[^key-20a2141905ce3a669ba67da15d387d79]: Textual amendment: Words in [reg. 15A(4)(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15A/4/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 4(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/4/b)
+[^c-20a2141905ce3a669ba67da15d387d79]: Textual amendment: Words in [reg. 15A(4)(a)](https://www.legislation.gov.uk/uksi/2015/255/regulation/15A/4/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 4(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/4/b)
 
-[^key-2c543cc70290b7c3968f46e2c81f5c8b]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2015/255/part/7) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/3)
+[^c-2c543cc70290b7c3968f46e2c81f5c8b]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2015/255/part/7) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/3)
 
-[^key-9df4c62847521fdeeda256f8b72256a0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/255/regulation/18) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-9df4c62847521fdeeda256f8b72256a0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/255/regulation/18) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-9dc15d2e3738ddc30745453ec4050c0f]: Textual amendment: Word in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/18/1) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/4)
+[^c-9dc15d2e3738ddc30745453ec4050c0f]: Textual amendment: Word in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2015/255/regulation/18/1) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/4)
 
-[^key-b39f5c67b6fbc9c03ffd168a84bf0e46]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/255/regulation/19) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-b39f5c67b6fbc9c03ffd168a84bf0e46]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/255/regulation/19) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-f9d82bd49f928dfbf2600e747654b4fa]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/2015/255/regulation/19) substituted (17.4.2019) by [The Animal Feed (Composition, Marketing and Use) (England) (Amendment) Regulations 2019 (S.I. 2019/675)](https://www.legislation.gov.uk/uksi/2019/675), [regs. 1](https://www.legislation.gov.uk/uksi/2019/675/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/675/regulation/2/4)
+[^c-f9d82bd49f928dfbf2600e747654b4fa]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/2015/255/regulation/19) substituted (17.4.2019) by [The Animal Feed (Composition, Marketing and Use) (England) (Amendment) Regulations 2019 (S.I. 2019/675)](https://www.legislation.gov.uk/uksi/2019/675), [regs. 1](https://www.legislation.gov.uk/uksi/2019/675/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/675/regulation/2/4)
 
-[^key-654f55f16b69868837d12441b1a05a93]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2015/255/regulation/19) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/5)
+[^c-654f55f16b69868837d12441b1a05a93]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2015/255/regulation/19) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/6/5)
 
-[^key-99691391b7105c868065e411994b0215]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/255/regulation/20) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-99691391b7105c868065e411994b0215]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/255/regulation/20) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
 [^f00017]: Footnote: [S.I. 2009/3255](https://www.legislation.gov.uk/uksi/2009/3255), amended by [S.I. 2010/2280](https://www.legislation.gov.uk/uksi/2010/2280), [S.I. 2010/2503](https://www.legislation.gov.uk/uksi/2010/2503), [S.I. 2011/136](https://www.legislation.gov.uk/uksi/2011/136), [S.I.2013/264](https://www.legislation.gov.uk/uksi/2013/264) and [S.I. 2013/2996](https://www.legislation.gov.uk/uksi/2013/2996).
 
-[^key-2df072eb3645a50251e35baed8da71b6]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/255/regulation/21) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-2df072eb3645a50251e35baed8da71b6]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/255/regulation/21) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-ccf6f102216bbb2b5ec5acc771107cfa]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/255/regulation/22) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-ccf6f102216bbb2b5ec5acc771107cfa]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/255/regulation/22) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-b05e0f462684dfaed2930c789104df66]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2015/255/regulation/22/2) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/8)
+[^c-b05e0f462684dfaed2930c789104df66]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2015/255/regulation/22/2) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/4/8)
 
-[^key-71d6cc73bdf4af3656c19fbbdf29e666]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/255/schedule/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/654/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2019/654/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71d6cc73bdf4af3656c19fbbdf29e666]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/255/schedule/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/654/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2019/654/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-08c9686bc0e209606f2257f45cc7efa7]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
+[^c-08c9686bc0e209606f2257f45cc7efa7]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1)
 
-[^key-c945444a91965173612f97d532889cf0]: Textual amendment: [Schs. 3-5](https://www.legislation.gov.uk/uksi/2015/255/schedule/3) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/1351/schedule/3)
+[^c-c945444a91965173612f97d532889cf0]: Textual amendment: [Schs. 3-5](https://www.legislation.gov.uk/uksi/2015/255/schedule/3) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/1351/schedule/3)
 
-[^key-fd1a8b5d81966257c17e650007b08825]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/255/schedule/4) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-fd1a8b5d81966257c17e650007b08825]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/255/schedule/4) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^f01006]: Footnote: (1)[^key-c945444a91965173612f97d532889cf0]
+[^f01006]: Footnote: (1)[^c-c945444a91965173612f97d532889cf0]
 
     The maximum levels refer to total arsenic.
 
@@ -1278,7 +1278,7 @@ EXPLANATORY NOTE
 
     The maximum level of the substance in the premixture is the concentration which shall not result in a level of the substance higher than 50 % of the maximum levels established in the feed when the instructions for use of the premixture are followed.
 
-[^key-541bd5dcab6c534f879ce37ecb0592e6]: Modification: [Sch. 5](https://www.legislation.gov.uk/uksi/2015/255/schedule/5) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-541bd5dcab6c534f879ce37ecb0592e6]: Modification: [Sch. 5](https://www.legislation.gov.uk/uksi/2015/255/schedule/5) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f01041]: Footnote: (2)
 

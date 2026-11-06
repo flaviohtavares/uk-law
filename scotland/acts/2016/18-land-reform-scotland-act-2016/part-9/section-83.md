@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Core paths plans[^key-0587f51da5ab5bdf8dda9895af298fb3]
+## 83. Core paths plans[^c-0587f51da5ab5bdf8dda9895af298fb3]
 
 *Extent: S*
 
@@ -123,4 +123,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0587f51da5ab5bdf8dda9895af298fb3]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2016/18/section/83) in force at 31.12.2016 by [S.S.I. 2016/372](https://www.legislation.gov.uk/ssi/2016/372), [reg. 2](https://www.legislation.gov.uk/ssi/2016/372/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2016/372/regulation/3), [4](https://www.legislation.gov.uk/ssi/2016/372/regulation/4))
+[^c-0587f51da5ab5bdf8dda9895af298fb3]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2016/18/section/83) in force at 31.12.2016 by [S.S.I. 2016/372](https://www.legislation.gov.uk/ssi/2016/372), [reg. 2](https://www.legislation.gov.uk/ssi/2016/372/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2016/372/regulation/3), [4](https://www.legislation.gov.uk/ssi/2016/372/regulation/4))

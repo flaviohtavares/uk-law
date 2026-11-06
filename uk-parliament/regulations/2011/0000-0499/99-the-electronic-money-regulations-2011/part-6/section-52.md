@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If the Authority considers that an electronic money institution has contravened a requirement imposed on it by or under these Regulations or by or under section 312R of the 2000 Act[^key-e43c57711ccb7b006323e19d2120c3da], it may—
+(1) If the Authority considers that an electronic money institution has contravened a requirement imposed on it by or under these Regulations or by or under section 312R of the 2000 Act[^c-e43c57711ccb7b006323e19d2120c3da], it may—
 
 - (a) suspend, for such period as it considers appropriate, the institution's authorisation or, as the case may be, registration; or
 - (b) impose, for such period as it considers appropriate, such limitations or other restrictions in relation to the carrying on of electronic money issuance or payment services business by the institution as it considers appropriate.
@@ -45,4 +45,4 @@ may be exercised in relation to the same contravention.
 
 ## Annotations
 
-[^key-e43c57711ccb7b006323e19d2120c3da]: Textual amendment: Words in [reg. 52(1)](https://www.legislation.gov.uk/uksi/2011/99/regulation/52/1) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/57) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-e43c57711ccb7b006323e19d2120c3da]: Textual amendment: Words in [reg. 52(1)](https://www.legislation.gov.uk/uksi/2011/99/regulation/52/1) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/57) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)

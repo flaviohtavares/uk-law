@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Duty to keep enforcement orders under review[^key-f66515ea9c842fb13f7780a80163941e][^key-638932e5d28a3821b4b094041528c62d]
+## 35. Duty to keep enforcement orders under review[^c-f66515ea9c842fb13f7780a80163941e][^c-638932e5d28a3821b4b094041528c62d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ The CMA must keep under review—
 
 ## Annotations
 
-[^key-f66515ea9c842fb13f7780a80163941e]: Commencement: S. 35 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-f66515ea9c842fb13f7780a80163941e]: Commencement: S. 35 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-638932e5d28a3821b4b094041528c62d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2024/13/section/35) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-638932e5d28a3821b4b094041528c62d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2024/13/section/35) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

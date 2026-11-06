@@ -37,7 +37,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Key definitions
 
-### 1. Key definitions[^key-e0676217c215e9251749aeb61b8e1e54]
+### 1. Key definitions[^c-e0676217c215e9251749aeb61b8e1e54]
 
 (1) This section applies for the purposes of this Act.
 
@@ -70,7 +70,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Accountability
 
-### 2. Mental health units to have a responsible person[^key-c180a9abf28660891ff212110c283d73]
+### 2. Mental health units to have a responsible person[^c-c180a9abf28660891ff212110c283d73]
 
 (1) A relevant health organisation that operates a mental health unit must appoint a responsible person for that unit for the purposes of this Act.
 
@@ -81,7 +81,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) Where a relevant health organisation operates more than one mental health unit that organisation must appoint a single responsible person in relation to all of the mental health units operated by that organisation.
 
-### 3. Policy on use of force[^key-cca46c609d872147d7e1a7ad6f9a7b55]
+### 3. Policy on use of force[^c-cca46c609d872147d7e1a7ad6f9a7b55]
 
 (1) The responsible person for each mental health unit must publish a policy regarding the use of force by staff who work in that unit.
 
@@ -97,7 +97,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) A policy published under this section must set out what steps will be taken to reduce the use of force in the mental health unit by staff who work in that unit.
 
-### 4. Information about use of force[^key-d15dc73a1da9d1cbcd85f3bed003ecb1]
+### 4. Information about use of force[^c-d15dc73a1da9d1cbcd85f3bed003ecb1]
 
 (1) The responsible person for each mental health unit must publish information for patients about the rights of patients in relation to the use of force by staff who work in that unit.
 
@@ -123,7 +123,7 @@ unless the patient (where paragraph (a) applies) or the other person (where para
 
 (8) If the responsible person considers that any revisions would amount to a substantial change in the information, the responsible person must consult any persons that the responsible person considers appropriate before publishing the revised information.
 
-### 5. Training in appropriate use of force[^key-1b513fe54360c496c98eb3b83b1a2b88]
+### 5. Training in appropriate use of force[^c-1b513fe54360c496c98eb3b83b1a2b88]
 
 (1) The responsible person for each mental health unit must provide training for staff that relates to the use of force by staff who work in that unit.
 
@@ -159,45 +159,45 @@ unless the patient (where paragraph (a) applies) or the other person (where para
 
 ### 6. Recording of use of force
 
-(1)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] The responsible person for each mental health unit must keep a record of any use of force by staff who work in that unit in accordance with this section.
+(1)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] The responsible person for each mental health unit must keep a record of any use of force by staff who work in that unit in accordance with this section.
 
-(2)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] Subsection (1) does not apply in cases where the use of force is negligible.
+(2)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] Subsection (1) does not apply in cases where the use of force is negligible.
 
-(3)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] Whether the use of force is “**negligible**” for the purposes of subsection (1) is to be determined in accordance with guidance published by the Secretary of State.
+(3)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] Whether the use of force is “**negligible**” for the purposes of subsection (1) is to be determined in accordance with guidance published by the Secretary of State.
 
-(4)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] Section 11(3) to (6) apply to guidance published under this section as they apply to guidance published under section 11.
+(4)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] Section 11(3) to (6) apply to guidance published under this section as they apply to guidance published under section 11.
 
 (5) The record must include the following information—
 
-- (a)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] the reason for the use of force;
-- (b)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] the place, date and duration of the use of force;
-- (c)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] the type or types of force used on the patient;
-- (d)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] whether the type or types of force used on the patient formed part of the patient's care plan;
-- (e)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] name of the patient on whom force was used;
-- (f)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] a description of how force was used;
-- (g)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] the patient's consistent identifier;
-- (h)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] the name and job title of any member of staff who used force on the patient;
-- (i)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] the reason any person who was not a member of staff in the mental health unit was involved in the use of force on the patient;
-- (j)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] the patient's mental disorder (if known);
-- (k)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] the relevant characteristics of the patient (if known);
-- (l)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] whether the patient has a learning disability or autistic spectrum disorders;
-- (m)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] a description of the outcome of the use of force;
+- (a)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] the reason for the use of force;
+- (b)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] the place, date and duration of the use of force;
+- (c)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] the type or types of force used on the patient;
+- (d)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] whether the type or types of force used on the patient formed part of the patient's care plan;
+- (e)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] name of the patient on whom force was used;
+- (f)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] a description of how force was used;
+- (g)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] the patient's consistent identifier;
+- (h)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] the name and job title of any member of staff who used force on the patient;
+- (i)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] the reason any person who was not a member of staff in the mental health unit was involved in the use of force on the patient;
+- (j)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] the patient's mental disorder (if known);
+- (k)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] the relevant characteristics of the patient (if known);
+- (l)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] whether the patient has a learning disability or autistic spectrum disorders;
+- (m)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] a description of the outcome of the use of force;
 - (n) whether the patient died or suffered any serious injury as a result of the use of force;
-- (o)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] any efforts made to avoid the need to use force on the patient;
-- (p)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] whether a notification regarding the use of force was sent to the person or persons (if any) to be notified under the patient's care plan.
+- (o)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] any efforts made to avoid the need to use force on the patient;
+- (p)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] whether a notification regarding the use of force was sent to the person or persons (if any) to be notified under the patient's care plan.
 
-(6)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] The responsible person must keep the record for 3 years from the date on which it was made.
+(6)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] The responsible person must keep the record for 3 years from the date on which it was made.
 
-(7)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] In subsection (5)(g) the “**patient's consistent identifier**” means the consistent identifier specified under section 251A of the Health and Social Care Act 2012.
+(7)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] In subsection (5)(g) the “**patient's consistent identifier**” means the consistent identifier specified under section 251A of the Health and Social Care Act 2012.
 
-(8)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] This section does not permit the responsible person to do anything which, but for this section, would be inconsistent with—
+(8)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] This section does not permit the responsible person to do anything which, but for this section, would be inconsistent with—
 
 - (a) any provision of the data protection legislation, or
 - (b) a common law duty of care or confidence.
 
-(9)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] In subsection (8) “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(9)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] In subsection (8) “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
-(10)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] In subsection (5)(k) the “**relevant characteristics**” in relation to a patient mean—
+(10)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] In subsection (5)(k) the “**relevant characteristics**” in relation to a patient mean—
 
 - (a) the patient's age;
 - (b) whether the patient has a disability, and if so, the nature of that disability;
@@ -208,7 +208,7 @@ unless the patient (where paragraph (a) applies) or the other person (where para
 - (g) the patient's sex;
 - (h) the patient's sexual orientation.
 
-(11)[^key-bc84fbe964fff3c1a5c9eeb5d897ead2] Expressions used in subsection (10) and Chapter 1 of Part 2 of the Equality Act 2010 have the same meaning in that subsection as in that Chapter.
+(11)[^c-bc84fbe964fff3c1a5c9eeb5d897ead2] Expressions used in subsection (10) and Chapter 1 of Part 2 of the Equality Act 2010 have the same meaning in that subsection as in that Chapter.
 
 ### 7. Statistics prepared by mental health units
 
@@ -244,15 +244,15 @@ unless the patient (where paragraph (a) applies) or the other person (where para
 
 When a patient dies or suffers a serious injury in a mental health unit, the responsible person for the mental health unit must have regard to any guidance relating to the investigation of deaths or serious injuries that is published by—
 
-- (a)[^key-8a7691526a717da6632192c632ac5283] the Care Quality Commission (see Part 1 of the Health and Social Care Act 2008);
-- (b)[^key-20ab8a06ee870df3a3960c762ae73824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-8a7691526a717da6632192c632ac5283] NHS England[^key-e35c9d5a27177e5faf3bd33ad386bbf2] (see section 1H of the National Health Service Act 2006);
-- (d)[^key-48a0f9d3c2b852cf41243ab8f3daf785] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8a7691526a717da6632192c632ac5283] the Care Quality Commission (see Part 1 of the Health and Social Care Act 2008);
+- (b)[^c-20ab8a06ee870df3a3960c762ae73824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-8a7691526a717da6632192c632ac5283] NHS England[^c-e35c9d5a27177e5faf3bd33ad386bbf2] (see section 1H of the National Health Service Act 2006);
+- (d)[^c-48a0f9d3c2b852cf41243ab8f3daf785] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) a person prescribed by regulations made by the Secretary of State.
 
 ## Delegation
 
-### 10. Delegation of responsible person's functions[^key-c344ee16d18ff3ee114bdc9f2ef547f1]
+### 10. Delegation of responsible person's functions[^c-c344ee16d18ff3ee114bdc9f2ef547f1]
 
 (1) The responsible person for each mental health unit may delegate any functions exercisable by the responsible person under this Act to a relevant person only in accordance with this section.
 
@@ -268,21 +268,21 @@ When a patient dies or suffers a serious injury in a mental health unit, the res
 
 ### 11. Guidance about functions under this Act
 
-(1)[^key-a61edbb68a304d4cdadcfb87b8eb93a6] The Secretary of State must publish guidance about the exercise of functions by responsible persons and relevant health organisations under this Act.
+(1)[^c-a61edbb68a304d4cdadcfb87b8eb93a6] The Secretary of State must publish guidance about the exercise of functions by responsible persons and relevant health organisations under this Act.
 
-(2)[^key-a61edbb68a304d4cdadcfb87b8eb93a6] In exercising functions under this Act, responsible persons and relevant health organisations must have regard to guidance published under this section.
+(2)[^c-a61edbb68a304d4cdadcfb87b8eb93a6] In exercising functions under this Act, responsible persons and relevant health organisations must have regard to guidance published under this section.
 
-(3)[^key-1d9c44335ffd86769cd51b496468c19c] Before publishing guidance under this section, the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+(3)[^c-1d9c44335ffd86769cd51b496468c19c] Before publishing guidance under this section, the Secretary of State must consult such persons as the Secretary of State considers appropriate.
 
-(4)[^key-a61edbb68a304d4cdadcfb87b8eb93a6] The Secretary of State must keep under review any guidance published under this section.
+(4)[^c-a61edbb68a304d4cdadcfb87b8eb93a6] The Secretary of State must keep under review any guidance published under this section.
 
-(5)[^key-a61edbb68a304d4cdadcfb87b8eb93a6] The Secretary of State may from time to time revise the guidance published under this section and, if this is done, must publish the guidance as revised.
+(5)[^c-a61edbb68a304d4cdadcfb87b8eb93a6] The Secretary of State may from time to time revise the guidance published under this section and, if this is done, must publish the guidance as revised.
 
-(6)[^key-a61edbb68a304d4cdadcfb87b8eb93a6] If the Secretary of State considers that any revisions would amount to a substantial change in the guidance, the Secretary of State must consult such persons as the Secretary of State considers appropriate before publishing any revised guidance.
+(6)[^c-a61edbb68a304d4cdadcfb87b8eb93a6] If the Secretary of State considers that any revisions would amount to a substantial change in the guidance, the Secretary of State must consult such persons as the Secretary of State considers appropriate before publishing any revised guidance.
 
 ## Video recording
 
-### 12. Police body cameras[^key-030ce6a01f13a6d7af0e4eff76ab446d]
+### 12. Police body cameras[^c-030ce6a01f13a6d7af0e4eff76ab446d]
 
 (1) If a police officer is going to a mental health unit on duty that involves assisting staff who work in that unit, the officer must take a body camera if reasonably practicable.
 
@@ -306,7 +306,7 @@ When a patient dies or suffers a serious injury in a mental health unit, the res
 
 ## Interpretation
 
-### 13. Interpretation[^key-43577c42f57bd7cd7bdd7a2183ac5f37]
+### 13. Interpretation[^c-43577c42f57bd7cd7bdd7a2183ac5f37]
 
 In this Act—
 
@@ -331,7 +331,7 @@ In this Act—
 
 The Secretary of State may by regulations make such transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
 
-### 15. Financial provisions[^key-4737cecee25d624518d1f047e1c8f9e1]
+### 15. Financial provisions[^c-4737cecee25d624518d1f047e1c8f9e1]
 
 There is to be paid out of money provided by Parliament—
 
@@ -358,34 +358,34 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-e0676217c215e9251749aeb61b8e1e54]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/27/section/1) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/a)
+[^c-e0676217c215e9251749aeb61b8e1e54]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/27/section/1) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/a)
 
-[^key-c180a9abf28660891ff212110c283d73]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/27/section/2) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/b)
+[^c-c180a9abf28660891ff212110c283d73]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/27/section/2) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/b)
 
-[^key-cca46c609d872147d7e1a7ad6f9a7b55]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/27/section/3) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/c)
+[^c-cca46c609d872147d7e1a7ad6f9a7b55]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/27/section/3) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/c)
 
-[^key-d15dc73a1da9d1cbcd85f3bed003ecb1]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/27/section/4) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/d)
+[^c-d15dc73a1da9d1cbcd85f3bed003ecb1]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/27/section/4) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/d)
 
-[^key-1b513fe54360c496c98eb3b83b1a2b88]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/27/section/5) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/e)
+[^c-1b513fe54360c496c98eb3b83b1a2b88]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/27/section/5) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/e)
 
-[^key-bc84fbe964fff3c1a5c9eeb5d897ead2]: Commencement: [S. 6(1)-(4)(5)(a)-(m)(o)(p)(6)-(11)](https://www.legislation.gov.uk/ukpga/2018/27/section/6/1) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/f)
+[^c-bc84fbe964fff3c1a5c9eeb5d897ead2]: Commencement: [S. 6(1)-(4)(5)(a)-(m)(o)(p)(6)-(11)](https://www.legislation.gov.uk/ukpga/2018/27/section/6/1) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/f)
 
-[^key-8a7691526a717da6632192c632ac5283]: Commencement: [S. 9(a)-(d)](https://www.legislation.gov.uk/ukpga/2018/27/section/9/a) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/g)
+[^c-8a7691526a717da6632192c632ac5283]: Commencement: [S. 9(a)-(d)](https://www.legislation.gov.uk/ukpga/2018/27/section/9/a) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/g)
 
-[^key-20ab8a06ee870df3a3960c762ae73824]: Textual amendment: [S. 9(b)](https://www.legislation.gov.uk/ukpga/2018/27/section/9/b) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 102](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/102); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-20ab8a06ee870df3a3960c762ae73824]: Textual amendment: [S. 9(b)](https://www.legislation.gov.uk/ukpga/2018/27/section/9/b) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 102](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/102); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-e35c9d5a27177e5faf3bd33ad386bbf2]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/2018/27/section/9) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-e35c9d5a27177e5faf3bd33ad386bbf2]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/2018/27/section/9) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-48a0f9d3c2b852cf41243ab8f3daf785]: Textual amendment: [S. 9(d)](https://www.legislation.gov.uk/ukpga/2018/27/section/9/d) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/36/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))
+[^c-48a0f9d3c2b852cf41243ab8f3daf785]: Textual amendment: [S. 9(d)](https://www.legislation.gov.uk/ukpga/2018/27/section/9/d) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/36/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))
 
-[^key-c344ee16d18ff3ee114bdc9f2ef547f1]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2018/27/section/10) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/h)
+[^c-c344ee16d18ff3ee114bdc9f2ef547f1]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2018/27/section/10) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/h)
 
-[^key-a61edbb68a304d4cdadcfb87b8eb93a6]: Commencement: [S. 11(1)(2)(4)-(6)](https://www.legislation.gov.uk/ukpga/2018/27/section/11/1) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/i)
+[^c-a61edbb68a304d4cdadcfb87b8eb93a6]: Commencement: [S. 11(1)(2)(4)-(6)](https://www.legislation.gov.uk/ukpga/2018/27/section/11/1) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/i)
 
-[^key-1d9c44335ffd86769cd51b496468c19c]: Commencement: [S. 11(3)](https://www.legislation.gov.uk/ukpga/2018/27/section/11/3) in force at 28.10.2019 by [S.I. 2019/1373](https://www.legislation.gov.uk/uksi/2019/1373), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1373/regulation/2)
+[^c-1d9c44335ffd86769cd51b496468c19c]: Commencement: [S. 11(3)](https://www.legislation.gov.uk/ukpga/2018/27/section/11/3) in force at 28.10.2019 by [S.I. 2019/1373](https://www.legislation.gov.uk/uksi/2019/1373), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1373/regulation/2)
 
-[^key-030ce6a01f13a6d7af0e4eff76ab446d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2018/27/section/12) in force at 18.8.2022 by [S.I. 2022/909](https://www.legislation.gov.uk/uksi/2022/909), [reg. 2](https://www.legislation.gov.uk/uksi/2022/909/regulation/2)
+[^c-030ce6a01f13a6d7af0e4eff76ab446d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2018/27/section/12) in force at 18.8.2022 by [S.I. 2022/909](https://www.legislation.gov.uk/uksi/2022/909), [reg. 2](https://www.legislation.gov.uk/uksi/2022/909/regulation/2)
 
-[^key-43577c42f57bd7cd7bdd7a2183ac5f37]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2018/27/section/13) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/j)
+[^c-43577c42f57bd7cd7bdd7a2183ac5f37]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2018/27/section/13) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/j)
 
-[^key-4737cecee25d624518d1f047e1c8f9e1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2018/27/section/15) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/k)
+[^c-4737cecee25d624518d1f047e1c8f9e1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2018/27/section/15) in force at 31.3.2022 by [S.I. 2021/1372](https://www.legislation.gov.uk/uksi/2021/1372), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2021/1372/regulation/2/k)

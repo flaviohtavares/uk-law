@@ -49,7 +49,7 @@ Whereas it appears to Her Majesty in Council that Her Majesty’s Government in 
 
 Now, therefore, Her Majesty, in exercise of the powers conferred upon Her by section 8A of the Carriage by Air Act 1961 and section 4A of the Carriage by Air (Supplementary Provisions) Act 1962, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows—
 
-## 1. Citation, commencement and effect[^key-6b16225e2125877fc32362f756ce023f]
+## 1. Citation, commencement and effect[^c-6b16225e2125877fc32362f756ce023f]
 
 (1) This Order may be cited as the Carriage by Air Acts (Implementation of the Montreal Convention 1999) Order 2002.
 
@@ -57,7 +57,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred upon Her by sec
 
 (3) Nothing in this Order shall affect rights and liabilities arising out of an occurrence which took place before the coming into force of this Order.
 
-## 2. Amendments of the Carriage by Air Act 1961[^key-05981696326e03de64b5fad6062db139]
+## 2. Amendments of the Carriage by Air Act 1961[^c-05981696326e03de64b5fad6062db139]
 
 (1) The Carriage by Air Act 1961 is amended as follows.
 
@@ -283,7 +283,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred upon Her by sec
 
 (26) For Part II of Schedule 1A there shall be substituted the provisions in Schedule 2 to this Order.
 
-## 3. Amendments of the Carriage by Air (Supplementary Provisions) Act 1962[^key-6d06e88abd8eec212e05f8807d85d1eb]
+## 3. Amendments of the Carriage by Air (Supplementary Provisions) Act 1962[^c-6d06e88abd8eec212e05f8807d85d1eb]
 
 (1) The Carriage by Air (Supplementary Provisions) Act 1962 is amended as follows.
 
@@ -295,11 +295,11 @@ A. K. Galloway
 
 Clerk of the Privy Council
 
-## SCHEDULE 1[^key-da9b3a42d81e31d74b76e0ab8eac8c7a]
+## SCHEDULE 1[^c-da9b3a42d81e31d74b76e0ab8eac8c7a]
 
 Article 2(25)
 
-[^key-da9b3a42d81e31d74b76e0ab8eac8c7a]
+[^c-da9b3a42d81e31d74b76e0ab8eac8c7a]
 
 Provisions inserted, as Schedule 1B, in the Carriage by Air Act 1961
 
@@ -701,11 +701,11 @@ Provisions inserted, as Schedule 1B, in the Carriage by Air Act 1961
 >
 > *\[Paragraphs 53 (save for part of paragraph 2), 54 and 56 and the concluding words of the Convention are not reproduced. They deal with signature, ratification, coming into force, denunciation and territorial extent where a State has more than one system of law\]*
 
-## SCHEDULE 2[^key-1eb117f5dfe107ce5bb8ed93a85a5b5e]
+## SCHEDULE 2[^c-1eb117f5dfe107ce5bb8ed93a85a5b5e]
 
 Article 2(26)
 
-[^key-1eb117f5dfe107ce5bb8ed93a85a5b5e]
+[^c-1eb117f5dfe107ce5bb8ed93a85a5b5e]
 
 > **PART II — CONVENTION — POUR L'UNIFICATION DE CERTAINES REGLES RELATIVES AU TRANSORT AERIEN INTERNATIONAL**
 >
@@ -1317,9 +1317,9 @@ A regulatory impact assessment has been prepared in connection with this Order. 
 
 [^f00003]: Footnote: Cm. 4651.
 
-[^key-6b16225e2125877fc32362f756ce023f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2002/263/article/1) in force at 28.6.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/263/article/1/2)
+[^c-6b16225e2125877fc32362f756ce023f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2002/263/article/1) in force at 28.6.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/263/article/1/2)
 
-[^key-05981696326e03de64b5fad6062db139]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2002/263/article/2) in force at 28.6.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/263/article/1/2)
+[^c-05981696326e03de64b5fad6062db139]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2002/263/article/2) in force at 28.6.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/263/article/1/2)
 
 [^f00004]: Footnote: O.J. L 285, 17.10.97, p. 1.
 
@@ -1327,8 +1327,8 @@ A regulatory impact assessment has been prepared in connection with this Order. 
 
 [^f00006]: Footnote: O.J. L310, 19.11.98, p 21.
 
-[^key-6d06e88abd8eec212e05f8807d85d1eb]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2002/263/article/3) in force at 28.6.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/263/article/1/2)
+[^c-6d06e88abd8eec212e05f8807d85d1eb]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2002/263/article/3) in force at 28.6.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/263/article/1/2)
 
-[^key-da9b3a42d81e31d74b76e0ab8eac8c7a]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2002/263/schedule/1) in force at 28.6.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/263/article/1/2)
+[^c-da9b3a42d81e31d74b76e0ab8eac8c7a]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2002/263/schedule/1) in force at 28.6.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/263/article/1/2)
 
-[^key-1eb117f5dfe107ce5bb8ed93a85a5b5e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2002/263/schedule/2) in force at 28.6.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/263/article/1/2)
+[^c-1eb117f5dfe107ce5bb8ed93a85a5b5e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2002/263/schedule/2) in force at 28.6.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/263/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Review of care and support plan or of support plan[^key-f10b9faf626c9040a65ad009a5e579ef]
+## 27. Review of care and support plan or of support plan[^c-f10b9faf626c9040a65ad009a5e579ef]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f10b9faf626c9040a65ad009a5e579ef]: Commencement: S. 27 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/993/article/2/h)
+[^c-f10b9faf626c9040a65ad009a5e579ef]: Commencement: S. 27 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/993/article/2/h)

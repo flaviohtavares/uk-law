@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 102. Recourse of bank liquidator to meeting of creditors[^key-6e69dc58410b9f4d134299a864ed2a02]
+## 102. Recourse of bank liquidator to meeting of creditors[^c-6e69dc58410b9f4d134299a864ed2a02]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.136 of the 1991 Rules.
 
 ## Annotations
 
-[^key-6e69dc58410b9f4d134299a864ed2a02]: Commencement: Rule 102 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-6e69dc58410b9f4d134299a864ed2a02]: Commencement: Rule 102 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

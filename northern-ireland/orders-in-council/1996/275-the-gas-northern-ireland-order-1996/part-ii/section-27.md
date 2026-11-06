@@ -40,14 +40,14 @@ summary: ''
 (3B)[^c21259961] The activities to which paragraph (1) applies include, in particular, the matters specified in the following provisions of the Directive as matters to be monitored—
 
 - (a) Article 26(3);
-- (b) Article 41(1)(g) to (k), (m), (n) , (r) and[^key-63bf45bf8549965ded966813051224ee] (t);
+- (b) Article 41(1)(g) to (k), (m), (n) , (r) and[^c-63bf45bf8549965ded966813051224ee] (t);
 - (c) where an independent system operator has been designated under Article 8H of this Order, Article 41(3)(a) and (b); and
-- (d)[^key-66f44142cb2d224ce2704f6f5f3aec27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-66f44142cb2d224ce2704f6f5f3aec27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) Article 41(9).
 
 (3C)[^M_F_9aff2c8b-e704-424f-be9d-e5aa1518dbb6] For the purposes of paragraph (3B)(c), the reference to Article 41(3)(a) is to be read as if the reference in that provision to Article 41 were a reference to Article 41 as implemented in Northern Ireland immediately before IP completion day.
 
-(3D)[^key-ab75326f44ffe65542b972603d24791b] For the purposes of paragraph (3B)(e), the reference to Article 41(9) is to be read as if, in Article 41(9) of the Directive, the reference to interconnectors were a reference to any transmission line which crosses or spans the border—
+(3D)[^c-ab75326f44ffe65542b972603d24791b] For the purposes of paragraph (3B)(e), the reference to Article 41(9) is to be read as if, in Article 41(9) of the Directive, the reference to interconnectors were a reference to any transmission line which crosses or spans the border—
 
 - (a) between Northern Ireland and Great Britain; or
 - (b) between Northern Ireland and a country or territory outside the United Kingdom.
@@ -66,10 +66,10 @@ summary: ''
 
 [^c21259961]: Textual amendment: [Art. 27(3B)](https://www.legislation.gov.uk/nisi/1996/275/article/27/3B) inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 69](https://www.legislation.gov.uk/nisr/2011/155/regulation/69)
 
-[^key-63bf45bf8549965ded966813051224ee]: Textual amendment: Words in [art. 27(3B)(b)](https://www.legislation.gov.uk/nisi/1996/275/article/27/3B/b) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [121(2)(a)](https://www.legislation.gov.uk/uksi/2019/530/regulation/121/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63bf45bf8549965ded966813051224ee]: Textual amendment: Words in [art. 27(3B)(b)](https://www.legislation.gov.uk/nisi/1996/275/article/27/3B/b) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [121(2)(a)](https://www.legislation.gov.uk/uksi/2019/530/regulation/121/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-66f44142cb2d224ce2704f6f5f3aec27]: Textual amendment: [Art. 27(3B)(d)](https://www.legislation.gov.uk/nisi/1996/275/article/27/3B/d) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [121(2)(b)](https://www.legislation.gov.uk/uksi/2019/530/regulation/121/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66f44142cb2d224ce2704f6f5f3aec27]: Textual amendment: [Art. 27(3B)(d)](https://www.legislation.gov.uk/nisi/1996/275/article/27/3B/d) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [121(2)(b)](https://www.legislation.gov.uk/uksi/2019/530/regulation/121/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_9aff2c8b-e704-424f-be9d-e5aa1518dbb6]: Textual amendment: Art. 27(3C) added (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [121(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/121/3) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(38)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/38)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab75326f44ffe65542b972603d24791b]: Textual amendment: [Art. 27(3D)](https://www.legislation.gov.uk/nisi/1996/275/article/27/3D)[(3E)](https://www.legislation.gov.uk/nisi/1996/275/article/27/3E) inserted (31.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/4/2)
+[^c-ab75326f44ffe65542b972603d24791b]: Textual amendment: [Art. 27(3D)](https://www.legislation.gov.uk/nisi/1996/275/article/27/3D)[(3E)](https://www.legislation.gov.uk/nisi/1996/275/article/27/3E) inserted (31.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/4/2)

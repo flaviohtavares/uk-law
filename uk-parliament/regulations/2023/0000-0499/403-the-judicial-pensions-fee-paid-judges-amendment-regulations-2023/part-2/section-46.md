@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Amendment of regulation 103[^key-1089f951c5808c1f9fb506013d9e8be3]
+## 46. Amendment of regulation 103[^c-1089f951c5808c1f9fb506013d9e8be3]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ In regulation 103—
 
 ## Annotations
 
-[^key-1089f951c5808c1f9fb506013d9e8be3]: Commencement: Reg. 46 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-1089f951c5808c1f9fb506013d9e8be3]: Commencement: Reg. 46 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Extension of compulsory purchase time limit during challenge[^key-ba83c687d1c2704947e6dd22aead2ec9]
+## 202. Extension of compulsory purchase time limit during challenge[^c-ba83c687d1c2704947e6dd22aead2ec9]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba83c687d1c2704947e6dd22aead2ec9]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2016/22/section/202) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/l) (with [reg. 9](https://www.legislation.gov.uk/uksi/2016/733/regulation/9))
+[^c-ba83c687d1c2704947e6dd22aead2ec9]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2016/22/section/202) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/l) (with [reg. 9](https://www.legislation.gov.uk/uksi/2016/733/regulation/9))

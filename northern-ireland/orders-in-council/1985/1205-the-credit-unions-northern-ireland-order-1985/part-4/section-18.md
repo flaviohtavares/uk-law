@@ -24,10 +24,10 @@ summary: ''
 
 (2) Where any of the property comprised in a nomination under Article 17 consists of shares in the credit union, paragraph (1) shall have effect notwithstanding that the rules of the credit union declare the shares in the credit union not be transferable; but if the transfer of any shares comprised in the nomination in the manner directed by the nominator would raise the shareholding of any nominee beyond the maximum for the time being permitted in the case of that credit union, the board of directors shall not transfer to that nominee more of those shares than will raise his shareholding to that maximum and shall pay him the value of any of those shares not transferred.
 
-(2A)[^key-2937fb0af934365576fe5214a31c9a58] The reference in paragraph (2) to the shareholding of the nominee is to be read in accordance with Article 14A(6).
+(2A)[^c-2937fb0af934365576fe5214a31c9a58] The reference in paragraph (2) to the shareholding of the nominee is to be read in accordance with Article 14A(6).
 
 (3) Where any sum fails to be paid under paragraph (1) or (2) to a nominee who is under the age of 16 years, the credit union may pay that sum to either parent, or to a guardian, of the nominee or to any other person of full age who will undertake to hold it on trust for the nominee or to apply it for his benefit and whom the credit union may think a fit and proper person for the purpose, and the receipt of that parent, guardian or other person shall be a sufficient discharge to the credit union for all money so paid.
 
 ## Annotations
 
-[^key-2937fb0af934365576fe5214a31c9a58]: Textual amendment: Art. 18(2A) inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17](https://www.legislation.gov.uk/nia/2016/16/section/17), [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/7)
+[^c-2937fb0af934365576fe5214a31c9a58]: Textual amendment: Art. 18(2A) inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17](https://www.legislation.gov.uk/nia/2016/16/section/17), [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/7)

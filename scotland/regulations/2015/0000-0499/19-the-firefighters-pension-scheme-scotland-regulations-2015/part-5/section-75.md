@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Adjustment of allocated benefit[^key-3d03d334915fc47b6ea7acc06032776d]
+## 75. Adjustment of allocated benefit[^c-3d03d334915fc47b6ea7acc06032776d]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d03d334915fc47b6ea7acc06032776d]: Commencement: [Reg. 75](https://www.legislation.gov.uk/ssi/2015/19/regulation/75) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-3d03d334915fc47b6ea7acc06032776d]: Commencement: [Reg. 75](https://www.legislation.gov.uk/ssi/2015/19/regulation/75) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00043]: Footnote: Section 167 was amended by the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11), Schedule 20, paragraph 22 and the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 16, paragraph 11. See also Part 2 of Schedule 28 to that Act for the meaning of expressions used in section 167.

@@ -49,14 +49,14 @@ summary: ''
 
 (5) Those premises are—
 
-- (a) a house or other premises which require[^key-cfefde6bf87501663789dda775c9e3ee] to be licensed under Part 5 of the Housing (Scotland) Act 2006 (asp 1)[^c2113162];
+- (a) a house or other premises which require[^c-cfefde6bf87501663789dda775c9e3ee] to be licensed under Part 5 of the Housing (Scotland) Act 2006 (asp 1)[^c2113162];
 - (b) premises used for the provision of a care home service (as defined in paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^c2113160](asp 8));
-- (c) premises used for the provision of a school care accommodation service (as defined in paragraph 3 of schedule 12 to the Public Services Reform (Scotland) Act 2010 except where the service is provided as mentioned in sub-paragraph (1)(c)(ii) of that paragraph;[^key-e3c0d27a1b66c51158d5aae058b29f55]
-- (d) premises used for the provision of an independent health care service (as defined in section 10F(1) (a) - (d) of the National Health Service (Scotland) Act 1978[^key-fa28a2b008c558ac4999e3abcfd42670]);
-- (e) premises used for the provision of a secure accommodation service (as defined in paragraph 6 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^key-511a7012d6256cb0e5f56a275b1e9e7f]);
+- (c) premises used for the provision of a school care accommodation service (as defined in paragraph 3 of schedule 12 to the Public Services Reform (Scotland) Act 2010 except where the service is provided as mentioned in sub-paragraph (1)(c)(ii) of that paragraph;[^c-e3c0d27a1b66c51158d5aae058b29f55]
+- (d) premises used for the provision of an independent health care service (as defined in section 10F(1) (a) - (d) of the National Health Service (Scotland) Act 1978[^c-fa28a2b008c558ac4999e3abcfd42670]);
+- (e) premises used for the provision of a secure accommodation service (as defined in paragraph 6 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^c-511a7012d6256cb0e5f56a275b1e9e7f]);
 - (f)[^c2113164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) premises which would fall within paragraph (a) but for there being in force in respect of them a management control order granted by virtue of section 74 of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8);
-- (h)[^key-24966d260e7531e48a7052f7df275469] premises used for the provision of a child minding service (as defined in paragraph 12 of schedule 12 to the Public Services Reform (Scotland) Act 2010).
+- (h)[^c-24966d260e7531e48a7052f7df275469] premises used for the provision of a child minding service (as defined in paragraph 12 of schedule 12 to the Public Services Reform (Scotland) Act 2010).
 
 (5A)[^c2112952] In subsection (2)(ba) “**normal ship-board activities**” includes the repair of a ship (other than repair carried out in dry dock).
 
@@ -88,20 +88,20 @@ summary: ''
 
 [^c2112950]: Textual amendment: S. 78(3)(ba)-(bd) inserted (22.7.2005) by [The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [arts. 1(2)(d)(e)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/d/e), [2(8)(b)](https://www.legislation.gov.uk/uksi/2005/2060/article/2/8/b)
 
-[^key-cfefde6bf87501663789dda775c9e3ee]: Textual amendment: Words in s. 78(5)(a) substituted (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2012/332/regulation/2/a)
+[^c-cfefde6bf87501663789dda775c9e3ee]: Textual amendment: Words in s. 78(5)(a) substituted (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2012/332/regulation/2/a)
 
 [^c2113162]: Textual amendment: Words in s. 78(5)(a) substituted (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 192(1)](https://www.legislation.gov.uk/asp/2006/1/section/192/1), [195](https://www.legislation.gov.uk/asp/2006/1/section/195), [Sch. 6 para. 23](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/23) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3) (with [art. 6](https://www.legislation.gov.uk/ssi/2010/159/article/6))
 
 [^c2113160]: Textual amendment: Words in s. 78(5)(b) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 2](https://www.legislation.gov.uk/ssi/2011/211/article/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/15)
 
-[^key-e3c0d27a1b66c51158d5aae058b29f55]: Textual amendment: Words in s. 78(5)(c) substituted (26.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) (No. 2) Order 2011 (S.S.I. 2011/369)](https://www.legislation.gov.uk/ssi/2011/369), [arts. 1](https://www.legislation.gov.uk/ssi/2011/369/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2011/369/article/2/a)
+[^c-e3c0d27a1b66c51158d5aae058b29f55]: Textual amendment: Words in s. 78(5)(c) substituted (26.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) (No. 2) Order 2011 (S.S.I. 2011/369)](https://www.legislation.gov.uk/ssi/2011/369), [arts. 1](https://www.legislation.gov.uk/ssi/2011/369/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2011/369/article/2/a)
 
-[^key-fa28a2b008c558ac4999e3abcfd42670]: Textual amendment: Words in s. 78(5)(d) substituted (26.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) (No. 2) Order 2011 (S.S.I. 2011/369)](https://www.legislation.gov.uk/ssi/2011/369), [arts. 1](https://www.legislation.gov.uk/ssi/2011/369/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2011/369/article/2/b)
+[^c-fa28a2b008c558ac4999e3abcfd42670]: Textual amendment: Words in s. 78(5)(d) substituted (26.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) (No. 2) Order 2011 (S.S.I. 2011/369)](https://www.legislation.gov.uk/ssi/2011/369), [arts. 1](https://www.legislation.gov.uk/ssi/2011/369/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2011/369/article/2/b)
 
-[^key-511a7012d6256cb0e5f56a275b1e9e7f]: Textual amendment: Words in s. 78(5)(e) substituted (26.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) (No. 2) Order 2011 (S.S.I. 2011/369)](https://www.legislation.gov.uk/ssi/2011/369), [arts. 1](https://www.legislation.gov.uk/ssi/2011/369/article/1), [2(c)](https://www.legislation.gov.uk/ssi/2011/369/article/2/c)
+[^c-511a7012d6256cb0e5f56a275b1e9e7f]: Textual amendment: Words in s. 78(5)(e) substituted (26.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) (No. 2) Order 2011 (S.S.I. 2011/369)](https://www.legislation.gov.uk/ssi/2011/369), [arts. 1](https://www.legislation.gov.uk/ssi/2011/369/article/1), [2(c)](https://www.legislation.gov.uk/ssi/2011/369/article/2/c)
 
 [^c2113164]: Textual amendment: S. 78(5)(f) repealed (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 192(2)](https://www.legislation.gov.uk/asp/2006/1/section/192/2), [195](https://www.legislation.gov.uk/asp/2006/1/section/195), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-24966d260e7531e48a7052f7df275469]: Textual amendment: S. 78(5)(h) inserted (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2012/332/regulation/2/b)
+[^c-24966d260e7531e48a7052f7df275469]: Textual amendment: S. 78(5)(h) inserted (29.11.2012) by [The Fire (Scotland) Act 2005 (Relevant Premises) Regulations2012 (S.S.I. 2012/332)](https://www.legislation.gov.uk/ssi/2012/332), [regs. 1](https://www.legislation.gov.uk/ssi/2012/332/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2012/332/regulation/2/b)
 
 [^c2112952]: Textual amendment: S. 78(5A) inserted (22.7.2005) by [The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [arts. 1(2)(d)(e)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/d/e), [2(8)(c)](https://www.legislation.gov.uk/uksi/2005/2060/article/2/8/c)

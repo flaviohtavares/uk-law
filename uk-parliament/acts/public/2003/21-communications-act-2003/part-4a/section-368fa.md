@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368FA. Advertising: less healthy food and drink[^key-7d5d54c9fc393f691035be4505ba493b][^key-8b5116708328654f497f918c49a3b13d]
+## 368FA. Advertising: less healthy food and drink[^c-7d5d54c9fc393f691035be4505ba493b][^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
-(1) From the beginning of 5 January 2026[^key-91b7fdd5d940d9f191ca4d3dcb761f22], on-demand programme services must not, between 5.30 am and 9.00 pm, include advertisements for an identifiable less healthy food or drink product.
+(1) From the beginning of 5 January 2026[^c-91b7fdd5d940d9f191ca4d3dcb761f22], on-demand programme services must not, between 5.30 am and 9.00 pm, include advertisements for an identifiable less healthy food or drink product.
 
 (2) The prohibition imposed by subsection (1) does not apply in relation to advertisements included in on-demand programme services as a result of arrangements made by or on behalf of a person who is, at the time when the arrangements are made, a food or drink SME.
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7d5d54c9fc393f691035be4505ba493b]: Textual amendment: S. 368FA inserted (28.6.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/2)
+[^c-7d5d54c9fc393f691035be4505ba493b]: Textual amendment: S. 368FA inserted (28.6.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/2)
 
-[^key-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
+[^c-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
 
-[^key-91b7fdd5d940d9f191ca4d3dcb761f22]: Textual amendment: Words in s. 368FA(1) substituted (1.7.2025) by [The Communications Act 2003 (Restrictions on the Advertising of Less Healthy Food) (Effective Date) (Amendment) Regulations 2025 (S.I. 2025/641)](https://www.legislation.gov.uk/uksi/2025/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/641/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/641/regulation/2/3)
+[^c-91b7fdd5d940d9f191ca4d3dcb761f22]: Textual amendment: Words in s. 368FA(1) substituted (1.7.2025) by [The Communications Act 2003 (Restrictions on the Advertising of Less Healthy Food) (Effective Date) (Amendment) Regulations 2025 (S.I. 2025/641)](https://www.legislation.gov.uk/uksi/2025/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/641/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/641/regulation/2/3)

@@ -39,22 +39,22 @@ establishing a list of critical benchmarks used in financial markets pursuant to
 
 (Text with EEA relevance) (revoked)
 
-[^key-f7824f552537cf1b10e0090138a81811]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7824f552537cf1b10e0090138a81811]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-f7824f552537cf1b10e0090138a81811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f7824f552537cf1b10e0090138a81811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f7824f552537cf1b10e0090138a81811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f7824f552537cf1b10e0090138a81811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f7824f552537cf1b10e0090138a81811]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7824f552537cf1b10e0090138a81811]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — List of critical benchmarks pursuant to Article 20(1) of Regulation (EU) 2016/1011[^key-f7824f552537cf1b10e0090138a81811]
+## ANNEX — List of critical benchmarks pursuant to Article 20(1) of Regulation (EU) 2016/1011[^c-f7824f552537cf1b10e0090138a81811]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f7824f552537cf1b10e0090138a81811]: Textual amendment: Regulation revoked (29.10.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/d/i)
+[^c-f7824f552537cf1b10e0090138a81811]: Textual amendment: Regulation revoked (29.10.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/d/i)

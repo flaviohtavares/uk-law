@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Reports by Secretary of State[^key-8fda4ee063c5ceda2b6a07cb693b8871]
+## 27. Reports by Secretary of State[^c-8fda4ee063c5ceda2b6a07cb693b8871]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fda4ee063c5ceda2b6a07cb693b8871]: Commencement: S. 27 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-8fda4ee063c5ceda2b6a07cb693b8871]: Commencement: S. 27 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

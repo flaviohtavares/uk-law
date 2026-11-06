@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Validity of certain transactions entered into by trustees[^key-d32582ce633090bd6b8b78d22fb1f906]
+## 43. Validity of certain transactions entered into by trustees[^c-d32582ce633090bd6b8b78d22fb1f906]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d32582ce633090bd6b8b78d22fb1f906]: Commencement: S. 43 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-d32582ce633090bd6b8b78d22fb1f906]: Commencement: S. 43 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

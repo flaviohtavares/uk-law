@@ -22,11 +22,11 @@ summary: ''
 
 In this Part—
 
-- [^key-cb0138286ba682a8371f1173d9529c22]...
-- [^key-cb0138286ba682a8371f1173d9529c22]...
+- [^c-cb0138286ba682a8371f1173d9529c22]...
+- [^c-cb0138286ba682a8371f1173d9529c22]...
 - “**local authority**” has the meaning given in section 3;
 - “**relevant function**” has the meaning given in section 4.
 
 ## Annotations
 
-[^key-cb0138286ba682a8371f1173d9529c22]: Textual amendment: Words in s. 21 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(v)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/v) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-cb0138286ba682a8371f1173d9529c22]: Textual amendment: Words in s. 21 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(v)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/v) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))

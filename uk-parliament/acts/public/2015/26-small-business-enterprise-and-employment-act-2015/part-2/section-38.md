@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Exemption from liability for bodies concerned with accounting standards etc[^key-188586e7a475a6bc153646e166bed13a][^key-1932ec6d635e78dc2b292ff21b43fe4a]
+## 38. Exemption from liability for bodies concerned with accounting standards etc[^c-188586e7a475a6bc153646e166bed13a][^c-1932ec6d635e78dc2b292ff21b43fe4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-188586e7a475a6bc153646e166bed13a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2015/26/section/38) in force at 1.1.2016 for specified purposes by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/3/a)
+[^c-188586e7a475a6bc153646e166bed13a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2015/26/section/38) in force at 1.1.2016 for specified purposes by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/3/a)
 
-[^key-1932ec6d635e78dc2b292ff21b43fe4a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2015/26/section/38) in force at 1.6.2016 in so far as not already in force by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/532/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/532/regulation/4/2))
+[^c-1932ec6d635e78dc2b292ff21b43fe4a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2015/26/section/38) in force at 1.6.2016 in so far as not already in force by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/532/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/532/regulation/4/2))

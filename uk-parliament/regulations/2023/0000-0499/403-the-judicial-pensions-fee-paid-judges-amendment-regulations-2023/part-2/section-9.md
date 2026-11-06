@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Amendment of regulation 8[^key-f2b996f630e55dc6104840590d5a884c]
+## 9. Amendment of regulation 8[^c-f2b996f630e55dc6104840590d5a884c]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ In regulation 8—
 
 ## Annotations
 
-[^key-f2b996f630e55dc6104840590d5a884c]: Commencement: Reg. 9 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-f2b996f630e55dc6104840590d5a884c]: Commencement: Reg. 9 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
 
 [^f00007]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7).
 

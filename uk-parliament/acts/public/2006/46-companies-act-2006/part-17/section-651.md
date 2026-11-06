@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 651. Expedited procedure for re-registration as a private company[^key-0f45b1a03c52d0240111234f6f294cec]
+## 651. Expedited procedure for re-registration as a private company[^c-0f45b1a03c52d0240111234f6f294cec]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f45b1a03c52d0240111234f6f294cec]: Modification: S. 651 applied (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 8(3)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/8/3), [(4)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/8/4)
+[^c-0f45b1a03c52d0240111234f6f294cec]: Modification: S. 651 applied (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 8(3)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/8/3), [(4)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/8/4)

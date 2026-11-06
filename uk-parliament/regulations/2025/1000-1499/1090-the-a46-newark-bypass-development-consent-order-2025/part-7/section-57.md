@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Temporary suspension of navigation in connection with the authorised development[^key-e52cbd16b02349820a9714fb78423f8e]
+## 57. Temporary suspension of navigation in connection with the authorised development[^c-e52cbd16b02349820a9714fb78423f8e]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e52cbd16b02349820a9714fb78423f8e]: Commencement: Art. 57 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-e52cbd16b02349820a9714fb78423f8e]: Commencement: Art. 57 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

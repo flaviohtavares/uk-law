@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Application of rules[^key-82e1ddd67cfcf25a5dd382c954060ff9]
+## 58. Application of rules[^c-82e1ddd67cfcf25a5dd382c954060ff9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The rules in this Part apply only in relation to the liquidation committee estab
 
 ## Annotations
 
-[^key-82e1ddd67cfcf25a5dd382c954060ff9]: Commencement: Rule 58 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-82e1ddd67cfcf25a5dd382c954060ff9]: Commencement: Rule 58 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

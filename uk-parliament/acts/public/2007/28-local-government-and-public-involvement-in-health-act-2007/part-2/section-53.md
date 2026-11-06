@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Power of council to alter years of ordinary elections of parish councillors[^key-b82a5332a836f32f495acc16703a1097]
+## 53. Power of council to alter years of ordinary elections of parish councillors[^c-b82a5332a836f32f495acc16703a1097]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b82a5332a836f32f495acc16703a1097]: Commencement: S. 53 in force at 30.12.2007, see s. 245(2)
+[^c-b82a5332a836f32f495acc16703a1097]: Commencement: S. 53 in force at 30.12.2007, see s. 245(2)

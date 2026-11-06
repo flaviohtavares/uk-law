@@ -40,8 +40,8 @@ summary: ''
 
 - (a) it does not consist of or include a photographed or filmed image that is itself private and sexual,
 - (b) it is only private or sexual by virtue of the alteration or combination mentioned in subsection (4), or
-- (c) it is only by virtue of the alteration or combination mentioned in subsection (4) that the relevant individual (within the meaning of section 51)[^key-b77f1a7b1f9c847267a491d9ed2c6d72] is shown as part of, or with, whatever makes the photograph or film private and sexual.
+- (c) it is only by virtue of the alteration or combination mentioned in subsection (4) that the relevant individual (within the meaning of section 51)[^c-b77f1a7b1f9c847267a491d9ed2c6d72] is shown as part of, or with, whatever makes the photograph or film private and sexual.
 
 ## Annotations
 
-[^key-b77f1a7b1f9c847267a491d9ed2c6d72]: Textual amendment: Words in [s. 53(5)](https://www.legislation.gov.uk/nia/2016/21/section/53/5) substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(3)](https://www.legislation.gov.uk/nia/2022/19/section/6/3), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-b77f1a7b1f9c847267a491d9ed2c6d72]: Textual amendment: Words in [s. 53(5)](https://www.legislation.gov.uk/nia/2016/21/section/53/5) substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(3)](https://www.legislation.gov.uk/nia/2022/19/section/6/3), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)

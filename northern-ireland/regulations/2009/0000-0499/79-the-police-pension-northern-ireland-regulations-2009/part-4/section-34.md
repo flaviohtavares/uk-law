@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Exchange of lump-sum for additional periodical payments[^key-7916128574f90ac312fc4c340ec610e0]
+## 34. Exchange of lump-sum for additional periodical payments[^c-7916128574f90ac312fc4c340ec610e0]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7916128574f90ac312fc4c340ec610e0]: Commencement: Reg. 34 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-7916128574f90ac312fc4c340ec610e0]: Commencement: Reg. 34 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

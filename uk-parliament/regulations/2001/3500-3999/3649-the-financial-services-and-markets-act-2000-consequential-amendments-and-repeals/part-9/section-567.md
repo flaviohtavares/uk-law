@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 567. Meaning of “securities”[^key-7dc5deb946ada51749a63c5b52d83b3b]
+## 567. Meaning of “securities”[^c-7dc5deb946ada51749a63c5b52d83b3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In paragraph (1) of article E5 of the Police Act 1997 (Provisions in Relation to
 
 ## Annotations
 
-[^key-7dc5deb946ada51749a63c5b52d83b3b]: Commencement: Art. 567 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7dc5deb946ada51749a63c5b52d83b3b]: Commencement: Art. 567 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54B. Offence committed by virtue of section 54A(1): limitations on prosecution[^key-c33b00aaffdd6f59392caf65613177b4]
+## 54B. Offence committed by virtue of section 54A(1): limitations on prosecution[^c-c33b00aaffdd6f59392caf65613177b4]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c33b00aaffdd6f59392caf65613177b4]: Textual amendment: Ss. 54A-54C inserted (24.4.2017) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [ss. 8](https://www.legislation.gov.uk/asp/2016/22/section/8), [45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
+[^c-c33b00aaffdd6f59392caf65613177b4]: Textual amendment: Ss. 54A-54C inserted (24.4.2017) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [ss. 8](https://www.legislation.gov.uk/asp/2016/22/section/8), [45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)

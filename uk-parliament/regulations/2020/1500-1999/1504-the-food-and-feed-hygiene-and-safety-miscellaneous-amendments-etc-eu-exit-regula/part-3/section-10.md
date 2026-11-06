@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Amendment of the General Food Law (Amendment etc.) (EU Exit) Regulations 2019[^key-b24ed15f34399d631309696b3ecf0e34]
+## 10. Amendment of the General Food Law (Amendment etc.) (EU Exit) Regulations 2019[^c-b24ed15f34399d631309696b3ecf0e34]
 
 *Extent: E+W+S*
 
@@ -213,7 +213,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b24ed15f34399d631309696b3ecf0e34]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-b24ed15f34399d631309696b3ecf0e34]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375461]: Marginal citation: [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641).
 

@@ -34,7 +34,7 @@ An Act to make provision concerning the licensing of operators of certain goods 
 
 \[22nd January 2010\]
 
-BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-6811e7f2eb15fbabba8afa95bca5b254][^key-5bb39b42c57f9b1d1e69f30d8b7dec53][^key-7d357e9a1a84ba7f4362c117bb4d6151]
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^c-6811e7f2eb15fbabba8afa95bca5b254][^c-5bb39b42c57f9b1d1e69f30d8b7dec53][^c-7d357e9a1a84ba7f4362c117bb4d6151]
 
 ## Contents
 
@@ -177,8 +177,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-6811e7f2eb15fbabba8afa95bca5b254]: Modification: [Act](https://www.legislation.gov.uk/nia/2010/2) applied in part (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [reg. 27(9)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/9)
+[^c-6811e7f2eb15fbabba8afa95bca5b254]: Modification: [Act](https://www.legislation.gov.uk/nia/2010/2) applied in part (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [reg. 27(9)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/9)
 
-[^key-5bb39b42c57f9b1d1e69f30d8b7dec53]: Modification: [Act](https://www.legislation.gov.uk/nia/2010/2) modified (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [reg. 28(3)](https://www.legislation.gov.uk/nisr/2012/261/regulation/28/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2012/261/schedule/4) (with [reg. 28(4)](https://www.legislation.gov.uk/nisr/2012/261/regulation/28/4))
+[^c-5bb39b42c57f9b1d1e69f30d8b7dec53]: Modification: [Act](https://www.legislation.gov.uk/nia/2010/2) modified (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [reg. 28(3)](https://www.legislation.gov.uk/nisr/2012/261/regulation/28/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2012/261/schedule/4) (with [reg. 28(4)](https://www.legislation.gov.uk/nisr/2012/261/regulation/28/4))
 
-[^key-7d357e9a1a84ba7f4362c117bb4d6151]: Modification: [Act](https://www.legislation.gov.uk/nia/2010/2): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-7d357e9a1a84ba7f4362c117bb4d6151]: Modification: [Act](https://www.legislation.gov.uk/nia/2010/2): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

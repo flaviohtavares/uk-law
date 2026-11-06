@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Interpretation of this Part[^key-4ee560e2205b7082abca6464f0401a82]
+## 95. Interpretation of this Part[^c-4ee560e2205b7082abca6464f0401a82]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,10 +34,10 @@ summary: ''
 
 (3) In paragraph (2), references to “applicant” include “claimant” or “pursuer”, and references to “respondent” include “defendant” or “defender”.
 
-(4) Nothing in this Part shall be interpreted as saving any obligation upon the United Kingdom under any of the relevant instruments to notify the Depository or the European Commission, as the case may be, of any matter, or update any such notification after IP completion day[^key-36befbd3ff92700f6a832c6e499a2bfe].
+(4) Nothing in this Part shall be interpreted as saving any obligation upon the United Kingdom under any of the relevant instruments to notify the Depository or the European Commission, as the case may be, of any matter, or update any such notification after IP completion day[^c-36befbd3ff92700f6a832c6e499a2bfe].
 
 ## Annotations
 
-[^key-4ee560e2205b7082abca6464f0401a82]: Commencement: Reg. 95 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-4ee560e2205b7082abca6464f0401a82]: Commencement: Reg. 95 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-36befbd3ff92700f6a832c6e499a2bfe]: Textual amendment: Words in [reg. 95(4)](https://www.legislation.gov.uk/uksi/2019/479/regulation/95/4) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(i)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/i)
+[^c-36befbd3ff92700f6a832c6e499a2bfe]: Textual amendment: Words in [reg. 95(4)](https://www.legislation.gov.uk/uksi/2019/479/regulation/95/4) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(i)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/i)

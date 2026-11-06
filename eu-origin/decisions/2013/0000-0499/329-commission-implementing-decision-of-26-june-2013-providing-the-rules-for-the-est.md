@@ -35,46 +35,46 @@ providing the rules for the establishment, management and transparent functionin
 
 (2013/329/EU) (revoked)
 
-[^key-0762aa40abcc9a87e7741fa0a4858c39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0762aa40abcc9a87e7741fa0a4858c39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-0762aa40abcc9a87e7741fa0a4858c39]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Objectives[^key-0762aa40abcc9a87e7741fa0a4858c39]
+## Article 1. Subject matter[^c-0762aa40abcc9a87e7741fa0a4858c39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Membership — Designation[^key-0762aa40abcc9a87e7741fa0a4858c39]
+## Article 2. Objectives[^c-0762aa40abcc9a87e7741fa0a4858c39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Rules of Procedure[^key-0762aa40abcc9a87e7741fa0a4858c39]
+## Article 3. Membership — Designation[^c-0762aa40abcc9a87e7741fa0a4858c39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Operation[^key-0762aa40abcc9a87e7741fa0a4858c39]
+## Article 4. Rules of Procedure[^c-0762aa40abcc9a87e7741fa0a4858c39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Meetings[^key-0762aa40abcc9a87e7741fa0a4858c39]
+## Article 5. Operation[^c-0762aa40abcc9a87e7741fa0a4858c39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Secretariat of the HTA Network[^key-0762aa40abcc9a87e7741fa0a4858c39]
+## Article 6. Meetings[^c-0762aa40abcc9a87e7741fa0a4858c39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Expenses[^key-0762aa40abcc9a87e7741fa0a4858c39]
+## Article 7. Secretariat of the HTA Network[^c-0762aa40abcc9a87e7741fa0a4858c39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-0762aa40abcc9a87e7741fa0a4858c39]
+## Article 8. Expenses[^c-0762aa40abcc9a87e7741fa0a4858c39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0762aa40abcc9a87e7741fa0a4858c39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Entry into force[^c-0762aa40abcc9a87e7741fa0a4858c39]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0762aa40abcc9a87e7741fa0a4858c39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0762aa40abcc9a87e7741fa0a4858c39]: Textual amendment: Decision revoked (31.12.2020) by [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2019/777/regulation/14) (with [reg. 15](https://www.legislation.gov.uk/uksi/2019/777/regulation/15), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/777/schedule/1)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 10-12](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0762aa40abcc9a87e7741fa0a4858c39]: Textual amendment: Decision revoked (31.12.2020) by [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2019/777/regulation/14) (with [reg. 15](https://www.legislation.gov.uk/uksi/2019/777/regulation/15), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/777/schedule/1)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 10-12](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

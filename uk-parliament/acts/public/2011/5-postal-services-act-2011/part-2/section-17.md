@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Transfer of qualifying accrued rights to new public scheme[^key-360da30d76b27221c524d9ab8bc22f30][^key-18d0772be65b04df354604fdc989d71a]
+## 17. Transfer of qualifying accrued rights to new public scheme[^c-360da30d76b27221c524d9ab8bc22f30][^c-18d0772be65b04df354604fdc989d71a]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Minister for the Civil Service or the[^key-2dbdd9d50c7dff997db3b71b801808da] Secretary of State may by order establish a scheme (a “new public scheme”) which, in respect of pensionable service under the RMPP before the qualifying time, provides for pensions or other benefits to be payable to or in respect of persons who are or have been qualifying members of the RMPP.
+(1) The Minister for the Civil Service or the[^c-2dbdd9d50c7dff997db3b71b801808da] Secretary of State may by order establish a scheme (a “new public scheme”) which, in respect of pensionable service under the RMPP before the qualifying time, provides for pensions or other benefits to be payable to or in respect of persons who are or have been qualifying members of the RMPP.
 
-(2) The Minister for the Civil Service or the[^key-35a2573b5e81f22030be03ccbc8f5016] Secretary of State may by order make provision for the transfer of qualifying accrued rights to a new public scheme (without the need for any approval or consent to the transfer).
+(2) The Minister for the Civil Service or the[^c-35a2573b5e81f22030be03ccbc8f5016] Secretary of State may by order make provision for the transfer of qualifying accrued rights to a new public scheme (without the need for any approval or consent to the transfer).
 
 (3) An order under subsection (2) may include provision for the discharge of liabilities in respect of the qualifying accrued rights that are transferred.
 
@@ -42,19 +42,19 @@ summary: ''
 
 (7) Provision made by an order under this section may have retrospective effect.
 
-(8) The Minister for the Civil Service or the[^key-290789b8758754dde8d64f7546a2c5bb] Secretary of State may—
+(8) The Minister for the Civil Service or the[^c-290789b8758754dde8d64f7546a2c5bb] Secretary of State may—
 
 - (a) provide for a new public scheme to be administered by any person, and
 - (b) delegate to any person any functions exercisable by the Minister for the Civil Service or the Secretary of State under a new public scheme.
 
 ## Annotations
 
-[^key-360da30d76b27221c524d9ab8bc22f30]: Commencement: S. 17 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-360da30d76b27221c524d9ab8bc22f30]: Commencement: S. 17 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-18d0772be65b04df354604fdc989d71a]: Modification: S. 17 functions made exercisable concurrently (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/500/article/2/2/a/ii) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-18d0772be65b04df354604fdc989d71a]: Modification: S. 17 functions made exercisable concurrently (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/500/article/2/2/a/ii) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
 
-[^key-2dbdd9d50c7dff997db3b71b801808da]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/17/1) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2014/500/article/5/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-2dbdd9d50c7dff997db3b71b801808da]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/17/1) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2014/500/article/5/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
 
-[^key-35a2573b5e81f22030be03ccbc8f5016]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/17/2) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2014/500/article/5/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-35a2573b5e81f22030be03ccbc8f5016]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/17/2) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2014/500/article/5/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
 
-[^key-290789b8758754dde8d64f7546a2c5bb]: Textual amendment: Words in [s. 17(8)](https://www.legislation.gov.uk/ukpga/2011/5/section/17/8) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2014/500/article/5/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-290789b8758754dde8d64f7546a2c5bb]: Textual amendment: Words in [s. 17(8)](https://www.legislation.gov.uk/ukpga/2011/5/section/17/8) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2014/500/article/5/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))

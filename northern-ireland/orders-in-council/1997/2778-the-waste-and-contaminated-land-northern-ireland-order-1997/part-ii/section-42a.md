@@ -32,7 +32,7 @@ summary: ''
 - ((not yet in force: d)) *(not yet in force: the circumstances in which the Department may sell, destroy or otherwise dispose of seized property;)*
 - ((not yet in force: e)) *(not yet in force: the uses to which the proceeds of any such sale may be put.)*
 
-((not yet in force: 3A))[^key-9d1eef3b4d0312fb60fb2afe53b9e2f6] *(not yet in force: Regulations making provision under paragraph (3)(b)—)*
+((not yet in force: 3A))[^c-9d1eef3b4d0312fb60fb2afe53b9e2f6] *(not yet in force: Regulations making provision under paragraph (3)(b)—)*
 
 - ((not yet in force: a)) *(not yet in force: must (subject to sub-paragraph (b)) provide for seized property to be returned as mentioned in paragraph (3)(b) before the expiry of a period specified in the regulations;)*
 - ((not yet in force: b)) *(not yet in force: may provide for a magistrates' court, on an application by the Department, to authorise the Department to retain the seized property until such date or the happening of such event as the court may specify;)*
@@ -48,4 +48,4 @@ summary: ''
 
 [^c20502001]: Textual amendment: Arts. 42, 42A substituted (11.3.2013) for art. 42 by [The Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611)](https://www.legislation.gov.uk/uksi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/611/article/1/3), [5](https://www.legislation.gov.uk/uksi/2007/611/article/5); [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(d)](https://www.legislation.gov.uk/nisr/2013/33/article/2/d)
 
-[^key-9d1eef3b4d0312fb60fb2afe53b9e2f6]: Textual amendment: [Art. 42A(3A)](https://www.legislation.gov.uk/nisi/1997/2778/article/42A/3A) inserted (12.3.2013) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 2(2)](https://www.legislation.gov.uk/nia/2011/5/section/2/2), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2013/34](https://www.legislation.gov.uk/nisr/2013/34), [art. 2(b)](https://www.legislation.gov.uk/nisr/2013/34/article/2/b)
+[^c-9d1eef3b4d0312fb60fb2afe53b9e2f6]: Textual amendment: [Art. 42A(3A)](https://www.legislation.gov.uk/nisi/1997/2778/article/42A/3A) inserted (12.3.2013) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 2(2)](https://www.legislation.gov.uk/nia/2011/5/section/2/2), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2013/34](https://www.legislation.gov.uk/nisr/2013/34), [art. 2(b)](https://www.legislation.gov.uk/nisr/2013/34/article/2/b)

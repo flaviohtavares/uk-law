@@ -39,13 +39,13 @@ summary: ''
     |  |  |  |
     | 2 | A person engaged on service as an inspector of constabulary or an assistant inspector of constabulary who is a former member of a home police force, the Police Service of Scotland or the police service in Northern Ireland. | The body in or with which the person is serving. |
     |  |  |  |
-    | 3 | A specified NCA officer [^c22402251][^key-8be28eccebbd214c585f29687eca3f93].... | The NCA. |
+    | 3 | A specified NCA officer [^c22402251][^c-8be28eccebbd214c585f29687eca3f93].... | The NCA. |
     |  |  |  |
     | 4 | A person engaged on service as chief executive of the body known as the College of Policing who immediately before beginning that service was in UK police service. | The College of Policing. |
     |  |  |  |
     | 5 | A person holding the office of constable who is engaged as a member of staff of the Disclosure and Barring Service and who immediately before becoming so engaged was in UK police service. | The Disclosure and Barring Service. |
     |  |  |  |
-    | 6 | A person engaged in accordance with arrangements made under paragraph 6(2) of Schedule 2 to the Police Reform Act 2002 [^c22402261] who immediately before becoming so engaged was in UK police service. | The Independent Office for Police Conduct[^key-0c2b3dad4bae8d830dce0c3d669ad778]. |
+    | 6 | A person engaged in accordance with arrangements made under paragraph 6(2) of Schedule 2 to the Police Reform Act 2002 [^c22402261] who immediately before becoming so engaged was in UK police service. | The Independent Office for Police Conduct[^c-0c2b3dad4bae8d830dce0c3d669ad778]. |
     |  |  |  |
     | 7 | A person in service as an officer pursuant to an appointment made in connection with the provision by the Secretary of State of assistance under the International Development Act 2002 [^c22402271]. | The body in or with which the person is serving. |
     |  |  |  |
@@ -70,10 +70,10 @@ summary: ''
 
 [^c22402251]: Marginal citation: See regulation 6 for the meaning of “specified NCA officer”.
 
-[^key-8be28eccebbd214c585f29687eca3f93]: Textual amendment: Words in reg. 5 omitted (with effect in accordance with reg. 1(2)(d) of the amending S.I) by virtue of [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [32](https://www.legislation.gov.uk/uksi/2018/997/regulation/32)
+[^c-8be28eccebbd214c585f29687eca3f93]: Textual amendment: Words in reg. 5 omitted (with effect in accordance with reg. 1(2)(d) of the amending S.I) by virtue of [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [32](https://www.legislation.gov.uk/uksi/2018/997/regulation/32)
 
 [^c22402261]: Marginal citation: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
 
-[^key-0c2b3dad4bae8d830dce0c3d669ad778]: Textual amendment: Words in reg. 5 table substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [34(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/34/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-0c2b3dad4bae8d830dce0c3d669ad778]: Textual amendment: Words in reg. 5 table substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [34(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/34/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
 [^c22402271]: Marginal citation: [2002 c. 1](https://www.legislation.gov.uk/ukpga/2002/1).

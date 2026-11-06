@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Forfeiture: offences committed by a member’s beneficiary[^key-6691aa8a59921524f5478110b675e1aa]
+## 124. Forfeiture: offences committed by a member’s beneficiary[^c-6691aa8a59921524f5478110b675e1aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6691aa8a59921524f5478110b675e1aa]: Commencement: Reg. 124 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-6691aa8a59921524f5478110b675e1aa]: Commencement: Reg. 124 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

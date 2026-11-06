@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Review of medical opinion[^key-89407704aa18dea6e8bc4cf201c3981d]
+## 163. Review of medical opinion[^c-89407704aa18dea6e8bc4cf201c3981d]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ the scheme manager must send a copy of the new evidence to the IQMP and invite t
 
 ## Annotations
 
-[^key-89407704aa18dea6e8bc4cf201c3981d]: Commencement: Reg. 163 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-89407704aa18dea6e8bc4cf201c3981d]: Commencement: Reg. 163 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 148. The board’s report[^key-28dbce18c978f6d0e664501cc9050f4a]
+## 148. The board’s report[^c-28dbce18c978f6d0e664501cc9050f4a]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The board must supply the parties with—
 
 ## Annotations
 
-[^key-28dbce18c978f6d0e664501cc9050f4a]: Commencement: [Reg. 148](https://www.legislation.gov.uk/ssi/2015/19/regulation/148) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-28dbce18c978f6d0e664501cc9050f4a]: Commencement: [Reg. 148](https://www.legislation.gov.uk/ssi/2015/19/regulation/148) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

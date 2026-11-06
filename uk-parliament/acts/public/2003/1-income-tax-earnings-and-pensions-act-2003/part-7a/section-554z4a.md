@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554Z4A. Temporary non-residents[^key-effc8e9c73b06f84b0f1f13da4253e43][^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554Z4A. Temporary non-residents[^c-effc8e9c73b06f84b0f1f13da4253e43][^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-effc8e9c73b06f84b0f1f13da4253e43]: Textual amendment: S. 554Z4A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 126](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/126)
+[^c-effc8e9c73b06f84b0f1f13da4253e43]: Textual amendment: S. 554Z4A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 126](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/126)
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)

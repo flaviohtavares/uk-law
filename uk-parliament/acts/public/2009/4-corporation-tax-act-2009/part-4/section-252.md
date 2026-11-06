@@ -27,7 +27,7 @@ summary: ''
 - (a) is in the course of construction, or
 - (b) is comprised in land in which the company does not have an interest or is in the course of acquiring an interest or further interest.
 
-(3)[^key-a3f110031e67600a651cefe78704207f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a3f110031e67600a651cefe78704207f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) No deduction is allowed in respect of expenditure treated by section 61 (as applied by section 210) as incurred on the date on which the company starts to carry on the business unless the expenditure was incurred not more than 6 months before that date.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3f110031e67600a651cefe78704207f]: Textual amendment: [S. 252(3)](https://www.legislation.gov.uk/ukpga/2009/4/section/252/3) omitted (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 5(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/5/4), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-a3f110031e67600a651cefe78704207f]: Textual amendment: [S. 252(3)](https://www.legislation.gov.uk/ukpga/2009/4/section/252/3) omitted (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 5(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/5/4), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

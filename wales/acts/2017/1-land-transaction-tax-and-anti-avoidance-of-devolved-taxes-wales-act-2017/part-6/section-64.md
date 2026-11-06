@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Regulations about deferral of tax[^key-546b7a86fc79b654653d2f5643046794]
+## 64. Regulations about deferral of tax[^c-546b7a86fc79b654653d2f5643046794]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-546b7a86fc79b654653d2f5643046794]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2017/1/section/64) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-546b7a86fc79b654653d2f5643046794]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2017/1/section/64) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

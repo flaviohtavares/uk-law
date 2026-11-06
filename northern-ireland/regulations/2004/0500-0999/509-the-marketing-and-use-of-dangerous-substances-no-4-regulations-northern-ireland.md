@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 PUBLIC HEALTH
 
-The Marketing and Use of Dangerous Substances (No. 4) Regulations (Northern Ireland) 2004 (revoked)[^key-aacb79ebb584d303b41b58333b55ea33]
+The Marketing and Use of Dangerous Substances (No. 4) Regulations (Northern Ireland) 2004 (revoked)[^c-aacb79ebb584d303b41b58333b55ea33]
 
 Made
 
@@ -43,42 +43,42 @@ Coming into operation
 
 1st January 2005
 
-[^key-aacb79ebb584d303b41b58333b55ea33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aacb79ebb584d303b41b58333b55ea33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-aacb79ebb584d303b41b58333b55ea33]
+## 1. Citation and commencement[^c-aacb79ebb584d303b41b58333b55ea33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-aacb79ebb584d303b41b58333b55ea33]
+## 2. Interpretation[^c-aacb79ebb584d303b41b58333b55ea33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope[^key-aacb79ebb584d303b41b58333b55ea33]
+## 3. Scope[^c-aacb79ebb584d303b41b58333b55ea33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on the placing on the market and use of pentabromodiphenyl ether[^key-aacb79ebb584d303b41b58333b55ea33]
+## 4. Prohibition on the placing on the market and use of pentabromodiphenyl ether[^c-aacb79ebb584d303b41b58333b55ea33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prohibition on the placing on the market and use of octabromodiphenyl ether[^key-aacb79ebb584d303b41b58333b55ea33]
+## 5. Prohibition on the placing on the market and use of octabromodiphenyl ether[^c-aacb79ebb584d303b41b58333b55ea33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-aacb79ebb584d303b41b58333b55ea33]
+## 6. Offences and penalties[^c-aacb79ebb584d303b41b58333b55ea33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-aacb79ebb584d303b41b58333b55ea33]
+## 7. Revocations[^c-aacb79ebb584d303b41b58333b55ea33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aacb79ebb584d303b41b58333b55ea33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aacb79ebb584d303b41b58333b55ea33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aacb79ebb584d303b41b58333b55ea33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aacb79ebb584d303b41b58333b55ea33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aacb79ebb584d303b41b58333b55ea33]: Textual amendment: regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/3)
+[^c-aacb79ebb584d303b41b58333b55ea33]: Textual amendment: regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/3)

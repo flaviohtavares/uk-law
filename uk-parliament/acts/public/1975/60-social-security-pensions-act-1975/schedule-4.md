@@ -87,7 +87,7 @@ section 65(1),(2).
 
 *Extent: E+W+S*
 
-**10.** In section 67(3)( *(Extent: E+W)* *(affected by repeal, see note)*[^key-7fbd6ac91a0c1cfde279a0294a171d08]*e *(Extent: E+W)* *(affected by repeal, see note)*[^key-7fbd6ac91a0c1cfde279a0294a171d08]*) of the Agriculture Act 1967 after the words “Part II of the Social Security Act 1975” there shall be inserted the words “or Part II of the Social Security Pensions Act 1975” *(Extent: E+W)* *(affected by repeal, see note)*[^key-7fbd6ac91a0c1cfde279a0294a171d08]
+**10.** In section 67(3)( *(Extent: E+W)* *(affected by repeal, see note)*[^c-7fbd6ac91a0c1cfde279a0294a171d08]*e *(Extent: E+W)* *(affected by repeal, see note)*[^c-7fbd6ac91a0c1cfde279a0294a171d08]*) of the Agriculture Act 1967 after the words “Part II of the Social Security Act 1975” there shall be inserted the words “or Part II of the Social Security Pensions Act 1975” *(Extent: E+W)* *(affected by repeal, see note)*[^c-7fbd6ac91a0c1cfde279a0294a171d08]
 
 #### The Rent Act 1968[^c1107891]
 
@@ -332,7 +332,7 @@ section 65(1),(2).
 
 [^c1107890]: Marginal citation: [1967 c. 22](https://www.legislation.gov.uk/ukpga/1967/22).
 
-[^key-7fbd6ac91a0c1cfde279a0294a171d08]: Textual amendment: Words in [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/1975/60/schedule/4/paragraph/10) repealed (E.W.) (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
+[^c-7fbd6ac91a0c1cfde279a0294a171d08]: Textual amendment: Words in [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/1975/60/schedule/4/paragraph/10) repealed (E.W.) (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
 
 [^c1107891]: Marginal citation: [1968 c. 23](https://www.legislation.gov.uk/ukpga/1968/23).
 

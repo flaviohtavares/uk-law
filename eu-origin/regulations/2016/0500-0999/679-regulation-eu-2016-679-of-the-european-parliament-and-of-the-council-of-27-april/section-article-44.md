@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 44. General principle for transfers[^key-6de0094d9bc4ac85456cb8bc2f5de5b2]
+## Article 44. General principle for transfers[^c-6de0094d9bc4ac85456cb8bc2f5de5b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6de0094d9bc4ac85456cb8bc2f5de5b2]: Textual amendment: Art. 44 omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 7 para. 2(1)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/2/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-6de0094d9bc4ac85456cb8bc2f5de5b2]: Textual amendment: Art. 44 omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 7 para. 2(1)](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/2/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)

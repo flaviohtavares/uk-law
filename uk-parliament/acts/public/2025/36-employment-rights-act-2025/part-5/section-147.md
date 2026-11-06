@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Application of this Part to the Crown and Parliament[^key-1a13eeec334b7f59fc7d51faac94caf4][^key-af954cc3d1c0f1d0a835a7d563414355]
+## 147. Application of this Part to the Crown and Parliament[^c-1a13eeec334b7f59fc7d51faac94caf4][^c-af954cc3d1c0f1d0a835a7d563414355]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a13eeec334b7f59fc7d51faac94caf4]: Commencement: S. 147 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-1a13eeec334b7f59fc7d51faac94caf4]: Commencement: S. 147 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-af954cc3d1c0f1d0a835a7d563414355]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(47)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/47)
+[^c-af954cc3d1c0f1d0a835a7d563414355]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(47)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/47)

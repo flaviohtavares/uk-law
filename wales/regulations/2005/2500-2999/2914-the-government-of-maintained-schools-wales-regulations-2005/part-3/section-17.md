@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Foundation special schools[^key-445f3718593ce58573be0861d00a87a8]
+## 17. Foundation special schools[^c-445f3718593ce58573be0861d00a87a8]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
   | *Category of governor* | *Normal basis* | *Option if less than 100 registered pupils* |
   | --- | --- | --- |
   | Parent Governors | 5 or 6 | 4 |
-  | Authority governors[^key-e7f48d0fcedd80c0cbc25eb62364becc] | 2 | 2 |
+  | Authority governors[^c-e7f48d0fcedd80c0cbc25eb62364becc] | 2 | 2 |
   | Teacher Governors | 1 | 1 |
   | Staff governors | 1 | 1 or 0 |
   | Foundation Governors | 3 or 4 | 2 |
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-445f3718593ce58573be0861d00a87a8]: Commencement: Reg. 17 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-445f3718593ce58573be0861d00a87a8]: Commencement: Reg. 17 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-e7f48d0fcedd80c0cbc25eb62364becc]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/wsi/2005/2914/regulation/17) Table substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(9)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/9)
+[^c-e7f48d0fcedd80c0cbc25eb62364becc]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/wsi/2005/2914/regulation/17) Table substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(9)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/9)

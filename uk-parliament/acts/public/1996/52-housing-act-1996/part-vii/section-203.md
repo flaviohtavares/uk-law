@@ -40,7 +40,7 @@ Nothing in the following provisions affects the generality of this power.
 
 they shall also notify him of the reasons for the decision.
 
-(5) In any case they shall inform the applicant of his right to appeal to the county court[^key-e93d7a420e5d5b441c1066c03c735a88] on a point of law, and of the period within which such an appeal must be made (see section 204).
+(5) In any case they shall inform the applicant of his right to appeal to the county court[^c-e93d7a420e5d5b441c1066c03c735a88] on a point of law, and of the period within which such an appeal must be made (see section 204).
 
 (6) Notice of the decision shall not be treated as given unless and until subsection (5), and where applicable subsection (4), is complied with.
 
@@ -54,4 +54,4 @@ they shall also notify him of the reasons for the decision.
 
 [^c13154431]: Modification: Ss. 183-218 modified (3.4.1997) by [S.I. 1997/797](https://www.legislation.gov.uk/uksi/1997/797), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/797/article/2/1)
 
-[^key-e93d7a420e5d5b441c1066c03c735a88]: Textual amendment: Words in s. 203(5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-e93d7a420e5d5b441c1066c03c735a88]: Textual amendment: Words in s. 203(5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

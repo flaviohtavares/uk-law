@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3[^key-f63a564eb7b464835d96019dbf411e8a]
+## SCHEDULE 3[^c-f63a564eb7b464835d96019dbf411e8a]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ Form of Direction by Planning Authority under Article 4(8)
 
 ## Annotations
 
-[^key-f63a564eb7b464835d96019dbf411e8a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1992/223/schedule/3) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)
+[^c-f63a564eb7b464835d96019dbf411e8a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1992/223/schedule/3) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Explosive atmospheres[^key-a852f8975a530b5e66b03c60d2532909]
+## 22. Explosive atmospheres[^c-a852f8975a530b5e66b03c60d2532909]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a852f8975a530b5e66b03c60d2532909]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2016/427/regulation/22) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-a852f8975a530b5e66b03c60d2532909]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2016/427/regulation/22) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

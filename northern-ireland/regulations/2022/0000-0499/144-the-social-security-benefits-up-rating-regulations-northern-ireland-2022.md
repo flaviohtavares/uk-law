@@ -34,7 +34,7 @@ Regulations made by the Department for Communities and laid before the Assembly 
 
 Social Security
 
-The Social Security Benefits Up-rating Regulations (Northern Ireland) 2022 (revoked)[^key-75996e25acb0477d785d718c4cb23c7f]
+The Social Security Benefits Up-rating Regulations (Northern Ireland) 2022 (revoked)[^c-75996e25acb0477d785d718c4cb23c7f]
 
 Made
 
@@ -44,42 +44,42 @@ Coming into operation
 
 11th April 2022
 
-[^key-75996e25acb0477d785d718c4cb23c7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75996e25acb0477d785d718c4cb23c7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-75996e25acb0477d785d718c4cb23c7f]
+## 1. Citation, commencement and interpretation[^c-75996e25acb0477d785d718c4cb23c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-75996e25acb0477d785d718c4cb23c7f]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-75996e25acb0477d785d718c4cb23c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Northern Ireland[^key-75996e25acb0477d785d718c4cb23c7f]
+## 3. Persons not ordinarily resident in Northern Ireland[^c-75996e25acb0477d785d718c4cb23c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-75996e25acb0477d785d718c4cb23c7f]
+## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-75996e25acb0477d785d718c4cb23c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security Benefit (Dependency) Regulations[^key-75996e25acb0477d785d718c4cb23c7f]
+## 5. Amendment of the Social Security Benefit (Dependency) Regulations[^c-75996e25acb0477d785d718c4cb23c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Social Security (Claims and Payments) Regulations[^key-75996e25acb0477d785d718c4cb23c7f]
+## 6. Amendment of the Social Security (Claims and Payments) Regulations[^c-75996e25acb0477d785d718c4cb23c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-75996e25acb0477d785d718c4cb23c7f]
+## 7. Revocations[^c-75996e25acb0477d785d718c4cb23c7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-75996e25acb0477d785d718c4cb23c7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75996e25acb0477d785d718c4cb23c7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-75996e25acb0477d785d718c4cb23c7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75996e25acb0477d785d718c4cb23c7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-75996e25acb0477d785d718c4cb23c7f]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2022/144) revoked (28.9.2022) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/232)](https://www.legislation.gov.uk/nisr/2022/232), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/232/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2022/232/regulation/7)
+[^c-75996e25acb0477d785d718c4cb23c7f]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2022/144) revoked (28.9.2022) by [The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/232)](https://www.legislation.gov.uk/nisr/2022/232), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/232/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2022/232/regulation/7)

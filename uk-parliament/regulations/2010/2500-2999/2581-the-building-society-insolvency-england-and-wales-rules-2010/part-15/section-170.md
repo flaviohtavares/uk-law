@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. Termination of appointment[^key-a1a7243288b4f6a97639f3cb60a31ea4]
+## 170. Termination of appointment[^c-a1a7243288b4f6a97639f3cb60a31ea4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.210 of the 1986 Rules.
 
 ## Annotations
 
-[^key-a1a7243288b4f6a97639f3cb60a31ea4]: Commencement: Rule 170 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-a1a7243288b4f6a97639f3cb60a31ea4]: Commencement: Rule 170 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

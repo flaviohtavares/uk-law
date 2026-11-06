@@ -40,7 +40,7 @@ Coming into operation in accordance with regulation 1(2) and (3)
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 3, 16(3), 32(8) and (9), 39(1), 44, 47 and 48(4) of, and paragraph 5(1) and (2) of Schedule 1 to, the Child Support (Northern Ireland) Order 1991[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-409795877996a771daa8aa94d05f0603]
+## 1. Citation, commencement and interpretation[^c-409795877996a771daa8aa94d05f0603]
 
 (1) These Regulations may be cited as the Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 1999.
 
@@ -53,19 +53,19 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - “the first commencement day” means 6th April 1999;
 - “the second commencement day” means 4th October 1999.
 
-## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^key-5eb86dc6f1bfdd25dfa4399c59f715bd]
+## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^c-5eb86dc6f1bfdd25dfa4399c59f715bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-a8592d1e52747edb2e57551643194a67]
+## 3. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^c-a8592d1e52747edb2e57551643194a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^key-a8592d1e52747edb2e57551643194a67]
+## 4. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^c-a8592d1e52747edb2e57551643194a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Child Support (Collection and Enforcement) Regulations[^key-e98b94cd245ee6ee32ee9b4b7b6ea541]
+## 5. Amendment of the Child Support (Collection and Enforcement) Regulations[^c-e98b94cd245ee6ee32ee9b4b7b6ea541]
 
 In regulation 25 of the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^f00018] (offences) before paragraph (a) there shall be inserted the following paragraph—
 
@@ -73,11 +73,11 @@ In regulation 25 of the Child Support (Collection and Enforcement) Regulations (
 
 .
 
-## 6. Amendment of the Fees Regulations[^key-9c201d19e8da56c81da0f0e9c69c49c6]
+## 6. Amendment of the Fees Regulations[^c-9c201d19e8da56c81da0f0e9c69c49c6]
 
 In regulation 3(3A) of the Child Support Fees Regulations (Northern Ireland) 1993[^f00019] (liability to pay fees) for “1999” there shall be substituted “2001”.
 
-## 7. Transitional provisions[^key-18e4f07b94bdb3a36c6c4bdb05373330]
+## 7. Transitional provisions[^c-18e4f07b94bdb3a36c6c4bdb05373330]
 
 A maintenance assessment in force on the first or second commencement day shall not be reviewed solely to give effect to these Regulations but on a revision of that assessment under Article 18 of the Child Support (Northern Ireland) Order 1991[^f00020], or a review under Article 19, 20 or 21 of that Order these Regulations shall apply to any fresh maintenance assessment made following that revision or review from the effective date of that assessment, or from the first day of the first maintenance period which begins on or after the first or second commencement day, as the case may be, whichever is the later.
 
@@ -109,20 +109,20 @@ Regulation 7 makes certain transitional provisions.
 
 [^f00001]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 44 was amended by paragraph 11 of Schedule 3 to the Child Support (Northern Ireland) Order 1995 (S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702))
 
-[^key-409795877996a771daa8aa94d05f0603]: Commencement: Reg. 1 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
+[^c-409795877996a771daa8aa94d05f0603]: Commencement: Reg. 1 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
 
-[^key-5eb86dc6f1bfdd25dfa4399c59f715bd]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/152/regulation/2) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
+[^c-5eb86dc6f1bfdd25dfa4399c59f715bd]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/152/regulation/2) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
 
-[^key-a8592d1e52747edb2e57551643194a67]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/152/regulation/4) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-a8592d1e52747edb2e57551643194a67]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/152/regulation/4) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-e98b94cd245ee6ee32ee9b4b7b6ea541]: Commencement: Reg. 5 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
+[^c-e98b94cd245ee6ee32ee9b4b7b6ea541]: Commencement: Reg. 5 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
 
 [^f00018]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390); to which there are amendments not relevant to these Regulations
 
-[^key-9c201d19e8da56c81da0f0e9c69c49c6]: Commencement: Reg. 6 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
+[^c-9c201d19e8da56c81da0f0e9c69c49c6]: Commencement: Reg. 6 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
 
 [^f00019]: Footnote: [S.R. 1993 No. 73](https://www.legislation.gov.uk/nisr/1993/73); paragraph (3A) was inserted by regulation 5(2)(b) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and amended by regulation 5 of [S.R. 1996 No. 590](https://www.legislation.gov.uk/nisr/1996/590)
 
-[^key-18e4f07b94bdb3a36c6c4bdb05373330]: Commencement: Reg. 7 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
+[^c-18e4f07b94bdb3a36c6c4bdb05373330]: Commencement: Reg. 7 in operation at 6.4.1999, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/152/regulation/1/2)
 
 [^f00020]: Footnote: Article 18 was substituted by Article 40 of the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and Articles 19 and 20 were amended by, and Article 21 was substituted by, Articles 6 to 9 respectively of the Child Support (Northern Ireland) Order 1995 (S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702))

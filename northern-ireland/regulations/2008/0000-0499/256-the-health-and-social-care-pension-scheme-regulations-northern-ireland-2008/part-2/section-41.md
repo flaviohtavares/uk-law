@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Effect of death or early payment of pension after option exercised under regulation 34, 36 or 37[^key-7a631e99c74b58301e112be2a9da14d2][^key-5e53f575b024d5ac4eb0f64078bd9d4e]
+## 41. Effect of death or early payment of pension after option exercised under regulation 34, 36 or 37[^c-7a631e99c74b58301e112be2a9da14d2][^c-5e53f575b024d5ac4eb0f64078bd9d4e]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (4) If a member in respect of whom an option under regulation 34 has been exercised becomes entitled to a pension under regulation 52 before the end of the contribution option period as a result of a claim made after the end of the period of 12 months beginning with the date on which the option was exercised, regulation 40(2) and (4) applies as if all contributions under the option had been made.
 
-This is subject to regulation 39(5) and (6).[^key-36ee7587af21b453b58a91607bb8d27e]
+This is subject to regulation 39(5) and (6).[^c-36ee7587af21b453b58a91607bb8d27e]
 
 (5) If a member in respect of whom an option under regulation 34, 36 or 37 has been exercised—
 
@@ -53,8 +53,8 @@ the increase in the member's pension under Chapter 4 (members' retirement benefi
 
 ## Annotations
 
-[^key-7a631e99c74b58301e112be2a9da14d2]: Modification: [Reg. 41](https://www.legislation.gov.uk/nisr/2008/256/regulation/41) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [24(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/24/b)
+[^c-7a631e99c74b58301e112be2a9da14d2]: Modification: [Reg. 41](https://www.legislation.gov.uk/nisr/2008/256/regulation/41) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [24(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/24/b)
 
-[^key-5e53f575b024d5ac4eb0f64078bd9d4e]: Modification: [Regs. 34-41](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)
+[^c-5e53f575b024d5ac4eb0f64078bd9d4e]: Modification: [Regs. 34-41](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)
 
-[^key-36ee7587af21b453b58a91607bb8d27e]: Textual amendment: Words in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/41/4) added (retrospective and with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/259)](https://www.legislation.gov.uk/nisr/2013/259), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/259/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2013/259/regulation/24)
+[^c-36ee7587af21b453b58a91607bb8d27e]: Textual amendment: Words in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/41/4) added (retrospective and with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/259)](https://www.legislation.gov.uk/nisr/2013/259), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/259/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2013/259/regulation/24)

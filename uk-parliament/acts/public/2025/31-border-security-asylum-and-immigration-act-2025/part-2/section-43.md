@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Immigration advisers and immigration service providers[^key-9595df24408a28910ad39801b046c799][^key-2e847ddfa758515e7332ec2090b8308e]
+## 43. Immigration advisers and immigration service providers[^c-9595df24408a28910ad39801b046c799][^c-2e847ddfa758515e7332ec2090b8308e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 1 contains amendments of Part 5 of the Immigration and Asylum Act 1999 
 
 ## Annotations
 
-[^key-9595df24408a28910ad39801b046c799]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 65(3)(e)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/e)
+[^c-9595df24408a28910ad39801b046c799]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 65(3)(e)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/e)
 
-[^key-2e847ddfa758515e7332ec2090b8308e]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/31/section/43) in force at 2.2.2026 for specified purposes by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/d)
+[^c-2e847ddfa758515e7332ec2090b8308e]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/31/section/43) in force at 2.2.2026 for specified purposes by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/d)

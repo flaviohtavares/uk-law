@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — Further provision about Community Health Councils[^key-dca12125d993b4997788895ff2993b3a]
+## SCHEDULE 10 — Further provision about Community Health Councils[^c-dca12125d993b4997788895ff2993b3a]
 
 *Extent: E+W*
 
 Section 182
 
-[^key-dca12125d993b4997788895ff2993b3a] . . . . . . . . .
+[^c-dca12125d993b4997788895ff2993b3a] . . . . . . . . .
 
 ## Annotations
 
-[^key-dca12125d993b4997788895ff2993b3a]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/42/schedule/10) repealed (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [ss. 23(2)](https://www.legislation.gov.uk/asc/2020/1/section/23/2), [29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(q)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/q)
+[^c-dca12125d993b4997788895ff2993b3a]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/42/schedule/10) repealed (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [ss. 23(2)](https://www.legislation.gov.uk/asc/2020/1/section/23/2), [29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(q)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/q)

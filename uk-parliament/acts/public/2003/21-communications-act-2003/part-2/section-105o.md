@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105O. Power of OFCOM to give assessment notices[^key-1b6a88c317e3ff67aeb9199f5dfe0641]
+## 105O. Power of OFCOM to give assessment notices[^c-1b6a88c317e3ff67aeb9199f5dfe0641]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b6a88c317e3ff67aeb9199f5dfe0641]: Textual amendment: [Ss. 105N-105R](https://www.legislation.gov.uk/ukpga/2003/21/section/105N) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/6/2), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-1b6a88c317e3ff67aeb9199f5dfe0641]: Textual amendment: [Ss. 105N-105R](https://www.legislation.gov.uk/ukpga/2003/21/section/105N) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/6/2), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)

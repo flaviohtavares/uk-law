@@ -40,11 +40,11 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by Article 13 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00001] and Articles 81(5) and 81A(11) of the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00002] and of all other powers enabling him in that behalf, on the advice of the Magistrates' Courts Rules Committee and after consultation with the Lord Chief Justice, hereby makes the following Rules:—
 
-## 1. Citation and commencement[^key-f7f201dd8546ce2f9f89c6a3c8b19d21]
+## 1. Citation and commencement[^c-f7f201dd8546ce2f9f89c6a3c8b19d21]
 
 These Rules may be cited as the Magistrates' Courts (Amendment) Rules (Northern Ireland) 1996 and shall come into operation on 8th April 1996.
 
-## 2. Interpretation[^key-963c3098d732e7e7094023839e88f7f0]
+## 2. Interpretation[^c-963c3098d732e7e7094023839e88f7f0]
 
 In these Rules—
 
@@ -52,13 +52,13 @@ In these Rules—
 - “the 1969 Rules” means the Magistrates' Courts (Children and Young Persons) Rules (Northern Ireland) 1969[^f00004];
 - “the 1995 Order” means the Children’s Evidence (Northern Ireland) Order 1995[^f00005].
 
-## 3. Saving and revocation[^key-f080fe0b372163580320fd9808868004]
+## 3. Saving and revocation[^c-f080fe0b372163580320fd9808868004]
 
 (1) Subject to paragraph (2), Rules 25A and 31(2)(*a*) of the principal Rules are hereby revoked.
 
 (2) Rule 25A, and as appropriate Rule 31(2)(*a*), of the principal Rules, shall continue to apply to any application under Article 81(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989 which was commenced before 8th April 1996.
 
-## 4. Amendment to the principal Rules[^key-70881d90f2ae31689556b0a55cc4b7aa]
+## 4. Amendment to the principal Rules[^c-70881d90f2ae31689556b0a55cc4b7aa]
 
 After Rule 149 of the principal Rules, there shall be inserted the following new Rule—
 
@@ -118,9 +118,9 @@ After Rule 149 of the principal Rules, there shall be inserted the following new
 
 .
 
-**5.**[^key-dfa05a8c91687e9c7ac3addb1fa4e063] For Form 15A in Schedule 1 to the principal Rules, there shall be substituted the new Form 15A set out in Schedule 1 to these Rules.
+**5.**[^c-dfa05a8c91687e9c7ac3addb1fa4e063] For Form 15A in Schedule 1 to the principal Rules, there shall be substituted the new Form 15A set out in Schedule 1 to these Rules.
 
-## 6. Amendment to the 1969 Rules[^key-7fceddd909d94e79f9fbff37cab46a4d]
+## 6. Amendment to the 1969 Rules[^c-7fceddd909d94e79f9fbff37cab46a4d]
 
 After Rule 10 of the 1969 Rules, there shall be inserted the following new Rules—
 
@@ -179,7 +179,7 @@ After Rule 10 of the 1969 Rules, there shall be inserted the following new Rules
 
 .
 
-**7.**[^key-7d13169b599784f5d7a17546b96be040] The 1969 Rules shall be further amended by—
+**7.**[^c-7d13169b599784f5d7a17546b96be040] The 1969 Rules shall be further amended by—
 
 - (a) substituting for the title to the Schedule, the new title, “Forms”;
 - (b) adding after Form 74, the new Forms set out in Schedule 2 to these Rules.
@@ -188,7 +188,7 @@ Mackay of Clashfern, C.
 
 Dated 27th March 1996
 
-## SCHEDULE 1[^key-0f00ba94b94ff0154cb7431c74143a6e]
+## SCHEDULE 1[^c-0f00ba94b94ff0154cb7431c74143a6e]
 
 Rule 5
 
@@ -204,7 +204,7 @@ Rule 149A
 
 [image: see source](https://www.legislation.gov.uk/nisr/1996/126/images/nisr_19960126_en_001) [image: see source](https://www.legislation.gov.uk/nisr/1996/126/images/nisr_19960126_en_002)
 
-## SCHEDULE 2[^key-1251da621429a208dbd89d6e4caa9cf8]
+## SCHEDULE 2[^c-1251da621429a208dbd89d6e4caa9cf8]
 
 Rule 7
 
@@ -250,9 +250,9 @@ Rule 10B provides for applications to juvenile courts for leave under Article 81
 
 [^f00002]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341); to which the most recent relevant amendment was made by S.I. [1995/757 (N.I. 3)](https://www.legislation.gov.uk/nisi/1995/757)
 
-[^key-f7f201dd8546ce2f9f89c6a3c8b19d21]: Commencement: Rule 1 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
+[^c-f7f201dd8546ce2f9f89c6a3c8b19d21]: Commencement: Rule 1 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
 
-[^key-963c3098d732e7e7094023839e88f7f0]: Commencement: Rule 2 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
+[^c-963c3098d732e7e7094023839e88f7f0]: Commencement: Rule 2 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
 
 [^f00003]: Footnote: [S.R. 1984 No. 225](https://www.legislation.gov.uk/nisr/1984/225); to which the most recent relevant amendment was made by [S.R. 1989 No. 422](https://www.legislation.gov.uk/nisr/1989/422)
 
@@ -260,16 +260,16 @@ Rule 10B provides for applications to juvenile courts for leave under Article 81
 
 [^f00005]: Footnote: S.I. [1995/757 (N.I. 3)](https://www.legislation.gov.uk/nisi/1995/757)
 
-[^key-f080fe0b372163580320fd9808868004]: Commencement: Rule 3 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
+[^c-f080fe0b372163580320fd9808868004]: Commencement: Rule 3 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
 
-[^key-70881d90f2ae31689556b0a55cc4b7aa]: Commencement: Rule 4 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
+[^c-70881d90f2ae31689556b0a55cc4b7aa]: Commencement: Rule 4 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
 
-[^key-dfa05a8c91687e9c7ac3addb1fa4e063]: Commencement: Rule 5 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
+[^c-dfa05a8c91687e9c7ac3addb1fa4e063]: Commencement: Rule 5 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
 
-[^key-7fceddd909d94e79f9fbff37cab46a4d]: Commencement: Rule 6 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
+[^c-7fceddd909d94e79f9fbff37cab46a4d]: Commencement: Rule 6 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
 
-[^key-7d13169b599784f5d7a17546b96be040]: Commencement: Rule 7 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
+[^c-7d13169b599784f5d7a17546b96be040]: Commencement: Rule 7 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
 
-[^key-0f00ba94b94ff0154cb7431c74143a6e]: Commencement: Sch. 1 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
+[^c-0f00ba94b94ff0154cb7431c74143a6e]: Commencement: Sch. 1 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
 
-[^key-1251da621429a208dbd89d6e4caa9cf8]: Commencement: Sch. 2 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)
+[^c-1251da621429a208dbd89d6e4caa9cf8]: Commencement: Sch. 2 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/126/rule/1)

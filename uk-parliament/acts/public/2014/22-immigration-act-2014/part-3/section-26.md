@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Excuses available to agents[^key-8301cbc6f04e3f7b5737ab75be918319][^key-57b0ec4270d68a7586fcca7d6d860e2c][^key-c486d3d9f0e012505109d7f36854a3ec][^key-36c6fd2ede5b47ee2158b7fb5cb80737]
+## 26. Excuses available to agents[^c-8301cbc6f04e3f7b5737ab75be918319][^c-57b0ec4270d68a7586fcca7d6d860e2c][^c-c486d3d9f0e012505109d7f36854a3ec][^c-36c6fd2ede5b47ee2158b7fb5cb80737]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8301cbc6f04e3f7b5737ab75be918319]: Commencement: S. 26 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(g)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/g)
+[^c-8301cbc6f04e3f7b5737ab75be918319]: Commencement: S. 26 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(g)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/g)
 
-[^key-57b0ec4270d68a7586fcca7d6d860e2c]: Modification: S. 26 modified (1.12.2014) by [The Immigration (Residential Accommodation) (Prescribed Cases) Order 2014 (S.I. 2014/2873)](https://www.legislation.gov.uk/uksi/2014/2873), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2873/article/1), [7](https://www.legislation.gov.uk/uksi/2014/2873/article/7), [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2014/2873/schedule/paragraph/4)
+[^c-57b0ec4270d68a7586fcca7d6d860e2c]: Modification: S. 26 modified (1.12.2014) by [The Immigration (Residential Accommodation) (Prescribed Cases) Order 2014 (S.I. 2014/2873)](https://www.legislation.gov.uk/uksi/2014/2873), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2873/article/1), [7](https://www.legislation.gov.uk/uksi/2014/2873/article/7), [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2014/2873/schedule/paragraph/4)
 
-[^key-c486d3d9f0e012505109d7f36854a3ec]: Modification: S. 26 modified (1.12.2014) by [The Immigration (Residential Accommodation) (Prescribed Cases) Order 2014 (S.I. 2014/2873)](https://www.legislation.gov.uk/uksi/2014/2873), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2873/article/1), [6](https://www.legislation.gov.uk/uksi/2014/2873/article/6), [Sch. paras. 2](https://www.legislation.gov.uk/uksi/2014/2873/schedule/paragraph/2)
+[^c-c486d3d9f0e012505109d7f36854a3ec]: Modification: S. 26 modified (1.12.2014) by [The Immigration (Residential Accommodation) (Prescribed Cases) Order 2014 (S.I. 2014/2873)](https://www.legislation.gov.uk/uksi/2014/2873), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2873/article/1), [6](https://www.legislation.gov.uk/uksi/2014/2873/article/6), [Sch. paras. 2](https://www.legislation.gov.uk/uksi/2014/2873/schedule/paragraph/2)
 
-[^key-36c6fd2ede5b47ee2158b7fb5cb80737]: Commencement: S. 26 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(g)](https://www.legislation.gov.uk/uksi/2016/11/article/2/g)
+[^c-36c6fd2ede5b47ee2158b7fb5cb80737]: Commencement: S. 26 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(g)](https://www.legislation.gov.uk/uksi/2016/11/article/2/g)

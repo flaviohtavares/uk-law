@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. National Underground Asset Register: England and Wales[^key-b85bb128b9a61712c79cc08972719db5]
+## 56. National Underground Asset Register: England and Wales[^c-b85bb128b9a61712c79cc08972719db5]
 
 *Extent: E+W*
 
@@ -276,4 +276,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b85bb128b9a61712c79cc08972719db5]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-b85bb128b9a61712c79cc08972719db5]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)

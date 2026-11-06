@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Misleading impressions[^key-f2a90bfa1dd1df5b671735ff0c49143d]
+## 90. Misleading impressions[^c-f2a90bfa1dd1df5b671735ff0c49143d]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,19 +55,19 @@ summary: ''
   - (i) for the purpose of stabilising the price of investments, and
   - (ii) in conformity with price stabilising rules,
 - (c) that D acted or engaged in the conduct in conformity with control of information rules, or
-- (d)[^key-d662256ad06b91735bdefd2228cec2e4] that D acted or engaged in the conduct in conformity with the relevant provisions of Article 5 (exemption for buy-back programmes and stabilisation) of the market abuse regulation.
+- (d)[^c-d662256ad06b91735bdefd2228cec2e4] that D acted or engaged in the conduct in conformity with the relevant provisions of Article 5 (exemption for buy-back programmes and stabilisation) of the market abuse regulation.
 
 (10) This section does not apply unless—
 
 - (a) the act is done, or the course of conduct is engaged in, in the United Kingdom, or
 - (b) the false or misleading impression is created there.
 
-(11)[^key-90f35bcb2dd793d842abf10e6ed0e14a] See section 137Q(3) of FSMA 2000 regarding the power of the FCA to make rules for the purposes of subsection (9)(d).
+(11)[^c-90f35bcb2dd793d842abf10e6ed0e14a] See section 137Q(3) of FSMA 2000 regarding the power of the FCA to make rules for the purposes of subsection (9)(d).
 
 ## Annotations
 
-[^key-f2a90bfa1dd1df5b671735ff0c49143d]: Commencement: S. 90 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-f2a90bfa1dd1df5b671735ff0c49143d]: Commencement: S. 90 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-d662256ad06b91735bdefd2228cec2e4]: Textual amendment: [S. 90(9)(d)](https://www.legislation.gov.uk/ukpga/2012/21/section/90/9/d) substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [15(3)(a)](https://www.legislation.gov.uk/uksi/2016/680/regulation/15/3/a)
+[^c-d662256ad06b91735bdefd2228cec2e4]: Textual amendment: [S. 90(9)(d)](https://www.legislation.gov.uk/ukpga/2012/21/section/90/9/d) substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [15(3)(a)](https://www.legislation.gov.uk/uksi/2016/680/regulation/15/3/a)
 
-[^key-90f35bcb2dd793d842abf10e6ed0e14a]: Textual amendment: [S. 90(11)](https://www.legislation.gov.uk/ukpga/2012/21/section/90/11) inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [15(3)(b)](https://www.legislation.gov.uk/uksi/2016/680/regulation/15/3/b)
+[^c-90f35bcb2dd793d842abf10e6ed0e14a]: Textual amendment: [S. 90(11)](https://www.legislation.gov.uk/ukpga/2012/21/section/90/11) inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [15(3)(b)](https://www.legislation.gov.uk/uksi/2016/680/regulation/15/3/b)

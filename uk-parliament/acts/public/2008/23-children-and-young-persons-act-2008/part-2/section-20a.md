@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20A. Designated staff member for previously looked after pupils[^key-7fa86a15518551ea01440d15a4dd7d9c]
+## 20A. Designated staff member for previously looked after pupils[^c-7fa86a15518551ea01440d15a4dd7d9c]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fa86a15518551ea01440d15a4dd7d9c]: Textual amendment: S. 20A inserted (1.9.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 5](https://www.legislation.gov.uk/ukpga/2017/16/section/5), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)
+[^c-7fa86a15518551ea01440d15a4dd7d9c]: Textual amendment: S. 20A inserted (1.9.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 5](https://www.legislation.gov.uk/ukpga/2017/16/section/5), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)

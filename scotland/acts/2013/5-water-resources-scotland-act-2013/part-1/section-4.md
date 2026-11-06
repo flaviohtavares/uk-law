@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Reports on steps taken[^key-6b437880489bdd96f8430450ab7a641f]
+## 4. Reports on steps taken[^c-6b437880489bdd96f8430450ab7a641f]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b437880489bdd96f8430450ab7a641f]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/5/section/4) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-6b437880489bdd96f8430450ab7a641f]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/5/section/4) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273. When an event elsewhere which could result in an accident is an occurrence[^key-851ecbaa671aa300f131f9097ab6b956]
+## 273. When an event elsewhere which could result in an accident is an occurrence[^c-851ecbaa671aa300f131f9097ab6b956]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-851ecbaa671aa300f131f9097ab6b956]: Commencement: Reg. 273 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-851ecbaa671aa300f131f9097ab6b956]: Commencement: Reg. 273 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

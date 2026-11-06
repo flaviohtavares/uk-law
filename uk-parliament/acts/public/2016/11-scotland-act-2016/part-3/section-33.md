@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Social Security Advisory Committee and Industrial Injuries Advisory Council[^key-815a4e31ad8119ebf5fad367a0b42534]
+## 33. Social Security Advisory Committee and Industrial Injuries Advisory Council[^c-815a4e31ad8119ebf5fad367a0b42534]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-815a4e31ad8119ebf5fad367a0b42534]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2016/11/section/33) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/j)
+[^c-815a4e31ad8119ebf5fad367a0b42534]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2016/11/section/33) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/j)

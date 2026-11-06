@@ -36,7 +36,7 @@ SEA FISH INDUSTRY
 
 FISH FARMING, ENGLAND
 
-The Grants for Fishing and Aquaculture Industries Regulations 2007 (revoked)[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+The Grants for Fishing and Aquaculture Industries Regulations 2007 (revoked)[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 Made
 
@@ -50,76 +50,76 @@ Coming into force
 
 6th April 2008
 
-[^key-1b1ba538a2b3423d01b8ff697a6b883d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b1ba538a2b3423d01b8ff697a6b883d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 1. Title, application and commencement[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. References to Council Regulation [(EC) 1198/2006](https://www.legislation.gov.uk/european/regulation/2006/1198)[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 2. References to Council Regulation [(EC) 1198/2006](https://www.legislation.gov.uk/european/regulation/2006/1198)[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment by the Secretary of State[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 3. Payment by the Secretary of State[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Advertisement of grants[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 4. Advertisement of grants[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application for a grant[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 5. Application for a grant[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Approval of applications[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 6. Approval of applications[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Notification of decisions[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 7. Notification of decisions[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Evidence of expenditure or action[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 8. Evidence of expenditure or action[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Method of payment[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 9. Method of payment[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Information[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 10. Information[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Records[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 11. Records[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Recovery of payment[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 12. Recovery of payment[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Powers of entry[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 13. Powers of entry[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Obstruction[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 14. Obstruction[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Penalties[^key-1b1ba538a2b3423d01b8ff697a6b883d]
+## 15. Penalties[^c-1b1ba538a2b3423d01b8ff697a6b883d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b1ba538a2b3423d01b8ff697a6b883d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b1ba538a2b3423d01b8ff697a6b883d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1b1ba538a2b3423d01b8ff697a6b883d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b1ba538a2b3423d01b8ff697a6b883d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b1ba538a2b3423d01b8ff697a6b883d]: Textual amendment: Regulations revoked (31.10.2015) by [The Grants for Fishing and Aquaculture Industries Regulations 2015 (S.I. 2015/1711)](https://www.legislation.gov.uk/uksi/2015/1711), regs. 1(1), [15(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/15/1) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/15/2))
+[^c-1b1ba538a2b3423d01b8ff697a6b883d]: Textual amendment: Regulations revoked (31.10.2015) by [The Grants for Fishing and Aquaculture Industries Regulations 2015 (S.I. 2015/1711)](https://www.legislation.gov.uk/uksi/2015/1711), regs. 1(1), [15(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/15/1) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/15/2))

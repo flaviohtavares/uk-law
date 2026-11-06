@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.34. Interpretation of creditor and notice to member State liquidator[^key-4d52716dd11323d319e09efd3d486a6f]
+## 1.34. Interpretation of creditor and notice to member State liquidator[^c-4d52716dd11323d319e09efd3d486a6f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d52716dd11323d319e09efd3d486a6f]: Textual amendment: [Pt. 1 Chs. 7](https://www.legislation.gov.uk/uksi/1986/1925/part/1/chapter/7), [8](https://www.legislation.gov.uk/uksi/1986/1925/part/1/chapter/8) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [4(4)](https://www.legislation.gov.uk/uksi/2002/1307/rule/4/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-4d52716dd11323d319e09efd3d486a6f]: Textual amendment: [Pt. 1 Chs. 7](https://www.legislation.gov.uk/uksi/1986/1925/part/1/chapter/7), [8](https://www.legislation.gov.uk/uksi/1986/1925/part/1/chapter/8) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [4(4)](https://www.legislation.gov.uk/uksi/2002/1307/rule/4/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))

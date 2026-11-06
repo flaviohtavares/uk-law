@@ -35,13 +35,13 @@ An Act for the better apportionment of rents and other periodical payments.
 
 [^c567599][^c567600][^c567601][^c567602]Whereas rents and some other periodical payments are not at common law apportionable (like interest on money lent) in respect of time, and for remedy of some of the mischiefs and inconveniences thereby arising divers statutes have been passed:
 
-And whereas it is expedient to make provision for the remedy of all such mischiefs and inconveniences:[^M_C_46550e19-233d-40c6-88ae-109559e5b5a2][^key-5b95bfafcf3908a3ccd7091a89e5b858][^key-dac04c7538493e7776a409a435d8c0d0]
+And whereas it is expedient to make provision for the remedy of all such mischiefs and inconveniences:[^M_C_46550e19-233d-40c6-88ae-109559e5b5a2][^c-5b95bfafcf3908a3ccd7091a89e5b858][^c-dac04c7538493e7776a409a435d8c0d0]
 
 ## 1. Short title.
 
 This Act may be cited for all purposes as “The Apportionment Act, 1870.”
 
-## 2. Rents, &c. to accrue from day to day and be apportionable in respect of time.[^key-03387a692320809538edaaac626a5c2c]
+## 2. Rents, &c. to accrue from day to day and be apportionable in respect of time.[^c-03387a692320809538edaaac626a5c2c]
 
 All rents, annuities, dividends, and other periodical payments in the nature of income (whether reserved or made payable under an instrument in writing or otherwise) shall, like interest on money lent, be considered as accruing from day to day, and shall be apportionable in respect of time accordingly.
 
@@ -81,8 +81,8 @@ The provisions of this Act shall not extend to any case in which it is or shall 
 
 [^M_C_46550e19-233d-40c6-88ae-109559e5b5a2]: Modification: Act excluded (E.W.S.) (1.9.2010) by [The Teachers Pensions Regulations 2010 (S.I. 2010/990)](https://www.legislation.gov.uk/uksi/2010/990), [reg. 111](https://www.legislation.gov.uk/uksi/2010/990/regulation/111)
 
-[^key-5b95bfafcf3908a3ccd7091a89e5b858]: Modification: Act excluded (E.W.) (1.4.2015) by [The Teachers' Pension Scheme Regulations 2014 (S.I. 2014/512)](https://www.legislation.gov.uk/uksi/2014/512), [reg. 166](https://www.legislation.gov.uk/uksi/2014/512/regulation/166) (with [reg. 183](https://www.legislation.gov.uk/uksi/2014/512/regulation/183))
+[^c-5b95bfafcf3908a3ccd7091a89e5b858]: Modification: Act excluded (E.W.) (1.4.2015) by [The Teachers' Pension Scheme Regulations 2014 (S.I. 2014/512)](https://www.legislation.gov.uk/uksi/2014/512), [reg. 166](https://www.legislation.gov.uk/uksi/2014/512/regulation/166) (with [reg. 183](https://www.legislation.gov.uk/uksi/2014/512/regulation/183))
 
-[^key-dac04c7538493e7776a409a435d8c0d0]: Modification: Act excluded (N.I.) (1.4.2015) by [The Teachers' Pension Scheme Regulations (Northern Ireland) 2014 (S.R. 2014/310)](https://www.legislation.gov.uk/nisr/2014/310), [reg. 166](https://www.legislation.gov.uk/nisr/2014/310/regulation/166)
+[^c-dac04c7538493e7776a409a435d8c0d0]: Modification: Act excluded (N.I.) (1.4.2015) by [The Teachers' Pension Scheme Regulations (Northern Ireland) 2014 (S.R. 2014/310)](https://www.legislation.gov.uk/nisr/2014/310), [reg. 166](https://www.legislation.gov.uk/nisr/2014/310/regulation/166)
 
-[^key-03387a692320809538edaaac626a5c2c]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/Vict/33-34/35/section/2) excluded (E.W.) (1.10.2013) by [Trusts (Capital and Income) Act 2013 (c. 1)](https://www.legislation.gov.uk/ukpga/2013/1), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2013/1/section/1/1), [5(3)](https://www.legislation.gov.uk/ukpga/2013/1/section/5/3) (with [s. 5(1)](https://www.legislation.gov.uk/ukpga/2013/1/section/5/1)); [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/676/article/4/a)
+[^c-03387a692320809538edaaac626a5c2c]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/Vict/33-34/35/section/2) excluded (E.W.) (1.10.2013) by [Trusts (Capital and Income) Act 2013 (c. 1)](https://www.legislation.gov.uk/ukpga/2013/1), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2013/1/section/1/1), [5(3)](https://www.legislation.gov.uk/ukpga/2013/1/section/5/3) (with [s. 5(1)](https://www.legislation.gov.uk/ukpga/2013/1/section/5/1)); [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/676/article/4/a)

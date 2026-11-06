@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Duties of qualifying institutions[^key-54dc36ba6750529f2317979af7df8964][^key-109e7448311bb6442ca655554bad0f07]
+## 15. Duties of qualifying institutions[^c-54dc36ba6750529f2317979af7df8964][^c-109e7448311bb6442ca655554bad0f07]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54dc36ba6750529f2317979af7df8964]: Commencement: S. 15 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-54dc36ba6750529f2317979af7df8964]: Commencement: S. 15 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-109e7448311bb6442ca655554bad0f07]: Commencement: S. 15 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)
+[^c-109e7448311bb6442ca655554bad0f07]: Commencement: S. 15 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)

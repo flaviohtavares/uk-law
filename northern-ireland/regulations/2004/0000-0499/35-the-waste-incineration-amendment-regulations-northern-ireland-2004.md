@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENT
 
-The Waste Incineration (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-6699a4a4838e1c22c5c8d0b9fb37b7f8]
+The Waste Incineration (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-6699a4a4838e1c22c5c8d0b9fb37b7f8]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 27th February 2004
 
-[^key-6699a4a4838e1c22c5c8d0b9fb37b7f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6699a4a4838e1c22c5c8d0b9fb37b7f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6699a4a4838e1c22c5c8d0b9fb37b7f8]
+## 1. Citation and commencement[^c-6699a4a4838e1c22c5c8d0b9fb37b7f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-6699a4a4838e1c22c5c8d0b9fb37b7f8]
+## 2. Amendment[^c-6699a4a4838e1c22c5c8d0b9fb37b7f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6699a4a4838e1c22c5c8d0b9fb37b7f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6699a4a4838e1c22c5c8d0b9fb37b7f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6699a4a4838e1c22c5c8d0b9fb37b7f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6699a4a4838e1c22c5c8d0b9fb37b7f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6699a4a4838e1c22c5c8d0b9fb37b7f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/35) revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))
+[^c-6699a4a4838e1c22c5c8d0b9fb37b7f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/35) revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))

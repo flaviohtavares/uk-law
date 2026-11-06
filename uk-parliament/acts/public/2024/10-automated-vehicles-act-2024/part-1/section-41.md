@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Notices[^key-f7f6a351c4186bb72b87ecc88fafc324]
+## 41. Notices[^c-f7f6a351c4186bb72b87ecc88fafc324]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ which can be used to issue notices under this Part to a licensed no-user-in-char
 
 ## Annotations
 
-[^key-f7f6a351c4186bb72b87ecc88fafc324]: Commencement: S. 41 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-f7f6a351c4186bb72b87ecc88fafc324]: Commencement: S. 41 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

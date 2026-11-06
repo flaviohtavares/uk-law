@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Guidance for social care workers, and health care professionals[^key-ff5c7800cbd72b1a36e8fb173096b55c]
+## 24. Guidance for social care workers, and health care professionals[^c-ff5c7800cbd72b1a36e8fb173096b55c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The registered person shall ensure that—
 
 ## Annotations
 
-[^key-ff5c7800cbd72b1a36e8fb173096b55c]: Commencement: Reg. 24 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-ff5c7800cbd72b1a36e8fb173096b55c]: Commencement: Reg. 24 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

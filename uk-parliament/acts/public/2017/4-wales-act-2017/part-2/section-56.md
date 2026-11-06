@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Financial assistance for inland waterway and sea freight[^key-5ead417bb5b2bdfb91b91fc0c08933df]
+## 56. Financial assistance for inland waterway and sea freight[^c-5ead417bb5b2bdfb91b91fc0c08933df]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ead417bb5b2bdfb91b91fc0c08933df]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2017/4/section/56) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-5ead417bb5b2bdfb91b91fc0c08933df]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2017/4/section/56) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)

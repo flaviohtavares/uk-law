@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Accountants’ reports.[^c13348282][^c19659541][^key-d96cf3ddb4f05a1076739eafaa8963ea]
+## 34. Accountants’ reports.[^c13348282][^c19659541][^c-d96cf3ddb4f05a1076739eafaa8963ea]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ the accountant must immediately give a report of the matter to the Society.
 
 [^c19659541]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/1974/47/section/34) applied by [Courts and Legal Services Act 1990 (c. 41)](https://www.legislation.gov.uk/ukpga/1990/41), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/1990/41/schedule/14/paragraph/8) (as substituted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 134](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/134) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193))); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/iii)
 
-[^key-d96cf3ddb4f05a1076739eafaa8963ea]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/1974/47/section/34) applied (with modifications) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-d96cf3ddb4f05a1076739eafaa8963ea]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/1974/47/section/34) applied (with modifications) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c19659581]: Textual amendment: [S. 34(1)(2)](https://www.legislation.gov.uk/ukpga/1974/47/section/34/1/2) substituted (31.3.2009) for s. 34(1)-(5A) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 35(2)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/35/2) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i)
 

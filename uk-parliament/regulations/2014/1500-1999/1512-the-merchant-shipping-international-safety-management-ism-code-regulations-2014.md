@@ -34,7 +34,7 @@ Merchant Shipping
 
 Safety
 
-The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2014 (revoked)[^key-c5b1f896d0b65e57284995df082bbb39]
+The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2014 (revoked)[^c-c5b1f896d0b65e57284995df082bbb39]
 
 Made
 
@@ -48,102 +48,102 @@ Coming into force
 
 18th July 2014
 
-[^key-c5b1f896d0b65e57284995df082bbb39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5b1f896d0b65e57284995df082bbb39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Interpretation and Application[^key-c5b1f896d0b65e57284995df082bbb39]
+## PART 1 — Interpretation and Application[^c-c5b1f896d0b65e57284995df082bbb39]
 
-### 1. Citation, commencement and revocation[^key-c5b1f896d0b65e57284995df082bbb39]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-c5b1f896d0b65e57284995df082bbb39]
+### 1. Citation, commencement and revocation[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application[^key-c5b1f896d0b65e57284995df082bbb39]
+### 2. Interpretation[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Compliance with ISM Code[^key-c5b1f896d0b65e57284995df082bbb39]
-
-### 4. Duty on ISM company where EU Regulation applies[^key-c5b1f896d0b65e57284995df082bbb39]
+### 3. Application[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Duty on ISM company where EU Regulation does not apply[^key-c5b1f896d0b65e57284995df082bbb39]
+## PART 2 — Compliance with ISM Code[^c-c5b1f896d0b65e57284995df082bbb39]
+
+### 4. Duty on ISM company where EU Regulation applies[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Certification requirements of regulations 4 and 5[^key-c5b1f896d0b65e57284995df082bbb39]
+### 5. Duty on ISM company where EU Regulation does not apply[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Duty of master[^key-c5b1f896d0b65e57284995df082bbb39]
+### 6. Certification requirements of regulations 4 and 5[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Designated person[^key-c5b1f896d0b65e57284995df082bbb39]
+### 7. Duty of master[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Certification[^key-c5b1f896d0b65e57284995df082bbb39]
-
-### 9. Issue and endorsement of documents by Certifying Authority[^key-c5b1f896d0b65e57284995df082bbb39]
+### 8. Designated person[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Issue and endorsement of documents by other governments[^key-c5b1f896d0b65e57284995df082bbb39]
+## PART 3 — Certification[^c-c5b1f896d0b65e57284995df082bbb39]
+
+### 9. Issue and endorsement of documents by Certifying Authority[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Issue and endorsement of documents on behalf of other governments[^key-c5b1f896d0b65e57284995df082bbb39]
+### 10. Issue and endorsement of documents by other governments[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Exemptions[^key-c5b1f896d0b65e57284995df082bbb39]
+### 11. Issue and endorsement of documents on behalf of other governments[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Suspension or cancellation of documents[^key-c5b1f896d0b65e57284995df082bbb39]
+### 12. Exemptions[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Detentions and Offences[^key-c5b1f896d0b65e57284995df082bbb39]
-
-### 14. Detention[^key-c5b1f896d0b65e57284995df082bbb39]
+### 13. Suspension or cancellation of documents[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Offences and penalties[^key-c5b1f896d0b65e57284995df082bbb39]
+## PART 4 — Detentions and Offences[^c-c5b1f896d0b65e57284995df082bbb39]
+
+### 14. Detention[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Defence[^key-c5b1f896d0b65e57284995df082bbb39]
+### 15. Offences and penalties[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Miscellaneous[^key-c5b1f896d0b65e57284995df082bbb39]
-
-### 17. Amendment to Merchant Shipping (Domestic Passenger Ships) (Safety Management Code) Regulations 2001[^key-c5b1f896d0b65e57284995df082bbb39]
+### 16. Defence[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Transitional provisions[^key-c5b1f896d0b65e57284995df082bbb39]
+## PART 5 — Miscellaneous[^c-c5b1f896d0b65e57284995df082bbb39]
+
+### 17. Amendment to Merchant Shipping (Domestic Passenger Ships) (Safety Management Code) Regulations 2001[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Review[^key-c5b1f896d0b65e57284995df082bbb39]
+### 18. Transitional provisions[^c-c5b1f896d0b65e57284995df082bbb39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5b1f896d0b65e57284995df082bbb39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 19. Review[^c-c5b1f896d0b65e57284995df082bbb39]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c5b1f896d0b65e57284995df082bbb39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c5b1f896d0b65e57284995df082bbb39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5b1f896d0b65e57284995df082bbb39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5b1f896d0b65e57284995df082bbb39]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/1512) revoked (31.3.2026) by [The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2026 (S.I. 2026/194)](https://www.legislation.gov.uk/uksi/2026/194), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/194/regulation/1/1), [Sch. para. 5(c)](https://www.legislation.gov.uk/uksi/2026/194/schedule/paragraph/5/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/194/regulation/5))
+[^c-c5b1f896d0b65e57284995df082bbb39]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/1512) revoked (31.3.2026) by [The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2026 (S.I. 2026/194)](https://www.legislation.gov.uk/uksi/2026/194), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/194/regulation/1/1), [Sch. para. 5(c)](https://www.legislation.gov.uk/uksi/2026/194/schedule/paragraph/5/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/194/regulation/5))

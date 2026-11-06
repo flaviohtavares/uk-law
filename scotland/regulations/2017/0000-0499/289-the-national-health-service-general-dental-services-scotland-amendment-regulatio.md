@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 25(1), (2) and (2A), 28A(4), 105(7) and 106(a) of the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-d39f90b878ab52355fd1dbef0de0f948]
+## 1. Citation and commencement[^c-d39f90b878ab52355fd1dbef0de0f948]
 
 (1) These Regulations may be cited as the National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017.
 
@@ -54,47 +54,47 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (4) Regulation 11(12) comes into force on 1st October 2018.
 
-(5)[^key-3936df0a3dc0740c0ed359a74021dfaf] Regulations 3(1)(d), 6 and 11(4)(a) come into force on 1 January 2020.
+(5)[^c-3936df0a3dc0740c0ed359a74021dfaf] Regulations 3(1)(d), 6 and 11(4)(a) come into force on 1 January 2020.
 
-## 2. Amendment of the National Health Service (General Dental Services) (Scotland) Regulations 2010[^key-d21816eb0774ffc0a2036862dae73f77]
+## 2. Amendment of the National Health Service (General Dental Services) (Scotland) Regulations 2010[^c-d21816eb0774ffc0a2036862dae73f77]
 
 The National Health Service (General Dental Services) (Scotland) Regulations 2010[^f00002] are amended in accordance with regulations 3 to 13.
 
-**3.**[^key-1da40e5335836e4291fab83e0d68c048][^key-a26f216d47166ec1e30e9f1b71f45beb] (1) In regulation 2(1) (interpretation)—
+**3.**[^c-1da40e5335836e4291fab83e0d68c048][^c-a26f216d47166ec1e30e9f1b71f45beb] (1) In regulation 2(1) (interpretation)—
 
-- (a)[^key-1da40e5335836e4291fab83e0d68c048] after the definition of “dental care professionals register” insert—
+- (a)[^c-1da40e5335836e4291fab83e0d68c048] after the definition of “dental care professionals register” insert—
 
   > - “Dental Core Training” means a period of postgraduate training following vocational training (or any equivalent training undertaken in England, Wales or Northern Ireland), administered in Scotland by NHS Education for Scotland and comprising clinical and educational sessions with regular assessment of the competencies required for progress;
 
   ;
-- (b)[^key-a26f216d47166ec1e30e9f1b71f45beb] after the definition of “disqualification” insert—
+- (b)[^c-a26f216d47166ec1e30e9f1b71f45beb] after the definition of “disqualification” insert—
 
   > - “electronic communication” has the meaning given by section 15(1) of the Electronic Communications Act 2000[^f00003];
 
   ;
-- (c)[^key-a26f216d47166ec1e30e9f1b71f45beb] for the definition of “estimate” substitute—
+- (c)[^c-a26f216d47166ec1e30e9f1b71f45beb] for the definition of “estimate” substitute—
 
   > - “estimate” means information submitted by a dentist to the SDPB in accordance with paragraph 28 of schedule 1 for the purpose of obtaining prior approval of care and treatment on a form supplied by the Health Board or in electronic form;
 
   ;
-- (d)[^key-bc322700a53f2fd2da7cd039bd2ca1ba] for the definition of “estimate” substitute—
+- (d)[^c-bc322700a53f2fd2da7cd039bd2ca1ba] for the definition of “estimate” substitute—
 
   > - “estimate” means information submitted by a dentist to the SDPB in accordance with paragraph 28 of schedule 1 for the purpose of obtaining prior approval of care and treatment;
 
   ;
-- (e)[^key-a26f216d47166ec1e30e9f1b71f45beb] after the definition of “estimate” insert—
+- (e)[^c-a26f216d47166ec1e30e9f1b71f45beb] after the definition of “estimate” insert—
 
   > - “form to like effect” includes where information that would otherwise be provided in a form supplied by the Health Board is compiled in electronic form (except where otherwise stated);
 
   ;
-- (f)[^key-a26f216d47166ec1e30e9f1b71f45beb] in the definition of “in writing”, for “transmission by electronic means” substitute “an electronic communication”;
+- (f)[^c-a26f216d47166ec1e30e9f1b71f45beb] in the definition of “in writing”, for “transmission by electronic means” substitute “an electronic communication”;
 - (g) after the definition of “orthodontist” insert—
 
   > - “Part 1 training” means a course of training provided by NHS Education for Scotland which includes training on radiology, managing medical emergencies including basic life support, infection prevention and control, consent, record keeping and best practice guidance;
   > - “Part 2 training” means a course of training provided by NHS Education for Scotland which includes training on consent, the content and application of these Regulations and other relevant rules and law, the Statement of Dental Remuneration, infection prevention and control, record keeping and best practice guidance;
 
   ;
-- (h)[^key-a26f216d47166ec1e30e9f1b71f45beb] for the definition of “practice record form” substitute–
+- (h)[^c-a26f216d47166ec1e30e9f1b71f45beb] for the definition of “practice record form” substitute–
 
   > - “practice record form” means a form referred to in, and completed in accordance with, paragraph 29(3)(a) or (5)(a) of schedule 1 in the context of obtaining general dental services;
 
@@ -110,9 +110,9 @@ The National Health Service (General Dental Services) (Scotland) Regulations 201
 
   .
 
-(2)[^key-0f631432df03d6e27c6d78ef9518322e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0f631432df03d6e27c6d78ef9518322e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-09f189183e10bce6bf8a18a8693cc217] After regulation 5 insert—
+**4.**[^c-09f189183e10bce6bf8a18a8693cc217] After regulation 5 insert—
 
 > **5A. Mandatory training**
 >
@@ -165,9 +165,9 @@ The National Health Service (General Dental Services) (Scotland) Regulations 201
 
 .
 
-**5.**[^key-5c93b3bb19fadb02d0ad192dbab07d16] In regulation 22(1) (statement of dental remuneration), in Column 2 of the Table, for “Clinical audit” substitute “Quality improvement”.
+**5.**[^c-5c93b3bb19fadb02d0ad192dbab07d16] In regulation 22(1) (statement of dental remuneration), in Column 2 of the Table, for “Clinical audit” substitute “Quality improvement”.
 
-**6.**[^key-1b08ba0d74d9ab0251a20d012cd55bda] In regulation 27 (prior approval – patterns of treatment)—
+**6.**[^c-1b08ba0d74d9ab0251a20d012cd55bda] In regulation 27 (prior approval – patterns of treatment)—
 
 - (a) after paragraph (2) insert—
 
@@ -183,9 +183,9 @@ The National Health Service (General Dental Services) (Scotland) Regulations 201
 
   .
 
-**7.**[^key-acfd0540520aea635db2bfc31da8dfb6] In regulation 31 (service of notices etc), in paragraph (1) for “Any notice” substitute “Except where otherwise stated, any notice”.
+**7.**[^c-acfd0540520aea635db2bfc31da8dfb6] In regulation 31 (service of notices etc), in paragraph (1) for “Any notice” substitute “Except where otherwise stated, any notice”.
 
-**8.**[^key-223afa060b5ba3d7446dd12a9d10dd14] After regulation 31 insert—
+**8.**[^c-223afa060b5ba3d7446dd12a9d10dd14] After regulation 31 insert—
 
 > **31A. Electronic Communications**
 >
@@ -193,9 +193,9 @@ The National Health Service (General Dental Services) (Scotland) Regulations 201
 
 .
 
-**9.**[^key-4d4f80087313796849d48bb1e3d1af84] In paragraph (1) of regulation 32 (signatures) for “With the exception of” to “paragraph 29(2) and (3) of Schedule 1, any”, substitute “Any”.
+**9.**[^c-4d4f80087313796849d48bb1e3d1af84] In paragraph (1) of regulation 32 (signatures) for “With the exception of” to “paragraph 29(2) and (3) of Schedule 1, any”, substitute “Any”.
 
-**10.**[^key-47818c2d2aa41eec08844fdb7783b6fb] Before schedule 1, insert schedule A1—
+**10.**[^c-47818c2d2aa41eec08844fdb7783b6fb] Before schedule 1, insert schedule A1—
 
 > **SCHEDULE A1 — Topics on which questions may be asked in the test of knowledge**
 >
@@ -227,34 +227,34 @@ The National Health Service (General Dental Services) (Scotland) Regulations 201
 
 .
 
-**11.**[^M_I_ffeac279-65bf-4d21-bc9d-69d1edf3bf0e][^key-623885848ad5f9153aaf7bed9732adc9][^key-f31a0b962ed1c8b7ff2e93553f82e456] (1)[^key-623885848ad5f9153aaf7bed9732adc9] Schedule 1 (terms of service for dentists) is amended as follows.
+**11.**[^M_I_ffeac279-65bf-4d21-bc9d-69d1edf3bf0e][^c-623885848ad5f9153aaf7bed9732adc9][^c-f31a0b962ed1c8b7ff2e93553f82e456] (1)[^c-623885848ad5f9153aaf7bed9732adc9] Schedule 1 (terms of service for dentists) is amended as follows.
 
-(2)[^key-623885848ad5f9153aaf7bed9732adc9] In paragraph 4(1) (a continuing care arrangement)—
+(2)[^c-623885848ad5f9153aaf7bed9732adc9] In paragraph 4(1) (a continuing care arrangement)—
 
 - (a) in head (a)(i), after “form of acceptance” insert “, in writing,”; and
 - (b) in head (b), after “plan for treatment” insert “, in writing,”.
 
-(3)[^key-623885848ad5f9153aaf7bed9732adc9] In paragraph 5(1) (a capitation arrangement)—
+(3)[^c-623885848ad5f9153aaf7bed9732adc9] In paragraph 5(1) (a capitation arrangement)—
 
 - (a) in head (b)(ii), after “form of acceptance” insert “, in writing,”; and
 - (b) in head (c) after “plan for treatment” insert “, in writing,”.
 
 (4) In paragraph 14 (treatment on referral)—
 
-- (a)[^key-88c72dfe15916c14ee201951edc0f78d] in sub-paragraph (3) after “in writing” insert “(including by an electronic communication)”; and
-- (b)[^key-623885848ad5f9153aaf7bed9732adc9] in sub-paragraph (4)—
+- (a)[^c-88c72dfe15916c14ee201951edc0f78d] in sub-paragraph (3) after “in writing” insert “(including by an electronic communication)”; and
+- (b)[^c-623885848ad5f9153aaf7bed9732adc9] in sub-paragraph (4)—
   - (i) in head (a), after “form of acceptance” insert “, in writing,”; and
   - (ii) in head (b), after “plan for treatment” insert “, in writing,”.
 
-(5)[^key-623885848ad5f9153aaf7bed9732adc9] In paragraph 15 (inability of contractor to complete care and treatment), after “in writing” insert “(including by an electronic communication)”.
+(5)[^c-623885848ad5f9153aaf7bed9732adc9] In paragraph 15 (inability of contractor to complete care and treatment), after “in writing” insert “(including by an electronic communication)”.
 
-(6)[^key-623885848ad5f9153aaf7bed9732adc9] In paragraph 16 (care and treatment summaries), after “to the patient” insert “in writing (including by an electronic communication)”.
+(6)[^c-623885848ad5f9153aaf7bed9732adc9] In paragraph 16 (care and treatment summaries), after “to the patient” insert “in writing (including by an electronic communication)”.
 
-(7)[^key-623885848ad5f9153aaf7bed9732adc9] In paragraph 18(3) (occasional treatment), after “in writing” insert “(including by an electronic communication)”.
+(7)[^c-623885848ad5f9153aaf7bed9732adc9] In paragraph 18(3) (occasional treatment), after “in writing” insert “(including by an electronic communication)”.
 
-(8)[^key-623885848ad5f9153aaf7bed9732adc9] In paragraph 19(4) (referral for occasional treatment), after “in writing” insert “(including by an electronic communication)”.
+(8)[^c-623885848ad5f9153aaf7bed9732adc9] In paragraph 19(4) (referral for occasional treatment), after “in writing” insert “(including by an electronic communication)”.
 
-(9)[^key-623885848ad5f9153aaf7bed9732adc9] In paragraph 20 (remuneration)—
+(9)[^c-623885848ad5f9153aaf7bed9732adc9] In paragraph 20 (remuneration)—
 
 - (a) for sub-paragraph (2) substitute—
 
@@ -284,7 +284,7 @@ The National Health Service (General Dental Services) (Scotland) Regulations 201
   - (ii) for “(2)(b)” substitute “(2) or (2A)”; and
   - (iii) for “programme” substitute “program”.
 
-(10)[^key-623885848ad5f9153aaf7bed9732adc9] In paragraph 27 (records)—
+(10)[^c-623885848ad5f9153aaf7bed9732adc9] In paragraph 27 (records)—
 
 - (a) in sub-paragraph (3)(i), after “Health Board” insert “, including, where appropriate and requested by that officer, in electronic form”;
 - (b) after sub-paragraph (3) insert—
@@ -294,9 +294,9 @@ The National Health Service (General Dental Services) (Scotland) Regulations 201
   ; and
 - (c) in sub-paragraph (4), for “computerised” substitute “electronic”.
 
-(11)[^key-623885848ad5f9153aaf7bed9732adc9] In paragraph 28(7) (prior approval of care and treatment), for “send” substitute “submit”.
+(11)[^c-623885848ad5f9153aaf7bed9732adc9] In paragraph 28(7) (prior approval of care and treatment), for “send” substitute “submit”.
 
-(12)[^key-f31a0b962ed1c8b7ff2e93553f82e456] In paragraph 29 (completion of estimate)—
+(12)[^c-f31a0b962ed1c8b7ff2e93553f82e456] In paragraph 29 (completion of estimate)—
 
 - (a) in sub-paragraph (1), for “sub-paragraphs (2) and (3)” substitute “sub-paragraphs (3) and (5)”;
 - (b) omit sub-paragraph (2);
@@ -322,7 +322,7 @@ The National Health Service (General Dental Services) (Scotland) Regulations 201
 
   .
 
-(13)[^key-623885848ad5f9153aaf7bed9732adc9] Paragraph 40 (clinical audit activities) is amended as follows—
+(13)[^c-623885848ad5f9153aaf7bed9732adc9] Paragraph 40 (clinical audit activities) is amended as follows—
 
 - (a) the heading becomes “Quality improvement activities”;
 - (b) for “clinical audit” in each place it occurs substitute “quality improvement”; and
@@ -332,7 +332,7 @@ The National Health Service (General Dental Services) (Scotland) Regulations 201
 
   .
 
-**12.**[^key-31289b3557158b0fc38ed613cb0c6478] (1) Paragraph 1 of Part IA of schedule 2 (information, declarations etc. to be included in application for inclusion in sub-part A of first part of dental list) is amended as follows.
+**12.**[^c-31289b3557158b0fc38ed613cb0c6478] (1) Paragraph 1 of Part IA of schedule 2 (information, declarations etc. to be included in application for inclusion in sub-part A of first part of dental list) is amended as follows.
 
 (2) In sub-paragraph (u), omit “or” at the end of head (iii).
 
@@ -343,7 +343,7 @@ The National Health Service (General Dental Services) (Scotland) Regulations 201
 
 .
 
-**13.**[^key-e1d7fb1592e9a0d2d8a5d84071d8a265] (1) Paragraph 1 of Part II of schedule 2 (information, declarations etc. to be included in an application for inclusion in the second part of the dental list) is amended as follows.
+**13.**[^c-e1d7fb1592e9a0d2d8a5d84071d8a265] (1) Paragraph 1 of Part II of schedule 2 (information, declarations etc. to be included in an application for inclusion in the second part of the dental list) is amended as follows.
 
 (2) At the end of sub-paragraph (j) omit “and”.
 
@@ -354,7 +354,7 @@ The National Health Service (General Dental Services) (Scotland) Regulations 201
 
 .
 
-## 14. Saving provision[^key-7c50e429915ec6b1960bc08947bd7bae]
+## 14. Saving provision[^c-7c50e429915ec6b1960bc08947bd7bae]
 
 An application for inclusion in sub-part A of the first part, or in the second part, of a dental list made in accordance with regulation 5 of the National Health Service (General Dental Services) (Scotland) Regulations 2010[^f00005] before 26th October 2017 is to be determined in accordance with the National Health Service (General Dental Services) (Scotland) Regulations 2010 as they had effect immediately before that date.
 
@@ -417,52 +417,52 @@ Regulation 12 amends paragraph 1 of Part IA of schedule 2 of the 2010 Regulation
 
 [^f00001]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29); section 25(1) was amended by the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13) (“the 2005 Act”), section 15; section 25(2) and (2A) were substituted by the 2005 Act, section 17; section 28A was inserted by the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), section 57 and amended by the Primary Medical Services (Scotland) Act [2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), schedule 1, paragraph 1; section 105(7) was amended by the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53), schedule 6, paragraph 5(1) and schedule 7, the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), section 29(1) and schedule 9, Part 1, paragraph 24 and the 1999 Act, schedule 4, paragraph 60; section 108(1) contains a definition of “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-d39f90b878ab52355fd1dbef0de0f948]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/289/regulation/1) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
+[^c-d39f90b878ab52355fd1dbef0de0f948]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/289/regulation/1) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
 
-[^key-3936df0a3dc0740c0ed359a74021dfaf]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/5) substituted (1.12.2018) by [The National Health Service (General Dental Services) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/300)](https://www.legislation.gov.uk/ssi/2018/300), [regs. 1](https://www.legislation.gov.uk/ssi/2018/300/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2018/300/regulation/3/2)
+[^c-3936df0a3dc0740c0ed359a74021dfaf]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/5) substituted (1.12.2018) by [The National Health Service (General Dental Services) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/300)](https://www.legislation.gov.uk/ssi/2018/300), [regs. 1](https://www.legislation.gov.uk/ssi/2018/300/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2018/300/regulation/3/2)
 
-[^key-d21816eb0774ffc0a2036862dae73f77]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/289/regulation/2) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
+[^c-d21816eb0774ffc0a2036862dae73f77]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/289/regulation/2) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
 
 [^f00002]: Footnote: [S.S.I. 2010/208](https://www.legislation.gov.uk/ssi/2010/208); relevant amending instruments are [S.S.I. 2010/378](https://www.legislation.gov.uk/ssi/2010/378) and [S.S.I. 2016/53](https://www.legislation.gov.uk/ssi/2016/53).
 
-[^key-1da40e5335836e4291fab83e0d68c048]: Commencement: [Reg. 3(1)(a)](https://www.legislation.gov.uk/ssi/2017/289/regulation/3/1/a)[(g)(i)(j)](https://www.legislation.gov.uk/ssi/2017/289/regulation/3/1/g/i/j) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
+[^c-1da40e5335836e4291fab83e0d68c048]: Commencement: [Reg. 3(1)(a)](https://www.legislation.gov.uk/ssi/2017/289/regulation/3/1/a)[(g)(i)(j)](https://www.legislation.gov.uk/ssi/2017/289/regulation/3/1/g/i/j) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
 
-[^key-a26f216d47166ec1e30e9f1b71f45beb]: Commencement: Reg. 3(1)(b)(c)(e)(f)(h)(2) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3)
+[^c-a26f216d47166ec1e30e9f1b71f45beb]: Commencement: Reg. 3(1)(b)(c)(e)(f)(h)(2) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3)
 
 [^f00003]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); section 15(1) was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), schedule 17, paragraph 158.
 
-[^key-bc322700a53f2fd2da7cd039bd2ca1ba]: Commencement: [Reg. 3(1)(d)](https://www.legislation.gov.uk/ssi/2017/289/regulation/3/1/d) in force at 1.1.2020, see [reg. 1(5)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/5) (as amended (1.12.2018) by [S.S.I. 2018/300](https://www.legislation.gov.uk/ssi/2018/300), [regs. 1](https://www.legislation.gov.uk/ssi/2018/300/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2018/300/regulation/3/2))
+[^c-bc322700a53f2fd2da7cd039bd2ca1ba]: Commencement: [Reg. 3(1)(d)](https://www.legislation.gov.uk/ssi/2017/289/regulation/3/1/d) in force at 1.1.2020, see [reg. 1(5)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/5) (as amended (1.12.2018) by [S.S.I. 2018/300](https://www.legislation.gov.uk/ssi/2018/300), [regs. 1](https://www.legislation.gov.uk/ssi/2018/300/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2018/300/regulation/3/2))
 
-[^key-0f631432df03d6e27c6d78ef9518322e]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/3/2) omitted (1.12.2018) by virtue of [The National Health Service (General Dental Services) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/300)](https://www.legislation.gov.uk/ssi/2018/300), [regs. 1](https://www.legislation.gov.uk/ssi/2018/300/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2018/300/regulation/3/3)
+[^c-0f631432df03d6e27c6d78ef9518322e]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/3/2) omitted (1.12.2018) by virtue of [The National Health Service (General Dental Services) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/300)](https://www.legislation.gov.uk/ssi/2018/300), [regs. 1](https://www.legislation.gov.uk/ssi/2018/300/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2018/300/regulation/3/3)
 
-[^key-09f189183e10bce6bf8a18a8693cc217]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/289/regulation/4) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
+[^c-09f189183e10bce6bf8a18a8693cc217]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/289/regulation/4) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
 
-[^key-5c93b3bb19fadb02d0ad192dbab07d16]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/289/regulation/5) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
+[^c-5c93b3bb19fadb02d0ad192dbab07d16]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/289/regulation/5) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
 
-[^key-1b08ba0d74d9ab0251a20d012cd55bda]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/289/regulation/6) in force at 1.1.2020, see [reg. 1(5)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/5) (as amended (1.12.2018) by [S.S.I. 2018/300](https://www.legislation.gov.uk/ssi/2018/300), [regs. 1](https://www.legislation.gov.uk/ssi/2018/300/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2018/300/regulation/3/2))
+[^c-1b08ba0d74d9ab0251a20d012cd55bda]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/289/regulation/6) in force at 1.1.2020, see [reg. 1(5)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/5) (as amended (1.12.2018) by [S.S.I. 2018/300](https://www.legislation.gov.uk/ssi/2018/300), [regs. 1](https://www.legislation.gov.uk/ssi/2018/300/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2018/300/regulation/3/2))
 
-[^key-acfd0540520aea635db2bfc31da8dfb6]: Commencement: Reg. 7 in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3)
+[^c-acfd0540520aea635db2bfc31da8dfb6]: Commencement: Reg. 7 in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3)
 
-[^key-223afa060b5ba3d7446dd12a9d10dd14]: Commencement: Reg. 8 in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3)
+[^c-223afa060b5ba3d7446dd12a9d10dd14]: Commencement: Reg. 8 in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3)
 
-[^key-4d4f80087313796849d48bb1e3d1af84]: Commencement: Reg. 9 in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3)
+[^c-4d4f80087313796849d48bb1e3d1af84]: Commencement: Reg. 9 in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3)
 
-[^key-47818c2d2aa41eec08844fdb7783b6fb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2017/289/regulation/10) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
+[^c-47818c2d2aa41eec08844fdb7783b6fb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2017/289/regulation/10) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
 
 [^M_I_ffeac279-65bf-4d21-bc9d-69d1edf3bf0e]: Commencement: [Reg. 11(11)](https://www.legislation.gov.uk/ssi/2017/289/regulation/11/11)[(13)](https://www.legislation.gov.uk/ssi/2017/289/regulation/11/13) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3)
 
-[^key-623885848ad5f9153aaf7bed9732adc9]: Commencement: [Reg. 11(1)-(3), (4)(b), (5)-(10)](https://www.legislation.gov.uk/ssi/2017/289/regulation/11/1) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3)
+[^c-623885848ad5f9153aaf7bed9732adc9]: Commencement: [Reg. 11(1)-(3), (4)(b), (5)-(10)](https://www.legislation.gov.uk/ssi/2017/289/regulation/11/1) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3)
 
-[^key-f31a0b962ed1c8b7ff2e93553f82e456]: Commencement: [Reg. 11(12)](https://www.legislation.gov.uk/ssi/2017/289/regulation/11/12) in force at 1.10.2018, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/4)
+[^c-f31a0b962ed1c8b7ff2e93553f82e456]: Commencement: [Reg. 11(12)](https://www.legislation.gov.uk/ssi/2017/289/regulation/11/12) in force at 1.10.2018, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/4)
 
-[^key-88c72dfe15916c14ee201951edc0f78d]: Commencement: [Reg. 11(4)(a)](https://www.legislation.gov.uk/ssi/2017/289/regulation/11/4/a) in force at 1.1.2020, see [reg. 1(5)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/5) (as amended (1.12.2018) by [S.S.I. 2018/300](https://www.legislation.gov.uk/ssi/2018/300), [regs. 1](https://www.legislation.gov.uk/ssi/2018/300/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2018/300/regulation/3/2))
+[^c-88c72dfe15916c14ee201951edc0f78d]: Commencement: [Reg. 11(4)(a)](https://www.legislation.gov.uk/ssi/2017/289/regulation/11/4/a) in force at 1.1.2020, see [reg. 1(5)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/5) (as amended (1.12.2018) by [S.S.I. 2018/300](https://www.legislation.gov.uk/ssi/2018/300), [regs. 1](https://www.legislation.gov.uk/ssi/2018/300/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2018/300/regulation/3/2))
 
-[^key-31289b3557158b0fc38ed613cb0c6478]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2017/289/regulation/12) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
+[^c-31289b3557158b0fc38ed613cb0c6478]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2017/289/regulation/12) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
 
 [^f00004]: Footnote: [S.S.I. 2016/53](https://www.legislation.gov.uk/ssi/2016/53). The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016 (“2016 Regulations”) contained a lettering error. Schedule 2(IA) of the National Health Service (General Dental Services) (Scotland) Regulations 2010 already contained a sub-paragraph 1(v) and the new sub-paragraphs inserted by regulation 2(5) of the 2016 Regulations should have been named sub-paragraphs (w) and (x). These Regulations re-name and amend sub-paragraphs (v) and (w) which were apparently inserted by the 2016 Regulations.
 
-[^key-e1d7fb1592e9a0d2d8a5d84071d8a265]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2017/289/regulation/13) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
+[^c-e1d7fb1592e9a0d2d8a5d84071d8a265]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2017/289/regulation/13) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
 
-[^key-7c50e429915ec6b1960bc08947bd7bae]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
+[^c-7c50e429915ec6b1960bc08947bd7bae]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14) in force at 26.10.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2)
 
 [^f00005]: Footnote: [S.S.I. 2010/208](https://www.legislation.gov.uk/ssi/2010/208); relevant amending instruments are [S.S.I. 2010/378](https://www.legislation.gov.uk/ssi/2010/378) and [S.S.I. 2016/53](https://www.legislation.gov.uk/ssi/2016/53).

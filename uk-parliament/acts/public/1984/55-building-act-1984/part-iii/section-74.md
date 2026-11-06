@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-636b43b2ce2ce3d24d96b13174f9507d][^key-76db7c6216833bc3df879fae049a95db] No person shall without the consent of the local authority construct a cellar or room in, or as part of, a house, shop, inn, hotel or office if the floor level of the cellar or room is lower than the ordinary level of the subsoil water on, under or adjacent to the site of the house, shop, inn, hotel or office.
+(1)[^c-636b43b2ce2ce3d24d96b13174f9507d][^c-76db7c6216833bc3df879fae049a95db] No person shall without the consent of the local authority construct a cellar or room in, or as part of, a house, shop, inn, hotel or office if the floor level of the cellar or room is lower than the ordinary level of the subsoil water on, under or adjacent to the site of the house, shop, inn, hotel or office.
 
 (2) Subsection (1) above does not apply to—
 
-- (a)[^key-096ed8ed61b7ed57fdef01ab832a4af8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-096ed8ed61b7ed57fdef01ab832a4af8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the construction of a cellar or room in connection with a shop, inn, hotel or office that forms part of a railway station.
 
 (3) If a person constructs a cellar or room in contravention of subsection (1) above, or of any condition attached to a consent under this section—
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-636b43b2ce2ce3d24d96b13174f9507d]: Modification: S. 74(1) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/22/paragraph/5/1)
+[^c-636b43b2ce2ce3d24d96b13174f9507d]: Modification: S. 74(1) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/22/paragraph/5/1)
 
-[^key-76db7c6216833bc3df879fae049a95db]: Modification: S. 74(1) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/22/paragraph/5/1)
+[^c-76db7c6216833bc3df879fae049a95db]: Modification: S. 74(1) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/22/paragraph/5/1)
 
-[^key-096ed8ed61b7ed57fdef01ab832a4af8]: Textual amendment: S. 74(2)(a) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 92](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/92), Sch. [7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-096ed8ed61b7ed57fdef01ab832a4af8]: Textual amendment: S. 74(2)(a) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 92](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/92), Sch. [7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

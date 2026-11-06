@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 17.1. Methods of service etc.[^key-e09a3525331c18451f28e22865a992e0]
+## 17.1. Methods of service etc.[^c-e09a3525331c18451f28e22865a992e0]
 
 *Extent: E*
 
-(1) Subject to any other provision of these Rules, any document may be served or sent[^key-58ef0a5c31c945c90b241d23270bbcc6] by any of the following methods—
+(1) Subject to any other provision of these Rules, any document may be served or sent[^c-58ef0a5c31c945c90b241d23270bbcc6] by any of the following methods—
 
 - (a) delivering it to or leaving it at the proper address of the person to be served;
 - (b) sending it by first class post to that address;
@@ -32,13 +32,13 @@ summary: ''
 
 - (a) delivered to the registry;
 - (b) sent by first class post addressed to the registrar at the registry; or
-- (bb)[^key-9c8cdb6f0db96725a9779b0eec776087] in the case of an objection to works or proposals in response to a public notice under Part 6, by email to the email address for the diocesan registrar given on the public notice;
+- (bb)[^c-9c8cdb6f0db96725a9779b0eec776087] in the case of an objection to works or proposals in response to a public notice under Part 6, by email to the email address for the diocesan registrar given on the public notice;
 - (c) submitted by such other means (including electronic means) as the registrar may allow.
 
 ## Annotations
 
-[^key-e09a3525331c18451f28e22865a992e0]: Commencement: [Rule 17.1](https://www.legislation.gov.uk/uksi/2015/1568/article/17.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-e09a3525331c18451f28e22865a992e0]: Commencement: [Rule 17.1](https://www.legislation.gov.uk/uksi/2015/1568/article/17.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
 
-[^key-58ef0a5c31c945c90b241d23270bbcc6]: Textual amendment: Words in [rule 17.1(1)](https://www.legislation.gov.uk/uksi/2015/1568/rule/17.1/1) inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [17(a)(i)](https://www.legislation.gov.uk/uksi/2019/1184/rule/17/a/i)
+[^c-58ef0a5c31c945c90b241d23270bbcc6]: Textual amendment: Words in [rule 17.1(1)](https://www.legislation.gov.uk/uksi/2015/1568/rule/17.1/1) inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [17(a)(i)](https://www.legislation.gov.uk/uksi/2019/1184/rule/17/a/i)
 
-[^key-9c8cdb6f0db96725a9779b0eec776087]: Textual amendment: [Rule 17.1(2)(bb)](https://www.legislation.gov.uk/uksi/2015/1568/rule/17.1/2/bb) inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1184/rule/17/a/ii)
+[^c-9c8cdb6f0db96725a9779b0eec776087]: Textual amendment: [Rule 17.1(2)(bb)](https://www.legislation.gov.uk/uksi/2015/1568/rule/17.1/2/bb) inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1184/rule/17/a/ii)

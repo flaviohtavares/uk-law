@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Amount of the grant for travel – overseas study[^key-95e7256ab57f3105e2498a3910ad8dee]
+## 54. Amount of the grant for travel – overseas study[^c-95e7256ab57f3105e2498a3910ad8dee]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ The amount of grant payable under regulation 53 in respect of an academic year i
 - *X* is the aggregate of the reasonable travel costs that the eligible student is obliged to incur in each qualifying quarter for the purposes set out in regulation 53.
 - *Y* is the aggregate of the expenditure incurred in each qualifying quarter specified in regulation 55.
 
-**55.**[^key-3f815af1e6fe4d9f2d5231f7fee724ed] The expenditure specified in this regulation is—
+**55.**[^c-3f815af1e6fe4d9f2d5231f7fee724ed] The expenditure specified in this regulation is—
 
 - (a) expenditure that the eligible student reasonably incurs in insuring against liability for the cost of medical treatment provided outside the United Kingdom for any illness or bodily injury contracted or suffered during the period the student is attending the overseas institution or the Institute;
 - (b) the cost of a visa or visas that the eligible student is obliged to obtain in order to attend the overseas institution or the Institute; and
@@ -34,6 +34,6 @@ The amount of grant payable under regulation 53 in respect of an academic year i
 
 ## Annotations
 
-[^key-95e7256ab57f3105e2498a3910ad8dee]: Commencement: Reg. 54 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-95e7256ab57f3105e2498a3910ad8dee]: Commencement: Reg. 54 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-3f815af1e6fe4d9f2d5231f7fee724ed]: Commencement: Reg. 55 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-3f815af1e6fe4d9f2d5231f7fee724ed]: Commencement: Reg. 55 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

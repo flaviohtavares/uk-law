@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Certificate of compliance[^key-daf4c845c39709c9900d037287656917]
+## 13. Certificate of compliance[^c-daf4c845c39709c9900d037287656917]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In paragraph (1) the period for filing shall be as soon as reasonably practicable before the hearing of the application.
 
-(3) In paragraph (2), leave out the words “a copy or[^key-65101de6558ca36829f8a28923405011]” to the end, and insert—
+(3) In paragraph (2), leave out the words “a copy or[^c-65101de6558ca36829f8a28923405011]” to the end, and insert—
 
 > A witness statement made by the proposed bank liquidator to the effect that—
 >
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-daf4c845c39709c9900d037287656917]: Commencement: Rule 13 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-daf4c845c39709c9900d037287656917]: Commencement: Rule 13 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-65101de6558ca36829f8a28923405011]: Textual amendment: Words in [rule 13(3)](https://www.legislation.gov.uk/uksi/2009/356/rule/13/3) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [10](https://www.legislation.gov.uk/uksi/2010/2579/rule/10)
+[^c-65101de6558ca36829f8a28923405011]: Textual amendment: Words in [rule 13(3)](https://www.legislation.gov.uk/uksi/2009/356/rule/13/3) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [10](https://www.legislation.gov.uk/uksi/2010/2579/rule/10)

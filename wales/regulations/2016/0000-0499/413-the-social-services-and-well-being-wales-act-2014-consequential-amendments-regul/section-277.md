@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**277.**[^key-8fba81939bab3ae9231e42f0984b6554] Omit section 69 (local authority social services functions).
+**277.**[^c-8fba81939bab3ae9231e42f0984b6554] Omit section 69 (local authority social services functions).
 
 ## Annotations
 
-[^key-8fba81939bab3ae9231e42f0984b6554]: Commencement: Reg. 277 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-8fba81939bab3ae9231e42f0984b6554]: Commencement: Reg. 277 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

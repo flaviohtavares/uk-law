@@ -40,17 +40,17 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment.
 
-A draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament in accordance with paragraph 2(2) of Schedule 2 to that Act.[^key-9cbc157ae7b165f4b9226e18df18318d]
+A draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament in accordance with paragraph 2(2) of Schedule 2 to that Act.[^c-9cbc157ae7b165f4b9226e18df18318d]
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of that Act.[^key-9cbc157ae7b165f4b9226e18df18318d]
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of that Act.[^c-9cbc157ae7b165f4b9226e18df18318d]
 
 ## General
 
-### 1. Citation and commencement[^key-163bc48f384d32a2348bc2cea84e54bd]
+### 1. Citation and commencement[^c-163bc48f384d32a2348bc2cea84e54bd]
 
 These Regulations may be cited as the Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011, and come into force on the day after the day on which they are made.
 
-### 2. Review[^key-f727b3f1492347d143bbda98dd07fbcf]
+### 2. Review[^c-f727b3f1492347d143bbda98dd07fbcf]
 
 (1) Before the end of each review period, the Secretary of State must—
 
@@ -73,7 +73,7 @@ These Regulations may be cited as the Storage of Carbon Dioxide (Access to Infra
 
 (5) If a report under this regulation is published before the last day of the review period to which it relates, the following review period is to begin with the day on which that report is published.
 
-### 3. Interpretation[^key-16061f599f35ea81076918428047fb2c]
+### 3. Interpretation[^c-16061f599f35ea81076918428047fb2c]
 
 (1) In these Regulations—
 
@@ -104,7 +104,7 @@ These Regulations may be cited as the Storage of Carbon Dioxide (Access to Infra
 - “operator”, in relation to a storage permit, means the person who carries on or (where different) controls activities at the storage site;
 - “owner” has the meaning given to it in regulation 5;
 - “pipeline variation notice” has the meaning given to it in regulation 8(2);
-- “planning permission” means permission under Part 3 of the Town and Country Planning Act 1990[^f00012] or under Part 3 or, in relation to England, Part 13[^key-d1451aad3677585d594c2c7a71d2cfda] of the Town and Country Planning (Scotland) Act 1997[^f00013];
+- “planning permission” means permission under Part 3 of the Town and Country Planning Act 1990[^f00012] or under Part 3 or, in relation to England, Part 13[^c-d1451aad3677585d594c2c7a71d2cfda] of the Town and Country Planning (Scotland) Act 1997[^f00013];
 - “relevant infrastructure” means a relevant pipeline or a relevant storage site;
 - “relevant pipeline” means—
   - (a) a controlled carbon dioxide pipeline; or
@@ -125,7 +125,7 @@ These Regulations may be cited as the Storage of Carbon Dioxide (Access to Infra
 - “CO<sub>2</sub> stream”;
 - “storage site”.
 
-### 4. Meaning of “authority”[^key-38c2bb45c344bed90c90a0284a3fec4f]
+### 4. Meaning of “authority”[^c-38c2bb45c344bed90c90a0284a3fec4f]
 
 (1) For the purposes of regulation 7 and of regulations 9, 10 and 12 in so far as they relate to variation conditions the authority is that one of—
 
@@ -151,7 +151,7 @@ that has the function of deciding the application for consent in respect of the 
   - (ii) in, under or over so much of the internal waters of the United Kingdom as are adjacent to England or Wales;
   - (iii) in, under or over controlled waters other than the territorial sea adjacent to Scotland.
 
-### 5. Meaning of “owner”[^key-65b5ed26adf263bf20e29f307a7d9322]
+### 5. Meaning of “owner”[^c-65b5ed26adf263bf20e29f307a7d9322]
 
 (1) Except as provided in paragraph (2), in these Regulations, “owner”, in relation to relevant infrastructure, means any of the following—
 
@@ -176,7 +176,7 @@ that has the function of deciding the application for consent in respect of the 
 
 (3) In this regulation, “storage licence” means the licence under which the use of a place as the storage site is authorised.
 
-### 6. Meaning of “associate”[^key-95207231d7885f3e6da599f1ab181800]
+### 6. Meaning of “associate”[^c-95207231d7885f3e6da599f1ab181800]
 
 (1) For the purposes of regulations 12(5), 12(7) and 17(3) a person is an associate of another if—
 
@@ -209,7 +209,7 @@ and paragraphs (2) to (6) set out the circumstances in which one person (“A”
 
 ## Variation conditions
 
-### 7. Variation conditions[^key-65caa0e50582734d5d9fd3286df98f21]
+### 7. Variation conditions[^c-65caa0e50582734d5d9fd3286df98f21]
 
 (1) Subject to paragraph (5), this regulation applies where an application for a consent in respect of relevant infrastructure is considered by the authority.
 
@@ -235,7 +235,7 @@ and paragraphs (2) to (6) set out the circumstances in which one person (“A”
 
 (5) This regulation does not apply where the application for a consent is an application for the grant of a construction authorisation which relates to the construction of a diversion.
 
-### 8. Pipeline variation notices[^key-b389b0a07ccd0df323cdb94ef41bc4f6]
+### 8. Pipeline variation notices[^c-b389b0a07ccd0df323cdb94ef41bc4f6]
 
 (1) This regulation applies where an application is made for the grant of planning permission for the construction of a relevant pipeline.
 
@@ -258,7 +258,7 @@ and paragraphs (2) to (6) set out the circumstances in which one person (“A”
 - (c) any person with a right to have carbon dioxide conveyed by the proposed relevant pipeline;
 - (d) the Health and Safety Executive or the Health and Safety Executive for Northern Ireland, as appropriate.
 
-### 9. Notices relating to costs etc.[^key-d22f315ab80321b741597c0c3094f1f7]
+### 9. Notices relating to costs etc.[^c-d22f315ab80321b741597c0c3094f1f7]
 
 (1) Where a consent contains a variation condition under regulation 7, or a pipeline variation notice has been served under regulation 8, the authority may serve a notice in accordance with paragraph (2) on—
 
@@ -272,7 +272,7 @@ and paragraphs (2) to (6) set out the circumstances in which one person (“A”
 - (c) provide that the holder may, if those arrangements are not made by the third party within the period specified in the notice, elect (in the manner specified in the notice) that the variation condition or pipeline variation notice is, as specified in the notice, to be withdrawn or to have effect with such modifications as are so specified with a view to eliminating the consequences of the representations of the third party; and
 - (d) authorise the holder, if the authority is satisfied that the relevant infrastructure or a relevant part of it has been or will be constructed in accordance with the variation condition or pipeline variation notice, to recover those sums from the third party.
 
-### 10. Acquisition of rights to use proposed relevant infrastructure[^key-6dfa56f158f480149deafee9a25c4c3a]
+### 10. Acquisition of rights to use proposed relevant infrastructure[^c-6dfa56f158f480149deafee9a25c4c3a]
 
 (1) Where relevant infrastructure is proposed to be constructed pursuant to a consent to which a variation condition is attached by virtue of regulation 7(2) or in accordance with a pipeline variation notice, any person other than the holder may make an application under regulation 12(2) in respect of the proposed relevant infrastructure.
 
@@ -280,7 +280,7 @@ and paragraphs (2) to (6) set out the circumstances in which one person (“A”
 
 (3) In the circumstances set out in paragraphs (1) and (2), regulations 12 and 13 have effect as if references to relevant infrastructure were references to the infrastructure as it would be once constructed in accordance with the variation condition or pipeline variation notice, and as if references to the owner of the relevant infrastructure were references to the person who will be the owner of the proposed infrastructure.
 
-### 11. Diversions[^key-6f98a55c4b8c6beab818a874ec83837c]
+### 11. Diversions[^c-6f98a55c4b8c6beab818a874ec83837c]
 
 (1) If, in respect of a length of proposed relevant pipeline—
 
@@ -293,7 +293,7 @@ then the pipeline continues for the purposes of and after the diversion to be su
 
 ## Acquisition of rights
 
-### 12. Acquisition of rights to use relevant infrastructure[^key-6e11fe2cc56839efaffe25a439365fd2]
+### 12. Acquisition of rights to use relevant infrastructure[^c-6e11fe2cc56839efaffe25a439365fd2]
 
 (1) This regulation applies where—
 
@@ -330,7 +330,7 @@ and references in these Regulations to the “access application” are to the a
 - (e) any other difficulties which cannot reasonably be overcome and which could prejudice the efficient, current and planned future transport or storage of carbon dioxide;
 - (f) the reasonable needs of the owner and any associate of the owner for the conveyance and storage of carbon dioxide;
 - (g) the interests of all users and operators of the relevant infrastructure;
-- (h) the proportion of the United Kingdom’s carbon dioxide reduction obligations pursuant to international legal instruments [^key-045cb54c97a4cf80013bddbeaffb7a2a]... that will be met through capture and geological storage of carbon dioxide; and
+- (h) the proportion of the United Kingdom’s carbon dioxide reduction obligations pursuant to international legal instruments [^c-045cb54c97a4cf80013bddbeaffb7a2a]... that will be met through capture and geological storage of carbon dioxide; and
 - (i) the number of parties involved in the dispute.
 
 (6) The authority may serve a notice under paragraph (8) only if satisfied that—
@@ -363,7 +363,7 @@ and references in these Regulations to the “access application” are to the a
 
 ## Compulsory modifications
 
-### 13. Compulsory modifications of relevant infrastructure[^key-6134354217736d232fca09f1c547c4ea]
+### 13. Compulsory modifications of relevant infrastructure[^c-6134354217736d232fca09f1c547c4ea]
 
 (1) This regulation applies where—
 
@@ -412,7 +412,7 @@ then (subject to paragraph (3)) the authority may serve on the owner of the rele
 
 (11) A modification notice does not come into force unless and until the authority serves a notice under regulation 12(8) in respect of the relevant infrastructure that is the subject of the access application.
 
-### 14. Variation of notices under sections 12 and 13[^key-98f7335014f325129c41e27f134e0540]
+### 14. Variation of notices under sections 12 and 13[^c-98f7335014f325129c41e27f134e0540]
 
 (1) A modification notice or a notice under regulation 12(8) may be varied or set aside by the agreement of all the persons on whom it was served.
 
@@ -431,7 +431,7 @@ then (subject to paragraph (3)) the authority may serve on the owner of the rele
 
 ## Powers to require information and effect of notices
 
-### 15. Powers of the authority to require information[^key-88c4dcfa2194293fc45d802b66570532]
+### 15. Powers of the authority to require information[^c-88c4dcfa2194293fc45d802b66570532]
 
 (1) The authority may by notice require a person who has made or received an access application to provide the authority with specified information for the purpose of enabling the authority to decide—
 
@@ -458,7 +458,7 @@ then (subject to paragraph (3)) the authority may serve on the owner of the rele
 
 (6) In this regulation, “specified” means specified in a notice under paragraph (1) or (2).
 
-### 16. Requirements for consents[^key-4506f9ae3355d39c195238211781b331]
+### 16. Requirements for consents[^c-4506f9ae3355d39c195238211781b331]
 
 (1) The use of infrastructure by any person in accordance with a right secured to that person by virtue of these regulations is not a contravention of—
 
@@ -478,7 +478,7 @@ then (subject to paragraph (3)) the authority may serve on the owner of the rele
 
 ## Publication requirements
 
-### 17. Publication of capacity[^key-68f716899b0102b2681bad7439206fe3]
+### 17. Publication of capacity[^c-68f716899b0102b2681bad7439206fe3]
 
 (1) The owner of relevant infrastructure must publish—
 
@@ -503,7 +503,7 @@ then (subject to paragraph (3)) the authority may serve on the owner of the rele
 
 ## Enforcement
 
-### 18. Provision of false information[^key-9c764895a1ea468a462df167440c27ab]
+### 18. Provision of false information[^c-9c764895a1ea468a462df167440c27ab]
 
 (1) A person (“P”) is guilty of an offence if, in circumstances falling within paragraph (2), P provides false information to the authority for the purpose of—
 
@@ -536,7 +536,7 @@ then (subject to paragraph (3)) the authority may serve on the owner of the rele
 - (a) any director, secretary or other similar officer of the body corporate; or
 - (b) any person purporting to act in any such capacity.
 
-### 19. Construction authorisations and pipeline variation notices[^key-35bdeecda3c3a5dc8422a939a5d0231a]
+### 19. Construction authorisations and pipeline variation notices[^c-35bdeecda3c3a5dc8422a939a5d0231a]
 
 (1) For the purposes of sections 1 and 4 of the Pipe-lines Act 1962[^f00015], the works for the construction of a relevant pipeline are deemed to have been executed in contravention of section 1(1) of that Act where the relevant pipeline is constructed—
 
@@ -548,7 +548,7 @@ then (subject to paragraph (3)) the authority may serve on the owner of the rele
 - (a) a pipeline variation notice is served under regulation 8(2) in respect of the relevant pipeline; and
 - (b) the relevant pipeline is constructed without conformity to that notice.
 
-### 20. Civil proceedings[^key-16413f6ddf7cbd0c0caf2a639c19dd35]
+### 20. Civil proceedings[^c-16413f6ddf7cbd0c0caf2a639c19dd35]
 
 (1) The duty of a person to comply with a notice under regulation 9(1) or 12(8) or a modification notice under regulation 13(2) is a duty owed to any person who may be affected by a failure to comply with it.
 
@@ -564,13 +564,13 @@ then (subject to paragraph (3)) the authority may serve on the owner of the rele
 
 ## Miscellaneous
 
-### 21. Service of documents[^key-36e6be8b06c4c8ea7260f35f1b888290]
+### 21. Service of documents[^c-36e6be8b06c4c8ea7260f35f1b888290]
 
 (1) Subsections (1) to (3) of section 49 of the Pipe-lines Act 1962 have effect as if references to that Act included references to these Regulations.
 
 (2) In the application of paragraph (1) to Northern Ireland, section 49(1) to (3) of the Pipe-lines Act 1962 shall have effect as if it extended to Northern Ireland.
 
-### 22. Amendments[^key-621c0322033a9e4cc7ae9f27baed3536]
+### 22. Amendments[^c-621c0322033a9e4cc7ae9f27baed3536]
 
 The amendments set out in the Schedule have effect.
 
@@ -586,9 +586,9 @@ Regulation 22
 
 ### Pipe-lines Act 1962
 
-**1.**[^key-e29d11b8a92470b4f9fc928adb9245a5] The Pipe-lines Act 1962 is amended as follows.
+**1.**[^c-e29d11b8a92470b4f9fc928adb9245a5] The Pipe-lines Act 1962 is amended as follows.
 
-**2.**[^key-9170842941d6ec155ab3f229bfe0517f] In section 9 (provisions for securing that a pipe-line is so constructed as to reduce necessity for construction of others)[^f00018], for subsection (6), substitute—
+**2.**[^c-9170842941d6ec155ab3f229bfe0517f] In section 9 (provisions for securing that a pipe-line is so constructed as to reduce necessity for construction of others)[^f00018], for subsection (6), substitute—
 
 > (6) This section does not apply where the application for the grant of a pipe-line construction authorisation relates to the construction of—
 >
@@ -597,13 +597,13 @@ Regulation 22
 
 .
 
-**3.**[^key-a0db4bdfcc99ae346e58cb04ed64ab55] In section 9A (provisions for securing that an additional pipe-line is so constructed as to reduce necessity for construction of other pipe-lines)[^f00019], after subsection (1), insert—
+**3.**[^c-a0db4bdfcc99ae346e58cb04ed64ab55] In section 9A (provisions for securing that an additional pipe-line is so constructed as to reduce necessity for construction of other pipe-lines)[^f00019], after subsection (1), insert—
 
 > (1ZA) This section does not apply where the application for the grant of planning permission relates to the construction of a carbon dioxide pipe-line.
 
 .
 
-**4.**[^key-466c1554e39d3dce27aa44b5f1ad5fb7] In section 10 (provisions for securing that a pipe-line is so used as to reduce necessity for construction of others)[^f00020]—
+**4.**[^c-466c1554e39d3dce27aa44b5f1ad5fb7] In section 10 (provisions for securing that a pipe-line is so used as to reduce necessity for construction of others)[^f00020]—
 
 - (a) for paragraph (b) of subsection (1), substitute—
 
@@ -623,7 +623,7 @@ Regulation 22
   ; and
 - (c) in subsection (2), for “the foregoing subsection”, substitute “subsection (1)”.
 
-**5.**[^key-0635d0359c0d2f4874103879f3fa7940] In section 65 (meaning of “pipe-line”)[^f00021]—
+**5.**[^c-0635d0359c0d2f4874103879f3fa7940] In section 65 (meaning of “pipe-line”)[^f00021]—
 
 - (a) in subsection (2), after paragraph (f), insert—
 
@@ -636,7 +636,7 @@ Regulation 22
 
   .
 
-**6.**[^key-95100d14b4c8b0f936b366f5c07586bc] In section 66(1) (interpretation)[^f00022], after the definition of “agricultural unit”, insert—
+**6.**[^c-95100d14b4c8b0f936b366f5c07586bc] In section 66(1) (interpretation)[^f00022], after the definition of “agricultural unit”, insert—
 
 > - “carbon dioxide pipe-line” means—
 >   - (a) a pipe-line used to convey carbon dioxide to a carbon dioxide storage site; or
@@ -649,9 +649,9 @@ Regulation 22
 
 ### Petroleum Act 1998
 
-**7.**[^key-916c33df7c7f444ca4d9e0aa6e6724a0] The Petroleum Act 1998 is amended as follows.
+**7.**[^c-916c33df7c7f444ca4d9e0aa6e6724a0] The Petroleum Act 1998 is amended as follows.
 
-**8.**[^key-143761dd42e49328b33e8976f564e64d] In section 15 (authorisations)[^f00023]—
+**8.**[^c-143761dd42e49328b33e8976f564e64d] In section 15 (authorisations)[^f00023]—
 
 - (a) in subsection (3)(c)(i) and (iii), at the end insert “(subject to subsection (3A))”;
 - (b) after subsection (3), insert—
@@ -666,7 +666,7 @@ Regulation 22
 
   .
 
-**9.**[^key-69753e53580d96deb979e4b3d939e874] In section 16 (compulsory modifications of pipelines)[^f00024], before subsection (1), insert—
+**9.**[^c-69753e53580d96deb979e4b3d939e874] In section 16 (compulsory modifications of pipelines)[^f00024], before subsection (1), insert—
 
 > (A1) This section applies to controlled pipelines, other than those which are excepted from the operation of this section.
 >
@@ -674,13 +674,13 @@ Regulation 22
 
 .
 
-**10.**[^key-c28de7a02c384b7bffb9793f337d329b] In section 17 (acquisition of rights to use pipelines)[^f00025], after subsection (1A) insert—
+**10.**[^c-c28de7a02c384b7bffb9793f337d329b] In section 17 (acquisition of rights to use pipelines)[^f00025], after subsection (1A) insert—
 
 > (1B) This section also does not apply to controlled carbon dioxide pipelines.
 
 .
 
-**11.**[^key-17b3123af7363e0a2923eeac8df35f1b] In section 28(1) (interpretation of Part 3 of the Petroleum Act 1998)[^f00026]—
+**11.**[^c-17b3123af7363e0a2923eeac8df35f1b] In section 28(1) (interpretation of Part 3 of the Petroleum Act 1998)[^f00026]—
 
 - (a) in the appropriate place, insert—
 
@@ -707,7 +707,7 @@ Regulation 22
 
   .
 
-**12.**[^key-66a89b68994a814be5d1a00a644780a1] In paragraph 4 of Schedule 2—
+**12.**[^c-66a89b68994a814be5d1a00a644780a1] In paragraph 4 of Schedule 2—
 
 - (a) in sub-paragraph (1), at the beginning, insert “Subject to sub-paragraph (1A),”; and
 - (b) after sub-paragraph (1), insert—
@@ -762,13 +762,13 @@ Copies of the Impact Assessment and Transposition Note are also available from B
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). Section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) provides that despite the transfer to the Scottish Ministers of functions in relation to observing and implementing obligations under Community law, any function of a Minister of the Crown shall continue to be exercisable by that Minister as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972. Under paragraph 5 of Schedule 3 of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), any power of a Ministers of the Crown to make subordinate legislation which has been transferred to the Welsh Ministers continues to be exercisable by the Minister of the Crown as it would be had it not been transferred, for the purpose of implementing any Community obligation of the United Kingdom.
 
-[^key-9cbc157ae7b165f4b9226e18df18318d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/2305) power to amend or revoke conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 128](https://www.legislation.gov.uk/ukpga/2023/52/section/128), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-9cbc157ae7b165f4b9226e18df18318d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/2305) power to amend or revoke conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 128](https://www.legislation.gov.uk/ukpga/2023/52/section/128), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-163bc48f384d32a2348bc2cea84e54bd]: Commencement: Reg. 1 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-163bc48f384d32a2348bc2cea84e54bd]: Commencement: Reg. 1 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-f727b3f1492347d143bbda98dd07fbcf]: Commencement: Reg. 2 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-f727b3f1492347d143bbda98dd07fbcf]: Commencement: Reg. 2 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-16061f599f35ea81076918428047fb2c]: Commencement: Reg. 3 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-16061f599f35ea81076918428047fb2c]: Commencement: Reg. 3 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00003]: Footnote: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58). The definition is inserted by paragraph 6 of the Schedule.
 
@@ -790,45 +790,45 @@ Copies of the Impact Assessment and Transposition Note are also available from B
 
 [^f00012]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8); Part 3 was amended by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), the Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999 ([S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293)), the Greater London Authority Act [2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24) and the Planning Act 2008. There are other amendments and modifications not relevant to these Regulations.
 
-[^key-d1451aad3677585d594c2c7a71d2cfda]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2011/2305/regulation/3/1) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2025/412/regulation/6)
+[^c-d1451aad3677585d594c2c7a71d2cfda]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2011/2305/regulation/3/1) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2025/412/regulation/6)
 
 [^f00013]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8); Part 3 was amended by the Environmental Impact Assessment (Scotland) Regulations 1999 ([S.S.I. 1999/1](https://www.legislation.gov.uk/ssi/1999/1)) the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) and the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-38c2bb45c344bed90c90a0284a3fec4f]: Commencement: Reg. 4 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-38c2bb45c344bed90c90a0284a3fec4f]: Commencement: Reg. 4 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-65b5ed26adf263bf20e29f307a7d9322]: Commencement: Reg. 5 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-65b5ed26adf263bf20e29f307a7d9322]: Commencement: Reg. 5 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-95207231d7885f3e6da599f1ab181800]: Commencement: Reg. 6 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-95207231d7885f3e6da599f1ab181800]: Commencement: Reg. 6 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-65caa0e50582734d5d9fd3286df98f21]: Commencement: Reg. 7 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-65caa0e50582734d5d9fd3286df98f21]: Commencement: Reg. 7 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-b389b0a07ccd0df323cdb94ef41bc4f6]: Commencement: Reg. 8 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-b389b0a07ccd0df323cdb94ef41bc4f6]: Commencement: Reg. 8 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-d22f315ab80321b741597c0c3094f1f7]: Commencement: Reg. 9 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-d22f315ab80321b741597c0c3094f1f7]: Commencement: Reg. 9 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-6dfa56f158f480149deafee9a25c4c3a]: Commencement: Reg. 10 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-6dfa56f158f480149deafee9a25c4c3a]: Commencement: Reg. 10 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-6f98a55c4b8c6beab818a874ec83837c]: Commencement: Reg. 11 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-6f98a55c4b8c6beab818a874ec83837c]: Commencement: Reg. 11 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-6e11fe2cc56839efaffe25a439365fd2]: Commencement: Reg. 12 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-6e11fe2cc56839efaffe25a439365fd2]: Commencement: Reg. 12 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-045cb54c97a4cf80013bddbeaffb7a2a]: Textual amendment: Words in [reg. 12(5)(h)](https://www.legislation.gov.uk/uksi/2011/2305/regulation/12/5/h) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2019/544/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-045cb54c97a4cf80013bddbeaffb7a2a]: Textual amendment: Words in [reg. 12(5)(h)](https://www.legislation.gov.uk/uksi/2011/2305/regulation/12/5/h) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2019/544/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6134354217736d232fca09f1c547c4ea]: Commencement: Reg. 13 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-6134354217736d232fca09f1c547c4ea]: Commencement: Reg. 13 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-98f7335014f325129c41e27f134e0540]: Commencement: Reg. 14 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-98f7335014f325129c41e27f134e0540]: Commencement: Reg. 14 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-88c4dcfa2194293fc45d802b66570532]: Commencement: Reg. 15 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-88c4dcfa2194293fc45d802b66570532]: Commencement: Reg. 15 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-4506f9ae3355d39c195238211781b331]: Commencement: Reg. 16 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-4506f9ae3355d39c195238211781b331]: Commencement: Reg. 16 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00014]: Footnote: Section 1 was amended by sections 37, 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 36 of, and paragraphs 5 and 6 of Schedule 2 to, the Planning Act 2008 and by paragraph 2(2) of the Schedule to the Deregulation (Pipe-lines) Order 1999 ([S.I. 1999/742](https://www.legislation.gov.uk/uksi/1999/742)) and paragraph 4 of the Schedule to the Planning and Compulsory Purchase Act 2004 (Corresponding Amendments) Order 2007 ([S.I. 2007/1519](https://www.legislation.gov.uk/uksi/2007/1519)).
 
-[^key-68f716899b0102b2681bad7439206fe3]: Commencement: Reg. 17 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-68f716899b0102b2681bad7439206fe3]: Commencement: Reg. 17 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-9c764895a1ea468a462df167440c27ab]: Commencement: Reg. 18 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-9c764895a1ea468a462df167440c27ab]: Commencement: Reg. 18 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-35bdeecda3c3a5dc8422a939a5d0231a]: Commencement: Reg. 19 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-35bdeecda3c3a5dc8422a939a5d0231a]: Commencement: Reg. 19 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00015]: Footnote: Section 4 has been amended by paragraph 2(2) of the Schedule to the Deregulation (Pipe-lines) Order 1999 ([S.I. 1999/742](https://www.legislation.gov.uk/uksi/1999/742)) and paragraph 4 of the Schedule to the Planning and Compulsory Purchase Act 2004 (Corresponding Amendments) Order 2007 ([S.I. 2007/1519](https://www.legislation.gov.uk/uksi/2007/1519)).
 
@@ -836,50 +836,50 @@ Copies of the Impact Assessment and Transposition Note are also available from B
 
 [^f00017]: Footnote: Part 6 was amended by sections 25 to 27 of the Planning etc. (Scotland) Act 2006.
 
-[^key-16413f6ddf7cbd0c0caf2a639c19dd35]: Commencement: Reg. 20 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-16413f6ddf7cbd0c0caf2a639c19dd35]: Commencement: Reg. 20 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-36e6be8b06c4c8ea7260f35f1b888290]: Commencement: Reg. 21 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-36e6be8b06c4c8ea7260f35f1b888290]: Commencement: Reg. 21 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-621c0322033a9e4cc7ae9f27baed3536]: Commencement: Reg. 22 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-621c0322033a9e4cc7ae9f27baed3536]: Commencement: Reg. 22 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-e29d11b8a92470b4f9fc928adb9245a5]: Commencement: Sch. para. 1 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-e29d11b8a92470b4f9fc928adb9245a5]: Commencement: Sch. para. 1 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-9170842941d6ec155ab3f229bfe0517f]: Commencement: Sch. para. 2 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-9170842941d6ec155ab3f229bfe0517f]: Commencement: Sch. para. 2 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00018]: Footnote: Section 9 was amended by paragraph 6 of the Schedule to the Deregulation (Pipe-lines) Order 1999. paragraph 1 of Schedule 1 to the Gas (Third Party Access and Accounts) Regulations 2000 ([S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937)) and section 151(1) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), . It was modified, in respect of the maximum fine, by sections 37, 38 and 46 of Criminal Justice Act 1982. An amendment by Schedule 23 to the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) is not yet in force.
 
-[^key-a0db4bdfcc99ae346e58cb04ed64ab55]: Commencement: Sch. para. 3 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-a0db4bdfcc99ae346e58cb04ed64ab55]: Commencement: Sch. para. 3 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00019]: Footnote: Section 9A was inserted by paragraph 7 of the Schedule to the Deregulation (Pipe-lines) Order 1999 and was amended by paragraph 2 of Schedule 1 to the Gas (Third Party Access and Accounts) Regulations 2000 and section 151(1) of the Energy Act 2004. An amendment by Schedule 23 to the Energy Act 2004 (is not yet in force.
 
-[^key-466c1554e39d3dce27aa44b5f1ad5fb7]: Commencement: Sch. para. 4 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-466c1554e39d3dce27aa44b5f1ad5fb7]: Commencement: Sch. para. 4 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00020]: Footnote: Section 10(1) was amended by paragraph 3 of Schedule 1 to the Gas (Third Party Access and Accounts) Regulations 2000 and by section 151(2) of the Energy Act 2004.
 
-[^key-0635d0359c0d2f4874103879f3fa7940]: Commencement: Sch. para. 5 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-0635d0359c0d2f4874103879f3fa7940]: Commencement: Sch. para. 5 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00021]: Footnote: Section 65(2) was amended by paragraph 8 of Schedule 1 to the Gas (Third Party Access and Accounts) Regulations 2000.
 
-[^key-95100d14b4c8b0f936b366f5c07586bc]: Commencement: Sch. para. 6 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-95100d14b4c8b0f936b366f5c07586bc]: Commencement: Sch. para. 6 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00022]: Footnote: Section 66(1) has been amended by regulation 2(2)(b) of the Pipe-lines (Metrication) Regulations 1992 ([S.I. 1992/449](https://www.legislation.gov.uk/uksi/1992/449)), by paragraph 15(b) of the Schedule to the Deregulation (Pipe-lines) Order 1999 and paragraphs 5 and 7 of Schedule 2 to the Planning Act 2008. There are other amendments which are not relevant to these Regulations.
 
-[^key-916c33df7c7f444ca4d9e0aa6e6724a0]: Commencement: Sch. para. 7 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-916c33df7c7f444ca4d9e0aa6e6724a0]: Commencement: Sch. para. 7 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
-[^key-143761dd42e49328b33e8976f564e64d]: Commencement: Sch. para. 8 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-143761dd42e49328b33e8976f564e64d]: Commencement: Sch. para. 8 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00023]: Footnote: Section 15 was amended by paragraph 1 of Schedule 4 to the Gas (Third Party Access and Accounts) Regulations 2000.
 
-[^key-69753e53580d96deb979e4b3d939e874]: Commencement: Sch. para. 9 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-69753e53580d96deb979e4b3d939e874]: Commencement: Sch. para. 9 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00024]: Footnote: Section 16(1) was amended by paragraph 2 of Schedule 4 to the Gas (Third Party Access and Accounts) Regulations 2000.
 
-[^key-c28de7a02c384b7bffb9793f337d329b]: Commencement: Sch. para. 10 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-c28de7a02c384b7bffb9793f337d329b]: Commencement: Sch. para. 10 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00025]: Footnote: Section 17(1A) was inserted by paragraph 3 of Schedule 4 to the Gas (Third Party Access and Accounts) Regulations 2000 and was amended by section 151(5)(a) of the Energy Act 2004.
 
-[^key-17b3123af7363e0a2923eeac8df35f1b]: Commencement: Sch. para. 11 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-17b3123af7363e0a2923eeac8df35f1b]: Commencement: Sch. para. 11 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
 
 [^f00026]: Footnote: Section 28(1) has been amended but the amendments are not relevant to these Regulations.
 
-[^key-66a89b68994a814be5d1a00a644780a1]: Commencement: Sch. para. 12 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)
+[^c-66a89b68994a814be5d1a00a644780a1]: Commencement: Sch. para. 12 in force at 16.9.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1)

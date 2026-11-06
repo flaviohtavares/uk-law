@@ -33,7 +33,7 @@ This Statutory Instrument has been made in consequence of defects in [SI 2014/27
 
 Immigration
 
-The Immigration Act 2014 (Transitional and Saving Provisions) Order 2014 (revoked)[^key-2a794e9aa6362aba25289f270e91862a]
+The Immigration Act 2014 (Transitional and Saving Provisions) Order 2014 (revoked)[^c-2a794e9aa6362aba25289f270e91862a]
 
 Made
 
@@ -43,26 +43,26 @@ Coming into force
 
 10th November 2014
 
-[^key-2a794e9aa6362aba25289f270e91862a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a794e9aa6362aba25289f270e91862a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2a794e9aa6362aba25289f270e91862a]
+## 1. Citation, commencement and interpretation[^c-2a794e9aa6362aba25289f270e91862a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transitional and saving provisions[^key-2a794e9aa6362aba25289f270e91862a]
+## 2. Transitional and saving provisions[^c-2a794e9aa6362aba25289f270e91862a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2a794e9aa6362aba25289f270e91862a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2a794e9aa6362aba25289f270e91862a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a794e9aa6362aba25289f270e91862a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a794e9aa6362aba25289f270e91862a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2a794e9aa6362aba25289f270e91862a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a794e9aa6362aba25289f270e91862a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a794e9aa6362aba25289f270e91862a]: Textual amendment: Order revoked (6.4.2015) by [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/371/article/1/3), [9](https://www.legislation.gov.uk/uksi/2015/371/article/9)
+[^c-2a794e9aa6362aba25289f270e91862a]: Textual amendment: Order revoked (6.4.2015) by [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/371/article/1/3), [9](https://www.legislation.gov.uk/uksi/2015/371/article/9)

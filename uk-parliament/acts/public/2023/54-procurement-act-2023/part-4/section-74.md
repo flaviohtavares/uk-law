@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Modifying a public contract[^key-51350ea4f5ad2c12016892ed27f1f3e6][^key-3f593d6bf789b570620f3d19e5c101b3][^key-cc127a5136d88e6a619c0c1561e66b09]
+## 74. Modifying a public contract[^c-51350ea4f5ad2c12016892ed27f1f3e6][^c-3f593d6bf789b570620f3d19e5c101b3][^c-cc127a5136d88e6a619c0c1561e66b09]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-51350ea4f5ad2c12016892ed27f1f3e6]: Commencement: S. 74 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-51350ea4f5ad2c12016892ed27f1f3e6]: Commencement: S. 74 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-3f593d6bf789b570620f3d19e5c101b3]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/54/section/74) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-3f593d6bf789b570620f3d19e5c101b3]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/54/section/74) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-cc127a5136d88e6a619c0c1561e66b09]: Modification: [S. 74](https://www.legislation.gov.uk/ukpga/2023/54/section/74) applied in part (with modifications) (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))
+[^c-cc127a5136d88e6a619c0c1561e66b09]: Modification: [S. 74](https://www.legislation.gov.uk/ukpga/2023/54/section/74) applied in part (with modifications) (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))

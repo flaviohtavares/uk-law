@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Application under section 176A(5) of the 1986 Act to disapply section 176A of the 1986 Act[^key-3deed20272a5f5de05382ec113541cf4]
+## 97. Application under section 176A(5) of the 1986 Act to disapply section 176A of the 1986 Act[^c-3deed20272a5f5de05382ec113541cf4]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3deed20272a5f5de05382ec113541cf4]: Commencement: [Rule 97](https://www.legislation.gov.uk/uksi/2013/3208/rule/97) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-3deed20272a5f5de05382ec113541cf4]: Commencement: [Rule 97](https://www.legislation.gov.uk/uksi/2013/3208/rule/97) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

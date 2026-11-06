@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111.[^key-d8f631e3de2febe26684a69efd126992]
+## 111.[^c-d8f631e3de2febe26684a69efd126992]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,10 +49,10 @@ summary: ''
 
 > (9) The references in paragraph (4) to Article 14(1) and (2) and 15(1) of the Directive are to be treated as references to those provisions with the following modifications—
 >
-> - (a)[^key-675ff376d9e2fb5efd9f2a9790bc5d43] in paragraph (1) of Article 14 the reference to “Member State” in the first sentence is to be read as if it were a reference to the Authority;
+> - (a)[^c-675ff376d9e2fb5efd9f2a9790bc5d43] in paragraph (1) of Article 14 the reference to “Member State” in the first sentence is to be read as if it were a reference to the Authority;
 > - (b) paragraph (1) of Article 14 is to be read as if the second and third sentences were omitted;
 > - (ba) in paragraph (2) of Article 14 the reference to “Member State” is to be read as if it were a reference to the Authority;
-> - (c) paragraph (2)(b) of Article 14 is to be read as if after “Article 13” there were inserted “as implemented in relation to Northern Ireland immediately before IP completion day[^key-d2c103c96fea1e459eda448a6d679871], disregarding for this purpose—
+> - (c) paragraph (2)(b) of Article 14 is to be read as if after “Article 13” there were inserted “as implemented in relation to Northern Ireland immediately before IP completion day[^c-d2c103c96fea1e459eda448a6d679871], disregarding for this purpose—
 >   - (i) paragraph 2,
 >   - (ii) paragraph 3 so far as relating to Article 41(6)(c), and
 >   - (iii) paragraph 4 except as it relates to such minimum standards, if any, as apply in Northern Ireland”;
@@ -65,8 +65,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d8f631e3de2febe26684a69efd126992]: Commencement: Reg. 111 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d8f631e3de2febe26684a69efd126992]: Commencement: Reg. 111 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-675ff376d9e2fb5efd9f2a9790bc5d43]: Textual amendment: Words in reg. 111(8) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(33)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/33/a)
+[^c-675ff376d9e2fb5efd9f2a9790bc5d43]: Textual amendment: Words in reg. 111(8) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(33)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/33/a)
 
-[^key-d2c103c96fea1e459eda448a6d679871]: Textual amendment: Words in reg. 111(8) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(33)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/33/b)
+[^c-d2c103c96fea1e459eda448a6d679871]: Textual amendment: Words in reg. 111(8) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(33)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/33/b)

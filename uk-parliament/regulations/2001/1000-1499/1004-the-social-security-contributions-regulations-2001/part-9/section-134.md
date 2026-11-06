@@ -22,7 +22,7 @@ summary: ''
 
 (1) Any woman to whom this regulation applies—
 
-- (a) shall, in respect of so much of her liability for primary Class 1 contributions as is attributable to section 8(1)(a) of the Act[^key-97d57585ef6c598ef354a7005113d50a], be liable to pay those contributions[^key-bfc54fead2913f599e0c81e9a5a8d322] at the reduced rate; and
+- (a) shall, in respect of so much of her liability for primary Class 1 contributions as is attributable to section 8(1)(a) of the Act[^c-97d57585ef6c598ef354a7005113d50a], be liable to pay those contributions[^c-bfc54fead2913f599e0c81e9a5a8d322] at the reduced rate; and
 - (b) shall not be liable to pay any Class 2 contribution which, apart from the provisions of this paragraph, she would be liable to pay.
 
 (2) Subject to paragraphs (3) to (7), this regulation applies to any woman—
@@ -50,7 +50,7 @@ summary: ''
 (5) Any woman—
 
 - (a) who by virtue of paragraph (1)—
-  - (i) was, in respect of so much of her liability for primary Class 1 contributions as is attributable to section 8(1)(a) of the Act[^key-692044330696eb84189d675723afba93], liable to pay that contribution at the reduced rate, or
+  - (i) was, in respect of so much of her liability for primary Class 1 contributions as is attributable to section 8(1)(a) of the Act[^c-692044330696eb84189d675723afba93], liable to pay that contribution at the reduced rate, or
   - (ii) was not liable to pay any Class 2 contribution which apart from the provisions of that paragraph she would have been liable to pay; but
 - (b) to whom by virtue of paragraphs (2) to (4), paragraph (1) ceases so to apply; and
 - (c) who has not, in relation to the application of paragraph (1), given the notice prescribed in paragraph (7),
@@ -66,8 +66,8 @@ may, subject to the conditions prescribed in paragraph (6), make an election und
 
 ## Annotations
 
-[^key-97d57585ef6c598ef354a7005113d50a]: Textual amendment: Words in reg. 134(1)(a) substituted (6.4.2003) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2003/964/regulation/8/2/a)
+[^c-97d57585ef6c598ef354a7005113d50a]: Textual amendment: Words in reg. 134(1)(a) substituted (6.4.2003) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2003/964/regulation/8/2/a)
 
-[^key-bfc54fead2913f599e0c81e9a5a8d322]: Textual amendment: Words in reg. 134(1)(a) substituted (6.4.2003) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2003/964/regulation/8/2/b)
+[^c-bfc54fead2913f599e0c81e9a5a8d322]: Textual amendment: Words in reg. 134(1)(a) substituted (6.4.2003) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2003/964/regulation/8/2/b)
 
-[^key-692044330696eb84189d675723afba93]: Textual amendment: Words in reg. 134(5)(a)(i) substituted (6.4.2003) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2003/964/regulation/8/3)
+[^c-692044330696eb84189d675723afba93]: Textual amendment: Words in reg. 134(5)(a)(i) substituted (6.4.2003) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2003/964/regulation/8/3)

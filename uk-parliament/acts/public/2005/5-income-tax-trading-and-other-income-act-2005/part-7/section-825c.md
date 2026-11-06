@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 825C. Plant or machinery used for other qualifying activities[^key-d31909ccc37dae51670eaa9cd877ecb6]
+## 825C. Plant or machinery used for other qualifying activities[^c-d31909ccc37dae51670eaa9cd877ecb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d31909ccc37dae51670eaa9cd877ecb6]: Textual amendment: Ss. 825-825D substituted (16.12.2010) for s. 825 (with effect in accordance with s. 3(4) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2010/33/section/3/3) (with [s. 3(5)](https://www.legislation.gov.uk/ukpga/2010/33/section/3/5))
+[^c-d31909ccc37dae51670eaa9cd877ecb6]: Textual amendment: Ss. 825-825D substituted (16.12.2010) for s. 825 (with effect in accordance with s. 3(4) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2010/33/section/3/3) (with [s. 3(5)](https://www.legislation.gov.uk/ukpga/2010/33/section/3/5))

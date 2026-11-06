@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31C. Cases not involving criminal proceedings: vehicles[^key-6a520bad1af26b1781653b438e4c723d]
+## 31C. Cases not involving criminal proceedings: vehicles[^c-6a520bad1af26b1781653b438e4c723d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a520bad1af26b1781653b438e4c723d]: Textual amendment: [S. 31C](https://www.legislation.gov.uk/ukpga/2006/12/section/31C) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(l)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/l)
+[^c-6a520bad1af26b1781653b438e4c723d]: Textual amendment: [S. 31C](https://www.legislation.gov.uk/ukpga/2006/12/section/31C) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(l)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/l)

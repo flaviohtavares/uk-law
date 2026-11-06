@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50A. Complaints relating to conduct forming part of the Troubles[^key-5bf9cc5cc8ba8afd2ca67db0fceb3150]
+## 50A. Complaints relating to conduct forming part of the Troubles[^c-5bf9cc5cc8ba8afd2ca67db0fceb3150]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ insofar as the matter relates to conduct forming part of the Troubles.
 
 ## Annotations
 
-[^key-5bf9cc5cc8ba8afd2ca67db0fceb3150]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/ukpga/1998/32/section/50A) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2023/41/section/45/1), [63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-5bf9cc5cc8ba8afd2ca67db0fceb3150]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/ukpga/1998/32/section/50A) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2023/41/section/45/1), [63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))

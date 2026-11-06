@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. False monetary instruments: Scotland[^key-68ee5d291c0f6e32c492e8e67b44075b]
+## 89. False monetary instruments: Scotland[^c-68ee5d291c0f6e32c492e8e67b44075b]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ After section 46 of the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)
 
 ## Annotations
 
-[^key-68ee5d291c0f6e32c492e8e67b44075b]: Commencement: S. 89 in force at 26.4.2004 by [S.S.I. 2004/175](https://www.legislation.gov.uk/ssi/2004/175), [art. 2](https://www.legislation.gov.uk/ssi/2004/175/article/2)
+[^c-68ee5d291c0f6e32c492e8e67b44075b]: Commencement: S. 89 in force at 26.4.2004 by [S.S.I. 2004/175](https://www.legislation.gov.uk/ssi/2004/175), [art. 2](https://www.legislation.gov.uk/ssi/2004/175/article/2)

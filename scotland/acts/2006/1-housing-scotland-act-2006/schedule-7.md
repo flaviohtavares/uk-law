@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 7 — Repeals[^c1967748][^key-bd210a042d1da8c49a9299f41a48c66b][^key-ce242fce0ec6754cb1cba392af616976][^key-4253b7f76ede4941e30125e780f6511c]
+## SCHEDULE 7 — Repeals[^c1967748][^c-bd210a042d1da8c49a9299f41a48c66b][^c-ce242fce0ec6754cb1cba392af616976][^c-4253b7f76ede4941e30125e780f6511c]
 
 *Extent: S*
 
@@ -44,8 +44,8 @@ summary: ''
 
 [^c1967748]: Commencement: Sch. 7 not in force at Royal Assent see s. 195; Sch. 7 in force for specified purposes at 3.9.2007 by [S.S.I. 2007/270](https://www.legislation.gov.uk/ssi/2007/270), {art. 3 Table} (with arts. 4-6)
 
-[^key-bd210a042d1da8c49a9299f41a48c66b]: Commencement: Sch. 7 in force at 1.4.2009 for specified purposes by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-bd210a042d1da8c49a9299f41a48c66b]: Commencement: Sch. 7 in force at 1.4.2009 for specified purposes by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-ce242fce0ec6754cb1cba392af616976]: Commencement: Sch. 7 in force at 1.4.2010 for specified purposes by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/122/article/4))
+[^c-ce242fce0ec6754cb1cba392af616976]: Commencement: Sch. 7 in force at 1.4.2010 for specified purposes by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/122/article/4))
 
-[^key-4253b7f76ede4941e30125e780f6511c]: Commencement: Sch. 7 in force at 31.8.2011 for specified purposes by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-4253b7f76ede4941e30125e780f6511c]: Commencement: Sch. 7 in force at 31.8.2011 for specified purposes by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

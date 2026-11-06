@@ -22,15 +22,15 @@ summary: ''
 
 (1) In this Part references to aggregate—
 
-- (a)[^key-c90b52214fb0e5c575c0a2364f762eb0] include references to the spoil, waste, off-cuts and other by-products resulting from the application of any exempt process to any aggregate; but
-- (b)[^key-77eec62f93a589e339dc0eaba391d8d3] do not include references to anything else resulting from the application of any such process to any aggregate.
+- (a)[^c-c90b52214fb0e5c575c0a2364f762eb0] include references to the spoil, waste, off-cuts and other by-products resulting from the application of any exempt process to any aggregate; but
+- (b)[^c-77eec62f93a589e339dc0eaba391d8d3] do not include references to anything else resulting from the application of any such process to any aggregate.
 
 (2) In this Part “**exempt process**” means—
 
 - (a) the cutting of any rock to produce stone with one or more flat surfaces[^c12450061];
 - (b) any process by which a relevant substance is extracted or otherwise separated (whether as part of the process of winning it from any land or otherwise) from any aggregate;
 - (c) any process for the production of lime or cement from limestone or from limestone and anything else[^c12450071].
-- (ca)[^key-ad11fceb731300d7ee25701f8deb42f1] in the case of aggregate consisting of shale, any process consisting of a use of the shale that—
+- (ca)[^c-ad11fceb731300d7ee25701f8deb42f1] in the case of aggregate consisting of shale, any process consisting of a use of the shale that—
   - (i) is not a use of it as material or support in the construction or improvement of any structure, and
   - (ii) is not mixing it with anything as part of the process of producing mortar, concrete, tarmacadam, coated roadstone or any similar construction material.
 
@@ -71,14 +71,14 @@ summary: ''
 
 [^M_C_fd107e9f-8019-4f1e-b504-c078bf62c382]: Modification: [S. 18(2)(d)](https://www.legislation.gov.uk/ukpga/2001/9/section/18/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2001/9/section/18/2/e) saving for effect of 2014 c. 26, s. 94 (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 48(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/1)
 
-[^key-c90b52214fb0e5c575c0a2364f762eb0]: Modification: S. 18(1)(a) saving for effect of 2014 c. 26, s. 94 (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 48(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/1)
+[^c-c90b52214fb0e5c575c0a2364f762eb0]: Modification: S. 18(1)(a) saving for effect of 2014 c. 26, s. 94 (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 48(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/1)
 
-[^key-77eec62f93a589e339dc0eaba391d8d3]: Modification: S. 18(1)(b) saving for effect of 2014 c. 26, s. 94 (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 48(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/1)
+[^c-77eec62f93a589e339dc0eaba391d8d3]: Modification: S. 18(1)(b) saving for effect of 2014 c. 26, s. 94 (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 48(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/1)
 
 [^c12450061]: Textual amendment: Words in s. 18(2)(a) substituted (*retrospective* to 1.4.2002) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 131(2)(4)](https://www.legislation.gov.uk/ukpga/2002/23/section/131/2/4)
 
 [^c12450071]: Textual amendment: Words in s. 18(2)(c) substituted (*retrospective* to 1.4.2002) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 132(3)](https://www.legislation.gov.uk/ukpga/2002/23/section/132/3), [Sch. 38 para. 4(2)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/38/paragraph/4/2)
 
-[^key-ad11fceb731300d7ee25701f8deb42f1]: Textual amendment: S. 18(2)(ca) inserted (retrospective to 1.4.2014) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 48(5)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/5)[(6)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/6)
+[^c-ad11fceb731300d7ee25701f8deb42f1]: Textual amendment: S. 18(2)(ca) inserted (retrospective to 1.4.2014) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 48(5)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/5)[(6)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/6)
 
 [^c12450081]: Textual amendment: S. 18(3)(d)(h) repealed (*retrospective* to 1.4.2002) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [ss. 132(3)](https://www.legislation.gov.uk/ukpga/2002/23/section/132/3), [141](https://www.legislation.gov.uk/ukpga/2002/23/section/141), [Sch. 38 para. 4(3)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/38/paragraph/4/3), [Sch. 40 Pt. 4(3)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/4/3)

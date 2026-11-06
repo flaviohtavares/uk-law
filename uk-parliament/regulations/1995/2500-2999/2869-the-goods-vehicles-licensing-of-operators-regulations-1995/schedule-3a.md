@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3A — Modification of the 1995 Act and these Regulations for certain international operators[^key-39232a1e54ff8d69e583322b4ed2c450]
+## SCHEDULE 3A — Modification of the 1995 Act and these Regulations for certain international operators[^c-39232a1e54ff8d69e583322b4ed2c450]
 
 *Extent: E+W+S*
 
@@ -60,7 +60,7 @@ Section 5 of the 1995 Act has effect as if—
     ;
   - (iii) at the end of paragraph (b) “; or” were omitted;
   - (iv) paragraph (c) were omitted;
-- (ba)[^key-83772f8815727c8b87437afbe18a97e8] in subsection (3)—
+- (ba)[^c-83772f8815727c8b87437afbe18a97e8] in subsection (3)—
   - (i) “motor vehicle or” were omitted;
   - (ii) “motor vehicles or” were omitted;
 - (c) paragraphs (4) to (7) were omitted.
@@ -422,6 +422,6 @@ Paragraph 2 of Schedule 2 has effect as if—
 
 ## Annotations
 
-[^key-39232a1e54ff8d69e583322b4ed2c450]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3A) inserted (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [8](https://www.legislation.gov.uk/uksi/2023/805/regulation/8)
+[^c-39232a1e54ff8d69e583322b4ed2c450]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3A) inserted (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [8](https://www.legislation.gov.uk/uksi/2023/805/regulation/8)
 
-[^key-83772f8815727c8b87437afbe18a97e8]: Textual amendment: [Sch. 3A(2)(ba)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3A/2/ba) inserted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/3)
+[^c-83772f8815727c8b87437afbe18a97e8]: Textual amendment: [Sch. 3A(2)(ba)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3A/2/ba) inserted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/3)

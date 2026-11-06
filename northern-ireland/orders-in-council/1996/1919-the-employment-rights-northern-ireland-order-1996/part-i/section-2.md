@@ -32,7 +32,7 @@ summary: ''
 - “business” includes a trade or profession and includes any activity carried on by a body of persons (whether corporate or unincorporated),
 - “childbirth” means the birth of a living child or the birth of a child whether living or dead after twenty-four weeks of pregnancy,
 - “collective agreement” has the meaning given by Article 2(2) of the 1992 Order,
-- “[^key-ebbcf2d4314ef5e44cba80ddb7287611]**the Contributions and Benefits Act 1992**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992,
+- “[^c-ebbcf2d4314ef5e44cba80ddb7287611]**the Contributions and Benefits Act 1992**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992,
 - “the Department” means the Department of Economic Development,
 - “dismissal procedures agreement” means an agreement in writing with respect to procedures relating to dismissal made by or on behalf of one or more independent trade unions and one or more employers or employers' associations,
 - “employers' association” has the meaning given by Article 4(1) and (2) of the 1992 Order,
@@ -51,8 +51,8 @@ summary: ''
   - (c) in the case of a contract which provides for its termination on the occurrence of an event (or the failure of an event to occur), the occurrence of the event (or the failure of the event to occur).
 - *Definitions rep. by 1999 NI 9*
 - “officer” and “official”, in relation to a trade union, have the same meaning as in the Trade Union and Labour Relations Order,
-- “[^key-21df2e83237afda9e65678dcb88e79f2]**parental bereavement leave**” means leave under Article 112EA,
-- “paternity leave” means leave under Article 112A or 112B,[^key-9876a89cee5113ed74d82e2657d31b47]
+- “[^c-21df2e83237afda9e65678dcb88e79f2]**parental bereavement leave**” means leave under Article 112EA,
+- “paternity leave” means leave under Article 112A or 112B,[^c-9876a89cee5113ed74d82e2657d31b47]
 - “position”, in relation to an employee, means the following matters taken as a whole—
   - (a) his status as an employee,
   - (b) the nature of his work, and
@@ -70,7 +70,7 @@ summary: ''
 - “the 1992 Order” means the [^m00004] Industrial Relations (Northern Ireland) Order 1992,
 - “week”
   - (a) in Chapter III of this Part means a week ending with Saturday, and
-  - (b) otherwise, except in Articles[^c17620951] 107F, 107I,[^key-b58221a335c1f0155e88c73d5a4f902d] 112A, 112B , 112EA[^key-9f9d0812689c682078fa3e30f0ffa502] and 118, means, in relation to an employee whose remuneration is calculated weekly by a week ending with a day other than Saturday, a week ending with that other day and, in relation to any other employee, a week ending with Saturday.
+  - (b) otherwise, except in Articles[^c17620951] 107F, 107I,[^c-b58221a335c1f0155e88c73d5a4f902d] 112A, 112B , 112EA[^c-9f9d0812689c682078fa3e30f0ffa502] and 118, means, in relation to an employee whose remuneration is calculated weekly by a week ending with a day other than Saturday, a week ending with that other day and, in relation to any other employee, a week ending with Saturday.
 
 (4) The definition of “successor” in paragraph (3) has effect (subject to the necessary modifications) in relation to a case where—
 
@@ -100,13 +100,13 @@ done as a means of compelling their employer or any employed person or body of e
 
 [^m00001]: Marginal citation: 1954 c. 33 (N.I.).
 
-[^key-ebbcf2d4314ef5e44cba80ddb7287611]: Textual amendment: Words in art. 2 inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/2/b); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
+[^c-ebbcf2d4314ef5e44cba80ddb7287611]: Textual amendment: Words in art. 2 inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/2/b); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
 
 [^c17620871]: Textual amendment: SR 2002/298
 
-[^key-21df2e83237afda9e65678dcb88e79f2]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/1996/1919/article/2/3) inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 16(a)](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/16/a); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-21df2e83237afda9e65678dcb88e79f2]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/1996/1919/article/2/3) inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 16(a)](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/16/a); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-9876a89cee5113ed74d82e2657d31b47]: Textual amendment: Words in art. 2 substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(2)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/2/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-9876a89cee5113ed74d82e2657d31b47]: Textual amendment: Words in art. 2 substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(2)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/2/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
 [^c17620931]: Textual amendment: [1998 NI 17](https://www.legislation.gov.uk/nisi/1998)
 
@@ -118,6 +118,6 @@ done as a means of compelling their employer or any employed person or body of e
 
 [^c17620951]: Textual amendment: [2002 NI 2](https://www.legislation.gov.uk/nisi/2002)
 
-[^key-b58221a335c1f0155e88c73d5a4f902d]: Textual amendment: Words in art. 2 inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(2)(c)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/2/c); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
+[^c-b58221a335c1f0155e88c73d5a4f902d]: Textual amendment: Words in art. 2 inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(2)(c)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/2/c); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
 
-[^key-9f9d0812689c682078fa3e30f0ffa502]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/1996/1919/article/2/3) inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 16(b)](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/16/b); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-9f9d0812689c682078fa3e30f0ffa502]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/1996/1919/article/2/3) inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 16(b)](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/16/b); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)

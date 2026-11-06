@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255B. Variation and recall of prohibitory property order[^key-96ef677847050b30956e03b1f4cfa95c]
+## 255B. Variation and recall of prohibitory property order[^c-96ef677847050b30956e03b1f4cfa95c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96ef677847050b30956e03b1f4cfa95c]: Textual amendment: Ss. 255A-255F and cross-heading inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/2), [178(7)(a)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/7/a); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/2/a)
+[^c-96ef677847050b30956e03b1f4cfa95c]: Textual amendment: Ss. 255A-255F and cross-heading inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/2), [178(7)(a)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/7/a); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/2/a)

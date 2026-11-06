@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Accompaniment of vertebrate animals by competent persons[^key-21dff10f2f60fc74053919386181d78b]
+## 9. Accompaniment of vertebrate animals by competent persons[^c-21dff10f2f60fc74053919386181d78b]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21dff10f2f60fc74053919386181d78b]: Commencement: Art. 9 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-21dff10f2f60fc74053919386181d78b]: Commencement: Art. 9 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

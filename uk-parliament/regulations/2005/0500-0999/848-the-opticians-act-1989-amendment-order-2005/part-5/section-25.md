@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Subordinate legislation[^key-a199745c0dac2aba27e6feb57dc86b24]
+## 25. Subordinate legislation[^c-a199745c0dac2aba27e6feb57dc86b24]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a199745c0dac2aba27e6feb57dc86b24]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2005/848/article/25) in force at 22.3.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/848/article/1/2)
+[^c-a199745c0dac2aba27e6feb57dc86b24]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2005/848/article/25) in force at 22.3.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/848/article/1/2)

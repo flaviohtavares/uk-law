@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Goods for private use and free supplies of services[^key-721765bb5fd91f8bbf2283e13f836832]
+## 81. Goods for private use and free supplies of services[^c-721765bb5fd91f8bbf2283e13f836832]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-721765bb5fd91f8bbf2283e13f836832]: Commencement: Reg. 81 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-721765bb5fd91f8bbf2283e13f836832]: Commencement: Reg. 81 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

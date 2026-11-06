@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Powers of disposal[^key-eb2e6268cb2cd1ddd42e6287db4e4a76]
+## 46. Powers of disposal[^c-eb2e6268cb2cd1ddd42e6287db4e4a76]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ for the purpose of enabling any person other than the Harbour Authority to make 
 
 ## Annotations
 
-[^key-eb2e6268cb2cd1ddd42e6287db4e4a76]: Commencement: Art. 46 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-eb2e6268cb2cd1ddd42e6287db4e4a76]: Commencement: Art. 46 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

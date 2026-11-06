@@ -41,7 +41,7 @@ Coming into force
 
 Whereas a draft of this instrument was laid before Parliament in accordance with section 190(1) of the Social Security Administration Act 1992 [^c506380] and approved by resolution of each House of Parliament;
 
-Now, therefore, the Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 2AA(1) and (4) to (7), 2B(6), 189(1) and (4) to (6) and 191 of the Social Security Administration Act 1992 [^c506381] and of all other powers enabling him in that behalf, after consultation with the Council on Tribunals in accordance with section 8(1) of the Tribunals and Inquiries Act 1992 [^c506382], by this instrument, which contains only regulations made by virtue of, or consequential upon, section 2AA of the Social Security Administration Act 1992 [^c506383] and which is made before the end of the period of 6 months beginning with the coming into force of that provision, hereby makes the following Regulations:[^key-a5641b71bf7f276c25baba0365b8f570]
+Now, therefore, the Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 2AA(1) and (4) to (7), 2B(6), 189(1) and (4) to (6) and 191 of the Social Security Administration Act 1992 [^c506381] and of all other powers enabling him in that behalf, after consultation with the Council on Tribunals in accordance with section 8(1) of the Tribunals and Inquiries Act 1992 [^c506382], by this instrument, which contains only regulations made by virtue of, or consequential upon, section 2AA of the Social Security Administration Act 1992 [^c506383] and which is made before the end of the period of 6 months beginning with the coming into force of that provision, hereby makes the following Regulations:[^c-a5641b71bf7f276c25baba0365b8f570]
 
 ## 1. Citation and commencement
 
@@ -56,7 +56,7 @@ These Regulations may be cited as the Social Security (Jobcentre Plus Interviews
 - “**the 1998 Act**” means the Social Security Act 1998 [^c506384];
 - “**benefit week**” means any period of seven days corresponding to the week in respect of which the relevant specified benefit is due to be paid;
 - “**claimant**” means a claimant of a specified benefit who has a partner to whom these Regulations apply;
-- “couple” means—[^key-bdf052f25268345351a61ceb3a5d9252]
+- “couple” means—[^c-bdf052f25268345351a61ceb3a5d9252]
   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
   - (b) two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners;
 - “**interview**” means a work-focused interview with a partner which is conducted for any or all of the following purposes—
@@ -69,14 +69,14 @@ These Regulations may be cited as the Social Security (Jobcentre Plus Interviews
 - “**partner**” means a person who is a member of the same couple as the claimant, or, in a case where the claimant has more than one partner, a person who is a partner of the claimant by reason of a polygamous marriage, but only where—
 -
   - (a) the claimant has been awarded a specified benefit at a higher rate referable to that partner; and
-  - (b) both the partner and the claimant have attained the age of 18 but have not attained pensionable age[^key-2fe123a845bc0512c75a42aa5e966f20];
-- “pensionable age”, in the case of a man born before 6th April 1955, means the age when a woman born on the same day as the man would attain pensionable age;[^key-8132cd0f309361b5728078c202b9923d]
+  - (b) both the partner and the claimant have attained the age of 18 but have not attained pensionable age[^c-2fe123a845bc0512c75a42aa5e966f20];
+- “pensionable age”, in the case of a man born before 6th April 1955, means the age when a woman born on the same day as the man would attain pensionable age;[^c-8132cd0f309361b5728078c202b9923d]
 - “**polygamous marriage**” means any marriage during the subsistence of which a party to it is married to more than one person and the ceremony of marriage took place under the law of a country which permits polygamy;
 - “**specified benefit**” means a benefit to which section 2AA applies.
 
-(2)[^key-738d88b864e3a31eee861b0769431259] For the purposes of these Regulations a person is to be treated as responsible for, and a member of the same household as, a child only where the person would be treated as being responsible for, and a member of the same household as, such a child under regulations 15 and 16 of the Income Support (General) Regulations 1987, if references in those Regulations to income support were to a specified benefit.
+(2)[^c-738d88b864e3a31eee861b0769431259] For the purposes of these Regulations a person is to be treated as responsible for, and a member of the same household as, a child only where the person would be treated as being responsible for, and a member of the same household as, such a child under regulations 15 and 16 of the Income Support (General) Regulations 1987, if references in those Regulations to income support were to a specified benefit.
 
-(2) [^key-3410142192b3efc70534ccc9c57b0395]...regulations 3 to 13 apply to a partner in circumstances where on or after 12th April 2004 the claimant’s award of a specified benefit is being administered from an office of the Department for Work and Pensions which is designated by the Secretary of State as a Jobcentre Plus Office [^c506385] and the claimant has been continuously entitled to the benefit for 26 weeks or longer.
+(2) [^c-3410142192b3efc70534ccc9c57b0395]...regulations 3 to 13 apply to a partner in circumstances where on or after 12th April 2004 the claimant’s award of a specified benefit is being administered from an office of the Department for Work and Pensions which is designated by the Secretary of State as a Jobcentre Plus Office [^c506385] and the claimant has been continuously entitled to the benefit for 26 weeks or longer.
 
 ## 3. Requirement for partner to take part in an interview as a condition of a specified benefit continuing to be paid at full amount
 
@@ -117,7 +117,7 @@ An officer shall arrange for an interview to take place as soon as reasonably pr
 
 the partner shall be treated for the purposes of regulation 3 as having complied with that requirement.
 
-## 7. Exemption[^key-405dea32b1e2fb9b0d28b89392e112c3]
+## 7. Exemption[^c-405dea32b1e2fb9b0d28b89392e112c3]
 
 A partner who, on the day on which the requirement to take part in an interview arises or applies under regulation 3, 3A or 6(2) is—
 
@@ -163,14 +163,14 @@ A partner who would otherwise be required under these Regulations to take part i
 
 (1) Where a relevant decision has been made in accordance with regulation 10(3), subject to paragraph (11), the specified benefit payable to the claimant in respect of which the requirement for the partner to take part in an interview under regulation 3 arose shall be reduced, either as from the first day of the next benefit week following the day on which the relevant decision was made, or, if that date arises five days or less after the day on which the relevant decision was made, as from the first day of the second benefit week following the date of the relevant decision.
 
-(2) The deduction made to benefit in accordance with paragraph (1) shall be by a sum equal (but subject to paragraphs (3) and (4)) to 20 per cent. of the amount applicable [^key-2af263cea6d3b2726b2aa516babefe12]... in respect of a single claimant for income support aged not less than 25.
+(2) The deduction made to benefit in accordance with paragraph (1) shall be by a sum equal (but subject to paragraphs (3) and (4)) to 20 per cent. of the amount applicable [^c-2af263cea6d3b2726b2aa516babefe12]... in respect of a single claimant for income support aged not less than 25.
 
 (3) Benefit reduced in accordance with paragraph (1) shall not be reduced below ten pence per week.
 
 (4) Where two or more specified benefits are in payment to a claimant, in relation to each of which a requirement for the partner to take part in an interview had arisen under regulation 3, a deduction made in accordance with this regulation shall be applied, except in a case to which paragraph (5) applies, to those benefits in the following order of priority—
 
 - (a) an income-based jobseeker’s allowance;
-- (aa)[^key-3c6267308aaadd1833ede0256e25c9cb] an income-related employment and support allowance under Part 1 of the Welfare Reform Act 2007 (employment and support allowance);
+- (aa)[^c-3c6267308aaadd1833ede0256e25c9cb] an income-related employment and support allowance under Part 1 of the Welfare Reform Act 2007 (employment and support allowance);
 - (b) income support;
 - (c) incapacity benefit;
 - (d) severe disablement allowance;
@@ -182,7 +182,7 @@ A partner who would otherwise be required under these Regulations to take part i
 
 (7) In a case where the whole of the reduction cannot be applied against any one benefit because no one benefit is the same as, or greater than, the amount of the reduction, the reduction shall be applied against the first benefit in the list of priorities at paragraph (4) and so on against each benefit in turn until the whole of the reduction is exhausted or, if this is not possible, the whole of those benefits are exhausted, subject in each case to ten pence remaining in payment.
 
-(8)[^key-3ad621e7ce0728213b604f5b6a48c4d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-3ad621e7ce0728213b604f5b6a48c4d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Where the partner of a claimant whose benefit has been reduced in accordance with this regulation subsequently takes part in an interview, the reduction shall cease to have effect on the first day of the benefit week in which the requirement to take part in an interview was met.
 
@@ -279,31 +279,31 @@ These Regulations do not impose a charge on business.
 
 [^c506383]: Marginal citation: *See* section 173(5)(b) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-a5641b71bf7f276c25baba0365b8f570]: Modification: Regulations applied (with modifications) (1.10.2010) by [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-a5641b71bf7f276c25baba0365b8f570]: Modification: Regulations applied (with modifications) (1.10.2010) by [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
 
 [^c506384]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
 
-[^key-bdf052f25268345351a61ceb3a5d9252]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/1886/regulation/2/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 66](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/66)
+[^c-bdf052f25268345351a61ceb3a5d9252]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/1886/regulation/2/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 66](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/66)
 
-[^key-2fe123a845bc0512c75a42aa5e966f20]: Textual amendment: Words in reg. 2(1) substituted (6.4.2010) by [Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2010/563/regulation/7/a)
+[^c-2fe123a845bc0512c75a42aa5e966f20]: Textual amendment: Words in reg. 2(1) substituted (6.4.2010) by [Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2010/563/regulation/7/a)
 
-[^key-8132cd0f309361b5728078c202b9923d]: Textual amendment: Words in reg. 2(1) inserted (6.4.2010) by [Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2010/563/regulation/7/b)
+[^c-8132cd0f309361b5728078c202b9923d]: Textual amendment: Words in reg. 2(1) inserted (6.4.2010) by [Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2010/563/regulation/7/b)
 
-[^key-738d88b864e3a31eee861b0769431259]: Textual amendment: Reg. 2(2) inserted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/4/2)
+[^c-738d88b864e3a31eee861b0769431259]: Textual amendment: Reg. 2(2) inserted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/4/2)
 
-[^key-3410142192b3efc70534ccc9c57b0395]: Textual amendment: Words in reg. 2(2) omitted (24.4.2006) by virtue of [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2006/909/regulation/2/4)
+[^c-3410142192b3efc70534ccc9c57b0395]: Textual amendment: Words in reg. 2(2) omitted (24.4.2006) by virtue of [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2006/909/regulation/2/4)
 
 [^c506385]: Marginal citation: A list of offices designated as Jobcentre Plus Offices is available from the Department for Work and Pensions at the following address: Jobcentre Plus Implementation Project, Jobcentre Plus Head Office, Level 1, Steel City House, West Street, Sheffield, S1 2GQ.
 
-[^key-405dea32b1e2fb9b0d28b89392e112c3]: Textual amendment: Reg. 7 substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/4/3)
+[^c-405dea32b1e2fb9b0d28b89392e112c3]: Textual amendment: Reg. 7 substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/4/3)
 
 [^c506386]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); section 2B was inserted by section 57 of the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) and amended by section 53 of, and paragraphs 8 and 9 of Schedule 7 to, and section 54 of, and Schedule 8 to, the [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22).
 
-[^key-2af263cea6d3b2726b2aa516babefe12]: Textual amendment: Words in reg. 11(2) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/16/2/a)
+[^c-2af263cea6d3b2726b2aa516babefe12]: Textual amendment: Words in reg. 11(2) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/16/2/a)
 
-[^key-3c6267308aaadd1833ede0256e25c9cb]: Textual amendment: Reg. 11(4)(aa) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [71(1)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/71/1)
+[^c-3c6267308aaadd1833ede0256e25c9cb]: Textual amendment: Reg. 11(4)(aa) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [71(1)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/71/1)
 
-[^key-3ad621e7ce0728213b604f5b6a48c4d6]: Textual amendment: Reg. 11(8) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/16/2/b)
+[^c-3ad621e7ce0728213b604f5b6a48c4d6]: Textual amendment: Reg. 11(8) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/16/2/b)
 
 [^c506387]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991); relevant amending instruments are [S.I. 1999/2570](https://www.legislation.gov.uk/uksi/1999/2570), 2000/897, 2000/3185 and 2002/1703.
 

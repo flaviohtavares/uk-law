@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Notice of inclusion or removal[^c2116503][^key-663dabcaba725dfb7f8e3967ee135efb]
+## 91. Notice of inclusion or removal[^c2116503][^c-663dabcaba725dfb7f8e3967ee135efb]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ but where it appears to the authority that it is not reasonably practicable to g
 
 [^c2116503]: Commencement: S. 91 in force for specified purposes at Royal Assent see [s. 240(5)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/f)
 
-[^key-663dabcaba725dfb7f8e3967ee135efb]: Commencement: S. 91 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-663dabcaba725dfb7f8e3967ee135efb]: Commencement: S. 91 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

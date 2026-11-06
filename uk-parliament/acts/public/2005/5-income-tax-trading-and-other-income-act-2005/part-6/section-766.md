@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 766. Interest and royalty payments: interpretation[^key-efd288b0572c032b2184cef6f1b697b4]
+## 766. Interest and royalty payments: interpretation[^c-efd288b0572c032b2184cef6f1b697b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efd288b0572c032b2184cef6f1b697b4]: Textual amendment: Ss. 757-767 and cross-heading repealed (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/1/a)
+[^c-efd288b0572c032b2184cef6f1b697b4]: Textual amendment: Ss. 757-767 and cross-heading repealed (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/1/a)

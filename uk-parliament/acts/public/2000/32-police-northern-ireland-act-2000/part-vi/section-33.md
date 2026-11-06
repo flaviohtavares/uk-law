@@ -22,7 +22,7 @@ summary: ''
 
 (1) The police shall be under the direction and control of the Chief Constable.
 
-(2)[^key-229a5aa370519b49a8b4a9741d61a664] The Chief Constable shall have regard to the policing plan in discharging his functions.
+(2)[^c-229a5aa370519b49a8b4a9741d61a664] The Chief Constable shall have regard to the policing plan in discharging his functions.
 
 (3) The Chief Constable shall have regard to any code of practice under section 27 in discharging his functions.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-229a5aa370519b49a8b4a9741d61a664]: Textual amendment: S. 33(2)-(4) substituted for s. 33(2) (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 21](https://www.legislation.gov.uk/ukpga/2003/6/section/21)
+[^c-229a5aa370519b49a8b4a9741d61a664]: Textual amendment: S. 33(2)-(4) substituted for s. 33(2) (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 21](https://www.legislation.gov.uk/ukpga/2003/6/section/21)

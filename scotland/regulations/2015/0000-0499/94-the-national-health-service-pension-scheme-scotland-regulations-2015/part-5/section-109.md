@@ -69,9 +69,9 @@ but a person falling within paragraph (8) is not to be regarded as a pensioner f
 
 - (a) a pension that is forfeited—
   - (i) as a result of a conviction for treason; or
-  - (ii) in a case where an offence within 12(2)(b) of Schedule 3 [^key-fda48bce861cdf0cad597cdf618e482d]... is committed,
+  - (ii) in a case where an offence within 12(2)(b) of Schedule 3 [^c-fda48bce861cdf0cad597cdf618e482d]... is committed,
 - (b) a pension that is commuted under regulation 108 (option for members in serious ill- health to exchange whole pension for lump sum); or
-- (c) a pension that is commuted under paragraph 6 of Schedule 3 (commutation of small pensions) where the conditions in regulation 25 of the Occupational Pension Schemes (Schemes that were Contracted-out) ([^key-b2282968159e6edb9bd38499b2c1d204]No. 2) Regulations 2015 are met,
+- (c) a pension that is commuted under paragraph 6 of Schedule 3 (commutation of small pensions) where the conditions in regulation 25 of the Occupational Pension Schemes (Schemes that were Contracted-out) ([^c-b2282968159e6edb9bd38499b2c1d204]No. 2) Regulations 2015 are met,
 
 but if any other provision of this scheme is inconsistent with this regulation, this regulation prevails.
 
@@ -85,6 +85,6 @@ but if any other provision of this scheme is inconsistent with this regulation, 
 
 ## Annotations
 
-[^key-fda48bce861cdf0cad597cdf618e482d]: Textual amendment: Words in [reg. 109(10)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/94/regulation/109/10/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 48(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/48/3)
+[^c-fda48bce861cdf0cad597cdf618e482d]: Textual amendment: Words in [reg. 109(10)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/94/regulation/109/10/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 48(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/48/3)
 
-[^key-b2282968159e6edb9bd38499b2c1d204]: Textual amendment: Words in [reg. 109(10)(c)](https://www.legislation.gov.uk/ssi/2015/94/regulation/109/10/c) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2017/28/regulation/13)
+[^c-b2282968159e6edb9bd38499b2c1d204]: Textual amendment: Words in [reg. 109(10)(c)](https://www.legislation.gov.uk/ssi/2015/94/regulation/109/10/c) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2017/28/regulation/13)

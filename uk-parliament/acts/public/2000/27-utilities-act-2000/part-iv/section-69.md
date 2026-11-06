@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Help for disadvantaged groups of electricity customers.[^key-ff6a7068eedb427a469811963189baec]
+## 69. Help for disadvantaged groups of electricity customers.[^c-ff6a7068eedb427a469811963189baec]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff6a7068eedb427a469811963189baec]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/2000/27/section/69) omitted (8.6.2010) by virtue of [Energy Act 2010 (c. 27)](https://www.legislation.gov.uk/ukpga/2010/27), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2010/27/section/38/3), [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/13)
+[^c-ff6a7068eedb427a469811963189baec]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/2000/27/section/69) omitted (8.6.2010) by virtue of [Energy Act 2010 (c. 27)](https://www.legislation.gov.uk/ukpga/2010/27), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2010/27/section/38/3), [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/13)

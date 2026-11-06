@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Notification of name of appointed person[^key-24b85c451daa1d16fea9cd7b3739b019]
+## 36. Notification of name of appointed person[^c-24b85c451daa1d16fea9cd7b3739b019]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24b85c451daa1d16fea9cd7b3739b019]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2017/544/regulation/36) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-24b85c451daa1d16fea9cd7b3739b019]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2017/544/regulation/36) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

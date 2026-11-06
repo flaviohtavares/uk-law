@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Short title[^key-3089e6b70e2362b9614acac906d1c4c4]
+## 9. Short title[^c-3089e6b70e2362b9614acac906d1c4c4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Health and Social Care Act (Northern Ireland) 2022.
 
 ## Annotations
 
-[^key-3089e6b70e2362b9614acac906d1c4c4]: Commencement: S. 9 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-3089e6b70e2362b9614acac906d1c4c4]: Commencement: S. 9 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)

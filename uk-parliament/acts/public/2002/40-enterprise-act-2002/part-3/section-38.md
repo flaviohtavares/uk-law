@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Investigations and reports on references under section 22 or 33[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]
+## 38. Investigations and reports on references under section 22 or 33[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,12 +30,12 @@ summary: ''
 
 (3) The CMA shall carry out such investigations as it considers appropriate for the purposes of preparing a report under this section.
 
-(4)[^key-57cc9b34e60746733c54852a5aa932a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-57cc9b34e60746733c54852a5aa932a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^M_F_afd2a374-9a57-4c1a-cfe0-d30c52476e9f]: Textual amendment: Word in s. 38(1)-(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/26/3), [Sch. 5 para. 78(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/78/2) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)), [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d)
 
-[^key-57cc9b34e60746733c54852a5aa932a4]: Textual amendment: S. 38(4) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 78(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/78/3) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-57cc9b34e60746733c54852a5aa932a4]: Textual amendment: S. 38(4) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 78(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/78/3) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

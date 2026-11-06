@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Electoral review recommendations and decisions: duty to have regard to representations[^key-62c358743136bfcdf5c5bfe53326b3b4]
+## 43. Electoral review recommendations and decisions: duty to have regard to representations[^c-62c358743136bfcdf5c5bfe53326b3b4]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62c358743136bfcdf5c5bfe53326b3b4]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2024/5/section/43) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-62c358743136bfcdf5c5bfe53326b3b4]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2024/5/section/43) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

@@ -35,62 +35,62 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-33efc765bc0519e6f7a4ce21824a7202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33efc765bc0519e6f7a4ce21824a7202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-33efc765bc0519e6f7a4ce21824a7202] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-33efc765bc0519e6f7a4ce21824a7202] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-33efc765bc0519e6f7a4ce21824a7202] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-33efc765bc0519e6f7a4ce21824a7202] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-33efc765bc0519e6f7a4ce21824a7202] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-33efc765bc0519e6f7a4ce21824a7202] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33efc765bc0519e6f7a4ce21824a7202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33efc765bc0519e6f7a4ce21824a7202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-33efc765bc0519e6f7a4ce21824a7202]
+## ANNEX[^c-33efc765bc0519e6f7a4ce21824a7202]
 
-[^key-33efc765bc0519e6f7a4ce21824a7202] Disclosure Initiative
+[^c-33efc765bc0519e6f7a4ce21824a7202] Disclosure Initiative
 
 (Amendments to IAS 7)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33efc765bc0519e6f7a4ce21824a7202] Amendments to IAS 7 Statement of Cash Flows
+[^c-33efc765bc0519e6f7a4ce21824a7202] Amendments to IAS 7 Statement of Cash Flows
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33efc765bc0519e6f7a4ce21824a7202]CHANGES IN LIABILITIES ARISING FROM FINANCING ACTIVITIES
+[^c-33efc765bc0519e6f7a4ce21824a7202]CHANGES IN LIABILITIES ARISING FROM FINANCING ACTIVITIES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33efc765bc0519e6f7a4ce21824a7202] 44A
+[^c-33efc765bc0519e6f7a4ce21824a7202] 44A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33efc765bc0519e6f7a4ce21824a7202]44B
+[^c-33efc765bc0519e6f7a4ce21824a7202]44B
 
 To the extent necessary to satisfy the requirement in paragraph 44A, an entity shall disclose the following changes in liabilities arising from financing activities:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33efc765bc0519e6f7a4ce21824a7202]44C
+[^c-33efc765bc0519e6f7a4ce21824a7202]44C
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33efc765bc0519e6f7a4ce21824a7202]44D
+[^c-33efc765bc0519e6f7a4ce21824a7202]44D
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33efc765bc0519e6f7a4ce21824a7202]44E
+[^c-33efc765bc0519e6f7a4ce21824a7202]44E
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33efc765bc0519e6f7a4ce21824a7202]EFFECTIVE DATE
+[^c-33efc765bc0519e6f7a4ce21824a7202]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33efc765bc0519e6f7a4ce21824a7202]60
+[^c-33efc765bc0519e6f7a4ce21824a7202]60
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33efc765bc0519e6f7a4ce21824a7202]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/58) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33efc765bc0519e6f7a4ce21824a7202]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/58) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

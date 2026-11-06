@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Goods Vehicles (Licensing of Operators) (Temporary Use in Great Britain) (Amendment) Regulations 2010 (revoked)[^key-313a081da05db6dafea8c826e05a65c7]
+The Goods Vehicles (Licensing of Operators) (Temporary Use in Great Britain) (Amendment) Regulations 2010 (revoked)[^c-313a081da05db6dafea8c826e05a65c7]
 
 Made
 
@@ -44,28 +44,28 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1.
 
-[^key-313a081da05db6dafea8c826e05a65c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-313a081da05db6dafea8c826e05a65c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-313a081da05db6dafea8c826e05a65c7]
+## 1. Citation, commencement and interpretation[^c-313a081da05db6dafea8c826e05a65c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments concerning EU cabotage rules[^key-313a081da05db6dafea8c826e05a65c7]
+## 2. Amendments concerning EU cabotage rules[^c-313a081da05db6dafea8c826e05a65c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments concerning Turkish goods vehicles[^key-313a081da05db6dafea8c826e05a65c7]
+## 3. Amendments concerning Turkish goods vehicles[^c-313a081da05db6dafea8c826e05a65c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-313a081da05db6dafea8c826e05a65c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-313a081da05db6dafea8c826e05a65c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-313a081da05db6dafea8c826e05a65c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-313a081da05db6dafea8c826e05a65c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-313a081da05db6dafea8c826e05a65c7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/804) revoked (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [10](https://www.legislation.gov.uk/uksi/2023/805/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/uksi/2023/805/regulation/11))
+[^c-313a081da05db6dafea8c826e05a65c7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/804) revoked (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [10](https://www.legislation.gov.uk/uksi/2023/805/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/uksi/2023/805/regulation/11))

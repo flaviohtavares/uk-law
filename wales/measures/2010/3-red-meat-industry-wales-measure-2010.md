@@ -38,7 +38,7 @@ A Measure of the National Assembly for Wales to make provision about imposing a 
 
 **This Measure, passed by the National Assembly for Wales on 10 March 2010 and approved by Her Majesty in Council on 11 May 2010, enacts the following provisions:—**
 
-## 1. Meaning of the “red meat industry”[^key-dbb28da4b3e1b125f011ceeffbf5e67d]
+## 1. Meaning of the “red meat industry”[^c-dbb28da4b3e1b125f011ceeffbf5e67d]
 
 (1) In this Measure, “**the red meat industry**” means—
 
@@ -64,7 +64,7 @@ and may be exercised differently in relation to different sectors of the industr
 
 (4) Any reference in this Measure to animals includes (where the context requires) a reference to animals that are dead.
 
-## 2. Objectives[^key-525ce22b5187c1eb2d76e9b9782efbe7]
+## 2. Objectives[^c-525ce22b5187c1eb2d76e9b9782efbe7]
 
 For the purposes of this Measure, the objectives are—
 
@@ -73,7 +73,7 @@ For the purposes of this Measure, the objectives are—
 - (c) improving or developing services that the industry provides or could provide to the community; and
 - (d) improving the ways in which the industry contributes to sustainable development.
 
-## 3. Functions[^key-98c3873309ef46d44792b6b44dba916a]
+## 3. Functions[^c-98c3873309ef46d44792b6b44dba916a]
 
 (1) The Welsh Ministers may do anything that they consider appropriate to further the objectives.
 
@@ -90,24 +90,24 @@ For the purposes of this Measure, the objectives are—
 
 ## 4. Imposing a levy: designation of persons liable
 
-(1)[^key-e467b12a0ec2e180eecf3ca76e2b8dab] The Welsh Ministers may impose a levy or levies in accordance with this section for the purpose of meeting expenditure incurred, or to be incurred, in—
+(1)[^c-e467b12a0ec2e180eecf3ca76e2b8dab] The Welsh Ministers may impose a levy or levies in accordance with this section for the purpose of meeting expenditure incurred, or to be incurred, in—
 
 - (a) furthering any of the objectives;
 - (b) carrying out other functions relevant to the red meat industry; and
 - (c) otherwise providing services relevant to the red meat industry.
 
-(2)[^key-e467b12a0ec2e180eecf3ca76e2b8dab] Levy paid by persons in respect of activities in the cattle sector, the sheep sector or the pig sector may not be used for the purpose of meeting expenditure incurred, or to be incurred, specifically in relation to a different sector.
+(2)[^c-e467b12a0ec2e180eecf3ca76e2b8dab] Levy paid by persons in respect of activities in the cattle sector, the sheep sector or the pig sector may not be used for the purpose of meeting expenditure incurred, or to be incurred, specifically in relation to a different sector.
 
-(3)[^key-b9fc7dbd4c78c119f4358027586cda68] The Welsh Ministers may impose a levy—
+(3)[^c-b9fc7dbd4c78c119f4358027586cda68] The Welsh Ministers may impose a levy—
 
 - (a) on slaughterers if (and only if) slaughterers have been designated, by order made by the Welsh Ministers, as liable to levy under this Measure; and
 - (b) on exporters if (and only if) exporters have been designated, by order made by the Welsh Ministers, as liable to levy under this Measure.
 
-(4)[^key-e467b12a0ec2e180eecf3ca76e2b8dab] The Welsh Ministers may impose a levy on persons who carry out a primary activity if (and only if) that primary activity has been designated, by order made by the Welsh Ministers, as liable to levy under this Measure.
+(4)[^c-e467b12a0ec2e180eecf3ca76e2b8dab] The Welsh Ministers may impose a levy on persons who carry out a primary activity if (and only if) that primary activity has been designated, by order made by the Welsh Ministers, as liable to levy under this Measure.
 
-(5)[^key-e467b12a0ec2e180eecf3ca76e2b8dab] The Welsh Ministers may impose a levy on persons who carry out a secondary activity if (and only if) that secondary activity has been designated, by order made by the Welsh Ministers, as liable to levy under this Measure.
+(5)[^c-e467b12a0ec2e180eecf3ca76e2b8dab] The Welsh Ministers may impose a levy on persons who carry out a secondary activity if (and only if) that secondary activity has been designated, by order made by the Welsh Ministers, as liable to levy under this Measure.
 
-(6)[^key-e467b12a0ec2e180eecf3ca76e2b8dab] In this section—
+(6)[^c-e467b12a0ec2e180eecf3ca76e2b8dab] In this section—
 
 - “primary activity” (*“gweithgaredd cynradd”*) means breeding, keeping, processing, marketing or distributing cattle, sheep or pigs (but does not include slaughtering or exporting cattle, sheep or pigs);
 - “secondary activity” (*“gweithgaredd eilaidd”*) means an activity which—
@@ -117,30 +117,30 @@ For the purposes of this Measure, the objectives are—
 
 ## 5. Levies imposed on slaughterers or exporters — calculating the levy and payment
 
-(1)[^key-eebc5d0114a95f05103c2186500413c7] A levy imposed on slaughterers or exporters for any period is calculated by reference to the number of chargeable cattle, sheep or pigs.
+(1)[^c-eebc5d0114a95f05103c2186500413c7] A levy imposed on slaughterers or exporters for any period is calculated by reference to the number of chargeable cattle, sheep or pigs.
 
-(2)[^key-eebc5d0114a95f05103c2186500413c7] In Schedule 2—
+(2)[^c-eebc5d0114a95f05103c2186500413c7] In Schedule 2—
 
 - (a) Part 1 makes further provision about how levies must be calculated, and
 - (b) Part 2 provides for the date by which levies must be paid.
 
-(3)[^key-eebc5d0114a95f05103c2186500413c7] In respect of levies imposed on slaughterers or exporters, the Welsh Ministers may make regulations about procedures relating to—
+(3)[^c-eebc5d0114a95f05103c2186500413c7] In respect of levies imposed on slaughterers or exporters, the Welsh Ministers may make regulations about procedures relating to—
 
 - (a) the imposition of levies (including notification to persons liable to pay a levy of the amount which they are required to pay), and
 - (b) payment and collection of levies.
 
-(4)[^key-6454d84b2df9f3ddc3bbdd7a4a1e68ca] The Welsh Ministers may, by order, amend Schedule 2 by—
+(4)[^c-6454d84b2df9f3ddc3bbdd7a4a1e68ca] The Welsh Ministers may, by order, amend Schedule 2 by—
 
 - (a) amending or omitting provisions;
 - (b) adding provisions; or
 - (c) amending or omitting any provisions which have been added.
 
-(5)[^key-eebc5d0114a95f05103c2186500413c7] In this Measure “chargeable cattle, sheep or pigs” (*“gwartheg, defaid neu foch y gellir codi ardoll amdanynt”*), in respect of any period for which levy is imposed—
+(5)[^c-eebc5d0114a95f05103c2186500413c7] In this Measure “chargeable cattle, sheep or pigs” (*“gwartheg, defaid neu foch y gellir codi ardoll amdanynt”*), in respect of any period for which levy is imposed—
 
 - (a) in relation to a slaughterer, means cattle, sheep or pigs slaughtered by the slaughterer in that period; and
 - (b) in relation to an exporter, means cattle, sheep or pigs exported by the exporter in that period.
 
-## 6. Power to make provision about levies imposed in respect of persons carrying out a designated primary activity or a designated secondary activity[^key-a334a8fa4b9f57180b6c7709d196f2d9]
+## 6. Power to make provision about levies imposed in respect of persons carrying out a designated primary activity or a designated secondary activity[^c-a334a8fa4b9f57180b6c7709d196f2d9]
 
 (1) A levy imposed on persons carrying out a designated primary activity or a designated secondary activity for any period is calculated by reference to the number of chargeable cattle, sheep or pigs.
 
@@ -156,7 +156,7 @@ For the purposes of this Measure, the objectives are—
 
 (4) In this Measure “chargeable cattle, sheep or pigs” (*“gwartheg, defaid neu foch y gellir codi ardoll amdanynt”*), in relation to a person carrying out a designated primary or secondary activity and in respect of any period for which levy is imposed, means cattle, sheep or pigs in respect of which that activity is carried out in that period.
 
-## 7. Delegation and subsidiaries[^key-0ee8aec48eb104eae36c6e3dd10939af]
+## 7. Delegation and subsidiaries[^c-0ee8aec48eb104eae36c6e3dd10939af]
 
 (1) The Welsh Ministers may, to any extent and subject to any conditions as they think appropriate, delegate any of their functions under this Measure (other than excepted functions) to any person.
 
@@ -171,7 +171,7 @@ For the purposes of this Measure, the objectives are—
 
 (5) Any agreement or arrangement made under this section by the Welsh Ministers for delegating a function, or for arranging that a subsidiary will carry out a function, does not prevent the Welsh Ministers from exercising the function, if they consider that it is necessary or expedient for them to do so.
 
-## 8. Returns and estimates[^key-dd47d15921d0228790f6de53231ac5ca]
+## 8. Returns and estimates[^c-dd47d15921d0228790f6de53231ac5ca]
 
 (1) The Welsh Ministers may give directions requiring persons who are liable to pay a levy in respect of any period to submit a return relating to that period.
 
@@ -200,7 +200,7 @@ the Welsh Ministers may estimate the number of animals that ought have been note
 
 (9) A person who provides false or misleading information relating to any requirements under this Measure is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 9. Provision of information[^key-606f76e8ef9f01e066c47d60646c131f]
+## 9. Provision of information[^c-606f76e8ef9f01e066c47d60646c131f]
 
 (1) Persons liable to pay a levy under this Measure must—
 
@@ -209,7 +209,7 @@ the Welsh Ministers may estimate the number of animals that ought have been note
 
 (2) A person who fails to comply with this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 10. Inspection[^key-4747188dfd5dbfdc11cc50a812b300bd]
+## 10. Inspection[^c-4747188dfd5dbfdc11cc50a812b300bd]
 
 The Welsh Ministers may appoint a person (in this Measure referred to as an “**appointed person**”) to ascertain whether—
 
@@ -218,7 +218,7 @@ The Welsh Ministers may appoint a person (in this Measure referred to as an “*
 - (c) the levy due under this Measure has been paid; and
 - (d) an offence under this Measure is being or has been committed.
 
-## 11. Powers of entry[^key-a6b211c63a0f73c77cf7acf90fd2598b]
+## 11. Powers of entry[^c-a6b211c63a0f73c77cf7acf90fd2598b]
 
 (1) A justice of the peace may, if satisfied on the application of an appointed person that the requirements set out in subsections (2) and (3) are met, issue a warrant authorising that person—
 
@@ -284,7 +284,7 @@ The Welsh Ministers may appoint a person (in this Measure referred to as an “*
 
 (13) Any expenses incurred by an appointed person in proceedings for an offence under subsection (12) are, so far as not recoverable from any other source, recoverable from the person who committed the offence.
 
-## 12. Offences committed by bodies or partnerships[^key-826047e983e96ceb5c1f578d803e4db7]
+## 12. Offences committed by bodies or partnerships[^c-826047e983e96ceb5c1f578d803e4db7]
 
 (1) Where a body corporate is guilty of an offence under this Measure, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of,—
 
@@ -305,13 +305,13 @@ that person is guilty of the offence as well as the body corporate, and is liabl
 
 (7) Where an offence under this Measure committed by a partnership or a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-## 13. Time limits for bringing proceedings[^key-1714e8bb602890cb9b856783defc2182]
+## 13. Time limits for bringing proceedings[^c-1714e8bb602890cb9b856783defc2182]
 
 (1) Proceedings for an offence under this Measure may be brought at any time within the period of 6 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to the prosecutor's knowledge.
 
 (2) But proceedings cannot be commenced more than 2 years after the date on which the offence was committed.
 
-## 14. Definitions[^key-40320c3ad96867d0daff93f75b7d32b4]
+## 14. Definitions[^c-40320c3ad96867d0daff93f75b7d32b4]
 
 In this Measure—
 
@@ -323,7 +323,7 @@ In this Measure—
 - “pigs” (*“moch”*) means porcine animals, including wild boar and other feral pigs;
 - “slaughterer” (*“cigyddwr”*) means any person who has the control and management of a slaughterhouse.
 
-## 15. Abolition of the Welsh Levy Board[^key-6fcf2ef6ffced30af99004e77735aa5b]
+## 15. Abolition of the Welsh Levy Board[^c-6fcf2ef6ffced30af99004e77735aa5b]
 
 (1) The Welsh Levy Board is abolished.
 
@@ -333,7 +333,7 @@ In this Measure—
 
 (4) The Welsh Levy Board Order 2008 (S.I.2008/420) is revoked.
 
-## 16. Directions[^key-583ee5ae3a2aad069ce3d7fecdf0f4c8]
+## 16. Directions[^c-583ee5ae3a2aad069ce3d7fecdf0f4c8]
 
 (1) Any direction given by the Welsh Ministers under this Measure—
 
@@ -377,14 +377,14 @@ This Measure may be cited as the Red Meat Industry (Wales) Measure 2010.
 
 *(introduced by section 3)*
 
-**1.**[^key-bd88b45da68843a3446e6a6b4c462859] Promoting or undertaking scientific research.
+**1.**[^c-bd88b45da68843a3446e6a6b4c462859] Promoting or undertaking scientific research.
 
-**2.**[^key-699d5504c87882e0d9cd7b93a0f6f824] Promoting or undertaking inquiry into—
+**2.**[^c-699d5504c87882e0d9cd7b93a0f6f824] Promoting or undertaking inquiry into—
 
 - (a) materials and equipment, and
 - (b) methods of production, management and use of labour.
 
-**3.**[^key-7422e23b723760385bea1a36b107db7b] Promoting or undertaking inquiry under paragraph 2 includes promoting or undertaking—
+**3.**[^c-7422e23b723760385bea1a36b107db7b] Promoting or undertaking inquiry under paragraph 2 includes promoting or undertaking—
 
 - (a) the discovery and development of—
   - (i) new materials, equipment and methods, and
@@ -392,56 +392,56 @@ This Measure may be cited as the Red Meat Industry (Wales) Measure 2010.
 - (b) the assessment of the advantages of different options, and
 - (c) the conduct of experimental establishments and of tests on a commercial scale.
 
-**4.**[^key-d64fce4cfc25185764e9e180cd755409] Promoting the production and marketing of standard products.
+**4.**[^c-d64fce4cfc25185764e9e180cd755409] Promoting the production and marketing of standard products.
 
-**5.**[^key-4a33255ba13ecf66c29afd97c6433159] Promoting the better definition of trade descriptions and consistency in the use of trade descriptions.
+**5.**[^c-4a33255ba13ecf66c29afd97c6433159] Promoting the better definition of trade descriptions and consistency in the use of trade descriptions.
 
-**6.**[^key-348da084f4f9c252575a6130c0a7f0db] Developing, promoting, marketing or operating—
+**6.**[^c-348da084f4f9c252575a6130c0a7f0db] Developing, promoting, marketing or operating—
 
 - (a) standards relating to the quality of products, or
 - (b) systems for the classification of products.
 
-**7.**[^key-667263f3b67a9f6349f4a08ef14a5041] Developing, reviewing or operating schemes for the certification of products or of operations connected with production or supply of products.
+**7.**[^c-667263f3b67a9f6349f4a08ef14a5041] Developing, reviewing or operating schemes for the certification of products or of operations connected with production or supply of products.
 
-**8.**[^key-d217658ab7d207afb660455a06ad9409] Undertaking the certification of products, the registration of certification trade marks, and the functions of proprietors of those marks.
+**8.**[^c-d217658ab7d207afb660455a06ad9409] Undertaking the certification of products, the registration of certification trade marks, and the functions of proprietors of those marks.
 
-**9.**[^key-4833ce6f74603bb5a610e75f09585b08] Providing or promoting the provision of—
+**9.**[^c-4833ce6f74603bb5a610e75f09585b08] Providing or promoting the provision of—
 
 - (a) training for persons engaged in or proposing to be engaged in the red meat industry, and
 - (b) their education in subjects relevant to the industry.
 
-**10.**[^key-822667cf6848e8f7f495c6bc53bd09eb] Promoting—
+**10.**[^c-822667cf6848e8f7f495c6bc53bd09eb] Promoting—
 
 - (a) the adoption of measures for securing safer and better working conditions, and
 - (b) the provision and improvement of amenities for persons employed in the red meat industry.
 
-**11.**[^key-3b417c34963e973e90321ca2700acba5] Promoting or undertaking inquiry as to measures for securing safer and better working conditions.
+**11.**[^c-3b417c34963e973e90321ca2700acba5] Promoting or undertaking inquiry as to measures for securing safer and better working conditions.
 
-**12.**[^key-e73ae873bd32eb9ee91a5139e4d14759] Promoting or undertaking research into the incidence, prevention and cure of industrial diseases.
+**12.**[^c-e73ae873bd32eb9ee91a5139e4d14759] Promoting or undertaking research into the incidence, prevention and cure of industrial diseases.
 
-**13.**[^key-7c7509df5ec16b9d1e655657595ee123] Promoting or undertaking arrangements for encouraging the entry of persons into the red meat industry.
+**13.**[^c-7c7509df5ec16b9d1e655657595ee123] Promoting or undertaking arrangements for encouraging the entry of persons into the red meat industry.
 
-**14.**[^key-e5c26388d0c497723254698dc88ed99c] Promoting or undertaking research for improving arrangements for marketing and distributing products.
+**14.**[^c-e5c26388d0c497723254698dc88ed99c] Promoting or undertaking research for improving arrangements for marketing and distributing products.
 
-**15.**[^key-92025a853503874f95e619bb89f4aec6] Promoting or undertaking research into matters relating to the consumption or use of goods and services supplied by the red meat industry.
+**15.**[^c-92025a853503874f95e619bb89f4aec6] Promoting or undertaking research into matters relating to the consumption or use of goods and services supplied by the red meat industry.
 
-**16.**[^key-caf1b3635db46207b27cfc1712a34626] Promoting arrangements—
+**16.**[^c-caf1b3635db46207b27cfc1712a34626] Promoting arrangements—
 
 - (a) for co-operative organizations,
 - (b) for supplying materials and equipment, and
 - (c) for marketing and distributing products.
 
-**17.**[^key-ad313ada7db7b99919919d599de3be8b] Promoting the development of export trade, including promoting or undertaking arrangements for publicity overseas.
+**17.**[^c-ad313ada7db7b99919919d599de3be8b] Promoting the development of export trade, including promoting or undertaking arrangements for publicity overseas.
 
-**18.**[^key-2923d3da6c5e5700b80b3e811adbae08] Promoting or undertaking arrangements for better acquainting the public in the United Kingdom with the goods and services supplied by the red meat industry and methods of using them.
+**18.**[^c-2923d3da6c5e5700b80b3e811adbae08] Promoting or undertaking arrangements for better acquainting the public in the United Kingdom with the goods and services supplied by the red meat industry and methods of using them.
 
-**19.**[^key-8982cd4d6a9369fc40cc6029c025274b] Promoting or undertaking the collection and formulation of statistics.
+**19.**[^c-8982cd4d6a9369fc40cc6029c025274b] Promoting or undertaking the collection and formulation of statistics.
 
-**20.**[^key-f247ed7f837311d249fb6ab0b0ea32c1] Advising on any matters relating to the red meat industry and undertaking inquiry for those purposes.
+**20.**[^c-f247ed7f837311d249fb6ab0b0ea32c1] Advising on any matters relating to the red meat industry and undertaking inquiry for those purposes.
 
-**21.**[^key-ac16c52fbcd1395932100d5e8cd6f83f] Undertaking arrangements for making information relating to the red meat industry available.
+**21.**[^c-ac16c52fbcd1395932100d5e8cd6f83f] Undertaking arrangements for making information relating to the red meat industry available.
 
-**22.**[^key-275b54b65e9970044b24312707cee1b8] Engaging in any form of collaboration or co-operation with other persons in performing any of the functions.
+**22.**[^c-275b54b65e9970044b24312707cee1b8] Engaging in any form of collaboration or co-operation with other persons in performing any of the functions.
 
 ## SCHEDULE 2 — PAYMENT
 
@@ -449,42 +449,42 @@ This Measure may be cited as the Red Meat Industry (Wales) Measure 2010.
 
 ### PART 1 — CALCULATING A LEVY AND PAYMENT
 
-**1.**[^key-25296cc88f5516eba656bbf22f0ad778] Levy imposed on a slaughterer or exporter is to be calculated in accordance with this Part.
+**1.**[^c-25296cc88f5516eba656bbf22f0ad778] Levy imposed on a slaughterer or exporter is to be calculated in accordance with this Part.
 
-**2.**[^key-df724a493e410c0f78d3f8fde2d194e4] Levy is calculated by adding together the following separate components in respect of each animal slaughtered or exported—
+**2.**[^c-df724a493e410c0f78d3f8fde2d194e4] Levy is calculated by adding together the following separate components in respect of each animal slaughtered or exported—
 
 - (a) the production component, and
 - (b) the slaughter or export component.
 
-**3.**[^key-25323518d0c0fdf2a0b59a89c354cf86] (1) The Welsh Ministers may determine the rate of the production component and the slaughter or export component.
+**3.**[^c-25323518d0c0fdf2a0b59a89c354cf86] (1) The Welsh Ministers may determine the rate of the production component and the slaughter or export component.
 
 (2) The Welsh Ministers may determine different rates for different cases (including different descriptions of slaughterer or exporter and different descriptions of animal).
 
 (3) The rates determined under this paragraph may include a nil rate, but cannot exceed the maximum rates set out in this Schedule.
 
-**4.**[^key-24e985fe7007495cba20f16c090fd55a] For the purposes of the tables set out in the following paragraphs—
+**4.**[^c-24e985fe7007495cba20f16c090fd55a] For the purposes of the tables set out in the following paragraphs—
 
 - (a) a calf is an animal under six months old (in the case of an exported animal) or an animal with a dressed slaughter weight of less than 68 kg (in the case of a slaughtered animal); and
 - (b) a reference to “**cattle**” does not include calves.
 
 #### Maximum rate of production component
 
-**5.**[^key-fce2c06d6f40d11e0138b54147a46451] The production component in respect of each animal cannot exceed the maximum rates set out in the following table—
+**5.**[^c-fce2c06d6f40d11e0138b54147a46451] The production component in respect of each animal cannot exceed the maximum rates set out in the following table—
 
 | ***Animal*** | ***Maximum rate of production component per animal*** |
 | --- | --- |
-| Cattle[^key-81df641c637e9cb89833eec4f4a1d129] | £ 6.91 |
+| Cattle[^c-81df641c637e9cb89833eec4f4a1d129] | £ 6.91 |
 | Calves | £ 0.50 |
 | Sheep | £ 1.00 |
 | Pigs | £ 1.67 |
 
 #### Maximum rate of slaughter or export component
 
-**6.**[^key-205ac599130819e9da7bf11450b4bffd] The slaughter or export component in respect of each animal cannot exceed the maximum rates set out in the following table—
+**6.**[^c-205ac599130819e9da7bf11450b4bffd] The slaughter or export component in respect of each animal cannot exceed the maximum rates set out in the following table—
 
 | ***Animal*** | ***Maximum rate of slaughter or export component per animal*** |
 | --- | --- |
-| Cattle[^key-0f161bdda27188f4c6d20902b0612819] | £ 2.12 |
+| Cattle[^c-0f161bdda27188f4c6d20902b0612819] | £ 2.12 |
 | Calves | £ 0.50 |
 | Sheep | £ 0.32 |
 | Pigs | £ 0.40 |
@@ -493,104 +493,104 @@ This Measure may be cited as the Red Meat Industry (Wales) Measure 2010.
 
 #### Payment of levy by slaughterers and exporters
 
-**7.**[^key-e52a98c7a1a05a594659bd85112b0f61] A slaughterer or exporter must pay a levy imposed in respect of chargeable cattle, sheep or pigs in any month within 15 days from the end of that month.
+**7.**[^c-e52a98c7a1a05a594659bd85112b0f61] A slaughterer or exporter must pay a levy imposed in respect of chargeable cattle, sheep or pigs in any month within 15 days from the end of that month.
 
 ## Annotations
 
-[^key-dbb28da4b3e1b125f011ceeffbf5e67d]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2010/3/section/1) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-dbb28da4b3e1b125f011ceeffbf5e67d]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2010/3/section/1) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-525ce22b5187c1eb2d76e9b9782efbe7]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2010/3/section/2) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-525ce22b5187c1eb2d76e9b9782efbe7]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2010/3/section/2) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-98c3873309ef46d44792b6b44dba916a]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2010/3/section/3) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-98c3873309ef46d44792b6b44dba916a]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2010/3/section/3) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-e467b12a0ec2e180eecf3ca76e2b8dab]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/mwa/2010/3/section/4/1) [(2)](https://www.legislation.gov.uk/mwa/2010/3/section/4/2) [ss. 4(4)-(6)](https://www.legislation.gov.uk/mwa/2010/3/section/4/4) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-e467b12a0ec2e180eecf3ca76e2b8dab]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/mwa/2010/3/section/4/1) [(2)](https://www.legislation.gov.uk/mwa/2010/3/section/4/2) [ss. 4(4)-(6)](https://www.legislation.gov.uk/mwa/2010/3/section/4/4) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-b9fc7dbd4c78c119f4358027586cda68]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/mwa/2010/3/section/4/3) in force at 28.11.2011 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/1) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-b9fc7dbd4c78c119f4358027586cda68]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/mwa/2010/3/section/4/3) in force at 28.11.2011 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/1) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-eebc5d0114a95f05103c2186500413c7]: Commencement: [Ss. 5(1)-(3)](https://www.legislation.gov.uk/mwa/2010/3/section/5/1) [(5)](https://www.legislation.gov.uk/mwa/2010/3/section/5/5) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-eebc5d0114a95f05103c2186500413c7]: Commencement: [Ss. 5(1)-(3)](https://www.legislation.gov.uk/mwa/2010/3/section/5/1) [(5)](https://www.legislation.gov.uk/mwa/2010/3/section/5/5) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-6454d84b2df9f3ddc3bbdd7a4a1e68ca]: Commencement: [S. 5(4)](https://www.legislation.gov.uk/mwa/2010/3/section/5/4) in force at 28.11.2011 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/1) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-6454d84b2df9f3ddc3bbdd7a4a1e68ca]: Commencement: [S. 5(4)](https://www.legislation.gov.uk/mwa/2010/3/section/5/4) in force at 28.11.2011 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/1) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-a334a8fa4b9f57180b6c7709d196f2d9]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2010/3/section/6) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-a334a8fa4b9f57180b6c7709d196f2d9]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2010/3/section/6) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-0ee8aec48eb104eae36c6e3dd10939af]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2010/3/section/7) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-0ee8aec48eb104eae36c6e3dd10939af]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2010/3/section/7) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-dd47d15921d0228790f6de53231ac5ca]: Commencement: [S. 8](https://www.legislation.gov.uk/mwa/2010/3/section/8) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-dd47d15921d0228790f6de53231ac5ca]: Commencement: [S. 8](https://www.legislation.gov.uk/mwa/2010/3/section/8) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-606f76e8ef9f01e066c47d60646c131f]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2010/3/section/9) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-606f76e8ef9f01e066c47d60646c131f]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2010/3/section/9) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-4747188dfd5dbfdc11cc50a812b300bd]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2010/3/section/10) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-4747188dfd5dbfdc11cc50a812b300bd]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2010/3/section/10) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-a6b211c63a0f73c77cf7acf90fd2598b]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2010/3/section/11) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-a6b211c63a0f73c77cf7acf90fd2598b]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2010/3/section/11) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-826047e983e96ceb5c1f578d803e4db7]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2010/3/section/12) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-826047e983e96ceb5c1f578d803e4db7]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2010/3/section/12) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-1714e8bb602890cb9b856783defc2182]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2010/3/section/13) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-1714e8bb602890cb9b856783defc2182]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2010/3/section/13) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-40320c3ad96867d0daff93f75b7d32b4]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2010/3/section/14) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-40320c3ad96867d0daff93f75b7d32b4]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2010/3/section/14) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-6fcf2ef6ffced30af99004e77735aa5b]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2010/3/section/15) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-6fcf2ef6ffced30af99004e77735aa5b]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2010/3/section/15) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-583ee5ae3a2aad069ce3d7fecdf0f4c8]: Commencement: [S. 16](https://www.legislation.gov.uk/mwa/2010/3/section/16) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-583ee5ae3a2aad069ce3d7fecdf0f4c8]: Commencement: [S. 16](https://www.legislation.gov.uk/mwa/2010/3/section/16) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-bd88b45da68843a3446e6a6b4c462859]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/1) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-bd88b45da68843a3446e6a6b4c462859]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/1) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-699d5504c87882e0d9cd7b93a0f6f824]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/2) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-699d5504c87882e0d9cd7b93a0f6f824]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/2) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-7422e23b723760385bea1a36b107db7b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/3) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-7422e23b723760385bea1a36b107db7b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/3) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-d64fce4cfc25185764e9e180cd755409]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/4) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-d64fce4cfc25185764e9e180cd755409]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/4) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-4a33255ba13ecf66c29afd97c6433159]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/5) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-4a33255ba13ecf66c29afd97c6433159]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/5) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-348da084f4f9c252575a6130c0a7f0db]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/6) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-348da084f4f9c252575a6130c0a7f0db]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/6) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-667263f3b67a9f6349f4a08ef14a5041]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/7) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-667263f3b67a9f6349f4a08ef14a5041]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/7) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-d217658ab7d207afb660455a06ad9409]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/8) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-d217658ab7d207afb660455a06ad9409]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/8) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-4833ce6f74603bb5a610e75f09585b08]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/9) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-4833ce6f74603bb5a610e75f09585b08]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/9) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-822667cf6848e8f7f495c6bc53bd09eb]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/10) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-822667cf6848e8f7f495c6bc53bd09eb]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/10) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-3b417c34963e973e90321ca2700acba5]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/11) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-3b417c34963e973e90321ca2700acba5]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/11) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-e73ae873bd32eb9ee91a5139e4d14759]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/12) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-e73ae873bd32eb9ee91a5139e4d14759]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/12) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-7c7509df5ec16b9d1e655657595ee123]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/13) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-7c7509df5ec16b9d1e655657595ee123]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/13) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-e5c26388d0c497723254698dc88ed99c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/14) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-e5c26388d0c497723254698dc88ed99c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/14) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-92025a853503874f95e619bb89f4aec6]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/15) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-92025a853503874f95e619bb89f4aec6]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/15) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-caf1b3635db46207b27cfc1712a34626]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/16) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-caf1b3635db46207b27cfc1712a34626]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/16) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-ad313ada7db7b99919919d599de3be8b]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/17) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-ad313ada7db7b99919919d599de3be8b]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/17) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-2923d3da6c5e5700b80b3e811adbae08]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/18) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-2923d3da6c5e5700b80b3e811adbae08]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/18) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-8982cd4d6a9369fc40cc6029c025274b]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/19) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-8982cd4d6a9369fc40cc6029c025274b]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/19) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-f247ed7f837311d249fb6ab0b0ea32c1]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/20) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-f247ed7f837311d249fb6ab0b0ea32c1]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/20) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-ac16c52fbcd1395932100d5e8cd6f83f]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/21) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-ac16c52fbcd1395932100d5e8cd6f83f]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/21) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-275b54b65e9970044b24312707cee1b8]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/22) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-275b54b65e9970044b24312707cee1b8]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/mwa/2010/3/schedule/1/paragraph/22) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-25296cc88f5516eba656bbf22f0ad778]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/mwa/2010/3/schedule/2/paragraph/1) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-25296cc88f5516eba656bbf22f0ad778]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/mwa/2010/3/schedule/2/paragraph/1) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-df724a493e410c0f78d3f8fde2d194e4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/mwa/2010/3/schedule/2/paragraph/2) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-df724a493e410c0f78d3f8fde2d194e4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/mwa/2010/3/schedule/2/paragraph/2) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-25323518d0c0fdf2a0b59a89c354cf86]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/mwa/2010/3/schedule/2/paragraph/3) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-25323518d0c0fdf2a0b59a89c354cf86]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/mwa/2010/3/schedule/2/paragraph/3) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-24e985fe7007495cba20f16c090fd55a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/mwa/2010/3/schedule/2/paragraph/4) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-24e985fe7007495cba20f16c090fd55a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/mwa/2010/3/schedule/2/paragraph/4) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-fce2c06d6f40d11e0138b54147a46451]: Commencement: Sch. 2 para. 5 in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-fce2c06d6f40d11e0138b54147a46451]: Commencement: Sch. 2 para. 5 in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-81df641c637e9cb89833eec4f4a1d129]: Textual amendment: Sch. 2 para. 5 Table substituted (1.4.2012) by [The Red Meat Industry (Wales) Measure 2010 (Amendment) Order 2011 (No. 2946)](https://www.legislation.gov.uk/wsi/2011/2946), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2946/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2011/2946/article/2/1)
+[^c-81df641c637e9cb89833eec4f4a1d129]: Textual amendment: Sch. 2 para. 5 Table substituted (1.4.2012) by [The Red Meat Industry (Wales) Measure 2010 (Amendment) Order 2011 (No. 2946)](https://www.legislation.gov.uk/wsi/2011/2946), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2946/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2011/2946/article/2/1)
 
-[^key-205ac599130819e9da7bf11450b4bffd]: Commencement: Sch. 2 para. 6 in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-205ac599130819e9da7bf11450b4bffd]: Commencement: Sch. 2 para. 6 in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
 
-[^key-0f161bdda27188f4c6d20902b0612819]: Textual amendment: Sch. 2 para. 6 Table substituted (1.4.2012) by [The Red Meat Industry (Wales) Measure 2010 (Amendment) Order 2011 (No. 2946)](https://www.legislation.gov.uk/wsi/2011/2946), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2946/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2011/2946/article/2/2)
+[^c-0f161bdda27188f4c6d20902b0612819]: Textual amendment: Sch. 2 para. 6 Table substituted (1.4.2012) by [The Red Meat Industry (Wales) Measure 2010 (Amendment) Order 2011 (No. 2946)](https://www.legislation.gov.uk/wsi/2011/2946), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2946/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2011/2946/article/2/2)
 
-[^key-e52a98c7a1a05a594659bd85112b0f61]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/mwa/2010/3/schedule/2/paragraph/7) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))
+[^c-e52a98c7a1a05a594659bd85112b0f61]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/mwa/2010/3/schedule/2/paragraph/7) in force at 1.4.2012 by [S.I. 2011/2802](https://www.legislation.gov.uk/wsi/2011/2802), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/2802/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2011/2802/article/3), [4](https://www.legislation.gov.uk/wsi/2011/2802/article/4))

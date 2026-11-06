@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Registered office: rectification of register[^key-d68b4c9efbb963b0336281f38d696a51][^key-79d82e17aecc9c160f41d9d4ca75f2ee]
+## 105. Registered office: rectification of register[^c-d68b4c9efbb963b0336281f38d696a51][^c-79d82e17aecc9c160f41d9d4ca75f2ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d68b4c9efbb963b0336281f38d696a51]: Commencement: S. 105 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-d68b4c9efbb963b0336281f38d696a51]: Commencement: S. 105 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-79d82e17aecc9c160f41d9d4ca75f2ee]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2023/56/section/105) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-79d82e17aecc9c160f41d9d4ca75f2ee]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2023/56/section/105) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)

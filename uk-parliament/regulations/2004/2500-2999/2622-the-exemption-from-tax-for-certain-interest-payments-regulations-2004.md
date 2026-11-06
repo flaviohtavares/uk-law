@@ -32,7 +32,7 @@ summary: ''
 
 INCOME TAX
 
-The Exemption From Tax For Certain Interest Payments Regulations 2004 (revoked)[^key-fcf03513302935deded6f333cab62c1d]
+The Exemption From Tax For Certain Interest Payments Regulations 2004 (revoked)[^c-fcf03513302935deded6f333cab62c1d]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 1st November 2004
 
-[^key-fcf03513302935deded6f333cab62c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fcf03513302935deded6f333cab62c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fcf03513302935deded6f333cab62c1d]
+## 1. Citation and commencement[^c-fcf03513302935deded6f333cab62c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fcf03513302935deded6f333cab62c1d]
+## 2. Interpretation[^c-fcf03513302935deded6f333cab62c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Request for and issue of an exemption notice and notification of refusal[^key-fcf03513302935deded6f333cab62c1d]
+## 3. Request for and issue of an exemption notice and notification of refusal[^c-fcf03513302935deded6f333cab62c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information to be provided in the certificate[^key-fcf03513302935deded6f333cab62c1d]
+## 4. Information to be provided in the certificate[^c-fcf03513302935deded6f333cab62c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Special relationship[^key-fcf03513302935deded6f333cab62c1d]
+## 5. Special relationship[^c-fcf03513302935deded6f333cab62c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Requirements where Conditions for exemption cease to be satisfied[^key-fcf03513302935deded6f333cab62c1d]
+## 6. Requirements where Conditions for exemption cease to be satisfied[^c-fcf03513302935deded6f333cab62c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Cancellation of exemption notice[^key-fcf03513302935deded6f333cab62c1d]
+## 7. Cancellation of exemption notice[^c-fcf03513302935deded6f333cab62c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Recovery of tax not deducted[^key-fcf03513302935deded6f333cab62c1d]
+## 8. Recovery of tax not deducted[^c-fcf03513302935deded6f333cab62c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Appeals against refusal to issue an exemption notice or cancellation of an exemption notice[^key-fcf03513302935deded6f333cab62c1d]
+## 9. Appeals against refusal to issue an exemption notice or cancellation of an exemption notice[^c-fcf03513302935deded6f333cab62c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fcf03513302935deded6f333cab62c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fcf03513302935deded6f333cab62c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fcf03513302935deded6f333cab62c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fcf03513302935deded6f333cab62c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fcf03513302935deded6f333cab62c1d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/2622) revoked (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(7)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/7)
+[^c-fcf03513302935deded6f333cab62c1d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/2622) revoked (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(7)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/7)

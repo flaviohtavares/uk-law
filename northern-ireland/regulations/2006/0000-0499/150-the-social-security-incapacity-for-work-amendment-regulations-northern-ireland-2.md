@@ -41,19 +41,19 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 167D and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-688bc7a66881c240e55aa32d3d36f42e]
+## 1. Citation, commencement and interpretation[^c-688bc7a66881c240e55aa32d3d36f42e]
 
 (1) These Regulations may be cited as the Social Security (Incapacity for Work) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 10th April 2006.
 
 (2) In these regulations the “principal Regulations” means the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00003].
 
-## 2. Amendment of the principal Regulations[^key-db20631b86ce22a08d2c5db359901453]
+## 2. Amendment of the principal Regulations[^c-db20631b86ce22a08d2c5db359901453]
 
 (1) The principal Regulations shall be amended in accordance with paragraphs (2) to (4).
 
 (2) In regulation 13A[^f00004] (welfare to work beneficiary)—
 
-- (a)[^key-3c1714086409dc7cefb0a9986eb018cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3c1714086409dc7cefb0a9986eb018cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (4) for the definition of “immediate past period of incapacity for work” there shall be substituted the following definition—
 
   > - “immediate past period of incapacity for work” means—
@@ -144,7 +144,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 .
 
-## 3. Transitional provision[^key-035c526806724e9c14971ee7dae1d983]
+## 3. Transitional provision[^c-035c526806724e9c14971ee7dae1d983]
 
 (1) This regulation applies for the purposes of regulation 17(4)(a) of the principal Regulations as amended by these Regulations.
 
@@ -156,7 +156,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (5) In this regulation, any reference to regulation 17(1B)(b), (1C)(b) or (1D)(b), as the case may be, is a reference to regulation 17(1B)(b), (1C)(b) or (1D)(b) of the principal Regulations as in operation before 10th April 2006.
 
-## 4. Revocations[^key-bcc149bb619fc772079b6a34b0842a5e]
+## 4. Revocations[^c-bcc149bb619fc772079b6a34b0842a5e]
 
 The provisions specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
 
@@ -168,7 +168,7 @@ A senior officer of the
 
 Department for Social Development
 
-## SCHEDULE — Revocations[^key-d7b5fa26d4c1072a69d3dd8a3db7d1f0]
+## SCHEDULE — Revocations[^c-d7b5fa26d4c1072a69d3dd8a3db7d1f0]
 
 Regulation 4
 
@@ -211,15 +211,15 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-688bc7a66881c240e55aa32d3d36f42e]: Commencement: Reg. 1 in operation at 10.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1)
+[^c-688bc7a66881c240e55aa32d3d36f42e]: Commencement: Reg. 1 in operation at 10.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); relevant amending Rules are [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149), [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601), [S.R. 1997 No. 174](https://www.legislation.gov.uk/nisr/1997/174), [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324), [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428), [S.R. 2000 Nos. 4](https://www.legislation.gov.uk/nisr/2000/4) and [109](https://www.legislation.gov.uk/nisr/2000/109), [S.R. 2002 No. 86](https://www.legislation.gov.uk/nisr/2002/86) and [S.R. 2005 No. 415](https://www.legislation.gov.uk/nisr/2005/415)
 
-[^key-db20631b86ce22a08d2c5db359901453]: Commencement: Reg. 2 in operation at 10.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1)
+[^c-db20631b86ce22a08d2c5db359901453]: Commencement: Reg. 2 in operation at 10.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1)
 
 [^f00004]: Footnote: Regulation 13A was inserted by regulation 4(2) of [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324) and amended by regulation 2(6) of [S.R. 2000 No. 4](https://www.legislation.gov.uk/nisr/2000/4)
 
-[^key-3c1714086409dc7cefb0a9986eb018cd]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2006/150/regulation/2/2/a) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+[^c-3c1714086409dc7cefb0a9986eb018cd]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2006/150/regulation/2/2/a) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
 
 [^f00005]: Footnote: Section 30C was inserted by Article 5(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
 
@@ -247,10 +247,10 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00017]: Footnote: Paragraph (1A) was inserted by regulation 2(3)(b) of [S.R. 2002 No. 86](https://www.legislation.gov.uk/nisr/2002/86) and was in operation from 8th April 2002 to 9th April 2006
 
-[^key-035c526806724e9c14971ee7dae1d983]: Commencement: Reg. 3 in operation at 10.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1)
+[^c-035c526806724e9c14971ee7dae1d983]: Commencement: Reg. 3 in operation at 10.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1)
 
 [^f00018]: Footnote: Paragraphs (1B), (1C) and (1D) were inserted by regulation 2(3)(b) of [S.R. 2002 No.86](https://www.legislation.gov.uk/nisr/2002/86)
 
-[^key-bcc149bb619fc772079b6a34b0842a5e]: Commencement: Reg. 4 in operation at 10.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1)
+[^c-bcc149bb619fc772079b6a34b0842a5e]: Commencement: Reg. 4 in operation at 10.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1)
 
-[^key-d7b5fa26d4c1072a69d3dd8a3db7d1f0]: Commencement: Sch. in operation at 10.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1)
+[^c-d7b5fa26d4c1072a69d3dd8a3db7d1f0]: Commencement: Sch. in operation at 10.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236R. No section 236Q relief if disqualifying event in next four tax years[^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809][^key-201c88990bbf993ffc26e1b5cd9aaa3d]
+## 236R. No section 236Q relief if disqualifying event in next four tax years[^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809][^c-201c88990bbf993ffc26e1b5cd9aaa3d]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where—
 
 - (a) a deemed disposal arises in circumstances where paragraphs (a) to (c) of section 236Q(1) are satisfied, and
-- (b) one or more disqualifying events occur in relation to the disposal in any of the first four tax years[^key-21a41047763dcb1a335310dd646c1172] following the tax year in which the deemed disposal arises.
+- (b) one or more disqualifying events occur in relation to the disposal in any of the first four tax years[^c-21a41047763dcb1a335310dd646c1172] following the tax year in which the deemed disposal arises.
 
 (2) No claim for relief under section 236Q may be made in respect of the deemed disposal on or after the day on which the disqualifying event (or, if more than one, the first of them) occurs.
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]: Textual amendment: Ss. 236H-236U and cross-heading inserted (with effect in accordance with [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/1) (with [Sch. 37 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/4))
 
-[^key-201c88990bbf993ffc26e1b5cd9aaa3d]: Textual amendment: Words in [s. 236R heading](https://www.legislation.gov.uk/ukpga/1992/12/part/vii/crossheading/employeeownership-trusts) substituted (with effect in accordance with Sch. 6 para. 6(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/4)
+[^c-201c88990bbf993ffc26e1b5cd9aaa3d]: Textual amendment: Words in [s. 236R heading](https://www.legislation.gov.uk/ukpga/1992/12/part/vii/crossheading/employeeownership-trusts) substituted (with effect in accordance with Sch. 6 para. 6(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/4)
 
-[^key-21a41047763dcb1a335310dd646c1172]: Textual amendment: Words in [s. 236R(1)(b)](https://www.legislation.gov.uk/ukpga/1992/12/section/236R/1/b) substituted (with effect in accordance with Sch. 6 para. 6(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/4)
+[^c-21a41047763dcb1a335310dd646c1172]: Textual amendment: Words in [s. 236R(1)(b)](https://www.legislation.gov.uk/ukpga/1992/12/section/236R/1/b) substituted (with effect in accordance with Sch. 6 para. 6(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Periodic assessment of rent conditions[^key-6d6b5ffe8819fd49cf0fb35829cc70b0][^key-38b6230426e833cc7450ff1fe0b62b3e]
+## 1. Periodic assessment of rent conditions[^c-6d6b5ffe8819fd49cf0fb35829cc70b0][^c-38b6230426e833cc7450ff1fe0b62b3e]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d6b5ffe8819fd49cf0fb35829cc70b0]: Commencement: S. 1 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-6d6b5ffe8819fd49cf0fb35829cc70b0]: Commencement: S. 1 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-38b6230426e833cc7450ff1fe0b62b3e]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/13/section/1) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-38b6230426e833cc7450ff1fe0b62b3e]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/13/section/1) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

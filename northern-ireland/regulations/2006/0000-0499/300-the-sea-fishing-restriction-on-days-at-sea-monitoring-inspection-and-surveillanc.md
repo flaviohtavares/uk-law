@@ -43,141 +43,141 @@ The Department of Agriculture and Rural Development in exercise of the powers co
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-1c4a69d9a10d1d7fa879e4a556179116]
+### 1. Citation and commencement[^c-1c4a69d9a10d1d7fa879e4a556179116]
 
 This Order may be cited as the Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 and shall come into operation on 1 August 2006.
 
-### 2. Interpretation[^key-f8bb0fa594f6d902da6772d7520cd0d5]
+### 2. Interpretation[^c-f8bb0fa594f6d902da6772d7520cd0d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Days at Sea[^key-01e46d5a4f52f877168809bfaf025cf7]
+## PART 2 — Days at Sea[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 **No longer in force.**
 
-### 3. Establishment of management periods for Northern Ireland boats[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 3. Establishment of management periods for Northern Ireland boats[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Deeming provisions in respect of certain management periods notified in the first half 2006[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 4. Deeming provisions in respect of certain management periods notified in the first half 2006[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Offences in relation to management periods[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 5. Offences in relation to management periods[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Allocation of days for fishing in the Cod Recovery Zone and Sole Recovery Zone[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 6. Allocation of days for fishing in the Cod Recovery Zone and Sole Recovery Zone[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Allocation of days – pair trawling[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 7. Allocation of days – pair trawling[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Adjustment of the allocation of days[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 8. Adjustment of the allocation of days[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Fishing in the first half 2006, notification requirement and adjustment of allocation of days[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 9. Fishing in the first half 2006, notification requirement and adjustment of allocation of days[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Offences in relation to allocation of days and other restrictions on presence in the Cod Recovery Zone and Sole Recovery Zone[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 10. Offences in relation to allocation of days and other restrictions on presence in the Cod Recovery Zone and Sole Recovery Zone[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Transfer of days[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 11. Transfer of days[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Offence in relation to transfers of days[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 12. Offence in relation to transfers of days[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Offences in relation to fishing gears[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 13. Offences in relation to fishing gears[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Maintenance of logbooks requirements and related offence[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 14. Maintenance of logbooks requirements and related offence[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Monitoring, Inspection and Surveillance in respect of fishing in the Sole Recovery Zone[^key-01e46d5a4f52f877168809bfaf025cf7]
+## PART 3 — Monitoring, Inspection and Surveillance in respect of fishing in the Sole Recovery Zone[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 **No longer in force.**
 
-### 15. Transhipment or landing relating to third countries[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 15. Transhipment or landing relating to third countries[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Mixing of species[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 16. Mixing of species[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Weighing sole[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 17. Weighing sole[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Transport of sole[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 18. Transport of sole[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Recording information on catches of sole[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 19. Recording information on catches of sole[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Enforcement[^key-01e46d5a4f52f877168809bfaf025cf7]
+## PART 4 — Enforcement[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 **No longer in force.**
 
-### 20. Interpretation of Part 4[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 20. Interpretation of Part 4[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Penalties and defence[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 21. Penalties and defence[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Recovery of fines[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 22. Recovery of fines[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Powers of British sea-fishery officers in relation to fishing boats[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 23. Powers of British sea-fishery officers in relation to fishing boats[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Powers of British sea-fishery officers on land[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 24. Powers of British sea-fishery officers on land[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Warrants to enter premises[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 25. Warrants to enter premises[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Powers of British sea-fishery officers to seize fish and fishing gear[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 26. Powers of British sea-fishery officers to seize fish and fishing gear[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Protection of officers[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 27. Protection of officers[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Obstruction of officers[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 28. Obstruction of officers[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Offences by corporate bodies[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 29. Offences by corporate bodies[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Admissibility of documents in evidence[^key-01e46d5a4f52f877168809bfaf025cf7]
+### 30. Admissibility of documents in evidence[^c-01e46d5a4f52f877168809bfaf025cf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Supplementary
 
-### 31. Consequential amendments[^key-2503a4e851d98f9ea7e189eed3ca34d4]
+### 31. Consequential amendments[^c-2503a4e851d98f9ea7e189eed3ca34d4]
 
 (1) The Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2005[^f00014] is amended as follows.
 
@@ -227,12 +227,12 @@ Article 32 makes consequential amendments to the Sea Fishing (Restriction on Day
 
 [^f00002]: Footnote: Sea Fisheries Order (NI) 2002 ([SI2002/790](https://www.legislation.gov.uk/uksi/2002/790) Article 3(2) and Schedule 2
 
-[^key-1c4a69d9a10d1d7fa879e4a556179116]: Commencement: Art. 1 in operation at 1.8.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1)
+[^c-1c4a69d9a10d1d7fa879e4a556179116]: Commencement: Art. 1 in operation at 1.8.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1)
 
-[^key-f8bb0fa594f6d902da6772d7520cd0d5]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2006/300/article/2) revoked (31.10.2007) by [The Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/407)](https://www.legislation.gov.uk/nisr/2007/407), [arts. 1](https://www.legislation.gov.uk/nisr/2007/407/article/1), [26(a)](https://www.legislation.gov.uk/nisr/2007/407/article/26/a)
+[^c-f8bb0fa594f6d902da6772d7520cd0d5]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2006/300/article/2) revoked (31.10.2007) by [The Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/407)](https://www.legislation.gov.uk/nisr/2007/407), [arts. 1](https://www.legislation.gov.uk/nisr/2007/407/article/1), [26(a)](https://www.legislation.gov.uk/nisr/2007/407/article/26/a)
 
-[^key-01e46d5a4f52f877168809bfaf025cf7]: Textual amendment: [Pts. 2-4](https://www.legislation.gov.uk/nisr/2006/300/part/2) revoked (31.10.2007) by [The Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/407)](https://www.legislation.gov.uk/nisr/2007/407), [arts. 1](https://www.legislation.gov.uk/nisr/2007/407/article/1), [26(b)](https://www.legislation.gov.uk/nisr/2007/407/article/26/b)
+[^c-01e46d5a4f52f877168809bfaf025cf7]: Textual amendment: [Pts. 2-4](https://www.legislation.gov.uk/nisr/2006/300/part/2) revoked (31.10.2007) by [The Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/407)](https://www.legislation.gov.uk/nisr/2007/407), [arts. 1](https://www.legislation.gov.uk/nisr/2007/407/article/1), [26(b)](https://www.legislation.gov.uk/nisr/2007/407/article/26/b)
 
-[^key-2503a4e851d98f9ea7e189eed3ca34d4]: Commencement: Art. 31 in operation at 1.8.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1)
+[^c-2503a4e851d98f9ea7e189eed3ca34d4]: Commencement: Art. 31 in operation at 1.8.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1)
 
 [^f00014]: Footnote: [S. I. 2005/393](https://www.legislation.gov.uk/uksi/2005/393).

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**10.**[^key-a2c5915fb5779440dc7250cc88086a82] The Disabled Persons (Employment) Act 1958 is amended as follows.
+**10.**[^c-a2c5915fb5779440dc7250cc88086a82] The Disabled Persons (Employment) Act 1958 is amended as follows.
 
 ## Annotations
 
-[^key-a2c5915fb5779440dc7250cc88086a82]: Commencement: Reg. 10 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-a2c5915fb5779440dc7250cc88086a82]: Commencement: Reg. 10 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

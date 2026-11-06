@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 315A. Local news and information in local digital radio services[^key-c79f5714541928a079f1c6b546bf627b]
+## 315A. Local news and information in local digital radio services[^c-c79f5714541928a079f1c6b546bf627b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c79f5714541928a079f1c6b546bf627b]: Textual amendment: S. 315A inserted (17.10.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 44(9)](https://www.legislation.gov.uk/ukpga/2024/15/section/44/9), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/d)
+[^c-c79f5714541928a079f1c6b546bf627b]: Textual amendment: S. 315A inserted (17.10.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 44(9)](https://www.legislation.gov.uk/ukpga/2024/15/section/44/9), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/d)

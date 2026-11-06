@@ -23,8 +23,8 @@ summary: ''
 (1) This section applies if—
 
 - (a) a person succeeds to a qualifying activity as a beneficiary under the will or on the intestacy of a deceased person who carried on the qualifying activity,
-- (b)[^key-15405e118277ce1f0712b2bab711d73a] all of the persons carrying on the qualifying activity before the succession permanently cease to carry it on, and
-- (c) the beneficiary elects by notice to an officer of Revenue and Customs[^key-f8383d059f6983497492acea54d7cfe8] for this section to apply.
+- (b)[^c-15405e118277ce1f0712b2bab711d73a] all of the persons carrying on the qualifying activity before the succession permanently cease to carry it on, and
+- (c) the beneficiary elects by notice to an officer of Revenue and Customs[^c-f8383d059f6983497492acea54d7cfe8] for this section to apply.
 
 (2) In relation to the succession and any previous succession occurring on or after the death of the deceased, relevant plant or machinery is treated as if it had been sold to the beneficiary when the succession takes place.
 
@@ -58,6 +58,6 @@ apply in relation to the beneficiary to limit the disposal value by reference to
 
 ## Annotations
 
-[^key-15405e118277ce1f0712b2bab711d73a]: Textual amendment: S. 268(1)(b) substituted for s. 268(1)(b) (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 551](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/551) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )
+[^c-15405e118277ce1f0712b2bab711d73a]: Textual amendment: S. 268(1)(b) substituted for s. 268(1)(b) (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 551](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/551) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )
 
-[^key-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

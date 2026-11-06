@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Amendment of Schedule 4[^key-eb9f7508f41f04b98b2875f32de1ba05]
+## 40. Amendment of Schedule 4[^c-eb9f7508f41f04b98b2875f32de1ba05]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb9f7508f41f04b98b2875f32de1ba05]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2013/364/regulation/40) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-eb9f7508f41f04b98b2875f32de1ba05]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2013/364/regulation/40) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

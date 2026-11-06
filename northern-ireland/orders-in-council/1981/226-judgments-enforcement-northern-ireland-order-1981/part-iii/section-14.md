@@ -39,7 +39,7 @@ summary: ''
   - (iv) an application will be made to the court for a special administration order under Article 42 of the Water and Sewerage Services (Northern Ireland) Order 2006.
   - (iv)[^c16846401] the directors of the company will make a proposal to the company and its creditors for a voluntary arrangement under Part II of the Insolvency (Northern Ireland) Order 1989, or
   - (v) an application will be made to the court for an administration order under Part III of that Order of 1989, or
-  - (vi)[^key-aea596a1cdc1f76a19dd7891a43f5479] an application will be made to the court for a postal administration order under Part 4 of the Postal Services Act 2011.
+  - (vi)[^c-aea596a1cdc1f76a19dd7891a43f5479] an application will be made to the court for a postal administration order under Part 4 of the Postal Services Act 2011.
 
 ## Annotations
 
@@ -49,4 +49,4 @@ summary: ''
 
 [^c16846401]: Textual amendment: [1989 NI 19](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-aea596a1cdc1f76a19dd7891a43f5479]: Textual amendment: [Art. 14(3)(b)(vi)](https://www.legislation.gov.uk/nisi/1981/226/article/14/3/b/vi) added (6.4.2017) by [The Judgments Enforcement (Northern Ireland) (Amendment) Order 2017 (S.I. 2017/389)](https://www.legislation.gov.uk/uksi/2017/389), [arts. 1](https://www.legislation.gov.uk/uksi/2017/389/article/1), [2](https://www.legislation.gov.uk/uksi/2017/389/article/2)
+[^c-aea596a1cdc1f76a19dd7891a43f5479]: Textual amendment: [Art. 14(3)(b)(vi)](https://www.legislation.gov.uk/nisi/1981/226/article/14/3/b/vi) added (6.4.2017) by [The Judgments Enforcement (Northern Ireland) (Amendment) Order 2017 (S.I. 2017/389)](https://www.legislation.gov.uk/uksi/2017/389), [arts. 1](https://www.legislation.gov.uk/uksi/2017/389/article/1), [2](https://www.legislation.gov.uk/uksi/2017/389/article/2)

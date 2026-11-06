@@ -45,7 +45,7 @@ summary: ''
 
 (7)[^c14472671] Where a child would, if he were an adult, be liable to be imprisoned in default of payment of any fine the court may, if it considers that none of the other methods by which the case may legally be dealt with is suitable, order that the child be detained for such period, not exceeding one month, as may be specified in the order in a place chosen by the local authority in whose area the court is situated.
 
-(8)[^key-caf63170d2523f2516de22da30e421e2] The Scottish Ministers may by regulations make provision about the detention in secure accommodation of children to whom subsection (7) applies.
+(8)[^c-caf63170d2523f2516de22da30e421e2] The Scottish Ministers may by regulations make provision about the detention in secure accommodation of children to whom subsection (7) applies.
 
 (9) Regulations under subsection (8) may, in particular, make provision about the circumstances in which such children may remain in secure accommodation despite attaining the age of 18 years (provided that no person may remain in such accommodation after attaining the age of 19 years).
 
@@ -61,4 +61,4 @@ summary: ''
 
 [^c14472671]: Modification: S. 216(7) modified (1.4.1997) by [S.I. 1996/3255](https://www.legislation.gov.uk/uksi/1996/3255), [reg. 14(1)](https://www.legislation.gov.uk/uksi/1996/3255/regulation/14/1)
 
-[^key-caf63170d2523f2516de22da30e421e2]: Textual amendment: [S. 216(8)-(11)](https://www.legislation.gov.uk/ukpga/1995/46/section/216/8) inserted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 19(7)](https://www.legislation.gov.uk/asp/2024/5/section/19/7), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-caf63170d2523f2516de22da30e421e2]: Textual amendment: [S. 216(8)-(11)](https://www.legislation.gov.uk/ukpga/1995/46/section/216/8) inserted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 19(7)](https://www.legislation.gov.uk/asp/2024/5/section/19/7), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))

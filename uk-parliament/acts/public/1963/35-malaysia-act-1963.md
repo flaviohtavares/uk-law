@@ -87,7 +87,7 @@ to the Federation shall be construed as references to the Federation as constitu
 
 **2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c653798]
 
-**3.**[^key-cfab1948b36cd1879b3f92c567b62a05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cfab1948b36cd1879b3f92c567b62a05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — . . .[^c653800]
 
@@ -117,6 +117,6 @@ to the Federation shall be construed as references to the Federation as constitu
 
 [^c653798]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1963/35/schedule/2/paragraph/2) repealed by [Civil Aviation Act 1971 (c. 75)](https://www.legislation.gov.uk/ukpga/1971/75), [Sch. 11](https://www.legislation.gov.uk/ukpga/1971/75/schedule/11)
 
-[^key-cfab1948b36cd1879b3f92c567b62a05]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1963/35/schedule/2/paragraph/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-cfab1948b36cd1879b3f92c567b62a05]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1963/35/schedule/2/paragraph/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c653800]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1963/35/schedule/3) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)

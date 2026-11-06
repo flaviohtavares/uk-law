@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Disqualification as insolvency practitioner in Northern Ireland: bankruptcy, etc in England and Wales or Scotland[^key-2acf3bcd7e1bb41e6830a23de15879b3]
+## 116. Disqualification as insolvency practitioner in Northern Ireland: bankruptcy, etc in England and Wales or Scotland[^c-2acf3bcd7e1bb41e6830a23de15879b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2acf3bcd7e1bb41e6830a23de15879b3]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2015/26/section/116) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/14))
+[^c-2acf3bcd7e1bb41e6830a23de15879b3]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2015/26/section/116) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/14))

@@ -35,90 +35,90 @@ on the Community’s participation in a research and development programme under
 
 (Text with EEA relevance) (revoked)
 
-[^key-51a0f1a9439223175a85fb8f1385583e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51a0f1a9439223175a85fb8f1385583e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-51a0f1a9439223175a85fb8f1385583e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a0f1a9439223175a85fb8f1385583e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51a0f1a9439223175a85fb8f1385583e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — DESCRIPTION OF THE OBJECTIVES AND ACTIVITIES OF THE EUROSTARS JOINT PROGRAMME[^key-51a0f1a9439223175a85fb8f1385583e]
+## ANNEX I — DESCRIPTION OF THE OBJECTIVES AND ACTIVITIES OF THE EUROSTARS JOINT PROGRAMME[^c-51a0f1a9439223175a85fb8f1385583e]
 
-[^key-51a0f1a9439223175a85fb8f1385583e]I.
+[^c-51a0f1a9439223175a85fb8f1385583e]I.
 
 Objectives
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a0f1a9439223175a85fb8f1385583e]II.
+[^c-51a0f1a9439223175a85fb8f1385583e]II.
 
 Activities
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a0f1a9439223175a85fb8f1385583e]III.
+[^c-51a0f1a9439223175a85fb8f1385583e]III.
 
 Deliverables expected from the implementation of the Programme
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a0f1a9439223175a85fb8f1385583e]IV.
+[^c-51a0f1a9439223175a85fb8f1385583e]IV.
 
 Programme implementation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a0f1a9439223175a85fb8f1385583e]V.
+[^c-51a0f1a9439223175a85fb8f1385583e]V.
 
 Funding Mechanism
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a0f1a9439223175a85fb8f1385583e]Funding at Programme level
+[^c-51a0f1a9439223175a85fb8f1385583e]Funding at Programme level
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a0f1a9439223175a85fb8f1385583e]Funding of Eurostars projects
+[^c-51a0f1a9439223175a85fb8f1385583e]Funding of Eurostars projects
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a0f1a9439223175a85fb8f1385583e]VI.
+[^c-51a0f1a9439223175a85fb8f1385583e]VI.
 
 Intellectual property rights arrangements
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — GOVERNANCE OF THE EUROSTARS JOINT PROGRAMME[^key-51a0f1a9439223175a85fb8f1385583e]
+## ANNEX II — GOVERNANCE OF THE EUROSTARS JOINT PROGRAMME[^c-51a0f1a9439223175a85fb8f1385583e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51a0f1a9439223175a85fb8f1385583e]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51a0f1a9439223175a85fb8f1385583e]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

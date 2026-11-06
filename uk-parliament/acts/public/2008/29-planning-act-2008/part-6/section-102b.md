@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102B. Categories for the purposes of section 102A[^key-d2ce0be436b3993ca146e0f9a468303c]
+## 102B. Categories for the purposes of section 102A[^c-d2ce0be436b3993ca146e0f9a468303c]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ to make a relevant claim.
 
 ## Annotations
 
-[^key-d2ce0be436b3993ca146e0f9a468303c]: Textual amendment: Ss. 102A, 102B inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 138(9)](https://www.legislation.gov.uk/ukpga/2011/20/section/138/9), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-d2ce0be436b3993ca146e0f9a468303c]: Textual amendment: Ss. 102A, 102B inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 138(9)](https://www.legislation.gov.uk/ukpga/2011/20/section/138/9), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

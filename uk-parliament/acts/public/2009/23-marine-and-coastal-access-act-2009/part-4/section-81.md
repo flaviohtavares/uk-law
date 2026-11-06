@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Submarine cables ...[^key-cc7bd97039797972dd3e4beed48526e1][^M_F_194c4eeb-0d64-4d9a-8211-278e877a9344]
+## 81. Submarine cables ...[^c-cc7bd97039797972dd3e4beed48526e1][^M_F_194c4eeb-0d64-4d9a-8211-278e877a9344]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cc7bd97039797972dd3e4beed48526e1]: Commencement: S. 81 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-cc7bd97039797972dd3e4beed48526e1]: Commencement: S. 81 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
 [^M_F_194c4eeb-0d64-4d9a-8211-278e877a9344]: Textual amendment: Words in s. 81 heading omitted (12.2.2026) by [Biodiversity Beyond National Jurisdiction Act 2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6), [ss. 20(4)(a)](https://www.legislation.gov.uk/ukpga/2026/6/section/20/4/a), [32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2026/6/section/30))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 401C. Temporary non-residents[^key-c76ce529ae892b2d3874cf50dca61f97]
+## 401C. Temporary non-residents[^c-c76ce529ae892b2d3874cf50dca61f97]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
   - (i) a material participator in the company, or
   - (ii) an associate of a material participator in the company.
 
-(6A)[^key-6554a81319d66416cc1791fef74eaa0e] Where—
+(6A)[^c-6554a81319d66416cc1791fef74eaa0e] Where—
 
 - (a) a company (“**company A**”) makes a payment (including by way of a loan) to the individual in the temporary period of non-residence,
 - (b) the individual is, at a relevant time, a material participator in, or is an associate of a material participator in, another company that is a close company (“**company B**”),
@@ -63,16 +63,16 @@ the company is to be treated as making a relevant distribution to the individual
 
 (6C) For the purposes of subsection (6B)(c) “arrangements” include any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
 
-(6D)[^key-25b264d3693e3e02a87824a58f4676f4] Where tax of a similar character to income tax is payable by the individual under the law of a territory outside the United Kingdom on a relevant distribution—
+(6D)[^c-25b264d3693e3e02a87824a58f4676f4] Where tax of a similar character to income tax is payable by the individual under the law of a territory outside the United Kingdom on a relevant distribution—
 
 - (a) credit for any such tax paid by the individual is to be allowed against income tax chargeable in respect of the relevant distribution, and
 - (b) the credit is to be given effect by treating the amount of the relevant distribution as reduced to such amount as would secure that so much of the credit is given as does not exceed the income tax chargeable in respect of the relevant distribution.
 
-(7)[^key-99de0572d6fe7fa19afaa5241e6f1903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-99de0572d6fe7fa19afaa5241e6f1903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-99de0572d6fe7fa19afaa5241e6f1903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-99de0572d6fe7fa19afaa5241e6f1903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-99de0572d6fe7fa19afaa5241e6f1903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-99de0572d6fe7fa19afaa5241e6f1903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) The “notional UK tax” on the relevant distribution is so much of the income tax paid by the individual for the distribution year as is attributable on a just and reasonable basis to the relevant distribution.
 
@@ -85,16 +85,16 @@ the company is to be treated as making a relevant distribution to the individual
 - “**relevant time**” means—
   - (a) any time in the year of departure or, if the year of departure is a split year as respects the individual, the UK part of that year, or
   - (b) any time in one or more of the 3 tax years preceding that year;
-- [^key-ad000f9ba3fa55fcc290ae3f4b93f69c]...
+- [^c-ad000f9ba3fa55fcc290ae3f4b93f69c]...
 
 ## Annotations
 
-[^key-c76ce529ae892b2d3874cf50dca61f97]: Textual amendment: S. 401C and cross-heading inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 133](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/133)
+[^c-c76ce529ae892b2d3874cf50dca61f97]: Textual amendment: S. 401C and cross-heading inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 133](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/133)
 
-[^key-6554a81319d66416cc1791fef74eaa0e]: Textual amendment: [S. 401C(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2005/5/section/401C/6A) inserted (with effect in accordance with Sch. 3 para. 23(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 19(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/19/2), [23(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/1)
+[^c-6554a81319d66416cc1791fef74eaa0e]: Textual amendment: [S. 401C(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2005/5/section/401C/6A) inserted (with effect in accordance with Sch. 3 para. 23(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 19(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/19/2), [23(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/1)
 
-[^key-25b264d3693e3e02a87824a58f4676f4]: Textual amendment: [S. 401C(6D)](https://www.legislation.gov.uk/ukpga/2005/5/section/401C/6D) inserted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 19(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/19/3), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
+[^c-25b264d3693e3e02a87824a58f4676f4]: Textual amendment: [S. 401C(6D)](https://www.legislation.gov.uk/ukpga/2005/5/section/401C/6D) inserted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 19(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/19/3), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
 
-[^key-99de0572d6fe7fa19afaa5241e6f1903]: Textual amendment: [S. 401C(7)-(9)](https://www.legislation.gov.uk/ukpga/2005/5/section/401C/7) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 19(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/19/4), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
+[^c-99de0572d6fe7fa19afaa5241e6f1903]: Textual amendment: [S. 401C(7)-(9)](https://www.legislation.gov.uk/ukpga/2005/5/section/401C/7) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 19(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/19/4), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
 
-[^key-ad000f9ba3fa55fcc290ae3f4b93f69c]: Textual amendment: Words in [s. 401C(12)](https://www.legislation.gov.uk/ukpga/2005/5/section/401C/12) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 19(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/19/5), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
+[^c-ad000f9ba3fa55fcc290ae3f4b93f69c]: Textual amendment: Words in [s. 401C(12)](https://www.legislation.gov.uk/ukpga/2005/5/section/401C/12) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 19(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/19/5), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)

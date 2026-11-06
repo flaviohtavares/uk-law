@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Revocation[^key-f5670e863e0b935ff635b1c8ffebf7a1]
+## 6. Revocation[^c-f5670e863e0b935ff635b1c8ffebf7a1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The instruments specified in column 1 of the table in Schedule 5 are revoked to 
 
 ## Annotations
 
-[^key-f5670e863e0b935ff635b1c8ffebf7a1]: Commencement: Art. 6 in force at 14.2.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1)
+[^c-f5670e863e0b935ff635b1c8ffebf7a1]: Commencement: Art. 6 in force at 14.2.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Publicity for orders relating to trustees or other individuals[^key-eeb395eb12bf002fc5b74e41861f5e49]
+## 89. Publicity for orders relating to trustees or other individuals[^c-eeb395eb12bf002fc5b74e41861f5e49]
 
 *Extent: E+W*
 
 (1) The Commission may not make any order under this Act to appoint, discharge or remove a charity trustee or trustee for a charity, other than—
 
 - (a) an order relating to the official custodian, or
-- (b) an order under section 76(3)(b) (appointment of additional charity trustees),or[^key-a3fa8c8a3d71d7e9b71a19beeeb43f10]
+- (b) an order under section 76(3)(b) (appointment of additional charity trustees),or[^c-a3fa8c8a3d71d7e9b71a19beeeb43f10]
 - (c) an order under section 79A (removal of disqualified trustee),
 
 unless, before doing so, the Commission has complied with the publicity requirement in subsection (2).
@@ -36,7 +36,7 @@ This is subject to any disapplication of that requirement under subsection (4).
 
 (4) The Commission may determine that the publicity requirement is not to apply in relation to a particular order if it is satisfied that for any reason compliance with the requirement is unnecessary.
 
-(5) Before the Commission makes an order under this Act, other than an order under section 79A,[^key-447c29d7935960d136d75292c3b5e3cb] to remove a person who is—
+(5) Before the Commission makes an order under this Act, other than an order under section 79A,[^c-447c29d7935960d136d75292c3b5e3cb] to remove a person who is—
 
 - (a) a charity trustee or trustee for a charity, or
 - (b) an officer, agent or employee of a charity,
@@ -62,8 +62,8 @@ This does not apply if the person cannot be found or has no known address in the
 
 ## Annotations
 
-[^key-eeb395eb12bf002fc5b74e41861f5e49]: Modification: S. 89 applied by 1987 c. 3, s. 5(8) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
+[^c-eeb395eb12bf002fc5b74e41861f5e49]: Modification: S. 89 applied by 1987 c. 3, s. 5(8) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
 
-[^key-a3fa8c8a3d71d7e9b71a19beeeb43f10]: Textual amendment: [S. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2011/25/section/89/1/c) and word inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/5/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/d)
+[^c-a3fa8c8a3d71d7e9b71a19beeeb43f10]: Textual amendment: [S. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2011/25/section/89/1/c) and word inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/5/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/d)
 
-[^key-447c29d7935960d136d75292c3b5e3cb]: Textual amendment: Words in [s. 89(5)](https://www.legislation.gov.uk/ukpga/2011/25/section/89/5) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 5(5)](https://www.legislation.gov.uk/ukpga/2016/4/section/5/5), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/d)
+[^c-447c29d7935960d136d75292c3b5e3cb]: Textual amendment: Words in [s. 89(5)](https://www.legislation.gov.uk/ukpga/2011/25/section/89/5) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 5(5)](https://www.legislation.gov.uk/ukpga/2016/4/section/5/5), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87A. Cancellation of a home rights notice[^key-7f98592789ad542cdb600ab5b975e5e7]
+## 87A. Cancellation of a home rights notice[^c-7f98592789ad542cdb600ab5b975e5e7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An application for the cancellation of a home rights notice must be made in Form
 
 ## Annotations
 
-[^key-7f98592789ad542cdb600ab5b975e5e7]: Textual amendment: Rule 87A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/30) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-7f98592789ad542cdb600ab5b975e5e7]: Textual amendment: Rule 87A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/30) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

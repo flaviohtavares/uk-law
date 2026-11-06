@@ -36,47 +36,47 @@ of 28 September 2017
 
 concerning restrictive measures in view of the situation in Mali (revoked)
 
-[^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.** [^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.** [^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-267b7fef91a2c76c72891ec0fc6abd4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — List of natural or legal persons, entities and bodies referred to in Article 2[^key-267b7fef91a2c76c72891ec0fc6abd4f]
+## ANNEX I — List of natural or legal persons, entities and bodies referred to in Article 2[^c-267b7fef91a2c76c72891ec0fc6abd4f]
 
 1\.
 
@@ -108,7 +108,7 @@ concerning restrictive measures in view of the situation in Mali (revoked)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Websites for information on the competent authorities and address for notifications to the Commission[^key-267b7fef91a2c76c72891ec0fc6abd4f]
+## ANNEX II — Websites for information on the competent authorities and address for notifications to the Commission[^c-267b7fef91a2c76c72891ec0fc6abd4f]
 
 BELGIUM
 
@@ -236,4 +236,4 @@ E-mail: relex-sanctions@ec.europa.eu
 
 ## Annotations
 
-[^key-267b7fef91a2c76c72891ec0fc6abd4f]: Textual amendment: Regulation revoked (31.12.2020) by [The Mali (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/705)](https://www.legislation.gov.uk/uksi/2020/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/705/regulation/1/2), [39(1)](https://www.legislation.gov.uk/uksi/2020/705/regulation/39/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/13/2)
+[^c-267b7fef91a2c76c72891ec0fc6abd4f]: Textual amendment: Regulation revoked (31.12.2020) by [The Mali (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/705)](https://www.legislation.gov.uk/uksi/2020/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/705/regulation/1/2), [39(1)](https://www.legislation.gov.uk/uksi/2020/705/regulation/39/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/13/2)

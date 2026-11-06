@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 14 — TRAFFIC REGULATION[^key-d68e30d6a275509cf03b6d8ecdc39eef]
+## SCHEDULE 14 — TRAFFIC REGULATION[^c-d68e30d6a275509cf03b6d8ecdc39eef]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ Article 45
 
 ## Annotations
 
-[^key-d68e30d6a275509cf03b6d8ecdc39eef]: Commencement: Sch. 14 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-d68e30d6a275509cf03b6d8ecdc39eef]: Commencement: Sch. 14 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

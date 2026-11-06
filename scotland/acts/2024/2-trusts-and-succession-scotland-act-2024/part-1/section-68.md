@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Application in respect of defective exercise of fiduciary power etc.[^key-d84f4c5642775ac95525918beda17976]
+## 68. Application in respect of defective exercise of fiduciary power etc.[^c-d84f4c5642775ac95525918beda17976]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d84f4c5642775ac95525918beda17976]: Commencement: S. 68 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-d84f4c5642775ac95525918beda17976]: Commencement: S. 68 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

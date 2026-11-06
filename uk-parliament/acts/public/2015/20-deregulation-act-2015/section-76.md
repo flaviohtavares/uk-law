@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Exhibition of films in community premises[^key-462426e54ce48361b038baaf562e9fe5]
+## 76. Exhibition of films in community premises[^c-462426e54ce48361b038baaf562e9fe5]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ In the Licensing Act 2003, in Schedule 1 (provision of regulated entertainment),
 
 ## Annotations
 
-[^key-462426e54ce48361b038baaf562e9fe5]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2015/20/section/76) in force at 6.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/994/article/3/c)
+[^c-462426e54ce48361b038baaf562e9fe5]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2015/20/section/76) in force at 6.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/994/article/3/c)

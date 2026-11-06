@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Master’s responsibility to be unaffected[^key-118f4da96a9105d7117ebbc71e7467f2]
+## 74. Master’s responsibility to be unaffected[^c-118f4da96a9105d7117ebbc71e7467f2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The giving of a general direction or a special direction shall not diminish or i
 
 ## Annotations
 
-[^key-118f4da96a9105d7117ebbc71e7467f2]: Commencement: Art. 74 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-118f4da96a9105d7117ebbc71e7467f2]: Commencement: Art. 74 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

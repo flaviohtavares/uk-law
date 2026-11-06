@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112.[^key-fb4aa90603ed4215e11ce28e1313ed76]
+## 112.[^c-fb4aa90603ed4215e11ce28e1313ed76]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb4aa90603ed4215e11ce28e1313ed76]: Commencement: Reg. 112 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-fb4aa90603ed4215e11ce28e1313ed76]: Commencement: Reg. 112 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395841]: Marginal citation: Section 14 of VATA is omitted by section 43 of, and paragraph 11 of Schedule 8 to, TCTA. The omission is not yet in force.

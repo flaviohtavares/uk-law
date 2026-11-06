@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Alternative quality requirements for UK defined benefits schemes[^key-da2cfa445cd0c668b029f8f7d6689ad7]
+## 39. Alternative quality requirements for UK defined benefits schemes[^c-da2cfa445cd0c668b029f8f7d6689ad7]
 
 *Extent: E+W+S*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da2cfa445cd0c668b029f8f7d6689ad7]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2014/19/section/39) in force at 12.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/b)
+[^c-da2cfa445cd0c668b029f8f7d6689ad7]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2014/19/section/39) in force at 12.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/b)

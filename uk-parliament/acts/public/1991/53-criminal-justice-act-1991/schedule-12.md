@@ -48,23 +48,23 @@ Section 101(1).
 
 ### Early release: general
 
-**8.**[^key-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Early release of young persons detained under 1933 Act
 
-**11.**[^key-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Early release of prisoners serving extended sentences
 
-**12.**[^key-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Early release of fine defaulters and contemnors
 
-**13.**[^key-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-a53db9824e13d6a3a79c63c3d3bbfb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Responsibilities of parent or guardian
 
@@ -116,7 +116,7 @@ Section 101(1).
 
 **22.**[^c13785371] (1) Paragraphs 1, 3, 4 and 6 of Schedule 8 shall not apply in any case where proceedings for the offence in question have begun before the commencement of that Schedule.
 
-(2)[^key-357069e1655737510deaaf2559ada834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-357069e1655737510deaaf2559ada834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Renaming of juvenile courts etc.
 
@@ -150,7 +150,7 @@ Section 101(1).
 
 [^c13785021]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/7) wholly in force at 25.10.1991 see [s. 102(2)(3)](https://www.legislation.gov.uk/ukpga/1991/53/section/102/2/3) and [S.I. 1991/2208](https://www.legislation.gov.uk/uksi/1991/2208), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2208/article/2/2) and Sch. 2
 
-[^key-a53db9824e13d6a3a79c63c3d3bbfb5a]: Textual amendment: [Sch. 12 paras. 8-13](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/8) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/5); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
+[^c-a53db9824e13d6a3a79c63c3d3bbfb5a]: Textual amendment: [Sch. 12 paras. 8-13](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/8) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/5); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
 
 [^c13785211]: Textual amendment: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/14) repealed (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165](https://www.legislation.gov.uk/ukpga/2000/6/section/165), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/I) (with [Sch. 11 paras. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/2))
 
@@ -176,7 +176,7 @@ Section 101(1).
 
 [^c13785371]: Commencement: Sch. 12 para. 22 wholly in force at 1.10.1992 see s. 102(2)(3) and [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2).
 
-[^key-357069e1655737510deaaf2559ada834]: Textual amendment: [Sch. 12 para. 22(2)](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/22/2) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-357069e1655737510deaaf2559ada834]: Textual amendment: [Sch. 12 para. 22(2)](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/22/2) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c13785381]: Commencement: [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/23) wholly in force at 14.10.1991 see [s. 102(2)(3)](https://www.legislation.gov.uk/ukpga/1991/53/section/102/2/3) and [S.I. 1991/2208](https://www.legislation.gov.uk/uksi/1991/2208), [art. 2(1)](https://www.legislation.gov.uk/uksi/1991/2208/article/2/1) and Sch. 1
 

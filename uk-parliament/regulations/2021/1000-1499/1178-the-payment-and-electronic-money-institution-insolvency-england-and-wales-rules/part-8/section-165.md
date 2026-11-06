@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 165. Recourse to the court[^key-c34bb0f2813e3521730bcd89994521dd]
+## 165. Recourse to the court[^c-c34bb0f2813e3521730bcd89994521dd]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ is insufficient or inappropriate, the administrator may apply to the court for a
 
 ## Annotations
 
-[^key-c34bb0f2813e3521730bcd89994521dd]: Commencement: Rule 165 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-c34bb0f2813e3521730bcd89994521dd]: Commencement: Rule 165 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

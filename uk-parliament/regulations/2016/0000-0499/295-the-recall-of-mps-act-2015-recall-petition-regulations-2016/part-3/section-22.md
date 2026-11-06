@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Admission to petition signing place[^key-6db906e8d24d2c5f3eef9fa1ef4ae9d4]
+## 22. Admission to petition signing place[^c-6db906e8d24d2c5f3eef9fa1ef4ae9d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the petition officer;
 - (b) any person wishing to sign the petition;
-- (ba)[^key-47e9a3d28a5fdf34870ae23cae7ead9e] in England, Wales and Scotland, persons aged 18 or over returning a postal petition document by hand in accordance with regulation 99(1)(a)(i);
+- (ba)[^c-47e9a3d28a5fdf34870ae23cae7ead9e] in England, Wales and Scotland, persons aged 18 or over returning a postal petition document by hand in accordance with regulation 99(1)(a)(i);
 - (c) any person under the age of 18 who is accompanying a person to the petition signing place;
 - (d) any person representing the Electoral Commission;
 - (e) any assistant appointed to attend at the petition signing place;
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6db906e8d24d2c5f3eef9fa1ef4ae9d4]: Commencement: Reg. 22 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-6db906e8d24d2c5f3eef9fa1ef4ae9d4]: Commencement: Reg. 22 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-47e9a3d28a5fdf34870ae23cae7ead9e]: Textual amendment: Reg. 22(1)(ba) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(4)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/4)
+[^c-47e9a3d28a5fdf34870ae23cae7ead9e]: Textual amendment: Reg. 22(1)(ba) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(4)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/4)

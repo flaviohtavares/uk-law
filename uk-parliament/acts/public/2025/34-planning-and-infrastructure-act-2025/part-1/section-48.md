@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Fees for applications for harbour orders[^key-be548a1b50bccbc5af69c75f00f8e8b1][^key-716dcdcd23737c4a49a7ce7f7dac5661]
+## 48. Fees for applications for harbour orders[^c-be548a1b50bccbc5af69c75f00f8e8b1][^c-716dcdcd23737c4a49a7ce7f7dac5661]
 
 *Extent: E+W*
 
 (1) Schedule 3 to the Harbours Act 1964 (procedure for making harbour revision orders and harbour empowerment orders) is amended as set out in subsections (2) to (4).
 
-(2)[^key-716dcdcd23737c4a49a7ce7f7dac5661] In paragraph 7(1) (things to accompany applications)—
+(2)[^c-716dcdcd23737c4a49a7ce7f7dac5661] In paragraph 7(1) (things to accompany applications)—
 
 - (a) after paragraph (a) insert “and”;
 - (b) omit paragraph (c) and the preceding “and”.
 
-(3)[^key-716dcdcd23737c4a49a7ce7f7dac5661] In paragraph 9 (duty not to consider application unless certain requirements met), omit sub-paragraph (a).
+(3)[^c-716dcdcd23737c4a49a7ce7f7dac5661] In paragraph 9 (duty not to consider application unless certain requirements met), omit sub-paragraph (a).
 
 (4) After paragraph 9 insert—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be548a1b50bccbc5af69c75f00f8e8b1]: Commencement: S. 48(1)(4)(5) in force at 18.12.2026, see [s. 118(1)(z3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z3)
+[^c-be548a1b50bccbc5af69c75f00f8e8b1]: Commencement: S. 48(1)(4)(5) in force at 18.12.2026, see [s. 118(1)(z3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z3)
 
-[^key-716dcdcd23737c4a49a7ce7f7dac5661]: Commencement: S. 48(2)(3) comes into force in accordance with s. 118(1)(z4)
+[^c-716dcdcd23737c4a49a7ce7f7dac5661]: Commencement: S. 48(2)(3) comes into force in accordance with s. 118(1)(z4)

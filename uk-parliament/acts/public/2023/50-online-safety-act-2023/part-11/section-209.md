@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Amendments of Part 4B of the Communications Act[^key-affba7fb87b3866baf8eff6bfa24166c]
+## 209. Amendments of Part 4B of the Communications Act[^c-affba7fb87b3866baf8eff6bfa24166c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-affba7fb87b3866baf8eff6bfa24166c]: Textual amendment: [S. 209](https://www.legislation.gov.uk/ukpga/2023/50/section/209) omitted (25.7.2025) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 210(3)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/210/3/a), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)
+[^c-affba7fb87b3866baf8eff6bfa24166c]: Textual amendment: [S. 209](https://www.legislation.gov.uk/ukpga/2023/50/section/209) omitted (25.7.2025) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 210(3)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/210/3/a), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)

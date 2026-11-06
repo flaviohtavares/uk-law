@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**146.**[^key-053510bc06f1f3cc1f27ce706ad8fbf2] In section 75G[^f00162] (entitlement to shared parental leave: adoption)—
+**146.**[^c-053510bc06f1f3cc1f27ce706ad8fbf2] In section 75G[^f00162] (entitlement to shared parental leave: adoption)—
 
 - (a) for subsection (7) substitute—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-053510bc06f1f3cc1f27ce706ad8fbf2]: Commencement: Reg. 146 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-053510bc06f1f3cc1f27ce706ad8fbf2]: Commencement: Reg. 146 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00162]: Footnote: Section 75G was inserted by the Children and Families act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 117(1).

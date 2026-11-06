@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.11. The duty to agree information[^key-31de584d6f0ba337b1d40ccda91eaa01]
+## 4.11. The duty to agree information[^c-31de584d6f0ba337b1d40ccda91eaa01]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31de584d6f0ba337b1d40ccda91eaa01]: Commencement: [Rule 4.11](https://www.legislation.gov.uk/ssi/2017/103/rule/4.11) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-31de584d6f0ba337b1d40ccda91eaa01]: Commencement: [Rule 4.11](https://www.legislation.gov.uk/ssi/2017/103/rule/4.11) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
 [^f00008]: Footnote: [S.I. 2016/1142](https://www.legislation.gov.uk/uksi/2016/1142).

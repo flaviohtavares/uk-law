@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2006 (revoked)[^key-6a8e428cfac6c356feb09295390ca3f9]
+The Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2006 (revoked)[^c-6a8e428cfac6c356feb09295390ca3f9]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into operation
 
 20th September 2006
 
-[^key-6a8e428cfac6c356feb09295390ca3f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a8e428cfac6c356feb09295390ca3f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6a8e428cfac6c356feb09295390ca3f9]
+## 1. Citation, commencement and interpretation[^c-6a8e428cfac6c356feb09295390ca3f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-6a8e428cfac6c356feb09295390ca3f9]
+## 2.[^c-6a8e428cfac6c356feb09295390ca3f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed description of a qualifying course[^key-6a8e428cfac6c356feb09295390ca3f9]
+## 3. Prescribed description of a qualifying course[^c-6a8e428cfac6c356feb09295390ca3f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescribed description of a qualifying person[^key-6a8e428cfac6c356feb09295390ca3f9]
+## 4. Prescribed description of a qualifying person[^c-6a8e428cfac6c356feb09295390ca3f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional Cases[^key-6a8e428cfac6c356feb09295390ca3f9]
+## 5. Transitional Cases[^c-6a8e428cfac6c356feb09295390ca3f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a8e428cfac6c356feb09295390ca3f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a8e428cfac6c356feb09295390ca3f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6a8e428cfac6c356feb09295390ca3f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a8e428cfac6c356feb09295390ca3f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a8e428cfac6c356feb09295390ca3f9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/384) revoked (1.9.2007) by [The Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007 (S.R. 2007/328)](https://www.legislation.gov.uk/nisr/2007/328), [regs. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/328/regulation/3)
+[^c-6a8e428cfac6c356feb09295390ca3f9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/384) revoked (1.9.2007) by [The Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007 (S.R. 2007/328)](https://www.legislation.gov.uk/nisr/2007/328), [regs. 1](https://www.legislation.gov.uk/nisr/2007/328/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/328/regulation/3)

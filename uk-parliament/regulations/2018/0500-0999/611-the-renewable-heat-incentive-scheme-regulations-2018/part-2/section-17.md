@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-The requirement referred to in regulation 4(1)(b)(ii)[^key-148a041faa35525a2fcf81ccc26e25d7] is that, where an application for accreditation is made on or after the date on which these Regulations come into force, any necessary planning permission has been granted in relation to the plant.
+The requirement referred to in regulation 4(1)(b)(ii)[^c-148a041faa35525a2fcf81ccc26e25d7] is that, where an application for accreditation is made on or after the date on which these Regulations come into force, any necessary planning permission has been granted in relation to the plant.
 
 ## Annotations
 
-[^key-148a041faa35525a2fcf81ccc26e25d7]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2018/611/regulation/17) substituted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [12](https://www.legislation.gov.uk/uksi/2018/635/regulation/12)
+[^c-148a041faa35525a2fcf81ccc26e25d7]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2018/611/regulation/17) substituted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [12](https://www.legislation.gov.uk/uksi/2018/635/regulation/12)

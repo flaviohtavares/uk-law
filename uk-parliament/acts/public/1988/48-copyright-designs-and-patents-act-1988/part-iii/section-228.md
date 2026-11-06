@@ -31,7 +31,7 @@ summary: ''
 
 (4) Where it is shown that an article is made to a design in which design right subsists or has subsisted at any time, it shall be presumed until the contrary is proved that the article was made at a time when design right subsisted.
 
-(5)[^key-50dc9d0e34fb203bff4e400d1712f53d] Nothing in subsection (3) shall be construed as applying to an article which—
+(5)[^c-50dc9d0e34fb203bff4e400d1712f53d] Nothing in subsection (3) shall be construed as applying to an article which—
 
 - (a) may lawfully be imported into the United Kingdom by virtue of anything which forms part of assimilated law as a result of section 3 of the European Union (Withdrawal) Act 2018, or
 - (b) has been or is proposed to be imported into the United Kingdom after being put on the market in the European Economic Area by or with the licence of the design right owner.
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50dc9d0e34fb203bff4e400d1712f53d]: Textual amendment: S. 228(5)(5A) substituted for s. 228(5) (31.12.2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/4/4)
+[^c-50dc9d0e34fb203bff4e400d1712f53d]: Textual amendment: S. 228(5)(5A) substituted for s. 228(5) (31.12.2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/4/4)

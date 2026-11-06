@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Women, married women and widows.[^key-84deadf2dadcc67e1f577b680f3efe3d]
+## 45. Women, married women and widows.[^c-84deadf2dadcc67e1f577b680f3efe3d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84deadf2dadcc67e1f577b680f3efe3d]: Textual amendment: S. 45 repealed (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 32](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/32)
+[^c-84deadf2dadcc67e1f577b680f3efe3d]: Textual amendment: S. 45 repealed (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 32](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/32)

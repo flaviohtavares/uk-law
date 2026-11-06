@@ -40,7 +40,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 *Extent: E+W+S*
 
-### 1. Precision bred organism[^key-03bba1b2db22f8c8ac58df493ff43697]
+### 1. Precision bred organism[^c-03bba1b2db22f8c8ac58df493ff43697]
 
 (1) In this Act “**precision bred organism**” means a precision bred plant or a precision bred animal.
 
@@ -99,7 +99,7 @@ regulations may modify this section so as to make corresponding changes (with or
 - (a) paragraph (3) of the regulation referred to in subsection (8)(a), or
 - (b) regulations under subsection (4C) of section 106 of that Act.
 
-### 2. Meaning of “plant” and “animal”[^key-1d15e06dfa545393113ae5f9a77f635a]
+### 2. Meaning of “plant” and “animal”[^c-1d15e06dfa545393113ae5f9a77f635a]
 
 (1) In this Act “**plant**” means an organism in the taxonomic group—
 
@@ -131,7 +131,7 @@ regulations may modify this section so as to make corresponding changes (with or
 
 ### Release
 
-#### 3. Restrictions on release of precision bred organism in England[^key-6bc91171fb6036e52e5ab86e305c68ea][^key-6f0464c181939994826bcc9e6b3cdf1a]
+#### 3. Restrictions on release of precision bred organism in England[^c-6bc91171fb6036e52e5ab86e305c68ea][^c-6f0464c181939994826bcc9e6b3cdf1a]
 
 (1) A person who has a precision bred organism under their control must not release the organism in England unless—
 
@@ -153,7 +153,7 @@ regulations may modify this section so as to make corresponding changes (with or
 - (a) cease to be under their control or the control of anyone else, and
 - (b) enter the environment.
 
-#### 4. Release of precision bred organism: notification requirements[^key-bd92ff01d9449e9be2dedc2ed19327d9][^key-fb14d69e364ae5bf218cafe271cdba32]
+#### 4. Release of precision bred organism: notification requirements[^c-bd92ff01d9449e9be2dedc2ed19327d9][^c-fb14d69e364ae5bf218cafe271cdba32]
 
 (1) The notification requirements are satisfied in relation to the release of an organism if—
 
@@ -179,7 +179,7 @@ regulations may modify this section so as to make corresponding changes (with or
 
 ### Marketing
 
-#### 5. Restrictions on marketing of precision bred organism in England[^key-e005d9f01d92c732d8831ccf9a6a5329][^key-222dc425d28aa63d3a9e45d2eac10e43]
+#### 5. Restrictions on marketing of precision bred organism in England[^c-e005d9f01d92c732d8831ccf9a6a5329][^c-222dc425d28aa63d3a9e45d2eac10e43]
 
 (1) A person must not market a precision bred organism in England unless—
 
@@ -213,7 +213,7 @@ regulations may modify this section so as to make corresponding changes (with or
 
 ### Precision bred confirmation
 
-#### 6. Application for precision bred confirmation[^key-dec3839578609aa4796300c54ba73448][^key-723837983629666ee84cb58f53685d50]
+#### 6. Application for precision bred confirmation[^c-dec3839578609aa4796300c54ba73448][^c-723837983629666ee84cb58f53685d50]
 
 (1) A person (the “notifier”) may apply for a precision bred confirmation in relation to an organism by giving a notice (a “marketing notice”) to the Secretary of State.
 
@@ -232,7 +232,7 @@ the Secretary of State must refer the marketing notice to the advisory committee
 
 (4) Regulations under subsection (2) are subject to the affirmative procedure.
 
-#### 7. Report by advisory committee[^key-5b774b0bf8b7ac01671dce31c2f5e67b][^key-21c961b50ef4a90af2e4abdcd991f9e4]
+#### 7. Report by advisory committee[^c-5b774b0bf8b7ac01671dce31c2f5e67b][^c-21c961b50ef4a90af2e4abdcd991f9e4]
 
 (1) This section applies where the Secretary of State refers a marketing notice to the advisory committee.
 
@@ -247,7 +247,7 @@ the Secretary of State must refer the marketing notice to the advisory committee
 
 (5) Subsection (2) is subject to regulations under section 23.
 
-#### 8. Issue of precision bred confirmation[^key-b3ed3f68d7460f352fb2debf2783cec3][^key-619d5613214b1a1ee04e13fa54b2cfba]
+#### 8. Issue of precision bred confirmation[^c-b3ed3f68d7460f352fb2debf2783cec3][^c-619d5613214b1a1ee04e13fa54b2cfba]
 
 (1) As soon as practicable after receiving a report from the advisory committee under section 7(2), the Secretary of State must—
 
@@ -258,7 +258,7 @@ the Secretary of State must refer the marketing notice to the advisory committee
 
 (2) A notice under subsection (1)(b) must state the reasons for not issuing a precision bred confirmation.
 
-#### 9. Revocation of precision bred confirmation[^key-07b5a72193f61f853751d89a26908f42][^key-d7b3c9b027cba3a08d86c3c561efdd4d]
+#### 9. Revocation of precision bred confirmation[^c-07b5a72193f61f853751d89a26908f42][^c-d7b3c9b027cba3a08d86c3c561efdd4d]
 
 (1) Regulations may make provision conferring power on the Secretary of State to revoke a precision bred confirmation relating to an organism if the Secretary of State is no longer satisfied that the organism is precision bred.
 
@@ -281,7 +281,7 @@ the Secretary of State must refer the marketing notice to the advisory committee
 
 ### Relevant animals: precision bred animal marketing authorisation
 
-#### 10. Meaning of “relevant animal”[^key-e25061a6d1351d9ea188222508b411b2]
+#### 10. Meaning of “relevant animal”[^c-e25061a6d1351d9ea188222508b411b2]
 
 (1) In this Act “**relevant animal**” means an animal which is a vertebrate.
 
@@ -291,7 +291,7 @@ the Secretary of State must refer the marketing notice to the advisory committee
 
 (4) Regulations under subsection (2) are subject to the affirmative procedure.
 
-#### 11. Application for precision bred animal marketing authorisation[^key-930ca3a1977b99127d7966d7b3d4f375]
+#### 11. Application for precision bred animal marketing authorisation[^c-930ca3a1977b99127d7966d7b3d4f375]
 
 (1) This section applies where a marketing notice is or has been given to the Secretary of State in relation to a relevant animal.
 
@@ -330,7 +330,7 @@ This is subject to subsection (8).
 
 (11) Regulations under subsection (9) are subject to the negative procedure.
 
-#### 12. Report by welfare advisory body[^key-f2cb68dce0ce1e42f79c370184b4e0ae]
+#### 12. Report by welfare advisory body[^c-f2cb68dce0ce1e42f79c370184b4e0ae]
 
 (1) This section applies where the Secretary of State refers an application for a precision bred animal marketing authorisation to the welfare advisory body.
 
@@ -352,7 +352,7 @@ This is subject to subsection (8).
 
 (7) Regulations under subsection (3) are subject to the negative procedure.
 
-#### 13. Issue of precision bred animal marketing authorisation[^key-a6e84ed6daedebcc574dc9ef7e380090]
+#### 13. Issue of precision bred animal marketing authorisation[^c-a6e84ed6daedebcc574dc9ef7e380090]
 
 (1) As soon as practicable after receiving a report from the welfare advisory body under section 12(2) in relation to a relevant animal, the Secretary of State must—
 
@@ -371,7 +371,7 @@ This is subject to subsection (8).
 
 ### Protection of relevant animals following issue of marketing authorisation
 
-#### 14. Precision bred animal marketing authorisations: reporting obligations[^key-b0c4dba505b4e8c3b18cba66bfaa0d6d]
+#### 14. Precision bred animal marketing authorisations: reporting obligations[^c-b0c4dba505b4e8c3b18cba66bfaa0d6d]
 
 (1) Regulations may make provision for requiring the notifier or any other prescribed person—
 
@@ -394,7 +394,7 @@ This is subject to subsection (8).
 
 (4) Regulations under this section are subject to the affirmative procedure.
 
-#### 15. Suspension and revocation of precision bred animal marketing authorisation[^key-b280692e5222b4fd42d1042f4f72e39e]
+#### 15. Suspension and revocation of precision bred animal marketing authorisation[^c-b280692e5222b4fd42d1042f4f72e39e]
 
 (1) Regulations may make provision for the Secretary of State—
 
@@ -418,11 +418,11 @@ This is subject to subsection (8).
 
 ### Reviews and appeals relating to Part 2
 
-#### 16. Reviews and appeals relating to Part 2[^key-33cc11f3e114783a10adf7e19a21ca90]
+#### 16. Reviews and appeals relating to Part 2[^c-33cc11f3e114783a10adf7e19a21ca90]
 
-(1)[^key-5629017ca8b54081db54f446ab5d5511] Regulations must make provision for reviews of and appeals against decisions under this Part.
+(1)[^c-5629017ca8b54081db54f446ab5d5511] Regulations must make provision for reviews of and appeals against decisions under this Part.
 
-(2)[^key-5629017ca8b54081db54f446ab5d5511] The regulations must, in particular, in relation to each of the decisions mentioned in subsection (3)—
+(2)[^c-5629017ca8b54081db54f446ab5d5511] The regulations must, in particular, in relation to each of the decisions mentioned in subsection (3)—
 
 - (a) secure that any person prescribed by the regulations may—
   - (i) require the Secretary of State to review the decision, and
@@ -435,21 +435,21 @@ This is subject to subsection (8).
 
 (3) Those decisions are—
 
-- (a)[^key-5629017ca8b54081db54f446ab5d5511] a decision under section 8 not to issue a precision bred confirmation;
-- (b)[^key-5629017ca8b54081db54f446ab5d5511] a decision under section 9 to revoke a precision bred confirmation;
+- (a)[^c-5629017ca8b54081db54f446ab5d5511] a decision under section 8 not to issue a precision bred confirmation;
+- (b)[^c-5629017ca8b54081db54f446ab5d5511] a decision under section 9 to revoke a precision bred confirmation;
 - (c) a decision under section 13 not to issue a precision bred animal marketing authorisation;
 - (d) a decision under section 15 to suspend or revoke a precision bred animal marketing authorisation.
 
-(4)[^key-5629017ca8b54081db54f446ab5d5511] Regulations may make provision as to—
+(4)[^c-5629017ca8b54081db54f446ab5d5511] Regulations may make provision as to—
 
 - (a) the Secretary of State’s functions on a review of a decision under this Part;
 - (b) the powers of the First-tier Tribunal on an appeal by virtue of this section.
 
-(5)[^key-5629017ca8b54081db54f446ab5d5511] Regulations under this section are subject to the negative procedure.
+(5)[^c-5629017ca8b54081db54f446ab5d5511] Regulations under this section are subject to the negative procedure.
 
 ### Risk assessments
 
-#### 17. Restrictions on importation and acquisition of precision bred organisms in England[^key-903dbd1f7010f8fc466cf59c6d9cc85d][^key-32749a9e3f5798b3ffac67e19b26d2e1]
+#### 17. Restrictions on importation and acquisition of precision bred organisms in England[^c-903dbd1f7010f8fc466cf59c6d9cc85d][^c-32749a9e3f5798b3ffac67e19b26d2e1]
 
 (1) Regulations may make provision for requiring a person to carry out an environmental risk assessment before—
 
@@ -476,7 +476,7 @@ This is subject to subsection (8).
 
 ### Register
 
-#### 18. Precision breeding register[^key-730e28775d347f7846cc76693a3c1762]
+#### 18. Precision breeding register[^c-730e28775d347f7846cc76693a3c1762]
 
 (1) The Secretary of State must establish and maintain a register (“**the register**”) containing prescribed information about—
 
@@ -491,28 +491,28 @@ This is subject to subsection (8).
 - (i) enforcement notices (see section 32(3));
 - (j) such other matters relating to this Act as may be prescribed.
 
-(2)[^key-b8af9eed42d425eee7ed3a0f14a0a672] The Secretary of State must not include information in the register if, on request by a person, the Secretary of State determines that the information is for the time being commercially confidential in relation to that person.
+(2)[^c-b8af9eed42d425eee7ed3a0f14a0a672] The Secretary of State must not include information in the register if, on request by a person, the Secretary of State determines that the information is for the time being commercially confidential in relation to that person.
 
 This is subject to subsection (4).
 
-(3)[^key-b8af9eed42d425eee7ed3a0f14a0a672] Subsection (2) ceases to apply if the Secretary of State determines that the information is no longer commercially confidential (whether or not on request by a person).
+(3)[^c-b8af9eed42d425eee7ed3a0f14a0a672] Subsection (2) ceases to apply if the Secretary of State determines that the information is no longer commercially confidential (whether or not on request by a person).
 
-(4)[^key-b8af9eed42d425eee7ed3a0f14a0a672] For the purposes of subsections (2) and (3), the following information is not to be regarded as commercially confidential—
+(4)[^c-b8af9eed42d425eee7ed3a0f14a0a672] For the purposes of subsections (2) and (3), the following information is not to be regarded as commercially confidential—
 
 - (a) the name of any person giving the notices and required information mentioned in subsection (1)(a) and (b);
 - (b) a general description of any precision bred organism.
 
-(5)[^key-b8af9eed42d425eee7ed3a0f14a0a672] The Secretary of State must ensure that the register is accessible to the public free of charge by electronic means.
+(5)[^c-b8af9eed42d425eee7ed3a0f14a0a672] The Secretary of State must ensure that the register is accessible to the public free of charge by electronic means.
 
-(6)[^key-b8af9eed42d425eee7ed3a0f14a0a672] Regulations may make provision for the keeping of the register.
+(6)[^c-b8af9eed42d425eee7ed3a0f14a0a672] Regulations may make provision for the keeping of the register.
 
-(7)[^key-b8af9eed42d425eee7ed3a0f14a0a672] Regulations under subsection (1) are subject to the affirmative procedure.
+(7)[^c-b8af9eed42d425eee7ed3a0f14a0a672] Regulations under subsection (1) are subject to the affirmative procedure.
 
-(8)[^key-b8af9eed42d425eee7ed3a0f14a0a672] Regulations under subsection (6) are subject to the negative procedure.
+(8)[^c-b8af9eed42d425eee7ed3a0f14a0a672] Regulations under subsection (6) are subject to the negative procedure.
 
 ### Monitoring and inspection
 
-#### 19. Inspectors[^key-a6c9cd5369607fdf98dcd36740be8755][^key-9fba46397d260868ee079d214c1bb5b4]
+#### 19. Inspectors[^c-a6c9cd5369607fdf98dcd36740be8755][^c-9fba46397d260868ee079d214c1bb5b4]
 
 (1) The Secretary of State may appoint inspectors for the purposes of this Part.
 
@@ -522,7 +522,7 @@ This is subject to subsection (4).
 
 (4) In this Part “**inspector**” means an inspector appointed under this section.
 
-#### 20. Monitoring and inspection of Part 2 obligations[^key-e5ff438ffe80d5a7166ff4a280f0b36e][^key-ae0ad4fcd96d8e571d354a43e6811ebd]
+#### 20. Monitoring and inspection of Part 2 obligations[^c-e5ff438ffe80d5a7166ff4a280f0b36e][^c-ae0ad4fcd96d8e571d354a43e6811ebd]
 
 (1) Regulations may make provision for—
 
@@ -554,7 +554,7 @@ This is subject to subsection (4).
 
 (4) Regulations under this section are subject to the affirmative procedure.
 
-#### 21. Meaning of “Part 2 obligation”[^key-db3d46937bdbf24696b4f4691650b337][^key-22691c706f65fe258a2b360e8d5d4c4d]
+#### 21. Meaning of “Part 2 obligation”[^c-db3d46937bdbf24696b4f4691650b337][^c-22691c706f65fe258a2b360e8d5d4c4d]
 
 (1) In this Act “Part 2 obligation” means any requirement, other than one within subsection (2), imposed—
 
@@ -579,11 +579,11 @@ including, in particular, a requirement imposed by an inspector in exercise of t
 
 ### Release and marketing: general provisions
 
-#### 22. Advisory bodies[^key-7d9daa7e4fe5a52fe7b5e51857c1c7f4]
+#### 22. Advisory bodies[^c-7d9daa7e4fe5a52fe7b5e51857c1c7f4]
 
-(1)[^key-f3148ba0b7469033f642ee74500d5955] References in this Act to the advisory committee are to the committee appointed by the Secretary of State under section 124(1) of the Environmental Protection Act 1990.
+(1)[^c-f3148ba0b7469033f642ee74500d5955] References in this Act to the advisory committee are to the committee appointed by the Secretary of State under section 124(1) of the Environmental Protection Act 1990.
 
-(2)[^key-f3148ba0b7469033f642ee74500d5955] The advisory committee must, at the request of the Secretary of State, provide advice on any matter relevant to the Secretary of State’s functions under sections 6 to 9 (precision bred confirmation).
+(2)[^c-f3148ba0b7469033f642ee74500d5955] The advisory committee must, at the request of the Secretary of State, provide advice on any matter relevant to the Secretary of State’s functions under sections 6 to 9 (precision bred confirmation).
 
 (3) References in this Act to the welfare advisory body are to such committee or other body as may be designated by regulations.
 
@@ -604,7 +604,7 @@ including, in particular, a requirement imposed by an inspector in exercise of t
 
 (9) Regulations under subsection (3) are subject to the affirmative procedure.
 
-#### 23. Advisory bodies: time limits etc[^key-56a20c0ffe5b77c107689076a01d0371][^key-470be4570e215946e3d6e5246b6df1f2]
+#### 23. Advisory bodies: time limits etc[^c-56a20c0ffe5b77c107689076a01d0371][^c-470be4570e215946e3d6e5246b6df1f2]
 
 (1) Regulations may—
 
@@ -626,11 +626,11 @@ including, in particular, a requirement imposed by an inspector in exercise of t
 
 (4) Regulations under subsection (1) are subject to the negative procedure.
 
-#### 24. Meaning of “qualifying progeny”[^key-6719257053a374e1e74893bc2350b6ed][^key-54dd52de7cd427ec7a86fb213b6a7bd0]
+#### 24. Meaning of “qualifying progeny”[^c-6719257053a374e1e74893bc2350b6ed][^c-54dd52de7cd427ec7a86fb213b6a7bd0]
 
 In this Act “**qualifying progeny**”, in relation to a marketable precision bred organism, means any progeny of the organism whose genome does not contain any feature resulting from the application of modern biotechnology, apart from features inherited from that or any other marketable precision bred organism.
 
-#### 25. Precision bred animal marketing authorisation: adverse effects[^key-e215a6ff642ccaa048d701644628cb6c]
+#### 25. Precision bred animal marketing authorisation: adverse effects[^c-e215a6ff642ccaa048d701644628cb6c]
 
 (1) Regulations may prescribe circumstances in which the health or welfare of a relevant animal or its qualifying progeny is, or is not, to be regarded for the purposes of—
 
@@ -645,7 +645,7 @@ as being adversely affected by any precision bred trait.
 
 *Extent: E+W*
 
-### 26. Regulation of food and feed produced from precision bred organisms[^key-f5ef5dcf528fec73d2c58ff10d794191][^key-d2f13659dabab9a9c517835c8800988e]
+### 26. Regulation of food and feed produced from precision bred organisms[^c-f5ef5dcf528fec73d2c58ff10d794191][^c-d2f13659dabab9a9c517835c8800988e]
 
 (1) Regulations may make provision for regulating the placing on the market in England of food and feed produced from precision bred organisms.
 
@@ -694,7 +694,7 @@ as being adversely affected by any precision bred trait.
 
 (9) Regulations under this section are subject to the affirmative procedure.
 
-### 27. Food and feed marketing authorisations: register[^key-1b9043ce4922afc1e28120fdf10796cf][^key-1508676d4d244979eeca73edf9cb0936]
+### 27. Food and feed marketing authorisations: register[^c-1b9043ce4922afc1e28120fdf10796cf][^c-1508676d4d244979eeca73edf9cb0936]
 
 (1) Regulations may make provision for requiring the Food Standards Agency to establish and maintain a public register containing prescribed particulars relating to food and feed marketing authorisations (the “food and feed register”).
 
@@ -704,7 +704,7 @@ as being adversely affected by any precision bred trait.
 
 (4) Regulations under subsection (1) are subject to the affirmative procedure.
 
-### 28. Monitoring and inspection of Part 3 obligations[^key-2c7038444a0a47623ac008ab5045fc7f][^key-583799b84353508fbf6db5e4faac7076]
+### 28. Monitoring and inspection of Part 3 obligations[^c-2c7038444a0a47623ac008ab5045fc7f][^c-583799b84353508fbf6db5e4faac7076]
 
 (1) Regulations may make provision for designating one or more bodies within subsection (2) as enforcement authorities with functions of—
 
@@ -741,7 +741,7 @@ as being adversely affected by any precision bred trait.
 
 (5) Regulations under this section are subject to the affirmative procedure.
 
-### 29. Meaning of “Part 3 obligation”[^key-64d1d6d3455580476a025e28ad15caa0][^key-876729d5d870903c8f93f990a9c3fc9c]
+### 29. Meaning of “Part 3 obligation”[^c-64d1d6d3455580476a025e28ad15caa0][^c-876729d5d870903c8f93f990a9c3fc9c]
 
 (1) In this Act “Part 3 obligation” means any requirement, other than one within subsection (3), imposed—
 
@@ -767,7 +767,7 @@ as being adversely affected by any precision bred trait.
 
 (6) Regulations under subsection (4) are subject to the affirmative procedure.
 
-### 30. Interpretation of Part 3[^key-4c7ab289cfa1b5fda32bb1e8d29664fd][^key-4fb7ee6f49eaf467c737df1c47c82622]
+### 30. Interpretation of Part 3[^c-4c7ab289cfa1b5fda32bb1e8d29664fd][^c-4fb7ee6f49eaf467c737df1c47c82622]
 
 (1) In this Part—
 
@@ -788,7 +788,7 @@ as being adversely affected by any precision bred trait.
 
 ### Enforcement of relevant breaches: general provisions
 
-#### 31. Meaning of “relevant breach” etc[^key-2fba7554807103916ed48cce7db3a1c9][^key-90db543f9786399a15184bc6839c9815]
+#### 31. Meaning of “relevant breach” etc[^c-2fba7554807103916ed48cce7db3a1c9][^c-90db543f9786399a15184bc6839c9815]
 
 (1) In this Act “**relevant breach**”, in relation to a person, means a failure by the person to comply with a relevant obligation, but—
 
@@ -807,7 +807,7 @@ as being adversely affected by any precision bred trait.
 
 (4) Regulations under subsection (3) are subject to the affirmative procedure.
 
-#### 32. Enforcement[^key-42e3a84d151acdb6e9cfbee24379a255][^key-88fab67c5541a5941b40854b00a4e9b5]
+#### 32. Enforcement[^c-42e3a84d151acdb6e9cfbee24379a255][^c-88fab67c5541a5941b40854b00a4e9b5]
 
 (1) Regulations may make provision for—
 
@@ -832,7 +832,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 
 ### Enforcement notices
 
-#### 33. Compliance notices[^key-872a4061915f2b9739bdb58017c39009][^key-d3d87720cd657ce8190003653f883d1b]
+#### 33. Compliance notices[^c-872a4061915f2b9739bdb58017c39009][^c-d3d87720cd657ce8190003653f883d1b]
 
 (1) In this Act “**compliance notice**” means a notice requiring the person to whom it is issued to take specified steps within a specified period.
 
@@ -846,7 +846,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 
 (4) In this section “**specified**”, in relation to a compliance notice, means specified in the notice.
 
-#### 34. Stop notices[^key-954a19def479dc60862d03d5bb11e46a][^key-1280fe771de374653a77185a3873db8c]
+#### 34. Stop notices[^c-954a19def479dc60862d03d5bb11e46a][^c-1280fe771de374653a77185a3873db8c]
 
 (1) In this Act “**stop notice**” means a notice prohibiting the person to whom it is issued—
 
@@ -862,7 +862,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 
 (4) In this section “**specified**”, in relation to a stop notice, means specified in the notice.
 
-#### 35. Monetary penalty notices[^key-dd0bf055b2413c01ec9088892cc85401][^key-d2a14c654c912558d356e8e4bf3a0c62]
+#### 35. Monetary penalty notices[^c-dd0bf055b2413c01ec9088892cc85401][^c-d2a14c654c912558d356e8e4bf3a0c62]
 
 (1) In this Act “**monetary penalty notice**” means a notice requiring the person to whom it is issued to pay a sum specified in the notice (a “monetary penalty”) to the appropriate authority.
 
@@ -884,7 +884,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 - (a) for the payment of interest on late payment;
 - (b) as to how any amounts payable by virtue of the regulations are to be recoverable.
 
-#### 36. Content of enforcement notices: further provision[^key-840defd241d09fc959d070e1af4a3d4f][^key-5f5ad785c9390c571493d4922ef309da]
+#### 36. Content of enforcement notices: further provision[^c-840defd241d09fc959d070e1af4a3d4f][^c-5f5ad785c9390c571493d4922ef309da]
 
 (1) Regulations which provide for the issue of an enforcement notice to a person must require the notice to state—
 
@@ -902,7 +902,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 - (a) by the Secretary of State, in the case of a monetary penalty notice issued by the Secretary of State;
 - (b) by an inspector, in any other case.
 
-#### 37. Enforcement notices: reviews and appeals[^key-4fb6f9bb41e6154c07444f88982be007][^key-5e1a9774a3f95f962c80c021938e6c6a]
+#### 37. Enforcement notices: reviews and appeals[^c-4fb6f9bb41e6154c07444f88982be007][^c-5e1a9774a3f95f962c80c021938e6c6a]
 
 (1) Regulations which provide for the issue of an enforcement notice to a person must—
 
@@ -926,7 +926,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 
 ### Costs
 
-#### 38. Costs[^key-8f150e46d8a061909bb267ba8ab65ece][^key-7565b568a8f06d9b271987d28c7a54a4]
+#### 38. Costs[^c-8f150e46d8a061909bb267ba8ab65ece][^c-7565b568a8f06d9b271987d28c7a54a4]
 
 (1) Regulations may make provision for an appropriate authority, by notice (a “costs notice”) to require a person to pay the costs incurred by the authority in relation to an enforcement notice up to the time of its issue.
 
@@ -974,7 +974,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 
 ## Part 5 — General
 
-### 39. Fees[^key-25a36308ea5498970bb0d8d5840ebd46]
+### 39. Fees[^c-25a36308ea5498970bb0d8d5840ebd46]
 
 *Extent: E+W*
 
@@ -1001,7 +1001,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 
 (5) Regulations under this section are subject to the affirmative procedure.
 
-### 40. Notices and documents[^key-7c51eeae7ca8ef440f0f15a475af9cb3][^key-c21c815b03228ef03e6367185ea8ad77]
+### 40. Notices and documents[^c-7c51eeae7ca8ef440f0f15a475af9cb3][^c-c21c815b03228ef03e6367185ea8ad77]
 
 *Extent: E+W*
 
@@ -1012,7 +1012,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 
 (2) Regulations under this section are subject to the negative procedure.
 
-### 41. Consequential amendments of the Environmental Protection Act 1990[^key-730883eabf51f79a7c067c67465485d4][^key-ba71efeb912af25ff9c146b5eae59680]
+### 41. Consequential amendments of the Environmental Protection Act 1990[^c-730883eabf51f79a7c067c67465485d4][^c-ba71efeb912af25ff9c146b5eae59680]
 
 *Extent: E+W+S*
 
@@ -1040,7 +1040,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 
 > For other functions of the committee, see Part 2 of the Genetic Technology (Precision Breeding) Act 2023.
 
-### 42. Power to make consequential provision[^key-29e90b7e84b9c59b5ee3cb2b141fe68b]
+### 42. Power to make consequential provision[^c-29e90b7e84b9c59b5ee3cb2b141fe68b]
 
 (1) Regulations may make supplementary, incidental or consequential provision in connection with any provision of or made under this Act.
 
@@ -1050,7 +1050,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 
 (4) Other regulations under this section are subject to the negative procedure.
 
-### 43. Regulations[^key-489efd523ba8919e75b5160420a0d84f]
+### 43. Regulations[^c-489efd523ba8919e75b5160420a0d84f]
 
 (1) This section applies to regulations under this Act other than regulations under section 48 (commencement regulations).
 
@@ -1071,7 +1071,7 @@ This does not affect the enforcement of the requirement (or power to make provis
 
 (6) Any provision that may be made by regulations under this Act subject to the negative procedure may be made in regulations subject to the affirmative procedure.
 
-### 44. Interpretation[^key-844e27750db436e9e182f41ff934c2b8]
+### 44. Interpretation[^c-844e27750db436e9e182f41ff934c2b8]
 
 In this Act the following terms have the following meanings—
 
@@ -1121,14 +1121,14 @@ In this Act the following terms have the following meanings—
 - “**subordinate legislation**” means an instrument made under primary legislation or under retained direct EU legislation;
 - “**the welfare advisory body**” has the meaning given by section 22(3).
 
-### 45. Financial provisions[^key-8e578f8ee38c22ea588a0262dacb9198]
+### 45. Financial provisions[^c-8e578f8ee38c22ea588a0262dacb9198]
 
 The following are to be paid out of money provided by Parliament—
 
 - (a) any expenditure incurred under or by virtue of this Act by the Secretary of State or the Food Standards Agency, and
 - (b) sums payable out of money so provided under any other Act.
 
-### 46. Crown application[^key-1059dac1a37949d2895ed471847eedc3]
+### 46. Crown application[^c-1059dac1a37949d2895ed471847eedc3]
 
 (1) This Act binds the Crown.
 
@@ -1140,7 +1140,7 @@ The following are to be paid out of money provided by Parliament—
 
 (5) In subsection (4), the reference to His Majesty’s private estates is to be construed in accordance with section 1 of the Crown Private Estates Act 1862.
 
-### 47. Extent and application to sea areas[^key-b915971533d0eeab9f5da5fb09dc62c2]
+### 47. Extent and application to sea areas[^c-b915971533d0eeab9f5da5fb09dc62c2]
 
 (1) Subject as follows, this Act extends to England and Wales only.
 
@@ -1153,7 +1153,7 @@ The following are to be paid out of money provided by Parliament—
 - (a) applies to the territorial sea adjacent to England as it applies in England;
 - (b) applies to any area for the time being designated under section 1(7) of the Continental Shelf Act 1964 as it applies in England.
 
-### 48. Short title and commencement[^key-a8c4b92e650d9aa5eea6f19cdb4aa467]
+### 48. Short title and commencement[^c-a8c4b92e650d9aa5eea6f19cdb4aa467]
 
 (1) This Act may be cited as the Genetic Technology (Precision Breeding) Act 2023.
 
@@ -1176,160 +1176,160 @@ The following are to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-03bba1b2db22f8c8ac58df493ff43697]: Commencement: S. 1 in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/2)
+[^c-03bba1b2db22f8c8ac58df493ff43697]: Commencement: S. 1 in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/2)
 
-[^key-1d15e06dfa545393113ae5f9a77f635a]: Commencement: S. 2 in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/2)
+[^c-1d15e06dfa545393113ae5f9a77f635a]: Commencement: S. 2 in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/2)
 
-[^key-6bc91171fb6036e52e5ab86e305c68ea]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-6bc91171fb6036e52e5ab86e305c68ea]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-6f0464c181939994826bcc9e6b3cdf1a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/6/section/3) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
+[^c-6f0464c181939994826bcc9e6b3cdf1a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/6/section/3) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
 
-[^key-bd92ff01d9449e9be2dedc2ed19327d9]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-bd92ff01d9449e9be2dedc2ed19327d9]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-fb14d69e364ae5bf218cafe271cdba32]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/6/section/4) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
+[^c-fb14d69e364ae5bf218cafe271cdba32]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/6/section/4) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
 
-[^key-e005d9f01d92c732d8831ccf9a6a5329]: Commencement: S. 5 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-e005d9f01d92c732d8831ccf9a6a5329]: Commencement: S. 5 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-222dc425d28aa63d3a9e45d2eac10e43]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/6/section/5) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
+[^c-222dc425d28aa63d3a9e45d2eac10e43]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/6/section/5) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
 
-[^key-dec3839578609aa4796300c54ba73448]: Commencement: S. 6 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-dec3839578609aa4796300c54ba73448]: Commencement: S. 6 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-723837983629666ee84cb58f53685d50]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/6/section/6) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
+[^c-723837983629666ee84cb58f53685d50]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/6/section/6) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
 
-[^key-5b774b0bf8b7ac01671dce31c2f5e67b]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-5b774b0bf8b7ac01671dce31c2f5e67b]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-21c961b50ef4a90af2e4abdcd991f9e4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/6/section/7) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
+[^c-21c961b50ef4a90af2e4abdcd991f9e4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/6/section/7) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
 
-[^key-b3ed3f68d7460f352fb2debf2783cec3]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-b3ed3f68d7460f352fb2debf2783cec3]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-619d5613214b1a1ee04e13fa54b2cfba]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/6/section/8) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
+[^c-619d5613214b1a1ee04e13fa54b2cfba]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/6/section/8) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
 
-[^key-07b5a72193f61f853751d89a26908f42]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-07b5a72193f61f853751d89a26908f42]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-d7b3c9b027cba3a08d86c3c561efdd4d]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/6/section/9) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
+[^c-d7b3c9b027cba3a08d86c3c561efdd4d]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/6/section/9) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/a)
 
-[^key-e25061a6d1351d9ea188222508b411b2]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-e25061a6d1351d9ea188222508b411b2]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-930ca3a1977b99127d7966d7b3d4f375]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-930ca3a1977b99127d7966d7b3d4f375]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-f2cb68dce0ce1e42f79c370184b4e0ae]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-f2cb68dce0ce1e42f79c370184b4e0ae]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-a6e84ed6daedebcc574dc9ef7e380090]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-a6e84ed6daedebcc574dc9ef7e380090]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-b0c4dba505b4e8c3b18cba66bfaa0d6d]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-b0c4dba505b4e8c3b18cba66bfaa0d6d]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-b280692e5222b4fd42d1042f4f72e39e]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-b280692e5222b4fd42d1042f4f72e39e]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-33cc11f3e114783a10adf7e19a21ca90]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-33cc11f3e114783a10adf7e19a21ca90]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-5629017ca8b54081db54f446ab5d5511]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/2)[(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/3/a)[(b)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/5) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/b)
+[^c-5629017ca8b54081db54f446ab5d5511]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/2)[(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/3/a)[(b)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/16/5) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/b)
 
-[^key-903dbd1f7010f8fc466cf59c6d9cc85d]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-903dbd1f7010f8fc466cf59c6d9cc85d]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-32749a9e3f5798b3ffac67e19b26d2e1]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/6/section/17) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/c)
+[^c-32749a9e3f5798b3ffac67e19b26d2e1]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/6/section/17) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/c)
 
-[^key-730e28775d347f7846cc76693a3c1762]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-730e28775d347f7846cc76693a3c1762]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-b8af9eed42d425eee7ed3a0f14a0a672]: Commencement: [S. 18(1)(a)-(e)](https://www.legislation.gov.uk/ukpga/2023/6/section/18/1/a)(i)(j)(2)-(8) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/d)
+[^c-b8af9eed42d425eee7ed3a0f14a0a672]: Commencement: [S. 18(1)(a)-(e)](https://www.legislation.gov.uk/ukpga/2023/6/section/18/1/a)(i)(j)(2)-(8) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/d)
 
-[^key-a6c9cd5369607fdf98dcd36740be8755]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-a6c9cd5369607fdf98dcd36740be8755]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-9fba46397d260868ee079d214c1bb5b4]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/6/section/19) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/e)
+[^c-9fba46397d260868ee079d214c1bb5b4]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/6/section/19) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/e)
 
-[^key-e5ff438ffe80d5a7166ff4a280f0b36e]: Commencement: S. 20 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-e5ff438ffe80d5a7166ff4a280f0b36e]: Commencement: S. 20 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-ae0ad4fcd96d8e571d354a43e6811ebd]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/6/section/20) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/e)
+[^c-ae0ad4fcd96d8e571d354a43e6811ebd]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/6/section/20) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/e)
 
-[^key-db3d46937bdbf24696b4f4691650b337]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-db3d46937bdbf24696b4f4691650b337]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-22691c706f65fe258a2b360e8d5d4c4d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/6/section/21) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/e)
+[^c-22691c706f65fe258a2b360e8d5d4c4d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/6/section/21) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/e)
 
-[^key-7d9daa7e4fe5a52fe7b5e51857c1c7f4]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-7d9daa7e4fe5a52fe7b5e51857c1c7f4]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-f3148ba0b7469033f642ee74500d5955]: Commencement: [S. 22(1)](https://www.legislation.gov.uk/ukpga/2023/6/section/22/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/22/2) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/f)
+[^c-f3148ba0b7469033f642ee74500d5955]: Commencement: [S. 22(1)](https://www.legislation.gov.uk/ukpga/2023/6/section/22/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/22/2) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/f)
 
-[^key-56a20c0ffe5b77c107689076a01d0371]: Commencement: S. 23 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-56a20c0ffe5b77c107689076a01d0371]: Commencement: S. 23 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-470be4570e215946e3d6e5246b6df1f2]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/6/section/23) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(g)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/g)
+[^c-470be4570e215946e3d6e5246b6df1f2]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/6/section/23) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(g)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/g)
 
-[^key-6719257053a374e1e74893bc2350b6ed]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-6719257053a374e1e74893bc2350b6ed]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-54dd52de7cd427ec7a86fb213b6a7bd0]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/6/section/24) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(g)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/g)
+[^c-54dd52de7cd427ec7a86fb213b6a7bd0]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/6/section/24) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(2)(g)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/2/g)
 
-[^key-e215a6ff642ccaa048d701644628cb6c]: Commencement: S. 25 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-e215a6ff642ccaa048d701644628cb6c]: Commencement: S. 25 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-f5ef5dcf528fec73d2c58ff10d794191]: Commencement: S. 26 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-f5ef5dcf528fec73d2c58ff10d794191]: Commencement: S. 26 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-d2f13659dabab9a9c517835c8800988e]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/6/section/26) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/3)
+[^c-d2f13659dabab9a9c517835c8800988e]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/6/section/26) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/3)
 
-[^key-1b9043ce4922afc1e28120fdf10796cf]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-1b9043ce4922afc1e28120fdf10796cf]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-1508676d4d244979eeca73edf9cb0936]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/6/section/27) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/3)
+[^c-1508676d4d244979eeca73edf9cb0936]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/6/section/27) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/3)
 
-[^key-2c7038444a0a47623ac008ab5045fc7f]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-2c7038444a0a47623ac008ab5045fc7f]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-583799b84353508fbf6db5e4faac7076]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/6/section/28) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/3)
+[^c-583799b84353508fbf6db5e4faac7076]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/6/section/28) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/3)
 
-[^key-64d1d6d3455580476a025e28ad15caa0]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-64d1d6d3455580476a025e28ad15caa0]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-876729d5d870903c8f93f990a9c3fc9c]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/6/section/29) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/3)
+[^c-876729d5d870903c8f93f990a9c3fc9c]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/6/section/29) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/3)
 
-[^key-4c7ab289cfa1b5fda32bb1e8d29664fd]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-4c7ab289cfa1b5fda32bb1e8d29664fd]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-4fb7ee6f49eaf467c737df1c47c82622]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/6/section/30) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/3)
+[^c-4fb7ee6f49eaf467c737df1c47c82622]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/6/section/30) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/3)
 
-[^key-2fba7554807103916ed48cce7db3a1c9]: Commencement: S. 31 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-2fba7554807103916ed48cce7db3a1c9]: Commencement: S. 31 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-90db543f9786399a15184bc6839c9815]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/6/section/31) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
+[^c-90db543f9786399a15184bc6839c9815]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/6/section/31) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
 
-[^key-42e3a84d151acdb6e9cfbee24379a255]: Commencement: S. 32 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-42e3a84d151acdb6e9cfbee24379a255]: Commencement: S. 32 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-88fab67c5541a5941b40854b00a4e9b5]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/6/section/32) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
+[^c-88fab67c5541a5941b40854b00a4e9b5]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/6/section/32) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
 
-[^key-872a4061915f2b9739bdb58017c39009]: Commencement: S. 33 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-872a4061915f2b9739bdb58017c39009]: Commencement: S. 33 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-d3d87720cd657ce8190003653f883d1b]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/6/section/33) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
+[^c-d3d87720cd657ce8190003653f883d1b]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/6/section/33) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
 
-[^key-954a19def479dc60862d03d5bb11e46a]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-954a19def479dc60862d03d5bb11e46a]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-1280fe771de374653a77185a3873db8c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/6/section/34) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
+[^c-1280fe771de374653a77185a3873db8c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/6/section/34) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
 
-[^key-dd0bf055b2413c01ec9088892cc85401]: Commencement: S. 35 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-dd0bf055b2413c01ec9088892cc85401]: Commencement: S. 35 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-d2a14c654c912558d356e8e4bf3a0c62]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/6/section/35) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
+[^c-d2a14c654c912558d356e8e4bf3a0c62]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/6/section/35) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
 
-[^key-840defd241d09fc959d070e1af4a3d4f]: Commencement: S. 36 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-840defd241d09fc959d070e1af4a3d4f]: Commencement: S. 36 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-5f5ad785c9390c571493d4922ef309da]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/6/section/36) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
+[^c-5f5ad785c9390c571493d4922ef309da]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/6/section/36) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
 
-[^key-4fb6f9bb41e6154c07444f88982be007]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-4fb6f9bb41e6154c07444f88982be007]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-5e1a9774a3f95f962c80c021938e6c6a]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/6/section/37) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
+[^c-5e1a9774a3f95f962c80c021938e6c6a]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/6/section/37) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
 
-[^key-8f150e46d8a061909bb267ba8ab65ece]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-8f150e46d8a061909bb267ba8ab65ece]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-7565b568a8f06d9b271987d28c7a54a4]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/6/section/38) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
+[^c-7565b568a8f06d9b271987d28c7a54a4]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/6/section/38) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/4)
 
-[^key-25a36308ea5498970bb0d8d5840ebd46]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-25a36308ea5498970bb0d8d5840ebd46]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-7c51eeae7ca8ef440f0f15a475af9cb3]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
+[^c-7c51eeae7ca8ef440f0f15a475af9cb3]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 48(3)(a)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/3/a)
 
-[^key-c21c815b03228ef03e6367185ea8ad77]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/6/section/40) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)
+[^c-c21c815b03228ef03e6367185ea8ad77]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/6/section/40) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)
 
-[^key-730883eabf51f79a7c067c67465485d4]: Commencement: S. 41 not in force at Royal Assent, see [s. 48(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/4)
+[^c-730883eabf51f79a7c067c67465485d4]: Commencement: S. 41 not in force at Royal Assent, see [s. 48(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/4)
 
-[^key-ba71efeb912af25ff9c146b5eae59680]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/6/section/41) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)
+[^c-ba71efeb912af25ff9c146b5eae59680]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/6/section/41) in force at 13.11.2025 for specified purposes by [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)
 
-[^key-29e90b7e84b9c59b5ee3cb2b141fe68b]: Commencement: S. 42 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
+[^c-29e90b7e84b9c59b5ee3cb2b141fe68b]: Commencement: S. 42 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
 
-[^key-489efd523ba8919e75b5160420a0d84f]: Commencement: S. 43 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
+[^c-489efd523ba8919e75b5160420a0d84f]: Commencement: S. 43 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
 
-[^key-844e27750db436e9e182f41ff934c2b8]: Commencement: S. 44 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
+[^c-844e27750db436e9e182f41ff934c2b8]: Commencement: S. 44 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
 
-[^key-8e578f8ee38c22ea588a0262dacb9198]: Commencement: S. 45 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
+[^c-8e578f8ee38c22ea588a0262dacb9198]: Commencement: S. 45 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
 
-[^key-1059dac1a37949d2895ed471847eedc3]: Commencement: S. 46 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
+[^c-1059dac1a37949d2895ed471847eedc3]: Commencement: S. 46 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
 
-[^key-b915971533d0eeab9f5da5fb09dc62c2]: Commencement: S. 47 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
+[^c-b915971533d0eeab9f5da5fb09dc62c2]: Commencement: S. 47 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
 
-[^key-a8c4b92e650d9aa5eea6f19cdb4aa467]: Commencement: S. 48 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)
+[^c-a8c4b92e650d9aa5eea6f19cdb4aa467]: Commencement: S. 48 in force at Royal Assent, see [s. 48(5)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/5)

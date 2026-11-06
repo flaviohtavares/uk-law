@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to agricultural holdings, with
 
 \[18th March 1986\]
 
-[^c10154201][^c10154211][^c10154221][^c10154231][^c10154241][^c10154251]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-cbc2864d80f27ef22c9bfd3285de8c07][^key-45ae9c75ba1ad0c4fbd54be981aaa9ca]
+[^c10154201][^c10154211][^c10154221][^c10154231][^c10154241][^c10154251]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-cbc2864d80f27ef22c9bfd3285de8c07][^c-45ae9c75ba1ad0c4fbd54be981aaa9ca]
 
 ## Contents
 
@@ -269,9 +269,9 @@ SCHEDULES
 
 [^c10154251]: Modification: Act excluded (1.8.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 149(3)(d)](https://www.legislation.gov.uk/ukpga/1999/33/section/149/3/d); [S.I. 2000/1985](https://www.legislation.gov.uk/uksi/2000/1985), [art. 2](https://www.legislation.gov.uk/uksi/2000/1985/article/2)
 
-[^key-cbc2864d80f27ef22c9bfd3285de8c07]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/5) excluded (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 3(1)(e)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/3/1/e); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
+[^c-cbc2864d80f27ef22c9bfd3285de8c07]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/5) excluded (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 3(1)(e)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/3/1/e); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
 
-[^key-45ae9c75ba1ad0c4fbd54be981aaa9ca]: Modification: Act continued (W.) (1.9.2024) by [The Agricultural Holdings (Requests for Landlord’s Consent or Variation of Terms and the Suitability Test) (Wales) Regulations 2024 (S.I. 2024/798)](https://www.legislation.gov.uk/uksi/2024/798), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/798/regulation/1/2/b), [6(2)](https://www.legislation.gov.uk/uksi/2024/798/regulation/6/2)
+[^c-45ae9c75ba1ad0c4fbd54be981aaa9ca]: Modification: Act continued (W.) (1.9.2024) by [The Agricultural Holdings (Requests for Landlord’s Consent or Variation of Terms and the Suitability Test) (Wales) Regulations 2024 (S.I. 2024/798)](https://www.legislation.gov.uk/uksi/2024/798), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/798/regulation/1/2/b), [6(2)](https://www.legislation.gov.uk/uksi/2024/798/regulation/6/2)
 
 [^c10154341]: Modification: Pts. III–VI (ss. 25–82) excluded by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 101](https://www.legislation.gov.uk/ukpga/1988/50/section/101)
 

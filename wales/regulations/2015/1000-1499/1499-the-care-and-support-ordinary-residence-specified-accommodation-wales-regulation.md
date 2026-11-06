@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by section 194(1) of the Social Services and Well-being (Wales) Act 2014[^f00001], make the following Regulations:
 
-## 1. Title, commencement, application and interpretation[^key-6bc225adcacd357c7eef136047a9ce1d]
+## 1. Title, commencement, application and interpretation[^c-6bc225adcacd357c7eef136047a9ce1d]
 
 (1) The title of these Regulations is the Care and Support (Ordinary Residence) (Specified Accommodation) (Wales) Regulations 2015.
 
@@ -54,9 +54,9 @@ The Welsh Ministers, in exercise of the powers conferred by section 194(1) of th
 (3) In these Regulations—
 
 - “the Act” (“*y Ddeddf*”) means the Social Services and Well-being (Wales) Act 2014;
-- “care home accommodation” (“*llety cartref gofal*”) means accommodation at a place at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to adults[^key-2eedf9bfa04145cdefc9fbddac4a0a61].
+- “care home accommodation” (“*llety cartref gofal*”) means accommodation at a place at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to adults[^c-2eedf9bfa04145cdefc9fbddac4a0a61].
 
-## 2. Specified types of accommodation[^key-0fcc3e9a4b1700c1543469660c2ae1d2]
+## 2. Specified types of accommodation[^c-0fcc3e9a4b1700c1543469660c2ae1d2]
 
 (1) For the purposes of section 194(1) of the Act (ordinary residence), care home accommodation is accommodation of a specified type.
 
@@ -80,8 +80,8 @@ These Regulations provide that care home accommodation is accommodation of a spe
 
 [^f00001]: Footnote: [2014 anaw. 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-6bc225adcacd357c7eef136047a9ce1d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1499/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1499/regulation/1/2)
+[^c-6bc225adcacd357c7eef136047a9ce1d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1499/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1499/regulation/1/2)
 
-[^key-2eedf9bfa04145cdefc9fbddac4a0a61]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1499/regulation/1/3) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 34(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/34/2)
+[^c-2eedf9bfa04145cdefc9fbddac4a0a61]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1499/regulation/1/3) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 34(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/34/2)
 
-[^key-0fcc3e9a4b1700c1543469660c2ae1d2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1499/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1499/regulation/1/2)
+[^c-0fcc3e9a4b1700c1543469660c2ae1d2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1499/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1499/regulation/1/2)

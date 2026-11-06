@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — PUBLIC RIGHTS OF WAY TO BE EXTINGUISHED[^key-413b9a26d6285e9e74944c9e5ebb5f45]
+## SCHEDULE 7 — PUBLIC RIGHTS OF WAY TO BE EXTINGUISHED[^c-413b9a26d6285e9e74944c9e5ebb5f45]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Article 12
 
 ## Annotations
 
-[^key-413b9a26d6285e9e74944c9e5ebb5f45]: Commencement: Sch. 7 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-413b9a26d6285e9e74944c9e5ebb5f45]: Commencement: Sch. 7 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

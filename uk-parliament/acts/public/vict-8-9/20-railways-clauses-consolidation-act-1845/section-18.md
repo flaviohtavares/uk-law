@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 18. Alteration of water and gas pipes, &c.[^c6403991][^c6404001][^key-e88e6d91938809d6f8aba23e704f69ee][^key-246729fc5452f16d4cef3710a32226a5]
+## 18. Alteration of water and gas pipes, &c.[^c6403991][^c6404001][^c-e88e6d91938809d6f8aba23e704f69ee][^c-246729fc5452f16d4cef3710a32226a5]
 
 *Extent: E+W+N.I.*
 
@@ -48,6 +48,6 @@ It shall be lawful for the company, for the purpose of constructing the railway,
 
     S. 18 incorporated (with modifications) (12.2.2002) by [S.I. 2002/366](https://www.legislation.gov.uk/uksi/2002/366), [art. 3(1)](https://www.legislation.gov.uk/uksi/2002/366/article/3/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/366/schedule/2))
 
-[^key-e88e6d91938809d6f8aba23e704f69ee]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/18) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
+[^c-e88e6d91938809d6f8aba23e704f69ee]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/18) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
 
-[^key-246729fc5452f16d4cef3710a32226a5]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/18) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)
+[^c-246729fc5452f16d4cef3710a32226a5]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/18) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Urgent treatment to alleviate serious suffering[^key-c643e9449cbb0ee670ff92ff75354aab]
+## 17. Urgent treatment to alleviate serious suffering[^c-c643e9449cbb0ee670ff92ff75354aab]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In section 62 of the Mental Health Act 1983 (urgent treatment)—
 
 ## Annotations
 
-[^key-c643e9449cbb0ee670ff92ff75354aab]: Commencement: S. 17 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-c643e9449cbb0ee670ff92ff75354aab]: Commencement: S. 17 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

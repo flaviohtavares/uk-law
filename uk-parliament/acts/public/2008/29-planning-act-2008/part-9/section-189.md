@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Compensation where development order or local development order withdrawn[^key-b80d379213714ee67cd03c7a86e30ede]
+## 189. Compensation where development order or local development order withdrawn[^c-b80d379213714ee67cd03c7a86e30ede]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b80d379213714ee67cd03c7a86e30ede]: Commencement: S. 189 in force at 6.4.2010 for E.W. by [S.I. 2010/566](https://www.legislation.gov.uk/uksi/2010/566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/566/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/566/article/4))
+[^c-b80d379213714ee67cd03c7a86e30ede]: Commencement: S. 189 in force at 6.4.2010 for E.W. by [S.I. 2010/566](https://www.legislation.gov.uk/uksi/2010/566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/566/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/566/article/4))

@@ -22,7 +22,7 @@ summary: ''
 
 Section 13
 
-### 1. Participation[^key-70f02b617daa2f0ad8d67f5dcf41f476][^key-2a877282c90e380c8cb33b5d0cd1f7c1]
+### 1. Participation[^c-70f02b617daa2f0ad8d67f5dcf41f476][^c-2a877282c90e380c8cb33b5d0cd1f7c1]
 
 (1) Eligibility for participation in the FMI sandbox arrangements for FMI entities and persons other than FMI entities.
 
@@ -38,17 +38,17 @@ Section 13
 
 (5) Information to be supplied by persons participating in the FMI sandbox arrangements for the purposes of notifying other persons of their participation.
 
-### 2. Technology[^key-39337fe22ed13bbb0f44424ea87e89cd][^key-495fbd92969e1121c0eed3cc830035ac]
+### 2. Technology[^c-39337fe22ed13bbb0f44424ea87e89cd][^c-495fbd92969e1121c0eed3cc830035ac]
 
 The particular kinds of technology that may be used under the FMI sandbox arrangements for the purposes of assessing their efficiency or effectiveness.
 
-### 3. Practices[^key-560fa31af3c9a4f773bec8b494fd6677][^key-325c62a5554f67d3b32b1fb6b6bfa4c9]
+### 3. Practices[^c-560fa31af3c9a4f773bec8b494fd6677][^c-325c62a5554f67d3b32b1fb6b6bfa4c9]
 
 (1) The particular kinds of practices that may be adopted under the FMI sandbox arrangements for the purposes of assessing their efficiency or effectiveness.
 
 (2) The practices referred to in sub-paragraph (1) include practices adopted in the issuance, trading or settlement of financial instruments in a way not otherwise possible or practicable as a result of requirements imposed by relevant enactments.
 
-### 4. Financial instruments[^key-0b156b65a8be086badeaae3cddcdcb00][^key-924d439345df555d535d812d1a04e704]
+### 4. Financial instruments[^c-0b156b65a8be086badeaae3cddcdcb00][^c-924d439345df555d535d812d1a04e704]
 
 (1) Descriptions of financial instrument (“the FMI sandbox instruments”) that may be traded under the FMI sandbox arrangements.
 
@@ -60,13 +60,13 @@ The particular kinds of technology that may be used under the FMI sandbox arrang
 
 (5) References in this paragraph to the trading of FMI sandbox instruments include references to their settlement.
 
-### 5. Settlement of payments[^key-858ca1d91da5572bc54a1f89f4cc6f72][^key-e17125750b274337f2a26dd49e41dcfd]
+### 5. Settlement of payments[^c-858ca1d91da5572bc54a1f89f4cc6f72][^c-e17125750b274337f2a26dd49e41dcfd]
 
 (1) How payments are to be settled in respect of transactions taking place under the FMI sandbox arrangements.
 
 (2) Provision under sub-paragraph (1) includes provision as to cash settlement or whatever other forms of settlement the provision may specify.
 
-### 6. Requirements[^key-1e040910b9f065ff5110bbf314ba7ddb][^key-466ba8728ced796331b060de07dac984]
+### 6. Requirements[^c-1e040910b9f065ff5110bbf314ba7ddb][^c-466ba8728ced796331b060de07dac984]
 
 (1) Requirements applicable—
 
@@ -75,11 +75,11 @@ The particular kinds of technology that may be used under the FMI sandbox arrang
 
 (2) Provision under this paragraph includes provision conferring powers on the appropriate regulator to make rules or technical standards applicable for the purposes of the FMI sandbox arrangements.
 
-### 7. Cooperation[^key-12a5327c25ee67220d0b96dc8a34080f][^key-f9bca32f20c82d53cc48e5a3d9e78225]
+### 7. Cooperation[^c-12a5327c25ee67220d0b96dc8a34080f][^c-f9bca32f20c82d53cc48e5a3d9e78225]
 
 Duties of the appropriate regulators to cooperate with each other for the purposes of implementing and operating the FMI sandbox arrangements.
 
-### 8. Transparency and reporting[^key-ab294aa5c9bc8fbb7781d96f530bfabe][^key-19782f5bb3fd5370012d816e3213a5d2]
+### 8. Transparency and reporting[^c-ab294aa5c9bc8fbb7781d96f530bfabe][^c-19782f5bb3fd5370012d816e3213a5d2]
 
 (1) Publication of specified details of the FMI sandbox arrangements by the Treasury or the appropriate regulator (or both).
 
@@ -87,7 +87,7 @@ Duties of the appropriate regulators to cooperate with each other for the purpos
 
 (3) Requirements imposed by virtue of this paragraph are in addition to the requirement imposed by section 14.
 
-### 9. Enforcement[^key-d24bb573a36c62e46beff02436da1389][^key-e39d7f7bd76ece2ae2d542ef64006777]
+### 9. Enforcement[^c-d24bb573a36c62e46beff02436da1389][^c-e39d7f7bd76ece2ae2d542ef64006777]
 
 (1) How requirements imposed by or under the FMI sandbox arrangements are to be enforced.
 
@@ -104,38 +104,38 @@ Duties of the appropriate regulators to cooperate with each other for the purpos
 
 ## Annotations
 
-[^key-70f02b617daa2f0ad8d67f5dcf41f476]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-70f02b617daa2f0ad8d67f5dcf41f476]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-2a877282c90e380c8cb33b5d0cd1f7c1]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/1) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
+[^c-2a877282c90e380c8cb33b5d0cd1f7c1]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/1) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
 
-[^key-39337fe22ed13bbb0f44424ea87e89cd]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-39337fe22ed13bbb0f44424ea87e89cd]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-495fbd92969e1121c0eed3cc830035ac]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/2) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
+[^c-495fbd92969e1121c0eed3cc830035ac]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/2) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
 
-[^key-560fa31af3c9a4f773bec8b494fd6677]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-560fa31af3c9a4f773bec8b494fd6677]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-325c62a5554f67d3b32b1fb6b6bfa4c9]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/3) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
+[^c-325c62a5554f67d3b32b1fb6b6bfa4c9]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/3) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
 
-[^key-0b156b65a8be086badeaae3cddcdcb00]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-0b156b65a8be086badeaae3cddcdcb00]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-924d439345df555d535d812d1a04e704]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/4) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
+[^c-924d439345df555d535d812d1a04e704]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/4) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
 
-[^key-858ca1d91da5572bc54a1f89f4cc6f72]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-858ca1d91da5572bc54a1f89f4cc6f72]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e17125750b274337f2a26dd49e41dcfd]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/5) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
+[^c-e17125750b274337f2a26dd49e41dcfd]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/5) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
 
-[^key-1e040910b9f065ff5110bbf314ba7ddb]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-1e040910b9f065ff5110bbf314ba7ddb]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-466ba8728ced796331b060de07dac984]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/6) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
+[^c-466ba8728ced796331b060de07dac984]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/6) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
 
-[^key-12a5327c25ee67220d0b96dc8a34080f]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-12a5327c25ee67220d0b96dc8a34080f]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f9bca32f20c82d53cc48e5a3d9e78225]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/7) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
+[^c-f9bca32f20c82d53cc48e5a3d9e78225]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/7) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
 
-[^key-ab294aa5c9bc8fbb7781d96f530bfabe]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ab294aa5c9bc8fbb7781d96f530bfabe]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-19782f5bb3fd5370012d816e3213a5d2]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/8) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
+[^c-19782f5bb3fd5370012d816e3213a5d2]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/8) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
 
-[^key-d24bb573a36c62e46beff02436da1389]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-d24bb573a36c62e46beff02436da1389]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e39d7f7bd76ece2ae2d542ef64006777]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/9) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)
+[^c-e39d7f7bd76ece2ae2d542ef64006777]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/4/paragraph/9) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(bbb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/bbb)

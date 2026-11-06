@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Involvement of public bodies[^key-d4adba7ec90aa2fce3870fcb447eb32d]
+## 2. Involvement of public bodies[^c-d4adba7ec90aa2fce3870fcb447eb32d]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4adba7ec90aa2fce3870fcb447eb32d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2013/5/section/2) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-d4adba7ec90aa2fce3870fcb447eb32d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2013/5/section/2) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

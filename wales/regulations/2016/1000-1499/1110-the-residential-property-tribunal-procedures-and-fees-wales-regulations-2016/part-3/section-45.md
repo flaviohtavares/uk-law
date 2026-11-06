@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Fees for applications made under the 2004 Act[^key-27e638c7bb8f38a2bb0e452f3f4a172d]
+## 45. Fees for applications made under the 2004 Act[^c-27e638c7bb8f38a2bb0e452f3f4a172d]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27e638c7bb8f38a2bb0e452f3f4a172d]: Commencement: Reg. 45 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-27e638c7bb8f38a2bb0e452f3f4a172d]: Commencement: Reg. 45 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

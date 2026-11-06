@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Classification of highways[^key-b3eaa66fda6f79d72a253c066532a4ba]
+## 19. Classification of highways[^c-b3eaa66fda6f79d72a253c066532a4ba]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3eaa66fda6f79d72a253c066532a4ba]: Commencement: Art. 19 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-b3eaa66fda6f79d72a253c066532a4ba]: Commencement: Art. 19 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Power to place monument of special historic interest under guardianship[^key-ab135de9f4d84793073e0ee778652707][^key-da5e137b6204959438f1676835bed618]
+## 45. Power to place monument of special historic interest under guardianship[^c-ab135de9f4d84793073e0ee778652707][^c-da5e137b6204959438f1676835bed618]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab135de9f4d84793073e0ee778652707]: Commencement: S. 45 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-ab135de9f4d84793073e0ee778652707]: Commencement: S. 45 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-da5e137b6204959438f1676835bed618]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2023/3/section/45) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-da5e137b6204959438f1676835bed618]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2023/3/section/45) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

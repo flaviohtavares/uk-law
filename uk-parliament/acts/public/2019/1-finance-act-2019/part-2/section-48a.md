@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48A. SDRT: unlisted securities and connected persons[^key-6710feae6517590c0e8f4d6d773fa71c]
+## 48A. SDRT: unlisted securities and connected persons[^c-6710feae6517590c0e8f4d6d773fa71c]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ In this subsection “the relevant date” is the day on which FA 2020 is passed
 
 ## Annotations
 
-[^key-6710feae6517590c0e8f4d6d773fa71c]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/ukpga/2019/1/section/48A) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 78](https://www.legislation.gov.uk/ukpga/2020/14/section/78)
+[^c-6710feae6517590c0e8f4d6d773fa71c]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/ukpga/2019/1/section/48A) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 78](https://www.legislation.gov.uk/ukpga/2020/14/section/78)

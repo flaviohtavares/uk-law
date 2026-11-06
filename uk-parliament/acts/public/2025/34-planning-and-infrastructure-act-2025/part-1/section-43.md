@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Deemed grant of listed building consent etc[^key-da9d5e6f819363ec291588e9967de066]
+## 43. Deemed grant of listed building consent etc[^c-da9d5e6f819363ec291588e9967de066]
 
 *Extent: E+W*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da9d5e6f819363ec291588e9967de066]: Commencement: S. 43 not in force at Royal Assent, see [s. 118(1)(y)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/y)
+[^c-da9d5e6f819363ec291588e9967de066]: Commencement: S. 43 not in force at Royal Assent, see [s. 118(1)(y)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/y)

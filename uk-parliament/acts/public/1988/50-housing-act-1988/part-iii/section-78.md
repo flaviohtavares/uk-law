@@ -27,12 +27,12 @@ summary: ''
 - (a) as to those in Part II, provisions about land vested in or acquired by a housing action trust under this Part of this Act; and
 - (b) as to those in Part III, provisions about the acquisition by a housing action trust of rights over land under section 77(5) above.
 
-(3)[^key-10b43275cabec5ebfc5b29d2e2edb221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-10b43275cabec5ebfc5b29d2e2edb221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-10b43275cabec5ebfc5b29d2e2edb221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-10b43275cabec5ebfc5b29d2e2edb221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c12870781]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-10b43275cabec5ebfc5b29d2e2edb221]: Textual amendment: [S. 78(3)](https://www.legislation.gov.uk/ukpga/1988/50/section/78/3)[(4)](https://www.legislation.gov.uk/ukpga/1988/50/section/78/4) omitted (22.9.2017) by virtue of [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 32(6)](https://www.legislation.gov.uk/ukpga/2017/20/section/32/6), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/936/regulation/4))
+[^c-10b43275cabec5ebfc5b29d2e2edb221]: Textual amendment: [S. 78(3)](https://www.legislation.gov.uk/ukpga/1988/50/section/78/3)[(4)](https://www.legislation.gov.uk/ukpga/1988/50/section/78/4) omitted (22.9.2017) by virtue of [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 32(6)](https://www.legislation.gov.uk/ukpga/2017/20/section/32/6), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/936/regulation/4))

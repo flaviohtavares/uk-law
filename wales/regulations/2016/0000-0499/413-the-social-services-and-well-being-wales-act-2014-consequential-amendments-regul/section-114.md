@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**114.**[^key-e43e2ebc6264e6dd11881a610ce6be2d] In Schedule 2, in paragraph 15(3) (promotion of maintenance of contact between child and family) after “another local authority” insert “or a local authority in Wales”.
+**114.**[^c-e43e2ebc6264e6dd11881a610ce6be2d] In Schedule 2, in paragraph 15(3) (promotion of maintenance of contact between child and family) after “another local authority” insert “or a local authority in Wales”.
 
 ## Annotations
 
-[^key-e43e2ebc6264e6dd11881a610ce6be2d]: Commencement: Reg. 114 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-e43e2ebc6264e6dd11881a610ce6be2d]: Commencement: Reg. 114 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

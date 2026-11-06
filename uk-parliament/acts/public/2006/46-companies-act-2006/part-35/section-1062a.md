@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1062A. Analysis of information for the purposes of crime prevention or detection[^key-188e79355328c61041868877d6f7f85b]
+## 1062A. Analysis of information for the purposes of crime prevention or detection[^c-188e79355328c61041868877d6f7f85b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-188e79355328c61041868877d6f7f85b]: Textual amendment: [S. 1062A](https://www.legislation.gov.uk/ukpga/2006/46/section/1062A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 92](https://www.legislation.gov.uk/ukpga/2023/56/section/92), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z34)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z34)
+[^c-188e79355328c61041868877d6f7f85b]: Textual amendment: [S. 1062A](https://www.legislation.gov.uk/ukpga/2006/46/section/1062A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 92](https://www.legislation.gov.uk/ukpga/2023/56/section/92), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z34)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z34)

@@ -26,7 +26,7 @@ summary: ''
 
 (3) The forward work programme for any year shall also include an estimate of the overall expenditure which the Authority or the Council expects to incur during the year in the exercise of its functions.
 
-(3A)[^key-803b301879edc8b0551d8e11be33ae4f] The forward work programme for any year must also include an explanation of how the projects described in it reflect any strategic priorities or objectives published under section 2A or 2B.
+(3A)[^c-803b301879edc8b0551d8e11be33ae4f] The forward work programme for any year must also include an explanation of how the projects described in it reflect any strategic priorities or objectives published under section 2A or 2B.
 
 (4) Before publishing the forward work programme for any year, the Authority or the Council shall give notice—
 
@@ -45,4 +45,4 @@ and shall consider any representations or objections which are duly made and not
 
 [^c19853021]: Textual amendment: Ss. 192A, 192B inserted (1.10.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/38/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/d) (with savings in [art. 4](https://www.legislation.gov.uk/uksi/2004/2528/article/4))
 
-[^key-803b301879edc8b0551d8e11be33ae4f]: Textual amendment: [S. 192A(3A)](https://www.legislation.gov.uk/ukpga/1991/56/section/192A/3A) inserted (6.4.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 24(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/24/3), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/773/article/4))
+[^c-803b301879edc8b0551d8e11be33ae4f]: Textual amendment: [S. 192A(3A)](https://www.legislation.gov.uk/ukpga/1991/56/section/192A/3A) inserted (6.4.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 24(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/24/3), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/773/article/4))

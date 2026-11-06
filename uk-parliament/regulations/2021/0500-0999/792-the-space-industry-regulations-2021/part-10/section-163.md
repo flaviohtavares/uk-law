@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Safety management system requirement[^key-aaad2525bdb431d1cab77363124c4a93]
+## 163. Safety management system requirement[^c-aaad2525bdb431d1cab77363124c4a93]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A spaceport licensee must have in place a safety management system which complie
 
 ## Annotations
 
-[^key-aaad2525bdb431d1cab77363124c4a93]: Commencement: Reg. 163 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-aaad2525bdb431d1cab77363124c4a93]: Commencement: Reg. 163 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

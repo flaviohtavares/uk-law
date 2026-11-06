@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Authority’s dispute resolution functions in relation to electricity[^key-9a8e8514b0f53b3c7ebc4b9dbd982974]
+## 55. Authority’s dispute resolution functions in relation to electricity[^c-9a8e8514b0f53b3c7ebc4b9dbd982974]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ For paragraph (1) of Article 31A of the Electricity Order there shall be substit
 
 ## Annotations
 
-[^key-9a8e8514b0f53b3c7ebc4b9dbd982974]: Commencement: Reg. 55 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-9a8e8514b0f53b3c7ebc4b9dbd982974]: Commencement: Reg. 55 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

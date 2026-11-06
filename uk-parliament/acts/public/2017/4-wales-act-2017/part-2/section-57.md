@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Maritime and Coastguard Agency[^key-2a98e81f3ad48caf514cd6b5c82b41ed]
+## 57. Maritime and Coastguard Agency[^c-2a98e81f3ad48caf514cd6b5c82b41ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a98e81f3ad48caf514cd6b5c82b41ed]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2017/4/section/57) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-2a98e81f3ad48caf514cd6b5c82b41ed]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2017/4/section/57) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)

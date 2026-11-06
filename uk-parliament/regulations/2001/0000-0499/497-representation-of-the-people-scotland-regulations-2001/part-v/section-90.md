@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Abandoned poll[^key-fc37e83f5b76957efe1b57b14936f43e]
+## 90. Abandoned poll[^c-fc37e83f5b76957efe1b57b14936f43e]
 
 *Extent: S*
 
@@ -25,10 +25,10 @@ summary: ''
 - (a) shall not take any step or further step to open covering envelopes or deal with the contents in accordance with the provisions of this Part of these Regulations; and
 - (b) shall, notwithstanding regulations 84 to 86 above, treat all unopened covering envelopes and the contents of those that have been opened as if they were counted ballot papers.
 
-(2)[^key-141d0d13e049a93029aaf991949c32ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-141d0d13e049a93029aaf991949c32ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc37e83f5b76957efe1b57b14936f43e]: Commencement: Reg. 90 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-fc37e83f5b76957efe1b57b14936f43e]: Commencement: Reg. 90 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-141d0d13e049a93029aaf991949c32ae]: Textual amendment: [Reg. 90(2)](https://www.legislation.gov.uk/uksi/2001/497/regulation/90/2) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-141d0d13e049a93029aaf991949c32ae]: Textual amendment: [Reg. 90(2)](https://www.legislation.gov.uk/uksi/2001/497/regulation/90/2) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

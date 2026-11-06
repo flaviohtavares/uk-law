@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Revocation of Part 2 licences[^key-592874b836190c488b0b8668b1b90478]
+## 78. Revocation of Part 2 licences[^c-592874b836190c488b0b8668b1b90478]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-592874b836190c488b0b8668b1b90478]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2015/10/section/78) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/307/article/5))
+[^c-592874b836190c488b0b8668b1b90478]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2015/10/section/78) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/307/article/5))

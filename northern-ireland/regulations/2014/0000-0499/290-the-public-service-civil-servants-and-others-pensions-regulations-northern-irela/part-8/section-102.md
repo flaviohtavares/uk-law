@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 102. Meaning of “surviving adult’s pension”[^key-515990558c0dad5d4c4f2820593461e7]
+## 102. Meaning of “surviving adult’s pension”[^c-515990558c0dad5d4c4f2820593461e7]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In these Regulations, “surviving adult’s pension” means any of the followi
 
 ## Annotations
 
-[^key-515990558c0dad5d4c4f2820593461e7]: Commencement: [Reg. 102](https://www.legislation.gov.uk/nisr/2014/290/regulation/102) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-515990558c0dad5d4c4f2820593461e7]: Commencement: [Reg. 102](https://www.legislation.gov.uk/nisr/2014/290/regulation/102) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

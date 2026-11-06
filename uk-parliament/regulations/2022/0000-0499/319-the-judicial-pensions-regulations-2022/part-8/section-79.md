@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Meaning of dependant’s earned pension[^key-e20942bb03cd7ad1a129aa00fdaf3eed]
+## 79. Meaning of dependant’s earned pension[^c-e20942bb03cd7ad1a129aa00fdaf3eed]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A dependant’s earned pension is a pension payable on the death of a member of 
 
 ## Annotations
 
-[^key-e20942bb03cd7ad1a129aa00fdaf3eed]: Commencement: Reg. 79 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-e20942bb03cd7ad1a129aa00fdaf3eed]: Commencement: Reg. 79 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

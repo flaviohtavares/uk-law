@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Remedying of hazards occurring in accommodation in England occupied under licence[^key-4f7d89ce4f0c9fd2f1deae09a763b8c8]
+## 61. Remedying of hazards occurring in accommodation in England occupied under licence[^c-4f7d89ce4f0c9fd2f1deae09a763b8c8]
 
 *Extent: E+W*
 
@@ -93,4 +93,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f7d89ce4f0c9fd2f1deae09a763b8c8]: Commencement: S. 61 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-4f7d89ce4f0c9fd2f1deae09a763b8c8]: Commencement: S. 61 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

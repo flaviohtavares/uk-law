@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Disposal of land for development[^key-082ac32066aed75161e40d5ee1aa5376]
+## 92. Disposal of land for development[^c-082ac32066aed75161e40d5ee1aa5376]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ For the purposes of regulation 86, a disposal of a relevant interest in land sha
 
 ## Annotations
 
-[^key-082ac32066aed75161e40d5ee1aa5376]: Commencement: Reg. 92 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-082ac32066aed75161e40d5ee1aa5376]: Commencement: Reg. 92 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

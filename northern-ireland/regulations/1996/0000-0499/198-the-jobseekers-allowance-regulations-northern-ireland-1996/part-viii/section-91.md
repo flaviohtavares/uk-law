@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Calculation of income and capital of full-time students[^key-cbb8bae4746beb5be3aba72c4c95f5a7]
+## 91. Calculation of income and capital of full-time students[^c-cbb8bae4746beb5be3aba72c4c95f5a7]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The provisions of Chapters II to VI of this Part (income and capital) shall have
 
 ## Annotations
 
-[^key-cbb8bae4746beb5be3aba72c4c95f5a7]: Commencement: Reg. 91 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-cbb8bae4746beb5be3aba72c4c95f5a7]: Commencement: Reg. 91 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

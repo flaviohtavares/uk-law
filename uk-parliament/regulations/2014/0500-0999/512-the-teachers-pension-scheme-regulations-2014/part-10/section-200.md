@@ -26,7 +26,7 @@ summary: ''
 - (b) has become subject to—
   - (i) another registered pension scheme which is not a connected scheme, or
   - (ii) a qualifying recognised overseas pension scheme for the purposes of Part 4 of FA 2004 (see section 169(2) of that Act); (in either case, referred to in this Section as “the receiving scheme”), and
-- (c) has not reached normal pension age[^key-427859ce8fa09e4a62649ed08c784c74].
+- (c) has not reached normal pension age[^c-427859ce8fa09e4a62649ed08c784c74].
 
 (2) This Section does not apply if—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-427859ce8fa09e4a62649ed08c784c74]: Textual amendment: Words in [reg. 200(1)(c)](https://www.legislation.gov.uk/uksi/2014/512/regulation/200/1/c) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [19](https://www.legislation.gov.uk/uksi/2014/2652/regulation/19)
+[^c-427859ce8fa09e4a62649ed08c784c74]: Textual amendment: Words in [reg. 200(1)(c)](https://www.legislation.gov.uk/uksi/2014/512/regulation/200/1/c) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [19](https://www.legislation.gov.uk/uksi/2014/2652/regulation/19)

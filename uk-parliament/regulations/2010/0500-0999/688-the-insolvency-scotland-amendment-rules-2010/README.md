@@ -34,7 +34,7 @@ Insolvency, Scotland
 
 Companies
 
-The Insolvency (Scotland) Amendment Rules 2010 (revoked)[^key-ca451a5a3cc3ced3f9b9e4d8081d56ae]
+The Insolvency (Scotland) Amendment Rules 2010 (revoked)[^c-ca451a5a3cc3ced3f9b9e4d8081d56ae]
 
 Made
 
@@ -48,7 +48,7 @@ Coming into force
 
 6th April 2010
 
-[^key-ca451a5a3cc3ced3f9b9e4d8081d56ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca451a5a3cc3ced3f9b9e4d8081d56ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -65,14 +65,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-ca451a5a3cc3ced3f9b9e4d8081d56ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca451a5a3cc3ced3f9b9e4d8081d56ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-ca451a5a3cc3ced3f9b9e4d8081d56ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca451a5a3cc3ced3f9b9e4d8081d56ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca451a5a3cc3ced3f9b9e4d8081d56ae]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2010/688) revoked (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rule 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1082/schedule/1)
+[^c-ca451a5a3cc3ced3f9b9e4d8081d56ae]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2010/688) revoked (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rule 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1082/schedule/1)

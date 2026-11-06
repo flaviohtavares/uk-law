@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Recovery orders[^key-87fc95f0346fb16b23ec8af0ec18965b][^key-d04da2c29bf6f9acb8e4e57281788994]
+## 74. Recovery orders[^c-87fc95f0346fb16b23ec8af0ec18965b][^c-d04da2c29bf6f9acb8e4e57281788994]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87fc95f0346fb16b23ec8af0ec18965b]: Commencement: S. 74 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-87fc95f0346fb16b23ec8af0ec18965b]: Commencement: S. 74 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-d04da2c29bf6f9acb8e4e57281788994]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2022/23/section/74) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-d04da2c29bf6f9acb8e4e57281788994]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2022/23/section/74) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Amendment and saving of the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003[^key-0051c8d3edad81aa19462075abef95e7][^M_I_b3e9f455-53b8-4eb5-b2df-ee6aa15e9a6e]
+## 29. Amendment and saving of the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003[^c-0051c8d3edad81aa19462075abef95e7][^M_I_b3e9f455-53b8-4eb5-b2df-ee6aa15e9a6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0051c8d3edad81aa19462075abef95e7]: Commencement: Reg. 29 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-0051c8d3edad81aa19462075abef95e7]: Commencement: Reg. 29 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_b3e9f455-53b8-4eb5-b2df-ee6aa15e9a6e]: Commencement: Reg. 29 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

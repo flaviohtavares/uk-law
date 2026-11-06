@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 321. Assessing compensation[^key-183545aff47fbd054cc50da3f64fa0dc]
+## 321. Assessing compensation[^c-183545aff47fbd054cc50da3f64fa0dc]
 
 *Extent: E+W*
 
@@ -79,4 +79,4 @@ and references to an increase in net receipts are to be interpreted accordingly.
 
 ## Annotations
 
-[^key-183545aff47fbd054cc50da3f64fa0dc]: Commencement: S. 321 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-183545aff47fbd054cc50da3f64fa0dc]: Commencement: S. 321 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

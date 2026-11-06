@@ -32,7 +32,7 @@ summary: ''
 
 National Lottery
 
-The National Lottery (Amendment) Regulations 2020 (revoked)[^key-a8547007142feffd9b8121d1ade8f9dc]
+The National Lottery (Amendment) Regulations 2020 (revoked)[^c-a8547007142feffd9b8121d1ade8f9dc]
 
 Made
 
@@ -46,15 +46,15 @@ Coming into force
 
 1st October 2021
 
-[^key-a8547007142feffd9b8121d1ade8f9dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8547007142feffd9b8121d1ade8f9dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-a8547007142feffd9b8121d1ade8f9dc]
+## 1. Citation and commencement[^c-a8547007142feffd9b8121d1ade8f9dc]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Lottery Regulations 1994[^key-a8547007142feffd9b8121d1ade8f9dc]
+## 2. Amendment of the National Lottery Regulations 1994[^c-a8547007142feffd9b8121d1ade8f9dc]
 
 **Not yet in force.**
 
@@ -62,11 +62,11 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-a8547007142feffd9b8121d1ade8f9dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8547007142feffd9b8121d1ade8f9dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-a8547007142feffd9b8121d1ade8f9dc]EXPLANATORY NOTE
+[^c-a8547007142feffd9b8121d1ade8f9dc]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -76,4 +76,4 @@ An impact assessment which analyses the effect that these Regulations will have 
 
 ## Annotations
 
-[^key-a8547007142feffd9b8121d1ade8f9dc]: Textual amendment: Regulations revoked (30.9.2021) by [The National Lottery (Revocation and Amendment) Regulations 2021 (S.I. 2021/1009)](https://www.legislation.gov.uk/uksi/2021/1009), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1009/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1009/regulation/2)
+[^c-a8547007142feffd9b8121d1ade8f9dc]: Textual amendment: Regulations revoked (30.9.2021) by [The National Lottery (Revocation and Amendment) Regulations 2021 (S.I. 2021/1009)](https://www.legislation.gov.uk/uksi/2021/1009), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1009/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1009/regulation/2)

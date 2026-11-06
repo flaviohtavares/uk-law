@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Savings and transitional provision[^key-4516508328b478b430336059f23ec86d]
+## 17. Savings and transitional provision[^c-4516508328b478b430336059f23ec86d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4516508328b478b430336059f23ec86d]: Textual amendment: Reg. 17 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/1348/regulation/6)
+[^c-4516508328b478b430336059f23ec86d]: Textual amendment: Reg. 17 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/1348/regulation/6)

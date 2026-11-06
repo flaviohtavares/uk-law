@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. The High Court and County Courts Jurisdiction Order 1991[^key-95524352d46a5083835152478ec97169]
+## 70. The High Court and County Courts Jurisdiction Order 1991[^c-95524352d46a5083835152478ec97169]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the High Court and County Courts Jurisdiction Order 1991 [^c23624541], omit a
 
 ## Annotations
 
-[^key-95524352d46a5083835152478ec97169]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-95524352d46a5083835152478ec97169]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624541]: Marginal citation: [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724). Article 6G was inserted by [S.I. 2014/2947](https://www.legislation.gov.uk/uksi/2014/2947).

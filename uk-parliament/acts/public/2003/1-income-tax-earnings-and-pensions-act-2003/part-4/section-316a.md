@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 316A. Homeworker’s additional household expenses[^key-f56bc3d2b927ca6c9b0b06774bae2350]
+## 316A. Homeworker’s additional household expenses[^c-f56bc3d2b927ca6c9b0b06774bae2350]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f56bc3d2b927ca6c9b0b06774bae2350]: Textual amendment: S. 316A inserted (with effect in accordance with s. 137(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 137(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/137/1)
+[^c-f56bc3d2b927ca6c9b0b06774bae2350]: Textual amendment: S. 316A inserted (with effect in accordance with s. 137(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 137(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/137/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Bills of exchange and promissory notes[^key-85a91896976107c929f5aebbe49240ad]
+## 25. Bills of exchange and promissory notes[^c-85a91896976107c929f5aebbe49240ad]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A bill of exchange or promissory note is deemed to have been made, accepted or e
 
 ## Annotations
 
-[^key-85a91896976107c929f5aebbe49240ad]: Commencement: Reg. 25 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-85a91896976107c929f5aebbe49240ad]: Commencement: Reg. 25 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

@@ -311,7 +311,7 @@ If the information relates to the exercise or proposed exercise of those functio
 
 ### Race Relations Act 1976 (c. 74)
 
-**32.** In Part 2 of Schedule 1A to the Race Relations Act 1976 (bodies and other persons subject to general statutory duty), at the appropriate place insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-99abae4bc9892991e2effb1d81466192] “ The Committee on Climate Change. ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-99abae4bc9892991e2effb1d81466192]
+**32.** In Part 2 of Schedule 1A to the Race Relations Act 1976 (bodies and other persons subject to general statutory duty), at the appropriate place insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-99abae4bc9892991e2effb1d81466192] “ The Committee on Climate Change. ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-99abae4bc9892991e2effb1d81466192]
 
 ### Freedom of Information Act 2000 (c. 36)
 
@@ -335,4 +335,4 @@ If the information relates to the exercise or proposed exercise of those functio
 
 ## Annotations
 
-[^key-99abae4bc9892991e2effb1d81466192]: Textual amendment: Sch. 1 para. 32 repealed (E.W.S.) (4.4.2011) by 2010 c. 15, Sch. 27 Pt. 1A (as inserted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Schs. 3)](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3)
+[^c-99abae4bc9892991e2effb1d81466192]: Textual amendment: Sch. 1 para. 32 repealed (E.W.S.) (4.4.2011) by 2010 c. 15, Sch. 27 Pt. 1A (as inserted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Schs. 3)](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3)

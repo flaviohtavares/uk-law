@@ -26,8 +26,8 @@ summary: ''
 
 (1) This schedule applies to a disposal by—
 
-- (a) a local authority landlord under section 12 of the 1987 Act, [^key-f11e78225845bd519953500172f5eba2]...
-- (b)[^key-f11e78225845bd519953500172f5eba2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a local authority landlord under section 12 of the 1987 Act, [^c-f11e78225845bd519953500172f5eba2]...
+- (b)[^c-f11e78225845bd519953500172f5eba2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 of an interest in land as a result of which a tenant of the landlord under a Scottish secure tenancy will cease to be a tenant of that landlord.
 
@@ -35,7 +35,7 @@ of an interest in land as a result of which a tenant of the landlord under a Sco
 
 ### 2. Application for consent of the Scottish Ministers
 
-(1) The Scottish Ministers must not entertain an application for consent under section 12(7) of the 1987 Act [^key-940130bd915538a4c96f64e121377d4e]... to a disposal to which this schedule applies unless the local authority landlord or, as the case may be, the registered social landlord certifies that—
+(1) The Scottish Ministers must not entertain an application for consent under section 12(7) of the 1987 Act [^c-940130bd915538a4c96f64e121377d4e]... to a disposal to which this schedule applies unless the local authority landlord or, as the case may be, the registered social landlord certifies that—
 
 - (a) the requirements of paragraph 3 as to consultation have been complied with, or
 - (b) the requirements of that paragraph as to consultation have been complied with except in relation to tenants expected to have vacated the house in question before the disposal.
@@ -97,6 +97,6 @@ The Scottish Ministers’ consent to a disposal is not invalidated by a failure 
 
 [^c1663827]: Commencement: [Sch. 9](https://www.legislation.gov.uk/asp/2001/10/schedule/9) wholly in force at 1.11.2001, see [s. 113](https://www.legislation.gov.uk/asp/2001/10/section/113) and [S.S.I. 2001/336](https://www.legislation.gov.uk/ssi/2001/336), [art. 2(3)](https://www.legislation.gov.uk/ssi/2001/336/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2001/336/schedule/part/II) (subject to transitional provisions in [art. 3](https://www.legislation.gov.uk/ssi/2001/336/article/3)) (as amended by [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 7(b)](https://www.legislation.gov.uk/ssi/2001/397/article/7/b))
 
-[^key-f11e78225845bd519953500172f5eba2]: Textual amendment: Sch. 9 para. 1(1)(b) and word repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 7(7)(a)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/7/7/a); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)
+[^c-f11e78225845bd519953500172f5eba2]: Textual amendment: Sch. 9 para. 1(1)(b) and word repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 7(7)(a)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/7/7/a); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)
 
-[^key-940130bd915538a4c96f64e121377d4e]: Textual amendment: Words in [sch. 9 para. 2(1)](https://www.legislation.gov.uk/asp/2001/10/schedule/9/paragraph/2/1) repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 7(7)(b)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/7/7/b); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)
+[^c-940130bd915538a4c96f64e121377d4e]: Textual amendment: Words in [sch. 9 para. 2(1)](https://www.legislation.gov.uk/asp/2001/10/schedule/9/paragraph/2/1) repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 7(7)(b)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/7/7/b); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)

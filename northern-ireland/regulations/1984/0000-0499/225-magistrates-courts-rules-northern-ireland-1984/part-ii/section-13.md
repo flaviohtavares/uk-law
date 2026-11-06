@@ -22,7 +22,7 @@ summary: ''
 
 (1) \[[^f00090] Where a district judge (magistrates’ courts) or the clerk of petty sessions is satisfied that it is not reasonably practicable to serve a summons to which paragraph (2) of Rule 11 applies in accordance with that Rule, the district judge (magistrates’ courts) or clerk of petty sessions may give permission by an endorsement signed by him on the original summons for service to be effected by post in accordance with paragraph (2)(a)\].
 
-(2) The summons server of the administrative court division[^key-51ef627bd16e02c11a3faae46da8ded3] in which the proceedings are brought shall—
+(2) The summons server of the administrative court division[^c-51ef627bd16e02c11a3faae46da8ded3] in which the proceedings are brought shall—
 
 - (a) send by registered post or by the first-class postal recorded delivery service (using the advice of delivery form, save where the district judge (magistrates’ courts) in exceptional circumstances dispenses with this requirement) a copy of the summons in an envelope addressed to the person to be served at his usual or last-known place of abode or at his place of business; and
 - (b) endorse on the original summons the name of the summons server, the date on which it was posted and the serial number on the envelope and on the Post Office receipt of postage.
@@ -72,7 +72,7 @@ and shall endorse such permission on the original summons.
 
 [^f00090]: Footnote: Paragraph substituted by [S.R. 1985 No. 269](https://www.legislation.gov.uk/nisr/1985/269) with effect from 1.11.85
 
-[^key-51ef627bd16e02c11a3faae46da8ded3]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/nisr/1984/225/rule/13/2) substituted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(3)](https://www.legislation.gov.uk/nisr/2016/304/article/3/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-51ef627bd16e02c11a3faae46da8ded3]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/nisr/1984/225/rule/13/2) substituted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(3)](https://www.legislation.gov.uk/nisr/2016/304/article/3/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00091]: Footnote: Words substituted by [S.R. 1992 No. 541](https://www.legislation.gov.uk/nisr/1992/541) with effect from 1.2.93
 

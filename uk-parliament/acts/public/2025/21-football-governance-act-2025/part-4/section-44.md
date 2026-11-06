@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Orders under section 43: procedure, costs and liabilities[^key-2a6a1e7e102ba72357bab4808671028c][^key-726ffcbabf94396c0277d241ee67eef3]
+## 44. Orders under section 43: procedure, costs and liabilities[^c-2a6a1e7e102ba72357bab4808671028c][^c-726ffcbabf94396c0277d241ee67eef3]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ to be payable by P (within the meaning of section 43).
 
 ## Annotations
 
-[^key-2a6a1e7e102ba72357bab4808671028c]: Commencement: S. 44 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-2a6a1e7e102ba72357bab4808671028c]: Commencement: S. 44 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-726ffcbabf94396c0277d241ee67eef3]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2025/21/section/44) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(xiii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/xiii)
+[^c-726ffcbabf94396c0277d241ee67eef3]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2025/21/section/44) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(xiii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/xiii)

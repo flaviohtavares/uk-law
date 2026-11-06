@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Revocation of Implementing Regulations[^key-dff2191be673fad050816dba58d1b286]
+## 116. Revocation of Implementing Regulations[^c-dff2191be673fad050816dba58d1b286]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ The following Regulations are revoked—
 
 ## Annotations
 
-[^key-dff2191be673fad050816dba58d1b286]: Commencement: Reg. 116 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dff2191be673fad050816dba58d1b286]: Commencement: Reg. 116 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23706011]: Marginal citation: OJ No L 124, 17.5.2017, p. 31.
 

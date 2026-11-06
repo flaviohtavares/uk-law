@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368BB. Enforcement of section 368BA[^key-1bc2cf6ba67c414642f1c2968cc69cbf][^key-8b5116708328654f497f918c49a3b13d]
+## 368BB. Enforcement of section 368BA[^c-1bc2cf6ba67c414642f1c2968cc69cbf][^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,12 +42,12 @@ summary: ''
 - (b) for specific performance of a statutory duty under section 45 of the Court of Session Act 1988; or
 - (c) for any other appropriate remedy or relief.
 
-(7)[^key-af42be1d189b9b132b2ba133f0f7d1e9] Subsection (6) applies whether or not the provider is in the United Kingdom.
+(7)[^c-af42be1d189b9b132b2ba133f0f7d1e9] Subsection (6) applies whether or not the provider is in the United Kingdom.
 
 ## Annotations
 
-[^key-1bc2cf6ba67c414642f1c2968cc69cbf]: Textual amendment: Ss. 368BA, 368BB and cross-heading inserted (18.3.2010) by [The Audiovisual Media Services Regulations 2010 (S.I. 2010/419)](https://www.legislation.gov.uk/uksi/2010/419), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/419/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/419/regulation/4)
+[^c-1bc2cf6ba67c414642f1c2968cc69cbf]: Textual amendment: Ss. 368BA, 368BB and cross-heading inserted (18.3.2010) by [The Audiovisual Media Services Regulations 2010 (S.I. 2010/419)](https://www.legislation.gov.uk/uksi/2010/419), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/419/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/419/regulation/4)
 
-[^key-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
+[^c-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
 
-[^key-af42be1d189b9b132b2ba133f0f7d1e9]: Textual amendment: [S. 368BB(7)](https://www.legislation.gov.uk/ukpga/2003/21/section/368BB/7) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/3); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z2)
+[^c-af42be1d189b9b132b2ba133f0f7d1e9]: Textual amendment: [S. 368BB(7)](https://www.legislation.gov.uk/ukpga/2003/21/section/368BB/7) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/3); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.C.6A. Scheme administration charge[^key-3fb9999138eba848a0c9e6bb486c3a9b]
+## 2.C.6A. Scheme administration charge[^c-3fb9999138eba848a0c9e6bb486c3a9b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fb9999138eba848a0c9e6bb486c3a9b]: Textual amendment: [Reg. 2.C.6A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.6A) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [15](https://www.legislation.gov.uk/uksi/2017/275/regulation/15)
+[^c-3fb9999138eba848a0c9e6bb486c3a9b]: Textual amendment: [Reg. 2.C.6A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.6A) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [15](https://www.legislation.gov.uk/uksi/2017/275/regulation/15)

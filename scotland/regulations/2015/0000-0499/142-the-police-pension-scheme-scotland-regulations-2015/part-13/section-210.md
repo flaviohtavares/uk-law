@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 210. Reduction of benefits where lifetime allowance charge payable[^key-e66aae45b9b930a5fd249d1d5763a4f2]
+## 210. Reduction of benefits where lifetime allowance charge payable[^c-e66aae45b9b930a5fd249d1d5763a4f2]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e66aae45b9b930a5fd249d1d5763a4f2]: Commencement: Reg. 210 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-e66aae45b9b930a5fd249d1d5763a4f2]: Commencement: Reg. 210 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

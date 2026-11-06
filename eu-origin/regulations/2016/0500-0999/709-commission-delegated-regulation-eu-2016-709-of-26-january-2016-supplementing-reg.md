@@ -35,44 +35,44 @@ supplementing Regulation (EU) No 575/2013 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-2eacde27ea650fe67a2a6ac4b0117c86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2eacde27ea650fe67a2a6ac4b0117c86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-2eacde27ea650fe67a2a6ac4b0117c86]
+## Article 1. Subject matter[^c-2eacde27ea650fe67a2a6ac4b0117c86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Notification of the derogation[^key-2eacde27ea650fe67a2a6ac4b0117c86]
+## Article 2. Notification of the derogation[^c-2eacde27ea650fe67a2a6ac4b0117c86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Assessment of justified needs[^key-2eacde27ea650fe67a2a6ac4b0117c86]
+## Article 3. Assessment of justified needs[^c-2eacde27ea650fe67a2a6ac4b0117c86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Application of the derogation provided for in Article 419(2)(a) of Regulation (EU) No 575/2013[^key-2eacde27ea650fe67a2a6ac4b0117c86]
+## Article 4. Application of the derogation provided for in Article 419(2)(a) of Regulation (EU) No 575/2013[^c-2eacde27ea650fe67a2a6ac4b0117c86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Application of the derogation provided for in Article 419(2)(b) of Regulation (EU) No 575/2013[^key-2eacde27ea650fe67a2a6ac4b0117c86]
+## Article 5. Application of the derogation provided for in Article 419(2)(b) of Regulation (EU) No 575/2013[^c-2eacde27ea650fe67a2a6ac4b0117c86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Fee payable for the granting of a credit line[^key-2eacde27ea650fe67a2a6ac4b0117c86]
+## Article 6. Fee payable for the granting of a credit line[^c-2eacde27ea650fe67a2a6ac4b0117c86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Limitation on the use of derogations[^key-2eacde27ea650fe67a2a6ac4b0117c86]
+## Article 7. Limitation on the use of derogations[^c-2eacde27ea650fe67a2a6ac4b0117c86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Final provisions[^key-2eacde27ea650fe67a2a6ac4b0117c86]
+## Article 8. Final provisions[^c-2eacde27ea650fe67a2a6ac4b0117c86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2eacde27ea650fe67a2a6ac4b0117c86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2eacde27ea650fe67a2a6ac4b0117c86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2eacde27ea650fe67a2a6ac4b0117c86]: Textual amendment: Regulation revoked (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(1)(d)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/1/d)
+[^c-2eacde27ea650fe67a2a6ac4b0117c86]: Textual amendment: Regulation revoked (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(1)(d)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/1/d)

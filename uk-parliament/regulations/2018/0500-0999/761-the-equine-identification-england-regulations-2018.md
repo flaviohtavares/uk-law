@@ -74,7 +74,7 @@ In these Regulations—
 - “**fixed monetary penalty notice**” has the meaning given in regulation 41;
 - “**ID**” means the identification document for the identification of an equine in accordance with the EU Regulation and these Regulations;
 - “**inspector**” means a person appointed as such under regulation 34 or under the Animal Health Act 1981 [^c23316221];
-- “issuing body” means an issuing body referred to in Article 5(1);[^key-fca7c2f109d572b43481d44d70e178b3]
+- “issuing body” means an issuing body referred to in Article 5(1);[^c-fca7c2f109d572b43481d44d70e178b3]
 - “**keeper**” has the meaning given in Article 2;
 - “**non-compliance penalty**” has the meaning given in regulation 40;
 - “**non-compliance penalty notice**” has the meaning given in regulation 40;
@@ -96,7 +96,7 @@ In these Regulations—
 
 ### 3. Competent authority and zootechnical authority for the purposes of the EU Regulation
 
-The Secretary of State is the competent authority and the zootechnical authority for the purposes of the EU Regulation [^key-15ad7ec3ca1815172d300bc46e6ec278]....
+The Secretary of State is the competent authority and the zootechnical authority for the purposes of the EU Regulation [^c-15ad7ec3ca1815172d300bc46e6ec278]....
 
 ### 4. Transfer of ownership of equines
 
@@ -115,14 +115,14 @@ A person must not keep an equine unless it is identified in accordance with the 
 
 ### 6. Applications for IDs
 
-(1) For the purposes of Articles 3(3) and 11(2), the owner of an equine born in a member State or in the United Kingdom[^key-c0aadaca3717af5faaf2bc9c1636057b] and located on a holding in England must ensure that an application for an ID for that equine is received by an issuing body on or before the date set out in paragraph (2).
+(1) For the purposes of Articles 3(3) and 11(2), the owner of an equine born in a member State or in the United Kingdom[^c-c0aadaca3717af5faaf2bc9c1636057b] and located on a holding in England must ensure that an application for an ID for that equine is received by an issuing body on or before the date set out in paragraph (2).
 
 (2) The date is the later of—
 
 - (a) the last day of the period of 6 months beginning with the day on which the equine was born; or
 - (b) 30th November in the year in which the equine is born.
 
-### 7. Completion of existing IDs for equines imported into the Great Britain from a country other than Northern Ireland or a member State[^key-0e4d8904133b7fd7dc8ac52ec3ad34ef]
+### 7. Completion of existing IDs for equines imported into the Great Britain from a country other than Northern Ireland or a member State[^c-0e4d8904133b7fd7dc8ac52ec3ad34ef]
 
 The keeper must provide to the issuing body all information necessary to allow the body to complete an existing ID for the purposes of Article 15(2), subject to Article 15(3), so that it complies with the requirements of Article 7(2).
 
@@ -176,7 +176,7 @@ Upon request from the Secretary of State, an issuing body must verify whether an
 (2) For the purposes of Article 18(5), the responsible person must arrange for a veterinary surgeon to implant a transponder into an equine that is deemed to be identified in accordance with Articles 4(2) or 43(1) if—
 
 - (a) a previously implanted and recorded transponder ceases to function;
-- (b) the equine arrives in England having been subject to an alternative method of identity verification authorised by a member State or Northern Ireland[^key-3c185c1f1f6b8f2218f6d6f36da26d33] under Article 21; or
+- (b) the equine arrives in England having been subject to an alternative method of identity verification authorised by a member State or Northern Ireland[^c-3c185c1f1f6b8f2218f6d6f36da26d33] under Article 21; or
 - (c) the equine—
   - (i) does not fall within sub-paragraphs (a) or (b);
   - (ii) has not already had a transponder implanted in compliance with the requirements or specifications as to transponders set out in the EU Regulation or Commission Regulation [(EC) No 504/2008](https://www.legislation.gov.uk/european/regulation/2008/0504) [^c23316241] of 6 June 2008 implementing Council Directives [90/426/EEC](https://www.legislation.gov.uk/european/directive/1990/0426) [^c23316251] and [90/427/EEC](https://www.legislation.gov.uk/european/directive/1990/0427) as regards methods for the identification of equidae; and
@@ -228,7 +228,7 @@ Upon request from the Secretary of State, an issuing body must verify whether an
 
 (2) For the purposes of Article 13, Dartmoor, Exmoor the New Forest and Wicken Fen are designated as areas (“designated areas”) containing defined populations of equines living under wild or semi-wild conditions that do not need to be identified with IDs while they remain within the designated area.
 
-(3)[^key-1bbbefadaa2363bf4d66fa7a88f1eb2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1bbbefadaa2363bf4d66fa7a88f1eb2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of this Part, a designated area is an area marked as such in a map deposited and available for inspection at the Department for Environment, Food and Rural Affairs [^c23316321].
 
@@ -247,13 +247,13 @@ If a wild or semi-wild equine without an ID in a designated area is treated with
 
 Subject to regulation 21, the responsible person may not move a wild or semi-wild equine without an ID out of a designated area.
 
-### 21. Exception to requirement for ID: wild or semi-wild equines moved for welfare reasons or for slaughter[^key-71e05e1e12ff09238c8685b61afa4aac]
+### 21. Exception to requirement for ID: wild or semi-wild equines moved for welfare reasons or for slaughter[^c-71e05e1e12ff09238c8685b61afa4aac]
 
 (1) The responsible person may move a wild or semi-wild equine out of a designated area without an ID if—
 
 - (a) the equine is being moved out of the designated area temporarily and for welfare reasons; or
 - (b) the equine—
-  - (i) is aged under 12 months and has visible dental stars of the temporary lateral incisors[^key-44277864d4bb0675d51b7d714dfc2049];
+  - (i) is aged under 12 months and has visible dental stars of the temporary lateral incisors[^c-44277864d4bb0675d51b7d714dfc2049];
   - (ii) is being moved directly from the designated area in which it was born to a place for slaughter (whether or not for the purpose of human consumption);
   - (iii) has not previously been treated with any veterinary medicinal product; and
   - (iv) has a sticker issued by an issuing body attached to it before it leaves the designated area, and the sticker must be marked with a unique identification number and the date on which it was attached to the equine.
@@ -296,7 +296,7 @@ Subject to regulation 21, the responsible person may not move a wild or semi-wil
 
 (3) An issuing body is guilty of an offence if the issuing body breaches a prohibition, or fails to comply with a requirement, which applies to an issuing body in Parts 2 and 3 or in the EU Regulation.
 
-(4)[^key-bd845cbfcd4ffe068919a8d7ebc8d9d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bd845cbfcd4ffe068919a8d7ebc8d9d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subject to paragraph (6), a veterinary surgeon is guilty of an offence if the veterinary surgeon breaches a prohibition, or fails to comply with a requirement, which applies to a veterinary surgeon in Parts 2 and 3 or in the EU Regulation.
 
@@ -335,7 +335,7 @@ A person is guilty of an offence if the person knowingly—
 - (a) implants, or attempts to implant, into an equine, a device which—
   - (i) is not a genuine transponder; or
   - (ii) has previously been inserted into, or used for, another animal; or
-- (b)[^key-86539c2aa6f102a0eb9fe97b02d18a1f] tampers with, or otherwise alters, a transponder with intent to deceive.
+- (b)[^c-86539c2aa6f102a0eb9fe97b02d18a1f] tampers with, or otherwise alters, a transponder with intent to deceive.
 
 ### 30. Obstruction
 
@@ -408,12 +408,12 @@ The Secretary of State or an enforcing authority may appoint a person (an “ins
 
 (4) The inspector may be accompanied by—
 
-- (a) such other persons as the inspector considers necessary; [^key-fe9c96167f4e28f5adb7b47bfb353b2f]...
-- (b)[^key-fe9c96167f4e28f5adb7b47bfb353b2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) such other persons as the inspector considers necessary; [^c-fe9c96167f4e28f5adb7b47bfb353b2f]...
+- (b)[^c-fe9c96167f4e28f5adb7b47bfb353b2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 36. Criminal penalties
 
-Subject to regulation 37[^key-c565e92cc9dfc7c8b70b17a3d93dec36], a person who is guilty of an offence under these Regulations is liable, on summary conviction, to a fine.
+Subject to regulation 37[^c-c565e92cc9dfc7c8b70b17a3d93dec36], a person who is guilty of an offence under these Regulations is liable, on summary conviction, to a fine.
 
 ### 37. Choosing to pursue civil sanctions instead of criminal penalties
 
@@ -627,19 +627,19 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23316221]: Marginal citation: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-fca7c2f109d572b43481d44d70e178b3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/761/regulation/2) substituted (11.1.2019) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/2)
+[^c-fca7c2f109d572b43481d44d70e178b3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/761/regulation/2) substituted (11.1.2019) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/2)
 
 [^c23316231]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-15ad7ec3ca1815172d300bc46e6ec278]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/761/regulation/3) omitted (31.12.2020) by virtue of [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-15ad7ec3ca1815172d300bc46e6ec278]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/761/regulation/3) omitted (31.12.2020) by virtue of [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c0aadaca3717af5faaf2bc9c1636057b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2018/761/regulation/6/1) substituted (31.12.2020) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0aadaca3717af5faaf2bc9c1636057b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2018/761/regulation/6/1) substituted (31.12.2020) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0e4d8904133b7fd7dc8ac52ec3ad34ef]: Textual amendment: Words in reg. 7 heading substituted (31.12.2020) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/3/4) ( as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [26(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/26/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0e4d8904133b7fd7dc8ac52ec3ad34ef]: Textual amendment: Words in reg. 7 heading substituted (31.12.2020) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/3/4) ( as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [26(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/26/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23633341]: Commencement: [Reg. 13(1)(2)(a)(b)(3)](https://www.legislation.gov.uk/uksi/2018/761/regulation/13/1/2/a/b/3) coming into force 1.10.2018 and reg. 13(2)(c) coming into force 1.10.2020, see [reg. 1(1)(2)](https://www.legislation.gov.uk/uksi/2018/761/regulation/1/1/2)
 
-[^key-3c185c1f1f6b8f2218f6d6f36da26d33]: Textual amendment: Words in reg. 13(2)(b) substituted (31.12.2020) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/3/5) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [26(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/26/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c185c1f1f6b8f2218f6d6f36da26d33]: Textual amendment: Words in reg. 13(2)(b) substituted (31.12.2020) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/3/5) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [26(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/26/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23316241]: Marginal citation: OJ No. L 149, 7.6.2008, p. 3.
 
@@ -657,17 +657,17 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23316311]: Marginal citation: A copy of the lists and stud books of wild or semi-wild equines referred to in this paragraph can be inspected by contacting the Equine ID Team, Animal Public Health and Traceability Division, Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR (tel: 0208 026 2729).
 
-[^key-1bbbefadaa2363bf4d66fa7a88f1eb2e]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/uksi/2018/761/regulation/17/3) omitted (11.1.2019) by virtue of [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/3)
+[^c-1bbbefadaa2363bf4d66fa7a88f1eb2e]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/uksi/2018/761/regulation/17/3) omitted (11.1.2019) by virtue of [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/3)
 
 [^c23316321]: Marginal citation: See footnote immediately above for relevant contact details.
 
-[^key-71e05e1e12ff09238c8685b61afa4aac]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2018/761/regulation/21) heading substituted (11.1.2019) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/4/a)
+[^c-71e05e1e12ff09238c8685b61afa4aac]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2018/761/regulation/21) heading substituted (11.1.2019) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/4/a)
 
-[^key-44277864d4bb0675d51b7d714dfc2049]: Textual amendment: Words in [reg. 21(1)(b)(i)](https://www.legislation.gov.uk/uksi/2018/761/regulation/21/1/b/i) inserted (11.1.2019) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/4/b)
+[^c-44277864d4bb0675d51b7d714dfc2049]: Textual amendment: Words in [reg. 21(1)(b)(i)](https://www.legislation.gov.uk/uksi/2018/761/regulation/21/1/b/i) inserted (11.1.2019) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/4/b)
 
-[^key-bd845cbfcd4ffe068919a8d7ebc8d9d5]: Textual amendment: [Reg. 24(4)](https://www.legislation.gov.uk/uksi/2018/761/regulation/24/4) omitted (11.1.2019) by virtue of [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/5)
+[^c-bd845cbfcd4ffe068919a8d7ebc8d9d5]: Textual amendment: [Reg. 24(4)](https://www.legislation.gov.uk/uksi/2018/761/regulation/24/4) omitted (11.1.2019) by virtue of [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/5)
 
-[^key-86539c2aa6f102a0eb9fe97b02d18a1f]: Textual amendment: [Reg. 29(b)](https://www.legislation.gov.uk/uksi/2018/761/regulation/29/b): reg. 29(a)(iii) renumbered as reg. 29(b) (11.1.2019) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/6)
+[^c-86539c2aa6f102a0eb9fe97b02d18a1f]: Textual amendment: [Reg. 29(b)](https://www.legislation.gov.uk/uksi/2018/761/regulation/29/b): reg. 29(a)(iii) renumbered as reg. 29(b) (11.1.2019) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/6)
 
 [^c23316331]: Marginal citation: [1925 c.86](https://www.legislation.gov.uk/ukpga/1925/86). Relevant amending enactments are Schedule 6 to the [Magistrates' Court Act 1952 (c.55)](https://www.legislation.gov.uk/ukpga/1952/55) and Schedule 8 to the [Courts Act 1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23).
 
@@ -675,9 +675,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23316351]: Marginal citation: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867), to which there are amendments but none are relevant for these Regulations.
 
-[^key-fe9c96167f4e28f5adb7b47bfb353b2f]: Textual amendment: [Reg. 35(4)(b)](https://www.legislation.gov.uk/uksi/2018/761/regulation/35/4/b) and word omitted (31.12.2020) by virtue of [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe9c96167f4e28f5adb7b47bfb353b2f]: Textual amendment: [Reg. 35(4)(b)](https://www.legislation.gov.uk/uksi/2018/761/regulation/35/4/b) and word omitted (31.12.2020) by virtue of [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c565e92cc9dfc7c8b70b17a3d93dec36]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2018/761/regulation/36) substituted (11.1.2019) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/7)
+[^c-c565e92cc9dfc7c8b70b17a3d93dec36]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2018/761/regulation/36) substituted (11.1.2019) by [The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1409)](https://www.legislation.gov.uk/uksi/2018/1409), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1409/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/1409/regulation/2/7)
 
 [^c23316361]: Marginal citation: [Section 30](https://www.legislation.gov.uk/uksi/2018/761/section/30) of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) was amended by section 19 of the [Enterprise Act 2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
 

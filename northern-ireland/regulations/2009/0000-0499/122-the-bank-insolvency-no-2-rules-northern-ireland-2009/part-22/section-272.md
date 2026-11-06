@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 272. Right to copy documents[^key-762c332a037e3dbfa57273bd2374246c]
+## 272. Right to copy documents[^c-762c332a037e3dbfa57273bd2374246c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 12.16 of the 1991 Rules.
 
 ## Annotations
 
-[^key-762c332a037e3dbfa57273bd2374246c]: Commencement: Rule 272 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-762c332a037e3dbfa57273bd2374246c]: Commencement: Rule 272 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -83,7 +83,7 @@ In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary
 (1) Subject to paragraphs (2) and (3) these Regulations apply in relation to —
 
 - (a) United Kingdom fishing vessels wherever they may be; and
-- (b) regulation 16 applies in relation to fishing vessels which are not United Kingdom fishing vessels while they are in [^key-c9c4623007a5e2de7f84578bf80f9e12]... United Kingdom waters.
+- (b) regulation 16 applies in relation to fishing vessels which are not United Kingdom fishing vessels while they are in [^c-c9c4623007a5e2de7f84578bf80f9e12]... United Kingdom waters.
 
 (2) Regulations 4, 5 and 7 apply —
 
@@ -310,7 +310,7 @@ is guilty of an offence and is liable on summary conviction—
 
 ## 16. Inspection of non-United Kingdom fishing vessels
 
-(1) When a fishing vessel other than a United Kingdom fishing vessel is in [^key-bc0aaa8731571bc010474322483300a2]... United Kingdom waters, a relevant inspector may inspect that fishing vessel, and may require any fisherman on board that fishing vessel to produce any document, in order to ascertain whether the requirements of Article 10 of the Work in Fishing Convention are met in relation to the fishermen working on that vessel.
+(1) When a fishing vessel other than a United Kingdom fishing vessel is in [^c-bc0aaa8731571bc010474322483300a2]... United Kingdom waters, a relevant inspector may inspect that fishing vessel, and may require any fisherman on board that fishing vessel to produce any document, in order to ascertain whether the requirements of Article 10 of the Work in Fishing Convention are met in relation to the fishermen working on that vessel.
 
 (2) Where a relevant inspector is satisfied that any fisherman on a vessel which is not a United Kingdom fishing vessel is unable to prove that that fisherman is working in accordance with the medical certification requirements of Article 10 of the Work in Fishing Convention, the relevant inspector may send—
 
@@ -393,10 +393,10 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23424361]: Marginal citation: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
 
-[^key-c9c4623007a5e2de7f84578bf80f9e12]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2018/1108/regulation/3/1/b) omitted (26.12.2020) by virtue of [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/5/a)
+[^c-c9c4623007a5e2de7f84578bf80f9e12]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2018/1108/regulation/3/1/b) omitted (26.12.2020) by virtue of [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/5/a)
 
 [^c23424371]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-bc0aaa8731571bc010474322483300a2]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2018/1108/regulation/16/1) omitted (26.12.2020) by virtue of [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/5/b)
+[^c-bc0aaa8731571bc010474322483300a2]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2018/1108/regulation/16/1) omitted (26.12.2020) by virtue of [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/5/b)
 
 [^c23424381]: Marginal citation: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).

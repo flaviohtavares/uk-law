@@ -26,7 +26,7 @@ summary: ''
 - (b) any part of any aerodrome in the United Kingdom or[^c794632]
 - (c) any land outside an aerodrome which is occupied for the purposes of a business by a person who—
   - (i) also occupies (or appears to the authorised person to be about to occupy) land within an aerodrome for the purposes of that business, or
-  - (ii) is permitted (or appears to the authorised person to be about to be permitted) to have access to a security restricted area[^key-c7aaa8d0a003e34740a65e14fd709fc4] of an aerodrome for the purposes of the activities of that business.
+  - (ii) is permitted (or appears to the authorised person to be about to be permitted) to have access to a security restricted area[^c-c7aaa8d0a003e34740a65e14fd709fc4] of an aerodrome for the purposes of the activities of that business.
 
 (2) An authorised person inspecting an aircraft , any part of an aerodrome or any land outside an aerodrome[^c794633] under subsection (1) above shall have power—
 
@@ -44,11 +44,11 @@ as the authorised person may consider necessary for the purpose for which the in
 - (b) for the purpose of inspecting any part of an aerodrome, to enter any building or works in the aerodrome or enter upon any land in the aerodrome or[^c794638]
 - (c) for the purpose of inspecting any land outside an aerodrome, to enter upon the land and to enter any building or works on the land.
 
-(3A)[^key-46f3d20013d4485aa3e77b0dff40e3ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-46f3d20013d4485aa3e77b0dff40e3ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The powers conferred by subsection (3)[^key-1db7ba9c03c36edb97909cccf98fdacf] above shall not include power for an authorised person to use force for the purpose of entering any aircraft, building or works or entering upon any land.
+(4) The powers conferred by subsection (3)[^c-1db7ba9c03c36edb97909cccf98fdacf] above shall not include power for an authorised person to use force for the purpose of entering any aircraft, building or works or entering upon any land.
 
-(4A)[^key-17be4a088df613b908dd0d42c3a8dc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-17be4a088df613b908dd0d42c3a8dc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Any person who—
 
@@ -61,7 +61,7 @@ shall be guilty of an offence and liable—
 - (i) on summary conviction, to a fine not exceeding the statutory maximum;
 - (ii) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-(6)[^key-653e03070b43f0f6de70cdaf9e281b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-653e03070b43f0f6de70cdaf9e281b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -77,7 +77,7 @@ shall be guilty of an offence and liable—
 
 [^c794632]: Textual amendment: Words inserted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [Sch. 1 para. 11(2)(c)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/11/2/c)
 
-[^key-c7aaa8d0a003e34740a65e14fd709fc4]: Textual amendment: Words in s. 20(1)(c)(ii) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(e)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/e)
+[^c-c7aaa8d0a003e34740a65e14fd709fc4]: Textual amendment: Words in s. 20(1)(c)(ii) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(e)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/e)
 
 [^c794633]: Textual amendment: Words substituted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [Sch. 1 para. 11(3)(a)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/11/3/a)
 
@@ -91,14 +91,14 @@ shall be guilty of an offence and liable—
 
 [^c794638]: Textual amendment: Words inserted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [Sch. 1 para. 11(4)(b)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/11/4/b)
 
-[^key-46f3d20013d4485aa3e77b0dff40e3ec]: Textual amendment: [S. 20(3A)](https://www.legislation.gov.uk/ukpga/1982/36/section/20/3A) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46f3d20013d4485aa3e77b0dff40e3ec]: Textual amendment: [S. 20(3A)](https://www.legislation.gov.uk/ukpga/1982/36/section/20/3A) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1db7ba9c03c36edb97909cccf98fdacf]: Textual amendment: Words in [s. 20(4)](https://www.legislation.gov.uk/ukpga/1982/36/section/20/4) substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1db7ba9c03c36edb97909cccf98fdacf]: Textual amendment: Words in [s. 20(4)](https://www.legislation.gov.uk/ukpga/1982/36/section/20/4) substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-17be4a088df613b908dd0d42c3a8dc9a]: Textual amendment: [S. 20(4A)](https://www.legislation.gov.uk/ukpga/1982/36/section/20/4A) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17be4a088df613b908dd0d42c3a8dc9a]: Textual amendment: [S. 20(4A)](https://www.legislation.gov.uk/ukpga/1982/36/section/20/4A) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c794639]: Textual amendment: S. 20(5)(a) and the word or repealed by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [ss. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [53(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/53/2) , [Sch. 1 para. 11(5)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/11/5) , [Sch. 4](https://www.legislation.gov.uk/ukpga/1990/31/schedule/4)
 
 [^c794640]: Textual amendment: Words repealed by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [ss. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [53(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/53/2) , [Sch. 1 para. 11(5)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/11/5) , [Sch. 4](https://www.legislation.gov.uk/ukpga/1990/31/schedule/4)
 
-[^key-653e03070b43f0f6de70cdaf9e281b0a]: Textual amendment: [S. 20(6)](https://www.legislation.gov.uk/ukpga/1982/36/section/20/6) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-653e03070b43f0f6de70cdaf9e281b0a]: Textual amendment: [S. 20(6)](https://www.legislation.gov.uk/ukpga/1982/36/section/20/6) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

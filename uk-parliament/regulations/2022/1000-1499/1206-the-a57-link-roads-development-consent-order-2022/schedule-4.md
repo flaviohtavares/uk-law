@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — PUBLIC RIGHTS OF WAY AND HIGHWAYS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-d4fbe7ecaf24ea46372efcc531cce40b]
+### PART 1 — PUBLIC RIGHTS OF WAY AND HIGHWAYS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-d4fbe7ecaf24ea46372efcc531cce40b]
 
 | *(1)*<br>*Public right of way or highway to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New highway to be substituted/provided* |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ Article 15
 | Footway/crossing | For a distance of 340 metres between point 4/15 on Sheet 4 and point 8/10 on Sheet 8 of the streets, rights of way and access plans | New combined footway/cycleway from point 4/21 to 4/22 to 4/23 on Sheet 4 of the streets, rights of way and access plans and new combined footway/cycleway with equestrian use from points 4/23 to 4/17 and then on combined footway cycleway from point 4/17 to point 8/10 on Sheet 8 of the streets, rights of way and access plans. |
 | Footway/crossing | For a distance of 45 metres between points 4/13 to 4/12 on Sheet 4 of the streets, rights of way and access plans | New combined footway/cycleway from points 4/19 to point 4/9 on the streets, rights of way and access plans. |
 
-### PART 2 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-2bd6d13bd5fc3fb1cfbbcea9ce1c4251]
+### PART 2 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-2bd6d13bd5fc3fb1cfbbcea9ce1c4251]
 
 | *(1)*<br>*Private means of access to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New private means of access to be substituted* |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ Article 15
 | Existing maintenance track (multi user) | For a distance of 60 metres shown between points 6/4 and 6/5 on Sheet 6 on the Streets, Rights of Way and Access Plan. | Work No. 25(i), 25(iii) |
 | Field access | Vehicular track access point close to point 1/9 on Sheet 1 on the Streets, Rights of Way and Access Plan | Work number 7(i) |
 
-### PART 3 — ALTERATIONS TO PRIVATE MEANS OF ACCESS[^key-cfe1d517b60dd3e00860287fec9881e5]
+### PART 3 — ALTERATIONS TO PRIVATE MEANS OF ACCESS[^c-cfe1d517b60dd3e00860287fec9881e5]
 
 | *(1)*<br>*Private means of access to be altered* | *(2)*<br>*Extent of alteration* |
 | --- | --- |
@@ -64,8 +64,8 @@ Article 15
 
 ## Annotations
 
-[^key-d4fbe7ecaf24ea46372efcc531cce40b]: Commencement: Sch. 4 Pt. 1 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-d4fbe7ecaf24ea46372efcc531cce40b]: Commencement: Sch. 4 Pt. 1 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-2bd6d13bd5fc3fb1cfbbcea9ce1c4251]: Commencement: Sch. 4 Pt. 2 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-2bd6d13bd5fc3fb1cfbbcea9ce1c4251]: Commencement: Sch. 4 Pt. 2 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-cfe1d517b60dd3e00860287fec9881e5]: Commencement: Sch. 4 Pt. 3 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-cfe1d517b60dd3e00860287fec9881e5]: Commencement: Sch. 4 Pt. 3 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)

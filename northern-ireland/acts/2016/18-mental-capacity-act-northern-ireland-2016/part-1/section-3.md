@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Meaning of “lacks capacity”[^key-f7c867ec005eb02cfc09d214bc7730a1][^key-a23b52819bda2dcbcf52888778daeaa6]
+## 3. Meaning of “lacks capacity”[^c-f7c867ec005eb02cfc09d214bc7730a1][^c-a23b52819bda2dcbcf52888778daeaa6]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7c867ec005eb02cfc09d214bc7730a1]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/18/section/3) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-f7c867ec005eb02cfc09d214bc7730a1]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/18/section/3) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-a23b52819bda2dcbcf52888778daeaa6]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/18/section/3) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/163/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/3) (as amended by S.R. 2019/190, art. 2)
+[^c-a23b52819bda2dcbcf52888778daeaa6]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/18/section/3) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/163/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/3) (as amended by S.R. 2019/190, art. 2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) At the time when a person applies for a UK[^key-96e8b48798f5c91534e3b4ff04c6d284] marketing authorisation, Article 126a authorisation, certificate of registration or traditional herbal registration for a medicinal product, the person must submit to the licensing authority—
+(1) At the time when a person applies for a UK[^c-96e8b48798f5c91534e3b4ff04c6d284] marketing authorisation, Article 126a authorisation, certificate of registration or traditional herbal registration for a medicinal product, the person must submit to the licensing authority—
 
 - (a) one or more mock-ups of the outer packaging and immediate packaging proposed for the product; and
 - (b) a draft package leaflet.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96e8b48798f5c91534e3b4ff04c6d284]: Textual amendment: Word in reg. 267 inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 206](https://www.legislation.gov.uk/uksi/2019/775/regulation/206) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 160](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/160))
+[^c-96e8b48798f5c91534e3b4ff04c6d284]: Textual amendment: Word in reg. 267 inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 206](https://www.legislation.gov.uk/uksi/2019/775/regulation/206) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 160](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/160))

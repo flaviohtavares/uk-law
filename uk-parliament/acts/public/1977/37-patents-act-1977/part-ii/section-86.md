@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Implementation of Community Patent Convention.[^key-aea2ea42c3cc187ea1e2a38fe5f046e0]
+## 86. Implementation of Community Patent Convention.[^c-aea2ea42c3cc187ea1e2a38fe5f046e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aea2ea42c3cc187ea1e2a38fe5f046e0]: Textual amendment: S. 86 repealed (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/6), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(g)(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/g/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-aea2ea42c3cc187ea1e2a38fe5f046e0]: Textual amendment: S. 86 repealed (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/6), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(g)(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/g/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))

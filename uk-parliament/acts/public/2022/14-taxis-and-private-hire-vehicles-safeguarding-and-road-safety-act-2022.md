@@ -37,7 +37,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Relevant information
 
-### 1. Relevant information[^key-4f2a1498f9c7504e95b2c548dcc8577f]
+### 1. Relevant information[^c-4f2a1498f9c7504e95b2c548dcc8577f]
 
 (1) In this Act “**relevant information**”, in relation to a person, means information indicating that the person—
 
@@ -75,7 +75,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Licensing information database
 
-### 2. Duty to record information about licensing decisions in database[^key-b81a4ca694070578a5ca4e874a780e7e][^key-ac4cfde6b3d0237741f49370b9d76b16]
+### 2. Duty to record information about licensing decisions in database[^c-b81a4ca694070578a5ca4e874a780e7e][^c-ac4cfde6b3d0237741f49370b9d76b16]
 
 (1) This section applies where, relying wholly or in part on relevant information relating to a person, a licensing authority decides—
 
@@ -120,7 +120,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (8) In this section “Community licence” and “Northern Ireland driving licence” have the meaning given by section 108(1) of the Road Traffic Act 1988.
 
-### 3. Duty to search database and have regard to relevant information[^key-e7fc5dc0ce8515c373953832a78bb91d][^key-fef9716dc81bc0833fe580b409d983cf]
+### 3. Duty to search database and have regard to relevant information[^c-e7fc5dc0ce8515c373953832a78bb91d][^c-fef9716dc81bc0833fe580b409d983cf]
 
 (1) Before making a decision on a person’s application for, or for the renewal of, a driver’s licence, a licensing authority (“**the decision-making authority**”) must search the licensing information database for entries relating to the person.
 
@@ -138,7 +138,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
   - (ii) the reason for the change, and
 - (b) the decision-making authority must have regard to the information received under paragraph (a) when making the decision referred to in subsection (1) (if the decision still falls to be made).
 
-### 4. The database[^key-83f3f598404862ba0ce032b6d6d1ab24][^key-6de004a2bbf720fe635ef12355955ea0]
+### 4. The database[^c-83f3f598404862ba0ce032b6d6d1ab24][^c-6de004a2bbf720fe635ef12355955ea0]
 
 (1) In this Act “**licensing information database**” means the database operated for the purposes of this Act—
 
@@ -166,7 +166,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Concerns about drivers licensed in other areas
 
-### 5. Duty to report concerns about drivers licensed in other areas[^key-24855da3e89ca86425735279ca1042f2]
+### 5. Duty to report concerns about drivers licensed in other areas[^c-24855da3e89ca86425735279ca1042f2]
 
 (1) This section applies where—
 
@@ -186,7 +186,7 @@ before the end of the period of 10 working days beginning with the day on which 
 - (a) a licence granted by a district council in Wales under section 51 of the Local Government (Miscellaneous Provisions) Act 1976;
 - (b) a taxi driver’s licence or private hire car driver’s licence under section 13 of the Civic Government (Scotland) Act 1982.
 
-### 6. Duty as regards reported concerns about drivers licensed in other areas[^key-5fd3f4e8a7d8527bf1b4a423056594c4]
+### 6. Duty as regards reported concerns about drivers licensed in other areas[^c-5fd3f4e8a7d8527bf1b4a423056594c4]
 
 (1) This section applies where an English licensing authority (“**authority A**”)—
 
@@ -204,19 +204,19 @@ before the end of the period of 10 working days beginning with the day on which 
 
 ## Guidance
 
-### 7. Guidance[^key-8946a700d3b76b585866b5f5fb6513c9][^key-6149b10e2963374d970807ab6187f4ab]
+### 7. Guidance[^c-8946a700d3b76b585866b5f5fb6513c9][^c-6149b10e2963374d970807ab6187f4ab]
 
-(1)[^key-8946a700d3b76b585866b5f5fb6513c9] The Secretary of State may issue guidance to licensing authorities in connection with their functions under this Act.
+(1)[^c-8946a700d3b76b585866b5f5fb6513c9] The Secretary of State may issue guidance to licensing authorities in connection with their functions under this Act.
 
-(2)[^key-8946a700d3b76b585866b5f5fb6513c9] The Secretary of State may revise guidance issued under this section.
+(2)[^c-8946a700d3b76b585866b5f5fb6513c9] The Secretary of State may revise guidance issued under this section.
 
-(3)[^key-8946a700d3b76b585866b5f5fb6513c9] The Secretary of State must arrange for guidance under this section, and any revision of it, to be published.
+(3)[^c-8946a700d3b76b585866b5f5fb6513c9] The Secretary of State must arrange for guidance under this section, and any revision of it, to be published.
 
 (4) A licensing authority must have regard to guidance issued under this section.
 
 ## Final provisions
 
-### 8. Interpretation[^key-17319d3a62a815f6f28537319b89dd43]
+### 8. Interpretation[^c-17319d3a62a815f6f28537319b89dd43]
 
 (1) In this Act—
 
@@ -249,7 +249,7 @@ before the end of the period of 10 working days beginning with the day on which 
 
 (3) References in this Act to the area of a relevant authority are to the area for which the authority acts.
 
-### 9. Extent, commencement and short title[^key-6031711be6d31ee48a6da2e5f9964118]
+### 9. Extent, commencement and short title[^c-6031711be6d31ee48a6da2e5f9964118]
 
 (1) This Act extends to England and Wales only.
 
@@ -278,28 +278,28 @@ before the end of the period of 10 working days beginning with the day on which 
 
 ## Annotations
 
-[^key-4f2a1498f9c7504e95b2c548dcc8577f]: Commencement: S. 1 in force at Royal Assent, see [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/2/a)
+[^c-4f2a1498f9c7504e95b2c548dcc8577f]: Commencement: S. 1 in force at Royal Assent, see [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/2/a)
 
-[^key-b81a4ca694070578a5ca4e874a780e7e]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/2/b)
+[^c-b81a4ca694070578a5ca4e874a780e7e]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/2/b)
 
-[^key-ac4cfde6b3d0237741f49370b9d76b16]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/14/section/2) in force at 27.4.2023 in so far as not already in force by [S.I. 2023/460](https://www.legislation.gov.uk/uksi/2023/460), [reg. 2](https://www.legislation.gov.uk/uksi/2023/460/regulation/2)
+[^c-ac4cfde6b3d0237741f49370b9d76b16]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/14/section/2) in force at 27.4.2023 in so far as not already in force by [S.I. 2023/460](https://www.legislation.gov.uk/uksi/2023/460), [reg. 2](https://www.legislation.gov.uk/uksi/2023/460/regulation/2)
 
-[^key-e7fc5dc0ce8515c373953832a78bb91d]: Commencement: S. 3 not in force at Royal Assent, see [s. 9(4)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/4)
+[^c-e7fc5dc0ce8515c373953832a78bb91d]: Commencement: S. 3 not in force at Royal Assent, see [s. 9(4)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/4)
 
-[^key-fef9716dc81bc0833fe580b409d983cf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/14/section/3) in force at 27.4.2023 by [S.I. 2023/460](https://www.legislation.gov.uk/uksi/2023/460), [reg. 2](https://www.legislation.gov.uk/uksi/2023/460/regulation/2)
+[^c-fef9716dc81bc0833fe580b409d983cf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/14/section/3) in force at 27.4.2023 by [S.I. 2023/460](https://www.legislation.gov.uk/uksi/2023/460), [reg. 2](https://www.legislation.gov.uk/uksi/2023/460/regulation/2)
 
-[^key-83f3f598404862ba0ce032b6d6d1ab24]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/14/section/4) in force at 31.5.2022 for specified purposes, see [s. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/3/a)
+[^c-83f3f598404862ba0ce032b6d6d1ab24]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/14/section/4) in force at 31.5.2022 for specified purposes, see [s. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/3/a)
 
-[^key-6de004a2bbf720fe635ef12355955ea0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/14/section/4) in force at 27.4.2023 in so far as not already in force by [S.I. 2023/460](https://www.legislation.gov.uk/uksi/2023/460), [reg. 2](https://www.legislation.gov.uk/uksi/2023/460/regulation/2)
+[^c-6de004a2bbf720fe635ef12355955ea0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/14/section/4) in force at 27.4.2023 in so far as not already in force by [S.I. 2023/460](https://www.legislation.gov.uk/uksi/2023/460), [reg. 2](https://www.legislation.gov.uk/uksi/2023/460/regulation/2)
 
-[^key-24855da3e89ca86425735279ca1042f2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/14/section/5) in force at 31.5.2022, see [s. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/3/b)
+[^c-24855da3e89ca86425735279ca1042f2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/14/section/5) in force at 31.5.2022, see [s. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/3/b)
 
-[^key-5fd3f4e8a7d8527bf1b4a423056594c4]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/14/section/6) in force at 31.5.2022, see [s. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/3/b)
+[^c-5fd3f4e8a7d8527bf1b4a423056594c4]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/14/section/6) in force at 31.5.2022, see [s. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/3/b)
 
-[^key-8946a700d3b76b585866b5f5fb6513c9]: Commencement: S. 7(1)-(3) in force at Royal Assent for specified purposes, see [s. 9(2)(c)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/2/c)
+[^c-8946a700d3b76b585866b5f5fb6513c9]: Commencement: S. 7(1)-(3) in force at Royal Assent for specified purposes, see [s. 9(2)(c)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/2/c)
 
-[^key-6149b10e2963374d970807ab6187f4ab]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/14/section/7) in force at 31.5.2022 in so far as not already in force, see [s. 9(3)(c)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/3/c)
+[^c-6149b10e2963374d970807ab6187f4ab]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/14/section/7) in force at 31.5.2022 in so far as not already in force, see [s. 9(3)(c)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/3/c)
 
-[^key-17319d3a62a815f6f28537319b89dd43]: Commencement: S. 8 in force at Royal Assent, see [s. 9(2)(d)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/2/d)
+[^c-17319d3a62a815f6f28537319b89dd43]: Commencement: S. 8 in force at Royal Assent, see [s. 9(2)(d)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/2/d)
 
-[^key-6031711be6d31ee48a6da2e5f9964118]: Commencement: S. 9 in force at Royal Assent, see [s. 9(2)(e)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/2/e)
+[^c-6031711be6d31ee48a6da2e5f9964118]: Commencement: S. 9 in force at Royal Assent, see [s. 9(2)(e)](https://www.legislation.gov.uk/ukpga/2022/14/section/9/2/e)

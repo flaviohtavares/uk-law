@@ -24,7 +24,7 @@ Section 22
 
 ### Strategy
 
-**1.**[^key-56599af07db0a87e7bcc9152f4214ca2] (1) NAO and the Comptroller and Auditor General must jointly—
+**1.**[^c-56599af07db0a87e7bcc9152f4214ca2] (1) NAO and the Comptroller and Auditor General must jointly—
 
 - (a) prepare a strategy for the national audit functions, and
 - (b) review the strategy (and revise it as appropriate) at least once every 12 months.
@@ -48,9 +48,9 @@ Section 22
 
 ### NAO to provide resources for the Comptroller and Auditor General's functions
 
-**2.** (1)[^key-b72295a49065c15049249551fef582ad][^key-726554b3d12841ccd6811d42464319a8] NAO must provide resources for the Comptroller and Auditor General's functions as required by the Comptroller and Auditor General.
+**2.** (1)[^c-b72295a49065c15049249551fef582ad][^c-726554b3d12841ccd6811d42464319a8] NAO must provide resources for the Comptroller and Auditor General's functions as required by the Comptroller and Auditor General.
 
-(2)[^key-3745c86c259082f374557b2b7185ea38] In particular, NAO is responsible for—
+(2)[^c-3745c86c259082f374557b2b7185ea38] In particular, NAO is responsible for—
 
 - (a) employing staff to assist in the carrying out of those functions,
 - (b) procuring services for the purposes of those functions,
@@ -59,13 +59,13 @@ Section 22
 
 as required by the Comptroller and Auditor General.
 
-(3)[^key-b72295a49065c15049249551fef582ad][^key-726554b3d12841ccd6811d42464319a8] For any financial year the maximum amount of resources that the Comptroller and Auditor General may require for the purposes of sub-paragraph (1) is the maximum amount specified for that year under paragraph 1(2)(b).
+(3)[^c-b72295a49065c15049249551fef582ad][^c-726554b3d12841ccd6811d42464319a8] For any financial year the maximum amount of resources that the Comptroller and Auditor General may require for the purposes of sub-paragraph (1) is the maximum amount specified for that year under paragraph 1(2)(b).
 
-(4)[^key-b72295a49065c15049249551fef582ad][^key-726554b3d12841ccd6811d42464319a8] Sub-paragraph (1) is also subject to paragraph 3.
+(4)[^c-b72295a49065c15049249551fef582ad][^c-726554b3d12841ccd6811d42464319a8] Sub-paragraph (1) is also subject to paragraph 3.
 
 ### Provision of certain services by Comptroller and Auditor General to require NAO's approval
 
-**3.**[^key-c08d835339c2f446a926ece1577cf935][^key-0abd04b9d8a469880eafcc2f9331f374] (1) The Comptroller and Auditor General may provide services that are not within sub-paragraph (2) only with NAO's approval.
+**3.**[^c-c08d835339c2f446a926ece1577cf935][^c-0abd04b9d8a469880eafcc2f9331f374] (1) The Comptroller and Auditor General may provide services that are not within sub-paragraph (2) only with NAO's approval.
 
 (2) The services within this sub-paragraph are services provided by the Comptroller and Auditor General—
 
@@ -84,25 +84,25 @@ as required by the Comptroller and Auditor General.
 
 ### NAO to monitor and provide advice
 
-**4.**[^key-fc48a7150434ca470e31e5d45e4edec8] NAO must, in such manner as it considers appropriate, monitor the carrying out of the Comptroller and Auditor General's functions.
+**4.**[^c-fc48a7150434ca470e31e5d45e4edec8] NAO must, in such manner as it considers appropriate, monitor the carrying out of the Comptroller and Auditor General's functions.
 
-**5.**[^key-f13afdf4bbd634abf734b1d5cb3eaa4d] (1) NAO may provide advice to the Comptroller and Auditor General about the Comptroller and Auditor General's functions.
+**5.**[^c-f13afdf4bbd634abf734b1d5cb3eaa4d] (1) NAO may provide advice to the Comptroller and Auditor General about the Comptroller and Auditor General's functions.
 
 (2) The Comptroller and Auditor General must have regard to any advice given.
 
 ### Delegation of Comptroller and Auditor General's functions
 
-**6.** (1)[^key-70c9536b380707a02cf7a150525a3a96] The Comptroller and Auditor General may prepare a scheme for the delegation of functions of that office to employees of NAO.
+**6.** (1)[^c-70c9536b380707a02cf7a150525a3a96] The Comptroller and Auditor General may prepare a scheme for the delegation of functions of that office to employees of NAO.
 
-(2)[^key-70c9536b380707a02cf7a150525a3a96] The scheme (including any revision) must be approved by the Public Accounts Commission.
+(2)[^c-70c9536b380707a02cf7a150525a3a96] The scheme (including any revision) must be approved by the Public Accounts Commission.
 
-(3)[^key-8ea52d3cf54fbd7c3bb6be890c27301c] If the Commission approves the scheme (or any revision), the Comptroller and Auditor General may delegate functions in accordance with it.
+(3)[^c-8ea52d3cf54fbd7c3bb6be890c27301c] If the Commission approves the scheme (or any revision), the Comptroller and Auditor General may delegate functions in accordance with it.
 
-(4)[^key-8ea52d3cf54fbd7c3bb6be890c27301c] A delegation does not prevent the Comptroller and Auditor General from doing anything personally.
+(4)[^c-8ea52d3cf54fbd7c3bb6be890c27301c] A delegation does not prevent the Comptroller and Auditor General from doing anything personally.
 
 ### Comptroller and Auditor General: vacancy or incapacity
 
-**7.**[^key-26e805339ef7e1da922b916cac5a099d] (1) This paragraph applies if the office of Comptroller and Auditor General is vacant.
+**7.**[^c-26e805339ef7e1da922b916cac5a099d] (1) This paragraph applies if the office of Comptroller and Auditor General is vacant.
 
 (2) This paragraph also applies if—
 
@@ -122,25 +122,25 @@ as required by the Comptroller and Auditor General.
 
 ### Audit fees etc
 
-**8.** (1)[^key-35da33f2ad6cd3c802267bdcf97b37a5][^key-7cf5f138615deb4ee1d01c86ff0d21a7] NAO may charge fees for audits carried out by the Comptroller and Auditor General.
+**8.** (1)[^c-35da33f2ad6cd3c802267bdcf97b37a5][^c-7cf5f138615deb4ee1d01c86ff0d21a7] NAO may charge fees for audits carried out by the Comptroller and Auditor General.
 
-(2)[^key-35da33f2ad6cd3c802267bdcf97b37a5][^key-7cf5f138615deb4ee1d01c86ff0d21a7] Any fees must be charged in accordance with a scheme prepared by NAO.
+(2)[^c-35da33f2ad6cd3c802267bdcf97b37a5][^c-7cf5f138615deb4ee1d01c86ff0d21a7] Any fees must be charged in accordance with a scheme prepared by NAO.
 
-(3)[^key-35da33f2ad6cd3c802267bdcf97b37a5][^key-7cf5f138615deb4ee1d01c86ff0d21a7] The scheme (including any revision) must be approved by the Public Accounts Commission.
+(3)[^c-35da33f2ad6cd3c802267bdcf97b37a5][^c-7cf5f138615deb4ee1d01c86ff0d21a7] The scheme (including any revision) must be approved by the Public Accounts Commission.
 
-(4)[^key-052c8fc1ce9b01c12c40daec67cb03ca] The agreement of a Minister of the Crown is required for the charging of a fee if the accounts to be audited are the accounts of a body or other person who acts on behalf of the Crown.
+(4)[^c-052c8fc1ce9b01c12c40daec67cb03ca] The agreement of a Minister of the Crown is required for the charging of a fee if the accounts to be audited are the accounts of a body or other person who acts on behalf of the Crown.
 
-(5)[^key-052c8fc1ce9b01c12c40daec67cb03ca] Sub-paragraphs (1) to (4) do not apply in relation to an audit carried out as part of any NAO-approved services.
+(5)[^c-052c8fc1ce9b01c12c40daec67cb03ca] Sub-paragraphs (1) to (4) do not apply in relation to an audit carried out as part of any NAO-approved services.
 
-(6)[^key-052c8fc1ce9b01c12c40daec67cb03ca] The Comptroller and Auditor General may charge fees and other amounts in relation to NAO-approved services, but only in accordance with the agreement or other arrangements under which the services are provided.
+(6)[^c-052c8fc1ce9b01c12c40daec67cb03ca] The Comptroller and Auditor General may charge fees and other amounts in relation to NAO-approved services, but only in accordance with the agreement or other arrangements under which the services are provided.
 
-(7)[^key-052c8fc1ce9b01c12c40daec67cb03ca] Fees and other amounts received by the Comptroller and Auditor General must be paid to NAO.
+(7)[^c-052c8fc1ce9b01c12c40daec67cb03ca] Fees and other amounts received by the Comptroller and Auditor General must be paid to NAO.
 
-(8)[^key-052c8fc1ce9b01c12c40daec67cb03ca] Fees and other amounts received by NAO under this paragraph must be paid into the Consolidated Fund.
+(8)[^c-052c8fc1ce9b01c12c40daec67cb03ca] Fees and other amounts received by NAO under this paragraph must be paid into the Consolidated Fund.
 
 ### Reports
 
-**9.**[^key-bb8c894df8f7554d3c03c859a9b86c6e] (1) NAO and the Comptroller and Auditor General must, as soon as practicable after the end of each financial year, jointly prepare a report on the carrying out during the year of the national audit functions (see paragraph 1(1)).
+**9.**[^c-bb8c894df8f7554d3c03c859a9b86c6e] (1) NAO and the Comptroller and Auditor General must, as soon as practicable after the end of each financial year, jointly prepare a report on the carrying out during the year of the national audit functions (see paragraph 1(1)).
 
 (2) The person who chairs NAO and the Comptroller and Auditor General must jointly submit the report to the Public Accounts Commission.
 
@@ -148,7 +148,7 @@ as required by the Comptroller and Auditor General.
 
 ### Code of practice
 
-**10.**[^key-c8176bbabefbba6a015c628d68f690ab] (1) NAO and the Comptroller and Auditor General must jointly prepare a code of practice dealing with the relationship between NAO and the Comptroller and Auditor General.
+**10.**[^c-c8176bbabefbba6a015c628d68f690ab] (1) NAO and the Comptroller and Auditor General must jointly prepare a code of practice dealing with the relationship between NAO and the Comptroller and Auditor General.
 
 (2) In doing this, they must (in particular) seek to reflect the principle set out in section 17(1) and (2), subject to any limitations on that principle that are agreed between the Public Accounts Commission, NAO and the Comptroller and Auditor General.
 
@@ -166,7 +166,7 @@ as required by the Comptroller and Auditor General.
 
 (9) NAO and the Comptroller and Auditor General must each comply with the code.
 
-**11.**[^key-84fa5f76428829b5d24b923466f911a6] (1) For the purposes of preparing or revising the code, the NAO must agree to the code (including any revision) in accordance with this paragraph.
+**11.**[^c-84fa5f76428829b5d24b923466f911a6] (1) For the purposes of preparing or revising the code, the NAO must agree to the code (including any revision) in accordance with this paragraph.
 
 (2) The agreement must be given at a meeting of NAO.
 
@@ -174,7 +174,7 @@ as required by the Comptroller and Auditor General.
 
 (4) The requirements of this paragraph are in addition to any other requirements relating to NAO's procedure.
 
-**12.**[^key-df43fa5065d50507a638bd8bb7b832ff] (1) The code must include—
+**12.**[^c-df43fa5065d50507a638bd8bb7b832ff] (1) The code must include—
 
 - (a) provision as to how the strategy required by paragraph 1 is to be prepared, reviewed and revised;
 - (b) provision about the matters to be covered by the strategy and the periods to be covered by it from time to time;
@@ -197,7 +197,7 @@ as required by the Comptroller and Auditor General.
 
 ### Documents and information
 
-**13.**[^key-58dcf605526eff155f04265e83c02301] (1) Any document or information which a person is required to provide, or may provide, to the Comptroller and Auditor General, may be provided to NAO (either by that person or the Comptroller and Auditor General).
+**13.**[^c-58dcf605526eff155f04265e83c02301] (1) Any document or information which a person is required to provide, or may provide, to the Comptroller and Auditor General, may be provided to NAO (either by that person or the Comptroller and Auditor General).
 
 (2) For the purposes of section 3(2) of the Freedom of Information Act 2000 any document or information held by NAO as mentioned in paragraph 2(2)(c) is treated as held by NAO on its own behalf.
 
@@ -205,40 +205,40 @@ as required by the Comptroller and Auditor General.
 
 ## Annotations
 
-[^key-56599af07db0a87e7bcc9152f4214ca2]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/1) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(e)(i)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/e/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-56599af07db0a87e7bcc9152f4214ca2]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/1) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(e)(i)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/e/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-b72295a49065c15049249551fef582ad]: Commencement: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/1) [(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/3) [(4)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/4) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-b72295a49065c15049249551fef582ad]: Commencement: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/1) [(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/3) [(4)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/4) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-726554b3d12841ccd6811d42464319a8]: Commencement: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/1) [(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/3) [(4)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/4) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-726554b3d12841ccd6811d42464319a8]: Commencement: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/1) [(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/3) [(4)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/4) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-3745c86c259082f374557b2b7185ea38]: Commencement: [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/2) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-3745c86c259082f374557b2b7185ea38]: Commencement: [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/2/2) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-c08d835339c2f446a926ece1577cf935]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/3) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-c08d835339c2f446a926ece1577cf935]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/3) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-0abd04b9d8a469880eafcc2f9331f374]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/3) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-0abd04b9d8a469880eafcc2f9331f374]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/3) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-fc48a7150434ca470e31e5d45e4edec8]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/4) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-fc48a7150434ca470e31e5d45e4edec8]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/4) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-f13afdf4bbd634abf734b1d5cb3eaa4d]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/5) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-f13afdf4bbd634abf734b1d5cb3eaa4d]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/5) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-70c9536b380707a02cf7a150525a3a96]: Commencement: [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/6/1) [(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/6/2) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(e)(ii)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/e/ii) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-70c9536b380707a02cf7a150525a3a96]: Commencement: [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/6/1) [(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/6/2) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(e)(ii)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/e/ii) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-8ea52d3cf54fbd7c3bb6be890c27301c]: Commencement: [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/6/3) [(4)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/6/4) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-8ea52d3cf54fbd7c3bb6be890c27301c]: Commencement: [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/6/3) [(4)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/6/4) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-26e805339ef7e1da922b916cac5a099d]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/7) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-26e805339ef7e1da922b916cac5a099d]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/7) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-35da33f2ad6cd3c802267bdcf97b37a5]: Commencement: [Sch. 3 paras. 8(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/8/1) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-35da33f2ad6cd3c802267bdcf97b37a5]: Commencement: [Sch. 3 paras. 8(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/8/1) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-7cf5f138615deb4ee1d01c86ff0d21a7]: Commencement: [Sch. 3 paras. 8(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/8/1) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/g) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-7cf5f138615deb4ee1d01c86ff0d21a7]: Commencement: [Sch. 3 paras. 8(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/8/1) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/g) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-052c8fc1ce9b01c12c40daec67cb03ca]: Commencement: [Sch. 3 paras. 8(4)-(8)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/8/4) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-052c8fc1ce9b01c12c40daec67cb03ca]: Commencement: [Sch. 3 paras. 8(4)-(8)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/8/4) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-bb8c894df8f7554d3c03c859a9b86c6e]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/9) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-bb8c894df8f7554d3c03c859a9b86c6e]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/9) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-c8176bbabefbba6a015c628d68f690ab]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/10) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(e)(iii)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/e/iii) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-c8176bbabefbba6a015c628d68f690ab]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/10) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(e)(iii)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/e/iii) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-84fa5f76428829b5d24b923466f911a6]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/11) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(e)(iii)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/e/iii) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-84fa5f76428829b5d24b923466f911a6]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/11) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(e)(iii)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/e/iii) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-df43fa5065d50507a638bd8bb7b832ff]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/12) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(e)(iii)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/e/iii) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-df43fa5065d50507a638bd8bb7b832ff]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/12) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(e)(iii)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/e/iii) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-58dcf605526eff155f04265e83c02301]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/13) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-58dcf605526eff155f04265e83c02301]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2011/4/schedule/3/paragraph/13) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)

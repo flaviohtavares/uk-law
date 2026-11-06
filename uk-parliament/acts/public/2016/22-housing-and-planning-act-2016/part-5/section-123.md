@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Electrical safety standards: enforcement[^key-4943c556d485a2ea51902f4366c5ffcb]
+## 123. Electrical safety standards: enforcement[^c-4943c556d485a2ea51902f4366c5ffcb]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4943c556d485a2ea51902f4366c5ffcb]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2016/22/section/123) in force at 25.10.2019 by [S.I. 2019/1359](https://www.legislation.gov.uk/uksi/2019/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1359/regulation/2)
+[^c-4943c556d485a2ea51902f4366c5ffcb]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2016/22/section/123) in force at 25.10.2019 by [S.I. 2019/1359](https://www.legislation.gov.uk/uksi/2019/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1359/regulation/2)

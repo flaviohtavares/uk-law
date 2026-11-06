@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Power to permit community land auction arrangements[^key-b7bec12f2750030e3fa110b2d826a85d]
+## 142. Power to permit community land auction arrangements[^c-b7bec12f2750030e3fa110b2d826a85d]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7bec12f2750030e3fa110b2d826a85d]: Commencement: S. 142 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-b7bec12f2750030e3fa110b2d826a85d]: Commencement: S. 142 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

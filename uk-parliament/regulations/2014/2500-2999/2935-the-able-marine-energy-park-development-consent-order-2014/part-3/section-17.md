@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Access to works[^key-d694485cf471ec22c22fd068227fe65f]
+## 17. Access to works[^c-d694485cf471ec22c22fd068227fe65f]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d694485cf471ec22c22fd068227fe65f]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2014/2935/article/17) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-d694485cf471ec22c22fd068227fe65f]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2014/2935/article/17) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Discharge of water[^key-19afb6ac3b64deab7a0d2ea8362465a0]
+## 19. Discharge of water[^c-19afb6ac3b64deab7a0d2ea8362465a0]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) The undertaker shall take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) This article does not authorise the entry into controlled waters of any matter whose entry or discharge into controlled waters is prohibited by Regulation 38 of the Environmental Permitting (England and Wales) Regulations 2016[^key-1b44f61705e22ae51a0aafe0c7324e41].
+(7) This article does not authorise the entry into controlled waters of any matter whose entry or discharge into controlled waters is prohibited by Regulation 38 of the Environmental Permitting (England and Wales) Regulations 2016[^c-1b44f61705e22ae51a0aafe0c7324e41].
 
 (8) If a person who receives an application for consent or approval fails to notify the undertaker of a decision within 28 days of receiving an application for consent under paragraph (3) or approval under paragraph (4)(a) that person shall be deemed to have refused consent or approval, as the case may be.
 
@@ -46,9 +46,9 @@ summary: ''
 
 ## Annotations
 
-[^key-19afb6ac3b64deab7a0d2ea8362465a0]: Commencement: Art. 19 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-19afb6ac3b64deab7a0d2ea8362465a0]: Commencement: Art. 19 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-1b44f61705e22ae51a0aafe0c7324e41]: Textual amendment: Words in [art. 19(7)](https://www.legislation.gov.uk/uksi/2014/2384/article/19/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 67](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/67) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-1b44f61705e22ae51a0aafe0c7324e41]: Textual amendment: Words in [art. 19(7)](https://www.legislation.gov.uk/uksi/2014/2384/article/19/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 67](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/67) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00023]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40); there are amendments to section 57 that are not relevant to this Order.
 

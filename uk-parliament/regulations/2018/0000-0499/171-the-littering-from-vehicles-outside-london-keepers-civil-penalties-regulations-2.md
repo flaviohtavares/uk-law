@@ -46,25 +46,25 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-93bf252dd8b7e897022604d8dec6cc05]
+### 1. Citation and commencement[^c-93bf252dd8b7e897022604d8dec6cc05]
 
 (1) These Regulations may be cited as the Littering From Vehicles Outside London (Keepers: Civil Penalties) Regulations 2018.
 
 (2) These Regulations come into force on 1st April 2018.
 
-### 2. Interpretation[^key-8ad5c4b8e63c8d7d619f3c40bf1dac85]
+### 2. Interpretation[^c-8ad5c4b8e63c8d7d619f3c40bf1dac85]
 
 In these Regulations—
 
 - “the EPA 1990” means the Environmental Protection Act 1990;
 - “the RUCS Regulations 2013” means the Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) Regulations 2013[^f00003];
 - “adjudicator” means a person who holds office as an adjudicator for the purposes of these Regulations in accordance with regulation 18(1);
-- “[^key-8fa9cef2877d4e6a5391300a969651a0]**enforcement notice**” has the meaning given in regulation 6A(1);
+- “[^c-8fa9cef2877d4e6a5391300a969651a0]**enforcement notice**” has the meaning given in regulation 6A(1);
 - “fixed penalty” is to be read in accordance with regulation 6(1) to (3);
 - “fixed penalty payment period” is to be read in accordance with regulation 6(4) and (5);
 - “penalty notice” has the meaning given in regulation 4(2).
 
-### 3. “Litter authority”[^key-923bd583f9768c88af2afd4b52881d87]
+### 3. “Litter authority”[^c-923bd583f9768c88af2afd4b52881d87]
 
 In these Regulations, a “litter authority” means—
 
@@ -74,7 +74,7 @@ In these Regulations, a “litter authority” means—
 
 ## PART 2 — Penalties and enforcement
 
-### 4. Penalty notices[^key-2b014e0a1b3db36eb6db8e226b9a4690]
+### 4. Penalty notices[^c-2b014e0a1b3db36eb6db8e226b9a4690]
 
 (1) A litter authority may give a penalty notice to a person who is the keeper of a vehicle if the condition in paragraph (3) is met.
 
@@ -94,7 +94,7 @@ In these Regulations, a “litter authority” means—
 
 (7) Part 3 (exemptions) sets out circumstances in which a person is not liable to pay a fixed penalty.
 
-### 5. Content of penalty notices[^key-66c88a504ab1455014bb8728363d03c5]
+### 5. Content of penalty notices[^c-66c88a504ab1455014bb8728363d03c5]
 
 (1) A penalty notice must state—
 
@@ -112,7 +112,7 @@ In these Regulations, a “litter authority” means—
 
 (2) In paragraph (1)(a), “registration mark” has the meaning given by section 23 of the Vehicle Excise and Registration Act 1994[^f00004].
 
-### 6. Penalty amount and payment[^key-8645ebe0cbdeceed037fd6c785c472a5]
+### 6. Penalty amount and payment[^c-8645ebe0cbdeceed037fd6c785c472a5]
 
 (1) The amount of a fixed penalty is the amount specified by the litter authority under section 88(6A)(a) of the EPA 1990 (which relates to fixed penalty notices for leaving litter)[^f00005].
 
@@ -138,15 +138,15 @@ In these Regulations, a “litter authority” means—
 
 (9) A fixed penalty is taken to be paid when it is received by the litter authority.
 
-### 6A. Enforcement Notices[^key-b8842ff1ca83e02a27d54beffc8d1595]
+### 6A. Enforcement Notices[^c-b8842ff1ca83e02a27d54beffc8d1595]
 
 (1)  Where a fixed penalty is increased in accordance with regulation 6(3), the litter authority may serve a further notice (an “**enforcement notice**”) on the person the penalty notice was given to setting out the amount of the fixed penalty that is due.
 
 (2) A litter authority may cancel an enforcement notice at any time by informing the recipient in writing, and serve or cancel such further enforcement notices as it thinks fit.
 
-### 7. Recovery of unpaid amounts[^key-df7a82436ac3d9fc27ad7c68b2ba3597]
+### 7. Recovery of unpaid amounts[^c-df7a82436ac3d9fc27ad7c68b2ba3597]
 
-(1) This regulation applies where a litter authority has given a person an enforcement notice[^key-9618655bde5bdc896f0234ca1010eb10] and the person has not paid the fixed penalty in full before the end of the period of 14 days beginning with the day on which the enforcement notice is served[^key-d00f33810b30e19be988949029f5f3eb].
+(1) This regulation applies where a litter authority has given a person an enforcement notice[^c-9618655bde5bdc896f0234ca1010eb10] and the person has not paid the fixed penalty in full before the end of the period of 14 days beginning with the day on which the enforcement notice is served[^c-d00f33810b30e19be988949029f5f3eb].
 
 (2) The litter authority may recover any unpaid amount of the fixed penalty (being the increased amount referred to in regulation 6(3)) and any related costs awarded by an adjudicator—
 
@@ -155,7 +155,7 @@ In these Regulations, a “litter authority” means—
 
 (3) In paragraph (2), “costs awarded by an adjudicator” means the costs and expenses which are required to be paid to the litter authority under an order under paragraph 13 of the Schedule to the RUCS Regulations 2013 as it applies to these Regulations by virtue of regulation 19.
 
-### 7A. Invalid notices[^key-23a25cc84d93916d57cdf6f9cc1db031]
+### 7A. Invalid notices[^c-23a25cc84d93916d57cdf6f9cc1db031]
 
 (1) This regulation applies where—
 
@@ -193,7 +193,7 @@ In these Regulations, a “litter authority” means—
 
 (8)  In this regulation, “**witness statement**” means a statement which is a witness statement for the purposes of the Civil Procedure Rules 1998 and which is supported by a statement of truth in accordance with Part 22 of those Rules.
 
-### 8. Further provision about giving notices[^key-ec4e13be9c2f6a0ffcdc28af8882a05b]
+### 8. Further provision about giving notices[^c-ec4e13be9c2f6a0ffcdc28af8882a05b]
 
 (1) This regulation applies to the giving of notices under these Regulations by a litter authority to any person.
 
@@ -237,7 +237,7 @@ In these Regulations, a “litter authority” means—
   - (b) Christmas Day or Good Friday, or
   - (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00007] in England and Wales.
 
-### 9. Further provision about cancelling notices[^key-6df040ccaeffa12e1d9534f77451a613]
+### 9. Further provision about cancelling notices[^c-6df040ccaeffa12e1d9534f77451a613]
 
 (1) Where a litter authority cancels or is deemed to have cancelled a penalty notice under these Regulations, the authority must as soon as practicable refund any amount paid in respect of the notice.
 
@@ -248,22 +248,22 @@ In these Regulations, a “litter authority” means—
 
 (3) A cancellation or deemed cancellation of a penalty notice does not prevent the litter authority which gave the notice from giving a further penalty notice in respect of the same littering offence (whether to the same or another person).
 
-### 10. Authorised officers[^key-c5752adf757bbc93a8dc7a6ef8967a3e]
+### 10. Authorised officers[^c-c5752adf757bbc93a8dc7a6ef8967a3e]
 
 (1) A litter authority may authorise a person (an “authorised officer”) to perform on its behalf any of the functions conferred on it by regulation 4 (penalty notices).
 
 (2) The authorisation must be in writing.
 
-### 11. Use of receipts by litter authorities[^key-ffe9ebd87810dc3bc51268fcc25b2275]
+### 11. Use of receipts by litter authorities[^c-ffe9ebd87810dc3bc51268fcc25b2275]
 
 Sums received by a litter authority under these Regulations may be used by the authority for the purposes of any of its functions which are—
 
-- (a) listed in section 95A(4)(a) and (b)[^key-cf99a2211dfbe0076ab7e59277f1a51d] of the Clean Neighbourhoods and Environment Act 2005[^f00008], or
-- (b) specified in regulations under section 95A(4)(c)[^key-c1eff1f01849f7d3ec9536672a95e1a5] of that Act.
+- (a) listed in section 95A(4)(a) and (b)[^c-cf99a2211dfbe0076ab7e59277f1a51d] of the Clean Neighbourhoods and Environment Act 2005[^f00008], or
+- (b) specified in regulations under section 95A(4)(c)[^c-c1eff1f01849f7d3ec9536672a95e1a5] of that Act.
 
 ## PART 3 — Exemptions
 
-### 12. Public service vehicles and licensed taxis etc.[^key-c9d2165144ad0b669a6776545e064ef5]
+### 12. Public service vehicles and licensed taxis etc.[^c-c9d2165144ad0b669a6776545e064ef5]
 
 (1) A person who is the keeper of a vehicle is not liable to pay a fixed penalty for a littering offence committed in respect of the vehicle if—
 
@@ -278,7 +278,7 @@ Sums received by a litter authority under these Regulations may be used by the a
 - (d) a vehicle licensed under section 48 of the Local Government (Miscellaneous Provisions) Act 1976[^f00013] (licensing of private hire vehicles);
 - (e) a vehicle licensed under section 5 of the Plymouth City Council Act 1975[^f00014] (licensing of private hire vehicles).
 
-### 13. Discharge of liability where action taken against person who littered[^key-5affcc56f544c1aba01cfae0b52cae6f]
+### 13. Discharge of liability where action taken against person who littered[^c-5affcc56f544c1aba01cfae0b52cae6f]
 
 The liability of a person who is the keeper of a vehicle to pay a fixed penalty for a littering offence in respect of the vehicle is discharged if—
 
@@ -287,7 +287,7 @@ The liability of a person who is the keeper of a vehicle to pay a fixed penalty 
 
 ## PART 4 — Representations and appeals
 
-### 14. Representations against penalty notice[^key-b879379273e52189c84b3cfffd815c8a]
+### 14. Representations against penalty notice[^c-b879379273e52189c84b3cfffd815c8a]
 
 (1) A person to whom a penalty notice is given may make written representations to the litter authority if it appears to the person that one or more of grounds A to L apply.
 
@@ -308,7 +308,7 @@ The liability of a person who is the keeper of a vehicle to pay a fixed penalty 
 
 (8) Ground F is that the person was not the keeper of the vehicle at the time of the littering offence for a reason not mentioned in grounds B to E.
 
-(9) Ground G is that the litter authority was not, by virtue of regulation 4(5) or 7A(6)[^key-740dc2420940c740674d088abd93d73d], authorised to give the person a penalty notice.
+(9) Ground G is that the litter authority was not, by virtue of regulation 4(5) or 7A(6)[^c-740dc2420940c740674d088abd93d73d], authorised to give the person a penalty notice.
 
 (10) Ground H is that the person is not liable to pay the fixed penalty by virtue of regulation 12.
 
@@ -341,7 +341,7 @@ The liability of a person who is the keeper of a vehicle to pay a fixed penalty 
 - (i) provides for a vehicle to be let to a person for a period of any duration (whether or not the period is capable of extension by agreement between the parties), and
 - (ii) is not a hire-purchase agreement within the meaning given by section 189(1) of the Consumer Credit Act 1974[^f00015].
 
-### 15. Functions of litter authority following representations[^key-c18455e1964e5f7b9c8c9bd72257125b]
+### 15. Functions of litter authority following representations[^c-c18455e1964e5f7b9c8c9bd72257125b]
 
 (1) A litter authority which receives representations under regulation 14 must—
 
@@ -368,7 +368,7 @@ The liability of a person who is the keeper of a vehicle to pay a fixed penalty 
 - (a) decided that it accepts that one or more of the grounds in regulation 14 applies, and
 - (b) cancelled the penalty notice under paragraph (2).
 
-### 16. Appeals against notice of rejection[^key-f3be4d7bea196d2910642375863b1ddc]
+### 16. Appeals against notice of rejection[^c-f3be4d7bea196d2910642375863b1ddc]
 
 (1) A person who is given a notice of rejection (see regulation 15(3) to (5)) may appeal against it.
 
@@ -391,7 +391,7 @@ The liability of a person who is the keeper of a vehicle to pay a fixed penalty 
 - (a) none of the grounds in regulation 14 applies, and
 - (b) there are no compelling reasons why the penalty notice should be cancelled.
 
-### 17. Functions of litter authority following adjudication[^key-6207e465cf3145f87a4d28f8d47f730a]
+### 17. Functions of litter authority following adjudication[^c-6207e465cf3145f87a4d28f8d47f730a]
 
 (1) A litter authority must comply with any direction given to it under regulation 16(6) as soon as practicable.
 
@@ -407,9 +407,9 @@ The liability of a person who is the keeper of a vehicle to pay a fixed penalty 
 
 (5) If a litter authority fails to comply with paragraph (3), it is deemed to have accepted the adjudicator’s recommendation and to have cancelled the penalty notice.
 
-### 18. Adjudicators[^key-4857341f425c14ee6610371244d67ed5]
+### 18. Adjudicators[^c-4857341f425c14ee6610371244d67ed5]
 
-(1) A person who at any time holds office as an adjudicator for the purposes of Part 6 of the Traffic Management Act 2004[^f00016] by virtue of an appointment under regulation[^key-e360bd331daac5761ca9459d789a8996] 16 of the Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 also holds office at that time (and on the same terms) as an adjudicator for the purposes of these Regulations.
+(1) A person who at any time holds office as an adjudicator for the purposes of Part 6 of the Traffic Management Act 2004[^f00016] by virtue of an appointment under regulation[^c-e360bd331daac5761ca9459d789a8996] 16 of the Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 also holds office at that time (and on the same terms) as an adjudicator for the purposes of these Regulations.
 
 (2) The litter authorities must—
 
@@ -419,7 +419,7 @@ The liability of a person who is the keeper of a vehicle to pay a fixed penalty 
 - (d) fix the date by which each adjudicator is to make the report mentioned in paragraph (5), and
 - (e) make and publish an annual report to the Secretary of State on the discharge by adjudicators of their functions under these Regulations.
 
-(3) The functions in paragraph (2) must be discharged by the joint committee or joint committees responsible for discharging functions relating to parking contraventions in accordance with regulation[^key-8bd67814c128ec94918075ad124cb306] 19(1) of the Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022.
+(3) The functions in paragraph (2) must be discharged by the joint committee or joint committees responsible for discharging functions relating to parking contraventions in accordance with regulation[^c-8bd67814c128ec94918075ad124cb306] 19(1) of the Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022.
 
 (4) The litter authorities must pay the expenses associated with the adjudication process (including the expenses of the joint committee or joint committees and the remuneration of adjudicators)—
 
@@ -435,9 +435,9 @@ The liability of a person who is the keeper of a vehicle to pay a fixed penalty 
 - (a) the period beginning with 1st April 2018 and ending with 5th April 2019, and
 - (b) each successive period of 12 months.
 
-### 19. Appeal procedure[^key-eef2af9aa4a2bcdfb4041dbf12504f9f]
+### 19. Appeal procedure[^c-eef2af9aa4a2bcdfb4041dbf12504f9f]
 
-(1) The Schedule to the RUCS Regulations 2013 (which relates to procedure in adjudication proceedings) applies in respect of appeals made under regulation 16 as it applies in respect of a case referred to an adjudicator under regulation 7A(7) and[^key-79908e81bd9c52d439ea3c77250b6185] adjudication proceedings under those Regulations but as if—
+(1) The Schedule to the RUCS Regulations 2013 (which relates to procedure in adjudication proceedings) applies in respect of appeals made under regulation 16 as it applies in respect of a case referred to an adjudicator under regulation 7A(7) and[^c-79908e81bd9c52d439ea3c77250b6185] adjudication proceedings under those Regulations but as if—
 
 - (a) each reference to a charging authority (except that in paragraph 9(1)) were a reference to a litter authority;
 - (b) each reference to a notice of rejection were a reference to a notice of rejection given in accordance with regulation 15(3) to (5) of these Regulations;
@@ -468,13 +468,13 @@ The liability of a person who is the keeper of a vehicle to pay a fixed penalty 
 - (l) in paragraph 11(1) there were inserted at the end “(including, where, despite not allowing the appeal, the adjudicator recommends that the penalty notice be cancelled, the reasons for that recommendation)”;
 - (m) in paragraph 17(1) the reference to the RUCS Regulations 2013 were a reference to these Regulations;
 - (n) in paragraph 17(4) the reference to an enforcement authority were a reference to a litter authority;
-- (oa)[^key-a6298301d4e6f86a0020d515163fb267] in paragraph 19(a) the references to regulations 18 and 19(4) of the RUCS Regulations 2013 were references, respectively, to regulations 7(2)(b) and 7A(4) of these Regulations;
-- (o)[^key-a0acc7ce3a64e18803bd91db18bd9a25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (oa)[^c-a6298301d4e6f86a0020d515163fb267] in paragraph 19(a) the references to regulations 18 and 19(4) of the RUCS Regulations 2013 were references, respectively, to regulations 7(2)(b) and 7A(4) of these Regulations;
+- (o)[^c-a0acc7ce3a64e18803bd91db18bd9a25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (p) in paragraph 21(1) the reference to the RUCS Regulations 2013 were a reference to these Regulations.
 
 (2) Any aspect of procedure in respect of appeals under regulation 16 not provided for under this regulation may be regulated by the adjudicators themselves.
 
-### 20. Evidence produced by a recording device[^key-69397d704aa400c8f6faedb691c36d1c]
+### 20. Evidence produced by a recording device[^c-69397d704aa400c8f6faedb691c36d1c]
 
 (1) Evidence of a fact relevant to proceedings conducted under regulation 19 may be given by the production of—
 
@@ -492,7 +492,7 @@ and includes any equipment used in conjunction with the camera or other device f
 
 ## PART 5 — Consequential amendment
 
-### 21. Amendment of the Environmental Protection Act 1990[^key-632b07b631de88bd91a252fdd13301a5]
+### 21. Amendment of the Environmental Protection Act 1990[^c-632b07b631de88bd91a252fdd13301a5]
 
 In section 87 of the EPA 1990, after subsection (4C)[^f00018] insert—
 
@@ -537,55 +537,55 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: Section 161(2ZB) and (2ZC) was inserted by section 154(3) of the Anti-social Behaviour, Crime and Policing Act 2014.
 
-[^key-93bf252dd8b7e897022604d8dec6cc05]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/171/regulation/1) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-93bf252dd8b7e897022604d8dec6cc05]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/171/regulation/1) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-8ad5c4b8e63c8d7d619f3c40bf1dac85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/171/regulation/2) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-8ad5c4b8e63c8d7d619f3c40bf1dac85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/171/regulation/2) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2013/1783](https://www.legislation.gov.uk/uksi/2013/1783), to which there are amendments not relevant to these Regulations.
 
-[^key-8fa9cef2877d4e6a5391300a969651a0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/171/regulation/2) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/1357/regulation/3)
+[^c-8fa9cef2877d4e6a5391300a969651a0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/171/regulation/2) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/1357/regulation/3)
 
-[^key-923bd583f9768c88af2afd4b52881d87]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/171/regulation/3) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-923bd583f9768c88af2afd4b52881d87]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/171/regulation/3) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-2b014e0a1b3db36eb6db8e226b9a4690]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/171/regulation/4) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-2b014e0a1b3db36eb6db8e226b9a4690]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/171/regulation/4) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-66c88a504ab1455014bb8728363d03c5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/171/regulation/5) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-66c88a504ab1455014bb8728363d03c5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/171/regulation/5) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
 [^f00004]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-8645ebe0cbdeceed037fd6c785c472a5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/171/regulation/6) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-8645ebe0cbdeceed037fd6c785c472a5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/171/regulation/6) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
 [^f00005]: Footnote: Section 88(6A) was inserted by section 19(2) of the Clean Neighbourhoods and Environment Act [2005 (c.16)](https://www.legislation.gov.uk/ukpga/2005/16).
 
-[^key-b8842ff1ca83e02a27d54beffc8d1595]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2018/171/regulation/6A) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/1357/regulation/4)
+[^c-b8842ff1ca83e02a27d54beffc8d1595]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2018/171/regulation/6A) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/1357/regulation/4)
 
-[^key-df7a82436ac3d9fc27ad7c68b2ba3597]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/171/regulation/7) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-df7a82436ac3d9fc27ad7c68b2ba3597]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/171/regulation/7) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-9618655bde5bdc896f0234ca1010eb10]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2018/171/regulation/7/1) substituted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/5/a)
+[^c-9618655bde5bdc896f0234ca1010eb10]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2018/171/regulation/7/1) substituted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/5/a)
 
-[^key-d00f33810b30e19be988949029f5f3eb]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2018/171/regulation/7/1) substituted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/5/b)
+[^c-d00f33810b30e19be988949029f5f3eb]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2018/171/regulation/7/1) substituted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/5/b)
 
-[^key-23a25cc84d93916d57cdf6f9cc1db031]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2018/171/regulation/7A) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2021/1357/regulation/6)
+[^c-23a25cc84d93916d57cdf6f9cc1db031]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2018/171/regulation/7A) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2021/1357/regulation/6)
 
-[^key-ec4e13be9c2f6a0ffcdc28af8882a05b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/171/regulation/8) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-ec4e13be9c2f6a0ffcdc28af8882a05b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/171/regulation/8) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
 [^f00006]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
 [^f00007]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-6df040ccaeffa12e1d9534f77451a613]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/171/regulation/9) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-6df040ccaeffa12e1d9534f77451a613]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/171/regulation/9) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-c5752adf757bbc93a8dc7a6ef8967a3e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/171/regulation/10) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-c5752adf757bbc93a8dc7a6ef8967a3e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/171/regulation/10) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-ffe9ebd87810dc3bc51268fcc25b2275]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/171/regulation/11) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-ffe9ebd87810dc3bc51268fcc25b2275]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/171/regulation/11) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-cf99a2211dfbe0076ab7e59277f1a51d]: Textual amendment: Words in [reg. 11(a)](https://www.legislation.gov.uk/uksi/2018/171/regulation/11/a) substituted (1.4.2024) by [The Waste Enforcement (Fixed Penalty Receipts) (Amendment) (England and Wales) Regulations 2024 (S.I. 2024/365)](https://www.legislation.gov.uk/uksi/2024/365), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/365/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2024/365/regulation/5/a)
+[^c-cf99a2211dfbe0076ab7e59277f1a51d]: Textual amendment: Words in [reg. 11(a)](https://www.legislation.gov.uk/uksi/2018/171/regulation/11/a) substituted (1.4.2024) by [The Waste Enforcement (Fixed Penalty Receipts) (Amendment) (England and Wales) Regulations 2024 (S.I. 2024/365)](https://www.legislation.gov.uk/uksi/2024/365), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/365/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2024/365/regulation/5/a)
 
 [^f00008]: Footnote: [2005 c.16](https://www.legislation.gov.uk/ukpga/2005/16).
 
-[^key-c1eff1f01849f7d3ec9536672a95e1a5]: Textual amendment: Words in [reg. 11(b)](https://www.legislation.gov.uk/uksi/2018/171/regulation/11/b) substituted (1.4.2024) by [The Waste Enforcement (Fixed Penalty Receipts) (Amendment) (England and Wales) Regulations 2024 (S.I. 2024/365)](https://www.legislation.gov.uk/uksi/2024/365), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/365/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2024/365/regulation/5/b)
+[^c-c1eff1f01849f7d3ec9536672a95e1a5]: Textual amendment: Words in [reg. 11(b)](https://www.legislation.gov.uk/uksi/2018/171/regulation/11/b) substituted (1.4.2024) by [The Waste Enforcement (Fixed Penalty Receipts) (Amendment) (England and Wales) Regulations 2024 (S.I. 2024/365)](https://www.legislation.gov.uk/uksi/2024/365), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/365/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2024/365/regulation/5/b)
 
-[^key-c9d2165144ad0b669a6776545e064ef5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/171/regulation/12) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-c9d2165144ad0b669a6776545e064ef5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/171/regulation/12) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
 [^f00009]: Footnote: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14). Section 1 was amended by Schedule 8 to the Transport Act [1985 (c.67)](https://www.legislation.gov.uk/ukpga/1985/67).
 
@@ -599,38 +599,38 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00014]: Footnote: [1975 c.xx](https://www.legislation.gov.uk/ukla/1975/20).
 
-[^key-5affcc56f544c1aba01cfae0b52cae6f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/171/regulation/13) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-5affcc56f544c1aba01cfae0b52cae6f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/171/regulation/13) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-b879379273e52189c84b3cfffd815c8a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/171/regulation/14) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-b879379273e52189c84b3cfffd815c8a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/171/regulation/14) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-740dc2420940c740674d088abd93d73d]: Textual amendment: Words in [reg. 14(9)](https://www.legislation.gov.uk/uksi/2018/171/regulation/14/9) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2021/1357/regulation/7)
+[^c-740dc2420940c740674d088abd93d73d]: Textual amendment: Words in [reg. 14(9)](https://www.legislation.gov.uk/uksi/2018/171/regulation/14/9) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2021/1357/regulation/7)
 
 [^f00015]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39). “Hire-purchase agreement” is defined in section 189.
 
-[^key-c18455e1964e5f7b9c8c9bd72257125b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/171/regulation/15) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-c18455e1964e5f7b9c8c9bd72257125b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/171/regulation/15) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-f3be4d7bea196d2910642375863b1ddc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/171/regulation/16) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-f3be4d7bea196d2910642375863b1ddc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/171/regulation/16) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-6207e465cf3145f87a4d28f8d47f730a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/171/regulation/17) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-6207e465cf3145f87a4d28f8d47f730a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/171/regulation/17) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-4857341f425c14ee6610371244d67ed5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/171/regulation/18) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-4857341f425c14ee6610371244d67ed5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/171/regulation/18) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
 [^f00016]: Footnote: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-e360bd331daac5761ca9459d789a8996]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2018/171/regulation/18/1) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/uksi/2022/71/schedule/4/paragraph/7/2)
+[^c-e360bd331daac5761ca9459d789a8996]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2018/171/regulation/18/1) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/uksi/2022/71/schedule/4/paragraph/7/2)
 
-[^key-8bd67814c128ec94918075ad124cb306]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2018/171/regulation/18/3) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/uksi/2022/71/schedule/4/paragraph/7/3)
+[^c-8bd67814c128ec94918075ad124cb306]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2018/171/regulation/18/3) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/uksi/2022/71/schedule/4/paragraph/7/3)
 
-[^key-eef2af9aa4a2bcdfb4041dbf12504f9f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/171/regulation/19) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-eef2af9aa4a2bcdfb4041dbf12504f9f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/171/regulation/19) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-79908e81bd9c52d439ea3c77250b6185]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2018/171/regulation/19/1) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/8/a)
+[^c-79908e81bd9c52d439ea3c77250b6185]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2018/171/regulation/19/1) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/8/a)
 
-[^key-a6298301d4e6f86a0020d515163fb267]: Textual amendment: [Reg. 19(1)(oa)](https://www.legislation.gov.uk/uksi/2018/171/regulation/19/1/oa) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/8/c)
+[^c-a6298301d4e6f86a0020d515163fb267]: Textual amendment: [Reg. 19(1)(oa)](https://www.legislation.gov.uk/uksi/2018/171/regulation/19/1/oa) inserted (14.2.2022) by [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/8/c)
 
-[^key-a0acc7ce3a64e18803bd91db18bd9a25]: Textual amendment: [Reg. 19(1)(o)](https://www.legislation.gov.uk/uksi/2018/171/regulation/19/1/o) omitted (14.2.2022) by virtue of [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/8/b)
+[^c-a0acc7ce3a64e18803bd91db18bd9a25]: Textual amendment: [Reg. 19(1)(o)](https://www.legislation.gov.uk/uksi/2018/171/regulation/19/1/o) omitted (14.2.2022) by virtue of [The Littering From Vehicles Outside London (Keepers: Civil Penalties) (Amendment) Regulations 2021 (S.I. 2021/1357)](https://www.legislation.gov.uk/uksi/2021/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2021/1357/regulation/8/b)
 
-[^key-69397d704aa400c8f6faedb691c36d1c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/171/regulation/20) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-69397d704aa400c8f6faedb691c36d1c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/171/regulation/20) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
-[^key-632b07b631de88bd91a252fdd13301a5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/171/regulation/21) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
+[^c-632b07b631de88bd91a252fdd13301a5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/171/regulation/21) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2)
 
 [^f00018]: Footnote: Subsections (1) to (4C) were inserted by section 18 of the Clean Neighbourhoods and Environment Act 2005.

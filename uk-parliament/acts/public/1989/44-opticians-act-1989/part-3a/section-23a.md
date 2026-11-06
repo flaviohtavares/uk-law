@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. Service of notification[^key-c280234ebee53dff354585dc422916a6][^key-5da187b701e8d3f997274788a2039593][^key-4be6831b60d6149c70886030f19057eb]
+## 23A. Service of notification[^c-c280234ebee53dff354585dc422916a6][^c-5da187b701e8d3f997274788a2039593][^c-4be6831b60d6149c70886030f19057eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c280234ebee53dff354585dc422916a6]: Modification: S. 23A applied (30.6.2005) by [The General Optical Council (Registration Appeals Rules) Order of Council 2005 (S.I. 2005/1477)](https://www.legislation.gov.uk/uksi/2005/1477), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2005/1477/schedule/article/1), [45](https://www.legislation.gov.uk/uksi/2005/1477/article/45)
+[^c-c280234ebee53dff354585dc422916a6]: Modification: S. 23A applied (30.6.2005) by [The General Optical Council (Registration Appeals Rules) Order of Council 2005 (S.I. 2005/1477)](https://www.legislation.gov.uk/uksi/2005/1477), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2005/1477/schedule/article/1), [45](https://www.legislation.gov.uk/uksi/2005/1477/article/45)
 
-[^key-5da187b701e8d3f997274788a2039593]: Modification: S. 23A applied (30.6.2005) by [The General Optical Council (Fitness to Practise Rules) Order of Council 2005 (S.I. 2005/1475)](https://www.legislation.gov.uk/uksi/2005/1475), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2005/1475/schedule/article/1), [65(1)](https://www.legislation.gov.uk/uksi/2005/1475/schedule/rule/65/1)
+[^c-5da187b701e8d3f997274788a2039593]: Modification: S. 23A applied (30.6.2005) by [The General Optical Council (Fitness to Practise Rules) Order of Council 2005 (S.I. 2005/1475)](https://www.legislation.gov.uk/uksi/2005/1475), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2005/1475/schedule/article/1), [65(1)](https://www.legislation.gov.uk/uksi/2005/1475/schedule/rule/65/1)
 
-[^key-4be6831b60d6149c70886030f19057eb]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(2)](https://www.legislation.gov.uk/uksi/2005/848/article/17/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-4be6831b60d6149c70886030f19057eb]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(2)](https://www.legislation.gov.uk/uksi/2005/848/article/17/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

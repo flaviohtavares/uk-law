@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. The ICRIR’s use of information obtained by it[^key-3210eb09fcc6f6503f57a2b2acc35ee9][^key-432242a514d58809e2b2c8606cb594e5]
+## 31. The ICRIR’s use of information obtained by it[^c-3210eb09fcc6f6503f57a2b2acc35ee9][^c-432242a514d58809e2b2c8606cb594e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ may be used by the ICRIR for the purposes of, or in connection with, the exercis
 
 ## Annotations
 
-[^key-3210eb09fcc6f6503f57a2b2acc35ee9]: Commencement: S. 31 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-3210eb09fcc6f6503f57a2b2acc35ee9]: Commencement: S. 31 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-432242a514d58809e2b2c8606cb594e5]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/41/section/31) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/v) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-432242a514d58809e2b2c8606cb594e5]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/41/section/31) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/v) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

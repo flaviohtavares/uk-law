@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Northern Ireland Social Care Council (Appointments and Procedure) Regulations (Northern Ireland) 2001[^key-b114fca4ee658692c38fdb92a4d16415]
+## 153. Northern Ireland Social Care Council (Appointments and Procedure) Regulations (Northern Ireland) 2001[^c-b114fca4ee658692c38fdb92a4d16415]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In regulation 10 of the Northern Ireland Social Care Council (Appointments and P
 
 ## Annotations
 
-[^key-b114fca4ee658692c38fdb92a4d16415]: Commencement: Reg. 153 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-b114fca4ee658692c38fdb92a4d16415]: Commencement: Reg. 153 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00260]: Footnote: [S.R. (N.I.) 2001/313](https://www.legislation.gov.uk/nisr/2001/313). Regulation 10 was amended by [S.R. (N.I.) 2002/349](https://www.legislation.gov.uk/nisr/2002/349).

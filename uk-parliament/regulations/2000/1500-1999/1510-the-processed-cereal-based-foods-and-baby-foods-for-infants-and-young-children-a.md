@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Amendment) (England) Regulations 2000 (revoked)[^key-7b1c335870029c9006071ea6450f15f5]
+The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Amendment) (England) Regulations 2000 (revoked)[^c-7b1c335870029c9006071ea6450f15f5]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1st July 2002
 
-[^key-7b1c335870029c9006071ea6450f15f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b1c335870029c9006071ea6450f15f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-7b1c335870029c9006071ea6450f15f5]
+## 1. Title, commencement and extent[^c-7b1c335870029c9006071ea6450f15f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of previous Regulations[^key-7b1c335870029c9006071ea6450f15f5]
+## 2. Amendment of previous Regulations[^c-7b1c335870029c9006071ea6450f15f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b1c335870029c9006071ea6450f15f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b1c335870029c9006071ea6450f15f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b1c335870029c9006071ea6450f15f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b1c335870029c9006071ea6450f15f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b1c335870029c9006071ea6450f15f5]: Textual amendment: Regulations revoked (6.3.2005) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003 (S.I. 2003/3207)](https://www.legislation.gov.uk/uksi/2003/3207), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3207/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2003/3207/regulation/13/2)
+[^c-7b1c335870029c9006071ea6450f15f5]: Textual amendment: Regulations revoked (6.3.2005) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003 (S.I. 2003/3207)](https://www.legislation.gov.uk/uksi/2003/3207), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3207/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2003/3207/regulation/13/2)

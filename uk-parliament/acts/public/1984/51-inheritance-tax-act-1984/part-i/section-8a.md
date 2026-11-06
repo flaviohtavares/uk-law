@@ -31,7 +31,7 @@ summary: ''
 
 where—
 
-M is the maximum amount that could be transferred by a chargeable transfer made (under section 4 above) on the person's death if it were to be wholly chargeable to tax at the rate of nil per cent. (assuming, if necessary, that the value of the person's estate were sufficient but that the maximum amount chargeable at nil per cent. under section 8D(2) is equal to the person's residence nil-rate amount and[^key-bf6fd2bbd54e53bcf48a345787201a91] otherwise having regard to the circumstances of the person); and
+M is the maximum amount that could be transferred by a chargeable transfer made (under section 4 above) on the person's death if it were to be wholly chargeable to tax at the rate of nil per cent. (assuming, if necessary, that the value of the person's estate were sufficient but that the maximum amount chargeable at nil per cent. under section 8D(2) is equal to the person's residence nil-rate amount and[^c-bf6fd2bbd54e53bcf48a345787201a91] otherwise having regard to the circumstances of the person); and
 
 VT is the value actually transferred by the chargeable transfer so made (or nil if no chargeable transfer is so made).
 
@@ -60,4 +60,4 @@ NRBMD is the nil-rate band maximum at the time of the deceased person's death.
 
 [^c21430381]: Textual amendment: Ss. 8A-8C inserted (with effect as mentioned in [Sch. 4 para. 9(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/4/paragraph/9/1) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 10](https://www.legislation.gov.uk/ukpga/2008/9/section/10), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/4/paragraph/2) (with transitional modifications in [Sch. 4 paras. 10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/4/paragraph/10), [11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/4/paragraph/11))
 
-[^key-bf6fd2bbd54e53bcf48a345787201a91]: Textual amendment: Words in s. 8A(2) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(3)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/3)
+[^c-bf6fd2bbd54e53bcf48a345787201a91]: Textual amendment: Words in s. 8A(2) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(3)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 152. Amount of transferred pension[^key-468e257443080bbbf0931674c8ad13dc]
+## 152. Amount of transferred pension[^c-468e257443080bbbf0931674c8ad13dc]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-468e257443080bbbf0931674c8ad13dc]: Commencement: Reg. 152 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-468e257443080bbbf0931674c8ad13dc]: Commencement: Reg. 152 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

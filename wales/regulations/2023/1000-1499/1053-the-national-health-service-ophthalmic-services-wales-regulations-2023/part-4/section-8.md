@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Provision of primary ophthalmic services[^key-5ce579d3081eb0d8b86f521ae60fd49e]
+## 8. Provision of primary ophthalmic services[^c-5ce579d3081eb0d8b86f521ae60fd49e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ce579d3081eb0d8b86f521ae60fd49e]: Commencement: Reg. 8 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-5ce579d3081eb0d8b86f521ae60fd49e]: Commencement: Reg. 8 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

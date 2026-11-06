@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 11 — Removal of important hedgerows[^key-b74ca7a990c8586157633cf878955e8a]
+## SCHEDULE 11 — Removal of important hedgerows[^c-b74ca7a990c8586157633cf878955e8a]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ Article 32
 
 ## Annotations
 
-[^key-b74ca7a990c8586157633cf878955e8a]: Commencement: Sch. 11 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-b74ca7a990c8586157633cf878955e8a]: Commencement: Sch. 11 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

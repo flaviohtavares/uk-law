@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 164. Directions under section 48 of the 2013 Act[^key-8989c0d6541f8f285ecc02f7fffeee7e]
+## 164. Directions under section 48 of the 2013 Act[^c-8989c0d6541f8f285ecc02f7fffeee7e]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8989c0d6541f8f285ecc02f7fffeee7e]: Commencement: S. 164 in force at 1.4.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 3(b)](https://www.legislation.gov.uk/uksi/2021/231/article/3/b)
+[^c-8989c0d6541f8f285ecc02f7fffeee7e]: Commencement: S. 164 in force at 1.4.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 3(b)](https://www.legislation.gov.uk/uksi/2021/231/article/3/b)

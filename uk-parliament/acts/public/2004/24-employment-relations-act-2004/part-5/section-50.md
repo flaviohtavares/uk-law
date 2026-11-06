@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Amalgamations: approval, listing and certification[^key-69579a1d492c148d600485aa961657d9]
+## 50. Amalgamations: approval, listing and certification[^c-69579a1d492c148d600485aa961657d9]
 
 *Extent: E+W+S*
 
@@ -101,4 +101,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69579a1d492c148d600485aa961657d9]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2004/24/section/50) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 17](https://www.legislation.gov.uk/uksi/2005/872/article/17), [18](https://www.legislation.gov.uk/uksi/2005/872/article/18))
+[^c-69579a1d492c148d600485aa961657d9]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2004/24/section/50) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 17](https://www.legislation.gov.uk/uksi/2005/872/article/17), [18](https://www.legislation.gov.uk/uksi/2005/872/article/18))

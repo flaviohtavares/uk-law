@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Training for local planning authorities in England[^key-ed8b23817330426fa26041b5eafc915d]
+## 53. Training for local planning authorities in England[^c-ed8b23817330426fa26041b5eafc915d]
 
 *Extent: E+W*
 
@@ -116,4 +116,4 @@ In the [Town and Country Planning Act 1990](https://www.legislation.gov.uk/ukpga
 
 ## Annotations
 
-[^key-ed8b23817330426fa26041b5eafc915d]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2025/34/section/53) in force at 18.2.2026, see [s. 118(2)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/b)
+[^c-ed8b23817330426fa26041b5eafc915d]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2025/34/section/53) in force at 18.2.2026, see [s. 118(2)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/b)

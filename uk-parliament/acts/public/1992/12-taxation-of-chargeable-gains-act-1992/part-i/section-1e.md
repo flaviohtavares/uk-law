@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1E. Losses deductible only when within scope of tax etc[^key-8f1b51e533ff9b07068f2c9150edcf5f]
+## 1E. Losses deductible only when within scope of tax etc[^c-8f1b51e533ff9b07068f2c9150edcf5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) An allowable loss counts for the purposes of subsection (2) even if it accrues in a tax year in which the person was UK resident.
 
-(4)[^key-c98043de4388b11b6c6a9cd82f2e27fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c98043de4388b11b6c6a9cd82f2e27fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) If—
 
@@ -35,14 +35,14 @@ summary: ''
 
 the deduction applicable to each amount is the proportion that the amount concerned bears to the total of the amounts.
 
-(6) The deduction of allowable losses also has effect subject to paragraph 5 of Schedule D1 (relief for new residents on foreign gains)[^key-72aa5a7f574266a5a3651b48ef1b8251].
+(6) The deduction of allowable losses also has effect subject to paragraph 5 of Schedule D1 (relief for new residents on foreign gains)[^c-72aa5a7f574266a5a3651b48ef1b8251].
 
 (7) For the only case in which an allowable loss accruing in a tax year may be carried back to an earlier tax year, see section 62 (death).
 
 ## Annotations
 
-[^key-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
+[^c-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
 
-[^key-c98043de4388b11b6c6a9cd82f2e27fa]: Textual amendment: S. 1E(4) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 53](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/53), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-c98043de4388b11b6c6a9cd82f2e27fa]: Textual amendment: S. 1E(4) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 53](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/53), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
 
-[^key-72aa5a7f574266a5a3651b48ef1b8251]: Textual amendment: Words in s. 1E(6) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(4)(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/4/11)
+[^c-72aa5a7f574266a5a3651b48ef1b8251]: Textual amendment: Words in s. 1E(6) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(4)(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/4/11)

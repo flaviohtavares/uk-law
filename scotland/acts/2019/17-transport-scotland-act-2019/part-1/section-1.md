@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Preparation of strategy[^key-132a996903e7300c874014fb83d0e0d0]
+## 1. Preparation of strategy[^c-132a996903e7300c874014fb83d0e0d0]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-132a996903e7300c874014fb83d0e0d0]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/17/section/1) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)
+[^c-132a996903e7300c874014fb83d0e0d0]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/17/section/1) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)

@@ -45,7 +45,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 7(3) of the Pollution Prevention and Control Act 1999[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement, interpretation and extent[^key-0cedc4b17f385b24ff6f82ced00d936f]
+## 1. Citation, commencement, interpretation and extent[^c-0cedc4b17f385b24ff6f82ced00d936f]
 
 (1) This Order may be cited as the Pollution Prevention and Control Act 1999 (Commencement No. 3) (Scotland) Order 2015 and comes into force on 1st April 2015.
 
@@ -53,7 +53,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) This Order extends to Scotland only.
 
-## 2. Appointed day[^key-b3e0c130a060be68ffc2d762b7a69a51]
+## 2. Appointed day[^c-b3e0c130a060be68ffc2d762b7a69a51]
 
 (1) 1st April 2015 is the day appointed for the coming into force of section 6(1) of, and Schedule 2 to, the 1999 Act so far as relating to the amendments specified in paragraphs 13 and 15 of Schedule 2.
 
@@ -80,11 +80,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
     - (aa) paragraph (a) of the definition of “local enforcing authority”;
     - (bb) in paragraph (g) of the definition of “pollution control functions” in relation to the Environment Agency or the Scottish Environmental Protection Agency, “I,”; and
     - (cc) in paragraph (a) of the definition of “pollution control functions” in relation to a local enforcing authority, “I or”;
-- (h)[^key-4dcf65faf03a002ff4294e330d3fd4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-4dcf65faf03a002ff4294e330d3fd4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-4dcf65faf03a002ff4294e330d3fd4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-4dcf65faf03a002ff4294e330d3fd4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (l)[^key-4dcf65faf03a002ff4294e330d3fd4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-4dcf65faf03a002ff4294e330d3fd4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-4dcf65faf03a002ff4294e330d3fd4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-4dcf65faf03a002ff4294e330d3fd4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-4dcf65faf03a002ff4294e330d3fd4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-4dcf65faf03a002ff4294e330d3fd4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 AILEEN McLEOD
 
@@ -131,9 +131,9 @@ The following provisions of the Pollution Prevention and Control Act 1999 have b
 
 [^f00001]: Footnote: [1999 c.24](https://www.legislation.gov.uk/ukpga/1999/24). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-0cedc4b17f385b24ff6f82ced00d936f]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/74/article/1) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/74/article/1/1)
+[^c-0cedc4b17f385b24ff6f82ced00d936f]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/74/article/1) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/74/article/1/1)
 
-[^key-b3e0c130a060be68ffc2d762b7a69a51]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/74/article/2) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/74/article/1/1)
+[^c-b3e0c130a060be68ffc2d762b7a69a51]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/74/article/2) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/74/article/1/1)
 
 [^f00002]: Footnote: [1971 c.60](https://www.legislation.gov.uk/ukpga/1971/60).
 
@@ -151,4 +151,4 @@ The following provisions of the Pollution Prevention and Control Act 1999 have b
 
 [^f00009]: Footnote: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-4dcf65faf03a002ff4294e330d3fd4c7]: Textual amendment: [Art. 2(2)(h)-(l)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/h) omitted (31.3.2015) by virtue of [The Pollution Prevention and Control Act 1999 (Commencement No. 4 and Amendment) (Scotland) Order 2015 (S.S.I. 2015/139)](https://www.legislation.gov.uk/ssi/2015/139), [art. 2](https://www.legislation.gov.uk/ssi/2015/139/article/2)
+[^c-4dcf65faf03a002ff4294e330d3fd4c7]: Textual amendment: [Art. 2(2)(h)-(l)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/h) omitted (31.3.2015) by virtue of [The Pollution Prevention and Control Act 1999 (Commencement No. 4 and Amendment) (Scotland) Order 2015 (S.S.I. 2015/139)](https://www.legislation.gov.uk/ssi/2015/139), [art. 2](https://www.legislation.gov.uk/ssi/2015/139/article/2)

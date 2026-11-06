@@ -52,11 +52,11 @@ In accordance with section 3(5) of the 2013 Act these Regulations are made with 
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-faab4a5c6c242c92bd813c05991a7f39]
+### 1. Citation and commencement[^c-faab4a5c6c242c92bd813c05991a7f39]
 
 These Regulations may be cited as the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 and come into force on 1st April 2015.
 
-### 2. Interpretation[^key-9313648e5d8f2a7277f4b11bba54ca66]
+### 2. Interpretation[^c-9313648e5d8f2a7277f4b11bba54ca66]
 
 (1) In these Regulations—
 
@@ -72,13 +72,13 @@ These Regulations may be cited as the Teachers (Compensation for Redundancy and 
 - “the 2014 Regulations” means the Teachers’ Pension Scheme Regulations 2014[^f00006];
 - “the 2015 scheme” means the scheme established by the 2014 Regulations;
 - “adult compensation” has the meaning given in regulation 23;
-- “appropriate person” means—[^key-77c5515123f6ee29b01d42e9ec7d1742]
+- “appropriate person” means—[^c-77c5515123f6ee29b01d42e9ec7d1742]
   - (a) in the case of a person employed at a foundation or voluntary aided school or a foundation special school within the meaning of section 20 of the 1998 Act, the local authority;
   - (b) in the case of any other employee, the person by whom the employee was employed;
-- “compensating authority” is to be construed in accordance with regulation 33(3)[^key-cd740a92e22822e2956c0eeede5f32bf] and Schedule 2;
+- “compensating authority” is to be construed in accordance with regulation 33(3)[^c-cd740a92e22822e2956c0eeede5f32bf] and Schedule 2;
 - “credited teacher” has the meaning given in regulation 17;
 - “credited period” has the meaning given in regulation 17;
-- “deciding authority” is to be construed in accordance with regulation 33(2)[^key-133c86b4f4cd16b4c84e4e238cf20cd3] and Schedule 2;
+- “deciding authority” is to be construed in accordance with regulation 33(2)[^c-133c86b4f4cd16b4c84e4e238cf20cd3] and Schedule 2;
 - “effective service” has the meaning given in regulation 17(5);
 - “eligible teacher” has the meaning given in regulation 14(2);
 - “former employment” in relation to an eligible teacher or a credited teacher means relevant employment in relation to which the conditions in regulation 14(3) are satisfied, and “former employer” means the person who employed the teacher in that employment;
@@ -100,11 +100,11 @@ These Regulations may be cited as the Teachers (Compensation for Redundancy and 
 
 (4) For the purposes of these Regulations, a grant-maintained or grant-maintained special school is, in respect of any period before 1st September 1999, to be treated as a school maintained by a local authority.
 
-### 2A. Delegation of scheme manager functions[^key-c8d018b4ece8ea60d1c1514d8ea328b1]
+### 2A. Delegation of scheme manager functions[^c-c8d018b4ece8ea60d1c1514d8ea328b1]
 
 The scheme manager may delegate any functions exercisable by the scheme manager under these Regulations, including this power to delegate.
 
-### 3. Relevant employment[^key-1fd1798f2f296c4b68a14d55cfe555ff]
+### 3. Relevant employment[^c-1fd1798f2f296c4b68a14d55cfe555ff]
 
 (1) Subject to paragraph (3), relevant employment is employment falling within paragraphs 1, 2, 4, 6 or 7 of Schedule 2 to the 2010 Regulations or paragraphs 9, 10, 12, 14 or 15 of Schedule 1 to the 2014 Regulations.
 
@@ -117,7 +117,7 @@ to undertake the same, or substantially the same, functions as the person was un
 
 (3) Employment falling within paragraph 6 or 7 of Schedule 2 to the 2010 Regulations or paragraph 14 or 15 of Schedule 1 to the 2014 Regulations is only relevant employment if it is at an institution which is within the further education sector as defined in section 91(3) of the Further and Higher Education Act 1992[^f00015]
 
-### 4. Normal pension age[^key-dbd53a16a977010d2a78a8f4989e6aea]
+### 4. Normal pension age[^c-dbd53a16a977010d2a78a8f4989e6aea]
 
 (1) Subject to paragraphs (2) and (3), a person’s normal pension age is to be determined in accordance with Part 7 of the 2010 Regulations and regulation 3 of the 2014 Regulations.
 
@@ -132,11 +132,11 @@ to undertake the same, or substantially the same, functions as the person was un
 
 ## PART 2 — Discretionary Compensation for Redundancy
 
-### 5. Application of this Part[^key-458346512bfccd5fea91bc1d1b78165d]
+### 5. Application of this Part[^c-458346512bfccd5fea91bc1d1b78165d]
 
 This Part applies to any person (P) who has become entitled to a redundancy payment under Part 11 of the 1996 Act in consequence of P having ceased to be employed in relevant employment.
 
-### 6. Discretionary compensation for redundancy[^key-025e40ec7339e0fd15a3825682bdb09d]
+### 6. Discretionary compensation for redundancy[^c-025e40ec7339e0fd15a3825682bdb09d]
 
 The appropriate person may pay to a person to whom this Part applies compensation which does not exceed the difference between—
 
@@ -145,11 +145,11 @@ The appropriate person may pay to a person to whom this Part applies compensatio
 
 ## PART 3 — Discretionary Compensation for Termination
 
-### 7. Application of this Part[^key-047ab2ceb228907db63ecdf53b0646ab]
+### 7. Application of this Part[^c-047ab2ceb228907db63ecdf53b0646ab]
 
 This Part applies to any person (P) who has ceased on or after 1st April 1997 to be employed in relevant employment by reason of P’s redundancy or in the interests of the efficient discharge of P’s employer’s functions.
 
-### 8. Discretionary compensation for termination[^key-cef2eca72703f74e92b2455f5ed289b6]
+### 8. Discretionary compensation for termination[^c-cef2eca72703f74e92b2455f5ed289b6]
 
 Subject to section 37(1) to (3) of the 2002 Act[^f00016] the appropriate person may pay to a person to whom this Part applies compensation which does not exceed A-B where—
 
@@ -162,7 +162,7 @@ B is the aggregate of—
 
 ## PART 4 — Mandatory Compensation for Premature Retirement
 
-### 9. Entitlement to mandatory compensation[^key-2bae4747286edd6a58ad0d6e88b100e7]
+### 9. Entitlement to mandatory compensation[^c-2bae4747286edd6a58ad0d6e88b100e7]
 
 (1) A person to whom paragraphs (3) and (5) or paragraphs (4) and (5) apply is eligible for annual compensation under these Regulations.
 
@@ -204,7 +204,7 @@ B is the aggregate of—
 
 (6) A transition member who is eligible for annual compensation in respect of pension accrued in the 2015 scheme is also eligible for annual compensation in respect of pension accrued in the existing scheme.
 
-### 10. Calculation of annual compensation[^key-80489d462bb191f58450e8e68bd3445f]
+### 10. Calculation of annual compensation[^c-80489d462bb191f58450e8e68bd3445f]
 
 (1) Subject to paragraph 2, a person (P)’s rate of annual compensation under regulation 9(1) is—
 
@@ -218,11 +218,11 @@ B is the aggregate of—
 - (a) the annual rate of P’s retirement pension calculated subject to regulation 120 of the 2010 Regulations; and
 - (b) the annual rate of P’s retirement pension calculated without reference to that regulation.
 
-### 11. Calculation of lump sum compensation[^key-4254d78da501a53aada0929a140f7233]
+### 11. Calculation of lump sum compensation[^c-4254d78da501a53aada0929a140f7233]
 
 The lump sum compensation payable to a person under regulation 9(2) is the amount of any reduction made under regulation 62(6) of the 2010 Regulations to the person’s retirement lump sum.
 
-### 12. Further death grants[^key-46528416ffe678c60f5f7de68f5e6d35]
+### 12. Further death grants[^c-46528416ffe678c60f5f7de68f5e6d35]
 
 (1) This regulation applies if a death grant is payable under regulation 87 of the 2010 Regulations or regulation 141 of the 2014 Regulations, whether or not such a grant is paid.
 
@@ -234,7 +234,7 @@ B is the amount of compensation paid to the person since the compensation became
 
 (3) If regulation 31 applies any amount by which the annual rate of compensation is reduced under that regulation is treated as being payable for the purposes of the calculation in paragraph (2).
 
-### 13. Entitlement to short-term family benefits[^key-214fa27926a9bdde954677c15eb265c3]
+### 13. Entitlement to short-term family benefits[^c-214fa27926a9bdde954677c15eb265c3]
 
 (1) This regulation applies if—
 
@@ -253,7 +253,7 @@ B is the amount of compensation paid to the person since the compensation became
 
 ## PART 5 — Discretionary Compensation for Premature Retirement
 
-### 14. Application of this Part[^key-4111b16c54995d78a7f56b983cf65ccd]
+### 14. Application of this Part[^c-4111b16c54995d78a7f56b983cf65ccd]
 
 (1) This Part applies to eligible teachers.
 
@@ -269,17 +269,17 @@ B is the amount of compensation paid to the person since the compensation became
 - (b) there is no entitlement for P’s case to be considered or further considered for the payment of long-term or retirement compensation under the Colleges of Education (Compensation) Regulations 1975[^f00017] (whether or not by way of review under regulation 32 of those Regulations) in respect of the termination of employment;
 - (c) P has not received, and is not entitled to receive, a payment under section 37(1) to (3) of the 2002 Act.
 
-### 15. Interpretation of this Part[^key-0bb860173b280bccf867933f8283dbf1]
+### 15. Interpretation of this Part[^c-0bb860173b280bccf867933f8283dbf1]
 
 (1) In this part, “notional annual compensation rate” means the rate at which annual compensation would have been payable under regulation 19(1) immediately before the recipient’s death if there had been left out of account any reduction under regulation 27(4)(b), 28, 30 or 31.
 
 (2) For the purposes of paragraph (1), if the deceased died in new employment which was pensionable employment the deceased is to be taken to have ceased to be in that employment immediately before death.
 
-### 16. Adjustments[^key-67c99eb5339ccf5e25ac7f612a3c2c27]
+### 16. Adjustments[^c-67c99eb5339ccf5e25ac7f612a3c2c27]
 
 Adjustments to compensation payable under this Part may be made under Part 6.
 
-### 17. Discretion to credit an additional period of service[^key-d8284b85ce9cd22548a40605d5957f3f]
+### 17. Discretion to credit an additional period of service[^c-d8284b85ce9cd22548a40605d5957f3f]
 
 (1) The deciding authority may credit an eligible teacher, including an eligible teacher who has since died, (“a credited teacher”) with a period of service (“the credited period”).
 
@@ -298,13 +298,13 @@ Adjustments to compensation payable under this Part may be made under Part 6.
 - (a) any period or periods which the member is entitled to count as reckonable service under the 2010 Regulations or pensionable service under the 2014 Regulations; and
 - (b) if the member’s employment was not pensionable service, any period which the member would have been entitled so to count if it had been.
 
-### 18. Entitlement of credited teacher to compensation[^key-1601b715b5888c62e188bc9a4fe48965]
+### 18. Entitlement of credited teacher to compensation[^c-1601b715b5888c62e188bc9a4fe48965]
 
 (1) A credited teacher is eligible for annual compensation.
 
 (2) A credited teacher who is eligible for lump sum compensation under regulation 9(2) is eligible for lump sum compensation under this Part.
 
-### 19. Calculation of annual compensation[^key-a62920c191534e29f44b0507abf76fcd]
+### 19. Calculation of annual compensation[^c-a62920c191534e29f44b0507abf76fcd]
 
 (1) Subject to regulations 27 and 28, the rate of annual compensation payable to a member of the existing scheme is calculated in accordance with the formula—
 
@@ -318,14 +318,14 @@ where A is the member’s period of credited service, B is the member’s averag
 
 where D is the member’s salary on the material date or, if the member was not a full time employee on the material date, the salary that would have been payable had the member been a full time employee on the material date and E is the period of credited service under regulation 17.
 
-### 20. Calculation of lump sum compensation[^key-4f0d4d93bd68388e3a14dbb153df4fe7]
+### 20. Calculation of lump sum compensation[^c-4f0d4d93bd68388e3a14dbb153df4fe7]
 
 Subject to regulations 27 and 28, the amount of lump sum compensation under regulation 18(2) is the difference between—
 
 - (a) the lump sum which would be payable under regulation 62 of the 2010 Regulations if the member’s credited service under regulation 17 were added to the member’s reckonable service under the 2010 Regulations; and
 - (b) the lump sum which would be payable under regulation 62 of the 2010 Regulations if no such addition were made.
 
-### 21. Short-term compensation on death[^key-db406b692c8bd98ffe159e4b1649ddfc]
+### 21. Short-term compensation on death[^c-db406b692c8bd98ffe159e4b1649ddfc]
 
 (1) This regulation applies if a credited teacher (C) dies and a pension—
 
@@ -340,21 +340,21 @@ Subject to regulations 27 and 28, the amount of lump sum compensation under regu
 
 (5) If the rate calculated in accordance with paragraph (3) is less than that of long-term compensation to which there is prospective entitlement under regulation 22, the rate of the short-term compensation is the same as that of the long-term compensation.
 
-### 22. Long-term compensation on death[^key-ad452d998eb0826b16d3c169c791c9a0]
+### 22. Long-term compensation on death[^c-ad452d998eb0826b16d3c169c791c9a0]
 
 Subject to regulation 25, compensation (“long-term compensation”) is to be paid to or, as the case may be, for the benefit of every person who became or would have become entitled to payment of a long-term pension if a credited teacher dies and a pension—
 
 - (a) becomes payable at the long-term rate under regulation 96 or 99 of the 2010 Regulations or regulation 144 or 151 of the 2014 Regulations; or
 - (b) would have become so payable but for an election under regulation 9 of the 2010 Regulations or regulation 28 or 31 of the 2014 Regulations.
 
-### 23. Adult Compensation[^key-fe81b73212378bb1ed6833b51bde91be]
+### 23. Adult Compensation[^c-fe81b73212378bb1ed6833b51bde91be]
 
 Subject to regulation 29, the rate of the long-term compensation payable to a person (P) who is not a child (“adult compensation”) is—
 
 - (a) if P is a member of the existing scheme with a normal pension age of 60, one half of the notional annual compensation rate;
-- (b)[^key-72ef5b163ade645d1f40a6eaf76d87ce] if P is a member of an existing scheme with a normal pension age of 65, a transition member or a member of the 2015 scheme, 37.5% of the notional annual compensation rate.
+- (b)[^c-72ef5b163ade645d1f40a6eaf76d87ce] if P is a member of an existing scheme with a normal pension age of 65, a transition member or a member of the 2015 scheme, 37.5% of the notional annual compensation rate.
 
-### 24. Child compensation[^key-ed9c6592886a2e30d0972f5fc0f1bda4]
+### 24. Child compensation[^c-ed9c6592886a2e30d0972f5fc0f1bda4]
 
 (1) Subject to regulation 29, the rate of long-term compensation payable to or for the benefit of a child or children while adult compensation is payable is—
 
@@ -366,7 +366,7 @@ Subject to regulation 29, the rate of the long-term compensation payable to a pe
 - (a) one third of the notional annual compensation rate if compensation is payable to one child;
 - (b) two thirds of the notional annual compensation rate if compensation is payable to two or more children.
 
-### 25. Duration of compensation on death[^key-cbfedf80e40aecc463dd7f53b39bc719]
+### 25. Duration of compensation on death[^c-cbfedf80e40aecc463dd7f53b39bc719]
 
 (1) Subject to paragraph (3), a person’s short-term compensation is payable from the day after that of the death, and the duration of the short-term compensation payable is to be ascertained from the table below.
 
@@ -389,11 +389,11 @@ Table
 
 ## PART 6 — Adjustments
 
-### 26. Application of this Part[^key-bc367d7bc3352b885d2d3aaadc4c90ad]
+### 26. Application of this Part[^c-bc367d7bc3352b885d2d3aaadc4c90ad]
 
 This Part applies to eligible teachers.
 
-### 27. Redundancy payments[^key-e37ea35400e9c8a35560c6157d46d228]
+### 27. Redundancy payments[^c-e37ea35400e9c8a35560c6157d46d228]
 
 (1) This regulation applies to a credited teacher (C) where—
 
@@ -418,7 +418,7 @@ where—
 - A is the amount of the redundancy payment;
 - B is the length of time, expressed in years and any fraction of a year, by which the credited period exceeds 6 2/3rds years.
 
-### 28. Termination payments[^key-c011f85a3d7b35470211f0a8a35384c0]
+### 28. Termination payments[^c-c011f85a3d7b35470211f0a8a35384c0]
 
 (1) This regulation applies to a credited teacher (C) who receives a termination payment.
 
@@ -450,7 +450,7 @@ where—
 
 (8) The reduction under paragraph (6)(b) in annual compensation payable under regulation 19 is a reduction in the total amount payable, and accordingly payment is to be suspended until the full reduction has been achieved
 
-### 29. Periodic payments[^key-34475518ab8d3ddac206d9ba03c2d23d]
+### 29. Periodic payments[^c-34475518ab8d3ddac206d9ba03c2d23d]
 
 (1) This regulation applies if—
 
@@ -467,7 +467,7 @@ where—
 
 (4) If the relevant periodic payments in respect of any period are less than the compensation referred to in paragraph (3), that compensation is to be reduced by the amount of those payments.
 
-### 30. Cessation of discretionary annual compensation during new employment[^key-6eb0be307a1f2af19369a3f08067f9b5]
+### 30. Cessation of discretionary annual compensation during new employment[^c-6eb0be307a1f2af19369a3f08067f9b5]
 
 (1) If a credited teacher (C) enters further employment, compensation payable under regulation 18(1) is to be reduced in accordance with this regulation.
 
@@ -497,7 +497,7 @@ where—
 
 ## PART 7 — Abatement
 
-### 31. Abatement of annual compensation during further employment[^key-e7110e13bcdfa3d50940b34dc7852e62]
+### 31. Abatement of annual compensation during further employment[^c-e7110e13bcdfa3d50940b34dc7852e62]
 
 (1) This regulation applies if the amount of retirement pension paid to a person (P) is reduced under regulations 64A and 64B of the 2010 Regulations.
 
@@ -530,7 +530,7 @@ where—
 - (a) regulation 64B of the 2010 Regulations is to be construed as if the former employment were pensionable employment;
 - (b) if P had more than one entitlement to annual compensation under regulation 19, R comprises the total annual compensation under regulation 19 but each component is to be reduced under paragraph (2)(b) only in the proportion which it bears to the total.
 
-### 32. Abatement of discretionary annual compensation following termination or redundancy payment[^key-89f306ae31b4a38b6275c24dd25b2079]
+### 32. Abatement of discretionary annual compensation following termination or redundancy payment[^c-89f306ae31b4a38b6275c24dd25b2079]
 
 (1) The annual compensation under regulation 19 is to be reduced by the amount of the termination or redundancy payment if—
 
@@ -543,7 +543,7 @@ where—
 
 ## PART 8 — Miscellaneous
 
-### 33. Deciding and compensating authorities[^key-4067c06abeadccc1839d4e7f785b1b01]
+### 33. Deciding and compensating authorities[^c-4067c06abeadccc1839d4e7f785b1b01]
 
 (1) Schedule 2 makes provision concerning the deciding authority and the compensating authority.
 
@@ -551,7 +551,7 @@ where—
 
 (3) The compensating authority is determined from the first and third columns of the table in Schedule 2.
 
-### 34. Categories of employment[^key-19364ff994f0e8fbc4578f9ca25ce41d]
+### 34. Categories of employment[^c-19364ff994f0e8fbc4578f9ca25ce41d]
 
 For the purposes of regulation 33—
 
@@ -565,7 +565,7 @@ For the purposes of regulation 33—
 
 (5) Category E comprises relevant employment at an institution within the further education sector as defined in section 91(3) of the Further and Higher Education Act 1992.
 
-### 35. Liability for compensation[^key-ce7a1cea9a9a138debcf347bb4d0b4d3]
+### 35. Liability for compensation[^c-ce7a1cea9a9a138debcf347bb4d0b4d3]
 
 (1) The cost of compensation to which a person is entitled under Parts 4 and 5 is to be met by the compensating authority.
 
@@ -593,7 +593,7 @@ the governing body of the successor establishment becomes the compensating autho
 
 (7) If the former employment did not fall within any of the categories A to E and the compensating authority as determined under paragraph (4) is not the Secretary of State the compensating authority is to pay to the Secretary of State on receipt of a written demand a sum equal to the actuarial value of the total compensation payable.
 
-### 36. Arrangements for payout[^key-8bb36b498aaf468469745bc7ddf7477e]
+### 36. Arrangements for payout[^c-8bb36b498aaf468469745bc7ddf7477e]
 
 (1) A compensating authority may—
 
@@ -606,7 +606,7 @@ the governing body of the successor establishment becomes the compensating autho
 - (b) for a single payment by the compensating authority of a sum equal to the actuarial value of the total compensation payable; or
 - (c) for the payment of such a sum by not more than five annual instalments.
 
-### 37. Notification[^key-e51047c24824c4899a01f5baed915b1d]
+### 37. Notification[^c-e51047c24824c4899a01f5baed915b1d]
 
 (1) The compensating authority is to give a written notification to every person to whom compensation has become payable or whose compensation is affected as soon as is reasonably practicable after—
 
@@ -620,13 +620,13 @@ the governing body of the successor establishment becomes the compensating autho
 - (a) if paragraph (1)(a), (b) or (c) applies, what compensation is payable and how this has been calculated;
 - (b) if paragraph (1)(d) applies, what adjustment has been made and how this has been calculated.
 
-### 38. Supply of information[^key-fce946f4be28d8e2cce865790d42e04a]
+### 38. Supply of information[^c-fce946f4be28d8e2cce865790d42e04a]
 
 (1) A credited teacher or a person eligible for compensation under regulation 9 who enters or leaves new employment is, within one month after doing so, to notify the compensating authority in writing of that fact.
 
 (2) A person to whom compensation is payable must provide the compensating authority with such information, and produce such documents, as the compensating authority may reasonably require for the purposes of its functions under these Regulations.
 
-### 39. Payment of compensation[^key-e5f0b3db0d2ac223b04d27a35d5f8669]
+### 39. Payment of compensation[^c-e5f0b3db0d2ac223b04d27a35d5f8669]
 
 (1) Compensation, other than lump sum compensation payable under regulation 11 or 20, is to be paid in arrears—
 
@@ -651,19 +651,19 @@ where—
 - (a) pay it to any person having the care of P; or
 - (b) apply it for the benefit of P or P’s dependents.
 
-### 40. Compensation not assignable[^key-e0b67b91c31b17e2de73e1cec0099d3e]
+### 40. Compensation not assignable[^c-e0b67b91c31b17e2de73e1cec0099d3e]
 
 (1) Any assignment of, or charge on, or agreement to assign or charge, any compensation payable under these Regulations is void.
 
 (2) On the bankruptcy of a person eligible for such compensation no part of the compensation is to pass to any trustee or other person acting on behalf of the creditors except in accordance with an income payments order made by a court under section 310 of the Insolvency Act 1986[^f00020].
 
-### 41. Modified application in relation to persons entitled to admitted service benefits[^key-1f17379072da467d9577c11a927ada99]
+### 41. Modified application in relation to persons entitled to admitted service benefits[^c-1f17379072da467d9577c11a927ada99]
 
 In relation to a person with admitted service these Regulations have effect subject to the modifications set out in Schedule 3.
 
 ## PART 9 — Consequential Amendments, Revocation and Transitional Provisions
 
-### 42. Consequential amendments to the 2010 Regulations[^key-72b20e0173f79649a5d3a6ed5de35d27]
+### 42. Consequential amendments to the 2010 Regulations[^c-72b20e0173f79649a5d3a6ed5de35d27]
 
 The 2010 Regulations are amended as follows—
 
@@ -679,14 +679,14 @@ The 2010 Regulations are amended as follows—
   - (i) in the heading, omit “and the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 1997”;
   - (ii) omit Part 2.
 
-### 43. Consequential amendments to the 2014 Regulations[^key-a966413779da2c9e1217b8045e425b0d]
+### 43. Consequential amendments to the 2014 Regulations[^c-a966413779da2c9e1217b8045e425b0d]
 
 The 2014 Regulations are amended as follows—
 
 - (a) in regulation 101(1)(e), for “Part 3 of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 1997”, substitute “Part 3 of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015”;
 - (b) in regulation 101(3)(a), for “regulation 3(7)(a) of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 1997”, substitute “regulation 34(1) of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015”.
 
-### 44. Revocation and transitional provisions[^key-23738911e2edf8121d9ef9bf22cd293b]
+### 44. Revocation and transitional provisions[^c-23738911e2edf8121d9ef9bf22cd293b]
 
 (1) The Regulations specified in Schedule 4 are revoked.
 
@@ -716,7 +716,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Regulation 17(2)
 
-**1.**[^key-41921b1e7deabdece371fa3cffd0bc5a] This paragraph applies if, before the cessation of the former employment of a credited teacher (C), C has been credited with a period of additional service, or C’s period of service has been increased, for the purpose of calculating—
+**1.**[^c-41921b1e7deabdece371fa3cffd0bc5a] This paragraph applies if, before the cessation of the former employment of a credited teacher (C), C has been credited with a period of additional service, or C’s period of service has been increased, for the purpose of calculating—
 
 - (a) retirement compensation under regulations made under section 259 of the Local Government Act[^f00022] on account of loss of employment;
 - (b) benefit under regulations made under section 260 of the Local Government Act1972;
@@ -724,7 +724,7 @@ Regulation 17(2)
 - (d) compensation under these Regulations or any regulations made under section 24 of the Superannuation Act 1972[^f00024] on account of the termination of C’s employment by reason of redundancy or in the interests of the efficient discharge of C’s employer’s functions;
 - (e) compensation under any contract or arrangement made before 31st August 1985 in the expectation that regulations would be made under that section providing for compensation for such termination of employment.
 
-**2.**[^key-47f069e8c79b3db2900ff32fea8d2f31] The period to be deducted, if paragraph 1 applies, from the first period mentioned in regulation 17(3)(a) is A – B – C, where—
+**2.**[^c-47f069e8c79b3db2900ff32fea8d2f31] The period to be deducted, if paragraph 1 applies, from the first period mentioned in regulation 17(3)(a) is A – B – C, where—
 
 A is the period with which C has been credited, or by which C’s service has been increased, as mentioned in paragraph 1;
 
@@ -732,7 +732,7 @@ B is any period by which A has been reduced in consequence of the cessation of s
 
 C is the aggregate of any periods falling between the cessation of employment that gave rise to A and the material date during which C was neither in pensionable employment nor in employment which would have been pensionable employment but for an election under regulation 9 of the 2010 Regulations or regulation 28 or 31 of the 2014 Regulations.
 
-## SCHEDULE 2 — Deciding and compensating authorities[^key-05dabd2830059b878d6bf4f8f9f5cd35]
+## SCHEDULE 2 — Deciding and compensating authorities[^c-05dabd2830059b878d6bf4f8f9f5cd35]
 
 Regulation 33
 
@@ -750,15 +750,15 @@ Table
 
 Regulation 41
 
-**1.**[^key-84a2dce6faa663300628b12d8323edad] A person who is entitled to an annual pension in respect of admitted service and to whom regulation 81(4) of the 2010 Regulations applies by virtue of Case D applying to the person’s reckonable service is entitled to annual compensation and to lump sum compensation under this Schedule.
+**1.**[^c-84a2dce6faa663300628b12d8323edad] A person who is entitled to an annual pension in respect of admitted service and to whom regulation 81(4) of the 2010 Regulations applies by virtue of Case D applying to the person’s reckonable service is entitled to annual compensation and to lump sum compensation under this Schedule.
 
-**2.**[^key-e03a6c2ce55b673bdff5560fc6f5f020] The rate of annual compensation is the difference between the rate of annual pension in respect of admitted service if calculated in accordance with regulation 81(2)(a) of the 2010 Regulations without any reduction under paragraph (4) of that regulation and the actual rate of annual pension.
+**2.**[^c-e03a6c2ce55b673bdff5560fc6f5f020] The rate of annual compensation is the difference between the rate of annual pension in respect of admitted service if calculated in accordance with regulation 81(2)(a) of the 2010 Regulations without any reduction under paragraph (4) of that regulation and the actual rate of annual pension.
 
-**3.**[^key-4b5d3a1740197799ba9486fd54d6a6a7] The amount of lump sum compensation is the amount by which the lump sum in respect of admitted service is reduced by virtue of regulation 81 of the 2010 Regulations.
+**3.**[^c-4b5d3a1740197799ba9486fd54d6a6a7] The amount of lump sum compensation is the amount by which the lump sum in respect of admitted service is reduced by virtue of regulation 81 of the 2010 Regulations.
 
-**4.**[^key-493e90eb632d7766c99ed45d20fe4237] Regulations 35, 36, 37, 38, 39 and 40 are to apply in relation to compensation payable under this Schedule as they apply in relation to compensation payable under regulation 9.
+**4.**[^c-493e90eb632d7766c99ed45d20fe4237] Regulations 35, 36, 37, 38, 39 and 40 are to apply in relation to compensation payable under this Schedule as they apply in relation to compensation payable under regulation 9.
 
-## SCHEDULE 4 — Revocations[^key-ba1f393b09956b3733222a87c0950a89]
+## SCHEDULE 4 — Revocations[^c-ba1f393b09956b3733222a87c0950a89]
 
 Regulation 44(1)
 
@@ -802,9 +802,9 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-faab4a5c6c242c92bd813c05991a7f39]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-faab4a5c6c242c92bd813c05991a7f39]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-9313648e5d8f2a7277f4b11bba54ca66]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-9313648e5d8f2a7277f4b11bba54ca66]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
 [^f00002]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -816,11 +816,11 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00006]: Footnote: [S.I. 2014/512](https://www.legislation.gov.uk/uksi/2014/512); amended by [S.I. 2014/2652](https://www.legislation.gov.uk/uksi/2014/2652) and [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-77c5515123f6ee29b01d42e9ec7d1742]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/2/2) substituted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [31(a)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/31/a)
+[^c-77c5515123f6ee29b01d42e9ec7d1742]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/2/2) substituted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [31(a)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/31/a)
 
-[^key-cd740a92e22822e2956c0eeede5f32bf]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/2/2) substituted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [31(b)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/31/b)
+[^c-cd740a92e22822e2956c0eeede5f32bf]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/2/2) substituted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [31(b)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/31/b)
 
-[^key-133c86b4f4cd16b4c84e4e238cf20cd3]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/2/2) substituted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [31(c)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/31/c)
+[^c-133c86b4f4cd16b4c84e4e238cf20cd3]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/2/2) substituted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [31(c)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/31/c)
 
 [^f00008]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 579 was substituted by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
@@ -832,9 +832,9 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00012]: Footnote: Chapter 2 of Part 14 was amended by the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), section 1(2)(a); the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), Schedule 3, paragraph 14; the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), section 36(1)(a) and (c), Schedule 4, Part 3, paragraphs 5, 39 and 40, Schedule 9, Table 2, Table 10; the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), Schedule 7, paragraphs 24, 45, 46, 47(1), (2) and (3); the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), Schedule 1, paragraphs 1, 8 and 9; [S.I. 2013/1949](https://www.legislation.gov.uk/uksi/2013/1949); the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 127(2)(c); and [S.I. 2014/382](https://www.legislation.gov.uk/uksi/2014/382).
 
-[^key-c8d018b4ece8ea60d1c1514d8ea328b1]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2015/601/regulation/2A) inserted (with effect from 1.4.2015) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(4)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/4), [32](https://www.legislation.gov.uk/uksi/2019/1134/regulation/32)
+[^c-c8d018b4ece8ea60d1c1514d8ea328b1]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2015/601/regulation/2A) inserted (with effect from 1.4.2015) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(4)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/4), [32](https://www.legislation.gov.uk/uksi/2019/1134/regulation/32)
 
-[^key-1fd1798f2f296c4b68a14d55cfe555ff]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-1fd1798f2f296c4b68a14d55cfe555ff]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
 [^f00013]: Footnote: [S.I 1997/3001](https://www.legislation.gov.uk/uksi/1997/3001); revoked by the 2010 Regulations
 
@@ -842,103 +842,103 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00015]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 91(3) was amended by the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), Schedule 8, paragraphs 1 and 13(1) and (2).
 
-[^key-dbd53a16a977010d2a78a8f4989e6aea]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-dbd53a16a977010d2a78a8f4989e6aea]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-458346512bfccd5fea91bc1d1b78165d]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-458346512bfccd5fea91bc1d1b78165d]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-025e40ec7339e0fd15a3825682bdb09d]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-025e40ec7339e0fd15a3825682bdb09d]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-047ab2ceb228907db63ecdf53b0646ab]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-047ab2ceb228907db63ecdf53b0646ab]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-cef2eca72703f74e92b2455f5ed289b6]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-cef2eca72703f74e92b2455f5ed289b6]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
 [^f00016]: Footnote: Section 37(1), (2) and (3) was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-2bae4747286edd6a58ad0d6e88b100e7]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-2bae4747286edd6a58ad0d6e88b100e7]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-80489d462bb191f58450e8e68bd3445f]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-80489d462bb191f58450e8e68bd3445f]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-4254d78da501a53aada0929a140f7233]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-4254d78da501a53aada0929a140f7233]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-46528416ffe678c60f5f7de68f5e6d35]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-46528416ffe678c60f5f7de68f5e6d35]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-214fa27926a9bdde954677c15eb265c3]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-214fa27926a9bdde954677c15eb265c3]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-4111b16c54995d78a7f56b983cf65ccd]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-4111b16c54995d78a7f56b983cf65ccd]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
 [^f00017]: Footnote: [S.I 1975/1092](https://www.legislation.gov.uk/uksi/1975/1092); amended by [S.I. 1981/1088](https://www.legislation.gov.uk/uksi/1981/1088).
 
-[^key-0bb860173b280bccf867933f8283dbf1]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-0bb860173b280bccf867933f8283dbf1]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-67c99eb5339ccf5e25ac7f612a3c2c27]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-67c99eb5339ccf5e25ac7f612a3c2c27]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-d8284b85ce9cd22548a40605d5957f3f]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-d8284b85ce9cd22548a40605d5957f3f]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-1601b715b5888c62e188bc9a4fe48965]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-1601b715b5888c62e188bc9a4fe48965]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-a62920c191534e29f44b0507abf76fcd]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-a62920c191534e29f44b0507abf76fcd]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-4f0d4d93bd68388e3a14dbb153df4fe7]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-4f0d4d93bd68388e3a14dbb153df4fe7]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-db406b692c8bd98ffe159e4b1649ddfc]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-db406b692c8bd98ffe159e4b1649ddfc]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-ad452d998eb0826b16d3c169c791c9a0]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-ad452d998eb0826b16d3c169c791c9a0]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-fe81b73212378bb1ed6833b51bde91be]: Commencement: Reg. 23 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-fe81b73212378bb1ed6833b51bde91be]: Commencement: Reg. 23 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-72ef5b163ade645d1f40a6eaf76d87ce]: Textual amendment: [Reg. 23(b)](https://www.legislation.gov.uk/uksi/2015/601/regulation/23/b) substituted for reg. 23(b)(c) (with effect from 1.4.2015) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(4)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/4), [33](https://www.legislation.gov.uk/uksi/2019/1134/regulation/33)
+[^c-72ef5b163ade645d1f40a6eaf76d87ce]: Textual amendment: [Reg. 23(b)](https://www.legislation.gov.uk/uksi/2015/601/regulation/23/b) substituted for reg. 23(b)(c) (with effect from 1.4.2015) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(4)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/4), [33](https://www.legislation.gov.uk/uksi/2019/1134/regulation/33)
 
-[^key-ed9c6592886a2e30d0972f5fc0f1bda4]: Commencement: Reg. 24 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-ed9c6592886a2e30d0972f5fc0f1bda4]: Commencement: Reg. 24 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-cbfedf80e40aecc463dd7f53b39bc719]: Commencement: Reg. 25 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-cbfedf80e40aecc463dd7f53b39bc719]: Commencement: Reg. 25 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-bc367d7bc3352b885d2d3aaadc4c90ad]: Commencement: Reg. 26 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-bc367d7bc3352b885d2d3aaadc4c90ad]: Commencement: Reg. 26 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-e37ea35400e9c8a35560c6157d46d228]: Commencement: Reg. 27 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-e37ea35400e9c8a35560c6157d46d228]: Commencement: Reg. 27 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-c011f85a3d7b35470211f0a8a35384c0]: Commencement: Reg. 28 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-c011f85a3d7b35470211f0a8a35384c0]: Commencement: Reg. 28 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-34475518ab8d3ddac206d9ba03c2d23d]: Commencement: Reg. 29 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-34475518ab8d3ddac206d9ba03c2d23d]: Commencement: Reg. 29 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-6eb0be307a1f2af19369a3f08067f9b5]: Commencement: Reg. 30 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-6eb0be307a1f2af19369a3f08067f9b5]: Commencement: Reg. 30 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-e7110e13bcdfa3d50940b34dc7852e62]: Commencement: Reg. 31 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-e7110e13bcdfa3d50940b34dc7852e62]: Commencement: Reg. 31 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-89f306ae31b4a38b6275c24dd25b2079]: Commencement: Reg. 32 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-89f306ae31b4a38b6275c24dd25b2079]: Commencement: Reg. 32 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-4067c06abeadccc1839d4e7f785b1b01]: Commencement: Reg. 33 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-4067c06abeadccc1839d4e7f785b1b01]: Commencement: Reg. 33 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-19364ff994f0e8fbc4578f9ca25ce41d]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-19364ff994f0e8fbc4578f9ca25ce41d]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
 [^f00018]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40); section 139 was repealed by the Further and Higher Education Act [1992 (c.13)](https://www.legislation.gov.uk/ukpga/1992/13), section 85(1).
 
 [^f00019]: Footnote: [2010 c. 32](https://www.legislation.gov.uk/ukpga/2010/32); section 1 was amended by the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), section 53, and the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), Schedule 3, Part 2, paragraph 95.
 
-[^key-ce7a1cea9a9a138debcf347bb4d0b4d3]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-ce7a1cea9a9a138debcf347bb4d0b4d3]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-8bb36b498aaf468469745bc7ddf7477e]: Commencement: Reg. 36 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-8bb36b498aaf468469745bc7ddf7477e]: Commencement: Reg. 36 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-e51047c24824c4899a01f5baed915b1d]: Commencement: Reg. 37 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-e51047c24824c4899a01f5baed915b1d]: Commencement: Reg. 37 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-fce946f4be28d8e2cce865790d42e04a]: Commencement: Reg. 38 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-fce946f4be28d8e2cce865790d42e04a]: Commencement: Reg. 38 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-e5f0b3db0d2ac223b04d27a35d5f8669]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-e5f0b3db0d2ac223b04d27a35d5f8669]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-e0b67b91c31b17e2de73e1cec0099d3e]: Commencement: Reg. 40 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-e0b67b91c31b17e2de73e1cec0099d3e]: Commencement: Reg. 40 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
 [^f00020]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 310 was amended by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), Schedule 3, Paragraph 15(a) and (b), the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 2, paragraph 2, the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), section 259 and Schedule 26 and [S.I. 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730) as amended by [S.I. 2012/709](https://www.legislation.gov.uk/uksi/2012/709).
 
-[^key-1f17379072da467d9577c11a927ada99]: Commencement: Reg. 41 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-1f17379072da467d9577c11a927ada99]: Commencement: Reg. 41 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-72b20e0173f79649a5d3a6ed5de35d27]: Commencement: Reg. 42 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-72b20e0173f79649a5d3a6ed5de35d27]: Commencement: Reg. 42 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-a966413779da2c9e1217b8045e425b0d]: Commencement: Reg. 43 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-a966413779da2c9e1217b8045e425b0d]: Commencement: Reg. 43 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-23738911e2edf8121d9ef9bf22cd293b]: Commencement: Reg. 44 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-23738911e2edf8121d9ef9bf22cd293b]: Commencement: Reg. 44 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
 [^f00021]: Footnote: [S.I. 1997/311](https://www.legislation.gov.uk/uksi/1997/311); amended by [S.I. 1998/2256](https://www.legislation.gov.uk/uksi/1998/2256), [1999/608](https://www.legislation.gov.uk/uksi/1999/608), [2000/664](https://www.legislation.gov.uk/uksi/2000/664), [2005/2198](https://www.legislation.gov.uk/uksi/2005/2198), [2006/2216](https://www.legislation.gov.uk/uksi/2006/2216), [2006/3122](https://www.legislation.gov.uk/uksi/2006/3122), [2010/990](https://www.legislation.gov.uk/uksi/2010/990), [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172) and [2014/107](https://www.legislation.gov.uk/uksi/2014/107).
 
-[^key-41921b1e7deabdece371fa3cffd0bc5a]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-41921b1e7deabdece371fa3cffd0bc5a]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
 [^f00022]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 259 was amended by the Local Government Act [1974 (c. 7)](https://www.legislation.gov.uk/ukpga/1974/7), section 39.
 
@@ -946,16 +946,16 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00024]: Footnote: There are amendments to section 24 which are not relevant to these Regulations.
 
-[^key-47f069e8c79b3db2900ff32fea8d2f31]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-47f069e8c79b3db2900ff32fea8d2f31]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-05dabd2830059b878d6bf4f8f9f5cd35]: Commencement: Sch. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-05dabd2830059b878d6bf4f8f9f5cd35]: Commencement: Sch. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-84a2dce6faa663300628b12d8323edad]: Commencement: Sch. 3 para. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-84a2dce6faa663300628b12d8323edad]: Commencement: Sch. 3 para. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-e03a6c2ce55b673bdff5560fc6f5f020]: Commencement: Sch. 3 para. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-e03a6c2ce55b673bdff5560fc6f5f020]: Commencement: Sch. 3 para. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-4b5d3a1740197799ba9486fd54d6a6a7]: Commencement: Sch. 3 para. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-4b5d3a1740197799ba9486fd54d6a6a7]: Commencement: Sch. 3 para. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-493e90eb632d7766c99ed45d20fe4237]: Commencement: Sch. 3 para. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-493e90eb632d7766c99ed45d20fe4237]: Commencement: Sch. 3 para. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
 
-[^key-ba1f393b09956b3733222a87c0950a89]: Commencement: Sch. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)
+[^c-ba1f393b09956b3733222a87c0950a89]: Commencement: Sch. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1)

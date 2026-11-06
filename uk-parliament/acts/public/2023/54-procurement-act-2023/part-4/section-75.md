@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Contract change notices[^key-150b50843a0259e27b257821d3f59017][^key-a2f0b37d694aa8ec3eaf4a7b5752c71a]
+## 75. Contract change notices[^c-150b50843a0259e27b257821d3f59017][^c-a2f0b37d694aa8ec3eaf4a7b5752c71a]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ unless the modification is a permitted modification under paragraph 9 of Schedul
 
 ## Annotations
 
-[^key-150b50843a0259e27b257821d3f59017]: Commencement: S. 75 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-150b50843a0259e27b257821d3f59017]: Commencement: S. 75 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-a2f0b37d694aa8ec3eaf4a7b5752c71a]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2023/54/section/75) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-a2f0b37d694aa8ec3eaf4a7b5752c71a]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2023/54/section/75) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

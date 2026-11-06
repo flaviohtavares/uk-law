@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Addition or variation of a network service.[^key-735b91f4ca9cecf702d7e317281bf1e6]
+## 183. Addition or variation of a network service.[^c-735b91f4ca9cecf702d7e317281bf1e6]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ and any part of the route in question, or any of the places mentioned in subsect
 
 ## Annotations
 
-[^key-735b91f4ca9cecf702d7e317281bf1e6]: Modification: S. 183 excluded (temp.) (E.W.) (5.10.2009) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [ss. 13(7)](https://www.legislation.gov.uk/ukpga/2006/12/section/13/7), [40(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/2) (with [s. 40(6)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/6)); [S.I. 2009/2577](https://www.legislation.gov.uk/uksi/2009/2577), [art. 2](https://www.legislation.gov.uk/uksi/2009/2577/article/2)
+[^c-735b91f4ca9cecf702d7e317281bf1e6]: Modification: S. 183 excluded (temp.) (E.W.) (5.10.2009) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [ss. 13(7)](https://www.legislation.gov.uk/ukpga/2006/12/section/13/7), [40(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/2) (with [s. 40(6)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/6)); [S.I. 2009/2577](https://www.legislation.gov.uk/uksi/2009/2577), [art. 2](https://www.legislation.gov.uk/uksi/2009/2577/article/2)

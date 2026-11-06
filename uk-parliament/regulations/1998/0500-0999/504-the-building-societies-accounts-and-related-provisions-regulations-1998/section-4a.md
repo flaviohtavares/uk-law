@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Accounts in euro[^key-033c6fe92fdb80d40b715764e9ea18db]
+## 4A. Accounts in euro[^c-033c6fe92fdb80d40b715764e9ea18db]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-033c6fe92fdb80d40b715764e9ea18db]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1998/504/regulation/4A) inserted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/3199/regulation/3)
+[^c-033c6fe92fdb80d40b715764e9ea18db]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1998/504/regulation/4A) inserted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/3199/regulation/3)

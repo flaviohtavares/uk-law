@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Right to repair or replacement[^key-df494b9997adc88da428cbe025f882da]
+## 43. Right to repair or replacement[^c-df494b9997adc88da428cbe025f882da]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df494b9997adc88da428cbe025f882da]: Commencement: S. 43 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-df494b9997adc88da428cbe025f882da]: Commencement: S. 43 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

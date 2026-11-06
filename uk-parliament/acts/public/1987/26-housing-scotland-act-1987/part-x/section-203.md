@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^c12777041][^key-99617341a1e92c7fbfacff9e3ade2aff][^key-c53f5cf027b95971827e983a807da245] A local authority shall keep a housing revenue account of the income and expenditure of the authority for each year in respect of the houses, buildings and land specified in Part I of Schedule 15, and Part I shall have effect for that purpose.
+(1)[^c12777041][^c-99617341a1e92c7fbfacff9e3ade2aff][^c-c53f5cf027b95971827e983a807da245] A local authority shall keep a housing revenue account of the income and expenditure of the authority for each year in respect of the houses, buildings and land specified in Part I of Schedule 15, and Part I shall have effect for that purpose.
 
 (2) A local authority may, with the consent of the Secretary of State, include in or exclude from the housing revenue account any individual house or other property or categories of houses or other properties.
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^c12777041]: Modification: S. 203(1): power to exclude conferred (1.11.2001) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 94(2)](https://www.legislation.gov.uk/asp/2001/10/section/94/2); [S.S.I. 2001/336](https://www.legislation.gov.uk/ssi/2001/336), [art. 2(3)](https://www.legislation.gov.uk/ssi/2001/336/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2001/336/schedule/part/II) (subject to [art. 3](https://www.legislation.gov.uk/ssi/2001/336/article/3))
 
-[^key-99617341a1e92c7fbfacff9e3ade2aff]: Modification: S. 203(1) disapplied (1.4.2007) by [The Housing (Scotland) Act 2001 (Alteration of Housing Finance Arrangements) Order 2007 (S.S.I. 2007/74)](https://www.legislation.gov.uk/ssi/2007/74), [arts. 1](https://www.legislation.gov.uk/ssi/2007/74/article/1), [3(b)](https://www.legislation.gov.uk/ssi/2007/74/article/3/b)
+[^c-99617341a1e92c7fbfacff9e3ade2aff]: Modification: S. 203(1) disapplied (1.4.2007) by [The Housing (Scotland) Act 2001 (Alteration of Housing Finance Arrangements) Order 2007 (S.S.I. 2007/74)](https://www.legislation.gov.uk/ssi/2007/74), [arts. 1](https://www.legislation.gov.uk/ssi/2007/74/article/1), [3(b)](https://www.legislation.gov.uk/ssi/2007/74/article/3/b)
 
-[^key-c53f5cf027b95971827e983a807da245]: Modification: S. 203(1) disapplied (1.4.2008) by [The Housing (Scotland) Act 2001 (Alteration of Housing Finance Arrangements) Order 2008 (S.S.I. 2008/28)](https://www.legislation.gov.uk/ssi/2008/28), [arts. 1](https://www.legislation.gov.uk/ssi/2008/28/article/1), [2](https://www.legislation.gov.uk/ssi/2008/28/article/2)
+[^c-c53f5cf027b95971827e983a807da245]: Modification: S. 203(1) disapplied (1.4.2008) by [The Housing (Scotland) Act 2001 (Alteration of Housing Finance Arrangements) Order 2008 (S.S.I. 2008/28)](https://www.legislation.gov.uk/ssi/2008/28), [arts. 1](https://www.legislation.gov.uk/ssi/2008/28/article/1), [2](https://www.legislation.gov.uk/ssi/2008/28/article/2)

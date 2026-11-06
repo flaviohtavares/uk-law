@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Disapplication of legislation, etc.[^key-319c5d83eab50544b844bcfcbe18a6a8]
+## 3. Disapplication of legislation, etc.[^c-319c5d83eab50544b844bcfcbe18a6a8]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-319c5d83eab50544b844bcfcbe18a6a8]: Commencement: Art. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-319c5d83eab50544b844bcfcbe18a6a8]: Commencement: Art. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294101]: Marginal citation: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 was amended by paragraph 192(2) of Schedule 22 to the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [paragraphs 25](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/25) and 32 of Schedule 2 to the [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 

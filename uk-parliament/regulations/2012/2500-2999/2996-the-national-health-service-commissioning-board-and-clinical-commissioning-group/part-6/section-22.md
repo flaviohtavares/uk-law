@@ -34,10 +34,10 @@ the relevant body must, having regard to the National Framework, agree a dispute
 
 (3) In complying with its duties under regulation 21 and this regulation, a relevant body must have due regard to the need to promote and secure the continuity of appropriate services for persons who—
 
-- (a) are receiving community care services under Part 1 of the Care Act 2014 (care and support) or section 117 of the Mental Health Act 1983 (after-care)[^key-90c3d39e306966a9f888ef876c49662b] on the date on which they are found to be eligible to receive NHS Continuing Healthcare;
+- (a) are receiving community care services under Part 1 of the Care Act 2014 (care and support) or section 117 of the Mental Health Act 1983 (after-care)[^c-90c3d39e306966a9f888ef876c49662b] on the date on which they are found to be eligible to receive NHS Continuing Healthcare;
 - (b) have been in receipt of NHS Continuing Healthcare but are determined to be no longer eligible for NHS Continuing Healthcare; or
 - (c) are otherwise determined to be ineligible for NHS Continuing Healthcare.
 
 ## Annotations
 
-[^key-90c3d39e306966a9f888ef876c49662b]: Textual amendment: Words in reg. 22(3)(a) substituted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/38/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4)); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
+[^c-90c3d39e306966a9f888ef876c49662b]: Textual amendment: Words in reg. 22(3)(a) substituted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/38/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4)); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)

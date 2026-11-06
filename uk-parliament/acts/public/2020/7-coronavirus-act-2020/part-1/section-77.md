@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-03a14f817ab0809016b72fb3158dada8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-03a14f817ab0809016b72fb3158dada8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-03a14f817ab0809016b72fb3158dada8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-03a14f817ab0809016b72fb3158dada8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5ff5f3defb6bfa5882291d4be6aa9fab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5ff5f3defb6bfa5882291d4be6aa9fab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03a14f817ab0809016b72fb3158dada8]: Textual amendment: S. 77(1)(2) expires (9.12.2021) by [The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399)](https://www.legislation.gov.uk/uksi/2021/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1399/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1399/regulation/2)
+[^c-03a14f817ab0809016b72fb3158dada8]: Textual amendment: S. 77(1)(2) expires (9.12.2021) by [The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399)](https://www.legislation.gov.uk/uksi/2021/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1399/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1399/regulation/2)
 
-[^key-5ff5f3defb6bfa5882291d4be6aa9fab]: Textual amendment: S. 77(3) expires (9.12.2021) by [The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399)](https://www.legislation.gov.uk/uksi/2021/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1399/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/1399/regulation/3)
+[^c-5ff5f3defb6bfa5882291d4be6aa9fab]: Textual amendment: S. 77(3) expires (9.12.2021) by [The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399)](https://www.legislation.gov.uk/uksi/2021/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1399/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/1399/regulation/3)

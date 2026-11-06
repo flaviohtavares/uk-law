@@ -36,7 +36,7 @@ summary: ''
 - “**caution**” has the same meaning as in Part V of the [^c9527101]Police Act 1997;
 - “**child**” means a person under the age of 14;
 - [^c21392631]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “**custodial sentence**” has the meaning given by section 222 of the Sentencing Code[^key-f37a658dccd7962e491a1ce73743c059];
+- “**custodial sentence**” has the meaning given by section 222 of the Sentencing Code[^c-f37a658dccd7962e491a1ce73743c059];
 - “**guardian**” has the same meaning as in the 1933 Act;
 - “[^c9527131]**local probation board**” means a local probation board established under section 4 of the Criminal Justice and Court Services Act 2000;
 - “**prescribed**” means prescribed by an order made by the Secretary of State;
@@ -78,7 +78,7 @@ summary: ''
 
 [^c21392631]: Textual amendment: S. 117(1): definition of "commission area" omitted (1.4.2005) by virtue of [The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886)](https://www.legislation.gov.uk/uksi/2005/886), [art. 2](https://www.legislation.gov.uk/uksi/2005/886/article/2), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/60)
 
-[^key-f37a658dccd7962e491a1ce73743c059]: Textual amendment: Words in [s. 117(1)](https://www.legislation.gov.uk/ukpga/1998/37/section/117/1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 159](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/159) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f37a658dccd7962e491a1ce73743c059]: Textual amendment: Words in [s. 117(1)](https://www.legislation.gov.uk/ukpga/1998/37/section/117/1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 159](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/159) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c9527131]: Textual amendment: S. 117(1): definition of “local probation board” inserted (1.4.2001) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [s. 74](https://www.legislation.gov.uk/ukpga/2000/43/section/74), [Sch. 7 Pt. II para. 152](https://www.legislation.gov.uk/ukpga/2000/43/schedule/7/part/II/paragraph/152); [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2001/919/article/2/f/ii)
 

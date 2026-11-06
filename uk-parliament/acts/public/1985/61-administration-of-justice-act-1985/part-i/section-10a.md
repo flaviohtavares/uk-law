@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Penalty for sole solicitor pretending that practice is recognised[^key-5f5274590959bcb3e7f4befcf1a52b01]
+## 10A. Penalty for sole solicitor pretending that practice is recognised[^c-5f5274590959bcb3e7f4befcf1a52b01]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f5274590959bcb3e7f4befcf1a52b01]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1985/61/section/10A) inserted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/19)
+[^c-5f5274590959bcb3e7f4befcf1a52b01]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1985/61/section/10A) inserted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/19)

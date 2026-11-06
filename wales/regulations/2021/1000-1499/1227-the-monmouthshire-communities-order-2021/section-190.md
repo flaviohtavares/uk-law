@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**190.**[^key-dbd633ef1f926afcb7f50e0c4f5d2a9f][^key-b30fad021923179b5421310d19dab9f8] The part of the community of Mitchel Troy shown hatched on Map 126—
+**190.**[^c-dbd633ef1f926afcb7f50e0c4f5d2a9f][^c-b30fad021923179b5421310d19dab9f8] The part of the community of Mitchel Troy shown hatched on Map 126—
 
 - (a) is transferred to the new community of Whitecastle;
 - (b) forms part of the new community ward of Llanvihangel-Ystern-Llewern;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dbd633ef1f926afcb7f50e0c4f5d2a9f]: Commencement: Art. 190 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-dbd633ef1f926afcb7f50e0c4f5d2a9f]: Commencement: Art. 190 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-b30fad021923179b5421310d19dab9f8]: Commencement: [Art. 190](https://www.legislation.gov.uk/wsi/2021/1227/article/190) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-b30fad021923179b5421310d19dab9f8]: Commencement: [Art. 190](https://www.legislation.gov.uk/wsi/2021/1227/article/190) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

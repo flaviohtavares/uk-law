@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 252. Power of planning authority to issue tree replacement notice[^key-e694f3bc34e61454da29475a5dcc9a3c]
+## 252. Power of planning authority to issue tree replacement notice[^c-e694f3bc34e61454da29475a5dcc9a3c]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e694f3bc34e61454da29475a5dcc9a3c]: Commencement: S. 252 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e694f3bc34e61454da29475a5dcc9a3c]: Commencement: S. 252 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

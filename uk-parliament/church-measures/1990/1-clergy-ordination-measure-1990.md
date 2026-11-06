@@ -49,7 +49,7 @@ For section 9 of the [^c922793]Clergy (Ordination and Miscellaneous Provisions) 
 
 .
 
-## 2. Restriction on delegation of powers of bishop.[^key-80865b35f9dec5fec864daca27d4aa84]
+## 2. Restriction on delegation of powers of bishop.[^c-80865b35f9dec5fec864daca27d4aa84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -63,4 +63,4 @@ For section 9 of the [^c922793]Clergy (Ordination and Miscellaneous Provisions) 
 
 [^c922793]: Marginal citation: [1964 No. 6](https://www.legislation.gov.uk/ukcm/1964/6).
 
-[^key-80865b35f9dec5fec864daca27d4aa84]: Textual amendment: S. 2 repealed (1.5.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [S.I. 2008/1](https://www.legislation.gov.uk/ukci/2008/1)
+[^c-80865b35f9dec5fec864daca27d4aa84]: Textual amendment: S. 2 repealed (1.5.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [S.I. 2008/1](https://www.legislation.gov.uk/ukci/2008/1)

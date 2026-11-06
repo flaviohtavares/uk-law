@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Content of the Register[^key-915b0838dcd1164b6d44702ae7b402ea]
+## 9. Content of the Register[^c-915b0838dcd1164b6d44702ae7b402ea]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-915b0838dcd1164b6d44702ae7b402ea]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/140/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-915b0838dcd1164b6d44702ae7b402ea]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/140/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

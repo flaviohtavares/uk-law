@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Abandoned, neglected and detrimental land[^key-82301207cfb5997cd485ab5211ff66bd][^key-efcf3444667bd8a9786eddf8e7f84037]
+## 74. Abandoned, neglected and detrimental land[^c-82301207cfb5997cd485ab5211ff66bd][^c-efcf3444667bd8a9786eddf8e7f84037]
 
 *Extent: S*
 
@@ -795,6 +795,6 @@ After section 97A of the 2003 Act, insert—
 
 ## Annotations
 
-[^key-82301207cfb5997cd485ab5211ff66bd]: Commencement: S. 74 in force at 30.6.2017 for specified purposes by [S.S.I. 2017/192](https://www.legislation.gov.uk/ssi/2017/192), [art. 2](https://www.legislation.gov.uk/ssi/2017/192/article/2)
+[^c-82301207cfb5997cd485ab5211ff66bd]: Commencement: S. 74 in force at 30.6.2017 for specified purposes by [S.S.I. 2017/192](https://www.legislation.gov.uk/ssi/2017/192), [art. 2](https://www.legislation.gov.uk/ssi/2017/192/article/2)
 
-[^key-efcf3444667bd8a9786eddf8e7f84037]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2015/6/section/74) in force at 27.6.2018 in so far as not already in force by [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/139/article/2/a)
+[^c-efcf3444667bd8a9786eddf8e7f84037]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2015/6/section/74) in force at 27.6.2018 in so far as not already in force by [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/139/article/2/a)

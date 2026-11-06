@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Habitat (Water Fringe) (Amendment) Regulations 1996 (revoked)[^key-9aff171d1c9f337729e22743f8e96011]
+The Habitat (Water Fringe) (Amendment) Regulations 1996 (revoked)[^c-9aff171d1c9f337729e22743f8e96011]
 
 Made
 
@@ -44,58 +44,58 @@ Coming into force
 
 30th June 1996
 
-[^key-9aff171d1c9f337729e22743f8e96011]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9aff171d1c9f337729e22743f8e96011]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement and extent[^key-9aff171d1c9f337729e22743f8e96011]
+## 1. Title and commencement and extent[^c-9aff171d1c9f337729e22743f8e96011]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9aff171d1c9f337729e22743f8e96011]
+## 2. Interpretation[^c-9aff171d1c9f337729e22743f8e96011]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the principal Regulations[^key-9aff171d1c9f337729e22743f8e96011]
+## 3. Amendments to the principal Regulations[^c-9aff171d1c9f337729e22743f8e96011]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to regulation 2 of the principal Regulations[^key-9aff171d1c9f337729e22743f8e96011]
+## 4. Amendments to regulation 2 of the principal Regulations[^c-9aff171d1c9f337729e22743f8e96011]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to regulation 3 of the principal Regulations[^key-9aff171d1c9f337729e22743f8e96011]
+## 5. Amendments to regulation 3 of the principal Regulations[^c-9aff171d1c9f337729e22743f8e96011]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to regulation 4 of the principal Regulations[^key-9aff171d1c9f337729e22743f8e96011]
+## 6. Amendment to regulation 4 of the principal Regulations[^c-9aff171d1c9f337729e22743f8e96011]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to regulation 7 of the principal Regulations[^key-9aff171d1c9f337729e22743f8e96011]
+## 7. Amendments to regulation 7 of the principal Regulations[^c-9aff171d1c9f337729e22743f8e96011]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Insertion of regulation 7A in the principal Regulations[^key-9aff171d1c9f337729e22743f8e96011]
+## 8. Insertion of regulation 7A in the principal Regulations[^c-9aff171d1c9f337729e22743f8e96011]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Substitution of regulation 8 of the principal Regulations[^key-9aff171d1c9f337729e22743f8e96011]
+## 9. Substitution of regulation 8 of the principal Regulations[^c-9aff171d1c9f337729e22743f8e96011]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment to regulation 10 of the principal Regulations[^key-9aff171d1c9f337729e22743f8e96011]
+## 10. Amendment to regulation 10 of the principal Regulations[^c-9aff171d1c9f337729e22743f8e96011]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendments to Schedules to the principal Regulations[^key-9aff171d1c9f337729e22743f8e96011]
+## 11. Amendments to Schedules to the principal Regulations[^c-9aff171d1c9f337729e22743f8e96011]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9aff171d1c9f337729e22743f8e96011]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9aff171d1c9f337729e22743f8e96011]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9aff171d1c9f337729e22743f8e96011]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9aff171d1c9f337729e22743f8e96011]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9aff171d1c9f337729e22743f8e96011]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1996/1480) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-9aff171d1c9f337729e22743f8e96011]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1996/1480) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

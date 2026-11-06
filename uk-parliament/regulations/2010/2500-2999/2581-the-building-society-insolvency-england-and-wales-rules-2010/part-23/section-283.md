@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 283. “Debt”, “liability”[^key-d28a3ff42e52c7810bb75ef9c0028b80]
+## 283. “Debt”, “liability”[^c-d28a3ff42e52c7810bb75ef9c0028b80]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d28a3ff42e52c7810bb75ef9c0028b80]: Commencement: Rule 283 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-d28a3ff42e52c7810bb75ef9c0028b80]: Commencement: Rule 283 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00102]: Footnote: The rule was substituted by [S.I. 2006/1272](https://www.legislation.gov.uk/uksi/2006/1272).

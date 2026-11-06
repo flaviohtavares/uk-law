@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Notice by planning authority of certain applications made to them[^key-999ad5199eea3c0b1efc0eb9975afd7b]
+## 23. Notice by planning authority of certain applications made to them[^c-999ad5199eea3c0b1efc0eb9975afd7b]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-999ad5199eea3c0b1efc0eb9975afd7b]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/13/section/23) in force at 1.3.2020 by [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 3](https://www.legislation.gov.uk/ssi/2019/377/regulation/3) (with [reg. 11](https://www.legislation.gov.uk/ssi/2019/377/regulation/11))
+[^c-999ad5199eea3c0b1efc0eb9975afd7b]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/13/section/23) in force at 1.3.2020 by [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 3](https://www.legislation.gov.uk/ssi/2019/377/regulation/3) (with [reg. 11](https://www.legislation.gov.uk/ssi/2019/377/regulation/11))

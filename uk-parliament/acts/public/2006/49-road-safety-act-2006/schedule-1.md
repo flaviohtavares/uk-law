@@ -24,37 +24,37 @@ Section 5
 
 ### Road Traffic Offenders Act 1988 (c. 53)
 
-**1.**[^key-1a1e4b69fc1ed3f52724828e7ff08736] Part 3 of the Road Traffic Offenders Act 1988 (fixed penalties) is amended as follows.
+**1.**[^c-1a1e4b69fc1ed3f52724828e7ff08736] Part 3 of the Road Traffic Offenders Act 1988 (fixed penalties) is amended as follows.
 
-**2.**[^key-fedce92e9ec286dfe98f3d11b45d2ff5] In section 52(3)(c) (fixed penalty notice must state to whom and where fixed penalty may be paid), for the words from the beginning to “to” substitute “ the person to ”.
+**2.**[^c-fedce92e9ec286dfe98f3d11b45d2ff5] In section 52(3)(c) (fixed penalty notice must state to whom and where fixed penalty may be paid), for the words from the beginning to “to” substitute “ the person to ”.
 
-**3.**[^key-4a6bd13d00c769b38716d872422b3e73] (1) Section 54 (notices on-the-spot or at a police station) is amended as follows.
+**3.**[^c-4a6bd13d00c769b38716d872422b3e73] (1) Section 54 (notices on-the-spot or at a police station) is amended as follows.
 
 (2) In subsection (1), after “uniform” insert “ , or a vehicle examiner who produces his authority, ”.
 
 (3) In subsection (2), after “constable” insert “ or vehicle examiner ”.
 
-(4)[^key-3aeb4562df075a57ec9b03d9e341fdf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3aeb4562df075a57ec9b03d9e341fdf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-3aeb4562df075a57ec9b03d9e341fdf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3aeb4562df075a57ec9b03d9e341fdf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-3aeb4562df075a57ec9b03d9e341fdf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3aeb4562df075a57ec9b03d9e341fdf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-3aeb4562df075a57ec9b03d9e341fdf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3aeb4562df075a57ec9b03d9e341fdf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-f3c2348fd0848db4835ee1ca10693f35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f3c2348fd0848db4835ee1ca10693f35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In the heading, for **“or at a police station”** substitute “ etc. ”
 
-**4.**[^key-3fc1e37bd175648f76535f6a8d0477aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3fc1e37bd175648f76535f6a8d0477aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-eefc21b874987334ea042acbfdf72c6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-eefc21b874987334ea042acbfdf72c6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a8d958943e4a48538d60bee12ba9f756] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a8d958943e4a48538d60bee12ba9f756] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-fbfc6ae61e6ebaea89058c0201f2ba35] In section 62(1) (fixing notices to vehicles), after “constable” insert “ or a vehicle examiner ”.
+**7.**[^c-fbfc6ae61e6ebaea89058c0201f2ba35] In section 62(1) (fixing notices to vehicles), after “constable” insert “ or a vehicle examiner ”.
 
-**8.**[^key-96158736d483f4bf65e316fdabce7675] (1) Section 63 (service of notice to owner if penalty not paid) is amended as follows.
+**8.**[^c-96158736d483f4bf65e316fdabce7675] (1) Section 63 (service of notice to owner if penalty not paid) is amended as follows.
 
 (2) In subsection (2), for “chief officer of police” substitute “ relevant person ”.
 
@@ -67,7 +67,7 @@ Section 5
 
 (4) In subsection (4)(c), for “chief officer of police by or on whose behalf the notice was served” substitute “ relevant person ”.
 
-**9.**[^key-aa70b0757d76befe3a84648ad34f6142] (1) Section 66 (hired vehicles) is amended as follows.
+**9.**[^c-aa70b0757d76befe3a84648ad34f6142] (1) Section 66 (hired vehicles) is amended as follows.
 
 (2) In subsection (1)(c), for “chief officer of police by or on whose behalf the notice was served” substitute “ relevant person ”.
 
@@ -82,9 +82,9 @@ Section 5
 
 .
 
-**10.**[^key-fe552759969da9591e66bf289c9fd039] In section 68(4) (meaning of “official form”), after “police” insert “ or the Secretary of State ”.
+**10.**[^c-fe552759969da9591e66bf289c9fd039] In section 68(4) (meaning of “official form”), after “police” insert “ or the Secretary of State ”.
 
-**11.**[^key-f44175507dd1d38857966714087a2332] (1) Section 69 (payment of fixed penalty) is amended as follows.
+**11.**[^c-f44175507dd1d38857966714087a2332] (1) Section 69 (payment of fixed penalty) is amended as follows.
 
 (2) In subsection (1), for “Payment of a fixed penalty under this Part of this Act” substitute “ Where a fixed penalty notice has been given or fixed by a constable or authorised person under this Part of this Act, payment of the fixed penalty ”.
 
@@ -94,7 +94,7 @@ Section 5
 
 (4) In subsection (3), after “clerk” insert “ , or the Secretary of State, ”.
 
-**12.**[^key-db840f0f1f1ba178895a512b4d16101b] (1) Section 70 (registration certificates) is amended as follows.
+**12.**[^c-db840f0f1f1ba178895a512b4d16101b] (1) Section 70 (registration certificates) is amended as follows.
 
 (2) In subsection (2), for “chief officer of police” substitute “ relevant person ”.
 
@@ -116,13 +116,13 @@ Section 5
 
 (6) In subsection (4), for “the chief officer of police or the fixed penalty clerk” substitute “ a person ”.
 
-**13.**[^key-dcd64979fd3b970dbf736a20bca10880] (1) Section 72 (notices on-the-spot or at a police station: when registration and endorsement invalid) is amended as follows.
+**13.**[^c-dcd64979fd3b970dbf736a20bca10880] (1) Section 72 (notices on-the-spot or at a police station: when registration and endorsement invalid) is amended as follows.
 
-(2)[^key-80dbdb9b29919c659a0f260c1e03292c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-80dbdb9b29919c659a0f260c1e03292c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the heading, for **“or at a police station”** substitute “ etc. ”
 
-**14.**[^key-174a40a1ea98e873cd4de5a414db9558] (1) Section 73 (notices fixed to vehicles: when registration invalid) is amended as follows.
+**14.**[^c-174a40a1ea98e873cd4de5a414db9558] (1) Section 73 (notices fixed to vehicles: when registration invalid) is amended as follows.
 
 (2) In subsection (4), for—
 
@@ -148,7 +148,7 @@ substitute “ the relevant person ”.
 - (a) omit “by or on behalf of the chief officer of police”, and
 - (b) for “he” substitute “ the person by whom it is served ”.
 
-**15.**[^key-0f2097ca27bbecc6e6fe5fa19ced33ca] (1) Section 75 (issue of conditional offer) is amended as follows.
+**15.**[^c-0f2097ca27bbecc6e6fe5fa19ced33ca] (1) Section 75 (issue of conditional offer) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -172,7 +172,7 @@ substitute “ the relevant person ”.
 
 (5) In subsection (6), for “person issues a conditional offer” substitute “ conditional offer is issued by a person under subsection (1), (2) or (3) above ”.
 
-(6)[^key-44c8a9d2dc5759f94832565e40c1f323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-44c8a9d2dc5759f94832565e40c1f323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) After subsection (11) insert—
 
@@ -181,7 +181,7 @@ substitute “ the relevant person ”.
 > - (a) where the conditional offer was issued under subsection (1), (2) or (3) above, the fixed penalty clerk, and
 > - (b) where the conditional offer was issued under subsection (1A) or (3B) above, the Secretary of State.
 
-**16.**[^key-25a95138e313d8abd78cda0286b68be2] (1) Section 76 (effect of order and payment of penalty) is amended as follows.
+**16.**[^c-25a95138e313d8abd78cda0286b68be2] (1) Section 76 (effect of order and payment of penalty) is amended as follows.
 
 (2) In subsection (1), for “sent” substitute “ issued ”.
 
@@ -215,13 +215,13 @@ substitute “ the relevant person ”.
 
 substitute “ the appropriate person ”.
 
-(6)[^key-dc13c9a39c764507e84cbed5e04be7e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-dc13c9a39c764507e84cbed5e04be7e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In subsection (9), for “(2)(b)” substitute “ (5)(b) or (c) ”.
 
-**17.**[^key-7cbf2e1e7bcb1bc6dc177d057acaf872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-7cbf2e1e7bcb1bc6dc177d057acaf872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-7f624e84155ca9d604d7d70b7fce4249] (1) Section 79 (statements by constables) is amended as follows.
+**18.**[^c-7f624e84155ca9d604d7d70b7fce4249] (1) Section 79 (statements by constables) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -236,21 +236,21 @@ substitute “ the appropriate person ”.
 
 (4) In subsections (4) and (5), for “constable's” substitute “ relevant ”.
 
-(5)[^key-fb9f04d4a1ab1b8b950bd1dad7b36a90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-fb9f04d4a1ab1b8b950bd1dad7b36a90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-33ff770fe9d0e94505a1b4f60d88d81d] In section 80 (certificates about payment), for “fixed penalty clerk”, in both places, substitute “ person to whom it was required to be paid ”.
+**19.**[^c-33ff770fe9d0e94505a1b4f60d88d81d] In section 80 (certificates about payment), for “fixed penalty clerk”, in both places, substitute “ person to whom it was required to be paid ”.
 
-**20.**[^key-4783cea06327daa7cb59ec269df5b884] In section 82(1) (accounting for fixed penalties), after “paid” insert “ to the fixed penalty clerk ”.
+**20.**[^c-4783cea06327daa7cb59ec269df5b884] In section 82(1) (accounting for fixed penalties), after “paid” insert “ to the fixed penalty clerk ”.
 
-**21.**[^key-7b12c8c496ee1d90d06979022ac88a08] (1) Section 83 (powers of court where clerk deceived) is amended as follows.
+**21.**[^c-7b12c8c496ee1d90d06979022ac88a08] (1) Section 83 (powers of court where clerk deceived) is amended as follows.
 
-(2)[^key-b81b73d63539aa1cb23094f0abf0d643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b81b73d63539aa1cb23094f0abf0d643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the heading, for **“where clerk deceived”** substitute “ in cases of deception ”.
 
-**22.**[^key-cfd5c243e7ae91e460798cef2b79f8e3] In section 84(1) (regulations), for “75(2) and (3) or 76(5) and (6)” substitute “ 75(1), (1A), (2), (3) or (3B) or 76(3)(c) or (4)(b) ”.
+**22.**[^c-cfd5c243e7ae91e460798cef2b79f8e3] In section 84(1) (regulations), for “75(2) and (3) or 76(5) and (6)” substitute “ 75(1), (1A), (2), (3) or (3B) or 76(3)(c) or (4)(b) ”.
 
-**23.**[^key-7a8335200f6817d21365e94442bb19e2] In section 89(1) (interpretation), after the definition of “proceedings” insert
+**23.**[^c-7a8335200f6817d21365e94442bb19e2] In section 89(1) (interpretation), after the definition of “proceedings” insert
 
 > and
 >
@@ -258,128 +258,128 @@ substitute “ the appropriate person ”.
 
 ### Road Traffic (New Drivers) Act 1995 (c. 13)
 
-**24.**[^key-d9e7a5e7d22488d706de9c7fbada59ac] The Road Traffic (New Drivers) Act 1995 is amended as follows.
+**24.**[^c-d9e7a5e7d22488d706de9c7fbada59ac] The Road Traffic (New Drivers) Act 1995 is amended as follows.
 
-**25.**[^key-6586d07a5fc2edb5fa810f21a46fa70b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-6586d07a5fc2edb5fa810f21a46fa70b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-7d77a94df0d95768d48999fc8dcaaab1] (1) Section 3 (revocation of licences) is amended as follows.
+**26.**[^c-7d77a94df0d95768d48999fc8dcaaab1] (1) Section 3 (revocation of licences) is amended as follows.
 
-(2)[^key-fdac10f7c43bb9f8cb8b31870481a29f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fdac10f7c43bb9f8cb8b31870481a29f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-252d58f04f541cd1e50f79a050724c88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-252d58f04f541cd1e50f79a050724c88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-252d58f04f541cd1e50f79a050724c88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-252d58f04f541cd1e50f79a050724c88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (2), for “subsection (1) or (1B)” substitute “ this section ”.
 
-**27.**[^key-14ce732abac4125c50e2681fc9a0f6e9] (1) Schedule 1 (newly qualified drivers holding test certificates) is amended as follows.
+**27.**[^c-14ce732abac4125c50e2681fc9a0f6e9] (1) Schedule 1 (newly qualified drivers holding test certificates) is amended as follows.
 
-(2)[^key-3679970496259820589998618d230222] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3679970496259820589998618d230222] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3679970496259820589998618d230222] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3679970496259820589998618d230222] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3679970496259820589998618d230222] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3679970496259820589998618d230222] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In paragraph 5—
 
-- (a)[^key-62a0f16a8eb2e7e818b266ef1a5ec4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-62a0f16a8eb2e7e818b266ef1a5ec4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-62a0f16a8eb2e7e818b266ef1a5ec4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-62a0f16a8eb2e7e818b266ef1a5ec4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in sub-paragraph (2), for “sub-paragraph (1) or (1B)” substitute “ this paragraph ”.
 
-(6)[^key-f9c2c2eb61bae7da16eaa82a76489a25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f9c2c2eb61bae7da16eaa82a76489a25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-f9c2c2eb61bae7da16eaa82a76489a25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f9c2c2eb61bae7da16eaa82a76489a25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In paragraph 8—
 
-- (a)[^key-bdfbe746c082cbd79ac59461581f9cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-bdfbe746c082cbd79ac59461581f9cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-bdfbe746c082cbd79ac59461581f9cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-bdfbe746c082cbd79ac59461581f9cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in sub-paragraph (2), for “sub-paragraph (1) or (1B)” substitute “ this paragraph ”.
 
-(9)[^key-7aba06e14bc60920c6d4c87b2ea5fcf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-7aba06e14bc60920c6d4c87b2ea5fcf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-7aba06e14bc60920c6d4c87b2ea5fcf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-7aba06e14bc60920c6d4c87b2ea5fcf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a1e4b69fc1ed3f52724828e7ff08736]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/1) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-1a1e4b69fc1ed3f52724828e7ff08736]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/1) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-fedce92e9ec286dfe98f3d11b45d2ff5]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/2) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-fedce92e9ec286dfe98f3d11b45d2ff5]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/2) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-4a6bd13d00c769b38716d872422b3e73]: Commencement: Sch. 1 para. 3 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-4a6bd13d00c769b38716d872422b3e73]: Commencement: Sch. 1 para. 3 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-3aeb4562df075a57ec9b03d9e341fdf1]: Textual amendment: Sch. 1 para. 3(4)-(7) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-3aeb4562df075a57ec9b03d9e341fdf1]: Textual amendment: Sch. 1 para. 3(4)-(7) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-f3c2348fd0848db4835ee1ca10693f35]: Textual amendment: [Sch. 1 para. 3(8)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/3/8) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/a); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-f3c2348fd0848db4835ee1ca10693f35]: Textual amendment: [Sch. 1 para. 3(8)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/3/8) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/a); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-3fc1e37bd175648f76535f6a8d0477aa]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/4) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/b); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-3fc1e37bd175648f76535f6a8d0477aa]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/4) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/b); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-eefc21b874987334ea042acbfdf72c6c]: Textual amendment: Sch. 1 para. 5 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-eefc21b874987334ea042acbfdf72c6c]: Textual amendment: Sch. 1 para. 5 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-a8d958943e4a48538d60bee12ba9f756]: Textual amendment: Sch. 1 para. 6 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-a8d958943e4a48538d60bee12ba9f756]: Textual amendment: Sch. 1 para. 6 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-fbfc6ae61e6ebaea89058c0201f2ba35]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/7) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-fbfc6ae61e6ebaea89058c0201f2ba35]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/7) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-96158736d483f4bf65e316fdabce7675]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/8) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-96158736d483f4bf65e316fdabce7675]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/8) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-aa70b0757d76befe3a84648ad34f6142]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/9) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-aa70b0757d76befe3a84648ad34f6142]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/9) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-fe552759969da9591e66bf289c9fd039]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/10) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-fe552759969da9591e66bf289c9fd039]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/10) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-f44175507dd1d38857966714087a2332]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/11) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-f44175507dd1d38857966714087a2332]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/11) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-db840f0f1f1ba178895a512b4d16101b]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/12) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-db840f0f1f1ba178895a512b4d16101b]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/12) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-dcd64979fd3b970dbf736a20bca10880]: Commencement: Sch. 1 para. 13 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-dcd64979fd3b970dbf736a20bca10880]: Commencement: Sch. 1 para. 13 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-80dbdb9b29919c659a0f260c1e03292c]: Textual amendment: Sch. 1 para. 13(2) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-80dbdb9b29919c659a0f260c1e03292c]: Textual amendment: Sch. 1 para. 13(2) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-174a40a1ea98e873cd4de5a414db9558]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/14) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-174a40a1ea98e873cd4de5a414db9558]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/14) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-0f2097ca27bbecc6e6fe5fa19ced33ca]: Commencement: Sch. 1 para. 15 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-0f2097ca27bbecc6e6fe5fa19ced33ca]: Commencement: Sch. 1 para. 15 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-44c8a9d2dc5759f94832565e40c1f323]: Textual amendment: [Sch. 1 para. 15(6)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/15/6) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-44c8a9d2dc5759f94832565e40c1f323]: Textual amendment: [Sch. 1 para. 15(6)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/15/6) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-25a95138e313d8abd78cda0286b68be2]: Commencement: Sch. 1 para. 16 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-25a95138e313d8abd78cda0286b68be2]: Commencement: Sch. 1 para. 16 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-dc13c9a39c764507e84cbed5e04be7e1]: Textual amendment: [Sch. 1 para. 16(6)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/16/6) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-dc13c9a39c764507e84cbed5e04be7e1]: Textual amendment: [Sch. 1 para. 16(6)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/16/6) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-7cbf2e1e7bcb1bc6dc177d057acaf872]: Textual amendment: Sch. 1 para. 17 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-7cbf2e1e7bcb1bc6dc177d057acaf872]: Textual amendment: Sch. 1 para. 17 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-7f624e84155ca9d604d7d70b7fce4249]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/18) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-7f624e84155ca9d604d7d70b7fce4249]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/18) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-fb9f04d4a1ab1b8b950bd1dad7b36a90]: Textual amendment: [Sch. 1 para. 18(5)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/18/5) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(c)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/c); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-fb9f04d4a1ab1b8b950bd1dad7b36a90]: Textual amendment: [Sch. 1 para. 18(5)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/18/5) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(c)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/c); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-33ff770fe9d0e94505a1b4f60d88d81d]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/19) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-33ff770fe9d0e94505a1b4f60d88d81d]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/19) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-4783cea06327daa7cb59ec269df5b884]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/20) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-4783cea06327daa7cb59ec269df5b884]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/20) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-7b12c8c496ee1d90d06979022ac88a08]: Commencement: Sch. 1 para. 21 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-7b12c8c496ee1d90d06979022ac88a08]: Commencement: Sch. 1 para. 21 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-b81b73d63539aa1cb23094f0abf0d643]: Textual amendment: [Sch. 1 para. 21(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/21/2) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-b81b73d63539aa1cb23094f0abf0d643]: Textual amendment: [Sch. 1 para. 21(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/21/2) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-cfd5c243e7ae91e460798cef2b79f8e3]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/22) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-cfd5c243e7ae91e460798cef2b79f8e3]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/22) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-7a8335200f6817d21365e94442bb19e2]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/23) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-7a8335200f6817d21365e94442bb19e2]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/23) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-d9e7a5e7d22488d706de9c7fbada59ac]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/24) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-d9e7a5e7d22488d706de9c7fbada59ac]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/24) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-6586d07a5fc2edb5fa810f21a46fa70b]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/25) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(d)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/d); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-6586d07a5fc2edb5fa810f21a46fa70b]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/25) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(d)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/d); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-7d77a94df0d95768d48999fc8dcaaab1]: Commencement: Sch. 1 para. 26 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-7d77a94df0d95768d48999fc8dcaaab1]: Commencement: Sch. 1 para. 26 in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-fdac10f7c43bb9f8cb8b31870481a29f]: Textual amendment: [Sch. 1 para. 26(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/26/2) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-fdac10f7c43bb9f8cb8b31870481a29f]: Textual amendment: [Sch. 1 para. 26(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/26/2) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-252d58f04f541cd1e50f79a050724c88]: Textual amendment: [Sch. 1 para. 26(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/26/3)[(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/26/4) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(e)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/e); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-252d58f04f541cd1e50f79a050724c88]: Textual amendment: [Sch. 1 para. 26(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/26/3)[(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/26/4) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(e)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/e); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-14ce732abac4125c50e2681fc9a0f6e9]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
+[^c-14ce732abac4125c50e2681fc9a0f6e9]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/b)
 
-[^key-3679970496259820589998618d230222]: Textual amendment: [Sch. 1 para. 27(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/3)[(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/4) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(f)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/f); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-3679970496259820589998618d230222]: Textual amendment: [Sch. 1 para. 27(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/3)[(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/4) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(f)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/f); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-62a0f16a8eb2e7e818b266ef1a5ec4c5]: Textual amendment: [Sch. 1 para. 27(5)(a)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/5/a)[(b)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/5/b) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(f)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/f); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-62a0f16a8eb2e7e818b266ef1a5ec4c5]: Textual amendment: [Sch. 1 para. 27(5)(a)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/5/a)[(b)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/5/b) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(f)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/f); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-f9c2c2eb61bae7da16eaa82a76489a25]: Textual amendment: [Sch. 1 para. 27(6)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/6)[(7)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/7) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(f)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/f); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-f9c2c2eb61bae7da16eaa82a76489a25]: Textual amendment: [Sch. 1 para. 27(6)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/6)[(7)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/7) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(f)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/f); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-bdfbe746c082cbd79ac59461581f9cfa]: Textual amendment: [Sch. 1 para. 27(8)(a)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/8/a)[(b)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/8/b) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(f)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/f); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-bdfbe746c082cbd79ac59461581f9cfa]: Textual amendment: [Sch. 1 para. 27(8)(a)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/8/a)[(b)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/8/b) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(f)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/f); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-7aba06e14bc60920c6d4c87b2ea5fcf9]: Textual amendment: [Sch. 1 para. 27(9)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/9)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/10) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(f)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/f); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-7aba06e14bc60920c6d4c87b2ea5fcf9]: Textual amendment: [Sch. 1 para. 27(9)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/9)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/1/paragraph/27/10) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 32(f)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/32/f); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Mine workings in potentially hazardous areas[^key-ad72a87f79935a678bac67fd8d373520]
+## 35. Mine workings in potentially hazardous areas[^c-ad72a87f79935a678bac67fd8d373520]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ the mine operator must assess the risk of the occurrence of an inrush to determi
 
 ## Annotations
 
-[^key-ad72a87f79935a678bac67fd8d373520]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2014/3248/regulation/35) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-ad72a87f79935a678bac67fd8d373520]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2014/3248/regulation/35) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

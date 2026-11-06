@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46.[^key-ea2161c0fdca960341c39ccd2bff75c8]
+## 46.[^c-ea2161c0fdca960341c39ccd2bff75c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 20 (gifts with reservation), in paragraphs 6(1)(b)(iv) and 7(1) and 
 
 ## Annotations
 
-[^key-ea2161c0fdca960341c39ccd2bff75c8]: Commencement: Reg. 46 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-ea2161c0fdca960341c39ccd2bff75c8]: Commencement: Reg. 46 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

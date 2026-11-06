@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Temporary public ownership[^M_I_520b1c76-196b-4207-b3d3-a42a13ffdf42][^key-d65220bfa2fccbd7a3a0de53e9f2a0bb]
+## 85. Temporary public ownership[^M_I_520b1c76-196b-4207-b3d3-a42a13ffdf42][^c-d65220bfa2fccbd7a3a0de53e9f2a0bb]
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purpose of exercising the fifth[^key-f38847d1825dbaafd3dcb27d3e5d6865] stabilisation option in respect of a building society the Treasury may make one or more orders for the purposes of—
+(1) For the purpose of exercising the fifth[^c-f38847d1825dbaafd3dcb27d3e5d6865] stabilisation option in respect of a building society the Treasury may make one or more orders for the purposes of—
 
 - (a) arranging for deferred shares of a building society to be publicly owned,
 - (b) cancelling private membership rights in the building society,
@@ -57,18 +57,18 @@ summary: ''
 - (a) make provision expressly or impliedly disapplying or modifying the memorandum or rules of the building society;
 - (b) disapply or modify an enactment about, or in its application to, building societies.
 
-(8) The following sections apply to orders under this section as to share transfer orders: sections 17, 18, 20, 21, [^key-add7a6618fd6e3f22efc8529b2ffd49c]... , 23, 25, 48Z[^key-3012a70ca37b36a8d637d761426bf725], 71, 73 and 83Z2[^key-f45843c14d40ad4ed5ddceaba580585b].
+(8) The following sections apply to orders under this section as to share transfer orders: sections 17, 18, 20, 21, [^c-add7a6618fd6e3f22efc8529b2ffd49c]... , 23, 25, 48Z[^c-3012a70ca37b36a8d637d761426bf725], 71, 73 and 83Z2[^c-f45843c14d40ad4ed5ddceaba580585b].
 
 ## Annotations
 
 [^M_I_520b1c76-196b-4207-b3d3-a42a13ffdf42]: Commencement: S. 85 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-d65220bfa2fccbd7a3a0de53e9f2a0bb]: Commencement: S. 85 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-d65220bfa2fccbd7a3a0de53e9f2a0bb]: Commencement: S. 85 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-f38847d1825dbaafd3dcb27d3e5d6865]: Textual amendment: Word in s. 85(1) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [100(3)](https://www.legislation.gov.uk/uksi/2014/3329/article/100/3)
+[^c-f38847d1825dbaafd3dcb27d3e5d6865]: Textual amendment: Word in s. 85(1) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [100(3)](https://www.legislation.gov.uk/uksi/2014/3329/article/100/3)
 
-[^key-add7a6618fd6e3f22efc8529b2ffd49c]: Textual amendment: Word in s. 85(8) omitted (1.1.2015) by virtue of [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [100(4)(a)](https://www.legislation.gov.uk/uksi/2014/3329/article/100/4/a)
+[^c-add7a6618fd6e3f22efc8529b2ffd49c]: Textual amendment: Word in s. 85(8) omitted (1.1.2015) by virtue of [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [100(4)(a)](https://www.legislation.gov.uk/uksi/2014/3329/article/100/4/a)
 
-[^key-3012a70ca37b36a8d637d761426bf725]: Textual amendment: Word in s. 85(8) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [100(4)(b)](https://www.legislation.gov.uk/uksi/2014/3329/article/100/4/b)
+[^c-3012a70ca37b36a8d637d761426bf725]: Textual amendment: Word in s. 85(8) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [100(4)(b)](https://www.legislation.gov.uk/uksi/2014/3329/article/100/4/b)
 
-[^key-f45843c14d40ad4ed5ddceaba580585b]: Textual amendment: Words in s. 85(8) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [100(4)(c)](https://www.legislation.gov.uk/uksi/2014/3329/article/100/4/c)
+[^c-f45843c14d40ad4ed5ddceaba580585b]: Textual amendment: Words in s. 85(8) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [100(4)(c)](https://www.legislation.gov.uk/uksi/2014/3329/article/100/4/c)

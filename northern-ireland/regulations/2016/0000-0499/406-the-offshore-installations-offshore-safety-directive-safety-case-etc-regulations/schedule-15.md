@@ -24,7 +24,7 @@ Regulation 39
 
 ### PART 1 — INTERPRETATION
 
-#### 1. Interpretation[^key-296c3de40aca82c58b577dca4378d05c]
+#### 1. Interpretation[^c-296c3de40aca82c58b577dca4378d05c]
 
 (1) In this Schedule—
 
@@ -71,11 +71,11 @@ Regulation 39
 
 ### PART 2 — CONTINUED APPLICATION OF THE 2007 REGIME IN RELATION TO EXTERNAL WATERS DURING THE TRANSITIONAL PERIOD
 
-#### 2. General saving of the 2007 regime[^key-44a6029201fb1ebab2b82750f3d63800]
+#### 2. General saving of the 2007 regime[^c-44a6029201fb1ebab2b82750f3d63800]
 
 Despite the coming into operation of these Regulations, the 2007 regime continues to apply in relation to external waters during the transitional period as provided for in this Part of this Schedule.
 
-#### 3. Continued application of the 2007 regime to existing and proposed non-production installations[^key-992e7e0c689c2055231210ce0f951862]
+#### 3. Continued application of the 2007 regime to existing and proposed non-production installations[^c-992e7e0c689c2055231210ce0f951862]
 
 The 2007 regime continues to apply in relation to the owner of a non-production installation, in respect of that installation, for the period which starts on the commencement date and ends—
 
@@ -84,7 +84,7 @@ The 2007 regime continues to apply in relation to the owner of a non-production 
   - (ii) if earlier, on the date of thorough review provided that that date falls on or after the commencement date;
 - (b) where the installation is not an existing non-production installation and is established on or after the commencement date but before 19th December 2017, immediately before 19th December 2017.
 
-#### 4. Continued application of the 2007 regime to existing and proposed production installations[^key-ec387bdac2372f16a2e2509cb3e93b3d]
+#### 4. Continued application of the 2007 regime to existing and proposed production installations[^c-ec387bdac2372f16a2e2509cb3e93b3d]
 
 The 2007 regime continues to apply in relation to the operator of a production installation, in respect of that installation, for the period which starts on the commencement date and ends—
 
@@ -93,7 +93,7 @@ The 2007 regime continues to apply in relation to the operator of a production i
   - (ii) if earlier, on the date of thorough review provided that that date falls on or after the commencement date;
 - (b) where the production installation is not an existing production installation and is established on or after the commencement date but before 19th December 2017, immediately before 19th December 2017.
 
-#### 5. Continued application of the 2007 regime to well operations[^key-e99acf68a8ae13ff37f666411e70206b]
+#### 5. Continued application of the 2007 regime to well operations[^c-e99acf68a8ae13ff37f666411e70206b]
 
 (1) The 2007 regime continues to apply to the submission of a well notification by a well operator in respect of, or execution by such an operator of a well operation from—
 
@@ -110,17 +110,17 @@ on 19th December 2017.
 
 (3) Nothing in sub-paragraph (2) affects the application of paragraph 4 to the operator of the relevant production installation.
 
-#### 6. Design notification for production installations to be established during transitional period[^key-3be4b7e206c7b708120b754b90105426]
+#### 6. Design notification for production installations to be established during transitional period[^c-3be4b7e206c7b708120b754b90105426]
 
 Where a production installation is to be established on or after the commencement date but before 19th December 2017, the 2007 regime applies to the preparation and sending to the Executive of the design notification for that installation.
 
-#### 7. Design notification: election to prepare notification under these Regulations[^key-c68f42c5e2ded604c035e715eb8850c3]
+#### 7. Design notification: election to prepare notification under these Regulations[^c-c68f42c5e2ded604c035e715eb8850c3]
 
 (1) Despite paragraph 6, the operator of a production installation which is to be established on or after the commencement date but before 19th December 2017 may elect to prepare and send a design notification to the competent authority under these Regulations.
 
 (2) Where an operator elects to prepare and send a design notification under these Regulations, the 2007 regime ceases to apply to that operator in relation to that installation on the date on which that notification is sent to the competent authority.
 
-#### 8. Election to prepare a safety case under these Regulations[^key-518b867eccbfbc0129ce2c24b64b0362]
+#### 8. Election to prepare a safety case under these Regulations[^c-518b867eccbfbc0129ce2c24b64b0362]
 
 (1) Subject to sub-paragraph (2), nothing in paragraph 3(b), 4(b) or 5(1) prevents a duty holder who would otherwise be or continue to be subject to the 2007 regime as a consequence of any of those provisions from preparing and sending a safety case to the competent authority under these Regulations.
 
@@ -131,7 +131,7 @@ Where a production installation is to be established on or after the commencemen
 - (a) the 2007 regime ceases to apply to that operator in relation to that installation on the date on which the operator sends the safety case to the competent authority; and
 - (b) these Regulations apply to that operator in relation to that installation on and after that date.
 
-#### 9. Treatment of current safety cases for installations continuing under the 2007 regime[^key-c529bc4f67e45fc7af706b9fa8bf4474]
+#### 9. Treatment of current safety cases for installations continuing under the 2007 regime[^c-c529bc4f67e45fc7af706b9fa8bf4474]
 
 (1) Sub-paragraph (2) applies to the duty holder of an installation, in respect of that installation, where—
 
@@ -154,16 +154,16 @@ Where a production installation is to be established on or after the commencemen
 - (a) the duty holder sends a version of the current safety case which incorporates the proposed revisions, showing clearly where they are to be made, to the competent authority at least three months, or such shorter period as the competent authority may specify, before the revisions are to be made; and
 - (b) the competent authority accepts the revisions.
 
-**10.**[^key-97baf705a12bb29cfe419b4bd91345a2] Where revisions to current safety case under paragraph 9(2) may take effect without the acceptance of the competent authority or are accepted by the competent authority, the current safety case together with those revisions has effect—
+**10.**[^c-97baf705a12bb29cfe419b4bd91345a2] Where revisions to current safety case under paragraph 9(2) may take effect without the acceptance of the competent authority or are accepted by the competent authority, the current safety case together with those revisions has effect—
 
 - (a) as a current safety case until the end of the relevant transitional period; and
 - (b) subject to paragraph 11, on and after the end of that transitional period for the purposes of these Regulations as a current safety case within the meaning of regulation 2(1).
 
-**11.**[^key-b6b5706994937c946da6bee3099bb8bb] Where paragraph 10(b) applies to a safety case, paragraph 1(a) of regulation 23 has effect as if the reference in that paragraph to the date on which the current safety case was first accepted by the competent authority were a reference to the date on which the Executive first accepted that safety case under the 2007 Regulations.
+**11.**[^c-b6b5706994937c946da6bee3099bb8bb] Where paragraph 10(b) applies to a safety case, paragraph 1(a) of regulation 23 has effect as if the reference in that paragraph to the date on which the current safety case was first accepted by the competent authority were a reference to the date on which the Executive first accepted that safety case under the 2007 Regulations.
 
 ### PART 3 — TRANSITION FROM THE 2007 REGIME
 
-#### 12. Improvement notices issued before the end of the transitional period[^key-65cbc79546bfaefc4a89f7ff2723f7e6]
+#### 12. Improvement notices issued before the end of the transitional period[^c-65cbc79546bfaefc4a89f7ff2723f7e6]
 
 (1) An improvement notice to which this paragraph applies has effect on and after the relevant date as an improvement notice issued in respect of a contravention of a corresponding provision of these Regulations.
 
@@ -174,7 +174,7 @@ Where a production installation is to be established on or after the commencemen
 
 (3) In this paragraph “relevant date” means the date on which the transitional period ends.
 
-#### 13. Prohibition notices issued before the end of the transitional period[^key-90d6c59c104eab3e040ab35662523c75]
+#### 13. Prohibition notices issued before the end of the transitional period[^c-90d6c59c104eab3e040ab35662523c75]
 
 (1) Where—
 
@@ -187,45 +187,45 @@ that notice continues to have effect on and after the relevant date as if served
 
 (2) In this paragraph “relevant date” means the date on which the transitional period ends.
 
-#### 14. Design etc. notifications[^key-136912365f6c13007e69b12508ef5ac4]
+#### 14. Design etc. notifications[^c-136912365f6c13007e69b12508ef5ac4]
 
 A notification under the 2007 regime which is completed immediately before the date on which the transitional period ends has effect on and after that date as a notification made under the corresponding provision of these Regulations.
 
-**15.**[^key-4c0696db25b65b80cf3a9e56fbaee911] Where a notification under the 2007 regime is not completed before the date on which the transitional period ends (“the relevant date”), but particulars of it have been notified before the relevant date in accordance with the 2007 regime—
+**15.**[^c-4c0696db25b65b80cf3a9e56fbaee911] Where a notification under the 2007 regime is not completed before the date on which the transitional period ends (“the relevant date”), but particulars of it have been notified before the relevant date in accordance with the 2007 regime—
 
 - (a) the particulars notified have effect on and after the relevant date as particulars notified pursuant to the corresponding provision of these Regulations;
 - (b) the absence from particulars falling within paragraph (a) of any particulars required pursuant to a corresponding provision of these Regulations but not required pursuant to the 2007 regime is to take effect as a material change in those particulars on the relevant date.
 
 ## Annotations
 
-[^key-296c3de40aca82c58b577dca4378d05c]: Commencement: Sch. 15 para. 1 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-296c3de40aca82c58b577dca4378d05c]: Commencement: Sch. 15 para. 1 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00061]: Footnote: [S.R. 2007 No.247](https://www.legislation.gov.uk/nisr/2007/247), revoked in part by [S.R. 2008 No. 21](https://www.legislation.gov.uk/nisr/2008/21)
 
-[^key-44a6029201fb1ebab2b82750f3d63800]: Commencement: Sch. 15 para. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-44a6029201fb1ebab2b82750f3d63800]: Commencement: Sch. 15 para. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-992e7e0c689c2055231210ce0f951862]: Commencement: Sch. 15 para. 3 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-992e7e0c689c2055231210ce0f951862]: Commencement: Sch. 15 para. 3 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-ec387bdac2372f16a2e2509cb3e93b3d]: Commencement: Sch. 15 para. 4 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-ec387bdac2372f16a2e2509cb3e93b3d]: Commencement: Sch. 15 para. 4 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-e99acf68a8ae13ff37f666411e70206b]: Commencement: Sch. 15 para. 5 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-e99acf68a8ae13ff37f666411e70206b]: Commencement: Sch. 15 para. 5 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-3be4b7e206c7b708120b754b90105426]: Commencement: Sch. 15 para. 6 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-3be4b7e206c7b708120b754b90105426]: Commencement: Sch. 15 para. 6 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-c68f42c5e2ded604c035e715eb8850c3]: Commencement: Sch. 15 para. 7 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-c68f42c5e2ded604c035e715eb8850c3]: Commencement: Sch. 15 para. 7 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-518b867eccbfbc0129ce2c24b64b0362]: Commencement: Sch. 15 para. 8 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-518b867eccbfbc0129ce2c24b64b0362]: Commencement: Sch. 15 para. 8 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-c529bc4f67e45fc7af706b9fa8bf4474]: Commencement: Sch. 15 para. 9 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-c529bc4f67e45fc7af706b9fa8bf4474]: Commencement: Sch. 15 para. 9 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-97baf705a12bb29cfe419b4bd91345a2]: Commencement: Sch. 15 para. 10 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-97baf705a12bb29cfe419b4bd91345a2]: Commencement: Sch. 15 para. 10 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-b6b5706994937c946da6bee3099bb8bb]: Commencement: Sch. 15 para. 11 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-b6b5706994937c946da6bee3099bb8bb]: Commencement: Sch. 15 para. 11 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-65cbc79546bfaefc4a89f7ff2723f7e6]: Commencement: Sch. 15 para. 12 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-65cbc79546bfaefc4a89f7ff2723f7e6]: Commencement: Sch. 15 para. 12 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-90d6c59c104eab3e040ab35662523c75]: Commencement: Sch. 15 para. 13 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-90d6c59c104eab3e040ab35662523c75]: Commencement: Sch. 15 para. 13 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-136912365f6c13007e69b12508ef5ac4]: Commencement: Sch. 15 para. 14 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-136912365f6c13007e69b12508ef5ac4]: Commencement: Sch. 15 para. 14 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-4c0696db25b65b80cf3a9e56fbaee911]: Commencement: Sch. 15 para. 15 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-4c0696db25b65b80cf3a9e56fbaee911]: Commencement: Sch. 15 para. 15 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

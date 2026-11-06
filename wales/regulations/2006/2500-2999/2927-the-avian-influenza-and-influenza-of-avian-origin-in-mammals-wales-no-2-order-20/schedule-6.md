@@ -30,8 +30,8 @@ The occupier must make and update daily a record of poultry, other captive birds
 
 - (a) alive;
 - (b) which have died;
-- (c) which show clinical signs of avian influenza or influenza of avian origin[^key-a1a715bbacf220fd8b2dfe92018fb8e6];
-- (d) which he or she thinks are likely to be infected with avian influenza or influenza of avian origin[^key-cc196f465e059a1b3c58f1820e3c6bac];
+- (c) which show clinical signs of avian influenza or influenza of avian origin[^c-a1a715bbacf220fd8b2dfe92018fb8e6];
+- (d) which he or she thinks are likely to be infected with avian influenza or influenza of avian origin[^c-cc196f465e059a1b3c58f1820e3c6bac];
 - (e) born or hatched.
 
 #### 2. Housing or isolation of poultry and other captive birds
@@ -87,7 +87,7 @@ A veterinary inspector may, by notice to the occupier of special category premis
 
 #### 11. Tracing
 
-The occupier must give all reasonable assistance to a veterinary inspector in the tracing of any thing liable to transmit avian influenza virus[^key-f1fc031d8d7ee146116250c82677dd3e] from and to the premises.
+The occupier must give all reasonable assistance to a veterinary inspector in the tracing of any thing liable to transmit avian influenza virus[^c-f1fc031d8d7ee146116250c82677dd3e] from and to the premises.
 
 #### 12. Manure, slurry and bedding
 
@@ -128,11 +128,11 @@ The occupier must, in accordance with an inspector's instructions, provide and m
 
 ## Annotations
 
-[^key-a1a715bbacf220fd8b2dfe92018fb8e6]: Textual amendment: Words in [Sch. 6 para. 1(c)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/6/paragraph/1/c) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [46(a)(i)](https://www.legislation.gov.uk/wsi/2025/1357/article/46/a/i)
+[^c-a1a715bbacf220fd8b2dfe92018fb8e6]: Textual amendment: Words in [Sch. 6 para. 1(c)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/6/paragraph/1/c) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [46(a)(i)](https://www.legislation.gov.uk/wsi/2025/1357/article/46/a/i)
 
-[^key-cc196f465e059a1b3c58f1820e3c6bac]: Textual amendment: Words in [Sch. 6 para. 1(d)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/6/paragraph/1/d) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [46(a)(ii)](https://www.legislation.gov.uk/wsi/2025/1357/article/46/a/ii)
+[^c-cc196f465e059a1b3c58f1820e3c6bac]: Textual amendment: Words in [Sch. 6 para. 1(d)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/6/paragraph/1/d) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [46(a)(ii)](https://www.legislation.gov.uk/wsi/2025/1357/article/46/a/ii)
 
-[^key-f1fc031d8d7ee146116250c82677dd3e]: Textual amendment: Word in [Sch. 6 para. 11](https://www.legislation.gov.uk/wsi/2006/2927/schedule/6/paragraph/11) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [46(b)](https://www.legislation.gov.uk/wsi/2025/1357/article/46/b)
+[^c-f1fc031d8d7ee146116250c82677dd3e]: Textual amendment: Word in [Sch. 6 para. 11](https://www.legislation.gov.uk/wsi/2006/2927/schedule/6/paragraph/11) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [46(b)](https://www.legislation.gov.uk/wsi/2025/1357/article/46/b)
 
 [^c17275781]: Marginal citation: [S.I. 1993/1685](https://www.legislation.gov.uk/uksi/1993/1685).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Removal of human remains[^key-24bcde37dfc103962b705dd518ea5a75]
+## 20. Removal of human remains[^c-24bcde37dfc103962b705dd518ea5a75]
 
 *Extent: E+W+S*
 
@@ -77,7 +77,7 @@ and in section 238(1)(b) of the 1990 Act reference to a â€œplanning permissionâ€
 
 ## Annotations
 
-[^key-24bcde37dfc103962b705dd518ea5a75]: Commencement: Art. 20 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-24bcde37dfc103962b705dd518ea5a75]: Commencement: Art. 20 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
 [^f00021]: Footnote: [1857 c.81](https://www.legislation.gov.uk/ukpga/1857/81); section 25 is amended by the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48) s.46.
 

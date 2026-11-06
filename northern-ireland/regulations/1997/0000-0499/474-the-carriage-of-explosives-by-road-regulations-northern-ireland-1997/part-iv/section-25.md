@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Precautions against fire or explosion[^key-72c26d15590c84e2ef1e99e50bf9b594]
+## 25. Precautions against fire or explosion[^c-72c26d15590c84e2ef1e99e50bf9b594]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72c26d15590c84e2ef1e99e50bf9b594]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/1997/474/regulation/25) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-72c26d15590c84e2ef1e99e50bf9b594]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/1997/474/regulation/25) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

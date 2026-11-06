@@ -36,7 +36,7 @@ or cause or permit another person to do so.
 
 (4) On and after 1st June 2009, it is an offence for a person to contravene paragraph 5(b) or 6 of Part 1 of Schedule 5 (marketing and use of leaded paint) or cause or permit another person to do so.
 
-(5)[^key-493bf08d23971c73d28952fd9a8c19a9] Where a person (“P”) is charged with an offence for a contravention of Article 67 of REACH under regulation 11(2) of these Regulations for placing on the market paint stripper containing dichloromethane for supply to—
+(5)[^c-493bf08d23971c73d28952fd9a8c19a9] Where a person (“P”) is charged with an offence for a contravention of Article 67 of REACH under regulation 11(2) of these Regulations for placing on the market paint stripper containing dichloromethane for supply to—
 
 - (a) a person who is not a professional; or
 - (b) a person for use by a person who is not a professional,
@@ -45,4 +45,4 @@ it is a defence that P took all reasonable steps and exercised all due diligence
 
 ## Annotations
 
-[^key-493bf08d23971c73d28952fd9a8c19a9]: Textual amendment: Reg. 11(5) inserted (1.12.2014) by [The REACH Enforcement (Amendment) Regulations 2014 (S.I. 2014/2882)](https://www.legislation.gov.uk/uksi/2014/2882), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2882/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/2882/regulation/2/4)
+[^c-493bf08d23971c73d28952fd9a8c19a9]: Textual amendment: Reg. 11(5) inserted (1.12.2014) by [The REACH Enforcement (Amendment) Regulations 2014 (S.I. 2014/2882)](https://www.legislation.gov.uk/uksi/2014/2882), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2882/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/2882/regulation/2/4)

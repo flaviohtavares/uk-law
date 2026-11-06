@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Reasonable excuse[^M_I_6be53ed5-817c-4e30-f020-065dcba0551d][^key-08382d5d69921d8d72c6c3dda7c7aff9][^key-a43618279133bffa1bd3565c8626f458]
+## 239. Reasonable excuse[^M_I_6be53ed5-817c-4e30-f020-065dcba0551d][^c-08382d5d69921d8d72c6c3dda7c7aff9][^c-a43618279133bffa1bd3565c8626f458]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 [^M_I_6be53ed5-817c-4e30-f020-065dcba0551d]: Commencement: S. 239 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-08382d5d69921d8d72c6c3dda7c7aff9]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2026/11/section/239) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-08382d5d69921d8d72c6c3dda7c7aff9]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2026/11/section/239) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-a43618279133bffa1bd3565c8626f458]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2026/11/section/239) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-a43618279133bffa1bd3565c8626f458]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2026/11/section/239) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Commencement[^key-4285f7fa40ecb288d224d72ead8a1212]
+## 159. Commencement[^c-4285f7fa40ecb288d224d72ead8a1212]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4285f7fa40ecb288d224d72ead8a1212]: Commencement: S. 159 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)
+[^c-4285f7fa40ecb288d224d72ead8a1212]: Commencement: S. 159 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)

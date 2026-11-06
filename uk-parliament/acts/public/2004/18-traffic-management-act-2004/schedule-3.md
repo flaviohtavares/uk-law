@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Schedule 4B to the New Roads and Street Works Act 1991[^key-fafd82c2af4080b11885e876b681e02d][^key-0ff19a4adfb6ef7f1dec11be5e2b0ba4]
+## SCHEDULE 3 — Schedule 4B to the New Roads and Street Works Act 1991[^c-fafd82c2af4080b11885e876b681e02d][^c-0ff19a4adfb6ef7f1dec11be5e2b0ba4]
 
 *Extent: E+W*
 
@@ -112,6 +112,6 @@ Section 41
 
 ## Annotations
 
-[^key-fafd82c2af4080b11885e876b681e02d]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/18/schedule/3) in force at 29.6.2007 for specified purposes for E. and 12.5.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1890/article/3))
+[^c-fafd82c2af4080b11885e876b681e02d]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/18/schedule/3) in force at 29.6.2007 for specified purposes for E. and 12.5.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1890/article/3))
 
-[^key-0ff19a4adfb6ef7f1dec11be5e2b0ba4]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/18/schedule/3) in force at 26.11.2007 for specified purposes for W. and 12.5.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule)
+[^c-0ff19a4adfb6ef7f1dec11be5e2b0ba4]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/18/schedule/3) in force at 26.11.2007 for specified purposes for W. and 12.5.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule)

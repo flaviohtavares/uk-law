@@ -32,7 +32,7 @@ summary: ''
 
 Income Tax
 
-The Alternative Finance Arrangements (Community Investment Tax Relief) Order 2008 (revoked)[^key-f4d8b55e1f54e0642d575e982add64df]
+The Alternative Finance Arrangements (Community Investment Tax Relief) Order 2008 (revoked)[^c-f4d8b55e1f54e0642d575e982add64df]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 10th July 2008
 
-[^key-f4d8b55e1f54e0642d575e982add64df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4d8b55e1f54e0642d575e982add64df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f4d8b55e1f54e0642d575e982add64df]
+## 1. Citation and commencement[^c-f4d8b55e1f54e0642d575e982add64df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Finance Act 2005[^key-f4d8b55e1f54e0642d575e982add64df]
+## 2. Amendment to the Finance Act 2005[^c-f4d8b55e1f54e0642d575e982add64df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4d8b55e1f54e0642d575e982add64df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4d8b55e1f54e0642d575e982add64df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f4d8b55e1f54e0642d575e982add64df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4d8b55e1f54e0642d575e982add64df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f4d8b55e1f54e0642d575e982add64df]: Textual amendment: Order revoked in relation to corporation taxes (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [s. 1181(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/1181/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)); and revoked for all purposes other than corporation tax purposes (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 10 Pt. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/7) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1))
+[^c-f4d8b55e1f54e0642d575e982add64df]: Textual amendment: Order revoked in relation to corporation taxes (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [s. 1181(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/1181/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)); and revoked for all purposes other than corporation tax purposes (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 10 Pt. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/7) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1))

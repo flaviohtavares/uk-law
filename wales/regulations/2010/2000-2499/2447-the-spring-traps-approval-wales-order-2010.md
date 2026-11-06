@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS, WALES
 
-The Spring Traps Approval (Wales) Order 2010 (revoked)[^key-a12f142bd3ce7350d632cbf35aa85fc0]
+The Spring Traps Approval (Wales) Order 2010 (revoked)[^c-a12f142bd3ce7350d632cbf35aa85fc0]
 
 Made
 
@@ -45,27 +45,27 @@ Coming into force
 
 1 November 2010
 
-[^key-a12f142bd3ce7350d632cbf35aa85fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a12f142bd3ce7350d632cbf35aa85fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-a12f142bd3ce7350d632cbf35aa85fc0]
+## 1. Title, commencement and application[^c-a12f142bd3ce7350d632cbf35aa85fc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval of spring traps[^key-a12f142bd3ce7350d632cbf35aa85fc0]
+## 2. Approval of spring traps[^c-a12f142bd3ce7350d632cbf35aa85fc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-a12f142bd3ce7350d632cbf35aa85fc0]
+## 3. Revocations[^c-a12f142bd3ce7350d632cbf35aa85fc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a12f142bd3ce7350d632cbf35aa85fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a12f142bd3ce7350d632cbf35aa85fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-a12f142bd3ce7350d632cbf35aa85fc0]
+## SCHEDULE[^c-a12f142bd3ce7350d632cbf35aa85fc0]
 
 Article 2
 
@@ -73,8 +73,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-a12f142bd3ce7350d632cbf35aa85fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a12f142bd3ce7350d632cbf35aa85fc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a12f142bd3ce7350d632cbf35aa85fc0]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2010/2447) revoked (17.12.2012) by [The Spring Traps Approval (Wales) Order 2012 (S.I. 2012/2941)](https://www.legislation.gov.uk/wsi/2012/2941), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2012/2941/article/1/1), [3](https://www.legislation.gov.uk/wsi/2012/2941/article/3)
+[^c-a12f142bd3ce7350d632cbf35aa85fc0]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2010/2447) revoked (17.12.2012) by [The Spring Traps Approval (Wales) Order 2012 (S.I. 2012/2941)](https://www.legislation.gov.uk/wsi/2012/2941), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2012/2941/article/1/1), [3](https://www.legislation.gov.uk/wsi/2012/2941/article/3)

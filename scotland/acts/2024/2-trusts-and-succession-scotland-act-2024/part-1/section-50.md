@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Rights and remedies of supervisor[^key-bb55c4450d277f008ff2a651b75589a8]
+## 50. Rights and remedies of supervisor[^c-bb55c4450d277f008ff2a651b75589a8]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb55c4450d277f008ff2a651b75589a8]: Commencement: S. 50 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-bb55c4450d277f008ff2a651b75589a8]: Commencement: S. 50 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

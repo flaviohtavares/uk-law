@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Permanent stopping up of streets[^key-d5f36da4dbe72c2c64dd7589ec3980df]
+## 12. Permanent stopping up of streets[^c-d5f36da4dbe72c2c64dd7589ec3980df]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5f36da4dbe72c2c64dd7589ec3980df]: Commencement: Art. 12 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-d5f36da4dbe72c2c64dd7589ec3980df]: Commencement: Art. 12 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

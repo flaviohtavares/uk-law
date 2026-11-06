@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Powers of limited owners for purposes of sections 45, 50 and 51[^key-a8d7e3d71c5f236dd7d56776aa7f82c2][^key-24fcb02307e8b1050072526eeaf0981d]
+## 52. Powers of limited owners for purposes of sections 45, 50 and 51[^c-a8d7e3d71c5f236dd7d56776aa7f82c2][^c-24fcb02307e8b1050072526eeaf0981d]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8d7e3d71c5f236dd7d56776aa7f82c2]: Commencement: S. 52 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-a8d7e3d71c5f236dd7d56776aa7f82c2]: Commencement: S. 52 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-24fcb02307e8b1050072526eeaf0981d]: Commencement: [S. 52](https://www.legislation.gov.uk/asc/2023/3/section/52) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-24fcb02307e8b1050072526eeaf0981d]: Commencement: [S. 52](https://www.legislation.gov.uk/asc/2023/3/section/52) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

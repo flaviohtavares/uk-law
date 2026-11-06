@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## Schedule 3 — Additional amounts for claimants previously entitled to an enhanced disability premium, a disability premium, a disabled child premium or a disabled child element in addition to a severe disability premium[^key-95db77a7ed80c5a5f9ee02f8406aa2e7]
+## Schedule 3 — Additional amounts for claimants previously entitled to an enhanced disability premium, a disability premium, a disabled child premium or a disabled child element in addition to a severe disability premium[^c-95db77a7ed80c5a5f9ee02f8406aa2e7]
 
 *Extent: N.I.*
 
@@ -43,12 +43,12 @@ Regulation 64
 **5.** The additional amount is—
 
 - (a) in the case of a single claimant—
-  - (i) £94.61[^key-f26bd1ff51160e5fd5bd796eed8c2f53] for a claimant meeting the condition in paragraph 4(a);
-  - (ii) £193.73[^key-5f2b077611c13b808ac57488100b4d49] for a claimant meeting the condition in paragraph 4(b); and
-  - (iii) £199.37[^key-9238e3c866445e479cedd84430e5b59e] per disabled child or qualifying young person for a claimant meeting the condition in paragraph 4(c);
+  - (i) £94.61[^c-f26bd1ff51160e5fd5bd796eed8c2f53] for a claimant meeting the condition in paragraph 4(a);
+  - (ii) £193.73[^c-5f2b077611c13b808ac57488100b4d49] for a claimant meeting the condition in paragraph 4(b); and
+  - (iii) £199.37[^c-9238e3c866445e479cedd84430e5b59e] per disabled child or qualifying young person for a claimant meeting the condition in paragraph 4(c);
 - (b) in the case of joint claimants—
-  - (i) £135.17[^key-7844a27e398aeb797c63ec56264a6897] for claimants meeting the condition in paragraph 4(a);
-  - (ii) £277.08[^key-1da55838d493177176cb6fc8e3663389] for claimants meeting the condition in paragraph 4(b); and
+  - (i) £135.17[^c-7844a27e398aeb797c63ec56264a6897] for claimants meeting the condition in paragraph 4(a);
+  - (ii) £277.08[^c-1da55838d493177176cb6fc8e3663389] for claimants meeting the condition in paragraph 4(b); and
   - (iii) £199.37 per disabled child or qualifying young person for claimants meeting the condition in paragraph 4(c).
 
 **6.** The Department may, having regard to the efficient administration of universal credit, decide the time and manner in which the payments of the additional amount are to be paid to claimants already in receipt of universal credit on the date this Schedule comes into operation.
@@ -62,14 +62,14 @@ Regulation 64
 
 ## Annotations
 
-[^key-95db77a7ed80c5a5f9ee02f8406aa2e7]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2016/226/schedule/3) inserted (14.2.2024) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/5)](https://www.legislation.gov.uk/nisr/2024/5), [regs. 1](https://www.legislation.gov.uk/nisr/2024/5/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2024/5/regulation/2/3)
+[^c-95db77a7ed80c5a5f9ee02f8406aa2e7]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2016/226/schedule/3) inserted (14.2.2024) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/5)](https://www.legislation.gov.uk/nisr/2024/5), [regs. 1](https://www.legislation.gov.uk/nisr/2024/5/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2024/5/regulation/2/3)
 
-[^key-f26bd1ff51160e5fd5bd796eed8c2f53]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2016/226/schedule/3/paragraph/5) substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [33(b)(i)](https://www.legislation.gov.uk/nisr/2026/59/article/33/b/i)
+[^c-f26bd1ff51160e5fd5bd796eed8c2f53]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2016/226/schedule/3/paragraph/5) substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [33(b)(i)](https://www.legislation.gov.uk/nisr/2026/59/article/33/b/i)
 
-[^key-5f2b077611c13b808ac57488100b4d49]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2016/226/schedule/3/paragraph/5) substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [33(b)(ii)](https://www.legislation.gov.uk/nisr/2026/59/article/33/b/ii)
+[^c-5f2b077611c13b808ac57488100b4d49]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2016/226/schedule/3/paragraph/5) substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [33(b)(ii)](https://www.legislation.gov.uk/nisr/2026/59/article/33/b/ii)
 
-[^key-9238e3c866445e479cedd84430e5b59e]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2016/226/schedule/3/paragraph/5) substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [33(b)(iii)](https://www.legislation.gov.uk/nisr/2026/59/article/33/b/iii)
+[^c-9238e3c866445e479cedd84430e5b59e]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2016/226/schedule/3/paragraph/5) substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [33(b)(iii)](https://www.legislation.gov.uk/nisr/2026/59/article/33/b/iii)
 
-[^key-7844a27e398aeb797c63ec56264a6897]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2016/226/schedule/3/paragraph/5) substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [33(b)(iv)](https://www.legislation.gov.uk/nisr/2026/59/article/33/b/iv)
+[^c-7844a27e398aeb797c63ec56264a6897]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2016/226/schedule/3/paragraph/5) substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [33(b)(iv)](https://www.legislation.gov.uk/nisr/2026/59/article/33/b/iv)
 
-[^key-1da55838d493177176cb6fc8e3663389]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2016/226/schedule/3/paragraph/5) substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [33(b)(v)](https://www.legislation.gov.uk/nisr/2026/59/article/33/b/v)
+[^c-1da55838d493177176cb6fc8e3663389]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2016/226/schedule/3/paragraph/5) substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [33(b)(v)](https://www.legislation.gov.uk/nisr/2026/59/article/33/b/v)

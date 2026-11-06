@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Overriding easements: land held on behalf of GLA or TfL[^key-a88b6ba041c3f5f051e0690d9202a717]
+## 37. Overriding easements: land held on behalf of GLA or TfL[^c-a88b6ba041c3f5f051e0690d9202a717]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
   > “**relevant day**” means—
   >
-  > - (a) in relation to a specified company which is a company or body through which Transport for London exercises any of its functions, 19th July 2017[^key-57796530282807cb6070bee18a2bd4b3], and
+  > - (a) in relation to a specified company which is a company or body through which Transport for London exercises any of its functions, 19th July 2017[^c-57796530282807cb6070bee18a2bd4b3], and
   > - (b) in all other cases, 13 July 2016.
 
   , and
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a88b6ba041c3f5f051e0690d9202a717]: Commencement: S. 37 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/i)
+[^c-a88b6ba041c3f5f051e0690d9202a717]: Commencement: S. 37 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/i)
 
-[^key-57796530282807cb6070bee18a2bd4b3]: Textual amendment: Words in s. 37(4)(c) substituted (19.7.2017) by [The Neighbourhood Planning Act 2017 (Commencement No. 1) Regulations 2017 (S.I. 2017/767)](https://www.legislation.gov.uk/uksi/2017/767), [reg. 3](https://www.legislation.gov.uk/uksi/2017/767/regulation/3)
+[^c-57796530282807cb6070bee18a2bd4b3]: Textual amendment: Words in s. 37(4)(c) substituted (19.7.2017) by [The Neighbourhood Planning Act 2017 (Commencement No. 1) Regulations 2017 (S.I. 2017/767)](https://www.legislation.gov.uk/uksi/2017/767), [reg. 3](https://www.legislation.gov.uk/uksi/2017/767/regulation/3)

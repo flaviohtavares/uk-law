@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Consultation on proposals for additional activities to become licensable[^key-d38ee1b3f75b8e5c04e2480268051b86]
+## 3. Consultation on proposals for additional activities to become licensable[^c-d38ee1b3f75b8e5c04e2480268051b86]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ and must consider any representations or objections duly made and not withdrawn.
 
 ## Annotations
 
-[^key-d38ee1b3f75b8e5c04e2480268051b86]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/52/section/3) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-d38ee1b3f75b8e5c04e2480268051b86]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/52/section/3) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

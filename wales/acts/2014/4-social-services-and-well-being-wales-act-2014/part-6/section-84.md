@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Regulations about care and support plans[^key-a7bafc9135145319c848ff0e71cb883f]
+## 84. Regulations about care and support plans[^c-a7bafc9135145319c848ff0e71cb883f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ Regulations under section 83 may, for example—
 
 ## Annotations
 
-[^key-a7bafc9135145319c848ff0e71cb883f]: Commencement: S. 84 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-a7bafc9135145319c848ff0e71cb883f]: Commencement: S. 84 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66A. Schedule of charity trustees[^key-90a431bdb912820817b6b7fd107de511]
+## 66A. Schedule of charity trustees[^c-90a431bdb912820817b6b7fd107de511]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90a431bdb912820817b6b7fd107de511]: Textual amendment: S. 66A and cross-heading inserted (30.6.2025) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 3(3)](https://www.legislation.gov.uk/asp/2023/5/section/3/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)
+[^c-90a431bdb912820817b6b7fd107de511]: Textual amendment: S. 66A and cross-heading inserted (30.6.2025) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 3(3)](https://www.legislation.gov.uk/asp/2023/5/section/3/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)

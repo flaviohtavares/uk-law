@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Failure to keep air weapons secure or to report loss to police[^key-783d60fb0a04b6c42e073aedc76a448d]
+## 30. Failure to keep air weapons secure or to report loss to police[^c-783d60fb0a04b6c42e073aedc76a448d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-783d60fb0a04b6c42e073aedc76a448d]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2015/10/section/30) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-783d60fb0a04b6c42e073aedc76a448d]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2015/10/section/30) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

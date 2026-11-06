@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Continuation of tenancies to which Part II applies and grant of new tenancies.[^c318844][^key-edc171ab672f68372fb9e4dda3a2dc4f][^c318841]
+## 24. Continuation of tenancies to which Part II applies and grant of new tenancies.[^c318844][^c-edc171ab672f68372fb9e4dda3a2dc4f][^c318841]
 
 *Extent: E+W*
 
-(1)[^c318845] A tenancy to which this Part of this Act applies shall not come to an end unless terminated in accordance with the provisions of this Part of this Act; and, subject to the following provisions of this Act either the tenant or the landlord under such a tenancy may apply to the court for an order for the grant of[^key-fa8a61aad74e6dc70e474a36182c2a44] a new tenancy—
+(1)[^c318845] A tenancy to which this Part of this Act applies shall not come to an end unless terminated in accordance with the provisions of this Part of this Act; and, subject to the following provisions of this Act either the tenant or the landlord under such a tenancy may apply to the court for an order for the grant of[^c-fa8a61aad74e6dc70e474a36182c2a44] a new tenancy—
 
 - (a) if the landlord has given notice under section 25 of this Act to terminate the tenancy, or
 - (b) if the tenant has made a request for a new tenancy in accordance with section 26 of this Act.
 
 (2) The last foregoing subsection shall not prevent the coming to an end of a tenancy by notice to quit given by the tenant, by surrender or forfeiture, or by the forfeiture of a superior tenancy, unless—
 
-- (a) in the case of a notice to quit, the notice was given before the tenant had been in occupation in right of the tenancy for one month; [^key-737f9fd42b5cc2158bd33e5fd60e4d78]...
-- (b)[^key-737f9fd42b5cc2158bd33e5fd60e4d78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in the case of a notice to quit, the notice was given before the tenant had been in occupation in right of the tenancy for one month; [^c-737f9fd42b5cc2158bd33e5fd60e4d78]...
+- (b)[^c-737f9fd42b5cc2158bd33e5fd60e4d78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-061ffd00b5572e94a1cda9518460ab3f] Neither the tenant nor the landlord may make an application under subsection (1) above if the other has made such an application and the application has been served.
+(2A)[^c-061ffd00b5572e94a1cda9518460ab3f] Neither the tenant nor the landlord may make an application under subsection (1) above if the other has made such an application and the application has been served.
 
 (2B) Neither the tenant nor the landlord may make such an application if the landlord has made an application under section 29(2) of this Act and the application has been served.
 
@@ -45,16 +45,16 @@ summary: ''
 
 [^c318844]: Modification: S. 24 restricted by [Leasehold Reform Act 1967 (c. 88)](https://www.legislation.gov.uk/ukpga/1967/88) , [s. 35(2)](https://www.legislation.gov.uk/ukpga/1967/88/section/35/2)
 
-[^key-edc171ab672f68372fb9e4dda3a2dc4f]: Modification: [Ss. 24-28](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/24) excluded (2.12.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 209](https://www.legislation.gov.uk/ukpga/2023/55/section/209), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
+[^c-edc171ab672f68372fb9e4dda3a2dc4f]: Modification: [Ss. 24-28](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/24) excluded (2.12.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 209](https://www.legislation.gov.uk/ukpga/2023/55/section/209), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
 
 [^c318841]: Textual amendment: S. 24 substituted by virtue of [Law of Property Act 1969 (c. 59)](https://www.legislation.gov.uk/ukpga/1969/59) , [s. 15](https://www.legislation.gov.uk/ukpga/1969/59/section/15) , [Sch. 1](https://www.legislation.gov.uk/ukpga/1969/59/schedule/1)
 
 [^c318845]: Modification: S. 24(1) amended by [Opencast Coal Act 1958 (c. 69)](https://www.legislation.gov.uk/ukpga/1958/69) , [s. 37](https://www.legislation.gov.uk/ukpga/1958/69/section/37) , [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/1958/69/schedule/7/paragraph/22)
 
-[^key-fa8a61aad74e6dc70e474a36182c2a44]: Textual amendment: Words in s. 24(1) substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2003/3096/article/3/1)
+[^c-fa8a61aad74e6dc70e474a36182c2a44]: Textual amendment: Words in s. 24(1) substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2003/3096/article/3/1)
 
-[^key-737f9fd42b5cc2158bd33e5fd60e4d78]: Textual amendment: S. 24(2)(b) and preceding word repealed (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3096/schedule/6)
+[^c-737f9fd42b5cc2158bd33e5fd60e4d78]: Textual amendment: S. 24(2)(b) and preceding word repealed (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3096/schedule/6)
 
-[^key-061ffd00b5572e94a1cda9518460ab3f]: Textual amendment: S. 24(2A)-(2C) inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2003/3096/article/3/2)
+[^c-061ffd00b5572e94a1cda9518460ab3f]: Textual amendment: S. 24(2A)-(2C) inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2003/3096/article/3/2)
 
 [^c318846]: Modification: S. 24(3)(b) excluded by [Landlord and Tenant (Licensed Premises) Act 1990 (c. 39, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1990/39) , [s. 1(2)](https://www.legislation.gov.uk/ukpga/1990/39/section/1/2)

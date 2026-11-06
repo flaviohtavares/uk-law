@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Preparation and review of residents’ engagement strategy by principal accountable person[^key-321b5eb97abdca201383632acd33fd95]
+## 40. Preparation and review of residents’ engagement strategy by principal accountable person[^c-321b5eb97abdca201383632acd33fd95]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-321b5eb97abdca201383632acd33fd95]: Commencement: S. 40 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-321b5eb97abdca201383632acd33fd95]: Commencement: S. 40 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

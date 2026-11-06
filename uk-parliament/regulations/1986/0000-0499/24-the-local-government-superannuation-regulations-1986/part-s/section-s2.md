@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## S2. Application to benefits in respect of former employments[^key-3b1d32c34571728528d05c7a75283ddc]
+## S2. Application to benefits in respect of former employments[^c-3b1d32c34571728528d05c7a75283ddc]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ he may, by notice in writing given to the appropriate administering authority wi
 
 ## Annotations
 
-[^key-3b1d32c34571728528d05c7a75283ddc]: Commencement: [Reg. S2](https://www.legislation.gov.uk/uksi/1986/24/regulation/S2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-3b1d32c34571728528d05c7a75283ddc]: Commencement: [Reg. S2](https://www.legislation.gov.uk/uksi/1986/24/regulation/S2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

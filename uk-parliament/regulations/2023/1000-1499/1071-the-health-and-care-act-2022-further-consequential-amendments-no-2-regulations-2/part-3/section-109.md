@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Amendment of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018[^key-28603c834cfc858efa831b1017ce9b22]
+## 109. Amendment of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018[^c-28603c834cfc858efa831b1017ce9b22]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28603c834cfc858efa831b1017ce9b22]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/2023/1071/regulation/109) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-28603c834cfc858efa831b1017ce9b22]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/2023/1071/regulation/109) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00086]: Footnote: [S.S.I. 2018/66](https://www.legislation.gov.uk/ssi/2018/66), to which there are amendments not relevant to these Regulations.

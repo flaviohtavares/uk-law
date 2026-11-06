@@ -46,17 +46,17 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 251(1)(a), (2), (4) and (5) of the Finance Act 2004[^f00001], and now exercisable by them[^f00002].
 
-## 1. Citation, commencement and effect[^key-42cdef6657bd6d708c87cd86f193ce26]
+## 1. Citation, commencement and effect[^c-42cdef6657bd6d708c87cd86f193ce26]
 
 (1) These Regulations may be cited as the Registered Pension Schemes (Provision of Information) (Amendment) (No.2) Regulations 2011 and come into force on 11th August 2011.
 
 (2) The amendments in regulation 4(3) and (9), and regulation 6 have effect for the tax year 2012-13 and subsequent years.
 
-## 2. Amendment of the Registered Pension Schemes (Provision of Information) Regulations 2006[^key-d38e07c3c11d50fb3905fde626d68fc4]
+## 2. Amendment of the Registered Pension Schemes (Provision of Information) Regulations 2006[^c-d38e07c3c11d50fb3905fde626d68fc4]
 
 The Registered Pension Schemes (Provision of Information) Regulations 2006[^f00003] are amended as follows.
 
-**3.**[^key-831563ce282fb307c3e5bb2db0865979] (1) Regulation 2 (interpretation) is amended as follows.
+**3.**[^c-831563ce282fb307c3e5bb2db0865979] (1) Regulation 2 (interpretation) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -70,7 +70,7 @@ The Registered Pension Schemes (Provision of Information) Regulations 2006[^f000
 
 (3) In paragraph (2), for “section 839 of ICTA”, substitute “section 993 of ITA 2007[^f00008]”.
 
-**4.**[^key-f93b184ab82ce353acf3573865fbce94] (1) The table appended to Regulation 3(1) (provision of information by scheme administrators to the Commissioners) is amended as follows.
+**4.**[^c-f93b184ab82ce353acf3573865fbce94] (1) The table appended to Regulation 3(1) (provision of information by scheme administrators to the Commissioners) is amended as follows.
 
 (2) In the second column of entry 1 (unauthorised payments)[^f00009], in sub paragraph (c), for “HMRC” substitute “the Commissioners”.
 
@@ -120,11 +120,11 @@ The Registered Pension Schemes (Provision of Information) Regulations 2006[^f000
 
 (8) In entry 18 (scheme chargeable payment), in column 1 omit “section 181A (alternatively secured pensions: minimum level of payment);”.
 
-(9)[^key-13c632b134c3fcabaed2d84bf31bc92e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-13c632b134c3fcabaed2d84bf31bc92e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-15c8df084e55bf1e611eb46b06aec01a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-15c8df084e55bf1e611eb46b06aec01a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9265ecd349593834b58d31f3bc67792f] For regulation 11 (information provided by member to scheme administrator: enhanced lifetime allowance) substitute—
+**6.**[^c-9265ecd349593834b58d31f3bc67792f] For regulation 11 (information provided by member to scheme administrator: enhanced lifetime allowance) substitute—
 
 > **11. Information provided by member to scheme administrator: enhanced lifetime allowance, enhanced protection or fixed protection**
 >
@@ -137,13 +137,13 @@ The Registered Pension Schemes (Provision of Information) Regulations 2006[^f000
 
 .
 
-**7.**[^key-aa2cb1734778dd219ba527f8c89ed33e] In regulation 14 (information provided to members by scheme administrators about benefit crystallisation events), after paragraph (2)(b) insert—
+**7.**[^c-aa2cb1734778dd219ba527f8c89ed33e] In regulation 14 (information provided to members by scheme administrators about benefit crystallisation events), after paragraph (2)(b) insert—
 
 > - (ba) under paragraph (1)(a) in a tax year following the tax year in which the member reaches the age of 75;
 
 .
 
-**8.**[^key-49abd935ea1d94ab325c657715dc4900] After regulation 14 insert—
+**8.**[^c-49abd935ea1d94ab325c657715dc4900] After regulation 14 insert—
 
 > **14A. Annual allowance: annual provision of information by scheme administrator to member**
 >
@@ -213,7 +213,7 @@ The Registered Pension Schemes (Provision of Information) Regulations 2006[^f000
 
 .
 
-**9.**[^key-84a64d968a87d5b5a2ed52a078778bbd] After regulation 15 (information between scheme administrators) insert—
+**9.**[^c-84a64d968a87d5b5a2ed52a078778bbd] After regulation 15 (information between scheme administrators) insert—
 
 > **15A. Annual allowance: information to be provided to scheme administrators by certain persons**
 >
@@ -241,7 +241,7 @@ The Registered Pension Schemes (Provision of Information) Regulations 2006[^f000
 >
 > (7) For the purposes of this regulation “responsible person” means a person who is responsible for providing the scheme administrator of a registered pension scheme with such information as will enable the scheme administrator to calculate the pension input amount in respect of a member where the member is an active member of that scheme in relation to an arrangement under the scheme for all or part of a pension input period ending in a tax year.
 
-**10.**[^key-ba0b8a820731f47c3a67131acfffb235] In regulation 16 (pensions and annuities in payment: information provided to and by insurance companies)—
+**10.**[^c-ba0b8a820731f47c3a67131acfffb235] In regulation 16 (pensions and annuities in payment: information provided to and by insurance companies)—
 
 - (a) in paragraph (1) for “an unsecured pension” substitute “a drawdown pension”; and
 - (b) after paragraph (3) insert—
@@ -253,9 +253,9 @@ The Registered Pension Schemes (Provision of Information) Regulations 2006[^f000
 
   .
 
-**11.**[^key-d49447b343078b4c33f7a8be8f345af3] In the heading above regulation 17 (payments to insurance companies from unsecured pension funds), for “unsecured pension” substitute “drawdown pension”.
+**11.**[^c-d49447b343078b4c33f7a8be8f345af3] In the heading above regulation 17 (payments to insurance companies from unsecured pension funds), for “unsecured pension” substitute “drawdown pension”.
 
-**12.**[^key-6ac2e3b1625556a479bee97ae687c140] In regulation 17—
+**12.**[^c-6ac2e3b1625556a479bee97ae687c140] In regulation 17—
 
 - (a) in paragraph (1) for “an unsecured pension” substitute “a drawdown pension”,
 - (b) in paragraphs (2) and (4) for “unsecured pension” substitute “drawdown pension”,
@@ -318,13 +318,13 @@ A Tax Information and Impact Note (“TIIN”) covering this instrument was publ
 
 [^f00002]: Footnote: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(1) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that a reference to the Commissioners of Inland Revenue, however expressed, shall be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
 
-[^key-42cdef6657bd6d708c87cd86f193ce26]: Commencement: Reg. 1 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
+[^c-42cdef6657bd6d708c87cd86f193ce26]: Commencement: Reg. 1 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
 
-[^key-d38e07c3c11d50fb3905fde626d68fc4]: Commencement: Reg. 2 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
+[^c-d38e07c3c11d50fb3905fde626d68fc4]: Commencement: Reg. 2 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567) as amended by [S.I. 2006/1961](https://www.legislation.gov.uk/uksi/2006/1961) and [2011/301](https://www.legislation.gov.uk/uksi/2011/301); there are other amending instruments but none are relevant.
 
-[^key-831563ce282fb307c3e5bb2db0865979]: Commencement: Reg. 3 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
+[^c-831563ce282fb307c3e5bb2db0865979]: Commencement: Reg. 3 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
 
 [^f00004]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
@@ -336,7 +336,7 @@ A Tax Information and Impact Note (“TIIN”) covering this instrument was publ
 
 [^f00008]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
-[^key-f93b184ab82ce353acf3573865fbce94]: Commencement: Reg. 4 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
+[^c-f93b184ab82ce353acf3573865fbce94]: Commencement: Reg. 4 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
 
 [^f00009]: Footnote: Entries 1 and 9 were amended by [S.I. 2011/301](https://www.legislation.gov.uk/uksi/2011/301)
 
@@ -344,26 +344,26 @@ A Tax Information and Impact Note (“TIIN”) covering this instrument was publ
 
 [^f00011]: Footnote: [S.I. 2011/1752](https://www.legislation.gov.uk/uksi/2011/1752).
 
-[^key-13c632b134c3fcabaed2d84bf31bc92e]: Textual amendment: [Reg. 4(9)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/4/9) omitted (with effect in accordance with Sch. 1 para. 35(10) of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 35(8)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/8) (with [Sch. 1 para. 35(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11))
+[^c-13c632b134c3fcabaed2d84bf31bc92e]: Textual amendment: [Reg. 4(9)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/4/9) omitted (with effect in accordance with Sch. 1 para. 35(10) of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 35(8)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/8) (with [Sch. 1 para. 35(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11))
 
-[^key-15c8df084e55bf1e611eb46b06aec01a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/1797/regulation/5) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 35(9)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/9)[(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11) (with [Sch. 1 para. 35(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11))
+[^c-15c8df084e55bf1e611eb46b06aec01a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/1797/regulation/5) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 35(9)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/9)[(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11) (with [Sch. 1 para. 35(11)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/35/11))
 
-[^key-9265ecd349593834b58d31f3bc67792f]: Commencement: Reg. 6 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
+[^c-9265ecd349593834b58d31f3bc67792f]: Commencement: Reg. 6 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
 
 [^f00015]: Footnote: Section 256(1) was amended by paragraph 42 of Schedule 6 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25).
 
-[^key-aa2cb1734778dd219ba527f8c89ed33e]: Commencement: Reg. 7 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
+[^c-aa2cb1734778dd219ba527f8c89ed33e]: Commencement: Reg. 7 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
 
-[^key-49abd935ea1d94ab325c657715dc4900]: Commencement: Reg. 8 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
+[^c-49abd935ea1d94ab325c657715dc4900]: Commencement: Reg. 8 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
 
 [^f00016]: Footnote: Subsection (5B) was inserted into section 230 of the Finance Act 2004 by paragraph 7 of Schedule 17 to the Finance Act 2011.
 
 [^f00017]: Footnote: Subsection (5B) was inserted into section 234 of the Finance Act 2004 by paragraph 10 of Schedule 17 to the Finance Act 2011.
 
-[^key-84a64d968a87d5b5a2ed52a078778bbd]: Commencement: Reg. 9 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
+[^c-84a64d968a87d5b5a2ed52a078778bbd]: Commencement: Reg. 9 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
 
-[^key-ba0b8a820731f47c3a67131acfffb235]: Commencement: Reg. 10 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
+[^c-ba0b8a820731f47c3a67131acfffb235]: Commencement: Reg. 10 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
 
-[^key-d49447b343078b4c33f7a8be8f345af3]: Commencement: Reg. 11 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
+[^c-d49447b343078b4c33f7a8be8f345af3]: Commencement: Reg. 11 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
 
-[^key-6ac2e3b1625556a479bee97ae687c140]: Commencement: Reg. 12 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)
+[^c-6ac2e3b1625556a479bee97ae687c140]: Commencement: Reg. 12 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1797/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Arrangements for supervision and rehabilitation: female offenders[^key-588afc223e58cfed1d11185b3220e9f3]
+## 10. Arrangements for supervision and rehabilitation: female offenders[^c-588afc223e58cfed1d11185b3220e9f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In section 3 of the Offender Management Act 2007 (power to make arrangements for
 
 ## Annotations
 
-[^key-588afc223e58cfed1d11185b3220e9f3]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/11/section/10) in force at 1.6.2014 by [S.I. 2014/1287](https://www.legislation.gov.uk/uksi/2014/1287), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1287/article/2/a)
+[^c-588afc223e58cfed1d11185b3220e9f3]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/11/section/10) in force at 1.6.2014 by [S.I. 2014/1287](https://www.legislation.gov.uk/uksi/2014/1287), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1287/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Section 70: supplementary[^key-5a2ab51c07b0d1bf14c219fef904aaba][^key-9b7fb15862a8f8a7ddfbe20f921770ea]
+## 71. Section 70: supplementary[^c-5a2ab51c07b0d1bf14c219fef904aaba][^c-9b7fb15862a8f8a7ddfbe20f921770ea]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a2ab51c07b0d1bf14c219fef904aaba]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-5a2ab51c07b0d1bf14c219fef904aaba]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-9b7fb15862a8f8a7ddfbe20f921770ea]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2025/21/section/71) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/vii)
+[^c-9b7fb15862a8f8a7ddfbe20f921770ea]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2025/21/section/71) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/vii)

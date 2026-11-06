@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Payments for redemption of landlord’s share[^key-ed3acc801b7ce5442e101aecba62b0e3]
+## 69. Payments for redemption of landlord’s share[^c-ed3acc801b7ce5442e101aecba62b0e3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ The reserved part shall be 75 per cent. in the case of a sum which is a capital 
 
 ## Annotations
 
-[^key-ed3acc801b7ce5442e101aecba62b0e3]: Commencement: Reg. 69 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-ed3acc801b7ce5442e101aecba62b0e3]: Commencement: Reg. 69 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

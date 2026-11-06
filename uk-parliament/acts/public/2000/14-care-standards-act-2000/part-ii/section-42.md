@@ -22,7 +22,7 @@ summary: ''
 
 (1) Regulations may provide for the provisions of this Part to apply, with such modifications as may be specified in the regulations, to prescribed persons to whom subsection (2) , (2A)[^c21096221] or (3) applies.
 
-(2)[^key-dcb25f827d889cb4bf05a136fd084c57] This subsection applies to persons who provide services which are similar to services which may or must be provided by Welsh NHS bodies.
+(2)[^c-dcb25f827d889cb4bf05a136fd084c57] This subsection applies to persons who provide services which are similar to services which may or must be provided by Welsh NHS bodies.
 
 (2A) This subsection applies to—
 
@@ -41,7 +41,7 @@ summary: ''
 
 - “**cross-border Special Health Authorities**” means Special Health Authorities not performing functions only or mainly in respect of England or only or mainly in respect of Wales,
 - “**English local authorities**” means local authorities in England,
-- [^key-a64117c32cfe7b95a3ceca98ee870908]...
+- [^c-a64117c32cfe7b95a3ceca98ee870908]...
 - “**Welsh NHS bodies**” means—
   - (a) Local Health Boards,
   - (b) National Health Service trusts all or most of whose hospitals, establishments and facilities are situated in Wales,
@@ -54,7 +54,7 @@ summary: ''
 
 [^c21096221]: Textual amendment: Words in s. 42(1) inserted (21.7.2008 for certain purposes and 1.10.2010 otherwise) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 95](https://www.legislation.gov.uk/ukpga/2008/14/section/95), [170(1)(b)(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/1/b/3), [Sch. 5 para. 28(2)](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/28/2); [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/807/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/part/2) (with [arts. 3-22](https://www.legislation.gov.uk/uksi/2010/807/article/3))
 
-[^key-dcb25f827d889cb4bf05a136fd084c57]: Textual amendment: S. 42(2) substituted (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/13/a); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/d), [Sch.](https://www.legislation.gov.uk/wsi/2019/864/schedule) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2019/864/article/3))
+[^c-dcb25f827d889cb4bf05a136fd084c57]: Textual amendment: S. 42(2) substituted (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/13/a); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/d), [Sch.](https://www.legislation.gov.uk/wsi/2019/864/schedule) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2019/864/article/3))
 
 [^c21096281]: Textual amendment: Words in s. 42(4) inserted (21.7.2008 for certain purposes and 1.10.2010 otherwise) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 95](https://www.legislation.gov.uk/ukpga/2008/14/section/95), [170(1)(b)(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/1/b/3), [Sch. 5 para. 28(4)](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/28/4); [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/807/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/part/2) (with [arts. 3-22](https://www.legislation.gov.uk/uksi/2010/807/article/3))
 
@@ -62,4 +62,4 @@ summary: ''
 
 [^c21096301]: Textual amendment: S. 42(6)(7) inserted (21.7.2008 for certain purposes and 1.10.2010 otherwise) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 95](https://www.legislation.gov.uk/ukpga/2008/14/section/95), [170(1)(b)(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/1/b/3), [Sch. 5 para. 28(6)](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/28/6); [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/807/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/part/2) (with [arts. 3-22](https://www.legislation.gov.uk/uksi/2010/807/article/3))
 
-[^key-a64117c32cfe7b95a3ceca98ee870908]: Textual amendment: Words in s. 42(7) repealed (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 13(b)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/13/b); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/d), [Sch.](https://www.legislation.gov.uk/wsi/2019/864/schedule) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2019/864/article/3))
+[^c-a64117c32cfe7b95a3ceca98ee870908]: Textual amendment: Words in s. 42(7) repealed (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 13(b)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/13/b); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/d), [Sch.](https://www.legislation.gov.uk/wsi/2019/864/schedule) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2019/864/article/3))

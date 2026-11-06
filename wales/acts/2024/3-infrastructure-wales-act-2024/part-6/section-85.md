@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Infrastructure consent orders: publication and procedure[^key-096879cbeb6bbca818f03979dee84978][^key-f537550a82688864cfbee911269b3f7c]
+## 85. Infrastructure consent orders: publication and procedure[^c-096879cbeb6bbca818f03979dee84978][^c-f537550a82688864cfbee911269b3f7c]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ the order must be contained in a statutory instrument.
 
 ## Annotations
 
-[^key-096879cbeb6bbca818f03979dee84978]: Commencement: S. 85 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-096879cbeb6bbca818f03979dee84978]: Commencement: S. 85 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-f537550a82688864cfbee911269b3f7c]: Commencement: [S. 85](https://www.legislation.gov.uk/asc/2024/3/section/85) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-f537550a82688864cfbee911269b3f7c]: Commencement: [S. 85](https://www.legislation.gov.uk/asc/2024/3/section/85) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

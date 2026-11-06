@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Amendments to the Care Standards Act 2000 (Registration) (England) Regulations 2010[^key-1c866e8587191214871bfb9bbd95f4d9]
+## 16. Amendments to the Care Standards Act 2000 (Registration) (England) Regulations 2010[^c-1c866e8587191214871bfb9bbd95f4d9]
 
 *Extent: E+W*
 
@@ -283,6 +283,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c866e8587191214871bfb9bbd95f4d9]: Commencement: Reg. 16 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-1c866e8587191214871bfb9bbd95f4d9]: Commencement: Reg. 16 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2010/2130](https://www.legislation.gov.uk/uksi/2010/2130), amended by [S.I. 2013/446](https://www.legislation.gov.uk/uksi/2013/446), [2013/706](https://www.legislation.gov.uk/uksi/2013/706), [2013/1394](https://www.legislation.gov.uk/uksi/2013/1394), [2013/3239](https://www.legislation.gov.uk/uksi/2013/3239), [2015/541](https://www.legislation.gov.uk/uksi/2015/541), [2016/481](https://www.legislation.gov.uk/uksi/2016/481), [2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).

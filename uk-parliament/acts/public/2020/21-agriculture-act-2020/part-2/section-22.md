@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Modification of certain assimilated direct legislation in connection with exceptional market conditions and for general purposes[^c24383031][^key-94d2cfa836cc255e2dc106bd508394e9]
+## 22. Modification of certain assimilated direct legislation in connection with exceptional market conditions and for general purposes[^c24383031][^c-94d2cfa836cc255e2dc106bd508394e9]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c24383031]: Commencement: S. 22 in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-94d2cfa836cc255e2dc106bd508394e9]: Textual amendment: Words in s. 22 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(g)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/g)
+[^c-94d2cfa836cc255e2dc106bd508394e9]: Textual amendment: Words in s. 22 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(g)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/g)

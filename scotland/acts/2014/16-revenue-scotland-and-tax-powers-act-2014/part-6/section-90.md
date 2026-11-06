@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Effect of referral on enquiry[^key-9c9780e7e5a106011710fb6d6fd74c4d]
+## 90. Effect of referral on enquiry[^c-9c9780e7e5a106011710fb6d6fd74c4d]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c9780e7e5a106011710fb6d6fd74c4d]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2014/16/section/90) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-9c9780e7e5a106011710fb6d6fd74c4d]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2014/16/section/90) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

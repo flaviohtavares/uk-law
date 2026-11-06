@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Increased penalty for improper importation of firearms etc[^key-6364f234c807450b9ddcf0b6d01853ee]
+## 111. Increased penalty for improper importation of firearms etc[^c-6364f234c807450b9ddcf0b6d01853ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6364f234c807450b9ddcf0b6d01853ee]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2014/12/section/111) in force at 14.7.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/949/article/6/d)
+[^c-6364f234c807450b9ddcf0b6d01853ee]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2014/12/section/111) in force at 14.7.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/949/article/6/d)

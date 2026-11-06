@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. General power of exclusion[^key-a9789055c9067de4e0533771633f2284]
+## 115. General power of exclusion[^c-a9789055c9067de4e0533771633f2284]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ OFCOM may, at any time, notify any applicant or bidder of its exclusion from the
 
 ## Annotations
 
-[^key-a9789055c9067de4e0533771633f2284]: Commencement: Reg. 115 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-a9789055c9067de4e0533771633f2284]: Commencement: Reg. 115 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
 [^f00006]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).

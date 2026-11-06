@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 603. Revocation of references to person no longer performing regulatory functions[^key-f4e4d67a5daa15f1acf78c9a09ecda70]
+## 603. Revocation of references to person no longer performing regulatory functions[^c-f4e4d67a5daa15f1acf78c9a09ecda70]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In regulation 4(1) of the Terrorism Act 2000 (Crown Servants and Regulators) Reg
 
 ## Annotations
 
-[^key-f4e4d67a5daa15f1acf78c9a09ecda70]: Commencement: Art. 603 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f4e4d67a5daa15f1acf78c9a09ecda70]: Commencement: Art. 603 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

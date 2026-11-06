@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Power to direct additional crew to be carried[^key-36b8bd31d41bc972cac94e9ebca79e65]
+## 38. Power to direct additional crew to be carried[^c-36b8bd31d41bc972cac94e9ebca79e65]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Department may, in the interests of safety, direct the operator of any aircr
 
 ## Annotations
 
-[^key-36b8bd31d41bc972cac94e9ebca79e65]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2015/870/article/38) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-36b8bd31d41bc972cac94e9ebca79e65]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2015/870/article/38) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

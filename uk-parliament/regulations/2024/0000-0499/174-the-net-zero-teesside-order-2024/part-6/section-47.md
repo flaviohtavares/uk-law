@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Arbitration[^key-543e37a8c047e8e04427ad40d2413c00]
+## 47. Arbitration[^c-543e37a8c047e8e04427ad40d2413c00]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-543e37a8c047e8e04427ad40d2413c00]: Commencement: Art. 47 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-543e37a8c047e8e04427ad40d2413c00]: Commencement: Art. 47 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

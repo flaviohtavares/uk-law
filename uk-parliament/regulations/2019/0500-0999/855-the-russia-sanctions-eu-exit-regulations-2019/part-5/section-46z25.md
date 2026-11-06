@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z25. Import of liquefied natural gas[^key-b679795f4dfac9be9858fb514b5a3313]
+## 46Z25. Import of liquefied natural gas[^c-b679795f4dfac9be9858fb514b5a3313]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b679795f4dfac9be9858fb514b5a3313]: Textual amendment: Pt. 5 Chs. 4L, 4M inserted (1.1.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2022/1110/regulation/6)
+[^c-b679795f4dfac9be9858fb514b5a3313]: Textual amendment: Pt. 5 Chs. 4L, 4M inserted (1.1.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2022/1110/regulation/6)

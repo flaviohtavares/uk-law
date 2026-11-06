@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45.[^key-17c5928ac90a21890ff46fcec8b5b102]
+## 45.[^c-17c5928ac90a21890ff46fcec8b5b102]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Regulations listed in the Schedule are revoked.
 
 ## Annotations
 
-[^key-17c5928ac90a21890ff46fcec8b5b102]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-17c5928ac90a21890ff46fcec8b5b102]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

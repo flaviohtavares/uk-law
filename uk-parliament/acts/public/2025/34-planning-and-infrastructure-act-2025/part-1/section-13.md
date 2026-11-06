@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Planning Act 2008: legal challenges[^key-5e2ad42b7f90f4a711a0a1c19adbb4e3][^key-212bf6eb5a855ba7072854afd7e1bf1c]
+## 13. Planning Act 2008: legal challenges[^c-5e2ad42b7f90f4a711a0a1c19adbb4e3][^c-212bf6eb5a855ba7072854afd7e1bf1c]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e2ad42b7f90f4a711a0a1c19adbb4e3]: Commencement: S. 13 not in force at Royal Assent, see [s. 118(1)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/e)
+[^c-5e2ad42b7f90f4a711a0a1c19adbb4e3]: Commencement: S. 13 not in force at Royal Assent, see [s. 118(1)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/e)
 
-[^key-212bf6eb5a855ba7072854afd7e1bf1c]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/34/section/13) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/c)
+[^c-212bf6eb5a855ba7072854afd7e1bf1c]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/34/section/13) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 301. Effect of repayment of PRT: special rule[^key-75a18517e266de69b4aae9610e201882]
+## 301. Effect of repayment of PRT: special rule[^c-75a18517e266de69b4aae9610e201882]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75a18517e266de69b4aae9610e201882]: Modification: [S. 301](https://www.legislation.gov.uk/ukpga/2010/4/section/301) restricted (14.7.2022) by [Energy (Oil and Gas) Profits Levy Act 2022 (c. 40)](https://www.legislation.gov.uk/ukpga/2022/40), [s. 1(5)(d)](https://www.legislation.gov.uk/ukpga/2022/40/section/1/5/d) (with [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/15/1), [16(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/16/1))
+[^c-75a18517e266de69b4aae9610e201882]: Modification: [S. 301](https://www.legislation.gov.uk/ukpga/2010/4/section/301) restricted (14.7.2022) by [Energy (Oil and Gas) Profits Levy Act 2022 (c. 40)](https://www.legislation.gov.uk/ukpga/2022/40), [s. 1(5)(d)](https://www.legislation.gov.uk/ukpga/2022/40/section/1/5/d) (with [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/15/1), [16(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/16/1))

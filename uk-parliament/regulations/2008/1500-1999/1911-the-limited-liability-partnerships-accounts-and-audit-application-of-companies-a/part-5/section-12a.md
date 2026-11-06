@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Strategic report[^key-4e7e2aecfeb9b9d24cb60b3b447c2fb1]
+## 12A. Strategic report[^c-4e7e2aecfeb9b9d24cb60b3b447c2fb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,7 +52,7 @@ Sections 414A, 414C and 414D apply to LLPs, modified so that they read as follow
 >
 > **414C. Contents of strategic report**
 >
-> (1)[^key-d30590cdc8605d733281286676af6032] The strategic report of a traded LLP and of a banking LLP—
+> (1)[^c-d30590cdc8605d733281286676af6032] The strategic report of a traded LLP and of a banking LLP—
 >
 > - (a) must contain a fair review of the LLP’s business and a description of the principal risks and uncertainties facing the LLP; and
 > - (b) where subsection (1A) applies, must in addition to the information described in paragraph (a), contain climate-related financial disclosures.
@@ -82,7 +82,7 @@ Sections 414A, 414C and 414D apply to LLPs, modified so that they read as follow
 >
 > (4) In subsection (3), “key performance indicators” means factors by reference to which the development, performance or position of the LLP’s business can be measured effectively.
 >
-> (4A)[^key-5205173cc477a0bba4a5e1b199394976] In this section and section 416A, “climate-related financial disclosures” means—
+> (4A)[^c-5205173cc477a0bba4a5e1b199394976] In this section and section 416A, “climate-related financial disclosures” means—
 >
 > - (a) a description of the LLP’s governance arrangements in relation to assessing and managing climate-related risks and opportunities;
 > - (b) a description of how the LLP identifies, assesses, and manages climate-related risks and opportunities;
@@ -125,8 +125,8 @@ Sections 414A, 414C and 414D apply to LLPs, modified so that they read as follow
 
 ## Annotations
 
-[^key-4e7e2aecfeb9b9d24cb60b3b447c2fb1]: Textual amendment: Reg. 12A inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-4e7e2aecfeb9b9d24cb60b3b447c2fb1]: Textual amendment: Reg. 12A inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-d30590cdc8605d733281286676af6032]: Textual amendment: Words in [reg. 12A](https://www.legislation.gov.uk/uksi/2008/1911/regulation/12A) substituted (6.4.2022) by [The Limited Liability Partnerships (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/46)](https://www.legislation.gov.uk/uksi/2022/46), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/46/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/46/regulation/2/2/a)
+[^c-d30590cdc8605d733281286676af6032]: Textual amendment: Words in [reg. 12A](https://www.legislation.gov.uk/uksi/2008/1911/regulation/12A) substituted (6.4.2022) by [The Limited Liability Partnerships (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/46)](https://www.legislation.gov.uk/uksi/2022/46), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/46/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/46/regulation/2/2/a)
 
-[^key-5205173cc477a0bba4a5e1b199394976]: Textual amendment: Words in [reg. 12A](https://www.legislation.gov.uk/uksi/2008/1911/regulation/12A) inserted (6.4.2022) by [The Limited Liability Partnerships (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/46)](https://www.legislation.gov.uk/uksi/2022/46), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/46/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/46/regulation/2/2/b)
+[^c-5205173cc477a0bba4a5e1b199394976]: Textual amendment: Words in [reg. 12A](https://www.legislation.gov.uk/uksi/2008/1911/regulation/12A) inserted (6.4.2022) by [The Limited Liability Partnerships (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/46)](https://www.legislation.gov.uk/uksi/2022/46), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/46/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/46/regulation/2/2/b)

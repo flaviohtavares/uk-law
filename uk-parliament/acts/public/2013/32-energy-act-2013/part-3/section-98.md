@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Powers of HMRC in relation to information[^key-c6052041b418a00e5597e479b41ac599]
+## 98. Powers of HMRC in relation to information[^c-c6052041b418a00e5597e479b41ac599]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ for the purpose of facilitating the ONR, inspector or health and safety inspecto
 
 ## Annotations
 
-[^key-c6052041b418a00e5597e479b41ac599]: Commencement: S. 98 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-c6052041b418a00e5597e479b41ac599]: Commencement: S. 98 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

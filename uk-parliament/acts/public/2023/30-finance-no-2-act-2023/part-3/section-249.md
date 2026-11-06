@@ -29,7 +29,7 @@ summary: ''
   - (i) an acceptable accounting standard, or
   - (ii) a financial accounting standard whose application is adjusted to prevent material competitive distortions.
 
-(2) But subsection (1)(d) is not to be taken as imposing a requirement to consolidate entities where that is not required, or is not permitted, by the[^key-6ac6a14970ee94b488fd3da3677410f0] authorised accounting standard that is used as the basis for the statements that would have been prepared[^key-060f34f3205782c9a0cd0df91b86e752].
+(2) But subsection (1)(d) is not to be taken as imposing a requirement to consolidate entities where that is not required, or is not permitted, by the[^c-6ac6a14970ee94b488fd3da3677410f0] authorised accounting standard that is used as the basis for the statements that would have been prepared[^c-060f34f3205782c9a0cd0df91b86e752].
 
 (3) “**Authorised accounting standard**” in relation to an entity means a set of generally acceptable accounting principles permitted by the body responsible for prescribing, establishing or accepting accounting standards for financial reporting purposes in the territory the entity is located in.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac6a14970ee94b488fd3da3677410f0]: Textual amendment: Word in [s. 249(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/249/2) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(8)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/8/a)
+[^c-6ac6a14970ee94b488fd3da3677410f0]: Textual amendment: Word in [s. 249(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/249/2) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(8)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/8/a)
 
-[^key-060f34f3205782c9a0cd0df91b86e752]: Textual amendment: Words in [s. 249(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/249/2) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(8)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/8/b)
+[^c-060f34f3205782c9a0cd0df91b86e752]: Textual amendment: Words in [s. 249(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/249/2) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(8)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/8/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — NEW SCHEDULE 10 TO BE INSERTED INTO THE 2018 REGULATIONS[^key-717a43de22f8bf800b31ad820e2fade6][^key-ba9792b816c014db17caa2ae852e5db0]
+## SCHEDULE 1 — NEW SCHEDULE 10 TO BE INSERTED INTO THE 2018 REGULATIONS[^c-717a43de22f8bf800b31ad820e2fade6][^c-ba9792b816c014db17caa2ae852e5db0]
 
 *Extent: S*
 
@@ -179,9 +179,9 @@ Regulation 9(2)
 
 ## Annotations
 
-[^key-717a43de22f8bf800b31ad820e2fade6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/1) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
+[^c-717a43de22f8bf800b31ad820e2fade6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/1) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
 
-[^key-ba9792b816c014db17caa2ae852e5db0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/1) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-ba9792b816c014db17caa2ae852e5db0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/1) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00027]: Footnote: [1968 c. 47](https://www.legislation.gov.uk/ukpga/1968/47). Section 59 was relevantly amended by the Water Industry (Scotland) Act [2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), schedule 5, paragraph 41.
 

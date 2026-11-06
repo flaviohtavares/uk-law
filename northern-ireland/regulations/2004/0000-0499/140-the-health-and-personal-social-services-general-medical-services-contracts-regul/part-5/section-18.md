@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Services generally[^key-40e6be25050ccf5513fb8ebb1fc0dfce]
+## 18. Services generally[^c-40e6be25050ccf5513fb8ebb1fc0dfce]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
   - (ii) seek acceptance by the contractor as a temporary resident; and
 - (e) whether, at the date on which the contract comes into operation, the contractor’s list of patients is open or closed.
 
-(1A)[^key-8bbc3bb29162fa987a501a9858d27b2e] A contract—
+(1A)[^c-8bbc3bb29162fa987a501a9858d27b2e] A contract—
 
 - (a) may also specify an area, other than the area referred to in paragraph 1(d), which is to be known as the outer boundary area as respects which a patient—
   - (i) who moves into that outer boundary area to reside; and
@@ -51,9 +51,9 @@ may remain on that list if the contractor so agrees, notwithstanding that the pa
 - (b) any financial support that may be available from the Board; and
 - (c) the timescale on which the steps referred to in sub-paragraph (a) will be taken.
 
-(4)[^key-7de9b05722fb384ba6f71b51ddfe6363] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7de9b05722fb384ba6f71b51ddfe6363] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-e189d66265b0c28dec89a0462eec7645] (1) Except in the case of the services referred to in paragraph (2), the contract must state the period (if any) for which the services are to be provided.
+**19.**[^c-e189d66265b0c28dec89a0462eec7645] (1) Except in the case of the services referred to in paragraph (2), the contract must state the period (if any) for which the services are to be provided.
 
 (2) The services referred to in paragraph (1) are –
 
@@ -61,7 +61,7 @@ may remain on that list if the contractor so agrees, notwithstanding that the pa
 - (b) additional services funded under the global sum; and
 - (c) out of hours services provided pursuant to regulations 30 and 31.
 
-**20.**[^key-2ab8fec5e64cbdb9119342e9497dad1f] A contract must contain a term which requires the contractor in core hours-
+**20.**[^c-2ab8fec5e64cbdb9119342e9497dad1f] A contract must contain a term which requires the contractor in core hours-
 
 - (a) to provide –
   - (i) essential services, and
@@ -72,12 +72,12 @@ may remain on that list if the contractor so agrees, notwithstanding that the pa
 
 ## Annotations
 
-[^key-40e6be25050ccf5513fb8ebb1fc0dfce]: Commencement: Reg. 18 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-40e6be25050ccf5513fb8ebb1fc0dfce]: Commencement: Reg. 18 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-8bbc3bb29162fa987a501a9858d27b2e]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/nisr/2004/140/regulation/18/1A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2013/59/regulation/6/2)
+[^c-8bbc3bb29162fa987a501a9858d27b2e]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/nisr/2004/140/regulation/18/1A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2013/59/regulation/6/2)
 
-[^key-7de9b05722fb384ba6f71b51ddfe6363]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/nisr/2004/140/regulation/18/4) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2013/59/regulation/6/3)
+[^c-7de9b05722fb384ba6f71b51ddfe6363]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/nisr/2004/140/regulation/18/4) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2013/59/regulation/6/3)
 
-[^key-e189d66265b0c28dec89a0462eec7645]: Commencement: Reg. 19 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-e189d66265b0c28dec89a0462eec7645]: Commencement: Reg. 19 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-2ab8fec5e64cbdb9119342e9497dad1f]: Commencement: Reg. 20 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-2ab8fec5e64cbdb9119342e9497dad1f]: Commencement: Reg. 20 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

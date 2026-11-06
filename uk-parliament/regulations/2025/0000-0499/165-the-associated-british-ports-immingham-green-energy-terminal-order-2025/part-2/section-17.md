@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Apparatus and rights of statutory undertakers in stopped up streets[^key-222747a90af4ecdc2f9bea3c863f7560]
+## 17. Apparatus and rights of statutory undertakers in stopped up streets[^c-222747a90af4ecdc2f9bea3c863f7560]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a street is altered or diverted or its use is temporarily prohibited or re
 
 ## Annotations
 
-[^key-222747a90af4ecdc2f9bea3c863f7560]: Commencement: Art. 17 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-222747a90af4ecdc2f9bea3c863f7560]: Commencement: Art. 17 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

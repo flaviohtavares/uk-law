@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Meaning of aerial work[^key-1df4b54712b2d963f8d4b594d83c8133]
+## 171. Meaning of aerial work[^c-1df4b54712b2d963f8d4b594d83c8133]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1df4b54712b2d963f8d4b594d83c8133]: Commencement: [Art. 171](https://www.legislation.gov.uk/uksi/2015/870/article/171) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-1df4b54712b2d963f8d4b594d83c8133]: Commencement: [Art. 171](https://www.legislation.gov.uk/uksi/2015/870/article/171) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

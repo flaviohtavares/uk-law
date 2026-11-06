@@ -31,7 +31,7 @@ summary: ''
 
 CIVIL AVIATION
 
-The Air Navigation Order 2005 (revoked)[^key-b7b402064b21eb4ca8461de952b1beb3]
+The Air Navigation Order 2005 (revoked)[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 Made
 
@@ -51,14 +51,14 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-b7b402064b21eb4ca8461de952b1beb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7b402064b21eb4ca8461de952b1beb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
 - [Section 1 — Citation and Commencement](section-1.md)
 - [Section 2 — Revocation](section-2.md)
 
-### PART 1 — Registration and Marking of Aircraft[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 1 — Registration and Marking of Aircraft[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
@@ -66,14 +66,14 @@ The Queen's Most Excellent Majesty in Council
 - [Section 4 — Registration of aircraft in the United Kingdom](part-1/section-4.md)
 - [Section 5 — Nationality and registration marks](part-1/section-5.md)
 
-### PART 2 — Air Operators' Certificates[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 2 — Air Operators' Certificates[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
 - [Section 6 — Grant of air operators' certificates](part-2/section-6.md)
 - [Section 7 — Grant of police air operators' certificates](part-2/section-7.md)
 
-### PART 3 — Airworthiness and Equipment of Aircraft[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 3 — Airworthiness and Equipment of Aircraft[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
@@ -95,7 +95,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 23 — Aircraft weight schedule](part-3/section-23.md)
 - [Section 24 — Access and inspection for airworthiness purposes](part-3/section-24.md)
 
-### PART 4 — Aircraft Crew and Licensing[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 4 — Aircraft Crew and Licensing[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
@@ -113,7 +113,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 36 — Instruction in flying](part-4/section-36.md)
 - [Section 37 — Glider pilot—minimum age](part-4/section-37.md)
 
-### PART 5 — Operation of Aircraft[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 5 — Operation of Aircraft[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
@@ -161,7 +161,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 79 — Stowaways](part-5/section-79.md)
 - [Section 80 — Flying displays](part-5/section-80.md)
 
-### PART 6 — Fatigue of Crew and Protection of Crew from Cosmic Radiation[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 6 — Fatigue of Crew and Protection of Crew from Cosmic Radiation[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
@@ -171,7 +171,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 84 — Flight times—responsibilities of flight crew](part-6/section-84.md)
 - [Section 85 — Protection of air crew from cosmic radiation](part-6/section-85.md)
 
-### PART 7 — Documents and Records[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 7 — Documents and Records[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
@@ -185,7 +185,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 93 — Revocation, suspension and variation of permissions, etc. granted under article 138 or article 140](part-7/section-93.md)
 - [Section 94 — Offences in relation to documents and records](part-7/section-94.md)
 
-### PART 8 — Movement of Aircraft[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 8 — Movement of Aircraft[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
@@ -195,7 +195,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 98 — Regulation of small aircraft](part-8/section-98.md)
 - [Section 99 — Regulation of rockets](part-8/section-99.md)
 
-### PART 9 — Air Traffic Services[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 9 — Air Traffic Services[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
@@ -207,7 +207,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 105 — Making of a direction for airspace policy purposes](part-9/section-105.md)
 - [Section 106 — Use of radio call signs at aerodromes](part-9/section-106.md)
 
-### PART 10 — Licensing of Air Traffic Controllers[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 10 — Licensing of Air Traffic Controllers[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
@@ -226,7 +226,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 119 — Approval of courses, persons and simulators](part-10/section-119.md)
 - [Section 120 — Acting as an air traffic controller and a student air traffic controller](part-10/section-120.md)
 
-### PART 11 — Flight Information Services and Licensing of Flight Information Service Officers[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 11 — Flight Information Services and Licensing of Flight Information Service Officers[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
@@ -234,14 +234,14 @@ The Queen's Most Excellent Majesty in Council
 - [Section 122 — Licensing of flight information service officers](part-11/section-122.md)
 - [Section 123 — Flight information service manual](part-11/section-123.md)
 
-### PART 12 — Air Traffic Service Equipment[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 12 — Air Traffic Service Equipment[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
 - [Section 124 — Air traffic service equipment](part-12/section-124.md)
 - [Section 125 — Air traffic service equipment records](part-12/section-125.md)
 
-### PART 13 — Aerodromes, Aeronautical Lights and Dangerous Lights[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 13 — Aerodromes, Aeronautical Lights and Dangerous Lights[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 **No longer in force.**
 
@@ -258,7 +258,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 136 — Customs and Excise aerodromes](part-13/section-136.md)
 - [Section 137 — Aviation fuel at aerodromes](part-13/section-137.md)
 
-### PART 14 — General[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART 14 — General[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -316,10 +316,10 @@ The Queen's Most Excellent Majesty in Council
 
 **May not be in force at this date. Check the source.**
 
-[^key-b7b402064b21eb4ca8461de952b1beb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7b402064b21eb4ca8461de952b1beb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7b402064b21eb4ca8461de952b1beb3]: Textual amendment: Order revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I.2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)
+[^c-b7b402064b21eb4ca8461de952b1beb3]: Textual amendment: Order revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I.2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

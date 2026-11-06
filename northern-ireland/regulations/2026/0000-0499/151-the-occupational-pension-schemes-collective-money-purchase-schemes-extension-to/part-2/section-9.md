@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Financial sustainability requirement - business strategy: unconnected multiple employer schemes[^key-0b20e07089d5ef803804817fb79ca5fd]
+## 9. Financial sustainability requirement - business strategy: unconnected multiple employer schemes[^c-0b20e07089d5ef803804817fb79ca5fd]
 
 *Extent: N.I.*
 
@@ -44,6 +44,6 @@ In section 65 (financial sustainability requirement)—
 
 ## Annotations
 
-[^key-0b20e07089d5ef803804817fb79ca5fd]: Commencement: Reg. 9 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-0b20e07089d5ef803804817fb79ca5fd]: Commencement: Reg. 9 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00005]: Footnote: Regulation 21 of these Regulations inserts a definition of “Code” into section 100(1) of the Pension Schemes Act 2021

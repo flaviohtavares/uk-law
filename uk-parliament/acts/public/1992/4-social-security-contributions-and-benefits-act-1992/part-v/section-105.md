@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Increase for exceptionally severe disablement.[^key-b4edad74d048137dfd738f170eebb988]
+## 105. Increase for exceptionally severe disablement.[^c-b4edad74d048137dfd738f170eebb988]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ the weekly rate of the pension shall, in addition to any increase under section 
 
 ## Annotations
 
-[^key-b4edad74d048137dfd738f170eebb988]: Modification: Ss. 103-105 modified (6.10.1997) by [Social Security (Recovery of Benefits) Act 1997 (c. 27)](https://www.legislation.gov.uk/ukpga/1997/27), [ss. 8](https://www.legislation.gov.uk/ukpga/1997/27/section/8), [34(2)](https://www.legislation.gov.uk/ukpga/1997/27/section/34/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1997/27/schedule/2) (with [s. 28](https://www.legislation.gov.uk/ukpga/1997/27/section/28)); [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/2)
+[^c-b4edad74d048137dfd738f170eebb988]: Modification: Ss. 103-105 modified (6.10.1997) by [Social Security (Recovery of Benefits) Act 1997 (c. 27)](https://www.legislation.gov.uk/ukpga/1997/27), [ss. 8](https://www.legislation.gov.uk/ukpga/1997/27/section/8), [34(2)](https://www.legislation.gov.uk/ukpga/1997/27/section/34/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1997/27/schedule/2) (with [s. 28](https://www.legislation.gov.uk/ukpga/1997/27/section/28)); [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/2)

@@ -16,7 +16,7 @@ summary: ''
 
 ## 38. Duty to prepare accounts
 
-Sections 394 to 397, 399, and 402 to 406 of the Companies Act 2006 apply in relation to a company to which this Chapter applies, modified so that they read as follows (save that the modification of section 396 does not apply in relation to a company which is a scheme funder of a Master Trust scheme within the meanings given by section 39(1) of the Pension Schemes Act 2017 *(Extent: E+W+S)*[^key-50ed1970e694650935552c49b9230720] or section 39(1) of the Pension Schemes Act (Northern Ireland) 2021 *(Extent: N.I.)*[^key-f7abb22f53b68e8ef63d087f1012e2fb] *(Extent: E+W+S)* (interpretation of Part 1)) *(Extent: E+W+S)*—
+Sections 394 to 397, 399, and 402 to 406 of the Companies Act 2006 apply in relation to a company to which this Chapter applies, modified so that they read as follows (save that the modification of section 396 does not apply in relation to a company which is a scheme funder of a Master Trust scheme within the meanings given by section 39(1) of the Pension Schemes Act 2017 *(Extent: E+W+S)*[^c-50ed1970e694650935552c49b9230720] or section 39(1) of the Pension Schemes Act (Northern Ireland) 2021 *(Extent: N.I.)*[^c-f7abb22f53b68e8ef63d087f1012e2fb] *(Extent: E+W+S)* (interpretation of Part 1)) *(Extent: E+W+S)*—
 
 > **394. Duty to prepare individual accounts**
 >
@@ -158,6 +158,6 @@ Sections 394 to 397, 399, and 402 to 406 of the Companies Act 2006 apply in rela
 
 ## Annotations
 
-[^key-50ed1970e694650935552c49b9230720]: Textual amendment: Words in reg. 38 inserted (E.W.S.) (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations 2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/32/2)
+[^c-50ed1970e694650935552c49b9230720]: Textual amendment: Words in reg. 38 inserted (E.W.S.) (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations 2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/32/2)
 
-[^key-f7abb22f53b68e8ef63d087f1012e2fb]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/2009/1801/regulation/38) inserted (N.I.) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [32](https://www.legislation.gov.uk/nisr/2024/78/regulation/32)
+[^c-f7abb22f53b68e8ef63d087f1012e2fb]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/2009/1801/regulation/38) inserted (N.I.) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [32](https://www.legislation.gov.uk/nisr/2024/78/regulation/32)

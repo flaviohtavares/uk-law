@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Exhumation of human remains[^key-38e4c6ace99d1ffcae6ec4f0d5344d86]
+## 27. Exhumation of human remains[^c-38e4c6ace99d1ffcae6ec4f0d5344d86]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38e4c6ace99d1ffcae6ec4f0d5344d86]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/20/section/27) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-38e4c6ace99d1ffcae6ec4f0d5344d86]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/20/section/27) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)

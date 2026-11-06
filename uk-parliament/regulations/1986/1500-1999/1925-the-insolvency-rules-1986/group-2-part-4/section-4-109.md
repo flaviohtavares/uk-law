@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.109. Action following acceptance of resignation[^key-73c48ec511985961da349be3c3179161]
+## 4.109. Action following acceptance of resignation[^c-73c48ec511985961da349be3c3179161]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ The notice shall be accompanied by a copy of the account sent to creditors under
 
 ## Annotations
 
-[^key-73c48ec511985961da349be3c3179161]: Commencement: [Rule 4.109](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.109) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-73c48ec511985961da349be3c3179161]: Commencement: [Rule 4.109](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.109) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00063]: Marginal citation: \[FORM 4.32\]

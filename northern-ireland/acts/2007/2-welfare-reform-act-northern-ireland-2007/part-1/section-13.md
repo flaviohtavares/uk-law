@@ -54,7 +54,7 @@ and may include provision prescribing circumstances in which the amount of the r
 
 (7) In this Part, “ *(affected by repeal, see note)*[^M_F_cd85f32d-4e72-4a6b-ed53-19f069951ae2]**work-related activity *(affected by repeal, see note)*[^M_F_cd85f32d-4e72-4a6b-ed53-19f069951ae2]**”, in relation to a person, means activity which makes it more likely that the person will obtain or remain in work or be able to do so. *(affected by repeal, see note)*[^M_F_cd85f32d-4e72-4a6b-ed53-19f069951ae2]
 
-(8)[^key-3251114f4193af12f8af3f1eb40333d7] The reference to activity in subsection (7) includes work experience or a work placement.
+(8)[^c-3251114f4193af12f8af3f1eb40333d7] The reference to activity in subsection (7) includes work experience or a work placement.
 
 ## Annotations
 
@@ -66,4 +66,4 @@ and may include provision prescribing circumstances in which the amount of the r
 
 [^c22081181]: Textual amendment: S. 13(6A) inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 3(4)(b)](https://www.legislation.gov.uk/nia/2010/13/section/3/4/b), [36(1)(b)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/b)
 
-[^key-3251114f4193af12f8af3f1eb40333d7]: Textual amendment: S. 13(8) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [61](https://www.legislation.gov.uk/nisi/2015/2006/article/61); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(d)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/d)
+[^c-3251114f4193af12f8af3f1eb40333d7]: Textual amendment: S. 13(8) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [61](https://www.legislation.gov.uk/nisi/2015/2006/article/61); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(d)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/d)

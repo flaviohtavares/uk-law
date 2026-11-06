@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94A. Property subject to deprivation order: modification of section 94[^key-0e9f2f779e82c9449eb6f036878a04ea]
+## 94A. Property subject to deprivation order: modification of section 94[^c-0e9f2f779e82c9449eb6f036878a04ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ only if the conditions in subsection (3) are met.
 
 ## Annotations
 
-[^key-0e9f2f779e82c9449eb6f036878a04ea]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/2006/52/section/94A) inserted (1.5.2022 for specified purposes, 22.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 14(5)](https://www.legislation.gov.uk/ukpga/2021/35/section/14/5), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 3](https://www.legislation.gov.uk/uksi/2023/1102/regulation/3)
+[^c-0e9f2f779e82c9449eb6f036878a04ea]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/2006/52/section/94A) inserted (1.5.2022 for specified purposes, 22.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 14(5)](https://www.legislation.gov.uk/ukpga/2021/35/section/14/5), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 3](https://www.legislation.gov.uk/uksi/2023/1102/regulation/3)

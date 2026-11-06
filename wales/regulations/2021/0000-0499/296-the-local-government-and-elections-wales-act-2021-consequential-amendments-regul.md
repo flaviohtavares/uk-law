@@ -43,13 +43,13 @@ The Welsh Ministers, in exercise of the powers conferred by section 173 of the L
 
 A draft of these Regulations has been approved by a resolution of Senedd Cymru in accordance with section 174(4) and (5)(t) of that Act.
 
-## 1. Title and commencement[^key-c86936db503d449e5403f2ab55e5f179]
+## 1. Title and commencement[^c-c86936db503d449e5403f2ab55e5f179]
 
 (1) The title of these Regulations is the Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021.
 
 (2) These Regulations come into force on 1 April 2021.
 
-## 2. Local Government, Planning and Land Act 1980[^key-efc04c74704d440ad1d447acccc9dd73]
+## 2. Local Government, Planning and Land Act 1980[^c-efc04c74704d440ad1d447acccc9dd73]
 
 In the Local Government, Planning and Land Act 1980[^f00002], in section 2 (duty of authorities to publish information), in subsection (1) —
 
@@ -60,7 +60,7 @@ In the Local Government, Planning and Land Act 1980[^f00002], in section 2 (duty
   ;
 - (b) omit “or a Welsh improvement authority for the purposes of Part 1 of the Local Government (Wales) Measure 2009”[^f00003].
 
-## 3. Social Security Administration Act 1992[^key-734093a76147c4875d66be911e6111bd]
+## 3. Social Security Administration Act 1992[^c-734093a76147c4875d66be911e6111bd]
 
 (1) The Social Security Administration Act 1992[^f00004] is amended in accordance with paragraphs (2) to (4).
 
@@ -74,7 +74,7 @@ In the Local Government, Planning and Land Act 1980[^f00002], in section 2 (duty
 
 (5) Paragraphs (1) to (4) cease to have effect when the provision in Part 1 of Schedule 14 to the Welfare Reform Act 2012[^f00008] (repeals relating to abolition of benefits superseded by universal credit) which repeals sections 139A, 139C and 139D of the Social Security Administration Act 1992 comes fully into force.
 
-## 4. Local Government Act 1999[^key-c3b886149a45cc6e2d58f401277341e4]
+## 4. Local Government Act 1999[^c-c3b886149a45cc6e2d58f401277341e4]
 
 (1) The Local Government Act 1999[^f00009] is amended as follows.
 
@@ -94,7 +94,7 @@ In the Local Government, Planning and Land Act 1980[^f00002], in section 2 (duty
 
 (3) In section 33 (finance), in subsection (3)[^f00012], in paragraph (b), at the end insert “or Chapter 1 or 3 of Part 6 of the Local Government and Elections (Wales) Act 2021”.
 
-## 5. Local Government Act 2003[^key-f89fb66edbcabb6db884fd9f792157d7]
+## 5. Local Government Act 2003[^c-f89fb66edbcabb6db884fd9f792157d7]
 
 (1) The Local Government Act 2003[^f00013] is amended as follows.
 
@@ -172,7 +172,7 @@ In the Local Government, Planning and Land Act 1980[^f00002], in section 2 (duty
 
 (8) In section 124 (general interpretation) omit the definition of “Welsh improvement authority”[^f00030].
 
-## 6. Public Audit (Wales) Act 2004[^key-748c9d05273a0c300d142606fd7acd56]
+## 6. Public Audit (Wales) Act 2004[^c-748c9d05273a0c300d142606fd7acd56]
 
 (1) The Public Audit (Wales) Act 2004[^f00031] is amended as follows.
 
@@ -193,23 +193,23 @@ In the Local Government, Planning and Land Act 1980[^f00002], in section 2 (duty
   - (ii) in paragraph (b)[^f00035] after “Local Government (Wales) Measure 2009” insert “or Chapter 1 of Part 6 of the Local Government and Elections (Wales) Act 2021”;
 - (b) in subsection (2)[^f00036], in paragraph (b)[^f00037], after “Local Government (Wales) Measure 2009” insert “or Chapter 1 of Part 6 of the Local Government and Elections (Wales) Act 2021”.
 
-## 7. Local Government and Public Involvement in Health Act 2007[^key-13dd68bd1d5402fe250500fede0f048f]
+## 7. Local Government and Public Involvement in Health Act 2007[^c-13dd68bd1d5402fe250500fede0f048f]
 
 In the Local Government and Public Involvement in Health Act 2007[^f00038], in Schedule 8 (best value: minor and consequential amendments) omit paragraph 27.
 
-## 8. Education (Wales) Measure 2011[^key-26ed94cf914dd3d7972aefcec618b27f]
+## 8. Education (Wales) Measure 2011[^c-26ed94cf914dd3d7972aefcec618b27f]
 
 In the Education (Wales) Measure 2011[^f00039], in section 3 (duty of education body to collaborate), in subsection (4) omit paragraph (c).
 
-## 9. Social Services and Well-being (Wales) Act 2014[^key-5de692e34bb8cb151e2504b0a30e9cde]
+## 9. Social Services and Well-being (Wales) Act 2014[^c-5de692e34bb8cb151e2504b0a30e9cde]
 
 In the Social Services and Well-being (Wales) Act 2014[^f00040], in section 10 (local authorities and the code) omit subsection (2).
 
-## 10. Criminal Justice and Courts Act 2015[^key-4608e2e48edf88f2ca8265be6917d3d9]
+## 10. Criminal Justice and Courts Act 2015[^c-4608e2e48edf88f2ca8265be6917d3d9]
 
 In the Criminal Justice and Courts Act 2015[^f00041], in section 22 (care provider offence: excluded care providers), in subsection (5), in paragraph (a) for the words from “section 29(6)(a)” to the end substitute “section 107 of the Local Government and Elections (Wales) Act 2021 (asc 1) (direction that a function be performed by the Welsh Ministers or their nominee)”.
 
-## 11. School Funding (Wales) Regulations 2010[^key-0356d352a311cb088b6754ac40ccd639]
+## 11. School Funding (Wales) Regulations 2010[^c-0356d352a311cb088b6754ac40ccd639]
 
 In the School Funding (Wales) Regulations 2010[^f00042], in Schedule 1, in paragraph 20 for sub-paragraph (c) substitute—
 
@@ -241,15 +241,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2021 asc 1](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-c86936db503d449e5403f2ab55e5f179]: Commencement: Reg. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
+[^c-c86936db503d449e5403f2ab55e5f179]: Commencement: Reg. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
 
-[^key-efc04c74704d440ad1d447acccc9dd73]: Commencement: Reg. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
+[^c-efc04c74704d440ad1d447acccc9dd73]: Commencement: Reg. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
 
 [^f00002]: Footnote: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
 [^f00003]: Footnote: The words to be omitted were inserted by paragraph 2 of Schedule 1 to the Local Government (Wales) Measure [2009 (nawm 2)](https://www.legislation.gov.uk/mwa/2009/2) (“**the 2009 Measure**”). There are other amendments to the subsection not relevant to this amendment.
 
-[^key-734093a76147c4875d66be911e6111bd]: Commencement: Reg. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
+[^c-734093a76147c4875d66be911e6111bd]: Commencement: Reg. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
 
 [^f00004]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
@@ -261,7 +261,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5). The provision in Part 1 of Schedule 14 to the Welfare Reform Act 2012 which repeals sections 138 to 140G of the Social Security Administration Act 1992, in so far as that repealing provision relates to the abolition of council tax benefit, was brought into force on 1 April 2013 by article 8(c) of and Schedule 4 to the Welfare Reform Act 2012 (Commencement No.8 and Savings and Transitional Provisions) Order 2013 ([S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)).
 
-[^key-c3b886149a45cc6e2d58f401277341e4]: Commencement: Reg. 4 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
+[^c-c3b886149a45cc6e2d58f401277341e4]: Commencement: Reg. 4 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
 
 [^f00009]: Footnote: [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27).
 
@@ -271,7 +271,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00012]: Footnote: Subsection (3) was amended by paragraph 17 of Schedule 1 to the Public Audit (Wales) Act [2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23) and section 36 of the 2009 Measure. Paragraph (b) of subsection (3) was substituted by paragraph 16 of Schedule 4 to the Public Audit (Wales) Act 2013 (anaw 3). There are other amendments to the subsection not relevant to these regulations.
 
-[^key-f89fb66edbcabb6db884fd9f792157d7]: Commencement: Reg. 5 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
+[^c-f89fb66edbcabb6db884fd9f792157d7]: Commencement: Reg. 5 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
 
 [^f00013]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
 
@@ -309,7 +309,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00030]: Footnote: The definition of “Welsh improvement authority” was inserted by paragraph 31 of Schedule 1 to the 2009 Measure.
 
-[^key-748c9d05273a0c300d142606fd7acd56]: Commencement: Reg. 6 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
+[^c-748c9d05273a0c300d142606fd7acd56]: Commencement: Reg. 6 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
 
 [^f00031]: Footnote: [2004 c. 23](https://www.legislation.gov.uk/ukpga/2004/23).
 
@@ -325,22 +325,22 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00037]: Footnote: Paragraph (b) was amended by paragraph 36 of Schedule 1 to the 2009 Measure and paragraph 55 of Schedule 4 to the Public Audit (Wales) Act 2013.
 
-[^key-13dd68bd1d5402fe250500fede0f048f]: Commencement: Reg. 7 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
+[^c-13dd68bd1d5402fe250500fede0f048f]: Commencement: Reg. 7 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
 
 [^f00038]: Footnote: [2007 c. 28](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-26ed94cf914dd3d7972aefcec618b27f]: Commencement: Reg. 8 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
+[^c-26ed94cf914dd3d7972aefcec618b27f]: Commencement: Reg. 8 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
 
 [^f00039]: Footnote: [2011 nawm 7](https://www.legislation.gov.uk/mwa/2021/1).
 
-[^key-5de692e34bb8cb151e2504b0a30e9cde]: Commencement: Reg. 9 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
+[^c-5de692e34bb8cb151e2504b0a30e9cde]: Commencement: Reg. 9 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
 
 [^f00040]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-4608e2e48edf88f2ca8265be6917d3d9]: Commencement: Reg. 10 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
+[^c-4608e2e48edf88f2ca8265be6917d3d9]: Commencement: Reg. 10 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
 
 [^f00041]: Footnote: [2015 c. 2](https://www.legislation.gov.uk/ukpga/2015/2).
 
-[^key-0356d352a311cb088b6754ac40ccd639]: Commencement: Reg. 11 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
+[^c-0356d352a311cb088b6754ac40ccd639]: Commencement: Reg. 11 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2)
 
 [^f00042]: Footnote: [S.I. 2010/824](https://www.legislation.gov.uk/uksi/2010/824).

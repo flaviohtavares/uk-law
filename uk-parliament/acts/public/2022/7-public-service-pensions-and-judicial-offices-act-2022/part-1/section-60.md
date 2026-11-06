@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Remedial arrangements to pay voluntary contributions to judicial schemes[^key-d627e7147a4412bd51f00d3bc0f2aeb5][^key-59b029974dcd1c47b34c644304d75049][^key-0b1c3dc4b741d0dd132ca0fd041d0515]
+## 60. Remedial arrangements to pay voluntary contributions to judicial schemes[^c-d627e7147a4412bd51f00d3bc0f2aeb5][^c-59b029974dcd1c47b34c644304d75049][^c-0b1c3dc4b741d0dd132ca0fd041d0515]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d627e7147a4412bd51f00d3bc0f2aeb5]: Commencement: S. 60 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-d627e7147a4412bd51f00d3bc0f2aeb5]: Commencement: S. 60 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-59b029974dcd1c47b34c644304d75049]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/7/section/60) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-59b029974dcd1c47b34c644304d75049]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/7/section/60) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
 
-[^key-0b1c3dc4b741d0dd132ca0fd041d0515]: Modification: [Ss. 40-66](https://www.legislation.gov.uk/ukpga/2022/7/section/40) excluded (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2023/766/regulation/9/2)
+[^c-0b1c3dc4b741d0dd132ca0fd041d0515]: Modification: [Ss. 40-66](https://www.legislation.gov.uk/ukpga/2022/7/section/40) excluded (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2023/766/regulation/9/2)

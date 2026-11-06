@@ -26,7 +26,7 @@ Sections 8 and 31.
 
 |  |  |
 | --- | --- |
-| Betting, gaming, dutiable machine games and lotteries[^key-9382bf8570494b22ca267ec0fe01508b] | Group 4 |
+| Betting, gaming, dutiable machine games and lotteries[^c-9382bf8570494b22ca267ec0fe01508b] | Group 4 |
 | Burial and cremation | Group 8 |
 | Cultural services[^c15301751] etc | Group 13 |
 | Education | Group 6 |
@@ -39,11 +39,11 @@ Sections 8 and 31.
 | Postal services | Group 3 |
 | Sport, sports competitions and physical education | Group 10 |
 | Supplies of goods where input tax cannot be recovered[^c15301791] | Group 14 |
-| Supplies of services by groups involving cost sharing[^key-d813f22d8a513aa4453fd3bd138b69c4] | Group 16 |
+| Supplies of services by groups involving cost sharing[^c-d813f22d8a513aa4453fd3bd138b69c4] | Group 16 |
 | Subscriptions to trade unions, professional and other public interest bodies[^c15301811] | Group 9 |
 | Works of art etc | Group 11 |
 
-### Part II — The Groups[^key-5ebeb7e78ae69c2c366eefb99c44e383]
+### Part II — The Groups[^c-5ebeb7e78ae69c2c366eefb99c44e383]
 
 #### Group 1— Land
 
@@ -56,7 +56,7 @@ The grant of any interest in or right over land or of any licence to occupy land
   - (ii) a new building which is neither designed as a dwelling or number of dwellings nor intended for use solely for a relevant residential purpose or a relevant charitable purpose after the grant;
   - (iii) a civil engineering work which has not been completed;
   - (iv) a new civil engineering work;
-- (b)[^key-106ff1a943320723c9eb2eec257a6f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-106ff1a943320723c9eb2eec257a6f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the grant of any interest, right or licence consisting of a right to take game or fish unless at the time of the grant the grantor grants to the grantee the fee simple of the land over which the right to take game or fish is exercisable;
 - (d) the provision in an hotel, inn, boarding house or similar establishment of sleeping accommodation or of accommodation in rooms which are provided in conjunction with sleeping accommodation or for the purpose of a supply of catering;
 - (e) the grant of any interest in, right over or licence to occupy holiday accommodation;
@@ -65,16 +65,16 @@ The grant of any interest in or right over land or of any licence to occupy land
 - (h) the grant of facilities for parking a vehicle;
 - (j) the grant of any right to fell and remove standing timber;
 - (k) the grant of facilities for housing, or storage of, an aircraft or for mooring, or storage of, a ship, boat or other vessel;
-- (ka)[^key-26910ab2a0966ad10cb5ceb69e27ba7f] the grant of facilities for the self storage of goods;
+- (ka)[^c-26910ab2a0966ad10cb5ceb69e27ba7f] the grant of facilities for the self storage of goods;
 - (l) the grant of any right to occupy a box, seat or other accommodation at a sports ground, theatre, concert hall or other place of entertainment;
-- (m) the grant of facilities for playing any sport or participating in any physical recreation; [^key-d401f71272f2ed7fafa50b91a59238fb]...
-- (ma)[^key-ab0e63c416c82374b6a24da1ed89fdb4] the grant of facilities to a person who uses the facilities wholly or mainly to supply hairdressing services; and
+- (m) the grant of facilities for playing any sport or participating in any physical recreation; [^c-d401f71272f2ed7fafa50b91a59238fb]...
+- (ma)[^c-ab0e63c416c82374b6a24da1ed89fdb4] the grant of facilities to a person who uses the facilities wholly or mainly to supply hairdressing services; and
 - (n) the grant of any right, including—
   - (i) an equitable right,
   - (ii) a right under an option or right of pre-emption, or
   - (iii) in relation to land in Scotland, a personal right,
 
-  to call for or be granted an interest or right which would fall within any of paragraphs (a) or (c) to (ma)[^key-7dbb2948ab8c2e3650f4e1994ecc64b9] above.
+  to call for or be granted an interest or right which would fall within any of paragraphs (a) or (c) to (ma)[^c-7dbb2948ab8c2e3650f4e1994ecc64b9] above.
 
 ##### Notes:
 
@@ -92,7 +92,7 @@ The grant of any interest in or right over land or of any licence to occupy land
 
 (6) Note (5) does not apply where the grant is the first grant of the fee simple made on or after 1st April 1989 and the building was not fully occupied, or the work not fully used, before that date.
 
-(7)[^key-a00f3388773d7eacf838a986bb3bfe8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-a00f3388773d7eacf838a986bb3bfe8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Where a grant of an interest in, right over or licence to occupy land includes a valuable right to take game or fish, an apportionment shall be made to determine the supply falling outside this Group by virtue of paragraph (c).
 
@@ -112,7 +112,7 @@ The grant of any interest in or right over land or of any licence to occupy land
 
 (13) “**Holiday accommodation**” includes any accommodation in a building, hut (including a beach hut or chalet), caravan, houseboat or tent which is advertised or held out as holiday accommodation or as suitable for holiday or leisure use, but excludes any accommodation within paragraph (d).
 
-(14)[^key-49dc981f269a48216f6dd3e953a58b7a] A seasonal pitch for a caravan is—
+(14)[^c-49dc981f269a48216f6dd3e953a58b7a] A seasonal pitch for a caravan is—
 
 - (a) a pitch on a holiday site other than an employee pitch, or
 - (b) a non-residential pitch on any other site.
@@ -130,7 +130,7 @@ The grant of any interest in or right over land or of any licence to occupy land
 
 (15) “**Mooring**” includes anchoring or berthing.
 
-(15A)[^key-de94f2ee574cd9fa98ad9b7a3d083c9f] In paragraph (ka)—
+(15A)[^c-de94f2ee574cd9fa98ad9b7a3d083c9f] In paragraph (ka)—
 
 - “**facilities for the self storage of goods**” means the use of a relevant structure for the storage of goods by the person (or persons) to whom the grant of facilities is made, and
 - “**goods**” does not include live animals.
@@ -165,7 +165,7 @@ The grant of any interest in or right over land or of any licence to occupy land
   - (iv) the grantee has exclusive use of the facilities; and
   - (v) the grantee is a school, a club, an association or an organisation representing affiliated clubs or constituent associations.
 
-(17)[^key-21f2b296fad4f38f8971434fc11ab76a] Paragraph (ma) does not apply to a grant of facilities which provides for the exclusive use, by the person to whom the grant is made, of a whole building, a whole floor, a separate room or a clearly defined area, unless the person making the grant or a person connected with that person provides or makes available (directly or indirectly) services related to hairdressing for use by the person to whom the grant is made.
+(17)[^c-21f2b296fad4f38f8971434fc11ab76a] Paragraph (ma) does not apply to a grant of facilities which provides for the exclusive use, by the person to whom the grant is made, of a whole building, a whole floor, a separate room or a clearly defined area, unless the person making the grant or a person connected with that person provides or makes available (directly or indirectly) services related to hairdressing for use by the person to whom the grant is made.
 
 (18) For the purposes of Note (17)—
 
@@ -176,20 +176,20 @@ The grant of any interest in or right over land or of any licence to occupy land
 
 #### Group 2 — Insurance[^c15301891]
 
-**1.**[^key-c4868619fcd2eef65699bec19446ea93] Insurance transactions and reinsurance transactions.
+**1.**[^c-c4868619fcd2eef65699bec19446ea93] Insurance transactions and reinsurance transactions.
 
 **4.**[^c15301971] The provision by an insurance broker or insurance agent of any of the services of an insurance intermediary in a case in which those services—
 
-- (a) are related (whether or not a contract of insurance[^c15301981] or reinsurance[^key-f8fd7bf012fa97726d7dade3f8d5448c] is finally concluded) to an insurance transaction or a reinsurance transaction[^key-577aae634c5033d55dbd5fc15409662f]; and
+- (a) are related (whether or not a contract of insurance[^c15301981] or reinsurance[^c-f8fd7bf012fa97726d7dade3f8d5448c] is finally concluded) to an insurance transaction or a reinsurance transaction[^c-577aae634c5033d55dbd5fc15409662f]; and
 - (b) are provided by that broker or agent in the course of his acting in an intermediary capacity.
 
 ##### Notes:[^c15302001]
 
-(A1)[^key-02119bd7a002088116efbf61b531f061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(A1)[^c-02119bd7a002088116efbf61b531f061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(B1)[^key-02119bd7a002088116efbf61b531f061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(B1)[^c-02119bd7a002088116efbf61b531f061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(C1)[^key-02119bd7a002088116efbf61b531f061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(C1)[^c-02119bd7a002088116efbf61b531f061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (1) For the purposes of item 4 services are services of an insurance intermediary if they fall within any of the following paragraphs—
 
@@ -202,7 +202,7 @@ The grant of any interest in or right over land or of any licence to occupy land
 
 (2) For the purposes of item 4 an insurance broker or insurance agent is acting “**in an intermediary capacity**” wherever he is acting as an intermediary, or one of the intermediaries, between—
 
-- (a) a person who provides insurance or reinsurance[^key-b93dd63081f7e2c54b8ec14ed6044720], and
+- (a) a person who provides insurance or reinsurance[^c-b93dd63081f7e2c54b8ec14ed6044720], and
 - (b) a person who is or may be seeking insurance or reinsurance or is an insured person.
 
 (3) Where—
@@ -235,7 +235,7 @@ those related services do not fall within item 4 unless the relevant requirement
 - (a) a statement setting out the amount of the premium under any contract of insurance that is to be or may be entered into in pursuance of the transaction in question; and
 - (b) a statement setting out every amount that the customer is, is to be or has been required to pay, otherwise than by way of such a premium, in connection with that transaction or anything that is to be, may be or has been done in pursuance of that transaction.
 
-(6) For the purposes of Note (3) any question whether a person is connected with another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^key-5cdee6ff080f4d5fce860cdbdd216cdf].
+(6) For the purposes of Note (3) any question whether a person is connected with another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^c-5cdee6ff080f4d5fce860cdbdd216cdf].
 
 (7) Item 4 does not include—
 
@@ -257,7 +257,7 @@ those related services do not fall within item 4 unless the relevant requirement
   - (i) instead of the payment of the whole or any part of any indemnity for which the contract provides, or
   - (ii) for the purpose, in any other manner, of satisfying any claim under that contract, whether in whole or in part.
 
-#### Group 3— Postal services[^key-a680526b73450366b3676c6f310a89ed]
+#### Group 3— Postal services[^c-a680526b73450366b3676c6f310a89ed]
 
 ##### 1. Item No
 
@@ -271,33 +271,33 @@ The supply of goods by a universal service provider which is incidental to the s
 
 **No longer in force (ended 2012-07-17).**
 
-(1)[^key-4bb30fddf80626a062a1d3e12ff725f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4bb30fddf80626a062a1d3e12ff725f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Subject to the following Notes, “**public postal services**”, in relation to a universal service provider, means any postal services which the provider is required to provide in the discharge of a specified condition[^key-52b992649d7086be1e445826ce219fb9].
+(2) Subject to the following Notes, “**public postal services**”, in relation to a universal service provider, means any postal services which the provider is required to provide in the discharge of a specified condition[^c-52b992649d7086be1e445826ce219fb9].
 
-(3) Public postal services include postal services which a universal service provider provides to allow a person access to the provider's postal network (within the meaning of section 38 of the Postal Services Act 2011) and which are required to be provided by a specified condition[^key-69ad3701308380c70e85f5a1c766d0fe].
+(3) Public postal services include postal services which a universal service provider provides to allow a person access to the provider's postal network (within the meaning of section 38 of the Postal Services Act 2011) and which are required to be provided by a specified condition[^c-69ad3701308380c70e85f5a1c766d0fe].
 
 (4) Services are not “public postal services” if—
 
-- (a) the price is not controlled by or under a specified condition[^key-b90445d9c4831c1796b0976b836be655], or
+- (a) the price is not controlled by or under a specified condition[^c-b90445d9c4831c1796b0976b836be655], or
 - (b) any of the other terms on which the services are provided are freely negotiated.
 
-(5) But Note (4) does not apply if a specified condition[^key-00e86272eaca799f9e7adc7dfa355cc4] requires the universal service provider to make the services available to persons generally—
+(5) But Note (4) does not apply if a specified condition[^c-00e86272eaca799f9e7adc7dfa355cc4] requires the universal service provider to make the services available to persons generally—
 
-- (a) where the price is not controlled by or under the condition[^key-e0a9deb841e2cef9d4f643e4879ec09b], at the same price, or
+- (a) where the price is not controlled by or under the condition[^c-e0a9deb841e2cef9d4f643e4879ec09b], at the same price, or
 - (b) where terms are freely negotiated as mentioned in Note (4)(b), on those terms.
 
-(6)[^key-f1f6a3089a8ba7f5cc8b53279fd30390] In this Group “specified condition” means a designated USP condition, a USP access condition or a transitory condition under paragraph 5 of Schedule 9 to the Postal Services Act 2011 which is imposed only on a universal service provider.
+(6)[^c-f1f6a3089a8ba7f5cc8b53279fd30390] In this Group “specified condition” means a designated USP condition, a USP access condition or a transitory condition under paragraph 5 of Schedule 9 to the Postal Services Act 2011 which is imposed only on a universal service provider.
 
 (7) Any expression which is used in this Group and in Part 3 of the Postal Services Act 2011 has the same meaning in this Group as in that Part.
 
-#### Group 4— Betting, gaming , dutiable machine games and lotteries[^key-bdc723ffb88330c9e6775b7871cefdda]
+#### Group 4— Betting, gaming , dutiable machine games and lotteries[^c-bdc723ffb88330c9e6775b7871cefdda]
 
 ##### 1. Item No.
 
-The provision of any facilities for the placing of bets or for the playing of any games of chance for a prize[^key-e8269c2ac7d27431f1e515c243b2317f].
+The provision of any facilities for the placing of bets or for the playing of any games of chance for a prize[^c-e8269c2ac7d27431f1e515c243b2317f].
 
-**1A.**[^key-16b5c488167d843c4a392b7011bacf1f] The provision of any facilities for the playing of dutiable machine games (as defined in Part 1 of Schedule 24 to the Finance Act 2012) but only to the extent that—
+**1A.**[^c-16b5c488167d843c4a392b7011bacf1f] The provision of any facilities for the playing of dutiable machine games (as defined in Part 1 of Schedule 24 to the Finance Act 2012) but only to the extent that—
 
 - (a) the facilities are used to play such games, and
 - (b) the takings and payouts in respect of those games are taken into account in determining the charge to machine games duty.
@@ -306,16 +306,16 @@ The provision of any facilities for the placing of bets or for the playing of an
 
 ##### Notes:
 
-(1) Items 1 and 1A do[^key-387fa795a42b4d40fab4b33f99f87d74] not include—
+(1) Items 1 and 1A do[^c-387fa795a42b4d40fab4b33f99f87d74] not include—
 
 - (a) admission to any premises; or
-- (b)[^key-6f3da8c36988de68772d45b15010e355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) the provision by a club of such facilities to its members as are available to them on payment of their subscription but without further charge; [^key-e4c12727be87d829ed7c53decb9eed02]...
-- (d)[^key-e4c12727be87d829ed7c53decb9eed02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6f3da8c36988de68772d45b15010e355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the provision by a club of such facilities to its members as are available to them on payment of their subscription but without further charge; [^c-e4c12727be87d829ed7c53decb9eed02]...
+- (d)[^c-e4c12727be87d829ed7c53decb9eed02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-6ab9410cf3d433740ed310f98ff3e691] Item 1 does not apply to the provision of facilities to the extent that the facilities are used to play a relevant machine game (as defined in section 23A).
+(1A)[^c-6ab9410cf3d433740ed310f98ff3e691] Item 1 does not apply to the provision of facilities to the extent that the facilities are used to play a relevant machine game (as defined in section 23A).
 
-(2)[^key-5d9338dff50f524d4713fa84e5e3430c] ”Game of chance”—
+(2)[^c-5d9338dff50f524d4713fa84e5e3430c] ”Game of chance”—
 
 - (a) includes—
   - (i) a game that involves both an element of chance and an element of skill,
@@ -330,19 +330,19 @@ The provision of any facilities for the placing of bets or for the playing of an
 
 (4) ”Prize” does not include the opportunity to play the game again.
 
-(5)[^key-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-1c7f95dfaf7fe8729b67a0c3c94d24d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Group 5— Finance
 
@@ -352,7 +352,7 @@ The issue, transfer or receipt of, or any dealing with, money, any security for 
 
 **2.** The making of any advance or the granting of any credit.
 
-**2A.**[^key-0a69d78efb7266a220f0a54a56b0b6bb] The management of credit by the person granting it.
+**2A.**[^c-0a69d78efb7266a220f0a54a56b0b6bb] The management of credit by the person granting it.
 
 **3.** The provision of the facility of instalment credit finance in a hire-purchase, conditional sale or credit sale agreement for which facility a separate charge is made and disclosed to the recipient of the supply of goods.
 
@@ -374,22 +374,22 @@ The issue, transfer or receipt of, or any dealing with, money, any security for 
 
 **8.** The operation of any current, deposit or savings account.
 
-**9.**[^key-00201dfd7aee5788e4860f0971d07e10] The management of—
+**9.**[^c-00201dfd7aee5788e4860f0971d07e10] The management of—
 
 - (a) an authorised open-ended investment company; or
-- (aa)[^key-f38ea58538d2e3f48e439b23480c8882] an authorised contractual scheme; or
+- (aa)[^c-f38ea58538d2e3f48e439b23480c8882] an authorised contractual scheme; or
 - (b) an authorised unit trust scheme; or
 - (c) a Gibraltar collective investment scheme that is not an umbrella scheme; or
 - (d) a sub-fund of any other Gibraltar collective investment scheme; or
 - (e) an individually recognised overseas scheme that is not an umbrella scheme; or
 - (f) a sub-fund of any other individually recognised overseas scheme; or
-- (g)[^key-8e401af51e45e4a6507e0e21a5453b9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-8e401af51e45e4a6507e0e21a5453b9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-dd992d9ab9b9c142f4358f7c769d43ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-dd992d9ab9b9c142f4358f7c769d43ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-2575f790da0ca2898e0d611a3c872c6f] a qualifying pension fund.
+- (g)[^c-8e401af51e45e4a6507e0e21a5453b9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-8e401af51e45e4a6507e0e21a5453b9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-dd992d9ab9b9c142f4358f7c769d43ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-dd992d9ab9b9c142f4358f7c769d43ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-2575f790da0ca2898e0d611a3c872c6f] a qualifying pension fund.
 
-**10.**[^key-06027c873464d85f4d597685c822748f] The management of a closed-ended collective investment undertaking.
+**10.**[^c-06027c873464d85f4d597685c822748f] The management of a closed-ended collective investment undertaking.
 
 ##### Notes:
 
@@ -399,9 +399,9 @@ The issue, transfer or receipt of, or any dealing with, money, any security for 
 
 (2) This Group does not include the supply of a coin or a banknote as a collectors’ piece or as an investment article.
 
-(2A)[^key-c3f873c9789868a8b0966fbab9d759fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-c3f873c9789868a8b0966fbab9d759fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2B)[^key-99ca3d9cbdaef208f45233320e9a761e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-99ca3d9cbdaef208f45233320e9a761e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Item 2 includes the supply of credit by a person, in connection with a supply of goods or services by him, for which a separate charge is made and disclosed to the recipient of the supply of goods or services.
 
@@ -419,50 +419,50 @@ together with (in the case of financial services falling within item 1, 2, 3 or 
 - (a) a person who provides financial services, and
 - (b) a person who is or may be seeking to receive financial services
 
-[^key-ec1c5493b56bb1049d4c93f4ea4c938f] ...
+[^c-ec1c5493b56bb1049d4c93f4ea4c938f] ...
 
 (5B) For the purposes of notes 5 and 5A “financial services” means the carrying out of any transaction falling within item 1, 2, 3, 4 or 6.
 
-(6)[^key-1aa979171c73a9505782f96a47a823a6] For the purposes of this Group—
+(6)[^c-1aa979171c73a9505782f96a47a823a6] For the purposes of this Group—
 
-- “authorised open-ended investment company”, “authorised contractual scheme”[^key-2b24f5aeb3897f3c8708949b567553f0] and “authorised unit trust scheme” have the meaning given in section 237(3) of the Financial Services and Markets Act 2000;
+- “authorised open-ended investment company”, “authorised contractual scheme”[^c-2b24f5aeb3897f3c8708949b567553f0] and “authorised unit trust scheme” have the meaning given in section 237(3) of the Financial Services and Markets Act 2000;
 - “closed-ended collective investment undertaking” means an undertaking in relation to which the following conditions are satisfied—
-  - (a) its sole object is the investment of capital, raised from the public [^key-afb7304f149da4d893d37a5b848dcf8b]...; and
+  - (a) its sole object is the investment of capital, raised from the public [^c-afb7304f149da4d893d37a5b848dcf8b]...; and
   - (b) it manages its assets on the principle of spreading investment risk; and
-  - (c) all of its ordinary shares (of each class if there is more than one) or equivalent units are included in the official list maintained by the Financial Conduct Authority[^key-efb9f4cb2cd855bd9a9e546a8dda9a65] pursuant to section 74(1) of the Financial Services and Markets Act 2000; and
+  - (c) all of its ordinary shares (of each class if there is more than one) or equivalent units are included in the official list maintained by the Financial Conduct Authority[^c-efb9f4cb2cd855bd9a9e546a8dda9a65] pursuant to section 74(1) of the Financial Services and Markets Act 2000; and
   - (d) all of its ordinary shares (of each class if there is more than one) or equivalent units are admitted to trading on a regulated market situated or operating in the United Kingdom;
 - “collective investment scheme” has the meaning given in section 235 of the Financial Services and Markets Act 2000;
 - “Gibraltar collective investment scheme” means—
-  - (a) a collective investment scheme to which section 264 of the Financial Services and Markets Act 2000 applies pursuant to an order made under section 409(1)(d) of that Act; [^key-e41746c93733e87fbff3fc18aceb3eb9]...
-  - (b) [^key-e41746c93733e87fbff3fc18aceb3eb9]...
+  - (a) a collective investment scheme to which section 264 of the Financial Services and Markets Act 2000 applies pursuant to an order made under section 409(1)(d) of that Act; [^c-e41746c93733e87fbff3fc18aceb3eb9]...
+  - (b) [^c-e41746c93733e87fbff3fc18aceb3eb9]...
 - “individually recognised overseas scheme” means a collective investment scheme declared by the Financial Conduct Authority to be a recognised scheme pursuant to section 272 of the Financial Services and Markets Act 2000;
-- “pension member” means, in relation to a qualifying pension fund, a person to or in respect of whom retirement benefits are to be paid from the fund;[^key-986bb744f2a2c29a63ca5ef6bb69c3ab]
+- “pension member” means, in relation to a qualifying pension fund, a person to or in respect of whom retirement benefits are to be paid from the fund;[^c-986bb744f2a2c29a63ca5ef6bb69c3ab]
 - “qualifying pension fund” means a pension fund in relation to which all of the following conditions are satisfied—
   - (a) it is solely funded, whether directly or indirectly, by pension members;
   - (b) the pension members bear the investment risk;
   - (c) the fund contains the pooled contributions of more than one pension member;
   - (d) the risk borne by the pension members is spread over a range of investments; and
-  - (e) the fund is established in the United Kingdom [^key-c84381a70d34a46c02fa6101a23b1f96]...;
-- [^key-1ef255d987e753529f12bb199a0ef554]...
-- [^key-3413fa5fd3703a71ba174987ae48fb4e]...
+  - (e) the fund is established in the United Kingdom [^c-c84381a70d34a46c02fa6101a23b1f96]...;
+- [^c-1ef255d987e753529f12bb199a0ef554]...
+- [^c-3413fa5fd3703a71ba174987ae48fb4e]...
 - “regulated market” has the meaning given in section 103(1) of the Financial Services and Markets Act 2000;
 - “sub-fund” means a separate part of the property of an umbrella scheme that is pooled separately;
 - “umbrella scheme” means a collective investment scheme under which the contributions of the participants in the scheme and the profits or income out of which payments are to be made to them are pooled separately in relation to separate parts of the scheme property.
 
-(6A)[^key-9116deb382a1f49009fc00063934a51e] A collective investment scheme, or sub-fund, that is not for the time being marketed in the United Kingdom is to be treated as not falling within item 9(c) to (f)[^key-8d772e477d23e72c20c39db058162617] if—
+(6A)[^c-9116deb382a1f49009fc00063934a51e] A collective investment scheme, or sub-fund, that is not for the time being marketed in the United Kingdom is to be treated as not falling within item 9(c) to (f)[^c-8d772e477d23e72c20c39db058162617] if—
 
 - (a) it has never been marketed in the United Kingdom, or
 - (b) less than 5% of its shares or units are held by, or on behalf of, investors who are in the United Kingdom.
 
-(6B)[^key-d8d35c9e60b373e52262054abe812f13] For the purposes of Note (6), a pension fund is funded indirectly where contributions are made by a third party on behalf of a pension member.
+(6B)[^c-d8d35c9e60b373e52262054abe812f13] For the purposes of Note (6), a pension fund is funded indirectly where contributions are made by a third party on behalf of a pension member.
 
-(7)[^key-25e820ba9eb326b7a9dc9657c3ca18d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-25e820ba9eb326b7a9dc9657c3ca18d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-68f397645bb3353828ce941602e1d37b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-68f397645bb3353828ce941602e1d37b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-9ef5f0ba7cfdbbdcebf554ce9ada6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-9ef5f0ba7cfdbbdcebf554ce9ada6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-db20d45d5e61098002fad0dab62b3021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-db20d45d5e61098002fad0dab62b3021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Group 6— Education
 
@@ -471,7 +471,7 @@ together with (in the case of financial services falling within item 1, 2, 3 or 
 The provision by an eligible body of—
 
 - (a) education;
-- (b) [^key-e08a4c83afd618c27f504512743a9f23]... or
+- (b) [^c-e08a4c83afd618c27f504512743a9f23]... or
 - (c) vocational training.
 
 **2.** The supply of private tuition, in a subject ordinarily taught in a school or university, by an individual teacher acting independently of an employer.
@@ -480,10 +480,10 @@ The provision by an eligible body of—
 
 - (a) by or to an eligible body; or
 - (b) to a person receiving education or vocational training which is—
-  - (i) exempt by virtue of items 1, 2 , 5 or 5A[^c15302321] (or would be so exempt but for item 1 or 2 of Part 3)[^key-edda64a9f54813a17e22b4c45c88d729]; or
+  - (i) exempt by virtue of items 1, 2 , 5 or 5A[^c15302321] (or would be so exempt but for item 1 or 2 of Part 3)[^c-edda64a9f54813a17e22b4c45c88d729]; or
   - (ii) provided otherwise than in the course or furtherance of a business.
 
-**4.** The supply of any goods or services (other than examination services) which are closely related to a supply of a description falling within item 1 (or would be so exempt but for item 1 or 2 of Part 3)[^key-055cc107740317d52bbfd460f34bac4b] (the principal supply) by or to the eligible body making the principal supply provided—
+**4.** The supply of any goods or services (other than examination services) which are closely related to a supply of a description falling within item 1 (or would be so exempt but for item 1 or 2 of Part 3)[^c-055cc107740317d52bbfd460f34bac4b] (the principal supply) by or to the eligible body making the principal supply provided—
 
 - (a) the goods or services are for the direct use of the pupil, student or trainee (as the case may be) receiving the principal supply; and
 - (b) where the supply is to the eligible body making the principal supply, it is made by another eligible body.
@@ -492,22 +492,22 @@ The provision by an eligible body of—
 
 **5A.**[^c15302361] The provision of education or vocational training and the supply, by the person providing that education or training, of any goods or services essential to that provision, to the extent that the consideration payable is ultimately a charge to funds provided by
 
-- (a)[^key-cf3062d7465915f607b8f9e81acbb287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-c7a28c69f57ae2a0eea436d713c26725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-ba8297e0727b1fdc07fb92b7bbb5eda3] the Welsh Ministers under section 92, 97, or 103(1) of the Tertiary Education and Research (Wales) Act 2022, or
+- (a)[^c-cf3062d7465915f607b8f9e81acbb287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c7a28c69f57ae2a0eea436d713c26725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ba8297e0727b1fdc07fb92b7bbb5eda3] the Welsh Ministers under section 92, 97, or 103(1) of the Tertiary Education and Research (Wales) Act 2022, or
 - (d) the Commission for Tertiary Education and Research under section 97, 101, 103(1) or (2), or 104(1)(a) of that Act.
 
-**5B.**[^key-b49a81e934e0412003efbce9dac31451] The provision of education or vocational training and the supply, by the person providing that education or training, of any goods or services essential to that provision, to persons who are—
+**5B.**[^c-b49a81e934e0412003efbce9dac31451] The provision of education or vocational training and the supply, by the person providing that education or training, of any goods or services essential to that provision, to persons who are—
 
 - (a) aged under 19,
 - (b) aged 19 or over, in respect of education or training begun by them when they were aged under 19,
-- (ba)[^key-93d57e9100d7a8d4cc2b5cd9ba470fec] aged 19 or over and for whom an EHC plan is maintained,
+- (ba)[^c-93d57e9100d7a8d4cc2b5cd9ba470fec] aged 19 or over and for whom an EHC plan is maintained,
 - (c) aged 19 or over but under 25 and subject to learning difficulty assessment, or
-- (d) aged 25 or over, in respect of education or training begun by them when they were within paragraph (ba) or[^key-e1b412d7459f0c0fc4118398917e87fe] (c),
+- (d) aged 25 or over, in respect of education or training begun by them when they were within paragraph (ba) or[^c-e1b412d7459f0c0fc4118398917e87fe] (c),
 
 to the extent that the consideration payable is ultimately a charge to funds provided by the Secretary of State.
 
-**5C.**[^key-aeac08ca3bbaa4549d0a1cf4f4846b1b] The provision of education or vocational training and the supply, by the person providing that education or training, of any goods or services essential to that provision, to persons who are aged 19 or over, to the extent that the consideration payable is ultimately a charge to funds provided by the Secretary of State in exercise of functions under Part 4 of the Apprenticeships, Skills, Children and Learning Act 2009.
+**5C.**[^c-aeac08ca3bbaa4549d0a1cf4f4846b1b] The provision of education or vocational training and the supply, by the person providing that education or training, of any goods or services essential to that provision, to persons who are aged 19 or over, to the extent that the consideration payable is ultimately a charge to funds provided by the Secretary of State in exercise of functions under Part 4 of the Apprenticeships, Skills, Children and Learning Act 2009.
 
 **6.** The provision of facilities by—
 
@@ -524,12 +524,12 @@ to the extent that the consideration payable is ultimately a charge to funds pro
   - (iii) a community, foundation or voluntary school within the meaning of the school Standards and Framework Act 1998, a special school within the meaning of section 337 of the Education Act 1996[^c15303621] or a maintained school within the meaning of[^c15303631] the [^c15303641]Education and Libraries (Northern Ireland) Order 1986; or
   - (iv) a public school within the meaning of section 135(1) of the Education (Scotland) Act 1980; or
   - (v)[^c15303651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (vi) a self-governing school within the meaning of section 1(3) of the *(Extent: S)* *(affected by repeal, see note)*[^key-37e7783ee976ff35cec5f2e30f780e5a] [^c15303661]Self-Governing Schools (Scotland) Act 1989; or *(Extent: S)* *(affected by repeal, see note)*[^key-37e7783ee976ff35cec5f2e30f780e5a]
+  - (vi) a self-governing school within the meaning of section 1(3) of the *(Extent: S)* *(affected by repeal, see note)*[^c-37e7783ee976ff35cec5f2e30f780e5a] [^c15303661]Self-Governing Schools (Scotland) Act 1989; or *(Extent: S)* *(affected by repeal, see note)*[^c-37e7783ee976ff35cec5f2e30f780e5a]
   - (vii)[^c15303671] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (viii) a grant-maintained integrated school within the meaning of Article 65 of the Education Reform (Northern Ireland) Order 1989;
 - (b) a United Kingdom university, and any college, institution, school or hall of such a university;
 - (c) an institution—
-  - (i) falling within section 91(3)(a) , (b) or (c)[^key-bc7ed2a77c0f4685d87ce2f9b9c8d828] or section 91(5)(za),[^key-bf9460ae63147cfcaf488dfdb8a434c4] (b) or (c) of the [^c15303681]Further and Higher Education Act 1992; or
+  - (i) falling within section 91(3)(a) , (b) or (c)[^c-bc7ed2a77c0f4685d87ce2f9b9c8d828] or section 91(5)(za),[^c-bf9460ae63147cfcaf488dfdb8a434c4] (b) or (c) of the [^c15303681]Further and Higher Education Act 1992; or
   - (ii) which is a designated institution as defined in section 44(2) of the [^c15303691]Further and Higher Education (Scotland) Act 1992; or
   - (iii) managed by a board of management as defined in section 36(1) of the Further and Higher Education (Scotland) Act 1992; or
   - (iv) to which grants are paid by the Department of Education for Northern Ireland under Article 66(2) of the [^c15303701]Education and Libraries (Northern Ireland) Order 1986; or[^c15303711]
@@ -555,12 +555,12 @@ training, re-training or the provision of work experience for—
 
 (5) For the purposes of item 5 a supply of any goods or services shall not be taken to be essential to the provision of vocational training unless the goods or services in question are provided directly to the trainee.
 
-(5A)[^c15303761] For the purposes of items 5A[^key-3b62b967f7ffd4460d1081a8e99a880d] to 5C[^key-07e7c3dd3d97e6650fd0b656ae8a8532]a supply of any goods or services shall not be taken to be essential to the provision of education or vocational training unless—
+(5A)[^c15303761] For the purposes of items 5A[^c-3b62b967f7ffd4460d1081a8e99a880d] to 5C[^c-07e7c3dd3d97e6650fd0b656ae8a8532]a supply of any goods or services shall not be taken to be essential to the provision of education or vocational training unless—
 
 - (a) in the case of the provision of education, the goods or services are provided directly to the person receiving the education;
 - (b) in the case of the provision of vocational training, the goods or services are provided directly to the person receiving the training.
 
-(5B)[^key-16253ccec8f0e556d5981abce1f6e30f] In item 5B, “EHC plan” and[^key-baa728b5046d2ad53d50209705be8c42] “**subject to learning difficulty assessment**” have the same meanings as in the Education Act 1996.
+(5B)[^c-16253ccec8f0e556d5981abce1f6e30f] In item 5B, “EHC plan” and[^c-baa728b5046d2ad53d50209705be8c42] “**subject to learning difficulty assessment**” have the same meanings as in the Education Act 1996.
 
 (6) For the purposes of item 6 a club is a “**youth club**” if—
 
@@ -572,29 +572,29 @@ training, re-training or the provision of work experience for—
 
 ##### 1. Item No.
 
-The supply of services consisting in the provision of medical care[^key-12989d59e3cc736c8725712ef0e76485] by a person registered or enrolled in any of the following—
+The supply of services consisting in the provision of medical care[^c-12989d59e3cc736c8725712ef0e76485] by a person registered or enrolled in any of the following—
 
-- (a) the register of medical practitioners [^key-b832f46d5c78d28ae7c801c830d82eea]...;
+- (a) the register of medical practitioners [^c-b832f46d5c78d28ae7c801c830d82eea]...;
 - (b) either of the registers of ophthalmic opticians or the register of dispensing opticians kept under the [^c15304121]Opticians Act 1989 or either of the lists kept under section 9 of that Act of bodies corporate carrying on business as ophthalmic opticians or as dispensing opticians;
-- (c) the register kept under[^c17227791] the Health Professions Order 2001[^key-93025236487f1daedea6890a3f5c50f6] ;
+- (c) the register kept under[^c17227791] the Health Professions Order 2001[^c-93025236487f1daedea6890a3f5c50f6] ;
 - (ca)[^c15304141] the register of osteopaths maintained in accordance with the provisions of the Osteopaths Act 1993 [^c15304151];
 - (cb)[^c15304161] the register of chiropractors maintained in accordance with the provisions of the Chiropractors Act 1994 [^c15304171];
-- (d) the register of qualified[^c17228971] nurses, midwives and nursing associates[^key-a865d1b1a7bd6115a349fc1e74a06527] maintained under article 5 of the Nursing and Midwifery Order 2001;
-- (e)[^key-f340cf8ff61c17992b698a56efeb0b35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the register of qualified[^c17228971] nurses, midwives and nursing associates[^c-a865d1b1a7bd6115a349fc1e74a06527] maintained under article 5 of the Nursing and Midwifery Order 2001;
+- (e)[^c-f340cf8ff61c17992b698a56efeb0b35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** The supply of any services consisting in the provision of medical care, or the supply of dental prostheses, by[^key-0c78d80aeec4e597f4a650fa4278385c]—
+**2.** The supply of any services consisting in the provision of medical care, or the supply of dental prostheses, by[^c-0c78d80aeec4e597f4a650fa4278385c]—
 
 - (a) a person registered in the dentists’ register;
-- (b)[^key-d202f259920ff521c8eedb05570dcc93] a person registered in the dental care professionals register established under section 36B of the Dentists Act 1984; [^key-fac64f18c308c40c672a900f87b44772]...
-- (c)[^key-fac64f18c308c40c672a900f87b44772] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d202f259920ff521c8eedb05570dcc93] a person registered in the dental care professionals register established under section 36B of the Dentists Act 1984; [^c-fac64f18c308c40c672a900f87b44772]...
+- (c)[^c-fac64f18c308c40c672a900f87b44772] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2A.**[^key-2cf6bdce8d5fdb125e24c1e5e943e715] The supply of any services or dental prostheses by a dental technician.
+**2A.**[^c-2cf6bdce8d5fdb125e24c1e5e943e715] The supply of any services or dental prostheses by a dental technician.
 
-**3.** The supply of any services consisting in the provision of medical care[^key-32575e3816129a504f02ce8326d4220d] by a person registered in the register maintained under article 19 of the Pharmacy Order 2010 or in the register of pharmaceutical chemists kept under[^key-7049a1c737a4870a04076d1e0e5e29ad] the [^c15304221]Pharmacy (Northern Ireland) Order 1976.
+**3.** The supply of any services consisting in the provision of medical care[^c-32575e3816129a504f02ce8326d4220d] by a person registered in the register maintained under article 19 of the Pharmacy Order 2010 or in the register of pharmaceutical chemists kept under[^c-7049a1c737a4870a04076d1e0e5e29ad] the [^c15304221]Pharmacy (Northern Ireland) Order 1976.
 
 **4.** The provision of care or medical or surgical treatment and, in connection with it, the supply of any goods, in any hospital or state-regulated institution[^c17230471].
 
-**5.** The provision of a deputy for a person registered in the register of medical practitioners [^key-fd02e97f9df4937ae77678cba17eaad3]....
+**5.** The provision of a deputy for a person registered in the register of medical practitioners [^c-fd02e97f9df4937ae77678cba17eaad3]....
 
 **6.** Human blood.
 
@@ -605,7 +605,7 @@ The supply of services consisting in the provision of medical care[^key-12989d59
 **9.**[^c17231201] The supply by—
 
 - (a) a charity,
-- (b) a state-regulated private welfare institution or agency[^key-2b7115cf0d0916cd1827212d0b2a90ed], or
+- (b) a state-regulated private welfare institution or agency[^c-2b7115cf0d0916cd1827212d0b2a90ed], or
 - (c) a public body,
 
 of welfare services and of goods supplied in connection with those welfare services.
@@ -620,13 +620,13 @@ of welfare services and of goods supplied in connection with those welfare servi
 
 (2) Paragraphs (a) to (d) of item 1 and paragraphs (a) and (b) of item 2 include supplies of services made by a person who is not registered or enrolled in any of the registers or rolls specified in those paragraphs where the services are wholly performed or directly supervised by a person who is so registered or enrolled.
 
-(2ZA)[^key-b8b700ab7e837526a3c4180340d665d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2ZA)[^c-b8b700ab7e837526a3c4180340d665d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^c15304251] Item 3 includes supplies of services made by a person who is not registered in either of the registers specified in that item where the services are wholly performed or directly supervised[^key-ddc1a93c92fd597f180c972ff0396925] by a person who is so registered.
+(2A)[^c15304251] Item 3 includes supplies of services made by a person who is not registered in either of the registers specified in that item where the services are wholly performed or directly supervised[^c-ddc1a93c92fd597f180c972ff0396925] by a person who is so registered.
 
 (3) Item 3 does not include the letting on hire of goods.
 
-(4)[^key-19f35f9e6461b30e94c2472ac5679c7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-19f35f9e6461b30e94c2472ac5679c7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In item 9 “**public body**” means—
 
@@ -696,13 +696,13 @@ The grant of a right to enter a competition in sport or physical recreation wher
 
 **2.** The grant, by an eligible body[^c15304301] established for the purposes of sport or physical recreation, of a right to enter a competition in such an activity.
 
-**3.** The supply by an eligible body[^c15304311] to an individual [^key-dd7e9f728b70e46ef241e722ccc7d31c]... of services closely linked with and essential to sport or physical education in which the individual is taking part.
+**3.** The supply by an eligible body[^c15304311] to an individual [^c-dd7e9f728b70e46ef241e722ccc7d31c]... of services closely linked with and essential to sport or physical education in which the individual is taking part.
 
 ##### Notes:
 
 (1) Item 3 does not include the supply of any services by an eligible body[^c15304361] of residential accommodation, catering or transport.
 
-(2)[^key-375403252cd913d5d1f2789e9d16be55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-375403252cd913d5d1f2789e9d16be55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2A)[^c15304381] Subject to Notes (2C) and (3), in this Group “eligible body” means an eligible body which–
 
@@ -809,7 +809,7 @@ references in the preceding Notes to a supply shall be deemed to include referen
 - “sports land”, in relation to any body, means any land used or held for use for or in connection with the provision by that body of facilities for use for or in connection with sport or physical recreation, or both;
 - “sports supply” means a supply which, if made by an eligible body, would fall within Item 2 or 3.
 
-(17) For the purposes of this Group any question whether a person is connected with another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^key-aeeb44513f210da6d2be5cae1f213779] (connected persons).
+(17) For the purposes of this Group any question whether a person is connected with another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^c-aeeb44513f210da6d2be5cae1f213779] (connected persons).
 
 #### Group 11— Works of art etc
 
@@ -850,7 +850,7 @@ The supply of goods and services by a charity in connection with an event—
 
 (1) For the purposes of this Group “event” includes an event accessed (wholly or partly) by means of electronic communications.
 
-For this purpose “electronic communications” includes any communications by means of an electronic communications network[^key-f554d8f93720da628edb4e6c5295d9d5].
+For this purpose “electronic communications” includes any communications by means of an electronic communications network[^c-f554d8f93720da628edb4e6c5295d9d5].
 
 (2)[^c15304521] For the purposes of this Group “charity” includes a body corporate that is wholly owned by a charity if—
 
@@ -930,9 +930,9 @@ Notes:
 
 A supply of goods in relation to which each of the following conditions is satisfied, that is to say—
 
-- (a) there is input tax of the person making the supply (“the relevant supplier”), or of any predecessor of his, that has arisen or will arise on the supply to, [^key-d724ccef5b853f0cba35b43e8f7d2720]... or importation by, the relevant supplier or any such predecessor of goods used for the supply made by the relevant supplier;
+- (a) there is input tax of the person making the supply (“the relevant supplier”), or of any predecessor of his, that has arisen or will arise on the supply to, [^c-d724ccef5b853f0cba35b43e8f7d2720]... or importation by, the relevant supplier or any such predecessor of goods used for the supply made by the relevant supplier;
 - (b) the only such input tax is non-deductible input tax; and
-- (c) the supply made by the relevant supplier is not a supply which would be exempt under Item 1 of Group 1 of Schedule 9 but for an option to tax any land under Part 1 of Schedule 10[^key-ca424d43f374322ac09cab66a4cd6a92].
+- (c) the supply made by the relevant supplier is not a supply which would be exempt under Item 1 of Group 1 of Schedule 9 but for an option to tax any land under Part 1 of Schedule 10[^c-ca424d43f374322ac09cab66a4cd6a92].
 
 ##### Notes:[^c15304641]
 
@@ -964,7 +964,7 @@ A supply of goods in relation to which each of the following conditions is satis
 
 (7) For the purposes of this Group the input tax of a person shall be deemed to include any VAT which—
 
-- (a) has arisen or will arise on a supply to, [^key-cb4c3a5507f937a1878a7bd903b188f4]... or importation by, that person; and
+- (a) has arisen or will arise on a supply to, [^c-cb4c3a5507f937a1878a7bd903b188f4]... or importation by, that person; and
 - (b) would fall to be treated as input tax of that person but for its arising when that person is not a taxable person.
 
 (8) Subject to Note (9) below, the input tax that is taken to be non-deductible input tax shall include any VAT which—
@@ -972,14 +972,14 @@ A supply of goods in relation to which each of the following conditions is satis
 - (a) is deemed to be input tax of any person by virtue of Note (7) above; and
 - (b) would be input tax to which Note (4) or (5) above would apply if it were input tax of that person and, in the case of a person to whom section 39 applies, if his business were carried on in the United Kingdom.
 
-(9) Non-deductible input tax does not include any VAT that has arisen or will arise on a supply to, [^key-8c97a3d28a31c0c09a768446ac368c83]... or importation by, any person of any goods used for a supply of goods (“the relevant supply”) if—
+(9) Non-deductible input tax does not include any VAT that has arisen or will arise on a supply to, [^c-8c97a3d28a31c0c09a768446ac368c83]... or importation by, any person of any goods used for a supply of goods (“the relevant supply”) if—
 
 - (a) that VAT ; or
-- (b) any other VAT arising on the supply to, [^key-6ddc0ef451d808d7bfc049a4c4a0a0e0]... or importation by, that person or any predecessor of his of any goods used for the relevant supply,
+- (b) any other VAT arising on the supply to, [^c-6ddc0ef451d808d7bfc049a4c4a0a0e0]... or importation by, that person or any predecessor of his of any goods used for the relevant supply,
 
-has been or will be refunded under section 33, 33A,[^c15304691] 33B,[^key-dcaa0d2a593a54dcce142792eab9d675] 33C,[^key-13be3dd15d4e89f4b2a2107554ce8840] 39 or 41.
+has been or will be refunded under section 33, 33A,[^c15304691] 33B,[^c-dcaa0d2a593a54dcce142792eab9d675] 33C,[^c-13be3dd15d4e89f4b2a2107554ce8840] 39 or 41.
 
-(10) Input tax arising on a supply[^key-066a08007343ff5c7e52f19f226b50df]... or importation of goods shall be disregarded for the purposes of determining whether the conditions in Item No. 1(a) and (b) are satisfied if, at a time after that supply[^key-066a08007343ff5c7e52f19f226b50df]... or importation but before the supply by the relevant supplier, a supply of the goods or of anything in which they are comprised is treated under or by virtue of any provision of this Act as having been made by the relevant supplier or any predecessor of his to himself.
+(10) Input tax arising on a supply[^c-066a08007343ff5c7e52f19f226b50df]... or importation of goods shall be disregarded for the purposes of determining whether the conditions in Item No. 1(a) and (b) are satisfied if, at a time after that supply[^c-066a08007343ff5c7e52f19f226b50df]... or importation but before the supply by the relevant supplier, a supply of the goods or of anything in which they are comprised is treated under or by virtue of any provision of this Act as having been made by the relevant supplier or any predecessor of his to himself.
 
 (11) In relation to any goods or anything comprised in any goods, a person is a predecessor of another (“the putative successor”) only if Note (12) or (13) below applies to him in relation to those goods or that thing; and references in this Group to a person’s predecessors include references to the predecessors of his predecessors through any number of transfers and events such as are mentioned in Notes (12) and (13).
 
@@ -989,15 +989,15 @@ has been or will be refunded under section 33, 33A,[^c15304691] 33B,[^key-dcaa0d
 - (b) those assets consisted of or included those goods or that thing; and
 - (c) the transfer of the assets is one falling by virtue of an Order under section 5(3) (or under an enactment re-enacted in section 5(3)) to be treated as neither a supply of goods nor a supply of services.
 
-(13) This Note applies to a person[^key-091b3e7756d88d1a978404caf16053dc] in relation to any goods or thing if—
+(13) This Note applies to a person[^c-091b3e7756d88d1a978404caf16053dc] in relation to any goods or thing if—
 
-- (a) those goods or that thing formed part of the assets of the business of that person[^key-e32d982be74fbc5704f084fa29dddea5] at a time when it became a member of a group of which the putative successor was at that time the representative member;
-- (b) those goods or that thing formed part of the assets of the business of that person, or of any other person who[^key-cdf0f9cdbe0350c7dc44c8d544acfc27] was a member of the same group as that person, at a time when that person[^key-3b365ee098e5927305543469b09a1a24] was succeeded as the representative member of the group by the putative successor; or
-- (c) those goods or that thing formed part of the assets of the putative successor at a time when it ceased to be a member of a group of which the person[^key-f26a2dfcdc0939fd4f0fe2975e656d35] in question was at the time the representative member.
+- (a) those goods or that thing formed part of the assets of the business of that person[^c-e32d982be74fbc5704f084fa29dddea5] at a time when it became a member of a group of which the putative successor was at that time the representative member;
+- (b) those goods or that thing formed part of the assets of the business of that person, or of any other person who[^c-cdf0f9cdbe0350c7dc44c8d544acfc27] was a member of the same group as that person, at a time when that person[^c-3b365ee098e5927305543469b09a1a24] was succeeded as the representative member of the group by the putative successor; or
+- (c) those goods or that thing formed part of the assets of the putative successor at a time when it ceased to be a member of a group of which the person[^c-f26a2dfcdc0939fd4f0fe2975e656d35] in question was at the time the representative member.
 
-(14) References in Note (13) above to a person's[^key-383bc244044180528ae6cd71a72dfbd9] being or becoming or ceasing to be a member of a group or the representative member of a group are references to its falling to be so treated for the purposes of section 43.
+(14) References in Note (13) above to a person's[^c-383bc244044180528ae6cd71a72dfbd9] being or becoming or ceasing to be a member of a group or the representative member of a group are references to its falling to be so treated for the purposes of section 43.
 
-(15) In Notes (11) to (13) above the references to anything comprised in other goods shall be taken, in relation to any supply consisting in or arising from the grant of a major interest in land, to include anything the supply[^key-aa991cf71cee188118e2929f461ee01e]... or importation of which is, by virtue of Note (2) above, taken to be a supply[^key-aa991cf71cee188118e2929f461ee01e]... or importation of goods used for making the supply so consisting or arising.
+(15) In Notes (11) to (13) above the references to anything comprised in other goods shall be taken, in relation to any supply consisting in or arising from the grant of a major interest in land, to include anything the supply[^c-aa991cf71cee188118e2929f461ee01e]... or importation of which is, by virtue of Note (2) above, taken to be a supply[^c-aa991cf71cee188118e2929f461ee01e]... or importation of goods used for making the supply so consisting or arising.
 
 (16) Notes (1) and (1A) to Group 1 shall apply for the purposes of this Group as they apply for the purposes of that Group.
 
@@ -1037,18 +1037,18 @@ The supply of investment gold.
 - (a) between members of the London Bullion Market Association, or
 - (b) by a member of that Association to a taxable person who is not a member or by such a person to a member.
 
-#### GROUP 16 — SUPPLIES OF SERVICES BY GROUPS INVOLVING COST SHARING[^key-39e96f560275a7343981254516270f54]
+#### GROUP 16 — SUPPLIES OF SERVICES BY GROUPS INVOLVING COST SHARING[^c-39e96f560275a7343981254516270f54]
 
 ##### 1. Item No
 
 The supply of services by an independent group of persons where each of the following conditions is satisfied—
 
-- (a) each of those persons is a person who is carrying on an activity (“the relevant activity”) which is exempt from VAT or is not carried on in the course or furtherance of carrying on a business,[^key-461d0018f69c4e0c018623512965fba5]
+- (a) each of those persons is a person who is carrying on an activity (“the relevant activity”) which is exempt from VAT or is not carried on in the course or furtherance of carrying on a business,[^c-461d0018f69c4e0c018623512965fba5]
 - (b) the supply of services is made for the purpose of rendering the members of the group the services directly necessary for the exercise of the relevant activity,
 - (c) the group merely claims from its members exact reimbursement of their share of the joint expenses, and
 - (d) the exemption of the supply is not likely to cause distortion of competition.
 
-### Part 3 — Exceptions[^key-610bad4279e92c659968b30c72809893]
+### Part 3 — Exceptions[^c-610bad4279e92c659968b30c72809893]
 
 <table>
 <thead>
@@ -1066,7 +1066,7 @@ The supply of services by an independent group of persons where each of the foll
 
 ## Annotations
 
-[^key-9382bf8570494b22ca267ec0fe01508b]: Textual amendment: Words in Sch. 9 Pt. I Index substituted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(5)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/5/b)
+[^c-9382bf8570494b22ca267ec0fe01508b]: Textual amendment: Words in Sch. 9 Pt. I Index substituted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(5)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/5/b)
 
 [^c15301751]: Textual amendment: Sch. 9 Pt. I: entry inserted (1.12.1999) by [S.I. 1999/2834](https://www.legislation.gov.uk/uksi/1999/2834), [art. 3(b)](https://www.legislation.gov.uk/uksi/1999/2834/article/3/b)
 
@@ -1074,21 +1074,21 @@ The supply of services by an independent group of persons where each of the foll
 
 [^c15301791]: Textual amendment: Sch. 9 Pt. I: entry inserted (1.3.2000) by [S.I. 1999/2833](https://www.legislation.gov.uk/uksi/1999/2833), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/2833/article/2/2)
 
-[^key-d813f22d8a513aa4453fd3bd138b69c4]: Textual amendment: Sch. 9 Pt. I: entry inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 197(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/197/1)
+[^c-d813f22d8a513aa4453fd3bd138b69c4]: Textual amendment: Sch. 9 Pt. I: entry inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 197(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/197/1)
 
 [^c15301811]: Textual amendment: Sch. 9 Pt. I: entry substituted (1.12.1999) by [S.I. 1999/2834](https://www.legislation.gov.uk/uksi/1999/2834), [art. 3(a)](https://www.legislation.gov.uk/uksi/1999/2834/article/3/a)
 
-[^key-5ebeb7e78ae69c2c366eefb99c44e383]: Modification: Sch. 9 Pt. 2 applied by S.I. 1995/2518, reg. 84(5) (as substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [Value Added Tax (Amendment) (No.2) Regulations 2003 (S.I. 2003/1069)](https://www.legislation.gov.uk/uksi/2003/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1069/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/1069/regulation/9))
+[^c-5ebeb7e78ae69c2c366eefb99c44e383]: Modification: Sch. 9 Pt. 2 applied by S.I. 1995/2518, reg. 84(5) (as substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [Value Added Tax (Amendment) (No.2) Regulations 2003 (S.I. 2003/1069)](https://www.legislation.gov.uk/uksi/2003/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1069/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/1069/regulation/9))
 
-[^key-106ff1a943320723c9eb2eec257a6f92]: Textual amendment: Sch. 9 Pt. II Group 1 item 1 para. (b) repealed (with effect in accordance with art. 1(3) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/4/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+[^c-106ff1a943320723c9eb2eec257a6f92]: Textual amendment: Sch. 9 Pt. II Group 1 item 1 para. (b) repealed (with effect in accordance with art. 1(3) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/4/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
 
-[^key-26910ab2a0966ad10cb5ceb69e27ba7f]: Textual amendment: Sch. 9 Pt. II Group 1 item 1(ka) inserted (1.10.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/2), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
+[^c-26910ab2a0966ad10cb5ceb69e27ba7f]: Textual amendment: Sch. 9 Pt. II Group 1 item 1(ka) inserted (1.10.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/2), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
 
-[^key-d401f71272f2ed7fafa50b91a59238fb]: Textual amendment: Word in Sch. 9 Pt. II Group 1 item 1(m) omitted (1.10.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/3), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
+[^c-d401f71272f2ed7fafa50b91a59238fb]: Textual amendment: Word in Sch. 9 Pt. II Group 1 item 1(m) omitted (1.10.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/3), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
 
-[^key-ab0e63c416c82374b6a24da1ed89fdb4]: Textual amendment: Sch. 9 Pt. II Group 1 item 1(ma) inserted (1.10.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/3), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
+[^c-ab0e63c416c82374b6a24da1ed89fdb4]: Textual amendment: Sch. 9 Pt. II Group 1 item 1(ma) inserted (1.10.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/3), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
 
-[^key-7dbb2948ab8c2e3650f4e1994ecc64b9]: Textual amendment: Word in Sch. 9 Pt. II Group 1 item 1(n) substituted (1.10.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/4), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
+[^c-7dbb2948ab8c2e3650f4e1994ecc64b9]: Textual amendment: Word in Sch. 9 Pt. II Group 1 item 1(n) substituted (1.10.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/4), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
 
 [^c15301831]: Textual amendment: Sch. 9 Pt. II Group 1 Note (1) substituted (1.3.1995) by [S.I. 1995/282](https://www.legislation.gov.uk/uksi/1995/282), [arts. 1](https://www.legislation.gov.uk/uksi/1995/282/article/1), [3](https://www.legislation.gov.uk/uksi/1995/282/article/3)
 
@@ -1098,137 +1098,137 @@ The supply of services by an independent group of persons where each of the foll
 
 [^c15301851]: Textual amendment: Words in Sch. 9 Pt. II Group 1 Note (3) substituted (1.3.1995) by [S.I. 1995/282](https://www.legislation.gov.uk/uksi/1995/282), [arts. 1](https://www.legislation.gov.uk/uksi/1995/282/article/1), [5](https://www.legislation.gov.uk/uksi/1995/282/article/5)
 
-[^key-a00f3388773d7eacf838a986bb3bfe8b]: Textual amendment: Sch. 9 Pt. II Group 1 Note (7) repealed (with effect in accordance with art. 1(3) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2008/1146/article/4/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+[^c-a00f3388773d7eacf838a986bb3bfe8b]: Textual amendment: Sch. 9 Pt. II Group 1 Note (7) repealed (with effect in accordance with art. 1(3) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2008/1146/article/4/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
 
 [^c15301871]: Textual amendment: Words in Sch. 9 Pt. II Group 1 Note (11)(a) substituted (1.3.1995) by [S.I. 1995/282](https://www.legislation.gov.uk/uksi/1995/282), [arts. 1](https://www.legislation.gov.uk/uksi/1995/282/article/1), [7](https://www.legislation.gov.uk/uksi/1995/282/article/7)
 
-[^key-49dc981f269a48216f6dd3e953a58b7a]: Textual amendment: Sch. 9 Pt. II Group 1 Notes (14)(14A) substituted for Sch. 9 Pt. II Group 1 Note (14) (1.3.2012) by [The Value Added Tax (Land Exemption) Order 2012 (S.I. 2012/58)](https://www.legislation.gov.uk/uksi/2012/58), [arts. 2](https://www.legislation.gov.uk/uksi/2012/58/article/1), [3](https://www.legislation.gov.uk/uksi/2012/58/article/2)
+[^c-49dc981f269a48216f6dd3e953a58b7a]: Textual amendment: Sch. 9 Pt. II Group 1 Notes (14)(14A) substituted for Sch. 9 Pt. II Group 1 Note (14) (1.3.2012) by [The Value Added Tax (Land Exemption) Order 2012 (S.I. 2012/58)](https://www.legislation.gov.uk/uksi/2012/58), [arts. 2](https://www.legislation.gov.uk/uksi/2012/58/article/1), [3](https://www.legislation.gov.uk/uksi/2012/58/article/2)
 
-[^key-de94f2ee574cd9fa98ad9b7a3d083c9f]: Textual amendment: Sch. 9 Pt. II Group 1 Notes (15A)-(15E) inserted (1.10.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(5)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/5), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
+[^c-de94f2ee574cd9fa98ad9b7a3d083c9f]: Textual amendment: Sch. 9 Pt. II Group 1 Notes (15A)-(15E) inserted (1.10.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(5)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/5), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
 
-[^key-21f2b296fad4f38f8971434fc11ab76a]: Textual amendment: Sch. 9 Pt. II Group 1 Notes (17)-(19) inserted (1.10.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(6)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/6), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
+[^c-21f2b296fad4f38f8971434fc11ab76a]: Textual amendment: Sch. 9 Pt. II Group 1 Notes (17)-(19) inserted (1.10.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 26 paras. 5(6)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/5/6), [7(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/1)
 
 [^c15301891]: Textual amendment: Sch. 9 Pt. 2 Group 2 substituted (19.3.1997 with effect as mentioned in [s. 38(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/38/2) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 38(1)(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/38/1/2)
 
-[^key-c4868619fcd2eef65699bec19446ea93]: Textual amendment: Sch. 9 Pt. 2 Group 2 item 1 substituted for Sch. 9 Pt. 2 Group 2 items 1-3 (1.1.2005) by [The Value Added Tax (Insurance) Order 2004 (S.I. 2004/3083)](https://www.legislation.gov.uk/uksi/2004/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3083/article/1), [3](https://www.legislation.gov.uk/uksi/2004/3083/article/3)
+[^c-c4868619fcd2eef65699bec19446ea93]: Textual amendment: Sch. 9 Pt. 2 Group 2 item 1 substituted for Sch. 9 Pt. 2 Group 2 items 1-3 (1.1.2005) by [The Value Added Tax (Insurance) Order 2004 (S.I. 2004/3083)](https://www.legislation.gov.uk/uksi/2004/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3083/article/1), [3](https://www.legislation.gov.uk/uksi/2004/3083/article/3)
 
 [^c15301971]: Textual amendment: Sch. 9 Pt. II Group 2 substituted (19.3.1997 with effect as mentioned in [s. 38(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/38/2) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 38(1)(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/38/1/2)
 
 [^c15301981]: Textual amendment: Words in Sch. 9 Group 2 item 4(a) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [347(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/347/4)
 
-[^key-f8fd7bf012fa97726d7dade3f8d5448c]: Textual amendment: Words in in Sch. 9 Pt. 2 Group 2 item 4 inserted (1.1.2005) by [The Value Added Tax (Insurance) Order 2004 (S.I. 2004/3083)](https://www.legislation.gov.uk/uksi/2004/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3083/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2004/3083/article/4/a)
+[^c-f8fd7bf012fa97726d7dade3f8d5448c]: Textual amendment: Words in in Sch. 9 Pt. 2 Group 2 item 4 inserted (1.1.2005) by [The Value Added Tax (Insurance) Order 2004 (S.I. 2004/3083)](https://www.legislation.gov.uk/uksi/2004/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3083/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2004/3083/article/4/a)
 
-[^key-577aae634c5033d55dbd5fc15409662f]: Textual amendment: Words in Sch. 9 Pt. 2 Group 2 item 4 substituted (1.1.2005) by [The Value Added Tax (Insurance) Order 2004 (S.I. 2004/3083)](https://www.legislation.gov.uk/uksi/2004/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3083/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2004/3083/article/4/b)
+[^c-577aae634c5033d55dbd5fc15409662f]: Textual amendment: Words in Sch. 9 Pt. 2 Group 2 item 4 substituted (1.1.2005) by [The Value Added Tax (Insurance) Order 2004 (S.I. 2004/3083)](https://www.legislation.gov.uk/uksi/2004/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3083/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2004/3083/article/4/b)
 
 [^c15302001]: Textual amendment: Sch. 9 Pt. II group 2 substituted (19.3.1997 with effect as mentioned in [s. 38(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/38/2) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 38(1)(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/38/1/2)
 
-[^key-02119bd7a002088116efbf61b531f061]: Textual amendment: Words in Sch. 9 Pt. 2 Group 2 omitted (1.1.2005) by virtue of [The Value Added Tax (Insurance) Order 2004 (S.I. 2004/3083)](https://www.legislation.gov.uk/uksi/2004/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3083/article/1), [5](https://www.legislation.gov.uk/uksi/2004/3083/article/5)
+[^c-02119bd7a002088116efbf61b531f061]: Textual amendment: Words in Sch. 9 Pt. 2 Group 2 omitted (1.1.2005) by virtue of [The Value Added Tax (Insurance) Order 2004 (S.I. 2004/3083)](https://www.legislation.gov.uk/uksi/2004/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3083/article/1), [5](https://www.legislation.gov.uk/uksi/2004/3083/article/5)
 
-[^key-b93dd63081f7e2c54b8ec14ed6044720]: Textual amendment: Words in Sch. 9 Pt. 2 Group 2 substituted (1.1.2005) by [The Value Added Tax (Insurance) Order 2004 (S.I. 2004/3083)](https://www.legislation.gov.uk/uksi/2004/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3083/article/1), [6](https://www.legislation.gov.uk/uksi/2004/3083/article/6)
+[^c-b93dd63081f7e2c54b8ec14ed6044720]: Textual amendment: Words in Sch. 9 Pt. 2 Group 2 substituted (1.1.2005) by [The Value Added Tax (Insurance) Order 2004 (S.I. 2004/3083)](https://www.legislation.gov.uk/uksi/2004/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3083/article/1), [6](https://www.legislation.gov.uk/uksi/2004/3083/article/6)
 
-[^key-5cdee6ff080f4d5fce860cdbdd216cdf]: Textual amendment: Words in Sch. 9 Pt. 2 Group 2 note (6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 285(e)(i)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/285/e/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5cdee6ff080f4d5fce860cdbdd216cdf]: Textual amendment: Words in Sch. 9 Pt. 2 Group 2 note (6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 285(e)(i)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/285/e/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-a680526b73450366b3676c6f310a89ed]: Textual amendment: Sch. 9 Pt. II Group 3 substituted (with effect in accordance with s. 22(4) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 22(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/22/2)
+[^c-a680526b73450366b3676c6f310a89ed]: Textual amendment: Sch. 9 Pt. II Group 3 substituted (with effect in accordance with s. 22(4) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 22(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/22/2)
 
-[^key-4bb30fddf80626a062a1d3e12ff725f3]: Textual amendment: Sch. 9 Pt. II Group 3 Note (1) repealed (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2085/schedule/2)
+[^c-4bb30fddf80626a062a1d3e12ff725f3]: Textual amendment: Sch. 9 Pt. II Group 3 Note (1) repealed (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2085/schedule/2)
 
-[^key-52b992649d7086be1e445826ce219fb9]: Textual amendment: Words in Sch. 9 Pt. II Group 3 Note (2) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/b)
+[^c-52b992649d7086be1e445826ce219fb9]: Textual amendment: Words in Sch. 9 Pt. II Group 3 Note (2) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/b)
 
-[^key-69ad3701308380c70e85f5a1c766d0fe]: Textual amendment: Words in Sch. 9 Pt. II Group 3 Note (3) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(c)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/c)
+[^c-69ad3701308380c70e85f5a1c766d0fe]: Textual amendment: Words in Sch. 9 Pt. II Group 3 Note (3) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(c)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/c)
 
-[^key-b90445d9c4831c1796b0976b836be655]: Textual amendment: Words in Sch. 9 Pt. II Group 3 Note (4)(a) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(d)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/d)
+[^c-b90445d9c4831c1796b0976b836be655]: Textual amendment: Words in Sch. 9 Pt. II Group 3 Note (4)(a) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(d)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/d)
 
-[^key-00e86272eaca799f9e7adc7dfa355cc4]: Textual amendment: Words in Sch. 9 Pt. II Group 3 Note (5) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(e)(i)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/e/i)
+[^c-00e86272eaca799f9e7adc7dfa355cc4]: Textual amendment: Words in Sch. 9 Pt. II Group 3 Note (5) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(e)(i)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/e/i)
 
-[^key-e0a9deb841e2cef9d4f643e4879ec09b]: Textual amendment: Words in Sch. 9 Pt. II Group 3 Note (5)(a) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/e/ii)
+[^c-e0a9deb841e2cef9d4f643e4879ec09b]: Textual amendment: Words in Sch. 9 Pt. II Group 3 Note (5)(a) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/e/ii)
 
-[^key-f1f6a3089a8ba7f5cc8b53279fd30390]: Textual amendment: Sch. 9 Pt. II Group 3 Notes (6)(7) substituted for Sch. 9 Pt. II Group 3 Note (6) (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(f)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/f)
+[^c-f1f6a3089a8ba7f5cc8b53279fd30390]: Textual amendment: Sch. 9 Pt. II Group 3 Notes (6)(7) substituted for Sch. 9 Pt. II Group 3 Note (6) (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 28(3)(f)](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/28/3/f)
 
-[^key-bdc723ffb88330c9e6775b7871cefdda]: Textual amendment: Words in Sch. 9 Pt. II Group 4 heading inserted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(5)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/5/a)
+[^c-bdc723ffb88330c9e6775b7871cefdda]: Textual amendment: Words in Sch. 9 Pt. II Group 4 heading inserted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(5)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/5/a)
 
-[^key-e8269c2ac7d27431f1e515c243b2317f]: Textual amendment: Words in Sch. 9 Pt. II Group 4 item 1 substituted (1.11.2006) by [The Value Added Tax (Betting, Gaming and Lotteries) Order 2006 (S.I. 2006/2685)](https://www.legislation.gov.uk/uksi/2006/2685), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2685/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2006/2685/article/2/a)
+[^c-e8269c2ac7d27431f1e515c243b2317f]: Textual amendment: Words in Sch. 9 Pt. II Group 4 item 1 substituted (1.11.2006) by [The Value Added Tax (Betting, Gaming and Lotteries) Order 2006 (S.I. 2006/2685)](https://www.legislation.gov.uk/uksi/2006/2685), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2685/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2006/2685/article/2/a)
 
-[^key-16b5c488167d843c4a392b7011bacf1f]: Textual amendment: Sch. 9 Pt. II Group 4 item 1A inserted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/2)
+[^c-16b5c488167d843c4a392b7011bacf1f]: Textual amendment: Sch. 9 Pt. II Group 4 item 1A inserted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/2)
 
-[^key-387fa795a42b4d40fab4b33f99f87d74]: Textual amendment: Words in Sch. 9 Pt. II Group 4 Note (1) substituted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/3/a)
+[^c-387fa795a42b4d40fab4b33f99f87d74]: Textual amendment: Words in Sch. 9 Pt. II Group 4 Note (1) substituted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/3/a)
 
-[^key-6f3da8c36988de68772d45b15010e355]: Textual amendment: Sch. 9 Pt. II Group 4 Note (1)(b) omitted (retrospective to 27.4.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/113/2)[(6)](https://www.legislation.gov.uk/ukpga/2009/10/section/113/6)
+[^c-6f3da8c36988de68772d45b15010e355]: Textual amendment: Sch. 9 Pt. II Group 4 Note (1)(b) omitted (retrospective to 27.4.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/113/2)[(6)](https://www.legislation.gov.uk/ukpga/2009/10/section/113/6)
 
-[^key-e4c12727be87d829ed7c53decb9eed02]: Textual amendment: Sch. 9 Pt. II Group 4 Note (1)(d) and word omitted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/3/b)
+[^c-e4c12727be87d829ed7c53decb9eed02]: Textual amendment: Sch. 9 Pt. II Group 4 Note (1)(d) and word omitted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/3/b)
 
-[^key-6ab9410cf3d433740ed310f98ff3e691]: Textual amendment: Sch. 9 Pt. II Group 4 Note (1A) inserted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/4)
+[^c-6ab9410cf3d433740ed310f98ff3e691]: Textual amendment: Sch. 9 Pt. II Group 4 Note (1A) inserted (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 64(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/64/4)
 
-[^key-5d9338dff50f524d4713fa84e5e3430c]: Textual amendment: Sch. 9 Pt. II Group 4 Notes (2)-(4) substituted for Notes (2)-(8) (1.11.2006) by [The Value Added Tax (Betting, Gaming and Lotteries) Order 2006 (S.I. 2006/2685)](https://www.legislation.gov.uk/uksi/2006/2685), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2685/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2006/2685/article/2/c)
+[^c-5d9338dff50f524d4713fa84e5e3430c]: Textual amendment: Sch. 9 Pt. II Group 4 Notes (2)-(4) substituted for Notes (2)-(8) (1.11.2006) by [The Value Added Tax (Betting, Gaming and Lotteries) Order 2006 (S.I. 2006/2685)](https://www.legislation.gov.uk/uksi/2006/2685), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2685/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2006/2685/article/2/c)
 
-[^key-1c7f95dfaf7fe8729b67a0c3c94d24d6]: Textual amendment: Sch. 9 Pt. II Group 4 Notes (5)-(11) omitted (retrospective to 27.4.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 113(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/113/3)[(6)](https://www.legislation.gov.uk/ukpga/2009/10/section/113/6)
+[^c-1c7f95dfaf7fe8729b67a0c3c94d24d6]: Textual amendment: Sch. 9 Pt. II Group 4 Notes (5)-(11) omitted (retrospective to 27.4.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 113(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/113/3)[(6)](https://www.legislation.gov.uk/ukpga/2009/10/section/113/6)
 
-[^key-0a69d78efb7266a220f0a54a56b0b6bb]: Textual amendment: Sch. 9 Pt. II Group 5 Item 2A inserted (with application in accordance with art. 1 of the amending S.I.) by [Value Added Tax (Finance) (No.2) Order 2003 (S.I. 2003/1569)](https://www.legislation.gov.uk/uksi/2003/1569), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1569/article/2/a)
+[^c-0a69d78efb7266a220f0a54a56b0b6bb]: Textual amendment: Sch. 9 Pt. II Group 5 Item 2A inserted (with application in accordance with art. 1 of the amending S.I.) by [Value Added Tax (Finance) (No.2) Order 2003 (S.I. 2003/1569)](https://www.legislation.gov.uk/uksi/2003/1569), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1569/article/2/a)
 
 [^c15302091]: Textual amendment: Sch. 9 Pt. II Group 5 Item 5, 5A substituted (10.3.1999) for Item 5 by [S.I. 1999/594](https://www.legislation.gov.uk/uksi/1999/594), [art. 3](https://www.legislation.gov.uk/uksi/1999/594/article/3)
 
 [^c15302111]: Textual amendment: Sch. 9 Pt. II Group 5 Item 7 omitted (10.3.1999) by virtue of [S.I. 1999/594](https://www.legislation.gov.uk/uksi/1999/594), [art. 4](https://www.legislation.gov.uk/uksi/1999/594/article/4)
 
-[^key-00201dfd7aee5788e4860f0971d07e10]: Textual amendment: Sch. 9 Pt. II Group 5 Item 9 substituted (1.10.2008) by [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(2)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/2)
+[^c-00201dfd7aee5788e4860f0971d07e10]: Textual amendment: Sch. 9 Pt. II Group 5 Item 9 substituted (1.10.2008) by [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(2)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/2)
 
-[^key-f38ea58538d2e3f48e439b23480c8882]: Textual amendment: Sch. 9 Pt. II Group 5 Item 9(aa) inserted (28.6.2013) by [The Value Added Tax (Finance) Order 2013 (S.I. 2013/1402)](https://www.legislation.gov.uk/uksi/2013/1402), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1402/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1402/article/2/2)
+[^c-f38ea58538d2e3f48e439b23480c8882]: Textual amendment: Sch. 9 Pt. II Group 5 Item 9(aa) inserted (28.6.2013) by [The Value Added Tax (Finance) Order 2013 (S.I. 2013/1402)](https://www.legislation.gov.uk/uksi/2013/1402), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1402/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1402/article/2/2)
 
-[^key-8e401af51e45e4a6507e0e21a5453b9b]: Textual amendment: Sch. 9 Pt. II Group 5 Item 9(g)(h) omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 40(a)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/40/a)
+[^c-8e401af51e45e4a6507e0e21a5453b9b]: Textual amendment: Sch. 9 Pt. II Group 5 Item 9(g)(h) omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 40(a)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/40/a)
 
-[^key-dd992d9ab9b9c142f4358f7c769d43ca]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/2/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-dd992d9ab9b9c142f4358f7c769d43ca]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/2/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-2575f790da0ca2898e0d611a3c872c6f]: Textual amendment: Sch. 9 Pt. II Group 5 Item 9(k) and word inserted (1.4.2020) by [The Value Added Tax (Finance) Order 2020 (S.I. 2020/209)](https://www.legislation.gov.uk/uksi/2020/209), [arts. 1](https://www.legislation.gov.uk/uksi/2020/209/article/1), [3](https://www.legislation.gov.uk/uksi/2020/209/article/3)
+[^c-2575f790da0ca2898e0d611a3c872c6f]: Textual amendment: Sch. 9 Pt. II Group 5 Item 9(k) and word inserted (1.4.2020) by [The Value Added Tax (Finance) Order 2020 (S.I. 2020/209)](https://www.legislation.gov.uk/uksi/2020/209), [arts. 1](https://www.legislation.gov.uk/uksi/2020/209/article/1), [3](https://www.legislation.gov.uk/uksi/2020/209/article/3)
 
-[^key-06027c873464d85f4d597685c822748f]: Textual amendment: Sch. 9 Pt. II Group 5 Item 10 substituted (1.10.2008) by [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(3)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/3)
+[^c-06027c873464d85f4d597685c822748f]: Textual amendment: Sch. 9 Pt. II Group 5 Item 10 substituted (1.10.2008) by [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(3)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/3)
 
 [^c15302261]: Textual amendment: Sch. 9 Pt. II Group 5 Note (1A) inserted (10.3.1999) by [S.I. 1999/594](https://www.legislation.gov.uk/uksi/1999/594), [art. 5](https://www.legislation.gov.uk/uksi/1999/594/article/5)
 
-[^key-c3f873c9789868a8b0966fbab9d759fa]: Textual amendment: Sch. 9 Pt. II Group 5 Note (2A) omitted (with application in accordance with art. 1 of the amending S.I.) by virtue of [Value Added Tax (Finance) (No.2) Order 2003 (S.I. 2003/1569)](https://www.legislation.gov.uk/uksi/2003/1569), [art. 2(d)](https://www.legislation.gov.uk/uksi/2003/1569/article/2/d)
+[^c-c3f873c9789868a8b0966fbab9d759fa]: Textual amendment: Sch. 9 Pt. II Group 5 Note (2A) omitted (with application in accordance with art. 1 of the amending S.I.) by virtue of [Value Added Tax (Finance) (No.2) Order 2003 (S.I. 2003/1569)](https://www.legislation.gov.uk/uksi/2003/1569), [art. 2(d)](https://www.legislation.gov.uk/uksi/2003/1569/article/2/d)
 
-[^key-99ca3d9cbdaef208f45233320e9a761e]: Textual amendment: Sch. 9 Pt. II Group 5 Note (2B) omitted (with application in accordance with art. 1 of the amending S.I.) by virtue of [Value Added Tax (Finance) Order 2003 (S.I. 2003/1568)](https://www.legislation.gov.uk/uksi/2003/1568), [art. 2](https://www.legislation.gov.uk/uksi/2003/1568/article/2)
+[^c-99ca3d9cbdaef208f45233320e9a761e]: Textual amendment: Sch. 9 Pt. II Group 5 Note (2B) omitted (with application in accordance with art. 1 of the amending S.I.) by virtue of [Value Added Tax (Finance) Order 2003 (S.I. 2003/1568)](https://www.legislation.gov.uk/uksi/2003/1568), [art. 2](https://www.legislation.gov.uk/uksi/2003/1568/article/2)
 
 [^c15302281]: Textual amendment: Sch. 9 Pt. II Group 5 Notes (5)(5A)(5B) substituted (10.3.1999) for Note (5) by [S.I. 1999/594](https://www.legislation.gov.uk/uksi/1999/594), [art. 7](https://www.legislation.gov.uk/uksi/1999/594/article/7)
 
-[^key-ec1c5493b56bb1049d4c93f4ea4c938f]: Textual amendment: Words in Sch. 9 Pt. II Group 5 Note (5A) omitted (with application in accordance with art. 1 of the amending S.I.) by virtue of [Value Added Tax (Finance) (No.2) Order 2003 (S.I. 2003/1569)](https://www.legislation.gov.uk/uksi/2003/1569), [art. 2(e)](https://www.legislation.gov.uk/uksi/2003/1569/article/2/e)
+[^c-ec1c5493b56bb1049d4c93f4ea4c938f]: Textual amendment: Words in Sch. 9 Pt. II Group 5 Note (5A) omitted (with application in accordance with art. 1 of the amending S.I.) by virtue of [Value Added Tax (Finance) (No.2) Order 2003 (S.I. 2003/1569)](https://www.legislation.gov.uk/uksi/2003/1569), [art. 2(e)](https://www.legislation.gov.uk/uksi/2003/1569/article/2/e)
 
-[^key-1aa979171c73a9505782f96a47a823a6]: Textual amendment: Sch. 9 Pt. II Group 5 Note (6) substituted (1.10.2008) by [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(4)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/4)
+[^c-1aa979171c73a9505782f96a47a823a6]: Textual amendment: Sch. 9 Pt. II Group 5 Note (6) substituted (1.10.2008) by [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(4)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/4)
 
-[^key-2b24f5aeb3897f3c8708949b567553f0]: Textual amendment: Words in Sch. 9 Pt. II Group 15 Note (6) inserted (28.6.2013) by [The Value Added Tax (Finance) Order 2013 (S.I. 2013/1402)](https://www.legislation.gov.uk/uksi/2013/1402), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1402/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1402/article/2/3)
+[^c-2b24f5aeb3897f3c8708949b567553f0]: Textual amendment: Words in Sch. 9 Pt. II Group 15 Note (6) inserted (28.6.2013) by [The Value Added Tax (Finance) Order 2013 (S.I. 2013/1402)](https://www.legislation.gov.uk/uksi/2013/1402), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1402/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1402/article/2/3)
 
-[^key-afb7304f149da4d893d37a5b848dcf8b]: Textual amendment: Words in Sch. 9 Pt. II Group 5 Note (6) omitted (1.4.2020) by virtue of [The Value Added Tax (Finance) Order 2020 (S.I. 2020/209)](https://www.legislation.gov.uk/uksi/2020/209), [arts. 1](https://www.legislation.gov.uk/uksi/2020/209/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/209/article/4/a)
+[^c-afb7304f149da4d893d37a5b848dcf8b]: Textual amendment: Words in Sch. 9 Pt. II Group 5 Note (6) omitted (1.4.2020) by virtue of [The Value Added Tax (Finance) Order 2020 (S.I. 2020/209)](https://www.legislation.gov.uk/uksi/2020/209), [arts. 1](https://www.legislation.gov.uk/uksi/2020/209/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/209/article/4/a)
 
-[^key-efb9f4cb2cd855bd9a9e546a8dda9a65]: Textual amendment: Words in Sch. 9 Pt. II substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 81](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/81) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-efb9f4cb2cd855bd9a9e546a8dda9a65]: Textual amendment: Words in Sch. 9 Pt. II substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 81](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/81) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-e41746c93733e87fbff3fc18aceb3eb9]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/2/3/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-e41746c93733e87fbff3fc18aceb3eb9]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/2/3/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-986bb744f2a2c29a63ca5ef6bb69c3ab]: Textual amendment: Words in Sch. 9 Pt. II Group 5 Note (6) inserted (1.4.2020) by [The Value Added Tax (Finance) Order 2020 (S.I. 2020/209)](https://www.legislation.gov.uk/uksi/2020/209), [arts. 1](https://www.legislation.gov.uk/uksi/2020/209/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/209/article/4/b)
+[^c-986bb744f2a2c29a63ca5ef6bb69c3ab]: Textual amendment: Words in Sch. 9 Pt. II Group 5 Note (6) inserted (1.4.2020) by [The Value Added Tax (Finance) Order 2020 (S.I. 2020/209)](https://www.legislation.gov.uk/uksi/2020/209), [arts. 1](https://www.legislation.gov.uk/uksi/2020/209/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/209/article/4/b)
 
-[^key-c84381a70d34a46c02fa6101a23b1f96]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments to Acts of Parliament) (EU Exit) Regulations 2020 (S.I. 2020/1312)](https://www.legislation.gov.uk/uksi/2020/1312), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1312/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/1312/regulation/10); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-c84381a70d34a46c02fa6101a23b1f96]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments to Acts of Parliament) (EU Exit) Regulations 2020 (S.I. 2020/1312)](https://www.legislation.gov.uk/uksi/2020/1312), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1312/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/1312/regulation/10); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-1ef255d987e753529f12bb199a0ef554]: Textual amendment: Words in Sch. 9 Pt. II Group 5 Note (6) omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 40(b)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/40/b)
+[^c-1ef255d987e753529f12bb199a0ef554]: Textual amendment: Words in Sch. 9 Pt. II Group 5 Note (6) omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 40(b)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/40/b)
 
-[^key-3413fa5fd3703a71ba174987ae48fb4e]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/2/3/b); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-3413fa5fd3703a71ba174987ae48fb4e]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/2/3/b); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-9116deb382a1f49009fc00063934a51e]: Textual amendment: Sch. 9 Pt. II Group 5 Note (6A) inserted (1.10.2008) by [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(5)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/5)
+[^c-9116deb382a1f49009fc00063934a51e]: Textual amendment: Sch. 9 Pt. II Group 5 Note (6A) inserted (1.10.2008) by [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(5)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/5)
 
-[^key-8d772e477d23e72c20c39db058162617]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/2/4); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-8d772e477d23e72c20c39db058162617]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/2/4); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-d8d35c9e60b373e52262054abe812f13]: Textual amendment: Sch. 9 Pt. II Group 5 Note (6B) inserted (1.4.2020) by [The Value Added Tax (Finance) Order 2020 (S.I. 2020/209)](https://www.legislation.gov.uk/uksi/2020/209), [arts. 1](https://www.legislation.gov.uk/uksi/2020/209/article/1), [5](https://www.legislation.gov.uk/uksi/2020/209/article/5)
+[^c-d8d35c9e60b373e52262054abe812f13]: Textual amendment: Sch. 9 Pt. II Group 5 Note (6B) inserted (1.4.2020) by [The Value Added Tax (Finance) Order 2020 (S.I. 2020/209)](https://www.legislation.gov.uk/uksi/2020/209), [arts. 1](https://www.legislation.gov.uk/uksi/2020/209/article/1), [5](https://www.legislation.gov.uk/uksi/2020/209/article/5)
 
-[^key-25e820ba9eb326b7a9dc9657c3ca18d8]: Textual amendment: Sch. 9 Pt. II Group 5 Note (7) omitted (with application in accordance with art. 1 of the amending S.I.) by virtue of [Value Added Tax (Finance) (No.2) Order 2003 (S.I. 2003/1569)](https://www.legislation.gov.uk/uksi/2003/1569), [art. 2(g)](https://www.legislation.gov.uk/uksi/2003/1569/article/2/g)
+[^c-25e820ba9eb326b7a9dc9657c3ca18d8]: Textual amendment: Sch. 9 Pt. II Group 5 Note (7) omitted (with application in accordance with art. 1 of the amending S.I.) by virtue of [Value Added Tax (Finance) (No.2) Order 2003 (S.I. 2003/1569)](https://www.legislation.gov.uk/uksi/2003/1569), [art. 2(g)](https://www.legislation.gov.uk/uksi/2003/1569/article/2/g)
 
-[^key-68f397645bb3353828ce941602e1d37b]: Textual amendment: Sch. 9 Pt. II Group 5 Note (8) omitted (1.10.2008) by virtue of [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(6)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/6)
+[^c-68f397645bb3353828ce941602e1d37b]: Textual amendment: Sch. 9 Pt. II Group 5 Note (8) omitted (1.10.2008) by virtue of [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(6)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/6)
 
-[^key-9ef5f0ba7cfdbbdcebf554ce9ada6def]: Textual amendment: Sch. 9 Pt. II Group 5 Note (9) omitted (with application in accordance with art. 1 of the amending S.I.) by virtue of [Value Added Tax (Finance) (No.2) Order 2003 (S.I. 2003/1569)](https://www.legislation.gov.uk/uksi/2003/1569), [art. 2(i)](https://www.legislation.gov.uk/uksi/2003/1569/article/2/i)
+[^c-9ef5f0ba7cfdbbdcebf554ce9ada6def]: Textual amendment: Sch. 9 Pt. II Group 5 Note (9) omitted (with application in accordance with art. 1 of the amending S.I.) by virtue of [Value Added Tax (Finance) (No.2) Order 2003 (S.I. 2003/1569)](https://www.legislation.gov.uk/uksi/2003/1569), [art. 2(i)](https://www.legislation.gov.uk/uksi/2003/1569/article/2/i)
 
-[^key-db20d45d5e61098002fad0dab62b3021]: Textual amendment: Sch. 9 Pt. II Group 5 Note (10) omitted (1.10.2008) by virtue of [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(6)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/6)
+[^c-db20d45d5e61098002fad0dab62b3021]: Textual amendment: Sch. 9 Pt. II Group 5 Note (10) omitted (1.10.2008) by virtue of [The Value Added Tax (Finance) (No. 2) Order 2008 (S.I. 2008/2547)](https://www.legislation.gov.uk/uksi/2008/2547), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/2547/article/1/2/b), [3(6)](https://www.legislation.gov.uk/uksi/2008/2547/article/3/6)
 
-[^key-e08a4c83afd618c27f504512743a9f23]: Textual amendment: Sch. 9 Pt. 2 item 1(b) omitted (1.8.2013) by virtue of [The Value Added Tax (Education) Order 2013 (S.I. 2013/1897)](https://www.legislation.gov.uk/uksi/2013/1897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1897/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/1897/article/2) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1897/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1897/article/1/3))
+[^c-e08a4c83afd618c27f504512743a9f23]: Textual amendment: Sch. 9 Pt. 2 item 1(b) omitted (1.8.2013) by virtue of [The Value Added Tax (Education) Order 2013 (S.I. 2013/1897)](https://www.legislation.gov.uk/uksi/2013/1897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1897/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/1897/article/2) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1897/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1897/article/1/3))
 
 [^c15302321]: Textual amendment: Words in Sch. 9 Group 6 item 3(b)(i) substituted (28.7.2000 for certain purposes otherwise 1.4.2001) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 149](https://www.legislation.gov.uk/ukpga/2000/21/section/149), [Sch. 9 para. 47(2)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/9/paragraph/47/2); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/654/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/II) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/654/article/3))
 
-[^key-edda64a9f54813a17e22b4c45c88d729]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9) Group 6 item 3(b)(i) inserted (with effect in accordance with s. 49 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [ss. 47(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/section/47/2/a/i), [49](https://www.legislation.gov.uk/ukpga/2025/8/section/49)
+[^c-edda64a9f54813a17e22b4c45c88d729]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9) Group 6 item 3(b)(i) inserted (with effect in accordance with s. 49 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [ss. 47(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/section/47/2/a/i), [49](https://www.legislation.gov.uk/ukpga/2025/8/section/49)
 
-[^key-055cc107740317d52bbfd460f34bac4b]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9) Group 6 item 4 inserted (with effect in accordance with s. 49 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [ss. 47(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/section/47/2/a/ii), [49](https://www.legislation.gov.uk/ukpga/2025/8/section/49)
+[^c-055cc107740317d52bbfd460f34bac4b]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9) Group 6 item 4 inserted (with effect in accordance with s. 49 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [ss. 47(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/section/47/2/a/ii), [49](https://www.legislation.gov.uk/ukpga/2025/8/section/49)
 
 [^c15302331]: Marginal citation: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50).
 
@@ -1238,19 +1238,19 @@ The supply of services by an independent group of persons where each of the foll
 
 [^c15302361]: Textual amendment: Sch. 9 Group 6 item 5A inserted (28.7.2000 for certain purposes otherwise 1.4.2001) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 149](https://www.legislation.gov.uk/ukpga/2000/21/section/149), [Sch. 9 para. 47(3)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/9/paragraph/47/3); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/654/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/II) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/654/article/3))
 
-[^key-cf3062d7465915f607b8f9e81acbb287]: Textual amendment: Sch. 9 Pt. 2 Group 6 item 5A(a) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/9/2/a); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-cf3062d7465915f607b8f9e81acbb287]: Textual amendment: Sch. 9 Pt. 2 Group 6 item 5A(a) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/9/2/a); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-c7a28c69f57ae2a0eea436d713c26725]: Textual amendment: Sch. 9 Pt. 2 Group 6 item 5A(b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 41(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/41/2)
+[^c-c7a28c69f57ae2a0eea436d713c26725]: Textual amendment: Sch. 9 Pt. 2 Group 6 item 5A(b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 41(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/41/2)
 
-[^key-ba8297e0727b1fdc07fb92b7bbb5eda3]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) Group 6 item 5A(c)(d) substituted for item 5A(c) (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2026 (S.I. 2026/358)](https://www.legislation.gov.uk/uksi/2026/358), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/358/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2026/358/article/2/2)
+[^c-ba8297e0727b1fdc07fb92b7bbb5eda3]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) Group 6 item 5A(c)(d) substituted for item 5A(c) (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2026 (S.I. 2026/358)](https://www.legislation.gov.uk/uksi/2026/358), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/358/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2026/358/article/2/2)
 
-[^key-b49a81e934e0412003efbce9dac31451]: Textual amendment: Sch. 9 Pt. 2 Group 6 item 5B inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/9/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-b49a81e934e0412003efbce9dac31451]: Textual amendment: Sch. 9 Pt. 2 Group 6 item 5B inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/9/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-93d57e9100d7a8d4cc2b5cd9ba470fec]: Textual amendment: Sch. 9 Pt. 2 Group 6 item 5B(ba) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 66(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/66/2/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
+[^c-93d57e9100d7a8d4cc2b5cd9ba470fec]: Textual amendment: Sch. 9 Pt. 2 Group 6 item 5B(ba) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 66(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/66/2/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
 
-[^key-e1b412d7459f0c0fc4118398917e87fe]: Textual amendment: Words in Sch. 9 Pt. 2 Group 6 item 5B(d) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 66(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/66/2/b); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
+[^c-e1b412d7459f0c0fc4118398917e87fe]: Textual amendment: Words in Sch. 9 Pt. 2 Group 6 item 5B(d) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 66(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/66/2/b); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
 
-[^key-aeac08ca3bbaa4549d0a1cf4f4846b1b]: Textual amendment: Sch. 9 Pt. 2 Group 6 item 5C inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 41(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/41/3)
+[^c-aeac08ca3bbaa4549d0a1cf4f4846b1b]: Textual amendment: Sch. 9 Pt. 2 Group 6 item 5C inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 41(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/41/3)
 
 [^c15303581]: Textual amendment: Words in Sch. 9 Group 6 Note (1)(a) substituted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37 Pt. I para. 125(a)](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/part/I/paragraph/125/a)
 
@@ -1268,15 +1268,15 @@ The supply of services by an independent group of persons where each of the foll
 
 [^c15303651]: Textual amendment: Sch. 9 Group 6 Note (1)(a)(v) repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 51(b)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/51/b), [Sch. 31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1999/2323/schedule)
 
-[^key-37e7783ee976ff35cec5f2e30f780e5a]: Textual amendment: Sch. 9 Pt. 2 Group 6 Note (1)(a)(vi) (S.) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
+[^c-37e7783ee976ff35cec5f2e30f780e5a]: Textual amendment: Sch. 9 Pt. 2 Group 6 Note (1)(a)(vi) (S.) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
 
 [^c15303661]: Marginal citation: [1989 c. 39](https://www.legislation.gov.uk/ukpga/1989/39).
 
 [^c15303671]: Textual amendment: Sch. 9 Group 6 Note (1)(a)(vii) repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 51(b)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/51/b), [Sch. 31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1999/2323/schedule)
 
-[^key-bc7ed2a77c0f4685d87ce2f9b9c8d828]: Textual amendment: Words in Sch. 9 Pt. 2 Group 6 Note (1)(c)(i) substituted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 94](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/94) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
+[^c-bc7ed2a77c0f4685d87ce2f9b9c8d828]: Textual amendment: Words in Sch. 9 Pt. 2 Group 6 Note (1)(c)(i) substituted (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a), [Sch. 1 para. 94](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/94) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
 
-[^key-bf9460ae63147cfcaf488dfdb8a434c4]: Textual amendment: Word in Sch. 9 Pt. 2 Group 6 note (1)(c)(i) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/1027/regulation/5)
+[^c-bf9460ae63147cfcaf488dfdb8a434c4]: Textual amendment: Word in Sch. 9 Pt. 2 Group 6 note (1)(c)(i) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/1027/regulation/5)
 
 [^c15303681]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
@@ -1296,23 +1296,23 @@ The supply of services by an independent group of persons where each of the foll
 
 [^c15303761]: Textual amendment: Sch. 9 Group 6 Note (5A) inserted (28.7.2000 for certain purposes otherwise 1.4.2001) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 149](https://www.legislation.gov.uk/ukpga/2000/21/section/149), [Sch. 9 para. 47(4)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/9/paragraph/47/4); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/654/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/II) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/654/article/3))
 
-[^key-3b62b967f7ffd4460d1081a8e99a880d]: Textual amendment: Words in Sch. 9 Pt. 2 Group 6 Note (5A) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 9(4)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/9/4); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-3b62b967f7ffd4460d1081a8e99a880d]: Textual amendment: Words in Sch. 9 Pt. 2 Group 6 Note (5A) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 9(4)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/9/4); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-07e7c3dd3d97e6650fd0b656ae8a8532]: Textual amendment: Words in Sch. 9 Pt. 2 Group 6 Note (5A) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 41(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/41/4)
+[^c-07e7c3dd3d97e6650fd0b656ae8a8532]: Textual amendment: Words in Sch. 9 Pt. 2 Group 6 Note (5A) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 41(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/41/4)
 
-[^key-16253ccec8f0e556d5981abce1f6e30f]: Textual amendment: Sch. 9 Pt. 2 Group 6 Note (5B) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 9(5)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/9/5); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-16253ccec8f0e556d5981abce1f6e30f]: Textual amendment: Sch. 9 Pt. 2 Group 6 Note (5B) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 9(5)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/9/5); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-baa728b5046d2ad53d50209705be8c42]: Textual amendment: Words in Sch. 9 Pt. 2 Group 6 Note (5B) inserted and substituted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 66(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/66/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
+[^c-baa728b5046d2ad53d50209705be8c42]: Textual amendment: Words in Sch. 9 Pt. 2 Group 6 Note (5B) inserted and substituted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 66(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/66/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
 
-[^key-12989d59e3cc736c8725712ef0e76485]: Textual amendment: Words in Sch. 9 Pt. II Group 7 item 1 inserted (1.5.2007) by [The Value Added Tax (Health and Welfare) Order 2007 (S.I. 2007/206)](https://www.legislation.gov.uk/uksi/2007/206), [arts. 1](https://www.legislation.gov.uk/uksi/2007/206/article/1), [3](https://www.legislation.gov.uk/uksi/2007/206/article/3)
+[^c-12989d59e3cc736c8725712ef0e76485]: Textual amendment: Words in Sch. 9 Pt. II Group 7 item 1 inserted (1.5.2007) by [The Value Added Tax (Health and Welfare) Order 2007 (S.I. 2007/206)](https://www.legislation.gov.uk/uksi/2007/206), [arts. 1](https://www.legislation.gov.uk/uksi/2007/206/article/1), [3](https://www.legislation.gov.uk/uksi/2007/206/article/3)
 
-[^key-b832f46d5c78d28ae7c801c830d82eea]: Textual amendment: Words in Sch. 9 Pt. II Group 7 omitted (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by virtue of [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2), [75(2)(a)](https://www.legislation.gov.uk/uksi/2006/1914/article/75/2/a)
+[^c-b832f46d5c78d28ae7c801c830d82eea]: Textual amendment: Words in Sch. 9 Pt. II Group 7 omitted (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by virtue of [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2), [75(2)(a)](https://www.legislation.gov.uk/uksi/2006/1914/article/75/2/a)
 
 [^c15304121]: Marginal citation: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44).
 
 [^c17227791]: Textual amendment: Words in Sch. 9 Pt. 2 Group 7 item 1(c) substituted (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by [The Health Professions Order 2001 (S.I. 2002/254)](https://www.legislation.gov.uk/uksi/2001/254), [art. 48](https://www.legislation.gov.uk/uksi/2001/254/article/48), [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2001/254/schedule/4/paragraph/6) (with [art. 3(19)](https://www.legislation.gov.uk/uksi/2001/254/article/3/19))
 
-[^key-93025236487f1daedea6890a3f5c50f6]: Textual amendment: Words in Sch. 9 Pt. II substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 47(f)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/47/f); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-93025236487f1daedea6890a3f5c50f6]: Textual amendment: Words in Sch. 9 Pt. II substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 47(f)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/47/f); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
 
 [^c15304141]: Textual amendment: Sch. 9 Group 7 item 1(ca) inserted (12.6.1998) by [S.I. 1998/1294](https://www.legislation.gov.uk/uksi/1998/1294), [arts. 1](https://www.legislation.gov.uk/uksi/1998/1294/article/1), [2](https://www.legislation.gov.uk/uksi/1998/1294/article/2)
 
@@ -1324,39 +1324,39 @@ The supply of services by an independent group of persons where each of the foll
 
 [^c17228971]: Textual amendment: Sch. 9 Pt. 2 Group 7 item 1: words "the register of qualified nurses and midwives maintained under article 5 of the Nursing and Midwifery Order 2001" substituted for Sch. 9 Pt. II Group 7 item 1(d) (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by virtue of [The Nursing and Midwifery Order 2001 (S.I. 2002/253)](https://www.legislation.gov.uk/uksi/2001/253), [art. 54](https://www.legislation.gov.uk/uksi/2001/253/article/54), [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2001/253/schedule/5/paragraph/12) (with [art. 3(18)](https://www.legislation.gov.uk/uksi/2001/253/article/3/18))
 
-[^key-a865d1b1a7bd6115a349fc1e74a06527]: Textual amendment: Words in Sch. 9 Pt. II substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2018/838/schedule/3/paragraph/2)
+[^c-a865d1b1a7bd6115a349fc1e74a06527]: Textual amendment: Words in Sch. 9 Pt. II substituted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2018/838/schedule/3/paragraph/2)
 
-[^key-f340cf8ff61c17992b698a56efeb0b35]: Textual amendment: Sch. 9 Pt. II Group 7 item 1(e) repealed (1.4.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/708/article/4/2/d)
+[^c-f340cf8ff61c17992b698a56efeb0b35]: Textual amendment: Sch. 9 Pt. II Group 7 item 1(e) repealed (1.4.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/708/article/4/2/d)
 
-[^key-0c78d80aeec4e597f4a650fa4278385c]: Textual amendment: Words in Sch. 9 Pt. II Group 7 item 2 substituted (1.5.2007) by [The Value Added Tax (Health and Welfare) Order 2007 (S.I. 2007/206)](https://www.legislation.gov.uk/uksi/2007/206), [arts. 1](https://www.legislation.gov.uk/uksi/2007/206/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/206/article/4/a)
+[^c-0c78d80aeec4e597f4a650fa4278385c]: Textual amendment: Words in Sch. 9 Pt. II Group 7 item 2 substituted (1.5.2007) by [The Value Added Tax (Health and Welfare) Order 2007 (S.I. 2007/206)](https://www.legislation.gov.uk/uksi/2007/206), [arts. 1](https://www.legislation.gov.uk/uksi/2007/206/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/206/article/4/a)
 
-[^key-d202f259920ff521c8eedb05570dcc93]: Textual amendment: Sch. 9 Group 7 item 2(b) substituted (with effect in accordance with art. 1(4)-(7) of the amending S.I.) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2005/2011/schedule/6/paragraph/3) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-d202f259920ff521c8eedb05570dcc93]: Textual amendment: Sch. 9 Group 7 item 2(b) substituted (with effect in accordance with art. 1(4)-(7) of the amending S.I.) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2005/2011/schedule/6/paragraph/3) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-fac64f18c308c40c672a900f87b44772]: Textual amendment: Sch. 9 Pt. II Group 7 item 2(c) and word omitted (1.5.2007) by virtue of [The Value Added Tax (Health and Welfare) Order 2007 (S.I. 2007/206)](https://www.legislation.gov.uk/uksi/2007/206), [arts. 1](https://www.legislation.gov.uk/uksi/2007/206/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/206/article/4/b)
+[^c-fac64f18c308c40c672a900f87b44772]: Textual amendment: Sch. 9 Pt. II Group 7 item 2(c) and word omitted (1.5.2007) by virtue of [The Value Added Tax (Health and Welfare) Order 2007 (S.I. 2007/206)](https://www.legislation.gov.uk/uksi/2007/206), [arts. 1](https://www.legislation.gov.uk/uksi/2007/206/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/206/article/4/b)
 
-[^key-2cf6bdce8d5fdb125e24c1e5e943e715]: Textual amendment: Sch. 9 Pt. II Group 7 item 2A inserted (1.5.2007) by [The Value Added Tax (Health and Welfare) Order 2007 (S.I. 2007/206)](https://www.legislation.gov.uk/uksi/2007/206), [arts. 1](https://www.legislation.gov.uk/uksi/2007/206/article/1), [5](https://www.legislation.gov.uk/uksi/2007/206/article/5)
+[^c-2cf6bdce8d5fdb125e24c1e5e943e715]: Textual amendment: Sch. 9 Pt. II Group 7 item 2A inserted (1.5.2007) by [The Value Added Tax (Health and Welfare) Order 2007 (S.I. 2007/206)](https://www.legislation.gov.uk/uksi/2007/206), [arts. 1](https://www.legislation.gov.uk/uksi/2007/206/article/1), [5](https://www.legislation.gov.uk/uksi/2007/206/article/5)
 
-[^key-32575e3816129a504f02ce8326d4220d]: Textual amendment: Words in Sch. 9 Pt. II Group 7 item 3 inserted (1.5.2007) by [The Value Added Tax (Health and Welfare) Order 2007 (S.I. 2007/206)](https://www.legislation.gov.uk/uksi/2007/206), [arts. 1](https://www.legislation.gov.uk/uksi/2007/206/article/1), [6](https://www.legislation.gov.uk/uksi/2007/206/article/6)
+[^c-32575e3816129a504f02ce8326d4220d]: Textual amendment: Words in Sch. 9 Pt. II Group 7 item 3 inserted (1.5.2007) by [The Value Added Tax (Health and Welfare) Order 2007 (S.I. 2007/206)](https://www.legislation.gov.uk/uksi/2007/206), [arts. 1](https://www.legislation.gov.uk/uksi/2007/206/article/1), [6](https://www.legislation.gov.uk/uksi/2007/206/article/6)
 
-[^key-7049a1c737a4870a04076d1e0e5e29ad]: Textual amendment: Words in Sch. 9 Pt. II Group 7 item 3 substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/5/3); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-7049a1c737a4870a04076d1e0e5e29ad]: Textual amendment: Words in Sch. 9 Pt. II Group 7 item 3 substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/5/3); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^c15304221]: Marginal citation: [S.I.1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213)9.
 
 [^c17230471]: Textual amendment: Words in Sch. 9 Pt. 2 Group 7 Item 4 substituted (21.3.2002) by [The Value Added Tax (Health and Welfare) Order 2002 (S.I. 2002/762)](https://www.legislation.gov.uk/uksi/2002/762), [art. 3](https://www.legislation.gov.uk/uksi/2002/762/article/3)
 
-[^key-fd02e97f9df4937ae77678cba17eaad3]: Textual amendment: Words in Sch. 9 Pt. II Group 7 omitted (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by virtue of [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2), [75(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/75/2/b)
+[^c-fd02e97f9df4937ae77678cba17eaad3]: Textual amendment: Words in Sch. 9 Pt. II Group 7 omitted (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by virtue of [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2), [75(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/75/2/b)
 
 [^c17231201]: Textual amendment: Sch. 9 Pt. 2 Group 7 Item 9 substituted (21.3.2002) by [The Value Added Tax (Health and Welfare) Order 2002 (S.I. 2002/762)](https://www.legislation.gov.uk/uksi/2002/762), [art. 4](https://www.legislation.gov.uk/uksi/2002/762/article/4)
 
-[^key-2b7115cf0d0916cd1827212d0b2a90ed]: Textual amendment: Words in Sch. 9 Pt. 2 Group 7 Item 9(b) inserted (31.1.2003) by [Value Added Tax (Health and Welfare) Order 2003 (S.I. 2003/24)](https://www.legislation.gov.uk/uksi/2003/24), [arts. 1](https://www.legislation.gov.uk/uksi/2003/24/article/1), [2](https://www.legislation.gov.uk/uksi/2003/24/article/2), [3](https://www.legislation.gov.uk/uksi/2003/24/article/3)
+[^c-2b7115cf0d0916cd1827212d0b2a90ed]: Textual amendment: Words in Sch. 9 Pt. 2 Group 7 Item 9(b) inserted (31.1.2003) by [Value Added Tax (Health and Welfare) Order 2003 (S.I. 2003/24)](https://www.legislation.gov.uk/uksi/2003/24), [arts. 1](https://www.legislation.gov.uk/uksi/2003/24/article/1), [2](https://www.legislation.gov.uk/uksi/2003/24/article/2), [3](https://www.legislation.gov.uk/uksi/2003/24/article/3)
 
-[^key-b8b700ab7e837526a3c4180340d665d6]: Textual amendment: Sch. 9 Pt. II Group 7 Note (2ZA) omitted (2.12.2019) by virtue of [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/5); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-b8b700ab7e837526a3c4180340d665d6]: Textual amendment: Sch. 9 Pt. II Group 7 Note (2ZA) omitted (2.12.2019) by virtue of [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/5); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
 
 [^c15304251]: Textual amendment: Sch. 9 group 7 Note (2A) inserted (1.1.1997) by [S.I. 1996/2949](https://www.legislation.gov.uk/uksi/1996/2949), [arts. 1](https://www.legislation.gov.uk/uksi/1996/2949/article/1), [2](https://www.legislation.gov.uk/uksi/1996/2949/article/2)
 
-[^key-ddc1a93c92fd597f180c972ff0396925]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) Group 7 Note 2A inserted (1.5.2023) by [The Value Added Tax Act 1994 (Schedule 9) (Exemptions: Health and Welfare) (Amendment) Order 2023 (S.I. 2023/388)](https://www.legislation.gov.uk/uksi/2023/388), [arts. 1](https://www.legislation.gov.uk/uksi/2023/388/article/1), [2](https://www.legislation.gov.uk/uksi/2023/388/article/2)
+[^c-ddc1a93c92fd597f180c972ff0396925]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) Group 7 Note 2A inserted (1.5.2023) by [The Value Added Tax Act 1994 (Schedule 9) (Exemptions: Health and Welfare) (Amendment) Order 2023 (S.I. 2023/388)](https://www.legislation.gov.uk/uksi/2023/388), [arts. 1](https://www.legislation.gov.uk/uksi/2023/388/article/1), [2](https://www.legislation.gov.uk/uksi/2023/388/article/2)
 
-[^key-19f35f9e6461b30e94c2472ac5679c7a]: Textual amendment: Sch. 9 Pt. II Group 7 Note (4) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [65(b)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/65/b)
+[^c-19f35f9e6461b30e94c2472ac5679c7a]: Textual amendment: Sch. 9 Pt. II Group 7 Note (4) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [65(b)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/65/b)
 
 [^c17231891]: Textual amendment: Sch. 9 Pt. 2 Group 7 Note (6) substituted (21.3.2002) by [The Value Added Tax (Health and Welfare) Order 2002 (S.I. 2002/762)](https://www.legislation.gov.uk/uksi/2002/762), [art. 5](https://www.legislation.gov.uk/uksi/2002/762/article/5)
 
@@ -1378,17 +1378,17 @@ The supply of services by an independent group of persons where each of the foll
 
 [^c15304311]: Textual amendment: Words in Sch. 9 Pt. II Group 10 Item 3 substituted (1.1.2000) by [S.I. 1999/1994](https://www.legislation.gov.uk/uksi/1999/1994), [art. 3](https://www.legislation.gov.uk/uksi/1999/1994/article/3)
 
-[^key-dd7e9f728b70e46ef241e722ccc7d31c]: Textual amendment: Words in Sch. 9 Pt. II Group 10 omitted (1.1.2015) by virtue of [The Value Added Tax (Sport) Order 2014 (S.I. 2014/3185)](https://www.legislation.gov.uk/uksi/2014/3185), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3185/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3185/article/2/2)
+[^c-dd7e9f728b70e46ef241e722ccc7d31c]: Textual amendment: Words in Sch. 9 Pt. II Group 10 omitted (1.1.2015) by virtue of [The Value Added Tax (Sport) Order 2014 (S.I. 2014/3185)](https://www.legislation.gov.uk/uksi/2014/3185), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3185/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3185/article/2/2)
 
 [^c15304361]: Textual amendment: Words in Sch. 9 Pt. II Group 10 Notes (1)-(3) substituted (1.1.2000) by [S.I. 1999/1994](https://www.legislation.gov.uk/uksi/1999/1994), [art. 3](https://www.legislation.gov.uk/uksi/1999/1994/article/3)
 
-[^key-375403252cd913d5d1f2789e9d16be55]: Textual amendment: Sch. 9 Pt. II Group 10 Note (2) omitted (1.1.2015) by virtue of [The Value Added Tax (Sport) Order 2014 (S.I. 2014/3185)](https://www.legislation.gov.uk/uksi/2014/3185), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3185/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3185/article/2/3)
+[^c-375403252cd913d5d1f2789e9d16be55]: Textual amendment: Sch. 9 Pt. II Group 10 Note (2) omitted (1.1.2015) by virtue of [The Value Added Tax (Sport) Order 2014 (S.I. 2014/3185)](https://www.legislation.gov.uk/uksi/2014/3185), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3185/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3185/article/2/3)
 
 [^c15304381]: Textual amendment: Sch. 9 Pt. II Group 10 Notes (2A)(2B)(2C) inserted (1.1.2000) by [S.I. 1999/1994](https://www.legislation.gov.uk/uksi/1999/1994), [art. 4](https://www.legislation.gov.uk/uksi/1999/1994/article/4)
 
 [^c15304401]: Textual amendment: Sch. 9 Pt. II Group 10 Notes (4)-(17) inserted (1.1.2000) by [S.I. 1999/1994](https://www.legislation.gov.uk/uksi/1999/1994), [art. 5](https://www.legislation.gov.uk/uksi/1999/1994/article/5)
 
-[^key-aeeb44513f210da6d2be5cae1f213779]: Textual amendment: Words in Sch. 9 Pt. II Group 10 Note (17) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 285(e)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/285/e/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-aeeb44513f210da6d2be5cae1f213779]: Textual amendment: Words in Sch. 9 Pt. II Group 10 Note (17) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 285(e)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/285/e/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c15304421]: Marginal citation: [1953 c.34](https://www.legislation.gov.uk/ukpga/1953/34).
 
@@ -1410,7 +1410,7 @@ The supply of services by an independent group of persons where each of the foll
 
 [^c15304511]: Textual amendment: Sch. 9 Group 12 items 1-3, Notes (1)-(11) substituted for Sch. 9 Group 12 items 1-2, Notes (1)-(3) (1.4.2000) by [S.I. 2000/802](https://www.legislation.gov.uk/uksi/2000/802), [art. 3](https://www.legislation.gov.uk/uksi/2000/802/article/3)
 
-[^key-f554d8f93720da628edb4e6c5295d9d5]: Textual amendment: Words in Sch. 9 Pt. 2 Group 12 Note (1) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 129(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/129/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f554d8f93720da628edb4e6c5295d9d5]: Textual amendment: Words in Sch. 9 Pt. 2 Group 12 Note (1) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 129(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/129/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c15304521]: Textual amendment: Sch. 9 Group 12 items 1-3, Notes (1)-(11) substituted for Sch. 9 Group 12 items 1-2, Notes (1)-(3) (1.4.2000) by [S.I. 2000/802](https://www.legislation.gov.uk/uksi/2000/802), [art. 3](https://www.legislation.gov.uk/uksi/2000/802/article/3)
 
@@ -1424,9 +1424,9 @@ The supply of services by an independent group of persons where each of the foll
 
 [^c15304581]: Textual amendment: Sch. 9 Pt. II Group 14 Item 1 added (1.3.2000) by [S.I. 1999/2833](https://www.legislation.gov.uk/uksi/1999/2833), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/2833/article/2/3)
 
-[^key-d724ccef5b853f0cba35b43e8f7d2720]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/a) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-d724ccef5b853f0cba35b43e8f7d2720]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/a) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-ca424d43f374322ac09cab66a4cd6a92]: Textual amendment: Words in Sch. 9 Pt. II Group 14 item 1 para (c) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+[^c-ca424d43f374322ac09cab66a4cd6a92]: Textual amendment: Words in Sch. 9 Pt. II Group 14 item 1 para (c) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
 
 [^c15304641]: Textual amendment: Sch. 9 Pt. II Group 14 Notes added (1.3.2000) by [S.I. 1999/2833](https://www.legislation.gov.uk/uksi/1999/2833), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/2833/article/2/3)
 
@@ -1438,33 +1438,33 @@ The supply of services by an independent group of persons where each of the foll
 
 [^c15304681]: Textual amendment: Article 7 was amended by [S.I. 1995/281](https://www.legislation.gov.uk/uksi/1995/281) and [S.I. 1995/1666](https://www.legislation.gov.uk/uksi/1995/1666).
 
-[^key-cb4c3a5507f937a1878a7bd903b188f4]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/b) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-cb4c3a5507f937a1878a7bd903b188f4]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/b) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-8c97a3d28a31c0c09a768446ac368c83]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/c/i) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-8c97a3d28a31c0c09a768446ac368c83]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/c/i) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-6ddc0ef451d808d7bfc049a4c4a0a0e0]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/c/ii) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-6ddc0ef451d808d7bfc049a4c4a0a0e0]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/c/ii) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
 [^c15304691]: Textual amendment: Word in Sch. 9 Group 14 Note (9) inserted (11.5.2001 for specified purposes otherwise 1.9.2001) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 98(9)(10)(11)](https://www.legislation.gov.uk/ukpga/2001/9/section/98/9/10/11)
 
-[^key-dcaa0d2a593a54dcce142792eab9d675]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (9) inserted (with effect in accordance with s. 76(5) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 76(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/76/4)
+[^c-dcaa0d2a593a54dcce142792eab9d675]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (9) inserted (with effect in accordance with s. 76(5) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 76(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/76/4)
 
-[^key-13be3dd15d4e89f4b2a2107554ce8840]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (9) inserted (with effect in accordance with s. 66(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/66/4)
+[^c-13be3dd15d4e89f4b2a2107554ce8840]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (9) inserted (with effect in accordance with s. 66(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/66/4)
 
-[^key-066a08007343ff5c7e52f19f226b50df]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(d)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/d) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-066a08007343ff5c7e52f19f226b50df]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(d)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/d) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-091b3e7756d88d1a978404caf16053dc]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (13) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/2/a); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-091b3e7756d88d1a978404caf16053dc]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (13) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/2/a); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-e32d982be74fbc5704f084fa29dddea5]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (13)(a) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/2/b); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-e32d982be74fbc5704f084fa29dddea5]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (13)(a) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/2/b); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-cdf0f9cdbe0350c7dc44c8d544acfc27]: Textual amendment: Words in Sch. 9 Pt. II Group 14 Note (13)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/2/c/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-cdf0f9cdbe0350c7dc44c8d544acfc27]: Textual amendment: Words in Sch. 9 Pt. II Group 14 Note (13)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/2/c/i); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-3b365ee098e5927305543469b09a1a24]: Textual amendment: Words in Sch. 9 Pt. II Group 14 Note (13)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/2/c/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-3b365ee098e5927305543469b09a1a24]: Textual amendment: Words in Sch. 9 Pt. II Group 14 Note (13)(b) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/2/c/ii); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-f26a2dfcdc0939fd4f0fe2975e656d35]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (13)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(2)(d)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/2/d); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-f26a2dfcdc0939fd4f0fe2975e656d35]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (13)(c) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(2)(d)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/2/d); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-383bc244044180528ae6cd71a72dfbd9]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (14) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/3); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-383bc244044180528ae6cd71a72dfbd9]: Textual amendment: Word in Sch. 9 Pt. II Group 14 Note (14) substituted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 13(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/13/3); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
 
-[^key-aa991cf71cee188118e2929f461ee01e]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(e)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/e) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-aa991cf71cee188118e2929f461ee01e]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(3)(e)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/3/e) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
 [^c15304701]: Textual amendment: Sch. 9 Pt. 2 Group 15 added (1.1.2000) by [S.I. 1999/3116](https://www.legislation.gov.uk/uksi/1999/3116), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/3116/article/2/3)
 
@@ -1476,8 +1476,8 @@ The supply of services by an independent group of persons where each of the foll
 
 [^c15304741]: Textual amendment: Sch. 9 Pt. 2 Group 15 Notes added (1.1.2000) by [S.I. 1999/3116](https://www.legislation.gov.uk/uksi/1999/3116), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/3116/article/2/3)
 
-[^key-39e96f560275a7343981254516270f54]: Textual amendment: Sch. 9 Pt. II Group 16 inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 197(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/197/2)
+[^c-39e96f560275a7343981254516270f54]: Textual amendment: Sch. 9 Pt. II Group 16 inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 197(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/197/2)
 
-[^key-461d0018f69c4e0c018623512965fba5]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) substituted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/4) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-461d0018f69c4e0c018623512965fba5]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/II) substituted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 95(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/95/4) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 7 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/7/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-610bad4279e92c659968b30c72809893]: Textual amendment: [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/3) inserted (with effect in accordance with s. 49 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [ss. 47(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/47/2/b), [49](https://www.legislation.gov.uk/ukpga/2025/8/section/49)
+[^c-610bad4279e92c659968b30c72809893]: Textual amendment: [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9/part/3) inserted (with effect in accordance with s. 49 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [ss. 47(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/47/2/b), [49](https://www.legislation.gov.uk/ukpga/2025/8/section/49)

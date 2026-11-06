@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Additional safeguards for items subject to legal privilege: examination[^key-1675e1c9ad593ed8da5b0950024fd9ea]
+## 222. Additional safeguards for items subject to legal privilege: examination[^c-1675e1c9ad593ed8da5b0950024fd9ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1675e1c9ad593ed8da5b0950024fd9ea]: Commencement: [S. 222](https://www.legislation.gov.uk/ukpga/2016/25/section/222) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)
+[^c-1675e1c9ad593ed8da5b0950024fd9ea]: Commencement: [S. 222](https://www.legislation.gov.uk/ukpga/2016/25/section/222) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)

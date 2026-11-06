@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70A. Use of fax machines[^key-23a6d6760234cc7a5107bbb05d90bfd2]
+## 70A. Use of fax machines[^c-23a6d6760234cc7a5107bbb05d90bfd2]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23a6d6760234cc7a5107bbb05d90bfd2]: Textual amendment: Reg. 70A inserted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/226/schedule/1/paragraph/4)
+[^c-23a6d6760234cc7a5107bbb05d90bfd2]: Textual amendment: Reg. 70A inserted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/226/schedule/1/paragraph/4)

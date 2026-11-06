@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. The What Matters Code[^key-c16cbdf9855700f2074fb7ddb2fbbb37][^key-28e73385f5ffecb4a9db3fcf19426c92]
+## 6. The What Matters Code[^c-c16cbdf9855700f2074fb7ddb2fbbb37][^c-28e73385f5ffecb4a9db3fcf19426c92]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c16cbdf9855700f2074fb7ddb2fbbb37]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2021/4/section/6) in force at 29.9.2021 for specified purposes by [S.I. 2021/1069](https://www.legislation.gov.uk/wsi/2021/1069), [art. 3](https://www.legislation.gov.uk/wsi/2021/1069/article/3)
+[^c-c16cbdf9855700f2074fb7ddb2fbbb37]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2021/4/section/6) in force at 29.9.2021 for specified purposes by [S.I. 2021/1069](https://www.legislation.gov.uk/wsi/2021/1069), [art. 3](https://www.legislation.gov.uk/wsi/2021/1069/article/3)
 
-[^key-28e73385f5ffecb4a9db3fcf19426c92]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2021/4/section/6) in force at 1.9.2022 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(a)](https://www.legislation.gov.uk/wsi/2022/652/article/4/a)
+[^c-28e73385f5ffecb4a9db3fcf19426c92]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2021/4/section/6) in force at 1.9.2022 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(a)](https://www.legislation.gov.uk/wsi/2022/652/article/4/a)

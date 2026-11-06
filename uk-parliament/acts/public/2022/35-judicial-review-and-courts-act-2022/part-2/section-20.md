@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. “Specified kinds” of proceedings[^key-a0f4931b1c700b48ad4931a2dd95c306][^key-9ec2babc5d0d051f9f2f62c3a94366f8]
+## 20. “Specified kinds” of proceedings[^c-a0f4931b1c700b48ad4931a2dd95c306][^c-9ec2babc5d0d051f9f2f62c3a94366f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ specified in regulations made by the Lord Chancellor.
 
 ## Annotations
 
-[^key-a0f4931b1c700b48ad4931a2dd95c306]: Commencement: S. 20 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-a0f4931b1c700b48ad4931a2dd95c306]: Commencement: S. 20 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-9ec2babc5d0d051f9f2f62c3a94366f8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/35/section/20) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-9ec2babc5d0d051f9f2f62c3a94366f8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/35/section/20) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

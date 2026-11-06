@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-c2d6a5d899d217d1c59e9abca6b9be24]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-c2d6a5d899d217d1c59e9abca6b9be24]
 
 *Extent: E+W*
 
@@ -90,4 +90,4 @@ Articles 2(1) and 5
 
 ## Annotations
 
-[^key-c2d6a5d899d217d1c59e9abca6b9be24]: Commencement: Sch. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-c2d6a5d899d217d1c59e9abca6b9be24]: Commencement: Sch. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

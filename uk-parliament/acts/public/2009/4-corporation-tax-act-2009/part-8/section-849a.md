@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 849A. Disincorporation relief: transfer values for post-FA 2002 goodwill[^key-8bb07f73206eae4637a7090083d94158]
+## 849A. Disincorporation relief: transfer values for post-FA 2002 goodwill[^c-8bb07f73206eae4637a7090083d94158]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bb07f73206eae4637a7090083d94158]: Textual amendment: S. 849A inserted (with effect in accordance with s. 61(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 61(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/61/5)
+[^c-8bb07f73206eae4637a7090083d94158]: Textual amendment: S. 849A inserted (with effect in accordance with s. 61(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 61(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/61/5)

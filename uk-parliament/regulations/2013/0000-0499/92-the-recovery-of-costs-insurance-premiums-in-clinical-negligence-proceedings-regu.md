@@ -32,7 +32,7 @@ summary: ''
 
 Legal Services, England And Wales
 
-The Recovery of Costs Insurance Premiums in Clinical Negligence Proceedings Regulations 2013 (revoked)[^key-d2db63c3f2bf6fe5fab746b9e3827787]
+The Recovery of Costs Insurance Premiums in Clinical Negligence Proceedings Regulations 2013 (revoked)[^c-d2db63c3f2bf6fe5fab746b9e3827787]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2013
 
-[^key-d2db63c3f2bf6fe5fab746b9e3827787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2db63c3f2bf6fe5fab746b9e3827787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d2db63c3f2bf6fe5fab746b9e3827787]
+## 1. Citation and commencement[^c-d2db63c3f2bf6fe5fab746b9e3827787]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Costs order may require payment of an amount of the relevant part of the premium[^key-d2db63c3f2bf6fe5fab746b9e3827787]
+## 2. Costs order may require payment of an amount of the relevant part of the premium[^c-d2db63c3f2bf6fe5fab746b9e3827787]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d2db63c3f2bf6fe5fab746b9e3827787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2db63c3f2bf6fe5fab746b9e3827787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d2db63c3f2bf6fe5fab746b9e3827787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2db63c3f2bf6fe5fab746b9e3827787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d2db63c3f2bf6fe5fab746b9e3827787]: Textual amendment: Regulations revoked (1.4.2013) by [The Recovery of Costs Insurance Premiums in Clinical Negligence Proceedings (No. 2) Regulations 2013 (S.I. 2013/739)](https://www.legislation.gov.uk/uksi/2013/739), [regs. 1](https://www.legislation.gov.uk/uksi/2013/739/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/739/regulation/2)
+[^c-d2db63c3f2bf6fe5fab746b9e3827787]: Textual amendment: Regulations revoked (1.4.2013) by [The Recovery of Costs Insurance Premiums in Clinical Negligence Proceedings (No. 2) Regulations 2013 (S.I. 2013/739)](https://www.legislation.gov.uk/uksi/2013/739), [regs. 1](https://www.legislation.gov.uk/uksi/2013/739/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/739/regulation/2)

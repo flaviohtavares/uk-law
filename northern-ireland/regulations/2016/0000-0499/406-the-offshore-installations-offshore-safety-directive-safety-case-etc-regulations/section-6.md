@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Capacity of operator to meet requirements[^key-7239138f617f5d0b9131962200913924]
+## 6. Capacity of operator to meet requirements[^c-7239138f617f5d0b9131962200913924]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7239138f617f5d0b9131962200913924]: Commencement: Reg. 6 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-7239138f617f5d0b9131962200913924]: Commencement: Reg. 6 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

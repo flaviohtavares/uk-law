@@ -27,7 +27,7 @@ summary: ''
 
 PUBLIC ORDER
 
-The Public Order (Football Exclusion) Order 1987 (revoked)[^key-b04ad82d53a5c0f21d0429d7506754b6]
+The Public Order (Football Exclusion) Order 1987 (revoked)[^c-b04ad82d53a5c0f21d0429d7506754b6]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into force
 
 1st August 1987
 
-[^key-b04ad82d53a5c0f21d0429d7506754b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b04ad82d53a5c0f21d0429d7506754b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b04ad82d53a5c0f21d0429d7506754b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b04ad82d53a5c0f21d0429d7506754b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PRESCRIBED FOOTBALL MATCHES[^key-b04ad82d53a5c0f21d0429d7506754b6]
+## SCHEDULE — PRESCRIBED FOOTBALL MATCHES[^c-b04ad82d53a5c0f21d0429d7506754b6]
 
 Article 3
 
-**1.**[^key-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b04ad82d53a5c0f21d0429d7506754b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b04ad82d53a5c0f21d0429d7506754b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b04ad82d53a5c0f21d0429d7506754b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b04ad82d53a5c0f21d0429d7506754b6]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/1987/853) revoked (27.9.1999) by [The Public Order (Domestic Football Banning) Order 1999 (S.I. 1999/2460)](https://www.legislation.gov.uk/uksi/1999/2460), [art. 2](https://www.legislation.gov.uk/uksi/1999/2460/article/2); \[Editorial Note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made)' version from the left-hand menu to see the document content as it orignally stood\]
+[^c-b04ad82d53a5c0f21d0429d7506754b6]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/1987/853) revoked (27.9.1999) by [The Public Order (Domestic Football Banning) Order 1999 (S.I. 1999/2460)](https://www.legislation.gov.uk/uksi/1999/2460), [art. 2](https://www.legislation.gov.uk/uksi/1999/2460/article/2); \[Editorial Note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made)' version from the left-hand menu to see the document content as it orignally stood\]

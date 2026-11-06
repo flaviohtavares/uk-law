@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Protection of interests[^key-dd849f620f0f231e5bce0a1c06e2fa54]
+## 52. Protection of interests[^c-dd849f620f0f231e5bce0a1c06e2fa54]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-dd849f620f0f231e5bce0a1c06e2fa54]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2014/2935/article/52) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-dd849f620f0f231e5bce0a1c06e2fa54]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2014/2935/article/52) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

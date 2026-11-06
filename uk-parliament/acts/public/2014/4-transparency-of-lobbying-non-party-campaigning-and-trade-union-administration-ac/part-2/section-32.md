@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Recognised third parties[^key-94790eccff02d4cbe1f1ccadcdb5bcff]
+## 32. Recognised third parties[^c-94790eccff02d4cbe1f1ccadcdb5bcff]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94790eccff02d4cbe1f1ccadcdb5bcff]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/4/section/32) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/h)
+[^c-94790eccff02d4cbe1f1ccadcdb5bcff]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/4/section/32) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/h)

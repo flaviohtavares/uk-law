@@ -24,11 +24,11 @@ Article 54
 
 ### Interpretation
 
-**1.**[^key-c6757b0db41a48a5cccd630c6941efcc] (1) The following provisions of this Schedule have effect unless otherwise agreed in writing between the Agency and the specified undertaker concerned.
+**1.**[^c-c6757b0db41a48a5cccd630c6941efcc] (1) The following provisions of this Schedule have effect unless otherwise agreed in writing between the Agency and the specified undertaker concerned.
 
 (2) The provisions of Schedule 6 (statutory undertakers, etc.), in so far as they relate to the removal of apparatus, do not apply in relation to apparatus to which this Schedule applies.
 
-**2.**[^key-f85305a7a4a54b327e6e86150a568961] In this Schedule—
+**2.**[^c-f85305a7a4a54b327e6e86150a568961] In this Schedule—
 
 - “alternative apparatus” means alternative apparatus adequate to enable the specified undertaker in question to fulfil its statutory functions in a manner not less efficient than previously;
 - “apparatus” means—
@@ -55,17 +55,17 @@ Article 54
 
 ### On-street apparatus
 
-**3.**[^key-5b443a3fe63dd8b20f49c9777b9b7cbe] This Schedule does not apply to anything done or proposed to be done in relation to or affecting apparatus in respect of which the relations between the Agency and the specified undertaker are regulated by the provisions of Part 3 of the 1991 Act.
+**3.**[^c-5b443a3fe63dd8b20f49c9777b9b7cbe] This Schedule does not apply to anything done or proposed to be done in relation to or affecting apparatus in respect of which the relations between the Agency and the specified undertaker are regulated by the provisions of Part 3 of the 1991 Act.
 
 ### Acquisition of land
 
-**4.**[^key-9e426bc0c314490218c7d44cea23d4a2] (1) Regardless of any provision in this Order or anything shown on the deposited plans the Agency must not acquire any apparatus other than by agreement with the specified undertaker.
+**4.**[^c-9e426bc0c314490218c7d44cea23d4a2] (1) Regardless of any provision in this Order or anything shown on the deposited plans the Agency must not acquire any apparatus other than by agreement with the specified undertaker.
 
 (2) The Agency may, in the exercise of the powers conferred by this Order, acquire or appropriate any interest in any land in which any apparatus is placed and, following the removal of such apparatus in accordance with the provisions of this Schedule, any rights in that land relating to that apparatus are extinguished, but that apparatus must not be removed under this Schedule and any right of a specified undertaker to use, maintain or renew that apparatus in that land must not be extinguished, until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the specified undertaker in question.
 
 ### Removal of apparatus
 
-**5.**[^key-187fa3c0dd3f4f2e3f80f7ac9aa111e7] (1) If, for the purpose of executing any works in, on or under any land purchased, held, appropriated or used under this Order, the Agency requires the removal of any apparatus placed in that land, it must give to the specified undertaker in question written notice of that requirement, together with plans of the work proposed, and of the proposed position of the alternative apparatus to be provided or constructed and in that case (or if in consequence of the exercise of any of the powers conferred by this Order a specified undertaker reasonably needs to remove any of its apparatus) the Agency must, subject to sub-paragraph (3), afford to the specified undertaker the necessary facilities and rights for the construction of alternative apparatus in other land of the Agency and for the subsequent use, maintenance and renewal of that apparatus.
+**5.**[^c-187fa3c0dd3f4f2e3f80f7ac9aa111e7] (1) If, for the purpose of executing any works in, on or under any land purchased, held, appropriated or used under this Order, the Agency requires the removal of any apparatus placed in that land, it must give to the specified undertaker in question written notice of that requirement, together with plans of the work proposed, and of the proposed position of the alternative apparatus to be provided or constructed and in that case (or if in consequence of the exercise of any of the powers conferred by this Order a specified undertaker reasonably needs to remove any of its apparatus) the Agency must, subject to sub-paragraph (3), afford to the specified undertaker the necessary facilities and rights for the construction of alternative apparatus in other land of the Agency and for the subsequent use, maintenance and renewal of that apparatus.
 
 (2) If alternative apparatus or any part of such apparatus is to be constructed elsewhere than in other land of the Agency, or the Agency is unable to afford such facilities and rights as are mentioned in sub-paragraph (1), in the land in which the alternative apparatus or part of such apparatus is to be constructed, the specified undertaker in question must, on receipt of a written notice to that effect from the Agency, as soon as reasonably possible use reasonable endeavours to obtain the necessary facilities and rights in the land in which the alternative apparatus is to be constructed.
 
@@ -85,7 +85,7 @@ Article 54
 
 ### Facilities and rights for alternative apparatus
 
-**6.**[^key-3657ccf4ba6abd44a90f84f46ee06ccc] (1) Where, in accordance with the provisions of this Schedule, the Agency affords to a specified undertaker facilities and rights for the construction, use, maintenance and renewal in land of the Agency of alternative apparatus in substitution for apparatus to be removed, those facilities and rights must be granted upon such terms and conditions as may be agreed between the Agency and the specified undertaker in question or in default of agreement settled by arbitration in accordance with article 67 (arbitration).
+**6.**[^c-3657ccf4ba6abd44a90f84f46ee06ccc] (1) Where, in accordance with the provisions of this Schedule, the Agency affords to a specified undertaker facilities and rights for the construction, use, maintenance and renewal in land of the Agency of alternative apparatus in substitution for apparatus to be removed, those facilities and rights must be granted upon such terms and conditions as may be agreed between the Agency and the specified undertaker in question or in default of agreement settled by arbitration in accordance with article 67 (arbitration).
 
 (2) In settling those terms and conditions in respect of the alternative apparatus to be constructed across or along the authorised works, the arbitrator must—
 
@@ -96,7 +96,7 @@ Article 54
 
 ### Retained apparatus: protection and plan approval
 
-**7.**[^key-67643be1c9426df0a548ef3609e14039] (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 5(1) that are near to, or will or may affect, any apparatus the removal of which has not been required by the Agency under paragraph 5(1), the Agency must submit to the specified undertaker in question plans of those works.
+**7.**[^c-67643be1c9426df0a548ef3609e14039] (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 5(1) that are near to, or will or may affect, any apparatus the removal of which has not been required by the Agency under paragraph 5(1), the Agency must submit to the specified undertaker in question plans of those works.
 
 (2) Those works are to be executed only in accordance with the plans submitted under sub-paragraph (1) and in accordance with such reasonable requirements as may be made in accordance with sub-paragraph (3) by the specified undertaker for the alteration or otherwise for the protection of the apparatus, or for securing access to it, and an officer of the specified undertaker is entitled to watch and inspect the execution of those works.
 
@@ -112,7 +112,7 @@ Article 54
 
 ### Expenses
 
-**8.**[^key-b265e3a2520f3477f4d0b4551629f116] (1) Subject to the following provisions of this paragraph, the Agency must repay to a specified undertaker the reasonable expenses incurred by that specified undertaker in, or in connection with—
+**8.**[^c-b265e3a2520f3477f4d0b4551629f116] (1) Subject to the following provisions of this paragraph, the Agency must repay to a specified undertaker the reasonable expenses incurred by that specified undertaker in, or in connection with—
 
 - (a) the inspection, removal and relaying or replacing, alteration or protection of any apparatus or the construction of any new apparatus under any provision of this Schedule (including any costs reasonably incurred or compensation properly paid in connection with the acquisition of facilities and rights or exercise of statutory powers for such apparatus);
 - (b) the cutting off of any apparatus from any other apparatus, or the making safe of any redundant apparatus in consequence of the exercise by the Agency of any power under this Order; and
@@ -140,7 +140,7 @@ and the placing of apparatus of that type or capacity or those dimensions or the
 
 ### Indemnity
 
-**9.**[^key-5225b285cf2a7acfd40d5ce994abb44f] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction, maintenance or failure of any of the authorised works, any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of a specified undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any specified undertaker, the Agency must bear and pay the cost reasonably incurred by that specified undertaker in making good such damage or restoring the supply, and must—
+**9.**[^c-5225b285cf2a7acfd40d5ce994abb44f] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction, maintenance or failure of any of the authorised works, any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of a specified undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any specified undertaker, the Agency must bear and pay the cost reasonably incurred by that specified undertaker in making good such damage or restoring the supply, and must—
 
 - (a) make reasonable compensation to that specified undertaker for any other expenses, loss, damages, penalty or costs incurred by the specified undertaker; and
 - (b) indemnify the specified undertaker against all claims, demands, proceedings, costs, damages and expenses which may be made or taken against or recovered from, or incurred by, the specified undertaker,
@@ -153,27 +153,27 @@ by reason or in consequence of any such damage or interruption; and the fact tha
 
 ### Access
 
-**10.**[^key-35b4bb86b0666fccfb5cb905ada9d4f8] If in consequence of the exercise of the powers conferred by this Order the access to any apparatus is materially obstructed the Agency must provide such alternative means of access to that apparatus as will enable the specified undertaker to maintain or use the apparatus no less effectively than was possible before the obstruction.
+**10.**[^c-35b4bb86b0666fccfb5cb905ada9d4f8] If in consequence of the exercise of the powers conferred by this Order the access to any apparatus is materially obstructed the Agency must provide such alternative means of access to that apparatus as will enable the specified undertaker to maintain or use the apparatus no less effectively than was possible before the obstruction.
 
 ### Cooperation
 
-**11.**[^key-ce52ee902f8de6e4c9499b1de7e7c9b7] Where in consequence of the proposed construction of any of the authorised works, the Agency or the specified undertaker requires the removal of apparatus under paragraph 5(1) or the specified undertaker makes requirements for the protection or alteration of apparatus under paragraph 7(2), the Agency must use its best endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised works and the specified undertaker must use all reasonable endeavours to co-operate with the Agency for that purpose.
+**11.**[^c-ce52ee902f8de6e4c9499b1de7e7c9b7] Where in consequence of the proposed construction of any of the authorised works, the Agency or the specified undertaker requires the removal of apparatus under paragraph 5(1) or the specified undertaker makes requirements for the protection or alteration of apparatus under paragraph 7(2), the Agency must use its best endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised works and the specified undertaker must use all reasonable endeavours to co-operate with the Agency for that purpose.
 
 ### Exercise of safeguarding and survey powers
 
-**12.**[^key-837d809abe421fdf3a383af7c0a81246] (1) The Agency must, so far as is reasonably practicable, exercise the powers conferred by article 21 (protective works) so as not to obstruct or render less convenient the access to any apparatus.
+**12.**[^c-837d809abe421fdf3a383af7c0a81246] (1) The Agency must, so far as is reasonably practicable, exercise the powers conferred by article 21 (protective works) so as not to obstruct or render less convenient the access to any apparatus.
 
 (2) The Agency must not, in the exercise of the powers conferred by section 11(3) (powers of entry) of the 1965 Act, as applied by this Order, or by article 23 (power to survey and investigate land, etc.), make any trial holes which interfere with any apparatus without the consent of the specified undertaker (which must not be unreasonably withheld).
 
 ### Arbitration
 
-**13.**[^key-d78cf2ab7347b6737dc616d73ea40d9c] Any difference arising between the Agency and a specified undertaker under this Schedule (other than a difference as to its meaning or construction) must be determined by arbitration in the manner provided by article 67 (arbitration) and in determining any difference under this Schedule the arbitrator may, if the arbitrator thinks fit, require the Agency to execute any temporary or other works so as to avoid, so far as may be reasonably possible, interference with the use of any apparatus.
+**13.**[^c-d78cf2ab7347b6737dc616d73ea40d9c] Any difference arising between the Agency and a specified undertaker under this Schedule (other than a difference as to its meaning or construction) must be determined by arbitration in the manner provided by article 67 (arbitration) and in determining any difference under this Schedule the arbitrator may, if the arbitrator thinks fit, require the Agency to execute any temporary or other works so as to avoid, so far as may be reasonably possible, interference with the use of any apparatus.
 
 ## Annotations
 
-[^key-c6757b0db41a48a5cccd630c6941efcc]: Commencement: Sch. 7 para. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-c6757b0db41a48a5cccd630c6941efcc]: Commencement: Sch. 7 para. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-f85305a7a4a54b327e6e86150a568961]: Commencement: Sch. 7 para. 2 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-f85305a7a4a54b327e6e86150a568961]: Commencement: Sch. 7 para. 2 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00081]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -181,24 +181,24 @@ by reason or in consequence of any such damage or interruption; and the fact tha
 
 [^f00083]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 
-[^key-5b443a3fe63dd8b20f49c9777b9b7cbe]: Commencement: Sch. 7 para. 3 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-5b443a3fe63dd8b20f49c9777b9b7cbe]: Commencement: Sch. 7 para. 3 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-9e426bc0c314490218c7d44cea23d4a2]: Commencement: Sch. 7 para. 4 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-9e426bc0c314490218c7d44cea23d4a2]: Commencement: Sch. 7 para. 4 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-187fa3c0dd3f4f2e3f80f7ac9aa111e7]: Commencement: Sch. 7 para. 5 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-187fa3c0dd3f4f2e3f80f7ac9aa111e7]: Commencement: Sch. 7 para. 5 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-3657ccf4ba6abd44a90f84f46ee06ccc]: Commencement: Sch. 7 para. 6 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-3657ccf4ba6abd44a90f84f46ee06ccc]: Commencement: Sch. 7 para. 6 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-67643be1c9426df0a548ef3609e14039]: Commencement: Sch. 7 para. 7 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-67643be1c9426df0a548ef3609e14039]: Commencement: Sch. 7 para. 7 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-b265e3a2520f3477f4d0b4551629f116]: Commencement: Sch. 7 para. 8 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-b265e3a2520f3477f4d0b4551629f116]: Commencement: Sch. 7 para. 8 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-5225b285cf2a7acfd40d5ce994abb44f]: Commencement: Sch. 7 para. 9 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-5225b285cf2a7acfd40d5ce994abb44f]: Commencement: Sch. 7 para. 9 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-35b4bb86b0666fccfb5cb905ada9d4f8]: Commencement: Sch. 7 para. 10 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-35b4bb86b0666fccfb5cb905ada9d4f8]: Commencement: Sch. 7 para. 10 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-ce52ee902f8de6e4c9499b1de7e7c9b7]: Commencement: Sch. 7 para. 11 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-ce52ee902f8de6e4c9499b1de7e7c9b7]: Commencement: Sch. 7 para. 11 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-837d809abe421fdf3a383af7c0a81246]: Commencement: Sch. 7 para. 12 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-837d809abe421fdf3a383af7c0a81246]: Commencement: Sch. 7 para. 12 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-d78cf2ab7347b6737dc616d73ea40d9c]: Commencement: Sch. 7 para. 13 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-d78cf2ab7347b6737dc616d73ea40d9c]: Commencement: Sch. 7 para. 13 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 376. Judicial notice of court documents[^key-0b6211ca9376ac89258bc6269d7c2c90]
+## 376. Judicial notice of court documents[^c-0b6211ca9376ac89258bc6269d7c2c90]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In all proceedings under this Order, all courts, judges and persons judicially a
 
 ## Annotations
 
-[^key-0b6211ca9376ac89258bc6269d7c2c90]: Modification: [Art. 376](https://www.legislation.gov.uk/nisi/1989/2405/article/376) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-0b6211ca9376ac89258bc6269d7c2c90]: Modification: [Art. 376](https://www.legislation.gov.uk/nisi/1989/2405/article/376) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
 [^c20420971]: Textual amendment: Words in [art. 376(b)](https://www.legislation.gov.uk/nisi/1989/2405/article/376/b) substituted (1.10.2007) by [Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [10(1)](https://www.legislation.gov.uk/uksi/2007/2194/article/10/1), [Sch. 4 para. 63](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/63) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))

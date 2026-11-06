@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Sending requests for assistance[^key-210a4d636aaf748f1993e3a968af6dca]
+## 45. Sending requests for assistance[^c-210a4d636aaf748f1993e3a968af6dca]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-210a4d636aaf748f1993e3a968af6dca]: Commencement: S. 45 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 3](https://www.legislation.gov.uk/uksi/2006/2811/article/3)
+[^c-210a4d636aaf748f1993e3a968af6dca]: Commencement: S. 45 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 3](https://www.legislation.gov.uk/uksi/2006/2811/article/3)

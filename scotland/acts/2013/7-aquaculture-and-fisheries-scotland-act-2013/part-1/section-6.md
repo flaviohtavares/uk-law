@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Enforcement notices[^key-7927de5da2a663a4a3925973195a0d6f]
+## 6. Enforcement notices[^c-7927de5da2a663a4a3925973195a0d6f]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7927de5da2a663a4a3925973195a0d6f]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2013/7/section/6) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-7927de5da2a663a4a3925973195a0d6f]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2013/7/section/6) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

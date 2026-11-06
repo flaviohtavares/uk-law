@@ -39,7 +39,7 @@ Section 162
 
 **2.** In this Part of this Act—
 
-- (a) references to the delivery of an annual tax on enveloped dwellings return are to the delivery of a return that complies with all requirements imposed by or under any of sections 159 , 159A[^key-303f09c9f8903dc3e3ab3ec9a76c55ad] and 161 and paragraph 1;
+- (a) references to the delivery of an annual tax on enveloped dwellings return are to the delivery of a return that complies with all requirements imposed by or under any of sections 159 , 159A[^c-303f09c9f8903dc3e3ab3ec9a76c55ad] and 161 and paragraph 1;
 - (b) references to the delivery of a return of the adjusted chargeable amount are to the delivery of a return that complies with all requirements imposed by or under any of sections 160 and 161 and paragraph 1.
 
 #### Amendment of return by chargeable person
@@ -303,7 +303,7 @@ the officer may by notice in writing to the relevant person amend the assessment
 
 #### Determination superseded by actual self assessment
 
-**20.** (1) If after an HMRC determination has been made P delivers a return for the chargeable period with respect to the interest in question containing a self assessment, that self assessment[^key-8a7d416b67be0e5fda44babb877efb07] supersedes the determination.
+**20.** (1) If after an HMRC determination has been made P delivers a return for the chargeable period with respect to the interest in question containing a self assessment, that self assessment[^c-8a7d416b67be0e5fda44babb877efb07] supersedes the determination.
 
 (2) Sub-paragraph (1) does not apply to a return delivered—
 
@@ -319,7 +319,7 @@ whichever is the later.
 
 the proceedings may be continued as if they were proceedings for the recovery of so much of the tax charged by the self assessment as is due and payable and has not yet been paid.
 
-(4)[^key-e5ab55beeacfc4ff84cbc1b4e12656e3] Where—
+(4)[^c-e5ab55beeacfc4ff84cbc1b4e12656e3] Where—
 
 - (a) action is being taken under Part 1 of Schedule 8 to the Finance (No. 2) Act 2015 (enforcement of deduction from accounts) for the recovery of an amount (“**the original amount**”) of tax charged by an HMRC determination, and
 - (b) before that action is concluded, the determination is superseded by a self-assessment,
@@ -395,10 +395,10 @@ that action may be continued as if it were action for the purposes of the recove
 (4) Sub-paragraph (3) applies to an assessment of a person in any case involving a loss of tax—
 
 - (a) brought about deliberately by the taxpayer or a related person,
-- (b) attributable to a failure by the taxpayer to comply with obligations under section 159(1) or 160(1) (duty to make annual tax on enveloped dwellings return or return of adjusted chargeable amount), [^key-54d61895a673734ade02ef82228514a3]...
+- (b) attributable to a failure by the taxpayer to comply with obligations under section 159(1) or 160(1) (duty to make annual tax on enveloped dwellings return or return of adjusted chargeable amount), [^c-54d61895a673734ade02ef82228514a3]...
 - (c) attributable to arrangements in respect of which the person has failed to comply with an obligation under section 309, 310 or 313 of FA 2004 (obligation of parties to tax avoidance schemes to provide information to HMRC).
 
-  , or[^key-21f17ebe6b8638b3b72646b6658f0b9f]
+  , or[^c-21f17ebe6b8638b3b72646b6658f0b9f]
 - (d) attributable to arrangements which were expected to give rise to a tax advantage in respect of which the person was under an obligation to notify the Commissioners for Her Majesty's Revenue and Customs under section 253 of FA 2014 (duty to notify Commissioners of promoter reference number) but failed to do so.
 
 (5) An assessment under paragraph 22 (assessment to recover excessive repayment of tax) is not out of time if it is made—
@@ -589,7 +589,7 @@ In this sub-paragraph “**relevant appeal**” means an appeal by the claimant 
 **35.** (1) An appeal may be brought against—
 
 - (a) an amendment of a self assessment under paragraph 10 (amendment during enquiry to prevent loss of tax),
-- (b)[^key-d7807dbe17da91f0d0a102bf1c1b202b] a conclusion stated or amendment made by a closure notice (see paragraph 16),
+- (b)[^c-d7807dbe17da91f0d0a102bf1c1b202b] a conclusion stated or amendment made by a closure notice (see paragraph 16),
 - (c) an HMRC determination under paragraph 18 (determination of tax chargeable if no return delivered),
 - (d) a discovery assessment (see paragraph 21), or
 - (e) an assessment under paragraph 22 (assessment to recover excessive repayment).
@@ -845,14 +845,14 @@ In this sub-paragraph “**relevant appeal**” means an appeal by the claimant 
 - (a) the tax were payable in accordance with an assessment under paragraph 22 issued on the date on which the application was determined, and
 - (b) there was no appeal against that assessment.
 
-(8A)[^key-4dd486d38aee2972d8605fa1375f8dc9] Sub-paragraphs (8B) and (8C) apply where a person has been given an accelerated payment notice under Chapter 3 of Part 4 of FA 2014 and that notice has not been withdrawn.
+(8A)[^c-4dd486d38aee2972d8605fa1375f8dc9] Sub-paragraphs (8B) and (8C) apply where a person has been given an accelerated payment notice under Chapter 3 of Part 4 of FA 2014 and that notice has not been withdrawn.
 
 (8B) Nothing in this paragraph enables the postponement of the payment of (as the case may be)—
 
 - (a) the understated tax to which the payment specified in the notice under section 220(2)(b) of that Act relates, or
 - (b) the disputed tax specified in the notice under section 221(2)(b) of that Act.
 
-(8C)[^key-8c999688b42cc8046e481e146617b60c] Accordingly, if the payment of an amount of tax within sub-paragraph (8B)(b) is postponed by virtue of this paragraph immediately before the accelerated payment notice is given, it ceases to be so postponed with effect from the time that notice is given, and the tax is due and payable—
+(8C)[^c-8c999688b42cc8046e481e146617b60c] Accordingly, if the payment of an amount of tax within sub-paragraph (8B)(b) is postponed by virtue of this paragraph immediately before the accelerated payment notice is given, it ceases to be so postponed with effect from the time that notice is given, and the tax is due and payable—
 
 - (a) if no representations were made under section 222 of that Act in respect of the notice, on or before the last day of the period of 90 days beginning with the day the notice is given, and
 - (b) if representations were so made, on or before whichever is later of—
@@ -872,7 +872,7 @@ In this sub-paragraph “**relevant appeal**” means an appeal by the claimant 
 
 (3) References in this paragraph to an agreement being entered into with an appellant, and to the giving of notice to or by the appellant, include references to an agreement being entered into, or notice being given to or by, a person acting on behalf of the appellant in relation to the appeal.
 
-(4)[^key-4154074408f43c38612c3e2f36b600ef] Sub-paragraphs (8A) to (8C) of paragraph 48 apply for the purposes of this paragraph as they apply for the purposes of paragraph 48.
+(4)[^c-4154074408f43c38612c3e2f36b600ef] Sub-paragraphs (8A) to (8C) of paragraph 48 apply for the purposes of this paragraph as they apply for the purposes of paragraph 48.
 
 #### Assessments and self assessments
 
@@ -914,7 +914,7 @@ In this sub-paragraph “**relevant appeal**” means an appeal by the claimant 
 - (a) if too much tax has been paid, the amount overpaid must be refunded, with any interest allowed by the order or judgment, and
 - (b) if too little tax has been charged, the amount undercharged is due and payable at the end of the 30 days beginning with the date on which HMRC issue to the other party a notice of the total amount payable in accordance with the order or judgment.
 
-(3)[^key-94770f72577ed3372a23de7590b970d2] Sub-paragraph (4) applies where—
+(3)[^c-94770f72577ed3372a23de7590b970d2] Sub-paragraph (4) applies where—
 
 - (a) an accelerated payment notice has been given to a party to the appeal under Chapter 3 of Part 4 of FA 2014 (and not withdrawn), and
 - (b) the assessment to which the appeal relates has effect, or partly has effect, to counteract the whole or part of the asserted advantage (within the meaning of section 219(3) of that Act) by reason of which the notice was given.
@@ -966,22 +966,22 @@ In this sub-paragraph “**relevant appeal**” means an appeal by the claimant 
 
 ## Annotations
 
-[^key-303f09c9f8903dc3e3ab3ec9a76c55ad]: Textual amendment: Word in Sch. 33 para. 2(a) inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(5)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/5/a)
+[^c-303f09c9f8903dc3e3ab3ec9a76c55ad]: Textual amendment: Word in Sch. 33 para. 2(a) inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(5)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/5/a)
 
-[^key-8a7d416b67be0e5fda44babb877efb07]: Textual amendment: Words in Sch. 33 para. 20(1) substituted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(5)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/5/b)
+[^c-8a7d416b67be0e5fda44babb877efb07]: Textual amendment: Words in Sch. 33 para. 20(1) substituted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(5)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/5/b)
 
-[^key-e5ab55beeacfc4ff84cbc1b4e12656e3]: Textual amendment: Sch. 33 para. 20(4) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 8 para. 42](https://www.legislation.gov.uk/ukpga/2015/33/schedule/8/paragraph/42)
+[^c-e5ab55beeacfc4ff84cbc1b4e12656e3]: Textual amendment: Sch. 33 para. 20(4) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 8 para. 42](https://www.legislation.gov.uk/ukpga/2015/33/schedule/8/paragraph/42)
 
-[^key-54d61895a673734ade02ef82228514a3]: Textual amendment: Word in Sch. 33 para. 25(4) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 277(6)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/277/6/a) (with [ss. 269-271](https://www.legislation.gov.uk/ukpga/2014/26/section/269))
+[^c-54d61895a673734ade02ef82228514a3]: Textual amendment: Word in Sch. 33 para. 25(4) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 277(6)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/277/6/a) (with [ss. 269-271](https://www.legislation.gov.uk/ukpga/2014/26/section/269))
 
-[^key-21f17ebe6b8638b3b72646b6658f0b9f]: Textual amendment: Sch. 33 para. 25(4)(d) and word inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 277(6)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/277/6/b) (with [ss. 269-271](https://www.legislation.gov.uk/ukpga/2014/26/section/269))
+[^c-21f17ebe6b8638b3b72646b6658f0b9f]: Textual amendment: Sch. 33 para. 25(4)(d) and word inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 277(6)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/277/6/b) (with [ss. 269-271](https://www.legislation.gov.uk/ukpga/2014/26/section/269))
 
-[^key-d7807dbe17da91f0d0a102bf1c1b202b]: Modification: Sch. 33 para. 35(1)(b) excluded (with application in accordance with Sch. 31 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [ss.](https://www.legislation.gov.uk/ukpga/2014/26/section), [208(11)(e)](https://www.legislation.gov.uk/ukpga/2014/26/section/208/11/e) 208(10)
+[^c-d7807dbe17da91f0d0a102bf1c1b202b]: Modification: Sch. 33 para. 35(1)(b) excluded (with application in accordance with Sch. 31 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [ss.](https://www.legislation.gov.uk/ukpga/2014/26/section), [208(11)(e)](https://www.legislation.gov.uk/ukpga/2014/26/section/208/11/e) 208(10)
 
-[^key-4dd486d38aee2972d8605fa1375f8dc9]: Textual amendment: Sch. 33 para. 48(8A)-(8C) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 224(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/224/5)
+[^c-4dd486d38aee2972d8605fa1375f8dc9]: Textual amendment: Sch. 33 para. 48(8A)-(8C) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 224(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/224/5)
 
-[^key-8c999688b42cc8046e481e146617b60c]: Modification: Sch. 33 para. 48(8C) modified (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 227(9)(d)](https://www.legislation.gov.uk/ukpga/2014/26/section/227/9/d)
+[^c-8c999688b42cc8046e481e146617b60c]: Modification: Sch. 33 para. 48(8C) modified (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 227(9)(d)](https://www.legislation.gov.uk/ukpga/2014/26/section/227/9/d)
 
-[^key-4154074408f43c38612c3e2f36b600ef]: Textual amendment: Sch. 33 para. 49(4) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 224(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/224/6)
+[^c-4154074408f43c38612c3e2f36b600ef]: Textual amendment: Sch. 33 para. 49(4) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 224(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/224/6)
 
-[^key-94770f72577ed3372a23de7590b970d2]: Textual amendment: Sch. 33 para. 53(3)-(5) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 225(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/225/3)
+[^c-94770f72577ed3372a23de7590b970d2]: Textual amendment: Sch. 33 para. 53(3)-(5) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 225(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/225/3)

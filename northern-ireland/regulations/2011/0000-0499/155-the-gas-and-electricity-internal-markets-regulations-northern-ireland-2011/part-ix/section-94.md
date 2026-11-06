@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Property arrangements schemes[^key-6c7a5302b202dddd97ab4b11b0bd1c00]
+## 94. Property arrangements schemes[^c-6c7a5302b202dddd97ab4b11b0bd1c00]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 (which makes provision about property arrangements schemes in respect
 
 ## Annotations
 
-[^key-6c7a5302b202dddd97ab4b11b0bd1c00]: Commencement: Reg. 94 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-6c7a5302b202dddd97ab4b11b0bd1c00]: Commencement: Reg. 94 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

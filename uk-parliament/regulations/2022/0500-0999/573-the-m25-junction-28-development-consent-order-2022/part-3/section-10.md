@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Application of the 1991 Act[^key-3a291751e74164bee361411cae04c2c6]
+## 10. Application of the 1991 Act[^c-3a291751e74164bee361411cae04c2c6]
 
 *Extent: E+W*
 
-(1) Works executed under this Order in relation to a highway which consists of or includes a carriageway are to be treated for the purposes of Part 3 (street works in England and Wales)[^key-8ecedd94cb3dbd743ef4d023c740ace7] of the 1991 Act as major highway works if—
+(1) Works executed under this Order in relation to a highway which consists of or includes a carriageway are to be treated for the purposes of Part 3 (street works in England and Wales)[^c-8ecedd94cb3dbd743ef4d023c740ace7] of the 1991 Act as major highway works if—
 
 - (a) they are of a description mentioned in any of paragraphs (a), (c) to (e), (g) and (h) of section 86(3) (which defines what highway authority works are major highway works) of that Act; or
 - (b) they are works which, had they been executed by the highway authority, might have been carried out in exercise of the powers conferred by section 64[^f00030] (dual carriageways and roundabouts) of the 1980 Act or section 184[^f00031] (vehicle crossings over footways and verges) of that Act.
@@ -73,9 +73,9 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 ## Annotations
 
-[^key-3a291751e74164bee361411cae04c2c6]: Commencement: Art. 10 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-3a291751e74164bee361411cae04c2c6]: Commencement: Art. 10 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
-[^key-8ecedd94cb3dbd743ef4d023c740ace7]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2022/573/article/10/1) inserted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)
+[^c-8ecedd94cb3dbd743ef4d023c740ace7]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2022/573/article/10/1) inserted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)
 
 [^f00030]: Footnote: Section 64 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(2) of, and Schedule 9 to, the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Expenses of voluntary arrangement[^key-8938d1560f056b461798416cdb9b97c1]
+## 96. Expenses of voluntary arrangement[^c-8938d1560f056b461798416cdb9b97c1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a special administration order is made and a voluntary arrangement under P
 
 ## Annotations
 
-[^key-8938d1560f056b461798416cdb9b97c1]: Commencement: [Rule 96](https://www.legislation.gov.uk/nisr/2026/11/rule/96) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-8938d1560f056b461798416cdb9b97c1]: Commencement: [Rule 96](https://www.legislation.gov.uk/nisr/2026/11/rule/96) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 126. Authority foster parents[^key-88a64715d199c31db62c6bcf7e4ce909]
+## 126. Authority foster parents[^c-88a64715d199c31db62c6bcf7e4ce909]
 
 *Extent: N.I.*
 
@@ -66,4 +66,4 @@ After Article 28 of the Children Order (regulations under Article 27) insert—
 
 ## Annotations
 
-[^key-88a64715d199c31db62c6bcf7e4ce909]: Commencement: S. 126 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-88a64715d199c31db62c6bcf7e4ce909]: Commencement: S. 126 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30A. Removal from Register where charity no longer has connection to Scotland[^key-f0ecb27455dec95c56f197bca24b849e]
+## 30A. Removal from Register where charity no longer has connection to Scotland[^c-f0ecb27455dec95c56f197bca24b849e]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0ecb27455dec95c56f197bca24b849e]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/asp/2005/10/section/30A) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 18(4)](https://www.legislation.gov.uk/asp/2023/5/section/18/4), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 5](https://www.legislation.gov.uk/ssi/2024/63/regulation/5))
+[^c-f0ecb27455dec95c56f197bca24b849e]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/asp/2005/10/section/30A) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 18(4)](https://www.legislation.gov.uk/asp/2023/5/section/18/4), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 5](https://www.legislation.gov.uk/ssi/2024/63/regulation/5))

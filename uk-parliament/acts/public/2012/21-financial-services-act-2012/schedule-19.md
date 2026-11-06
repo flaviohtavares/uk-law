@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19 — Repeals[^key-cd7d2c1ead00780bfa0ebb4b59ce1d86]
+## SCHEDULE 19 — Repeals[^c-cd7d2c1ead00780bfa0ebb4b59ce1d86]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ Section 114(2)
 
 ## Annotations
 
-[^key-cd7d2c1ead00780bfa0ebb4b59ce1d86]: Commencement: [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-cd7d2c1ead00780bfa0ebb4b59ce1d86]: Commencement: [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

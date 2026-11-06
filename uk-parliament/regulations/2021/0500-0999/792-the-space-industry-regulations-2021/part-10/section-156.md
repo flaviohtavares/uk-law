@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Steps required after review, or review and revision, of safety case[^key-554757e9612b1dbf43745b81a2d0bab8]
+## 156. Steps required after review, or review and revision, of safety case[^c-554757e9612b1dbf43745b81a2d0bab8]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-554757e9612b1dbf43745b81a2d0bab8]: Commencement: Reg. 156 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-554757e9612b1dbf43745b81a2d0bab8]: Commencement: Reg. 156 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

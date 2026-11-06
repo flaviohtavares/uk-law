@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11A. Exercise of Part 3 functions in anticipation that an MDC will be established[^key-33c3025cde9f85287c93390b95df284d]
+## 11A. Exercise of Part 3 functions in anticipation that an MDC will be established[^c-33c3025cde9f85287c93390b95df284d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ the Mayor may, until that proposed Mayoral development corporation becomes the c
 
 ## Annotations
 
-[^key-33c3025cde9f85287c93390b95df284d]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2010/948/regulation/11A) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2013/982/regulation/6/1)
+[^c-33c3025cde9f85287c93390b95df284d]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2010/948/regulation/11A) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2013/982/regulation/6/1)

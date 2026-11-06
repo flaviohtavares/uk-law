@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Byelaws[^key-426ad5937124a2b94ce832c22508b2d1]
+## 46. Byelaws[^c-426ad5937124a2b94ce832c22508b2d1]
 
 *Extent: E+W*
 
@@ -38,9 +38,9 @@ summary: ''
 
 (3) The undertaker must consult the harbour authority before making byelaws under paragraph (1) and in the case of a byelaw the purpose of which is to control the navigation or mooring of vessels in the Order limits, must not make the byelaw without the consent of the harbour authority (such consent not to be unreasonably withheld).
 
-(4) From the opening of the new bridge for public use,[^key-21d3bdd1bf60340a17a4699bbbb1ebe2] the byelaws in Schedule 10 (the Lowestoft Third Crossing Byelaws 2020) have effect until such time as they are amended or revoked by byelaws made under paragraph (1) and in the meantime they are to be treated as if they had been made by the undertaker under that paragraph and approved by the harbour authority under paragraph (3).
+(4) From the opening of the new bridge for public use,[^c-21d3bdd1bf60340a17a4699bbbb1ebe2] the byelaws in Schedule 10 (the Lowestoft Third Crossing Byelaws 2020) have effect until such time as they are amended or revoked by byelaws made under paragraph (1) and in the meantime they are to be treated as if they had been made by the undertaker under that paragraph and approved by the harbour authority under paragraph (3).
 
-(5) On a date appointed by the undertaker, which must follow—[^key-07539012ed7dfb74ee0009a9420bb6e5]
+(5) On a date appointed by the undertaker, which must follow—[^c-07539012ed7dfb74ee0009a9420bb6e5]
 
 - (za) the undertaker having first sought the harbour authority’s written consent to the proposed date not less than 35 days before the date intended to be appointed; and
 - (zb) the harbour authority having consented in writing to the date intended to be appointed (such consent not to be unreasonably withheld) not less than 28 days before that date,
@@ -111,7 +111,7 @@ the Lowestoft Harbour Byelaws 1993 are amended as follows—
 
   .
 
-(5A)[^key-3c92952764343f221399ef3eca958bc6] The harbour authority must issue a notice to mariners setting out the changes to the Lowestoft Harbour Byelaws 1993 contained in paragraph (5) and the date on which those changes will have effect, not less than 21 days before the date appointed by the undertaker under paragraph (5).
+(5A)[^c-3c92952764343f221399ef3eca958bc6] The harbour authority must issue a notice to mariners setting out the changes to the Lowestoft Harbour Byelaws 1993 contained in paragraph (5) and the date on which those changes will have effect, not less than 21 days before the date appointed by the undertaker under paragraph (5).
 
 (6) The harbour authority must not—
 
@@ -144,13 +144,13 @@ without first obtaining the consent of the undertaker, such consent not to be un
 
 ## Annotations
 
-[^key-426ad5937124a2b94ce832c22508b2d1]: Commencement: Art. 46 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-426ad5937124a2b94ce832c22508b2d1]: Commencement: Art. 46 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-21d3bdd1bf60340a17a4699bbbb1ebe2]: Textual amendment: Words in [art. 46(4)](https://www.legislation.gov.uk/uksi/2020/474/article/46/4) inserted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/3)
+[^c-21d3bdd1bf60340a17a4699bbbb1ebe2]: Textual amendment: Words in [art. 46(4)](https://www.legislation.gov.uk/uksi/2020/474/article/46/4) inserted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/3)
 
-[^key-07539012ed7dfb74ee0009a9420bb6e5]: Textual amendment: Words in [art. 46(5)](https://www.legislation.gov.uk/uksi/2020/474/article/46/5) substituted (22.10.2020) by virtue of [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/4)
+[^c-07539012ed7dfb74ee0009a9420bb6e5]: Textual amendment: Words in [art. 46(5)](https://www.legislation.gov.uk/uksi/2020/474/article/46/5) substituted (22.10.2020) by virtue of [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/4)
 
-[^key-3c92952764343f221399ef3eca958bc6]: Textual amendment: [Art. 46(5A)](https://www.legislation.gov.uk/uksi/2020/474/article/46/5A) inserted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/5)
+[^c-3c92952764343f221399ef3eca958bc6]: Textual amendment: [Art. 46(5A)](https://www.legislation.gov.uk/uksi/2020/474/article/46/5A) inserted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/5)
 
 [^c24091421]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

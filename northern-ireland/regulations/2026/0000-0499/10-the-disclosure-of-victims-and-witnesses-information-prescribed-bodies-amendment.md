@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Justice, in exercise of the powers conferred by section 36 of, and paragraph 6(1) of Schedule 3 to, the Justice Act (Northern Ireland 2015[^f00001] makes the following Regulations:
 
-## 1. Citation and commencement[^key-601608060310e952527cbf24a7e9a784]
+## 1. Citation and commencement[^c-601608060310e952527cbf24a7e9a784]
 
 These Regulations may be cited as the Disclosure of Victims’ and Witnesses’ Information (Prescribed Bodies) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 2nd February 2026.
 
-## 2. Amendment of the Disclosure of Victims’ and Witnesses Information (Prescribed Bodies) Regulations (Northern Ireland) 2015[^key-ae2c21180cc2013cc68972900a7f89ff]
+## 2. Amendment of the Disclosure of Victims’ and Witnesses Information (Prescribed Bodies) Regulations (Northern Ireland) 2015[^c-ae2c21180cc2013cc68972900a7f89ff]
 
 The Disclosure of Victims’ and Witnesses’ Information (Prescribed Bodies) Regulations (Northern Ireland) 2015[^f00002] are amended as follows─
 
@@ -106,8 +106,8 @@ These regulations prescribe the following bodies for the purpose of paragraph 2 
 
 [^f00001]: Footnote: [2015 c.9 (N.I)](https://www.legislation.gov.uk/nia/2015/9).
 
-[^key-601608060310e952527cbf24a7e9a784]: Commencement: Reg. 1 in operation at 2.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/10/regulation/1)
+[^c-601608060310e952527cbf24a7e9a784]: Commencement: Reg. 1 in operation at 2.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/10/regulation/1)
 
-[^key-ae2c21180cc2013cc68972900a7f89ff]: Commencement: Reg. 2 in operation at 2.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/10/regulation/1)
+[^c-ae2c21180cc2013cc68972900a7f89ff]: Commencement: Reg. 2 in operation at 2.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/10/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2015 No.330](https://www.legislation.gov.uk/nisr/2015/330) to which recent amendments were made by [S.R. 2021 No.173](https://www.legislation.gov.uk/nisr/2021/173)

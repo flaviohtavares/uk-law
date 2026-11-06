@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162A. Agreements for common management[^key-bb08109488a05f53f83788b53b4096f5]
+## 162A. Agreements for common management[^c-bb08109488a05f53f83788b53b4096f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb08109488a05f53f83788b53b4096f5]: Textual amendment: [S. 162A](https://www.legislation.gov.uk/ukpga/2010/8/section/162A) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 14(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/14/1), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)
+[^c-bb08109488a05f53f83788b53b4096f5]: Textual amendment: [S. 162A](https://www.legislation.gov.uk/ukpga/2010/8/section/162A) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 14(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/14/1), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)

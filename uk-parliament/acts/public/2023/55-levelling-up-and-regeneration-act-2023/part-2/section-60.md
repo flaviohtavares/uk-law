@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Changes to mayoral combined authority’s area: additional requirements[^key-f8c90eb31af4dcba0e6227e40f779cda]
+## 60. Changes to mayoral combined authority’s area: additional requirements[^c-f8c90eb31af4dcba0e6227e40f779cda]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8c90eb31af4dcba0e6227e40f779cda]: Commencement: S. 60 in force at Royal Assent, see [s. 255(2)(e)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/e)
+[^c-f8c90eb31af4dcba0e6227e40f779cda]: Commencement: S. 60 in force at Royal Assent, see [s. 255(2)(e)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Secretary of State's default powers[^key-64c32f6f48b06e0b4259353dd6947490]
+## 146. Secretary of State's default powers[^c-64c32f6f48b06e0b4259353dd6947490]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ For section 27 of the Planning and Compulsory Purchase Act 2004 substitute—
 
 ## Annotations
 
-[^key-64c32f6f48b06e0b4259353dd6947490]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2016/22/section/146) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/d)
+[^c-64c32f6f48b06e0b4259353dd6947490]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2016/22/section/146) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/d)

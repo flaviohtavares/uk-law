@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 151. Protection of an application on which a protected application is dependent[^key-d80cda5ba52ef4b1a8d29a4cbd211f0f]
+## 151. Protection of an application on which a protected application is dependent[^c-d80cda5ba52ef4b1a8d29a4cbd211f0f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d80cda5ba52ef4b1a8d29a4cbd211f0f]: Modification: Rule 151 applied (with modifications) (13.10.2003) by [The Land Registration Act 2002 (Transitional Provisions) Order 2003 (S.I. 2003/1953)](https://www.legislation.gov.uk/uksi/2003/1953), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1953/article/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2003/1953/article/28/2)
+[^c-d80cda5ba52ef4b1a8d29a4cbd211f0f]: Modification: Rule 151 applied (with modifications) (13.10.2003) by [The Land Registration Act 2002 (Transitional Provisions) Order 2003 (S.I. 2003/1953)](https://www.legislation.gov.uk/uksi/2003/1953), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1953/article/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2003/1953/article/28/2)

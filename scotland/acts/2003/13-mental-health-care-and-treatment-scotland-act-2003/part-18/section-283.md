@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 283. Review of decision to withhold postal packet[^key-74810299ef2396e263f6f22ddb578496][^key-b49f2b4cd012372da501448ab387b3de]
+## 283. Review of decision to withhold postal packet[^c-74810299ef2396e263f6f22ddb578496][^c-b49f2b4cd012372da501448ab387b3de]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74810299ef2396e263f6f22ddb578496]: Commencement: S. 283 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-74810299ef2396e263f6f22ddb578496]: Commencement: S. 283 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-b49f2b4cd012372da501448ab387b3de]: Commencement: S. 283 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-b49f2b4cd012372da501448ab387b3de]: Commencement: S. 283 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

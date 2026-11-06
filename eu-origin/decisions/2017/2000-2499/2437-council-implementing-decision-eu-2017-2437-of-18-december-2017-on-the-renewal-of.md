@@ -33,14 +33,14 @@ of 18 December 2017
 
 on the renewal of the term of office of the Chair of the Single Resolution Board (revoked)
 
-[^key-5eb850368400595536b7f6d0d1fe15fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5eb850368400595536b7f6d0d1fe15fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5eb850368400595536b7f6d0d1fe15fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5eb850368400595536b7f6d0d1fe15fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5eb850368400595536b7f6d0d1fe15fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5eb850368400595536b7f6d0d1fe15fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5eb850368400595536b7f6d0d1fe15fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5eb850368400595536b7f6d0d1fe15fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5eb850368400595536b7f6d0d1fe15fe]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(i)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5eb850368400595536b7f6d0d1fe15fe]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(i)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

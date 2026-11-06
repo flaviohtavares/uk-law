@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Powers of the court[^key-9bf9b9385bf14e77db7e425a820d6b3a][^key-24b7672603439ff37c3c219df0782fac]
+## 58. Powers of the court[^c-9bf9b9385bf14e77db7e425a820d6b3a][^c-24b7672603439ff37c3c219df0782fac]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9bf9b9385bf14e77db7e425a820d6b3a]: Commencement: S. 58 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-9bf9b9385bf14e77db7e425a820d6b3a]: Commencement: S. 58 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-24b7672603439ff37c3c219df0782fac]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/15/section/58) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))
+[^c-24b7672603439ff37c3c219df0782fac]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/15/section/58) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))

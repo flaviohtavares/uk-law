@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Order to grant entry[^key-065225547f89f65b10d6ffa5bcdb6672]
+## 8. Order to grant entry[^c-065225547f89f65b10d6ffa5bcdb6672]
 
 *Extent: E+W+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-065225547f89f65b10d6ffa5bcdb6672]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/2605/article/8) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-065225547f89f65b10d6ffa5bcdb6672]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/2605/article/8) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

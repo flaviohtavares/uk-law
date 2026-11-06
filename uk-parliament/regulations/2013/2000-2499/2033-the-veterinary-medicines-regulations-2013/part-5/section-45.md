@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 45. Northern Ireland[^key-a8f8ca90f9a233241f14240b249cc88a]
+## 45. Northern Ireland[^c-a8f8ca90f9a233241f14240b249cc88a]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ summary: ''
 
 - (a)[^V_NI_1041a6b5-6164-51e4-6212-2c85641e762f] Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/0178);
 - (b)[^V_NI_70de797d-2a22-f48a-49d7-bb20996edd82] Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/eur/2003/1831);
-- (c)[^key-2ae92631c88e87b36216fd8312bafa59] Regulation (EU) 2017/625; and
+- (c)[^c-2ae92631c88e87b36216fd8312bafa59] Regulation (EU) 2017/625; and
 - (d)[^V_NI_fb0c3331-1fb6-e6ca-ec34-32800ab3841a] Regulation [(EC) No 183/2005](https://www.legislation.gov.uk/eur/2005/0183).
 
 (4) In relation to pharmacies, an officer of the Pharmaceutical Society of Northern Ireland appointed by the Society for the purpose has all the powers of an inspector to enforce these Regulations.
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a8f8ca90f9a233241f14240b249cc88a]: Textual amendment: [Reg. 45](https://www.legislation.gov.uk/uksi/2013/2033/regulation/45) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [4(6)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/4/6)
+[^c-a8f8ca90f9a233241f14240b249cc88a]: Textual amendment: [Reg. 45](https://www.legislation.gov.uk/uksi/2013/2033/regulation/45) omitted (E.W.S.) (31.12.2020) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [4(6)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/4/6)
 
 [^M_E_7690aa5d-b989-4c9a-dad2-73c2bedc49f4]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -56,7 +56,7 @@ summary: ''
 
 [^V_NI_70de797d-2a22-f48a-49d7-bb20996edd82]: Textual amendment: Reg. 45(3)(b) substituted (26.3.2019) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/676/regulation/2/3/b)
 
-[^key-2ae92631c88e87b36216fd8312bafa59]: Textual amendment: Reg. 45(3)(c) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(11)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/11); and substituted (N.I.) (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/3/3)
+[^c-2ae92631c88e87b36216fd8312bafa59]: Textual amendment: Reg. 45(3)(c) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(11)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/11); and substituted (N.I.) (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/3/3)
 
 [^V_NI_fb0c3331-1fb6-e6ca-ec34-32800ab3841a]: Textual amendment: Reg. 45(3)(d) substituted (26.3.2019) by [The Veterinary Medicines and Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/676)](https://www.legislation.gov.uk/uksi/2019/676), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/676/regulation/1/2/a), [2(3)(d)](https://www.legislation.gov.uk/uksi/2019/676/regulation/2/3/d)
 

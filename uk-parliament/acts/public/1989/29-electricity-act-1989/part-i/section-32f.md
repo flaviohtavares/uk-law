@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32F. Use of renewables obligation certificates issued in Northern Ireland[^key-874d0cf502973c159148a6c55bbf79a8]
+## 32F. Use of renewables obligation certificates issued in Northern Ireland[^c-874d0cf502973c159148a6c55bbf79a8]
 
 *Extent: E+W+S*
 
@@ -27,10 +27,10 @@ summary: ''
 
 an electricity supplier may (to the extent provided for in accordance with the order) discharge its renewables obligation (or its obligation in relation to a particular period) by the production to the Authority of a Northern Ireland certificate.
 
-(2) In this section “**Northern Ireland certificate**” means a certificate issued by the Northern Ireland authority in accordance with provision included, by virtue of Articles 54 to 54D[^key-a51ff3025a95b3b49118d151680062a5] of the Energy (Northern Ireland) Order 2003, in an order under Article 52 of that Order (renewables obligations for Northern Ireland suppliers).
+(2) In this section “**Northern Ireland certificate**” means a certificate issued by the Northern Ireland authority in accordance with provision included, by virtue of Articles 54 to 54D[^c-a51ff3025a95b3b49118d151680062a5] of the Energy (Northern Ireland) Order 2003, in an order under Article 52 of that Order (renewables obligations for Northern Ireland suppliers).
 
 ## Annotations
 
-[^key-874d0cf502973c159148a6c55bbf79a8]: Textual amendment: Ss. 32-32M substituted for (26.11.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 37](https://www.legislation.gov.uk/ukpga/2008/32/section/37), [110(1)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2008/32/section/38)); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), art. 3(a) (with art. 5)
+[^c-874d0cf502973c159148a6c55bbf79a8]: Textual amendment: Ss. 32-32M substituted for (26.11.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 37](https://www.legislation.gov.uk/ukpga/2008/32/section/37), [110(1)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2008/32/section/38)); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), art. 3(a) (with art. 5)
 
-[^key-a51ff3025a95b3b49118d151680062a5]: Textual amendment: Words in s. 32F(2) substituted (1.4.2009) by [The Energy Act 2008 (Consequential Amendments) Order 2009 (S.I. 2009/556)](https://www.legislation.gov.uk/uksi/2009/556), [arts. 1](https://www.legislation.gov.uk/uksi/2009/556/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/556/article/2/2)
+[^c-a51ff3025a95b3b49118d151680062a5]: Textual amendment: Words in s. 32F(2) substituted (1.4.2009) by [The Energy Act 2008 (Consequential Amendments) Order 2009 (S.I. 2009/556)](https://www.legislation.gov.uk/uksi/2009/556), [arts. 1](https://www.legislation.gov.uk/uksi/2009/556/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/556/article/2/2)

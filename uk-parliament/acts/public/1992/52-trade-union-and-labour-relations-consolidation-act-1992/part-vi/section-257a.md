@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257A. Levy payable to Certification Officer[^key-3497982c693f56bbd8f469a69d34adf4]
+## 257A. Levy payable to Certification Officer[^c-3497982c693f56bbd8f469a69d34adf4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3497982c693f56bbd8f469a69d34adf4]: Textual amendment: S. 257A omitted (1.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 85(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/85/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 2](https://www.legislation.gov.uk/uksi/2026/323/regulation/2)
+[^c-3497982c693f56bbd8f469a69d34adf4]: Textual amendment: S. 257A omitted (1.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 85(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/85/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 2](https://www.legislation.gov.uk/uksi/2026/323/regulation/2)

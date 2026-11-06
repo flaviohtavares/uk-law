@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Disclosure periods applicable to convictions[^key-835b22bc114cd8b9e98134930a674b71]
+## 30. Disclosure periods applicable to convictions[^c-835b22bc114cd8b9e98134930a674b71]
 
 *Extent: S*
 
@@ -116,4 +116,4 @@ summary: ''
 
 ## Annotations
 
-[^key-835b22bc114cd8b9e98134930a674b71]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2019/14/section/30) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-835b22bc114cd8b9e98134930a674b71]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2019/14/section/30) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

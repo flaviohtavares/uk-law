@@ -32,7 +32,7 @@ summary: ''
 
 sea fisheries, england
 
-The Sea Fishing (Prohibition on the Removal of Shark Fins) Order 2007 (revoked)[^key-4c120a429f20593840a817c13529c9b6]
+The Sea Fishing (Prohibition on the Removal of Shark Fins) Order 2007 (revoked)[^c-4c120a429f20593840a817c13529c9b6]
 
 Made
 
@@ -46,71 +46,71 @@ Coming into force
 
 1st October 2007
 
-[^key-4c120a429f20593840a817c13529c9b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c120a429f20593840a817c13529c9b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4c120a429f20593840a817c13529c9b6]
+## 1. Citation and commencement[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extent and application[^key-4c120a429f20593840a817c13529c9b6]
+## 2. Extent and application[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-4c120a429f20593840a817c13529c9b6]
+## 3. Interpretation[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offences[^key-4c120a429f20593840a817c13529c9b6]
+## 4. Offences[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties[^key-4c120a429f20593840a817c13529c9b6]
+## 5. Penalties[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Recovery of fines[^key-4c120a429f20593840a817c13529c9b6]
+## 6. Recovery of fines[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Powers of British sea-fishery officers in relation to fishing boats[^key-4c120a429f20593840a817c13529c9b6]
+## 7. Powers of British sea-fishery officers in relation to fishing boats[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Powers of British sea-fishery officers on land[^key-4c120a429f20593840a817c13529c9b6]
+## 8. Powers of British sea-fishery officers on land[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Warrants to enter premises[^key-4c120a429f20593840a817c13529c9b6]
+## 9. Warrants to enter premises[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Powers of British sea-fishery officers to seize fish and fishing gear[^key-4c120a429f20593840a817c13529c9b6]
+## 10. Powers of British sea-fishery officers to seize fish and fishing gear[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Protection of officers[^key-4c120a429f20593840a817c13529c9b6]
+## 11. Protection of officers[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Obstruction of officers[^key-4c120a429f20593840a817c13529c9b6]
+## 12. Obstruction of officers[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Provisions as to offences[^key-4c120a429f20593840a817c13529c9b6]
+## 13. Provisions as to offences[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Admissibility of documents in evidence[^key-4c120a429f20593840a817c13529c9b6]
+## 14. Admissibility of documents in evidence[^c-4c120a429f20593840a817c13529c9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c120a429f20593840a817c13529c9b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c120a429f20593840a817c13529c9b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS, CONTRAVENTION OF WHICH CONSTITUTES AN OFFENCE[^key-4c120a429f20593840a817c13529c9b6]
+## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS, CONTRAVENTION OF WHICH CONSTITUTES AN OFFENCE[^c-4c120a429f20593840a817c13529c9b6]
 
 Article 4
 
@@ -118,7 +118,7 @@ Article 4
 
 **No longer in force.**
 
-[^key-4c120a429f20593840a817c13529c9b6]EXPLANATORY NOTE
+[^c-4c120a429f20593840a817c13529c9b6]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -134,4 +134,4 @@ An Impact Assessment in relation to this Order has been prepared and placed in t
 
 ## Annotations
 
-[^key-4c120a429f20593840a817c13529c9b6]: Textual amendment: Order revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-4c120a429f20593840a817c13529c9b6]: Textual amendment: Order revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

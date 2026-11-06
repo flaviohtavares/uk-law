@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Entitlement to total incapacity pension[^key-50c2c74711515d4a26e8580fb0855e3f]
+## 113. Entitlement to total incapacity pension[^c-50c2c74711515d4a26e8580fb0855e3f]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50c2c74711515d4a26e8580fb0855e3f]: Commencement: [Reg. 113](https://www.legislation.gov.uk/ssi/2014/292/regulation/113) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-50c2c74711515d4a26e8580fb0855e3f]: Commencement: [Reg. 113](https://www.legislation.gov.uk/ssi/2014/292/regulation/113) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

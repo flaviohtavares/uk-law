@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. The Food and Farming (Amendment) (EU Exit) Regulations 2019[^key-7e0c7aede87459cb1434c5625898ca24]
+## 4. The Food and Farming (Amendment) (EU Exit) Regulations 2019[^c-7e0c7aede87459cb1434c5625898ca24]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Food and Farming (Amendment) (EU Exit) Regulations 2019 [^c24413921] omit
 
 ## Annotations
 
-[^key-7e0c7aede87459cb1434c5625898ca24]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see reg. 1(6)
+[^c-7e0c7aede87459cb1434c5625898ca24]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see reg. 1(6)
 
 [^c24413921]: Marginal citation: [S.I. 2019/759](https://www.legislation.gov.uk/uksi/2019/759).

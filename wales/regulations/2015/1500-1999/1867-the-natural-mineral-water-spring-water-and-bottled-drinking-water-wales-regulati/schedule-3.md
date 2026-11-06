@@ -25,7 +25,7 @@ Regulations 9(1)(a)(iv) and 15(a)(iv)
 **1.** No person may carry out an ozone-enriched air treatment on natural mineral water or water intended to be bottled and labelled as “spring water”, “dŵr ffynnon”, or its equivalent in any other language, unless—
 
 - (a) it is for the purpose of separating compounds of iron, manganese, sulphur and arsenic from water in which they occur naturally at source;
-- (b) prior to treatment the requirements of paragraphs 6, 7 and 8[^key-4e47693e6ae15dd20d0a91ee96f773cd] of Schedule 4 are satisfied; and
+- (b) prior to treatment the requirements of paragraphs 6, 7 and 8[^c-4e47693e6ae15dd20d0a91ee96f773cd] of Schedule 4 are satisfied; and
 - (c) the treatment does not have a disinfectant action.
 
 **2.** An ozone-enriched air treatment must not—
@@ -76,4 +76,4 @@ Regulations 9(1)(a)(iv) and 15(a)(iv)
 
 ## Annotations
 
-[^key-4e47693e6ae15dd20d0a91ee96f773cd]: Textual amendment: Words in [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/wsi/2015/1867/schedule/3/paragraph/1/b) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [12(a)](https://www.legislation.gov.uk/wsi/2017/935/regulation/12/a)
+[^c-4e47693e6ae15dd20d0a91ee96f773cd]: Textual amendment: Words in [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/wsi/2015/1867/schedule/3/paragraph/1/b) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [12(a)](https://www.legislation.gov.uk/wsi/2017/935/regulation/12/a)

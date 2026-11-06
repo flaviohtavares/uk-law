@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554Z2A. Exception to section 554Z2(1): close companies[^key-71d7e0444540e217f013f93acee17c95][^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554Z2A. Exception to section 554Z2(1): close companies[^c-71d7e0444540e217f013f93acee17c95][^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-71d7e0444540e217f013f93acee17c95]: Textual amendment: [S. 554Z2A](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z2A) inserted (with effect in accordance with Sch. 1 para. 14 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/3/2)
+[^c-71d7e0444540e217f013f93acee17c95]: Textual amendment: [S. 554Z2A](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z2A) inserted (with effect in accordance with Sch. 1 para. 14 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/3/2)
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)

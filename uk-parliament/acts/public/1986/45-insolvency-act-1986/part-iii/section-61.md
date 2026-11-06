@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Disposal of interest in property.[^c15571231][^c15571241][^c15571251][^key-53558b149a95aeb326112228b5b44300]
+## 61. Disposal of interest in property.[^c15571231][^c15571241][^c15571251][^c-53558b149a95aeb326112228b5b44300]
 
 *Extent: S*
 
@@ -42,7 +42,7 @@ shall be applied towards discharging the sums secured by the fixed security.
 
 (5) Where a condition imposed in pursuance of subsection (4) relates to two or more such fixed securities, that condition shall require the net proceeds of the disposal and, where paragraph (b) of that subsection applies, the sums mentioned in that paragraph to be applied towards discharging the sums secured by those fixed securities in the order of their priorities.
 
-(6)[^key-3ffe5a5b6157ab63e7fdfd4c79d50dcf] A copy of an authorisation under subsection (2) [^c20448001]. . . shall, within 14 days of the granting of the authorisation, be sent by the receiver to the registrar of companies.
+(6)[^c-3ffe5a5b6157ab63e7fdfd4c79d50dcf] A copy of an authorisation under subsection (2) [^c20448001]. . . shall, within 14 days of the granting of the authorisation, be sent by the receiver to the registrar of companies.
 
 (7) If the receiver without reasonable excuse fails to comply with subsection (6), he is liable to a fine and, for continued contravention, to a daily default fine.
 
@@ -61,10 +61,10 @@ shall be applied towards discharging the sums secured by the fixed security.
 
 [^c15571251]: Modification: S. 61 applied (with modifications) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(1)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2)
 
-[^key-53558b149a95aeb326112228b5b44300]: Modification: [S. 61](https://www.legislation.gov.uk/ukpga/1986/45/section/61) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-53558b149a95aeb326112228b5b44300]: Modification: [S. 61](https://www.legislation.gov.uk/ukpga/1986/45/section/61) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
 
 [^c19753291]: Textual amendment: S. 61(1A) inserted (22.4.2009) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 155(2)](https://www.legislation.gov.uk/asp/2007/3/section/155/2), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(a)](https://www.legislation.gov.uk/ssi/2009/67/article/3/a) (with [arts. 5](https://www.legislation.gov.uk/ssi/2009/67/article/5), [6](https://www.legislation.gov.uk/ssi/2009/67/article/6)); as amended by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), [art. 5](https://www.legislation.gov.uk/ssi/2011/31/article/5)
 
-[^key-3ffe5a5b6157ab63e7fdfd4c79d50dcf]: Modification: S. 61(6) amended (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 125](https://www.legislation.gov.uk/ukpga/1998/46/section/125), [Sch. 8 para. 23(2)(3)](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8/paragraph/23/2/3); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2) (as amended (28.6.2016) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1), [6](https://www.legislation.gov.uk/uksi/2016/679/article/6))
+[^c-3ffe5a5b6157ab63e7fdfd4c79d50dcf]: Modification: S. 61(6) amended (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 125](https://www.legislation.gov.uk/ukpga/1998/46/section/125), [Sch. 8 para. 23(2)(3)](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8/paragraph/23/2/3); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2) (as amended (28.6.2016) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1), [6](https://www.legislation.gov.uk/uksi/2016/679/article/6))
 
 [^c20448001]: Textual amendment: Words in s. 61(6) omitted (1.10.2009) by virtue of The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009, ([S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941)) arts. 2(1), 8, {Sch. 1 para. 74(6)} (with art. 10, Sch. 1 para. 84)

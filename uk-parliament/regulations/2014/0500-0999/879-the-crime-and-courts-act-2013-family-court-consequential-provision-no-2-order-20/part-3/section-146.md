@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**146.**[^key-63a5f4e2386ddadc132ca5e358a09851] The provisions in column 1 of the table in the Schedule are revoked to the extent specified in column 3 of the table.
+**146.**[^c-63a5f4e2386ddadc132ca5e358a09851] The provisions in column 1 of the table in the Schedule are revoked to the extent specified in column 3 of the table.
 
 ## Annotations
 
-[^key-63a5f4e2386ddadc132ca5e358a09851]: Commencement: Art. 146 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-63a5f4e2386ddadc132ca5e358a09851]: Commencement: Art. 146 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

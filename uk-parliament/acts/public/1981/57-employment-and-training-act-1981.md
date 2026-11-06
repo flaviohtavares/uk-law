@@ -47,7 +47,7 @@ An Act to amend the Industrial Training Act 1964; to abolish the Employment Serv
 
 ### 9. Abolition of Employment Service Agency and Training Services Agency.
 
-(1)[^key-e1715b5d2c4be2fadb2cfcb9cd1f6dc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e1715b5d2c4be2fadb2cfcb9cd1f6dc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The provisions of Schedule 2 to this Act, Part I of which contains provisions supplementary to the abolition of the said Agencies and Part II of which contains amendments consequential on their abolition, shall have effect.
 
@@ -55,7 +55,7 @@ An Act to amend the Industrial Training Act 1964; to abolish the Employment Serv
 
 (1) Any sums received by a body to which this section applies shall be paid into the Consolidated Fund except to such extent as the Secretary of State and the Treasury agree to their retention by that body.
 
-(2) This section applies to . . . [^c865092], the Advisory, Conciliation and Arbitration Service[^key-e936b2ca94b46b89bd36f43d911e62fd]... and the Health and Safety Executive.
+(2) This section applies to . . . [^c865092], the Advisory, Conciliation and Arbitration Service[^c-e936b2ca94b46b89bd36f43d911e62fd]... and the Health and Safety Executive.
 
 ## Supplementary
 
@@ -69,7 +69,7 @@ An Act to amend the Industrial Training Act 1964; to abolish the Employment Serv
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c865094]
 
-(4) The provisions of this Act [^key-6b5b10272fa38ef1b8c51b1705dea210]... do not extend to Northern Ireland.
+(4) The provisions of this Act [^c-6b5b10272fa38ef1b8c51b1705dea210]... do not extend to Northern Ireland.
 
 SCHEDULES
 
@@ -85,7 +85,7 @@ Section 9.
 
 *Extent: E+W+S*
 
-### Part II — Consequential Amendments[^c865097][^key-7579e52d92ecc604d7eae9f83d105d13]
+### Part II — Consequential Amendments[^c865097][^c-7579e52d92ecc604d7eae9f83d105d13]
 
 *Extent: E+W+S*
 
@@ -95,25 +95,25 @@ Section 9.
 
 *Extent: E+W+S*
 
-**5.**[^key-91b7bb9b1c10b1fe74eae167ed9aa1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-91b7bb9b1c10b1fe74eae167ed9aa1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6, 7.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c865100]
 
 **8, 9.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c865101]
 
-**10.**[^key-d839656d0f0de9c9b9d9a3251c43368f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d839656d0f0de9c9b9d9a3251c43368f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-9ab24e0887a05c01d07e38091d60040b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-9ab24e0887a05c01d07e38091d60040b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c865102]
 
-**13.**[^key-8a1dd9065a8f8b455f2dafb23fc05146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8a1dd9065a8f8b455f2dafb23fc05146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14, 15.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c865103]
 
 #### The House of Commons Disqualification Act 1975[^c865104]
 
-**16.**[^key-8bc40948fee9d9d532db7896d1f91d15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-8bc40948fee9d9d532db7896d1f91d15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -173,17 +173,17 @@ Section 11(2).
 
 [^c865091]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/1981/57/section/1)—8, 11(3), Sch. 1, Sch. 2 Pt. II para. 4 repealed by [Industrial Training Act 1982 (c. 10, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1982/10), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1982/10/section/20/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/10/schedule/4)
 
-[^key-e1715b5d2c4be2fadb2cfcb9cd1f6dc7]: Textual amendment: [S. 9(1)](https://www.legislation.gov.uk/ukpga/1981/57/section/9/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-e1715b5d2c4be2fadb2cfcb9cd1f6dc7]: Textual amendment: [S. 9(1)](https://www.legislation.gov.uk/ukpga/1981/57/section/9/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c865092]: Textual amendment: Words repealed by virtue of [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 33(1)](https://www.legislation.gov.uk/ukpga/1988/19/section/33/1), [Sch. 3 Pt. II para. 7(i)](https://www.legislation.gov.uk/ukpga/1988/19/schedule/3/part/II/paragraph/7/i) and [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4) Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4/schedule/7/part/I)
 
-[^key-e936b2ca94b46b89bd36f43d911e62fd]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/ukpga/1981/57/section/10/2) omitted (1.4.2008) by virtue of [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
+[^c-e936b2ca94b46b89bd36f43d911e62fd]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/ukpga/1981/57/section/10/2) omitted (1.4.2008) by virtue of [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
 [^c865093]: Modification: The text of s. 11(2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1. 2. 1991
 
 [^c865094]: Textual amendment: Ss. 1—8, 11(3), Sch. 1, Sch. 2 Pt. II para. 4 repealed by [Industrial Training Act 1982 (c. 10, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1982/10), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1982/10/section/20/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/10/schedule/4)
 
-[^key-6b5b10272fa38ef1b8c51b1705dea210]: Textual amendment: Words in [s. 11(4)](https://www.legislation.gov.uk/ukpga/1981/57/section/11/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-6b5b10272fa38ef1b8c51b1705dea210]: Textual amendment: Words in [s. 11(4)](https://www.legislation.gov.uk/ukpga/1981/57/section/11/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c865095]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/1981/57/section/1)—8, 11(3), Sch. 1, Sch. 2 Pt. II para. 4 repealed by [Industrial Training Act 1982 (c. 10, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1982/10), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1982/10/section/20/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/10/schedule/4)
 
@@ -191,31 +191,31 @@ Section 11(2).
 
 [^c865097]: Modification: The text of Sch. 2 Pt.II is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1. 2. 1991
 
-[^key-7579e52d92ecc604d7eae9f83d105d13]: Modification: Sch. 2 Pt. 2 incorporated (with modifications) (27.9.2016) by [The Triton Knoll Electrical System Order 2016 (S.I. 2016/880)](https://www.legislation.gov.uk/uksi/2016/880), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2), [16](https://www.legislation.gov.uk/uksi/2016/880/article/16) (with [arts. 39](https://www.legislation.gov.uk/uksi/2016/880/article/39), [40](https://www.legislation.gov.uk/uksi/2016/880/article/40), [Sch. 8 para. 19](https://www.legislation.gov.uk/uksi/2016/880/schedule/8/paragraph/19))
+[^c-7579e52d92ecc604d7eae9f83d105d13]: Modification: Sch. 2 Pt. 2 incorporated (with modifications) (27.9.2016) by [The Triton Knoll Electrical System Order 2016 (S.I. 2016/880)](https://www.legislation.gov.uk/uksi/2016/880), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2), [16](https://www.legislation.gov.uk/uksi/2016/880/article/16) (with [arts. 39](https://www.legislation.gov.uk/uksi/2016/880/article/39), [40](https://www.legislation.gov.uk/uksi/2016/880/article/40), [Sch. 8 para. 19](https://www.legislation.gov.uk/uksi/2016/880/schedule/8/paragraph/19))
 
 [^c865098]: Textual amendment: Ss. 1—8, 11(3), Sch. 1, Sch. 2 Pt. II para. 4 repealed by [Industrial Training Act 1982 (c. 10, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1982/10), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1982/10/section/20/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/10/schedule/4)
 
 [^c865099]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
 
-[^key-91b7bb9b1c10b1fe74eae167ed9aa1e8]: Textual amendment: Sch. 2 para. 5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-91b7bb9b1c10b1fe74eae167ed9aa1e8]: Textual amendment: Sch. 2 para. 5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c865100]: Textual amendment: Sch. 2 Pt. II paras. 6, 7 repealed by [Industrial Development Act 1982 (c. 52, SIF 64)](https://www.legislation.gov.uk/ukpga/1982/52), [Sch. 3](https://www.legislation.gov.uk/ukpga/1982/52/schedule/3)
 
 [^c865101]: Textual amendment: Sch. 2 Pt. II paras. 8, 9, 12, 14, 15, 17, 19, 21 repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
 
-[^key-d839656d0f0de9c9b9d9a3251c43368f]: Textual amendment: Sch. 2 para. 10 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-d839656d0f0de9c9b9d9a3251c43368f]: Textual amendment: Sch. 2 para. 10 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-9ab24e0887a05c01d07e38091d60040b]: Textual amendment: Sch. 2 para. 11 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-9ab24e0887a05c01d07e38091d60040b]: Textual amendment: Sch. 2 para. 11 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c865102]: Textual amendment: Sch. 2 Pt. II paras. 8, 9, 12, 14, 15, 17, 19, 21 repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
 
-[^key-8a1dd9065a8f8b455f2dafb23fc05146]: Textual amendment: Sch. 2 para. 13 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-8a1dd9065a8f8b455f2dafb23fc05146]: Textual amendment: Sch. 2 para. 13 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c865103]: Textual amendment: Sch. 2 Pt. II paras. 8, 9, 12, 14, 15, 17, 19, 21 repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
 
 [^c865104]: Marginal citation: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 
-[^key-8bc40948fee9d9d532db7896d1f91d15]: Textual amendment: Sch. 2 para. 16 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-8bc40948fee9d9d532db7896d1f91d15]: Textual amendment: Sch. 2 para. 16 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c865105]: Textual amendment: Sch. 2 Pt. II paras. 8, 9, 12, 14, 15, 17, 19, 21 repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
 

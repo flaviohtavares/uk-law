@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.8. Relevant registry: cover sheets[^key-4eabfd2ca68059f5d0a6cc45bb000786]
+## 7.8. Relevant registry: cover sheets[^c-4eabfd2ca68059f5d0a6cc45bb000786]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4eabfd2ca68059f5d0a6cc45bb000786]: Commencement: Rule 7.8 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-4eabfd2ca68059f5d0a6cc45bb000786]: Commencement: Rule 7.8 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

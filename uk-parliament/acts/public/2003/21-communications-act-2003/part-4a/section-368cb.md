@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368CB. Quota for European works[^key-97079af21bc75467bb162112512affce][^key-8b5116708328654f497f918c49a3b13d]
+## 368CB. Quota for European works[^c-97079af21bc75467bb162112512affce][^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,17 +37,17 @@ summary: ''
 
 (7) In this section—
 
-- “European works” has the same meaning as in the Audiovisual Media Services Directive as it has effect in EU law as amended from time to time[^key-5f7d7c1a2e0429148a9a00467d4a87bf] (see Article 1(1)(n), (2) and (3) of that Directive) and includes works deemed to be European works by Article 1(4) of that Directive;
+- “European works” has the same meaning as in the Audiovisual Media Services Directive as it has effect in EU law as amended from time to time[^c-5f7d7c1a2e0429148a9a00467d4a87bf] (see Article 1(1)(n), (2) and (3) of that Directive) and includes works deemed to be European works by Article 1(4) of that Directive;
 - “programmes” does not include advertisements, news programmes, sports events, games, teletext services or teleshopping.
 
-(8) This section is to be interpreted in accordance with the Communication from the European Commission (2020/C223/03) “Guidelines pursuant to Article 13(7) of the Audiovisual Media Services Directive on the calculation of the share of European works in on-demand catalogues and on the definition of low audience and low turnover” published in Volume 63 of the Official Journal of the European Union on 7 July 2020 as amended from time to time[^key-13c60c5a5439ea7e348e44ca0a577cf1].
+(8) This section is to be interpreted in accordance with the Communication from the European Commission (2020/C223/03) “Guidelines pursuant to Article 13(7) of the Audiovisual Media Services Directive on the calculation of the share of European works in on-demand catalogues and on the definition of low audience and low turnover” published in Volume 63 of the Official Journal of the European Union on 7 July 2020 as amended from time to time[^c-13c60c5a5439ea7e348e44ca0a577cf1].
 
 ## Annotations
 
-[^key-97079af21bc75467bb162112512affce]: Textual amendment: S. 368CB inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1062/regulation/30) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-97079af21bc75467bb162112512affce]: Textual amendment: S. 368CB inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1062/regulation/30) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
+[^c-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
 
-[^key-5f7d7c1a2e0429148a9a00467d4a87bf]: Textual amendment: Words in [s. 368CB(7)](https://www.legislation.gov.uk/ukpga/2003/21/section/368CB/7) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(h)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/h), [Sch. 12 para. 7(a)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/7/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z6)
+[^c-5f7d7c1a2e0429148a9a00467d4a87bf]: Textual amendment: Words in [s. 368CB(7)](https://www.legislation.gov.uk/ukpga/2003/21/section/368CB/7) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(h)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/h), [Sch. 12 para. 7(a)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/7/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z6)
 
-[^key-13c60c5a5439ea7e348e44ca0a577cf1]: Textual amendment: Words in [s. 368CB(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/368CB/8) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(h)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/h), [Sch. 12 para. 7(b)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/7/b); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z6)
+[^c-13c60c5a5439ea7e348e44ca0a577cf1]: Textual amendment: Words in [s. 368CB(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/368CB/8) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(h)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/h), [Sch. 12 para. 7(b)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/7/b); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Exceptions[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
+## 7. Exceptions[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46e1bfc2243ba63ac8c8f4b30d7fa2c4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/59) revoked (1.4.2025) by [The School and Early Years Finance (England) Regulations 2025 (S.I. 2025/42)](https://www.legislation.gov.uk/uksi/2025/42), [reg. 2](https://www.legislation.gov.uk/uksi/2025/42/regulation/2)
+[^c-46e1bfc2243ba63ac8c8f4b30d7fa2c4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/59) revoked (1.4.2025) by [The School and Early Years Finance (England) Regulations 2025 (S.I. 2025/42)](https://www.legislation.gov.uk/uksi/2025/42), [reg. 2](https://www.legislation.gov.uk/uksi/2025/42/regulation/2)

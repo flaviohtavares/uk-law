@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Power to amend this Act in relation to private utilities[^key-d271dee64fa6dd6f8a84d6f07d4914de]
+## 121. Power to amend this Act in relation to private utilities[^c-d271dee64fa6dd6f8a84d6f07d4914de]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d271dee64fa6dd6f8a84d6f07d4914de]: Commencement: S. 121 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)
+[^c-d271dee64fa6dd6f8a84d6f07d4914de]: Commencement: S. 121 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)

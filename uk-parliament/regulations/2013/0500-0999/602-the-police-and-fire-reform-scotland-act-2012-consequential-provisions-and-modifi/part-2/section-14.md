@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Pensions: special constables and police cadets[^key-adda52fd5624b7001abc94c9e7351835]
+## 14. Pensions: special constables and police cadets[^c-adda52fd5624b7001abc94c9e7351835]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adda52fd5624b7001abc94c9e7351835]: Commencement: Art. 14 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-adda52fd5624b7001abc94c9e7351835]: Commencement: Art. 14 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

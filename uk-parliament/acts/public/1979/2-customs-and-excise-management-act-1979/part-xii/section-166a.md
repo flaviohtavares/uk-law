@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166A. Regulations about movement of goods[^key-b0a25b76d5f4a3fd1f0cae2c403576b3]
+## 166A. Regulations about movement of goods[^c-b0a25b76d5f4a3fd1f0cae2c403576b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0a25b76d5f4a3fd1f0cae2c403576b3]: Textual amendment: [Ss. 166A-166C](https://www.legislation.gov.uk/ukpga/1979/2/section/166A) and cross-heading inserted (1.3.2021) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2020/29/section/21/2), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/3/a)
+[^c-b0a25b76d5f4a3fd1f0cae2c403576b3]: Textual amendment: [Ss. 166A-166C](https://www.legislation.gov.uk/ukpga/1979/2/section/166A) and cross-heading inserted (1.3.2021) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2020/29/section/21/2), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/3/a)

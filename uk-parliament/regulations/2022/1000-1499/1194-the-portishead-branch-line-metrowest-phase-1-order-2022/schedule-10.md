@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — Land in which only new rights, etc., may be acquired[^key-4d00e3f7655978eb273857ec65fb400d]
+## SCHEDULE 10 — Land in which only new rights, etc., may be acquired[^c-4d00e3f7655978eb273857ec65fb400d]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ Article 27
 
 ## Annotations
 
-[^key-4d00e3f7655978eb273857ec65fb400d]: Commencement: Sch. 10 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-4d00e3f7655978eb273857ec65fb400d]: Commencement: Sch. 10 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.13. Costs consequences of acceptance of a Part 36 offer[^key-e9908447b00f164a4af1faf75a60688f]
+## 36.13. Costs consequences of acceptance of a Part 36 offer[^c-e9908447b00f164a4af1faf75a60688f]
 
 *Extent: E+W*
 
-(1) Subject to paragraphs (2) and (4) and to rule 36.23[^key-37280291198e0c27b82448f070506afe], where a Part 36 offer is accepted within the relevant period the claimant will be entitled to the costs of the proceedings (including their recoverable pre-action costs) up to the date on which notice of acceptance was served on the offeror.
+(1) Subject to paragraphs (2) and (4) and to rule 36.23[^c-37280291198e0c27b82448f070506afe], where a Part 36 offer is accepted within the relevant period the claimant will be entitled to the costs of the proceedings (including their recoverable pre-action costs) up to the date on which notice of acceptance was served on the offeror.
 
-[^key-8a4a3254c4432d6dd5bb415808fe66d5]...
+[^c-8a4a3254c4432d6dd5bb415808fe66d5]...
 
 (2) Where—
 
@@ -58,8 +58,8 @@ the liability for costs must be determined by the court unless the parties have 
 
 ## Annotations
 
-[^key-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))
+[^c-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))
 
-[^key-37280291198e0c27b82448f070506afe]: Textual amendment: Word in rule 36.13 substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/19/2)
+[^c-37280291198e0c27b82448f070506afe]: Textual amendment: Word in rule 36.13 substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/19/2)
 
-[^key-8a4a3254c4432d6dd5bb415808fe66d5]: Textual amendment: Words in rule 36.13 omitted (1.10.2023) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/6) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8a4a3254c4432d6dd5bb415808fe66d5]: Textual amendment: Words in rule 36.13 omitted (1.10.2023) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/6) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))

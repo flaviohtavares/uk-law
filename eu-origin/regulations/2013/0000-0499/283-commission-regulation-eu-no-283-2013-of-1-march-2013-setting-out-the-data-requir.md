@@ -78,27 +78,27 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Data requirements for active substances
 
-(1.)[^key-87e46b8980e208a47934d25fa7a658b7] The data requirements for the active substance provided for in Article 8(1)(b) of Regulation (EC) No 1107/2009 shall be as set out in the Annex to this Regulation.
+(1.)[^c-87e46b8980e208a47934d25fa7a658b7] The data requirements for the active substance provided for in Article 8(1)(b) of Regulation (EC) No 1107/2009 shall be as set out in the Annex to this Regulation.
 
-(2.)[^key-0531fdf38f5056ded9204ff3b66a1cbc] Paragraph 1 does not apply where Regulation (EU) No 544/2011 applies (see Article A1 of that Regulation).
+(2.)[^c-0531fdf38f5056ded9204ff3b66a1cbc] Paragraph 1 does not apply where Regulation (EU) No 544/2011 applies (see Article A1 of that Regulation).
 
-## Article 2. Repeal[^key-2fd7f77d9b10297e5cef4950d9128b7f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 3. Transitional measures as regards procedures concerning active substances[^key-2fd7f77d9b10297e5cef4950d9128b7f]
+## Article 2. Repeal[^c-2fd7f77d9b10297e5cef4950d9128b7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transitional measures as regards procedures concerning plant protection products[^key-2fd7f77d9b10297e5cef4950d9128b7f]
+## Article 3. Transitional measures as regards procedures concerning active substances[^c-2fd7f77d9b10297e5cef4950d9128b7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force and date of application[^key-2fd7f77d9b10297e5cef4950d9128b7f]
+## Article 4. Transitional measures as regards procedures concerning plant protection products[^c-2fd7f77d9b10297e5cef4950d9128b7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4827f9b9b5c8327ceaf38a183e36814f]...
+## Article 5. Entry into force and date of application[^c-2fd7f77d9b10297e5cef4950d9128b7f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4827f9b9b5c8327ceaf38a183e36814f]...
 
 ## ANNEX
 
@@ -139,7 +139,7 @@ In such a case a justification shall be provided.
 
 The simultaneous use of the active substance as a biocide or in veterinary medicine shall be reported.
 
-If the applicant for the active substance in the plant protection product is identical to the one responsible for the notification of the active substance as a biocide or as a veterinary medicine, a summary of all relevant data submitted for approval of the biocide or the veterinary medicine, shall be submitted. This summary shall include toxicological reference values and MRL proposals, taking into account any possible cumulative exposure due to different uses of the same substance based on scientific methods accepted by the [^key-e3f81fa3668899e6e63903fab547fbcd]... competent authorities, together with a summary of the residues and toxicology data and information on the use of the product.
+If the applicant for the active substance in the plant protection product is identical to the one responsible for the notification of the active substance as a biocide or as a veterinary medicine, a summary of all relevant data submitted for approval of the biocide or the veterinary medicine, shall be submitted. This summary shall include toxicological reference values and MRL proposals, taking into account any possible cumulative exposure due to different uses of the same substance based on scientific methods accepted by the [^c-e3f81fa3668899e6e63903fab547fbcd]... competent authorities, together with a summary of the residues and toxicology data and information on the use of the product.
 
 If the applicant for the active substance in the plant protection product is not identical to the one responsible for the notification of the active substance as a biocide or in veterinary medicine, a summary of all available data shall be submitted.
 
@@ -157,7 +157,7 @@ The information shall include a list of endpoints for the active substance.
 
 1.10.
 
-Where relevant, the information shall be generated in accordance with the Animals (Scientific Procedures) Act 1986[^key-45746bdbeb375f6cf929658be09c8e60].
+Where relevant, the information shall be generated in accordance with the Animals (Scientific Procedures) Act 1986[^c-45746bdbeb375f6cf929658be09c8e60].
 
 1.11.
 
@@ -196,7 +196,7 @@ Where relevant, tests shall be designed and data analysed using appropriate stat
 
 1.13.
 
-Exposure calculations shall refer to scientific methods set out in guidance issued in accordance with Article 77 of Regulation[^key-e99218d1d347b03e19a228603b498915] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), when available. Additional methods, when used, shall be justified.
+Exposure calculations shall refer to scientific methods set out in guidance issued in accordance with Article 77 of Regulation[^c-e99218d1d347b03e19a228603b498915] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), when available. Additional methods, when used, shall be justified.
 
 1.14.
 
@@ -204,7 +204,7 @@ For each section of the data requirements, a summary of all data, information an
 
 2\.
 
-The requirements set out in this Regulation shall represent the minimum data to be submitted. Additional requirements [^key-a2fc84b94a10e5c44037fa1912dd5578]... may be necessary in specific circumstances, that is to say specific scenarios, patterns of use other than those taken into account for approval. Careful attention shall be given to environmental, climatic and agronomic conditions when tests are set up and approved by the competent authorities.
+The requirements set out in this Regulation shall represent the minimum data to be submitted. Additional requirements [^c-a2fc84b94a10e5c44037fa1912dd5578]... may be necessary in specific circumstances, that is to say specific scenarios, patterns of use other than those taken into account for approval. Careful attention shall be given to environmental, climatic and agronomic conditions when tests are set up and approved by the competent authorities.
 
 3\.
 
@@ -212,7 +212,7 @@ The requirements set out in this Regulation shall represent the minimum data to 
 
 3.1.
 
-Tests and analyses shall be conducted in accordance with the principles laid down in Annex 1 to[^key-579b7f9e33f81e04339a7a356e280c2d] Directive 2004/10/EC of the European Parliament and of the Council[^f00009] where testing is done to obtain data on the properties or safety with respect to human or animal health or the environment.
+Tests and analyses shall be conducted in accordance with the principles laid down in Annex 1 to[^c-579b7f9e33f81e04339a7a356e280c2d] Directive 2004/10/EC of the European Parliament and of the Council[^f00009] where testing is done to obtain data on the properties or safety with respect to human or animal health or the environment.
 
 3.2.
 
@@ -222,7 +222,7 @@ By way of derogation from point 3.1:
 - For tests and analyses made to obtain data for minor crops required under points 6.3 and 6.5.2 of Part A:
   - the field phase may have been conducted by official or officially recognised testing facilities or organisations which satisfy at least the requirements as laid down in points 3.2 and 3.3 of the introduction of the Annex to Regulation (EU) No 284/2013;
   - the analytical phase, if not done in accordance with the GLP requirements, shall be conducted by laboratories accredited for the relevant method in accordance with the European standard EN ISO/IEC 17025 ‘General requirements for the competence of testing and calibration laboratories’.
-- Studies conducted before 1st January 2014[^key-0563306b2289b4eb8052d74f6aadaee7], although not fully compliant with GLP requirements or with current test methods, may be integrated into the assessment, when accepted by the competent authorities as scientifically valid, thereby removing the need for repeating animal tests, especially for carcinogenicity and reprotoxicity studies. This derogation applies to studies on all vertebrate species.
+- Studies conducted before 1st January 2014[^c-0563306b2289b4eb8052d74f6aadaee7], although not fully compliant with GLP requirements or with current test methods, may be integrated into the assessment, when accepted by the competent authorities as scientifically valid, thereby removing the need for repeating animal tests, especially for carcinogenicity and reprotoxicity studies. This derogation applies to studies on all vertebrate species.
 
 4\.
 
@@ -272,7 +272,7 @@ Tests involving the deliberate administration of the active substance or the pla
 
 For ethical reasons, study designs shall be carefully considered, taking into account the scope for reduction, refinement and replacement of animal tests. For example, by including one or more additional dose groups or time points for blood sampling in one study, it may be possible to avoid the need for another study.
 
-[^key-50b1cae5aac612de7982bdddf4fa23db]6.
+[^c-50b1cae5aac612de7982bdddf4fa23db]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -292,7 +292,7 @@ The name and address of the applicant shall be provided, as well as the name, po
 
 **Producer**
 
-The name and address of the producer of the active substance shall be provided, as well as the name and address of each manufacturing plant in which the active substance is manufactured. A contact point (name, telephone, e-mail address and telefax number) shall be provided. Where following approval of the active substances, there are changes in the location or number of producers, the information required shall again be notified to the competent authorities[^key-db62926e9e4b3fdc9780c3308d9c4911].
+The name and address of the producer of the active substance shall be provided, as well as the name and address of each manufacturing plant in which the active substance is manufactured. A contact point (name, telephone, e-mail address and telefax number) shall be provided. Where following approval of the active substances, there are changes in the location or number of producers, the information required shall again be notified to the competent authorities[^c-db62926e9e4b3fdc9780c3308d9c4911].
 
 1.3.
 
@@ -304,9 +304,9 @@ The International Organization for Standardization (ISO) common name, or propose
 
 **Chemical name (IUPAC and CA nomenclature)**
 
-The chemical name as given in the GB mandatory classification and labelling list[^key-6960395414dfb57a297010dd55b7e9af], or, if not included in that list[^key-4a659a8f52a0c81e1986c53d4b34dbb8], in accordance with both the International Union of Pure and Applied Chemistry (IUPAC) and Chemical Abstracts (CA) nomenclature, shall be provided, where applicable.
+The chemical name as given in the GB mandatory classification and labelling list[^c-6960395414dfb57a297010dd55b7e9af], or, if not included in that list[^c-4a659a8f52a0c81e1986c53d4b34dbb8], in accordance with both the International Union of Pure and Applied Chemistry (IUPAC) and Chemical Abstracts (CA) nomenclature, shall be provided, where applicable.
 
-1.4.1[^key-636a31720ce737a03410384d38c60b03]
+1.4.1[^c-636a31720ce737a03410384d38c60b03]
 
 In point 1.4, “**the GB mandatory classification and labelling list**” means the list of mandatory classification and labelling requirements of substances and groups of substances established and maintained in accordance with Article 38A of Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272).
 
@@ -314,7 +314,7 @@ In point 1.4, “**the GB mandatory classification and labelling list**” means
 
 **Producer's development code numbers**
 
-Code numbers used to identify the active substance, and where available, formulations containing the active substance, during development work, shall be reported. For each code number reported, the material to which it relates, the period for which it was used, and the [^key-62b46ee697f58400ff4a2d661879bce3]... other countries in which it was used and is being used, shall be stated.
+Code numbers used to identify the active substance, and where available, formulations containing the active substance, during development work, shall be reported. For each code number reported, the material to which it relates, the period for which it was used, and the [^c-62b46ee697f58400ff4a2d661879bce3]... other countries in which it was used and is being used, shall be stated.
 
 1.6.
 
@@ -646,7 +646,7 @@ The studies, data and information submitted, together with other relevant studie
 
 **Procedures for destruction or decontamination**
 
-In many cases the preferred or sole means to safely dispose of active substances, contaminated materials, or contaminated packaging is through controlled incineration in a licensed incinerator. Such incineration shall be carried out in accordance with the criteria set out in the EU-derived domestic legislation which transposed Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control)[^key-c4bc046984fd7e39a4059d1a628d2272].
+In many cases the preferred or sole means to safely dispose of active substances, contaminated materials, or contaminated packaging is through controlled incineration in a licensed incinerator. Such incineration shall be carried out in accordance with the criteria set out in the EU-derived domestic legislation which transposed Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control)[^c-c4bc046984fd7e39a4059d1a628d2272].
 
 Other methods to dispose of the active substance, contaminated packaging and contaminated materials, where proposed, shall be fully described. Data shall be provided for such methods, to establish their effectiveness and safety.
 
@@ -729,7 +729,7 @@ Data shall be generated at the LOQ and either the likely residue levels or ten t
 
 Methods, with a full description, shall be submitted for:
 
-- ((a)) the determination of all components included in the monitoring residue definition as submitted in accordance with the provisions of point 6.7.1 in order to enable competent authorities[^key-b8ddb5d631388fd4c19ead32d4947fcc] to determine compliance with established maximum residue levels (MRLs); they shall cover residues in or on food and feed of plant and animal origin;
+- ((a)) the determination of all components included in the monitoring residue definition as submitted in accordance with the provisions of point 6.7.1 in order to enable competent authorities[^c-b8ddb5d631388fd4c19ead32d4947fcc] to determine compliance with established maximum residue levels (MRLs); they shall cover residues in or on food and feed of plant and animal origin;
 - ((b)) the determination of all components included for monitoring purposes in the residue definitions for soil and water as submitted in accordance with the provisions of point 7.4.2;
 - ((c)) the analysis in air of the active substance and relevant breakdown products formed during or after application, unless the applicant shows that exposure of operators, workers, residents or bystanders is negligible;
 - ((d)) the analysis in body fluids and tissues for active substances and relevant metabolites.
@@ -1271,13 +1271,13 @@ If there is evidence that the active substance may have endocrine disrupting pro
 - to elucidate the mode/mechanism of action,
 - to provide sufficient evidence for relevant adverse effects.
 
-Studies required shall be designed on an individual basis and taking into account national[^key-2ffedb31ecba22e227ceed1036153573] or internationally agreed guidelines, in the light of the particular parameters to be investigated and the objectives to be achieved.
+Studies required shall be designed on an individual basis and taking into account national[^c-2ffedb31ecba22e227ceed1036153573] or internationally agreed guidelines, in the light of the particular parameters to be investigated and the objectives to be achieved.
 
 5.9.
 
 **Medical data**
 
-Where available and without prejudice to the EU-derived domestic legislation which transposed[^key-9e28a5d7ef14e226970c3b837ec60aa5] Article 10 of Council Directive 98/24/EC[^f00016], practical data and information relevant to the recognition of the symptoms of poisoning and on the effectiveness of first aid and therapeutic measures shall be submitted. Such data and information shall include reports of any studies investigating antidote pharmacology or safety pharmacology. Where relevant, the effectiveness of potential antagonists to poisoning shall be investigated and reported.
+Where available and without prejudice to the EU-derived domestic legislation which transposed[^c-9e28a5d7ef14e226970c3b837ec60aa5] Article 10 of Council Directive 98/24/EC[^f00016], practical data and information relevant to the recognition of the symptoms of poisoning and on the effectiveness of first aid and therapeutic measures shall be submitted. Such data and information shall include reports of any studies investigating antidote pharmacology or safety pharmacology. Where relevant, the effectiveness of potential antagonists to poisoning shall be investigated and reported.
 
 Data and information relevant to the effects of human exposure, where available, shall be used to confirm the validity of extrapolations made and conclusions reached with respect to target organs, dose-response relationships, and the reversibility of adverse effects. Such data may be generated following accidental, occupational exposure or incidents of intentional self-poisoning, and shall be reported if available.
 
@@ -1512,19 +1512,19 @@ When establishing a supervised residue trial programme, factors such as main gro
 
 Differences in agricultural production methods (for example outdoor versus indoor uses), seasons of production and types of formulations shall be taken into account.
 
-For the evaluation of residue behaviour and the setting of maximum residue levels (MRLs) according to Regulation[^key-f4dfafefce3ac8a402aa02cb0acf8bdf] [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396), residues trials data relevant to the agricultural practices in the UK must be provided. The trials must correspond to the critical GAP and the production conditions (such as cultural practices, climatic conditions) must be comparable to the UK. Differences in agricultural production methods (for example outdoor versus indoor uses), seasons of production, and types of formulation shall be taken into account.
+For the evaluation of residue behaviour and the setting of maximum residue levels (MRLs) according to Regulation[^c-f4dfafefce3ac8a402aa02cb0acf8bdf] [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396), residues trials data relevant to the agricultural practices in the UK must be provided. The trials must correspond to the critical GAP and the production conditions (such as cultural practices, climatic conditions) must be comparable to the UK. Differences in agricultural production methods (for example outdoor versus indoor uses), seasons of production, and types of formulation shall be taken into account.
 
-The number of trials necessary is difficult to determine before the evaluation of their results. Assuming all other variables having an impact on the residue levels are comparable, the minimum number of trials shall vary [^key-93fbb4a0a28896e004ed7e663d8fee17]... between a minimum of 4 trials for a minor crop and a minimum of 8 trials for a major crop.
+The number of trials necessary is difficult to determine before the evaluation of their results. Assuming all other variables having an impact on the residue levels are comparable, the minimum number of trials shall vary [^c-93fbb4a0a28896e004ed7e663d8fee17]... between a minimum of 4 trials for a minor crop and a minimum of 8 trials for a major crop.
 
-[^key-577a7ecc7420a13593a47b768b060b02]...
+[^c-577a7ecc7420a13593a47b768b060b02]...
 
-The number of studies to be performed may be reduced if residue trials show that the residue levels in plants or plant products are lower than the LOQ. The number of trials shall not be below the minimum of three [^key-54b53c3c7e8a7cb0e3c9f762257f7a62]... for minor crops and four [^key-54b53c3c7e8a7cb0e3c9f762257f7a62]... for major crops.
+The number of studies to be performed may be reduced if residue trials show that the residue levels in plants or plant products are lower than the LOQ. The number of trials shall not be below the minimum of three [^c-54b53c3c7e8a7cb0e3c9f762257f7a62]... for minor crops and four [^c-54b53c3c7e8a7cb0e3c9f762257f7a62]... for major crops.
 
 In cases were a ‘zero’ residue situation is predicted from representative plant metabolism studies, three trials shall be performed for commodities significant in diet. No trials shall be required for commodities insignificant in diet. A ‘zero’ residue situation shall be predicted where no detectable residues occur in studies with exaggerated application rates compared to the envisaged ones.
 
-Provided that conditions are comparable and that trials are widely spread over growing areas representative of those in Great Britain[^key-21ef10ceae167ea01ef22b04e78b164f], it shall be sufficient to carry out trials over one growing season.
+Provided that conditions are comparable and that trials are widely spread over growing areas representative of those in Great Britain[^c-21ef10ceae167ea01ef22b04e78b164f], it shall be sufficient to carry out trials over one growing season.
 
-[^key-9cc134f04e77f9e86ace3e951b3dd484]...
+[^c-9cc134f04e77f9e86ace3e951b3dd484]...
 
 Trials showing the residue behaviour in post-harvest treatments shall be carried out at different locations with different cultivars. A set of trials shall be carried out for each application method and storage condition, unless the worst case residue situation can be clearly identified.
 
@@ -1641,7 +1641,7 @@ The following points shall be taken into consideration when deciding whether it 
 - ((c)) the physical and chemical properties of the active substance and its relevant metabolites (such as fat-solubility in case of oil seed processing); and
 - ((d)) the possibility that breakdown products of toxicological significance may occur after processing of the plant or plant product.
 
-If the level of residues is less than 0,1 mg/kg, processing studies shall be carried out if the contribution of the commodity under consideration to the theoretical maximum daily intake (TMDI) is ≥ 10 % of the ADI or if the estimated daily intake is ≥ 10 % of the ARfD for any relevant[^key-56dadc45d3cdd82ebb4176033f6d57c2] consumer group diet.
+If the level of residues is less than 0,1 mg/kg, processing studies shall be carried out if the contribution of the commodity under consideration to the theoretical maximum daily intake (TMDI) is ≥ 10 % of the ADI or if the estimated daily intake is ≥ 10 % of the ARfD for any relevant[^c-56dadc45d3cdd82ebb4176033f6d57c2] consumer group diet.
 
 Processing studies shall not be required if plants or plant products are exclusively used raw (unprocessed) for food and feed purposes.
 
@@ -1723,7 +1723,7 @@ A tiered approach shall be adopted to fulfil the above mentioned objectives. In 
 
 No further studies shall be required where, based on the result from the first tier studies, no detectable residues (\< 0,01 mg/kg) in rotational crops are to be expected or if in metabolism studies no residues requiring risk assessment are observed.
 
-For the second tier, additional data shall be submitted to enable appropriate evaluation of dietary risks and establishment of MRLs. These studies shall cover the common crop rotation practice. They shall be performed taking into account the requirements under point 6.3. Trials shall be conducted as closely as possible to agricultural practice on representative crops from major crop groups. At least four trials per crop shall be conducted across areas relevant to Great Britain[^key-c4f5c62db3e8ad878d3dc2768c432230] in one year. These trials shall be performed in the main production areas relevant to Great Britain[^key-bb0d75becbd9adc7664ad52cc39bd37d] at the highest application rate for the preceding crops. If annual applications of persistent active substances result in higher plateau concentrations in soil than a single application, the plateau concentration shall be taken into account. The necessary residue trials data shall be set up in consultation with the competent authorities[^key-24613b78280cb3c1704345bf244e58c5].
+For the second tier, additional data shall be submitted to enable appropriate evaluation of dietary risks and establishment of MRLs. These studies shall cover the common crop rotation practice. They shall be performed taking into account the requirements under point 6.3. Trials shall be conducted as closely as possible to agricultural practice on representative crops from major crop groups. At least four trials per crop shall be conducted across areas relevant to Great Britain[^c-c4f5c62db3e8ad878d3dc2768c432230] in one year. These trials shall be performed in the main production areas relevant to Great Britain[^c-bb0d75becbd9adc7664ad52cc39bd37d] at the highest application rate for the preceding crops. If annual applications of persistent active substances result in higher plateau concentrations in soil than a single application, the plateau concentration shall be taken into account. The necessary residue trials data shall be set up in consultation with the competent authorities[^c-24613b78280cb3c1704345bf244e58c5].
 
 6.7.
 
@@ -1785,7 +1785,7 @@ Where relevant, the possible presence of pesticide residues arising from sources
 
 The objective of these studies shall be to determine the residue in pollen and bee products for human consumption resulting from residues taken up by honeybees from crops at blossom.
 
-The type and conditions of the studies to be performed shall be discussed with the [^key-9d3fecaf3f8bd4e85ec61c25b39cb6ea]... competent authorities.
+The type and conditions of the studies to be performed shall be discussed with the [^c-9d3fecaf3f8bd4e85ec61c25b39cb6ea]... competent authorities.
 
 #### SECTION 7 — Fate and behaviour in the environment
 
@@ -1797,7 +1797,7 @@ All relevant information on the type and the properties of the soil used in the 
 
 The microbial biomass of soils used for laboratory degradation studies shall be determined immediately before the commencement and at the end of the study.
 
-The soils used for degradation, adsorption and desorption or mobility studies shall be representative of the range of agricultural soils typical of the various regions of Great Britain[^key-7ae19161339bfe8da68c4f99861e5ed7] where use exists or is anticipated.
+The soils used for degradation, adsorption and desorption or mobility studies shall be representative of the range of agricultural soils typical of the various regions of Great Britain[^c-7ae19161339bfe8da68c4f99861e5ed7] where use exists or is anticipated.
 
 The soils shall fulfil the following conditions:
 
@@ -1988,7 +1988,7 @@ Test conditions
 
 Long-term field studies shall be performed on at least two relevant soils at different geographical locations and involve multiple applications.
 
-In absence of guidance [^key-7ef17620d0d8180f578df727da967204]..., the type and conditions of the study to be performed shall be discussed with the [^key-188a13ab80171e8385704375fafb96ee]... competent authorities.
+In absence of guidance [^c-7ef17620d0d8180f578df727da967204]..., the type and conditions of the study to be performed shall be discussed with the [^c-188a13ab80171e8385704375fafb96ee]... competent authorities.
 
 7.1.3.
 
@@ -2041,11 +2041,11 @@ As a higher tier option, information on aged sorption may be provided.
 
 *Circumstances in which required*
 
-The need to carry out a study on aged sorption shall be discussed with the [^key-1f58bb88ddec3f9b6f39e903651f59b7]... competent authorities.
+The need to carry out a study on aged sorption shall be discussed with the [^c-1f58bb88ddec3f9b6f39e903651f59b7]... competent authorities.
 
 *Test conditions*
 
-In absence of guidance [^key-4a67f447abbeadce2d16227ca260414b]..., the type and conditions of the study to be performed shall be discussed with the [^key-1f58bb88ddec3f9b6f39e903651f59b7]... competent authorities. The influence on the rate of degradation shall also be considered. Aged sorption data shall be compatible with the model in which those values will be used.
+In absence of guidance [^c-4a67f447abbeadce2d16227ca260414b]..., the type and conditions of the study to be performed shall be discussed with the [^c-1f58bb88ddec3f9b6f39e903651f59b7]... competent authorities. The influence on the rate of degradation shall also be considered. Aged sorption data shall be compatible with the model in which those values will be used.
 
 7.1.4.
 
@@ -2111,7 +2111,7 @@ Field leaching studies shall be performed, where necessary, to provide informati
 
 *Circumstances in which required*
 
-The decision whether field leaching studies are to be carried out, as an experimental outdoor study in the framework of a tiered leaching assessment scheme shall take into account the results of degradation and other mobility studies and the predicted environmental concentrations in groundwater (PEC<sub>GW</sub>), calculated in accordance with the provisions of Section 9 of Part A of the Annex to Regulation (EU) No 284/2013. The type and conditions of the study to be performed shall be discussed with the [^key-c3e72de7484582b4c20c975509c57a0b]... competent authorities.
+The decision whether field leaching studies are to be carried out, as an experimental outdoor study in the framework of a tiered leaching assessment scheme shall take into account the results of degradation and other mobility studies and the predicted environmental concentrations in groundwater (PEC<sub>GW</sub>), calculated in accordance with the provisions of Section 9 of Part A of the Annex to Regulation (EU) No 284/2013. The type and conditions of the study to be performed shall be discussed with the [^c-c3e72de7484582b4c20c975509c57a0b]... competent authorities.
 
 *Test conditions*
 
@@ -2276,13 +2276,13 @@ If photochemical degradation is of importance a water/sediment study under influ
 
 *Test conditions*
 
-The type and conditions of the study to be performed shall be discussed with the [^key-1099038cdf8115b2b62c9349ff45e217]... competent authorities.
+The type and conditions of the study to be performed shall be discussed with the [^c-1099038cdf8115b2b62c9349ff45e217]... competent authorities.
 
 7.2.3.
 
 *Degradation in the saturated zone*
 
-The type and conditions of the study to be performed shall be discussed with the [^key-413c6084ac88bcafda8cbcbbb54073a3]... competent authorities.
+The type and conditions of the study to be performed shall be discussed with the [^c-413c6084ac88bcafda8cbcbbb54073a3]... competent authorities.
 
 7.3.
 
@@ -2300,7 +2300,7 @@ Estimates of active substance upper atmospheric half-lives, based on monitoring 
 
 *Transport via air*
 
-The type and conditions of the study to be performed shall be discussed with the [^key-d00a2930001fe32bc0fc2ec9b9f64b2f]... competent authorities.
+The type and conditions of the study to be performed shall be discussed with the [^c-d00a2930001fe32bc0fc2ec9b9f64b2f]... competent authorities.
 
 Circumstances in which required
 
@@ -2308,7 +2308,7 @@ If the trigger for volatilisation, Vp = 10<sup>–5</sup> Pa (plant) or 10<sup>�
 
 If needed, experiments to determine deposition following volatilisation may be provided.
 
-The [^key-d00a2930001fe32bc0fc2ec9b9f64b2f]... competent authorities shall be consulted to decide whether this information is necessary.
+The [^c-d00a2930001fe32bc0fc2ec9b9f64b2f]... competent authorities shall be consulted to decide whether this information is necessary.
 
 7.3.3.
 
@@ -2353,7 +2353,7 @@ Available monitoring data concerning fate and behaviour of the active substance 
 
 1\.
 
-All available biological data and information which is relevant to the assessment of the ecotoxicological profile of the active substance shall be reported. This shall include all potentially adverse effects found during routine ecotoxicological investigations. Where required by the [^key-04b0f6662c54b6cd210c9935bcadac76]... competent authorities, additional studies, necessary to investigate the probable mechanisms involved and to assess the significance of these effects, shall be carried out and reported on.
+All available biological data and information which is relevant to the assessment of the ecotoxicological profile of the active substance shall be reported. This shall include all potentially adverse effects found during routine ecotoxicological investigations. Where required by the [^c-04b0f6662c54b6cd210c9935bcadac76]... competent authorities, additional studies, necessary to investigate the probable mechanisms involved and to assess the significance of these effects, shall be carried out and reported on.
 
 2\.
 
@@ -2491,7 +2491,7 @@ Available and relevant data, including data from the open literature for the act
 
 *Endocrine disrupting properties*
 
-Consideration shall be given to whether the active substance is a potential endocrine disruptor according to national[^key-e047589642b9881bd49c3fb9810f1d14] or internationally agreed guidelines. This may be done in consulting the mammalian toxicology section (see Section 5). In addition, other available information on toxicity profile and mode of action shall be taken into account. If as a result of this assessment, the active substance is identified as a potential endocrine disruptor, the type and conditions of the study to be performed shall be discussed with the [^key-b32fcce1b1e7004f6858207dcab01a29]... competent authorities.
+Consideration shall be given to whether the active substance is a potential endocrine disruptor according to national[^c-e047589642b9881bd49c3fb9810f1d14] or internationally agreed guidelines. This may be done in consulting the mammalian toxicology section (see Section 5). In addition, other available information on toxicity profile and mode of action shall be taken into account. If as a result of this assessment, the active substance is identified as a potential endocrine disruptor, the type and conditions of the study to be performed shall be discussed with the [^c-b32fcce1b1e7004f6858207dcab01a29]... competent authorities.
 
 8.2.
 
@@ -2499,7 +2499,7 @@ Consideration shall be given to whether the active substance is a potential endo
 
 Reports of the tests referred to in points 8.2.1, 8.2.4 and 8.2.6 shall be submitted for every active substance and supported with analytical data on concentrations of the substance in the test media.
 
-When aquatic toxicity studies are conducted with a poorly soluble substance, limit concentrations lower than 100 mg substance/L may be acceptable, however precipitation of the substance in the test medium shall be avoided and a solubiliser, auxiliary solvent or dispersing agent shall be used when appropriate. Testing using the plant protection product may be required by the [^key-bc46d0a7e572c107595a76446de7aab7]... competent authorities if no biological effects occur at the solubility limit of the active substance.
+When aquatic toxicity studies are conducted with a poorly soluble substance, limit concentrations lower than 100 mg substance/L may be acceptable, however precipitation of the substance in the test medium shall be avoided and a solubiliser, auxiliary solvent or dispersing agent shall be used when appropriate. Testing using the plant protection product may be required by the [^c-bc46d0a7e572c107595a76446de7aab7]... competent authorities if no biological effects occur at the solubility limit of the active substance.
 
 Toxicity endpoints (such as LC<sub>50</sub>, EC<sub>10</sub>, EC<sub>20</sub>, EC<sub>50</sub> and NOEC) shall be calculated on the basis of nominal or mean/initial measured concentrations.
 
@@ -2539,7 +2539,7 @@ A fish full life cycle test shall provide information on the effects on reproduc
 
 For active substances that are not considered as potential endocrine disruptors, a fish full life cycle test may be required depending upon the persistence and bioaccumulative potential of the substance.
 
-For active substances that fulfil the screening criteria on either of the fish screening assays, or for which there are other indications of endocrine disruption (see point 8.2.3), appropriate additional endpoints shall be included in the test and discussed with the [^key-5134cd06b5d58aebae01730ea3af89ea]... competent authorities.
+For active substances that fulfil the screening criteria on either of the fish screening assays, or for which there are other indications of endocrine disruption (see point 8.2.3), appropriate additional endpoints shall be included in the test and discussed with the [^c-5134cd06b5d58aebae01730ea3af89ea]... competent authorities.
 
 *Test conditions*
 
@@ -2566,7 +2566,7 @@ The bioconcentration of the substance, shall be assessed where:
 
 *Endocrine disrupting properties*
 
-Consideration shall be given to whether the active substance is a potential endocrine disruptor in aquatic non-target organisms according to national[^key-6c61ed5003291bbff4f8fb66315bf0aa] or internationally agreed guidelines. In addition, other available information on toxicity profile and mode of action shall be taken into account. If as a result of this assessment, the active substance is identified as a potential endocrine disruptor, the type and conditions of the studies to be performed shall be discussed with the [^key-f63be41ae1feb6f55717dab7c5e95cd4]... competent authorities.
+Consideration shall be given to whether the active substance is a potential endocrine disruptor in aquatic non-target organisms according to national[^c-6c61ed5003291bbff4f8fb66315bf0aa] or internationally agreed guidelines. In addition, other available information on toxicity profile and mode of action shall be taken into account. If as a result of this assessment, the active substance is identified as a potential endocrine disruptor, the type and conditions of the studies to be performed shall be discussed with the [^c-f63be41ae1feb6f55717dab7c5e95cd4]... competent authorities.
 
 8.2.4.
 
@@ -2682,9 +2682,9 @@ For other species of aquatic macrophytes, a test shall provide sufficient inform
 
 Circumstances in which required
 
-A laboratory test with *Lemna* species shall be performed for herbicides and plant growth regulators and for substances where there is evidence from information submitted under point 8.6 of Part A of this Annex or point 10.6 of Part A of the Annex to Regulation (EU) No 284/2013 that the test substance has herbicidal activity. Additional testing may be required by the [^key-360aa3d71e49e246546c3e0497b7796b]... competent authorities on other macrophyte species depending on the mode of action of the substance, or if clear indications of higher toxicity are apparent to dicotyledonous (for example auxin inhibitor, broad leaf herbicides) or other monocotyledonous (for example grass herbicides) plant species from efficacy or terrestrial non-target plants tests (see point 8.6 of Part A of this Annex and point 10.6 of Part A of the Annex to Regulation (EU) No 284/2013).
+A laboratory test with *Lemna* species shall be performed for herbicides and plant growth regulators and for substances where there is evidence from information submitted under point 8.6 of Part A of this Annex or point 10.6 of Part A of the Annex to Regulation (EU) No 284/2013 that the test substance has herbicidal activity. Additional testing may be required by the [^c-360aa3d71e49e246546c3e0497b7796b]... competent authorities on other macrophyte species depending on the mode of action of the substance, or if clear indications of higher toxicity are apparent to dicotyledonous (for example auxin inhibitor, broad leaf herbicides) or other monocotyledonous (for example grass herbicides) plant species from efficacy or terrestrial non-target plants tests (see point 8.6 of Part A of this Annex and point 10.6 of Part A of the Annex to Regulation (EU) No 284/2013).
 
-Additional aquatic macrophyte species tests may be undertaken on a dicotyledonous species, such as *Myriophyllum spicatum, Myriophyllum aquaticum* or a monocotyledonous species, such as aquatic grass *Glyceria maxima*, as appropriate. The need to perform such studies shall be discussed with the [^key-360aa3d71e49e246546c3e0497b7796b]... competent authorities.
+Additional aquatic macrophyte species tests may be undertaken on a dicotyledonous species, such as *Myriophyllum spicatum, Myriophyllum aquaticum* or a monocotyledonous species, such as aquatic grass *Glyceria maxima*, as appropriate. The need to perform such studies shall be discussed with the [^c-360aa3d71e49e246546c3e0497b7796b]... competent authorities.
 
 Test conditions
 
@@ -2700,11 +2700,11 @@ Studies undertaken may take the form of additional species testing, modified exp
 
 Circumstances in which required
 
-The need to perform such studies shall be discussed with the [^key-28444378cc61fc31a9e05f12d74bd442]... competent authorities.
+The need to perform such studies shall be discussed with the [^c-28444378cc61fc31a9e05f12d74bd442]... competent authorities.
 
 Test conditions
 
-The type and conditions of the study to be performed shall be discussed with the [^key-28444378cc61fc31a9e05f12d74bd442]... competent authorities.
+The type and conditions of the study to be performed shall be discussed with the [^c-28444378cc61fc31a9e05f12d74bd442]... competent authorities.
 
 8.3.
 
@@ -2801,7 +2801,7 @@ Effects on non-target terrestrial arthropods shall be investigated for all activ
 
 Two indicator species, the cereal aphid parasitoid *Aphidius rhopalosiphi* (Hymenoptera: Braconidae) and the predatory mite *Typhlodromus pyri* (Acari: Phytoseiidae) shall always be tested. Initial testing shall be performed using glass plates and mortality (and reproduction effects if assessed) shall be reported. Testing shall determine a rate-response relationship and LR<sub>50</sub>[^f00021], ER<sub>50</sub>[^f00022] and NOEC endpoints shall be reported for assessment of the risk to these species in accordance with the relevant risk quotient analysis. If adverse effects can be clearly predicted from these studies then testing using higher tier studies may be required (see point 10.3 of Part A of the Annex to the Regulation (EU) No 284/2013 for further details).
 
-With active substances suspected of having a special mode of action (such as insect growth regulators, insect feeding inhibitors) additional tests involving sensitive life stages, special routes of uptake or other modifications, may be required by the [^key-6ac3a53cc4a8aced11310eeb3ee6ef56]... competent authorities. The rationale for the choice of test species used shall be provided.
+With active substances suspected of having a special mode of action (such as insect growth regulators, insect feeding inhibitors) additional tests involving sensitive life stages, special routes of uptake or other modifications, may be required by the [^c-6ac3a53cc4a8aced11310eeb3ee6ef56]... competent authorities. The rationale for the choice of test species used shall be provided.
 
 8.3.2.1.
 
@@ -2853,7 +2853,7 @@ Effects on soil organisms, other than earthworms, shall be investigated for all 
 - ((b)) wound sealing and healing treatments;
 - ((c)) enclosed spaces with rodenticidal baits.
 
-For plant protection products applied as a foliar spray data on *Folsomia candida* and *Hypoaspis aculeifer* may be required by the [^key-b937764b255e3bf911e5f527fd75dde5]... competent authorities. If data are available on both *Aphidius rhopalosiphi* and *Typhlodromus pyri* these may be used in an initial risk assessment. If concern is raised with either species tested under point 8.3.2, data on both *Folsomia candida* and *Hypoaspis aculeifer* shall be provided.
+For plant protection products applied as a foliar spray data on *Folsomia candida* and *Hypoaspis aculeifer* may be required by the [^c-b937764b255e3bf911e5f527fd75dde5]... competent authorities. If data are available on both *Aphidius rhopalosiphi* and *Typhlodromus pyri* these may be used in an initial risk assessment. If concern is raised with either species tested under point 8.3.2, data on both *Folsomia candida* and *Hypoaspis aculeifer* shall be provided.
 
 If data on *Aphidius rhopalosiphi* and *Typhlodromus pyri* are not available, then the data set out in point 8.4.2.1 shall be provided.
 
@@ -3018,13 +3018,13 @@ The identification together with the characterisation of the micro-organism prov
 
 The name and address of the applicant must be provided, as must the name, position, telephone and fax number of the appropriate person to contact.
 
-Where, in addition, the applicant has an office, agent or representative in Great Britain[^key-dc5aea81417c9877a901d04fe81e0b32], the name and address of the local office, agent or representative must be provided, as must the name, position, telephone and fax number of the appropriate person to contact.
+Where, in addition, the applicant has an office, agent or representative in Great Britain[^c-dc5aea81417c9877a901d04fe81e0b32], the name and address of the local office, agent or representative must be provided, as must the name, position, telephone and fax number of the appropriate person to contact.
 
 1.2.
 
 **Producer**
 
-The name and address of the producer or producers of the micro-organism must be provided as must the name and address of each plant in which the micro-organism is produced. A contact point (preferably a central contact point, to include name, telephone and fax number) must be provided, with a view to providing updating information and responding to queries arising, regarding production technology, processes and the quality of product (including where relevant, individual batches). Where, following approval of the micro-organism, there are changes in the location or number of producers, the information required must again be notified to the competent authorities[^key-b080b9945f7c14ccd6f66161297ef6e8].
+The name and address of the producer or producers of the micro-organism must be provided as must the name and address of each plant in which the micro-organism is produced. A contact point (preferably a central contact point, to include name, telephone and fax number) must be provided, with a view to providing updating information and responding to queries arising, regarding production technology, processes and the quality of product (including where relevant, individual batches). Where, following approval of the micro-organism, there are changes in the location or number of producers, the information required must again be notified to the competent authorities[^c-b080b9945f7c14ccd6f66161297ef6e8].
 
 1.3.
 
@@ -3069,7 +3069,7 @@ Relationships to known pathogens shall be indicated.
 
 The minimum and maximum content of the micro-organism in the material used for manufacturing of formulated products, must be reported. The content shall be expressed in appropriate terms, such as number of active units per volume or weight or any other manner that is relevant to the micro-organism.
 
-Where the information provided relates to a pilot plant production system, the information required must again be provided to the competent authorities[^key-4ce77bb8a9ca07d3497c14b4bb60c905] once industrial scale production methods and procedures have stabilised, if production changes result in a changed specification of purity.
+Where the information provided relates to a pilot plant production system, the information required must again be provided to the competent authorities[^c-4ce77bb8a9ca07d3497c14b4bb60c905] once industrial scale production methods and procedures have stabilised, if production changes result in a changed specification of purity.
 
 1.4.2.
 
@@ -3413,7 +3413,7 @@ Basic information is required about the potential of the micro-organism to cause
 
 *Medical data*
 
-Where available, and without prejudice to the provisions of the EU-derived domestic legislation which transposed[^key-c558ef2a1aacdca06af75bf7e56e0098] Article 10 of Directive 98/24/EC, practical data and information relevant to the recognition of the symptoms of infection or pathogenicity and on the effectiveness of first aid and therapeutic measures have to be submitted. Where relevant, the effectiveness of potential antagonists, shall be investigated and reported. Where relevant, methods to kill or render the micro-organism uninfective must be indicated (see point 3.8).
+Where available, and without prejudice to the provisions of the EU-derived domestic legislation which transposed[^c-c558ef2a1aacdca06af75bf7e56e0098] Article 10 of Directive 98/24/EC, practical data and information relevant to the recognition of the symptoms of infection or pathogenicity and on the effectiveness of first aid and therapeutic measures have to be submitted. Where relevant, the effectiveness of potential antagonists, shall be investigated and reported. Where relevant, methods to kill or render the micro-organism uninfective must be indicated (see point 3.8).
 
 Data and information relevant to the effects of human exposure, where available and of the necessary quality, are of particular value, in confirming the validity of extrapolations made and conclusions reached with respect to target organs, virulence, and the reversibility of adverse effects. Such data can be generated following accidental or occupational exposure.
 
@@ -3765,7 +3765,7 @@ Estimated levels of the specified micro-organism in a time course after use of t
 
 *Soil*
 
-Information on viability/population dynamics shall be reported in several cultivated and uncultivated soils representative of soils typical of the various [^key-54966904a21ebf6959779bde63de6fe0]... regions where use exists or is anticipated. The provisions on choice of soil and its collection and handling, as referred to in the introduction of point 7.1 of Part A, have to be followed. If the test organism is to be used in association with other media, e.g. rockwool, this must be included in the test range.
+Information on viability/population dynamics shall be reported in several cultivated and uncultivated soils representative of soils typical of the various [^c-54966904a21ebf6959779bde63de6fe0]... regions where use exists or is anticipated. The provisions on choice of soil and its collection and handling, as referred to in the introduction of point 7.1 of Part A, have to be followed. If the test organism is to be used in association with other media, e.g. rockwool, this must be included in the test range.
 
 7.1.2.
 
@@ -3914,7 +3914,7 @@ Information on toxicity, infectiveness and pathogenicity to earthworms must be r
 
 **Effects on non-target soil micro-organisms**
 
-Impact on relevant non-target micro-organisms and on their predators (e.g. protozoa for bacterial inoculants) shall be reported. Expert judgement is required to decide whether additional studies are necessary. Such decision will take into consideration the available information in this Section and other Sections, in particular data on the specificity of the micro-organism, and the expected exposure. Useful information may also be available from the observations carried out in efficacy testing. Special attention shall be given to organisms used in integrated pest management (IPM)[^key-4de7d74194438a256a416671fb0f7288].
+Impact on relevant non-target micro-organisms and on their predators (e.g. protozoa for bacterial inoculants) shall be reported. Expert judgement is required to decide whether additional studies are necessary. Such decision will take into consideration the available information in this Section and other Sections, in particular data on the specificity of the micro-organism, and the expected exposure. Useful information may also be available from the observations carried out in efficacy testing. Special attention shall be given to organisms used in integrated pest management (IPM)[^c-4de7d74194438a256a416671fb0f7288].
 
 8.7.
 
@@ -3928,7 +3928,7 @@ Before performing such studies, the applicant shall seek agreement of the compet
 
 SUMMARY AND EVALUATION OF ENVIRONMENTAL IMPACT
 
-A summary and evaluation of all data relevant to the environmental impact, shall be carried out in accordance with the guidance given by the competent authorities [^key-f550ce4ce05da4c2200f833fb118669f]... concerning the format of such summaries and evaluations. It shall include a detailed and critical assessment of those data in the context of relevant evaluative and decision making criteria and guidelines, with particular reference to the risks for the environment and non-target species that may or do arise, and the extent, quality and reliability of the data base. In particular the following issues shall be addressed:
+A summary and evaluation of all data relevant to the environmental impact, shall be carried out in accordance with the guidance given by the competent authorities [^c-f550ce4ce05da4c2200f833fb118669f]... concerning the format of such summaries and evaluations. It shall include a detailed and critical assessment of those data in the context of relevant evaluative and decision making criteria and guidelines, with particular reference to the risks for the environment and non-target species that may or do arise, and the extent, quality and reliability of the data base. In particular the following issues shall be addressed:
 
 - distribution and fate in the environment, and the time courses involved,
 - identification of non-target species and populations at risk, and the extent of their potential exposure,
@@ -3942,63 +3942,63 @@ A summary and evaluation of all data relevant to the environmental impact, shall
 
 [^f00003]: Footnote: [OJ L 230, 19.8.1991, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.230.01.0001.01.ENG).
 
-[^key-87e46b8980e208a47934d25fa7a658b7]: Textual amendment: Art. 1 renumbered as Art. 1(1) (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87e46b8980e208a47934d25fa7a658b7]: Textual amendment: Art. 1 renumbered as Art. 1(1) (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0531fdf38f5056ded9204ff3b66a1cbc]: Textual amendment: Art. 1(2) inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0531fdf38f5056ded9204ff3b66a1cbc]: Textual amendment: Art. 1(2) inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2fd7f77d9b10297e5cef4950d9128b7f]: Textual amendment: [Arts. 2-5](https://www.legislation.gov.uk/eur/2013/283/article/2) omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(3)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2fd7f77d9b10297e5cef4950d9128b7f]: Textual amendment: [Arts. 2-5](https://www.legislation.gov.uk/eur/2013/283/article/2) omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(3)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4827f9b9b5c8327ceaf38a183e36814f]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(4)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4827f9b9b5c8327ceaf38a183e36814f]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(4)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3f81fa3668899e6e63903fab547fbcd]: Textual amendment: Word in Annex Introduction point 1.6 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e3f81fa3668899e6e63903fab547fbcd]: Textual amendment: Word in Annex Introduction point 1.6 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_924e91d8-f78d-410c-a9d1-10ee1c3977a6]: Textual amendment: Word in Annex Introduction point 1.7 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-45746bdbeb375f6cf929658be09c8e60]: Textual amendment: Words in Annex Introduction point 1.10 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-45746bdbeb375f6cf929658be09c8e60]: Textual amendment: Words in Annex Introduction point 1.10 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00007]: Footnote: [OJ L 353, 31.12.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.353.01.0001.01.ENG).
 
 [^f00008]: Footnote: [OJ L 70, 16.3.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.070.01.0001.01.ENG).
 
-[^key-e99218d1d347b03e19a228603b498915]: Textual amendment: Words in Annex Introduction point 1.13 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e99218d1d347b03e19a228603b498915]: Textual amendment: Words in Annex Introduction point 1.13 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a2fc84b94a10e5c44037fa1912dd5578]: Textual amendment: Words in Annex Introduction point 2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2fc84b94a10e5c44037fa1912dd5578]: Textual amendment: Words in Annex Introduction point 2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-579b7f9e33f81e04339a7a356e280c2d]: Textual amendment: Words in Annex Introduction point 3.1 inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(v)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-579b7f9e33f81e04339a7a356e280c2d]: Textual amendment: Words in Annex Introduction point 3.1 inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(v)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: [OJ L 50, 20.2.2004, p. 44](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.050.01.0044.01.ENG).
 
 [^f00010]: Footnote: See page 85 of his Official Journal.
 
-[^key-0563306b2289b4eb8052d74f6aadaee7]: Textual amendment: Words in Annex Introduction point 3.2.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(vi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/vi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0563306b2289b4eb8052d74f6aadaee7]: Textual amendment: Words in Annex Introduction point 3.2.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(vi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/vi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-50b1cae5aac612de7982bdddf4fa23db]: Textual amendment: Annex Introduction point 6 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(vii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/vii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50b1cae5aac612de7982bdddf4fa23db]: Textual amendment: Annex Introduction point 6 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(a)(vii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/a/vii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-db62926e9e4b3fdc9780c3308d9c4911]: Textual amendment: Words in Annex Pt. A point 1.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db62926e9e4b3fdc9780c3308d9c4911]: Textual amendment: Words in Annex Pt. A point 1.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6960395414dfb57a297010dd55b7e9af]: Textual amendment: Words in Annex Pt. A point 1.4 substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 176(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/176/2/a/i) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/61)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6960395414dfb57a297010dd55b7e9af]: Textual amendment: Words in Annex Pt. A point 1.4 substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 176(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/176/2/a/i) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/61)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a659a8f52a0c81e1986c53d4b34dbb8]: Textual amendment: Word in Annex Pt. A point 1.4 substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 176(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/176/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a659a8f52a0c81e1986c53d4b34dbb8]: Textual amendment: Word in Annex Pt. A point 1.4 substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 176(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/176/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-636a31720ce737a03410384d38c60b03]: Textual amendment: Annex Pt. A point 1.4.1 inserted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 176(2)(b)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/176/2/b) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/61)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-636a31720ce737a03410384d38c60b03]: Textual amendment: Annex Pt. A point 1.4.1 inserted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 176(2)(b)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/176/2/b) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/61)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-62b46ee697f58400ff4a2d661879bce3]: Textual amendment: Words in Annex Pt. A point 1.5 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-62b46ee697f58400ff4a2d661879bce3]: Textual amendment: Words in Annex Pt. A point 1.5 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00011]: Footnote: United Nations New York and Geneva (2009) Publication ISBN 978-92-1-139135-0.
 
 [^f00012]: Footnote: [OJ L 396, 30.12.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.396.01.0001.01.ENG).
 
-[^key-c4bc046984fd7e39a4059d1a628d2272]: Textual amendment: Words in Annex Pt. A point 3.9 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4bc046984fd7e39a4059d1a628d2272]: Textual amendment: Words in Annex Pt. A point 3.9 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b8ddb5d631388fd4c19ead32d4947fcc]: Textual amendment: Words in Annex Pt. A point 4.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8ddb5d631388fd4c19ead32d4947fcc]: Textual amendment: Words in Annex Pt. A point 4.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00014]: Footnote: aAOEL, abbreviation for ‘Acute AOEL’.
 
 [^f00015]: Footnote: LD<sub>50</sub>, abbreviation for ‘Lethal Dose, 50 %’, that is to say the dose required to kill half the members of a tested population after a specified test duration.
 
-[^key-2ffedb31ecba22e227ceed1036153573]: Textual amendment: Word in Annex Pt. A point 5.8.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(v)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2ffedb31ecba22e227ceed1036153573]: Textual amendment: Word in Annex Pt. A point 5.8.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(v)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9e28a5d7ef14e226970c3b837ec60aa5]: Textual amendment: Words in Annex Pt. A point 5.9 inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e28a5d7ef14e226970c3b837ec60aa5]: Textual amendment: Words in Annex Pt. A point 5.9 inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00016]: Footnote: [OJ L 131, 5.5.1998, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.131.01.0011.01.ENG).
 
@@ -4006,87 +4006,87 @@ A summary and evaluation of all data relevant to the environmental impact, shall
 
 [^f00018]: Footnote: Safety intervals refer in this Section to pre-harvest intervals (PHIs), withholding periods or storage periods in the case of post-harvest treatments.
 
-[^key-f4dfafefce3ac8a402aa02cb0acf8bdf]: Textual amendment: Words in Annex Pt. A point 6.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f4dfafefce3ac8a402aa02cb0acf8bdf]: Textual amendment: Words in Annex Pt. A point 6.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-93fbb4a0a28896e004ed7e663d8fee17]: Textual amendment: Words in Annex Pt. A point 6.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-93fbb4a0a28896e004ed7e663d8fee17]: Textual amendment: Words in Annex Pt. A point 6.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-577a7ecc7420a13593a47b768b060b02]: Textual amendment: Words in Annex Pt. A point 6.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(cc)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-577a7ecc7420a13593a47b768b060b02]: Textual amendment: Words in Annex Pt. A point 6.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(cc)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-54b53c3c7e8a7cb0e3c9f762257f7a62]: Textual amendment: Words in Annex Pt. A point 6.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(dd)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/dd); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-54b53c3c7e8a7cb0e3c9f762257f7a62]: Textual amendment: Words in Annex Pt. A point 6.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(dd)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/dd); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21ef10ceae167ea01ef22b04e78b164f]: Textual amendment: Words in Annex Pt. A point 6.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(ee)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/ee) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21ef10ceae167ea01ef22b04e78b164f]: Textual amendment: Words in Annex Pt. A point 6.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(ee)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/ee) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9cc134f04e77f9e86ace3e951b3dd484]: Textual amendment: Words in Annex Pt. A point 6.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(ff)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/ff); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9cc134f04e77f9e86ace3e951b3dd484]: Textual amendment: Words in Annex Pt. A point 6.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(vii)(ff)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/vii/ff); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-56dadc45d3cdd82ebb4176033f6d57c2]: Textual amendment: Word in Annex Pt. A point 6.5.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(viii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/viii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56dadc45d3cdd82ebb4176033f6d57c2]: Textual amendment: Word in Annex Pt. A point 6.5.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(viii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/viii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c4f5c62db3e8ad878d3dc2768c432230]: Textual amendment: Words in Annex Pt. A point 6.6.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(ix)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/ix/aa) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4f5c62db3e8ad878d3dc2768c432230]: Textual amendment: Words in Annex Pt. A point 6.6.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(ix)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/ix/aa) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bb0d75becbd9adc7664ad52cc39bd37d]: Textual amendment: Words in Annex Pt. A point 6.6.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(ix)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/ix/bb) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb0d75becbd9adc7664ad52cc39bd37d]: Textual amendment: Words in Annex Pt. A point 6.6.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(ix)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/ix/bb) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24613b78280cb3c1704345bf244e58c5]: Textual amendment: Words in Annex Pt. A point 6.6.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(ix)(cc)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/ix/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24613b78280cb3c1704345bf244e58c5]: Textual amendment: Words in Annex Pt. A point 6.6.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(ix)(cc)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/ix/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d3fecaf3f8bd4e85ec61c25b39cb6ea]: Textual amendment: Word in Annex Pt. A point 6.10.1 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(x)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/x); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d3fecaf3f8bd4e85ec61c25b39cb6ea]: Textual amendment: Word in Annex Pt. A point 6.10.1 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(x)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/x); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7ae19161339bfe8da68c4f99861e5ed7]: Textual amendment: Words in Annex Pt. A point 7.1 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xi) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(iii)(aa)(bb)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/iii/aa)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ae19161339bfe8da68c4f99861e5ed7]: Textual amendment: Words in Annex Pt. A point 7.1 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xi) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(a)(iii)(aa)(bb)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/a/iii/aa)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7ef17620d0d8180f578df727da967204]: Textual amendment: Words in Annex Pt. A point 7.1.2.2.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xii)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ef17620d0d8180f578df727da967204]: Textual amendment: Words in Annex Pt. A point 7.1.2.2.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xii)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-188a13ab80171e8385704375fafb96ee]: Textual amendment: Word in Annex Pt. A point 7.1.2.2.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xii)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-188a13ab80171e8385704375fafb96ee]: Textual amendment: Word in Annex Pt. A point 7.1.2.2.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xii)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1f58bb88ddec3f9b6f39e903651f59b7]: Textual amendment: Word in Annex Pt. A point 7.1.3.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xii)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f58bb88ddec3f9b6f39e903651f59b7]: Textual amendment: Word in Annex Pt. A point 7.1.3.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xii)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a67f447abbeadce2d16227ca260414b]: Textual amendment: Words in Annex Pt. A point 7.1.3.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xii)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a67f447abbeadce2d16227ca260414b]: Textual amendment: Words in Annex Pt. A point 7.1.3.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xii)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c3e72de7484582b4c20c975509c57a0b]: Textual amendment: Word in Annex Pt. A point 7.1.4.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xiii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xiii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3e72de7484582b4c20c975509c57a0b]: Textual amendment: Word in Annex Pt. A point 7.1.4.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xiii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xiii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1099038cdf8115b2b62c9349ff45e217]: Textual amendment: Word in Annex Pt. A point 7.2.2.4 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xiii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xiii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1099038cdf8115b2b62c9349ff45e217]: Textual amendment: Word in Annex Pt. A point 7.2.2.4 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xiii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xiii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-413c6084ac88bcafda8cbcbbb54073a3]: Textual amendment: Word in Annex Pt. A point 7.2.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xiii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xiii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-413c6084ac88bcafda8cbcbbb54073a3]: Textual amendment: Word in Annex Pt. A point 7.2.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xiii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xiii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d00a2930001fe32bc0fc2ec9b9f64b2f]: Textual amendment: Word in Annex Pt. A point 7.3.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xiii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xiii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d00a2930001fe32bc0fc2ec9b9f64b2f]: Textual amendment: Word in Annex Pt. A point 7.3.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xiii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xiii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-04b0f6662c54b6cd210c9935bcadac76]: Textual amendment: Word in Annex Pt. A Section 8 Introduction point 1 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xiv)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xiv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-04b0f6662c54b6cd210c9935bcadac76]: Textual amendment: Word in Annex Pt. A Section 8 Introduction point 1 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xiv)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xiv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00019]: Footnote: European Communities (2011) Publication ISBN: 978-92-79-16228-2.
 
 [^f00020]: Footnote: [OJ L 327, 22.12.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.327.01.0001.01.ENG).
 
-[^key-e047589642b9881bd49c3fb9810f1d14]: Textual amendment: Word in Annex Pt. A point 8.1.5 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xv)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xv/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e047589642b9881bd49c3fb9810f1d14]: Textual amendment: Word in Annex Pt. A point 8.1.5 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xv)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xv/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b32fcce1b1e7004f6858207dcab01a29]: Textual amendment: Word in Annex Pt. A point 8.1.5 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xv)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xv/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b32fcce1b1e7004f6858207dcab01a29]: Textual amendment: Word in Annex Pt. A point 8.1.5 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xv)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xv/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc46d0a7e572c107595a76446de7aab7]: Textual amendment: Word in Annex Pt. A point 8.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xvi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xvi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc46d0a7e572c107595a76446de7aab7]: Textual amendment: Word in Annex Pt. A point 8.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xvi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xvi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5134cd06b5d58aebae01730ea3af89ea]: Textual amendment: Word in Annex Pt. A point 8.2.2.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xvi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xvi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5134cd06b5d58aebae01730ea3af89ea]: Textual amendment: Word in Annex Pt. A point 8.2.2.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xvi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xvi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6c61ed5003291bbff4f8fb66315bf0aa]: Textual amendment: Word in Annex Pt. A point 8.2.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xvii)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xvii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c61ed5003291bbff4f8fb66315bf0aa]: Textual amendment: Word in Annex Pt. A point 8.2.3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xvii)(aa)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xvii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f63be41ae1feb6f55717dab7c5e95cd4]: Textual amendment: Word in Annex Pt. A point 8.2.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xvii)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xvii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f63be41ae1feb6f55717dab7c5e95cd4]: Textual amendment: Word in Annex Pt. A point 8.2.3 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xvii)(bb)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xvii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-360aa3d71e49e246546c3e0497b7796b]: Textual amendment: Word in Annex Pt. A point 8.2.7 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xviii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xviii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-360aa3d71e49e246546c3e0497b7796b]: Textual amendment: Word in Annex Pt. A point 8.2.7 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xviii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xviii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28444378cc61fc31a9e05f12d74bd442]: Textual amendment: Word in Annex Pt. A point 8.2.8 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xviii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xviii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28444378cc61fc31a9e05f12d74bd442]: Textual amendment: Word in Annex Pt. A point 8.2.8 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xviii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xviii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00021]: Footnote: LR<sub>50</sub>, abbreviation for ‘Lethal Rate, 50 %’, that is to say the application rate required to kill half the members of a tested population after a specified test duration.
 
 [^f00022]: Footnote: ER<sub>50</sub>, abbreviation for ‘Effect Rate, 50 %’, that is to say the application rate required to cause an effect on half the members of a tested population after a specified test duration.
 
-[^key-6ac3a53cc4a8aced11310eeb3ee6ef56]: Textual amendment: Word in Annex Pt. A point 8.3.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xviii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xviii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ac3a53cc4a8aced11310eeb3ee6ef56]: Textual amendment: Word in Annex Pt. A point 8.3.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xviii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xviii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b937764b255e3bf911e5f527fd75dde5]: Textual amendment: Word in Annex Pt. A point 8.4.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xviii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xviii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b937764b255e3bf911e5f527fd75dde5]: Textual amendment: Word in Annex Pt. A point 8.4.2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(b)(xviii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/b/xviii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00023]: Footnote: USEPA Microbial Pesticide Test Guidelines, OPPTS Series 885, February 1996.
 
-[^key-dc5aea81417c9877a901d04fe81e0b32]: Textual amendment: Words in Annex Pt. B point 1.1 substituted (31.12.2020) by [S.I. 2019/556](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(i)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/i) (as substituted by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc5aea81417c9877a901d04fe81e0b32]: Textual amendment: Words in Annex Pt. B point 1.1 substituted (31.12.2020) by [S.I. 2019/556](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(i)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/i) (as substituted by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(17)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/17/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b080b9945f7c14ccd6f66161297ef6e8]: Textual amendment: Words in Annex Pt. B point 1.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b080b9945f7c14ccd6f66161297ef6e8]: Textual amendment: Words in Annex Pt. B point 1.2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00024]: Footnote: [OJ L 106, 17.4.2001, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.106.01.0001.01.ENG).
 
-[^key-4ce77bb8a9ca07d3497c14b4bb60c905]: Textual amendment: Words in Annex Pt. B point 1.4.1 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ce77bb8a9ca07d3497c14b4bb60c905]: Textual amendment: Words in Annex Pt. B point 1.4.1 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c558ef2a1aacdca06af75bf7e56e0098]: Textual amendment: Words in Annex Pt. B point 5.1.1 inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c558ef2a1aacdca06af75bf7e56e0098]: Textual amendment: Words in Annex Pt. B point 5.1.1 inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00025]: Footnote: The available methods for testing dermal sensitisation are not suitable for testing micro-organisms. Sensitisation by inhalation is most probably a greater problem compared with dermal exposure to micro-organisms but so far, there are no validated test methods. Development of these kinds of methods is therefore of great importance. Until then, all micro-organisms should be regarded as potential sensitisers. This approach also takes into consideration immuno-compromised or other sensitive individuals in the population (e.g. pregnant women, new-born children or elderly).
 
@@ -4096,8 +4096,8 @@ A summary and evaluation of all data relevant to the environmental impact, shall
 
 [^f00028]: Footnote: As the present test methods are designed to be performed on soluble chemicals, it is necessary that the methods are developed so as to become relevant for micro-organisms.
 
-[^key-54966904a21ebf6959779bde63de6fe0]: Textual amendment: Word in Annex Pt. B point 7.1.1 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(iv)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-54966904a21ebf6959779bde63de6fe0]: Textual amendment: Word in Annex Pt. B point 7.1.1 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(iv)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4de7d74194438a256a416671fb0f7288]: Textual amendment: Words in Annex Pt. B point 8.6 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(v)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4de7d74194438a256a416671fb0f7288]: Textual amendment: Words in Annex Pt. B point 8.6 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(v)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f550ce4ce05da4c2200f833fb118669f]: Textual amendment: Words in Annex Pt. B s. 9 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(vi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/vi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f550ce4ce05da4c2200f833fb118669f]: Textual amendment: Words in Annex Pt. B s. 9 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [21(5)(c)(vi)](https://www.legislation.gov.uk/uksi/2019/556/regulation/21/5/c/vi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

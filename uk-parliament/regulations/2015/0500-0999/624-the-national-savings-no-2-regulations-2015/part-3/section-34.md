@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Power of joint holders to act without unanimity[^key-1a40589f236f9eca02ffe48f42697ad7]
+## 34. Power of joint holders to act without unanimity[^c-1a40589f236f9eca02ffe48f42697ad7]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ may be done and given by a majority of the persons who are holders at the date w
 
 ## Annotations
 
-[^key-1a40589f236f9eca02ffe48f42697ad7]: Commencement: Reg. 34 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-1a40589f236f9eca02ffe48f42697ad7]: Commencement: Reg. 34 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

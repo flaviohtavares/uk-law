@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (Passenger Transit Visa)(Amendment) Order 2011 (revoked)[^key-35c13781715990a877be5bcaf044511e]
+The Immigration (Passenger Transit Visa)(Amendment) Order 2011 (revoked)[^c-35c13781715990a877be5bcaf044511e]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 14th July 2011
 
-[^key-35c13781715990a877be5bcaf044511e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35c13781715990a877be5bcaf044511e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-35c13781715990a877be5bcaf044511e]
+## 1. Citation and Commencement[^c-35c13781715990a877be5bcaf044511e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Immigration (Passenger Transit Visa) Order 2003[^key-35c13781715990a877be5bcaf044511e]
+## 2. Amendment to the Immigration (Passenger Transit Visa) Order 2003[^c-35c13781715990a877be5bcaf044511e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35c13781715990a877be5bcaf044511e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35c13781715990a877be5bcaf044511e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-35c13781715990a877be5bcaf044511e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35c13781715990a877be5bcaf044511e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-35c13781715990a877be5bcaf044511e]: Textual amendment: Order revoked (1.12.2014) by [The Immigration (Passenger Transit Visa) Order 2014 (S.I. 2014/2702)](https://www.legislation.gov.uk/uksi/2014/2702), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2702/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2702/schedule/2)
+[^c-35c13781715990a877be5bcaf044511e]: Textual amendment: Order revoked (1.12.2014) by [The Immigration (Passenger Transit Visa) Order 2014 (S.I. 2014/2702)](https://www.legislation.gov.uk/uksi/2014/2702), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2702/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2702/schedule/2)

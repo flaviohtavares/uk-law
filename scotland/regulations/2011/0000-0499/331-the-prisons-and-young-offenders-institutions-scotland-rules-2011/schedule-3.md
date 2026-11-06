@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — CONSTITUTION OF VISITING COMMITTEES FOR LEGALISED POLICE CELLS[^key-25b55ffbcf91ecc73297e7c3030ac0be]
+## SCHEDULE 3 — CONSTITUTION OF VISITING COMMITTEES FOR LEGALISED POLICE CELLS[^c-25b55ffbcf91ecc73297e7c3030ac0be]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Rule 155
 
 ## Annotations
 
-[^key-25b55ffbcf91ecc73297e7c3030ac0be]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2011/331/schedule/3) revoked (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(9)](https://www.legislation.gov.uk/ssi/2015/39/article/4/9) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
+[^c-25b55ffbcf91ecc73297e7c3030ac0be]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2011/331/schedule/3) revoked (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(9)](https://www.legislation.gov.uk/ssi/2015/39/article/4/9) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))

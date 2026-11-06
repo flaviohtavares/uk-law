@@ -56,7 +56,7 @@ This Order may be cited as the Landfill Tax (Qualifying Fines) (No. 2) Order 201
 
 In this Order—
 
-- “hazardous waste” means anything that—[^key-3ee7f0ca14dc6668143044741e0202b7]
+- “hazardous waste” means anything that—[^c-3ee7f0ca14dc6668143044741e0202b7]
   - (a) is hazardous waste for the purposes of the Waste Directive, and
   - (b) is not excluded from the scope of the Waste Directive by Article 2 of that Directive;
 - “**LOI percentage**” means the amount of non-qualifying material contained in fines [^c22644671], as indicated by the percentage of the mass of those fines lost on ignition;
@@ -68,7 +68,7 @@ In this Order—
   - (a) the Waste (England and Wales) Regulations 2011 [^c22644701], where the transferor of material to a landfill site is a person in England and Wales;
   - (b) the Controlled Waste (Duty of Care) Regulations (Northern Ireland) 2002 [^c22644711], where the transferor of material to a landfill site is a person in Northern Ireland;
   - (c) the Environmental Protection (Duty of Care) (Scotland) Regulations 2014 [^c22644721], where the transferor of material to a landfill site is a person in Scotland.
-- “the Waste Directive” means[^key-b143a90c003aabd595712b71c1e4b76f] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and Council as modified by section 37(3) to (9) of the Waste and Emissions Trading Act 2003.
+- “the Waste Directive” means[^c-b143a90c003aabd595712b71c1e4b76f] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and Council as modified by section 37(3) to (9) of the Waste and Emissions Trading Act 2003.
 
 ## 3. Qualifying fines
 
@@ -120,7 +120,7 @@ A Tax Information and Impact Note covering this instrument was published on 10th
 
 [^c22644651]: Marginal citation: This Order replaces [S.I. 2015/845](https://www.legislation.gov.uk/uksi/2015/845) which ceased to have effect on 14th June 2015 pursuant to section 71(4) of the Finance Act 1996.
 
-[^key-3ee7f0ca14dc6668143044741e0202b7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/1385/article/2) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [35(2)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/35/2/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ee7f0ca14dc6668143044741e0202b7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/1385/article/2) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [35(2)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/35/2/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22644671]: Marginal citation: Section 70(1) of the Finance Act 1996 defines “fines” as particles produced by a waste treatment process that involves an element of mechanical treatment.
 
@@ -134,6 +134,6 @@ A Tax Information and Impact Note covering this instrument was published on 10th
 
 [^c22644721]: Marginal citation: [S.S.I. 2014/4](https://www.legislation.gov.uk/ssi/2014/4).
 
-[^key-b143a90c003aabd595712b71c1e4b76f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/1385/article/2) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/35/2/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b143a90c003aabd595712b71c1e4b76f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/1385/article/2) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/35/2/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22644731]: Marginal citation: [Section 47(10)](https://www.legislation.gov.uk/uksi/2015/1385/section/47/10) of the Finance Act 1996 defines a registrable person as a person who is, or is liable to be, registered under that section.

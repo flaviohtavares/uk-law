@@ -36,7 +36,7 @@ where
 
 - (a) if D dies in service—
 
-  AR is D's annual rate of pensionable earnings as at the date of D's death (disregarding any reduction by reason of sick leave, maternity leave, paternity leave, [^key-669e28cb78e84332023b965ee884505c]... shared parental leave or adoption leave[^M_F_209debcf-5239-4294-b95d-11aa30a6d32f]); and
+  AR is D's annual rate of pensionable earnings as at the date of D's death (disregarding any reduction by reason of sick leave, maternity leave, paternity leave, [^c-669e28cb78e84332023b965ee884505c]... shared parental leave or adoption leave[^M_F_209debcf-5239-4294-b95d-11aa30a6d32f]); and
 
   EC is the number of D's eligible children;
 - (b) if D dies as a pensioner member—
@@ -51,6 +51,6 @@ where
 
 ## Annotations
 
-[^key-669e28cb78e84332023b965ee884505c]: Textual amendment: Words in [reg. 150(2)(a)](https://www.legislation.gov.uk/nisr/2014/310/regulation/150/2/a) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [23(8)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/23/8/a) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+[^c-669e28cb78e84332023b965ee884505c]: Textual amendment: Words in [reg. 150(2)(a)](https://www.legislation.gov.uk/nisr/2014/310/regulation/150/2/a) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [23(8)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/23/8/a) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
 
 [^M_F_209debcf-5239-4294-b95d-11aa30a6d32f]: Textual amendment: Words in reg. 150(2)(a) substituted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [23(8)(b)](https://www.legislation.gov.uk/nisr/2015/146/article/23/8/b)

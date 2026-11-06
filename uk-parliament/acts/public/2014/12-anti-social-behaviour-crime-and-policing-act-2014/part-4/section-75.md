@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Saving and transitional provision[^key-91b7a2806bc1f51260b71b57fae51dc9]
+## 75. Saving and transitional provision[^c-91b7a2806bc1f51260b71b57fae51dc9]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ This Part, as it applies by virtue of paragraph (a), has effect with any necessa
 
 ## Annotations
 
-[^key-91b7a2806bc1f51260b71b57fae51dc9]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2014/12/section/75) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-91b7a2806bc1f51260b71b57fae51dc9]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2014/12/section/75) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

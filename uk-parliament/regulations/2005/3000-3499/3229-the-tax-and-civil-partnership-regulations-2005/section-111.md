@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111.[^key-bd44037fd34d98f74806b4184b44f3d7]
+## 111.[^c-bd44037fd34d98f74806b4184b44f3d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 162A (transfer of business to a company: elections), in subsection (5
 
 ## Annotations
 
-[^key-bd44037fd34d98f74806b4184b44f3d7]: Commencement: Reg. 111 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-bd44037fd34d98f74806b4184b44f3d7]: Commencement: Reg. 111 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

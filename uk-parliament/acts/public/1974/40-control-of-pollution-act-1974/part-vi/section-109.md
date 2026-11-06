@@ -27,7 +27,7 @@ summary: ''
 - (a) without prejudice to the generality of section 104(1)(a) of this Act, different days may be appointed in pursuance of this subsection for different provisions of this Act and for such different purposes of the same provision as may be specified in the order;
 - (b) Any provision appointing a day in pursuance of this subsection may be revoked or varied by an order made by the Secretary of State which comes into force before that day.
 
-(3) This Act, except sections [^c2462491]... [^key-69a140513781704a98b18bb626433ad7]... 101 and this section, does not extend to Northern Ireland.
+(3) This Act, except sections [^c2462491]... [^c-69a140513781704a98b18bb626433ad7]... 101 and this section, does not extend to Northern Ireland.
 
 ## Annotations
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c2462491]: Textual amendment: Words in s.109(3) repealed (27.8.1993) by [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/1993/11/section/67/3), [68(2)](https://www.legislation.gov.uk/ukpga/1993/11/section/68/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/1993/11/schedule/6)
 
-[^key-69a140513781704a98b18bb626433ad7]: Textual amendment: Words in s. 109(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-69a140513781704a98b18bb626433ad7]: Textual amendment: Words in s. 109(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)

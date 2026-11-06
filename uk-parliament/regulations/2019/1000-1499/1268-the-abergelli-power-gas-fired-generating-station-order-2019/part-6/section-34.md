@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Felling or lopping of trees and removal of hedgerows[^key-1dd19747da9920bf319e503318d670f7]
+## 34. Felling or lopping of trees and removal of hedgerows[^c-1dd19747da9920bf319e503318d670f7]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) The undertaker may, for the purposes of the authorised development and subject to paragraph (3), remove any hedgerows within the Order land and specified in Schedule 10 (removal of hedgerows).
 
-(3) In carrying out any activity authorised by paragraph (1) or (2)[^key-0ab6defe090b1a31093b0652821b3cc8], the undertaker must do no unnecessary damage to any tree or shrub and must pay compensation to any person for any loss or damage arising from such activity.
+(3) In carrying out any activity authorised by paragraph (1) or (2)[^c-0ab6defe090b1a31093b0652821b3cc8], the undertaker must do no unnecessary damage to any tree or shrub and must pay compensation to any person for any loss or damage arising from such activity.
 
 (4) Any dispute as to a person’s entitlement to compensation under paragraph (3), or as to the amount of compensation, is to be determined under Part 1 of the 1961 Act.
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1dd19747da9920bf319e503318d670f7]: Commencement: Art. 34 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-1dd19747da9920bf319e503318d670f7]: Commencement: Art. 34 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-0ab6defe090b1a31093b0652821b3cc8]: Textual amendment: Word in [art. 34(3)](https://www.legislation.gov.uk/uksi/2019/1268/article/34/3) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)
+[^c-0ab6defe090b1a31093b0652821b3cc8]: Textual amendment: Word in [art. 34(3)](https://www.legislation.gov.uk/uksi/2019/1268/article/34/3) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)
 
 [^f00024]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).

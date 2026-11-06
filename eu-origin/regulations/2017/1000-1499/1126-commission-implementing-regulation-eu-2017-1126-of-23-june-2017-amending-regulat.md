@@ -35,36 +35,36 @@ amending Regulation (EC) No 903/2009 and Implementing Regulations (EU) No 373/20
 
 (Text with EEA relevance) (revoked)
 
-[^key-f85007e4e9e5142030b434579efd44a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f85007e4e9e5142030b434579efd44a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendment to Regulation (EC) No 903/2009[^key-f85007e4e9e5142030b434579efd44a5]
+## Article 1. Amendment to Regulation (EC) No 903/2009[^c-f85007e4e9e5142030b434579efd44a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendment to Implementing Regulation (EU) No 373/2011[^key-f85007e4e9e5142030b434579efd44a5]
+## Article 2. Amendment to Implementing Regulation (EU) No 373/2011[^c-f85007e4e9e5142030b434579efd44a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Implementing Regulation (EU) No 374/2013[^key-f85007e4e9e5142030b434579efd44a5]
+## Article 3. Amendment to Implementing Regulation (EU) No 374/2013[^c-f85007e4e9e5142030b434579efd44a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendment to Implementing Regulation (EU) No 1108/2014[^key-f85007e4e9e5142030b434579efd44a5]
+## Article 4. Amendment to Implementing Regulation (EU) No 1108/2014[^c-f85007e4e9e5142030b434579efd44a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Transitional measures[^key-f85007e4e9e5142030b434579efd44a5]
+## Article 5. Transitional measures[^c-f85007e4e9e5142030b434579efd44a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-f85007e4e9e5142030b434579efd44a5]
+## Article 6. Entry into force[^c-f85007e4e9e5142030b434579efd44a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f85007e4e9e5142030b434579efd44a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f85007e4e9e5142030b434579efd44a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f85007e4e9e5142030b434579efd44a5]: Textual amendment: [Regulation](https://www.legislation.gov.uk/eur/2017/1126) revoked: (W.) (24.11.2022) by [The Feed Additives (Authorisations) (Wales) Regulations 2022 (S.I. 2022/1118)](https://www.legislation.gov.uk/wsi/2022/1118), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/1118/regulation/1/2/c), [Sch. 12](https://www.legislation.gov.uk/wsi/2022/1118/schedule/12) (with [regs. 9](https://www.legislation.gov.uk/wsi/2022/1118/regulation/9), [10(2)-(5)](https://www.legislation.gov.uk/wsi/2022/1118/regulation/10/2), [11](https://www.legislation.gov.uk/wsi/2022/1118/regulation/11)); (S.) (24.11.2022) by [The Feed Additives (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/288)](https://www.legislation.gov.uk/ssi/2022/288), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/288/regulation/1/1), [sch. 12 para. 14](https://www.legislation.gov.uk/ssi/2022/288/schedule/12/paragraph/14) (with [regs. 8](https://www.legislation.gov.uk/ssi/2022/288/regulation/8), [9(2)-(5)](https://www.legislation.gov.uk/ssi/2022/288/regulation/9/2), [10](https://www.legislation.gov.uk/ssi/2022/288/regulation/10)); and (E.) (25.11.2022) by [The Feed Additives (Authorisations) (England) Regulations 2022 (S.I. 2022/1129)](https://www.legislation.gov.uk/uksi/2022/1129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/1/1), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1129/schedule/12) (with [regs. 8(2)-(5)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/8/2), [9](https://www.legislation.gov.uk/uksi/2022/1129/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/1129/regulation/10))
+[^c-f85007e4e9e5142030b434579efd44a5]: Textual amendment: [Regulation](https://www.legislation.gov.uk/eur/2017/1126) revoked: (W.) (24.11.2022) by [The Feed Additives (Authorisations) (Wales) Regulations 2022 (S.I. 2022/1118)](https://www.legislation.gov.uk/wsi/2022/1118), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/1118/regulation/1/2/c), [Sch. 12](https://www.legislation.gov.uk/wsi/2022/1118/schedule/12) (with [regs. 9](https://www.legislation.gov.uk/wsi/2022/1118/regulation/9), [10(2)-(5)](https://www.legislation.gov.uk/wsi/2022/1118/regulation/10/2), [11](https://www.legislation.gov.uk/wsi/2022/1118/regulation/11)); (S.) (24.11.2022) by [The Feed Additives (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/288)](https://www.legislation.gov.uk/ssi/2022/288), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/288/regulation/1/1), [sch. 12 para. 14](https://www.legislation.gov.uk/ssi/2022/288/schedule/12/paragraph/14) (with [regs. 8](https://www.legislation.gov.uk/ssi/2022/288/regulation/8), [9(2)-(5)](https://www.legislation.gov.uk/ssi/2022/288/regulation/9/2), [10](https://www.legislation.gov.uk/ssi/2022/288/regulation/10)); and (E.) (25.11.2022) by [The Feed Additives (Authorisations) (England) Regulations 2022 (S.I. 2022/1129)](https://www.legislation.gov.uk/uksi/2022/1129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/1/1), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1129/schedule/12) (with [regs. 8(2)-(5)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/8/2), [9](https://www.legislation.gov.uk/uksi/2022/1129/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/1129/regulation/10))

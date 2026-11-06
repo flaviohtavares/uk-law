@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88B. Designation as international organisation of which UK is member[^key-83f47b86a20a6f8c2119a12ca6bfce23]
+## 88B. Designation as international organisation of which UK is member[^c-83f47b86a20a6f8c2119a12ca6bfce23]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83f47b86a20a6f8c2119a12ca6bfce23]: Textual amendment: Ss. 88A, 88B repealed (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/1)
+[^c-83f47b86a20a6f8c2119a12ca6bfce23]: Textual amendment: Ss. 88A, 88B repealed (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/1)

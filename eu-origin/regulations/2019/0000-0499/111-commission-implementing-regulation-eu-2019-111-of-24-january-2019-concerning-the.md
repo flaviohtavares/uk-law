@@ -35,22 +35,22 @@ concerning the authorisation of hop extract (*Humulus lupulus* L. flos) as a fee
 
 (Text with EEA relevance) (revoked)
 
-[^key-d67f4ae3795f8d851ebc94dc6aab0ccd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d67f4ae3795f8d851ebc94dc6aab0ccd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-d67f4ae3795f8d851ebc94dc6aab0ccd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-d67f4ae3795f8d851ebc94dc6aab0ccd]
+## Article 1. Authorisation[^c-d67f4ae3795f8d851ebc94dc6aab0ccd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d67f4ae3795f8d851ebc94dc6aab0ccd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-d67f4ae3795f8d851ebc94dc6aab0ccd]
 
-## ANNEX[^key-d67f4ae3795f8d851ebc94dc6aab0ccd]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d67f4ae3795f8d851ebc94dc6aab0ccd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-d67f4ae3795f8d851ebc94dc6aab0ccd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d67f4ae3795f8d851ebc94dc6aab0ccd]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 309](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/309) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d67f4ae3795f8d851ebc94dc6aab0ccd]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 309](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/309) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

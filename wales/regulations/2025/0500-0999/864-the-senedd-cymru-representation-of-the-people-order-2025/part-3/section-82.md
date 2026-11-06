@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Treating[^key-09d552ce9d0eb639dae3f466043bb339]
+## 82. Treating[^c-09d552ce9d0eb639dae3f466043bb339]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09d552ce9d0eb639dae3f466043bb339]: Commencement: Art. 82 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-09d552ce9d0eb639dae3f466043bb339]: Commencement: Art. 82 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

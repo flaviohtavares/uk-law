@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Revocation[^key-cdacc806480901cc8748f3b3f1bd8d11]
+## 11. Revocation[^c-cdacc806480901cc8748f3b3f1bd8d11]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Community Designs (Designation of Community Design Courts) Regulations 2005 
 
 ## Annotations
 
-[^key-cdacc806480901cc8748f3b3f1bd8d11]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-cdacc806480901cc8748f3b3f1bd8d11]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23664101]: Marginal citation: [S.I. 2005/696](https://www.legislation.gov.uk/uksi/2005/696).

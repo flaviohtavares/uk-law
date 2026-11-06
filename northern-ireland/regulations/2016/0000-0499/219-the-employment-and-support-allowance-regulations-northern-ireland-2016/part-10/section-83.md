@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Calculation of net profit of self-employed earners[^key-d7110093c0fe255f12c7d38b2274d433]
+## 83. Calculation of net profit of self-employed earners[^c-d7110093c0fe255f12c7d38b2274d433]
 
 *Extent: N.I.*
 
@@ -81,7 +81,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d7110093c0fe255f12c7d38b2274d433]: Commencement: [Reg. 83](https://www.legislation.gov.uk/nisr/2016/219/regulation/83) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-d7110093c0fe255f12c7d38b2274d433]: Commencement: [Reg. 83](https://www.legislation.gov.uk/nisr/2016/219/regulation/83) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00084]: Footnote: [S.R. 1975 No. 108](https://www.legislation.gov.uk/nisr/1975/108)
 

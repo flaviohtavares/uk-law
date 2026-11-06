@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Exemption for fuel used in recycling processes[^key-806492404a574977a35a4220761a0eac]
+## 188. Exemption for fuel used in recycling processes[^c-806492404a574977a35a4220761a0eac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-806492404a574977a35a4220761a0eac]: Textual amendment: [S. 188](https://www.legislation.gov.uk/ukpga/2003/14/section/188) omitted (with effect in accordance with Sch. 30 para. 19 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 30 para. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/30/paragraph/17)
+[^c-806492404a574977a35a4220761a0eac]: Textual amendment: [S. 188](https://www.legislation.gov.uk/ukpga/2003/14/section/188) omitted (with effect in accordance with Sch. 30 para. 19 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 30 para. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/30/paragraph/17)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 108. Fees[^key-b8e4aa0855622b7eb6020db652a71420]
+## Article 108. Fees[^c-b8e4aa0855622b7eb6020db652a71420]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8e4aa0855622b7eb6020db652a71420]: Textual amendment: [Art. 108](https://www.legislation.gov.uk/eur/2013/1308/article/108) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [42](https://www.legislation.gov.uk/uksi/2019/821/regulation/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8e4aa0855622b7eb6020db652a71420]: Textual amendment: [Art. 108](https://www.legislation.gov.uk/eur/2013/1308/article/108) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [42](https://www.legislation.gov.uk/uksi/2019/821/regulation/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

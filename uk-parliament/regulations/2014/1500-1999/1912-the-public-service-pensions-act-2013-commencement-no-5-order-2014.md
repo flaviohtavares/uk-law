@@ -37,17 +37,17 @@ Made
 
 The Treasury make the following Order in exercise of the powers conferred by section 41(2) and (3) of the Public Service Pensions Act 2013[^f00001]:
 
-## 1. Citation and interpretation[^key-b8153d92615ae561626f4e4d7ec636fd]
+## 1. Citation and interpretation[^c-b8153d92615ae561626f4e4d7ec636fd]
 
 (1) This Order may be cited as the Public Service Pensions Act 2013 (Commencement No. 5) Order 2014.
 
 (2) In this Order, “the Act” means the Public Service Pensions Act 2013.
 
-## 2. Commencement of provision relating to Parliamentary and other pension schemes[^key-1f01d311a9c33022c256c2df90105686]
+## 2. Commencement of provision relating to Parliamentary and other pension schemes[^c-1f01d311a9c33022c256c2df90105686]
 
 31st July 2014 is the day appointed for the coming into force of section 34 of the Act (Parliamentary and other pension schemes: pension age) for all purposes.
 
-## 3. Commencement of provisions on governance, valuations and employer cost cap[^key-90d34c893407fd5c405a6620af1fd8df]
+## 3. Commencement of provisions on governance, valuations and employer cost cap[^c-90d34c893407fd5c405a6620af1fd8df]
 
 (1) 1st April 2015 is the day appointed for the coming into force of the provisions of the Act identified in paragraph (2) for all purposes (or as the case may be, all remaining purposes), except for the purpose of making scheme regulations to establish schemes for the payment of pensions and other benefits to or in respect of local government workers in England and Wales.
 
@@ -56,11 +56,11 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 - (a) section 4 (scheme manager);
 - (b) section 5 (pension board);
 - (c) section 6 (pension board: information);
-- (d) section 7 (scheme advisory board); and[^key-720e7075a9cedefcb6f2df72356ed6f9]
-- (e) section 11 (valuations); [^key-782b439b2baae2868556d2943c9a9a97]...
-- (f)[^key-782b439b2baae2868556d2943c9a9a97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) section 7 (scheme advisory board); and[^c-720e7075a9cedefcb6f2df72356ed6f9]
+- (e) section 11 (valuations); [^c-782b439b2baae2868556d2943c9a9a97]...
+- (f)[^c-782b439b2baae2868556d2943c9a9a97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-36c6ad5ec2f9739bcf68346a20479003] 1st April 2015 is the day appointed for the coming into force of section 12 of the Act (employer cost cap) for all remaining purposes, except for the purpose of making scheme regulations to establish schemes for the payment of pensions and other benefits to or in respect of local government workers.
+(3)[^c-36c6ad5ec2f9739bcf68346a20479003] 1st April 2015 is the day appointed for the coming into force of section 12 of the Act (employer cost cap) for all remaining purposes, except for the purpose of making scheme regulations to establish schemes for the payment of pensions and other benefits to or in respect of local government workers.
 
 Signed
 
@@ -150,14 +150,14 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-b8153d92615ae561626f4e4d7ec636fd]: Commencement: Art. 1 in force at made date
+[^c-b8153d92615ae561626f4e4d7ec636fd]: Commencement: Art. 1 in force at made date
 
-[^key-1f01d311a9c33022c256c2df90105686]: Commencement: Art. 2 in force at made date
+[^c-1f01d311a9c33022c256c2df90105686]: Commencement: Art. 2 in force at made date
 
-[^key-90d34c893407fd5c405a6620af1fd8df]: Commencement: Art. 3 in force at made date
+[^c-90d34c893407fd5c405a6620af1fd8df]: Commencement: Art. 3 in force at made date
 
-[^key-720e7075a9cedefcb6f2df72356ed6f9]: Textual amendment: Word in art. 3(2)(d) inserted (6.1.2015) by [The Public Service Pensions Act 2013 (Commencement No. 6, Saving Provision and Amendment) Order 2015 (S.I. 2015/4)](https://www.legislation.gov.uk/uksi/2015/4), [art. 6(2)(a)](https://www.legislation.gov.uk/uksi/2015/4/article/6/2/a)
+[^c-720e7075a9cedefcb6f2df72356ed6f9]: Textual amendment: Word in art. 3(2)(d) inserted (6.1.2015) by [The Public Service Pensions Act 2013 (Commencement No. 6, Saving Provision and Amendment) Order 2015 (S.I. 2015/4)](https://www.legislation.gov.uk/uksi/2015/4), [art. 6(2)(a)](https://www.legislation.gov.uk/uksi/2015/4/article/6/2/a)
 
-[^key-782b439b2baae2868556d2943c9a9a97]: Textual amendment: Art. 3(2)(f) and word omitted (6.1.2015) by virtue of [The Public Service Pensions Act 2013 (Commencement No. 6, Saving Provision and Amendment) Order 2015 (S.I. 2015/4)](https://www.legislation.gov.uk/uksi/2015/4), [art. 6(2)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/6/2/b)
+[^c-782b439b2baae2868556d2943c9a9a97]: Textual amendment: Art. 3(2)(f) and word omitted (6.1.2015) by virtue of [The Public Service Pensions Act 2013 (Commencement No. 6, Saving Provision and Amendment) Order 2015 (S.I. 2015/4)](https://www.legislation.gov.uk/uksi/2015/4), [art. 6(2)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/6/2/b)
 
-[^key-36c6ad5ec2f9739bcf68346a20479003]: Textual amendment: Art. 3(3) inserted (6.1.2015) by [The Public Service Pensions Act 2013 (Commencement No. 6, Saving Provision and Amendment) Order 2015 (S.I. 2015/4)](https://www.legislation.gov.uk/uksi/2015/4), [art. 6(3)](https://www.legislation.gov.uk/uksi/2015/4/article/6/3)
+[^c-36c6ad5ec2f9739bcf68346a20479003]: Textual amendment: Art. 3(3) inserted (6.1.2015) by [The Public Service Pensions Act 2013 (Commencement No. 6, Saving Provision and Amendment) Order 2015 (S.I. 2015/4)](https://www.legislation.gov.uk/uksi/2015/4), [art. 6(3)](https://www.legislation.gov.uk/uksi/2015/4/article/6/3)

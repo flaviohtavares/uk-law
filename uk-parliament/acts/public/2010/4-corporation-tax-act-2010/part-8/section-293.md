@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 293. Relief for reimbursement expenditure under abandonment guarantees[^key-1b6f80d6c2efbcfa103cfb37468d1503]
+## 293. Relief for reimbursement expenditure under abandonment guarantees[^c-1b6f80d6c2efbcfa103cfb37468d1503]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b6f80d6c2efbcfa103cfb37468d1503]: Textual amendment: S. 293 omitted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 7(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/7/3)
+[^c-1b6f80d6c2efbcfa103cfb37468d1503]: Textual amendment: S. 293 omitted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 7(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/7/3)

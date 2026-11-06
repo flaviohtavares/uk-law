@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Transitional provision and pension arrangements[^key-1c7c612b599edebe8049f8618d07307c][^key-66f7ea6c24fa5030d5d7f4e4fc3b88d9]
+## 200. Transitional provision and pension arrangements[^c-1c7c612b599edebe8049f8618d07307c][^c-66f7ea6c24fa5030d5d7f4e4fc3b88d9]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c7c612b599edebe8049f8618d07307c]: Commencement: S. 200 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-1c7c612b599edebe8049f8618d07307c]: Commencement: S. 200 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-66f7ea6c24fa5030d5d7f4e4fc3b88d9]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2023/52/section/200) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-66f7ea6c24fa5030d5d7f4e4fc3b88d9]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2023/52/section/200) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)

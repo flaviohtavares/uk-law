@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Appeals from High Court.[^c12331071][^c12331081][^c12331111][^c20694351][^key-74cc816ed75c2216e3244e3c1c48047a]
+## 16. Appeals from High Court.[^c12331071][^c12331081][^c12331111][^c20694351][^c-74cc816ed75c2216e3244e3c1c48047a]
 
 *Extent: E+W*
 
-(1)[^c20742891] Subject as otherwise provided by this or any other Act (and in particular to the provision in section 13(2)(a) of the [^c12331121]Administration of Justice Act 1969 excluding appeals to the Court of Appeal in cases where leave to appeal from the High Court directly to the Supreme Court[^c20742901] is granted under Part II of that Act), or as provided by any order made by the Lord Chancellor under section 56(1) of the Access to Justice Act 1999,[^c12331131] or as provided by any order made by the Lord Chancellor under section 56(1) of the Access to Justice Act 1999,[^key-387838db4d8a910374a4bf4351309c01] the Court of Appeal shall have jurisdiction to hear and determine appeals from any judgment or order of the High Court.
+(1)[^c20742891] Subject as otherwise provided by this or any other Act (and in particular to the provision in section 13(2)(a) of the [^c12331121]Administration of Justice Act 1969 excluding appeals to the Court of Appeal in cases where leave to appeal from the High Court directly to the Supreme Court[^c20742901] is granted under Part II of that Act), or as provided by any order made by the Lord Chancellor under section 56(1) of the Access to Justice Act 1999,[^c12331131] or as provided by any order made by the Lord Chancellor under section 56(1) of the Access to Justice Act 1999,[^c-387838db4d8a910374a4bf4351309c01] the Court of Appeal shall have jurisdiction to hear and determine appeals from any judgment or order of the High Court.
 
 (2) An appeal from a judgment or order of the High Court when acting as a prize court shall not be to the Court of Appeal, but shall be to Her Majesty in Council in accordance with the Prize Acts 1864 to 1944.
 
@@ -34,7 +34,7 @@ summary: ''
 
 [^c20694351]: Modification: S. 16 excluded (2.10.2006) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [Sch. 3 para. 3B(6)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/3/paragraph/3B/6) (as inserted by [Criminal Defence Service Act 2006 (c. 9)](https://www.legislation.gov.uk/ukpga/2006/9), [ss. 2](https://www.legislation.gov.uk/ukpga/2006/9/section/2), [5(2)](https://www.legislation.gov.uk/ukpga/2006/9/section/5/2); [S.I. 2006/2491](https://www.legislation.gov.uk/uksi/2006/2491), [art. 2](https://www.legislation.gov.uk/uksi/2006/2491/article/2))
 
-[^key-74cc816ed75c2216e3244e3c1c48047a]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/1981/54/section/16) modified (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [ss. 184(4)](https://www.legislation.gov.uk/asc/2023/3/section/184/4), [212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-74cc816ed75c2216e3244e3c1c48047a]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/1981/54/section/16) modified (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [ss. 184(4)](https://www.legislation.gov.uk/asc/2023/3/section/184/4), [212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
 
 [^c20742891]: Modification: S. 16(1) excluded (22.11.2005) by [The Access to Justice Act 1999 (Destination of Appeals) (Family Proceedings) Order 2005 (S.I. 2005/3276)](https://www.legislation.gov.uk/uksi/2005/3276), [art. 1(3)(b)(i)](https://www.legislation.gov.uk/uksi/2005/3276/article/1/3/b/i)
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c12331131]: Textual amendment: Words in s. 16(1) inserted (2.5.2000) by [S.I. 2000/1071](https://www.legislation.gov.uk/uksi/2000/1071), [art. 7](https://www.legislation.gov.uk/uksi/2000/1071/article/7)
 
-[^key-387838db4d8a910374a4bf4351309c01]: Textual amendment: Words in s. 16(1) inserted (3.10.2016) by [The Access to Justice Act 1999 (Destination of Appeals) Order 2016 (S.I. 2016/917)](https://www.legislation.gov.uk/uksi/2016/917), [art. 9](https://www.legislation.gov.uk/uksi/2016/917/article/9) (with [art. 8](https://www.legislation.gov.uk/uksi/2016/917/article/8))
+[^c-387838db4d8a910374a4bf4351309c01]: Textual amendment: Words in s. 16(1) inserted (3.10.2016) by [The Access to Justice Act 1999 (Destination of Appeals) Order 2016 (S.I. 2016/917)](https://www.legislation.gov.uk/uksi/2016/917), [art. 9](https://www.legislation.gov.uk/uksi/2016/917/article/9) (with [art. 8](https://www.legislation.gov.uk/uksi/2016/917/article/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Collective redundancy notifications: ships’ crew[^key-83ea05f07f200a1004116fd0d247b4be][^key-a558bc9b50ab0375c6d9781556b18eb7]
+## 31. Collective redundancy notifications: ships’ crew[^c-83ea05f07f200a1004116fd0d247b4be][^c-a558bc9b50ab0375c6d9781556b18eb7]
 
 *Extent: E+W+S*
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83ea05f07f200a1004116fd0d247b4be]: Commencement: S. 31 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-83ea05f07f200a1004116fd0d247b4be]: Commencement: S. 31 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-a558bc9b50ab0375c6d9781556b18eb7]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/36/section/31) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(5)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/5)
+[^c-a558bc9b50ab0375c6d9781556b18eb7]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/36/section/31) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(5)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/5)

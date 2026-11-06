@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Report by building society liquidator[^key-10c30aeb1aa5f0b5ab7d309d5f7a7a6b]
+## 21. Report by building society liquidator[^c-10c30aeb1aa5f0b5ab7d309d5f7a7a6b]
 
 *Extent: S*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10c30aeb1aa5f0b5ab7d309d5f7a7a6b]: Commencement: Rule 21 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-10c30aeb1aa5f0b5ab7d309d5f7a7a6b]: Commencement: Rule 21 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00015]: Footnote: Section 176A was inserted by section 252 of the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).

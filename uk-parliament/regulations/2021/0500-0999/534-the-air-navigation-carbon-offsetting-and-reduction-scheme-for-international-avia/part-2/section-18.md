@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Submission of applications and notices to Regulators[^key-450b95db7d80d2fbe1ebc42a600d3ecf]
+## 18. Submission of applications and notices to Regulators[^c-450b95db7d80d2fbe1ebc42a600d3ecf]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-450b95db7d80d2fbe1ebc42a600d3ecf]: Commencement: Art. 18 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-450b95db7d80d2fbe1ebc42a600d3ecf]: Commencement: Art. 18 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

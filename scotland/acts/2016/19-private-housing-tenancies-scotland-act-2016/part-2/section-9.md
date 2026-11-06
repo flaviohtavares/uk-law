@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Protection of terms allowing use of shared living accommodation[^key-51a98dc941a6df6f9b75dc02cd05ffbe]
+## 9. Protection of terms allowing use of shared living accommodation[^c-51a98dc941a6df6f9b75dc02cd05ffbe]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51a98dc941a6df6f9b75dc02cd05ffbe]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/19/section/9) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-51a98dc941a6df6f9b75dc02cd05ffbe]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/19/section/9) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

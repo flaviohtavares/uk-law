@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Meaning of creditor in standard security with right to sell[^key-191341af485137d5f10752d6aec13ad0]
+## 73. Meaning of creditor in standard security with right to sell[^c-191341af485137d5f10752d6aec13ad0]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ After section 97 of the 2003 Act, insert—
 
 ## Annotations
 
-[^key-191341af485137d5f10752d6aec13ad0]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2015/6/section/73) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-191341af485137d5f10752d6aec13ad0]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2015/6/section/73) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

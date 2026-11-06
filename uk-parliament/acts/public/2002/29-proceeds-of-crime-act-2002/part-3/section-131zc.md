@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131ZC. Meaning of “UK-connected cryptoasset service provider”[^key-cec0b4f624b1f1b3f7ca85e4fc530601]
+## 131ZC. Meaning of “UK-connected cryptoasset service provider”[^c-cec0b4f624b1f1b3f7ca85e4fc530601]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cec0b4f624b1f1b3f7ca85e4fc530601]: Textual amendment: [Ss. 131ZB](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZB), [131ZC](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZC) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 29](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/29); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-cec0b4f624b1f1b3f7ca85e4fc530601]: Textual amendment: [Ss. 131ZB](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZB), [131ZC](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZC) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 29](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/29); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)

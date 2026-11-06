@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Application of regulations 28 to 31[^key-37fe1f616c19e002541c36af6fd806bc]
+## 27. Application of regulations 28 to 31[^c-37fe1f616c19e002541c36af6fd806bc]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Regulations 28 to 31 apply to mines at which explosives are transported, stored,
 
 ## Annotations
 
-[^key-37fe1f616c19e002541c36af6fd806bc]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2014/3248/regulation/27) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-37fe1f616c19e002541c36af6fd806bc]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2014/3248/regulation/27) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

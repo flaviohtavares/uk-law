@@ -56,11 +56,11 @@ In accordance with article 47(3) of the Nursing and Midwifery Order 2001 (“**t
 
 In accordance with articles 47(1) and 48 of the 2001 Order, the Rules shall not come into force until approved by Order of the Privy Council.
 
-## 1. Citation and commencement[^key-a6397c7bb9d92ccb83d00ee77e3015ac]
+## 1. Citation and commencement[^c-a6397c7bb9d92ccb83d00ee77e3015ac]
 
 This Order may be cited as the Nursing and Midwifery Council (Emergency Procedures) (Amendment) Rules 2020 Order of Council 2020 and comes into force on 31st March 2020.
 
-## 2. Privy Council approval[^key-edcc09bb03d17c650f1c4acab2890fa5]
+## 2. Privy Council approval[^c-edcc09bb03d17c650f1c4acab2890fa5]
 
 Their Lordships, having taken the Rules into consideration, are pleased to, and do approve them.
 
@@ -78,21 +78,21 @@ The Nursing and Midwifery Council have consulted in accordance with article 47(3
 
 ### PART 1 — Preliminaries
 
-#### 1. Citation and commencement[^key-0b69afe18721678a3801926c796fc534]
+#### 1. Citation and commencement[^c-0b69afe18721678a3801926c796fc534]
 
 These Rules may be cited as the Nursing and Midwifery Council (Emergency Procedures) (Amendment) Rules 2020 and come into force on 31st March 2020.
 
-**2.**[^key-cfdc5a57e571303a33d9f904290b8d07] (1) Where the Secretary of State advises the Registrar of the matters under article 9A(1)(a) [^c24046521] (temporary registration in emergencies involving loss of human life or human illness etc) of the 2001 Order, the following Rules have effect as if they were subject to the amendments made by Parts 2, 3 and 4 respectively—
+**2.**[^c-cfdc5a57e571303a33d9f904290b8d07] (1) Where the Secretary of State advises the Registrar of the matters under article 9A(1)(a) [^c24046521] (temporary registration in emergencies involving loss of human life or human illness etc) of the 2001 Order, the following Rules have effect as if they were subject to the amendments made by Parts 2, 3 and 4 respectively—
 
 - (a) the Nursing and Midwifery Council (Fitness to Practise) Rules 2004 [^c24046531];
 - (b) the Nursing and Midwifery Council (Education, Registration and Registration Appeals) Rules 2004 [^c24046541];
 - (c) the Nursing and Midwifery Council (Practice Committees) (Constitution) Rules 2008 [^c24046551].
 
-(2)[^key-e6b8a06b10445ee7ae83269bb1284e0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e6b8a06b10445ee7ae83269bb1284e0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2 — Amendment of the Nursing and Midwifery Council (Fitness to Practise) Rules 2004
 
-**3.**[^key-0657d40cfdba8b4adc68f30d78f95e76] (1) The Nursing and Midwifery Council (Fitness to Practise) Rules 2004 are amended as follows.
+**3.**[^c-0657d40cfdba8b4adc68f30d78f95e76] (1) The Nursing and Midwifery Council (Fitness to Practise) Rules 2004 are amended as follows.
 
 (2) After rule 2 (interpretation), insert—
 
@@ -138,7 +138,7 @@ These Rules may be cited as the Nursing and Midwifery Council (Emergency Procedu
 
 ### PART 3 — Amendment of the Nursing and Midwifery Council (Education, Registration and Registration Appeals) Rules 2004
 
-**4.**[^key-1c517408268561eb28c949fc838e50ca] (1) The Nursing and Midwifery Council (Education, Registration and Registration Appeals) Rules 2004 are amended as follows.
+**4.**[^c-1c517408268561eb28c949fc838e50ca] (1) The Nursing and Midwifery Council (Education, Registration and Registration Appeals) Rules 2004 are amended as follows.
 
 (2) After rule 2 (interpretation), insert—
 
@@ -188,7 +188,7 @@ These Rules may be cited as the Nursing and Midwifery Council (Emergency Procedu
 
 ### PART 4 — Amendment of the Nursing and Midwifery Council (Practice Committees) (Constitution) Rules 2008
 
-**5.**[^key-c7306a602896ed5802dd19f56482ddfa] (1) The Nursing and Midwifery Council (Practice Committees) (Constitution) Rules 2008 are amended as follows.
+**5.**[^c-c7306a602896ed5802dd19f56482ddfa] (1) The Nursing and Midwifery Council (Practice Committees) (Constitution) Rules 2008 are amended as follows.
 
 (2) In rule 6 (the practice committees)—
 
@@ -233,13 +233,13 @@ Part 4 of the Schedule amends the Practice Committee Constitution Rules. Paragra
 
 [^c24046511]: Marginal citation: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253). Relevant amending instruments are [S.I. 2008/1485](https://www.legislation.gov.uk/uksi/2008/1485), [2014/3272](https://www.legislation.gov.uk/uksi/2014/3272), [2017/321](https://www.legislation.gov.uk/uksi/2017/321) and [2018/838](https://www.legislation.gov.uk/uksi/2018/838).
 
-[^key-a6397c7bb9d92ccb83d00ee77e3015ac]: Commencement: Art. 1 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
+[^c-a6397c7bb9d92ccb83d00ee77e3015ac]: Commencement: Art. 1 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
 
-[^key-edcc09bb03d17c650f1c4acab2890fa5]: Commencement: Art. 2 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
+[^c-edcc09bb03d17c650f1c4acab2890fa5]: Commencement: Art. 2 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
 
-[^key-0b69afe18721678a3801926c796fc534]: Commencement: Sch. rule 1 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
+[^c-0b69afe18721678a3801926c796fc534]: Commencement: Sch. rule 1 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
 
-[^key-cfdc5a57e571303a33d9f904290b8d07]: Commencement: Sch. rule 2 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
+[^c-cfdc5a57e571303a33d9f904290b8d07]: Commencement: Sch. rule 2 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
 
 [^c24046521]: Marginal citation: Article 9A is inserted by section 2 of, and Schedule 1, of the [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7)
 
@@ -249,14 +249,14 @@ Part 4 of the Schedule amends the Practice Committee Constitution Rules. Paragra
 
 [^c24046551]: Marginal citation: [S.I. 2008/3148](https://www.legislation.gov.uk/uksi/2008/3148).
 
-[^key-e6b8a06b10445ee7ae83269bb1284e0f]: Textual amendment: Sch. rule 2(2) omitted (31.8.2020) by virtue of [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [art. 1](https://www.legislation.gov.uk/uksi/2020/821/article/1), [Sch. rule 5](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/5)
+[^c-e6b8a06b10445ee7ae83269bb1284e0f]: Textual amendment: Sch. rule 2(2) omitted (31.8.2020) by virtue of [The Nursing and Midwifery Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2020 (S.I. 2020/821)](https://www.legislation.gov.uk/uksi/2020/821), [art. 1](https://www.legislation.gov.uk/uksi/2020/821/article/1), [Sch. rule 5](https://www.legislation.gov.uk/uksi/2020/821/schedule/paragraph/5)
 
-[^key-0657d40cfdba8b4adc68f30d78f95e76]: Commencement: Sch. rule 3 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
+[^c-0657d40cfdba8b4adc68f30d78f95e76]: Commencement: Sch. rule 3 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
 
 [^c24046571]: Marginal citation: Relevant amending instrument is [S.I.2012/17](https://www.legislation.gov.uk/uksi/2012/17).
 
-[^key-1c517408268561eb28c949fc838e50ca]: Commencement: Sch. rule 4 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
+[^c-1c517408268561eb28c949fc838e50ca]: Commencement: Sch. rule 4 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
 
 [^c24046581]: Marginal citation: Relevant amending instrument is [S.I. 2005/3354](https://www.legislation.gov.uk/uksi/2005/3354).
 
-[^key-c7306a602896ed5802dd19f56482ddfa]: Commencement: Sch. rule 5 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)
+[^c-c7306a602896ed5802dd19f56482ddfa]: Commencement: Sch. rule 5 in force at 31.3.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/364/article/1)

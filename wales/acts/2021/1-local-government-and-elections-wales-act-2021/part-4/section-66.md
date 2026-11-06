@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Power to require authorities to appoint joint overview and scrutiny committees[^key-c528c7ace814287758756e878fefdca4]
+## 66. Power to require authorities to appoint joint overview and scrutiny committees[^c-c528c7ace814287758756e878fefdca4]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c528c7ace814287758756e878fefdca4]: Commencement: [S. 66](https://www.legislation.gov.uk/asc/2021/1/section/66) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)
+[^c-c528c7ace814287758756e878fefdca4]: Commencement: [S. 66](https://www.legislation.gov.uk/asc/2021/1/section/66) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)

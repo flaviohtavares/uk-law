@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Certain claimants to be treated as having limited capability for work-related activity[^key-b7ffc3fa1eb817aa8c8cf03fa82da4cf]
+## 35. Certain claimants to be treated as having limited capability for work-related activity[^c-b7ffc3fa1eb817aa8c8cf03fa82da4cf]
 
 *Extent: N.I.*
 
 (1) A claimant is to be treated as having limited capability for work-related activity if—
 
 - (a) the claimant is terminally ill;
-- (b)[^key-82c446c4b6983e646f57f4a73cc1a410] the claimant is—
+- (b)[^c-82c446c4b6983e646f57f4a73cc1a410] the claimant is—
   - (i) receiving treatment for cancer by way of chemotherapy or radiotherapy,
   - (ii) likely to receive such treatment within 6 months after the date of the determination of capability for work-related activity, or
   - (iii) recovering from such treatment,
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7ffc3fa1eb817aa8c8cf03fa82da4cf]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2008/280/regulation/35) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-b7ffc3fa1eb817aa8c8cf03fa82da4cf]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2008/280/regulation/35) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-82c446c4b6983e646f57f4a73cc1a410]: Textual amendment: [Reg. 35(1)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/35/1/b) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/2)](https://www.legislation.gov.uk/nisr/2013/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/2/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2013/2/regulation/4/3)
+[^c-82c446c4b6983e646f57f4a73cc1a410]: Textual amendment: [Reg. 35(1)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/35/1/b) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/2)](https://www.legislation.gov.uk/nisr/2013/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/2/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2013/2/regulation/4/3)

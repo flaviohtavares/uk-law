@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247. Functions of interim receiver[^key-3481df4b47427c912212272020292063]
+## 247. Functions of interim receiver[^c-3481df4b47427c912212272020292063]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ the interim receiver is not liable to any person in respect of any loss or damag
 
 ## Annotations
 
-[^key-3481df4b47427c912212272020292063]: Commencement: S. 247 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-3481df4b47427c912212272020292063]: Commencement: S. 247 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)

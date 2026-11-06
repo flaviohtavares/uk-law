@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Advertisement of removal[^key-45c8d23887b546996ae287d3c3fa6f7f]
+## 93. Advertisement of removal[^c-45c8d23887b546996ae287d3c3fa6f7f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.125 of the 1991 Rules.
 
 ## Annotations
 
-[^key-45c8d23887b546996ae287d3c3fa6f7f]: Commencement: Rule 93 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-45c8d23887b546996ae287d3c3fa6f7f]: Commencement: Rule 93 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

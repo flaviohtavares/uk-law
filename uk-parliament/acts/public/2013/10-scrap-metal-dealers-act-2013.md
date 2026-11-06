@@ -40,13 +40,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### 1. Requirement for licence to carry on business as scrap metal dealer
 
-(1)[^key-010ea1ef510620fa70d3c8bee52ba821] No person may carry on business as a scrap metal dealer unless authorised by a licence under this Act (a “scrap metal licence”).
+(1)[^c-010ea1ef510620fa70d3c8bee52ba821] No person may carry on business as a scrap metal dealer unless authorised by a licence under this Act (a “scrap metal licence”).
 
-(2)[^key-010ea1ef510620fa70d3c8bee52ba821] See section 21 for the meaning of “carry on business as a scrap metal dealer”.
+(2)[^c-010ea1ef510620fa70d3c8bee52ba821] See section 21 for the meaning of “carry on business as a scrap metal dealer”.
 
-(3)[^key-95bc556bc82bf97769bc98c81a8e007e] A person who carries on business as a scrap metal dealer in breach of subsection (1) is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(3)[^c-95bc556bc82bf97769bc98c81a8e007e] A person who carries on business as a scrap metal dealer in breach of subsection (1) is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 2. Form and effect of licence[^key-e0c48fdddbc2ce6f0cd9822a3191e2fa]
+### 2. Form and effect of licence[^c-e0c48fdddbc2ce6f0cd9822a3191e2fa]
 
 (1) A scrap metal licence is to be issued by a local authority.
 
@@ -82,7 +82,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (9) A person may hold more than one licence issued by different local authorities, but may not hold more than one licence issued by any one authority.
 
-### 3. Issue of licence[^key-39b626522f0e707818bc3f384daeaf48]
+### 3. Issue of licence[^c-39b626522f0e707818bc3f384daeaf48]
 
 (1) A local authority must not issue or renew a scrap metal licence unless it is satisfied that the applicant is a suitable person to carry on business as a scrap metal dealer.
 
@@ -125,7 +125,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (9) “**Specified**” means specified in the condition.
 
-### 4. Revocation of licence and imposition of conditions[^key-9650f1b345396f2767b7bb18805c4862]
+### 4. Revocation of licence and imposition of conditions[^c-9650f1b345396f2767b7bb18805c4862]
 
 (1) The authority may revoke a scrap metal licence if it is satisfied that the licensee does not carry on business at any of the sites identified in the licence.
 
@@ -146,11 +146,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (8) In this section “**the authority**” means the local authority which issued the licence.
 
-### 5. Further provision about licences[^key-14bf2d53cc9d00eef4bbd7f4a214b515][^key-8f8afc0a0e29b78761b282bdf3e99972]
+### 5. Further provision about licences[^c-14bf2d53cc9d00eef4bbd7f4a214b515][^c-8f8afc0a0e29b78761b282bdf3e99972]
 
 Schedule 1 (which makes further provision about licences) has effect.
 
-### 6. Supply of information by authority[^key-618ecb2d5e04a9b5988b34d434022625]
+### 6. Supply of information by authority[^c-618ecb2d5e04a9b5988b34d434022625]
 
 (1) This section applies to information which has been supplied to a local authority under this Act and relates to a scrap metal licence or to an application for or relating to a licence.
 
@@ -163,7 +163,7 @@ Schedule 1 (which makes further provision about licences) has effect.
 
 (3) This section does not limit any other power the authority has to supply that information.
 
-### 7. Register of licences[^key-d2f1ceb54616abdbb0f2f3163b46fef1]
+### 7. Register of licences[^c-d2f1ceb54616abdbb0f2f3163b46fef1]
 
 (1) The Environment Agency must maintain a register of scrap metal licences issued by authorities in England.
 
@@ -184,36 +184,36 @@ Schedule 1 (which makes further provision about licences) has effect.
 
 ### 8. Notification requirements
 
-(1)[^key-8e35e9402ae5d4233e55102ca279b270] An applicant for a scrap metal licence, or for the renewal or variation of a licence, must notify the authority to which the application was made of any changes which materially affect the accuracy of the information which the applicant has provided in connection with the application.
+(1)[^c-8e35e9402ae5d4233e55102ca279b270] An applicant for a scrap metal licence, or for the renewal or variation of a licence, must notify the authority to which the application was made of any changes which materially affect the accuracy of the information which the applicant has provided in connection with the application.
 
-(2)[^key-8e35e9402ae5d4233e55102ca279b270] A licensee who is not carrying on business as a scrap metal dealer in the area of the authority which issued the licence must notify the authority of that fact.
+(2)[^c-8e35e9402ae5d4233e55102ca279b270] A licensee who is not carrying on business as a scrap metal dealer in the area of the authority which issued the licence must notify the authority of that fact.
 
-(3)[^key-8e35e9402ae5d4233e55102ca279b270] Notification under subsection (2) must be given within 28 days of the beginning of the period in which the licensee is not carrying on business in that area while licensed.
+(3)[^c-8e35e9402ae5d4233e55102ca279b270] Notification under subsection (2) must be given within 28 days of the beginning of the period in which the licensee is not carrying on business in that area while licensed.
 
-(4)[^key-8e35e9402ae5d4233e55102ca279b270] If a licensee carries on business under a trading name, the licensee must notify the authority which issued the licence of any change to that name.
+(4)[^c-8e35e9402ae5d4233e55102ca279b270] If a licensee carries on business under a trading name, the licensee must notify the authority which issued the licence of any change to that name.
 
-(5)[^key-8e35e9402ae5d4233e55102ca279b270] Notification under subsection (4) must be given within 28 days of the change occurring.
+(5)[^c-8e35e9402ae5d4233e55102ca279b270] Notification under subsection (4) must be given within 28 days of the change occurring.
 
-(6)[^key-8e35e9402ae5d4233e55102ca279b270] An authority must notify the relevant environment body of—
+(6)[^c-8e35e9402ae5d4233e55102ca279b270] An authority must notify the relevant environment body of—
 
 - (a) any notification given to the authority under subsection (2) or (4),
 - (b) any variation made by the authority under paragraph 3 of Schedule 1 (variation of type of licence or matters set out in licence), and
 - (c) any revocation by the authority of a licence.
 
-(7)[^key-8e35e9402ae5d4233e55102ca279b270] Notification under subsection (6) must be given within 28 days of the notification, variation or revocation in question.
+(7)[^c-8e35e9402ae5d4233e55102ca279b270] Notification under subsection (6) must be given within 28 days of the notification, variation or revocation in question.
 
-(8)[^key-8e35e9402ae5d4233e55102ca279b270] Where an authority notifies the relevant environment body under subsection (6), the body must amend the register under section 7 accordingly.
+(8)[^c-8e35e9402ae5d4233e55102ca279b270] Where an authority notifies the relevant environment body under subsection (6), the body must amend the register under section 7 accordingly.
 
-(9)[^key-21602c5bec93a74e3083b315b2710f9f] An applicant or licensee who fails to comply with this section is guilty of an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+(9)[^c-21602c5bec93a74e3083b315b2710f9f] An applicant or licensee who fails to comply with this section is guilty of an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(10)[^key-21602c5bec93a74e3083b315b2710f9f] It is a defence for a person charged with an offence under this section to prove that the person took all reasonable steps to avoid committing the offence.
+(10)[^c-21602c5bec93a74e3083b315b2710f9f] It is a defence for a person charged with an offence under this section to prove that the person took all reasonable steps to avoid committing the offence.
 
-(11)[^key-8e35e9402ae5d4233e55102ca279b270] In this section “**the relevant environment body**” means—
+(11)[^c-8e35e9402ae5d4233e55102ca279b270] In this section “**the relevant environment body**” means—
 
 - (a) for an authority in England, the Environment Agency;
 - (b) for an authority in Wales, the Natural Resources Body for Wales.
 
-### 9. Closure of unlicensed sites[^key-0c867d5b7afe6c9e5413c5814c7383c2]
+### 9. Closure of unlicensed sites[^c-0c867d5b7afe6c9e5413c5814c7383c2]
 
 Schedule 2 (which makes provision for the closure of sites at which a scrap metal business is being carried on without a licence) has effect.
 
@@ -221,43 +221,43 @@ Schedule 2 (which makes provision for the closure of sites at which a scrap meta
 
 ### 10. Display of licence
 
-(1)[^key-03abd643fde2e3fa0e9f9c9c9e3c9177] A scrap metal dealer who holds a site licence must display a copy of the licence at each site identified in the licence.
+(1)[^c-03abd643fde2e3fa0e9f9c9c9e3c9177] A scrap metal dealer who holds a site licence must display a copy of the licence at each site identified in the licence.
 
-(2)[^key-03abd643fde2e3fa0e9f9c9c9e3c9177] The copy must be displayed in a prominent place in an area accessible to the public.
+(2)[^c-03abd643fde2e3fa0e9f9c9c9e3c9177] The copy must be displayed in a prominent place in an area accessible to the public.
 
-(3)[^key-03abd643fde2e3fa0e9f9c9c9e3c9177] A scrap metal dealer who holds a collector's licence must display a copy of the licence on any vehicle that is being used in the course of the dealer's business.
+(3)[^c-03abd643fde2e3fa0e9f9c9c9e3c9177] A scrap metal dealer who holds a collector's licence must display a copy of the licence on any vehicle that is being used in the course of the dealer's business.
 
-(4)[^key-03abd643fde2e3fa0e9f9c9c9e3c9177] The copy must be displayed in a manner which enables it easily to be read by a person outside the vehicle.
+(4)[^c-03abd643fde2e3fa0e9f9c9c9e3c9177] The copy must be displayed in a manner which enables it easily to be read by a person outside the vehicle.
 
-(5)[^key-cda51cf4b1d7735e9157cf879985acd9] A scrap metal dealer who fails to comply with this section is guilty of an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+(5)[^c-cda51cf4b1d7735e9157cf879985acd9] A scrap metal dealer who fails to comply with this section is guilty of an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 ### 11. Verification of supplier's identity
 
-(1)[^key-5ff9656a70b248db38e8740f71b00d07] A scrap metal dealer must not receive scrap metal from a person without verifying the person's full name and address.
+(1)[^c-5ff9656a70b248db38e8740f71b00d07] A scrap metal dealer must not receive scrap metal from a person without verifying the person's full name and address.
 
-(2)[^key-5ff9656a70b248db38e8740f71b00d07] That verification must be by reference to documents, data or other information obtained from a reliable and independent source.
+(2)[^c-5ff9656a70b248db38e8740f71b00d07] That verification must be by reference to documents, data or other information obtained from a reliable and independent source.
 
-(3)[^key-5ff9656a70b248db38e8740f71b00d07] The Secretary of State may prescribe in regulations—
+(3)[^c-5ff9656a70b248db38e8740f71b00d07] The Secretary of State may prescribe in regulations—
 
 - (a) documents, data or other information which are sufficient for the purpose of subsection (2);
 - (b) documents, data or other information which are not sufficient for that purpose.
 
-(4)[^key-cd665e46921c0b855a5a9c64dae4f28b] If a scrap metal dealer receives scrap metal in breach of subsection (1), each of the following is guilty of an offence—
+(4)[^c-cd665e46921c0b855a5a9c64dae4f28b] If a scrap metal dealer receives scrap metal in breach of subsection (1), each of the following is guilty of an offence—
 
 - (a) the scrap metal dealer;
 - (b) if the metal is received at a site, the site manager;
 - (c) any person who, under arrangements made by a person within paragraph (a) or (b), has responsibility for verifying the name and address.
 
-(5)[^key-cd665e46921c0b855a5a9c64dae4f28b] It is a defence for a person within subsection (4)(a) or (b) who is charged with an offence under subsection (4) to prove that the person—
+(5)[^c-cd665e46921c0b855a5a9c64dae4f28b] It is a defence for a person within subsection (4)(a) or (b) who is charged with an offence under subsection (4) to prove that the person—
 
 - (a) made arrangements to ensure that the metal was not received in breach of subsection (1), and
 - (b) took all reasonable steps to ensure that those arrangements were complied with.
 
-(6)[^key-cd665e46921c0b855a5a9c64dae4f28b] A person guilty of an offence under subsection (4) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+(6)[^c-cd665e46921c0b855a5a9c64dae4f28b] A person guilty of an offence under subsection (4) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(7)[^key-cd665e46921c0b855a5a9c64dae4f28b] A person who, on delivering scrap metal to a scrap metal dealer, gives a false name or false address is guilty of an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+(7)[^c-cd665e46921c0b855a5a9c64dae4f28b] A person who, on delivering scrap metal to a scrap metal dealer, gives a false name or false address is guilty of an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 12. Offence of buying scrap metal for cash etc[^key-9c0c20b097fa17715703892f1dd32674]
+### 12. Offence of buying scrap metal for cash etc[^c-9c0c20b097fa17715703892f1dd32674]
 
 (1) A scrap metal dealer must not pay for scrap metal except—
 
@@ -281,7 +281,7 @@ Schedule 2 (which makes provision for the closure of sites at which a scrap meta
 
 (6) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 13. Records: receipt of metal[^key-187bc5e718a7e45dd0c0bad29f59f499]
+### 13. Records: receipt of metal[^c-187bc5e718a7e45dd0c0bad29f59f499]
 
 (1) This section applies if a scrap metal dealer receives any scrap metal in the course of the dealer's business.
 
@@ -302,7 +302,7 @@ Schedule 2 (which makes provision for the closure of sites at which a scrap meta
 - (a) the dealer must keep the receipt identifying the transfer, or
 - (b) if no receipt identifying the transfer was obtained, the dealer must record particulars identifying the transfer.
 
-### 14. Records: disposal of metal[^key-ca0d73e062d5949963b3370cd7371fca]
+### 14. Records: disposal of metal[^c-ca0d73e062d5949963b3370cd7371fca]
 
 (1) This section applies if a scrap metal dealer disposes of any scrap metal in the course of the dealer's business.
 
@@ -326,28 +326,28 @@ Schedule 2 (which makes provision for the closure of sites at which a scrap meta
 
 ### 15. Records: supplementary
 
-(1)[^key-ede81524bf8916a231aa08bd50f6ef22] The information mentioned in sections 13(2) and (5) and 14(3) and (4) must be recorded in a manner which allows the information and the scrap metal to which it relates to be readily identified by reference to each other.
+(1)[^c-ede81524bf8916a231aa08bd50f6ef22] The information mentioned in sections 13(2) and (5) and 14(3) and (4) must be recorded in a manner which allows the information and the scrap metal to which it relates to be readily identified by reference to each other.
 
-(2)[^key-ede81524bf8916a231aa08bd50f6ef22] The records mentioned in section 13(3) and (4) must be marked so as to identify the scrap metal to which they relate.
+(2)[^c-ede81524bf8916a231aa08bd50f6ef22] The records mentioned in section 13(3) and (4) must be marked so as to identify the scrap metal to which they relate.
 
-(3)[^key-ede81524bf8916a231aa08bd50f6ef22] The dealer must keep the information and other records mentioned in sections 13(2) to (5) and 14(3) and (4) for a period of 3 years beginning with the day on which the metal is received or (as the case may be) disposed of.
+(3)[^c-ede81524bf8916a231aa08bd50f6ef22] The dealer must keep the information and other records mentioned in sections 13(2) to (5) and 14(3) and (4) for a period of 3 years beginning with the day on which the metal is received or (as the case may be) disposed of.
 
-(4)[^key-365e6afc94faf1a8ce46da577dcb0730] If a scrap metal dealer fails to fulfil a requirement under section 13 or 14 or this section, each of the following is guilty of an offence—
+(4)[^c-365e6afc94faf1a8ce46da577dcb0730] If a scrap metal dealer fails to fulfil a requirement under section 13 or 14 or this section, each of the following is guilty of an offence—
 
 - (a) the scrap metal dealer;
 - (b) if the metal is received at or (as the case may be) despatched from a site, the site manager;
 - (c) any person who, under arrangements made by a person within paragraph (a) or (b), has responsibility for fulfilling the requirement.
 
-(5)[^key-365e6afc94faf1a8ce46da577dcb0730] It is a defence for a person within subsection (4)(a) or (b) who is charged with an offence under this section to prove that the person—
+(5)[^c-365e6afc94faf1a8ce46da577dcb0730] It is a defence for a person within subsection (4)(a) or (b) who is charged with an offence under this section to prove that the person—
 
 - (a) made arrangements to ensure that the requirement was fulfilled, and
 - (b) took all reasonable steps to ensure that those arrangements were complied with.
 
-(6)[^key-365e6afc94faf1a8ce46da577dcb0730] A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(6)[^c-365e6afc94faf1a8ce46da577dcb0730] A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 ## Supplementary
 
-### 16. Right to enter and inspect[^key-31222e94ca0f407d82929753e533d50a]
+### 16. Right to enter and inspect[^c-31222e94ca0f407d82929753e533d50a]
 
 (1) A constable or an officer of a local authority may enter and inspect a licensed site at any reasonable time on notice to the site manager.
 
@@ -401,7 +401,7 @@ the officer must produce that evidence.
 
 is guilty of an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 17. Offences by bodies corporate[^key-bb3807d859e18b055a8c05ab41199ab5]
+### 17. Offences by bodies corporate[^c-bb3807d859e18b055a8c05ab41199ab5]
 
 (1) Where an offence under this Act is committed by a body corporate and is proved—
 
@@ -412,7 +412,7 @@ the individual as well as the body corporate is guilty of the offence and is lia
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and omissions of a member in connection with that management as if the member were a director of the body corporate.
 
-### 18. Review of Act[^key-7dd6e72807c4f9673e6db73ca2bbb42a]
+### 18. Review of Act[^c-7dd6e72807c4f9673e6db73ca2bbb42a]
 
 (1) Before the end of 5 years beginning with the day on which section 1 comes into force, the Secretary of State must—
 
@@ -425,7 +425,7 @@ the individual as well as the body corporate is guilty of the offence and is lia
 - (b) assess the extent to which those objectives have been achieved, and
 - (c) assess whether it is appropriate to retain or repeal the Act or any of its provisions in order to achieve those objectives.
 
-### 19. Consequential amendments[^key-25ff90dd1fb0ea0375fc45cbeb63dd58]
+### 19. Consequential amendments[^c-25ff90dd1fb0ea0375fc45cbeb63dd58]
 
 (1) The following are repealed—
 
@@ -454,7 +454,7 @@ the individual as well as the body corporate is guilty of the offence and is lia
 - (a) may be exercised so as to make different provision for different purposes;
 - (b) includes power to make such incidental, supplementary, consequential, transitory, transitional or saving provision as the Secretary of State considers appropriate.
 
-### 21. “Carrying on business as a scrap metal dealer” and “scrap metal”[^key-9311cce5f2094a9cbb1497c0b372a04a]
+### 21. “Carrying on business as a scrap metal dealer” and “scrap metal”[^c-9311cce5f2094a9cbb1497c0b372a04a]
 
 (1) The following provisions apply for the purposes of this Act.
 
@@ -487,7 +487,7 @@ the individual as well as the body corporate is guilty of the offence and is lia
 
 (8) The Secretary of State may by order amend the definition of “**scrap metal**” for the purposes of this Act (whether by amending subsection (6) or (7) or otherwise).
 
-### 22. Other definitions[^key-61734db0b697e70c40a6f9d9349ffe90]
+### 22. Other definitions[^c-61734db0b697e70c40a6f9d9349ffe90]
 
 (1) The following provisions apply for the purposes of this Act.
 
@@ -509,7 +509,7 @@ the individual as well as the body corporate is guilty of the offence and is lia
 
 (7) “**Relevant environmental permit or registration**”, in relation to an application made to a local authority, means—
 
-- (a) any environmental permit under regulation 13 of the Environmental Permitting (England and Wales) Regulations 2016 ([^key-17476241ad8298a4a6600f81a79f6c9c][S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154)) authorising any operation by the applicant in the local authority's area;
+- (a) any environmental permit under regulation 13 of the Environmental Permitting (England and Wales) Regulations 2016 ([^c-17476241ad8298a4a6600f81a79f6c9c][S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154)) authorising any operation by the applicant in the local authority's area;
 - (b) any registration of the applicant under Schedule 2 to those Regulations in relation to an exempt waste operation (within the meaning of regulation 5 of those Regulations) carried on in that area;
 - (c) any registration of the applicant under Part 8 of the Waste (England and Wales) Regulations 2011 (S.I. 2011/988) (carriers, brokers and dealers of controlled waste).
 
@@ -541,12 +541,12 @@ Section 5
 
 ### Term of licence
 
-**1.**[^key-ff629d2b56b1f1931e8caee0febd8d72] (1) A licence expires at the end of the period of 3 years beginning with the day on which it is issued.
+**1.**[^c-ff629d2b56b1f1931e8caee0febd8d72] (1) A licence expires at the end of the period of 3 years beginning with the day on which it is issued.
 
 (2) But if an application to renew a licence is received before the licence expires, the licence continues in effect and—
 
 - (a) if the application is withdrawn, the licence expires at the end of the day on which the application is withdrawn;
-- (aa)[^key-aa93da1868333659ccb9ae557968513e] if—
+- (aa)[^c-aa93da1868333659ccb9ae557968513e] if—
   - (i) at any time after the application is made, the local authority requests the applicant to give it further information for the purpose of enabling it to make a request, or make a further request, under paragraph 3(2)(a) of Schedule 33 to the Finance Act 2021 (request for confirmation of completed tax check) in relation to the application, and
   - (ii) at the end of the relevant period, the local authority continues to be prevented from considering the application by virtue of paragraph 3(2) of that Schedule to that Act,
 
@@ -554,7 +554,7 @@ Section 5
 - (b) if the application is refused, the licence expires when no appeal under paragraph 9 is possible in relation to the refusal or any such appeal is finally determined or withdrawn;
 - (c) if the licence is renewed, it expires at the end of the period of 3 years beginning with the day on which it is renewed or (if renewed more than once) the day on which it is last renewed.
 
-(2A)[^key-59dcfdf7358c88391e395ec22f2face6] In sub-paragraph (2)(aa) “**the relevant period**” means—
+(2A)[^c-59dcfdf7358c88391e395ec22f2face6] In sub-paragraph (2)(aa) “**the relevant period**” means—
 
 - (a) the period of 28 days beginning with the day on which the request under sub-paragraph (2)(aa)(i) is made, or
 - (b) if the final day of that period is earlier than the day on which (disregarding sub-paragraph (2)) the licence expires, the period ending with that later day.
@@ -565,7 +565,7 @@ Section 5
 
 ### Applications
 
-**2.**[^key-6fd120b12415393c80f6d40fd9024bbc] (1) A licence is to be issued or renewed on an application, which must be accompanied by—
+**2.**[^c-6fd120b12415393c80f6d40fd9024bbc] (1) A licence is to be issued or renewed on an application, which must be accompanied by—
 
 - (a) if the applicant is an individual, the full name, date of birth and usual place of residence of the applicant,
 - (b) if the applicant is a company, the name and registered number of the applicant and the address of the applicant's registered office,
@@ -589,30 +589,30 @@ Section 5
 
 ### Variation of licence
 
-**3.** (1)[^key-80c3ee0ea49ff052fe99fdf9c872ea0b] A local authority may, on an application, vary a licence by changing it from one type to the other.
+**3.** (1)[^c-80c3ee0ea49ff052fe99fdf9c872ea0b] A local authority may, on an application, vary a licence by changing it from one type to the other.
 
-(2)[^key-80c3ee0ea49ff052fe99fdf9c872ea0b] If there is a change in any of the matters mentioned in section 2(4)(a), (c) or (d) or (6)(a), the licensee must make an application to vary the licence accordingly.
+(2)[^c-80c3ee0ea49ff052fe99fdf9c872ea0b] If there is a change in any of the matters mentioned in section 2(4)(a), (c) or (d) or (6)(a), the licensee must make an application to vary the licence accordingly.
 
-(3)[^key-80c3ee0ea49ff052fe99fdf9c872ea0b] But the power to amend the name of the licensee does not include the power to transfer the licence from one person to another.
+(3)[^c-80c3ee0ea49ff052fe99fdf9c872ea0b] But the power to amend the name of the licensee does not include the power to transfer the licence from one person to another.
 
-(4)[^key-80c3ee0ea49ff052fe99fdf9c872ea0b] An application under this paragraph—
+(4)[^c-80c3ee0ea49ff052fe99fdf9c872ea0b] An application under this paragraph—
 
 - (a) is to be made to the authority which issued the licence, and
 - (b) must contain particulars of the changes to be made to the licence.
 
-(5)[^key-c03375c6af976d7e25a7421b27ded06d] A licensee who fails to comply with sub-paragraph (2) is guilty of an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+(5)[^c-c03375c6af976d7e25a7421b27ded06d] A licensee who fails to comply with sub-paragraph (2) is guilty of an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(6)[^key-c03375c6af976d7e25a7421b27ded06d] It is a defence for a person charged with an offence under this paragraph to prove that the person took all reasonable steps to avoid committing the offence.
+(6)[^c-c03375c6af976d7e25a7421b27ded06d] It is a defence for a person charged with an offence under this paragraph to prove that the person took all reasonable steps to avoid committing the offence.
 
 ### Further information
 
-**4.**[^key-0c6984edda1e92c3b995a4ca3ceba023] (1) The local authority may request (either when the application is made or later) that the applicant provide such further information as the authority considers relevant for the purpose of considering the application.
+**4.**[^c-0c6984edda1e92c3b995a4ca3ceba023] (1) The local authority may request (either when the application is made or later) that the applicant provide such further information as the authority considers relevant for the purpose of considering the application.
 
 (2) If an applicant fails to provide information requested under sub-paragraph (1), the authority may decline to proceed with the application.
 
 ### Offence of making false statement
 
-**5.**[^key-86b7cb6d7e417ac51e00ec7d3129b4dc] An applicant who in an application or in response to a request under paragraph 4(1)—
+**5.**[^c-86b7cb6d7e417ac51e00ec7d3129b4dc] An applicant who in an application or in response to a request under paragraph 4(1)—
 
 - (a) makes a statement knowing it be false in a material particular, or
 - (b) recklessly makes a statement which is false in a material particular,
@@ -621,13 +621,13 @@ is guilty of an offence and is liable on summary conviction to a fine not exceed
 
 ### Fee
 
-**6.**[^key-61cfdf6a9d5f147693047c28c44fa92e] (1) An application must be accompanied by a fee set by the authority.
+**6.**[^c-61cfdf6a9d5f147693047c28c44fa92e] (1) An application must be accompanied by a fee set by the authority.
 
 (2) In setting a fee under this paragraph, the authority must have regard to any guidance issued from time to time by the Secretary of State with the approval of the Treasury.
 
 ### Right to make representations
 
-**7.**[^key-eee307adf1b6103a9410c048843eb866] (1) If a local authority proposes—
+**7.**[^c-eee307adf1b6103a9410c048843eb866] (1) If a local authority proposes—
 
 - (a) to refuse an application made under paragraph 2 or 3, or
 - (b) to revoke or vary a licence under section 4,
@@ -659,7 +659,7 @@ the authority must give the applicant or licensee a notice which sets out what t
 
 ### Notice of decision
 
-**8.**[^key-36b6cf52b3c9fbdcfa1e686d16bc38e2] (1) If the authority refuses the application, or revokes or varies the licence under section 4, it must give A a notice setting out the decision and the reasons for it.
+**8.**[^c-36b6cf52b3c9fbdcfa1e686d16bc38e2] (1) If the authority refuses the application, or revokes or varies the licence under section 4, it must give A a notice setting out the decision and the reasons for it.
 
 (2) A notice under this paragraph must also state—
 
@@ -669,7 +669,7 @@ the authority must give the applicant or licensee a notice which sets out what t
 
 ### Appeals
 
-**9.**[^key-608f09c90d49d44034b5a6e27cb6b812] (1) An applicant may appeal to a magistrates' court against the refusal of an application made under paragraph 2 or 3.
+**9.**[^c-608f09c90d49d44034b5a6e27cb6b812] (1) An applicant may appeal to a magistrates' court against the refusal of an application made under paragraph 2 or 3.
 
 (2) A licensee may appeal to a magistrates' court against—
 
@@ -694,7 +694,7 @@ the authority must give the applicant or licensee a notice which sets out what t
 - (a) until the time for making an application under section 111 of the Magistrates' Courts Act 1980 (application by way of case stated) has passed, or
 - (b) if such an application is made, until the application is finally determined or withdrawn.
 
-## SCHEDULE 2 — Closure of unlicensed sites[^key-3a863f41bb81a8ebe345edd3c7f45840]
+## SCHEDULE 2 — Closure of unlicensed sites[^c-3a863f41bb81a8ebe345edd3c7f45840]
 
 Section 9
 
@@ -880,87 +880,87 @@ the officer must produce that evidence.
 
 ## Annotations
 
-[^key-010ea1ef510620fa70d3c8bee52ba821]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2013/10/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/1/2) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/a)
+[^c-010ea1ef510620fa70d3c8bee52ba821]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2013/10/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/1/2) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/a)
 
-[^key-95bc556bc82bf97769bc98c81a8e007e]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2013/10/section/1/3) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/a)
+[^c-95bc556bc82bf97769bc98c81a8e007e]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2013/10/section/1/3) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/a)
 
-[^key-e0c48fdddbc2ce6f0cd9822a3191e2fa]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/10/section/2) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/b)
+[^c-e0c48fdddbc2ce6f0cd9822a3191e2fa]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/10/section/2) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/b)
 
-[^key-39b626522f0e707818bc3f384daeaf48]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/10/section/3) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/c)
+[^c-39b626522f0e707818bc3f384daeaf48]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/10/section/3) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/c)
 
-[^key-9650f1b345396f2767b7bb18805c4862]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/10/section/4) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/d)
+[^c-9650f1b345396f2767b7bb18805c4862]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/10/section/4) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/d)
 
-[^key-14bf2d53cc9d00eef4bbd7f4a214b515]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/10/section/5) in force for specified purposes at 1.9.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1966/article/2/a)
+[^c-14bf2d53cc9d00eef4bbd7f4a214b515]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/10/section/5) in force for specified purposes at 1.9.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1966/article/2/a)
 
-[^key-8f8afc0a0e29b78761b282bdf3e99972]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/10/section/5) in force in so far as not already in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/e)
+[^c-8f8afc0a0e29b78761b282bdf3e99972]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/10/section/5) in force in so far as not already in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/e)
 
-[^key-618ecb2d5e04a9b5988b34d434022625]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/10/section/6) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(f)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/f)
+[^c-618ecb2d5e04a9b5988b34d434022625]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/10/section/6) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(f)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/f)
 
-[^key-d2f1ceb54616abdbb0f2f3163b46fef1]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/10/section/7) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/g) (with [art. 5(7)](https://www.legislation.gov.uk/uksi/2013/1966/article/5/7))
+[^c-d2f1ceb54616abdbb0f2f3163b46fef1]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/10/section/7) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/g) (with [art. 5(7)](https://www.legislation.gov.uk/uksi/2013/1966/article/5/7))
 
-[^key-8e35e9402ae5d4233e55102ca279b270]: Commencement: [S. 8(1)-(8)](https://www.legislation.gov.uk/ukpga/2013/10/section/8/1) [(11)](https://www.legislation.gov.uk/ukpga/2013/10/section/8/11) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/h)
+[^c-8e35e9402ae5d4233e55102ca279b270]: Commencement: [S. 8(1)-(8)](https://www.legislation.gov.uk/ukpga/2013/10/section/8/1) [(11)](https://www.legislation.gov.uk/ukpga/2013/10/section/8/11) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/h)
 
-[^key-21602c5bec93a74e3083b315b2710f9f]: Commencement: [S. 8(9)](https://www.legislation.gov.uk/ukpga/2013/10/section/8/9)[(10)](https://www.legislation.gov.uk/ukpga/2013/10/section/8/10) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/b)
+[^c-21602c5bec93a74e3083b315b2710f9f]: Commencement: [S. 8(9)](https://www.legislation.gov.uk/ukpga/2013/10/section/8/9)[(10)](https://www.legislation.gov.uk/ukpga/2013/10/section/8/10) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/b)
 
-[^key-0c867d5b7afe6c9e5413c5814c7383c2]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/10/section/9) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/c)
+[^c-0c867d5b7afe6c9e5413c5814c7383c2]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/10/section/9) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/c)
 
-[^key-03abd643fde2e3fa0e9f9c9c9e3c9177]: Commencement: [S. 10(1)-(4)](https://www.legislation.gov.uk/ukpga/2013/10/section/10/1) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(i)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/i) (with [art. 5(8)](https://www.legislation.gov.uk/uksi/2013/1966/article/5/8))
+[^c-03abd643fde2e3fa0e9f9c9c9e3c9177]: Commencement: [S. 10(1)-(4)](https://www.legislation.gov.uk/ukpga/2013/10/section/10/1) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(i)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/i) (with [art. 5(8)](https://www.legislation.gov.uk/uksi/2013/1966/article/5/8))
 
-[^key-cda51cf4b1d7735e9157cf879985acd9]: Commencement: [S. 10(5)](https://www.legislation.gov.uk/ukpga/2013/10/section/10/5) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/d)
+[^c-cda51cf4b1d7735e9157cf879985acd9]: Commencement: [S. 10(5)](https://www.legislation.gov.uk/ukpga/2013/10/section/10/5) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/d)
 
-[^key-5ff9656a70b248db38e8740f71b00d07]: Commencement: [S. 11(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/10/section/11/1) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(j)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/j)
+[^c-5ff9656a70b248db38e8740f71b00d07]: Commencement: [S. 11(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/10/section/11/1) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(j)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/j)
 
-[^key-cd665e46921c0b855a5a9c64dae4f28b]: Commencement: [S. 11(4)-(7)](https://www.legislation.gov.uk/ukpga/2013/10/section/11/4) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/e)
+[^c-cd665e46921c0b855a5a9c64dae4f28b]: Commencement: [S. 11(4)-(7)](https://www.legislation.gov.uk/ukpga/2013/10/section/11/4) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/e)
 
-[^key-9c0c20b097fa17715703892f1dd32674]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/10/section/12) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(k)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/k)
+[^c-9c0c20b097fa17715703892f1dd32674]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/10/section/12) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(k)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/k)
 
-[^key-187bc5e718a7e45dd0c0bad29f59f499]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/10/section/13) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(l)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/l)
+[^c-187bc5e718a7e45dd0c0bad29f59f499]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/10/section/13) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(l)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/l)
 
-[^key-ca0d73e062d5949963b3370cd7371fca]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/10/section/14) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(m)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/m)
+[^c-ca0d73e062d5949963b3370cd7371fca]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/10/section/14) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(m)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/m)
 
-[^key-ede81524bf8916a231aa08bd50f6ef22]: Commencement: [S. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/10/section/15/1) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(n)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/n)
+[^c-ede81524bf8916a231aa08bd50f6ef22]: Commencement: [S. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/10/section/15/1) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(n)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/n)
 
-[^key-365e6afc94faf1a8ce46da577dcb0730]: Commencement: [S. 15(4)-(6)](https://www.legislation.gov.uk/ukpga/2013/10/section/15/4) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/f)
+[^c-365e6afc94faf1a8ce46da577dcb0730]: Commencement: [S. 15(4)-(6)](https://www.legislation.gov.uk/ukpga/2013/10/section/15/4) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/f)
 
-[^key-31222e94ca0f407d82929753e533d50a]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/10/section/16) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(o)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/o)
+[^c-31222e94ca0f407d82929753e533d50a]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/10/section/16) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(o)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/o)
 
-[^key-bb3807d859e18b055a8c05ab41199ab5]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2013/10/section/17) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(p)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/p)
+[^c-bb3807d859e18b055a8c05ab41199ab5]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2013/10/section/17) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(p)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/p)
 
-[^key-7dd6e72807c4f9673e6db73ca2bbb42a]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2013/10/section/18) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(q)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/q)
+[^c-7dd6e72807c4f9673e6db73ca2bbb42a]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2013/10/section/18) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(q)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/q)
 
-[^key-25ff90dd1fb0ea0375fc45cbeb63dd58]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/10/section/19) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+[^c-25ff90dd1fb0ea0375fc45cbeb63dd58]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/10/section/19) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
 
-[^key-9311cce5f2094a9cbb1497c0b372a04a]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2013/10/section/21) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(s)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/s)
+[^c-9311cce5f2094a9cbb1497c0b372a04a]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2013/10/section/21) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(s)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/s)
 
-[^key-61734db0b697e70c40a6f9d9349ffe90]: Commencement: S. 22 in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(t)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/t)
+[^c-61734db0b697e70c40a6f9d9349ffe90]: Commencement: S. 22 in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(t)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/t)
 
-[^key-17476241ad8298a4a6600f81a79f6c9c]: Textual amendment: Words in [s. 22(7)(a)](https://www.legislation.gov.uk/ukpga/2013/10/section/22/7/a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 19](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/19) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-17476241ad8298a4a6600f81a79f6c9c]: Textual amendment: Words in [s. 22(7)(a)](https://www.legislation.gov.uk/ukpga/2013/10/section/22/7/a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 19](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/19) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-ff629d2b56b1f1931e8caee0febd8d72]: Commencement: Sch. 1 para. 1 in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
+[^c-ff629d2b56b1f1931e8caee0febd8d72]: Commencement: Sch. 1 para. 1 in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
 
-[^key-aa93da1868333659ccb9ae557968513e]: Textual amendment: [Sch. 1 para. 1(2)(aa)](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/1/2/aa) inserted (with effect in accordance with s. 125(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 33 para. 11(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/33/paragraph/11/5)
+[^c-aa93da1868333659ccb9ae557968513e]: Textual amendment: [Sch. 1 para. 1(2)(aa)](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/1/2/aa) inserted (with effect in accordance with s. 125(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 33 para. 11(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/33/paragraph/11/5)
 
-[^key-59dcfdf7358c88391e395ec22f2face6]: Textual amendment: [Sch. 1 para. 1(2A)](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/1/2A) inserted (with effect in accordance with s. 125(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 33 para. 11(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/33/paragraph/11/6)
+[^c-59dcfdf7358c88391e395ec22f2face6]: Textual amendment: [Sch. 1 para. 1(2A)](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/1/2A) inserted (with effect in accordance with s. 125(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 33 para. 11(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/33/paragraph/11/6)
 
-[^key-6fd120b12415393c80f6d40fd9024bbc]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/2) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
+[^c-6fd120b12415393c80f6d40fd9024bbc]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/2) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
 
-[^key-80c3ee0ea49ff052fe99fdf9c872ea0b]: Commencement: [Sch. 1 para. 3(1)-(4)](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/3/1) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
+[^c-80c3ee0ea49ff052fe99fdf9c872ea0b]: Commencement: [Sch. 1 para. 3(1)-(4)](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/3/1) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
 
-[^key-c03375c6af976d7e25a7421b27ded06d]: Commencement: [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/3/5) [(6)](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/3/6) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(g)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/g)
+[^c-c03375c6af976d7e25a7421b27ded06d]: Commencement: [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/3/5) [(6)](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/3/6) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(g)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/g)
 
-[^key-0c6984edda1e92c3b995a4ca3ceba023]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/4) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
+[^c-0c6984edda1e92c3b995a4ca3ceba023]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/4) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
 
-[^key-86b7cb6d7e417ac51e00ec7d3129b4dc]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/5) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(g)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/g)
+[^c-86b7cb6d7e417ac51e00ec7d3129b4dc]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/5) in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(g)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/g)
 
-[^key-61cfdf6a9d5f147693047c28c44fa92e]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/6) in force at 1.9.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1966/article/2/b)
+[^c-61cfdf6a9d5f147693047c28c44fa92e]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/6) in force at 1.9.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1966/article/2/b)
 
-[^key-eee307adf1b6103a9410c048843eb866]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/7) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u) (with [art. 5(4)](https://www.legislation.gov.uk/uksi/2013/1966/article/5/4))
+[^c-eee307adf1b6103a9410c048843eb866]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/7) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u) (with [art. 5(4)](https://www.legislation.gov.uk/uksi/2013/1966/article/5/4))
 
-[^key-36b6cf52b3c9fbdcfa1e686d16bc38e2]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/8) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
+[^c-36b6cf52b3c9fbdcfa1e686d16bc38e2]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/8) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
 
-[^key-608f09c90d49d44034b5a6e27cb6b812]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/9) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
+[^c-608f09c90d49d44034b5a6e27cb6b812]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/10/schedule/1/paragraph/9) in force at 1.10.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(u)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/u)
 
-[^key-3a863f41bb81a8ebe345edd3c7f45840]: Commencement: Sch. 2 in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(h)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/h)
+[^c-3a863f41bb81a8ebe345edd3c7f45840]: Commencement: Sch. 2 in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(h)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/h)
 
 [^M_I_8b26b323-d9f7-4bff-bb40-a33d3a33f64d]: Commencement: Sch. 2 para. 1 in force at 1.12.2013 by [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 4(h)](https://www.legislation.gov.uk/uksi/2013/1966/article/4/h)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 20. Short title[^key-f15e43a0d1c17bec19d5de3cc569c144]
+## 20. Short title[^c-f15e43a0d1c17bec19d5de3cc569c144]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Non-Domestic Rating Act 2023.
 
 ## Annotations
 
-[^key-f15e43a0d1c17bec19d5de3cc569c144]: Commencement: S. 20 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-f15e43a0d1c17bec19d5de3cc569c144]: Commencement: S. 20 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)

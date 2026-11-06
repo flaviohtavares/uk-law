@@ -42,7 +42,7 @@ a health service body for the purposes of section 9.
 
 (7) Except in such circumstances as may be prescribed, a PHS body resulting from an application under subsection (2) must be treated, at any time, as consisting of those who are providing piloted services under the scheme.
 
-(8) A direction as to payment made under section 9(11) against, or in favour of, a PHS body is enforceable in the county court[^key-fe9fd7136c571e8976a742dbe39e55d8] (if the court so orders) as if it were a judgment or order of that court.
+(8) A direction as to payment made under section 9(11) against, or in favour of, a PHS body is enforceable in the county court[^c-fe9fd7136c571e8976a742dbe39e55d8] (if the court so orders) as if it were a judgment or order of that court.
 
 (9) Regulations may provide for a PHS body to cease to be a PHS body in prescribed circumstances.
 
@@ -55,4 +55,4 @@ a health service body for the purposes of section 9.
 
 ## Annotations
 
-[^key-fe9fd7136c571e8976a742dbe39e55d8]: Textual amendment: Words in [s. 139(8)](https://www.legislation.gov.uk/ukpga/2006/41/section/139/8) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-fe9fd7136c571e8976a742dbe39e55d8]: Textual amendment: Words in [s. 139(8)](https://www.legislation.gov.uk/ukpga/2006/41/section/139/8) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Public rights of navigation[^key-c540dd16a2842427e081202b49a1337e]
+## 8. Public rights of navigation[^c-c540dd16a2842427e081202b49a1337e]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c540dd16a2842427e081202b49a1337e]: Commencement: Art. 8 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-c540dd16a2842427e081202b49a1337e]: Commencement: Art. 8 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)

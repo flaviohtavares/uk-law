@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Amendment of Commission Regulation [(EC) No 1024/2009](https://www.legislation.gov.uk/eur/2009/1024)[^key-c58a11b9c555a3f19dbd9cf1cce1e842]
+## 24. Amendment of Commission Regulation [(EC) No 1024/2009](https://www.legislation.gov.uk/eur/2009/1024)[^c-c58a11b9c555a3f19dbd9cf1cce1e842]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In Article 1—
 
-- (a) for “Community” substitute “ Great Britain[^key-7429da595bb6b23358751560e8255daf] ”;
+- (a) for “Community” substitute “ Great Britain[^c-7429da595bb6b23358751560e8255daf] ”;
 - (b) omit the second sentence.
 
 (3) For Article 2, substitute—
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c58a11b9c555a3f19dbd9cf1cce1e842]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c58a11b9c555a3f19dbd9cf1cce1e842]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-7429da595bb6b23358751560e8255daf]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2019/651/regulation/24) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/3)[(4)(c)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/4/c)
+[^c-7429da595bb6b23358751560e8255daf]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2019/651/regulation/24) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/3)[(4)(c)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/4/c)

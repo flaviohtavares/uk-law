@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies on the death of a member (D)—
 
-- (a)[^key-529b3c7fb5f15fec646f1c9bc8bcc428] whose additional pension election is for—
+- (a)[^c-529b3c7fb5f15fec646f1c9bc8bcc428] whose additional pension election is for—
   - (i) an additional (self only) pension; or
   - (ii) an additional (self only) pension and an additional (survivor’s) pension;
 - (b) who dies while an active member before the end of the contributions payment period for that election.
@@ -30,7 +30,7 @@ summary: ''
 (2) If D dies before the end of the refund period—
 
 - (a) the amount of the contributions paid by D must be repaid to D's executors;
-- (b)[^key-d01c5c2e490efef83d133b8518552b6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d01c5c2e490efef83d133b8518552b6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the additional pension account must be closed.
 
 (3) If D dies after the end of the refund period—
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-529b3c7fb5f15fec646f1c9bc8bcc428]: Textual amendment: [Reg. 68(1)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/68/1/a) substituted (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/8/2)
+[^c-529b3c7fb5f15fec646f1c9bc8bcc428]: Textual amendment: [Reg. 68(1)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/68/1/a) substituted (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/8/2)
 
-[^key-d01c5c2e490efef83d133b8518552b6d]: Textual amendment: [Reg. 68(2)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/68/2/b) omitted (31.1.2018) by virtue of [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2017/433/regulation/8/3)
+[^c-d01c5c2e490efef83d133b8518552b6d]: Textual amendment: [Reg. 68(2)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/68/2/b) omitted (31.1.2018) by virtue of [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2017/433/regulation/8/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.39. Notice of automatic end of administration[^key-e55ba5446ef46f3a8e3cd0bdf6901e14]
+## 3.39. Notice of automatic end of administration[^c-e55ba5446ef46f3a8e3cd0bdf6901e14]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e55ba5446ef46f3a8e3cd0bdf6901e14]: Commencement: Rule 3.39 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-e55ba5446ef46f3a8e3cd0bdf6901e14]: Commencement: Rule 3.39 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

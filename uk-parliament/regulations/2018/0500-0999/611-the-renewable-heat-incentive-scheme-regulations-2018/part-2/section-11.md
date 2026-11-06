@@ -29,7 +29,7 @@ summary: ''
 - (c) in the case of a ground source heat pump installed in domestic premises with an installed peak heat output capacity of 45kWth or less, it meets the requirements in regulation 18;
 - (d) it has a coefficient of performance of at least 2.9;
 - (e) it is designed and installed to operate with a seasonal performance factor of at least 2.5;
-- (f) where it is capable of heating and cooling and is not installed in domestic premises, a design heat load for the ground source heat pump has been calculated in accordance with BS EN 12831-1:2017 or a subsequent version of that standard[^key-25182645ef59110fabc6d194ee595426];
+- (f) where it is capable of heating and cooling and is not installed in domestic premises, a design heat load for the ground source heat pump has been calculated in accordance with BS EN 12831-1:2017 or a subsequent version of that standard[^c-25182645ef59110fabc6d194ee595426];
 - (g) where it is installed in domestic premises, an EPC must have been issued for that premises and one of the following requirements must be met—
   - (i) the property is a new-build property; or
   - (ii) the period commencing with the date on which the EPC was issued and ending on the date of application under regulation 30 is less than 24 months and the requirements in paragraph (5) are met.
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25182645ef59110fabc6d194ee595426]: Textual amendment: Words in [reg. 11(2)(f)](https://www.legislation.gov.uk/uksi/2018/611/regulation/11/2/f) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [37](https://www.legislation.gov.uk/uksi/2022/159/regulation/37)
+[^c-25182645ef59110fabc6d194ee595426]: Textual amendment: Words in [reg. 11(2)(f)](https://www.legislation.gov.uk/uksi/2018/611/regulation/11/2/f) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [37](https://www.legislation.gov.uk/uksi/2022/159/regulation/37)
 
 [^c22955641]: Marginal citation: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69).

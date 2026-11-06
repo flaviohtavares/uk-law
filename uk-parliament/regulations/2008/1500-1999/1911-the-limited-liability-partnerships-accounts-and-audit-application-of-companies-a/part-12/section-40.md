@@ -40,7 +40,7 @@ Sections 498 to 502 [^c19348841] apply to LLPs, modified so that they read as fo
 >
 > (4) If the members of the LLP have prepared accounts in accordance with the small LLPs regime and in the auditor's opinion they were not entitled so to do, the auditor shall state that fact in his report.
 >
-> (5)[^key-ee5b3bbce2c1361716c72f2a06cd6b12] Where more than one person is appointed as auditor, the report must include a statement as to whether all the persons appointed agree on the statements given under subsections (2) to (5) and, if they cannot agree on those statements, the report must include the opinions of each person appointed and give reasons for the disagreement.
+> (5)[^c-ee5b3bbce2c1361716c72f2a06cd6b12] Where more than one person is appointed as auditor, the report must include a statement as to whether all the persons appointed agree on the statements given under subsections (2) to (5) and, if they cannot agree on those statements, the report must include the opinions of each person appointed and give reasons for the disagreement.
 >
 > **499. Auditor's general right to information**
 >
@@ -117,4 +117,4 @@ Sections 498 to 502 [^c19348841] apply to LLPs, modified so that they read as fo
 
 [^c19348841]: Marginal citation: Section 498 was amended by regulation 6(10) of [S.I. 2008/393](https://www.legislation.gov.uk/uksi/2008/393) in manner not relevant to these Regulations.
 
-[^key-ee5b3bbce2c1361716c72f2a06cd6b12]: Textual amendment: Words in reg. 40 inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/14) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-ee5b3bbce2c1361716c72f2a06cd6b12]: Textual amendment: Words in reg. 40 inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/14) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

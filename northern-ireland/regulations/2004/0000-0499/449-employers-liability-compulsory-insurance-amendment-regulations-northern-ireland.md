@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYER'S LIABILITY
 
-Employer’s Liability (Compulsory Insurance) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-bbf91f24321c2550b1a9f1fc218b7983]
+Employer’s Liability (Compulsory Insurance) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-bbf91f24321c2550b1a9f1fc218b7983]
 
 Made
 
@@ -41,86 +41,86 @@ Coming into operation
 
 29th November 2004
 
-[^key-bbf91f24321c2550b1a9f1fc218b7983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbf91f24321c2550b1a9f1fc218b7983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bbf91f24321c2550b1a9f1fc218b7983]
+## 1. Citation and commencement[^c-bbf91f24321c2550b1a9f1fc218b7983]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Employer’s Liability (Compulsory Insurance) Regulations (Northern Ireland) 1999[^key-bbf91f24321c2550b1a9f1fc218b7983]
+## 2. Amendment of the Employer’s Liability (Compulsory Insurance) Regulations (Northern Ireland) 1999[^c-bbf91f24321c2550b1a9f1fc218b7983]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-bbf91f24321c2550b1a9f1fc218b7983]
+## 3. Revocation[^c-bbf91f24321c2550b1a9f1fc218b7983]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbf91f24321c2550b1a9f1fc218b7983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbf91f24321c2550b1a9f1fc218b7983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 2 TO THE EMPLOYER'S LIABILITY (COMPULSORY INSURANCE) REGULATIONS (NORTHERN IRELAND) 1999[^key-bbf91f24321c2550b1a9f1fc218b7983]
+## SCHEDULE — SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 2 TO THE EMPLOYER'S LIABILITY (COMPULSORY INSURANCE) REGULATIONS (NORTHERN IRELAND) 1999[^c-bbf91f24321c2550b1a9f1fc218b7983]
 
 Regulation 2
 
-> **SCHEDULE 2 — EMPLOYERS EXEMPTED FROM INSURANCE[^key-bbf91f24321c2550b1a9f1fc218b7983]**
+> **SCHEDULE 2 — EMPLOYERS EXEMPTED FROM INSURANCE[^c-bbf91f24321c2550b1a9f1fc218b7983]**
 >
 > Regulation 9
 >
-> **1.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **12.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **12.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **13.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **13.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **14.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **14.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **15.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **15.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **16.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **16.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **17.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **17.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **18.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **18.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **19.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **19.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **20.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **20.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **21.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **21.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **22.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **22.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **23.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **23.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **24.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **24.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **25.**[^key-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **25.**[^c-bbf91f24321c2550b1a9f1fc218b7983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbf91f24321c2550b1a9f1fc218b7983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbf91f24321c2550b1a9f1fc218b7983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bbf91f24321c2550b1a9f1fc218b7983]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/449) revoked (28.2.2005) by [The Employer’s Liability (Compulsory Insurance) (Amendment) Regulations (Northern Ireland) 2005 (revoked) 2005 (S.R. 2005/2)](https://www.legislation.gov.uk/nisr/2005/2), [regs. 1](https://www.legislation.gov.uk/nisr/2005/2/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/2/regulation/3)
+[^c-bbf91f24321c2550b1a9f1fc218b7983]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/449) revoked (28.2.2005) by [The Employer’s Liability (Compulsory Insurance) (Amendment) Regulations (Northern Ireland) 2005 (revoked) 2005 (S.R. 2005/2)](https://www.legislation.gov.uk/nisr/2005/2), [regs. 1](https://www.legislation.gov.uk/nisr/2005/2/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/2/regulation/3)

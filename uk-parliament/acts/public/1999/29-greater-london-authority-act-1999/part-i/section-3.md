@@ -24,7 +24,7 @@ summary: ''
 
 (2) The poll at each subsequent ordinary election shall be held on the first Thursday in May in the fourth calendar year following that in which the previous ordinary election was held.
 
-(3) Subsection (2) above is subject to any order made by virtue of section 37(2) [^key-fafc37f80ad5344e5346e093cad5e401]... of the Representation of the [^c12799891]People Act 1983 (power by order to fix a day other than the first Thursday in May).
+(3) Subsection (2) above is subject to any order made by virtue of section 37(2) [^c-fafc37f80ad5344e5346e093cad5e401]... of the Representation of the [^c12799891]People Act 1983 (power by order to fix a day other than the first Thursday in May).
 
 (4) As respects the first ordinary election, the Secretary of State may by order make provision—
 
@@ -41,7 +41,7 @@ summary: ''
 
 [^c12799881]: Commencement: S. 3 wholly in force at 14.12.1999: by virtue of s. 425(2) the Act is in force at Royal Assent in regard to the powers of a Minister of the Crown to make regulations or an order; s. 3 in force at 14.12.1999 insofar as not already in force by [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2)
 
-[^key-fafc37f80ad5344e5346e093cad5e401]: Textual amendment: Words in [s. 3(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/3/3) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-fafc37f80ad5344e5346e093cad5e401]: Textual amendment: Words in [s. 3(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/3/3) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c12799891]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 

@@ -41,7 +41,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 A draft of these Regulations was laid before the National Assembly for Wales under section 196(6) of that Act and has been approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement, application and interpretation[^key-4ed3b30d32a47329ccc23b0dff2874d7]
+## 1. Title, commencement, application and interpretation[^c-4ed3b30d32a47329ccc23b0dff2874d7]
 
 (1) The title of these Regulations is the Partnership Arrangements (Wales) Regulations 2015.
 
@@ -55,11 +55,11 @@ A draft of these Regulations was laid before the National Assembly for Wales und
 (4) In these Regulations—
 
 - “the Act” (“*y Ddeddf*”) means the Social Services and Well-being (Wales) Act 2014;
-- “[^key-e960aea07dd7556a829ee648b558fe9d]**area plan**” (“***cynllun ardal***”) means the plan which a relevant body is required to prepare in accordance with section 14A(2) of the Act;
+- “[^c-e960aea07dd7556a829ee648b558fe9d]**area plan**” (“***cynllun ardal***”) means the plan which a relevant body is required to prepare in accordance with section 14A(2) of the Act;
 - “**the Citizen Voice Body**” (“***Corff Llais y Dinesydd***”) means the Citizen Voice Body for Health and Social Care established under section 12(1) of the Health and Social Care (Quality and Engagement) (Wales) Act 2020;
 - “family support functions” (“*swyddogaethau cymorth i deuluoedd*”) means the functions specified in regulation 15;
 - “**joint area plan**” (“***cynllun ardal ar y cyd***”) means an area plan which has been prepared by a relevant body jointly with another relevant body in accordance with the powers in section 14A(4) or (5) of the Act;
-- “older people” (“[^key-1d6bcd373cf78bb53f9e719319fa9e1a]*pobl hŷn*”) means persons aged 65 or over;
+- “older people” (“[^c-1d6bcd373cf78bb53f9e719319fa9e1a]*pobl hŷn*”) means persons aged 65 or over;
 - “partnership arrangements” (“*trefniadau partneriaeth*”) means the partnership arrangements which are required to be made by partnership bodies in accordance with regulations 2 to 8;
 - “partnership bodies” (“*cyrff partneriaeth*”) are those bodies which are required by regulations 2 to 8 to enter into partnership arrangements;
 - “regional partnership board areas” means each of the respective areas in which partnership bodies are required to enter into partnership arrangements under the direction of a regional partnership board;
@@ -68,7 +68,7 @@ A draft of these Regulations was laid before the National Assembly for Wales und
 
 ## Regional Partnership Boards
 
-### 2. Partnership arrangements under the direction of Gwent regional partnership board[^key-40c225064a926701b6964331e1a6f52c]
+### 2. Partnership arrangements under the direction of Gwent regional partnership board[^c-40c225064a926701b6964331e1a6f52c]
 
 (1) Partnership arrangements for carrying out the specified functions must be made by the following bodies—
 
@@ -83,7 +83,7 @@ A draft of these Regulations was laid before the National Assembly for Wales und
 
 (3) The partnership arrangements required to be made by this regulation must be carried out under the direction of Gwent regional partnership board.
 
-### 3. Partnership arrangements under the direction of North Wales regional partnership board[^key-ad4883ccd0890e7b53207ec76ac4212e]
+### 3. Partnership arrangements under the direction of North Wales regional partnership board[^c-ad4883ccd0890e7b53207ec76ac4212e]
 
 (1) Partnership arrangements for carrying out the specified functions must be made by the following bodies—
 
@@ -99,7 +99,7 @@ A draft of these Regulations was laid before the National Assembly for Wales und
 
 (3) The partnership arrangements required to be made by this regulation must be carried out under the direction of North Wales regional partnership board.
 
-### 4. Partnership arrangements under the direction of Cardiff and Vale regional partnership board[^key-0a046ff17d55e5dd44d27e078e42d4df]
+### 4. Partnership arrangements under the direction of Cardiff and Vale regional partnership board[^c-0a046ff17d55e5dd44d27e078e42d4df]
 
 (1) Partnership arrangements for carrying out the specified functions must be made by the following bodies—
 
@@ -111,33 +111,33 @@ A draft of these Regulations was laid before the National Assembly for Wales und
 
 (3) The partnership arrangements required to be made by this regulation must be carried out under the direction of Cardiff and Vale regional partnership board.
 
-### 5. Partnership arrangements under the direction of West Glamorgan regional partnership board (“bwrdd partneriaeth rhanbarthol Gorllewin Morgannwg”)[^key-201c97f2b163a2f3b7b86212947b5416][^key-98ccd7615d5c9550d845877aa7c474b2]
+### 5. Partnership arrangements under the direction of West Glamorgan regional partnership board (“bwrdd partneriaeth rhanbarthol Gorllewin Morgannwg”)[^c-201c97f2b163a2f3b7b86212947b5416][^c-98ccd7615d5c9550d845877aa7c474b2]
 
 (1) Partnership arrangements for carrying out the specified functions must be made by the following bodies—
 
-- Swansea Bay University Local Health Board[^key-8f3913e51df00f0487531a4560c5f6a6]
+- Swansea Bay University Local Health Board[^c-8f3913e51df00f0487531a4560c5f6a6]
 - Swansea City and County Council
-- [^key-bc0a1a63a7c4e5bf391807ab65605425]...
+- [^c-bc0a1a63a7c4e5bf391807ab65605425]...
 - Neath Port Talbot County Borough Council.
 
-(2) These bodies must together establish a partnership board in respect of the partnership arrangements required to be made by this regulation, to be known as West Glamorgan regional partnership board[^key-b284258bbf0d01ee9be10b5c4ac56ae3].
+(2) These bodies must together establish a partnership board in respect of the partnership arrangements required to be made by this regulation, to be known as West Glamorgan regional partnership board[^c-b284258bbf0d01ee9be10b5c4ac56ae3].
 
-(3) The partnership arrangements required to be made by this regulation must be carried out under the direction of West Glamorgan regional partnership board[^key-21dbe44aa669027f3b0dd53f1e2b9eb6].
+(3) The partnership arrangements required to be made by this regulation must be carried out under the direction of West Glamorgan regional partnership board[^c-21dbe44aa669027f3b0dd53f1e2b9eb6].
 
-### 6. Partnership arrangements under the direction of Cwm Taf Morgannwg regional partnership board”. (“bwrdd partneriaeth rhanbarthol Cwm Taf Morgannwg”);[^key-a21e72d6e5ab414ea1d93dcaddcf8ec6][^key-9ec043ad1dd8174604896ccb3979c760]
+### 6. Partnership arrangements under the direction of Cwm Taf Morgannwg regional partnership board”. (“bwrdd partneriaeth rhanbarthol Cwm Taf Morgannwg”);[^c-a21e72d6e5ab414ea1d93dcaddcf8ec6][^c-9ec043ad1dd8174604896ccb3979c760]
 
 (1) Partnership arrangements for carrying out specified functions must be made by the following bodies—
 
-- Cwm Taf Morgannwg University Local Health Board[^key-071143a004c9038ba15da4f48139fc97]
-- Bridgend County Borough Council[^key-2955e81be986f6b68572eeb2dc7b249d]
+- Cwm Taf Morgannwg University Local Health Board[^c-071143a004c9038ba15da4f48139fc97]
+- Bridgend County Borough Council[^c-2955e81be986f6b68572eeb2dc7b249d]
 - Rhondda Cynon Taf County Borough Council
 - Merthyr Tydfil County Borough Council.
 
-(2) These bodies must together establish a partnership board in respect of the partnership arrangements required to be made by this regulation, to be known as Cwm Taf Morgannwg regional partnership board[^key-75ff10a3e76d04d846e4855f353fa47f].
+(2) These bodies must together establish a partnership board in respect of the partnership arrangements required to be made by this regulation, to be known as Cwm Taf Morgannwg regional partnership board[^c-75ff10a3e76d04d846e4855f353fa47f].
 
-(3) The partnership arrangements required to be made by this regulation must be carried out under the direction of Cwm Taf Morgannwg regional partnership board[^key-7721b4a7fae0d486bd859f4aa01854e1].
+(3) The partnership arrangements required to be made by this regulation must be carried out under the direction of Cwm Taf Morgannwg regional partnership board[^c-7721b4a7fae0d486bd859f4aa01854e1].
 
-### 7. Partnership arrangements under the direction of the West Wales regional partnership board[^key-6064d14368d9caf73d626060e7fbf570]
+### 7. Partnership arrangements under the direction of the West Wales regional partnership board[^c-6064d14368d9caf73d626060e7fbf570]
 
 (1) Partnership arrangements for carrying out the specified functions must be made by the following bodies—
 
@@ -150,7 +150,7 @@ A draft of these Regulations was laid before the National Assembly for Wales und
 
 (3) The partnership arrangements required to be made by this regulation must be carried out under the direction of West Wales regional partnership board.
 
-### 8. Partnership arrangements under the direction of Powys regional partnership board[^key-d54aa5d424aecee9917eb4820b67fada]
+### 8. Partnership arrangements under the direction of Powys regional partnership board[^c-d54aa5d424aecee9917eb4820b67fada]
 
 (1) Partnership arrangements for carrying out the specified functions must be made by the following bodies—
 
@@ -161,46 +161,46 @@ A draft of these Regulations was laid before the National Assembly for Wales und
 
 (3) The partnership arrangements required to be made by this regulation must be carried out under the direction of Powys regional partnership board.
 
-### 9. Specified functions[^key-05d15a7a41060495e7045565126f093a]
+### 9. Specified functions[^c-05d15a7a41060495e7045565126f093a]
 
 The functions to be carried out in accordance with the partnership arrangements are the functions described in Schedule 1.
 
-### 10. Objectives of regional partnership boards[^key-72993f9a57cb330c30040ed162f997e6]
+### 10. Objectives of regional partnership boards[^c-72993f9a57cb330c30040ed162f997e6]
 
 The objectives of a regional partnership board are—
 
 - (a) to ensure that the partnership bodies work effectively together to—
-  - (i) respond to the population assessment carried out in accordance with section 14 of the Act, [^key-d7c897b801ed3c3a350b97cc5064825f]...
-  - (ii) implement the plans for each of the local authority areas covered by the board which local authorities and local health boards are each required to prepare and publish under section 14A of the Act[^f00002][^key-2df96292de9532952eff8ebcdc3084e5]... ,[^key-293071c3f16d85f60001994574b6cae8]
+  - (i) respond to the population assessment carried out in accordance with section 14 of the Act, [^c-d7c897b801ed3c3a350b97cc5064825f]...
+  - (ii) implement the plans for each of the local authority areas covered by the board which local authorities and local health boards are each required to prepare and publish under section 14A of the Act[^f00002][^c-2df96292de9532952eff8ebcdc3084e5]... ,[^c-293071c3f16d85f60001994574b6cae8]
   - (iii) respond to the market stability report which local authorities are required to prepare and publish under section 144B(1) of the Act,
   - (iv) promote social enterprises, co-operatives, user-led services and the third sector (in accordance with a local authority’s duty under section 16 of the Act) when responding to a market stability report, and when implementing an area plan, or a joint area plan,
   - (v) promote and facilitate the participation of children under the age of 18 in relation to decisions which affect them that are made in the exercise of the partnership arrangements (in accordance with a local authority’s duty under section 12 of the Children and Families (Wales) Measure 2010), and
   - (vi) promote the development of integrated health and social services arrangements;
 - (b) to ensure that the partnership bodies provide sufficient resources for the partnership arrangements, in accordance with their powers under section 167 of the Act;
-- (c) to promote the establishment of pooled funds where appropriate[^key-a829ef605fcb33b845cc2592837479a5]... ;[^M_F_fff3e58d-1c76-44e9-91ff-d2d9633addc8]
+- (c) to promote the establishment of pooled funds where appropriate[^c-a829ef605fcb33b845cc2592837479a5]... ;[^M_F_fff3e58d-1c76-44e9-91ff-d2d9633addc8]
 - (d) to work with the Citizen Voice Body to promote the involvement of people who need care and support, and carers, in the work of the partnership arrangements.
 
-### 11. Membership of regional partnership boards[^key-2a095e15c1f514a44f75d29b3208d094]
+### 11. Membership of regional partnership boards[^c-2a095e15c1f514a44f75d29b3208d094]
 
 (1) Membership of a regional partnership board must include the following—
 
 - (a) at least one elected member of a local authority which established the regional partnership board;
 - (b) at least one member of a Local Health Board which established the regional partnership board;
 - (c) the person appointed as director of social services under section 144 of the Act in respect of each local authority which established the regional partnership board, or his or her nominated representative;
-- (d) at least one[^key-5603375b2c60f21a5a44fd37e2796e4c] representative of the Local Health Board which established the regional partnership board;
-- (e) at least two people[^key-8afd54eb4c38b1980879db4e3aafd334] who represent the interests of third sector organisations in the area covered by the regional partnership board;
+- (d) at least one[^c-5603375b2c60f21a5a44fd37e2796e4c] representative of the Local Health Board which established the regional partnership board;
+- (e) at least two people[^c-8afd54eb4c38b1980879db4e3aafd334] who represent the interests of third sector organisations in the area covered by the regional partnership board;
 - (f) at least one person who represents the interests of care providers in the area covered by the regional partnership board;
-- (g) at least[^key-059b39ead095f7a2f94a91f735c5d2c2] one person to represent people with needs for care and support in the area covered by the regional partnership board;
-- (h) at least[^key-dc2f5fd1c63c63f23c697d02a8f20d02] one person to represent carers[^f00003] in the area covered by the regional partnership board ;[^key-5c522eb1a2325cc3bb157547d5f7c8c4]
+- (g) at least[^c-059b39ead095f7a2f94a91f735c5d2c2] one person to represent people with needs for care and support in the area covered by the regional partnership board;
+- (h) at least[^c-dc2f5fd1c63c63f23c697d02a8f20d02] one person to represent carers[^f00003] in the area covered by the regional partnership board ;[^c-5c522eb1a2325cc3bb157547d5f7c8c4]
 - (i) at least one senior local authority officer responsible for housing including the responsibility for or links to capital investment in housing, in the area covered by the regional partnership board;
 - (j) at least one person who represents registered social landlords in the area covered by the regional partnership board;
-- (k) at least one senior local authority officer who has responsibility for education in the area covered by the regional partnership board[^key-275ab9dfa1f53863841e0499dc6d35b8]... ;[^key-91eb556babf0b7e6cac02c615fdc4b52]
+- (k) at least one senior local authority officer who has responsibility for education in the area covered by the regional partnership board[^c-275ab9dfa1f53863841e0499dc6d35b8]... ;[^c-91eb556babf0b7e6cac02c615fdc4b52]
 - (l) a representative of the Welsh Ambulance Services University National Health Service Trust;
 - (m) at least one person to represent the interests of the providers of primary care services in the area covered by the regional partnership board;
 - (n) at least one person to represent the interests of workers who provide health or social care services in the area covered by the regional partnership board;
 - (o) at least one person to represent the County Voluntary Councils which represent the area covered by the regional partnership board.
 
-(1A)[^key-c95194118ab74538dc0e87544a3c5824] A regional partnership board must invite a representative of the Citizen Voice Body to be an independent observer member of the board.
+(1A)[^c-c95194118ab74538dc0e87544a3c5824] A regional partnership board must invite a representative of the Citizen Voice Body to be an independent observer member of the board.
 
 (1B) A regional partnership board may invite such other persons to be independent observer members of the board as it thinks appropriate.
 
@@ -216,14 +216,14 @@ The objectives of a regional partnership board are—
 
 (4) For the purpose of this regulation—
 
-- “[^key-af0b06503e8796a0f3260e5745bbb07a]**care provider**” (“***darparwr gofal***”) means—
+- “[^c-af0b06503e8796a0f3260e5745bbb07a]**care provider**” (“***darparwr gofal***”) means—
   - (a) a person who is registered under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 to provide a regulated service (within the meaning of that Act), and
   - (b) a person registered under Part 2 of the Care Standards Act 2000 in respect of a establishment or agency (within the meaning of that Act);
-- “[^key-b4c85e2d95a61972f1df4a7d58fbdb9e]**primary care services**” (“***gwasanaethau gofal sylfaenol***”) means the services provided as part of the national health service pursuant to arrangements made by Local Health Boards in accordance with Parts 4 to 7 of the National Health Service (Wales) Act 2006;
-- “registered social landlord” (“[^key-fdf9e689dd03dddf3b22d532f50a0a55]*landlord cymdeithasol cofrestredig*”) means a Welsh body registered with the Welsh Ministers under Part 1 of the Housing Act 1996;
+- “[^c-b4c85e2d95a61972f1df4a7d58fbdb9e]**primary care services**” (“***gwasanaethau gofal sylfaenol***”) means the services provided as part of the national health service pursuant to arrangements made by Local Health Boards in accordance with Parts 4 to 7 of the National Health Service (Wales) Act 2006;
+- “registered social landlord” (“[^c-fdf9e689dd03dddf3b22d532f50a0a55]*landlord cymdeithasol cofrestredig*”) means a Welsh body registered with the Welsh Ministers under Part 1 of the Housing Act 1996;
 - “third sector organisation” (“*sefydliad trydydd sector*”) has the same meaning as in section 16(2) of the Act.
 
-### 11A. Responsible persons[^key-5722682337c91495fe9408b6e30945dc]
+### 11A. Responsible persons[^c-5722682337c91495fe9408b6e30945dc]
 
 (1) Each partnership body must appoint a responsible person to facilitate the partnership arrangements and promote co-operation between—
 
@@ -273,15 +273,15 @@ The objectives of a regional partnership board are—
 
 (11) A regional partnership board must publish a summary of the results of a self-assessment report or, as the case may be, the review undertaken in accordance with this regulation in a report prepared in accordance with regulation 12.
 
-### 12. Reports[^key-ff7071240e694032f45f6f0c64916283]
+### 12. Reports[^c-ff7071240e694032f45f6f0c64916283]
 
 (1) Regional partnership boards must prepare a report on the extent to which the board’s objectives in regulation 10 have been achieved and submit this report to the Welsh Ministers.
 
 (2) The first report must be prepared and submitted by 1 April 2017.
 
-(3) From April 2019[^key-ef648477beecdb93a594ce77ae745f8b] reports must be prepared and submitted annually no later than 30 June[^key-e153a78bf557b2cc264413ffe1b32396].
+(3) From April 2019[^c-ef648477beecdb93a594ce77ae745f8b] reports must be prepared and submitted annually no later than 30 June[^c-e153a78bf557b2cc264413ffe1b32396].
 
-(4)[^key-927cdef26356d9418ac1e30993dad22b] From 1 April 2025—
+(4)[^c-927cdef26356d9418ac1e30993dad22b] From 1 April 2025—
 
 - (a) reports must contain—
   - (i) a description of the purpose, role, membership, operating structure and the key priorities of the board,
@@ -298,9 +298,9 @@ The objectives of a regional partnership board are—
   - (xii) the results of a review undertaken in accordance with regulation 8(2) of the Care and Support (Area Planning) (Wales) Regulations 2017 (monitoring and evaluation: annual review);
 - (b) each partnership body must publish on its website a report prepared by the regional partnership board under this regulation.
 
-### 13. Information sharing[^key-c0af0abc102f2e3ae64de4d14ac450c0]
+### 13. Information sharing[^c-c0af0abc102f2e3ae64de4d14ac450c0]
 
-(1) For the purposes of carrying out the functions being carried out in accordance with[^key-5cb098c62fb9fc90fe57a2738317580c] the partnership arrangements, a partnership body must share information with—
+(1) For the purposes of carrying out the functions being carried out in accordance with[^c-5cb098c62fb9fc90fe57a2738317580c] the partnership arrangements, a partnership body must share information with—
 
 - (a) any of the other partnership bodies;
 - (b) the regional partnership board.
@@ -314,7 +314,7 @@ The objectives of a regional partnership board are—
 
 (4) The duty in paragraphs (1), (2) or (3) does not apply if this is incompatible with any of the body’s other duties, including its duties under the Data Protection Act 1998[^f00005] and the Human Rights Act 1998[^f00006].
 
-### 14. Delegation of functions[^key-481d933ececf53d3aa525f632820f988]
+### 14. Delegation of functions[^c-481d933ececf53d3aa525f632820f988]
 
 (1) A local authority may carry out any of the specified functions on behalf of any of the other partnership bodies taking part in the same partnership arrangements.
 
@@ -322,13 +322,13 @@ The objectives of a regional partnership board are—
 
 ## Integrated Family Support Teams
 
-### 15. Family support functions[^key-a56889da837c0eda6887ac9a03223d54]
+### 15. Family support functions[^c-a56889da837c0eda6887ac9a03223d54]
 
 Family support functions are the functions specified in Schedule 2.
 
-### 16. Establishment of integrated family support teams[^key-fd059088f25cd0ef2cfe690755675eec]
+### 16. Establishment of integrated family support teams[^c-fd059088f25cd0ef2cfe690755675eec]
 
-(1) The partnership bodies for each of the regional partnership board areas[^key-75f63440558ccc85a73d429c928cafe7] must establish a team for the purpose of the exercise of family support functions.
+(1) The partnership bodies for each of the regional partnership board areas[^c-75f63440558ccc85a73d429c928cafe7] must establish a team for the purpose of the exercise of family support functions.
 
 (2) A team established under this regulation is to be known as an integrated family support team.
 
@@ -339,7 +339,7 @@ Family support functions are the functions specified in Schedule 2.
 - (a) the categories of cases which can be referred to it, and
 - (b) the need of professional staff for administrative support.
 
-### 17. Assignment and exercise of family support functions[^key-0c221c3efce2c75357d29fbc5827a9d4]
+### 17. Assignment and exercise of family support functions[^c-0c221c3efce2c75357d29fbc5827a9d4]
 
 (1) An integrated family support team must carry out the family support functions that are assigned to it.
 
@@ -349,7 +349,7 @@ Family support functions are the functions specified in Schedule 2.
 
 (4) A function exercised under these Regulations is exercisable concurrently by the integrated family support team and the body upon whom the function is conferred.
 
-### 18. Arrangements for referral of cases to the integrated family support teams[^key-1a78477c8b3a25a23681e8d0d8a8c745]
+### 18. Arrangements for referral of cases to the integrated family support teams[^c-1a78477c8b3a25a23681e8d0d8a8c745]
 
 (1) A partnership body may refer a family to an integrated family support team if it reasonably believes or suspects that—
 
@@ -388,7 +388,7 @@ Family support functions are the functions specified in Schedule 2.
 - (a) “parental responsibility” (“*cyfrifoldeb rhiant*”) has the same meaning as in section 3 of the the Children Act 1989[^f00007];
 - (b) in determining whether an individual has care of a child, any absence of the child at a hospital, children’s home or foster placement and any other temporary absence is to be disregarded.
 
-## Market Stability Reports[^key-cb42b114481d3ccf03bbd6017b070d25]
+## Market Stability Reports[^c-cb42b114481d3ccf03bbd6017b070d25]
 
 ### 18A. Market stability reports
 
@@ -398,14 +398,14 @@ Family support functions are the functions specified in Schedule 2.
 
 ## Pooled Funds
 
-### 19. Establishment and maintenance of pooled funds[^key-38999d686fd64b7ca11fb4167adb8880]
+### 19. Establishment and maintenance of pooled funds[^c-38999d686fd64b7ca11fb4167adb8880]
 
 (1) Partnership bodies for each of the regional partnership board areas must establish and maintain—
 
-- (a) a [^key-682a515d3d1ac26b8768a3fa6133209c]... pooled fund in relation to the exercise of their care home accommodation functions for older people, and
+- (a) a [^c-682a515d3d1ac26b8768a3fa6133209c]... pooled fund in relation to the exercise of their care home accommodation functions for older people, and
 - (b) a pooled fund in relation to the exercise of their family support functions.
 
-(2)[^key-408b80f6a9238f7ceb377206be3a02d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-408b80f6a9238f7ceb377206be3a02d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Nothing in this regulation prevents partnership bodies from establishing and maintaining pooled funds or regional pooled funds for carrying out any other functions specified in Schedule 1.
 
@@ -427,7 +427,7 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 2 December 2015
 
-## SCHEDULE 1 — Functions to be carried out by partnership arrangements[^key-b2ecdcbcfc1ac551ddf9e9488ffd1218]
+## SCHEDULE 1 — Functions to be carried out by partnership arrangements[^c-b2ecdcbcfc1ac551ddf9e9488ffd1218]
 
 Regulation 9
 
@@ -446,7 +446,7 @@ Local authority functions
 | *Extent: E+W+S+N.I.*<br>**7.** The functions of providing environmental health services under sections 180 and 181 of the Local Government Act 1972[^f00017] |
 | *Extent: E+W+S+N.I.*<br>**8.** The functions of local highway authorities under the Highways Act 1980[^f00018] and section 39 of the Road Traffic Act 1988[^f00019] |
 | *Extent: E+W+S+N.I.*<br>**9.** The functions under section 63 (passenger transport) and section 93 (travel concession schemes) of the Transport Act 1985[^f00020] |
-| **10.**[^key-7a4f9e7f8565a170fc38c7e762349873] The functions of a local authority under section 12 of the Children and Families (Wales) Measure 2010. |
+| **10.**[^c-7a4f9e7f8565a170fc38c7e762349873] The functions of a local authority under section 12 of the Children and Families (Wales) Measure 2010. |
 
 Table 2
 
@@ -460,9 +460,9 @@ Local Health Board functions
 | Sections 2 and 3 of the National Health Service (Wales) Act 2006 *(powers to provide health services)*, including rehabilitation services and services intended to avoid admission to hospital but excluding surgery, radiotherapy, termination of pregnancies, endoscopy, the use of Class 4 laser treatments and other invasive treatments and emergency ambulance services |
 | Section 10(1), (2), (3), (4) and (5) of the National Health Service (Wales) Act 2006 *(arrangements with other bodies)* |
 | Section 38(6) of the National Health Service (Wales) Act 2006 *(duty to make available services provided by a person employed in the health service to enable local authorities to discharge functions)* |
-| Section 14A of the Social Services and Well-being (Wales) Act 2014( ) (plans following assessments of needs under section 14)[^key-cb36a4465527e3b06e62a1a9069e9408] |
+| Section 14A of the Social Services and Well-being (Wales) Act 2014( ) (plans following assessments of needs under section 14)[^c-cb36a4465527e3b06e62a1a9069e9408] |
 
-## SCHEDULE 2 — Family support functions[^key-b22d298d6982b71329a99f036571a668]
+## SCHEDULE 2 — Family support functions[^c-b22d298d6982b71329a99f036571a668]
 
 Regulation 15
 
@@ -481,7 +481,7 @@ Local authority functions in relation to children
 </tbody>
 </table>
 
-[^key-27b93023316b217225164c802836527a][^key-41256c393aa767020865c064de30570a]
+[^c-27b93023316b217225164c802836527a][^c-41256c393aa767020865c064de30570a]
 
 Table 2
 
@@ -561,129 +561,129 @@ Regulation 19 requires pooled funds to be established and maintained in relation
 
 [^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-4ed3b30d32a47329ccc23b0dff2874d7]: Commencement: Reg. 1 in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-4ed3b30d32a47329ccc23b0dff2874d7]: Commencement: Reg. 1 in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-e960aea07dd7556a829ee648b558fe9d]: Textual amendment: Words in reg. 1(4) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2024/1238/regulation/3)
+[^c-e960aea07dd7556a829ee648b558fe9d]: Textual amendment: Words in reg. 1(4) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2024/1238/regulation/3)
 
-[^key-1d6bcd373cf78bb53f9e719319fa9e1a]: Textual amendment: Words in reg. 1(4) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/760/regulation/3)
+[^c-1d6bcd373cf78bb53f9e719319fa9e1a]: Textual amendment: Words in reg. 1(4) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/760/regulation/3)
 
-[^key-40c225064a926701b6964331e1a6f52c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1989/regulation/2) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-40c225064a926701b6964331e1a6f52c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1989/regulation/2) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-ad4883ccd0890e7b53207ec76ac4212e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1989/regulation/3) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-ad4883ccd0890e7b53207ec76ac4212e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1989/regulation/3) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-0a046ff17d55e5dd44d27e078e42d4df]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1989/regulation/4) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-0a046ff17d55e5dd44d27e078e42d4df]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1989/regulation/4) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-201c97f2b163a2f3b7b86212947b5416]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1989/regulation/5) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-201c97f2b163a2f3b7b86212947b5416]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1989/regulation/5) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-98ccd7615d5c9550d845877aa7c474b2]: Textual amendment: Words in cross-heading substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2019/760/regulation/4/a)
+[^c-98ccd7615d5c9550d845877aa7c474b2]: Textual amendment: Words in cross-heading substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2019/760/regulation/4/a)
 
-[^key-8f3913e51df00f0487531a4560c5f6a6]: Textual amendment: Words in reg. 5(1) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [4(b)(i)](https://www.legislation.gov.uk/wsi/2019/760/regulation/4/b/i)
+[^c-8f3913e51df00f0487531a4560c5f6a6]: Textual amendment: Words in reg. 5(1) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [4(b)(i)](https://www.legislation.gov.uk/wsi/2019/760/regulation/4/b/i)
 
-[^key-bc0a1a63a7c4e5bf391807ab65605425]: Textual amendment: Words in reg. 5(1) omitted (1.4.2019) by virtue of [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [4(b)(ii)](https://www.legislation.gov.uk/wsi/2019/760/regulation/4/b/ii)
+[^c-bc0a1a63a7c4e5bf391807ab65605425]: Textual amendment: Words in reg. 5(1) omitted (1.4.2019) by virtue of [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [4(b)(ii)](https://www.legislation.gov.uk/wsi/2019/760/regulation/4/b/ii)
 
-[^key-b284258bbf0d01ee9be10b5c4ac56ae3]: Textual amendment: Words in reg. 5(2) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2019/760/regulation/4/c)
+[^c-b284258bbf0d01ee9be10b5c4ac56ae3]: Textual amendment: Words in reg. 5(2) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2019/760/regulation/4/c)
 
-[^key-21dbe44aa669027f3b0dd53f1e2b9eb6]: Textual amendment: Words in reg. 5(3) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [4(d)](https://www.legislation.gov.uk/wsi/2019/760/regulation/4/d)
+[^c-21dbe44aa669027f3b0dd53f1e2b9eb6]: Textual amendment: Words in reg. 5(3) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [4(d)](https://www.legislation.gov.uk/wsi/2019/760/regulation/4/d)
 
-[^key-a21e72d6e5ab414ea1d93dcaddcf8ec6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1989/regulation/6) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-a21e72d6e5ab414ea1d93dcaddcf8ec6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1989/regulation/6) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-9ec043ad1dd8174604896ccb3979c760]: Textual amendment: Words in cross-heading substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2019/760/regulation/5/a)
+[^c-9ec043ad1dd8174604896ccb3979c760]: Textual amendment: Words in cross-heading substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2019/760/regulation/5/a)
 
-[^key-071143a004c9038ba15da4f48139fc97]: Textual amendment: Words in reg. 6(1) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [5(b)(i)](https://www.legislation.gov.uk/wsi/2019/760/regulation/5/b/i)
+[^c-071143a004c9038ba15da4f48139fc97]: Textual amendment: Words in reg. 6(1) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [5(b)(i)](https://www.legislation.gov.uk/wsi/2019/760/regulation/5/b/i)
 
-[^key-2955e81be986f6b68572eeb2dc7b249d]: Textual amendment: Words in reg. 6(1) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [5(b)(ii)](https://www.legislation.gov.uk/wsi/2019/760/regulation/5/b/ii)
+[^c-2955e81be986f6b68572eeb2dc7b249d]: Textual amendment: Words in reg. 6(1) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [5(b)(ii)](https://www.legislation.gov.uk/wsi/2019/760/regulation/5/b/ii)
 
-[^key-75ff10a3e76d04d846e4855f353fa47f]: Textual amendment: Words in reg. 6(2) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [5(c)](https://www.legislation.gov.uk/wsi/2019/760/regulation/5/c)
+[^c-75ff10a3e76d04d846e4855f353fa47f]: Textual amendment: Words in reg. 6(2) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [5(c)](https://www.legislation.gov.uk/wsi/2019/760/regulation/5/c)
 
-[^key-7721b4a7fae0d486bd859f4aa01854e1]: Textual amendment: Words in reg. 6(3) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [5(d)](https://www.legislation.gov.uk/wsi/2019/760/regulation/5/d)
+[^c-7721b4a7fae0d486bd859f4aa01854e1]: Textual amendment: Words in reg. 6(3) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [5(d)](https://www.legislation.gov.uk/wsi/2019/760/regulation/5/d)
 
-[^key-6064d14368d9caf73d626060e7fbf570]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1989/regulation/7) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-6064d14368d9caf73d626060e7fbf570]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1989/regulation/7) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-d54aa5d424aecee9917eb4820b67fada]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1989/regulation/8) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-d54aa5d424aecee9917eb4820b67fada]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1989/regulation/8) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-05d15a7a41060495e7045565126f093a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1989/regulation/9) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-05d15a7a41060495e7045565126f093a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1989/regulation/9) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-72993f9a57cb330c30040ed162f997e6]: Commencement: Reg. 10 in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-72993f9a57cb330c30040ed162f997e6]: Commencement: Reg. 10 in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-d7c897b801ed3c3a350b97cc5064825f]: Textual amendment: Word in reg. 10(a)(i) omitted (31.12.2024) by virtue of [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [4(2)(i)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/4/2/i)
+[^c-d7c897b801ed3c3a350b97cc5064825f]: Textual amendment: Word in reg. 10(a)(i) omitted (31.12.2024) by virtue of [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [4(2)(i)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/4/2/i)
 
 [^f00002]: Footnote: Section 14A was inserted into the Act by section 46 of, and paragraph 34 of Schedule 4 to the [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2).
 
-[^key-2df96292de9532952eff8ebcdc3084e5]: Textual amendment: Reg. 10(a)(ii): semicolon omitted (31.12.2024) by virtue of [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [4(2)(ii)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/4/2/ii)
+[^c-2df96292de9532952eff8ebcdc3084e5]: Textual amendment: Reg. 10(a)(ii): semicolon omitted (31.12.2024) by virtue of [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [4(2)(ii)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/4/2/ii)
 
-[^key-293071c3f16d85f60001994574b6cae8]: Textual amendment: [Reg. 10(a)(iii)-(vi)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/10/a/iii) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/uksi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1238/regulation/1/2), [4(2)(ii)](https://www.legislation.gov.uk/uksi/2024/1238/regulation/4/2/ii)
+[^c-293071c3f16d85f60001994574b6cae8]: Textual amendment: [Reg. 10(a)(iii)-(vi)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/10/a/iii) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/uksi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1238/regulation/1/2), [4(2)(ii)](https://www.legislation.gov.uk/uksi/2024/1238/regulation/4/2/ii)
 
-[^key-a829ef605fcb33b845cc2592837479a5]: Textual amendment: Reg. 10(c) full stop omitted (31.12.2024) by virtue of [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/4/3)
+[^c-a829ef605fcb33b845cc2592837479a5]: Textual amendment: Reg. 10(c) full stop omitted (31.12.2024) by virtue of [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/4/3)
 
 [^M_F_fff3e58d-1c76-44e9-91ff-d2d9633addc8]: Textual amendment: [Regs. 10(d)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/10/d) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/uksi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1238/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/1238/regulation/4/3)
 
-[^key-2a095e15c1f514a44f75d29b3208d094]: Commencement: Reg. 11 in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-2a095e15c1f514a44f75d29b3208d094]: Commencement: Reg. 11 in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-5603375b2c60f21a5a44fd37e2796e4c]: Textual amendment: Words in reg. 11(1)(d) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/wsi/2019/760/regulation/6/1/a)
+[^c-5603375b2c60f21a5a44fd37e2796e4c]: Textual amendment: Words in reg. 11(1)(d) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/wsi/2019/760/regulation/6/1/a)
 
-[^key-8afd54eb4c38b1980879db4e3aafd334]: Textual amendment: Words in reg. 11(1)(e) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/wsi/2019/760/regulation/6/1/b)
+[^c-8afd54eb4c38b1980879db4e3aafd334]: Textual amendment: Words in reg. 11(1)(e) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/wsi/2019/760/regulation/6/1/b)
 
-[^key-059b39ead095f7a2f94a91f735c5d2c2]: Textual amendment: Words in reg. 11(1)(g) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/wsi/2019/760/regulation/6/1/c)
+[^c-059b39ead095f7a2f94a91f735c5d2c2]: Textual amendment: Words in reg. 11(1)(g) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/wsi/2019/760/regulation/6/1/c)
 
-[^key-dc2f5fd1c63c63f23c697d02a8f20d02]: Textual amendment: Words in reg. 11(1)(h) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [6(1)(d)](https://www.legislation.gov.uk/wsi/2019/760/regulation/6/1/d)
+[^c-dc2f5fd1c63c63f23c697d02a8f20d02]: Textual amendment: Words in reg. 11(1)(h) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [6(1)(d)](https://www.legislation.gov.uk/wsi/2019/760/regulation/6/1/d)
 
 [^f00003]: Footnote: “Carer” is defined in section 3(4) of the Act.
 
-[^key-5c522eb1a2325cc3bb157547d5f7c8c4]: Textual amendment: Reg. 11(1)(i)-(k) substituted for full stop (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/uksi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/760/regulation/1/2), [6(1)(e)](https://www.legislation.gov.uk/uksi/2019/760/regulation/6/1/e)
+[^c-5c522eb1a2325cc3bb157547d5f7c8c4]: Textual amendment: Reg. 11(1)(i)-(k) substituted for full stop (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/uksi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/760/regulation/1/2), [6(1)(e)](https://www.legislation.gov.uk/uksi/2019/760/regulation/6/1/e)
 
-[^key-275ab9dfa1f53863841e0499dc6d35b8]: Textual amendment: Reg. 11(1)(k) full stop omitted (31.12.2024) by virtue of [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/5/2)
+[^c-275ab9dfa1f53863841e0499dc6d35b8]: Textual amendment: Reg. 11(1)(k) full stop omitted (31.12.2024) by virtue of [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/5/2)
 
-[^key-91eb556babf0b7e6cac02c615fdc4b52]: Textual amendment: Reg. 11(1)(l)-(o) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/5/2)
+[^c-91eb556babf0b7e6cac02c615fdc4b52]: Textual amendment: Reg. 11(1)(l)-(o) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/5/2)
 
-[^key-c95194118ab74538dc0e87544a3c5824]: Textual amendment: Reg. 11(1A)-(1C) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/5/2)
+[^c-c95194118ab74538dc0e87544a3c5824]: Textual amendment: Reg. 11(1A)-(1C) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/5/2)
 
-[^key-af0b06503e8796a0f3260e5745bbb07a]: Textual amendment: Words in reg. 11(4) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 39(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/39/2)
+[^c-af0b06503e8796a0f3260e5745bbb07a]: Textual amendment: Words in reg. 11(4) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 39(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/39/2)
 
-[^key-b4c85e2d95a61972f1df4a7d58fbdb9e]: Textual amendment: Words in reg. 11(4) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/5/3)
+[^c-b4c85e2d95a61972f1df4a7d58fbdb9e]: Textual amendment: Words in reg. 11(4) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/5/3)
 
-[^key-fdf9e689dd03dddf3b22d532f50a0a55]: Textual amendment: Words in reg. 11(4) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/6/2)
+[^c-fdf9e689dd03dddf3b22d532f50a0a55]: Textual amendment: Words in reg. 11(4) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/6/2)
 
-[^key-5722682337c91495fe9408b6e30945dc]: Textual amendment: Regs. 11A-11C inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2024/1238/regulation/6)
+[^c-5722682337c91495fe9408b6e30945dc]: Textual amendment: Regs. 11A-11C inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2024/1238/regulation/6)
 
-[^key-ff7071240e694032f45f6f0c64916283]: Commencement: Reg. 12 in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-ff7071240e694032f45f6f0c64916283]: Commencement: Reg. 12 in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-ef648477beecdb93a594ce77ae745f8b]: Textual amendment: Words in reg. 12(3) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [7(a)](https://www.legislation.gov.uk/wsi/2019/760/regulation/7/a)
+[^c-ef648477beecdb93a594ce77ae745f8b]: Textual amendment: Words in reg. 12(3) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [7(a)](https://www.legislation.gov.uk/wsi/2019/760/regulation/7/a)
 
-[^key-e153a78bf557b2cc264413ffe1b32396]: Textual amendment: Words in reg. 12(3) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [7(b)](https://www.legislation.gov.uk/wsi/2019/760/regulation/7/b)
+[^c-e153a78bf557b2cc264413ffe1b32396]: Textual amendment: Words in reg. 12(3) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [7(b)](https://www.legislation.gov.uk/wsi/2019/760/regulation/7/b)
 
-[^key-927cdef26356d9418ac1e30993dad22b]: Textual amendment: Reg. 12(4) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2024/1238/regulation/7)
+[^c-927cdef26356d9418ac1e30993dad22b]: Textual amendment: Reg. 12(4) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2024/1238/regulation/7)
 
-[^key-c0af0abc102f2e3ae64de4d14ac450c0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2015/1989/regulation/13) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-c0af0abc102f2e3ae64de4d14ac450c0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2015/1989/regulation/13) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-5cb098c62fb9fc90fe57a2738317580c]: Textual amendment: Words in reg. 13(1) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2019/760/regulation/8)
+[^c-5cb098c62fb9fc90fe57a2738317580c]: Textual amendment: Words in reg. 13(1) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2019/760/regulation/8)
 
 [^f00005]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
 [^f00006]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-481d933ececf53d3aa525f632820f988]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/1989/regulation/14) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-481d933ececf53d3aa525f632820f988]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/1989/regulation/14) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-a56889da837c0eda6887ac9a03223d54]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2015/1989/regulation/15) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-a56889da837c0eda6887ac9a03223d54]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2015/1989/regulation/15) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-fd059088f25cd0ef2cfe690755675eec]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2015/1989/regulation/16) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-fd059088f25cd0ef2cfe690755675eec]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2015/1989/regulation/16) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-75f63440558ccc85a73d429c928cafe7]: Textual amendment: Words in reg. 16(1) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2019/760/regulation/9)
+[^c-75f63440558ccc85a73d429c928cafe7]: Textual amendment: Words in reg. 16(1) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2019/760/regulation/9)
 
-[^key-0c221c3efce2c75357d29fbc5827a9d4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2015/1989/regulation/17) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-0c221c3efce2c75357d29fbc5827a9d4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2015/1989/regulation/17) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-1a78477c8b3a25a23681e8d0d8a8c745]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2015/1989/regulation/18) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-1a78477c8b3a25a23681e8d0d8a8c745]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2015/1989/regulation/18) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
 [^f00007]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-cb42b114481d3ccf03bbd6017b070d25]: Textual amendment: Reg. 18A and cross-heading inserted (1.4.2021) by [The Partnership Arrangements (Amendment) and Regulated Services (Market Stability Reports) (Wales) Regulations 2021 (S.I. 2021/198)](https://www.legislation.gov.uk/wsi/2021/198), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2021/198/regulation/6)
+[^c-cb42b114481d3ccf03bbd6017b070d25]: Textual amendment: Reg. 18A and cross-heading inserted (1.4.2021) by [The Partnership Arrangements (Amendment) and Regulated Services (Market Stability Reports) (Wales) Regulations 2021 (S.I. 2021/198)](https://www.legislation.gov.uk/wsi/2021/198), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2021/198/regulation/6)
 
-[^key-38999d686fd64b7ca11fb4167adb8880]: Textual amendment: Reg. 19 substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2019/760/regulation/10)
+[^c-38999d686fd64b7ca11fb4167adb8880]: Textual amendment: Reg. 19 substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2019/760/regulation/10)
 
-[^key-682a515d3d1ac26b8768a3fa6133209c]: Textual amendment: Word in reg. 19(1)(a) omitted (31.3.2025) by virtue of [The Partnership Arrangements (Wales) (Amendment) Regulations 2025 (S.I. 2025/388)](https://www.legislation.gov.uk/wsi/2025/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/388/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/388/regulation/2/2)
+[^c-682a515d3d1ac26b8768a3fa6133209c]: Textual amendment: Word in reg. 19(1)(a) omitted (31.3.2025) by virtue of [The Partnership Arrangements (Wales) (Amendment) Regulations 2025 (S.I. 2025/388)](https://www.legislation.gov.uk/wsi/2025/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/388/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/388/regulation/2/2)
 
-[^key-408b80f6a9238f7ceb377206be3a02d3]: Textual amendment: Reg. 19(2) omitted (31.3.2025) by virtue of [The Partnership Arrangements (Wales) (Amendment) Regulations 2025 (S.I. 2025/388)](https://www.legislation.gov.uk/wsi/2025/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/388/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/388/regulation/2/3)
+[^c-408b80f6a9238f7ceb377206be3a02d3]: Textual amendment: Reg. 19(2) omitted (31.3.2025) by virtue of [The Partnership Arrangements (Wales) (Amendment) Regulations 2025 (S.I. 2025/388)](https://www.legislation.gov.uk/wsi/2025/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/388/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/388/regulation/2/3)
 
-[^key-b2ecdcbcfc1ac551ddf9e9488ffd1218]: Commencement: Sch. 1 in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-b2ecdcbcfc1ac551ddf9e9488ffd1218]: Commencement: Sch. 1 in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
 [^f00009]: Footnote: [1976 c. 36](https://www.legislation.gov.uk/ukpga/1976/36).
 
@@ -709,14 +709,14 @@ Regulation 19 requires pooled funds to be established and maintained in relation
 
 [^f00020]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).
 
-[^key-7a4f9e7f8565a170fc38c7e762349873]: Textual amendment: Sch. 1 Table 1 item 10 inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2024/1238/regulation/8)
+[^c-7a4f9e7f8565a170fc38c7e762349873]: Textual amendment: Sch. 1 Table 1 item 10 inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2024/1238/regulation/8)
 
 [^f00021]: Footnote: [2006 c. 43](https://www.legislation.gov.uk/ukpga/2006/43).
 
-[^key-cb36a4465527e3b06e62a1a9069e9408]: Textual amendment: Words in Sch. 1 Table 2 inserted (1.4.2017) by [The Partnership Arrangements (Wales) (Amendment) Regulations 2017 (S.I. 2017/491)](https://www.legislation.gov.uk/wsi/2017/491), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/491/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2017/491/regulation/2/3)
+[^c-cb36a4465527e3b06e62a1a9069e9408]: Textual amendment: Words in Sch. 1 Table 2 inserted (1.4.2017) by [The Partnership Arrangements (Wales) (Amendment) Regulations 2017 (S.I. 2017/491)](https://www.legislation.gov.uk/wsi/2017/491), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/491/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2017/491/regulation/2/3)
 
-[^key-b22d298d6982b71329a99f036571a668]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1989/schedule/2) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
+[^c-b22d298d6982b71329a99f036571a668]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1989/schedule/2) in force at 6.4.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1989/regulation/1/2/a)
 
-[^key-27b93023316b217225164c802836527a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1989/schedule/2) Table 1 inserted (1.4.2017) by [The Partnership Arrangements (Wales) (Amendment) Regulations 2017 (S.I. 2017/491)](https://www.legislation.gov.uk/wsi/2017/491), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/491/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2017/491/regulation/4/a)
+[^c-27b93023316b217225164c802836527a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1989/schedule/2) Table 1 inserted (1.4.2017) by [The Partnership Arrangements (Wales) (Amendment) Regulations 2017 (S.I. 2017/491)](https://www.legislation.gov.uk/wsi/2017/491), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/491/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2017/491/regulation/4/a)
 
-[^key-41256c393aa767020865c064de30570a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1989/schedule/2) Table 1 inserted (1.4.2017) by [The Partnership Arrangements (Wales) (Amendment) Regulations 2017 (S.I. 2017/491)](https://www.legislation.gov.uk/wsi/2017/491), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/491/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2017/491/regulation/4/b)
+[^c-41256c393aa767020865c064de30570a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1989/schedule/2) Table 1 inserted (1.4.2017) by [The Partnership Arrangements (Wales) (Amendment) Regulations 2017 (S.I. 2017/491)](https://www.legislation.gov.uk/wsi/2017/491), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/491/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2017/491/regulation/4/b)

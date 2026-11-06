@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. For the protection of the Environment Agency[^key-657cd6b5fdb228e56ec32c4e5d7a6ebe]
+## 63. For the protection of the Environment Agency[^c-657cd6b5fdb228e56ec32c4e5d7a6ebe]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 10 shall have effect.
 
 ## Annotations
 
-[^key-657cd6b5fdb228e56ec32c4e5d7a6ebe]: Commencement: Art. 63 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-657cd6b5fdb228e56ec32c4e5d7a6ebe]: Commencement: Art. 63 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

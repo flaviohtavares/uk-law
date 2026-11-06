@@ -45,21 +45,21 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 These Regulations may be cited as the Statutory Paternity Pay and Statutory Adoption Pay (Weekly Rates) Regulations and shall come into force on 8th December 2002.
 
-## 2. Weekly rate of payment of statutory paternity pay[^key-22687cc1aa64fc7b571cb98e3e2367b3]
+## 2. Weekly rate of payment of statutory paternity pay[^c-22687cc1aa64fc7b571cb98e3e2367b3]
 
 The weekly rate of payment of statutory paternity pay shall be the smaller of the following two amounts—
 
-- (a) £194.32[^key-ebb7ae0f640d50397a085110c192d67d];
+- (a) £194.32[^c-ebb7ae0f640d50397a085110c192d67d];
 - (b) 90 per cent. of the normal weekly earnings of the person claiming statutory paternity pay, determined in accordance with regulations 39 and 40 of the Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations 2002 [^c963159].
 
 ## 3. Weekly rate of payment of statutory adoption pay
 
 The weekly rate of payment of statutory adoption pay shall be the smaller of the following two amounts—
 
-- (a) £194.32[^key-e32feac74c8ad96fb80420b0ad18f7a7];
+- (a) £194.32[^c-e32feac74c8ad96fb80420b0ad18f7a7];
 - (b) 90 per cent. of the normal weekly earnings of the person claiming statutory adoption pay, determined in accordance with regulations 39 and 40 of the Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations 2002.
 
-## 4. Rounding of fractional amounts[^key-68bab0b01034ed726e53df701c047929]
+## 4. Rounding of fractional amounts[^c-68bab0b01034ed726e53df701c047929]
 
 Where any payment of—
 
@@ -102,12 +102,12 @@ A Regulatory Impact Assessment of the costs and benefits of these regulations to
 
 [^c963158]: Marginal citation: *See* section 173(5)(b) of the Social Security Administration Act 1992.
 
-[^key-22687cc1aa64fc7b571cb98e3e2367b3]: Textual amendment: Reg. 2 substituted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Statutory Paternity Pay and Statutory Adoption Pay (Weekly Rates) (Amendment) Regulations 2004 (S.I. 2004/925)](https://www.legislation.gov.uk/uksi/2004/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/925/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2004/925/regulation/2)
+[^c-22687cc1aa64fc7b571cb98e3e2367b3]: Textual amendment: Reg. 2 substituted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Statutory Paternity Pay and Statutory Adoption Pay (Weekly Rates) (Amendment) Regulations 2004 (S.I. 2004/925)](https://www.legislation.gov.uk/uksi/2004/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/925/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2004/925/regulation/2)
 
-[^key-ebb7ae0f640d50397a085110c192d67d]: Textual amendment: Sum in [reg. 2(a)](https://www.legislation.gov.uk/uksi/2002/2818/regulation/2/a) substituted (6.4.2026) by [The Social Security Benefits Up Rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [10(1)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/10/1/a)
+[^c-ebb7ae0f640d50397a085110c192d67d]: Textual amendment: Sum in [reg. 2(a)](https://www.legislation.gov.uk/uksi/2002/2818/regulation/2/a) substituted (6.4.2026) by [The Social Security Benefits Up Rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [10(1)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/10/1/a)
 
 [^c963159]: Marginal citation: [S.I. 2002/2822](https://www.legislation.gov.uk/uksi/2002/2822).
 
-[^key-e32feac74c8ad96fb80420b0ad18f7a7]: Textual amendment: Sum in [Reg. 3(a)](https://www.legislation.gov.uk/uksi/2002/2818/regulation/3/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [10(1)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/10/1/b)
+[^c-e32feac74c8ad96fb80420b0ad18f7a7]: Textual amendment: Sum in [Reg. 3(a)](https://www.legislation.gov.uk/uksi/2002/2818/regulation/3/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [10(1)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/10/1/b)
 
-[^key-68bab0b01034ed726e53df701c047929]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/2818/regulation/4) substituted (with effect in accordance with reg. 2 of the amending S.I.) by [The Statutory Paternity Pay and Statutory Adoption Pay (General) and the Statutory Paternity Pay and Statutory Adoption Pay (Weekly Rates) (Amendment) Regulations 2006 (S.I. 2006/2236)](https://www.legislation.gov.uk/uksi/2006/2236), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2236/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/2236/regulation/7)
+[^c-68bab0b01034ed726e53df701c047929]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/2818/regulation/4) substituted (with effect in accordance with reg. 2 of the amending S.I.) by [The Statutory Paternity Pay and Statutory Adoption Pay (General) and the Statutory Paternity Pay and Statutory Adoption Pay (Weekly Rates) (Amendment) Regulations 2006 (S.I. 2006/2236)](https://www.legislation.gov.uk/uksi/2006/2236), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2236/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/2236/regulation/7)

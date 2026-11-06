@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (Recovery of Costs) Regulations 2001 (revoked)[^key-d8c19a9b5660b2240f48c29923b0fc74]
+The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (Recovery of Costs) Regulations 2001 (revoked)[^c-d8c19a9b5660b2240f48c29923b0fc74]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force at 3.00 p.m. on
 
 30th October 2001
 
-[^key-d8c19a9b5660b2240f48c29923b0fc74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8c19a9b5660b2240f48c29923b0fc74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, extent, commencement and cessation[^key-d8c19a9b5660b2240f48c29923b0fc74]
+## 1. Citation, extent, commencement and cessation[^c-d8c19a9b5660b2240f48c29923b0fc74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Recovery of Costs[^key-d8c19a9b5660b2240f48c29923b0fc74]
+## 2. Recovery of Costs[^c-d8c19a9b5660b2240f48c29923b0fc74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8c19a9b5660b2240f48c29923b0fc74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8c19a9b5660b2240f48c29923b0fc74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d8c19a9b5660b2240f48c29923b0fc74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8c19a9b5660b2240f48c29923b0fc74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8c19a9b5660b2240f48c29923b0fc74]: Textual amendment: Regulations revoked (20.11.2001 at 1.30 p.m.) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2001 (S.S.I. 2001/429)](https://www.legislation.gov.uk/ssi/2001/429), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2001/429/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2001/429/schedule/3)
+[^c-d8c19a9b5660b2240f48c29923b0fc74]: Textual amendment: Regulations revoked (20.11.2001 at 1.30 p.m.) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2001 (S.S.I. 2001/429)](https://www.legislation.gov.uk/ssi/2001/429), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2001/429/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2001/429/schedule/3)

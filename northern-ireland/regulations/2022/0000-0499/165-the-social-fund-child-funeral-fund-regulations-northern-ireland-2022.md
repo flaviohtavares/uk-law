@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Fund (Child Funeral Fund) Regulations (Northern Ireland) 2022 (revoked)[^key-2aa979843de955bbd59bbd7800f905eb]
+The Social Fund (Child Funeral Fund) Regulations (Northern Ireland) 2022 (revoked)[^c-2aa979843de955bbd59bbd7800f905eb]
 
 Made
 
@@ -42,40 +42,40 @@ Coming into operation
 
 1st June 2022
 
-[^key-2aa979843de955bbd59bbd7800f905eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2aa979843de955bbd59bbd7800f905eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2aa979843de955bbd59bbd7800f905eb]
+## 1. Citation and commencement[^c-2aa979843de955bbd59bbd7800f905eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2aa979843de955bbd59bbd7800f905eb]
+## 2. Interpretation[^c-2aa979843de955bbd59bbd7800f905eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Entitlement[^key-2aa979843de955bbd59bbd7800f905eb]
+## 3. Entitlement[^c-2aa979843de955bbd59bbd7800f905eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provisions against double payment[^key-2aa979843de955bbd59bbd7800f905eb]
+## 4. Provisions against double payment[^c-2aa979843de955bbd59bbd7800f905eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security Maternity and Funeral Expenses (General Regulations[^key-2aa979843de955bbd59bbd7800f905eb]
+## 5. Amendment of the Social Security Maternity and Funeral Expenses (General Regulations[^c-2aa979843de955bbd59bbd7800f905eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Social Security (Claims and Payments) Regulations[^key-2aa979843de955bbd59bbd7800f905eb]
+## 6. Amendment of the Social Security (Claims and Payments) Regulations[^c-2aa979843de955bbd59bbd7800f905eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2aa979843de955bbd59bbd7800f905eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2aa979843de955bbd59bbd7800f905eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2aa979843de955bbd59bbd7800f905eb]
+[^c-2aa979843de955bbd59bbd7800f905eb]
 
 ## Annotations
 
-[^key-2aa979843de955bbd59bbd7800f905eb]: Textual amendment: Regulations revoked (1.6.2022) by [The Social Fund (Child Funeral Fund) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/179)](https://www.legislation.gov.uk/nisr/2022/179), [regs. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1), [7](https://www.legislation.gov.uk/nisr/2022/179/regulation/7)
+[^c-2aa979843de955bbd59bbd7800f905eb]: Textual amendment: Regulations revoked (1.6.2022) by [The Social Fund (Child Funeral Fund) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/179)](https://www.legislation.gov.uk/nisr/2022/179), [regs. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1), [7](https://www.legislation.gov.uk/nisr/2022/179/regulation/7)

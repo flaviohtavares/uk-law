@@ -45,17 +45,17 @@ And whereas no objections to the application have been made pursuant to paragrap
 
 Now, therefore, the Secretary of State for Transport, Local Government and the Regions (being the appropriate Minister under subsection (7) of the said section 14[^f00002]), in exercise of the powers conferred by that section and now vested in him[^f00003], and of all other powers enabling him in that behalf, hereby makes the following Order—
 
-## 1. Citation and commencement[^key-3bdaf4b31eb474690a98e3664274ff71]
+## 1. Citation and commencement[^c-3bdaf4b31eb474690a98e3664274ff71]
 
 (1) This Order may be cited as the Fowey Harbour Revision Order 2001 and shall come into force on 18th June 2001.
 
 (2) The Fowey Harbour Orders 1937 to 1980 and this Order may be cited together as the Fowey Harbour Orders 1937 to 2001.
 
-## 2. Incorporation of provisions of the Commissioners Clauses Act 1847[^key-93e664aab96c47635e1b2f8b2b5023ee]
+## 2. Incorporation of provisions of the Commissioners Clauses Act 1847[^c-93e664aab96c47635e1b2f8b2b5023ee]
 
 Sections 15, 48, 53, 56, 58 to 60, 62 to 65, 67, 69 to 83, 85 to 88 and 96 to 111 of the Commissioners Clauses Act 1847[^f00004] (so far as applicable and not inconsistent with the Fowey Harbour Orders 1937 to 2001) shall be incorporated with this Order.
 
-## 3. Interpretation[^key-4177761b202c4aa3de9536609443da2f]
+## 3. Interpretation[^c-4177761b202c4aa3de9536609443da2f]
 
 In this Order—
 
@@ -63,7 +63,7 @@ In this Order—
 - “the Commissioners” means the Fowey Harbour Commissioners;
 - “the new constitution date” means 1st September 2001.
 
-## 4. Constitution of Commissioners[^key-43d312701467406a1ce047c272d534e8]
+## 4. Constitution of Commissioners[^c-43d312701467406a1ce047c272d534e8]
 
 (1) On and after the new constitution date, the Commissioners shall consist of—
 
@@ -89,7 +89,7 @@ and each appointing body shall secure, so far as reasonably practicable, that th
 
 (3) In making an appointment under paragraph (1)(a) or (b) above or article 8 below, each appointing body shall act in accordance with any guidance issued by the Secretary of State from time to time with respect to the exercise of such functions.
 
-## 5. Appointment and terms of office of first Commissioners[^key-434f7eacaccdff816f4f16186276f32b]
+## 5. Appointment and terms of office of first Commissioners[^c-434f7eacaccdff816f4f16186276f32b]
 
 (1) The first appointments under article 4(1)(a) or (b) above shall be made on, or as soon as reasonably practicable after, 18th June 2001.
 
@@ -110,21 +110,21 @@ as the Commissioners shall specify when they make each of those appointments.
 
 as the Council shall specify when they make each of those appointments.
 
-## 6. Terms of office of subsequent Commissioners[^key-49dc8e0bc85c5ea032916a99150a9a18]
+## 6. Terms of office of subsequent Commissioners[^c-49dc8e0bc85c5ea032916a99150a9a18]
 
 A Commissioner appointed under article 4(1)(a) or (b) above (other than a Commissioner appointed under article 5 above) shall, unless appointed to fill a casual vacancy and subject to articles 7 and 9 of, and paragraph 10 of Schedule 2 to, this Order, hold office for the period of three years from 1st May next following his appointment.
 
-## 7. Declaration to be made by Commissioners[^key-9f37341fd0ae3da5f99ee0bb96f38b6a]
+## 7. Declaration to be made by Commissioners[^c-9f37341fd0ae3da5f99ee0bb96f38b6a]
 
 No person shall act as a Commissioner until he has made the declaration set out in Schedule 1 to this Order (or a declaration to that effect); and a person shall cease to be a Commissioner if he fails to make that declaration within three months of the date of his appointment.
 
-## 8. Casual vacancies[^key-9637b0853eb6cb1b0e35fc45d06ec35b]
+## 8. Casual vacancies[^c-9637b0853eb6cb1b0e35fc45d06ec35b]
 
 (1) A casual vacancy arising in the office of a Commissioner appointed by the Commissioners or the Restormel Borough Council shall, unless it is not reasonably practicable to do so, be filled by the appointment of a Commissioner by the Commissioners or the Council (as the case may be) in accordance with article 4(2) and (3) above and, in the case of an appointment by the Council, after consulting in accordance with article 4(1)(b) above.
 
 (2) A Commissioner appointed to fill a casual vacancy under this article shall, subject to articles 7 and 9 of, and paragraph 10 of Schedule 2 to, this Order, hold office during the remainder of the term for which the Commissioner whom he replaces was appointed.
 
-## 9. Disqualification of Commissioners[^key-a8f47a8a70e4885c3bd23991c45ddb68]
+## 9. Disqualification of Commissioners[^c-a8f47a8a70e4885c3bd23991c45ddb68]
 
 If the Commissioners are satisfied that a Commissioner—
 
@@ -139,22 +139,22 @@ If the Commissioners are satisfied that a Commissioner—
 
 the Commissioners may declare his office as a Commissioner to be vacant and thereupon his office shall become vacant.
 
-## 10. Indemnity insurance for Commissioners[^key-374c3c902e8ca749622d3dce361a5c49]
+## 10. Indemnity insurance for Commissioners[^c-374c3c902e8ca749622d3dce361a5c49]
 
 The Commissioners may enter into, and pay premiums for, a contract of insurance to indemnify the Commissioners jointly or severally against personal liability arising from any act or omission of the Commissioners or of any of them; not being an act or omission which the Commissioner or Commissioners in question knew to be a breach of his or their duty or, concerning which, he or they were reckless as to whether it was such a breach.
 
-## 11. Incidental provisions relating to Commissioners[^key-47643fc71a2c0a7e99b5be8f920f66f2]
+## 11. Incidental provisions relating to Commissioners[^c-47643fc71a2c0a7e99b5be8f920f66f2]
 
 On and after the new constitution date the provisions of Schedule 2 to this Order shall have effect with respect to the Commissioners.
 
-## 12. Publication of Commissioners' annual statement of accounts[^key-098ffff01e5d9e53d11f0033f7f5dc9e]
+## 12. Publication of Commissioners' annual statement of accounts[^c-098ffff01e5d9e53d11f0033f7f5dc9e]
 
 As soon as reasonably practicable after their annual statement of accounts is prepared, the Commissioners shall—
 
 - (a) make available a copy of the statement for a period of three months at the offices of the Commissioners for inspection free of charge by members of the public and shall, subject to the payment of a reasonable charge, supply a copy of the statement to any person who requests to be supplied with a copy; and
 - (b) send a copy of the statement to the Restormel Borough Council.
 
-## 13. Borrowing powers[^key-35d96440cac5aa628a348193b0edfba6]
+## 13. Borrowing powers[^c-35d96440cac5aa628a348193b0edfba6]
 
 (1) Subject to paragraph (2) below, the Commissioners may from time to time borrow upon the security of their assets for the time being or of their revenues or both their assets and their revenues, by any methods they see fit—
 
@@ -170,11 +170,11 @@ As soon as reasonably practicable after their annual statement of accounts is pr
 - (a) the payment of any interest, falling due within five years immediately following the date of borrowing, on any sum of money borrowed by the Commissioners under this article; and
 - (b) the repayment, within twelve months from the date of borrowing, of any sum for the time being outstanding by way of principal on any amount previously borrowed.
 
-## 14. Temporary borrowing powers[^key-48bde2c25e75e33b0cf69a3d34e93324]
+## 14. Temporary borrowing powers[^c-48bde2c25e75e33b0cf69a3d34e93324]
 
 The Commissioners may borrow temporarily, by way of overdraft or otherwise, such sums of money as the Commissioners may require but the total amount outstanding at any one time of money so borrowed shall not exceed two hundred and fifty thousand pounds (or that sum as adjusted in accordance with article 15 below).
 
-## 15. RPI adjustment of borrowing limits[^key-b35b011be0ad3394c403d7adb31d4273]
+## 15. RPI adjustment of borrowing limits[^c-b35b011be0ad3394c403d7adb31d4273]
 
 (1) On each anniversary of the new constitution date the sums mentioned in articles 13(1)(a) and 14 above shall be adjusted in line with any movement (calculated to one decimal place) in RPI which occurred during the year ended on 31st December immediately preceding the anniversary in question.
 
@@ -182,7 +182,7 @@ The Commissioners may borrow temporarily, by way of overdraft or otherwise, such
 
 (3) In paragraph (1) above, “RPI” means the general index of retail prices for all items published in the monthly publication of the Office for National Statistics known as “Monthly Digest of Statistics”, or any successor from time to time of that index.
 
-## 16. Consultative bodies[^key-c44b087a2f097390b419e661a3998f7c]
+## 16. Consultative bodies[^c-c44b087a2f097390b419e661a3998f7c]
 
 (1) The Commissioners shall establish one or more consultative body or bodies which the Commissioners shall consult on all matters substantially affecting the management, maintenance, improvement, conservation, protection or regulation of the harbour and its navigation.
 
@@ -204,7 +204,7 @@ The Commissioners may borrow temporarily, by way of overdraft or otherwise, such
 
 (10) In this article “the harbour” has the meaning given in section 3 of the Fowey Harbour Order 1937[^f00005].
 
-## 17. Repeals[^key-b2b7250476699fc8ba14f17b6a8f83d6]
+## 17. Repeals[^c-b2b7250476699fc8ba14f17b6a8f83d6]
 
 On the new constitution date the enactments mentioned in the first and second columns of Schedule 3 to this Order (which include spent enactments) shall be repealed to the extent specified in the third column of that Schedule.
 
@@ -220,7 +220,7 @@ Department for Transport, Local Government and the Regions
 
 **SCHEDULES**
 
-## SCHEDULE 1 — FORM OF DECLARATION BY COMMISSIONERS[^key-51b7a8c57028d2eccd7c0e25c6dece6e]
+## SCHEDULE 1 — FORM OF DECLARATION BY COMMISSIONERS[^c-51b7a8c57028d2eccd7c0e25c6dece6e]
 
 Article 7
 
@@ -232,37 +232,37 @@ Article 11
 
 ### Appointment of chairman and vice-chairman of Commissioners
 
-**1.**[^key-4b50f99a3c6840aada35887623703af6] There shall be a chairman of the Commissioners who shall be appointed by those of the Commissioners who are appointed under article 4(1)(a) or (b) or 8 above from among their number.
+**1.**[^c-4b50f99a3c6840aada35887623703af6] There shall be a chairman of the Commissioners who shall be appointed by those of the Commissioners who are appointed under article 4(1)(a) or (b) or 8 above from among their number.
 
-**2.**[^key-aa8394ff25f0ffbe24434504d72ec3e6] The first chairman appointed under article 5(2) above shall, subject to paragraph 7 below, and unless he resigns his office as chairman or ceases to be a member, continue in office as chairman until his initial term of office as a member has expired.
+**2.**[^c-aa8394ff25f0ffbe24434504d72ec3e6] The first chairman appointed under article 5(2) above shall, subject to paragraph 7 below, and unless he resigns his office as chairman or ceases to be a member, continue in office as chairman until his initial term of office as a member has expired.
 
-**3.**[^key-6fbb4ad4f14c969b36cac64e70af5234] Subject to paragraph 7 below, every chairman subsequently appointed under paragraph 1 above shall, unless he resigns his office as chairman or ceases to be a Commissioner, hold office for a period of three years.
+**3.**[^c-6fbb4ad4f14c969b36cac64e70af5234] Subject to paragraph 7 below, every chairman subsequently appointed under paragraph 1 above shall, unless he resigns his office as chairman or ceases to be a Commissioner, hold office for a period of three years.
 
-**4.**[^key-fc3d406120db56bffdbeb80c17294c91] There shall be a vice-chairman of the Commissioners who shall be appointed by those of the Commissioners who are appointed under article 4(1)(a) or (b) or 8 above from among their number.
+**4.**[^c-fc3d406120db56bffdbeb80c17294c91] There shall be a vice-chairman of the Commissioners who shall be appointed by those of the Commissioners who are appointed under article 4(1)(a) or (b) or 8 above from among their number.
 
-**5.**[^key-44a2f176f190c64985d50ecbc6006f11] The first vice-chairman appointed under article 5(2) above shall, subject to paragraph 7 below, and unless he resigns his office as vice-chairman or ceases to be a Commissioner, continue in office as vice-chairman until his initial term of office as a Commissioner has expired.
+**5.**[^c-44a2f176f190c64985d50ecbc6006f11] The first vice-chairman appointed under article 5(2) above shall, subject to paragraph 7 below, and unless he resigns his office as vice-chairman or ceases to be a Commissioner, continue in office as vice-chairman until his initial term of office as a Commissioner has expired.
 
-**6.**[^key-6e64c5db4b5c91d1862b728441b4bca2] Subject to paragraph 7 below, every vice-chairman subsequently appointed under paragraph 4 above shall, unless he resigns his office as vice-chairman or ceases to be a Commissioner, hold office for a period of three years.
+**6.**[^c-6e64c5db4b5c91d1862b728441b4bca2] Subject to paragraph 7 below, every vice-chairman subsequently appointed under paragraph 4 above shall, unless he resigns his office as vice-chairman or ceases to be a Commissioner, hold office for a period of three years.
 
-**7.**[^key-dd0409bacbf28bfbca227630595d4806] If those of the Commissioners who are appointed under article 4(1)(a) or (b) or 8 above are satisfied that the chairman or vice-chairman should cease to hold his office as such, they may terminate his office as such and appoint another Commissioner to be the chairman or vice-chairman during the remainder of the term for which the former chairman or vice-chairman was appointed.
+**7.**[^c-dd0409bacbf28bfbca227630595d4806] If those of the Commissioners who are appointed under article 4(1)(a) or (b) or 8 above are satisfied that the chairman or vice-chairman should cease to hold his office as such, they may terminate his office as such and appoint another Commissioner to be the chairman or vice-chairman during the remainder of the term for which the former chairman or vice-chairman was appointed.
 
-**8.**[^key-1b14164bf57cb1f8f9f857d3e3054e5f] (1) On a casual vacancy occurring in the office of chairman or vice-chairman of the Commissioners, the vacancy shall be filled by those of the Commissioners who are appointed under article 4(1)(a) or (b) or 8 above at a meeting held as soon as practicable after the vacancy occurs.
+**8.**[^c-1b14164bf57cb1f8f9f857d3e3054e5f] (1) On a casual vacancy occurring in the office of chairman or vice-chairman of the Commissioners, the vacancy shall be filled by those of the Commissioners who are appointed under article 4(1)(a) or (b) or 8 above at a meeting held as soon as practicable after the vacancy occurs.
 
 (2) A Commissioner appointed under this paragraph to fill a casual vacancy in the office of chairman or vice-chairman shall, unless he resigns that office or ceases to be a Commissioner, hold that office during the remainder of the term for which the chairman or vice-chairman whom he replaces was appointed.
 
 ### Meetings of Commissioners
 
-**9.**[^key-c9af7a1ac0cd92bb9dd523474b6729a5] (1) The first meeting of the Commissioners after the new constitution date shall be convened as soon as practicable by the Chief Executive for such date as he may fix; and he shall make arrangements for notice of that meeting to be sent by post to each of the other Commissioners.
+**9.**[^c-c9af7a1ac0cd92bb9dd523474b6729a5] (1) The first meeting of the Commissioners after the new constitution date shall be convened as soon as practicable by the Chief Executive for such date as he may fix; and he shall make arrangements for notice of that meeting to be sent by post to each of the other Commissioners.
 
 (2) The Commissioners shall meet at least once in every other month.
 
 ### Vacation of office by Commissioners
 
-**10.**[^key-7c748131f10a222c3b6d9aaa3a5573af] A Commissioner (other than the Chief Executive) may resign his office at any time by notice in writing given to the chairman of the Commissioners or, if that Commissioner is the chairman, the vice-chairman.
+**10.**[^c-7c748131f10a222c3b6d9aaa3a5573af] A Commissioner (other than the Chief Executive) may resign his office at any time by notice in writing given to the chairman of the Commissioners or, if that Commissioner is the chairman, the vice-chairman.
 
 ### Reappointment of Commissioners
 
-**11.**[^key-daa65533295db9667f96495bb1e84565] (1) Subject to the provisions of this Schedule, a vacating Commissioner shall be eligible for reappointment as a Commissioner unless he has been disqualified from office under article 9 above.
+**11.**[^c-daa65533295db9667f96495bb1e84565] (1) Subject to the provisions of this Schedule, a vacating Commissioner shall be eligible for reappointment as a Commissioner unless he has been disqualified from office under article 9 above.
 
 (2) A vacating appointed Commissioner shall not be eligible for reappointment as a Commissioner where, immediately before the date in question, he has held office for three consecutive terms unless he is the chairman of the Commissioners.
 
@@ -278,7 +278,7 @@ Article 11
 
 ### Reappointment of chairman
 
-**12.**[^key-9a93ec900196b2c4a9c88c6656a579fb] (1) A chairman of the Commissioners shall not be eligible for reappointment as the chairman where, immediately before the date in question, he has served as chairman for three consecutive terms.
+**12.**[^c-9a93ec900196b2c4a9c88c6656a579fb] (1) A chairman of the Commissioners shall not be eligible for reappointment as the chairman where, immediately before the date in question, he has served as chairman for three consecutive terms.
 
 (2) For the purposes of this paragraph, “term” does not include—
 
@@ -288,15 +288,15 @@ Article 11
 
 ### Committees
 
-**13.**[^key-d55dec4378b9d17383f7d8df36299a49] The Commissioners may, consistently with their duties and subject to such conditions as they think fit, delegate any of their functions (other than the functions set out in subparagraphs (a) to (f) of paragraph 9B of Schedule 2 to the Harbours Act 1964[^f00006]) to a committee of the Commissioners.
+**13.**[^c-d55dec4378b9d17383f7d8df36299a49] The Commissioners may, consistently with their duties and subject to such conditions as they think fit, delegate any of their functions (other than the functions set out in subparagraphs (a) to (f) of paragraph 9B of Schedule 2 to the Harbours Act 1964[^f00006]) to a committee of the Commissioners.
 
 ### Proceedings of Commissioners and committees
 
-**14.**[^key-50639ea94473ce1dfe4a01d143709f05] The acts and proceedings of the Commissioners, or of any committee of the Commissioners, shall not be invalidated by any vacancy in their number or by any defect in the appointment, or the qualification for appointment, of any person as a Commissioner, or as chairman or vice-chairman, of the Commissioners or committee.
+**14.**[^c-50639ea94473ce1dfe4a01d143709f05] The acts and proceedings of the Commissioners, or of any committee of the Commissioners, shall not be invalidated by any vacancy in their number or by any defect in the appointment, or the qualification for appointment, of any person as a Commissioner, or as chairman or vice-chairman, of the Commissioners or committee.
 
-**15.**[^key-b0efeb75d2fe64888b2023e126698af9] The quorum required for a meeting of the Commissioners shall be five.
+**15.**[^c-b0efeb75d2fe64888b2023e126698af9] The quorum required for a meeting of the Commissioners shall be five.
 
-**16.**[^key-b01e1c7e0695b100242461a6123a7b58] (1) If a Commissioner has any interest, direct or indirect—
+**16.**[^c-b01e1c7e0695b100242461a6123a7b58] (1) If a Commissioner has any interest, direct or indirect—
 
 - (a) in any contract or proposed contract to which the Commissioners are or would be a party or is a director of a company or body with which the contract or proposed contract is made or proposed to be made; or
 - (b) in any other matter with which the Commissioners are concerned,
@@ -318,17 +318,17 @@ he shall declare that interest.
 - (c) which a Commissioner has as an employee of a public utility undertaking or as a shareholder, not being a director of a company, unless he possesses more than five per cent of the issued share capital of that company; or
 - (d) which the Commissioners present at the meeting by resolution declare to be too remote.
 
-**17.**[^key-25604e64daefbdc2e24a6346a218207a] The person for the time being holding office as vice-chairman shall have and may exercise in the absence or incapacity of the chairman all the functions of the chairman.
+**17.**[^c-25604e64daefbdc2e24a6346a218207a] The person for the time being holding office as vice-chairman shall have and may exercise in the absence or incapacity of the chairman all the functions of the chairman.
 
-**18.**[^key-2a341c82dcb2a6e40dd4628bfc21543a] If at any meeting of the Commissioners neither the chairman nor the vice-chairman are present the Commissioners present at the meeting shall choose one of their number to be the chairman of the meeting.
+**18.**[^c-2a341c82dcb2a6e40dd4628bfc21543a] If at any meeting of the Commissioners neither the chairman nor the vice-chairman are present the Commissioners present at the meeting shall choose one of their number to be the chairman of the meeting.
 
-**19.**[^key-d144816d4aeaa18ffddf34ba5e6f985a] (1) Every question at a meeting of the Commissioners or of a committee of the Commissioners shall be decided by a majority vote of the Commissioners present and voting.
+**19.**[^c-d144816d4aeaa18ffddf34ba5e6f985a] (1) Every question at a meeting of the Commissioners or of a committee of the Commissioners shall be decided by a majority vote of the Commissioners present and voting.
 
 (2) If at any meeting of the Commissioners or of a committee of the Commissioners there is an equality of votes on any question the chairman of the meeting shall have a second or casting vote which he may exercise for or against the status quo.
 
 ### Authentication of seal and other documents
 
-**20.**[^key-8edd1f119308b878e320d85e2df646d8] (1) The application of the seal of the Commissioners shall be authenticated by the signature of the chairman of the Commissioners or some other Commissioner authorised by the Commissioners to authenticate the application of the seal, and of the Chief Executive of the Commissioners or some person authorised by the Commissioners to act in his place in that behalf.
+**20.**[^c-8edd1f119308b878e320d85e2df646d8] (1) The application of the seal of the Commissioners shall be authenticated by the signature of the chairman of the Commissioners or some other Commissioner authorised by the Commissioners to authenticate the application of the seal, and of the Chief Executive of the Commissioners or some person authorised by the Commissioners to act in his place in that behalf.
 
 (2) The Commissioners may authorise a person to act instead of the Chief Executive under this paragraph whether or not the Chief Executive is absent or incapable of acting.
 
@@ -336,15 +336,15 @@ he shall declare that interest.
 
 ### Remuneration of Commissioners
 
-**21.**[^key-c7efb4f7cc82ddbf6f76eb41820e5cd7] The Commissioners may pay to the chairman and other Commissioners such salary, allowances and expenses as the Commissioners from time to time determine.
+**21.**[^c-c7efb4f7cc82ddbf6f76eb41820e5cd7] The Commissioners may pay to the chairman and other Commissioners such salary, allowances and expenses as the Commissioners from time to time determine.
 
 ### General
 
-**22.**[^key-dd3f96be002cf91b8269950a0da7b702] Subject to the provisions of this Schedule, the procedure and business of the Commissioners and of any committee of the Commissioners shall be regulated in such manner as the Commissioners may from time to time determine.
+**22.**[^c-dd3f96be002cf91b8269950a0da7b702] Subject to the provisions of this Schedule, the procedure and business of the Commissioners and of any committee of the Commissioners shall be regulated in such manner as the Commissioners may from time to time determine.
 
-**23.**[^key-0953eee16ce42e2fe98119d720781f78] The Commissioners shall appoint a Chief Executive and such other persons as from time to time they think necessary or desirable for and incidental to the performance of their functions and pay to them such remuneration as the Commissioners think fit.
+**23.**[^c-0953eee16ce42e2fe98119d720781f78] The Commissioners shall appoint a Chief Executive and such other persons as from time to time they think necessary or desirable for and incidental to the performance of their functions and pay to them such remuneration as the Commissioners think fit.
 
-## SCHEDULE 3 — REPEALS[^key-e959fc7ee0ea287713be635bfa1e1b76]
+## SCHEDULE 3 — REPEALS[^c-e959fc7ee0ea287713be635bfa1e1b76]
 
 Article 17
 
@@ -367,92 +367,92 @@ The Order also includes other provisions with respect to the Commissioners' cons
 
 [^f00003]: Footnote: S.I. [1981/238](https://www.legislation.gov.uk/uksi/1981/238) and S.I. [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971).
 
-[^key-3bdaf4b31eb474690a98e3664274ff71]: Commencement: Art. 1 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-3bdaf4b31eb474690a98e3664274ff71]: Commencement: Art. 1 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-93e664aab96c47635e1b2f8b2b5023ee]: Commencement: Art. 2 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-93e664aab96c47635e1b2f8b2b5023ee]: Commencement: Art. 2 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
 [^f00004]: Footnote: [1847 c. 16](https://www.legislation.gov.uk/ukpga/1847/16).
 
-[^key-4177761b202c4aa3de9536609443da2f]: Commencement: Art. 3 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-4177761b202c4aa3de9536609443da2f]: Commencement: Art. 3 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-43d312701467406a1ce047c272d534e8]: Commencement: Art. 4 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-43d312701467406a1ce047c272d534e8]: Commencement: Art. 4 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-434f7eacaccdff816f4f16186276f32b]: Commencement: Art. 5 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-434f7eacaccdff816f4f16186276f32b]: Commencement: Art. 5 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-49dc8e0bc85c5ea032916a99150a9a18]: Commencement: Art. 6 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-49dc8e0bc85c5ea032916a99150a9a18]: Commencement: Art. 6 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-9f37341fd0ae3da5f99ee0bb96f38b6a]: Commencement: Art. 7 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-9f37341fd0ae3da5f99ee0bb96f38b6a]: Commencement: Art. 7 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-9637b0853eb6cb1b0e35fc45d06ec35b]: Commencement: Art. 8 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-9637b0853eb6cb1b0e35fc45d06ec35b]: Commencement: Art. 8 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-a8f47a8a70e4885c3bd23991c45ddb68]: Commencement: Art. 9 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-a8f47a8a70e4885c3bd23991c45ddb68]: Commencement: Art. 9 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-374c3c902e8ca749622d3dce361a5c49]: Commencement: Art. 10 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-374c3c902e8ca749622d3dce361a5c49]: Commencement: Art. 10 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-47643fc71a2c0a7e99b5be8f920f66f2]: Commencement: Art. 11 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-47643fc71a2c0a7e99b5be8f920f66f2]: Commencement: Art. 11 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-098ffff01e5d9e53d11f0033f7f5dc9e]: Commencement: Art. 12 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-098ffff01e5d9e53d11f0033f7f5dc9e]: Commencement: Art. 12 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-35d96440cac5aa628a348193b0edfba6]: Commencement: Art. 13 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-35d96440cac5aa628a348193b0edfba6]: Commencement: Art. 13 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-48bde2c25e75e33b0cf69a3d34e93324]: Commencement: Art. 14 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-48bde2c25e75e33b0cf69a3d34e93324]: Commencement: Art. 14 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-b35b011be0ad3394c403d7adb31d4273]: Commencement: Art. 15 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-b35b011be0ad3394c403d7adb31d4273]: Commencement: Art. 15 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-c44b087a2f097390b419e661a3998f7c]: Commencement: Art. 16 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-c44b087a2f097390b419e661a3998f7c]: Commencement: Art. 16 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
 [^f00005]: Footnote: See [1937 c. lxxii](https://www.legislation.gov.uk/ukla/1937/72).
 
-[^key-b2b7250476699fc8ba14f17b6a8f83d6]: Commencement: Art. 17 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-b2b7250476699fc8ba14f17b6a8f83d6]: Commencement: Art. 17 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-51b7a8c57028d2eccd7c0e25c6dece6e]: Commencement: Sch. 1 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-51b7a8c57028d2eccd7c0e25c6dece6e]: Commencement: Sch. 1 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-4b50f99a3c6840aada35887623703af6]: Commencement: Sch. 2 para. 1 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-4b50f99a3c6840aada35887623703af6]: Commencement: Sch. 2 para. 1 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-aa8394ff25f0ffbe24434504d72ec3e6]: Commencement: Sch. 2 para. 2 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-aa8394ff25f0ffbe24434504d72ec3e6]: Commencement: Sch. 2 para. 2 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-6fbb4ad4f14c969b36cac64e70af5234]: Commencement: Sch. 2 para. 3 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-6fbb4ad4f14c969b36cac64e70af5234]: Commencement: Sch. 2 para. 3 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-fc3d406120db56bffdbeb80c17294c91]: Commencement: Sch. 2 para. 4 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-fc3d406120db56bffdbeb80c17294c91]: Commencement: Sch. 2 para. 4 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-44a2f176f190c64985d50ecbc6006f11]: Commencement: Sch. 2 para. 5 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-44a2f176f190c64985d50ecbc6006f11]: Commencement: Sch. 2 para. 5 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-6e64c5db4b5c91d1862b728441b4bca2]: Commencement: Sch. 2 para. 6 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-6e64c5db4b5c91d1862b728441b4bca2]: Commencement: Sch. 2 para. 6 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-dd0409bacbf28bfbca227630595d4806]: Commencement: Sch. 2 para. 7 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-dd0409bacbf28bfbca227630595d4806]: Commencement: Sch. 2 para. 7 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-1b14164bf57cb1f8f9f857d3e3054e5f]: Commencement: Sch. 2 para. 8 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-1b14164bf57cb1f8f9f857d3e3054e5f]: Commencement: Sch. 2 para. 8 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-c9af7a1ac0cd92bb9dd523474b6729a5]: Commencement: Sch. 2 para. 9 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-c9af7a1ac0cd92bb9dd523474b6729a5]: Commencement: Sch. 2 para. 9 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-7c748131f10a222c3b6d9aaa3a5573af]: Commencement: Sch. 2 para. 10 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-7c748131f10a222c3b6d9aaa3a5573af]: Commencement: Sch. 2 para. 10 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-daa65533295db9667f96495bb1e84565]: Commencement: Sch. 2 para. 11 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-daa65533295db9667f96495bb1e84565]: Commencement: Sch. 2 para. 11 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-9a93ec900196b2c4a9c88c6656a579fb]: Commencement: Sch. 2 para. 12 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-9a93ec900196b2c4a9c88c6656a579fb]: Commencement: Sch. 2 para. 12 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-d55dec4378b9d17383f7d8df36299a49]: Commencement: Sch. 2 para. 13 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-d55dec4378b9d17383f7d8df36299a49]: Commencement: Sch. 2 para. 13 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
 [^f00006]: Footnote: Paragraph 9B was inserted by the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), section 62(1) and Schedule 3, paragraph 9.
 
-[^key-50639ea94473ce1dfe4a01d143709f05]: Commencement: Sch. 2 para. 14 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-50639ea94473ce1dfe4a01d143709f05]: Commencement: Sch. 2 para. 14 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-b0efeb75d2fe64888b2023e126698af9]: Commencement: Sch. 2 para. 15 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-b0efeb75d2fe64888b2023e126698af9]: Commencement: Sch. 2 para. 15 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-b01e1c7e0695b100242461a6123a7b58]: Commencement: Sch. 2 para. 16 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-b01e1c7e0695b100242461a6123a7b58]: Commencement: Sch. 2 para. 16 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-25604e64daefbdc2e24a6346a218207a]: Commencement: Sch. 2 para. 17 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-25604e64daefbdc2e24a6346a218207a]: Commencement: Sch. 2 para. 17 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-2a341c82dcb2a6e40dd4628bfc21543a]: Commencement: Sch. 2 para. 18 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-2a341c82dcb2a6e40dd4628bfc21543a]: Commencement: Sch. 2 para. 18 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-d144816d4aeaa18ffddf34ba5e6f985a]: Commencement: Sch. 2 para. 19 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-d144816d4aeaa18ffddf34ba5e6f985a]: Commencement: Sch. 2 para. 19 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-8edd1f119308b878e320d85e2df646d8]: Commencement: Sch. 2 para. 20 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-8edd1f119308b878e320d85e2df646d8]: Commencement: Sch. 2 para. 20 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-c7efb4f7cc82ddbf6f76eb41820e5cd7]: Commencement: Sch. 2 para. 21 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-c7efb4f7cc82ddbf6f76eb41820e5cd7]: Commencement: Sch. 2 para. 21 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-dd3f96be002cf91b8269950a0da7b702]: Commencement: Sch. 2 para. 22 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-dd3f96be002cf91b8269950a0da7b702]: Commencement: Sch. 2 para. 22 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-0953eee16ce42e2fe98119d720781f78]: Commencement: Sch. 2 para. 23 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-0953eee16ce42e2fe98119d720781f78]: Commencement: Sch. 2 para. 23 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
 
-[^key-e959fc7ee0ea287713be635bfa1e1b76]: Commencement: Sch. 3 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)
+[^c-e959fc7ee0ea287713be635bfa1e1b76]: Commencement: Sch. 3 in force at 18.6.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2184/article/1/1)

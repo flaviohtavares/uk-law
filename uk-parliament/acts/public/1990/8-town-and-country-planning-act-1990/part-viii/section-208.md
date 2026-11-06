@@ -44,15 +44,15 @@ summary: ''
 - (a) the Secretary of State, in relation to England;
 - (b) the Welsh Ministers, in relation to Wales.
 
-(4B)[^key-78310116db2696d96b3d7dffeeb34872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4B)[^c-78310116db2696d96b3d7dffeeb34872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4C)[^key-78310116db2696d96b3d7dffeeb34872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4C)[^c-78310116db2696d96b3d7dffeeb34872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) On an appeal under subsection (1)[^c19910671] the Secretary of State shall, if either the appellant or the local planning authority so desire, give each of them an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
 
-(5B)[^key-b9639eeb48f668e3e2f030ff48ad6435] Subsection (5) does not apply to an appeal to the Welsh Ministers.
+(5B)[^c-b9639eeb48f668e3e2f030ff48ad6435] Subsection (5) does not apply to an appeal to the Welsh Ministers.
 
-(6) Where an appeal is brought under subsection (1)[^key-07700ee6f76ee2fcfadb8d7e9c2e1069], the notice under section 207(1) shall be of no effect pending the final determination or the withdrawal of the appeal.
+(6) Where an appeal is brought under subsection (1)[^c-07700ee6f76ee2fcfadb8d7e9c2e1069], the notice under section 207(1) shall be of no effect pending the final determination or the withdrawal of the appeal.
 
 (7)[^c14024441] On such an appeal the Secretary of State may—
 
@@ -69,7 +69,7 @@ if he is satisfied that the correction or variation will not cause injustice to 
 
 (10) Where any person has appealed to the Secretary of State under this section against a notice, neither that person nor any other shall be entitled, in any other proceedings instituted after the making of the appeal, to claim that the notice was not duly served on the person who appealed.
 
-(11)[^key-74abaf0e60d76135424e90d8e65c0584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-74abaf0e60d76135424e90d8e65c0584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -83,14 +83,14 @@ if he is satisfied that the correction or variation will not cause injustice to 
 
 [^c19910501]: Textual amendment: S. 208(4)-(4C) substituted for s. 208(4) (6.4.2009 for E., 30.4.2012 for W.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/4), [Sch. 11 para. 4(2)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/4/2) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d); [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
 
-[^key-78310116db2696d96b3d7dffeeb34872]: Textual amendment: S. 208(4B)(4C) omitted (6.9.2015) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/4/4)
+[^c-78310116db2696d96b3d7dffeeb34872]: Textual amendment: S. 208(4B)(4C) omitted (6.9.2015) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/4/4)
 
 [^c19910671]: Textual amendment: Words in s. 208(5) substituted (6.4.2009 for E., 30.4.2012 for W.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/4), [Sch. 11 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/11/paragraph/4/3) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/400/article/5/d); [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/802/article/2/b)
 
-[^key-b9639eeb48f668e3e2f030ff48ad6435]: Textual amendment: S. 208(5B) inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/8/2)
+[^c-b9639eeb48f668e3e2f030ff48ad6435]: Textual amendment: S. 208(5B) inserted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/8/2)
 
-[^key-07700ee6f76ee2fcfadb8d7e9c2e1069]: Textual amendment: Words in s. 208(6) substituted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/8/3)
+[^c-07700ee6f76ee2fcfadb8d7e9c2e1069]: Textual amendment: Words in s. 208(6) substituted (11.11.2014) by [The Town and Country Planning (Determination of Procedure) (Wales) Order 2014 (S.I. 2014/2773)](https://www.legislation.gov.uk/wsi/2014/2773), [art. 1(2)](https://www.legislation.gov.uk/wsi/2014/2773/article/1/2), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/wsi/2014/2773/schedule/1/paragraph/8/3)
 
 [^c14024441]: Textual amendment: S. 208(7)(8)(8A) substituted (2.1.1992) for s. 208(7)(8) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 23(4)](https://www.legislation.gov.uk/ukpga/1991/34/section/23/4) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art.3](https://www.legislation.gov.uk/uksi/1991/2905/article/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/1991/2905/article/5))
 
-[^key-74abaf0e60d76135424e90d8e65c0584]: Textual amendment: S. 208(11) omitted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 11](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/11); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(a)](https://www.legislation.gov.uk/wsi/2016/52/article/4/a) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))
+[^c-74abaf0e60d76135424e90d8e65c0584]: Textual amendment: S. 208(11) omitted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 5 para. 11](https://www.legislation.gov.uk/anaw/2015/4/schedule/5/paragraph/11); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 4(a)](https://www.legislation.gov.uk/wsi/2016/52/article/4/a) (with [art. 17](https://www.legislation.gov.uk/wsi/2016/52/article/17))

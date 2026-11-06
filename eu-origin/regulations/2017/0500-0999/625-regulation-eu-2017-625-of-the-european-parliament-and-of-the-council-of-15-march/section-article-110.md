@@ -22,7 +22,7 @@ summary: ''
 
 1. MANCPs shall be prepared so as to ensure that official controls are planned in all the areas governed by the rules referred to in Article 1(2) and in accordance with the criteria laid down in Article 9 and with the rules provided for in Articles 18 to 27.
 
-2. MANCPs shall contain general information on the structure and organisation of the systems of official control in Great Britain[^key-7e84fe436745e550b92c6c42a90543c3] in each of the areas covered, and shall contain information on at least the following:
+2. MANCPs shall contain general information on the structure and organisation of the systems of official control in Great Britain[^c-7e84fe436745e550b92c6c42a90543c3] in each of the areas covered, and shall contain information on at least the following:
 
 - (a) the strategic objectives of the MANCP and on how the prioritisation of official controls and allocation of resources reflect these objectives;
 - (b) the risk categorisation of the official controls;
@@ -34,10 +34,10 @@ summary: ''
 - (h) the training of staff of the competent authorities;
 - (i) the documented procedures provided for in Article 12(1);
 - (j) the general organisation and operation of contingency plans in accordance with the rules referred to in Article 1(2); and
-- (k) the general organisation of cooperation and mutual assistance between competent authorities in Great Britain[^key-75d711ecee46ad6e54231823ca39c7d1].
+- (k) the general organisation of cooperation and mutual assistance between competent authorities in Great Britain[^c-75d711ecee46ad6e54231823ca39c7d1].
 
 ## Annotations
 
-[^key-7e84fe436745e550b92c6c42a90543c3]: Textual amendment: Words in [Art. 110(2)](https://www.legislation.gov.uk/eur/2017/625/article/110/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(3)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/3/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-7e84fe436745e550b92c6c42a90543c3]: Textual amendment: Words in [Art. 110(2)](https://www.legislation.gov.uk/eur/2017/625/article/110/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(3)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/3/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-75d711ecee46ad6e54231823ca39c7d1]: Textual amendment: Words in [Art. 110(2)(k)](https://www.legislation.gov.uk/eur/2017/625/article/110/2/k) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(3)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/3/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-75d711ecee46ad6e54231823ca39c7d1]: Textual amendment: Words in [Art. 110(2)(k)](https://www.legislation.gov.uk/eur/2017/625/article/110/2/k) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(3)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/3/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

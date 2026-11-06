@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Criminal conviction certificates and criminal record certificates[^key-422b1501954dab09670416600ce5971d]
+## 50. Criminal conviction certificates and criminal record certificates[^c-422b1501954dab09670416600ce5971d]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-422b1501954dab09670416600ce5971d]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2008/4/section/50) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/b)
+[^c-422b1501954dab09670416600ce5971d]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2008/4/section/50) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Authority to carry[^key-87b8680611eaf0e11d0684a96e268412]
+## 124. Authority to carry[^c-87b8680611eaf0e11d0684a96e268412]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87b8680611eaf0e11d0684a96e268412]: Textual amendment: S. 124 omitted (31.3.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 22(10)](https://www.legislation.gov.uk/ukpga/2015/6/section/22/10), [52(3)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/b); [S.I. 2015/956](https://www.legislation.gov.uk/uksi/2015/956), [reg. 2](https://www.legislation.gov.uk/uksi/2015/956/regulation/2)
+[^c-87b8680611eaf0e11d0684a96e268412]: Textual amendment: S. 124 omitted (31.3.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 22(10)](https://www.legislation.gov.uk/ukpga/2015/6/section/22/10), [52(3)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/b); [S.I. 2015/956](https://www.legislation.gov.uk/uksi/2015/956), [reg. 2](https://www.legislation.gov.uk/uksi/2015/956/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127. Charity trustees' indemnity insurance[^key-135ed623924b9a1e6988ca5593c4147e]
+## 127. Charity trustees' indemnity insurance[^c-135ed623924b9a1e6988ca5593c4147e]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-135ed623924b9a1e6988ca5593c4147e]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2010/8/section/127) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-135ed623924b9a1e6988ca5593c4147e]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2010/8/section/127) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

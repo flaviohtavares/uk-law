@@ -60,13 +60,13 @@ C is the market value of the consideration at the time of the transaction or (if
 - (a) shares,
 - (b) loan stocks or similar securities (whether secured or unsecured) of a government, a local or other public authority (in the United Kingdom or elsewhere) or a company,
 - (c) rights of unit holders in unit trust schemes to which TCGA 1992 applies as a result of section 99 of TCGA 1992,
-- (ca)[^key-e6ff7bd575c9a4f87d9df2efaeb5efdd] rights of participants in schemes or funds to which[^key-c9c9c1ebb0b7f0ecac7cf1a54c616572] TCGA 1992 applies as a result of section 103D of TCGA 1992,
+- (ca)[^c-e6ff7bd575c9a4f87d9df2efaeb5efdd] rights of participants in schemes or funds to which[^c-c9c9c1ebb0b7f0ecac7cf1a54c616572] TCGA 1992 applies as a result of section 103D of TCGA 1992,
 - (d) in the case of a company with no share capital, interests in the company possessed by members of the company,
 - (e) quoted options to subscribe for shares which are treated as shares as a result of section 147 of TCGA 1992, and
 - (f) earn-out rights which are assumed to be securities as a result of section 138A(3) of TCGA 1992.
 
 ## Annotations
 
-[^key-e6ff7bd575c9a4f87d9df2efaeb5efdd]: Textual amendment: S. 150(8)(ca) inserted ((1.12.2009 for specified purposes, 1.4.2010 for specified purposes) (with effect in accordance with Sch. 22 para. 12 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 22 para. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/22/paragraph/11/3/b); [S.I. 2010/670](https://www.legislation.gov.uk/uksi/2010/670), [art. 2](https://www.legislation.gov.uk/uksi/2010/670/article/2)
+[^c-e6ff7bd575c9a4f87d9df2efaeb5efdd]: Textual amendment: S. 150(8)(ca) inserted ((1.12.2009 for specified purposes, 1.4.2010 for specified purposes) (with effect in accordance with Sch. 22 para. 12 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 22 para. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/22/paragraph/11/3/b); [S.I. 2010/670](https://www.legislation.gov.uk/uksi/2010/670), [art. 2](https://www.legislation.gov.uk/uksi/2010/670/article/2)
 
-[^key-c9c9c1ebb0b7f0ecac7cf1a54c616572]: Textual amendment: Words in [s. 150(8)(ca)](https://www.legislation.gov.uk/ukpga/2005/5/section/150/8/ca) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/11/b)
+[^c-c9c9c1ebb0b7f0ecac7cf1a54c616572]: Textual amendment: Words in [s. 150(8)(ca)](https://www.legislation.gov.uk/ukpga/2005/5/section/150/8/ca) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/11/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 201. Application of Chapter[^key-b1cbaa936fd8e37691b99c1f262d626d]
+## 201. Application of Chapter[^c-b1cbaa936fd8e37691b99c1f262d626d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Chapter applies in relation to the payment and receipt of club transfer val
 
 ## Annotations
 
-[^key-b1cbaa936fd8e37691b99c1f262d626d]: Commencement: [Reg. 201](https://www.legislation.gov.uk/ssi/2014/292/regulation/201) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-b1cbaa936fd8e37691b99c1f262d626d]: Commencement: [Reg. 201](https://www.legislation.gov.uk/ssi/2014/292/regulation/201) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

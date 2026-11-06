@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Supply and delivery of military goods[^key-6ec8d09de7e5d290cbe831cee758d297][^key-fdd98a5eeda9582b4ac01e5c25747b28]
+## 22. Supply and delivery of military goods[^c-6ec8d09de7e5d290cbe831cee758d297][^c-fdd98a5eeda9582b4ac01e5c25747b28]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ec8d09de7e5d290cbe831cee758d297]: Commencement: Reg. 22 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-6ec8d09de7e5d290cbe831cee758d297]: Commencement: Reg. 22 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-fdd98a5eeda9582b4ac01e5c25747b28]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/433/regulation/22) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fdd98a5eeda9582b4ac01e5c25747b28]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/433/regulation/22) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

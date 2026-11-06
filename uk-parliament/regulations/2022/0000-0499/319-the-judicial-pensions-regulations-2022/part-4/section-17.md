@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Meaning of “assumed pay”: salaried office holders[^key-c7478c018e56925fe05f5542b9090fdc]
+## 17. Meaning of “assumed pay”: salaried office holders[^c-c7478c018e56925fe05f5542b9090fdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,14 +27,14 @@ summary: ''
 (3) The circumstances are—
 
 - (a) P is on sick leave on reduced pay;
-- (b) P is on adoption leave, maternity leave, parental leave, paternity leave ,[^key-28bd9acbac04b6905c9da027d97564ca] additional paternity leave or neonatal care leave[^key-057ba18a7dbc0abc2f2330aa38dad400];
+- (b) P is on adoption leave, maternity leave, parental leave, paternity leave ,[^c-28bd9acbac04b6905c9da027d97564ca] additional paternity leave or neonatal care leave[^c-057ba18a7dbc0abc2f2330aa38dad400];
 - (c) P is receiving statutory pay; or
 - (d) P is on secondment to a different employer under an arrangement providing for P to continue to be an active member of this scheme in relation to P’s service although P is paid by that employer.
 
 ## Annotations
 
-[^key-c7478c018e56925fe05f5542b9090fdc]: Commencement: Reg. 17 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-c7478c018e56925fe05f5542b9090fdc]: Commencement: Reg. 17 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
-[^key-28bd9acbac04b6905c9da027d97564ca]: Textual amendment: Reg. 17(3)(b): comma substituted for word (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(3)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/3/a)
+[^c-28bd9acbac04b6905c9da027d97564ca]: Textual amendment: Reg. 17(3)(b): comma substituted for word (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(3)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/3/a)
 
-[^key-057ba18a7dbc0abc2f2330aa38dad400]: Textual amendment: Words in reg. 17(3)(b) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(3)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/3/b)
+[^c-057ba18a7dbc0abc2f2330aa38dad400]: Textual amendment: Words in reg. 17(3)(b) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(3)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Material not available for public inspection[^key-ebb7b04dbf40acb165969a46a897cc90][^key-9158893a50481e33015a3c22213f3995]
+## 90. Material not available for public inspection[^c-ebb7b04dbf40acb165969a46a897cc90][^c-9158893a50481e33015a3c22213f3995]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ In section 1087 of the Companies Act 2006 (material not available for public ins
 
 ## Annotations
 
-[^key-ebb7b04dbf40acb165969a46a897cc90]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-ebb7b04dbf40acb165969a46a897cc90]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-9158893a50481e33015a3c22213f3995]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2023/56/section/90) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z32)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z32)
+[^c-9158893a50481e33015a3c22213f3995]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2023/56/section/90) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z32)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z32)

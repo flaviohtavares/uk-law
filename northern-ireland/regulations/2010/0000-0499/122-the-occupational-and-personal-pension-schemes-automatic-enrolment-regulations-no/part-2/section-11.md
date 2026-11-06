@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Refunds[^key-dc66fb5a3ade71e6e8b15973c37201f9]
+## 11. Refunds[^c-dc66fb5a3ade71e6e8b15973c37201f9]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc66fb5a3ade71e6e8b15973c37201f9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/122/regulation/11) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-dc66fb5a3ade71e6e8b15973c37201f9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/122/regulation/11) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)

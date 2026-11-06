@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Prohibition on accepting or paying transfer values for pension credit rights[^key-0253fe2932b5ce1a3f4834fd02426b37]
+## 75. Prohibition on accepting or paying transfer values for pension credit rights[^c-0253fe2932b5ce1a3f4834fd02426b37]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A transfer value may not be accepted or paid in respect of any pension credit ri
 
 ## Annotations
 
-[^key-0253fe2932b5ce1a3f4834fd02426b37]: Commencement: Reg. 75 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-0253fe2932b5ce1a3f4834fd02426b37]: Commencement: Reg. 75 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

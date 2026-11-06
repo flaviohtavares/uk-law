@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Amendment to regulation 210A[^key-b2761a0abc52582e8c6154a9c4f446cd]
+## 99. Amendment to regulation 210A[^c-b2761a0abc52582e8c6154a9c4f446cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In regulation 210A (offences in relation to pharmacovigilance obligations under 
 
 ## Annotations
 
-[^key-b2761a0abc52582e8c6154a9c4f446cd]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2024/832/regulation/99) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-b2761a0abc52582e8c6154a9c4f446cd]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2024/832/regulation/99) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00108]: Footnote: Regulation 210A was inserted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and was amended, including an amendment to the heading, by [S.I. 2019/755](https://www.legislation.gov.uk/uksi/2019/755) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

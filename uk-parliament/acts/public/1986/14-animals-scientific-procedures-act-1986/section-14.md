@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Re-use of protected animals[^key-2cce73bba6bb71d4484d947717dcb5e5]
+## 14. Re-use of protected animals[^c-2cce73bba6bb71d4484d947717dcb5e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cce73bba6bb71d4484d947717dcb5e5]: Textual amendment: S. 14 substituted (19.12.2012 for specified purposes, 1.1.2013 in so far as not already in force) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/3/a), [14](https://www.legislation.gov.uk/uksi/2012/3039/regulation/14) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-2cce73bba6bb71d4484d947717dcb5e5]: Textual amendment: S. 14 substituted (19.12.2012 for specified purposes, 1.1.2013 in so far as not already in force) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/3/a), [14](https://www.legislation.gov.uk/uksi/2012/3039/regulation/14) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

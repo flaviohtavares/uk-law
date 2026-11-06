@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Nature of land in which community interest may be registered[^key-bd0c1197ba6022c09c60e6e153789b8a]
+## 36. Nature of land in which community interest may be registered[^c-bd0c1197ba6022c09c60e6e153789b8a]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd0c1197ba6022c09c60e6e153789b8a]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2015/6/section/36) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-bd0c1197ba6022c09c60e6e153789b8a]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2015/6/section/36) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

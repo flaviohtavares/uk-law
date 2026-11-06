@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Interpretation[^key-87b8f5e370db4d9b3aaf95b9151694ac]
+## 89. Interpretation[^c-87b8f5e370db4d9b3aaf95b9151694ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87b8f5e370db4d9b3aaf95b9151694ac]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2003/20/section/89) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(l)](https://www.legislation.gov.uk/uksi/2004/827/article/3/l)
+[^c-87b8f5e370db4d9b3aaf95b9151694ac]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2003/20/section/89) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(l)](https://www.legislation.gov.uk/uksi/2004/827/article/3/l)

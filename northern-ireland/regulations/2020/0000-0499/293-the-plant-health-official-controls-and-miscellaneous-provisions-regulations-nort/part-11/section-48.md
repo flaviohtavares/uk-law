@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Offences by bodies corporate[^key-67933e7bc7b691f6fb44f1ab0d9019c4]
+## 48. Offences by bodies corporate[^c-67933e7bc7b691f6fb44f1ab0d9019c4]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ the officer, as well as the body corporate, is guilty of the offence and liable 
 
 ## Annotations
 
-[^key-67933e7bc7b691f6fb44f1ab0d9019c4]: Commencement: Reg. 48 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-67933e7bc7b691f6fb44f1ab0d9019c4]: Commencement: Reg. 48 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

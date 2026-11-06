@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Carriage of baggage[^key-713ec67628f11348f41e1051098374b0]
+## 55. Carriage of baggage[^c-713ec67628f11348f41e1051098374b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-713ec67628f11348f41e1051098374b0]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2015/870/article/55) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-713ec67628f11348f41e1051098374b0]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2015/870/article/55) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

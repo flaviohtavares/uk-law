@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Power to call for documents of taxpayer and others.[^key-1e7f07dc73e7b92dc3e2ab88662e769d]
+## 20. Power to call for documents of taxpayer and others.[^c-1e7f07dc73e7b92dc3e2ab88662e769d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e7f07dc73e7b92dc3e2ab88662e769d]: Textual amendment: S. 20 omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 67](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/67) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/404/article/4))
+[^c-1e7f07dc73e7b92dc3e2ab88662e769d]: Textual amendment: S. 20 omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 67](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/67) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/404/article/4))

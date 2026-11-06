@@ -51,7 +51,7 @@ and its property shall not be regarded as property of, or held on behalf of, the
 **7.** The Secretary of State may remove a member from office if he is satisfied that the member—
 
 - (a) has been absent from meetings of SEPA for a period longer than three months without the permission of SEPA; or
-- (b) has been made[^key-ccd67c744e9b75215c2f92fb2baa7d63] bankrupt, has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him,[^key-f9d229d9912941f0559ab06b88dee96c] has made an arrangement with his creditors, has had his estate sequestrated or has granted a trust deed for his creditors or a composition contract; or
+- (b) has been made[^c-ccd67c744e9b75215c2f92fb2baa7d63] bankrupt, has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him,[^c-f9d229d9912941f0559ab06b88dee96c] has made an arrangement with his creditors, has had his estate sequestrated or has granted a trust deed for his creditors or a composition contract; or
 - (c) is unable or unfit to carry out the functions of a member.
 
 ### Chairman and deputy chairman
@@ -118,11 +118,11 @@ as it may, with the approval of the Secretary of State, determine.
 
 *Extent: S*
 
-(3)[^key-6fce87e92965e458e24280f0bb4f5b61] In sub-paragraph (1) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+(3)[^c-6fce87e92965e458e24280f0bb4f5b61] In sub-paragraph (1) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
 ### Regional Boards
 
-**16.**[^key-75a4e8cfbdd1dc09e28adefd195152ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-75a4e8cfbdd1dc09e28adefd195152ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Members’ interests
 
@@ -161,10 +161,10 @@ shall be regarded as a sufficient disclosure of his interest in relation to any 
 
 ## Annotations
 
-[^key-ccd67c744e9b75215c2f92fb2baa7d63]: Textual amendment: Word in [Sch. 6 para. 7(b)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/6/paragraph/7/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
+[^c-ccd67c744e9b75215c2f92fb2baa7d63]: Textual amendment: Word in [Sch. 6 para. 7(b)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/6/paragraph/7/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
 
-[^key-f9d229d9912941f0559ab06b88dee96c]: Textual amendment: Words in Sch. 6 para. 7(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 33(3)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/33/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-f9d229d9912941f0559ab06b88dee96c]: Textual amendment: Words in Sch. 6 para. 7(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 33(3)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/33/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
-[^key-6fce87e92965e458e24280f0bb4f5b61]: Textual amendment: [Sch. 6 para. 15(3)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/6/paragraph/15/3) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 43(13)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43/13); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
+[^c-6fce87e92965e458e24280f0bb4f5b61]: Textual amendment: [Sch. 6 para. 15(3)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/6/paragraph/15/3) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 43(13)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43/13); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
 
-[^key-75a4e8cfbdd1dc09e28adefd195152ed]: Textual amendment: Sch. 6 para. 16 repealed (S.) (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 8(2)](https://www.legislation.gov.uk/asp/2010/8/section/8/2), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-75a4e8cfbdd1dc09e28adefd195152ed]: Textual amendment: Sch. 6 para. 16 repealed (S.) (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 8(2)](https://www.legislation.gov.uk/asp/2010/8/section/8/2), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

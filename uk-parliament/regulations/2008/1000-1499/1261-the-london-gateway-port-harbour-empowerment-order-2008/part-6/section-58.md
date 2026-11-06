@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. For the protection of the local highway authority[^key-61f3ea2b958acd663dbf7186e0bffab3]
+## 58. For the protection of the local highway authority[^c-61f3ea2b958acd663dbf7186e0bffab3]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61f3ea2b958acd663dbf7186e0bffab3]: Commencement: Art. 58 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-61f3ea2b958acd663dbf7186e0bffab3]: Commencement: Art. 58 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

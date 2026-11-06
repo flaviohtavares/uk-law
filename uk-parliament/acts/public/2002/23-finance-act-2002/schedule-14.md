@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 14 — Tax credits under Schedule 13: consequential amendments[^key-2294176487ea8457fbd1ffcf5a67551c]
+## SCHEDULE 14 — Tax credits under Schedule 13: consequential amendments[^c-2294176487ea8457fbd1ffcf5a67551c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Section 54
 
-### 1. Interest[^key-2294176487ea8457fbd1ffcf5a67551c]
+### 1. Interest[^c-2294176487ea8457fbd1ffcf5a67551c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Claim must be made in tax return[^key-2294176487ea8457fbd1ffcf5a67551c]
+### 2. Claim must be made in tax return[^c-2294176487ea8457fbd1ffcf5a67551c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Recovery of excessive tax credits[^key-2294176487ea8457fbd1ffcf5a67551c]
+### 3. Recovery of excessive tax credits[^c-2294176487ea8457fbd1ffcf5a67551c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Claims for tax credits[^key-2294176487ea8457fbd1ffcf5a67551c]
+### 4. Claims for tax credits[^c-2294176487ea8457fbd1ffcf5a67551c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Commencement[^key-2294176487ea8457fbd1ffcf5a67551c]
+### 5. Commencement[^c-2294176487ea8457fbd1ffcf5a67551c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2294176487ea8457fbd1ffcf5a67551c]: Textual amendment: [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/23/schedule/14) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-2294176487ea8457fbd1ffcf5a67551c]: Textual amendment: [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/23/schedule/14) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

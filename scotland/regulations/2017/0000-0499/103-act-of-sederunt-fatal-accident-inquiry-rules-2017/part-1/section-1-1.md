@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.1. Citation and commencement, etc.[^key-e2f12153303d4b82c481001531475cf3]
+## 1.1. Citation and commencement, etc.[^c-e2f12153303d4b82c481001531475cf3]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2f12153303d4b82c481001531475cf3]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-e2f12153303d4b82c481001531475cf3]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

@@ -38,64 +38,64 @@ Coming into operation
 
 6th October 1997
 
-[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Manner of making appeals and time limits[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 1. Citation, commencement and interpretation[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. General provisions relating to the procedure of tribunals[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 2. Manner of making appeals and time limits[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Requirement for oral hearings[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 3. General provisions relating to the procedure of tribunals[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Procedure at oral hearings[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 4. Requirement for oral hearings[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Postponement and adjournment[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 5. Procedure at oral hearings[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Withdrawal of appeals[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 6. Postponement and adjournment[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Non-disclosure of medical evidence[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 7. Withdrawal of appeals[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Decisions of tribunals[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 8. Non-disclosure of medical evidence[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Correction of accidental errors in decisions[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 9. Decisions of tribunals[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Setting aside decisions on certain grounds[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 10. Correction of accidental errors in decisions[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Provisions common to regulations 10 and 11[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 11. Setting aside decisions on certain grounds[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Application to a chairman for leave to appeal to a Commissioner[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]
+## 12. Provisions common to regulations 10 and 11[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 13. Application to a chairman for leave to appeal to a Commissioner[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]
 
-[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b4b3f5b2a52e0c14049e7cd7c767c94d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/430) revoked (1.6.1999 for specified purposes, 5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in operation) by [The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (S.R. 1999/162)](https://www.legislation.gov.uk/nisr/1999/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1), [59(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/1), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/162/schedule/3) (with [reg. 59(2)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/2)[(3)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/3))
+[^c-b4b3f5b2a52e0c14049e7cd7c767c94d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/430) revoked (1.6.1999 for specified purposes, 5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in operation) by [The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (S.R. 1999/162)](https://www.legislation.gov.uk/nisr/1999/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1), [59(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/1), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/162/schedule/3) (with [reg. 59(2)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/2)[(3)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/3))

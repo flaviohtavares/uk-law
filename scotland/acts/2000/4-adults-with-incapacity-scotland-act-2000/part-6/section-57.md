@@ -32,13 +32,13 @@ they shall apply under this section for an order.
 
 (3) There shall be lodged in court along with an application under this section—
 
-- (a) reports, in prescribed form, of an examination and assessment of the adult carried out not more than 30 days before the lodging of the application by at least two medical practitioners one of whom, in a case where the incapacity is by reason of mental disorder, must be a relevant[^key-ce885d952a39516b0ca002e7d47e063f] medical practitioner [^c18085911]. . . ;
+- (a) reports, in prescribed form, of an examination and assessment of the adult carried out not more than 30 days before the lodging of the application by at least two medical practitioners one of whom, in a case where the incapacity is by reason of mental disorder, must be a relevant[^c-ce885d952a39516b0ca002e7d47e063f] medical practitioner [^c18085911]. . . ;
 - (b) where the application relates to the personal welfare of the adult, a report, in prescribed form, from the mental health officer, (but where it is in jeopardy only because of the inability of the adult to communicate, from the chief social work officer), containing his opinion as to—
   - (i) the general appropriateness of the order sought, based on an interview and assessment of the adult carried out not more than 30 days before the lodging of the application; and
   - (ii) the suitability of the individual nominated in the application to be appointed guardian; and
 - (c) where the application relates only to the property or financial affairs of the adult, a report, in prescribed form, based on an interview and assessment of the adult carried out not more than 30 days before the lodging of the application, by a person who has sufficient knowledge to make such a report as to the matters referred to in paragraph (b)(i) and (ii).
 
-(3A)[^key-322b5becace41da5e32147bd23159a49] Subsection (3B) applies where a report lodged under subsection (3)(a) relates to an examination and assessment carried out more than 30 days before the lodging of the application.
+(3A)[^c-322b5becace41da5e32147bd23159a49] Subsection (3B) applies where a report lodged under subsection (3)(a) relates to an examination and assessment carried out more than 30 days before the lodging of the application.
 
 (3B) Where this subsection applies, the sheriff may, despite subsection (3)(a), continue to consider the application if satisfied that there has been no change in circumstances since the examination and assessment was carried out which may be relevant to matters set out in the report.
 
@@ -49,11 +49,11 @@ they shall apply under this section for an order.
 (6) The appointment of an interim guardian in pursuance of this section shall, unless recalled earlier, cease to have effect—
 
 - (a) on the appointment of a guardian under section 58; or
-- (b) at the end of the effective period[^key-e99fa33593ceea86544030d154409971],
+- (b) at the end of the effective period[^c-e99fa33593ceea86544030d154409971],
 
 whichever is the earlier.
 
-(6A)[^key-719b218a2775f020f24115f919e732f0] The “effective period”, for the purposes of subsection (6), means—
+(6A)[^c-719b218a2775f020f24115f919e732f0] The “effective period”, for the purposes of subsection (6), means—
 
 - (a) the period of 3 months beginning with the date of appointment; or
 - (b) such longer period (not exceeding 6 months) beginning with that date as the sheriff may specify in the order.
@@ -68,20 +68,20 @@ whichever is the earlier.
 
 (6C) The Scottish Ministers shall consult the Mental Welfare Commission before making regulations under subsection (6B)(c).
 
-(7)[^c18085871] In subsection (6B)[^key-5bbae53bd7ed42f1dce79c13a829408b], “**approved medical practitioner**” has the meaning given by section 22 of the 2003 Act.
+(7)[^c18085871] In subsection (6B)[^c-5bbae53bd7ed42f1dce79c13a829408b], “**approved medical practitioner**” has the meaning given by section 22 of the 2003 Act.
 
 ## Annotations
 
-[^key-ce885d952a39516b0ca002e7d47e063f]: Textual amendment: Words in s. 57(3)(a) substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(1)(a)](https://www.legislation.gov.uk/asp/2007/10/section/60/1/a), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-ce885d952a39516b0ca002e7d47e063f]: Textual amendment: Words in s. 57(3)(a) substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(1)(a)](https://www.legislation.gov.uk/asp/2007/10/section/60/1/a), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
 [^c18085911]: Textual amendment: Words in s. 57(3)(a) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 331](https://www.legislation.gov.uk/asp/2003/13/section/331), [333(2)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5](https://www.legislation.gov.uk/asp/2003/13/schedule/5); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3)
 
-[^key-322b5becace41da5e32147bd23159a49]: Textual amendment: S. 57(3A)(3B) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(1)(b)](https://www.legislation.gov.uk/asp/2007/10/section/60/1/b), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-322b5becace41da5e32147bd23159a49]: Textual amendment: S. 57(3A)(3B) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(1)(b)](https://www.legislation.gov.uk/asp/2007/10/section/60/1/b), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
-[^key-e99fa33593ceea86544030d154409971]: Textual amendment: Words in s. 57(6)(b) substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(1)(c)](https://www.legislation.gov.uk/asp/2007/10/section/60/1/c), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-e99fa33593ceea86544030d154409971]: Textual amendment: Words in s. 57(6)(b) substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(1)(c)](https://www.legislation.gov.uk/asp/2007/10/section/60/1/c), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
-[^key-719b218a2775f020f24115f919e732f0]: Textual amendment: S. 57(6A)-(6C) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(1)(d)](https://www.legislation.gov.uk/asp/2007/10/section/60/1/d), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-719b218a2775f020f24115f919e732f0]: Textual amendment: S. 57(6A)-(6C) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(1)(d)](https://www.legislation.gov.uk/asp/2007/10/section/60/1/d), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
 [^c18085871]: Textual amendment: S. 57(7) inserted (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 331](https://www.legislation.gov.uk/asp/2003/13/section/331), [333(2)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 4 para. 9(4)(b)](https://www.legislation.gov.uk/asp/2003/13/schedule/4/paragraph/9/4/b); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3)
 
-[^key-5bbae53bd7ed42f1dce79c13a829408b]: Textual amendment: Word in s. 57(7) substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(1)(e)](https://www.legislation.gov.uk/asp/2007/10/section/60/1/e), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-5bbae53bd7ed42f1dce79c13a829408b]: Textual amendment: Word in s. 57(7) substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(1)(e)](https://www.legislation.gov.uk/asp/2007/10/section/60/1/e), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)

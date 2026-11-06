@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Decision 2016/1032/EU establishing best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council, for the non-ferrous metals industries[^key-617483b70b7041942715ad7b12d968eb]
+## 18. Decision 2016/1032/EU establishing best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council, for the non-ferrous metals industries[^c-617483b70b7041942715ad7b12d968eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-617483b70b7041942715ad7b12d968eb]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-617483b70b7041942715ad7b12d968eb]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

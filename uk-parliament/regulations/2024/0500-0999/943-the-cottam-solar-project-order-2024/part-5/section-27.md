@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Modification of Part 1 of the Compulsory Purchase Act 1965[^key-2b0015a701cdbafe5fb1d267f343b45a]
+## 27. Modification of Part 1 of the Compulsory Purchase Act 1965[^c-2b0015a701cdbafe5fb1d267f343b45a]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b0015a701cdbafe5fb1d267f343b45a]: Commencement: Art. 27 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-2b0015a701cdbafe5fb1d267f343b45a]: Commencement: Art. 27 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)

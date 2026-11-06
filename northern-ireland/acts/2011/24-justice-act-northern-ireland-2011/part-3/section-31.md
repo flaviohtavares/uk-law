@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Reports by policing committee of Belfast PCSP to Policing Board[^key-89d3a7783ffdac6c0663587b6c4c0cbd]
+## 31. Reports by policing committee of Belfast PCSP to Policing Board[^c-89d3a7783ffdac6c0663587b6c4c0cbd]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89d3a7783ffdac6c0663587b6c4c0cbd]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2011/24/section/31) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-89d3a7783ffdac6c0663587b6c4c0cbd]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2011/24/section/31) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

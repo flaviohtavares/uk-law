@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Eligibility for special measures: offences involving weapons[^key-ddf635a7488f220192e8d4e4953d4091]
+## 99. Eligibility for special measures: offences involving weapons[^c-ddf635a7488f220192e8d4e4953d4091]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddf635a7488f220192e8d4e4953d4091]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2009/25/section/99) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)
+[^c-ddf635a7488f220192e8d4e4953d4091]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2009/25/section/99) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)

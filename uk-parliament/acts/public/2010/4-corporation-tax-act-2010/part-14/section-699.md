@@ -29,7 +29,7 @@ summary: ''
 
 are treated for the purposes of Chapter 2 of Part 16 of CTA 2009 (companies with investment business) as expenses of management referable to that notional accounting period.
 
-(3) Any allowances which are apportioned to either of the notional accounting periods in accordance with section 702 are treated for the purposes of sections 253 and 270HE[^key-73de9e1dfe5f78a5492377df6a27965a] of CAA 2001 and section 1233 of CTA 2009 (companies with investment business: excess capital allowances) as falling to be made in that notional accounting period.
+(3) Any allowances which are apportioned to either of the notional accounting periods in accordance with section 702 are treated for the purposes of sections 253 and 270HE[^c-73de9e1dfe5f78a5492377df6a27965a] of CAA 2001 and section 1233 of CTA 2009 (companies with investment business: excess capital allowances) as falling to be made in that notional accounting period.
 
 (4) Subsection (5) applies if, in accordance with the relevant provisions and section 702, an amount is included in respect of chargeable gains or, as the case may be, non-trading chargeable realisation gains in the total profits of the accounting period of the company in which the relevant gain accrues or arises.
 
@@ -42,4 +42,4 @@ from so much of the total profits of the accounting period as represents the rel
 
 ## Annotations
 
-[^key-73de9e1dfe5f78a5492377df6a27965a]: Textual amendment: Words in [s. 699(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/699/3) substituted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/9/3)
+[^c-73de9e1dfe5f78a5492377df6a27965a]: Textual amendment: Words in [s. 699(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/699/3) substituted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/9/3)

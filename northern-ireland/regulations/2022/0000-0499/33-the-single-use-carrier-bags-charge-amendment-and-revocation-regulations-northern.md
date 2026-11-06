@@ -44,23 +44,23 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs, makes these Regulations in exercise of the powers conferred by sections 77(2), 90(2)(b) and 90(3)(a) and (b) of, and paragraphs 1, 2, 4 and 7 of Schedule 6 to, the Climate Change Act 2008[^f00001] and now exercisable by it[^f00002].
 
-## 1. Citation and commencement[^key-bf7e1eba78b08608a9ef799a2092dc92]
+## 1. Citation and commencement[^c-bf7e1eba78b08608a9ef799a2092dc92]
 
 These regulations may be cited as the Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 and come into operation on 1st April 2022.
 
-## 2. Amendment to the Single Use Carrier Bags Charge Regulations (Northern Ireland) 2013[^key-ca7c5318bf37e8cb748bff3add384c85]
+## 2. Amendment to the Single Use Carrier Bags Charge Regulations (Northern Ireland) 2013[^c-ca7c5318bf37e8cb748bff3add384c85]
 
 The Single Use Carrier Bags Charge Regulations (Northern Ireland) 2013[^f00003] are amended in accordance with regulations 3 to 6.
 
-## 3. Amendment of regulation 2 (Interpretation)[^key-c4c76b05b8328281d12d69a3f1ee0b9b]
+## 3. Amendment of regulation 2 (Interpretation)[^c-c4c76b05b8328281d12d69a3f1ee0b9b]
 
 In regulation 2(1) in the definition of “net proceeds of the charge” for “5” substitute “25” wherever it occurs.
 
-## 4. Amendment of regulation 6 (Requirement to charge)[^key-fd3aa63f4dc998b542ead9bed83ac3bb]
+## 4. Amendment of regulation 6 (Requirement to charge)[^c-fd3aa63f4dc998b542ead9bed83ac3bb]
 
 In regulation 6, for “5” substitute “25”.
 
-## 5. Amendment of regulation 9 (Record-keeping)[^key-a1b3760795ef3c3fc427026ce006f36a]
+## 5. Amendment of regulation 9 (Record-keeping)[^c-a1b3760795ef3c3fc427026ce006f36a]
 
 (1) In regulation 9(3)—
 
@@ -69,7 +69,7 @@ In regulation 6, for “5” substitute “25”.
 - (a) In paragraph (c) for “5” substitute “25”;
 - (b) In paragraph (d) for “5” substitute “25”.
 
-## 6. Amendment of Schedule 1 (Exemptions)[^key-1bb459dddeaed0a74ccaf53d250a9940]
+## 6. Amendment of Schedule 1 (Exemptions)[^c-1bb459dddeaed0a74ccaf53d250a9940]
 
 (1) Paragraph 1 of Schedule 1 is amended in accordance with paragraphs (2) and (3)—
 
@@ -100,7 +100,7 @@ In regulation 6, for “5” substitute “25”.
   [^f00004];
 - (b) in the definition of “supplementary prescriber”, “nurse independent prescriber”, “optometrist independent prescriber” and “pharmacist independent prescriber” for “article 1(2) of the Prescription Only Medicines (Human Use) Order 1997” substitute “regulation 8(1) of the Human Medicines Regulations 2012”[^f00005].
 
-## 7. Revocation[^key-75abd6aace74cfe4d0596e13392dd3f2]
+## 7. Revocation[^c-75abd6aace74cfe4d0596e13392dd3f2]
 
 The Single Use Carrier Bags Charge (Amendment) Regulations (Northern Ireland) 2021[^f00006] are revoked.
 
@@ -144,24 +144,24 @@ An impact assessment on the effect of these Regulations was included as part of 
 
 [^f00002]: Footnote: [S.R.2016 No.76](https://www.legislation.gov.uk/nisr/2016/76); see Article 8(1)(c) of the Departments (Transfer of Functions) Order (Northern Ireland) 2016
 
-[^key-bf7e1eba78b08608a9ef799a2092dc92]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
+[^c-bf7e1eba78b08608a9ef799a2092dc92]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
 
-[^key-ca7c5318bf37e8cb748bff3add384c85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/33/regulation/2) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
+[^c-ca7c5318bf37e8cb748bff3add384c85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/33/regulation/2) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2013 No. 4](https://www.legislation.gov.uk/nisr/2013/4); relevant amendments were made by the Carrier Bags Act (Northern Ireland) 2014 ([2014 c. 7 (N.I.)](https://www.legislation.gov.uk/nia/2014/7))
 
-[^key-c4c76b05b8328281d12d69a3f1ee0b9b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/33/regulation/3) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
+[^c-c4c76b05b8328281d12d69a3f1ee0b9b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/33/regulation/3) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
 
-[^key-fd3aa63f4dc998b542ead9bed83ac3bb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2022/33/regulation/4) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
+[^c-fd3aa63f4dc998b542ead9bed83ac3bb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2022/33/regulation/4) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
 
-[^key-a1b3760795ef3c3fc427026ce006f36a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2022/33/regulation/5) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
+[^c-a1b3760795ef3c3fc427026ce006f36a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2022/33/regulation/5) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
 
-[^key-1bb459dddeaed0a74ccaf53d250a9940]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2022/33/regulation/6) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
+[^c-1bb459dddeaed0a74ccaf53d250a9940]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2022/33/regulation/6) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
 
 [^f00004]: Footnote: [1982 c.36](https://www.legislation.gov.uk/ukpga/1982/36); Section 11A inserted by Aviation and Maritime Security Act 1990 ([1990 c.31](https://www.legislation.gov.uk/ukpga/1990/31)); relevant amendments were made by the Aviation Security Regulations 2010 ([S.I. 2010/902](https://www.legislation.gov.uk/uksi/2010/902)) and the Civil Aviation Act 2012 ([2012 c. 19](https://www.legislation.gov.uk/ukpga/2012/19))
 
 [^f00005]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916); relevant amending Regulations are [S.I. 2016/186](https://www.legislation.gov.uk/uksi/2016/186) and [S.I. 2018/199](https://www.legislation.gov.uk/uksi/2018/199)
 
-[^key-75abd6aace74cfe4d0596e13392dd3f2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2022/33/regulation/7) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
+[^c-75abd6aace74cfe4d0596e13392dd3f2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2022/33/regulation/7) in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2021 No. 338](https://www.legislation.gov.uk/nisr/2021/338)

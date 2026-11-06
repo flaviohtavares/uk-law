@@ -47,7 +47,7 @@ summary: ''
 - (c) Article 37(7) (application for the issue of a revised contribution notice under Article 37(9));
 - (d) Article 46(7) (application for the issue of a revised contribution notice under Article 46(9));
 - (e) Article 3(3) of the 1995 Order (application for revocation of prohibition order);
-- (ea)[^key-07aabce502f6228ca70e6e4c461cddbb] Article 3A(3) of that Order (application for waiver of prohibition);
+- (ea)[^c-07aabce502f6228ca70e6e4c461cddbb] Article 3A(3) of that Order (application for waiver of prohibition);
 - (f) Article 4(5) of that Order (application for revocation of a suspension order);
 - (g) Article 7(5A) of that Order (application for appointment of a trustee under Article 7(3)(a) or (c) of that Order);
 - (h) Article 29(5) of that Order (application for waiver of disqualification);
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07aabce502f6228ca70e6e4c461cddbb]: Textual amendment: [Art. 7(6)(ea)](https://www.legislation.gov.uk/nisi/2005/255/article/7/6/ea) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 6](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/6); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
+[^c-07aabce502f6228ca70e6e4c461cddbb]: Textual amendment: [Art. 7(6)(ea)](https://www.legislation.gov.uk/nisi/2005/255/article/7/6/ea) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 6](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/6); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
 
 [^c17102931]: Textual amendment: SR 2005/357

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Extension of licensing of child performances to children under 14[^key-de4e5b0312fc7c2bd5d3016baaf7b136]
+## 94. Extension of licensing of child performances to children under 14[^c-de4e5b0312fc7c2bd5d3016baaf7b136]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Section 38 of the Children and Young Persons Act 1963 (licences for performances
 
 ## Annotations
 
-[^key-de4e5b0312fc7c2bd5d3016baaf7b136]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2014/8/section/94) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-de4e5b0312fc7c2bd5d3016baaf7b136]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2014/8/section/94) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)

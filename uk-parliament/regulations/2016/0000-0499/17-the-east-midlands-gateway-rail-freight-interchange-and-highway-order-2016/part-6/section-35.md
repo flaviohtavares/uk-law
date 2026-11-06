@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Charges[^key-e37007c0ce1e5017a38c03dd857ba0a0]
+## 35. Charges[^c-e37007c0ce1e5017a38c03dd857ba0a0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may demand, take or recover or waive such charges for carrying go
 
 ## Annotations
 
-[^key-e37007c0ce1e5017a38c03dd857ba0a0]: Commencement: Art. 35 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-e37007c0ce1e5017a38c03dd857ba0a0]: Commencement: Art. 35 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

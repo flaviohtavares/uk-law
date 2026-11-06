@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221A. Claim not available where cash basis used[^key-36e3110d64a2403242f40c3de9f666f2]
+## 221A. Claim not available where cash basis used[^c-36e3110d64a2403242f40c3de9f666f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Chapter applies in calculating the profits of a trade on the cas
 
 ## Annotations
 
-[^key-36e3110d64a2403242f40c3de9f666f2]: Textual amendment: S. 221A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/32)
+[^c-36e3110d64a2403242f40c3de9f666f2]: Textual amendment: S. 221A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/32)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 901. Effect of application of the I - E basis: non-trading amounts[^key-d05ec53671552126bb515a988845cccb][^key-2c255c5108376ece0fb09b52b8e9150b]
+## 901. Effect of application of the I - E basis: non-trading amounts[^c-d05ec53671552126bb515a988845cccb][^c-2c255c5108376ece0fb09b52b8e9150b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the application of the I - E rules in relation to a company's basic life assu
 
 ## Annotations
 
-[^key-d05ec53671552126bb515a988845cccb]: Textual amendment: S. 901 substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 179](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/179)
+[^c-d05ec53671552126bb515a988845cccb]: Textual amendment: S. 901 substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 179](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/179)
 
-[^key-2c255c5108376ece0fb09b52b8e9150b]: Modification: Pt. 8 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-2c255c5108376ece0fb09b52b8e9150b]: Modification: Pt. 8 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

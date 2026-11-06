@@ -22,13 +22,13 @@ summary: ''
 
 (1) In this Act, except where the context otherwise requires, the following expressions have the meanings hereby respectively assigned to them, that is to say:—
 
-- “appropriate agency” means—[^key-b8c5ac23ef0b7984a1f2ce68efda5d0b]
+- “appropriate agency” means—[^c-b8c5ac23ef0b7984a1f2ce68efda5d0b]
   - (a) the Environment Agency in relation to work in England;
   - (b) the Natural Resources Body for Wales in relation to work in Wales;
-- [^c6295471]“**drainage authority**” means the Environment Agency, the Natural Resources Body for Wales or[^key-1a89d08cbcbb575959d53b99cc42b63e] an internal drainage board;
+- [^c6295471]“**drainage authority**” means the Environment Agency, the Natural Resources Body for Wales or[^c-1a89d08cbcbb575959d53b99cc42b63e] an internal drainage board;
 - “**coast protection authority**” has the meaning assigned to it by section one of this Act;
 - “**coast protection charge**” has the meaning assigned to it by section six of this Act;
-- “[^key-add6f84d46e32eaefb99eccf16bb65d8]**coast protection work**” means any of the following done for the purpose of managing a coastal erosion risk (within the meaning of Part 1 of the Flood and Water Management Act 2010)—
+- “[^c-add6f84d46e32eaefb99eccf16bb65d8]**coast protection work**” means any of the following done for the purpose of managing a coastal erosion risk (within the meaning of Part 1 of the Flood and Water Management Act 2010)—
   - (a) anything done to construct, alter, repair, maintain or remove works;
   - (b) anything done for the purpose of maintaining or restoring natural processes;
   - (c) planting vegetation.
@@ -37,10 +37,10 @@ summary: ''
 - “England” includes the territorial sea adjacent to England not forming any part of Wales;
 - “**fishery board**” means any such fishery board as is referred to in section forty-four of the [^c6295491]Salmon and Freshwater Fisheries Act 1923, and includes the Tweed Commissioners;
 - “**functions**” includes powers and duties;
-- “[^key-356884b9d15a6c63f528b867d0dfe975]**inshore fisheries and conservation authority**” means the authority for an inshore fisheries and conservation district established under section 149 of the Marine and Coastal Access Act 2009;
+- “[^c-356884b9d15a6c63f528b867d0dfe975]**inshore fisheries and conservation authority**” means the authority for an inshore fisheries and conservation district established under section 149 of the Marine and Coastal Access Act 2009;
 - “**land**” includes land covered by water;
 - “**local Act**” includes a provisional order confirmed by Parliament and also includes any enactment in a public general Act, being an enactment which amends a local Act;
-- [^key-f6a736c57d0f2959d661b057a6b94fa2]...
+- [^c-f6a736c57d0f2959d661b057a6b94fa2]...
 - “**local highway authority**” means a highway authority other than the Secretary of State[^c6295521];
 - “**maritime . . . [^c6295531] district**” means a . . . [^c6295531] district or Welsh county or county borough[^c6295551] any part of which adjoins the sea;
 - “**materials**” includes minerals and turf, but does not include seaweed;
@@ -99,7 +99,7 @@ and after the definition of the expression “functions” there shall be insert
 - “**inshore fisheries and conservation authority**” means the authority for an inshore fisheries and conservation district established under section 149 of the Marine and Coastal Access Act 2009;
 - “**land**” includes land covered by water;
 - “**local Act**” includes a provisional order confirmed by Parliament and also includes any enactment in a public general Act, being an enactment which amends a local Act;
-- “**local fisheries committee *(affected by repeal, see note)*[^key-f6a736c57d0f2959d661b057a6b94fa2]**” means a committee constituted under the *(affected by repeal, see note)*[^key-f6a736c57d0f2959d661b057a6b94fa2] [^c6295511]Sea Fisheries Regulation Act 1966[^c6295501] *(affected by repeal, see note)*[^key-f6a736c57d0f2959d661b057a6b94fa2];
+- “**local fisheries committee *(affected by repeal, see note)*[^c-f6a736c57d0f2959d661b057a6b94fa2]**” means a committee constituted under the *(affected by repeal, see note)*[^c-f6a736c57d0f2959d661b057a6b94fa2] [^c6295511]Sea Fisheries Regulation Act 1966[^c6295501] *(affected by repeal, see note)*[^c-f6a736c57d0f2959d661b057a6b94fa2];
 - “**local highway authority**” means a highway authority other than the Secretary of State[^c6295711];
 - “**maritime . . . [^c6295721] district**” means a . . . [^c6295721] district or Welsh county or county borough[^c6295741] any part of which adjoins the sea;
 - “**materials**” includes minerals and turf, but does not include seaweed;
@@ -121,7 +121,7 @@ and after the definition of the expression “functions” there shall be insert
 
 (2) For the purposes of Part I of this Act the expression “sea” shall not include any of the waters specified in the Fourth Schedule to this Act and the expression “seashore” shall not include the bed or shore of any of those waters.
 
-(2A)[^key-2e628ee3b5be462b4d0b33546a8e1a8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-2e628ee3b5be462b4d0b33546a8e1a8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) References in this Act to any enactment shall be construed as references to that enactment as amended by or under any subsequent enactment including this Act.
 
@@ -163,7 +163,7 @@ and the following definitions shall be inserted in the alphabetically appropriat
 - “**inshore fisheries and conservation authority**” means the authority for an inshore fisheries and conservation district established under section 149 of the Marine and Coastal Access Act 2009;
 - “**land**” includes land covered by water;
 - “**local Act**” includes a provisional order confirmed by Parliament and also includes any enactment in a public general Act, being an enactment which amends a local Act;
-- “**local fisheries committee *(affected by repeal, see note)*[^key-f6a736c57d0f2959d661b057a6b94fa2]**” means a committee constituted under the *(affected by repeal, see note)*[^key-f6a736c57d0f2959d661b057a6b94fa2] [^c6295511]Sea Fisheries Regulation Act 1966 *(affected by repeal, see note)*[^key-f6a736c57d0f2959d661b057a6b94fa2];
+- “**local fisheries committee *(affected by repeal, see note)*[^c-f6a736c57d0f2959d661b057a6b94fa2]**” means a committee constituted under the *(affected by repeal, see note)*[^c-f6a736c57d0f2959d661b057a6b94fa2] [^c6295511]Sea Fisheries Regulation Act 1966 *(affected by repeal, see note)*[^c-f6a736c57d0f2959d661b057a6b94fa2];
 - “**local highway authority**” means a highway authority other than the Secretary of State[^c6295911];
 - “**maritime . . . [^c6295921] district**” means a . . . [^c6295921] district or Welsh county or county borough[^c6295941] any part of which adjoins the sea;
 - “**materials**” includes minerals and turf, but does not include seaweed;
@@ -203,21 +203,21 @@ and after the definition of the expression “functions” there shall be insert
 
 [^c6295461]: Extent: This version of this provision extends to England and Wales only; separate versions have been created for Scotland only and for Northern Ireland only.
 
-[^key-b8c5ac23ef0b7984a1f2ce68efda5d0b]: Textual amendment: Words in s. 49(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/12/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b8c5ac23ef0b7984a1f2ce68efda5d0b]: Textual amendment: Words in s. 49(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/12/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c6295471]: Textual amendment: Definitions in s. 49(1) substituted (E.W.) (1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1), [para. 6](https://www.legislation.gov.uk/ukpga/1991/60/paragraph/6)
 
-[^key-1a89d08cbcbb575959d53b99cc42b63e]: Textual amendment: Words in s. 49(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/12/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1a89d08cbcbb575959d53b99cc42b63e]: Textual amendment: Words in s. 49(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/12/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-add6f84d46e32eaefb99eccf16bb65d8]: Textual amendment: Words in s. 49 substituted (E.W.) (19.7.2011 for E., 1.10.2011 for W.) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/24) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1)); [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
+[^c-add6f84d46e32eaefb99eccf16bb65d8]: Textual amendment: Words in s. 49 substituted (E.W.) (19.7.2011 for E., 1.10.2011 for W.) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/24) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(d)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/d) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2011/1770/article/4/1)); [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2204/article/5/1))
 
 [^c6295481]: Textual amendment: S. 49: Words in definition substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 25](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/25)
 
 [^c6295491]: Marginal citation: [1923 c. 16](https://www.legislation.gov.uk/ukpga/1923/16).
 
-[^key-356884b9d15a6c63f528b867d0dfe975]: Textual amendment: Words in s. 49(1) inserted (1.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/14/paragraph/4); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/k)
+[^c-356884b9d15a6c63f528b867d0dfe975]: Textual amendment: Words in s. 49(1) inserted (1.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/14/paragraph/4); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/k)
 
-[^key-f6a736c57d0f2959d661b057a6b94fa2]: Textual amendment: Words in s. 49(1) repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), art. 2(2)(o), (with art. 2(3))
+[^c-f6a736c57d0f2959d661b057a6b94fa2]: Textual amendment: Words in s. 49(1) repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), art. 2(2)(o), (with art. 2(3))
 
 [^c6295521]: Textual amendment: Words substituted by virtue of [S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681)
 
@@ -271,7 +271,7 @@ and after the definition of the expression “functions” there shall be insert
 
 [^c6295801]: Marginal citation: 1857 c. cxlviii.
 
-[^key-2e628ee3b5be462b4d0b33546a8e1a8d]: Textual amendment: S. 49(2A) repealed (S.) (6.4.2011) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [sch. 4 para. 1(b)](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/1/b) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/58/article/3/d)
+[^c-2e628ee3b5be462b4d0b33546a8e1a8d]: Textual amendment: S. 49(2A) repealed (S.) (6.4.2011) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [sch. 4 para. 1(b)](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/1/b) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/58/article/3/d)
 
 [^c6295821]: Textual amendment: Words repealed by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29)
 

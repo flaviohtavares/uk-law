@@ -43,7 +43,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 13A(8) of that Act, a draft of this instrument has been laid before and approved by resolution of Senedd Cymru[^f00002].
 
-## 1. Title, commencement and interpretation[^key-aee32799b648138f85c67e10428bc37f]
+## 1. Title, commencement and interpretation[^c-aee32799b648138f85c67e10428bc37f]
 
 (1) The title of these Regulations is the Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2023.
 
@@ -56,11 +56,11 @@ In accordance with section 13A(8) of that Act, a draft of this instrument has be
 - “**billing authority**” (“***awdurdod bilio***”) has the meaning given in section 1(2)(b) of the Local Government Finance Act 1992 (“**the 1992 Act**”);
 - “**council tax reduction scheme**” (“***cynllun gostyngiadau’r dreth gyngor***”) means a scheme made by a billing authority in accordance with the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^f00003], or the scheme that applies in default by virtue of paragraph 6(1)(e) of Schedule 1B to the 1992 Act.
 
-## 2. Amendments to the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^key-00aee7ec8c65bc1de97a64b25054c2e7]
+## 2. Amendments to the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^c-00aee7ec8c65bc1de97a64b25054c2e7]
 
 The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 are amended in accordance with regulations 3 to 9.
 
-## 3.[^key-d03c0df35b46c83beb67575ce551b336]
+## 3.[^c-d03c0df35b46c83beb67575ce551b336]
 
 (1) Regulation 9 (non-dependants) is amended in accordance with paragraphs (2) and (3).
 
@@ -73,7 +73,7 @@ The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulation
 
 (3) in paragraph (3) for “2(a) to (c) and (f)” substitute “2(a) to (c), (f) and (g)”.
 
-## 4.[^key-b6944317e90b271d8f7948531816ee0c]
+## 4.[^c-b6944317e90b271d8f7948531816ee0c]
 
 (1) Regulation 28(5) (persons treated as not being in Great Britain) is amended in accordance with paragraphs (2) to (4).
 
@@ -87,7 +87,7 @@ The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulation
 >   - (i) has been granted leave to enter or remain in the United Kingdom in accordance with immigration rules made under section 3(2) of the Immigration Act 1971; or
 >   - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act.
 
-## 5.[^key-0575e66a7c76e9a8422dadb67c5d769f]
+## 5.[^c-0575e66a7c76e9a8422dadb67c5d769f]
 
 (1) Regulation 29 (persons subject to immigration control) is amended in accordance with paragraphs (2) and (3).
 
@@ -95,7 +95,7 @@ The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulation
 
 (3) Omit paragraph (2).
 
-## 6.[^key-b255941c9346bceb0a0e6c163981af5a]
+## 6.[^c-b255941c9346bceb0a0e6c163981af5a]
 
 In Schedule 1 (determining eligibility for a reduction: pensioners), in paragraph 3 (non-dependant deductions: pensioners)—
 
@@ -105,7 +105,7 @@ In Schedule 1 (determining eligibility for a reduction: pensioners), in paragrap
 - (d) in sub-paragraph (2)(b), for “£224.00”, “£389.00” and “£10.60” substitute “£236.00”, “£410.00” and “£10.90” respectively;
 - (e) in sub-paragraph (2)(c), for “£389.00”, “£484.00” and “£13.35” substitute “£410.00”, “£511.00” and “£13.70” respectively.
 
-## 7.[^key-dbccf18f9625156f53d5a06d04fdbe1a]
+## 7.[^c-dbccf18f9625156f53d5a06d04fdbe1a]
 
 In Schedule 2 (applicable amounts: pensioners)—
 
@@ -121,7 +121,7 @@ In Schedule 2 (applicable amounts: pensioners)—
   - (iii) in sub-paragraph (3), for “£68.04” substitute “£74.69”;
   - (iv) in sub-paragraph (4), for “£38.85” substitute “£42.75”.
 
-## 8.[^key-e2be0a66bae1c47d2c9bcab7ba0e8ac6]
+## 8.[^c-e2be0a66bae1c47d2c9bcab7ba0e8ac6]
 
 In Schedule 6 (determining eligibility for a reduction: persons who are not pensioners), in paragraph 5 (non-dependant deductions: persons who are not pensioners)—
 
@@ -131,7 +131,7 @@ In Schedule 6 (determining eligibility for a reduction: persons who are not pens
 - (d) in sub-paragraph (2)(b), for “£224.00”, “£389.00” and “£10.60” substitute “£236.00”, “£410.00” and “£10.90” respectively;
 - (e) in sub-paragraph (2)(c), for “£389.00”, “£484.00” and “£13.35” substitute “£410.00”, “£511.00” and “£13.70” respectively.
 
-## 9.[^key-380ceffc5ce890d3817a58a9e5bfb912]
+## 9.[^c-380ceffc5ce890d3817a58a9e5bfb912]
 
 In Schedule 7 (applicable amounts: persons who are not pensioners)—
 
@@ -151,11 +151,11 @@ In Schedule 7 (applicable amounts: persons who are not pensioners)—
   - (i) in paragraph 23, for “£30.60” substitute “£33.70”;
   - (ii) in paragraph 24, for “£40.60” substitute “£44.70”.
 
-## 10. Amendments to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013[^key-7e46431790930cab3c56900591301a76]
+## 10. Amendments to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013[^c-7e46431790930cab3c56900591301a76]
 
 The scheme set out in the Schedule to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013[^f00007] is amended in accordance with regulations 11 to 16.
 
-## 11.[^key-d2fbcfa83520a1bcfed0dd91c5e9b86b]
+## 11.[^c-d2fbcfa83520a1bcfed0dd91c5e9b86b]
 
 (1) Paragraph 9 (non-dependants) is amended in accordance with paragraphs (2) and (3).
 
@@ -168,7 +168,7 @@ The scheme set out in the Schedule to the Council Tax Reduction Schemes (Default
 
 (3) in sub-paragraph (3) for “2(a) to (c) and (f)” substitute “2(a) to (c), (f) and (g)”.
 
-## 12.[^key-0c568352e16ea3c4ce84c78416bd1975]
+## 12.[^c-0c568352e16ea3c4ce84c78416bd1975]
 
 (1) Paragraph 19(5) (persons treated as not being in Great Britain) is amended in accordance with paragraphs (2) to (4).
 
@@ -182,7 +182,7 @@ The scheme set out in the Schedule to the Council Tax Reduction Schemes (Default
 >   - (i) has been granted leave to enter or remain in the United Kingdom in accordance with immigration rules made under section 3(2) of the Immigration Act 1971 or
 >   - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act.
 
-## 13.[^key-33878ece8929924637cd692e27f3bb9d]
+## 13.[^c-33878ece8929924637cd692e27f3bb9d]
 
 (1) Paragraph 20 (persons subject to immigration control) is amended in accordance with paragraphs (2) and (3).
 
@@ -190,7 +190,7 @@ The scheme set out in the Schedule to the Council Tax Reduction Schemes (Default
 
 (3) Omit sub-paragraph (2).
 
-## 14.[^key-80378289337a07bdbdf7c90bf1adeb36]
+## 14.[^c-80378289337a07bdbdf7c90bf1adeb36]
 
 In paragraph 28 (non-dependant deductions: pensioners and persons who are not pensioners)—
 
@@ -200,7 +200,7 @@ In paragraph 28 (non-dependant deductions: pensioners and persons who are not pe
 - (d) in sub-paragraph (2)(b), for “£224.00”, “£389.00” and “£10.60” substitute “£236.00”, “£410.00” and “£10.90” respectively;
 - (e) in sub-paragraph (2)(c), for “£389.00”, “£484.00” and “£13.35” substitute “£410.00”, “£511.00” and “£13.70” respectively.
 
-## 15.[^key-d7867bb255999d960f708e32454f58cc]
+## 15.[^c-d7867bb255999d960f708e32454f58cc]
 
 In Schedule 2 (applicable amounts: pensioners)—
 
@@ -217,7 +217,7 @@ In Schedule 2 (applicable amounts: pensioners)—
   - (iii) in sub-paragraph (3), for “£68.04” substitute “£74.69”;
   - (iv) in sub-paragraph (4), for “£38.85” substitute “£42.75”.
 
-## 16.[^key-a0027609a5643c965258c8f9a73a66e0]
+## 16.[^c-a0027609a5643c965258c8f9a73a66e0]
 
 In Schedule 3 (applicable amounts: persons who are not pensioners)—
 
@@ -271,13 +271,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The reference in section 13A(8) to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), as amended by section 9 of, and paragraph 2(7)(c) of Schedule 1 to, the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1).
 
-[^key-aee32799b648138f85c67e10428bc37f]: Commencement: Reg. 1 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-aee32799b648138f85c67e10428bc37f]: Commencement: Reg. 1 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2013/3029 (W. 301)](https://www.legislation.gov.uk/wsi/2013/3029), amended by [S.I. 2014/66 (W. 6)](https://www.legislation.gov.uk/wsi/2014/66), [S.I. 2014/825 (W. 83)](https://www.legislation.gov.uk/wsi/2014/825), [S.I. 2015/44 (W. 3)](https://www.legislation.gov.uk/wsi/2015/44), [S.I. 2015/971](https://www.legislation.gov.uk/uksi/2015/971), [S.I. 2016/50 (W. 21)](https://www.legislation.gov.uk/wsi/2016/50), [S.I. 2017/46 (W. 20)](https://www.legislation.gov.uk/wsi/2017/46), [S.I. 2018/14 (W. 7)](https://www.legislation.gov.uk/wsi/2018/14), [S.I. 2019/11 (W. 5)](https://www.legislation.gov.uk/wsi/2019/11), [S.I. 2020/16 (W. 2)](https://www.legislation.gov.uk/wsi/2020/16), [S.I. 2021/34 (W. 9)](https://www.legislation.gov.uk/wsi/2021/34) and [S.I. 2022/51 (W. 19)](https://www.legislation.gov.uk/wsi/2022/51).
 
-[^key-00aee7ec8c65bc1de97a64b25054c2e7]: Commencement: Reg. 2 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-00aee7ec8c65bc1de97a64b25054c2e7]: Commencement: Reg. 2 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-d03c0df35b46c83beb67575ce551b336]: Commencement: Reg. 3 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-d03c0df35b46c83beb67575ce551b336]: Commencement: Reg. 3 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
 [^f00004]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -285,30 +285,30 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00006]: Footnote: https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ukraine-scheme . The Immigration Rules are laid under section 3(2) of the Immigration Act [1971 (c. 77)](https://www.legislation.gov.uk/ukpga/1971/77). The rules in relation to the Homes for Ukraine Sponsorship Scheme are set out at UKR 11.1 to UKR 20.2 of the appendix. “**Permission to enter**” and “**permission to stay**” are defined in rule 6.2 of the Immigration Rules: Introduction (https://www.gov.uk/guidance/immigration-rules/immigration-rules-introduction#intro6).
 
-[^key-b6944317e90b271d8f7948531816ee0c]: Commencement: Reg. 4 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-b6944317e90b271d8f7948531816ee0c]: Commencement: Reg. 4 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-0575e66a7c76e9a8422dadb67c5d769f]: Commencement: Reg. 5 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-0575e66a7c76e9a8422dadb67c5d769f]: Commencement: Reg. 5 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-b255941c9346bceb0a0e6c163981af5a]: Commencement: Reg. 6 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-b255941c9346bceb0a0e6c163981af5a]: Commencement: Reg. 6 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-dbccf18f9625156f53d5a06d04fdbe1a]: Commencement: Reg. 7 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-dbccf18f9625156f53d5a06d04fdbe1a]: Commencement: Reg. 7 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-e2be0a66bae1c47d2c9bcab7ba0e8ac6]: Commencement: Reg. 8 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-e2be0a66bae1c47d2c9bcab7ba0e8ac6]: Commencement: Reg. 8 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-380ceffc5ce890d3817a58a9e5bfb912]: Commencement: Reg. 9 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-380ceffc5ce890d3817a58a9e5bfb912]: Commencement: Reg. 9 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-7e46431790930cab3c56900591301a76]: Commencement: Reg. 10 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-7e46431790930cab3c56900591301a76]: Commencement: Reg. 10 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2013/3035 (W. 303)](https://www.legislation.gov.uk/wsi/2013/3035), amended by [S.I. 2014/66 (W. 6)](https://www.legislation.gov.uk/wsi/2014/66), [S.I. 2014/825 (W. 83)](https://www.legislation.gov.uk/wsi/2014/825), [S.I. 2015/44 (W. 3)](https://www.legislation.gov.uk/wsi/2015/44), [S.I. 2015/971](https://www.legislation.gov.uk/uksi/2015/971), [S.I. 2016/50 (W. 21)](https://www.legislation.gov.uk/wsi/2016/50), [S.I. 2017/46 (W. 20)](https://www.legislation.gov.uk/wsi/2017/46), [S.I. 2018/14 (W. 7)](https://www.legislation.gov.uk/wsi/2018/14), [S.I. 2019/11 (W. 5)](https://www.legislation.gov.uk/wsi/2019/11), [S.I. 2020/16 (W. 2)](https://www.legislation.gov.uk/wsi/2020/16), [S.I. 2021/34 (W. 9)](https://www.legislation.gov.uk/wsi/2021/34) and [S.I. 2022/51 (W. 19)](https://www.legislation.gov.uk/wsi/2022/51).
 
-[^key-d2fbcfa83520a1bcfed0dd91c5e9b86b]: Commencement: Reg. 11 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-d2fbcfa83520a1bcfed0dd91c5e9b86b]: Commencement: Reg. 11 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-0c568352e16ea3c4ce84c78416bd1975]: Commencement: Reg. 12 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-0c568352e16ea3c4ce84c78416bd1975]: Commencement: Reg. 12 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-33878ece8929924637cd692e27f3bb9d]: Commencement: Reg. 13 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-33878ece8929924637cd692e27f3bb9d]: Commencement: Reg. 13 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-80378289337a07bdbdf7c90bf1adeb36]: Commencement: Reg. 14 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-80378289337a07bdbdf7c90bf1adeb36]: Commencement: Reg. 14 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-d7867bb255999d960f708e32454f58cc]: Commencement: Reg. 15 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-d7867bb255999d960f708e32454f58cc]: Commencement: Reg. 15 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
 
-[^key-a0027609a5643c965258c8f9a73a66e0]: Commencement: Reg. 16 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)
+[^c-a0027609a5643c965258c8f9a73a66e0]: Commencement: Reg. 16 in force at 20.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/47/regulation/1/2)

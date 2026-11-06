@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. “Appropriate consent”: children[^key-27b687145f33cc9a3d83b8ba4d043118][^key-63a61da15a6e7cfe687b854d07240398]
+## 2. “Appropriate consent”: children[^c-27b687145f33cc9a3d83b8ba4d043118][^c-63a61da15a6e7cfe687b854d07240398]
 
 *Extent: E+W+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27b687145f33cc9a3d83b8ba4d043118]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/30/section/2) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
+[^c-27b687145f33cc9a3d83b8ba4d043118]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/30/section/2) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
 
-[^key-63a61da15a6e7cfe687b854d07240398]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/30/section/2) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-63a61da15a6e7cfe687b854d07240398]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/30/section/2) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))

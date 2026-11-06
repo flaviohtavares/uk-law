@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendment of the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^key-b76b4df103e3b38ff3ec9043a3f4ba59]
+## 5. Amendment of the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^c-b76b4df103e3b38ff3ec9043a3f4ba59]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b76b4df103e3b38ff3ec9043a3f4ba59]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1071/regulation/5) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-b76b4df103e3b38ff3ec9043a3f4ba59]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1071/regulation/5) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2000/617](https://www.legislation.gov.uk/uksi/2000/617), amended by [S.I. 2012/3094](https://www.legislation.gov.uk/uksi/2012/3094); there are other amending instruments but none is relevant.

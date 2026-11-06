@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Right to reject[^key-066745dba3782a8b80e6f0109ff4014c]
+## 20. Right to reject[^c-066745dba3782a8b80e6f0109ff4014c]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-066745dba3782a8b80e6f0109ff4014c]: Commencement: S. 20 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-066745dba3782a8b80e6f0109ff4014c]: Commencement: S. 20 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

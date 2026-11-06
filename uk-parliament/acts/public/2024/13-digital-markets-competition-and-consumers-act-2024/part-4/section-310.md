@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310. Transitional provision relating to this Chapter[^key-e38eed21b355e5a48283fd3b521f870f][^key-249de2cf03790870333b9c394d6a29c6]
+## 310. Transitional provision relating to this Chapter[^c-e38eed21b355e5a48283fd3b521f870f][^c-249de2cf03790870333b9c394d6a29c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ whichever occurs first.
 
 ## Annotations
 
-[^key-e38eed21b355e5a48283fd3b521f870f]: Commencement: S. 310 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-e38eed21b355e5a48283fd3b521f870f]: Commencement: S. 310 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-249de2cf03790870333b9c394d6a29c6]: Commencement: [S. 310](https://www.legislation.gov.uk/ukpga/2024/13/section/310) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/284/regulation/4))
+[^c-249de2cf03790870333b9c394d6a29c6]: Commencement: [S. 310](https://www.legislation.gov.uk/ukpga/2024/13/section/310) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/284/regulation/4))

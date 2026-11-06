@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Provision of crematorium: local authority[^key-e4b118d8e2e05c64b6390ff4b724bb81]
+## 46. Provision of crematorium: local authority[^c-e4b118d8e2e05c64b6390ff4b724bb81]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4b118d8e2e05c64b6390ff4b724bb81]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2016/20/section/46) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-e4b118d8e2e05c64b6390ff4b724bb81]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2016/20/section/46) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

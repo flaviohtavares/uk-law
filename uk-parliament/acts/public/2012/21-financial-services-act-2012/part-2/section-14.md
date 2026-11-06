@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Approval for particular arrangements[^key-030c0f1f0ca47707b733ed15c99bba63][^key-7f27a0a7d1b0a7225e745197898ef82e]
+## 14. Approval for particular arrangements[^c-030c0f1f0ca47707b733ed15c99bba63][^c-7f27a0a7d1b0a7225e745197898ef82e]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,12 +93,12 @@ summary: ''
 >
 > (1C) Before one regulator withdraws an approval given by the other regulator, it must consult the other regulator.
 
-(4)[^key-fef45a213412868831aa0b5be2d558a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fef45a213412868831aa0b5be2d558a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-030c0f1f0ca47707b733ed15c99bba63]: Commencement: S. 14 in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-030c0f1f0ca47707b733ed15c99bba63]: Commencement: S. 14 in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-7f27a0a7d1b0a7225e745197898ef82e]: Commencement: S. 14 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-7f27a0a7d1b0a7225e745197898ef82e]: Commencement: S. 14 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-fef45a213412868831aa0b5be2d558a8]: Textual amendment: [S. 14(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/14/4) omitted (7.3.2016) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/3/paragraph/18); [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/b) (with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
+[^c-fef45a213412868831aa0b5be2d558a8]: Textual amendment: [S. 14(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/14/4) omitted (7.3.2016) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/3/paragraph/18); [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/b) (with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))

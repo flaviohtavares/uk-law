@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Allocation of expenses to be paid from the relevant funds[^key-39a9df5394075c6b801d31363bb27cbf]
+## 98. Allocation of expenses to be paid from the relevant funds[^c-39a9df5394075c6b801d31363bb27cbf]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The administrator must set out, in the distribution plan under rule 109, how the
 
 ## Annotations
 
-[^key-39a9df5394075c6b801d31363bb27cbf]: Commencement: Rule 98 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-39a9df5394075c6b801d31363bb27cbf]: Commencement: Rule 98 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

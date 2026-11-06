@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120.[^key-1cbb07b4a112b75ecd7475bc4b4c64e4]
+## 120.[^c-1cbb07b4a112b75ecd7475bc4b4c64e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In Article 8(2)—
 
 ## Annotations
 
-[^key-1cbb07b4a112b75ecd7475bc4b4c64e4]: Commencement: Reg. 120 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1cbb07b4a112b75ecd7475bc4b4c64e4]: Commencement: Reg. 120 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

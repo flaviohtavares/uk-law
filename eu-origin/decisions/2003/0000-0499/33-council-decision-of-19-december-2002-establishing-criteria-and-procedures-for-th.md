@@ -33,7 +33,7 @@ establishing criteria and procedures for the acceptance of waste at landfills pu
 
 (2003/33/EC)
 
-[^key-c0155afefb286e16ebdbe8353cc271c9]
+[^c-c0155afefb286e16ebdbe8353cc271c9]
 
 THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -73,7 +73,7 @@ The measures provided for in this Decision are not in accordance with the opinio
 
 HAS ADOPTED THIS DECISION:
 
-**Article A1.**[^key-d07bb392319b2aa2c300295beeec0e87] (1.) In this Decision—
+**Article A1.**[^c-d07bb392319b2aa2c300295beeec0e87] (1.) In this Decision—
 
 - (a) “**appropriate agency**” means—
   - (i) in relation to England, the Environment Agency;
@@ -163,7 +163,7 @@ HAS ADOPTED THIS DECISION:
 6A. Article 6(a) is to be read as if—
 
 - (a) in the first paragraph, in the second sentence, for “may” there were substituted “does”;
-- (b) in the second paragraph, for the words from “of [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” to the end, there were substituted “set out in Part 1 of Schedule 1 to the Waste (England and Wales) Regulations 2011, or any objectives in assimilated[^key-669248309d4d7684ebb34d2d3e8f4ad5] law relating to the increase of preparing for re-use and recycling”.
+- (b) in the second paragraph, for the words from “of [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” to the end, there were substituted “set out in Part 1 of Schedule 1 to the Waste (England and Wales) Regulations 2011, or any objectives in assimilated[^c-669248309d4d7684ebb34d2d3e8f4ad5] law relating to the increase of preparing for re-use and recycling”.
 
 (7.) Article 9 is to be read as if, in the words before point (a), the words from “Specifying” to “Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61),” were omitted.
 
@@ -199,7 +199,7 @@ HAS ADOPTED THIS DECISION:
 (3.) Article 2 is to be read as if—
 
 - (a) in paragraph 2—
-  - (i) in the words before point (a), for “other Community legislation” there were substituted “assimilated[^key-1cc54bcdbef65f01ffe1df21ff5d5b6a] law”;
+  - (i) in the words before point (a), for “other Community legislation” there were substituted “assimilated[^c-1cc54bcdbef65f01ffe1df21ff5d5b6a] law”;
   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
   - (iii) in point (d), as it extends to England and Wales, for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there were substituted “ the Mining Waste Directive ”;
   - (iv) for point (d), as it extends to Northern Ireland, there were substituted—
@@ -230,7 +230,7 @@ HAS ADOPTED THIS DECISION:
 
   > 1A. Any decision as to whether a substance or object has ceased to be waste must be made—
   >
-  > - (a) in accordance with any regulations or assimilated direct[^key-acc6bac93ab545a1f8220a52571f3423] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (a) in accordance with any regulations or assimilated direct[^c-acc6bac93ab545a1f8220a52571f3423] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
 
   ;
@@ -282,27 +282,27 @@ HAS ADOPTED THIS DECISION:
 
 (5.) In paragraph 4(b), “**the WFD Regulations**” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
 
-**Article 1.** (1.)[^key-07405ec32019209cca63bc64a3fc0279] This Decision establishes the criteria and procedures for the acceptance of waste at landfills in accordance with the principles set out in Directive 1999/31/EC and in particular Annex II thereto.
+**Article 1.** (1.)[^c-07405ec32019209cca63bc64a3fc0279] This Decision establishes the criteria and procedures for the acceptance of waste at landfills in accordance with the principles set out in Directive 1999/31/EC and in particular Annex II thereto.
 
-(2.)[^key-998f17007d32baaccb95a32cd2f3b26b] This Decision does not extend to Scotland.
+(2.)[^c-998f17007d32baaccb95a32cd2f3b26b] This Decision does not extend to Scotland.
 
-**Article 2.** The appropriate agency[^key-3aa6e81b2ecd4e7f97a488495fbc4c8c] shall apply the procedure as set out in section 1 of the Annex to this Decision to determine the acceptability of waste at landfills.
+**Article 2.** The appropriate agency[^c-3aa6e81b2ecd4e7f97a488495fbc4c8c] shall apply the procedure as set out in section 1 of the Annex to this Decision to determine the acceptability of waste at landfills.
 
-**Article 3.** The appropriate agency[^key-4aea257d53d93b543edc62e4b469096b] shall ensure that waste is accepted at a landfill only if it fulfils the acceptance criteria of the relevant landfill class as set out in section 2 of the Annex to this Decision.
+**Article 3.** The appropriate agency[^c-4aea257d53d93b543edc62e4b469096b] shall ensure that waste is accepted at a landfill only if it fulfils the acceptance criteria of the relevant landfill class as set out in section 2 of the Annex to this Decision.
 
 **Article 4.** The sampling and testing methods listed in section 3 of the Annex to this Decision shall be used for determining the acceptability of waste at landfills.
 
-**Article 5.** [^key-4ca18c99432d3820e50687ad94aeb72b]... The criteria and procedures as set out in the Annex to this Decision shall not apply to waste resulting from prospecting, extraction, treatment and storage of mineral resources nor from the working of quarries, when they are deposited on-site. [^key-6357064cf79a9f58c57d53668ef143aa]...
+**Article 5.** [^c-4ca18c99432d3820e50687ad94aeb72b]... The criteria and procedures as set out in the Annex to this Decision shall not apply to waste resulting from prospecting, extraction, treatment and storage of mineral resources nor from the working of quarries, when they are deposited on-site. [^c-6357064cf79a9f58c57d53668ef143aa]...
 
 **No longer in force.**
 
-**Article 6.**[^key-6cb95dea201793ee39fdcbca4d869aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-6cb95dea201793ee39fdcbca4d869aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-6cb95dea201793ee39fdcbca4d869aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-6cb95dea201793ee39fdcbca4d869aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 8.**[^key-6cb95dea201793ee39fdcbca4d869aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-6cb95dea201793ee39fdcbca4d869aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 19 December 2002.
 
@@ -318,7 +318,7 @@ Introduction
 
 This Annex lays down the uniform waste classification and acceptance procedure according to Annex II to Directive 1999/31/EC on the landfill of waste (the "Landfill Directive").
 
-[^key-e4437dd0e698670173f8676f0af2dd6b]...
+[^c-e4437dd0e698670173f8676f0af2dd6b]...
 
 Section 1 of this Annex lays down the procedure to determine the acceptability of waste at landfills. This procedure consists of the basic characterisation, compliance testing and on-site verification as defined in section 3 of Annex II to the Landfill Directive.
 
@@ -328,7 +328,7 @@ Section 3 of this Annex lists the methods to be used for the sampling and testin
 
 Appendix A defines the safety assessment to be carried out for underground storage.
 
-[^key-e4437dd0e698670173f8676f0af2dd6b]...
+[^c-e4437dd0e698670173f8676f0af2dd6b]...
 
 1\.
 
@@ -353,7 +353,7 @@ If the basic characterisation of waste shows that the waste fulfils the criteria
 
 The producer of the waste or, in default, the person responsible for its management, is responsible for ensuring that the characterisation information is correct.
 
-The operator shall keep records of the required information for a period to be defined by the appropriate authority[^key-42e18ab20b02325ac657ca459656988e].
+The operator shall keep records of the required information for a period to be defined by the appropriate authority[^c-42e18ab20b02325ac657ca459656988e].
 
 1.1.2.
 
@@ -364,8 +364,8 @@ Fundamental requirements for basic characterisation of the waste
 - ((c)) Description of the waste treatment applied in compliance with Article 6(a) of the Landfill Directive, or a statement of reasons why such treatment is not considered necessary
 - ((d)) Data on the composition of the waste and the leaching behaviour, where relevant
 - ((e)) Appearance of the waste (smell, colour, physical form)
-- ((f)) Code according to Commission Decision 2000/532/EC[^key-bf605c7c671e09c6ea96d3da10f1915d]
-- ((g)) For hazardous waste in case of mirror entries: the relevant hazard properties according to Annex 3 to the Waste Framework Directive[^key-2d734fd172c5d81d48d3c98d505e18e5]
+- ((f)) Code according to Commission Decision 2000/532/EC[^c-bf605c7c671e09c6ea96d3da10f1915d]
+- ((g)) For hazardous waste in case of mirror entries: the relevant hazard properties according to Annex 3 to the Waste Framework Directive[^c-2d734fd172c5d81d48d3c98d505e18e5]
 - ((h)) Information to prove that the waste does not fall under the exclusions of Article 5(3) of the Landfill Directive
 - ((i)) The landfill class at which the waste may be accepted
 - ((j)) If necessary, additional precautions to be taken at the landfill
@@ -435,7 +435,7 @@ Wastes that are exempted from the testing requirements for basic characterisatio
 
 Compliance testing shall be carried out at least once a year and the operator must, in any event, ensure that compliance testing is carried out in the scope and frequency determined by basic characterisation.
 
-Records of the test results shall be kept for a period that will be determined by the appropriate authority[^key-dcaf11f81b91f6145046337ca26bc366].
+Records of the test results shall be kept for a period that will be determined by the appropriate authority[^c-dcaf11f81b91f6145046337ca26bc366].
 
 1.3.
 
@@ -447,9 +447,9 @@ For waste deposited by the waste producer at a landfill in his control, this ver
 
 The waste may be accepted at the landfill, if it is the same as that which has been subjected to basic characterisation and compliance testing and which is described in the accompanying documents. If this is not the case, the waste must not be accepted.
 
-The appropriate authority[^key-73e8514f06b48d648d88406142dc0930] shall determine the testing requirements for on-site verification, including where appropriate rapid test methods.
+The appropriate authority[^c-73e8514f06b48d648d88406142dc0930] shall determine the testing requirements for on-site verification, including where appropriate rapid test methods.
 
-Upon delivery, samples shall be taken periodically. The samples taken shall be kept after acceptance of the waste for a period that will be determined by the appropriate authority[^key-d83fafa3f2fe4ecc535f6fe7bde34b49] (not less than one month; see Article 11(1)(b)[^key-3f101d36b8bca395debd67aa14490f57] of the Landfill Directive.
+Upon delivery, samples shall be taken periodically. The samples taken shall be kept after acceptance of the waste for a period that will be determined by the appropriate authority[^c-d83fafa3f2fe4ecc535f6fe7bde34b49] (not less than one month; see Article 11(1)(b)[^c-3f101d36b8bca395debd67aa14490f57] of the Landfill Directive.
 
 2\.
 
@@ -462,9 +462,9 @@ In certain circumstances, up to three times higher limit values for specific par
 - the competent authority gives a permit for specified wastes on a case-by-case basis for the recipient landfill, taking into account the characteristics of the landfill and its surroundings, and
 - emissions (including leachate) from the landfill, taking into account the limits for those specific parameters in this section, will present no additional risk to the environment according to a risk assessment.
 
-The Secretary of State must publish information on the annual number of permits issued in relation to England under this provision. The Welsh Ministers must publish information on the annual number of permits issued in relation to Wales under this provision. The first information under the first and second sentences must be published before 1st April 2022. Subsequent information must be published at intervals not exceeding 3 years.[^key-d877b58917277f65c339e608b280d95b]
+The Secretary of State must publish information on the annual number of permits issued in relation to England under this provision. The Welsh Ministers must publish information on the annual number of permits issued in relation to Wales under this provision. The first information under the first and second sentences must be published before 1st April 2022. Subsequent information must be published at intervals not exceeding 3 years.[^c-d877b58917277f65c339e608b280d95b]
 
-The appropriate authority[^key-98b0b115aa931895b1946f606ed3070b] shall define criteria for compliance with the limit values set out in this section.
+The appropriate authority[^c-98b0b115aa931895b1946f606ed3070b] shall define criteria for compliance with the limit values set out in this section.
 
 2.1.
 
@@ -516,7 +516,7 @@ Limit values for waste acceptable at landfills for inert waste
 
 Leaching limit values
 
-The following leaching limit values apply for waste acceptable at landfills for inert waste, calculated at liquid to solid ratios (L/S) of 2 l/kg and 10 l/kg for total release and directly expressed in mg/l for C0 (the first eluate of percolation test at L/S = 0,1 l/kg). The appropriate authority[^key-59720051c97f76ad12c2ea99671dbdae] shall determine which of the test methods (see section 3) and corresponding limit values in the table should be used.
+The following leaching limit values apply for waste acceptable at landfills for inert waste, calculated at liquid to solid ratios (L/S) of 2 l/kg and 10 l/kg for total release and directly expressed in mg/l for C0 (the first eluate of percolation test at L/S = 0,1 l/kg). The appropriate authority[^c-59720051c97f76ad12c2ea99671dbdae] shall determine which of the test methods (see section 3) and corresponding limit values in the table should be used.
 
 <table>
 <thead>
@@ -572,13 +572,13 @@ In addition to the leaching limit values under section 2.1.2.1, inert wastes mus
 </tbody>
 </table>
 
-[^f10005][^key-44fe3ec9d2abfcaff3f7446c3dc6b4be]
+[^f10005][^c-44fe3ec9d2abfcaff3f7446c3dc6b4be]
 
 2.2.
 
 Criteria for landfills for non-hazardous waste
 
-The appropriate authority[^key-163a1b48cc5eb9b14c6f25f6c517cf3c] may create subcategories of landfills for non-hazardous waste.
+The appropriate authority[^c-163a1b48cc5eb9b14c6f25f6c517cf3c] may create subcategories of landfills for non-hazardous waste.
 
 In this Annex limit values are laid down only for non-hazardous waste, which is landfilled in the same cell with stable, non-reactive hazardous waste.
 
@@ -586,7 +586,7 @@ In this Annex limit values are laid down only for non-hazardous waste, which is 
 
 Wastes acceptable at landfills for non-hazardous waste without testing
 
-Municipal waste as defined in Article 3(2b) of the Waste Framework Directive[^key-85496b38a4c3c7fd604a5d8f3568c2cf] that is classified as non-hazardous in Chapter 20 of the Commission[^key-99d1e49f0778503e8c8bc8fd833b6248] [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), separately collected non-hazardous fractions of household wastes and the same non-hazardous materials from other origins can be admitted without testing at landfills for non-hazardous waste.
+Municipal waste as defined in Article 3(2b) of the Waste Framework Directive[^c-85496b38a4c3c7fd604a5d8f3568c2cf] that is classified as non-hazardous in Chapter 20 of the Commission[^c-99d1e49f0778503e8c8bc8fd833b6248] [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), separately collected non-hazardous fractions of household wastes and the same non-hazardous materials from other origins can be admitted without testing at landfills for non-hazardous waste.
 
 The wastes may not be admitted if they have not been subjected to prior treatment according to Article 6(a) of the Landfill Directive, or if they are contaminated to an extent which increases the risk associated with the waste sufficiently to justify their disposal in other facilities.
 
@@ -596,7 +596,7 @@ They may not be accepted in cells, where stable, non-reactive hazardous waste is
 
 Limit values for non-hazardous waste
 
-The following limit values apply to granular non-hazardous waste accepted in the same cell as stable, non-reactive hazardous waste, calculated at L/S = 2 and 10 l/kg for total release and directly expressed in mg/l for C0 (in the first eluate of percolation test at L/S = 0,1 l/kg). Granular wastes include all wastes that are not monolithic. The appropriate authority[^key-a4223720f60ba85ed4229edfe2b35d88] shall determine which of the test methods (see section 3) and corresponding limit values in the table should be used.
+The following limit values apply to granular non-hazardous waste accepted in the same cell as stable, non-reactive hazardous waste, calculated at L/S = 2 and 10 l/kg for total release and directly expressed in mg/l for C0 (in the first eluate of percolation test at L/S = 0,1 l/kg). Granular wastes include all wastes that are not monolithic. The appropriate authority[^c-a4223720f60ba85ed4229edfe2b35d88] shall determine which of the test methods (see section 3) and corresponding limit values in the table should be used.
 
 <table>
 <thead>
@@ -629,7 +629,7 @@ The following limit values apply to granular non-hazardous waste accepted in the
 
 [^f10006][^f10007]
 
-The appropriate authority[^key-fc229f2dad0c4be2016d6d3eba797a92] shall set criteria for monolithic waste to provide the same level of environmental protection given by the above limit values.
+The appropriate authority[^c-fc229f2dad0c4be2016d6d3eba797a92] shall set criteria for monolithic waste to provide the same level of environmental protection given by the above limit values.
 
 2.2.3.
 
@@ -651,7 +651,7 @@ Stable, non-reactive means that the leaching behaviour of the waste will not cha
 
 Leaching limit values
 
-The following leaching limit values apply to granular hazardous waste acceptable at landfills for non-hazardous waste, calculated at L/S = 2 and 10 l/kg for total release and directly expressed in mg/l for C0 ( the first eluate of percolation test at L/S = 0,1 l/kg). Granular wastes include all wastes that are not monolithic. The appropriate authority[^key-8902d5ea3f14d1ce835417f1b3f6accb] shall determine which of the test methods and corresponding limit values should be used.
+The following leaching limit values apply to granular hazardous waste acceptable at landfills for non-hazardous waste, calculated at L/S = 2 and 10 l/kg for total release and directly expressed in mg/l for C0 ( the first eluate of percolation test at L/S = 0,1 l/kg). Granular wastes include all wastes that are not monolithic. The appropriate authority[^c-8902d5ea3f14d1ce835417f1b3f6accb] shall determine which of the test methods and corresponding limit values should be used.
 
 <table>
 <thead>
@@ -684,7 +684,7 @@ The following leaching limit values apply to granular hazardous waste acceptable
 
 [^f10008][^f10009]
 
-The appropriate authority[^key-29076b5ca48ce63613692e97e0e641b6] shall set criteria for monolithic waste to provide the same level of environmental protection given by the above limit values.
+The appropriate authority[^c-29076b5ca48ce63613692e97e0e641b6] shall set criteria for monolithic waste to provide the same level of environmental protection given by the above limit values.
 
 2.3.2.
 
@@ -708,7 +708,7 @@ In addition to the leaching limit values under section 2.3.1, granular wastes mu
 
 [^f10010]
 
-The appropriate authority[^key-401b9ffd034701613794c5b00d36aadd] must set criteria to ensure that the waste will have sufficient physical stability and bearing capacity.
+The appropriate authority[^c-401b9ffd034701613794c5b00d36aadd] must set criteria to ensure that the waste will have sufficient physical stability and bearing capacity.
 
 The appropriate authority shall set criteria to ensure that hazardous monolithic wastes are stable and non-reactive before acceptance in landfills for non-hazardous waste.
 
@@ -738,7 +738,7 @@ Criteria for waste acceptable at landfills for hazardous waste
 
 Leaching limit values
 
-The following leaching limit values apply for granular waste acceptable at landfills for hazardous waste, calculated at L/S = 2 and 10 l/kg for total release and directly expressed in mg/l for C0 (in the first eluate of percolation test at L/S = 0,1 l/kg). Granular wastes include all wastes that are not monolithic. The appropriate authority[^key-ffc383509a8b20ae63cbbdeee8e59207] shall determine which of the test methods and corresponding limit values in the table should be used.
+The following leaching limit values apply for granular waste acceptable at landfills for hazardous waste, calculated at L/S = 2 and 10 l/kg for total release and directly expressed in mg/l for C0 (in the first eluate of percolation test at L/S = 0,1 l/kg). Granular wastes include all wastes that are not monolithic. The appropriate authority[^c-ffc383509a8b20ae63cbbdeee8e59207] shall determine which of the test methods and corresponding limit values in the table should be used.
 
 <table>
 <thead>
@@ -771,7 +771,7 @@ The following leaching limit values apply for granular waste acceptable at landf
 
 [^f10011][^f10012]
 
-The appropriate authority[^key-b7b061ef3223006e4a1b6e4cb437f6eb] shall set criteria for monolithic waste to provide the same level of environmental protection given by the above limit values.
+The appropriate authority[^c-b7b061ef3223006e4a1b6e4cb437f6eb] shall set criteria for monolithic waste to provide the same level of environmental protection given by the above limit values.
 
 2.4.2.
 
@@ -813,12 +813,12 @@ SAMPLING AND TEST METHODS
 
 Sampling and testing for basic characterisation and compliance testing shall be carried out by independent and qualified persons and institutions. Laboratories shall have proven experience in waste testing and analysis and an efficient quality assurance system.
 
-The appropriate authority[^key-13ac85f253c8b930a8e527da9cd34180] may decide that:
+The appropriate authority[^c-13ac85f253c8b930a8e527da9cd34180] may decide that:
 
 - 1.. the sampling may be carried out by producers of waste or operators under the condition that sufficient supervision of independent and qualified persons or institutions ensures that the objectives set out in this Decision are achieved;
 - 2.. the testing of the waste may be carried out by producers of waste or operators if they have set up an appropriate quality assurance system including periodic independent checking.
 
-As long as a CEN standard is not available as formal EN, the appropriate authority[^key-7b564c2bca23f06b32f2c3c72dded591] will use either national standards or procedures or the draft CEN standard, when it has reached the prEN stage.
+As long as a CEN standard is not available as formal EN, the appropriate authority[^c-7b564c2bca23f06b32f2c3c72dded591] will use either national standards or procedures or the draft CEN standard, when it has reached the prEN stage.
 
 The following methods shall be used.
 
@@ -877,7 +877,7 @@ The importance of the geological barrier
 
 Isolation of wastes from the biosphere is the ultimate objective for the final disposal of wastes in underground storage. The wastes, the geological barrier and the cavities, including any engineered structures constitute a system that together with all other technical aspects must fulfil the corresponding requirements.
 
-[^key-4e3c9f7d901376c110333c95b2c9c154]...
+[^c-4e3c9f7d901376c110333c95b2c9c154]...
 
 1.2.
 
@@ -1013,7 +1013,7 @@ Lists of waste suitable for underground storage
 
 Inert wastes, hazardous and non-hazardous wastes, not excluded by sections 2.1 and 2.2 may be suitable for underground storage.
 
-The appropriate agency[^key-284b10011a1f6e4cda05eb9da8fd7dad] may produce lists of wastes acceptable at underground storage facilities in accordance with the classes given in Article 4 of the Landfill Directive.
+The appropriate agency[^c-284b10011a1f6e4cda05eb9da8fd7dad] may produce lists of wastes acceptable at underground storage facilities in accordance with the classes given in Article 4 of the Landfill Directive.
 
 2.3.
 
@@ -1069,59 +1069,59 @@ In the safety philosophy of underground disposal of wastes, the main concept is 
 
 In the case of hard-rock storage, total containment is not possible. In this case, an underground storage needs to be constructed so that natural attenuation of the surrounding strata mediates the effect of pollutants to the extent that they have no irreversible negative effects on the environment. This means that the capacity of the near environment to attenuate and degrade pollutants will determine the acceptability of a release from such a facility.
 
-[^key-2d2a51647c8f646a6d4d9ea97dec60f5]...
+[^c-2d2a51647c8f646a6d4d9ea97dec60f5]...
 
 Gas formation may occur in deep storage in hard rock due to long-term deterioration of waste, packaging and engineered structures. Therefore, this must be considered in the design of premises for a deep storage in hard rock.
 
-[^key-76d88238ebbf7d4ce33b7c0710ca4ffb]Appendix B
+[^c-76d88238ebbf7d4ce33b7c0710ca4ffb]Appendix B
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0155afefb286e16ebdbe8353cc271c9]: Modification: Decision: power to modify conferred (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2022/190/regulation/5/2)
+[^c-c0155afefb286e16ebdbe8353cc271c9]: Modification: Decision: power to modify conferred (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2022/190/regulation/5/2)
 
-[^key-d07bb392319b2aa2c300295beeec0e87]: Textual amendment: [Arts. A1-A3](https://www.legislation.gov.uk/eudn/2003/33/article/A1) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(2)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/2) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(11)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d07bb392319b2aa2c300295beeec0e87]: Textual amendment: [Arts. A1-A3](https://www.legislation.gov.uk/eudn/2003/33/article/A1) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(2)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/2) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(11)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-669248309d4d7684ebb34d2d3e8f4ad5]: Textual amendment: Word in [Art. A1(6A)(b)](https://www.legislation.gov.uk/eudn/2003/33/article/A1/6A/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 63(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/63/2/a)
+[^c-669248309d4d7684ebb34d2d3e8f4ad5]: Textual amendment: Word in [Art. A1(6A)(b)](https://www.legislation.gov.uk/eudn/2003/33/article/A1/6A/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 63(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/63/2/a)
 
-[^key-1cc54bcdbef65f01ffe1df21ff5d5b6a]: Textual amendment: Word in [Art. A2(3)(a)(i)](https://www.legislation.gov.uk/eudn/2003/33/article/A2/3/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 63(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/63/2/b)
+[^c-1cc54bcdbef65f01ffe1df21ff5d5b6a]: Textual amendment: Word in [Art. A2(3)(a)(i)](https://www.legislation.gov.uk/eudn/2003/33/article/A2/3/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 63(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/63/2/b)
 
-[^key-acc6bac93ab545a1f8220a52571f3423]: Textual amendment: Words in [Art. A2(5)(b)](https://www.legislation.gov.uk/eudn/2003/33/article/A2/5/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 63(3)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/63/3)
+[^c-acc6bac93ab545a1f8220a52571f3423]: Textual amendment: Words in [Art. A2(5)(b)](https://www.legislation.gov.uk/eudn/2003/33/article/A2/5/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 63(3)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/63/3)
 
-[^key-07405ec32019209cca63bc64a3fc0279]: Textual amendment: Art. 1 renumbered as Art. 1(1) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(3)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07405ec32019209cca63bc64a3fc0279]: Textual amendment: Art. 1 renumbered as Art. 1(1) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(3)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-998f17007d32baaccb95a32cd2f3b26b]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2003/33/article/1/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(3)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-998f17007d32baaccb95a32cd2f3b26b]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2003/33/article/1/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(3)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3aa6e81b2ecd4e7f97a488495fbc4c8c]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2003/33/article/2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3aa6e81b2ecd4e7f97a488495fbc4c8c]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2003/33/article/2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4aea257d53d93b543edc62e4b469096b]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2003/33/article/3) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4aea257d53d93b543edc62e4b469096b]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2003/33/article/3) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4ca18c99432d3820e50687ad94aeb72b]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eudn/2003/33/article/5) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(5)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ca18c99432d3820e50687ad94aeb72b]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eudn/2003/33/article/5) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(5)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6357064cf79a9f58c57d53668ef143aa]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eudn/2003/33/article/5) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(5)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6357064cf79a9f58c57d53668ef143aa]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eudn/2003/33/article/5) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(5)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6cb95dea201793ee39fdcbca4d869aba]: Textual amendment: [Arts. 6-8](https://www.legislation.gov.uk/eudn/2003/33/article/6) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(6)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6cb95dea201793ee39fdcbca4d869aba]: Textual amendment: [Arts. 6-8](https://www.legislation.gov.uk/eudn/2003/33/article/6) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(6)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e4437dd0e698670173f8676f0af2dd6b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2003/33/annex) introduction omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4437dd0e698670173f8676f0af2dd6b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2003/33/annex) introduction omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42e18ab20b02325ac657ca459656988e]: Textual amendment: Words in [Annex section 1.1.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.1.1) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-42e18ab20b02325ac657ca459656988e]: Textual amendment: Words in [Annex section 1.1.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.1.1) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf605c7c671e09c6ea96d3da10f1915d]: Textual amendment: Words in [Annex section 1.1.2(f)](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.1.2/f) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf605c7c671e09c6ea96d3da10f1915d]: Textual amendment: Words in [Annex section 1.1.2(f)](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.1.2/f) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d734fd172c5d81d48d3c98d505e18e5]: Textual amendment: Words in [Annex section 1.1.2(g)](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.1.2/g) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d734fd172c5d81d48d3c98d505e18e5]: Textual amendment: Words in [Annex section 1.1.2(g)](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.1.2/g) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dcaf11f81b91f6145046337ca26bc366]: Textual amendment: Words in [Annex section 1.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dcaf11f81b91f6145046337ca26bc366]: Textual amendment: Words in [Annex section 1.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-73e8514f06b48d648d88406142dc0930]: Textual amendment: Words in [Annex section 1.3](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.3) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(c)(i)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73e8514f06b48d648d88406142dc0930]: Textual amendment: Words in [Annex section 1.3](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.3) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(c)(i)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d83fafa3f2fe4ecc535f6fe7bde34b49]: Textual amendment: Words in [Annex section 1.3](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.3) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/c/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d83fafa3f2fe4ecc535f6fe7bde34b49]: Textual amendment: Words in [Annex section 1.3](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.3) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/c/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3f101d36b8bca395debd67aa14490f57]: Textual amendment: Words in [Annex section 1.3](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.3) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/c/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f101d36b8bca395debd67aa14490f57]: Textual amendment: Words in [Annex section 1.3](https://www.legislation.gov.uk/eudn/2003/33/annex/section/1.3) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/c/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d877b58917277f65c339e608b280d95b]: Textual amendment: Words in [Annex section 2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d877b58917277f65c339e608b280d95b]: Textual amendment: Words in [Annex section 2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-98b0b115aa931895b1946f606ed3070b]: Textual amendment: Words in [Annex section 2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98b0b115aa931895b1946f606ed3070b]: Textual amendment: Words in [Annex section 2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f10001]: Footnote: \*
 
@@ -1131,7 +1131,7 @@ Gas formation may occur in deep storage in hard rock due to long-term deteriorat
 
     - No C & D waste from constructions, treated, covered or painted with materials, containing dangerous substances in significant amounts.
 
-[^key-59720051c97f76ad12c2ea99671dbdae]: Textual amendment: Words in [Annex section 2.1.2.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.1.2.1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59720051c97f76ad12c2ea99671dbdae]: Textual amendment: Words in [Annex section 2.1.2.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.1.2.1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f10002]: Footnote: \*
 
@@ -1149,15 +1149,15 @@ Gas formation may occur in deep storage in hard rock due to long-term deteriorat
 
     In the case of soils, a higher limit value may be admitted by the competent authority, provided the DOC value of 500mg/kg is achieved at L/S = 10 l/kg, either at the soil's own pH or at a pH value between 7,5 and 8,0.
 
-[^key-44fe3ec9d2abfcaff3f7446c3dc6b4be]: Textual amendment: Words in [Annex section 2.1.2.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.1.2.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(iii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44fe3ec9d2abfcaff3f7446c3dc6b4be]: Textual amendment: Words in [Annex section 2.1.2.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.1.2.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(iii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-163a1b48cc5eb9b14c6f25f6c517cf3c]: Textual amendment: Words in [Annex section 2.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(iv)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-163a1b48cc5eb9b14c6f25f6c517cf3c]: Textual amendment: Words in [Annex section 2.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(iv)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85496b38a4c3c7fd604a5d8f3568c2cf]: Textual amendment: Words in Annex section 2.2.1 substituted (31.12.2020) by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620), [reg. 15(7)(d)(v)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/v/aa) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(11)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/11/c))
+[^c-85496b38a4c3c7fd604a5d8f3568c2cf]: Textual amendment: Words in Annex section 2.2.1 substituted (31.12.2020) by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620), [reg. 15(7)(d)(v)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/v/aa) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(11)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/11/c))
 
-[^key-99d1e49f0778503e8c8bc8fd833b6248]: Textual amendment: Words in Annex section 2.2.1 substituted (31.12.2020) by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620), [reg. 15(7)(d)(v)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/v/bb) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(11)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/11/c))
+[^c-99d1e49f0778503e8c8bc8fd833b6248]: Textual amendment: Words in Annex section 2.2.1 substituted (31.12.2020) by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620), [reg. 15(7)(d)(v)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/v/bb) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(11)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/11/c))
 
-[^key-a4223720f60ba85ed4229edfe2b35d88]: Textual amendment: Words in [Annex section 2.2.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.2.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(vi)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/vi/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4223720f60ba85ed4229edfe2b35d88]: Textual amendment: Words in [Annex section 2.2.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.2.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(vi)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/vi/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f10006]: Footnote: \*
 
@@ -1167,9 +1167,9 @@ Gas formation may occur in deep storage in hard rock due to long-term deteriorat
 
     The values for TDS can be used alternatively to the values for sulphate and chloride.
 
-[^key-fc229f2dad0c4be2016d6d3eba797a92]: Textual amendment: Words in [Annex section 2.2.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.2.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(vi)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/vi/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc229f2dad0c4be2016d6d3eba797a92]: Textual amendment: Words in [Annex section 2.2.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.2.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(vi)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/vi/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8902d5ea3f14d1ce835417f1b3f6accb]: Textual amendment: Words in [Annex section 2.3.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.3.1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(vi)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/vi/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8902d5ea3f14d1ce835417f1b3f6accb]: Textual amendment: Words in [Annex section 2.3.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.3.1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(vi)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/vi/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f10008]: Footnote: \*
 
@@ -1179,15 +1179,15 @@ Gas formation may occur in deep storage in hard rock due to long-term deteriorat
 
     The values for TDS can be used alternativelyto the values for sulphate and chloride.
 
-[^key-29076b5ca48ce63613692e97e0e641b6]: Textual amendment: Words in [Annex section 2.3.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.3.1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(vi)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/vi/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-29076b5ca48ce63613692e97e0e641b6]: Textual amendment: Words in [Annex section 2.3.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.3.1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(vi)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/vi/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f10010]: Footnote: \*
 
     If this value is not achieved, a higher limit value may be admitted by the competent authority, provided that the DOC value of 800 mg/kg is achieved at L/S = 10 l/kg, either at the material's own pH or at a pH value between 7,5 and 8,0.
 
-[^key-401b9ffd034701613794c5b00d36aadd]: Textual amendment: Words in [Annex section 2.3.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.3.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(vii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/vii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-401b9ffd034701613794c5b00d36aadd]: Textual amendment: Words in [Annex section 2.3.2](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.3.2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(vii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/vii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ffc383509a8b20ae63cbbdeee8e59207]: Textual amendment: Words in [Annex section 2.4.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.4.1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(viii)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/viii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ffc383509a8b20ae63cbbdeee8e59207]: Textual amendment: Words in [Annex section 2.4.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.4.1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(viii)(aa)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/viii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f10011]: Footnote: \*
 
@@ -1197,7 +1197,7 @@ Gas formation may occur in deep storage in hard rock due to long-term deteriorat
 
     The values for TDS can be used alternatively to the values for sulphate and chloride.
 
-[^key-b7b061ef3223006e4a1b6e4cb437f6eb]: Textual amendment: Words in [Annex section 2.4.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.4.1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(viii)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/viii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b7b061ef3223006e4a1b6e4cb437f6eb]: Textual amendment: Words in [Annex section 2.4.1](https://www.legislation.gov.uk/eudn/2003/33/annex/section/2.4.1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(d)(viii)(bb)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/d/viii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f10013]: Footnote: \*
 
@@ -1207,14 +1207,14 @@ Gas formation may occur in deep storage in hard rock due to long-term deteriorat
 
     If this value is not achieved, a higher limit value may be admitted by the competent authority, provided that the DOC value of 1 000 mg/kg is achieved at L/S = 10 l/kg, either at the material's own pH or at a pH value between 7,5 and 8,0.
 
-[^key-13ac85f253c8b930a8e527da9cd34180]: Textual amendment: Words in Annex section 3 substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(e)(i)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13ac85f253c8b930a8e527da9cd34180]: Textual amendment: Words in Annex section 3 substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(e)(i)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b564c2bca23f06b32f2c3c72dded591]: Textual amendment: Words in Annex section 3 substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b564c2bca23f06b32f2c3c72dded591]: Textual amendment: Words in Annex section 3 substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(7)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/7/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e3c9f7d901376c110333c95b2c9c154]: Textual amendment: Words in [Appendix A](https://www.legislation.gov.uk/eudn/2003/33/appendix/A) section 1.1 omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(8)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4e3c9f7d901376c110333c95b2c9c154]: Textual amendment: Words in [Appendix A](https://www.legislation.gov.uk/eudn/2003/33/appendix/A) section 1.1 omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(8)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-284b10011a1f6e4cda05eb9da8fd7dad]: Textual amendment: Words in [Appendix A](https://www.legislation.gov.uk/eudn/2003/33/appendix/A) section 2.2 substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(8)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-284b10011a1f6e4cda05eb9da8fd7dad]: Textual amendment: Words in [Appendix A](https://www.legislation.gov.uk/eudn/2003/33/appendix/A) section 2.2 substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(8)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d2a51647c8f646a6d4d9ea97dec60f5]: Textual amendment: Words in [Appendix A](https://www.legislation.gov.uk/eudn/2003/33/appendix/A) section 4.1 omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(8)(c)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d2a51647c8f646a6d4d9ea97dec60f5]: Textual amendment: Words in [Appendix A](https://www.legislation.gov.uk/eudn/2003/33/appendix/A) section 4.1 omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(8)(c)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-76d88238ebbf7d4ce33b7c0710ca4ffb]: Textual amendment: [Appendix B](https://www.legislation.gov.uk/eudn/2003/33/appendix/B) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(9)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76d88238ebbf7d4ce33b7c0710ca4ffb]: Textual amendment: [Appendix B](https://www.legislation.gov.uk/eudn/2003/33/appendix/B) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [15(9)](https://www.legislation.gov.uk/uksi/2019/620/regulation/15/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50.[^key-57968930eb1a7566933bfca967ba1930]
+## 50.[^c-57968930eb1a7566933bfca967ba1930]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 227 (purchase of own shares: associated persons), in subsection (2), 
 
 ## Annotations
 
-[^key-57968930eb1a7566933bfca967ba1930]: Commencement: Reg. 50 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-57968930eb1a7566933bfca967ba1930]: Commencement: Reg. 50 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

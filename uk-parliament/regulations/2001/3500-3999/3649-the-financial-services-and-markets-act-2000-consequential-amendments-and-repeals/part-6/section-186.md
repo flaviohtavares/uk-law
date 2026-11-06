@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Power of societies to disapply obligation to appoint auditors[^key-3018b568de8f71aadc3afd38ebbf82d5]
+## 186. Power of societies to disapply obligation to appoint auditors[^c-3018b568de8f71aadc3afd38ebbf82d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3018b568de8f71aadc3afd38ebbf82d5]: Commencement: Art. 186 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3018b568de8f71aadc3afd38ebbf82d5]: Commencement: Art. 186 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00130]: Footnote: Section 32A was inserted by [S.I. 1996/1738](https://www.legislation.gov.uk/uksi/1996/1738) article 10(1) and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), Schedule 3, paragraph 13.

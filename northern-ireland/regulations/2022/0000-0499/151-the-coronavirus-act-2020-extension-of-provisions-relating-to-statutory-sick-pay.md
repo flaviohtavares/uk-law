@@ -36,25 +36,25 @@ Social Security
 
 Terms And Conditions Of Employment
 
-The Coronavirus Act 2020 (Extension of Provisions Relating to Statutory Sick Pay) Order (Northern Ireland) 2022 (revoked)[^key-daae9c3fb3b7c81189886790f79656aa]
+The Coronavirus Act 2020 (Extension of Provisions Relating to Statutory Sick Pay) Order (Northern Ireland) 2022 (revoked)[^c-daae9c3fb3b7c81189886790f79656aa]
 
 Made
 
 *23rd* March 2022
 
-[^key-daae9c3fb3b7c81189886790f79656aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-daae9c3fb3b7c81189886790f79656aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-daae9c3fb3b7c81189886790f79656aa]
+## 1. Citation[^c-daae9c3fb3b7c81189886790f79656aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of expiry date[^key-daae9c3fb3b7c81189886790f79656aa]
+## 2. Extension of expiry date[^c-daae9c3fb3b7c81189886790f79656aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daae9c3fb3b7c81189886790f79656aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-daae9c3fb3b7c81189886790f79656aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -70,4 +70,4 @@ This Order extends the expiry date of section 44 of the Act to 24th September 20
 
 ## Annotations
 
-[^key-daae9c3fb3b7c81189886790f79656aa]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2022/151) revoked (25.8.2022) by [The Coronavirus Act 2020 (Extension of Provisions Relating to Statutory Sick Pay) (No. 2) Order (Northern Ireland) 2022 (S.R. 2022/205)](https://www.legislation.gov.uk/nisr/2022/205), [art. 3](https://www.legislation.gov.uk/nisr/2022/205/article/3)
+[^c-daae9c3fb3b7c81189886790f79656aa]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2022/151) revoked (25.8.2022) by [The Coronavirus Act 2020 (Extension of Provisions Relating to Statutory Sick Pay) (No. 2) Order (Northern Ireland) 2022 (S.R. 2022/205)](https://www.legislation.gov.uk/nisr/2022/205), [art. 3](https://www.legislation.gov.uk/nisr/2022/205/article/3)

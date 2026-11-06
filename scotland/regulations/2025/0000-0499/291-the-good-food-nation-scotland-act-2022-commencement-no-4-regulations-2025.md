@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Good Food Nation (Scotland) Act 2022 (Commencement No. 4) Regulations 2025 (revoked)[^key-a4588594c27be9e04db88ffcd48e2e66]
+The Good Food Nation (Scotland) Act 2022 (Commencement No. 4) Regulations 2025 (revoked)[^c-a4588594c27be9e04db88ffcd48e2e66]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 16th December 2025
 
-[^key-a4588594c27be9e04db88ffcd48e2e66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4588594c27be9e04db88ffcd48e2e66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-a4588594c27be9e04db88ffcd48e2e66]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Appointed day[^key-a4588594c27be9e04db88ffcd48e2e66]
+## 1. Citation and commencement[^c-a4588594c27be9e04db88ffcd48e2e66]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**May not be in force at this date. Check the source.**
+## 2. Appointed day[^c-a4588594c27be9e04db88ffcd48e2e66]
 
-[^key-a4588594c27be9e04db88ffcd48e2e66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Not yet in force.**
 
-**May not be in force at this date. Check the source.**
-
-[^key-a4588594c27be9e04db88ffcd48e2e66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a4588594c27be9e04db88ffcd48e2e66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4588594c27be9e04db88ffcd48e2e66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^c-a4588594c27be9e04db88ffcd48e2e66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^c-a4588594c27be9e04db88ffcd48e2e66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a4588594c27be9e04db88ffcd48e2e66]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2025/291) revoked (15.12.2025) by [The Good Food Nation (Scotland) Act 2022 (Commencement No. 4) Revocation Regulations 2025 (S.S.I. 2025/395)](https://www.legislation.gov.uk/ssi/2025/395), [regs. 1](https://www.legislation.gov.uk/ssi/2025/395/regulation/1), [2](https://www.legislation.gov.uk/ssi/2025/395/regulation/2)
+[^c-a4588594c27be9e04db88ffcd48e2e66]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2025/291) revoked (15.12.2025) by [The Good Food Nation (Scotland) Act 2022 (Commencement No. 4) Revocation Regulations 2025 (S.S.I. 2025/395)](https://www.legislation.gov.uk/ssi/2025/395), [regs. 1](https://www.legislation.gov.uk/ssi/2025/395/regulation/1), [2](https://www.legislation.gov.uk/ssi/2025/395/regulation/2)

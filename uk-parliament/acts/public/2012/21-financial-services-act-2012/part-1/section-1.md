@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Deputy Governors[^key-e5d4c9619fd8209654dc924dff7aec2a][^key-7d3b8ab64cc0eda874c06489394f8862]
+## 1. Deputy Governors[^c-e5d4c9619fd8209654dc924dff7aec2a][^c-7d3b8ab64cc0eda874c06489394f8862]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5d4c9619fd8209654dc924dff7aec2a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2012/21/section/1) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-e5d4c9619fd8209654dc924dff7aec2a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2012/21/section/1) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-7d3b8ab64cc0eda874c06489394f8862]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2012/21/section/1) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-7d3b8ab64cc0eda874c06489394f8862]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2012/21/section/1) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

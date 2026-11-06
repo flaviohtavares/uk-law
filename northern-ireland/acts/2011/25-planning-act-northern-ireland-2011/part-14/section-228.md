@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 228. Review of Act[^key-0bb765fc90b39d7759e9c5b692d048ca][^key-00ddc72d92903a5c402ea63e5c9d1e55][^key-086c01b45aafecb1b63673a7c231c35e]
+## 228. Review of Act[^c-0bb765fc90b39d7759e9c5b692d048ca][^c-00ddc72d92903a5c402ea63e5c9d1e55][^c-086c01b45aafecb1b63673a7c231c35e]
 
 *Extent: N.I.*
 
@@ -31,8 +31,8 @@ review and publish a report on the implementation of this Act.
 
 ## Annotations
 
-[^key-0bb765fc90b39d7759e9c5b692d048ca]: Commencement: S. 228 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-0bb765fc90b39d7759e9c5b692d048ca]: Commencement: S. 228 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-00ddc72d92903a5c402ea63e5c9d1e55]: Commencement: S. 228 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-00ddc72d92903a5c402ea63e5c9d1e55]: Commencement: S. 228 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-086c01b45aafecb1b63673a7c231c35e]: Modification: [Ss. 228-235](https://www.legislation.gov.uk/nia/2011/25/section/228): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-086c01b45aafecb1b63673a7c231c35e]: Modification: [Ss. 228-235](https://www.legislation.gov.uk/nia/2011/25/section/228): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

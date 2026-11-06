@@ -65,10 +65,10 @@ each of which results in a change in the rate of housing benefit payable to the 
 
 (8) Where a change of circumstances would but for this paragraph take effect under the preceding provisions of this regulation within the 4 week period specified in regulation 54 (continuing payments where state pension credit claimed), that change shall take effect on the first day of the first benefit week to commence after the expiry of the 4 week period.
 
-(9) Where the change of circumstances is an amendment of these Regulations, that change, subject to regulation 61(5)[^key-44311e874cd63b4d070ab0b9303df48d] (calculation of weekly amounts), shall take effect as follows—
+(9) Where the change of circumstances is an amendment of these Regulations, that change, subject to regulation 61(5)[^c-44311e874cd63b4d070ab0b9303df48d] (calculation of weekly amounts), shall take effect as follows—
 
 - (a) where the amendment is made by an order under section 150 of the Administration Act (annual uprating of benefits)—
-  - (i) in a case in which the claimant's weekly amount of eligible rent falls to be calculated in accordance with regulation 61(2)(b) or (c)[^key-ade9f139f192f0d2e70700689a47eb32] , from 1st April;
+  - (i) in a case in which the claimant's weekly amount of eligible rent falls to be calculated in accordance with regulation 61(2)(b) or (c)[^c-ade9f139f192f0d2e70700689a47eb32] , from 1st April;
   - (ii) in any other case, from the first Monday in April, in the year in which that order comes into force;
 - (b) in respect of any other amendment, from the date on which the amendment of these Regulations comes into force in the particular case.
 
@@ -80,6 +80,6 @@ each of which results in a change in the rate of housing benefit payable to the 
 
 ## Annotations
 
-[^key-44311e874cd63b4d070ab0b9303df48d]: Textual amendment: Words in reg. 60(9) substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [15(2)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/15/2)
+[^c-44311e874cd63b4d070ab0b9303df48d]: Textual amendment: Words in reg. 60(9) substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [15(2)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/15/2)
 
-[^key-ade9f139f192f0d2e70700689a47eb32]: Textual amendment: Words in reg. 60(9)(a)(i) inserted by SI 2005/2502 reg. 2(11) (as amended) (3.4.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 27(11)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/27/11) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-ade9f139f192f0d2e70700689a47eb32]: Textual amendment: Words in reg. 60(9)(a)(i) inserted by SI 2005/2502 reg. 2(11) (as amended) (3.4.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 27(11)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/27/11) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

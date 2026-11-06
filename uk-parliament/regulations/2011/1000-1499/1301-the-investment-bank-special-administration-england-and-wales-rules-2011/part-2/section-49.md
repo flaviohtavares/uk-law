@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Appointment of person under section 135[^key-01249f97315986704e11709a692f388b]
+## 49. Appointment of person under section 135[^c-01249f97315986704e11709a692f388b]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01249f97315986704e11709a692f388b]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2011/1301/rule/49) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-01249f97315986704e11709a692f388b]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2011/1301/rule/49) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00012]: Footnote: Section 145 was amended by section 21 of the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28).

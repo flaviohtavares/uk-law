@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Powers of search, examination, etc[^key-42a4d3e75668c614ff3bafda6b51d1c9]
+## 250. Powers of search, examination, etc[^c-42a4d3e75668c614ff3bafda6b51d1c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42a4d3e75668c614ff3bafda6b51d1c9]: Commencement: S. 250 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-42a4d3e75668c614ff3bafda6b51d1c9]: Commencement: S. 250 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

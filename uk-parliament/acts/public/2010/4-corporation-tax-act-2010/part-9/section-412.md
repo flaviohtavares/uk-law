@@ -44,7 +44,7 @@ the amount of the net investment in respect of the finance lease of that plant o
 (5) The assumptions are that—
 
 - (a) the balance sheet is drawn up in accordance with generally accepted accounting practice, and
-- (b) if the partnership acquired any plant or machinery in circumstances in which this paragraph applies, the plant or machinery had been acquired for an amount equal to its ascribed value[^key-4c113063d2e9cd946ad96c469c141b4b] as at the relevant day.
+- (b) if the partnership acquired any plant or machinery in circumstances in which this paragraph applies, the plant or machinery had been acquired for an amount equal to its ascribed value[^c-4c113063d2e9cd946ad96c469c141b4b] as at the relevant day.
 
 (6) Paragraph (b) of subsection (5) applies if—
 
@@ -54,4 +54,4 @@ the amount of the net investment in respect of the finance lease of that plant o
 
 ## Annotations
 
-[^key-4c113063d2e9cd946ad96c469c141b4b]: Textual amendment: Words in s. 412(5)(b) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/12)
+[^c-4c113063d2e9cd946ad96c469c141b4b]: Textual amendment: Words in s. 412(5)(b) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/12)

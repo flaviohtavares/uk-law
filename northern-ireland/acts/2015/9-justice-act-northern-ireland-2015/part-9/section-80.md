@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Persons ineligible for jury service[^key-11a779a0e7eab368510ff9df3bac2a8a]
+## 80. Persons ineligible for jury service[^c-11a779a0e7eab368510ff9df3bac2a8a]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11a779a0e7eab368510ff9df3bac2a8a]: Commencement: [S. 80](https://www.legislation.gov.uk/nia/2015/9/section/80) in operation at 1.7.2016 by [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(d)](https://www.legislation.gov.uk/nisr/2016/247/article/2/d)
+[^c-11a779a0e7eab368510ff9df3bac2a8a]: Commencement: [S. 80](https://www.legislation.gov.uk/nia/2015/9/section/80) in operation at 1.7.2016 by [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(d)](https://www.legislation.gov.uk/nisr/2016/247/article/2/d)

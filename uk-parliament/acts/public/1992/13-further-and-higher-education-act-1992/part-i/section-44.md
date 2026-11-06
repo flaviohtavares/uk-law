@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Collective worship.[^c11064321][^key-9af2e2aa7de15e2913c6630b10cc07fc]
+## 44. Collective worship.[^c11064321][^c-9af2e2aa7de15e2913c6630b10cc07fc]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) it is designated for the purposes of this paragraph by order of the Secretary of State, or
 - (d) it is formed by or for the purpose of merging two institutions both of which were within paragraphs (a) to (c).
 
-(2A)[^key-48f7877968865213f507c8271a37cfcc] The governing body of an institution to which this section applies shall ensure that at an appropriate time on at least one day in each week during which the institution is open an act of collective worship is held at the institution which persons receiving education at the institution may attend.
+(2A)[^c-48f7877968865213f507c8271a37cfcc] The governing body of an institution to which this section applies shall ensure that at an appropriate time on at least one day in each week during which the institution is open an act of collective worship is held at the institution which persons receiving education at the institution may attend.
 
 (3) In an institution of voluntary origin such act of collective worship shall —
 
@@ -48,11 +48,11 @@ summary: ''
 
 [^c11064321]: Commencement: S. 44 partly in force: s. 44 in force for certain purposes at 1.4.1993 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
 
-[^key-9af2e2aa7de15e2913c6630b10cc07fc]: Modification: [S. 44](https://www.legislation.gov.uk/ukpga/1992/13/section/44): power to modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/7) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-9af2e2aa7de15e2913c6630b10cc07fc]: Modification: [S. 44](https://www.legislation.gov.uk/ukpga/1992/13/section/44): power to modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/7) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
 [^c11064331]: Textual amendment: S. 44(1)-(2A) substituted for s. 44(1)(2) (1.10.2000 for E. for specified purposes, 1.4.2001 for W. and 1.9.2001 insofar as not already in force for E.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 149](https://www.legislation.gov.uk/ukpga/2000/21/section/149), [Sch. 9 para. 27(2)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/9/paragraph/27/2); [S.I. 2000/2559](https://www.legislation.gov.uk/uksi/2000/2559), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2559/article/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2000/2559/schedule/part/I); [S.I. 2001/1274](https://www.legislation.gov.uk/uksi/2001/1274), [art. 2](https://www.legislation.gov.uk/uksi/2001/1274/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1274/schedule/part/I); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2](https://www.legislation.gov.uk/uksi/2001/654/article/2), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/III)
 
-[^key-48f7877968865213f507c8271a37cfcc]: Modification: S. 44(2A) modified (W.) (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [3(b)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/3/b)
+[^c-48f7877968865213f507c8271a37cfcc]: Modification: S. 44(2A) modified (W.) (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [3(b)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/3/b)
 
 [^c11064341]: Textual amendment: Words in s. 44(3)(b) substituted (1.10.2000 for E. for specified purposes, 1.4.2001 for W. and 1.9.2001 insofar as not already in force for E.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 149](https://www.legislation.gov.uk/ukpga/2000/21/section/149), [Sch. 9 para. 27(3)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/9/paragraph/27/3); [S.I. 2000/2559](https://www.legislation.gov.uk/uksi/2000/2559), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2559/article/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2000/2559/schedule/part/I); [S.I. 2001/1274](https://www.legislation.gov.uk/uksi/2001/1274), [art. 2](https://www.legislation.gov.uk/uksi/2001/1274/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1274/schedule/part/I); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2](https://www.legislation.gov.uk/uksi/2001/654/article/2), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/III)
 

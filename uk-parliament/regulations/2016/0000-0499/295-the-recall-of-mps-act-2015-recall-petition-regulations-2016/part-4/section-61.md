@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Additional requirements for applications for signing sheets to be sent to different address from that stated in application[^key-26b765e863fda266e41243f9dba564c9]
+## 61. Additional requirements for applications for signing sheets to be sent to different address from that stated in application[^c-26b765e863fda266e41243f9dba564c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26b765e863fda266e41243f9dba564c9]: Commencement: Reg. 61 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-26b765e863fda266e41243f9dba564c9]: Commencement: Reg. 61 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

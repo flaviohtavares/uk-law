@@ -70,11 +70,11 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (4) Terms used in these Regulations that are also used in the European Regulations have the meaning they bear in those Regulations.
 
-## 2 (Extent: E+W+S) (affected by repeal, see note). Competent authority[^key-2864e12a3f0b229841d64318fc6ecaf3]
+## 2 (Extent: E+W+S) (affected by repeal, see note). Competent authority[^c-2864e12a3f0b229841d64318fc6ecaf3]
 
-The Secretary of State is the competent authority for the purposes of the *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-2864e12a3f0b229841d64318fc6ecaf3] European Regulations *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-2864e12a3f0b229841d64318fc6ecaf3]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-2864e12a3f0b229841d64318fc6ecaf3]
+The Secretary of State is the competent authority for the purposes of the *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-2864e12a3f0b229841d64318fc6ecaf3] European Regulations *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-2864e12a3f0b229841d64318fc6ecaf3]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-2864e12a3f0b229841d64318fc6ecaf3]
 
-## 3. General customs officials[^M_E_9523a391-d847-421a-9dc2-0864263338ee][^key-33e757d3f78d15d5b92e6ff0a05a78a6]
+## 3. General customs officials[^M_E_9523a391-d847-421a-9dc2-0864263338ee][^c-33e757d3f78d15d5b92e6ff0a05a78a6]
 
 *Extent: E+W+S*
 
@@ -93,17 +93,17 @@ The Secretary of State is the competent authority for the purposes of the *(Exte
 
 At a place where goods are subject to customs supervision within the meaning of [Council Regulation (EEC) No 2913/92](https://www.legislation.gov.uk/european/regulation/1992/2913) establishing the Community Customs Code[^f00008], the European Regulations are to be enforced by a general customs official.
 
-## 4 (Extent: E+W+S) (affected by repeal, see note). Translation into English[^key-b495a59baa33fe4b04bc0899fa5c50d4]
+## 4 (Extent: E+W+S) (affected by repeal, see note). Translation into English[^c-b495a59baa33fe4b04bc0899fa5c50d4]
 
-A FLEGT licence covering a shipment must be made available to the Secretary of State in English. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b495a59baa33fe4b04bc0899fa5c50d4]
+A FLEGT licence covering a shipment must be made available to the Secretary of State in English. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-b495a59baa33fe4b04bc0899fa5c50d4]
 
 ## 5. Wildlife inspectors
 
 The Secretary of State may authorise a person in writing to carry out inspections for the purposes of the European Regulations, and such a person is in these Regulations referred to as a “wildlife inspector”.
 
-## 5A. Fee for the verification of a FLEGT licence[^key-bc74058be80500a0c5f1d949d0be6c50]
+## 5A. Fee for the verification of a FLEGT licence[^c-bc74058be80500a0c5f1d949d0be6c50]
 
-(1) A person applying for verification of a FLEGT licence by the Secretary of State must pay a fee of £9.60[^key-9f46ab5ddbbac2c36de94a2d1a774dd3].
+(1) A person applying for verification of a FLEGT licence by the Secretary of State must pay a fee of £9.60[^c-9f46ab5ddbbac2c36de94a2d1a774dd3].
 
 (2) The fee must be paid—
 
@@ -145,7 +145,7 @@ The Secretary of State may authorise a person in writing to carry out inspection
 (9) A constable entering premises under this regulation may—
 
 - (a) be accompanied by—
-  - (i (Extent: E+W+S) (affected by repeal, see note))[^key-f8efe370bf766bdecb4387a3334738b7] such other persons as the constable considers necessary, *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f8efe370bf766bdecb4387a3334738b7]
+  - (i (Extent: E+W+S) (affected by repeal, see note))[^c-f8efe370bf766bdecb4387a3334738b7] such other persons as the constable considers necessary, *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-f8efe370bf766bdecb4387a3334738b7]
   - (ii) any representative of the European Commission; and
 - (b) bring on to the premises such equipment as the constable considers necessary.
 
@@ -246,7 +246,7 @@ In the case of an offence committed in connection with the restriction in Articl
 - (b) assess the extent to which those objectives are achieved; and
 - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved in a less burdensome way.
 
-(4)[^key-d4c8d7329670a7c7153461e52de63b56] The first report under this regulation must be published on or before 20th February 2022.
+(4)[^c-d4c8d7329670a7c7153461e52de63b56] The first report under this regulation must be published on or before 20th February 2022.
 
 (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
@@ -292,23 +292,23 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00007]: Footnote: [2009 c.11](https://www.legislation.gov.uk/ukpga/2009/11).
 
-[^key-2864e12a3f0b229841d64318fc6ecaf3]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/178/regulation/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/2) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2864e12a3f0b229841d64318fc6ecaf3]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/178/regulation/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/2) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_9523a391-d847-421a-9dc2-0864263338ee]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-33e757d3f78d15d5b92e6ff0a05a78a6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/178/regulation/3) substituted (E.W.S.) (31.12.2020) by [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/3) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33e757d3f78d15d5b92e6ff0a05a78a6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/178/regulation/3) substituted (E.W.S.) (31.12.2020) by [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/3) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_02939302-6d8e-4810-d02c-5a44f808dd5b]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^f00008]: Footnote: OJ No L 302, 19.10.1992, p.1, as last amended by Council Regulation [(EC) No 1186/2009](https://www.legislation.gov.uk/european/regulation/2009/1186) (OJ No L 324, 10.12.2009, p.23). See the definition of supervision by the customs authorities in Article 4(13), and in particular see Article 37.
 
-[^key-b495a59baa33fe4b04bc0899fa5c50d4]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/178/regulation/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/4) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b495a59baa33fe4b04bc0899fa5c50d4]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/178/regulation/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/4) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc74058be80500a0c5f1d949d0be6c50]: Textual amendment: Reg. 5A inserted (1.10.2014) by [The Forest Law Enforcement, Governance and Trade (Amendment) (Fees) Regulations 2014 (S.I. 2014/2339)](https://www.legislation.gov.uk/uksi/2014/2339), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2339/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2339/regulation/2/2)
+[^c-bc74058be80500a0c5f1d949d0be6c50]: Textual amendment: Reg. 5A inserted (1.10.2014) by [The Forest Law Enforcement, Governance and Trade (Amendment) (Fees) Regulations 2014 (S.I. 2014/2339)](https://www.legislation.gov.uk/uksi/2014/2339), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2339/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2339/regulation/2/2)
 
-[^key-9f46ab5ddbbac2c36de94a2d1a774dd3]: Textual amendment: Sum in reg. 5A substituted (1.11.2016) by [The Forest Law Enforcement, Governance and Trade (Amendment) Regulations 2016 (S.I. 2016/940)](https://www.legislation.gov.uk/uksi/2016/940), [regs. 1](https://www.legislation.gov.uk/uksi/2016/940/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/940/regulation/2/2)
+[^c-9f46ab5ddbbac2c36de94a2d1a774dd3]: Textual amendment: Sum in reg. 5A substituted (1.11.2016) by [The Forest Law Enforcement, Governance and Trade (Amendment) Regulations 2016 (S.I. 2016/940)](https://www.legislation.gov.uk/uksi/2016/940), [regs. 1](https://www.legislation.gov.uk/uksi/2016/940/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/940/regulation/2/2)
 
-[^key-f8efe370bf766bdecb4387a3334738b7]: Textual amendment: [Reg. 6(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/178/regulation/6/9/a/ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/5) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8efe370bf766bdecb4387a3334738b7]: Textual amendment: [Reg. 6(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/178/regulation/6/9/a/ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/5) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: Section 139 was amended by the Police (Northern Ireland) Act [1998 (c.32)](https://www.legislation.gov.uk/ukpga/1998/32), paragraph 14 of Schedule 4, and the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37 and 46.
 
@@ -318,4 +318,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: Sections 50(4)(b) and 170(3)(b) were amended by the Finance Act [1988 (c.39)](https://www.legislation.gov.uk/ukpga/1988/39), section 12(1) and (6).
 
-[^key-d4c8d7329670a7c7153461e52de63b56]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2012/178/regulation/13/4) substituted (1.11.2016) by [The Forest Law Enforcement, Governance and Trade (Amendment) Regulations 2016 (S.I. 2016/940)](https://www.legislation.gov.uk/uksi/2016/940), [regs. 1](https://www.legislation.gov.uk/uksi/2016/940/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/940/regulation/2/3)
+[^c-d4c8d7329670a7c7153461e52de63b56]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2012/178/regulation/13/4) substituted (1.11.2016) by [The Forest Law Enforcement, Governance and Trade (Amendment) Regulations 2016 (S.I. 2016/940)](https://www.legislation.gov.uk/uksi/2016/940), [regs. 1](https://www.legislation.gov.uk/uksi/2016/940/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/940/regulation/2/3)

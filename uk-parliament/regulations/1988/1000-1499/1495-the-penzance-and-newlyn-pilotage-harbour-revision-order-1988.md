@@ -41,19 +41,19 @@ Coming into force
 
 The Secretary of State for Transport in exercise of the powers conferred by section 14 of the Harbours Act 1964[^f00001]and now vested in him[^f00002] and of all other powers enabling him in that behalf, and on the application of the Penwith District Council and Newlyn Pier and Harbour Commissioners in accordance with section 7(5) of the Pilotage Act 1987[^f00003] hereby makes the following Order:—
 
-## 1. Citation and Commencement[^key-7fc7c208cb6b7fc4d6be688501e54c1a]
+## 1. Citation and Commencement[^c-7fc7c208cb6b7fc4d6be688501e54c1a]
 
 This Order may be cited as the Penzance and Newlyn (Pilotage) Harbour Revision Order 1988 and shall come into force on 1st October 1988.
 
-## 2. Interpretation[^key-b44a93399074c3991f73f66078314c3c]
+## 2. Interpretation[^c-b44a93399074c3991f73f66078314c3c]
 
 In this Order—
 
-- “the Harbours” means Penzance Harbour the limits of which are described in Schedule 1 to the Cornwall Harbours Harbour Revision Order 2023[^key-9c76cb23150dc427dee0dac0b29e49a6] and Newlyn Harbour as described in section 6 of the Newlyn Pier and Harbour Order 1906[^f00004].
+- “the Harbours” means Penzance Harbour the limits of which are described in Schedule 1 to the Cornwall Harbours Harbour Revision Order 2023[^c-9c76cb23150dc427dee0dac0b29e49a6] and Newlyn Harbour as described in section 6 of the Newlyn Pier and Harbour Order 1906[^f00004].
 - “the Harbour Authorities” means, in relation to Penzance Harbour, the Penwith District Council, in relation to Newlyn Harbour, the Newlyn Pier and Harbour Commissioners and, in relation to the area described in Article 3, both acting jointly.
 - “signed plan” means the plan signed in triplicate by an Under Secretary in the Department of Transport, two copies of which have been deposited at that Department and one copy of which has been deposited at the offices of the Penwith District Council, Council Offices, St Clare, Penzance, Cornwall TR 18 3QW.
 
-## 3. Extension of Limits of Jurisdiction for Purposes of Pilotage in Mounts Bay.[^key-d48190e818e640934a764da302451128]
+## 3. Extension of Limits of Jurisdiction for Purposes of Pilotage in Mounts Bay.[^c-d48190e818e640934a764da302451128]
 
 The limits within which the Harbour Authorities shall have jurisdiction for the purposes of pilotage under Part 1 of the Pilotage Act 1987 shall include (in addition to the Harbours) the area coloured pink on the signed plan, being so much of the area within an imaginary straight line between Penzer Point (Latitude 50o 04'. 150 N, longitude 5o 32'.500 W) and Saint Michael’s Mount (Latitude 5o 07'.000 N, longitude 5o 28'.600 W).
 
@@ -83,12 +83,12 @@ The applicants for this Order are the Penwith District Council and Newlyn Pier a
 
 [^f00003]: Footnote: [1987 c. 21](https://www.legislation.gov.uk/ukpga/1987/21)
 
-[^key-7fc7c208cb6b7fc4d6be688501e54c1a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1988/1495/article/1) in force at 1.10.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1988/1495/article/1)
+[^c-7fc7c208cb6b7fc4d6be688501e54c1a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1988/1495/article/1) in force at 1.10.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1988/1495/article/1)
 
-[^key-b44a93399074c3991f73f66078314c3c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1988/1495/article/2) in force at 1.10.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1988/1495/article/1)
+[^c-b44a93399074c3991f73f66078314c3c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1988/1495/article/2) in force at 1.10.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1988/1495/article/1)
 
-[^key-9c76cb23150dc427dee0dac0b29e49a6]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1988/1495/article/2) substituted (14.7.2023) by [The Cornwall Harbours Harbour Revision Order 2023 (S.I. 2023/675)](https://www.legislation.gov.uk/uksi/2023/675), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1), [67(4)](https://www.legislation.gov.uk/uksi/2023/675/article/67/4) (with [arts. 65](https://www.legislation.gov.uk/uksi/2023/675/article/65), [66](https://www.legislation.gov.uk/uksi/2023/675/article/66))
+[^c-9c76cb23150dc427dee0dac0b29e49a6]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1988/1495/article/2) substituted (14.7.2023) by [The Cornwall Harbours Harbour Revision Order 2023 (S.I. 2023/675)](https://www.legislation.gov.uk/uksi/2023/675), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1), [67(4)](https://www.legislation.gov.uk/uksi/2023/675/article/67/4) (with [arts. 65](https://www.legislation.gov.uk/uksi/2023/675/article/65), [66](https://www.legislation.gov.uk/uksi/2023/675/article/66))
 
 [^f00004]: Footnote: [1906 c. cxiii](https://www.legislation.gov.uk/ukla/1906/113).
 
-[^key-d48190e818e640934a764da302451128]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1988/1495/article/3) in force at 1.10.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1988/1495/article/1)
+[^c-d48190e818e640934a764da302451128]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1988/1495/article/3) in force at 1.10.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1988/1495/article/1)

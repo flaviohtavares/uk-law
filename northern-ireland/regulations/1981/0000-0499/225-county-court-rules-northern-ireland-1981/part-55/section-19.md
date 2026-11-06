@@ -23,9 +23,9 @@ summary: ''
 (1) [^f00524]In any proceedings before a \[[^f00521]judge\], other than an appeal under the 1977 Order, the 1988 Order, the 1978 Act or the 1991 Act, if the award by \[[^f00521] the judge\] does not exceed—
 
 - (a) \[[^f00525] £10,000\], only two-thirds of the amount of the scale costs shall be allowed, unless \[[^f00521] the judge\] otherwise orders; or
-- (b) £5,000[^key-4f268efe51953d7bbb93bebf0e42c320], no costs, save those which would be awarded under Order 26, Rules 43 to 46, shall be allowed if \[[^f00521] the judge\] is satisfied that the proceedings should have been brought under Article 30(3) of the Order.
+- (b) £5,000[^c-4f268efe51953d7bbb93bebf0e42c320], no costs, save those which would be awarded under Order 26, Rules 43 to 46, shall be allowed if \[[^f00521] the judge\] is satisfied that the proceedings should have been brought under Article 30(3) of the Order.
 
-(2) In any proceedings before a district judge, if the award by the district judge does not exceed £5,000[^key-805217da0e1dd6ee95a2dba6ed9086a0], no costs, save those which would be awarded under Order 26, Rules 43 to 46 shall be allowed if the district judge is satisfied that the proceedings should have been brought under Article 30(3) of the Order.
+(2) In any proceedings before a district judge, if the award by the district judge does not exceed £5,000[^c-805217da0e1dd6ee95a2dba6ed9086a0], no costs, save those which would be awarded under Order 26, Rules 43 to 46 shall be allowed if the district judge is satisfied that the proceedings should have been brought under Article 30(3) of the Order.
 
 ## Annotations
 
@@ -37,6 +37,6 @@ summary: ''
 
 [^f00525]: Footnote: Figure substituted by [S.R. 2013 No. 19](https://www.legislation.gov.uk/nisr/2013/19) with effect from 25.02.13
 
-[^key-4f268efe51953d7bbb93bebf0e42c320]: Textual amendment: Sum in Order 55 rule 19(1)(b) substituted (3.10.2022) by [The County Court (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/233)](https://www.legislation.gov.uk/nisr/2022/233), [rules 1](https://www.legislation.gov.uk/nisr/2022/233/rule/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2022/233/rule/2/2/a) (with [rule 4](https://www.legislation.gov.uk/nisr/2022/233/rule/4))
+[^c-4f268efe51953d7bbb93bebf0e42c320]: Textual amendment: Sum in Order 55 rule 19(1)(b) substituted (3.10.2022) by [The County Court (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/233)](https://www.legislation.gov.uk/nisr/2022/233), [rules 1](https://www.legislation.gov.uk/nisr/2022/233/rule/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2022/233/rule/2/2/a) (with [rule 4](https://www.legislation.gov.uk/nisr/2022/233/rule/4))
 
-[^key-805217da0e1dd6ee95a2dba6ed9086a0]: Textual amendment: Sum in Order 55 rule 19(2) substituted (3.10.2022) by [The County Court (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/233)](https://www.legislation.gov.uk/nisr/2022/233), [rules 1](https://www.legislation.gov.uk/nisr/2022/233/rule/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2022/233/rule/2/2/b) (with [rule 4](https://www.legislation.gov.uk/nisr/2022/233/rule/4))
+[^c-805217da0e1dd6ee95a2dba6ed9086a0]: Textual amendment: Sum in Order 55 rule 19(2) substituted (3.10.2022) by [The County Court (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/233)](https://www.legislation.gov.uk/nisr/2022/233), [rules 1](https://www.legislation.gov.uk/nisr/2022/233/rule/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2022/233/rule/2/2/b) (with [rule 4](https://www.legislation.gov.uk/nisr/2022/233/rule/4))

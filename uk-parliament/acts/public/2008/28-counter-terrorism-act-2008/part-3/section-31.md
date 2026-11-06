@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Sentences for offences with a terrorist connection: Scotland[^key-b32ec1c86ef1a1bf5c75bb9a462380e4]
+## 31. Sentences for offences with a terrorist connection: Scotland[^c-b32ec1c86ef1a1bf5c75bb9a462380e4]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where in Scotland, in relation to an offence specified in Schedule 2 (offences where terrorist connection to be considered) *(affected by repeal, see note)*[^key-4b398dedee82e70daa09bc0f770009f8] within subsection (4A) or (4B)—
+(1) This section applies where in Scotland, in relation to an offence specified in Schedule 2 (offences where terrorist connection to be considered) *(affected by repeal, see note)*[^c-4b398dedee82e70daa09bc0f770009f8] within subsection (4A) or (4B)—
 
 - (a) it is libelled in an indictment, and
 - (b) proved,
@@ -33,7 +33,7 @@ that the offence has been aggravated by reason of having a terrorist connection.
 
 (4) For the purposes of this section, evidence from a single source is sufficient to prove that an offence has been aggravated by reason of having a terrorist connection.
 
-(4A)[^key-fcf7aabfa8f5b60f296ea7f9ceb249d0] An offence is within this subsection if it—
+(4A)[^c-fcf7aabfa8f5b60f296ea7f9ceb249d0] An offence is within this subsection if it—
 
 - (a) was committed on or after the day on which section 1 of the Counter-Terrorism and Sentencing Act 2021 came into force,
 - (b) is punishable on indictment with imprisonment for more than 2 years (or would be so punishable in the case of an offender aged at least 21), and
@@ -57,14 +57,14 @@ that the offence has been aggravated by reason of having a terrorist connection.
 
 (4D) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsections (4A) to (4C) to have been committed on the last of those days.
 
-(5)[^key-5479e8ceabccb740245379bd7f939c45] This section has effect in relation only to offences committed on or after the day it comes into force. *(affected by repeal, see note)*[^key-5479e8ceabccb740245379bd7f939c45]
+(5)[^c-5479e8ceabccb740245379bd7f939c45] This section has effect in relation only to offences committed on or after the day it comes into force. *(affected by repeal, see note)*[^c-5479e8ceabccb740245379bd7f939c45]
 
 ## Annotations
 
-[^key-b32ec1c86ef1a1bf5c75bb9a462380e4]: Commencement: S. 31 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/b)
+[^c-b32ec1c86ef1a1bf5c75bb9a462380e4]: Commencement: S. 31 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/b)
 
-[^key-4b398dedee82e70daa09bc0f770009f8]: Textual amendment: Words in s. 31(1) substituted (29.6.2021 for specified purposes) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 1(6)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/1/6/a), [50(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/a)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/3/a)
+[^c-4b398dedee82e70daa09bc0f770009f8]: Textual amendment: Words in s. 31(1) substituted (29.6.2021 for specified purposes) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 1(6)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/1/6/a), [50(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/a)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/3/a)
 
-[^key-fcf7aabfa8f5b60f296ea7f9ceb249d0]: Textual amendment: S. 31(4A)-(4D) inserted (29.6.2021 for specified purposes) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 1(6)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/1/6/b), [50(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/a)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/3/a)
+[^c-fcf7aabfa8f5b60f296ea7f9ceb249d0]: Textual amendment: S. 31(4A)-(4D) inserted (29.6.2021 for specified purposes) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 1(6)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/1/6/b), [50(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/a)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/3/a)
 
-[^key-5479e8ceabccb740245379bd7f939c45]: Textual amendment: S. 31(5) omitted (29.6.2021 for specified purposes) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 1(6)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/1/6/c), [50(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/a)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/3/a)
+[^c-5479e8ceabccb740245379bd7f939c45]: Textual amendment: S. 31(5) omitted (29.6.2021 for specified purposes) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 1(6)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/1/6/c), [50(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/a)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/3/a)

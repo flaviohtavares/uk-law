@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Continuation of appeals commenced before 1st April 2019[^key-c8fea9e711266a0c18a655201de87cae][^key-c862461aafbef058325e85024cada95b]
+## 65. Continuation of appeals commenced before 1st April 2019[^c-c8fea9e711266a0c18a655201de87cae][^c-c862461aafbef058325e85024cada95b]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8fea9e711266a0c18a655201de87cae]: Commencement: Art. 65 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-c8fea9e711266a0c18a655201de87cae]: Commencement: Art. 65 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-c862461aafbef058325e85024cada95b]: Commencement: [Art. 65](https://www.legislation.gov.uk/uksi/2018/1253/article/65) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-c862461aafbef058325e85024cada95b]: Commencement: [Art. 65](https://www.legislation.gov.uk/uksi/2018/1253/article/65) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

@@ -44,13 +44,13 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 In accordance with section 176(1) of the Social Security Contributions and Benefits Act 1992 and section 172(10)(b) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-b1eff9f02d118ec0f81ced238830f53a]
+## 1. Citation and commencement[^c-b1eff9f02d118ec0f81ced238830f53a]
 
 These Regulations may be cited as the Child Benefit (Rates) (Amendment) Regulations 2008.
 
-**2.**[^key-40dc04b5dac03fd6f25aac9c74bc9957] The new rates substituted by regulation 3 shall come into force in accordance with the Rates of Child Benefit (Commencement) Order 2008[^f00004].
+**2.**[^c-40dc04b5dac03fd6f25aac9c74bc9957] The new rates substituted by regulation 3 shall come into force in accordance with the Rates of Child Benefit (Commencement) Order 2008[^f00004].
 
-## 3. Amendment of the Child Benefit (Rates) Regulations 2006[^key-3190653de2d321e49e0578da081a5292][^key-0a646c3ce9dc7c23badb9f29010b077d]
+## 3. Amendment of the Child Benefit (Rates) Regulations 2006[^c-3190653de2d321e49e0578da081a5292][^c-0a646c3ce9dc7c23badb9f29010b077d]
 
 In regulation 2(1) of the Child Benefit (Rates) Regulations 2006[^f00005]—
 
@@ -83,14 +83,14 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00003]: Footnote: The functions of the Secretary of State in respect of child benefit under Part 9 of the Social Security Contributions and Benefits Act 1992, which are relevant to the making of these Regulations, were transferred to the Treasury by section 49(1) of the Tax Credits Act 2002. The functions of the Northern Ireland Department in respect of child benefit under Part 9 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, which are relevant to the making of these Regulations, were transferred to the Treasury by section 49(2) of the Tax Credits Act 2002.
 
-[^key-b1eff9f02d118ec0f81ced238830f53a]: Commencement: Reg. 1 in force at made date
+[^c-b1eff9f02d118ec0f81ced238830f53a]: Commencement: Reg. 1 in force at made date
 
-[^key-40dc04b5dac03fd6f25aac9c74bc9957]: Commencement: Reg. 2 in force at made date
+[^c-40dc04b5dac03fd6f25aac9c74bc9957]: Commencement: Reg. 2 in force at made date
 
 [^f00004]: Footnote: [S.I.2008/3247](https://www.legislation.gov.uk/uksi/2008/3247).
 
-[^key-3190653de2d321e49e0578da081a5292]: Commencement: Reg. 3 not in force at made date, see [reg. 2](https://www.legislation.gov.uk/uksi/2008/3246/regulation/2)
+[^c-3190653de2d321e49e0578da081a5292]: Commencement: Reg. 3 not in force at made date, see [reg. 2](https://www.legislation.gov.uk/uksi/2008/3246/regulation/2)
 
-[^key-0a646c3ce9dc7c23badb9f29010b077d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/3246/regulation/3) in force at 5.1.2009 by [S.I. 2008/3247](https://www.legislation.gov.uk/uksi/2008/3247), [art. 2](https://www.legislation.gov.uk/uksi/2008/3247/article/2)
+[^c-0a646c3ce9dc7c23badb9f29010b077d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/3246/regulation/3) in force at 5.1.2009 by [S.I. 2008/3247](https://www.legislation.gov.uk/uksi/2008/3247), [art. 2](https://www.legislation.gov.uk/uksi/2008/3247/article/2)
 
 [^f00005]: Footnote: [S.I. 2006/965](https://www.legislation.gov.uk/uksi/2006/965), relevantly amended by [S.I. 2008/797](https://www.legislation.gov.uk/uksi/2008/797).

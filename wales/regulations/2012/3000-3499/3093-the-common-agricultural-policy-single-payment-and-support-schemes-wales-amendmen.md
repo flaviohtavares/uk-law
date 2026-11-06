@@ -45,7 +45,7 @@ Coming into force
 
 3 January 2013
 
-[^key-57797de41b242cbc638ed319c11587ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57797de41b242cbc638ed319c11587ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -57,12 +57,12 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57797de41b242cbc638ed319c11587ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57797de41b242cbc638ed319c11587ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-57797de41b242cbc638ed319c11587ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57797de41b242cbc638ed319c11587ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-57797de41b242cbc638ed319c11587ad]: Textual amendment: Regulations revoked (1.1.2015 for specified purposes, 14.5.2015 in so far as not already in force) by The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014 (S.I. 2014/3223), reg. 15, Sch. 3; [The Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015 (S.I. 2015/1252)](https://www.legislation.gov.uk/wsi/2015/1252), [reg. 17(1)(b)](https://www.legislation.gov.uk/wsi/2015/1252/regulation/17/1/b)
+[^c-57797de41b242cbc638ed319c11587ad]: Textual amendment: Regulations revoked (1.1.2015 for specified purposes, 14.5.2015 in so far as not already in force) by The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014 (S.I. 2014/3223), reg. 15, Sch. 3; [The Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015 (S.I. 2015/1252)](https://www.legislation.gov.uk/wsi/2015/1252), [reg. 17(1)(b)](https://www.legislation.gov.uk/wsi/2015/1252/regulation/17/1/b)

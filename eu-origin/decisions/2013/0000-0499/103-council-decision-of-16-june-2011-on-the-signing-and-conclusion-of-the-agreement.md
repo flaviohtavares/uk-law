@@ -37,127 +37,127 @@ on the signing and conclusion of the Agreement between the European Union and th
 
 (2013/103/EU) (revoked)
 
-[^key-287704b4f1f750e14538914b444393ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-287704b4f1f750e14538914b444393ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-287704b4f1f750e14538914b444393ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-287704b4f1f750e14538914b444393ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — DECLARATION BY THE EUROPEAN UNION CONCERNING THE EXERCISE OF COMPETENCE[^key-287704b4f1f750e14538914b444393ae]
+## ANNEX I — DECLARATION BY THE EUROPEAN UNION CONCERNING THE EXERCISE OF COMPETENCE[^c-287704b4f1f750e14538914b444393ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]Appendix to Annex I
+[^c-287704b4f1f750e14538914b444393ae]Appendix to Annex I
 
 EUROPEAN UNION INSTRUMENTS RELATING TO SUBJECTS DEALT WITH BY THE CONVENTION
 
 To date, the Union has exercised its competence, inter alia, through the following Union instruments:
 
-[^key-287704b4f1f750e14538914b444393ae]**ECONOMIC/MARKET ACCESS LEGISLATION**
+[^c-287704b4f1f750e14538914b444393ae]**ECONOMIC/MARKET ACCESS LEGISLATION**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]**INTEROPERABILITY AND SAFETY LEGISLATION**
+[^c-287704b4f1f750e14538914b444393ae]**INTEROPERABILITY AND SAFETY LEGISLATION**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]**PUBLIC SERVICE OBLIGATIONS**
+[^c-287704b4f1f750e14538914b444393ae]**PUBLIC SERVICE OBLIGATIONS**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — DECLARATION BY THE EUROPEAN UNION IN RESPECT OF ARTICLE 2 OF THE AGREEMENT[^key-287704b4f1f750e14538914b444393ae]
+## ANNEX II — DECLARATION BY THE EUROPEAN UNION IN RESPECT OF ARTICLE 2 OF THE AGREEMENT[^c-287704b4f1f750e14538914b444393ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — INTERNAL ARRANGEMENTS FOR THE COUNCIL, THE MEMBER STATES AND THE COMMISSION IN PROCEEDINGS UNDER OTIF[^key-287704b4f1f750e14538914b444393ae]
+## ANNEX III — INTERNAL ARRANGEMENTS FOR THE COUNCIL, THE MEMBER STATES AND THE COMMISSION IN PROCEEDINGS UNDER OTIF[^c-287704b4f1f750e14538914b444393ae]
 
-[^key-287704b4f1f750e14538914b444393ae]
+[^c-287704b4f1f750e14538914b444393ae]
 
 Bearing in mind the requirement of unity of the international representation of the Union and its Member States in accordance with the Treaty on European Union and the Treaty on the Functioning of the European Union and the case law of the Court of Justice of the European Union also at the stage of implementation of international obligations, the Council, the Member States and the Commission will apply the following internal arrangements:
 
-[^key-287704b4f1f750e14538914b444393ae]1.
+[^c-287704b4f1f750e14538914b444393ae]1.
 
 **Scope**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]2.
+[^c-287704b4f1f750e14538914b444393ae]2.
 
 **Coordination procedure**
 
-[^key-287704b4f1f750e14538914b444393ae]2.1.
+[^c-287704b4f1f750e14538914b444393ae]2.1.
 
 To prepare for any OTIF meeting, including but not limited to the meetings of the General Assembly, the Administrative Committee and other Committees, coordination meetings will be held:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]2.2.
+[^c-287704b4f1f750e14538914b444393ae]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]2.3.
+[^c-287704b4f1f750e14538914b444393ae]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]2.4.
+[^c-287704b4f1f750e14538914b444393ae]2.4.
 
 To prepare the coordination meetings referred to in point 2.1, including draft statements and position papers, preliminary discussions will, if necessary, be held in the appropriate Committee created by the relevant Union rail legislation, namely:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]2.5.
+[^c-287704b4f1f750e14538914b444393ae]2.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]2.6.
+[^c-287704b4f1f750e14538914b444393ae]2.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]3.
+[^c-287704b4f1f750e14538914b444393ae]3.
 
 **Statements and voting in the OTIF meetings**
 
-[^key-287704b4f1f750e14538914b444393ae]3.1.
+[^c-287704b4f1f750e14538914b444393ae]3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]3.2.
+[^c-287704b4f1f750e14538914b444393ae]3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]3.3.
+[^c-287704b4f1f750e14538914b444393ae]3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]3.4.
+[^c-287704b4f1f750e14538914b444393ae]3.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]3.5.
+[^c-287704b4f1f750e14538914b444393ae]3.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]3.6.
+[^c-287704b4f1f750e14538914b444393ae]3.6.
 
 The representatives of the Member States and of the Commission may participate in OTIF working groups preparing the technical committees of OTIF namely the Committee of Experts for the Carriage of Dangerous Goods (RID) and the Committee of Technical Experts (TEC). During participation in these working groups the representatives of the Member States and the Commission may present technical contributions and fully participate in the technical discussions on the basis of their technical knowledge. These discussions will not bind the Union.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-287704b4f1f750e14538914b444393ae]4.
+[^c-287704b4f1f750e14538914b444393ae]4.
 
 **Review of these arrangements**
 
@@ -329,4 +329,4 @@ För Mellanstatliga organisationen för internationell järnvägstrafik (Otif)
 
 ## Annotations
 
-[^key-287704b4f1f750e14538914b444393ae]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-287704b4f1f750e14538914b444393ae]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

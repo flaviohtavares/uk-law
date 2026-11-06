@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Rent and rate-free periods[^key-c07e5307bd84a7985907538285849b37]
+## 60. Rent and rate-free periods[^c-c07e5307bd84a7985907538285849b37]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c07e5307bd84a7985907538285849b37]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2006/406/regulation/60) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-c07e5307bd84a7985907538285849b37]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2006/406/regulation/60) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

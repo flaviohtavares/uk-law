@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Regulations about training[^key-6df751cd525ec951af6c6556bedec67c]
+## 37. Regulations about training[^c-6df751cd525ec951af6c6556bedec67c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6df751cd525ec951af6c6556bedec67c]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2009/25/section/37) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/d)
+[^c-6df751cd525ec951af6c6556bedec67c]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2009/25/section/37) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/d)

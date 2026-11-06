@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: S*
 
-The occupier of a border control[^key-8f6325125786994f874d1ea8052217cb] post or owner or driver of a vehicle where highly pathogenic avian influenza is confirmed must–
+The occupier of a border control[^c-8f6325125786994f874d1ea8052217cb] post or owner or driver of a vehicle where highly pathogenic avian influenza is confirmed must–
 
 - (a) dispose of such things which may be contaminated with avian influenza virus as a veterinary inspector, by notice, requires, in accordance with the notice;
 - (b) provide such assistance to a veterinary inspector in removing from the border control post or vehicle such things as the veterinary inspector may, by notice, reasonably require.
 
 ## Annotations
 
-[^key-8f6325125786994f874d1ea8052217cb]: Textual amendment: Word in [art. 41](https://www.legislation.gov.uk/ssi/2006/336/article/41) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(11)](https://www.legislation.gov.uk/ssi/2023/361/article/2/11)
+[^c-8f6325125786994f874d1ea8052217cb]: Textual amendment: Word in [art. 41](https://www.legislation.gov.uk/ssi/2006/336/article/41) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(11)](https://www.legislation.gov.uk/ssi/2023/361/article/2/11)

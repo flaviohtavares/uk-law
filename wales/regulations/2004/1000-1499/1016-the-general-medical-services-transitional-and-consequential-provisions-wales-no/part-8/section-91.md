@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Transitory modification of section 18 of the 1990 Act[^key-e3aa422353ebb7de3488111390211237]
+## 91. Transitory modification of section 18 of the 1990 Act[^c-e3aa422353ebb7de3488111390211237]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ For as long as default contracts entered into pursuant to section 176(3) of the 
 
 ## Annotations
 
-[^key-e3aa422353ebb7de3488111390211237]: Commencement: Art. 91 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-e3aa422353ebb7de3488111390211237]: Commencement: Art. 91 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00077]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19). Section 18(3) (a) and (b) were substituted by the 2003 Act, Schedule 11, paragraph 56(3).

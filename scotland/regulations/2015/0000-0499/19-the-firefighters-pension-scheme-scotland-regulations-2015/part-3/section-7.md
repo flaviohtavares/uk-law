@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Eligible persons[^key-94a64533cf0057c03df3bc32ad44076b]
+## 7. Eligible persons[^c-94a64533cf0057c03df3bc32ad44076b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94a64533cf0057c03df3bc32ad44076b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/19/regulation/7) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-94a64533cf0057c03df3bc32ad44076b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/19/regulation/7) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

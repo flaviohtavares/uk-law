@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Consideration of standards: publication requirements[^key-59a04720a9ca3fa3e19ba043f97d2c4b]
+## 9. Consideration of standards: publication requirements[^c-59a04720a9ca3fa3e19ba043f97d2c4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59a04720a9ca3fa3e19ba043f97d2c4b]: Commencement: Reg. 9 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-59a04720a9ca3fa3e19ba043f97d2c4b]: Commencement: Reg. 9 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23673341]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80). See section 1 and Schedule 1 for the definition of “bank holiday”. Schedule 1 was amended by section 1 of the [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp. 2)](https://www.legislation.gov.uk/asp/2007/2). There are other amendments but none is relevant.

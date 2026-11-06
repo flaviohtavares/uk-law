@@ -41,13 +41,13 @@ Coming into operation
 
 The Office of the First Minister and deputy First Minister, being a Department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to discrimination [^f00002], in exercise of the powers conferred by section 2(2) of that Act makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-acc8ef57a48cda5f12d003d71496ea5b]
+## 1. Citation, commencement and interpretation[^c-acc8ef57a48cda5f12d003d71496ea5b]
 
 (1) These Regulations may be cited as the Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 30th September 2006.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Employment Equality (Age) Regulations (Northern Ireland) 2006[^key-8c705f1257540970950428dee70b6f97]
+## 2. Amendment of the Employment Equality (Age) Regulations (Northern Ireland) 2006[^c-8c705f1257540970950428dee70b6f97]
 
 (1) The Employment Equality (Age) Regulations (Northern Ireland) 2006[^f00004] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -116,10 +116,10 @@ A Regulatory Impact Assessment of the effect that these Regulations will have on
 
 [^f00002]: Footnote: See the European Communities (Designation) (No. 3) Order 2002 ([S.I. 2002/1819](https://www.legislation.gov.uk/uksi/2002/1819))
 
-[^key-acc8ef57a48cda5f12d003d71496ea5b]: Commencement: Reg. 1 in operation at 30.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1)
+[^c-acc8ef57a48cda5f12d003d71496ea5b]: Commencement: Reg. 1 in operation at 30.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8c705f1257540970950428dee70b6f97]: Commencement: Reg. 2 in operation at 30.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1)
+[^c-8c705f1257540970950428dee70b6f97]: Commencement: Reg. 2 in operation at 30.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2006 No. 261](https://www.legislation.gov.uk/nisr/2006/261)

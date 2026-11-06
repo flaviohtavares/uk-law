@@ -30,7 +30,7 @@ summary: ''
 
 HOUSING; RATES; SOCIAL SECURITY
 
-The Social Security (Lone Parents) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
+The Social Security (Lone Parents) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
 
 Made
 
@@ -40,35 +40,35 @@ Coming into operation
 
 6th April 1998
 
-[^key-e3b1ff01b7d26e4ed29e46ce4e41aeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3b1ff01b7d26e4ed29e46ce4e41aeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
+## 1. Citation, commencement and interpretation[^c-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Income Support Regulations[^key-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
+## 2. Amendment of the Income Support Regulations[^c-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Housing Benefit Regulations[^key-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
+## 3. Amendment of the Housing Benefit Regulations[^c-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
+## 5. Revocations[^c-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e3b1ff01b7d26e4ed29e46ce4e41aeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3b1ff01b7d26e4ed29e46ce4e41aeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Regulations Revoked[^key-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
+## SCHEDULE — Regulations Revoked[^c-e3b1ff01b7d26e4ed29e46ce4e41aeb5]
 
 Regulation 5
 
@@ -76,8 +76,8 @@ Regulation 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-e3b1ff01b7d26e4ed29e46ce4e41aeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3b1ff01b7d26e4ed29e46ce4e41aeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3b1ff01b7d26e4ed29e46ce4e41aeb5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/354) revoked (6.4.1998) by [The Social Security (Amendment) (Lone Parents) Regulations (Northern Ireland) 1998 (S.R. 1998/112)](https://www.legislation.gov.uk/nisr/1998/112), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/112/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1998/112/regulation/2)
+[^c-e3b1ff01b7d26e4ed29e46ce4e41aeb5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/354) revoked (6.4.1998) by [The Social Security (Amendment) (Lone Parents) Regulations (Northern Ireland) 1998 (S.R. 1998/112)](https://www.legislation.gov.uk/nisr/1998/112), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/112/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1998/112/regulation/2)

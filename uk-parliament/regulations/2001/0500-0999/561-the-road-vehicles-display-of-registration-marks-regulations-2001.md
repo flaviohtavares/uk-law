@@ -67,28 +67,28 @@ The Secretary of State for the Environment, Transport and the Regions, in exerci
 (1) In these Regulations the following expressions shall have the following meanings—
 
 - “the Act” means the Vehicle Excise and Registration Act 1994;
-- “agricultural machine” means a vehicle which is an agricultural tractor, an off-road tractor, a light agricultural vehicle, an agricultural engine or a mowing machine;[^key-9badf9911974577e13a13279511917b0]
-- “agricultural tractor” means a tractor used on public roads solely for—[^key-fa55bf3f32fe050620488030dc028608]
+- “agricultural machine” means a vehicle which is an agricultural tractor, an off-road tractor, a light agricultural vehicle, an agricultural engine or a mowing machine;[^c-9badf9911974577e13a13279511917b0]
+- “agricultural tractor” means a tractor used on public roads solely for—[^c-fa55bf3f32fe050620488030dc028608]
   - (a) purposes relating to agriculture, horticulture or forestry,
   - (b) cutting verges bordering public roads, or
   - (c) cutting hedges or trees bordering public roads or bordering verges which border public roads;
-- [^key-f38543c43cf1515b35dafd8e5ce60416]...
-- [^key-f38543c43cf1515b35dafd8e5ce60416]...
-- “[^key-d09f194385304468520cd251c7993928]EEA State” has the meaning given by Schedule 1 to the Interpretation Act 1978
-- “light agricultural vehicle” means a vehicle which—[^key-4e788de6582e107218af8665b7a57159]
+- [^c-f38543c43cf1515b35dafd8e5ce60416]...
+- [^c-f38543c43cf1515b35dafd8e5ce60416]...
+- “[^c-d09f194385304468520cd251c7993928]EEA State” has the meaning given by Schedule 1 to the Interpretation Act 1978
+- “light agricultural vehicle” means a vehicle which—[^c-4e788de6582e107218af8665b7a57159]
   - (a) has a revenue weight not exceeding 1,000 kilograms,
   - (b) is designed and constructed so as to seat only the driver,
   - (c) is designed and constructed primarily for use otherwise than on roads, and
   - (d) is used solely for purposes relating to agriculture, horticulture or forestry;
 - “motor cycle” means a vehicle having 2 wheels and includes a vehicle of that description in combination with a sidecar;
 - “motor tricycle” means a vehicle having 3 wheels symmetrically arranged;
-- “off-road tractor” means a tractor which is not an agricultural tractor and which—[^key-e7777abbd2eeb943da20024c349cea34]
+- “off-road tractor” means a tractor which is not an agricultural tractor and which—[^c-e7777abbd2eeb943da20024c349cea34]
   - (a) is designed and constructed primarily for use otherwise than on roads, and
   - (b) is incapable by reason of its construction of exceeding a speed of twenty five miles per hour on the level under its own power;
 - “quadricycle” means a vehicle having four wheels, a maximum net engine power not exceeding 15 kilowatts and an unladen mass (excluding the mass of batteries in the case of an electrically-powered vehicle) not exceeding—
   - (a) 550 kilograms in the case of a goods vehicle, and
   - (b) 400 kilograms in any other case;
-- “registration plate” means a plate or other device displaying the registration mark of the vehicle , but does not include such part of a plate or device as is intended for the display of material specified in regulation[^key-d3a5d85b12573766c321aa518860afc2] 16(3), (4), (4A), (4B) and (4D)[^key-7810cecc7078fd8e9dd62ee191f5f2cc];
+- “registration plate” means a plate or other device displaying the registration mark of the vehicle , but does not include such part of a plate or device as is intended for the display of material specified in regulation[^c-d3a5d85b12573766c321aa518860afc2] 16(3), (4), (4A), (4B) and (4D)[^c-7810cecc7078fd8e9dd62ee191f5f2cc];
 - “prescribed font” means the style shown in Schedule 4 for a character of the height specified in that Schedule;
 - “relevant date” means—
   - (a) in Great Britain, 1st October 1938, and
@@ -126,7 +126,7 @@ In this Part the following expressions shall have the following meanings—
   - (b) behind the vehicle in the case of a plate fixed on the rear of the vehicle,
 
   where one corner of the square is immediately below the middle of the plate and the diagonal of the square from that corner is parallel to the longitudinal axis of the vehicle;
-- [^key-fc308d56df867468145b4c587896b3c5]...
+- [^c-fc308d56df867468145b4c587896b3c5]...
 
 ### 5. Fixing of rear registration plates: vehicles registered on or after the relevant date
 
@@ -138,7 +138,7 @@ In this Part the following expressions shall have the following meanings—
 - (b) where the vehicle is towing a trailer, the trailer, or
 - (c) where the vehicle is towing more than one trailer, the rearmost trailer.
 
-(3) Where a vehicle (or, in a case where the plate is required to be fixed on a trailer, that trailer) has been constructed so as to satisfy the requirements of EU[^key-b6742e03867e90ba61e3e07737e26240] law , or[^key-efa09bb167ba48b036c99ddb9065d4e5] assimilated[^key-bb635467de45832063e861bf85a124c3] law, in force at the time of construction as regards the space to be provided for the fixing of the rear registration plate, whether or not it was required by law to satisfy them, the plate may be fixed in the space provided in accordance with those requirements but if it is not so fixed it must be fixed in the manner required by paragraph (5).
+(3) Where a vehicle (or, in a case where the plate is required to be fixed on a trailer, that trailer) has been constructed so as to satisfy the requirements of EU[^c-b6742e03867e90ba61e3e07737e26240] law , or[^c-efa09bb167ba48b036c99ddb9065d4e5] assimilated[^c-bb635467de45832063e861bf85a124c3] law, in force at the time of construction as regards the space to be provided for the fixing of the rear registration plate, whether or not it was required by law to satisfy them, the plate may be fixed in the space provided in accordance with those requirements but if it is not so fixed it must be fixed in the manner required by paragraph (5).
 
 (4) Except as provided in paragraph (3) the plate must be fixed in the manner required by paragraph (5).
 
@@ -223,7 +223,7 @@ In this Part the following expressions shall have the following meanings—
 
 must be lit in accordance with this regulation.
 
-(3) Where a vehicle (or, in a case where the plate is required to be fixed on a trailer, that trailer) has been constructed so as to satisfy the requirements of EU[^key-6f0372c95d912e0937a7a427e7ac275c] law , or[^key-7bca1ed1346d6fda91fe5b779a5c8f9a] assimilated[^key-cdc7cf8a741a4c779a4a6ca95e8f55ac] law, in force at the time of construction as regards the rear registration plate lamp, whether or not it was required by law to satisfy them, that plate may be lit by a lamp which complies with those requirements but if it is not so lit it must be lit in the manner required by paragraph (5).
+(3) Where a vehicle (or, in a case where the plate is required to be fixed on a trailer, that trailer) has been constructed so as to satisfy the requirements of EU[^c-6f0372c95d912e0937a7a427e7ac275c] law , or[^c-7bca1ed1346d6fda91fe5b779a5c8f9a] assimilated[^c-cdc7cf8a741a4c779a4a6ca95e8f55ac] law, in force at the time of construction as regards the rear registration plate lamp, whether or not it was required by law to satisfy them, that plate may be lit by a lamp which complies with those requirements but if it is not so lit it must be lit in the manner required by paragraph (5).
 
 (4) Except as provided in paragraph (3) that plate must be lit in the manner required by paragraph (5).
 
@@ -236,17 +236,17 @@ must be lit in accordance with this regulation.
 
 (1) A registration mark must be displayed on a registration plate conforming to the requirements prescribed by this regulation.
 
-(1A)[^key-35f19723b4caeab70460f6ab683ee68f] In the case of a vehicle first registered on or after 1st September 2021 the registration plate must conform to the requirements set out in Part A1 of Schedule 2.
+(1A)[^c-35f19723b4caeab70460f6ab683ee68f] In the case of a vehicle first registered on or after 1st September 2021 the registration plate must conform to the requirements set out in Part A1 of Schedule 2.
 
-(2) Subject to paragraph (4A),[^key-c07989855f87d4b216943571221465e0] in the case of a vehicle first registered on or after 1st September 2001 but before 1st September 2021[^key-356a5b61e0bbfef2927a42e1e2ed20d3] the registration plate must conform to the requirements set out in Part 1 of Schedule 2.
+(2) Subject to paragraph (4A),[^c-c07989855f87d4b216943571221465e0] in the case of a vehicle first registered on or after 1st September 2001 but before 1st September 2021[^c-356a5b61e0bbfef2927a42e1e2ed20d3] the registration plate must conform to the requirements set out in Part 1 of Schedule 2.
 
-(3) Subject to paragraph (4) or (4A)[^key-e04681a11f40e82f7bbcc39b4df10c5a], in the case of a vehicle first registered on or after 1st January 1973 but before 1st September 2001 the registration plate must conform either to the requirements set out in Part 2 of Schedule 2 or to the requirements set out in Part A1 or[^key-63fd8fa0391c05684a4f85e2111f5a77] Part 1 of that Schedule.
+(3) Subject to paragraph (4) or (4A)[^c-e04681a11f40e82f7bbcc39b4df10c5a], in the case of a vehicle first registered on or after 1st January 1973 but before 1st September 2001 the registration plate must conform either to the requirements set out in Part 2 of Schedule 2 or to the requirements set out in Part A1 or[^c-63fd8fa0391c05684a4f85e2111f5a77] Part 1 of that Schedule.
 
-(4) Where on or after 1st September 2001 but before 1st September 2021[^key-acd09b372612d47292e0696412ac21d1] a new registration plate is fixed to a vehicle to which paragraph (3) applies to replace a plate previously fixed thereto, the plate must conform to the requirements set out in Part 1 of Schedule 2.
+(4) Where on or after 1st September 2001 but before 1st September 2021[^c-acd09b372612d47292e0696412ac21d1] a new registration plate is fixed to a vehicle to which paragraph (3) applies to replace a plate previously fixed thereto, the plate must conform to the requirements set out in Part 1 of Schedule 2.
 
-(4A)[^key-2c4ba20d87dbeb3f4a004171e00b7e89] Where on or after 1st September 2021 a new registration plate is fixed to a vehicle to which either paragraph (2) or paragraph (3) applies to replace a plate previously fixed thereto, the plate must conform to the requirements set out in Part A1 of Schedule 2.
+(4A)[^c-2c4ba20d87dbeb3f4a004171e00b7e89] Where on or after 1st September 2021 a new registration plate is fixed to a vehicle to which either paragraph (2) or paragraph (3) applies to replace a plate previously fixed thereto, the plate must conform to the requirements set out in Part A1 of Schedule 2.
 
-(5) In the case of a vehicle first registered before 1st January 1973, the registration plate must conform either to one of the requirements set out in Part 3 of Schedule 2 or to the requirements set out in Part 2 of that Schedule or to the requirements set out in Part A1 or[^key-3d2e6d3554b98e2cf14a0f3d4d8f4eeb] Part 1 of that Schedule.
+(5) In the case of a vehicle first registered before 1st January 1973, the registration plate must conform either to one of the requirements set out in Part 3 of Schedule 2 or to the requirements set out in Part 2 of that Schedule or to the requirements set out in Part A1 or[^c-3d2e6d3554b98e2cf14a0f3d4d8f4eeb] Part 1 of that Schedule.
 
 (6) The corners of a registration plate may be rounded off provided that the requirements of regulation 14(9) (margins around registration marks) are not thereby infringed.
 
@@ -254,7 +254,7 @@ must be lit in accordance with this regulation.
 
 (1) No reflex-reflecting material may be applied to any part of a registration plate and the plate must not be treated in such a way that the characters of the registration mark become, or are caused to act as, retroreflective characters.
 
-(1A)[^key-223f5d9a6f500b868fc5cdc1c062485f] The surface of a registration plate must not comprise or incorporate any design, pattern or texture, or be treated in any way which gives to any part of the plate the appearance of a design, pattern or texture.
+(1A)[^c-223f5d9a6f500b868fc5cdc1c062485f] The surface of a registration plate must not comprise or incorporate any design, pattern or texture, or be treated in any way which gives to any part of the plate the appearance of a design, pattern or texture.
 
 (2) A registration plate must not be treated in any other way which renders the characters of the registration mark less easily distinguishable to the eye or which would prevent or impair the making of a true photographic image of the plate through the medium of camera and film or any other device.
 
@@ -277,7 +277,7 @@ which has the effect of changing the appearance or legibility of any of the char
 - (a) “diagram” means a diagram shown in Part 2 of Schedule 3 and a reference to a numbered diagram is a reference to the diagram identified by that number in that part of that Schedule,
 - (b) “Table A” means the table in Part 1 of Schedule 3,
 - (c) “Table B” means the table in Part 3 of Schedule 3,
-- (d) a reference to “relevant character height” , except in relation to a vehicle to which regulation 14A applies,[^key-759e6f04d0e8b3bafe197fe8b8a5f94c] is a reference to the height of the characters in the registration mark shown at the head of column (2), (3) or (4) of Table B as the case may be.
+- (d) a reference to “relevant character height” , except in relation to a vehicle to which regulation 14A applies,[^c-759e6f04d0e8b3bafe197fe8b8a5f94c] is a reference to the height of the characters in the registration mark shown at the head of column (2), (3) or (4) of Table B as the case may be.
 
 (2) Any provision as to measurement contained in this Part or in Schedule 3 shall be taken to be complied with—
 
@@ -302,7 +302,7 @@ which has the effect of changing the appearance or legibility of any of the char
 
 ### 14. Size and spacing of characters
 
-(1) Except in the cases mentioned in paragraphs (2) and (3) and regulation 14A[^key-d30f7bf4be0496f1ec57ba41d10a9435], each character in a registration mark must be 79 millimetres high.
+(1) Except in the cases mentioned in paragraphs (2) and (3) and regulation 14A[^c-d30f7bf4be0496f1ec57ba41d10a9435], each character in a registration mark must be 79 millimetres high.
 
 (2) In the case of a registration mark displayed on a vehicle first registered before 1st September 2001, a character in a registration mark may be 89 millimetres high unless—
 
@@ -311,7 +311,7 @@ which has the effect of changing the appearance or legibility of any of the char
 
 (3) In the case of a registration mark fixed on a motor cycle, motor tricycle, quadricycle, agricultural machine, works truck or road roller, each character of the mark may be 64 millimetres high.
 
-(4) Subject to regulation 14A, the[^key-63543505a36e293409a8aba3f34754f6] width of each character of a mark other than the letter “I” and the figure “1” must be—
+(4) Subject to regulation 14A, the[^c-63543505a36e293409a8aba3f34754f6] width of each character of a mark other than the letter “I” and the figure “1” must be—
 
 - (a) in the case of a mark displayed—
   - (i) on a registration plate fixed to a vehicle first registered on or after 1st September 2001, or
@@ -322,9 +322,9 @@ which has the effect of changing the appearance or legibility of any of the char
 
 (5) Subject to regulation 14A, the width of every part of the stroke forming a character in a mark must be that shown in line 3 of Table B in relation to the relevant character height.
 
-(6) Except in a case to which paragraph (11) or regulation 14A[^key-fde4c67ca6193f8dccb6e3cb02a3c98a] applies, the spacing between any two characters within a group must be that shown in line 4 of Table B in relation to the relevant character height.
+(6) Except in a case to which paragraph (11) or regulation 14A[^c-fde4c67ca6193f8dccb6e3cb02a3c98a] applies, the spacing between any two characters within a group must be that shown in line 4 of Table B in relation to the relevant character height.
 
-(7) Subject to regulation 14A, the[^key-d36c98087b2c8af6909718e180567039] horizontal spacing between groups of characters in a mark must be that shown in line 5 of Table B in relation to the relevant character height.
+(7) Subject to regulation 14A, the[^c-d36c98087b2c8af6909718e180567039] horizontal spacing between groups of characters in a mark must be that shown in line 5 of Table B in relation to the relevant character height.
 
 (8) The vertical spacing between groups of characters must be that shown in line 6 of Table B in relation to the relevant character height.
 
@@ -340,12 +340,12 @@ which has the effect of changing the appearance or legibility of any of the char
 
 (11) Where this paragraph applies the spacing between—
 
-- (a)[^key-2da15366ee2f4c32213599a8f35a707d] two characters one of which is “I” or “1” must be within the limits shown in line 8 of Table B in relation to the relevant character height, and
-- (b)[^key-20c80c8479889605ab9b9d6b18bc0b53] two characters both of which are “I” or “1” must be within the limits shown in line 9 of Table B in relation to the relevant character height,
+- (a)[^c-2da15366ee2f4c32213599a8f35a707d] two characters one of which is “I” or “1” must be within the limits shown in line 8 of Table B in relation to the relevant character height, and
+- (b)[^c-20c80c8479889605ab9b9d6b18bc0b53] two characters both of which are “I” or “1” must be within the limits shown in line 9 of Table B in relation to the relevant character height,
 
 but where one or more characters in a group is “I” or “1” all the characters within that group must be evenly spaced.
 
-### 14A. Size and spacing of characters: special cases[^key-b5ec9870de81e758d34ac058d0d8ed26]
+### 14A. Size and spacing of characters: special cases[^c-b5ec9870de81e758d34ac058d0d8ed26]
 
 (1) This regulation applies in relation to any vehicle imported into the United Kingdom which—
 
@@ -386,17 +386,17 @@ each of the characters of the mark must be in the prescribed font.
 
 ## PART IV — MISCELLANEOUS
 
-### 16. International distinguishing signs and other material[^key-6d72f91aec314f6fca41eb1c55c81c4e]
+### 16. International distinguishing signs and other material[^c-6d72f91aec314f6fca41eb1c55c81c4e]
 
 (1) No material other than a registration mark and material complying with the requirements of any of the relevant standards mentioned in Schedule 2 may be displayed on a registration plate.
 
 (2) Subject to the following paragraphs of this regulation, a registration plate may not be combined with any other plate or a device of any kind.
 
-(3) The letters “GB” may be displayed on a plate or other device in accordance with the Annex to Council Regulation [(EC) No. 2411/98](https://www.legislation.gov.uk/eur/1998/2411) on the recognition in intra-Community traffic of the distinguishing sign of the Member State in which motor vehicles and their trailers are registered , provided the plate or other device was originally fixed to the vehicle, and complied with the Annex, before IP completion day[^key-2de7964be00a4c189ed29b7e57bd02c1].
+(3) The letters “GB” may be displayed on a plate or other device in accordance with the Annex to Council Regulation [(EC) No. 2411/98](https://www.legislation.gov.uk/eur/1998/2411) on the recognition in intra-Community traffic of the distinguishing sign of the Member State in which motor vehicles and their trailers are registered , provided the plate or other device was originally fixed to the vehicle, and complied with the Annex, before IP completion day[^c-2de7964be00a4c189ed29b7e57bd02c1].
 
 (4) Subject to paragraphs (5) to (8), there may be displayed on a plate or other device an arrangement of letters corresponding with one of the sub-paragraphs of paragraph (9) and an emblem corresponding with one of the sub-paragraphs of paragraph (10).
 
-(4A)[^key-734809ff52768a73294e92fbd997fca9] Subject to paragraph (4B), an eligible vehicle may display a plate or device which is green in colour.
+(4A)[^c-734809ff52768a73294e92fbd997fca9] Subject to paragraph (4B), an eligible vehicle may display a plate or device which is green in colour.
 
 (4B) The plate or other device referred to in paragraph (4A) must be—
 
@@ -408,7 +408,7 @@ each of the characters of the mark must be in the prescribed font.
 
 (4D) Subject to paragraphs (5) to (8) there may be displayed on a plate or other device referred to in (4A) an arrangement of letters corresponding with one of the sub-paragraphs of paragraph (9) and an emblem corresponding with one of the sub-paragraphs of paragraph (10).
 
-(5) The plate or other device,[^key-2985ce530958fcc9a4320554027205f6] arrangement of letters and emblem referred to in paragraph (4) , (4A), (4B) and (4D)—
+(5) The plate or other device,[^c-2985ce530958fcc9a4320554027205f6] arrangement of letters and emblem referred to in paragraph (4) , (4A), (4B) and (4D)—
 
 - (a) must be displayed to the left of the registration plate;
 - (b) must not encroach into the margin,
@@ -445,7 +445,7 @@ and for this purpose the expression “margin” is to have the same meaning as 
 - (c) an image of the Cross of Saint Andrew (the Saltire), as depicted on the flag of Scotland;
 - (d) an image of the Red Dragon of Wales, as depicted on the flag of Wales.
 
-(11)[^key-00956576c4046febf485584c75d11b7c] In this regulation—
+(11)[^c-00956576c4046febf485584c75d11b7c] In this regulation—
 
 - (a) an “eligible vehicle” means a vehicle to which these regulations apply and which cannot produce any tailpipe emissions;
 - (b) where the eligible vehicle is towing a trailer, paragraphs (4A), (4B), and (4D) may also apply to the plate or other device fixed to that trailer.
@@ -465,7 +465,7 @@ and for this purpose the expression “margin” is to have the same meaning as 
 
 (which provide for the format and means of display of registration plates and marks) shall cease to apply in respect of that vehicle and any trailer being towed by it and the provisions of these Regulations shall apply instead.
 
-### 17A. Optional early compliance with Schedule 2, Part A1[^key-a9d6e1f6705d9ab3b0d3cca9178a35ae]
+### 17A. Optional early compliance with Schedule 2, Part A1[^c-a9d6e1f6705d9ab3b0d3cca9178a35ae]
 
 A new or replacement registration plate fixed to a vehicle on or after the 1st January 2021, and before 1st September 2021, may conform to the requirements set out in Part A1 of Schedule 2.
 
@@ -473,7 +473,7 @@ A new or replacement registration plate fixed to a vehicle on or after the 1st J
 
 For the purposes of these Regulations a vehicle which was first registered on or after 1st January 1973 shall be treated as if it was first registered before that date if—
 
-- (a) it is an exempt vehicle for the purposes of paragraph 1A(1) of Schedule 2 to the Act [^c15844601] and was constructed on or before 1st January 1980[^key-807b01484d54c4c070aca13f5313fff6], or
+- (a) it is an exempt vehicle for the purposes of paragraph 1A(1) of Schedule 2 to the Act [^c15844601] and was constructed on or before 1st January 1980[^c-807b01484d54c4c070aca13f5313fff6], or
 - (b) not being such a vehicle, it was constructed before 1st January 1973.
 
 ### 19. Offences under section 59 of the Act
@@ -507,7 +507,7 @@ Regulation 1(2)
 
 Regulation 10
 
-### PART A1 — VEHICLES REGISTERED AND NEW REGISTRATION PLATES FITTED ON OR AFTER 1ST SEPTEMBER 2021 (MANDATORY SPECIFICATION)[^key-82968befb16fd7597c7da798529d1ccf]
+### PART A1 — VEHICLES REGISTERED AND NEW REGISTRATION PLATES FITTED ON OR AFTER 1ST SEPTEMBER 2021 (MANDATORY SPECIFICATION)[^c-82968befb16fd7597c7da798529d1ccf]
 
 **1.** The plate must be made of retroreflecting material which, as regards its construction, colour and other qualities, complies with the requirements of—
 
@@ -546,7 +546,7 @@ and which in either case, is marked with the number (or such other information a
 - (e) not positioned above any other markings; and
 - (f) no more than 5 millimetres in width.
 
-### PART 1 — VEHICLES REGISTERED AND NEW REGISTRATION PLATES FITTED ON OR AFTER 1ST SEPTEMBER 2001 AND BEFORE 1ST SEPTEMBER 2021 (MANDATORY SPECIFICATION)[^key-7ed77b78728193a03a5b93e3269851f0]
+### PART 1 — VEHICLES REGISTERED AND NEW REGISTRATION PLATES FITTED ON OR AFTER 1ST SEPTEMBER 2001 AND BEFORE 1ST SEPTEMBER 2021 (MANDATORY SPECIFICATION)[^c-7ed77b78728193a03a5b93e3269851f0]
 
 **1.** The plate must be made of retroreflecting material which, as regards its construction, colour and other qualities, complies with the requirements of—
 
@@ -756,93 +756,93 @@ The Regulations have been made in conjunction with the Road Vehicles Lighting (A
 
 [^c15844491]: Marginal citation: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22). Section 57(1) was amended by the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Schedule 2](https://www.legislation.gov.uk/ukpga/1996/8/schedule/2), [paragraph 16](https://www.legislation.gov.uk/ukpga/1996/8/paragraph/16).
 
-[^key-9badf9911974577e13a13279511917b0]: Textual amendment: Words in reg. 2(1) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/a)
+[^c-9badf9911974577e13a13279511917b0]: Textual amendment: Words in reg. 2(1) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/a)
 
-[^key-fa55bf3f32fe050620488030dc028608]: Textual amendment: Words in reg. 2(1) inserted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/b)
+[^c-fa55bf3f32fe050620488030dc028608]: Textual amendment: Words in reg. 2(1) inserted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/b)
 
-[^key-f38543c43cf1515b35dafd8e5ce60416]: Textual amendment: Words in reg. 2(1) omitted (27.4.2009) by virtue of [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2009 (S.I. 2009/811)](https://www.legislation.gov.uk/uksi/2009/811), [regs. 1](https://www.legislation.gov.uk/uksi/2009/811/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/811/regulation/3/a)
+[^c-f38543c43cf1515b35dafd8e5ce60416]: Textual amendment: Words in reg. 2(1) omitted (27.4.2009) by virtue of [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2009 (S.I. 2009/811)](https://www.legislation.gov.uk/uksi/2009/811), [regs. 1](https://www.legislation.gov.uk/uksi/2009/811/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/811/regulation/3/a)
 
-[^key-d09f194385304468520cd251c7993928]: Textual amendment: Words in reg. 2(1) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/c)
+[^c-d09f194385304468520cd251c7993928]: Textual amendment: Words in reg. 2(1) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/c)
 
-[^key-4e788de6582e107218af8665b7a57159]: Textual amendment: Words in reg. 2(1) inserted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(d)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/d)
+[^c-4e788de6582e107218af8665b7a57159]: Textual amendment: Words in reg. 2(1) inserted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(d)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/d)
 
-[^key-e7777abbd2eeb943da20024c349cea34]: Textual amendment: Words in reg. 2(1) inserted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(e)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/e)
+[^c-e7777abbd2eeb943da20024c349cea34]: Textual amendment: Words in reg. 2(1) inserted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(2)(e)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/2/e)
 
-[^key-d3a5d85b12573766c321aa518860afc2]: Textual amendment: Words in reg. 2(1) substituted (27.4.2009) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2009 (S.I. 2009/811)](https://www.legislation.gov.uk/uksi/2009/811), [regs. 1](https://www.legislation.gov.uk/uksi/2009/811/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/811/regulation/3/b)
+[^c-d3a5d85b12573766c321aa518860afc2]: Textual amendment: Words in reg. 2(1) substituted (27.4.2009) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2009 (S.I. 2009/811)](https://www.legislation.gov.uk/uksi/2009/811), [regs. 1](https://www.legislation.gov.uk/uksi/2009/811/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/811/regulation/3/b)
 
-[^key-7810cecc7078fd8e9dd62ee191f5f2cc]: Textual amendment: Words in reg. 2 substituted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1276/regulation/3)
+[^c-7810cecc7078fd8e9dd62ee191f5f2cc]: Textual amendment: Words in reg. 2 substituted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1276/regulation/3)
 
-[^key-fc308d56df867468145b4c587896b3c5]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2001/561/regulation/4) omitted (28.12.2018) by virtue of [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/3)
+[^c-fc308d56df867468145b4c587896b3c5]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2001/561/regulation/4) omitted (28.12.2018) by virtue of [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/3)
 
-[^key-b6742e03867e90ba61e3e07737e26240]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/5/3) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/4)
+[^c-b6742e03867e90ba61e3e07737e26240]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/5/3) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/4)
 
-[^key-efa09bb167ba48b036c99ddb9065d4e5]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/5/3) inserted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-efa09bb167ba48b036c99ddb9065d4e5]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/5/3) inserted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bb635467de45832063e861bf85a124c3]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/5/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 8 para. 2(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/8/paragraph/2/a)
+[^c-bb635467de45832063e861bf85a124c3]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/5/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 8 para. 2(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/8/paragraph/2/a)
 
-[^key-6f0372c95d912e0937a7a427e7ac275c]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/9/3) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/6)
+[^c-6f0372c95d912e0937a7a427e7ac275c]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/9/3) substituted (28.12.2018) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/6)
 
-[^key-7bca1ed1346d6fda91fe5b779a5c8f9a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/9/3) inserted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7bca1ed1346d6fda91fe5b779a5c8f9a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/9/3) inserted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cdc7cf8a741a4c779a4a6ca95e8f55ac]: Textual amendment: Word in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/9/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 8 para. 2(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/8/paragraph/2/b)
+[^c-cdc7cf8a741a4c779a4a6ca95e8f55ac]: Textual amendment: Word in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/9/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 8 para. 2(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/8/paragraph/2/b)
 
-[^key-35f19723b4caeab70460f6ab683ee68f]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/1A) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/a)
+[^c-35f19723b4caeab70460f6ab683ee68f]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/1A) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/a)
 
-[^key-c07989855f87d4b216943571221465e0]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/2) inserted (27.8.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2021 (S.I. 2021/831)](https://www.legislation.gov.uk/uksi/2021/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/831/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/831/regulation/3)
+[^c-c07989855f87d4b216943571221465e0]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/2) inserted (27.8.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2021 (S.I. 2021/831)](https://www.legislation.gov.uk/uksi/2021/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/831/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/831/regulation/3)
 
-[^key-356a5b61e0bbfef2927a42e1e2ed20d3]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/2) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/b)
+[^c-356a5b61e0bbfef2927a42e1e2ed20d3]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/2) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/b)
 
-[^key-e04681a11f40e82f7bbcc39b4df10c5a]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/3) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/c/i)
+[^c-e04681a11f40e82f7bbcc39b4df10c5a]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/3) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/c/i)
 
-[^key-63fd8fa0391c05684a4f85e2111f5a77]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/3) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/c/ii)
+[^c-63fd8fa0391c05684a4f85e2111f5a77]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/3) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/c/ii)
 
-[^key-acd09b372612d47292e0696412ac21d1]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/4) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/d)
+[^c-acd09b372612d47292e0696412ac21d1]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/4) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/d)
 
-[^key-2c4ba20d87dbeb3f4a004171e00b7e89]: Textual amendment: [Reg. 10(4A)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/4A) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/e)
+[^c-2c4ba20d87dbeb3f4a004171e00b7e89]: Textual amendment: [Reg. 10(4A)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/4A) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/e)
 
-[^key-3d2e6d3554b98e2cf14a0f3d4d8f4eeb]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/5) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(f)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/f)
+[^c-3d2e6d3554b98e2cf14a0f3d4d8f4eeb]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2001/561/regulation/10/5) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [3(f)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/3/f)
 
-[^key-223f5d9a6f500b868fc5cdc1c062485f]: Textual amendment: [Reg. 11(1A)](https://www.legislation.gov.uk/uksi/2001/561/regulation/11/1A) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [3](https://www.legislation.gov.uk/uksi/2002/2687/regulation/3)
+[^c-223f5d9a6f500b868fc5cdc1c062485f]: Textual amendment: [Reg. 11(1A)](https://www.legislation.gov.uk/uksi/2001/561/regulation/11/1A) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [3](https://www.legislation.gov.uk/uksi/2002/2687/regulation/3)
 
-[^key-759e6f04d0e8b3bafe197fe8b8a5f94c]: Textual amendment: Words in [reg. 12(1)(d)](https://www.legislation.gov.uk/uksi/2001/561/regulation/12/1/d) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/2687/regulation/4)
+[^c-759e6f04d0e8b3bafe197fe8b8a5f94c]: Textual amendment: Words in [reg. 12(1)(d)](https://www.legislation.gov.uk/uksi/2001/561/regulation/12/1/d) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/2687/regulation/4)
 
-[^key-d30f7bf4be0496f1ec57ba41d10a9435]: Textual amendment: Words in reg. 14(1) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/a)
+[^c-d30f7bf4be0496f1ec57ba41d10a9435]: Textual amendment: Words in reg. 14(1) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/a)
 
-[^key-63543505a36e293409a8aba3f34754f6]: Textual amendment: Words in reg. 14(4)(5) substituted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/b)
+[^c-63543505a36e293409a8aba3f34754f6]: Textual amendment: Words in reg. 14(4)(5) substituted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/b)
 
-[^key-fde4c67ca6193f8dccb6e3cb02a3c98a]: Textual amendment: Words in reg. 14(6) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/c)
+[^c-fde4c67ca6193f8dccb6e3cb02a3c98a]: Textual amendment: Words in reg. 14(6) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/c)
 
-[^key-d36c98087b2c8af6909718e180567039]: Textual amendment: Words in reg. 14(7)-(9) substituted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/d)
+[^c-d36c98087b2c8af6909718e180567039]: Textual amendment: Words in reg. 14(7)-(9) substituted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/1/d)
 
-[^key-2da15366ee2f4c32213599a8f35a707d]: Textual amendment: Word in reg. 14(11) substituted (1.9.2001) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2001 (S.I. 2001/1079)](https://www.legislation.gov.uk/uksi/2001/1079), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/2/2/a) (with [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/a))
+[^c-2da15366ee2f4c32213599a8f35a707d]: Textual amendment: Word in reg. 14(11) substituted (1.9.2001) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2001 (S.I. 2001/1079)](https://www.legislation.gov.uk/uksi/2001/1079), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/2/2/a) (with [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/a))
 
-[^key-20c80c8479889605ab9b9d6b18bc0b53]: Textual amendment: Word in reg. 14(11) substituted (1.9.2001) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2001 (S.I. 2001/1079)](https://www.legislation.gov.uk/uksi/2001/1079), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/2/2/b) (with [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/a))
+[^c-20c80c8479889605ab9b9d6b18bc0b53]: Textual amendment: Word in reg. 14(11) substituted (1.9.2001) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2001 (S.I. 2001/1079)](https://www.legislation.gov.uk/uksi/2001/1079), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/2/2/b) (with [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/1079/regulation/1/1/a))
 
-[^key-b5ec9870de81e758d34ac058d0d8ed26]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2001/561/regulation/14A) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/2)
+[^c-b5ec9870de81e758d34ac058d0d8ed26]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2001/561/regulation/14A) inserted (22.11.2002) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2002 (S.I. 2002/2687)](https://www.legislation.gov.uk/uksi/2002/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2687/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/2687/regulation/5/2)
 
-[^key-6d72f91aec314f6fca41eb1c55c81c4e]: Textual amendment: Reg. 16 substituted (27.4.2009) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2009 (S.I. 2009/811)](https://www.legislation.gov.uk/uksi/2009/811), [regs. 1](https://www.legislation.gov.uk/uksi/2009/811/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/811/regulation/4)
+[^c-6d72f91aec314f6fca41eb1c55c81c4e]: Textual amendment: Reg. 16 substituted (27.4.2009) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2009 (S.I. 2009/811)](https://www.legislation.gov.uk/uksi/2009/811), [regs. 1](https://www.legislation.gov.uk/uksi/2009/811/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/811/regulation/4)
 
-[^key-2de7964be00a4c189ed29b7e57bd02c1]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/3) inserted (31.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2020/1363/regulation/4)
+[^c-2de7964be00a4c189ed29b7e57bd02c1]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/3) inserted (31.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2020/1363/regulation/4)
 
-[^key-734809ff52768a73294e92fbd997fca9]: Textual amendment: [Reg. 16(4A)-(4D)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/4A) inserted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1276/regulation/4/a)
+[^c-734809ff52768a73294e92fbd997fca9]: Textual amendment: [Reg. 16(4A)-(4D)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/4A) inserted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1276/regulation/4/a)
 
-[^key-2985ce530958fcc9a4320554027205f6]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/5) inserted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1276/regulation/4/b)
+[^c-2985ce530958fcc9a4320554027205f6]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/5) inserted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1276/regulation/4/b)
 
-[^key-00956576c4046febf485584c75d11b7c]: Textual amendment: [Reg. 16(11)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/11) inserted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/1276/regulation/4/c)
+[^c-00956576c4046febf485584c75d11b7c]: Textual amendment: [Reg. 16(11)](https://www.legislation.gov.uk/uksi/2001/561/regulation/16/11) inserted (8.12.2020) by [The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2020 (S.I. 2020/1276)](https://www.legislation.gov.uk/uksi/2020/1276), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1276/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/1276/regulation/4/c)
 
 [^c15844581]: Marginal citation: [S.I. 1971/450](https://www.legislation.gov.uk/uksi/1971/450). The Relevant amendments are by [S.I. 1972/1865](https://www.legislation.gov.uk/uksi/1972/1865), 1975/1089 and 1984/814.
 
 [^c15844591]: Marginal citation: S.R. & O. (N.I.) [1973 No. 490](https://www.legislation.gov.uk/ukcm/1973/490). The relevant amendments are by [S.I. 1976/2180](https://www.legislation.gov.uk/uksi/1976/2180).
 
-[^key-a9d6e1f6705d9ab3b0d3cca9178a35ae]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2001/561/regulation/17A) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1363/regulation/5)
+[^c-a9d6e1f6705d9ab3b0d3cca9178a35ae]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2001/561/regulation/17A) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1363/regulation/5)
 
 [^c15844601]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2001/561/paragraph/1A) was inserted by the Finance act 1996, s. 19, and amended by the Finance Act 1998, s. 17.
 
-[^key-807b01484d54c4c070aca13f5313fff6]: Textual amendment: Words in [reg. 18(a)](https://www.legislation.gov.uk/uksi/2001/561/regulation/18/a) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/1363/regulation/6)
+[^c-807b01484d54c4c070aca13f5313fff6]: Textual amendment: Words in [reg. 18(a)](https://www.legislation.gov.uk/uksi/2001/561/regulation/18/a) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/1363/regulation/6)
 
-[^key-82968befb16fd7597c7da798529d1ccf]: Textual amendment: [Sch. 2 Pt. A1](https://www.legislation.gov.uk/uksi/2001/561/schedule/2/part/A1) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1363/regulation/7)
+[^c-82968befb16fd7597c7da798529d1ccf]: Textual amendment: [Sch. 2 Pt. A1](https://www.legislation.gov.uk/uksi/2001/561/schedule/2/part/A1) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1363/regulation/7)
 
-[^key-7ed77b78728193a03a5b93e3269851f0]: Textual amendment: Words in [Sch. 2 Pt. 1 heading](https://www.legislation.gov.uk/uksi/2001/561/schedule/2/part/1) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1363/regulation/8)
+[^c-7ed77b78728193a03a5b93e3269851f0]: Textual amendment: Words in [Sch. 2 Pt. 1 heading](https://www.legislation.gov.uk/uksi/2001/561/schedule/2/part/1) inserted (1.1.2021) by [The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1363)](https://www.legislation.gov.uk/uksi/2020/1363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1363/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1363/regulation/8)
 
 [^c15844611]: Marginal citation: Published by the British Standards Institution, 389 Chiswick High Road, London W4 4AL. The ISBN number is 0 580 28985 0. Copies may be obtained by post from BSI Customer Services, Sales Department, at the above address or from a BSI sales outlet.
 

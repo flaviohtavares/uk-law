@@ -26,13 +26,13 @@ Sections 41 and 43
 
 #### Continental Shelf Act 1964
 
-**1.**[^key-b66d96f76fbf888c22f73679645e5847] (1) Section 8 of the Continental Shelf Act 1964 (c. 29) (application of the Submarine Telegraph Act 1885 (c. 49) to pipe-lines and submarine cables) is amended as follows.
+**1.**[^c-b66d96f76fbf888c22f73679645e5847] (1) Section 8 of the Continental Shelf Act 1964 (c. 29) (application of the Submarine Telegraph Act 1885 (c. 49) to pipe-lines and submarine cables) is amended as follows.
 
 (2) In subsection (1A) (submarine cables and pipe-lines under waters in an area designated under section 1(7) of the 1964 Act) for “section 1(7) of this Act” substitute “ section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone). ”.
 
 #### Fishery Limits Act 1976
 
-**2.**[^c2007984][^key-59ff85af6d6e5324be10d58c9de207d4] (1) Section 1 of the Fishery Limits Act 1976 (c. 86) (British fishery limits) is amended as follows.
+**2.**[^c2007984][^c-59ff85af6d6e5324be10d58c9de207d4] (1) Section 1 of the Fishery Limits Act 1976 (c. 86) (British fishery limits) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -51,7 +51,7 @@ Sections 41 and 43
 
 #### Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996
 
-**3.**[^key-df1fbe02ca0e7c379d0b4c0d9e718b54] (1) Article 2 of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996 (S.I. 1996/282) (provision that may be made by regulations) is amended as follows.
+**3.**[^c-df1fbe02ca0e7c379d0b4c0d9e718b54] (1) Article 2 of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996 (S.I. 1996/282) (provision that may be made by regulations) is amended as follows.
 
 (2) In paragraph (2)(g) (power to specify areas of sea in which jurisdiction and rights of the United Kingdom are exercisable) for “above any of the areas for the time being designated under section 1(7) of the Continental Shelf Act 1964” substitute “ within any area for the time being designated under section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone) ”.
 
@@ -65,7 +65,7 @@ Sections 41 and 43
 
 #### Energy Act 2004
 
-**4.**[^key-fad96a86b7e38ae7313c8e15aff975e2] (1) Section 84 of the Energy Act 2004 (c. 20) (exploitation of areas outside the territorial sea for energy production) is amended as follows.
+**4.**[^c-fad96a86b7e38ae7313c8e15aff975e2] (1) Section 84 of the Energy Act 2004 (c. 20) (exploitation of areas outside the territorial sea for energy production) is amended as follows.
 
 (2) For subsection (4) substitute—
 
@@ -78,7 +78,7 @@ Sections 41 and 43
 
 #### Energy Act 2008
 
-**5.**[^c2008206][^key-6a480f7fde68568b525590b0689cc92a] (1) The Energy Act 2008 (c. 32) is amended as follows.
+**5.**[^c2008206][^c-6a480f7fde68568b525590b0689cc92a] (1) The Energy Act 2008 (c. 32) is amended as follows.
 
 (2) In section 1 (exploitation of areas outside the territorial sea for gas importation and storage), for subsection (5) substitute—
 
@@ -97,7 +97,7 @@ Sections 41 and 43
 
 #### Government of Wales Act 2006
 
-**6.**[^c2008152][^key-55bfa324aca86912da3059a40439ec53] (1) The Government of Wales Act 2006 (c. 32) is amended as follows.
+**6.**[^c2008152][^c-55bfa324aca86912da3059a40439ec53] (1) The Government of Wales Act 2006 (c. 32) is amended as follows.
 
 (2) In section 37(2) (power of Assembly to call for witnesses and documents) after “Wales” insert “ or the Welsh zone ”.
 
@@ -111,7 +111,7 @@ Sections 41 and 43
   >
   > (1B) Subsection (1A) does not have effect in relation to an Order in Council to the extent that it contains provision made by virtue of paragraph 4 of Schedule 3 (functions exercisable beyond the territorial sea).
 
-(4) In section 59 (implementation of EU[^key-d70309a0189820d77ec38d149c1532d4] law)—
+(4) In section 59 (implementation of EU[^c-d70309a0189820d77ec38d149c1532d4] law)—
 
 - (a) in subsection (4)(c) for “Wales or a part of Wales” substitute “ Wales, the Welsh zone or a part of Wales or the Welsh zone ”, and
 - (b) in subsection (7)(c) for “Wales or a part of Wales” substitute “ Wales, the Welsh zone or a part of Wales or the Welsh zone ”.
@@ -132,22 +132,22 @@ Sections 41 and 43
 
 ## Annotations
 
-[^key-b66d96f76fbf888c22f73679645e5847]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/1) in force at 31.3.2014 by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+[^c-b66d96f76fbf888c22f73679645e5847]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/1) in force at 31.3.2014 by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
 
 [^c2007984]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2) partly in force; [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-59ff85af6d6e5324be10d58c9de207d4]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2) in force at 31.3.2014 in so far as not already in force by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+[^c-59ff85af6d6e5324be10d58c9de207d4]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2) in force at 31.3.2014 in so far as not already in force by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
 
-[^key-df1fbe02ca0e7c379d0b4c0d9e718b54]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/3) in force at 31.3.2014 by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+[^c-df1fbe02ca0e7c379d0b4c0d9e718b54]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/3) in force at 31.3.2014 by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
 
-[^key-fad96a86b7e38ae7313c8e15aff975e2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/4) in force at 31.3.2014 by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+[^c-fad96a86b7e38ae7313c8e15aff975e2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/4) in force at 31.3.2014 by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
 
 [^c2008206]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/5) partly in force; [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/5) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-6a480f7fde68568b525590b0689cc92a]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/5) in force at 31.3.2014 in so far as not already in force by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+[^c-6a480f7fde68568b525590b0689cc92a]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/5) in force at 31.3.2014 in so far as not already in force by [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
 
 [^c2008152]: Commencement: Sch. 4 para. 6 partly in force; Sch. 4 para. 6 in force for specified purposes at Royal Assent see s. 324(1)(d)
 
-[^key-55bfa324aca86912da3059a40439ec53]: Commencement: Sch. 4 para. 6 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/7)
+[^c-55bfa324aca86912da3059a40439ec53]: Commencement: Sch. 4 para. 6 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/7)
 
-[^key-d70309a0189820d77ec38d149c1532d4]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-d70309a0189820d77ec38d149c1532d4]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

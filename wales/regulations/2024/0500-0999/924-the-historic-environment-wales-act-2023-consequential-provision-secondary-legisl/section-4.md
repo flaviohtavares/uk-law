@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. The Ancient Monuments (Class Consents) Order 1981[^key-bcb532827dcf1046a662d28ceaf8d375]
+## 4. The Ancient Monuments (Class Consents) Order 1981[^c-bcb532827dcf1046a662d28ceaf8d375]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In article 1(2) of the Ancient Monuments (Class Consents) Order 1981[^f00004], o
 
 ## Annotations
 
-[^key-bcb532827dcf1046a662d28ceaf8d375]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/924/regulation/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-bcb532827dcf1046a662d28ceaf8d375]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/924/regulation/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 1981/1302](https://www.legislation.gov.uk/uksi/1981/1302), to which there are amendments not relevant to these Regulations.

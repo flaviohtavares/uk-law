@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Crown application[^key-57d4410d4f1d35a279f6aec13dff948b]
+## 47. Crown application[^c-57d4410d4f1d35a279f6aec13dff948b]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57d4410d4f1d35a279f6aec13dff948b]: Commencement: S. 47 not in force at Royal Assent, see [s. 133(4)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/d)
+[^c-57d4410d4f1d35a279f6aec13dff948b]: Commencement: S. 47 not in force at Royal Assent, see [s. 133(4)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/d)

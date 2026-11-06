@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Scheme for transfer of responsibility for relevant children[^key-4ffb0e046ed55bbb035bd919a0783353][^key-76498ae9267dca2e89e924b156c3bc5e]
+## 72. Scheme for transfer of responsibility for relevant children[^c-4ffb0e046ed55bbb035bd919a0783353][^c-76498ae9267dca2e89e924b156c3bc5e]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may prepare a scheme for functions of, or which may be conferred on, a local authority [^key-7f5018ee8e35ebdd303789f3aaa1ab26]... (“**the transferring authority**”) to become functions of, or functions which may be conferred on, one or more other local authorities in the same part of the United Kingdom[^key-0973f53ac86530ed8b68ec2694189b11] (a “receiving authority”) in accordance with arrangements under section 69(2)[^key-c158f4db465b7e4f1cb84ab80c1556ce].
+(1) The Secretary of State may prepare a scheme for functions of, or which may be conferred on, a local authority [^c-7f5018ee8e35ebdd303789f3aaa1ab26]... (“**the transferring authority**”) to become functions of, or functions which may be conferred on, one or more other local authorities in the same part of the United Kingdom[^c-0973f53ac86530ed8b68ec2694189b11] (a “receiving authority”) in accordance with arrangements under section 69(2)[^c-c158f4db465b7e4f1cb84ab80c1556ce].
 
-(1A)[^key-257bce0f5a5843037818575890d91326] The Secretary of State may prepare a scheme in relation to a local authority to which section 69 applies (“the transferring authority”) and one or more other local authorities in one or more other parts of the United Kingdom (“a receiving authority”) having the effects mentioned in section 69(3B).
+(1A)[^c-257bce0f5a5843037818575890d91326] The Secretary of State may prepare a scheme in relation to a local authority to which section 69 applies (“the transferring authority”) and one or more other local authorities in one or more other parts of the United Kingdom (“a receiving authority”) having the effects mentioned in section 69(3B).
 
 (2) A scheme under this section—
 
@@ -48,20 +48,20 @@ summary: ''
 - (a) the reference to the proposed direction were to the proposed modification or proposal to withdraw the direction, and
 - (b) subsection (6) permitted the Secretary of State to withdraw the direction before the end of the 14 day period with the agreement of the local authorities to which it applies.
 
-(11) In this section “**local authority**” , “relevant child” and “part of the United Kingdom”[^key-dcbb0680abef8c8aee3507d9ba76666b] have the same meanings as in section 69.
+(11) In this section “**local authority**” , “relevant child” and “part of the United Kingdom”[^c-dcbb0680abef8c8aee3507d9ba76666b] have the same meanings as in section 69.
 
 ## Annotations
 
-[^key-4ffb0e046ed55bbb035bd919a0783353]: Commencement: S. 72 in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/b)
+[^c-4ffb0e046ed55bbb035bd919a0783353]: Commencement: S. 72 in force at 31.5.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/b)
 
-[^key-76498ae9267dca2e89e924b156c3bc5e]: Modification: Ss. 69-72 extended to Scotland and Northern Ireland (as well as to England and Wales) by virtue of [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), regs. 1, 2(a)
+[^c-76498ae9267dca2e89e924b156c3bc5e]: Modification: Ss. 69-72 extended to Scotland and Northern Ireland (as well as to England and Wales) by virtue of [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), regs. 1, 2(a)
 
-[^key-7f5018ee8e35ebdd303789f3aaa1ab26]: Textual amendment: Words in s. 72(1) omitted (7.2.2018) by virtue of [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), [regs. 1](https://www.legislation.gov.uk/uksi/2018/153/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/153/regulation/6/2/a)
+[^c-7f5018ee8e35ebdd303789f3aaa1ab26]: Textual amendment: Words in s. 72(1) omitted (7.2.2018) by virtue of [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), [regs. 1](https://www.legislation.gov.uk/uksi/2018/153/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/153/regulation/6/2/a)
 
-[^key-0973f53ac86530ed8b68ec2694189b11]: Textual amendment: Words in s. 72(1) substituted (7.2.2018) by [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), [regs. 1](https://www.legislation.gov.uk/uksi/2018/153/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/153/regulation/6/2/b)
+[^c-0973f53ac86530ed8b68ec2694189b11]: Textual amendment: Words in s. 72(1) substituted (7.2.2018) by [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), [regs. 1](https://www.legislation.gov.uk/uksi/2018/153/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/153/regulation/6/2/b)
 
-[^key-c158f4db465b7e4f1cb84ab80c1556ce]: Textual amendment: Word in s. 72(1) substituted (7.2.2018) by [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), [regs. 1](https://www.legislation.gov.uk/uksi/2018/153/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2018/153/regulation/6/2/c)
+[^c-c158f4db465b7e4f1cb84ab80c1556ce]: Textual amendment: Word in s. 72(1) substituted (7.2.2018) by [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), [regs. 1](https://www.legislation.gov.uk/uksi/2018/153/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2018/153/regulation/6/2/c)
 
-[^key-257bce0f5a5843037818575890d91326]: Textual amendment: S. 72(1A) inserted (7.2.2018) by [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), [regs. 1](https://www.legislation.gov.uk/uksi/2018/153/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/153/regulation/6/3)
+[^c-257bce0f5a5843037818575890d91326]: Textual amendment: S. 72(1A) inserted (7.2.2018) by [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), [regs. 1](https://www.legislation.gov.uk/uksi/2018/153/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/153/regulation/6/3)
 
-[^key-dcbb0680abef8c8aee3507d9ba76666b]: Textual amendment: Words in s. 72(11) substituted (7.2.2018) by [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), [regs. 1](https://www.legislation.gov.uk/uksi/2018/153/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/153/regulation/6/4)
+[^c-dcbb0680abef8c8aee3507d9ba76666b]: Textual amendment: Words in s. 72(11) substituted (7.2.2018) by [The Transfer of Responsibility for Relevant Children (Extension to Wales, Scotland and Northern Ireland) Regulations 2018 (S.I. 2018/153)](https://www.legislation.gov.uk/uksi/2018/153), [regs. 1](https://www.legislation.gov.uk/uksi/2018/153/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/153/regulation/6/4)

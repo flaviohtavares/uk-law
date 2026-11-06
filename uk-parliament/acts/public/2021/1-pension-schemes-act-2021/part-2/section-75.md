@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Rules about modifying schemes[^c24480841][^key-052fa20238712fb244be1f5cb248f911]
+## 75. Rules about modifying schemes[^c24480841][^c-052fa20238712fb244be1f5cb248f911]
 
 *Extent: N.I.*
 
@@ -90,4 +90,4 @@ summary: ''
 
 [^c24480841]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2021/1/section/75) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-052fa20238712fb244be1f5cb248f911]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2021/1/section/75) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-052fa20238712fb244be1f5cb248f911]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2021/1/section/75) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

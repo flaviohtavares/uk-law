@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Definitions relating to “restricted goods” and “restricted technology”[^key-8150ba7357b4d311f00588b2d4fbd3b2]
+## 19. Definitions relating to “restricted goods” and “restricted technology”[^c-8150ba7357b4d311f00588b2d4fbd3b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8150ba7357b4d311f00588b2d4fbd3b2]: Commencement: Reg. 19 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-8150ba7357b4d311f00588b2d4fbd3b2]: Commencement: Reg. 19 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
 [^c24500191]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 2 was substituted by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85) and subsequently amended by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697); [S.I. 2018/165](https://www.legislation.gov.uk/uksi/2018/165); [S.I. 2018/939](https://www.legislation.gov.uk/uksi/2018/939); [S.I. 2019/137](https://www.legislation.gov.uk/uksi/2019/137); and [S.I. 2019/989](https://www.legislation.gov.uk/uksi/2019/989). There are other instruments which amend other parts of the Order.

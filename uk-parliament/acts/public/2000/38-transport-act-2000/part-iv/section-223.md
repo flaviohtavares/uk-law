@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Regulator’s power to require provision etc. of railway facilities.[^key-af2d55855a4cef4cb1f7fc2147f38e6d]
+## 223. Regulator’s power to require provision etc. of railway facilities.[^c-af2d55855a4cef4cb1f7fc2147f38e6d]
 
 *Extent: E+W+S*
 
@@ -203,6 +203,6 @@ In the [^c14882791]Railways Act 1993, after section 16 insert—
 
 ## Annotations
 
-[^key-af2d55855a4cef4cb1f7fc2147f38e6d]: Commencement: S. 223 in force at 15.10.2005 by [S.I. 2005/2862](https://www.legislation.gov.uk/uksi/2005/2862), [art. 3](https://www.legislation.gov.uk/uksi/2005/2862/article/3)
+[^c-af2d55855a4cef4cb1f7fc2147f38e6d]: Commencement: S. 223 in force at 15.10.2005 by [S.I. 2005/2862](https://www.legislation.gov.uk/uksi/2005/2862), [art. 3](https://www.legislation.gov.uk/uksi/2005/2862/article/3)
 
 [^c14882791]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).

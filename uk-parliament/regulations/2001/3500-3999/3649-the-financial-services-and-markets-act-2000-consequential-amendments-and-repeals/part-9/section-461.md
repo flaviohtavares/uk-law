@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 461. Revocation of references to person no longer performing regulatory functions[^key-2f4092f6cac577cf71cec32b51c758f1]
+## 461. Revocation of references to person no longer performing regulatory functions[^c-2f4092f6cac577cf71cec32b51c758f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In regulation 4(1)[^f00310] of the Drug Trafficking Offences Act 1986 (Crown Ser
 
 ## Annotations
 
-[^key-2f4092f6cac577cf71cec32b51c758f1]: Commencement: Art. 461 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2f4092f6cac577cf71cec32b51c758f1]: Commencement: Art. 461 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00310]: Footnote: An amendment to regulation 4(1) which is not relevant to these amendments was inserted by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129), article 2, Schedule 1, paragraph 16.

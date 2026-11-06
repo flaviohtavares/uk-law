@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94BA. Certain unmanned aircraft: permission for flights that are over or near space sites[^key-40c3220e0377a5ee699cda374cd35d36]
+## 94BA. Certain unmanned aircraft: permission for flights that are over or near space sites[^c-40c3220e0377a5ee699cda374cd35d36]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ which is not a certified aerodrome, a Government aerodrome or a national license
 
 ## Annotations
 
-[^key-40c3220e0377a5ee699cda374cd35d36]: Textual amendment: [Art. 94BA](https://www.legislation.gov.uk/uksi/2016/765/article/94BA) inserted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/879/article/5/3)
+[^c-40c3220e0377a5ee699cda374cd35d36]: Textual amendment: [Art. 94BA](https://www.legislation.gov.uk/uksi/2016/765/article/94BA) inserted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/879/article/5/3)

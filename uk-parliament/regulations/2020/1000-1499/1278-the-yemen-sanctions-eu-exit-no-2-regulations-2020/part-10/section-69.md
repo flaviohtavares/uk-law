@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Transitional provision: trade licences[^key-314b1512c3d708efae1b2102e6d180da][^key-264241c76814b29343bec41cc147074d]
+## 69. Transitional provision: trade licences[^c-314b1512c3d708efae1b2102e6d180da][^c-264241c76814b29343bec41cc147074d]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ and such a licence or authorisation is referred to in this regulation as “**an
 
 ## Annotations
 
-[^key-314b1512c3d708efae1b2102e6d180da]: Commencement: Reg. 69 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-314b1512c3d708efae1b2102e6d180da]: Commencement: Reg. 69 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-264241c76814b29343bec41cc147074d]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2020/1278/regulation/69) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-264241c76814b29343bec41cc147074d]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2020/1278/regulation/69) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

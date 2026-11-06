@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259IC. Counteraction where the hybrid entity is within the charge to corporation tax[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259IC. Counteraction where the hybrid entity is within the charge to corporation tax[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 - (a) in a case where subsection (1)(b)(i) applies, the hybrid entity double deduction amount, or
 - (b) in a case where subsection (1)(b)(ii) applies, the hybrid entity double deduction amount so far as it exceeds the amount that it is reasonable to suppose, under a provision of the law of a territory outside the United Kingdom that is equivalent to section 259IB, cannot be deducted from income, for the investor deduction period, other than dual inclusion income of the hybrid entity for the hybrid entity deduction period.
 
-(4) For corporation tax purposes, the restricted deduction may not be deducted from the hybrid entity's income for the hybrid entity deduction period unless it is deducted from dual inclusion income for that period.[^key-86e1a9a9049e54fd830128e317b07cca]
+(4) For corporation tax purposes, the restricted deduction may not be deducted from the hybrid entity's income for the hybrid entity deduction period unless it is deducted from dual inclusion income for that period.[^c-86e1a9a9049e54fd830128e317b07cca]
 
 (5) So much of the restricted deduction (if any) as, by virtue of subsection (4), cannot be deducted from the hybrid entity's income for the hybrid entity deduction period—
 
@@ -59,7 +59,7 @@ any of the restricted deduction that has not been deducted from dual inclusion i
 - (a) is carried forward to subsequent accounting periods of the hybrid entity, and
 - (b) may be so deducted for any such period, so far as it cannot be deducted under this paragraph for an earlier period.
 
-(8) Subsection (9) applies if it is reasonable to suppose that all or part of the hybrid entity double deduction amount is (in substance) deducted (“the illegitimate overseas deduction”), under the law of a territory outside the United Kingdom, from income of any person other than an investor in the hybrid entity[^key-34edd2eebd1024dd44a9ab39f499f836], for a taxable period, that is not dual inclusion income of the hybrid entity for an accounting period.
+(8) Subsection (9) applies if it is reasonable to suppose that all or part of the hybrid entity double deduction amount is (in substance) deducted (“the illegitimate overseas deduction”), under the law of a territory outside the United Kingdom, from income of any person other than an investor in the hybrid entity[^c-34edd2eebd1024dd44a9ab39f499f836], for a taxable period, that is not dual inclusion income of the hybrid entity for an accounting period.
 
 (9) For the purposes of determining how much of the hybrid entity double deduction amount may be deducted (if any) for the accounting period of the hybrid entity in which the taxable period mentioned in subsection (8) ends, and any subsequent accounting periods of the hybrid entity, an amount of it equal to the illegitimate overseas deduction is to be taken to have already been deducted for a previous accounting period of the hybrid entity.
 
@@ -77,8 +77,8 @@ any of the restricted deduction that has not been deducted from dual inclusion i
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-86e1a9a9049e54fd830128e317b07cca]: Textual amendment: Words in [s. 259IC(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/259IC/4) substituted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 12(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/12/2)
+[^c-86e1a9a9049e54fd830128e317b07cca]: Textual amendment: Words in [s. 259IC(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/259IC/4) substituted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 12(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/12/2)
 
-[^key-34edd2eebd1024dd44a9ab39f499f836]: Textual amendment: Words in [s. 259IC(8)](https://www.legislation.gov.uk/ukpga/2010/8/section/259IC/8) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 18(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/18/2)
+[^c-34edd2eebd1024dd44a9ab39f499f836]: Textual amendment: Words in [s. 259IC(8)](https://www.legislation.gov.uk/ukpga/2010/8/section/259IC/8) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 18(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/18/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — The Metropolitan police authority[^key-67b93a24fe245cdaefbfb20dcdee2f97]
+## SCHEDULE 2A — The Metropolitan police authority[^c-67b93a24fe245cdaefbfb20dcdee2f97]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Section 5C
 
-### Membership of Authority[^key-67b93a24fe245cdaefbfb20dcdee2f97]
+### Membership of Authority[^c-67b93a24fe245cdaefbfb20dcdee2f97]
 
-**1.**[^key-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appointment of members from London Assembly etc[^key-67b93a24fe245cdaefbfb20dcdee2f97]
+### Appointment of members from London Assembly etc[^c-67b93a24fe245cdaefbfb20dcdee2f97]
 
-**2.**[^key-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appointment of other members[^key-67b93a24fe245cdaefbfb20dcdee2f97]
+### Appointment of other members[^c-67b93a24fe245cdaefbfb20dcdee2f97]
 
-**3.**[^key-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chairman and vice chairmen[^key-67b93a24fe245cdaefbfb20dcdee2f97]
+### Chairman and vice chairmen[^c-67b93a24fe245cdaefbfb20dcdee2f97]
 
-**4.**[^key-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Standards committees[^key-67b93a24fe245cdaefbfb20dcdee2f97]
+### Standards committees[^c-67b93a24fe245cdaefbfb20dcdee2f97]
 
-**5.**[^key-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Consultation[^key-67b93a24fe245cdaefbfb20dcdee2f97]
+### Consultation[^c-67b93a24fe245cdaefbfb20dcdee2f97]
 
-**6.**[^key-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary[^key-67b93a24fe245cdaefbfb20dcdee2f97]
+### Supplementary[^c-67b93a24fe245cdaefbfb20dcdee2f97]
 
-**7.**[^key-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-67b93a24fe245cdaefbfb20dcdee2f97]
+### Interpretation[^c-67b93a24fe245cdaefbfb20dcdee2f97]
 
-**8.**[^key-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-67b93a24fe245cdaefbfb20dcdee2f97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-67b93a24fe245cdaefbfb20dcdee2f97]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ukpga/1996/16/schedule/2A) omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 46](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/46); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/16))
+[^c-67b93a24fe245cdaefbfb20dcdee2f97]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ukpga/1996/16/schedule/2A) omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 46](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/46); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/16))

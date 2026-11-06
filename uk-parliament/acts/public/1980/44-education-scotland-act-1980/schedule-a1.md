@@ -45,7 +45,7 @@ summary: ''
 - (a) a teacher at a relevant school (within the meaning of paragraph 8 below);
 - (b) a pupil at such a school;
 - (c) a parent of a pupil at such a school; or
-- (d) a member of a Parent Council or Combined Parent Council[^key-d543f159daf7d185031e79e93fb5f16f] having functions in relation to such a school
+- (d) a member of a Parent Council or Combined Parent Council[^c-d543f159daf7d185031e79e93fb5f16f] having functions in relation to such a school
 
 shall not be a member of an appeal committee for consideration of a reference involving a question whether a child is to be placed in the specific school or excluded from the relevant school.
 
@@ -73,6 +73,6 @@ shall not be a member of an appeal committee for consideration of a reference in
 
 [^c9704601]: Textual amendment: Words in [Sch. A1 para. 5](https://www.legislation.gov.uk/ukpga/1980/44/schedule/A1/paragraph/5) substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 118(10)(c)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/118/10/c); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c).
 
-[^key-d543f159daf7d185031e79e93fb5f16f]: Textual amendment: Words in [Sch. A1 para. 7](https://www.legislation.gov.uk/ukpga/1980/44/schedule/A1/paragraph/7) substituted (1.8.2007) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [ss. 18(4)](https://www.legislation.gov.uk/asp/2006/8/section/18/4), [24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-d543f159daf7d185031e79e93fb5f16f]: Textual amendment: Words in [Sch. A1 para. 7](https://www.legislation.gov.uk/ukpga/1980/44/schedule/A1/paragraph/7) substituted (1.8.2007) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [ss. 18(4)](https://www.legislation.gov.uk/asp/2006/8/section/18/4), [24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
 [^c9704641]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Action to be taken following community council's consideration of results of certain community polls[^key-7e87a2a092b96a49850267a9d82702bf]
+## 97. Action to be taken following community council's consideration of results of certain community polls[^c-7e87a2a092b96a49850267a9d82702bf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e87a2a092b96a49850267a9d82702bf]: Textual amendment: [Ss. 93-99](https://www.legislation.gov.uk/mwa/2011/4/section/93) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 13 para. 11](https://www.legislation.gov.uk/asc/2021/1/schedule/13/paragraph/11); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(v)](https://www.legislation.gov.uk/wsi/2021/231/article/6/v)
+[^c-7e87a2a092b96a49850267a9d82702bf]: Textual amendment: [Ss. 93-99](https://www.legislation.gov.uk/mwa/2011/4/section/93) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 13 para. 11](https://www.legislation.gov.uk/asc/2021/1/schedule/13/paragraph/11); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(v)](https://www.legislation.gov.uk/wsi/2021/231/article/6/v)

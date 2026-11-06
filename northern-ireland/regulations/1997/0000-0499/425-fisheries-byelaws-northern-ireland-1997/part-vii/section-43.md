@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**43.**[^key-8ec7174e55d2d8cbf2e5fff801c27a0b] A person other than the licence-holder or his servant or agent previously authorised in writing in that behalf shall not use or cause or permit to be used on any float the number referred to in Byelaw 42.
+**43.**[^c-8ec7174e55d2d8cbf2e5fff801c27a0b] A person other than the licence-holder or his servant or agent previously authorised in writing in that behalf shall not use or cause or permit to be used on any float the number referred to in Byelaw 42.
 
 ## Annotations
 
-[^key-8ec7174e55d2d8cbf2e5fff801c27a0b]: Commencement: S. 43 in operation at 1.11.1997, see byelaw 1
+[^c-8ec7174e55d2d8cbf2e5fff801c27a0b]: Commencement: S. 43 in operation at 1.11.1997, see byelaw 1

@@ -24,7 +24,7 @@ Section 52
 
 ### Part 1 — Amendments of the Wildlife and Countryside Act 1981
 
-**1.**[^key-25c2e7cdd2f1eaed3aeef22a0b58c065] After section 18 insert—
+**1.**[^c-25c2e7cdd2f1eaed3aeef22a0b58c065] After section 18 insert—
 
 > **18A. Wildlife inspectors**
 >
@@ -134,7 +134,7 @@ Section 52
 >
 > (2) No sample may be taken by virtue of section 18C, 18E or 19XA from a live bird, other animal or plant unless the person taking it is satisfied on reasonable grounds that taking the sample will not cause lasting harm to the specimen.
 
-**2.**[^key-f414376d7c3e1342cfc579b2280208ba] (1) Amend section 19 (powers of constables to stop, search, enter etc.) as follows.
+**2.**[^c-f414376d7c3e1342cfc579b2280208ba] (1) Amend section 19 (powers of constables to stop, search, enter etc.) as follows.
 
 (2) In subsection (2)—
 
@@ -150,7 +150,7 @@ Section 52
 
 (4) In subsection (3), omit “(with or without other persons)”.
 
-**3.**[^key-2a1ffdff77d1d1814f63f619b72eab2d] After section 19 insert—
+**3.**[^c-2a1ffdff77d1d1814f63f619b72eab2d] After section 19 insert—
 
 > **19XA. Constables' powers in connection with samples**
 >
@@ -189,9 +189,9 @@ Section 52
 >
 > (4) Any person who, with intent to deceive, falsely pretends to be a wildlife inspector is guilty of an offence.
 
-**4.**[^key-4fb759819752fe6362d13d85085c0d12] Omit sections 19ZA (enforcement: wildlife inspectors) and 19ZB (power to take samples).
+**4.**[^c-4fb759819752fe6362d13d85085c0d12] Omit sections 19ZA (enforcement: wildlife inspectors) and 19ZB (power to take samples).
 
-**5.**[^key-4d9c04c2fece9707362893f9f2e0701a] (1) Amend section 21 (penalties etc.) as follows.
+**5.**[^c-4d9c04c2fece9707362893f9f2e0701a] (1) Amend section 21 (penalties etc.) as follows.
 
 (2) Omit subsections (4A) and (4D) (penalties in connection with power of entry and powers in connection with examination of specimens and taking samples).
 
@@ -206,24 +206,24 @@ Section 52
 
 (5) In subsection (4C) (penalty for pretending to be wildlife inspector), for “19ZA(8)” substitute “ 19XB(4) ”.
 
-**6.**[^key-82c94df59f9e61f6cc8731b424538dea] In section 27 (interpretation of Part 1), in subsection (1), in the definition of “wildlife inspector”, for “section 19ZA(1)” substitute “ section 18A(1) ”.
+**6.**[^c-82c94df59f9e61f6cc8731b424538dea] In section 27 (interpretation of Part 1), in subsection (1), in the definition of “wildlife inspector”, for “section 19ZA(1)” substitute “ section 18A(1) ”.
 
 ### Part 2 — Powers of wildlife inspectors extended to certain other Acts
 
 #### Introduction
 
-**7.**[^key-308fa20be5ed2dec59c035a80b9c3ce4] In this Part “**the enforcement provisions of the 1981 Act relating to Group 1 offences and Group 1 licences**” means the following provisions of the Wildlife and Countryside Act 1981 (c. 69)—
+**7.**[^c-308fa20be5ed2dec59c035a80b9c3ce4] In this Part “**the enforcement provisions of the 1981 Act relating to Group 1 offences and Group 1 licences**” means the following provisions of the Wildlife and Countryside Act 1981 (c. 69)—
 
 - (a) section 18A (power to authorise persons to act as wildlife inspectors);
 - (b) section 18B (power of wildlife inspector to enter premises);
 - (c) section 18C (power to examine specimens and take samples);
 - (d) section 18F (restrictions on taking samples from live specimens);
-- (da)[^key-652844b85f772b597ff82a27ebe59641] section 19XB(1) and (4) (offences in connection with enforcement powers);
+- (da)[^c-652844b85f772b597ff82a27ebe59641] section 19XB(1) and (4) (offences in connection with enforcement powers);
 - (e) section 21(4AA) to (4C) (penalties for obstructing etc. wildlife inspectors).
 
 #### Destructive Imported Animals Act 1932 (c. 12)
 
-**8.**[^key-eac73d5c6337ee7063d0b2819999335c] (1) The enforcement provisions of the 1981 Act relating to Group 1 offences and Group 1 licences apply for the purposes of the 1932 Act as if—
+**8.**[^c-eac73d5c6337ee7063d0b2819999335c] (1) The enforcement provisions of the 1981 Act relating to Group 1 offences and Group 1 licences apply for the purposes of the 1932 Act as if—
 
 - (a) any reference to a Group 1 offence were a reference to any offence under the 1932 Act,
 - (b) any reference to a Group 1 licence were a reference to a licence under the 1932 Act, and
@@ -233,16 +233,16 @@ Section 52
 
 #### Conservation of Seals Act 1970 (c. 30)
 
-**9.**[^key-d2637b80529e3a5e8400d5704e41d59a] The enforcement provisions relating to Group 1 offences and Group 1 licences apply for the purposes of the 1970 Act as if—
+**9.**[^c-d2637b80529e3a5e8400d5704e41d59a] The enforcement provisions relating to Group 1 offences and Group 1 licences apply for the purposes of the 1970 Act as if—
 
-- (a) United Kingdom Research and Innovation[^key-c0c100a574e2f1c0a90cd88567e0db64] were required to be consulted about any authorisation of a person to exercise the powers of a wildlife inspector for the purposes of the 1970 Act,
+- (a) United Kingdom Research and Innovation[^c-c0c100a574e2f1c0a90cd88567e0db64] were required to be consulted about any authorisation of a person to exercise the powers of a wildlife inspector for the purposes of the 1970 Act,
 - (b) any reference to a Group 1 offence were a reference to any offence under the 1970 Act,
 - (c) any reference to a Group 1 licence were a reference to a licence under section 10 of the 1970 Act, and
 - (d) the power to take a sample from a specimen did not include any power to take a sample from a live seal.
 
 #### Deer Act 1991 (c. 54)
 
-**10.**[^key-bbd475259c310e814f4d724ee7a68ffb] The enforcement provisions relating to Group 1 offences and Group 1 licences apply for the purposes of the 1991 Act as if—
+**10.**[^c-bbd475259c310e814f4d724ee7a68ffb] The enforcement provisions relating to Group 1 offences and Group 1 licences apply for the purposes of the 1991 Act as if—
 
 - (a) any reference to a Group 1 offence were a reference to any offence under the 1991 Act,
 - (b) any reference to a Group 1 licence were a reference to a licence under section 8 of the 1991 Act, and
@@ -250,7 +250,7 @@ Section 52
 
 #### Protection of Badgers Act 1992 (c. 51)
 
-**11.**[^key-fc0b3d4eddb5ba27958ff1446f172aa7] The enforcement provisions relating to Group 1 offences and Group 1 licences apply for the purposes of the 1992 Act as if—
+**11.**[^c-fc0b3d4eddb5ba27958ff1446f172aa7] The enforcement provisions relating to Group 1 offences and Group 1 licences apply for the purposes of the 1992 Act as if—
 
 - (a) any reference to a Group 1 offence were a reference to any offence under the 1992 Act,
 - (b) any reference to a Group 1 licence were a reference to a licence under section 10 of the 1992 Act, and
@@ -258,7 +258,7 @@ Section 52
 
 ### Part 3 — Codes of practice
 
-**12.**[^key-600e816862ef9bd8ef1dcd8ef504549b] (1) The Secretary of State may—
+**12.**[^c-600e816862ef9bd8ef1dcd8ef504549b] (1) The Secretary of State may—
 
 - (a) issue a code of practice in connection with any of the provisions of sections 18A to 18F of the 1981 Act (including any of those provisions as applied by Part 2 of this Schedule), and
 - (b) revise or replace such a code.
@@ -274,7 +274,7 @@ Section 52
 
 ### Part 4 — Constable's search warrant power extended to certain other Acts
 
-**13.**[^key-e37d6d5e8f677b4bd86f26fa1f6d0368] (1) Section 19(3) of the 1981 Act (issue of search warrants for purpose of obtaining evidence of offence) applies in relation to an offence under each of the Acts mentioned in sub-paragraph (2) as it applies in relation to an offence under Part 1 of the 1981 Act.
+**13.**[^c-e37d6d5e8f677b4bd86f26fa1f6d0368] (1) Section 19(3) of the 1981 Act (issue of search warrants for purpose of obtaining evidence of offence) applies in relation to an offence under each of the Acts mentioned in sub-paragraph (2) as it applies in relation to an offence under Part 1 of the 1981 Act.
 
 (2) The Acts are—
 
@@ -285,32 +285,32 @@ Section 52
 
 ## Annotations
 
-[^key-25c2e7cdd2f1eaed3aeef22a0b58c065]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/1) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-25c2e7cdd2f1eaed3aeef22a0b58c065]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/1) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-f414376d7c3e1342cfc579b2280208ba]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/2) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-f414376d7c3e1342cfc579b2280208ba]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/2) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-2a1ffdff77d1d1814f63f619b72eab2d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/3) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-2a1ffdff77d1d1814f63f619b72eab2d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/3) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-4fb759819752fe6362d13d85085c0d12]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/4) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-4fb759819752fe6362d13d85085c0d12]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/4) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-4d9c04c2fece9707362893f9f2e0701a]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/5) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-4d9c04c2fece9707362893f9f2e0701a]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/5) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-82c94df59f9e61f6cc8731b424538dea]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/6) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-82c94df59f9e61f6cc8731b424538dea]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/6) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-308fa20be5ed2dec59c035a80b9c3ce4]: Commencement: Sch. 5 para. 7 in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-308fa20be5ed2dec59c035a80b9c3ce4]: Commencement: Sch. 5 para. 7 in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-652844b85f772b597ff82a27ebe59641]: Textual amendment: [Sch. 5 para. 7(da)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/7/da) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 80](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/80); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(t)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/t)
+[^c-652844b85f772b597ff82a27ebe59641]: Textual amendment: [Sch. 5 para. 7(da)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/7/da) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 80](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/80); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(t)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/t)
 
-[^key-eac73d5c6337ee7063d0b2819999335c]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/8) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-eac73d5c6337ee7063d0b2819999335c]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/8) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-d2637b80529e3a5e8400d5704e41d59a]: Commencement: Sch. 5 para. 9 in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-d2637b80529e3a5e8400d5704e41d59a]: Commencement: Sch. 5 para. 9 in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-c0c100a574e2f1c0a90cd88567e0db64]: Textual amendment: Words in [Sch. 5 para. 9(a)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/9/a) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/20); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
+[^c-c0c100a574e2f1c0a90cd88567e0db64]: Textual amendment: Words in [Sch. 5 para. 9(a)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/9/a) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/20); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
 
-[^key-bbd475259c310e814f4d724ee7a68ffb]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/10) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-bbd475259c310e814f4d724ee7a68ffb]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/10) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-fc0b3d4eddb5ba27958ff1446f172aa7]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/11) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-fc0b3d4eddb5ba27958ff1446f172aa7]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/11) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-600e816862ef9bd8ef1dcd8ef504549b]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/12) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-600e816862ef9bd8ef1dcd8ef504549b]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/12) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-e37d6d5e8f677b4bd86f26fa1f6d0368]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/13) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-e37d6d5e8f677b4bd86f26fa1f6d0368]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/13) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)

@@ -143,7 +143,7 @@ The National Assembly for Wales, being designated [^c15550521] for the purposes 
 - [Section 54 — Consignee's return to the producer, holder or consignor](part-7/section-54.md)
 - [Section 55 — Duties to supply information](part-7/section-55.md)
 
-### PART 8 — THE NRBW's FUNCTIONS[^key-d136bd7ec1045a828b2f9a9578ee829d]
+### PART 8 — THE NRBW's FUNCTIONS[^c-d136bd7ec1045a828b2f9a9578ee829d]
 
 *Extent: E+W*
 
@@ -264,6 +264,6 @@ The volume entitled “Indexes to the United Kingdom Standard Industrial Classif
 
 [^c15550531]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-d136bd7ec1045a828b2f9a9578ee829d]: Textual amendment: Word in [Pt. 8](https://www.legislation.gov.uk/wsi/2005/1806/part/8) heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 31](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/31) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d136bd7ec1045a828b2f9a9578ee829d]: Textual amendment: Word in [Pt. 8](https://www.legislation.gov.uk/wsi/2005/1806/part/8) heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 31](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/31) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c15550871]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38)

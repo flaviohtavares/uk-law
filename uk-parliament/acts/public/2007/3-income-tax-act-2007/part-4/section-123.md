@@ -27,7 +27,7 @@ summary: ''
 - (a) the amount of the capital allowances treated as expenses of the business, exceeds
 - (b) the amount of any charges under CAA 2001 treated as receipts of the business.
 
-(2A)[^key-5f5202ea23610001dc661e558ca6138c] But any allowance under Part 2A of CAA 2001 (structures and buildings allowances) is to be ignored for the purposes of subsection (2).
+(2A)[^c-5f5202ea23610001dc661e558ca6138c] But any allowance under Part 2A of CAA 2001 (structures and buildings allowances) is to be ignored for the purposes of subsection (2).
 
 (3) The business has a relevant agricultural connection if—
 
@@ -55,4 +55,4 @@ the expenses in respect of those parts are to be reduced so far as those parts a
 
 ## Annotations
 
-[^key-5f5202ea23610001dc661e558ca6138c]: Textual amendment: [S. 123(2A)](https://www.legislation.gov.uk/ukpga/2007/3/section/123/2A) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/1087/regulation/6)
+[^c-5f5202ea23610001dc661e558ca6138c]: Textual amendment: [S. 123(2A)](https://www.legislation.gov.uk/ukpga/2007/3/section/123/2A) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/1087/regulation/6)

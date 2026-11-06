@@ -23,7 +23,7 @@ summary: ''
 (1) This regulation applies where—
 
 - (a) the Authority receives a notification under regulation 43; and
-- (b) regulations 52A, 54, 54A,[^key-a1f003de690dd89c3579bd4e4db08468][^key-f754e8d0228e6307b0951136e861e635], 55 and 55A do not apply.
+- (b) regulations 52A, 54, 54A,[^c-a1f003de690dd89c3579bd4e4db08468][^c-f754e8d0228e6307b0951136e861e635], 55 and 55A do not apply.
 
 (2) On receipt of the notification, the Authority may—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a1f003de690dd89c3579bd4e4db08468]: Textual amendment: Words in reg. 52(1)(b) substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [22](https://www.legislation.gov.uk/uksi/2021/76/regulation/22)
+[^c-a1f003de690dd89c3579bd4e4db08468]: Textual amendment: Words in reg. 52(1)(b) substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [22](https://www.legislation.gov.uk/uksi/2021/76/regulation/22)
 
-[^key-f754e8d0228e6307b0951136e861e635]: Textual amendment: Words in reg. 52(1)(b) substituted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [18](https://www.legislation.gov.uk/uksi/2018/635/regulation/18)
+[^c-f754e8d0228e6307b0951136e861e635]: Textual amendment: Words in reg. 52(1)(b) substituted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [18](https://www.legislation.gov.uk/uksi/2018/635/regulation/18)

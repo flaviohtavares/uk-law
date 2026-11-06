@@ -41,28 +41,28 @@ Coming into operation-
 
 The Department for Employment and Learning[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 50(1) and (2) and 134(1) of the Education and Libraries (Northern Ireland) Order 1986[^f00002] and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-64b03756e82df1e3c0a1d29353f7938a]
+## 1. Citation, commencement and interpretation[^c-64b03756e82df1e3c0a1d29353f7938a]
 
 These Regulations may be cited as the Students Awards (Amendment) Regulations (Northern Ireland) 2007.
 
-**2.**[^key-beedc805f3b9b16ed550ec07ab49a69a] (1) Except as provided for by paragraph (2) these Regulations shall come into operation on 20th August 2007.
+**2.**[^c-beedc805f3b9b16ed550ec07ab49a69a] (1) Except as provided for by paragraph (2) these Regulations shall come into operation on 20th August 2007.
 
 (2) Regulations 4, 10 and 13 shall come into operation on 1st September 2007.
 
-**3.**[^key-ecae53ae2aa7cf00f91c07fd55784508] In these Regulations, “the principal Regulations” means the Students Awards Regulations (Northern Ireland) 2003[^f00004].
+**3.**[^c-ecae53ae2aa7cf00f91c07fd55784508] In these Regulations, “the principal Regulations” means the Students Awards Regulations (Northern Ireland) 2003[^f00004].
 
-## 4. Revocations[^key-66a508fc5f12bd2970372b481e9e1db0]
+## 4. Revocations[^c-66a508fc5f12bd2970372b481e9e1db0]
 
 The following provisions of the Students Awards (Amendment) Regulations (Northern Ireland) 2006[^f00005] are revoked—
 
 - (a) regulation 15; and
 - (b) the Schedule.
 
-## 5. Amendment of the principal Regulations[^key-13506561eed93bef47fe635d14df10ec]
+## 5. Amendment of the principal Regulations[^c-13506561eed93bef47fe635d14df10ec]
 
 The principal Regulations shall be amended as provided by regulations 6 to 13.
 
-## 6.[^key-770bf77de5a05ef6aa06a6a54cffe24f]
+## 6.[^c-770bf77de5a05ef6aa06a6a54cffe24f]
 
 (1) Regulation 2 (Interpretation) shall be amended as provided by paragraphs (2) to (6).
 
@@ -94,11 +94,11 @@ The principal Regulations shall be amended as provided by regulations 6 to 13.
 
 .
 
-## 7.[^key-16d4adff2b588d45780c2f043e6fe59a]
+## 7.[^c-16d4adff2b588d45780c2f043e6fe59a]
 
 In regulation 9 (Terms and Conditions) in paragraph (2)(a) and (b) for “2005” in each place where it occurs, there shall be substituted “2006”.
 
-## 8.[^key-cd066a0323e517fcd8fe2fec94454ac9]
+## 8.[^c-cd066a0323e517fcd8fe2fec94454ac9]
 
 (1) Regulation 16 (Reduced entitlement to payments) shall be amended as provided by paragraphs (2) to (6).
 
@@ -120,7 +120,7 @@ In regulation 9 (Terms and Conditions) in paragraph (2)(a) and (b) for “2005�
 
 .
 
-## 9.[^key-bfccc45f38dde4eeaa223ef0e0ab2206]
+## 9.[^c-bfccc45f38dde4eeaa223ef0e0ab2206]
 
 (1) Schedule 3 (Terms and Conditions) shall be amended as provided by paragraphs (2) to (4).
 
@@ -144,7 +144,7 @@ In regulation 9 (Terms and Conditions) in paragraph (2)(a) and (b) for “2005�
 
 .
 
-## 10.[^key-4799e70d8c96f0ca459d9f912f24e563]
+## 10.[^c-4799e70d8c96f0ca459d9f912f24e563]
 
 In Schedule 5 (Fees), for paragraph (iv) there shall be substituted—
 
@@ -152,7 +152,7 @@ In Schedule 5 (Fees), for paragraph (iv) there shall be substituted—
 
 .
 
-## 11.[^key-5974d6cc6b50096c4ec5bbf02bff200f]
+## 11.[^c-5974d6cc6b50096c4ec5bbf02bff200f]
 
 (1) Schedule 7 (Resources) shall be amended as provided by paragraphs (2) and (3).
 
@@ -160,7 +160,7 @@ In Schedule 5 (Fees), for paragraph (iv) there shall be substituted—
 
 (3) In paragraph 4(4) of Part II for “the Education (Student Support) Regulations (Northern Ireland) 2006”, there shall be substituted “the Education (Student Support) Regulations (Northern Ireland) 2007[^f00006]”.
 
-## 12.[^key-ef71e5a20c36f11cfe237b33fa067594]
+## 12.[^c-ef71e5a20c36f11cfe237b33fa067594]
 
 (1) Schedule 10[^f00007] (Eligible Students) shall be amended as provided by paragraphs (2) to (4).
 
@@ -198,7 +198,7 @@ In Schedule 5 (Fees), for paragraph (iv) there shall be substituted—
 
 .
 
-## 13.[^key-5a169cb81159842160df4933ed6d1c92]
+## 13.[^c-5a169cb81159842160df4933ed6d1c92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -208,7 +208,7 @@ Sir Reg Empey,MLA
 
 Minister for Employment and Learning
 
-## SCHEDULE — NEW PAYMENT RATES[^key-627657d0cad82ca351832540115dd386]
+## SCHEDULE — NEW PAYMENT RATES[^c-627657d0cad82ca351832540115dd386]
 
 **No longer in force.**
 
@@ -244,38 +244,38 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) *see* Article 5(b) and Schedule 3 Part II
 
-[^key-64b03756e82df1e3c0a1d29353f7938a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/336/regulation/1) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
+[^c-64b03756e82df1e3c0a1d29353f7938a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/336/regulation/1) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
 
-[^key-beedc805f3b9b16ed550ec07ab49a69a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/336/regulation/2) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
+[^c-beedc805f3b9b16ed550ec07ab49a69a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/336/regulation/2) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
 
-[^key-ecae53ae2aa7cf00f91c07fd55784508]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/336/regulation/3) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
+[^c-ecae53ae2aa7cf00f91c07fd55784508]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/336/regulation/3) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
 
 [^f00004]: Footnote: [S.R. 2003 No. 459](https://www.legislation.gov.uk/nisr/2003/459) as amended by [S.R. 2004 No. 395](https://www.legislation.gov.uk/nisr/2004/395), [S.R. 2005 No. 466](https://www.legislation.gov.uk/nisr/2005/466) and [S.R. 2006 No. 378](https://www.legislation.gov.uk/nisr/2006/378)
 
-[^key-66a508fc5f12bd2970372b481e9e1db0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/336/regulation/4) in operation at 1.9.2007, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/2)
+[^c-66a508fc5f12bd2970372b481e9e1db0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/336/regulation/4) in operation at 1.9.2007, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/2)
 
 [^f00005]: Footnote: [S.R. 2006 No. 378](https://www.legislation.gov.uk/nisr/2006/378)
 
-[^key-13506561eed93bef47fe635d14df10ec]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/336/regulation/5) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
+[^c-13506561eed93bef47fe635d14df10ec]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/336/regulation/5) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
 
-[^key-770bf77de5a05ef6aa06a6a54cffe24f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/336/regulation/6) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
+[^c-770bf77de5a05ef6aa06a6a54cffe24f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/336/regulation/6) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
 
-[^key-16d4adff2b588d45780c2f043e6fe59a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/336/regulation/7) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
+[^c-16d4adff2b588d45780c2f043e6fe59a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/336/regulation/7) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
 
-[^key-cd066a0323e517fcd8fe2fec94454ac9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/336/regulation/8) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
+[^c-cd066a0323e517fcd8fe2fec94454ac9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/336/regulation/8) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
 
-[^key-bfccc45f38dde4eeaa223ef0e0ab2206]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/336/regulation/9) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
+[^c-bfccc45f38dde4eeaa223ef0e0ab2206]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/336/regulation/9) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
 
-[^key-4799e70d8c96f0ca459d9f912f24e563]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/336/regulation/10) in operation at 1.9.2007, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/2)
+[^c-4799e70d8c96f0ca459d9f912f24e563]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/336/regulation/10) in operation at 1.9.2007, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/2)
 
-[^key-5974d6cc6b50096c4ec5bbf02bff200f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/336/regulation/11) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
+[^c-5974d6cc6b50096c4ec5bbf02bff200f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/336/regulation/11) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
 
 [^f00006]: Footnote: [S.R. 2007 No.195](https://www.legislation.gov.uk/nisr/2007/195), as amended by [S.R. 2007 No. 293](https://www.legislation.gov.uk/nisr/2007/293)
 
-[^key-ef71e5a20c36f11cfe237b33fa067594]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/336/regulation/12) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
+[^c-ef71e5a20c36f11cfe237b33fa067594]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/336/regulation/12) in operation at 20.8.2007, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/1)
 
 [^f00007]: Footnote: Schedule 10 was inserted by regulation 14 of [S.R. 2006 No. 378](https://www.legislation.gov.uk/nisr/2006/378)
 
-[^key-5a169cb81159842160df4933ed6d1c92]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/336/regulation/13) revoked (1.8.2008) by [Students Awards (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/254)](https://www.legislation.gov.uk/nisr/2008/254), [regs. 1](https://www.legislation.gov.uk/nisr/2008/254/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2008/254/regulation/3/a)
+[^c-5a169cb81159842160df4933ed6d1c92]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/336/regulation/13) revoked (1.8.2008) by [Students Awards (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/254)](https://www.legislation.gov.uk/nisr/2008/254), [regs. 1](https://www.legislation.gov.uk/nisr/2008/254/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2008/254/regulation/3/a)
 
-[^key-627657d0cad82ca351832540115dd386]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/336/schedule) revoked (1.8.2008) by [Students Awards (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/254)](https://www.legislation.gov.uk/nisr/2008/254), [regs. 1](https://www.legislation.gov.uk/nisr/2008/254/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2008/254/regulation/3/b)
+[^c-627657d0cad82ca351832540115dd386]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2007/336/schedule) revoked (1.8.2008) by [Students Awards (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/254)](https://www.legislation.gov.uk/nisr/2008/254), [regs. 1](https://www.legislation.gov.uk/nisr/2008/254/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2008/254/regulation/3/b)

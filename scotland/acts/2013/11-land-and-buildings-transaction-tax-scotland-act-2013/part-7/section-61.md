@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Meaning of “subject-matter” and “main subject-matter”[^key-6ccf619e8fbc40640138ea72f6003df3]
+## 61. Meaning of “subject-matter” and “main subject-matter”[^c-6ccf619e8fbc40640138ea72f6003df3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ References in this Act to the subject-matter of a land transaction or a contract
 
 ## Annotations
 
-[^key-6ccf619e8fbc40640138ea72f6003df3]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2013/11/section/61) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-6ccf619e8fbc40640138ea72f6003df3]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2013/11/section/61) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

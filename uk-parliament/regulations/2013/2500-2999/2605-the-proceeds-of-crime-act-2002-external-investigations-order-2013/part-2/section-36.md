@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Interpretation[^key-ccd2dbf8caf0518a0c05661aa9fff0e0]
+## 36. Interpretation[^c-ccd2dbf8caf0518a0c05661aa9fff0e0]
 
 *Extent: S*
 
@@ -49,7 +49,7 @@ to provide information which relates to a time when the person was a financial i
 
 (8) “Proper person” means the Scottish Ministers or a person named by them.
 
-(9)[^key-fd8c8a7fa6dc65bbf37e8df4aca52e76] “Settlement” (in relation to unexplained wealth orders and interim freezing orders) has the meaning given by section 620 of the Income Tax (Trading and Other Income) Act 2005.
+(9)[^c-fd8c8a7fa6dc65bbf37e8df4aca52e76] “Settlement” (in relation to unexplained wealth orders and interim freezing orders) has the meaning given by section 620 of the Income Tax (Trading and Other Income) Act 2005.
 
 (10) For the purposes of this Part—
 
@@ -62,10 +62,10 @@ to provide information which relates to a time when the person was a financial i
 
 ## Annotations
 
-[^key-ccd2dbf8caf0518a0c05661aa9fff0e0]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2013/2605/article/36) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-ccd2dbf8caf0518a0c05661aa9fff0e0]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2013/2605/article/36) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
 [^f00020]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 
 [^f00021]: Footnote: [1971 c. 61](https://www.legislation.gov.uk/ukpga/1971/61).
 
-[^key-fd8c8a7fa6dc65bbf37e8df4aca52e76]: Textual amendment: Art. 36(9)(10) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [15](https://www.legislation.gov.uk/uksi/2018/1078/article/15)
+[^c-fd8c8a7fa6dc65bbf37e8df4aca52e76]: Textual amendment: Art. 36(9)(10) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [15](https://www.legislation.gov.uk/uksi/2018/1078/article/15)

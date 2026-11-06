@@ -33,22 +33,22 @@ of 22 December 2005
 
 establishing for 2005 the ‘Prodcom list’ of industrial products provided for by Council Regulation (EEC) No 3924/91 (revoked)
 
-[^key-071a7c2f3c8ca119a494f5bb22fe5804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-071a7c2f3c8ca119a494f5bb22fe5804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-071a7c2f3c8ca119a494f5bb22fe5804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-071a7c2f3c8ca119a494f5bb22fe5804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-071a7c2f3c8ca119a494f5bb22fe5804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-071a7c2f3c8ca119a494f5bb22fe5804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-071a7c2f3c8ca119a494f5bb22fe5804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-071a7c2f3c8ca119a494f5bb22fe5804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-071a7c2f3c8ca119a494f5bb22fe5804]
+## ANNEX[^c-071a7c2f3c8ca119a494f5bb22fe5804]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-071a7c2f3c8ca119a494f5bb22fe5804]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/51)
+[^c-071a7c2f3c8ca119a494f5bb22fe5804]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/51)

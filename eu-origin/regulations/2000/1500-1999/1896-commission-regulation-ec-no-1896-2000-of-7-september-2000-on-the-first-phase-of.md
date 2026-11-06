@@ -32,10 +32,10 @@ Commission Regulation (EC) No 1896/2000
 
 of 7 September 2000 on the first phase of the programme referred to in Article 16(2) of Directive 98/8/EC of the European Parliament and of the Council on biocidal products (Text with EEA relevance) (revoked)
 
-[^key-3a189b18fe2e79a6a5a8ca142233b776]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a189b18fe2e79a6a5a8ca142233b776]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-3a189b18fe2e79a6a5a8ca142233b776] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-3a189b18fe2e79a6a5a8ca142233b776] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a189b18fe2e79a6a5a8ca142233b776]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (2023 c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-3a189b18fe2e79a6a5a8ca142233b776]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (2023 c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -35,54 +35,54 @@ supplementing Regulation (EU) 2017/2402 of the European Parliament and of the Co
 
 (Text with EEA relevance) (revoked)
 
-[^key-95f4915dfde77ca95847a74fb5902e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95f4915dfde77ca95847a74fb5902e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Definitions[^key-95f4915dfde77ca95847a74fb5902e6c]
+## Article 1. Definitions[^c-95f4915dfde77ca95847a74fb5902e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. End-of-day report[^key-95f4915dfde77ca95847a74fb5902e6c]
+## Article 2. End-of-day report[^c-95f4915dfde77ca95847a74fb5902e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Scoring of completeness of data[^key-95f4915dfde77ca95847a74fb5902e6c]
+## Article 3. Scoring of completeness of data[^c-95f4915dfde77ca95847a74fb5902e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Verification of completeness and consistency of information[^key-95f4915dfde77ca95847a74fb5902e6c]
+## Article 4. Verification of completeness and consistency of information[^c-95f4915dfde77ca95847a74fb5902e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Details of information to which access is to be granted[^key-95f4915dfde77ca95847a74fb5902e6c]
+## Article 5. Details of information to which access is to be granted[^c-95f4915dfde77ca95847a74fb5902e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Terms and conditions for access to details of information[^key-95f4915dfde77ca95847a74fb5902e6c]
+## Article 6. Terms and conditions for access to details of information[^c-95f4915dfde77ca95847a74fb5902e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Standards for data collection and access[^key-95f4915dfde77ca95847a74fb5902e6c]
+## Article 7. Standards for data collection and access[^c-95f4915dfde77ca95847a74fb5902e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Recordkeeping[^key-95f4915dfde77ca95847a74fb5902e6c]
+## Article 8. Recordkeeping[^c-95f4915dfde77ca95847a74fb5902e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-95f4915dfde77ca95847a74fb5902e6c]
+## Article 9. Entry into force[^c-95f4915dfde77ca95847a74fb5902e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-95f4915dfde77ca95847a74fb5902e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95f4915dfde77ca95847a74fb5902e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Data completeness scoring matrix and rejection categories[^key-95f4915dfde77ca95847a74fb5902e6c]
+## ANNEX — Data completeness scoring matrix and rejection categories[^c-95f4915dfde77ca95847a74fb5902e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-95f4915dfde77ca95847a74fb5902e6c]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(ix)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/ix)
+[^c-95f4915dfde77ca95847a74fb5902e6c]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(ix)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/ix)

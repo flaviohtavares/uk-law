@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Secure contracts and standard contracts[^key-d1477a656e7152e8e254e27a24044547]
+## 8. Secure contracts and standard contracts[^c-d1477a656e7152e8e254e27a24044547]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1477a656e7152e8e254e27a24044547]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2016/1/section/8) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-d1477a656e7152e8e254e27a24044547]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2016/1/section/8) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -60,7 +60,7 @@ In these Regulations—
 
 - “the Act” means the Highways Act 1980; and
 - “the register” means the register which the appropriate council is required under section 31A(1) of the Act to keep with respect to maps and statements deposited and declarations lodged under section 31(6) of the Act.
-- “relevant office” means[^key-9da17f97031a201f0eb3498cf5d3f8f1]
+- “relevant office” means[^c-9da17f97031a201f0eb3498cf5d3f8f1]
   - (a) where the appropriate council has specified an office for the purpose of these Regulations on that council’s website, the address so specified;
   - (b) otherwise, the principal office of the appropriate council.
 
@@ -69,7 +69,7 @@ In these Regulations—
 (1) Paragraphs (2) and (3) apply in relation to—
 
 - (a) any map and statement deposited; and
-- (b) any [^key-8645c59f5aae2b93e63435ad38bcd090]... declaration lodged,
+- (b) any [^c-8645c59f5aae2b93e63435ad38bcd090]... declaration lodged,
 
 whether before, on or after 1st October 2007.
 
@@ -88,12 +88,12 @@ whether before, on or after 1st October 2007.
   - (iv) the address and postcode of those buildings on the land to which a postcode has been assigned, and
   - (v) the name of the town or city which is nearest to the point referred to in paragraph (i).
 
-(3) The register must contain with respect to each [^key-a50811c9fdd260e1745a1a5ffa95195a]... declaration lodged with the appropriate council pursuant to section 31(6) of the Act—
+(3) The register must contain with respect to each [^c-a50811c9fdd260e1745a1a5ffa95195a]... declaration lodged with the appropriate council pursuant to section 31(6) of the Act—
 
-- (a) a copy of the [^key-a50811c9fdd260e1745a1a5ffa95195a]... declaration;
-- (b) the name and address, including postcode, of the person who made the [^key-a50811c9fdd260e1745a1a5ffa95195a]... declaration;
-- (c) the date on which the twenty-year period within which a subsequent declaration may be lodged[^key-3296ac67f47206c14ad9017299383496] expires; and
-- (d) any unique reference allocated by the appropriate council to the [^key-a50811c9fdd260e1745a1a5ffa95195a]... declaration.
+- (a) a copy of the [^c-a50811c9fdd260e1745a1a5ffa95195a]... declaration;
+- (b) the name and address, including postcode, of the person who made the [^c-a50811c9fdd260e1745a1a5ffa95195a]... declaration;
+- (c) the date on which the twenty-year period within which a subsequent declaration may be lodged[^c-3296ac67f47206c14ad9017299383496] expires; and
+- (d) any unique reference allocated by the appropriate council to the [^c-a50811c9fdd260e1745a1a5ffa95195a]... declaration.
 
 (4) The register must contain—
 
@@ -101,13 +101,13 @@ whether before, on or after 1st October 2007.
 - (b) the email address and telephone number of the appropriate council; and
 - (c) an index of the contents of the register.
 
-(5) In paragraph (3)(c), "twenty-year period" means the period of twenty years[^key-efabaa8bf19f2be4bc994c1747e1adbb] referred to in section 31(6)(b)(i) or (ii) of the Act.
+(5) In paragraph (3)(c), "twenty-year period" means the period of twenty years[^c-efabaa8bf19f2be4bc994c1747e1adbb] referred to in section 31(6)(b)(i) or (ii) of the Act.
 
 ## 4. Manner of keeping the register
 
 (1) The register must be kept in both electronic and paper form.
 
-(2) The paper version of the register must be kept at the relevant office[^key-016f525fa73348305fd061133c6adccd] of the appropriate council.
+(2) The paper version of the register must be kept at the relevant office[^c-016f525fa73348305fd061133c6adccd] of the appropriate council.
 
 (3) The register may be kept in parts so that each part—
 
@@ -116,23 +116,23 @@ whether before, on or after 1st October 2007.
   - (ii) a particular non-metropolitan district, where the appropriate council is the council of a county; and
 - (b) contains the information referred to in regulation 3 relating to—
   - (i) each map and statement deposited, and
-  - (ii) each [^key-442c59db4d03c3d5e40efceb71e61696]... declaration lodged,
+  - (ii) each [^c-442c59db4d03c3d5e40efceb71e61696]... declaration lodged,
 
   in respect of such land.
 
 (4) In respect of the electronic version of the register, the appropriate council must—
 
 - (a) make the register available for inspection by the public on its website or on a website maintained by the appropriate council for that purpose;
-- (b) make provision for the register to be inspected at the relevant office[^key-5e67660b5850c68eaffa3c2fe7186d26] of the appropriate council; and
+- (b) make provision for the register to be inspected at the relevant office[^c-5e67660b5850c68eaffa3c2fe7186d26] of the appropriate council; and
 - (c) ensure that the register has a search facility which allows, as a minimum, postcode and keyword searches to be made.
 
-(5) The appropriate council must keep the register in such manner as is suitable to enable a copy of any of the particulars contained on the register to be taken by or for any person who requests a copy in person at the relevant office[^key-7745f5a8c31a1c1cc4c08a2927ad9b4a] of the appropriate council.
+(5) The appropriate council must keep the register in such manner as is suitable to enable a copy of any of the particulars contained on the register to be taken by or for any person who requests a copy in person at the relevant office[^c-7745f5a8c31a1c1cc4c08a2927ad9b4a] of the appropriate council.
 
 ## 5. Removal of entries from the register
 
-(1) The appropriate council may remove an entry from the register, or any part of it, if the appropriate council is satisfied that the map, statement or [^key-766417c2a7d90109fab42dbe6e9aefdc]... declaration in question contains a material error.
+(1) The appropriate council may remove an entry from the register, or any part of it, if the appropriate council is satisfied that the map, statement or [^c-766417c2a7d90109fab42dbe6e9aefdc]... declaration in question contains a material error.
 
-(2) Before removing an entry from the register, the appropriate council must give not less than 28 days’ notice of its intention to do so to the owner of the land to which the map, statement or [^key-766417c2a7d90109fab42dbe6e9aefdc]... declaration relates.
+(2) Before removing an entry from the register, the appropriate council must give not less than 28 days’ notice of its intention to do so to the owner of the land to which the map, statement or [^c-766417c2a7d90109fab42dbe6e9aefdc]... declaration relates.
 
 Jonathan Shaw
 
@@ -160,22 +160,22 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 31A of the Highways Act 1980 are, so far as exercisable in relation to Wales, transferred to the Welsh Ministers by virtue of article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), as extended by section 99(1) of the Countryside and Rights of Way Act [2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37), and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-9da17f97031a201f0eb3498cf5d3f8f1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/2334/regulation/2) added (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/2)
+[^c-9da17f97031a201f0eb3498cf5d3f8f1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/2334/regulation/2) added (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/2)
 
-[^key-8645c59f5aae2b93e63435ad38bcd090]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/3/1/b) omitted (1.10.2013) by virtue of [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/3)
+[^c-8645c59f5aae2b93e63435ad38bcd090]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/3/1/b) omitted (1.10.2013) by virtue of [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/3)
 
-[^key-a50811c9fdd260e1745a1a5ffa95195a]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/3/3) omitted (1.10.2013) by virtue of [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/3)
+[^c-a50811c9fdd260e1745a1a5ffa95195a]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/3/3) omitted (1.10.2013) by virtue of [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/3)
 
-[^key-3296ac67f47206c14ad9017299383496]: Textual amendment: Words in [reg. 3(3)(c)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/3/3/c) substituted (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(4)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/4)
+[^c-3296ac67f47206c14ad9017299383496]: Textual amendment: Words in [reg. 3(3)(c)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/3/3/c) substituted (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(4)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/4)
 
-[^key-efabaa8bf19f2be4bc994c1747e1adbb]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/3/5) substituted (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(5)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/5)
+[^c-efabaa8bf19f2be4bc994c1747e1adbb]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/3/5) substituted (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(5)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/5)
 
-[^key-016f525fa73348305fd061133c6adccd]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/4/2) substituted (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(6)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/6)
+[^c-016f525fa73348305fd061133c6adccd]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/4/2) substituted (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(6)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/6)
 
-[^key-442c59db4d03c3d5e40efceb71e61696]: Textual amendment: Word in [reg. 4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/4/3/b/ii) omitted (1.10.2013) by virtue of [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/3)
+[^c-442c59db4d03c3d5e40efceb71e61696]: Textual amendment: Word in [reg. 4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/4/3/b/ii) omitted (1.10.2013) by virtue of [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/3)
 
-[^key-5e67660b5850c68eaffa3c2fe7186d26]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/4/4/b) substituted (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(6)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/6)
+[^c-5e67660b5850c68eaffa3c2fe7186d26]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/4/4/b) substituted (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(6)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/6)
 
-[^key-7745f5a8c31a1c1cc4c08a2927ad9b4a]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/4/5) substituted (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(6)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/6)
+[^c-7745f5a8c31a1c1cc4c08a2927ad9b4a]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2007/2334/regulation/4/5) substituted (1.10.2013) by [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(6)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/6)
 
-[^key-766417c2a7d90109fab42dbe6e9aefdc]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2007/2334/regulation/5) omitted (1.10.2013) by virtue of [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/3)
+[^c-766417c2a7d90109fab42dbe6e9aefdc]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2007/2334/regulation/5) omitted (1.10.2013) by virtue of [The Commons (Registration of Town or Village Greens) and Dedicated Highways (Landowner Statements and Declarations) (England) Regulations 2013 (S.I. 2013/1774)](https://www.legislation.gov.uk/uksi/2013/1774), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/1/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2013/1774/regulation/8/3)

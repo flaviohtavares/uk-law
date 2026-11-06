@@ -32,7 +32,7 @@ summary: ''
 
 is not a fit and proper person for the purposes of regulation 58.
 
-(2A)[^key-c8d91d640a294bac097f558447ca9b7d] The FCA may suspend (for such period as it considers appropriate) or cancel the registration of a cryptoasset exchange provider or custodian wallet provider if, at any time after registration, the FCA is satisfied that the cryptoasset exchange provider or custodian wallet provider (as the case may be) does not meet the requirement in regulation 58A(2).
+(2A)[^c-c8d91d640a294bac097f558447ca9b7d] The FCA may suspend (for such period as it considers appropriate) or cancel the registration of a cryptoasset exchange provider or custodian wallet provider if, at any time after registration, the FCA is satisfied that the cryptoasset exchange provider or custodian wallet provider (as the case may be) does not meet the requirement in regulation 58A(2).
 
 (3) The registering authority may suspend (for such period as it considers appropriate) or cancel a person's registration in a register maintained by it under regulation 54 or 55 if, at any time after registration—
 
@@ -47,10 +47,10 @@ is not a fit and proper person for the purposes of regulation 58.
 (5) The Commissioners may suspend (for such period as they consider appropriate) or cancel the registration of a money service business in a register maintained under regulation 54(2)(b) where the money service business is—
 
 - (a) providing a payment service in the United Kingdom, or is purporting to do so;
-- (b) not included in the register of payment service providers maintained by the FCA under regulation 4(1) of the Payment Service Regulations 2017[^key-074ff5987312e32b0472b95142609a47]; and
+- (b) not included in the register of payment service providers maintained by the FCA under regulation 4(1) of the Payment Service Regulations 2017[^c-074ff5987312e32b0472b95142609a47]; and
 - (c) not a person—
-  - (i) mentioned in paragraphs (d) to (j)[^key-e86b6f9ec98ee011d7d62b27f766ef77] of the definition of a “payment service provider” in regulation 2(1) of the Payment Services Regulations 2017[^key-6fe7321a59b03ce1c980271d7d15bc67], or
-  - (ii) to whom regulation 3 or 154(2)[^key-c92fac79a140a8abd7bd569ca2367973] of those Regulations applies.
+  - (i) mentioned in paragraphs (d) to (j)[^c-e86b6f9ec98ee011d7d62b27f766ef77] of the definition of a “payment service provider” in regulation 2(1) of the Payment Services Regulations 2017[^c-6fe7321a59b03ce1c980271d7d15bc67], or
+  - (ii) to whom regulation 3 or 154(2)[^c-c92fac79a140a8abd7bd569ca2367973] of those Regulations applies.
 
 (6) Where the supervisory authority of a person on the register maintained under regulation 54 or 55 is not the registering authority, the supervisory authority must inform the registering authority as soon as possible if it becomes aware of any grounds on which the registering authority might decide to suspend or cancel that person's registration.
 
@@ -85,7 +85,7 @@ is not a fit and proper person for the purposes of regulation 58.
 
 the suspension or cancellation takes effect when the notice is given to the person.
 
-(11)[^key-51f7f04ac65cbdfede18b6e85892176e] Where the registering authority decides to suspend or cancel a person’s registration, the authority may, if it considers it proportionate to do so, publish such information about that decision as the authority considers appropriate.
+(11)[^c-51f7f04ac65cbdfede18b6e85892176e] Where the registering authority decides to suspend or cancel a person’s registration, the authority may, if it considers it proportionate to do so, publish such information about that decision as the authority considers appropriate.
 
 (12) Where the supervisory authority publishes information under paragraph (11) and the person whose registration is suspended or cancelled refers the matter to the Upper Tribunal, the supervisory authority must, without delay, publish information about the status of the appeal and its outcome in the same manner as that in which the information was published under paragraph (11).
 
@@ -93,14 +93,14 @@ the suspension or cancellation takes effect when the notice is given to the pers
 
 [^c23048491]: Marginal citation: [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157).
 
-[^key-c8d91d640a294bac097f558447ca9b7d]: Textual amendment: Reg. 60(2A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(16)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/16/a)
+[^c-c8d91d640a294bac097f558447ca9b7d]: Textual amendment: Reg. 60(2A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(16)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/16/a)
 
-[^key-074ff5987312e32b0472b95142609a47]: Textual amendment: Word in reg. 60(5)(b) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(c)(i)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/c/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-074ff5987312e32b0472b95142609a47]: Textual amendment: Word in reg. 60(5)(b) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(c)(i)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/c/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-e86b6f9ec98ee011d7d62b27f766ef77]: Textual amendment: Words in reg. 60(5)(c)(i) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/c/ii/aa) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-e86b6f9ec98ee011d7d62b27f766ef77]: Textual amendment: Words in reg. 60(5)(c)(i) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/c/ii/aa) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-6fe7321a59b03ce1c980271d7d15bc67]: Textual amendment: Word in reg. 60(5)(c)(i) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/c/ii/bb) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-6fe7321a59b03ce1c980271d7d15bc67]: Textual amendment: Word in reg. 60(5)(c)(i) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/c/ii/bb) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-c92fac79a140a8abd7bd569ca2367973]: Textual amendment: Word in reg. 60(5)(c)(ii) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/c/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-c92fac79a140a8abd7bd569ca2367973]: Textual amendment: Word in reg. 60(5)(c)(ii) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/c/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-51f7f04ac65cbdfede18b6e85892176e]: Textual amendment: Reg. 60(11)(12) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(16)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/16/b)
+[^c-51f7f04ac65cbdfede18b6e85892176e]: Textual amendment: Reg. 60(11)(12) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(16)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/16/b)

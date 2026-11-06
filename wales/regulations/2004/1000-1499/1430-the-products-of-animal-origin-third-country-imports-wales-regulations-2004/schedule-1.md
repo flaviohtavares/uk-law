@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Notice of Introduction or Presentation and Certificate of Veterinary Clearance[^key-45ad4eb01abf5db6cdd0fe4374ded436]
+## SCHEDULE 1 — Notice of Introduction or Presentation and Certificate of Veterinary Clearance[^c-45ad4eb01abf5db6cdd0fe4374ded436]
 
 *Extent: E+W*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulations 2(1) and 17(3)
 
-[^key-45ad4eb01abf5db6cdd0fe4374ded436][^key-45ad4eb01abf5db6cdd0fe4374ded436]
+[^c-45ad4eb01abf5db6cdd0fe4374ded436][^c-45ad4eb01abf5db6cdd0fe4374ded436]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2004/1430/images/wsi_20041430_en_sld_001)[image: see source](https://www.legislation.gov.uk/wsi/2004/1430/images/wsi_20041430_en_sld_002)
 
-[^key-45ad4eb01abf5db6cdd0fe4374ded436][^key-45ad4eb01abf5db6cdd0fe4374ded436]
+[^c-45ad4eb01abf5db6cdd0fe4374ded436][^c-45ad4eb01abf5db6cdd0fe4374ded436]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2004/1430/images/wsi_20041430_en_sld_003)[image: see source](https://www.legislation.gov.uk/wsi/2004/1430/images/wsi_20041430_en_sld_004)
 
 ## Annotations
 
-[^key-45ad4eb01abf5db6cdd0fe4374ded436]: Textual amendment: Regulations revoked (15.3.2005) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2005 (S.I. 2005/666)](https://www.legislation.gov.uk/uksi/2005/666), [regs. 1](https://www.legislation.gov.uk/uksi/2005/666/regulation/1), [68](https://www.legislation.gov.uk/uksi/2005/666/regulation/68) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/666/regulation/3))
+[^c-45ad4eb01abf5db6cdd0fe4374ded436]: Textual amendment: Regulations revoked (15.3.2005) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2005 (S.I. 2005/666)](https://www.legislation.gov.uk/uksi/2005/666), [regs. 1](https://www.legislation.gov.uk/uksi/2005/666/regulation/1), [68](https://www.legislation.gov.uk/uksi/2005/666/regulation/68) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/666/regulation/3))

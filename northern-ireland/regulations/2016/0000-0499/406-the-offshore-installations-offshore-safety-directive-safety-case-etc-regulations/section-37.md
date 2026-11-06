@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Appeals[^key-b4069c21b8838ac9f4a829588e1f86af]
+## 37. Appeals[^c-b4069c21b8838ac9f4a829588e1f86af]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ may appeal to the Department or the Secretary of State as appropriate.
 
 ## Annotations
 
-[^key-b4069c21b8838ac9f4a829588e1f86af]: Commencement: Reg. 37 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-b4069c21b8838ac9f4a829588e1f86af]: Commencement: Reg. 37 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

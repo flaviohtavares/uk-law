@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Extent[^key-a642a4d149c408ec58952ddf0d531515]
+## 99. Extent[^c-a642a4d149c408ec58952ddf0d531515]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a642a4d149c408ec58952ddf0d531515]: Commencement: S. 99 in force at Royal Assent, see [s. 100(2)(f)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/f)
+[^c-a642a4d149c408ec58952ddf0d531515]: Commencement: S. 99 in force at Royal Assent, see [s. 100(2)(f)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/f)

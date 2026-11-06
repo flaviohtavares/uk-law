@@ -26,7 +26,7 @@ Section 115
 
 #### Remuneration, pensions etc. of Chief Inspector
 
-**1.**[^key-e06471895ed05d09b40cbfa88eb79aa0] (1) The Office is to pay the Chief Inspector such remuneration, and such travelling and other allowances, as the Secretary of State may determine.
+**1.**[^c-e06471895ed05d09b40cbfa88eb79aa0] (1) The Office is to pay the Chief Inspector such remuneration, and such travelling and other allowances, as the Secretary of State may determine.
 
 (2) In the case of any Chief Inspector determined by the Secretary of State, the Office is to pay—
 
@@ -43,13 +43,13 @@ as the Secretary of State may determine.
 
 #### Temporary appointment of Chief Inspector; performance of functions during vacancy or incapacity etc.
 
-**2.**[^key-2d35e4b1e7c92c38bc6bd93dd5680a54] (1) If there is a vacancy in the office of Chief Inspector, the Secretary of State may appoint a person to be Chief Inspector during such period (not exceeding one year) as he thinks fit.
+**2.**[^c-2d35e4b1e7c92c38bc6bd93dd5680a54] (1) If there is a vacancy in the office of Chief Inspector, the Secretary of State may appoint a person to be Chief Inspector during such period (not exceeding one year) as he thinks fit.
 
 (2) Any such appointment is to be on such terms as the Secretary of State may determine.
 
 (3) Those terms may include provision for the Secretary of State to terminate the appointment before the time when it would otherwise end.
 
-**3.**[^key-225710a43f7b07384a17df5137545f7b] (1) The Chief Inspector may designate an HMI to perform his functions during any period when he is absent or unable to act.
+**3.**[^c-225710a43f7b07384a17df5137545f7b] (1) The Chief Inspector may designate an HMI to perform his functions during any period when he is absent or unable to act.
 
 (2) If (at a time when no designation is in force under sub-paragraph (1)) it appears to the chairman of the Office that the Chief Inspector is, as a result of any incapacity—
 
@@ -62,14 +62,14 @@ the chairman may designate an HMI to perform the Chief Inspector's functions so 
 
 #### Execution of documents
 
-**4.**[^key-4204909b92509a00bedba080d495d2fb] The application of the Chief Inspector's seal must be authenticated by the signature of—
+**4.**[^c-4204909b92509a00bedba080d495d2fb] The application of the Chief Inspector's seal must be authenticated by the signature of—
 
 - (a) the Chief Inspector, or
 - (b) some other person who has been authorised for that purpose by the Chief Inspector, whether generally or specially.
 
 #### Evidence
 
-**5.**[^key-a93880bc5e1588cf85963253ea7d71ca] The Documentary Evidence Act 1868 (c. 37) shall have effect in relation to the Chief Inspector as if—
+**5.**[^c-a93880bc5e1588cf85963253ea7d71ca] The Documentary Evidence Act 1868 (c. 37) shall have effect in relation to the Chief Inspector as if—
 
 - (a) he were mentioned in the first column of the Schedule to that Act,
 - (b) he and any person authorised to act on his behalf were mentioned in the second column of that Schedule, and
@@ -77,11 +77,11 @@ the chairman may designate an HMI to perform the Chief Inspector's functions so 
 
 #### Ancillary powers
 
-**6.**[^key-3af920db8069179f2d95aa09f160cbfa] The Chief Inspector may do anything that he considers necessary or expedient for the purposes of, or in connection with, his functions.
+**6.**[^c-3af920db8069179f2d95aa09f160cbfa] The Chief Inspector may do anything that he considers necessary or expedient for the purposes of, or in connection with, his functions.
 
 #### Nature of functions conferred on Chief Inspector
 
-**7.**[^key-63a359e512b53fc19488528fd1d121ee] (1) Functions conferred on the Chief Inspector by virtue of this Part or any other enactment are conferred on him in his capacity as holder of the office of Chief Inspector and not in his capacity as a member of the Office.
+**7.**[^c-63a359e512b53fc19488528fd1d121ee] (1) Functions conferred on the Chief Inspector by virtue of this Part or any other enactment are conferred on him in his capacity as holder of the office of Chief Inspector and not in his capacity as a member of the Office.
 
 (2) Sub-paragraph (1) does not apply to any function of the Chief Inspector under—
 
@@ -97,7 +97,7 @@ This is subject to paragraph 3(3).
 
 #### Relationship between Chief Inspector and the Office
 
-**8.**[^key-82489fdb77141d4e318664890e37360a] (1) For all purposes relating to the government department constituted by the Office, the Chief Inspector is to be regarded—
+**8.**[^c-82489fdb77141d4e318664890e37360a] (1) For all purposes relating to the government department constituted by the Office, the Chief Inspector is to be regarded—
 
 - (a) as part of that government department, whether acting in his capacity as holder of the office of Chief Inspector or in his capacity as a member of the Office, and
 - (b) as performing his functions (in whatever capacity) on behalf of it.
@@ -119,18 +119,18 @@ This is subject to paragraph 3(3).
 
 #### Delegation of functions
 
-**9.**[^key-81686775383a2ac22d053766da5be6db] (1) Anything authorised or required by or under any enactment to be done by the Chief Inspector may be done by—
+**9.**[^c-81686775383a2ac22d053766da5be6db] (1) Anything authorised or required by or under any enactment to be done by the Chief Inspector may be done by—
 
 - (a) any HMI,
-- (b) any other member of the staff of the Office, [^key-ec907e26e3733a4a445b92748d721778]...
-- (c) any additional inspector,or[^key-c117665f7b238267ef8c6267f6446fc9]
+- (b) any other member of the staff of the Office, [^c-ec907e26e3733a4a445b92748d721778]...
+- (c) any additional inspector,or[^c-c117665f7b238267ef8c6267f6446fc9]
 - (d) any inspection administrator,
 
 who is authorised generally or specially for the purpose by the Chief Inspector.
 
 (2) But sub-paragraph (1) has effect subject to—
 
-- (a) sub-paragraph (3) below and paragraphs 10(2) , 11(4) and 11A(3)[^key-833b2dde6ee4f6de87094f5f800f7f0a] , and
+- (a) sub-paragraph (3) below and paragraphs 10(2) , 11(4) and 11A(3)[^c-833b2dde6ee4f6de87094f5f800f7f0a] , and
 - (b) any contrary provision made by any enactment.
 
 (3) The making of any report of an inspection of a school under section 5 of EA 2005 which states the opinion that special measures are required to be taken in relation to the school must be personally authorised by—
@@ -149,11 +149,11 @@ include references to any person authorised to act on his behalf under sub-parag
 
 #### Inspectors etc. to have necessary qualifications, experience and skills
 
-**10.**[^key-a25ec285a6a06da8b9c307fa04e56903] (1) This paragraph applies where—
+**10.**[^c-a25ec285a6a06da8b9c307fa04e56903] (1) This paragraph applies where—
 
 - (a) an HMI,
-- (b) a member of the staff of the Office, [^key-4605dd3d5b3d528bf97d150954cbcd94]...
-- (c) an additional inspector,or[^key-00c6885ece5d751df19e68dce3715143]
+- (b) a member of the staff of the Office, [^c-4605dd3d5b3d528bf97d150954cbcd94]...
+- (c) an additional inspector,or[^c-00c6885ece5d751df19e68dce3715143]
 - (d) an inspection administrator,
 
 is authorised to act on behalf of the Chief Inspector in connection with the carrying out of any of the activities within his remit.
@@ -162,7 +162,7 @@ is authorised to act on behalf of the Chief Inspector in connection with the car
 
 #### Additional inspectors
 
-**11.**[^key-e55d0ec64ffe991c0fb9667ad700dd0f] (1) The Chief Inspector may enter into arrangements with such persons as he thinks fit for them to assist him in the performance of his functions in a particular case or class of case.
+**11.**[^c-e55d0ec64ffe991c0fb9667ad700dd0f] (1) The Chief Inspector may enter into arrangements with such persons as he thinks fit for them to assist him in the performance of his functions in a particular case or class of case.
 
 (2) The Chief Inspector may also enter into arrangements with persons (“inspection service providers”) under which they provide the services of inspectors to carry out inspections on behalf of the Chief Inspector.
 
@@ -175,7 +175,7 @@ is authorised to act on behalf of the Chief Inspector in connection with the car
 
 (5) In sub-paragraph (4)(b) the reference to an HMI is, in relation to an inspection conducted before the commencement of this paragraph, to be read as a reference to one of Her Majesty's Inspectors of Schools in England.
 
-##### 11A. Inspection administrators[^key-c3e68e0de1105f0bf4b2aa8f4f1a8d7c]
+##### 11A. Inspection administrators[^c-c3e68e0de1105f0bf4b2aa8f4f1a8d7c]
 
 (1) The Chief Inspector may enter into arrangements with inspection service providers under which they provide the services of persons to provide administrative support in connection with the carrying out of inspections.
 
@@ -185,7 +185,7 @@ is authorised to act on behalf of the Chief Inspector in connection with the car
 
 #### Provisions relating to additional inspectors provided by inspection service providers
 
-**12.**[^key-55080a7eb92088a6f5a79991596fdfab] (1) This paragraph applies to arrangements made with inspection service providers under paragraph 11(2) (“ISP arrangements”).
+**12.**[^c-55080a7eb92088a6f5a79991596fdfab] (1) This paragraph applies to arrangements made with inspection service providers under paragraph 11(2) (“ISP arrangements”).
 
 (2) In pursuance of his duty under paragraph 10(2), so far as applying to additional inspectors provided under ISP arrangements, the Chief Inspector—
 
@@ -205,38 +205,38 @@ a statement of the matters mentioned in sub-paragraph (3).
 
 ## Annotations
 
-[^key-e06471895ed05d09b40cbfa88eb79aa0]: Commencement: Sch. 12 para. 1 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-e06471895ed05d09b40cbfa88eb79aa0]: Commencement: Sch. 12 para. 1 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-2d35e4b1e7c92c38bc6bd93dd5680a54]: Commencement: Sch. 12 para. 2 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-2d35e4b1e7c92c38bc6bd93dd5680a54]: Commencement: Sch. 12 para. 2 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-225710a43f7b07384a17df5137545f7b]: Commencement: Sch. 12 para. 3 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-225710a43f7b07384a17df5137545f7b]: Commencement: Sch. 12 para. 3 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-4204909b92509a00bedba080d495d2fb]: Commencement: Sch. 12 para. 4 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-4204909b92509a00bedba080d495d2fb]: Commencement: Sch. 12 para. 4 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-a93880bc5e1588cf85963253ea7d71ca]: Commencement: Sch. 12 para. 5 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-a93880bc5e1588cf85963253ea7d71ca]: Commencement: Sch. 12 para. 5 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-3af920db8069179f2d95aa09f160cbfa]: Commencement: Sch. 12 para. 6 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-3af920db8069179f2d95aa09f160cbfa]: Commencement: Sch. 12 para. 6 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-63a359e512b53fc19488528fd1d121ee]: Commencement: Sch. 12 para. 7 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-63a359e512b53fc19488528fd1d121ee]: Commencement: Sch. 12 para. 7 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-82489fdb77141d4e318664890e37360a]: Commencement: Sch. 12 para. 8 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-82489fdb77141d4e318664890e37360a]: Commencement: Sch. 12 para. 8 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-81686775383a2ac22d053766da5be6db]: Commencement: Sch. 12 para. 9 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-81686775383a2ac22d053766da5be6db]: Commencement: Sch. 12 para. 9 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-ec907e26e3733a4a445b92748d721778]: Textual amendment: Word in [Sch. 12 para. 9(1)(b)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/12/paragraph/9/1/b) repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 8](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/8); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-ec907e26e3733a4a445b92748d721778]: Textual amendment: Word in [Sch. 12 para. 9(1)(b)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/12/paragraph/9/1/b) repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 8](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/8); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-c117665f7b238267ef8c6267f6446fc9]: Textual amendment: [Sch. 12 para. 9(1)(d)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/12/paragraph/9/1/d) and word inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-c117665f7b238267ef8c6267f6446fc9]: Textual amendment: [Sch. 12 para. 9(1)(d)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/12/paragraph/9/1/d) and word inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-833b2dde6ee4f6de87094f5f800f7f0a]: Textual amendment: Words in [Sch. 12 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/12/paragraph/9/2/a) substituted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-833b2dde6ee4f6de87094f5f800f7f0a]: Textual amendment: Words in [Sch. 12 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/12/paragraph/9/2/a) substituted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-a25ec285a6a06da8b9c307fa04e56903]: Commencement: Sch. 12 para. 10 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-a25ec285a6a06da8b9c307fa04e56903]: Commencement: Sch. 12 para. 10 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-4605dd3d5b3d528bf97d150954cbcd94]: Textual amendment: Word in Sch. 12 para. 10(1)(b) repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/4), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 8](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/8); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-4605dd3d5b3d528bf97d150954cbcd94]: Textual amendment: Word in Sch. 12 para. 10(1)(b) repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/4), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 8](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/8); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-00c6885ece5d751df19e68dce3715143]: Textual amendment: Sch. 12 para. 10(1)(d) and word inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/4), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-00c6885ece5d751df19e68dce3715143]: Textual amendment: Sch. 12 para. 10(1)(d) and word inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/4), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-e55d0ec64ffe991c0fb9667ad700dd0f]: Commencement: Sch. 12 para. 11 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-e55d0ec64ffe991c0fb9667ad700dd0f]: Commencement: Sch. 12 para. 11 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
-[^key-c3e68e0de1105f0bf4b2aa8f4f1a8d7c]: Textual amendment: Sch. 12 para. 11A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(5)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/5), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-c3e68e0de1105f0bf4b2aa8f4f1a8d7c]: Textual amendment: Sch. 12 para. 11A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 226(5)](https://www.legislation.gov.uk/ukpga/2009/22/section/226/5), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-55080a7eb92088a6f5a79991596fdfab]: Commencement: Sch. 12 para. 12 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-55080a7eb92088a6f5a79991596fdfab]: Commencement: Sch. 12 para. 12 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)

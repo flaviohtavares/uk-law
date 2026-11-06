@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Provision of information to the Secretary of State[^key-cf15ed7726cf3fc140ea1a75dd1adf80]
+## 80. Provision of information to the Secretary of State[^c-cf15ed7726cf3fc140ea1a75dd1adf80]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where the energy administration ends pursuant to paragraph 79, 83 or 84 of Sched
 
 ## Annotations
 
-[^key-cf15ed7726cf3fc140ea1a75dd1adf80]: Commencement: Rule 80 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-cf15ed7726cf3fc140ea1a75dd1adf80]: Commencement: Rule 80 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

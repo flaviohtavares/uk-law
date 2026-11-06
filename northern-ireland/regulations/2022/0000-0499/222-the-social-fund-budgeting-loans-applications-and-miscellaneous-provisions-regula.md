@@ -42,7 +42,7 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 10 and 165(1), (4), (5) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-00285fe696820cbe2b2b693c32f1e937]
+## 1. Citation, commencement and interpretation[^c-00285fe696820cbe2b2b693c32f1e937]
 
 (1) These Regulations may be cited as the Social Fund (Budgeting Loans) (Applications and Miscellaneous Provisions) Regulations (Northern Ireland) 2022 and shall come into operation on 12th October 2022.
 
@@ -52,14 +52,14 @@ The Department for Communities makes the following Regulations in exercise of th
 - “**applicant**” means the person by or on behalf of whom the application for a budgeting loan is made; and
 - “**budgeting loan**” means a payment by way of a budgeting loan under section 134(1)(b) of the Act.
 
-## 2. Form and manner in which an application is to be made[^key-09e7ff71513b4659fc7ed2ad7a02eedf]
+## 2. Form and manner in which an application is to be made[^c-09e7ff71513b4659fc7ed2ad7a02eedf]
 
 An application for a budgeting loan must be made in writing—
 
 - (a) on a form approved by the Department and completed in accordance with the instructions on that form; or
 - (b) in such other manner as the Department may accept as sufficient in any particular case.
 
-## 3. Written applications[^key-ed897b5232ecfa01ccb948a915dfa391]
+## 3. Written applications[^c-ed897b5232ecfa01ccb948a915dfa391]
 
 (1) Application forms for budgeting loans approved by the Department for the purposes of regulation 2(a) are to be supplied, without charge, by persons appointed or authorised for that purpose by the Department.
 
@@ -69,7 +69,7 @@ An application for a budgeting loan must be made in writing—
 
 (4) Where an approved application form has been submitted and it appears to the Department that the application form has not been completed in accordance with the instructions given on the form, the Department may return the form to the applicant and require proper completion.
 
-## 4. Consent where application is made on behalf of someone else[^key-eeb3e6a300a2bb553993b93b9f6b716a]
+## 4. Consent where application is made on behalf of someone else[^c-eeb3e6a300a2bb553993b93b9f6b716a]
 
 (1) Where an application for a budgeting loan is to be made on behalf of one person (“**A**”) by another person (“**B**”), B must not make such an application unless—
 
@@ -78,11 +78,11 @@ An application for a budgeting loan must be made in writing—
 
 (2) Consent must be in writing.
 
-## 5. Time at which an application is to be treated as made[^key-c504f16484765f19d84ea7682be4543c]
+## 5. Time at which an application is to be treated as made[^c-c504f16484765f19d84ea7682be4543c]
 
 An application for a budgeting loan is to be treated as made on the date on which the application is first received in an office of the Department.
 
-## 6. Conditions to be satisfied before payment of a budgeting loan[^key-7cb13b27a5575f862faed5bc447f981a]
+## 6. Conditions to be satisfied before payment of a budgeting loan[^c-7cb13b27a5575f862faed5bc447f981a]
 
 (1) Before an award of a budgeting loan is paid the applicant must provide satisfactory evidence of the applicant’s identity.
 
@@ -92,14 +92,14 @@ An application for a budgeting loan is to be treated as made on the date on whic
 
 (4) The Department may extend the time specified in paragraph (3) where the Department is satisfied that special reasons apply, even if it has already expired.
 
-## 7. Circumstances in which an award is to be extinguished[^key-c7f147ec9d1ffef924b3221f0a40229e]
+## 7. Circumstances in which an award is to be extinguished[^c-c7f147ec9d1ffef924b3221f0a40229e]
 
 An award of a budgeting loan becomes extinguished where—
 
 - (a) the applicant fails to satisfy the condition in paragraph (2) of regulation 6 within the time referred to in paragraph (3) or (4) of that regulation; or
 - (b) in a case where the Department has issued an instrument of payment in respect of the award, that instrument is not presented for payment within the period of 12 months beginning with the date of its issue.
 
-## 8. Revocations[^key-a6eea3a6796f2cc8d443fcbd32aa29a8]
+## 8. Revocations[^c-a6eea3a6796f2cc8d443fcbd32aa29a8]
 
 The following Regulations are revoked—
 
@@ -140,25 +140,25 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)).
 
-[^key-00285fe696820cbe2b2b693c32f1e937]: Commencement: Reg. 1 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
+[^c-00285fe696820cbe2b2b693c32f1e937]: Commencement: Reg. 1 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
 
 [^f00003]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 134(1) was substituted by Article 66(1) of the Social Security (Northern Ireland) Order 1998; section 135(4) was amended by paragraph 53(4) of Schedule 6 to the Social Security (Northern Ireland) Order 1998 and sections 134(1)(b), (3) and (5) and 135 were repealed by Schedule 12, Part 7 of the Welfare Reform (Northern Ireland) Order 2015 for specified purposes as set out in Article 2 of the Commencement Order. These sections continue to have effect in so far as they relate to budgeting loans.
 
-[^key-09e7ff71513b4659fc7ed2ad7a02eedf]: Commencement: Reg. 2 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
+[^c-09e7ff71513b4659fc7ed2ad7a02eedf]: Commencement: Reg. 2 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
 
-[^key-ed897b5232ecfa01ccb948a915dfa391]: Commencement: Reg. 3 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
+[^c-ed897b5232ecfa01ccb948a915dfa391]: Commencement: Reg. 3 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
 
-[^key-eeb3e6a300a2bb553993b93b9f6b716a]: Commencement: Reg. 4 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
+[^c-eeb3e6a300a2bb553993b93b9f6b716a]: Commencement: Reg. 4 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 
-[^key-c504f16484765f19d84ea7682be4543c]: Commencement: Reg. 5 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
+[^c-c504f16484765f19d84ea7682be4543c]: Commencement: Reg. 5 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
 
-[^key-7cb13b27a5575f862faed5bc447f981a]: Commencement: Reg. 6 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
+[^c-7cb13b27a5575f862faed5bc447f981a]: Commencement: Reg. 6 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
 
-[^key-c7f147ec9d1ffef924b3221f0a40229e]: Commencement: Reg. 7 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
+[^c-c7f147ec9d1ffef924b3221f0a40229e]: Commencement: Reg. 7 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
 
-[^key-a6eea3a6796f2cc8d443fcbd32aa29a8]: Commencement: Reg. 8 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
+[^c-a6eea3a6796f2cc8d443fcbd32aa29a8]: Commencement: Reg. 8 in operation at 12.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2008 No. 357](https://www.legislation.gov.uk/nisr/2008/357)
 

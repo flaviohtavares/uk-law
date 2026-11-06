@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Details of the asset pool, safeguarding measures and reconciliation[^key-863da7a122b08df980c83090f409ac62]
+## 18. Details of the asset pool, safeguarding measures and reconciliation[^c-863da7a122b08df980c83090f409ac62]
 
 *Extent: S*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-863da7a122b08df980c83090f409ac62]: Commencement: Rule 18 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-863da7a122b08df980c83090f409ac62]: Commencement: Rule 18 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
 [^f00011]: Footnote: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752), amended by [S.I. 2017/1173](https://www.legislation.gov.uk/uksi/2017/1173), [2018/1021](https://www.legislation.gov.uk/uksi/2018/1021). There are other amending instruments but none is relevant.
 

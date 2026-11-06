@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Application for authorisation: fee[^key-29e2e2b2c4b9325c7e86378f1c6fb417]
+## 7. Application for authorisation: fee[^c-29e2e2b2c4b9325c7e86378f1c6fb417]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29e2e2b2c4b9325c7e86378f1c6fb417]: Commencement: Reg. 7 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-29e2e2b2c4b9325c7e86378f1c6fb417]: Commencement: Reg. 7 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

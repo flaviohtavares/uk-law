@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Application of the PAYE Regulations[^key-79f5d66a007a24e7a51acc438fd9a36a]
+## 70. Application of the PAYE Regulations[^c-79f5d66a007a24e7a51acc438fd9a36a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ To the extent that the provisions of the PAYE Regulations apply by virtue of reg
 
 ## Annotations
 
-[^key-79f5d66a007a24e7a51acc438fd9a36a]: Textual amendment: [Reg. 70](https://www.legislation.gov.uk/uksi/2009/470/regulation/70) substituted (6.4.2010 in relation to tax years commencing on or after that date) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2010 (S.I. 2010/661)](https://www.legislation.gov.uk/uksi/2010/661), [regs. 1](https://www.legislation.gov.uk/uksi/2010/661/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/661/regulation/7)
+[^c-79f5d66a007a24e7a51acc438fd9a36a]: Textual amendment: [Reg. 70](https://www.legislation.gov.uk/uksi/2009/470/regulation/70) substituted (6.4.2010 in relation to tax years commencing on or after that date) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2010 (S.I. 2010/661)](https://www.legislation.gov.uk/uksi/2010/661), [regs. 1](https://www.legislation.gov.uk/uksi/2010/661/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/661/regulation/7)

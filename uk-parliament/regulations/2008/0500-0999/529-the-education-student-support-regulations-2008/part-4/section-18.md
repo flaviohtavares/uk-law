@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Standard entitlement of current system students who have not studied on a previous course[^key-d6ebdb6fd6cbdf6c7636ee8859694190]
+## 18. Standard entitlement of current system students who have not studied on a previous course[^c-d6ebdb6fd6cbdf6c7636ee8859694190]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ where
 
 ## Annotations
 
-[^key-d6ebdb6fd6cbdf6c7636ee8859694190]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-d6ebdb6fd6cbdf6c7636ee8859694190]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

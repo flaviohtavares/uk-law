@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Extinguishment of right of navigation within Lake Lothing in connection with authorised development[^key-67bf286150680b754083649ccac53025]
+## 42. Extinguishment of right of navigation within Lake Lothing in connection with authorised development[^c-67bf286150680b754083649ccac53025]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ must not, except in an emergency, allow a vessel to enter into the areas referre
 
 ## Annotations
 
-[^key-67bf286150680b754083649ccac53025]: Commencement: Art. 42 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-67bf286150680b754083649ccac53025]: Commencement: Art. 42 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

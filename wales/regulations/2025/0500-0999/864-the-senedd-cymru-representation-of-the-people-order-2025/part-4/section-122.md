@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Prosecutions for illegal practices[^key-c1a41ef380d2f0c043739745ef3a5f20]
+## 122. Prosecutions for illegal practices[^c-c1a41ef380d2f0c043739745ef3a5f20]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1a41ef380d2f0c043739745ef3a5f20]: Commencement: Art. 122 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-c1a41ef380d2f0c043739745ef3a5f20]: Commencement: Art. 122 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

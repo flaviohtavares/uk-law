@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Local charging schemes to implement policies of ITAs[^key-48230324ba2aafddad570550d3aba2db][^key-c750ef0305a645ed2525fc86070038d8]
+## 104. Local charging schemes to implement policies of ITAs[^c-48230324ba2aafddad570550d3aba2db][^c-c750ef0305a645ed2525fc86070038d8]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-48230324ba2aafddad570550d3aba2db]: Commencement: S. 104 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-48230324ba2aafddad570550d3aba2db]: Commencement: S. 104 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-c750ef0305a645ed2525fc86070038d8]: Commencement: S. 104 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/579/article/2/j)
+[^c-c750ef0305a645ed2525fc86070038d8]: Commencement: S. 104 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/579/article/2/j)

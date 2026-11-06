@@ -31,10 +31,10 @@ summary: ''
 
 of 21 November 2006 approving the conclusion, by the Commission, of the Agreement for cooperation between the European Atomic Energy Community represented by the Commission of the European Communities and the Government of the Republic of Korea in the field of fusion energy research (revoked)
 
-[^key-3732dc94146e4be18c4f99109f6ed100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3732dc94146e4be18c4f99109f6ed100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-3732dc94146e4be18c4f99109f6ed100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-3732dc94146e4be18c4f99109f6ed100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3732dc94146e4be18c4f99109f6ed100]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-3732dc94146e4be18c4f99109f6ed100]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

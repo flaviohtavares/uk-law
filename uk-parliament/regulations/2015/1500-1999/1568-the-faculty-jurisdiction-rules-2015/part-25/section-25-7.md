@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 25.7. Registrars[^key-4e4047d6194a993fd21dd12782b85a21]
+## 25.7. Registrars[^c-4e4047d6194a993fd21dd12782b85a21]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e4047d6194a993fd21dd12782b85a21]: Commencement: [Rule 25.7](https://www.legislation.gov.uk/uksi/2015/1568/article/25.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-4e4047d6194a993fd21dd12782b85a21]: Commencement: [Rule 25.7](https://www.legislation.gov.uk/uksi/2015/1568/article/25.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

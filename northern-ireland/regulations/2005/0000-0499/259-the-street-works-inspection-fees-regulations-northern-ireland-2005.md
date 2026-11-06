@@ -43,13 +43,13 @@ Coming into operation
 
 The Department for Regional Development[^f00001], in exercise of the powers conferred by Article 35 of the Street Works (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003] and of every other power enabling it in that behalf hereby makes the following regulations:
 
-## 1. Citation, commencement and application[^key-21e7b2fe7b0c663f51b24b342ce16de6]
+## 1. Citation, commencement and application[^c-21e7b2fe7b0c663f51b24b342ce16de6]
 
 (1) These Regulations may be cited as The Street Works (Inspection Fees) Regulations (Northern Ireland) 2005 and shall come into operation on 1st July 2005.
 
 (2) These Regulations shall apply to streets for which the Department is the street authority in accordance with Article 7(1)(a) of the Order.
 
-## 2. Interpretation[^key-b2ca52b1691858a47636d2804c8f50cb]
+## 2. Interpretation[^c-b2ca52b1691858a47636d2804c8f50cb]
 
 In these Regulations –
 
@@ -57,9 +57,9 @@ In these Regulations –
 - “service pipe” and “service line” have the same meaning as in paragraph 7(3) of Schedule 2 to the Order;
 - “year” means a year starting on 1st April and ending on 31st March.
 
-## 3. Fees, chargeable inspections, units of inspection, phases of works and estimated numbers of units of inspection[^key-4c103c4920a5344e6155e579c2cebf51]
+## 3. Fees, chargeable inspections, units of inspection, phases of works and estimated numbers of units of inspection[^c-4c103c4920a5344e6155e579c2cebf51]
 
-(1) An undertaker shall pay to the Department a fee of £32.00[^key-3e041516c8f31e852000b038f1899540] for each chargeable inspection carried out by the Department, of works involving the excavation or reinstatement of any part of a street.
+(1) An undertaker shall pay to the Department a fee of £32.00[^c-3e041516c8f31e852000b038f1899540] for each chargeable inspection carried out by the Department, of works involving the excavation or reinstatement of any part of a street.
 
 (2) For the purposes of this regulation, subject to paragraph (6), a chargeable inspection of works is an inspection at random of not more than 10.5 per cent of each phase of works, and not more than 30 per cent of the total number of actual units of inspection in any year.
 
@@ -84,11 +84,11 @@ In these Regulations –
 
 (6) Where an undertaker has not previously executed any street works in streets to which these Regulations apply, the undertaker shall provide the Department with an estimate of the number of units of inspection they expect to generate in each of the first 3 years (“estimated number of units of inspection”). In these circumstances, a chargeable inspection of works shall be calculated in accordance with paragraph (2) except that the calculation shall be based on the estimated number of units of inspection, rather than the number of actual units of inspection.
 
-## 4. Disputes[^key-e28812ea17813bff39fbe2479bb46690]
+## 4. Disputes[^c-e28812ea17813bff39fbe2479bb46690]
 
 Any dispute between an undertaker and the Department with regard to any questions arising under these Regulations shall, if it cannot be resolved by agreement, be referred to an arbitrator in accordance with the provisions of Article 55 of the Order.
 
-**5.**[^key-cb205e27e2a8e0587b21564aecec571a] The Street Works (Inspection Fees) Regulations (Northern Ireland) 2001[^f00004] are hereby revoked.
+**5.**[^c-cb205e27e2a8e0587b21564aecec571a] The Street Works (Inspection Fees) Regulations (Northern Ireland) 2001[^f00004] are hereby revoked.
 
 Sealed with the Official Seal of the Department for Regional Development on 16th May 2005.
 
@@ -117,16 +117,16 @@ The effects of the amendments are to –
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 6(d) and Schedule 4 Part IV
 
-[^key-21e7b2fe7b0c663f51b24b342ce16de6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/259/regulation/1) in operation at 1.7.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/259/regulation/1/2)
+[^c-21e7b2fe7b0c663f51b24b342ce16de6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/259/regulation/1) in operation at 1.7.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/259/regulation/1/2)
 
-[^key-b2ca52b1691858a47636d2804c8f50cb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/259/regulation/2) in operation at 1.7.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/259/regulation/1/2)
+[^c-b2ca52b1691858a47636d2804c8f50cb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/259/regulation/2) in operation at 1.7.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/259/regulation/1/2)
 
-[^key-4c103c4920a5344e6155e579c2cebf51]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/259/regulation/3) in operation at 1.7.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/259/regulation/1/2)
+[^c-4c103c4920a5344e6155e579c2cebf51]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/259/regulation/3) in operation at 1.7.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/259/regulation/1/2)
 
-[^key-3e041516c8f31e852000b038f1899540]: Textual amendment: Sum in [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/259/regulation/3/1) substituted (1.4.2011) by [The Street Works (Inspection Fees) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/415)](https://www.legislation.gov.uk/nisr/2010/415), [regs. 1](https://www.legislation.gov.uk/nisr/2010/415/regulation/1), [2](https://www.legislation.gov.uk/nisr/2010/415/regulation/2)
+[^c-3e041516c8f31e852000b038f1899540]: Textual amendment: Sum in [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/259/regulation/3/1) substituted (1.4.2011) by [The Street Works (Inspection Fees) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/415)](https://www.legislation.gov.uk/nisr/2010/415), [regs. 1](https://www.legislation.gov.uk/nisr/2010/415/regulation/1), [2](https://www.legislation.gov.uk/nisr/2010/415/regulation/2)
 
-[^key-e28812ea17813bff39fbe2479bb46690]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/259/regulation/4) in operation at 1.7.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/259/regulation/1/2)
+[^c-e28812ea17813bff39fbe2479bb46690]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/259/regulation/4) in operation at 1.7.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/259/regulation/1/2)
 
-[^key-cb205e27e2a8e0587b21564aecec571a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/259/regulation/5) in operation at 1.7.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/259/regulation/1/2)
+[^c-cb205e27e2a8e0587b21564aecec571a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/259/regulation/5) in operation at 1.7.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/259/regulation/1/2)
 
 [^f00004]: Footnote: [S.R. 2001 No. 409](https://www.legislation.gov.uk/nisr/2001/409)

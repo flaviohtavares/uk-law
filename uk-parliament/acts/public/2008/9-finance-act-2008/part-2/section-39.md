@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Dormant assets[^key-922df19cbf8dd9a6a3ff09f27beaea76]
+## 39. Dormant assets[^c-922df19cbf8dd9a6a3ff09f27beaea76]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-922df19cbf8dd9a6a3ff09f27beaea76]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/2008/9/section/39) substituted (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+[^c-922df19cbf8dd9a6a3ff09f27beaea76]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/2008/9/section/39) substituted (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)

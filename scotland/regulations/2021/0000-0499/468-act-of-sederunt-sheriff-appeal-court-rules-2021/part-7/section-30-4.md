@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30.4. Hearing of appeal[^key-24e0060d7253088ed78b251b10e7fe0c]
+## 30.4. Hearing of appeal[^c-24e0060d7253088ed78b251b10e7fe0c]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24e0060d7253088ed78b251b10e7fe0c]: Commencement: Para. 30.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-24e0060d7253088ed78b251b10e7fe0c]: Commencement: Para. 30.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

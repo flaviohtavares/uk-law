@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Grant or refusal of licence[^key-36e05d9aec7ea8846d84b4bf1188f639]
+## 29. Grant or refusal of licence[^c-36e05d9aec7ea8846d84b4bf1188f639]
 
 *Extent: S*
 
@@ -46,7 +46,7 @@ summary: ''
 - (a) it is to expire unless the activity it authorises is begun or completed within a specified period,
 - (b) it is to remain in force indefinitely or for a specified period of time (which may be determined by reference to a specified event).
 
-(5) A licence authorising any activity mentioned in item 5 or 13[^key-eafccd54d391f6a4f6b8f57edaee897d] in section 21(1) (constructing, altering or improving works) may provide that the conditions attached to it are to bind any other person who for the time being owns, occupies or enjoys any use of the works in question (whether or not the licence is transferred to that other person).
+(5) A licence authorising any activity mentioned in item 5 or 13[^c-eafccd54d391f6a4f6b8f57edaee897d] in section 21(1) (constructing, altering or improving works) may provide that the conditions attached to it are to bind any other person who for the time being owns, occupies or enjoys any use of the works in question (whether or not the licence is transferred to that other person).
 
 (6) The Scottish Ministers must not grant a licence to carry on any activity which is contrary to international law.
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36e05d9aec7ea8846d84b4bf1188f639]: Commencement: S. 29 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-36e05d9aec7ea8846d84b4bf1188f639]: Commencement: S. 29 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
-[^key-eafccd54d391f6a4f6b8f57edaee897d]: Textual amendment: Words in s. 29(5) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2026/172/article/2/4)
+[^c-eafccd54d391f6a4f6b8f57edaee897d]: Textual amendment: Words in s. 29(5) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2026/172/article/2/4)

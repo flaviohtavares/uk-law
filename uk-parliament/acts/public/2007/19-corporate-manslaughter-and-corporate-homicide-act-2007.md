@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Corporate manslaughter and corporate homicide
 
-### 1. The offence[^key-c9c813042d1a00f38d45d0aa5de8761c]
+### 1. The offence[^c-c9c813042d1a00f38d45d0aa5de8761c]
 
 (1) An organisation to which this section applies is guilty of an offence if the way in which its activities are managed or organised—
 
@@ -77,38 +77,38 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (1) A “**relevant duty of care**”, in relation to an organisation, means any of the following duties owed by it under the law of negligence—
 
-- (a)[^key-b69ea8f542505d29574e294b32576212] a duty owed to its employees or to other persons working for the organisation or performing services for it;
-- (b)[^key-b69ea8f542505d29574e294b32576212] a duty owed as occupier of premises;
-- (c)[^key-b69ea8f542505d29574e294b32576212] a duty owed in connection with—
+- (a)[^c-b69ea8f542505d29574e294b32576212] a duty owed to its employees or to other persons working for the organisation or performing services for it;
+- (b)[^c-b69ea8f542505d29574e294b32576212] a duty owed as occupier of premises;
+- (c)[^c-b69ea8f542505d29574e294b32576212] a duty owed in connection with—
   - (i) the supply by the organisation of goods or services (whether for consideration or not),
   - (ii) the carrying on by the organisation of any construction or maintenance operations,
   - (iii) the carrying on by the organisation of any other activity on a commercial basis, or
   - (iv) the use or keeping by the organisation of any plant, vehicle or other thing;
-- (d)[^key-71c4e1eef3dab6aa7fc54e67026e1343][^key-fdec28d0079200fe001771b7089df8dc] a duty owed to a person who, by reason of being a person within subsection (2), is someone for whose safety the organisation is responsible.
+- (d)[^c-71c4e1eef3dab6aa7fc54e67026e1343][^c-fdec28d0079200fe001771b7089df8dc] a duty owed to a person who, by reason of being a person within subsection (2), is someone for whose safety the organisation is responsible.
 
 (2) A person is within this subsection if—
 
-- (a) he is detained at a custodial institution or in a custody area at a court, a police station or customs premises[^key-f36db944160854f98c4b4fc7b90d038e];
-- (aa)[^key-88a2889cc6ac8b48ad4cda917e5f3679] he is detained in service custody premises;
-- (b) he is detained at a removal centre, a short-term holding facility or in pre-departure accommodation[^key-45cedc2e38decb7028f44a6b4f91b227];
+- (a) he is detained at a custodial institution or in a custody area at a court, a police station or customs premises[^c-f36db944160854f98c4b4fc7b90d038e];
+- (aa)[^c-88a2889cc6ac8b48ad4cda917e5f3679] he is detained in service custody premises;
+- (b) he is detained at a removal centre, a short-term holding facility or in pre-departure accommodation[^c-45cedc2e38decb7028f44a6b4f91b227];
 - (c) he is being transported in a vehicle, or being held in any premises, in pursuance of prison escort arrangements or immigration escort arrangements;
 - (d) he is living in secure accommodation in which he has been placed;
 - (e) he is a detained patient.
 
-(3)[^key-b69ea8f542505d29574e294b32576212] Subsection (1) is subject to sections 3 to 7.
+(3)[^c-b69ea8f542505d29574e294b32576212] Subsection (1) is subject to sections 3 to 7.
 
-(4)[^key-b69ea8f542505d29574e294b32576212] A reference in subsection (1) to a duty owed under the law of negligence includes a reference to a duty that would be owed under the law of negligence but for any statutory provision under which liability is imposed in place of liability under that law.
+(4)[^c-b69ea8f542505d29574e294b32576212] A reference in subsection (1) to a duty owed under the law of negligence includes a reference to a duty that would be owed under the law of negligence but for any statutory provision under which liability is imposed in place of liability under that law.
 
-(5)[^key-b69ea8f542505d29574e294b32576212] For the purposes of this Act, whether a particular organisation owes a duty of care to a particular individual is a question of law.
+(5)[^c-b69ea8f542505d29574e294b32576212] For the purposes of this Act, whether a particular organisation owes a duty of care to a particular individual is a question of law.
 
 The judge must make any findings of fact necessary to decide that question.
 
-(6)[^key-b69ea8f542505d29574e294b32576212] For the purposes of this Act there is to be disregarded—
+(6)[^c-b69ea8f542505d29574e294b32576212] For the purposes of this Act there is to be disregarded—
 
 - (a) any rule of the common law that has the effect of preventing a duty of care from being owed by one person to another by reason of the fact that they are jointly engaged in unlawful conduct;
 - (b) any such rule that has the effect of preventing a duty of care from being owed to a person by reason of his acceptance of a risk of harm.
 
-(7)[^key-b69ea8f542505d29574e294b32576212] In this section—
+(7)[^c-b69ea8f542505d29574e294b32576212] In this section—
 
 - “**construction or maintenance operations**” means operations of any of the following descriptions—
   - (a) construction, installation, alteration, extension, improvement, repair, maintenance, decoration, cleaning, demolition or dismantling of—
@@ -116,8 +116,8 @@ The judge must make any findings of fact necessary to decide that question.
     - (ii) anything else that forms, or is to form, part of the land, or
     - (iii) any plant, vehicle or other thing;
   - (b) operations that form an integral part of, or are preparatory to, or are for rendering complete, any operations within paragraph (a);
-- “**custodial institution**” means a prison, a young offender institution, a secure training centre, a secure college,[^key-a950730e31c8218a0d86610c5c6eb7da] a young offenders institution, a young offenders centre, a juvenile justice centre or a remand centre;
-- “customs premises” means premises wholly or partly occupied by persons designated under section 3 (general customs officials) or 11 (customs revenue officials) of the Borders, Citizenship and Immigration Act 2009;[^key-d92146cc1262d1487eb9224d5717ffdd]
+- “**custodial institution**” means a prison, a young offender institution, a secure training centre, a secure college,[^c-a950730e31c8218a0d86610c5c6eb7da] a young offenders institution, a young offenders centre, a juvenile justice centre or a remand centre;
+- “customs premises” means premises wholly or partly occupied by persons designated under section 3 (general customs officials) or 11 (customs revenue officials) of the Borders, Citizenship and Immigration Act 2009;[^c-d92146cc1262d1487eb9224d5717ffdd]
 - “**detained patient**” means—
   - (a) a person who is detained in any premises under—
     - (i) Part 2 or 3 of the Mental Health Act 1983 (c. 20) (“**the 1983 Act**”), or
@@ -133,11 +133,11 @@ The judge must make any findings of fact necessary to decide that question.
   - (b) in relation to Scotland, the Occupiers' Liability (Scotland) Act 1960 (c. 30);
   - (c) in relation to Northern Ireland, the Occupiers' Liability Act (Northern Ireland) 1957 (c. 25), the Defective Premises (Northern Ireland) Order 1975 (S.I. 1975/1039 (N.I. 9)), the Occupiers' Liability (Northern Ireland) Order 1987 (S.I. 1987/1280 (N.I. 15)) and the Defective Premises (Landlord's Liability) Act (Northern Ireland) 2001 (c. 10);
 - “**prison escort arrangements**” means arrangements made under section 80 of the Criminal Justice Act 1991 (c. 53) or under section 102 or 118 of the Criminal Justice and Public Order Act 1994 (c. 33);
-- “removal centre”, “short-term holding facility” and “pre-departure accommodation”[^key-facaf6b0289399b401872987977e1c02] have the meaning given by section 147 of the Immigration and Asylum Act 1999;
+- “removal centre”, “short-term holding facility” and “pre-departure accommodation”[^c-facaf6b0289399b401872987977e1c02] have the meaning given by section 147 of the Immigration and Asylum Act 1999;
 - “**secure accommodation**” means accommodation, not consisting of or forming part of a custodial institution, provided for the purpose of restricting the liberty of persons under the age of 18.
-- “service custody premises” has the meaning given by section 300(7) of the Armed Forces Act 2006.[^key-54891a6dcbf37c4fc9a1a0c5af702aad]
+- “service custody premises” has the meaning given by section 300(7) of the Armed Forces Act 2006.[^c-54891a6dcbf37c4fc9a1a0c5af702aad]
 
-### 3. Public policy decisions, exclusively public functions and statutory inspections[^key-b9d3f05923eb137dd31fb2b259ad7a9f]
+### 3. Public policy decisions, exclusively public functions and statutory inspections[^c-b9d3f05923eb137dd31fb2b259ad7a9f]
 
 (1) Any duty of care owed by a public authority in respect of a decision as to matters of public policy (including in particular the allocation of public resources or the weighing of competing public interests) is not a “relevant duty of care”.
 
@@ -152,7 +152,7 @@ The judge must make any findings of fact necessary to decide that question.
   - (b) by or under a statutory provision;
 - “**statutory function**” means a function conferred by or under a statutory provision.
 
-### 4. Military activities[^key-54311114485fad410c775707471dab5c]
+### 4. Military activities[^c-54311114485fad410c775707471dab5c]
 
 (1) Any duty of care owed by the Ministry of Defence in respect of—
 
@@ -168,7 +168,7 @@ is not a “relevant duty of care”.
 
 (4) In this section “**the special forces**” means those units of the armed forces the maintenance of whose capabilities is the responsibility of the Director of Special Forces or which are for the time being subject to the operational command of that Director.
 
-### 5. Policing and law enforcement[^key-e84f397ac40c12b8a8ec01619b4031da]
+### 5. Policing and law enforcement[^c-e84f397ac40c12b8a8ec01619b4031da]
 
 (1) Any duty of care owed by a public authority in respect of—
 
@@ -195,14 +195,14 @@ is not a “relevant duty of care”.
 - (c) activities carried on in the exercise of functions exercisable under Chapter 4 of Part 2 of the Serious Organised Crime and Police Act 2005 (c. 15) (protection of witnesses and other persons);
 - (d) activities carried on to enforce any provision contained in or made under the Immigration Acts.
 
-### 6. Emergencies[^key-a6d697ecefd5ccb8df000ada18e5c654]
+### 6. Emergencies[^c-a6d697ecefd5ccb8df000ada18e5c654]
 
 (1) Any duty of care owed by an organisation within subsection (2) in respect of the way in which it responds to emergency circumstances is not a “relevant duty of care” unless it falls within section 2(1)(a) or (b).
 
 (2) The organisations within this subsection are—
 
 - (a) a fire and rescue authority in England and Wales;
-- (b)[^key-ffe2b784a115e03d5aa9620a4893c3e4] the Scottish Fire and Rescue Service;
+- (b)[^c-ffe2b784a115e03d5aa9620a4893c3e4] the Scottish Fire and Rescue Service;
 - (c) the Northern Ireland Fire and Rescue Service Board;
 - (d) any other organisation providing a service of responding to emergency circumstances either—
   - (i) in pursuance of arrangements made with an organisation within paragraph (a), (b) or (c), or
@@ -238,11 +238,11 @@ is not a “relevant duty of care” unless it falls within section 2(1)(a) or (
   - (b) are likely to cause the death of a person;
 - “**medical treatment**” includes any treatment or procedure of a medical or similar nature;
 - “**relevant NHS body**” means—
-  - (za) NHS England[^key-dfb1d81efc1c1505103d044a3689a342];
-  - (a) an integrated care board,[^key-09ba715d5bf931a0899a48822fcdaa0a] [^key-befc757864eba265caa9e2935deb2a05]... [^key-d993be4745562226912bc61b5f756d4b]... NHS trust, Special Health Authority or NHS foundation trust in England;
+  - (za) NHS England[^c-dfb1d81efc1c1505103d044a3689a342];
+  - (a) an integrated care board,[^c-09ba715d5bf931a0899a48822fcdaa0a] [^c-befc757864eba265caa9e2935deb2a05]... [^c-d993be4745562226912bc61b5f756d4b]... NHS trust, Special Health Authority or NHS foundation trust in England;
   - (b) a Local Health Board, NHS trust or Special Health Authority in Wales;
   - (c) a Health Board or Special Health Board in Scotland, or the Common Services Agency for the Scottish Health Service;
-  - (d) a Health and Social Care trust[^key-c72889ffd60e12919d8b0ce0eb77e0a2] in Northern Ireland;
+  - (d) a Health and Social Care trust[^c-c72889ffd60e12919d8b0ce0eb77e0a2] in Northern Ireland;
 - “**serious harm**” means—
   - (a) serious injury to or the serious illness (including mental illness) of a person;
   - (b) serious harm to the environment (including the life and health of plants and animals);
@@ -250,7 +250,7 @@ is not a “relevant duty of care” unless it falls within section 2(1)(a) or (
 
 (8) A reference in this section to emergency circumstances includes a reference to circumstances that are believed to be emergency circumstances.
 
-### 7. Child-protection and probation functions[^key-ba5cdefb0ef6a6c09d63a191621ee839]
+### 7. Child-protection and probation functions[^c-ba5cdefb0ef6a6c09d63a191621ee839]
 
 (1) A duty of care to which this section applies is not a “relevant duty of care” unless it falls within section 2(1)(a), (b) or (d).
 
@@ -258,21 +258,21 @@ is not a “relevant duty of care” unless it falls within section 2(1)(a) or (
 
 - (a) Parts 4 and 5 of the Children Act 1989 (c. 41),
 - (b) Part 2 of the Children (Scotland) Act 1995 (c. 36), or
-- (ba)[^key-229cf0d5380b84412d733bc987e636be] the Children’s Hearings (Scotland) Act 2011,
+- (ba)[^c-229cf0d5380b84412d733bc987e636be] the Children’s Hearings (Scotland) Act 2011,
 - (c) Parts 5 and 6 of the Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2)).
 
-(3) This section also applies to any duty of care that a local probation board , a provider of probation services[^key-5a661ce42e9b443963e8c14511a358bb] or other public authority owes in respect of the exercise by it of functions conferred by or under—
+(3) This section also applies to any duty of care that a local probation board , a provider of probation services[^c-5a661ce42e9b443963e8c14511a358bb] or other public authority owes in respect of the exercise by it of functions conferred by or under—
 
 - (a) Chapter 1 of Part 1 of the Criminal Justice and Court Services Act 2000 (c. 43),
-- (aa)[^key-5eb99dfc2804a414eb23ebaddda1102d] section 13 of the Offender Management Act [2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21),
+- (aa)[^c-5eb99dfc2804a414eb23ebaddda1102d] section 13 of the Offender Management Act [2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21),
 - (b) section 27 of the Social Work (Scotland) Act 1968 (c. 49), or
 - (c) Article 4 of the Probation Board (Northern Ireland) Order 1982 (S.I. 1982/713 (N.I. 10)).
 
-(4)[^key-46354bb550984c3b048abbe48d7400cd] This section also applies to any duty of care that a provider of probation services owes in respect of the carrying out by it of activities in pursuance of arrangements under section 3 of the Offender Management Act 2007.
+(4)[^c-46354bb550984c3b048abbe48d7400cd] This section also applies to any duty of care that a provider of probation services owes in respect of the carrying out by it of activities in pursuance of arrangements under section 3 of the Offender Management Act 2007.
 
 ## Gross breach
 
-### 8. Factors for jury[^key-d67ff03eb47894d57cccfa438424ac4e]
+### 8. Factors for jury[^c-d67ff03eb47894d57cccfa438424ac4e]
 
 (1) This section applies where—
 
@@ -295,7 +295,7 @@ is not a “relevant duty of care” unless it falls within section 2(1)(a) or (
 
 ## Remedial orders and publicity orders
 
-### 9. Power to order breach etc to be remedied[^key-01a191931475e571b8d38db3e4c201da]
+### 9. Power to order breach etc to be remedied[^c-01a191931475e571b8d38db3e4c201da]
 
 (1) A court before which an organisation is convicted of corporate manslaughter or corporate homicide may make an order (a “remedial order”) requiring the organisation to take specified steps to remedy—
 
@@ -318,7 +318,7 @@ A period specified under this subsection may be extended or further extended by 
 
 (5) An organisation that fails to comply with a remedial order is guilty of an offence, and liable on conviction on indictment to a fine.
 
-### 10. Power to order conviction etc to be publicised[^key-853f3c76d1c9eb23853d4f63bbc55aaa]
+### 10. Power to order conviction etc to be publicised[^c-853f3c76d1c9eb23853d4f63bbc55aaa]
 
 (1) A court before which an organisation is convicted of corporate manslaughter or corporate homicide may make an order (a “publicity order”) requiring the organisation to publicise in a specified manner—
 
@@ -341,7 +341,7 @@ A period specified under this subsection may be extended or further extended by 
 
 ## Application to particular categories of organisation
 
-### 11. Application to Crown bodies[^key-d48306f17899c1ec5239bcf9bada702c]
+### 11. Application to Crown bodies[^c-d48306f17899c1ec5239bcf9bada702c]
 
 (1) An organisation that is a servant or agent of the Crown is not immune from prosecution under this Act for that reason.
 
@@ -369,7 +369,7 @@ is to be treated as owing whatever duties of care it would owe if it were a corp
 
 (5) Subsections (3)(a)(i), (3)(b)(i) and (4) apply in relation to a Northern Ireland department as they apply in relation to a department or other body listed in Schedule 1.
 
-### 12. Application to armed forces[^key-9c2b20e38344cedb88c72ec21aff4097]
+### 12. Application to armed forces[^c-9c2b20e38344cedb88c72ec21aff4097]
 
 (1) In this Act “**the armed forces**” means any of the naval, military or air forces of the Crown raised under the law of the United Kingdom.
 
@@ -380,14 +380,14 @@ is to be treated as owing whatever duties of care it would owe if it were a corp
 - (a) members of the reserve forces (within the meaning given by section 1(2) of the Reserve Forces Act 1996 (c. 14)) when in service or undertaking training or duties;
 - (b) persons serving on Her Majesty's vessels (within the meaning given by section 132(1) of the Naval Discipline Act 1957 (c. 53)).
 
-### 13. Application to police forces[^key-f8639a5586ec13540c8a08cc4411f319]
+### 13. Application to police forces[^c-f8639a5586ec13540c8a08cc4411f319]
 
 (1) In this Act “**police force**” means—
 
 - (a) a police force within the meaning of—
-  - (i) the Police Act 1996 (c. 16), [^key-11f4c59929d95907ee5ba61f16e313b8]...
-  - (ii)[^key-76182196e8157789fe7658c859f63895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-3aeeb84c1ed03c36934fe0d43882d135] the Police Service of Scotland;
+  - (i) the Police Act 1996 (c. 16), [^c-11f4c59929d95907ee5ba61f16e313b8]...
+  - (ii)[^c-76182196e8157789fe7658c859f63895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-3aeeb84c1ed03c36934fe0d43882d135] the Police Service of Scotland;
 - (b) the Police Service of Northern Ireland;
 - (c) the Police Service of Northern Ireland Reserve;
 - (d) the British Transport Police Force;
@@ -399,14 +399,14 @@ is to be treated as owing whatever duties of care it would owe if it were a corp
 (3) For the purposes of section 2—
 
 - (a) a member of a police force is to be treated as employed by that force;
-- (b) a special constable appointed for a police area in England and Wales is to be treated as employed by the police force maintained by the local policing body[^key-d65dc223580c2cf865245127d70d4cde] for that area;
+- (b) a special constable appointed for a police area in England and Wales is to be treated as employed by the police force maintained by the local policing body[^c-d65dc223580c2cf865245127d70d4cde] for that area;
 - (c) a special constable appointed for a police force mentioned in paragraph (d) or (f) of subsection (1) is to be treated as employed by that force;
-- (d) a police cadet undergoing training with a view to becoming a member of a police force mentioned in paragraph (a) , (aa)[^key-7fac608884fe470e736e3beaa63417f1] or (d) of subsection (1) is to be treated as employed by that force;
+- (d) a police cadet undergoing training with a view to becoming a member of a police force mentioned in paragraph (a) , (aa)[^c-7fac608884fe470e736e3beaa63417f1] or (d) of subsection (1) is to be treated as employed by that force;
 - (e) a police trainee appointed under section 39 of the Police (Northern Ireland) Act 2000 (c. 32) or a police cadet appointed under section 42 of that Act is to be treated as employed by the Police Service of Northern Ireland;
 - (f) a police reserve trainee appointed under section 40 of that Act is to be treated as employed by the Police Service of Northern Ireland Reserve;
-- (g) a member of a police force seconded to the National Crime Agency to serve as a National Crime Agency officer is to be treated[^key-85848b7594a920bf0843243285e52f36] as employed by that Agency.
+- (g) a member of a police force seconded to the National Crime Agency to serve as a National Crime Agency officer is to be treated[^c-85848b7594a920bf0843243285e52f36] as employed by that Agency.
 
-(4) A reference in subsection (3) to a member of a police force is to be read, in the case of the Police Service of Scotland, as a reference to a constable of that Service.[^key-5125683c04f5cfcc1f333146d0f067cd]
+(4) A reference in subsection (3) to a member of a police force is to be read, in the case of the Police Service of Scotland, as a reference to a constable of that Service.[^c-5125683c04f5cfcc1f333146d0f067cd]
 
 (5) For the purposes of section 2 any premises occupied for the purposes of a police force are to be treated as occupied by that force.
 
@@ -419,7 +419,7 @@ is to be treated as owing whatever duties of care it would owe if it were a corp
 
 the person is to be treated for those purposes as employed by both the force and the other organisation.
 
-### 14. Application to partnerships[^key-a30c056ca6bb7f7a5d732a3859467608]
+### 14. Application to partnerships[^c-a30c056ca6bb7f7a5d732a3859467608]
 
 (1) For the purposes of this Act a partnership is to be treated as owing whatever duties of care it would owe if it were a body corporate.
 
@@ -431,7 +431,7 @@ the person is to be treated for those purposes as employed by both the force and
 
 ## Miscellaneous
 
-### 15. Procedure, evidence and sentencing[^key-596c49381de2142be19c4e2f2e1d5bb7]
+### 15. Procedure, evidence and sentencing[^c-596c49381de2142be19c4e2f2e1d5bb7]
 
 (1) Any statutory provision (whenever made) about criminal proceedings applies, subject to any prescribed adaptations or modifications, in relation to proceedings under this Act against—
 
@@ -445,7 +445,7 @@ as it applies in relation to proceedings against a corporation.
 
 (2) In this section—
 
-- “**prescribed**” means —[^key-2395439cd8dac6f1e3937050a3ed53db]
+- “**prescribed**” means —[^c-2395439cd8dac6f1e3937050a3ed53db]
   - (a) in relation to proceedings under this Act in England and Wales, prescribed by an order made by the Secretary of State;
   - (b) in relation to proceedings under this Act in Northern Ireland, prescribed by an order made by the Department of Justice in Northern Ireland;
 - “**provision about criminal proceedings**” includes—
@@ -454,11 +454,11 @@ as it applies in relation to proceedings against a corporation.
   - (c) provision about sentencing, or otherwise dealing with, persons convicted of offences;
 - “**statutory**” means contained in, or in an instrument made under, any Act or any Northern Ireland legislation.
 
-(3) A reference in this section to proceedings (except in the definition of “prescribed” in subsection (2))[^key-e9bf2d100bc3a7eaf1866b2a21910547] is to proceedings in England and Wales or Northern Ireland.
+(3) A reference in this section to proceedings (except in the definition of “prescribed” in subsection (2))[^c-e9bf2d100bc3a7eaf1866b2a21910547] is to proceedings in England and Wales or Northern Ireland.
 
-(4) An order of the Secretary of State[^key-095560ee99a904137fa9315e498bc2ff] under this section is subject to negative resolution procedure.
+(4) An order of the Secretary of State[^c-095560ee99a904137fa9315e498bc2ff] under this section is subject to negative resolution procedure.
 
-### 16. Transfer of functions[^key-3c7ebedd139ec0aa95048089316bd4af]
+### 16. Transfer of functions[^c-3c7ebedd139ec0aa95048089316bd4af]
 
 (1) This section applies where—
 
@@ -497,24 +497,24 @@ This is subject to subsection (6).
 
 (7) An order under subsection (4) or (6) is subject to negative resolution procedure.
 
-### 17. DPP's consent required for proceedings[^key-3c2574e725ae067c3eb00400b9e27f82]
+### 17. DPP's consent required for proceedings[^c-3c2574e725ae067c3eb00400b9e27f82]
 
 Proceedings for an offence of corporate manslaughter—
 
 - (a) may not be instituted in England and Wales without the consent of the Director of Public Prosecutions;
 - (b) may not be instituted in Northern Ireland without the consent of the Director of Public Prosecutions for Northern Ireland.
 
-### 18. No individual liability[^key-83d9f921b6d1ac41d0581fdc050503a6]
+### 18. No individual liability[^c-83d9f921b6d1ac41d0581fdc050503a6]
 
 (1) An individual cannot be guilty of aiding, abetting, counselling or procuring the commission of an offence of corporate manslaughter.
 
 *Extent: E+W+N.I*
 
-(1A)[^key-efa280a74fb5defb5c5511b2774a293c] An individual cannot be guilty of an offence under Part 2 of the Serious Crime Act 2007 (encouraging or assisting crime) by reference to an offence of corporate manslaughter.
+(1A)[^c-efa280a74fb5defb5c5511b2774a293c] An individual cannot be guilty of an offence under Part 2 of the Serious Crime Act 2007 (encouraging or assisting crime) by reference to an offence of corporate manslaughter.
 
 (2) An individual cannot be guilty of aiding, abetting, counselling or procuring, or being art and part in, the commission of an offence of corporate homicide.
 
-### 19. Convictions under this Act and under health and safety legislation[^key-cea97fbb9e7ea5f34fddfc138ed02570]
+### 19. Convictions under this Act and under health and safety legislation[^c-cea97fbb9e7ea5f34fddfc138ed02570]
 
 (1) Where in the same proceedings there is—
 
@@ -527,13 +527,13 @@ the jury may, if the interests of justice so require, be invited to return a ver
 
 (3) In this section “**health and safety offence**” means an offence under any health and safety legislation.
 
-### 20. Abolition of liability of corporations for manslaughter at common law[^key-96ff1cfb674ac60b176bc0f7e55a76c0]
+### 20. Abolition of liability of corporations for manslaughter at common law[^c-96ff1cfb674ac60b176bc0f7e55a76c0]
 
 The common law offence of manslaughter by gross negligence is abolished in its application to corporations, and in any application it has to other organisations to which section 1 applies.
 
 ## General and supplemental
 
-### 21. Power to extend section 1 to other organisations[^key-0534c98eadc003b8a4870b7e11890b7a]
+### 21. Power to extend section 1 to other organisations[^c-0534c98eadc003b8a4870b7e11890b7a]
 
 (1) The Secretary of State may by order amend section 1 so as to extend the categories of organisation to which that section applies.
 
@@ -541,7 +541,7 @@ The common law offence of manslaughter by gross negligence is abolished in its a
 
 (3) An order under this section is subject to affirmative resolution procedure.
 
-### 22. Power to amend Schedule 1[^key-9961b1b4a33b0d9d05753c96d1cc914c]
+### 22. Power to amend Schedule 1[^c-9961b1b4a33b0d9d05753c96d1cc914c]
 
 (1) The Secretary of State may amend Schedule 1 by order.
 
@@ -557,7 +557,7 @@ In that case the instrument is subject to negative resolution procedure.
   - (i) the abolition of the department or other body, or
   - (ii) the transfer of all the functions of the department or other body to one or more organisations to which section 1 applies.
 
-### 23. Power to extend section 2(2)[^key-8272bf4579b70c56f49e9c323ae3866e]
+### 23. Power to extend section 2(2)[^c-8272bf4579b70c56f49e9c323ae3866e]
 
 (1) The Secretary of State may by order amend section 2(2) to make it include any category of person (not already included) who—
 
@@ -568,7 +568,7 @@ In that case the instrument is subject to negative resolution procedure.
 
 (3) An order under this section is subject to affirmative resolution procedure.
 
-### 23A. Powers of Department of Justice in Northern Ireland[^key-762dfb174108665980863a6788d45532]
+### 23A. Powers of Department of Justice in Northern Ireland[^c-762dfb174108665980863a6788d45532]
 
 (1) The power to make an order under any of the following provisions is exercisable by the Department of Justice in Northern Ireland (and not by the Secretary of State) so far as the power may be used to make provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).
 
@@ -587,7 +587,7 @@ In that case the instrument is subject to negative resolution procedure.
 - (c) section 22(2);
 - (d) section 23(3).
 
-### 24. Orders[^key-f77ebec428212723186bd43ffb513575]
+### 24. Orders[^c-f77ebec428212723186bd43ffb513575]
 
 (1) A power of the Secretary of State to make an order under this Act is exercisable by statutory instrument.
 
@@ -600,7 +600,7 @@ In that case the instrument is subject to negative resolution procedure.
 - (a) may make different provision for different purposes;
 - (b) may make transitional or saving provision.
 
-(5)[^key-5655a5880ca07d2e69f5eb5def7f30d8] A power of the Department of Justice in Northern Ireland to make an order under this Act is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+(5)[^c-5655a5880ca07d2e69f5eb5def7f30d8] A power of the Department of Justice in Northern Ireland to make an order under this Act is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
 
 (6) An order made by the Department of Justice under section 15 or 16 is subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954).
 
@@ -615,7 +615,7 @@ In that case the instrument is subject to negative resolution procedure.
 
 (10) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsections (7) and (9) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.
 
-### 25. Interpretation[^key-32db7ab1b26d19a6676ef99690b20f90]
+### 25. Interpretation[^c-32db7ab1b26d19a6676ef99690b20f90]
 
 In this Act—
 
@@ -624,7 +624,7 @@ In this Act—
 - “**employee**” means an individual who works under a contract of employment or apprenticeship (whether express or implied and, if express, whether oral or in writing), and related expressions are to be construed accordingly; see also sections 11(3)(a), 12(2) and 13(3) (which apply for the purposes of section 2);
 - “**employers' association**” has the meaning given by section 122 of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) or Article 4 of the Industrial Relations (Northern Ireland) Order 1992 (S.I. 1992/807 (N.I. 5));
 - “**enforcement authority**” means an authority responsible for the enforcement of any health and safety legislation;
-- “**health and safety legislation**” means any statutory provision dealing with health and safety matters, including in particular provision contained in the Health and Safety at Work etc. Act 1974 (c. 37) or the Health and Safety at Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9)) and provision dealing with health and safety matters contained in Part 3 of the Energy Act 2013 (nuclear regulation)[^key-aeab65c90c98c3f1451ab097d1fa928d];
+- “**health and safety legislation**” means any statutory provision dealing with health and safety matters, including in particular provision contained in the Health and Safety at Work etc. Act 1974 (c. 37) or the Health and Safety at Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9)) and provision dealing with health and safety matters contained in Part 3 of the Energy Act 2013 (nuclear regulation)[^c-aeab65c90c98c3f1451ab097d1fa928d];
 - “**member**”, in relation to the armed forces, is to be read in accordance with section 12(3);
 - “**partnership**” means—
   - (a) a partnership within the Partnership Act 1890 (c. 39), or
@@ -639,17 +639,17 @@ In this Act—
 - “statutory provision”, except in section 15, means provision contained in, or in an instrument made under, any Act, any Act of the Scottish Parliament or any Northern Ireland legislation;
 - “**trade union**” has the meaning given by section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) or Article 3 of the Industrial Relations (Northern Ireland) Order 1992 (S.I. 1992/807 (N.I. 5)).
 
-### 26. Minor and consequential amendments[^key-86b68cb1d44dc63f9db01ae34d51b283]
+### 26. Minor and consequential amendments[^c-86b68cb1d44dc63f9db01ae34d51b283]
 
 Schedule 2 (minor and consequential amendments) has effect.
 
 ### 27. Commencement and savings
 
-(1) The preceding provisions of this Act come into force in accordance with provision made by order by the Secretary of State (subject to subsection (1A))[^key-27ad7f5497b98e0624293206525d75c6].
+(1) The preceding provisions of this Act come into force in accordance with provision made by order by the Secretary of State (subject to subsection (1A))[^c-27ad7f5497b98e0624293206525d75c6].
 
-(1A)[^key-3f6ec0d1b69be6c8684cd75c7eafefc3] The power in subsection (1) is exercisable by the Department of Justice in Northern Ireland (and not by the Secretary of State) for the purposes of the law of Northern Ireland.
+(1A)[^c-3f6ec0d1b69be6c8684cd75c7eafefc3] The power in subsection (1) is exercisable by the Department of Justice in Northern Ireland (and not by the Secretary of State) for the purposes of the law of Northern Ireland.
 
-(2) An order of the Secretary of State[^key-cae2f66a627aed75e3947bd64e3d28cf] bringing into force paragraph (d) of section 2(1) is subject to affirmative resolution procedure.
+(2) An order of the Secretary of State[^c-cae2f66a627aed75e3947bd64e3d28cf] bringing into force paragraph (d) of section 2(1) is subject to affirmative resolution procedure.
 
 (3) Section 1 does not apply in relation to anything done or omitted before the commencement of that section.
 
@@ -682,41 +682,41 @@ This Act may be cited as the Corporate Manslaughter and Corporate Homicide Act 2
 
 SCHEDULES
 
-## SCHEDULE 1 — List of government departments etc[^key-032279cd1fc1c086b7dc7f662ffb8918]
+## SCHEDULE 1 — List of government departments etc[^c-032279cd1fc1c086b7dc7f662ffb8918]
 
 Section 1
 
-[^key-032279cd1fc1c086b7dc7f662ffb8918]
+[^c-032279cd1fc1c086b7dc7f662ffb8918]
 
-- [^key-333ed3c8b0f9ab38ff7e3e3adb5d8500]...
+- [^c-333ed3c8b0f9ab38ff7e3e3adb5d8500]...
 - Attorney General's Office
 - Cabinet Office
 - Central Office of Information
 - Crown Office and Procurator Fiscal Service
 - Crown Prosecution Service
-- [^key-c98799f7626580a2d41b74545ffdc1dc]...
-- [^key-a6707480eec3f6176b39f1d45df055ae]...
-- Department for Business and Trade[^key-87c5f6ffb1301f0ce7ea51c1c1e8db52]
-- [^key-bbe8af56b664eb9aa5e6b7354f34bc9e]...
-- [^key-f4f70c4a950f0bb0ba2fbf8c1be0dfdd]...
-- [^key-969d1745567b9331398a3e5e9ff7dc48]...
-- [^key-45e5102d18c480faf4c7a0adbb256922]...
+- [^c-c98799f7626580a2d41b74545ffdc1dc]...
+- [^c-a6707480eec3f6176b39f1d45df055ae]...
+- Department for Business and Trade[^c-87c5f6ffb1301f0ce7ea51c1c1e8db52]
+- [^c-bbe8af56b664eb9aa5e6b7354f34bc9e]...
+- [^c-f4f70c4a950f0bb0ba2fbf8c1be0dfdd]...
+- [^c-969d1745567b9331398a3e5e9ff7dc48]...
+- [^c-45e5102d18c480faf4c7a0adbb256922]...
 - Department for Culture, Media and Sport
-- Department for Education[^key-5730b1aed0aff30c259e67ac9aad2fb8]
-- [^key-45e5102d18c480faf4c7a0adbb256922]...
+- Department for Education[^c-5730b1aed0aff30c259e67ac9aad2fb8]
+- [^c-45e5102d18c480faf4c7a0adbb256922]...
 - Department for Energy Security and Net Zero
 - Department for Environment, Food and Rural Affairs
-- [^key-7b31b7580b935bc5fd09e8f6c8931923]...
-- [^key-6a9ea969546b8ac05156449db4e307fd]...
-- [^key-22e0434c298d874690e53954fa9d9514]...
+- [^c-7b31b7580b935bc5fd09e8f6c8931923]...
+- [^c-6a9ea969546b8ac05156449db4e307fd]...
+- [^c-22e0434c298d874690e53954fa9d9514]...
 - Department for Science, Innovation and Technology
 - Department for Transport
 - Department for Work and Pensions
-- [^key-bbe8af56b664eb9aa5e6b7354f34bc9e]...
-- Department of Health and Social Care[^key-eb5587767844c6f3d63d4683ffe2b0a0]
-- [^key-45e5102d18c480faf4c7a0adbb256922]...
+- [^c-bbe8af56b664eb9aa5e6b7354f34bc9e]...
+- Department of Health and Social Care[^c-eb5587767844c6f3d63d4683ffe2b0a0]
+- [^c-45e5102d18c480faf4c7a0adbb256922]...
 - Export Credits Guarantee Department
-- Foreign, Commonwealth and Development Office[^key-0b46c4db77a8d6d89f9b0ed1172a2bd0]
+- Foreign, Commonwealth and Development Office[^c-0b46c4db77a8d6d89f9b0ed1172a2bd0]
 - Forestry Commission
 - General Register Office for Scotland
 - Government Actuary's Department
@@ -725,31 +725,31 @@ Section 1
 - Her Majesty's Treasury
 - Home Office
 - Ministry of Defence
-- [^key-b1bd18d9be72bbf5f54651dc67ae24cb]...
-- Ministry of Housing, Communities and Local Government[^key-5317f645688a68cefa39c053fbf87731]
-- Ministry of Justice (including the Scotland Office and the Wales Office)[^key-468eed82ae91896655e585a32d18cbe6]
+- [^c-b1bd18d9be72bbf5f54651dc67ae24cb]...
+- Ministry of Housing, Communities and Local Government[^c-5317f645688a68cefa39c053fbf87731]
+- Ministry of Justice (including the Scotland Office and the Wales Office)[^c-468eed82ae91896655e585a32d18cbe6]
 - National Archives
 - National Archives of Scotland
-- National Crime Agency[^key-b6372afacf66ebe6e9003c6941198f0c]
-- [^key-90ec380bfce1f0637bc30aa36f41c5e6]...
+- National Crime Agency[^c-b6372afacf66ebe6e9003c6941198f0c]
+- [^c-90ec380bfce1f0637bc30aa36f41c5e6]...
 - National Savings and Investments
 - National School of Government
 - Northern Ireland Audit Office
-- [^key-5a11c30bce5a9cb88379c1d83b039c07]...
+- [^c-5a11c30bce5a9cb88379c1d83b039c07]...
 - Northern Ireland Office
 - Office for National Statistics
-- [^key-45e5102d18c480faf4c7a0adbb256922]...
+- [^c-45e5102d18c480faf4c7a0adbb256922]...
 - Office of Her Majesty's Chief Inspector of Education and Training in Wales
 - Ordnance Survey
-- [^key-45e5102d18c480faf4c7a0adbb256922]...
+- [^c-45e5102d18c480faf4c7a0adbb256922]...
 - Public Prosecution Service for Northern Ireland
 - Registers of Scotland Executive Agency
-- [^key-d9d63a33028f409ea7b6e82a77a8e7ac]...
+- [^c-d9d63a33028f409ea7b6e82a77a8e7ac]...
 - Royal Mint
 - Scottish Executive
 - Serious Fraud Office
 - Treasury Solicitor's Department
-- [^key-a6707480eec3f6176b39f1d45df055ae]...
+- [^c-a6707480eec3f6176b39f1d45df055ae]...
 - Welsh Assembly Government
 
 ## SCHEDULE 2 — Minor and consequential amendments
@@ -758,7 +758,7 @@ Section 26
 
 ### Coroners Act 1988 (c. 13)
 
-**1.**[^key-6c72f35fcc72153f06f69dc6671a9ed1] (1) The Coroners Act 1988 is amended as follows.
+**1.**[^c-6c72f35fcc72153f06f69dc6671a9ed1] (1) The Coroners Act 1988 is amended as follows.
 
 (2) In the following provisions, after “manslaughter” there is inserted “ , corporate manslaughter ”
 
@@ -774,13 +774,13 @@ Section 26
 
 ### Criminal Justice Act 2003 (c. 44)
 
-**2.**[^key-8b5f447430b161c0890c126e428604c9] In Schedule 4 to the Criminal Justice Act 2003 (qualifying offences for purposes of section 62), after paragraph 4 there is inserted—
+**2.**[^c-8b5f447430b161c0890c126e428604c9] In Schedule 4 to the Criminal Justice Act 2003 (qualifying offences for purposes of section 62), after paragraph 4 there is inserted—
 
 > **Corporate manslaughter**
 >
 > **4A.** An offence under section 1 of the Corporate Manslaughter and Corporate Homicide Act 2007.
 
-**3.**[^key-d11294080f7b454c5e24abeb1bf6fea7] (1) Schedule 5 to that Act (qualifying offences for purposes of Part 10) is amended as follows.
+**3.**[^c-d11294080f7b454c5e24abeb1bf6fea7] (1) Schedule 5 to that Act (qualifying offences for purposes of Part 10) is amended as follows.
 
 (2) After paragraph 4 there is inserted—
 
@@ -796,7 +796,7 @@ Section 26
 
 ### Criminal Justice (Northern Ireland) Order 2004 (S.I. 2004/1500 (N.I. 9))
 
-**4.**[^key-6664657757880dac24098849166e08ad] In Schedule 2 to the Criminal Justice (Northern Ireland) Order 2004 (qualifying offences for purposes of Article 21), after paragraph 4 there is inserted—
+**4.**[^c-6664657757880dac24098849166e08ad] In Schedule 2 to the Criminal Justice (Northern Ireland) Order 2004 (qualifying offences for purposes of Article 21), after paragraph 4 there is inserted—
 
 > **Corporate manslaughter**
 >
@@ -804,178 +804,178 @@ Section 26
 
 ## Annotations
 
-[^key-c9c813042d1a00f38d45d0aa5de8761c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2007/19/section/1) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-c9c813042d1a00f38d45d0aa5de8761c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2007/19/section/1) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-b69ea8f542505d29574e294b32576212]: Commencement: S. 2(1)(a)-(c) (3)-(7) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2) (with [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2008/401/article/2/3/b))
+[^c-b69ea8f542505d29574e294b32576212]: Commencement: S. 2(1)(a)-(c) (3)-(7) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2) (with [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2008/401/article/2/3/b))
 
-[^key-71c4e1eef3dab6aa7fc54e67026e1343]: Commencement: S. 2(1)(d) in force at 1.9.2011 for E.W.S. by [S.I. 2011/1867](https://www.legislation.gov.uk/uksi/2011/1867), [art. 2](https://www.legislation.gov.uk/uksi/2011/1867/article/2)
+[^c-71c4e1eef3dab6aa7fc54e67026e1343]: Commencement: S. 2(1)(d) in force at 1.9.2011 for E.W.S. by [S.I. 2011/1867](https://www.legislation.gov.uk/uksi/2011/1867), [art. 2](https://www.legislation.gov.uk/uksi/2011/1867/article/2)
 
-[^key-fdec28d0079200fe001771b7089df8dc]: Commencement: S. 2(1)(d) in force at 3.9.2012 for N.I. by [S.R. 2012/286](https://www.legislation.gov.uk/nisr/2012/286), [art. 2](https://www.legislation.gov.uk/nisr/2012/286/article/2)
+[^c-fdec28d0079200fe001771b7089df8dc]: Commencement: S. 2(1)(d) in force at 3.9.2012 for N.I. by [S.R. 2012/286](https://www.legislation.gov.uk/nisr/2012/286), [art. 2](https://www.legislation.gov.uk/nisr/2012/286/article/2)
 
-[^key-f36db944160854f98c4b4fc7b90d038e]: Textual amendment: Words in s. 2(2)(a) substituted (1.9.2011) by [The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868)](https://www.legislation.gov.uk/uksi/2011/1868), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1868/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1868/article/2/2)
+[^c-f36db944160854f98c4b4fc7b90d038e]: Textual amendment: Words in s. 2(2)(a) substituted (1.9.2011) by [The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868)](https://www.legislation.gov.uk/uksi/2011/1868), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1868/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1868/article/2/2)
 
-[^key-88a2889cc6ac8b48ad4cda917e5f3679]: Textual amendment: S. 2(2)(aa) inserted (1.9.2011) by [The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868)](https://www.legislation.gov.uk/uksi/2011/1868), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1868/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/1868/article/2/3)
+[^c-88a2889cc6ac8b48ad4cda917e5f3679]: Textual amendment: S. 2(2)(aa) inserted (1.9.2011) by [The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868)](https://www.legislation.gov.uk/uksi/2011/1868), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1868/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/1868/article/2/3)
 
-[^key-45cedc2e38decb7028f44a6b4f91b227]: Textual amendment: Words in s. 2(2)(b) substituted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 15(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/15/a); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/cc)
+[^c-45cedc2e38decb7028f44a6b4f91b227]: Textual amendment: Words in s. 2(2)(b) substituted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 15(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/15/a); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/cc)
 
-[^key-a950730e31c8218a0d86610c5c6eb7da]: Textual amendment: Words in [s. 2(7)](https://www.legislation.gov.uk/ukpga/2007/19/section/2/7) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 23](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/23); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
+[^c-a950730e31c8218a0d86610c5c6eb7da]: Textual amendment: Words in [s. 2(7)](https://www.legislation.gov.uk/ukpga/2007/19/section/2/7) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 23](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/23); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
 
-[^key-d92146cc1262d1487eb9224d5717ffdd]: Textual amendment: Words in s. 2(7) inserted (1.9.2011) by [The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868)](https://www.legislation.gov.uk/uksi/2011/1868), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1868/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2011/1868/article/2/4/a)
+[^c-d92146cc1262d1487eb9224d5717ffdd]: Textual amendment: Words in s. 2(7) inserted (1.9.2011) by [The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868)](https://www.legislation.gov.uk/uksi/2011/1868), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1868/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2011/1868/article/2/4/a)
 
-[^key-facaf6b0289399b401872987977e1c02]: Textual amendment: Words in s. 2(7) substituted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 15(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/15/b); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/cc)
+[^c-facaf6b0289399b401872987977e1c02]: Textual amendment: Words in s. 2(7) substituted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 15(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/15/b); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/cc)
 
-[^key-54891a6dcbf37c4fc9a1a0c5af702aad]: Textual amendment: Words in s. 2(7) inserted (1.9.2011) by [The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868)](https://www.legislation.gov.uk/uksi/2011/1868), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1868/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2011/1868/article/2/4/b)
+[^c-54891a6dcbf37c4fc9a1a0c5af702aad]: Textual amendment: Words in s. 2(7) inserted (1.9.2011) by [The Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment) Order 2011 (S.I. 2011/1868)](https://www.legislation.gov.uk/uksi/2011/1868), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1868/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2011/1868/article/2/4/b)
 
-[^key-b9d3f05923eb137dd31fb2b259ad7a9f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2007/19/section/3) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2) (with [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/401/article/2/3/c))
+[^c-b9d3f05923eb137dd31fb2b259ad7a9f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2007/19/section/3) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2) (with [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/401/article/2/3/c))
 
-[^key-54311114485fad410c775707471dab5c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2007/19/section/4) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-54311114485fad410c775707471dab5c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2007/19/section/4) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-e84f397ac40c12b8a8ec01619b4031da]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2007/19/section/5) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2) (with [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/401/article/2/3/c))
+[^c-e84f397ac40c12b8a8ec01619b4031da]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2007/19/section/5) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2) (with [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/401/article/2/3/c))
 
-[^key-a6d697ecefd5ccb8df000ada18e5c654]: Commencement: S. 6 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-a6d697ecefd5ccb8df000ada18e5c654]: Commencement: S. 6 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-ffe2b784a115e03d5aa9620a4893c3e4]: Textual amendment: S. 6(2)(b) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 71](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/71); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121)) and substituted (E.W.N.I) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/602/schedule/1/paragraph/9)
+[^c-ffe2b784a115e03d5aa9620a4893c3e4]: Textual amendment: S. 6(2)(b) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 71](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/71); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121)) and substituted (E.W.N.I) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/602/schedule/1/paragraph/9)
 
-[^key-dfb1d81efc1c1505103d044a3689a342]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/2007/19/section/6) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-dfb1d81efc1c1505103d044a3689a342]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/2007/19/section/6) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-09ba715d5bf931a0899a48822fcdaa0a]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/ukpga/2007/19/section/6/7) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 151](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/151); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-09ba715d5bf931a0899a48822fcdaa0a]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/ukpga/2007/19/section/6/7) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 151](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/151); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-befc757864eba265caa9e2935deb2a05]: Textual amendment: Words in s. 6(7) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 147(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/147/b/ii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-befc757864eba265caa9e2935deb2a05]: Textual amendment: Words in s. 6(7) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 147(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/147/b/ii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-d993be4745562226912bc61b5f756d4b]: Textual amendment: Words in s. 6(7) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 147(b)(iii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/147/b/iii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-d993be4745562226912bc61b5f756d4b]: Textual amendment: Words in s. 6(7) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 147(b)(iii)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/147/b/iii); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-c72889ffd60e12919d8b0ce0eb77e0a2]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/ukpga/2007/19/section/6/7) substituted (N.I.) (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 213](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/213); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b); and (E.W.S.) (30.11.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [18](https://www.legislation.gov.uk/uksi/2022/1174/article/18)
+[^c-c72889ffd60e12919d8b0ce0eb77e0a2]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/ukpga/2007/19/section/6/7) substituted (N.I.) (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 213](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/213); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b); and (E.W.S.) (30.11.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [18](https://www.legislation.gov.uk/uksi/2022/1174/article/18)
 
-[^key-ba5cdefb0ef6a6c09d63a191621ee839]: Commencement: S. 7 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2) (with [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/401/article/2/3/c))
+[^c-ba5cdefb0ef6a6c09d63a191621ee839]: Commencement: S. 7 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2) (with [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/401/article/2/3/c))
 
-[^key-229cf0d5380b84412d733bc987e636be]: Textual amendment: [S. 7(2)(ba)](https://www.legislation.gov.uk/ukpga/2007/19/section/7/2/ba) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/11)
+[^c-229cf0d5380b84412d733bc987e636be]: Textual amendment: [S. 7(2)(ba)](https://www.legislation.gov.uk/ukpga/2007/19/section/7/2/ba) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/11)
 
-[^key-5a661ce42e9b443963e8c14511a358bb]: Textual amendment: Words in s. 7(3) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 25(2)(a)(i)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/25/2/a/i)
+[^c-5a661ce42e9b443963e8c14511a358bb]: Textual amendment: Words in s. 7(3) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 25(2)(a)(i)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/25/2/a/i)
 
-[^key-5eb99dfc2804a414eb23ebaddda1102d]: Textual amendment: S. 7(3)(aa) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 25(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/25/2/a/ii)
+[^c-5eb99dfc2804a414eb23ebaddda1102d]: Textual amendment: S. 7(3)(aa) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 25(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/25/2/a/ii)
 
-[^key-46354bb550984c3b048abbe48d7400cd]: Textual amendment: S. 7(4) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 25(2)(b)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/25/2/b)
+[^c-46354bb550984c3b048abbe48d7400cd]: Textual amendment: S. 7(4) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 25(2)(b)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/25/2/b)
 
-[^key-d67ff03eb47894d57cccfa438424ac4e]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/19/section/8) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-d67ff03eb47894d57cccfa438424ac4e]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/19/section/8) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-01a191931475e571b8d38db3e4c201da]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2007/19/section/9) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-01a191931475e571b8d38db3e4c201da]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2007/19/section/9) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-853f3c76d1c9eb23853d4f63bbc55aaa]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2007/19/section/10) in force at 15.2.2010 by [S.I. 2010/276](https://www.legislation.gov.uk/uksi/2010/276), [art. 2](https://www.legislation.gov.uk/uksi/2010/276/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/276/article/3))
+[^c-853f3c76d1c9eb23853d4f63bbc55aaa]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2007/19/section/10) in force at 15.2.2010 by [S.I. 2010/276](https://www.legislation.gov.uk/uksi/2010/276), [art. 2](https://www.legislation.gov.uk/uksi/2010/276/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/276/article/3))
 
-[^key-d48306f17899c1ec5239bcf9bada702c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2007/19/section/11) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-d48306f17899c1ec5239bcf9bada702c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2007/19/section/11) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-9c2b20e38344cedb88c72ec21aff4097]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2007/19/section/12) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-9c2b20e38344cedb88c72ec21aff4097]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2007/19/section/12) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-f8639a5586ec13540c8a08cc4411f319]: Commencement: S. 13 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-f8639a5586ec13540c8a08cc4411f319]: Commencement: S. 13 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-11f4c59929d95907ee5ba61f16e313b8]: Textual amendment: Word in s. 13(1)(a)(i) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 57(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/57/2/a)
+[^c-11f4c59929d95907ee5ba61f16e313b8]: Textual amendment: Word in s. 13(1)(a)(i) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 57(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/57/2/a)
 
-[^key-76182196e8157789fe7658c859f63895]: Textual amendment: S. 13(1)(a)(ii) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 57(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/57/2/b)
+[^c-76182196e8157789fe7658c859f63895]: Textual amendment: S. 13(1)(a)(ii) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 57(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/57/2/b)
 
-[^key-3aeeb84c1ed03c36934fe0d43882d135]: Textual amendment: S. 13(1)(aa) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 57(2)(c)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/57/2/c)
+[^c-3aeeb84c1ed03c36934fe0d43882d135]: Textual amendment: S. 13(1)(aa) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 57(2)(c)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/57/2/c)
 
-[^key-d65dc223580c2cf865245127d70d4cde]: Textual amendment: Words in s. 13(3)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 365](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/365); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-d65dc223580c2cf865245127d70d4cde]: Textual amendment: Words in s. 13(3)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 365](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/365); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-7fac608884fe470e736e3beaa63417f1]: Textual amendment: Word in s. 13(3)(d) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 57(2)(d)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/57/2/d)
+[^c-7fac608884fe470e736e3beaa63417f1]: Textual amendment: Word in s. 13(3)(d) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 57(2)(d)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/57/2/d)
 
-[^key-85848b7594a920bf0843243285e52f36]: Textual amendment: Words in [s. 13(3)(g)](https://www.legislation.gov.uk/ukpga/2007/19/section/13/3/g) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 174](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/174); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-85848b7594a920bf0843243285e52f36]: Textual amendment: Words in [s. 13(3)(g)](https://www.legislation.gov.uk/ukpga/2007/19/section/13/3/g) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 174](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/174); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-5125683c04f5cfcc1f333146d0f067cd]: Textual amendment: Words in s. 13(4) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 57(2)(e)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/57/2/e)
+[^c-5125683c04f5cfcc1f333146d0f067cd]: Textual amendment: Words in s. 13(4) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 57(2)(e)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/57/2/e)
 
-[^key-a30c056ca6bb7f7a5d732a3859467608]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2007/19/section/14) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-a30c056ca6bb7f7a5d732a3859467608]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2007/19/section/14) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-596c49381de2142be19c4e2f2e1d5bb7]: Commencement: S. 15 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-596c49381de2142be19c4e2f2e1d5bb7]: Commencement: S. 15 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-2395439cd8dac6f1e3937050a3ed53db]: Textual amendment: Words in [s. 15(2)](https://www.legislation.gov.uk/ukpga/2007/19/section/15/2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/2/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-2395439cd8dac6f1e3937050a3ed53db]: Textual amendment: Words in [s. 15(2)](https://www.legislation.gov.uk/ukpga/2007/19/section/15/2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/2/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-e9bf2d100bc3a7eaf1866b2a21910547]: Textual amendment: Words in [s. 15(3)](https://www.legislation.gov.uk/ukpga/2007/19/section/15/3) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 2(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/2/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-e9bf2d100bc3a7eaf1866b2a21910547]: Textual amendment: Words in [s. 15(3)](https://www.legislation.gov.uk/ukpga/2007/19/section/15/3) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 2(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/2/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-095560ee99a904137fa9315e498bc2ff]: Textual amendment: Words in [s. 15(4)](https://www.legislation.gov.uk/ukpga/2007/19/section/15/4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 2(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/2/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-095560ee99a904137fa9315e498bc2ff]: Textual amendment: Words in [s. 15(4)](https://www.legislation.gov.uk/ukpga/2007/19/section/15/4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 2(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/2/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-3c7ebedd139ec0aa95048089316bd4af]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2007/19/section/16) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-3c7ebedd139ec0aa95048089316bd4af]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2007/19/section/16) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-3c2574e725ae067c3eb00400b9e27f82]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2007/19/section/17) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-3c2574e725ae067c3eb00400b9e27f82]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2007/19/section/17) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-83d9f921b6d1ac41d0581fdc050503a6]: Commencement: S. 18 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-83d9f921b6d1ac41d0581fdc050503a6]: Commencement: S. 18 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-efa280a74fb5defb5c5511b2774a293c]: Textual amendment: [S. 18(1A)](https://www.legislation.gov.uk/ukpga/2007/19/section/18/1A) inserted (E.W.N.I) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-efa280a74fb5defb5c5511b2774a293c]: Textual amendment: [S. 18(1A)](https://www.legislation.gov.uk/ukpga/2007/19/section/18/1A) inserted (E.W.N.I) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-cea97fbb9e7ea5f34fddfc138ed02570]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2007/19/section/19) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-cea97fbb9e7ea5f34fddfc138ed02570]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2007/19/section/19) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-96ff1cfb674ac60b176bc0f7e55a76c0]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2007/19/section/20) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2) (with [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2008/401/article/2/3/a))
+[^c-96ff1cfb674ac60b176bc0f7e55a76c0]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2007/19/section/20) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2) (with [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2008/401/article/2/3/a))
 
-[^key-0534c98eadc003b8a4870b7e11890b7a]: Commencement: S. 21 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-0534c98eadc003b8a4870b7e11890b7a]: Commencement: S. 21 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-9961b1b4a33b0d9d05753c96d1cc914c]: Commencement: S. 22 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-9961b1b4a33b0d9d05753c96d1cc914c]: Commencement: S. 22 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-8272bf4579b70c56f49e9c323ae3866e]: Commencement: S. 23 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-8272bf4579b70c56f49e9c323ae3866e]: Commencement: S. 23 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-762dfb174108665980863a6788d45532]: Textual amendment: [S. 23A](https://www.legislation.gov.uk/ukpga/2007/19/section/23A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 3](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-762dfb174108665980863a6788d45532]: Textual amendment: [S. 23A](https://www.legislation.gov.uk/ukpga/2007/19/section/23A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 3](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-f77ebec428212723186bd43ffb513575]: Commencement: S. 24 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-f77ebec428212723186bd43ffb513575]: Commencement: S. 24 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-5655a5880ca07d2e69f5eb5def7f30d8]: Textual amendment: S. 24(5)-(10) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/4/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-5655a5880ca07d2e69f5eb5def7f30d8]: Textual amendment: S. 24(5)-(10) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/4/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-32db7ab1b26d19a6676ef99690b20f90]: Commencement: S. 25 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-32db7ab1b26d19a6676ef99690b20f90]: Commencement: S. 25 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-aeab65c90c98c3f1451ab097d1fa928d]: Textual amendment: Words in s. 25 inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 93](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/93); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-aeab65c90c98c3f1451ab097d1fa928d]: Textual amendment: Words in s. 25 inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 93](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/93); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-86b68cb1d44dc63f9db01ae34d51b283]: Commencement: S. 26 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-86b68cb1d44dc63f9db01ae34d51b283]: Commencement: S. 26 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-27ad7f5497b98e0624293206525d75c6]: Textual amendment: Words in s. 27(1) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/5/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-27ad7f5497b98e0624293206525d75c6]: Textual amendment: Words in s. 27(1) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/5/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-3f6ec0d1b69be6c8684cd75c7eafefc3]: Textual amendment: S. 27(1A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 5(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/5/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-3f6ec0d1b69be6c8684cd75c7eafefc3]: Textual amendment: S. 27(1A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 5(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/5/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-cae2f66a627aed75e3947bd64e3d28cf]: Textual amendment: Words in s. 27(2) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 5(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/5/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-cae2f66a627aed75e3947bd64e3d28cf]: Textual amendment: Words in s. 27(2) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), art. 1, [Sch. 9 para. 5(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/9/paragraph/5/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-032279cd1fc1c086b7dc7f662ffb8918]: Commencement: Sch. 1 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-032279cd1fc1c086b7dc7f662ffb8918]: Commencement: Sch. 1 in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-333ed3c8b0f9ab38ff7e3e3adb5d8500]: Textual amendment: Words in Sch. 1 repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 178](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/178), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-333ed3c8b0f9ab38ff7e3e3adb5d8500]: Textual amendment: Words in Sch. 1 repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 178](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/178), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-c98799f7626580a2d41b74545ffdc1dc]: Textual amendment: Sch. 1 entry omitted (13.11.2009) by virtue of [Secretary of State for Business, Innovation and Skills Order 2009 (S.I. 2009/2748)](https://www.legislation.gov.uk/uksi/2009/2748), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2748/article/1/2), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2009/2748/schedule/paragraph/8/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/2748/article/7))
+[^c-c98799f7626580a2d41b74545ffdc1dc]: Textual amendment: Sch. 1 entry omitted (13.11.2009) by virtue of [Secretary of State for Business, Innovation and Skills Order 2009 (S.I. 2009/2748)](https://www.legislation.gov.uk/uksi/2009/2748), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2748/article/1/2), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2009/2748/schedule/paragraph/8/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/2748/article/7))
 
-[^key-a6707480eec3f6176b39f1d45df055ae]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/1) omitted (3.5.2023) by virtue of [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 14(a)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/14/a) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-a6707480eec3f6176b39f1d45df055ae]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/1) omitted (3.5.2023) by virtue of [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 14(a)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/14/a) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-87c5f6ffb1301f0ce7ea51c1c1e8db52]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/1) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 14(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/14/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-87c5f6ffb1301f0ce7ea51c1c1e8db52]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/1) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 14(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/14/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-bbe8af56b664eb9aa5e6b7354f34bc9e]: Textual amendment: Words in Sch. 1 omitted (9.11.2016) by virtue of [The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016 (S.I. 2016/992)](https://www.legislation.gov.uk/uksi/2016/992), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2), [Sch. para. 12(b)](https://www.legislation.gov.uk/uksi/2016/992/schedule/paragraph/12/b) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/992/article/13))
+[^c-bbe8af56b664eb9aa5e6b7354f34bc9e]: Textual amendment: Words in Sch. 1 omitted (9.11.2016) by virtue of [The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016 (S.I. 2016/992)](https://www.legislation.gov.uk/uksi/2016/992), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2), [Sch. para. 12(b)](https://www.legislation.gov.uk/uksi/2016/992/schedule/paragraph/12/b) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/992/article/13))
 
-[^key-f4f70c4a950f0bb0ba2fbf8c1be0dfdd]: Textual amendment: Words in Sch. 1 omitted (18.8.2010) by virtue of [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/4/a)
+[^c-f4f70c4a950f0bb0ba2fbf8c1be0dfdd]: Textual amendment: Words in Sch. 1 omitted (18.8.2010) by virtue of [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/4/a)
 
-[^key-969d1745567b9331398a3e5e9ff7dc48]: Textual amendment: Words in Sch. 1 omitted (11.4.2018) by virtue of [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 13(a)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/13/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-969d1745567b9331398a3e5e9ff7dc48]: Textual amendment: Words in Sch. 1 omitted (11.4.2018) by virtue of [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 13(a)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/13/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-45e5102d18c480faf4c7a0adbb256922]: Textual amendment: Words in Sch. 1 omitted (6.4.2008) by virtue of [Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment of Schedule 1) Order 2008 (S.I. 2008/396)](https://www.legislation.gov.uk/uksi/2008/396), [arts. 1](https://www.legislation.gov.uk/uksi/2008/396/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/396/article/2/3)
+[^c-45e5102d18c480faf4c7a0adbb256922]: Textual amendment: Words in Sch. 1 omitted (6.4.2008) by virtue of [Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment of Schedule 1) Order 2008 (S.I. 2008/396)](https://www.legislation.gov.uk/uksi/2008/396), [arts. 1](https://www.legislation.gov.uk/uksi/2008/396/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/396/article/2/3)
 
-[^key-5730b1aed0aff30c259e67ac9aad2fb8]: Textual amendment: Words in Sch. 1 inserted (18.8.2010) by [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/4/b)
+[^c-5730b1aed0aff30c259e67ac9aad2fb8]: Textual amendment: Words in Sch. 1 inserted (18.8.2010) by [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/4/b)
 
-[^key-7b31b7580b935bc5fd09e8f6c8931923]: Textual amendment: Sch. 1 entry omitted (13.11.2009) by virtue of [Secretary of State for Business, Innovation and Skills Order 2009 (S.I. 2009/2748)](https://www.legislation.gov.uk/uksi/2009/2748), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2748/article/1/2), [Sch. para. 8(c)](https://www.legislation.gov.uk/uksi/2009/2748/schedule/paragraph/8/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/2748/article/7))
+[^c-7b31b7580b935bc5fd09e8f6c8931923]: Textual amendment: Sch. 1 entry omitted (13.11.2009) by virtue of [Secretary of State for Business, Innovation and Skills Order 2009 (S.I. 2009/2748)](https://www.legislation.gov.uk/uksi/2009/2748), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2748/article/1/2), [Sch. para. 8(c)](https://www.legislation.gov.uk/uksi/2009/2748/schedule/paragraph/8/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/2748/article/7))
 
-[^key-6a9ea969546b8ac05156449db4e307fd]: Textual amendment: Words in Sch. 1 omitted (30.9.2020) by virtue of [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/6/a)
+[^c-6a9ea969546b8ac05156449db4e307fd]: Textual amendment: Words in Sch. 1 omitted (30.9.2020) by virtue of [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/6/a)
 
-[^key-22e0434c298d874690e53954fa9d9514]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/1) omitted (30.10.2024) by virtue of [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/10/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-22e0434c298d874690e53954fa9d9514]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/1) omitted (30.10.2024) by virtue of [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/10/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
-[^key-eb5587767844c6f3d63d4683ffe2b0a0]: Textual amendment: Words in Sch. 1 inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/13/b) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-eb5587767844c6f3d63d4683ffe2b0a0]: Textual amendment: Words in Sch. 1 inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/13/b) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-0b46c4db77a8d6d89f9b0ed1172a2bd0]: Textual amendment: Words in Sch. 1 substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/6/b)
+[^c-0b46c4db77a8d6d89f9b0ed1172a2bd0]: Textual amendment: Words in Sch. 1 substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/6/b)
 
-[^key-b1bd18d9be72bbf5f54651dc67ae24cb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/1) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 18(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/18/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-b1bd18d9be72bbf5f54651dc67ae24cb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/1) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 18(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/18/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-5317f645688a68cefa39c053fbf87731]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/1) inserted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/10/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-5317f645688a68cefa39c053fbf87731]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/1) inserted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/10/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
-[^key-468eed82ae91896655e585a32d18cbe6]: Textual amendment: Words in Sch. 1 inserted (6.4.2008) by [Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment of Schedule 1) Order 2008 (S.I. 2008/396)](https://www.legislation.gov.uk/uksi/2008/396), [arts. 1](https://www.legislation.gov.uk/uksi/2008/396/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/396/article/2/2)
+[^c-468eed82ae91896655e585a32d18cbe6]: Textual amendment: Words in Sch. 1 inserted (6.4.2008) by [Corporate Manslaughter and Corporate Homicide Act 2007 (Amendment of Schedule 1) Order 2008 (S.I. 2008/396)](https://www.legislation.gov.uk/uksi/2008/396), [arts. 1](https://www.legislation.gov.uk/uksi/2008/396/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/396/article/2/2)
 
-[^key-b6372afacf66ebe6e9003c6941198f0c]: Textual amendment: Words in Sch. 1 inserted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 175](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/175); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-b6372afacf66ebe6e9003c6941198f0c]: Textual amendment: Words in Sch. 1 inserted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 175](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/175); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-90ec380bfce1f0637bc30aa36f41c5e6]: Textual amendment: Words in Sch. 1 omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/32) (with [para. 32(2)](https://www.legislation.gov.uk/ukpga/2011/4/paragraph/32/2), [Sch.](https://www.legislation.gov.uk/ukpga/2011/4/schedule)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-90ec380bfce1f0637bc30aa36f41c5e6]: Textual amendment: Words in Sch. 1 omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/32) (with [para. 32(2)](https://www.legislation.gov.uk/ukpga/2011/4/paragraph/32/2), [Sch.](https://www.legislation.gov.uk/ukpga/2011/4/schedule)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-5a11c30bce5a9cb88379c1d83b039c07]: Textual amendment: Words in Sch. 1 omitted (12.4.2010) by virtue of [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/11) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+[^c-5a11c30bce5a9cb88379c1d83b039c07]: Textual amendment: Words in Sch. 1 omitted (12.4.2010) by virtue of [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/11) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
-[^key-d9d63a33028f409ea7b6e82a77a8e7ac]: Textual amendment: Words in Sch. 1 omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/44)
+[^c-d9d63a33028f409ea7b6e82a77a8e7ac]: Textual amendment: Words in Sch. 1 omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/44)
 
-[^key-6c72f35fcc72153f06f69dc6671a9ed1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/2/paragraph/1) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-6c72f35fcc72153f06f69dc6671a9ed1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2007/19/schedule/2/paragraph/1) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-8b5f447430b161c0890c126e428604c9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/19/schedule/2/paragraph/2) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-8b5f447430b161c0890c126e428604c9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/19/schedule/2/paragraph/2) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-d11294080f7b454c5e24abeb1bf6fea7]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2007/19/schedule/2/paragraph/3) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-d11294080f7b454c5e24abeb1bf6fea7]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2007/19/schedule/2/paragraph/3) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-6664657757880dac24098849166e08ad]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/19/schedule/2/paragraph/4) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
+[^c-6664657757880dac24098849166e08ad]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/19/schedule/2/paragraph/4) in force at 6.4.2008 by [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)

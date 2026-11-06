@@ -60,7 +60,7 @@ In accordance with section 176(1) of the 1992 Act, in so far as these Regulation
 
 (5) Regulation 7 comes into force on 27th January 2021.
 
-## 2. Managed migration pilot: limit on number of cases migrated[^key-77f913056d65d18a1fb3c0c012b2a845]
+## 2. Managed migration pilot: limit on number of cases migrated[^c-77f913056d65d18a1fb3c0c012b2a845]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -566,7 +566,7 @@ In accordance with section 176(1) of the 1992 Act, in so far as these Regulation
 
 ## 5. Two week run-on of income-based jobseeker's allowance and income-related employment and support allowance: day appointed for abolition
 
-(1) Subject to paragraph (2) where, in relation to any relevant claim for universal credit, an article (“the specified article”) of any Order made under the powers in section 150(3) of the Welfare Reform Act 2012 provides for the coming into force of the amending provisions, the provision in that article for the day appointed is to be read as though the day appointed was the last day of the period of two weeks beginning with the day after the day[^key-3c579f27dc6678a354abfeac90116832] mentioned in that provision.
+(1) Subject to paragraph (2) where, in relation to any relevant claim for universal credit, an article (“the specified article”) of any Order made under the powers in section 150(3) of the Welfare Reform Act 2012 provides for the coming into force of the amending provisions, the provision in that article for the day appointed is to be read as though the day appointed was the last day of the period of two weeks beginning with the day after the day[^c-3c579f27dc6678a354abfeac90116832] mentioned in that provision.
 
 (2) For the purposes of paragraphs (6) and (7) of article 4 of the No. 9 Order (conversion to employment and support allowance of awards of incapacity benefit and severe disablement allowance), including as they apply for the purposes of any other Order made under section 150(3) of the Welfare Reform Act 2012, the day appointed by the specified article for the coming into force of the amending provisions shall be treated as though it was the day that applies apart from this regulation.
 
@@ -660,7 +660,7 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^c23811591]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-77f913056d65d18a1fb3c0c012b2a845]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2022/752/regulation/10)
+[^c-77f913056d65d18a1fb3c0c012b2a845]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2022/752/regulation/10)
 
 [^c23811611]: Marginal citation: [Regulation 4A](https://www.legislation.gov.uk/uksi/2019/1152/regulation/4A) was inserted by [S.I. 2019/10](https://www.legislation.gov.uk/uksi/2019/10).
 
@@ -724,7 +724,7 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^c23811911]: Marginal citation: Paragraph (2A) was inserted by [S.I. 2018/65](https://www.legislation.gov.uk/uksi/2018/65).
 
-[^key-3c579f27dc6678a354abfeac90116832]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/1) inserted (4.8.2020) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) (Amendment) Regulations 2020 (S.I. 2020/826)](https://www.legislation.gov.uk/uksi/2020/826), [regs. 1](https://www.legislation.gov.uk/uksi/2020/826/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/826/regulation/2/2)
+[^c-3c579f27dc6678a354abfeac90116832]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/1) inserted (4.8.2020) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) (Amendment) Regulations 2020 (S.I. 2020/826)](https://www.legislation.gov.uk/uksi/2020/826), [regs. 1](https://www.legislation.gov.uk/uksi/2020/826/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/826/regulation/2/2)
 
 [^c23811921]: Marginal citation: [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983).
 

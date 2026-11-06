@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Exercise of scheme functions on behalf of the Secretary of State or a public body[^key-9c50d44c189fc7c5b70539b0f5e66364]
+## 32. Exercise of scheme functions on behalf of the Secretary of State or a public body[^c-9c50d44c189fc7c5b70539b0f5e66364]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c50d44c189fc7c5b70539b0f5e66364]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2011/16/section/32) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(viii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/viii)
+[^c-9c50d44c189fc7c5b70539b0f5e66364]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2011/16/section/32) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(viii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/viii)

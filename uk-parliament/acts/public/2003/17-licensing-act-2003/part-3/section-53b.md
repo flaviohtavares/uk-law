@@ -40,7 +40,7 @@ summary: ''
   - (i) the holder of the premises licence; and
   - (ii) the chief officer of police for the police area in which the premises are situated (or for each police area in which they are partly situated).
 
-(6) Subject to subsection (9A),[^key-aeba226c42c5ae23a7631628c2dd534d] If the holder of the premises licence makes, and does not withdraw, representations against any interim steps taken by the relevant licensing authority, the authority must, within 48 hours of the time of its receipt of the representations, hold a hearing to consider those representations.
+(6) Subject to subsection (9A),[^c-aeba226c42c5ae23a7631628c2dd534d] If the holder of the premises licence makes, and does not withdraw, representations against any interim steps taken by the relevant licensing authority, the authority must, within 48 hours of the time of its receipt of the representations, hold a hearing to consider those representations.
 
 (7) The relevant licensing authority must give advance notice of the hearing to—
 
@@ -49,7 +49,7 @@ summary: ''
 
 (8) At the hearing, the relevant licensing authority must—
 
-- (a) consider whether the interim steps are appropriate[^key-8a349744378eba6e6e6d18913c1f8c81] for the promotion of the licensing objectives; and
+- (a) consider whether the interim steps are appropriate[^c-8a349744378eba6e6e6d18913c1f8c81] for the promotion of the licensing objectives; and
 - (b) determine whether to withdraw or modify the steps taken.
 
 (9) In considering those matters the relevant licensing authority must have regard to—
@@ -58,7 +58,7 @@ summary: ''
 - (b) any representations made by the chief officer of police for the police area in which the premises are situated (or for each police area in which they are partly situated); and
 - (c) any representations made by the holder of the premises licence.
 
-(9A)[^key-a9e8d822c048bf92d19c4f22f9f4a2c0] Where the relevant licensing authority has determined under subsection (8) whether to withdraw or modify the interim steps taken, the holder of the premises licence may only make further representations under subsection (6) if there has been a material change in circumstances since the authority made its determination.
+(9A)[^c-a9e8d822c048bf92d19c4f22f9f4a2c0] Where the relevant licensing authority has determined under subsection (8) whether to withdraw or modify the interim steps taken, the holder of the premises licence may only make further representations under subsection (6) if there has been a material change in circumstances since the authority made its determination.
 
 (10) In computing the period of 48 hours mentioned in subsection (6) time that is not on a working day is to be disregarded.
 
@@ -66,8 +66,8 @@ summary: ''
 
 [^c21002131]: Textual amendment: Ss. 53A-53C and cross-heading inserted (1.10.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 21](https://www.legislation.gov.uk/ukpga/2006/38/section/21), [66(2)(3)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2/3); [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/a)
 
-[^key-aeba226c42c5ae23a7631628c2dd534d]: Textual amendment: Words in s. 53B(6) inserted (31.1.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 136(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/136/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/b)
+[^c-aeba226c42c5ae23a7631628c2dd534d]: Textual amendment: Words in s. 53B(6) inserted (31.1.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 136(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/136/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/b)
 
-[^key-8a349744378eba6e6e6d18913c1f8c81]: Textual amendment: Word in s. 53B(8)(a) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 109(12)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/12), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 109(15)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/15)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-8a349744378eba6e6e6d18913c1f8c81]: Textual amendment: Word in s. 53B(8)(a) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 109(12)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/12), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 109(15)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/15)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-a9e8d822c048bf92d19c4f22f9f4a2c0]: Textual amendment: S. 53B(9A) inserted (31.1.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 136(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/136/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/b)
+[^c-a9e8d822c048bf92d19c4f22f9f4a2c0]: Textual amendment: S. 53B(9A) inserted (31.1.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 136(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/136/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/b)

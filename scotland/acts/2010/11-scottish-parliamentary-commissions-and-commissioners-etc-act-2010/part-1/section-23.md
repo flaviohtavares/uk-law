@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: S*
 
-The Commissioner[^key-ad40c00e43f22dcc8aa722c652c01cda] must comply with any direction given by the Parliamentary corporation as to the location of the Commissioner’s[^key-01ac2492b2fff8916cb3dc5e09ae9689] office.
+The Commissioner[^c-ad40c00e43f22dcc8aa722c652c01cda] must comply with any direction given by the Parliamentary corporation as to the location of the Commissioner’s[^c-01ac2492b2fff8916cb3dc5e09ae9689] office.
 
 ## Annotations
 
-[^key-ad40c00e43f22dcc8aa722c652c01cda]: Textual amendment: Word in s. 23 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 25(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/25/a)
+[^c-ad40c00e43f22dcc8aa722c652c01cda]: Textual amendment: Word in s. 23 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 25(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/25/a)
 
-[^key-01ac2492b2fff8916cb3dc5e09ae9689]: Textual amendment: Word in s. 23 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/25/b)
+[^c-01ac2492b2fff8916cb3dc5e09ae9689]: Textual amendment: Word in s. 23 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/25/b)

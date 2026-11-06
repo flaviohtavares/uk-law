@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Formal defects[^key-d47cf4f6b8d6acb3b6a5f343f308f7eb]
+## 84. Formal defects[^c-d47cf4f6b8d6acb3b6a5f343f308f7eb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The acts of the creditors’ committee established for a special administration 
 
 ## Annotations
 
-[^key-d47cf4f6b8d6acb3b6a5f343f308f7eb]: Commencement: Rule 84 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d47cf4f6b8d6acb3b6a5f343f308f7eb]: Commencement: Rule 84 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

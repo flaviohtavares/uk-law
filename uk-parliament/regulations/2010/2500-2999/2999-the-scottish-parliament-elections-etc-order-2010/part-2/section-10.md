@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Proxies at Scottish parliamentary elections[^key-0084c8d9baaefb69756fbae2526f4a90]
+## 10. Proxies at Scottish parliamentary elections[^c-0084c8d9baaefb69756fbae2526f4a90]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ and that the proxy is capable of being, and willing to be, appointed.
 
 ## Annotations
 
-[^key-0084c8d9baaefb69756fbae2526f4a90]: Commencement: Art. 10 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-0084c8d9baaefb69756fbae2526f4a90]: Commencement: Art. 10 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

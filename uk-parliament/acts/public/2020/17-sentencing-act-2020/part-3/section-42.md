@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Court's duty to order payment of surcharge[^key-eb7bcadf08c1a7a203203bb5343468c7]
+## 42. Court's duty to order payment of surcharge[^c-eb7bcadf08c1a7a203203bb5343468c7]
 
 *Extent: E+W*
 
-(1)[^key-5df19b0b95fcd70b6245a72504f9d41f] A court when dealing with an offender for one or more offences committed on or after 1 April 2007 must also order the offender to pay a surcharge.
+(1)[^c-5df19b0b95fcd70b6245a72504f9d41f] A court when dealing with an offender for one or more offences committed on or after 1 April 2007 must also order the offender to pay a surcharge.
 
 This is subject to subsections (2) to (4).
 
 (2) Subsection (1)—
 
 - (a) does not apply in such cases as may be prescribed by regulations made by the Secretary of State, and
-- (b) is subject to section 15A of the Proceeds of Crime Act 2002 (effect on duty in subsection (1) where court sentences before confiscation proceedings)[^key-216ffeb238263edd7edca5fb42095598].
+- (b) is subject to section 15A of the Proceeds of Crime Act 2002 (effect on duty in subsection (1) where court sentences before confiscation proceedings)[^c-216ffeb238263edd7edca5fb42095598].
 
 (3) Where a court dealing with an offender considers—
 
@@ -60,8 +60,8 @@ But see section 13(4) of the Proceeds of Crime Act 2002 (court not to take confi
 
 ## Annotations
 
-[^key-eb7bcadf08c1a7a203203bb5343468c7]: Commencement: S. 42 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-eb7bcadf08c1a7a203203bb5343468c7]: Commencement: S. 42 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-5df19b0b95fcd70b6245a72504f9d41f]: Modification: S. 42(1) excluded by S.I. 2012/1696, art. 2 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 405](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/405) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-5df19b0b95fcd70b6245a72504f9d41f]: Modification: S. 42(1) excluded by S.I. 2012/1696, art. 2 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 405](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/405) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-216ffeb238263edd7edca5fb42095598]: Textual amendment: Words in s. 42(2)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 47](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/47); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-216ffeb238263edd7edca5fb42095598]: Textual amendment: Words in s. 42(2)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 47](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/47); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

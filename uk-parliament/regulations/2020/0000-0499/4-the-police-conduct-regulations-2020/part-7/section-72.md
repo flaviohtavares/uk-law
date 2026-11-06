@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Amendment of the Special Constables Regulations 1965[^key-6a44122474f3bafe470be0c886fae52e]
+## 72. Amendment of the Special Constables Regulations 1965[^c-6a44122474f3bafe470be0c886fae52e]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a44122474f3bafe470be0c886fae52e]: Commencement: Reg. 72 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-6a44122474f3bafe470be0c886fae52e]: Commencement: Reg. 72 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
 [^c23960891]: Marginal citation: [S.I. 1965/536](https://www.legislation.gov.uk/uksi/1965/536) to which there are amendments not relevant to these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Establishment of deferred member’s account[^key-399cd511fef52b9393d684abe72bcfda]
+## 60. Establishment of deferred member’s account[^c-399cd511fef52b9393d684abe72bcfda]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ When an active member leaves all pensionable service and becomes a deferred memb
 
 ## Annotations
 
-[^key-399cd511fef52b9393d684abe72bcfda]: Commencement: [Reg. 60](https://www.legislation.gov.uk/ssi/2014/292/regulation/60) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-399cd511fef52b9393d684abe72bcfda]: Commencement: [Reg. 60](https://www.legislation.gov.uk/ssi/2014/292/regulation/60) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

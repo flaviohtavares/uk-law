@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Interpretation: technical schedule[^key-106f6adf05e409ca4784fb76ad42252b]
+## 6. Interpretation: technical schedule[^c-106f6adf05e409ca4784fb76ad42252b]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-106f6adf05e409ca4784fb76ad42252b]: Textual amendment: Reg. 6 substituted (1.6.2025 for specified purposes, 1.11.2025 in so far as not already in force) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)[(4)(d)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/i), [9(1)](https://www.legislation.gov.uk/ssi/2025/165/regulation/9/1) (with [reg. 1(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/5), [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-106f6adf05e409ca4784fb76ad42252b]: Textual amendment: Reg. 6 substituted (1.6.2025 for specified purposes, 1.11.2025 in so far as not already in force) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)[(4)(d)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/i), [9(1)](https://www.legislation.gov.uk/ssi/2025/165/regulation/9/1) (with [reg. 1(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/5), [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

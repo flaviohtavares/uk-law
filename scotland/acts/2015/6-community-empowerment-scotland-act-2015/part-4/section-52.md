@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Ballot not conducted as prescribed[^key-93849c4bae1928b627f9abd6b5b97db0][^key-bfb6d78e1af8c68e2bb379b080471688]
+## 52. Ballot not conducted as prescribed[^c-93849c4bae1928b627f9abd6b5b97db0][^c-bfb6d78e1af8c68e2bb379b080471688]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ In section 52 of the 2003 Act (ballot procedure), after subsection (6) (inserted
 
 ## Annotations
 
-[^key-93849c4bae1928b627f9abd6b5b97db0]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2015/6/section/52) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-93849c4bae1928b627f9abd6b5b97db0]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2015/6/section/52) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
 
-[^key-bfb6d78e1af8c68e2bb379b080471688]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2015/6/section/52) in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-bfb6d78e1af8c68e2bb379b080471688]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2015/6/section/52) in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

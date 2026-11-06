@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82.[^key-8b019248a1469404607cd859af23e88b]
+## 82.[^c-8b019248a1469404607cd859af23e88b]
 
 *Extent: E+W+S+N.I.*
 
 At the end of Article 3 insert—
 
 > - (i) “**Authority**” means—
->   - (i) as regards England and Wales[^key-8145012f27bed8deb500c9f392ecfd01], the Food Standards Agency;
+>   - (i) as regards England and Wales[^c-8145012f27bed8deb500c9f392ecfd01], the Food Standards Agency;
 >   - (ii) as regards Scotland, Food Standards Scotland;
 
 .
 
 ## Annotations
 
-[^key-8b019248a1469404607cd859af23e88b]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8b019248a1469404607cd859af23e88b]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8145012f27bed8deb500c9f392ecfd01]: Textual amendment: Words in reg. 82 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/14)
+[^c-8145012f27bed8deb500c9f392ecfd01]: Textual amendment: Words in reg. 82 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/14)

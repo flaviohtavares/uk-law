@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Animal Gatherings (England) Order 2003 (revoked)[^key-11525c99b776e12a49f42e4552aa1162]
+The Animal Gatherings (England) Order 2003 (revoked)[^c-11525c99b776e12a49f42e4552aa1162]
 
 Made
 
@@ -43,82 +43,82 @@ Coming into force
 
 1st August 2003
 
-[^key-11525c99b776e12a49f42e4552aa1162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11525c99b776e12a49f42e4552aa1162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-11525c99b776e12a49f42e4552aa1162]
+## 1. Title, application and commencement[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-11525c99b776e12a49f42e4552aa1162]
+## 2. Interpretation[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exceptions[^key-11525c99b776e12a49f42e4552aa1162]
+## 3. Exceptions[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The use of premises for animal gatherings[^key-11525c99b776e12a49f42e4552aa1162]
+## 4. The use of premises for animal gatherings[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. 27 day restriction on when an animal gathering can take place[^key-11525c99b776e12a49f42e4552aa1162]
+## 5. 27 day restriction on when an animal gathering can take place[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemption from the 27 day restricted period for premises with a paved animal area[^key-11525c99b776e12a49f42e4552aa1162]
+## 6. Exemption from the 27 day restricted period for premises with a paved animal area[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Maximum time limits[^key-11525c99b776e12a49f42e4552aa1162]
+## 7. Maximum time limits[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Duties on persons at an animal gathering[^key-11525c99b776e12a49f42e4552aa1162]
+## 8. Duties on persons at an animal gathering[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Restrictions following an animal gathering[^key-11525c99b776e12a49f42e4552aa1162]
+## 9. Restrictions following an animal gathering[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Enforcement[^key-11525c99b776e12a49f42e4552aa1162]
+## 10. Enforcement[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocations[^key-11525c99b776e12a49f42e4552aa1162]
+## 11. Revocations[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11525c99b776e12a49f42e4552aa1162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11525c99b776e12a49f42e4552aa1162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REQUIREMENTS AT AN ANIMAL GATHERING[^key-11525c99b776e12a49f42e4552aa1162]
+## SCHEDULE — REQUIREMENTS AT AN ANIMAL GATHERING[^c-11525c99b776e12a49f42e4552aa1162]
 
 Article 8
 
-### 1. Duties on a licensee[^key-11525c99b776e12a49f42e4552aa1162]
+### 1. Duties on a licensee[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Duties on persons attending the animal gathering[^key-11525c99b776e12a49f42e4552aa1162]
+### 2. Duties on persons attending the animal gathering[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Footwear in the animal area[^key-11525c99b776e12a49f42e4552aa1162]
+### 3. Footwear in the animal area[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Vehicles[^key-11525c99b776e12a49f42e4552aa1162]
+### 4. Vehicles[^c-11525c99b776e12a49f42e4552aa1162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-11525c99b776e12a49f42e4552aa1162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11525c99b776e12a49f42e4552aa1162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-11525c99b776e12a49f42e4552aa1162]: Textual amendment: Order revoked (1.6.2004) by [The Animal Gatherings (England) Order 2004 (S.I. 2004/1202)](https://www.legislation.gov.uk/uksi/2004/1202), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1202/article/1), [14](https://www.legislation.gov.uk/uksi/2004/1202/article/14)
+[^c-11525c99b776e12a49f42e4552aa1162]: Textual amendment: Order revoked (1.6.2004) by [The Animal Gatherings (England) Order 2004 (S.I. 2004/1202)](https://www.legislation.gov.uk/uksi/2004/1202), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1202/article/1), [14](https://www.legislation.gov.uk/uksi/2004/1202/article/14)

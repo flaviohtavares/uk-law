@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Challenge to appointment[^key-b6767761e25b9a19eb7224b5266609cb][^key-886223b83099e2bc2c0a9f91a2f98e17]
+## 55. Challenge to appointment[^c-b6767761e25b9a19eb7224b5266609cb][^c-886223b83099e2bc2c0a9f91a2f98e17]
 
 *Extent: S*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b6767761e25b9a19eb7224b5266609cb]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2010/16/section/55) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-b6767761e25b9a19eb7224b5266609cb]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2010/16/section/55) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-886223b83099e2bc2c0a9f91a2f98e17]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2010/16/section/55) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-886223b83099e2bc2c0a9f91a2f98e17]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2010/16/section/55) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

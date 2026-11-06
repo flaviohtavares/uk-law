@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Application where agreement does not cover pay, hours and holidays[^key-18a4c18459ba8b8a13b61db854335e7a]
+## 11. Application where agreement does not cover pay, hours and holidays[^c-18a4c18459ba8b8a13b61db854335e7a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In each of paragraphs 35(2)(b) and 44(2)(b) of Schedule A1 to the 1992 Act (appl
 
 ## Annotations
 
-[^key-18a4c18459ba8b8a13b61db854335e7a]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/24/section/11) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2005/872/article/8))
+[^c-18a4c18459ba8b8a13b61db854335e7a]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/24/section/11) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2005/872/article/8))

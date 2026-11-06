@@ -28,12 +28,12 @@ summary: ''
 
 (4)[^c3164831][^c3164841] Nothing in subsection (1) above shall be construed as requiring or authorising an authority to apply or dispose of the surplus revenue arising from any undertaking carried on by it otherwise than in accordance with any enactment or instrument applicable to the undertaking.
 
-(5)[^key-64543c73bd1e63a1d928b9c540a37990] Any reference in this section to a new authority includes a reference to—
+(5)[^c-64543c73bd1e63a1d928b9c540a37990] Any reference in this section to a new authority includes a reference to—
 
-- (a) the London Fire Commissioner;[^key-89d1b187bad4bacc247e7dbcdad3d7d0]
+- (a) the London Fire Commissioner;[^c-89d1b187bad4bacc247e7dbcdad3d7d0]
 - (b) a sub-national transport body established under section 102E of the Local Transport Act 2008;
 - (c) a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009.
-- (d)[^key-ead656aab8c00dd256537dd1005dac94] a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023.
+- (d)[^c-ead656aab8c00dd256537dd1005dac94] a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023.
 
 ## Annotations
 
@@ -43,8 +43,8 @@ summary: ''
 
 [^c3164871]: Textual amendment: S. 72(3) repealed (11.9.1988) by [1998 c.18](https://www.legislation.gov.uk/ukpga/1998/18), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/1998/18/section/54/3), [55(2)](https://www.legislation.gov.uk/ukpga/1998/18/section/55/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1998/18/schedule/5)
 
-[^key-64543c73bd1e63a1d928b9c540a37990]: Textual amendment: S. 72(5) substituted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2016/1/schedule/5/paragraph/7)
+[^c-64543c73bd1e63a1d928b9c540a37990]: Textual amendment: S. 72(5) substituted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2016/1/schedule/5/paragraph/7)
 
-[^key-89d1b187bad4bacc247e7dbcdad3d7d0]: Textual amendment: S. 72(5)(a) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 71](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/71); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-89d1b187bad4bacc247e7dbcdad3d7d0]: Textual amendment: S. 72(5)(a) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 71](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/71); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-ead656aab8c00dd256537dd1005dac94]: Textual amendment: [S. 72(5)(d)](https://www.legislation.gov.uk/ukpga/1985/51/section/72/5/d) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 76](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/76) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-ead656aab8c00dd256537dd1005dac94]: Textual amendment: [S. 72(5)(d)](https://www.legislation.gov.uk/ukpga/1985/51/section/72/5/d) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 76](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/76) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

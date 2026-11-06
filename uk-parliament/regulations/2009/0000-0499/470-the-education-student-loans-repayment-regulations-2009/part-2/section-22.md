@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Information requests[^key-d86371c350d3ac5d6b3aa8832ad313b3]
+## 22. Information requests[^c-d86371c350d3ac5d6b3aa8832ad313b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ the borrower must inform, and provide particulars of the change to, the Authorit
 
 ## Annotations
 
-[^key-d86371c350d3ac5d6b3aa8832ad313b3]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/470/regulation/22) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-d86371c350d3ac5d6b3aa8832ad313b3]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/470/regulation/22) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

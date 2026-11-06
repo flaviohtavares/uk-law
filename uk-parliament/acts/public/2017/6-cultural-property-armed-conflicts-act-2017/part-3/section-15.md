@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. “Appropriate national authority”[^key-3d778d3a09e6cce69091a69d48ff7dfa]
+## 15. “Appropriate national authority”[^c-3d778d3a09e6cce69091a69d48ff7dfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ For the purposes of this Part—
 
 ## Annotations
 
-[^key-3d778d3a09e6cce69091a69d48ff7dfa]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/6/section/15) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-3d778d3a09e6cce69091a69d48ff7dfa]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/6/section/15) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

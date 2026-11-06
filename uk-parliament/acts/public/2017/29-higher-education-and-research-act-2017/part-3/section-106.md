@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Studies for improving economy, efficiency and effectiveness[^key-61f3baa7c5406d3ff7206da1fec9da6c]
+## 106. Studies for improving economy, efficiency and effectiveness[^c-61f3baa7c5406d3ff7206da1fec9da6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61f3baa7c5406d3ff7206da1fec9da6c]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2017/29/section/106) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-61f3baa7c5406d3ff7206da1fec9da6c]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2017/29/section/106) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

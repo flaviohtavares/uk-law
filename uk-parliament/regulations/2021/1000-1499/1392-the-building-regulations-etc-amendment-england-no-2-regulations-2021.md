@@ -46,7 +46,7 @@ The Secretary of State has consulted the Building Regulations Advisory Committee
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 1, 1A, 3, 34 and 47(1) of, and paragraphs 7, 8 and 10 of Schedule 1 to, the Building Act 1984.
 
-## 1. Citation, commencement, extent and application[^key-c5b42e9e8ed04d25b3c533c5194b844c]
+## 1. Citation, commencement, extent and application[^c-c5b42e9e8ed04d25b3c533c5194b844c]
 
 (1) These Regulations may be cited as the Building Regulations etc. (Amendment) (England) (No. 2) Regulations 2021.
 
@@ -56,9 +56,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) These Regulations apply in relation to buildings[^f00003] and building work in England.
 
-(5)[^key-d1cc5a54294e5179c109657efaefcf4b] In this regulation and regulation 4, “building” and “building work” have the meanings given in regulation 2(1) of the Building Regulations 2010.
+(5)[^c-d1cc5a54294e5179c109657efaefcf4b] In this regulation and regulation 4, “building” and “building work” have the meanings given in regulation 2(1) of the Building Regulations 2010.
 
-## 2. Amendment of the Building Regulations 2010[^key-45a2d39e22f6b9f11872b85a137c762a]
+## 2. Amendment of the Building Regulations 2010[^c-45a2d39e22f6b9f11872b85a137c762a]
 
 (1) The Building Regulations 2010[^f00004] are amended as follows.
 
@@ -306,11 +306,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-## 3. Amendment of the Building (Approved Inspectors etc.) Regulations 2010[^key-9353494d0385ba6dc0c3072f45529f1d]
+## 3. Amendment of the Building (Approved Inspectors etc.) Regulations 2010[^c-9353494d0385ba6dc0c3072f45529f1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision[^key-9ad049ef74eb9154214943df2602cc3c]
+## 4. Transitional provision[^c-9ad049ef74eb9154214943df2602cc3c]
 
 (1) The amendments made by regulations 2 and 3 do not apply in relation to building work where a building notice or an initial notice has been given to, or full plans have been deposited with, a local authority before 15th June 2022, provided that the building work is started before 15th June 2023.
 
@@ -348,15 +348,15 @@ An impact assessment is available with the explanatory memorandum for these Regu
 
 [^f00001]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Section 1 was amended by section 1(1) to (3) of the Sustainable and Secure Buildings Act [2004 (c. 22)](https://www.legislation.gov.uk/ukpga/2004/22). Section 1A was inserted by section 2 of the Sustainable and Secure Buildings Act 2004. Section 14(3) was amended by [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019). Section 47(1) was amended by [S.I. 1996/1905](https://www.legislation.gov.uk/uksi/1996/1905) and section 8(2) of the Sustainable and Secure Buildings Act 2004. Paragraph 7 of Schedule 1 was amended by section 3(1) to (5) of the Sustainable and Secure Buildings Act 2004, and by section 11 of the Climate Change and Sustainable Energy Act [2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19). Paragraph 8 of Schedule 1 was amended by section 3(1), (6) and (7) of the Sustainable and Secure Buildings Act 2004 and by section 40(1) and (2) of the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29). There are other amendments, but none is relevant to this instrument. See section 126 for the definition of “prescribed”.
 
-[^key-c5b42e9e8ed04d25b3c533c5194b844c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1) in force at 15.6.2022 (coming into force in accordance with reg. 1(2)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2)
+[^c-c5b42e9e8ed04d25b3c533c5194b844c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1) in force at 15.6.2022 (coming into force in accordance with reg. 1(2)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2021/1391](https://www.legislation.gov.uk/uksi/2021/1391).
 
 [^f00003]: Footnote: “Building” is defined in regulation 2(1) of [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214).
 
-[^key-d1cc5a54294e5179c109657efaefcf4b]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/5) inserted (1.12.2022) by [The Building etc. (Amendment) (England) Regulations 2022 (S.I. 2022/603)](https://www.legislation.gov.uk/uksi/2022/603), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4), [3(2)](https://www.legislation.gov.uk/uksi/2022/603/regulation/3/2)
+[^c-d1cc5a54294e5179c109657efaefcf4b]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/5) inserted (1.12.2022) by [The Building etc. (Amendment) (England) Regulations 2022 (S.I. 2022/603)](https://www.legislation.gov.uk/uksi/2022/603), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4), [3(2)](https://www.legislation.gov.uk/uksi/2022/603/regulation/3/2)
 
-[^key-45a2d39e22f6b9f11872b85a137c762a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1392/regulation/2) in force at 15.6.2022 (coming into force in accordance with reg. 1(2)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2)
+[^c-45a2d39e22f6b9f11872b85a137c762a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1392/regulation/2) in force at 15.6.2022 (coming into force in accordance with reg. 1(2)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), relevant amending instruments are [S.I. 2011/1515](https://www.legislation.gov.uk/uksi/2011/1515), [2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2015/767](https://www.legislation.gov.uk/uksi/2015/767), [2016/361](https://www.legislation.gov.uk/uksi/2016/361) and [490](https://www.legislation.gov.uk/uksi/2016/490), [2018/552](https://www.legislation.gov.uk/uksi/2018/552) and [558](https://www.legislation.gov.uk/uksi/2018/558) and [2021/1391](https://www.legislation.gov.uk/uksi/2021/1391).
 
@@ -372,6 +372,6 @@ An impact assessment is available with the explanatory memorandum for these Regu
 
 [^f00010]: Footnote: Part R was inserted by [S.I. 2016/361](https://www.legislation.gov.uk/uksi/2016/361) and [2016/490](https://www.legislation.gov.uk/uksi/2016/490).
 
-[^key-9353494d0385ba6dc0c3072f45529f1d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1392/regulation/3) revoked (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(c)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/c) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-9353494d0385ba6dc0c3072f45529f1d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1392/regulation/3) revoked (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(c)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/c) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
 
-[^key-9ad049ef74eb9154214943df2602cc3c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1392/regulation/4) in force at 15.6.2022 (coming into force in accordance with reg. 1(2)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2)
+[^c-9ad049ef74eb9154214943df2602cc3c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1392/regulation/4) in force at 15.6.2022 (coming into force in accordance with reg. 1(2)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2)

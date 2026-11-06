@@ -44,15 +44,15 @@ Coming into force
 
 9th November 2012
 
-The Secretary of State in exercise of the powers conferred by sections 210(2)(a), (2)(b) and 215(2) of the Housing Act 1996[^f00001], makes the following Order:[^key-99e8f937478ca663c9dbc683fac02c5e]
+The Secretary of State in exercise of the powers conferred by sections 210(2)(a), (2)(b) and 215(2) of the Housing Act 1996[^f00001], makes the following Order:[^c-99e8f937478ca663c9dbc683fac02c5e]
 
-## 1. Citation, commencement and application[^key-4439f31f5644a01b28b089440df62c91]
+## 1. Citation, commencement and application[^c-4439f31f5644a01b28b089440df62c91]
 
 (1) This Order may be cited as the Homelessness (Suitability of Accommodation) (England) Order 2012 and comes into force on 9th November 2012.
 
 (2) This Order applies in relation to England only.
 
-## 2. Matters to be taken into account in determining whether accommodation is suitable for a person[^key-02214e5d99390773e679472732abe59e]
+## 2. Matters to be taken into account in determining whether accommodation is suitable for a person[^c-02214e5d99390773e679472732abe59e]
 
 In determining whether accommodation is suitable for a person, the local housing authority must take into account the location of the accommodation, including—
 
@@ -63,12 +63,12 @@ In determining whether accommodation is suitable for a person, the local housing
   - (ii) are essential to the well-being of the person or members of the person’s household; and
 - (d) the proximity and accessibility of the accommodation to local services, amenities and transport.
 
-## 3. Circumstances in which accommodation is not to be regarded as suitable for a person[^key-95a0d50618a044d0095253ca893b057b]
+## 3. Circumstances in which accommodation is not to be regarded as suitable for a person[^c-95a0d50618a044d0095253ca893b057b]
 
-(1)[^key-a9ea00565ffef97a1fb9fa9f98792e66] For the purposes mentioned in paragraph (2)[^key-52fddbc1c1c84eca0b236b19b216cd7a], accommodation shall not be regarded as suitable where one or more of the following apply–
+(1)[^c-a9ea00565ffef97a1fb9fa9f98792e66] For the purposes mentioned in paragraph (2)[^c-52fddbc1c1c84eca0b236b19b216cd7a], accommodation shall not be regarded as suitable where one or more of the following apply–
 
 - (a) the local housing authority are of the view that the accommodation is not in a reasonable physical condition;
-- (b) the local housing authority are of the view that any electrical equipment supplied with the accommodation does not meet the requirements of Schedule 1 to the Electrical Equipment (Safety) Regulations 2016[^key-c05d2caf3f9ccdfd5e372477bc86ec50];
+- (b) the local housing authority are of the view that any electrical equipment supplied with the accommodation does not meet the requirements of Schedule 1 to the Electrical Equipment (Safety) Regulations 2016[^c-c05d2caf3f9ccdfd5e372477bc86ec50];
 - (c) the local housing authority are of the view that the landlord has not taken reasonable fire safety precautions with the accommodation and any furnishings supplied with it;
 - (d) the local housing authority are of the view that the landlord has not taken reasonable precautions to prevent the possibility of carbon monoxide poisoning in the accommodation;
 - (e) the local housing authority are of the view that the landlord is not a fit and proper person to act in the capacity of landlord, having considered if the person has:
@@ -82,7 +82,7 @@ In determining whether accommodation is suitable for a person, the local housing
 - (i) the accommodation is or forms part of relevant premises which do not have a current gas safety record in accordance with regulation 36 of the Gas Safety (Installation and Use) Regulations 1998[^f00006]; or
 - (j) the landlord has not provided to the local housing authority a written tenancy agreement, which the landlord proposes to use for the purposes of a private rented sector offer, and which the local housing authority considers to be adequate.
 
-(2)[^key-c10ea2aae13c7ec33d5fc0b6efda0309] The purposes are—
+(2)[^c-c10ea2aae13c7ec33d5fc0b6efda0309] The purposes are—
 
 - (a) determining, in accordance with section 193(7F) of the Housing Act 1996, whether a local housing authority may approve a private rented sector offer;
 - (b) determining, in accordance with section 193A(6) or 193C(9) of that Act, whether a local housing authority may approve a final accommodation offer made by a private landlord;
@@ -122,19 +122,19 @@ An impact assessment has been prepared in respect of this Order. It has been dep
 
 [^f00001]: Footnote: [1996 c.52](https://www.legislation.gov.uk/ukpga/1996/52); section 193(7F) was inserted by the Homelessness Act [2002 (c.7)](https://www.legislation.gov.uk/uksi/2002/7), section 7(1) and (4); and was amended by the Housing and Regeneration Act [2008 (c.17)](https://www.legislation.gov.uk/uksi/2008/17), section 314 and Schedule 15, paragraphs 1.5(1) and (6); and, in relation to England, by the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/uksi/2011/20), section 148(1) and (9) and Schedule 25, Part 22.
 
-[^key-99e8f937478ca663c9dbc683fac02c5e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/2601) modified (temp.) (1.6.2022) by [The Homelessness (Suitability of Accommodation) (Amendment) (England) Order 2022 (S.I. 2022/521)](https://www.legislation.gov.uk/uksi/2022/521), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/521/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/521/article/5/2) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/521/article/2)) (as amended (31.5.2024) by [The Homelessness (Suitability of Accommodation) (England) (Amendment) Order 2024 (S.I. 2024/371)](https://www.legislation.gov.uk/uksi/2024/371), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/371/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/371/article/2))
+[^c-99e8f937478ca663c9dbc683fac02c5e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/2601) modified (temp.) (1.6.2022) by [The Homelessness (Suitability of Accommodation) (Amendment) (England) Order 2022 (S.I. 2022/521)](https://www.legislation.gov.uk/uksi/2022/521), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/521/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/521/article/5/2) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/521/article/2)) (as amended (31.5.2024) by [The Homelessness (Suitability of Accommodation) (England) (Amendment) Order 2024 (S.I. 2024/371)](https://www.legislation.gov.uk/uksi/2024/371), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/371/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/371/article/2))
 
-[^key-4439f31f5644a01b28b089440df62c91]: Commencement: Art. 1 in force at 9.11.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/1/1)
+[^c-4439f31f5644a01b28b089440df62c91]: Commencement: Art. 1 in force at 9.11.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/1/1)
 
-[^key-02214e5d99390773e679472732abe59e]: Commencement: Art. 2 in force at 9.11.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/1/1)
+[^c-02214e5d99390773e679472732abe59e]: Commencement: Art. 2 in force at 9.11.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/1/1)
 
-[^key-95a0d50618a044d0095253ca893b057b]: Commencement: Art. 3 in force at 9.11.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/1/1)
+[^c-95a0d50618a044d0095253ca893b057b]: Commencement: Art. 3 in force at 9.11.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/1/1)
 
-[^key-a9ea00565ffef97a1fb9fa9f98792e66]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/3/1): art. 3 renumbered as art. 3(1) (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/2), [13](https://www.legislation.gov.uk/ukpga/2017/13/section/13) (with [s. 12(5)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/5)); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/l)
+[^c-a9ea00565ffef97a1fb9fa9f98792e66]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/3/1): art. 3 renumbered as art. 3(1) (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/2), [13](https://www.legislation.gov.uk/ukpga/2017/13/section/13) (with [s. 12(5)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/5)); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/l)
 
-[^key-52fddbc1c1c84eca0b236b19b216cd7a]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/2601/article/3) substituted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/3), [13](https://www.legislation.gov.uk/ukpga/2017/13/section/13) (with [s. 12(5)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/5)); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/l)
+[^c-52fddbc1c1c84eca0b236b19b216cd7a]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/2601/article/3) substituted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/3), [13](https://www.legislation.gov.uk/ukpga/2017/13/section/13) (with [s. 12(5)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/5)); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/l)
 
-[^key-c05d2caf3f9ccdfd5e372477bc86ec50]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2601/article/3/b) substituted (8.12.2016) by [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
+[^c-c05d2caf3f9ccdfd5e372477bc86ec50]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2601/article/3/b) substituted (8.12.2016) by [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
 
 [^f00003]: Footnote: [2003 c.42](https://www.legislation.gov.uk/ukpga/2003/42). There are amendments to Schedule 3 not relevant to this Order. Schedule 3 was most recently amended by section 177 of and Schedule 21 to the Coroners and Justice Act 2009.
 
@@ -144,4 +144,4 @@ An impact assessment has been prepared in respect of this Order. It has been dep
 
 [^f00006]: Footnote: [SI 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
 
-[^key-c10ea2aae13c7ec33d5fc0b6efda0309]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2012/2601/article/3/2) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/4), [13](https://www.legislation.gov.uk/ukpga/2017/13/section/13) (with [s. 12(5)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/5)); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/l)
+[^c-c10ea2aae13c7ec33d5fc0b6efda0309]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2012/2601/article/3/2) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/4), [13](https://www.legislation.gov.uk/ukpga/2017/13/section/13) (with [s. 12(5)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/5)); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/l)

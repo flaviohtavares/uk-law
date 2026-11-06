@@ -123,7 +123,7 @@ in respect of which the advance is made.
 
 (5) An advance made under this section shall be repayable within a period not exceeding 30 years and either by instalments of principal or by an annuity of principal and interest combined.
 
-(6)[^key-25bc7c5f6876ffe8c3918e3ffba89e96] The security for an advance made under this section shall be taken at the time of making or, in the case of an agreement to sell or let the land, at the time of the conveyance or of the lease.
+(6)[^c-25bc7c5f6876ffe8c3918e3ffba89e96] The security for an advance made under this section shall be taken at the time of making or, in the case of an agreement to sell or let the land, at the time of the conveyance or of the lease.
 
 ### 8—11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6557471]
 
@@ -218,7 +218,7 @@ A local authority may pay subscriptions in respect of corporate membership of an
 
 [^c6557361]: Textual amendment: Words repealed by [National Loans Act 1968 (c. 13)](https://www.legislation.gov.uk/ukpga/1968/13), [Sch. 6 Pt. II](https://www.legislation.gov.uk/ukpga/1968/13/schedule/6/part/II)
 
-[^key-25bc7c5f6876ffe8c3918e3ffba89e96]: Textual amendment: [S. 7(6)](https://www.legislation.gov.uk/ukpga/1964/67/section/7/6) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 26](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/26) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-25bc7c5f6876ffe8c3918e3ffba89e96]: Textual amendment: [S. 7(6)](https://www.legislation.gov.uk/ukpga/1964/67/section/7/6) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 26](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/26) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c6557471]: Textual amendment: [Ss. 8–11](https://www.legislation.gov.uk/ukpga/1964/67/section/8), [Sch.](https://www.legislation.gov.uk/ukpga/1964/67/schedule) repealed by [Local Government (Scotland) Act 1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), [Sch. 7](https://www.legislation.gov.uk/ukpga/1975/30/schedule/7)
 

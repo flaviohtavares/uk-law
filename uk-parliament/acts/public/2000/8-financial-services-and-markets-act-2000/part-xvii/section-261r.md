@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261R. Procedure when refusing approval of a proposal under section 261Q[^key-a633e90c680abea1208a9855c68fc2f4]
+## 261R. Procedure when refusing approval of a proposal under section 261Q[^c-a633e90c680abea1208a9855c68fc2f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a633e90c680abea1208a9855c68fc2f4]: Textual amendment: Pt. 17 Ch. 3A inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/3/12) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-a633e90c680abea1208a9855c68fc2f4]: Textual amendment: Pt. 17 Ch. 3A inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/3/12) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))

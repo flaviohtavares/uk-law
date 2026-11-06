@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Finance Act 2002[^key-e3acfc03a6ecb9e8cf6ccbe76d844d96]
+## 134. Finance Act 2002[^c-e3acfc03a6ecb9e8cf6ccbe76d844d96]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Finance Act 2002 is amended as follows.
 
 ## Annotations
 
-[^key-e3acfc03a6ecb9e8cf6ccbe76d844d96]: Commencement: Reg. 134 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-e3acfc03a6ecb9e8cf6ccbe76d844d96]: Commencement: Reg. 134 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

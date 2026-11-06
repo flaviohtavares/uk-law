@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Right to occupy without interference from landlord[^key-30a27dbbc6197c6a47520fc41b1d3d2b]
+## 54. Right to occupy without interference from landlord[^c-30a27dbbc6197c6a47520fc41b1d3d2b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ interferes with the contract-holder's right by any lawful act or omission.
 
 ## Annotations
 
-[^key-30a27dbbc6197c6a47520fc41b1d3d2b]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2016/1/section/54) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-30a27dbbc6197c6a47520fc41b1d3d2b]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2016/1/section/54) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

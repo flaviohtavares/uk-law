@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. CMA reporting period for mandatory referral[^key-e680dda6be2be11bcf3b6111b64dd6d0][^key-d02dac07241a4d0272c395e67f1272d9]
+## 53. CMA reporting period for mandatory referral[^c-e680dda6be2be11bcf3b6111b64dd6d0][^c-d02dac07241a4d0272c395e67f1272d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e680dda6be2be11bcf3b6111b64dd6d0]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-e680dda6be2be11bcf3b6111b64dd6d0]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-d02dac07241a4d0272c395e67f1272d9]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2022/23/section/53) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-d02dac07241a4d0272c395e67f1272d9]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2022/23/section/53) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

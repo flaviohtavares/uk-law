@@ -52,11 +52,11 @@ In accordance with section 96(2) of the 2018 Act and paragraphs 2 and 2A of sche
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-da2838ffdc33d2a5bc20c8f399df55e0]
+### 1. Citation and commencement[^c-da2838ffdc33d2a5bc20c8f399df55e0]
 
 These Regulations may be cited as the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 and come into force on the day after the day on which they are made.
 
-### 2. Interpretation[^key-4f19f4d96ed89c93d3578e43e24d39ed]
+### 2. Interpretation[^c-4f19f4d96ed89c93d3578e43e24d39ed]
 
 In these Regulations—
 
@@ -65,11 +65,11 @@ In these Regulations—
 
 ## PART 2 — Carer’s allowance supplement for individuals resident outside Scotland
 
-### 3. Amendment of the Social Security (Scotland) Act 2018[^key-6cba2fb0f08806a2e22439160d8d59cf]
+### 3. Amendment of the Social Security (Scotland) Act 2018[^c-6cba2fb0f08806a2e22439160d8d59cf]
 
 Section 81 of the 2018 Act is modified in accordance with schedule 1.
 
-### 4. Meaning of determination of entitlement to a carer’s allowance supplement[^key-f90f986b53cd7374f01072ff75cc3b34]
+### 4. Meaning of determination of entitlement to a carer’s allowance supplement[^c-f90f986b53cd7374f01072ff75cc3b34]
 
 (1) References in these Regulations to a determination of an individual’s entitlement to a carer’s allowance supplement for the purposes of section 81(2A)[^f00005] of the 2018 Act are references to a determination made—
 
@@ -93,7 +93,7 @@ Section 81 of the 2018 Act is modified in accordance with schedule 1.
   - (c) a decision about whether the individual’s application for a carer’s allowance supplement is possibly premature,
 - “Tribunals Act powers” means the powers under Part 6 (review or appeal of decisions) of the Tribunals (Scotland) Act 2014[^f00007].
 
-### 5. Determination of entitlement to a carer’s allowance supplement for individuals resident outside Scotland[^key-57d7044b5f9db009e9cf64aa0c386051]
+### 5. Determination of entitlement to a carer’s allowance supplement for individuals resident outside Scotland[^c-57d7044b5f9db009e9cf64aa0c386051]
 
 (1) The Scottish Ministers are to make a determination of an individual’s entitlement to a carer’s allowance supplement for the purposes of section 81(2A) of the 2018 Act—
 
@@ -109,24 +109,24 @@ Section 81 of the 2018 Act is modified in accordance with schedule 1.
 - (a) the latest determination supersedes any earlier determination insofar as it deals with the individual’s entitlement to a carer’s allowance supplement in respect of the same qualifying date, and
 - (b) the individual is not entitled, and is not to become entitled, to a carer’s allowance supplement in respect of that qualifying date by the earlier determination.
 
-### 6. Timing of applications for a determination of entitlement to a carer’s allowance supplement for individuals resident outside Scotland[^key-af7f72c6993625e0b9476a92c3fb025c]
+### 6. Timing of applications for a determination of entitlement to a carer’s allowance supplement for individuals resident outside Scotland[^c-af7f72c6993625e0b9476a92c3fb025c]
 
 For the purposes of regulation 5, an individual may make an application on, or at any time after, the first qualifying date on which an individual considers themselves to have been a person to whom section 81(2A) of the 2018 Act applies.
 
-### 7. Determination of entitlement to a carer’s allowance supplement without application for individuals resident outside Scotland[^key-882fd5fa0cb24ee76ebe29d4d44d6967]
+### 7. Determination of entitlement to a carer’s allowance supplement without application for individuals resident outside Scotland[^c-882fd5fa0cb24ee76ebe29d4d44d6967]
 
 The Scottish Ministers are to make a determination of an individual’s entitlement to a carer’s allowance supplement under regulation 5, without receiving an application, where—
 
 - (a) it appears to the Scottish Ministers from information available to them that the individual is likely to meet the conditions in section 81(9) or (as the case may be) section 81(11) or (13) of the 2018 Act in respect of one or more qualifying dates,
 - (b) the Scottish Ministers have previously made a determination that an individual does not meet the conditions in section 81(9) or (as the case may be) section 81(11) or (13) of the 2018 Act in respect of a qualifying date (“the original determination”), and—
-  - (i)[^key-382573c694b17688e15caad4454b87c1] the Scottish Ministers establish that the individual has received an award of—
+  - (i)[^c-382573c694b17688e15caad4454b87c1] the Scottish Ministers establish that the individual has received an award of—
     - (aa) carer’s allowance under section 70 of the Social Security Contributions and Benefits Act 1992,
     - (bb) carer support payment under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 ([S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302)),
   - (ii) the award referred to in sub-paragraph (i) is backdated to include the relevant qualifying date, and
   - (iii) it appears to the Scottish Ministers that, had the backdated award been made before the original determination, it is likely that a determination that the individual met the conditions in section 81(9) or (as the case may be) section 81(11) or (13) of the 2018 Act would have been made instead,
 - (c) the individual received a payment of carer’s allowance supplement in respect of the most recent qualifying date pursuant to a determination made by the Scottish Ministers under regulation 5.
 
-### 8. Determination following official error - underpayments[^key-c9692086bed26dfd8be33e0a0371b41c]
+### 8. Determination following official error - underpayments[^c-c9692086bed26dfd8be33e0a0371b41c]
 
 (1) The Scottish Ministers are to make a determination under regulation 5 without receiving an application where—
 
@@ -135,7 +135,7 @@ The Scottish Ministers are to make a determination of an individual’s entitlem
 
 (2) In this regulation, “official error” means an error made by someone acting on behalf of the Scottish Ministers or on behalf of a Minister of the Crown that was not materially contributed to by anyone not so acting.
 
-### 9. Determination following error – overpayments[^key-d7dda883f391d0c56a06e93fb892c170]
+### 9. Determination following error – overpayments[^c-d7dda883f391d0c56a06e93fb892c170]
 
 (1) The Scottish Ministers are to make a determination under regulation 5 without receiving an application where—
 
@@ -147,13 +147,13 @@ The Scottish Ministers are to make a determination of an individual’s entitlem
 - (a) wrongly, or
 - (b) correctly but on the basis of incorrect information.
 
-### 10. Procedure[^key-a852c9ffeb1695d0b8723f2a3d3b8adb]
+### 10. Procedure[^c-a852c9ffeb1695d0b8723f2a3d3b8adb]
 
 Schedule 2 makes further provision about matters of procedure for applying for, and determining entitlement to, a carer’s allowance supplement for the purposes of section 81(2A) of the 2018 Act.
 
 ## PART 3 — Young carer grants
 
-### 11. Amendment of eligibility conditions[^key-2847fe99b33b4706935fae9aeb098edb]
+### 11. Amendment of eligibility conditions[^c-2847fe99b33b4706935fae9aeb098edb]
 
 (1) The Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019[^f00009] are amended in accordance with paragraphs (2) to (5).
 
@@ -293,17 +293,17 @@ Edinburgh
 
 Regulation 3
 
-**1.**[^key-7ed1686d17853f41a93b6cb8a4e91018] Section 81 (carer’s allowance supplement) of the Social Security (Scotland) Act 2018[^f00021] is amended as follows.
+**1.**[^c-7ed1686d17853f41a93b6cb8a4e91018] Section 81 (carer’s allowance supplement) of the Social Security (Scotland) Act 2018[^f00021] is amended as follows.
 
-**2.**[^key-966406865bf74debba60347a3d724551] After subsection (1) insert—
+**2.**[^c-966406865bf74debba60347a3d724551] After subsection (1) insert—
 
 > (1A) A qualifying individual is an individual to whom subsection (2) or (2A) applies.
 
 .
 
-**3.**[^key-b1411395212cce5a71c714ef862b821b] In subsection (2), for “A qualifying individual is” substitute “This subsection applies to”.
+**3.**[^c-b1411395212cce5a71c714ef862b821b] In subsection (2), for “A qualifying individual is” substitute “This subsection applies to”.
 
-**4.**[^key-5fdbec583c9949ef62d1ddf9855c5a72] After subsection (2) insert—
+**4.**[^c-5fdbec583c9949ef62d1ddf9855c5a72] After subsection (2) insert—
 
 > (2A) This subsection applies to an individual whom the Scottish Ministers have determined in accordance with Part 2 of the Carer’s Allowance Supplement and Young Carers Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 ([S.S.I. 2020/475](https://www.legislation.gov.uk/ssi/2020/475))—
 >
@@ -313,7 +313,7 @@ Regulation 3
 
 .
 
-**5.**[^key-6b6acc12739f0e3942729392431d3f08] After subsection (8) insert—
+**5.**[^c-6b6acc12739f0e3942729392431d3f08] After subsection (8) insert—
 
 > (9) An individual met the eligibility conditions referred to in subsection (2A)(a) on a given date if, on that date, the individual—
 >
@@ -379,7 +379,7 @@ Regulation 10
 
 ### PART 1 — Application and determination of applications
 
-#### 1. Form of application[^key-9ec7cf8f13c492ffd755d049841f5112]
+#### 1. Form of application[^c-9ec7cf8f13c492ffd755d049841f5112]
 
 (1) An application under regulation 5 must be—
 
@@ -403,7 +403,7 @@ the individual cannot make another application for carer’s allowance supplemen
 - (b) the reasons for it, and
 - (c) the individual’s right to appeal under paragraph 13.
 
-#### 2. Withdrawal of application[^key-1c4abc63c9fd7e762b69b92a5bab6a2c]
+#### 2. Withdrawal of application[^c-1c4abc63c9fd7e762b69b92a5bab6a2c]
 
 (1) An individual who has made an application for a carer’s allowance supplement under regulation 5 may request that the Scottish Ministers disregard it.
 
@@ -416,7 +416,7 @@ the individual cannot make another application for carer’s allowance supplemen
 
 (4) The Scottish Ministers must publicise any requirements for the time being set under sub-paragraph (3).
 
-#### 3. Notice of determination[^key-2f0310236c78b8e9ffed17525cf6ab77]
+#### 3. Notice of determination[^c-2f0310236c78b8e9ffed17525cf6ab77]
 
 (1) Having made a determination under regulation 5 of an individual’s entitlement to a carer’s allowance supplement the Scottish Ministers must inform the individual—
 
@@ -429,7 +429,7 @@ the individual cannot make another application for carer’s allowance supplemen
 
 ### PART 2 — Re-determination of entitlement
 
-#### 4. Right to request re-determination and periods allowed[^key-e572be3c599bce3f553ce546db55bc94]
+#### 4. Right to request re-determination and periods allowed[^c-e572be3c599bce3f553ce546db55bc94]
 
 (1) An individual may request that the Scottish Ministers re-determine the individual’s entitlement to a carer’s allowance supplement after being informed (in accordance with paragraph 3) of a determination by the Scottish Ministers of the individual’s entitlement to such a payment.
 
@@ -447,7 +447,7 @@ the individual cannot make another application for carer’s allowance supplemen
 - (b) the reasons for it, and
 - (c) the individual’s right to appeal under paragraph 13.
 
-#### 5. Late request for re-determination[^key-5d4e84563c94d4747185f19f43e05188]
+#### 5. Late request for re-determination[^c-5d4e84563c94d4747185f19f43e05188]
 
 (1) It is for—
 
@@ -463,7 +463,7 @@ to decide whether, for the purpose of paragraph 4(3), an individual has a good r
   - (i) the reasons for the decision, and
   - (ii) the individual’s right to appeal under paragraph 13.
 
-#### 6. Duty to re-determine and period allowed[^key-8921b65358aafbc9814f030071989002]
+#### 6. Duty to re-determine and period allowed[^c-8921b65358aafbc9814f030071989002]
 
 (1) On receiving a valid request under paragraph 4 to re-determine an individual’s entitlement to a carer’s allowance supplement the Scottish Ministers are to make a determination of the individual’s entitlement to that payment.
 
@@ -483,7 +483,7 @@ to decide whether, for the purpose of paragraph 4(3), an individual has a good r
 - (b) a Sunday, or
 - (c) a bank holiday in Scotland under the Banking and Financial Dealings Act 1971[^f00032].
 
-#### 7. Notice of re-determination[^key-684d3d003f1bc95d6f88f376e55803a3]
+#### 7. Notice of re-determination[^c-684d3d003f1bc95d6f88f376e55803a3]
 
 (1) Having made a determination under paragraph 6 of an individual’s entitlement to a carers allowance supplement, the Scottish Ministers must—
 
@@ -495,7 +495,7 @@ to decide whether, for the purpose of paragraph 4(3), an individual has a good r
 
 (2) The Scottish Ministers must fulfil their duty under sub-paragraph (1)(a) in a way that leaves the individual with a record of the information which the individual can show to, or otherwise share with, others.
 
-#### 8. Notice where re-determination not made timeously[^key-a93c0a7f4e9648a8d835477fcab75d34]
+#### 8. Notice where re-determination not made timeously[^c-a93c0a7f4e9648a8d835477fcab75d34]
 
 (1) Where the Scottish Ministers fail to make a determination under paragraph 6 within the period allowed by paragraph 6(2), the Scottish Ministers must—
 
@@ -508,7 +508,7 @@ to decide whether, for the purpose of paragraph 4(3), an individual has a good r
 
 ### PART 3 — Appeals
 
-#### 9. Right to appeal to First-tier Tribunal against determination[^key-d367da4c740cfe468d63a1a75d6dd63f]
+#### 9. Right to appeal to First-tier Tribunal against determination[^c-d367da4c740cfe468d63a1a75d6dd63f]
 
 (1) An individual may appeal to the First-tier Tribunal for Scotland—
 
@@ -520,7 +520,7 @@ to decide whether, for the purpose of paragraph 4(3), an individual has a good r
 - (a) having been informed of a determination under regulation 5 of the individual’s entitlement to a carer’s allowance supplement, the individual has made a request for a re-determination under paragraph 4, and
 - (b) the Scottish Ministers have failed to make a determination under paragraph 6 in consequence of that request within the period described in paragraph 6(2).
 
-#### 10. Initiating an appeal[^key-cbc53ec268b3129188dc5cf2c8b53dab]
+#### 10. Initiating an appeal[^c-cbc53ec268b3129188dc5cf2c8b53dab]
 
 (1) To bring an appeal against a determination, an individual must submit to the Scottish Ministers the form provided under paragraph 7(1)(b) or (as the case may be) paragraph 8(1)(b) in relation to the determination.
 
@@ -537,7 +537,7 @@ to the First-tier Tribunal.
 
 (5) For the avoidance of doubt, the form that the Scottish Ministers provide under paragraph 7 or 8 need not be a physical form.
 
-#### 11. Deadline for appealing[^key-bc8c469ce15df527cca07fbe68667524]
+#### 11. Deadline for appealing[^c-bc8c469ce15df527cca07fbe68667524]
 
 (1) An appeal under paragraph 9—
 
@@ -556,7 +556,7 @@ to the First-tier Tribunal.
 
 (4) In sub-paragraph (2)(b), “Scottish Tribunal Rules” has the meaning given by section 68(2) of the Tribunals (Scotland) Act 2014[^f00033].
 
-#### 12. First-tier Tribunal’s power to determine entitlement[^key-846a944e75c5c7426b41908e69bb42ce][^key-f05e764d6dfd671c5e0da6ca0d7a4c18]
+#### 12. First-tier Tribunal’s power to determine entitlement[^c-846a944e75c5c7426b41908e69bb42ce][^c-f05e764d6dfd671c5e0da6ca0d7a4c18]
 
 (1) In an appeal under paragraph 9 (right to appeal to the First-tier Tribunal against determination) against a determination of an individual’s entitlement to a carer’s allowance supplement, the First-tier Tribunal may—
 
@@ -570,7 +570,7 @@ to the First-tier Tribunal.
 
 (3) In sub-paragraph (2), “**the relevant time**” means the time at which the individual’s entitlement fell to be determined by the Scottish Ministers in making the original determination under regulation 5 (determination of entitlement to a carer’s allowance supplement for individuals resident outside Scotland) in relation to that entitlement.
 
-#### 13. Appeal to First-tier Tribunal against process decisions[^key-4d3bdf64c530cc9210f195e47d5cb8bb]
+#### 13. Appeal to First-tier Tribunal against process decisions[^c-4d3bdf64c530cc9210f195e47d5cb8bb]
 
 (1) An individual may appeal to the First-tier Tribunal for Scotland against a decision by the Scottish Ministers—
 
@@ -598,7 +598,7 @@ is final.
 - (a) reviewed under section 43 of the Tribunals (Scotland) Act 2014, nor
 - (b) appealed against under section 46 of that Act.
 
-#### 14. Presumption for purposes of paragraphs 1, 3, 4, 5, 7, 8 and 10[^key-5caf1799f812449aa88c4a47196b9a4f]
+#### 14. Presumption for purposes of paragraphs 1, 3, 4, 5, 7, 8 and 10[^c-5caf1799f812449aa88c4a47196b9a4f]
 
 (1) Sub-paragraph (2) applies in relation to the references in paragraphs 1, 3, 4, 5, 7, 8, and 10 to an individual being informed of something by the Scottish Ministers in accordance with a provision of these Regulations.
 
@@ -609,7 +609,7 @@ is final.
 
 the individual is to be taken to have received the information 48 hours after it is sent by the Scottish Ministers unless the contrary is shown.
 
-#### 15. Amendment of the Social Security Appeals (Expenses and Allowances) (Scotland) Regulations 2018[^key-9105c9b1997714a00655e81aba00c7e6]
+#### 15. Amendment of the Social Security Appeals (Expenses and Allowances) (Scotland) Regulations 2018[^c-9105c9b1997714a00655e81aba00c7e6]
 
 (1) The Social Security Appeals (Expenses and Allowances) (Scotland) Regulations 2018[^f00034] are amended in accordance with paragraph (2).
 
@@ -617,7 +617,7 @@ the individual is to be taken to have received the information 48 hours after it
 
 ### PART 4 — Further provision about determining entitlement
 
-#### 16. Obtaining information to make a determination[^key-657f7262097b29d07643c5590886468f]
+#### 16. Obtaining information to make a determination[^c-657f7262097b29d07643c5590886468f]
 
 (1) When the Scottish Ministers are determining an individual’s entitlement to a carer’s allowance supplement for the purposes of section 81(2A) of the 2018 Act—
 
@@ -626,7 +626,7 @@ the individual is to be taken to have received the information 48 hours after it
 
 (2) If the individual fails to provide the requested information by the end of the specified period, the Scottish Ministers may, without further consideration, proceed to make the determination on the basis that the individual does not satisfy the conditions in section 81(9) or (as the case may be) section 81(11) or (13) of the 2018 Act.
 
-#### 17. Duty to inform about possible eligibility[^key-a1f6f36035088fac5a2f8a8521b48639]
+#### 17. Duty to inform about possible eligibility[^c-a1f6f36035088fac5a2f8a8521b48639]
 
 (1) Paragraph (2) applies if, in the course of their making a determination of an individual’s entitlement to a carer’s allowance supplement under regulation 5, it appears to the Scottish Ministers that the individual may be entitled to a type of assistance described in Chapter 2 of Part 2 of the 2018 Act or to assistance provided for by regulations made under section 79 of that Act.
 
@@ -639,13 +639,13 @@ the individual is to be taken to have received the information 48 hours after it
 
 (3) Paragraph (2)(b)(ii) does not preclude the Scottish Ministers from requesting further information under paragraph 16 for the purpose of determining the individual’s entitlement to the assistance described in paragraph (1).
 
-#### 18. Appointment of a person to act on behalf of an individual[^key-d462684a76dbc16fb9a93a99b8f8887f]
+#### 18. Appointment of a person to act on behalf of an individual[^c-d462684a76dbc16fb9a93a99b8f8887f]
 
 Section 58 or (as the case may be) section 85B[^f00037] of the 2018 Act applies in respect of the determination of an individual’s entitlement to a carer’s allowance supplement under regulation 5 as it does to a determination of entitlement to assistance under Part 2 or 3 of the 2018 Act.
 
 ### PART 5 — Coronavirus – relaxation of deadlines
 
-#### 19. Re-determination and appeal deadlines[^key-7855070f0d2660d96b859b2910040f2f]
+#### 19. Re-determination and appeal deadlines[^c-7855070f0d2660d96b859b2910040f2f]
 
 (1) A request for a re-determination is valid, despite being made after the expiry of the period described in paragraph 4(3), if the person deciding whether the individual has a good reason for not requesting a re-determination sooner decides that the individual has a good reason that is related to coronavirus.
 
@@ -684,13 +684,13 @@ Schedule 2 makes further provision about matters of procedure for applying for, 
 
 [^f00004]: Footnote: The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act. Paragraph 2 of schedule 2 of the European Communities Act [1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68) has been amended by section 27(2)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51). Paragraph 2A of the European Communities Act [1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68) has been modified by paragraph 5 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-da2838ffdc33d2a5bc20c8f399df55e0]: Commencement: Reg. 1 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-da2838ffdc33d2a5bc20c8f399df55e0]: Commencement: Reg. 1 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-4f19f4d96ed89c93d3578e43e24d39ed]: Commencement: Reg. 2 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-4f19f4d96ed89c93d3578e43e24d39ed]: Commencement: Reg. 2 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-6cba2fb0f08806a2e22439160d8d59cf]: Commencement: Reg. 3 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-6cba2fb0f08806a2e22439160d8d59cf]: Commencement: Reg. 3 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-f90f986b53cd7374f01072ff75cc3b34]: Commencement: Reg. 4 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-f90f986b53cd7374f01072ff75cc3b34]: Commencement: Reg. 4 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
 [^f00005]: Footnote: Section 81(2A) is inserted by schedule 1 of these Regulations.
 
@@ -698,21 +698,21 @@ Schedule 2 makes further provision about matters of procedure for applying for, 
 
 [^f00007]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-57d7044b5f9db009e9cf64aa0c386051]: Commencement: Reg. 5 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-57d7044b5f9db009e9cf64aa0c386051]: Commencement: Reg. 5 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-af7f72c6993625e0b9476a92c3fb025c]: Commencement: Reg. 6 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-af7f72c6993625e0b9476a92c3fb025c]: Commencement: Reg. 6 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-882fd5fa0cb24ee76ebe29d4d44d6967]: Commencement: Reg. 7 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-882fd5fa0cb24ee76ebe29d4d44d6967]: Commencement: Reg. 7 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-382573c694b17688e15caad4454b87c1]: Textual amendment: [Reg. 7(b)(i)](https://www.legislation.gov.uk/ssi/2020/475/regulation/7/b/i) substituted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (S.S.I. 2023/302)](https://www.legislation.gov.uk/ssi/2023/302), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2), [sch. 1 para. 10(2)](https://www.legislation.gov.uk/ssi/2023/302/schedule/1/paragraph/10/2)
+[^c-382573c694b17688e15caad4454b87c1]: Textual amendment: [Reg. 7(b)(i)](https://www.legislation.gov.uk/ssi/2020/475/regulation/7/b/i) substituted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (S.S.I. 2023/302)](https://www.legislation.gov.uk/ssi/2023/302), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2), [sch. 1 para. 10(2)](https://www.legislation.gov.uk/ssi/2023/302/schedule/1/paragraph/10/2)
 
-[^key-c9692086bed26dfd8be33e0a0371b41c]: Commencement: Reg. 8 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-c9692086bed26dfd8be33e0a0371b41c]: Commencement: Reg. 8 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-d7dda883f391d0c56a06e93fb892c170]: Commencement: Reg. 9 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-d7dda883f391d0c56a06e93fb892c170]: Commencement: Reg. 9 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-a852c9ffeb1695d0b8723f2a3d3b8adb]: Commencement: Reg. 10 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-a852c9ffeb1695d0b8723f2a3d3b8adb]: Commencement: Reg. 10 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-2847fe99b33b4706935fae9aeb098edb]: Commencement: Reg. 11 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-2847fe99b33b4706935fae9aeb098edb]: Commencement: Reg. 11 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
 [^f00009]: Footnote: [S.S.I. 2019/324](https://www.legislation.gov.uk/ssi/2019/324), to which there are no amendments relevant to these Regulations.
 
@@ -738,17 +738,17 @@ Schedule 2 makes further provision about matters of procedure for applying for, 
 
 [^f00020]: Footnote: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-7ed1686d17853f41a93b6cb8a4e91018]: Commencement: Sch. 1 para. 1 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-7ed1686d17853f41a93b6cb8a4e91018]: Commencement: Sch. 1 para. 1 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
 [^f00021]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9). Section 81 applies with the modification made by Part 3 of schedule 1 of the Coronavirus (Scotland) (No. 2) Act [2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10).
 
-[^key-966406865bf74debba60347a3d724551]: Commencement: Sch. 1 para. 2 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-966406865bf74debba60347a3d724551]: Commencement: Sch. 1 para. 2 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-b1411395212cce5a71c714ef862b821b]: Commencement: Sch. 1 para. 3 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-b1411395212cce5a71c714ef862b821b]: Commencement: Sch. 1 para. 3 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-5fdbec583c9949ef62d1ddf9855c5a72]: Commencement: Sch. 1 para. 4 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-5fdbec583c9949ef62d1ddf9855c5a72]: Commencement: Sch. 1 para. 4 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-6b6acc12739f0e3942729392431d3f08]: Commencement: Sch. 1 para. 5 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-6b6acc12739f0e3942729392431d3f08]: Commencement: Sch. 1 para. 5 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
 [^f00022]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 70 was relevantly amended by [S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457).
 
@@ -770,41 +770,41 @@ Schedule 2 makes further provision about matters of procedure for applying for, 
 
 [^f00031]: Footnote: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-9ec7cf8f13c492ffd755d049841f5112]: Commencement: Sch. 2 para. 1 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-9ec7cf8f13c492ffd755d049841f5112]: Commencement: Sch. 2 para. 1 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-1c4abc63c9fd7e762b69b92a5bab6a2c]: Commencement: Sch. 2 para. 2 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-1c4abc63c9fd7e762b69b92a5bab6a2c]: Commencement: Sch. 2 para. 2 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-2f0310236c78b8e9ffed17525cf6ab77]: Commencement: Sch. 2 para. 3 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-2f0310236c78b8e9ffed17525cf6ab77]: Commencement: Sch. 2 para. 3 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-e572be3c599bce3f553ce546db55bc94]: Commencement: Sch. 2 para. 4 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-e572be3c599bce3f553ce546db55bc94]: Commencement: Sch. 2 para. 4 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-5d4e84563c94d4747185f19f43e05188]: Commencement: Sch. 2 para. 5 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-5d4e84563c94d4747185f19f43e05188]: Commencement: Sch. 2 para. 5 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-8921b65358aafbc9814f030071989002]: Commencement: Sch. 2 para. 6 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-8921b65358aafbc9814f030071989002]: Commencement: Sch. 2 para. 6 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
 [^f00032]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80), paragraph 2 of schedule 1 sets out the Scottish bank holidays and was amended by section 1 of the St Andrew’s Day Bank Holiday (Scotland) Act [2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
 
-[^key-684d3d003f1bc95d6f88f376e55803a3]: Commencement: Sch. 2 para. 7 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-684d3d003f1bc95d6f88f376e55803a3]: Commencement: Sch. 2 para. 7 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-a93c0a7f4e9648a8d835477fcab75d34]: Commencement: Sch. 2 para. 8 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-a93c0a7f4e9648a8d835477fcab75d34]: Commencement: Sch. 2 para. 8 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-d367da4c740cfe468d63a1a75d6dd63f]: Commencement: Sch. 2 para. 9 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-d367da4c740cfe468d63a1a75d6dd63f]: Commencement: Sch. 2 para. 9 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-cbc53ec268b3129188dc5cf2c8b53dab]: Commencement: Sch. 2 para. 10 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-cbc53ec268b3129188dc5cf2c8b53dab]: Commencement: Sch. 2 para. 10 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-bc8c469ce15df527cca07fbe68667524]: Commencement: Sch. 2 para. 11 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-bc8c469ce15df527cca07fbe68667524]: Commencement: Sch. 2 para. 11 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
 [^f00033]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-846a944e75c5c7426b41908e69bb42ce]: Commencement: Sch. 2 para. 12 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-846a944e75c5c7426b41908e69bb42ce]: Commencement: Sch. 2 para. 12 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-f05e764d6dfd671c5e0da6ca0d7a4c18]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2020/475/schedule/2/paragraph/12) substituted (23.6.2025) by [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/6/2) (with [reg. 15](https://www.legislation.gov.uk/ssi/2025/195/regulation/15))
+[^c-f05e764d6dfd671c5e0da6ca0d7a4c18]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2020/475/schedule/2/paragraph/12) substituted (23.6.2025) by [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/6/2) (with [reg. 15](https://www.legislation.gov.uk/ssi/2025/195/regulation/15))
 
-[^key-4d3bdf64c530cc9210f195e47d5cb8bb]: Commencement: Sch. 2 para. 13 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-4d3bdf64c530cc9210f195e47d5cb8bb]: Commencement: Sch. 2 para. 13 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-5caf1799f812449aa88c4a47196b9a4f]: Commencement: Sch. 2 para. 14 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-5caf1799f812449aa88c4a47196b9a4f]: Commencement: Sch. 2 para. 14 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-9105c9b1997714a00655e81aba00c7e6]: Commencement: Sch. 2 para. 15 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-9105c9b1997714a00655e81aba00c7e6]: Commencement: Sch. 2 para. 15 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
 [^f00034]: Footnote: [S.S.I. 2018/275](https://www.legislation.gov.uk/ssi/2018/275).
 
@@ -812,15 +812,15 @@ Schedule 2 makes further provision about matters of procedure for applying for, 
 
 [^f00036]: Footnote: [S.S.I. 2020/475](https://www.legislation.gov.uk/ssi/2020/475).
 
-[^key-657f7262097b29d07643c5590886468f]: Commencement: Sch. 2 para. 16 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-657f7262097b29d07643c5590886468f]: Commencement: Sch. 2 para. 16 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-a1f6f36035088fac5a2f8a8521b48639]: Commencement: Sch. 2 para. 17 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-a1f6f36035088fac5a2f8a8521b48639]: Commencement: Sch. 2 para. 17 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
-[^key-d462684a76dbc16fb9a93a99b8f8887f]: Commencement: Sch. 2 para. 18 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-d462684a76dbc16fb9a93a99b8f8887f]: Commencement: Sch. 2 para. 18 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
 [^f00037]: Footnote: Section 85B is to be inserted by section 2(4) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18) (“the 2020 Act”). Section 58 of the Social Security (Scotland) Act 2018 is prospectively repealed by section 2(2) of the 2020 Act.
 
-[^key-7855070f0d2660d96b859b2910040f2f]: Commencement: Sch. 2 para. 19 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
+[^c-7855070f0d2660d96b859b2910040f2f]: Commencement: Sch. 2 para. 19 in force at 24.12.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1)
 
 [^f00038]: Footnote: [2020 asp 7](https://www.legislation.gov.uk/asp/2020/7).
 

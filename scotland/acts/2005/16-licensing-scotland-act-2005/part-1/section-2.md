@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Meaning of “alcohol”[^key-4f58065508f0f234ee21f9b9bc884206]
+## 2. Meaning of “alcohol”[^c-4f58065508f0f234ee21f9b9bc884206]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
   - (i) alcohol which is of a strength of 0.5% or less at the time of its sale,
   - (ii) perfume,
   - (iii) any flavouring essence recognised by the Commissioners of Customs and Excise as not being intended for consumption as or with dutiable alcoholic liquor,
-  - (iv)[^key-41bbe8f96032acfdc84aeac5ac16064e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-41bbe8f96032acfdc84aeac5ac16064e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (v) alcohol which is, or is included in, a medicinal product,
   - (vi) denatured alcohol,
   - (vii) methyl alcohol,
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f58065508f0f234ee21f9b9bc884206]: Commencement: S. 2 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-4f58065508f0f234ee21f9b9bc884206]: Commencement: S. 2 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
 
-[^key-41bbe8f96032acfdc84aeac5ac16064e]: Textual amendment: S. 2(1)(b)(iv) repealed (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 54](https://www.legislation.gov.uk/asp/2015/10/section/54), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
+[^c-41bbe8f96032acfdc84aeac5ac16064e]: Textual amendment: S. 2(1)(b)(iv) repealed (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 54](https://www.legislation.gov.uk/asp/2015/10/section/54), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)

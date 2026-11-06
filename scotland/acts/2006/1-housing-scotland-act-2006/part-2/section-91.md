@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Local authority payments to not for profit lenders[^key-939a7773a964e45b024ffd5731cb84ce]
+## 91. Local authority payments to not for profit lenders[^c-939a7773a964e45b024ffd5731cb84ce]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-939a7773a964e45b024ffd5731cb84ce]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2006/1/section/91) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-939a7773a964e45b024ffd5731cb84ce]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2006/1/section/91) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -37,18 +37,18 @@ amending Decision 2005/270/EC establishing the formats relating to the database 
 
 (Text with EEA relevance) (revoked)
 
-[^key-1d78a0a977bd76210f3046e7ff0b3d43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d78a0a977bd76210f3046e7ff0b3d43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1d78a0a977bd76210f3046e7ff0b3d43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1d78a0a977bd76210f3046e7ff0b3d43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1d78a0a977bd76210f3046e7ff0b3d43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1d78a0a977bd76210f3046e7ff0b3d43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1d78a0a977bd76210f3046e7ff0b3d43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d78a0a977bd76210f3046e7ff0b3d43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-1d78a0a977bd76210f3046e7ff0b3d43]
+## ANNEX[^c-1d78a0a977bd76210f3046e7ff0b3d43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1d78a0a977bd76210f3046e7ff0b3d43]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/6)
+[^c-1d78a0a977bd76210f3046e7ff0b3d43]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/6)

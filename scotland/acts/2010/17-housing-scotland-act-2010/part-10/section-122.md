@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Purchaser protection[^key-9fa9852070e644173e502976421a2ff9]
+## 122. Purchaser protection[^c-9fa9852070e644173e502976421a2ff9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fa9852070e644173e502976421a2ff9]: Textual amendment: S. 122 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(8)](https://www.legislation.gov.uk/asp/2018/13/section/4/8), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-9fa9852070e644173e502976421a2ff9]: Textual amendment: S. 122 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(8)](https://www.legislation.gov.uk/asp/2018/13/section/4/8), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

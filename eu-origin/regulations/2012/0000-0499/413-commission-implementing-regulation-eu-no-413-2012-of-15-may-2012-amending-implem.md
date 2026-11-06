@@ -35,14 +35,14 @@ amending Implementing Regulation (EU) No 496/2011 as regards the minimum content
 
 (Text with EEA relevance) (revoked)
 
-[^key-ca2db94aa949504a52f9843b79cf1d65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca2db94aa949504a52f9843b79cf1d65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ca2db94aa949504a52f9843b79cf1d65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ca2db94aa949504a52f9843b79cf1d65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ca2db94aa949504a52f9843b79cf1d65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ca2db94aa949504a52f9843b79cf1d65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ca2db94aa949504a52f9843b79cf1d65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca2db94aa949504a52f9843b79cf1d65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca2db94aa949504a52f9843b79cf1d65]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 15](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/15)
+[^c-ca2db94aa949504a52f9843b79cf1d65]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 15](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/15)

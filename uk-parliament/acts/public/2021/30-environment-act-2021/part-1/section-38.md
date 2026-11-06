@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Environmental review[^key-8be2eb8858818f086c523a1ea128327c][^key-458573892bb42bc5e8f9c5abcba20fbc]
+## 38. Environmental review[^c-8be2eb8858818f086c523a1ea128327c][^c-458573892bb42bc5e8f9c5abcba20fbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8be2eb8858818f086c523a1ea128327c]: Commencement: S. 38 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-8be2eb8858818f086c523a1ea128327c]: Commencement: S. 38 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-458573892bb42bc5e8f9c5abcba20fbc]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2021/30/section/38) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)
+[^c-458573892bb42bc5e8f9c5abcba20fbc]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2021/30/section/38) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)

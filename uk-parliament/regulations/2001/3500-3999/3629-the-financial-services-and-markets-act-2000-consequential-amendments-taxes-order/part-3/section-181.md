@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Anti-avoidance provision[^key-51ca14f41a286c8659c8cd3a3cc75a6c]
+## 181. Anti-avoidance provision[^c-51ca14f41a286c8659c8cd3a3cc75a6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 14(6)(b)(ii) of the Corporation Tax (Instalment Payments) Regulati
 
 ## Annotations
 
-[^key-51ca14f41a286c8659c8cd3a3cc75a6c]: Commencement: Art. 181 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-51ca14f41a286c8659c8cd3a3cc75a6c]: Commencement: Art. 181 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

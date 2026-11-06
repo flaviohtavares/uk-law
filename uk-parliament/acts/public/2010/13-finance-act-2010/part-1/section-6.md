@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Relief for first-time buyers[^key-fd155571fabc6f27f67de7fe05483409]
+## 6. Relief for first-time buyers[^c-fd155571fabc6f27f67de7fe05483409]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd155571fabc6f27f67de7fe05483409]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2010/13/section/6) repealed (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(6)(e)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/6/e)
+[^c-fd155571fabc6f27f67de7fe05483409]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2010/13/section/6) repealed (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(6)(e)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/6/e)

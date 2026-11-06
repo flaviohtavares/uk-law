@@ -22,7 +22,7 @@ summary: ''
 
 Articles 42 and 43
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-edfa1025889dfc7ec49ee73bb09d1f48]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-edfa1025889dfc7ec49ee73bb09d1f48]
 
 | *(1)*<br>*Location of hedgerow* | *(2)*<br>*Relevant part of the authorised development* | *(3)*<br>*Important hedgerow* |
 | --- | --- | --- |
@@ -113,7 +113,7 @@ Articles 42 and 43
 | The hedgerow marked H92 on page 4 of the habitats plan | Work No. 80c | No |
 | The hedgerow marked H93 on page 7 of the habitats plan | Work No. 107 | No |
 
-### PART 2 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-e92af2b2f68cd54ea84f97079b01554c]
+### PART 2 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-e92af2b2f68cd54ea84f97079b01554c]
 
 | *(1)*<br>*Name of Order / Type of tree* | *(2)*<br>*Work to be carried out* | *(3)*<br>*Relevant part of the authorised development* |
 | --- | --- | --- |
@@ -136,6 +136,6 @@ Articles 42 and 43
 
 ## Annotations
 
-[^key-edfa1025889dfc7ec49ee73bb09d1f48]: Commencement: Sch. 8 Pt. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-edfa1025889dfc7ec49ee73bb09d1f48]: Commencement: Sch. 8 Pt. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-e92af2b2f68cd54ea84f97079b01554c]: Commencement: Sch. 8 Pt. 2 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-e92af2b2f68cd54ea84f97079b01554c]: Commencement: Sch. 8 Pt. 2 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

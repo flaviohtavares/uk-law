@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 6.6. Exhumation, reservation of grave space and other special cases[^key-d4ae527513730387d086afcf59649630]
+## 6.6. Exhumation, reservation of grave space and other special cases[^c-d4ae527513730387d086afcf59649630]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4ae527513730387d086afcf59649630]: Commencement: [Rule 6.6](https://www.legislation.gov.uk/uksi/2015/1568/article/6.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-d4ae527513730387d086afcf59649630]: Commencement: [Rule 6.6](https://www.legislation.gov.uk/uksi/2015/1568/article/6.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

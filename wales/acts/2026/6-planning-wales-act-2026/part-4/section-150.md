@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 150. Power of the Welsh Ministers to issue stop notice[^key-d73fff203eaf9a10ee637983fc08a571]
+## 150. Power of the Welsh Ministers to issue stop notice[^c-d73fff203eaf9a10ee637983fc08a571]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d73fff203eaf9a10ee637983fc08a571]: Commencement: S. 150 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d73fff203eaf9a10ee637983fc08a571]: Commencement: S. 150 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

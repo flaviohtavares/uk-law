@@ -35,7 +35,7 @@ and a broadcasting authority shall from time to time consider whether the code f
 
 (5) For the purposes of subsection (1) “**the election period**”, in relation to an election, means the period beginning—
 
-- (a) (if a parliamentary general election) with the date of the dissolution of Parliament [^key-55584b88bb7551bed837edec0a4ab5b8]... ,
+- (a) (if a parliamentary general election) with the date of the dissolution of Parliament [^c-55584b88bb7551bed837edec0a4ab5b8]... ,
 - (b) (if a parliamentary by-election) with the date of the issue of the writ for the election or any earlier date on which a certificate of the vacancy is notified in the London Gazette in accordance with the [^c14496151]Recess Elections Act 1975, or
 - (c) (if a local government election) with the last date for publication of notice of the election,
 
@@ -47,7 +47,7 @@ and ending with the close of the poll.
 - “**candidate**”, in relation to an election, means a candidate standing nominated at the election or included in a list of candidates submitted in connection with it;
 - “**relevant services**”—
   - (a) in relation to the British Broadcasting Corporation or Sianel Pedwar Cymru, means services broadcast by that body;
-  - (b) in relation to the Office of Communications, means services licensed under Part 1 or 3 of the Broadcasting Act 1990 or Part 1 or 2 of the Broadcasting Act 1996[^c19326911] or services that are Tier 1 services within the meaning given by section 368HA of the Communications Act 2003[^key-bce102c623aca1ff84cf5466ec62eaaf].
+  - (b) in relation to the Office of Communications, means services licensed under Part 1 or 3 of the Broadcasting Act 1990 or Part 1 or 2 of the Broadcasting Act 1996[^c19326911] or services that are Tier 1 services within the meaning given by section 368HA of the Communications Act 2003[^c-bce102c623aca1ff84cf5466ec62eaaf].
 
 ## Annotations
 
@@ -59,7 +59,7 @@ and ending with the close of the poll.
 
 [^c19326821]: Textual amendment: Words in s. 93(4) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 406(1)](https://www.legislation.gov.uk/ukpga/2003/21/section/406/1), [408](https://www.legislation.gov.uk/ukpga/2003/21/section/408), [411](https://www.legislation.gov.uk/ukpga/2003/21/section/411), [Sch. 17 para. 62(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/62/2) (with transitional provisions in [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-55584b88bb7551bed837edec0a4ab5b8]: Textual amendment: Words in s. 93(5)(a) omitted (15.9.2011) by virtue of [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/8) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
+[^c-55584b88bb7551bed837edec0a4ab5b8]: Textual amendment: Words in s. 93(5)(a) omitted (15.9.2011) by virtue of [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/8) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
 
 [^c14496151]: Marginal citation: [1975 c. 66](https://www.legislation.gov.uk/ukpga/1975/66).
 
@@ -67,4 +67,4 @@ and ending with the close of the poll.
 
 [^c19326911]: Textual amendment: S. 93(6): words in definition "relevant services" substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 406(1)](https://www.legislation.gov.uk/ukpga/2003/21/section/406/1), [408](https://www.legislation.gov.uk/ukpga/2003/21/section/408), [411](https://www.legislation.gov.uk/ukpga/2003/21/section/411), [Sch. 17 para. 62(3)(b)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/62/3/b) (with transitional provisions in [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-bce102c623aca1ff84cf5466ec62eaaf]: Textual amendment: Words in [s. 93(6)](https://www.legislation.gov.uk/ukpga/1983/2/section/93/6) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/1); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)
+[^c-bce102c623aca1ff84cf5466ec62eaaf]: Textual amendment: Words in [s. 93(6)](https://www.legislation.gov.uk/ukpga/1983/2/section/93/6) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/1); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)

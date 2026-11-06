@@ -80,14 +80,14 @@ Article 2
 |  |  |  |
 | --- | --- | --- |
 | (1) Name or other designation of the offshore installation | (2) Latitude | (3) Longitude |
-| CATS T1[^key-88647ab7644256f0d4bcd7f0c888a804], Block 22/9, Andrew Field | 57°42.667'N | 01°43.466'E |
-| CATS T5[^key-03f05164b9d279f36bdc732e3df8e4cd], Block 22/27a, Banff Field | 57°01.752'N | 01°12.124'E |
+| CATS T1[^c-88647ab7644256f0d4bcd7f0c888a804], Block 22/9, Andrew Field | 57°42.667'N | 01°43.466'E |
+| CATS T5[^c-03f05164b9d279f36bdc732e3df8e4cd], Block 22/27a, Banff Field | 57°01.752'N | 01°12.124'E |
 | Buzzard Gas Export PLEM, Block 13/30c, Buzzard Field | 58°03.793'N | 01°02.013'W |
 | Buzzard Oil Export PLEM, Block 20/11, Buzzard Field | 57°33.961'N | 00°53.716'W |
-| CATS T2[^key-b911c65e3801d3ee4389312726bcc9c3], Block 22/18a, ETAP Field | 57°21.983'N | 01°28.119'E |
+| CATS T2[^c-b911c65e3801d3ee4389312726bcc9c3], Block 22/18a, ETAP Field | 57°21.983'N | 01°28.119'E |
 | Europa (EZ), Block 49/22, Europa Field | 53°14.824'N | 02°17.743'E |
 | Ganymede (ZD), Block 49/22, Ganymede Field | 53°19.439'N | 02°14.199'E |
-| CATS T6[^key-2f05b39ca278f0effd825bbd92871547], Block 29/12, Judy Field | 56°39.793'N | 01°12.112'E |
+| CATS T6[^c-2f05b39ca278f0effd825bbd92871547], Block 29/12, Judy Field | 56°39.793'N | 01°12.112'E |
 | LOGGS Complex PA, Block 49/16, LOGGS Field | 53°23.399'N | 02°00.135'E |
 | LOGGS Complex PC, Block 49/16, LOGGS Field | 53°23.379'N | 02°00.185'E |
 | LOGGS Complex PP, Block 49/16, LOGGS Field | 53°23.354'N | 02°00.228'E |
@@ -122,7 +122,7 @@ Article 2
 |  |  |  |
 | --- | --- | --- |
 | (1) Name or other designation of the offshore installation | (2) Latitude | (3) Longitude |
-| [^key-0e766a374bf32d1533fcd1ae30778396]. . . | [^key-0e766a374bf32d1533fcd1ae30778396]. . . | [^key-0e766a374bf32d1533fcd1ae30778396]. . . |
+| [^c-0e766a374bf32d1533fcd1ae30778396]. . . | [^c-0e766a374bf32d1533fcd1ae30778396]. . . | [^c-0e766a374bf32d1533fcd1ae30778396]. . . |
 | Lancaster Turret Mooring System and Buoy, Block 205/21a, Lancaster Field | 60°10.79'N | 03°52.20'W |
 
 *(This note is not part of the Order)*
@@ -180,12 +180,12 @@ Article 3 removes one safety zone (Ettrick FPSO Centre) established under the Of
 
 [^c23327771]: Marginal citation: [S.I. 2016/309](https://www.legislation.gov.uk/uksi/2016/309) to which there are amendments not relevant to this Order.
 
-[^key-88647ab7644256f0d4bcd7f0c888a804]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2018/807/schedule/part/1) substituted (20.12.2018) by [The Offshore Installations (Safety Zones) (No. 2) Order 2018 (S.I. 2018/1281)](https://www.legislation.gov.uk/uksi/2018/1281), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2018/1281/article/3/1)
+[^c-88647ab7644256f0d4bcd7f0c888a804]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2018/807/schedule/part/1) substituted (20.12.2018) by [The Offshore Installations (Safety Zones) (No. 2) Order 2018 (S.I. 2018/1281)](https://www.legislation.gov.uk/uksi/2018/1281), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2018/1281/article/3/1)
 
-[^key-03f05164b9d279f36bdc732e3df8e4cd]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2018/807/schedule/part/1) substituted (20.12.2018) by [The Offshore Installations (Safety Zones) (No. 2) Order 2018 (S.I. 2018/1281)](https://www.legislation.gov.uk/uksi/2018/1281), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/3/2)
+[^c-03f05164b9d279f36bdc732e3df8e4cd]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2018/807/schedule/part/1) substituted (20.12.2018) by [The Offshore Installations (Safety Zones) (No. 2) Order 2018 (S.I. 2018/1281)](https://www.legislation.gov.uk/uksi/2018/1281), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/3/2)
 
-[^key-b911c65e3801d3ee4389312726bcc9c3]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2018/807/schedule/part/1) substituted (20.12.2018) by [The Offshore Installations (Safety Zones) (No. 2) Order 2018 (S.I. 2018/1281)](https://www.legislation.gov.uk/uksi/2018/1281), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/1281/article/3/3)
+[^c-b911c65e3801d3ee4389312726bcc9c3]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2018/807/schedule/part/1) substituted (20.12.2018) by [The Offshore Installations (Safety Zones) (No. 2) Order 2018 (S.I. 2018/1281)](https://www.legislation.gov.uk/uksi/2018/1281), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/1281/article/3/3)
 
-[^key-2f05b39ca278f0effd825bbd92871547]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2018/807/schedule/part/1) substituted (20.12.2018) by [The Offshore Installations (Safety Zones) (No. 2) Order 2018 (S.I. 2018/1281)](https://www.legislation.gov.uk/uksi/2018/1281), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2018/1281/article/3/4)
+[^c-2f05b39ca278f0effd825bbd92871547]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2018/807/schedule/part/1) substituted (20.12.2018) by [The Offshore Installations (Safety Zones) (No. 2) Order 2018 (S.I. 2018/1281)](https://www.legislation.gov.uk/uksi/2018/1281), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1281/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2018/1281/article/3/4)
 
-[^key-0e766a374bf32d1533fcd1ae30778396]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2018/807/schedule/part/2) omitted (21.8.2019) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2019 (S.I. 2019/1166)](https://www.legislation.gov.uk/uksi/2019/1166), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1166/article/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1166/article/4)
+[^c-0e766a374bf32d1533fcd1ae30778396]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2018/807/schedule/part/2) omitted (21.8.2019) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2019 (S.I. 2019/1166)](https://www.legislation.gov.uk/uksi/2019/1166), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1166/article/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1166/article/4)

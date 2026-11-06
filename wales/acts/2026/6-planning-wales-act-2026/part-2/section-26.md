@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Power to direct authority to submit plan for approval[^key-d25a6244c4c160a7b94c933d90647a6f]
+## 26. Power to direct authority to submit plan for approval[^c-d25a6244c4c160a7b94c933d90647a6f]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d25a6244c4c160a7b94c933d90647a6f]: Commencement: S. 26 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d25a6244c4c160a7b94c933d90647a6f]: Commencement: S. 26 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

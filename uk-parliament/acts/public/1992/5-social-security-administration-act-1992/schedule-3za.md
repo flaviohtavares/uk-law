@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3ZA — Recovery of amounts from bank accounts etc[^key-1f87af80419c0dff4ef0c4a1e7d49c08]
+## Schedule 3ZA — Recovery of amounts from bank accounts etc[^c-1f87af80419c0dff4ef0c4a1e7d49c08]
 
 *Extent: E+W+S+N.I.*
 
@@ -581,4 +581,4 @@ and “holder” is to be read accordingly.
 
 ## Annotations
 
-[^key-1f87af80419c0dff4ef0c4a1e7d49c08]: Textual amendment: [Sch. 3ZA](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3ZA) inserted (2.12.2025 but only for the purposes of making regulations, 24.6.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b), [Sch. 5](https://www.legislation.gov.uk/ukpga/2025/28/schedule/5) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/g)
+[^c-1f87af80419c0dff4ef0c4a1e7d49c08]: Textual amendment: [Sch. 3ZA](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3ZA) inserted (2.12.2025 but only for the purposes of making regulations, 24.6.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b), [Sch. 5](https://www.legislation.gov.uk/ukpga/2025/28/schedule/5) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/g)

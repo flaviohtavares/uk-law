@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Annual reports[^key-f30f73fa511759e1827e99fc26f76d3f]
+## 19. Annual reports[^c-f30f73fa511759e1827e99fc26f76d3f]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f30f73fa511759e1827e99fc26f76d3f]: Commencement: S. 19 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-f30f73fa511759e1827e99fc26f76d3f]: Commencement: S. 19 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

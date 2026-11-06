@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Application of contribution – 2008 cohort students[^key-7074a6100ce5bfc8875f2d54c6207037]
+## 96. Application of contribution – 2008 cohort students[^c-7074a6100ce5bfc8875f2d54c6207037]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In the case of a 2008 cohort student, the Secretary of State must apply the cont
 
 ## Annotations
 
-[^key-7074a6100ce5bfc8875f2d54c6207037]: Commencement: Reg. 96 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-7074a6100ce5bfc8875f2d54c6207037]: Commencement: Reg. 96 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -27,7 +27,7 @@ summary: ''
 - (a) within the period of 7 days beginning with the end of the reporting period to which it relates; or
 - (b) (if that is not possible in the case of any party to which section 63(1) applies by virtue of section 64(5)) within the period of 7 days beginning with the first day on which the party has a candidate at the election in question.
 
-(2A)[^key-d563077dfc5c7ec7cc2cbf0f70ab0e9e][^c20071091] If a donation report under section 62 or 63 states that the registered party has seen evidence of such description as is prescribed by the Secretary of State in regulations that an individual donor has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983), the report must be accompanied by a copy of the evidence.
+(2A)[^c-d563077dfc5c7ec7cc2cbf0f70ab0e9e][^c20071091] If a donation report under section 62 or 63 states that the registered party has seen evidence of such description as is prescribed by the Secretary of State in regulations that an individual donor has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983), the report must be accompanied by a copy of the evidence.
 
 (3) The treasurer of a registered party commits an offence , without reasonable excuse,[^c20223811] if he fails to comply with the requirements of subsection (1) or (2) in relation to a donation report.
 
@@ -52,7 +52,7 @@ shall apply for the purposes, or in connection with the operation, of subsection
 
 [^c10574301]: Commencement: S. 65 wholly in force at 16.2.2001; s. 65 not in force at Royal Assent, see s. 163(2); s. 65 in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (with [Sch. 1 Pt. II para. 2](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II/paragraph/2))
 
-[^key-d563077dfc5c7ec7cc2cbf0f70ab0e9e]: Modification: S. 65(2A) amendment by 2006 c. 22, Sch. 1 para. 25 extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2)
+[^c-d563077dfc5c7ec7cc2cbf0f70ab0e9e]: Modification: S. 65(2A) amendment by 2006 c. 22, Sch. 1 para. 25 extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2)
 
 [^c20071091]: Textual amendment: S. 65(2A) inserted (E.W.S.) (1.1.2007) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/10/2), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/25); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 

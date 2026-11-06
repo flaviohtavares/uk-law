@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Forfeiture of certain personal (or moveable) property[^key-dc0cf3b3b6e940a52ce1e423dc17edf9][^key-a49fdd2eb17aa032a4c2cbe9d74e5a08][^key-26e00d5b1d03dea17adf1271af066b15][^key-4e0563e6d49953316a79727e8a8389be][^c22725191]
+## 15. Forfeiture of certain personal (or moveable) property[^c-dc0cf3b3b6e940a52ce1e423dc17edf9][^c-a49fdd2eb17aa032a4c2cbe9d74e5a08][^c-26e00d5b1d03dea17adf1271af066b15][^c-4e0563e6d49953316a79727e8a8389be][^c22725191]
 
 *Extent: E+W+S+N.I.*
 
@@ -708,12 +708,12 @@ In Part 5 of the Proceeds of Crime Act 2002 (civil recovery of the proceeds etc 
 
 ## Annotations
 
-[^key-dc0cf3b3b6e940a52ce1e423dc17edf9]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/22/section/15) in force at 31.10.2017 for specified purposes for E.W.S. by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/d)
+[^c-dc0cf3b3b6e940a52ce1e423dc17edf9]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/22/section/15) in force at 31.10.2017 for specified purposes for E.W.S. by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/d)
 
-[^key-a49fdd2eb17aa032a4c2cbe9d74e5a08]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/22/section/15) in force at 30.1.2018 for specified purposes for E.W.S. by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/a)
+[^c-a49fdd2eb17aa032a4c2cbe9d74e5a08]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/22/section/15) in force at 30.1.2018 for specified purposes for E.W.S. by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/a)
 
-[^key-26e00d5b1d03dea17adf1271af066b15]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/22/section/15) in force at 16.4.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/78/regulation/4/b)
+[^c-26e00d5b1d03dea17adf1271af066b15]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/22/section/15) in force at 16.4.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/78/regulation/4/b)
 
-[^key-4e0563e6d49953316a79727e8a8389be]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/22/section/15) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/f)
+[^c-4e0563e6d49953316a79727e8a8389be]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/22/section/15) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/f)
 
 [^c22725191]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/22/section/15) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

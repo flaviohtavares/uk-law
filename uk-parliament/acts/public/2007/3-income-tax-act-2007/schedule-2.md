@@ -120,7 +120,7 @@ is to be read, so far as is required for those relevant tax purposes, as includi
 
 **13.** In this Part “**enactment**” includes subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)).
 
-### Part 4 — Personal reliefs[^key-78e1db072cf5fa95ded05e3cecb0dc50]
+### Part 4 — Personal reliefs[^c-78e1db072cf5fa95ded05e3cecb0dc50]
 
 **No longer in force.**
 
@@ -389,7 +389,7 @@ If sub-paragraph (3) covers more than one tax year, the first restricted year is
 
 **38.** (1) In relation to shares issued before 17 March 2004, section 134(2)(a) applies with the omission of sub-paragraph (iv) and the “and” immediately before it.
 
-(2) In relation to shares issued before 6 April 1998, section 134 applies with the substitution for subsections (2) to (4)[^key-95298c3ed54a0896c8864941c1cab61d] of—
+(2) In relation to shares issued before 6 April 1998, section 134 applies with the substitution for subsections (2) to (4)[^c-95298c3ed54a0896c8864941c1cab61d] of—
 
 > (2) Condition A is that the company either—
 >
@@ -399,25 +399,25 @@ If sub-paragraph (3) covers more than one tax year, the first restricted year is
 > (3) Condition B is that the company either—
 >
 > - (a) has been a trading company for a continuous period of 6 years ending on that date or at that time, or
-> - (b) has been a trading company for a shorter continuous period ending on that date or at that time and has not before[^key-cf3c73c6683683e99393bfdfe1796839] the beginning of that period been an excluded company or an investment company.
+> - (b) has been a trading company for a shorter continuous period ending on that date or at that time and has not before[^c-cf3c73c6683683e99393bfdfe1796839] the beginning of that period been an excluded company or an investment company.
 >
 > (4) Condition C is that none of the shares in the company has been listed on a recognised stock exchange at any time in the period—
 >
 > - (a) beginning with the incorporation of the company or, if later, 12 months before the date on which the shares in question were subscribed for, and
 > - (b) ending with the date on which the shares are disposed of.
 >
-> (5)[^key-7cb3d5fb9b21537826a435fffb7fc905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (5)[^c-7cb3d5fb9b21537826a435fffb7fc905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In relation to shares issued before 7 March 2001, section 134(4)(b) applies with the substitution for “at the relevant time” of “throughout the relevant period”.
 
 (4) For the purposes of sub-paragraph (3), shares that were issued—
 
-- (a) [^key-83d441570965601c00d67fb5a6d438e2]... after 5 April 1998, but
+- (a) [^c-83d441570965601c00d67fb5a6d438e2]... after 5 April 1998, but
 - (b) before 7 March 2001,
 
-are treated as having been issued [^key-83d441570965601c00d67fb5a6d438e2]... after 7 March 2001 in respect of any part of the relevant period which falls [^key-83d441570965601c00d67fb5a6d438e2]... after that date.
+are treated as having been issued [^c-83d441570965601c00d67fb5a6d438e2]... after 7 March 2001 in respect of any part of the relevant period which falls [^c-83d441570965601c00d67fb5a6d438e2]... after that date.
 
-(5)[^key-12acbb79d9c78a06318e2dc8c621ce6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-12acbb79d9c78a06318e2dc8c621ce6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Disposals of new shares
 
@@ -439,7 +439,7 @@ are treated as having been issued [^key-83d441570965601c00d67fb5a6d438e2]... aft
 
 (3) Section 137 does not apply in relation to shares issued before 6 April 1998.
 
-(4)[^key-54225dd7b4e075522d014e4cce11a702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-54225dd7b4e075522d014e4cce11a702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Ceasing to meet trading requirement because of administration or receivership
 
@@ -468,7 +468,7 @@ are treated as having been issued on or after 21 March 2000.
 
 (5) Section 138 does not apply in relation to shares issued before 6 April 1998.
 
-(6)[^key-79d7a3a79f6a17a2e2d16aae3c45e0f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-79d7a3a79f6a17a2e2d16aae3c45e0f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The control and independence requirement
 
@@ -502,21 +502,21 @@ are treated as having been issued on or after 21 March 2000.
 
 (4) Section 139 does not apply in relation to shares issued before 6 April 1998.
 
-(5)[^key-4e40a86c92e5d858b84e97bdb40fbbd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4e40a86c92e5d858b84e97bdb40fbbd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-4e40a86c92e5d858b84e97bdb40fbbd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4e40a86c92e5d858b84e97bdb40fbbd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The qualifying subsidiaries requirement
 
 **43.** (1) Section 140 does not apply in relation to shares issued before 6 April 1998.
 
-(2)[^key-ce4ff7ca5a258efeae54ed1116522ec0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ce4ff7ca5a258efeae54ed1116522ec0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The property managing subsidiaries requirement
 
 **44.** (1) Section 141 does not apply in relation to shares issued before 17 March 2004.
 
-(2)[^key-217a6ecfdfc42be75fa69d75d2346594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-217a6ecfdfc42be75fa69d75d2346594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The gross assets requirement
 
@@ -529,7 +529,7 @@ are treated as having been issued on or after 21 March 2000.
 
 (3) Section 142 does not apply in relation to shares issued before 6 April 1998.
 
-(4)[^key-3e539047ee05d1af2704ed4872ed5e89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3e539047ee05d1af2704ed4872ed5e89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The unquoted status requirement
 
@@ -559,29 +559,29 @@ are treated as having been issued on or after 21 March 2000.
 
 (2) For the purposes of sub-paragraph (1)(a) and (c), shares that were issued—
 
-- (a) [^key-76d6a671e37e90b4fc8a8edea7c2aff4]...after 5 April 1998, but
+- (a) [^c-76d6a671e37e90b4fc8a8edea7c2aff4]...after 5 April 1998, but
 - (b) before 7 March 2001,
 
 are treated as having been issued on or after 7 March 2001 in respect of any part of the relevant period which falls on or after that date.
 
 (3) In the application of sub-paragraph (1)(b) on or after 7 March 2001, shares—
 
-- (a) that were issued [^key-3d669be567483633b0b066af79965a5c]... after 5 April 1998 but before 7 March 2001, and
+- (a) that were issued [^c-3d669be567483633b0b066af79965a5c]... after 5 April 1998 but before 7 March 2001, and
 - (b) to which EIS relief or relief under Schedule 5B to TCGA 1992 was attributable immediately before 7 March 2001,
 
 are treated as having been issued on or after 7 March 2001.
 
 (4) Section 143 does not apply in relation to shares issued before 6 April 1998.
 
-(5)[^key-d332e55760e31ff648d185cdebf1b9d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d332e55760e31ff648d185cdebf1b9d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-d332e55760e31ff648d185cdebf1b9d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d332e55760e31ff648d185cdebf1b9d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Power to amend requirements by Treasury order
 
 **47.** (1) Section 144 does not apply in relation to shares issued before 6 April 1998.
 
-(2)[^key-335c3b966e4a2a9642bc3b1eb4d9ee6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-335c3b966e4a2a9642bc3b1eb4d9ee6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Relief after an exchange of shares for shares in another company
 
@@ -598,15 +598,15 @@ are treated as having been issued on or after 7 March 2001.
 
 (2) Section 145 does not apply in relation to shares issued before 6 April 1998.
 
-(3)[^key-6450fe11617d77019e4c790324b2a139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6450fe11617d77019e4c790324b2a139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-6450fe11617d77019e4c790324b2a139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6450fe11617d77019e4c790324b2a139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Substitution of new shares for old shares
 
 **49.** (1) Section 146 does not apply in relation to shares issued before 6 April 1998.
 
-(2)[^key-3f99d8d1f624165562f5fe706a9e9a6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3f99d8d1f624165562f5fe706a9e9a6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Interpretation of Chapter
 
@@ -615,9 +615,9 @@ are treated as having been issued on or after 7 March 2001.
 - (a) in the definition of “excluded company” in subsection (1), the substitution for “in land, in commodities or futures or in shares, securities or other financial instruments” of “in shares, securities, land, trades or commodity futures”,
 - (b) in subsection (7), the insertion after “excluded company” of “or is a non-UK resident”.
 
-(2)[^key-e7d3300b9a6520d8bbef12ebea89bb02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e7d3300b9a6520d8bbef12ebea89bb02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e7d3300b9a6520d8bbef12ebea89bb02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e7d3300b9a6520d8bbef12ebea89bb02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “qualifying subsidiary”
 
@@ -644,14 +644,14 @@ are treated as having been issued on or after 7 March 2001.
 - (h) in subsection (5)(b), the substitution for “is not to be” of “not”, and
 - (i) after subsection (5), the insertion of—
 
-  > (6) The persons who are equity holders of a subsidiary, and the percentage of the assets of a subsidiary to which an equity holder would be entitled, is to be determined in accordance with Chapter 6 of Part 5 of CTA 2010[^key-fb9cb0d1d3c92cf1567053b2c4eb6477] , taking—
+  > (6) The persons who are equity holders of a subsidiary, and the percentage of the assets of a subsidiary to which an equity holder would be entitled, is to be determined in accordance with Chapter 6 of Part 5 of CTA 2010[^c-fb9cb0d1d3c92cf1567053b2c4eb6477] , taking—
   >
-  > - (a) references in section 166 of that Act to company A[^key-f97506877f4e19c80e8263cd5ee79be5] as references to an equity holder, and
+  > - (a) references in section 166 of that Act to company A[^c-f97506877f4e19c80e8263cd5ee79be5] as references to an equity holder, and
   > - (b) references to a winding up as including references to any other circumstances in which assets of the subsidiary are available for distribution to its equity holders.
 
-(2)[^key-ec159141c35c27068ee2b38a4103d740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ec159141c35c27068ee2b38a4103d740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ec159141c35c27068ee2b38a4103d740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ec159141c35c27068ee2b38a4103d740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “excluded activities”
 
@@ -668,7 +668,7 @@ are treated as having been issued on or after 7 March 2001.
 
 are treated as having been issued on or after 7 March 2001.
 
-(3)[^key-b16adcb37eab4235b61237e1451512b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b16adcb37eab4235b61237e1451512b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Excluded activities: wholesale and retail distribution
 
@@ -677,7 +677,7 @@ are treated as having been issued on or after 7 March 2001.
 - (a) the insertion after “held” of “by the company”, and
 - (b) the substitution for “the trader” of “a vendor”.
 
-(2)[^key-368cb8f791107f77baa5ac0f3dccba7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-368cb8f791107f77baa5ac0f3dccba7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Excluded activities: leasing of ships
 
@@ -693,7 +693,7 @@ are treated as having been issued on or after 7 March 2001.
 
   .
 
-(3)[^key-86e18f080a4266ab80e60992f2cf036a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-86e18f080a4266ab80e60992f2cf036a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Excluded activities: receipt of royalties and licence fees
 
@@ -717,9 +717,9 @@ are treated as having been issued on or after 7 March 2001.
 >
 > (4) In this section “**the relevant period**” means the continuous period that is relevant for the purposes of section 134(3).
 
-(2)[^key-e20dd70b2227e3c2113a0bfc9b955e63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e20dd70b2227e3c2113a0bfc9b955e63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e20dd70b2227e3c2113a0bfc9b955e63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e20dd70b2227e3c2113a0bfc9b955e63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Excluded activities: provision of services or facilities for another business
 
@@ -733,7 +733,7 @@ are treated as having been issued on or after 7 March 2001.
 
   .
 
-(2)[^key-9f71c410251ef31d547f09aa27994a6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9f71c410251ef31d547f09aa27994a6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of a company being “in administration”
 
@@ -773,11 +773,11 @@ are treated as having been issued on or after 7 March 2001.
 
 are treated as having been issued on or after 21 March 2000.
 
-(7)[^key-f7128c692bdb85fb0a0ef92ebbfe8631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f7128c692bdb85fb0a0ef92ebbfe8631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-f7128c692bdb85fb0a0ef92ebbfe8631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f7128c692bdb85fb0a0ef92ebbfe8631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Application in relation to corresponding bonus shares[^key-2ed6b044e7a49af9383bf88661f7438a]
+#### Application in relation to corresponding bonus shares[^c-2ed6b044e7a49af9383bf88661f7438a]
 
 **57A.** (1) For the purposes of this Part of this Schedule, if—
 
@@ -876,7 +876,7 @@ until such time as company A ceases to hold investments in company B.
 
 #### The no guaranteed loan requirement
 
-**69.** For the purpose of determining whether shares or securities are to be regarded as comprised in a company's qualifying holdings, section 288 does not apply in relation to shares or securities acquired before 6 April 2018[^key-91c2abbf43bcdaed5d639beea5fdc5b1] by a company by means of the investment of—
+**69.** For the purpose of determining whether shares or securities are to be regarded as comprised in a company's qualifying holdings, section 288 does not apply in relation to shares or securities acquired before 6 April 2018[^c-91c2abbf43bcdaed5d639beea5fdc5b1] by a company by means of the investment of—
 
 - (a) money raised by the issue before 2 July 1997 of shares in or securities of the investing company, or
 - (b) money derived from the investment by that company of any such money.
@@ -890,7 +890,7 @@ until such time as company A ceases to hold investments in company B.
 
 that section applies in relation to that holding as if the old investments were not held by the investing company at that time.
 
-(2) In sub-paragraph (1) “**old investments**” means shares in or securities of the relevant company acquired before 6 April 2018[^key-60d985f02527496b7a0615eb40aaaa19] by means of the investment of—
+(2) In sub-paragraph (1) “**old investments**” means shares in or securities of the relevant company acquired before 6 April 2018[^c-60d985f02527496b7a0615eb40aaaa19] by means of the investment of—
 
 - (a) money raised by the issue before 2 July 1997 of shares in or securities of the investing company, or
 - (b) money derived from the investment by that company of any such money.
@@ -948,7 +948,7 @@ that section applies in relation to that holding as if the old investments were 
 >
 > (3) Condition B is that the trader company would meet that requirement if its purposes were ignored so far as they consist in the carrying on of activities in section 290(5).
 >
-> (4) Condition C is that the trader company is a qualifying 90% subsidiary of the relevant company[^key-b99e7656419fa5e01d3cc9d1148344a1] and—
+> (4) Condition C is that the trader company is a qualifying 90% subsidiary of the relevant company[^c-b99e7656419fa5e01d3cc9d1148344a1] and—
 >
 > - (a) apart from incidental purposes, it exists wholly for the purposes of carrying on activities such as those in section 290(5)(c) and (d), or
 > - (b) it has no profits for the purposes of corporation tax and no part of its business consists in the making of investments.
@@ -1010,14 +1010,14 @@ are treated as having been issued before 6 April 2006.
 - (e) in subsection (5), the substitution for paragraphs (a) and (b) of “is to be for genuine commercial reasons, and not part of a scheme or arrangement the main purpose or one of the main purposes of which is the avoidance of tax”,
 - (f) after subsection (5) the insertion of—
 
-  > (6) For the purposes of this section the persons who are equity holders of a subsidiary, and the percentage of the assets of the subsidiary to which an equity holder would be entitled, is to be determined in accordance with Chapter 6 of Part 5 of CTA 2010[^key-915b02bfaec574070eac2aab411a2400], taking—
+  > (6) For the purposes of this section the persons who are equity holders of a subsidiary, and the percentage of the assets of the subsidiary to which an equity holder would be entitled, is to be determined in accordance with Chapter 6 of Part 5 of CTA 2010[^c-915b02bfaec574070eac2aab411a2400], taking—
   >
-  > - (a) references in section 166 of that Act to company A[^key-d71da6aaeef04c880e41bd854a640036] as references to the equity holder, and
+  > - (a) references in section 166 of that Act to company A[^c-d71da6aaeef04c880e41bd854a640036] as references to the equity holder, and
   > - (b) references to a winding up as including references to any other circumstances in which assets of the subsidiary are available for distribution to its equity holders.
 
 #### Meaning of “excluded activities”
 
-**81.** For the purpose of determining whether shares or securities are to be regarded as comprised in a company's qualifying holdings at any time, section 303(1)(g) to (k) (and accordingly sections 307 to 309) do not apply in relation to shares or securities acquired before 6 April 2018[^key-23077bce16ffc2e9b54c00f02994feb7] by the company by means of the investment of—
+**81.** For the purpose of determining whether shares or securities are to be regarded as comprised in a company's qualifying holdings at any time, section 303(1)(g) to (k) (and accordingly sections 307 to 309) do not apply in relation to shares or securities acquired before 6 April 2018[^c-23077bce16ffc2e9b54c00f02994feb7] by the company by means of the investment of—
 
 - (a) money raised by the issue before 17 March 1998 of shares in or securities of the investing company, or
 - (b) money derived from the investment by that company of any such money.
@@ -1197,7 +1197,7 @@ any question whether the investments are shares for those purposes of the Part 6
 
 #### Gift aid: gifts of money for relief in poor countries
 
-**98.**[^key-0b1ba3ec81e083faf7aaa92aee4b0afe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**98.**[^c-0b1ba3ec81e083faf7aaa92aee4b0afe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Gift aid: restrictions on associated benefits
 
@@ -1300,9 +1300,9 @@ any question whether the investments are shares for those purposes of the Part 6
 
 #### Transactions with substantial donors
 
-**105.**[^key-ef1dc2ac4464672564f0be7e5ab519ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**105.**[^c-ef1dc2ac4464672564f0be7e5ab519ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**106.**[^key-e05fa145701a3c860290e0cd47f893ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**106.**[^c-e05fa145701a3c860290e0cd47f893ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Non-charitable expenditure
 
@@ -1320,51 +1320,51 @@ any question whether the investments are shares for those purposes of the Part 6
 
 as those provisions would have had effect in relation to the carry back tax year if the amendments made to them by section 55 of FA 2006 had not been made and the amendments made to them by this Act had not been made.
 
-### ... — ...[^key-b9c48db0cd694de5698eaf589c9308a5][^key-b9c48db0cd694de5698eaf589c9308a5]
+### ... — ...[^c-b9c48db0cd694de5698eaf589c9308a5][^c-b9c48db0cd694de5698eaf589c9308a5]
 
-#### ...[^key-b9c48db0cd694de5698eaf589c9308a5]
+#### ...[^c-b9c48db0cd694de5698eaf589c9308a5]
 
-**108.**[^key-294f04e7385d50ec4722bf5a8ba2d39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**108.**[^c-294f04e7385d50ec4722bf5a8ba2d39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**109.**[^key-294f04e7385d50ec4722bf5a8ba2d39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**109.**[^c-294f04e7385d50ec4722bf5a8ba2d39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**110.**[^key-294f04e7385d50ec4722bf5a8ba2d39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**110.**[^c-294f04e7385d50ec4722bf5a8ba2d39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Deemed manufactured payments: stock lending arrangements
 
-**111.**[^key-294f04e7385d50ec4722bf5a8ba2d39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**111.**[^c-294f04e7385d50ec4722bf5a8ba2d39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**112.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**112.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**113.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**113.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Deemed manufactured payments: repos
 
-**114.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**114.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**115.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**115.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**116.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**116.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**117.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**117.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**118.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**118.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Price differences under repos
 
-**119.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**119.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**120.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**120.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**121.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**121.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**122.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**122.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**123.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**123.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Powers to modify repo provisions
 
-**124.**[^key-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**124.**[^c-a0a3d47531ca0f0f2b51eeada1d66c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 13 — Accrued income profits
 
@@ -1582,9 +1582,9 @@ but see section 698(5) (under which no assessments may be made as a result of a 
 
   > “**relevant individual**” means—
   >
-  > - (a) a limited partner (within the meaning given by section 103A[^key-647f0327431900a507e6f6683df8a428] of ITA 2007),
+  > - (a) a limited partner (within the meaning given by section 103A[^c-647f0327431900a507e6f6683df8a428] of ITA 2007),
   > - (b) a member of a limited liability partnership, or
-  > - (c) a non-active partner (within the meaning given by section 103B[^key-85f88207d88cf283fa00761daad4a3b1] of ITA 2007),
+  > - (c) a non-active partner (within the meaning given by section 103B[^c-85f88207d88cf283fa00761daad4a3b1] of ITA 2007),
   >
   > where the partnership carries on a trade in which the individual makes a film-related loss (as defined in section 800(2) of ITA 2007) for which the individual makes a claim as mentioned in section 802(1) of that Act;
 
@@ -1629,13 +1629,13 @@ but see section 698(5) (under which no assessments may be made as a result of a 
 
 #### Deduction by deposit-takers: discretionary or accumulation settlements
 
-**154.**[^key-efa5898077712adbc1fa9e3b46970182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**154.**[^c-efa5898077712adbc1fa9e3b46970182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**155.**[^key-efa5898077712adbc1fa9e3b46970182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**155.**[^c-efa5898077712adbc1fa9e3b46970182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Deduction by deposit-takers and building societies: declarations of non-UK residence
 
-**156.**[^key-efa5898077712adbc1fa9e3b46970182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**156.**[^c-efa5898077712adbc1fa9e3b46970182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Deduction by deposit-takers: qualifying certificates of deposit
 
@@ -1755,9 +1755,9 @@ this paragraph applies to the interest mentioned in sub-paragraph (6).
 
 #### Unauthorised unit trusts: calculation of trustees' income pool
 
-**167.**[^key-efdbbcf7b4f3385dd19218de682e3150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**167.**[^c-efdbbcf7b4f3385dd19218de682e3150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**168.**[^key-021994f7f0376341c034c2bac3da30b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**168.**[^c-021994f7f0376341c034c2bac3da30b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Non-resident landlords
 
@@ -1781,94 +1781,94 @@ this paragraph applies to the interest mentioned in sub-paragraph (6).
 
 ## Annotations
 
-[^key-78e1db072cf5fa95ded05e3cecb0dc50]: Textual amendment: Sch. 2 Pt. 4 omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(o)(vii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/o/vii)
+[^c-78e1db072cf5fa95ded05e3cecb0dc50]: Textual amendment: Sch. 2 Pt. 4 omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(o)(vii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/o/vii)
 
-[^key-95298c3ed54a0896c8864941c1cab61d]: Textual amendment: Words in [Sch. 2 para. 38(2)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/38/2) substituted (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(a)(iv)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/a/iv)
+[^c-95298c3ed54a0896c8864941c1cab61d]: Textual amendment: Words in [Sch. 2 para. 38(2)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/38/2) substituted (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(a)(iv)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/a/iv)
 
-[^key-cf3c73c6683683e99393bfdfe1796839]: Textual amendment: Words in Sch. 2 para. 38(2) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [Income Tax Act 2007 (Amendment) Order 2007 (S.I. 2007/940)](https://www.legislation.gov.uk/uksi/2007/940), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/940/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2007/940/article/2/2/a)
+[^c-cf3c73c6683683e99393bfdfe1796839]: Textual amendment: Words in Sch. 2 para. 38(2) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [Income Tax Act 2007 (Amendment) Order 2007 (S.I. 2007/940)](https://www.legislation.gov.uk/uksi/2007/940), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/940/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2007/940/article/2/2/a)
 
-[^key-7cb3d5fb9b21537826a435fffb7fc905]: Textual amendment: Words in [Sch. 2 para. 38(2)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/38/2) omitted (with effect in accordance with s. 38(3) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(a)(iv)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/a/iv)
+[^c-7cb3d5fb9b21537826a435fffb7fc905]: Textual amendment: Words in [Sch. 2 para. 38(2)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/38/2) omitted (with effect in accordance with s. 38(3) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(a)(iv)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/a/iv)
 
-[^key-83d441570965601c00d67fb5a6d438e2]: Textual amendment: Words in Sch. 2 para. 38(4) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [Income Tax Act 2007 (Amendment) Order 2007 (S.I. 2007/940)](https://www.legislation.gov.uk/uksi/2007/940), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/940/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2007/940/article/2/2/b)
+[^c-83d441570965601c00d67fb5a6d438e2]: Textual amendment: Words in Sch. 2 para. 38(4) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [Income Tax Act 2007 (Amendment) Order 2007 (S.I. 2007/940)](https://www.legislation.gov.uk/uksi/2007/940), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/940/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2007/940/article/2/2/b)
 
-[^key-12acbb79d9c78a06318e2dc8c621ce6e]: Textual amendment: Sch. 2 para. 38(5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-12acbb79d9c78a06318e2dc8c621ce6e]: Textual amendment: Sch. 2 para. 38(5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-54225dd7b4e075522d014e4cce11a702]: Textual amendment: Sch. 2 para. 40(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-54225dd7b4e075522d014e4cce11a702]: Textual amendment: Sch. 2 para. 40(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-79d7a3a79f6a17a2e2d16aae3c45e0f4]: Textual amendment: Sch. 2 para. 41(6) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-79d7a3a79f6a17a2e2d16aae3c45e0f4]: Textual amendment: Sch. 2 para. 41(6) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-4e40a86c92e5d858b84e97bdb40fbbd7]: Textual amendment: Sch. 2 para. 42(5)(6) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4e40a86c92e5d858b84e97bdb40fbbd7]: Textual amendment: Sch. 2 para. 42(5)(6) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ce4ff7ca5a258efeae54ed1116522ec0]: Textual amendment: Sch. 2 para. 43(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ce4ff7ca5a258efeae54ed1116522ec0]: Textual amendment: Sch. 2 para. 43(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-217a6ecfdfc42be75fa69d75d2346594]: Textual amendment: Sch. 2 para. 44(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-217a6ecfdfc42be75fa69d75d2346594]: Textual amendment: Sch. 2 para. 44(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-3e539047ee05d1af2704ed4872ed5e89]: Textual amendment: Sch. 2 para. 45(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-3e539047ee05d1af2704ed4872ed5e89]: Textual amendment: Sch. 2 para. 45(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-76d6a671e37e90b4fc8a8edea7c2aff4]: Textual amendment: Words in Sch. 2 para. 46(2)(a) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [Income Tax Act 2007 (Amendment) Order 2007 (S.I. 2007/940)](https://www.legislation.gov.uk/uksi/2007/940), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/940/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/940/article/2/3)
+[^c-76d6a671e37e90b4fc8a8edea7c2aff4]: Textual amendment: Words in Sch. 2 para. 46(2)(a) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [Income Tax Act 2007 (Amendment) Order 2007 (S.I. 2007/940)](https://www.legislation.gov.uk/uksi/2007/940), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/940/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/940/article/2/3)
 
-[^key-3d669be567483633b0b066af79965a5c]: Textual amendment: Words in Sch. 2 para. 46(3)(a) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [Income Tax Act 2007 (Amendment) Order 2007 (S.I. 2007/940)](https://www.legislation.gov.uk/uksi/2007/940), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/940/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/940/article/2/3)
+[^c-3d669be567483633b0b066af79965a5c]: Textual amendment: Words in Sch. 2 para. 46(3)(a) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [Income Tax Act 2007 (Amendment) Order 2007 (S.I. 2007/940)](https://www.legislation.gov.uk/uksi/2007/940), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/940/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/940/article/2/3)
 
-[^key-d332e55760e31ff648d185cdebf1b9d0]: Textual amendment: Sch. 2 para. 46(5)(6) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d332e55760e31ff648d185cdebf1b9d0]: Textual amendment: Sch. 2 para. 46(5)(6) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-335c3b966e4a2a9642bc3b1eb4d9ee6a]: Textual amendment: Sch. 2 para. 47(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-335c3b966e4a2a9642bc3b1eb4d9ee6a]: Textual amendment: Sch. 2 para. 47(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-6450fe11617d77019e4c790324b2a139]: Textual amendment: Sch. 2 para. 48(3)(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-6450fe11617d77019e4c790324b2a139]: Textual amendment: Sch. 2 para. 48(3)(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-3f99d8d1f624165562f5fe706a9e9a6e]: Textual amendment: Sch. 2 para. 49(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-3f99d8d1f624165562f5fe706a9e9a6e]: Textual amendment: Sch. 2 para. 49(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-e7d3300b9a6520d8bbef12ebea89bb02]: Textual amendment: Sch. 2 para. 50(2)(3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e7d3300b9a6520d8bbef12ebea89bb02]: Textual amendment: Sch. 2 para. 50(2)(3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-fb9cb0d1d3c92cf1567053b2c4eb6477]: Textual amendment: Words in Sch. 2 para. 51(1)(i) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 571(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/571/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-fb9cb0d1d3c92cf1567053b2c4eb6477]: Textual amendment: Words in Sch. 2 para. 51(1)(i) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 571(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/571/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f97506877f4e19c80e8263cd5ee79be5]: Textual amendment: Words in Sch. 2 para. 51(1)(i) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 571(2)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/571/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f97506877f4e19c80e8263cd5ee79be5]: Textual amendment: Words in Sch. 2 para. 51(1)(i) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 571(2)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/571/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ec159141c35c27068ee2b38a4103d740]: Textual amendment: Sch. 2 para. 51(2)(3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ec159141c35c27068ee2b38a4103d740]: Textual amendment: Sch. 2 para. 51(2)(3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-b16adcb37eab4235b61237e1451512b5]: Textual amendment: Sch. 2 para. 52(3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b16adcb37eab4235b61237e1451512b5]: Textual amendment: Sch. 2 para. 52(3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-368cb8f791107f77baa5ac0f3dccba7e]: Textual amendment: Sch. 2 para. 53(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-368cb8f791107f77baa5ac0f3dccba7e]: Textual amendment: Sch. 2 para. 53(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-86e18f080a4266ab80e60992f2cf036a]: Textual amendment: Sch. 2 para. 54(3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-86e18f080a4266ab80e60992f2cf036a]: Textual amendment: Sch. 2 para. 54(3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-e20dd70b2227e3c2113a0bfc9b955e63]: Textual amendment: Sch. 2 para. 55(2)(3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e20dd70b2227e3c2113a0bfc9b955e63]: Textual amendment: Sch. 2 para. 55(2)(3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-9f71c410251ef31d547f09aa27994a6b]: Textual amendment: Sch. 2 para. 56(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9f71c410251ef31d547f09aa27994a6b]: Textual amendment: Sch. 2 para. 56(2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f7128c692bdb85fb0a0ef92ebbfe8631]: Textual amendment: Sch. 2 para. 57(7)(8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f7128c692bdb85fb0a0ef92ebbfe8631]: Textual amendment: Sch. 2 para. 57(7)(8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-2ed6b044e7a49af9383bf88661f7438a]: Textual amendment: Sch. 2 para. 57A and cross-heading inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 571(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/571/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2ed6b044e7a49af9383bf88661f7438a]: Textual amendment: Sch. 2 para. 57A and cross-heading inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 571(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/571/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-91c2abbf43bcdaed5d639beea5fdc5b1]: Textual amendment: Words in [Sch. 2 para. 69](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/69) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/8/2), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
+[^c-91c2abbf43bcdaed5d639beea5fdc5b1]: Textual amendment: Words in [Sch. 2 para. 69](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/69) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/8/2), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
 
-[^key-60d985f02527496b7a0615eb40aaaa19]: Textual amendment: Words in [Sch. 2 para. 70(2)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/70/2) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 8(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/8/3), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
+[^c-60d985f02527496b7a0615eb40aaaa19]: Textual amendment: Words in [Sch. 2 para. 70(2)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/70/2) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 8(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/8/3), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
 
-[^key-b99e7656419fa5e01d3cc9d1148344a1]: Textual amendment: Words in Sch. 2 para. 75(2) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [Income Tax Act 2007 (Amendment) (No.2) Order 2007 (S.I. 2007/1820)](https://www.legislation.gov.uk/uksi/2007/1820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1820/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2007/1820/article/4/3)
+[^c-b99e7656419fa5e01d3cc9d1148344a1]: Textual amendment: Words in Sch. 2 para. 75(2) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [Income Tax Act 2007 (Amendment) (No.2) Order 2007 (S.I. 2007/1820)](https://www.legislation.gov.uk/uksi/2007/1820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1820/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2007/1820/article/4/3)
 
-[^key-915b02bfaec574070eac2aab411a2400]: Textual amendment: Words in Sch. 2 para. 80(f) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 571(4)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/571/4/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-915b02bfaec574070eac2aab411a2400]: Textual amendment: Words in Sch. 2 para. 80(f) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 571(4)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/571/4/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d71da6aaeef04c880e41bd854a640036]: Textual amendment: Words in Sch. 2 para. 80(f) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 571(4)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/571/4/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d71da6aaeef04c880e41bd854a640036]: Textual amendment: Words in Sch. 2 para. 80(f) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 571(4)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/571/4/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-23077bce16ffc2e9b54c00f02994feb7]: Textual amendment: Words in [Sch. 2 para. 81](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/81) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 8(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/8/4), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
+[^c-23077bce16ffc2e9b54c00f02994feb7]: Textual amendment: Words in [Sch. 2 para. 81](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/81) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 8(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/8/4), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
 
-[^key-0b1ba3ec81e083faf7aaa92aee4b0afe]: Textual amendment: Sch. 2 para. 98 repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/2/2/c)
+[^c-0b1ba3ec81e083faf7aaa92aee4b0afe]: Textual amendment: Sch. 2 para. 98 repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/2/2/c)
 
-[^key-ef1dc2ac4464672564f0be7e5ab519ca]: Textual amendment: Sch. 2 para. 105 omitted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/14)
+[^c-ef1dc2ac4464672564f0be7e5ab519ca]: Textual amendment: Sch. 2 para. 105 omitted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/14)
 
-[^key-e05fa145701a3c860290e0cd47f893ef]: Textual amendment: Sch. 2 para. 106 omitted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/14)
+[^c-e05fa145701a3c860290e0cd47f893ef]: Textual amendment: Sch. 2 para. 106 omitted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/14)
 
-[^key-b9c48db0cd694de5698eaf589c9308a5]: Textual amendment: Sch. 2 para. 108 crossheadings omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 31](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/31)
+[^c-b9c48db0cd694de5698eaf589c9308a5]: Textual amendment: Sch. 2 para. 108 crossheadings omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 31](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/31)
 
-[^key-294f04e7385d50ec4722bf5a8ba2d39e]: Textual amendment: Sch. 2 paras. 108-111 omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 31](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/31)
+[^c-294f04e7385d50ec4722bf5a8ba2d39e]: Textual amendment: Sch. 2 paras. 108-111 omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 31](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/31)
 
-[^key-a0a3d47531ca0f0f2b51eeada1d66c02]: Textual amendment: Sch. 2 paras. 112-124 omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 15(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/15/4)
+[^c-a0a3d47531ca0f0f2b51eeada1d66c02]: Textual amendment: Sch. 2 paras. 112-124 omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 15(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/15/4)
 
-[^key-647f0327431900a507e6f6683df8a428]: Textual amendment: Word in Sch. 2 para. 148(3)(b) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 19(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/19/a), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-647f0327431900a507e6f6683df8a428]: Textual amendment: Word in Sch. 2 para. 148(3)(b) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 19(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/19/a), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
 
-[^key-85f88207d88cf283fa00761daad4a3b1]: Textual amendment: Word in Sch. 2 para. 148(3)(b) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 19(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/19/b), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-85f88207d88cf283fa00761daad4a3b1]: Textual amendment: Word in Sch. 2 para. 148(3)(b) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 19(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/19/b), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
 
-[^key-efa5898077712adbc1fa9e3b46970182]: Textual amendment: [Sch. 2 paras. 154-156](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/154) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/23)
+[^c-efa5898077712adbc1fa9e3b46970182]: Textual amendment: [Sch. 2 paras. 154-156](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2/paragraph/154) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/23)
 
-[^key-efdbbcf7b4f3385dd19218de682e3150]: Textual amendment: Sch. 2 para. 167 omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(19)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/19) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-efdbbcf7b4f3385dd19218de682e3150]: Textual amendment: Sch. 2 para. 167 omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(19)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/19) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
 
-[^key-021994f7f0376341c034c2bac3da30b2]: Textual amendment: Sch. 2 para. 168 omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(19)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/19) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-021994f7f0376341c034c2bac3da30b2]: Textual amendment: Sch. 2 para. 168 omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(19)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/19) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))

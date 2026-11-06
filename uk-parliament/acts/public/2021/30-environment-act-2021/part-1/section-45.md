@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Meaning of “environmental protection”[^key-8d157ebe553794bfbdc9d21bdeb53301][^key-7e49af6c1d330f1c85a4eb920ff8e22b]
+## 45. Meaning of “environmental protection”[^c-8d157ebe553794bfbdc9d21bdeb53301][^c-7e49af6c1d330f1c85a4eb920ff8e22b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In this Part “**environmental protection**” means—
 
 ## Annotations
 
-[^key-8d157ebe553794bfbdc9d21bdeb53301]: Commencement: S. 45 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-8d157ebe553794bfbdc9d21bdeb53301]: Commencement: S. 45 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-7e49af6c1d330f1c85a4eb920ff8e22b]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2021/30/section/45) in force at 17.11.2021 by [S.I. 2021/1274](https://www.legislation.gov.uk/uksi/2021/1274), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/1274/regulation/2/f)
+[^c-7e49af6c1d330f1c85a4eb920ff8e22b]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2021/30/section/45) in force at 17.11.2021 by [S.I. 2021/1274](https://www.legislation.gov.uk/uksi/2021/1274), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/1274/regulation/2/f)

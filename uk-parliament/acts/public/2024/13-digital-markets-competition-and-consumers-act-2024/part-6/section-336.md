@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 336. Power to make further consequential provision[^key-ca5def5a6ec9e109464efef2e170e63f]
+## 336. Power to make further consequential provision[^c-ca5def5a6ec9e109464efef2e170e63f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca5def5a6ec9e109464efef2e170e63f]: Commencement: S. 336 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)
+[^c-ca5def5a6ec9e109464efef2e170e63f]: Commencement: S. 336 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)

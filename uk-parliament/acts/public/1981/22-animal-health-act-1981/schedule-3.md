@@ -58,7 +58,7 @@ Section 31.
 
 *Extent: E+W*
 
-**2A.**[^key-dc8dccedcee22782ea3b790cb244705e] (1) This paragraph applies to any premises which are declared by the relevant authority to be infected premises under any provision which gives effect in relation to England or Wales to Council Directive [2003/85/ EC](https://www.legislation.gov.uk/eudr/2003/85) of 29 September 2003 on Community measures for the control of foot-and-mouth disease .
+**2A.**[^c-dc8dccedcee22782ea3b790cb244705e] (1) This paragraph applies to any premises which are declared by the relevant authority to be infected premises under any provision which gives effect in relation to England or Wales to Council Directive [2003/85/ EC](https://www.legislation.gov.uk/eudr/2003/85) of 29 September 2003 on Community measures for the control of foot-and-mouth disease .
 
 (2) Subject to sub-paragraphs (3) and (5), the relevant authority must cause to be slaughtered all susceptible animals kept on the premises.
 
@@ -72,7 +72,7 @@ Section 31.
 
 (4) Before considering a decision not to slaughter susceptible animals under sub-paragraph (3), the relevant authority must be satisfied that—
 
-- (a)[^key-34f09ed9224af9fd18dc8f0e73260156] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-34f09ed9224af9fd18dc8f0e73260156] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) adequate measures are in place to prevent any risk of spreading foot-and-mouth disease virus.
 
 (5) If the premises consist of two or more separate production units (by virtue of a declaration under sub-paragraph (6)), the relevant authority may decide not to slaughter susceptible animals kept on free units of those premises.
@@ -109,7 +109,7 @@ Section 31.
   - (c) in relation to premises which are situated partly in England and partly in Wales, either the Secretary of State or the National Assembly for Wales, as they agree between them (or, in the absence of agreement, the Secretary of State);
 - “susceptible animal” means a cow, sheep, goat, deer, camel, llama, alpaca, guanaco, vicuna, any other ruminant or any swine (that is, a member of the suborder *Suina* of the order *Artiodactyla* ).
 
-**3.** (1) The Minister may, if he thinks fit, in any case also *(Extent: E+W)*[^key-819ca07372ed83d20deb986e3f3543b8] cause to be slaughtered—
+**3.** (1) The Minister may, if he thinks fit, in any case also *(Extent: E+W)*[^c-819ca07372ed83d20deb986e3f3543b8] cause to be slaughtered—
 
 - (a) any animals affected with foot-and-mouth disease, or suspected of being so affected and[^c10347491];
 - (b) any animals which are or have been in the same field, shed, or other place, or in the same herd or flock, or otherwise in contact with animals affected with foot-and-mouth disease, or which appear to the Minister to have been in any way exposed to the infection of foot-and-mouth disease.
@@ -129,7 +129,7 @@ Section 31.
 
 ### Swine-fever
 
-**4.**[^key-d4b94ca7a34aa86714267a50b5c8ddf5] (1) The Minister may, if he thinks fit, in any case cause to be slaughtered—
+**4.**[^c-d4b94ca7a34aa86714267a50b5c8ddf5] (1) The Minister may, if he thinks fit, in any case cause to be slaughtered—
 
 - (a) any swine affected with swine-fever, or suspected of being so affected; and
 - (b) any swine which are or have been in the same field, pig-sty, shed, or other place, or in the same herd, or otherwise in contact with swine affected with swine-fever, or which appear to the Minister to have been in any way exposed to the infection of swine-fever.
@@ -143,16 +143,16 @@ Section 31.
 
 **5.** (1) The Minister may, if he thinks fit, cause to be slaughtered—
 
-- (a) any diseased or suspected poultry; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-22670ed05369d5be2d5711bab5e9512f]
+- (a) any diseased or suspected poultry; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-22670ed05369d5be2d5711bab5e9512f]
 - (b) any poultry which are or have been in the same field, pen, shed or other place as, or otherwise in contact with, diseased poultry or which appear to the Minister to have been in any way exposed to the infection of disease.
 
 *Extent: E+W*
 
-- (c)[^key-f645f4544622743d396c27b3488c3fdf] any poultry the Secretary of State thinks should be slaughtered with a view to preventing the spread of avian influenza or Newcastle disease.
+- (c)[^c-f645f4544622743d396c27b3488c3fdf] any poultry the Secretary of State thinks should be slaughtered with a view to preventing the spread of avian influenza or Newcastle disease.
 
 *Extent: E+W*
 
-(1A)[^key-636cec75823eb2bc642fa449250001a4] The Secretary of State may exercise the power under sub-paragraph (1)(c) whether or not poultry–
+(1A)[^c-636cec75823eb2bc642fa449250001a4] The Secretary of State may exercise the power under sub-paragraph (1)(c) whether or not poultry–
 
 - (a) are affected with avian influenza or Newcastle disease or suspected of being so affected;
 - (b) are or have been in contact with poultry so affected;
@@ -165,11 +165,11 @@ Section 31.
 
 ## Annotations
 
-[^key-dc8dccedcee22782ea3b790cb244705e]: Textual amendment: Sch. 3 para. 2A inserted (E.W.) (10.1.2006) by [Animal Health Act 1981 (Amendment) Regulations 2005 (S.I. 2005/3475)](https://www.legislation.gov.uk/uksi/2005/3475), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3475/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2005/3475/regulation/2)
+[^c-dc8dccedcee22782ea3b790cb244705e]: Textual amendment: Sch. 3 para. 2A inserted (E.W.) (10.1.2006) by [Animal Health Act 1981 (Amendment) Regulations 2005 (S.I. 2005/3475)](https://www.legislation.gov.uk/uksi/2005/3475), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3475/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2005/3475/regulation/2)
 
-[^key-34f09ed9224af9fd18dc8f0e73260156]: Textual amendment: [Sch. 3 para. 2A(4)(a)](https://www.legislation.gov.uk/ukpga/1981/22/schedule/3/paragraph/2A/4/a) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/457/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34f09ed9224af9fd18dc8f0e73260156]: Textual amendment: [Sch. 3 para. 2A(4)(a)](https://www.legislation.gov.uk/ukpga/1981/22/schedule/3/paragraph/2A/4/a) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/457/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-819ca07372ed83d20deb986e3f3543b8]: Textual amendment: Word in Sch. 3 para. 3(1) inserted (E.W.) (10.1.2006) by [Animal Health Act 1981 (Amendment) Regulations 2005 (S.I. 2005/3475)](https://www.legislation.gov.uk/uksi/2005/3475), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3475/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2005/3475/regulation/3)
+[^c-819ca07372ed83d20deb986e3f3543b8]: Textual amendment: Word in Sch. 3 para. 3(1) inserted (E.W.) (10.1.2006) by [Animal Health Act 1981 (Amendment) Regulations 2005 (S.I. 2005/3475)](https://www.legislation.gov.uk/uksi/2005/3475), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3475/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2005/3475/regulation/3)
 
 [^c10347491]: Textual amendment: Word omitted (E.W.) (14.1.2003) by virtue of [2002 c. 42](https://www.legislation.gov.uk/ukpga/2002/42), [s. 1(2)](https://www.legislation.gov.uk/ukpga/2002/42/section/1/2); [S.I. 2002/3044](https://www.legislation.gov.uk/uksi/2002/3044), [art. 2](https://www.legislation.gov.uk/uksi/2002/3044/article/2)
 
@@ -177,10 +177,10 @@ Section 31.
 
 [^c10347511]: Textual amendment: Sch. 3 para. 3(1A) inserted (E.W.) (14.1.2003) by [2002 c. 42](https://www.legislation.gov.uk/ukpga/2002/42), [s. 1(3)](https://www.legislation.gov.uk/ukpga/2002/42/section/1/3); [S.I. 2002/3044](https://www.legislation.gov.uk/uksi/2002/3044), [art. 2](https://www.legislation.gov.uk/uksi/2002/3044/article/2)
 
-[^key-d4b94ca7a34aa86714267a50b5c8ddf5]: Modification: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1981/22/schedule/3/paragraph/4) restricted (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(2)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
+[^c-d4b94ca7a34aa86714267a50b5c8ddf5]: Modification: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1981/22/schedule/3/paragraph/4) restricted (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(2)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
 
-[^key-22670ed05369d5be2d5711bab5e9512f]: Textual amendment: Word in Sch. 3 para. 5(1)(a) deleted (E.W.) (11.7.2003) by [Avian Influenza and Newcastle Disease (England and Wales) Order 2003 (S.I. 2003/1734)](https://www.legislation.gov.uk/uksi/2003/1734), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1734/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2003/1734/article/4/2)
+[^c-22670ed05369d5be2d5711bab5e9512f]: Textual amendment: Word in Sch. 3 para. 5(1)(a) deleted (E.W.) (11.7.2003) by [Avian Influenza and Newcastle Disease (England and Wales) Order 2003 (S.I. 2003/1734)](https://www.legislation.gov.uk/uksi/2003/1734), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1734/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2003/1734/article/4/2)
 
-[^key-f645f4544622743d396c27b3488c3fdf]: Textual amendment: Sch. 3 para. 5(1)(c) inserted (E.W.) (11.7.2003) by [Avian Influenza and Newcastle Disease (England and Wales) Order 2003 (S.I. 2003/1734)](https://www.legislation.gov.uk/uksi/2003/1734), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1734/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2003/1734/article/4/3)
+[^c-f645f4544622743d396c27b3488c3fdf]: Textual amendment: Sch. 3 para. 5(1)(c) inserted (E.W.) (11.7.2003) by [Avian Influenza and Newcastle Disease (England and Wales) Order 2003 (S.I. 2003/1734)](https://www.legislation.gov.uk/uksi/2003/1734), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1734/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2003/1734/article/4/3)
 
-[^key-636cec75823eb2bc642fa449250001a4]: Textual amendment: Sch. 3 para. 5(1A) inserted (E.W.) (11.7.2003) by [Avian Influenza and Newcastle Disease (England and Wales) Order 2003 (S.I. 2003/1734)](https://www.legislation.gov.uk/uksi/2003/1734), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1734/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2003/1734/article/4/4)
+[^c-636cec75823eb2bc642fa449250001a4]: Textual amendment: Sch. 3 para. 5(1A) inserted (E.W.) (11.7.2003) by [Avian Influenza and Newcastle Disease (England and Wales) Order 2003 (S.I. 2003/1734)](https://www.legislation.gov.uk/uksi/2003/1734), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1734/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2003/1734/article/4/4)

@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC, WALES
 
-The M4 Motorway (West of Junction 23A (Magor) to East of Junction 29 (Castleton)) (Variable Speed Limits) Regulations 2011 (revoked)[^key-ef0849aa757fb3b4ee68873de0558aeb]
+The M4 Motorway (West of Junction 23A (Magor) to East of Junction 29 (Castleton)) (Variable Speed Limits) Regulations 2011 (revoked)[^c-ef0849aa757fb3b4ee68873de0558aeb]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 21 February 2011
 
-[^key-ef0849aa757fb3b4ee68873de0558aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef0849aa757fb3b4ee68873de0558aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-ef0849aa757fb3b4ee68873de0558aeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ef0849aa757fb3b4ee68873de0558aeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ef0849aa757fb3b4ee68873de0558aeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ef0849aa757fb3b4ee68873de0558aeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ef0849aa757fb3b4ee68873de0558aeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ef0849aa757fb3b4ee68873de0558aeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef0849aa757fb3b4ee68873de0558aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef0849aa757fb3b4ee68873de0558aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SPECIFIED ROADS[^key-ef0849aa757fb3b4ee68873de0558aeb]
+## SCHEDULE — SPECIFIED ROADS[^c-ef0849aa757fb3b4ee68873de0558aeb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ef0849aa757fb3b4ee68873de0558aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef0849aa757fb3b4ee68873de0558aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef0849aa757fb3b4ee68873de0558aeb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/94) revoked (21.4.2015) by [The M4 Motorway (West of Junction 23A (Magor) to East of Junction 29 (Castleton)) (Variable Speed Limits) Regulations 2015 (S.I. 2015/1018)](https://www.legislation.gov.uk/wsi/2015/1018), [regs. 1](https://www.legislation.gov.uk/wsi/2015/1018/regulation/1), [4](https://www.legislation.gov.uk/wsi/2015/1018/regulation/4)
+[^c-ef0849aa757fb3b4ee68873de0558aeb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/94) revoked (21.4.2015) by [The M4 Motorway (West of Junction 23A (Magor) to East of Junction 29 (Castleton)) (Variable Speed Limits) Regulations 2015 (S.I. 2015/1018)](https://www.legislation.gov.uk/wsi/2015/1018), [regs. 1](https://www.legislation.gov.uk/wsi/2015/1018/regulation/1), [4](https://www.legislation.gov.uk/wsi/2015/1018/regulation/4)

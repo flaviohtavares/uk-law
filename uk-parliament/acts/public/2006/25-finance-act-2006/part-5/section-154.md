@@ -22,7 +22,7 @@ summary: ''
 
 (1) Chapter 5 of Part 12 of ICTA (petroleum extraction activities) is amended as follows.
 
-(2)[^key-c2fa2d6de601ca625f034aa2584bf807] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c2fa2d6de601ca625f034aa2584bf807] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Schedule 19B (petroleum extraction activities: exploration expenditure supplement) is amended as follows.
 
@@ -86,10 +86,10 @@ summary: ''
 
 .
 
-(11)[^key-069bb381d9fd458179c3e427c14b761a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-069bb381d9fd458179c3e427c14b761a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2fa2d6de601ca625f034aa2584bf807]: Textual amendment: [S. 154(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/154/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c2fa2d6de601ca625f034aa2584bf807]: Textual amendment: [S. 154(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/154/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-069bb381d9fd458179c3e427c14b761a]: Textual amendment: [S. 154(11)](https://www.legislation.gov.uk/ukpga/2006/25/section/154/11) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-069bb381d9fd458179c3e427c14b761a]: Textual amendment: [S. 154(11)](https://www.legislation.gov.uk/ukpga/2006/25/section/154/11) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Offence of carrying out unauthorised works or breaching condition of consent[^key-2d74d0cc7d4f378a02a724c55e9550bc][^key-628353c3c7c31b8541a8973a03d563cb]
+## 117. Offence of carrying out unauthorised works or breaching condition of consent[^c-2d74d0cc7d4f378a02a724c55e9550bc][^c-628353c3c7c31b8541a8973a03d563cb]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d74d0cc7d4f378a02a724c55e9550bc]: Commencement: S. 117 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2d74d0cc7d4f378a02a724c55e9550bc]: Commencement: S. 117 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-628353c3c7c31b8541a8973a03d563cb]: Commencement: [S. 117](https://www.legislation.gov.uk/asc/2023/3/section/117) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-628353c3c7c31b8541a8973a03d563cb]: Commencement: [S. 117](https://www.legislation.gov.uk/asc/2023/3/section/117) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

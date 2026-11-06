@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 144. Northern Ireland Adoption and Children Act Register[^key-d30be54e2c96854633a6a1488c295548]
+## 144. Northern Ireland Adoption and Children Act Register[^c-d30be54e2c96854633a6a1488c295548]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d30be54e2c96854633a6a1488c295548]: Commencement: S. 144 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d30be54e2c96854633a6a1488c295548]: Commencement: S. 144 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Complaints and representations[^key-1264691cec578a3d06c56764fdca521b]
+## 31. Complaints and representations[^c-1264691cec578a3d06c56764fdca521b]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1264691cec578a3d06c56764fdca521b]: Commencement: Reg. 31 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-1264691cec578a3d06c56764fdca521b]: Commencement: Reg. 31 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 2006/1738](https://www.legislation.gov.uk/uksi/2006/1738), amended by [S.I. 2013/985](https://www.legislation.gov.uk/uksi/2013/985).

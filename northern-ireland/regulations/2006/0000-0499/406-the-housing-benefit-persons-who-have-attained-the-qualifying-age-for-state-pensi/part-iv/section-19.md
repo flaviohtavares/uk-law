@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Circumstances in which a person is to be treated as being or not being a member of the household[^key-5817616a96b34a7e1abf2011c0ec8785]
+## 19. Circumstances in which a person is to be treated as being or not being a member of the household[^c-5817616a96b34a7e1abf2011c0ec8785]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) that person does not intend to resume living with the other members of his family; or
 - (b) his absence from the other members of his family is likely to exceed 52 weeks, unless there are exceptional circumstances (for example where the person is in hospital or otherwise has no control over the length of his absence) and the absence is unlikely to be substantially more than 52 weeks.
 
-(3) A child or young person shall not be treated as a member of the claimant’s household , nor as occupying the claimant’s dwelling,[^key-fa9651c53fcb9e9c101f6c27f27eb009] where he is—
+(3) A child or young person shall not be treated as a member of the claimant’s household , nor as occupying the claimant’s dwelling,[^c-fa9651c53fcb9e9c101f6c27f27eb009] where he is—
 
 - (a) placed with the claimant or his partner by an authority, as defined in Article 2 of the Children Order, under Article 27(2)(a) of that Order (provision of accommodation and maintenance by an authority for children whom it is looking after) or by a voluntary organisation under Article 75(1)(a) of that Order (provision of accommodation by voluntary organisation);
 - (b) placed with the claimant or his partner prior to adoption; or
@@ -48,9 +48,9 @@ summary: ''
 
 ## Annotations
 
-[^key-5817616a96b34a7e1abf2011c0ec8785]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/406/regulation/19) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-5817616a96b34a7e1abf2011c0ec8785]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/406/regulation/19) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-fa9651c53fcb9e9c101f6c27f27eb009]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2006/406/regulation/19/3) inserted (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [5(2)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/2)
+[^c-fa9651c53fcb9e9c101f6c27f27eb009]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2006/406/regulation/19/3) inserted (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [5(2)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/2)
 
 [^f00066]: Footnote: [S.R. 1989 No. 253](https://www.legislation.gov.uk/nisr/1989/253)
 

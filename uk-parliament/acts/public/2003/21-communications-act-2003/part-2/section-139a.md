@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139A. Enforcement of notification under section 138[^key-e990b5a51aa38de73d089a34b5cc2060][^key-8c8600ccae7a9b75d2393577a108c08f]
+## 139A. Enforcement of notification under section 138[^c-e990b5a51aa38de73d089a34b5cc2060][^c-8c8600ccae7a9b75d2393577a108c08f]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e990b5a51aa38de73d089a34b5cc2060]: Modification: Ss. 138-139A applied (with modifications) (31.7.2016) by [The Communications (Access to Infrastructure) Regulations 2016 (S.I. 2016/700)](https://www.legislation.gov.uk/uksi/2016/700), [regs. 1](https://www.legislation.gov.uk/uksi/2016/700/regulation/1), [17(6)](https://www.legislation.gov.uk/uksi/2016/700/regulation/17/6), [(7)](https://www.legislation.gov.uk/uksi/2016/700/regulation/17/7)
+[^c-e990b5a51aa38de73d089a34b5cc2060]: Modification: Ss. 138-139A applied (with modifications) (31.7.2016) by [The Communications (Access to Infrastructure) Regulations 2016 (S.I. 2016/700)](https://www.legislation.gov.uk/uksi/2016/700), [regs. 1](https://www.legislation.gov.uk/uksi/2016/700/regulation/1), [17(6)](https://www.legislation.gov.uk/uksi/2016/700/regulation/17/6), [(7)](https://www.legislation.gov.uk/uksi/2016/700/regulation/17/7)
 
-[^key-8c8600ccae7a9b75d2393577a108c08f]: Textual amendment: Ss. 139A-139C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/83) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [18](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/18))
+[^c-8c8600ccae7a9b75d2393577a108c08f]: Textual amendment: Ss. 139A-139C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/83) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [18](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/18))

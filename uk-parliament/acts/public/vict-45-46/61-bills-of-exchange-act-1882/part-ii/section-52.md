@@ -26,8 +26,8 @@ summary: ''
 
 (3) In order to render the acceptor of a bill liable it is not necessary to protest it, or that notice of dishonour should be given to him.
 
-(4) Subject to Part 4A (presentment by electronic means),[^key-cc9b3dad295b6152375098f3d1e3023e] Where the holder of a bill presents it for payment, he shall exhibit the bill to the person from whom he demands payment, and when a bill is paid the holder shall forthwith deliver it up to the party paying it.
+(4) Subject to Part 4A (presentment by electronic means),[^c-cc9b3dad295b6152375098f3d1e3023e] Where the holder of a bill presents it for payment, he shall exhibit the bill to the person from whom he demands payment, and when a bill is paid the holder shall forthwith deliver it up to the party paying it.
 
 ## Annotations
 
-[^key-cc9b3dad295b6152375098f3d1e3023e]: Textual amendment: Words in [s. 52(4)](https://www.legislation.gov.uk/ukpga/Vict/45-46/61/section/52/4) inserted (26.3.2015, 31.7.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/13/3), [164(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/4)
+[^c-cc9b3dad295b6152375098f3d1e3023e]: Textual amendment: Words in [s. 52(4)](https://www.legislation.gov.uk/ukpga/Vict/45-46/61/section/52/4) inserted (26.3.2015, 31.7.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/13/3), [164(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/4)

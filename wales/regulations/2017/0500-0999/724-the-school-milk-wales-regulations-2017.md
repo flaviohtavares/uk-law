@@ -51,20 +51,20 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
 
-## 1. Title, commencement and application[^key-3b5b41783df20bc26096f76a9e27142f]
+## 1. Title, commencement and application[^c-3b5b41783df20bc26096f76a9e27142f]
 
 (1) The title of these Regulations is the School Milk (Wales) Regulations 2017 and they come into force on 1 August 2017.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-184d5cddf03bc55291eb0d1d7cd88186]
+## 2. Interpretation[^c-184d5cddf03bc55291eb0d1d7cd88186]
 
 (1) In these Regulations—
 
-- “[^key-6ff41ea8582bc4b033807d26b1dd3c92]**aid**” (“***cymorth***”) means aid granted pursuant to Article 23(1) of the Council Regulation and in accordance with the Commission Delegated Regulation and Commission Implementing Regulation (but see regulation 5(A1));
+- “[^c-6ff41ea8582bc4b033807d26b1dd3c92]**aid**” (“***cymorth***”) means aid granted pursuant to Article 23(1) of the Council Regulation and in accordance with the Commission Delegated Regulation and Commission Implementing Regulation (but see regulation 5(A1));
 - “applicant” (“*ceisydd*”) means an applicant for aid as described in Article 5 of the Commission Delegated Regulation that has been approved in accordance with Article 6 of the Commission Delegated Regulation;
 - “authorised person” (“*person awdurdodedig*”) means any person authorised by the Welsh Ministers to act in matters arising under these Regulations or the European Regulations;
-- “Commission Delegated Regulation” (“*Rheoliad Dirprwyedig y Comisiwn*”) means Commission Delegated Regulation (EU) 2017/40 of 3 November 2016 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to aid[^key-2d38a8a7206abd8635eb21dcf633cb6b] for the supply of fruit and vegetables, bananas and milk in educational establishments and amending Commission Delegated Regulation (EU) No 907/2014, as amended from time to time[^f00004];
+- “Commission Delegated Regulation” (“*Rheoliad Dirprwyedig y Comisiwn*”) means Commission Delegated Regulation (EU) 2017/40 of 3 November 2016 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to aid[^c-2d38a8a7206abd8635eb21dcf633cb6b] for the supply of fruit and vegetables, bananas and milk in educational establishments and amending Commission Delegated Regulation (EU) No 907/2014, as amended from time to time[^f00004];
 - “Commission Implementing Regulation” (“*Rheoliad Gweithredu’r Comisiwn*”) means Commission Implementing Regulation (EU) 2017/39 of 3 November 2016 on rules of the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to aid for the supply of fruit and vegetables, bananas and milk in educational establishments, as amended from time to time[^f00005];
 - “cost of supply” (“*cost cyflenwi*”) in relation to qualifying milk products means the cost of purchase plus an amount which the Welsh Ministers reasonably considers to be sufficient for the purposes of defraying the cost of procuring and administering the supply of those milk products;
 - “Council Regulation” (“*Rheoliad y Cyngor*”) means Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)[^f00006] as amended by Regulation (EU) 2016/791 of the European Parliament and of the Council of 11 May 2016 amending Regulations (EU) No 1308/2013 (the Council Regulation) and (EU) No 1306/2013 as regards the aid scheme for the supply of fruit and vegetables, bananas and milk in educational establishments[^f00007], and as amended from time to time;
@@ -74,37 +74,37 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
   - (b) Commission Delegated Regulation,
   - (c) Commission Implementing Regulation;
 - “Horizontal Implementing Regulation” (“*Rheoliad Gweithredu Llorweddol*”) means Commission Implementing Regulation (EU) No 809/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance, as amended from time to time[^f00008];
-- [^key-446716414dde131130c1a4ebf572b1ad]...
+- [^c-446716414dde131130c1a4ebf572b1ad]...
 - “qualifying educational establishment” (“*sefydliad addysgol cymhwysol*”) means an educational establishment referred to in Article 22 of the Council Regulation;
 - “qualifying milk products” (“*cynhyrchion llaeth cymhwysol*”) means the milk and milk products listed in Article 23(3)(b) and (4)(b) of, and Annex V to the Council Regulation;
 - “reception” (“*blwyddyn derbyn*”) means a year group in which the majority of children will, in the school year, attain the age of 5;
-- “the residual costs” (“*y costau gweddilliol*”) means the cost of supply, incurred by a purchaser in connection with the supply of qualifying milk products to a qualifying educational establishment, less any aid[^key-14d4af107cc9be208fbac7231c7a73e9] that may be granted in respect of that supply;
+- “the residual costs” (“*y costau gweddilliol*”) means the cost of supply, incurred by a purchaser in connection with the supply of qualifying milk products to a qualifying educational establishment, less any aid[^c-14d4af107cc9be208fbac7231c7a73e9] that may be granted in respect of that supply;
 - “school year” (“*blwyddyn ysgol*”) in relation to a school, means the period beginning with the first school term to begin after July and ending with the beginning of the first such term to begin after the following July;
-- [^key-6b35651aff9ae76551d4e6b2962336f1]...
+- [^c-6b35651aff9ae76551d4e6b2962336f1]...
 - “year 1” (“*blwyddyn 1*”) means a year group in which the majority of children will, in the school year, attain the age of 6;
 - “year 2” (“*blwyddyn 2*”) means a year group in which the majority of children will, in the school year, attain the age of 7;
 - “year group” (“*grŵp blwyddyn*”) means a group of children at a school the majority of whom will, in a particular school year, attain the same age.
 
 (2) Except where the context otherwise requires, other expressions used in the Regulations have the meaning they bear in the European Regulations.
 
-## 3. Grant of national aid[^key-94d7a6d216de62f159b1be7d744777fa]
+## 3. Grant of national aid[^c-94d7a6d216de62f159b1be7d744777fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Additional aid for eligible pupils[^key-b906e1ff3644e0eb5093c7ad695a9cc7][^key-c36bb31be3a60e27fa6b1da4d96570ac]
+## 4. Additional aid for eligible pupils[^c-b906e1ff3644e0eb5093c7ad695a9cc7][^c-c36bb31be3a60e27fa6b1da4d96570ac]
 
-Where aid[^key-bd6dd931d2910f7c2d73d5bbafed1f00] is granted in connection with the supply of a qualifying milk product which is either flavoured or unflavoured, whole or semi skimmed milk, to eligible pupils, the amount so granted, may be an amount sufficient to defray the residual costs that would otherwise be borne by such pupils or their parents or guardians in respect of that supply.
+Where aid[^c-bd6dd931d2910f7c2d73d5bbafed1f00] is granted in connection with the supply of a qualifying milk product which is either flavoured or unflavoured, whole or semi skimmed milk, to eligible pupils, the amount so granted, may be an amount sufficient to defray the residual costs that would otherwise be borne by such pupils or their parents or guardians in respect of that supply.
 
-## 5. Withholding and recovery of aid[^key-29f93d2b5793217ed477b3dae6bddd1a][^key-fa12408259bc16cc74dba42ae5f23d50]
+## 5. Withholding and recovery of aid[^c-29f93d2b5793217ed477b3dae6bddd1a][^c-fa12408259bc16cc74dba42ae5f23d50]
 
-(A1)[^key-84f0b6a0820a456be0f763c07592b8b5] In this regulation—
+(A1)[^c-84f0b6a0820a456be0f763c07592b8b5] In this regulation—
 
 - (a) “**aid**” includes—
   - (i) any aid granted before IP completion day pursuant to Article 23(1) of the Council Regulation as it applied before that day; and
   - (ii) any aid granted by the Welsh Ministers before IP completion day under regulation 3 of these regulations as it had effect before that day, and
 - (b) “**applicant**” is to be construed accordingly.
 
-(1) Where an applicant has received aid[^key-23318d85abaa7c07d698e2dcca618408] to which the applicant was not entitled, or where the applicant is in breach of any commitment given by the applicant as a condition of such aid[^key-3865af5095d81899fb982f4bcd99e282], the Welsh Ministers may—.
+(1) Where an applicant has received aid[^c-23318d85abaa7c07d698e2dcca618408] to which the applicant was not entitled, or where the applicant is in breach of any commitment given by the applicant as a condition of such aid[^c-3865af5095d81899fb982f4bcd99e282], the Welsh Ministers may—.
 
 - (a) withhold the whole or any part of such aid that they might otherwise have made; or
 - (b) recover on demand the whole or any part of any such aid already made by them.
@@ -117,11 +117,11 @@ Where aid[^key-bd6dd931d2910f7c2d73d5bbafed1f00] is granted in connection with t
 
 (3) Any money due to the Welsh Ministers under or by virtue of these Regulations is recoverable as a debt.
 
-## 6. Interest[^key-25421b958b2b29cb96ca6528d342d5c2]
+## 6. Interest[^c-25421b958b2b29cb96ca6528d342d5c2]
 
 Interest may be charged in respect of each day of the period referred to in Article 7(2) of the Horizontal Implementing Regulation and for this purpose the rate of interest applicable on any day is one percentage point above the sterling three month London interbank offered rate (LIBOR) on the first working day of each calendar month.
 
-## 7. Powers of entry[^key-9b1acce3b6431b5e25099b32d2894ab7]
+## 7. Powers of entry[^c-9b1acce3b6431b5e25099b32d2894ab7]
 
 (1) An authorised person may exercise any of the powers specified in this regulation and regulation 8 for the purposes of enforcing these Regulations or the European Regulations.
 
@@ -146,12 +146,12 @@ Interest may be charged in respect of each day of the period referred to in Arti
 
 (7) An authorised person entering any land or premises by virtue of this regulation may be accompanied by—
 
-- (a)[^key-b3b0e2269c35d511a75b69edd77a9b77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b3b0e2269c35d511a75b69edd77a9b77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) such other persons as the authorised person considers necessary.
 
 (8) An authorised person who enters any unoccupied premises must leave them as effectively secured as they were before entry.
 
-## 8. Powers of inspection etc.[^key-d36673c5555c44d89b92f10e45901334]
+## 8. Powers of inspection etc.[^c-d36673c5555c44d89b92f10e45901334]
 
 (1) An authorised person who has entered any land or premises in exercise of a power conferred by regulation 7 may—
 
@@ -167,11 +167,11 @@ Interest may be charged in respect of each day of the period referred to in Arti
 
 (3) Paragraph (1) applies in relation to a person referred to in regulation 7(7)(b) when such person is acting under the instructions of an authorised person, as if such person were an authorised person.
 
-## 9. Amendment to the Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Wales) Regulations 2004[^key-11f926eaebc618d96c50c9024d01aeac]
+## 9. Amendment to the Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Wales) Regulations 2004[^c-11f926eaebc618d96c50c9024d01aeac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Revocations[^key-59c9b674874e798645cee7ea82d2fabb]
+## 10. Revocations[^c-59c9b674874e798645cee7ea82d2fabb]
 
 The following Regulations are revoked—
 
@@ -212,13 +212,13 @@ Regulation 9 amends the Common Agricultural Policy Non-IACS Support Schemes (App
 
 [^f00003]: Footnote: OJ L 31, 1.2.2002, p. 1, to which there are no relevant amendments to Article 9.
 
-[^key-3b5b41783df20bc26096f76a9e27142f]: Commencement: Reg. 1 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
+[^c-3b5b41783df20bc26096f76a9e27142f]: Commencement: Reg. 1 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
 
-[^key-184d5cddf03bc55291eb0d1d7cd88186]: Commencement: Reg. 2 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
+[^c-184d5cddf03bc55291eb0d1d7cd88186]: Commencement: Reg. 2 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
 
-[^key-6ff41ea8582bc4b033807d26b1dd3c92]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/2/1) inserted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ff41ea8582bc4b033807d26b1dd3c92]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/2/1) inserted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d38a8a7206abd8635eb21dcf633cb6b]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/2/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d38a8a7206abd8635eb21dcf633cb6b]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/2/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: OJ L 5, 10.1.2017, p. 11.
 
@@ -230,41 +230,41 @@ Regulation 9 amends the Common Agricultural Policy Non-IACS Support Schemes (App
 
 [^f00008]: Footnote: OJ L 227, 31.7.2014, p. 69.
 
-[^key-446716414dde131130c1a4ebf572b1ad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/2/1) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(2)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-446716414dde131130c1a4ebf572b1ad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/2/1) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(2)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-14d4af107cc9be208fbac7231c7a73e9]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/2/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(2)(d)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14d4af107cc9be208fbac7231c7a73e9]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/2/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(2)(d)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6b35651aff9ae76551d4e6b2962336f1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/2/1) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(2)(e)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b35651aff9ae76551d4e6b2962336f1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/2/1) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(2)(e)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94d7a6d216de62f159b1be7d744777fa]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/724/regulation/3) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(3)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94d7a6d216de62f159b1be7d744777fa]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/724/regulation/3) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(3)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b906e1ff3644e0eb5093c7ad695a9cc7]: Commencement: Reg. 4 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
+[^c-b906e1ff3644e0eb5093c7ad695a9cc7]: Commencement: Reg. 4 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
 
-[^key-c36bb31be3a60e27fa6b1da4d96570ac]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/724/regulation/4) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(4)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c36bb31be3a60e27fa6b1da4d96570ac]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/724/regulation/4) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(4)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bd6dd931d2910f7c2d73d5bbafed1f00]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/wsi/2017/724/regulation/4) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(4)(a)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd6dd931d2910f7c2d73d5bbafed1f00]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/wsi/2017/724/regulation/4) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(4)(a)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-29f93d2b5793217ed477b3dae6bddd1a]: Commencement: Reg. 5 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
+[^c-29f93d2b5793217ed477b3dae6bddd1a]: Commencement: Reg. 5 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
 
-[^key-fa12408259bc16cc74dba42ae5f23d50]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/724/regulation/5) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(5)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa12408259bc16cc74dba42ae5f23d50]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/724/regulation/5) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(5)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-84f0b6a0820a456be0f763c07592b8b5]: Textual amendment: [Reg. 5(A1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/5/A1) inserted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(5)(a)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/5/a)(as amended by [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/wsi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1308/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2020/1308/regulation/3/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84f0b6a0820a456be0f763c07592b8b5]: Textual amendment: [Reg. 5(A1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/5/A1) inserted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(5)(a)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/5/a)(as amended by [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/wsi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1308/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2020/1308/regulation/3/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-23318d85abaa7c07d698e2dcca618408]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/5/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(5)(b)(i)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23318d85abaa7c07d698e2dcca618408]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/5/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(5)(b)(i)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3865af5095d81899fb982f4bcd99e282]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/5/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3865af5095d81899fb982f4bcd99e282]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/5/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-25421b958b2b29cb96ca6528d342d5c2]: Commencement: Reg. 6 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
+[^c-25421b958b2b29cb96ca6528d342d5c2]: Commencement: Reg. 6 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
 
-[^key-9b1acce3b6431b5e25099b32d2894ab7]: Commencement: Reg. 7 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
+[^c-9b1acce3b6431b5e25099b32d2894ab7]: Commencement: Reg. 7 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
 
-[^key-b3b0e2269c35d511a75b69edd77a9b77]: Textual amendment: [Reg. 7(7)(a)](https://www.legislation.gov.uk/wsi/2017/724/regulation/7/7/a) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/uksi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/732/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2019/732/regulation/8/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3b0e2269c35d511a75b69edd77a9b77]: Textual amendment: [Reg. 7(7)(a)](https://www.legislation.gov.uk/wsi/2017/724/regulation/7/7/a) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/uksi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/732/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2019/732/regulation/8/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d36673c5555c44d89b92f10e45901334]: Commencement: Reg. 8 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
+[^c-d36673c5555c44d89b92f10e45901334]: Commencement: Reg. 8 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
 
-[^key-11f926eaebc618d96c50c9024d01aeac]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2017/724/regulation/9) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(7)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11f926eaebc618d96c50c9024d01aeac]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2017/724/regulation/9) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [8(7)](https://www.legislation.gov.uk/wsi/2019/732/regulation/8/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59c9b674874e798645cee7ea82d2fabb]: Commencement: Reg. 10 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
+[^c-59c9b674874e798645cee7ea82d2fabb]: Commencement: Reg. 10 in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2008/2141 (W. 190)](https://www.legislation.gov.uk/wsi/2008/2141).
 

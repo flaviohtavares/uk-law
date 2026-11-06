@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(*a*) and (*d*), 131(1) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 6(5) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004] in so far as regulation 3 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-56c5245a2f9a9385a1a72c825b255ef4]
+## 1. Citation, commencement and interpretation[^c-56c5245a2f9a9385a1a72c825b255ef4]
 
 (1) These Regulations may be cited as the Social Security (Enhanced Disability Premium Amendment) Regulations (Northern Ireland) 2000 and shall come into operation—
 
@@ -51,12 +51,12 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-d853ac9f6aa551a5f05b4377ff658518]
+## 2. Amendment of the Income Support (General) Regulations[^c-d853ac9f6aa551a5f05b4377ff658518]
 
 In the Income Support (General) Regulations (Northern Ireland) 1987[^f00007]—
 
 - (a) in regulation 44[^f00008] (modifications in respect of children and young persons) for the words “personal allowance and disabled child premium, if any,” in each place in which they occur there shall be substituted “personal allowance, any disabled child premium and any enhanced disability premium”;
-- (b)[^key-41bcbca77f35ef40c18e096424f940be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-41bcbca77f35ef40c18e096424f940be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in Schedule 2 (applicable amounts)—
   - (i) for paragraph 6[^f00010] there shall be substituted the following paragraph—
 
@@ -103,16 +103,16 @@ In the Income Support (General) Regulations (Northern Ireland) 1987[^f00007]—
 
     .
 
-## 3. Amendment of the Housing Benefit (General) Regulations[^key-4d7ed4fbb3cf2ef0fcad8734378a5a45]
+## 3. Amendment of the Housing Benefit (General) Regulations[^c-4d7ed4fbb3cf2ef0fcad8734378a5a45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-e0386414aa51010e6426fe5f198a4d5f]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-e0386414aa51010e6426fe5f198a4d5f]
 
 In the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00030]—
 
 - (a) in regulation 106[^f00031] (modifications in respect of children and young persons) for the words “personal allowance and disabled child premium, if any,” in each place in which they occur there shall be substituted “personal allowance, any disabled child premium and any enhanced disability premium”;
-- (b)[^key-7c2d6103221095e4db873bb5df2d3993] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7c2d6103221095e4db873bb5df2d3993] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in Schedule 1 (applicable amounts)—
   - (i) for paragraph 7 there shall be substituted the following paragraph—
 
@@ -235,17 +235,17 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-56c5245a2f9a9385a1a72c825b255ef4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/367/regulation/1) in operation at 1.4.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2000/367/regulation/1/1/a)
+[^c-56c5245a2f9a9385a1a72c825b255ef4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/367/regulation/1) in operation at 1.4.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2000/367/regulation/1/1/a)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d853ac9f6aa551a5f05b4377ff658518]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/367/regulation/2) in operation at 9.4.2001, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/367/regulation/1/1/c)
+[^c-d853ac9f6aa551a5f05b4377ff658518]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/367/regulation/2) in operation at 9.4.2001, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/367/regulation/1/1/c)
 
 [^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Rules are [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), [S.R. 1989 Nos. 139](https://www.legislation.gov.uk/nisr/1989/139) and [395](https://www.legislation.gov.uk/nisr/1989/395), [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346), [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338), [S.R. 1992 Nos. 6](https://www.legislation.gov.uk/nisr/1992/6) and [147](https://www.legislation.gov.uk/nisr/1992/147), [S.R. 1993 Nos. 218](https://www.legislation.gov.uk/nisr/1993/218) and [373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 Nos. 327](https://www.legislation.gov.uk/nisr/1994/327) and [474](https://www.legislation.gov.uk/nisr/1994/474), [S.R. 1996 No. 288](https://www.legislation.gov.uk/nisr/1996/288), [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324), [S.R. 1999 No. 472](https://www.legislation.gov.uk/nisr/1999/472) and [S.R. 2000 Nos. 38](https://www.legislation.gov.uk/nisr/2000/38) and [74](https://www.legislation.gov.uk/nisr/2000/74)
 
 [^f00008]: Footnote: Regulation 44 was amended by regulation 20 of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), regulation 4(14)(*b*) and (*c*) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373) and Article 7(8) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472)
 
-[^key-41bcbca77f35ef40c18e096424f940be]: Textual amendment: [Reg. 2(b)](https://www.legislation.gov.uk/nisr/2000/367/regulation/2/b) revoked (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
+[^c-41bcbca77f35ef40c18e096424f940be]: Textual amendment: [Reg. 2(b)](https://www.legislation.gov.uk/nisr/2000/367/regulation/2/b) revoked (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
 
 [^f00010]: Footnote: Paragraph 6 was amended by regulation 6(*d*) of [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395) and regulation 6(*b*) of [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346)
 
@@ -265,15 +265,15 @@ These Regulations do not impose any charge on business.
 
 [^f00018]: Footnote: Paragraph 15(7) was inserted by regulation 6(*e*) of [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346)
 
-[^key-4d7ed4fbb3cf2ef0fcad8734378a5a45]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/367/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-4d7ed4fbb3cf2ef0fcad8734378a5a45]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/367/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-e0386414aa51010e6426fe5f198a4d5f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/367/regulation/4) in operation at 9.4.2001, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/367/regulation/1/1/c)
+[^c-e0386414aa51010e6426fe5f198a4d5f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/367/regulation/4) in operation at 9.4.2001, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/367/regulation/1/1/c)
 
 [^f00030]: Footnote: [S.R. 1996 No, 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Rules are [S.R. 1996 Nos. 288](https://www.legislation.gov.uk/nisr/1996/288) and [503](https://www.legislation.gov.uk/nisr/1996/503), [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324), [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428) and [S.R. 2000 Nos. 38](https://www.legislation.gov.uk/nisr/2000/38), [74](https://www.legislation.gov.uk/nisr/2000/74) and [350](https://www.legislation.gov.uk/nisr/2000/350)
 
 [^f00031]: Footnote: Regulation 106 was amended by Article 9(8)(*c*) of [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
 
-[^key-7c2d6103221095e4db873bb5df2d3993]: Textual amendment: [Reg. 4(b)](https://www.legislation.gov.uk/nisr/2000/367/regulation/4/b) revoked (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
+[^c-7c2d6103221095e4db873bb5df2d3993]: Textual amendment: [Reg. 4(b)](https://www.legislation.gov.uk/nisr/2000/367/regulation/4/b) revoked (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
 
 [^f00033]: Footnote: Paragraph 15 was amended by regulation 4(3)(*a*) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74)
 

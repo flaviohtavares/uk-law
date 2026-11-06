@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2005 (revoked)[^key-2371e353dad0d61229b38edd52bc0e1b]
+The Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2005 (revoked)[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 Made
 
@@ -41,106 +41,106 @@ Coming into operation
 
 10th January 2005
 
-[^key-2371e353dad0d61229b38edd52bc0e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2371e353dad0d61229b38edd52bc0e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-2371e353dad0d61229b38edd52bc0e1b]
+## 1. Title and commencement[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2371e353dad0d61229b38edd52bc0e1b]
+## 2. Interpretation[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation[^key-2371e353dad0d61229b38edd52bc0e1b]
+## 3. Designation[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Standards of good agricultural and environmental condition[^key-2371e353dad0d61229b38edd52bc0e1b]
+## 4. Standards of good agricultural and environmental condition[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Permanent pasture[^key-2371e353dad0d61229b38edd52bc0e1b]
+## 5. Permanent pasture[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Competent Control Authority[^key-2371e353dad0d61229b38edd52bc0e1b]
+## 6. Competent Control Authority[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Powers of authorised persons[^key-2371e353dad0d61229b38edd52bc0e1b]
+## 7. Powers of authorised persons[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Assistance to authorised persons[^key-2371e353dad0d61229b38edd52bc0e1b]
+## 8. Assistance to authorised persons[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Offences and penalties[^key-2371e353dad0d61229b38edd52bc0e1b]
+## 9. Offences and penalties[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2371e353dad0d61229b38edd52bc0e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2371e353dad0d61229b38edd52bc0e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — STANDARDS OF GOOD AGRICULTURAL AND ENVIRONMENTAL CONDITION[^key-2371e353dad0d61229b38edd52bc0e1b]
+## SCHEDULE — STANDARDS OF GOOD AGRICULTURAL AND ENVIRONMENTAL CONDITION[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 Regulation 4(1)
 
-### 1. Soil management[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 1. Soil management[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Supplementary feeding[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 2. Supplementary feeding[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Overgrazing[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 3. Overgrazing[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Undergrazing[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 4. Undergrazing[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Field Boundaries[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 5. Field Boundaries[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Protection of semi natural habitats and historic monuments[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 6. Protection of semi natural habitats and historic monuments[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Compliance With Statutory Provisions[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 7. Compliance With Statutory Provisions[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. New Works[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 8. New Works[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Burning of Ground Cover[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 9. Burning of Ground Cover[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9A. Irrigation Authorisations[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 9A. Irrigation Authorisations[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9B. Protection of groundwater against pollution[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 9B. Protection of groundwater against pollution[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Interpretation[^key-2371e353dad0d61229b38edd52bc0e1b]
+### 10. Interpretation[^c-2371e353dad0d61229b38edd52bc0e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2371e353dad0d61229b38edd52bc0e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2371e353dad0d61229b38edd52bc0e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2371e353dad0d61229b38edd52bc0e1b]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014 (S.R. 2014/291)](https://www.legislation.gov.uk/nisr/2014/291), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/291/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/291/schedule/2) (with [reg. 8(2)](https://www.legislation.gov.uk/nisr/2014/291/regulation/8/2))
+[^c-2371e353dad0d61229b38edd52bc0e1b]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014 (S.R. 2014/291)](https://www.legislation.gov.uk/nisr/2014/291), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/291/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/291/schedule/2) (with [reg. 8(2)](https://www.legislation.gov.uk/nisr/2014/291/regulation/8/2))

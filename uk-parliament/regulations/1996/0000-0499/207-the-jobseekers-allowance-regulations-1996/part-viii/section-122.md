@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 122. Calculation of the weekly amount of a ...liable relative payment[^key-aad603d0290d8b42cba3ee8ad0ab1c79]
+## 122. Calculation of the weekly amount of a ...liable relative payment[^c-aad603d0290d8b42cba3ee8ad0ab1c79]
 
 (1) Where a periodical payment is made or is due to be made at intervals of one week, the weekly amount shall be the amount of that payment.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aad603d0290d8b42cba3ee8ad0ab1c79]: Textual amendment: Words in [reg. 122 heading](https://www.legislation.gov.uk/uksi/1996/207/part/VIII/crossheading/liable-relatives) heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/4)
+[^c-aad603d0290d8b42cba3ee8ad0ab1c79]: Textual amendment: Words in [reg. 122 heading](https://www.legislation.gov.uk/uksi/1996/207/part/VIII/crossheading/liable-relatives) heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/4)

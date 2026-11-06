@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Extent[^key-6db5742d302bdfb21412d76cb359652b]
+## 218. Extent[^c-6db5742d302bdfb21412d76cb359652b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6db5742d302bdfb21412d76cb359652b]: Commencement: S. 218 in force at Royal Assent, see [s. 219(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/a)
+[^c-6db5742d302bdfb21412d76cb359652b]: Commencement: S. 218 in force at Royal Assent, see [s. 219(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/a)

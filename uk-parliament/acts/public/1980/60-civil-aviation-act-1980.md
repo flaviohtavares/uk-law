@@ -45,7 +45,7 @@ An Act to provide for the reduction of the public dividend capital of the Britis
 
 (3) Nothing in subsection (1) above shall be taken as affecting any arrangements made by the Board before the passing of this Act for the payment of any sums to the Secretary of State in consideration of the reduction of the public dividend capital of the Board by virtue of this section; and any sums received by the Secretary of State in pursuance of any such arrangements shall be paid into the Consolidated Fund.
 
-#### 2. Financial limit of the Board.[^key-466ebbc66cf264026945d6856e033f7c][^c739950]
+#### 2. Financial limit of the Board.[^c-466ebbc66cf264026945d6856e033f7c][^c739950]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -55,7 +55,7 @@ An Act to provide for the reduction of the public dividend capital of the Britis
 
 (1) On the appointed day all the property, rights, liabilities and obligations to which the Board was entitled or subject immediately before that day shall (subject to the following provisions of this section and section 5(1) of this Act) become by virtue of this section property, rights, liabilities and obligations of a company nominated for the purposes of this section by the Secretary of State (referred to below in this Part of this Act as “**the successor company**”).
 
-(2)[^key-4b4fa6c4e507f9881093dbd8dc0b4b26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4b4fa6c4e507f9881093dbd8dc0b4b26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any agreement made, transaction effected or other thing done by, to or in relation to the Board which is in force or effective immediately before the appointed day shall have effect on and after that day as if made, effected or done by, to or in relation to the successor company, in all respects as if the successor company were the same person, in law, as the Board; and accordingly references to the Board—
 
@@ -71,7 +71,7 @@ shall be taken on and after the appointed day as referring to the successor comp
 
 (6) References in this Part of this Act to property, rights, liabilities and obligations of the Board are references to all such property, rights, liabilities and obligations, whether or not capable of being transferred or assigned by the Board.
 
-(7)[^key-ed6f22b7ebb7322d2986fd9155c554ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ed6f22b7ebb7322d2986fd9155c554ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) It is hereby declared for the avoidance of doubt that—
 
@@ -93,7 +93,7 @@ such shares in the company as the Secretary of State may direct.
 (3) Shares issued in pursuance of this section—
 
 - (a) shall be of such nominal value as the Secretary of State may direct; and
-- (b) shall be issued as fully paid and treated for the purposes of the the Companies Act 2006[^key-7cd83c36f5c061021925d382d1e6d5b3] as if they had been paid up by virtue of the payment to the successor company of their nominal value in cash.
+- (b) shall be issued as fully paid and treated for the purposes of the the Companies Act 2006[^c-7cd83c36f5c061021925d382d1e6d5b3] as if they had been paid up by virtue of the payment to the successor company of their nominal value in cash.
 
 (4) The Secretary of State may appoint such person or persons as he thinks fit to act as his nominees for the purposes of this section; and any person holding any shares or rights acquired by virtue of this section as a nominee of the Secretary of State shall hold and deal with them (or any of them) on such terms and in such manner as the Secretary of State may direct.
 
@@ -118,7 +118,7 @@ such shares in the company as the Secretary of State may direct.
 
 Accordingly (but without prejudice to the generality of the preceding provision) the amount to be included from time to time in any reserves of the successor company as representing its accumulated realised profits available for distribution shall be determined as if any profits realised and retained by the Board had been realised and retained by the successor company.
 
-(5) References in this section to the statutory accounts of the successor company are references to any accounts prepared by the successor company for the purposes of any provision of the the Companies Act 2006[^key-e6fb7016d1db1ef7a918a0e807d7a5d6][^c739956] (including group accounts).
+(5) References in this section to the statutory accounts of the successor company are references to any accounts prepared by the successor company for the purposes of any provision of the the Companies Act 2006[^c-e6fb7016d1db1ef7a918a0e807d7a5d6][^c739956] (including group accounts).
 
 #### 6. Government investment in shares and securities of the successor company.[^c739957]
 
@@ -188,9 +188,9 @@ until the Board is dissolved in accordance with subsection (7) below.
 
 (7) If the Board continues in existence after the appointed day by virtue of subsection (2) above the Secretary of State may by order made by statutory instrument dissolve the Board on a day specified in the order, as soon as he is satisfied that nothing further remains to be done by the Board under subsection (3) above.
 
-(8)[^key-e67af61b78e6f6bdad7be859619c55b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-e67af61b78e6f6bdad7be859619c55b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-d2f2adff87e04b0b01e4c9ac5fb17ae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-d2f2adff87e04b0b01e4c9ac5fb17ae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) References in this section to any foreign property, right, liability or obligation of the Board are references respectively to—
 
@@ -199,7 +199,7 @@ until the Board is dissolved in accordance with subsection (7) below.
 
 ### Miscellaneous and supplemental
 
-#### 9. Application of Trustee Investments Act 1961 in relation to investment in the successor company.[^key-ffa51b3f8773ed4af093b1d33b9c96c4]
+#### 9. Application of Trustee Investments Act 1961 in relation to investment in the successor company.[^c-ffa51b3f8773ed4af093b1d33b9c96c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -215,7 +215,7 @@ until the Board is dissolved in accordance with subsection (7) below.
 
 (2) References in this Part of this Act to the public dividend capital of the Board shall be construed in accordance with section 1(2) of this Act.
 
-(3)[^key-544b757bb70e702f53da0e0a30b2bbf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-544b757bb70e702f53da0e0a30b2bbf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part II — Miscellaneous Amendments of the Law Relating to Civil Aviation
 
@@ -249,11 +249,11 @@ until the Board is dissolved in accordance with subsection (7) below.
 
 ### Supplemental
 
-#### 27. Interpretation of Part II.[^key-c70c3b7948520e41b049478ff9dc4d9d]
+#### 27. Interpretation of Part II.[^c-c70c3b7948520e41b049478ff9dc4d9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 28. Repeals consequent on Part II.[^key-cdd11bf9490f4ce37fc41e44e35e7b20][^c739991]
+#### 28. Repeals consequent on Part II.[^c-cdd11bf9490f4ce37fc41e44e35e7b20][^c739991]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -346,7 +346,7 @@ Sections 8(1) and 28.
 |  |  | Section 12. |
 |  |  | In Schedule 1, paragraph 8. |
 
-### Part II — Repeals consequent on Part II[^key-b275d4da4dc5545f3ee5c47c3be74471]
+### Part II — Repeals consequent on Part II[^c-b275d4da4dc5545f3ee5c47c3be74471]
 
 **No longer in force.**
 
@@ -354,23 +354,23 @@ Sections 8(1) and 28.
 
 ## Annotations
 
-[^key-466ebbc66cf264026945d6856e033f7c]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1980/60/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-466ebbc66cf264026945d6856e033f7c]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1980/60/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
 [^c739950]: Modification: The text of s. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-4b4fa6c4e507f9881093dbd8dc0b4b26]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1980/60/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-4b4fa6c4e507f9881093dbd8dc0b4b26]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1980/60/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
-[^key-ed6f22b7ebb7322d2986fd9155c554ea]: Textual amendment: [S. 3(7)](https://www.legislation.gov.uk/ukpga/1980/60/section/3/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-ed6f22b7ebb7322d2986fd9155c554ea]: Textual amendment: [S. 3(7)](https://www.legislation.gov.uk/ukpga/1980/60/section/3/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
 [^c739952]: Modification: By [S.I. 1988/1984](https://www.legislation.gov.uk/uksi/1988/1984), [arts. 2](https://www.legislation.gov.uk/uksi/1988/1984/article/2), [3](https://www.legislation.gov.uk/uksi/1988/1984/article/3) certain functions of the Secretary of State are transferred to the Treasury so as to be exercisable concurrently with the Secretary of State
 
-[^key-7cd83c36f5c061021925d382d1e6d5b3]: Textual amendment: Words in s. 4(3)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/45) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-7cd83c36f5c061021925d382d1e6d5b3]: Textual amendment: Words in s. 4(3)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/45) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c739954]: Textual amendment: Words inserted by [S.I. 1988/1984](https://www.legislation.gov.uk/uksi/1988/1984), [art. 3(3)](https://www.legislation.gov.uk/uksi/1988/1984/article/3/3), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/1988/1984/schedule/paragraph/1/1)
 
 [^c739955]: Textual amendment: S. 4(7) repealed by [Finance Act 1988 (c. 39, SIF 114)](https://www.legislation.gov.uk/ukpga/1988/39), [s. 148](https://www.legislation.gov.uk/ukpga/1988/39/section/148), [Sch. 14 Pt. XI](https://www.legislation.gov.uk/ukpga/1988/39/schedule/14/part/XI)
 
-[^key-e6fb7016d1db1ef7a918a0e807d7a5d6]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/ukpga/1980/60/section/5/5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/50) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-e6fb7016d1db1ef7a918a0e807d7a5d6]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/ukpga/1980/60/section/5/5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/50) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c739956]: Textual amendment: Words substituted by [Companies Consolidation (Consequential Provisions) Act 1985 (c. 9, SIF 27)](https://www.legislation.gov.uk/ukpga/1985/9), [s. 30](https://www.legislation.gov.uk/ukpga/1985/9/section/30), [Sch. 2](https://www.legislation.gov.uk/ukpga/1985/9/schedule/2)
 
@@ -394,11 +394,11 @@ Sections 8(1) and 28.
 
 [^c739971]: Textual amendment: Words substituted by [S.I. 1988/1984](https://www.legislation.gov.uk/uksi/1988/1984), [art. 3(3)](https://www.legislation.gov.uk/uksi/1988/1984/article/3/3), [Sch. para. 1(6)](https://www.legislation.gov.uk/uksi/1988/1984/schedule/paragraph/1/6)
 
-[^key-e67af61b78e6f6bdad7be859619c55b2]: Textual amendment: [S. 8(8)](https://www.legislation.gov.uk/ukpga/1980/60/section/8/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-e67af61b78e6f6bdad7be859619c55b2]: Textual amendment: [S. 8(8)](https://www.legislation.gov.uk/ukpga/1980/60/section/8/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
-[^key-d2f2adff87e04b0b01e4c9ac5fb17ae5]: Textual amendment: [S. 8(9)](https://www.legislation.gov.uk/ukpga/1980/60/section/8/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-d2f2adff87e04b0b01e4c9ac5fb17ae5]: Textual amendment: [S. 8(9)](https://www.legislation.gov.uk/ukpga/1980/60/section/8/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
-[^key-ffa51b3f8773ed4af093b1d33b9c96c4]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1980/60/section/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-ffa51b3f8773ed4af093b1d33b9c96c4]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1980/60/section/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
 [^c739977]: Modification: Power of appointment conferred by s. 10(1) not exercised
 
@@ -406,7 +406,7 @@ Sections 8(1) and 28.
 
 [^c739979]: Marginal citation: [1977 c. 13](https://www.legislation.gov.uk/ukpga/1977/13).
 
-[^key-544b757bb70e702f53da0e0a30b2bbf7]: Textual amendment: [S. 10(3)](https://www.legislation.gov.uk/ukpga/1980/60/section/10/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-544b757bb70e702f53da0e0a30b2bbf7]: Textual amendment: [S. 10(3)](https://www.legislation.gov.uk/ukpga/1980/60/section/10/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
 [^c739980]: Textual amendment: [Ss. 11–19](https://www.legislation.gov.uk/ukpga/1980/60/section/11), [21](https://www.legislation.gov.uk/ukpga/1980/60/section/21) repealed by [Civil Aviation Act 1982 (c. 16, SIF 9)](https://www.legislation.gov.uk/ukpga/1982/16), [s. 109](https://www.legislation.gov.uk/ukpga/1982/16/section/109), [Sch. 16](https://www.legislation.gov.uk/ukpga/1982/16/schedule/16)
 
@@ -426,9 +426,9 @@ Sections 8(1) and 28.
 
 [^c739988]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1980/60/section/26) repealed by [Civil Aviation Act 1982 (c. 16, SIF 9)](https://www.legislation.gov.uk/ukpga/1982/16), [s. 109](https://www.legislation.gov.uk/ukpga/1982/16/section/109), [Sch. 16](https://www.legislation.gov.uk/ukpga/1982/16/schedule/16)
 
-[^key-c70c3b7948520e41b049478ff9dc4d9d]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/1980/60/section/27) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-c70c3b7948520e41b049478ff9dc4d9d]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/1980/60/section/27) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
-[^key-cdd11bf9490f4ce37fc41e44e35e7b20]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1980/60/section/28) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-cdd11bf9490f4ce37fc41e44e35e7b20]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1980/60/section/28) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
 [^c739991]: Modification: The text of s. 28 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -438,4 +438,4 @@ Sections 8(1) and 28.
 
 [^c739994]: Modification: The text of Sch. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-b275d4da4dc5545f3ee5c47c3be74471]: Textual amendment: [Sch. 3 Pt. II](https://www.legislation.gov.uk/ukpga/1980/60/schedule/3/part/II) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-b275d4da4dc5545f3ee5c47c3be74471]: Textual amendment: [Sch. 3 Pt. II](https://www.legislation.gov.uk/ukpga/1980/60/schedule/3/part/II) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

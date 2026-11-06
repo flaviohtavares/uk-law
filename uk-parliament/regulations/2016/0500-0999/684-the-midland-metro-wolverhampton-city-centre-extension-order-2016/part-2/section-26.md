@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Temporary interference with the Birmingham Canal[^key-8d41adcc5a82048be13fbfa4cd895566]
+## 26. Temporary interference with the Birmingham Canal[^c-8d41adcc5a82048be13fbfa4cd895566]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d41adcc5a82048be13fbfa4cd895566]: Commencement: Art. 26 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-8d41adcc5a82048be13fbfa4cd895566]: Commencement: Art. 26 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

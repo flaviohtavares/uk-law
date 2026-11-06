@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Existing local railway legislation[^key-aca897cd94ac544ad88621070f812332]
+## 88. Existing local railway legislation[^c-aca897cd94ac544ad88621070f812332]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ any part of that land, or an interest in or easement or other right over it, for
 
 ## Annotations
 
-[^key-aca897cd94ac544ad88621070f812332]: Commencement: Art. 88 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-aca897cd94ac544ad88621070f812332]: Commencement: Art. 88 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00051]: Footnote: 56 & 57 Vict. c. i.

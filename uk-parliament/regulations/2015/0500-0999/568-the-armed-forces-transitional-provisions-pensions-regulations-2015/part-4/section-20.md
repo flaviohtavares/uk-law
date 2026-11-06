@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Amendment of article 12 (effect of rejoining armed forces or entering certain reserve forces service on article 9 award) of the EDP Order 2005[^key-79bf1d222ecb35c0378afe3ac70dbedd]
+## 20. Amendment of article 12 (effect of rejoining armed forces or entering certain reserve forces service on article 9 award) of the EDP Order 2005[^c-79bf1d222ecb35c0378afe3ac70dbedd]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ Article 12 of the EDP Order 2005 is amended by—
 
 ## Annotations
 
-[^key-79bf1d222ecb35c0378afe3ac70dbedd]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-79bf1d222ecb35c0378afe3ac70dbedd]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

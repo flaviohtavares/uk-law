@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Staffing of federations[^key-c9624c903d4585fdb5753b9b4178d01c]
+## 25. Staffing of federations[^c-c9624c903d4585fdb5753b9b4178d01c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Staffing Regulations apply to the staffing of federations subject to the mod
 
 ## Annotations
 
-[^key-c9624c903d4585fdb5753b9b4178d01c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2012/1035/regulation/25) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-c9624c903d4585fdb5753b9b4178d01c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2012/1035/regulation/25) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

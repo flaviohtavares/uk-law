@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Obstruction of inspectors[^key-c8f15970db58d586357fd1ca18b62b8a]
+## 22. Obstruction of inspectors[^c-c8f15970db58d586357fd1ca18b62b8a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A person must not intentionally obstruct an inspector appointed for the purposes
 
 ## Annotations
 
-[^key-c8f15970db58d586357fd1ca18b62b8a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2021/84/regulation/22) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-c8f15970db58d586357fd1ca18b62b8a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2021/84/regulation/22) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

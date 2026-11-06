@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 102a. Transitional provisions: relationship with trade marks[^key-9280a38e1efa294287da10c33f54717e]
+## Article 102a. Transitional provisions: relationship with trade marks[^c-9280a38e1efa294287da10c33f54717e]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9280a38e1efa294287da10c33f54717e]: Textual amendment: [Arts. 102](https://www.legislation.gov.uk/eur/2013/1308/article/102)a, 102b inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [20(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/20/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2020/1637/schedule/3/part/2) (as amended by [S.I. 2020/1661](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(8)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/8/a))
+[^c-9280a38e1efa294287da10c33f54717e]: Textual amendment: [Arts. 102](https://www.legislation.gov.uk/eur/2013/1308/article/102)a, 102b inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [20(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/20/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2020/1637/schedule/3/part/2) (as amended by [S.I. 2020/1661](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(8)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/8/a))

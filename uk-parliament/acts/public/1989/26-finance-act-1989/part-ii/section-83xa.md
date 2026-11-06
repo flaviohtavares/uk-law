@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83XA. Structural assets[^key-72ac5b7052d2166c7ef303f6fa7640d2]
+## 83XA. Structural assets[^c-72ac5b7052d2166c7ef303f6fa7640d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72ac5b7052d2166c7ef303f6fa7640d2]: Textual amendment: S. 83XA omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/54)
+[^c-72ac5b7052d2166c7ef303f6fa7640d2]: Textual amendment: S. 83XA omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/54)

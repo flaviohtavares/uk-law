@@ -44,11 +44,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001], makes the following Regulations in exercise of the powers conferred by sections 41(2) and 45(1)(b) of the Disability Discrimination Act 1995[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-2593d569a4387a7c0fb23ea2eac148c9]
+## 1. Citation and commencement[^c-2593d569a4387a7c0fb23ea2eac148c9]
 
 These Regulations may be cited as the Public Service Vehicles Accessibility (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 1st October 2023.
 
-## 2. Amendment of the Public Service Vehicles Accessibility Regulations[^key-d5593f5f6dc54c6a353374912441f1dd]
+## 2. Amendment of the Public Service Vehicles Accessibility Regulations[^c-d5593f5f6dc54c6a353374912441f1dd]
 
 (1) The Public Service Vehicles Accessibility Regulations (Northern Ireland) 2003[^f00004] are amended in accordance with paragraph (2).
 
@@ -91,8 +91,8 @@ An Explanatory Memorandum and Regulatory Impact Assessment have been produced an
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-2593d569a4387a7c0fb23ea2eac148c9]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/129/regulation/1)
+[^c-2593d569a4387a7c0fb23ea2eac148c9]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/129/regulation/1)
 
-[^key-d5593f5f6dc54c6a353374912441f1dd]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/129/regulation/1)
+[^c-d5593f5f6dc54c6a353374912441f1dd]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/129/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2003 No. 37](https://www.legislation.gov.uk/nisr/2003/37); to which there are no relevant amendments.

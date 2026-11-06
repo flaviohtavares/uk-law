@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Meaning of “development”[^key-1ab8f6c10de8430858a12a52ef815f5f]
+## 133. Meaning of “development”[^c-1ab8f6c10de8430858a12a52ef815f5f]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ab8f6c10de8430858a12a52ef815f5f]: Commencement: S. 133 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-1ab8f6c10de8430858a12a52ef815f5f]: Commencement: S. 133 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

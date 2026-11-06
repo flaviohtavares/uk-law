@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Delegation of functions relating to regional marine plans[^key-bb78933d476f4e758699ea4a69e766c8]
+## 12. Delegation of functions relating to regional marine plans[^c-bb78933d476f4e758699ea4a69e766c8]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
   - (i) a public authority,
   - (ii) a person nominated by a public authority with an interest in the Scottish marine region to which the regional marine plan applies as the Scottish Ministers consider appropriate.
 
-(2A)[^key-76064a5a25ed829b43113d341f00fcee] But the requirement in subsection (2) does not apply in relation to a delegate where—
+(2A)[^c-76064a5a25ed829b43113d341f00fcee] But the requirement in subsection (2) does not apply in relation to a delegate where—
 
 - (a) that delegate is either—
   - (i) Orkney Islands Council,
@@ -82,6 +82,6 @@ but excluding the excepted functions.
 
 ## Annotations
 
-[^key-bb78933d476f4e758699ea4a69e766c8]: Commencement: S. 12 in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-bb78933d476f4e758699ea4a69e766c8]: Commencement: S. 12 in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
 
-[^key-76064a5a25ed829b43113d341f00fcee]: Textual amendment: [S. 12(2A)](https://www.legislation.gov.uk/asp/2010/5/section/12/2A) inserted (4.10.2018) by [Islands (Scotland) Act 2018 (asp 12)](https://www.legislation.gov.uk/asp/2018/12), [ss. 27](https://www.legislation.gov.uk/asp/2018/12/section/27), [31(2)](https://www.legislation.gov.uk/asp/2018/12/section/31/2); [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)
+[^c-76064a5a25ed829b43113d341f00fcee]: Textual amendment: [S. 12(2A)](https://www.legislation.gov.uk/asp/2010/5/section/12/2A) inserted (4.10.2018) by [Islands (Scotland) Act 2018 (asp 12)](https://www.legislation.gov.uk/asp/2018/12), [ss. 27](https://www.legislation.gov.uk/asp/2018/12/section/27), [31(2)](https://www.legislation.gov.uk/asp/2018/12/section/31/2); [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Local authorities and fire and rescue authorities: assistance etc to regulator[^key-ea5201df06747c7efd300787d3fc5d8d][^key-8dffcc9fca3587d60e30946f5932cb9b]
+## 13. Local authorities and fire and rescue authorities: assistance etc to regulator[^c-ea5201df06747c7efd300787d3fc5d8d][^c-8dffcc9fca3587d60e30946f5932cb9b]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea5201df06747c7efd300787d3fc5d8d]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-ea5201df06747c7efd300787d3fc5d8d]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-8dffcc9fca3587d60e30946f5932cb9b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/30/section/13) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/b)
+[^c-8dffcc9fca3587d60e30946f5932cb9b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/30/section/13) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/b)

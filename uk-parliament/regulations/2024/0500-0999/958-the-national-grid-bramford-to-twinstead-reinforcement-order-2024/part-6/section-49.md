@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Temporary closure of, and works in, the River Stour[^key-0fe53060079f74bb48cb1200b463613c]
+## 49. Temporary closure of, and works in, the River Stour[^c-0fe53060079f74bb48cb1200b463613c]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fe53060079f74bb48cb1200b463613c]: Commencement: Art. 49 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-0fe53060079f74bb48cb1200b463613c]: Commencement: Art. 49 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

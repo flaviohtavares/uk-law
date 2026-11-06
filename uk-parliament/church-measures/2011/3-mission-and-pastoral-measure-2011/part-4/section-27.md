@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 27. Transmission of copies of scheme[^key-b429874265a50db9f3705a5a907f15d8]
+## 27. Transmission of copies of scheme[^c-b429874265a50db9f3705a5a907f15d8]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b429874265a50db9f3705a5a907f15d8]: Commencement: S. 27 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-b429874265a50db9f3705a5a907f15d8]: Commencement: S. 27 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Appointment of committees etc. for the purpose of discharging functions[^key-7da37a0d00f451a5865182edf3f589cf]
+## 11. Appointment of committees etc. for the purpose of discharging functions[^c-7da37a0d00f451a5865182edf3f589cf]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7da37a0d00f451a5865182edf3f589cf]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2014/8/section/11) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-7da37a0d00f451a5865182edf3f589cf]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2014/8/section/11) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Interpretation of Part 2[^key-827fe2aa7fd10be961b29916c600abb8]
+## 33. Interpretation of Part 2[^c-827fe2aa7fd10be961b29916c600abb8]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ In this Part—
 - “**executive**” (“***gweithrediaeth***”) means any of the following—
   - (a) a leader and cabinet executive (Wales);
   - (b) a mayor and cabinet executive;
-- “[^key-59664e23a7efd84ef15692fe408c1407]**local authority**” (“***awdurdod lleol***”) includes a corporate joint committee;
+- “[^c-59664e23a7efd84ef15692fe408c1407]**local authority**” (“***awdurdod lleol***”) includes a corporate joint committee;
 - “**meeting of the authority**” (“***cyfarfod o'r awrdurdod***”) means any of the following—
   - (a) a meeting of the local authority;
   - (b) a meeting of any committee or sub-committee of the authority;
@@ -41,6 +41,6 @@ In this Part—
 
 ## Annotations
 
-[^key-827fe2aa7fd10be961b29916c600abb8]: Commencement: [S. 33](https://www.legislation.gov.uk/mwa/2011/4/section/33) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
+[^c-827fe2aa7fd10be961b29916c600abb8]: Commencement: [S. 33](https://www.legislation.gov.uk/mwa/2011/4/section/33) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
 
-[^key-59664e23a7efd84ef15692fe408c1407]: Textual amendment: Words in [s. 33](https://www.legislation.gov.uk/mwa/2011/4/section/33) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [49](https://www.legislation.gov.uk/wsi/2022/372/regulation/49)
+[^c-59664e23a7efd84ef15692fe408c1407]: Textual amendment: Words in [s. 33](https://www.legislation.gov.uk/mwa/2011/4/section/33) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [49](https://www.legislation.gov.uk/wsi/2022/372/regulation/49)

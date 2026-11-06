@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Reference of medical questions - permanent disablement[^key-02f1701a783ff28d73222525c04becc0]
+## 67. Reference of medical questions - permanent disablement[^c-02f1701a783ff28d73222525c04becc0]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02f1701a783ff28d73222525c04becc0]: Commencement: Reg. 67 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-02f1701a783ff28d73222525c04becc0]: Commencement: Reg. 67 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

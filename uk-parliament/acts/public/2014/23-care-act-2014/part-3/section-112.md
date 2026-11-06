@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. The HRA's policy on research ethics committees[^key-97f4537d259d6205418877d7b3378b30]
+## 112. The HRA's policy on research ethics committees[^c-97f4537d259d6205418877d7b3378b30]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97f4537d259d6205418877d7b3378b30]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2014/23/section/112) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/d)
+[^c-97f4537d259d6205418877d7b3378b30]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2014/23/section/112) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/d)

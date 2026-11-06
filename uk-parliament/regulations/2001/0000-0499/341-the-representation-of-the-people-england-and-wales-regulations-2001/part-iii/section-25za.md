@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25ZA. Reminders to overseas electors who have an anonymous entry[^key-8a214bdf902f95c67fa9b6b473bbbc84]
+## 25ZA. Reminders to overseas electors who have an anonymous entry[^c-8a214bdf902f95c67fa9b6b473bbbc84]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a214bdf902f95c67fa9b6b473bbbc84]: Textual amendment: Reg. 25ZA inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/5/5)
+[^c-8a214bdf902f95c67fa9b6b473bbbc84]: Textual amendment: Reg. 25ZA inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/5/5)

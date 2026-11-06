@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Determination of tariff income from capital[^key-ef5405d7e82218cdf467c51f303a5bf3]
+## 41. Determination of tariff income from capital[^c-ef5405d7e82218cdf467c51f303a5bf3]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef5405d7e82218cdf467c51f303a5bf3]: Commencement: Reg. 41 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-ef5405d7e82218cdf467c51f303a5bf3]: Commencement: Reg. 41 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Designated airports.[^key-ffde0028f6e8605b54911b2ae42f4402]
+## 25. Designated airports.[^c-ffde0028f6e8605b54911b2ae42f4402]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffde0028f6e8605b54911b2ae42f4402]: Textual amendment: S. 25 omitted (29.1.2010 for E.W.S., 1.4.2010 for N.I.) by virtue of [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/2); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)
+[^c-ffde0028f6e8605b54911b2ae42f4402]: Textual amendment: S. 25 omitted (29.1.2010 for E.W.S., 1.4.2010 for N.I.) by virtue of [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/2); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(u)](https://www.legislation.gov.uk/uksi/2010/507/article/5/u)

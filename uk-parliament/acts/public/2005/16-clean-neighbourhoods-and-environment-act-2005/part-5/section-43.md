@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Clean-up costs[^key-01db51918898f8417df855357f9d27ff]
+## 43. Clean-up costs[^c-01db51918898f8417df855357f9d27ff]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01db51918898f8417df855357f9d27ff]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2005/16/section/43) in force at 18.10.2005 by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2896/article/2/b)
+[^c-01db51918898f8417df855357f9d27ff]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2005/16/section/43) in force at 18.10.2005 by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2896/article/2/b)

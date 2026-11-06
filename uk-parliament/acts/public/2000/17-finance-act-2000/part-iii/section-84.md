@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Exemption of payments under New Deal 50plus.[^key-294cc2976be1a8a2cfce21b4cc687521]
+## 84. Exemption of payments under New Deal 50plus.[^c-294cc2976be1a8a2cfce21b4cc687521]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-294cc2976be1a8a2cfce21b4cc687521]: Textual amendment: [S. 84](https://www.legislation.gov.uk/ukpga/2000/17/section/84) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 515](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/515), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-294cc2976be1a8a2cfce21b4cc687521]: Textual amendment: [S. 84](https://www.legislation.gov.uk/ukpga/2000/17/section/84) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 515](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/515), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

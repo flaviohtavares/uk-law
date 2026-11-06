@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 155. Death grant: death of pension credit member before pension becomes payable[^key-b37cd4a2806e1986591c103de4fd5e6c]
+## 155. Death grant: death of pension credit member before pension becomes payable[^c-b37cd4a2806e1986591c103de4fd5e6c]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b37cd4a2806e1986591c103de4fd5e6c]: Commencement: [Reg. 155](https://www.legislation.gov.uk/ssi/2014/292/regulation/155) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-b37cd4a2806e1986591c103de4fd5e6c]: Commencement: [Reg. 155](https://www.legislation.gov.uk/ssi/2014/292/regulation/155) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

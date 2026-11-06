@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Amount of transferred pension[^key-28439972e09531e7e2a30bc1ff4272b1]
+## 143. Amount of transferred pension[^c-28439972e09531e7e2a30bc1ff4272b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28439972e09531e7e2a30bc1ff4272b1]: Commencement: [Reg. 143](https://www.legislation.gov.uk/uksi/2015/182/regulation/143) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-28439972e09531e7e2a30bc1ff4272b1]: Commencement: [Reg. 143](https://www.legislation.gov.uk/uksi/2015/182/regulation/143) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 137. Surrender for non-disclosure[^key-0ca6d9edfc8e13e6332282381fd8f751]
+## 137. Surrender for non-disclosure[^c-0ca6d9edfc8e13e6332282381fd8f751]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ca6d9edfc8e13e6332282381fd8f751]: Commencement: [Rule 137](https://www.legislation.gov.uk/nisr/2026/11/rule/137) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-0ca6d9edfc8e13e6332282381fd8f751]: Commencement: [Rule 137](https://www.legislation.gov.uk/nisr/2026/11/rule/137) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

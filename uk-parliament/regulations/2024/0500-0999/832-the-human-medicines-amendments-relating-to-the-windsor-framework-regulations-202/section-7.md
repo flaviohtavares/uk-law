@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amendment to regulation 8[^key-f99693aca881def520a31be600eb3b52]
+## 7. Amendment to regulation 8[^c-f99693aca881def520a31be600eb3b52]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ In regulation 8 (general interpretation)—
 
 ## Annotations
 
-[^key-f99693aca881def520a31be600eb3b52]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/832/regulation/7) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-f99693aca881def520a31be600eb3b52]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/832/regulation/7) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00007]: Footnote: The definition was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).
 

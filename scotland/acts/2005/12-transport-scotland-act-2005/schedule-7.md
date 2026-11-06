@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 7 — Schedule 8B to the Roads (Scotland) Act 1984[^key-fbb63574b26f5ca22f25c122e82ec222]
+## SCHEDULE 7 — Schedule 8B to the Roads (Scotland) Act 1984[^c-fbb63574b26f5ca22f25c122e82ec222]
 
 *Extent: S*
 
@@ -146,4 +146,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbb63574b26f5ca22f25c122e82ec222]: Commencement: [Sch. 7](https://www.legislation.gov.uk/asp/2005/12/schedule/7) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-fbb63574b26f5ca22f25c122e82ec222]: Commencement: [Sch. 7](https://www.legislation.gov.uk/asp/2005/12/schedule/7) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)

@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation, England
 
-The Rating Lists (Valuation Date) (England) Order 2018 (revoked)[^key-517a2976eda24802b249726f478172c9]
+The Rating Lists (Valuation Date) (England) Order 2018 (revoked)[^c-517a2976eda24802b249726f478172c9]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st July 2018
 
-[^key-517a2976eda24802b249726f478172c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-517a2976eda24802b249726f478172c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-517a2976eda24802b249726f478172c9]
+## 1. Citation and commencement[^c-517a2976eda24802b249726f478172c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Valuation date[^key-517a2976eda24802b249726f478172c9]
+## 2. Valuation date[^c-517a2976eda24802b249726f478172c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Rating Lists (Valuation Date) (England) Order 2014[^key-517a2976eda24802b249726f478172c9]
+## 3. Revocation of the Rating Lists (Valuation Date) (England) Order 2014[^c-517a2976eda24802b249726f478172c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-517a2976eda24802b249726f478172c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-517a2976eda24802b249726f478172c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-517a2976eda24802b249726f478172c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-517a2976eda24802b249726f478172c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-517a2976eda24802b249726f478172c9]: Textual amendment: Order revoked (31.8.2020) by [The Rating Lists (Valuation Date) (England) Order 2020 (S.I. 2020/832)](https://www.legislation.gov.uk/uksi/2020/832), [arts. 1](https://www.legislation.gov.uk/uksi/2020/832/article/1), [3](https://www.legislation.gov.uk/uksi/2020/832/article/3)
+[^c-517a2976eda24802b249726f478172c9]: Textual amendment: Order revoked (31.8.2020) by [The Rating Lists (Valuation Date) (England) Order 2020 (S.I. 2020/832)](https://www.legislation.gov.uk/uksi/2020/832), [arts. 1](https://www.legislation.gov.uk/uksi/2020/832/article/1), [3](https://www.legislation.gov.uk/uksi/2020/832/article/3)

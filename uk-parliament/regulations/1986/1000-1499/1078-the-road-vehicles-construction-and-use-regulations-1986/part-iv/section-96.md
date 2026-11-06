@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 96. Use of gas-fired appliances when a vehicle is in motion[^key-d1343a254fc8129bee909f9c2c5cb428]
+## 96. Use of gas-fired appliances when a vehicle is in motion[^c-d1343a254fc8129bee909f9c2c5cb428]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1343a254fc8129bee909f9c2c5cb428]: Commencement: [Reg. 96](https://www.legislation.gov.uk/uksi/1986/1078/regulation/96) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-d1343a254fc8129bee909f9c2c5cb428]: Commencement: [Reg. 96](https://www.legislation.gov.uk/uksi/1986/1078/regulation/96) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

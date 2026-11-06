@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Aviation, maritime and rail security[^key-3594aebdf7335419709c9de6218aa1d2]
+## SCHEDULE 5 — Aviation, maritime and rail security[^c-3594aebdf7335419709c9de6218aa1d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Section 25
 
 #### Amendments of the Immigration Act 1971
 
-**1.**[^key-164106836cbb70daea5fef546ef74a2f] (1) Schedule 2 to the Immigration Act 1971 (administrative provisions as to control on entry etc) is amended as follows.
+**1.**[^c-164106836cbb70daea5fef546ef74a2f] (1) Schedule 2 to the Immigration Act 1971 (administrative provisions as to control on entry etc) is amended as follows.
 
 (2) In paragraph 27 (requirement to provide passenger lists etc), in sub-paragraph (5), after paragraph (b) insert—
 
@@ -101,7 +101,7 @@ Section 25
 
 (5) Omit paragraph 27C (notification of non-EEA arrivals).
 
-**2.**[^key-164106836cbb70daea5fef546ef74a2f] In section 27 of that Act (offences by persons connected with ships or aircraft or with ports)—
+**2.**[^c-164106836cbb70daea5fef546ef74a2f] In section 27 of that Act (offences by persons connected with ships or aircraft or with ports)—
 
 - (a) the existing provision becomes subsection (1);
 - (b) at the end insert—
@@ -122,13 +122,13 @@ Section 25
 
 #### Amendments of the Immigration, Asylum and Nationality Act 2006
 
-**5.**[^key-b98da25db9f019b137b278586aaba6c3] The Immigration, Asylum and Nationality Act 2006 is amended as set out in paragraphs 6 to 8.
+**5.**[^c-b98da25db9f019b137b278586aaba6c3] The Immigration, Asylum and Nationality Act 2006 is amended as set out in paragraphs 6 to 8.
 
-**6.**[^key-b98da25db9f019b137b278586aaba6c3] In section 32 (passenger and crew information: police powers), at the end of subsection (6) insert—
+**6.**[^c-b98da25db9f019b137b278586aaba6c3] In section 32 (passenger and crew information: police powers), at the end of subsection (6) insert—
 
 > - (e) may include a requirement for the owner or agent of a ship or aircraft to be able to receive, in a specified form and manner, communications relating to the information.
 
-**7.**[^key-b98da25db9f019b137b278586aaba6c3] After that section insert—
+**7.**[^c-b98da25db9f019b137b278586aaba6c3] After that section insert—
 
 > **32A. Regulations requiring information to be provided to police**
 >
@@ -206,7 +206,7 @@ Section 25
 > - (a) must be made by statutory instrument, and
 > - (b) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
 
-**8.**[^key-b98da25db9f019b137b278586aaba6c3] (1) Section 34 (offence of failure to provide passenger information etc) is amended as follows.
+**8.**[^c-b98da25db9f019b137b278586aaba6c3] (1) Section 34 (offence of failure to provide passenger information etc) is amended as follows.
 
 (2) In subsection (1), for “imposed under section 32(2) or (3) or 33(2)” substitute
 
@@ -333,7 +333,7 @@ Section 25
 
 #### Amendments of the Aviation and Maritime Security Act 1990: information and directions
 
-**12.**[^key-6526d4ea08ddfca3939b06b592fdb0be] (1) Part 3 of the Aviation and Maritime Security Act 1990 (protection of ships and harbour areas against acts of violence) is amended as follows.
+**12.**[^c-6526d4ea08ddfca3939b06b592fdb0be] (1) Part 3 of the Aviation and Maritime Security Act 1990 (protection of ships and harbour areas against acts of violence) is amended as follows.
 
 (2) In section 19 (power of Secretary of State to require information)—
 
@@ -373,7 +373,7 @@ Section 25
 
 #### Amendments of the Channel Tunnel (Security) Order 1994: information and directions
 
-**13.**[^key-e2aed24831eb2eddc99010cec7e46295] (1) Part 3 of the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) (protection of Channel Tunnel trains and the tunnel system against acts of violence) is amended as follows.
+**13.**[^c-e2aed24831eb2eddc99010cec7e46295] (1) Part 3 of the Channel Tunnel (Security) Order 1994 (S.I. 1994/570) (protection of Channel Tunnel trains and the tunnel system against acts of violence) is amended as follows.
 
 (2) In article 11 (powers of Secretary of State to require information)—
 
@@ -400,18 +400,18 @@ Section 25
   > - (c) shall be made by the Secretary of State by statutory instrument, and
   > - (d) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**14.**[^key-e0cfb2ad41d125d78fb2f5fd72d8fafc] The amendments made by paragraph 13 do not affect the power to make further subordinate legislation amending or revoking the amended provisions.
+**14.**[^c-e0cfb2ad41d125d78fb2f5fd72d8fafc] The amendments made by paragraph 13 do not affect the power to make further subordinate legislation amending or revoking the amended provisions.
 
 ## Annotations
 
-[^key-3594aebdf7335419709c9de6218aa1d2]: Modification: [Sch. 5](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(g)](https://www.legislation.gov.uk/uksi/2017/982/article/2/g), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/982/schedule/7)
+[^c-3594aebdf7335419709c9de6218aa1d2]: Modification: [Sch. 5](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(g)](https://www.legislation.gov.uk/uksi/2017/982/article/2/g), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/982/schedule/7)
 
-[^key-164106836cbb70daea5fef546ef74a2f]: Modification: [Sch. 5 paras. 1](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/2) extended (with modifications) (11.11.2021) by S.I. 2008/680, art. 22ZA, Sch. 9AA (as inserted by [The Immigration (Isle of Man) (Amendment) Order 2021 (S.I. 2021/1277)](https://www.legislation.gov.uk/uksi/2021/1277), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1277/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/1277/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2021/1277/schedule))
+[^c-164106836cbb70daea5fef546ef74a2f]: Modification: [Sch. 5 paras. 1](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/2) extended (with modifications) (11.11.2021) by S.I. 2008/680, art. 22ZA, Sch. 9AA (as inserted by [The Immigration (Isle of Man) (Amendment) Order 2021 (S.I. 2021/1277)](https://www.legislation.gov.uk/uksi/2021/1277), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1277/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/1277/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2021/1277/schedule))
 
-[^key-b98da25db9f019b137b278586aaba6c3]: Modification: [Sch. 5 paras. 5-8](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/5) extended (Isle of Man) (with modifications) (11.11.2021) by S.I. 2008/680, art. 22ZA, Sch. 9AA (as inserted by [The Immigration (Isle of Man) (Amendment) Order 2021 (S.I. 2021/1277)](https://www.legislation.gov.uk/uksi/2021/1277), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1277/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/1277/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2021/1277/schedule))
+[^c-b98da25db9f019b137b278586aaba6c3]: Modification: [Sch. 5 paras. 5-8](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/5) extended (Isle of Man) (with modifications) (11.11.2021) by S.I. 2008/680, art. 22ZA, Sch. 9AA (as inserted by [The Immigration (Isle of Man) (Amendment) Order 2021 (S.I. 2021/1277)](https://www.legislation.gov.uk/uksi/2021/1277), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1277/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/1277/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2021/1277/schedule))
 
-[^key-6526d4ea08ddfca3939b06b592fdb0be]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12) in force at 1.10.2015 by [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
+[^c-6526d4ea08ddfca3939b06b592fdb0be]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12) in force at 1.10.2015 by [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
 
-[^key-e2aed24831eb2eddc99010cec7e46295]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13) in force at 1.10.2015 by [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
+[^c-e2aed24831eb2eddc99010cec7e46295]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/13) in force at 1.10.2015 by [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
 
-[^key-e0cfb2ad41d125d78fb2f5fd72d8fafc]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14) in force at 1.10.2015 by [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
+[^c-e0cfb2ad41d125d78fb2f5fd72d8fafc]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/14) in force at 1.10.2015 by [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)

@@ -31,8 +31,8 @@ summary: ''
 
 (4) For the purposes of paragraph (3) the relevant period is—
 
-- (a) four weeks beginning immediately after[^key-d08de8e9a2066672299e6976772de69a] the date on which the application is advertised under paragraph (2); or
-- (b) if it expires later, the period of two months beginning immediately after[^key-924ad60264796a3f577811459cf79113] the date on which the opinion is issued under rule 97(2).
+- (a) four weeks beginning immediately after[^c-d08de8e9a2066672299e6976772de69a] the date on which the application is advertised under paragraph (2); or
+- (b) if it expires later, the period of two months beginning immediately after[^c-924ad60264796a3f577811459cf79113] the date on which the opinion is issued under rule 97(2).
 
 (5) The comptroller shall send to the other parties a copy of each statement or counter-statement filed under paragraph (3).
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d08de8e9a2066672299e6976772de69a]: Textual amendment: Words in [rule 99(4)(a)](https://www.legislation.gov.uk/uksi/2007/3291/rule/99/4/a) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-d08de8e9a2066672299e6976772de69a]: Textual amendment: Words in [rule 99(4)(a)](https://www.legislation.gov.uk/uksi/2007/3291/rule/99/4/a) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
 
-[^key-924ad60264796a3f577811459cf79113]: Textual amendment: Words in [rule 99(4)(b)](https://www.legislation.gov.uk/uksi/2007/3291/rule/99/4/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-924ad60264796a3f577811459cf79113]: Textual amendment: Words in [rule 99(4)(b)](https://www.legislation.gov.uk/uksi/2007/3291/rule/99/4/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

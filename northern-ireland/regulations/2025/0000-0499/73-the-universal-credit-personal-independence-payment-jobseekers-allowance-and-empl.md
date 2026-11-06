@@ -42,7 +42,7 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 5(1)(q) and (5) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002] and sections 15(1) and 60(2) of the Justice Act (Northern Ireland) 2016[^f00003].
 
-## 1. Citation, commencement, interpretation and cessation[^key-a422755f4f8ee31df28aa2103851a641]
+## 1. Citation, commencement, interpretation and cessation[^c-a422755f4f8ee31df28aa2103851a641]
 
 (1) These Regulations may be cited as the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment and Modification) Regulations (Northern Ireland) 2025 and come into operation on 30th April 2025.
 
@@ -50,7 +50,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
 (3) Regulation 3 will cease to have effect on 30th April 2026 at midnight.
 
-## 2. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland)[^key-4923d1a140aafb5270a5a2d7be93e4ab]
+## 2. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland)[^c-4923d1a140aafb5270a5a2d7be93e4ab]
 
 (1) Paragraph 5(2) (priority as between certain debts) of Schedule 5 (deductions from benefit and direct payment to third parties) to the 2016 Regulations shall be amended in accordance with paragraphs (2) and (3).
 
@@ -60,7 +60,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
 (3) Omit head (ee).
 
-## 3. Modification of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland)[^key-3bdc5cd38f840be4b8e458ca75ca3bd2]
+## 3. Modification of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland)[^c-3bdc5cd38f840be4b8e458ca75ca3bd2]
 
 (1) Schedule 5 (deductions from benefit and direct payment to third parties) to the 2016 Regulations shall be modified in accordance with paragraphs (2) and (3).
 
@@ -75,7 +75,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
 (3) In paragraph 5(4) as if for “housing costs” there were substituted “Schedule 6 (deductions from benefit in respect of child support maintenance and payment to persons with care)”.
 
-## 4. Revocation[^key-2f0e30f81b9ee27787e9c75656472690]
+## 4. Revocation[^c-2f0e30f81b9ee27787e9c75656472690]
 
 Regulation 5(c) of the Social Security (Fines) (Deduction from Benefits) Regulations (Northern Ireland) 2021[^f00005] is revoked.
 
@@ -113,14 +113,14 @@ A full impact assessment has not been produced for these Regulations as no signi
 
 [^f00003]: Footnote: [2016 c. 21 (N.I.)](https://www.legislation.gov.uk/nia/2016/21), as amended by Article 2 of The Justice Act (Northern Ireland) 2016 (Relevant Benefits) Order (Northern Ireland) 2021 ([S.R. 2021 No. 203](https://www.legislation.gov.uk/nisr/2021/203))
 
-[^key-a422755f4f8ee31df28aa2103851a641]: Commencement: Reg. 1 in operation at 30.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1)
+[^c-a422755f4f8ee31df28aa2103851a641]: Commencement: Reg. 1 in operation at 30.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2016 No. 220](https://www.legislation.gov.uk/nisr/2016/220)
 
-[^key-4923d1a140aafb5270a5a2d7be93e4ab]: Commencement: Reg. 2 in operation at 30.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1)
+[^c-4923d1a140aafb5270a5a2d7be93e4ab]: Commencement: Reg. 2 in operation at 30.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1)
 
-[^key-3bdc5cd38f840be4b8e458ca75ca3bd2]: Commencement: Reg. 3 in operation at 30.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1)
+[^c-3bdc5cd38f840be4b8e458ca75ca3bd2]: Commencement: Reg. 3 in operation at 30.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1)
 
-[^key-2f0e30f81b9ee27787e9c75656472690]: Commencement: Reg. 4 in operation at 30.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1)
+[^c-2f0e30f81b9ee27787e9c75656472690]: Commencement: Reg. 4 in operation at 30.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2021 No. 215](https://www.legislation.gov.uk/nisr/2021/215)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Regulations and orders[^key-95f25e28f8576228a27d9bd76f5d87fd]
+## 36. Regulations and orders[^c-95f25e28f8576228a27d9bd76f5d87fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95f25e28f8576228a27d9bd76f5d87fd]: Commencement: S. 36 in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-95f25e28f8576228a27d9bd76f5d87fd]: Commencement: S. 36 in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)

@@ -50,11 +50,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State is a Minister designated for the purposes of the 1972 Act in relation to electronic communications[^f00002], information society services[^f00003] and measures relating to television broadcasting[^f00004].
 
-## 1. Citation and commencement[^key-61957e618c4216a56e02f617f24172f5]
+## 1. Citation and commencement[^c-61957e618c4216a56e02f617f24172f5]
 
 These Regulations may be cited as the Broadcasting and Communications (Amendment) Regulations 2013 and come into force on 1st October 2013.
 
-## 2. Audiovisual Media Services Regulations 2009[^key-e2bc95dae70e734fa991cfdf899a0d20]
+## 2. Audiovisual Media Services Regulations 2009[^c-e2bc95dae70e734fa991cfdf899a0d20]
 
 (1) The Audiovisual Media Services Regulations 2009[^f00005] are amended as follows.
 
@@ -62,7 +62,7 @@ These Regulations may be cited as the Broadcasting and Communications (Amendment
 
 (3) In regulation 13, omit paragraph (6).
 
-## 3. Broadcasting Act 1990[^key-d63cdc8ba361c06692465b258bc4f09f]
+## 3. Broadcasting Act 1990[^c-d63cdc8ba361c06692465b258bc4f09f]
 
 In section 202 of the Broadcasting Act 1990[^f00006], in subsection (1), for the definitions of “EEA Agreement” and “EEA State” substitute—
 
@@ -70,7 +70,7 @@ In section 202 of the Broadcasting Act 1990[^f00006], in subsection (1), for the
 
 .
 
-## 4. Broadcasting Act 1996[^key-442bc3562176a3b2f0e32c000490318a]
+## 4. Broadcasting Act 1996[^c-442bc3562176a3b2f0e32c000490318a]
 
 (1) The Broadcasting Act 1996[^f00008] is amended as follows.
 
@@ -113,11 +113,11 @@ In section 202 of the Broadcasting Act 1990[^f00006], in subsection (1), for the
 
   .
 
-## 5. Broadcasting (Independent Productions) Order 1991[^key-ad5960d3168ed6f4fbaac318af758242]
+## 5. Broadcasting (Independent Productions) Order 1991[^c-ad5960d3168ed6f4fbaac318af758242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Broadcasting (Original Productions) Order 2004[^key-0ab0ee25251518592e2538e6e318fe70]
+## 6. Broadcasting (Original Productions) Order 2004[^c-0ab0ee25251518592e2538e6e318fe70]
 
 (1) The Broadcasting (Original Productions) Order 2004[^f00010] is amended as follows.
 
@@ -129,7 +129,7 @@ In section 202 of the Broadcasting Act 1990[^f00006], in subsection (1), for the
 
 (3) The Schedule (Article 6(1) to (4) of Council [Directive 89/552/EEC](https://www.legislation.gov.uk/european/directive/1989/0552) as amended by [Directive 97/36/EC](https://www.legislation.gov.uk/european/directive/1997/0036)) is omitted.
 
-## 7. Communications Act 2003[^key-114939190ff3f8590d1d7448222ad415]
+## 7. Communications Act 2003[^c-114939190ff3f8590d1d7448222ad415]
 
 In section 362 of the Communications Act 2003[^f00011], in subsection (1), for the definitions of “EEA State” and “another EEA State” substitute—
 
@@ -137,7 +137,7 @@ In section 362 of the Communications Act 2003[^f00011], in subsection (1), for t
 
 .
 
-## 8. Electronic Commerce (EC Directive) Regulations 2002[^key-2e18705ae0ed55d15d2975a3bab99e39]
+## 8. Electronic Commerce (EC Directive) Regulations 2002[^c-2e18705ae0ed55d15d2975a3bab99e39]
 
 In regulation 2 of the Electronic Commerce (EC Directive) Regulations 2002[^f00012], in paragraph (1), for the definition of “EEA Agreement” substitute—
 
@@ -145,7 +145,7 @@ In regulation 2 of the Electronic Commerce (EC Directive) Regulations 2002[^f000
 
 .
 
-## 9. Satellite Television Service Regulations 1997[^key-29cb8aa8106e08a7e77afba5a41037aa]
+## 9. Satellite Television Service Regulations 1997[^c-29cb8aa8106e08a7e77afba5a41037aa]
 
 (1) The Satellite Television Service Regulations 1997[^f00013] are amended as follows.
 
@@ -179,36 +179,36 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00004]: Footnote: [S.I. 1997/1174](https://www.legislation.gov.uk/uksi/1997/1174).
 
-[^key-61957e618c4216a56e02f617f24172f5]: Commencement: Reg. 1 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
+[^c-61957e618c4216a56e02f617f24172f5]: Commencement: Reg. 1 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
 
-[^key-e2bc95dae70e734fa991cfdf899a0d20]: Commencement: Reg. 2 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
+[^c-e2bc95dae70e734fa991cfdf899a0d20]: Commencement: Reg. 2 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979).
 
-[^key-d63cdc8ba361c06692465b258bc4f09f]: Commencement: Reg. 3 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
+[^c-d63cdc8ba361c06692465b258bc4f09f]: Commencement: Reg. 3 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
 
 [^f00006]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42), as amended by [S.I. 1997/1682](https://www.legislation.gov.uk/uksi/1997/1682); there are other amending instruments but none is relevant.
 
 [^f00007]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30), as amended by section 26(1) of the Legislative and Regulatory Reform Act 2006; there are other amending instruments but none is relevant.
 
-[^key-442bc3562176a3b2f0e32c000490318a]: Commencement: Reg. 4 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
+[^c-442bc3562176a3b2f0e32c000490318a]: Commencement: Reg. 4 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
 
 [^f00008]: Footnote: [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55), as amended by the Communications Act 2003 ([2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21)), [S.I. 1998/3196](https://www.legislation.gov.uk/uksi/1998/3196), [S.I. 2000/54](https://www.legislation.gov.uk/uksi/2000/54), [S.I. 2006/2131](https://www.legislation.gov.uk/uksi/2006/2131) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amending instruments but none is relevant.
 
-[^key-ad5960d3168ed6f4fbaac318af758242]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2217/regulation/5) revoked (1.1.2026) by [The Broadcasting (Independent Productions) Regulations 2025 (S.I. 2025/1235)](https://www.legislation.gov.uk/uksi/2025/1235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/1/1), [8(f)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/8/f)
+[^c-ad5960d3168ed6f4fbaac318af758242]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2217/regulation/5) revoked (1.1.2026) by [The Broadcasting (Independent Productions) Regulations 2025 (S.I. 2025/1235)](https://www.legislation.gov.uk/uksi/2025/1235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/1/1), [8(f)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/8/f)
 
-[^key-0ab0ee25251518592e2538e6e318fe70]: Commencement: Reg. 6 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
+[^c-0ab0ee25251518592e2538e6e318fe70]: Commencement: Reg. 6 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
 
 [^f00010]: Footnote: [S.I. 2004/1652](https://www.legislation.gov.uk/uksi/2004/1652).
 
-[^key-114939190ff3f8590d1d7448222ad415]: Commencement: Reg. 7 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
+[^c-114939190ff3f8590d1d7448222ad415]: Commencement: Reg. 7 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
 
 [^f00011]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21), to which there are amendments not relevant to these Regulations.
 
-[^key-2e18705ae0ed55d15d2975a3bab99e39]: Commencement: Reg. 8 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
+[^c-2e18705ae0ed55d15d2975a3bab99e39]: Commencement: Reg. 8 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
 
 [^f00012]: Footnote: [S.I. 2002/2013](https://www.legislation.gov.uk/uksi/2002/2013), to which there are amendments not relevant to these Regulations.
 
-[^key-29cb8aa8106e08a7e77afba5a41037aa]: Commencement: Reg. 9 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
+[^c-29cb8aa8106e08a7e77afba5a41037aa]: Commencement: Reg. 9 in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2217/regulation/1)
 
 [^f00013]: Footnote: [S.I. 1997/1682](https://www.legislation.gov.uk/uksi/1997/1682), to which there are amendments not relevant to these Regulations.

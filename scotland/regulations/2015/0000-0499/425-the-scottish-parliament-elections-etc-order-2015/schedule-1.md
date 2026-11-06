@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-### 1. Supply of free copy of full register for electoral purposes[^key-bd66f185b9c328df034fec6ef57f46cf]
+### 1. Supply of free copy of full register for electoral purposes[^c-bd66f185b9c328df034fec6ef57f46cf]
 
 (1) As soon as practicable after the relevant date, an ERO shall supply free of charge to the returning officer for the local authority or, as the case may be, each local authority for the registration area as many printed copies of—
 
@@ -35,8 +35,8 @@ as the returning officer may reasonably require for the purposes of a Scottish P
 (2) In sub-paragraph (1)—
 
 - (a) “relevant date” means—
-  - (i) in the case of a general election of members of the Scottish Parliament, the date which is 27 days before the date of the poll, computed in accordance with rule 2 of the Scottish Parliamentary Election Rules (computation of time)[^key-b5d2c5bdad220595a46593f1778de1c7];
-  - (ii) where the Presiding Officer has proposed a day for the holding of the poll under section 2(5) or (5E),[^key-563004661ace8f4b3456afd375b87eda] or 3(2) or (2B)[^key-433c1c1cfb58673a938ce2c8fee7503a] of the 1998 Act, the announcement of Her Majesty’s proclamation in terms of section 2(5)[^key-5285f8c71e106dc62b6cb25fd27619bc] or (5E), or 3(2) or (2B); or
+  - (i) in the case of a general election of members of the Scottish Parliament, the date which is 27 days before the date of the poll, computed in accordance with rule 2 of the Scottish Parliamentary Election Rules (computation of time)[^c-b5d2c5bdad220595a46593f1778de1c7];
+  - (ii) where the Presiding Officer has proposed a day for the holding of the poll under section 2(5) or (5E),[^c-563004661ace8f4b3456afd375b87eda] or 3(2) or (2B)[^c-433c1c1cfb58673a938ce2c8fee7503a] of the 1998 Act, the announcement of Her Majesty’s proclamation in terms of section 2(5)[^c-5285f8c71e106dc62b6cb25fd27619bc] or (5E), or 3(2) or (2B); or
   - (iii) the date on which a vacancy occurs in a constituency seat;
 - (b) the duty to supply as many printed copies of the register and notices as the returning officer may reasonably require includes a duty to supply one copy of each in data form.
 
@@ -50,7 +50,7 @@ as the returning officer may reasonably require for the purposes of a Scottish P
 
 except for the purposes of an election[^f00056].
 
-### 2. Supply of full register etc. under paragraphs 3 and 4: general provisions[^key-c74bf9097d74099e4d98961870aad0b8]
+### 2. Supply of full register etc. under paragraphs 3 and 4: general provisions[^c-c74bf9097d74099e4d98961870aad0b8]
 
 (1) The persons or organisations falling within paragraph 3 or 4 may request the ERO to supply free of charge the relevant part (within the meaning of those paragraphs) of any of the following—
 
@@ -73,7 +73,7 @@ except for the purposes of an election[^f00056].
 
 (7) A person who obtains a copy of any document under sub-paragraph (4) may use it for any purpose for which that person would be entitled to obtain that document under this Schedule and any restrictions which apply under whichever of paragraph 3 or 4 entitles that person to obtain that document for that purpose shall apply to such use.
 
-### 3. Supply of full register etc. to elected representatives for electoral purposes and restrictions on use[^key-7751f88cc2cd19526141a4b4a55505ad]
+### 3. Supply of full register etc. to elected representatives for electoral purposes and restrictions on use[^c-7751f88cc2cd19526141a4b4a55505ad]
 
 (1) This paragraph applies to—
 
@@ -93,7 +93,7 @@ except for the purposes of an election[^f00056].
 
 except for purposes in connection with the office by virtue of which the person is entitled to the register of electors or for electoral purposes[^f00057].
 
-### 4. Supply of full register etc. to certain candidates and restrictions on use[^key-cef7de6cf8ccfc1a3e1bb19e49c0efd5]
+### 4. Supply of full register etc. to certain candidates and restrictions on use[^c-cef7de6cf8ccfc1a3e1bb19e49c0efd5]
 
 (1) This paragraph applies to a candidate at a Scottish parliamentary election where any part of the area in respect of which the candidate stands for election includes the whole or part of the registration area.
 
@@ -111,11 +111,11 @@ except for purposes in connection with the office by virtue of which the person 
 
 except for electoral purposes[^f00058].
 
-### 5. Meaning of “edited register” and “registration area”[^key-6254705baf9eee4026f57a2f228a1274]
+### 5. Meaning of “edited register” and “registration area”[^c-6254705baf9eee4026f57a2f228a1274]
 
 In this Schedule a reference to the edited register is a reference to the version of the register of electors published under regulation 93 of the 2001 Regulations[^f00059] and a reference to the registration area is a reference to the area for which the ERO acts.
 
-### 6. Information about persons aged under 16[^key-49c59e0909f980d06c5b5a2b11973360]
+### 6. Information about persons aged under 16[^c-49c59e0909f980d06c5b5a2b11973360]
 
 No register or notice supplied by virtue of this Schedule is to contain information about any person aged under 16 years, except where—
 
@@ -125,34 +125,34 @@ No register or notice supplied by virtue of this Schedule is to contain informat
 
 ## Annotations
 
-[^key-bd66f185b9c328df034fec6ef57f46cf]: Commencement: Sch. 1 para. 1 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-bd66f185b9c328df034fec6ef57f46cf]: Commencement: Sch. 1 para. 1 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00054]: Footnote: Section 13 was substituted by the 2000 Act, Schedule 1, paragraph 6.
 
 [^f00055]: Footnote: Sections 13A and 13B were added by the 2000 Act, Schedule 1, paragraph 6. Section 13AB was added by the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6), section 16(3). Section 13B was amended by the 2006 Act, section 11(2) to (4).
 
-[^key-b5d2c5bdad220595a46593f1778de1c7]: Textual amendment: Words in [sch. 1 para. 1(2)(a)(i)](https://www.legislation.gov.uk/ssi/2015/425/schedule/1/paragraph/1/2/a/i) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [12(a)](https://www.legislation.gov.uk/ssi/2025/313/article/12/a)
+[^c-b5d2c5bdad220595a46593f1778de1c7]: Textual amendment: Words in [sch. 1 para. 1(2)(a)(i)](https://www.legislation.gov.uk/ssi/2015/425/schedule/1/paragraph/1/2/a/i) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [12(a)](https://www.legislation.gov.uk/ssi/2025/313/article/12/a)
 
-[^key-563004661ace8f4b3456afd375b87eda]: Textual amendment: Words in [sch. 1 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/425/schedule/1/paragraph/1/2/a/ii) inserted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [12(b)](https://www.legislation.gov.uk/ssi/2025/313/article/12/b)
+[^c-563004661ace8f4b3456afd375b87eda]: Textual amendment: Words in [sch. 1 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/425/schedule/1/paragraph/1/2/a/ii) inserted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [12(b)](https://www.legislation.gov.uk/ssi/2025/313/article/12/b)
 
-[^key-433c1c1cfb58673a938ce2c8fee7503a]: Textual amendment: Words in [sch. 1 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/425/schedule/1/paragraph/1/2/a/ii) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [14(a)](https://www.legislation.gov.uk/ssi/2020/426/article/14/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-433c1c1cfb58673a938ce2c8fee7503a]: Textual amendment: Words in [sch. 1 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/425/schedule/1/paragraph/1/2/a/ii) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [14(a)](https://www.legislation.gov.uk/ssi/2020/426/article/14/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
-[^key-5285f8c71e106dc62b6cb25fd27619bc]: Textual amendment: Words in [sch. 1 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/425/schedule/1/paragraph/1/2/a/ii) substituted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [14(b)](https://www.legislation.gov.uk/ssi/2020/426/article/14/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-5285f8c71e106dc62b6cb25fd27619bc]: Textual amendment: Words in [sch. 1 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/425/schedule/1/paragraph/1/2/a/ii) substituted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [14(b)](https://www.legislation.gov.uk/ssi/2020/426/article/14/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
 [^f00056]: Footnote: This is the “permitted purpose” for the purposes of regulation 95(2) of the Representation of the People (Scotland) Regulations 2001 (“the 2001 Regulations”), [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497). Regulation 115 of the 2001 Regulations makes provision for offences in respect of contraventions of provisions including regulation 95(2).
 
-[^key-c74bf9097d74099e4d98961870aad0b8]: Commencement: Sch. 1 para. 2 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-c74bf9097d74099e4d98961870aad0b8]: Commencement: Sch. 1 para. 2 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-7751f88cc2cd19526141a4b4a55505ad]: Commencement: Sch. 1 para. 3 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-7751f88cc2cd19526141a4b4a55505ad]: Commencement: Sch. 1 para. 3 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00057]: Footnote: This is the “permitted purpose” for the purposes of regulation 95(2) of the 2001 Regulations. Regulation 115 of the 2001 Regulations makes provision for offences in respect of contraventions of provisions including regulation 95(2).
 
-[^key-cef7de6cf8ccfc1a3e1bb19e49c0efd5]: Commencement: Sch. 1 para. 4 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-cef7de6cf8ccfc1a3e1bb19e49c0efd5]: Commencement: Sch. 1 para. 4 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00058]: Footnote: This is the “permitted purpose” for the purposes of regulation 95(2) of the 2001 Regulations. Regulation 115 of the 2001 Regulations makes provision for offences in respect of contraventions of provisions including regulation 95(2).
 
-[^key-6254705baf9eee4026f57a2f228a1274]: Commencement: Sch. 1 para. 5 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-6254705baf9eee4026f57a2f228a1274]: Commencement: Sch. 1 para. 5 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00059]: Footnote: Regulation 93 was inserted by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872), regulation 14.
 
-[^key-49c59e0909f980d06c5b5a2b11973360]: Commencement: Sch. 1 para. 6 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-49c59e0909f980d06c5b5a2b11973360]: Commencement: Sch. 1 para. 6 in force at 16.12.2015 in accordance with art. 1(1)

@@ -41,13 +41,13 @@ Coming into force
 
 In exercise of the powers conferred on the Secretary of State by section 50 of the Education (No. 2) Act 1986[^f00001], and now vested in the National Assembly for Wales[^f00002], the National Assembly for Wales hereby makes the following Regulations:
 
-## 1. Citation, commencement and revocation[^key-6e3e03ad61cf1ec8c09cc0062a32635b]
+## 1. Citation, commencement and revocation[^c-6e3e03ad61cf1ec8c09cc0062a32635b]
 
 (1) These Regulations may be cited as the Education (Mathematics and Science Teacher Training Incentive) (Wales) Regulations 1999 and shall come into force on 1st September 1999.
 
 (2) The Education (Bursaries for Teacher Training) Regulations 1994[^f00003] and the Education (Bursaries for Teacher Training) (Amendment) Regulations 1995[^f00004] are revoked as respects Wales.
 
-## 2. Interpretation[^key-b22d55bed0316e796e933dea3f7c1281]
+## 2. Interpretation[^c-b22d55bed0316e796e933dea3f7c1281]
 
 In these Regulations—
 
@@ -56,7 +56,7 @@ In these Regulations—
 - “qualified teacher” means a person who, in pursuance of the Regulations relating to the employment of teachers from time to time in force under section 218 of the Education Reform Act 1988[^f00006], is qualified to be employed as a teacher at a school to which that section applies; and
 - “science” means one or more of the subjects of biology, chemistry and physics.
 
-## 3. Payment of incentives[^key-da575d8e45dc939997e1cf7024036052]
+## 3. Payment of incentives[^c-da575d8e45dc939997e1cf7024036052]
 
 (1) The Assembly may, in accordance with these Regulations, make payments by way of incentive for persons to undergo training to become teachers of mathematics or science, if such persons are eligible for student support under regulations made under section 22 of the Teaching and Higher Education Act 1998[^f00007]
 
@@ -64,7 +64,7 @@ In these Regulations—
 
 (3) A second payment not exceeding £2,500 for any person shall be payable in accordance with regulation 5.
 
-## 4. The First Incentive Payment[^key-59bef5791e37b1e42e5c4acb48a6d199]
+## 4. The First Incentive Payment[^c-59bef5791e37b1e42e5c4acb48a6d199]
 
 (1) The first payment (which may be payable by instalments) shall be payable to a person in respect of a postgraduate course of initial training for teachers to teach mathematics or science to pupils undergoing secondary education, provided at an accredited institution in Wales, leading to the person becoming a qualified teacher.
 
@@ -76,7 +76,7 @@ In these Regulations—
 
 (5) If for reasons of ill health or because of deferment a person does not complete a course within the period ordinarily required, the National Assembly for Wales may extend the period in respect of which payments under paragraph (1) shall be made.
 
-## 5. The Second Incentive Payment[^key-c74138b9e3949b40ba8847032393affd]
+## 5. The Second Incentive Payment[^c-c74138b9e3949b40ba8847032393affd]
 
 (1) Subject to paragraphs (2) and (3) a payment not exceeding £2,500 shall be payable to a person who has —
 
@@ -108,22 +108,22 @@ The Regulations revoke previous teachers' bursaries Regulations which are no lon
 
 [^f00002]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-6e3e03ad61cf1ec8c09cc0062a32635b]: Commencement: Reg. 1 in force at 1.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/2816/regulation/1/1)
+[^c-6e3e03ad61cf1ec8c09cc0062a32635b]: Commencement: Reg. 1 in force at 1.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/2816/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1994/2016](https://www.legislation.gov.uk/uksi/1994/2016).
 
 [^f00004]: Footnote: S.I. [1995/603](https://www.legislation.gov.uk/uksi/1995/603).
 
-[^key-b22d55bed0316e796e933dea3f7c1281]: Commencement: Reg. 2 in force at 1.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/2816/regulation/1/1)
+[^c-b22d55bed0316e796e933dea3f7c1281]: Commencement: Reg. 2 in force at 1.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/2816/regulation/1/1)
 
 [^f00005]: Footnote: The National Assembly for Wales was established by section 1 of the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38). All the functions of the Secretary of State relevant to these Regulations are transferred to the Assembly by the National Assembly for Wales (Transfer of Functions) Order 1999 with effect from 1st July 1999. Accordingly, in relation to Wales, references to the Secretary of State in the relevant provisions of the Education (No 2) Act 1986 are to be construed as being, or including, a reference to the Assembly see section 43 of the Government of Wales Act 1998.
 
 [^f00006]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-da575d8e45dc939997e1cf7024036052]: Commencement: Reg. 3 in force at 1.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/2816/regulation/1/1)
+[^c-da575d8e45dc939997e1cf7024036052]: Commencement: Reg. 3 in force at 1.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/2816/regulation/1/1)
 
 [^f00007]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); the current Regulations are the Education (Student Support) Regulations 1999 S.I. [1999/496](https://www.legislation.gov.uk/uksi/1999/496).
 
-[^key-59bef5791e37b1e42e5c4acb48a6d199]: Commencement: Reg. 4 in force at 1.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/2816/regulation/1/1)
+[^c-59bef5791e37b1e42e5c4acb48a6d199]: Commencement: Reg. 4 in force at 1.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/2816/regulation/1/1)
 
-[^key-c74138b9e3949b40ba8847032393affd]: Commencement: Reg. 5 in force at 1.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/2816/regulation/1/1)
+[^c-c74138b9e3949b40ba8847032393affd]: Commencement: Reg. 5 in force at 1.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/2816/regulation/1/1)

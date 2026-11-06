@@ -31,9 +31,9 @@ summary: ''
 
 (3) The amendments have effect in relation to—
 
-- (a) periods of account beginning on or after 1st January 2005, [^key-19291a10ef5d091171c15918191f02e9]...
-- (b)[^key-19291a10ef5d091171c15918191f02e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) periods of account beginning on or after 1st January 2005, [^c-19291a10ef5d091171c15918191f02e9]...
+- (b)[^c-19291a10ef5d091171c15918191f02e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-19291a10ef5d091171c15918191f02e9]: Textual amendment: S. 52(3)(b) and word repealed (retrospective to 7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 4 para. 50](https://www.legislation.gov.uk/ukpga/2005/7/schedule/4/paragraph/50), [Sch. 11 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/2/7)
+[^c-19291a10ef5d091171c15918191f02e9]: Textual amendment: S. 52(3)(b) and word repealed (retrospective to 7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 4 para. 50](https://www.legislation.gov.uk/ukpga/2005/7/schedule/4/paragraph/50), [Sch. 11 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/2/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27E. Additional information if party not relevant national[^key-83208ab6a6e33ab38ec588a041b71f86]
+## 27E. Additional information if party not relevant national[^c-83208ab6a6e33ab38ec588a041b71f86]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 - (a) the notice may be accompanied by a statement (“statement D”) of that person's immigration position in the United Kingdom;
 - (b) if the notice is accompanied by statement D for a party to the proposed marriage, the person may provide the superintendent registrar with details of his or her immigration position in the United Kingdom; and
-- (c) if any such details are provided, the superintendent registrar must record them in the marriage register[^key-2caade7b95a0de3cdf695f48b37d9043].
+- (c) if any such details are provided, the superintendent registrar must record them in the marriage register[^c-2caade7b95a0de3cdf695f48b37d9043].
 
 (10) In this section—
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83208ab6a6e33ab38ec588a041b71f86]: Textual amendment: S. 27E inserted (20.10.2014 for specified purposes, 1.3.2015 in so far as not already in force) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/4) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-83208ab6a6e33ab38ec588a041b71f86]: Textual amendment: S. 27E inserted (20.10.2014 for specified purposes, 1.3.2015 in so far as not already in force) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/4) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-2caade7b95a0de3cdf695f48b37d9043]: Textual amendment: Words in s. 27E(9)(c) inserted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/16) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-2caade7b95a0de3cdf695f48b37d9043]: Textual amendment: Words in s. 27E(9)(c) inserted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/16) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))

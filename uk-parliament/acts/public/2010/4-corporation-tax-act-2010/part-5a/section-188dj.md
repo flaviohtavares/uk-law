@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188DJ. Condition 2: companies in link company's group[^key-5f4b4ffe3f8c46c0f1df33d946de3a27]
+## 188DJ. Condition 2: companies in link company's group[^c-5f4b4ffe3f8c46c0f1df33d946de3a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ the amount of relief to be given on the claim is limited by subsections (2) and 
 
 ## Annotations
 
-[^key-5f4b4ffe3f8c46c0f1df33d946de3a27]: Textual amendment: Pt. 5A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/23)
+[^c-5f4b4ffe3f8c46c0f1df33d946de3a27]: Textual amendment: Pt. 5A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/23)

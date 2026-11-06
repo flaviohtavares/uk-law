@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Creditors in standard security with right to sell land: appeals[^key-7675befc210ee4c9c94ac9eca16e541d]
+## 58. Creditors in standard security with right to sell land: appeals[^c-7675befc210ee4c9c94ac9eca16e541d]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ In section 61 of the 2003 Act (appeals)—
 
 ## Annotations
 
-[^key-7675befc210ee4c9c94ac9eca16e541d]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2015/6/section/58) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-7675befc210ee4c9c94ac9eca16e541d]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2015/6/section/58) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

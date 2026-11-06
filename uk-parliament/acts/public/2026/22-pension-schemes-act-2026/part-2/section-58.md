@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Corresponding provision in relation to FCA-regulated schemes[^key-3ce6f6860f411e3a0e0333e3e55dd400]
+## 58. Corresponding provision in relation to FCA-regulated schemes[^c-3ce6f6860f411e3a0e0333e3e55dd400]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ In the Financial Services and Markets Act 2000, before section 137FC insert—
 
 ## Annotations
 
-[^key-3ce6f6860f411e3a0e0333e3e55dd400]: Commencement: S. 58 not in force at Royal Assent, see [s. 133(4)(f)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/f)
+[^c-3ce6f6860f411e3a0e0333e3e55dd400]: Commencement: S. 58 not in force at Royal Assent, see [s. 133(4)(f)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/f)

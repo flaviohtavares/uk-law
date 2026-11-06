@@ -68,7 +68,7 @@ Section 41(4).
 
 *Extent: E+W+S*
 
-**8.**[^key-53b10025352956d1eecccf6d823896de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-53b10025352956d1eecccf6d823896de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Legal Aid (Scotland) Act 1986 (c.47)
 
@@ -329,9 +329,9 @@ Section 41(4).
 (3) In the definition of “qualifying associate", in subsection (4)—
 
 - (a) after “support" insert “or an income-based jobseeker’s allowance"; and
-- (b)[^key-0d6da770ffb0f68066cd224c410ba92c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0d6da770ffb0f68066cd224c410ba92c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-bbb4c6bb6b6d35aade8a941e28a657f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bbb4c6bb6b6d35aade8a941e28a657f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **41.**[^c11299361] In section 17(1) of the Administration Act (questions for adjudication by the Secretary of State), omit “and" at the end of paragraph (g) and after paragraph (h) insert—
 
@@ -676,7 +676,7 @@ Section 41(4).
 
 [^c21720781]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/4) repealed (6.4.2011) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/c)
 
-[^key-53b10025352956d1eecccf6d823896de]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/8) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-53b10025352956d1eecccf6d823896de]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/8) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
 [^c21696151]: Textual amendment: [Sch 2 para. 9](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/9) repealed (8.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [ss. 60](https://www.legislation.gov.uk/ukpga/2002/21/section/60), [61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(4)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/4/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/962/schedule/2)
 
@@ -710,9 +710,9 @@ Section 41(4).
 
 [^c21711931]: Textual amendment: Sch. 2 para. 40(2) repealed (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 67](https://www.legislation.gov.uk/ukpga/2007/5/section/67), [70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/5/schedule/8); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(g)(iii)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/g/iii)
 
-[^key-0d6da770ffb0f68066cd224c410ba92c]: Textual amendment: [Sch. 2 para. 40(3)(b)](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/40/3/b) repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(11)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11/b), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
+[^c-0d6da770ffb0f68066cd224c410ba92c]: Textual amendment: [Sch. 2 para. 40(3)(b)](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/40/3/b) repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(11)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11/b), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
 
-[^key-bbb4c6bb6b6d35aade8a941e28a657f9]: Textual amendment: [Sch. 2 para. 40(4)](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/40/4) repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(11)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11/b), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
+[^c-bbb4c6bb6b6d35aade8a941e28a657f9]: Textual amendment: [Sch. 2 para. 40(4)](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/40/4) repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(11)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11/b), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
 
 [^c11299361]: Textual amendment: [Sch. 2 paras. 41-47](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/41) repealed (18.10.1999 for specified purposes and otherwise*prosp.*) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 86(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/2), [87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [art. 2(c)](https://www.legislation.gov.uk/uksi/1999/2860/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2860/schedule/1) (subject to transitional provisions in [Schs. 16-18](https://www.legislation.gov.uk/uksi/1999/2860/schedule/16)) (as amended (25.11.1999) by [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 3(20)](https://www.legislation.gov.uk/uksi/1999/3178/article/3/20), [Sch. 20 paras. 1(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/a), [2(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/2/a))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Secretary of State's power to direct a review: new ITA[^key-f22dc9efe99c9d67483131dc889a69fb]
+## 81. Secretary of State's power to direct a review: new ITA[^c-f22dc9efe99c9d67483131dc889a69fb]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f22dc9efe99c9d67483131dc889a69fb]: Commencement: S. 81 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-f22dc9efe99c9d67483131dc889a69fb]: Commencement: S. 81 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

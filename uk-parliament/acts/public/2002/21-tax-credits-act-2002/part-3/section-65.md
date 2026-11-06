@@ -35,7 +35,7 @@ is exercisable by statutory rule for the purposes of the Statutory Rules (Northe
 
 (5) Regulations may not be made under section 25 or 26 in relation to appeals in Scotland without the consent of the Scottish Ministers.
 
-(6) Regulations may not be made under section 39(6) or 63(8) without the consent of the Lord Chancellor , the Department of Justice in Northern Ireland[^key-5508f0ce732ea2b7252404b4620d698c] and the Scottish Ministers.
+(6) Regulations may not be made under section 39(6) or 63(8) without the consent of the Lord Chancellor , the Department of Justice in Northern Ireland[^c-5508f0ce732ea2b7252404b4620d698c] and the Scottish Ministers.
 
 (7) Any power to make regulations under this Act may be exercised—
 
@@ -57,4 +57,4 @@ is exercisable by statutory rule for the purposes of the Statutory Rules (Northe
 
 ## Annotations
 
-[^key-5508f0ce732ea2b7252404b4620d698c]: Textual amendment: Words in s. 65(6) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 60](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/60) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-5508f0ce732ea2b7252404b4620d698c]: Textual amendment: Words in s. 65(6) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 60](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/60) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

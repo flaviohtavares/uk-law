@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Transmission of case where contingency[^key-670e70bb8adaffeea6f9401240b0a6c8]
+## 87. Transmission of case where contingency[^c-670e70bb8adaffeea6f9401240b0a6c8]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-670e70bb8adaffeea6f9401240b0a6c8]: Commencement: S. 87 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-670e70bb8adaffeea6f9401240b0a6c8]: Commencement: S. 87 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

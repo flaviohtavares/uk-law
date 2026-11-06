@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43C. Cancellation of registration under section 43A[^key-c898f7a5800b3f42e0c6454cec446a45][^key-96e557d6c5a8bc3f9f058d6ea9f75d7d][^key-c898f7a5800b3f42e0c6454cec446a45]
+## 43C. Cancellation of registration under section 43A[^c-c898f7a5800b3f42e0c6454cec446a45][^c-96e557d6c5a8bc3f9f058d6ea9f75d7d][^c-c898f7a5800b3f42e0c6454cec446a45]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c898f7a5800b3f42e0c6454cec446a45]: Modification: Pt. 3 applied (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/2/a), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
+[^c-c898f7a5800b3f42e0c6454cec446a45]: Modification: Pt. 3 applied (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/2/a), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
 
-[^key-96e557d6c5a8bc3f9f058d6ea9f75d7d]: Textual amendment: Ss. 43A-43D inserted (31.10.2013 for specified purposes, 13.3.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/2); [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/93/article/3/g)
+[^c-96e557d6c5a8bc3f9f058d6ea9f75d7d]: Textual amendment: Ss. 43A-43D inserted (31.10.2013 for specified purposes, 13.3.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/2); [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/93/article/3/g)

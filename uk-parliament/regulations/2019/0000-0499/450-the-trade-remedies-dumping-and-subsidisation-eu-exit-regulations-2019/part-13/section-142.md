@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Modifications to Schedule 6[^key-de56bd0e1ab2241375fb149fe0d68158]
+## 142. Modifications to Schedule 6[^c-de56bd0e1ab2241375fb149fe0d68158]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ Schedule 6 (content of notices concerning extensions of provisional remedies) ha
 
 ## Annotations
 
-[^key-de56bd0e1ab2241375fb149fe0d68158]: Commencement: Reg. 142 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-de56bd0e1ab2241375fb149fe0d68158]: Commencement: Reg. 142 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

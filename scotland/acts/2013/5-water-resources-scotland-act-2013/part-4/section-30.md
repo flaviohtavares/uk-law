@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Steps for sake of quality[^key-e8155090214f442dd34b20afe45b0fd4][^key-9270b9a0b922ed8862b907d8cc86a811]
+## 30. Steps for sake of quality[^c-e8155090214f442dd34b20afe45b0fd4][^c-9270b9a0b922ed8862b907d8cc86a811]
 
 *Extent: S*
 
@@ -156,6 +156,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8155090214f442dd34b20afe45b0fd4]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2013/5/section/30) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-e8155090214f442dd34b20afe45b0fd4]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2013/5/section/30) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-9270b9a0b922ed8862b907d8cc86a811]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2013/5/section/30) in force at 21.12.2013 in so far as not already in force by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/342/article/2/b)
+[^c-9270b9a0b922ed8862b907d8cc86a811]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2013/5/section/30) in force at 21.12.2013 in so far as not already in force by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/342/article/2/b)

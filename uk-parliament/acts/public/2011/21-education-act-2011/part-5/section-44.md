@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Schools causing concern: powers of Secretary of State[^key-7e8312892792f26619cb2a06562ac2e8]
+## 44. Schools causing concern: powers of Secretary of State[^c-7e8312892792f26619cb2a06562ac2e8]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) In section 68 (power of Secretary of State to direct closure of school), in subsection (1), for “by virtue of section 62 (school requiring special measures)” substitute “ other than by virtue of section 60A ”.
 
-(3)[^key-198c9c34d14bcbda4660d5b52498f2e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-198c9c34d14bcbda4660d5b52498f2e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7e8312892792f26619cb2a06562ac2e8]: Commencement: S. 44 in force at 17.11.2011 by [S.I. 2011/2750](https://www.legislation.gov.uk/uksi/2011/2750), [art. 2](https://www.legislation.gov.uk/uksi/2011/2750/article/2)
+[^c-7e8312892792f26619cb2a06562ac2e8]: Commencement: S. 44 in force at 17.11.2011 by [S.I. 2011/2750](https://www.legislation.gov.uk/uksi/2011/2750), [art. 2](https://www.legislation.gov.uk/uksi/2011/2750/article/2)
 
-[^key-198c9c34d14bcbda4660d5b52498f2e4]: Textual amendment: [S. 44(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/44/3) omitted (11.1.2017) by virtue of [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 16(b)](https://www.legislation.gov.uk/ukpga/2016/6/section/16/b), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/b)
+[^c-198c9c34d14bcbda4660d5b52498f2e4]: Textual amendment: [S. 44(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/44/3) omitted (11.1.2017) by virtue of [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 16(b)](https://www.legislation.gov.uk/ukpga/2016/6/section/16/b), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/b)

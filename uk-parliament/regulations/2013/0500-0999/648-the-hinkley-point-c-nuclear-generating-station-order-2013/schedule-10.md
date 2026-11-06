@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — Land or interests in or rights over land not to be acquired compulsorily[^key-1244b848b06ed085bb0dbc343391c2e1]
+## SCHEDULE 10 — Land or interests in or rights over land not to be acquired compulsorily[^c-1244b848b06ed085bb0dbc343391c2e1]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Article 24
 
 ## Annotations
 
-[^key-1244b848b06ed085bb0dbc343391c2e1]: Commencement: Sch. 10 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-1244b848b06ed085bb0dbc343391c2e1]: Commencement: Sch. 10 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

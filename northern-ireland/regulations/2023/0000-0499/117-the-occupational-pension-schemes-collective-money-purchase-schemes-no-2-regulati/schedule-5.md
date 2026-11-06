@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — Systems and processes requirement[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+## SCHEDULE 5 — Systems and processes requirement[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
 *Extent: N.I.*
 
@@ -24,62 +24,62 @@ summary: ''
 
 Regulations 6 and 14
 
-### Preliminary[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Preliminary[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**1.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Features and functionality of IT systems[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Features and functionality of IT systems[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**2.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Standards required of IT systems[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Standards required of IT systems[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**3.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Maintenance of IT systems[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Maintenance of IT systems[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**4.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Member records[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Member records[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**5.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Trustees and others[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Trustees and others[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**6.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Contracts and service providers[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Contracts and service providers[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**7.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Governance[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Governance[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**8.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Risk management[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Risk management[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**9.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Security[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Security[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**10.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Resource planning[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Resource planning[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**11.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Investments[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Investments[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**12.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Valuation and benefit adjustment[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Valuation and benefit adjustment[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**13.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Member engagement[^key-e25d5c44d6ebee8f738a36f4ebd5312b]
+### Member engagement[^c-e25d5c44d6ebee8f738a36f4ebd5312b]
 
-**14.**[^key-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e25d5c44d6ebee8f738a36f4ebd5312b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e25d5c44d6ebee8f738a36f4ebd5312b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/117) revoked (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36)
+[^c-e25d5c44d6ebee8f738a36f4ebd5312b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/117) revoked (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Prescribed forms relating to marriage[^key-e53b877817846956e4d31a35159c0bfd]
+## 15. Prescribed forms relating to marriage[^c-e53b877817846956e4d31a35159c0bfd]
 
 *Extent: N.I.*
 
@@ -109,6 +109,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e53b877817846956e4d31a35159c0bfd]: Commencement: Reg. 15 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-e53b877817846956e4d31a35159c0bfd]: Commencement: Reg. 15 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00015]: Footnote: [S.R. (N.I.) 2003/468](https://www.legislation.gov.uk/nisr/2003/468). Relevant amendments were made by [S.R. (N.I.) 2005/532](https://www.legislation.gov.uk/nisr/2005/532) and [S.R. (N.I.) 2014/296](https://www.legislation.gov.uk/nisr/2014/296).

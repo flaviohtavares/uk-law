@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 135. Removal from the roll etc.[^key-5b61e51093bb07d5bc7f35f28f7b88d8]
+## 135. Removal from the roll etc.[^c-5b61e51093bb07d5bc7f35f28f7b88d8]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b61e51093bb07d5bc7f35f28f7b88d8]: Commencement: [S. 135](https://www.legislation.gov.uk/asp/2010/16/section/135) in force at 1.5.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
+[^c-5b61e51093bb07d5bc7f35f28f7b88d8]: Commencement: [S. 135](https://www.legislation.gov.uk/asp/2010/16/section/135) in force at 1.5.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Procedure where the amount of a winning bidder’s deposit is less than the licence fee[^key-80f9d80996b5e1e8c45f0a124505cab3]
+## 109. Procedure where the amount of a winning bidder’s deposit is less than the licence fee[^c-80f9d80996b5e1e8c45f0a124505cab3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80f9d80996b5e1e8c45f0a124505cab3]: Commencement: Reg. 109 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-80f9d80996b5e1e8c45f0a124505cab3]: Commencement: Reg. 109 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

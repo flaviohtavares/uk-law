@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 138. Treatment of payments from access funds[^key-fb3ee24f5017fc34d1e7ae3ec3b4df8b]
+## 138. Treatment of payments from access funds[^c-fb3ee24f5017fc34d1e7ae3ec3b4df8b]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ that payment is to be disregarded as income.
 
 ## Annotations
 
-[^key-fb3ee24f5017fc34d1e7ae3ec3b4df8b]: Commencement: [Reg. 138](https://www.legislation.gov.uk/nisr/2008/280/regulation/138) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-fb3ee24f5017fc34d1e7ae3ec3b4df8b]: Commencement: [Reg. 138](https://www.legislation.gov.uk/nisr/2008/280/regulation/138) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

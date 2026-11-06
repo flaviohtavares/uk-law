@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Periods to make supplementary Customs declarations[^key-5681541405a8bc3dc3064e3235b22cf9]
+## 33. Periods to make supplementary Customs declarations[^c-5681541405a8bc3dc3064e3235b22cf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5681541405a8bc3dc3064e3235b22cf9]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2018/1248/regulation/33) omitted (13.6.2023) by virtue of [The Customs (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/569)](https://www.legislation.gov.uk/uksi/2023/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/569/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2023/569/regulation/2/9)
+[^c-5681541405a8bc3dc3064e3235b22cf9]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2018/1248/regulation/33) omitted (13.6.2023) by virtue of [The Customs (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/569)](https://www.legislation.gov.uk/uksi/2023/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/569/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2023/569/regulation/2/9)

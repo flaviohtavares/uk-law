@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Prohibition on personal conduct of defence[^key-3408b2fbb3f4d0761e02f6dc3ea353cc]
+## 92. Prohibition on personal conduct of defence[^c-3408b2fbb3f4d0761e02f6dc3ea353cc]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ the Court must appoint a solicitor to conduct the accused’s case.
 
 ## Annotations
 
-[^key-3408b2fbb3f4d0761e02f6dc3ea353cc]: Commencement: S. 92 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-3408b2fbb3f4d0761e02f6dc3ea353cc]: Commencement: S. 92 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 219. Appeal against a decision of the Secretary of State[^key-146258e1ca3d058b0bd2b551ae62ebcb]
+## 219. Appeal against a decision of the Secretary of State[^c-146258e1ca3d058b0bd2b551ae62ebcb]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 7.50 of the 1986 Rules[^f00077]. Ignore paragraph (2).
 
 ## Annotations
 
-[^key-146258e1ca3d058b0bd2b551ae62ebcb]: Commencement: Rule 219 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-146258e1ca3d058b0bd2b551ae62ebcb]: Commencement: Rule 219 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00077]: Footnote: Rule 7.50 was amended by [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730).

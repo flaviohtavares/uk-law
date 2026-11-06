@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Notice of referral to accelerated misconduct hearing[^key-7a7717fb6572c1d923645b113a7c0d50]
+## 51. Notice of referral to accelerated misconduct hearing[^c-7a7717fb6572c1d923645b113a7c0d50]
 
 *Extent: E+W*
 
@@ -30,12 +30,12 @@ summary: ''
 
 (2) The notice given under paragraph (1) must—
 
-- (a) describe the conduct that is the subject matter of the case and how that conduct is alleged to amount to gross misconduct, [^key-0906a779f1f433dec6da7e4101cf8fda]...
+- (a) describe the conduct that is the subject matter of the case and how that conduct is alleged to amount to gross misconduct, [^c-0906a779f1f433dec6da7e4101cf8fda]...
 - (b) where relevant, specify that the Director General has made a decision under regulation 24(1) to present the case,
-- (c)[^key-bf040b886536465abe85caaa0f10b94f] notify the officer concerned of the name of the person conducting or chairing the accelerated misconduct hearing; and
+- (c)[^c-bf040b886536465abe85caaa0f10b94f] notify the officer concerned of the name of the person conducting or chairing the accelerated misconduct hearing; and
 - (d) notify the officer concerned of the effect of paragraphs (2C) to (2F) of this regulation.
 
-(2A)[^key-d6853eec4d170938797e5b6da86371df] Where, under regulation 2(4A), the chief officer of police of the police force concerned delegates responsibility for conducting an accelerated misconduct hearing to another person, the chief officer of police must, as soon as practicable afterwards, give the officer concerned written notice of the name of the person to whom that responsibility has been delegated and the effect of paragraphs (2C) to (2F) of this regulation.
+(2A)[^c-d6853eec4d170938797e5b6da86371df] Where, under regulation 2(4A), the chief officer of police of the police force concerned delegates responsibility for conducting an accelerated misconduct hearing to another person, the chief officer of police must, as soon as practicable afterwards, give the officer concerned written notice of the name of the person to whom that responsibility has been delegated and the effect of paragraphs (2C) to (2F) of this regulation.
 
 (2B) As soon as practicable after a legally qualified person has been appointed under regulation 55(4A) in relation to the misconduct proceedings, the appropriate authority must give the officer concerned written notice of the name of that person the effect of paragraphs (2C) to (2F) of this regulation.
 
@@ -92,10 +92,10 @@ the local policing body must require HMCIC to chair the accelerated misconduct h
 
 ## Annotations
 
-[^key-7a7717fb6572c1d923645b113a7c0d50]: Commencement: Reg. 51 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-7a7717fb6572c1d923645b113a7c0d50]: Commencement: Reg. 51 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-0906a779f1f433dec6da7e4101cf8fda]: Textual amendment: Word in [reg. 51(2)(a)](https://www.legislation.gov.uk/uksi/2020/4/regulation/51/2/a) omitted (7.5.2024) by virtue of [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(10)(a)(i)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/10/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-0906a779f1f433dec6da7e4101cf8fda]: Textual amendment: Word in [reg. 51(2)(a)](https://www.legislation.gov.uk/uksi/2020/4/regulation/51/2/a) omitted (7.5.2024) by virtue of [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(10)(a)(i)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/10/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-bf040b886536465abe85caaa0f10b94f]: Textual amendment: Reg. 51(2)(c)(d) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/10/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-bf040b886536465abe85caaa0f10b94f]: Textual amendment: Reg. 51(2)(c)(d) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/10/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-d6853eec4d170938797e5b6da86371df]: Textual amendment: Reg. 51(2A)-(2L) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(10)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/10/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-d6853eec4d170938797e5b6da86371df]: Textual amendment: Reg. 51(2A)-(2L) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(10)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/10/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))

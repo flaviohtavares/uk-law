@@ -30,27 +30,27 @@ Section 68
 
 #### Criminal Justice Act 2003 (c. 44)
 
-**2.**[^key-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a12fd46fd3432c3f0dc118ccf412c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Criminal Justice Act 2003 (Sentencing) (Transitory Provisions) Order 2005 (S.I. 2005/643)
 
@@ -104,10 +104,10 @@ Section 68
 
 ### Part 2 — Transitory provision
 
-**20.**[^key-57d1ccaeb31bff4ced2351c4e1866e9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-57d1ccaeb31bff4ced2351c4e1866e9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a12fd46fd3432c3f0dc118ccf412c18b]: Textual amendment: [Sch. 9 paras. 2-12](https://www.legislation.gov.uk/ukpga/2012/10/schedule/9/paragraph/2) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a12fd46fd3432c3f0dc118ccf412c18b]: Textual amendment: [Sch. 9 paras. 2-12](https://www.legislation.gov.uk/ukpga/2012/10/schedule/9/paragraph/2) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-57d1ccaeb31bff4ced2351c4e1866e9b]: Textual amendment: [Sch. 9 para. 20](https://www.legislation.gov.uk/ukpga/2012/10/schedule/9/paragraph/20) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-57d1ccaeb31bff4ced2351c4e1866e9b]: Textual amendment: [Sch. 9 para. 20](https://www.legislation.gov.uk/ukpga/2012/10/schedule/9/paragraph/20) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

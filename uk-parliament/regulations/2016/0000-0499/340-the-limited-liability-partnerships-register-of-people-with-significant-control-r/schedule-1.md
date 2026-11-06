@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — APPLICATION OF PART 21A COMPANIES ACT 2006[^key-9753ee2c2e6496b1b6a72617a9dc2eab][^key-2d2a20274fb76ca9ff1125219f0b58fe]
+## SCHEDULE 1 — APPLICATION OF PART 21A COMPANIES ACT 2006[^c-9753ee2c2e6496b1b6a72617a9dc2eab][^c-2d2a20274fb76ca9ff1125219f0b58fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -866,9 +866,9 @@ Regulation 3
 
 ## Annotations
 
-[^key-9753ee2c2e6496b1b6a72617a9dc2eab]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1) in force at 6.4.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
+[^c-9753ee2c2e6496b1b6a72617a9dc2eab]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1) in force at 6.4.2016 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
 
-[^key-2d2a20274fb76ca9ff1125219f0b58fe]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1) in force at 30.6.2016 in so far as not already in force, see [reg. 1(2)(a)(b)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/a/b)
+[^c-2d2a20274fb76ca9ff1125219f0b58fe]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1) in force at 30.6.2016 in so far as not already in force, see [reg. 1(2)(a)(b)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/a/b)
 
 [^f00006]: Footnote: [S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339).
 

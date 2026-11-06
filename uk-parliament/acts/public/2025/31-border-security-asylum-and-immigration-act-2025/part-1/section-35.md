@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Sections 30 to 34: general provision about disclosure[^key-5262f49819bde02801500fb92a9562f2][^key-db0d9704edfd3c1b83ca9c49d3e6267b]
+## 35. Sections 30 to 34: general provision about disclosure[^c-5262f49819bde02801500fb92a9562f2][^c-db0d9704edfd3c1b83ca9c49d3e6267b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5262f49819bde02801500fb92a9562f2]: Commencement: S. 35 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-5262f49819bde02801500fb92a9562f2]: Commencement: S. 35 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-db0d9704edfd3c1b83ca9c49d3e6267b]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/31/section/35) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)
+[^c-db0d9704edfd3c1b83ca9c49d3e6267b]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/31/section/35) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)

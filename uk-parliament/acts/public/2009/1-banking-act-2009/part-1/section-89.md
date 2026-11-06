@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Credit unions[^M_I_906f1b2e-6d33-4e48-ce3d-5979c97adef5][^key-22c5d4722202eee28a678b5bbfe00dd7]
+## 89. Credit unions[^M_I_906f1b2e-6d33-4e48-ce3d-5979c97adef5][^c-22c5d4722202eee28a678b5bbfe00dd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^M_I_906f1b2e-6d33-4e48-ce3d-5979c97adef5]: Commencement: S. 89 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-22c5d4722202eee28a678b5bbfe00dd7]: Commencement: S. 89 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-22c5d4722202eee28a678b5bbfe00dd7]: Commencement: S. 89 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

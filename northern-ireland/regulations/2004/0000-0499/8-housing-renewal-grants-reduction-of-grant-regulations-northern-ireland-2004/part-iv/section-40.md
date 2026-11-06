@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Capital jointly held[^key-181071ae84b76c76cf45434a404bcdbd]
+## 40. Capital jointly held[^c-181071ae84b76c76cf45434a404bcdbd]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Except where a relevant person possesses capital which is disregarded under regu
 
 ## Annotations
 
-[^key-181071ae84b76c76cf45434a404bcdbd]: Commencement: Reg. 40 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-181071ae84b76c76cf45434a404bcdbd]: Commencement: Reg. 40 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

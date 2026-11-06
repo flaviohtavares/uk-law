@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Scheduling of business in Scottish courts[^key-12fa5ecbbadf86371513b511c0208e0b][^key-458b662f40e14cab6c6e0f679ead1b17]
+## 30. Scheduling of business in Scottish courts[^c-12fa5ecbbadf86371513b511c0208e0b][^c-458b662f40e14cab6c6e0f679ead1b17]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12fa5ecbbadf86371513b511c0208e0b]: Commencement: S. 30 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-12fa5ecbbadf86371513b511c0208e0b]: Commencement: S. 30 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-458b662f40e14cab6c6e0f679ead1b17]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2025/12/section/30) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-458b662f40e14cab6c6e0f679ead1b17]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2025/12/section/30) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

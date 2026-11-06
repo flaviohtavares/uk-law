@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 276. Act not excluded by special enactments.[^c950407][^key-a83f9bdabbef068b2d5c9fba5b3afa77][^key-a9391e8af7d8414a184dcafaf102be27]
+## 276. Act not excluded by special enactments.[^c950407][^c-a83f9bdabbef068b2d5c9fba5b3afa77][^c-a9391e8af7d8414a184dcafaf102be27]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ For the avoidance of doubt it is hereby declared that the provisions of this Act
 
     S. 276 applied (27.5.1997) by [1997 c. 10](https://www.legislation.gov.uk/ukpga/1997/10), [ss. 36](https://www.legislation.gov.uk/ukpga/1997/10/section/36), [40(2)](https://www.legislation.gov.uk/ukpga/1997/10/section/40/2) (with [ss. 9(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/9/3), [10(5)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/5), [38(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/38/6))
 
-[^key-a83f9bdabbef068b2d5c9fba5b3afa77]: Modification: S. 276 applied (4.10.2005) by [Inverness Harbour Revision (Works) Order 2005 (S.S.I. 2005/489)](https://www.legislation.gov.uk/ssi/2005/489), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/489/article/1/1), [15(1)](https://www.legislation.gov.uk/ssi/2005/489/article/15/1) (with [reg. 16](https://www.legislation.gov.uk/ssi/2005/489/regulation/16))
+[^c-a83f9bdabbef068b2d5c9fba5b3afa77]: Modification: S. 276 applied (4.10.2005) by [Inverness Harbour Revision (Works) Order 2005 (S.S.I. 2005/489)](https://www.legislation.gov.uk/ssi/2005/489), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/489/article/1/1), [15(1)](https://www.legislation.gov.uk/ssi/2005/489/article/15/1) (with [reg. 16](https://www.legislation.gov.uk/ssi/2005/489/regulation/16))
 
-[^key-a9391e8af7d8414a184dcafaf102be27]: Modification: [S. 276](https://www.legislation.gov.uk/ukpga/1997/8/section/276) applied (4.10.2025) by [1973 c. xvi](https://www.legislation.gov.uk/ukla/1973/16), [s. 77(1)](https://www.legislation.gov.uk/ukla/1973/16/section/77/1) (as amended by [The Cromarty Firth Port Authority Harbour Revision Order 2025 (S.S.I. 2025/279)](https://www.legislation.gov.uk/ssi/2025/279), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/279/article/1/1), [3(43)(a)](https://www.legislation.gov.uk/ssi/2025/279/article/3/43/a))
+[^c-a9391e8af7d8414a184dcafaf102be27]: Modification: [S. 276](https://www.legislation.gov.uk/ukpga/1997/8/section/276) applied (4.10.2025) by [1973 c. xvi](https://www.legislation.gov.uk/ukla/1973/16), [s. 77(1)](https://www.legislation.gov.uk/ukla/1973/16/section/77/1) (as amended by [The Cromarty Firth Port Authority Harbour Revision Order 2025 (S.S.I. 2025/279)](https://www.legislation.gov.uk/ssi/2025/279), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/279/article/1/1), [3(43)(a)](https://www.legislation.gov.uk/ssi/2025/279/article/3/43/a))

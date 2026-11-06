@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. A trigger event[^key-6cbf1b20c4aaeb261cd96aaa1b718708]
+## 25. A trigger event[^c-6cbf1b20c4aaeb261cd96aaa1b718708]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cbf1b20c4aaeb261cd96aaa1b718708]: Commencement: Reg. 25 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-6cbf1b20c4aaeb261cd96aaa1b718708]: Commencement: Reg. 25 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

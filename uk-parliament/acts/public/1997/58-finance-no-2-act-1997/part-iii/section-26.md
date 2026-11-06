@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Purchase and sale of securities.[^key-684e7f7a4ec083354b01b5dec8240261]
+## 26. Purchase and sale of securities.[^c-684e7f7a4ec083354b01b5dec8240261]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-684e7f7a4ec083354b01b5dec8240261]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1997/58/section/26) omitted (21.7.2008) (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(i)(i)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/i/i)
+[^c-684e7f7a4ec083354b01b5dec8240261]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1997/58/section/26) omitted (21.7.2008) (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(i)(i)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/i/i)

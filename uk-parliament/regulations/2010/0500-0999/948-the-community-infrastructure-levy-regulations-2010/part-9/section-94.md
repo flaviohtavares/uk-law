@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Injunctions[^key-0bfb7ca1c9c0e7762b506b4a9e392e1b]
+## 94. Injunctions[^c-0bfb7ca1c9c0e7762b506b4a9e392e1b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bfb7ca1c9c0e7762b506b4a9e392e1b]: Commencement: Reg. 94 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-0bfb7ca1c9c0e7762b506b4a9e392e1b]: Commencement: Reg. 94 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

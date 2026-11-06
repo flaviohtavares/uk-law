@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Instructions and safety information[^M_E_eb93f1d1-f607-4748-beb0-fba2330862a7][^key-b5fa097345272e7bbe872d824cf04b47]
+## 19. Instructions and safety information[^M_E_eb93f1d1-f607-4748-beb0-fba2330862a7][^c-b5fa097345272e7bbe872d824cf04b47]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ When placing electrical equipment on the market, an importer must ensure that it
 
 [^M_E_eb93f1d1-f607-4748-beb0-fba2330862a7]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-b5fa097345272e7bbe872d824cf04b47]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2016/1101/regulation/19) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 12](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/12) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5fa097345272e7bbe872d824cf04b47]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2016/1101/regulation/19) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 12](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/12) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_7ca44ed6-2916-4042-ca85-6d469bee476f]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

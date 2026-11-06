@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 269. Power of local authority to control use of moveable dwellings.[^key-27729c78596f400f854073e8f6fcad19][^key-69f5e91aef4add089328781b58c58fca][^c611702]
+## 269. Power of local authority to control use of moveable dwellings.[^c-27729c78596f400f854073e8f6fcad19][^c-69f5e91aef4add089328781b58c58fca][^c611702]
 
 *Extent: E+W*
 
@@ -76,9 +76,9 @@ Provided that, on the application of the local authority, the Minister may decla
 
 ## Annotations
 
-[^key-27729c78596f400f854073e8f6fcad19]: Modification: [S. 269](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/269): functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
+[^c-27729c78596f400f854073e8f6fcad19]: Modification: [S. 269](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/269): functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
 
-[^key-69f5e91aef4add089328781b58c58fca]: Modification: [S. 269](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/269): power to disapply conferred (28.4.2026) by [Development of Tourism and Regulation of Visitor Accommodation (Wales) Act 2026 (asc 10)](https://www.legislation.gov.uk/asc/2026/10), [ss. 57(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/57/2/a), [61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
+[^c-69f5e91aef4add089328781b58c58fca]: Modification: [S. 269](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/269): power to disapply conferred (28.4.2026) by [Development of Tourism and Regulation of Visitor Accommodation (Wales) Act 2026 (asc 10)](https://www.legislation.gov.uk/asc/2026/10), [ss. 57(2)(a)](https://www.legislation.gov.uk/asc/2026/10/section/57/2/a), [61(1)](https://www.legislation.gov.uk/asc/2026/10/section/61/1)
 
 [^c611702]: Modification: [S. 269](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/269) repealed in relation to caravans, by [Caravan Sites and Control of Development Act 1960 (c. 62)](https://www.legislation.gov.uk/ukpga/1960/62), [s. 30](https://www.legislation.gov.uk/ukpga/1960/62/section/30)
 

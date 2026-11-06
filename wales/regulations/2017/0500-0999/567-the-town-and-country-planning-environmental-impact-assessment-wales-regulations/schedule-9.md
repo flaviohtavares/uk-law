@@ -128,7 +128,7 @@ Regulation 64
 
   .
 
-### 2. Developments of National Significance (Procedure) (Wales) Order 2016[^key-86c70f9c094470c6fa050f5f0f547c43]
+### 2. Developments of National Significance (Procedure) (Wales) Order 2016[^c-86c70f9c094470c6fa050f5f0f547c43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -140,4 +140,4 @@ Regulation 64
 
 [^c23311841]: Marginal citation: [Article 15A(2)](https://www.legislation.gov.uk/wsi/2017/567/article/15A/2) was inserted by articles 2 and 7 of [S.I. 2015/1330](https://www.legislation.gov.uk/uksi/2015/1330) (W. 123). It was further amended by articles 2 and 10(5)(b) of [S.I. 2016/59](https://www.legislation.gov.uk/uksi/2016/59) (W. 29).
 
-[^key-86c70f9c094470c6fa050f5f0f547c43]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/2) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(43)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/43) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-86c70f9c094470c6fa050f5f0f547c43]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/2) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(43)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/43) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))

@@ -26,7 +26,7 @@ summary: ''
 
 (3) Any direction given under this Act shall be in writing.
 
-(4)[^key-62fba523dd168f365f5861dcc2af6ec6] OFCOM may give a direction under this Act only if they are satisfied that the direction—
+(4)[^c-62fba523dd168f365f5861dcc2af6ec6] OFCOM may give a direction under this Act only if they are satisfied that the direction—
 
 - (a) is objectively justifiable,
 - (b) does not discriminate unduly against particular persons or a particular description of persons,
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62fba523dd168f365f5861dcc2af6ec6]: Textual amendment: [S. 123(4)](https://www.legislation.gov.uk/ukpga/2000/26/section/123/4) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 47](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/47); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-62fba523dd168f365f5861dcc2af6ec6]: Textual amendment: [S. 123(4)](https://www.legislation.gov.uk/ukpga/2000/26/section/123/4) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 47](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/47); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

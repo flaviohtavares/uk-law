@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Provisions of information to the Authority[^key-9f55194f6c9ace78a6a4b77becbe8888]
+## 45. Provisions of information to the Authority[^c-9f55194f6c9ace78a6a4b77becbe8888]
 
 *Extent: N.I.*
 
@@ -63,4 +63,4 @@ by the end of the second month following the relevant month (and those figures m
 
 ## Annotations
 
-[^key-9f55194f6c9ace78a6a4b77becbe8888]: Commencement: Art. 45 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-9f55194f6c9ace78a6a4b77becbe8888]: Commencement: Art. 45 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

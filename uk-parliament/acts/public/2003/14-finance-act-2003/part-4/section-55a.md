@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55A. Amount of tax chargeable: higher rate for certain transactions[^key-3e7d16c8471445f3157a69dbc4af2520]
+## 55A. Amount of tax chargeable: higher rate for certain transactions[^c-3e7d16c8471445f3157a69dbc4af2520]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4A provides for the calculation of the tax chargeable in respect of cer
 
 ## Annotations
 
-[^key-3e7d16c8471445f3157a69dbc4af2520]: Textual amendment: S. 55A inserted (with effect in accordance with Sch. 35 para. 10 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 35 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/35/paragraph/3)
+[^c-3e7d16c8471445f3157a69dbc4af2520]: Textual amendment: S. 55A inserted (with effect in accordance with Sch. 35 para. 10 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 35 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/35/paragraph/3)

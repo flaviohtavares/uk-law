@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.30. Where the claimant obtains judgment for an amount more than the defendant’s relevant Protocol offer[^key-8ed78e3eff468fc080a342c5659897de]
+## 45.30. Where the claimant obtains judgment for an amount more than the defendant’s relevant Protocol offer[^c-8ed78e3eff468fc080a342c5659897de]
 
 *Extent: E+W*
 
-Where rule 36.30[^key-2203260cdf76d27a0478bbd165db7636](1)(b) or (c) applies, the court shall order the defendant to pay
+Where rule 36.30[^c-2203260cdf76d27a0478bbd165db7636](1)(b) or (c) applies, the court shall order the defendant to pay
 
 - (a) where not already paid by the defendant, the Stage 1 and 2 fixed costs;
 - (b) where the claim is determined—
@@ -31,6 +31,6 @@ Where rule 36.30[^key-2203260cdf76d27a0478bbd165db7636](1)(b) or (c) applies, th
 
 ## Annotations
 
-[^key-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-2203260cdf76d27a0478bbd165db7636]: Textual amendment: Word in rule 45.30 substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/5)
+[^c-2203260cdf76d27a0478bbd165db7636]: Textual amendment: Word in rule 45.30 substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/5)

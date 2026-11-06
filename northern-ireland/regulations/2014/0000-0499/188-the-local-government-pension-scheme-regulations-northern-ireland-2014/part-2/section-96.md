@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Annual allowance charge[^key-f3f9cc5aeaa1b2192d442f65f7586743]
+## 96. Annual allowance charge[^c-f3f9cc5aeaa1b2192d442f65f7586743]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3f9cc5aeaa1b2192d442f65f7586743]: Textual amendment: [Reg. 96](https://www.legislation.gov.uk/nisr/2014/188/regulation/96) substituted (with effect in accordance with reg. 1(2)(l) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [77](https://www.legislation.gov.uk/nisr/2019/206/regulation/77)
+[^c-f3f9cc5aeaa1b2192d442f65f7586743]: Textual amendment: [Reg. 96](https://www.legislation.gov.uk/nisr/2014/188/regulation/96) substituted (with effect in accordance with reg. 1(2)(l) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [77](https://www.legislation.gov.uk/nisr/2019/206/regulation/77)
 
 [^c23912571]: Marginal citation: See [S.I. 2011/1791](https://www.legislation.gov.uk/uksi/2011/1791).

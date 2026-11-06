@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Continuing care: persons eligible and accommodation to be provided[^key-4dddd9a1225c6d8a4bb233ee06a8bc02]
+## 22. Continuing care: persons eligible and accommodation to be provided[^c-4dddd9a1225c6d8a4bb233ee06a8bc02]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dddd9a1225c6d8a4bb233ee06a8bc02]: Commencement: S. 22 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-4dddd9a1225c6d8a4bb233ee06a8bc02]: Commencement: S. 22 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Scheme manager[^key-75cee33b57180f7adbb7d91b59edeb6b]
+## 5. Scheme manager[^c-75cee33b57180f7adbb7d91b59edeb6b]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-75cee33b57180f7adbb7d91b59edeb6b]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-75cee33b57180f7adbb7d91b59edeb6b]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00025]: Footnote: See Section 4(6) of the Act which sets out when statutory schemes are “connected”.
 

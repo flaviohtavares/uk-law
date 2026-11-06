@@ -30,53 +30,53 @@ Budget (No. 2) Act (Northern Ireland) 2009 (repealed)
 
 2009 CHAPTER 7
 
-[^key-698df5d05122c3e73371696c9b6d62f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-698df5d05122c3e73371696c9b6d62f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Issue of sum out of the Consolidated Fund for the year ending 31st March 2010 and appropriation of that sum[^key-698df5d05122c3e73371696c9b6d62f8]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Power of the Department of Finance and Personnel to borrow[^key-698df5d05122c3e73371696c9b6d62f8]
+## 1. Issue of sum out of the Consolidated Fund for the year ending 31st March 2010 and appropriation of that sum[^c-698df5d05122c3e73371696c9b6d62f8]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of resources (other than accruing resources) in year ending 31st March 2010[^key-698df5d05122c3e73371696c9b6d62f8]
+## 2. Power of the Department of Finance and Personnel to borrow[^c-698df5d05122c3e73371696c9b6d62f8]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Limit on use of accruing resources in year ending 31st March 2010[^key-698df5d05122c3e73371696c9b6d62f8]
+## 3. Use of resources (other than accruing resources) in year ending 31st March 2010[^c-698df5d05122c3e73371696c9b6d62f8]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Repeal of spent provisions[^key-698df5d05122c3e73371696c9b6d62f8]
+## 4. Limit on use of accruing resources in year ending 31st March 2010[^c-698df5d05122c3e73371696c9b6d62f8]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Interpretation[^key-698df5d05122c3e73371696c9b6d62f8]
+## 5. Repeal of spent provisions[^c-698df5d05122c3e73371696c9b6d62f8]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Short title[^key-698df5d05122c3e73371696c9b6d62f8]
+## 6. Interpretation[^c-698df5d05122c3e73371696c9b6d62f8]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-698df5d05122c3e73371696c9b6d62f8]SCHEDULES
+## 7. Short title[^c-698df5d05122c3e73371696c9b6d62f8]
 
-## SCHEDULE 1 — SUMS GRANTED FOR THE YEAR ENDING 31ST MARCH 2010[^key-698df5d05122c3e73371696c9b6d62f8]
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-698df5d05122c3e73371696c9b6d62f8]SCHEDULES
+
+## SCHEDULE 1 — SUMS GRANTED FOR THE YEAR ENDING 31ST MARCH 2010[^c-698df5d05122c3e73371696c9b6d62f8]
 
 **No longer in force.**
 
@@ -84,7 +84,7 @@ Section 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — AMOUNTS OF RESOURCES AUTHORISED FOR USE AND AMOUNTS OF ACCRUING RESOURCES WHICH MAY BE USED IN YEAR ENDING 31ST MARCH 2010[^key-698df5d05122c3e73371696c9b6d62f8]
+## SCHEDULE 2 — AMOUNTS OF RESOURCES AUTHORISED FOR USE AND AMOUNTS OF ACCRUING RESOURCES WHICH MAY BE USED IN YEAR ENDING 31ST MARCH 2010[^c-698df5d05122c3e73371696c9b6d62f8]
 
 **No longer in force.**
 
@@ -92,7 +92,7 @@ Sections 3 and 4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — REPEALS[^key-698df5d05122c3e73371696c9b6d62f8]
+## SCHEDULE 3 — REPEALS[^c-698df5d05122c3e73371696c9b6d62f8]
 
 **No longer in force.**
 
@@ -102,4 +102,4 @@ Section 5.
 
 ## Annotations
 
-[^key-698df5d05122c3e73371696c9b6d62f8]: Textual amendment: [Act](https://www.legislation.gov.uk/nia/2009/7) repealed (20.7.2012) by [Budget (No. 2) Act (Northern Ireland) 2012 (c. 4)](https://www.legislation.gov.uk/nia/2012/4), [Sch. 4](https://www.legislation.gov.uk/nia/2012/4/schedule/4)
+[^c-698df5d05122c3e73371696c9b6d62f8]: Textual amendment: [Act](https://www.legislation.gov.uk/nia/2009/7) repealed (20.7.2012) by [Budget (No. 2) Act (Northern Ireland) 2012 (c. 4)](https://www.legislation.gov.uk/nia/2012/4), [Sch. 4](https://www.legislation.gov.uk/nia/2012/4/schedule/4)

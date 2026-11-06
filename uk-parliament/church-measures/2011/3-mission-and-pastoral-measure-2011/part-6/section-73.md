@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 73. Acquisition of rights of way and other easements[^key-520e0afd3192d3c2b317b842df75cc42]
+## 73. Acquisition of rights of way and other easements[^c-520e0afd3192d3c2b317b842df75cc42]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Where the Commissioners consider that it is necessary or appropriate to acquire 
 
 ## Annotations
 
-[^key-520e0afd3192d3c2b317b842df75cc42]: Commencement: S. 73 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-520e0afd3192d3c2b317b842df75cc42]: Commencement: S. 73 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

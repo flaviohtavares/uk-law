@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 133 (affected by repeal, see note). Use of the euro (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+## Article 133 (affected by repeal, see note). Use of the euro (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
-1. Member States which have not adopted the euro as their currency on the date of an application for payment shall convert the amounts of expenditure incurred in national currency into euro. Those amounts shall be converted into euro using the monthly accounting exchange rate of the Commission in the month during which the expenditure was registered in the accounts of the certifying authority of the operational programme concerned. The exchange rate shall be published electronically by the Commission each month. *(affected by repeal, see note)*[^key-b676935048cfd925335e1c66c82fd0d4]
+1. Member States which have not adopted the euro as their currency on the date of an application for payment shall convert the amounts of expenditure incurred in national currency into euro. Those amounts shall be converted into euro using the monthly accounting exchange rate of the Commission in the month during which the expenditure was registered in the accounts of the certifying authority of the operational programme concerned. The exchange rate shall be published electronically by the Commission each month. *(affected by repeal, see note)*[^c-b676935048cfd925335e1c66c82fd0d4]
 
-2. By way of derogation from paragraph 1, the ETC Regulation may establish specific rules on the timing for conversion into euro. *(affected by repeal, see note)*[^key-b676935048cfd925335e1c66c82fd0d4]
+2. By way of derogation from paragraph 1, the ETC Regulation may establish specific rules on the timing for conversion into euro. *(affected by repeal, see note)*[^c-b676935048cfd925335e1c66c82fd0d4]
 
-3. When the euro becomes the currency of a Member State, the conversion procedure set out in paragraph 1 shall continue to apply to all expenditure recorded in the accounts by the certifying authority before the date of entry into force of the fixed conversion rate between the national currency and the euro. *(affected by repeal, see note)*[^key-b676935048cfd925335e1c66c82fd0d4]
+3. When the euro becomes the currency of a Member State, the conversion procedure set out in paragraph 1 shall continue to apply to all expenditure recorded in the accounts by the certifying authority before the date of entry into force of the fixed conversion rate between the national currency and the euro. *(affected by repeal, see note)*[^c-b676935048cfd925335e1c66c82fd0d4]
 
 ## Annotations
 
-[^key-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

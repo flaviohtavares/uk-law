@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-e58c544eac574cf589e49158d4b7a6fa]
+### 1. Interpretation[^c-e58c544eac574cf589e49158d4b7a6fa]
 
 In this schedule—
 
@@ -36,7 +36,7 @@ In this schedule—
 - “prospective purchaser” means a person who seeks to purchase a puppy,
 - “sleeping area” means a fully-enclosed indoor area in which a dog can rest and sleep.
 
-### 2. Advertisements and sales[^key-92a94e827d15336cb9f03cbe7f4e2abc]
+### 2. Advertisements and sales[^c-92a94e827d15336cb9f03cbe7f4e2abc]
 
 (1) A dog must not be advertised or offered for sale—
 
@@ -70,13 +70,13 @@ unless the dog is over the age of 12 months and was procured by the licence hold
 
 (8) A dog may only be sold if the name, and an address, of the licence holder are disclosed to the purchaser.
 
-### 3. Number of breeding bitches and litters produced[^key-37a99b9ed4cb3c73374e33b0b6bffbbe]
+### 3. Number of breeding bitches and litters produced[^c-37a99b9ed4cb3c73374e33b0b6bffbbe]
 
 (1) The number of breeding bitches kept in relation to the licensable activity of breeding dogs at any time on the premises specified in the licence and on which the licensable activity is carried on must not exceed the maximum number specified by the local authority in the licence.
 
 (2) The number of litters produced on the premises during each consecutive 12 month period commencing with the date on which the licence was granted or, as the case may be, renewed must not exceed the maximum number of breeding bitches specified in the licence.
 
-### 4. Suitable environment[^key-33694d9f62a15609ed76a28fe89b8450]
+### 4. Suitable environment[^c-33694d9f62a15609ed76a28fe89b8450]
 
 (1) Each dog must have access to—
 
@@ -114,7 +114,7 @@ without touching another dog or the walls of the sleeping area.
 
 (11) In this paragraph, “exercise area” means a secure area where dogs may exercise and play.
 
-### 5. Suitable diet[^key-c36b48987fb90bf797722dc12c91ec67]
+### 5. Suitable diet[^c-c36b48987fb90bf797722dc12c91ec67]
 
 (1) Each puppy must be provided with the opportunity to start weaning as soon as it is capable of ingesting feed on its own.
 
@@ -124,7 +124,7 @@ without touching another dog or the walls of the sleeping area.
 
 (4) Reasonable efforts must be made so that each puppy ingests the correct share of the feed provided.
 
-### 6. Monitoring of behaviour, exercise and training[^key-b235bc4fb625adf54e2b834728c32142]
+### 6. Monitoring of behaviour, exercise and training[^c-b235bc4fb625adf54e2b834728c32142]
 
 (1) The licence holder must implement and be able to demonstrate use of a documented socialisation and habituation programme for the puppies.
 
@@ -141,7 +141,7 @@ without touching another dog or the walls of the sleeping area.
 
 (6) All adult dogs must have at least daily opportunities to interact with people where such interaction benefits their welfare.
 
-### 7. Housing with or apart from other dogs[^key-650cc60c590d70da744c18f5c714f053]
+### 7. Housing with or apart from other dogs[^c-650cc60c590d70da744c18f5c714f053]
 
 (1) Each adult dog must be provided with opportunities for social contact with other dogs where such contact benefits the dog’s welfare.
 
@@ -149,7 +149,7 @@ without touching another dog or the walls of the sleeping area.
 
 (3) There must be an area within each sleeping area in which dogs can avoid seeing people and other dogs outside the sleeping area if they so choose.
 
-### 8. Protection from suffering, injury and disease[^key-1a47e0aa77fb97559fe3d9bf1bcda0df]
+### 8. Protection from suffering, injury and disease[^c-1a47e0aa77fb97559fe3d9bf1bcda0df]
 
 (1) All dogs for sale must be in good health.
 
@@ -219,20 +219,20 @@ until it has recovered, ceased to require isolation or, where there is no need f
 
 ## Annotations
 
-[^key-e58c544eac574cf589e49158d4b7a6fa]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-e58c544eac574cf589e49158d4b7a6fa]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
 [^f00017]: Footnote: [S.S.I. 2016/58](https://www.legislation.gov.uk/ssi/2016/58).
 
-[^key-92a94e827d15336cb9f03cbe7f4e2abc]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-92a94e827d15336cb9f03cbe7f4e2abc]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-37a99b9ed4cb3c73374e33b0b6bffbbe]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-37a99b9ed4cb3c73374e33b0b6bffbbe]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-33694d9f62a15609ed76a28fe89b8450]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-33694d9f62a15609ed76a28fe89b8450]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-c36b48987fb90bf797722dc12c91ec67]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-c36b48987fb90bf797722dc12c91ec67]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-b235bc4fb625adf54e2b834728c32142]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-b235bc4fb625adf54e2b834728c32142]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-650cc60c590d70da744c18f5c714f053]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-650cc60c590d70da744c18f5c714f053]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-1a47e0aa77fb97559fe3d9bf1bcda0df]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-1a47e0aa77fb97559fe3d9bf1bcda0df]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ssi/2021/84/schedule/6/paragraph/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

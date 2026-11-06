@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Interpretation of Part IV[^key-79f87e3099fe2dc06002cb43934dc718]
+## 57. Interpretation of Part IV[^c-79f87e3099fe2dc06002cb43934dc718]
 
 *Extent: N.I.*
 
@@ -90,7 +90,7 @@ summary: ''
 
 ## Annotations
 
-[^key-79f87e3099fe2dc06002cb43934dc718]: Commencement: Reg. 57 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-79f87e3099fe2dc06002cb43934dc718]: Commencement: Reg. 57 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00054]: Footnote: [1953 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1953/18)
 

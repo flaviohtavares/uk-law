@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Community order: effect of remand in custody[^key-0895f099c70d686d20ad8851b88977f2]
+## 205. Community order: effect of remand in custody[^c-0895f099c70d686d20ad8851b88977f2]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0895f099c70d686d20ad8851b88977f2]: Commencement: S. 205 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0895f099c70d686d20ad8851b88977f2]: Commencement: S. 205 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

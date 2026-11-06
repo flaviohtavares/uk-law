@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39A. Protected rights for the purposes of this Chapter[^key-eb6fbd13c116ede69edfe50acc1ed6e4]
+## 39A. Protected rights for the purposes of this Chapter[^c-eb6fbd13c116ede69edfe50acc1ed6e4]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ and who was taken in consequence of that licence (or that part of the licence) t
 (9) The period referred to in subsection (8)(a) above is—
 
 - (a) four years; or
-- (b) if the abstractions authorised under the old licence were abstractions planned to be carried out at intervals of more than four years, or abstractions for emergency purposes only, such longer period as the appropriate agency[^key-0ae67d1ec1272e9437b5845931bb1e3e] may determine on the application of the holder of the old licence.
+- (b) if the abstractions authorised under the old licence were abstractions planned to be carried out at intervals of more than four years, or abstractions for emergency purposes only, such longer period as the appropriate agency[^c-0ae67d1ec1272e9437b5845931bb1e3e] may determine on the application of the holder of the old licence.
 
 (10) In subsections (8) and (9) above, references to the old licence, in the case of a licence which ceased to have effect only to the extent specified in the order or regulations referred to in subsection (7) above, are to the part of the licence which ceased to have effect.
 
@@ -77,6 +77,6 @@ and who was taken in consequence of that licence (or that part of the licence) t
 
 ## Annotations
 
-[^key-eb6fbd13c116ede69edfe50acc1ed6e4]: Textual amendment: S. 39A inserted (1.4.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/17/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/968/article/2/d) (with [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2005/968/schedule/1/paragraph/2))
+[^c-eb6fbd13c116ede69edfe50acc1ed6e4]: Textual amendment: S. 39A inserted (1.4.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/17/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/968/article/2/d) (with [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2005/968/schedule/1/paragraph/2))
 
-[^key-0ae67d1ec1272e9437b5845931bb1e3e]: Textual amendment: Words in ss. 33A-45 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(g)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/g) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0ae67d1ec1272e9437b5845931bb1e3e]: Textual amendment: Words in ss. 33A-45 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(g)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/g) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56FC. Competitive tenders for licences for new licensable activities[^key-fcb25ac4ab760d9fe1b251628ab70615]
+## 56FC. Competitive tenders for licences for new licensable activities[^c-fcb25ac4ab760d9fe1b251628ab70615]
 
 *Extent: E+W+S*
 
 (1) The Secretary of State may by regulations make provision for a determination on a competitive basis of the person to whom a licence in respect of new licensable activities is to be granted.
 
-(2) In this section “**new licensable activities**” means one or more activities which are the subject of an order under section 56FA(1)(a) or regulations under section 56FBA(1)(a)[^key-e7ab1b1c4a30907cdea0ed2c08fb95cd].
+(2) In this section “**new licensable activities**” means one or more activities which are the subject of an order under section 56FA(1)(a) or regulations under section 56FBA(1)(a)[^c-e7ab1b1c4a30907cdea0ed2c08fb95cd].
 
 (3) The regulations may—
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fcb25ac4ab760d9fe1b251628ab70615]: Textual amendment: Ss. 56FA-56FC inserted (26.11.2008) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(1)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/b), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2008/32/schedule/4/paragraph/2)
+[^c-fcb25ac4ab760d9fe1b251628ab70615]: Textual amendment: Ss. 56FA-56FC inserted (26.11.2008) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(1)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/b), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2008/32/schedule/4/paragraph/2)
 
-[^key-e7ab1b1c4a30907cdea0ed2c08fb95cd]: Textual amendment: Words in [s. 56FC(2)](https://www.legislation.gov.uk/ukpga/1989/29/section/56FC/2) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/3); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
+[^c-e7ab1b1c4a30907cdea0ed2c08fb95cd]: Textual amendment: Words in [s. 56FC(2)](https://www.legislation.gov.uk/ukpga/1989/29/section/56FC/2) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/3); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)

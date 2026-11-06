@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 702. “Tax-adjusted carrying value”[^key-d7826516e736eb5041919a558313a01e][^key-d41059d7bf24691b01d6dfbf774813c0]
+## 702. “Tax-adjusted carrying value”[^c-d7826516e736eb5041919a558313a01e][^c-d41059d7bf24691b01d6dfbf774813c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7826516e736eb5041919a558313a01e]: Modification: S. 702 modified by [S.I. 2004/3256](https://www.legislation.gov.uk/uksi/2004/3256), [reg. 6B(1)(b)](https://www.legislation.gov.uk/ukpga/2009/4/regulation/6B/1/b) (as inserted (with effect in accordance with reg. 1(2)(a)(3) of the amending S.I.) by [The Loan Relationships and Derivative Contracts (Disregard and Bringing into Account of Profits and Losses) (Amendment) Regulations 2014 (S.I. 2014/3188)](https://www.legislation.gov.uk/uksi/2014/3188), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3188/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2014/3188/regulation/6) (with [reg. 9](https://www.legislation.gov.uk/uksi/2014/3188/regulation/9)))
+[^c-d7826516e736eb5041919a558313a01e]: Modification: S. 702 modified by [S.I. 2004/3256](https://www.legislation.gov.uk/uksi/2004/3256), [reg. 6B(1)(b)](https://www.legislation.gov.uk/ukpga/2009/4/regulation/6B/1/b) (as inserted (with effect in accordance with reg. 1(2)(a)(3) of the amending S.I.) by [The Loan Relationships and Derivative Contracts (Disregard and Bringing into Account of Profits and Losses) (Amendment) Regulations 2014 (S.I. 2014/3188)](https://www.legislation.gov.uk/uksi/2014/3188), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3188/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2014/3188/regulation/6) (with [reg. 9](https://www.legislation.gov.uk/uksi/2014/3188/regulation/9)))
 
-[^key-d41059d7bf24691b01d6dfbf774813c0]: Textual amendment: S. 702 substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 95](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/95)
+[^c-d41059d7bf24691b01d6dfbf774813c0]: Textual amendment: S. 702 substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 95](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/95)

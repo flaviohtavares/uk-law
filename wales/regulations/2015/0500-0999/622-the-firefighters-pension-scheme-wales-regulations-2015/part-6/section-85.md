@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Meaning of “surviving partner”[^key-8bb151cf2240359b2db2a1b525435d91]
+## 85. Meaning of “surviving partner”[^c-8bb151cf2240359b2db2a1b525435d91]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bb151cf2240359b2db2a1b525435d91]: Commencement: Reg. 85 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-8bb151cf2240359b2db2a1b525435d91]: Commencement: Reg. 85 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

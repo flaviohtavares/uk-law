@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Commencement of pensions[^key-a984ef1a1318ab99f194c45800a077dc]
+## 70. Commencement of pensions[^c-a984ef1a1318ab99f194c45800a077dc]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a984ef1a1318ab99f194c45800a077dc]: Commencement: [Reg. 70](https://www.legislation.gov.uk/ssi/2015/19/regulation/70) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-a984ef1a1318ab99f194c45800a077dc]: Commencement: [Reg. 70](https://www.legislation.gov.uk/ssi/2015/19/regulation/70) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

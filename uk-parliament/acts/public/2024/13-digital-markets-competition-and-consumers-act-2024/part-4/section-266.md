@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 266. Cooling-off notice[^key-cc6ce41abf35062a2f42ed4db5cacb47]
+## 266. Cooling-off notice[^c-cc6ce41abf35062a2f42ed4db5cacb47]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc6ce41abf35062a2f42ed4db5cacb47]: Commencement: S. 266 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-cc6ce41abf35062a2f42ed4db5cacb47]: Commencement: S. 266 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

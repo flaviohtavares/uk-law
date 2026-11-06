@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Continuity[^key-4e9c23b3c7e70e15152f360af98fd739]
+## 36. Continuity[^c-4e9c23b3c7e70e15152f360af98fd739]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ has effect as if made or done by or in relation to the Combined Authority.
 
 ## Annotations
 
-[^key-4e9c23b3c7e70e15152f360af98fd739]: Commencement: Art. 36 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-4e9c23b3c7e70e15152f360af98fd739]: Commencement: Art. 36 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

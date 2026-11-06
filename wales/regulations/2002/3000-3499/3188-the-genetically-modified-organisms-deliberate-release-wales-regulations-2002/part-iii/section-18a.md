@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18A. Transitional measures for adventitious or technically unavoidable presence of genetically modified material which has benefited from a favourable risk evaluation[^key-c66a564ff27295f9287cfc4324f1153b]
+## 18A. Transitional measures for adventitious or technically unavoidable presence of genetically modified material which has benefited from a favourable risk evaluation[^c-c66a564ff27295f9287cfc4324f1153b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c66a564ff27295f9287cfc4324f1153b]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/wsi/2002/3188/regulation/18A) omitted (20.3.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/379)](https://www.legislation.gov.uk/wsi/2019/379), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/379/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/379/regulation/2/3)
+[^c-c66a564ff27295f9287cfc4324f1153b]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/wsi/2002/3188/regulation/18A) omitted (20.3.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/379)](https://www.legislation.gov.uk/wsi/2019/379), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/379/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/379/regulation/2/3)

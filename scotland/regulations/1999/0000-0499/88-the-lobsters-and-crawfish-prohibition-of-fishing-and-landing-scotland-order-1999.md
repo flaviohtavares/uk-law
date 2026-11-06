@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred on them by sections 5(1), 6(1) and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Citation, commencement and extent[^key-dc0ec1dca90875eac351eb6c966721aa]
+## 1. Citation, commencement and extent[^c-dc0ec1dca90875eac351eb6c966721aa]
 
 (1) This Order may be cited as the Lobsters and Crawfish (Prohibition of Fishing and Landing) (Scotland) Order 1999 and shall come into force on8th November 1999.
 
 (2) This Order extends to Scotland only.
 
-## 2. Interpretation[^key-d24ec6929777fb7f0487b89c3e9c2ba3]
+## 2. Interpretation[^c-d24ec6929777fb7f0487b89c3e9c2ba3]
 
 In this Order—
 
@@ -62,7 +62,7 @@ In this Order—
 - “mutilated” in relation to a lobster or crawfish, means a lobster or crawfish which has been mutilated in such a manner as to obscure a V notch; and
 - “V notch” means a marking in the shape of the letter “V” with a depth of at least 5mm cut into at least one of the inner uropods of the tail fan of any lobster or crawfish, with the apex of the letter “V” positioned inward from the edge of the flap.
 
-## 3. Fishing prohibition[^key-6a3ee274c31794d8f1dfce4b4290bb8e]
+## 3. Fishing prohibition[^c-6a3ee274c31794d8f1dfce4b4290bb8e]
 
 (1) This article applies to fishing for—
 
@@ -70,11 +70,11 @@ In this Order—
 - (b) a mutilated crawfish, or
 - (c) any lobster or crawfish bearing a V notch.
 
-(2) Fishing to which this article applies by any[^key-dda18f52abf7c0f91abcee9cedac5ccb] fishing boat anywhere within the Scottish zone is prohibited.
+(2) Fishing to which this article applies by any[^c-dda18f52abf7c0f91abcee9cedac5ccb] fishing boat anywhere within the Scottish zone is prohibited.
 
-(3) Fishing to which this article applies by a Scottish fishing boat outside the Scottish zone[^key-30eb7a324b9c8b4c2d616fd86b5a0ea3] is prohibited.
+(3) Fishing to which this article applies by a Scottish fishing boat outside the Scottish zone[^c-30eb7a324b9c8b4c2d616fd86b5a0ea3] is prohibited.
 
-## 4. Landing prohibition[^key-d14a3e8866971048b5f8388bd3b270b1]
+## 4. Landing prohibition[^c-d14a3e8866971048b5f8388bd3b270b1]
 
 (1) This article applies to—
 
@@ -84,14 +84,14 @@ In this Order—
 
 (2) The landing in Scotland of any seafish to which this article applies whether caught within the Scottish zone or anywhere outside that zone is prohibited.
 
-(3)[^key-77404fa1eca452a5aabd0aa5e8c38403] The prohibition in paragraph (2) does not apply in relation to sea fish caught by a foreign fishing boat in waters lying outside British fishery limits.
+(3)[^c-77404fa1eca452a5aabd0aa5e8c38403] The prohibition in paragraph (2) does not apply in relation to sea fish caught by a foreign fishing boat in waters lying outside British fishery limits.
 
-## 5. Powers of British sea-fishery officers in relation to fishing boats[^key-1556f29c745626a4a22b118358409ea4]
+## 5. Powers of British sea-fishery officers in relation to fishing boats[^c-1556f29c745626a4a22b118358409ea4]
 
 (1) For the purpose of the enforcement of this Order a British sea-fishery officer may exercise the powers conferred by paragraphs (2) to (4) below—
 
 - (a) anywhere in relation to any Scottish fishing boat; and
-- (b) in any waters adjacent to the United Kingdom and within the Scottish zone in relation to any other[^key-9f9fa2ae5f34c95e5f12e50090cabc6b] fishing boat.
+- (b) in any waters adjacent to the United Kingdom and within the Scottish zone in relation to any other[^c-9f9fa2ae5f34c95e5f12e50090cabc6b] fishing boat.
 
 (2) He may go on board the boat, with or without persons assigned to assist him in his duties, and for that purpose may require the boat to stop and do anything else which will facilitate the boarding of the boat.
 
@@ -129,22 +129,22 @@ The Order also confers upon British sea-fishery officers powers necessary for th
 
 [^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); section 5(1) was substituted by the [Sea Fisheries Act 1981 (“the 1981 Act”) (c.29)](https://www.legislation.gov.uk/ukpga/1981/29) section 22(1); section 6(1) was amended by virtue of S.I. [1970/1537](https://www.legislation.gov.uk/uksi/1970/1537), Schedule 2, paragraph 10 and S.I. [1974/692](https://www.legislation.gov.uk/uksi/1974/692) articles 2(1) and 5(3), Schedule 1 part III; section 6(1A) was inserted by the 1981 Act, section 23(2); sections 5(1) and 6 were modified in their effect by section 33(1) of the 1981 Act; section 15(3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), Schedule 1, paragraph 38(3) and amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), Schedule 2, paragraph 16(1).The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).The obligation to consult the Secretary of State for Trade was disapplied by section 55 of the Scotland Act [1986 (c. 46)](https://www.legislation.gov.uk/ukpga/1986/46).Relevant modifications are contained in the Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756)), articles 3 to 6.Sections 15(3) and 6(1) were amended by the Scotland Act (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)) (“the 1999 Order”), Schedule 2, paragraph 43(2) and (6) respectively.Sections 5(1), 6(1) and 15(3) have effect in relation to Scotland as modified by section 22A of the Sea Fish (Conservation) Act 1967 as inserted by Schedule 2, paragraph 43(13) of the 1999 Order.
 
-[^key-dc0ec1dca90875eac351eb6c966721aa]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/1999/88/article/1) in force at 8.11.1999, see [art. 1(1)](https://www.legislation.gov.uk/ssi/1999/88/article/1/1)
+[^c-dc0ec1dca90875eac351eb6c966721aa]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/1999/88/article/1) in force at 8.11.1999, see [art. 1(1)](https://www.legislation.gov.uk/ssi/1999/88/article/1/1)
 
-[^key-d24ec6929777fb7f0487b89c3e9c2ba3]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/1999/88/article/2) in force at 8.11.1999, see [art. 1(1)](https://www.legislation.gov.uk/ssi/1999/88/article/1/1)
+[^c-d24ec6929777fb7f0487b89c3e9c2ba3]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/1999/88/article/2) in force at 8.11.1999, see [art. 1(1)](https://www.legislation.gov.uk/ssi/1999/88/article/1/1)
 
-[^key-6a3ee274c31794d8f1dfce4b4290bb8e]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/1999/88/article/3) in force at 8.11.1999, see [art. 1(1)](https://www.legislation.gov.uk/ssi/1999/88/article/1/1)
+[^c-6a3ee274c31794d8f1dfce4b4290bb8e]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/1999/88/article/3) in force at 8.11.1999, see [art. 1(1)](https://www.legislation.gov.uk/ssi/1999/88/article/1/1)
 
-[^key-dda18f52abf7c0f91abcee9cedac5ccb]: Textual amendment: Word in [art. 3(2)](https://www.legislation.gov.uk/ssi/1999/88/article/3/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/22/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-dda18f52abf7c0f91abcee9cedac5ccb]: Textual amendment: Word in [art. 3(2)](https://www.legislation.gov.uk/ssi/1999/88/article/3/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/22/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-30eb7a324b9c8b4c2d616fd86b5a0ea3]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/ssi/1999/88/article/3/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/22/2/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-30eb7a324b9c8b4c2d616fd86b5a0ea3]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/ssi/1999/88/article/3/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/22/2/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-d14a3e8866971048b5f8388bd3b270b1]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/1999/88/article/4) in force at 8.11.1999, see [art. 1(1)](https://www.legislation.gov.uk/ssi/1999/88/article/1/1)
+[^c-d14a3e8866971048b5f8388bd3b270b1]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/1999/88/article/4) in force at 8.11.1999, see [art. 1(1)](https://www.legislation.gov.uk/ssi/1999/88/article/1/1)
 
-[^key-77404fa1eca452a5aabd0aa5e8c38403]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/ssi/1999/88/article/4/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 22(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/22/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-77404fa1eca452a5aabd0aa5e8c38403]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/ssi/1999/88/article/4/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 22(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/22/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-1556f29c745626a4a22b118358409ea4]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/1999/88/article/5) in force at 8.11.1999, see [art. 1(1)](https://www.legislation.gov.uk/ssi/1999/88/article/1/1)
+[^c-1556f29c745626a4a22b118358409ea4]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/1999/88/article/5) in force at 8.11.1999, see [art. 1(1)](https://www.legislation.gov.uk/ssi/1999/88/article/1/1)
 
-[^key-9f9fa2ae5f34c95e5f12e50090cabc6b]: Textual amendment: Word in [art. 5(1)(b)](https://www.legislation.gov.uk/ssi/1999/88/article/5/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 22(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/22/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-9f9fa2ae5f34c95e5f12e50090cabc6b]: Textual amendment: Word in [art. 5(1)(b)](https://www.legislation.gov.uk/ssi/1999/88/article/5/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 22(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/22/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00002]: Footnote: Section 5(6) was amended by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 22(2).Section 6(5) was amended and section 6(5A) was inserted by section 23(3) of that Act.By virtue of section 5(7) of the 1967 Act where section 5(6) is not complied with in the case of any fishing boat, the master, the owner and the charterer (if any) are guilty of an offence under subsection (6).

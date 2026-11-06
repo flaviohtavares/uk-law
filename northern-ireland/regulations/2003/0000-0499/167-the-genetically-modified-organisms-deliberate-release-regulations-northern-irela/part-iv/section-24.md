@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Decisions by the Department on applications for consents to market genetically modified organisms[^key-5c9ed8e0c8cf4ffaa99dd71208ef4243]
+## 24. Decisions by the Department on applications for consents to market genetically modified organisms[^c-5c9ed8e0c8cf4ffaa99dd71208ef4243]
 
 *Extent: N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5c9ed8e0c8cf4ffaa99dd71208ef4243]: Commencement: Reg. 24 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-5c9ed8e0c8cf4ffaa99dd71208ef4243]: Commencement: Reg. 24 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
 
 [^f00018]: Footnote: O.J. No. L193, 20.7.2002, p. 1
 

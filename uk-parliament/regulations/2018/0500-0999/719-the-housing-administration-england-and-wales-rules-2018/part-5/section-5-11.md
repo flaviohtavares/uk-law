@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.11. Exclusion of proof by the court[^key-1c75e4610622bed8568be1a57e563df7]
+## 5.11. Exclusion of proof by the court[^c-1c75e4610622bed8568be1a57e563df7]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c75e4610622bed8568be1a57e563df7]: Commencement: Rule 5.11 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-1c75e4610622bed8568be1a57e563df7]: Commencement: Rule 5.11 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

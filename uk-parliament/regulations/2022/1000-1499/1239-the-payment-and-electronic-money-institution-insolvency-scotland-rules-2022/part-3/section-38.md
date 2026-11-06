@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Content of notice for meetings[^key-fd585aa417cc572a4fc7ea01d2a743a0]
+## 38. Content of notice for meetings[^c-fd585aa417cc572a4fc7ea01d2a743a0]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ unless the court orders that notice be given by advertisement only in accordance
 
 ## Annotations
 
-[^key-fd585aa417cc572a4fc7ea01d2a743a0]: Commencement: Rule 38 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-fd585aa417cc572a4fc7ea01d2a743a0]: Commencement: Rule 38 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

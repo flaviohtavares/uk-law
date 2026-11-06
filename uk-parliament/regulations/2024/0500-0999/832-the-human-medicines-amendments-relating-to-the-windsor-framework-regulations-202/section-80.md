@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Amendment to regulation 189[^key-3bf047fb13110a1134646ac8ebce10e0]
+## 80. Amendment to regulation 189[^c-3bf047fb13110a1134646ac8ebce10e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 189 (signal detection: licensing authority obligations)[^f00090]â€
 
 ## Annotations
 
-[^key-3bf047fb13110a1134646ac8ebce10e0]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2024/832/regulation/80) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-3bf047fb13110a1134646ac8ebce10e0]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2024/832/regulation/80) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00090]: Footnote: Paragraphs (2) and (3) of regulation 189 were amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488); there was a typographical error in those amendments which is rectified by these amendments.

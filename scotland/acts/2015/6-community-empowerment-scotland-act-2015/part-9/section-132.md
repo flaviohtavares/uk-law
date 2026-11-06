@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 132. Removal of items from allotment by tenant[^key-76dc79f35e2614e67f15a359927e8775]
+## 132. Removal of items from allotment by tenant[^c-76dc79f35e2614e67f15a359927e8775]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76dc79f35e2614e67f15a359927e8775]: Commencement: [S. 132](https://www.legislation.gov.uk/asp/2015/6/section/132) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-76dc79f35e2614e67f15a359927e8775]: Commencement: [S. 132](https://www.legislation.gov.uk/asp/2015/6/section/132) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

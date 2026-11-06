@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Modification of Part 1 of the 1965 Act[^key-464542c0b229f46b4bd50e94c150aba4]
+## 25. Modification of Part 1 of the 1965 Act[^c-464542c0b229f46b4bd50e94c150aba4]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-464542c0b229f46b4bd50e94c150aba4]: Commencement: Art. 25 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-464542c0b229f46b4bd50e94c150aba4]: Commencement: Art. 25 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)

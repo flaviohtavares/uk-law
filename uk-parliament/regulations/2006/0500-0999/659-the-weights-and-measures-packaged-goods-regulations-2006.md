@@ -60,19 +60,19 @@ In these Regulations—
 
 - “**batch**” means a group of packages selected in accordance with the provisions of Schedule 2 for the purposes of conducting a reference test;
 - “**bread**” means bread in the form of single loaves (whether or not sliced);
-- “**cosmetic product**” has the meaning given by Article 2 of Regulation[^key-0f5b50e656d906188f282dd6b79d7a92] [(EC) No 1223/2009](https://www.legislation.gov.uk/eur/2009/1223) of the European Parliament and of the Council on cosmetic products (recast) as amended from time to time;
-- [^key-1b2e3f065471b09f3008609a3ec7f64b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “**cosmetic product**” has the meaning given by Article 2 of Regulation[^c-0f5b50e656d906188f282dd6b79d7a92] [(EC) No 1223/2009](https://www.legislation.gov.uk/eur/2009/1223) of the European Parliament and of the Council on cosmetic products (recast) as amended from time to time;
+- [^c-1b2e3f065471b09f3008609a3ec7f64b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**the E-mark**” means a letter \`e', at least 3 mm high, having the form shown in Schedule 4;
-- “food” has the meaning set out in Article 2 of Regulation[^key-05b23ffdeb89e795a0ce670c85f49a07] [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/0178);
+- “food” has the meaning set out in Article 2 of Regulation[^c-05b23ffdeb89e795a0ce670c85f49a07] [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/0178);
 - “**importer**” means, in relation to a package or outer container, the person by whom, or on whose behalf, the package or outer container is brought into the United Kingdom;
 - “**inspector**” means an inspector of weights and measures appointed under section 72(1) of the 1985 Act;
 - “**knitting yarn**” means knitting yarn consisting of natural fibres (whether animal, vegetable or mineral), chemical fibres, or a mixture of such fibres;
-- “labelling requirements” means the requirements set out in regulations 5(1)(a), 5(2), 6(1)(a), 6(1)(b), 6(2), 7, 8(1) and 8(3)(d);[^key-3583bc3bef6c20acb7c7b893e4c95727]
+- “labelling requirements” means the requirements set out in regulations 5(1)(a), 5(2), 6(1)(a), 6(1)(b), 6(2), 7, 8(1) and 8(3)(d);[^c-3583bc3bef6c20acb7c7b893e4c95727]
 - “**local weights and measures authority**” has the same meaning as in section 69 of the 1985 Act;
-- “mass caterer” means any establishment (including a vehicle or a fixed or mobile stall), such as restaurants, canteens, schools, hospitals and catering enterprises in which, in the course of a business, food is prepared to be ready for consumption by the final consumer;[^key-03e9e32b972a5d9abdcd496c2e1bc91c]
-- [^key-9f87192eb6f423cdf81a6264d96ececc]...
+- “mass caterer” means any establishment (including a vehicle or a fixed or mobile stall), such as restaurants, canteens, schools, hospitals and catering enterprises in which, in the course of a business, food is prepared to be ready for consumption by the final consumer;[^c-03e9e32b972a5d9abdcd496c2e1bc91c]
+- [^c-9f87192eb6f423cdf81a6264d96ececc]...
 - “**negative error**” means the quantity by which the contents of a package are less than the nominal quantity;
-- “**nominal quantity**” means the weight or volume marked on or in respect of a package pursuant to regulation 5(1)(a) or 6(1)(a), or entered in a record made under regulation 5(2) or 6(2) or, in the case of pre-packed food, the net quantity as required under Regulation 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers[^key-e45f4a8d2ec7966f4e3bb0266b045394];
+- “**nominal quantity**” means the weight or volume marked on or in respect of a package pursuant to regulation 5(1)(a) or 6(1)(a), or entered in a record made under regulation 5(2) or 6(2) or, in the case of pre-packed food, the net quantity as required under Regulation 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers[^c-e45f4a8d2ec7966f4e3bb0266b045394];
 - “**outer container**” means a container which contains two or more items, at least one of which is a package to which these Regulations apply, provided that:
   - (a) the items were placed in the container without the purchaser being present;
   - (b) the items cannot be removed from the container without the container being opened or undergoing a perceptible modification; and
@@ -81,7 +81,7 @@ In these Regulations—
   - (a) the product is placed in the package without the purchaser being present; and
   - (b) except in the case of knitting yarn, the quantity of the product in the package cannot be altered without the package being opened or undergoing a perceptible modification;
 - “**packer**” means the person who placed the product in the package or the packages in the outer container;
-- “pre-packed” means, in relation to food, any single item for presentation as such to the final consumer and to mass caterers, consisting of a food and the packaging into which it was put before being offered for sale, whether such packaging encloses the food completely or only partially, but in any event in such a way that the contents cannot be altered without opening or changing the packaging; ‘pre-packed food’ does not cover foods packed on the sales premises at the consumer’s request or pre-packed for direct sale;[^key-82c1b8b3e1e3ed371e55128d1759c054]
+- “pre-packed” means, in relation to food, any single item for presentation as such to the final consumer and to mass caterers, consisting of a food and the packaging into which it was put before being offered for sale, whether such packaging encloses the food completely or only partially, but in any event in such a way that the contents cannot be altered without opening or changing the packaging; ‘pre-packed food’ does not cover foods packed on the sales premises at the consumer’s request or pre-packed for direct sale;[^c-82c1b8b3e1e3ed371e55128d1759c054]
 - “**reference test**” means the tests set out in Schedule 2;
 - “**the 1985 Act**” means the Weights and Measures Act 1985;
 - “**the 1986 Regulations**” means the Weights and Measures (Packaged Goods) Regulations 1986 [^c1544457];
@@ -116,15 +116,15 @@ In these Regulations—
 - (d) are intended for despatch outside the United Kingdom;
 - (e) are intended for use by Her Majesty's forces or by a visiting force within the meaning of any of the provisions of Part I of the Visiting Forces Act 1952 [^c1544458];
 - (f) are intended for use as stores within the meaning of the Customs and Excise Management Act 1979 [^c1544459] in a ship, aircraft or hovercraft on a voyage or flight to an eventual destination outside Great Britain; or
-- (g)[^key-eb03d9b86a88513784ec322ffe604d07] contain sugar in a quantity of less than 20 g.
+- (g)[^c-eb03d9b86a88513784ec322ffe604d07] contain sugar in a quantity of less than 20 g.
 
-(5)[^key-ae4244bdc95622fb744560465a4aae3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ae4244bdc95622fb744560465a4aae3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ce98ef9d98c80378b489fd91eb6573bd] The labelling requirements do not apply to pre-packed food that is not marked with the E-mark, except that Regulation 8(1) shall continue to apply where trade practice provides that liquid products may be marked with nominal quantity by weight and that packages containing other products may be marked with nominal quantity by volume.
+(6)[^c-ce98ef9d98c80378b489fd91eb6573bd] The labelling requirements do not apply to pre-packed food that is not marked with the E-mark, except that Regulation 8(1) shall continue to apply where trade practice provides that liquid products may be marked with nominal quantity by weight and that packages containing other products may be marked with nominal quantity by volume.
 
-(7)[^key-5a64aef72ceecae381ef5ad37df01d00] The obligations on the importer set out in regulation 5(1)(b) and regulation 6(1)(c) to ensure the package or outer container is marked with specified contact information do not apply where—
+(7)[^c-5a64aef72ceecae381ef5ad37df01d00] The obligations on the importer set out in regulation 5(1)(b) and regulation 6(1)(c) to ensure the package or outer container is marked with specified contact information do not apply where—
 
-- (a) the importer has imported the package or outer container from an EEA state within the period of seven years[^key-2e784ddff82e958b8f76a5bc9924871c] beginning with IP completion day; and
+- (a) the importer has imported the package or outer container from an EEA state within the period of seven years[^c-2e784ddff82e958b8f76a5bc9924871c] beginning with IP completion day; and
 - (b) it is marked with the contact information of the person in that EEA state who packed or imported the package or who arranged for the packer to make up or the importer to import the package.
 
 ## 4. Duty to comply with the three packers' rules
@@ -166,7 +166,7 @@ with the E-mark, in which case the mark shall be indelible, easily legible and v
 
 (6) A packer or importer is not obliged to mark a package which is contained within an outer container and which is not intended, and would not normally be regarded as appropriate, for sale to an ultimate consumer as a separate item.
 
-(7) Where Article 19 of Regulation[^key-b4debddf12a5a12ec247b211659e04fd] [(EC) No 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) of the European Parliament and of the Council on cosmetic products (recast), as amended from time to time, requires a package to bear information about the responsible person, as defined in Article 4 of that Regulation then the requirement in paragraph (1)(b) to mark the name and address of a packer or importer who is established in the United Kingdom shall not apply.
+(7) Where Article 19 of Regulation[^c-b4debddf12a5a12ec247b211659e04fd] [(EC) No 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) of the European Parliament and of the Council on cosmetic products (recast), as amended from time to time, requires a package to bear information about the responsible person, as defined in Article 4 of that Regulation then the requirement in paragraph (1)(b) to mark the name and address of a packer or importer who is established in the United Kingdom shall not apply.
 
 ## 6. Duty of packers and importers to mark outer containers
 
@@ -194,7 +194,7 @@ with the E-mark, in which case the mark shall be indelible, easily legible and v
 
 (5) A packer or an importer of an outer container need not mark the outer container with the information required by paragraphs (1)(a) to (c) above if information is marked on inner packaging which can be viewed without opening the outer container and the information required by paragraphs (1)(a) to (c) can be readily ascertained from such information.
 
-(6) Where Article 19 of Regulation[^key-aa35c205ab2cbeedbcf98c7add58eceb] [(EC) No 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) of the European Parliament and of the Council on cosmetic products (recast) as amended from time to time, requires an outer container to bear information about the responsible person, as defined in Article 4 of that Regulation then the requirement in paragraph (1)(c) to mark the name and address of a packer or importer who is established in the United Kingdom shall not apply.
+(6) Where Article 19 of Regulation[^c-aa35c205ab2cbeedbcf98c7add58eceb] [(EC) No 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) of the European Parliament and of the Council on cosmetic products (recast) as amended from time to time, requires an outer container to bear information about the responsible person, as defined in Article 4 of that Regulation then the requirement in paragraph (1)(c) to mark the name and address of a packer or importer who is established in the United Kingdom shall not apply.
 
 ## 7. Liability for labelling packages and outer containers
 
@@ -204,7 +204,7 @@ Where an indication of nominal quantity is marked on a package or an outer conta
 
 (1) Packages containing liquid products shall be marked with the nominal quantity by volume and packages containing other products shall be marked with the nominal quantity by weight except where the law provides otherwise or, in the absence of a legal requirement, trade practice provides otherwise.
 
-(2) Where a package containing a solid foodstuff presented in a liquid medium (as defined in point 5 of Annex IX to Regulation[^key-fa8afc0b5a6fa2e4d7355279a90af1cc] [(EC) 1169/2011](https://www.legislation.gov.uk/eur/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers) is marked with the net drained weight then that is to be treated as the nominal quantity.
+(2) Where a package containing a solid foodstuff presented in a liquid medium (as defined in point 5 of Annex IX to Regulation[^c-fa8afc0b5a6fa2e4d7355279a90af1cc] [(EC) 1169/2011](https://www.legislation.gov.uk/eur/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers) is marked with the net drained weight then that is to be treated as the nominal quantity.
 
 (3) Information as to the nominal quantity shall be marked in accordance with the following requirements:
 
@@ -280,11 +280,11 @@ whichever occurs first.
 
 (4) Proceedings for an offence under these Regulations, other than an offence under regulation 16, shall not be instituted after the expiration of the period of twelve months beginning with the date when the offence was committed.
 
-(5)[^key-f3bc7effb46fefa624ce093bb1e4ce44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f3bc7effb46fefa624ce093bb1e4ce44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Nothing in these Regulations shall authorise any weights and measures authority to bring proceedings in Scotland for an offence.
 
-## 11. Notices to local weights and measures authorities[^key-8e89529ad9f6f6952b82a725a1ad4278]
+## 11. Notices to local weights and measures authorities[^c-8e89529ad9f6f6952b82a725a1ad4278]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -349,7 +349,7 @@ he shall be guilty of an offence.
 
 shall be guilty of an offence.
 
-(2)[^key-3a55315449ebbfd625e6b3703972025b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3a55315449ebbfd625e6b3703972025b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 16. Disclosure of information
 
@@ -491,7 +491,7 @@ Regulation 1(2)
 - (a) in paragraph (2)(b) omit the words “(except an offence under Part V)”; and
 - (b) in paragraph (3)(a) omit the words “(except an offence under Part V or any instrument made under that Part)”.
 
-(10)[^key-01fe49805864721c1b26b83aeebe7140] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-01fe49805864721c1b26b83aeebe7140] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In section 83—
 
@@ -551,13 +551,13 @@ Regulation 1(2)
 
 #### Criminal Justice and Police Act 2001 (2001 c. 16)
 
-(24)[^key-9beea71f135300a3b0a9011e0fdc609b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(24)[^c-9beea71f135300a3b0a9011e0fdc609b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(25)[^key-9beea71f135300a3b0a9011e0fdc609b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(25)[^c-9beea71f135300a3b0a9011e0fdc609b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(26)[^key-9beea71f135300a3b0a9011e0fdc609b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(26)[^c-9beea71f135300a3b0a9011e0fdc609b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(27)[^key-9beea71f135300a3b0a9011e0fdc609b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(27)[^c-9beea71f135300a3b0a9011e0fdc609b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — The reference test
 
@@ -806,7 +806,7 @@ The figures marked on the E-mark below show its relative dimensions as a proport
 
 **8.** Regulations 8 and 11 shall not apply.
 
-**9.**[^key-dc4450de5025e4fc79c51c17e1f3fe15] Regulation 9(1)(b)(ii) (duty to keep records) does not apply to bread which is sold unwrapped or in open packs.
+**9.**[^c-dc4450de5025e4fc79c51c17e1f3fe15] Regulation 9(1)(b)(ii) (duty to keep records) does not apply to bread which is sold unwrapped or in open packs.
 
 **10.** In Regulation 19(1), for the words “which was not marked on the packages when they were in his possession” there shall be substituted— “ which was not the nominal quantity to which the bread was made up ”.
 
@@ -825,49 +825,49 @@ The figures marked on the E-mark below show its relative dimensions as a proport
 
 **13.** Where bread is supplied part-baked to a retailer who completes the baking in the premises from which the bread is sold, then the retailer may by giving written notice to the local authority choose not to have the bread treated as a package under these Regulations.
 
-### 14. Transitional provision[^key-0fa9a61096b1b967e8b98864ee2ab182]
+### 14. Transitional provision[^c-0fa9a61096b1b967e8b98864ee2ab182]
 
 (1) Regulation 9(1)(b)(ii) (duty to keep records) does not apply to a packer who holds a notice of exemption which is in force.
 
 (2) A “**notice of exemption**” means a notice issued under paragraph 9 as it stood before section 78 of the Consumer Rights Act 2015 came into force.
 
-## SCHEDULE 6[^key-44e64b77ac63773c99f10bde2ea139a5]
+## SCHEDULE 6[^c-44e64b77ac63773c99f10bde2ea139a5]
 
 **No longer in force.**
 
 **Regulation 3(4)(g)**
 
-[^key-44e64b77ac63773c99f10bde2ea139a5]
+[^c-44e64b77ac63773c99f10bde2ea139a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — Powers of inspectors and local weights and measures authorities[^key-12c9182546dd22328b83a52c11edeb19]
+## SCHEDULE 7 — Powers of inspectors and local weights and measures authorities[^c-12c9182546dd22328b83a52c11edeb19]
 
 **No longer in force.**
 
 **Regulation 10(5)**
 
-### 1. Powers of entry and inspection[^key-12c9182546dd22328b83a52c11edeb19]
+### 1. Powers of entry and inspection[^c-12c9182546dd22328b83a52c11edeb19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-12c9182546dd22328b83a52c11edeb19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-12c9182546dd22328b83a52c11edeb19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-12c9182546dd22328b83a52c11edeb19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-12c9182546dd22328b83a52c11edeb19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Power of seizure[^key-12c9182546dd22328b83a52c11edeb19]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Power to require information[^key-12c9182546dd22328b83a52c11edeb19]
+### 4. Power of seizure[^c-12c9182546dd22328b83a52c11edeb19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Purchase of goods[^key-12c9182546dd22328b83a52c11edeb19]
+### 5. Power to require information[^c-12c9182546dd22328b83a52c11edeb19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Failure to provide assistance or information[^key-12c9182546dd22328b83a52c11edeb19]
+### 6. Purchase of goods[^c-12c9182546dd22328b83a52c11edeb19]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Failure to provide assistance or information[^c-12c9182546dd22328b83a52c11edeb19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -911,21 +911,21 @@ A full regulatory impact assessment of the effect that these Regulations would h
 
 [^c1544455]: Marginal citation: The European Communities (Designation)(No 3) Order 2005 ([S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766)).
 
-[^key-0f5b50e656d906188f282dd6b79d7a92]: Textual amendment: Words in reg. 2 substituted (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 17(a)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/17/a) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-0f5b50e656d906188f282dd6b79d7a92]: Textual amendment: Words in reg. 2 substituted (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 17(a)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/17/a) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
 
-[^key-1b2e3f065471b09f3008609a3ec7f64b]: Textual amendment: Words in reg. 2 omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/47) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-1b2e3f065471b09f3008609a3ec7f64b]: Textual amendment: Words in reg. 2 omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/47) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-05b23ffdeb89e795a0ce670c85f49a07]: Textual amendment: Words in reg. 2 inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [36(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/36/a)
+[^c-05b23ffdeb89e795a0ce670c85f49a07]: Textual amendment: Words in reg. 2 inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [36(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/36/a)
 
-[^key-3583bc3bef6c20acb7c7b893e4c95727]: Textual amendment: Words in reg. 2 inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [36(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/36/b)
+[^c-3583bc3bef6c20acb7c7b893e4c95727]: Textual amendment: Words in reg. 2 inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [36(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/36/b)
 
-[^key-03e9e32b972a5d9abdcd496c2e1bc91c]: Textual amendment: Words in reg. 2 inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [36(c)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/36/c)
+[^c-03e9e32b972a5d9abdcd496c2e1bc91c]: Textual amendment: Words in reg. 2 inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [36(c)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/36/c)
 
-[^key-9f87192eb6f423cdf81a6264d96ececc]: Textual amendment: Words in reg. 2 omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 11 para. 2](https://www.legislation.gov.uk/uksi/2019/696/schedule/11/paragraph/2) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f87192eb6f423cdf81a6264d96ececc]: Textual amendment: Words in reg. 2 omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 11 para. 2](https://www.legislation.gov.uk/uksi/2019/696/schedule/11/paragraph/2) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e45f4a8d2ec7966f4e3bb0266b045394]: Textual amendment: Words in reg. 2 inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [36(d)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/36/d)
+[^c-e45f4a8d2ec7966f4e3bb0266b045394]: Textual amendment: Words in reg. 2 inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [36(d)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/36/d)
 
-[^key-82c1b8b3e1e3ed371e55128d1759c054]: Textual amendment: Words in reg. 2 inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [36(e)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/36/e)
+[^c-82c1b8b3e1e3ed371e55128d1759c054]: Textual amendment: Words in reg. 2 inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [36(e)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/36/e)
 
 [^c1544457]: Marginal citation: [S.I. 1986/2049](https://www.legislation.gov.uk/uksi/1986/2049), amended by [S.I. 1992/1580](https://www.legislation.gov.uk/uksi/1992/1580), [S.I](https://www.legislation.gov.uk/uksi/1992/1580/section/I). 1994/1258 and [S.I. 1994/1852](https://www.legislation.gov.uk/uksi/1994/1852).
 
@@ -933,42 +933,42 @@ A full regulatory impact assessment of the effect that these Regulations would h
 
 [^c1544459]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-eb03d9b86a88513784ec322ffe604d07]: Textual amendment: [Reg. 3(4)(g)](https://www.legislation.gov.uk/uksi/2006/659/regulation/3/4/g) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [37(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/37/a)
+[^c-eb03d9b86a88513784ec322ffe604d07]: Textual amendment: [Reg. 3(4)(g)](https://www.legislation.gov.uk/uksi/2006/659/regulation/3/4/g) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [37(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/37/a)
 
-[^key-ae4244bdc95622fb744560465a4aae3b]: Textual amendment: Reg. 3(5) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 11 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/11/paragraph/3/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae4244bdc95622fb744560465a4aae3b]: Textual amendment: Reg. 3(5) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 11 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/11/paragraph/3/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ce98ef9d98c80378b489fd91eb6573bd]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2006/659/regulation/3/6) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [37(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/37/b)
+[^c-ce98ef9d98c80378b489fd91eb6573bd]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2006/659/regulation/3/6) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [37(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/37/b)
 
-[^key-5a64aef72ceecae381ef5ad37df01d00]: Textual amendment: Reg. 3(7) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 11 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/11/paragraph/3/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/2/1/a); and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a64aef72ceecae381ef5ad37df01d00]: Textual amendment: Reg. 3(7) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 11 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/11/paragraph/3/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/2/1/a); and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e784ddff82e958b8f76a5bc9924871c]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2006/659/regulation/3/7) substituted (31.12.2022) by [The Product Safety and Metrology (Amendment and Transitional Provisions) Regulations 2022 (S.I. 2022/1393)](https://www.legislation.gov.uk/uksi/2022/1393), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1393/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1393/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/1393/schedule/3) para. (a)
+[^c-2e784ddff82e958b8f76a5bc9924871c]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2006/659/regulation/3/7) substituted (31.12.2022) by [The Product Safety and Metrology (Amendment and Transitional Provisions) Regulations 2022 (S.I. 2022/1393)](https://www.legislation.gov.uk/uksi/2022/1393), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1393/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1393/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/1393/schedule/3) para. (a)
 
-[^key-b4debddf12a5a12ec247b211659e04fd]: Textual amendment: Words in [reg. 5(7)](https://www.legislation.gov.uk/uksi/2006/659/regulation/5/7) substituted (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 17(b)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/17/b) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-b4debddf12a5a12ec247b211659e04fd]: Textual amendment: Words in [reg. 5(7)](https://www.legislation.gov.uk/uksi/2006/659/regulation/5/7) substituted (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 17(b)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/17/b) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
 
-[^key-aa35c205ab2cbeedbcf98c7add58eceb]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2006/659/regulation/6/6) substituted (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 17(c)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/17/c) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-aa35c205ab2cbeedbcf98c7add58eceb]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2006/659/regulation/6/6) substituted (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 17(c)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/17/c) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
 
-[^key-fa8afc0b5a6fa2e4d7355279a90af1cc]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2006/659/regulation/8/2) substituted (1.2.2019) by [The Weights and Measures etc. (Miscellaneous) (Amendment) Regulations 2019 (S.I. 2019/5)](https://www.legislation.gov.uk/uksi/2019/5), [regs. 1](https://www.legislation.gov.uk/uksi/2019/5/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/5/regulation/3/2)
+[^c-fa8afc0b5a6fa2e4d7355279a90af1cc]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2006/659/regulation/8/2) substituted (1.2.2019) by [The Weights and Measures etc. (Miscellaneous) (Amendment) Regulations 2019 (S.I. 2019/5)](https://www.legislation.gov.uk/uksi/2019/5), [regs. 1](https://www.legislation.gov.uk/uksi/2019/5/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/5/regulation/3/2)
 
 [^c1544463]: Marginal citation: Section 8(5A) was inserted by [S.I.1994/2867](https://www.legislation.gov.uk/uksi/1994/2867) and amended by [S.I. 2001/55](https://www.legislation.gov.uk/uksi/2001/55).
 
-[^key-f3bc7effb46fefa624ce093bb1e4ce44]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/uksi/2006/659/regulation/10/5) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/48) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-f3bc7effb46fefa624ce093bb1e4ce44]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/uksi/2006/659/regulation/10/5) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/48) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-8e89529ad9f6f6952b82a725a1ad4278]: Textual amendment: Reg. 11 omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/uksi/2019/696/schedule/11/paragraph/4) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e89529ad9f6f6952b82a725a1ad4278]: Textual amendment: Reg. 11 omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/uksi/2019/696/schedule/11/paragraph/4) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3a55315449ebbfd625e6b3703972025b]: Textual amendment: Reg. 15(2) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/11/paragraph/5) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a55315449ebbfd625e6b3703972025b]: Textual amendment: Reg. 15(2) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/11/paragraph/5) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1544464]: Marginal citation: [1968 c. 29](https://www.legislation.gov.uk/ukpga/1968/29).
 
-[^key-01fe49805864721c1b26b83aeebe7140]: Textual amendment: Sch. 1 Pt. 2(10) revoked (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(e)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/e); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-01fe49805864721c1b26b83aeebe7140]: Textual amendment: Sch. 1 Pt. 2(10) revoked (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(e)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/e); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^M_F_640039a3-8755-4aa2-b4ae-07ee024213ed]: Textual amendment: Sch. 1 Pt. 2(19) revoked (25.3.2015) by [The Weights and Measures (Revocations) Regulations 2015 (S.I. 2015/356)](https://www.legislation.gov.uk/uksi/2015/356), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/a), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/356/schedule/part/1/paragraph/1) Table 1
 
-[^key-9beea71f135300a3b0a9011e0fdc609b]: Textual amendment: Sch. 1 Pt. 2(24)-(27) revoked (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(e)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/e); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-9beea71f135300a3b0a9011e0fdc609b]: Textual amendment: Sch. 1 Pt. 2(24)-(27) revoked (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(e)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/e); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-dc4450de5025e4fc79c51c17e1f3fe15]: Textual amendment: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2006/659/schedule/5/paragraph/9) substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2015/15/section/78/2), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5) (with [s. 78(4)](https://www.legislation.gov.uk/ukpga/2015/15/section/78/4)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e)
+[^c-dc4450de5025e4fc79c51c17e1f3fe15]: Textual amendment: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2006/659/schedule/5/paragraph/9) substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2015/15/section/78/2), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5) (with [s. 78(4)](https://www.legislation.gov.uk/ukpga/2015/15/section/78/4)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e)
 
-[^key-0fa9a61096b1b967e8b98864ee2ab182]: Textual amendment: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2006/659/schedule/5/paragraph/14) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 78(3)](https://www.legislation.gov.uk/ukpga/2015/15/section/78/3), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5) (with [s. 78(4)](https://www.legislation.gov.uk/ukpga/2015/15/section/78/4)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e)
+[^c-0fa9a61096b1b967e8b98864ee2ab182]: Textual amendment: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2006/659/schedule/5/paragraph/14) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 78(3)](https://www.legislation.gov.uk/ukpga/2015/15/section/78/3), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5) (with [s. 78(4)](https://www.legislation.gov.uk/ukpga/2015/15/section/78/4)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e)
 
-[^key-44e64b77ac63773c99f10bde2ea139a5]: Textual amendment: Sch. 6 omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [38](https://www.legislation.gov.uk/uksi/2014/2975/regulation/38)
+[^c-44e64b77ac63773c99f10bde2ea139a5]: Textual amendment: Sch. 6 omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [38](https://www.legislation.gov.uk/uksi/2014/2975/regulation/38)
 
-[^key-12c9182546dd22328b83a52c11edeb19]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2006/659/schedule/7) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/49) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-12c9182546dd22328b83a52c11edeb19]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2006/659/schedule/7) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/49) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))

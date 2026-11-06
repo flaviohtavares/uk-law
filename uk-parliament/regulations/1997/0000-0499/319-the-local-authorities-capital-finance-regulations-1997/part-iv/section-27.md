@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Cost of lease at any time[^key-b2e8d8e08b878d931bae10c929093332]
+## 27. Cost of lease at any time[^c-b2e8d8e08b878d931bae10c929093332]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Subject to regulation 46, where, by virtue of this Part, the initial cost of a l
 
 ## Annotations
 
-[^key-b2e8d8e08b878d931bae10c929093332]: Commencement: Reg. 27 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-b2e8d8e08b878d931bae10c929093332]: Commencement: Reg. 27 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

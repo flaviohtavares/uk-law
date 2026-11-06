@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Duration of site licence[^key-180379a8d2db191224e835e5cd7565a7]
+## 8. Duration of site licence[^c-180379a8d2db191224e835e5cd7565a7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-180379a8d2db191224e835e5cd7565a7]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/6/section/8) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-180379a8d2db191224e835e5cd7565a7]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/6/section/8) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

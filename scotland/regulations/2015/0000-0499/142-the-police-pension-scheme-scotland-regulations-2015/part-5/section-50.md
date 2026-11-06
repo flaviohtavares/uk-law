@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Opening balance, index adjustment, PIA index adjustment and age addition[^key-e28c38e29ed3b932a59e97809a4cd508]
+## 50. Opening balance, index adjustment, PIA index adjustment and age addition[^c-e28c38e29ed3b932a59e97809a4cd508]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e28c38e29ed3b932a59e97809a4cd508]: Commencement: Reg. 50 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-e28c38e29ed3b932a59e97809a4cd508]: Commencement: Reg. 50 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

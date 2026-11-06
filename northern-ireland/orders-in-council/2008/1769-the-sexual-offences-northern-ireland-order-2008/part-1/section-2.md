@@ -28,7 +28,7 @@ summary: ''
 
 (4) “**The 1995 Order**” means the Children (Northern Ireland) Order 1995 (NI 2).
 
-(4A)[^key-eb7a7a9db568ad95e28157acae01369b] “**The Department**” means the Department of Justice.
+(4A)[^c-eb7a7a9db568ad95e28157acae01369b] “**The Department**” means the Department of Justice.
 
 (5) Penetration is a continuing act from entry to withdrawal.
 
@@ -56,4 +56,4 @@ and in particular includes touching amounting to penetration.
 
 ## Annotations
 
-[^key-eb7a7a9db568ad95e28157acae01369b]: Textual amendment: [Art. 2(4A)](https://www.legislation.gov.uk/nisi/2008/1769/article/2/4A) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 5(2)](https://www.legislation.gov.uk/nia/2022/19/section/5/2), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-eb7a7a9db568ad95e28157acae01369b]: Textual amendment: [Art. 2(4A)](https://www.legislation.gov.uk/nisi/2008/1769/article/2/4A) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 5(2)](https://www.legislation.gov.uk/nia/2022/19/section/5/2), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)

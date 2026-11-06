@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Applications for approval[^key-a9eba37cbfcb462e7758db1eec726b8a]
+## 68. Applications for approval[^c-a9eba37cbfcb462e7758db1eec726b8a]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9eba37cbfcb462e7758db1eec726b8a]: Commencement: S. 68 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-a9eba37cbfcb462e7758db1eec726b8a]: Commencement: S. 68 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

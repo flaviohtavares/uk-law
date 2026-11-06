@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26E. Food crime officers[^key-246a2b77d29a97d383eadf1938997377]
+## 26E. Food crime officers[^c-246a2b77d29a97d383eadf1938997377]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-246a2b77d29a97d383eadf1938997377]: Textual amendment: [S. 26E](https://www.legislation.gov.uk/ukpga/2002/30/section/26E) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 54(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/4/b), [208(5)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/f) (with [s. 54(5)-(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/5))
+[^c-246a2b77d29a97d383eadf1938997377]: Textual amendment: [S. 26E](https://www.legislation.gov.uk/ukpga/2002/30/section/26E) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 54(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/4/b), [208(5)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/f) (with [s. 54(5)-(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/5))

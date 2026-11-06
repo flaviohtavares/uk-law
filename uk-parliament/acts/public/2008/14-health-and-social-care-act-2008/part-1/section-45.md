@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Standards set by Secretary of State[^key-d0c5595e6a817daed9f4a996e3317bb0]
+## 45. Standards set by Secretary of State[^c-d0c5595e6a817daed9f4a996e3317bb0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0c5595e6a817daed9f4a996e3317bb0]: Textual amendment: S. 45 and preceding crossheading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 17 para. 12(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/17/paragraph/12/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-d0c5595e6a817daed9f4a996e3317bb0]: Textual amendment: S. 45 and preceding crossheading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 17 para. 12(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/17/paragraph/12/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

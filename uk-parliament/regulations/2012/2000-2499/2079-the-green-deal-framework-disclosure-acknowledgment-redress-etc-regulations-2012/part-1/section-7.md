@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Definitions of qualifying assessment under section 3(9)[^key-99ebcba32fc2f1f29e67ac343c6b94c8]
+## 7. Definitions of qualifying assessment under section 3(9)[^c-99ebcba32fc2f1f29e67ac343c6b94c8]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ For the purposes of section 3(9) and these Regulations, an energy efficiency ass
 
 ## Annotations
 
-[^key-99ebcba32fc2f1f29e67ac343c6b94c8]: Commencement: Reg. 7 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-99ebcba32fc2f1f29e67ac343c6b94c8]: Commencement: Reg. 7 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

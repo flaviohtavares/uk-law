@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**10.**[^key-6e650d077f3f9fc1ea94c867edc5b455] In rule 15(1), omit the words from after “by a magistrates’ court” to the end of the paragraph.
+**10.**[^c-6e650d077f3f9fc1ea94c867edc5b455] In rule 15(1), omit the words from after “by a magistrates’ court” to the end of the paragraph.
 
 ## Annotations
 
-[^key-6e650d077f3f9fc1ea94c867edc5b455]: Commencement: Art. 10 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-6e650d077f3f9fc1ea94c867edc5b455]: Commencement: Art. 10 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

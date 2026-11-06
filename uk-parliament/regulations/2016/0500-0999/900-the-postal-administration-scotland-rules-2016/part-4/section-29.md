@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Meeting following nomination of alternative liquidator[^key-3dadce49a1ab5df7bcf7b6e08f635ed5]
+## 29. Meeting following nomination of alternative liquidator[^c-3dadce49a1ab5df7bcf7b6e08f635ed5]
 
 *Extent: S*
 
-(1) Where under Rules 16(1)(l)[^key-77b89b820b24f622c70981b3e0f750ed] or 34(1)(h), the postal administrator has proposed that the company enter creditors’ voluntary liquidation once the postal administration has ended, the postal administrator shall, in the circumstances detailed in paragraph (2), summon a meeting of creditors for the purpose of nominating a person other than the person named as proposed liquidator in the postal administrator’s proposals or revised proposals.
+(1) Where under Rules 16(1)(l)[^c-77b89b820b24f622c70981b3e0f750ed] or 34(1)(h), the postal administrator has proposed that the company enter creditors’ voluntary liquidation once the postal administration has ended, the postal administrator shall, in the circumstances detailed in paragraph (2), summon a meeting of creditors for the purpose of nominating a person other than the person named as proposed liquidator in the postal administrator’s proposals or revised proposals.
 
 (2) The postal administrator shall summon a meeting of creditors where such a meeting is requested by creditors of the company whose debts amount to at least 10 per cent of the total debts of the company.
 
@@ -37,6 +37,6 @@ but sub-paragraph (a) does not apply if the requesting creditor’s debt is alon
 
 ## Annotations
 
-[^key-3dadce49a1ab5df7bcf7b6e08f635ed5]: Commencement: Rule 29 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-3dadce49a1ab5df7bcf7b6e08f635ed5]: Commencement: Rule 29 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-77b89b820b24f622c70981b3e0f750ed]: Textual amendment: Words in [rule 29(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/29/1) substituted by virtue of (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-77b89b820b24f622c70981b3e0f750ed]: Textual amendment: Words in [rule 29(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/29/1) substituted by virtue of (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

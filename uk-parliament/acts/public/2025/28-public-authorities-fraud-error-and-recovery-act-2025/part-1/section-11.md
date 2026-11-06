@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Recovery notices[^key-e18e20fd555c955b89dfc5ab6a510383][^key-d672af9b700d733736019a9b4f005b95]
+## 11. Recovery notices[^c-e18e20fd555c955b89dfc5ab6a510383][^c-d672af9b700d733736019a9b4f005b95]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e18e20fd555c955b89dfc5ab6a510383]: Commencement: S. 11 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-e18e20fd555c955b89dfc5ab6a510383]: Commencement: S. 11 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-d672af9b700d733736019a9b4f005b95]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/28/section/11) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-d672af9b700d733736019a9b4f005b95]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/28/section/11) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Enforcement within Great Britain[^key-3697eae2cd6407e7b6187bd0aa879001]
+## 78. Enforcement within Great Britain[^c-3697eae2cd6407e7b6187bd0aa879001]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ has effect.
 
 ## Annotations
 
-[^key-3697eae2cd6407e7b6187bd0aa879001]: Textual amendment: Pt. 14 reg. 43 renumbered as Pt. 14 reg. 78 (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/315/regulation/8/a) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
+[^c-3697eae2cd6407e7b6187bd0aa879001]: Textual amendment: Pt. 14 reg. 43 renumbered as Pt. 14 reg. 78 (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/315/regulation/8/a) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
 
 [^c22150771]: Marginal citation: 1999/3242, to which there are amendments not relevant to these Regulations.

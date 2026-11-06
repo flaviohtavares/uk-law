@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Carry forward against subsequent trade profits[^key-28df865c69cbe28ebd4e2cbb17b692d8]
+## 83. Carry forward against subsequent trade profits[^c-28df865c69cbe28ebd4e2cbb17b692d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,10 +40,10 @@ summary: ''
 - (c) section 86 (trade transferred to a company),
 - (d) section 87 (ring fence trades),
 - (e) section 88 (carry forward of certain interest as loss), and
-- (f) section 17(3)[^key-cf60233b37dfb68bd628a1f298fe6525] of ITTOIA 2005 (effect of becoming or ceasing to be UK resident).
+- (f) section 17(3)[^c-cf60233b37dfb68bd628a1f298fe6525] of ITTOIA 2005 (effect of becoming or ceasing to be UK resident).
 
 ## Annotations
 
-[^key-28df865c69cbe28ebd4e2cbb17b692d8]: Modification: [S. 83](https://www.legislation.gov.uk/ukpga/2007/3/section/83) excluded (with effect in accordance with Sch. 18 para. 63 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 18 para. 20(6)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/20/6)
+[^c-28df865c69cbe28ebd4e2cbb17b692d8]: Modification: [S. 83](https://www.legislation.gov.uk/ukpga/2007/3/section/83) excluded (with effect in accordance with Sch. 18 para. 63 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 18 para. 20(6)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/20/6)
 
-[^key-cf60233b37dfb68bd628a1f298fe6525]: Textual amendment: Words in [s. 83(6)(f)](https://www.legislation.gov.uk/ukpga/2007/3/section/83/6/f) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 47](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/47), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-cf60233b37dfb68bd628a1f298fe6525]: Textual amendment: Words in [s. 83(6)(f)](https://www.legislation.gov.uk/ukpga/2007/3/section/83/6/f) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 47](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/47), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

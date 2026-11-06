@@ -50,10 +50,10 @@ Section 1144(2)
 - (a) to an address specified for the purpose by the intended recipient;
 - (b) to a company at its registered office;
 - (c) to a person in his capacity as a member of the company at his address as shown in the company's register of members;
-- (d) to a person in his capacity as a director of the company at his address as shown in the register[^key-3bcb2632a43f12d373ad2ae7fc841b8a];
+- (d) to a person in his capacity as a director of the company at his address as shown in the register[^c-3bcb2632a43f12d373ad2ae7fc841b8a];
 - (e) to an address to which any provision of the Companies Acts authorises the document or information to be sent or supplied.
 
-(1A)[^key-5d0529fb9bf2f73ea90ba55d602dd9dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-5d0529fb9bf2f73ea90ba55d602dd9dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where the company is unable to obtain an address falling within sub-paragraph (1), the document or information may be sent or supplied to the intended recipient's last address known to the company.
 
@@ -207,7 +207,7 @@ a debenture holder in relation to whom the following conditions are met is taken
 - (a) to each of the joint holders, or
 - (b) to the holder whose name appears first in the register of members or the relevant register of debenture holders.
 
-(3A)[^key-2d6a3bb9e757fc2ce6483c66db9e5d8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-2d6a3bb9e757fc2ce6483c66db9e5d8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This paragraph has effect subject to anything in the company's articles.
 
@@ -229,9 +229,9 @@ at the address in the United Kingdom supplied for the purpose by those so claimi
 (5) References in this paragraph to the bankruptcy of a person include—
 
 - (a) the sequestration of the estate of a person;
-- (b) a person's estate being the subject of a protected trust deed (within the meaning of the Bankruptcy (Scotland) Act 2016[^key-ab01851509daf2832c38e8678d3e32dc]).
+- (b) a person's estate being the subject of a protected trust deed (within the meaning of the Bankruptcy (Scotland) Act 2016[^c-ab01851509daf2832c38e8678d3e32dc]).
 
-In such a case the reference in sub-paragraph (2)(b) to the trustee of the bankrupt is to be read as the trustee or interim trustee (under that Act)[^key-c548af1ec0c505ec615d98f121a317b7] on the sequestrated estate or, as the case may be, the trustee under the protected deed.
+In such a case the reference in sub-paragraph (2)(b) to the trustee of the bankrupt is to be read as the trustee or interim trustee (under that Act)[^c-c548af1ec0c505ec615d98f121a317b7] on the sequestrated estate or, as the case may be, the trustee under the protected deed.
 
 ## Annotations
 
@@ -243,9 +243,9 @@ In such a case the reference in sub-paragraph (2)(b) to the trustee of the bankr
 
 [^c18924151]: Commencement: Sch. 5 para. 4 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/e) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1)) (with arts. 6, 8, Sch. 5)
 
-[^key-3bcb2632a43f12d373ad2ae7fc841b8a]: Textual amendment: Words in [Sch. 5 para. 4(1)(d)](https://www.legislation.gov.uk/ukpga/2006/46/schedule/5/paragraph/4/1/d) substituted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 31(a)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/31/a); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-3bcb2632a43f12d373ad2ae7fc841b8a]: Textual amendment: Words in [Sch. 5 para. 4(1)(d)](https://www.legislation.gov.uk/ukpga/2006/46/schedule/5/paragraph/4/1/d) substituted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 31(a)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/31/a); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-5d0529fb9bf2f73ea90ba55d602dd9dd]: Textual amendment: [Sch. 5 para. 4(1A)](https://www.legislation.gov.uk/ukpga/2006/46/schedule/5/paragraph/4/1A) omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 31(b)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/31/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-5d0529fb9bf2f73ea90ba55d602dd9dd]: Textual amendment: [Sch. 5 para. 4(1A)](https://www.legislation.gov.uk/ukpga/2006/46/schedule/5/paragraph/4/1A) omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 31(b)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/31/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
 [^c18924161]: Commencement: Sch. 5 para. 5 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/e) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1)) (with arts. 6, 8, Sch. 5)
 
@@ -271,10 +271,10 @@ In such a case the reference in sub-paragraph (2)(b) to the trustee of the bankr
 
 [^c18925341]: Commencement: Sch. 5 para. 16 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/e) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1)) (with arts. 6, 8, Sch. 5)
 
-[^key-2d6a3bb9e757fc2ce6483c66db9e5d8f]: Textual amendment: Sch. 5 para. 16(3A) omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/25); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
+[^c-2d6a3bb9e757fc2ce6483c66db9e5d8f]: Textual amendment: Sch. 5 para. 16(3A) omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/25); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
 
 [^c18925391]: Commencement: Sch. 5 para. 17 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/e) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1)) (with arts. 6, 8, Sch. 5)
 
-[^key-ab01851509daf2832c38e8678d3e32dc]: Textual amendment: Word in Sch. 5 para. 17(5)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 29(7)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29/7/a)
+[^c-ab01851509daf2832c38e8678d3e32dc]: Textual amendment: Word in Sch. 5 para. 17(5)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 29(7)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29/7/a)
 
-[^key-c548af1ec0c505ec615d98f121a317b7]: Textual amendment: Words in Sch. 5 para. 17(5) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 29(7)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29/7/b)
+[^c-c548af1ec0c505ec615d98f121a317b7]: Textual amendment: Words in Sch. 5 para. 17(5) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 29(7)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29/7/b)

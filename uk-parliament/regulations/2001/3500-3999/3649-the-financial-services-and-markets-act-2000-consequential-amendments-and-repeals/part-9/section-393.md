@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 393. Interpretation of the 1988 Regulations[^key-5fe7935bdf00a01e36e4ddf91a2ac392]
+## 393. Interpretation of the 1988 Regulations[^c-5fe7935bdf00a01e36e4ddf91a2ac392]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fe7935bdf00a01e36e4ddf91a2ac392]: Commencement: Art. 393 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-5fe7935bdf00a01e36e4ddf91a2ac392]: Commencement: Art. 393 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

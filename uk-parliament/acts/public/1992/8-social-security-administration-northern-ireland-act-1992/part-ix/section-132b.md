@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132B. Up-rating of transitional state pensions under Pensions Act (Northern Ireland) 2015[^key-25330df9e7fbfd62622f4a88e6d19a29]
+## 132B. Up-rating of transitional state pensions under Pensions Act (Northern Ireland) 2015[^c-25330df9e7fbfd62622f4a88e6d19a29]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Whenever the Secretary of State makes an order under section 151A of the Great B
 
 ## Annotations
 
-[^key-25330df9e7fbfd62622f4a88e6d19a29]: Textual amendment: [S. 132B](https://www.legislation.gov.uk/ukpga/1992/8/section/132B) inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 17](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/17)
+[^c-25330df9e7fbfd62622f4a88e6d19a29]: Textual amendment: [S. 132B](https://www.legislation.gov.uk/ukpga/1992/8/section/132B) inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 17](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/17)

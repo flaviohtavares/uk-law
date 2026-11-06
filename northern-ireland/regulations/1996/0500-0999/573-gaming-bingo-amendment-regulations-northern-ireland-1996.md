@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 76(2) of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985[^f00001] and of all other powers enabling it in that behalf, hereby makes the following regulations:
 
-## 1. Citation and commencement[^key-6c33a29046f1416cec676dbea1c6e5f1]
+## 1. Citation and commencement[^c-6c33a29046f1416cec676dbea1c6e5f1]
 
 These regulations may be cited as the Gaming (Bingo) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 27th January 1997.
 
-## 2. Amendment of the Gaming (Bingo) Regulations (Northern Ireland) 1987[^key-cecffda90d9932f2c80df13eeb9a0267]
+## 2. Amendment of the Gaming (Bingo) Regulations (Northern Ireland) 1987[^c-cecffda90d9932f2c80df13eeb9a0267]
 
 In regulation 2(1)(*b*) and (*c*) of the Gaming (Bingo) Regulations (Northern Ireland) 1987[^f00002] for “£6·60” there shall be substituted “£8 (exclusive of value added tax)”.
 
-## 3. Revocation[^key-2b69ab4f55c69d7b4461e8eeb1ef5aff]
+## 3. Revocation[^c-2b69ab4f55c69d7b4461e8eeb1ef5aff]
 
 The Gaming (Bingo) (Amendment) Regulations (Northern Ireland) 1995[^f00003] are hereby revoked.
 
@@ -68,12 +68,12 @@ These regulations amend the Gaming (Bingo) Regulations (Northern Ireland) 1987 b
 
 [^f00001]: Footnote: S.I. [1985/1204 (N.I. 11)](https://www.legislation.gov.uk/nisi/1985/1204)
 
-[^key-6c33a29046f1416cec676dbea1c6e5f1]: Commencement: Reg. 1 in operation at 27.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/573/regulation/1)
+[^c-6c33a29046f1416cec676dbea1c6e5f1]: Commencement: Reg. 1 in operation at 27.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/573/regulation/1)
 
-[^key-cecffda90d9932f2c80df13eeb9a0267]: Commencement: Reg. 2 in operation at 27.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/573/regulation/1)
+[^c-cecffda90d9932f2c80df13eeb9a0267]: Commencement: Reg. 2 in operation at 27.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/573/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1987 No. 8](https://www.legislation.gov.uk/nisr/1987/8) as amended by [S.R. 1995 No. 344](https://www.legislation.gov.uk/nisr/1995/344)
 
-[^key-2b69ab4f55c69d7b4461e8eeb1ef5aff]: Commencement: Reg. 3 in operation at 27.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/573/regulation/1)
+[^c-2b69ab4f55c69d7b4461e8eeb1ef5aff]: Commencement: Reg. 3 in operation at 27.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/573/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1995 No. 344](https://www.legislation.gov.uk/nisr/1995/344)

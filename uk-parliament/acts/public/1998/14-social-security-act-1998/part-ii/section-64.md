@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 64. Liability of directors etc. for company’s contributions[^key-3f8e9cfa5652d75a6f43f2bfac8b410e]
+## 64. Liability of directors etc. for company’s contributions[^c-3f8e9cfa5652d75a6f43f2bfac8b410e]
 
 After section 121B of the Administration Act there shall be inserted the following sections—
 
@@ -93,6 +93,6 @@ After section 121B of the Administration Act there shall be inserted the followi
 
 ## Annotations
 
-[^key-3f8e9cfa5652d75a6f43f2bfac8b410e]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/1998/14/section/64) in force at 6.4.1999 by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/526/article/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/1999/526/article/2/4/a)
+[^c-3f8e9cfa5652d75a6f43f2bfac8b410e]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/1998/14/section/64) in force at 6.4.1999 by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/526/article/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/1999/526/article/2/4/a)
 
 [^m00035]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).

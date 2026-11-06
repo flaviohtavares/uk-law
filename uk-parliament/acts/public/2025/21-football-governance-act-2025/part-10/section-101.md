@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Short title[^key-ea9f2a5da723e9ce66063514ba018234]
+## 101. Short title[^c-ea9f2a5da723e9ce66063514ba018234]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Football Governance Act 2025.
 
 ## Annotations
 
-[^key-ea9f2a5da723e9ce66063514ba018234]: Commencement: S. 101 in force at Royal Assent, see [s. 100(2)(f)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/f)
+[^c-ea9f2a5da723e9ce66063514ba018234]: Commencement: S. 101 in force at Royal Assent, see [s. 100(2)(f)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/f)

@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Capital Requirements (Amendment) Regulations 2012 (revoked)[^key-c3176441bb23f661a9dee912604e165b]
+The Capital Requirements (Amendment) Regulations 2012 (revoked)[^c-c3176441bb23f661a9dee912604e165b]
 
 Made
 
@@ -46,134 +46,134 @@ Coming into force
 
 16th April 2012
 
-[^key-c3176441bb23f661a9dee912604e165b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3176441bb23f661a9dee912604e165b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c3176441bb23f661a9dee912604e165b]
+## 1. Citation and commencement[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Capital Requirements Regulations 2006[^key-c3176441bb23f661a9dee912604e165b]
+## 2. Amendment of the Capital Requirements Regulations 2006[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-c3176441bb23f661a9dee912604e165b]
+## 3.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-c3176441bb23f661a9dee912604e165b]
+## 4.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-c3176441bb23f661a9dee912604e165b]
+## 5.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-c3176441bb23f661a9dee912604e165b]
+## 6.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-c3176441bb23f661a9dee912604e165b]
+## 7.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-c3176441bb23f661a9dee912604e165b]
+## 8.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-c3176441bb23f661a9dee912604e165b]
+## 9.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-c3176441bb23f661a9dee912604e165b]
+## 10.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-c3176441bb23f661a9dee912604e165b]
+## 11.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-c3176441bb23f661a9dee912604e165b]
+## 12.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-c3176441bb23f661a9dee912604e165b]
+## 13.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-c3176441bb23f661a9dee912604e165b]
+## 14.[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Consequential amendments to primary legislation[^key-c3176441bb23f661a9dee912604e165b]
+## 15. Consequential amendments to primary legislation[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Consequential amendments to secondary legislation[^key-c3176441bb23f661a9dee912604e165b]
+## 16. Consequential amendments to secondary legislation[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3176441bb23f661a9dee912604e165b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3176441bb23f661a9dee912604e165b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Consequential amendments to primary legislation[^key-c3176441bb23f661a9dee912604e165b]
+## SCHEDULE 1 — Consequential amendments to primary legislation[^c-c3176441bb23f661a9dee912604e165b]
 
 Regulation 15
 
-### 1. Building Societies Act 1986[^key-c3176441bb23f661a9dee912604e165b]
+### 1. Building Societies Act 1986[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Financial Services and Markets Act 2000[^key-c3176441bb23f661a9dee912604e165b]
+### 2. Financial Services and Markets Act 2000[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Banking (Special Provisions) Act 2008[^key-c3176441bb23f661a9dee912604e165b]
+### 3. Banking (Special Provisions) Act 2008[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Banking Act 2009[^key-c3176441bb23f661a9dee912604e165b]
+### 4. Banking Act 2009[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Consequential amendments to secondary legislation[^key-c3176441bb23f661a9dee912604e165b]
+## SCHEDULE 2 — Consequential amendments to secondary legislation[^c-c3176441bb23f661a9dee912604e165b]
 
 Regulation 16
 
-### 1. Cash Ratio Deposits (Eligible Liabilities) Order 1998[^key-c3176441bb23f661a9dee912604e165b]
+### 1. Cash Ratio Deposits (Eligible Liabilities) Order 1998[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-c3176441bb23f661a9dee912604e165b]
+### 2. Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Uncertificated Securities Regulations 2001[^key-c3176441bb23f661a9dee912604e165b]
+### 3. Uncertificated Securities Regulations 2001[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Financial Conglomerates and Other Financial Groups Regulations 2004[^key-c3176441bb23f661a9dee912604e165b]
+### 4. Financial Conglomerates and Other Financial Groups Regulations 2004[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Pension Protection Fund (Entry Rules) Regulations 2005[^key-c3176441bb23f661a9dee912604e165b]
+### 5. Pension Protection Fund (Entry Rules) Regulations 2005[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007[^key-c3176441bb23f661a9dee912604e165b]
+### 6. Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Covered Bonds Regulations 2008[^key-c3176441bb23f661a9dee912604e165b]
+### 7. Covered Bonds Regulations 2008[^c-c3176441bb23f661a9dee912604e165b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c3176441bb23f661a9dee912604e165b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3176441bb23f661a9dee912604e165b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3176441bb23f661a9dee912604e165b]: Textual amendment: Regulations revoked (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/3115/schedule/3)
+[^c-c3176441bb23f661a9dee912604e165b]: Textual amendment: Regulations revoked (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/3115/schedule/3)

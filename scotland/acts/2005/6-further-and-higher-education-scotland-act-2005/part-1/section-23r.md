@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23R. Establishment and abolition of regional boards: supplemental[^key-eea79115e3c08028a0eb257c38f97119]
+## 23R. Establishment and abolition of regional boards: supplemental[^c-eea79115e3c08028a0eb257c38f97119]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eea79115e3c08028a0eb257c38f97119]: Textual amendment: S. 23R inserted (10.10.2013 for specified purposes, 3.3.2014 in so far as not already in force) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 13](https://www.legislation.gov.uk/asp/2013/12/section/13), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-eea79115e3c08028a0eb257c38f97119]: Textual amendment: S. 23R inserted (10.10.2013 for specified purposes, 3.3.2014 in so far as not already in force) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 13](https://www.legislation.gov.uk/asp/2013/12/section/13), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)

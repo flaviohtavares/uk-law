@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-7968ab4212c442ff7420056cdc860b96]
+## 2. Interpretation[^c-7968ab4212c442ff7420056cdc860b96]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 - “**authorised person**” means an employee, agent, contractor or subcontractor of the London Borough of Bexley;
 - “**book of reference**” means the document of that description referred to in Schedule 13 (documents and plans to be certified) certified by the Secretary of State as the book of reference for the purposes of this Order;
 - “**Belvedere Power Station jetty**” means the existing jetty, conveyor bridge, intake shaft (but not the intake tunnel) and associated piles, dolphins and supports contained within plots 1-107, 1-110, 1-111 and 1-118 on the land plans, and the associated barge berth located within plot 1-113;
-- [^key-d56477d9873230c85e8e763c769c57b7]...
+- [^c-d56477d9873230c85e8e763c769c57b7]...
 - “**building**” includes any structure or erection or any part of a building, structure or erection;
 - “**business day**” means any day apart from Saturday, Sunday or any statutory English bank or public holiday;
 - “**carriageway**” has the same meaning as in the 1980 Act;
@@ -138,7 +138,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7968ab4212c442ff7420056cdc860b96]: Commencement: Art. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-7968ab4212c442ff7420056cdc860b96]: Commencement: Art. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00012]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -160,7 +160,7 @@ summary: ''
 
 [^f00021]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-d56477d9873230c85e8e763c769c57b7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2025/1227/article/2) omitted (8.6.2026) by virtue of [The Cory Decarbonisation Project (Correction) Order 2026 (S.I. 2026/606)](https://www.legislation.gov.uk/uksi/2026/606), [art. 1](https://www.legislation.gov.uk/uksi/2026/606/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/606/schedule)
+[^c-d56477d9873230c85e8e763c769c57b7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2025/1227/article/2) omitted (8.6.2026) by virtue of [The Cory Decarbonisation Project (Correction) Order 2026 (S.I. 2026/606)](https://www.legislation.gov.uk/uksi/2026/606), [art. 1](https://www.legislation.gov.uk/uksi/2026/606/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/606/schedule)
 
 [^f00022]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 

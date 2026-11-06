@@ -45,7 +45,7 @@ the authority—
 - (a) by virtue of a contract of employment or other contract with any person; or
 - (b) as a volunteer for a voluntary organisation.
 
-(4)[^key-60ffe77e687b1536237aee3a058b3141] An assessment under this Article is to be carried out in such manner, and is to take such form, as the authority considers appropriate; but this is subject to any directions given to the authority under paragraph 6 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991.
+(4)[^c-60ffe77e687b1536237aee3a058b3141] An assessment under this Article is to be carried out in such manner, and is to take such form, as the authority considers appropriate; but this is subject to any directions given to the authority under paragraph 6 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991.
 
 (5) For the purposes of an assessment under this Article, the authority may take into account, so far as it considers it to be material, any other assessment made under this Article.
 
@@ -57,4 +57,4 @@ the authority—
 
 [^c21418571]: Textual amendment: [2002 c. 6 (NI)](https://www.legislation.gov.uk/nia/2002/6)
 
-[^key-60ffe77e687b1536237aee3a058b3141]: Textual amendment: [Art. 18A(4)](https://www.legislation.gov.uk/nisi/1995/755/article/18A/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 158](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/158); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-60ffe77e687b1536237aee3a058b3141]: Textual amendment: [Art. 18A(4)](https://www.legislation.gov.uk/nisi/1995/755/article/18A/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 158](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/158); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

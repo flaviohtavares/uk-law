@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137A. Introductory tenancies that are to become flexible tenancies[^key-5b0d751e28154dafc1262298d44dbae0]
+## 137A. Introductory tenancies that are to become flexible tenancies[^c-5b0d751e28154dafc1262298d44dbae0]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b0d751e28154dafc1262298d44dbae0]: Textual amendment: [S. 137A](https://www.legislation.gov.uk/ukpga/1996/52/section/137A) and cross-heading inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 155(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/155/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-5b0d751e28154dafc1262298d44dbae0]: Textual amendment: [S. 137A](https://www.legislation.gov.uk/ukpga/1996/52/section/137A) and cross-heading inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 155(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/155/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

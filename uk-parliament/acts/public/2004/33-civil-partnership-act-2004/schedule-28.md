@@ -365,31 +365,31 @@ Section 261(2)
   , and
 - (b) in the definition of “family”, at the end insert “ and in relation to a civil partnership means the members of the civil partnership together with any child accepted by them both as a child of the family. ”
 
-### Part 3 — Amendments of the Bankruptcy (Scotland) Act 1985 (c. 66)[^key-59218e01e94433ae88e3797dbf710e68]
+### Part 3 — Amendments of the Bankruptcy (Scotland) Act 1985 (c. 66)[^c-59218e01e94433ae88e3797dbf710e68]
 
 **No longer in force.**
 
-**31.**[^key-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-59218e01e94433ae88e3797dbf710e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 4 — Miscellaneous amendments
 
@@ -559,7 +559,7 @@ Section 261(2)
 
 (3) [^c20621121]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**61.**[^key-99f6228e2258ac83414c382796d78811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-99f6228e2258ac83414c382796d78811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Sexual Offences (Amendment) Act 2000 (c. 44)
 
@@ -632,7 +632,7 @@ Section 261(2)
 
 ## Annotations
 
-[^key-59218e01e94433ae88e3797dbf710e68]: Textual amendment: [Sch. 28 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/part/3) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-59218e01e94433ae88e3797dbf710e68]: Textual amendment: [Sch. 28 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/part/3) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
 [^c20621161]: Textual amendment: Sch. 28 para. 42 repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 45(2)](https://www.legislation.gov.uk/asp/2006/2/section/45/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
@@ -640,4 +640,4 @@ Section 261(2)
 
 [^c20621121]: Textual amendment: Sch. 28 para. 60(3) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 45(2)](https://www.legislation.gov.uk/asp/2006/2/section/45/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
-[^key-99f6228e2258ac83414c382796d78811]: Textual amendment: Sch. 28 para. 61 repealed (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
+[^c-99f6228e2258ac83414c382796d78811]: Textual amendment: Sch. 28 para. 61 repealed (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)

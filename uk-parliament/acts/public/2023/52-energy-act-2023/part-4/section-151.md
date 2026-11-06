@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Scheme regulations: procedure etc[^key-1c434e5220e5ce63bf035d536e178d48]
+## 151. Scheme regulations: procedure etc[^c-1c434e5220e5ce63bf035d536e178d48]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ and must consider any representations duly made and not withdrawn.
 
 ## Annotations
 
-[^key-1c434e5220e5ce63bf035d536e178d48]: Commencement: S. 151 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)
+[^c-1c434e5220e5ce63bf035d536e178d48]: Commencement: S. 151 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)

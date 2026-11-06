@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Provision for small payments on death[^key-22b8b8d4898aa82990bd950e1f99bc75]
+## 19. Provision for small payments on death[^c-22b8b8d4898aa82990bd950e1f99bc75]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ If any member of a credit union dies and at his death his property in the credit
 
 ## Annotations
 
-[^key-22b8b8d4898aa82990bd950e1f99bc75]: Modification: [Art. 19](https://www.legislation.gov.uk/nisi/1985/1205/article/19) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(d)](https://www.legislation.gov.uk/nisr/2020/280/article/2/d)
+[^c-22b8b8d4898aa82990bd950e1f99bc75]: Modification: [Art. 19](https://www.legislation.gov.uk/nisi/1985/1205/article/19) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(d)](https://www.legislation.gov.uk/nisr/2020/280/article/2/d)
 
 [^m00006]: Marginal citation: 1967 c. 5 (N.I.)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Application for planning permission: design and access statement and pre-application consultation report[^key-cd257248382567d77a1102f11ed4a091]
+## 57. Application for planning permission: design and access statement and pre-application consultation report[^c-cd257248382567d77a1102f11ed4a091]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ to include with the application a pre-application consultation report.
 
 ## Annotations
 
-[^key-cd257248382567d77a1102f11ed4a091]: Commencement: S. 57 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-cd257248382567d77a1102f11ed4a091]: Commencement: S. 57 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

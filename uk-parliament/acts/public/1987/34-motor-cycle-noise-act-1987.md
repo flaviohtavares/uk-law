@@ -46,7 +46,7 @@ unless the system, silencer or component complies with such requirements as may 
 
 (2) The regulations made by the Secretary of State for the purposes of this section shall be such as he considers necessary for preventing the supply of exhaust systems, silencers and components which are likely to result in motor cycles to which they are fitted emitting excessive noise; and those regulations may—
 
-- (a) prescribe requirements by reference to any British Standard Specification, any regulations made or having effect as if made under section 41 of the Road Traffic Act 1988[^c939553], any EU[^key-14077bd612c8432cfb061d81fa734adc] instrument or any other instrument issued by an international authority; and
+- (a) prescribe requirements by reference to any British Standard Specification, any regulations made or having effect as if made under section 41 of the Road Traffic Act 1988[^c939553], any EU[^c-14077bd612c8432cfb061d81fa734adc] instrument or any other instrument issued by an international authority; and
 - (b) make different provision for different cases.
 
 (3) Exemptions from this section or any requirements imposed under it may be conferred by regulations made by the Secretary of State or, in the case of an exemption applying to a particular person, by a notice in writing given by him to that person.
@@ -95,7 +95,7 @@ Section 1(7).
 
 [^c939553]: Textual amendment: Words substituted by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [s. 4](https://www.legislation.gov.uk/ukpga/1988/54/section/4), [Sch. 3 para. 33](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/33)
 
-[^key-14077bd612c8432cfb061d81fa734adc]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4))
+[^c-14077bd612c8432cfb061d81fa734adc]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4))
 
 [^c939554]: Subordinate legislation: S. 2(3) power fully exercised (30.8.1995): 1.8.1996 appointed for whole Act by [S.I. 1995/2367](https://www.legislation.gov.uk/uksi/1995/2367), [art. 2](https://www.legislation.gov.uk/uksi/1995/2367/article/2)
 

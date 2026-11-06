@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72B. Directions by Authority for facilitating winding-up.[^key-e3925068484d3e02b07c8f32e2951130]
+## 72B. Directions by Authority for facilitating winding-up.[^c-e3925068484d3e02b07c8f32e2951130]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,12 +58,12 @@ summary: ''
 - (c) to provide a person who is of a prescribed description with all such information as may be so specified or described;
 - (d) to take such steps (other than the provision of information) as may be so specified or described.
 
-(7)[^key-3b4476193e09ccea8bba4f4993dd5779] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3b4476193e09ccea8bba4f4993dd5779] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Regulations may—
 
 - (a) impose limitations on the steps that a person may be required to take by a direction under this section;
-- (b)[^key-4d0d41d47a5b879460ea674707888374] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4d0d41d47a5b879460ea674707888374] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In this section references, in relation to a scheme, to a person involved in the administration of the scheme are (subject to subsection (10)) references to any person who is so involved otherwise than as—
 
@@ -81,8 +81,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e3925068484d3e02b07c8f32e2951130]: Textual amendment: [Ss. 72B](https://www.legislation.gov.uk/ukpga/1995/26/section/72B), [72C](https://www.legislation.gov.uk/ukpga/1995/26/section/72C) inserted (1.3.2002 for specified purposes, 1.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 50](https://www.legislation.gov.uk/ukpga/2000/19/section/50), [86(1)(b)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2002/437](https://www.legislation.gov.uk/uksi/2002/437), [art. 3(1)(f)](https://www.legislation.gov.uk/uksi/2002/437/article/3/1/f)[(2)](https://www.legislation.gov.uk/uksi/2002/437/article/3/2)
+[^c-e3925068484d3e02b07c8f32e2951130]: Textual amendment: [Ss. 72B](https://www.legislation.gov.uk/ukpga/1995/26/section/72B), [72C](https://www.legislation.gov.uk/ukpga/1995/26/section/72C) inserted (1.3.2002 for specified purposes, 1.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 50](https://www.legislation.gov.uk/ukpga/2000/19/section/50), [86(1)(b)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2002/437](https://www.legislation.gov.uk/uksi/2002/437), [art. 3(1)(f)](https://www.legislation.gov.uk/uksi/2002/437/article/3/1/f)[(2)](https://www.legislation.gov.uk/uksi/2002/437/article/3/2)
 
-[^key-3b4476193e09ccea8bba4f4993dd5779]: Textual amendment: [S. 72B(7)](https://www.legislation.gov.uk/ukpga/1995/26/section/72B/7) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-3b4476193e09ccea8bba4f4993dd5779]: Textual amendment: [S. 72B(7)](https://www.legislation.gov.uk/ukpga/1995/26/section/72B/7) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
-[^key-4d0d41d47a5b879460ea674707888374]: Textual amendment: [S. 72B(8)(b)](https://www.legislation.gov.uk/ukpga/1995/26/section/72B/8/b) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-4d0d41d47a5b879460ea674707888374]: Textual amendment: [S. 72B(8)(b)](https://www.legislation.gov.uk/ukpga/1995/26/section/72B/8/b) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)

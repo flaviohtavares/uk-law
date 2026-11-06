@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Interpretation[^key-306221d5ad2d4d381b3589efa9be29be]
+## 23. Interpretation[^c-306221d5ad2d4d381b3589efa9be29be]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-306221d5ad2d4d381b3589efa9be29be]: Commencement: Art. 23 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-306221d5ad2d4d381b3589efa9be29be]: Commencement: Art. 23 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Requirement as to giving of notice of marriage or civil partnership[^key-d9c675c690f196006080765892efe3a9]
+## 58. Requirement as to giving of notice of marriage or civil partnership[^c-d9c675c690f196006080765892efe3a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,4 +105,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9c675c690f196006080765892efe3a9]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2014/22/section/58) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/371/article/6))
+[^c-d9c675c690f196006080765892efe3a9]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2014/22/section/58) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/371/article/6))

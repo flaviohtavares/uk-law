@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Power to specify other areas as controlled areas[^key-d77a38b86ef0ed84f9c52e5fe9a7f1f7][^key-11da8cc1563df6f4423decfe27423817]
+## 77. Power to specify other areas as controlled areas[^c-d77a38b86ef0ed84f9c52e5fe9a7f1f7][^c-11da8cc1563df6f4423decfe27423817]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ After section 149 of the Police Reform and Social Responsibility Act 2011 insert
 
 ## Annotations
 
-[^key-d77a38b86ef0ed84f9c52e5fe9a7f1f7]: Commencement: S. 77 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-d77a38b86ef0ed84f9c52e5fe9a7f1f7]: Commencement: S. 77 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-11da8cc1563df6f4423decfe27423817]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/32/section/77) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-11da8cc1563df6f4423decfe27423817]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/32/section/77) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

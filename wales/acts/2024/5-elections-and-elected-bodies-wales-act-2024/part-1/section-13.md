@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Electoral Commission recommendations[^key-f22b7e0b8ef306b617e22a260b44c99f]
+## 13. Electoral Commission recommendations[^c-f22b7e0b8ef306b617e22a260b44c99f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Electoral Commission may recommend proposals for pilot regulations to a pers
 
 ## Annotations
 
-[^key-f22b7e0b8ef306b617e22a260b44c99f]: Commencement: S. 13 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-f22b7e0b8ef306b617e22a260b44c99f]: Commencement: S. 13 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

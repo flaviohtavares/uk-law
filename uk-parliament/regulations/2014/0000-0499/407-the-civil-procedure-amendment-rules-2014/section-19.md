@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**19.**[^key-a96962714ba7149bb82aef8d90391ae6] In rule 45.30, in paragraph (2), in subparagraph (b), after “or registered design” insert “or registered trade mark”.
+**19.**[^c-a96962714ba7149bb82aef8d90391ae6] In rule 45.30, in paragraph (2), in subparagraph (b), after “or registered design” insert “or registered trade mark”.
 
 ## Annotations
 
-[^key-a96962714ba7149bb82aef8d90391ae6]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2014/407/rule/19) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
+[^c-a96962714ba7149bb82aef8d90391ae6]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2014/407/rule/19) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)

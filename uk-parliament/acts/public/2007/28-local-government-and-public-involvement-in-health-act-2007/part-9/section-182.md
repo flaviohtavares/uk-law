@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Minor and consequential amendments[^key-0a10710cfda4786c4e2683de149bffb1]
+## 182. Minor and consequential amendments[^c-0a10710cfda4786c4e2683de149bffb1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 (minor and consequential amendments) has effect.
 
 ## Annotations
 
-[^key-0a10710cfda4786c4e2683de149bffb1]: Commencement: S. 182 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-0a10710cfda4786c4e2683de149bffb1]: Commencement: S. 182 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))

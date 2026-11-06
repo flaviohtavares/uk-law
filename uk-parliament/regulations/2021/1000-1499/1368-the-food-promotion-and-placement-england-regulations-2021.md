@@ -50,18 +50,18 @@ The Secretary of State is satisfied in accordance with section 66 of the 2008 Ac
 
 A draft of these Regulations was laid before Parliament in accordance with section 62(3) of the 2008 Act, and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement, extent and application[^key-46c0e8cf70b51394df781fe5550a773c]
+## 1. Citation, commencement, extent and application[^c-46c0e8cf70b51394df781fe5550a773c]
 
-(1) These Regulations may be cited as the Food (Promotion and Placement) (England) Regulations 2021 and , except for regulations 5 and 6,[^key-e684e1ac1b983ab64fe8e4d550931dec] come into force on 1st<sup></sup> October 2022.
+(1) These Regulations may be cited as the Food (Promotion and Placement) (England) Regulations 2021 and , except for regulations 5 and 6,[^c-e684e1ac1b983ab64fe8e4d550931dec] come into force on 1st<sup></sup> October 2022.
 
-(1A)[^key-a454bd8e0db61b9aa57bb15b20ba894d] Regulations 5 and 6 come into force on 1st October 2025[^key-bcd2865bfd297585e56eb03c6fea4a6e].
+(1A)[^c-a454bd8e0db61b9aa57bb15b20ba894d] Regulations 5 and 6 come into force on 1st October 2025[^c-bcd2865bfd297585e56eb03c6fea4a6e].
 
 (2) These Regulations—
 
 - (a) extend to England and Wales, and
 - (b) apply in relation to England, but not in relation to the territorial waters adjacent to England.
 
-## 2. Interpretation[^key-403953415b51af746ff0917788c448f9]
+## 2. Interpretation[^c-403953415b51af746ff0917788c448f9]
 
 (1) In these Regulations—
 
@@ -80,7 +80,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 - (a) to obtain payment from the purchaser, or
 - (b) to otherwise operate the online marketplace.
 
-## 3. Specified food[^key-908bb630e8cd62ce0493f368db7c66ff]
+## 3. Specified food[^c-908bb630e8cd62ce0493f368db7c66ff]
 
 (1) For the purposes of these Regulations, “specified food” is food contained in a prepacked food item which—
 
@@ -108,7 +108,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 - (b) “**charitable activity**” means an activity carried out for a charitable purpose, other than primarily for the purpose of raising funds;
 - (c) “**charitable purpose**” has the meaning given by section 2(1) of the Charities Act 2011.
 
-## 4. Qualifying businesses[^key-f4063082810ba6680ea7da06bd4dc700]
+## 4. Qualifying businesses[^c-f4063082810ba6680ea7da06bd4dc700]
 
 (1) For the purposes of regulations 5 (price promotion restriction), 7 (placement restriction) and 8 (online promotion restriction) a business is a “qualifying business” if—
 
@@ -149,7 +149,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 - (f) “**financial year**” means the 12-month period ending on 31st March;
 - (g) “**restaurant**” means a business whose premises are used mainly for the preparation or sale of food intended for immediate consumption, whether on or off the premises (including a café, coffee shop, fast food or takeaway business).
 
-## 5. Restriction on the price promotion of specified food[^key-048f475037168dd26a781ddbcc350582]
+## 5. Restriction on the price promotion of specified food[^c-048f475037168dd26a781ddbcc350582]
 
 (1) Subject to paragraph (5), a qualifying person must not offer specified food for sale as part of a volume price promotion (whether in store or on an online marketplace).
 
@@ -162,9 +162,9 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 (4) This regulation applies to promotions that are included on the packaging of food as well as to promotions that are communicated to a consumer via other means.
 
-(5) Where the packaging of specified food includes a volume price promotion, a qualifying person may offer the specified food for sale until the end of the period of 12 months beginning on the day this regulation comes[^key-4782f9cca81b48498fb16b1d5e925d7e] into force.
+(5) Where the packaging of specified food includes a volume price promotion, a qualifying person may offer the specified food for sale until the end of the period of 12 months beginning on the day this regulation comes[^c-4782f9cca81b48498fb16b1d5e925d7e] into force.
 
-## 6. Restriction on the price promotion of certain drinks[^key-46c409466e70df906c8d60e563efba00]
+## 6. Restriction on the price promotion of certain drinks[^c-46c409466e70df906c8d60e563efba00]
 
 (1) This regulation applies to a drink which is not a prepacked food item and which—
 
@@ -176,7 +176,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 (3) In paragraph (2), “**free refill promotion**” means a promotion that offers the consumer the same drink or another drink to which this regulation applies (including free top-ups of any part of such a drink), for free after consumption of a first drink.
 
-## 7. Restriction on the placement of specified food – in store[^key-4e36b257eb2cf4139feddc23f0861ddb]
+## 7. Restriction on the placement of specified food – in store[^c-4e36b257eb2cf4139feddc23f0861ddb]
 
 (1) Subject to paragraph (3), a qualifying person must not place specified food inside a store—
 
@@ -209,7 +209,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
   - (iii) is a room used for consultation with customers in connection with any medical services (such as pharmacy or opticians’ services) offered in the store, or
   - (iv) is occupied by a business other than the business primarily responsible for managing and operating the store (“a concession”), but only where the concession operates its own payment facilities.
 
-## 8. Restriction on the promotion of specified food – online[^key-8b04175b8157dea4b0ae29bd55b107fe]
+## 8. Restriction on the promotion of specified food – online[^c-8b04175b8157dea4b0ae29bd55b107fe]
 
 (1) Subject to paragraphs (2) and (3), a qualifying person must not cause specified food to be offered for sale on an online marketplace—
 
@@ -246,11 +246,11 @@ A draft of these Regulations was laid before Parliament in accordance with secti
   - (i) an online marketplace’s highest level public page;
   - (ii) the highest level public page of an online marketplace’s grocery section.
 
-## 9. Enforcement[^key-7e27827b6f0c0e221f5176dd14396784]
+## 9. Enforcement[^c-7e27827b6f0c0e221f5176dd14396784]
 
 Each food authority must enforce and execute these Regulations within its area.
 
-## 10. Improvement notice[^key-b1b74ede719a7a2c727a2a07212ffd3b]
+## 10. Improvement notice[^c-b1b74ede719a7a2c727a2a07212ffd3b]
 
 If a food authority has reasonable grounds for believing that a person is failing to comply with one or more of regulation 5, 6, 7 or 8, it may, by a notice served on that person (in these Regulations referred to as an “**improvement notice**”)—
 
@@ -259,17 +259,17 @@ If a food authority has reasonable grounds for believing that a person is failin
 - (c) specify the measures which, in the authority’s opinion, the person must take in order to secure compliance; and
 - (d) require the person to take those measures, or measures that are at least equivalent to them, within such period as may be specified in the notice.
 
-## 11. Offences[^key-02dbee5a363c208c062dc45cdb5d6fd6]
+## 11. Offences[^c-02dbee5a363c208c062dc45cdb5d6fd6]
 
 A person commits an offence if they fail to comply with an improvement notice served under regulation 10.
 
-## 12. Sanctions[^key-f7a669826acd1e765d591d8de87ace74]
+## 12. Sanctions[^c-f7a669826acd1e765d591d8de87ace74]
 
 (1) A person guilty of an offence under regulation 11 is liable on summary conviction to a fine.
 
 (2) Schedule 2 makes provision for fixed monetary penalties.
 
-## 13. Guidance as to use of fixed monetary penalties[^key-a8f9a88aa09c25db965c8772235daec6]
+## 13. Guidance as to use of fixed monetary penalties[^c-a8f9a88aa09c25db965c8772235daec6]
 
 (1) Each food authority must publish guidance about its use of the power to impose fixed monetary penalties under these Regulations.
 
@@ -287,7 +287,7 @@ A person commits an offence if they fail to comply with an improvement notice se
 
 (5) The food authority must have regard to the guidance or revised guidance in exercising its functions under these Regulations.
 
-## 14. Publication of enforcement action[^key-4f8dace4b686bc773eaaa484e60e5c08]
+## 14. Publication of enforcement action[^c-4f8dace4b686bc773eaaa484e60e5c08]
 
 (1) Each food authority must from time to time publish a report about the enforcement action it has taken under these Regulations.
 
@@ -301,7 +301,7 @@ A person commits an offence if they fail to comply with an improvement notice se
 
 (3) Nothing in this regulation authorises the processing of personal data where doing so would contravene data protection legislation, and for these purposes “**personal data**” and “**data protection legislation**” have the same meanings as in section 3 of the Data Protection Act 2018[^f00010].
 
-## 15. Review[^key-9a8542170f8da5eefbdf430395d409eb]
+## 15. Review[^c-9a8542170f8da5eefbdf430395d409eb]
 
 (1) In addition to the review carried out under section 67 (review) of the Regulatory Sanctions and Enforcement Act 2008, the Secretary of State must from time to time carry out a review of the regulatory provisions of these Regulations and publish a report setting out the conclusions of the review.
 
@@ -318,7 +318,7 @@ A person commits an offence if they fail to comply with an improvement notice se
 
 (5) In this regulation “**regulatory provision**” has the same meaning as in 32(4) of the 2015 Act.
 
-## 16. Application of various sections of the Food Safety Act 1990[^key-7f61280ada87ea879f0abf935d3f9415]
+## 16. Application of various sections of the Food Safety Act 1990[^c-7f61280ada87ea879f0abf935d3f9415]
 
 (1) The provisions of the Food Safety Act 1990 set out in paragraph (2) apply for the purposes of these Regulations—
 
@@ -351,13 +351,13 @@ Parliamentary Under-Secretary of State,
 
 Department of Health and Social Care
 
-## SCHEDULE 1 — Categories of specified food[^key-88305542bd385a1f7eb9a4030ee04965]
+## SCHEDULE 1 — Categories of specified food[^c-88305542bd385a1f7eb9a4030ee04965]
 
 Regulation 3
 
-[^key-88305542bd385a1f7eb9a4030ee04965]**Category 1:** Prepared soft drinks containing added sugar ingredients (other than the exempt soft drinks listed in paragraph 4(1)).
+[^c-88305542bd385a1f7eb9a4030ee04965]**Category 1:** Prepared soft drinks containing added sugar ingredients (other than the exempt soft drinks listed in paragraph 4(1)).
 
-[^key-88305542bd385a1f7eb9a4030ee04965]The following provisions apply for the purposes of this category.
+[^c-88305542bd385a1f7eb9a4030ee04965]The following provisions apply for the purposes of this category.
 
 *Extent: E+W+S+N.I.*
 
@@ -478,7 +478,7 @@ including fish fingers, fish cakes, chicken nuggets and breaded meat substitute.
 
 Regulation 12
 
-### 1. Civil sanctions[^key-482aebd3f4e63b0f06db86aa7f833074]
+### 1. Civil sanctions[^c-482aebd3f4e63b0f06db86aa7f833074]
 
 (1) A food authority may by notice impose a fixed monetary penalty on a person in relation to an offence under regulation 11.
 
@@ -486,7 +486,7 @@ Regulation 12
 
 (3) For the purposes of this paragraph, “**fixed monetary penalty**” means a fine of £2,500.
 
-### 2. Notice of intent[^key-afbc8a5ef2d225eef04121d57af25c6b]
+### 2. Notice of intent[^c-afbc8a5ef2d225eef04121d57af25c6b]
 
 (1) When a food authority proposes to impose a fixed monetary penalty on a person, it must serve on that person a notice of what is proposed (“a notice of intent”).
 
@@ -499,15 +499,15 @@ Regulation 12
   - (i) the right to make representations and objections within 28 days beginning with the day on which the notice of intent was received;
   - (ii) the circumstances in which the food authority may not impose the requirement (including any defences relating to the offence in relation to which the notice is served).
 
-### 3. Discharge of liability[^key-17be98fa0747104994e04f6c20481a4a]
+### 3. Discharge of liability[^c-17be98fa0747104994e04f6c20481a4a]
 
 The penalty is discharged if a person who receives a notice of intent pays 50% of the amount of the penalty within 28 days beginning with the day on which the notice was received.
 
-### 4. Making representations and objections[^key-abdbed21fc6d71a251055c0067ae043d]
+### 4. Making representations and objections[^c-abdbed21fc6d71a251055c0067ae043d]
 
 A person on whom a notice of intent is served may within 28 days beginning with the day on which the notice was received make written representations and objections to the food authority in relation to the proposed imposition of the fixed monetary penalty.
 
-### 5. Service of final notice[^key-f149d77b42b2dbe58ee49a5d28ff8e61]
+### 5. Service of final notice[^c-f149d77b42b2dbe58ee49a5d28ff8e61]
 
 (1) If the person who has received notice of intent does not discharge liability within 28 days, the food authority may serve a final notice imposing a fixed monetary penalty.
 
@@ -515,7 +515,7 @@ A person on whom a notice of intent is served may within 28 days beginning with 
 
 (3) Where a food authority serves a final notice relating to a fixed monetary penalty, it may not serve any other notice under these Regulations in relation to the offence.
 
-### 6. Contents of final notice[^key-b5e5a119c522d554297c425726b684ec]
+### 6. Contents of final notice[^c-b5e5a119c522d554297c425726b684ec]
 
 A final notice must include information as to—
 
@@ -527,11 +527,11 @@ A final notice must include information as to—
 - (f) rights of appeal;
 - (g) the consequences of non-payment.
 
-### 7. Discount for early payment[^key-13d62991ae3fe443278f52f3bbb5e378]
+### 7. Discount for early payment[^c-13d62991ae3fe443278f52f3bbb5e378]
 
 If a person who was served with a notice of intent made representations or objections concerning that notice within the time limit, that person may discharge the final notice by paying 50% of the penalty within 14 days beginning with the day on which the final notice was received.
 
-### 8. Grounds of appeal[^key-d2ffe243e7aaf4b24474f06939fa179f]
+### 8. Grounds of appeal[^c-d2ffe243e7aaf4b24474f06939fa179f]
 
 (1) The person receiving the final notice may appeal against it.
 
@@ -542,7 +542,7 @@ If a person who was served with a notice of intent made representations or objec
 - (c) that the decision was unreasonable;
 - (d) that the decision was wrong for any other reason.
 
-### 9. Appeals[^key-364aff420b4df5a428d697f94b57649a]
+### 9. Appeals[^c-364aff420b4df5a428d697f94b57649a]
 
 (1) An appeal under paragraph 9 is to the First-tier Tribunal.
 
@@ -554,7 +554,7 @@ If a person who was served with a notice of intent made representations or objec
 - (b) take such steps as the food authority could have taken in relation to the act or omission giving rise to a final notice; or
 - (c) remit the decision whether to confirm a final notice, or any other matter relating to that decision, to the food authority.
 
-### 10. Non-payment after 28 days[^key-d935f25770a64522983e9ecffb470cef]
+### 10. Non-payment after 28 days[^c-d935f25770a64522983e9ecffb470cef]
 
 (1) The penalty must be paid within 28 days of receipt of the final notice.
 
@@ -562,11 +562,11 @@ If a person who was served with a notice of intent made representations or objec
 
 (3) In the case of an appeal the penalty (whether varied or confirmed by the First-Tier Tribunal) is payable within 14 days of the determination of the appeal, and if it is not paid within 14 days the amount of the penalty is increased by 50%.
 
-### 11. Recovery of payments[^key-a943f84275ada2bf7d82b1b7a0bb7bdb]
+### 11. Recovery of payments[^c-a943f84275ada2bf7d82b1b7a0bb7bdb]
 
 A food authority may recover any penalty imposed under this Schedule as if payable under a court order.
 
-### 12. Criminal proceedings[^key-2fbb994c44f7d24d1a62909327662af4]
+### 12. Criminal proceedings[^c-2fbb994c44f7d24d1a62909327662af4]
 
 (1) If a notice of intent for a fixed monetary penalty is served on any person—
 
@@ -615,15 +615,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: “Food authorities” in England are defined in section 5(1) of the Food Safety Act 1990, to which there amendments which are not relevant.
 
-[^key-46c0e8cf70b51394df781fe5550a773c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-46c0e8cf70b51394df781fe5550a773c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-e684e1ac1b983ab64fe8e4d550931dec]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1) inserted (30.9.2022) by [The Food (Promotion and Placement) (England) (Amendment) Regulations 2022 (S.I. 2022/1007)](https://www.legislation.gov.uk/uksi/2022/1007), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/1/b), [2(a)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/2/a)
+[^c-e684e1ac1b983ab64fe8e4d550931dec]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1) inserted (30.9.2022) by [The Food (Promotion and Placement) (England) (Amendment) Regulations 2022 (S.I. 2022/1007)](https://www.legislation.gov.uk/uksi/2022/1007), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/1/b), [2(a)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/2/a)
 
-[^key-a454bd8e0db61b9aa57bb15b20ba894d]: Textual amendment: [Reg. 1(1A)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1A) inserted (30.9.2022) by [The Food (Promotion and Placement) (England) (Amendment) Regulations 2022 (S.I. 2022/1007)](https://www.legislation.gov.uk/uksi/2022/1007), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/2/b)
+[^c-a454bd8e0db61b9aa57bb15b20ba894d]: Textual amendment: [Reg. 1(1A)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1A) inserted (30.9.2022) by [The Food (Promotion and Placement) (England) (Amendment) Regulations 2022 (S.I. 2022/1007)](https://www.legislation.gov.uk/uksi/2022/1007), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/2/b)
 
-[^key-bcd2865bfd297585e56eb03c6fea4a6e]: Textual amendment: Word in [reg. 1(1A)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1A) substituted (30.9.2023) by [The Food (Promotion and Placement) (England) (Amendment) Regulations 2023 (S.I. 2023/949)](https://www.legislation.gov.uk/uksi/2023/949), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/949/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2023/949/regulation/2/2)
+[^c-bcd2865bfd297585e56eb03c6fea4a6e]: Textual amendment: Word in [reg. 1(1A)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1A) substituted (30.9.2023) by [The Food (Promotion and Placement) (England) (Amendment) Regulations 2023 (S.I. 2023/949)](https://www.legislation.gov.uk/uksi/2023/949), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/949/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2023/949/regulation/2/2)
 
-[^key-403953415b51af746ff0917788c448f9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1368/regulation/2) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-403953415b51af746ff0917788c448f9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1368/regulation/2) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
 [^f00004]: Footnote: [2015 c. 15](https://www.legislation.gov.uk/ukpga/2015/15). Section 2(3) defines “consumer” as an individual acting for purposes that are wholly or mainly outside that individual’s trade, business, craft or profession.
 
@@ -633,68 +633,68 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00007]: Footnote: An electronic copy can be found at https://www.gov.uk/government/publications/the-nutrient-profiling-model. Hard copies can be obtained by request to Obesity Team, Department of Health and Social Care, 39 Victoria Street, London, SW1H 0EU.
 
-[^key-908bb630e8cd62ce0493f368db7c66ff]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1368/regulation/3) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-908bb630e8cd62ce0493f368db7c66ff]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1368/regulation/3) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
 [^f00008]: Footnote: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25).
 
-[^key-f4063082810ba6680ea7da06bd4dc700]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1368/regulation/4) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-f4063082810ba6680ea7da06bd4dc700]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1368/regulation/4) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
 [^f00009]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
 
-[^key-048f475037168dd26a781ddbcc350582]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1368/regulation/5) in force at 1.10.2025, see [reg. 1(1A)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1A) (as amended by [S.I. 2022/1007](https://www.legislation.gov.uk/uksi/2022/1007), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/2/b) and [S.I. 2023/949](https://www.legislation.gov.uk/uksi/2023/949), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/949/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/949/regulation/2/3))
+[^c-048f475037168dd26a781ddbcc350582]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1368/regulation/5) in force at 1.10.2025, see [reg. 1(1A)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1A) (as amended by [S.I. 2022/1007](https://www.legislation.gov.uk/uksi/2022/1007), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/2/b) and [S.I. 2023/949](https://www.legislation.gov.uk/uksi/2023/949), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/949/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/949/regulation/2/3))
 
-[^key-4782f9cca81b48498fb16b1d5e925d7e]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/5/5) substituted (30.9.2023) by [The Food (Promotion and Placement) (England) (Amendment) Regulations 2023 (S.I. 2023/949)](https://www.legislation.gov.uk/uksi/2023/949), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/949/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2023/949/regulation/2/3)
+[^c-4782f9cca81b48498fb16b1d5e925d7e]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/5/5) substituted (30.9.2023) by [The Food (Promotion and Placement) (England) (Amendment) Regulations 2023 (S.I. 2023/949)](https://www.legislation.gov.uk/uksi/2023/949), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/949/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2023/949/regulation/2/3)
 
-[^key-46c409466e70df906c8d60e563efba00]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/1368/regulation/6) in force at 1.10.2025, see [reg. 1(1A)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1A) (as amended by [S.I. 2022/1007](https://www.legislation.gov.uk/uksi/2022/1007), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/2/b) and [S.I. 2023/949](https://www.legislation.gov.uk/uksi/2023/949), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/949/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/949/regulation/2/3))
+[^c-46c409466e70df906c8d60e563efba00]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/1368/regulation/6) in force at 1.10.2025, see [reg. 1(1A)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1A) (as amended by [S.I. 2022/1007](https://www.legislation.gov.uk/uksi/2022/1007), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2022/1007/regulation/2/b) and [S.I. 2023/949](https://www.legislation.gov.uk/uksi/2023/949), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/949/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/949/regulation/2/3))
 
-[^key-4e36b257eb2cf4139feddc23f0861ddb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/1368/regulation/7) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-4e36b257eb2cf4139feddc23f0861ddb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/1368/regulation/7) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-8b04175b8157dea4b0ae29bd55b107fe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2021/1368/regulation/8) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-8b04175b8157dea4b0ae29bd55b107fe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2021/1368/regulation/8) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-7e27827b6f0c0e221f5176dd14396784]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2021/1368/regulation/9) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-7e27827b6f0c0e221f5176dd14396784]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2021/1368/regulation/9) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-b1b74ede719a7a2c727a2a07212ffd3b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/1368/regulation/10) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-b1b74ede719a7a2c727a2a07212ffd3b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/1368/regulation/10) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-02dbee5a363c208c062dc45cdb5d6fd6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2021/1368/regulation/11) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-02dbee5a363c208c062dc45cdb5d6fd6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2021/1368/regulation/11) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-f7a669826acd1e765d591d8de87ace74]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2021/1368/regulation/12) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-f7a669826acd1e765d591d8de87ace74]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2021/1368/regulation/12) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-a8f9a88aa09c25db965c8772235daec6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2021/1368/regulation/13) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-a8f9a88aa09c25db965c8772235daec6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2021/1368/regulation/13) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-4f8dace4b686bc773eaaa484e60e5c08]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2021/1368/regulation/14) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-4f8dace4b686bc773eaaa484e60e5c08]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2021/1368/regulation/14) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
 [^f00010]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12), which has been amended made by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
-[^key-9a8542170f8da5eefbdf430395d409eb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2021/1368/regulation/15) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-9a8542170f8da5eefbdf430395d409eb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2021/1368/regulation/15) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
 [^f00011]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-7f61280ada87ea879f0abf935d3f9415]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2021/1368/regulation/16) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-7f61280ada87ea879f0abf935d3f9415]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2021/1368/regulation/16) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-88305542bd385a1f7eb9a4030ee04965]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1368/schedule/1) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-88305542bd385a1f7eb9a4030ee04965]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1368/schedule/1) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 2018/41](https://www.legislation.gov.uk/uksi/2018/41), to which there are no relevant amendments.
 
-[^key-482aebd3f4e63b0f06db86aa7f833074]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/1) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-482aebd3f4e63b0f06db86aa7f833074]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/1) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-afbc8a5ef2d225eef04121d57af25c6b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/2) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-afbc8a5ef2d225eef04121d57af25c6b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/2) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-17be98fa0747104994e04f6c20481a4a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/3) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-17be98fa0747104994e04f6c20481a4a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/3) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-abdbed21fc6d71a251055c0067ae043d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/4) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-abdbed21fc6d71a251055c0067ae043d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/4) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-f149d77b42b2dbe58ee49a5d28ff8e61]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/5) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-f149d77b42b2dbe58ee49a5d28ff8e61]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/5) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-b5e5a119c522d554297c425726b684ec]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/6) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-b5e5a119c522d554297c425726b684ec]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/6) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-13d62991ae3fe443278f52f3bbb5e378]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/7) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-13d62991ae3fe443278f52f3bbb5e378]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/7) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-d2ffe243e7aaf4b24474f06939fa179f]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/8) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-d2ffe243e7aaf4b24474f06939fa179f]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/8) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-364aff420b4df5a428d697f94b57649a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/9) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-364aff420b4df5a428d697f94b57649a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/9) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-d935f25770a64522983e9ecffb470cef]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/10) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-d935f25770a64522983e9ecffb470cef]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/10) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-a943f84275ada2bf7d82b1b7a0bb7bdb]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/11) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-a943f84275ada2bf7d82b1b7a0bb7bdb]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/11) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
 
-[^key-2fbb994c44f7d24d1a62909327662af4]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/12) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)
+[^c-2fbb994c44f7d24d1a62909327662af4]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2021/1368/schedule/2/paragraph/12) in force at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1368/regulation/1/1)

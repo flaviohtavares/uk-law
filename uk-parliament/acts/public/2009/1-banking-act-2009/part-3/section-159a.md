@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159A. Application to investment firms[^key-b289c330778c72b4b9daf69e9b3f16e6]
+## 159A. Application to investment firms[^c-b289c330778c72b4b9daf69e9b3f16e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Part applies to investment firms as it applies to banks.
 
 ## Annotations
 
-[^key-b289c330778c72b4b9daf69e9b3f16e6]: Textual amendment: S. 159A inserted (1.8.2014) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 101(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/6), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
+[^c-b289c330778c72b4b9daf69e9b3f16e6]: Textual amendment: S. 159A inserted (1.8.2014) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 101(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/6), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)

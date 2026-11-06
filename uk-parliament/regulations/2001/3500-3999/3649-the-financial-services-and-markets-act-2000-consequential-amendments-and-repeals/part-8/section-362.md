@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 362. Meaning of “bank”[^key-bf89c8da9fddc96606130df29be9cd88]
+## 362. Meaning of “bank”[^c-bf89c8da9fddc96606130df29be9cd88]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bf89c8da9fddc96606130df29be9cd88]: Commencement: Art. 362 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-bf89c8da9fddc96606130df29be9cd88]: Commencement: Art. 362 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00256]: Footnote: [1979 c. 34](https://www.legislation.gov.uk/ukpga/1979/34)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Conversion of company into a society: member's shareholding in company exceeds maximum permitted amount[^key-0961045e456f93efcedb7f82fd238a2e]
+## 116. Conversion of company into a society: member's shareholding in company exceeds maximum permitted amount[^c-0961045e456f93efcedb7f82fd238a2e]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0961045e456f93efcedb7f82fd238a2e]: Modification: S. 116 excluded by 1979 c. 34, s. 23(5) (as inserted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 13(4)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/13/4) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-0961045e456f93efcedb7f82fd238a2e]: Modification: S. 116 excluded by 1979 c. 34, s. 23(5) (as inserted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 13(4)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/13/4) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

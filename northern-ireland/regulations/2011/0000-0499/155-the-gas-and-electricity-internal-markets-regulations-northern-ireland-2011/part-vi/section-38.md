@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Duty on the Authority to consult and co-operate with other authorities[^key-ca65d04ae2cb16d03f2e918376138f6b]
+## 38. Duty on the Authority to consult and co-operate with other authorities[^c-ca65d04ae2cb16d03f2e918376138f6b]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ After Article 8 of the Energy Order there shall be inserted the following Articl
 
 ## Annotations
 
-[^key-ca65d04ae2cb16d03f2e918376138f6b]: Commencement: Reg. 38 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-ca65d04ae2cb16d03f2e918376138f6b]: Commencement: Reg. 38 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

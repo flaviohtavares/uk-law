@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 332HB. Carry-forward of unactivated allowance from a reference period[^key-2d019b6acc83eebbf237b235b0e06f36]
+## 332HB. Carry-forward of unactivated allowance from a reference period[^c-2d019b6acc83eebbf237b235b0e06f36]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ T is any amount that is required by section 332IA(1) (reduction of allowance if 
 
 ## Annotations
 
-[^key-2d019b6acc83eebbf237b235b0e06f36]: Textual amendment: Pt. 8 Ch. 6A inserted (with effect in accordance with Sch. 12 para. 5 7 8 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/12/paragraph/2)
+[^c-2d019b6acc83eebbf237b235b0e06f36]: Textual amendment: Pt. 8 Ch. 6A inserted (with effect in accordance with Sch. 12 para. 5 7 8 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/12/paragraph/2)

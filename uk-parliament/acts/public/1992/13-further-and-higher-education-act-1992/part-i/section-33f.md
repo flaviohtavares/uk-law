@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33F. Supplementary powers of a sixth form college corporation[^key-1dc714bc06c48a6f744ef1dcb4317329]
+## 33F. Supplementary powers of a sixth form college corporation[^c-1dc714bc06c48a6f744ef1dcb4317329]
 
 *Extent: E+W+S*
 
@@ -40,16 +40,16 @@ summary: ''
   - (i) contracts for the employment of teachers and other staff for the purposes of or in connection with carrying on any activities undertaken in the exercise of their principal powers, and
   - (ii) contracts with respect to the carrying on by the corporation of any such activities,
 - (c) form, participate in forming or invest in a company,
-- (d) form, participate in forming or otherwise become a member of a charitable incorporated organisation (within the meaning of Part 11 of the Charities Act 2011)[^key-6e4e1a5b165b886485925f10fe7e6e45],
+- (d) form, participate in forming or otherwise become a member of a charitable incorporated organisation (within the meaning of Part 11 of the Charities Act 2011)[^c-6e4e1a5b165b886485925f10fe7e6e45],
 - (e) borrow such sums as the corporation think fit for the purposes of—
   - (i) carrying on any activities they have power to carry on, or
-  - (ii) meeting any liability transferred to them under sections 23 to 27C or 33P[^key-28173437bfd9ac62dbff01332ce5b86d] ,
+  - (ii) meeting any liability transferred to them under sections 23 to 27C or 33P[^c-28173437bfd9ac62dbff01332ce5b86d] ,
 - (f) in connection with their borrowing, grant any mortgage, charge or other security in respect of any land or other property of the corporation,
 - (g) invest any sums not immediately required for the purpose of carrying on any activities they have power to carry on,
 - (h) accept gifts of money, land or other property and apply it, or hold and administer it on trust for, any of those purposes,
 - (i) do anything incidental to the conduct of an educational institution providing further or higher education, including founding scholarships or exhibitions, making grants and giving prizes.
 
-(7)[^key-efdcdb6498f2b832bd7d47c5a0e62b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-efdcdb6498f2b832bd7d47c5a0e62b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) For the purposes of this section a person has a learning difficulty if—
 
@@ -58,18 +58,18 @@ summary: ''
 
 (9) But a person is not to be taken to have a learning difficulty solely because the language (or form of language) in which the person is or will be taught is different from a language (or form of language) which has at any time been spoken in the person's home.
 
-(10) A reference in this section [^key-b1f39526d7ebaf8f8b0f7ebd8e2576ae]... to investing in a company includes a reference to becoming a member of the company and to investing in it by the acquisition of any assets, securities or rights or otherwise.
+(10) A reference in this section [^c-b1f39526d7ebaf8f8b0f7ebd8e2576ae]... to investing in a company includes a reference to becoming a member of the company and to investing in it by the acquisition of any assets, securities or rights or otherwise.
 
 (11) A sixth form college corporation may provide advice or assistance to any other person where it appears to the corporation to be appropriate for them to do so for the purpose of or in connection with the provision of education by the other person.
 
 ## Annotations
 
-[^key-1dc714bc06c48a6f744ef1dcb4317329]: Textual amendment: Ss. 33A-33N and cross-heading inserted (12.1.2010 for the insertion of ss. 33A-33J, 33M, 33N, 1.4.2010 in so far as not already in force) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/22/schedule/8/paragraph/3); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-1dc714bc06c48a6f744ef1dcb4317329]: Textual amendment: Ss. 33A-33N and cross-heading inserted (12.1.2010 for the insertion of ss. 33A-33J, 33M, 33N, 1.4.2010 in so far as not already in force) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/22/schedule/8/paragraph/3); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-6e4e1a5b165b886485925f10fe7e6e45]: Textual amendment: Words in s. 33F(6)(d) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 60](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/60) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-6e4e1a5b165b886485925f10fe7e6e45]: Textual amendment: Words in s. 33F(6)(d) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 60](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/60) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-28173437bfd9ac62dbff01332ce5b86d]: Textual amendment: Words in s. 33F(6)(e)(ii) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 13(a)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/13/a); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-28173437bfd9ac62dbff01332ce5b86d]: Textual amendment: Words in s. 33F(6)(e)(ii) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 13(a)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/13/a); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-efdcdb6498f2b832bd7d47c5a0e62b14]: Textual amendment: S. 33F(7) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 13(b)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/13/b); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-efdcdb6498f2b832bd7d47c5a0e62b14]: Textual amendment: S. 33F(7) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 13(b)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/13/b); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-b1f39526d7ebaf8f8b0f7ebd8e2576ae]: Textual amendment: Words in s. 33F(10) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 13(c)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/13/c); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-b1f39526d7ebaf8f8b0f7ebd8e2576ae]: Textual amendment: Words in s. 33F(10) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 13(c)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/13/c); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

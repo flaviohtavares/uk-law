@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Powers of CO after charge[^key-e4b0ec95d77bc7009adb2ce23770ea29][^key-ca346b9b3884648b24ea90d83041dfd1]
+## 123. Powers of CO after charge[^c-e4b0ec95d77bc7009adb2ce23770ea29][^c-ca346b9b3884648b24ea90d83041dfd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e4b0ec95d77bc7009adb2ce23770ea29]: Commencement: S. 123 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e4b0ec95d77bc7009adb2ce23770ea29]: Commencement: S. 123 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-ca346b9b3884648b24ea90d83041dfd1]: Commencement: S. 123 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ca346b9b3884648b24ea90d83041dfd1]: Commencement: S. 123 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

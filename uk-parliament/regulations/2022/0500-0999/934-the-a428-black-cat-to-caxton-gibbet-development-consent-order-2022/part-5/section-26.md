@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Time limit for exercise of authority to acquire land compulsorily[^key-8f74a069b7fd156591e0aa60fb64cd96]
+## 26. Time limit for exercise of authority to acquire land compulsorily[^c-8f74a069b7fd156591e0aa60fb64cd96]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f74a069b7fd156591e0aa60fb64cd96]: Commencement: Art. 26 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-8f74a069b7fd156591e0aa60fb64cd96]: Commencement: Art. 26 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

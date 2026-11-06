@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Amendment of Chapter 8 (in-flight supplies)[^key-d3679f0cf2b9037aab8cf5bf910262a9]
+## 122. Amendment of Chapter 8 (in-flight supplies)[^c-d3679f0cf2b9037aab8cf5bf910262a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3679f0cf2b9037aab8cf5bf910262a9]: Commencement: Reg. 122 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-d3679f0cf2b9037aab8cf5bf910262a9]: Commencement: Reg. 122 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 71
 
-**1.**[^key-c096387dde253df2b4ab91c2a240d499] (1) For the text specified in sub-paragraph (2) substitute “forms part of retained EU law”.
+**1.**[^c-c096387dde253df2b4ab91c2a240d499] (1) For the text specified in sub-paragraph (2) substitute “forms part of retained EU law”.
 
 (2) The specified text, for the purposes of sub-paragraph (1), is—
 
@@ -46,7 +46,7 @@ Regulation 71
 
 ## Annotations
 
-[^key-c096387dde253df2b4ab91c2a240d499]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-c096387dde253df2b4ab91c2a240d499]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00092]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); Article 35A inserted by [S.I. 2013.504](https://www.legislation.gov.uk/uksi/2013/504), amended by [S.I. 2016/715](https://www.legislation.gov.uk/uksi/2016/715), and to be amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446IA. Disapplication of exceptions from charges[^key-65ed1bdf69966d9a6787d2720f923786][^key-198fd296557cbd9940e05c1cadf0b299]
+## 446IA. Disapplication of exceptions from charges[^c-65ed1bdf69966d9a6787d2720f923786][^c-198fd296557cbd9940e05c1cadf0b299]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-65ed1bdf69966d9a6787d2720f923786]: Textual amendment: S. 446IA inserted (retrospective to 7.5.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 86(6)](https://www.legislation.gov.uk/ukpga/2004/12/section/86/6)[(8)](https://www.legislation.gov.uk/ukpga/2004/12/section/86/8)
+[^c-65ed1bdf69966d9a6787d2720f923786]: Textual amendment: S. 446IA inserted (retrospective to 7.5.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 86(6)](https://www.legislation.gov.uk/ukpga/2004/12/section/86/6)[(8)](https://www.legislation.gov.uk/ukpga/2004/12/section/86/8)
 
-[^key-198fd296557cbd9940e05c1cadf0b299]: Textual amendment: Pt. 7 Ch. 3A inserted (16.4.2003 with effect in accordance with Sch. 22 para. 5(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/5/1)
+[^c-198fd296557cbd9940e05c1cadf0b299]: Textual amendment: Pt. 7 Ch. 3A inserted (16.4.2003 with effect in accordance with Sch. 22 para. 5(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/5/1)

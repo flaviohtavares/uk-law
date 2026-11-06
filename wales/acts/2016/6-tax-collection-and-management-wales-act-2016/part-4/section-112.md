@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Power to copy and remove documents[^key-c8ff440f3c7298101866e51937916ed7]
+## 112. Power to copy and remove documents[^c-c8ff440f3c7298101866e51937916ed7]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ if requested to do so by the person who was in possession or power of the docume
 
 ## Annotations
 
-[^key-c8ff440f3c7298101866e51937916ed7]: Commencement: S. 112 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-c8ff440f3c7298101866e51937916ed7]: Commencement: S. 112 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

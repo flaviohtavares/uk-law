@@ -55,13 +55,13 @@ In this Order—
 
 - “**the Act**” means the Communications Act 2003;
 - “**disability**” has the same meaning as in section 1 of the Disability Discrimination Act 1995 [^c5064761];
-- [^key-d4ee0b52338efaa32ca47455577500bc]...
-- “[^key-2a6f6e98e1636222046700b83d394a07]**publicly available telephone service**” means a service made available to the public for originating and receiving directly or indirectly national or national and international calls and access to emergency services through a telephone number or numbers in a national or international telephone numbering plan;
+- [^c-d4ee0b52338efaa32ca47455577500bc]...
+- “[^c-2a6f6e98e1636222046700b83d394a07]**publicly available telephone service**” means a service made available to the public for originating and receiving directly or indirectly national or national and international calls and access to emergency services through a telephone number or numbers in a national or international telephone numbering plan;
 - “**public pay telephone**” means a telephone available to the general public, for the use of which the means of payment may include one or more of the following:
   - (a) coins;
   - (b) credit or debit cards; and
   - (c) pre-payment cards, including cards for use with dialling codes;
-- [^key-530fd23e9a592c7c343c1fe343bf6464]...
+- [^c-530fd23e9a592c7c343c1fe343bf6464]...
 - “**relay service**” means a service which:
   - (a) provides facilities for the receipt and translation of voice messages into text and text into voice messages, and the conveyance of that text or voice message to the textphone of subscribers of a person providing a publicly available telephone service; and
   - (b) has been approved as a text relay service by OFCOM;
@@ -72,7 +72,7 @@ In this Order—
 
 The extent to which the things falling within section 65(2) of the Act must be provided, made available or supplied throughout the United Kingdom is set out in the Schedule to this Order.
 
-## 3A. Modification of universal service obligations[^key-0cf2e9bdd64a5be62d8aaa6a7d70c1ff]
+## 3A. Modification of universal service obligations[^c-0cf2e9bdd64a5be62d8aaa6a7d70c1ff]
 
 Where OFCOM has made a general condition under section 51 of the Act in relation to the matters in paragraph 6 of the Schedule, then OFCOM shall not impose a universal service obligation in respect of those matters.
 
@@ -93,27 +93,27 @@ Department of Trade and Industry
 
 Article 3
 
-**1.** (1) At least one designated universal service provider shall meet all reasonable requests by end-users for connection at a fixed location to the public electronic communications network[^key-c85e9507fc62adc06b1e5882882fe13a] and for access to publicly available telephone services over that communications network[^key-927425b28a84dd1393e861902f5672b2].
+**1.** (1) At least one designated universal service provider shall meet all reasonable requests by end-users for connection at a fixed location to the public electronic communications network[^c-c85e9507fc62adc06b1e5882882fe13a] and for access to publicly available telephone services over that communications network[^c-927425b28a84dd1393e861902f5672b2].
 
-(2) The connection referred to in sub-paragraph (1) shall be capable of allowing end-users to make and receive local, national and international telephone calls [^key-008218e75871fb8823ee936f2bca06d5]....
+(2) The connection referred to in sub-paragraph (1) shall be capable of allowing end-users to make and receive local, national and international telephone calls [^c-008218e75871fb8823ee936f2bca06d5]....
 
 (3) Access to a publicly available telephone service in accordance with sub-paragraph (1) shall continue to be provided in the event of non-payment of bills for the use of that service, unless the provider of the service has first taken adequate measures regarding interruption to, or disconnection of the service.
 
 **2.** (1) At least one comprehensive directory shall be made available to end-users in a form approved by OFCOM, whether printed or electronic, or both, and it shall be updated at least once a year.
 
-(2) This directory shall comprise, subject to the provisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003[^key-0f6c7d8ac1f309fc3e84ce15cc1a2f5a], the details of all subscribers of publicly available telephone services and their telephone numbers, including fixed and mobile telephone numbers.
+(2) This directory shall comprise, subject to the provisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003[^c-0f6c7d8ac1f309fc3e84ce15cc1a2f5a], the details of all subscribers of publicly available telephone services and their telephone numbers, including fixed and mobile telephone numbers.
 
 **3.** (1) At least one comprehensive telephone directory enquiry facility shall be made available to end-users, including users of public pay telephones.
 
-(2) This facility shall comprise, subject to the provisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003[^key-bef2c8b5129a797e799a28b560c83fd4], the details of all subscribers of publicly available telephone services and their telephone numbers, including fixed and mobile telephone numbers.
+(2) This facility shall comprise, subject to the provisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003[^c-bef2c8b5129a797e799a28b560c83fd4], the details of all subscribers of publicly available telephone services and their telephone numbers, including fixed and mobile telephone numbers.
 
-**4.** (1) Public pay telephones or other public voice telephony access points[^key-86f1837c2a0db77ea0c54264588bac48] shall be provided to meet the reasonable needs of end-users in terms of geographical coverage, the number of telephones or other access points[^key-6d792e84b076412c463d7b3b1eb6fdd6] and the quality of public electronic communication services.
+**4.** (1) Public pay telephones or other public voice telephony access points[^c-86f1837c2a0db77ea0c54264588bac48] shall be provided to meet the reasonable needs of end-users in terms of geographical coverage, the number of telephones or other access points[^c-6d792e84b076412c463d7b3b1eb6fdd6] and the quality of public electronic communication services.
 
 (2) It shall be possible to make emergency calls from public pay telephones using the single European emergency call number “112” and the UK emergency call number “999”, free of charge and without the use of coins or cards.
 
 **5.** (1) Facilities, methods of billing and methods of accepting payment for electronic communications services that enable subscribers to monitor and control their expenditure in relation to the use of those services shall be provided to subscribers of services provided by designated universal service providers.
 
-(2)[^key-10a707bcf3416c2414d2173e82954cd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-10a707bcf3416c2414d2173e82954cd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** (1) Special measures shall be taken to ensure access to and affordability of publicly available telephone services for end-users with a disability equivalent to those enjoyed by other end-users.
 
@@ -151,26 +151,26 @@ OFCOM are responsible for adopting appropriate measures, such as setting univers
 
 [^c5064761]: Marginal citation: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50).
 
-[^key-d4ee0b52338efaa32ca47455577500bc]: Textual amendment: Words in art. 2 omitted (26.5.2011) by virtue of [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2011/1209/article/3/a)
+[^c-d4ee0b52338efaa32ca47455577500bc]: Textual amendment: Words in art. 2 omitted (26.5.2011) by virtue of [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2011/1209/article/3/a)
 
-[^key-2a6f6e98e1636222046700b83d394a07]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2003/1904/article/2) substituted (1.10.2022) by [The Electronic Communications (Universal Service) (Amendment) Order 2022 (S.I. 2022/937)](https://www.legislation.gov.uk/uksi/2022/937), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/937/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/937/article/2/2)
+[^c-2a6f6e98e1636222046700b83d394a07]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2003/1904/article/2) substituted (1.10.2022) by [The Electronic Communications (Universal Service) (Amendment) Order 2022 (S.I. 2022/937)](https://www.legislation.gov.uk/uksi/2022/937), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/937/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/937/article/2/2)
 
-[^key-530fd23e9a592c7c343c1fe343bf6464]: Textual amendment: Words in art. 2 omitted (26.5.2011) by virtue of [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2011/1209/article/3/d)
+[^c-530fd23e9a592c7c343c1fe343bf6464]: Textual amendment: Words in art. 2 omitted (26.5.2011) by virtue of [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2011/1209/article/3/d)
 
-[^key-0cf2e9bdd64a5be62d8aaa6a7d70c1ff]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2003/1904/article/3A) inserted (26.5.2011) by [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [4](https://www.legislation.gov.uk/uksi/2011/1209/article/4)
+[^c-0cf2e9bdd64a5be62d8aaa6a7d70c1ff]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2003/1904/article/3A) inserted (26.5.2011) by [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [4](https://www.legislation.gov.uk/uksi/2011/1209/article/4)
 
-[^key-c85e9507fc62adc06b1e5882882fe13a]: Textual amendment: Words in Sch. para. 1(1) substituted (26.5.2011) by [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2011/1209/article/5/a/i)
+[^c-c85e9507fc62adc06b1e5882882fe13a]: Textual amendment: Words in Sch. para. 1(1) substituted (26.5.2011) by [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2011/1209/article/5/a/i)
 
-[^key-927425b28a84dd1393e861902f5672b2]: Textual amendment: Words in Sch. para. 1(1) substituted (26.5.2011) by [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2011/1209/article/5/a/ii)
+[^c-927425b28a84dd1393e861902f5672b2]: Textual amendment: Words in Sch. para. 1(1) substituted (26.5.2011) by [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2011/1209/article/5/a/ii)
 
-[^key-008218e75871fb8823ee936f2bca06d5]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2003/1904/schedule/paragraph/1/2) omitted (1.10.2022) by virtue of [The Electronic Communications (Universal Service) (Amendment) Order 2022 (S.I. 2022/937)](https://www.legislation.gov.uk/uksi/2022/937), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/937/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/937/article/2/3)
+[^c-008218e75871fb8823ee936f2bca06d5]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2003/1904/schedule/paragraph/1/2) omitted (1.10.2022) by virtue of [The Electronic Communications (Universal Service) (Amendment) Order 2022 (S.I. 2022/937)](https://www.legislation.gov.uk/uksi/2022/937), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/937/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/937/article/2/3)
 
-[^key-0f6c7d8ac1f309fc3e84ce15cc1a2f5a]: Textual amendment: Words in Sch. para. 2(2) substituted (11.12.2003) by [The Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2426)](https://www.legislation.gov.uk/uksi/2003/2426), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2426/regulation/1), [35(1)](https://www.legislation.gov.uk/uksi/2003/2426/regulation/35/1)
+[^c-0f6c7d8ac1f309fc3e84ce15cc1a2f5a]: Textual amendment: Words in Sch. para. 2(2) substituted (11.12.2003) by [The Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2426)](https://www.legislation.gov.uk/uksi/2003/2426), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2426/regulation/1), [35(1)](https://www.legislation.gov.uk/uksi/2003/2426/regulation/35/1)
 
-[^key-bef2c8b5129a797e799a28b560c83fd4]: Textual amendment: Words in [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2003/1904/schedule/paragraph/3/2) substituted (11.12.2003) by [The Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2426)](https://www.legislation.gov.uk/uksi/2003/2426), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2426/regulation/1), [35(1)](https://www.legislation.gov.uk/uksi/2003/2426/regulation/35/1)
+[^c-bef2c8b5129a797e799a28b560c83fd4]: Textual amendment: Words in [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2003/1904/schedule/paragraph/3/2) substituted (11.12.2003) by [The Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2426)](https://www.legislation.gov.uk/uksi/2003/2426), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2426/regulation/1), [35(1)](https://www.legislation.gov.uk/uksi/2003/2426/regulation/35/1)
 
-[^key-86f1837c2a0db77ea0c54264588bac48]: Textual amendment: Words in [Sch. para. 4(1)](https://www.legislation.gov.uk/uksi/2003/1904/schedule/paragraph/4/1) inserted (26.5.2011) by [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [5(c)(i)](https://www.legislation.gov.uk/uksi/2011/1209/article/5/c/i)
+[^c-86f1837c2a0db77ea0c54264588bac48]: Textual amendment: Words in [Sch. para. 4(1)](https://www.legislation.gov.uk/uksi/2003/1904/schedule/paragraph/4/1) inserted (26.5.2011) by [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [5(c)(i)](https://www.legislation.gov.uk/uksi/2011/1209/article/5/c/i)
 
-[^key-6d792e84b076412c463d7b3b1eb6fdd6]: Textual amendment: Words in [Sch. para. 4(1)](https://www.legislation.gov.uk/uksi/2003/1904/schedule/paragraph/4/1) inserted (26.5.2011) by [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2011/1209/article/5/c/ii)
+[^c-6d792e84b076412c463d7b3b1eb6fdd6]: Textual amendment: Words in [Sch. para. 4(1)](https://www.legislation.gov.uk/uksi/2003/1904/schedule/paragraph/4/1) inserted (26.5.2011) by [The Electronic Communications (Universal Service) (Amendment) Order 2011 (S.I. 2011/1209)](https://www.legislation.gov.uk/uksi/2011/1209), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1209/article/1/1), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2011/1209/article/5/c/ii)
 
-[^key-10a707bcf3416c2414d2173e82954cd2]: Textual amendment: [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2003/1904/schedule/paragraph/5/2) omitted (21.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2020/1419/regulation/6))
+[^c-10a707bcf3416c2414d2173e82954cd2]: Textual amendment: [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2003/1904/schedule/paragraph/5/2) omitted (21.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2020/1419/regulation/6))

@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People
 
-The Scottish Independence Referendum (Chief Counting Officer and Counting Officer Charges and Expenses) Order 2014 (revoked)[^key-3d96ac4c3bbd1e7abb34b2248d561b75]
+The Scottish Independence Referendum (Chief Counting Officer and Counting Officer Charges and Expenses) Order 2014 (revoked)[^c-3d96ac4c3bbd1e7abb34b2248d561b75]
 
 Made
 
@@ -46,47 +46,47 @@ Coming into force
 
 5th May 2014
 
-[^key-3d96ac4c3bbd1e7abb34b2248d561b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d96ac4c3bbd1e7abb34b2248d561b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3d96ac4c3bbd1e7abb34b2248d561b75]
+## 1. Citation and commencement[^c-3d96ac4c3bbd1e7abb34b2248d561b75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3d96ac4c3bbd1e7abb34b2248d561b75]
+## 2. Interpretation[^c-3d96ac4c3bbd1e7abb34b2248d561b75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Chief Counting Officer: overall maximum recoverable amount[^key-3d96ac4c3bbd1e7abb34b2248d561b75]
+## 3. Chief Counting Officer: overall maximum recoverable amount[^c-3d96ac4c3bbd1e7abb34b2248d561b75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Chief Counting Officer: maximum recoverable amount for specified services[^key-3d96ac4c3bbd1e7abb34b2248d561b75]
+## 4. Chief Counting Officer: maximum recoverable amount for specified services[^c-3d96ac4c3bbd1e7abb34b2248d561b75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Chief Counting Officer: maximum recoverable amount for specified expenses[^key-3d96ac4c3bbd1e7abb34b2248d561b75]
+## 5. Chief Counting Officer: maximum recoverable amount for specified expenses[^c-3d96ac4c3bbd1e7abb34b2248d561b75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Counting officers: overall maximum recoverable amount[^key-3d96ac4c3bbd1e7abb34b2248d561b75]
+## 6. Counting officers: overall maximum recoverable amount[^c-3d96ac4c3bbd1e7abb34b2248d561b75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Counting officers: maximum recoverable amount for specified services[^key-3d96ac4c3bbd1e7abb34b2248d561b75]
+## 7. Counting officers: maximum recoverable amount for specified services[^c-3d96ac4c3bbd1e7abb34b2248d561b75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Counting officers: maximum recoverable amount for specified expenses[^key-3d96ac4c3bbd1e7abb34b2248d561b75]
+## 8. Counting officers: maximum recoverable amount for specified expenses[^c-3d96ac4c3bbd1e7abb34b2248d561b75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3d96ac4c3bbd1e7abb34b2248d561b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d96ac4c3bbd1e7abb34b2248d561b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Counting officers: maximum recoverable amounts[^key-3d96ac4c3bbd1e7abb34b2248d561b75]
+## SCHEDULE — Counting officers: maximum recoverable amounts[^c-3d96ac4c3bbd1e7abb34b2248d561b75]
 
 Articles 6, 7 and 8
 
@@ -94,8 +94,8 @@ Articles 6, 7 and 8
 
 **May not be in force at this date. Check the source.**
 
-[^key-3d96ac4c3bbd1e7abb34b2248d561b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d96ac4c3bbd1e7abb34b2248d561b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d96ac4c3bbd1e7abb34b2248d561b75]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2014/101) revoked (30.11.2015) by [The Scottish Independence Referendum (Chief Counting Officer and Counting Officer Charges and Expenses) Order 2015 (S.S.I. 2015/368)](https://www.legislation.gov.uk/ssi/2015/368), [arts. 1](https://www.legislation.gov.uk/ssi/2015/368/article/1), [9](https://www.legislation.gov.uk/ssi/2015/368/article/9)
+[^c-3d96ac4c3bbd1e7abb34b2248d561b75]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2014/101) revoked (30.11.2015) by [The Scottish Independence Referendum (Chief Counting Officer and Counting Officer Charges and Expenses) Order 2015 (S.S.I. 2015/368)](https://www.legislation.gov.uk/ssi/2015/368), [arts. 1](https://www.legislation.gov.uk/ssi/2015/368/article/1), [9](https://www.legislation.gov.uk/ssi/2015/368/article/9)

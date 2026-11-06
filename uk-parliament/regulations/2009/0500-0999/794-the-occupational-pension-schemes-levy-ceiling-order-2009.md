@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Occupational Pension Schemes (Levy Ceiling) Order 2009 (revoked)[^key-c1488ab2f49362046e6b2233f5112835]
+The Occupational Pension Schemes (Levy Ceiling) Order 2009 (revoked)[^c-c1488ab2f49362046e6b2233f5112835]
 
 Made
 
@@ -40,28 +40,28 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-c1488ab2f49362046e6b2233f5112835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1488ab2f49362046e6b2233f5112835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c1488ab2f49362046e6b2233f5112835]
+## 1. Citation and commencement[^c-c1488ab2f49362046e6b2233f5112835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The levy ceiling[^key-c1488ab2f49362046e6b2233f5112835]
+## 2. The levy ceiling[^c-c1488ab2f49362046e6b2233f5112835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Occupational Pension Schemes (Levy Ceiling) Order 2008[^key-c1488ab2f49362046e6b2233f5112835]
+## 3. Revocation of the Occupational Pension Schemes (Levy Ceiling) Order 2008[^c-c1488ab2f49362046e6b2233f5112835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1488ab2f49362046e6b2233f5112835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1488ab2f49362046e6b2233f5112835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c1488ab2f49362046e6b2233f5112835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1488ab2f49362046e6b2233f5112835]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c1488ab2f49362046e6b2233f5112835]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/794) revoked (1.4.2010) by [The Occupational Pension Schemes (Levy Ceiling) Order 2010 (S.I. 2010/666)](https://www.legislation.gov.uk/uksi/2010/666), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/666/article/1/2/b), [3](https://www.legislation.gov.uk/uksi/2010/666/article/3)
+[^c-c1488ab2f49362046e6b2233f5112835]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/794) revoked (1.4.2010) by [The Occupational Pension Schemes (Levy Ceiling) Order 2010 (S.I. 2010/666)](https://www.legislation.gov.uk/uksi/2010/666), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/666/article/1/2/b), [3](https://www.legislation.gov.uk/uksi/2010/666/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Persons excluded from the United Kingdom under international obligations[^key-b423a521ad2ab3b39e34a56d1216b98b]
+## 76. Persons excluded from the United Kingdom under international obligations[^c-b423a521ad2ab3b39e34a56d1216b98b]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b423a521ad2ab3b39e34a56d1216b98b]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2016/19/section/76) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/n)
+[^c-b423a521ad2ab3b39e34a56d1216b98b]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2016/19/section/76) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/n)

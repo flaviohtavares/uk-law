@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Post-review powers to make provision about representation of data subjects[^c23269181][^key-579c3cd911e92166215a70e270b7943b]
+## 190. Post-review powers to make provision about representation of data subjects[^c23269181][^c-579c3cd911e92166215a70e270b7943b]
 
 *Extent: E+W+N.I.*
 
 (1) After the report under section 189(1) is laid before Parliament, the Secretary of State may by regulations—
 
-- (a) exercise the powers under Article 80(2) of the UK GDPR[^key-075c9a035c809ff241232418d14ceeff] in relation to England and Wales and Northern Ireland,
+- (a) exercise the powers under Article 80(2) of the UK GDPR[^c-075c9a035c809ff241232418d14ceeff] in relation to England and Wales and Northern Ireland,
 - (b) make provision enabling a body or other organisation which meets the conditions in Article 80(1) of the UK GDPR to exercise a data subject's rights under Article 82 of the UK GDPR in England and Wales and Northern Ireland without being authorised to do so by the data subject, and
 - (c) make provision described in section 189(2)(e) in relation to the exercise in England and Wales and Northern Ireland of the rights of a data subject who is a child.
 
@@ -52,6 +52,6 @@ summary: ''
 
 [^c23269181]: Commencement: S. 190 in force at Royal Assent for specified purposes, see [s. 212(2)(f)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/2/f)
 
-[^key-579c3cd911e92166215a70e270b7943b]: Commencement: S. 190 in force at 23.7.2018 in so far as not already in force by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/3/g)
+[^c-579c3cd911e92166215a70e270b7943b]: Commencement: S. 190 in force at 23.7.2018 in so far as not already in force by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/3/g)
 
-[^key-075c9a035c809ff241232418d14ceeff]: Textual amendment: Words in s. 190(1) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 84](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/84) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-075c9a035c809ff241232418d14ceeff]: Textual amendment: Words in s. 190(1) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 84](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/84) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

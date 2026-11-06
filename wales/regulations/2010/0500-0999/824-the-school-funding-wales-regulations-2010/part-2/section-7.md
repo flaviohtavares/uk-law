@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Individual schools budget[^key-3dde442e555ff26304446226995eba61]
+## 7. Individual schools budget[^c-3dde442e555ff26304446226995eba61]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Before 14 February immediately preceding the beginning of a funding period, a lo
 
 ## Annotations
 
-[^key-3dde442e555ff26304446226995eba61]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2010/824/regulation/7) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-3dde442e555ff26304446226995eba61]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2010/824/regulation/7) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

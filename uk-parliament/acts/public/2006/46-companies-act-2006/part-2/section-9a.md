@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Required information about the subscribers[^key-33dbd878f7245405da18a44dec9c7adc]
+## 9A. Required information about the subscribers[^c-33dbd878f7245405da18a44dec9c7adc]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33dbd878f7245405da18a44dec9c7adc]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/2006/46/section/9A) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/3/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-33dbd878f7245405da18a44dec9c7adc]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/2006/46/section/9A) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/3/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)

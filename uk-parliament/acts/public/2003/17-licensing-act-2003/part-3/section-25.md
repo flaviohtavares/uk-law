@@ -26,8 +26,8 @@ summary: ''
 
 (3) Where an application is made in accordance with this section, the relevant licensing authority must issue the holder of the licence with a copy of the licence or summary (certified by the authority to be a true copy) if it is satisfied that—
 
-- (a) the licence or summary has been lost, stolen, damaged or destroyed, [^key-23ab5e3a94718234f49868c6002a2aa5]...
-- (b)[^key-23ab5e3a94718234f49868c6002a2aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the licence or summary has been lost, stolen, damaged or destroyed, [^c-23ab5e3a94718234f49868c6002a2aa5]...
+- (b)[^c-23ab5e3a94718234f49868c6002a2aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The copy issued under this section must be a copy of the premises licence or summary in the form in which it existed immediately before it was lost, stolen, damaged or destroyed.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23ab5e3a94718234f49868c6002a2aa5]: Textual amendment: S. 25(3)(b) and preceding word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 72(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/72/a), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(j)](https://www.legislation.gov.uk/uksi/2015/994/article/6/j)
+[^c-23ab5e3a94718234f49868c6002a2aa5]: Textual amendment: S. 25(3)(b) and preceding word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 72(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/72/a), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(j)](https://www.legislation.gov.uk/uksi/2015/994/article/6/j)

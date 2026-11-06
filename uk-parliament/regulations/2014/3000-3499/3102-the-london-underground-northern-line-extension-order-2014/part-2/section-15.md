@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. No apparatus in the tunnels without consent[^key-dc5054e5ed262ad1049f4a993572f120]
+## 15. No apparatus in the tunnels without consent[^c-dc5054e5ed262ad1049f4a993572f120]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc5054e5ed262ad1049f4a993572f120]: Commencement: Art. 15 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-dc5054e5ed262ad1049f4a993572f120]: Commencement: Art. 15 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

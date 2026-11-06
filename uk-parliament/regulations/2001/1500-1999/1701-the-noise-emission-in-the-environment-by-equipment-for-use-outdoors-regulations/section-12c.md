@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12C. Qualifying Northern Ireland Goods[^key-3777ac972f4bc1dce87beb7c207f08cd]
+## 12C. Qualifying Northern Ireland Goods[^c-3777ac972f4bc1dce87beb7c207f08cd]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3777ac972f4bc1dce87beb7c207f08cd]: Textual amendment: [Regs. 12B](https://www.legislation.gov.uk/uksi/2001/1701/regulation/12B), [12C](https://www.legislation.gov.uk/uksi/2001/1701/regulation/12C) inserted (E.W.S.) (31.12.2020) by The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696), reg. 1, Sch. 8 para. 7 (with Sch. 8 para. 14) (as amended by S.I. 2020/676, regs. 1(1), 2 and S.I. 2020/1460, reg. 1(4), Sch. 3 para. 5(6)(b)); 2020 c. 1, Sch. 5 para. 1(1)
+[^c-3777ac972f4bc1dce87beb7c207f08cd]: Textual amendment: [Regs. 12B](https://www.legislation.gov.uk/uksi/2001/1701/regulation/12B), [12C](https://www.legislation.gov.uk/uksi/2001/1701/regulation/12C) inserted (E.W.S.) (31.12.2020) by The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696), reg. 1, Sch. 8 para. 7 (with Sch. 8 para. 14) (as amended by S.I. 2020/676, regs. 1(1), 2 and S.I. 2020/1460, reg. 1(4), Sch. 3 para. 5(6)(b)); 2020 c. 1, Sch. 5 para. 1(1)

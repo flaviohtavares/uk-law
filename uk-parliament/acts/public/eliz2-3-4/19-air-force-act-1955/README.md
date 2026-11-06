@@ -31,29 +31,29 @@ Air Force Act 1955 (repealed)
 
 1955 c. 19
 
-[^key-f1bd88caac409f8ae519d0b0a8196355]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1bd88caac409f8ae519d0b0a8196355]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — Enlistment and Terms of Service[^key-f1bd88caac409f8ae519d0b0a8196355]
+### Part I — Enlistment and Terms of Service[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
-#### Enlistment[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Enlistment[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 1 — Recruiting officers.](part-i/section-1.md)
 - [Section 2 — Enlistment.](part-i/section-2.md)
 
-#### Enlistment for general or corps service[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Enlistment for general or corps service[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 3 — Enlistment for general service.](part-i/section-3.md)
 - [Section 4 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-4.md)
 
-#### Extension of service[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Extension of service[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -61,7 +61,7 @@ Air Force Act 1955 (repealed)
 - [Section 9 — Postponement in certain cases of discharge or transfer to the reserve.](part-i/section-9.md)
 - [Section 10 — Continuation of air-force service in imminent national danger.](part-i/section-10.md)
 
-#### Discharge and transfer to reserve[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Discharge and transfer to reserve[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -72,7 +72,7 @@ Air Force Act 1955 (repealed)
 - [Section 15 — Right of warrant officer to discharge on reduction to ranks.](part-i/section-15.md)
 - [Section 16 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-16.md)
 
-#### Miscellaneous and supplementary provisions[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Miscellaneous and supplementary provisions[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -84,13 +84,13 @@ Air Force Act 1955 (repealed)
 - [Section 22 — Regulations as to enlistment.](part-i/section-22.md)
 - [Section 23 — Interpretation of Part I.](part-i/section-23.md)
 
-### Part II — Discipline and Trial and Punishment of Air-Force Offences[^key-f1bd88caac409f8ae519d0b0a8196355]
+### Part II — Discipline and Trial and Punishment of Air-Force Offences[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Misconduct in action and other offences arising out of air-force service[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Misconduct in action and other offences arising out of air-force service[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -103,7 +103,7 @@ Air Force Act 1955 (repealed)
 - [Section 29A — Failure to attend for duty, neglect of duty etc.](part-ii/section-29a.md)
 - [Section 30 — Looting.](part-ii/section-30.md)
 
-#### Mutiny and insubordination[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Mutiny and insubordination[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -118,7 +118,7 @@ Air Force Act 1955 (repealed)
 - [Section 35 — Obstruction of provost officers.](part-ii/section-35.md)
 - [Section 36 — Disobedience to standing orders.](part-ii/section-36.md)
 
-#### Desertion, absence without leave, etc.[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Desertion, absence without leave, etc.[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -127,20 +127,20 @@ Air Force Act 1955 (repealed)
 - [Section 39 — Failure to report or apprehend deserters or absentees.](part-ii/section-39.md)
 - [Section 40 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-40.md)
 
-#### Malingering and drunkenness[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Malingering and drunkenness[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 42 — Malingering.](part-ii/section-42.md)
 - [Section 43 — Drunkenness.](part-ii/section-43.md)
 
-#### Disorderly conduct[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Disorderly conduct[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 43A — Fighting, threatening words etc.](part-ii/section-43a.md)
 
-#### Offences relating to property[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Offences relating to property[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -150,14 +150,14 @@ Air Force Act 1955 (repealed)
 - [Section 45 — Misapplication and waste of public or service property.](part-ii/section-45.md)
 - [Section 46 — Offences relating to issues and decorations.](part-ii/section-46.md)
 
-#### Offences relating to billeting and requisitioning of vehicles[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Offences relating to billeting and requisitioning of vehicles[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 47 — Billeting offences.](part-ii/section-47.md)
 - [Section 48 — Offences in relation to requisitioning of vehicles.](part-ii/section-48.md)
 
-#### Flying etc. offences[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Flying etc. offences[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -167,7 +167,7 @@ Air Force Act 1955 (repealed)
 - [Section 51 — Low flying.](part-ii/section-51.md)
 - [Section 52 — Annoyance by flying.](part-ii/section-52.md)
 
-#### Offences relating to, and by, persons in custody[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Offences relating to, and by, persons in custody[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -176,7 +176,7 @@ Air Force Act 1955 (repealed)
 - [Section 55 — Resistance to arrest.](part-ii/section-55.md)
 - [Section 56 — Escape from confinement.](part-ii/section-56.md)
 
-#### Offences in relation to courts-martial and civil authorities[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Offences in relation to courts-martial and civil authorities[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -184,7 +184,7 @@ Air Force Act 1955 (repealed)
 - [Section 58 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-58.md)
 - [Section 59 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-59.md)
 
-#### Miscellaneous offences[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Miscellaneous offences[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -201,13 +201,13 @@ Air Force Act 1955 (repealed)
 - [Section 68A — Aiding and abetting etc., and inciting.](part-ii/section-68a.md)
 - [Section 69 — Conduct to prejudice of air-force discipline.](part-ii/section-69.md)
 
-#### Civil offences[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Civil offences[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 70 — Civil offences.](part-ii/section-70.md)
 
-#### Punishments available to courts-martial[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Punishments available to courts-martial[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -219,7 +219,7 @@ Air Force Act 1955 (repealed)
 - [Section 71AB — Reasons to be given where custodial sentence awarded to young offender.](part-ii/section-71ab.md)
 - [Section 71B — Power to impose imprisonment for default in payment of fines.](part-ii/section-71b.md)
 
-#### Arrest[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Arrest[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -228,7 +228,7 @@ Air Force Act 1955 (repealed)
 - [Section 74 — Power to arrest offenders.](part-ii/section-74.md)
 - [Section 74A — Power of arrest in anticipation of commission of offence](part-ii/section-74a.md)
 
-#### Custody[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Custody[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -246,7 +246,7 @@ Air Force Act 1955 (repealed)
 - [Section 75L — Judicial officers.](part-ii/section-75l.md)
 - [Section 75M — Custody rules.](part-ii/section-75m.md)
 
-#### Investigation of, and summary dealing with, charges[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Investigation of, and summary dealing with, charges[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -266,7 +266,7 @@ Air Force Act 1955 (repealed)
 - [Section 82 — Officers who are to act as commanding officers and appropriate superior authorities.](part-ii/section-82.md)
 - [Section 83 — Regulations as to summary dealings etc.](part-ii/section-83.md)
 
-#### The summary appeal court[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### The summary appeal court[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -282,7 +282,7 @@ Air Force Act 1955 (repealed)
 - [Section 83ZK — Administration of oaths to members of summary appeal court.](part-ii/section-83zk.md)
 - [Section 83ZL — Privileges of witnesses and others.](part-ii/section-83zl.md)
 
-#### The prosecuting authority[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### The prosecuting authority[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -294,7 +294,7 @@ Air Force Act 1955 (repealed)
 - [Section 83BC — Power of prosecuting authority to advise police forces](part-ii/section-83bc.md)
 - [Section 83C — Prosecuting officers.](part-ii/section-83c.md)
 
-#### Courts-martial: general provisions[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Courts-martial: general provisions[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -314,13 +314,13 @@ Air Force Act 1955 (repealed)
 - [Section 90 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-90.md)
 - [Section 91 — Place for sitting of courts-martial and adjournment to other places.](part-ii/section-91.md)
 
-#### Preliminary hearings as to plea[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Preliminary hearings as to plea[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 91A — Preliminary hearings as to plea](part-ii/section-91a.md)
 
-#### Courts-martial: provisions relating to trial[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Courts-martial: provisions relating to trial[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -340,7 +340,7 @@ Air Force Act 1955 (repealed)
 - [Section 101A — Powers to compel attendance of witnesses](part-ii/section-101a.md)
 - [Section 102 — Affirmations.](part-ii/section-102.md)
 
-#### Offences: procedure[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Offences: procedure[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -348,7 +348,7 @@ Air Force Act 1955 (repealed)
 
 - [Section 103 — Rules.](part-ii/section-103.md)
 
-#### Field General Courts-Martial[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Field General Courts-Martial[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -359,7 +359,7 @@ Air Force Act 1955 (repealed)
 - [Section 105 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-105.md)
 - [Section 106 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-106.md)
 
-#### Confirmation, Revision and Review of Proceedings of Courts-Martial[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Confirmation, Revision and Review of Proceedings of Courts-Martial[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -369,7 +369,7 @@ Air Force Act 1955 (repealed)
 - [Section 110 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-110.md)
 - [Section 111 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-111.md)
 
-#### Review of proceedings of courts-martial[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Review of proceedings of courts-martial[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -383,13 +383,13 @@ Air Force Act 1955 (repealed)
 - [Section 113C — Review of sentences by Courts-Martial Appeal Court](part-ii/section-113c.md)
 - [Section 114 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-114.md)
 
-#### Review of summary findings and awards[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Review of summary findings and awards[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 115 — Review of summary findings and awards](part-ii/section-115.md)
 
-#### Findings of unfitness to stand trial and insanity[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Findings of unfitness to stand trial and insanity[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -403,13 +403,13 @@ Air Force Act 1955 (repealed)
 - [Section 116C — Supervision orders](part-ii/section-116c.md)
 - [Section 116D — Provisions supplementary to sections 115A to 116C](part-ii/section-116d.md)
 
-#### Saving for functions of Judge Advocate General[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Saving for functions of Judge Advocate General[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 117 — Saving for functions of Judge Advocate General.](part-ii/section-117.md)
 
-#### Commencement, suspension and duration of sentences[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Commencement, suspension and duration of sentences[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -424,7 +424,7 @@ Air Force Act 1955 (repealed)
 - [Section 120ZA — Activation of suspended sentence: appeals](part-ii/section-120za.md)
 - [Section 120A — Postponement of sentences.](part-ii/section-120a.md)
 
-#### Execution of sentences of death, imprisonment and detention[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Execution of sentences of death, imprisonment and detention[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -439,14 +439,14 @@ Air Force Act 1955 (repealed)
 - [Section 129 — Duties of governors of prisons and others to receive prisoners.](part-ii/section-129.md)
 - [Section 130 — Application to military establishments and custody.](part-ii/section-130.md)
 
-#### Trial of persons ceasing to be subject to air-force law and time limits for trials[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Trial of persons ceasing to be subject to air-force law and time limits for trials[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 131 — Trial and punishment of offences under this Act notwithstanding offender ceasing to be subject to this Act.](part-ii/section-131.md)
 - [Section 132 — Limitation of time for trial of offences under this Act.](part-ii/section-132.md)
 
-#### Relations between air-force law and civil courts and finality of trials[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Relations between air-force law and civil courts and finality of trials[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -454,7 +454,7 @@ Air Force Act 1955 (repealed)
 - [Section 133A — Financial penalty enforcement orders.](part-ii/section-133a.md)
 - [Section 134 — Persons not to be tried under this Act for offences already disposed of.](part-ii/section-134.md)
 
-#### Inquiries[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Inquiries[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -464,7 +464,7 @@ Air Force Act 1955 (repealed)
 - [Section 136 — Inquiries into absence.](part-ii/section-136.md)
 - [Section 137 — Unit inquiries.](part-ii/section-137.md)
 
-#### Miscellaneous provisions[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Miscellaneous provisions[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -475,13 +475,13 @@ Air Force Act 1955 (repealed)
 - [Section 141A — Right of penalised parent or guardian to copy of record of court-martial proceedings.](part-ii/section-141a.md)
 - [Section 142 — Indemnity for prison officers, etc.](part-ii/section-142.md)
 
-#### Interpretation[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Interpretation[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 143 — Interpretation of Part II.](part-ii/section-143.md)
 
-### Part III — Forfeitures and Deductions and Enforcement of Maintenance Liabilities[^key-f1bd88caac409f8ae519d0b0a8196355]
+### Part III — Forfeitures and Deductions and Enforcement of Maintenance Liabilities[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 *Extent: E+W+S+N.I.*
 
@@ -501,11 +501,11 @@ Air Force Act 1955 (repealed)
 - [Section 152 — Limit of deductions under ss. 150 and 151 and effect on forfeiture.](part-iii/section-152.md)
 - [Section 153 — Service of process in maintenance proceedings.](part-iii/section-153.md)
 
-### Part IV — Billeting and Requisitioning of Vehicles[^key-f1bd88caac409f8ae519d0b0a8196355]
+### Part IV — Billeting and Requisitioning of Vehicles[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
-#### Billeting[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Billeting[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -521,7 +521,7 @@ Air Force Act 1955 (repealed)
 - [Section 163 — Local authority.](part-iv/section-163.md)
 - [Section 164 — Suspension of laws against billeting.](part-iv/section-164.md)
 
-#### Requisitioning of vehicles[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Requisitioning of vehicles[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -535,7 +535,7 @@ Air Force Act 1955 (repealed)
 - [Section 172 — Application to aircraft and stores.](part-iv/section-172.md)
 - [Section 173 — Liability of Crown for damage by vehicles being delivered for requisitioning.](part-iv/section-173.md)
 
-#### General[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### General[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -543,31 +543,31 @@ Air Force Act 1955 (repealed)
 - [Section 175 — Regulations and orders.](part-iv/section-175.md)
 - [Section 176 — Interpretation of Part IV.](part-iv/section-176.md)
 
-### Part V — General Provisions[^key-f1bd88caac409f8ae519d0b0a8196355]
+### Part V — General Provisions[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
-#### Powers of command[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Powers of command[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 177 — Powers of command.](part-v/section-177.md)
 - [Section 178 — Powers of command of members of co-operating naval or military forces.](part-v/section-178.md)
 
-#### Attachment to naval or military forces[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Attachment to naval or military forces[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 179 — Attachment of members of air forces to naval or military forces.](part-v/section-179.md)
 
-#### Redress of complaints[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Redress of complaints[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 180 — Redress of complaints.](part-v/section-180.md)
 - [Section 181 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-181.md)
 
-#### Exemptions for members of regular air force[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Exemptions for members of regular air force[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -576,7 +576,7 @@ Air Force Act 1955 (repealed)
 - [Section 184 — Exemptions from tolls, etc.](part-v/section-184.md)
 - [Section 185 — Exemption from taking in execution of property used for air-force purposes.](part-v/section-185.md)
 
-#### Provisions relating to deserters and absentees without leave[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Provisions relating to deserters and absentees without leave[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -586,14 +586,14 @@ Air Force Act 1955 (repealed)
 - [Section 189 — Certificates of arrest or surrender of deserters and absentees.](part-v/section-189.md)
 - [Section 190 — Duties of governors of prisons and others to receive deserters and absentees.](part-v/section-190.md)
 
-#### Further powers of arrest of civil authorities[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Further powers of arrest of civil authorities[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 190A — Arrest under warrants of commanding officers.](part-v/section-190a.md)
 - [Section 190B — Arrest of persons unlawfully at large.](part-v/section-190b.md)
 
-#### Offences relating to air-force matters punishable by civil courts[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Offences relating to air-force matters punishable by civil courts[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -605,7 +605,7 @@ Air Force Act 1955 (repealed)
 - [Section 196 — Illegal dealings in documents relating to pay, pensions, mobilisation, etc.](part-v/section-196.md)
 - [Section 197 — Unauthorised use of and dealing in decorations, etc.](part-v/section-197.md)
 
-#### Provisions as to evidence[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Provisions as to evidence[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -616,7 +616,7 @@ Air Force Act 1955 (repealed)
 - [Section 200 — Evidence of proceedings of courts martial.](part-v/section-200.md)
 - [Section 200A — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-200a.md)
 
-#### Miscellaneous provisions[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Miscellaneous provisions[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -626,11 +626,11 @@ Air Force Act 1955 (repealed)
 - [Section 204 — Power of certain officers to take affidavits and declarations.](part-v/section-204.md)
 - [Section 204A — Exclusion of enactments requiring fiat of Attorney General etc. in connection with proceedings.](part-v/section-204a.md)
 
-### Part VI — Application of Act and Supplemental Provisions[^key-f1bd88caac409f8ae519d0b0a8196355]
+### Part VI — Application of Act and Supplemental Provisions[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
-#### Persons subject to air-force law[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Persons subject to air-force law[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -641,14 +641,14 @@ Air Force Act 1955 (repealed)
 - [Section 208A — Application of Act to passengers in H.M. ships and aircraft.](part-vi/section-208a.md)
 - [Section 209 — Application of Act to civilians.](part-vi/section-209.md)
 
-#### Application of Act to particular forces[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Application of Act to particular forces[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
 - [Section 210 — Application of Act to reserve and auxiliary forces.](part-vi/section-210.md)
 - [Section 211 — Modification of certain provisions in relation to women.](part-vi/section-211.md)
 
-#### Application to different countries[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Application to different countries[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -659,7 +659,7 @@ Air Force Act 1955 (repealed)
 - [Section 216 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-vi/section-216.md)
 - [Section 217 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-vi/section-217.md)
 
-#### Supplemental provisions[^key-f1bd88caac409f8ae519d0b0a8196355]
+#### Supplemental provisions[^c-f1bd88caac409f8ae519d0b0a8196355]
 
 **No longer in force.**
 
@@ -675,7 +675,7 @@ Air Force Act 1955 (repealed)
 
 **No longer in force.**
 
-[^key-f1bd88caac409f8ae519d0b0a8196355] SCHEDULES
+[^c-f1bd88caac409f8ae519d0b0a8196355] SCHEDULES
 
 - [FIRST SCHEDULE](schedule-first.md)
 - [SECOND SCHEDULE](schedule-second.md)
@@ -687,4 +687,4 @@ Air Force Act 1955 (repealed)
 
 ## Annotations
 
-[^key-f1bd88caac409f8ae519d0b0a8196355]: Textual amendment: Act repealed (1.1.2008 for the repeal of s. 180 only, 1.10.2008 for the repeal of ss. 135-137, 28.3.2009 for further specified purposes and 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3) (with [art. 4(1)(2)](https://www.legislation.gov.uk/uksi/2007/2913/article/4/1/2)); [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/1650/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1650/article/3)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4); and [ss. 9](https://www.legislation.gov.uk/uksi/2009/1167/section/9), [133A](https://www.legislation.gov.uk/uksi/2009/1167/section/133A) continued (with modifications) (31.10.2009) by [The Armed Forces (Discharge and Transfer to the Reserve Forces) (No. 2) Regulations 2009 (S.I. 2009/1091)](https://www.legislation.gov.uk/uksi/2009/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1091/regulation/1), [11](https://www.legislation.gov.uk/uksi/2009/1091/regulation/11), [13](https://www.legislation.gov.uk/uksi/2009/1091/regulation/13) (with [Sch.](https://www.legislation.gov.uk/uksi/2009/1091/schedule)) and [The Armed Forces (Financial Penalty Enforcement Orders) Regulations 2009 (S.I. 2009/1212)](https://www.legislation.gov.uk/uksi/2009/1212), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1212/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/1212/regulation/5/2)
+[^c-f1bd88caac409f8ae519d0b0a8196355]: Textual amendment: Act repealed (1.1.2008 for the repeal of s. 180 only, 1.10.2008 for the repeal of ss. 135-137, 28.3.2009 for further specified purposes and 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3) (with [art. 4(1)(2)](https://www.legislation.gov.uk/uksi/2007/2913/article/4/1/2)); [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/1650/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1650/article/3)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4); and [ss. 9](https://www.legislation.gov.uk/uksi/2009/1167/section/9), [133A](https://www.legislation.gov.uk/uksi/2009/1167/section/133A) continued (with modifications) (31.10.2009) by [The Armed Forces (Discharge and Transfer to the Reserve Forces) (No. 2) Regulations 2009 (S.I. 2009/1091)](https://www.legislation.gov.uk/uksi/2009/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1091/regulation/1), [11](https://www.legislation.gov.uk/uksi/2009/1091/regulation/11), [13](https://www.legislation.gov.uk/uksi/2009/1091/regulation/13) (with [Sch.](https://www.legislation.gov.uk/uksi/2009/1091/schedule)) and [The Armed Forces (Financial Penalty Enforcement Orders) Regulations 2009 (S.I. 2009/1212)](https://www.legislation.gov.uk/uksi/2009/1212), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1212/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/1212/regulation/5/2)

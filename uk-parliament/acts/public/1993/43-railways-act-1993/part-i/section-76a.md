@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The Passengers’ Council[^key-52d3d4ba49bfc00eda09ec991cffa259] and any other public body may enter into an agreement for that other body to be responsible, in accordance with the agreement, for —
+(1) The Passengers’ Council[^c-52d3d4ba49bfc00eda09ec991cffa259] and any other public body may enter into an agreement for that other body to be responsible, in accordance with the agreement, for —
 
 - (a) determining what is expedient for the purposes of subsection (7A) of section 76 above in relation to an area specified in the agreement; and
 - (b) otherwise performing that Council's duties under that subsection in relation to that area.
@@ -45,4 +45,4 @@ summary: ''
 
 [^c19014791]: Textual amendment: S. 76A inserted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 20](https://www.legislation.gov.uk/ukpga/2005/14/section/20), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-52d3d4ba49bfc00eda09ec991cffa259]: Textual amendment: Words in s. 76A substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 6(5)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/6/5)
+[^c-52d3d4ba49bfc00eda09ec991cffa259]: Textual amendment: Words in s. 76A substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 6(5)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/6/5)

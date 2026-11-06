@@ -31,77 +31,77 @@ Radiological Protection Act 1970 (repealed)
 
 1970 c.46
 
-[^key-1b37579bc6ce29872a5a1fc59f7606d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b37579bc6ce29872a5a1fc59f7606d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. The National Radiological Protection Board and its functions.[^key-1b37579bc6ce29872a5a1fc59f7606d4][^key-1b37579bc6ce29872a5a1fc59f7606d4]
+## 1. The National Radiological Protection Board and its functions.[^c-1b37579bc6ce29872a5a1fc59f7606d4][^c-1b37579bc6ce29872a5a1fc59f7606d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. General provisions about the Board.[^key-1b37579bc6ce29872a5a1fc59f7606d4][^key-1b37579bc6ce29872a5a1fc59f7606d4]
+## 2. General provisions about the Board.[^c-1b37579bc6ce29872a5a1fc59f7606d4][^c-1b37579bc6ce29872a5a1fc59f7606d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Finance and accounts of the Board.[^key-1b37579bc6ce29872a5a1fc59f7606d4][^key-1b37579bc6ce29872a5a1fc59f7606d4]
+## 3. Finance and accounts of the Board.[^c-1b37579bc6ce29872a5a1fc59f7606d4][^c-1b37579bc6ce29872a5a1fc59f7606d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1b37579bc6ce29872a5a1fc59f7606d4][^key-1b37579bc6ce29872a5a1fc59f7606d4]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1b37579bc6ce29872a5a1fc59f7606d4][^c-1b37579bc6ce29872a5a1fc59f7606d4]
 
-## 5. Provisions about Northern Ireland.[^key-1b37579bc6ce29872a5a1fc59f7606d4][^key-1b37579bc6ce29872a5a1fc59f7606d4]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 6. Orders.[^key-1b37579bc6ce29872a5a1fc59f7606d4][^key-1b37579bc6ce29872a5a1fc59f7606d4]
+## 5. Provisions about Northern Ireland.[^c-1b37579bc6ce29872a5a1fc59f7606d4][^c-1b37579bc6ce29872a5a1fc59f7606d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Citation, commencement and repeal.[^key-1b37579bc6ce29872a5a1fc59f7606d4][^key-1b37579bc6ce29872a5a1fc59f7606d4]
+## 6. Orders.[^c-1b37579bc6ce29872a5a1fc59f7606d4][^c-1b37579bc6ce29872a5a1fc59f7606d4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Citation, commencement and repeal.[^c-1b37579bc6ce29872a5a1fc59f7606d4][^c-1b37579bc6ce29872a5a1fc59f7606d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-1b37579bc6ce29872a5a1fc59f7606d4] SCHEDULES
+[^c-1b37579bc6ce29872a5a1fc59f7606d4] SCHEDULES
 
-## SCHEDULE 1 — The National Radiological Protection Board, its Membership, Proceedings and Staff[^key-1b37579bc6ce29872a5a1fc59f7606d4]
+## SCHEDULE 1 — The National Radiological Protection Board, its Membership, Proceedings and Staff[^c-1b37579bc6ce29872a5a1fc59f7606d4]
 
 Section 2.
 
-### Constitution and membership[^key-1b37579bc6ce29872a5a1fc59f7606d4]
+### Constitution and membership[^c-1b37579bc6ce29872a5a1fc59f7606d4]
 
-**1.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Proceedings[^key-1b37579bc6ce29872a5a1fc59f7606d4]
+### Proceedings[^c-1b37579bc6ce29872a5a1fc59f7606d4]
 
-**7.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-1b37579bc6ce29872a5a1fc59f7606d4]
+### Staff[^c-1b37579bc6ce29872a5a1fc59f7606d4]
 
-**13.**[^key-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-1b37579bc6ce29872a5a1fc59f7606d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Enactments Repealed[^key-1b37579bc6ce29872a5a1fc59f7606d4]
+## SCHEDULE 2 — Enactments Repealed[^c-1b37579bc6ce29872a5a1fc59f7606d4]
 
 Section 7.
 
@@ -109,4 +109,4 @@ Section 7.
 
 ## Annotations
 
-[^key-1b37579bc6ce29872a5a1fc59f7606d4]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1970/46) repealed (1.4.2005) by [Health Protection Agency Act 2004 (c. 17)](https://www.legislation.gov.uk/ukpga/2004/17), [s. 12(1)](https://www.legislation.gov.uk/ukpga/2004/17/section/12/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2004/17/schedule/3/paragraph/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/17/schedule/4); [S.I. 2005/121](https://www.legislation.gov.uk/uksi/2005/121), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/121/article/2/2)
+[^c-1b37579bc6ce29872a5a1fc59f7606d4]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1970/46) repealed (1.4.2005) by [Health Protection Agency Act 2004 (c. 17)](https://www.legislation.gov.uk/ukpga/2004/17), [s. 12(1)](https://www.legislation.gov.uk/ukpga/2004/17/section/12/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2004/17/schedule/3/paragraph/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/17/schedule/4); [S.I. 2005/121](https://www.legislation.gov.uk/uksi/2005/121), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/121/article/2/2)

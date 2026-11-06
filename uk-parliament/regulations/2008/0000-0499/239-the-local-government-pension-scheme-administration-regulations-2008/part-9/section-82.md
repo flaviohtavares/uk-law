@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Calculation of amount of transfer payment under regulation 81[^key-f260c789a89d4c14ddebb6c60d52101f]
+## 82. Calculation of amount of transfer payment under regulation 81[^c-f260c789a89d4c14ddebb6c60d52101f]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f260c789a89d4c14ddebb6c60d52101f]: Commencement: Reg. 82 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-f260c789a89d4c14ddebb6c60d52101f]: Commencement: Reg. 82 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

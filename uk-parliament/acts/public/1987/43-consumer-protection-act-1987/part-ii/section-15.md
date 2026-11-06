@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Appeals against suspension notices.[^c9337911][^key-35eff61632a08b757ca11dc6335782a3][^key-399ac2d0dd18d490724c70727042fd60]
+## 15. Appeals against suspension notices.[^c9337911][^c-35eff61632a08b757ca11dc6335782a3][^c-399ac2d0dd18d490724c70727042fd60]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,9 +68,9 @@ and an order so made may contain such provision as appears to the court to be ap
 
     [S. 15](https://www.legislation.gov.uk/ukpga/1987/43/section/15) applied (with modifications) (25.8.2003) by [S.I. 2003/1941](https://www.legislation.gov.uk/uksi/2003/1941), [reg. 8](https://www.legislation.gov.uk/uksi/2003/1941/regulation/8), [Sch. IV para. 2(a)](https://www.legislation.gov.uk/uksi/2003/1941/schedule/IV/paragraph/2/a)
 
-[^key-35eff61632a08b757ca11dc6335782a3]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/1987/43/section/15) applied (with modifications) (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 4 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/paragraph/1/1/a) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
+[^c-35eff61632a08b757ca11dc6335782a3]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/1987/43/section/15) applied (with modifications) (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 4 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/paragraph/1/1/a) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
 
-[^key-399ac2d0dd18d490724c70727042fd60]: Modification: Pt. II applied in part (with modifications) (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [53(3)](https://www.legislation.gov.uk/uksi/2016/507/regulation/53/3)
+[^c-399ac2d0dd18d490724c70727042fd60]: Modification: Pt. II applied in part (with modifications) (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [53(3)](https://www.legislation.gov.uk/uksi/2016/507/regulation/53/3)
 
 [^c9337921]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 

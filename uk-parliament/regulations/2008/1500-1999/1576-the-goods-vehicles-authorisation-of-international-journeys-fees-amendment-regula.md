@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Goods Vehicles (Authorisation of International Journeys) (Fees) (Amendment) Regulations 2008 (revoked)[^key-6f76e85a43b6dcecf42601cd4276bdcf]
+The Goods Vehicles (Authorisation of International Journeys) (Fees) (Amendment) Regulations 2008 (revoked)[^c-6f76e85a43b6dcecf42601cd4276bdcf]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st August 2008
 
-[^key-6f76e85a43b6dcecf42601cd4276bdcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f76e85a43b6dcecf42601cd4276bdcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-6f76e85a43b6dcecf42601cd4276bdcf]
+## 1. Citation and Commencement[^c-6f76e85a43b6dcecf42601cd4276bdcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-6f76e85a43b6dcecf42601cd4276bdcf]
+## 2. Amendments[^c-6f76e85a43b6dcecf42601cd4276bdcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f76e85a43b6dcecf42601cd4276bdcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f76e85a43b6dcecf42601cd4276bdcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6f76e85a43b6dcecf42601cd4276bdcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f76e85a43b6dcecf42601cd4276bdcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f76e85a43b6dcecf42601cd4276bdcf]: Textual amendment: Regulations revoked (21.11.2018) by [The International Road Transport Permits (EU Exit) Regulations 2018 (S.I. 2018/1204)](https://www.legislation.gov.uk/uksi/2018/1204), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1204/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/1204/schedule/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1204/regulation/3))
+[^c-6f76e85a43b6dcecf42601cd4276bdcf]: Textual amendment: Regulations revoked (21.11.2018) by [The International Road Transport Permits (EU Exit) Regulations 2018 (S.I. 2018/1204)](https://www.legislation.gov.uk/uksi/2018/1204), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1204/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/1204/schedule/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1204/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Civil liability for contravention of s. 3(3).[^key-fe2e6db30252a2975795217c0a47a92d]
+## 88. Civil liability for contravention of s. 3(3).[^c-fe2e6db30252a2975795217c0a47a92d]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ and for the purposes of any action of damages in Scotland arising out of the dea
 
 ## Annotations
 
-[^key-fe2e6db30252a2975795217c0a47a92d]: Textual amendment: S. 88 repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 16(2)(r)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16/2/r); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-fe2e6db30252a2975795217c0a47a92d]: Textual amendment: S. 88 repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 16(2)(r)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16/2/r); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
 [^c2459151]: Marginal citation: [1945 c. 28](https://www.legislation.gov.uk/ukpga/1945/28).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Report by Electoral Commission on provision of identifying information[^key-03d3c929c5efb415075f32c05d22881a]
+## 32. Report by Electoral Commission on provision of identifying information[^c-03d3c929c5efb415075f32c05d22881a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03d3c929c5efb415075f32c05d22881a]: Textual amendment: Ss. 30-34 repealed (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 24(b)](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/24/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
+[^c-03d3c929c5efb415075f32c05d22881a]: Textual amendment: Ss. 30-34 repealed (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 24(b)](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/24/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)

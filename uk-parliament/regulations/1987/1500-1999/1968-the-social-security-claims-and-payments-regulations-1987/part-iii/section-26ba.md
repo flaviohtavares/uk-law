@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26BA. Intervals for payment of state pension credit[^key-f5e2d315a6c6b3fa5b4db02ece571627]
+## 26BA. Intervals for payment of state pension credit[^c-f5e2d315a6c6b3fa5b4db02ece571627]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5e2d315a6c6b3fa5b4db02ece571627]: Textual amendment: [Reg. 26BA](https://www.legislation.gov.uk/uksi/1987/1968/regulation/26BA) inserted (6.4.2010) by [The Social Security (Miscellaneous Amendments) (No. 6) Regulations 2009 (S.I. 2009/3229)](https://www.legislation.gov.uk/uksi/2009/3229), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3229/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2009/3229/regulation/2/7)
+[^c-f5e2d315a6c6b3fa5b4db02ece571627]: Textual amendment: [Reg. 26BA](https://www.legislation.gov.uk/uksi/1987/1968/regulation/26BA) inserted (6.4.2010) by [The Social Security (Miscellaneous Amendments) (No. 6) Regulations 2009 (S.I. 2009/3229)](https://www.legislation.gov.uk/uksi/2009/3229), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3229/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2009/3229/regulation/2/7)

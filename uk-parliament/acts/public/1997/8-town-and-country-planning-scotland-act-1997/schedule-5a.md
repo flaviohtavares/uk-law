@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5A — Masterplan consent areas[^key-6987f4451b3d0de879a33eb32273176a]
+## SCHEDULE 5A — Masterplan consent areas[^c-6987f4451b3d0de879a33eb32273176a]
 
 *Extent: E+W+S*
 
@@ -400,4 +400,4 @@ the Scottish Ministers do not apply.
 
 ## Annotations
 
-[^key-6987f4451b3d0de879a33eb32273176a]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/ukpga/1997/8/schedule/5A) inserted (1.4.2024 for specified purposes, 5.12.2024 in so far as not already in force) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 15(3)](https://www.legislation.gov.uk/asp/2019/13/section/15/3), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/b)[(4)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/4); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/b)
+[^c-6987f4451b3d0de879a33eb32273176a]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/ukpga/1997/8/schedule/5A) inserted (1.4.2024 for specified purposes, 5.12.2024 in so far as not already in force) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 15(3)](https://www.legislation.gov.uk/asp/2019/13/section/15/3), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/b)[(4)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/4); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/b)

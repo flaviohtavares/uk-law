@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23.1. When this Part applies[^key-a81e71707d0297b66611a7ea75179567]
+## 23.1. When this Part applies[^c-a81e71707d0297b66611a7ea75179567]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ This Part applies where—
 
 ## Annotations
 
-[^key-a81e71707d0297b66611a7ea75179567]: Commencement: [Rule 23.1](https://www.legislation.gov.uk/uksi/2025/909/rule/23.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a81e71707d0297b66611a7ea75179567]: Commencement: [Rule 23.1](https://www.legislation.gov.uk/uksi/2025/909/rule/23.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00500]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23); section 35 was amended by sections 139 and 140 of, and paragraph 41 of Schedule 6 and Schedule 7 to, the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), section 148 of, and paragraphs 35 and 36 of Schedule 26 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) and section 105 of the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25).
 

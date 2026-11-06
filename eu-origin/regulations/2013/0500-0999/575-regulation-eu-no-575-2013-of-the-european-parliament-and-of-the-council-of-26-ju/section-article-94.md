@@ -16,12 +16,12 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 94. Derogation for small trading book business[^key-18ba1ebf877b9c3c172cc4e26fa0726b][^c000001]
+## Article 94. Derogation for small trading book business[^c-18ba1ebf877b9c3c172cc4e26fa0726b][^c000001]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-18ba1ebf877b9c3c172cc4e26fa0726b]: Textual amendment: [Art. 94](https://www.legislation.gov.uk/eur/2013/575/article/94) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/2/a)
+[^c-18ba1ebf877b9c3c172cc4e26fa0726b]: Textual amendment: [Art. 94](https://www.legislation.gov.uk/eur/2013/575/article/94) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/2/a)
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).

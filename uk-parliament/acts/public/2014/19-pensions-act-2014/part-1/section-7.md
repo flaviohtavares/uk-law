@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Survivor's pension based on inheritance of additional old state pension[^key-e514575366fe7cb4db8aea8e0dd78516]
+## 7. Survivor's pension based on inheritance of additional old state pension[^c-e514575366fe7cb4db8aea8e0dd78516]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e514575366fe7cb4db8aea8e0dd78516]: Commencement: S. 7 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-e514575366fe7cb4db8aea8e0dd78516]: Commencement: S. 7 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)

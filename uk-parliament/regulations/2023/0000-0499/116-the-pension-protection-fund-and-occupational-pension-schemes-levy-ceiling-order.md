@@ -34,7 +34,7 @@ This Statutory Instrument is defective and is superseded by [S.I. 2023/117](http
 
 Pensions
 
-The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2023 (revoked)[^key-ef3a12d0994f09006507c737357a7dad]
+The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2023 (revoked)[^c-ef3a12d0994f09006507c737357a7dad]
 
 Made
 
@@ -46,33 +46,33 @@ Laid before Parliament
 
 Coming into force in accordance with article 1(2) to (4)
 
-[^key-ef3a12d0994f09006507c737357a7dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef3a12d0994f09006507c737357a7dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and extent[^key-ef3a12d0994f09006507c737357a7dad]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-ef3a12d0994f09006507c737357a7dad]
+## 1. Citation, commencement and extent[^c-ef3a12d0994f09006507c737357a7dad]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The earnings percentage[^key-ef3a12d0994f09006507c737357a7dad]
+## 2. Interpretation[^c-ef3a12d0994f09006507c737357a7dad]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The levy ceiling[^key-ef3a12d0994f09006507c737357a7dad]
+## 3. The earnings percentage[^c-ef3a12d0994f09006507c737357a7dad]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-ef3a12d0994f09006507c737357a7dad]
+## 4. The levy ceiling[^c-ef3a12d0994f09006507c737357a7dad]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Revocation[^c-ef3a12d0994f09006507c737357a7dad]
 
 **Not yet in force.**
 
@@ -80,10 +80,10 @@ Coming into force in accordance with article 1(2) to (4)
 
 **May not be in force at this date. Check the source.**
 
-[^key-ef3a12d0994f09006507c737357a7dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef3a12d0994f09006507c737357a7dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef3a12d0994f09006507c737357a7dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef3a12d0994f09006507c737357a7dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef3a12d0994f09006507c737357a7dad]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/116) revoked (13.3.2023) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) (No. 2) Order 2023 (S.I. 2023/117)](https://www.legislation.gov.uk/uksi/2023/117), [arts. 1(6)](https://www.legislation.gov.uk/uksi/2023/117/article/1/6), [6](https://www.legislation.gov.uk/uksi/2023/117/article/6)
+[^c-ef3a12d0994f09006507c737357a7dad]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/116) revoked (13.3.2023) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) (No. 2) Order 2023 (S.I. 2023/117)](https://www.legislation.gov.uk/uksi/2023/117), [arts. 1(6)](https://www.legislation.gov.uk/uksi/2023/117/article/1/6), [6](https://www.legislation.gov.uk/uksi/2023/117/article/6)

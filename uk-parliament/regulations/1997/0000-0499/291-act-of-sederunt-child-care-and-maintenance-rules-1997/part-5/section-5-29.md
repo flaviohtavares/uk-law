@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.29. Provisions in relation to intimation and entering appearance[^key-f09a480846e4910b29fa244dd0ab219f]
+## 5.29. Provisions in relation to intimation and entering appearance[^c-f09a480846e4910b29fa244dd0ab219f]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f09a480846e4910b29fa244dd0ab219f]: Commencement: Rule 5.29 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-f09a480846e4910b29fa244dd0ab219f]: Commencement: Rule 5.29 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

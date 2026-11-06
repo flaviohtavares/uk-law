@@ -25,14 +25,14 @@ summary: ''
 (1A)[^c21178961] In any case where—
 
 - (a) a warning notice is given to any person in respect of a contribution notice under Article 34, and
-- (b) the contribution notice under consideration would be issued wholly or partly by reference to the Regulator's opinion that the material detriment test, the employer insolvency test or the employer resources test[^key-eb03dd0a51f01e8c4b4aaa86c9c7ba74] is met in relation to an act or failure,
+- (b) the contribution notice under consideration would be issued wholly or partly by reference to the Regulator's opinion that the material detriment test, the employer insolvency test or the employer resources test[^c-eb03dd0a51f01e8c4b4aaa86c9c7ba74] is met in relation to an act or failure,
 
 the standard procedure must provide for the following matters.
 
 (1B) The matters are—
 
-- (a) a requirement for the warning notice to explain the general effect of Article 34B, 34D or 34F (as the case may be)[^key-f0b87f9e6e3f19b83943a32e858d35f9] and
-- (b) a requirement for the person to be given an opportunity before the contribution notice is issued to show the matters mentioned in Article 34B(2), 34D(2) and (3) or 34F(2) (as the case may be)[^key-e0e1a73202baa617a37fb85553c19aa4].
+- (a) a requirement for the warning notice to explain the general effect of Article 34B, 34D or 34F (as the case may be)[^c-f0b87f9e6e3f19b83943a32e858d35f9] and
+- (b) a requirement for the person to be given an opportunity before the contribution notice is issued to show the matters mentioned in Article 34B(2), 34D(2) and (3) or 34F(2) (as the case may be)[^c-e0e1a73202baa617a37fb85553c19aa4].
 
 (2) The “standard procedure” is a procedure which provides for—
 
@@ -67,7 +67,7 @@ the standard procedure must provide for the following matters.
 - (g) the power to issue a notice under Article 269(5);
 - (h) the power to make an order under Article 3(1) of the 1995 Order prohibiting a person from being a trustee;
 - (i) the power to make an order under Article 3(3) of that Order revoking such an order;
-- (ia)[^key-59699d0c3077afd558f994e8eb1fe5d9] the power under Article 3A(3) of that Order to give a notice waiving a prohibition;
+- (ia)[^c-59699d0c3077afd558f994e8eb1fe5d9] the power under Article 3A(3) of that Order to give a notice waiving a prohibition;
 - (j) the power to make an order under Article 4(1) of that Order suspending a trustee;
 - (k) the power to make an order under Article 4(2) of that Order extending the period for which an order under Article 4(1) of that Order has effect;
 - (l) the power to make an order under Article 4(5) of that Order revoking an order under Article 4(1) of that Order suspending a trustee;
@@ -82,7 +82,7 @@ the standard procedure must provide for the following matters.
 - (u) such other regulatory functions as may be prescribed;
 - (v) the power under Article 96(1)(b) to vary or revoke in relation to the exercise of any of the regulatory functions mentioned in sub-paragraphs (a) to (u) other than that mentioned in sub-paragraph (i) or (l).
 
-(6A)[^key-f7f21bf4154a63c639ca72b0625f4f14] Paragraph (6B) applies in relation to a warning notice given to a person—
+(6A)[^c-f7f21bf4154a63c639ca72b0625f4f14] Paragraph (6B) applies in relation to a warning notice given to a person—
 
 - (a) in respect of a contribution notice under Article 34, or
 - (b) in respect of a financial support direction under Article 39.
@@ -98,16 +98,16 @@ the standard procedure must provide for the following matters.
 
 [^c21178961]: Textual amendment: Art. 91(1A)(1B) inserted (29.6.2009) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 103](https://www.legislation.gov.uk/nia/2008/13/section/103), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 8 para. 4](https://www.legislation.gov.uk/nia/2008/13/schedule/8/paragraph/4); [S.R. 2009/249](https://www.legislation.gov.uk/nisr/2009/249), [art. 2(a)(b)(i)](https://www.legislation.gov.uk/nisr/2009/249/article/2/a/b/i)
 
-[^key-eb03dd0a51f01e8c4b4aaa86c9c7ba74]: Textual amendment: Words in [art. 91(1A)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/91/1A/b) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 23(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/23/2); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(f)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/f)
+[^c-eb03dd0a51f01e8c4b4aaa86c9c7ba74]: Textual amendment: Words in [art. 91(1A)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/91/1A/b) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 23(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/23/2); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(f)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/f)
 
-[^key-f0b87f9e6e3f19b83943a32e858d35f9]: Textual amendment: Words in [art. 91(1B)(a)](https://www.legislation.gov.uk/nisi/2005/255/article/91/1B/a) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 23(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/23/3/a); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(f)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/f)
+[^c-f0b87f9e6e3f19b83943a32e858d35f9]: Textual amendment: Words in [art. 91(1B)(a)](https://www.legislation.gov.uk/nisi/2005/255/article/91/1B/a) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 23(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/23/3/a); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(f)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/f)
 
-[^key-e0e1a73202baa617a37fb85553c19aa4]: Textual amendment: Words in [art. 91(1B)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/91/1B/b) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/23/3/b); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(f)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/f)
+[^c-e0e1a73202baa617a37fb85553c19aa4]: Textual amendment: Words in [art. 91(1B)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/91/1B/b) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/23/3/b); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(4)(f)](https://www.legislation.gov.uk/nisr/2021/271/article/2/4/f)
 
 [^c22066331]: Textual amendment: Words in art. 91(5)(a) repealed (6.4.2010) by [Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4)](https://www.legislation.gov.uk/nia/2010/4), [ss. 3](https://www.legislation.gov.uk/nia/2010/4/section/3), [5(2)](https://www.legislation.gov.uk/nia/2010/4/section/5/2), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/nia/2010/4/schedule/1/paragraph/14/a), [Sch. 3](https://www.legislation.gov.uk/nia/2010/4/schedule/3) (with transitional and saving in [Sch. 2](https://www.legislation.gov.uk/nia/2010/4/schedule/2)); [S.R. 2010/101](https://www.legislation.gov.uk/nisr/2010/101), [art. 2](https://www.legislation.gov.uk/nisr/2010/101/article/2)
 
-[^key-59699d0c3077afd558f994e8eb1fe5d9]: Textual amendment: [Art. 91(6)(ia)](https://www.legislation.gov.uk/nisi/2005/255/article/91/6/ia) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 8](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/8); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
+[^c-59699d0c3077afd558f994e8eb1fe5d9]: Textual amendment: [Art. 91(6)(ia)](https://www.legislation.gov.uk/nisi/2005/255/article/91/6/ia) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 8](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/8); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
 
-[^key-f7f21bf4154a63c639ca72b0625f4f14]: Textual amendment: Art. 91(6A)(6B) inserted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 24(7)](https://www.legislation.gov.uk/nia/2012/3/section/24/7), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(g)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/g)
+[^c-f7f21bf4154a63c639ca72b0625f4f14]: Textual amendment: Art. 91(6A)(6B) inserted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 24(7)](https://www.legislation.gov.uk/nia/2012/3/section/24/7), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(g)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/g)
 
 [^c22066341]: Textual amendment: Art. 91(7) added (6.4.2010) by [Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4)](https://www.legislation.gov.uk/nia/2010/4), [ss. 3(1)](https://www.legislation.gov.uk/nia/2010/4/section/3/1), [5(2)](https://www.legislation.gov.uk/nia/2010/4/section/5/2), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/nia/2010/4/schedule/1/paragraph/14/b) (with transitional and saving in [Sch. 2](https://www.legislation.gov.uk/nia/2010/4/schedule/2)); [S.R. 2010/101](https://www.legislation.gov.uk/nisr/2010/101), [art. 2](https://www.legislation.gov.uk/nisr/2010/101/article/2)

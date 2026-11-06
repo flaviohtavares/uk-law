@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 313B. Reasons for non-disclosure: supporting information[^key-d55edbf3b15092a769e2b956af40b89d]
+## 313B. Reasons for non-disclosure: supporting information[^c-d55edbf3b15092a769e2b956af40b89d]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where HMRC receive from a person (P) a statement of reasons why a proposal or arrangements are not notifiable by P, HMRC may apply to the tribunal[^key-a215429932021018eabfdd4487ad7dd6] for an order requiring P to provide specified information or documents in support of the reasons.
+(1) Where HMRC receive from a person (P) a statement of reasons why a proposal or arrangements are not notifiable by P, HMRC may apply to the tribunal[^c-a215429932021018eabfdd4487ad7dd6] for an order requiring P to provide specified information or documents in support of the reasons.
 
 (2) P must comply with a requirement under or by virtue of subsection (1) within—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d55edbf3b15092a769e2b956af40b89d]: Textual amendment: Ss. 313A, 313B inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/5) (with [s. 108(10)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/10))
+[^c-d55edbf3b15092a769e2b956af40b89d]: Textual amendment: Ss. 313A, 313B inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/5) (with [s. 108(10)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/10))
 
-[^key-a215429932021018eabfdd4487ad7dd6]: Textual amendment: Word in s. 313B(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 431](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/431)
+[^c-a215429932021018eabfdd4487ad7dd6]: Textual amendment: Word in s. 313B(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 431](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/431)

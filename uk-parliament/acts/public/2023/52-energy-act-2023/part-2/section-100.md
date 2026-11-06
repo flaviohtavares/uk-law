@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Duties with regard to considerations in the statement[^key-ee2a41fbe4ec8c960508b446cd009446]
+## 100. Duties with regard to considerations in the statement[^c-ee2a41fbe4ec8c960508b446cd009446]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee2a41fbe4ec8c960508b446cd009446]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2023/52/section/100) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-ee2a41fbe4ec8c960508b446cd009446]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2023/52/section/100) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

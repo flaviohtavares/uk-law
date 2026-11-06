@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Expenses to be paid out of the client assets[^key-5c3a61191a5f1a6dc1ea56f21e125ff3]
+## 135. Expenses to be paid out of the client assets[^c-5c3a61191a5f1a6dc1ea56f21e125ff3]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c3a61191a5f1a6dc1ea56f21e125ff3]: Commencement: [Rule 135](https://www.legislation.gov.uk/uksi/2011/1301/rule/135) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-5c3a61191a5f1a6dc1ea56f21e125ff3]: Commencement: [Rule 135](https://www.legislation.gov.uk/uksi/2011/1301/rule/135) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

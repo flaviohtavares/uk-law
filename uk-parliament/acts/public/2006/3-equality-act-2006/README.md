@@ -34,7 +34,7 @@ Equality Act 2006
 
 \[16th February 2006\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-899a6e824139901796525908a502a0f2][^key-c93ebae4fd3815dd09d75ffc73019a94][^key-0084d35d2d3a41a921ef2a1cb6270b80]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-899a6e824139901796525908a502a0f2][^c-c93ebae4fd3815dd09d75ffc73019a94][^c-0084d35d2d3a41a921ef2a1cb6270b80]
 
 ## Contents
 
@@ -181,9 +181,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 81 — Regulations](part-3/section-81.md)
 - [Section 82 — Regulations for Northern Ireland](part-3/section-82.md)
 
-### Part 4 — Public Functions[^key-116cf0037a3f0bd52dcd750d8c3af47d]
+### Part 4 — Public Functions[^c-116cf0037a3f0bd52dcd750d8c3af47d]
 
-#### Sex discrimination[^key-116cf0037a3f0bd52dcd750d8c3af47d]
+#### Sex discrimination[^c-116cf0037a3f0bd52dcd750d8c3af47d]
 
 **No longer in force.**
 
@@ -193,14 +193,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 86 — Codes of practice](part-4/section-86.md)
 - [Section 87 — National security](part-4/section-87.md)
 
-#### Disability discrimination[^key-116cf0037a3f0bd52dcd750d8c3af47d]
+#### Disability discrimination[^c-116cf0037a3f0bd52dcd750d8c3af47d]
 
 **No longer in force.**
 
 - [Section 88 — General duty: exceptions](part-4/section-88.md)
 - [Section 89 — National security](part-4/section-89.md)
 
-#### Race discrimination[^key-116cf0037a3f0bd52dcd750d8c3af47d]
+#### Race discrimination[^c-116cf0037a3f0bd52dcd750d8c3af47d]
 
 **No longer in force.**
 
@@ -225,12 +225,12 @@ SCHEDULES
 
 [^c2035029]: Modification: Act: transfer of functions (with exceptions) (12.10.2007) by [The Transfer of Functions (Equality) Order 2007 (S.I. 2007/2914)](https://www.legislation.gov.uk/uksi/2007/2914), [art. 3(2)(f)](https://www.legislation.gov.uk/uksi/2007/2914/article/3/2/f)
 
-[^key-899a6e824139901796525908a502a0f2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/3) power to amend conferred (8.4.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [ss. 203](https://www.legislation.gov.uk/ukpga/2010/15/section/203), [204](https://www.legislation.gov.uk/ukpga/2010/15/section/204), [216(1)(b)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/1/b), [Schs. 24](https://www.legislation.gov.uk/ukpga/2010/15/schedule/24) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205))
+[^c-899a6e824139901796525908a502a0f2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/3) power to amend conferred (8.4.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [ss. 203](https://www.legislation.gov.uk/ukpga/2010/15/section/203), [204](https://www.legislation.gov.uk/ukpga/2010/15/section/204), [216(1)(b)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/1/b), [Schs. 24](https://www.legislation.gov.uk/ukpga/2010/15/schedule/24) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205))
 
-[^key-c93ebae4fd3815dd09d75ffc73019a94]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/3) transfer of functions (18.8.2010) by [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [3(1)(f)](https://www.legislation.gov.uk/uksi/2010/1839/article/3/1/f)
+[^c-c93ebae4fd3815dd09d75ffc73019a94]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/3) transfer of functions (18.8.2010) by [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [3(1)(f)](https://www.legislation.gov.uk/uksi/2010/1839/article/3/1/f)
 
-[^key-0084d35d2d3a41a921ef2a1cb6270b80]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/3) transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-0084d35d2d3a41a921ef2a1cb6270b80]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/3) transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^M_F_1ab83218-9ce4-49de-8ec6-22ab42d72995]: Textual amendment: Pt. 2 repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 82](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/82), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(e)(ix)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e/x) (as amended (1.10.2010) by [S.I. 2010/2337](https://www.legislation.gov.uk/uksi/2010/2337), art. 2)
 
-[^key-116cf0037a3f0bd52dcd750d8c3af47d]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/ukpga/2006/3/part/4) repealed (1.10.2010 for specified purposes, 5.4.2011 in so far as not already in force) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 82](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/82), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(e)(x)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e/x)[(f)(vi)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/f/vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2); [S.I. 2011/1066](https://www.legislation.gov.uk/uksi/2011/1066), [art. 2(g)(v)](https://www.legislation.gov.uk/uksi/2011/1066/article/2/g/v)
+[^c-116cf0037a3f0bd52dcd750d8c3af47d]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/ukpga/2006/3/part/4) repealed (1.10.2010 for specified purposes, 5.4.2011 in so far as not already in force) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 82](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/82), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(e)(x)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e/x)[(f)(vi)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/f/vi) (as amended (1.10.2010) by S.I. 2010/2337, art. 2); [S.I. 2011/1066](https://www.legislation.gov.uk/uksi/2011/1066), [art. 2(g)(v)](https://www.legislation.gov.uk/uksi/2011/1066/article/2/g/v)

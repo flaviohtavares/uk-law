@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31.[^key-daf5832f2c8f5097f94dac40a76d8474]
+## 31.[^c-daf5832f2c8f5097f94dac40a76d8474]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-daf5832f2c8f5097f94dac40a76d8474]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-daf5832f2c8f5097f94dac40a76d8474]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23882931]: Marginal citation: Paragraph 5(1)(d) was substituted by [S.I. 2004/1261](https://www.legislation.gov.uk/uksi/2004/1261) and subsequently amended by paragraph 58(1) and (4) of Schedule 5 to the Enterprise and Regulatory Reform Act 2013 and [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).
 

@@ -37,22 +37,22 @@ setting out the annual breakdown by Member State of the global resources of the 
 
 (2014/372/EU) (revoked)
 
-[^key-4ead039f157aa3113db2f5371a3d7267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ead039f157aa3113db2f5371a3d7267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-4ead039f157aa3113db2f5371a3d7267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4ead039f157aa3113db2f5371a3d7267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4ead039f157aa3113db2f5371a3d7267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4ead039f157aa3113db2f5371a3d7267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ead039f157aa3113db2f5371a3d7267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ead039f157aa3113db2f5371a3d7267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — GLOBAL RESOURCES BY MEMBER STATE FOR THE EUROPEAN MARITIME AND FISHERIES FUND FOR THE PERIOD 2014 TO 2020[^key-4ead039f157aa3113db2f5371a3d7267]
+## ANNEX — GLOBAL RESOURCES BY MEMBER STATE FOR THE EUROPEAN MARITIME AND FISHERIES FUND FOR THE PERIOD 2014 TO 2020[^c-4ead039f157aa3113db2f5371a3d7267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ead039f157aa3113db2f5371a3d7267]: Textual amendment: Decision revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-4ead039f157aa3113db2f5371a3d7267]: Textual amendment: Decision revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

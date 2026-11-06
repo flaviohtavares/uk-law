@@ -24,7 +24,7 @@ summary: ''
 
 (2) The rate of corporation tax to be applied in assessing, before the dissolution event in respect of the company, the corporation tax chargeable on the profits of the company arising in the administration in its final year is to be determined in accordance with subsections (3) to (5).
 
-(3) If the main rate of corporation tax[^key-1788f6abe31425910c268f25822f090b] has been fixed for the final year, that fixed rate is to be applied.
+(3) If the main rate of corporation tax[^c-1788f6abe31425910c268f25822f090b] has been fixed for the final year, that fixed rate is to be applied.
 
 (4) If the main rate of corporation tax has been proposed (but not yet fixed) for the final year, that proposed rate is to be applied.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1788f6abe31425910c268f25822f090b]: Textual amendment: Words in s. 630 substituted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 15(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/15/6)
+[^c-1788f6abe31425910c268f25822f090b]: Textual amendment: Words in s. 630 substituted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 15(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/15/6)

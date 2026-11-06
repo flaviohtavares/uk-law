@@ -26,7 +26,7 @@ summary: ''
 
 (3)[^c9546931] Subject to subsection (4), this Act shall not come into force until such day as the Secretary of State may by order appoint; and different days may be appointed for different purposes or different areas.
 
-(3A)[^key-a19c4d0eeb443d26d530d9de5d187622] In relation to the coming into force of any provision of this Act for the purposes of the law of Northern Ireland, the reference in subsection (3) to the Secretary of State shall be construed as a reference to the Department of Justice in Northern Ireland.
+(3A)[^c-a19c4d0eeb443d26d530d9de5d187622] In relation to the coming into force of any provision of this Act for the purposes of the law of Northern Ireland, the reference in subsection (3) to the Secretary of State shall be construed as a reference to the Department of Justice in Northern Ireland.
 
 (4) The following provisions come into force on the day on which this Act is passed—
 
@@ -53,7 +53,7 @@ summary: ''
 - (a) the amendments made by Schedule 2 in section 49 of the [^c9546951]Children and Young Persons Act 1933 and in the [^c9546961]Sexual Offences (Amendment) Act 1992 extend to England and Wales, Scotland and Northern Ireland;
 - (b) the repeal by Schedule 6 of section 62 of the [^c9546971]Criminal Procedure and Investigations Act 1996 does not extend to Northern Ireland.
 
-(10)[^key-540d0a84c6c7887a7f1233a0952ee62e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-540d0a84c6c7887a7f1233a0952ee62e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -73,7 +73,7 @@ summary: ''
 
     S. 68(3) power partly exercised: 24.7.2002 appointed for specified provisions by {[S.I. 2002/1739](https://www.legislation.gov.uk/uksi/2002/1739)}, art. 2
 
-[^key-a19c4d0eeb443d26d530d9de5d187622]: Textual amendment: S. 68(3A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 14 para. 45](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/45) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-a19c4d0eeb443d26d530d9de5d187622]: Textual amendment: S. 68(3A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 14 para. 45](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/45) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c9546941]: Textual amendment: S. 68(7) repealed (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(4)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/4), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/I) (with [Sch. 11 paras. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/2))
 
@@ -83,4 +83,4 @@ summary: ''
 
 [^c9546971]: Marginal citation: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).
 
-[^key-540d0a84c6c7887a7f1233a0952ee62e]: Textual amendment: S. 68(10) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 160](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/160), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-540d0a84c6c7887a7f1233a0952ee62e]: Textual amendment: S. 68(10) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 160](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/160), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

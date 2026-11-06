@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 108. Provision of information and calculation of restitution payment: mis-sold personal pensions[^key-4f6ec391100a293434e07756b23abff4]
+## 108. Provision of information and calculation of restitution payment: mis-sold personal pensions[^c-4f6ec391100a293434e07756b23abff4]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ the administering authority who maintain the fund which would be the appropriate
 
 ## Annotations
 
-[^key-4f6ec391100a293434e07756b23abff4]: Commencement: Reg. 108 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-4f6ec391100a293434e07756b23abff4]: Commencement: Reg. 108 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00044]: Footnote: S.I. [1996/2809](https://www.legislation.gov.uk/uksi/1996/2809), amended by S.I. [1998/364](https://www.legislation.gov.uk/uksi/1998/364).

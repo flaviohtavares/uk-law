@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Order by court for grant of new tenancy or termination of current tenancy[^key-a61d63f4a24e16eb9cab4dd3dcb32fdd]
+## 29. Order by court for grant of new tenancy or termination of current tenancy[^c-a61d63f4a24e16eb9cab4dd3dcb32fdd]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a61d63f4a24e16eb9cab4dd3dcb32fdd]: Textual amendment: S. 29 substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [5](https://www.legislation.gov.uk/uksi/2003/3096/article/5)
+[^c-a61d63f4a24e16eb9cab4dd3dcb32fdd]: Textual amendment: S. 29 substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [5](https://www.legislation.gov.uk/uksi/2003/3096/article/5)

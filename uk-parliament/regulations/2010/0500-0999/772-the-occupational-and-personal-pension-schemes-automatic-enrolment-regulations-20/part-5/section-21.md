@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Information to be given to workers[^key-90d0f7fa49ae65cf544b94c2ea64905a]
+## 21. Information to be given to workers[^c-90d0f7fa49ae65cf544b94c2ea64905a]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ At any time before the end of the period of six weeks beginning with the date on
 
 ## Annotations
 
-[^key-90d0f7fa49ae65cf544b94c2ea64905a]: Textual amendment: Reg. 21 substituted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/501/regulation/7)
+[^c-90d0f7fa49ae65cf544b94c2ea64905a]: Textual amendment: Reg. 21 substituted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/501/regulation/7)

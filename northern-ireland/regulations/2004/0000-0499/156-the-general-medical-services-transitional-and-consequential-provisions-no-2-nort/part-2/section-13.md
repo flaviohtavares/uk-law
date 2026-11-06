@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Provision of immediately necessary treatment[^key-ab6a8480a882fabd083e51bb53e67962]
+## 13. Provision of immediately necessary treatment[^c-ab6a8480a882fabd083e51bb53e67962]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Where, on 31st March 2004, a relevant medical practitioner was responsible for p
 
 ## Annotations
 
-[^key-ab6a8480a882fabd083e51bb53e67962]: Commencement: Art. 13 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-ab6a8480a882fabd083e51bb53e67962]: Commencement: Art. 13 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00019]: Footnote: Paragraph 3(4) was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)

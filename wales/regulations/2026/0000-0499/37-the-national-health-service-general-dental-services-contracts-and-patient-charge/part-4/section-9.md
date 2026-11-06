@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Health service body status[^key-09de18a8cac0ee3c2256c52d6903c198]
+## 9. Health service body status[^c-09de18a8cac0ee3c2256c52d6903c198]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-09de18a8cac0ee3c2256c52d6903c198]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2026/37/regulation/9) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-09de18a8cac0ee3c2256c52d6903c198]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2026/37/regulation/9) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00026]: Footnote: As amended by the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), Schedule 5(3), paragraph 87; the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), Schedule 21, paragraph 13(a) to (f) and Schedule 17, paragraph 11; the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), Schedule 1, paragraph 1(1), Schedule 4, paragraph 140; the Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 ([S.I. 2022/1174](https://www.legislation.gov.uk/uksi/2022/1174)), Part 4, article 24(2)(a); the Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 ([S.I. 2022/1174](https://www.legislation.gov.uk/uksi/2022/1174)), Part 4, article 24(2)(b) and (c); and the Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 ([S.I. 2023/98](https://www.legislation.gov.uk/uksi/2023/98)), Schedule 1(1), paragraph 11.

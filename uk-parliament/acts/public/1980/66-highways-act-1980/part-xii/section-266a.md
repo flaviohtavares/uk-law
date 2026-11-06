@@ -56,7 +56,7 @@ and the property and liabilities so transferred vest, by virtue of this section,
 (8) Paragraphs 1 and 3 to 8 of Schedule 21 to this Act shall have effect for the purpose of providing for transitional matters arising where a highway or proposed highway becomes, or ceases to be, a GLA road as it applies where a highway becomes, or ceases to be, a trunk road; but in having such effect those paragraphs shall be treated as if—
 
 - (a) for the references to a trunk road there were substituted references to a GLA road, and
-- (b) for the references to the Minister or a strategic highways company[^key-9747cecd241c7d86214f1893cbaf53ab] there were substituted references to the new highway authority (within the meaning of this section).
+- (b) for the references to the Minister or a strategic highways company[^c-9747cecd241c7d86214f1893cbaf53ab] there were substituted references to the new highway authority (within the meaning of this section).
 
 (9) For the purposes of this section—
 
@@ -70,4 +70,4 @@ and the property and liabilities so transferred vest, by virtue of this section,
 
 [^c13431101]: Textual amendment: S. 266A inserted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s.264](https://www.legislation.gov.uk/ukpga/1999/29/section/264) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-9747cecd241c7d86214f1893cbaf53ab]: Textual amendment: Words in [s. 266A(8)(b)](https://www.legislation.gov.uk/ukpga/1980/66/section/266A/8/b) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/54); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-9747cecd241c7d86214f1893cbaf53ab]: Textual amendment: Words in [s. 266A(8)(b)](https://www.legislation.gov.uk/ukpga/1980/66/section/266A/8/b) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/54); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

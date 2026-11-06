@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Tax bands and tax rates applicable when regulations cease to have effect[^key-a2683f50853b10e71289bcd3a3a1719c]
+## 26. Tax bands and tax rates applicable when regulations cease to have effect[^c-a2683f50853b10e71289bcd3a3a1719c]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ the tax bands and tax rates applicable to the transaction are the bands and rate
 
 ## Annotations
 
-[^key-a2683f50853b10e71289bcd3a3a1719c]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2017/1/section/26) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-a2683f50853b10e71289bcd3a3a1719c]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2017/1/section/26) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

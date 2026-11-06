@@ -32,10 +32,10 @@ summary: ''
 
 of 24 June 1996 approving the plan for the control and eradication of bovine spongiform encephalopathy in the United Kingdom (Text with EEA relevance) (revoked)
 
-[^key-be50d41811d719b2a43d3a746fbe6309]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be50d41811d719b2a43d3a746fbe6309]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-be50d41811d719b2a43d3a746fbe6309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-be50d41811d719b2a43d3a746fbe6309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be50d41811d719b2a43d3a746fbe6309]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-be50d41811d719b2a43d3a746fbe6309]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

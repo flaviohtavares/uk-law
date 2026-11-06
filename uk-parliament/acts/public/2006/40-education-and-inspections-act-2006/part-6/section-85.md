@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Further amendments relating to travel to schools etc[^key-db3d092cef45d3114497ba8f0bf37d4a][^key-db0f2cad2ec434ff09eee98b7d388208]
+## 85. Further amendments relating to travel to schools etc[^c-db3d092cef45d3114497ba8f0bf37d4a][^c-db0f2cad2ec434ff09eee98b7d388208]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 10 contains further amendments relating to travel to schools and other 
 
 ## Annotations
 
-[^key-db3d092cef45d3114497ba8f0bf37d4a]: Commencement: S. 85 in force at 1.4.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(q)](https://www.legislation.gov.uk/uksi/2007/935/article/5/q)
+[^c-db3d092cef45d3114497ba8f0bf37d4a]: Commencement: S. 85 in force at 1.4.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(q)](https://www.legislation.gov.uk/uksi/2007/935/article/5/q)
 
-[^key-db0f2cad2ec434ff09eee98b7d388208]: Commencement: S. 85 in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(f)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/f)
+[^c-db0f2cad2ec434ff09eee98b7d388208]: Commencement: S. 85 in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(f)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/f)

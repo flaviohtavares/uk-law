@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Continuing duty of investigating agency: summary cases[^key-bbd6f3072557d9224d4ae18787027d4f]
+## 120. Continuing duty of investigating agency: summary cases[^c-bbd6f3072557d9224d4ae18787027d4f]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbd6f3072557d9224d4ae18787027d4f]: Commencement: S. 120 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )
+[^c-bbd6f3072557d9224d4ae18787027d4f]: Commencement: S. 120 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )

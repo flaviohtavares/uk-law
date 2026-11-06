@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Offences: registration[^key-29352c30ed192090b0a8f323102ed427]
+## 17. Offences: registration[^c-29352c30ed192090b0a8f323102ed427]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29352c30ed192090b0a8f323102ed427]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/9/section/17) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-29352c30ed192090b0a8f323102ed427]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/9/section/17) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)

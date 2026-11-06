@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Condition about period within which works must start[^key-f4efd6d7fd87254f2b1a4665dcad88ad][^key-255c408e3615d7c51fb1c615b365815c]
+## 19. Condition about period within which works must start[^c-f4efd6d7fd87254f2b1a4665dcad88ad][^c-255c408e3615d7c51fb1c615b365815c]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4efd6d7fd87254f2b1a4665dcad88ad]: Commencement: S. 19 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-f4efd6d7fd87254f2b1a4665dcad88ad]: Commencement: S. 19 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-255c408e3615d7c51fb1c615b365815c]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2023/3/section/19) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-255c408e3615d7c51fb1c615b365815c]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2023/3/section/19) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

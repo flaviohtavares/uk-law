@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 110. Short title[^key-a2da803d49bd925f1506b2dd2063f99e]
+## 110. Short title[^c-a2da803d49bd925f1506b2dd2063f99e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Public Authorities (Fraud, Error and Recovery) Act 
 
 ## Annotations
 
-[^key-a2da803d49bd925f1506b2dd2063f99e]: Commencement: S. 110 in force at Royal Assent, see [s. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
+[^c-a2da803d49bd925f1506b2dd2063f99e]: Commencement: S. 110 in force at Royal Assent, see [s. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)

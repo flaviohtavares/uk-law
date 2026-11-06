@@ -57,7 +57,7 @@ In accordance with section 58(4) of that Act a draft of this Order was—
 
 Accordingly, Her Majesty, by and with the advice of Her Privy Council, makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-c8d6e1b5f41c94213f2f7d23ba0822d6]
+## 1. Citation, commencement and interpretation[^c-c8d6e1b5f41c94213f2f7d23ba0822d6]
 
 (1) This Order may be cited as the Welsh Ministers (Transfer of Functions) (No. 2) Order 2009.
 
@@ -74,7 +74,7 @@ Accordingly, Her Majesty, by and with the advice of Her Privy Council, makes the
   - (c) regulation 9 of the 2007 Regulations (construction of Crown and statutory undertakers’ buildings);
 - “excepted energy building” is defined by the Schedule.
 
-## 2. Transfer of functions[^key-4931da4323cb5ab591ad22b5ea0b307e]
+## 2. Transfer of functions[^c-4931da4323cb5ab591ad22b5ea0b307e]
 
 The following functions are, so far as exercisable in relation to Wales, transferred to the Welsh Ministers—
 
@@ -83,13 +83,13 @@ The following functions are, so far as exercisable in relation to Wales, transfe
   - (i) section 6 of the Sustainable and Secure Buildings Act 2004[^f00007] (Secretary of State to report on building stock); and
   - (ii) section 14 of the Climate Change and Sustainable Energy Act 2006[^f00008] (report regarding compliance).
 
-**3.**[^key-282609cb0f9f6addbad1640175c4468c] Article 2(a) does not transfer—
+**3.**[^c-282609cb0f9f6addbad1640175c4468c] Article 2(a) does not transfer—
 
 - (a) any functions so far as they are exercisable in relation to an excepted energy building;
 - (b) functions under section 44(5) of the 1984 Act (functions exercisable by the Secretary of State as a Crown authority); or
 - (c) functions under section 42(7) or 134(1) of the 1984 Act (power of the Secretary of State to appoint a day for a modification to cease to have effect or for a provision to come into force).
 
-**4.**[^key-73f3bf825e4fd20341d6d39fbfee903c] (1) The transfer by article 2(a) of functions under Part 5A of the 2000 Regulations[^f00009] (energy performance of buildings) is subject to the following provisions.
+**4.**[^c-73f3bf825e4fd20341d6d39fbfee903c] (1) The transfer by article 2(a) of functions under Part 5A of the 2000 Regulations[^f00009] (energy performance of buildings) is subject to the following provisions.
 
 (2) Functions under regulation 17A (methodology of calculation and expression of energy performance) are transferred only so far as they are exercisable for the purposes of—
 
@@ -98,7 +98,7 @@ The following functions are, so far as exercisable in relation to Wales, transfe
 
 (3) Functions under regulation 17F (energy assessors) are transferred only so far as they are exercisable in relation to the functions of energy assessors under, or in relation to, the construction EPC provisions.
 
-## 5. Powers to confer or impose functions[^key-71060039608b17c419f3b58ad87b29f6]
+## 5. Powers to confer or impose functions[^c-71060039608b17c419f3b58ad87b29f6]
 
 (1) Any pre-commencement power to confer or impose a relevant function on the Secretary of State shall have effect as a power to confer or impose the function on the Welsh Ministers, the First Minister or the Counsel General.
 
@@ -107,7 +107,7 @@ The following functions are, so far as exercisable in relation to Wales, transfe
 - (a) a pre-commencement power is a power which was exercisable immediately before 31st December 2011; and
 - (b) a relevant function is a function which, had it been a function of the Secretary of State immediately before 31st December 2011, would have been transferred to the Welsh Ministers by article 2.
 
-## 6. Modifications to the 2007 Regulations—disclosure of documents and data[^key-3138ef8a2fd5c5274ec90dee77e190f5]
+## 6. Modifications to the 2007 Regulations—disclosure of documents and data[^c-3138ef8a2fd5c5274ec90dee77e190f5]
 
 (1) The 2007 Regulations are modified as follows in relation to—
 
@@ -124,19 +124,19 @@ The following functions are, so far as exercisable in relation to Wales, transfe
 - (a) relating to a building in Wales other than an excepted energy building; and
 - (b) prepared for the purposes of the construction EPC provisions.
 
-## 7. Transfer of property, rights and liabilities—exception[^key-59a819d78643b30e53c2aff8dda2781f]
+## 7. Transfer of property, rights and liabilities—exception[^c-59a819d78643b30e53c2aff8dda2781f]
 
 Paragraph 1(1) of Schedule 4 to the Government of Wales Act 2006 (transfer of property, rights and liabilities connected with transferred functions) does not apply to any documentary or electronic records to which the Secretary of State is entitled at the coming into force of this Order in connection with any function exercisable by the Secretary of State which is transferred by this Order.
 
-## 8. Amendments to section 14 of the 1984 Act[^key-a1251bc7dc8e56bbe172ddc56938ff2a]
+## 8. Amendments to section 14 of the 1984 Act[^c-a1251bc7dc8e56bbe172ddc56938ff2a]
 
 (1) Section 14 of the 1984 Act (consultation with Building Regulations Advisory Committee and other bodies) is amended as follows.
 
-(2)[^key-632effd7c03b6d4fb61d73034fa37473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-632effd7c03b6d4fb61d73034fa37473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e4c6b376529b1efcf5b1456a1d7be49b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e4c6b376529b1efcf5b1456a1d7be49b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-02f48b93ac7d0235a4170fc3fca25f7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-02f48b93ac7d0235a4170fc3fca25f7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) After subsection (4) insert—
 
@@ -154,15 +154,15 @@ Paragraph 1(1) of Schedule 4 to the Government of Wales Act 2006 (transfer of pr
 
 .
 
-## 9. Transitional provision for members of the Building Regulations Advisory Committee[^key-86fdb0c7d97a26c7562b7c00f1a0319f]
+## 9. Transitional provision for members of the Building Regulations Advisory Committee[^c-86fdb0c7d97a26c7562b7c00f1a0319f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment to the Parliamentary Commissioner Act 1967[^key-d44b630f16732363fe4c0639321c79dc]
+## 10. Amendment to the Parliamentary Commissioner Act 1967[^c-d44b630f16732363fe4c0639321c79dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment to the Race Relations Act 1976[^key-5abfda043bea2c90f70feaec39e1ab45]
+## 11. Amendment to the Race Relations Act 1976[^c-5abfda043bea2c90f70feaec39e1ab45]
 
 (1) The Race Relations Act 1976[^f00014] is amended as follows.
 
@@ -172,13 +172,13 @@ Paragraph 1(1) of Schedule 4 to the Government of Wales Act 2006 (transfer of pr
 >
 > The Building Regulations Advisory Committee for Wales.
 
-## 12. Amendment to the Public Services Ombudsman (Wales) Act 2005[^key-739a543283dc54d01d83803efc83f735]
+## 12. Amendment to the Public Services Ombudsman (Wales) Act 2005[^c-739a543283dc54d01d83803efc83f735]
 
 (1) The Public Services Ombudsman (Wales) Act 2005[^f00016] is amended as follows.
 
 (2) In Schedule 3 (listed authorities), after the sub-heading “Miscellaneous” insert “The Building Regulations Advisory Committee for Wales.”.
 
-## 13. Amendment to the Race Relations Act 1976 (Statutory Duties) Order 2001[^key-5ff8a16f748b570f4a915b6c3dfb6376]
+## 13. Amendment to the Race Relations Act 1976 (Statutory Duties) Order 2001[^c-5ff8a16f748b570f4a915b6c3dfb6376]
 
 (1) The Race Relations Act 1976 (Statutory Duties) Order 2001[^f00017] is amended as follows.
 
@@ -196,9 +196,9 @@ Clerk of the Privy Council
 
 Article 1 (3)
 
-**1.**[^key-47f81eb288945d0076a6730edfa60b79] An excepted energy building is a building that satisfies the first and second conditions set out below.
+**1.**[^c-47f81eb288945d0076a6730edfa60b79] An excepted energy building is a building that satisfies the first and second conditions set out below.
 
-### 2. First condition[^key-c9b8ec87fc8c818ab219fc22599884ff]
+### 2. First condition[^c-c9b8ec87fc8c818ab219fc22599884ff]
 
 The first condition is that the building falls within one of the following descriptions—
 
@@ -209,7 +209,7 @@ The first condition is that the building falls within one of the following descr
 - (e) a pipe-line whose construction requires or required authorisation under section 1(1) of the Pipe-lines Act 1962[^f00019] or development consent; or
 - (f) a facility for the storage of gas underground in natural porous strata by a gas transporter or surface works or pipes associated with such a facility.
 
-### 3. Second condition[^key-0acf22448c88a949583a259ac7e6f524]
+### 3. Second condition[^c-0acf22448c88a949583a259ac7e6f524]
 
 The second condition is that the building is not used, or not to be used, entirely as one or more of the following—
 
@@ -220,7 +220,7 @@ The second condition is that the building is not used, or not to be used, entire
 - (e) a canteen; or
 - (f) an outbuilding ancillary to a building used, or to be used, entirely for one or more of the purposes set out in sub-paragraphs (a) to (e).
 
-### 4. Interpretation[^key-7e037aad2dfcf8bdd491fb2b8b59cd33]
+### 4. Interpretation[^c-7e037aad2dfcf8bdd491fb2b8b59cd33]
 
 In this Schedule—
 
@@ -280,7 +280,7 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-c8d6e1b5f41c94213f2f7d23ba0822d6]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/3019/article/1) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-c8d6e1b5f41c94213f2f7d23ba0822d6]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/3019/article/1) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
 [^f00002]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Amendments relevant to this Order include those made by the Building Act 1984 (Appointed Day and Repeal) Order 1985 ([S.I. 1985/1603](https://www.legislation.gov.uk/uksi/1985/1603)), article 2; the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), section 32; the Deregulation (Building) (Initial Notices and Final Certificates) Order 1996 ([S.I. 1996/1905](https://www.legislation.gov.uk/uksi/1996/1905)), articles 2 to 4; the Sustainable and Secure Buildings Act [2004 (c. 22)](https://www.legislation.gov.uk/ukpga/2004/22) sections 1 to 5 and 7 to 9 (some of which are not yet in force); and the Climate Change and Sustainable Energy Act [2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19), sections 11 and 13.
 
@@ -290,7 +290,7 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00005]: Footnote: [S.I. 2000/2532](https://www.legislation.gov.uk/uksi/2000/2532). There have been numerous amending instruments. Regulation 12 was substituted by the 2007 Regulations, regulation 8 and Schedule 2, paragraph 2; and amended by the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) (Amendment No. 2) Regulations 2008 ([S.I. 2008/2363](https://www.legislation.gov.uk/uksi/2008/2363)), regulation 4(1) and (2).
 
-[^key-4931da4323cb5ab591ad22b5ea0b307e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/3019/article/2) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-4931da4323cb5ab591ad22b5ea0b307e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/3019/article/2) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
 [^f00006]: Footnote: Certain functions of a Minister of the Crown under the 1984 Act were transferred to the National Assembly for Wales constituted by the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2 and Schedule 1, as varied by the National Assembly for Wales (Transfer of Functions) Order 2000 ([S.I. 2000/253](https://www.legislation.gov.uk/uksi/2000/253)), article 4 and Schedule 3; and have been transferred to the Welsh Ministers by the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), Schedule 11, paragraph 30.
 
@@ -298,57 +298,57 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00008]: Footnote: [2006 c. 19](https://www.legislation.gov.uk/ukpga/2006/19).
 
-[^key-282609cb0f9f6addbad1640175c4468c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/3019/article/3) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-282609cb0f9f6addbad1640175c4468c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/3019/article/3) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
-[^key-73f3bf825e4fd20341d6d39fbfee903c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/3019/article/4) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-73f3bf825e4fd20341d6d39fbfee903c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/3019/article/4) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
 [^f00009]: Footnote: Part 5A, comprising regulations 17A to 17E, was inserted by the Building and Approved Inspectors (Amendment) Regulations 2006 ([S.I. 2006/652](https://www.legislation.gov.uk/uksi/2006/652)), regulations 2 and 15. New regulations 17A and 17E to 17J were substituted for regulations 17A and 17E by the 2007 Regulations, regulation 8 and Schedule 2, paragraph 1(1), (7) and (8). There have been other amendments to regulation 17E. The provisions inserting and amending Part 5A of the 2000 Regulations, which included regulation 8 of the 2007 Regulations and Schedule 2 to those Regulations, were made in the exercise of powers conferred by the 1984 Act. The provisions of the 2007 Regulations other than regulation 8 and Schedule 2, and amendments to those provisions, were made under section 2(2) of the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68). Functions conferred by those other provisions of the 2007 Regulations are not transferred by this Order (but see article 6 for modifications to the 2007 Regulations).
 
-[^key-71060039608b17c419f3b58ad87b29f6]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/3019/article/5) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-71060039608b17c419f3b58ad87b29f6]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/3019/article/5) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
-[^key-3138ef8a2fd5c5274ec90dee77e190f5]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/3019/article/6) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-3138ef8a2fd5c5274ec90dee77e190f5]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/3019/article/6) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
 [^f00010]: Footnote: Substituted by regulation 2(4) of the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) (Amendment) Regulations 2009 ([S.I. 2009/1900](https://www.legislation.gov.uk/uksi/2009/1900)).
 
-[^key-59a819d78643b30e53c2aff8dda2781f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/3019/article/7) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-59a819d78643b30e53c2aff8dda2781f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/3019/article/7) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
-[^key-a1251bc7dc8e56bbe172ddc56938ff2a]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/3019/article/8) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-a1251bc7dc8e56bbe172ddc56938ff2a]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/3019/article/8) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
-[^key-632effd7c03b6d4fb61d73034fa37473]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/8/2) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/229/regulation/2/2)
+[^c-632effd7c03b6d4fb61d73034fa37473]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/8/2) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/229/regulation/2/2)
 
-[^key-e4c6b376529b1efcf5b1456a1d7be49b]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/uksi/2009/3019/article/8/3) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/229/regulation/2/2)
+[^c-e4c6b376529b1efcf5b1456a1d7be49b]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/uksi/2009/3019/article/8/3) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/229/regulation/2/2)
 
-[^key-02f48b93ac7d0235a4170fc3fca25f7b]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2009/3019/article/8/4) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/229/regulation/2/2)
+[^c-02f48b93ac7d0235a4170fc3fca25f7b]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2009/3019/article/8/4) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/229/regulation/2/2)
 
-[^key-86fdb0c7d97a26c7562b7c00f1a0319f]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2009/3019/article/9) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/229/regulation/2/3)
+[^c-86fdb0c7d97a26c7562b7c00f1a0319f]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2009/3019/article/9) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/229/regulation/2/3)
 
-[^key-d44b630f16732363fe4c0639321c79dc]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2009/3019/article/10) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/229/regulation/2/4)
+[^c-d44b630f16732363fe4c0639321c79dc]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2009/3019/article/10) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/229/regulation/2/4)
 
-[^key-5abfda043bea2c90f70feaec39e1ab45]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/3019/article/11) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-5abfda043bea2c90f70feaec39e1ab45]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/3019/article/11) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
 [^f00014]: Footnote: [1976 c. 74](https://www.legislation.gov.uk/ukpga/1976/74).
 
 [^f00015]: Footnote: Schedule 1A was inserted by the Race Relations (Amendment) Act [2000 (c. 34)](https://www.legislation.gov.uk/ukpga/2000/34), section 2(2) and Schedule 1. Schedule 1A was amended, and Part 2 of that Schedule was inserted, by the Race Relations Act 1976 (General Statutory Duty) Order 2001 ([S.I. 2001/3457](https://www.legislation.gov.uk/uksi/2001/3457)). There have been other amendments to Schedule 1A which are not relevant to this Order.
 
-[^key-739a543283dc54d01d83803efc83f735]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2009/3019/article/12) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-739a543283dc54d01d83803efc83f735]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2009/3019/article/12) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
 [^f00016]: Footnote: [2005 c. 10](https://www.legislation.gov.uk/ukpga/2005/10). There have been amendments which are not relevant to this Order.
 
-[^key-5ff8a16f748b570f4a915b6c3dfb6376]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2009/3019/article/13) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-5ff8a16f748b570f4a915b6c3dfb6376]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2009/3019/article/13) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
 [^f00017]: Footnote: [S.I. 2001/3458](https://www.legislation.gov.uk/uksi/2001/3458). There have been amendments which are not relevant to this Order.
 
-[^key-47f81eb288945d0076a6730edfa60b79]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3019/schedule/paragraph/1) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-47f81eb288945d0076a6730edfa60b79]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3019/schedule/paragraph/1) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
-[^key-c9b8ec87fc8c818ab219fc22599884ff]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3019/schedule/paragraph/2) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-c9b8ec87fc8c818ab219fc22599884ff]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3019/schedule/paragraph/2) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
 [^f00018]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Part 1 includes interpretation provisions relevant to words and expressions used in the Schedule to this Order: see section 64(1) for the meaning of “electric line” and “generating station”, and section 36(9) for the meaning of “extension”. There have been extensive amendments to Part 1: see in particular the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), Part 4; the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), Part 3; and the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), section 36 and Schedule 2, paragraphs 31 to 33.
 
 [^f00019]: Footnote: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58). See section 65 for the meaning of “pipe-line” and section 66 for the meaning of “construction”. There have been extensive amendments to the provisions about control of construction of pipe-lines: see in particular the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), section 36 and Schedule 2, paragraphs 5 and 6.
 
-[^key-0acf22448c88a949583a259ac7e6f524]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/3019/schedule/paragraph/3) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-0acf22448c88a949583a259ac7e6f524]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/3019/schedule/paragraph/3) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
-[^key-7e037aad2dfcf8bdd491fb2b8b59cd33]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/3019/schedule/paragraph/4) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
+[^c-7e037aad2dfcf8bdd491fb2b8b59cd33]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/3019/schedule/paragraph/4) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/3019/article/1/2)
 
 [^f00020]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 90 was amended by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 31 and Schedule 6, paragraph 12; the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), section 16(1); and the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 78 and Schedule 10, paragraph 32(4). For the meaning of “ancillary development” in relation to development consisting of the extension of a generating station, see section 90(5).
 

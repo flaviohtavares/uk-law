@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Power to issue bulk equipment interference warrants[^key-ae1a90cd0d1fceb6891a7795b6d7490e][^key-31640744da03f44f370504e2a627282a]
+## 178. Power to issue bulk equipment interference warrants[^c-ae1a90cd0d1fceb6891a7795b6d7490e][^c-31640744da03f44f370504e2a627282a]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ For the meaning of “head of an intelligence service”, see section 263.
 
 ## Annotations
 
-[^key-ae1a90cd0d1fceb6891a7795b6d7490e]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2016/25/section/178) in force at 31.5.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(m)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/m)
+[^c-ae1a90cd0d1fceb6891a7795b6d7490e]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2016/25/section/178) in force at 31.5.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(m)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/m)
 
-[^key-31640744da03f44f370504e2a627282a]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2016/25/section/178) in force at 27.6.2018 in so far as not already in force by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/b)
+[^c-31640744da03f44f370504e2a627282a]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2016/25/section/178) in force at 27.6.2018 in so far as not already in force by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34A. Power to require information etc for the purpose of monitoring[^key-c1dff7cb93a2aae5d449b8dd4cf342bc]
+## 34A. Power to require information etc for the purpose of monitoring[^c-c1dff7cb93a2aae5d449b8dd4cf342bc]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1dff7cb93a2aae5d449b8dd4cf342bc]: Textual amendment: S. 34A inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [30(4)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/30/4)
+[^c-c1dff7cb93a2aae5d449b8dd4cf342bc]: Textual amendment: S. 34A inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [30(4)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/30/4)

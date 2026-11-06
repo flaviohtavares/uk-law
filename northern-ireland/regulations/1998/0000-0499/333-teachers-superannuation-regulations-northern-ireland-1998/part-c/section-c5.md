@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C5. Contributions for past added years under earlier provisions[^key-e28123b69994b09ad62ff3929eabe9f0]
+## C5. Contributions for past added years under earlier provisions[^c-e28123b69994b09ad62ff3929eabe9f0]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e28123b69994b09ad62ff3929eabe9f0]: Commencement: Reg. C5 in operation at 2.11.1998, see reg. A1
+[^c-e28123b69994b09ad62ff3929eabe9f0]: Commencement: Reg. C5 in operation at 2.11.1998, see reg. A1

@@ -31,7 +31,7 @@ summary: ''
 
 INDUSTRIAL RELATIONS
 
-Trade Union Elections and Ballots (Independent Scrutineer Qualifications) (Amendment) Order (Northern Ireland) 2003 (revoked)[^key-1ddc69ac6b4adbf78f364fb063ece996]
+Trade Union Elections and Ballots (Independent Scrutineer Qualifications) (Amendment) Order (Northern Ireland) 2003 (revoked)[^c-1ddc69ac6b4adbf78f364fb063ece996]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 3rd August 2003
 
-[^key-1ddc69ac6b4adbf78f364fb063ece996]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ddc69ac6b4adbf78f364fb063ece996]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, interpretation and commencement[^key-1ddc69ac6b4adbf78f364fb063ece996]
+## 1. Citation, interpretation and commencement[^c-1ddc69ac6b4adbf78f364fb063ece996]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the principal Order[^key-1ddc69ac6b4adbf78f364fb063ece996]
+## 2. Amendments to the principal Order[^c-1ddc69ac6b4adbf78f364fb063ece996]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ddc69ac6b4adbf78f364fb063ece996]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ddc69ac6b4adbf78f364fb063ece996]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ddc69ac6b4adbf78f364fb063ece996]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ddc69ac6b4adbf78f364fb063ece996]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ddc69ac6b4adbf78f364fb063ece996]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/331) revoked (6.4.2010) by [The Trade Union Ballots and Elections (Independent Scrutineer Qualifications) Order (Northern Ireland) 2010 (S.R. 2010/78)](https://www.legislation.gov.uk/nisr/2010/78), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1), [8](https://www.legislation.gov.uk/nisr/2010/78/article/8)
+[^c-1ddc69ac6b4adbf78f364fb063ece996]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/331) revoked (6.4.2010) by [The Trade Union Ballots and Elections (Independent Scrutineer Qualifications) Order (Northern Ireland) 2010 (S.R. 2010/78)](https://www.legislation.gov.uk/nisr/2010/78), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2010/78/article/1/1), [8](https://www.legislation.gov.uk/nisr/2010/78/article/8)

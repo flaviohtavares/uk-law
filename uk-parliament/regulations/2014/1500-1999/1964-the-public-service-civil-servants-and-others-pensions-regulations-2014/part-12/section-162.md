@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Late payment of retirement index adjustment[^key-8cd0eb3c0a544ae96d0e760d62bb759f]
+## 162. Late payment of retirement index adjustment[^c-8cd0eb3c0a544ae96d0e760d62bb759f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires any part of a pension attributable to a re
 
 ## Annotations
 
-[^key-8cd0eb3c0a544ae96d0e760d62bb759f]: Commencement: [Reg. 162](https://www.legislation.gov.uk/uksi/2014/1964/regulation/162) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-8cd0eb3c0a544ae96d0e760d62bb759f]: Commencement: [Reg. 162](https://www.legislation.gov.uk/uksi/2014/1964/regulation/162) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

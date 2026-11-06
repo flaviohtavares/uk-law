@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Returning officers[^key-98df7b52940b1363f4bff5baecc15d78][^key-51f1b4c3e243dac2de6d0217417435a6]
+## 9. Returning officers[^c-98df7b52940b1363f4bff5baecc15d78][^c-51f1b4c3e243dac2de6d0217417435a6]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-98df7b52940b1363f4bff5baecc15d78]: Commencement: S. 9 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-98df7b52940b1363f4bff5baecc15d78]: Commencement: S. 9 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-51f1b4c3e243dac2de6d0217417435a6]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/4/section/9) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-51f1b4c3e243dac2de6d0217417435a6]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/4/section/9) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

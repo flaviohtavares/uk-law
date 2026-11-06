@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2A. Interpretation: best available techniques (“BAT”)[^key-5afc431a2dacb961a0be4eceee0add24]
+## 2A. Interpretation: best available techniques (“BAT”)[^c-5afc431a2dacb961a0be4eceee0add24]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5afc431a2dacb961a0be4eceee0add24]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/ssi/2018/219/regulation/2A) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2025/165/regulation/5) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-5afc431a2dacb961a0be4eceee0add24]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/ssi/2018/219/regulation/2A) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2025/165/regulation/5) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

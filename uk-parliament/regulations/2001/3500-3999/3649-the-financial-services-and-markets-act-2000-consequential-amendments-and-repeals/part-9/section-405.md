@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 405. Interpretation of the 1990 Regulations[^key-9a16c3651670e02c8bc32f80033b49f5]
+## 405. Interpretation of the 1990 Regulations[^c-9a16c3651670e02c8bc32f80033b49f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a16c3651670e02c8bc32f80033b49f5]: Commencement: Art. 405 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9a16c3651670e02c8bc32f80033b49f5]: Commencement: Art. 405 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00293]: Footnote: The definition of 'relevant lender' was inserted by [S.I. 1995/1982](https://www.legislation.gov.uk/uksi/1995/1982), regulation 12(a).

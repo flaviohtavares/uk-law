@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A licensed office shall not be opened or kept open for the transaction of business at any time on any Christmas Day[^key-6e85cedc615308a137f8e42c99f21f70] or at such other times, if any, as may be prescribed by regulations.
+(1) A licensed office shall not be opened or kept open for the transaction of business at any time on any Christmas Day[^c-6e85cedc615308a137f8e42c99f21f70] or at such other times, if any, as may be prescribed by regulations.
 
 (2) If paragraph (1) is contravened the licensed bookmaker and any servant or agent of his by whom the contravention was committed shall be guilty of an offence.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e85cedc615308a137f8e42c99f21f70]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/nisi/1985/1204/article/31/1) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 2](https://www.legislation.gov.uk/nia/2022/14/section/2), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-6e85cedc615308a137f8e42c99f21f70]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/nisi/1985/1204/article/31/1) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 2](https://www.legislation.gov.uk/nia/2022/14/section/2), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

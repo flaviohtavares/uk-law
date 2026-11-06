@@ -43,11 +43,11 @@ An application has been made to the Secretary of State in accordance with the In
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-b192bdd72a15b9879ca1412caaa0d41a]
+### 1. Citation and commencement[^c-b192bdd72a15b9879ca1412caaa0d41a]
 
 This Order may be cited as the White Moss Landfill Order 2015 and comes into force on 9th June 2015.
 
-### 2. Interpretation[^key-37218f3e14283489a7647825238e3273]
+### 2. Interpretation[^c-37218f3e14283489a7647825238e3273]
 
 (1) In this Order—
 
@@ -86,7 +86,7 @@ This Order may be cited as the White Moss Landfill Order 2015 and comes into for
 
 ## PART 2 — PRINCIPAL POWERS
 
-### 3. Development consent etc. granted by the Order[^key-af45e66d35894475333f7cd3458290c5]
+### 3. Development consent etc. granted by the Order[^c-af45e66d35894475333f7cd3458290c5]
 
 Subject to the provisions of this Order and to the requirements in Schedule 2 attached to this Order the undertaker is granted—
 
@@ -96,15 +96,15 @@ Subject to the provisions of this Order and to the requirements in Schedule 2 at
 
 to be carried out within the Order limits.
 
-### 4. Maintenance of authorised project[^key-fe03d330eeb97d070c72419342b3aedc]
+### 4. Maintenance of authorised project[^c-fe03d330eeb97d070c72419342b3aedc]
 
 The undertaker may at any time maintain the authorised project, except to the extent that this Order or an agreement made under this Order, provides otherwise.
 
-### 5. Benefit of Order[^key-b06be8c81d4ca159933c4112a27bab91]
+### 5. Benefit of Order[^c-b06be8c81d4ca159933c4112a27bab91]
 
 The provisions of this Order have effect solely for the benefit of the undertaker (save in circumstances where the benefit of the Order has been transferred to a relevant third party in accordance with the terms of article 6 (Consent to transfer benefit of Order), in which case the benefit extends to that third party).
 
-### 6. Consent to transfer benefit of Order[^key-a443ea9be0c974d24e6c38f00b7c055c]
+### 6. Consent to transfer benefit of Order[^c-a443ea9be0c974d24e6c38f00b7c055c]
 
 (1) The undertaker may, with the consent of the Secretary of State—
 
@@ -115,7 +115,7 @@ The provisions of this Order have effect solely for the benefit of the undertake
 
 (3) The exercise by a person of any benefits or rights conferred in accordance with any transfer or grant under paragraph (1) is subject to the same restrictions, liabilities and obligations as would apply under this Order if those benefits or rights were exercised by the undertaker.
 
-### 7. Procedure in relation to approvals etc. under requirements[^key-71048899830559281684cf74d76c7368]
+### 7. Procedure in relation to approvals etc. under requirements[^c-71048899830559281684cf74d76c7368]
 
 (1) Where an application is made to the county planning authority for any consent, agreement or approval required by a requirement, the following provisions apply, so far as they relate to a consent, agreement or approval of a local planning authority required by a condition imposed on a grant of planning permission, as if the requirement was a condition imposed on the grant of planning permission—
 
@@ -125,13 +125,13 @@ The provisions of this Order have effect solely for the benefit of the undertake
 
 (2) For the purposes of paragraph (1), a provision relates to a consent, agreement or approval of a local planning authority required by a condition imposed on a grant of planning permission in so far as it makes provision in relation to an application for such a consent, agreement or approval, or the grant or refusal of such an application, or a failure to give notice of a decision on such an application.
 
-### 8. Power to deviate[^key-c05bf37447d85a2228cdd2512f9cdff9]
+### 8. Power to deviate[^c-c05bf37447d85a2228cdd2512f9cdff9]
 
 The undertaker may deviate from the lines or situations shown on the works plan and the elevation plans to the extent of the limits of deviation shown on those plans.
 
 ## PART 3 — SUPPLEMENTAL POWERS
 
-### 9. Discharge of water[^key-f5810ecea082523536af37e730127d38]
+### 9. Discharge of water[^c-f5810ecea082523536af37e730127d38]
 
 (1) The undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the carrying out or maintenance of the authorised project and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
 
@@ -148,14 +148,14 @@ The undertaker may deviate from the lines or situations shown on the works plan 
 
 (6) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) This article does not authorise the entry into controlled waters of any matter whose entry or discharge into controlled waters is prohibited by Regulation 12 of the Environmental Permitting (England and Wales) Regulations 2016[^key-0d98cefff347207e4b788375d96fdd74].
+(7) This article does not authorise the entry into controlled waters of any matter whose entry or discharge into controlled waters is prohibited by Regulation 12 of the Environmental Permitting (England and Wales) Regulations 2016[^c-0d98cefff347207e4b788375d96fdd74].
 
 (8) In this article—
 
 - (a) “public sewer or drain” means a sewer or drain which belongs to the Homes and Communities Agency, the Environment Agency, an internal drainage board, a joint planning board, a local authority, a sewerage undertaker; and
 - (b) other expressions, excluding watercourse, used both in this article and in the Water Resources Act 1991 have the same meaning as in that Act.
 
-### 10. Authority to survey and investigate the land[^key-447fe3ec04dfd6ad10043f371cd3d628]
+### 10. Authority to survey and investigate the land[^c-447fe3ec04dfd6ad10043f371cd3d628]
 
 (1) The undertaker may for the purposes of this Order enter on any land shown within the Order limits and—
 
@@ -180,7 +180,7 @@ but such consent is not to be unreasonably withheld.
 
 (5) The undertaker must compensate the owners and occupiers of the land for any loss or damage arising by reason of the exercise of the authority conferred by this article, such compensation to be determined, in case of dispute, under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
 
-### 11. Felling or lopping of trees[^key-2d4477a80a7886190285b6ed18948882]
+### 11. Felling or lopping of trees[^c-2d4477a80a7886190285b6ed18948882]
 
 (1) The undertaker may fell or lop any tree or shrub near any part of the authorised project, or cut back its roots, if it reasonably believes it to be necessary to do so to prevent the tree or shrub—
 
@@ -193,7 +193,7 @@ but such consent is not to be unreasonably withheld.
 
 ## PART 4 — POWERS OF ACQUISITION
 
-### 12. Compulsory acquisition of land[^key-eee543d6c3ec33bd6240c2e81acd2f0b]
+### 12. Compulsory acquisition of land[^c-eee543d6c3ec33bd6240c2e81acd2f0b]
 
 (1) The undertaker may acquire compulsorily so much of the Order land as is required for the authorised project, or to facilitate or which is incidental to it, including the land set out in Part 1 to the book of reference.
 
@@ -201,7 +201,7 @@ but such consent is not to be unreasonably withheld.
 
 (3) Any person who suffers loss by the extinguishment or suspension of any private right of way under this article is entitled to compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.
 
-### 13. Compulsory acquisition of land – incorporation of the mineral code[^key-5081e8b5c255e9fc27d77ae1817e830b]
+### 13. Compulsory acquisition of land – incorporation of the mineral code[^c-5081e8b5c255e9fc27d77ae1817e830b]
 
 Parts 2 and 3 of Schedule 2 to the Acquisition of Land Act 1981 [^f00013] (minerals) are incorporated in this Order subject to the modifications that—
 
@@ -209,7 +209,7 @@ Parts 2 and 3 of Schedule 2 to the Acquisition of Land Act 1981 [^f00013] (miner
 
 (2) for “the acquiring authority” substitute “the undertaker”.
 
-### 14. Time limit for exercise of authority to acquire land compulsorily[^key-1f41008f1bbd6676b748289bd182c858]
+### 14. Time limit for exercise of authority to acquire land compulsorily[^c-1f41008f1bbd6676b748289bd182c858]
 
 After the end of the period of 5 years beginning on the day on which this Order is made—
 
@@ -217,13 +217,13 @@ After the end of the period of 5 years beginning on the day on which this Order 
 
 (2) no declaration is to be executed under section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 as applied by article 15 (application of the Compulsory Purchase (Vesting Declarations) Act 1981)[^f00014].
 
-### 15. Compulsory acquisition of rights[^key-93c69c446ec7c449eecbdc00cda95e3a]
+### 15. Compulsory acquisition of rights[^c-93c69c446ec7c449eecbdc00cda95e3a]
 
 (1) The undertaker may acquire compulsorily the existing rights described in Part 3 of the book of reference, and create and acquire compulsorily the new rights described in Part 1 of the book of reference.
 
 (2) Any person who suffers loss as a result of the extinguishment or suspension of any private right of way under this article is entitled to compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.
 
-### 16. Private rights of way[^key-ba5696d0be3f61d211e5f0b279935fd9]
+### 16. Private rights of way[^c-ba5696d0be3f61d211e5f0b279935fd9]
 
 (1) Subject to the provisions of this article, all private rights of way over land subject to compulsory acquisition under this Order are extinguished—
 
@@ -256,7 +256,7 @@ that any or all of those paragraphs are not to apply to any right of way specifi
 
 it is to be effective in respect of the persons so deriving title, whether the title was derived before or after the making of the agreement.
 
-### 17. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^key-63fa1fc941949a7f33e067da71250b62]
+### 17. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^c-63fa1fc941949a7f33e067da71250b62]
 
 (1) The Compulsory Purchase (Vesting Declarations) Act 1981[^f00015] applies as if this Order were a compulsory purchase order.
 
@@ -293,7 +293,7 @@ it is to be effective in respect of the persons so deriving title, whether the t
 
 ## PART 5 — MISCELLANEOUS
 
-### 18. Defence to proceedings in respect of statutory nuisance[^key-1ee12bd9fa811e902bee2aea66d920f2]
+### 18. Defence to proceedings in respect of statutory nuisance[^c-1ee12bd9fa811e902bee2aea66d920f2]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00016]) (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within paragraphs (a), (c), (d), (e), (fa), (fb), (g) or (ga) of section 79(1) of that Act no order may be made, and no fine may be imposed, under section 82(2) of that Act if—
 
@@ -306,7 +306,7 @@ it is to be effective in respect of the persons so deriving title, whether the t
 
 (2) Section 61(9) (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) of the Control of Pollution Act 1974 and section 65(8) of that Act (corresponding provision in relation to consent for registered noise level to be exceeded), is not to apply where the consent relates to the use of premises by the undertaker for the purposes of or in connection with the construction or maintenance of the authorised project.
 
-### 19. Application of landlord and tenant law[^key-cfdcac23569df257e5770420a286fec0]
+### 19. Application of landlord and tenant law[^c-cfdcac23569df257e5770420a286fec0]
 
 (1) This article applies to—
 
@@ -323,7 +323,7 @@ so far as any such agreement relates to the terms on which any land which is the
 - (b) confer or impose on any such party any right or obligation arising out of or connected with anything done or omitted on or in relation to land which is the subject of the lease, in addition to any such right or obligation provided for by the terms of the lease; or
 - (c) restrict the enforcement (whether by action for damages or otherwise) by any party to the lease of any obligation of any other party under the lease.
 
-### 20. Certification of plans etc.[^key-5025fb5744e0a0af904b5075fabc329f]
+### 20. Certification of plans etc.[^c-5025fb5744e0a0af904b5075fabc329f]
 
 (1) The undertaker must, as soon as practicable after the making of this Order, submit to the decision-maker copies of the following plans and documents—
 
@@ -346,7 +346,7 @@ for certification that they are true copies of the documents referred to in this
 
 (2) A plan or document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 21. Arbitration[^key-201fe60ec29e9dff154bec1895ce6fec]
+### 21. Arbitration[^c-201fe60ec29e9dff154bec1895ce6fec]
 
 Any difference under any provision of this Order, unless otherwise provided for, is to be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on application of either party (after giving notice in writing to the other) by the President of the Royal Town Planning Institute for the time being.
 
@@ -358,11 +358,11 @@ Department for Communities & Local Government
 
 19th May 2015
 
-## SCHEDULE 1 — AUTHORISED PROJECT[^key-c3fd29f2eca07b5c41ca612a0d8f4072]
+## SCHEDULE 1 — AUTHORISED PROJECT[^c-c3fd29f2eca07b5c41ca612a0d8f4072]
 
 Article 2
 
-[^key-c3fd29f2eca07b5c41ca612a0d8f4072]
+[^c-c3fd29f2eca07b5c41ca612a0d8f4072]
 
 A nationally significant infrastructure project as defined in Sections 14(1)(p) and 30 of the 2008 Act comprising:
 
@@ -538,7 +538,7 @@ Requirement for written approval and amendments to approved details
 
 Community Liaison Committee
 
-### 1. Interpretation[^key-2de057bc97fe9347b54ea3d40efa05e0]
+### 1. Interpretation[^c-2de057bc97fe9347b54ea3d40efa05e0]
 
 In this Schedule—
 
@@ -551,15 +551,15 @@ In this Schedule—
 - “restoration” means the process which will return the completed landfill or any completed phase of the landfill to a condition suitable for its proposed aftercare, and includes design, initial landscaping works and soil spreading;
 - “western landfill area” means the landfill void created as part of phases A, B, C and D as shown on the works plan.
 
-### 2. Time limits for commencement[^key-236a15da0de07f7e1fdf21b47088a164]
+### 2. Time limits for commencement[^c-236a15da0de07f7e1fdf21b47088a164]
 
 The authorised project must commence within 5 years of the date of this Order.
 
-### 3. Commencement[^key-a1a29fa8ad4fe0249ab6b6466577ebbe]
+### 3. Commencement[^c-a1a29fa8ad4fe0249ab6b6466577ebbe]
 
 Notice of commencement of the authorised project must be given to the county planning authority a minimum of 7 days before the date that the authorised project is commenced.
 
-### 4. Detailed approval[^key-007f63dd58142a731a2c80256869ef56]
+### 4. Detailed approval[^c-007f63dd58142a731a2c80256869ef56]
 
 The authorised project must be carried out in accordance with the sections of the environmental statement and the approved plans and schemes listed in this requirement (unless in respect of amendments as approved by the county planning authority in accordance with requirement 34)—
 
@@ -589,11 +589,11 @@ The authorised project must be carried out in accordance with the sections of th
 
 (13) Proposed basal levels (Drawing reference LE00173-222).
 
-### 5. Time limits for cessation and restoration[^key-48a871e51fc21ecbc0971140b902e26b]
+### 5. Time limits for cessation and restoration[^c-48a871e51fc21ecbc0971140b902e26b]
 
 The landfilling of waste and the operation of the interceptor waste treatment facility must cease by not later than 31st December 2035 and the application land (with the exception of any facilities required for the long term management of landfill gas and leachate) must be finally restored in accordance with the Landscaping, restoration, habitat management and aftercare scheme listed under requirement 4(11) by not later than 31st December 2036.
 
-### 6. Phasing of landfill and restoration activities[^key-c35d2b0d03131fb87d02443c21cdc831]
+### 6. Phasing of landfill and restoration activities[^c-c35d2b0d03131fb87d02443c21cdc831]
 
 (1) No mineral extraction or landfill operations may be carried out except in accordance with the principles of phasing shown on the works plan and phasing plans presented in the soils handling and management scheme listed under requirement 4(9). Those operations must progress through phases A, B, C and D in accordance with those phasing plans. With the exception of the areas of the landfill which will be used for access, and areas of land that are to be used for temporary stockpiling, the landfill operations must progress from cell 3D through phases A, B, C and D, with the final phase of landfill being the access route and remaining areas of Cell 2.
 
@@ -602,7 +602,7 @@ The landfilling of waste and the operation of the interceptor waste treatment fa
 - (a) The completion of landfilling operations in a phase reaching levels which will provide for the placement of capping and restoration materials (to ensure that the pre-settlement restoration contours shown on drawing reference WS0100003/WLL/PLANS/ELEVATION1 are not exceeded); or
 - (b) On completion of the use of that phase for stockpiling (if it to be used as such) in accordance with requirement 17.
 
-### 7. Restoration and aftercare[^key-006d28d4a05caffb109b71c682f21892]
+### 7. Restoration and aftercare[^c-006d28d4a05caffb109b71c682f21892]
 
 (1) Following certification in writing by the county planning authority of the completion of restoration in any phase on the application land, aftercare of that phase must be carried out for a period of 20 years in accordance with the landscaping, restoration, habitat management and aftercare scheme listed in requirement 4(11).
 
@@ -613,23 +613,23 @@ The landfilling of waste and the operation of the interceptor waste treatment fa
 - (c) The intended operations for the next 12 months which will be implemented on the application land; and
 - (d) The report must contain the topographical survey specified under requirement 24 to this Order.
 
-### 8. Japanese Knotweed[^key-aaa73e26f2e7bf5877865c6bc48c5c9f]
+### 8. Japanese Knotweed[^c-aaa73e26f2e7bf5877865c6bc48c5c9f]
 
 Prior to the commencement of the activities in Phase B of the authorised project (as shown on the works plan) a scheme for the eradication of any Japanese Knotweed identified in phase B must be submitted for approval by the county planning authority. The extent of the Japanese Knotweed in Phase B must be confirmed and detailed as part of the preparation of the scheme. The approved scheme must be implemented prior to the commencement of the activities of Phase B and thereafter the measures must be implemented throughout the period of the development if required.
 
-### 9. Ecology[^key-49c1f0018b50e6c7084f194550199e03]
+### 9. Ecology[^c-49c1f0018b50e6c7084f194550199e03]
 
 No removal of trees or hedgerows may take place between 1st March and 31st August inclusive in any year unless otherwise agreed with the county planning authority.
 
-### 10. European protected species[^key-ff70dabcebf5e2d9df5e5065c187f842]
+### 10. European protected species[^c-ff70dabcebf5e2d9df5e5065c187f842]
 
 (1) Prior to the commencement of the operations in each of phases B, C and D of the application land, further survey work must be undertaken to establish whether any European protected species or Common Toad are present on any of the application land, in any land affected, or likely to be affected, by the authorised project, in any of the trees to be lopped or felled, or in any buildings to be demolished, during that phase of the authorised project. The scope of the further survey work must be agreed with, and the results of the survey work submitted to, the county planning authority.
 
-(2) “European protected species” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017[^key-0e22f5b7f384a8da91ccd2eec20eabc5].
+(2) “European protected species” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017[^c-0e22f5b7f384a8da91ccd2eec20eabc5].
 
 (3) If European protected species or Common Toad are identified during the further survey work, no works within that phase may commence until a mitigation scheme has been approved by the county planning authority. The mitigation measures contained in the approved scheme must be undertaken prior to the commencement of development in that phase.
 
-### 11. Archaeology[^key-02e83f246592e8086c300cc5d9b2c38d]
+### 11. Archaeology[^c-02e83f246592e8086c300cc5d9b2c38d]
 
 (1) No soil stripping operations may commence until a written scheme for the investigation of areas of archaeological interest as identified in section 17 of the environmental statement has been submitted to and approved by the county planning authority.
 
@@ -639,7 +639,7 @@ No removal of trees or hedgerows may take place between 1st March and 31st Augus
 
 (4) Any archaeological works or watching brief must be carried out in accordance with the approved scheme.
 
-### 12. Treatment of mine shafts and depths of excavation[^key-d8a74bb1c69db62d8d2aae619de0e0fc]
+### 12. Treatment of mine shafts and depths of excavation[^c-d8a74bb1c69db62d8d2aae619de0e0fc]
 
 (1) No excavation or dewatering may take place below 48 metres Above Ordnance Datum (AOD) without prior approval by the county planning authority (such approval only to be given where necessary to create a basal sub-grade suitable for the construction of the basal lining system). This permitted depth of excavation is to include the excavation of any sumps for drainage or dewatering and the capping of any mine shafts beneath the proposed waste containment facility.
 
@@ -649,7 +649,7 @@ No removal of trees or hedgerows may take place between 1st March and 31st Augus
 
 (4) The restriction on excavation and dewatering does not apply to the drilling of boreholes for ground investigation, monitoring or grouting. The restriction on abstraction of water does not preclude the taking of samples for water quality analysis or the execution of permeability tests where the latter are limited in scope and agreed by the Environment Agency in advance.
 
-### 13. Water management and monitoring[^key-199c24ac3b636312cfe6ef6f48fe13ff]
+### 13. Water management and monitoring[^c-199c24ac3b636312cfe6ef6f48fe13ff]
 
 (1) No development, including dewatering activity, may commence until a scheme for the management and monitoring of groundwater and surface water levels, water abstraction, groundwater quality and site drainage has, following consultation with the Environment Agency, been approved by the county planning authority. The scheme must include:
 
@@ -661,21 +661,21 @@ No removal of trees or hedgerows may take place between 1st March and 31st Augus
 
 (3) The approved scheme must be implemented and maintained throughout the authorised project until dewatering has ceased, the water table has recovered and restoration of the mineral void is complete in accordance with the plans listed in accordance with requirement 4.
 
-### 14. Trans-Pennine Ethylene Pipe[^key-d64010b2f36fa3206c993549c8dda924]
+### 14. Trans-Pennine Ethylene Pipe[^c-d64010b2f36fa3206c993549c8dda924]
 
 No soil stripping operations may be carried out until the precise route of the Trans‑Pennine ethylene pipeline adjacent to the south western site boundary has been identified. The south western perimeter bund must be located a minimum of 10m from the route of the pipeline and the south western boundary of the landfill must be located a minimum of 28m from the route of the pipeline. The route of the pipeline together with the standoffs must be clearly identified with markers prior to the commencement of the authorised project.
 
-### 15. Rainford Drain[^key-a1d579b42dba156c9861c6ea45ef203c]
+### 15. Rainford Drain[^c-a1d579b42dba156c9861c6ea45ef203c]
 
 No soil stripping operations may be carried out until a scheme setting out how the Rainford Drain will be diverted around the perimeter of the landfill has been approved by the county planning authority. The drain must be diverted in accordance with that scheme. The diverted pipeline must be constructed to a standard which provides for the effective management of water.
 
-### 16. External lighting and control of artificial light emissions[^key-efce99d57d47c9a20daba4892bec884a]
+### 16. External lighting and control of artificial light emissions[^c-efce99d57d47c9a20daba4892bec884a]
 
 (1) All floodlighting used as part of the authorised project (including mobile units) must be directed towards the ground to minimise light spillage from the application land and, except for in emergencies, must only be operational during the working hours specified in requirement 30.
 
 (2) No additional permanent floodlighting may be installed on the application land until a written scheme for the management and mitigation of artificial light emissions has been submitted to and approved by the county planning authority.
 
-### 17. Temporary stockpiles[^key-f3d4bf9bfe6237bb1bfcda255c7de2d5]
+### 17. Temporary stockpiles[^c-f3d4bf9bfe6237bb1bfcda255c7de2d5]
 
 (1) The temporary stockpiles as shown on the elevations of the stockpiles and bunds listed in requirement 4(6) must be managed in accordance with the details set out in Section 5 of the environmental statement and the soils handling and management scheme listed in requirement 4(9) during the operation of the authorised project.
 
@@ -687,7 +687,7 @@ No soil stripping operations may be carried out until a scheme setting out how t
 
 (3) Thereafter, stockpiling of the peat materials must take place in accordance with the approved details for each phase.
 
-### 18. Soil audit[^key-4687c8f92be984739d75bfe33dcb812f]
+### 18. Soil audit[^c-4687c8f92be984739d75bfe33dcb812f]
 
 (1) In accordance with the soils handling and management scheme, an annual audit of all soil materials is to be completed at the end of each soil moving season and submitted to the county planning authority.
 
@@ -698,7 +698,7 @@ No soil stripping operations may be carried out until a scheme setting out how t
 
 (3) Any recommendations resulting from each soil audit must be carried out in the timescale to be agreed with the county planning authority
 
-### 19. Control of noise and dust emissions during construction and operation[^key-e31f9b10b5b92fc91f4fe1b17b6a85f1]
+### 19. Control of noise and dust emissions during construction and operation[^c-e31f9b10b5b92fc91f4fe1b17b6a85f1]
 
 (1) During the construction and removal of the perimeter bunds and material storage mounds (as shown on the works plan, WS10003/WLL/PLANS/WORKS) the noise levels must be controlled to meet the construction noise limits specified in Table ES7 of the environmental statement. During mineral extraction, landfilling, maintenance, restoration and aftercare operations the application land must be operated to control noise so that noise levels recorded in free field conditions as a result of the proposed development do not exceed 55dBLAeq, 1h when measured from any point on the site boundary.
 
@@ -708,27 +708,27 @@ No soil stripping operations may be carried out until a scheme setting out how t
 
 (4) Throughout the operation of the authorised project, measures are to be taken to ensure that no dust or windblown materials are carried on to adjacent property and in particular are to include the watering of all haul and access roads and the spraying of storage heaps or areas of the landfilling and restoration areas as necessary during dry weather conditions.
 
-### 20. Blasting[^key-0ba7ba5fd4722f645ac8c8af1fcda517]
+### 20. Blasting[^c-0ba7ba5fd4722f645ac8c8af1fcda517]
 
 No blasting may be undertaken on the application land.
 
-### 21. Crushing and screening of aggregate[^key-02bd2da9786fcdc36ae37d02943bef9a]
+### 21. Crushing and screening of aggregate[^c-02bd2da9786fcdc36ae37d02943bef9a]
 
 If crushing and screening of aggregate is undertaken on the application land all crushing and screening plant must be fitted with effective dust suppression measures including dust suppression on all conveyor outfall points.
 
-### 22. Disposal of waste[^key-4d5149f0d2880e5c3b186871c62b707b]
+### 22. Disposal of waste[^c-4d5149f0d2880e5c3b186871c62b707b]
 
 No waste materials may be disposed of or placed on the application land in such a way as would prejudice the restoration of the land in accordance with the proposed restoration contours listed in requirement 4(5).
 
-### 23. Quantities and types of waste[^key-a93885c97b6b58353d5c0b6985fb144a]
+### 23. Quantities and types of waste[^c-a93885c97b6b58353d5c0b6985fb144a]
 
 The maximum quantity of waste that is to be imported to the interceptor treatment facility per annum will be 20,000 tonnes and the maximum quantity of waste that is to be imported to the landfill per annum will be 150,000 tonnes. No waste materials may be accepted on the application land other than hazardous wastes or suitable waste materials for engineering and restoration purposes.
 
-### 24. Topographical survey[^key-20557ef65cee16855132efa527304a39]
+### 24. Topographical survey[^c-20557ef65cee16855132efa527304a39]
 
 A topographical survey must be submitted to the county planning authority on or before 31st October in every year until the end of the aftercare period referred to in requirement 7 of this Order. The survey must have been carried out within 2 months preceding the date of the submission and must consist of a plan drawn to a scale of not less than 1:1250 which identifies all surface features on the application land and is contoured at 1 metre intervals, relating to Ordnance Datum over all the application land where waste has been deposited.
 
-### 25. Demolition[^key-1dff2ec2803bb7dc39ad1e4c0309813e]
+### 25. Demolition[^c-1dff2ec2803bb7dc39ad1e4c0309813e]
 
 (1) Subject to the following provisions of this requirement, the undertaker may at its own expense carry out any demolition works to buildings on the application land as the undertaker considers necessary or expedient for the authorised project.
 
@@ -738,11 +738,11 @@ A topographical survey must be submitted to the county planning authority on or 
 
 (4) All construction works must be undertaken in accordance with the approved code, unless otherwise agreed by the county planning authority.
 
-### 26. Vehicular access[^key-27b9f23e01f0af0e12c9e71e4cba873e]
+### 26. Vehicular access[^c-27b9f23e01f0af0e12c9e71e4cba873e]
 
 The sole vehicular access for the authorised project hereby permitted is to be by way of the existing access to the application land on to White Moss Road South and as shown on the site access from White Moss Road South listed in requirement 4(8). The visibility splays must be maintained at the junction with White Moss Road South in accordance with the site access from White Moss Road South listed in requirement 4(8).
 
-### 27. Control of vehicular movements[^key-9e4dbb964ddcd65c3949d309acc0f722]
+### 27. Control of vehicular movements[^c-9e4dbb964ddcd65c3949d309acc0f722]
 
 Vehicular traffic associated with the authorised project must be controlled as follows—
 
@@ -750,11 +750,11 @@ Vehicular traffic associated with the authorised project must be controlled as f
 
 (2) Signs informing vehicle drivers of the requirements in paragraph (1) above must be maintained in a visible location near to the egress on application land throughout the term of the authorised project.
 
-### 28. Fencing[^key-dc5b44c9f232007b9fd15bd2c4ac3989]
+### 28. Fencing[^c-dc5b44c9f232007b9fd15bd2c4ac3989]
 
 The fencing, including the gates at the site entrance, specified in section 5 of the environmental statement must be maintained and/or erected on the application land in accordance with the landscaping, restoration, habitat management and aftercare scheme listed in requirement 11 (4) prior to the commencement of the authorised project and must be maintained as necessary for the duration of the authorised project. Any temporary fencing is to be removed on completion of the authorised project.
 
-### 29. Wheel cleaning[^key-b46d11a750ba4d5d2a8df3cae74530a5]
+### 29. Wheel cleaning[^c-b46d11a750ba4d5d2a8df3cae74530a5]
 
 (1) Wheel cleaning facilities installed at the application land as specified in section 5 of the environmental statement (or wheel cleaning facilities of a similar design and function) must be available for use at all times during the operation of the authorised project.
 
@@ -764,7 +764,7 @@ The fencing, including the gates at the site entrance, specified in section 5 of
 
 (4) All vehicles transporting materials with the potential to give rise to airborne dust or spillage of materials must be sheeted.
 
-### 30. Hours of operation[^key-440c0020b1a300d39ce1ca0481be6bb9]
+### 30. Hours of operation[^c-440c0020b1a300d39ce1ca0481be6bb9]
 
 All mineral extraction and landfill construction operations, delivery of waste, waste treatment, waste disposal, levelling and restoration operations, and any associated activities must be restricted to between the hours of 07.30 and 18.30 on Mondays to Fridays and 08.00 and 12.00 on Saturdays, with no such operations being carried out on the application land on Sundays or public holidays.
 
@@ -772,11 +772,11 @@ All mineral extraction and landfill construction operations, delivery of waste, 
 
 (2) Environmental management infrastructure including infrastructure for the management of water, leachate and landfill gas may operate continuously.
 
-### 31. Display of Order on-site[^key-89548c55b6cdf3c4068f895d508a4ef2]
+### 31. Display of Order on-site[^c-89548c55b6cdf3c4068f895d508a4ef2]
 
 A copy of the terms of this Order must be displayed on the application land, and all documents hereby permitted and any documents subsequently approved in accordance with this Order (or amendments approved pursuant to this Order) must be available at the site office throughout the development.
 
-### 32. Review of void consumption[^key-e84e46b938fad9f9889335c50b353e20]
+### 32. Review of void consumption[^c-e84e46b938fad9f9889335c50b353e20]
 
 No excavation in accordance with each of phases B, C and D (as set out in the phasing plans) of the authorised project may commence:
 
@@ -787,11 +787,11 @@ No excavation in accordance with each of phases B, C and D (as set out in the ph
 - (a) the undertaker has applied to the county planning authority for approval to vary the plans and schemes listed in subparagraphs (5), (9) and (13) of requirement 4 as necessary to meet the specified restoration date of 31st December 2036 in accordance with the restoration proposals set out in sub-paragraph (10) of requirement 4; and
 - (b) the county planning authority has approved the application to vary the plans and schemes, such decision to be made within 8 weeks of the above application unless such other period is agreed in writing with the undertaker.
 
-### 33. Removal of plant and machinery[^key-4b350b95273e7f5c986cfa28e4f55441]
+### 33. Removal of plant and machinery[^c-4b350b95273e7f5c986cfa28e4f55441]
 
 Except to the extent required for aftercare purposes (as approved pursuant to the scheme under requirement 4) and for any ongoing environmental management purposes, any building, plant, machinery, foundations, hardstanding, roadway, structure or erection in the nature of plant or machinery used in connection with the authorised project must be removed from the application land when they are no longer required for the purpose for which they were installed and in any case not later than 31st December 2056 upon completion of the aftercare of the land. The areas of the application land in which environmental management infrastructure are located must be restored in a manner consistent with the surrounding restoration.
 
-### 34. Requirement for written approval and amendments to approved details[^key-a962850c8f9168c255f405bde83a8f27]
+### 34. Requirement for written approval and amendments to approved details[^c-a962850c8f9168c255f405bde83a8f27]
 
 Where under any requirement, details or a scheme or plan are to be submitted for the approval of the county planning authority, or where the county planning authority is authorised to approve changes to plans, schemes, drawings or other documents certified by the Secretary of State, then unless the requirement provides otherwise:
 
@@ -803,7 +803,7 @@ Where under any requirement, details or a scheme or plan are to be submitted for
 
 (4) where under any requirement there is an obligation to consult with a third party prior to the submission of any details, scheme or plan for approval to the county planning authority, then there is to be an obligation to consult with the same third party prior to the submission of any amendments.
 
-### 35. Community liaison committee[^key-5797f3e58eea5368f5f041e0c4dd9f95]
+### 35. Community liaison committee[^c-5797f3e58eea5368f5f041e0c4dd9f95]
 
 (1) The undertaker must:
 
@@ -833,9 +833,9 @@ A copy of the Order and of the plans and documents referred to in this Order and
 
 [^f00002]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29). (as amended)
 
-[^key-b192bdd72a15b9879ca1412caaa0d41a]: Commencement: Art. 1 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-b192bdd72a15b9879ca1412caaa0d41a]: Commencement: Art. 1 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-37218f3e14283489a7647825238e3273]: Commencement: Art. 2 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-37218f3e14283489a7647825238e3273]: Commencement: Art. 2 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
 [^f00003]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). (as amended)
 
@@ -853,128 +853,128 @@ A copy of the Order and of the plans and documents referred to in this Order and
 
 [^f00010]: Footnote: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Part 1 of Schedule 15 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-af45e66d35894475333f7cd3458290c5]: Commencement: Art. 3 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-af45e66d35894475333f7cd3458290c5]: Commencement: Art. 3 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-fe03d330eeb97d070c72419342b3aedc]: Commencement: Art. 4 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-fe03d330eeb97d070c72419342b3aedc]: Commencement: Art. 4 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-b06be8c81d4ca159933c4112a27bab91]: Commencement: Art. 5 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-b06be8c81d4ca159933c4112a27bab91]: Commencement: Art. 5 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-a443ea9be0c974d24e6c38f00b7c055c]: Commencement: Art. 6 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-a443ea9be0c974d24e6c38f00b7c055c]: Commencement: Art. 6 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-71048899830559281684cf74d76c7368]: Commencement: Art. 7 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-71048899830559281684cf74d76c7368]: Commencement: Art. 7 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-c05bf37447d85a2228cdd2512f9cdff9]: Commencement: Art. 8 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-c05bf37447d85a2228cdd2512f9cdff9]: Commencement: Art. 8 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-f5810ecea082523536af37e730127d38]: Commencement: Art. 9 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-f5810ecea082523536af37e730127d38]: Commencement: Art. 9 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
 [^f00011]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37), sections 36(2) and 99. There are other amendments to section 106 which are not relevant to this Order.
 
-[^key-0d98cefff347207e4b788375d96fdd74]: Textual amendment: Words in [art. 9(7)](https://www.legislation.gov.uk/uksi/2015/1317/article/9/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 91](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/91) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-0d98cefff347207e4b788375d96fdd74]: Textual amendment: Words in [art. 9(7)](https://www.legislation.gov.uk/uksi/2015/1317/article/9/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 91](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/91) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-447fe3ec04dfd6ad10043f371cd3d628]: Commencement: Art. 10 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-447fe3ec04dfd6ad10043f371cd3d628]: Commencement: Art. 10 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-2d4477a80a7886190285b6ed18948882]: Commencement: Art. 11 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-2d4477a80a7886190285b6ed18948882]: Commencement: Art. 11 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-eee543d6c3ec33bd6240c2e81acd2f0b]: Commencement: Art. 12 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-eee543d6c3ec33bd6240c2e81acd2f0b]: Commencement: Art. 12 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-5081e8b5c255e9fc27d77ae1817e830b]: Commencement: Art. 13 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-5081e8b5c255e9fc27d77ae1817e830b]: Commencement: Art. 13 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
 [^f00013]: Footnote: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67). Sub-paragraph (5) of paragraph 1 of Part 1 of Schedule 2 was amended by section 67 of, and paragraph 27(3) of Schedule 9 to, the Coal Industry Act [1994 (c.21)](https://www.legislation.gov.uk/ukpga/1994/21) and paragraph 8 of Part 3 of Schedule was amended by section 46 of the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-1f41008f1bbd6676b748289bd182c858]: Commencement: Art. 14 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-1f41008f1bbd6676b748289bd182c858]: Commencement: Art. 14 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
 [^f00014]: Footnote: [1981 c.66](https://www.legislation.gov.uk/ukpga/1981/66). Sections 2 and 116 were amended by section 4 of, and paragraph 52 of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c.11)](https://www.legislation.gov.uk/ukpga/1990/11). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-93c69c446ec7c449eecbdc00cda95e3a]: Commencement: Art. 15 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-93c69c446ec7c449eecbdc00cda95e3a]: Commencement: Art. 15 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-ba5696d0be3f61d211e5f0b279935fd9]: Commencement: Art. 16 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-ba5696d0be3f61d211e5f0b279935fd9]: Commencement: Art. 16 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-63fa1fc941949a7f33e067da71250b62]: Commencement: Art. 17 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-63fa1fc941949a7f33e067da71250b62]: Commencement: Art. 17 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
 [^f00015]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66). Sections 2(3), 6(2) and 11(6) were amended by section 4 of, and paragraph 52 of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11). Section 15 was amended by sections 56 and 321(1) of, and Schedules 8 and 16 to, the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17). Paragraph 1 of Schedule 2 was amended by section 76 of, and Part 2 of Schedule 9 to, the Housing Act [1988 (c.50)](https://www.legislation.gov.uk/ukpga/1988/50); section 161(4) of, and Schedule 19 to, the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28); and sections 56 and 321(1) of, and Schedule 8 to, the Housing and Regeneration Act 2008. Paragraph 3 of Schedule 2 was amended by section 76 of, and Schedule 9 to, the Housing Act 1988 and section 56 of, and Schedule 8 to, the Housing and Regeneration Act 2008. Paragraph 2 of Schedule 3 was repealed by section 277 of, and Schedule 9 to, the Inheritance Tax Act [1984 (c. 51)](https://www.legislation.gov.uk/ukpga/1984/51). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-1ee12bd9fa811e902bee2aea66d920f2]: Commencement: Art. 18 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-1ee12bd9fa811e902bee2aea66d920f2]: Commencement: Art. 18 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
 [^f00016]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this Act which are not relevant to this Order.
 
 [^f00017]: Footnote: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40). Sections 61(9) and 65(8) were amended by section 162 of, and paragraph 15 of Schedule 3 to, the [Environmental Protection Act 1990, c.25](https://www.legislation.gov.uk/ukpga/1990/25). There are other amendments to the 1974 Act which are not relevant to this Order.
 
-[^key-cfdcac23569df257e5770420a286fec0]: Commencement: Art. 19 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-cfdcac23569df257e5770420a286fec0]: Commencement: Art. 19 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-5025fb5744e0a0af904b5075fabc329f]: Commencement: Art. 20 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-5025fb5744e0a0af904b5075fabc329f]: Commencement: Art. 20 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-201fe60ec29e9dff154bec1895ce6fec]: Commencement: Art. 21 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-201fe60ec29e9dff154bec1895ce6fec]: Commencement: Art. 21 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-c3fd29f2eca07b5c41ca612a0d8f4072]: Commencement: Sch. 1 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-c3fd29f2eca07b5c41ca612a0d8f4072]: Commencement: Sch. 1 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-2de057bc97fe9347b54ea3d40efa05e0]: Commencement: Sch. 2 para. 1 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-2de057bc97fe9347b54ea3d40efa05e0]: Commencement: Sch. 2 para. 1 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-236a15da0de07f7e1fdf21b47088a164]: Commencement: Sch. 2 para. 2 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-236a15da0de07f7e1fdf21b47088a164]: Commencement: Sch. 2 para. 2 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-a1a29fa8ad4fe0249ab6b6466577ebbe]: Commencement: Sch. 2 para. 3 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-a1a29fa8ad4fe0249ab6b6466577ebbe]: Commencement: Sch. 2 para. 3 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-007f63dd58142a731a2c80256869ef56]: Commencement: Sch. 2 para. 4 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-007f63dd58142a731a2c80256869ef56]: Commencement: Sch. 2 para. 4 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-48a871e51fc21ecbc0971140b902e26b]: Commencement: Sch. 2 para. 5 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-48a871e51fc21ecbc0971140b902e26b]: Commencement: Sch. 2 para. 5 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-c35d2b0d03131fb87d02443c21cdc831]: Commencement: Sch. 2 para. 6 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-c35d2b0d03131fb87d02443c21cdc831]: Commencement: Sch. 2 para. 6 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-006d28d4a05caffb109b71c682f21892]: Commencement: Sch. 2 para. 7 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-006d28d4a05caffb109b71c682f21892]: Commencement: Sch. 2 para. 7 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-aaa73e26f2e7bf5877865c6bc48c5c9f]: Commencement: Sch. 2 para. 8 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-aaa73e26f2e7bf5877865c6bc48c5c9f]: Commencement: Sch. 2 para. 8 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-49c1f0018b50e6c7084f194550199e03]: Commencement: Sch. 2 para. 9 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-49c1f0018b50e6c7084f194550199e03]: Commencement: Sch. 2 para. 9 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-ff70dabcebf5e2d9df5e5065c187f842]: Commencement: Sch. 2 para. 10 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-ff70dabcebf5e2d9df5e5065c187f842]: Commencement: Sch. 2 para. 10 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-0e22f5b7f384a8da91ccd2eec20eabc5]: Textual amendment: Words in [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2015/1317/schedule/2/paragraph/10/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 56](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/56)
+[^c-0e22f5b7f384a8da91ccd2eec20eabc5]: Textual amendment: Words in [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2015/1317/schedule/2/paragraph/10/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 56](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/56)
 
-[^key-02e83f246592e8086c300cc5d9b2c38d]: Commencement: Sch. 2 para. 11 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-02e83f246592e8086c300cc5d9b2c38d]: Commencement: Sch. 2 para. 11 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-d8a74bb1c69db62d8d2aae619de0e0fc]: Commencement: Sch. 2 para. 12 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-d8a74bb1c69db62d8d2aae619de0e0fc]: Commencement: Sch. 2 para. 12 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-199c24ac3b636312cfe6ef6f48fe13ff]: Commencement: Sch. 2 para. 13 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-199c24ac3b636312cfe6ef6f48fe13ff]: Commencement: Sch. 2 para. 13 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-d64010b2f36fa3206c993549c8dda924]: Commencement: Sch. 2 para. 14 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-d64010b2f36fa3206c993549c8dda924]: Commencement: Sch. 2 para. 14 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-a1d579b42dba156c9861c6ea45ef203c]: Commencement: Sch. 2 para. 15 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-a1d579b42dba156c9861c6ea45ef203c]: Commencement: Sch. 2 para. 15 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-efce99d57d47c9a20daba4892bec884a]: Commencement: Sch. 2 para. 16 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-efce99d57d47c9a20daba4892bec884a]: Commencement: Sch. 2 para. 16 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-f3d4bf9bfe6237bb1bfcda255c7de2d5]: Commencement: Sch. 2 para. 17 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-f3d4bf9bfe6237bb1bfcda255c7de2d5]: Commencement: Sch. 2 para. 17 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-4687c8f92be984739d75bfe33dcb812f]: Commencement: Sch. 2 para. 18 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-4687c8f92be984739d75bfe33dcb812f]: Commencement: Sch. 2 para. 18 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-e31f9b10b5b92fc91f4fe1b17b6a85f1]: Commencement: Sch. 2 para. 19 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-e31f9b10b5b92fc91f4fe1b17b6a85f1]: Commencement: Sch. 2 para. 19 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-0ba7ba5fd4722f645ac8c8af1fcda517]: Commencement: Sch. 2 para. 20 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-0ba7ba5fd4722f645ac8c8af1fcda517]: Commencement: Sch. 2 para. 20 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-02bd2da9786fcdc36ae37d02943bef9a]: Commencement: Sch. 2 para. 21 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-02bd2da9786fcdc36ae37d02943bef9a]: Commencement: Sch. 2 para. 21 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-4d5149f0d2880e5c3b186871c62b707b]: Commencement: Sch. 2 para. 22 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-4d5149f0d2880e5c3b186871c62b707b]: Commencement: Sch. 2 para. 22 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-a93885c97b6b58353d5c0b6985fb144a]: Commencement: Sch. 2 para. 23 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-a93885c97b6b58353d5c0b6985fb144a]: Commencement: Sch. 2 para. 23 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-20557ef65cee16855132efa527304a39]: Commencement: Sch. 2 para. 24 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-20557ef65cee16855132efa527304a39]: Commencement: Sch. 2 para. 24 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-1dff2ec2803bb7dc39ad1e4c0309813e]: Commencement: Sch. 2 para. 25 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-1dff2ec2803bb7dc39ad1e4c0309813e]: Commencement: Sch. 2 para. 25 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-27b9f23e01f0af0e12c9e71e4cba873e]: Commencement: Sch. 2 para. 26 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-27b9f23e01f0af0e12c9e71e4cba873e]: Commencement: Sch. 2 para. 26 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-9e4dbb964ddcd65c3949d309acc0f722]: Commencement: Sch. 2 para. 27 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-9e4dbb964ddcd65c3949d309acc0f722]: Commencement: Sch. 2 para. 27 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-dc5b44c9f232007b9fd15bd2c4ac3989]: Commencement: Sch. 2 para. 28 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-dc5b44c9f232007b9fd15bd2c4ac3989]: Commencement: Sch. 2 para. 28 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-b46d11a750ba4d5d2a8df3cae74530a5]: Commencement: Sch. 2 para. 29 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-b46d11a750ba4d5d2a8df3cae74530a5]: Commencement: Sch. 2 para. 29 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-440c0020b1a300d39ce1ca0481be6bb9]: Commencement: Sch. 2 para. 30 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-440c0020b1a300d39ce1ca0481be6bb9]: Commencement: Sch. 2 para. 30 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-89548c55b6cdf3c4068f895d508a4ef2]: Commencement: Sch. 2 para. 31 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-89548c55b6cdf3c4068f895d508a4ef2]: Commencement: Sch. 2 para. 31 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-e84e46b938fad9f9889335c50b353e20]: Commencement: Sch. 2 para. 32 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-e84e46b938fad9f9889335c50b353e20]: Commencement: Sch. 2 para. 32 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-4b350b95273e7f5c986cfa28e4f55441]: Commencement: Sch. 2 para. 33 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-4b350b95273e7f5c986cfa28e4f55441]: Commencement: Sch. 2 para. 33 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-a962850c8f9168c255f405bde83a8f27]: Commencement: Sch. 2 para. 34 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-a962850c8f9168c255f405bde83a8f27]: Commencement: Sch. 2 para. 34 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
 
-[^key-5797f3e58eea5368f5f041e0c4dd9f95]: Commencement: Sch. 2 para. 35 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)
+[^c-5797f3e58eea5368f5f041e0c4dd9f95]: Commencement: Sch. 2 para. 35 in force at 9.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1317/article/1)

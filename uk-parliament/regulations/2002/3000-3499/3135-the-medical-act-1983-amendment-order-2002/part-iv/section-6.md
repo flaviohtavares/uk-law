@@ -92,11 +92,11 @@ summary: ''
 
 .
 
-(6)[^key-7f6e18c2b2e1c26dd09378c76d179d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7f6e18c2b2e1c26dd09378c76d179d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-7f6e18c2b2e1c26dd09378c76d179d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-7f6e18c2b2e1c26dd09378c76d179d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-7f6e18c2b2e1c26dd09378c76d179d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-7f6e18c2b2e1c26dd09378c76d179d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In section 26 (registration of qualifications)—
 
@@ -105,16 +105,16 @@ summary: ''
   - (ii) for “recognised overseas qualification or qualifications” substitute “ acceptable overseas qualification ”,
   - (iii) omit paragraph (a), and
   - (iv) in paragraph (b) for the words from “subject to” to “(other than a recognised overseas qualification)” substitute “ subject to subsection (3) below, any overseas qualification ”.
-- (b)[^key-ae6a4aedfc603eb4b87b3a379ec6325e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ae6a4aedfc603eb4b87b3a379ec6325e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-519cb2127a62530f8f3eccbb1bd96420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-519cb2127a62530f8f3eccbb1bd96420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) Omit sections 28(the Review Board for Overseas Qualified Practitioners) and 29 (functions of the Review Board).
 
 ## Annotations
 
-[^key-7f6e18c2b2e1c26dd09378c76d179d66]: Textual amendment: Art. 6(6)-(8) revoked (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [80(b)(i)](https://www.legislation.gov.uk/uksi/2006/1914/article/80/b/i)
+[^c-7f6e18c2b2e1c26dd09378c76d179d66]: Textual amendment: Art. 6(6)-(8) revoked (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [80(b)(i)](https://www.legislation.gov.uk/uksi/2006/1914/article/80/b/i)
 
-[^key-ae6a4aedfc603eb4b87b3a379ec6325e]: Textual amendment: Art. 6(9)(b) revoked (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [80(b)(i)](https://www.legislation.gov.uk/uksi/2006/1914/article/80/b/i)
+[^c-ae6a4aedfc603eb4b87b3a379ec6325e]: Textual amendment: Art. 6(9)(b) revoked (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [80(b)(i)](https://www.legislation.gov.uk/uksi/2006/1914/article/80/b/i)
 
-[^key-519cb2127a62530f8f3eccbb1bd96420]: Textual amendment: Art. 6(10) revoked (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [80(b)(i)](https://www.legislation.gov.uk/uksi/2006/1914/article/80/b/i)
+[^c-519cb2127a62530f8f3eccbb1bd96420]: Textual amendment: Art. 6(10) revoked (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [80(b)(i)](https://www.legislation.gov.uk/uksi/2006/1914/article/80/b/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Recovery of costs of new connections[^key-3c4f77136c9a5693716e5527695311b8]
+## 37. Recovery of costs of new connections[^c-3c4f77136c9a5693716e5527695311b8]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c4f77136c9a5693716e5527695311b8]: Commencement: Art. 37 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-3c4f77136c9a5693716e5527695311b8]: Commencement: Art. 37 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
 [^f00034]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).

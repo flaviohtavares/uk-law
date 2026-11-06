@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 20) Regulations 2020 (revoked)[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
+The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 20) Regulations 2020 (revoked)[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
 
 Made
 
@@ -45,53 +45,53 @@ Coming into force
 
 at 4.00 a.m. on 21 November 2020
 
-[^key-e2b306d291e165ccd0d7fbc91d7d5e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2b306d291e165ccd0d7fbc91d7d5e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
+## PART 1 — General[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
 
-### 1. Title, coming into force and interpretation[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Addition of countries to the list of exempt countries and territories in Schedule 3 to the International Travel Regulations[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
-
-### 2. Addition of countries to the list of exempt countries and territories[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
+### 1. Title, coming into force and interpretation[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Transitional provision in connection with regulation 2[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
+## PART 2 — Addition of countries to the list of exempt countries and territories in Schedule 3 to the International Travel Regulations[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
+
+### 2. Addition of countries to the list of exempt countries and territories[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendment to regulation 4 (requirement to provide passenger information) of the International Travel Regulations[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
-
-### 4. Amendment to regulation 4 (requirement to provide passenger information) of the International Travel Regulations[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
+### 3. Transitional provision in connection with regulation 2[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Amendments to Parts 1 and 2 of Schedule 2 to the International Travel Regulations[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
+## PART 3 — Amendment to regulation 4 (requirement to provide passenger information) of the International Travel Regulations[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
 
-### 5. Amendment to Part 1 of Schedule 2 to the International Travel Regulations (persons not required to comply with regulations 4, 5, 7 or 8)[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Amendment to Part 2 of Schedule 2 to the International Travel Regulations (persons not required to comply with regulations 7 or 8)[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
+### 4. Amendment to regulation 4 (requirement to provide passenger information) of the International Travel Regulations[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Miscellaneous Amendments to the International Travel Regulations[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
+## PART 4 — Amendments to Parts 1 and 2 of Schedule 2 to the International Travel Regulations[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
 
-### 7. Amendment of the International Travel Regulations[^key-e2b306d291e165ccd0d7fbc91d7d5e07]
+### 5. Amendment to Part 1 of Schedule 2 to the International Travel Regulations (persons not required to comply with regulations 4, 5, 7 or 8)[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e2b306d291e165ccd0d7fbc91d7d5e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 6. Amendment to Part 2 of Schedule 2 to the International Travel Regulations (persons not required to comply with regulations 7 or 8)[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Miscellaneous Amendments to the International Travel Regulations[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
+
+### 7. Amendment of the International Travel Regulations[^c-e2b306d291e165ccd0d7fbc91d7d5e07]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e2b306d291e165ccd0d7fbc91d7d5e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-e2b306d291e165ccd0d7fbc91d7d5e07]EXPLANATORY NOTE
+[^c-e2b306d291e165ccd0d7fbc91d7d5e07]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -140,4 +140,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-e2b306d291e165ccd0d7fbc91d7d5e07]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1329) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 23](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/23)
+[^c-e2b306d291e165ccd0d7fbc91d7d5e07]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1329) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 23](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/23)

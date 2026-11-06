@@ -39,17 +39,17 @@ Coming into operation
 
 1st April 2007
 
-The Department of Finance and Personnel[^f00001] makes the following Regulations in exercise of the powers conferred by Article 30A of the Rates (Northern Ireland) Order 1977[^f00002].[^key-0eda5c0c5be69fd1b41d4a5ddb1e1889]
+The Department of Finance and Personnel[^f00001] makes the following Regulations in exercise of the powers conferred by Article 30A of the Rates (Northern Ireland) Order 1977[^f00002].[^c-0eda5c0c5be69fd1b41d4a5ddb1e1889]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-175a3d74a9073b4618b1fe2d5276be98]
+### 1. Citation and commencement[^c-175a3d74a9073b4618b1fe2d5276be98]
 
 (1) These Regulations may be cited as the Rate Relief (General) Regulations (Northern Ireland) 2007 and shall come into operation on 1st April 2007.
 
 (2) These Regulations are to be read, in a case where a person if he, or if he has a partner, his partner, has attained the qualifying age for state pension credit, with the Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007[^f00003].
 
-### 2. Interpretation[^key-0944dd73c161c9cc605aa36e99295705]
+### 2. Interpretation[^c-0944dd73c161c9cc605aa36e99295705]
 
 (1) Regulation 2(1) of the Housing Benefit Regulations (interpretation) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -165,7 +165,7 @@ The Department of Finance and Personnel[^f00001] makes the following Regulations
 - (b) as if in paragraph (4) for “dwelling”, wherever it occurs, there were substituted “hereditament”;
 - (c) as if in paragraph (4)(a)(i) the words from “and, in the case of” to “use the land,” were omitted.
 
-### 3. Modification of regulations 3 to 6[^key-6a5df8445bae7879c6ab8026751c3f53]
+### 3. Modification of regulations 3 to 6[^c-6a5df8445bae7879c6ab8026751c3f53]
 
 Regulations 3 to 6 of the Housing Benefit Regulations shall apply for the purposes of these Regulations as they apply for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -182,13 +182,13 @@ Regulations 3 to 6 of the Housing Benefit Regulations shall apply for the purpos
 
 ### Arrangements for rate relief
 
-#### 4. Rate relief scheme[^key-8018e7edbc9081bad12034a4a8ca9928]
+#### 4. Rate relief scheme[^c-8018e7edbc9081bad12034a4a8ca9928]
 
 (1) The relevant authorities shall take such steps as appear to them appropriate for the purpose of securing that persons who may be entitled to rate relief become aware that they may be entitled to it.
 
 (2) The relevant authorities shall make copies of the rate relief scheme available, without payment, for public inspection at their offices at all reasonable hours.
 
-#### 5. Arrangements for rate relief[^key-813369ec3893408df5a36783ab9eb315]
+#### 5. Arrangements for rate relief[^c-813369ec3893408df5a36783ab9eb315]
 
 (1) Rate relief shall be granted in accordance with paragraph (2).
 
@@ -201,7 +201,7 @@ Regulations 3 to 6 of the Housing Benefit Regulations shall apply for the purpos
 
 and “pay”, in relation to rate relief, includes discharge in any of those forms.
 
-**6.**[^key-82a29054f49741117442586c340f7e4a] (1) Rate relief shall be administered by—
+**6.**[^c-82a29054f49741117442586c340f7e4a] (1) Rate relief shall be administered by—
 
 - (a) the Department insofar as it relates to persons who own the hereditaments which they occupy as their home;
 - (b) the Executive insofar as it relates to persons who are tenants of the Executive, private tenants or tenants of registered housing associations.
@@ -215,7 +215,7 @@ and “pay”, in relation to rate relief, includes discharge in any of those fo
 
 ## PART 2 — Provisions affecting entitlement to rate relief
 
-### 7. Entitlement to rate relief[^key-1a384a182e7b7706f19ecb616b83f3f6]
+### 7. Entitlement to rate relief[^c-1a384a182e7b7706f19ecb616b83f3f6]
 
 A person is entitled to rate relief if—
 
@@ -225,20 +225,20 @@ A person is entitled to rate relief if—
   - (i) he is, or if a claim for housing benefit were made would be, entitled to less than 100% housing benefit; or
   - (ii) he is not, or if such a claim were made would not be, entitled to any housing benefit because his income exceeds the amount calculated in accordance with Part 5 (applicable amounts).
 
-**8.**[^key-bcd5596197d0419c0dd6e6a5e6dc868f] Where a person is entitled to rate relief, then—
+**8.**[^c-bcd5596197d0419c0dd6e6a5e6dc868f] Where a person is entitled to rate relief, then—
 
 - (a) if he has no income or his income does not exceed the applicable amount calculated in accordance with Part 5 (applicable amounts), the amount of rate relief shall be the amount which is the appropriate maximum rate relief in his case; or
 - (b) if his income exceeds the applicable amount calculated in accordance with Part 5, the amount of rate relief shall be the amount calculated under regulation 23 (calculation of weekly amount of rate relief).
 
 ### Exclusions from rate relief
 
-#### 9. Exclusions from rate relief[^key-ae0f9241872bf523d48ebc4f6c5103e9]
+#### 9. Exclusions from rate relief[^c-ae0f9241872bf523d48ebc4f6c5103e9]
 
 Where one member of a family is entitled to rate relief that entitlement excludes any other member being entitled to that relief for the same period.
 
-**10.**[^key-307047e3264b6bdb3c2303cf621414ad] A person shall not be entitled to rate relief where he is a person who is not chargeable to rates in respect of a hereditament.
+**10.**[^c-307047e3264b6bdb3c2303cf621414ad] A person shall not be entitled to rate relief where he is a person who is not chargeable to rates in respect of a hereditament.
 
-#### 11. Modification of Part II and Schedule A1[^key-ea8cba351cd813a1bbe7e9028da16971]
+#### 11. Modification of Part II and Schedule A1[^c-ea8cba351cd813a1bbe7e9028da16971]
 
 (1) Part II of the Housing Benefit Regulations (provisions affecting entitlement to housing benefit) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -288,7 +288,7 @@ Where one member of a family is entitled to rate relief that entitlement exclude
   there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 31”;
 - (k) as if in paragraph 10 after “Schedule 10” there were inserted “to the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 30”.
 
-#### 12. Modification of the Immigration and Asylum Act[^key-c6682daadc853d1a995b37d06841a129]
+#### 12. Modification of the Immigration and Asylum Act[^c-c6682daadc853d1a995b37d06841a129]
 
 Section 115 of the Immigration and Asylum Act (exclusion from benefits) shall apply for the purposes of these Regulations as it applies to the Housing Benefit Regulations with the following modifications—
 
@@ -304,7 +304,7 @@ Section 115 of the Immigration and Asylum Act (exclusion from benefits) shall ap
 
   .
 
-#### 13. Modification of the Social Security (Immigration and Asylum) Consequential Amendments Regulations[^key-5c5c6a301cf65cb7042f58e2cd3cab05]
+#### 13. Modification of the Social Security (Immigration and Asylum) Consequential Amendments Regulations[^c-5c5c6a301cf65cb7042f58e2cd3cab05]
 
 Regulation 2 of and Part I of the Schedule to the Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000[^f00009] shall apply for the purposes of these Regulations as they apply for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -319,7 +319,7 @@ Regulation 2 of and Part I of the Schedule to the Social Security (Immigration a
 
 ## PART 3 — Payments in respect of a hereditament
 
-### 14. Modification of Part III[^key-fd536dd62c56e2f1b26a2c738cb1aeb0]
+### 14. Modification of Part III[^c-fd536dd62c56e2f1b26a2c738cb1aeb0]
 
 Part III of the Housing Benefit Regulations (payments in respect of a dwelling) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -340,7 +340,7 @@ Part III of the Housing Benefit Regulations (payments in respect of a dwelling) 
 
 ## PART 4 — Membership of a family
 
-### 15. Modification of the Act[^key-bcbda5a00d06d070b90abe56ef72a690]
+### 15. Modification of the Act[^c-bcbda5a00d06d070b90abe56ef72a690]
 
 Sections 133(1) and 138 of the Act shall apply for the purposes of these Regulations as they apply for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -351,7 +351,7 @@ Sections 133(1) and 138 of the Act shall apply for the purposes of these Regulat
   - (iv) “war pension scheme”;
 - (b) as if in section 138 for “the Department” there were substituted “the Department of Finance and Personnel”.
 
-### 16. Modification of Part IV[^key-5cd4cb693280730ba3ee1c3f1f3bb07f]
+### 16. Modification of Part IV[^c-5cd4cb693280730ba3ee1c3f1f3bb07f]
 
 Part IV of the Housing Benefit Regulations (membership of a family) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -364,7 +364,7 @@ Part IV of the Housing Benefit Regulations (membership of a family) shall apply 
 
 ## PART 5 — Applicable amounts
 
-### 17. Modification of Part V and Schedule 4[^key-dfa74f9592902b282f0ab1864d0329fd]
+### 17. Modification of Part V and Schedule 4[^c-dfa74f9592902b282f0ab1864d0329fd]
 
 (1) Part V of the Housing Benefit Regulations (applicable amounts) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -391,11 +391,11 @@ Part IV of the Housing Benefit Regulations (membership of a family) shall apply 
 
 ## PART 6 — Income and capital
 
-### 18. Modification of the Act[^key-a841479de83ca6d501dc982e375d1ef5]
+### 18. Modification of the Act[^c-a841479de83ca6d501dc982e375d1ef5]
 
 Section 132(1) of the Act shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modification as if for “an income-related benefit” there were substituted “rate relief”.
 
-### 19. Modification of Part VI and Schedules 5, 6 and 7[^key-c6b3dc0365bb7d7e37c723898fbe32f7]
+### 19. Modification of Part VI and Schedules 5, 6 and 7[^c-c6b3dc0365bb7d7e37c723898fbe32f7]
 
 (1) Part VI of the Housing Benefit Regulations (income and capital) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -536,13 +536,13 @@ Section 132(1) of the Act shall apply for the purposes of these Regulations as i
 - (f) as if in paragraph 23 after “or 61” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulations 19 and 21”;
 - (g) as if in paragraph 49(3) after “regulation 72” there were inserted “of the Housing Benefit Regulations as applied with modifications for the purposes of these Regulations by regulation 22”.
 
-### 20. Notional entitlement to housing benefit[^key-0819796c5cf33e2eb7cb6e626539e2e3]
+### 20. Notional entitlement to housing benefit[^c-0819796c5cf33e2eb7cb6e626539e2e3]
 
 Where a person has not made a claim for housing benefit, the relevant authority shall assess what the amount of his entitlement to housing benefit in the form of a rate rebate (“notional amount”) would be were he to make such a claim and an amount equivalent to that notional amount shall be taken into account in full as housing benefit when assessing entitlement to rate relief in accordance with regulation 23 (calculation of weekly amount of rate relief).
 
 ## PART 7 — Students
 
-### 21. Modification of Part VII[^key-e9d4c7c699ca0e9860990f7a5a49bcc9]
+### 21. Modification of Part VII[^c-e9d4c7c699ca0e9860990f7a5a49bcc9]
 
 Subject to regulation 9 (exclusions from rate relief), Part VII of the Housing Benefit Regulations (students) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -570,7 +570,7 @@ Subject to regulation 9 (exclusions from rate relief), Part VII of the Housing B
 
 ## PART 8 — Amount of rate relief
 
-### 22. Modification of Part VIII and Schedules 8 and 9[^key-891b1427f87696bb141f99598922e995]
+### 22. Modification of Part VIII and Schedules 8 and 9[^c-891b1427f87696bb141f99598922e995]
 
 (1) Part VIII of the Housing Benefit Regulations (amount of benefit) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -626,7 +626,7 @@ Subject to regulation 9 (exclusions from rate relief), Part VII of the Housing B
 
 ## PART 9 — Calculation of weekly amounts and changes of circumstances
 
-### 23. Calculation of weekly amount of rate relief[^key-c122dc95c61a579db5b69338be4aaec8]
+### 23. Calculation of weekly amount of rate relief[^c-c122dc95c61a579db5b69338be4aaec8]
 
 (1) For the purposes of Article 30A of the principal Order the amount of a person’s rate relief in any rate relief week shall be calculated by applying the formula (“the rate relief formula”)—
 
@@ -649,7 +649,7 @@ where—
 
 (3) Where the result of the rate relief formula is zero or a negative amount there shall be no entitlement to a payment of rate relief.
 
-### 24. Modification of Part IX[^key-4d49d95c62f196265e4a34172b2d1d98]
+### 24. Modification of Part IX[^c-4d49d95c62f196265e4a34172b2d1d98]
 
 Part IX of the Housing Benefit Regulations (calculation of weekly amounts and changes of circumstances) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -710,13 +710,13 @@ Part IX of the Housing Benefit Regulations (calculation of weekly amounts and ch
     - (bb) for “rent-free” there were substituted “rate-free”;
     - (cc) “rent or” were omitted.
 
-### 25. Date on which entitlement is to commence[^key-7e8dbe538dcee5894e034137f750e601]
+### 25. Date on which entitlement is to commence[^c-7e8dbe538dcee5894e034137f750e601]
 
 A person who makes a claim within one month of his receipt of a decision on his claim to housing benefit and he is entitled to rate relief he shall be entitled to that rate relief from the rate relief week corresponding to the benefit week from which he is entitled to housing benefit.
 
 ## PART 10 — Claims
 
-### 26. Modification of Part X and Schedule 11[^key-328276ae494c162d793a6f92edcc0856]
+### 26. Modification of Part X and Schedule 11[^c-328276ae494c162d793a6f92edcc0856]
 
 (1) Part X of the Housing Benefit Regulations[^f00010] (claims) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -745,21 +745,21 @@ A person who makes a claim within one month of his receipt of a decision on his 
 
 (2) Schedule 11 to the Housing Benefit Regulations[^f00011] (electronic communication) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modification as if in paragraph 2(1) for “housing benefit” there were substituted “rate relief”.
 
-### 27. Making a claim for rate relief[^key-9512025d82165cb2a3d1415669b764d3]
+### 27. Making a claim for rate relief[^c-9512025d82165cb2a3d1415669b764d3]
 
 Subject to regulation 26(2), every claim for rate relief shall be made in writing on a form approved by the Department for the purpose of rate relief, or in such other manner, being in writing, as the Department may accept as sufficient in the circumstances of any particular case.
 
-### 28. Claims in advance for rate relief[^key-c985281bdc7e71897babb28f6a8f764d]
+### 28. Claims in advance for rate relief[^c-c985281bdc7e71897babb28f6a8f764d]
 
 Where a claim is received by a relevant authority prior to 1st April 2007 it shall be treated as having been made on 1st April 2007.
 
-### 29. Entitlement dependent on claim[^key-9abee49aa7ad0468a4cede68ba288fc4]
+### 29. Entitlement dependent on claim[^c-9abee49aa7ad0468a4cede68ba288fc4]
 
 Entitlement to a payment of rate relief shall be dependent upon a claim for rate relief being made in accordance with the provisions of these Regulations.
 
 ## PART 11 — Decisions on questions
 
-### 30. Modification of Part XI and Schedule 10[^key-0599244651525922205d3ba22289463e]
+### 30. Modification of Part XI and Schedule 10[^c-0599244651525922205d3ba22289463e]
 
 (1) Part XI of the Housing Benefit Regulations (decisions on questions) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -805,7 +805,7 @@ Entitlement to a payment of rate relief shall be dependent upon a claim for rate
 
 ## PART 12 — Payments
 
-### 31. Modification of Part XII[^key-bf88205417d1fa885a366d6a749a8987]
+### 31. Modification of Part XII[^c-bf88205417d1fa885a366d6a749a8987]
 
 Part XII of the Housing Benefit Regulations (payments) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the modifications set out in the following paragraphs—
 
@@ -862,7 +862,7 @@ Part XII of the Housing Benefit Regulations (payments) shall apply for the purpo
 
 ## PART 13 — Overpayments
 
-### 32. Application of section 73 of the Administration Act[^key-9ee65fa7d615d2c705fb55931d935e80]
+### 32. Application of section 73 of the Administration Act[^c-9ee65fa7d615d2c705fb55931d935e80]
 
 Section 73(1), (2), (3)(a) and (b) and (7) of the Administration Act shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -870,7 +870,7 @@ Section 73(1), (2), (3)(a) and (b) and (7) of the Administration Act shall apply
 - (b) in paragraph (1) for “by the Department, the Department of the Environment or by the Housing Executive” there were substituted “the relevant authority”;
 - (c) paragraph (2) for “the Department of the Environment or the Housing Executive” there were substituted “the relevant authority”.
 
-### 33. Modification of Part XIII[^key-7427f318156186b6bce51da341514fac]
+### 33. Modification of Part XIII[^c-7427f318156186b6bce51da341514fac]
 
 Part XIII of the Housing Benefit Regulations (overpayments) shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -911,7 +911,7 @@ Part XIII of the Housing Benefit Regulations (overpayments) shall apply for the 
   - (ii) “rent or” were omitted;
 - (j) as if regulation 101A, and regulations 102 to 104[^M_F_84d200bd-4e79-451d-f77d-c44dbe170291] were omitted.
 
-### 34. Destination of repayments, etc.[^key-615d21bfc51eb5b1740130e0ebff7726]
+### 34. Destination of repayments, etc.[^c-615d21bfc51eb5b1740130e0ebff7726]
 
 (1) Any sum recovered by, received by or repaid to a relevant authority under or by virtue of any provision of these Regulations shall be paid into the Consolidated Fund of Northern Ireland.
 
@@ -919,15 +919,15 @@ Part XIII of the Housing Benefit Regulations (overpayments) shall apply for the 
 
 ## PART 14 — Supply of Information
 
-### 35. Supply of information[^key-781eb7e214458caad9b68ac9f3c66098]
+### 35. Supply of information[^c-781eb7e214458caad9b68ac9f3c66098]
 
 Where information or evidence relating to a rate relief claim has been received at an office of a relevant authority that is not the appropriate office that authority shall forward the information or evidence received to the appropriate office.
 
-### 36. Sharing of information[^key-168a98b02293edea71a5a27bf8e0c148]
+### 36. Sharing of information[^c-168a98b02293edea71a5a27bf8e0c148]
 
 Where information is given and evidence is gathered in relation to a claim for housing benefit that information or evidence may be used in relation to a claim for rate relief but only where the claimant has given permission, in writing, for such information or evidence to be shared.
 
-### 37. Supply of government information for fraud prevention and verification[^key-aac57fe46da26176fb5ad8f850f84df7]
+### 37. Supply of government information for fraud prevention and verification[^c-aac57fe46da26176fb5ad8f850f84df7]
 
 (1) This regulation applies to information which is held by, or by a person providing services to, a Minister of the Crown or a Northern Ireland department or other government department and which relates to any matter relating to rate relief.
 
@@ -949,7 +949,7 @@ Where information is given and evidence is gathered in relation to a claim for h
 
 (5) This regulation does not limit the circumstances in which information may be supplied apart from this regulation.
 
-### 38. Supply of information to the Executive[^key-e6959029111fe8e37c0d48b71dfd7925]
+### 38. Supply of information to the Executive[^c-e6959029111fe8e37c0d48b71dfd7925]
 
 (1) This regulation applies to information relating to rate relief which is held—
 
@@ -990,7 +990,7 @@ for use in the administration of rate relief.
 - (a) any reference to a person authorised to exercise any function of the Executive relating to housing benefit shall include a reference to a person providing services to the Executive which relate to that benefit; and
 - (b) any reference to the exercise of any function relating to such a benefit shall include a reference to the provision of any services so relating.
 
-### 39. Supply of information by the Executive[^key-6dc944224fab287b1941969d22dc052e]
+### 39. Supply of information by the Executive[^c-6dc944224fab287b1941969d22dc052e]
 
 (1) The Department may require—
 
@@ -1015,7 +1015,7 @@ to supply rate relief policy information held by the Executive or other person t
 - (a) in preparing estimates of likely future expenditure on rate relief; or
 - (b) in developing policy relating to rate relief.
 
-### 40. Unauthorised disclosure of information relating to particular persons[^key-98f39c066319303f98ce4b7a63d90766]
+### 40. Unauthorised disclosure of information relating to particular persons[^c-98f39c066319303f98ce4b7a63d90766]
 
 (1) A person who is or has been employed in rate relief administration or adjudication is guilty of an offence if he discloses without lawful authority any information which he acquired in the course of his employment and which relates to a particular person.
 
@@ -1105,7 +1105,7 @@ the appropriate person is the attorney, controller, receiver or appointee, as th
 
 ## PART 15 — Decisions, Revisions and Appeals
 
-### 41. Modification of the 2000 Act[^key-c0771c4429313da72c3fcf4209c8bf39]
+### 41. Modification of the 2000 Act[^c-c0771c4429313da72c3fcf4209c8bf39]
 
 Schedule 7 to the 2000 Act shall apply for the purposes of these Regulations as it applies for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -1123,7 +1123,7 @@ Schedule 7 to the 2000 Act shall apply for the purposes of these Regulations as 
 - (g) as if in paragraph 20(1)(b) the reference to the Department were a reference to the Department of Finance and Personnel;
 - (h) as if paragraphs 21 and 22 were omitted.
 
-### 42. Modification of the Decisions and Appeals Regulations 1999[^key-b731000fe245f26021cb86fc0ec493e2]
+### 42. Modification of the Decisions and Appeals Regulations 1999[^c-b731000fe245f26021cb86fc0ec493e2]
 
 (1) Subject to paragraph (2), the provisions in Chapters II to V of Part V of the Decisions and Appeals Regulations 1999 shall apply, in relation to the procedure to be followed in respect of appeals under Schedule 7 to the 2000 Act, to these Regulations as they apply for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -1157,7 +1157,7 @@ Schedule 7 to the 2000 Act shall apply for the purposes of these Regulations as 
 
 (2) Regulations 38A, 41, 42, 44, 45, 52 and 54(13) shall not apply in relation to the procedure to be followed in respect of appeals under Schedule 7 to the 2000 Act.
 
-### 43. Modification of the Decisions and Appeals Regulations[^key-5ea324fec3e17b51069d5b30a06b4c82]
+### 43. Modification of the Decisions and Appeals Regulations[^c-5ea324fec3e17b51069d5b30a06b4c82]
 
 The Decisions and Appeals Regulations shall apply for the purposes of these Regulations as they apply for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -1209,7 +1209,7 @@ The Decisions and Appeals Regulations shall apply for the purposes of these Regu
   - (ii)[^M_F_697a38c5-20d4-48c3-e4e5-ef3ea4fb3303] paragraphs 1A, 5 and 6 were omitted;
   - (iii) in paragraph 4 after “these Regulations” and “regulation 14” there were inserted “as applied with modifications for the purposes of these Regulations by regulation 43”.
 
-### 44. Modification of the Commissioner Procedures Regulations[^key-49c7cc54b6de02417f889694bd6e719e]
+### 44. Modification of the Commissioner Procedures Regulations[^c-49c7cc54b6de02417f889694bd6e719e]
 
 The Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999[^f00017] Regulations shall apply for the purposes of these Regulations as they apply for the purposes of the Housing Benefit Regulations with the following modifications—
 
@@ -1283,7 +1283,7 @@ The Social Security Commissioners (Procedure) Regulations (Northern Ireland) 199
 
 ## PART 16 — Enforcement
 
-### 45. Authorisations for investigators[^key-a622eb7f0a03fbf1a3786eb08302c9f3]
+### 45. Authorisations for investigators[^c-a622eb7f0a03fbf1a3786eb08302c9f3]
 
 (1) An individual who for the time being has the Department’s authorisation for the purposes of this Part, shall be entitled, for any one or more of the purposes mentioned in paragraph (2), to exercise any of the powers which are conferred on an authorised officer by regulation 46 (provision of information).
 
@@ -1316,7 +1316,7 @@ The Social Security Commissioners (Procedure) Regulations (Northern Ireland) 199
 
 (8) The powers conferred by regulation 46 shall be exercisable in relation to persons holding office under the Crown and persons in the service of the Crown, and in relation to premises owned or occupied by the Crown, as they are exercisable in relation to other persons and premises.
 
-### 46. Provision of information[^key-8376a07c851458ddca7bbbb664c789a4]
+### 46. Provision of information[^c-8376a07c851458ddca7bbbb664c789a4]
 
 (1) An authorised officer who has reasonable grounds for suspecting that a person—
 
@@ -1351,7 +1351,7 @@ may, by written notice, require that person to provide all such information desc
 
 and for the purposes of this paragraph it is immaterial whether the information is in documentary form or not.
 
-### 47. Authorisations by Housing Executive[^key-e38fe2eb9cc6cbf0870cfa067563cc1a]
+### 47. Authorisations by Housing Executive[^c-e38fe2eb9cc6cbf0870cfa067563cc1a]
 
 (1) An individual who for the time being has the authorisation of the Executive for the purposes of this Part, (“a Housing Executive authorisation”) shall be entitled, for any one or more of the purposes mentioned in paragraph (2), to exercise any of the powers which, subject to paragraph (7), are conferred on an authorised officer by regulation 46 (power to require information).
 
@@ -1383,11 +1383,11 @@ and for the purposes of this paragraph it is immaterial whether the information 
 - (a) with the substitution for every reference to the purposes mentioned in regulation 45(2) of a reference to the purposes mentioned in paragraph (2); and
 - (b) with the substitution for every reference to the principal Order of a reference to so much of it as relates to rate relief.
 
-### 48. Delay, obstruction etc. of inspector[^key-9438b53f5bf8f7cd93dbeaf09dba26e8]
+### 48. Delay, obstruction etc. of inspector[^c-9438b53f5bf8f7cd93dbeaf09dba26e8]
 
 If a person refuses or neglects to answer any question or to furnish any information or to produce any document when required to do so under these Regulations, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 49. False representations for obtaining relief[^key-ec130b7d1c04b81436ad971b44d812a4]
+### 49. False representations for obtaining relief[^c-ec130b7d1c04b81436ad971b44d812a4]
 
 (1) If a person for the purpose of obtaining rate relief under the principal Order, whether for himself or some other person, or for any other purpose connected with that legislation—
 
@@ -1407,7 +1407,7 @@ he shall be guilty of an offence.
 
 (4) A person guilty of an offence under this regulation shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale, or to imprisonment for a term not exceeding 3 months, or to both.
 
-### 50. Breach of regulations[^key-f2f1340056643ac9f470dfbbb362ae82]
+### 50. Breach of regulations[^c-f2f1340056643ac9f470dfbbb362ae82]
 
 (1) A person who contravenes, or fails to comply with, any provision of these Regulations shall be guilty of an offence.
 
@@ -1416,7 +1416,7 @@ he shall be guilty of an offence.
 - (a) to a fine not exceeding level 3 on the standard scale;
 - (b) in the case of an offence of continuing a contravention or failure after conviction, to a fine not exceeding £40 for each day on which it is so continued.
 
-### 51. Penalty as alternative to prosecution[^key-e6657eb2928f581edb0f2d3de4cbadee]
+### 51. Penalty as alternative to prosecution[^c-e6657eb2928f581edb0f2d3de4cbadee]
 
 (1) This regulation applies where an overpayment is recoverable from a person by, or due from a person to, the Department or the Executive under or by virtue of regulation 33 and it appears to the Department or the Executive that—
 
@@ -1460,7 +1460,7 @@ he shall be guilty of an offence.
 
 and the reference in paragraph (1)(a) to the making of the overpayment is to the making of the payment, the failure to receive the sum, the payment of rate relief in excess of entitlement or the allowing of an excess of rate relief.
 
-### 52. Notice[^key-1f3e6578fc583671820a255af76ca67b]
+### 52. Notice[^c-1f3e6578fc583671820a255af76ca67b]
 
 (1) Where the Department or the Executive gives to a person a written notice under regulation 51(2), the notice shall contain the information that—
 
@@ -1477,7 +1477,7 @@ and the reference in paragraph (1)(a) to the making of the overpayment is to the
 - (a) he manner specified by the relevant authority by which the person may agree to pay a penalty;
 - (b) the manner specified by the relevant authority by which the person may notify the withdrawal of his agreement to pay a penalty.
 
-### 53. Legal proceedings[^key-7dbb10f5ed1e62f331b54ebee82c9db9]
+### 53. Legal proceedings[^c-7dbb10f5ed1e62f331b54ebee82c9db9]
 
 (1) Any person authorised by the Department or the Executive in that behalf may conduct any proceedings under any provision of the principal Order relating to rate relief before a magistrates’ court, although not a barrister or solicitor.
 
@@ -1485,11 +1485,11 @@ and the reference in paragraph (1)(a) to the making of the overpayment is to the
 
 (3) For the purposes of paragraph (2) a certificate purporting to be signed by or on behalf of the Minister in charge of the Department or by a senior officer of the Department or by a member of the Executive or by an officer of the Executive authorised by it to act for the purposes of this regulation as to the date on which such evidence as is mentioned in paragraph (2) came to its or the Executive’s knowledge shall be conclusive evidence of that date.
 
-(4)[^key-85e302904fd3baee9c03dfcf9d3ae668] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-85e302904fd3baee9c03dfcf9d3ae668] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e802b7c636f3c58bf54f9b6af6d10238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e802b7c636f3c58bf54f9b6af6d10238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 54. Interpretation of enforcement provisions[^key-73e4d7f359a8186da4981cd0b9efc0ef]
+### 54. Interpretation of enforcement provisions[^c-73e4d7f359a8186da4981cd0b9efc0ef]
 
 (1) In this Part “authorised officer” means a person acting in accordance with any authorisation for the purposes of this Part, which is for the time being in force in relation to him.
 
@@ -1523,7 +1523,7 @@ and references in this Part to the occupier of any premises shall be construed, 
 
 ## PART 17 — Rate Relief Finance
 
-### 55. Rate relief finance[^key-f603a68d5ee0acb42fc6fafab15199b8]
+### 55. Rate relief finance[^c-f603a68d5ee0acb42fc6fafab15199b8]
 
 (1) The Department shall, in respect of each financial year, pay to the Executive a grant towards the expenditure incurred or to be incurred by the Executive in that year by way of payment of rate relief (including, if the Department so determines, an amount towards the cost of administering rate relief).
 
@@ -1531,7 +1531,7 @@ and references in this Part to the occupier of any premises shall be construed, 
 
 (3) A grant under paragraph (1) shall be paid to the Executive at such time and in such manner as the Department may think fit.
 
-### 56. Claims for finance etc.[^key-126eb47e3832d5f58aae47cdf4b9139f]
+### 56. Claims for finance etc.[^c-126eb47e3832d5f58aae47cdf4b9139f]
 
 (1) The Department, unless it otherwise determines, shall not pay a grant under regulation 55 until the Executive has made a claim for it in such form and manner as the Department may determine.
 
@@ -1544,13 +1544,13 @@ and references in this Part to the occupier of any premises shall be construed, 
 
 (4) Where the amount of the grant paid to the Executive for any year is found to be incorrect, the amount of the grant payable to it for any subsequent year may be adjusted for the purpose of rectifying that mistake in whole or in part.
 
-### 57. Persons to report on administration[^key-2531c28c1cd584ec2ab12e577ef90799]
+### 57. Persons to report on administration[^c-2531c28c1cd584ec2ab12e577ef90799]
 
 (1) The Department may authorise persons to consider and report to it on the administration by the Executive of rate relief and, in particular, the Executive’s performance in the prevention and detection of fraud relating to that relief.
 
 (2) A person may be authorised under paragraph (1) on such terms and for such period as the Department thinks fit.
 
-### 58. Powers of investigation[^key-c852c1038f9a285ef622246725bb3613]
+### 58. Powers of investigation[^c-c852c1038f9a285ef622246725bb3613]
 
 (1) A person authorised under regulation 57—
 
@@ -1572,7 +1572,7 @@ and references in this Part to the occupier of any premises shall be construed, 
 
 (5) In this regulation “document” means anything in which information of any description is recorded.
 
-### 59. Reports[^key-ac4c2362c06713bb18aac954d68b6ed5]
+### 59. Reports[^c-ac4c2362c06713bb18aac954d68b6ed5]
 
 (1) A report about the Executive by a person authorised under regulation 57(1) may include recommendations about improvements which could be made by the Executive in its administration of rate relief and, in particular, in the prevention and detection of fraud relating to that relief.
 
@@ -1580,7 +1580,7 @@ and references in this Part to the occupier of any premises shall be construed, 
 
 ### Directions by Department
 
-#### 60. Directions[^key-03bf7c737c444d771b674d731564fe05]
+#### 60. Directions[^c-03bf7c737c444d771b674d731564fe05]
 
 (1) This regulation applies where—
 
@@ -1600,7 +1600,7 @@ and references in this Part to the occupier of any premises shall be construed, 
 
 (4) When giving directions to the Executive under paragraph (3), the Department may make recommendations to the Executive setting out any course of action which the Department thinks the Executive might take to attain the standards which it is directed to attain.
 
-#### 61. Information about attainment of standards[^key-5480ff13433dd5811d2287b9332b4152]
+#### 61. Information about attainment of standards[^c-5480ff13433dd5811d2287b9332b4152]
 
 (1) Where directions have been given to the Executive under regulation 60(3), the Department may require the Executive to supply to it any information which the Department considers may assist it in deciding—
 
@@ -1609,7 +1609,7 @@ and references in this Part to the occupier of any premises shall be construed, 
 
 (2) Information may be supplied under paragraph (1) in such manner and form as the Department may require.
 
-#### 62. Enforcement notices[^key-d74837a239ad21c81c7d1c368ba07f6f]
+#### 62. Enforcement notices[^c-d74837a239ad21c81c7d1c368ba07f6f]
 
 (1) Where directions have been given to the Executive under regulation 60(3) and the Department—
 
@@ -1637,7 +1637,7 @@ the Department may serve on the Executive a written notice under this regulation
 
 (6) The serving of a notice under this regulation relating to any directions or matter does not prevent the serving of further notices under this regulation relating to the same directions or matter.
 
-#### 63. Enforcement determination[^key-e9ea107296b95a9192fd3e19a3c645cf]
+#### 63. Enforcement determination[^c-e9ea107296b95a9192fd3e19a3c645cf]
 
 (1) Where, after the time specified in the notice under regulation 62, has expired, the Department—
 
@@ -1664,7 +1664,7 @@ the Department may make a determination under this regulation.
 - (b) provision that it may not be carried out by any person (other than the Executive) who has been carrying it out; and
 - (c) provision that any contract made by the Executive with any person for carrying it out shall include terms requiring a level of performance which will secure, or contribute to securing, the attainment of the standards in question.
 
-#### 64. Enforcement determination: Supplementary[^key-13582af166485916cf4fe7eae5cfcfc8]
+#### 64. Enforcement determination: Supplementary[^c-13582af166485916cf4fe7eae5cfcfc8]
 
 (1) The provisions included in a determination, under regulation 63, shall take effect from a date specified in the determination; and different dates may be specified in relation to different provisions.
 
@@ -1679,7 +1679,7 @@ the Department may make a determination under this regulation.
 
 (5) A determination under regulation 63 shall have effect in spite of any statutory provision under or by virtue of which the Executive is required or authorised to carry out any work to which the determination relates.
 
-#### 65. Role of NIAO auditors in relation to rate relief[^key-754188956adfe9bd371195e6b4886b72]
+#### 65. Role of NIAO auditors in relation to rate relief[^c-754188956adfe9bd371195e6b4886b72]
 
 (1) The Department may request an auditor of the Northern Ireland Audit Office (“NIAO auditor”) to conduct or assist the Department in conducting studies designed to improve economy, efficiency, effectiveness and quality of performance in the discharge by the Executive of functions relating to the administration of rate relief.
 
@@ -1703,7 +1703,7 @@ the Department may make a determination under this regulation.
 
 ## PART 18 — Payment of travelling expenses by Department
 
-### 66. Payment of travelling expenses by Department[^key-c46ae7b17c78d99a32476da83ad98564]
+### 66. Payment of travelling expenses by Department[^c-c46ae7b17c78d99a32476da83ad98564]
 
 The relevant authority may pay such travelling expenses as it may determine—
 
@@ -1766,13 +1766,13 @@ Part 18 contains provisions relating to payment of travelling expenses by the De
 
 [^f00002]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 30A was inserted by Article 14 of [S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954)
 
-[^key-0eda5c0c5be69fd1b41d4a5ddb1e1889]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2007/204) excluded (27.9.2017) by [The Rate Relief Regulations (Northern Ireland) 2017 (S.R. 2017/184)](https://www.legislation.gov.uk/nisr/2017/184), [reg. 38(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/38/2) (with [reg. 38(3)](https://www.legislation.gov.uk/nisr/2017/184/regulation/38/3))
+[^c-0eda5c0c5be69fd1b41d4a5ddb1e1889]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2007/204) excluded (27.9.2017) by [The Rate Relief Regulations (Northern Ireland) 2017 (S.R. 2017/184)](https://www.legislation.gov.uk/nisr/2017/184), [reg. 38(2)](https://www.legislation.gov.uk/nisr/2017/184/regulation/38/2) (with [reg. 38(3)](https://www.legislation.gov.uk/nisr/2017/184/regulation/38/3))
 
-[^key-175a3d74a9073b4618b1fe2d5276be98]: Commencement: Reg. 1 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-175a3d74a9073b4618b1fe2d5276be98]: Commencement: Reg. 1 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2007 No. 203](https://www.legislation.gov.uk/nisr/2007/203)
 
-[^key-0944dd73c161c9cc605aa36e99295705]: Commencement: Reg. 2 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-0944dd73c161c9cc605aa36e99295705]: Commencement: Reg. 2 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_479721d0-c73d-4968-cc94-7652fc859337]: Textual amendment: Reg. 2(1)(za) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [2(2)(a)](https://www.legislation.gov.uk/nisr/2009/339/regulation/2/made)
 
@@ -1806,49 +1806,49 @@ Part 18 contains provisions relating to payment of travelling expenses by the De
 
 [^f00007]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 
-[^key-6a5df8445bae7879c6ab8026751c3f53]: Commencement: Reg. 3 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-6a5df8445bae7879c6ab8026751c3f53]: Commencement: Reg. 3 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_31a694e2-e93d-4521-9f9b-bae9cd241383]: Textual amendment: Reg. 3(a)(iv)(aa) substituted (9.11.2009) by[The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made)[regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [2(3)](https://www.legislation.gov.uk/nisr/2009/339/regulation/2/made)
 
 [^M_F_c346c78a-e7a2-4beb-b260-161587322dc6]: Textual amendment: Reg. 3(c) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/made), [regs 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [2(3)](https://www.legislation.gov.uk/nisr/2010/194/regulation/2/made)
 
-[^key-8018e7edbc9081bad12034a4a8ca9928]: Commencement: Reg. 4 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-8018e7edbc9081bad12034a4a8ca9928]: Commencement: Reg. 4 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-813369ec3893408df5a36783ab9eb315]: Commencement: Reg. 5 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-813369ec3893408df5a36783ab9eb315]: Commencement: Reg. 5 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-82a29054f49741117442586c340f7e4a]: Commencement: Reg. 6 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-82a29054f49741117442586c340f7e4a]: Commencement: Reg. 6 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725)
 
-[^key-1a384a182e7b7706f19ecb616b83f3f6]: Commencement: Reg. 7 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-1a384a182e7b7706f19ecb616b83f3f6]: Commencement: Reg. 7 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-bcd5596197d0419c0dd6e6a5e6dc868f]: Commencement: Reg. 8 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-bcd5596197d0419c0dd6e6a5e6dc868f]: Commencement: Reg. 8 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-ae0f9241872bf523d48ebc4f6c5103e9]: Commencement: Reg. 9 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-ae0f9241872bf523d48ebc4f6c5103e9]: Commencement: Reg. 9 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-307047e3264b6bdb3c2303cf621414ad]: Commencement: Reg. 10 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-307047e3264b6bdb3c2303cf621414ad]: Commencement: Reg. 10 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-ea8cba351cd813a1bbe7e9028da16971]: Commencement: Reg. 11 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-ea8cba351cd813a1bbe7e9028da16971]: Commencement: Reg. 11 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_763e9e54-e854-4eb2-9608-9747201c795b]: Textual amendment: Reg. 11(1)(e)(i)(bb) substituted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/made) , [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [2(4)](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made)
 
 [^M_F_e6e0b930-cc85-463e-8901-318b8be95672]: Textual amendment: Reg. 11(1)(f) substituted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [2(4)](https://www.legislation.gov.uk/nisr/2009/339/regulation/2/made)
 
-[^key-c6682daadc853d1a995b37d06841a129]: Commencement: Reg. 12 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-c6682daadc853d1a995b37d06841a129]: Commencement: Reg. 12 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-5c5c6a301cf65cb7042f58e2cd3cab05]: Commencement: Reg. 13 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-5c5c6a301cf65cb7042f58e2cd3cab05]: Commencement: Reg. 13 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
 
-[^key-fd536dd62c56e2f1b26a2c738cb1aeb0]: Commencement: Reg. 14 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-fd536dd62c56e2f1b26a2c738cb1aeb0]: Commencement: Reg. 14 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_c6cb012c-7bf0-47e1-a967-66017b19ede7]: Textual amendment: Reg. 14(d)(i)(cc) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [2(5)](https://www.legislation.gov.uk/nisr/2009/339/regulation/2/made)
 
-[^key-bcbda5a00d06d070b90abe56ef72a690]: Commencement: Reg. 15 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-bcbda5a00d06d070b90abe56ef72a690]: Commencement: Reg. 15 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-5cd4cb693280730ba3ee1c3f1f3bb07f]: Commencement: Reg. 16 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-5cd4cb693280730ba3ee1c3f1f3bb07f]: Commencement: Reg. 16 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-dfa74f9592902b282f0ab1864d0329fd]: Commencement: Reg. 17 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-dfa74f9592902b282f0ab1864d0329fd]: Commencement: Reg. 17 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_133121c5-b179-41d1-d155-08243d060837]: Textual amendment: Reg. 17(2)(f)(ii) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [2(5)](https://www.legislation.gov.uk/nisr/2010/194/regulation/2/made)
 
@@ -1856,9 +1856,9 @@ Part 18 contains provisions relating to payment of travelling expenses by the De
 
 [^M_F_1c026adb-4551-47fb-be06-c60d7ab73e08]: Textual amendment: Reg. 17(2)(g) inserted (1.4.2011) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/43)](https://www.legislation.gov.uk/nisr/2011/43/contents/made) , [reg. 1](https://www.legislation.gov.uk/nisr/2011/43/regulation/1/made), [2(3)(b)](https://www.legislation.gov.uk/nisr/2011/43/regulation/2/made)
 
-[^key-a841479de83ca6d501dc982e375d1ef5]: Commencement: Reg. 18 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-a841479de83ca6d501dc982e375d1ef5]: Commencement: Reg. 18 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-c6b3dc0365bb7d7e37c723898fbe32f7]: Commencement: Reg. 19 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-c6b3dc0365bb7d7e37c723898fbe32f7]: Commencement: Reg. 19 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_7483b270-f37f-4f21-f389-ca7a60fc3c59]: Textual amendment: Reg. 19(1)(g) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [2(6)(a)](https://www.legislation.gov.uk/nisr/2010/194/regulation/2/made)
 
@@ -1878,11 +1878,11 @@ Part 18 contains provisions relating to payment of travelling expenses by the De
 
 [^M_F_c43f05b4-46f5-47e1-f66a-928fc873c86d]: Textual amendment: Words in reg. 19(2)(e) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [2(6)(e)](https://www.legislation.gov.uk/nisr/2010/194/regulation/2/made)
 
-[^key-0819796c5cf33e2eb7cb6e626539e2e3]: Commencement: Reg. 20 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-0819796c5cf33e2eb7cb6e626539e2e3]: Commencement: Reg. 20 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-e9d4c7c699ca0e9860990f7a5a49bcc9]: Commencement: Reg. 21 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-e9d4c7c699ca0e9860990f7a5a49bcc9]: Commencement: Reg. 21 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-891b1427f87696bb141f99598922e995]: Commencement: Reg. 22 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-891b1427f87696bb141f99598922e995]: Commencement: Reg. 22 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_5df11e00-ff28-4580-8137-3df9f1d893a3]: Textual amendment: Reg. 22(1)(d),(2),(3) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [2(7)](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made)
 
@@ -1894,15 +1894,15 @@ Part 18 contains provisions relating to payment of travelling expenses by the De
 
 [^M_F_823ff7dc-b562-465b-f2bf-c7e7115a3b7d]: Textual amendment: Reg. 22(1)(ha)(hb) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made) , [regs 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [2(6)(d)](https://www.legislation.gov.uk/nisr/2009/339/regulation/2/made)
 
-[^key-c122dc95c61a579db5b69338be4aaec8]: Commencement: Reg. 23 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-c122dc95c61a579db5b69338be4aaec8]: Commencement: Reg. 23 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-4d49d95c62f196265e4a34172b2d1d98]: Commencement: Reg. 24 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-4d49d95c62f196265e4a34172b2d1d98]: Commencement: Reg. 24 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_7904b8ea-2c78-41af-e6ae-57f457be361c]: Textual amendment: Reg. 24(f)(vi) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://editorial.legislation.gov.uk/nisr/2010/194/contents/made), [regs 1](https://editorial.legislation.gov.uk/nisr/2010/194/regulation/1/made), [2(8)](https://editorial.legislation.gov.uk/nisr/2010/194/regulation/2/made)
 
-[^key-7e8dbe538dcee5894e034137f750e601]: Commencement: Reg. 25 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-7e8dbe538dcee5894e034137f750e601]: Commencement: Reg. 25 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-328276ae494c162d793a6f92edcc0856]: Commencement: Reg. 26 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-328276ae494c162d793a6f92edcc0856]: Commencement: Reg. 26 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^f00010]: Footnote: Regulations 81, 83 and 84 were amended by regulation 2 of [S.R. 2006 No. 462](https://www.legislation.gov.uk/nisr/2006/462) and regulations 81A and 84A were inserted by regulation 2 of [S.R. 2006 No. 463](https://www.legislation.gov.uk/nisr/2006/463)
 
@@ -1914,13 +1914,13 @@ Part 18 contains provisions relating to payment of travelling expenses by the De
 
 [^f00011]: Footnote: Schedule 11 was inserted by Article 2(5) of [S.R. 2006 No. 463](https://www.legislation.gov.uk/nisr/2006/463)
 
-[^key-9512025d82165cb2a3d1415669b764d3]: Commencement: Reg. 27 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-9512025d82165cb2a3d1415669b764d3]: Commencement: Reg. 27 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-c985281bdc7e71897babb28f6a8f764d]: Commencement: Reg. 28 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-c985281bdc7e71897babb28f6a8f764d]: Commencement: Reg. 28 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-9abee49aa7ad0468a4cede68ba288fc4]: Commencement: Reg. 29 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-9abee49aa7ad0468a4cede68ba288fc4]: Commencement: Reg. 29 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-0599244651525922205d3ba22289463e]: Commencement: Reg. 30 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-0599244651525922205d3ba22289463e]: Commencement: Reg. 30 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_7dc71137-0b2d-4134-b219-2ca5e16f7adb]: Textual amendment: Reg. 30(1)(a) substituted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://editorial.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://editorial.legislation.gov.uk/nisr/2010/194/regulation/1/made), [2(10)(a)](https://editorial.legislation.gov.uk/nisr/2010/194/regulation/2/made)
 
@@ -1928,15 +1928,15 @@ Part 18 contains provisions relating to payment of travelling expenses by the De
 
 [^M_F_4aef28b2-1225-4e54-9d94-4bb3bde01818]: Textual amendment: Reg. 30(2)(d)(zi) inserted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://editorial.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://editorial.legislation.gov.uk/nisr/2010/194/regulation/1/made), [2(10)(b)](https://editorial.legislation.gov.uk/nisr/2010/194/regulation/2/made)
 
-[^key-bf88205417d1fa885a366d6a749a8987]: Commencement: Reg. 31 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-bf88205417d1fa885a366d6a749a8987]: Commencement: Reg. 31 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_00b31b8d-0c15-45cc-d982-64fc91f65150]: Textual amendment: Reg. 31(c) omitted (1.7.2010) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/194)](https://www.legislation.gov.uk/nisr/2010/194/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/194/regulation/1/made), [2(11)](https://www.legislation.gov.uk/nisr/2010/194/regulation/2/made)
 
 [^M_F_d020afdb-d760-4abb-f20c-9ac27c6b005e]: Textual amendment: Reg. 31(g)(iia) inserted (9.11.2009) by [(S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [Regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [2(9)](https://www.legislation.gov.uk/nisr/2009/339/regulation/2/made)
 
-[^key-9ee65fa7d615d2c705fb55931d935e80]: Commencement: Reg. 32 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-9ee65fa7d615d2c705fb55931d935e80]: Commencement: Reg. 32 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-7427f318156186b6bce51da341514fac]: Commencement: Reg. 33 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-7427f318156186b6bce51da341514fac]: Commencement: Reg. 33 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_f62f2a9c-da48-4a17-c319-3cb3191eb4b1]: Textual amendment: Reg. 33(f)(iia) inserted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [2(10)(a)](https://www.legislation.gov.uk/nisr/2009/339/regulation/2/made)
 
@@ -1946,19 +1946,19 @@ Part 18 contains provisions relating to payment of travelling expenses by the De
 
 [^M_F_84d200bd-4e79-451d-f77d-c44dbe170291]: Textual amendment: Words in reg. 33(j) substituted (1.4.2011) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/43)](https://www.legislation.gov.uk/nisr/2011/43/contents/made), [regs 1](https://www.legislation.gov.uk/nisr/2011/43/regulation/1/made), [2(7)](https://www.legislation.gov.uk/nisr/2011/43/regulation/2/made)
 
-[^key-615d21bfc51eb5b1740130e0ebff7726]: Commencement: Reg. 34 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-615d21bfc51eb5b1740130e0ebff7726]: Commencement: Reg. 34 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-781eb7e214458caad9b68ac9f3c66098]: Commencement: Reg. 35 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-781eb7e214458caad9b68ac9f3c66098]: Commencement: Reg. 35 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-168a98b02293edea71a5a27bf8e0c148]: Commencement: Reg. 36 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-168a98b02293edea71a5a27bf8e0c148]: Commencement: Reg. 36 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-aac57fe46da26176fb5ad8f850f84df7]: Commencement: Reg. 37 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-aac57fe46da26176fb5ad8f850f84df7]: Commencement: Reg. 37 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-e6959029111fe8e37c0d48b71dfd7925]: Commencement: Reg. 38 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-e6959029111fe8e37c0d48b71dfd7925]: Commencement: Reg. 38 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-6dc944224fab287b1941969d22dc052e]: Commencement: Reg. 39 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-6dc944224fab287b1941969d22dc052e]: Commencement: Reg. 39 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-98f39c066319303f98ce4b7a63d90766]: Commencement: Reg. 40 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-98f39c066319303f98ce4b7a63d90766]: Commencement: Reg. 40 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 1986/595 (N.I.)](https://www.legislation.gov.uk/nisi/1986/595)
 
@@ -1972,11 +1972,11 @@ Part 18 contains provisions relating to payment of travelling expenses by the De
 
 [^M_F_85aa43bb-d303-494a-e9e4-76910326ac3c]: Textual amendment: Words in reg. 40(10)(b) substituted by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133/contents/made) [Regs. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1/made), [Sch. para. 38](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/38/made)
 
-[^key-c0771c4429313da72c3fcf4209c8bf39]: Commencement: Reg. 41 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-c0771c4429313da72c3fcf4209c8bf39]: Commencement: Reg. 41 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-b731000fe245f26021cb86fc0ec493e2]: Commencement: Reg. 42 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-b731000fe245f26021cb86fc0ec493e2]: Commencement: Reg. 42 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-5ea324fec3e17b51069d5b30a06b4c82]: Commencement: Reg. 43 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-5ea324fec3e17b51069d5b30a06b4c82]: Commencement: Reg. 43 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^M_F_ade9679b-e202-442a-dbd0-ad6d80e16486]: Textual amendment: Words in reg. 43(g)(ii) omitted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [2(12)(a)](https://www.legislation.gov.uk/nisr/2009/339/regulation/2/made)
 
@@ -1988,7 +1988,7 @@ Part 18 contains provisions relating to payment of travelling expenses by the De
 
 [^M_F_697a38c5-20d4-48c3-e4e5-ef3ea4fb3303]: Textual amendment: Reg. 43(n)(ii) substituted (9.11.2009) by [The Rate Relief (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/339)](https://www.legislation.gov.uk/nisr/2009/339/contents/made), [regs. 1](https://www.legislation.gov.uk/nisr/2009/339/regulation/1/made), [2(12)(e)](https://www.legislation.gov.uk/nisr/2009/339/regulation/2/made)
 
-[^key-49c7cc54b6de02417f889694bd6e719e]: Commencement: Reg. 44 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-49c7cc54b6de02417f889694bd6e719e]: Commencement: Reg. 44 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1999 No. 225](https://www.legislation.gov.uk/nisr/1999/225)
 
@@ -2018,54 +2018,54 @@ Part 18 contains provisions relating to payment of travelling expenses by the De
 
 [^f00030]: Footnote: Regulation 33 was amended by regulation 2(16) of [S.R. 2007 No. 146](https://www.legislation.gov.uk/nisr/2007/146)
 
-[^key-a622eb7f0a03fbf1a3786eb08302c9f3]: Commencement: Reg. 45 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-a622eb7f0a03fbf1a3786eb08302c9f3]: Commencement: Reg. 45 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-8376a07c851458ddca7bbbb664c789a4]: Commencement: Reg. 46 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-8376a07c851458ddca7bbbb664c789a4]: Commencement: Reg. 46 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-e38fe2eb9cc6cbf0870cfa067563cc1a]: Commencement: Reg. 47 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-e38fe2eb9cc6cbf0870cfa067563cc1a]: Commencement: Reg. 47 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-9438b53f5bf8f7cd93dbeaf09dba26e8]: Commencement: Reg. 48 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-9438b53f5bf8f7cd93dbeaf09dba26e8]: Commencement: Reg. 48 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-ec130b7d1c04b81436ad971b44d812a4]: Commencement: Reg. 49 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-ec130b7d1c04b81436ad971b44d812a4]: Commencement: Reg. 49 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-f2f1340056643ac9f470dfbbb362ae82]: Commencement: Reg. 50 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-f2f1340056643ac9f470dfbbb362ae82]: Commencement: Reg. 50 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-e6657eb2928f581edb0f2d3de4cbadee]: Commencement: Reg. 51 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-e6657eb2928f581edb0f2d3de4cbadee]: Commencement: Reg. 51 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-1f3e6578fc583671820a255af76ca67b]: Commencement: Reg. 52 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-1f3e6578fc583671820a255af76ca67b]: Commencement: Reg. 52 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-7dbb10f5ed1e62f331b54ebee82c9db9]: Commencement: Reg. 53 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-7dbb10f5ed1e62f331b54ebee82c9db9]: Commencement: Reg. 53 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-85e302904fd3baee9c03dfcf9d3ae668]: Textual amendment: [Reg. 53(4)](https://www.legislation.gov.uk/nisr/2007/204/regulation/53/4) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [109(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [109(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/3))
+[^c-85e302904fd3baee9c03dfcf9d3ae668]: Textual amendment: [Reg. 53(4)](https://www.legislation.gov.uk/nisr/2007/204/regulation/53/4) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [109(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [109(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/3))
 
-[^key-e802b7c636f3c58bf54f9b6af6d10238]: Textual amendment: [Reg. 53(5)](https://www.legislation.gov.uk/nisr/2007/204/regulation/53/5) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [109(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [109(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/3))
+[^c-e802b7c636f3c58bf54f9b6af6d10238]: Textual amendment: [Reg. 53(5)](https://www.legislation.gov.uk/nisr/2007/204/regulation/53/5) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [109(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [109(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/109/3))
 
-[^key-73e4d7f359a8186da4981cd0b9efc0ef]: Commencement: Reg. 54 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-73e4d7f359a8186da4981cd0b9efc0ef]: Commencement: Reg. 54 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^f00031]: Footnote: [1971 c. 61](https://www.legislation.gov.uk/ukpga/1971/61)
 
-[^key-f603a68d5ee0acb42fc6fafab15199b8]: Commencement: Reg. 55 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-f603a68d5ee0acb42fc6fafab15199b8]: Commencement: Reg. 55 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-126eb47e3832d5f58aae47cdf4b9139f]: Commencement: Reg. 56 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-126eb47e3832d5f58aae47cdf4b9139f]: Commencement: Reg. 56 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-2531c28c1cd584ec2ab12e577ef90799]: Commencement: Reg. 57 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-2531c28c1cd584ec2ab12e577ef90799]: Commencement: Reg. 57 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-c852c1038f9a285ef622246725bb3613]: Commencement: Reg. 58 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-c852c1038f9a285ef622246725bb3613]: Commencement: Reg. 58 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-ac4c2362c06713bb18aac954d68b6ed5]: Commencement: Reg. 59 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-ac4c2362c06713bb18aac954d68b6ed5]: Commencement: Reg. 59 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-03bf7c737c444d771b674d731564fe05]: Commencement: Reg. 60 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-03bf7c737c444d771b674d731564fe05]: Commencement: Reg. 60 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
 [^f00032]: Footnote: [S.I. 1981/156 (N.I. 3)](https://www.legislation.gov.uk/nisi/1981/156)
 
-[^key-5480ff13433dd5811d2287b9332b4152]: Commencement: Reg. 61 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-5480ff13433dd5811d2287b9332b4152]: Commencement: Reg. 61 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-d74837a239ad21c81c7d1c368ba07f6f]: Commencement: Reg. 62 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-d74837a239ad21c81c7d1c368ba07f6f]: Commencement: Reg. 62 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-e9ea107296b95a9192fd3e19a3c645cf]: Commencement: Reg. 63 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-e9ea107296b95a9192fd3e19a3c645cf]: Commencement: Reg. 63 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-13582af166485916cf4fe7eae5cfcfc8]: Commencement: Reg. 64 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-13582af166485916cf4fe7eae5cfcfc8]: Commencement: Reg. 64 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-754188956adfe9bd371195e6b4886b72]: Commencement: Reg. 65 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-754188956adfe9bd371195e6b4886b72]: Commencement: Reg. 65 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
 
-[^key-c46ae7b17c78d99a32476da83ad98564]: Commencement: Reg. 66 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)
+[^c-c46ae7b17c78d99a32476da83ad98564]: Commencement: Reg. 66 in operation at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1)

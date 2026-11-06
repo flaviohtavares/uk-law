@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Proposals to discontinue mainstream schools[^key-3022c6af2ff996145b304c38f4babdb2]
+## 43. Proposals to discontinue mainstream schools[^c-3022c6af2ff996145b304c38f4babdb2]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3022c6af2ff996145b304c38f4babdb2]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2013/1/section/43) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-3022c6af2ff996145b304c38f4babdb2]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2013/1/section/43) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

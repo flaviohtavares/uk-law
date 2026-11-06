@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Alteration of rules of appropriate schemes: permitted form of scheme[^key-da81bfbed71204608d87ebeeb982f3d6]
+## 119. Alteration of rules of appropriate schemes: permitted form of scheme[^c-da81bfbed71204608d87ebeeb982f3d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da81bfbed71204608d87ebeeb982f3d6]: Commencement: Art. 119 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-da81bfbed71204608d87ebeeb982f3d6]: Commencement: Art. 119 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

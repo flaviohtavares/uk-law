@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Procedure for removal of governors by the governing body[^key-0eec0a64e19126441c9864122dd91414]
+## 30. Procedure for removal of governors by the governing body[^c-0eec0a64e19126441c9864122dd91414]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0eec0a64e19126441c9864122dd91414]: Commencement: Reg. 30 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-0eec0a64e19126441c9864122dd91414]: Commencement: Reg. 30 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

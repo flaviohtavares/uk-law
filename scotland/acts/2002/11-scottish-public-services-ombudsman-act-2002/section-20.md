@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) This section applies to any information (referred to in this section as “**relevant information**”) obtained by, or supplied to, the Ombudsman or any of the Ombudsman’s advisers under or for the purposes of this Act or the 2015 Act[^key-d67ca4ac54e95ca3cfca42339f43d591] .
+(1) This section applies to any information (referred to in this section as “**relevant information**”) obtained by, or supplied to, the Ombudsman or any of the Ombudsman’s advisers under or for the purposes of this Act or the 2015 Act[^c-d67ca4ac54e95ca3cfca42339f43d591] .
 
 (2) The Ombudsman may disclose relevant information to a person or body specified in the first column of schedule 5 if the information appears to the Ombudsman to relate to any matter specified in relation to that person or body in the second column of that schedule.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d67ca4ac54e95ca3cfca42339f43d591]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/asp/2002/11/section/20/1) inserted (1.4.2016) by [Welfare Funds (Scotland) Act 2015 (asp 5)](https://www.legislation.gov.uk/asp/2015/5), [ss. 13(6)](https://www.legislation.gov.uk/asp/2015/5/section/13/6), [14(2)](https://www.legislation.gov.uk/asp/2015/5/section/14/2); [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-d67ca4ac54e95ca3cfca42339f43d591]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/asp/2002/11/section/20/1) inserted (1.4.2016) by [Welfare Funds (Scotland) Act 2015 (asp 5)](https://www.legislation.gov.uk/asp/2015/5), [ss. 13(6)](https://www.legislation.gov.uk/asp/2015/5/section/13/6), [14(2)](https://www.legislation.gov.uk/asp/2015/5/section/14/2); [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Consequential adjustment of time limits[^key-5ff4ddc364f1d6a51773676e2ac684b4]
+## 33. Consequential adjustment of time limits[^c-5ff4ddc364f1d6a51773676e2ac684b4]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ff4ddc364f1d6a51773676e2ac684b4]: Textual amendment: [Ss. 29-33](https://www.legislation.gov.uk/ukpga/2002/22/section/29) repealed (6.4.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [ss. 1](https://www.legislation.gov.uk/ukpga/2008/24/section/1), [22(1)(a)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/1); [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3) [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
+[^c-5ff4ddc364f1d6a51773676e2ac684b4]: Textual amendment: [Ss. 29-33](https://www.legislation.gov.uk/ukpga/2002/22/section/29) repealed (6.4.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [ss. 1](https://www.legislation.gov.uk/ukpga/2008/24/section/1), [22(1)(a)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/1); [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3) [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))

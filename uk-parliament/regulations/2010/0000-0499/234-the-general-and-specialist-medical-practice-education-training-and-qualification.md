@@ -72,11 +72,11 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 In this Order, “**the 1983 Act**” means the Medical Act 1983 [^c20126941].
 
-## 3. Abolition of the Postgraduate Medical Education and Training Board[^key-d834d34a22d68f2ff916ad0ff3d67e7d]
+## 3. Abolition of the Postgraduate Medical Education and Training Board[^c-d834d34a22d68f2ff916ad0ff3d67e7d]
 
 The Postgraduate Medical Education and Training Board is abolished.
 
-## 4. Amendments to the 1983 Act[^key-cb1e7302552a4ca71231046c5b30532f]
+## 4. Amendments to the 1983 Act[^c-cb1e7302552a4ca71231046c5b30532f]
 
 The amendments to the 1983 Act set out in Schedule 1 have effect.
 
@@ -109,7 +109,7 @@ The amendments to the 1983 Act set out in Schedule 1 have effect.
 - (a) the fact that the order was duly made; and
 - (b) the order's terms.
 
-## 7. Consequential amendments and revocations[^key-65e1ed0a5cae05a8c225d8293c0f5101]
+## 7. Consequential amendments and revocations[^c-65e1ed0a5cae05a8c225d8293c0f5101]
 
 (1) The consequential amendments to primary legislation set out in Part 1 of Schedule 3 have effect.
 
@@ -131,19 +131,19 @@ Clerk of the Privy Council
 
 Article 4
 
-**1.**[^key-1e4e6d01c4401e6975c3b8c5391bedc5] In section 29A(5) [^c20126961] (regulations as to licence to practise and revalidation), omit—
+**1.**[^c-1e4e6d01c4401e6975c3b8c5391bedc5] In section 29A(5) [^c20126961] (regulations as to licence to practise and revalidation), omit—
 
 - (a) the definition of “General Practitioner Register”;
 - (b) the definition of “Specialist Register” and the word “and” immediately before it.
 
-**2.**[^key-e840924e38836bf0325f890e4862d1e6] In section 29B(2A)(a) [^c20126971] (grant, refusal and withdrawal of licence), for “area” substitute “ field ”.
+**2.**[^c-e840924e38836bf0325f890e4862d1e6] In section 29B(2A)(a) [^c20126971] (grant, refusal and withdrawal of licence), for “area” substitute “ field ”.
 
-**3.**[^key-e80bfe8f80b1b47be223c8b5f77f2e43] In section 29G [^c20126981] (guidance on licences to practise)—
+**3.**[^c-e80bfe8f80b1b47be223c8b5f77f2e43] In section 29G [^c20126981] (guidance on licences to practise)—
 
 - (a) in subsection (2)(b), for “the health service, the Scottish health service or the Northern Ireland health service”, substitute “ any of the UK health services ”;
 - (b) omit subsection (3).
 
-**4.**[^key-a8110565c216ade5e9ff1b303dd21b99] In section 30 [^c20126991] (the registers)—
+**4.**[^c-a8110565c216ade5e9ff1b303dd21b99] In section 30 [^c20126991] (the registers)—
 
 - (a) before subsection (1), insert—
 
@@ -156,7 +156,7 @@ Article 4
   ;
 - (b) in subsection (4), after “the register”, insert “ , the General Practitioner Register and the Specialist Register ”.
 
-**5.**[^key-a4b6d98dbfcf13c9122b82088426430e] In section 31 [^c20127001] (power to make regulations with respect to the registers)—
+**5.**[^c-a4b6d98dbfcf13c9122b82088426430e] In section 31 [^c20127001] (power to make regulations with respect to the registers)—
 
 - (a) in subsection (1)—
   - (i) for “the register” substitute “ the registers ”;
@@ -175,7 +175,7 @@ Article 4
 - (e) in subsection (9)(a), for “the register” substitute “ the registers ”;
 - (f) in subsection (10), after “(4A),” insert “ (4B), ”.
 
-**6.**[^key-ea69ccb6b94e57f3f4009d062852cee4] In section 31A [^c20127011] (voluntary removal from the register)—
+**6.**[^c-ea69ccb6b94e57f3f4009d062852cee4] In section 31A [^c20127011] (voluntary removal from the register)—
 
 - (a) in the heading, for “the register” substitute “ any of the registers ”;
 - (b) in subsection (1)(a)—
@@ -183,7 +183,7 @@ Article 4
   - (ii) for “the register” substitute “ any of the registers ”;
 - (c) in both subsections (1)(c) and (1A), for “the register” substitute “ any of the registers ”.
 
-**7.**[^key-0bbd2f8eac1f23232c206414b94c0d84] In section 34 [^c20127021] (publication of the register)—
+**7.**[^c-0bbd2f8eac1f23232c206414b94c0d84] In section 34 [^c20127021] (publication of the register)—
 
 - (a) in the heading, for “the register” substitute “ the registers ”;
 - (b) in subsection (1), for “the register” substitute “ each of the registers ”;
@@ -197,7 +197,7 @@ Article 4
 
     .
 
-**8.**[^key-cd7a0e7e4bf2fc507b96bc87f6dae677] In section 34A [^c20127031] (proof of registration)—
+**8.**[^c-cd7a0e7e4bf2fc507b96bc87f6dae677] In section 34A [^c20127031] (proof of registration)—
 
 - (a) after “registered”, wherever that word occurs, insert “ in any of the registers ”;
 - (b) after subsection (1), insert—
@@ -207,7 +207,7 @@ Article 4
   ;
 - (c) in subsection (2), after “(1)” insert “ or (1A) ”.
 
-**9.**[^key-c5c254f1a50a9cf5f0667c21ae9f1d2b] In section 34B [^c20127041] (registration appeals), renumber the existing text as subsection (1) of section 34B and—
+**9.**[^c-c5c254f1a50a9cf5f0667c21ae9f1d2b] In section 34B [^c20127041] (registration appeals), renumber the existing text as subsection (1) of section 34B and—
 
 - (a) in the heading and in that subsection, after “registration” insert “ and training ”;
 - (b) after that subsection insert—
@@ -218,7 +218,7 @@ Article 4
 
   .
 
-**10.**[^key-e36f42187aa483cec90bd708a78a9780] After Part 4, insert the following Part—
+**10.**[^c-e36f42187aa483cec90bd708a78a9780] After Part 4, insert the following Part—
 
 > **PART 4A — POSTGRADUATE MEDICAL EDUCATION AND TRAINING**
 >
@@ -479,7 +479,7 @@ Article 4
 
 .
 
-**11.**[^key-04f09d0396d5066d7cdf16b360bc9228] For section 39(1) [^c20127061] (fraud or error in relation to registration) substitute—
+**11.**[^c-04f09d0396d5066d7cdf16b360bc9228] For section 39(1) [^c20127061] (fraud or error in relation to registration) substitute—
 
 > (1) If the Registrar is satisfied that any entry in—
 >
@@ -497,14 +497,14 @@ Article 4
 
 .
 
-**13.**[^key-2450ddc858d41216f717a544fd1b4ab5] In section 45B (responsibilities of responsible officer)—
+**13.**[^c-2450ddc858d41216f717a544fd1b4ab5] In section 45B (responsibilities of responsible officer)—
 
 - (a) in subsection (3)(d) and (e), for “the health service” substitute “ any of the UK health services ”;
 - (b) omit subsection (6).
 
-**14.**[^key-1868b068ca1ee3feade8bf0ea81d67f0] In section 46(2A)(a) (recovery of fees), for the words from “the health service” to the end of the paragraph, substitute “ any of the UK health services ”.
+**14.**[^c-1868b068ca1ee3feade8bf0ea81d67f0] In section 46(2A)(a) (recovery of fees), for the words from “the health service” to the end of the paragraph, substitute “ any of the UK health services ”.
 
-**15.**[^key-24945a11a07e058696bf247f4263517a] In section 49B [^c20127071] (the Directive: designation of competent authority etc.)—
+**15.**[^c-24945a11a07e058696bf247f4263517a] In section 49B [^c20127071] (the Directive: designation of competent authority etc.)—
 
 - (a) in subsection (2), omit paragraph (a);
 - (b) for subsection (3) substitute—
@@ -513,7 +513,7 @@ Article 4
 
   .
 
-**16.**[^key-00b7705afac1eca5f8db20a1fc25ffd8] In section 55(1)(interpretation), in the appropriate places, insert—
+**16.**[^c-00b7705afac1eca5f8db20a1fc25ffd8] In section 55(1)(interpretation), in the appropriate places, insert—
 
 > “**CCT**” means a certificate of completion of training awarded under section 34L(1);
 
@@ -547,7 +547,7 @@ Article 4
 
 .
 
-**17.**[^key-b42d86602eafa32cc50db95d868ba48b] (1) Schedule 3A [^c20127111](registration appeals) is amended as follows.
+**17.**[^c-b42d86602eafa32cc50db95d868ba48b] (1) Schedule 3A [^c20127111](registration appeals) is amended as follows.
 
 (2) In the heading, after “Registration” insert “ and Training ”.
 
@@ -611,7 +611,7 @@ Article 4
 
   .
 
-**18.**[^key-1b368efa555bf4f890c468b4f36d8333] (1) Schedule 4A [^c20127141] (Directive 2005/36: functions of the General Council under section 49B(3)) is amended as follows.
+**18.**[^c-1b368efa555bf4f890c468b4f36d8333] (1) Schedule 4A [^c20127141] (Directive 2005/36: functions of the General Council under section 49B(3)) is amended as follows.
 
 (2) In the entry relating to Article 8(1), in the second column, after paragraph (a) insert—
 
@@ -647,7 +647,7 @@ Article 4
 
 (6) In the entry relating to Article 50(3), in the second column, at the end of paragraph (b), add “ or a CCT awarded following such training ”.
 
-**19.**[^key-0750621c9057350b64ce5cb8a18a1075] In paragraph 11 of Schedule 6 (transitional and savings provisions), at the end of sub-paragraphs (1) and (2) add “ who holds a licence to practise ”.
+**19.**[^c-0750621c9057350b64ce5cb8a18a1075] In paragraph 11 of Schedule 6 (transitional and savings provisions), at the end of sub-paragraphs (1) and (2) add “ who holds a licence to practise ”.
 
 ## SCHEDULE 2 — Transitional, transitory and saving provisions
 
@@ -805,7 +805,7 @@ Article 7
 
 ### PART 1 — Consequential amendments to primary legislation
 
-**1.**[^key-ad875da60d46009de99ab995213e3f0f] (1) In each of the provisions mentioned in sub-paragraph (2), omit the entry relating to the Postgraduate Medical Education and Training Board.
+**1.**[^c-ad875da60d46009de99ab995213e3f0f] (1) In each of the provisions mentioned in sub-paragraph (2), omit the entry relating to the Postgraduate Medical Education and Training Board.
 
 (2) Those provisions are—
 
@@ -814,11 +814,11 @@ Article 7
 - (c) Part 6 of Schedule 1 to the Freedom of Information Act 2000 [^c20127191](other public bodies and offices: general); and
 - (d) Schedule 5 to the Health Act 2006 [^c20127201](the Appointments Commission: list of statutory bodies).
 
-**2.**[^key-4db847adda3ce3261d46555adf2220bf] In Schedule 7 to the Health and Social Care Act 2008 [^c20127211] (amendments of Medical Act 1983), omit paragraph 10(4).
+**2.**[^c-4db847adda3ce3261d46555adf2220bf] In Schedule 7 to the Health and Social Care Act 2008 [^c20127211] (amendments of Medical Act 1983), omit paragraph 10(4).
 
 ### PART 2 — Consequential amendments to subordinate legislation
 
-#### 3. The National Health Service (Appointment of Consultants) Regulations 1996[^key-e4508daf165beb5c31c7d237f36bf68a]
+#### 3. The National Health Service (Appointment of Consultants) Regulations 1996[^c-e4508daf165beb5c31c7d237f36bf68a]
 
 (1) The National Health Service (Appointment of Consultants) Regulations 1996 [^c20127221] are amended as follows.
 
@@ -841,7 +841,7 @@ Article 7
 
   .
 
-#### 4. The National Health Service (Appointment of Consultants) (Wales) Regulations 1996[^key-81d164287f0317e56a6228269e7ae8dc]
+#### 4. The National Health Service (Appointment of Consultants) (Wales) Regulations 1996[^c-81d164287f0317e56a6228269e7ae8dc]
 
 (1) The National Health Service (Appointment of Consultants) (Wales) Regulations 1996 [^c20127231] are amended as follows.
 
@@ -868,7 +868,7 @@ Article 7
 
 In Part 1 of Schedule 1 to the Medical Act 1983 (Amendment) Order 2002 [^c20127241] (consequential amendments to primary legislation), omit paragraph 1.
 
-#### 6. The National Health Service (Performers Lists) Regulations 2004[^key-0f7ab448838f19357279e968de09bc21]
+#### 6. The National Health Service (Performers Lists) Regulations 2004[^c-0f7ab448838f19357279e968de09bc21]
 
 (1) The National Health Service (Performers Lists) Regulations 2004 [^c20127251] are amended as follows.
 
@@ -933,7 +933,7 @@ In Part 1 of Schedule 1 to the Medical Act 1983 (Amendment) Order 2002 [^c201272
 
   .
 
-#### 7. The National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^key-d9fd4c29ce8ea9c68de9686fec1b0e73]
+#### 7. The National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^c-d9fd4c29ce8ea9c68de9686fec1b0e73]
 
 (1) The National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004 [^c20127261] are amended as follows.
 
@@ -996,7 +996,7 @@ In Part 1 of Schedule 1 to the Medical Act 1983 (Amendment) Order 2002 [^c201272
 
   .
 
-#### 8. The National Health Service (Performers Lists) (Wales) Regulations 2004[^key-20eb40cecca44bf37173f46298d413b2]
+#### 8. The National Health Service (Performers Lists) (Wales) Regulations 2004[^c-20eb40cecca44bf37173f46298d413b2]
 
 (1) The National Health Service (Performers Lists) (Wales) Regulations 2004 [^c20127271] are amended as follows.
 
@@ -1061,7 +1061,7 @@ In Part 1 of Schedule 1 to the Medical Act 1983 (Amendment) Order 2002 [^c201272
 
   .
 
-#### 9. The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^key-6dce707efcc445bcdfd99463615e7dc4]
+#### 9. The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^c-6dce707efcc445bcdfd99463615e7dc4]
 
 In regulation 2 of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004 [^c20127281] (interpretation)—
 
@@ -1080,11 +1080,11 @@ In regulation 2 of the National Health Service (Primary Medical Services Section
 
   .
 
-#### 10. The National Health Service (General Medical Services Contracts) Regulations 2004[^key-ede682a3d0ce5183f3206d0619d2d4f7]
+#### 10. The National Health Service (General Medical Services Contracts) Regulations 2004[^c-ede682a3d0ce5183f3206d0619d2d4f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^key-acc985ab52ffa91f4fa103387627f5d6]
+#### 11. The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^c-acc985ab52ffa91f4fa103387627f5d6]
 
 (1) The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004 [^c20127301] is amended as follows.
 
@@ -1105,7 +1105,7 @@ In regulation 2 of the National Health Service (Primary Medical Services Section
 
   .
 
-#### 12. The National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^key-16977b778548f7e449cab4c5c7fc53ab]
+#### 12. The National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^c-16977b778548f7e449cab4c5c7fc53ab]
 
 (1) The National Health Service (General Medical Services Contracts) (Wales) Regulations 2004 [^c20127311] is amended as follows.
 
@@ -1125,15 +1125,15 @@ In regulation 2 of the National Health Service (Primary Medical Services Section
 
 (3) In paragraph 52(2)(e)(ii) of Schedule 6 (qualifications of performers), for “the Postgraduate Medical Education and Training Board” substitute “ the General Medical Council ”.
 
-#### 13. The National Health Service (Personal Medical Services Agreements) Regulations 2004[^key-f05078649d69c2f7aea2da42dbb54749]
+#### 13. The National Health Service (Personal Medical Services Agreements) Regulations 2004[^c-f05078649d69c2f7aea2da42dbb54749]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. The National Health Service (Appointment of Consultants) (Scotland) Regulations 2009[^key-e2a6d1a66c3c8c0b0d41b13f8b26df26]
+#### 14. The National Health Service (Appointment of Consultants) (Scotland) Regulations 2009[^c-e2a6d1a66c3c8c0b0d41b13f8b26df26]
 
 In the definition of “Specialist Register” in regulation 2(1) of the National Health Service (Appointment of Consultants) (Scotland) Regulations 2009 [^c20127331], for the words from “article 13(1)” to the end substitute “ section 34D of the Medical Act 1983 ”.
 
-#### 15. Amendment of firefighters' and local government pensions legislation[^key-e8a1b4f5aa519c125bfa156b5e6c96de]
+#### 15. Amendment of firefighters' and local government pensions legislation[^c-e8a1b4f5aa519c125bfa156b5e6c96de]
 
 (1) In the provisions referred to in sub-paragraph (2), for “the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003” substitute “ section 55(1) of the Medical Act 1983 ”.
 
@@ -1153,7 +1153,7 @@ In the definition of “Specialist Register” in regulation 2(1) of the Nationa
 - (l) paragraph (a) of the definition of “qualified in occupational health medicine” in regulation 20(7) of the Local Government Pension Scheme (Benefits, Membership and Contributions)(Scotland) Regulations 2008 [^c20127451] (early leavers: ill-health);
 - (m) paragraph (a) of the definition of “qualified in occupational health medicine” in regulation 20(9) of the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations (Northern Ireland) 2009 [^c20127461] (early leavers: ill-health).
 
-#### 16. Amendment of NHS Pensions legislation[^key-5d17f723e2ff9dd1d81d46bccdb46e73]
+#### 16. Amendment of NHS Pensions legislation[^c-5d17f723e2ff9dd1d81d46bccdb46e73]
 
 (1) The following provisions are amended as set out in sub-paragraphs (2) to (5)—
 
@@ -1234,67 +1234,67 @@ An impact assessment has been prepared in relation to this Order and is availabl
 
 [^c20126941]: Marginal citation: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54).
 
-[^key-d834d34a22d68f2ff916ad0ff3d67e7d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/234/article/3) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/478/article/2/a)
+[^c-d834d34a22d68f2ff916ad0ff3d67e7d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/234/article/3) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/478/article/2/a)
 
-[^key-cb1e7302552a4ca71231046c5b30532f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/234/article/4) in force at 1.4.2010 for specified purposes by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-cb1e7302552a4ca71231046c5b30532f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/234/article/4) in force at 1.4.2010 for specified purposes by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20126951]: Marginal citation: [1946 c.36](https://www.legislation.gov.uk/ukpga/1946/36); [section 1](https://www.legislation.gov.uk/uksi/2010/234/section/1) is amended by the [Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), [Schedule 12](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12), [paragraph 2](https://www.legislation.gov.uk/ukpga/1998/38/paragraph/2).
 
-[^key-65e1ed0a5cae05a8c225d8293c0f5101]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/234/article/7) in force at 1.4.2010 for specified purposes by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-65e1ed0a5cae05a8c225d8293c0f5101]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/234/article/7) in force at 1.4.2010 for specified purposes by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
-[^key-1e4e6d01c4401e6975c3b8c5391bedc5]: Commencement: Sch. 1 para. 1 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-1e4e6d01c4401e6975c3b8c5391bedc5]: Commencement: Sch. 1 para. 1 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20126961]: Marginal citation: Section 29A is inserted by [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135). The relevant amending instrument is [S.I.2008/3131](https://www.legislation.gov.uk/uksi/2008/3131).
 
-[^key-e840924e38836bf0325f890e4862d1e6]: Commencement: Sch. 1 para. 2 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-e840924e38836bf0325f890e4862d1e6]: Commencement: Sch. 1 para. 2 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20126971]: Marginal citation: Section 29B is inserted by [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135). Subsection (2A) is inserted by [S.I.2008/3131](https://www.legislation.gov.uk/uksi/2008/3131).
 
-[^key-e80bfe8f80b1b47be223c8b5f77f2e43]: Commencement: Sch. 1 para. 3 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-e80bfe8f80b1b47be223c8b5f77f2e43]: Commencement: Sch. 1 para. 3 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20126981]: Marginal citation: Section 29G is inserted by [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I.2008/3131](https://www.legislation.gov.uk/uksi/2008/3131).
 
-[^key-a8110565c216ade5e9ff1b303dd21b99]: Commencement: Sch. 1 para. 4 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-a8110565c216ade5e9ff1b303dd21b99]: Commencement: Sch. 1 para. 4 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20126991]: Marginal citation: Relevant amendments are made to section 30 by [S.I.2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-a4b6d98dbfcf13c9122b82088426430e]: Commencement: Sch. 1 para. 5 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-a4b6d98dbfcf13c9122b82088426430e]: Commencement: Sch. 1 para. 5 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127001]: Marginal citation: Relevant amendments are made to section 31 by [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and 2006/1914.
 
-[^key-ea69ccb6b94e57f3f4009d062852cee4]: Commencement: Sch. 1 para. 6 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-ea69ccb6b94e57f3f4009d062852cee4]: Commencement: Sch. 1 para. 6 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127011]: Marginal citation: Section 31A is inserted by the [Medical (Professional Performance) Act 1995 (c.51)](https://www.legislation.gov.uk/ukpga/1995/51), [section 2](https://www.legislation.gov.uk/ukpga/1995/51/section/2) and amended by [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-0bbd2f8eac1f23232c206414b94c0d84]: Commencement: Sch. 1 para. 7 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-0bbd2f8eac1f23232c206414b94c0d84]: Commencement: Sch. 1 para. 7 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127021]: Marginal citation: Section 34 is substituted by [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-cd7a0e7e4bf2fc507b96bc87f6dae677]: Commencement: Sch. 1 para. 8 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-cd7a0e7e4bf2fc507b96bc87f6dae677]: Commencement: Sch. 1 para. 8 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127031]: Marginal citation: Section 34A is inserted by [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-c5c254f1a50a9cf5f0667c21ae9f1d2b]: Commencement: Sch. 1 para. 9 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-c5c254f1a50a9cf5f0667c21ae9f1d2b]: Commencement: Sch. 1 para. 9 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127041]: Marginal citation: Section 34B is inserted by [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-e36f42187aa483cec90bd708a78a9780]: Commencement: Sch. 1 para. 10 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-e36f42187aa483cec90bd708a78a9780]: Commencement: Sch. 1 para. 10 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127051]: Marginal citation: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-04f09d0396d5066d7cdf16b360bc9228]: Commencement: Sch. 1 para. 11 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-04f09d0396d5066d7cdf16b360bc9228]: Commencement: Sch. 1 para. 11 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127061]: Marginal citation: Section 39 is substituted by [S.I.2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-2450ddc858d41216f717a544fd1b4ab5]: Commencement: Sch. 1 para. 13 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-2450ddc858d41216f717a544fd1b4ab5]: Commencement: Sch. 1 para. 13 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
-[^key-1868b068ca1ee3feade8bf0ea81d67f0]: Commencement: Sch. 1 para. 14 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-1868b068ca1ee3feade8bf0ea81d67f0]: Commencement: Sch. 1 para. 14 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
-[^key-24945a11a07e058696bf247f4263517a]: Commencement: Sch. 1 para. 15 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-24945a11a07e058696bf247f4263517a]: Commencement: Sch. 1 para. 15 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127071]: Marginal citation: Section 49B is inserted by [S.I.2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). There is an amendment which is not relevant to this Order.
 
-[^key-00b7705afac1eca5f8db20a1fc25ffd8]: Commencement: Sch. 1 para. 16 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-00b7705afac1eca5f8db20a1fc25ffd8]: Commencement: Sch. 1 para. 16 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127081]: Marginal citation: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -1302,7 +1302,7 @@ An impact assessment has been prepared in relation to this Order and is availabl
 
 [^c20127101]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29). Section 108(1) is amended but that definition has not been amended.
 
-[^key-b42d86602eafa32cc50db95d868ba48b]: Commencement: Sch. 1 para. 17 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-b42d86602eafa32cc50db95d868ba48b]: Commencement: Sch. 1 para. 17 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127111]: Marginal citation: Schedule 3A is inserted by [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I.2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and 2007/3101.
 
@@ -1310,17 +1310,17 @@ An impact assessment has been prepared in relation to this Order and is availabl
 
 [^c20127131]: Marginal citation: [1990 c.41](https://www.legislation.gov.uk/ukpga/1990/41). Section 71 is amended by the Access to [Justice Act 1999 (c.22)](https://www.legislation.gov.uk/ukpga/1999/22), [section 43](https://www.legislation.gov.uk/ukpga/1999/22/section/43) and Schedule 6, paragraphs 4 and 9, the [Constitutional Reform Act 2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), [section 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5) and Schedule 11, Part 2, paragraph 4(1) and (3) and by the [Legal Services Act 2007 (c.29)](https://www.legislation.gov.uk/ukpga/2007/29), [section 208(1)](https://www.legislation.gov.uk/ukpga/2007/29/section/208/1) and Schedule 21, paragraphs 83 and 94 (the last mentioned amendment is not yet in force).
 
-[^key-1b368efa555bf4f890c468b4f36d8333]: Commencement: Sch. 1 para. 18 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-1b368efa555bf4f890c468b4f36d8333]: Commencement: Sch. 1 para. 18 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127141]: Marginal citation: Schedule 4A is inserted by [S.I.2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-0750621c9057350b64ce5cb8a18a1075]: Commencement: Sch. 1 para. 19 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-0750621c9057350b64ce5cb8a18a1075]: Commencement: Sch. 1 para. 19 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
 [^c20127151]: Marginal citation: [S.I.2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 
 [^c20127161]: Marginal citation: [S.I.2006/246](https://www.legislation.gov.uk/uksi/2006/246).
 
-[^key-ad875da60d46009de99ab995213e3f0f]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/1) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-ad875da60d46009de99ab995213e3f0f]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/1) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127171]: Marginal citation: [1967 c.13](https://www.legislation.gov.uk/ukpga/1967/13). Schedule 2 was substituted by [S.I.2007/3470](https://www.legislation.gov.uk/uksi/2007/3470).
 
@@ -1330,53 +1330,53 @@ An impact assessment has been prepared in relation to this Order and is availabl
 
 [^c20127201]: Marginal citation: [2006 c.28](https://www.legislation.gov.uk/ukpga/2006/28).
 
-[^key-4db847adda3ce3261d46555adf2220bf]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/2) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-4db847adda3ce3261d46555adf2220bf]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/2) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127211]: Marginal citation: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-e4508daf165beb5c31c7d237f36bf68a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/3) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-e4508daf165beb5c31c7d237f36bf68a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/3) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127221]: Marginal citation: [S.I.1996/701](https://www.legislation.gov.uk/uksi/1996/701) as amended by [S.I.2003/1250](https://www.legislation.gov.uk/uksi/2003/1250) and 2004/3365.
 
-[^key-81d164287f0317e56a6228269e7ae8dc]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/4) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-81d164287f0317e56a6228269e7ae8dc]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/4) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127231]: Marginal citation: [S.I.1996/1313](https://www.legislation.gov.uk/uksi/1996/1313) as amended by [S.I.2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 
 [^c20127241]: Marginal citation: [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-0f7ab448838f19357279e968de09bc21]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/6) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-0f7ab448838f19357279e968de09bc21]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/6) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127251]: Marginal citation: [S.I.2004/585](https://www.legislation.gov.uk/uksi/2004/585). Relevant amending instruments are [S.I.2004/2694](https://www.legislation.gov.uk/uksi/2004/2694), 2006/1385 and 2007/3101.
 
-[^key-d9fd4c29ce8ea9c68de9686fec1b0e73]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/7) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-d9fd4c29ce8ea9c68de9686fec1b0e73]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/7) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127261]: Marginal citation: [S.S.I.2004/114](https://www.legislation.gov.uk/ssi/2004/114). Relevant amending instruments are [S.S.I.2005/333](https://www.legislation.gov.uk/ssi/2005/333) and 2007/207 and [S.I.2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-20eb40cecca44bf37173f46298d413b2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/8) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-20eb40cecca44bf37173f46298d413b2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/8) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127271]: Marginal citation: [S.I.2004/1020](https://www.legislation.gov.uk/uksi/2004/1020) (W.117). Relevant amending instruments are [S.I.2005/258](https://www.legislation.gov.uk/uksi/2005/258) (W.24), 2007/3101 and 2008/1425 (W.147).
 
-[^key-6dce707efcc445bcdfd99463615e7dc4]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/9) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-6dce707efcc445bcdfd99463615e7dc4]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/9) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127281]: Marginal citation: [S.S.I.2004/116](https://www.legislation.gov.uk/ssi/2004/116). The relevant amending instrument is [S.S.I.2005/336](https://www.legislation.gov.uk/ssi/2005/336).
 
-[^key-ede682a3d0ce5183f3206d0619d2d4f7]: Textual amendment: Sch. 3 para. 10 revoked (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) Table (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
+[^c-ede682a3d0ce5183f3206d0619d2d4f7]: Textual amendment: Sch. 3 para. 10 revoked (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) Table (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
 
-[^key-acc985ab52ffa91f4fa103387627f5d6]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/11) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-acc985ab52ffa91f4fa103387627f5d6]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/11) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127301]: Marginal citation: [S.S.I.2004/115](https://www.legislation.gov.uk/ssi/2004/115). The relevant amending instrument is [S.S.I.2005/337](https://www.legislation.gov.uk/ssi/2005/337).
 
-[^key-16977b778548f7e449cab4c5c7fc53ab]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/12) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-16977b778548f7e449cab4c5c7fc53ab]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/12) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127311]: Marginal citation: [S.I.2004/478](https://www.legislation.gov.uk/uksi/2004/478) (W.48). The relevant amending instruments are [S.I.2006/358](https://www.legislation.gov.uk/uksi/2006/358) (W.46) and 2008/1425 (W.147).
 
-[^key-f05078649d69c2f7aea2da42dbb54749]: Textual amendment: Sch. 3 para. 13 revoked (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
+[^c-f05078649d69c2f7aea2da42dbb54749]: Textual amendment: Sch. 3 para. 13 revoked (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
 
-[^key-e2a6d1a66c3c8c0b0d41b13f8b26df26]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/14) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-e2a6d1a66c3c8c0b0d41b13f8b26df26]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/14) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127331]: Marginal citation: [S.S.I.2009/166](https://www.legislation.gov.uk/ssi/2009/166).
 
-[^key-e8a1b4f5aa519c125bfa156b5e6c96de]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/15) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-e8a1b4f5aa519c125bfa156b5e6c96de]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/15) in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127341]: Marginal citation: [S.I.1992/129](https://www.legislation.gov.uk/uksi/1992/129). The relevant amending instruments are [S.I.2004/1912](https://www.legislation.gov.uk/uksi/2004/1912), 2005/2980 and 2006/1672 and [S.S.I.2004/385](https://www.legislation.gov.uk/ssi/2004/385). The title of the Order and the name of the scheme was changed by [S.I.2004/2306](https://www.legislation.gov.uk/uksi/2004/2306) in relation to England and Scotland and by [S.I.2004/2918](https://www.legislation.gov.uk/uksi/2004/2918) in relation to Wales.
 
@@ -1404,7 +1404,7 @@ An impact assessment has been prepared in relation to this Order and is availabl
 
 [^c20127461]: Marginal citation: S.R.[2009 No.32](https://www.legislation.gov.uk/ukcm/2009/32).
 
-[^key-5d17f723e2ff9dd1d81d46bccdb46e73]: Commencement: Sch. 3 para. 16 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-5d17f723e2ff9dd1d81d46bccdb46e73]: Commencement: Sch. 3 para. 16 in force at 1.4.2010 by [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^c20127471]: Marginal citation: [S.I.1995/300](https://www.legislation.gov.uk/uksi/1995/300). The relevant amending instrument is [S.I.2005/661](https://www.legislation.gov.uk/uksi/2005/661).
 

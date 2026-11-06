@@ -38,9 +38,9 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Part 1 — National and Cultural Identity and Language
 
-### 1. National and cultural identity[^key-44c15b99b5cc93375e595e635a3caee1]
+### 1. National and cultural identity[^c-44c15b99b5cc93375e595e635a3caee1]
 
-(1)[^key-c6d1a084fce66828bf5b3af43110bfef][^key-b036c734fe51a0cede861edc367c6587] In the Northern Ireland Act 1998 after Part 7 insert—
+(1)[^c-c6d1a084fce66828bf5b3af43110bfef][^c-b036c734fe51a0cede861edc367c6587] In the Northern Ireland Act 1998 after Part 7 insert—
 
 > **Part 7A — National and Cultural Identity**
 >
@@ -123,11 +123,11 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 >
 > (3) The Office may dispose of any interest in the Castlereagh Foundation.
 
-(2)[^key-71c154245d208dc4661787cd9b9c8e2b] Schedule 1 contains provision about the Office of Identity and Cultural Expression.
+(2)[^c-71c154245d208dc4661787cd9b9c8e2b] Schedule 1 contains provision about the Office of Identity and Cultural Expression.
 
-### 2. Irish language[^key-e3428846a2f78ee0ddd6aed81ce06a56]
+### 2. Irish language[^c-e3428846a2f78ee0ddd6aed81ce06a56]
 
-(1)[^key-c98dc2b87b33e9ad986dcc2c095d7a47][^key-af5e0a345ea81831510bf6522dd17f1f] In the Northern Ireland Act 1998 after Part 7A (inserted by section 1(1)) insert—
+(1)[^c-c98dc2b87b33e9ad986dcc2c095d7a47][^c-af5e0a345ea81831510bf6522dd17f1f] In the Northern Ireland Act 1998 after Part 7A (inserted by section 1(1)) insert—
 
 > **Part 7B — The Irish Language**
 >
@@ -266,11 +266,11 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 > - (b) add or remove an authority for a particular purpose, or in relation to specified functions;
 > - (c) include transitional or supplementary provision.
 
-(2)[^key-f69da50743ade0e39424a8688ecc21de] Schedule 2 contains provision about the Irish Language Commissioner.
+(2)[^c-f69da50743ade0e39424a8688ecc21de] Schedule 2 contains provision about the Irish Language Commissioner.
 
-### 3. The Ulster Scots and the Ulster British tradition[^key-19fda1e9201b7a3835fe5ffedcf2bcfc]
+### 3. The Ulster Scots and the Ulster British tradition[^c-19fda1e9201b7a3835fe5ffedcf2bcfc]
 
-(1)[^key-f878cde0341dd09961f013b961226880][^key-653d871d2bfe5edf3aafc6269f9c1458] In the Northern Ireland Act 1998 after Part 7B (inserted by section 2(1)) insert—
+(1)[^c-f878cde0341dd09961f013b961226880][^c-653d871d2bfe5edf3aafc6269f9c1458] In the Northern Ireland Act 1998 after Part 7B (inserted by section 2(1)) insert—
 
 > **Part 7C — The Ulster Scots and the Ulster British tradition**
 >
@@ -362,13 +362,13 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 > - (b) add or remove an authority for a particular purpose, or in relation to specified functions;
 > - (c) include transitional or supplementary provision.
 
-(2)[^key-b706ab9a4ddc2a80f50cb50376698b3c] Schedule 3 contains provision about the Commissioner for the Ulster Scots and the Ulster British tradition.
+(2)[^c-b706ab9a4ddc2a80f50cb50376698b3c] Schedule 3 contains provision about the Commissioner for the Ulster Scots and the Ulster British tradition.
 
-### 4. Use of languages other than English in proceedings[^key-d7203b036d708ba28f34c411405c7363][^key-dc1c7891a04cd188e90e5432d543310d]
+### 4. Use of languages other than English in proceedings[^c-d7203b036d708ba28f34c411405c7363][^c-dc1c7891a04cd188e90e5432d543310d]
 
 The Administration of Justice (Language) Act (Ireland) [1737 (c. 6)](https://www.legislation.gov.uk/aip/1737/6) is repealed.
 
-### 5. Use of Ulster Scots in education[^key-e3307c73177517d917536e669b06907a][^key-9a99e0f9a64428a0c8cc8e9ae03b519f]
+### 5. Use of Ulster Scots in education[^c-e3307c73177517d917536e669b06907a][^c-9a99e0f9a64428a0c8cc8e9ae03b519f]
 
 In the Education (Northern Ireland) Order 1998 ([S.I. 1998/1759 (N.I. 13)](https://www.legislation.gov.uk/nisi/1998/1759)) after Article 89 insert—
 
@@ -378,7 +378,7 @@ In the Education (Northern Ireland) Order 1998 ([S.I. 1998/1759 (N.I. 13)](https
 
 ## Part 2 — Powers of the Secretary of State
 
-### 6. Concurrent powers and powers of direction[^key-68853b2807f5b652a894d5e680b1dda9][^key-7ab0f1b12429a2753d92d3f80837c677]
+### 6. Concurrent powers and powers of direction[^c-68853b2807f5b652a894d5e680b1dda9][^c-7ab0f1b12429a2753d92d3f80837c677]
 
 (1) The Secretary of State may do anything that a Northern Ireland Minister or Northern Ireland department could do in the exercise of an identity and language function.
 
@@ -408,7 +408,7 @@ In the Education (Northern Ireland) Order 1998 ([S.I. 1998/1759 (N.I. 13)](https
   - (b) a function ancillary to such a function;
 - “**Northern Ireland Minister**” includes the First Minister and deputy First Minister acting jointly.
 
-### 7. Concurrent powers and powers of direction: supplementary provision[^key-17cd96c5a908584c47a69e859619d3ea][^key-c5f26708d26112b059b3d7686113c22f]
+### 7. Concurrent powers and powers of direction: supplementary provision[^c-17cd96c5a908584c47a69e859619d3ea][^c-c5f26708d26112b059b3d7686113c22f]
 
 (1) The fact that a matter has not been brought to the attention of, or discussed and agreed by, the Executive Committee of the Assembly is to be disregarded when determining what a Northern Ireland Minister, Northern Ireland department or identity and language authority could do for the purposes of section 6(1) and (2).
 
@@ -427,7 +427,7 @@ In the Education (Northern Ireland) Order 1998 ([S.I. 1998/1759 (N.I. 13)](https
   - (a) who is or has been a Minister of the Crown, or
   - (b) who is or has been in Crown employment within the meaning of Article 236 of the Employment Rights (Northern Ireland) Order 1996.
 
-### 8. Establishing the Castlereagh Foundation[^key-c2adc1be70a33552085886d9de2353ad]
+### 8. Establishing the Castlereagh Foundation[^c-c2adc1be70a33552085886d9de2353ad]
 
 **Not yet in force.**
 
@@ -445,7 +445,7 @@ In the Education (Northern Ireland) Order 1998 ([S.I. 1998/1759 (N.I. 13)](https
 
 ## Part 3 — Consequential and General Provision
 
-### 9. Consequential amendments[^key-7d76d3a2baa527ac7fb47a83254a2a27]
+### 9. Consequential amendments[^c-7d76d3a2baa527ac7fb47a83254a2a27]
 
 (1) In section 96 of the Northern Ireland Act 1998 after subsection (4A) insert—
 
@@ -495,7 +495,7 @@ In the Education (Northern Ireland) Order 1998 ([S.I. 1998/1759 (N.I. 13)](https
 
 > - Commissioner for the Ulster Scots and the Ulster British tradition.
 
-### 10. Commencement[^key-2c295462a9667a10ab4931ecf8ba1418]
+### 10. Commencement[^c-2c295462a9667a10ab4931ecf8ba1418]
 
 (1) This Part comes into force on the day on which this Act is passed.
 
@@ -503,21 +503,21 @@ In the Education (Northern Ireland) Order 1998 ([S.I. 1998/1759 (N.I. 13)](https
 
 (3) Regulations under subsection (2) may appoint different days for different purposes.
 
-### 11. Extent[^key-e150da82a2dfa66a4c3e2c1953bafb30]
+### 11. Extent[^c-e150da82a2dfa66a4c3e2c1953bafb30]
 
 This Act extends to Northern Ireland only.
 
-### 12. Short title[^key-0b2ae906c04e4ef49198a0159ec3b541]
+### 12. Short title[^c-0b2ae906c04e4ef49198a0159ec3b541]
 
 This Act may be cited as the Identity and Language (Northern Ireland) Act 2022.
 
 Schedules
 
-## Schedule 1 — The Office of Identity and Cultural Expression[^key-60e94fa9879e331859fd8dd094f0969d][^key-6daf48d5bc198086c57b25a340827cf6]
+## Schedule 1 — The Office of Identity and Cultural Expression[^c-60e94fa9879e331859fd8dd094f0969d][^c-6daf48d5bc198086c57b25a340827cf6]
 
 Section 1
 
-[^key-6daf48d5bc198086c57b25a340827cf6]In the Northern Ireland Act 1998 after Schedule 9 insert—
+[^c-6daf48d5bc198086c57b25a340827cf6]In the Northern Ireland Act 1998 after Schedule 9 insert—
 
 > **Schedule 9A — The Office of Identity and Cultural Expression**
 >
@@ -650,11 +650,11 @@ Section 1
 >
 > (2) A document purporting to be an instrument issued by the Office and to be duly executed under the Office’s seal or signed on its behalf is to be received in evidence and is, unless the contrary is proved, taken to be such an instrument.
 
-## Schedule 2 — The Irish Language Commissioner[^key-623d032d71e239f3ed71e9d7fb182bfe][^key-d79679eb4c3ab8f2670651d09501ffbc]
+## Schedule 2 — The Irish Language Commissioner[^c-623d032d71e239f3ed71e9d7fb182bfe][^c-d79679eb4c3ab8f2670651d09501ffbc]
 
 Section 2
 
-[^key-d79679eb4c3ab8f2670651d09501ffbc]In the Northern Ireland Act 1998 after Schedule 9A (inserted by Schedule 1) insert—
+[^c-d79679eb4c3ab8f2670651d09501ffbc]In the Northern Ireland Act 1998 after Schedule 9A (inserted by Schedule 1) insert—
 
 > **Schedule 9B — The Irish Language Commissioner**
 >
@@ -777,11 +777,11 @@ Section 2
 >
 > (2) Where there is a vacancy in the office of Commissioner at the time when real or personal property would otherwise have vested, the property vests in the successor on appointment.
 
-## Schedule 3 — Commissioner for the Ulster Scots and the Ulster British tradition[^key-ed8d49fbcaaf939b3c03c1fd51100d65][^key-015e3efd4d50cb7b4716cbed67450d4b]
+## Schedule 3 — Commissioner for the Ulster Scots and the Ulster British tradition[^c-ed8d49fbcaaf939b3c03c1fd51100d65][^c-015e3efd4d50cb7b4716cbed67450d4b]
 
 Section 3
 
-[^key-015e3efd4d50cb7b4716cbed67450d4b]In the Northern Ireland Act after Schedule 9B (inserted by Schedule 2) insert—
+[^c-015e3efd4d50cb7b4716cbed67450d4b]In the Northern Ireland Act after Schedule 9B (inserted by Schedule 2) insert—
 
 > **Schedule 9C — Commissioner for the Ulster Scots and the Ulster British tradition**
 >
@@ -906,64 +906,64 @@ Section 3
 
 ## Annotations
 
-[^key-44c15b99b5cc93375e595e635a3caee1]: Commencement: S. 1 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
+[^c-44c15b99b5cc93375e595e635a3caee1]: Commencement: S. 1 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
 
-[^key-c6d1a084fce66828bf5b3af43110bfef]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/1/1) in force at 22.5.2023 for specified purposes by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/a)
+[^c-c6d1a084fce66828bf5b3af43110bfef]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/1/1) in force at 22.5.2023 for specified purposes by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/a)
 
-[^key-b036c734fe51a0cede861edc367c6587]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/1/1) in force at 29.1.2026 for specified purposes by [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/a)
+[^c-b036c734fe51a0cede861edc367c6587]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/1/1) in force at 29.1.2026 for specified purposes by [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/a)
 
-[^key-71c154245d208dc4661787cd9b9c8e2b]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/1/2) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/b)
+[^c-71c154245d208dc4661787cd9b9c8e2b]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/1/2) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/b)
 
-[^key-e3428846a2f78ee0ddd6aed81ce06a56]: Commencement: S. 2 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
+[^c-e3428846a2f78ee0ddd6aed81ce06a56]: Commencement: S. 2 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
 
-[^key-c98dc2b87b33e9ad986dcc2c095d7a47]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/2/1) in force at 22.5.2023 for specified purposes by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/c)
+[^c-c98dc2b87b33e9ad986dcc2c095d7a47]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/2/1) in force at 22.5.2023 for specified purposes by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/c)
 
-[^key-af5e0a345ea81831510bf6522dd17f1f]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/2/1) in force at 29.1.2026 for specified purposes by [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/b)
+[^c-af5e0a345ea81831510bf6522dd17f1f]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/2/1) in force at 29.1.2026 for specified purposes by [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/b)
 
-[^key-f69da50743ade0e39424a8688ecc21de]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/2/2) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/d)
+[^c-f69da50743ade0e39424a8688ecc21de]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/2/2) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/d)
 
-[^key-19fda1e9201b7a3835fe5ffedcf2bcfc]: Commencement: S. 3 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
+[^c-19fda1e9201b7a3835fe5ffedcf2bcfc]: Commencement: S. 3 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
 
-[^key-f878cde0341dd09961f013b961226880]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/3/1) in force at 22.5.2023 for specified purposes by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/e)
+[^c-f878cde0341dd09961f013b961226880]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/3/1) in force at 22.5.2023 for specified purposes by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/e)
 
-[^key-653d871d2bfe5edf3aafc6269f9c1458]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/3/1) in force at 29.1.2026 for specified purposes by [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/c)
+[^c-653d871d2bfe5edf3aafc6269f9c1458]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/3/1) in force at 29.1.2026 for specified purposes by [S.I. 2026/75](https://www.legislation.gov.uk/uksi/2026/75), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/75/regulation/2/c)
 
-[^key-b706ab9a4ddc2a80f50cb50376698b3c]: Commencement: [S. 3(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/3/2) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/f)
+[^c-b706ab9a4ddc2a80f50cb50376698b3c]: Commencement: [S. 3(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/3/2) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/f)
 
-[^key-d7203b036d708ba28f34c411405c7363]: Commencement: S. 4 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
+[^c-d7203b036d708ba28f34c411405c7363]: Commencement: S. 4 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
 
-[^key-dc1c7891a04cd188e90e5432d543310d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/45/section/4) in force at 26.2.2025 by [S.I. 2025/214](https://www.legislation.gov.uk/uksi/2025/214), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/214/regulation/2/1/a)
+[^c-dc1c7891a04cd188e90e5432d543310d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/45/section/4) in force at 26.2.2025 by [S.I. 2025/214](https://www.legislation.gov.uk/uksi/2025/214), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/214/regulation/2/1/a)
 
-[^key-e3307c73177517d917536e669b06907a]: Commencement: S. 5 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
+[^c-e3307c73177517d917536e669b06907a]: Commencement: S. 5 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
 
-[^key-9a99e0f9a64428a0c8cc8e9ae03b519f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/45/section/5) in force at 26.2.2025 by [S.I. 2025/214](https://www.legislation.gov.uk/uksi/2025/214), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/214/regulation/2/1/b)
+[^c-9a99e0f9a64428a0c8cc8e9ae03b519f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/45/section/5) in force at 26.2.2025 by [S.I. 2025/214](https://www.legislation.gov.uk/uksi/2025/214), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/214/regulation/2/1/b)
 
-[^key-68853b2807f5b652a894d5e680b1dda9]: Commencement: S. 6 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
+[^c-68853b2807f5b652a894d5e680b1dda9]: Commencement: S. 6 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
 
-[^key-7ab0f1b12429a2753d92d3f80837c677]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/45/section/6) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/g)
+[^c-7ab0f1b12429a2753d92d3f80837c677]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/45/section/6) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/g)
 
-[^key-17cd96c5a908584c47a69e859619d3ea]: Commencement: S. 7 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
+[^c-17cd96c5a908584c47a69e859619d3ea]: Commencement: S. 7 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
 
-[^key-c5f26708d26112b059b3d7686113c22f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/45/section/7) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/h)
+[^c-c5f26708d26112b059b3d7686113c22f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/45/section/7) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/h)
 
-[^key-c2adc1be70a33552085886d9de2353ad]: Commencement: S. 8 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
+[^c-c2adc1be70a33552085886d9de2353ad]: Commencement: S. 8 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
 
-[^key-7d76d3a2baa527ac7fb47a83254a2a27]: Commencement: S. 9 in force at Royal Assent, see [s. 10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
+[^c-7d76d3a2baa527ac7fb47a83254a2a27]: Commencement: S. 9 in force at Royal Assent, see [s. 10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
 
-[^key-2c295462a9667a10ab4931ecf8ba1418]: Commencement: S. 10 in force at Royal Assent, see [s. 10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
+[^c-2c295462a9667a10ab4931ecf8ba1418]: Commencement: S. 10 in force at Royal Assent, see [s. 10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
 
-[^key-e150da82a2dfa66a4c3e2c1953bafb30]: Commencement: S. 11 in force at Royal Assent, see [s. 10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
+[^c-e150da82a2dfa66a4c3e2c1953bafb30]: Commencement: S. 11 in force at Royal Assent, see [s. 10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
 
-[^key-0b2ae906c04e4ef49198a0159ec3b541]: Commencement: S. 12 in force at Royal Assent, see [s. 10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
+[^c-0b2ae906c04e4ef49198a0159ec3b541]: Commencement: S. 12 in force at Royal Assent, see [s. 10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
 
-[^key-60e94fa9879e331859fd8dd094f0969d]: Commencement: Sch. 1 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
+[^c-60e94fa9879e331859fd8dd094f0969d]: Commencement: Sch. 1 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
 
-[^key-6daf48d5bc198086c57b25a340827cf6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/45/schedule/1) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/b)
+[^c-6daf48d5bc198086c57b25a340827cf6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/45/schedule/1) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/b)
 
-[^key-623d032d71e239f3ed71e9d7fb182bfe]: Commencement: Sch. 2 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
+[^c-623d032d71e239f3ed71e9d7fb182bfe]: Commencement: Sch. 2 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
 
-[^key-d79679eb4c3ab8f2670651d09501ffbc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/45/schedule/2) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/d)
+[^c-d79679eb4c3ab8f2670651d09501ffbc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/45/schedule/2) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/d)
 
-[^key-ed8d49fbcaaf939b3c03c1fd51100d65]: Commencement: Sch. 3 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
+[^c-ed8d49fbcaaf939b3c03c1fd51100d65]: Commencement: Sch. 3 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2)
 
-[^key-015e3efd4d50cb7b4716cbed67450d4b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2022/45/schedule/3) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/f)
+[^c-015e3efd4d50cb7b4716cbed67450d4b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2022/45/schedule/3) in force at 22.5.2023 by [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/f)

@@ -52,7 +52,7 @@ Coming into force
 
 In accordance with section 48(4A) of the Food Safety Act 1990 he has had regard to relevant advice given by the Food Standards Agency.
 
-As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c20898351], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-8ec1307876bf115e431ad263a26c6cca]
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c20898351], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^c-8ec1307876bf115e431ad263a26c6cca]
 
 ## 1. Title, application and commencement
 
@@ -80,7 +80,7 @@ any reference in these Regulations to a food authority shall be construed, so fa
 
 ## 3. Breach of conditions on import of plastic kitchenware from China
 
-(1) No person may place on the market any relevant product that has been imported into Great Britain[^key-5f7a6d548fcd8b530467bbed0b672f7f] other than in compliance with the requirements of Article 3(1),(2) and (3) (import conditions).
+(1) No person may place on the market any relevant product that has been imported into Great Britain[^c-5f7a6d548fcd8b530467bbed0b672f7f] other than in compliance with the requirements of Article 3(1),(2) and (3) (import conditions).
 
 (2) No person may place on the market any relevant product until —
 
@@ -113,16 +113,16 @@ Any person who fails to comply with paragraph (1) or (2) of regulation 3 is guil
 
 ## 7. Expenses arising from official controls
 
-(1) Expenses charged pursuant to Article 80 of Regulation 2017/625[^key-6f081dbc18a231e418ec28aada909fc6] by a food authority to an importer in connection with the checks mentioned in Article 6(1) shall be payable by the importer on the written demand of the food authority.
+(1) Expenses charged pursuant to Article 80 of Regulation 2017/625[^c-6f081dbc18a231e418ec28aada909fc6] by a food authority to an importer in connection with the checks mentioned in Article 6(1) shall be payable by the importer on the written demand of the food authority.
 
 (2) Where a food authority identifies non-compliance —
 
 - (a) with the requirements of Article 3(1),(2) or (3) or Article 4; or
 - (b) following the checks mentioned in Article 6(1)(b),
 
-expenses charged pursuant to Article 138(4) of Regulation 2017/625[^key-0d1ede1647d574940744d05253b3be52] by a food authority to an importer shall be payable by the importer on the written demand of the food authority.
+expenses charged pursuant to Article 138(4) of Regulation 2017/625[^c-0d1ede1647d574940744d05253b3be52] by a food authority to an importer shall be payable by the importer on the written demand of the food authority.
 
-(3)[^key-cec8340cf4db5f7f5dee23627561ce51] In paragraph (1) and (2) and in regulation 8(3), “Regulation 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations [(EC) No. 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No. 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No. 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No. 1151/2012, (EU) No. 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No. 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/0120), and repealing Regulations [(EC) No. 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No. 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eud/1992/0438) (Official Controls Regulation).
+(3)[^c-cec8340cf4db5f7f5dee23627561ce51] In paragraph (1) and (2) and in regulation 8(3), “Regulation 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations [(EC) No. 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No. 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No. 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No. 1151/2012, (EU) No. 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No. 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/0120), and repealing Regulations [(EC) No. 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No. 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eud/1992/0438) (Official Controls Regulation).
 
 ## 8. Notices and actions in the case of non-compliance
 
@@ -142,10 +142,10 @@ the food authority must take the steps set out in paragraph (3).
 (3) The food authority must, by written notice —
 
 - (a) require the importer within 60 days of the date of service of the notice —
-  - (i) to re-dispatch the consignment outside Great Britain[^key-71b1f5e7d97a0b8c2a393d5ed3cbf522],
+  - (i) to re-dispatch the consignment outside Great Britain[^c-71b1f5e7d97a0b8c2a393d5ed3cbf522],
   - (ii) in the case of polyamide kitchenware, to carry out shredding and melting and form the resulting product into articles for purposes other than food contact, or
   - (iii) at the importer's expense to destroy the consignment under official control; and
-- (b) inform the importer that if the requirements of sub-paragraph (a) are not complied with the authority may in accordance with Article 138(2) and (4) of Regulation 2017/625[^key-2d0e1ceaad4bab6c2a577f521dfa8647] arrange for the destruction of the consignment and recover the costs of storage and destruction from the importer.
+- (b) inform the importer that if the requirements of sub-paragraph (a) are not complied with the authority may in accordance with Article 138(2) and (4) of Regulation 2017/625[^c-2d0e1ceaad4bab6c2a577f521dfa8647] arrange for the destruction of the consignment and recover the costs of storage and destruction from the importer.
 
 (4) Any notice under paragraph (1) or (3) may be served on the importer or the importer's representative.
 
@@ -163,7 +163,7 @@ the food authority must take the steps set out in paragraph (3).
 
 (6) Where an appeal has been brought under paragraph (1) within the period specified in paragraph (3), the effect of a notice served under regulation 8(3) is suspended pending the final determination of the appeal.
 
-## 10. Suspension of designation of first point of introduction[^key-614b8330969469cd7a6eff773e350b41]
+## 10. Suspension of designation of first point of introduction[^c-614b8330969469cd7a6eff773e350b41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -199,7 +199,7 @@ the food authority must take the steps set out in paragraph (3).
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2)[^key-9166eb8e3dc705d04803a5af7dc15b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9166eb8e3dc705d04803a5af7dc15b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular —
 
@@ -254,7 +254,7 @@ Department of Health
 
 [^c20898351]: Marginal citation: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468 with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14).
 
-[^key-8ec1307876bf115e431ad263a26c6cca]: Modification: Regulations: functions transferred and modified (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-8ec1307876bf115e431ad263a26c6cca]: Modification: Regulations: functions transferred and modified (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
 [^c20898361]: Marginal citation: OJ No. L77, 23.3.2011, p.25.
 
@@ -264,21 +264,21 @@ Department of Health
 
 [^c20898391]: Marginal citation: [1985 c.51](https://www.legislation.gov.uk/ukpga/1985/51); [paragraph 15(6)](https://www.legislation.gov.uk/uksi/2011/1517/paragraph/15/6) was amended by paragraph 31(b) of Schedule 3 to the Food Safety Act 1990.
 
-[^key-5f7a6d548fcd8b530467bbed0b672f7f]: Textual amendment: Words in reg. 3(1) substituted (31.12.2020) by [The Food and Feed Imports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/664)](https://www.legislation.gov.uk/uksi/2019/664), [regs. 1](https://www.legislation.gov.uk/uksi/2019/664/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/664/regulation/4) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/13/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f7a6d548fcd8b530467bbed0b672f7f]: Textual amendment: Words in reg. 3(1) substituted (31.12.2020) by [The Food and Feed Imports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/664)](https://www.legislation.gov.uk/uksi/2019/664), [regs. 1](https://www.legislation.gov.uk/uksi/2019/664/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/664/regulation/4) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/13/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f081dbc18a231e418ec28aada909fc6]: Textual amendment: Words in reg. 7(1) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/30/a)
+[^c-6f081dbc18a231e418ec28aada909fc6]: Textual amendment: Words in reg. 7(1) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/30/a)
 
-[^key-0d1ede1647d574940744d05253b3be52]: Textual amendment: Words in reg. 7(2) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [30(b)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/30/b)
+[^c-0d1ede1647d574940744d05253b3be52]: Textual amendment: Words in reg. 7(2) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [30(b)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/30/b)
 
-[^key-cec8340cf4db5f7f5dee23627561ce51]: Textual amendment: Reg. 7(3) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [30(c)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/30/c)
+[^c-cec8340cf4db5f7f5dee23627561ce51]: Textual amendment: Reg. 7(3) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [30(c)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/30/c)
 
 [^c20898411]: Marginal citation: OJ No. L12, 15.1.2011, p.1.
 
-[^key-71b1f5e7d97a0b8c2a393d5ed3cbf522]: Textual amendment: Words in reg. 8(3)(a)(i) substituted (31.12.2020) by [The Food and Feed Imports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/664)](https://www.legislation.gov.uk/uksi/2019/664), [regs. 1](https://www.legislation.gov.uk/uksi/2019/664/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/664/regulation/5) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/13/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71b1f5e7d97a0b8c2a393d5ed3cbf522]: Textual amendment: Words in reg. 8(3)(a)(i) substituted (31.12.2020) by [The Food and Feed Imports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/664)](https://www.legislation.gov.uk/uksi/2019/664), [regs. 1](https://www.legislation.gov.uk/uksi/2019/664/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/664/regulation/5) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/13/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d0e1ceaad4bab6c2a577f521dfa8647]: Textual amendment: Words in reg. 8(3)(b) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [31](https://www.legislation.gov.uk/uksi/2019/1476/regulation/31)
+[^c-2d0e1ceaad4bab6c2a577f521dfa8647]: Textual amendment: Words in reg. 8(3)(b) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [31](https://www.legislation.gov.uk/uksi/2019/1476/regulation/31)
 
-[^key-614b8330969469cd7a6eff773e350b41]: Textual amendment: Reg. 10 omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [32](https://www.legislation.gov.uk/uksi/2019/1476/regulation/32)
+[^c-614b8330969469cd7a6eff773e350b41]: Textual amendment: Reg. 10 omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [32](https://www.legislation.gov.uk/uksi/2019/1476/regulation/32)
 
 [^c20898421]: Marginal citation: [Section 21](https://www.legislation.gov.uk/uksi/2011/1517/section/21) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
@@ -288,4 +288,4 @@ Department of Health
 
 [^c20898451]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/uksi/2011/1517/section/36A) was inserted by the [Food Standards Act 1999 (1999 c.28)](https://www.legislation.gov.uk/ukpga/1999/28), [Schedule 5](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5), [paragraph 16](https://www.legislation.gov.uk/ukpga/1999/28/paragraph/16).
 
-[^key-9166eb8e3dc705d04803a5af7dc15b18]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/uksi/2011/1517/regulation/12/2) omitted (31.12.2020) by virtue of [The Food and Feed Imports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/664)](https://www.legislation.gov.uk/uksi/2019/664), [regs. 1](https://www.legislation.gov.uk/uksi/2019/664/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/664/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9166eb8e3dc705d04803a5af7dc15b18]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/uksi/2011/1517/regulation/12/2) omitted (31.12.2020) by virtue of [The Food and Feed Imports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/664)](https://www.legislation.gov.uk/uksi/2019/664), [regs. 1](https://www.legislation.gov.uk/uksi/2019/664/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/664/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

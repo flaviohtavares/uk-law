@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13D. Power to extend time limit for implementation[^key-3fd808a9352a39a4a34befb0a7c7d0c7]
+## 13D. Power to extend time limit for implementation[^c-3fd808a9352a39a4a34befb0a7c7d0c7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fd808a9352a39a4a34befb0a7c7d0c7]: Textual amendment: [S. 13D](https://www.legislation.gov.uk/ukpga/1981/67/section/13D) inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 185(1)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/185/1/a), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))
+[^c-3fd808a9352a39a4a34befb0a7c7d0c7]: Textual amendment: [S. 13D](https://www.legislation.gov.uk/ukpga/1981/67/section/13D) inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 185(1)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/185/1/a), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Conditions for a temporary certificate[^key-27e3cd7dd939d0b004f3063d74018726]
+## 10. Conditions for a temporary certificate[^c-27e3cd7dd939d0b004f3063d74018726]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ The applicant must—
 
 ## Annotations
 
-[^key-27e3cd7dd939d0b004f3063d74018726]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2014/951/regulation/10) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-27e3cd7dd939d0b004f3063d74018726]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2014/951/regulation/10) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

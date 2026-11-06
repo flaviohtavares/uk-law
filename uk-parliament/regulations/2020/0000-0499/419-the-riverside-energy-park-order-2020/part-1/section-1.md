@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-caa1207b19eb98428bce6d70c291d59c]
+## 1. Citation and commencement[^c-caa1207b19eb98428bce6d70c291d59c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Riverside Energy Park Order 2020 and comes into f
 
 ## Annotations
 
-[^key-caa1207b19eb98428bce6d70c291d59c]: Commencement: Art. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-caa1207b19eb98428bce6d70c291d59c]: Commencement: Art. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

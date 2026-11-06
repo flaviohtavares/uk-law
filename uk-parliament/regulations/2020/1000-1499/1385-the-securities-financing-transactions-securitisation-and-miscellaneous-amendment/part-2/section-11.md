@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Temporary deemed registration under the SFT Regulation for run-off period[^key-84eda1677ad03be4de110a0b8d45af64]
+## 11. Temporary deemed registration under the SFT Regulation for run-off period[^c-84eda1677ad03be4de110a0b8d45af64]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84eda1677ad03be4de110a0b8d45af64]: Commencement: Reg. 11 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-84eda1677ad03be4de110a0b8d45af64]: Commencement: Reg. 11 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

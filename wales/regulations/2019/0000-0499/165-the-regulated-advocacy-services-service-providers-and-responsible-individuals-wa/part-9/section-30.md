@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Premises[^key-8cba4dae437daecedb1770569d7452f1]
+## 30. Premises[^c-8cba4dae437daecedb1770569d7452f1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must ensure that the premises used for the operation of the
 
 ## Annotations
 
-[^key-8cba4dae437daecedb1770569d7452f1]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2019/165/regulation/30) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-8cba4dae437daecedb1770569d7452f1]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2019/165/regulation/30) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

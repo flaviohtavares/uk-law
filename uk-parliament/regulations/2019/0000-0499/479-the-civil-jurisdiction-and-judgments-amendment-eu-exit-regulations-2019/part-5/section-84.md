@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Council Regulation [(EC) No 44/2001](https://www.legislation.gov.uk/eur/2001/44)[^key-d218ebd2a7dd29a45c510128218e443b]
+## 84. Council Regulation [(EC) No 44/2001](https://www.legislation.gov.uk/eur/2001/44)[^c-d218ebd2a7dd29a45c510128218e443b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Council Regulation [(EC) No 44/2001](https://www.legislation.gov.uk/eur/2001/44)
 
 ## Annotations
 
-[^key-d218ebd2a7dd29a45c510128218e443b]: Commencement: Reg. 84 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-d218ebd2a7dd29a45c510128218e443b]: Commencement: Reg. 84 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

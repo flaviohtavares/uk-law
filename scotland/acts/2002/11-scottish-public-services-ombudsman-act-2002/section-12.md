@@ -48,11 +48,11 @@ such allowances in respect of expenses properly incurred by the person and by wa
 - (a) any action taken by the listed authority in question,
 - (b) any power or duty of the listed authority to take further action with respect to any matter being investigated.
 
-(7)[^key-b6c97953b0ab95d3b80d432c8a9a1dca] Any reference in subsections (2)(a) and (6)(a) and (b) to the listed authority in question or to the listed authority includes, in relation to an investigation following a complaint, references to a listed authority—
+(7)[^c-b6c97953b0ab95d3b80d432c8a9a1dca] Any reference in subsections (2)(a) and (6)(a) and (b) to the listed authority in question or to the listed authority includes, in relation to an investigation following a complaint, references to a listed authority—
 
 - (a) which is not mentioned in the complaint, but
 - (b) whose action is investigated by the Ombudsman in connection with the investigation.
 
 ## Annotations
 
-[^key-b6c97953b0ab95d3b80d432c8a9a1dca]: Textual amendment: S. 12(7) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 3](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/3) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-b6c97953b0ab95d3b80d432c8a9a1dca]: Textual amendment: S. 12(7) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 3](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/3) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))

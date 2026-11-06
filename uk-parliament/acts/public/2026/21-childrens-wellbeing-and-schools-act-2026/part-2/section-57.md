@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Inspection of Academy proprietors[^key-1168731549006bbfe4dd5ebc8daa06b4]
+## 57. Inspection of Academy proprietors[^c-1168731549006bbfe4dd5ebc8daa06b4]
 
 *Extent: E+W*
 
@@ -350,4 +350,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1168731549006bbfe4dd5ebc8daa06b4]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-1168731549006bbfe4dd5ebc8daa06b4]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

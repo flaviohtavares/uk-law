@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Effect of debtor contribution order[^key-d4e819229120ef0cfff8143cf26041b2]
+## 93. Effect of debtor contribution order[^c-d4e819229120ef0cfff8143cf26041b2]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4e819229120ef0cfff8143cf26041b2]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2016/21/section/93) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-d4e819229120ef0cfff8143cf26041b2]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2016/21/section/93) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

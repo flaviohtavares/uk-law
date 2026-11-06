@@ -58,11 +58,11 @@ The Secretary of State for Communities and Local Government makes this Order in 
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-f77615adbb5289f0ab345ead497537ef]
+### 1. Citation and commencement[^c-f77615adbb5289f0ab345ead497537ef]
 
 This Order may be cited as the Bedfordshire (Structural Changes) Order 2008 and shall come into force on the day after that on which it is made.
 
-### 2. Interpretation[^key-f8ea4b60bc6138f83b7495f72dbcd931]
+### 2. Interpretation[^c-f8ea4b60bc6138f83b7495f72dbcd931]
 
 In this Order—
 
@@ -87,7 +87,7 @@ In this Order—
 
 ## PART 2 — ESTABLISHMENT OF SINGLE TIER LOCAL GOVERNMENT IN BEDFORD AND CENTRAL BEDFORDSHIRE
 
-### 3. Single tier local government in Bedford[^key-b7a920975151b90127a62fa33c2f3b3d]
+### 3. Single tier local government in Bedford[^c-b7a920975151b90127a62fa33c2f3b3d]
 
 (1) A new non-metropolitan county, to be known as Bedford, shall be constituted comprising the area of the borough of Bedford.
 
@@ -95,7 +95,7 @@ In this Order—
 
 (3) On and after 1st April 2009, Bedford Borough Council shall be the sole principal authority for Bedford.
 
-### 4. Single tier local government in Central Bedfordshire[^key-c7e824252ebcae95a9933183d7c6847f]
+### 4. Single tier local government in Central Bedfordshire[^c-c7e824252ebcae95a9933183d7c6847f]
 
 (1) A new non-metropolitan county and a new non-metropolitan district, each to be known as Central Bedfordshire, shall be constituted comprising (in each case) the areas of the districts of Mid Bedfordshire and South Bedfordshire.
 
@@ -113,7 +113,7 @@ In this Order—
 - (a) the Mid Bedfordshire and South Bedfordshire districts shall be abolished as local government areas; and
 - (b) the Mid Bedfordshire and South Bedfordshire councils shall be wound up and dissolved.
 
-### 5. County of Bedfordshire, Bedfordshire County Council and councillors of that Council[^key-778062cb7708d9f4094944aafccdfb66]
+### 5. County of Bedfordshire, Bedfordshire County Council and councillors of that Council[^c-778062cb7708d9f4094944aafccdfb66]
 
 (1) On 1st April 2009—
 
@@ -126,7 +126,7 @@ In this Order—
 
 ## PART 3 — BEDFORD: TRANSITIONAL FUNCTIONS AND THEIR DISCHARGE
 
-### 6. Interpretation of Part 3[^key-af11ed9877d97c464d2ba0af7f793c02]
+### 6. Interpretation of Part 3[^c-af11ed9877d97c464d2ba0af7f793c02]
 
 In this Part—
 
@@ -135,7 +135,7 @@ In this Part—
 - “the main transitional function” has the meaning given by article 7(1); and
 - “the Mayor” means the person who is for the time being the Mayor of Bedford.
 
-### 7. Transitional functions of Bedford Borough Council and establishment of Implementation Executive[^key-677349fce2a94b61b0756385e1dfb163]
+### 7. Transitional functions of Bedford Borough Council and establishment of Implementation Executive[^c-677349fce2a94b61b0756385e1dfb163]
 
 (1) On the coming into force of this Order there shall be added to the functions of Bedford Borough Council the function, which is to be exercisable only during the transitional period ending on 1st April 2009, of preparing for and facilitating the economic, effective, efficient and timely transfer of the county council’s functions, property, rights and liabilities so far as they relate to Bedford or the inhabitants of Bedford (“the main transitional function”).
 
@@ -187,7 +187,7 @@ to be the responsibility of a committee of the Council’s executive, to be know
 
 (12) In the case of an equality of votes, the person presiding at the meeting (whether or not the leader of the Implementation Executive) shall have a casting vote, in addition to any other vote the person may have.
 
-### 8. Other transitional functions of Implementation Executive[^key-43727de36bb1425ec74b83f2bcc39a27]
+### 8. Other transitional functions of Implementation Executive[^c-43727de36bb1425ec74b83f2bcc39a27]
 
 (1) The other transitional functions referred to in article 7(2)(b), which are to be exercisable only during the transitional period ending on 1st April 2009, are—
 
@@ -203,7 +203,7 @@ as, by any of the means mentioned in paragraph (2), the Secretary of State speci
 - (c) an order under section 20 of the 2007 Act (correction of orders), and
 - (d) regulations under section 14 of the 2007 Act (regulations for supplementing orders).
 
-### 9. Discharge of functions by Implementation Executive[^key-38382d1ec23b31d7d977d987a13f4e1b]
+### 9. Discharge of functions by Implementation Executive[^c-38382d1ec23b31d7d977d987a13f4e1b]
 
 (1) The discharge of the main transitional function and the article 8 functions shall be a responsibility of the Implementation Executive, and shall not be a responsibility of the executive of Bedford Borough Council.
 
@@ -243,7 +243,7 @@ as, by any of the means mentioned in paragraph (2), the Secretary of State speci
 
 (9) Any joint committee established as mentioned in paragraph (6) shall be dissolved on 1st April 2009.
 
-### 10. Implementation Plan and further provisions relevant to discharge of functions by Implementation Executive[^key-57e41b9eda78cfa1b309109ab8e434fd]
+### 10. Implementation Plan and further provisions relevant to discharge of functions by Implementation Executive[^c-57e41b9eda78cfa1b309109ab8e434fd]
 
 (1) The Implementation Executive shall prepare, keep under review, and revise as necessary, an Implementation Plan which shall include—
 
@@ -265,7 +265,7 @@ the Implementation Executive shall have regard to the information supplied by Be
 
 require the Council specified in the notice to take such action relevant to the main transitional function or any of the article 8 functions as may be specified in the notice.
 
-### 11. Implementation Team[^key-3a678bf56941d8f026203e5beed038c2]
+### 11. Implementation Team[^c-3a678bf56941d8f026203e5beed038c2]
 
 (1) Not later than 21 days after the coming into force of this Order the Implementation Executive shall form a team of officers for the purpose of assisting the Executive in the discharge of the main transitional function and the article 8 functions (“the Implementation Team”).
 
@@ -275,7 +275,7 @@ require the Council specified in the notice to take such action relevant to the 
 
 ## PART 4 — ELECTORAL MATTERS: BEDFORD
 
-### 12. Cancellation of elections to Bedford Borough Council in 2008, etc[^key-66662dc77de73f11528cc681ac2a4646]
+### 12. Cancellation of elections to Bedford Borough Council in 2008, etc[^c-66662dc77de73f11528cc681ac2a4646]
 
 (1) Notwithstanding section 7(8) and (9) of the 1972 Act (elections of councillors)—
 
@@ -286,7 +286,7 @@ require the Council specified in the notice to take such action relevant to the 
 
 (3) An election may be held where the vacancy arises as mentioned in section 40(2) of the 2000 Act (vacancy arising where elected mayor was elected a councillor at an earlier election).
 
-### 13. Election to Bedford Borough Council in 2009, etc[^key-8686c3d9f62731d3e4217e1033e9836c]
+### 13. Election to Bedford Borough Council in 2009, etc[^c-8686c3d9f62731d3e4217e1033e9836c]
 
 (1) A whole council election of councillors of Bedford Borough Council shall be held on the 2009 election day, and on the ordinary day of election of councillors in 2011 and in every fourth year thereafter[^f00011].
 
@@ -303,7 +303,7 @@ require the Council specified in the notice to take such action relevant to the 
 
 ## PART 5 — CENTRAL BEDFORDSHIRE: SHADOW AUTHORITY, ITS TRANSITIONAL FUNCTIONS AND THEIR DISCHARGE
 
-### 14. Interpretation of Part 5[^key-4c711ddf3d2fc773d65bc0d3d477c690]
+### 14. Interpretation of Part 5[^c-4c711ddf3d2fc773d65bc0d3d477c690]
 
 In this Part—
 
@@ -312,7 +312,7 @@ In this Part—
 - “shadow executive” has the meaning given by article 16(1); and
 - “the shadow period” means the period beginning with the day on which this Order comes into force and ending on the fourth day after the 2009 election day.
 
-### 15. Central Bedfordshire Council as shadow authority[^key-2df4acf11edb2510d9c7d24d2dee1cbd]
+### 15. Central Bedfordshire Council as shadow authority[^c-2df4acf11edb2510d9c7d24d2dee1cbd]
 
 (1) During the shadow period the Central Bedfordshire Council shall be a shadow authority for the purposes of the following provisions of this Part.
 
@@ -327,7 +327,7 @@ In this Part—
 
 (5) Where, after the coming into force of this Order and before 30th September 2008, a by-election is held to fill a casual vacancy arising in any Central electoral division or in any ward of either Mid or South Bedfordshire, the person elected at the election shall be a member of the shadow authority.
 
-### 16. Duties of shadow authority: executive arrangements, code of conduct and members’ allowances[^key-a6f762a7dcc1f2aee2d0e16f7b7c2ca8]
+### 16. Duties of shadow authority: executive arrangements, code of conduct and members’ allowances[^c-a6f762a7dcc1f2aee2d0e16f7b7c2ca8]
 
 (1) At its first meeting the shadow authority shall, in accordance with paragraphs (2) and (3), create a leader and cabinet executive within the meaning of Part 2 of the Local Government Act 2000 (arrangements with respect to executives etc), as originally enacted[^f00014] (“the shadow executive”).
 
@@ -343,7 +343,7 @@ In this Part—
 
 (5) The deputy leader of the shadow executive shall be the person who is for the time being the leader of South Bedfordshire District Council.
 
-(5A)[^key-657f11a11f7e2b1091f6c09dbcdabdf4] The persons who, on the coming into force of the Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009, are the members of the shadow executive shall—
+(5A)[^c-657f11a11f7e2b1091f6c09dbcdabdf4] The persons who, on the coming into force of the Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009, are the members of the shadow executive shall—
 
 - (a) continue as members of that executive, and
 - (b) on and after 1st April 2009, shall be the members of the Central Bedfordshire Council’s executive for the purposes of Part 2 of the Local Government Act 2000,
@@ -371,7 +371,7 @@ until the end of the shadow period, notwithstanding the dissolution on that date
 
 (9) The shadow authority shall prepare and adopt a scheme for the payment of allowances to its members; and the Local Authorities (Members’ Allowances) (England) Regulations 2003[^f00019], other than regulations 6 and 17 and Part 5, shall apply in relation to the shadow authority and its members as they apply in relation to district councils and their members.
 
-### 17. Duties of shadow authority: appointment of certain officers, etc[^key-b29c093e7b5a2ff3356e5320a82bf7c8]
+### 17. Duties of shadow authority: appointment of certain officers, etc[^c-b29c093e7b5a2ff3356e5320a82bf7c8]
 
 (1) It shall be the duty of the shadow authority at its first meeting to designate, on an interim basis, an officer of the County Council or of either of the district councils—
 
@@ -403,7 +403,7 @@ shall be responsible for performing, in relation to the Central Bedfordshire Cou
 
 (6) Subsections (2) to (6) of section 4 of the 1989 Act shall apply in relation to the shadow authority and its interim head of staff as they apply in relation to a relevant authority and its head of paid service as if references in those subsections to a relevant authority and its head of paid service were references to the shadow authority and its interim head of staff.
 
-### 18. Duties of shadow authority: proposals for executive arrangements, code of conduct and members’ allowances relating to the Central Bedfordshire Council[^key-f76c6f36280e8d3e5a5e1059c67ac14c]
+### 18. Duties of shadow authority: proposals for executive arrangements, code of conduct and members’ allowances relating to the Central Bedfordshire Council[^c-f76c6f36280e8d3e5a5e1059c67ac14c]
 
 (1) The shadow authority shall formulate proposals for the executive arrangements that are to be operated by the Central Bedfordshire Council.
 
@@ -415,7 +415,7 @@ shall be responsible for performing, in relation to the Central Bedfordshire Cou
 
 (5) The shadow authority shall formulate proposals for the scheme of members’ allowances to be adopted by the Central Bedfordshire Council.
 
-### 19. Functions of shadow authority: Implementation Plan[^key-60606833f3189ad89824bcceeb21ab74]
+### 19. Functions of shadow authority: Implementation Plan[^c-60606833f3189ad89824bcceeb21ab74]
 
 (1) The shadow authority shall prepare, keep under review, and revise as necessary, an Implementation Plan which shall include—
 
@@ -436,7 +436,7 @@ the shadow authority shall have regard to the information supplied to the Secret
 
 require the council referred to in the notice to take such action relevant to any function of that council that is to transfer on 1st April 2009 as may be specified in the notice.
 
-### 20. Other functions of shadow authority[^key-137036ad960008c8932fa76bc28b2530]
+### 20. Other functions of shadow authority[^c-137036ad960008c8932fa76bc28b2530]
 
 (1) During the shadow period the shadow authority shall have, in addition to the functions specified or referred to in articles 16 to 19, the functions described in this article, and such other functions as may be conferred on them by—
 
@@ -486,13 +486,13 @@ require the council referred to in the notice to take such action relevant to an
 - (c) for the purposes of Part 1 of the Local Government Act 2003[^f00035] (capital finance etc and accounts), as a local authority, and
 - (d) for the purposes of the Local Authorities (Standing Orders) (England) Regulations 2001[^f00036], as a relevant authority.
 
-### 21. Discharge of shadow authority’s functions by shadow executive[^key-c3ac0ecc6c61cc7e55fd8896fc31e03e]
+### 21. Discharge of shadow authority’s functions by shadow executive[^c-c3ac0ecc6c61cc7e55fd8896fc31e03e]
 
 (1) Except to the extent that any provision of any Act, this Order or regulations under section 13 of the 2000 Act requires otherwise, the functions conferred on the shadow authority by or under this Order shall be delegated to, and discharged by, the shadow executive.
 
 (2) Paragraph (1) does not prevent the shadow executive from requesting the shadow authority to discharge any function specified in a notice given by the shadow executive to the proper officer of the shadow authority; and the shadow authority shall comply with any such request within such period as the shadow executive may specify.
 
-### 22. Central Implementation Team[^key-a89ddad6a90ce6e5ab1e374b15dd6252]
+### 22. Central Implementation Team[^c-a89ddad6a90ce6e5ab1e374b15dd6252]
 
 (1) Not later than 21 days after the coming into force of this Order, the shadow executive shall form a team of officers (“the Central Implementation Team”) for the purposes of assisting it and, if so required by the shadow authority, that authority.
 
@@ -502,7 +502,7 @@ require the council referred to in the notice to take such action relevant to an
 
 ## PART 6 — ELECTORAL MATTERS: MID AND SOUTH BEDFORDSHIRE DISTRICT COUNCILS, THE CENTRAL BEDFORDSHIRE COUNCIL AND PARISHES IN BEDFORD AND CENTRAL BEDFORDSHIRE
 
-### 23. Cancellation of elections to South Bedfordshire District Council in 2008, etc[^key-b8f042acea91f3a107d3fbac6bd29cba]
+### 23. Cancellation of elections to South Bedfordshire District Council in 2008, etc[^c-b8f042acea91f3a107d3fbac6bd29cba]
 
 (1) Notwithstanding section 7(8) and (9) of the 1972 Act (elections of councillors)—
 
@@ -511,13 +511,13 @@ require the council referred to in the notice to take such action relevant to an
 
 (2) Nothing in section 89 of the 1972 Act (filling of casual vacancies in case of councillors) shall authorise the holding of an election to fill a casual vacancy in the office of councillor of South Bedfordshire District Council where that vacancy arises after 30th September 2008.
 
-### 24. Councillors of Mid Bedfordshire District Council[^key-e44f599ad213c01ac40912d85e679a01]
+### 24. Councillors of Mid Bedfordshire District Council[^c-e44f599ad213c01ac40912d85e679a01]
 
 (1) The term of office of all councillors elected to Mid Bedfordshire District Council shall end on 1st April 2009.
 
 (2) Nothing in section 89 of the 1972 Act (filling of casual vacancies in case of councillors) shall authorise the holding of an election to fill a casual vacancy in the office of councillor of Mid Bedfordshire District Council where that vacancy arises after 30th September 2008.
 
-### 25. Central Bedfordshire elections in 2009 and 2011, etc[^key-2d0a34d53c1868695feb18be4f224c44]
+### 25. Central Bedfordshire elections in 2009 and 2011, etc[^c-2d0a34d53c1868695feb18be4f224c44]
 
 (1) A whole council election of councillors of the Central Bedfordshire Council shall be held on the 2009 election day, on the ordinary day of election of councillors[^f00038] in 2011 (“the 2011 election day”), and every fourth year thereafter.
 
@@ -542,14 +542,14 @@ require the council referred to in the notice to take such action relevant to an
 
 (7) All councillors elected in 2011 or any later year shall retire on the fourth day after the ordinary day of election of councillors in the year of retirement and the newly-elected councillors shall come into office on the day on which their predecessors retire.
 
-### 26. Cancellation of parish council elections in Bedfordshire in 2008, etc[^key-703d6ab23b564477230c034b15ed61ab]
+### 26. Cancellation of parish council elections in Bedfordshire in 2008, etc[^c-703d6ab23b564477230c034b15ed61ab]
 
 (1) Notwithstanding section 16(3) of the 1972 Act (election of parish councillors)—
 
 - (a) elections shall not be held in 2008 for the return of councillors to the council of the parishes of Brickhill, Cardington, Chalgrave, Chalton, Dunstable, Eastcotts, Eggington, Great Billington, Kempston, Stanbridge, Streatley, Sundon, Tilsworth, Toddington and Totternhoe;
-- (aa)[^key-292f845bf94db44c5c44a28cde10340e] the term of office of those councillors elected in 2004 or at any subsequent election before the 2009 election day for the council of those parishes referred to in sub-paragraph (a) shall end on the fourth day thereafter;
-- (b)[^key-3a5cee0a066d1086e5602bc81a28fcca] elections for the return of councillors to the council of the parishes referred to in sub paragraph (a) shall be held on the 2009 election day;
-- (ba)[^key-3be6c0322d12377f235dd0a7cf2ed612] elections shall not be held in 2010 for the return of councillors to the council of the parishes of Bolnhurst and Keysoe, Caddington, Dean and Shelton, Eaton Bray, Elstow, Harrold, Hyde, Oakley, Odell, Pertenhall and Swineshead, Podington, Riseley, Slip End, Wilshamstead and Wymington;
+- (aa)[^c-292f845bf94db44c5c44a28cde10340e] the term of office of those councillors elected in 2004 or at any subsequent election before the 2009 election day for the council of those parishes referred to in sub-paragraph (a) shall end on the fourth day thereafter;
+- (b)[^c-3a5cee0a066d1086e5602bc81a28fcca] elections for the return of councillors to the council of the parishes referred to in sub paragraph (a) shall be held on the 2009 election day;
+- (ba)[^c-3be6c0322d12377f235dd0a7cf2ed612] elections shall not be held in 2010 for the return of councillors to the council of the parishes of Bolnhurst and Keysoe, Caddington, Dean and Shelton, Eaton Bray, Elstow, Harrold, Hyde, Oakley, Odell, Pertenhall and Swineshead, Podington, Riseley, Slip End, Wilshamstead and Wymington;
 - (bb) the term of office of those councillors elected in 2006 or at any subsequent election before the 2011 election day for the council of those parishes referred to in sub-paragraph (ba) shall end on the fourth day thereafter;
 - (c) the term of office of those parish councillors elected in 2009 or at any subsequent by-election held before the ordinary day of election of councillors in 2011 (“the 2011 election day”) shall end on the fourth day after the 2011 election day[^f00039].
 
@@ -559,7 +559,7 @@ require the council referred to in the notice to take such action relevant to an
 
 ## PART 7 — GENERAL TRANSITIONAL DUTIES OF BOROUGH, COUNTY AND DISTRICT COUNCILS
 
-### 27. General transitional duties of Bedford Borough Council and Bedfordshire County Council[^key-a5d11ada698a7f95fa108b607cc64bfb]
+### 27. General transitional duties of Bedford Borough Council and Bedfordshire County Council[^c-a5d11ada698a7f95fa108b607cc64bfb]
 
 (1) It shall be the duty of Bedford Borough Council and the County Council—
 
@@ -579,7 +579,7 @@ require the council referred to in the notice to take such action relevant to an
 
 (4) The rights conferred by paragraph (3) include the right to require any record which is not in legible form to be made available in legible form so that the authorised person may inspect or copy it or be supplied with copies.
 
-### 28. Transitional duties of the County Council and the district councils[^key-0226094126eb66fb12bc199d5f1a30ad]
+### 28. Transitional duties of the County Council and the district councils[^c-0226094126eb66fb12bc199d5f1a30ad]
 
 (1) It shall be the duty of the County Council and each of the district councils—
 
@@ -601,15 +601,15 @@ require the council referred to in the notice to take such action relevant to an
 
 ## PART 8 — CONSEQUENTIAL AMENDMENTS
 
-### 29. Amendment of the Borough of Bedford (Electoral Changes) Order 2001[^key-2128282aae92bb570c07fa7584bbeeb5]
+### 29. Amendment of the Borough of Bedford (Electoral Changes) Order 2001[^c-2128282aae92bb570c07fa7584bbeeb5]
 
 The Borough of Bedford (Electoral Changes) Order 2001[^f00040] is amended by the omission of article 3 (elections of the council of Bedford) and article 9 (parish elections).
 
-### 30. Amendment of the District of Mid Bedfordshire (Electoral Changes) Order 2001[^key-55080ea5919ae0bf0412fad241ee8328]
+### 30. Amendment of the District of Mid Bedfordshire (Electoral Changes) Order 2001[^c-55080ea5919ae0bf0412fad241ee8328]
 
 The District of Mid Bedfordshire (Electoral Changes) Order 2001[^f00041] is amended by the omission of article 3 (election of the council of Mid Bedfordshire).
 
-### 31. Amendment of the District of South Bedfordshire (Electoral Changes) Order 2001[^key-cefa0bdc1c4800dd77431d060a8515a9]
+### 31. Amendment of the District of South Bedfordshire (Electoral Changes) Order 2001[^c-cefa0bdc1c4800dd77431d060a8515a9]
 
 The District of South Bedfordshire (Electoral Changes) Order 2001[^f00042] is amended by the omission of article 2 (wards of the district of South Bedfordshire), article 3 (elections of the council of South Bedfordshire) and article 8 (parish elections).
 
@@ -623,7 +623,7 @@ Department for Communities and Local Government
 
 27th March 2008
 
-## SCHEDULE — WARDS OF CENTRAL BEDFORDSHIRE FOR 2009 ELECTION[^key-8c67079c4eac4ffc885cecaa721bb003]
+## SCHEDULE — WARDS OF CENTRAL BEDFORDSHIRE FOR 2009 ELECTION[^c-8c67079c4eac4ffc885cecaa721bb003]
 
 Article 25(2)
 
@@ -715,9 +715,9 @@ A full impact assessment has been produced for this Order. A copy of the assessm
 
 [^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). *See* section 21(3) as to proposals made in response to pre-commencement invitations, and section 23(3).
 
-[^key-f77615adbb5289f0ab345ead497537ef]: Commencement: Art. 1 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-f77615adbb5289f0ab345ead497537ef]: Commencement: Art. 1 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-f8ea4b60bc6138f83b7495f72dbcd931]: Commencement: Art. 2 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-f8ea4b60bc6138f83b7495f72dbcd931]: Commencement: Art. 2 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00002]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Relevant amendments are made by Part 3 of the Local Government and Public Involvement in Health Act 2007, but see paragraph 2 of Schedule 4 to that Act for transitional provisions relevant to Bedford Borough Council.
 
@@ -729,35 +729,35 @@ A full impact assessment has been produced for this Order. A copy of the assessm
 
 [^f00006]: Footnote: *See* article 3 of, and the Schedule to, [S.I. 2004/3245](https://www.legislation.gov.uk/uksi/2004/3245).
 
-[^key-b7a920975151b90127a62fa33c2f3b3d]: Commencement: Art. 3 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-b7a920975151b90127a62fa33c2f3b3d]: Commencement: Art. 3 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-c7e824252ebcae95a9933183d7c6847f]: Commencement: Art. 4 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-c7e824252ebcae95a9933183d7c6847f]: Commencement: Art. 4 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-778062cb7708d9f4094944aafccdfb66]: Commencement: Art. 5 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-778062cb7708d9f4094944aafccdfb66]: Commencement: Art. 5 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-af11ed9877d97c464d2ba0af7f793c02]: Commencement: Art. 6 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-af11ed9877d97c464d2ba0af7f793c02]: Commencement: Art. 6 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-677349fce2a94b61b0756385e1dfb163]: Commencement: Art. 7 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-677349fce2a94b61b0756385e1dfb163]: Commencement: Art. 7 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00007]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41). *See* the definition in section 160(1), and Part 2 of the Act.
 
-[^key-43727de36bb1425ec74b83f2bcc39a27]: Commencement: Art. 8 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-43727de36bb1425ec74b83f2bcc39a27]: Commencement: Art. 8 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00008]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-38382d1ec23b31d7d977d987a13f4e1b]: Commencement: Art. 9 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-38382d1ec23b31d7d977d987a13f4e1b]: Commencement: Art. 9 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-57e41b9eda78cfa1b309109ab8e434fd]: Commencement: Art. 10 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-57e41b9eda78cfa1b309109ab8e434fd]: Commencement: Art. 10 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00009]: Footnote: The guidance was published by the Department for Communities and Local Government. Copies of the guidance may be obtained from Communities and Local Government Publications, PO Box 236, Wetherby, West Yorkshire, LS23 7NB, quoting Product Code 06 LGSRU 04198 (Tel: 08701 226 236; Email: communities@twoten.com or online at www.communities.gov.uk).
 
-[^key-3a678bf56941d8f026203e5beed038c2]: Commencement: Art. 11 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-3a678bf56941d8f026203e5beed038c2]: Commencement: Art. 11 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-66662dc77de73f11528cc681ac2a4646]: Commencement: Art. 12 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-66662dc77de73f11528cc681ac2a4646]: Commencement: Art. 12 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00010]: Footnote: ()Under section 7(9) of the Local Government Act 1972, the term of office of councillors of non-metropolitan district councils is four years. (By virtue of subsections (5A) to (5C) of section 39 of the Local Government Act 2000, which were substituted for subsection (5) of that section by section 66(2) of the Local Government and Public Involvement in Health Act 2007, references to members or councillors of a local authority do not include references to the elected mayor of the authority unless regulations specifically provide to the contrary. See also [S.I. 2001/2544](https://www.legislation.gov.uk/uksi/2001/2544).)
 
-[^key-8686c3d9f62731d3e4217e1033e9836c]: Commencement: Art. 13 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-8686c3d9f62731d3e4217e1033e9836c]: Commencement: Art. 13 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00011]: Footnote: *See* section 37 of the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
@@ -765,15 +765,15 @@ A full impact assessment has been produced for this Order. A copy of the assessm
 
 [^f00013]: Footnote: *See* [S.I. 2001/4066](https://www.legislation.gov.uk/uksi/2001/4066).
 
-[^key-4c711ddf3d2fc773d65bc0d3d477c690]: Commencement: Art. 14 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-4c711ddf3d2fc773d65bc0d3d477c690]: Commencement: Art. 14 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-2df4acf11edb2510d9c7d24d2dee1cbd]: Commencement: Art. 15 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-2df4acf11edb2510d9c7d24d2dee1cbd]: Commencement: Art. 15 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-a6f762a7dcc1f2aee2d0e16f7b7c2ca8]: Commencement: Art. 16 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-a6f762a7dcc1f2aee2d0e16f7b7c2ca8]: Commencement: Art. 16 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00014]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Section 11 was amended by section 62 of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28). Subsection (3) of that section, as originally enacted, defines a leader and cabinet executive.
 
-[^key-657f11a11f7e2b1091f6c09dbcdabdf4]: Textual amendment: [Art. 16(5A)](https://www.legislation.gov.uk/uksi/2008/907/article/16/5A)[(5B)](https://www.legislation.gov.uk/uksi/2008/907/article/16/5B) inserted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/837/article/2/2)
+[^c-657f11a11f7e2b1091f6c09dbcdabdf4]: Textual amendment: [Art. 16(5A)](https://www.legislation.gov.uk/uksi/2008/907/article/16/5A)[(5B)](https://www.legislation.gov.uk/uksi/2008/907/article/16/5B) inserted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/837/article/2/2)
 
 [^f00015]: Footnote: In Part 2 of the Local Government Act 2000, “executive arrangements” has the meaning given by section 10; see the definition in section 48(1). Section 48(1) defines “local authority”, in relation to England, as including a district council.
 
@@ -785,7 +785,7 @@ A full impact assessment has been produced for this Order. A copy of the assessm
 
 [^f00019]: Footnote: [S.I. 2003/1021](https://www.legislation.gov.uk/uksi/2003/1021).
 
-[^key-b29c093e7b5a2ff3356e5320a82bf7c8]: Commencement: Art. 17 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-b29c093e7b5a2ff3356e5320a82bf7c8]: Commencement: Art. 17 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00020]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42). Relevant amendments were made by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), article 23.
 
@@ -795,15 +795,15 @@ A full impact assessment has been produced for this Order. A copy of the assessm
 
 [^f00023]: Footnote: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41). In section 114, subsection (3A) was inserted by the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paras 1, 66 and 79(1), and other relevant amendments were made by the Police and Magistrates’ Courts Act [1994 (c.29)](https://www.legislation.gov.uk/ukpga/1994/29), Schedule 4, Part 1, para 34 and by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), article 20. (Section 115A, which is not relevant to this Order, was inserted by the Greater London Authority Act [1999 c.29](https://www.legislation.gov.uk/ukpga/1999/29).) Section 115B was inserted, and section 116 amended, by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), article 20.
 
-[^key-f76c6f36280e8d3e5a5e1059c67ac14c]: Commencement: Art. 18 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-f76c6f36280e8d3e5a5e1059c67ac14c]: Commencement: Art. 18 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00024]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Section 11 was amended by section 62 of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28). Subsection (3) of that section, as originally enacted, defines a leader and cabinet executive.
 
-[^key-60606833f3189ad89824bcceeb21ab74]: Commencement: Art. 19 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-60606833f3189ad89824bcceeb21ab74]: Commencement: Art. 19 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00025]: Footnote: The guidance was published by the Department for Communities and Local Government. Copies of the guidance may be obtained from Communities and Local Government Publications, PO Box 236, Wetherby, West Yorkshire, LS23 7NB, quoting Product Code 06 LGSRU 04198 (Tel: 08701 226 236; Email: communities@twoten.com or online at www.communities.gov.uk).
 
-[^key-137036ad960008c8932fa76bc28b2530]: Commencement: Art. 20 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-137036ad960008c8932fa76bc28b2530]: Commencement: Art. 20 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00026]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
@@ -827,44 +827,44 @@ A full impact assessment has been produced for this Order. A copy of the assessm
 
 [^f00036]: Footnote: [S.I. 2001/3384](https://www.legislation.gov.uk/uksi/2001/3384).
 
-[^key-c3ac0ecc6c61cc7e55fd8896fc31e03e]: Commencement: Art. 21 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-c3ac0ecc6c61cc7e55fd8896fc31e03e]: Commencement: Art. 21 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-a89ddad6a90ce6e5ab1e374b15dd6252]: Commencement: Art. 22 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-a89ddad6a90ce6e5ab1e374b15dd6252]: Commencement: Art. 22 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-b8f042acea91f3a107d3fbac6bd29cba]: Commencement: Art. 23 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-b8f042acea91f3a107d3fbac6bd29cba]: Commencement: Art. 23 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00037]: Footnote: Under section 7(9) of the Local Government Act 1972, the term of office of councillors of non-metropolitan district councils is four years. South Bedfordshire District Council elects by thirds; *see* section 7(4)(b) of the 1972 Act and [S.I. 2001/4068](https://www.legislation.gov.uk/uksi/2001/4068).
 
-[^key-e44f599ad213c01ac40912d85e679a01]: Commencement: Art. 24 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-e44f599ad213c01ac40912d85e679a01]: Commencement: Art. 24 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-2d0a34d53c1868695feb18be4f224c44]: Commencement: Art. 25 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-2d0a34d53c1868695feb18be4f224c44]: Commencement: Art. 25 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00038]: Footnote: *See* section 37 of the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-703d6ab23b564477230c034b15ed61ab]: Commencement: Art. 26 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-703d6ab23b564477230c034b15ed61ab]: Commencement: Art. 26 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-292f845bf94db44c5c44a28cde10340e]: Textual amendment: [Art. 26(1)(aa)](https://www.legislation.gov.uk/uksi/2008/907/article/26/1/aa) inserted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2009/837/article/2/3/a)
+[^c-292f845bf94db44c5c44a28cde10340e]: Textual amendment: [Art. 26(1)(aa)](https://www.legislation.gov.uk/uksi/2008/907/article/26/1/aa) inserted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2009/837/article/2/3/a)
 
-[^key-3a5cee0a066d1086e5602bc81a28fcca]: Textual amendment: [Art. 26(1)(b)](https://www.legislation.gov.uk/uksi/2008/907/article/26/1/b) substituted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2009/837/article/2/3/b)
+[^c-3a5cee0a066d1086e5602bc81a28fcca]: Textual amendment: [Art. 26(1)(b)](https://www.legislation.gov.uk/uksi/2008/907/article/26/1/b) substituted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2009/837/article/2/3/b)
 
-[^key-3be6c0322d12377f235dd0a7cf2ed612]: Textual amendment: [Art. 26(1)(ba)](https://www.legislation.gov.uk/uksi/2008/907/article/26/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2008/907/article/26/1/bb) inserted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2009/837/article/2/3/c)
+[^c-3be6c0322d12377f235dd0a7cf2ed612]: Textual amendment: [Art. 26(1)(ba)](https://www.legislation.gov.uk/uksi/2008/907/article/26/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2008/907/article/26/1/bb) inserted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2009/837/article/2/3/c)
 
 [^f00039]: Footnote: Section 16 of the Local Government Act 1972 was amended by paragraph 6 of Schedule 5 to the Local Government and Public Involvement in Health Act 2007. Under section 16(3) of the Local Government Act 1972, the term of office of parish councillors is four years.
 
-[^key-a5d11ada698a7f95fa108b607cc64bfb]: Commencement: Art. 27 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-a5d11ada698a7f95fa108b607cc64bfb]: Commencement: Art. 27 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-0226094126eb66fb12bc199d5f1a30ad]: Commencement: Art. 28 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-0226094126eb66fb12bc199d5f1a30ad]: Commencement: Art. 28 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
-[^key-2128282aae92bb570c07fa7584bbeeb5]: Commencement: Art. 29 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-2128282aae92bb570c07fa7584bbeeb5]: Commencement: Art. 29 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00040]: Footnote: [S.I. 2001/4066](https://www.legislation.gov.uk/uksi/2001/4066).
 
-[^key-55080ea5919ae0bf0412fad241ee8328]: Commencement: Art. 30 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-55080ea5919ae0bf0412fad241ee8328]: Commencement: Art. 30 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00041]: Footnote: [S.I. 2001/4067](https://www.legislation.gov.uk/uksi/2001/4067).
 
-[^key-cefa0bdc1c4800dd77431d060a8515a9]: Commencement: Art. 31 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-cefa0bdc1c4800dd77431d060a8515a9]: Commencement: Art. 31 in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
 
 [^f00042]: Footnote: [S.I. 2001/4068](https://www.legislation.gov.uk/uksi/2001/4068).
 
-[^key-8c67079c4eac4ffc885cecaa721bb003]: Commencement: Sch. in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)
+[^c-8c67079c4eac4ffc885cecaa721bb003]: Commencement: Sch. in force at 28.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/907/article/1)

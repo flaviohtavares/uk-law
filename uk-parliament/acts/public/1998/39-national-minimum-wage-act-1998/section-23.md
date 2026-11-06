@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. The right not to suffer detriment.[^c9531841][^c9531851][^key-31d226ea23df954d6ac923aab644fd8c]
+## 23. The right not to suffer detriment.[^c9531841][^c9531851][^c-31d226ea23df954d6ac923aab644fd8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ but, for that subsection to apply, the claim to the right and, if applicable, th
 
 [^c9531851]: Modification: S. 23 extended (with modifications) (*prosp.*) by [S.I. 1997/2151 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2151), [art. 8A](https://www.legislation.gov.uk/nisi/1997/2151/article/8A) (as inserted by [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39), [ss. 47(1)(c)](https://www.legislation.gov.uk/ukpga/1998/39/section/47/1/c), [56(2)](https://www.legislation.gov.uk/ukpga/1998/39/section/56/2), [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1998/39/schedule/2/part/III), [para. 26](https://www.legislation.gov.uk/ukpga/1998/39/paragraph/26) (with [s. 36](https://www.legislation.gov.uk/ukpga/1998/39/section/36)))
 
-[^key-31d226ea23df954d6ac923aab644fd8c]: Modification: S. 23 applied (with modifications) (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(1)](https://www.legislation.gov.uk/anaw/2014/6/section/5/1)[(2)(j)](https://www.legislation.gov.uk/anaw/2014/6/section/5/2/j)[(3)-(7)](https://www.legislation.gov.uk/anaw/2014/6/section/5/3), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))
+[^c-31d226ea23df954d6ac923aab644fd8c]: Modification: S. 23 applied (with modifications) (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(1)](https://www.legislation.gov.uk/anaw/2014/6/section/5/1)[(2)(j)](https://www.legislation.gov.uk/anaw/2014/6/section/5/2/j)[(3)-(7)](https://www.legislation.gov.uk/anaw/2014/6/section/5/3), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))
 
 [^c9531861]: Textual amendment: S. 23(4) substituted (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 18(4)](https://www.legislation.gov.uk/ukpga/1999/26/section/18/4); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1)
 

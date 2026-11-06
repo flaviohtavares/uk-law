@@ -24,13 +24,13 @@ Article 3
 
 ### PART I — CLAUSES
 
-#### 1. Purpose, definitions and interpretation[^key-73aeb9fe337de2bf9c1f5bb2b3be5257][^key-616f9343a45b008444b984a388319ae5]
+#### 1. Purpose, definitions and interpretation[^c-73aeb9fe337de2bf9c1f5bb2b3be5257][^c-616f9343a45b008444b984a388319ae5]
 
 (1) The Royal Mail Statutory Pension Scheme has been established by the Secretary of State under section 17 of the Postal Services Act 2011[^f00007] for the purpose of securing pensions and other benefits for or in respect of qualifying members of the Royal Mail Pension Plan, for and in respect of whom a transfer was made to the Scheme under the provisions of that Act with effect from the Commencement Date.
 
 (2) In these Rules the following expressions have the following meanings—
 
-- “Actuary” means the Government Actuary or any Fellow of the Institute and Faculty of Actuaries or a firm the majority of whose partners are Fellows of the Institute and Faculty of Actuaries, as may be appointed by the Minister for the Civil Service[^key-46589673d77f53d8f6e0c2dcdb4bffc8] to be the Actuary for the purpose of these Rules;
+- “Actuary” means the Government Actuary or any Fellow of the Institute and Faculty of Actuaries or a firm the majority of whose partners are Fellows of the Institute and Faculty of Actuaries, as may be appointed by the Minister for the Civil Service[^c-46589673d77f53d8f6e0c2dcdb4bffc8] to be the Actuary for the purpose of these Rules;
 - “Benefits Order” means the Postal Services Act 2011 (Transfer of Accrued Pension Rights) Order 2012[^f00008];
 - “Clause” means one of the clauses in Part I of the Rules;
 - “Commencement Date” means the date on which this RMSPS commenced, being 1 April 2012;
@@ -110,17 +110,17 @@ Article 3
 
 (6) In these Rules, references to clauses are references to clauses in Part I, and references to Rules are to Rules set out in Parts II to IX.
 
-#### 2. Civil Partners[^key-c8ec5f7838d392b4a64e1a6670ddf985][^key-191cc9a1f3b1ac572705a6bd93c0891c]
+#### 2. Civil Partners[^c-c8ec5f7838d392b4a64e1a6670ddf985][^c-191cc9a1f3b1ac572705a6bd93c0891c]
 
 (1) References in the RMSPS to a “spouse” shall include a “civil partner”; references to a “widow” or “widower” shall include a “surviving civil partner”; references to “marriage” shall include a “civil partnership”; references to “marry” or “married” shall include “form a civil partnership” or “a participant in a civil partnership” as the context requires; and references to “divorce” shall include “dissolution of a civil partnership” (where the term “civil partner” has the meaning given to it in the Civil Partnership Act 2004[^f00012]).
 
 (2) Nothing in this Clause 2 is intended to override the provisions of the Section A Rules (or the equivalent provisions of the RMPP Cut-Off Date Rules that apply to Former RMPP Section A Members or Cut-Off Date Non-Actives who are former members of the non-contributory part of the RMPP, as applicable to such members under Clause 3) (Benefits payable in respect of Wholly Transferred Beneficiaries) as they relate to civil partners.
 
-#### 2A. Marriage of a same sex couple[^M_E_8bcdbe2f-5f22-4ee2-ace2-7809787e9e7b][^key-f50ea2893a49287da9246292df958542]
+#### 2A. Marriage of a same sex couple[^M_E_8bcdbe2f-5f22-4ee2-ace2-7809787e9e7b][^c-f50ea2893a49287da9246292df958542]
 
 *Extent: E+W*
 
-(1) Subject to Rule 2C, in[^key-abbf49af46a13084763a004c8e4fd95f] this Scheme—
+(1) Subject to Rule 2C, in[^c-abbf49af46a13084763a004c8e4fd95f] this Scheme—
 
 - (a) a reference to civil partnership is to be read as including a reference to marriage of a same sex couple,
 - (b) a reference to civil partners is to be read as including a reference to a married same sex couple, and
@@ -134,7 +134,7 @@ Article 3
 
 (5) Section 11(1) and (2) of, and paragraph 3 of Schedule 3 to, that Act have effect subject to paragraphs (1) to (3).
 
-#### 2A. Marriage of a same sex couple[^M_E_ed252e18-0c8e-441d-9af0-ca8aa4ae55c1][^key-aa18f02eba1199a4b4e91b91d303e03d]
+#### 2A. Marriage of a same sex couple[^M_E_ed252e18-0c8e-441d-9af0-ca8aa4ae55c1][^c-aa18f02eba1199a4b4e91b91d303e03d]
 
 *Extent: S*
 
@@ -178,7 +178,7 @@ Article 3
 
 (3) For the purposes of paragraphs (1) and (2) it does not matter how a reference is expressed.
 
-#### 2C. Continuation of marriage where Scheme member acquires new legal gender[^M_E_2843ddb3-70ef-46d7-9264-3ca5953148ae][^key-46c277fcca1f998c5d813568af0c1f49]
+#### 2C. Continuation of marriage where Scheme member acquires new legal gender[^M_E_2843ddb3-70ef-46d7-9264-3ca5953148ae][^c-46c277fcca1f998c5d813568af0c1f49]
 
 *Extent: E+W*
 
@@ -187,7 +187,7 @@ Article 3
 - (a) a deceased Scheme member was a woman by virtue of a full gender recognition certificate having been issued under the Gender Recognition Act 2004, and
 - (b) at the time of the member’s death, she was married to a woman and that marriage subsisted before the time when the certificate was issued,
 
-the Scheme member’s widow is to be treated for the purpose of this Scheme[^key-290787608912c5b020f9f9c4bde058ea] as if the certificate had not been issued.
+the Scheme member’s widow is to be treated for the purpose of this Scheme[^c-290787608912c5b020f9f9c4bde058ea] as if the certificate had not been issued.
 
 (2) Where—
 
@@ -214,7 +214,7 @@ the Scheme member’s widow is to be treated for the purpose of this Scheme as i
 
 the Scheme member’s widower is to be treated for the purpose of this Scheme as if the certificate had not been issued.
 
-#### 3. Benefits payable in respect of Wholly Transferred Beneficiaries[^key-94a1035da8ac9208998482cf079f9aab][^key-a46356cb2ae531bdd573691ad0113266]
+#### 3. Benefits payable in respect of Wholly Transferred Beneficiaries[^c-94a1035da8ac9208998482cf079f9aab][^c-a46356cb2ae531bdd573691ad0113266]
 
 (1) Any person who, but for the transfer, amendments and discharge under the Benefits Order, would have been in one or more of the categories (a)-(c) below (in each case, whether or not known to the Trustee at any time) immediately after the qualifying time will be a Wholly Transferred Beneficiary—
 
@@ -247,7 +247,7 @@ A Wholly Transferred Beneficiary will also include any person who, but for the t
 - (a) Under the method set out in this Paragraph, any lump sum benefits payable in respect of the Member from the RMSPS (including any lump sum payable on that Member’s death) will be reduced by the Accrued Plan L Amount (or if the Member also chooses to use the method set out in Paragraph (b), the appropriate share of the Accrued Plan L Amount under the RMSPS).
 - (b) Under the method set out in this Paragraph, the Member’s Transferred AVC Fund will, as provided for in Clause 10 (Additional voluntary contributions transferred from the RMPP), be applied for the purpose of meeting some or (if the Member also chooses to use the method set out in Paragraph (a)) the appropriate share of the Accrued Plan L Amount.
 
-#### 4. Benefits payable in respect of Cut-Off Date Actives[^key-cf6ae83ad609487fcd66de043825bf7e][^key-cf9dd8190da9e2742e16b2621c8b3645]
+#### 4. Benefits payable in respect of Cut-Off Date Actives[^c-cf6ae83ad609487fcd66de043825bf7e][^c-cf9dd8190da9e2742e16b2621c8b3645]
 
 For any person who was—
 
@@ -266,7 +266,7 @@ benefits will be provided under the RMSPS in respect of that person as follows�
 - (iv) benefits will be provided in respect of Section E Actives as set out in the Section E Rules; and
 - (v) the benefits of all Cut-Off Date Actives will be subject to the General Rules, except as may be stated otherwise.
 
-#### 5. New POL Scheme[^key-28c3bb1e72433d7bd46c080b97180b6f][^key-6b6e0bdd8300f2645d759f96f03b3a7d]
+#### 5. New POL Scheme[^c-28c3bb1e72433d7bd46c080b97180b6f][^c-6b6e0bdd8300f2645d759f96f03b3a7d]
 
 (1) If a “New POL Scheme” as defined in Clause 28B (Transfer of the POL Fund out of the Scheme at the request of the Principal Employer or POL) of the RMPP Commencement Date Rules is established (the New POL Scheme), these Rules shall apply to a Cut-Off Date Active as provided for in the remainder of this Clause where all or part of the benefits to which the Cut-Off Date Active is entitled under the RMPP are transferred to the New POL Scheme pursuant to that clause.
 
@@ -280,13 +280,13 @@ benefits will be provided under the RMSPS in respect of that person as follows�
 - (d) the references to an Employer in Clause 16 (Set-off for crime, fraud or negligence) and in Clause 19(2)(a) (Surrender and Forfeiture Laws) shall where appropriate refer to an employer participating in the New POL Scheme; and
 - (e) the references to the RMPP in Clause 16 (Set-off for crime, fraud or negligence) and in Clause 19(2)(b) (Surrender and Forfeiture Laws) shall where appropriate refer to the New POL Scheme.
 
-#### 6. Member choices and nominations made under the RMPP[^key-aef302c37a3707e1332875738a7ad605][^key-929eeeb774c0e38b999024a20122391e]
+#### 6. Member choices and nominations made under the RMPP[^c-aef302c37a3707e1332875738a7ad605][^c-929eeeb774c0e38b999024a20122391e]
 
 (1) Any directions, elections, nominations and requests made by any person (whether Wholly Transferred Beneficiaries, Cut-Off Date Actives or any beneficiaries with actual or contingent rights to benefits in respect of them) under the RMPP Rules and notified to the RMPP Trustees before the Commencement Date in accordance with the requirements of the RMPP Rules will continue to (as appropriate) bind or be taken into account by the Minister for the Civil Service from the Commencement Date, subject as appropriate to any later directions, elections, nominations and requests that may be made by any person under the RMSPS in accordance with these Rules.
 
 (2) Without limitation to sub-paragraph (1), where any lump sum benefits are payable under the RMSPS on the death of a Member or any other person, the Minister for the Civil Service (or any responsible persons as may be appointed for such purpose by the Minister for the Civil Service under General Rule 6 (Member’s power to place benefits within the Secretary of State’s discretion), or the equivalent provisions of the RMPP Rules as apply to Wholly Transferred Beneficiaries under Clause 3) (Benefits payable in respect of Wholly Transferred Beneficiaries)) shall take into account any nomination form completed by the Member or any other person and delivered before the Commencement Date to the RMPP Trustees (a Pre-Commencement Nomination), and shall take account of the wishes regarding the distribution of death benefits (including treating any person as a beneficiary of any death benefit) as set out in the Pre-Commencement Nomination in the same way as if that Pre-Commencement Nomination had been delivered to the Minister for the Civil Service instead of to the RMPP Trustees. To the extent that a Pre-Commencement Nomination has been superseded by any valid nomination form that is delivered at a later date to the Minister for the Civil Service under these Rules, the Minister for the Civil Service (or any responsible persons referred to above) may take into account the Pre-Commencement Nomination as he considers (or they consider) to be reasonable and appropriate in order to determine the distribution of death benefits.
 
-#### 7. Payment of benefits[^key-64923407472eb418649e82884f476023][^key-5404f9f9538bf2f6412b97682e227bfb]
+#### 7. Payment of benefits[^c-64923407472eb418649e82884f476023][^c-5404f9f9538bf2f6412b97682e227bfb]
 
 (1) Where, by reason of an overpayment of pension or other benefit in respect of a Wholly Transferred Beneficiary that occurred under the RMPP on or before the Cut-Off Date, the RMPP Trustees would at the end of the Cut-Off Date have had a right to recover that overpayment from future instalments of the pension in respect of that person, subject to sub-paragraph (3) below the Minister for the Civil Service in his absolute discretion may recover that overpayment as if it had occurred under the RMSPS by reducing future instalments of pension or any other benefit owed in respect of that person (and for these purposes any monetary obligation due from the beneficiary to the RMPP as at the end of the Cut-Off Date by reason of the overpayment will be treated as an obligation owing to the RMSPS).
 
@@ -297,15 +297,15 @@ benefits will be provided under the RMSPS in respect of that person as follows�
 - (a) the RMPP Trustees may have done so had that person’s benefit been retained in the RMPP; and
 - (b) it is permitted under the Surrender and Forfeiture Laws as applied to the RMSPS under Clause 19 (Surrender and Forfeiture Laws).
 
-#### 8. Limitations of Claims[^key-1d90f155020afc54003205ed2d476ec0][^key-b25d498c5c0ab24705e96164322d9ca9]
+#### 8. Limitations of Claims[^c-1d90f155020afc54003205ed2d476ec0][^c-b25d498c5c0ab24705e96164322d9ca9]
 
 No person whether a Member or otherwise shall have any claim right or interest upon to or in respect of the RMSPS or any interest thereon or any such claim upon or against the Minister for the Civil Service except under and in accordance with the provisions of the RMSPS.
 
-#### 9. Augmentation and new benefits[^key-7b29260984d3cee22a1ce949e472238a][^key-6a3054e17c5bb9f2345a59a0d43b615f]
+#### 9. Augmentation and new benefits[^c-7b29260984d3cee22a1ce949e472238a][^c-6a3054e17c5bb9f2345a59a0d43b615f]
 
 The Minister for the Civil Service may provide increased or additional benefits in respect of any Member (or any spouse or dependant of a Member) or any Wholly Transferred Beneficiary. These benefits must be consistent with the Preservation Laws, Revaluation Rules, Contracting-out Laws and Transfer Value Laws where relevant.
 
-#### 10. Additional voluntary contributions transferred from the RMPP[^key-1bb8b84eafde0c07e7375167599744d1][^key-63f50c3dec6a8df77160cff52fd6126f]
+#### 10. Additional voluntary contributions transferred from the RMPP[^c-1bb8b84eafde0c07e7375167599744d1][^c-63f50c3dec6a8df77160cff52fd6126f]
 
 (1) Where a Member has uncrystallised rights to money purchase benefits under the RMPP that are derived from additional voluntary contributions (including additional voluntary contributions that are made to the RMPP after the end of the Cut-Off Date), funds under the relevant account provided to that Member under the RMPP in respect of such contributions (the RMPP AVC Fund) may be transferred to the RMSPS and applied to provide benefits in accordance with this Clause (the part of the RMPP AVC Fund that is transferred to the RMSPS being the Transferred AVC Fund).
 
@@ -328,7 +328,7 @@ The Minister for the Civil Service may provide increased or additional benefits 
 
 (4) A Transferred AVC Fund must be transferred to the RMSPS in the form of cash only.
 
-#### 11. Individual transfers out of the Scheme[^key-8ed8edad9193092e5789a66e4d9541ee][^key-95f1a5cf0483d983efb305eb0503db76]
+#### 11. Individual transfers out of the Scheme[^c-8ed8edad9193092e5789a66e4d9541ee][^c-95f1a5cf0483d983efb305eb0503db76]
 
 (1) A Member who is at least one year before Normal Retiring Age and who either—
 
@@ -361,7 +361,7 @@ The rights of a Member referred to in Paragraphs (a) and (b)(i)(A) and (ii)(A) a
 
 (5) Where the Minister for the Civil Service has used the cash equivalent of the Member’s preserved benefit in the manner described in this Clause, he will be discharged from any obligation to provide benefits to which the cash equivalent related.
 
-#### 12. Pension sharing on divorce[^key-7016b54449af888a5cd0ff24f6eb8a11][^key-fc6625a7403174c2d247a8496131039a]
+#### 12. Pension sharing on divorce[^c-7016b54449af888a5cd0ff24f6eb8a11][^c-fc6625a7403174c2d247a8496131039a]
 
 (1) Orders or other provisions under Section 28(1) of the Welfare Reform and Pensions Act 1999[^f00015] (activation of pension sharing) were—
 
@@ -388,17 +388,17 @@ The rights of a Member referred to in Paragraphs (a) and (b)(i)(A) and (ii)(A) a
 
 subject in both cases to Part IX (Overriding Finance Act Provisions) of this Schedule.
 
-#### 13. Overriding Finance Act 2004 Provisions[^key-2dbe0f544a3e30955dcb272a0f64f3af][^key-271bd9f417f812e9e720fcda882481ac]
+#### 13. Overriding Finance Act 2004 Provisions[^c-2dbe0f544a3e30955dcb272a0f64f3af][^c-271bd9f417f812e9e720fcda882481ac]
 
 The RMSPS is a Registered scheme. The provisions of Part IX (Overriding Finance Act Provisions) of this Schedule shall apply to the benefits of Cut-Off Date Actives under the RMSPS and, except where the Rules expressly provide otherwise, override any other provision of the RMSPS with which they are inconsistent. For avoidance of doubt, the benefits of Wholly Transferred Beneficiaries shall not be subject to Part IX, but instead (in accordance with Clause 3(2) (Benefits payable in respect of Wholly Transferred Beneficiaries)) shall be subject to the equivalent Finance Act 2004 provisions that applied to them under the RMPP Cut-Off Date Rules.
 
-#### 14. Contracting-out[^key-d04d92a7a5e7827e591061b65c8ae729][^key-d7ef2375908bdd044b4e85ec44cda593]
+#### 14. Contracting-out[^c-d04d92a7a5e7827e591061b65c8ae729][^c-d7ef2375908bdd044b4e85ec44cda593]
 
 (1) The Minister for the Civil Service will operate the RMSPS in accordance with the Contracting-out Laws that apply to the RMSPS. The Rules will be treated as including Rules to the same effect as any rule that must be included for the RMSPS to comply with those laws (this Clause 14 overrides all other provisions of the RMSPS, except those that are in accordance with the Contracting-out Laws or where the Rules expressly provide otherwise).
 
 (2) Without limiting sub-paragraph (1) above, any person who is a Wholly Transferred Beneficiary or a Cut-Off Date Active, or is entitled to benefits in respect of such a person, will from the Commencement Date have under the RMSPS rights and entitlements (including future rights and entitlements) to or referable to GMPs (including without limitation any rights or entitlements arising under Chapter III of Part IV of the Pension Schemes Act 1993[^f00016]) which are no less favourable in any respect than those that person would have had under the RMPP or any relevant law but for the transfers and discharge under Articles 5 and 7 of the Benefits Order.
 
-#### 15. Prevention of discrimination on grounds of age[^key-a2f9f5fadd93f4d43c527e49da4059fe][^key-eaaaa1291ef2ad50d2260f2d7ecd4b09]
+#### 15. Prevention of discrimination on grounds of age[^c-a2f9f5fadd93f4d43c527e49da4059fe][^c-eaaaa1291ef2ad50d2260f2d7ecd4b09]
 
 (1) Subject to sub-paragraphs (2) to (8) where, in respect of a Member’s service under the RMPP on or after 1 December 2006, any of the terms of the RMSPS would, but for this Clause, unlawfully treat a Member or group of Members (the Less Favoured Members) less favourably than another Member or group of Members (the More Favoured Members) on grounds of age, then in respect of a Member’s service under the RMPP on and from 1 December 2006 (or the date on which the term has effect, if later) the term is modified so as to disapply the more favourable treatment in respect of the More Favoured Members, to the extent required to ensure that the application of the term to the More Favoured Members and the Less Favoured Members is not unlawful.
 
@@ -427,7 +427,7 @@ where payment of those benefits constitutes or would constitute a breach of a te
 
 (8) In this clause, a reference to a Member shall mean a Cut-Off Date Active. For avoidance of doubt, the benefits of Wholly Transferred Beneficiaries shall not be subject to this Clause 15, but instead (in accordance with Clause 3(2) (Benefits payable in respect of Wholly Transferred Beneficiaries)) shall be subject to the equivalent age discrimination provisions that applied to them under the RMPP Cut-Off Date Rules.
 
-#### 16. Set-off for crime, fraud or negligence[^key-272c03d0fad5e1c3815011559ae969ac][^key-567d9f1c6dbbfd2531ebd5f8bbb3b9f4]
+#### 16. Set-off for crime, fraud or negligence[^c-272c03d0fad5e1c3815011559ae969ac][^c-567d9f1c6dbbfd2531ebd5f8bbb3b9f4]
 
 (1) Subject to sub-paragraph (10) below, this Clause applies where, at any time (whether before, on or after the Cut-Off Date)—
 
@@ -469,15 +469,15 @@ the Minister for the Civil Service will reduce the benefits payable to or in res
 
 (11) In addition to the above, the Minister for the Civil Service is entitled to the benefit of a charge, lien or set-off against benefits under the RMSPS in respect of Section C Actives and Former RMPP Section C Members which are attributable to Pensionable Service (as that term is used in, respectively, the Section C Rules or Section C of the RMPP Rules) on and after 1 April 1998 for the purpose of discharging some monetary obligation due from the person in question to the Scheme or the RMPP and arising out of a criminal, negligent or fraudulent act or omission by him or her. To the extent that the monetary obligation is due from the person in question to the RMPP, the Minister for the Civil Service will pay the amount of the reduction to the RMPP. Before exercising the entitlement under this sub-paragraph, the Minister for the Civil Service will follow the procedural steps set out in Section 91 of the Pensions Act 1995[^f00017] as applied to the RMSPS under Clause 19 (Surrender and Forfeiture Laws). For the avoidance of doubt, the Minister for the Civil Service may only exercise the entitlement under this sub-paragraph to the extent that, and in the circumstances in which, the RMPP Trustees would have been able to exercise their entitlement to the benefit of a charge, lien or set-off under Rule 12G (Off-set for Crime, Fraud or Negligence) of Section C of the RMPP Cut-Off Date Rules in respect of the Member’s benefits, had such benefits not been transferred to the RMSPS.
 
-#### 17. Ambiguity, doubt or dispute[^key-b25fdf824750f57254444271321573cf][^key-8e55d86ebc91258278a080434206f502]
+#### 17. Ambiguity, doubt or dispute[^c-b25fdf824750f57254444271321573cf][^c-8e55d86ebc91258278a080434206f502]
 
 In addition to any specific power in these Rules concerning ambiguity, doubt or dispute, the Minister for the Civil Service shall have full power to determine any matters of ambiguity, doubt or dispute concerning the interpretation of the Rules and their application to the benefits and entitlements of any Member or any beneficiary under the RMSPS.
 
-#### 18. Preservation Laws[^key-51d45878eb2de04c4ba066420027217b][^key-cc8ea2c4b4766c5c79292e04663718d0]
+#### 18. Preservation Laws[^c-51d45878eb2de04c4ba066420027217b][^c-cc8ea2c4b4766c5c79292e04663718d0]
 
 The Minister for the Civil Service will ensure that the amount of a benefit provided under the RMSPS (whether in respect of a Wholly Transferred Beneficiary or a Cut-Off Date Active) is no less than the amount that would be payable if the Preservation Laws applied to the RMSPS, if and to the extent that the benefit as determined under the other provisions of these Rules would not be at least equal to that amount. The Minister for the Civil Service will also ensure that the form and time of payment of any such benefit will not be other than what would have been a permitted form and time of payment if the Preservation Laws applied to the RMSPS.
 
-#### 19. Surrender and Forfeiture Laws[^key-d8d56f15012052748533fdaa69999b5c][^key-d0ce9d5e4b882ea22ec39d53855b53af]
+#### 19. Surrender and Forfeiture Laws[^c-d8d56f15012052748533fdaa69999b5c][^c-d0ce9d5e4b882ea22ec39d53855b53af]
 
 (1) Subject to the modifications set out in sub-paragraph (2) below, section 91 (Inalienability of occupational pension), section 92 (Forfeiture, etc), section 93 (Forfeiture by reference to obligation to employer) and section 94 (Sections 91 to 93: supplementary) of the Pensions Act 1995 and any regulations made under those sections (the “Surrender and Forfeiture Laws”) shall be treated as applicable to the RMSPS, such that—
 
@@ -497,13 +497,13 @@ The Minister for the Civil Service will ensure that the amount of a benefit prov
 
 ### PART II — THE GENERAL RULES OF THE SCHEME
 
-#### 1. Application of the General Rules[^key-2693c21dadaa23b6450a3a911ebb9af9][^key-2c67066afa4c7ab23c5767cd9c13c2af]
+#### 1. Application of the General Rules[^c-2693c21dadaa23b6450a3a911ebb9af9][^c-2c67066afa4c7ab23c5767cd9c13c2af]
 
 (1) Except where specified otherwise in these General Rules, the General Rules apply to all Members who are Cut-Off Date Actives subject to the Section A Rules, the Section B Rules, the Section C Rules and the Section E Rules. They do not apply to Members who are Cut-Off Date Non-Actives or to any other Wholly Transferred Beneficiaries. References to Member in the General Rules shall be read accordingly.
 
 (2) Unless the context requires otherwise, a General Rule which is specified to apply to Section A Actives or Section B Actives shall also apply to Section E Actives who, prior to joining Section E under the RMPP, were Section A Members or Section B Members under the RMPP (respectively).
 
-#### 2. RMSPS Reckonable Service[^key-950797d8caf99c598f1e4470932a1cd5][^key-bf1c83d764f1cbfb42a2bdcfa42ff76f]
+#### 2. RMSPS Reckonable Service[^c-950797d8caf99c598f1e4470932a1cd5][^c-bf1c83d764f1cbfb42a2bdcfa42ff76f]
 
 In respect of Section A Actives, Section B Actives and Section E Actives (who are subject to the Section A Rules, the Section B Rules and the Section E Rules respectively), the following expression has the meaning hereby assigned to it (but, for avoidance of doubt, this expression does not apply to Section C Actives (who are subject to the Section C Rules)) and references to Member in this expression shall be read accordingly—
 
@@ -512,7 +512,7 @@ In respect of Section A Actives, Section B Actives and Section E Actives (who ar
   - (b) include such part of the Member’s RMPP Reckonable Service as constitutes the “Pre-Cut-Off Date AVC FS Added Years Service” of a Section B Active, as defined in Rule 1(1) of Section B of the RMPP Rules (and any equivalent period for a Section A Active); and
   - (c) be subject to any special conditions specified by the Principal Employer and agreed by the RMPP Trustees in respect of that Member under General Rule 7(10A) (Members’ contributions) of the RMPP Rules.
 
-#### 3. Refund of contributions[^key-1ad456ff42e7b0caaa1ec7cd17d1f30a][^key-4d0b4dba03b76a784d8c98ab0c91636c]
+#### 3. Refund of contributions[^c-1ad456ff42e7b0caaa1ec7cd17d1f30a][^c-4d0b4dba03b76a784d8c98ab0c91636c]
 
 (1) This Rule only applies to Members who are subject to the Section A or Section B Rules.
 
@@ -534,7 +534,7 @@ In respect of Section A Actives, Section B Actives and Section E Actives (who ar
 
 (10) For the purposes of this Rule, Contracted-out Employment and Contributions Equivalent Premium have the meanings given under the contracting-out laws of the Pension Schemes Act 1993, as they applied to the RMPP at the end of the Cut-Off Date.
 
-#### 4. Payment of benefits[^key-d798d7e878ed7e6956c8d0fd6231c4f3][^key-aabad32dae7bd777fe7582871be5e80c]
+#### 4. Payment of benefits[^c-d798d7e878ed7e6956c8d0fd6231c4f3][^c-aabad32dae7bd777fe7582871be5e80c]
 
 (1) All pensions and other benefits shall be payable in such manner and at such places as the Minister for the Civil Service decides, and shall be subject to such proof of title and evidence of survival as the Minister for the Civil Service requires. Subject to Part IX (Overriding Finance Act Provisions) of this Schedule, no part repayment is necessary on the Pensioner’s death (except where a payment is made in error due to late notification of the death).
 
@@ -554,7 +554,7 @@ where the terms “trivial commutation lump sum”, “serious ill-health lump s
 
 (4) Where the Minister for the Civil Service is due to pay, or has exercised his discretion under General Rule 6(2)(a) (Member’s power to place benefits within the Secretary of State’s discretion) or Rule 10 (Discretionary trusts) of the Section C Rules to pay, any amount to the personal representatives of a Member, and no grant of representation to the Member’s estate is produced to the Minister for the Civil Service, the Minister for the Civil Service may if in his discretion he thinks fit pay any such amount to any person showing himself or herself to the Secretary of State’s satisfaction to be entitled, otherwise than as a creditor, to take out such a grant or to any person appearing to the Secretary of State’s satisfaction to be entitled otherwise than as a creditor to share in the estate of the deceased. The Minister for the Civil Service may also at his discretion deduct the cost of funeral expenses from the lump sum death benefits and pay it to the person who incurred the funeral expenses.
 
-#### 5. Non-assignability of benefits and forfeiture[^key-2be5a9640ad063ea6bdb7c43f05855e3][^key-40e7ea475b0ec2eaf66c7882c4604f81]
+#### 5. Non-assignability of benefits and forfeiture[^c-2be5a9640ad063ea6bdb7c43f05855e3][^c-40e7ea475b0ec2eaf66c7882c4604f81]
 
 (1) Benefits under the RMSPS cannot be assigned or charged; subject to General Rules 4(3) and (4), they will not be paid to anyone except the person entitled under these Rules. Subject to the Surrender and Forfeiture Laws as applied to the RMSPS under Clause 19 (Surrender and Forfeiture Laws) a benefit will cease to be payable if—
 
@@ -574,7 +574,7 @@ If the Minister for the Civil Service decides to pay the benefit to more than on
 
 (5) A Member’s benefits may also be set-off in accordance with Clause 16 (Set-off for crime, fraud or negligence).
 
-#### 6. Member’s power to place benefits within the Secretary of State’s discretion[^key-1d81780b88746a5074002730077a37f8][^key-b0aa4804ac89c7b73bea48cbb9c1a918]
+#### 6. Member’s power to place benefits within the Secretary of State’s discretion[^c-1d81780b88746a5074002730077a37f8][^c-b0aa4804ac89c7b73bea48cbb9c1a918]
 
 (1) In this Rule the expression the “designated sum” shall mean any death benefit and/or any lump sum retirement benefit and/or any arrears of pension benefits which may be payable under the Section A or Section B Rules and which in the absence of any direction by a Member under this Rule would be payable to the personal representatives of the Member.
 
@@ -591,7 +591,7 @@ If the Minister for the Civil Service decides to pay the benefit to more than on
 
 (6) Any direction given by a Member to the Minister for the Civil Service under this Rule, or given to the RMPP Trustees on or before the Cut-Off Date under the RMPP Rules, shall be irrevocable and binding on such Member and that Member’s estate and all persons interested therein.
 
-#### 7. Application of Sections A and B – election for Section B benefits[^key-89485b275bd2d66f9b0dd1913724874c][^key-ade8a2a7511d790c5f6b51c29be93c54]
+#### 7. Application of Sections A and B – election for Section B benefits[^c-89485b275bd2d66f9b0dd1913724874c][^c-ade8a2a7511d790c5f6b51c29be93c54]
 
 (1) Any Section A Active may elect by notice in writing given to the Minister for the Civil Service in the form from time to time prescribed and received by him before the relevant date mentioned in sub-paragraph (2) below to be subject to the Section B Rules (in place of the Section A Rules), although remaining a Member of Section A. A Section A Active who, having been enabled at the time by the General Rules then in force to do so, has revoked an election under this sub-paragraph, shall be entitled again to make such an election provided that the provisions of this sub-paragraph can be and are complied with.
 
@@ -611,7 +611,7 @@ If the Minister for the Civil Service decides to pay the benefit to more than on
 
 (9) This Rule applies despite anything in Rule 4 (Payment of RMSPS benefits) of the Section A Rules and Rule 4 (Payment of RMSPS benefits, retirement options and flexible retirement) of the Section B Rules.
 
-#### 8. Delay in payment[^key-f5be8f270c079a1d5b2a59373a931274][^key-73e35ecab10c298a3cf67fe523766920]
+#### 8. Delay in payment[^c-f5be8f270c079a1d5b2a59373a931274][^c-73e35ecab10c298a3cf67fe523766920]
 
 If either—
 
@@ -620,7 +620,7 @@ If either—
 
 the Minister for the Civil Service shall on ultimate payment of the amount so deferred pay Interest for the period from the expiration of the said three months to the date of such payment.
 
-#### 9. Added Years[^key-6a54f428fcd83bbcb7dc7454779856e4][^key-ceb6f92389ae20b0654f64f91e703ad9]
+#### 9. Added Years[^c-6a54f428fcd83bbcb7dc7454779856e4][^c-ceb6f92389ae20b0654f64f91e703ad9]
 
 (1) Up to and including 1 April 2008, with the consent of the RMPP Trustees a Member who was subject to Section A or Section B of the RMPP Rules could elect to purchase a number of added years by making additional annual contributions to the Fund at rates then specified in the RMPP Rules or determined by the RMPP actuary. The RMSPS Reckonable Service of such Members shall include the added years they purchased under that Rule before the end of the Cut-Off Date.
 
@@ -633,13 +633,13 @@ the Minister for the Civil Service shall on ultimate payment of the amount so de
 
 (4) In respect of Members subject to the Section B Rules, any added years which have been purchased under the RMPP and which count as RMSPS Reckonable Service in accordance with (2) above will be counted as RMSPS NRA60 Benefits (as that term is used for the purposes of the Section B Rules) notwithstanding the fact that such added years may have been purchased by contributions paid by the Members to the RMPP on and after 1 April 2010.
 
-#### 10. Provisions relating to application of General Rules 11 to 16[^key-ed3fee3017571c47ae7be0d358105dc9][^key-c94a8107d6f81ca8e490b2aa4ec96f57]
+#### 10. Provisions relating to application of General Rules 11 to 16[^c-ed3fee3017571c47ae7be0d358105dc9][^c-c94a8107d6f81ca8e490b2aa4ec96f57]
 
 (1) General Rules 11 (Widows’ pensions: Members’ choices), 12 (Members’ choice of methods of payment of contributions), 13 (Plan M), 14 (Plan U), 15 (Plan L) and 16 (Election for Widower’s pension in respect of service prior to 1 December 1971) shall only apply to those Members who are subject to the Section A or Section B Rules.
 
 (2) In the Rules referred to in sub-paragraph (1) above, except where the context otherwise requires the expression “widow” and “his widow” shall respectively include “dependent widower” and “her dependent widower”.
 
-#### 11. Widows’ pensions: Members’ choices[^key-04dd7a46b0f7cd91578d58eb33f70b76][^key-532ef4b464946bfe02e46e6a0d23d5e5]
+#### 11. Widows’ pensions: Members’ choices[^c-04dd7a46b0f7cd91578d58eb33f70b76][^c-532ef4b464946bfe02e46e6a0d23d5e5]
 
 (1) A male Member who was excluded from Part III of the Superannuation Act 1965[^f00021] by such an election as is referred to in Section 58 of that Act (repealed with savings by the Superannuation Act 1972[^f00022], Schedule 7, paragraph 2), or a male Member whose “Reckonable Service” in the Civil Service began on or before the 14 July 1949, and who, being on that date unmarried or otherwise ineligible has not elected that the said Part III should not apply to him, may have chosen under the RMPP (in accordance with General Rule 20(2) (Widows’ Pensions: Members’ Choices) of the RMPP Rules) that his widow would receive—
 
@@ -672,11 +672,11 @@ If such a Member made no choice by such date as was notified to the Member by an
 
 (5) A Member’s choice under any of the provisions of the RMPP Rules referred to in sub-paragraphs (1), (2), (3) or (4) of this Rule shall be final unless the Minister for the Civil Service agrees otherwise.
 
-#### 12. Members’ choice of methods of payment of contributions[^key-0e1e25981e68928f1bf673f378751222][^key-c8152f624c924f150f9b1de2d05459d3]
+#### 12. Members’ choice of methods of payment of contributions[^c-0e1e25981e68928f1bf673f378751222][^c-c8152f624c924f150f9b1de2d05459d3]
 
 A Member was required to pay contributions due to the RMPP for the widow’s pension that Member had chosen in respect of that Member’s RMPP Reckonable Service before that Member joined the contributory part of the RMPP (and contributions which were payable to the RMPP under General Rule 21(2)(a) (Contributions for widow’s pensions) of the RMPP Rules) and must have paid those contributions by any one of the three methods (designated Plan M, Plan U or Plan L) set out in General Rules 23 (Plan M), 24 (Plan U) and 25 (Plan L) of the RMPP Rules. If no choice had been made by such date as shall be notified to the Member by an Employer under the RMPP Rules, the Member would have been deemed to have chosen Plan L. Once a Member had started to make payments by the method of that Member’s choice, such payments continued under the RMPP until the earlier of the end of the Cut-Off Date (subject to the Member’s ability to meet the obligation to pay contributions under Plan L under the RMSPS by using the methods set out in General Rule 25 (Plan L) of the RMPP Rules) or the Member’s outstanding liability to the Fund was discharged.
 
-#### 13. Plan M[^key-99763e9c5eb2d6a529d37308a3d21a4d][^key-c72960decfe9dc7d35fb0af17df0929f]
+#### 13. Plan M[^c-99763e9c5eb2d6a529d37308a3d21a4d][^c-c72960decfe9dc7d35fb0af17df0929f]
 
 (1) A Member who was in post on both 30 November 1971 and 1 December 1971 and not having retired at or after age 60 on or before 30 November 1971 may have elected to pay to the Fund the contributions due in respect of that Member’s RMPP Reckonable Service before that Member joined the contributory part of the RMPP in accordance with “Plan M” under General Rule 23 (Plan M) of the RMPP Rules. Such contributions were required to be paid to the Fund either (a) in full in one amount, or (b) payment were required to have been made over a minimum of 5 years, or until age 60 if this is earlier, with a maximum of 25 years for such payment, and subject to the limits on contributions in paragraph 7(c) of Schedule 13 (Overriding Finance Act Provisions) to the RMPP Rules.
 
@@ -686,7 +686,7 @@ A Member was required to pay contributions due to the RMPP for the widow’s pen
 
 (4) A Member who never had a spouse before joining the contributory part of the RMPP and who did not marry before the end of the Cut-Off Date will be entitled to a refund of contributions with Interest on that Member’s retirement under the RMSPS.
 
-#### 14. Plan U[^key-4a5600b3f1a92cdb795141655c43624a][^key-6415afa81f2dfa0ed5d53a61eef99c9b]
+#### 14. Plan U[^c-4a5600b3f1a92cdb795141655c43624a][^c-6415afa81f2dfa0ed5d53a61eef99c9b]
 
 (1) A Member may have elected to pay the contributions due in respect of that Member’s RMPP Reckonable Service before joining the contributory part of the RMPP in accordance with “Plan U” under General Rule 24 (Plan U) of the RMPP Rules, in units of 1 <sup>1</sup>/<sub>2</sub>% of that Member’s salary subject to the limits on contributions in paragraph 7(c) of Schedule 13 (Overriding Finance Act Provisions) to the RMPP Rules.
 
@@ -694,7 +694,7 @@ A Member was required to pay contributions due to the RMPP for the widow’s pen
 
 (3) If a Member ceased to have a spouse before joining the contributory part of the RMPP and that Member did not re-marry before the end of the Cut-Off Date, the amount previously due to the RMPP shall be recalculated to the date when that Member last had a spouse before joining the contributory part of the RMPP, and the difference (if any) between the amount paid to the Fund by the Member and the amount due on such recalculation shall be refunded to the Member with Interest on that Member’s retirement under the RMSPS; provided that if the Member was serving in the designated category of service similar to service in the Civil Service in an unestablished capacity on the date that Member joined the contributory part of the RMPP or 1 June 1972, whichever is the earlier, and that Member ceased to have a spouse before that date and that Member did not remarry before the end of the Cut-Off Date, no contributions would have been payable at that time, and any amount paid to the Fund by the Member will be refunded to that Member with Interest on that Member’s retirement under the RMSPS.
 
-#### 15. Plan L[^key-100fa5a5aa9073d867ea0c337adf2ff7][^key-edfa27af6d27c6882d5ba05ccd21660c]
+#### 15. Plan L[^c-100fa5a5aa9073d867ea0c337adf2ff7][^c-edfa27af6d27c6882d5ba05ccd21660c]
 
 (1) Where a Member (being a Plan L Member) elected under the RMPP to pay the contributions due in respect of that Member’s RMPP Reckonable Service before that Member joined the contributory part of the RMPP by reduction of that Member’s lump sum or that Member’s death benefit and/or by the application of that Member’s additional voluntary contributions made to the RMPP under General Rule 19A (Additional Voluntary Contributions) of the RMPP Rules, then that Member will have accrued an obligation to pay the amount of contributions due to the RMPP under the RMPP Rules. The amount of that obligation, as had accrued as at the end of the Cut-Off Date and then revalued under the RMSPS as if it were a benefit payable to that Member under the RMSPS, is an Accrued Plan L Amount.
 
@@ -703,7 +703,7 @@ A Member was required to pay contributions due to the RMPP for the widow’s pen
 - (a) Under the method set out in this Paragraph, as at the beginning of the Commencement Date (before any revaluation is applied) any lump sum benefits payable in respect of the Member from the RMSPS (including any lump sum payable on that Member’s death) will be treated as if reduced by the Accrued Plan L Amount or (if the Member also chose to use the method set out in Paragraph (b) below) the appropriate share of the Accrued Plan L Amount under the RMSPS.
 - (b) Under the method set out in this Paragraph, the Member’s Transferred AVC Fund will, as provided for in Clause 10 (Additional voluntary contributions transferred from the RMPP), be applied for the purpose of meeting some or (if the Member also chose to use the method set out in Paragraph (a) above) the appropriate share of the Accrued Plan L Amount.
 
-#### 16. Election for Widower’s pension in respect of service prior to 1 December 1971[^key-d79c1a67e2ebc8e67609e19dc4f862ca][^key-e99128254e2db043bcad1db153a77417]
+#### 16. Election for Widower’s pension in respect of service prior to 1 December 1971[^c-d79c1a67e2ebc8e67609e19dc4f862ca][^c-e99128254e2db043bcad1db153a77417]
 
 (1) With the consent of the RMPP Trustees a female Member could, at any time before the end of the Cut-Off Date whilst she was an active Member of the RMPP have elected that the spouse to whom she was married at the time of her retirement at or before normal retirement age or when she otherwise left Employer employment or on her death in service with an Employer, and who did not have a dependent widower’s entitlement would be eligible for benefit under Section B Rule 12 (Spouse’s pension for Relevant Members) in respect of any part of her RMPP Reckonable Service before becoming a Member of the contributory part of the RMPP. Such election would also entitle her children to benefit under Section B Rule 14(1) (Children’s pensions) in respect of the same period of service.
 
@@ -711,11 +711,11 @@ A Member was required to pay contributions due to the RMPP for the widow’s pen
 
 ### PART III — SECTION A RULES OF THE SCHEME
 
-#### 1. Application[^key-c6ba4fb12583517f6bb58d0f66f1a8ce][^key-fef95adcfead960b2f9df39c5dfa4e85]
+#### 1. Application[^c-c6ba4fb12583517f6bb58d0f66f1a8ce][^c-fef95adcfead960b2f9df39c5dfa4e85]
 
 These Section A Rules shall only apply to Members who are Section A Actives, and they do not apply to Members who are Cut-Off Date Non-Actives or to any other Wholly Transferred Beneficiaries. References to Member in these Section A Rules shall be read accordingly.
 
-#### 2. Benefits of Section A Actives under the RMSPS[^key-2a74076091a5d471d1f44d5615f99746][^key-c38123b6f54042f847fdcab79fdd66d2]
+#### 2. Benefits of Section A Actives under the RMSPS[^c-2a74076091a5d471d1f44d5615f99746][^c-c38123b6f54042f847fdcab79fdd66d2]
 
 (1) Subject to Rule 3 (Pensions increase) and Rule 4 (Payment of RMSPS benefits), and to General Rule 7 (Application of Sections A and B – election for Section B benefits), the benefits in respect of a Section A Active are calculated as the benefits that would have been provided in respect of such a Member under the RMPP, as if such Member had opted-out of membership of the RMPP under General Rule 1A (Optional membership) of the RMPP Rules at the end of the Cut-Off Date.
 
@@ -726,7 +726,7 @@ These Section A Rules shall only apply to Members who are Section A Actives, and
 
 (3) Where a pension or lump sum benefit payable under these Section A Rules following a Member’s death is calculated by reference to the Member’s actual or prospective entitlement under these Section A Rules, that actual or prospective entitlement shall be determined applying the principles set out in sub-paragraphs (2) and (3) above and Rule 3 (Pensions increase) and Rule 4 (Payment of RMSPS benefits) below.
 
-#### 3. Pensions increase[^key-fb470165b306570dce132aaeb7f4395c][^key-104246d8bc3af0fd2cd5514379b27b15]
+#### 3. Pensions increase[^c-fb470165b306570dce132aaeb7f4395c][^c-104246d8bc3af0fd2cd5514379b27b15]
 
 (1) Any pension payable under the Section A Rules shall be increased from time to time in accordance with the 1971 Act and Sections 59 and 59A of the 1975 Act, as if it was a pension beginning on the Member’s COD Beginning Date and it were payable under the Principal Civil Service Pension Scheme 1974 and any amendment or replacement thereof, subject to the modifications set out in and the additional provisions of this Rule.
 
@@ -762,7 +762,7 @@ These Section A Rules shall only apply to Members who are Section A Actives, and
 - “RMPP Beginning Date” means the date a Member’s benefit under the RMPP is deemed to begin under Section 8(2) of the 1971 Act;
 - “RMPP Terminal Revaluation Year” means the Revaluation Year during which a Member’s RMPP Beginning Date falls.
 
-#### 4. Payment of RMSPS benefits[^key-5109fde71bd4f4ce4a99f71dc0da25e3][^key-15c222a7bd1666ecdd773de2f6b6da95]
+#### 4. Payment of RMSPS benefits[^c-5109fde71bd4f4ce4a99f71dc0da25e3][^c-15c222a7bd1666ecdd773de2f6b6da95]
 
 (1) Despite any other provision of these Section A Rules but subject to General Rule 7 (Application of Sections A and B – election for Section B benefits) and to sub-paragraph (3) below, the benefits of a Section A Active under the RMSPS—
 
@@ -783,11 +783,11 @@ These Section A Rules shall only apply to Members who are Section A Actives, and
 
 ### PART IV — SECTION B RULES OF THE SCHEME
 
-#### 1. Application[^key-1df17400cc7393083b7580b20d2fff25][^key-d7afb907512b5f01057ea2fd95f4543b]
+#### 1. Application[^c-1df17400cc7393083b7580b20d2fff25][^c-d7afb907512b5f01057ea2fd95f4543b]
 
 These Section B Rules shall only apply to Members who are Section B Actives, and they do not apply to Members who are Cut-Off Date Non-Actives or to any other Wholly Transferred Beneficiaries. References to Member, RMPP Active and RMPP Leaver in these Section B Rules shall be read accordingly.
 
-#### 2. Definitions and interpretation[^key-92d2225f6f63f3f8946edcd560a85321][^key-4c635f8bbb59cfd45ea45653a138a76b]
+#### 2. Definitions and interpretation[^c-92d2225f6f63f3f8946edcd560a85321][^c-4c635f8bbb59cfd45ea45653a138a76b]
 
 (1) In the Section B Rules the following expressions have the following meanings—
 
@@ -842,7 +842,7 @@ These Section B Rules shall only apply to Members who are Section B Actives, and
 - (a) words importing the masculine include the feminine gender; and
 - (b) references to particular Rules are references to those Rules in the Section B Rules.
 
-#### 3. Benefits payable to Members on retirement[^key-4b3ddf1a547c43c8a6e42ae941001047][^key-f042486ce2e08e8b92092467b0534391]
+#### 3. Benefits payable to Members on retirement[^c-4b3ddf1a547c43c8a6e42ae941001047][^c-f042486ce2e08e8b92092467b0534391]
 
 (1) The following benefits (RMSPS NRA60 Benefits) will be paid to every Member on retirement after the Cut-Off Date at or after age 60—
 
@@ -899,7 +899,7 @@ These Section B Rules shall only apply to Members who are Section B Actives, and
 
 (11) Rules 9(3)(a)(i), (4)(a)(i) or (5) (Lump sum benefits payable on death of a Member) shall apply to the reduced pension payable under sub-paragraph (9) of this Rule.
 
-#### 4. Payment of RMSPS benefits, retirement options and flexible retirement[^key-6736181396bb7cdfeb18838fb56f43f2][^key-7a43000891d788464b0b5c199e4e30d6]
+#### 4. Payment of RMSPS benefits, retirement options and flexible retirement[^c-6736181396bb7cdfeb18838fb56f43f2][^c-7a43000891d788464b0b5c199e4e30d6]
 
 (1) A Member’s RMSPS NRA60 Benefits and RMSPS NRA65 Benefits are separate benefit entitlements, and shall constitute separate arrangements for the purposes of the Finance Act 2004, provided that the Minister for the Civil Service has the power to arrange the benefits under the RMSPS (in respect of one or a number of Members) so that RMSPS NRA60 Benefits and RMSPS NRA65 Benefits constitute the same arrangement for the purposes of the Finance Act 2004.
 
@@ -952,7 +952,7 @@ the following shall apply instead—
 
 (7) While the Member remains in employment to which the RMPP relates, the Member’s consent will not be required to defer payment of his or her GMP after age 65 (being the expiration of five years from the date on which that Member attains Normal Retiring Age in respect of that Member’s RMSPS NRA60 Benefits). Section 13(5)(b) of the Pension Schemes Act 1993 (as applied to the RMSPS by the Contracting-out Laws) shall apply subject to this exemption from its requirements. This sub-paragraph shall not apply to a Wholly Discharged RMPP Member, a Partially Discharged RMPP Member whose Relevant RMSPS Benefit is his or her RMSPS NRA60 Benefits. This sub-paragraph shall apply to a Nil Margin Member who remains in employment with an Employer, notwithstanding that there is at that time no RMPP NRA60 Benefit payable to the Member.
 
-#### 5. Benefits payable to Members who retire on ill health grounds or compassionate grounds[^key-a071ba10770f9ace7df278e66d1407e6][^key-725e7d3ef56777c2bea0b094d5a223a8]
+#### 5. Benefits payable to Members who retire on ill health grounds or compassionate grounds[^c-a071ba10770f9ace7df278e66d1407e6][^c-725e7d3ef56777c2bea0b094d5a223a8]
 
 (1) A Member who is—
 
@@ -984,7 +984,7 @@ will be paid the RMSPS NRA60 Benefits and RMSPS NRA65 Benefits specified in Rule
 
 (5) Similarly, in relation to a Partially Discharged RMPP Member, sub-paragraphs (1) and (2) will apply such that the Member’s RMSPS NRA60 Benefits and RMSPS NRA65 Benefits will both come into payment (or, any such benefit that has not already come into payment will come into payment), notwithstanding that no amount in respect of that Member’s Discharged RMPP Benefit will at that time come into payment under the RMPP.
 
-#### 6. Benefits payable to Members who retire under the RMPP in the interests of efficiency[^key-ec1c3a350c402259b5626636cede28ab][^key-3e43fb80eca268a597b4419824d3826b]
+#### 6. Benefits payable to Members who retire under the RMPP in the interests of efficiency[^c-ec1c3a350c402259b5626636cede28ab][^c-3e43fb80eca268a597b4419824d3826b]
 
 (1) Any Member who is retired from Employer employment in the interests of efficiency under the RMPP after the Cut-Off Date will be paid that Member’s RMSPS NRA60 Benefits and RMSPS NRA65 Benefits (or, if either benefit is already in payment, the benefit not already in payment) so that they come into payment at the same time as that Member’s RMPP NRA60 Benefits and/or RMPP NRA65 Benefits (respectively) come into payment by reason of Rule 7 (Retirement in the interests of efficiency) or Rule 7A of Section B of the RMPP Rules.
 
@@ -1008,7 +1008,7 @@ will be paid the RMSPS NRA60 Benefits and RMSPS NRA65 Benefits specified in Rule
 
 (5) Subject to Rule 3(10) (Benefits payable to Members on retirement) in respect of the Member’s GMP, the reductions set out in Rule 3(9) will apply to the benefits payable under this Rule 6.
 
-#### 7. Benefits payable to Members who retire under the RMPP on redundancy[^key-cbfea948335a81140085438ef2fa515b][^key-273897d9aadcab91007970619c7f9271]
+#### 7. Benefits payable to Members who retire under the RMPP on redundancy[^c-cbfea948335a81140085438ef2fa515b][^c-273897d9aadcab91007970619c7f9271]
 
 (1) Any Member (other than a Senior Manager Member) who is retired on the grounds of redundancy by that Member’s Employer after the Cut-Off Date will be paid that Member’s RMSPS NRA60 Benefits and RMSPS NRA65 Benefits (or, if either benefit is already in payment, the benefit not already in payment) so that they come into payment at the same time as that Member’s RMPP NRA60 Benefits and/or RMPP NRA65 Benefits (respectively) come into payment by reason of Rule 8 (Retirement on Redundancy) or Rule 8AA of Section B of the RMPP Rules.
 
@@ -1032,7 +1032,7 @@ will be paid the RMSPS NRA60 Benefits and RMSPS NRA65 Benefits specified in Rule
 
 (5) Subject to Rule 3(10) (Benefits payable to Members on retirement) in respect of the Member’s GMP, the reductions set out in Rule 3(9) will apply to the benefits payable under this Rule 7.
 
-#### 8. Benefits payable to Members who take early voluntary retirement under the RMPP[^key-9a483f4030cd77fe1b84c31ee398d6a7][^key-a838152122c4221e1f3e80807627d21b]
+#### 8. Benefits payable to Members who take early voluntary retirement under the RMPP[^c-9a483f4030cd77fe1b84c31ee398d6a7][^c-a838152122c4221e1f3e80807627d21b]
 
 (1) Any Member who is, after the Cut-Off Date, permitted by his or her Employer to retire under the RMPP before Normal Retiring Age and who has attained Minimum Pension Age will be paid the RMSPS NRA60 Benefits and RMSPS NRA65 Benefits specified in Rule 3 (Benefits payable to Members on retirement) (or, if either benefit is already in payment, the benefit not already in payment) so that they come into payment at the same time as his or her RMPP NRA60 Benefits and/or RMPP NRA65 Benefits (respectively) come into payment by reason of Rule 8B (Early Voluntary Retirement) of Section B of the RMPP Rules.
 
@@ -1046,7 +1046,7 @@ will be paid the RMSPS NRA60 Benefits and RMSPS NRA65 Benefits specified in Rule
 
 (4) Subject to Rule 3(10) (Benefits payable to Members on retirement) in respect of the Member’s GMP, the reductions set out in Rule 3(9) will apply to the benefits payable under this Rule 8.
 
-#### 9. Lump sum benefits payable on death of a Member[^key-edea98cb14d210159d2b3bb9655b075b][^key-b354bc95fa567001edd5444171846a2e]
+#### 9. Lump sum benefits payable on death of a Member[^c-edea98cb14d210159d2b3bb9655b075b][^c-b354bc95fa567001edd5444171846a2e]
 
 (1) If a Member dies after the Cut-Off Date, the following lump sum benefits shall be paid to that Member’s personal representatives depending on the status of the Member on the day that Member died (and subject to the provisos in sub-paragraph (6) below).
 
@@ -1091,7 +1091,7 @@ will be paid the RMSPS NRA60 Benefits and RMSPS NRA65 Benefits specified in Rule
 - (i) the Minister for the Civil Service may at his discretion deduct the cost of funeral expenses from the lump sum death benefits payable under this Rule 9 and pay it to the person who incurred the funeral expenses; and
 - (j) for the purposes of calculating the rate at which any preserved pension would have been payable to a Member for the purposes of this Rule 9, the reductions set out in Rule 3(9) (Benefits payable to Members on retirement) will not apply.
 
-#### 10. Service in unhealthy places[^key-e789762337986116c05469e74b4cf97e][^key-f8eff2a7abd8dd8544dd462765e44f19]
+#### 10. Service in unhealthy places[^c-e789762337986116c05469e74b4cf97e][^c-f8eff2a7abd8dd8544dd462765e44f19]
 
 (1) If a Member was employed by an Employer prior to 1 April 1998 in a country or place named in Part IX (Overriding Finance Act Provisions) of this Schedule—
 
@@ -1102,7 +1102,7 @@ will be paid the RMSPS NRA60 Benefits and RMSPS NRA65 Benefits specified in Rule
 
 (3) If the Member was granted unpaid leave by an Employer on or before the Cut-Off Date to take up temporary employment with another employer (not being an Employer) in such country or place, the provisions of sub-paragraph (1) of this Rule 10 shall apply provided that the Member and that other employer either individually or in conjunction paid to the Fund in addition to the cost of enhancement in sub-paragraph (1), both the Member’s standard contributions and those of that Member’s Employer.
 
-#### 11. Spouse’s pension[^key-801bf2f2b7d198b928ecb31cfa020e96][^key-4017b9582a69445028810b4db94e25e2]
+#### 11. Spouse’s pension[^c-801bf2f2b7d198b928ecb31cfa020e96][^c-4017b9582a69445028810b4db94e25e2]
 
 (1) On the death of a Member after the Cut-Off Date a spouse’s pension shall be payable in accordance with this Rule 11.
 
@@ -1141,7 +1141,7 @@ in both cases which the Member would have received on that Member’s date of de
 
 in both cases in payment on the date of the Member’s death (subject to Rules 13(1) and (3) (Provisions applicable to Rules 11 and 12)).
 
-#### 12. Spouse’s pension for Relevant Members[^key-333f4b026257d6d8a98aeafcf4e7c966][^key-de681141f3d155a61c2fd0298969d652]
+#### 12. Spouse’s pension for Relevant Members[^c-333f4b026257d6d8a98aeafcf4e7c966][^c-de681141f3d155a61c2fd0298969d652]
 
 (1) In accordance with Rule 11(3) (Spouse’s pension), this Rule 12 applies for the purposes of calculating the benefits payable to a spouse of a Relevant Member in respect only of that part of the Relevant Member’s RMSPS NRA60 Pension attributable to RMSPS Reckonable Service before the Relevant Date. For avoidance of doubt, nothing in this Rule 12 affects the spouse’s pension payable in respect of either the part of the Relevant Member’s RMSPS NRA60 Pension attributable to RMSPS Reckonable Service on and after the Relevant Date, or in respect of the Relevant Member’s RMSPS NRA65 Pension. The provisions of this Rule 12 are subject to the provisions of Rule 13 (Provisions applicable to Rules 11 and 12).
 
@@ -1161,7 +1161,7 @@ in both cases in payment on the date of the Member’s death (subject to Rules 1
 
 (5) For the purposes of this Rule 12 only, Dependant Widower means a widower to whom a Relevant Member was married at the date RMPP Reckonable Service ceased and who was permanently incapacitated and dependent on her at that date.
 
-#### 13. Provisions applicable to Rules 11 and 12[^key-df55686ff95b685cb9252c88cd612d9c][^key-6a037fa21a1b2d828cfc3046ba8097fb]
+#### 13. Provisions applicable to Rules 11 and 12[^c-df55686ff95b685cb9252c88cd612d9c][^c-6a037fa21a1b2d828cfc3046ba8097fb]
 
 (1) If a Member dies in receipt of either or both his or her RMSPS NRA60 Pension or his or her RMSPS NRA65 Pension, the spouse’s pension in respect of the pension (whether RMSPS NRA60 Pension, RMSPS NRA65 Pension, or both) in payment at the date of the Member’s death shall, for a period of 91 days after the Member’s death, be payable to the spouse at the same rate as the pension in payment at the date of the Member’s death.
 
@@ -1177,7 +1177,7 @@ in both cases in payment on the date of the Member’s death (subject to Rules 1
 
 (7) Where a Member has transferred out either his or her RMSPS NRA60 Benefits or his or her RMSPS NRA65 Benefits in accordance with Clause 11 (Individual transfers out of the Scheme), the provisions of Rule 11 (Spouse’s pension) and Rule 12 (Spouse’s pension for Relevant Members) will apply only in respect of that tranche of benefit which is still retained in the RMSPS.
 
-#### 14. Children’s pensions[^key-3e837e11dfc58247c2fcaaea7c36a8d0][^key-07d114e7fa41dc0de52b6096d3e9c94e]
+#### 14. Children’s pensions[^c-3e837e11dfc58247c2fcaaea7c36a8d0][^c-07d114e7fa41dc0de52b6096d3e9c94e]
 
 (1) There shall be paid in respect of the Children of a Member who dies after the Cut-Off Date an annual pension of the following proportions of the pension or the deferred pension (both RMSPS NRA60 Pension and RMSPS NRA65 Pension) that Member was receiving or, in the case of a deferred pension, would have been entitled to receive at that date had the pension then come into payment without the reduction set out in Rule 3(9)—
 
@@ -1204,11 +1204,11 @@ provided that—
 
 (4) Where there are two or more eligible Children, the Minister for the Civil Service may at his discretion either pay any pension under this Rule equally between the Children or pay any pension in such shares to such Children as he determines.
 
-#### 15. Dependants’ pensions[^key-2987adb2386b41df3eb1a04ae3a64209][^key-3f9cc54ab03ce1bcfaa0a9609e121e78]
+#### 15. Dependants’ pensions[^c-2987adb2386b41df3eb1a04ae3a64209][^c-3f9cc54ab03ce1bcfaa0a9609e121e78]
 
 If a Member dies after the Cut-Off Date leaving no surviving spouse the Minister for the Civil Service may at his sole discretion and subject to the provisions of paragraph 3 of Part IX (Overriding Finance Act Provisions) of this Schedule pay a Dependant’s pension equivalent to the spouse’s pension under Rule 11 (Spouse’s pension) (and, if applicable, Rule 12 (Spouse’s pension for Relevant Members)) to any person who in his opinion is a Dependant of the Member, for such period and subject to such terms as the Minister for the Civil Service may from time to time decide.
 
-#### 16. Surrender of part pension to provide for a spouse or other Dependant[^key-8c7dfc9efdaa48dff5199ec2ad2425e4][^key-c728085025deb239e8c3deccde93acf7]
+#### 16. Surrender of part pension to provide for a spouse or other Dependant[^c-8c7dfc9efdaa48dff5199ec2ad2425e4][^c-c728085025deb239e8c3deccde93acf7]
 
 (1) A Member shall have an option to surrender not more than ⅓ of that Member’s pension under the RMSPS to provide a pension for a person referred to in sub-paragraph (3) below of such amount as may be calculated by the Minister for the Civil Service according to tables prepared by the Actuary.
 
@@ -1247,19 +1247,19 @@ If a Member dies after the Cut-Off Date leaving no surviving spouse the Minister
 
 (14) For the purposes of this Rule, Members who were in RMSPS Reckonable Service on 1 April 2010 may surrender either or both RMSPS NRA60 Pension and RMSPS NRA65 Pension and references in this Rule to “pension” shall be interpreted accordingly. The fractions and limits on the amount that can be surrendered under this Rule shall apply separately to RMSPS NRA60 Pension and RMSPS NRA65 Pension.
 
-#### 17. Conversion of lump sum into pension[^key-d88aaa2142a55f3f6cd832c4770048e9][^key-d932288e73ff30255da310217ed3928e]
+#### 17. Conversion of lump sum into pension[^c-d88aaa2142a55f3f6cd832c4770048e9][^c-d932288e73ff30255da310217ed3928e]
 
 (1) A Member shall have the option, by giving notice in writing to the Minister for the Civil Service not later than 31 days before the date of retirement (or such later time as the Minister for the Civil Service may allow) to request that all or part of the lump sum (whether RMSPS NRA60 Lump Sum, RMSPS NRA65 Lump Sum, or both) payable on retirement shall be converted into an additional pension assessed on a basis to be determined by the Minister for the Civil Service on the advice of the Actuary.
 
 (2) For the avoidance of doubt, any additional pension resulting from an exercise of the option under sub-paragraph (1) of this Rule will be taken into account for the purpose of determining any pension payable under Rule 11 (Spouse’s pension) (and, where applicable, Rule 12 (Spouse’s pension for Relevant Members)), Rule 14 (Children’s pensions) or Rule 15 (Dependants’ pensions), and Rule 9(2)(a)(i), Rule 9(3)(a)(i), Rule 9(4)(a)(i) or Rule 9(5) (Lump sum benefits payable on death of a Member) and Rule 19 (Pensions increase) shall apply to both the pension payable under Rule 3 (Benefits payable to members on retirement), Rule 6 (Benefits payable to Members who retire under the RMPP in the interests of efficiency), Rule 7 (Benefits payable to Members who retire under the RMPP on redundancy) or Rule 8 (Benefits payable to Members who take early voluntary retirement under the RMPP) (as appropriate) and the additional pension.
 
-#### 18. Commutation of pension[^key-e7a0b6da09b7dd77646c729c4dd70fc4][^key-27db3a6676e237910166e2a89aef2257]
+#### 18. Commutation of pension[^c-e7a0b6da09b7dd77646c729c4dd70fc4][^c-27db3a6676e237910166e2a89aef2257]
 
 (1) A Member shall have the option, by giving notice in writing to the Minister for the Civil Service not later than 31 days before the date of retirement (or such later time as the Minister for the Civil Service may allow) to request that part or all of the pension (whether RMSPS NRA60 Pension, RMSPS NRA65 Pension, or both) payable on retirement shall be commuted into an additional lump sum assessed on a basis to be determined by the Minister for the Civil Service on the advice of the Actuary.
 
 (2) For the avoidance of doubt, any reduction in pension resulting from an exercise of the option under sub-paragraph (1) above will be disregarded for the purpose of determining any pension payable under Rule 11 (Spouse’s pension) (and, where applicable, Rule 12 (Spouse’s pension for Relevant Members)), Rule 14 (Children’s pensions) or Rule 15 (Dependants’ pensions).
 
-#### 19. Pensions increase[^key-bdeaebec3d4d54eb9f93b8a80568e2c1][^key-221f96feb71eeccb4710468506389fe3]
+#### 19. Pensions increase[^c-bdeaebec3d4d54eb9f93b8a80568e2c1][^c-221f96feb71eeccb4710468506389fe3]
 
 (1) Any pension payable under the Section B Rules shall be increased from time to time in accordance with the 1971 Act and Sections 59 and 59A of the 1975 Act, as if it were a pension beginning on the Member’s COD Beginning Date and it were payable under the Principal Civil Service Pension Scheme 1974 and any amendment or replacement thereof, subject to the modifications set out in and the additional provisions of this Rule.
 
@@ -1329,7 +1329,7 @@ If a Member dies after the Cut-Off Date leaving no surviving spouse the Minister
 - “RMSPS Retirement Date” means the date the Member’s RMSPS benefit or where appropriate benefit component comes into payment; and
 - “Statutory Underpin Amount” means such additional amount (if any) as may be required to ensure that at that time, the amount of the Member’s pension is no less than the amount it would have been had it been a pension beginning on the Member’s COD Beginning Date and payable under the Principal Civil Service Pension Scheme 1974 and any amendment or replacement thereof, and increased in accordance with the 1971 Act and Sections 59 and 59A of the 1975 Act, without the modifications set out in this Rule 19.
 
-#### 20. Terminal illness[^key-297bd256878b201daa1144fad2a02636][^M_I_95a0b6af-896b-4ef8-c150-7da8207176f0]
+#### 20. Terminal illness[^c-297bd256878b201daa1144fad2a02636][^M_I_95a0b6af-896b-4ef8-c150-7da8207176f0]
 
 (1) This Rule shall apply where—
 
@@ -1344,11 +1344,11 @@ If a Member dies after the Cut-Off Date leaving no surviving spouse the Minister
 
 ### PART V — SECTION C RULES OF THE SCHEME
 
-#### 1. Application[^key-d53b269e9ad94730e8504e3c85bf70fc][^key-79f93c7e61b55cc045802eec333c8a81]
+#### 1. Application[^c-d53b269e9ad94730e8504e3c85bf70fc][^c-79f93c7e61b55cc045802eec333c8a81]
 
 These Section C Rules shall only apply to Members who are Section C Actives, and they do not apply to Members who are Cut-Off Date Non-Actives or to any other Wholly Transferred Beneficiaries. References to Member, RMPP Active and RMPP Leaver in these Section C Rules shall be read accordingly.
 
-#### 2. Definitions and interpretation[^key-80a8ea08fbf135dabc0faff658436848][^key-950a3d839ae77e69aa78276f7d38cb73]
+#### 2. Definitions and interpretation[^c-80a8ea08fbf135dabc0faff658436848][^c-950a3d839ae77e69aa78276f7d38cb73]
 
 In these Section C Rules the following expressions have the meaning hereby assigned to them—
 
@@ -1407,7 +1407,7 @@ In these Section C Rules the following expressions have the meaning hereby assig
 - “Unpaid Absence” means leave or absence from work which the Employer agrees should qualify as Unpaid Absence; and
 - “Wholly Discharged RMPP Member” has the meaning given in Rule 4(4) (Payment of RMSPS benefits, retirement options and flexible retirement).
 
-#### 3. Benefits payable to Members on retirement[^key-90a7e4ae25025ea80fcfd7878a66afa2][^key-3476df9724aed704bd8b8c0ad719d603]
+#### 3. Benefits payable to Members on retirement[^c-90a7e4ae25025ea80fcfd7878a66afa2][^c-3476df9724aed704bd8b8c0ad719d603]
 
 (1) Subject to sub-paragraph (3) below, every Member who retires after the Cut-Off Date at or after age 60 will receive a pension for life (RMSPS NRA60 Pension) of the sum of—
 
@@ -1440,7 +1440,7 @@ plus the RMSPS Pension Supplement (if any) calculated and payable in accordance 
 
 (8) A Member may not defer RMSPS NRA60 Pension after age 60 or RMSPS NRA65 Pension after age 65 save as permitted under Rule 6 (Late retirement).
 
-#### 4. Payment of RMSPS benefits, retirement options and flexible retirement[^key-1c7f0910e353caba8e272b67385425d6][^key-1a0e6c14c96c1fc7948b19bb88f87ab7]
+#### 4. Payment of RMSPS benefits, retirement options and flexible retirement[^c-1c7f0910e353caba8e272b67385425d6][^c-1a0e6c14c96c1fc7948b19bb88f87ab7]
 
 (1) A Member’s RMSPS NRA60 Pension and RMSPS NRA65 Pension are separate benefit entitlements, and shall constitute separate arrangements for the purposes of the Finance Act 2004[^f00032] provided that the Minister for the Civil Service has the power to arrange the benefits under the RMSPS (in respect of one or a number of Members) so that RMSPS NRA60 Pension and RMSPS NRA65 Pension constitute the same arrangement for the purposes of the Finance Act 2004.
 
@@ -1491,7 +1491,7 @@ the following will apply—
 
 (6) While the Member remains in employment to which the RMPP relates, the Member’s consent will not be required to defer payment of his or her GMP after age 65 (being the expiration of five years from the date on which that Member attains Normal Retiring Age in respect of that Member’s RMSPS NRA60 Pension). Section 13(5)(b) of the Pension Schemes Act 1993 (as applied to the RMSPS by the Contracting-out Laws) shall apply subject to this exemption from its requirements. This sub-paragraph shall not apply to a Wholly Discharged RMPP Member, a Partially Discharged RMPP Member whose Relevant RMSPS Benefit is his or her RMSPS NRA60 Benefits. This sub-paragraph shall apply to a Nil Margin Member who remains in employment with an Employer, notwithstanding that there is at that time no RMPP NRA60 Pension payable to the Member.
 
-#### 5. RMSPS Pension Supplement[^key-82277fdb63b571a9afad43b3d1922f1a][^key-60536ef2cbcc0e3774ac6c7a4e8fcf81]
+#### 5. RMSPS Pension Supplement[^c-82277fdb63b571a9afad43b3d1922f1a][^c-60536ef2cbcc0e3774ac6c7a4e8fcf81]
 
 (1) The RMSPS Pension Supplement shall be payable in the circumstances described in sub-paragraphs (2) to (7) below, subject to the overriding principles in sub-paragraph (8) below. It shall be determined as the sum of the following—
 
@@ -1541,7 +1541,7 @@ notwithstanding sub-paragraph (2) above, no RMSPS Pension Supplement shall be pa
 - (d) Where a Member’s RMSPS NRA60 Pension Supplement or RMSPS NRA65 Pension Supplement has come into payment but the relevant RMPP Pension Supplement (as appropriate under Paragraph (a) or (b) above) has not come into payment, the relevant RMSPS Pension Supplement will be treated as having been paid in error, and the Minister for the Civil Service must take whatever action he deems appropriate in his absolute discretion to correct the error.
 - (e) Paragraphs (a) to (d) above will not apply to the RMSPS Pension Supplement of a Wholly Discharged RMPP Member, or to a Partially Discharged RMPP Member in respect of that Member’s RMSPS NRA60 Pension Supplement (if that Member’s Relevant RMSPS Benefit is his or her RMSPS NRA60 Pension) or his or her RMSPS NRA65 Pension Supplement (if his or her Relevant RMSPS Benefit is his or her RMSPS NRA65 Pension), as the case may be. Similarly, Paragraphs (a) to (d) above will not apply in respect of a Nil Margin Member’s RMSPS NRA60 Pension Supplement. However, for avoidance of doubt, sub-paragraphs (2) to (7) above will continue to apply in respect of the RMSPS Pension Supplement (or relevant part thereof) of such Members.
 
-#### 6. Late retirement[^key-4a4838f2d3ba83d2204ae28c4bab5159][^key-255380e78e9737792d3bd56c9faef27f]
+#### 6. Late retirement[^c-4a4838f2d3ba83d2204ae28c4bab5159][^c-255380e78e9737792d3bd56c9faef27f]
 
 (1) A Member who is an RMPP Active and who retires from the RMPP after Normal Retiring Age will receive a pension for life calculated in accordance with Rule 3 (Benefits payable to members on retirement) (and will also receive the RMSPS Pension Supplement, if any, in accordance with Rule 5 (RMSPS Pension Supplement)), subject to sub-paragraphs (2) and (3) below. This Rule—
 
@@ -1553,7 +1553,7 @@ notwithstanding sub-paragraph (2) above, no RMSPS Pension Supplement shall be pa
 
 (3) Payment of such a Member’s GMP will be postponed in the circumstances permitted by the Contracting-out Laws (see Rule 4(6) (Payment of RMSPS benefits, retirement options and flexible retirement) above) as necessary to comply with Rule 4(2)).
 
-#### 7. Early retirement through incapacity[^key-ec7af82b408f09636d841ca1cbcf7f63][^key-82e3ef5f4ac29c7a94e1d42509d389cc]
+#### 7. Early retirement through incapacity[^c-ec7af82b408f09636d841ca1cbcf7f63][^c-82e3ef5f4ac29c7a94e1d42509d389cc]
 
 (1) A Member whose RMSPS NRA60 Pension and/or RMSPS NRA65 Pension is preserved under Rule 3(6) (Benefits payable to Members on retirement) and who is—
 
@@ -1583,7 +1583,7 @@ Sub-paragraphs (1) and (2) above and sub-paragraph (5) below will apply to a Nil
 
 (6) The Minister for the Civil Service must be reasonably satisfied that a Member’s pension is at least equal in value (e.g. taking account of the longer period of payment) to the preserved pension (including future increases under Rule 17 (Pension increases)) payable from Normal Retiring Age to which that Member would otherwise have become entitled.
 
-#### 8. Choosing a lump sum benefit[^key-d98238a3939e4b2b9a4a64047c3d41c3][^key-ec0c504be8d49df03c2fcbbf9ab163ae]
+#### 8. Choosing a lump sum benefit[^c-d98238a3939e4b2b9a4a64047c3d41c3][^c-ec0c504be8d49df03c2fcbbf9ab163ae]
 
 (1) A Member may—
 
@@ -1592,7 +1592,7 @@ Sub-paragraphs (1) and (2) above and sub-paragraph (5) below will apply to a Nil
 
 A Member must, however, keep a pension not less than his or her GMP (unless the Member is paid a serious ill-health lump sum under General Rule 4(2) (Payment of benefits)) and may only take one lump sum from each tranche of benefit. The Minister for the Civil Service will convert pension to lump sum on a basis he shall determine which has been certified as reasonable by the Actuary. The maximum lump sum a Member may choose shall be subject to the limits in paragraph 7(b) of Part IX (Overriding Finance Act Provisions) of this Schedule.
 
-#### 9. Lump sum death benefits[^key-ec894a70982d7701b812278444bbf696][^key-e1b835c24145753d76d383582d8e2928]
+#### 9. Lump sum death benefits[^c-ec894a70982d7701b812278444bbf696][^c-e1b835c24145753d76d383582d8e2928]
 
 (1) If a Section C Active dies after the Cut-Off Date, a lump sum will be payable by the Minister for the Civil Service in accordance with Rule 10 (Discretionary trusts). The amount of the lump sum payable in respect of the Member depends on which of the following sub-paragraphs is applicable to that Member on the day that he or she died.
 
@@ -1660,7 +1660,7 @@ provided that the total lump sum payable under this Rule 9(7) shall not exceed 4
 
 (11) Where a Member had at the end of the Cut-Off Date two or more periods of RMPP Reckonable Service (at least one of these being RMSPS Reckonable Service), such periods are to be treated in aggregate as a single period of RMSPS Reckonable Service for the purpose of the calculation of death benefits under this Rule 9.
 
-#### 10. Discretionary trusts[^key-57120f683bf7171df7dbf15a573001e1][^key-53dd805c2b79bc64d9d400a58e3ab07a]
+#### 10. Discretionary trusts[^c-57120f683bf7171df7dbf15a573001e1][^c-53dd805c2b79bc64d9d400a58e3ab07a]
 
 (1) The Minister for the Civil Service will pay the lump sum death benefit (together with any arrears of pension or lump sum benefits which may be payable under the Rules) to one or more of the Beneficiaries or apply it for their benefit in such proportions as he sees fit. He may at his discretion deduct the cost of funeral expenses from the lump sum death benefits and pay it to the person who incurred the funeral expenses. If he cannot do so within 2 years he will pay it to the Member’s personal representatives, unless there is no will of the Member under which it will pass and the successor on the Member’s intestacy is the Crown or the Duchy of Lancaster or Cornwall, in which case no benefit will be payable. Interest will only be added if the Minister for the Civil Service so determines and the limits in Part IX (Overriding Finance Act Provisions) of this Schedule are not exceeded.
 
@@ -1669,21 +1669,21 @@ provided that the total lump sum payable under this Rule 9(7) shall not exceed 4
 - (a) direct that all or part of the benefit will be held by himself or by trustees on such trusts (including discretionary trusts) and with such powers and provisions (including powers of selection and variation) as the Minister for the Civil Service sees fit; or
 - (b) pay all or part of the benefit to the trustees of any other existing trust.
 
-#### 11. Pensions for spouses, children and dependants[^key-b679bc9fc07b36c2f8af2374f83b3dbc][^key-642619efaba6a534ae396f8e16cd0208]
+#### 11. Pensions for spouses, children and dependants[^c-b679bc9fc07b36c2f8af2374f83b3dbc][^c-642619efaba6a534ae396f8e16cd0208]
 
 Rule 12 (Spouse’s pension and dependants’ pension), Rule 13 (Children’s pensions) and Rule 15 (Orphans) set out general provisions concerning the provision of spouse’s and children’s pensions. Rule 14 (Spouse’s and children’s pensions) sets out specific provisions concerning what benefits are payable and in what circumstances depending on the status of the Member on the date that Member died.
 
-#### 12. Spouse’s pension and dependants’ pension[^key-98427e6145868ee12e26cd2a5097c6e0][^key-7581921bbd13e4909a494efd8ea9e97e]
+#### 12. Spouse’s pension and dependants’ pension[^c-98427e6145868ee12e26cd2a5097c6e0][^c-7581921bbd13e4909a494efd8ea9e97e]
 
 (1) If a Member dies after the Cut-Off Date, leaving a surviving spouse, the spouse will receive a pension until remarriage. The Minister for the Civil Service may at his discretion restore the pension if that marriage ends. A spouse will always receive any GMP that the RMSPS is required to provide for the spouse under the Contracting-out Laws. Additionally, the spouse’s pension must be sufficient to satisfy the statutory standard referred to in Section 12A of the Pension Schemes Act 1993, as would have applied under the RMPP if the relevant Member had retained his or her benefits in the RMPP and had opted out of the RMPP under Rule 10E (Opting out of the Scheme) of Section C of the RMPP Rules at the end of the Cut-off Date, or such higher standard as is agreed between the Principal Employer and the Minister for the Civil Service.
 
 (2) If the Member dies after the Cut-Off Date leaving no surviving spouse, the Minister for the Civil Service may pay a pension to one or more of the Member’s Dependants. This pension may be calculated as a spouse’s pension. However the Minister for the Civil Service may pay a pension of a smaller amount, and may reduce or stop any pension at any time as he sees fit.
 
-#### 13. Children’s pensions[^key-57e3c298ca27f5ac14da6fcfac60246b][^key-f14ed35c7392d308ae82741b0b5d05ee]
+#### 13. Children’s pensions[^c-57e3c298ca27f5ac14da6fcfac60246b][^c-f14ed35c7392d308ae82741b0b5d05ee]
 
 If a Member dies after the Cut-Off Date leaving one or more Pensionable Children, a children’s pension will be paid. The children’s pension will be paid to one or more of the Pensionable Children or applied for their benefit in such proportions as the Minister for the Civil Service sees fit from time to time, and may be paid to some person or persons on fixed or discretionary trusts for all or any of them. It will finish when there is no remaining Pensionable Child.
 
-#### 14. Spouse’s and children’s pensions[^key-28671eba5da847ce3f757253e2ff2259][^key-4ea09c5d1a705e3585d1f3e616598cec]
+#### 14. Spouse’s and children’s pensions[^c-28671eba5da847ce3f757253e2ff2259][^c-4ea09c5d1a705e3585d1f3e616598cec]
 
 (1) If a Member dies after the Cut-Off Date, the following spouse’s and children’s pensions will be payable depending on which of the following sub-paragraphs is applicable to that Member on the day he or she died.
 
@@ -1740,11 +1740,11 @@ If a Member dies after the Cut-Off Date leaving one or more Pensionable Children
 
 (9) Where a Member has transferred out either that Member’s RMSPS NRA60 Pension or his or her RMSPS NRA65 Pension in accordance with Clause 11 (Individual transfers out of the Scheme), the provisions of this Rule 14 will apply only in respect of that tranche of benefit which is still retained in the RMSPS.
 
-#### 15. Orphans[^key-14c761181af3ccd62d63e3d899143e18][^key-7b96ff465b0e72658b66b8673674f7e5]
+#### 15. Orphans[^c-14c761181af3ccd62d63e3d899143e18][^c-7b96ff465b0e72658b66b8673674f7e5]
 
 If no spouse’s pension is being paid the children’s pension will be increased from one-quarter to one-third of the appropriate Member’s pension where there is one Pensionable Child and from one-half to two-thirds where there are two or more.
 
-#### 16. Revaluation of preserved pensions[^key-a86cb47446709f7d67455853e200ba23][^key-2be4cec0df9a6eff6ec6d1e9225dc3f3]
+#### 16. Revaluation of preserved pensions[^c-a86cb47446709f7d67455853e200ba23][^c-2be4cec0df9a6eff6ec6d1e9225dc3f3]
 
 (1) A Member’s benefit under the Section C Rules, or where appropriate a component of that benefit, will be increased as set out in this Rule 16 in accordance with the requirements of the Revaluation Laws as if—
 
@@ -1848,7 +1848,7 @@ the Member’s benefit or component of that benefit, as revalued under sub-parag
 - “RMSPS Retirement Date” means the date the Member’s RMSPS benefit or where appropriate benefit component comes into payment; and
 - “Statutory Underpin Amount” means such additional amount (if any) as may be required to ensure that at the time it is determined, the amount of the Member’s benefit or benefit component is no less than the amount it would have been had it been a benefit to which section 83(1)(a) of the Pension Schemes Act 1993 applied and the Member had been in pensionable service under the RMSPS that had ended at the end of the Cut-Off Date, and it had been increased over the relevant period in accordance with the Revaluation Laws, in relation to which the modifications set out in this Rule (other those set out in sub-paragraph (2)) will for these purposes not apply).
 
-#### 17. Pension increases[^key-5e10d7d1c1cc713eca3742c5f4d72826][^key-49011d5b13f25712fb8b9be00067a15a]
+#### 17. Pension increases[^c-5e10d7d1c1cc713eca3742c5f4d72826][^c-49011d5b13f25712fb8b9be00067a15a]
 
 (1) That part of each pension in payment under the Section C Rules (together with the RMSPS Pension Supplement, if any) that exceeds any GMP will increase by the lower of 5% compound in each year or the increase in the Retail Prices Index over the preceding year on a date decided by the Minister for the Civil Service.
 
@@ -1868,45 +1868,45 @@ to the Deemed RMPP Exit Date.
 - “Calculation Year” means, in respect of a Member, the year (or period of 365 days of his or her RMPP Reckonable Service if that RMPP Reckonable Service is not continuous) ending on the Deemed RMPP Exit Date and each year (or period of 365 days) ending on a day which falls 91 days before the Deemed RMPP Exit Date or any multiple of 91 days before the Deemed RMPP Exit Date up to a maximum multiple of 8; and
 - “Deemed RMPP Exit Date” has the meaning given in Rule 16 (Revaluation of preserved pensions).
 
-#### 18. Deduction of tax[^key-fe263ae1c5aa118fe184f7e34c136e40][^key-a3b3e71c0951ffd15347bdca5e8bffe2]
+#### 18. Deduction of tax[^c-fe263ae1c5aa118fe184f7e34c136e40][^c-a3b3e71c0951ffd15347bdca5e8bffe2]
 
 The Minister for the Civil Service may deduct from any payment under this Section C any tax for which he may be liable in respect of it.
 
 ### PART VI — SECTION E RULES OF THE SCHEME
 
-#### 1. Application[^key-6923c7b0237451714a270663101db454][^key-3d139c52948d618a7252b57990389837]
+#### 1. Application[^c-6923c7b0237451714a270663101db454][^c-3d139c52948d618a7252b57990389837]
 
 These Section E Rules shall only apply to Members who are Section E Actives, and they do not apply to Members who are Cut-Off Date Non-Actives or to any other Wholly Transferred Beneficiaries. References to Member in these Section E Rules shall be read accordingly.
 
-#### 2. Interpretation[^key-dae408324745a933930ec86cb5b0f23e][^key-83fcfe418c9a250c222396b56c28c81f]
+#### 2. Interpretation[^c-dae408324745a933930ec86cb5b0f23e][^c-83fcfe418c9a250c222396b56c28c81f]
 
 Terms defined in the RMSPS Rules shall have the same meaning in these Rules.
 
-#### 3. Definition[^key-37afc13b713d55f53892ccbfd3da3686][^key-8edc3879a49a65af0c75fca19844134d]
+#### 3. Definition[^c-37afc13b713d55f53892ccbfd3da3686][^c-8edc3879a49a65af0c75fca19844134d]
 
 The following term shall have the following meaning in these Rules—
 
 - “Former Section” means whichever of Section A or Section B of the contributory part of the RMPP to which the Member was subject immediately prior to joining Section E of the RMPP.
 
-#### 4. Transfer of RMPP Reckonable Service[^key-6d1b141fa61a7a59bc9470ec2881edad][^key-ad18881b523fc915c288902123a403fe]
+#### 4. Transfer of RMPP Reckonable Service[^c-6d1b141fa61a7a59bc9470ec2881edad][^c-ad18881b523fc915c288902123a403fe]
 
 All RMPP Reckonable Service built up in a Member’s Former Section in relation to that Member’s period of service immediately prior to the date of joining Section E of the RMPP (which was transferred to Section E of the RMPP in accordance with the provisions of Section E of the RMPP Rules applying to the Member upon the date of that Member joining Section E of the RMPP) was treated as if it were RMPP Reckonable Service in Section E of the RMPP and was continuous with RMPP Reckonable Service accrued after joining Section E of the RMPP. All such continuous RMPP Reckonable Service accrued under a Former Section and accrued after joining Section E of the RMPP, up to the end of the Cut-Off Date, will be counted as RMSPS Reckonable Service for the purposes of these Section E Rules. For avoidance of doubt, no Section E Active has any rights under Section A or Section B of the RMSPS in relation to RMPP Reckonable Service accrued under a Former Section (unless the RMPP Reckonable Service under a Former Section was not treated under the RMPP Rules as continuous with that Member’s RMPP Reckonable Service under Section E and hence does not form part of that Member’s RMSPS Reckonable Service; in such a case, the Member will be treated as a Wholly Transferred Beneficiary in relation to that prior RMPP Reckonable Service).
 
-#### 5. Section E benefits[^key-34b7597a1142efcf57ba763f230d84e0][^key-02bd8d5bf914d2b00c146d836b1ad0ed]
+#### 5. Section E benefits[^c-34b7597a1142efcf57ba763f230d84e0][^c-02bd8d5bf914d2b00c146d836b1ad0ed]
 
 Subject to Rule 7 (Benefits on redundancy), the benefits payable to a Member of Section E shall be of the same amount and payable in the same circumstances as would have applied to the Member if that Member had continued to be subject to the Rules of his or her Former Section up to the end of the Cut-Off Date and, as a consequence, become a Section A Active or a Section B Active under the RMSPS. For the avoidance of doubt, the RMSPS benefits payable to a Section E Active who was formerly subject to the Rules of Section A of the contributory part of the RMPP shall be calculated in accordance with the provisions of the Section A Rules, but subject to any election made or deemed to be made under General Rule 7 (Application of Sections A and B – election for Section B benefits) to be treated as being subject to the Section B Rules, and the RMSPS benefits payable to a Section E Active who was formerly subject to the Rules of Section B of the contributory part of the RMPP shall be calculated in accordance with the provisions of the Section B Rules.
 
-#### 6. Application of General Rules to Section E Members[^key-b6be3c9642b427a5bb7764e3dbd596ce][^key-d15b9dcd4edbb983e10a2e8dde1e299b]
+#### 6. Application of General Rules to Section E Members[^c-b6be3c9642b427a5bb7764e3dbd596ce][^c-d15b9dcd4edbb983e10a2e8dde1e299b]
 
 In accordance with the provisions of General Rule 1 (Application of the General Rules), a reference in the General Rules to Members who are subject to the Section A Rules shall, where the context so admits, be deemed to include a Section E Member who was formerly subject to the Section A Rules of the contributory part of the RMPP and a reference in the General Rules to Members who are subject to the Section B Rules shall, where the context so admits, be deemed to include a Section E Member who was formerly subject to the Section B Rules of the contributory part of the RMPP.
 
-#### 7. Benefits on redundancy[^key-dff34ffc541e9c049b255d406bdd2428][^key-95b24d28d51f54ddf4b9ab6b98ccd46f]
+#### 7. Benefits on redundancy[^c-dff34ffc541e9c049b255d406bdd2428][^c-95b24d28d51f54ddf4b9ab6b98ccd46f]
 
 Notwithstanding Rule 5 (Section E benefits), in the event that a Member is made redundant by an Employer no lump sum compensation will be payable to that Member on account of that Member’s redundancy including any such benefits which would otherwise be payable under the Section A Rules.
 
 ### PART VII — TRUSTS, POWERS AND PROVISIONS UPON, WITH AND SUBJECT TO WHICH THE DESIGNATED SUM IS TO BE HELD IN PURSUANCE OF A DIRECTION GIVEN BY A MEMBER UNDER GENERAL RULE 6
 
-**1.**[^key-90d581cb746fd425db392eac461a1f89][^key-003b50d07d9f73f4e76b3033b0fd5980] (1) The persons appointed for such purposes by the Minister for the Civil Service in accordance with General Rule 6 (Member’s power to place benefits within the Secretary of State’s discretion) (hereinafter called “the Trustees of the Designated Sum”) shall stand possessed of the designated sum which a Member has directed to be paid to the Minister for the Civil Service of the Designated Sum and the income thereof upon the trusts and with and subject to the powers and provisions following (that is to say):
+**1.**[^c-90d581cb746fd425db392eac461a1f89][^c-003b50d07d9f73f4e76b3033b0fd5980] (1) The persons appointed for such purposes by the Minister for the Civil Service in accordance with General Rule 6 (Member’s power to place benefits within the Secretary of State’s discretion) (hereinafter called “the Trustees of the Designated Sum”) shall stand possessed of the designated sum which a Member has directed to be paid to the Minister for the Civil Service of the Designated Sum and the income thereof upon the trusts and with and subject to the powers and provisions following (that is to say):
 
 (2) During the period of 21 years from the death of the Member the Trustees of the Designated Sum may pay or apply the designated sum and the income thereof or any part thereof respectively to or for the benefit of all or any one or more exclusively of the other or others of the following persons—
 
@@ -1928,7 +1928,7 @@ in such shares and in such manner as the Trustees of the Designated Sum shall in
 
 (7) In sub-paragraph (2) of this Part VII the expression “earnings” shall mean any payments by way of salary or wages under any employment or of pension benefits under the Rules of the RMSPS.
 
-### PART VIII — LIST OF COUNTRIES AND PLACES TO WHICH SECTION B RULE 10 APPLIES[^key-82eb58079f1d11d014953883cc9520d9][^M_I_d187439a-f2d4-4f53-e50f-4529250a67b5]
+### PART VIII — LIST OF COUNTRIES AND PLACES TO WHICH SECTION B RULE 10 APPLIES[^c-82eb58079f1d11d014953883cc9520d9][^M_I_d187439a-f2d4-4f53-e50f-4529250a67b5]
 
 - Admiralty Islands (Pacific Ocean); Afghanistan; Albania; Angola; Arabian Sub-Continent and Islands; Australia (West and North of latitude 31<sup>1</sup>/<sub>2</sub><sup>o</sup> South and longitude 150° East); Port Darwin;
 - Bolivia; Brazil; British Honduras; Brunei; Bulgaria; Burma;
@@ -1948,7 +1948,7 @@ in such shares and in such manner as the Trustees of the Designated Sum shall in
 
 ### PART IX — OVERRIDING FINANCE ACT PROVISIONS
 
-**1.**[^key-8a0c3a97f4cfa8c4cf7d4dd7b901a08e][^key-ce3b60ef5dcde7c4c10e7666ddaf9ca7] The provisions of this Part IX override any other provisions of the RMSPS Rules with which they are inconsistent and apply to all Members of the RMSPS who are Cut-Off Date Actives provided that—
+**1.**[^c-8a0c3a97f4cfa8c4cf7d4dd7b901a08e][^c-ce3b60ef5dcde7c4c10e7666ddaf9ca7] The provisions of this Part IX override any other provisions of the RMSPS Rules with which they are inconsistent and apply to all Members of the RMSPS who are Cut-Off Date Actives provided that—
 
 - (a) This Part IX shall not apply in relation to Section A Members (or those Section E Members who were Section A Members before joining Section E) and so shall not override the provisions of the Section A Rules (or, in the same manner, the Section E Rules).
 - (b) This Part IX shall only apply in part to Section B Members (or those Section E Members who were Section B Members before joining Section E) and so shall not override the following provisions of the Section B Rules (or, in the same manner, the Section E Rules)—
@@ -1958,25 +1958,25 @@ in such shares and in such manner as the Trustees of the Designated Sum shall in
   - (iv) Rule 19 (Pensions increase).
 - (c) For the purpose of this Part IX all Section B Members or those Section E Members who were Section B Members before joining Section E will be treated as if they had joined the RMPP before 17 March 1987 unless they elect otherwise subject to their not having a break in Post Office service (or service with an Employer) other than any period of temporary loan.
 
-**2.**[^key-575036ace753350eb865910d50ec98bb][^key-8f2711be3ecf377536c5e99391cde1fa] The RMSPS will be administered as a Registered pension scheme in accordance with the Finance Act 2004.
+**2.**[^c-575036ace753350eb865910d50ec98bb][^c-8f2711be3ecf377536c5e99391cde1fa] The RMSPS will be administered as a Registered pension scheme in accordance with the Finance Act 2004.
 
-**3.**[^key-98f521d3f012c84d16b8a0d3612e4a30][^key-d279539701334332fc204a6ade915d50] Subject to Clause 15(6) (Prevention of discrimination on grounds of age), the Minister for the Civil Service shall only make payments from the RMSPS which are authorised payments (as that term is used for the purposes of the Finance Act 2004) except that—
+**3.**[^c-98f521d3f012c84d16b8a0d3612e4a30][^c-d279539701334332fc204a6ade915d50] Subject to Clause 15(6) (Prevention of discrimination on grounds of age), the Minister for the Civil Service shall only make payments from the RMSPS which are authorised payments (as that term is used for the purposes of the Finance Act 2004) except that—
 
 - (a) if the Rules contain a provision which would require the Minister for the Civil Service to make a payment which would be an unauthorised payment, then the effect of Regulation 3 of the Registered Pension Schemes (Modification of the Rules of Existing Schemes) Regulations 2006 but without the limitation to the transitional period (as adopted in relation to the RMPP by clause 1(a) of the Interim Amending Deed for the RMPP dated 3 April 2006), applies to the RMSPS as if it were an “existing scheme” to which those regulations apply under Regulation 2 of those regulations, and the Minister for the Civil Service therefore has a discretion whether or not to make the payment, by virtue of that regulation; and
 - (b) the Minister for the Civil Service may, if he thinks fit in any particular circumstance, make a payment from the Scheme notwithstanding that it is or may be an unauthorised payment. The Minister for the Civil Service will where reasonably practicable obtain the consent of the Member or beneficiary (where applicable) before making any such payment. No person will, however, have any entitlement to such a payment.
 
-**4.**[^key-2dc3b6ea4eb632e465c595de3fd548ce][^key-ed4b54e157b060675dc3b03c5a5a409e] The Minister for the Civil Service may use reasonable endeavours to rearrange any benefit that would not be an authorised payment so that the benefit actually paid is an authorised payment.
+**4.**[^c-2dc3b6ea4eb632e465c595de3fd548ce][^c-ed4b54e157b060675dc3b03c5a5a409e] The Minister for the Civil Service may use reasonable endeavours to rearrange any benefit that would not be an authorised payment so that the benefit actually paid is an authorised payment.
 
-**5.**[^key-5c5269f7b54a2076297501141633d977][^key-2f3ce958145d8120f2fc9b8bebf3dd01] Except as otherwise mentioned in this Part IX, the benefits, rights and options of or in respect of all Members and other persons will, as a restriction imposed by the RMSPS Rules, be subject to—
+**5.**[^c-5c5269f7b54a2076297501141633d977][^c-2f3ce958145d8120f2fc9b8bebf3dd01] Except as otherwise mentioned in this Part IX, the benefits, rights and options of or in respect of all Members and other persons will, as a restriction imposed by the RMSPS Rules, be subject to—
 
 - (a) the same restrictions as applied to them immediately before 6 April 2006 (or would have applied had they then been entitled) by virtue of the previous provisions of the RMPP in force immediately before 6 April 2006; and
 - (b) the restrictions which applied as requirements of the approval of the RMPP by HMRC under IR12 (2001) (IR12),
 
 in each case as increased, indexed or revalued where appropriate in such manner and at such dates as the Minister for the Civil Service decides (Scheme Limits) and neither the amount nor the nature of any benefit will be increased or varied as a result of the said restrictions having ceased to apply to the RMPP on or after 6 April 2006 or not having applied directly to the RMSPS, except where specified in the RMSPS Rules or this Part IX.
 
-**6.**[^key-480138fc67b6197d87babbef625d8083][^key-4a0f7c5dae49a6285108c951314a8008] The Minister for the Civil Service may decide to waive or modify all or any part of the Scheme Limits whether conditionally or otherwise in respect of some or all Members.
+**6.**[^c-480138fc67b6197d87babbef625d8083][^c-4a0f7c5dae49a6285108c951314a8008] The Minister for the Civil Service may decide to waive or modify all or any part of the Scheme Limits whether conditionally or otherwise in respect of some or all Members.
 
-**7.**[^key-87551a3a0b94e3c8e29c09d0ca61a7e9][^key-1b470a364ff934cfc85c76193b1dd63d] Except as specified in paragraph 7(h) below, the following provisions (which were applied under the RMPP Rules with effect on and from 6 April 2006) will apply so as to vary the Scheme Limits under the RMSPS—
+**7.**[^c-87551a3a0b94e3c8e29c09d0ca61a7e9][^c-1b470a364ff934cfc85c76193b1dd63d] Except as specified in paragraph 7(h) below, the following provisions (which were applied under the RMPP Rules with effect on and from 6 April 2006) will apply so as to vary the Scheme Limits under the RMSPS—
 
 - (a) When calculating the benefits of Members under the RMSPS, a Scheme-specific limit (the Scheme Earnings Cap) will apply. It applies to all Members (other than those who, as Members of the RMPP, were neither actually nor potentially subject to the permitted maximum immediately before 6 April 2006). The Scheme Earnings Cap is the “Scheme Earnings Cap” that applied under the RMPP as at the end of the Cut-Off Date, as set out in Schedule 13 (Overriding Finance Act provisions) of the RMPP Cut-Off Date Rules (the RMPP Scheme Earnings Cap). The RMPP Scheme Earnings Cap operated in the same manner as the permitted maximum (as that term was defined in Section 590C of the Income and Corporation Taxes Act 1988)[^f00034] and was £108,600 for tax year 2006/07. For subsequent tax years the RMPP Scheme Earnings Cap was the amount for the previous tax year increased by—
   - (i) the same percentage increase in the Index of Retail Prices for the 12 month period ending the previous September (rounded up to the nearest multiple of £600); or
@@ -1991,21 +1991,21 @@ in each case as increased, indexed or revalued where appropriate in such manner 
 - (g) The requirements contained in IR12 to take account of retained benefits (as that term is used in Appendix I of IR12) will not apply when calculating the Scheme Limits.
 - (h) The requirements in IR12 providing that benefits were limited by reference to 40 years’ service (or 40 years’ service prior to normal retirement age and a further 5 years thereafter) shall not apply. For Members who were subject to this change under the RMPP, which was put into effect under the RMPP Rules on and from 1 December 2006, benefits under the RMPP were instead limited by reference to 45 years’ RMPP Reckonable Service (in accordance with the provisions of the RMPP Rules), and this limit also applies under the relevant provisions of the RMSPS Rules in respect of such Members.
 
-**8.**[^key-28eb74775a6b1d43d7fdfb0e70a2c6b0][^key-61e8103f86256b23bc86e6b93dda0ee1] The Minister for the Civil Service may arrange the benefits under the RMSPS (in respect of one or a number of Members) so that those benefits constitute a single or multiple arrangements for the purposes of the Finance Act 2004.
+**8.**[^c-28eb74775a6b1d43d7fdfb0e70a2c6b0][^c-61e8103f86256b23bc86e6b93dda0ee1] The Minister for the Civil Service may arrange the benefits under the RMSPS (in respect of one or a number of Members) so that those benefits constitute a single or multiple arrangements for the purposes of the Finance Act 2004.
 
-**9.**[^key-9591ecdc0a97eb2ee9a605183d908f8e][^key-9cdae478a35233c93135fe4195ad154c] If any Member or any other person entitled to a benefit under the RMSPS is within any of the transitional provisions and savings in Schedule 36 of the Finance Act 2004 then the Minister for the Civil Service may apply those provisions including (without limitation) exercising the power to surrender the relevant excess under paragraph 12(5) of that schedule but so that the Minister for the Civil Service will not be liable for any loss or cost arising from failure to apply those provisions where they relate to primary or enhanced protection (as those terms are used for the purposes of the Finance Act 2004).
+**9.**[^c-9591ecdc0a97eb2ee9a605183d908f8e][^c-9cdae478a35233c93135fe4195ad154c] If any Member or any other person entitled to a benefit under the RMSPS is within any of the transitional provisions and savings in Schedule 36 of the Finance Act 2004 then the Minister for the Civil Service may apply those provisions including (without limitation) exercising the power to surrender the relevant excess under paragraph 12(5) of that schedule but so that the Minister for the Civil Service will not be liable for any loss or cost arising from failure to apply those provisions where they relate to primary or enhanced protection (as those terms are used for the purposes of the Finance Act 2004).
 
-**10.**[^key-6ed426c92dec880dea39800b96eed135][^key-d4e9f16165912c5fe4022a4af0ebe68a] The Minister for the Civil Service may determine any matters of ambiguity or dispute arising out of this Part IX or the application of the Finance Act 2004 to the RMSPS.
+**10.**[^c-6ed426c92dec880dea39800b96eed135][^c-d4e9f16165912c5fe4022a4af0ebe68a] The Minister for the Civil Service may determine any matters of ambiguity or dispute arising out of this Part IX or the application of the Finance Act 2004 to the RMSPS.
 
 ## Annotations
 
-[^key-73aeb9fe337de2bf9c1f5bb2b3be5257]: Commencement: Sch. 1 Pt. I rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-73aeb9fe337de2bf9c1f5bb2b3be5257]: Commencement: Sch. 1 Pt. I rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-616f9343a45b008444b984a388319ae5]: Commencement: [Sch. 1 Pt. I rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-616f9343a45b008444b984a388319ae5]: Commencement: [Sch. 1 Pt. I rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00007]: Footnote: [2011 c.5](https://www.legislation.gov.uk/ukpga/2011/5).
 
-[^key-46589673d77f53d8f6e0c2dcdb4bffc8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1) substituted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2014/500/article/6/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-46589673d77f53d8f6e0c2dcdb4bffc8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1) substituted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2014/500/article/6/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
 
 [^f00008]: Footnote: [S.I. 2012/687](https://www.legislation.gov.uk/uksi/2012/687).
 
@@ -2015,21 +2015,21 @@ in each case as increased, indexed or revalued where appropriate in such manner 
 
 [^f00011]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-c8ec5f7838d392b4a64e1a6670ddf985]: Commencement: Sch. 1 Pt. I rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-c8ec5f7838d392b4a64e1a6670ddf985]: Commencement: Sch. 1 Pt. I rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-191cc9a1f3b1ac572705a6bd93c0891c]: Commencement: [Sch. 1 Pt. I rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-191cc9a1f3b1ac572705a6bd93c0891c]: Commencement: [Sch. 1 Pt. I rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00012]: Footnote: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33).
 
 [^M_E_8bcdbe2f-5f22-4ee2-ace2-7809787e9e7b]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-f50ea2893a49287da9246292df958542]: Textual amendment: [Sch. 1 Pt. I rules 2A](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/rule/2A), [2B](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/rule/2B) inserted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2014/560/schedule/3/paragraph/17)
+[^c-f50ea2893a49287da9246292df958542]: Textual amendment: [Sch. 1 Pt. I rules 2A](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/rule/2A), [2B](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/rule/2B) inserted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2014/560/schedule/3/paragraph/17)
 
-[^key-abbf49af46a13084763a004c8e4fd95f]: Textual amendment: Words in Sch. 1 Pt. I rule 2A substituted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/11/2)
+[^c-abbf49af46a13084763a004c8e4fd95f]: Textual amendment: Words in Sch. 1 Pt. I rule 2A substituted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/11/2)
 
 [^M_E_ed252e18-0c8e-441d-9af0-ca8aa4ae55c1]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-aa18f02eba1199a4b4e91b91d303e03d]: Textual amendment: [Sch. 1 Pt. I rules 2A-2C](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/rule/2A) inserted (S.) (16.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/2/paragraph/9/2)
+[^c-aa18f02eba1199a4b4e91b91d303e03d]: Textual amendment: [Sch. 1 Pt. I rules 2A-2C](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/rule/2A) inserted (S.) (16.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/2/paragraph/9/2)
 
 [^M_E_2bdc7dc4-915c-425b-c5e6-f3e819faa9f2]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
@@ -2037,139 +2037,139 @@ in each case as increased, indexed or revalued where appropriate in such manner 
 
 [^M_E_2843ddb3-70ef-46d7-9264-3ca5953148ae]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-46c277fcca1f998c5d813568af0c1f49]: Textual amendment: Sch. 1 Pt. I rule 2C inserted (E.W.) (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/11/2)[(4)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/11/4)
+[^c-46c277fcca1f998c5d813568af0c1f49]: Textual amendment: Sch. 1 Pt. I rule 2C inserted (E.W.) (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/11/2)[(4)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/11/4)
 
-[^key-290787608912c5b020f9f9c4bde058ea]: Textual amendment: Words in Sch. 1 Pt. I rule 2C substituted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/11/2)
+[^c-290787608912c5b020f9f9c4bde058ea]: Textual amendment: Words in Sch. 1 Pt. I rule 2C substituted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/11/2)
 
 [^M_E_d1d8d488-eac3-4df5-db32-15c6d7251ab8]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-94a1035da8ac9208998482cf079f9aab]: Commencement: Sch. 1 Pt. I rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-94a1035da8ac9208998482cf079f9aab]: Commencement: Sch. 1 Pt. I rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-a46356cb2ae531bdd573691ad0113266]: Commencement: [Sch. 1 Pt. I rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-a46356cb2ae531bdd573691ad0113266]: Commencement: [Sch. 1 Pt. I rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00013]: Footnote: [2011 c.5](https://www.legislation.gov.uk/ukpga/2011/5).
 
-[^key-cf6ae83ad609487fcd66de043825bf7e]: Commencement: Sch. 1 Pt. I rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-cf6ae83ad609487fcd66de043825bf7e]: Commencement: Sch. 1 Pt. I rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-cf9dd8190da9e2742e16b2621c8b3645]: Commencement: [Sch. 1 Pt. I rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-cf9dd8190da9e2742e16b2621c8b3645]: Commencement: [Sch. 1 Pt. I rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-28c3bb1e72433d7bd46c080b97180b6f]: Commencement: Sch. 1 Pt. I rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-28c3bb1e72433d7bd46c080b97180b6f]: Commencement: Sch. 1 Pt. I rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-6b6e0bdd8300f2645d759f96f03b3a7d]: Commencement: [Sch. 1 Pt. I rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-6b6e0bdd8300f2645d759f96f03b3a7d]: Commencement: [Sch. 1 Pt. I rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-aef302c37a3707e1332875738a7ad605]: Commencement: Sch. 1 Pt. I rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-aef302c37a3707e1332875738a7ad605]: Commencement: Sch. 1 Pt. I rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-929eeeb774c0e38b999024a20122391e]: Commencement: [Sch. 1 Pt. I rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-929eeeb774c0e38b999024a20122391e]: Commencement: [Sch. 1 Pt. I rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-64923407472eb418649e82884f476023]: Commencement: Sch. 1 Pt. I rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-64923407472eb418649e82884f476023]: Commencement: Sch. 1 Pt. I rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-5404f9f9538bf2f6412b97682e227bfb]: Commencement: [Sch. 1 Pt. I rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-5404f9f9538bf2f6412b97682e227bfb]: Commencement: [Sch. 1 Pt. I rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-1d90f155020afc54003205ed2d476ec0]: Commencement: Sch. 1 Pt. I rule 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-1d90f155020afc54003205ed2d476ec0]: Commencement: Sch. 1 Pt. I rule 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-b25d498c5c0ab24705e96164322d9ca9]: Commencement: [Sch. 1 Pt. I rule 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-b25d498c5c0ab24705e96164322d9ca9]: Commencement: [Sch. 1 Pt. I rule 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-7b29260984d3cee22a1ce949e472238a]: Commencement: Sch. 1 Pt. I rule 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-7b29260984d3cee22a1ce949e472238a]: Commencement: Sch. 1 Pt. I rule 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-6a3054e17c5bb9f2345a59a0d43b615f]: Commencement: [Sch. 1 Pt. I rule 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-6a3054e17c5bb9f2345a59a0d43b615f]: Commencement: [Sch. 1 Pt. I rule 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-1bb8b84eafde0c07e7375167599744d1]: Commencement: Sch. 1 Pt. I rule 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-1bb8b84eafde0c07e7375167599744d1]: Commencement: Sch. 1 Pt. I rule 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-63f50c3dec6a8df77160cff52fd6126f]: Commencement: [Sch. 1 Pt. I rule 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-63f50c3dec6a8df77160cff52fd6126f]: Commencement: [Sch. 1 Pt. I rule 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00014]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-8ed8edad9193092e5789a66e4d9541ee]: Commencement: Sch. 1 Pt. I rule 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-8ed8edad9193092e5789a66e4d9541ee]: Commencement: Sch. 1 Pt. I rule 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-95f1a5cf0483d983efb305eb0503db76]: Commencement: [Sch. 1 Pt. I rule 11](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-95f1a5cf0483d983efb305eb0503db76]: Commencement: [Sch. 1 Pt. I rule 11](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-7016b54449af888a5cd0ff24f6eb8a11]: Commencement: Sch. 1 Pt. I rule 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-7016b54449af888a5cd0ff24f6eb8a11]: Commencement: Sch. 1 Pt. I rule 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-fc6625a7403174c2d247a8496131039a]: Commencement: [Sch. 1 Pt. I rule 12](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-fc6625a7403174c2d247a8496131039a]: Commencement: [Sch. 1 Pt. I rule 12](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00015]: Footnote: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-2dbe0f544a3e30955dcb272a0f64f3af]: Commencement: Sch. 1 Pt. I rule 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-2dbe0f544a3e30955dcb272a0f64f3af]: Commencement: Sch. 1 Pt. I rule 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-271bd9f417f812e9e720fcda882481ac]: Commencement: [Sch. 1 Pt. I rule 13](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-271bd9f417f812e9e720fcda882481ac]: Commencement: [Sch. 1 Pt. I rule 13](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-d04d92a7a5e7827e591061b65c8ae729]: Commencement: Sch. 1 Pt. I rule 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-d04d92a7a5e7827e591061b65c8ae729]: Commencement: Sch. 1 Pt. I rule 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-d7ef2375908bdd044b4e85ec44cda593]: Commencement: [Sch. 1 Pt. I rule 14](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/14) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-d7ef2375908bdd044b4e85ec44cda593]: Commencement: [Sch. 1 Pt. I rule 14](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/14) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00016]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-a2f9f5fadd93f4d43c527e49da4059fe]: Commencement: Sch. 1 Pt. I rule 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-a2f9f5fadd93f4d43c527e49da4059fe]: Commencement: Sch. 1 Pt. I rule 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-eaaaa1291ef2ad50d2260f2d7ecd4b09]: Commencement: [Sch. 1 Pt. I rule 15](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/15) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-eaaaa1291ef2ad50d2260f2d7ecd4b09]: Commencement: [Sch. 1 Pt. I rule 15](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/15) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-272c03d0fad5e1c3815011559ae969ac]: Commencement: Sch. 1 Pt. I rule 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-272c03d0fad5e1c3815011559ae969ac]: Commencement: Sch. 1 Pt. I rule 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-567d9f1c6dbbfd2531ebd5f8bbb3b9f4]: Commencement: [Sch. 1 Pt. I rule 16](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/16) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-567d9f1c6dbbfd2531ebd5f8bbb3b9f4]: Commencement: [Sch. 1 Pt. I rule 16](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/16) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00017]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-b25fdf824750f57254444271321573cf]: Commencement: Sch. 1 Pt. I rule 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-b25fdf824750f57254444271321573cf]: Commencement: Sch. 1 Pt. I rule 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-8e55d86ebc91258278a080434206f502]: Commencement: [Sch. 1 Pt. I rule 17](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/17) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-8e55d86ebc91258278a080434206f502]: Commencement: [Sch. 1 Pt. I rule 17](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/17) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-51d45878eb2de04c4ba066420027217b]: Commencement: Sch. 1 Pt. I rule 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-51d45878eb2de04c4ba066420027217b]: Commencement: Sch. 1 Pt. I rule 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-cc8ea2c4b4766c5c79292e04663718d0]: Commencement: [Sch. 1 Pt. I rule 18](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/18) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-cc8ea2c4b4766c5c79292e04663718d0]: Commencement: [Sch. 1 Pt. I rule 18](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/18) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-d8d56f15012052748533fdaa69999b5c]: Commencement: Sch. 1 Pt. I rule 19 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-d8d56f15012052748533fdaa69999b5c]: Commencement: Sch. 1 Pt. I rule 19 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-d0ce9d5e4b882ea22ec39d53855b53af]: Commencement: [Sch. 1 Pt. I rule 19](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/19) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-d0ce9d5e4b882ea22ec39d53855b53af]: Commencement: [Sch. 1 Pt. I rule 19](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/I/paragraph/19) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-2693c21dadaa23b6450a3a911ebb9af9]: Commencement: Sch. 1 Pt. II rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-2693c21dadaa23b6450a3a911ebb9af9]: Commencement: Sch. 1 Pt. II rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-2c67066afa4c7ab23c5767cd9c13c2af]: Commencement: [Sch. 1 Pt. II rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-2c67066afa4c7ab23c5767cd9c13c2af]: Commencement: [Sch. 1 Pt. II rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-950797d8caf99c598f1e4470932a1cd5]: Commencement: Sch. 1 Pt. II rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-950797d8caf99c598f1e4470932a1cd5]: Commencement: Sch. 1 Pt. II rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-bf1c83d764f1cbfb42a2bdcfa42ff76f]: Commencement: [Sch. 1 Pt. II rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-bf1c83d764f1cbfb42a2bdcfa42ff76f]: Commencement: [Sch. 1 Pt. II rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-1ad456ff42e7b0caaa1ec7cd17d1f30a]: Commencement: Sch. 1 Pt. II rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-1ad456ff42e7b0caaa1ec7cd17d1f30a]: Commencement: Sch. 1 Pt. II rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-4d0b4dba03b76a784d8c98ab0c91636c]: Commencement: [Sch. 1 Pt. II rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-4d0b4dba03b76a784d8c98ab0c91636c]: Commencement: [Sch. 1 Pt. II rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00018]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-d798d7e878ed7e6956c8d0fd6231c4f3]: Commencement: Sch. 1 Pt. II rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-d798d7e878ed7e6956c8d0fd6231c4f3]: Commencement: Sch. 1 Pt. II rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-aabad32dae7bd777fe7582871be5e80c]: Commencement: [Sch. 1 Pt. II rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-aabad32dae7bd777fe7582871be5e80c]: Commencement: [Sch. 1 Pt. II rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00019]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
 [^f00020]: Footnote: [2009 c.10](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-2be5a9640ad063ea6bdb7c43f05855e3]: Commencement: Sch. 1 Pt. II rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-2be5a9640ad063ea6bdb7c43f05855e3]: Commencement: Sch. 1 Pt. II rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-40e7ea475b0ec2eaf66c7882c4604f81]: Commencement: [Sch. 1 Pt. II rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-40e7ea475b0ec2eaf66c7882c4604f81]: Commencement: [Sch. 1 Pt. II rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-1d81780b88746a5074002730077a37f8]: Commencement: Sch. 1 Pt. II rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-1d81780b88746a5074002730077a37f8]: Commencement: Sch. 1 Pt. II rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-b0aa4804ac89c7b73bea48cbb9c1a918]: Commencement: [Sch. 1 Pt. II rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-b0aa4804ac89c7b73bea48cbb9c1a918]: Commencement: [Sch. 1 Pt. II rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-89485b275bd2d66f9b0dd1913724874c]: Commencement: Sch. 1 Pt. II rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-89485b275bd2d66f9b0dd1913724874c]: Commencement: Sch. 1 Pt. II rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-ade8a2a7511d790c5f6b51c29be93c54]: Commencement: [Sch. 1 Pt. II rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-ade8a2a7511d790c5f6b51c29be93c54]: Commencement: [Sch. 1 Pt. II rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-f5be8f270c079a1d5b2a59373a931274]: Commencement: Sch. 1 Pt. II rule 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-f5be8f270c079a1d5b2a59373a931274]: Commencement: Sch. 1 Pt. II rule 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-73e35ecab10c298a3cf67fe523766920]: Commencement: [Sch. 1 Pt. II rule 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-73e35ecab10c298a3cf67fe523766920]: Commencement: [Sch. 1 Pt. II rule 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-6a54f428fcd83bbcb7dc7454779856e4]: Commencement: Sch. 1 Pt. II rule 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-6a54f428fcd83bbcb7dc7454779856e4]: Commencement: Sch. 1 Pt. II rule 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-ceb6f92389ae20b0654f64f91e703ad9]: Commencement: [Sch. 1 Pt. II rule 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-ceb6f92389ae20b0654f64f91e703ad9]: Commencement: [Sch. 1 Pt. II rule 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-ed3fee3017571c47ae7be0d358105dc9]: Commencement: Sch. 1 Pt. II rule 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-ed3fee3017571c47ae7be0d358105dc9]: Commencement: Sch. 1 Pt. II rule 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-c94a8107d6f81ca8e490b2aa4ec96f57]: Commencement: [Sch. 1 Pt. II rule 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-c94a8107d6f81ca8e490b2aa4ec96f57]: Commencement: [Sch. 1 Pt. II rule 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-04dd7a46b0f7cd91578d58eb33f70b76]: Commencement: Sch. 1 Pt. II rule 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-04dd7a46b0f7cd91578d58eb33f70b76]: Commencement: Sch. 1 Pt. II rule 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-532ef4b464946bfe02e46e6a0d23d5e5]: Commencement: [Sch. 1 Pt. II rule 11](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-532ef4b464946bfe02e46e6a0d23d5e5]: Commencement: [Sch. 1 Pt. II rule 11](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00021]: Footnote: [1965 c.74](https://www.legislation.gov.uk/ukpga/1965/74).
 
@@ -2179,37 +2179,37 @@ in each case as increased, indexed or revalued where appropriate in such manner 
 
 [^f00024]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-0e1e25981e68928f1bf673f378751222]: Commencement: Sch. 1 Pt. II rule 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-0e1e25981e68928f1bf673f378751222]: Commencement: Sch. 1 Pt. II rule 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-c8152f624c924f150f9b1de2d05459d3]: Commencement: [Sch. 1 Pt. II rule 12](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-c8152f624c924f150f9b1de2d05459d3]: Commencement: [Sch. 1 Pt. II rule 12](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-99763e9c5eb2d6a529d37308a3d21a4d]: Commencement: Sch. 1 Pt. II rule 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-99763e9c5eb2d6a529d37308a3d21a4d]: Commencement: Sch. 1 Pt. II rule 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-c72960decfe9dc7d35fb0af17df0929f]: Commencement: [Sch. 1 Pt. II rule 13](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-c72960decfe9dc7d35fb0af17df0929f]: Commencement: [Sch. 1 Pt. II rule 13](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-4a5600b3f1a92cdb795141655c43624a]: Commencement: Sch. 1 Pt. II rule 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-4a5600b3f1a92cdb795141655c43624a]: Commencement: Sch. 1 Pt. II rule 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-6415afa81f2dfa0ed5d53a61eef99c9b]: Commencement: [Sch. 1 Pt. II rule 14](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/14) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-6415afa81f2dfa0ed5d53a61eef99c9b]: Commencement: [Sch. 1 Pt. II rule 14](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/14) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-100fa5a5aa9073d867ea0c337adf2ff7]: Commencement: Sch. 1 Pt. II rule 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-100fa5a5aa9073d867ea0c337adf2ff7]: Commencement: Sch. 1 Pt. II rule 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-edfa27af6d27c6882d5ba05ccd21660c]: Commencement: [Sch. 1 Pt. II rule 15](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/15) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-edfa27af6d27c6882d5ba05ccd21660c]: Commencement: [Sch. 1 Pt. II rule 15](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/15) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-d79c1a67e2ebc8e67609e19dc4f862ca]: Commencement: Sch. 1 Pt. II rule 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-d79c1a67e2ebc8e67609e19dc4f862ca]: Commencement: Sch. 1 Pt. II rule 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-e99128254e2db043bcad1db153a77417]: Commencement: [Sch. 1 Pt. II rule 16](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/16) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-e99128254e2db043bcad1db153a77417]: Commencement: [Sch. 1 Pt. II rule 16](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/II/paragraph/16) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-c6ba4fb12583517f6bb58d0f66f1a8ce]: Commencement: Sch. 1 Pt. III rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-c6ba4fb12583517f6bb58d0f66f1a8ce]: Commencement: Sch. 1 Pt. III rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-fef95adcfead960b2f9df39c5dfa4e85]: Commencement: [Sch. 1 Pt. III rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/III/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-fef95adcfead960b2f9df39c5dfa4e85]: Commencement: [Sch. 1 Pt. III rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/III/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-2a74076091a5d471d1f44d5615f99746]: Commencement: Sch. 1 Pt. III rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-2a74076091a5d471d1f44d5615f99746]: Commencement: Sch. 1 Pt. III rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-c38123b6f54042f847fdcab79fdd66d2]: Commencement: [Sch. 1 Pt. III rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/III/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-c38123b6f54042f847fdcab79fdd66d2]: Commencement: [Sch. 1 Pt. III rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/III/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-fb470165b306570dce132aaeb7f4395c]: Commencement: Sch. 1 Pt. III rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-fb470165b306570dce132aaeb7f4395c]: Commencement: Sch. 1 Pt. III rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-104246d8bc3af0fd2cd5514379b27b15]: Commencement: [Sch. 1 Pt. III rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/III/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-104246d8bc3af0fd2cd5514379b27b15]: Commencement: [Sch. 1 Pt. III rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/III/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00025]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
@@ -2217,85 +2217,85 @@ in each case as increased, indexed or revalued where appropriate in such manner 
 
 [^f00027]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-5109fde71bd4f4ce4a99f71dc0da25e3]: Commencement: Sch. 1 Pt. III rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-5109fde71bd4f4ce4a99f71dc0da25e3]: Commencement: Sch. 1 Pt. III rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-15c222a7bd1666ecdd773de2f6b6da95]: Commencement: [Sch. 1 Pt. III rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/III/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-15c222a7bd1666ecdd773de2f6b6da95]: Commencement: [Sch. 1 Pt. III rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/III/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-1df17400cc7393083b7580b20d2fff25]: Commencement: Sch. 1 Pt. IV rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-1df17400cc7393083b7580b20d2fff25]: Commencement: Sch. 1 Pt. IV rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-d7afb907512b5f01057ea2fd95f4543b]: Commencement: [Sch. 1 Pt. IV rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-d7afb907512b5f01057ea2fd95f4543b]: Commencement: [Sch. 1 Pt. IV rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-92d2225f6f63f3f8946edcd560a85321]: Commencement: Sch. 1 Pt. IV rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-92d2225f6f63f3f8946edcd560a85321]: Commencement: Sch. 1 Pt. IV rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-4c635f8bbb59cfd45ea45653a138a76b]: Commencement: [Sch. 1 Pt. IV rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-4c635f8bbb59cfd45ea45653a138a76b]: Commencement: [Sch. 1 Pt. IV rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-4b3ddf1a547c43c8a6e42ae941001047]: Commencement: Sch. 1 Pt. IV rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-4b3ddf1a547c43c8a6e42ae941001047]: Commencement: Sch. 1 Pt. IV rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-f042486ce2e08e8b92092467b0534391]: Commencement: [Sch. 1 Pt. IV rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-f042486ce2e08e8b92092467b0534391]: Commencement: [Sch. 1 Pt. IV rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-6736181396bb7cdfeb18838fb56f43f2]: Commencement: Sch. 1 Pt. IV rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-6736181396bb7cdfeb18838fb56f43f2]: Commencement: Sch. 1 Pt. IV rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-7a43000891d788464b0b5c199e4e30d6]: Commencement: [Sch. 1 Pt. IV rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-7a43000891d788464b0b5c199e4e30d6]: Commencement: [Sch. 1 Pt. IV rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-a071ba10770f9ace7df278e66d1407e6]: Commencement: Sch. 1 Pt. IV rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-a071ba10770f9ace7df278e66d1407e6]: Commencement: Sch. 1 Pt. IV rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-725e7d3ef56777c2bea0b094d5a223a8]: Commencement: [Sch. 1 Pt. IV rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-725e7d3ef56777c2bea0b094d5a223a8]: Commencement: [Sch. 1 Pt. IV rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-ec1c3a350c402259b5626636cede28ab]: Commencement: Sch. 1 Pt. IV rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-ec1c3a350c402259b5626636cede28ab]: Commencement: Sch. 1 Pt. IV rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-3e43fb80eca268a597b4419824d3826b]: Commencement: [Sch. 1 Pt. IV rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-3e43fb80eca268a597b4419824d3826b]: Commencement: [Sch. 1 Pt. IV rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-cbfea948335a81140085438ef2fa515b]: Commencement: Sch. 1 Pt. IV rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-cbfea948335a81140085438ef2fa515b]: Commencement: Sch. 1 Pt. IV rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-273897d9aadcab91007970619c7f9271]: Commencement: [Sch. 1 Pt. IV rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-273897d9aadcab91007970619c7f9271]: Commencement: [Sch. 1 Pt. IV rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-9a483f4030cd77fe1b84c31ee398d6a7]: Commencement: Sch. 1 Pt. IV rule 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-9a483f4030cd77fe1b84c31ee398d6a7]: Commencement: Sch. 1 Pt. IV rule 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-a838152122c4221e1f3e80807627d21b]: Commencement: [Sch. 1 Pt. IV rule 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-a838152122c4221e1f3e80807627d21b]: Commencement: [Sch. 1 Pt. IV rule 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-edea98cb14d210159d2b3bb9655b075b]: Commencement: Sch. 1 Pt. IV rule 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-edea98cb14d210159d2b3bb9655b075b]: Commencement: Sch. 1 Pt. IV rule 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-b354bc95fa567001edd5444171846a2e]: Commencement: [Sch. 1 Pt. IV rule 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-b354bc95fa567001edd5444171846a2e]: Commencement: [Sch. 1 Pt. IV rule 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-e789762337986116c05469e74b4cf97e]: Commencement: Sch. 1 Pt. IV rule 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-e789762337986116c05469e74b4cf97e]: Commencement: Sch. 1 Pt. IV rule 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-f8eff2a7abd8dd8544dd462765e44f19]: Commencement: [Sch. 1 Pt. IV rule 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-f8eff2a7abd8dd8544dd462765e44f19]: Commencement: [Sch. 1 Pt. IV rule 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-801bf2f2b7d198b928ecb31cfa020e96]: Commencement: Sch. 1 Pt. IV rule 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-801bf2f2b7d198b928ecb31cfa020e96]: Commencement: Sch. 1 Pt. IV rule 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-4017b9582a69445028810b4db94e25e2]: Commencement: [Sch. 1 Pt. IV rule 11](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-4017b9582a69445028810b4db94e25e2]: Commencement: [Sch. 1 Pt. IV rule 11](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-333f4b026257d6d8a98aeafcf4e7c966]: Commencement: Sch. 1 Pt. IV rule 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-333f4b026257d6d8a98aeafcf4e7c966]: Commencement: Sch. 1 Pt. IV rule 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-de681141f3d155a61c2fd0298969d652]: Commencement: [Sch. 1 Pt. IV rule 12](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-de681141f3d155a61c2fd0298969d652]: Commencement: [Sch. 1 Pt. IV rule 12](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-df55686ff95b685cb9252c88cd612d9c]: Commencement: Sch. 1 Pt. IV rule 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-df55686ff95b685cb9252c88cd612d9c]: Commencement: Sch. 1 Pt. IV rule 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-6a037fa21a1b2d828cfc3046ba8097fb]: Commencement: [Sch. 1 Pt. IV rule 13](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-6a037fa21a1b2d828cfc3046ba8097fb]: Commencement: [Sch. 1 Pt. IV rule 13](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-3e837e11dfc58247c2fcaaea7c36a8d0]: Commencement: Sch. 1 Pt. IV rule 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-3e837e11dfc58247c2fcaaea7c36a8d0]: Commencement: Sch. 1 Pt. IV rule 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-07d114e7fa41dc0de52b6096d3e9c94e]: Commencement: [Sch. 1 Pt. IV rule 14](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/14) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-07d114e7fa41dc0de52b6096d3e9c94e]: Commencement: [Sch. 1 Pt. IV rule 14](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/14) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-2987adb2386b41df3eb1a04ae3a64209]: Commencement: Sch. 1 Pt. IV rule 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-2987adb2386b41df3eb1a04ae3a64209]: Commencement: Sch. 1 Pt. IV rule 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-3f9cc54ab03ce1bcfaa0a9609e121e78]: Commencement: [Sch. 1 Pt. IV rule 15](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/15) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-3f9cc54ab03ce1bcfaa0a9609e121e78]: Commencement: [Sch. 1 Pt. IV rule 15](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/15) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-8c7dfc9efdaa48dff5199ec2ad2425e4]: Commencement: Sch. 1 Pt. IV rule 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-8c7dfc9efdaa48dff5199ec2ad2425e4]: Commencement: Sch. 1 Pt. IV rule 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-c728085025deb239e8c3deccde93acf7]: Commencement: [Sch. 1 Pt. IV rule 16](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/16) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-c728085025deb239e8c3deccde93acf7]: Commencement: [Sch. 1 Pt. IV rule 16](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/16) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-d88aaa2142a55f3f6cd832c4770048e9]: Commencement: Sch. 1 Pt. IV rule 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-d88aaa2142a55f3f6cd832c4770048e9]: Commencement: Sch. 1 Pt. IV rule 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-d932288e73ff30255da310217ed3928e]: Commencement: [Sch. 1 Pt. IV rule 17](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/17) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-d932288e73ff30255da310217ed3928e]: Commencement: [Sch. 1 Pt. IV rule 17](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/17) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-e7a0b6da09b7dd77646c729c4dd70fc4]: Commencement: Sch. 1 Pt. IV rule 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-e7a0b6da09b7dd77646c729c4dd70fc4]: Commencement: Sch. 1 Pt. IV rule 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-27db3a6676e237910166e2a89aef2257]: Commencement: [Sch. 1 Pt. IV rule 18](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/18) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-27db3a6676e237910166e2a89aef2257]: Commencement: [Sch. 1 Pt. IV rule 18](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/18) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-bdeaebec3d4d54eb9f93b8a80568e2c1]: Commencement: Sch. 1 Pt. IV rule 19 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-bdeaebec3d4d54eb9f93b8a80568e2c1]: Commencement: Sch. 1 Pt. IV rule 19 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-221f96feb71eeccb4710468506389fe3]: Commencement: [Sch. 1 Pt. IV rule 19](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/19) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-221f96feb71eeccb4710468506389fe3]: Commencement: [Sch. 1 Pt. IV rule 19](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IV/paragraph/19) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00028]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
@@ -2303,162 +2303,162 @@ in each case as increased, indexed or revalued where appropriate in such manner 
 
 [^f00030]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-297bd256878b201daa1144fad2a02636]: Commencement: Sch. 1 Pt. IV rule 20 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-297bd256878b201daa1144fad2a02636]: Commencement: Sch. 1 Pt. IV rule 20 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
 [^M_I_95a0b6af-896b-4ef8-c150-7da8207176f0]: Commencement: Sch. 1 Pt. IV rule 20 in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-d53b269e9ad94730e8504e3c85bf70fc]: Commencement: Sch. 1 Pt. V rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-d53b269e9ad94730e8504e3c85bf70fc]: Commencement: Sch. 1 Pt. V rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-79f93c7e61b55cc045802eec333c8a81]: Commencement: [Sch. 1 Pt. V rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-79f93c7e61b55cc045802eec333c8a81]: Commencement: [Sch. 1 Pt. V rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-80a8ea08fbf135dabc0faff658436848]: Commencement: Sch. 1 Pt. V rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-80a8ea08fbf135dabc0faff658436848]: Commencement: Sch. 1 Pt. V rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-950a3d839ae77e69aa78276f7d38cb73]: Commencement: [Sch. 1 Pt. V rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-950a3d839ae77e69aa78276f7d38cb73]: Commencement: [Sch. 1 Pt. V rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00031]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-90a7e4ae25025ea80fcfd7878a66afa2]: Commencement: Sch. 1 Pt. V rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-90a7e4ae25025ea80fcfd7878a66afa2]: Commencement: Sch. 1 Pt. V rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-3476df9724aed704bd8b8c0ad719d603]: Commencement: [Sch. 1 Pt. V rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-3476df9724aed704bd8b8c0ad719d603]: Commencement: [Sch. 1 Pt. V rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-1c7f0910e353caba8e272b67385425d6]: Commencement: Sch. 1 Pt. V rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-1c7f0910e353caba8e272b67385425d6]: Commencement: Sch. 1 Pt. V rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-1a0e6c14c96c1fc7948b19bb88f87ab7]: Commencement: [Sch. 1 Pt. V rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-1a0e6c14c96c1fc7948b19bb88f87ab7]: Commencement: [Sch. 1 Pt. V rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00032]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-82277fdb63b571a9afad43b3d1922f1a]: Commencement: Sch. 1 Pt. V rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-82277fdb63b571a9afad43b3d1922f1a]: Commencement: Sch. 1 Pt. V rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-60536ef2cbcc0e3774ac6c7a4e8fcf81]: Commencement: [Sch. 1 Pt. V rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-60536ef2cbcc0e3774ac6c7a4e8fcf81]: Commencement: [Sch. 1 Pt. V rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-4a4838f2d3ba83d2204ae28c4bab5159]: Commencement: Sch. 1 Pt. V rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-4a4838f2d3ba83d2204ae28c4bab5159]: Commencement: Sch. 1 Pt. V rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-255380e78e9737792d3bd56c9faef27f]: Commencement: [Sch. 1 Pt. V rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-255380e78e9737792d3bd56c9faef27f]: Commencement: [Sch. 1 Pt. V rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-ec7af82b408f09636d841ca1cbcf7f63]: Commencement: Sch. 1 Pt. V rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-ec7af82b408f09636d841ca1cbcf7f63]: Commencement: Sch. 1 Pt. V rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-82e3ef5f4ac29c7a94e1d42509d389cc]: Commencement: [Sch. 1 Pt. V rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-82e3ef5f4ac29c7a94e1d42509d389cc]: Commencement: [Sch. 1 Pt. V rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-d98238a3939e4b2b9a4a64047c3d41c3]: Commencement: Sch. 1 Pt. V rule 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-d98238a3939e4b2b9a4a64047c3d41c3]: Commencement: Sch. 1 Pt. V rule 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-ec0c504be8d49df03c2fcbbf9ab163ae]: Commencement: [Sch. 1 Pt. V rule 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-ec0c504be8d49df03c2fcbbf9ab163ae]: Commencement: [Sch. 1 Pt. V rule 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-ec894a70982d7701b812278444bbf696]: Commencement: Sch. 1 Pt. V rule 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-ec894a70982d7701b812278444bbf696]: Commencement: Sch. 1 Pt. V rule 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-e1b835c24145753d76d383582d8e2928]: Commencement: [Sch. 1 Pt. V rule 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-e1b835c24145753d76d383582d8e2928]: Commencement: [Sch. 1 Pt. V rule 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-57120f683bf7171df7dbf15a573001e1]: Commencement: Sch. 1 Pt. V rule 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-57120f683bf7171df7dbf15a573001e1]: Commencement: Sch. 1 Pt. V rule 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-53dd805c2b79bc64d9d400a58e3ab07a]: Commencement: [Sch. 1 Pt. V rule 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-53dd805c2b79bc64d9d400a58e3ab07a]: Commencement: [Sch. 1 Pt. V rule 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-b679bc9fc07b36c2f8af2374f83b3dbc]: Commencement: Sch. 1 Pt. V rule 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-b679bc9fc07b36c2f8af2374f83b3dbc]: Commencement: Sch. 1 Pt. V rule 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-642619efaba6a534ae396f8e16cd0208]: Commencement: [Sch. 1 Pt. V rule 11](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-642619efaba6a534ae396f8e16cd0208]: Commencement: [Sch. 1 Pt. V rule 11](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-98427e6145868ee12e26cd2a5097c6e0]: Commencement: Sch. 1 Pt. V rule 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-98427e6145868ee12e26cd2a5097c6e0]: Commencement: Sch. 1 Pt. V rule 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-7581921bbd13e4909a494efd8ea9e97e]: Commencement: [Sch. 1 Pt. V rule 12](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-7581921bbd13e4909a494efd8ea9e97e]: Commencement: [Sch. 1 Pt. V rule 12](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-57e3c298ca27f5ac14da6fcfac60246b]: Commencement: Sch. 1 Pt. V rule 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-57e3c298ca27f5ac14da6fcfac60246b]: Commencement: Sch. 1 Pt. V rule 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-f14ed35c7392d308ae82741b0b5d05ee]: Commencement: [Sch. 1 Pt. V rule 13](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-f14ed35c7392d308ae82741b0b5d05ee]: Commencement: [Sch. 1 Pt. V rule 13](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-28671eba5da847ce3f757253e2ff2259]: Commencement: Sch. 1 Pt. V rule 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-28671eba5da847ce3f757253e2ff2259]: Commencement: Sch. 1 Pt. V rule 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-4ea09c5d1a705e3585d1f3e616598cec]: Commencement: [Sch. 1 Pt. V rule 14](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/14) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-4ea09c5d1a705e3585d1f3e616598cec]: Commencement: [Sch. 1 Pt. V rule 14](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/14) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-14c761181af3ccd62d63e3d899143e18]: Commencement: Sch. 1 Pt. V rule 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-14c761181af3ccd62d63e3d899143e18]: Commencement: Sch. 1 Pt. V rule 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-7b96ff465b0e72658b66b8673674f7e5]: Commencement: [Sch. 1 Pt. V rule 15](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/15) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-7b96ff465b0e72658b66b8673674f7e5]: Commencement: [Sch. 1 Pt. V rule 15](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/15) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-a86cb47446709f7d67455853e200ba23]: Commencement: Sch. 1 Pt. V rule 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-a86cb47446709f7d67455853e200ba23]: Commencement: Sch. 1 Pt. V rule 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-2be4cec0df9a6eff6ec6d1e9225dc3f3]: Commencement: [Sch. 1 Pt. V rule 16](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/16) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-2be4cec0df9a6eff6ec6d1e9225dc3f3]: Commencement: [Sch. 1 Pt. V rule 16](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/16) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00033]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-5e10d7d1c1cc713eca3742c5f4d72826]: Commencement: Sch. 1 Pt. V rule 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-5e10d7d1c1cc713eca3742c5f4d72826]: Commencement: Sch. 1 Pt. V rule 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-49011d5b13f25712fb8b9be00067a15a]: Commencement: [Sch. 1 Pt. V rule 17](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/17) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-49011d5b13f25712fb8b9be00067a15a]: Commencement: [Sch. 1 Pt. V rule 17](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/17) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-fe263ae1c5aa118fe184f7e34c136e40]: Commencement: Sch. 1 Pt. V rule 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-fe263ae1c5aa118fe184f7e34c136e40]: Commencement: Sch. 1 Pt. V rule 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-a3b3e71c0951ffd15347bdca5e8bffe2]: Commencement: [Sch. 1 Pt. V rule 18](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/18) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-a3b3e71c0951ffd15347bdca5e8bffe2]: Commencement: [Sch. 1 Pt. V rule 18](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/V/paragraph/18) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-6923c7b0237451714a270663101db454]: Commencement: Sch. 1 Pt. VI rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-6923c7b0237451714a270663101db454]: Commencement: Sch. 1 Pt. VI rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-3d139c52948d618a7252b57990389837]: Commencement: [Sch. 1 Pt. VI rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-3d139c52948d618a7252b57990389837]: Commencement: [Sch. 1 Pt. VI rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-dae408324745a933930ec86cb5b0f23e]: Commencement: Sch. 1 Pt. VI rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-dae408324745a933930ec86cb5b0f23e]: Commencement: Sch. 1 Pt. VI rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-83fcfe418c9a250c222396b56c28c81f]: Commencement: [Sch. 1 Pt. VI rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-83fcfe418c9a250c222396b56c28c81f]: Commencement: [Sch. 1 Pt. VI rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-37afc13b713d55f53892ccbfd3da3686]: Commencement: Sch. 1 Pt. VI rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-37afc13b713d55f53892ccbfd3da3686]: Commencement: Sch. 1 Pt. VI rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-8edc3879a49a65af0c75fca19844134d]: Commencement: [Sch. 1 Pt. VI rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-8edc3879a49a65af0c75fca19844134d]: Commencement: [Sch. 1 Pt. VI rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-6d1b141fa61a7a59bc9470ec2881edad]: Commencement: Sch. 1 Pt. VI rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-6d1b141fa61a7a59bc9470ec2881edad]: Commencement: Sch. 1 Pt. VI rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-ad18881b523fc915c288902123a403fe]: Commencement: [Sch. 1 Pt. VI rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-ad18881b523fc915c288902123a403fe]: Commencement: [Sch. 1 Pt. VI rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-34b7597a1142efcf57ba763f230d84e0]: Commencement: Sch. 1 Pt. VI rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-34b7597a1142efcf57ba763f230d84e0]: Commencement: Sch. 1 Pt. VI rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-02bd8d5bf914d2b00c146d836b1ad0ed]: Commencement: [Sch. 1 Pt. VI rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-02bd8d5bf914d2b00c146d836b1ad0ed]: Commencement: [Sch. 1 Pt. VI rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-b6be3c9642b427a5bb7764e3dbd596ce]: Commencement: Sch. 1 Pt. VI rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-b6be3c9642b427a5bb7764e3dbd596ce]: Commencement: Sch. 1 Pt. VI rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-d15b9dcd4edbb983e10a2e8dde1e299b]: Commencement: [Sch. 1 Pt. VI rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-d15b9dcd4edbb983e10a2e8dde1e299b]: Commencement: [Sch. 1 Pt. VI rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-dff34ffc541e9c049b255d406bdd2428]: Commencement: Sch. 1 Pt. VI rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-dff34ffc541e9c049b255d406bdd2428]: Commencement: Sch. 1 Pt. VI rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-95b24d28d51f54ddf4b9ab6b98ccd46f]: Commencement: [Sch. 1 Pt. VI rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-95b24d28d51f54ddf4b9ab6b98ccd46f]: Commencement: [Sch. 1 Pt. VI rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VI/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-90d581cb746fd425db392eac461a1f89]: Commencement: Sch. 1 Pt. VII rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-90d581cb746fd425db392eac461a1f89]: Commencement: Sch. 1 Pt. VII rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-003b50d07d9f73f4e76b3033b0fd5980]: Commencement: [Sch. 1 Pt. VII rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VII/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-003b50d07d9f73f4e76b3033b0fd5980]: Commencement: [Sch. 1 Pt. VII rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/VII/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-82eb58079f1d11d014953883cc9520d9]: Commencement: Sch. 1 Pt. VIII not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-82eb58079f1d11d014953883cc9520d9]: Commencement: Sch. 1 Pt. VIII not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
 [^M_I_d187439a-f2d4-4f53-e50f-4529250a67b5]: Commencement: Sch. 1 Pt. VIII in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-8a0c3a97f4cfa8c4cf7d4dd7b901a08e]: Commencement: Sch. 1 Pt. IX rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-8a0c3a97f4cfa8c4cf7d4dd7b901a08e]: Commencement: Sch. 1 Pt. IX rule 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-ce3b60ef5dcde7c4c10e7666ddaf9ca7]: Commencement: [Sch. 1 Pt. IX rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-ce3b60ef5dcde7c4c10e7666ddaf9ca7]: Commencement: [Sch. 1 Pt. IX rule 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-575036ace753350eb865910d50ec98bb]: Commencement: Sch. 1 Pt. IX rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-575036ace753350eb865910d50ec98bb]: Commencement: Sch. 1 Pt. IX rule 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-8f2711be3ecf377536c5e99391cde1fa]: Commencement: [Sch. 1 Pt. IX rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-8f2711be3ecf377536c5e99391cde1fa]: Commencement: [Sch. 1 Pt. IX rule 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-98f521d3f012c84d16b8a0d3612e4a30]: Commencement: Sch. 1 Pt. IX rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-98f521d3f012c84d16b8a0d3612e4a30]: Commencement: Sch. 1 Pt. IX rule 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-d279539701334332fc204a6ade915d50]: Commencement: [Sch. 1 Pt. IX rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-d279539701334332fc204a6ade915d50]: Commencement: [Sch. 1 Pt. IX rule 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-2dc3b6ea4eb632e465c595de3fd548ce]: Commencement: Sch. 1 Pt. IX rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-2dc3b6ea4eb632e465c595de3fd548ce]: Commencement: Sch. 1 Pt. IX rule 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-ed4b54e157b060675dc3b03c5a5a409e]: Commencement: [Sch. 1 Pt. IX rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-ed4b54e157b060675dc3b03c5a5a409e]: Commencement: [Sch. 1 Pt. IX rule 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-5c5269f7b54a2076297501141633d977]: Commencement: Sch. 1 Pt. IX rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-5c5269f7b54a2076297501141633d977]: Commencement: Sch. 1 Pt. IX rule 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-2f3ce958145d8120f2fc9b8bebf3dd01]: Commencement: [Sch. 1 Pt. IX rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-2f3ce958145d8120f2fc9b8bebf3dd01]: Commencement: [Sch. 1 Pt. IX rule 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-480138fc67b6197d87babbef625d8083]: Commencement: Sch. 1 Pt. IX rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-480138fc67b6197d87babbef625d8083]: Commencement: Sch. 1 Pt. IX rule 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-4a0f7c5dae49a6285108c951314a8008]: Commencement: [Sch. 1 Pt. IX rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-4a0f7c5dae49a6285108c951314a8008]: Commencement: [Sch. 1 Pt. IX rule 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-87551a3a0b94e3c8e29c09d0ca61a7e9]: Commencement: Sch. 1 Pt. IX rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-87551a3a0b94e3c8e29c09d0ca61a7e9]: Commencement: Sch. 1 Pt. IX rule 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-1b470a364ff934cfc85c76193b1dd63d]: Commencement: [Sch. 1 Pt. IX rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-1b470a364ff934cfc85c76193b1dd63d]: Commencement: [Sch. 1 Pt. IX rule 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00034]: Footnote: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-28eb74775a6b1d43d7fdfb0e70a2c6b0]: Commencement: Sch. 1 Pt. IX rule 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-28eb74775a6b1d43d7fdfb0e70a2c6b0]: Commencement: Sch. 1 Pt. IX rule 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-61e8103f86256b23bc86e6b93dda0ee1]: Commencement: [Sch. 1 Pt. IX rule 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-61e8103f86256b23bc86e6b93dda0ee1]: Commencement: [Sch. 1 Pt. IX rule 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-9591ecdc0a97eb2ee9a605183d908f8e]: Commencement: Sch. 1 Pt. IX rule 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-9591ecdc0a97eb2ee9a605183d908f8e]: Commencement: Sch. 1 Pt. IX rule 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-9cdae478a35233c93135fe4195ad154c]: Commencement: [Sch. 1 Pt. IX rule 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-9cdae478a35233c93135fe4195ad154c]: Commencement: [Sch. 1 Pt. IX rule 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-6ed426c92dec880dea39800b96eed135]: Commencement: Sch. 1 Pt. IX rule 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-6ed426c92dec880dea39800b96eed135]: Commencement: Sch. 1 Pt. IX rule 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-d4e9f16165912c5fe4022a4af0ebe68a]: Commencement: [Sch. 1 Pt. IX rule 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-d4e9f16165912c5fe4022a4af0ebe68a]: Commencement: [Sch. 1 Pt. IX rule 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/1/part/IX/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)

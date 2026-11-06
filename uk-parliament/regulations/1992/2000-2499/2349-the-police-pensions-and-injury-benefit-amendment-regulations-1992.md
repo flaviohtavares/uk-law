@@ -46,7 +46,7 @@ Coming into force
 
 In exercise of the powers conferred on me by sections 1, 3 and 4 of the Police Pensions Act 1976[^f00001], and after consultation with the Police Negotiating Board for the United Kingdom, I hereby with the consent of the Treasury[^f00002] make the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-258c521a92e4ed1bf1ca42e604035453]
+## 1. Citation, commencement and interpretation[^c-258c521a92e4ed1bf1ca42e604035453]
 
 (1) These Regulations may be cited as the Police (Pensions and Injury Benefit) (Amendment) Regulations 1992 and shall come into force on 1st November 1992, but—
 
@@ -58,26 +58,26 @@ In exercise of the powers conferred on me by sections 1, 3 and 4 of the Police P
 
 (2) In these Regulations “the Pensions Regulations” means the Police Pensions Regulations 1987[^f00003] and “the Injury Benefit Regulations” means the Police (Injury Benefit) Regulations 1987[^f00004].
 
-## 2. Policeman’s deferred pension[^key-246b1721c8953b5518dee70b3e941697]
+## 2. Policeman’s deferred pension[^c-246b1721c8953b5518dee70b3e941697]
 
 Regulation B5 of the Pensions Regulations is amended by deleting paragraph (5).
 
-## 3. Limitation on award to widow living apart from her husband and widow’s requisite benefits pension[^key-69725fb542ce2747f70bad13436eb855]
+## 3. Limitation on award to widow living apart from her husband and widow’s requisite benefits pension[^c-69725fb542ce2747f70bad13436eb855]
 
 Regulation C8(1) of the Pensions Regulations is amended by substituting for the word “woman” the word “widow”.
 
-## 4. Termination of widow’s award on remarriage[^key-7b48b57297df9a2f3f0dcb51aa9efca4]
+## 4. Termination of widow’s award on remarriage[^c-7b48b57297df9a2f3f0dcb51aa9efca4]
 
 Regulation C9(3) of the Pensions Regulations is amended by substituting—
 
 - (a) for the words “a woman and a man” the words “a widow and a person”; and
 - (b) for the words “she were married to him” the words “the widow were married to that person”.
 
-## 5. Child’s special gratuity[^key-9076f6c1faf576188412b681b2e35837]
+## 5. Child’s special gratuity[^c-9076f6c1faf576188412b681b2e35837]
 
 Regulation D3(1) of the Pensions Regulations is amended by substituting for the words after “satisfied and” the words “he does not leave a widow entitled to a gratuity under regulations C2 and C3.”.
 
-## 6. Lump sum death grant[^key-a195ef8d9fffbb758759cf2a806b48a2]
+## 6. Lump sum death grant[^c-a195ef8d9fffbb758759cf2a806b48a2]
 
 The Pensions Regulations are amended by inserting after regulation E3—
 
@@ -106,15 +106,15 @@ The Pensions Regulations are amended by inserting after regulation E3—
 
 .
 
-## 7. Gratuity in lieu of widow’s pension[^key-bbff75428e9fd9dfa9bbf8482e880e3f]
+## 7. Gratuity in lieu of widow’s pension[^c-bbff75428e9fd9dfa9bbf8482e880e3f]
 
 Regulation E4(2) of the Pensions Regulations is amended by substituting for the word “woman” the word “widow”.
 
-## 8. Increase of widow’s pension or child’s allowance during first 13 weeks[^key-374771cbc4560f1c6c0644be83c0813f]
+## 8. Increase of widow’s pension or child’s allowance during first 13 weeks[^c-374771cbc4560f1c6c0644be83c0813f]
 
 Regulation E8(3) of the Pensions Regulations is amended by substituting for sub- paragraphs (a) and (b) the words “did not leave a widow entitled to a pension which was payable for a continuous period of 13 weeks”.
 
-## 9. Pensionable pay and average pensionable pay[^key-6c1ecd71f637f7d3111af7b97cecc517]
+## 9. Pensionable pay and average pensionable pay[^c-6c1ecd71f637f7d3111af7b97cecc517]
 
 Regulation G1 of the Pensions Regulations is amended—
 
@@ -130,11 +130,11 @@ Regulation G1 of the Pensions Regulations is amended—
 
   .
 
-## 10. Pension contributions payable by regular policeman[^key-fd13ec80f73fe4d8df35687fb7935473]
+## 10. Pension contributions payable by regular policeman[^c-fd13ec80f73fe4d8df35687fb7935473]
 
 Regulation G2(1) of the Pensions Regulations is amended by substituting for the words after “less than” the words “11% of his pensionable pay.”.
 
-## 11. Policeman with guaranteed minimum for the purposes of the Social Security Pensions Act 1975[^key-36ac3b4184d6eaad2f6f01cae6b5915d]
+## 11. Policeman with guaranteed minimum for the purposes of the Social Security Pensions Act 1975[^c-36ac3b4184d6eaad2f6f01cae6b5915d]
 
 Regulation J1 of the Pensions Regulations is amended—
 
@@ -143,7 +143,7 @@ Regulation J1 of the Pensions Regulations is amended—
 
 by inserting after the words “regulation E1(1)(c)” the words “or under Part C”.
 
-## 12. Glossary of expressions[^key-815dcedd2d1cfc764c30608349cb8725]
+## 12. Glossary of expressions[^c-815dcedd2d1cfc764c30608349cb8725]
 
 Schedule A to the Pensions Regulations is amended—
 
@@ -160,7 +160,7 @@ Schedule A to the Pensions Regulations is amended—
 
   .
 
-## 13. Widow’s ordinary pension[^key-d6703e86d112c1f96e0dbd890f59d252]
+## 13. Widow’s ordinary pension[^c-d6703e86d112c1f96e0dbd890f59d252]
 
 (1) Paragraph 1 of Part I of Schedule C to the Pensions Regulations is amended by inserting after sub-paragraph (2)—
 
@@ -173,7 +173,7 @@ Schedule A to the Pensions Regulations is amended—
 
 (2) Paragraph 3 of Part I of Schedule C to the Pensions Regulations is amended by inserting after the words “(flat rate award)” the words “; but a man may make an election under this paragraph only if the amount so determined would not exceed the amount calculated in accordance with paragraph 1”.
 
-## 14. Widow’s accrued pension[^key-8b40217d98c59d69f56fc81b149cde18]
+## 14. Widow’s accrued pension[^c-8b40217d98c59d69f56fc81b149cde18]
 
 (1) Paragraph 1 of Part III of Schedule C to the Pensions Regulations is amended by inserting after sub-paragraph (1)—
 
@@ -187,7 +187,7 @@ Schedule A to the Pensions Regulations is amended—
 
 .
 
-## 15. Widow’s pension in case of post-retirement marriage[^key-7534a5222589d218d9f835ec1f7556ef]
+## 15. Widow’s pension in case of post-retirement marriage[^c-7534a5222589d218d9f835ec1f7556ef]
 
 Part IV of Schedule C to the Pensions Regulations is amended by inserting after paragraph 3—
 
@@ -195,11 +195,11 @@ Part IV of Schedule C to the Pensions Regulations is amended by inserting after 
 
 .
 
-## 16. Widow’s requisite benefit pension[^key-91867f7df116d6c553e2a392a98dc42e]
+## 16. Widow’s requisite benefit pension[^c-91867f7df116d6c553e2a392a98dc42e]
 
 Paragraph 1 of Part V of Schedule C to the Pensions Regulations is amended by inserting after the words “5th April 1978” the words “; but where the pension is payable to a man this paragraph has effect with the substitution for “5th April 1978” of “16th May 1990””.
 
-## 17. Special cases[^key-666d11a853267e2027d0d6764299b330]
+## 17. Special cases[^c-666d11a853267e2027d0d6764299b330]
 
 (1) Part I of Schedule J to the Pensions Regulations (personal awards) is amended by deleting paragraph 8.
 
@@ -216,7 +216,7 @@ Paragraph 1 of Part V of Schedule C to the Pensions Regulations is amended by in
 
   .
 
-## 18. Death gratuity[^key-af481c3bf184d63620a9fd96450fb001]
+## 18. Death gratuity[^c-af481c3bf184d63620a9fd96450fb001]
 
 Regulation 3(2) of the Injury Benefit Regulations is amended by inserting after sub-paragraph (a)(iii)—
 
@@ -224,11 +224,11 @@ Regulation 3(2) of the Injury Benefit Regulations is amended by inserting after 
 
 .
 
-## 19. Abatement of certain gratuities[^key-83bf3a1c38b6283341d36a06c08e9091]
+## 19. Abatement of certain gratuities[^c-83bf3a1c38b6283341d36a06c08e9091]
 
 Regulation 7(2)(a) of the Injury Benefit Regulations is amended by inserting after the words “or E3” the words “and of any death grant paid under regulation E3A”.
 
-## 20. Transitional provision[^key-72c55e263e5b0cc4bbcf8004308dd794]
+## 20. Transitional provision[^c-72c55e263e5b0cc4bbcf8004308dd794]
 
 (1) Regulations C1 to C4, C5(3), C6, C7 and C8(2) of the Pensions Regulations apply to a widower only where the death occurred after 16th May 1990.
 
@@ -267,7 +267,7 @@ an additional transfer value of the appropriate amount is payable.
 
 under regulation 5(3) of the Injury Benefits Regulations, the widower shall be treated as not having become entitled to a gratuity.
 
-## 21. Elections in respect of protected benefits[^key-80aae6d4023f4c2693bbed7e1be75b53]
+## 21. Elections in respect of protected benefits[^c-80aae6d4023f4c2693bbed7e1be75b53]
 
 (1) This regulation applies to a person—
 
@@ -318,52 +318,52 @@ Sections 1(5) and 3(1) of the Police Pensions Act 1976 confer express power to m
 
 [^f00002]: Footnote: Formerly the Minister for the Civil Service; see S.I. [1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-258c521a92e4ed1bf1ca42e604035453]: Commencement: Reg. 1 in force at 1.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-258c521a92e4ed1bf1ca42e604035453]: Commencement: Reg. 1 in force at 1.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1987/257](https://www.legislation.gov.uk/uksi/1987/257); relevant amendments were made by S.I. [1989/733](https://www.legislation.gov.uk/uksi/1989/733), [1990/805](https://www.legislation.gov.uk/uksi/1990/805), [1992/1343](https://www.legislation.gov.uk/uksi/1992/1343).
 
 [^f00004]: Footnote: S.I. [1987/156](https://www.legislation.gov.uk/uksi/1987/156), amended by S.I. [1987/256](https://www.legislation.gov.uk/uksi/1987/256), [341](https://www.legislation.gov.uk/uksi/1987/341).
 
-[^key-246b1721c8953b5518dee70b3e941697]: Commencement: Reg. 2 in force at 1.11.1992 with effect in accordance with reg. 1(1)(c), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-246b1721c8953b5518dee70b3e941697]: Commencement: Reg. 2 in force at 1.11.1992 with effect in accordance with reg. 1(1)(c), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-69725fb542ce2747f70bad13436eb855]: Commencement: Reg. 3 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-69725fb542ce2747f70bad13436eb855]: Commencement: Reg. 3 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-7b48b57297df9a2f3f0dcb51aa9efca4]: Commencement: Reg. 4 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-7b48b57297df9a2f3f0dcb51aa9efca4]: Commencement: Reg. 4 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-9076f6c1faf576188412b681b2e35837]: Commencement: Reg. 5 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-9076f6c1faf576188412b681b2e35837]: Commencement: Reg. 5 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-a195ef8d9fffbb758759cf2a806b48a2]: Commencement: Reg. 6 in force at 1.11.1992 with effect in accordance with reg. 1(1)(e), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-a195ef8d9fffbb758759cf2a806b48a2]: Commencement: Reg. 6 in force at 1.11.1992 with effect in accordance with reg. 1(1)(e), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-bbff75428e9fd9dfa9bbf8482e880e3f]: Commencement: Reg. 7 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-bbff75428e9fd9dfa9bbf8482e880e3f]: Commencement: Reg. 7 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-374771cbc4560f1c6c0644be83c0813f]: Commencement: Reg. 8 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-374771cbc4560f1c6c0644be83c0813f]: Commencement: Reg. 8 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-6c1ecd71f637f7d3111af7b97cecc517]: Commencement: Reg. 9 in force at 1.11.1992 with effect in accordance with reg. 1(1)(a), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-6c1ecd71f637f7d3111af7b97cecc517]: Commencement: Reg. 9 in force at 1.11.1992 with effect in accordance with reg. 1(1)(a), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
 [^f00005]: Footnote: S.I. [1990/586](https://www.legislation.gov.uk/uksi/1990/586).
 
 [^f00006]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 590C was inserted, and section 594 amended, by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 75 and Schedule 6 paragraphs 4 and 6.
 
-[^key-fd13ec80f73fe4d8df35687fb7935473]: Commencement: Reg. 10 in force at 1.11.1992 with effect in accordance with reg. 1(1)(e), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-fd13ec80f73fe4d8df35687fb7935473]: Commencement: Reg. 10 in force at 1.11.1992 with effect in accordance with reg. 1(1)(e), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-36ac3b4184d6eaad2f6f01cae6b5915d]: Commencement: Reg. 11 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-36ac3b4184d6eaad2f6f01cae6b5915d]: Commencement: Reg. 11 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-815dcedd2d1cfc764c30608349cb8725]: Commencement: Reg. 12 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-815dcedd2d1cfc764c30608349cb8725]: Commencement: Reg. 12 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-d6703e86d112c1f96e0dbd890f59d252]: Commencement: Reg. 13 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-d6703e86d112c1f96e0dbd890f59d252]: Commencement: Reg. 13 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-8b40217d98c59d69f56fc81b149cde18]: Commencement: Reg. 14 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-8b40217d98c59d69f56fc81b149cde18]: Commencement: Reg. 14 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-7534a5222589d218d9f835ec1f7556ef]: Commencement: Reg. 15 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-7534a5222589d218d9f835ec1f7556ef]: Commencement: Reg. 15 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-91867f7df116d6c553e2a392a98dc42e]: Commencement: Reg. 16 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-91867f7df116d6c553e2a392a98dc42e]: Commencement: Reg. 16 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-666d11a853267e2027d0d6764299b330]: Commencement: Reg. 17 in force at 1.11.1992 with effect in accordance with reg. 1(1)(a)(c)(d), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-666d11a853267e2027d0d6764299b330]: Commencement: Reg. 17 in force at 1.11.1992 with effect in accordance with reg. 1(1)(a)(c)(d), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-af481c3bf184d63620a9fd96450fb001]: Commencement: Reg. 18 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-af481c3bf184d63620a9fd96450fb001]: Commencement: Reg. 18 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-83bf3a1c38b6283341d36a06c08e9091]: Commencement: Reg. 19 in force at 1.11.1992 with effect in accordance with reg. 1(1)(e), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-83bf3a1c38b6283341d36a06c08e9091]: Commencement: Reg. 19 in force at 1.11.1992 with effect in accordance with reg. 1(1)(e), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-72c55e263e5b0cc4bbcf8004308dd794]: Commencement: Reg. 20 in force at 1.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-72c55e263e5b0cc4bbcf8004308dd794]: Commencement: Reg. 20 in force at 1.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
 
-[^key-80aae6d4023f4c2693bbed7e1be75b53]: Commencement: Reg. 21 in force at 1.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+[^c-80aae6d4023f4c2693bbed7e1be75b53]: Commencement: Reg. 21 in force at 1.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)

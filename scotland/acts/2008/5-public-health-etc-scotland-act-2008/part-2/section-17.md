@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Notifiable organisms: offences[^key-c8e430d6cffdc0ffe00f7072919e53e0]
+## 17. Notifiable organisms: offences[^c-c8e430d6cffdc0ffe00f7072919e53e0]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ the body corporate also commits an offence.
 
 ## Annotations
 
-[^key-c8e430d6cffdc0ffe00f7072919e53e0]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2008/5/section/17) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)
+[^c-c8e430d6cffdc0ffe00f7072919e53e0]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2008/5/section/17) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)

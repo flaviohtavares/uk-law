@@ -65,11 +65,11 @@ An Act to make further provision, in relation to England and Wales, with respect
 - [Section 20 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-20.md)
 - [Section 21 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-21.md)
 
-### PART 2A — Decisions relating to holding of events[^key-21bb7aee9299b229eec5b9c0ee4861bb]
+### PART 2A — Decisions relating to holding of events[^c-21bb7aee9299b229eec5b9c0ee4861bb]
 
 - [Section 22A — Decisions invoking health or safety: notification, reasons and review](part-2a/section-22a.md)
 
-### Part III — Local Government Administration[^c779579][^c779580][^c779581][^c779582][^c779583][^key-435d50e89c88491f94f1c4979fb4d8a1][^key-4506e8d122115927bd98727343aadb79][^key-0e40c40e4b416fc50c3f976c39d782f6][^key-9e74d0049ec681c6431b44258b8e71fd][^key-57da436b917979d3889725b5c63b6a33][^key-4e367ca9cf85bd9cd0485e3289b25e7c]
+### Part III — Local Government Administration[^c779579][^c779580][^c779581][^c779582][^c779583][^c-435d50e89c88491f94f1c4979fb4d8a1][^c-4506e8d122115927bd98727343aadb79][^c-0e40c40e4b416fc50c3f976c39d782f6][^c-9e74d0049ec681c6431b44258b8e71fd][^c-57da436b917979d3889725b5c63b6a33][^c-4e367ca9cf85bd9cd0485e3289b25e7c]
 
 *Extent: E+W*
 
@@ -98,9 +98,9 @@ An Act to make further provision, in relation to England and Wales, with respect
 - [Section 33A — Disclosure of information by Local Commissioner to Information Commission.](part-iii/section-33a.md)
 - [Section 34 — Interpretation of Part III.](part-iii/section-34.md)
 
-### Part 3A — Investigation of complaints about privately arranged or funded adult social care[^key-3be642587f35d5597f082e2a19a13cd9]
+### Part 3A — Investigation of complaints about privately arranged or funded adult social care[^c-3be642587f35d5597f082e2a19a13cd9]
 
-#### Private adult social care: matters subject to investigation[^key-3be642587f35d5597f082e2a19a13cd9]
+#### Private adult social care: matters subject to investigation[^c-3be642587f35d5597f082e2a19a13cd9]
 
 - [Section 34A — Interpretation: “adult social care provider” and “adult social care”](part-3a/section-34a.md)
 - [Section 34B — Power to investigate](part-3a/section-34b.md)
@@ -108,12 +108,12 @@ An Act to make further provision, in relation to England and Wales, with respect
 - [Section 34D — Procedure for making complaints](part-3a/section-34d.md)
 - [Section 34E — Matters coming to attention of Local Commissioner](part-3a/section-34e.md)
 
-#### Investigations by a Local Commissioner[^key-3be642587f35d5597f082e2a19a13cd9]
+#### Investigations by a Local Commissioner[^c-3be642587f35d5597f082e2a19a13cd9]
 
 - [Section 34F — Procedure in respect of investigations](part-3a/section-34f.md)
 - [Section 34G — Investigations: further provisions](part-3a/section-34g.md)
 
-#### Statements etc. about investigations[^key-3be642587f35d5597f082e2a19a13cd9]
+#### Statements etc. about investigations[^c-3be642587f35d5597f082e2a19a13cd9]
 
 - [Section 34H — Statements about investigations](part-3a/section-34h.md)
 - [Section 34I — Adverse findings notices](part-3a/section-34i.md)
@@ -121,14 +121,14 @@ An Act to make further provision, in relation to England and Wales, with respect
 - [Section 34K — Disclosure of information](part-3a/section-34k.md)
 - [Section 34L — Law of defamation](part-3a/section-34l.md)
 
-#### Arrangements with other Commissioners etc.[^key-3be642587f35d5597f082e2a19a13cd9]
+#### Arrangements with other Commissioners etc.[^c-3be642587f35d5597f082e2a19a13cd9]
 
 - [Section 34M — Consultation with other Commissioners](part-3a/section-34m.md)
 - [Section 34N — Collaborative working with other Commissioners](part-3a/section-34n.md)
 - [Section 34O — Disclosure of information by Local Commissioner to Information Commission](part-3a/section-34o.md)
 - [Section 34P — Disclosure of information by Local Commissioner to Care Quality Commission](part-3a/section-34p.md)
 
-#### General[^key-3be642587f35d5597f082e2a19a13cd9]
+#### General[^c-3be642587f35d5597f082e2a19a13cd9]
 
 - [Section 34Q — Arrangements etc. to be made by Commission](part-3a/section-34q.md)
 - [Section 34R — Review, recommendations, advice and guidance](part-3a/section-34r.md)
@@ -169,7 +169,7 @@ SCHEDULES
 
 [^c779446]: Modification: Pt. I extended by [Local Government, Planning and Land Act 1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65), [s. 68(7)](https://www.legislation.gov.uk/ukpga/1980/65/section/68/7); excluded by [Highways Act 1980 (c. 66)](https://www.legislation.gov.uk/ukpga/1980/66), [s. 272(4)](https://www.legislation.gov.uk/ukpga/1980/66/section/272/4)
 
-[^key-21bb7aee9299b229eec5b9c0ee4861bb]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1974/7/part/2A) inserted (26.5.2015) by [Local Government (Review of Decisions) Act 2015 (c. 22)](https://www.legislation.gov.uk/ukpga/2015/22), [ss. 1](https://www.legislation.gov.uk/ukpga/2015/22/section/1), [4(2)](https://www.legislation.gov.uk/ukpga/2015/22/section/4/2)
+[^c-21bb7aee9299b229eec5b9c0ee4861bb]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1974/7/part/2A) inserted (26.5.2015) by [Local Government (Review of Decisions) Act 2015 (c. 22)](https://www.legislation.gov.uk/ukpga/2015/22), [ss. 1](https://www.legislation.gov.uk/ukpga/2015/22/section/1), [4(2)](https://www.legislation.gov.uk/ukpga/2015/22/section/4/2)
 
 [^c779579]: Modification: Pt. III (ss. 23-34) applied (with modifications) (1.4.1998) by [S.I. 1998/633](https://www.legislation.gov.uk/uksi/1998/633), art. L
 
@@ -183,16 +183,16 @@ SCHEDULES
 
     Pt. III (ss. 23-34) extended (W.) (28.7.2001) by [S.I. 2001/2275](https://www.legislation.gov.uk/uksi/2001/2275), [reg. 2](https://www.legislation.gov.uk/uksi/2001/2275/regulation/2)
 
-[^key-435d50e89c88491f94f1c4979fb4d8a1]: Modification: Pt. III applied (1.4.2004) by [Commissions for Local Administration (Extension of Jurisdiction) Order 2004 (S.I. 2004/344)](https://www.legislation.gov.uk/uksi/2004/344), [arts. 1](https://www.legislation.gov.uk/uksi/2004/344/article/1), [2](https://www.legislation.gov.uk/uksi/2004/344/article/2)
+[^c-435d50e89c88491f94f1c4979fb4d8a1]: Modification: Pt. III applied (1.4.2004) by [Commissions for Local Administration (Extension of Jurisdiction) Order 2004 (S.I. 2004/344)](https://www.legislation.gov.uk/uksi/2004/344), [arts. 1](https://www.legislation.gov.uk/uksi/2004/344/article/1), [2](https://www.legislation.gov.uk/uksi/2004/344/article/2)
 
-[^key-4506e8d122115927bd98727343aadb79]: Modification: Pt. III extended (22.7.2004) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [24](https://www.legislation.gov.uk/uksi/2004/1777/article/24)
+[^c-4506e8d122115927bd98727343aadb79]: Modification: Pt. III extended (22.7.2004) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [24](https://www.legislation.gov.uk/uksi/2004/1777/article/24)
 
-[^key-0e40c40e4b416fc50c3f976c39d782f6]: Modification: Pt. III extended (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1778/article/1), [24](https://www.legislation.gov.uk/uksi/2004/1778/article/24)
+[^c-0e40c40e4b416fc50c3f976c39d782f6]: Modification: Pt. III extended (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1778/article/1), [24](https://www.legislation.gov.uk/uksi/2004/1778/article/24)
 
-[^key-9e74d0049ec681c6431b44258b8e71fd]: Modification: Pt. III modified (31.3.2012) by [The Localism Act 2011 (Housing and Regeneration Functions in Greater London) (Consequential, Transitory, Transitional and Saving Provisions) Order 2012 (S.I. 2012/666)](https://www.legislation.gov.uk/uksi/2012/666), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/666/article/1/2), [5](https://www.legislation.gov.uk/uksi/2012/666/article/5) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/666/article/3), [4](https://www.legislation.gov.uk/uksi/2012/666/article/4))
+[^c-9e74d0049ec681c6431b44258b8e71fd]: Modification: Pt. III modified (31.3.2012) by [The Localism Act 2011 (Housing and Regeneration Functions in Greater London) (Consequential, Transitory, Transitional and Saving Provisions) Order 2012 (S.I. 2012/666)](https://www.legislation.gov.uk/uksi/2012/666), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/666/article/1/2), [5](https://www.legislation.gov.uk/uksi/2012/666/article/5) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/666/article/3), [4](https://www.legislation.gov.uk/uksi/2012/666/article/4))
 
-[^key-57da436b917979d3889725b5c63b6a33]: Modification: Pt. III modified (7.6.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 35(6)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/35/6/b), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/f)
+[^c-57da436b917979d3889725b5c63b6a33]: Modification: Pt. III modified (7.6.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 35(6)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/35/6/b), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/f)
 
-[^key-4e367ca9cf85bd9cd0485e3289b25e7c]: Modification: Pt. III applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/2)
+[^c-4e367ca9cf85bd9cd0485e3289b25e7c]: Modification: Pt. III applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/2)
 
-[^key-3be642587f35d5597f082e2a19a13cd9]: Textual amendment: Pt. 3A inserted (1.10.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/2); [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-3be642587f35d5597f082e2a19a13cd9]: Textual amendment: Pt. 3A inserted (1.10.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/2); [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)

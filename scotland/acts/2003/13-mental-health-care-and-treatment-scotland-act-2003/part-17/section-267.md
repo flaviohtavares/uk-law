@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 267. Order under section 264 or 265: recall[^c535654][^key-7e8446974f68187de9a4eaba6c843d56][^key-99fa355bf2ad52398ee70cb7594423e9]
+## 267. Order under section 264 or 265: recall[^c535654][^c-7e8446974f68187de9a4eaba6c843d56][^c-99fa355bf2ad52398ee70cb7594423e9]
 
 *Extent: S*
 
-(1) This section applies where an order is made under section 264(2) or 265(3)[^key-c203f767a4722cfc710a8061ec03ea7b] of this Act in respect of a patient.
+(1) This section applies where an order is made under section 264(2) or 265(3)[^c-c203f767a4722cfc710a8061ec03ea7b] of this Act in respect of a patient.
 
 (2) On the application of any of the persons mentioned in subsection (4) below, the Tribunal—
 
 - (a) shall, if satisfied that the patient requires to be detained under conditions of special security that can be provided only in a state hospital, recall the order;
 - (b) may, on any other grounds, recall the order.
 
-(3) Where the order is recalled, the relevant Health Board ceases to be subject to the duties under section 264(3) to (5) or 265(4) to (6)[^key-e888d4a15ad3126e053fac79e0719e76] to which it became subject by virtue of the making of the order.
+(3) Where the order is recalled, the relevant Health Board ceases to be subject to the duties under section 264(3) to (5) or 265(4) to (6)[^c-e888d4a15ad3126e053fac79e0719e76] to which it became subject by virtue of the making of the order.
 
 (4) The persons referred to in subsection (2) above are—
 
@@ -46,10 +46,10 @@ summary: ''
 
 [^c535654]: Commencement: Part 17 Chapter 3 (ss. 264 - 273) in force 1.5.2006 or such earlier day as the Scottish Ministers may by order appoint, see s. 333(2)
 
-[^key-7e8446974f68187de9a4eaba6c843d56]: Commencement: S. 267 in force at 1.5.2006 or such earlier day as the Scottish Ministers may by order appoint, see s. 333(2)
+[^c-7e8446974f68187de9a4eaba6c843d56]: Commencement: S. 267 in force at 1.5.2006 or such earlier day as the Scottish Ministers may by order appoint, see s. 333(2)
 
-[^key-99fa355bf2ad52398ee70cb7594423e9]: Textual amendment: S. 267 title substituted (16.11.2015) by virtue of [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 15(4)](https://www.legislation.gov.uk/asp/2015/9/section/15/4), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))
+[^c-99fa355bf2ad52398ee70cb7594423e9]: Textual amendment: S. 267 title substituted (16.11.2015) by virtue of [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 15(4)](https://www.legislation.gov.uk/asp/2015/9/section/15/4), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))
 
-[^key-c203f767a4722cfc710a8061ec03ea7b]: Textual amendment: Words in s. 267(1) substituted (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 15(3)(a)](https://www.legislation.gov.uk/asp/2015/9/section/15/3/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))
+[^c-c203f767a4722cfc710a8061ec03ea7b]: Textual amendment: Words in s. 267(1) substituted (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 15(3)(a)](https://www.legislation.gov.uk/asp/2015/9/section/15/3/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))
 
-[^key-e888d4a15ad3126e053fac79e0719e76]: Textual amendment: Words in s. 267(3) substituted (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 15(3)(b)](https://www.legislation.gov.uk/asp/2015/9/section/15/3/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))
+[^c-e888d4a15ad3126e053fac79e0719e76]: Textual amendment: Words in s. 267(3) substituted (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 15(3)(b)](https://www.legislation.gov.uk/asp/2015/9/section/15/3/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))

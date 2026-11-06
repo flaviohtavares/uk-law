@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26B. Material change of use: short-term lets[^key-657522dbfed7a7a6f881756e8520f2f9]
+## 26B. Material change of use: short-term lets[^c-657522dbfed7a7a6f881756e8520f2f9]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-657522dbfed7a7a6f881756e8520f2f9]: Textual amendment: [S. 26B](https://www.legislation.gov.uk/ukpga/1997/8/section/26B) inserted (18.5.2020 for specified purposes, 1.4.2021 in so far as not already in force) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 17(2)](https://www.legislation.gov.uk/asp/2019/13/section/17/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2020/67](https://www.legislation.gov.uk/ssi/2020/67), [reg. 2](https://www.legislation.gov.uk/ssi/2020/67/regulation/2); [S.S.I. 2021/101](https://www.legislation.gov.uk/ssi/2021/101), [reg. 2](https://www.legislation.gov.uk/ssi/2021/101/regulation/2)
+[^c-657522dbfed7a7a6f881756e8520f2f9]: Textual amendment: [S. 26B](https://www.legislation.gov.uk/ukpga/1997/8/section/26B) inserted (18.5.2020 for specified purposes, 1.4.2021 in so far as not already in force) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 17(2)](https://www.legislation.gov.uk/asp/2019/13/section/17/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2020/67](https://www.legislation.gov.uk/ssi/2020/67), [reg. 2](https://www.legislation.gov.uk/ssi/2020/67/regulation/2); [S.S.I. 2021/101](https://www.legislation.gov.uk/ssi/2021/101), [reg. 2](https://www.legislation.gov.uk/ssi/2021/101/regulation/2)

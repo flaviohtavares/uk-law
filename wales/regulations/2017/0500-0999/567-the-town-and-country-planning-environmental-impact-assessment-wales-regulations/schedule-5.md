@@ -213,7 +213,7 @@ Regulation 39(3)
 
 - (a) paragraph (1)(a) read—
 
-  > - (a) it comes to the attention of the Welsh Ministers that EIA development proposed to be carried out in Wales for which a local planning authority propose to grant planning permission by a local development order is likely to have significant effects on the environment in an[^key-6fe99c7aca1d579f6741cb799b82c9f3] EEA State; or
+  > - (a) it comes to the attention of the Welsh Ministers that EIA development proposed to be carried out in Wales for which a local planning authority propose to grant planning permission by a local development order is likely to have significant effects on the environment in an[^c-6fe99c7aca1d579f6741cb799b82c9f3] EEA State; or
 
   ; and
 - (b) in paragraphs (3) and (6), instead of “application” it read “proposed local development order”.
@@ -222,4 +222,4 @@ Regulation 39(3)
 
 [^c23311711]: Marginal citation: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391).
 
-[^key-6fe99c7aca1d579f6741cb799b82c9f3]: Textual amendment: Word in [Sch. 5 para. 17(a)](https://www.legislation.gov.uk/wsi/2017/567/schedule/5/paragraph/17/a) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [6(17)](https://www.legislation.gov.uk/wsi/2019/245/regulation/6/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6fe99c7aca1d579f6741cb799b82c9f3]: Textual amendment: Word in [Sch. 5 para. 17(a)](https://www.legislation.gov.uk/wsi/2017/567/schedule/5/paragraph/17/a) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [6(17)](https://www.legislation.gov.uk/wsi/2019/245/regulation/6/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

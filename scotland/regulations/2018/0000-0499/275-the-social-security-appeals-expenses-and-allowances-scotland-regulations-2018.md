@@ -60,7 +60,7 @@ In these Regulations—
 
 ## 3. Payment of expenses
 
-(1) Paragraph (2) applies to proceedings relating to the exercise by the Scottish Ministers of functions conferred on them by the Social Security (Scotland) Act 2018, by regulations made under that Act or by the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020, before[^key-c130635c402b7a61bbad9643aadfe910]—
+(1) Paragraph (2) applies to proceedings relating to the exercise by the Scottish Ministers of functions conferred on them by the Social Security (Scotland) Act 2018, by regulations made under that Act or by the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020, before[^c-c130635c402b7a61bbad9643aadfe910]—
 
 - (a) the First-tier Tribunal for Scotland Social Security Chamber; or
 - (b) the Upper Tribunal for Scotland.
@@ -96,4 +96,4 @@ A Partial Business and Regulatory Impact Assessment has been prepared and placed
 
 [^c23386341]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); [section 15(1)](https://www.legislation.gov.uk/ssi/2018/275/section/15/1) was amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), [schedule 17](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17), [paragraph 158](https://www.legislation.gov.uk/ukpga/2003/21/paragraph/158).
 
-[^key-c130635c402b7a61bbad9643aadfe910]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/275/regulation/3/1) substituted (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [sch. 2 para. 15(2)](https://www.legislation.gov.uk/ssi/2020/475/schedule/2/paragraph/15/2)
+[^c-c130635c402b7a61bbad9643aadfe910]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2018/275/regulation/3/1) substituted (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [sch. 2 para. 15(2)](https://www.legislation.gov.uk/ssi/2020/475/schedule/2/paragraph/15/2)

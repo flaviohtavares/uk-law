@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ZA6. Annual and other reports[^key-15f8a42394fa83d002894302163bc230]
+## ZA6. Annual and other reports[^c-15f8a42394fa83d002894302163bc230]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15f8a42394fa83d002894302163bc230]: Textual amendment: Pt. 1 Ch. ZA1 omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/1/a) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
+[^c-15f8a42394fa83d002894302163bc230]: Textual amendment: Pt. 1 Ch. ZA1 omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/1/a) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)

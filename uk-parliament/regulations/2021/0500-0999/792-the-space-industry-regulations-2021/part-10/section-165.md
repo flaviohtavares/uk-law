@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Emergency response plan requirement[^key-cd7aacbc26d996900d2470fce3db9a71]
+## 165. Emergency response plan requirement[^c-cd7aacbc26d996900d2470fce3db9a71]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd7aacbc26d996900d2470fce3db9a71]: Commencement: Reg. 165 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-cd7aacbc26d996900d2470fce3db9a71]: Commencement: Reg. 165 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

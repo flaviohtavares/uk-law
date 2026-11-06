@@ -38,11 +38,11 @@ before the expiry of the period of 2 months beginning with the date the applicat
 - (b) in a case where a decision was given under regulation 70 (notice of decisions on disagreements), an explanation of whether and, if so, the extent to which that decision is confirmed or replaced;
 - (c) a reference to any legislation or provisions of the Scheme on which the authority relied;
 - (d) in a case where the disagreement relates to the exercise of a discretion, a reference to the provisions of the Scheme conferring the discretion;
-- (e) a statement that the Money and Pensions Service[^key-1d6706bc7cefe05bb9370da3fd783e91] is available to give assistance in connection with any difficulty with the Scheme which remains unresolved including the address at which the Money and Pensions Service may be contacted; and
+- (e) a statement that the Money and Pensions Service[^c-1d6706bc7cefe05bb9370da3fd783e91] is available to give assistance in connection with any difficulty with the Scheme which remains unresolved including the address at which the Money and Pensions Service may be contacted; and
 - (f) a statement that the Pensions Ombudsman may investigate and determine any complaint or dispute of fact or law in relation to the Scheme made or referred in accordance with the Pension Schemes Act 1993 [^c22970931] including the address at which the Pensions Ombudsman may be contacted.
 
 ## Annotations
 
-[^key-1d6706bc7cefe05bb9370da3fd783e91]: Textual amendment: Words in reg. 72(3)(e) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/28/b)
+[^c-1d6706bc7cefe05bb9370da3fd783e91]: Textual amendment: Words in reg. 72(3)(e) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/28/b)
 
 [^c22970931]: Marginal citation: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).

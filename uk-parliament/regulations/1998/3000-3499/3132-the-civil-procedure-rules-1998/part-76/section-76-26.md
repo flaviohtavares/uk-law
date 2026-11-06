@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76.26. Modification of the general rules of evidence and disclosure[^key-aff08cb562443cad7c83cb0da0e8e7a6]
+## 76.26. Modification of the general rules of evidence and disclosure[^c-aff08cb562443cad7c83cb0da0e8e7a6]
 
 *Extent: E+W*
 
@@ -33,12 +33,12 @@ summary: ''
 
 (5) Every party shall be entitled to adduce evidence and to cross-examine witnesses during any part of a hearing from which he and his legal representative are not excluded.
 
-(5A)[^key-2247cb2432a32f2a39cb34ac2bc1ac6c] A special advocate shall be entitled to adduce evidence and to cross-examine witnesses.
+(5A)[^c-2247cb2432a32f2a39cb34ac2bc1ac6c] A special advocate shall be entitled to adduce evidence and to cross-examine witnesses.
 
 (6) The court may require a witness to give evidence on oath.
 
 ## Annotations
 
-[^key-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
+[^c-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
 
-[^key-2247cb2432a32f2a39cb34ac2bc1ac6c]: Textual amendment: [Rule 76.26(5A)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.26/5A) inserted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [16(d)](https://www.legislation.gov.uk/uksi/2009/2092/rule/16/d)
+[^c-2247cb2432a32f2a39cb34ac2bc1ac6c]: Textual amendment: [Rule 76.26(5A)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.26/5A) inserted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [16(d)](https://www.legislation.gov.uk/uksi/2009/2092/rule/16/d)

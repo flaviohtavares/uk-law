@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Exceptions: training courses for further education teachers[^key-801f3c6538fd10957d12388aa24c402a]
+## 109. Exceptions: training courses for further education teachers[^c-801f3c6538fd10957d12388aa24c402a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In regulation 5(2A)(a) (qualifying persons: exceptions)[^f00086], for the words 
 
 ## Annotations
 
-[^key-801f3c6538fd10957d12388aa24c402a]: Commencement: Reg. 109 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-801f3c6538fd10957d12388aa24c402a]: Commencement: Reg. 109 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00086]: Footnote: Paragraph (2A) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).

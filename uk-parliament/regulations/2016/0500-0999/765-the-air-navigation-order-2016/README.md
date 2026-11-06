@@ -116,7 +116,7 @@ Her Majesty, by and with the advice of Her Privy Council, orders as follows:
 - [Section 35 — Requirement for a certificate of release to service for Part-21 aircraft](part-4/section-35.md)
 - [Section 36 — Licensing of maintenance engineers](part-4/section-36.md)
 
-#### CHAPTER 2 — Initial airworthiness – Non-Part-21 aircraft[^key-ae35e7b38ea195960a92a8f577080c7e]
+#### CHAPTER 2 — Initial airworthiness – Non-Part-21 aircraft[^c-ae35e7b38ea195960a92a8f577080c7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -128,7 +128,7 @@ Her Majesty, by and with the advice of Her Privy Council, orders as follows:
 - [Section 42 — Limitations of national permits to fly](part-4/section-42.md)
 - [Section 43 — Aircraft weight schedule](part-4/section-43.md)
 
-#### CHAPTER 3 — Continuing airworthiness for Non-Part-21 aircraft[^key-db0663c66c93fadd0835af8d70e95292]
+#### CHAPTER 3 — Continuing airworthiness for Non-Part-21 aircraft[^c-db0663c66c93fadd0835af8d70e95292]
 
 *Extent: E+W+S+N.I.*
 
@@ -160,7 +160,7 @@ Her Majesty, by and with the advice of Her Privy Council, orders as follows:
 - [Section 64 — Meaning of “non-Part-21 aircraft” in this Part](part-5/section-64.md)
 - [Section 65 — Application of Chapters 2 and 7](part-5/section-65.md)
 
-#### CHAPTER 2 — Operational rules for Non-Part-21 aircraft[^key-0e3527689d35f8dd9db8ef7a5225198c]
+#### CHAPTER 2 — Operational rules for Non-Part-21 aircraft[^c-0e3527689d35f8dd9db8ef7a5225198c]
 
 ##### SECTION 1 — Crew required to be carried
 
@@ -408,7 +408,7 @@ Her Majesty, by and with the advice of Her Privy Council, orders as follows:
 - [Section 205 — Air traffic service equipment](part-7/section-205.md)
 - [Section 206 — Air traffic service equipment records](part-7/section-206.md)
 
-### PART 8 — Aerodromes, lighting and en-route obstacles[^key-8ed369ad0bbaf35957f49628090f9b13]
+### PART 8 — Aerodromes, lighting and en-route obstacles[^c-8ed369ad0bbaf35957f49628090f9b13]
 
 #### CHAPTER 1 — Aerodromes, aeronautical lights and dangerous lights
 
@@ -435,7 +435,7 @@ Her Majesty, by and with the advice of Her Privy Council, orders as follows:
 - [Section 224 — Lights liable to endanger](part-8/section-224.md)
 - [Section 225 — Lights which dazzle or distract](part-8/section-225.md)
 
-#### CHAPTER 3 — Notifications relating to en-route obstacles[^key-e64bcb3003c854fea57de20f0e78ad30]
+#### CHAPTER 3 — Notifications relating to en-route obstacles[^c-e64bcb3003c854fea57de20f0e78ad30]
 
 - [Section 225A — Notifications relating to en-route obstacles](part-8/section-225a.md)
 
@@ -899,12 +899,12 @@ The following Table shows, in relation to each provision of the Air Navigation O
 
 [^c23204811]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), [section 28](https://www.legislation.gov.uk/ukpga/2006/51/section/28).
 
-[^key-ae35e7b38ea195960a92a8f577080c7e]: Textual amendment: Word in Pt. 4 Ch. 2 heading substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/11) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae35e7b38ea195960a92a8f577080c7e]: Textual amendment: Word in Pt. 4 Ch. 2 heading substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/11) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-db0663c66c93fadd0835af8d70e95292]: Textual amendment: Word in Pt. 4 Ch. 3 heading substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/17) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db0663c66c93fadd0835af8d70e95292]: Textual amendment: Word in Pt. 4 Ch. 3 heading substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/17) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0e3527689d35f8dd9db8ef7a5225198c]: Textual amendment: Word in [Pt. 5 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/part/5/chapter/2) heading substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/21) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0e3527689d35f8dd9db8ef7a5225198c]: Textual amendment: Word in [Pt. 5 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/part/5/chapter/2) heading substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/21) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8ed369ad0bbaf35957f49628090f9b13]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2016/765/part/8) heading substituted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [7](https://www.legislation.gov.uk/uksi/2021/879/article/7)
+[^c-8ed369ad0bbaf35957f49628090f9b13]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2016/765/part/8) heading substituted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [7](https://www.legislation.gov.uk/uksi/2021/879/article/7)
 
-[^key-e64bcb3003c854fea57de20f0e78ad30]: Textual amendment: [Pt. 8 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/part/8/chapter/3) inserted (6.9.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/879/article/1/2), [8](https://www.legislation.gov.uk/uksi/2021/879/article/8)
+[^c-e64bcb3003c854fea57de20f0e78ad30]: Textual amendment: [Pt. 8 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/part/8/chapter/3) inserted (6.9.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/879/article/1/2), [8](https://www.legislation.gov.uk/uksi/2021/879/article/8)

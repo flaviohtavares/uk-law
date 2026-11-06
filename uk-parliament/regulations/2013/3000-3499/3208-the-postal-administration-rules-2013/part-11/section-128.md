@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Appeals and reviews of postal administration orders[^key-40f96128ae61b84dd8ad6c06485388ef]
+## 128. Appeals and reviews of postal administration orders[^c-40f96128ae61b84dd8ad6c06485388ef]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40f96128ae61b84dd8ad6c06485388ef]: Commencement: [Rule 128](https://www.legislation.gov.uk/uksi/2013/3208/rule/128) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-40f96128ae61b84dd8ad6c06485388ef]: Commencement: [Rule 128](https://www.legislation.gov.uk/uksi/2013/3208/rule/128) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Health service contract[^key-ef36211935132732aea03ee18d0fc228]
+## 14. Health service contract[^c-ef36211935132732aea03ee18d0fc228]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If, by virtue of regulation 10 or 11, a contractor is to be regarded as a health
 
 ## Annotations
 
-[^key-ef36211935132732aea03ee18d0fc228]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2023/953/regulation/14) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-ef36211935132732aea03ee18d0fc228]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2023/953/regulation/14) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

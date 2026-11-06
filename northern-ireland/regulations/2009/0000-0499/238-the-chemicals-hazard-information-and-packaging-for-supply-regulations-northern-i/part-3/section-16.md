@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-Within the territorial sea these Regulations and the *(affected by repeal, see note)*[^key-aaac38b2e4d293e45f9caeda1c869071] CLP Regulation *(affected by repeal, see note)*[^key-aaac38b2e4d293e45f9caeda1c869071] shall apply only to and in relation to an activity to which any of paragraphs 2 to 6 of Schedule 6 applies. *(affected by repeal, see note)*[^key-aaac38b2e4d293e45f9caeda1c869071]
+Within the territorial sea these Regulations and the *(affected by repeal, see note)*[^c-aaac38b2e4d293e45f9caeda1c869071] CLP Regulation *(affected by repeal, see note)*[^c-aaac38b2e4d293e45f9caeda1c869071] shall apply only to and in relation to an activity to which any of paragraphs 2 to 6 of Schedule 6 applies. *(affected by repeal, see note)*[^c-aaac38b2e4d293e45f9caeda1c869071]
 
 ## Annotations
 
-[^key-aaac38b2e4d293e45f9caeda1c869071]: Textual amendment: [Regs. 14-18](https://www.legislation.gov.uk/nisr/2009/238/regulation/14) revoked with savings (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(c)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/c) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-aaac38b2e4d293e45f9caeda1c869071]: Textual amendment: [Regs. 14-18](https://www.legislation.gov.uk/nisr/2009/238/regulation/14) revoked with savings (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(c)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/c) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))

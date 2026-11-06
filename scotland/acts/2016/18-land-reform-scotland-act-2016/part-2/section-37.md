@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Recommendations by Tenant Farming Commissioner for modern list of improvements[^key-ad30219d7f17cf7ff7a57017c5bd151d]
+## 37. Recommendations by Tenant Farming Commissioner for modern list of improvements[^c-ad30219d7f17cf7ff7a57017c5bd151d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad30219d7f17cf7ff7a57017c5bd151d]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2016/18/section/37) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-ad30219d7f17cf7ff7a57017c5bd151d]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2016/18/section/37) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Slaughter: cleansing and disinfection of slaughterhouses and border control posts[^key-258f7f27f6b0ed5b0e976a092e08765e]
+## 28. Slaughter: cleansing and disinfection of slaughterhouses and border control posts[^c-258f7f27f6b0ed5b0e976a092e08765e]
 
 *Extent: S*
 
-(1) This article applies to a slaughterhouse or border control post[^key-4b6f7b1e1a87d445b1ddcd605f9cafe4] where the Scottish Ministers have caused slaughter as described in regulation 8(2) or 9(1) of the Regulations, and to any vehicle there, after the disposal of all carcases in accordance with article 24 and, if article 25(2)(a) applies, removal for disposal of the items referred to in that paragraph.
+(1) This article applies to a slaughterhouse or border control post[^c-4b6f7b1e1a87d445b1ddcd605f9cafe4] where the Scottish Ministers have caused slaughter as described in regulation 8(2) or 9(1) of the Regulations, and to any vehicle there, after the disposal of all carcases in accordance with article 24 and, if article 25(2)(a) applies, removal for disposal of the items referred to in that paragraph.
 
 (2) The Scottish Ministers shall ensure that–
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-258f7f27f6b0ed5b0e976a092e08765e]: Textual amendment: Words in [art. 28](https://www.legislation.gov.uk/ssi/2006/44/article/28) heading substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [17(6)(a)](https://www.legislation.gov.uk/ssi/2019/412/regulation/17/6/a)
+[^c-258f7f27f6b0ed5b0e976a092e08765e]: Textual amendment: Words in [art. 28](https://www.legislation.gov.uk/ssi/2006/44/article/28) heading substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [17(6)(a)](https://www.legislation.gov.uk/ssi/2019/412/regulation/17/6/a)
 
-[^key-4b6f7b1e1a87d445b1ddcd605f9cafe4]: Textual amendment: Words in [art. 28(1)](https://www.legislation.gov.uk/ssi/2006/44/article/28/1) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [17(6)(b)](https://www.legislation.gov.uk/ssi/2019/412/regulation/17/6/b)
+[^c-4b6f7b1e1a87d445b1ddcd605f9cafe4]: Textual amendment: Words in [art. 28(1)](https://www.legislation.gov.uk/ssi/2006/44/article/28/1) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [17(6)(b)](https://www.legislation.gov.uk/ssi/2019/412/regulation/17/6/b)

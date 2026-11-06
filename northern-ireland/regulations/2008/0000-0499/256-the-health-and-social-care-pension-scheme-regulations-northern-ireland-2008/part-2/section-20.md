@@ -66,7 +66,7 @@ summary: ''
 
 (7) For the purposes of this regulation the conditions for approval are those referred to in paragraph (1)(a) or (b) as the case may be.
 
-(8) The appointed Board may give an OOH provider a notice in writing terminating its participation in this Section of[^key-f661283e5d114701be5b62e558a47f18] the Scheme where that provider—
+(8) The appointed Board may give an OOH provider a notice in writing terminating its participation in this Section of[^c-f661283e5d114701be5b62e558a47f18] the Scheme where that provider—
 
 - (a) does not have in force a guarantee, indemnity or bond as required by the Department in accordance with regulation 33;
 - (b) has ceased to satisfy the conditions for approval;
@@ -80,16 +80,16 @@ summary: ''
 (9) An OOH provider—
 
 - (a) must give the appointed Board notice in writing upon the occurrence of any of the events referred to in paragraph (8)(c) and must give such notice on the same day as that event;
-- (b) that wishes to cease to participate in this Section of[^key-6e4641f829164effdf82c80bb9f398ff] the Scheme must give the appointed Board and its employees not less than 3 months notice in writing (to commence with the date of the notice) of that fact.
+- (b) that wishes to cease to participate in this Section of[^c-6e4641f829164effdf82c80bb9f398ff] the Scheme must give the appointed Board and its employees not less than 3 months notice in writing (to commence with the date of the notice) of that fact.
 
-(10) An OOH provider must cease to participate in this Section of[^key-267872374ad005e4cefc01084249e6ee] the Scheme on—
+(10) An OOH provider must cease to participate in this Section of[^c-267872374ad005e4cefc01084249e6ee] the Scheme on—
 
 - (a) such date as the appointed Board may specify in a notice under paragraph (8);
 - (b) the day upon which the period referred to in paragraph (9)(b) expires if a notice under that provision has been given.
 
 ## Annotations
 
-[^key-f661283e5d114701be5b62e558a47f18]: Textual amendment: Words in [reg. 20(8)](https://www.legislation.gov.uk/nisr/2008/256/regulation/20/8) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-f661283e5d114701be5b62e558a47f18]: Textual amendment: Words in [reg. 20(8)](https://www.legislation.gov.uk/nisr/2008/256/regulation/20/8) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
 [^c19302881]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
@@ -97,6 +97,6 @@ summary: ''
 
 [^c19302901]: Marginal citation: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
-[^key-6e4641f829164effdf82c80bb9f398ff]: Textual amendment: Words in [reg. 20(9)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/20/9/b) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-6e4641f829164effdf82c80bb9f398ff]: Textual amendment: Words in [reg. 20(9)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/20/9/b) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-267872374ad005e4cefc01084249e6ee]: Textual amendment: Words in [reg. 20(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/20/10) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-267872374ad005e4cefc01084249e6ee]: Textual amendment: Words in [reg. 20(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/20/10) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

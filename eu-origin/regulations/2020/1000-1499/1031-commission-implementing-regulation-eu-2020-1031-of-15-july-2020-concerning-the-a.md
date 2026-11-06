@@ -35,18 +35,18 @@ concerning the authorisation of benzoic acid as a feed additive for pigs for fat
 
 (Text with EEA relevance) (revoked)
 
-[^key-d87175f5334d49b56b89fa6c18daf7b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d87175f5334d49b56b89fa6c18daf7b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d87175f5334d49b56b89fa6c18daf7b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d87175f5334d49b56b89fa6c18daf7b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d87175f5334d49b56b89fa6c18daf7b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d87175f5334d49b56b89fa6c18daf7b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d87175f5334d49b56b89fa6c18daf7b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d87175f5334d49b56b89fa6c18daf7b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-d87175f5334d49b56b89fa6c18daf7b2]
+## ANNEX[^c-d87175f5334d49b56b89fa6c18daf7b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d87175f5334d49b56b89fa6c18daf7b2]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 369](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/369) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d87175f5334d49b56b89fa6c18daf7b2]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 369](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/369) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

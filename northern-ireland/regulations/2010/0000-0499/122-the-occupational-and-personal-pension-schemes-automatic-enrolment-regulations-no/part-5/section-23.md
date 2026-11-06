@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Arrangements to achieve active membership[^key-7272bed9fc22bcd0379651f2fb12550f]
+## 23. Arrangements to achieve active membership[^c-7272bed9fc22bcd0379651f2fb12550f]
 
 *Extent: N.I.*
 
@@ -31,12 +31,12 @@ summary: ''
 
 (2) The requirement in paragraph (1)(b) does not apply in relation to the information specified in regulation 3(1)(g), (h), (i), (j) or (k), where the trustees or managers of the occupational pension scheme notify, or the personal pension scheme provider notifies, the employer that they do not require that piece of information to achieve active membership of that scheme.
 
-(3) Where the information referred to in regulation 3(1)(f) is not available to the employer on the date on which the notice is received by the employer, the employer must give the trustees or managers of the occupational pension scheme or the personal pension scheme provider that information within 6 weeks[^key-1b995033bd0c41989822d72ac0188743] from the date on which the employer receives it.
+(3) Where the information referred to in regulation 3(1)(f) is not available to the employer on the date on which the notice is received by the employer, the employer must give the trustees or managers of the occupational pension scheme or the personal pension scheme provider that information within 6 weeks[^c-1b995033bd0c41989822d72ac0188743] from the date on which the employer receives it.
 
 (4) For the purposes of this regulation any reference to “the jobholder” in regulation 3(1) shall be read as a reference to “the worker”.
 
 ## Annotations
 
-[^key-7272bed9fc22bcd0379651f2fb12550f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/122/regulation/23) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-7272bed9fc22bcd0379651f2fb12550f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/122/regulation/23) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
 
-[^key-1b995033bd0c41989822d72ac0188743]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/nisr/2010/122/regulation/23/3) substituted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [7](https://www.legislation.gov.uk/nisr/2015/310/regulation/7)
+[^c-1b995033bd0c41989822d72ac0188743]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/nisr/2010/122/regulation/23/3) substituted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [7](https://www.legislation.gov.uk/nisr/2015/310/regulation/7)

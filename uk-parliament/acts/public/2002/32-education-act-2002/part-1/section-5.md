@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Annual report[^c382479][^key-af921c431e64db509a1d52465ec47856]
+## 5. Annual report[^c382479][^c-af921c431e64db509a1d52465ec47856]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c382479]: Commencement: S. 5 partly in force; s. 5 not in force at Royal Assent, see s. 216; s. 5 in force for E. at 1.10.2002 by ([S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-af921c431e64db509a1d52465ec47856]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2002/32/section/5) in force at 27.2.2015 for W. by [S.I. 2015/381](https://www.legislation.gov.uk/wsi/2015/381), [art. 2](https://www.legislation.gov.uk/wsi/2015/381/article/2)
+[^c-af921c431e64db509a1d52465ec47856]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2002/32/section/5) in force at 27.2.2015 for W. by [S.I. 2015/381](https://www.legislation.gov.uk/wsi/2015/381), [art. 2](https://www.legislation.gov.uk/wsi/2015/381/article/2)

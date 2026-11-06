@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Sums in currency other than sterling[^key-ef23c0870bbec0b44ea825f6b00039d9]
+## 25. Sums in currency other than sterling[^c-ef23c0870bbec0b44ea825f6b00039d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef23c0870bbec0b44ea825f6b00039d9]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2005/3181/article/25) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-ef23c0870bbec0b44ea825f6b00039d9]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2005/3181/article/25) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00027]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

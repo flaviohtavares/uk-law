@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Services to be provided free of charge[^key-098d03f50d9307662e579841070dd337]
+## 3. Services to be provided free of charge[^c-098d03f50d9307662e579841070dd337]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-098d03f50d9307662e579841070dd337]: Commencement: Reg. 3 in force at 1.4.2015 in accordance with reg. 1
+[^c-098d03f50d9307662e579841070dd337]: Commencement: Reg. 3 in force at 1.4.2015 in accordance with reg. 1
 
 [^f00014]: Footnote: *See* section 1(4) of the Act as to the meaning of “local authority”; the definition is limited to local authorities in England.

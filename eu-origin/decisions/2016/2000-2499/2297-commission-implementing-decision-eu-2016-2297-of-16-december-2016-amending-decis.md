@@ -37,16 +37,16 @@ amending Decisions 2001/497/EC and 2010/87/EU on standard contractual clauses fo
 
 (Text with EEA relevance) (revoked)
 
-[^key-4664a33cbf5d7e82d287039cbae963d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4664a33cbf5d7e82d287039cbae963d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-4664a33cbf5d7e82d287039cbae963d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4664a33cbf5d7e82d287039cbae963d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4664a33cbf5d7e82d287039cbae963d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4664a33cbf5d7e82d287039cbae963d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4664a33cbf5d7e82d287039cbae963d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4664a33cbf5d7e82d287039cbae963d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4664a33cbf5d7e82d287039cbae963d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4664a33cbf5d7e82d287039cbae963d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4664a33cbf5d7e82d287039cbae963d5]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(q)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/q); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4664a33cbf5d7e82d287039cbae963d5]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(q)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/q); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

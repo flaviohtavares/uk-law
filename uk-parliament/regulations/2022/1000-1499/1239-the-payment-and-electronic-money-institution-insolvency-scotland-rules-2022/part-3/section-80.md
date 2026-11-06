@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Resolutions of creditors’ committees by post[^key-93ca5de575e5d8597f36d1eb6e4262d6]
+## 80. Resolutions of creditors’ committees by post[^c-93ca5de575e5d8597f36d1eb6e4262d6]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93ca5de575e5d8597f36d1eb6e4262d6]: Commencement: Rule 80 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-93ca5de575e5d8597f36d1eb6e4262d6]: Commencement: Rule 80 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

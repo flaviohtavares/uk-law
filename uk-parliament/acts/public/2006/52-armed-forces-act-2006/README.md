@@ -30,11 +30,11 @@ Armed Forces Act 2006
 
 2006 c. 52
 
-[^key-9be4c423ce5110e30e03264097956f5e]An Act to make provision with respect to the armed forces; and for connected purposes.
+[^c-9be4c423ce5110e30e03264097956f5e]An Act to make provision with respect to the armed forces; and for connected purposes.
 
 \[8th November 2006\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-8fadcd0a30be0caa2abb93bc55e7f327][^key-c900e6245a5b033376a5bb24ee51d987][^key-3a86c6635108088c84ac69bfe70611c1][^key-e15af023b60116605796789a63d5f41d][^M_C_e5000a72-5b19-4d36-e33a-3d7e8047a325]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-8fadcd0a30be0caa2abb93bc55e7f327][^c-c900e6245a5b033376a5bb24ee51d987][^c-3a86c6635108088c84ac69bfe70611c1][^c-e15af023b60116605796789a63d5f41d][^M_C_e5000a72-5b19-4d36-e33a-3d7e8047a325]
 
 ## Contents
 
@@ -105,7 +105,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 37 — Prize offences by officer in command of ship or aircraft](part-1n1/section-37.md)
 - [Section 38 — Other prize offences](part-1n1/section-38.md)
 
-#### Attempts, encouragement and assistance , and aiding and abetting[^key-7dd2d1905e942097896567aa3740dedc]
+#### Attempts, encouragement and assistance , and aiding and abetting[^c-7dd2d1905e942097896567aa3740dedc]
 
 *Extent: E+W+S+N.I.*
 
@@ -165,7 +165,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 65 — Sections 63 and 64: supplementary](part-2/section-65.md)
 - [Section 66 — Civilian proceedings barring subsequent service proceedings](part-2/section-66.md)
 
-### Part 3 — Powers of Arrest, Search and Entry[^key-1b9e4d2c3575457b3be352c095386b83]
+### Part 3 — Powers of Arrest, Search and Entry[^c-1b9e4d2c3575457b3be352c095386b83]
 
 *Extent: E+W+S+N.I.*
 
@@ -221,11 +221,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 93 — Power to make provision conferring power of seizure etc](part-3n1/section-93.md)
 - [Section 93ZE — Powers of seizure equivalent to powers under section 13 of the Terrorism Act 2000](part-3n1/section-93ze.md)
 
-#### CHAPTER 3A — Testing for alcohol and drugs in connection with a suspected offence or accident[^key-b04ece7f60dc61a439e6ec73391a4d6c][^key-c8f2e8c32794a6603caf23e5c60f1045]
+#### CHAPTER 3A — Testing for alcohol and drugs in connection with a suspected offence or accident[^c-b04ece7f60dc61a439e6ec73391a4d6c][^c-c8f2e8c32794a6603caf23e5c60f1045]
 
 *Extent: E+W+S+N.I.*
 
-##### Preliminary testing for alcohol and drugs[^key-b04ece7f60dc61a439e6ec73391a4d6c]
+##### Preliminary testing for alcohol and drugs[^c-b04ece7f60dc61a439e6ec73391a4d6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -235,13 +235,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 93C — Preliminary impairment test](part-3n1/section-93c.md)
 - [Section 93D — Preliminary drug test](part-3n1/section-93d.md)
 
-##### Provision of specimens for analysis[^key-b04ece7f60dc61a439e6ec73391a4d6c]
+##### Provision of specimens for analysis[^c-b04ece7f60dc61a439e6ec73391a4d6c]
 
 - [Section 93E — Provision of specimens for analysis](part-3n1/section-93e.md)
 - [Section 93F — Further provision about specimens under section 93E](part-3n1/section-93f.md)
 - [Section 93G — Specimens of blood from persons incapable of consenting](part-3n1/section-93g.md)
 
-##### General provisions relating to testing[^key-b04ece7f60dc61a439e6ec73391a4d6c]
+##### General provisions relating to testing[^c-b04ece7f60dc61a439e6ec73391a4d6c]
 
 - [Section 93H — Patients in medical establishments](part-3n1/section-93h.md)
 - [Section 93I — Definitions for purposes of Chapter 3A](part-3n1/section-93i.md)
@@ -254,9 +254,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 96 — “Service living accommodation”, “premises” and other definitions](part-3n1/section-96.md)
 - [Section 97 — Power to use reasonable force](part-3n1/section-97.md)
 
-### Part 4 — Custody[^key-f815d5b00e489ca2380c3b7cbf4b4a8d][^key-0c8f9ef57f37e902f73fc18a126184c0][^key-24af7ca7e8ac2629c85b6d59ef3b900d]
+### Part 4 — Custody[^c-f815d5b00e489ca2380c3b7cbf4b4a8d][^c-0c8f9ef57f37e902f73fc18a126184c0][^c-24af7ca7e8ac2629c85b6d59ef3b900d]
 
-#### Chapter 1 — Custody without Charge[^key-f815d5b00e489ca2380c3b7cbf4b4a8d][^key-0c8f9ef57f37e902f73fc18a126184c0]
+#### Chapter 1 — Custody without Charge[^c-f815d5b00e489ca2380c3b7cbf4b4a8d][^c-0c8f9ef57f37e902f73fc18a126184c0]
 
 - [Section 98 — Limitations on custody without charge](part-4/section-98.md)
 - [Section 99 — Authorisation by commanding officer of custody without charge](part-4/section-99.md)
@@ -266,7 +266,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 103 — Custody without charge: other cases](part-4/section-103.md)
 - [Section 104 — Custody without charge: supplementary](part-4/section-104.md)
 
-#### Chapter 2 — Custody etc after Charge[^key-f815d5b00e489ca2380c3b7cbf4b4a8d][^key-0c8f9ef57f37e902f73fc18a126184c0]
+#### Chapter 2 — Custody etc after Charge[^c-f815d5b00e489ca2380c3b7cbf4b4a8d][^c-0c8f9ef57f37e902f73fc18a126184c0]
 
 ##### Custody after charge
 
@@ -281,7 +281,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 110 — Arrest after charge or during proceedings by order of commanding officer](part-4/section-110.md)
 - [Section 111 — Arrest during proceedings at direction of court](part-4/section-111.md)
 
-#### Chapter 3 — Custody Proceedings Rules[^key-f815d5b00e489ca2380c3b7cbf4b4a8d]
+#### Chapter 3 — Custody Proceedings Rules[^c-f815d5b00e489ca2380c3b7cbf4b4a8d]
 
 - [Section 112 — Custody proceedings rules](part-4/section-112.md)
 
@@ -297,7 +297,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 114 — CO to ensure service police aware of certain circumstances](part-5/section-114.md)
 - [Section 115 — Duty of CO with respect to investigation of service offences](part-5/section-115.md)
 
-##### Provost Marshal's duty in relation to independence of investigations[^key-ef1499dc384489094fac5c69dcee6519]
+##### Provost Marshal's duty in relation to independence of investigations[^c-ef1499dc384489094fac5c69dcee6519]
 
 - [Section 115A — Provost Marshal's duty in relation to independence of investigations](part-5/section-115a.md)
 
@@ -383,7 +383,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 153 — Summary hearings etc rules](part-6/section-153.md)
 
-### Part 7 — Trial by Court Martial[^key-838476643443b74d7996a607b0adb41c]
+### Part 7 — Trial by Court Martial[^c-838476643443b74d7996a607b0adb41c]
 
 *Extent: E+W+S+N.I.*
 
@@ -421,7 +421,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 171 — Remission for trial](part-7/section-171.md)
 - [Section 172 — Provision supplementary to sections 166 and 168](part-7/section-172.md)
 
-### Part 8 — Sentencing Powers and Mandatory etc Sentences[^key-0cf7b9b2a7b613c20d2952d331a9453d]
+### Part 8 — Sentencing Powers and Mandatory etc Sentences[^c-0cf7b9b2a7b613c20d2952d331a9453d]
 
 *Extent: E+W+S+N.I.*
 
@@ -439,7 +439,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 177 — Review of service compensation orders](part-8/section-177.md)
 - [Section 177A — Effect of service compensation order on subsequent award of damages in civil proceedings](part-8/section-177a.md)
 
-##### Deprivation orders[^key-b6456bc364a337471eeaa9dd5ac010d5]
+##### Deprivation orders[^c-b6456bc364a337471eeaa9dd5ac010d5]
 
 - [Section 177B — Deprivation orders: interpretation](part-8/section-177b.md)
 - [Section 177C — Deprivation order: availability](part-8/section-177c.md)
@@ -448,7 +448,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 177E — Exercise of power to make deprivation order](part-8/section-177e.md)
 - [Section 177F — Application of proceeds of property subject to deprivation order](part-8/section-177f.md)
 
-##### Driving disqualification orders[^key-99e777f3a0dc9a87a1663915164c8f7a]
+##### Driving disqualification orders[^c-99e777f3a0dc9a87a1663915164c8f7a]
 
 - [Section 177G — Driving disqualification orders](part-8/section-177g.md)
 - [Section 177H — Driving disqualification: availability](part-8/section-177h.md)
@@ -494,9 +494,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 194A — Extended powers of activation: time for obtaining](part-8/section-194a.md)
 - [Section 195 — Suspended sentences: powers of SAC](part-8/section-195.md)
 
-#### Chapter 4 — Imprisonment for Term of two years or less[^key-12cd8d9c090120a7b3ca73dca06a9d32]
+#### Chapter 4 — Imprisonment for Term of two years or less[^c-12cd8d9c090120a7b3ca73dca06a9d32]
 
-##### ...[^key-438c499e5f68c880aa59b129e5e63d0c]
+##### ...[^c-438c499e5f68c880aa59b129e5e63d0c]
 
 - [Section 196 — Term of sentence etc](part-8/section-196.md)
 
@@ -554,7 +554,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 217 — Mandatory life imprisonment](part-8/section-217.md)
 - [Section 218 — Offenders who commit murder etc when under 18: mandatory detention at Her Majesty's pleasure](part-8/section-218.md)
 
-##### Required or discretionary sentences for particular offences[^key-58769e692f8ebe4fb012abc4b1587fb9]
+##### Required or discretionary sentences for particular offences[^c-58769e692f8ebe4fb012abc4b1587fb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -585,7 +585,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 231 — Service restraining orders: appeals](part-8/section-231.md)
 - [Section 232 — Service restraining orders: variation and revocation](part-8/section-232.md)
 
-##### Service sexual offences prevention orders etc[^key-0758b5a0a2129c1e033e8d77b6cb9e1f]
+##### Service sexual offences prevention orders etc[^c-0758b5a0a2129c1e033e8d77b6cb9e1f]
 
 - [Section 232A — Service sexual offences prevention orders](part-8/section-232a.md)
 - [Section 232B — Service SOPOs: appeals](part-8/section-232b.md)
@@ -602,12 +602,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 235 — Recognizances: appeals, variation and revocation](part-8/section-235.md)
 - [Section 236 — Forfeiture of recognizance](part-8/section-236.md)
 
-##### Disqualification of offenders for holding elective office etc[^key-57ef90658489b92d28c7ccaafb245daf]
+##### Disqualification of offenders for holding elective office etc[^c-57ef90658489b92d28c7ccaafb245daf]
 
 - [Section 236A — Disqualification orders](part-8/section-236a.md)
 - [Section 236B — Effect of disqualification order](part-8/section-236b.md)
 
-### Part 9 — Sentencing: Principles and Procedures[^key-fb0e15c8a377c4a2ce85152a7a1b36d9]
+### Part 9 — Sentencing: Principles and Procedures[^c-fb0e15c8a377c4a2ce85152a7a1b36d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -647,7 +647,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 252 — Duty to give reasons and explain sentence](part-9/section-252.md)
 - [Section 253 — Duties in complying with section 252](part-9/section-253.md)
 
-##### Finding of domestic abuse[^key-8d2c326262b1ea2be093618df5ae7c82]
+##### Finding of domestic abuse[^c-8d2c326262b1ea2be093618df5ae7c82]
 
 - [Section 253A — Finding of domestic abuse](part-9/section-253a.md)
 
@@ -724,7 +724,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 276A — Miscarriages of justice: amount of compensation](part-10/section-276a.md)
 - [Section 276B — Cases where person has been detained for at least 10 years](part-10/section-276b.md)
 
-### Part 11 — The Service Civilian Court[^key-8187e943c96f2365f791321ffd9be13b]
+### Part 11 — The Service Civilian Court[^c-8187e943c96f2365f791321ffd9be13b]
 
 *Extent: E+W+S+N.I.*
 
@@ -752,7 +752,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 288 — SCC rules](part-11/section-288.md)
 
-### Part 12 — Service and Effect of Certain Sentences[^key-8187e943c96f2365f791321ffd9be13b]
+### Part 12 — Service and Effect of Certain Sentences[^c-8187e943c96f2365f791321ffd9be13b]
 
 *Extent: E+W+S+N.I.*
 
@@ -787,7 +787,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 304 — Sentences passed by civilian courts](part-12/section-304.md)
 
-### PART 12A — Offenders assisting investigations and prosecutions[^M_C_c6b1b8cc-81e6-4d70-9ac1-267f4809b43f][^key-99a976f6c0eb62a36cf6e9caec64ec3b]
+### PART 12A — Offenders assisting investigations and prosecutions[^M_C_c6b1b8cc-81e6-4d70-9ac1-267f4809b43f][^c-99a976f6c0eb62a36cf6e9caec64ec3b]
 
 - [Section 304A — Immunity from prosecution](part-12a/section-304a.md)
 - [Section 304B — Undertakings as to use of evidence](part-12a/section-304b.md)
@@ -798,11 +798,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 304G — Sections 304D and 304E: exclusion of public from review proceedings](part-12a/section-304g.md)
 - [Section 304H — Meaning of “sentence”](part-12a/section-304h.md)
 
-### Part 13 — Discipline: Miscellaneous and Supplementary[^key-8187e943c96f2365f791321ffd9be13b]
+### Part 13 — Discipline: Miscellaneous and Supplementary[^c-8187e943c96f2365f791321ffd9be13b]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Random Drug Testing[^key-f8d98233eae1c93eec8e14cbc55b24e3]
+#### Chapter 1 — Random Drug Testing[^c-f8d98233eae1c93eec8e14cbc55b24e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -840,7 +840,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 319 — Certificates in connection with transfer to service custody etc](part-13/section-319.md)
 - [Section 320 — Power to use reasonable force](part-13/section-320.md)
 
-#### Chapter 3A — Guidance on Exercise of Criminal Jurisdiction[^key-4331273ee778c30f5f9004a90f9b0044]
+#### Chapter 3A — Guidance on Exercise of Criminal Jurisdiction[^c-4331273ee778c30f5f9004a90f9b0044]
 
 - [Section 320A — Guidance on exercise of criminal jurisdiction: England or Wales](part-13/section-320a.md)
 - [Section 320B — Guidance on exercise of criminal jurisdiction: Scotland](part-13/section-320b.md)
@@ -850,7 +850,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 321 — Powers of the Criminal Cases Review Commission](part-13/section-321.md)
 
-#### Chapter 4A — Inspection of service police investigations[^key-aea2546a6607303b7c92456248c83c5f]
+#### Chapter 4A — Inspection of service police investigations[^c-aea2546a6607303b7c92456248c83c5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -906,65 +906,65 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 340 — Restriction on aliens in regular forces etc](part-14/section-340.md)
 
-### Part 14A — Addressing service complaints and general service welfare matters[^key-3436703dd5bf8bc084795dbbcb110bec][^key-90ae8b9d401b11d41781b0bdcd186097][^key-6e1e7f5817bdc968d7f37f8c42820b12]
+### Part 14A — Addressing service complaints and general service welfare matters[^c-3436703dd5bf8bc084795dbbcb110bec][^c-90ae8b9d401b11d41781b0bdcd186097][^c-6e1e7f5817bdc968d7f37f8c42820b12]
 
 *Extent: E+W+S+N.I.*
 
-#### Service complaints[^key-90ae8b9d401b11d41781b0bdcd186097]
+#### Service complaints[^c-90ae8b9d401b11d41781b0bdcd186097]
 
 - [Section 340A — Who can make a service complaint?](part-14a/section-340a.md)
 - [Section 340B — Procedure for making a complaint and determining admissibility](part-14a/section-340b.md)
 
-#### Decisions and appeals[^key-90ae8b9d401b11d41781b0bdcd186097]
+#### Decisions and appeals[^c-90ae8b9d401b11d41781b0bdcd186097]
 
 - [Section 340C — Decisions on service complaints](part-14a/section-340c.md)
 - [Section 340D — Appeals](part-14a/section-340d.md)
 - [Section 340E — Further provision about persons and panels deciding service complaints etc](part-14a/section-340e.md)
 
-#### Investigation, delegation and time limits[^key-90ae8b9d401b11d41781b0bdcd186097]
+#### Investigation, delegation and time limits[^c-90ae8b9d401b11d41781b0bdcd186097]
 
 - [Section 340F — Investigation of complaints and delegation of Defence Council functions](part-14a/section-340f.md)
 - [Section 340G — Service complaints: other time limits](part-14a/section-340g.md)
 
-#### Investigations by Armed Forces Commissioner of service complaints[^key-90ae8b9d401b11d41781b0bdcd186097][^key-388a33a445da00ef955829b960f79a56][^key-abba59e02b2aeebf506332bc325a0caa]
+#### Investigations by Armed Forces Commissioner of service complaints[^c-90ae8b9d401b11d41781b0bdcd186097][^c-388a33a445da00ef955829b960f79a56][^c-abba59e02b2aeebf506332bc325a0caa]
 
 - [Section 340H — Commissioner investigations of service complaints](part-14a/section-340h.md)
 - [Section 340I — Procedure on Commissioner investigations of service complaints](part-14a/section-340i.md)
 
-#### Investigations by Armed Forces Commissioner of general service welfare matters[^key-50eae3b6475a2a8194a4a7ff9315b8b5][^key-90ae8b9d401b11d41781b0bdcd186097]
+#### Investigations by Armed Forces Commissioner of general service welfare matters[^c-50eae3b6475a2a8194a4a7ff9315b8b5][^c-90ae8b9d401b11d41781b0bdcd186097]
 
 - [Section 340IA — Commissioner investigations of general service welfare matters](part-14a/section-340ia.md)
 - [Section 340IB — Power of entry to service premises](part-14a/section-340ib.md)
 
-#### Armed Forces Commissioner investigations: supplementary matters[^key-443bc119eda9ff8b2225c6abd1b92e2f][^key-90ae8b9d401b11d41781b0bdcd186097]
+#### Armed Forces Commissioner investigations: supplementary matters[^c-443bc119eda9ff8b2225c6abd1b92e2f][^c-90ae8b9d401b11d41781b0bdcd186097]
 
 - [Section 340J — Power to require information, documents and evidence](part-14a/section-340j.md)
 - [Section 340K — Obstruction and contempt](part-14a/section-340k.md)
 
-#### Reports of investigation[^key-90ae8b9d401b11d41781b0bdcd186097]
+#### Reports of investigation[^c-90ae8b9d401b11d41781b0bdcd186097]
 
 - [Section 340L — Report and recommendations : service complaints investigations](part-14a/section-340l.md)
 - [Section 340LA — Report and recommendations: general service welfare investigations](part-14a/section-340la.md)
 - [Section 340M — Action following receipt of report under section 340L](part-14a/section-340m.md)
 
-#### Armed Forces Commissioner’s function of referring allegations[^key-416dbb8add5c833699aeb7542d3c0c4b][^key-90ae8b9d401b11d41781b0bdcd186097]
+#### Armed Forces Commissioner’s function of referring allegations[^c-416dbb8add5c833699aeb7542d3c0c4b][^c-90ae8b9d401b11d41781b0bdcd186097]
 
 - [Section 340N — Referral of certain allegations](part-14a/section-340n.md)
 
-#### Annual report by Armed Forces Commissioner[^key-90ae8b9d401b11d41781b0bdcd186097][^key-8e0cf1d29e4c3f79b843941a89a03607]
+#### Annual report by Armed Forces Commissioner[^c-90ae8b9d401b11d41781b0bdcd186097][^c-8e0cf1d29e4c3f79b843941a89a03607]
 
 - [Section 340O — Annual report of Armed Forces Commissioner](part-14a/section-340o.md)
 
-### Part 14B — Service police: complaints, misconduct etc[^key-055816b70ce2588ef18313cb0490faf2]
+### Part 14B — Service police: complaints, misconduct etc[^c-055816b70ce2588ef18313cb0490faf2]
 
-#### Functions of the Service Police Complaints Commissioner[^key-055816b70ce2588ef18313cb0490faf2]
+#### Functions of the Service Police Complaints Commissioner[^c-055816b70ce2588ef18313cb0490faf2]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 340P — Complaints, misconduct etc](part-14b/section-340p.md)
 - [Section 340Q — Investigation of concerns raised by whistle-blowers](part-14b/section-340q.md)
 
-#### Super-complaints[^key-055816b70ce2588ef18313cb0490faf2]
+#### Super-complaints[^c-055816b70ce2588ef18313cb0490faf2]
 
 *Extent: E+W+S+N.I.*
 
@@ -979,7 +979,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 343 — Service inquiries](part-16/section-343.md)
 
-### Part 16A — Armed forces covenant report (affected by repeal, see note)[^key-95b2ac701edc20c3d5e680ceb5b025fc][^key-e5245928b1ea9f083b0107aa100295f3]
+### Part 16A — Armed forces covenant report (affected by repeal, see note)[^c-95b2ac701edc20c3d5e680ceb5b025fc][^c-e5245928b1ea9f083b0107aa100295f3]
 
 - [Section 343A — Armed forces covenant report](part-16a/section-343a.md)
 - [Section 343AA — Due regard to principles: England](part-16a/section-343aa.md)
@@ -1042,26 +1042,26 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 364 — Director of Service Prosecutions](part-18/section-364.md)
 - [Section 365 — Prosecuting officers](part-18/section-365.md)
 
-#### Armed Forces Commissioner[^key-8897afd84dc54827861088469c9348b6]
+#### Armed Forces Commissioner[^c-8897afd84dc54827861088469c9348b6]
 
 - [Section 365AA — Armed Forces Commissioner](part-18/section-365aa.md)
 
-#### Provost Marshals[^key-735734224c34d03299001d2b3ce7c3d9]
+#### Provost Marshals[^c-735734224c34d03299001d2b3ce7c3d9]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 365A — Provost Marshals: appointment](part-18/section-365a.md)
 
-#### ...[^key-b907f1beba76d043eb64345df62ec6c2]
+#### ...[^c-b907f1beba76d043eb64345df62ec6c2]
 
 - [Section 365B — Service Complaints Ombudsman](part-18/section-365b.md)
 
-#### Service Police Complaints Commissioner[^key-e27355777cd372ab0d9d72c0b209c635]
+#### Service Police Complaints Commissioner[^c-e27355777cd372ab0d9d72c0b209c635]
 
 - [Section 365BA — Service Police Complaints Commissioner](part-18/section-365ba.md)
 - [Section 365BB — Investigating officers](part-18/section-365bb.md)
 
-#### ...[^key-ca13731d3a7e679b6b28f5f7e82782cc]
+#### ...[^c-ca13731d3a7e679b6b28f5f7e82782cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -1087,7 +1087,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 371 — Naval chaplains](part-19/section-371.md)
 
-##### Protected prisoners of war[^key-995cba82084576464638e4f41032db7f]
+##### Protected prisoners of war[^c-995cba82084576464638e4f41032db7f]
 
 - [Section 371A — Power to make provision in relation to protected prisoners of war](part-19/section-371a.md)
 
@@ -1158,100 +1158,100 @@ SCHEDULES
 
 ## Annotations
 
-[^key-9be4c423ce5110e30e03264097956f5e]: Textual amendment: Act expires on 15.12.2022 by virtue of s. 382 (as substituted (15.12.2021) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/1/1), [24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)) (subject to power to continue in s. 382(2)(3) as so substituted)
+[^c-9be4c423ce5110e30e03264097956f5e]: Textual amendment: Act expires on 15.12.2022 by virtue of s. 382 (as substituted (15.12.2021) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/1/1), [24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)) (subject to power to continue in s. 382(2)(3) as so substituted)
 
-[^key-8fadcd0a30be0caa2abb93bc55e7f327]: Modification: Act modified (except for ss. 143, 156) (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/826/regulation/3/1) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))
+[^c-8fadcd0a30be0caa2abb93bc55e7f327]: Modification: Act modified (except for ss. 143, 156) (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/826/regulation/3/1) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))
 
-[^key-c900e6245a5b033376a5bb24ee51d987]: Modification: Act restored (Isle of Man and Overseas Territories, except Gibraltar) (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/13/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/21/section/13/2)
+[^c-c900e6245a5b033376a5bb24ee51d987]: Modification: Act restored (Isle of Man and Overseas Territories, except Gibraltar) (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/13/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/21/section/13/2)
 
-[^key-3a86c6635108088c84ac69bfe70611c1]: Modification: Act continued until 15.12.2024 (11.10.2023) by [The Armed Forces Act 2006 (Continuation) Order 2023 (S.I. 2023/1086)](https://www.legislation.gov.uk/uksi/2023/1086), [art. 2](https://www.legislation.gov.uk/uksi/2023/1086/article/2)
+[^c-3a86c6635108088c84ac69bfe70611c1]: Modification: Act continued until 15.12.2024 (11.10.2023) by [The Armed Forces Act 2006 (Continuation) Order 2023 (S.I. 2023/1086)](https://www.legislation.gov.uk/uksi/2023/1086), [art. 2](https://www.legislation.gov.uk/uksi/2023/1086/article/2)
 
-[^key-e15af023b60116605796789a63d5f41d]: Modification: Act continued until 15.12.2025 (6.11.2024) by [The Armed Forces Act 2006 (Continuation) Order 2024 (S.I. 2024/1120)](https://www.legislation.gov.uk/uksi/2024/1120), [art. 2](https://www.legislation.gov.uk/uksi/2024/1120/article/2)
+[^c-e15af023b60116605796789a63d5f41d]: Modification: Act continued until 15.12.2025 (6.11.2024) by [The Armed Forces Act 2006 (Continuation) Order 2024 (S.I. 2024/1120)](https://www.legislation.gov.uk/uksi/2024/1120), [art. 2](https://www.legislation.gov.uk/uksi/2024/1120/article/2)
 
 [^M_C_e5000a72-5b19-4d36-e33a-3d7e8047a325]: Modification: Act continued until 15.12.2026 (15.10.2025) by [The Armed Forces Act 2006 (Continuation) Order 2025 (S.I. 2025/1096)](https://www.legislation.gov.uk/uksi/2025/1096), [art. 2](https://www.legislation.gov.uk/uksi/2025/1096/article/2)
 
-[^key-7dd2d1905e942097896567aa3740dedc]: Textual amendment: Words in s. 39 cross-heading substituted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2007/27/schedule/5/paragraph/10) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-7dd2d1905e942097896567aa3740dedc]: Textual amendment: Words in s. 39 cross-heading substituted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2007/27/schedule/5/paragraph/10) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-1b9e4d2c3575457b3be352c095386b83]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2006/52/part/3) applied (with modifications) (19.6.2023) by [The Service Police (Complaints etc.) Regulations 2023 (S.I. 2023/624)](https://www.legislation.gov.uk/uksi/2023/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2023/624/schedule/1/paragraph/3)
+[^c-1b9e4d2c3575457b3be352c095386b83]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2006/52/part/3) applied (with modifications) (19.6.2023) by [The Service Police (Complaints etc.) Regulations 2023 (S.I. 2023/624)](https://www.legislation.gov.uk/uksi/2023/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2023/624/schedule/1/paragraph/3)
 
-[^key-b04ece7f60dc61a439e6ec73391a4d6c]: Textual amendment: Pt. 3 Ch. 3A inserted (8.3.2012 for specified purposes, 1.11.2013 in so far as not already in force) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/669/article/3/c); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)
+[^c-b04ece7f60dc61a439e6ec73391a4d6c]: Textual amendment: Pt. 3 Ch. 3A inserted (8.3.2012 for specified purposes, 1.11.2013 in so far as not already in force) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/669/article/3/c); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)
 
-[^key-c8f2e8c32794a6603caf23e5c60f1045]: Textual amendment: Words in Pt. 3 Ch. 3A heading substituted (19.7.2018 for specified purposes, 1.1.2019 in so far as not already in force) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/2/1), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2018/876](https://www.legislation.gov.uk/uksi/2018/876), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/876/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2018/876/regulation/2/b)
+[^c-c8f2e8c32794a6603caf23e5c60f1045]: Textual amendment: Words in Pt. 3 Ch. 3A heading substituted (19.7.2018 for specified purposes, 1.1.2019 in so far as not already in force) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/2/1), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2018/876](https://www.legislation.gov.uk/uksi/2018/876), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/876/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2018/876/regulation/2/b)
 
-[^key-f815d5b00e489ca2380c3b7cbf4b4a8d]: Modification: Pt. 4 modified by 1968 c. 20, s. 20(1G)(1H) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 21(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/21/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
+[^c-f815d5b00e489ca2380c3b7cbf4b4a8d]: Modification: Pt. 4 modified by 1968 c. 20, s. 20(1G)(1H) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 21(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/21/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
 
-[^key-0c8f9ef57f37e902f73fc18a126184c0]: Modification: Pt. 4 modified (1.8.2013) by [The Armed Forces (Retrial for Serious Offences) Order 2013 (S.I. 2013/1852)](https://www.legislation.gov.uk/uksi/2013/1852), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1), [25(3)](https://www.legislation.gov.uk/uksi/2013/1852/article/25/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1852/article/25/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/1852/article/3))
+[^c-0c8f9ef57f37e902f73fc18a126184c0]: Modification: Pt. 4 modified (1.8.2013) by [The Armed Forces (Retrial for Serious Offences) Order 2013 (S.I. 2013/1852)](https://www.legislation.gov.uk/uksi/2013/1852), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1), [25(3)](https://www.legislation.gov.uk/uksi/2013/1852/article/25/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1852/article/25/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/1852/article/3))
 
-[^key-24af7ca7e8ac2629c85b6d59ef3b900d]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2006/52/part/4) applied (with modifications) (19.6.2023) by [The Service Police (Complaints etc.) Regulations 2023 (S.I. 2023/624)](https://www.legislation.gov.uk/uksi/2023/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2023/624/schedule/1/paragraph/3)
+[^c-24af7ca7e8ac2629c85b6d59ef3b900d]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2006/52/part/4) applied (with modifications) (19.6.2023) by [The Service Police (Complaints etc.) Regulations 2023 (S.I. 2023/624)](https://www.legislation.gov.uk/uksi/2023/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2023/624/schedule/1/paragraph/3)
 
-[^key-ef1499dc384489094fac5c69dcee6519]: Textual amendment: S. 115A and cross-heading inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 3](https://www.legislation.gov.uk/ukpga/2011/18/section/3), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-ef1499dc384489094fac5c69dcee6519]: Textual amendment: S. 115A and cross-heading inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 3](https://www.legislation.gov.uk/ukpga/2011/18/section/3), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
 
-[^key-838476643443b74d7996a607b0adb41c]: Modification: Pt. 7 modified (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 128(1)](https://www.legislation.gov.uk/uksi/2009/2041/rule/128/1)
+[^c-838476643443b74d7996a607b0adb41c]: Modification: Pt. 7 modified (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 128(1)](https://www.legislation.gov.uk/uksi/2009/2041/rule/128/1)
 
-[^key-0cf7b9b2a7b613c20d2952d331a9453d]: Modification: Pt. 8 applied (with modifications) (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 128(2)](https://www.legislation.gov.uk/uksi/2009/2041/rule/128/2)
+[^c-0cf7b9b2a7b613c20d2952d331a9453d]: Modification: Pt. 8 applied (with modifications) (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 128(2)](https://www.legislation.gov.uk/uksi/2009/2041/rule/128/2)
 
-[^key-b6456bc364a337471eeaa9dd5ac010d5]: Textual amendment: Ss. 177B-177F and cross-heading inserted (1.5.2022 for specified purposes, 22.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2021/35/section/14/4), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 3](https://www.legislation.gov.uk/uksi/2023/1102/regulation/3)
+[^c-b6456bc364a337471eeaa9dd5ac010d5]: Textual amendment: Ss. 177B-177F and cross-heading inserted (1.5.2022 for specified purposes, 22.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2021/35/section/14/4), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 3](https://www.legislation.gov.uk/uksi/2023/1102/regulation/3)
 
-[^key-99e777f3a0dc9a87a1663915164c8f7a]: Textual amendment: Ss. 177G-177M and cross-heading inserted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2021/35/section/15/3), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)
+[^c-99e777f3a0dc9a87a1663915164c8f7a]: Textual amendment: Ss. 177G-177M and cross-heading inserted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2021/35/section/15/3), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)
 
-[^key-12cd8d9c090120a7b3ca73dca06a9d32]: Textual amendment: Words in Pt. 8 Ch. 4 heading substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 17](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/17) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-12cd8d9c090120a7b3ca73dca06a9d32]: Textual amendment: Words in Pt. 8 Ch. 4 heading substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 17](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/17) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-438c499e5f68c880aa59b129e5e63d0c]: Textual amendment: S. 196 cross-heading omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 18](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/18) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-438c499e5f68c880aa59b129e5e63d0c]: Textual amendment: S. 196 cross-heading omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 18](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/18) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-58769e692f8ebe4fb012abc4b1587fb9]: Textual amendment: S. 219 cross-heading substituted (31.10.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 25 para. 13(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/25/paragraph/13/4); [S.I. 2009/1028](https://www.legislation.gov.uk/uksi/2009/1028), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1028/article/2/b)
+[^c-58769e692f8ebe4fb012abc4b1587fb9]: Textual amendment: S. 219 cross-heading substituted (31.10.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 25 para. 13(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/25/paragraph/13/4); [S.I. 2009/1028](https://www.legislation.gov.uk/uksi/2009/1028), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1028/article/2/b)
 
-[^key-0758b5a0a2129c1e033e8d77b6cb9e1f]: Textual amendment: Ss. 232A-232G and cross-heading inserted (8.3.2012 for specified purposes) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/17/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(d)](https://www.legislation.gov.uk/uksi/2012/669/article/3/d)
+[^c-0758b5a0a2129c1e033e8d77b6cb9e1f]: Textual amendment: Ss. 232A-232G and cross-heading inserted (8.3.2012 for specified purposes) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/17/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(d)](https://www.legislation.gov.uk/uksi/2012/669/article/3/d)
 
-[^key-57ef90658489b92d28c7ccaafb245daf]: Textual amendment: Ss. 236A, 236B and cross-heading inserted (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/8/2) (with [s. 66(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/66/5)); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k) (with [Sch. paras. 9(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/4))
+[^c-57ef90658489b92d28c7ccaafb245daf]: Textual amendment: Ss. 236A, 236B and cross-heading inserted (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/10/paragraph/8/2) (with [s. 66(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/66/5)); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/k) (with [Sch. paras. 9(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/4))
 
-[^key-fb0e15c8a377c4a2ce85152a7a1b36d9]: Modification: Pt. 9 modified (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [s. 163](https://www.legislation.gov.uk/uksi/2009/2041/section/163)
+[^c-fb0e15c8a377c4a2ce85152a7a1b36d9]: Modification: Pt. 9 modified (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [s. 163](https://www.legislation.gov.uk/uksi/2009/2041/section/163)
 
-[^key-8d2c326262b1ea2be093618df5ae7c82]: Textual amendment: [S. 253A](https://www.legislation.gov.uk/ukpga/2006/52/section/253A) and cross-heading inserted (5.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/b)
+[^c-8d2c326262b1ea2be093618df5ae7c82]: Textual amendment: [S. 253A](https://www.legislation.gov.uk/ukpga/2006/52/section/253A) and cross-heading inserted (5.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/b)
 
-[^key-8187e943c96f2365f791321ffd9be13b]: Modification: Pts. 11-13 applied (with modifications) (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 128(3)](https://www.legislation.gov.uk/uksi/2009/2041/rule/128/3)[(4)](https://www.legislation.gov.uk/uksi/2009/2041/rule/128/4)
+[^c-8187e943c96f2365f791321ffd9be13b]: Modification: Pts. 11-13 applied (with modifications) (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 128(3)](https://www.legislation.gov.uk/uksi/2009/2041/rule/128/3)[(4)](https://www.legislation.gov.uk/uksi/2009/2041/rule/128/4)
 
 [^M_C_c6b1b8cc-81e6-4d70-9ac1-267f4809b43f]: Modification: [Pt. 12A](https://www.legislation.gov.uk/ukpga/2006/52/part/12A) applied (with modifications) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 106A](https://www.legislation.gov.uk/uksi/2009/1059/article/106A) (as inserted (16.10.2024) by [S.I. 2024/619](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [44(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/44/2))
 
-[^key-99a976f6c0eb62a36cf6e9caec64ec3b]: Textual amendment: [Pt. 12A heading and s. 304A](https://www.legislation.gov.uk/ukpga/2006/52/part/12A) inserted (16.10.2024) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 7](https://www.legislation.gov.uk/ukpga/2016/21/section/7), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
+[^c-99a976f6c0eb62a36cf6e9caec64ec3b]: Textual amendment: [Pt. 12A heading and s. 304A](https://www.legislation.gov.uk/ukpga/2006/52/part/12A) inserted (16.10.2024) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 7](https://www.legislation.gov.uk/ukpga/2016/21/section/7), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
 
-[^key-f8d98233eae1c93eec8e14cbc55b24e3]: Textual amendment: Pt. 13 Ch. 1 heading substituted (1.11.2013) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/10); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/d)
+[^c-f8d98233eae1c93eec8e14cbc55b24e3]: Textual amendment: Pt. 13 Ch. 1 heading substituted (1.11.2013) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/10); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/d)
 
-[^key-4331273ee778c30f5f9004a90f9b0044]: Textual amendment: [Pt. 13 Ch. 3A](https://www.legislation.gov.uk/ukpga/2006/52/part/13/chapter/3A) inserted (1.5.2022 for specified purposes, 13.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 7](https://www.legislation.gov.uk/ukpga/2021/35/section/7), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/4/b); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)
+[^c-4331273ee778c30f5f9004a90f9b0044]: Textual amendment: [Pt. 13 Ch. 3A](https://www.legislation.gov.uk/ukpga/2006/52/part/13/chapter/3A) inserted (1.5.2022 for specified purposes, 13.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 7](https://www.legislation.gov.uk/ukpga/2021/35/section/7), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/4/b); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)
 
-[^key-aea2546a6607303b7c92456248c83c5f]: Textual amendment: Pt. 13 Ch. 4A inserted (4.6.2014) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 4](https://www.legislation.gov.uk/ukpga/2011/18/section/4), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2014/1444](https://www.legislation.gov.uk/uksi/2014/1444), [art. 3](https://www.legislation.gov.uk/uksi/2014/1444/article/3)
+[^c-aea2546a6607303b7c92456248c83c5f]: Textual amendment: Pt. 13 Ch. 4A inserted (4.6.2014) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 4](https://www.legislation.gov.uk/ukpga/2011/18/section/4), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2014/1444](https://www.legislation.gov.uk/uksi/2014/1444), [art. 3](https://www.legislation.gov.uk/uksi/2014/1444/article/3)
 
-[^key-3436703dd5bf8bc084795dbbcb110bec]: Modification: [Pt. 14A](https://www.legislation.gov.uk/ukpga/2006/52/part/14A) modified (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/23/section/2), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-3436703dd5bf8bc084795dbbcb110bec]: Modification: [Pt. 14A](https://www.legislation.gov.uk/ukpga/2006/52/part/14A) modified (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/23/section/2), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-90ae8b9d401b11d41781b0bdcd186097]: Textual amendment: Pt. 14A inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/2/1), [7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-90ae8b9d401b11d41781b0bdcd186097]: Textual amendment: Pt. 14A inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/2/1), [7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-6e1e7f5817bdc968d7f37f8c42820b12]: Textual amendment: [Pt. 14A](https://www.legislation.gov.uk/ukpga/2006/52/part/14A) heading substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/9); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-6e1e7f5817bdc968d7f37f8c42820b12]: Textual amendment: [Pt. 14A](https://www.legislation.gov.uk/ukpga/2006/52/part/14A) heading substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/9); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-388a33a445da00ef955829b960f79a56]: Textual amendment: Words in [s. 340H cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/14A/crossheading/investigations-by-service-complaints-ombudsman) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 10(d)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/10/d); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-388a33a445da00ef955829b960f79a56]: Textual amendment: Words in [s. 340H cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/14A/crossheading/investigations-by-service-complaints-ombudsman) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 10(d)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/10/d); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-abba59e02b2aeebf506332bc325a0caa]: Textual amendment: Words in [s. 340H cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/14A/crossheading/investigations-by-service-complaints-ombudsman) inserted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/13); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-abba59e02b2aeebf506332bc325a0caa]: Textual amendment: Words in [s. 340H cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/14A/crossheading/investigations-by-service-complaints-ombudsman) inserted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/13); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-50eae3b6475a2a8194a4a7ff9315b8b5]: Textual amendment: [Ss. 340IA](https://www.legislation.gov.uk/ukpga/2006/52/section/340IA), [340IB](https://www.legislation.gov.uk/ukpga/2006/52/section/340IB) and cross-heading inserted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/4/2), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(c)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-50eae3b6475a2a8194a4a7ff9315b8b5]: Textual amendment: [Ss. 340IA](https://www.legislation.gov.uk/ukpga/2006/52/section/340IA), [340IB](https://www.legislation.gov.uk/ukpga/2006/52/section/340IB) and cross-heading inserted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/4/2), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(c)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-443bc119eda9ff8b2225c6abd1b92e2f]: Textual amendment: [S. 340J cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/14A/crossheading/investigations-by-service-complaints-ombudsman) inserted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/16); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-443bc119eda9ff8b2225c6abd1b92e2f]: Textual amendment: [S. 340J cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/14A/crossheading/investigations-by-service-complaints-ombudsman) inserted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/16); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-416dbb8add5c833699aeb7542d3c0c4b]: Textual amendment: Words in [s. 340N cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/14A/crossheading/service-complaints-ombudsmans-function-of-referring-allegations) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 19(b)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/19/b); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-416dbb8add5c833699aeb7542d3c0c4b]: Textual amendment: Words in [s. 340N cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/14A/crossheading/service-complaints-ombudsmans-function-of-referring-allegations) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 19(b)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/19/b); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-8e0cf1d29e4c3f79b843941a89a03607]: Textual amendment: Words in [s. 340O cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/14A/crossheading/annual-report-by-service-complaints-ombudsman) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 10(k)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/10/k); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-8e0cf1d29e4c3f79b843941a89a03607]: Textual amendment: Words in [s. 340O cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/14A/crossheading/annual-report-by-service-complaints-ombudsman) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 10(k)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/10/k); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-055816b70ce2588ef18313cb0490faf2]: Textual amendment: [Pt. 14B](https://www.legislation.gov.uk/ukpga/2006/52/part/14B) inserted (1.11.2022 for specified purposes, 20.2.2023 for specified purposes, 19.6.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2021/35/section/11/3), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 4](https://www.legislation.gov.uk/uksi/2023/158/regulation/4); [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-055816b70ce2588ef18313cb0490faf2]: Textual amendment: [Pt. 14B](https://www.legislation.gov.uk/ukpga/2006/52/part/14B) inserted (1.11.2022 for specified purposes, 20.2.2023 for specified purposes, 19.6.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2021/35/section/11/3), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 4](https://www.legislation.gov.uk/uksi/2023/158/regulation/4); [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
 
-[^key-95b2ac701edc20c3d5e680ceb5b025fc]: Textual amendment: Pt. 16A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 2](https://www.legislation.gov.uk/ukpga/2011/18/section/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-95b2ac701edc20c3d5e680ceb5b025fc]: Textual amendment: Pt. 16A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 2](https://www.legislation.gov.uk/ukpga/2011/18/section/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
 
-[^key-e5245928b1ea9f083b0107aa100295f3]: Textual amendment: Word in [Pt. 16A](https://www.legislation.gov.uk/ukpga/2006/52/part/16A) heading omitted (1.5.2022 for specified purposes, 22.11.2022 in so far as not already in force) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2021/35/section/8/2), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 3](https://www.legislation.gov.uk/uksi/2022/471/regulation/3); [S.I. 2022/1161](https://www.legislation.gov.uk/uksi/2022/1161), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1161/regulation/3)
+[^c-e5245928b1ea9f083b0107aa100295f3]: Textual amendment: Word in [Pt. 16A](https://www.legislation.gov.uk/ukpga/2006/52/part/16A) heading omitted (1.5.2022 for specified purposes, 22.11.2022 in so far as not already in force) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2021/35/section/8/2), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 3](https://www.legislation.gov.uk/uksi/2022/471/regulation/3); [S.I. 2022/1161](https://www.legislation.gov.uk/uksi/2022/1161), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1161/regulation/3)
 
-[^key-8897afd84dc54827861088469c9348b6]: Textual amendment: S. 365AA and cross-heading inserted (2.3.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2025/23/section/1/1), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-8897afd84dc54827861088469c9348b6]: Textual amendment: S. 365AA and cross-heading inserted (2.3.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2025/23/section/1/1), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-735734224c34d03299001d2b3ce7c3d9]: Textual amendment: S. 365A and cross-heading inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 5](https://www.legislation.gov.uk/ukpga/2011/18/section/5), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-735734224c34d03299001d2b3ce7c3d9]: Textual amendment: S. 365A and cross-heading inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 5](https://www.legislation.gov.uk/ukpga/2011/18/section/5), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
 
-[^key-b907f1beba76d043eb64345df62ec6c2]: Textual amendment: [S. 365B and cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/18/crossheading/service-complaints-ombudsman) omitted (1.4.2026) by virtue of [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2025/23/section/1/3), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-b907f1beba76d043eb64345df62ec6c2]: Textual amendment: [S. 365B and cross-heading](https://www.legislation.gov.uk/ukpga/2006/52/part/18/crossheading/service-complaints-ombudsman) omitted (1.4.2026) by virtue of [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2025/23/section/1/3), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-e27355777cd372ab0d9d72c0b209c635]: Textual amendment: Ss. 365BA, 365BB and cross-heading inserted (1.11.2022 for specified purposes, 20.2.2023 for specified purposes, 19.6.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2021/35/section/11/2), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 4](https://www.legislation.gov.uk/uksi/2023/158/regulation/4); [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-e27355777cd372ab0d9d72c0b209c635]: Textual amendment: Ss. 365BA, 365BB and cross-heading inserted (1.11.2022 for specified purposes, 20.2.2023 for specified purposes, 19.6.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2021/35/section/11/2), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 4](https://www.legislation.gov.uk/uksi/2023/158/regulation/4); [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
 
-[^key-ca13731d3a7e679b6b28f5f7e82782cc]: Textual amendment: S. 366 and cross-heading omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2015/19/section/1/3), [7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-ca13731d3a7e679b6b28f5f7e82782cc]: Textual amendment: S. 366 and cross-heading omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2015/19/section/1/3), [7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-995cba82084576464638e4f41032db7f]: Textual amendment: S. 371A and cross-heading inserted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/23/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+[^c-995cba82084576464638e4f41032db7f]: Textual amendment: S. 371A and cross-heading inserted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/23/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)

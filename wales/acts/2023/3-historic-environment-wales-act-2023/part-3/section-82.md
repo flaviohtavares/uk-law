@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Supplementary provision about reviews[^key-f3fce63e708508a1d15bb744e7c02c42][^key-aa99ec4e57c38da5c784996afc3eae9d]
+## 82. Supplementary provision about reviews[^c-f3fce63e708508a1d15bb744e7c02c42][^c-aa99ec4e57c38da5c784996afc3eae9d]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3fce63e708508a1d15bb744e7c02c42]: Commencement: S. 82 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-f3fce63e708508a1d15bb744e7c02c42]: Commencement: S. 82 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-aa99ec4e57c38da5c784996afc3eae9d]: Commencement: [S. 82](https://www.legislation.gov.uk/asc/2023/3/section/82) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-aa99ec4e57c38da5c784996afc3eae9d]: Commencement: [S. 82](https://www.legislation.gov.uk/asc/2023/3/section/82) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

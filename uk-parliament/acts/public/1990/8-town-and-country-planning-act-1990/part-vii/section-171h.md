@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 171H. Temporary stop notice: compensation[^key-20342f9292d6e85d7b7d691d6b50d95f]
+## 171H. Temporary stop notice: compensation[^c-20342f9292d6e85d7b7d691d6b50d95f]
 
 *Extent: E+W*
 
 (1) This section applies if and only if a temporary stop notice is issued and at least one of the following paragraphs applies—
 
-- (a) the activity which is specified in the notice is authorised by planning permission or by a development order, a local development order or a neighbourhood development order[^key-650837354a42c0d1c74c74fb4bdf3e6e];
+- (a) the activity which is specified in the notice is authorised by planning permission or by a development order, a local development order or a neighbourhood development order[^c-650837354a42c0d1c74c74fb4bdf3e6e];
 - (b) a certificate in respect of the activity is issued under section 191 or granted under that section by virtue of section 195;
 - (c) the authority withdraws the notice.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20342f9292d6e85d7b7d691d6b50d95f]: Textual amendment: Ss. 171E-171H and cross-heading inserted (6.8.2004 for specified purposes, 7.3.2005 for E. so far as not already in force, 22.6.2015 for W. so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 52](https://www.legislation.gov.uk/ukpga/2004/5/section/52), [s. 121(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2005/204](https://www.legislation.gov.uk/uksi/2005/204), [art. 2](https://www.legislation.gov.uk/uksi/2005/204/article/2); [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/340/article/2/c)
+[^c-20342f9292d6e85d7b7d691d6b50d95f]: Textual amendment: Ss. 171E-171H and cross-heading inserted (6.8.2004 for specified purposes, 7.3.2005 for E. so far as not already in force, 22.6.2015 for W. so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 52](https://www.legislation.gov.uk/ukpga/2004/5/section/52), [s. 121(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2005/204](https://www.legislation.gov.uk/uksi/2005/204), [art. 2](https://www.legislation.gov.uk/uksi/2005/204/article/2); [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/340/article/2/c)
 
-[^key-650837354a42c0d1c74c74fb4bdf3e6e]: Textual amendment: Words in s. 171H(1)(a) substituted (15.11.2011 for specified purposes, 15.1.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2011/20/schedule/12/paragraph/17); S.I. 2012/57, art. 4(1)(h) (with arts. 6, 7, 9-11)
+[^c-650837354a42c0d1c74c74fb4bdf3e6e]: Textual amendment: Words in s. 171H(1)(a) substituted (15.11.2011 for specified purposes, 15.1.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2011/20/schedule/12/paragraph/17); S.I. 2012/57, art. 4(1)(h) (with arts. 6, 7, 9-11)

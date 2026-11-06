@@ -91,11 +91,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 23 — Joint working with the prison service](part-1/section-23.md)
 - [Section 24 — Health and well-being strategies in Wales](part-1/section-24.md)
 
-### Part 2 — Health and Social Care Professions etc.[^key-abe673062bea60657066275bcb1ef0fa]
+### Part 2 — Health and Social Care Professions etc.[^c-abe673062bea60657066275bcb1ef0fa]
 
 *Extent: E+W+S+N.I.*
 
-#### The Professional Standards Authority for Health and Social Care[^key-c748c302c47b161b9fbd67f93a30ea23]
+#### The Professional Standards Authority for Health and Social Care[^c-c748c302c47b161b9fbd67f93a30ea23]
 
 *Extent: E+W+S+N.I.*
 
@@ -156,6 +156,6 @@ SCHEDULES
 
 [^c23368931]: Modification: Act extended in part (Isles of Scilly) (with modifications) (8.2.2003) by [The National Health Service Reform and Health Care Professions Act 2002 (Isles of Scilly) Order 2003 (S.I. 2003/50)](https://www.legislation.gov.uk/uksi/2003/50), [arts. 1](https://www.legislation.gov.uk/uksi/2003/50/article/1), [2](https://www.legislation.gov.uk/uksi/2003/50/article/2)
 
-[^key-abe673062bea60657066275bcb1ef0fa]: Textual amendment: Pt. 2 title substituted (1.12.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 222(5)](https://www.legislation.gov.uk/ukpga/2012/7/section/222/5), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)
+[^c-abe673062bea60657066275bcb1ef0fa]: Textual amendment: Pt. 2 title substituted (1.12.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 222(5)](https://www.legislation.gov.uk/ukpga/2012/7/section/222/5), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)
 
-[^key-c748c302c47b161b9fbd67f93a30ea23]: Textual amendment: S. 25 crossheading substituted (1.12.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 222(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/222/4), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)
+[^c-c748c302c47b161b9fbd67f93a30ea23]: Textual amendment: S. 25 crossheading substituted (1.12.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 222(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/222/4), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)

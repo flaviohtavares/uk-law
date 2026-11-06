@@ -29,11 +29,11 @@ shall be guilty of an offence.
 
 (2) For the purposes of this section—
 
-- (a)[^key-c39f3644058cddcf21e6ff683eb8d914] the quantity of goods in a package, or of a loaf of bread, to which the packaged goods regulations apply shall be deemed to be the nominal quantity (within the meaning of those regulations) of the package or the loaf of bread; and
+- (a)[^c-c39f3644058cddcf21e6ff683eb8d914] the quantity of goods in a package, or of a loaf of bread, to which the packaged goods regulations apply shall be deemed to be the nominal quantity (within the meaning of those regulations) of the package or the loaf of bread; and
 - (b) any statement, whether oral or in writing, as to the weight of any goods shall be taken, unless otherwise expressed, to be a statement as to the net weight of the goods.
 
 (3) Nothing in this section shall apply in relation to any such goods or sales as are mentioned in section 24(2)(a) or (b) above.
 
 ## Annotations
 
-[^key-c39f3644058cddcf21e6ff683eb8d914]: Textual amendment: S. 28(2)(a) substituted (6.4.2006) by [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 2(4)](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/2/4) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))
+[^c-c39f3644058cddcf21e6ff683eb8d914]: Textual amendment: S. 28(2)(a) substituted (6.4.2006) by [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 2(4)](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/2/4) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))

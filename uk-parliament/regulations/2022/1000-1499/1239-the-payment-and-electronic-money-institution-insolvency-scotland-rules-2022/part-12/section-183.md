@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 183. Information to be contained in all notifications to the registrar of companies[^key-998b493d99f843d5cb1bc2faa096cb7b]
+## 183. Information to be contained in all notifications to the registrar of companies[^c-998b493d99f843d5cb1bc2faa096cb7b]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-998b493d99f843d5cb1bc2faa096cb7b]: Commencement: Rule 183 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-998b493d99f843d5cb1bc2faa096cb7b]: Commencement: Rule 183 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

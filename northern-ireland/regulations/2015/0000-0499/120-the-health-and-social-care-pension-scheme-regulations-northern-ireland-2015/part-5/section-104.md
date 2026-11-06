@@ -45,7 +45,7 @@ summary: ''
 
 (7) In this regulation and regulation 105—
 
-- “**re-valued pensionable earnings**” means in relation to each scheme year in the earnings reference period, the pensionable earnings for that year increased up to the beginning date for the old service pension by the rate of change in prices specified by the Department of Finance [^key-ab7fd019c81131ba820f476a3e1ea795]... by order (in respect of the HSC Pension Scheme 2015)[^key-8d134afed42b3774668667459e35a187] under section 9 of the 2014 Act;
+- “**re-valued pensionable earnings**” means in relation to each scheme year in the earnings reference period, the pensionable earnings for that year increased up to the beginning date for the old service pension by the rate of change in prices specified by the Department of Finance [^c-ab7fd019c81131ba820f476a3e1ea795]... by order (in respect of the HSC Pension Scheme 2015)[^c-8d134afed42b3774668667459e35a187] under section 9 of the 2014 Act;
 - “the earnings reference period” is the period ending on the last day of the scheme year immediately preceding the scheme year in which the employed pensioner left the old employment and starting on the later of—
   - (a) the first day of the scheme year in which the employed pensioner first joined this scheme; and
   - (b) the first day of the tenth scheme year preceding the scheme year in which the employed pensioner left the old employment.
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ab7fd019c81131ba820f476a3e1ea795]: Textual amendment: Words in [reg. 104(7)](https://www.legislation.gov.uk/nisr/2015/120/regulation/104/7) omitted (1.4.2023) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [23](https://www.legislation.gov.uk/nisr/2023/33/regulation/23)
+[^c-ab7fd019c81131ba820f476a3e1ea795]: Textual amendment: Words in [reg. 104(7)](https://www.legislation.gov.uk/nisr/2015/120/regulation/104/7) omitted (1.4.2023) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [23](https://www.legislation.gov.uk/nisr/2023/33/regulation/23)
 
-[^key-8d134afed42b3774668667459e35a187]: Textual amendment: Words in [reg. 104(7)](https://www.legislation.gov.uk/nisr/2015/120/regulation/104/7) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [23](https://www.legislation.gov.uk/nisr/2023/33/regulation/23)
+[^c-8d134afed42b3774668667459e35a187]: Textual amendment: Words in [reg. 104(7)](https://www.legislation.gov.uk/nisr/2015/120/regulation/104/7) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [23](https://www.legislation.gov.uk/nisr/2023/33/regulation/23)
 
 [^c22440581]: Marginal citation: [1972 c.35 (N.I.)](https://www.legislation.gov.uk/apni/1972/35) Section 8(2) was amended by Article 3(5) of the Pensions (Miscellaneous Provisions) (Northern Ireland) Order 1990, (1990 /1509 (N.I. 13)) and Articles 36(1) and (3) of the Welfare Reform and Pensions (Northern Ireland) Order 1999, (1999/3147 (N.I.11))

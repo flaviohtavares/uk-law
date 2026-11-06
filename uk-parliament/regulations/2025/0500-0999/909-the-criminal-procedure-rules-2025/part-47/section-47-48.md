@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.48. Application for an investigation anonymity order[^key-a66535cbdde82d547a7d8b45981bf8b4]
+## 47.48. Application for an investigation anonymity order[^c-a66535cbdde82d547a7d8b45981bf8b4]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a66535cbdde82d547a7d8b45981bf8b4]: Commencement: Rule 47.48 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a66535cbdde82d547a7d8b45981bf8b4]: Commencement: Rule 47.48 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01249]: Footnote: [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25).

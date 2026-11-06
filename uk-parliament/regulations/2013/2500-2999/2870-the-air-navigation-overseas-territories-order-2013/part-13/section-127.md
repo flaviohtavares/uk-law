@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Aerial work operations[^key-2625be625f71b1859046e27badaa9041]
+## 127. Aerial work operations[^c-2625be625f71b1859046e27badaa9041]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2625be625f71b1859046e27badaa9041]: Commencement: [Art. 127](https://www.legislation.gov.uk/uksi/2013/2870/article/127) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-2625be625f71b1859046e27badaa9041]: Commencement: [Art. 127](https://www.legislation.gov.uk/uksi/2013/2870/article/127) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

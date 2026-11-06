@@ -37,38 +37,38 @@ laying down detailed rules for the application of the arrangements for additiona
 
 (Codified version) (revoked)
 
-[^key-b5af01db3326db997dd5f9f2f39c1eab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5af01db3326db997dd5f9f2f39c1eab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-b5af01db3326db997dd5f9f2f39c1eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5af01db3326db997dd5f9f2f39c1eab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5af01db3326db997dd5f9f2f39c1eab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-b5af01db3326db997dd5f9f2f39c1eab]
+## ANNEX I[^c-b5af01db3326db997dd5f9f2f39c1eab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-b5af01db3326db997dd5f9f2f39c1eab]
+## ANNEX II[^c-b5af01db3326db997dd5f9f2f39c1eab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-b5af01db3326db997dd5f9f2f39c1eab]
+## ANNEX III[^c-b5af01db3326db997dd5f9f2f39c1eab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b5af01db3326db997dd5f9f2f39c1eab]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-b5af01db3326db997dd5f9f2f39c1eab]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

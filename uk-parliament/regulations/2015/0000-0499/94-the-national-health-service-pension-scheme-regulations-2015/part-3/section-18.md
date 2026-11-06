@@ -23,7 +23,7 @@ summary: ''
 (1) Subject to regulation 19, a person is eligible to join this scheme if the person is a health service worker and is—
 
 - (a) employed by an NHS organisation listed in Part 1 of Schedule 5;
-- (b)[^key-ca03a78436daebb65117b08c132e9610] an individual who is a medical contractor, or who is employed by a medical contractor or dental contractor, listed in Part 2 of that Schedule;
+- (b)[^c-ca03a78436daebb65117b08c132e9610] an individual who is a medical contractor, or who is employed by a medical contractor or dental contractor, listed in Part 2 of that Schedule;
 - (c) an individual who is employed by an independent provider in circumstances described in paragraph (4);
 - (d) an individual who is a medical practitioner or dental practitioner listed in Part 3 of that Schedule; or
 - (e) who is employed by a determination employer: see Part 4 of that Schedule.
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca03a78436daebb65117b08c132e9610]: Textual amendment: [Reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/18/1/b) substituted (1.4.2015) by [The National Health Service Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/581)](https://www.legislation.gov.uk/uksi/2015/581), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/581/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2015/581/regulation/2/2)
+[^c-ca03a78436daebb65117b08c132e9610]: Textual amendment: [Reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/18/1/b) substituted (1.4.2015) by [The National Health Service Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/581)](https://www.legislation.gov.uk/uksi/2015/581), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/581/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2015/581/regulation/2/2)

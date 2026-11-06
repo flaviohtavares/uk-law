@@ -28,7 +28,7 @@ summary: ''
 
 (2) Subject to paragraph (3), where before the jobholder's automatic re-enrolment date, the jobholder is a member of a personal pension scheme, or in a case under section 6(5) of the Act a member of a personal pension scheme or an occupational pension scheme, the employer may meet the obligation in section 5(2) of the Act by—
 
-- (a) before the end of a period of six weeks[^key-62e37fe99bc075c44870e701bd2f568d] beginning with the automatic re-enrolment date, entering into arrangements with the provider or the trustees or managers of the scheme of which the jobholder is a member so that—
+- (a) before the end of a period of six weeks[^c-62e37fe99bc075c44870e701bd2f568d] beginning with the automatic re-enrolment date, entering into arrangements with the provider or the trustees or managers of the scheme of which the jobholder is a member so that—
   - (i) the scheme is an automatic enrolment scheme; and
   - (ii) the jobholder is an active member of that scheme; and
 - (b) satisfying the requirements of regulation 7, as if for all references in regulation 7 to “section 3(2)” there was substituted “ ;section 5(2) ” and for all references to “the automatic enrolment date” there was substituted “ ;the automatic re-enrolment date ”.
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62e37fe99bc075c44870e701bd2f568d]: Textual amendment: Words in reg. 13(2)(a) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/4)
+[^c-62e37fe99bc075c44870e701bd2f568d]: Textual amendment: Words in reg. 13(2)(a) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/4)

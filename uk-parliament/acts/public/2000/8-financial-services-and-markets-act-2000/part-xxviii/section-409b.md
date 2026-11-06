@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 409B. Notification in relation to international trade obligations[^key-fe99cec2d3008e11218212fd1e17db56]
+## 409B. Notification in relation to international trade obligations[^c-fe99cec2d3008e11218212fd1e17db56]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe99cec2d3008e11218212fd1e17db56]: Textual amendment: [S. 409B](https://www.legislation.gov.uk/ukpga/2000/8/section/409B) inserted (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 33](https://www.legislation.gov.uk/ukpga/2023/29/section/33), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3) (with savings in [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 4](https://www.legislation.gov.uk/uksi/2023/936/regulation/4/2/ea) (as amended (13.12.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 4 and Transitional and Saving Provisions) (Amendment) Regulations 2023 (S.I. 2023/1382)](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 18(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/18/a))); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2023/1382/regulation/15))
+[^c-fe99cec2d3008e11218212fd1e17db56]: Textual amendment: [S. 409B](https://www.legislation.gov.uk/ukpga/2000/8/section/409B) inserted (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 33](https://www.legislation.gov.uk/ukpga/2023/29/section/33), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3) (with savings in [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 4](https://www.legislation.gov.uk/uksi/2023/936/regulation/4/2/ea) (as amended (13.12.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 4 and Transitional and Saving Provisions) (Amendment) Regulations 2023 (S.I. 2023/1382)](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 18(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/18/a))); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2023/1382/regulation/15))

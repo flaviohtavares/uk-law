@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Land belonging to councils and development by councils[^key-edea08d64f1b807e2178dace1b1a0c56][^key-6109f39a49f37cfb89c13fc92c928bc8][^key-2f5f0ed73ae267031cc18d32f95f44b5][^key-2f5f0ed73ae267031cc18d32f95f44b5]
+## 79. Land belonging to councils and development by councils[^c-edea08d64f1b807e2178dace1b1a0c56][^c-6109f39a49f37cfb89c13fc92c928bc8][^c-2f5f0ed73ae267031cc18d32f95f44b5][^c-2f5f0ed73ae267031cc18d32f95f44b5]
 
 *Extent: N.I.*
 
@@ -43,7 +43,7 @@ subject to regulations made by virtue of this section.
 - (a) for applications for planning permission to develop such land, or for such development, to be determined by the interested council or by the Department; and
 - (b) for the procedure to be followed on such applications,
 
-and, in the case of applications falling to be determined by an interested council, they may regulate the council's arrangements for the discharge of its functions, notwithstanding anything in section 6 of the Local Government Act (Northern Ireland) 2014 so far as it relates to an officer of the council[^key-00178090468121e348ed56385f440f8e] .
+and, in the case of applications falling to be determined by an interested council, they may regulate the council's arrangements for the discharge of its functions, notwithstanding anything in section 6 of the Local Government Act (Northern Ireland) 2014 so far as it relates to an officer of the council[^c-00178090468121e348ed56385f440f8e] .
 
 (5) The regulations must—
 
@@ -56,10 +56,10 @@ and, in the case of applications falling to be determined by an interested counc
 
 ## Annotations
 
-[^key-edea08d64f1b807e2178dace1b1a0c56]: Commencement: S. 79 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
+[^c-edea08d64f1b807e2178dace1b1a0c56]: Commencement: S. 79 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
 
-[^key-6109f39a49f37cfb89c13fc92c928bc8]: Commencement: S. 79 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
+[^c-6109f39a49f37cfb89c13fc92c928bc8]: Commencement: S. 79 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
 
-[^key-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
 
-[^key-00178090468121e348ed56385f440f8e]: Textual amendment: Words in s. 79(4) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 9 para. 8](https://www.legislation.gov.uk/nia/2014/8/schedule/9/paragraph/8) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-00178090468121e348ed56385f440f8e]: Textual amendment: Words in s. 79(4) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 9 para. 8](https://www.legislation.gov.uk/nia/2014/8/schedule/9/paragraph/8) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) This Article applies when the Registrar [^key-58b088498e28a5d5c4cb16cc28d58348]... decides–
+(1) This Article applies when the Registrar [^c-58b088498e28a5d5c4cb16cc28d58348]... decides–
 
 - (a) to refuse to register a person;
 - (b) to refuse an application for the extension of a person's registration; or
@@ -34,4 +34,4 @@ in respect of any description of driving instruction.
 
 ## Annotations
 
-[^key-58b088498e28a5d5c4cb16cc28d58348]: Textual amendment: Words in [art. 58(1)](https://www.legislation.gov.uk/nisi/2007/916/article/58/1) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(10)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/10)
+[^c-58b088498e28a5d5c4cb16cc28d58348]: Textual amendment: Words in [art. 58(1)](https://www.legislation.gov.uk/nisi/2007/916/article/58/1) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(10)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/10)

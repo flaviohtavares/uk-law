@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Existing laws[^key-c67c3c50d5f4a47a70e6687cc5f9b108]
+## 5. Existing laws[^c-c67c3c50d5f4a47a70e6687cc5f9b108]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c67c3c50d5f4a47a70e6687cc5f9b108]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2011/1681/article/5) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+[^c-c67c3c50d5f4a47a70e6687cc5f9b108]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2011/1681/article/5) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)

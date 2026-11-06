@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Scheduled monuments, listed buildings etc.[^key-19f75aefcfbdafabd5c7c698cdabd808]
+## 35. Scheduled monuments, listed buildings etc.[^c-19f75aefcfbdafabd5c7c698cdabd808]
 
 *Extent: S*
 
@@ -43,7 +43,7 @@ a local authority must (but in the case of paragraph (a)(v) or (b) only if reaso
 
 (3) Those persons are—
 
-- (a)[^key-ae9a177ba0d253f014d28a7db54e280b] Historic Environment Scotland,
+- (a)[^c-ae9a177ba0d253f014d28a7db54e280b] Historic Environment Scotland,
 - (b) the planning authority (where the planning authority is not the local authority), and
 - (c) such other persons as the local authority thinks fit.
 
@@ -51,6 +51,6 @@ a local authority must (but in the case of paragraph (a)(v) or (b) only if reaso
 
 ## Annotations
 
-[^key-19f75aefcfbdafabd5c7c698cdabd808]: Commencement: S. 35 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-19f75aefcfbdafabd5c7c698cdabd808]: Commencement: S. 35 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
-[^key-ae9a177ba0d253f014d28a7db54e280b]: Textual amendment: [S. 35(3)(a)](https://www.legislation.gov.uk/asp/2003/8/section/35/3/a) substituted (1.10.2015) by [The Historic Environment Scotland Act 2014 (Ancillary Provision) Order 2015 (S.S.I. 2015/271)](https://www.legislation.gov.uk/ssi/2015/271), [arts. 1](https://www.legislation.gov.uk/ssi/2015/271/article/1), [3(1)](https://www.legislation.gov.uk/ssi/2015/271/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/271/article/3/2))
+[^c-ae9a177ba0d253f014d28a7db54e280b]: Textual amendment: [S. 35(3)(a)](https://www.legislation.gov.uk/asp/2003/8/section/35/3/a) substituted (1.10.2015) by [The Historic Environment Scotland Act 2014 (Ancillary Provision) Order 2015 (S.S.I. 2015/271)](https://www.legislation.gov.uk/ssi/2015/271), [arts. 1](https://www.legislation.gov.uk/ssi/2015/271/article/1), [3(1)](https://www.legislation.gov.uk/ssi/2015/271/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/271/article/3/2))

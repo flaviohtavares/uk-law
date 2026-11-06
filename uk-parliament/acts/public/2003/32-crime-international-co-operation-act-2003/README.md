@@ -148,9 +148,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 52 — Jurisdiction for terrorist offences](part-2/section-52.md)
 - [Section 53 — Jurisdiction for offence under section 113 of the Anti-terrorism, Crime and Security Act 2001](part-2/section-53.md)
 
-### Part 3 — Road traffic[^key-eb8c0bb43fcfd438b7da50d274130ccc]
+### Part 3 — Road traffic[^c-eb8c0bb43fcfd438b7da50d274130ccc]
 
-#### Chapter 1 — Mutual recognition of driving disqualification in UK and Republic of Ireland[^key-bdb19cce7c880a8943568093a35b14bc]
+#### Chapter 1 — Mutual recognition of driving disqualification in UK and Republic of Ireland[^c-bdb19cce7c880a8943568093a35b14bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -159,7 +159,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 54 — Application of section 55](part-3/section-54.md)
 - [Section 55 — Duty to give notice to Republic of Ireland of UK driving disqualification](part-3/section-55.md)
 
-##### Road traffic offences in Republic of Ireland[^key-065d0560ef1bc75ba12b54db10c15c2c]
+##### Road traffic offences in Republic of Ireland[^c-065d0560ef1bc75ba12b54db10c15c2c]
 
 - [Section 56 — Application of section 57](part-3/section-56.md)
 - [Section 57 — Recognition in United Kingdom of Republic of Ireland driving disqualification](part-3/section-57.md)
@@ -269,8 +269,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-eb8c0bb43fcfd438b7da50d274130ccc]: Modification: Pt. 3: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-eb8c0bb43fcfd438b7da50d274130ccc]: Modification: Pt. 3: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-bdb19cce7c880a8943568093a35b14bc]: Textual amendment: Pt. 3 Ch. 1 heading substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/31/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-bdb19cce7c880a8943568093a35b14bc]: Textual amendment: Pt. 3 Ch. 1 heading substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/31/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
 
-[^key-065d0560ef1bc75ba12b54db10c15c2c]: Textual amendment: Words in s. 56 cross-heading substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/4) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-065d0560ef1bc75ba12b54db10c15c2c]: Textual amendment: Words in s. 56 cross-heading substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/4) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)

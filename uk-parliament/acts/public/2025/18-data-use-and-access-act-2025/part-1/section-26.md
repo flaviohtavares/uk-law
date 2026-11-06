@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Index of defined terms for this Part[^key-734d0c5df3afcc6d678e0b9ace503521][^key-86db3a4d593b0b25477fe689d8867867]
+## 26. Index of defined terms for this Part[^c-734d0c5df3afcc6d678e0b9ace503521][^c-86db3a4d593b0b25477fe689d8867867]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ The Table below lists provisions that define or otherwise explain terms defined 
 
 ## Annotations
 
-[^key-734d0c5df3afcc6d678e0b9ace503521]: Commencement: S. 26 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-734d0c5df3afcc6d678e0b9ace503521]: Commencement: S. 26 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-86db3a4d593b0b25477fe689d8867867]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2025/18/section/26) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-86db3a4d593b0b25477fe689d8867867]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2025/18/section/26) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

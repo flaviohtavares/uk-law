@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Dissolution: voluntary winding up[^key-49d5a755700880125c85d8a5147200df]
+## 53. Dissolution: voluntary winding up[^c-49d5a755700880125c85d8a5147200df]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49d5a755700880125c85d8a5147200df]: Commencement: S. 53 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-49d5a755700880125c85d8a5147200df]: Commencement: S. 53 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -27,7 +27,7 @@ summary: ''
 
 and regulations may contain such provisions as the Society may think proper for facilitating the due enforcement thereof.
 
-(1A)[^key-b11c1bebc57d771d7d0ecee427ae1415] Before making regulations the Society shall consult the Legal Services Oversight Commissioner.
+(1A)[^c-b11c1bebc57d771d7d0ecee427ae1415] Before making regulations the Society shall consult the Legal Services Oversight Commissioner.
 
 (2) All regulations shall be made with the concurrence of the Lord Chief Justice.
 
@@ -35,7 +35,7 @@ and regulations may contain such provisions as the Society may think proper for 
 
 ## Annotations
 
-[^key-b11c1bebc57d771d7d0ecee427ae1415]: Textual amendment: [Art. 75(1A)](https://www.legislation.gov.uk/nisi/1976/582/article/75/1A) inserted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 3(6)](https://www.legislation.gov.uk/nia/2016/14/section/3/6), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-b11c1bebc57d771d7d0ecee427ae1415]: Textual amendment: [Art. 75(1A)](https://www.legislation.gov.uk/nisi/1976/582/article/75/1A) inserted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 3(6)](https://www.legislation.gov.uk/nia/2016/14/section/3/6), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
 [^c17115391]: Textual amendment: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23)
 

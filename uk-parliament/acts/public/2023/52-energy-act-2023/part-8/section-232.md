@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Heat networks within zones[^key-fe9838357cb986563f90156582c583b0]
+## 232. Heat networks within zones[^c-fe9838357cb986563f90156582c583b0]
 
 *Extent: E+W*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe9838357cb986563f90156582c583b0]: Commencement: S. 232 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-fe9838357cb986563f90156582c583b0]: Commencement: S. 232 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

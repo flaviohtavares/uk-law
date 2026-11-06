@@ -217,11 +217,11 @@ This paragraph does not affect payments due or withheld in respect of any period
 
 (2) Where this paragraph applies—
 
-- (a) Part Q of (and Schedule 5 to) the 1999 scheme rules are, despite article A3 of the 1999 pensions order, to continue to have effect , subject to the modifications in sub-paragraph (2A),[^key-d3b667dd3624ba8b38c301b4834656f7] in relation to those purchases,
+- (a) Part Q of (and Schedule 5 to) the 1999 scheme rules are, despite article A3 of the 1999 pensions order, to continue to have effect , subject to the modifications in sub-paragraph (2A),[^c-d3b667dd3624ba8b38c301b4834656f7] in relation to those purchases,
 - (b) the individual's reckonable service as an MSP is to be increased by any added years in respect of which the periodical contributions (including any paid before the new rules day) or lump sum has been paid, and
 - (c) that increased period of reckonable service is, for the purposes of new scheme rule 38(1), to be treated as a period during which lower rate scheme member contributions were made.
 
-(2A)[^key-d99c7290e943ba6d62d0ef80fabd9f32]
+(2A)[^c-d99c7290e943ba6d62d0ef80fabd9f32]
 
 - (a) in paragraph 3 of Schedule 5 to the 1999 scheme rules for “irrevocable on and form the date when the Parliamentary corporation accepts it” substitute “revocable by the member giving notice in writing to the Fund trustees”, and
 - (b) after paragraph 3, insert—
@@ -283,6 +283,6 @@ This paragraph does not affect payments due or withheld in respect of any period
 
 ## Annotations
 
-[^key-d3b667dd3624ba8b38c301b4834656f7]: Textual amendment: Words in sch. 3 para. 18(2)(a) inserted (11.2.2011) by [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 5(a)
+[^c-d3b667dd3624ba8b38c301b4834656f7]: Textual amendment: Words in sch. 3 para. 18(2)(a) inserted (11.2.2011) by [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 5(a)
 
-[^key-d99c7290e943ba6d62d0ef80fabd9f32]: Textual amendment: Sch. 3 para. 18(2A) inserted (11.2.2011) by [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 5(b)
+[^c-d99c7290e943ba6d62d0ef80fabd9f32]: Textual amendment: Sch. 3 para. 18(2A) inserted (11.2.2011) by [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 5(b)

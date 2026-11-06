@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Participation of police and crime commissioners at certain local authority committees[^key-10786162a2aee2231540e53269880f08]
+## 74. Participation of police and crime commissioners at certain local authority committees[^c-10786162a2aee2231540e53269880f08]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 102(9) of the Local Government Act 1972 (appointment of committees), 
 
 ## Annotations
 
-[^key-10786162a2aee2231540e53269880f08]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/55/section/74) in force at 26.12.2023, see [s. 255(2)(l)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/l)
+[^c-10786162a2aee2231540e53269880f08]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/55/section/74) in force at 26.12.2023, see [s. 255(2)(l)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/l)

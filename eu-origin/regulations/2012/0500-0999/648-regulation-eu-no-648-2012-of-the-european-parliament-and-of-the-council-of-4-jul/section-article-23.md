@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 23. Cooperation between authorities[^key-afa970c22b7eab12acb0daac9561d9bc]
+## Article 23. Cooperation between authorities[^c-afa970c22b7eab12acb0daac9561d9bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afa970c22b7eab12acb0daac9561d9bc]: Textual amendment: [Title 3 Ch. 3](https://www.legislation.gov.uk/eur/2012/648/chapter/3) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2019/335/regulation/34) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-afa970c22b7eab12acb0daac9561d9bc]: Textual amendment: [Title 3 Ch. 3](https://www.legislation.gov.uk/eur/2012/648/chapter/3) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2019/335/regulation/34) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

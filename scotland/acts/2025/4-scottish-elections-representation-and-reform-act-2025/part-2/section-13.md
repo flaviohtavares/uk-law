@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Effect of order: local government[^key-648b7f272dce544ad7ee2a52ba6006c0][^key-27b0fe3886155c98ea739f1b9091848d]
+## 13. Effect of order: local government[^c-648b7f272dce544ad7ee2a52ba6006c0][^c-27b0fe3886155c98ea739f1b9091848d]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-648b7f272dce544ad7ee2a52ba6006c0]: Commencement: S. 13 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-648b7f272dce544ad7ee2a52ba6006c0]: Commencement: S. 13 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-27b0fe3886155c98ea739f1b9091848d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/4/section/13) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-27b0fe3886155c98ea739f1b9091848d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/4/section/13) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

@@ -38,7 +38,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 38A(3), 109(1) and (3), 164(1) and (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-9012ffc944b36dc8acd3ee8eb4a83ce6]
+## 1. Citation, commencement and interpretation[^c-9012ffc944b36dc8acd3ee8eb4a83ce6]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Age-related Payments) Regulations (Northern Ireland) 1997 and shall come into operation as follows—
 
@@ -58,7 +58,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (4) For the purposes of these Regulations, and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-## 2. Age-related payments not be be paid after age-related moves made before the principal appointed day[^key-5259b820d42748a68eacd3c5465e2720]
+## 2. Age-related payments not be be paid after age-related moves made before the principal appointed day[^c-5259b820d42748a68eacd3c5465e2720]
 
 If—
 
@@ -68,7 +68,7 @@ If—
 
 any age-related payment which would otherwise be payable shall not be paid in respect of that earner.
 
-## 3. Age-related payments not to be paid if scheme rules require age-related moves: admission to the scheme before the principal appointed day[^key-ea6baa733d6db38a53e931179e78c5e0]
+## 3. Age-related payments not to be paid if scheme rules require age-related moves: admission to the scheme before the principal appointed day[^c-ea6baa733d6db38a53e931179e78c5e0]
 
 If—
 
@@ -77,11 +77,11 @@ If—
 
 any age-related payment which would otherwise be payable shall not be paid in respect of any earner who on admission to one of the schemes of that employer enters a scheme contracted out under section 5(3) before the principal appointed day.
 
-## 4. Age-related payments not to be paid if an earner’s age allows his admission only to a money purchase scheme: admission to the scheme before the principal appointed day[^key-5a86aec59ff9c5159bd0bc702820a76f]
+## 4. Age-related payments not to be paid if an earner’s age allows his admission only to a money purchase scheme: admission to the scheme before the principal appointed day[^c-5a86aec59ff9c5159bd0bc702820a76f]
 
 If because of his age an earner who is not already a member of any schemes established by his employer may be admitted only to a scheme contracted out under section 5(3), any age-related payment which would otherwise be payable shall not be paid in respect of that earner on his admission before the principal appointed day to a scheme established by that employer.
 
-## 5. Age-related payments not to be paid after age-related moves on or after the principal appointed day[^key-e02e602da3f16db93bf690b8335912ec]
+## 5. Age-related payments not to be paid after age-related moves on or after the principal appointed day[^c-e02e602da3f16db93bf690b8335912ec]
 
 If—
 
@@ -100,7 +100,7 @@ If—
 
   and in any such case the move occurs on or after the principal appointed day, and the age of the earner is the only or main reason for the move, an age-related payment shall not be paid in respect of that earner for the tax year in which the move occurs and any subsequent tax year.
 
-## 6. Age-related payments not to be paid if scheme rules require age-related moves: admission to the scheme on or after the principal appointed day[^key-706aa01d00fbbe6696a024fbd6a84136]
+## 6. Age-related payments not to be paid if scheme rules require age-related moves: admission to the scheme on or after the principal appointed day[^c-706aa01d00fbbe6696a024fbd6a84136]
 
 (1) If the rules of a relevant scheme require members to move from the salary related part to the money purchase part by reference to their age, any age-related payment which would otherwise be payable shall not be paid in respect of any earner who enters the money purchase part on his admission to the scheme on or after the principal appointed day.
 
@@ -118,11 +118,11 @@ If—
 
 an age-related payment shall not be paid in respect of any earner who on admission to one of the schemes of that employer enters a scheme contracted out under section 5(3) or the money purchase part of a relevant scheme on or after the principal appointed day.
 
-## 7. Age-related payments not to be paid if an earner’s age allows his admission only to a money purchase scheme or a money purchase part: admission to the scheme on or after the principal appointed day[^key-00d5e2d7e286b5493e548e17b5263474]
+## 7. Age-related payments not to be paid if an earner’s age allows his admission only to a money purchase scheme or a money purchase part: admission to the scheme on or after the principal appointed day[^c-00d5e2d7e286b5493e548e17b5263474]
 
 If because of his age an earner who is not already a member of any schemes established by his employer may be admitted only to a scheme contracted out under section 5(3) or to the money purchase part of a relevant scheme, any age-related payment which would otherwise be payable shall not be paid in respect of that earner on his admission on or after the principal appointed day to a scheme established by that employer.
 
-## 8. Disclosure to earners that the age-related payment will not be paid after an age-related move[^key-eb9e28e0bd34cf524ac5ec82bc1e7125]
+## 8. Disclosure to earners that the age-related payment will not be paid after an age-related move[^c-eb9e28e0bd34cf524ac5ec82bc1e7125]
 
 If an earner is to move in circumstances under which, in accordance with regulation 2 or 5, an age-related payment shall not become payable, the trustees or managers of the scheme concerned, or as the case may be the scheme the move is from, shall before or within 2 months of the move notify the earner in writing—
 
@@ -132,7 +132,7 @@ If an earner is to move in circumstances under which, in accordance with regulat
 - (d) that the age-related payment will not be paid after the move; and
 - (e) that because the age-related payment will not be paid, the earner’s benefits under the scheme may not be as much as they would otherwise have been.
 
-## 9. Disclosure to prospective members that the age-related payment will not be paid on admission to a money purchase scheme or money purchase part[^key-abd80fec6bd49da6016b1cd7a512e3da]
+## 9. Disclosure to prospective members that the age-related payment will not be paid on admission to a money purchase scheme or money purchase part[^c-abd80fec6bd49da6016b1cd7a512e3da]
 
 (1) If admission to a scheme might, under regulation 3, 4, 6 or 7, result in an age-related payment not being paid, the trustees or managers shall as of course, where practicable, give every prospective member the information set out in paragraph (2) and where it has not been practicable to do so, such information shall be given to a person within 2 months of his admission to the scheme.
 
@@ -141,7 +141,7 @@ If an earner is to move in circumstances under which, in accordance with regulat
 - (a) the circumstances in which the age-related payment may not be paid in respect of him if he is admitted to the scheme;
 - (b) that if the age-related payment is not paid, his benefits under the scheme may not be as much as they would otherwise have been.
 
-## 10. Penalties[^key-bad2158e2bc0f0110dc8fc7a32d3af30]
+## 10. Penalties[^c-bad2158e2bc0f0110dc8fc7a32d3af30]
 
 If any person fails, without reasonable excuse, to comply with any requirement imposed under regulation 8 or 9 in respect of regulation 5, 6 or 7, the Occupational Pensions Regulatory Authority[^f00006] may require that person to pay within 28 days a penalty which shall—
 
@@ -186,7 +186,7 @@ Sections 38A(3) and 164 of the Pension Schemes (Northern Ireland) Act 1993, enab
 
 [^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 38A was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and section 164 was substituted by Article 151 of that Order
 
-[^key-9012ffc944b36dc8acd3ee8eb4a83ce6]: Commencement: Reg. 1 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/a)
+[^c-9012ffc944b36dc8acd3ee8eb4a83ce6]: Commencement: Reg. 1 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/a)
 
 [^f00002]: Footnote: [S.R. 1997 No. 98](https://www.legislation.gov.uk/nisr/1997/98), to which there are amendments not relevant to these regulations
 
@@ -196,22 +196,22 @@ Sections 38A(3) and 164 of the Pension Schemes (Northern Ireland) Act 1993, enab
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-5259b820d42748a68eacd3c5465e2720]: Commencement: Reg. 2 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/a)
+[^c-5259b820d42748a68eacd3c5465e2720]: Commencement: Reg. 2 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/a)
 
-[^key-ea6baa733d6db38a53e931179e78c5e0]: Commencement: Reg. 3 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/a)
+[^c-ea6baa733d6db38a53e931179e78c5e0]: Commencement: Reg. 3 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/a)
 
-[^key-5a86aec59ff9c5159bd0bc702820a76f]: Commencement: Reg. 4 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/a)
+[^c-5a86aec59ff9c5159bd0bc702820a76f]: Commencement: Reg. 4 in operation at 21.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/a)
 
-[^key-e02e602da3f16db93bf690b8335912ec]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/b)
+[^c-e02e602da3f16db93bf690b8335912ec]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/b)
 
-[^key-706aa01d00fbbe6696a024fbd6a84136]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/b)
+[^c-706aa01d00fbbe6696a024fbd6a84136]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/b)
 
-[^key-00d5e2d7e286b5493e548e17b5263474]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/b)
+[^c-00d5e2d7e286b5493e548e17b5263474]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/b)
 
-[^key-eb9e28e0bd34cf524ac5ec82bc1e7125]: Commencement: Reg. 8 comes into force in accordance with reg. 1(1)(a)
+[^c-eb9e28e0bd34cf524ac5ec82bc1e7125]: Commencement: Reg. 8 comes into force in accordance with reg. 1(1)(a)
 
-[^key-abd80fec6bd49da6016b1cd7a512e3da]: Commencement: Reg. 9 comes into force in accordance with reg. 1(1)(a)
+[^c-abd80fec6bd49da6016b1cd7a512e3da]: Commencement: Reg. 9 comes into force in accordance with reg. 1(1)(a)
 
-[^key-bad2158e2bc0f0110dc8fc7a32d3af30]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/b)
+[^c-bad2158e2bc0f0110dc8fc7a32d3af30]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1997/167/regulation/1/1/b)
 
 [^f00006]: Footnote: *See* section 1 of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26)

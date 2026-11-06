@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6C. Notification of intention to call defence witnesses[^key-39418766b174f48b8a22582f22842c2f][^key-8c1811d7ba0c092c4e68960ff664e626]
+## 6C. Notification of intention to call defence witnesses[^c-39418766b174f48b8a22582f22842c2f][^c-8c1811d7ba0c092c4e68960ff664e626]
 
 *Extent: E+W+N.I.*
 
@@ -38,6 +38,6 @@ he must give an appropriately amended notice to the court and the prosecutor.
 
 ## Annotations
 
-[^key-39418766b174f48b8a22582f22842c2f]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/ukpga/1996/25/section/6C) inserted (1.5.2010 for E.W.) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 34](https://www.legislation.gov.uk/ukpga/2003/44/section/34), [336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4); [S.I. 2010/1183](https://www.legislation.gov.uk/uksi/2010/1183), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1183/article/3/a) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/1183/article/4/2))
+[^c-39418766b174f48b8a22582f22842c2f]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/ukpga/1996/25/section/6C) inserted (1.5.2010 for E.W.) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 34](https://www.legislation.gov.uk/ukpga/2003/44/section/34), [336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4); [S.I. 2010/1183](https://www.legislation.gov.uk/uksi/2010/1183), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1183/article/3/a) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/1183/article/4/2))
 
-[^key-8c1811d7ba0c092c4e68960ff664e626]: Modification: Pt. I power to apply (with modifications) conferred by SI 2015/1490 rule 23.2 Note (as inserted (2.4.2018) by [The Criminal Procedure (Amendment) Rules 2018 (S.I. 2018/132)](https://www.legislation.gov.uk/uksi/2018/132), [rules 1](https://www.legislation.gov.uk/uksi/2018/132/rule/1), [11(a)(v)](https://www.legislation.gov.uk/uksi/2018/132/rule/11/a/v))
+[^c-8c1811d7ba0c092c4e68960ff664e626]: Modification: Pt. I power to apply (with modifications) conferred by SI 2015/1490 rule 23.2 Note (as inserted (2.4.2018) by [The Criminal Procedure (Amendment) Rules 2018 (S.I. 2018/132)](https://www.legislation.gov.uk/uksi/2018/132), [rules 1](https://www.legislation.gov.uk/uksi/2018/132/rule/1), [11(a)(v)](https://www.legislation.gov.uk/uksi/2018/132/rule/11/a/v))

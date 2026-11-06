@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Visa penalties under section 71: review and revocation[^key-c3245694816dcb426f432fdb9fd962f5]
+## 73. Visa penalties under section 71: review and revocation[^c-c3245694816dcb426f432fdb9fd962f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ the Secretary of State must as soon as practicable revoke the visa penalty provi
 
 ## Annotations
 
-[^key-c3245694816dcb426f432fdb9fd962f5]: Commencement: S. 73 in force at Royal Assent, see [s. 87(3)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/b)
+[^c-c3245694816dcb426f432fdb9fd962f5]: Commencement: S. 73 in force at Royal Assent, see [s. 87(3)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/b)

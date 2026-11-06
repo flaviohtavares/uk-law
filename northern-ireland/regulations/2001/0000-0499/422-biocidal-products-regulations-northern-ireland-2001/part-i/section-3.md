@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Application[^key-faadc627813d6f670aad3651ce787b8b]
+## 3. Application[^c-faadc627813d6f670aad3651ce787b8b]
 
 *Extent: N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-faadc627813d6f670aad3651ce787b8b]: Commencement: Reg. 3 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-faadc627813d6f670aad3651ce787b8b]: Commencement: Reg. 3 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
 [^f00014]: Footnote: O.J. No. L214, 24.8.93, p. 1
 

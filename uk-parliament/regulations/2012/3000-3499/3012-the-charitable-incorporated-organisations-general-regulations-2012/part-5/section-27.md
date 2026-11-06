@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Power of Commission to order rectification of register of members[^key-0a7bacdf377b3d2909a77cd8c949cff1]
+## 27. Power of Commission to order rectification of register of members[^c-0a7bacdf377b3d2909a77cd8c949cff1]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the Commission may, by order, require the CIO, or the charity trustees of the CI
 
 ## Annotations
 
-[^key-0a7bacdf377b3d2909a77cd8c949cff1]: Commencement: Reg. 27 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-0a7bacdf377b3d2909a77cd8c949cff1]: Commencement: Reg. 27 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

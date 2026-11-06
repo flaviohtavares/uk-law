@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. UK-based scheme to be trust with effective rules[^M_I_b63bce70-1f90-44cc-a067-014afbae9fc4][^key-ec16c43859aa8561fe1f8e5ec9151cbf]
+## 252. UK-based scheme to be trust with effective rules[^M_I_b63bce70-1f90-44cc-a067-014afbae9fc4][^c-ec16c43859aa8561fe1f8e5ec9151cbf]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ are not in force, or if those rules are not set out in writing, the trustees or 
 
 [^M_I_b63bce70-1f90-44cc-a067-014afbae9fc4]: Commencement: S. 252 in force at 1.7.2005 for specified purposes by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(14)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/14), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/1)
 
-[^key-ec16c43859aa8561fe1f8e5ec9151cbf]: Commencement: S. 252 in force at 22.9.2005 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(14)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/14), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/1)
+[^c-ec16c43859aa8561fe1f8e5ec9151cbf]: Commencement: S. 252 in force at 22.9.2005 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(14)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/14), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/1)

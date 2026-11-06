@@ -59,7 +59,7 @@ The Commissioner for Children and Young People (Northern Ireland) Order 2003
 - “formal investigation” means an investigation under Article 16;
 - “general health care[^c21443601] provider” has the meaning given in paragraph 1 of Schedule 1 and references to general health care are to any of the services mentioned in that paragraph;
 - “health and social care[^c21443581] body” means any of the following bodies—
-  - (a) [^key-dd34871b4625195dc7bc1f407b62bb91]...
+  - (a) [^c-dd34871b4625195dc7bc1f407b62bb91]...
   - (b) a Health and Social Care trust[^c21443621];
   - (c) the Mental Health Commission for Northern Ireland;
   - (d) the Northern Ireland Central Services Agency for the Health and Social Services;
@@ -84,7 +84,7 @@ The Commissioner for Children and Young People (Northern Ireland) Order 2003
 - (a) a person under the age of 18; and
 - (b) a person aged 18 or over who falls within paragraph (2) or (3).
 
-(2) A person falls within this paragraph if he is a person to or in respect of whom services are provided by, or on behalf of, or under arrangements made with, [^key-6b80230503a90877b7320ad6bdd3bc7e]... a Health and Social Care trust[^c21443631] by virtue of—
+(2) A person falls within this paragraph if he is a person to or in respect of whom services are provided by, or on behalf of, or under arrangements made with, [^c-6b80230503a90877b7320ad6bdd3bc7e]... a Health and Social Care trust[^c21443631] by virtue of—
 
 - (a) Article 34D, 35, 35A or 35B of the Children (Northern Ireland) Order 1995 (NI 2) (which provide for the continuing duties of those bodies towards young persons); or
 - (b) regulations made under Article 34E of that Order (which may provide for the appointment of personal advisers for certain young persons).
@@ -107,11 +107,11 @@ The Commissioner for Children and Young People (Northern Ireland) Order 2003
 
 (8) In paragraphs (6) and (7) “adult” means a person who is not a child or young person.
 
-### 4. Interpretation: “relevant authority”[^key-f70e4d024ee48b5361a178a34361b633]
+### 4. Interpretation: “relevant authority”[^c-f70e4d024ee48b5361a178a34361b633]
 
 (1) In this Order “relevant authority” means—
 
-- (a)[^key-3b47ea818499463dc092e3a77c3df869] any authority (other than the Office of the Commissioner or the Comptroller and Auditor General) listed in Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities).
+- (a)[^c-3b47ea818499463dc092e3a77c3df869] any authority (other than the Office of the Commissioner or the Comptroller and Auditor General) listed in Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities).
 - (c) any body or person listed in Schedule 1.
 
 (2) The Office may by order amend Schedule 1 so as to—
@@ -329,7 +329,7 @@ unless the Commissioner is satisfied that, in the particular circumstances, it i
 
 (3) The Commissioner shall not conduct an investigation in respect of any action which is, or has been, the subject of—[^c17055561]
 
-- (a) an inquiry under the Inquiries Act 2005 or the Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013[^key-8df7ac403a9f0ccfe4419d155236341e] , or
+- (a) an inquiry under the Inquiries Act 2005 or the Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013[^c-8df7ac403a9f0ccfe4419d155236341e] , or
 - (b) any such inquiry as is referred to in section 23 of the Interpretation Act (Northern Ireland) 1954 (inquiries and investigations)
 
 .
@@ -420,7 +420,7 @@ unless the Commissioner is satisfied that, in the particular circumstances, it i
 - (a) in any formal investigation for the purposes of the Commissioner's functions under Article 10, the same opportunities shall be given to the child or young person mentioned in that Article; and
 - (b) in any formal investigation into a complaint under Article 12(1), the same opportunities shall be given to the complainant.
 
-(11)[^key-e9f5f8ccbc7a4fe679dfe01eb3f77164] The Commissioner may, if he thinks fit, pay to any person (including a complainant) who attends or supplies information for the purposes of a formal investigation—
+(11)[^c-e9f5f8ccbc7a4fe679dfe01eb3f77164] The Commissioner may, if he thinks fit, pay to any person (including a complainant) who attends or supplies information for the purposes of a formal investigation—
 
 - (a) sums in respect of expenses properly incurred by him;
 - (b) allowances by way of compensation for the loss of his time,
@@ -605,7 +605,7 @@ may deal with the person charged with the offence in any manner in which the cou
 (1) The Commissioner shall—
 
 - (a) keep under review the working of this Order;
-- (b)[^key-72f997e029a9f62bf21de31be4ecced4] make reports on it to the Department for Communities[^key-6cafc5d0830dfcb337b19b35d8deaee0] in accordance with the following provisions of this Article.
+- (b)[^c-72f997e029a9f62bf21de31be4ecced4] make reports on it to the Department for Communities[^c-6cafc5d0830dfcb337b19b35d8deaee0] in accordance with the following provisions of this Article.
 
 (2) The first report under this Article shall be made as soon as practicable after the third anniversary of the making of this Order.
 
@@ -616,7 +616,7 @@ may deal with the person charged with the offence in any manner in which the cou
 - (a) shall include the views of the Commissioner on the adequacy and effectiveness of this Order; and
 - (b) may contain recommendations as to amendments to this Order which in the opinion of the Commissioner are necessary or desirable.
 
-(5)[^key-4061897a3459afc1154bf61334a3ff70] The Department for Communities[^key-b25afe4b1fe7190b66daba141362e255] shall lay a copy of every report sent to them under this Article before the Assembly.
+(5)[^c-4061897a3459afc1154bf61334a3ff70] The Department for Communities[^c-b25afe4b1fe7190b66daba141362e255] shall lay a copy of every report sent to them under this Article before the Assembly.
 
 ## Supplementary provisions
 
@@ -658,9 +658,9 @@ The following bodies and persons are relevant authorities by virtue of Article 4
 
 #### Health and social care[^c21443681]
 
-**1.**[^key-1803a4947906bec8ad06497d3a56b905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1803a4947906bec8ad06497d3a56b905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a145c0936f2d464ad35b18fd7ab4a717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a145c0936f2d464ad35b18fd7ab4a717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** Any person carrying on any of the following within the meaning of the Children (Northern Ireland) Order 1995 (NI 2)—
 
@@ -671,15 +671,15 @@ The following bodies and persons are relevant authorities by virtue of Article 4
 
 #### Education
 
-**5.**[^key-dfe964f305cc81e83bd5f9b9a0214db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-dfe964f305cc81e83bd5f9b9a0214db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** The managers of an independent school, within the meaning of that Order.
 
-**7.**[^key-22ed8cbef5793ebaa33e6e665481fd0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-22ed8cbef5793ebaa33e6e665481fd0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Others
 
-**8.**[^key-e40f4b1d3b5eb51db16fd2014c8835ce] The Northern Ireland Public Services Ombudsman.
+**8.**[^c-e40f4b1d3b5eb51db16fd2014c8835ce] The Northern Ireland Public Services Ombudsman.
 
 **9.** [^M_F_cd8c3223-0d3e-461c-c2e4-57a95fcb648f]
 
@@ -691,17 +691,17 @@ The following bodies and persons are relevant authorities by virtue of Article 4
 
 **11.** [^c21914281]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.** [^key-fe36af64f386b685fed51c06a5ea174d]...The Chief Constable of the Police Service of Northern Ireland.
+**12.** [^c-fe36af64f386b685fed51c06a5ea174d]...The Chief Constable of the Police Service of Northern Ireland.
 
 **13.** [^c17055581]. . . any[^c17055581]. . . body or person with whom the Department of Justice[^c21914301] has made arrangements for the provision of juvenile justice centres or attendance centres under the Criminal Justice (Children) (Northern Ireland) Order 1998 (NI 9).
 
-**14.**[^key-faae64ad5a7aa89d457ad05e384b9acc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-faae64ad5a7aa89d457ad05e384b9acc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-faae64ad5a7aa89d457ad05e384b9acc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-faae64ad5a7aa89d457ad05e384b9acc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-b2b46cdf594edb760049fea990f8c154] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-b2b46cdf594edb760049fea990f8c154] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-faae64ad5a7aa89d457ad05e384b9acc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-faae64ad5a7aa89d457ad05e384b9acc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Others
 
@@ -709,7 +709,7 @@ The following bodies and persons are relevant authorities by virtue of Article 4
 
 **19.** The Parliamentary Commissioner for Administration.
 
-**20.** The Information Commission.[^key-4464dbcb8843c5418e8b50766691e0c0]
+**20.** The Information Commission.[^c-4464dbcb8843c5418e8b50766691e0c0]
 
 **21.** The Qualifications and Curriculum Authority.
 
@@ -756,13 +756,13 @@ the exercise of his functions.
 (5) The First Minister and deputy First Minister acting jointly may remove a person from office as the Commissioner if satisfied that he has—
 
 - (a) been convicted of a criminal offence;
-- (b) become bankrupt or is the subject of a bankruptcy restrictions order[^M_F_ea042659-e724-45cb-8834-5c33925d331b] or had a debt relief order made against him or is the subject of a debt relief restrictions order[^key-047fe9e1177b1b7d9f746723715004af] or made an arrangement or composition with his creditors;
+- (b) become bankrupt or is the subject of a bankruptcy restrictions order[^M_F_ea042659-e724-45cb-8834-5c33925d331b] or had a debt relief order made against him or is the subject of a debt relief restrictions order[^c-047fe9e1177b1b7d9f746723715004af] or made an arrangement or composition with his creditors;
 - (c) without reasonable excuse, failed to discharge his functions for a continuous period of 3 months; or
 - (d) become unfit or unable to exercise his functions.
 
 ### Salary, etc.
 
-**4.**[^key-5a4cae609d98015f704efe9b4554aa0f] (1) The Office may pay to or in respect of the Commissioner—
+**4.**[^c-5a4cae609d98015f704efe9b4554aa0f] (1) The Office may pay to or in respect of the Commissioner—
 
 - (a) such remuneration,
 - (b) such allowances, and
@@ -872,7 +872,7 @@ as the Office may, with the approval of the Department of Finance and Personnel,
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI. 7)
 
-**14.**[^key-c30156607026475a7854e297b30b5738] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-c30156607026475a7854e297b30b5738] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Freedom of Information Act 2000 (c. 36)
 
@@ -930,7 +930,7 @@ Articles 8(4) and 9(7)
 - (a) an opportunity to give oral or other evidence; and
 - (b) an opportunity of testing by cross-examination any evidence which may affect that authority or person.
 
-(9)[^key-7e39e475255c0f34fe7edcadd74b1b71] The Commissioner may, if he thinks fit, pay to any person who attends or supplies information for the purposes of a formal investigation—
+(9)[^c-7e39e475255c0f34fe7edcadd74b1b71] The Commissioner may, if he thinks fit, pay to any person who attends or supplies information for the purposes of a formal investigation—
 
 - (a) sums in respect of expenses properly incurred by him;
 - (b) allowances by way of compensation for the loss of his time,
@@ -1005,31 +1005,31 @@ may be published in such manner as the Commissioner considers appropriate.
 
 [^c21443581]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/a) (with [Sch. 6 para. 1(2)(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/2/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-dd34871b4625195dc7bc1f407b62bb91]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2003/439/article/2/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 207(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/207/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-dd34871b4625195dc7bc1f407b62bb91]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2003/439/article/2/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 207(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/207/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21443621]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(c)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/c) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-6b80230503a90877b7320ad6bdd3bc7e]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/2003/439/article/3/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 207(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/207/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6b80230503a90877b7320ad6bdd3bc7e]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/2003/439/article/3/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 207(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/207/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21443631]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(c)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/c) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-f70e4d024ee48b5361a178a34361b633]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/2003/439/article/4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-f70e4d024ee48b5361a178a34361b633]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/2003/439/article/4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-3b47ea818499463dc092e3a77c3df869]: Textual amendment: Art. 4(1)(a) substituted for art. 4(1)(a)(b) (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/9) (with s. 23, 50(3))
+[^c-3b47ea818499463dc092e3a77c3df869]: Textual amendment: Art. 4(1)(a) substituted for art. 4(1)(a)(b) (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/9) (with s. 23, 50(3))
 
 [^c17055561]: Textual amendment: [2005 c. 12](https://www.legislation.gov.uk/ukpga/2005/12)
 
-[^key-8df7ac403a9f0ccfe4419d155236341e]: Textual amendment: Words in [art. 13(3)](https://www.legislation.gov.uk/nisi/2003/439/article/13/3) inserted (19.1.2013) by [Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013 (c. 2)](https://www.legislation.gov.uk/nia/2013/2), [ss. 23(2)](https://www.legislation.gov.uk/nia/2013/2/section/23/2), [25(1)](https://www.legislation.gov.uk/nia/2013/2/section/25/1) (with [s. 22](https://www.legislation.gov.uk/nia/2013/2/section/22))
+[^c-8df7ac403a9f0ccfe4419d155236341e]: Textual amendment: Words in [art. 13(3)](https://www.legislation.gov.uk/nisi/2003/439/article/13/3) inserted (19.1.2013) by [Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013 (c. 2)](https://www.legislation.gov.uk/nia/2013/2), [ss. 23(2)](https://www.legislation.gov.uk/nia/2013/2/section/23/2), [25(1)](https://www.legislation.gov.uk/nia/2013/2/section/25/1) (with [s. 22](https://www.legislation.gov.uk/nia/2013/2/section/22))
 
-[^key-e9f5f8ccbc7a4fe679dfe01eb3f77164]: Modification: [Art. 16(11)](https://www.legislation.gov.uk/nisi/2003/439/article/16/11): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-e9f5f8ccbc7a4fe679dfe01eb3f77164]: Modification: [Art. 16(11)](https://www.legislation.gov.uk/nisi/2003/439/article/16/11): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-72f997e029a9f62bf21de31be4ecced4]: Modification: Art. 24(1)(b): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/nisr/2016/76/article/3/2/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-72f997e029a9f62bf21de31be4ecced4]: Modification: Art. 24(1)(b): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/nisr/2016/76/article/3/2/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-6cafc5d0830dfcb337b19b35d8deaee0]: Textual amendment: Words in [art. 24(1)(b)](https://www.legislation.gov.uk/nisi/2003/439/article/24/1/b) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 10(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/10/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6cafc5d0830dfcb337b19b35d8deaee0]: Textual amendment: Words in [art. 24(1)(b)](https://www.legislation.gov.uk/nisi/2003/439/article/24/1/b) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 10(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/10/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-4061897a3459afc1154bf61334a3ff70]: Modification: Art. 24(5): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/nisr/2016/76/article/3/2/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-4061897a3459afc1154bf61334a3ff70]: Modification: Art. 24(5): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/nisr/2016/76/article/3/2/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-b25afe4b1fe7190b66daba141362e255]: Textual amendment: Words in [art. 24(5)](https://www.legislation.gov.uk/nisi/2003/439/article/24/5) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 10(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/10/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-b25afe4b1fe7190b66daba141362e255]: Textual amendment: Words in [art. 24(5)](https://www.legislation.gov.uk/nisi/2003/439/article/24/5) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 10(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/10/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c21443651]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/b) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
@@ -1037,37 +1037,37 @@ may be published in such manner as the Commissioner considers appropriate.
 
 [^c21443681]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/a) (with [Sch. 6 para. 1(2)(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/2/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-1803a4947906bec8ad06497d3a56b905]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/1) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-1803a4947906bec8ad06497d3a56b905]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/1) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
-[^key-a145c0936f2d464ad35b18fd7ab4a717]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/2) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-a145c0936f2d464ad35b18fd7ab4a717]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/2) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
-[^key-dfe964f305cc81e83bd5f9b9a0214db2]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/5) repealed (1.4.2017) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-dfe964f305cc81e83bd5f9b9a0214db2]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/5) repealed (1.4.2017) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
 
-[^key-22ed8cbef5793ebaa33e6e665481fd0d]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/7) repealed (1.10.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-22ed8cbef5793ebaa33e6e665481fd0d]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/7) repealed (1.10.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
 
-[^key-e40f4b1d3b5eb51db16fd2014c8835ce]: Textual amendment: Sch. 1 para. 8 substituted (1.4.2016) for Sch. 1 paras. 8, 9 by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 10](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/10) (with s. 23, 50(3))
+[^c-e40f4b1d3b5eb51db16fd2014c8835ce]: Textual amendment: Sch. 1 para. 8 substituted (1.4.2016) for Sch. 1 paras. 8, 9 by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 10](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/10) (with s. 23, 50(3))
 
 [^M_F_cd8c3223-0d3e-461c-c2e4-57a95fcb648f]: Textual amendment: Sch. 1 para. 8 substituted (1.4.2016) for Sch. 1 paras. 8, 9 by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [s. 64](https://www.legislation.gov.uk/ukpga/2016/4/section/64), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2016/4/schedule/8/paragraph/10) (with [s. 23](https://www.legislation.gov.uk/ukpga/2016/4/section/23), [50(3)](https://www.legislation.gov.uk/ukpga/2016/4/section/50/3))
 
 [^c21914281]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/11) omitted (12.4.2010) by virtue of [Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 4](https://www.legislation.gov.uk/nisr/2010/133/article/4), [Sch. para. 17](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/17) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
-[^key-fe36af64f386b685fed51c06a5ea174d]: Textual amendment: Words in [Sch. 1 para. 12](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/12) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-fe36af64f386b685fed51c06a5ea174d]: Textual amendment: Words in [Sch. 1 para. 12](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/12) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
 [^c17055581]: Textual amendment: [2004 c. 4](https://www.legislation.gov.uk/ukpga/2004/4)
 
 [^c21914301]: Textual amendment: Words in [Sch. 1 para. 13](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/13) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 79(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/79/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-faae64ad5a7aa89d457ad05e384b9acc]: Textual amendment: [Sch. 1 paras. 14-17](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/14) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-faae64ad5a7aa89d457ad05e384b9acc]: Textual amendment: [Sch. 1 paras. 14-17](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/14) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
-[^key-b2b46cdf594edb760049fea990f8c154]: Textual amendment: Sch. 1 para. 16 repealed (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/7), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(f)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/f) (and further repealed 1.4.2016 by 2016 (c. 4) (N.I.), s. 64(1), Sch. 9 (with s. 23, 50(3)))
+[^c-b2b46cdf594edb760049fea990f8c154]: Textual amendment: Sch. 1 para. 16 repealed (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/7), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)(f)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e/f) (and further repealed 1.4.2016 by 2016 (c. 4) (N.I.), s. 64(1), Sch. 9 (with s. 23, 50(3)))
 
-[^key-4464dbcb8843c5418e8b50766691e0c0]: Textual amendment: Words in [Sch. 1 para. 20](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/20) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/4); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-4464dbcb8843c5418e8b50766691e0c0]: Textual amendment: Words in [Sch. 1 para. 20](https://www.legislation.gov.uk/nisi/2003/439/schedule/1/paragraph/20) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/4); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^M_F_ea042659-e724-45cb-8834-5c33925d331b]: Textual amendment: Words in Sch. 2 para. 3(5)(b) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 13](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/13)
 
-[^key-047fe9e1177b1b7d9f746723715004af]: Textual amendment: Words in [Sch. 2 para. 3(5)(b)](https://www.legislation.gov.uk/nisi/2003/439/schedule/2/paragraph/3/5/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 20](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/20)
+[^c-047fe9e1177b1b7d9f746723715004af]: Textual amendment: Words in [Sch. 2 para. 3(5)(b)](https://www.legislation.gov.uk/nisi/2003/439/schedule/2/paragraph/3/5/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 20](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/20)
 
-[^key-5a4cae609d98015f704efe9b4554aa0f]: Modification: Sch. 2 para. 4: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-5a4cae609d98015f704efe9b4554aa0f]: Modification: Sch. 2 para. 4: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^M_C_9380def8-9245-47bf-dfbe-7e8d78b62a05]: Modification: Sch. 2 para. 5: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
@@ -1077,6 +1077,6 @@ may be published in such manner as the Commissioner considers appropriate.
 
 [^M_C_2870650b-070b-4ce7-916a-2d924753f611]: Modification: Sch. 2 para. 12: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-c30156607026475a7854e297b30b5738]: Textual amendment: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisi/2003/439/schedule/2/paragraph/14) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-c30156607026475a7854e297b30b5738]: Textual amendment: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisi/2003/439/schedule/2/paragraph/14) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
-[^key-7e39e475255c0f34fe7edcadd74b1b71]: Modification: [Sch. 3 para. 2(9)](https://www.legislation.gov.uk/nisi/2003/439/schedule/3/paragraph/2/9): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-7e39e475255c0f34fe7edcadd74b1b71]: Modification: [Sch. 3 para. 2(9)](https://www.legislation.gov.uk/nisi/2003/439/schedule/3/paragraph/2/9): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

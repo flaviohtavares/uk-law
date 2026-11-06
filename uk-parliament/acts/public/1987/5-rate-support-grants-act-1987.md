@@ -29,21 +29,21 @@ Rate Support Grants Act 1987 (repealed)
 
 1987 c. 5
 
-[^key-a691da00d906062deadde0d8ec2e4600]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a691da00d906062deadde0d8ec2e4600]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Exclusion of adjustments of block grant by reference to total expenditure or aggregate amount available.[^key-a691da00d906062deadde0d8ec2e4600][^key-a691da00d906062deadde0d8ec2e4600]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Classes of authorities.[^key-a691da00d906062deadde0d8ec2e4600][^key-a691da00d906062deadde0d8ec2e4600]
+## 1. Exclusion of adjustments of block grant by reference to total expenditure or aggregate amount available.[^c-a691da00d906062deadde0d8ec2e4600][^c-a691da00d906062deadde0d8ec2e4600]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title and extent.[^key-a691da00d906062deadde0d8ec2e4600][^key-a691da00d906062deadde0d8ec2e4600]
+## 2. Classes of authorities.[^c-a691da00d906062deadde0d8ec2e4600][^c-a691da00d906062deadde0d8ec2e4600]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Short title and extent.[^c-a691da00d906062deadde0d8ec2e4600][^c-a691da00d906062deadde0d8ec2e4600]
 
 **No longer in force.**
 
@@ -51,4 +51,4 @@ Rate Support Grants Act 1987 (repealed)
 
 ## Annotations
 
-[^key-a691da00d906062deadde0d8ec2e4600]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1987/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-a691da00d906062deadde0d8ec2e4600]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1987/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Application to replace[^key-49a741e096dfcbd908ec3d0668762a42]
+## 138. Application to replace[^c-49a741e096dfcbd908ec3d0668762a42]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49a741e096dfcbd908ec3d0668762a42]: Commencement: Rule 138 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-49a741e096dfcbd908ec3d0668762a42]: Commencement: Rule 138 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

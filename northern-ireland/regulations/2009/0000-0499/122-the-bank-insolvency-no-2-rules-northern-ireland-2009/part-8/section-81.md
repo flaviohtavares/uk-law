@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Test of security’s value[^key-c47d7ae62cf46e356226398868b2daaa]
+## 81. Test of security’s value[^c-c47d7ae62cf46e356226398868b2daaa]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.104 of the 1991 Rules.
 
 ## Annotations
 
-[^key-c47d7ae62cf46e356226398868b2daaa]: Commencement: Rule 81 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-c47d7ae62cf46e356226398868b2daaa]: Commencement: Rule 81 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

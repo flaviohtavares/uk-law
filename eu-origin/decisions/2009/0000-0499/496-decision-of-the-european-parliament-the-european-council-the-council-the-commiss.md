@@ -36,72 +36,72 @@ on the organisation and operation of the Publications Office of the European Uni
 
 (2009/496/EC, Euratom) (revoked)
 
-[^key-752e60cafc37646b3e41b9c0dea45958]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-752e60cafc37646b3e41b9c0dea45958]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. The Publications Office[^key-752e60cafc37646b3e41b9c0dea45958]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 1. The Publications Office[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Scope of competence of the Office[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 2. Definitions[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Responsibilities of the institutions[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 3. Scope of competence of the Office[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Tasks of the Office[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 4. Responsibilities of the institutions[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Management Committee[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 5. Tasks of the Office[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Tasks and responsibilities of the Management Committee[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 6. Management Committee[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Director of the Office[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 7. Tasks and responsibilities of the Management Committee[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Tasks and responsibilities of the Director of the Office[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 8. Director of the Office[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Staff[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 9. Tasks and responsibilities of the Director of the Office[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Financial aspects[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 10. Staff[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Oversight[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 11. Financial aspects[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Complaints and requests[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 12. Oversight[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Public access to documents[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 13. Complaints and requests[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Repeal[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 14. Public access to documents[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Effective date[^key-752e60cafc37646b3e41b9c0dea45958]
+## Article 15. Repeal[^c-752e60cafc37646b3e41b9c0dea45958]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 16. Effective date[^c-752e60cafc37646b3e41b9c0dea45958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-752e60cafc37646b3e41b9c0dea45958]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-752e60cafc37646b3e41b9c0dea45958]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

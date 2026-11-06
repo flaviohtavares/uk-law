@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Consultation before applying for planning permission[^c2116525][^key-119647483fb8b648e29127314d9d10fd]
+## 122. Consultation before applying for planning permission[^c2116525][^c-119647483fb8b648e29127314d9d10fd]
 
 *Extent: E+W*
 
@@ -92,14 +92,14 @@ summary: ''
 > - (b) any responses to the consultation that were received by the person, and
 > - (c) the account taken of those responses.
 
-(3)[^key-efbb629d80fe4eb57efcc31fd38ba2cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-efbb629d80fe4eb57efcc31fd38ba2cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-efbb629d80fe4eb57efcc31fd38ba2cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-efbb629d80fe4eb57efcc31fd38ba2cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c2116525]: Commencement: S. 122 in force for specified purposes at Royal Assent see [s. 240(5)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/l)
 
-[^key-119647483fb8b648e29127314d9d10fd]: Commencement: S. 122 in force at 17.12.2013 in so far as not already in force by [S.I. 2013/2931](https://www.legislation.gov.uk/uksi/2013/2931), [art. 2](https://www.legislation.gov.uk/uksi/2013/2931/article/2)
+[^c-119647483fb8b648e29127314d9d10fd]: Commencement: S. 122 in force at 17.12.2013 in so far as not already in force by [S.I. 2013/2931](https://www.legislation.gov.uk/uksi/2013/2931), [art. 2](https://www.legislation.gov.uk/uksi/2013/2931/article/2)
 
-[^key-efbb629d80fe4eb57efcc31fd38ba2cb]: Textual amendment: [S. 122(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/122/3)[(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/122/4) omitted (25.4.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 122](https://www.legislation.gov.uk/ukpga/2023/55/section/122), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/h)
+[^c-efbb629d80fe4eb57efcc31fd38ba2cb]: Textual amendment: [S. 122(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/122/3)[(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/122/4) omitted (25.4.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 122](https://www.legislation.gov.uk/ukpga/2023/55/section/122), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/h)

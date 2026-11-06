@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Penalties for acting while disqualified.[^key-55199b9c932856d0efa0ad86057386df][^key-e0dd24082fff70c58f7c44b2b6792470]
+## 6. Penalties for acting while disqualified.[^c-55199b9c932856d0efa0ad86057386df][^c-e0dd24082fff70c58f7c44b2b6792470]
 
 *Extent: N.I.*
 
@@ -36,9 +36,9 @@ summary: ''
 
 ## Annotations
 
-[^key-55199b9c932856d0efa0ad86057386df]: Modification: S. 6 modified (3.10.2013) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 3(3)](https://www.legislation.gov.uk/nisr/2013/238/article/3/3) (with art. 3(4))
+[^c-55199b9c932856d0efa0ad86057386df]: Modification: S. 6 modified (3.10.2013) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 3(3)](https://www.legislation.gov.uk/nisr/2013/238/article/3/3) (with art. 3(4))
 
-[^key-e0dd24082fff70c58f7c44b2b6792470]: Modification: [S. 6](https://www.legislation.gov.uk/apni/1972/9/section/6) applied (2.6.2014 for specified purposes) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 15(2)](https://www.legislation.gov.uk/nia/2014/8/section/15/2), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-e0dd24082fff70c58f7c44b2b6792470]: Modification: [S. 6](https://www.legislation.gov.uk/apni/1972/9/section/6) applied (2.6.2014 for specified purposes) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 15(2)](https://www.legislation.gov.uk/nia/2014/8/section/15/2), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
 [^c16962131]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/nisi/1984)
 

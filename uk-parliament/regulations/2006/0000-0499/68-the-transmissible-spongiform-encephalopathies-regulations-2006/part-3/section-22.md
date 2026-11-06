@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Penalties[^key-62b207796695d789a32c4a82eb76f2c3]
+## 22. Penalties[^c-62b207796695d789a32c4a82eb76f2c3]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ A person guilty of an offence under these Regulations is liable—
 
 ## Annotations
 
-[^key-62b207796695d789a32c4a82eb76f2c3]: Commencement: Reg. 22 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-62b207796695d789a32c4a82eb76f2c3]: Commencement: Reg. 22 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

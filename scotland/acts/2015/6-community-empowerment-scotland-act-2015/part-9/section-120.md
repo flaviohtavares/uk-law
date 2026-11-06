@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Duty to review food-growing strategy[^key-515ada0096be406310cbbf74e3632500]
+## 120. Duty to review food-growing strategy[^c-515ada0096be406310cbbf74e3632500]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-515ada0096be406310cbbf74e3632500]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2015/6/section/120) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-515ada0096be406310cbbf74e3632500]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2015/6/section/120) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

@@ -42,27 +42,27 @@ Coming into operation
 
 The Department for Regional Development[^f00001], being a Department designated[^f00002] for the purposes of section 2(2) of the European Communities Act 1972[^f00003] in relation to measures relating to railways and railway transport, in exercise of the powers conferred by that section makes the following Regulations:
 
-## 1. Citation, commencement and extent[^key-670f37725db672f98e90354389f84166]
+## 1. Citation, commencement and extent[^c-670f37725db672f98e90354389f84166]
 
 (1) These Regulations may be cited as the Rail Passengers’ Rights and Obligations (Exemptions) Regulations (Northern Ireland) 2011 and come into operation on the 22<sup>nd</sup> April 2011.
 
-## 2. Interpretation[^key-c7edab2f644153cb7df070551dfeb2b7]
+## 2. Interpretation[^c-c7edab2f644153cb7df070551dfeb2b7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption of domestic rail passenger services from the provisions of the Community Regulation[^key-c7edab2f644153cb7df070551dfeb2b7]
+## 3. Exemption of domestic rail passenger services from the provisions of the Community Regulation[^c-c7edab2f644153cb7df070551dfeb2b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Liability in respect of exempt services[^key-c7edab2f644153cb7df070551dfeb2b7]
+## 4. Liability in respect of exempt services[^c-c7edab2f644153cb7df070551dfeb2b7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation of regulations 2, 3 and 4[^key-6208027f1f43d3985fd274b21235f12c]
+## 5. Revocation of regulations 2, 3 and 4[^c-6208027f1f43d3985fd274b21235f12c]
 
 Regulations 2 and 3 and 4 shall cease to have effect on 31<sup>st</sup> December 2014.
 
@@ -96,8 +96,8 @@ Under *regulation 5*, regulations 2, 3 and 4 will cease to have effect on 31<sup
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2<sup>nd</sup> May 1992 (Cm 2073) and the Protocol adjusting the agreement signed at Brussels on 17<sup>th</sup> March 1993 (Cm 2183)
 
-[^key-670f37725db672f98e90354389f84166]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/134/regulation/1) in operation at 22.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/134/regulation/1/1)
+[^c-670f37725db672f98e90354389f84166]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/134/regulation/1) in operation at 22.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/134/regulation/1/1)
 
-[^key-c7edab2f644153cb7df070551dfeb2b7]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/nisr/2011/134/regulation/2) ceases to have effect (31.12.2014) by virtue of [The Rail Passengers’ Rights and Obligations (Exemptions) Regulations (Northern Ireland) 2011 (S.R. 2011/134)](https://www.legislation.gov.uk/nisr/2011/134), [reg. 5](https://www.legislation.gov.uk/nisr/2011/134/regulation/5)
+[^c-c7edab2f644153cb7df070551dfeb2b7]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/nisr/2011/134/regulation/2) ceases to have effect (31.12.2014) by virtue of [The Rail Passengers’ Rights and Obligations (Exemptions) Regulations (Northern Ireland) 2011 (S.R. 2011/134)](https://www.legislation.gov.uk/nisr/2011/134), [reg. 5](https://www.legislation.gov.uk/nisr/2011/134/regulation/5)
 
-[^key-6208027f1f43d3985fd274b21235f12c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/134/regulation/5) in operation at 22.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/134/regulation/1/1)
+[^c-6208027f1f43d3985fd274b21235f12c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/134/regulation/5) in operation at 22.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/134/regulation/1/1)

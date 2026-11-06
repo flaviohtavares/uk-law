@@ -24,7 +24,7 @@ Regulation 10
 
 ### PART 1
 
-**1.**[^key-dbd0482877f1194a2960f4ce4f053c7d] In the following provisions of the National Health Service Superannuation Scheme (Scotland) Regulations 1995 (“the 1995 Regulations”) before “the scheme” insert “this Section of”—
+**1.**[^c-dbd0482877f1194a2960f4ce4f053c7d] In the following provisions of the National Health Service Superannuation Scheme (Scotland) Regulations 1995 (“the 1995 Regulations”) before “the scheme” insert “this Section of”—
 
 <table>
 <thead>
@@ -77,20 +77,20 @@ Regulation 10
 |  | 4(1) | 10 heading and 10(2J)(b) | 23(4)(b) and (6)(a) |
 |  | 5(8) | 14(2) |  |
 
-### PART 2[^key-e063d805f22d8b6decae96cb78e3ab6c]
+### PART 2[^c-e063d805f22d8b6decae96cb78e3ab6c]
 
 **No longer in force.**
 
-**2.**[^key-e063d805f22d8b6decae96cb78e3ab6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e063d805f22d8b6decae96cb78e3ab6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 3
 
-**3.**[^key-e3499751e11e34e9fca7043cbbbe1300] In regulation K1 of the 1995 Regulations for “The scheme” substitute “This Section of the scheme”.
+**3.**[^c-e3499751e11e34e9fca7043cbbbe1300] In regulation K1 of the 1995 Regulations for “The scheme” substitute “This Section of the scheme”.
 
 ## Annotations
 
-[^key-dbd0482877f1194a2960f4ce4f053c7d]: Commencement: Sch. 1 para. 1 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-dbd0482877f1194a2960f4ce4f053c7d]: Commencement: Sch. 1 para. 1 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
 
-[^key-e063d805f22d8b6decae96cb78e3ab6c]: Textual amendment: Sch. 1 Pt. 2 omitted (with effect from 1.4.2010) by virtue of [The National Health Service (Superannuation Scheme, Pension Scheme, Injury Benefits and Additional Voluntary Contributions) (Scotland) Amendment (No. 2) Regulations 2010 (S.S.I. 2010/369)](https://www.legislation.gov.uk/ssi/2010/369), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2), [77](https://www.legislation.gov.uk/ssi/2010/369/regulation/77) (with [reg. 80](https://www.legislation.gov.uk/ssi/2010/369/regulation/80))
+[^c-e063d805f22d8b6decae96cb78e3ab6c]: Textual amendment: Sch. 1 Pt. 2 omitted (with effect from 1.4.2010) by virtue of [The National Health Service (Superannuation Scheme, Pension Scheme, Injury Benefits and Additional Voluntary Contributions) (Scotland) Amendment (No. 2) Regulations 2010 (S.S.I. 2010/369)](https://www.legislation.gov.uk/ssi/2010/369), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/369/regulation/1/2), [77](https://www.legislation.gov.uk/ssi/2010/369/regulation/77) (with [reg. 80](https://www.legislation.gov.uk/ssi/2010/369/regulation/80))
 
-[^key-e3499751e11e34e9fca7043cbbbe1300]: Commencement: Sch. 1 para. 3 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-e3499751e11e34e9fca7043cbbbe1300]: Commencement: Sch. 1 para. 3 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)

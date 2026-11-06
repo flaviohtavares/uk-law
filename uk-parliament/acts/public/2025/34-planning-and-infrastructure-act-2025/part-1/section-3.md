@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Projects relating to water[^key-b9d58e4b49b2fe1262f5c67a19d6b085]
+## 3. Projects relating to water[^c-b9d58e4b49b2fe1262f5c67a19d6b085]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9d58e4b49b2fe1262f5c67a19d6b085]: Commencement: S. 3 in force at Royal Assent, see [s. 118(1)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/b)
+[^c-b9d58e4b49b2fe1262f5c67a19d6b085]: Commencement: S. 3 in force at Royal Assent, see [s. 118(1)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/b)

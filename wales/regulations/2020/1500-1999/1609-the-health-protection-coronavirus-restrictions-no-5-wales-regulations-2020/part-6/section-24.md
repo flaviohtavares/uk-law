@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Interpretation of this Part[^key-4903e956319703775c88d2703421c91d]
+## 24. Interpretation of this Part[^c-4903e956319703775c88d2703421c91d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4903e956319703775c88d2703421c91d]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/wsi/2020/1609/part/6) omitted (28.8.2021) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 16) Regulations 2021 (S.I. 2021/970)](https://www.legislation.gov.uk/wsi/2021/970), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/970/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2021/970/regulation/2/5)
+[^c-4903e956319703775c88d2703421c91d]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/wsi/2020/1609/part/6) omitted (28.8.2021) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 16) Regulations 2021 (S.I. 2021/970)](https://www.legislation.gov.uk/wsi/2021/970), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/970/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2021/970/regulation/2/5)

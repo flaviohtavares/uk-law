@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 156. Duty of liquidator to settle list[^key-ba908a2736d2b72d0bfd6bfc9f3b1591]
+## 156. Duty of liquidator to settle list[^c-ba908a2736d2b72d0bfd6bfc9f3b1591]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.196 of the 1986 Rules.
 
 ## Annotations
 
-[^key-ba908a2736d2b72d0bfd6bfc9f3b1591]: Commencement: Rule 156 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-ba908a2736d2b72d0bfd6bfc9f3b1591]: Commencement: Rule 156 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

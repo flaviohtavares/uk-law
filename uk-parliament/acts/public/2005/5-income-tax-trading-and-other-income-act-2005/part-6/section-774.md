@@ -33,14 +33,14 @@ summary: ''
 
 (5) The Treasury may by order designate for the purposes of this section—
 
-- (a) any of the Communities *(affected by repeal, see note)*[^key-1c42f2bdd85891986a1ecde9d5bfcf2c] European Union ,
+- (a) any of the Communities *(affected by repeal, see note)*[^c-1c42f2bdd85891986a1ecde9d5bfcf2c] European Union ,
 - (b) the European Investment Bank,
 - (c) any international organisation that meets conditions A and B.
 
-(6) Condition A is that one of its members is the United Kingdom or any of the Communities *(affected by repeal, see note)*[^key-1c42f2bdd85891986a1ecde9d5bfcf2c] European Union .
+(6) Condition A is that one of its members is the United Kingdom or any of the Communities *(affected by repeal, see note)*[^c-1c42f2bdd85891986a1ecde9d5bfcf2c] European Union .
 
 (7) Condition B is that the agreement under which that member became a member provides for the same kind of exemption from tax for income from securities issued by the organisation as this section provides.
 
 ## Annotations
 
-[^key-1c42f2bdd85891986a1ecde9d5bfcf2c]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-1c42f2bdd85891986a1ecde9d5bfcf2c]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

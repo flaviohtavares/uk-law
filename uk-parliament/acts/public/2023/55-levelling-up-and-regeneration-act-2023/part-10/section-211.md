@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Power to enter and survey land[^key-0d4c1044cedaf7550989160c6ae12f60][^key-4d900fc0197143ab564b31733d66fdc8]
+## 211. Power to enter and survey land[^c-0d4c1044cedaf7550989160c6ae12f60][^c-4d900fc0197143ab564b31733d66fdc8]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ if so requested by any person who appears to have control over the premises or o
 
 ## Annotations
 
-[^key-0d4c1044cedaf7550989160c6ae12f60]: Commencement: S. 211 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-0d4c1044cedaf7550989160c6ae12f60]: Commencement: S. 211 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-4d900fc0197143ab564b31733d66fdc8]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2023/55/section/211) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
+[^c-4d900fc0197143ab564b31733d66fdc8]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2023/55/section/211) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Entry, search and seizure: Crown application[^key-5343abc075995cfd1bf2d663d82ca5e2]
+## 82. Entry, search and seizure: Crown application[^c-5343abc075995cfd1bf2d663d82ca5e2]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ After section 109E of the Social Security Administration Act 1992 (inserted by s
 
 ## Annotations
 
-[^key-5343abc075995cfd1bf2d663d82ca5e2]: Commencement: S. 82 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-5343abc075995cfd1bf2d663d82ca5e2]: Commencement: S. 82 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

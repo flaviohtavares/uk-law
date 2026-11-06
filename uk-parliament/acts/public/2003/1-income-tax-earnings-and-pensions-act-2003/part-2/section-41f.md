@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41F. Taxable specific income: internationally mobile employees etc[^key-9fd66e2727d055604f2f4f22c87ff1de]
+## 41F. Taxable specific income: internationally mobile employees etc[^c-9fd66e2727d055604f2f4f22c87ff1de]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) The “international mobility conditions” are—
 
-- (a) that any part of the relevant period (see section 41G) is within a tax year for which section 809B, 809D or 809E of ITA 2007 (remittance basis) applied[^key-e0b490c8fe89f0759750da595e853ba4] to the individual;
+- (a) that any part of the relevant period (see section 41G) is within a tax year for which section 809B, 809D or 809E of ITA 2007 (remittance basis) applied[^c-e0b490c8fe89f0759750da595e853ba4] to the individual;
 - (b) that any part of the relevant period is within a tax year for which the individual is not UK resident;
 - (c) that any part of the relevant period is within the overseas part of a tax year that is a split year with respect to the individual.
 
@@ -66,6 +66,6 @@ for the purposes of that Chapter treat the consideration (and not the relevant s
 
 ## Annotations
 
-[^key-9fd66e2727d055604f2f4f22c87ff1de]: Textual amendment: Pt. 2 Ch. 5B substituted (with effect in accordance with Sch. 3 para. 7(3), Sch. 9 para. 48 of the amending Act) for Pt. 2 Ch. 5A by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/5), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-9fd66e2727d055604f2f4f22c87ff1de]: Textual amendment: Pt. 2 Ch. 5B substituted (with effect in accordance with Sch. 3 para. 7(3), Sch. 9 para. 48 of the amending Act) for Pt. 2 Ch. 5A by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/5), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
 
-[^key-e0b490c8fe89f0759750da595e853ba4]: Textual amendment: Word in s. 41F(2)(a) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/8)
+[^c-e0b490c8fe89f0759750da595e853ba4]: Textual amendment: Word in s. 41F(2)(a) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/8)

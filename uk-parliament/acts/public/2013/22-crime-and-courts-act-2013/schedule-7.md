@@ -24,18 +24,18 @@ Section 12
 
 ### Part 1 — Statutory restrictions
 
-**1.**[^key-98f20b26122db2ed7d2f7a6e51a90d4d] (1)[^key-f2fcb76f6838af04e947736da7eada90] This Part of this Act does not authorise or require—
+**1.**[^c-98f20b26122db2ed7d2f7a6e51a90d4d] (1)[^c-f2fcb76f6838af04e947736da7eada90] This Part of this Act does not authorise or require—
 
-- (a) a disclosure, in contravention of any provisions of the data protection legislation[^key-0c6af59c71f2a5adf376e96223001bf7], of personal data which is[^key-b16cee1e395280724b2dd4418c162da0] not exempt from those provisions, or
-- (b) a disclosure which is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^key-09533e6be53a504c6c6167b1bea95e6b].
+- (a) a disclosure, in contravention of any provisions of the data protection legislation[^c-0c6af59c71f2a5adf376e96223001bf7], of personal data which is[^c-b16cee1e395280724b2dd4418c162da0] not exempt from those provisions, or
+- (b) a disclosure which is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^c-09533e6be53a504c6c6167b1bea95e6b].
 
-(2)[^key-ab7c3111f32f0b9c3c9e49af6416a9c0] In this paragraph, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(2)[^c-ab7c3111f32f0b9c3c9e49af6416a9c0] In this paragraph, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 ### Part 2 — Restrictions on disclosures of particular types of information
 
 #### HMRC & customs information
 
-**2.**[^key-005ac2ebd03c8a2e8804a603f0285604] (1) An NCA officer must not disclose—
+**2.**[^c-005ac2ebd03c8a2e8804a603f0285604] (1) An NCA officer must not disclose—
 
 - (a) HMRC information,
 - (b) personal customs information, or
@@ -62,7 +62,7 @@ to a person, that person must not further disclose that information unless the r
 
 #### Social security information
 
-**3.**[^key-fa6dd3d17ac203d9624e729a84321708] (1) An NCA officer must not disclose social security information unless the relevant authority consents to the disclosure.
+**3.**[^c-fa6dd3d17ac203d9624e729a84321708] (1) An NCA officer must not disclose social security information unless the relevant authority consents to the disclosure.
 
 (2) If an NCA officer has disclosed social security information to a person, that person must not further disclose that information unless the relevant authority consents to the disclosure.
 
@@ -82,7 +82,7 @@ to a person, that person must not further disclose that information unless the r
 
 #### Intelligence service information
 
-**4.**[^key-98a70e1a14f423a947ae03c18c2a91f6] (1) An NCA officer must not disclose intelligence service information unless the relevant authority consents to the disclosure.
+**4.**[^c-98a70e1a14f423a947ae03c18c2a91f6] (1) An NCA officer must not disclose intelligence service information unless the relevant authority consents to the disclosure.
 
 (2) If an NCA officer has disclosed intelligence service information to a person, that person must not further disclose that information unless the relevant authority consents to the disclosure.
 
@@ -100,13 +100,13 @@ to a person, that person must not further disclose that information unless the r
 
 #### Arrangements for publishing information
 
-**5.**[^key-1b4cd15a409e238ca2863b5ffa9b2e92] The Director General must not disclose information if the disclosure would be in breach of a requirement that is imposed on the Director General by the framework document in accordance with section 6(2).
+**5.**[^c-1b4cd15a409e238ca2863b5ffa9b2e92] The Director General must not disclose information if the disclosure would be in breach of a requirement that is imposed on the Director General by the framework document in accordance with section 6(2).
 
 ### Part 3 — Restrictions on further disclosures of information
 
 #### Information generally
 
-**6.**[^key-7aa84df140ec20c7446c509a3fc8a75b] (1) If an NCA officer has disclosed information to a person (the “original recipient”), that person must not further disclose the information unless—
+**6.**[^c-7aa84df140ec20c7446c509a3fc8a75b] (1) If an NCA officer has disclosed information to a person (the “original recipient”), that person must not further disclose the information unless—
 
 - (a) the disclosure is—
   - (i) for a purpose connected with any relevant function of the original recipient, or
@@ -126,7 +126,7 @@ to a person, that person must not further disclose that information unless the r
 
 #### Information obtained under Part 6 of PCA 2002 & disclosed to Commissioners
 
-**7.**[^key-4fda398f0caba451c9fc7ead8a3b1799] (1) This paragraph applies to information disclosed by an NCA officer under section 7(7) to the Commissioners.
+**7.**[^c-4fda398f0caba451c9fc7ead8a3b1799] (1) This paragraph applies to information disclosed by an NCA officer under section 7(7) to the Commissioners.
 
 (2) The information may be further disclosed by the Commissioners only if the disclosure is—
 
@@ -144,14 +144,14 @@ to a person, that person must not further disclose that information unless the r
 
 #### Information obtained under Part 6 of PCA 2002 & disclosed to Lord Advocate
 
-**8.**[^key-ef63f74029d05260544d413ed2296086] Information disclosed by an NCA officer under section 7(7) to the Lord Advocate may be further disclosed only if the disclosure is—
+**8.**[^c-ef63f74029d05260544d413ed2296086] Information disclosed by an NCA officer under section 7(7) to the Lord Advocate may be further disclosed only if the disclosure is—
 
 - (a) by the Lord Advocate to the Scottish Ministers, and
 - (b) for the purpose of the exercise by the Scottish Ministers of their functions under Part 5 of PCA 2002.
 
 ### Part 4 — Published information: no restrictions on further disclosure
 
-**9.**[^key-2877fe0b251b5e35938afcd2a6478c7b] (1) This paragraph applies where an NCA officer discloses information, in accordance with this Part of this Act, by—
+**9.**[^c-2877fe0b251b5e35938afcd2a6478c7b] (1) This paragraph applies where an NCA officer discloses information, in accordance with this Part of this Act, by—
 
 - (a) the inclusion of the information in an annual plan, framework document or annual report, or
 - (b) the publication of the information in accordance with arrangements made under section 6.
@@ -162,7 +162,7 @@ to a person, that person must not further disclose that information unless the r
 
 ### Part 5 — Offences relating to wrongful disclosure of information
 
-**10.**[^key-44e3eab4503ef6b0ef976df73ec30139] (1) An NCA officer commits an offence if—
+**10.**[^c-44e3eab4503ef6b0ef976df73ec30139] (1) An NCA officer commits an offence if—
 
 - (a) the NCA officer discloses information, and
 - (b) that disclosure breaches the duty under—
@@ -196,67 +196,67 @@ to a person, that person must not further disclose that information unless the r
 (7) A person guilty of an offence under this paragraph is liable on summary conviction to either or both of the following—
 
 - (a) imprisonment for a term not exceeding—
-  - (i) the general limit in a magistrates’ court[^key-0f797103d849a8301f3f8e776fbeb653] on conviction in England and Wales;
+  - (i) the general limit in a magistrates’ court[^c-0f797103d849a8301f3f8e776fbeb653] on conviction in England and Wales;
   - (ii) 12 months on conviction in Scotland;
   - (iii) 6 months on conviction in Northern Ireland;
 - (b) a fine not exceeding the statutory maximum.
 
-(8) In relation to an offence committed before 2 May 2022[^key-55fb255b2c9656391f55c4ee1c576fe4], the reference in sub-paragraph (7)(a)(i) to the period of the general limit in a magistrates’ court[^key-24b502bfec266ac42ee66ca455d64d29] is to be read as a reference to the period of 6 months.
+(8) In relation to an offence committed before 2 May 2022[^c-55fb255b2c9656391f55c4ee1c576fe4], the reference in sub-paragraph (7)(a)(i) to the period of the general limit in a magistrates’ court[^c-24b502bfec266ac42ee66ca455d64d29] is to be read as a reference to the period of 6 months.
 
 ### Part 6 — General
 
 #### Consents
 
-**11.**[^key-a1d77eba921506ff59bfd8bd644df75f] A consent to disclosure of information under any provision of this Schedule may be given in relation to—
+**11.**[^c-a1d77eba921506ff59bfd8bd644df75f] A consent to disclosure of information under any provision of this Schedule may be given in relation to—
 
 - (a) a particular disclosure, or
 - (b) disclosures made in circumstances specified or described in the consent.
 
 #### Interpretation
 
-**12.**[^key-1df06f4c8b6638e375bb2259054dd138] In this Schedule—
+**12.**[^c-1df06f4c8b6638e375bb2259054dd138] In this Schedule—
 
 - “**Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
 - “**PCA 2002**” means the Proceeds of Crime Act 2002.
 
 ## Annotations
 
-[^key-98f20b26122db2ed7d2f7a6e51a90d4d]: Commencement: Sch. 7 para. 1 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-98f20b26122db2ed7d2f7a6e51a90d4d]: Commencement: Sch. 7 para. 1 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
 
-[^key-f2fcb76f6838af04e947736da7eada90]: Textual amendment: Sch. 7 para. 1(1): Sch. 7 para. 1 renumbered as Sch. 7 para. 1(1) (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 182(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/182/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-f2fcb76f6838af04e947736da7eada90]: Textual amendment: Sch. 7 para. 1(1): Sch. 7 para. 1 renumbered as Sch. 7 para. 1(1) (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 182(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/182/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-0c6af59c71f2a5adf376e96223001bf7]: Textual amendment: Words in Sch. 7 para. 1(1)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 182(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/182/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-0c6af59c71f2a5adf376e96223001bf7]: Textual amendment: Words in Sch. 7 para. 1(1)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 182(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/182/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-b16cee1e395280724b2dd4418c162da0]: Textual amendment: Word in Sch. 7 para. 1(1)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 182(3)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/182/3/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-b16cee1e395280724b2dd4418c162da0]: Textual amendment: Word in Sch. 7 para. 1(1)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 182(3)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/182/3/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-09533e6be53a504c6c6167b1bea95e6b]: Textual amendment: Words in Sch. 7 para. 1(b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/29) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-09533e6be53a504c6c6167b1bea95e6b]: Textual amendment: Words in Sch. 7 para. 1(b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/29) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
 
-[^key-ab7c3111f32f0b9c3c9e49af6416a9c0]: Textual amendment: Sch. 7 para. 1(2) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 182(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/182/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-ab7c3111f32f0b9c3c9e49af6416a9c0]: Textual amendment: Sch. 7 para. 1(2) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 182(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/182/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-005ac2ebd03c8a2e8804a603f0285604]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/2) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-005ac2ebd03c8a2e8804a603f0285604]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/2) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
 
-[^key-fa6dd3d17ac203d9624e729a84321708]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/3) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-fa6dd3d17ac203d9624e729a84321708]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/3) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
 
-[^key-98a70e1a14f423a947ae03c18c2a91f6]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/4) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-98a70e1a14f423a947ae03c18c2a91f6]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/4) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
 
-[^key-1b4cd15a409e238ca2863b5ffa9b2e92]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/5) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-1b4cd15a409e238ca2863b5ffa9b2e92]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/5) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
 
-[^key-7aa84df140ec20c7446c509a3fc8a75b]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/6) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-7aa84df140ec20c7446c509a3fc8a75b]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/6) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
 
-[^key-4fda398f0caba451c9fc7ead8a3b1799]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/7) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-4fda398f0caba451c9fc7ead8a3b1799]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/7) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
 
-[^key-ef63f74029d05260544d413ed2296086]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/8) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-ef63f74029d05260544d413ed2296086]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/8) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
 
-[^key-2877fe0b251b5e35938afcd2a6478c7b]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/9) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-2877fe0b251b5e35938afcd2a6478c7b]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/9) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
 
-[^key-44e3eab4503ef6b0ef976df73ec30139]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/10) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-44e3eab4503ef6b0ef976df73ec30139]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/10) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
 
-[^key-0f797103d849a8301f3f8e776fbeb653]: Textual amendment: Words in [Sch. 7 para. 10(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/10/7/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-0f797103d849a8301f3f8e776fbeb653]: Textual amendment: Words in [Sch. 7 para. 10(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/10/7/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-55fb255b2c9656391f55c4ee1c576fe4]: Textual amendment: Words in [Sch. 7 para. 10(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/10/8) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-55fb255b2c9656391f55c4ee1c576fe4]: Textual amendment: Words in [Sch. 7 para. 10(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/10/8) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-24b502bfec266ac42ee66ca455d64d29]: Textual amendment: Words in [Sch. 7 para. 10(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/10/8) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-24b502bfec266ac42ee66ca455d64d29]: Textual amendment: Words in [Sch. 7 para. 10(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/10/8) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-a1d77eba921506ff59bfd8bd644df75f]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/11) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-a1d77eba921506ff59bfd8bd644df75f]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/11) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
 
-[^key-1df06f4c8b6638e375bb2259054dd138]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/12) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)
+[^c-1df06f4c8b6638e375bb2259054dd138]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/7/paragraph/12) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/r)

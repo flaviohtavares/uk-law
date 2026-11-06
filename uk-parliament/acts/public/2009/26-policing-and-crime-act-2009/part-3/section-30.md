@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Offence of persistently possessing alcohol in a public place[^key-5cdbd6438b88c7e5e947a85a793ddc06]
+## 30. Offence of persistently possessing alcohol in a public place[^c-5cdbd6438b88c7e5e947a85a793ddc06]
 
 *Extent: E+W+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cdbd6438b88c7e5e947a85a793ddc06]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2009/26/section/30) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(g)](https://www.legislation.gov.uk/uksi/2010/125/article/2/g)
+[^c-5cdbd6438b88c7e5e947a85a793ddc06]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2009/26/section/30) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(g)](https://www.legislation.gov.uk/uksi/2010/125/article/2/g)

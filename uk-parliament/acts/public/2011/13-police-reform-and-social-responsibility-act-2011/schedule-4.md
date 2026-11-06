@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Commissioner of Police of the Metropolis[^key-e480da47c8391528976c8a11e9241f9f]
+## SCHEDULE 4 — Commissioner of Police of the Metropolis[^c-e480da47c8391528976c8a11e9241f9f]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Section 4
 
 ### Civilian staff
 
-**1.**[^key-96a2be2efdc4c861ec0da2ce9a618ac1] (1) The Commissioner of Police of the Metropolis must appoint a person to be responsible for the proper administration of the metropolitan police force's financial affairs (referred to in this Part as the metropolitan police force's chief finance officer).
+**1.**[^c-96a2be2efdc4c861ec0da2ce9a618ac1] (1) The Commissioner of Police of the Metropolis must appoint a person to be responsible for the proper administration of the metropolitan police force's financial affairs (referred to in this Part as the metropolitan police force's chief finance officer).
 
 (2) The Commissioner of Police of the Metropolis may appoint such other staff as the Commissioner thinks appropriate—
 
@@ -33,7 +33,7 @@ Section 4
 
 (3) Section 113 of the Local Government Finance Act 1988 applies to the chief finance officer of the Commissioner of Police of the Metropolis as it applies to the persons having responsibility for the administration of financial affairs mentioned in that section.
 
-**2.**[^key-fac1a380bb8a71382330160e79db7315] (1) The Commissioner of Police of the Metropolis must appoint a qualified person to act as chief finance officer, if and for as long as—
+**2.**[^c-fac1a380bb8a71382330160e79db7315] (1) The Commissioner of Police of the Metropolis must appoint a qualified person to act as chief finance officer, if and for as long as—
 
 - (a) that post is vacant, or
 - (b) the holder of that post is, in the Commissioner's opinion, unable to carry out the duties of that post.
@@ -44,7 +44,7 @@ Section 4
 
 ### Remuneration etc of staff
 
-**3.**[^key-0cba106d827de6e57e544a44581b6c7d] (1) The Commissioner of Police of the Metropolis may pay remuneration, allowances and gratuities to the members of the metropolitan police force's civilian staff.
+**3.**[^c-0cba106d827de6e57e544a44581b6c7d] (1) The Commissioner of Police of the Metropolis may pay remuneration, allowances and gratuities to the members of the metropolitan police force's civilian staff.
 
 (2) The Commissioner of Police of the Metropolis may pay—
 
@@ -55,14 +55,14 @@ Section 4
 
 ### Incidental powers
 
-**4.**[^key-50df4d37d80d0e17fe20ea12fe4adf9c] (1) The Commissioner of Police of the Metropolis may do anything which is calculated to facilitate, or is conducive or incidental to, the exercise of the functions of the Commissioner.
+**4.**[^c-50df4d37d80d0e17fe20ea12fe4adf9c] (1) The Commissioner of Police of the Metropolis may do anything which is calculated to facilitate, or is conducive or incidental to, the exercise of the functions of the Commissioner.
 
 (2) That includes—
 
 - (a) entering into contracts and other agreements (whether legally binding or not), but only with the consent of the Mayor's Office for Policing and Crime;
 - (b) acquiring and disposing of property, apart from land, but only with the consent of the Mayor's Office for Policing and Crime.
 
-(3)[^key-309cd0f28ecd13169828fd1703a4b648] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-309cd0f28ecd13169828fd1703a4b648] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Sub-paragraph (3) does not require the Commissioner of Police of the Metropolis to obtain the consent of the Mayor's Office for Policing and Crime in order to enter into a contract or other agreement with a person—
 
@@ -71,7 +71,7 @@ Section 4
 
 (5) This paragraph is subject to the other provisions of this Act and to any other enactment about the powers of the Commissioner.
 
-### Financial arrangements etc[^key-38ec6aec792d2944a932c8c985dee743]
+### Financial arrangements etc[^c-38ec6aec792d2944a932c8c985dee743]
 
 **4A.** (1) The Commissioner of Police of the Metropolis may, by way of temporary loan or overdraft from a bank or otherwise, borrow sums temporarily required by the Commissioner, but only—
 
@@ -114,7 +114,7 @@ but only with the consent of the Mayor's Office for Policing and Crime.
 
 ### Damages and costs in legal proceedings
 
-**5.**[^key-fa3f00ffeaa3cee0fe9188b9afb2186c] (1) The following amounts must be paid out of the police fund kept by the Mayor's Office for Policing and Crime—
+**5.**[^c-fa3f00ffeaa3cee0fe9188b9afb2186c] (1) The following amounts must be paid out of the police fund kept by the Mayor's Office for Policing and Crime—
 
 - (a) any damages or costs awarded against the Commissioner of Police of the Metropolis in any proceedings brought against the Commissioner in respect of the acts or omissions of a member of the metropolitan police force's civilian staff;
 - (b) any costs incurred by the Commissioner of Police of the Metropolis in any such proceedings so far as not recovered by the Commissioner in the proceedings; and
@@ -128,24 +128,24 @@ but only with the consent of the Mayor's Office for Policing and Crime.
 
 ### Disciplinary action etc
 
-**6.**[^key-68c0171f0f2e0b700b4d57b87f2b2018] Section 4(1) does not affect the application of regulations under section 50 of the Police Act 1996 to the constable who occupies the office of Commissioner of Police of the Metropolis.
+**6.**[^c-68c0171f0f2e0b700b4d57b87f2b2018] Section 4(1) does not affect the application of regulations under section 50 of the Police Act 1996 to the constable who occupies the office of Commissioner of Police of the Metropolis.
 
 ## Annotations
 
-[^key-e480da47c8391528976c8a11e9241f9f]: Modification: Sch. 4 modified (temp.) (31.3.2014) by [The Police Reform and Social Responsibility Act 2011 (Transitional Provision) Order 2013 (S.I. 2013/2319)](https://www.legislation.gov.uk/uksi/2013/2319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/2/2)
+[^c-e480da47c8391528976c8a11e9241f9f]: Modification: Sch. 4 modified (temp.) (31.3.2014) by [The Police Reform and Social Responsibility Act 2011 (Transitional Provision) Order 2013 (S.I. 2013/2319)](https://www.legislation.gov.uk/uksi/2013/2319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/2/2)
 
-[^key-96a2be2efdc4c861ec0da2ce9a618ac1]: Commencement: Sch. 4 para. 1 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2011/3019/article/7/3))
+[^c-96a2be2efdc4c861ec0da2ce9a618ac1]: Commencement: Sch. 4 para. 1 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2011/3019/article/7/3))
 
-[^key-fac1a380bb8a71382330160e79db7315]: Commencement: Sch. 4 para. 2 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2011/3019/article/7/3))
+[^c-fac1a380bb8a71382330160e79db7315]: Commencement: Sch. 4 para. 2 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2011/3019/article/7/3))
 
-[^key-0cba106d827de6e57e544a44581b6c7d]: Commencement: Sch. 4 para. 3 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-0cba106d827de6e57e544a44581b6c7d]: Commencement: Sch. 4 para. 3 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-50df4d37d80d0e17fe20ea12fe4adf9c]: Commencement: Sch. 4 para. 4 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-50df4d37d80d0e17fe20ea12fe4adf9c]: Commencement: Sch. 4 para. 4 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-309cd0f28ecd13169828fd1703a4b648]: Textual amendment: [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/4/paragraph/4/3) repealed (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 100](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/100) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 23(j)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/23/j)
+[^c-309cd0f28ecd13169828fd1703a4b648]: Textual amendment: [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/4/paragraph/4/3) repealed (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 100](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/100) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 23(j)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/23/j)
 
-[^key-38ec6aec792d2944a932c8c985dee743]: Textual amendment: Sch. 4 para. 4A and cross-heading inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 141(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/141/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/11)
+[^c-38ec6aec792d2944a932c8c985dee743]: Textual amendment: Sch. 4 para. 4A and cross-heading inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 141(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/141/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/11)
 
-[^key-fa3f00ffeaa3cee0fe9188b9afb2186c]: Commencement: Sch. 4 para. 5 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-fa3f00ffeaa3cee0fe9188b9afb2186c]: Commencement: Sch. 4 para. 5 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-68c0171f0f2e0b700b4d57b87f2b2018]: Commencement: Sch. 4 para. 6 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-68c0171f0f2e0b700b4d57b87f2b2018]: Commencement: Sch. 4 para. 6 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

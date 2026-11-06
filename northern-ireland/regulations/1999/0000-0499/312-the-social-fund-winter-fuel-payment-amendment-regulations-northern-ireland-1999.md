@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Fund Winter Fuel Payment (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-6e3e02d84a5880f67464d677c245c092]
+The Social Fund Winter Fuel Payment (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-6e3e02d84a5880f67464d677c245c092]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 28th October 1999
 
-[^key-6e3e02d84a5880f67464d677c245c092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e3e02d84a5880f67464d677c245c092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6e3e02d84a5880f67464d677c245c092]
+## 1. Citation, commencement and interpretation[^c-6e3e02d84a5880f67464d677c245c092]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Fund Winter Fuel Payment Regulations[^key-6e3e02d84a5880f67464d677c245c092]
+## 2. Amendment of the Social Fund Winter Fuel Payment Regulations[^c-6e3e02d84a5880f67464d677c245c092]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6e3e02d84a5880f67464d677c245c092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e3e02d84a5880f67464d677c245c092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6e3e02d84a5880f67464d677c245c092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e3e02d84a5880f67464d677c245c092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e3e02d84a5880f67464d677c245c092]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/312) revoked (3.4.2000) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000 (S.R. 2000/91)](https://www.legislation.gov.uk/nisr/2000/91), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/91/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2000/91/regulation/5)
+[^c-6e3e02d84a5880f67464d677c245c092]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/312) revoked (3.4.2000) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000 (S.R. 2000/91)](https://www.legislation.gov.uk/nisr/2000/91), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/91/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2000/91/regulation/5)

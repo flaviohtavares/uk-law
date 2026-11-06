@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Condensed Milk and Dried Milk (Wales) Regulations 2003 (revoked)[^key-969a7c3bbe438feffd440acfabca61ba]
+The Condensed Milk and Dried Milk (Wales) Regulations 2003 (revoked)[^c-969a7c3bbe438feffd440acfabca61ba]
 
 Made
 
@@ -41,92 +41,92 @@ Coming into force
 
 28th November 2003
 
-[^key-969a7c3bbe438feffd440acfabca61ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-969a7c3bbe438feffd440acfabca61ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-969a7c3bbe438feffd440acfabca61ba]
+## 1. Title, commencement and application[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-969a7c3bbe438feffd440acfabca61ba]
+## 2. Interpretation[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope of Regulations[^key-969a7c3bbe438feffd440acfabca61ba]
+## 3. Scope of Regulations[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Reserved descriptions[^key-969a7c3bbe438feffd440acfabca61ba]
+## 4. Reserved descriptions[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Labelling and description of designated products[^key-969a7c3bbe438feffd440acfabca61ba]
+## 5. Labelling and description of designated products[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Manner of marking or labelling[^key-969a7c3bbe438feffd440acfabca61ba]
+## 6. Manner of marking or labelling[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties and enforcement[^key-969a7c3bbe438feffd440acfabca61ba]
+## 7. Penalties and enforcement[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Defence in relation to exports[^key-969a7c3bbe438feffd440acfabca61ba]
+## 8. Defence in relation to exports[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application of various provisions of the Food Safety Act 1990[^key-969a7c3bbe438feffd440acfabca61ba]
+## 9. Application of various provisions of the Food Safety Act 1990[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendments and revocations[^key-969a7c3bbe438feffd440acfabca61ba]
+## 10. Amendments and revocations[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Transitional provision[^key-969a7c3bbe438feffd440acfabca61ba]
+## 11. Transitional provision[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-969a7c3bbe438feffd440acfabca61ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-969a7c3bbe438feffd440acfabca61ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PARTLY OR WHOLLY DEHYDRATED PRESERVED MILK PRODUCTS AND THEIR RESERVED DESCRIPTIONS[^key-969a7c3bbe438feffd440acfabca61ba]
+## SCHEDULE 1 — PARTLY OR WHOLLY DEHYDRATED PRESERVED MILK PRODUCTS AND THEIR RESERVED DESCRIPTIONS[^c-969a7c3bbe438feffd440acfabca61ba]
 
 Regulation 2
 
-[^key-969a7c3bbe438feffd440acfabca61ba]
+[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 1. Notes:[^key-969a7c3bbe438feffd440acfabca61ba]
+### 1. Notes:[^c-969a7c3bbe438feffd440acfabca61ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ALTERNATIVES TO THE RESERVED DESCRIPTIONS SPECIFIED IN SCHEDULE 1[^key-969a7c3bbe438feffd440acfabca61ba]
+## SCHEDULE 2 — ALTERNATIVES TO THE RESERVED DESCRIPTIONS SPECIFIED IN SCHEDULE 1[^c-969a7c3bbe438feffd440acfabca61ba]
 
 Regulation 2
 
-**1.**[^key-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-969a7c3bbe438feffd440acfabca61ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-969a7c3bbe438feffd440acfabca61ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-969a7c3bbe438feffd440acfabca61ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-969a7c3bbe438feffd440acfabca61ba]: Textual amendment: Regulations revoked (26.3.2018) by [The Condensed Milk and Dried Milk (Wales) Regulations 2018 (S.I. 2018/275)](https://www.legislation.gov.uk/wsi/2018/275), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2018/275/regulation/8)
+[^c-969a7c3bbe438feffd440acfabca61ba]: Textual amendment: Regulations revoked (26.3.2018) by [The Condensed Milk and Dried Milk (Wales) Regulations 2018 (S.I. 2018/275)](https://www.legislation.gov.uk/wsi/2018/275), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2018/275/regulation/8)

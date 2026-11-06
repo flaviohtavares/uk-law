@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. False statements etc.[^key-94968c4d3800403babba2479f6d73ee4]
+## 106. False statements etc.[^c-94968c4d3800403babba2479f6d73ee4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94968c4d3800403babba2479f6d73ee4]: Textual amendment: [Ss. 103-107](https://www.legislation.gov.uk/ukpga/1994/9/section/103) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-94968c4d3800403babba2479f6d73ee4]: Textual amendment: [Ss. 103-107](https://www.legislation.gov.uk/ukpga/1994/9/section/103) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

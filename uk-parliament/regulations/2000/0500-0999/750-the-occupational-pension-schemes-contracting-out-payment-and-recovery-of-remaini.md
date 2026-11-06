@@ -72,7 +72,7 @@ shall be made in accordance with paragraph (2) below.
 
 ## 3. Recovery of amounts by Inland Revenue
 
-Where the Inland Revenue are, by virtue of section 41(1E) or 42A(2D) of the Act or section 37(1E) or 38A(2D) of the Northern Ireland Act[^key-a43f335d19ce9bbb3457d6695a3514b5], entitled to recover an amount from a secondary contributor, that amount–
+Where the Inland Revenue are, by virtue of section 41(1E) or 42A(2D) of the Act or section 37(1E) or 38A(2D) of the Northern Ireland Act[^c-a43f335d19ce9bbb3457d6695a3514b5], entitled to recover an amount from a secondary contributor, that amount–
 
 - (a) may, where the amount was originally paid by automated credit transfer under regulation 2(2)(a) above, be recovered in the same manner; or
 - (b) may be recovered as a debt owed by the secondary contributor to the Inland Revenue.
@@ -103,4 +103,4 @@ The Regulations also provide for the manner in which the Inland Revenue may reco
 
 [^c1619089]: Marginal citation: *See* section 185 of the Pension Schemes Act 1993 (as amended by paragraph 46 of Schedule 3, paragraph 80 of Schedule 5, and Parts I and III of Schedule 7, to the Pensions Act 1995), under which the requirement to consult does not apply where Regulations which are consequential upon a specified enactment are made before the end of six months from the coming into force of that enactment.*See also* section 91(3) of the 1999 Act and [S.I. 1999/3420](https://www.legislation.gov.uk/uksi/1999/3420) (C. 92).
 
-[^key-a43f335d19ce9bbb3457d6695a3514b5]: Textual amendment: Words in reg. 3 substituted (6.4.2002) by [The Occupational and Personal Pension Schemes (Contracting-out) (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/681)](https://www.legislation.gov.uk/uksi/2002/681), [regs. 1](https://www.legislation.gov.uk/uksi/2002/681/regulation/1), [10](https://www.legislation.gov.uk/uksi/2002/681/regulation/10)
+[^c-a43f335d19ce9bbb3457d6695a3514b5]: Textual amendment: Words in reg. 3 substituted (6.4.2002) by [The Occupational and Personal Pension Schemes (Contracting-out) (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/681)](https://www.legislation.gov.uk/uksi/2002/681), [regs. 1](https://www.legislation.gov.uk/uksi/2002/681/regulation/1), [10](https://www.legislation.gov.uk/uksi/2002/681/regulation/10)

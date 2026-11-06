@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Fit and proper person considerations[^key-cdd2f0c024c26e01cd43d69d5bf92390]
+## 34. Fit and proper person considerations[^c-cdd2f0c024c26e01cd43d69d5bf92390]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdd2f0c024c26e01cd43d69d5bf92390]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/14/section/34) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-cdd2f0c024c26e01cd43d69d5bf92390]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/14/section/34) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

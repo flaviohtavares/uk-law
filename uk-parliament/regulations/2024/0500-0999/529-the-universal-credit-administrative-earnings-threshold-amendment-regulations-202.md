@@ -32,7 +32,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Universal Credit (Administrative Earnings Threshold) (Amendment) Regulations 2024 (revoked)[^key-cb41675cb7e5e2ac60bd142d31e6f3e1]
+The Universal Credit (Administrative Earnings Threshold) (Amendment) Regulations 2024 (revoked)[^c-cb41675cb7e5e2ac60bd142d31e6f3e1]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 6th May 2024
 
-[^key-cb41675cb7e5e2ac60bd142d31e6f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb41675cb7e5e2ac60bd142d31e6f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-cb41675cb7e5e2ac60bd142d31e6f3e1]
+## 1. Citation, commencement and extent[^c-cb41675cb7e5e2ac60bd142d31e6f3e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Universal Credit Regulations 2013[^key-cb41675cb7e5e2ac60bd142d31e6f3e1]
+## 2. Amendment of the Universal Credit Regulations 2013[^c-cb41675cb7e5e2ac60bd142d31e6f3e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb41675cb7e5e2ac60bd142d31e6f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb41675cb7e5e2ac60bd142d31e6f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb41675cb7e5e2ac60bd142d31e6f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb41675cb7e5e2ac60bd142d31e6f3e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb41675cb7e5e2ac60bd142d31e6f3e1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/529) revoked (13.5.2024) by [The Universal Credit (Administrative Earnings Threshold) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/536)](https://www.legislation.gov.uk/uksi/2024/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/536/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/536/regulation/3)
+[^c-cb41675cb7e5e2ac60bd142d31e6f3e1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/529) revoked (13.5.2024) by [The Universal Credit (Administrative Earnings Threshold) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/536)](https://www.legislation.gov.uk/uksi/2024/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/536/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/536/regulation/3)

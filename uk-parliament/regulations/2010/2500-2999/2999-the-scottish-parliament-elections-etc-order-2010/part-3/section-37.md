@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Expenses of constituency candidate[^key-8299a874083515c2327f1aa2ed1d9fc4]
+## 37. Expenses of constituency candidate[^c-8299a874083515c2327f1aa2ed1d9fc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Part, sums paid and expenses incurred by a candidate fo
 
 ## Annotations
 
-[^key-8299a874083515c2327f1aa2ed1d9fc4]: Commencement: Art. 37 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-8299a874083515c2327f1aa2ed1d9fc4]: Commencement: Art. 37 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Commencement[^key-b553cfc8c7a3ac729c7f3a36d88cf2f7]
+## 147. Commencement[^c-b553cfc8c7a3ac729c7f3a36d88cf2f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,7 +72,7 @@ summary: ''
 - (c) section 64 (charging powers), so far as relating to the Natural Resources Body for Wales;
 - (d) section 68 (littering enforcement), so far as relating to Wales;
 - (e) in section 69 (fixed penalty notices), subsections (3) and (5) and subsection (1) so far as relating to those subsections;
-- (f)[^key-29a097ea6ffb1b15dbf3ed75b952c472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-29a097ea6ffb1b15dbf3ed75b952c472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) sections 78 and 79 (water management plans etc), so far as relating to undertakers whose areas are wholly or mainly in Wales;
 - (h) sections 85 and 87 (amendments to Water Industry Act 1991), so far as relating to undertakers whose areas are wholly or mainly in Wales and licensees using the systems of such undertakers;
 - (i) section 95 (valuation of other land in drainage districts: Wales);
@@ -115,6 +115,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b553cfc8c7a3ac729c7f3a36d88cf2f7]: Commencement: S. 147 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-b553cfc8c7a3ac729c7f3a36d88cf2f7]: Commencement: S. 147 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
 
-[^key-29a097ea6ffb1b15dbf3ed75b952c472]: Textual amendment: [S. 147(4)(f)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4/f) omitted (E.W.) (31.7.2025) by virtue of [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 23(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/23/a); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/uksi/2025/937/article/2/g)
+[^c-29a097ea6ffb1b15dbf3ed75b952c472]: Textual amendment: [S. 147(4)(f)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4/f) omitted (E.W.) (31.7.2025) by virtue of [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 23(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/23/a); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/uksi/2025/937/article/2/g)

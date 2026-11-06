@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Disposal of waste etc by Atomic Energy Authority.[^key-6172b0e542d8574fe4f6143bde676fb7]
+## 101. Disposal of waste etc by Atomic Energy Authority.[^c-6172b0e542d8574fe4f6143bde676fb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Without prejudice to the powers of the United Kingdom Atomic Energy Authority ap
 
 ## Annotations
 
-[^key-6172b0e542d8574fe4f6143bde676fb7]: Textual amendment: S. 101 repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 16(2)(t)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16/2/t); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-6172b0e542d8574fe4f6143bde676fb7]: Textual amendment: S. 101 repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 16(2)(t)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16/2/t); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

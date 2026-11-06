@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Extent[^key-9a7b95930f0505ae0ac6fcc491b8c22f]
+## 239. Extent[^c-9a7b95930f0505ae0ac6fcc491b8c22f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 (6) An amendment or repeal made by Schedule 14 has the same extent within the United Kingdom as the provision amended or repealed.
 
-(7)[^key-6ec764d8bb7a57dfd837057b219a9e9c] His Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to the Bailiwick of Guernsey or to the Isle of Man.
+(7)[^c-6ec764d8bb7a57dfd837057b219a9e9c] His Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to the Bailiwick of Guernsey or to the Isle of Man.
 
 (8) Subsections (1) and (2) of section 224 apply to an Order in Council under subsection (7) as they apply to regulations under this Act.
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a7b95930f0505ae0ac6fcc491b8c22f]: Commencement: S. 239 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-9a7b95930f0505ae0ac6fcc491b8c22f]: Commencement: S. 239 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
 
-[^key-6ec764d8bb7a57dfd837057b219a9e9c]: Modification: [S. 239(7)](https://www.legislation.gov.uk/ukpga/2023/50/section/239/7) power extended (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 141(10)](https://www.legislation.gov.uk/ukpga/2025/18/section/141/10), [142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)
+[^c-6ec764d8bb7a57dfd837057b219a9e9c]: Modification: [S. 239(7)](https://www.legislation.gov.uk/ukpga/2023/50/section/239/7) power extended (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 141(10)](https://www.legislation.gov.uk/ukpga/2025/18/section/141/10), [142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)

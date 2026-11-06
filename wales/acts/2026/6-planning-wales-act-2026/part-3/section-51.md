@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Sustainable development duty[^key-cfb74344a2dada86c05a918d5a542c73]
+## 51. Sustainable development duty[^c-cfb74344a2dada86c05a918d5a542c73]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfb74344a2dada86c05a918d5a542c73]: Commencement: S. 51 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-cfb74344a2dada86c05a918d5a542c73]: Commencement: S. 51 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

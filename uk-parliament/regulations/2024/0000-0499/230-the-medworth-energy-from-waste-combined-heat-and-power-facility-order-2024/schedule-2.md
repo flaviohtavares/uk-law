@@ -22,37 +22,37 @@ summary: ''
 
 Article 2
 
-### 1. Time limits[^key-7b59825538587cb1d26c459bfd14c060]
+### 1. Time limits[^c-7b59825538587cb1d26c459bfd14c060]
 
 The authorised development must not commence after the expiration of five years beginning with the date on which this Order comes into force.
 
-### 2. Detailed design approval[^key-3aa285620b1c1c2ebb62f46f22800000]
+### 2. Detailed design approval[^c-3aa285620b1c1c2ebb62f46f22800000]
 
-(1) No part of Work Nos. 1, 1A, 1B, 2A, 2B, 3, 6A, 6B, 7, 8, 9 or 10 may commence until details of the layout, scale and , in respect of above ground development, external appearance[^key-4d33baac43883061364534a1812ac1e1] for that Work No. have been submitted to and approved by the relevant planning authority.
+(1) No part of Work Nos. 1, 1A, 1B, 2A, 2B, 3, 6A, 6B, 7, 8, 9 or 10 may commence until details of the layout, scale and , in respect of above ground development, external appearance[^c-4d33baac43883061364534a1812ac1e1] for that Work No. have been submitted to and approved by the relevant planning authority.
 
-(2) The details submitted for approval under sub-paragraph (1) must be substantially in accordance with the design principles applicable to that work order as[^key-3a1e31eb484b242d2b8ed97837405941] set out in Appendix A of the design and access statement.
+(2) The details submitted for approval under sub-paragraph (1) must be substantially in accordance with the design principles applicable to that work order as[^c-3a1e31eb484b242d2b8ed97837405941] set out in Appendix A of the design and access statement.
 
 (3) Where a requirement requires the authorised development to be constructed in accordance with details approved by the relevant planning authority, the approved details are taken to include any amendments subsequently approved by the relevant planning authority.
 
 (4) The authorised development must be carried out in accordance with the approved details.
 
-### 3. Parameters of authorised development[^key-4e14ce484c88d33156ac76c08ed016f7]
+### 3. Parameters of authorised development[^c-4e14ce484c88d33156ac76c08ed016f7]
 
 The elements of the authorised development listed in column (1) of Table 11 in Schedule 14 (maximum and minimum design parameters) must not exceed the maximum and minimum dimensions and levels set out in relation to that element in columns (3) to (6) of that table.
 
-### 4. Biodiversity and landscape mitigation[^key-75e37f55a8445874dbcac15842263362]
+### 4. Biodiversity and landscape mitigation[^c-75e37f55a8445874dbcac15842263362]
 
 (1) No part of the authorised development may commence until a written landscape and ecology strategy for that part has been submitted to and approved by the relevant planning authority. The landscape and ecology strategy must be substantially in accordance with the outline landscape and ecology strategy.
 
 (2) The landscape and ecology strategy must be implemented as approved under sub-paragraph (1).
 
-### 5. Landscape and ecology management plan[^key-0dfa59e0636d5b7ed8a11dd2af453fbb]
+### 5. Landscape and ecology management plan[^c-0dfa59e0636d5b7ed8a11dd2af453fbb]
 
 (1) Prior to the date of final commissioning a landscape and ecology management plan for Work No. 1, 1A, 1B, 2A, 2B and 9 must be submitted to and approved by the relevant planning authority for the operation of that part of the authorised development. The landscape and ecology management plan must be substantially in accordance with the outline landscape and ecology management plan.
 
 (2) The landscape and ecology management plan must be implemented as approved under sub‑paragraph (1).
 
-### 6. Biodiversity net gain[^key-0188227c2e6ce5dcccee8a67fbaaf137]
+### 6. Biodiversity net gain[^c-0188227c2e6ce5dcccee8a67fbaaf137]
 
 (1) No part of the authorised development may commence until a biodiversity net gain strategy has been submitted to and approved by the relevant planning authority, in consultation with the relevant statutory nature conservation body.
 
@@ -60,7 +60,7 @@ The elements of the authorised development listed in column (1) of Table 11 in S
 
 (3) The biodiversity net gain strategy must be implemented as approved under sub-paragraph (1).
 
-### 7. Highway works[^key-43cff7f0e9120ac97e448a348a8005b8]
+### 7. Highway works[^c-43cff7f0e9120ac97e448a348a8005b8]
 
 (1) Construction of any new permanent or temporary means of access to a highway, or alteration of an existing means of access to a highway, or other works to alter the layout of a highway, must not commence until a plan for that access or other work has been submitted to and approved by the relevant highway authority.
 
@@ -74,7 +74,7 @@ The elements of the authorised development listed in column (1) of Table 11 in S
 
 (6) Work No. 4B must be constructed in accordance with the details approved pursuant to sub‑paragraph (3).
 
-### 8. Drainage strategy[^key-119d974a22b0e319928a779b0af486bb]
+### 8. Drainage strategy[^c-119d974a22b0e319928a779b0af486bb]
 
 (1) No part of Work No. 1, 1A, 1B, 2A, 2B, 4A, 4B, 6A, 6B and 9 may commence until written details of the drainage strategy for that Work No. has been submitted to and approved by the relevant planning authority.
 
@@ -86,7 +86,7 @@ The elements of the authorised development listed in column (1) of Table 11 in S
 
 (5) The drainage strategy must be implemented as approved under sub-paragraph (1).
 
-### 9. Contamination and groundwater[^key-c5c0c2b404b2560a0f9e324b8edddb1d]
+### 9. Contamination and groundwater[^c-c5c0c2b404b2560a0f9e324b8edddb1d]
 
 (1) No part of the authorised development may commence until a scheme (which may be included in the construction environmental management plan to be submitted under requirement 10) to deal with the contamination of any land (including groundwater) for that part which is likely to cause significant harm to persons or significant pollution of controlled waters or the environment has been submitted to and approved in writing by the relevant planning authority.
 
@@ -96,7 +96,7 @@ The elements of the authorised development listed in column (1) of Table 11 in S
 
 (4) Any remedial measures must be carried out in accordance with the approved scheme.
 
-### 10. Construction environmental management plan[^key-184db53db69c3a7dc2d0415e159ade25]
+### 10. Construction environmental management plan[^c-184db53db69c3a7dc2d0415e159ade25]
 
 (1) No part of the authorised development may commence until a construction environmental management plan for that part has been submitted to and approved by the relevant planning authority.
 
@@ -106,19 +106,19 @@ The elements of the authorised development listed in column (1) of Table 11 in S
 
 (4) All construction works associated with the authorised development must be undertaken in accordance with the approved construction environmental management plan unless otherwise agreed with the relevant planning authority in consultation with the Environment Agency.
 
-### 11. Construction traffic management plan[^key-0e5e1a9993084b80d9a247d9a81d7622]
+### 11. Construction traffic management plan[^c-0e5e1a9993084b80d9a247d9a81d7622]
 
 (1) No stage of the authorised development may commence until a construction traffic management plan for that stage has been submitted to and approved by the relevant planning authority in consultation with the highway authority. The construction traffic management plan must be substantially in accordance with the outline construction traffic management plan.
 
 (2) The construction traffic management plan must be implemented as approved throughout the construction of the authorised development unless otherwise agreed by the relevant planning authority in consultation with the highway authority.
 
-### 12. Operational traffic management plan[^key-0cad79f275c929e9a95e2f20c56f3593]
+### 12. Operational traffic management plan[^c-0cad79f275c929e9a95e2f20c56f3593]
 
 (1) Prior to the date of final commissioning, an operational traffic management plan must be submitted to the relevant planning authority for approval in consultation with the highway authority. The operational traffic management plan must be substantially in accordance with the outline operational traffic management plan.
 
 (2) The operational traffic management plan must be implemented as approved throughout the operation of the authorised development unless otherwise agreed by the relevant planning authority in consultation with the highway authority.
 
-### 13. Flood emergency management plan[^key-58d97e8d25c1f8d35589b3b5f5707654]
+### 13. Flood emergency management plan[^c-58d97e8d25c1f8d35589b3b5f5707654]
 
 (1) Prior to the date of final commissioning, a flood emergency management plan for Work Nos. 1, 1A, 1B, 2A, 2B and 9 must be submitted to the relevant planning authority for approval.
 
@@ -128,7 +128,7 @@ The elements of the authorised development listed in column (1) of Table 11 in S
 
 (4) The flood emergency management plan submitted and approved under sub-paragraph (1) must be implemented as approved and remain in place throughout the operation of the authorised development unless otherwise agreed by the relevant planning authority in consultation with the Environment Agency and lead local flood authority.
 
-### 14. Waste hierarchy scheme[^key-06c6da6e8b525ad0d17b6f01ed211abf]
+### 14. Waste hierarchy scheme[^c-06c6da6e8b525ad0d17b6f01ed211abf]
 
 (1) Prior to the date of final commissioning, the undertaker must submit to the relevant planning authority for approval a scheme, which sets out arrangements for maintenance of the waste hierarchy and which aims to minimise recyclable and reusable waste received at the authorised development during the commissioning and operational period of the authorised development (the “waste hierarchy scheme”).
 
@@ -148,13 +148,13 @@ The elements of the authorised development listed in column (1) of Table 11 in S
 
 (4) The waste hierarchy scheme must be implemented as approved under sub-paragraph (1).
 
-### 15. Operational travel plan[^key-00a6a1975c7f89809eb807827b7bf395]
+### 15. Operational travel plan[^c-00a6a1975c7f89809eb807827b7bf395]
 
 (1) Prior to the date of final commissioning, an operational travel plan must be submitted to and approved by the relevant planning authority. The operational travel plan must set out measures to encourage staff working at Work No. 1, 1A, 1B, 2A and 2B to use sustainable modes of transport and must be substantially in accordance with the outline operational travel plan.
 
 (2) The operational travel plan must be implemented as approved under sub-paragraph (1).
 
-### 16. Odour management plan[^key-6e57257559048e04df7fc5688e4754eb]
+### 16. Odour management plan[^c-6e57257559048e04df7fc5688e4754eb]
 
 (1) Prior to completion of commissioning of any part of Work No. 1, an odour management plan must be submitted to the relevant planning authority for approval. The odour management plan submitted for approval must be substantially in accordance with the outline odour management plan.
 
@@ -162,19 +162,19 @@ The elements of the authorised development listed in column (1) of Table 11 in S
 
 (3) The odour management plan must be implemented as approved under sub-paragraph (1).
 
-### 17. Fire prevention plan[^key-9839feeb7a5f6bcad52246819b8aea60]
+### 17. Fire prevention plan[^c-9839feeb7a5f6bcad52246819b8aea60]
 
 (1) Prior to the completion of commissioning of any part of Work No. 1, a fire prevention plan must be submitted to and approved by the relevant planning authority. The fire prevention plan submitted for approval must be substantially in accordance with the outline fire prevention plan.
 
 (2) The fire prevention plan must be implemented as approved under sub-paragraph (1).
 
-### 18. Lighting strategy[^key-11472369634b4c015a8d29a9e67d9b29]
+### 18. Lighting strategy[^c-11472369634b4c015a8d29a9e67d9b29]
 
 (1) Prior to the installation of any permanent lighting for the authorised development, a written scheme for the management and mitigation of artificial light emissions for that part of the authorised development must be submitted to and approved by the relevant planning authority. The lighting strategy submitted for approval must be substantially in accordance with the outline lighting strategy.
 
 (2) The written scheme for the management and mitigation of artificial light emissions must be implemented as approved under sub-paragraph (1).
 
-### 19. Noise management[^key-f0f7f909c89242c35f7e71e5c42e006e]
+### 19. Noise management[^c-f0f7f909c89242c35f7e71e5c42e006e]
 
 (1) No part of Work No. 4A may commence until the residential use at plot numbers 11/4a and 11/4b shown on the land plans and described in the book of reference has ceased unless otherwise agreed by the relevant planning authority.
 
@@ -190,19 +190,19 @@ The elements of the authorised development listed in column (1) of Table 11 in S
 
 (7) The operational noise management plan must be implemented as approved under sub‑paragraph (4).
 
-### 20. Notice of start of commissioning and notice of date of final commissioning[^key-b33481e212f04152bcda6db92371912c]
+### 20. Notice of start of commissioning and notice of date of final commissioning[^c-b33481e212f04152bcda6db92371912c]
 
 (1) Notice of the commencement of commissioning of Work No. 1 must be given to the relevant planning authority within 7 days of the date on which commissioning is commenced.
 
 (2) Notice of the completion of commissioning of Work No. 1 must be given to the relevant planning authority within 7 days of the date on which commissioning is completed.
 
-### 21. Employment and skills strategy[^key-a0b45f2f82cbd666c4d3462442cc7d01]
+### 21. Employment and skills strategy[^c-a0b45f2f82cbd666c4d3462442cc7d01]
 
 (1) No part of the authorised development may commence until an employment and skills strategy has been submitted to the relevant planning authority for approval. The employment and skills strategy submitted for approval must be substantially in accordance with the outline employment and skills strategy.
 
 (2) The employment and skills strategy must be implemented as approved under sub-paragraph (1).
 
-### 22. Carbon capture and export readiness reserve space[^key-d8ecb6f6b96858b3392db7b83dbb7ecd]
+### 22. Carbon capture and export readiness reserve space[^c-d8ecb6f6b96858b3392db7b83dbb7ecd]
 
 (1) Prior to the date of final commissioning, the undertaker must demonstrate to the relevant planning authority that it has constructed Work No. 1 in accordance with the carbon capture and export embedded design measures.
 
@@ -213,7 +213,7 @@ The elements of the authorised development listed in column (1) of Table 11 in S
 
 (3) In this paragraph “**export**” means the removal of carbon from the authorised development and transporting it to a place of usage or sequestration to avoid its release to the atmosphere.
 
-### 23. Carbon capture readiness monitoring report[^key-6b6082f5396b8a5ab59f01b5617bdf3a]
+### 23. Carbon capture readiness monitoring report[^c-6b6082f5396b8a5ab59f01b5617bdf3a]
 
 (1) The undertaker must make a report (“carbon capture and export readiness monitoring report”) to the Secretary of State—
 
@@ -233,11 +233,11 @@ and explain how the undertaker expects to continue to comply with Requirement 22
 
 (5) In this paragraph “**export**” means the removal of carbon from the authorised development and transporting it to a place of usage or sequestration to avoid its release to the atmosphere.
 
-### 24. Community liaison manager[^key-1c82acda6a9d251049c2e8166150900d]
+### 24. Community liaison manager[^c-1c82acda6a9d251049c2e8166150900d]
 
 Prior to the date of final commissioning, the undertaker must notify the relevant planning authority of the name of the community liaison manager appointed and thereafter must keep the relevant planning authority up to date on any changes.
 
-### 25. Combined heat and power[^key-5c0c3ee03bd468a4488912005da17fa3]
+### 25. Combined heat and power[^c-5c0c3ee03bd468a4488912005da17fa3]
 
 (1) Prior to the date of final commissioning, the undertaker must demonstrate to the relevant planning authority that it has constructed Work No. 1 and Work No. 2 in accordance with the combined heat and power embedded design measures.
 
@@ -256,7 +256,7 @@ Prior to the date of final commissioning, the undertaker must notify the relevan
 
 (7) Sub-paragraphs (3) to (5) apply in relation to a revised CHP review submitted under sub‑paragraph (6) in the same way as they apply in relation to the CHP review submitted under sub‑paragraph (7).
 
-### 26. Air safety[^key-178f309886aba4f388a224e6417d9a77]
+### 26. Air safety[^c-178f309886aba4f388a224e6417d9a77]
 
 (1) The information specified in sub-paragraph (2), that is required by the Defence Geographic Centre of the Ministry of Defence to chart the authorised development for aviation purposes, must be submitted to the relevant planning authority and the Ministry of Defence before any part of the authorised development is commenced.
 
@@ -275,13 +275,13 @@ Prior to the date of final commissioning, the undertaker must notify the relevan
 
 (5) All details submitted to and approved under this requirement must be implemented as approved and maintained throughout (to the extent relevant) the construction of the authorised development and the operation of the authorised development unless otherwise agreed by the relevant planning authority in consultation with the Ministry of Defence.
 
-### 27. Local air quality monitoring strategy[^key-0f432fb43af5afe17c5f8a224c78b458]
+### 27. Local air quality monitoring strategy[^c-0f432fb43af5afe17c5f8a224c78b458]
 
 (1) Prior to the commencement of the authorised development, a local air quality monitoring strategy must be submitted to the relevant planning authority for approval. The local air quality monitoring strategy submitted for approval must be substantially in accordance with the outline local air quality monitoring strategy.
 
 (2) The local air quality monitoring strategy must be implemented as approved under sub‑paragraph (1).
 
-### 28. Decommissioning[^key-4c7cf7f97ee75b3179ea39017d134f1d]
+### 28. Decommissioning[^c-4c7cf7f97ee75b3179ea39017d134f1d]
 
 (1) Within 24 months of the permanent cessation of the commercial operation of the authorised development, the undertaker must submit to the relevant planning authority for its approval a decommissioning plan for the authorised development, including a timetable for its implementation.
 
@@ -289,7 +289,7 @@ Prior to the date of final commissioning, the undertaker must notify the relevan
 
 (3) The plan submitted to and approved under sub-paragraph (1) must be implemented as approved unless otherwise agreed with the relevant planning authority.
 
-### 29. Origin of waste[^key-acb2fdea3c598716556203dfaa184048]
+### 29. Origin of waste[^c-acb2fdea3c598716556203dfaa184048]
 
 (1) Not less than 17.5% of the waste processed at the authorised development per operational year must originate from within Waste Area 1 unless otherwise agreed by the relevant planning authority. Waste originating outside of Waste Area 1 and then transported to a waste loading point located in Waste Area 1 is not considered to have originated in Waste Area 1.
 
@@ -319,7 +319,7 @@ Prior to the date of final commissioning, the undertaker must notify the relevan
 
 (9) In sub-paragraph (6)(b) “**waste area**” means the areas or locations for each waste loading point, disaggregated to the smallest administrative area practicable, including but not limited to county, unitary, district, borough or postcode area.
 
-### 30. Amendments to approved details[^key-fcc5ecb4a9320caff4d19aff90a73afc]
+### 30. Amendments to approved details[^c-fcc5ecb4a9320caff4d19aff90a73afc]
 
 (1) With respect to the documents certified under article 42 (certification of plans etc.), the parameters specified in Table 11 of Schedule 14 (maximum and minimum design parameters) and any other plans, details or schemes which require approval by the relevant planning authority pursuant to any requirement (together “Approved Documents, Plans, Parameters, Details or Schemes”), the undertaker may submit to the relevant planning authority for approval any amendments to the Approved Documents, Plans, Parameters, Details or Schemes and following any such approval by the relevant planning authority the Approved Documents, Plans, Parameters, Details or Schemes are to be taken to include the amendments approved by the relevant planning authority pursuant to this paragraph.
 
@@ -327,66 +327,66 @@ Prior to the date of final commissioning, the undertaker must notify the relevan
 
 ## Annotations
 
-[^key-7b59825538587cb1d26c459bfd14c060]: Commencement: Sch. 2 para. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-7b59825538587cb1d26c459bfd14c060]: Commencement: Sch. 2 para. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-3aa285620b1c1c2ebb62f46f22800000]: Commencement: Sch. 2 para. 2 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-3aa285620b1c1c2ebb62f46f22800000]: Commencement: Sch. 2 para. 2 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-4d33baac43883061364534a1812ac1e1]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2024/230/schedule/2/paragraph/2/1) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-4d33baac43883061364534a1812ac1e1]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2024/230/schedule/2/paragraph/2/1) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-3a1e31eb484b242d2b8ed97837405941]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2024/230/schedule/2/paragraph/2/2) inserted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-3a1e31eb484b242d2b8ed97837405941]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2024/230/schedule/2/paragraph/2/2) inserted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-4e14ce484c88d33156ac76c08ed016f7]: Commencement: Sch. 2 para. 3 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-4e14ce484c88d33156ac76c08ed016f7]: Commencement: Sch. 2 para. 3 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-75e37f55a8445874dbcac15842263362]: Commencement: Sch. 2 para. 4 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-75e37f55a8445874dbcac15842263362]: Commencement: Sch. 2 para. 4 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-0dfa59e0636d5b7ed8a11dd2af453fbb]: Commencement: Sch. 2 para. 5 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-0dfa59e0636d5b7ed8a11dd2af453fbb]: Commencement: Sch. 2 para. 5 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-0188227c2e6ce5dcccee8a67fbaaf137]: Commencement: Sch. 2 para. 6 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-0188227c2e6ce5dcccee8a67fbaaf137]: Commencement: Sch. 2 para. 6 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-43cff7f0e9120ac97e448a348a8005b8]: Commencement: Sch. 2 para. 7 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-43cff7f0e9120ac97e448a348a8005b8]: Commencement: Sch. 2 para. 7 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-119d974a22b0e319928a779b0af486bb]: Commencement: Sch. 2 para. 8 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-119d974a22b0e319928a779b0af486bb]: Commencement: Sch. 2 para. 8 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-c5c0c2b404b2560a0f9e324b8edddb1d]: Commencement: Sch. 2 para. 9 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-c5c0c2b404b2560a0f9e324b8edddb1d]: Commencement: Sch. 2 para. 9 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-184db53db69c3a7dc2d0415e159ade25]: Commencement: Sch. 2 para. 10 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-184db53db69c3a7dc2d0415e159ade25]: Commencement: Sch. 2 para. 10 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-0e5e1a9993084b80d9a247d9a81d7622]: Commencement: Sch. 2 para. 11 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-0e5e1a9993084b80d9a247d9a81d7622]: Commencement: Sch. 2 para. 11 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-0cad79f275c929e9a95e2f20c56f3593]: Commencement: Sch. 2 para. 12 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-0cad79f275c929e9a95e2f20c56f3593]: Commencement: Sch. 2 para. 12 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-58d97e8d25c1f8d35589b3b5f5707654]: Commencement: Sch. 2 para. 13 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-58d97e8d25c1f8d35589b3b5f5707654]: Commencement: Sch. 2 para. 13 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-06c6da6e8b525ad0d17b6f01ed211abf]: Commencement: Sch. 2 para. 14 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-06c6da6e8b525ad0d17b6f01ed211abf]: Commencement: Sch. 2 para. 14 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-00a6a1975c7f89809eb807827b7bf395]: Commencement: Sch. 2 para. 15 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-00a6a1975c7f89809eb807827b7bf395]: Commencement: Sch. 2 para. 15 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-6e57257559048e04df7fc5688e4754eb]: Commencement: Sch. 2 para. 16 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-6e57257559048e04df7fc5688e4754eb]: Commencement: Sch. 2 para. 16 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-9839feeb7a5f6bcad52246819b8aea60]: Commencement: Sch. 2 para. 17 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-9839feeb7a5f6bcad52246819b8aea60]: Commencement: Sch. 2 para. 17 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-11472369634b4c015a8d29a9e67d9b29]: Commencement: Sch. 2 para. 18 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-11472369634b4c015a8d29a9e67d9b29]: Commencement: Sch. 2 para. 18 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-f0f7f909c89242c35f7e71e5c42e006e]: Commencement: Sch. 2 para. 19 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-f0f7f909c89242c35f7e71e5c42e006e]: Commencement: Sch. 2 para. 19 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-b33481e212f04152bcda6db92371912c]: Commencement: Sch. 2 para. 20 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-b33481e212f04152bcda6db92371912c]: Commencement: Sch. 2 para. 20 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-a0b45f2f82cbd666c4d3462442cc7d01]: Commencement: Sch. 2 para. 21 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-a0b45f2f82cbd666c4d3462442cc7d01]: Commencement: Sch. 2 para. 21 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-d8ecb6f6b96858b3392db7b83dbb7ecd]: Commencement: Sch. 2 para. 22 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-d8ecb6f6b96858b3392db7b83dbb7ecd]: Commencement: Sch. 2 para. 22 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-6b6082f5396b8a5ab59f01b5617bdf3a]: Commencement: Sch. 2 para. 23 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-6b6082f5396b8a5ab59f01b5617bdf3a]: Commencement: Sch. 2 para. 23 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-1c82acda6a9d251049c2e8166150900d]: Commencement: Sch. 2 para. 24 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-1c82acda6a9d251049c2e8166150900d]: Commencement: Sch. 2 para. 24 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-5c0c3ee03bd468a4488912005da17fa3]: Commencement: Sch. 2 para. 25 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-5c0c3ee03bd468a4488912005da17fa3]: Commencement: Sch. 2 para. 25 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-178f309886aba4f388a224e6417d9a77]: Commencement: Sch. 2 para. 26 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-178f309886aba4f388a224e6417d9a77]: Commencement: Sch. 2 para. 26 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-0f432fb43af5afe17c5f8a224c78b458]: Commencement: Sch. 2 para. 27 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-0f432fb43af5afe17c5f8a224c78b458]: Commencement: Sch. 2 para. 27 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-4c7cf7f97ee75b3179ea39017d134f1d]: Commencement: Sch. 2 para. 28 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-4c7cf7f97ee75b3179ea39017d134f1d]: Commencement: Sch. 2 para. 28 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-acb2fdea3c598716556203dfaa184048]: Commencement: Sch. 2 para. 29 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-acb2fdea3c598716556203dfaa184048]: Commencement: Sch. 2 para. 29 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-fcc5ecb4a9320caff4d19aff90a73afc]: Commencement: Sch. 2 para. 30 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-fcc5ecb4a9320caff4d19aff90a73afc]: Commencement: Sch. 2 para. 30 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

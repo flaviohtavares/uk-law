@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England.
 
-## 57. References to pension schemes etc.[^key-a38527657293797ce6cc404b61de409d]
+## 57. References to pension schemes etc.[^c-a38527657293797ce6cc404b61de409d]
 
 *Extent: E*
 
 (1) This section applies for the purposes of this Measure.
 
-(2) “Funded scheme”, “past service scheme”, “workers' fund”, and “administrators’ fund”[^key-9a3d54d1824b7663fd5e9b73cf36a40d] each have the meaning given in section 1.
+(2) “Funded scheme”, “past service scheme”, “workers' fund”, and “administrators’ fund”[^c-9a3d54d1824b7663fd5e9b73cf36a40d] each have the meaning given in section 1.
 
 (3) “**The Board**” has the meaning given in section 2.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a38527657293797ce6cc404b61de409d]: Commencement: S. 57 in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-a38527657293797ce6cc404b61de409d]: Commencement: S. 57 in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-9a3d54d1824b7663fd5e9b73cf36a40d]: Textual amendment: Words in s. 57(2) substituted (14.5.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [4(2)(c)](https://www.legislation.gov.uk/uksi/2021/554/article/4/2/c)
+[^c-9a3d54d1824b7663fd5e9b73cf36a40d]: Textual amendment: Words in s. 57(2) substituted (14.5.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [4(2)(c)](https://www.legislation.gov.uk/uksi/2021/554/article/4/2/c)

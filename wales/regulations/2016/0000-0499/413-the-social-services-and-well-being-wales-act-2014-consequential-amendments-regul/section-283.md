@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**283.**[^key-484df58f218605f49101ed7a64759b83] Omit section 43 (amendment of the Local Authority Social Services Act 1970).
+**283.**[^c-484df58f218605f49101ed7a64759b83] Omit section 43 (amendment of the Local Authority Social Services Act 1970).
 
 ## Annotations
 
-[^key-484df58f218605f49101ed7a64759b83]: Commencement: Reg. 283 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-484df58f218605f49101ed7a64759b83]: Commencement: Reg. 283 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

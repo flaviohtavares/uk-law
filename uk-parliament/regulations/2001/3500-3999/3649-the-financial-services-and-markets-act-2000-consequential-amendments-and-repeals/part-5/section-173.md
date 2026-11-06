@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Enforcement of agreements made by unlicensed trader[^key-a4c9b0db8b184b13e2305148999289c4]
+## 173. Enforcement of agreements made by unlicensed trader[^c-a4c9b0db8b184b13e2305148999289c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 148 of the Consumer Credit Act 1974 (enforcement of agreements made b
 
 ## Annotations
 
-[^key-a4c9b0db8b184b13e2305148999289c4]: Commencement: Art. 173 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a4c9b0db8b184b13e2305148999289c4]: Commencement: Art. 173 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

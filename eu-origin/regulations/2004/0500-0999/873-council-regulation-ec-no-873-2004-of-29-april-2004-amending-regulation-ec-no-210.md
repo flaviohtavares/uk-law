@@ -31,10 +31,10 @@ Council Regulation (EC) No 873/2004
 
 of 29 April 2004 amending Regulation (EC) No 2100/94 on Community plant variety rights (revoked)
 
-[^key-ea3d5eb39e0c91eca6b20c75042917b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea3d5eb39e0c91eca6b20c75042917b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-ea3d5eb39e0c91eca6b20c75042917b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-ea3d5eb39e0c91eca6b20c75042917b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea3d5eb39e0c91eca6b20c75042917b2]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Breeders’ Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea3d5eb39e0c91eca6b20c75042917b2]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Breeders’ Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

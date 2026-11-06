@@ -53,7 +53,7 @@ The Administrative Justice and Tribunals Council has been consulted, and that Co
 
 A draft of this instrument has been approved by a resolution of the National Assembly for Wales pursuant to section 15(12) of the Flood and Water Management Act 2010.
 
-## 1. Citation, commencement and application[^key-bba264e4754cc602074628dca827e6be]
+## 1. Citation, commencement and application[^c-bba264e4754cc602074628dca827e6be]
 
 These Regulations—
 
@@ -61,10 +61,10 @@ These Regulations—
 - (b) come into force on 6 April 2011; and
 - (c) apply in relation to penalties issued by—
   - (i) lead local flood authorities for areas in Wales;
-  - (ii) the Environment Agency and the Natural Resources Body for Wales[^key-213004acadaccb314250dba2fb5f4169] in respect of a failure to comply with a request in connection with a flood or coastal erosion risk management function in relation to Wales; and
+  - (ii) the Environment Agency and the Natural Resources Body for Wales[^c-213004acadaccb314250dba2fb5f4169] in respect of a failure to comply with a request in connection with a flood or coastal erosion risk management function in relation to Wales; and
   - (iii) the Welsh Ministers.
 
-## 2. Interpretation[^key-761fcf6111f17e378356d61045acd916]
+## 2. Interpretation[^c-761fcf6111f17e378356d61045acd916]
 
 In these Regulations—
 
@@ -72,11 +72,11 @@ In these Regulations—
 - “enforcement notice” (“*hysbysiad gorfodi*”) means a notice given under section 15(1) of the Act in respect of a failure to comply with a request under section 14(1) or (3) of the Act to provide information;
 - “penalty notice” (“*hysbysiad o gosb*”) means a notice from an authority under section 15(3) of the Act which imposes a penalty on a person who fails to provide information specified in an enforcement notice in the specified period.
 
-## 3. Right of Appeal[^key-1bca13bfe6651ac9923b04be8ddb7e86]
+## 3. Right of Appeal[^c-1bca13bfe6651ac9923b04be8ddb7e86]
 
 A person on whom a penalty is imposed by a penalty notice may appeal to the First-tier Tribunal against the penalty.
 
-## 4. Grounds for appeal[^key-9e82d95d689e30b5a5ccaddb79a7c530]
+## 4. Grounds for appeal[^c-9e82d95d689e30b5a5ccaddb79a7c530]
 
 For the purposes of rule 22(2)(g) of the Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009[^f00004], the grounds for appeal are–
 
@@ -85,7 +85,7 @@ For the purposes of rule 22(2)(g) of the Tribunal Procedure (First-tier Tribunal
 - (c) that the amount of the penalty was unreasonable;
 - (d) any other reason.
 
-## 5. Procedure[^key-14fc2348c7d1b3475d048754f5f1f1fe]
+## 5. Procedure[^c-14fc2348c7d1b3475d048754f5f1f1fe]
 
 The notice of appeal[^f00005] under rule 22 of the Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009 must (in addition to complying with the requirements of those Rules) be accompanied by—
 
@@ -93,11 +93,11 @@ The notice of appeal[^f00005] under rule 22 of the Tribunal Procedure (First-tie
 - (b) copies of any representations made under section 15(2)(c) of the Act;
 - (c) a copy of the penalty notice.
 
-## 6. Effect of Appeal[^key-d5ce218f5777ca6eee2ae335ba6737cd]
+## 6. Effect of Appeal[^c-d5ce218f5777ca6eee2ae335ba6737cd]
 
 An authority that receives a notice of appeal from a person on whom it has imposed a penalty must not take action to recover the penalty as a debt until the appeal is either determined or withdrawn.
 
-## 7. Determining an appeal[^key-3780a0c5228a1daa075a821bae70cfde]
+## 7. Determining an appeal[^c-3780a0c5228a1daa075a821bae70cfde]
 
 On deciding an appeal under regulation 3, the First-tier Tribunal must either—
 
@@ -127,22 +127,22 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00003]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-bba264e4754cc602074628dca827e6be]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
+[^c-bba264e4754cc602074628dca827e6be]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
 
-[^key-213004acadaccb314250dba2fb5f4169]: Textual amendment: Words in [reg. 1(c)(ii)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/c/ii) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 68](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/68) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-213004acadaccb314250dba2fb5f4169]: Textual amendment: Words in [reg. 1(c)(ii)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/c/ii) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 68](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/68) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-761fcf6111f17e378356d61045acd916]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
+[^c-761fcf6111f17e378356d61045acd916]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
 
-[^key-1bca13bfe6651ac9923b04be8ddb7e86]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
+[^c-1bca13bfe6651ac9923b04be8ddb7e86]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
 
-[^key-9e82d95d689e30b5a5ccaddb79a7c530]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
+[^c-9e82d95d689e30b5a5ccaddb79a7c530]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
 
 [^f00004]: Footnote: S.I. [2009/1976](https://www.legislation.gov.uk/uksi/2009/1976).
 
-[^key-14fc2348c7d1b3475d048754f5f1f1fe]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
+[^c-14fc2348c7d1b3475d048754f5f1f1fe]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
 
 [^f00005]: Footnote: *See* rule 1(3) of S.I. [2009/1976](https://www.legislation.gov.uk/uksi/2009/1976) for the meaning of “notice of appeal”.
 
-[^key-d5ce218f5777ca6eee2ae335ba6737cd]: Commencement: Reg. 6 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
+[^c-d5ce218f5777ca6eee2ae335ba6737cd]: Commencement: Reg. 6 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
 
-[^key-3780a0c5228a1daa075a821bae70cfde]: Commencement: Reg. 7 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)
+[^c-3780a0c5228a1daa075a821bae70cfde]: Commencement: Reg. 7 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2011/865/regulation/1/b)

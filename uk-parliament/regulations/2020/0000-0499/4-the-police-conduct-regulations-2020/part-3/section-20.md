@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Interviews during investigation[^key-ecaff3ee5d06679a40fba936c5b6c371]
+## 20. Interviews during investigation[^c-ecaff3ee5d06679a40fba936c5b6c371]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ the interview must be postponed to the date or time proposed by the officer.
 
 ## Annotations
 
-[^key-ecaff3ee5d06679a40fba936c5b6c371]: Commencement: Reg. 20 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-ecaff3ee5d06679a40fba936c5b6c371]: Commencement: Reg. 20 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

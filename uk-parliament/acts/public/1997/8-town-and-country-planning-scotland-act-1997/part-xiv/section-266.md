@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies to—
 
-- (a)[^key-42968956fe45f76cbddaaadf9b37bf4c] proceedings under this Act where the Secretary of State is required, before reaching a decision, to afford any person an opportunity of appearing before and being heard by a person appointed by him, and[^key-ef4c07c198aeea486ab6be4ceb2c4a8f]
+- (a)[^c-42968956fe45f76cbddaaadf9b37bf4c] proceedings under this Act where the Secretary of State is required, before reaching a decision, to afford any person an opportunity of appearing before and being heard by a person appointed by him, and[^c-ef4c07c198aeea486ab6be4ceb2c4a8f]
 - (b) proceedings arising under or by virtue of sections   46, 47, 75B, 75F, 130, 154, 169 and 180.
 
 (2) The Secretary of State has the same power to make orders under section 265(9) in relation to proceedings to which this section applies which do not give rise to a local inquiry as he has in relation to a local inquiry.
@@ -33,6 +33,6 @@ summary: ''
 
     S. 266 applied (27.5.1997) by [1997 c. 10](https://www.legislation.gov.uk/ukpga/1997/10), [ss. 36](https://www.legislation.gov.uk/ukpga/1997/10/section/36), [40(2)](https://www.legislation.gov.uk/ukpga/1997/10/section/40/2) (with [ss. 9(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/9/3), [10(5)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/5), [38(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/38/6))
 
-[^key-42968956fe45f76cbddaaadf9b37bf4c]: Textual amendment: Words in s. 266(1) renumbered as s. 266(1)(a) (3.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [2(5)](https://www.legislation.gov.uk/ssi/2009/256/article/2/5)
+[^c-42968956fe45f76cbddaaadf9b37bf4c]: Textual amendment: Words in s. 266(1) renumbered as s. 266(1)(a) (3.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [2(5)](https://www.legislation.gov.uk/ssi/2009/256/article/2/5)
 
-[^key-ef4c07c198aeea486ab6be4ceb2c4a8f]: Textual amendment: S. 266(1)(b) and word inserted (3.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [2(5)](https://www.legislation.gov.uk/ssi/2009/256/article/2/5)
+[^c-ef4c07c198aeea486ab6be4ceb2c4a8f]: Textual amendment: S. 266(1)(b) and word inserted (3.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [2(5)](https://www.legislation.gov.uk/ssi/2009/256/article/2/5)

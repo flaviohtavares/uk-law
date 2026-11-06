@@ -32,7 +32,7 @@ summary: ''
 
 Rates
 
-The Rates (Social Sector Value) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-d018b24283d0952bdf02beed2f14e2de]
+The Rates (Social Sector Value) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-d018b24283d0952bdf02beed2f14e2de]
 
 Made
 
@@ -42,38 +42,38 @@ Coming into operation
 
 1st April 2010
 
-[^key-d018b24283d0952bdf02beed2f14e2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d018b24283d0952bdf02beed2f14e2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d018b24283d0952bdf02beed2f14e2de]
+## 1. Citation and commencement[^c-d018b24283d0952bdf02beed2f14e2de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^key-d018b24283d0952bdf02beed2f14e2de]
+## 2. Amendment of the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^c-d018b24283d0952bdf02beed2f14e2de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-d018b24283d0952bdf02beed2f14e2de]
+## 3. Revocation[^c-d018b24283d0952bdf02beed2f14e2de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d018b24283d0952bdf02beed2f14e2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d018b24283d0952bdf02beed2f14e2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule substituted for Schedule 1 to the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^key-d018b24283d0952bdf02beed2f14e2de]
+## SCHEDULE — Schedule substituted for Schedule 1 to the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^c-d018b24283d0952bdf02beed2f14e2de]
 
 Regulation 2
 
-> **SCHEDULE 1 — Prescribed Registered Housing Associations[^key-d018b24283d0952bdf02beed2f14e2de]**
+> **SCHEDULE 1 — Prescribed Registered Housing Associations[^c-d018b24283d0952bdf02beed2f14e2de]**
 >
 > Regulation 4
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d018b24283d0952bdf02beed2f14e2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d018b24283d0952bdf02beed2f14e2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d018b24283d0952bdf02beed2f14e2de]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/21) revoked (1.4.2012) by [The Rates (Social Sector Value) (Amendment) Regulations (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/79)](https://www.legislation.gov.uk/nisr/2012/79), [reg. 3](https://www.legislation.gov.uk/nisr/2012/79/regulation/3)
+[^c-d018b24283d0952bdf02beed2f14e2de]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/21) revoked (1.4.2012) by [The Rates (Social Sector Value) (Amendment) Regulations (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/79)](https://www.legislation.gov.uk/nisr/2012/79), [reg. 3](https://www.legislation.gov.uk/nisr/2012/79/regulation/3)

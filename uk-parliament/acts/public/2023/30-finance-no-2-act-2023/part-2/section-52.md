@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Repackaging qualifying draught products[^M_I_42118f1c-6a36-418a-a70e-cc65df2ec3ed][^key-a7886b72df5dc341d6fcb6395a3b904b]
+## 52. Repackaging qualifying draught products[^M_I_42118f1c-6a36-418a-a70e-cc65df2ec3ed][^c-a7886b72df5dc341d6fcb6395a3b904b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 (3) Repackaging is “authorised” if it is carried out by a person who is—
 
 - (a) approved and registered under section 100G of CEMA 1979 by virtue of regulation 3 of the Warehousekeepers and Owners of Warehoused Goods Regulations 1999 ([S.I. 1999/1278](https://www.legislation.gov.uk/uksi/1999/1278)), or
-- (b)[^key-263b21099e106cebc66d36e4bc8c49a6] approved under section 82 (producers of alcoholic products).
+- (b)[^c-263b21099e106cebc66d36e4bc8c49a6] approved under section 82 (producers of alcoholic products).
 
 (4) Where the repackaging of qualifying draught products is authorised, an amount equal to the duty shortfall is treated, for the purposes of this Part, as an amount of alcohol duty charged on the repackaged products.
 
@@ -48,6 +48,6 @@ summary: ''
 
 [^M_I_42118f1c-6a36-418a-a70e-cc65df2ec3ed]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-a7886b72df5dc341d6fcb6395a3b904b]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/30/section/52) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-a7886b72df5dc341d6fcb6395a3b904b]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/30/section/52) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
-[^key-263b21099e106cebc66d36e4bc8c49a6]: Modification: [S. 52(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/52/3/b) modified (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [reg. 6](https://www.legislation.gov.uk/uksi/2023/884/regulation/6)
+[^c-263b21099e106cebc66d36e4bc8c49a6]: Modification: [S. 52(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/52/3/b) modified (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [reg. 6](https://www.legislation.gov.uk/uksi/2023/884/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Enforcement of directions[^key-ba60357da1eb4c9792626e886f5c272e]
+## 183. Enforcement of directions[^c-ba60357da1eb4c9792626e886f5c272e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any person who without reasonable excuse fails to comply with any direction or i
 
 ## Annotations
 
-[^key-ba60357da1eb4c9792626e886f5c272e]: Commencement: [Art. 183](https://www.legislation.gov.uk/uksi/2013/2870/article/183) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ba60357da1eb4c9792626e886f5c272e]: Commencement: [Art. 183](https://www.legislation.gov.uk/uksi/2013/2870/article/183) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

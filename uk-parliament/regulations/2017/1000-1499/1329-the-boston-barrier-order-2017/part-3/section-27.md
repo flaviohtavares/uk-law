@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Provisions against danger to navigation[^key-939d6c42179444b012a6b41934b4a720]
+## 27. Provisions against danger to navigation[^c-939d6c42179444b012a6b41934b4a720]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-939d6c42179444b012a6b41934b4a720]: Commencement: Art. 27 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-939d6c42179444b012a6b41934b4a720]: Commencement: Art. 27 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

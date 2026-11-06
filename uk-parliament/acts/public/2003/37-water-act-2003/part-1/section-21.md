@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Modification of licences[^key-fc4f7d972d5a6c612f48c5d976a13e70]
+## 21. Modification of licences[^c-fc4f7d972d5a6c612f48c5d976a13e70]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc4f7d972d5a6c612f48c5d976a13e70]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2003/37/section/21) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(k)](https://www.legislation.gov.uk/uksi/2006/984/article/2/k)
+[^c-fc4f7d972d5a6c612f48c5d976a13e70]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2003/37/section/21) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(k)](https://www.legislation.gov.uk/uksi/2006/984/article/2/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19A. Non-recovery of council tax arrears caused by official error[^key-8605d00c2efa537e66441f295aa7f2f3]
+## 19A. Non-recovery of council tax arrears caused by official error[^c-8605d00c2efa537e66441f295aa7f2f3]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ where the claimant, a person acting on their behalf or any other person to whom 
 
 ## Annotations
 
-[^key-8605d00c2efa537e66441f295aa7f2f3]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/ssi/2012/319/regulation/19A) inserted (1.4.2019) by [The Council Tax Reduction (Scotland) Amendment Regulations 2019 (S.S.I. 2019/29)](https://www.legislation.gov.uk/ssi/2019/29), [regs. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1), [10](https://www.legislation.gov.uk/ssi/2019/29/regulation/10)
+[^c-8605d00c2efa537e66441f295aa7f2f3]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/ssi/2012/319/regulation/19A) inserted (1.4.2019) by [The Council Tax Reduction (Scotland) Amendment Regulations 2019 (S.S.I. 2019/29)](https://www.legislation.gov.uk/ssi/2019/29), [regs. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1), [10](https://www.legislation.gov.uk/ssi/2019/29/regulation/10)

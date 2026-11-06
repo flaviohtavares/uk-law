@@ -257,7 +257,7 @@ Section 8.
 
 ### Service declarations
 
-**7.**[^key-465ef4d2ce4f507cf8d1ceb42f9518b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-465ef4d2ce4f507cf8d1ceb42f9518b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.**[^c9549751] (1) Section 15 (service declaration) is amended as follows.
 
@@ -308,9 +308,9 @@ Section 8.
 
 (2) Omit subsections (1) and (2).
 
-(3)[^key-4e82881a6be9bac26913ff64b7580f9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4e82881a6be9bac26913ff64b7580f9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-4e82881a6be9bac26913ff64b7580f9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4e82881a6be9bac26913ff64b7580f9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Regulations about registration
 
@@ -464,7 +464,7 @@ Section 8.
 
 (4) In paragraph 2A (registration officer to remind overseas elector of need to make fresh declaration), for the words from “overseas” onwards substitute “ declarations or applications of any prescribed description of the need to make fresh declarations or applications in order for them to remain registered. ”
 
-(5)[^key-6d129251c832d3a618b9a73d5c781c9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6d129251c832d3a618b9a73d5c781c9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In paragraph 6 (cases where claims and objections can be determined without a hearing), for “a claim” substitute “ an application ”.
 
@@ -484,7 +484,7 @@ Section 8.
 
 [^c9549731]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/6) wholly in force at 16.2.2001, see [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3) and [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to art 2(3-5))
 
-[^key-465ef4d2ce4f507cf8d1ceb42f9518b6]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/7) omitted (1.10.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/14/2/b), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/a)
+[^c-465ef4d2ce4f507cf8d1ceb42f9518b6]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/7) omitted (1.10.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/14/2/b), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/a)
 
 [^c9549751]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/8) wholly in force at 16.2.2001, see [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3) and [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to art 2(3-5))
 
@@ -496,7 +496,7 @@ Section 8.
 
 [^c9549791]: Commencement: Sch. 6 para. 12 wholly in force at 16.2.2001, see s. 17(3) and [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to art 2(3-5))
 
-[^key-4e82881a6be9bac26913ff64b7580f9c]: Textual amendment: Sch. 1 para. 12(3)(4) omitted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by virtue of [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/22) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m), S.I. 2014/2439, art. 2(l)
+[^c-4e82881a6be9bac26913ff64b7580f9c]: Textual amendment: Sch. 1 para. 12(3)(4) omitted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by virtue of [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/22) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m), S.I. 2014/2439, art. 2(l)
 
 [^c9549801]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/13) wholly in force at 16.2.2001, see [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3) and [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to art 2(3-5))
 
@@ -524,4 +524,4 @@ Section 8.
 
 [^c9549921]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/24) wholly in force at 16.2.2001, see [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3) and [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to art 2(3-5))
 
-[^key-6d129251c832d3a618b9a73d5c781c9a]: Textual amendment: [Sch. 1 para. 24(5)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/24/5) repealed (27.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/14/b); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-6d129251c832d3a618b9a73d5c781c9a]: Textual amendment: [Sch. 1 para. 24(5)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/24/5) repealed (27.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/14/b); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)

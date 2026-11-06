@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Moratorium[^c2116507][^key-7faa67c0685b3ba91788addab4d70b38]
+## 95. Moratorium[^c2116507][^c-7faa67c0685b3ba91788addab4d70b38]
 
 *Extent: E+W*
 
-(1)[^key-e9dda544785aab3689513c3542a51385] A person who is an owner of land included in a local authority's list of assets of community value must not enter into a relevant disposal of the land unless each of conditions A to C is met.
+(1)[^c-e9dda544785aab3689513c3542a51385] A person who is an owner of land included in a local authority's list of assets of community value must not enter into a relevant disposal of the land unless each of conditions A to C is met.
 
 (2) Condition A is that that particular person has notified the local authority in writing of that person's wish to enter into a relevant disposal of the land.
 
@@ -72,6 +72,6 @@ summary: ''
 
 [^c2116507]: Commencement: S. 95 in force for specified purposes at Royal Assent see [s. 240(5)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/f)
 
-[^key-7faa67c0685b3ba91788addab4d70b38]: Commencement: S. 95 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-7faa67c0685b3ba91788addab4d70b38]: Commencement: S. 95 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
 
-[^key-e9dda544785aab3689513c3542a51385]: Modification: S. 95(1) excluded (E.) (21.9.2012) by [The Assets of Community Value (England) Regulations 2012 (S.I. 2012/2421)](https://www.legislation.gov.uk/uksi/2012/2421), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/13/2), [Schs. 3](https://www.legislation.gov.uk/uksi/2012/2421/schedule/3)
+[^c-e9dda544785aab3689513c3542a51385]: Modification: S. 95(1) excluded (E.) (21.9.2012) by [The Assets of Community Value (England) Regulations 2012 (S.I. 2012/2421)](https://www.legislation.gov.uk/uksi/2012/2421), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/13/2), [Schs. 3](https://www.legislation.gov.uk/uksi/2012/2421/schedule/3)

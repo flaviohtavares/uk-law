@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Export of goods of strategic concern[^key-3b0ee76dfee87fe88340793923cce191][^key-c65c83512f0ca96d94d19583d6adcef6]
+## 37. Export of goods of strategic concern[^c-3b0ee76dfee87fe88340793923cce191][^c-c65c83512f0ca96d94d19583d6adcef6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b0ee76dfee87fe88340793923cce191]: Commencement: Reg. 37 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-3b0ee76dfee87fe88340793923cce191]: Commencement: Reg. 37 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-c65c83512f0ca96d94d19583d6adcef6]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/uksi/2023/1314/regulation/37) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/3/a)
+[^c-c65c83512f0ca96d94d19583d6adcef6]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/uksi/2023/1314/regulation/37) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/3/a)

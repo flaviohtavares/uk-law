@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A person on whom a notice under section 41 has been served in connection with the taking of emergency remedial action under section 40 may appeal to the appropriate tribunal[^key-cfa03ad978f89c9408bbecb07cae7f58] against the decision of the local housing authority to take that action.
+(1) A person on whom a notice under section 41 has been served in connection with the taking of emergency remedial action under section 40 may appeal to the appropriate tribunal[^c-cfa03ad978f89c9408bbecb07cae7f58] against the decision of the local housing authority to take that action.
 
-(2) A relevant person may appeal to the appropriate tribunal[^key-524229beea2204719771639652817cbd] against an emergency prohibition order.
+(2) A relevant person may appeal to the appropriate tribunal[^c-524229beea2204719771639652817cbd] against an emergency prohibition order.
 
 (3) An appeal under subsection (1) or (2) must be made within the period of 28 days beginning with—
 
@@ -31,7 +31,7 @@ summary: ''
 
 as the case may be.
 
-(4) The appropriate tribunal[^key-4fe0e2e3d79f30e5403fdbd93eb939f6] may allow an appeal to be made to it after the end of that period if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
+(4) The appropriate tribunal[^c-4fe0e2e3d79f30e5403fdbd93eb939f6] may allow an appeal to be made to it after the end of that period if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
 
 (5) An appeal under subsection (1) or (2)—
 
@@ -49,8 +49,8 @@ as the case may be.
 
 [^c2051242]: Commencement: S. 45 wholly in force at 16.6.2006; s. 45 not in force at Royal Assent see s. 270(4)(5); s. 45 in force for E. at 6.4.2006 by [S. I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 45 in force for W. at 16.6.2006 by [S. I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-cfa03ad978f89c9408bbecb07cae7f58]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/45/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 152(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/152/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-cfa03ad978f89c9408bbecb07cae7f58]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/45/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 152(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/152/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-524229beea2204719771639652817cbd]: Textual amendment: Words in [s. 45(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/45/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 152(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/152/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-524229beea2204719771639652817cbd]: Textual amendment: Words in [s. 45(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/45/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 152(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/152/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-4fe0e2e3d79f30e5403fdbd93eb939f6]: Textual amendment: Words in [s. 45(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/45/4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 152(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/152/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-4fe0e2e3d79f30e5403fdbd93eb939f6]: Textual amendment: Words in [s. 45(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/45/4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 152(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/152/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

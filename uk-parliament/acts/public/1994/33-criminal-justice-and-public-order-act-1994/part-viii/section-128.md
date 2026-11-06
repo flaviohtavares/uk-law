@@ -39,7 +39,7 @@ summary: ''
 (5)[^c19821371] For the purposes of this section, the prison service comprises all the individuals who:
 
 - (a)[^c19841451] hold any post, other than as chaplain or assistant chaplain, to which they have been appointed for the purposes of section 7 of the Prison Act 1952;
-- (aa)[^key-737f29f8e961551d290cc2d364f9779b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-737f29f8e961551d290cc2d364f9779b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) hold any post, otherwise than as a medical officer, to which those individuals have been appointed for the purposes of section 3(1A) of the Prisons (Scotland) Act 1989.
 
 ## Annotations
@@ -52,4 +52,4 @@ summary: ''
 
 [^c19841451]: Textual amendment: S. 128(5)(a)(aa) substituted (1.11.2007) for s. 128(5)(a) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2007/21/section/25/2), [41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1); [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/f)
 
-[^key-737f29f8e961551d290cc2d364f9779b]: Textual amendment: [S. 128(5)(aa)](https://www.legislation.gov.uk/ukpga/1994/33/section/128/5/aa) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2010/976/schedule/7/paragraph/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-737f29f8e961551d290cc2d364f9779b]: Textual amendment: [S. 128(5)(aa)](https://www.legislation.gov.uk/ukpga/1994/33/section/128/5/aa) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2010/976/schedule/7/paragraph/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

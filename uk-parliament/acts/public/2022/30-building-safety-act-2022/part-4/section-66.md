@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Regulations under section 65: procedure[^key-9ce2ea7507bbbb4e339bb575f27dd10d]
+## 66. Regulations under section 65: procedure[^c-9ce2ea7507bbbb4e339bb575f27dd10d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ce2ea7507bbbb4e339bb575f27dd10d]: Commencement: S. 66 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)
+[^c-9ce2ea7507bbbb4e339bb575f27dd10d]: Commencement: S. 66 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)

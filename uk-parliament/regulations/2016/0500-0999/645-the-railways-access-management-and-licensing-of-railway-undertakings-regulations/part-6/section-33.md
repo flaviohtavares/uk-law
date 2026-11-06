@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The Office of Rail and Road must, at the request of a competent authority or interested railway undertaking, determine whether the principal purpose of a service is to carry passengers between stations located in the United Kingdom and a member State[^key-dede1a4567dd36b322defb0aa8a21652].
+(1) The Office of Rail and Road must, at the request of a competent authority or interested railway undertaking, determine whether the principal purpose of a service is to carry passengers between stations located in the United Kingdom and a member State[^c-dede1a4567dd36b322defb0aa8a21652].
 
-(2)[^key-8581a39869a29d6019b47ca1d26487ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8581a39869a29d6019b47ca1d26487ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Office of Rail and Road must—
 
@@ -66,12 +66,12 @@ summary: ''
 - (a) a decision by the Office of Rail and Road on a request made under paragraph (3), or a request for a reconsideration of its decision under paragraph (6), is binding on all parties affected by that decision; and
 - (b) it is the duty of any person to whom a direction is given under this regulation to comply with and give effect to that direction.
 
-(13)[^key-1b0b225ec62aa797157438f5b79c2a9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-1b0b225ec62aa797157438f5b79c2a9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dede1a4567dd36b322defb0aa8a21652]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/33/1) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [17](https://www.legislation.gov.uk/uksi/2019/518/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dede1a4567dd36b322defb0aa8a21652]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/33/1) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [17](https://www.legislation.gov.uk/uksi/2019/518/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8581a39869a29d6019b47ca1d26487ad]: Textual amendment: [Reg. 33(2)](https://www.legislation.gov.uk/uksi/2016/645/regulation/33/2) omitted (11.2.2019) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations 2019 (S.I. 2019/82)](https://www.legislation.gov.uk/uksi/2019/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/82/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2019/82/regulation/4/a)
+[^c-8581a39869a29d6019b47ca1d26487ad]: Textual amendment: [Reg. 33(2)](https://www.legislation.gov.uk/uksi/2016/645/regulation/33/2) omitted (11.2.2019) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations 2019 (S.I. 2019/82)](https://www.legislation.gov.uk/uksi/2019/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/82/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2019/82/regulation/4/a)
 
-[^key-1b0b225ec62aa797157438f5b79c2a9d]: Textual amendment: [Reg. 33(13)](https://www.legislation.gov.uk/uksi/2016/645/regulation/33/13) omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2024/127/regulation/4/5)
+[^c-1b0b225ec62aa797157438f5b79c2a9d]: Textual amendment: [Reg. 33(13)](https://www.legislation.gov.uk/uksi/2016/645/regulation/33/13) omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2024/127/regulation/4/5)

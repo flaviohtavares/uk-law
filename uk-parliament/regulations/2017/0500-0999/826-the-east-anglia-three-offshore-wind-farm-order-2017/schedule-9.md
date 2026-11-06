@@ -22,7 +22,7 @@ summary: ''
 
 Article 31
 
-### PART 1 — Removal of hedgerows[^key-ab73d6b3a116823910557fe380cfaedb]
+### PART 1 — Removal of hedgerows[^c-ab73d6b3a116823910557fe380cfaedb]
 
 | (1) Area | (2) Reference of hedgerow |
 | --- | --- |
@@ -83,7 +83,7 @@ Article 31
 | Mid Suffolk District | The hedgerow marked 229 on the hedgerows plan |
 | Mid Suffolk District | The hedgerow marked 230 on the hedgerows plan |
 
-### PART 2 — Removal of important hedgerows[^key-f66b9dd6f0dbd836989d706c36cf1a9a]
+### PART 2 — Removal of important hedgerows[^c-f66b9dd6f0dbd836989d706c36cf1a9a]
 
 | *(1)*<br>*Area* | *(2)*<br>*Reference of hedgerow* |
 | --- | --- |
@@ -264,6 +264,6 @@ Article 31
 
 ## Annotations
 
-[^key-ab73d6b3a116823910557fe380cfaedb]: Commencement: Sch. 9 Pt. 1 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-ab73d6b3a116823910557fe380cfaedb]: Commencement: Sch. 9 Pt. 1 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-f66b9dd6f0dbd836989d706c36cf1a9a]: Commencement: Sch. 9 Pt. 2 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-f66b9dd6f0dbd836989d706c36cf1a9a]: Commencement: Sch. 9 Pt. 2 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule — Remediable Service[^key-dbf4afe0e8dc74b8c8f4663c0eafacae]
+## Schedule — Remediable Service[^c-dbf4afe0e8dc74b8c8f4663c0eafacae]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ In this Schedule—
   - (b) the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010, and
   - (c) the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (“the AFPS 1975 instruments”);
 - “**AFPS 2005**” means the occupational pension scheme established by the Armed Forces Pension Scheme Order 2005;
-- [^key-58cb7b9e7289ed69420d8371915e5dca]...
+- [^c-58cb7b9e7289ed69420d8371915e5dca]...
 - “**EDP 2005**” means the occupational pension scheme established by the Armed Forces Early Departure Payments Order 2005;
 - “**EDP 2015**” means the arrangements established by the Armed Forces Early Departure Payments Regulations 2014;
 - “**FTRS 1997**” means the occupational pension scheme established by the Reserve Forces (Full-Time Reserve Service Pension Scheme 1997) Regulations 2010;
@@ -507,6 +507,6 @@ the scheme manager must send another notice in writing to P under sub-paragraph 
 
 ## Annotations
 
-[^key-dbf4afe0e8dc74b8c8f4663c0eafacae]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2014/2336/schedule) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2023/998/schedule/7)
+[^c-dbf4afe0e8dc74b8c8f4663c0eafacae]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2014/2336/schedule) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2023/998/schedule/7)
 
-[^key-58cb7b9e7289ed69420d8371915e5dca]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/2336/schedule/paragraph/1) omitted (19.3.2025) by virtue of [The Armed Forces Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/188)](https://www.legislation.gov.uk/uksi/2025/188), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/188/regulation/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2025/188/regulation/8/3)
+[^c-58cb7b9e7289ed69420d8371915e5dca]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/2336/schedule/paragraph/1) omitted (19.3.2025) by virtue of [The Armed Forces Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/188)](https://www.legislation.gov.uk/uksi/2025/188), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/188/regulation/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2025/188/regulation/8/3)

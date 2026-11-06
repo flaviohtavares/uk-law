@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Requirements, appeals, etc.[^key-c987bcd152bfa1edaf0d38d8423ab3a2]
+## 36. Requirements, appeals, etc.[^c-c987bcd152bfa1edaf0d38d8423ab3a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c987bcd152bfa1edaf0d38d8423ab3a2]: Commencement: Art. 36 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-c987bcd152bfa1edaf0d38d8423ab3a2]: Commencement: Art. 36 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

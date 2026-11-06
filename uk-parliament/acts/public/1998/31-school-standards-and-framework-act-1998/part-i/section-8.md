@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Reserve power of Secretary of State to secure proper performance of local authority's functions.[^key-570ae5afeec7f2b1ffee877e975cdee5]
+## 8. Reserve power of Secretary of State to secure proper performance of local authority's functions.[^c-570ae5afeec7f2b1ffee877e975cdee5]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,6 +80,6 @@ After section 497 of the [^c14008021]Education Act 1996 there shall be inserted�
 
 ## Annotations
 
-[^key-570ae5afeec7f2b1ffee877e975cdee5]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/3) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-570ae5afeec7f2b1ffee877e975cdee5]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/3) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
 [^c14008021]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).

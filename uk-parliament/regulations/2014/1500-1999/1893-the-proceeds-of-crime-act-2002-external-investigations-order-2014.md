@@ -52,21 +52,21 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by sections 445 and 459(2) of the Proceeds of Crime Act 2002[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:
 
-## 1. Citation, commencement and extent[^key-2703ff7f3f8adfc7dea996de194c6067]
+## 1. Citation, commencement and extent[^c-2703ff7f3f8adfc7dea996de194c6067]
 
 This Order—
 
 - (a) may be cited as The Proceeds of Crime Act 2002 (External Investigations) Order 2014,
 - (b) comes into force on 13th August 2014, and
-- (c)[^key-6c317d07af9884a5f4ea52efd8a0457e] extends to England and Wales and Northern Ireland.
+- (c)[^c-6c317d07af9884a5f4ea52efd8a0457e] extends to England and Wales and Northern Ireland.
 
-## 2. Interpretation[^key-f803f8db0f0067173d83c1e99a949388]
+## 2. Interpretation[^c-f803f8db0f0067173d83c1e99a949388]
 
 (1) In this Order—
 
 - “the Act” means the Proceeds of Crime Act 2002;
 - “account monitoring order” has the same meaning as in article 29;
-- “appropriate officer” means an NCA officer, an accredited financial investigator,[^key-624fb9869faaea034ab2d8d821d070b7] a constable , an SFO officer[^key-9e96f5984f74429fabfd226a0190c9aa] [^key-d07103abb82a87fadd5a9f87efe1a1c4]... or an officer of Her Majesty’s Revenue and Customs;
+- “appropriate officer” means an NCA officer, an accredited financial investigator,[^c-624fb9869faaea034ab2d8d821d070b7] a constable , an SFO officer[^c-9e96f5984f74429fabfd226a0190c9aa] [^c-d07103abb82a87fadd5a9f87efe1a1c4]... or an officer of Her Majesty’s Revenue and Customs;
 - “authorised government department” means a government department, or a Northern Ireland department, which is an authorised department for the purposes of the Crown Proceedings Act 1947[^f00002];
 - “judge” means—
   - (a) in England and Wales, a judge entitled to exercise the jurisdiction of the Crown Court, or
@@ -74,12 +74,12 @@ This Order—
 - “customer information order” has the same meaning as in article 22;
 - “disclosure order” has the same meaning as in article 16;
 - “document”, “excluded material” and “premises” have the same meanings as in section 379 of the Act;
-- “enforcement authority” (in relation to Part 5A (unexplained wealth orders[^key-3e4bbaef6b603ce158fcfbf19ee86598] [^key-6dac9de5ff2fc70037166c6e4d030784]...)) means—
+- “enforcement authority” (in relation to Part 5A (unexplained wealth orders[^c-3e4bbaef6b603ce158fcfbf19ee86598] [^c-6dac9de5ff2fc70037166c6e4d030784]...)) means—
   - (a) the National Crime Agency;
   - (b) Her Majesty’s Revenue and Customs;
   - (c) the Financial Conduct Authority;
   - (d) the Director of the Serious Fraud Office, or
-  - (e) the Director of Public Prosecutions (in relation to England and Wales) or the Director of Public Prosecutions for Northern Ireland (in relation to Northern Ireland);[^key-734fb607a5419cd0c4d630420929986f]
+  - (e) the Director of Public Prosecutions (in relation to England and Wales) or the Director of Public Prosecutions for Northern Ireland (in relation to Northern Ireland);[^c-734fb607a5419cd0c4d630420929986f]
 - “external order” has the same meaning as in article 34H (unexplained wealth order: application for interim freezing order);
 - “financial institution” means a person carrying on a business in the regulated sector, but a person who ceases to carry on a business in the regulated sector (whether by virtue of paragraph 5 of Schedule 9 to the Act or otherwise) is to continue to be treated as a financial institution for the purposes of any requirement under a customer information order or an account monitoring order to provide information which relates to a time when the person was a financial institution;
 - “interim freezing order” has the same meaning as in article 34H;
@@ -95,13 +95,13 @@ This Order—
 - “response period” has the same meaning as in article 34C(5);
 - “search and seizure warrant” has the same meaning as in article 13;
 - “senior appropriate officer” means—
-  - (a) a senior NCA officer, [^key-35c9ae39fa0bbf35bba2b92ce8b10ee4]...
-  - (aa) an accredited financial investigator who is under the direction of a relevant Director as defined in section 352(5A) of the Act.[^key-afa8ce41c026409e3eedb3e68130fdbb]
-  - (ab) the Director of the Serious Fraud Office[^key-ead0d117f0aabe6f904ddd6320f55db4] [^key-3a5e8d016a2a0955fe177d6508006b61]...;
+  - (a) a senior NCA officer, [^c-35c9ae39fa0bbf35bba2b92ce8b10ee4]...
+  - (aa) an accredited financial investigator who is under the direction of a relevant Director as defined in section 352(5A) of the Act.[^c-afa8ce41c026409e3eedb3e68130fdbb]
+  - (ab) the Director of the Serious Fraud Office[^c-ead0d117f0aabe6f904ddd6320f55db4] [^c-3a5e8d016a2a0955fe177d6508006b61]...;
   - (b) a police officer who is not below the rank of superintendent;
   - (c) an officer of Her Majesty’s Revenue and Customs who is not below such grade as is designated by the Commissioners of Her Majesty’s Revenue and Customs as equivalent to that rank;
 - “senior NCA officer” has the same meaning as in paragraph 10(5) of Schedule 1 to the Crime and Courts Act 2013.
-- “SFO” means the Serious Fraud Office and “SFO officer” means a member of staff of the Serious Fraud Office.[^key-c2d2e02f18b26ea5de71700edf19a458]
+- “SFO” means the Serious Fraud Office and “SFO officer” means a member of staff of the Serious Fraud Office.[^c-c2d2e02f18b26ea5de71700edf19a458]
 - “settlement” (in relation to Part 5A) has the meaning given by section 620 of the Income Tax (Trading and Other Income) Act 2005;
 - “unexplained wealth order” has the same meaning as in article 34A.
 
@@ -110,23 +110,23 @@ This Order—
 - (a) a “business in the regulated sector” must be construed in accordance with Schedule 9 to the Act;
 - (b) “notice in writing” includes reference to notice given by electronic means.
 
-## 3. Scope of the Order[^key-ef165c811446411d24defde3fbf2b627]
+## 3. Scope of the Order[^c-ef165c811446411d24defde3fbf2b627]
 
-(1) This Order has effect for the purpose of enabling an appropriate officer to assist an external investigation by obtaining orders and warrants from the Crown Court , or by enabling an enforcement authority to obtain unexplained wealth orders and interim freezing orders from the High Court[^key-1c7d301359eeed402f54f17e39aba328] [^key-e39f97e3db871fa33a93f7904596d340]....
+(1) This Order has effect for the purpose of enabling an appropriate officer to assist an external investigation by obtaining orders and warrants from the Crown Court , or by enabling an enforcement authority to obtain unexplained wealth orders and interim freezing orders from the High Court[^c-1c7d301359eeed402f54f17e39aba328] [^c-e39f97e3db871fa33a93f7904596d340]....
 
-(2) The powers conferred by this Order are exercisable only if the appropriate officer or enforcement authority (as the case may be)[^key-2a0c25e61069f8b674387c8e6bb941e0] believes that the external investigation relates to a criminal investigation or criminal proceedings in the country or territory of the overseas authority carrying out the external investigation.
+(2) The powers conferred by this Order are exercisable only if the appropriate officer or enforcement authority (as the case may be)[^c-2a0c25e61069f8b674387c8e6bb941e0] believes that the external investigation relates to a criminal investigation or criminal proceedings in the country or territory of the overseas authority carrying out the external investigation.
 
 (3) For the purpose of paragraph (2), criminal proceedings include proceedings to remove from a person the benefit of that person’s criminal conduct following that person’s conviction for an offence or offences.
 
-(4)[^key-76b607825267e9686b16d55445fd6659] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-76b607825267e9686b16d55445fd6659] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Action on receipt of a request in relation to an external investigation[^key-779cc83481bc4bf20fb8956661172678]
+## 4. Action on receipt of a request in relation to an external investigation[^c-779cc83481bc4bf20fb8956661172678]
 
-(1) The Secretary of State may refer to the Director General of the NCA, a relevant Director as defined in section 352(5A) of the Act (“a relevant Director”),[^key-b01632ac372726c0d67bb0f26437f85b] a constable or an officer of Her Majesty’s Revenue and Customs , or (in relation to unexplained wealth orders and interim freezing orders) an enforcement authority,[^key-1fa06223405ce8f925d297b5649ba840] a request for assistance in relation to an external investigation.
+(1) The Secretary of State may refer to the Director General of the NCA, a relevant Director as defined in section 352(5A) of the Act (“a relevant Director”),[^c-b01632ac372726c0d67bb0f26437f85b] a constable or an officer of Her Majesty’s Revenue and Customs , or (in relation to unexplained wealth orders and interim freezing orders) an enforcement authority,[^c-1fa06223405ce8f925d297b5649ba840] a request for assistance in relation to an external investigation.
 
-(2) The Director General of the NCA, a relevant Director,[^key-40df4d33b37113e2df33e8a1406f007f] a constable or an officer of Her Majesty’s Revenue and Customs , or (in relation to unexplained wealth orders and interim freezing orders) an enforcement authority,[^key-cf30a539391bf28cc0c557d5481bf0e9] may, on receipt of the request for assistance, act under this Order.
+(2) The Director General of the NCA, a relevant Director,[^c-40df4d33b37113e2df33e8a1406f007f] a constable or an officer of Her Majesty’s Revenue and Customs , or (in relation to unexplained wealth orders and interim freezing orders) an enforcement authority,[^c-cf30a539391bf28cc0c557d5481bf0e9] may, on receipt of the request for assistance, act under this Order.
 
-## 5. Offences of prejudicing an external investigation[^key-aee4005d4e42d3a48b5504413a986f43]
+## 5. Offences of prejudicing an external investigation[^c-aee4005d4e42d3a48b5504413a986f43]
 
 (1) This article applies if a person knows or suspects that an appropriate officer is acting (or proposing to act) in connection with an external investigation.
 
@@ -167,7 +167,7 @@ This Order—
 
 ## PART 1 — Production orders
 
-### 6. Production orders[^key-c7503f4a48ae4579cc41375f60935dc5]
+### 6. Production orders[^c-c7503f4a48ae4579cc41375f60935dc5]
 
 (1) A judge may, on an application made to the judge by an appropriate officer, make a production order if the judge is satisfied that each of the requirements for the making of the order is fulfilled.
 
@@ -187,7 +187,7 @@ within the period stated in the order.
 
 (4) The period stated in a production order must be a period of seven days beginning with the day on which the order is made, unless it appears to the judge by whom the order is made that a longer or shorter period would be appropriate in the particular circumstances.
 
-### 7. Requirements for making of production order[^key-420d1004d9438c95a0a4c8b1221fa715]
+### 7. Requirements for making of production order[^c-420d1004d9438c95a0a4c8b1221fa715]
 
 (1) These are the requirements for the making of a production order.
 
@@ -201,7 +201,7 @@ within the period stated in the order.
   - (i) the benefit likely to accrue to the external investigation if the material is obtained;
   - (ii) the circumstances under which the person the application specifies as appearing to be in possession or control of the material holds it.
 
-### 8. Order to grant entry[^key-b8c2714aa10dbc55486cdcdabfed959c]
+### 8. Order to grant entry[^c-b8c2714aa10dbc55486cdcdabfed959c]
 
 (1) This article applies if a judge makes a production order requiring a person to give an appropriate officer access to material on any premises.
 
@@ -209,7 +209,7 @@ within the period stated in the order.
 
 (3) An order to grant entry is an order requiring any person who appears to an appropriate officer to be entitled to grant entry to the premises to allow the appropriate officer to enter the premises to obtain access to the material.
 
-### 9. Further provisions[^key-d58e376052375952fe51d8a1e59d8e5f]
+### 9. Further provisions[^c-d58e376052375952fe51d8a1e59d8e5f]
 
 (1) A production order does not require a person to produce, or give access to, privileged material.
 
@@ -232,7 +232,7 @@ it may be retained until the proceedings are concluded.
 
 (8) Material produced in compliance with a production order may be sent to the overseas authority which made the request for assistance or to the Secretary of State for forwarding to that overseas authority.
 
-### 10. Computer information[^key-610ddf0ad521b3bbd9f129a35941e598]
+### 10. Computer information[^c-610ddf0ad521b3bbd9f129a35941e598]
 
 (1) This article applies if any of the material specified in an application for a production order consists of information contained in a computer.
 
@@ -243,7 +243,7 @@ it may be retained until the proceedings are concluded.
 
 (3) If the order requires a person to give an appropriate officer access to the material, it has effect as an order to give the appropriate officer access to the material in a form in which it is visible and legible.
 
-### 11. Government departments[^key-4b69110ebd853f9913b017b77654b0c0]
+### 11. Government departments[^c-4b69110ebd853f9913b017b77654b0c0]
 
 (1) A production order may be made in relation to material in the possession or control of an authorised government department.
 
@@ -258,7 +258,7 @@ it may be retained until the proceedings are concluded.
 
 (5) If the order is not brought to the attention of the officer concerned within the period stated in the order (in pursuance of article 6(4)) the person on whom it is served must report the reasons for the failure to a judge.
 
-### 12. Supplementary[^key-f5e4e3ca3b838fc7c582e4553951a67c]
+### 12. Supplementary[^c-f5e4e3ca3b838fc7c582e4553951a67c]
 
 (1) An application for a production order or an order to grant entry may be made *ex parte* to a judge in chambers.
 
@@ -280,7 +280,7 @@ it may be retained until the proceedings are concluded.
 
 ## PART 2 — Search and seizure warrants
 
-### 13. Search and seizure warrants[^key-9615d4fe7fac07d2695b440c3d256d5e]
+### 13. Search and seizure warrants[^c-9615d4fe7fac07d2695b440c3d256d5e]
 
 (1) A judge may, on an application made to the judge by an appropriate officer, issue a search and seizure warrant if the judge is satisfied—
 
@@ -303,7 +303,7 @@ it may be retained until the proceedings are concluded.
 - (a) that a production order made in relation to material has not been complied with and there are reasonable grounds for believing that the material is on the premises specified in the application for the warrant, or
 - (b) that article 14 is satisfied in relation to the warrant.
 
-### 14. Requirements where production order not available[^key-22cd4ae1e841c3dfcb4512d6a7eb1045]
+### 14. Requirements where production order not available[^c-22cd4ae1e841c3dfcb4512d6a7eb1045]
 
 (1) This article is satisfied in relation to a search and seizure warrant if—
 
@@ -339,7 +339,7 @@ it may be retained until the proceedings are concluded.
 - (b) that entry to the premises will not be granted unless a warrant is produced, and
 - (c) that the external investigation might be seriously prejudiced unless an appropriate officer arriving at the premises is able to secure immediate entry to them.
 
-### 15. Further provisions: general[^key-f4de59dbc6663e395ba085c0e8b68d96]
+### 15. Further provisions: general[^c-f4de59dbc6663e395ba085c0e8b68d96]
 
 (1) This article applies to—
 
@@ -383,7 +383,7 @@ it may be retained until the proceedings are concluded.
 
 ## PART 3 — Disclosure orders
 
-### 16. Disclosure orders[^key-cd901e10d6504d32917a519511fa3f68]
+### 16. Disclosure orders[^c-cd901e10d6504d32917a519511fa3f68]
 
 (1) A judge may, on an application made to the judge by an appropriate officer, make a disclosure order if the judge is satisfied that each of the requirements for the making of the order is fulfilled.
 
@@ -402,7 +402,7 @@ it may be retained until the proceedings are concluded.
 
 (5) A person is not bound to comply with a requirement imposed by a notice given under a disclosure order unless evidence of authority to give the notice is produced to them.
 
-### 17. Requirements for making of disclosure order[^key-66f36ae6b1acde934bc247c48176aeae]
+### 17. Requirements for making of disclosure order[^c-66f36ae6b1acde934bc247c48176aeae]
 
 (1) These are the requirements for the making of a disclosure order.
 
@@ -413,7 +413,7 @@ it may be retained until the proceedings are concluded.
 - (a) information which may be provided in compliance with a requirement imposed under the order is likely to be of substantial value (whether or not by itself) to the external investigation, and
 - (b) it is in the public interest for the information to be provided, having regard to the benefit likely to accrue to the external investigation if the information is obtained.
 
-### 18. Offences[^key-b6105be7e8fe3409d5db6f6b261fef73]
+### 18. Offences[^c-b6105be7e8fe3409d5db6f6b261fef73]
 
 (1) A person commits an offence if, without reasonable excuse the person fails to comply with a requirement imposed on the person under a disclosure order.
 
@@ -433,7 +433,7 @@ it may be retained until the proceedings are concluded.
 - (a) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum or to both, or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
 
-### 19. Statements[^key-e7949a217082eb0737e6f85cfc9856db]
+### 19. Statements[^c-e7949a217082eb0737e6f85cfc9856db]
 
 (1) A statement made by a person in response to a requirement imposed on them under a disclosure order may not be used in evidence against them in criminal proceedings.
 
@@ -453,7 +453,7 @@ it may be retained until the proceedings are concluded.
 
 by them or on their behalf in the proceedings arising out of the prosecution.
 
-### 20. Further provisions[^key-d714b46c1c0aedef47c41edafec18288]
+### 20. Further provisions[^c-d714b46c1c0aedef47c41edafec18288]
 
 (1) A disclosure order does not confer the right to require a person to answer any privileged question, provide any privileged information or produce any privileged document, except that a lawyer may be required to provide the name and address of their client.
 
@@ -480,7 +480,7 @@ the documents may be retained until the proceedings are concluded.
 
 (10) Material produced in compliance with a disclosure order may be sent to the overseas authority which made the request for assistance or to the Secretary of State for forwarding to that overseas authority.
 
-### 21. Supplementary[^key-bbe3b0d0c176303f967ba52f9c0e652c]
+### 21. Supplementary[^c-bbe3b0d0c176303f967ba52f9c0e652c]
 
 (1) An application for a disclosure order may be made *ex parte* to a judge in chambers.
 
@@ -500,7 +500,7 @@ the documents may be retained until the proceedings are concluded.
 
 ## PART 4 — Customer information orders
 
-### 22. Customer information orders[^key-857597224723c0b2bf1dfeaadd658c11]
+### 22. Customer information orders[^c-857597224723c0b2bf1dfeaadd658c11]
 
 (1) A judge may, on an application made to the judge by an appropriate officer, make a customer information order if the judge is satisfied that each of the requirements for the making of the order is fulfilled.
 
@@ -522,7 +522,7 @@ the documents may be retained until the proceedings are concluded.
 
 (6) If a financial institution on which a requirement is imposed by a notice given under a customer information order requires the production of evidence of authority to give the notice, it is not bound to comply with the requirement unless evidence of the authority has been produced to it.
 
-### 23. Meaning of customer information[^key-a0348a50037505712dfcffa83c0c1320]
+### 23. Meaning of customer information[^c-a0348a50037505712dfcffa83c0c1320]
 
 (1) “Customer information”, in relation to a person and a financial institution, is information whether the person holds, or has held, an account or accounts or any safe deposit box at the financial institution (whether solely or jointly with another) and (if so) information as to—
 
@@ -557,7 +557,7 @@ the documents may be retained until the proceedings are concluded.
 
 (4) A “safe deposit box” includes any procedure under which a financial institution provides a facility to hold items for safe keeping on behalf of another person.
 
-### 24. Requirements for making of customer information order[^key-57cc933ccf947279239ab71467bcbdf4]
+### 24. Requirements for making of customer information order[^c-57cc933ccf947279239ab71467bcbdf4]
 
 (1) These are the requirements for the making of a customer information order.
 
@@ -568,7 +568,7 @@ the documents may be retained until the proceedings are concluded.
 - (a) customer information which may be provided in compliance with the order is likely to be of substantial value (whether or not by itself) to the external investigation, and
 - (b) it is in the public interest for the customer information to be provided, having regard to the benefit likely to accrue to the external investigation if the information is obtained.
 
-### 25. Offences[^key-57c0d2fd01fab18cba7928c02da17bf1]
+### 25. Offences[^c-57c0d2fd01fab18cba7928c02da17bf1]
 
 (1) A financial institution commits an offence if without reasonable excuse it fails to comply with a requirement imposed on it under a customer information order.
 
@@ -584,7 +584,7 @@ the documents may be retained until the proceedings are concluded.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum, or
 - (b) on conviction on indictment, to a fine.
 
-### 26. Statements[^key-6ea0586a71910a24173c7a0e876d08d9]
+### 26. Statements[^c-6ea0586a71910a24173c7a0e876d08d9]
 
 (1) A statement made by a financial institution in response to a customer information order may not be used in evidence against it in criminal proceedings.
 
@@ -602,11 +602,11 @@ the documents may be retained until the proceedings are concluded.
 
 by or on behalf of the financial institution in the proceedings arising out of the prosecution.
 
-### 27. Disclosure of information[^key-a6897f0079ceaa24e381d569d14f4b1d]
+### 27. Disclosure of information[^c-a6897f0079ceaa24e381d569d14f4b1d]
 
 A customer information order has effect in spite of any restriction on the disclosure of information (however imposed).
 
-### 28. Supplementary[^key-b38c105f14528d9dbfa3e1090ff68bf1]
+### 28. Supplementary[^c-b38c105f14528d9dbfa3e1090ff68bf1]
 
 (1) An application for a customer information order may be made *ex parte* to a judge in chambers.
 
@@ -628,7 +628,7 @@ A customer information order has effect in spite of any restriction on the discl
 
 ## PART 5 — Account monitoring orders
 
-### 29. Account monitoring orders[^key-17fd2584b26edce6d986846255263e5e]
+### 29. Account monitoring orders[^c-17fd2584b26edce6d986846255263e5e]
 
 (1) A judge may, on an application made to the judge by an appropriate officer, make an account monitoring order if the judge is satisfied that each of the requirements for the making of the order is fulfilled.
 
@@ -650,7 +650,7 @@ A customer information order has effect in spite of any restriction on the discl
 
 (6) The period stated in an account monitoring order must not exceed the period of 90 days beginning with the day on which the order is made.
 
-### 30. Requirements for making of account monitoring order[^key-aae6ab54adf682a14568b0ee7e70c8ce]
+### 30. Requirements for making of account monitoring order[^c-aae6ab54adf682a14568b0ee7e70c8ce]
 
 (1) These are the requirements for the making of an account monitoring order.
 
@@ -661,7 +661,7 @@ A customer information order has effect in spite of any restriction on the discl
 - (a) account information which may be provided in compliance with the order is likely to be of substantial value (whether or not by itself) to the external investigation, and
 - (b) it is in the public interest for the account information to be provided, having regard to the benefit likely to accrue to the external investigation if the information is obtained.
 
-### 31. Statements[^key-90a1ceff524912f41f927886e0fb2944]
+### 31. Statements[^c-90a1ceff524912f41f927886e0fb2944]
 
 (1) A statement made by a financial institution in response to an account monitoring order may not be used in evidence against it in criminal proceedings.
 
@@ -678,15 +678,15 @@ A customer information order has effect in spite of any restriction on the discl
 
 by or on behalf of the financial institution in the proceedings arising out of the prosecution.
 
-### 32. Applications[^key-27b20a44e84604d768d598398bdfaebf]
+### 32. Applications[^c-27b20a44e84604d768d598398bdfaebf]
 
 An application for an account monitoring order may be made *ex parte* to a judge in chambers.
 
-### 33. Disclosure of information[^key-1bcbfc5bfe831fde149a36847a9336a9]
+### 33. Disclosure of information[^c-1bcbfc5bfe831fde149a36847a9336a9]
 
 An account monitoring order has effect in spite of any restriction on the disclosure of information (however imposed).
 
-### 34. Supplementary[^key-393cabe688baf6367f3bef4f3cbc6479]
+### 34. Supplementary[^c-393cabe688baf6367f3bef4f3cbc6479]
 
 (1) An application to discharge or vary an account monitoring order may be made to the Crown Court by—
 
@@ -704,22 +704,22 @@ An account monitoring order has effect in spite of any restriction on the disclo
 
 (5) Account monitoring orders have effect as if they were orders of the Crown Court.
 
-## Part 5A — Unexplained wealth orders...[^key-ecf6d1c4c860a9cab50b1e047c0ca177][^key-22d72153720287646cba34115968577d]
+## Part 5A — Unexplained wealth orders...[^c-ecf6d1c4c860a9cab50b1e047c0ca177][^c-22d72153720287646cba34115968577d]
 
-### 34A. Unexplained wealth orders ...[^key-658966d84f172768118e382bae4789a8]
+### 34A. Unexplained wealth orders ...[^c-658966d84f172768118e382bae4789a8]
 
 (1) The High Court may, on an application made by an enforcement authority (see article 2 (interpretation)), make an unexplained wealth order in respect of any property if the court is satisfied that each of the requirements for making the order is fulfilled.
 
 (2) An application for the order must—
 
 - (a) specify or describe the property in respect of which the order is sought, and
-- (b) specify the person [^key-175278859e1c8b1d6fc784964286ebbc]... whom the enforcement authority thinks holds the property (“the respondent”).
+- (b) specify the person [^c-175278859e1c8b1d6fc784964286ebbc]... whom the enforcement authority thinks holds the property (“the respondent”).
 
-(2A)[^key-2b8d9de71275205944126151990f5513] In a case where the respondent is not an individual, the application may also specify a person who is a responsible officer of the respondent (and a person specified may include a person outside the United Kingdom).
+(2A)[^c-2b8d9de71275205944126151990f5513] In a case where the respondent is not an individual, the application may also specify a person who is a responsible officer of the respondent (and a person specified may include a person outside the United Kingdom).
 
 (3) An application for an unexplained wealth order may be made without notice.
 
-(4) An unexplained wealth order is an order requiring the respondent or any responsible officer specified in the order (a “specified responsible officer”)[^key-8e68f89b1ec10110542e9e480b3eafb7] to provide a statement—
+(4) An unexplained wealth order is an order requiring the respondent or any responsible officer specified in the order (a “specified responsible officer”)[^c-8e68f89b1ec10110542e9e480b3eafb7] to provide a statement—
 
 - (a) setting out the nature and extent of the respondent’s interest in the property in respect of which the order is made,
 - (b) explaining how the respondent obtained the property (including, in particular, how any costs incurred in obtaining it were met),
@@ -732,13 +732,13 @@ An account monitoring order has effect in spite of any restriction on the disclo
 - (b) the person to whom it is to be given, and
 - (c) the place at which it is to be given or, if it is to be given in writing, the address to which it is to be sent.
 
-(6) The order may, in connection with requiring the respondent or any specified responsible officer[^key-c686266b00137c5a36a47502e796bb29] to provide the statement mentioned in paragraph (4), also require them[^key-a7c8845d79ef77242d670a6972398945] to produce documents of a kind specified or described in the order.
+(6) The order may, in connection with requiring the respondent or any specified responsible officer[^c-c686266b00137c5a36a47502e796bb29] to provide the statement mentioned in paragraph (4), also require them[^c-a7c8845d79ef77242d670a6972398945] to produce documents of a kind specified or described in the order.
 
-(7) The respondent or any specified responsible officer[^key-002957440623365d39d516847f8559ba] must comply with the requirements imposed by an unexplained wealth order within whatever period the court may specify (and different periods may be specified in relation to different requirements).
+(7) The respondent or any specified responsible officer[^c-002957440623365d39d516847f8559ba] must comply with the requirements imposed by an unexplained wealth order within whatever period the court may specify (and different periods may be specified in relation to different requirements).
 
 (8) For the purposes of this article and article 34B (requirements for making of unexplained wealth order), property is held by a person if that person holds an interest in it (see also article 34G (holding of property: trusts and company arrangements etc.)).
 
-(9)[^key-fc4dde5e063d9286cd856fcdb21ed3c0] For the purposes of this Part, each of the following is a “responsible officer” of the respondent (in a case where the respondent is not an individual)—
+(9)[^c-fc4dde5e063d9286cd856fcdb21ed3c0] For the purposes of this Part, each of the following is a “responsible officer” of the respondent (in a case where the respondent is not an individual)—
 
 - (a) any director of the respondent, including any person occupying the position of a director, by whatever name called;
 - (b) any member of a body of the respondent equivalent to a board of directors;
@@ -755,16 +755,16 @@ An account monitoring order has effect in spite of any restriction on the disclo
 - (a) the respondent holds the property, and
 - (b) the value of the property is greater than that of the sum for the time being specified in section 362B(2)(b) of the Proceeds of Crime Act 2002 (requirements for making of unexplained wealth order).
 
-(3) The High Court must be satisfied that there are reasonable grounds for suspecting that—[^key-64640ba5a1634bc5f8a0baede3bb99b8]
+(3) The High Court must be satisfied that there are reasonable grounds for suspecting that—[^c-64640ba5a1634bc5f8a0baede3bb99b8]
 
-- (a)[^key-97a9ed347b7a0e3ebb9c095830cd41bb] the known sources of the respondent’s lawfully obtained income would have been insufficient for the purposes of enabling the respondent to obtain the property, or[^key-931c35c946fa8106ca100d239d64d93f]
+- (a)[^c-97a9ed347b7a0e3ebb9c095830cd41bb] the known sources of the respondent’s lawfully obtained income would have been insufficient for the purposes of enabling the respondent to obtain the property, or[^c-931c35c946fa8106ca100d239d64d93f]
 - (b) the property has been obtained through unlawful conduct (within the meaning given by section 242 of the Proceeds of Crime Act 2002).
 
 (4) The High Court must be satisfied that—
 
 - (a) the respondent is a politically exposed person, or
 - (b) there are reasonable grounds for suspecting that—
-  - (i) the respondent is, or has been, involved in serious crime (whether in a part of the United Kingdom[^key-01031203e5c7d7a8dd6f49a717ccc95e] or elsewhere), or
+  - (i) the respondent is, or has been, involved in serious crime (whether in a part of the United Kingdom[^c-01031203e5c7d7a8dd6f49a717ccc95e] or elsewhere), or
   - (ii) a person connected with the respondent is, or has been, so involved.
 
 (5) It does not matter for the purposes of paragraph (2)(a)—
@@ -784,18 +784,18 @@ An account monitoring order has effect in spite of any restriction on the disclo
 
 (8) For the purposes of this article—
 
-- (a) a person is involved in serious crime in a part of the United Kingdom[^key-991750dbf4faa761eec26654790f118d] or elsewhere if the person would be so involved for the purposes of Part 1 of the Serious Crime Act 2007 (see in particular sections 2, 2A and 3[^key-07bd986de0ce843e7bd1d52cbd80d436] of that Act) [^key-c9192318534d86e111c11d4aaa5bdf0d]...;
+- (a) a person is involved in serious crime in a part of the United Kingdom[^c-991750dbf4faa761eec26654790f118d] or elsewhere if the person would be so involved for the purposes of Part 1 of the Serious Crime Act 2007 (see in particular sections 2, 2A and 3[^c-07bd986de0ce843e7bd1d52cbd80d436] of that Act) [^c-c9192318534d86e111c11d4aaa5bdf0d]...;
 - (b) section 1122 of the Corporation Tax Act 2010 (“connected” persons) applies in determining whether a person is connected with another.
 
 (9) Where the property in respect of which the order is sought comprises more than one item of property, the reference in paragraph (2)(b) to the value of the property is to the total value of those items.
 
 ### 34C. Non-compliance with an unexplained wealth order
 
-(1) This article applies in a case where the respondent and the specified responsible officer (if any), between them, fail[^key-ce9680b56e42b67cda4d82b503603101], without reasonable excuse, to comply with the requirements imposed by an unexplained wealth order in respect of any property before the end of the response period.
+(1) This article applies in a case where the respondent and the specified responsible officer (if any), between them, fail[^c-ce9680b56e42b67cda4d82b503603101], without reasonable excuse, to comply with the requirements imposed by an unexplained wealth order in respect of any property before the end of the response period.
 
-(2) For the purposes of paragraph (1) where an unexplained wealth order imposes more than one requirement on the respondent, the respondent and the specified responsible officer (if any) are[^key-c6e57d1c29484a950e58c3b65c507e1e] to be taken to have failed to comply with the requirements imposed by the order unless each of the requirements is complied with or is purported to be complied with.
+(2) For the purposes of paragraph (1) where an unexplained wealth order imposes more than one requirement on the respondent, the respondent and the specified responsible officer (if any) are[^c-c6e57d1c29484a950e58c3b65c507e1e] to be taken to have failed to comply with the requirements imposed by the order unless each of the requirements is complied with or is purported to be complied with.
 
-(3) In the event of a failure by the respondent or the specified responsible officer (if any)[^key-ad0c2d3cba08a9fea97545c72616ce3d] to comply with the requirements of an unexplained wealth order, the enforcement authority that applied for the order must inform the Secretary of State of that failure and whether an interim freezing order has effect in relation to the property (see article 34H (unexplained wealth order: application for interim freezing order)).
+(3) In the event of a failure by the respondent or the specified responsible officer (if any)[^c-ad0c2d3cba08a9fea97545c72616ce3d] to comply with the requirements of an unexplained wealth order, the enforcement authority that applied for the order must inform the Secretary of State of that failure and whether an interim freezing order has effect in relation to the property (see article 34H (unexplained wealth order: application for interim freezing order)).
 
 (4) The Secretary of State must—
 
@@ -811,7 +811,7 @@ An account monitoring order has effect in spite of any restriction on the disclo
 
 (1) This article applies if—
 
-- (a) before the end of the response period, the respondent and the specified responsible officer (if any) between them comply, or purport to comply, with all of the[^key-3bde26e34bb3775cfb378e2ed46d3bc0] requirements imposed by an unexplained wealth order in respect of any property in relation to which the order was made, and
+- (a) before the end of the response period, the respondent and the specified responsible officer (if any) between them comply, or purport to comply, with all of the[^c-3bde26e34bb3775cfb378e2ed46d3bc0] requirements imposed by an unexplained wealth order in respect of any property in relation to which the order was made, and
 - (b) an interim freezing order has effect in relation to the property (see article 34H (unexplained wealth order: application for interim freezing order)).
 
 (2) In this article “compliance material” means—
@@ -837,9 +837,9 @@ and compliance material is “provided” when it is given or produced as requir
 
 (2) Paragraph (1) does not apply—
 
-- (a) in the case of proceedings under Part 2 or 4[^key-fa5e5d99c518ac0aca4afdaa2d61e3ef] of the Proceeds of Crime Act 2002 (confiscation: England and Wales or Northern Ireland[^key-7be8c61401286825481be3da7f85a782]),
-- (b) in the case of proceedings under Part 2 or 4[^key-227e0a0e8103e476885c311e0dbd9e5b] of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (giving effect in England and Wales or Northern Ireland[^key-341800eba6c71d3bfb41f4dcbe13c041] to external requests in connection with criminal investigations or proceedings and to external orders arising from such proceedings),
-- (c) on a prosecution for an offence under section 5 of the Perjury Act 1911 or Article 10 of the Perjury (Northern Ireland) Order 1979[^key-26cf75f52f162c68f2da1ab186410c63] (false statements), or
+- (a) in the case of proceedings under Part 2 or 4[^c-fa5e5d99c518ac0aca4afdaa2d61e3ef] of the Proceeds of Crime Act 2002 (confiscation: England and Wales or Northern Ireland[^c-7be8c61401286825481be3da7f85a782]),
+- (b) in the case of proceedings under Part 2 or 4[^c-227e0a0e8103e476885c311e0dbd9e5b] of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (giving effect in England and Wales or Northern Ireland[^c-341800eba6c71d3bfb41f4dcbe13c041] to external requests in connection with criminal investigations or proceedings and to external orders arising from such proceedings),
+- (c) on a prosecution for an offence under section 5 of the Perjury Act 1911 or Article 10 of the Perjury (Northern Ireland) Order 1979[^c-26cf75f52f162c68f2da1ab186410c63] (false statements), or
 - (d) on a prosecution for some other offence where, in giving evidence, the person makes a statement inconsistent with the statement mentioned in paragraph (1).
 
 (3) A statement may not be used by virtue of paragraph (2)(d) against a person unless—
@@ -855,7 +855,7 @@ by the person or on the person’s behalf in proceedings arising out of the pros
 
 (2) But paragraphs (1) to (5) of article 20 (further provisions: rights in connection with privileged information, questions and material) apply in relation to requirements imposed by an unexplained wealth order as they apply in relation to requirements imposed under a disclosure order.
 
-(3) The enforcement authority may take copies of any documents produced by the respondent or any specified responsible officer[^key-b88b4deb4d2495d6f8fb600cd372f6d3] in connection with complying with the requirements imposed by an unexplained wealth order.
+(3) The enforcement authority may take copies of any documents produced by the respondent or any specified responsible officer[^c-b88b4deb4d2495d6f8fb600cd372f6d3] in connection with complying with the requirements imposed by an unexplained wealth order.
 
 (4) Documents so produced may also be retained for so long as it is necessary to retain them (as opposed to a copy of them) in connection with an external investigation in relation to the property in respect of which the unexplained wealth order is made.
 
@@ -890,12 +890,12 @@ direct or indirect control over the property.
 
 (5) References to a person who holds or obtains property include any body corporate, whether incorporated or formed under the law of a part of the United Kingdom or in a country or territory outside the United Kingdom.
 
-### 34GA. Supplementary: Northern Ireland[^key-e872f2f41245df5f8b702f436020e7a0]
+### 34GA. Supplementary: Northern Ireland[^c-e872f2f41245df5f8b702f436020e7a0]
 
 (1) An application to the High Court in Northern Ireland to discharge or vary an unexplained wealth order may be made by—
 
 - (a) the enforcement authority, or
-- (b) the respondent or any specified responsible officer[^key-ebad309ff71bc183fc3be56cac34c0aa].
+- (b) the respondent or any specified responsible officer[^c-ebad309ff71bc183fc3be56cac34c0aa].
 
 (2) The High Court in Northern Ireland—
 
@@ -945,7 +945,7 @@ direct or indirect control over the property.
 - (a) any Saturday or Sunday,
 - (b) Christmas Day,
 - (c) Good Friday,
-- (d) any day which is a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom in which the interim freezing order concerned is made[^key-f9bcb4f14bb8b82ec68dc30432360f53].
+- (d) any day which is a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom in which the interim freezing order concerned is made[^c-f9bcb4f14bb8b82ec68dc30432360f53].
 
 (7) Before exercising the power under this article to vary or discharge an interim freezing order, the court must (as well as giving the parties to the proceedings an opportunity to be heard) give an opportunity to any person who may be affected by its decision to be heard.
 
@@ -953,7 +953,7 @@ direct or indirect control over the property.
 
 (9) In this article, “relevant application” means an application for—
 
-- (a) a restraint order under article 8 or 95[^key-c79240d84e037997dcc19a0bd5c2aeb2] of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (restraint orders), or
+- (a) a restraint order under article 8 or 95[^c-c79240d84e037997dcc19a0bd5c2aeb2] of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (restraint orders), or
 - (b) a prohibition order under Part 4A of that Order (giving effect in England and Wales and Northern Ireland to external requests by means of civil proceedings).
 
 ### 34J. Exclusions
@@ -981,7 +981,7 @@ direct or indirect control over the property.
 (6) The court in deciding whether to make an exclusion for the purposes of enabling a person to meet legal expenses in respect of proceedings under this Order—
 
 - (a) must have regard to the desirability of the person being represented in any proceedings under this Part in which the person is a participant, and
-- (b) must disregard the possibility that legal representation of the person in any such proceedings might, were an exclusion not made—[^key-8a7506f4733cf19ae8095949563586db]
+- (b) must disregard the possibility that legal representation of the person in any such proceedings might, were an exclusion not made—[^c-8a7506f4733cf19ae8095949563586db]
   - (i) be made available under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, or
   - (ii) be funded by the Legal Services Agency Northern Ireland.
 
@@ -1039,10 +1039,10 @@ direct or indirect control over the property.
 
 (4) The court may by order require any person in respect of whose property the receiver is appointed—
 
-- (a) to bring the property to a place (in England and Wales or, as the case may be, Northern Ireland)[^key-e37fd7069a7b3a528e2d3e1206436b6c] specified by the receiver or to place it in the custody of the receiver (if in either case the person is able to do so);
+- (a) to bring the property to a place (in England and Wales or, as the case may be, Northern Ireland)[^c-e37fd7069a7b3a528e2d3e1206436b6c] specified by the receiver or to place it in the custody of the receiver (if in either case the person is able to do so);
 - (b) to do anything the person is reasonably required to do by the receiver for the preservation of the property.
 
-(5) The court may by order require any person in respect of whose property the receiver is appointed to bring any documents relating to the property which are in the person’s possession or control to a place (in England and Wales or, as the case may be, Northern Ireland)[^key-45f831c6bc686298a88c562ddfaf94e4] specified by the receiver or to place them in the custody of the receiver.
+(5) The court may by order require any person in respect of whose property the receiver is appointed to bring any documents relating to the property which are in the person’s possession or control to a place (in England and Wales or, as the case may be, Northern Ireland)[^c-45f831c6bc686298a88c562ddfaf94e4] specified by the receiver or to place them in the custody of the receiver.
 
 (6) Any prohibition on dealing with property imposed by an interim freezing order does not prevent a person from complying with any requirements imposed by virtue of this article.
 
@@ -1104,7 +1104,7 @@ Section 362Q of the Proceeds of Crime Act 2002 (registration) applies in relatio
 - (a) the compensation is payable by the enforcement authority that applied for the interim freezing order, and
 - (b) the amount of the compensation to be paid is the amount that the court thinks reasonable, having regard to the loss suffered and any other relevant circumstance.
 
-### 34Q. Costs orders[^key-56dcce9c41d2706daeed9ec38e896858]
+### 34Q. Costs orders[^c-56dcce9c41d2706daeed9ec38e896858]
 
 (1) This article applies in the following cases—
 
@@ -1135,7 +1135,7 @@ Section 362Q of the Proceeds of Crime Act 2002 (registration) applies in relatio
 
 ## PART 6 — Codes of Practice
 
-### 35. Codes of Practice[^key-9eb64270e8703f63ab7da431ee3d3c23]
+### 35. Codes of Practice[^c-9eb64270e8703f63ab7da431ee3d3c23]
 
 (1) A relevant code of practice applies to the functions conferred by this Order as it applies to the functions conferred by Chapter 2 of Part 8 of the Act in relation to confiscation investigations.
 
@@ -1217,25 +1217,25 @@ An impact assessment has not been produced for this Order as no impact on the pr
 
 [^f00001]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 445(2)(b) was amended by article 12 of, paragraphs 47 and 71 of Schedule 14 to, [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976), section 74 of, paragraphs 121 and 139 in Part 6 of Schedule 8 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), and section 15 of, paragraphs 108 and 150 in Part 2 of Schedule 8 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-2703ff7f3f8adfc7dea996de194c6067]: Commencement: Art. 1 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-2703ff7f3f8adfc7dea996de194c6067]: Commencement: Art. 1 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-6c317d07af9884a5f4ea52efd8a0457e]: Textual amendment: [Art. 1(c)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/c) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [53](https://www.legislation.gov.uk/uksi/2021/638/article/53)
+[^c-6c317d07af9884a5f4ea52efd8a0457e]: Textual amendment: [Art. 1(c)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/c) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [53](https://www.legislation.gov.uk/uksi/2021/638/article/53)
 
-[^key-f803f8db0f0067173d83c1e99a949388]: Commencement: Art. 2 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-f803f8db0f0067173d83c1e99a949388]: Commencement: Art. 2 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-624fb9869faaea034ab2d8d821d070b7]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) (No. 2) Order 2015 (S.I. 2015/1752)](https://www.legislation.gov.uk/uksi/2015/1752), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1752/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2015/1752/article/3/a)
+[^c-624fb9869faaea034ab2d8d821d070b7]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) (No. 2) Order 2015 (S.I. 2015/1752)](https://www.legislation.gov.uk/uksi/2015/1752), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1752/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2015/1752/article/3/a)
 
-[^key-9e96f5984f74429fabfd226a0190c9aa]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [17(a)(i)](https://www.legislation.gov.uk/uksi/2018/1078/article/17/a/i)
+[^c-9e96f5984f74429fabfd226a0190c9aa]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [17(a)(i)](https://www.legislation.gov.uk/uksi/2018/1078/article/17/a/i)
 
-[^key-d07103abb82a87fadd5a9f87efe1a1c4]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [54(a)](https://www.legislation.gov.uk/uksi/2021/638/article/54/a)
+[^c-d07103abb82a87fadd5a9f87efe1a1c4]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [54(a)](https://www.legislation.gov.uk/uksi/2021/638/article/54/a)
 
 [^f00002]: Footnote: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44), see section 17, as amended by article 3(2) of [S.I. 1968/1656](https://www.legislation.gov.uk/uksi/1968/1656).
 
-[^key-3e4bbaef6b603ce158fcfbf19ee86598]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/1893/article/2) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/21/2)
+[^c-3e4bbaef6b603ce158fcfbf19ee86598]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/1893/article/2) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/21/2)
 
-[^key-6dac9de5ff2fc70037166c6e4d030784]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [54(b)(i)](https://www.legislation.gov.uk/uksi/2021/638/article/54/b/i)
+[^c-6dac9de5ff2fc70037166c6e4d030784]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [54(b)(i)](https://www.legislation.gov.uk/uksi/2021/638/article/54/b/i)
 
-[^key-734fb607a5419cd0c4d630420929986f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [54(b)(ii)](https://www.legislation.gov.uk/uksi/2021/638/article/54/b/ii)
+[^c-734fb607a5419cd0c4d630420929986f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [54(b)(ii)](https://www.legislation.gov.uk/uksi/2021/638/article/54/b/ii)
 
 [^f00003]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).
 
@@ -1243,67 +1243,67 @@ An impact assessment has not been produced for this Order as no impact on the pr
 
 [^f00005]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).
 
-[^key-35c9ae39fa0bbf35bba2b92ce8b10ee4]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) omitted (30.11.2015) by virtue of [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) (No. 2) Order 2015 (S.I. 2015/1752)](https://www.legislation.gov.uk/uksi/2015/1752), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1752/article/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2015/1752/article/3/b/i)
+[^c-35c9ae39fa0bbf35bba2b92ce8b10ee4]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) omitted (30.11.2015) by virtue of [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) (No. 2) Order 2015 (S.I. 2015/1752)](https://www.legislation.gov.uk/uksi/2015/1752), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1752/article/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2015/1752/article/3/b/i)
 
-[^key-afa8ce41c026409e3eedb3e68130fdbb]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) (No. 2) Order 2015 (S.I. 2015/1752)](https://www.legislation.gov.uk/uksi/2015/1752), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1752/article/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1752/article/3/b/ii)
+[^c-afa8ce41c026409e3eedb3e68130fdbb]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) (No. 2) Order 2015 (S.I. 2015/1752)](https://www.legislation.gov.uk/uksi/2015/1752), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1752/article/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1752/article/3/b/ii)
 
-[^key-ead0d117f0aabe6f904ddd6320f55db4]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1078/article/17/a/ii)
+[^c-ead0d117f0aabe6f904ddd6320f55db4]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1078/article/17/a/ii)
 
-[^key-3a5e8d016a2a0955fe177d6508006b61]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [54(c)](https://www.legislation.gov.uk/uksi/2021/638/article/54/c)
+[^c-3a5e8d016a2a0955fe177d6508006b61]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [54(c)](https://www.legislation.gov.uk/uksi/2021/638/article/54/c)
 
-[^key-c2d2e02f18b26ea5de71700edf19a458]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2018/1078/article/17/b)
+[^c-c2d2e02f18b26ea5de71700edf19a458]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/2/1) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2018/1078/article/17/b)
 
-[^key-ef165c811446411d24defde3fbf2b627]: Commencement: Art. 3 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-ef165c811446411d24defde3fbf2b627]: Commencement: Art. 3 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-1c7d301359eeed402f54f17e39aba328]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/3/1) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2018/1078/article/18/a)
+[^c-1c7d301359eeed402f54f17e39aba328]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/3/1) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2018/1078/article/18/a)
 
-[^key-e39f97e3db871fa33a93f7904596d340]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/3/1) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [55(a)](https://www.legislation.gov.uk/uksi/2021/638/article/55/a)
+[^c-e39f97e3db871fa33a93f7904596d340]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/3/1) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [55(a)](https://www.legislation.gov.uk/uksi/2021/638/article/55/a)
 
-[^key-2a0c25e61069f8b674387c8e6bb941e0]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/1893/article/3/2) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [55(b)](https://www.legislation.gov.uk/uksi/2021/638/article/55/b)
+[^c-2a0c25e61069f8b674387c8e6bb941e0]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/1893/article/3/2) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [55(b)](https://www.legislation.gov.uk/uksi/2021/638/article/55/b)
 
-[^key-76b607825267e9686b16d55445fd6659]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/uksi/2014/1893/article/3/4) omitted (12.11.2018) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2018/1078/article/18/b)
+[^c-76b607825267e9686b16d55445fd6659]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/uksi/2014/1893/article/3/4) omitted (12.11.2018) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2018/1078/article/18/b)
 
-[^key-779cc83481bc4bf20fb8956661172678]: Commencement: Art. 4 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-779cc83481bc4bf20fb8956661172678]: Commencement: Art. 4 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-b01632ac372726c0d67bb0f26437f85b]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/4/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) (No. 2) Order 2015 (S.I. 2015/1752)](https://www.legislation.gov.uk/uksi/2015/1752), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1752/article/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2015/1752/article/4/a)
+[^c-b01632ac372726c0d67bb0f26437f85b]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/4/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) (No. 2) Order 2015 (S.I. 2015/1752)](https://www.legislation.gov.uk/uksi/2015/1752), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1752/article/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2015/1752/article/4/a)
 
-[^key-1fa06223405ce8f925d297b5649ba840]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/4/1) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [19](https://www.legislation.gov.uk/uksi/2018/1078/article/19)
+[^c-1fa06223405ce8f925d297b5649ba840]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/4/1) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [19](https://www.legislation.gov.uk/uksi/2018/1078/article/19)
 
-[^key-40df4d33b37113e2df33e8a1406f007f]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2014/1893/article/4/2) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) (No. 2) Order 2015 (S.I. 2015/1752)](https://www.legislation.gov.uk/uksi/2015/1752), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1752/article/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2015/1752/article/4/b)
+[^c-40df4d33b37113e2df33e8a1406f007f]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2014/1893/article/4/2) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) (No. 2) Order 2015 (S.I. 2015/1752)](https://www.legislation.gov.uk/uksi/2015/1752), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1752/article/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2015/1752/article/4/b)
 
-[^key-cf30a539391bf28cc0c557d5481bf0e9]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2014/1893/article/4/2) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [19](https://www.legislation.gov.uk/uksi/2018/1078/article/19)
+[^c-cf30a539391bf28cc0c557d5481bf0e9]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2014/1893/article/4/2) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [19](https://www.legislation.gov.uk/uksi/2018/1078/article/19)
 
-[^key-aee4005d4e42d3a48b5504413a986f43]: Commencement: Art. 5 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-aee4005d4e42d3a48b5504413a986f43]: Commencement: Art. 5 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
 [^f00006]: Footnote: Section 333A was inserted by regulation 3 of, and paragraphs 1 and 4 of Schedule 2 to, [S.I. 2007/3398](https://www.legislation.gov.uk/uksi/2007/3398), and was amended by section 15(3) of, and paragraphs 108 and 132 in Part 2 of Schedule 8 to, the Crime and Courts Act 2013.
 
-[^key-c7503f4a48ae4579cc41375f60935dc5]: Commencement: Art. 6 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-c7503f4a48ae4579cc41375f60935dc5]: Commencement: Art. 6 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-420d1004d9438c95a0a4c8b1221fa715]: Commencement: Art. 7 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-420d1004d9438c95a0a4c8b1221fa715]: Commencement: Art. 7 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-b8c2714aa10dbc55486cdcdabfed959c]: Commencement: Art. 8 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-b8c2714aa10dbc55486cdcdabfed959c]: Commencement: Art. 8 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-d58e376052375952fe51d8a1e59d8e5f]: Commencement: Art. 9 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-d58e376052375952fe51d8a1e59d8e5f]: Commencement: Art. 9 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-610ddf0ad521b3bbd9f129a35941e598]: Commencement: Art. 10 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-610ddf0ad521b3bbd9f129a35941e598]: Commencement: Art. 10 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-4b69110ebd853f9913b017b77654b0c0]: Commencement: Art. 11 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-4b69110ebd853f9913b017b77654b0c0]: Commencement: Art. 11 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-f5e4e3ca3b838fc7c582e4553951a67c]: Commencement: Art. 12 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-f5e4e3ca3b838fc7c582e4553951a67c]: Commencement: Art. 12 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-9615d4fe7fac07d2695b440c3d256d5e]: Commencement: Art. 13 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-9615d4fe7fac07d2695b440c3d256d5e]: Commencement: Art. 13 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-22cd4ae1e841c3dfcb4512d6a7eb1045]: Commencement: Art. 14 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-22cd4ae1e841c3dfcb4512d6a7eb1045]: Commencement: Art. 14 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-f4de59dbc6663e395ba085c0e8b68d96]: Commencement: Art. 15 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-f4de59dbc6663e395ba085c0e8b68d96]: Commencement: Art. 15 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-cd901e10d6504d32917a519511fa3f68]: Commencement: Art. 16 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-cd901e10d6504d32917a519511fa3f68]: Commencement: Art. 16 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-66f36ae6b1acde934bc247c48176aeae]: Commencement: Art. 17 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-66f36ae6b1acde934bc247c48176aeae]: Commencement: Art. 17 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-b6105be7e8fe3409d5db6f6b261fef73]: Commencement: Art. 18 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-b6105be7e8fe3409d5db6f6b261fef73]: Commencement: Art. 18 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-e7949a217082eb0737e6f85cfc9856db]: Commencement: Art. 19 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-e7949a217082eb0737e6f85cfc9856db]: Commencement: Art. 19 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
 [^f00007]: Footnote: [S.I. 2005/3181](https://www.legislation.gov.uk/uksi/2005/3181); Parts 2 and 4 were amended by section 59 of, and paragraph 1 in Part 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), article 2 of [S.I. 2008/302](https://www.legislation.gov.uk/uksi/2008/302) and articles 2 and 8 of [S.I. 2011/1242](https://www.legislation.gov.uk/uksi/2011/1242).
 
@@ -1311,108 +1311,108 @@ An impact assessment has not been produced for this Order as no impact on the pr
 
 [^f00009]: Footnote: [S.I. 1979/1714 (N.I. 19)](https://www.legislation.gov.uk/nisi/1979/1714).
 
-[^key-d714b46c1c0aedef47c41edafec18288]: Commencement: Art. 20 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-d714b46c1c0aedef47c41edafec18288]: Commencement: Art. 20 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-bbe3b0d0c176303f967ba52f9c0e652c]: Commencement: Art. 21 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-bbe3b0d0c176303f967ba52f9c0e652c]: Commencement: Art. 21 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-857597224723c0b2bf1dfeaadd658c11]: Commencement: Art. 22 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-857597224723c0b2bf1dfeaadd658c11]: Commencement: Art. 22 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-a0348a50037505712dfcffa83c0c1320]: Commencement: Art. 23 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-a0348a50037505712dfcffa83c0c1320]: Commencement: Art. 23 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
 [^f00010]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
 [^f00011]: Footnote: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12).
 
-[^key-57cc933ccf947279239ab71467bcbdf4]: Commencement: Art. 24 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-57cc933ccf947279239ab71467bcbdf4]: Commencement: Art. 24 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-57c0d2fd01fab18cba7928c02da17bf1]: Commencement: Art. 25 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-57c0d2fd01fab18cba7928c02da17bf1]: Commencement: Art. 25 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-6ea0586a71910a24173c7a0e876d08d9]: Commencement: Art. 26 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-6ea0586a71910a24173c7a0e876d08d9]: Commencement: Art. 26 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-a6897f0079ceaa24e381d569d14f4b1d]: Commencement: Art. 27 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-a6897f0079ceaa24e381d569d14f4b1d]: Commencement: Art. 27 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-b38c105f14528d9dbfa3e1090ff68bf1]: Commencement: Art. 28 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-b38c105f14528d9dbfa3e1090ff68bf1]: Commencement: Art. 28 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-17fd2584b26edce6d986846255263e5e]: Commencement: Art. 29 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-17fd2584b26edce6d986846255263e5e]: Commencement: Art. 29 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-aae6ab54adf682a14568b0ee7e70c8ce]: Commencement: Art. 30 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-aae6ab54adf682a14568b0ee7e70c8ce]: Commencement: Art. 30 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-90a1ceff524912f41f927886e0fb2944]: Commencement: Art. 31 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-90a1ceff524912f41f927886e0fb2944]: Commencement: Art. 31 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-27b20a44e84604d768d598398bdfaebf]: Commencement: Art. 32 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-27b20a44e84604d768d598398bdfaebf]: Commencement: Art. 32 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-1bcbfc5bfe831fde149a36847a9336a9]: Commencement: Art. 33 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-1bcbfc5bfe831fde149a36847a9336a9]: Commencement: Art. 33 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-393cabe688baf6367f3bef4f3cbc6479]: Commencement: Art. 34 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
+[^c-393cabe688baf6367f3bef4f3cbc6479]: Commencement: Art. 34 in force at 13.8.2014, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/1/b)
 
-[^key-ecf6d1c4c860a9cab50b1e047c0ca177]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2014/1893/part/5A) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [20](https://www.legislation.gov.uk/uksi/2018/1078/article/20)
+[^c-ecf6d1c4c860a9cab50b1e047c0ca177]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2014/1893/part/5A) inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [20](https://www.legislation.gov.uk/uksi/2018/1078/article/20)
 
-[^key-22d72153720287646cba34115968577d]: Textual amendment: Words in [Pt. 5A](https://www.legislation.gov.uk/uksi/2014/1893/part/5A) heading omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [56(1)](https://www.legislation.gov.uk/uksi/2021/638/article/56/1)
+[^c-22d72153720287646cba34115968577d]: Textual amendment: Words in [Pt. 5A](https://www.legislation.gov.uk/uksi/2014/1893/part/5A) heading omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [56(1)](https://www.legislation.gov.uk/uksi/2021/638/article/56/1)
 
-[^key-658966d84f172768118e382bae4789a8]: Textual amendment: Words in [art. 34A](https://www.legislation.gov.uk/uksi/2014/1893/article/34A) heading omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [56(2)(a)](https://www.legislation.gov.uk/uksi/2021/638/article/56/2/a)
+[^c-658966d84f172768118e382bae4789a8]: Textual amendment: Words in [art. 34A](https://www.legislation.gov.uk/uksi/2014/1893/article/34A) heading omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [56(2)(a)](https://www.legislation.gov.uk/uksi/2021/638/article/56/2/a)
 
-[^key-175278859e1c8b1d6fc784964286ebbc]: Textual amendment: Words in [art. 34A(2)(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/2/b) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [56(2)(b)](https://www.legislation.gov.uk/uksi/2021/638/article/56/2/b)
+[^c-175278859e1c8b1d6fc784964286ebbc]: Textual amendment: Words in [art. 34A(2)(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/2/b) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [56(2)(b)](https://www.legislation.gov.uk/uksi/2021/638/article/56/2/b)
 
-[^key-2b8d9de71275205944126151990f5513]: Textual amendment: [Art. 34A(2A)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/2A) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/a)
+[^c-2b8d9de71275205944126151990f5513]: Textual amendment: [Art. 34A(2A)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/2A) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/a)
 
-[^key-8e68f89b1ec10110542e9e480b3eafb7]: Textual amendment: Words in [art. 34A(4)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/4) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/b)
+[^c-8e68f89b1ec10110542e9e480b3eafb7]: Textual amendment: Words in [art. 34A(4)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/4) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/b)
 
-[^key-c686266b00137c5a36a47502e796bb29]: Textual amendment: Words in [art. 34A(6)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/6) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/c/i)
+[^c-c686266b00137c5a36a47502e796bb29]: Textual amendment: Words in [art. 34A(6)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/6) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/c/i)
 
-[^key-a7c8845d79ef77242d670a6972398945]: Textual amendment: Words in [art. 34A(6)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/6) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/c/ii)
+[^c-a7c8845d79ef77242d670a6972398945]: Textual amendment: Words in [art. 34A(6)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/6) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/c/ii)
 
-[^key-002957440623365d39d516847f8559ba]: Textual amendment: Words in [art. 34A(7)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/7) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(d)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/d)
+[^c-002957440623365d39d516847f8559ba]: Textual amendment: Words in [art. 34A(7)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/7) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(d)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/d)
 
-[^key-fc4dde5e063d9286cd856fcdb21ed3c0]: Textual amendment: [Art. 34A(9)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/9) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(e)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/e)
+[^c-fc4dde5e063d9286cd856fcdb21ed3c0]: Textual amendment: [Art. 34A(9)](https://www.legislation.gov.uk/uksi/2014/1893/article/34A/9) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(1)(e)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/1/e)
 
-[^key-64640ba5a1634bc5f8a0baede3bb99b8]: Textual amendment: [Art. 34B(3)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/3) dash inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/2/a)
+[^c-64640ba5a1634bc5f8a0baede3bb99b8]: Textual amendment: [Art. 34B(3)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/3) dash inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/2/a)
 
-[^key-97a9ed347b7a0e3ebb9c095830cd41bb]: Textual amendment: Words in [art. 34B(3)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/3/a) renumbered as art. 34B(3)(a) (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/2/b)
+[^c-97a9ed347b7a0e3ebb9c095830cd41bb]: Textual amendment: Words in [art. 34B(3)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/3/a) renumbered as art. 34B(3)(a) (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/2/b)
 
-[^key-931c35c946fa8106ca100d239d64d93f]: Textual amendment: [Art. 34B(3)(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/3/b) and word inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(2)(c)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/2/c)
+[^c-931c35c946fa8106ca100d239d64d93f]: Textual amendment: [Art. 34B(3)(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/3/b) and word inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(2)(c)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/2/c)
 
-[^key-01031203e5c7d7a8dd6f49a717ccc95e]: Textual amendment: Words in [art. 34B(4)(b)(i)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/4/b/i) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [57(a)](https://www.legislation.gov.uk/uksi/2021/638/article/57/a)
+[^c-01031203e5c7d7a8dd6f49a717ccc95e]: Textual amendment: Words in [art. 34B(4)(b)(i)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/4/b/i) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [57(a)](https://www.legislation.gov.uk/uksi/2021/638/article/57/a)
 
-[^key-991750dbf4faa761eec26654790f118d]: Textual amendment: Words in [art. 34B(8)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/8/a) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [57(b)(i)](https://www.legislation.gov.uk/uksi/2021/638/article/57/b/i)
+[^c-991750dbf4faa761eec26654790f118d]: Textual amendment: Words in [art. 34B(8)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/8/a) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [57(b)(i)](https://www.legislation.gov.uk/uksi/2021/638/article/57/b/i)
 
-[^key-07bd986de0ce843e7bd1d52cbd80d436]: Textual amendment: Words in [art. 34B(8)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/8/a) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [57(b)(ii)](https://www.legislation.gov.uk/uksi/2021/638/article/57/b/ii)
+[^c-07bd986de0ce843e7bd1d52cbd80d436]: Textual amendment: Words in [art. 34B(8)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/8/a) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [57(b)(ii)](https://www.legislation.gov.uk/uksi/2021/638/article/57/b/ii)
 
-[^key-c9192318534d86e111c11d4aaa5bdf0d]: Textual amendment: Words in [art. 34B(8)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/8/a) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [57(b)(iii)](https://www.legislation.gov.uk/uksi/2021/638/article/57/b/iii)
+[^c-c9192318534d86e111c11d4aaa5bdf0d]: Textual amendment: Words in [art. 34B(8)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34B/8/a) omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [57(b)(iii)](https://www.legislation.gov.uk/uksi/2021/638/article/57/b/iii)
 
-[^key-ce9680b56e42b67cda4d82b503603101]: Textual amendment: Words in [art. 34C(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/34C/1) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/3/a)
+[^c-ce9680b56e42b67cda4d82b503603101]: Textual amendment: Words in [art. 34C(1)](https://www.legislation.gov.uk/uksi/2014/1893/article/34C/1) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/3/a)
 
-[^key-c6e57d1c29484a950e58c3b65c507e1e]: Textual amendment: Words in [art. 34C(2)](https://www.legislation.gov.uk/uksi/2014/1893/article/34C/2) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/3/b)
+[^c-c6e57d1c29484a950e58c3b65c507e1e]: Textual amendment: Words in [art. 34C(2)](https://www.legislation.gov.uk/uksi/2014/1893/article/34C/2) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/3/b)
 
-[^key-ad0c2d3cba08a9fea97545c72616ce3d]: Textual amendment: Words in [art. 34C(3)](https://www.legislation.gov.uk/uksi/2014/1893/article/34C/3) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/3/c)
+[^c-ad0c2d3cba08a9fea97545c72616ce3d]: Textual amendment: Words in [art. 34C(3)](https://www.legislation.gov.uk/uksi/2014/1893/article/34C/3) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/3/c)
 
-[^key-3bde26e34bb3775cfb378e2ed46d3bc0]: Textual amendment: Words in [art. 34D(1)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34D/1/a) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/4)
+[^c-3bde26e34bb3775cfb378e2ed46d3bc0]: Textual amendment: Words in [art. 34D(1)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34D/1/a) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/4)
 
-[^key-fa5e5d99c518ac0aca4afdaa2d61e3ef]: Textual amendment: Words in [art. 34E(2)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34E/2/a) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [58(a)(i)](https://www.legislation.gov.uk/uksi/2021/638/article/58/a/i)
+[^c-fa5e5d99c518ac0aca4afdaa2d61e3ef]: Textual amendment: Words in [art. 34E(2)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34E/2/a) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [58(a)(i)](https://www.legislation.gov.uk/uksi/2021/638/article/58/a/i)
 
-[^key-7be8c61401286825481be3da7f85a782]: Textual amendment: Words in [art. 34E(2)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34E/2/a) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [58(a)(ii)](https://www.legislation.gov.uk/uksi/2021/638/article/58/a/ii)
+[^c-7be8c61401286825481be3da7f85a782]: Textual amendment: Words in [art. 34E(2)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34E/2/a) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [58(a)(ii)](https://www.legislation.gov.uk/uksi/2021/638/article/58/a/ii)
 
-[^key-227e0a0e8103e476885c311e0dbd9e5b]: Textual amendment: Words in [art. 34E(2)(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/34E/2/b) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [58(a)(i)](https://www.legislation.gov.uk/uksi/2021/638/article/58/a/i)
+[^c-227e0a0e8103e476885c311e0dbd9e5b]: Textual amendment: Words in [art. 34E(2)(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/34E/2/b) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [58(a)(i)](https://www.legislation.gov.uk/uksi/2021/638/article/58/a/i)
 
-[^key-341800eba6c71d3bfb41f4dcbe13c041]: Textual amendment: Words in [art. 34E(2)(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/34E/2/b) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [58(a)(ii)](https://www.legislation.gov.uk/uksi/2021/638/article/58/a/ii)
+[^c-341800eba6c71d3bfb41f4dcbe13c041]: Textual amendment: Words in [art. 34E(2)(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/34E/2/b) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [58(a)(ii)](https://www.legislation.gov.uk/uksi/2021/638/article/58/a/ii)
 
-[^key-26cf75f52f162c68f2da1ab186410c63]: Textual amendment: Words in [art. 34E(2)(c)](https://www.legislation.gov.uk/uksi/2014/1893/article/34E/2/c) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [58(b)](https://www.legislation.gov.uk/uksi/2021/638/article/58/b)
+[^c-26cf75f52f162c68f2da1ab186410c63]: Textual amendment: Words in [art. 34E(2)(c)](https://www.legislation.gov.uk/uksi/2014/1893/article/34E/2/c) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [58(b)](https://www.legislation.gov.uk/uksi/2021/638/article/58/b)
 
-[^key-b88b4deb4d2495d6f8fb600cd372f6d3]: Textual amendment: Words in [art. 34F(3)](https://www.legislation.gov.uk/uksi/2014/1893/article/34F/3) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(5)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/5)
+[^c-b88b4deb4d2495d6f8fb600cd372f6d3]: Textual amendment: Words in [art. 34F(3)](https://www.legislation.gov.uk/uksi/2014/1893/article/34F/3) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(5)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/5)
 
-[^key-e872f2f41245df5f8b702f436020e7a0]: Textual amendment: [Art. 34GA](https://www.legislation.gov.uk/uksi/2014/1893/article/34GA) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [59](https://www.legislation.gov.uk/uksi/2021/638/article/59)
+[^c-e872f2f41245df5f8b702f436020e7a0]: Textual amendment: [Art. 34GA](https://www.legislation.gov.uk/uksi/2014/1893/article/34GA) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [59](https://www.legislation.gov.uk/uksi/2021/638/article/59)
 
-[^key-ebad309ff71bc183fc3be56cac34c0aa]: Textual amendment: Words in [art. 34GA(1)(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/34GA/1/b) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(6)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/6)
+[^c-ebad309ff71bc183fc3be56cac34c0aa]: Textual amendment: Words in [art. 34GA(1)(b)](https://www.legislation.gov.uk/uksi/2014/1893/article/34GA/1/b) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [21(6)](https://www.legislation.gov.uk/uksi/2024/1127/article/21/6)
 
-[^key-f9bcb4f14bb8b82ec68dc30432360f53]: Textual amendment: Words in [art. 34I(6)(d)](https://www.legislation.gov.uk/uksi/2014/1893/article/34I/6/d) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [60(a)](https://www.legislation.gov.uk/uksi/2021/638/article/60/a)
+[^c-f9bcb4f14bb8b82ec68dc30432360f53]: Textual amendment: Words in [art. 34I(6)(d)](https://www.legislation.gov.uk/uksi/2014/1893/article/34I/6/d) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [60(a)](https://www.legislation.gov.uk/uksi/2021/638/article/60/a)
 
-[^key-c79240d84e037997dcc19a0bd5c2aeb2]: Textual amendment: Words in [art. 34I(9)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34I/9/a) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [60(b)](https://www.legislation.gov.uk/uksi/2021/638/article/60/b)
+[^c-c79240d84e037997dcc19a0bd5c2aeb2]: Textual amendment: Words in [art. 34I(9)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34I/9/a) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [60(b)](https://www.legislation.gov.uk/uksi/2021/638/article/60/b)
 
-[^key-8a7506f4733cf19ae8095949563586db]: Textual amendment: [Art. 34J(6)(b)(i)](https://www.legislation.gov.uk/uksi/2014/1893/article/34J/6/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2014/1893/article/34J/6/b/ii) substituted for words (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [61](https://www.legislation.gov.uk/uksi/2021/638/article/61)
+[^c-8a7506f4733cf19ae8095949563586db]: Textual amendment: [Art. 34J(6)(b)(i)](https://www.legislation.gov.uk/uksi/2014/1893/article/34J/6/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2014/1893/article/34J/6/b/ii) substituted for words (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [61](https://www.legislation.gov.uk/uksi/2021/638/article/61)
 
-[^key-e37fd7069a7b3a528e2d3e1206436b6c]: Textual amendment: Words in [art. 34M(4)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34M/4/a) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [62](https://www.legislation.gov.uk/uksi/2021/638/article/62)
+[^c-e37fd7069a7b3a528e2d3e1206436b6c]: Textual amendment: Words in [art. 34M(4)(a)](https://www.legislation.gov.uk/uksi/2014/1893/article/34M/4/a) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [62](https://www.legislation.gov.uk/uksi/2021/638/article/62)
 
-[^key-45f831c6bc686298a88c562ddfaf94e4]: Textual amendment: Words in [art. 34M(5)](https://www.legislation.gov.uk/uksi/2014/1893/article/34M/5) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [62](https://www.legislation.gov.uk/uksi/2021/638/article/62)
+[^c-45f831c6bc686298a88c562ddfaf94e4]: Textual amendment: Words in [art. 34M(5)](https://www.legislation.gov.uk/uksi/2014/1893/article/34M/5) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [62](https://www.legislation.gov.uk/uksi/2021/638/article/62)
 
-[^key-56dcce9c41d2706daeed9ec38e896858]: Textual amendment: [Art. 34Q](https://www.legislation.gov.uk/uksi/2014/1893/article/34Q) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [22](https://www.legislation.gov.uk/uksi/2024/1127/article/22)
+[^c-56dcce9c41d2706daeed9ec38e896858]: Textual amendment: [Art. 34Q](https://www.legislation.gov.uk/uksi/2014/1893/article/34Q) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [22](https://www.legislation.gov.uk/uksi/2024/1127/article/22)
 
-[^key-9eb64270e8703f63ab7da431ee3d3c23]: Textual amendment: [Art. 35](https://www.legislation.gov.uk/uksi/2014/1893/article/35) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [63](https://www.legislation.gov.uk/uksi/2021/638/article/63)
+[^c-9eb64270e8703f63ab7da431ee3d3c23]: Textual amendment: [Art. 35](https://www.legislation.gov.uk/uksi/2014/1893/article/35) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [63](https://www.legislation.gov.uk/uksi/2021/638/article/63)

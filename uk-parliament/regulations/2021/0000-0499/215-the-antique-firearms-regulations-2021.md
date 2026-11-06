@@ -44,7 +44,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 58(2G) of that Act, a draft of these Regulations has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement, interpretation, extent and application[^key-b4d5b7b3b85c81725b994fedc7f18198]
+## 1. Citation, commencement, interpretation, extent and application[^c-b4d5b7b3b85c81725b994fedc7f18198]
 
 (1) These Regulations may be cited as the Antique Firearms Regulations 2021 and come into force on the twenty-first day after the day on which they are made.
 
@@ -52,11 +52,11 @@ In accordance with section 58(2G) of that Act, a draft of these Regulations has 
 
 (3) These Regulations extend to England and Wales and Scotland but regulation 3(d) applies only in England and Wales.
 
-## 2. Cartridges specified under section 58(2B)(b) of the Firearms Act 1968[^key-f71e95b670b6e17a4ab1f331882f5468]
+## 2. Cartridges specified under section 58(2B)(b) of the Firearms Act 1968[^c-f71e95b670b6e17a4ab1f331882f5468]
 
 The description of cartridges specified for the purposes of section 58(2B)(b) of the 1968 Act are set out in the Schedule to these Regulations.
 
-## 3. Firearms’ propulsion systems specified under section 58(2C) of the Firearms Act 1968[^key-efef6f1c590f7ea317647c666105cc7d]
+## 3. Firearms’ propulsion systems specified under section 58(2C) of the Firearms Act 1968[^c-efef6f1c590f7ea317647c666105cc7d]
 
 For the purposes of section 58(2C) of the 1968 Act, the following descriptions of firearms’ propulsion systems are specified—
 
@@ -65,7 +65,7 @@ For the purposes of section 58(2C) of the 1968 Act, the following descriptions o
 - (c) any propulsion system which involves the use of rim-fire cartridges (other than .22 (5.58mm), .23 (5.8mm), 6mm or 9mm rim-fire cartridges) in a breech-loading firearm, or
 - (d) any propulsion system for an air weapon.
 
-## 4. Date of manufacture of a firearm specified under section 58(2D)(b) of the Firearms Act 1968[^key-8754923559833a56b2d8b24093db42ef]
+## 4. Date of manufacture of a firearm specified under section 58(2D)(b) of the Firearms Act 1968[^c-8754923559833a56b2d8b24093db42ef]
 
 For the purposes of section 58(2D)(b) of the 1968 Act, the firearm must have been manufactured before 1st September 1939.
 
@@ -79,7 +79,7 @@ Home Office
 
 Regulation 2
 
-### 1. Centre-fire cartridges (imperial): breech-loading longarm firearms[^key-61b4336624862afb084e59f529a7519c]
+### 1. Centre-fire cartridges (imperial): breech-loading longarm firearms[^c-61b4336624862afb084e59f529a7519c]
 
 The following descriptions of centre-fire cartridges (imperial)—
 
@@ -100,7 +100,7 @@ The following descriptions of centre-fire cartridges (imperial)—
 - .300 (.295) Rook
 - .300 Sherwood
 - .300/.250 Rook
-- .30-30[^key-b3337dc8f8018430613b4d40f6fbfb6d] Wesson
+- .30-30[^c-b3337dc8f8018430613b4d40f6fbfb6d] Wesson
 - .30-40 Wesson
 - .310 Cadet
 - .310 Greener
@@ -121,7 +121,7 @@ The following descriptions of centre-fire cartridges (imperial)—
 - .360 Long Rifle (Rook)
 - .360 Westley Richards, No.3 Express
 - .360/.300 Fraser
-- .360 - 2 <sup>7/16 </sup>inch Black Powder Express[^key-68b75c6e767a246b206d8b820fd7ee1e]
+- .360 - 2 <sup>7/16 </sup>inch Black Powder Express[^c-68b75c6e767a246b206d8b820fd7ee1e]
 - .360 - 2 <sup>¾ </sup>inch Boxer
 - .369 Purdey
 - .38-35 Stevens Everlasting
@@ -158,7 +158,7 @@ The following descriptions of centre-fire cartridges (imperial)—
 - .40-90 Sharps Necked
 - .40-90 What Cheer
 - .40-110 Winchester Express
-- .40 (.50-70 base) Calibre[^key-0f892f73f804d0c7ed61611bad9e4b4b] Reduction, Experimental
+- .40 (.50-70 base) Calibre[^c-0f892f73f804d0c7ed61611bad9e4b4b] Reduction, Experimental
 - .400 – 2 <sup>1/2</sup> inch, Kynoch
 - .400 – 2 <sup>3/4</sup> inch, Westley Richards
 - .400 Purdey (.400 – 3 inch, Straight)
@@ -184,7 +184,7 @@ The following descriptions of centre-fire cartridges (imperial)—
 - .442 - 1.025 inch Carbine
 - .45 Boxer-Henry, Long Chamber 1869
 - .45 Brown Standard Military Target Rifle
-- .45 Gardner, Gatling & Nordenfelt[^key-d229e6fe6370a00b00d661bbcf1af0ce]
+- .45 Gardner, Gatling & Nordenfelt[^c-d229e6fe6370a00b00d661bbcf1af0ce]
 - .45 New South Wales Police Carbine
 - .45 Turkish Peabody (also known as 11.43 x 55 mm R Turkish)
 - .45 US Experimental 1869
@@ -194,7 +194,7 @@ The following descriptions of centre-fire cartridges (imperial)—
 - .45-125 Winchester
 - .45-200-500 Winchester, Experimental
 - .45 (.50-70 base) Calibre Reduction, Experimental
-- .450 [^key-e9cb51dcefc258d696d5b02774a1f8e1]... Black Powder Express, Case Length: 1 <sup>1/2</sup> inch
+- .450 [^c-e9cb51dcefc258d696d5b02774a1f8e1]... Black Powder Express, Case Length: 1 <sup>1/2</sup> inch
 - .450 Black Powder Express, Case Length: 2 <sup>1/2</sup> inch
 - .450 Black Powder Express, Case Length: 2 <sup>6/10</sup> inch
 - .450 Black Powder Express, Case Length: 2 <sup>9/16</sup> inch
@@ -237,7 +237,7 @@ The following descriptions of centre-fire cartridges (imperial)—
 - .50-90 2.5 inch
 - .50-95 Winchester (Winchester Express)
 - .50-100-450 Winchester (Winchester Express)
-- .50-110[^key-0a5153b02861e492636366092f7f6f08] Winchester (Winchester Express)
+- .50-110[^c-0a5153b02861e492636366092f7f6f08] Winchester (Winchester Express)
 - .50-110 2.4 inch
 - .50-115 Bullard
 - .50-140 Sharps
@@ -282,10 +282,10 @@ The following descriptions of centre-fire cartridges (imperial)—
 - .75 Jingal Rifle, Chinese
 - .75 Gatling
 - .80 Gatling
-- 1 inch Nordenfelt-Palmcranz[^key-e51aac1ef0ad20e067c5945caa4647f1]
+- 1 inch Nordenfelt-Palmcranz[^c-e51aac1ef0ad20e067c5945caa4647f1]
 - 20 bore/.577 Alexander Henry.
 
-### 2. Centre-fire cartridges (metric): breech-loading longarm firearms[^key-b9836509c59d2970623167de5db29c13]
+### 2. Centre-fire cartridges (metric): breech-loading longarm firearms[^c-b9836509c59d2970623167de5db29c13]
 
 The following descriptions of centre-fire cartridges (metric)—
 
@@ -296,7 +296,7 @@ The following descriptions of centre-fire cartridges (metric)—
 - 6 mm Lee Navy (6 x 60 mm)
 - 6 x 29.5 mm Stahl
 - 6 x 58 mm Forster (rimmed and rimless)
-- 6 x 58 mm Gewehrprufungskommission[^key-16ceab01fb571efe82f85c21d1ef5639] M.1897
+- 6 x 58 mm Gewehrprufungskommission[^c-16ceab01fb571efe82f85c21d1ef5639] M.1897
 - 6.5 mm Mondragon (6.5 x 53mm)
 - 6.5 x 27 mm R
 - 6.5 x 40 mm R
@@ -373,7 +373,7 @@ The following descriptions of centre-fire cartridges (metric)—
 - 11 x 59 mm R Gras
 - 11 x 70 mm R Mitrailleuse
 - 11.15 x 36 mm R Werndl Carbine, Austrian
-- 11.15 x 36 mm[^key-940151db7de84aca3e130e3c3d9fadf2] R Fruhwirth
+- 11.15 x 36 mm[^c-940151db7de84aca3e130e3c3d9fadf2] R Fruhwirth
 - 11.15 x 37 mm R Grensaufsehr
 - 11.15 x 42 mm R Werndl, Austrian
 - 11.15 x 50 mm R (for Target or Schutzen rifles)
@@ -410,7 +410,7 @@ The following descriptions of centre-fire cartridges (metric)—
 - 13 mm Rochaz-Lindner
 - 13 x 87 mm R Mitrailleuse
 - 13 x 92 mm Mauser, Tankgewehr
-- 13.2 x 32 mm[^key-8a7eade488165d25913700957792ae19] R
+- 13.2 x 32 mm[^c-8a7eade488165d25913700957792ae19] R
 - 14.5 x 33 mm R Wanzl, Austrian
 - 14.5 x 41 mm R Berdan, Spanish
 - 14.66 x 35 mm R Peabody, Serbian
@@ -424,7 +424,7 @@ The following descriptions of centre-fire cartridges (metric)—
 - 18.84 x 38 mm R Tabatiere
 - 18.84 x 57 mm R Wanzl-Albini, Wall Gun.
 
-### 3. Centre-fire cartridges (imperial): breech-loading pistols[^key-b24bbe4a8f1ace5689f490d23462d52c]
+### 3. Centre-fire cartridges (imperial): breech-loading pistols[^c-b24bbe4a8f1ace5689f490d23462d52c]
 
 The following descriptions of centre-fire cartridges (imperial)—
 
@@ -458,7 +458,7 @@ The following descriptions of centre-fire cartridges (imperial)—
 - .500 Revolver
 - .577 Pistol.
 
-### 4. Centre-fire cartridges (metric): breech-loading pistols[^key-565fa2473655b332c078b2f428768086]
+### 4. Centre-fire cartridges (metric): breech-loading pistols[^c-565fa2473655b332c078b2f428768086]
 
 The following descriptions of centre-fire cartridges (metric)—
 
@@ -473,7 +473,7 @@ The following descriptions of centre-fire cartridges (metric)—
 - 5 mm French
 - 5 mm Pickert
 - 5.2 mm Pickert Revolver
-- 5.43 x 26.8 mm R[^key-1ad405fd6049bbb2b07284ece73f6134] Revolver
+- 5.43 x 26.8 mm R[^c-1ad405fd6049bbb2b07284ece73f6134] Revolver
 - 5.5 mm Velo-Dog Revolver
 - 6 mm Beaumont Revolver
 - 6 mm Merveilleux
@@ -489,10 +489,10 @@ The following descriptions of centre-fire cartridges (metric)—
 - 7 mm Charola y Anitua
 - 7 mm Devisme
 - 7 mm Thick Rim, French
-- 7 x 20 mm Target Pistol, German [^key-6ad07188bd10d62280e7f84cba3916bc]...
-- 7 x 22 mm Target Pistol, German [^key-9545cbb2bee57e48f66ed91ecb57a44e]...
-- 7 x 25 mm Target Pistol, German [^key-a7006dd989277bc1230597ef521e2f9a]...
-- 7 x 30 mm Target Pistol, German [^key-14904d54bfcaa4e26f924c09c4891bbc]...
+- 7 x 20 mm Target Pistol, German [^c-6ad07188bd10d62280e7f84cba3916bc]...
+- 7 x 22 mm Target Pistol, German [^c-9545cbb2bee57e48f66ed91ecb57a44e]...
+- 7 x 25 mm Target Pistol, German [^c-a7006dd989277bc1230597ef521e2f9a]...
+- 7 x 30 mm Target Pistol, German [^c-14904d54bfcaa4e26f924c09c4891bbc]...
 - 7 mm Galand
 - 7 mm Revolver
 - 7.25 mm Adler
@@ -535,9 +535,9 @@ The following descriptions of centre-fire cartridges (metric)—
 - 12 mm Perrin, Thick Rim
 - 12 mm Raphael
 - 15 mm Revolver
-- 16.5 x 18 mm R[^key-6d85cd490717a1169f804516cabc5ad6] Beringer.
+- 16.5 x 18 mm R[^c-6d85cd490717a1169f804516cabc5ad6] Beringer.
 
-### 5. Cartridges for vintage rifles, punt guns or shot guns[^key-b466e2bf57b29f1055929f3cb7840745]
+### 5. Cartridges for vintage rifles, punt guns or shot guns[^c-b466e2bf57b29f1055929f3cb7840745]
 
 The following descriptions of cartridges—
 
@@ -550,7 +550,7 @@ The following descriptions of cartridges—
 - 14 bore
 - 10 bore (2 <sup>7/8 </sup>inch case length)
 - 10 bore (2 <sup>5/8</sup> inch case length)
-- bores greater than 10.[^key-200f7b3a0a87a2cdc1b7d6a8903cfeb9]
+- bores greater than 10.[^c-200f7b3a0a87a2cdc1b7d6a8903cfeb9]
 
 EXPLANATORY NOTE
 
@@ -572,54 +572,54 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00001]: Footnote: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27). Sections 58(2B), (2C), (2D) and (2F) were inserted by section 126 of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-b4d5b7b3b85c81725b994fedc7f18198]: Commencement: Reg. 1 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
+[^c-b4d5b7b3b85c81725b994fedc7f18198]: Commencement: Reg. 1 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
 
-[^key-f71e95b670b6e17a4ab1f331882f5468]: Commencement: Reg. 2 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
+[^c-f71e95b670b6e17a4ab1f331882f5468]: Commencement: Reg. 2 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
 
-[^key-efef6f1c590f7ea317647c666105cc7d]: Commencement: Reg. 3 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
+[^c-efef6f1c590f7ea317647c666105cc7d]: Commencement: Reg. 3 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
 
-[^key-8754923559833a56b2d8b24093db42ef]: Commencement: Reg. 4 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
+[^c-8754923559833a56b2d8b24093db42ef]: Commencement: Reg. 4 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
 
-[^key-61b4336624862afb084e59f529a7519c]: Commencement: Sch. para. 1 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
+[^c-61b4336624862afb084e59f529a7519c]: Commencement: Sch. para. 1 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
 
-[^key-b3337dc8f8018430613b4d40f6fbfb6d]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/b)
+[^c-b3337dc8f8018430613b4d40f6fbfb6d]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/b)
 
-[^key-68b75c6e767a246b206d8b820fd7ee1e]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) inserted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/c)
+[^c-68b75c6e767a246b206d8b820fd7ee1e]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) inserted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/c)
 
-[^key-0f892f73f804d0c7ed61611bad9e4b4b]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/a)
+[^c-0f892f73f804d0c7ed61611bad9e4b4b]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/a)
 
-[^key-d229e6fe6370a00b00d661bbcf1af0ce]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/d)
+[^c-d229e6fe6370a00b00d661bbcf1af0ce]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/d)
 
-[^key-e9cb51dcefc258d696d5b02774a1f8e1]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) omitted (28.12.2021) by virtue of [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/e)
+[^c-e9cb51dcefc258d696d5b02774a1f8e1]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) omitted (28.12.2021) by virtue of [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/e)
 
-[^key-0a5153b02861e492636366092f7f6f08]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/f)
+[^c-0a5153b02861e492636366092f7f6f08]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/f)
 
-[^key-e51aac1ef0ad20e067c5945caa4647f1]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(g)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/g)
+[^c-e51aac1ef0ad20e067c5945caa4647f1]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/1) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(2)(g)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/2/g)
 
-[^key-b9836509c59d2970623167de5db29c13]: Commencement: Sch. para. 2 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
+[^c-b9836509c59d2970623167de5db29c13]: Commencement: Sch. para. 2 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
 
-[^key-16ceab01fb571efe82f85c21d1ef5639]: Textual amendment: Word in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/2) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/3/a)
+[^c-16ceab01fb571efe82f85c21d1ef5639]: Textual amendment: Word in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/2) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/3/a)
 
-[^key-940151db7de84aca3e130e3c3d9fadf2]: Textual amendment: Word in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/2) inserted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/3/b)
+[^c-940151db7de84aca3e130e3c3d9fadf2]: Textual amendment: Word in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/2) inserted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/3/b)
 
-[^key-8a7eade488165d25913700957792ae19]: Textual amendment: Word in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/2) inserted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/3/c)
+[^c-8a7eade488165d25913700957792ae19]: Textual amendment: Word in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/2) inserted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/3/c)
 
-[^key-b24bbe4a8f1ace5689f490d23462d52c]: Commencement: Sch. para. 3 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
+[^c-b24bbe4a8f1ace5689f490d23462d52c]: Commencement: Sch. para. 3 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
 
-[^key-565fa2473655b332c078b2f428768086]: Commencement: Sch. para. 4 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
+[^c-565fa2473655b332c078b2f428768086]: Commencement: Sch. para. 4 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
 
-[^key-1ad405fd6049bbb2b07284ece73f6134]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) inserted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/a)
+[^c-1ad405fd6049bbb2b07284ece73f6134]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) inserted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/a)
 
-[^key-6ad07188bd10d62280e7f84cba3916bc]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) omitted (28.12.2021) by virtue of [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/b)
+[^c-6ad07188bd10d62280e7f84cba3916bc]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) omitted (28.12.2021) by virtue of [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/b)
 
-[^key-9545cbb2bee57e48f66ed91ecb57a44e]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) omitted (28.12.2021) by virtue of [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/c)
+[^c-9545cbb2bee57e48f66ed91ecb57a44e]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) omitted (28.12.2021) by virtue of [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/c)
 
-[^key-a7006dd989277bc1230597ef521e2f9a]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) omitted (28.12.2021) by virtue of [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/d)
+[^c-a7006dd989277bc1230597ef521e2f9a]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) omitted (28.12.2021) by virtue of [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/d)
 
-[^key-14904d54bfcaa4e26f924c09c4891bbc]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) omitted (28.12.2021) by virtue of [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/e)
+[^c-14904d54bfcaa4e26f924c09c4891bbc]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) omitted (28.12.2021) by virtue of [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/e)
 
-[^key-6d85cd490717a1169f804516cabc5ad6]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/f)
+[^c-6d85cd490717a1169f804516cabc5ad6]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/4) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/4/f)
 
-[^key-b466e2bf57b29f1055929f3cb7840745]: Commencement: Sch. para. 5 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
+[^c-b466e2bf57b29f1055929f3cb7840745]: Commencement: Sch. para. 5 in force at 22.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/215/regulation/1/1)
 
-[^key-200f7b3a0a87a2cdc1b7d6a8903cfeb9]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/5) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/5)
+[^c-200f7b3a0a87a2cdc1b7d6a8903cfeb9]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2021/215/schedule/paragraph/5) substituted (28.12.2021) by [The Antique Firearms (Amendment) Regulations 2021 (S.I. 2021/1381)](https://www.legislation.gov.uk/uksi/2021/1381), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1381/regulation/2/5)

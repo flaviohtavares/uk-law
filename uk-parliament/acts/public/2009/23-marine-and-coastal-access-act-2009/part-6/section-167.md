@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Power to enter into agreements with eligible bodies[^key-2bdc979719e74456d5ae2d0431ea8a39]
+## 167. Power to enter into agreements with eligible bodies[^c-2bdc979719e74456d5ae2d0431ea8a39]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bdc979719e74456d5ae2d0431ea8a39]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2009/23/section/167) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/e)
+[^c-2bdc979719e74456d5ae2d0431ea8a39]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2009/23/section/167) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/e)

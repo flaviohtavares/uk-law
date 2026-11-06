@@ -41,7 +41,7 @@ The Chancellor of the Duchy of Lancaster makes the following Regulations in exer
 
 The Chancellor of the Duchy of Lancaster has consulted the Electoral Commission as required by section 7(2)(k) of the Political Parties, Elections and Referendums Act 2000[^f00005].
 
-A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with section 21(6) of the Act.[^key-48ba681a4b6ba9f64420893271832352]
+A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with section 21(6) of the Act.[^c-48ba681a4b6ba9f64420893271832352]
 
 ## Contents
 
@@ -367,4 +367,4 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00005]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41); this provision was added by paragraphs 2 and 3(6) of Schedule 6 to the Act.
 
-[^key-48ba681a4b6ba9f64420893271832352]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/295) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/11/paragraph/7/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/l)
+[^c-48ba681a4b6ba9f64420893271832352]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/295) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/11/paragraph/7/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/l)

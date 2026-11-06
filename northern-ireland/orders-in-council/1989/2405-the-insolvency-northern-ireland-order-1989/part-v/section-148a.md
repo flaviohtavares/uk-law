@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 148A. Moratorium debts etc: priority[^key-5403f8d6529d3e53739b0adf0984be03][^key-9d912f00f6e9092303aa96a67fcfd69d][^key-e8bc5a7ff524a79f0bac7cf527c05bd2]
+## 148A. Moratorium debts etc: priority[^c-5403f8d6529d3e53739b0adf0984be03][^c-9d912f00f6e9092303aa96a67fcfd69d][^c-e8bc5a7ff524a79f0bac7cf527c05bd2]
 
 *Extent: N.I.*
 
@@ -82,8 +82,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5403f8d6529d3e53739b0adf0984be03]: Modification: [Art. 148A](https://www.legislation.gov.uk/nisi/1989/2405/article/148A) applied (18.7.2020) by S.I. 1999/2979, reg. 14(5) (as amended by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/744/article/14/2/c))
+[^c-5403f8d6529d3e53739b0adf0984be03]: Modification: [Art. 148A](https://www.legislation.gov.uk/nisi/1989/2405/article/148A) applied (18.7.2020) by S.I. 1999/2979, reg. 14(5) (as amended by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/744/article/14/2/c))
 
-[^key-9d912f00f6e9092303aa96a67fcfd69d]: Modification: [Art. 148A](https://www.legislation.gov.uk/nisi/1989/2405/article/148A) excluded (18.7.2020) by S.I. 2003/3226, reg. 11(2A) (as amended by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [15(3)](https://www.legislation.gov.uk/uksi/2020/744/article/15/3))
+[^c-9d912f00f6e9092303aa96a67fcfd69d]: Modification: [Art. 148A](https://www.legislation.gov.uk/nisi/1989/2405/article/148A) excluded (18.7.2020) by S.I. 2003/3226, reg. 11(2A) (as amended by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [15(3)](https://www.legislation.gov.uk/uksi/2020/744/article/15/3))
 
-[^key-e8bc5a7ff524a79f0bac7cf527c05bd2]: Textual amendment: [Art. 148A](https://www.legislation.gov.uk/nisi/1989/2405/article/148A) and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/17) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-e8bc5a7ff524a79f0bac7cf527c05bd2]: Textual amendment: [Art. 148A](https://www.legislation.gov.uk/nisi/1989/2405/article/148A) and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/17) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

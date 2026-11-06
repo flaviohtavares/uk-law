@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Limitation of licences[^c2008200][^key-d0c6271373a7698d0b378dfac4ca48c5]
+## 218. Limitation of licences[^c2008200][^c-d0c6271373a7698d0b378dfac4ca48c5]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 [^c2008200]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2009/23/section/218) partly in force; [s. 218](https://www.legislation.gov.uk/ukpga/2009/23/section/218) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-d0c6271373a7698d0b378dfac4ca48c5]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2009/23/section/218) in force at 1.1.2011 in so far as not already in force by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/13)
+[^c-d0c6271373a7698d0b378dfac4ca48c5]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2009/23/section/218) in force at 1.1.2011 in so far as not already in force by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/13)

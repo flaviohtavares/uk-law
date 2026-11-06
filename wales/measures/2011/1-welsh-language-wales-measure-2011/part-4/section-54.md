@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Challenging future duties[^key-dc2c7fd4bf6c34a7f184e14537d5541a]
+## 54. Challenging future duties[^c-dc2c7fd4bf6c34a7f184e14537d5541a]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ as from an imposition day that is in the future.
 
 ## Annotations
 
-[^key-dc2c7fd4bf6c34a7f184e14537d5541a]: Commencement: [S. 54](https://www.legislation.gov.uk/mwa/2011/1/section/54) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-dc2c7fd4bf6c34a7f184e14537d5541a]: Commencement: [S. 54](https://www.legislation.gov.uk/mwa/2011/1/section/54) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

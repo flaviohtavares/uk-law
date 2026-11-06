@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Definitions[^M_I_fd75c99a-813a-48e0-8ed3-bb146ed9ffb9][^key-1e63eda71dea3c1c735bb77387939ac2]
+## 98. Definitions[^M_I_fd75c99a-813a-48e0-8ed3-bb146ed9ffb9][^c-1e63eda71dea3c1c735bb77387939ac2]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ and a reference to buying controlled alcoholic products wholesale is to be read 
 
 [^M_I_fd75c99a-813a-48e0-8ed3-bb146ed9ffb9]: Commencement: S. 98 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-1e63eda71dea3c1c735bb77387939ac2]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2023/30/section/98) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-1e63eda71dea3c1c735bb77387939ac2]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2023/30/section/98) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Breach of duty to give information as to identity of driver etc.[^key-161067b0088077fd8b3df5bc970d52ea]
+## 29. Breach of duty to give information as to identity of driver etc.[^c-161067b0088077fd8b3df5bc970d52ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Part 1 of Schedule 2 to the Road Traffic Offenders Act 1988 (c. 53) (prosecut
 
 ## Annotations
 
-[^key-161067b0088077fd8b3df5bc970d52ea]: Commencement: S. 29 in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/g)
+[^c-161067b0088077fd8b3df5bc970d52ea]: Commencement: S. 29 in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/g)

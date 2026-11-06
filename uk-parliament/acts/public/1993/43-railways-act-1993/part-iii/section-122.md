@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Statutory authority as a defence to actions in nuisance etc.[^key-0f1e89704adb58f3fe1d1137ca08075a]
+## 122. Statutory authority as a defence to actions in nuisance etc.[^c-0f1e89704adb58f3fe1d1137ca08075a]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ and expressions used in this section and in Part I above have the same meaning i
 
 ## Annotations
 
-[^key-0f1e89704adb58f3fe1d1137ca08075a]: Modification: S. 122 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 34](https://www.legislation.gov.uk/ukpga/2008/18/section/34)
+[^c-0f1e89704adb58f3fe1d1137ca08075a]: Modification: S. 122 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 34](https://www.legislation.gov.uk/ukpga/2008/18/section/34)

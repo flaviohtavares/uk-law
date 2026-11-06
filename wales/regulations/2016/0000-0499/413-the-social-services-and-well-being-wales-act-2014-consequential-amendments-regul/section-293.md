@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**293.**[^key-493fd69280922e6249f23a82ba5f80df] In section 62 of the Care Act 2014 (power to meet child’s carer’s needs for support) in subsection (3) for “under section 17 of the Children Act 1989.” substitute—
+**293.**[^c-493fd69280922e6249f23a82ba5f80df] In section 62 of the Care Act 2014 (power to meet child’s carer’s needs for support) in subsection (3) for “under section 17 of the Children Act 1989.” substitute—
 
 > under—
 >
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-493fd69280922e6249f23a82ba5f80df]: Commencement: Reg. 293 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-493fd69280922e6249f23a82ba5f80df]: Commencement: Reg. 293 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

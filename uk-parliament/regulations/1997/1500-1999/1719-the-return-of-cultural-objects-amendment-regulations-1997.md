@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the return of cultural objects unlawfully removed from the territory of a member State, in exercise of the powers conferred on him by section 2(2) of that Act and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and extent[^key-ac5b9a884db1743f412f9e9b7334e925]
+## 1. Citation, commencement and extent[^c-ac5b9a884db1743f412f9e9b7334e925]
 
 (1) These Regulations may be cited as the Return of Cultural Objects (Amendment) Regulations 1997 and shall come into force on 1st September 1997.
 
 (2) These Regulations extend to Northern Ireland.
 
-## 2. Amendment[^key-b00f768b03df6c6788fe7deabd98ac7a]
+## 2. Amendment[^c-b00f768b03df6c6788fe7deabd98ac7a]
 
 (1) The Return of Cultural Objects Regulations 1994[^f00003] shall be amended in accordance with the provisions of this regulation.
 
@@ -86,9 +86,9 @@ Regulation 2(3) introduces an additional category of objects which may constitut
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-ac5b9a884db1743f412f9e9b7334e925]: Commencement: Reg. 1 in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1719/regulation/1/1)
+[^c-ac5b9a884db1743f412f9e9b7334e925]: Commencement: Reg. 1 in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1719/regulation/1/1)
 
-[^key-b00f768b03df6c6788fe7deabd98ac7a]: Commencement: Reg. 2 in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1719/regulation/1/1)
+[^c-b00f768b03df6c6788fe7deabd98ac7a]: Commencement: Reg. 2 in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1719/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1994/501](https://www.legislation.gov.uk/uksi/1994/501).
 

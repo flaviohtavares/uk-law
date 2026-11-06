@@ -22,9 +22,9 @@ summary: ''
 
 (introduced by section 50)
 
-**1.**[^key-e1d440dc886b500c93cb3c45993284bf] The 1981 Act is amended as follows.
+**1.**[^c-e1d440dc886b500c93cb3c45993284bf] The 1981 Act is amended as follows.
 
-### 2. Protection of birds: offences[^key-780f99b00cec29ba85f9c30d0b3a76c8]
+### 2. Protection of birds: offences[^c-780f99b00cec29ba85f9c30d0b3a76c8]
 
 (1) Section 1 (protection of wild birds etc.) is amended as follows.
 
@@ -71,7 +71,7 @@ summary: ''
 > - (a) Council Regulation 338/97/EC on the protection of species of wild fauna and flora by regulating trade, and
 > - (b) Commission Regulation 1808/2001/EC on the implementation of that Council Regulation,
 >
-> as amended from time to time (or any EU[^key-287fcda0af408ccafef438e2c1e9ca56] instrument replacing either of them).
+> as amended from time to time (or any EU[^c-287fcda0af408ccafef438e2c1e9ca56] instrument replacing either of them).
 
 (5) In subsection (5), after “intentionally” insert “ or recklessly ”.
 
@@ -83,17 +83,17 @@ summary: ''
 >
 > (5C) Subject to the provisions of this Part, any person who knowingly causes or permits to be done an act which is made unlawful by any of the foregoing provisions of this section shall be guilty of an offence.
 
-**3.**[^key-5dd96e4399f9529313f14f008221aebd] In section 2 (exceptions to offences against wild birds etc.)—
+**3.**[^c-5dd96e4399f9529313f14f008221aebd] In section 2 (exceptions to offences against wild birds etc.)—
 
 - (a) subsection (2) is repealed,
 - (b) in subsection (3), for “Subsections (1) and (2)” substitute “ Subsection (1) ”.
 
-**4.**[^key-d68a4b5506261dc2c7932d7780646f86] In section 3 (areas in which wild birds are given special protection)—
+**4.**[^c-d68a4b5506261dc2c7932d7780646f86] In section 3 (areas in which wild birds are given special protection)—
 
 - (a) in subsection (1)(a), after “intentionally” insert “ or recklessly ”,
 - (b) subsection (2) is repealed.
 
-**5.**[^key-96e282ff2cf3fb3f631e34f2aa53db70] (1) Section 4 (exceptions to offences against wild birds etc.) is amended as follows.
+**5.**[^c-96e282ff2cf3fb3f631e34f2aa53db70] (1) Section 4 (exceptions to offences against wild birds etc.) is amended as follows.
 
 (2) In subsection (2), in paragraph (c), for the words from “if” to the end substitute “ (an unlawful act if he shows that each of the conditions specified in subsection (2A) was satisfied in relation to the carrying out of the unlawful act. ”
 
@@ -116,12 +116,12 @@ summary: ''
 
 (6) In subsection (6), for “(3)(c)” substitute “ (3) ”.
 
-**6.**[^key-93d09027e6f89fbb8e1ddc6c15edaacf] In section 5 (prohibition of certain methods of killing or taking wild birds)—
+**6.**[^c-93d09027e6f89fbb8e1ddc6c15edaacf] In section 5 (prohibition of certain methods of killing or taking wild birds)—
 
 - (a) in subsection (1)(a), for “calculated” substitute “ likely ”,
 - (b) paragraphs (a) and (b) of subsection (5) are repealed.
 
-**7.**[^key-4d7ec5d3c022e8fa90b76184732a7cb1] In section 7(3) (prohibition on possessing certain birds)—
+**7.**[^c-4d7ec5d3c022e8fa90b76184732a7cb1] In section 7(3) (prohibition on possessing certain birds)—
 
 - (a) the word “or” at the end of paragraph (a) is repealed,
 - (b) after paragraph (b) insert
@@ -132,7 +132,7 @@ summary: ''
 
   .
 
-### 8. Protection of animals: offences[^key-dcaf9f343e2b9b06472e52f104a5955f]
+### 8. Protection of animals: offences[^c-dcaf9f343e2b9b06472e52f104a5955f]
 
 (1) Section 9 (protection of certain wild animals) is amended as follows.
 
@@ -184,7 +184,7 @@ summary: ''
 
 (8) In subsection (6), after “(5)(a)” insert “ or for an offence under subsection (5A) relating to an act which is mentioned in subsection (1), (2) or (5)(a) ”.
 
-**9.**[^key-b2ac3647b25001c66c8b0521553ef6a2] In section 10 (exceptions to offences against wild animals)—
+**9.**[^c-b2ac3647b25001c66c8b0521553ef6a2] In section 10 (exceptions to offences against wild animals)—
 
 - (a) in subsection (3), in paragraph (c), for the words from “if” to the end substitute
 
@@ -209,7 +209,7 @@ summary: ''
 
   > (6A) An authorised person shall not be entitled to rely on the defence provided by subsection (4) as respects any action taken at any time unless he notified the Scottish Ministers as soon as reasonably practicable after that time that he had taken the action.
 
-**10.**[^key-b4948d9543d5409327e8b41d52b54180] (1) Section 11 (prohibition of certain methods of killing or taking wild animals) is amended as follows.
+**10.**[^c-b4948d9543d5409327e8b41d52b54180] (1) Section 11 (prohibition of certain methods of killing or taking wild animals) is amended as follows.
 
 (2) In subsection (1)(a)—
 
@@ -264,7 +264,7 @@ summary: ''
 
 (8) In subsection (5), for “(1)(b) or (c)” substitute “ (1)(c) ”.
 
-**11.**[^key-5ae06fdf33e0610f3b6e1fab92c7192e] (1) Section 13 (protection of wild plants) is amended as follows.
+**11.**[^c-5ae06fdf33e0610f3b6e1fab92c7192e] (1) Section 13 (protection of wild plants) is amended as follows.
 
 (2) In subsection (1)(a)—
 
@@ -300,7 +300,7 @@ summary: ''
 
 (6) In subsection (4), after “(2)(a)” insert “ or for an offence under subsection (3A) relating to an act which is mentioned in subsection (2)(a) ”.
 
-### 12. Non-native species[^key-1b4b7ca89537faf1cc296eee7c76837b]
+### 12. Non-native species[^c-1b4b7ca89537faf1cc296eee7c76837b]
 
 In section 14 (prohibition on introducing new species)—
 
@@ -329,7 +329,7 @@ In section 14 (prohibition on introducing new species)—
 
     .
 
-**13.**[^key-d0ac4e6b261a8f3588cebfa98eb891c7] After section 14 insert—
+**13.**[^c-d0ac4e6b261a8f3588cebfa98eb891c7] After section 14 insert—
 
 > **14A. Prohibition on sale etc. of certain animals or plants**
 >
@@ -370,7 +370,7 @@ In section 14 (prohibition on introducing new species)—
 >
 > (3) But any such guidance is admissible in evidence in such proceedings and a court may take account of any failure to comply with it in determining any questions in the proceedings.
 
-### 14. Miscellaneous[^key-e197d6e5046b0be987102deb47b1a852]
+### 14. Miscellaneous[^c-e197d6e5046b0be987102deb47b1a852]
 
 After section 15 insert—
 
@@ -388,7 +388,7 @@ After section 15 insert—
 > - “**pesticide**” has the meaning given in the Food and Environment Protection Act 1985 (c. 48), and
 > - “**prescribed active ingredient**” means an ingredient of a pesticide which fits it for use as such and which is of a type prescribed by order made by the Scottish Ministers.
 
-**15.**[^key-9f8c902f5a06fa51992a65dd178b8905] In section 16 (power to grant licences)—
+**15.**[^c-9f8c902f5a06fa51992a65dd178b8905] In section 16 (power to grant licences)—
 
 - (a) in subsection (2)(b), the words from “or,” to “egg”, where second occurring, are repealed,
 - (b) in subsection (3)—
@@ -406,7 +406,7 @@ After section 15 insert—
 
   > (4A) The appropriate authority shall not grant a licence under subsection (4) permitting anything to be done in contravention of section 6(1) or (2) unless it is satisfied that there is no other satisfactory solution.
 
-**16.**[^key-c51abdf8f27bc85b19070c49069c6876] In section 19 (enforcement)—
+**16.**[^c-c51abdf8f27bc85b19070c49069c6876] In section 19 (enforcement)—
 
 - (a) in subsection (1)(b)—
   - (i) at beginning insert “ search for, ”,
@@ -437,7 +437,7 @@ After section 15 insert—
   >
   > (8) A constable leaving any land which has been entered in exercise of a power conferred by subsection (2) or by a warrant under subsection (3), being either unoccupied land or land from which the occupier is temporarily absent, must leave it as effectively secured against unauthorised entry as the constable found it.
 
-**17.**[^key-d73c60737fe409bcd71b9f39a93ed66e] After section 19ZB (inserted, as respects England and Wales, by Schedule 12 to the Countryside and Rights of Way Act 2000 (c. 37)) insert—
+**17.**[^c-d73c60737fe409bcd71b9f39a93ed66e] After section 19ZB (inserted, as respects England and Wales, by Schedule 12 to the Countryside and Rights of Way Act 2000 (c. 37)) insert—
 
 > **19ZC. Wildlife inspectors: Scotland**
 >
@@ -516,12 +516,12 @@ After section 15 insert—
 > - (a) “**specimen**” has the same meaning as in section 19ZC;
 > - (b) in relation to a specimen which is a part of, or is derived from, a bird, other animal or plant, references to determining its origin, identity or ancestry are to determining the origin, identity or ancestry of the bird, other animal or plant.
 
-**18.**[^key-795d298a359f9b994de3c0dfd4fcafe1] In section 20(2) (summary prosecutions)—
+**18.**[^c-795d298a359f9b994de3c0dfd4fcafe1] In section 20(2) (summary prosecutions)—
 
 - (a) for “two” substitute “ three ”, and
 - (b) at the end insert “ or, in the case of a continuous contravention, after the last date on which the offence was committed ”.
 
-**19.**[^key-6b1d8ba8e58a271b921cb6f733d1ba48] In section 21 (penalties etc.)—
+**19.**[^c-6b1d8ba8e58a271b921cb6f733d1ba48] In section 21 (penalties etc.)—
 
 - (a) in subsection (1), for “or section 17” substitute “ , 15A, 17, 19ZC (other than an offence under section 19ZC(7) in relation to a wildlife inspector acting in exercise of the power conferred by section 19ZC(3)(d)) or 19ZD ”,
 - (b) in subsection (4)—
@@ -537,7 +537,7 @@ After section 15 insert—
   ,
 - (d) in subsection (6)(b), after “14” insert “ or 14A ”.
 
-**20.**[^key-56f5c9791c805fc70c483217405c5ae1] In section 22 (power to vary Schedules)—
+**20.**[^c-56f5c9791c805fc70c483217405c5ae1] In section 22 (power to vary Schedules)—
 
 - (a) in subsection (1)—
   - (i) after “year” insert
@@ -562,18 +562,18 @@ After section 15 insert—
   ,
 - (c) subsections (4) and (5) are repealed.
 
-**21.**[^key-0053ea60651f84b8d629bf14f78b1c8c] In section 26 (procedure for orders)—
+**21.**[^c-0053ea60651f84b8d629bf14f78b1c8c] In section 26 (procedure for orders)—
 
 - (a) in each of subsections (2) and (3), for “11” substitute “ 11(4) ”,
 - (b) in subsection (4)(b), for “22(3)” substitute “ 22 ”.
 
-**22.**[^key-9fa7879c6d60a0d60363f626fc5b6ec8] After section 26 insert—
+**22.**[^c-9fa7879c6d60a0d60363f626fc5b6ec8] After section 26 insert—
 
 > **26A. Enforcement of wildlife legislation**
 >
 > Regulations under section 2(2) of the European Communities Act 1972 (c. 68) for the purpose of implementing Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora as amended by the Act of Accession to the European Union of Austria, Finland and Sweden and by Council Directive [97/62/EC](https://www.legislation.gov.uk/european/directive/1997/0062) may, despite paragraph 1(1)(d) of Schedule 2 to that Act, create offences punishable on summary conviction with imprisonment for a term not exceeding six months.
 
-**23.**[^key-a132af2f8f2f0fb30d7dcb80cebb399a] (1) Section 27 (interpretation of Part I) is amended as follows.
+**23.**[^c-a132af2f8f2f0fb30d7dcb80cebb399a] (1) Section 27 (interpretation of Part I) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -597,7 +597,7 @@ After section 15 insert—
 > - (a) includes a reference to a bulb, corm or rhizome;
 > - (b) does not include a reference to a seed or spore.
 
-**24.**[^key-570c155b518a71a4b8cf40bb15dd610a] Before Schedule 1 insert—
+**24.**[^c-570c155b518a71a4b8cf40bb15dd610a] Before Schedule 1 insert—
 
 > **Schedule A1 — Protected nests and nest sites: birds**
 >
@@ -607,7 +607,7 @@ After section 15 insert—
 
 .
 
-**25.**[^key-8be0f601624db3039fd1008ee33ab5c7] After Schedule 1 insert—
+**25.**[^c-8be0f601624db3039fd1008ee33ab5c7] After Schedule 1 insert—
 
 > **Schedule 1A — Birds which are protected from harassment**
 >
@@ -617,7 +617,7 @@ After section 15 insert—
 
 .
 
-**26.**[^key-2b0f31b7b128aa5f83725f2c79296e5a] (1) The Protection of Badgers Act 1992 is amended as follows.
+**26.**[^c-2b0f31b7b128aa5f83725f2c79296e5a] (1) The Protection of Badgers Act 1992 is amended as follows.
 
 (2) In section 1 (taking, injuring or killing badgers)—
 
@@ -744,56 +744,56 @@ After section 15 insert—
 
 ## Annotations
 
-[^key-e1d440dc886b500c93cb3c45993284bf]: Commencement: Sch. 6 para. 1 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-e1d440dc886b500c93cb3c45993284bf]: Commencement: Sch. 6 para. 1 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-780f99b00cec29ba85f9c30d0b3a76c8]: Commencement: Sch. 6 para. 2 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-780f99b00cec29ba85f9c30d0b3a76c8]: Commencement: Sch. 6 para. 2 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-287fcda0af408ccafef438e2c1e9ca56]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-287fcda0af408ccafef438e2c1e9ca56]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-5dd96e4399f9529313f14f008221aebd]: Commencement: Sch. 6 para. 3 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-5dd96e4399f9529313f14f008221aebd]: Commencement: Sch. 6 para. 3 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-d68a4b5506261dc2c7932d7780646f86]: Commencement: Sch. 6 para. 4 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-d68a4b5506261dc2c7932d7780646f86]: Commencement: Sch. 6 para. 4 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-96e282ff2cf3fb3f631e34f2aa53db70]: Commencement: Sch. 6 para. 5 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-96e282ff2cf3fb3f631e34f2aa53db70]: Commencement: Sch. 6 para. 5 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-93d09027e6f89fbb8e1ddc6c15edaacf]: Commencement: Sch. 6 para. 6 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-93d09027e6f89fbb8e1ddc6c15edaacf]: Commencement: Sch. 6 para. 6 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-4d7ec5d3c022e8fa90b76184732a7cb1]: Commencement: Sch. 6 para. 7 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-4d7ec5d3c022e8fa90b76184732a7cb1]: Commencement: Sch. 6 para. 7 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-dcaf9f343e2b9b06472e52f104a5955f]: Commencement: Sch. 6 para. 8 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-dcaf9f343e2b9b06472e52f104a5955f]: Commencement: Sch. 6 para. 8 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-b2ac3647b25001c66c8b0521553ef6a2]: Commencement: Sch. 6 para. 9 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-b2ac3647b25001c66c8b0521553ef6a2]: Commencement: Sch. 6 para. 9 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-b4948d9543d5409327e8b41d52b54180]: Commencement: Sch. 6 para. 10 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-b4948d9543d5409327e8b41d52b54180]: Commencement: Sch. 6 para. 10 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-5ae06fdf33e0610f3b6e1fab92c7192e]: Commencement: Sch. 6 para. 11 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-5ae06fdf33e0610f3b6e1fab92c7192e]: Commencement: Sch. 6 para. 11 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-1b4b7ca89537faf1cc296eee7c76837b]: Commencement: Sch. 6 para. 12 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-1b4b7ca89537faf1cc296eee7c76837b]: Commencement: Sch. 6 para. 12 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-d0ac4e6b261a8f3588cebfa98eb891c7]: Commencement: Sch. 6 para. 13 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-d0ac4e6b261a8f3588cebfa98eb891c7]: Commencement: Sch. 6 para. 13 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-e197d6e5046b0be987102deb47b1a852]: Commencement: Sch. 6 para. 14 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-e197d6e5046b0be987102deb47b1a852]: Commencement: Sch. 6 para. 14 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-9f8c902f5a06fa51992a65dd178b8905]: Commencement: Sch. 6 para. 15 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-9f8c902f5a06fa51992a65dd178b8905]: Commencement: Sch. 6 para. 15 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-c51abdf8f27bc85b19070c49069c6876]: Commencement: Sch. 6 para. 16 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-c51abdf8f27bc85b19070c49069c6876]: Commencement: Sch. 6 para. 16 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-d73c60737fe409bcd71b9f39a93ed66e]: Commencement: Sch. 6 para. 17 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-d73c60737fe409bcd71b9f39a93ed66e]: Commencement: Sch. 6 para. 17 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-795d298a359f9b994de3c0dfd4fcafe1]: Commencement: Sch. 6 para. 18 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-795d298a359f9b994de3c0dfd4fcafe1]: Commencement: Sch. 6 para. 18 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-6b1d8ba8e58a271b921cb6f733d1ba48]: Commencement: Sch. 6 para. 19 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-6b1d8ba8e58a271b921cb6f733d1ba48]: Commencement: Sch. 6 para. 19 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-56f5c9791c805fc70c483217405c5ae1]: Commencement: Sch. 6 para. 20 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-56f5c9791c805fc70c483217405c5ae1]: Commencement: Sch. 6 para. 20 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-0053ea60651f84b8d629bf14f78b1c8c]: Commencement: Sch. 6 para. 21 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-0053ea60651f84b8d629bf14f78b1c8c]: Commencement: Sch. 6 para. 21 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-9fa7879c6d60a0d60363f626fc5b6ec8]: Commencement: Sch. 6 para. 22 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-9fa7879c6d60a0d60363f626fc5b6ec8]: Commencement: Sch. 6 para. 22 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-a132af2f8f2f0fb30d7dcb80cebb399a]: Commencement: Sch. 6 para. 23 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-a132af2f8f2f0fb30d7dcb80cebb399a]: Commencement: Sch. 6 para. 23 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-570c155b518a71a4b8cf40bb15dd610a]: Commencement: Sch. 6 para. 24 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-570c155b518a71a4b8cf40bb15dd610a]: Commencement: Sch. 6 para. 24 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-8be0f601624db3039fd1008ee33ab5c7]: Commencement: Sch. 6 para. 25 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-8be0f601624db3039fd1008ee33ab5c7]: Commencement: Sch. 6 para. 25 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
 
-[^key-2b0f31b7b128aa5f83725f2c79296e5a]: Commencement: Sch. 6 para. 26 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-2b0f31b7b128aa5f83725f2c79296e5a]: Commencement: Sch. 6 para. 26 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)

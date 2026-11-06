@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Amendment of article 42[^key-45bdb2c6e816e72269bf39c340ee614b]
+## 37. Amendment of article 42[^c-45bdb2c6e816e72269bf39c340ee614b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45bdb2c6e816e72269bf39c340ee614b]: Commencement: Reg. 37 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-45bdb2c6e816e72269bf39c340ee614b]: Commencement: Reg. 37 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

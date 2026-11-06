@@ -31,10 +31,10 @@ summary: ''
 
 of 11 November 1980 amending Decision 75/328/Euratom on the establishment of the joint undertaking Schnell-Brüter- Kernkraftwerksgesellschaft mbH (SBK) (revoked)
 
-[^key-5d0181ed8d93f45a9795036d7fc558a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d0181ed8d93f45a9795036d7fc558a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-5d0181ed8d93f45a9795036d7fc558a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-5d0181ed8d93f45a9795036d7fc558a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5d0181ed8d93f45a9795036d7fc558a1]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-5d0181ed8d93f45a9795036d7fc558a1]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

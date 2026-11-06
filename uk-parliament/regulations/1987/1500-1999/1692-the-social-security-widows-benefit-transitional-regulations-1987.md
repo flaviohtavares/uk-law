@@ -68,7 +68,7 @@ In the case of a woman whose husband died before 11th April 1988, the provisions
   - (vi) in Schedule 3, Part II, the words in paragraph 8(2)(a) “other than widow's allowance” and in paragraphs 9 and 10 the words “(other than widow's allowance)”; and
   - (vii) in Schedule 4, Part I, paragraph 5, and in Part IV, paragraph 4.
 
-    ; and[^key-8784ea239df772f3a748f3eb7aa0293e]
+    ; and[^c-8784ea239df772f3a748f3eb7aa0293e]
 - (c) any reference in section 165C of the 1975 Act to widow’s payment included a reference to widow’s allowance, together with any increase under section 41(2)(e) of that Act.
 
 ## 3. Widow's Pension
@@ -104,4 +104,4 @@ These Regulations contain savings for existing beneficiaries to both widow's all
 
 [^c2180691]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
 
-[^key-8784ea239df772f3a748f3eb7aa0293e]: Textual amendment: [Reg. 2(c)](https://www.legislation.gov.uk/uksi/1987/1692/regulation/2/c) inserted (13.7.1990) by [Social Security Act 1990 (c. 27)](https://www.legislation.gov.uk/ukpga/1990/27), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/1990/27/section/6/4), [23(3)](https://www.legislation.gov.uk/ukpga/1990/27/section/23/3) (with [s. 6(5)](https://www.legislation.gov.uk/ukpga/1990/27/section/6/5))
+[^c-8784ea239df772f3a748f3eb7aa0293e]: Textual amendment: [Reg. 2(c)](https://www.legislation.gov.uk/uksi/1987/1692/regulation/2/c) inserted (13.7.1990) by [Social Security Act 1990 (c. 27)](https://www.legislation.gov.uk/ukpga/1990/27), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/1990/27/section/6/4), [23(3)](https://www.legislation.gov.uk/ukpga/1990/27/section/23/3) (with [s. 6(5)](https://www.legislation.gov.uk/ukpga/1990/27/section/6/5))

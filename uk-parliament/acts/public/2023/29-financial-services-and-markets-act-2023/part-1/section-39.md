@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Reporting requirements[^key-15f5fd6d521a5da43ca40f4ffc09130b][^key-4ba310d285ea443829cff2c945feb222]
+## 39. Reporting requirements[^c-15f5fd6d521a5da43ca40f4ffc09130b][^c-4ba310d285ea443829cff2c945feb222]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,6 +92,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15f5fd6d521a5da43ca40f4ffc09130b]: Commencement: S. 39 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-15f5fd6d521a5da43ca40f4ffc09130b]: Commencement: S. 39 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-4ba310d285ea443829cff2c945feb222]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/29/section/39) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(cc)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/cc)
+[^c-4ba310d285ea443829cff2c945feb222]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/29/section/39) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(cc)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/cc)

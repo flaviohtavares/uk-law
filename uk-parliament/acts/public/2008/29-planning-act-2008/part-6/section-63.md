@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Delegation of functions by person appointed to chair Commission[^key-f5c6bc226231706ccf7d00a996ff8715]
+## 63. Delegation of functions by person appointed to chair Commission[^c-f5c6bc226231706ccf7d00a996ff8715]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5c6bc226231706ccf7d00a996ff8715]: Textual amendment: S. 63 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/20), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+[^c-f5c6bc226231706ccf7d00a996ff8715]: Textual amendment: S. 63 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/20), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)

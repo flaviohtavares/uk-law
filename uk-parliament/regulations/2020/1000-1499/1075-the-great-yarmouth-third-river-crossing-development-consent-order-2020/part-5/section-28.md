@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Compulsory acquisition of rights[^key-44dbba2151a3706cd07eaa144eeef939]
+## 28. Compulsory acquisition of rights[^c-44dbba2151a3706cd07eaa144eeef939]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-44dbba2151a3706cd07eaa144eeef939]: Commencement: Art. 28 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-44dbba2151a3706cd07eaa144eeef939]: Commencement: Art. 28 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294461]: Marginal citation: [Section 8](https://www.legislation.gov.uk/uksi/2020/1075/section/8) was amended by paragraphs 1 and 2 of Schedule 17 to the Housing and Planning Act 2016 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

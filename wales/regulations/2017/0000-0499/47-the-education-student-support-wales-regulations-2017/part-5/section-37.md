@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Maintenance grant –eligible students who are 2011 cohort students[^key-cd5406f55fa724b4dd2f24cb7729a5cc]
+## 37. Maintenance grant –eligible students who are 2011 cohort students[^c-cd5406f55fa724b4dd2f24cb7729a5cc]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd5406f55fa724b4dd2f24cb7729a5cc]: Commencement: Reg. 37 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-cd5406f55fa724b4dd2f24cb7729a5cc]: Commencement: Reg. 37 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

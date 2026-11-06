@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. No removal while appeal pending[^c3925041][^key-10d1b3e17d1831ada38cc18af73c35c0]
+## 78. No removal while appeal pending[^c3925041][^c-10d1b3e17d1831ada38cc18af73c35c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
     S. 78 extended (14.3.2003) by [The Nationality Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [art. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/1/3) (with transitional provisions in arts. 3, 4, Sch. 2 (as amended by [S.I. 2003/1040](https://www.legislation.gov.uk/uksi/2003/1040), [S.I](https://www.legislation.gov.uk/uksi/2003/1040/section/I). 2003/1339 and [S.I. 2003/2993](https://www.legislation.gov.uk/uksi/2003/2993)))
 
-[^key-10d1b3e17d1831ada38cc18af73c35c0]: Modification: [Ss. 78-79](https://www.legislation.gov.uk/ukpga/2002/41/section/78) applied (with modifications) (31.1.2020) by [The Immigration (Citizens Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 2 paras. 1-3](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/1) (as amended (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/2))
+[^c-10d1b3e17d1831ada38cc18af73c35c0]: Modification: [Ss. 78-79](https://www.legislation.gov.uk/ukpga/2002/41/section/78) applied (with modifications) (31.1.2020) by [The Immigration (Citizens Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 2 paras. 1-3](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/1) (as amended (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/2))

@@ -63,7 +63,7 @@ summary: ''
 </tbody>
 </table>
 
-[^key-01a3b3c787c992822a48f9a274fa940b][^key-01a3b3c787c992822a48f9a274fa940b]
+[^c-01a3b3c787c992822a48f9a274fa940b][^c-01a3b3c787c992822a48f9a274fa940b]
 
 (2) Subsections (3) to (5) make amendments to CEMA 1979 which are consequential on amendments to that Act made by subsection (1).
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01a3b3c787c992822a48f9a274fa940b]: Textual amendment: Words in s. 32(1) Table omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/20) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-01a3b3c787c992822a48f9a274fa940b]: Textual amendment: Words in s. 32(1) Table omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/20) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Financial sustainability requirement[^c24480731][^key-fc58f6bb926d9fa48cf31ce5d8878a89]
+## 65. Financial sustainability requirement[^c24480731][^c-fc58f6bb926d9fa48cf31ce5d8878a89]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (3) In deciding whether it is satisfied that a scheme has sufficient financial resources to meet the costs mentioned in subsection (2), the Pensions Regulator must take into account any matters specified in regulations made by the Department.
 
-(3A)[^key-552597e537eb690e029f267773523fc4] In deciding whether it is satisfied that an unconnected multiple employer scheme has sufficient financial resources to meet the costs mentioned in subsection (2), the Pensions Regulator must also take into account—
+(3A)[^c-552597e537eb690e029f267773523fc4] In deciding whether it is satisfied that an unconnected multiple employer scheme has sufficient financial resources to meet the costs mentioned in subsection (2), the Pensions Regulator must also take into account—
 
 - (a) the liability of the scheme proprietor to provide funds to or in respect of the scheme for the purposes of meeting those costs (see section 65B), and
 - (b) the financial resources of the scheme proprietor.
@@ -48,7 +48,7 @@ summary: ''
 
 (4) Regulations under subsection (3) may include provision—
 
-- (a) requiring specified information to be provided to the Pensions Regulator (including information about the financial resources of the scheme proprietor)[^key-f9d0fb7368da27f5a0996bf0bed9b273];
+- (a) requiring specified information to be provided to the Pensions Regulator (including information about the financial resources of the scheme proprietor)[^c-f9d0fb7368da27f5a0996bf0bed9b273];
 - (b) specifying requirements to be met by the scheme relating to its financing, such as requirements relating to assets, capital or liquidity.
 
 (5) Regulations under subsection (3) are subject to confirmatory procedure.
@@ -57,8 +57,8 @@ summary: ''
 
 [^c24480731]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2021/1/section/65) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-fc58f6bb926d9fa48cf31ce5d8878a89]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2021/1/section/65) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-fc58f6bb926d9fa48cf31ce5d8878a89]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2021/1/section/65) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
-[^key-552597e537eb690e029f267773523fc4]: Textual amendment: [S. 65(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2021/1/section/65/3A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2026/151/regulation/9/a)
+[^c-552597e537eb690e029f267773523fc4]: Textual amendment: [S. 65(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2021/1/section/65/3A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2026/151/regulation/9/a)
 
-[^key-f9d0fb7368da27f5a0996bf0bed9b273]: Textual amendment: Words in [s. 65(4)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/65/4/a) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/9/b)
+[^c-f9d0fb7368da27f5a0996bf0bed9b273]: Textual amendment: Words in [s. 65(4)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/65/4/a) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/9/b)

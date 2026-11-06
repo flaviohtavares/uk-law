@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Role of the independent advisory panel[^key-eb6e797613587f4e74f45fb9e3a87e87][^key-f68aca771c03f8d64151d1606f37c84a]
+## 80. Role of the independent advisory panel[^c-eb6e797613587f4e74f45fb9e3a87e87][^c-f68aca771c03f8d64151d1606f37c84a]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb6e797613587f4e74f45fb9e3a87e87]: Commencement: S. 80 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-eb6e797613587f4e74f45fb9e3a87e87]: Commencement: S. 80 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-f68aca771c03f8d64151d1606f37c84a]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2025/8/section/80) in force at 1.7.2026 by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-f68aca771c03f8d64151d1606f37c84a]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2025/8/section/80) in force at 1.7.2026 by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

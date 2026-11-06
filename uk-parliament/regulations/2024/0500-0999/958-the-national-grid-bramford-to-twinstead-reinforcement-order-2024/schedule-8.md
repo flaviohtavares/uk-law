@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — ACCESS TO WORKS[^key-11ae377d6820094db96159362454c8ab]
+## SCHEDULE 8 — ACCESS TO WORKS[^c-11ae377d6820094db96159362454c8ab]
 
 *Extent: E+W*
 
@@ -86,4 +86,4 @@ ESSEX COUNTY COUNCIL
 
 ## Annotations
 
-[^key-11ae377d6820094db96159362454c8ab]: Commencement: Sch. 8 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-11ae377d6820094db96159362454c8ab]: Commencement: Sch. 8 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

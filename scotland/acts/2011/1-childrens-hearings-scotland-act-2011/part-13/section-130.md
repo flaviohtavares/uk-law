@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Case remitted under section 49 of Criminal Procedure (Scotland) Act 1995[^key-c32abba2563094418ba8b20d67c6c0b0]
+## 130. Case remitted under section 49 of Criminal Procedure (Scotland) Act 1995[^c-c32abba2563094418ba8b20d67c6c0b0]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c32abba2563094418ba8b20d67c6c0b0]: Commencement: S. 130 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-c32abba2563094418ba8b20d67c6c0b0]: Commencement: S. 130 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Standards of decision-making[^key-dd282ee73ac20c0742bf6be5f4aaa431]
+## 143. Standards of decision-making[^c-dd282ee73ac20c0742bf6be5f4aaa431]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Section 81 of the Social Security Act 1998 (reports by Secretary of State and Ch
 
 ## Annotations
 
-[^key-dd282ee73ac20c0742bf6be5f4aaa431]: Commencement: S. 143 in force at 8.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(g)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/g)
+[^c-dd282ee73ac20c0742bf6be5f4aaa431]: Commencement: S. 143 in force at 8.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(g)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/g)

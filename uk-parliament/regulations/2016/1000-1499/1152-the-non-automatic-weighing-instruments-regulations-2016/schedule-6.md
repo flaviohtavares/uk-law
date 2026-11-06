@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — (Annex I to the Directive)[^key-17dfad508aad3b38f013346be85e0eea]
+## SCHEDULE 6 — (Annex I to the Directive)[^c-17dfad508aad3b38f013346be85e0eea]
 
 *Extent: E+W+S*
 
@@ -271,7 +271,7 @@ Price labelling instruments shall meet the requirements of price indicating inst
 
 ## Annotations
 
-[^key-17dfad508aad3b38f013346be85e0eea]: Textual amendment: Schs. 6-9 inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 45](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/45) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17dfad508aad3b38f013346be85e0eea]: Textual amendment: Schs. 6-9 inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 45](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/45) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_0b518cb0-2b1a-4db3-a700-5f85bd0d31b8]: Textual amendment: [1985 c.72](https://www.legislation.gov.uk/ukpga/1985/72).
 

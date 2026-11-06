@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Functions of senior officers[^key-935d1fbc786dd2955035107775120e6c]
+## 54. Functions of senior officers[^c-935d1fbc786dd2955035107775120e6c]
 
 *Extent: E+W+S*
 
 (1) In carrying out his functions in any financial year, the chief constable must have regard to—
 
 - (a) the annual policing plan for that year issued by the Police Authority under paragraph 2 of Schedule 12; and
-- (b) the three-year strategy plan [^key-0dbe98117089734e9e8bb8bf2457fe97]... issued by the Police Authority under paragraph 3 of that Schedule for a period that includes that year.
+- (b) the three-year strategy plan [^c-0dbe98117089734e9e8bb8bf2457fe97]... issued by the Police Authority under paragraph 3 of that Schedule for a period that includes that year.
 
 (2) The deputy chief constable may perform a function of the chief constable—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-935d1fbc786dd2955035107775120e6c]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2004/20/section/54) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-935d1fbc786dd2955035107775120e6c]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2004/20/section/54) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
-[^key-0dbe98117089734e9e8bb8bf2457fe97]: Textual amendment: Words in [s. 54(1)(b)](https://www.legislation.gov.uk/ukpga/2004/20/section/54/1/b) omitted (31.1.2024) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 310(2)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/310/2/a), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/c)
+[^c-0dbe98117089734e9e8bb8bf2457fe97]: Textual amendment: Words in [s. 54(1)(b)](https://www.legislation.gov.uk/ukpga/2004/20/section/54/1/b) omitted (31.1.2024) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 310(2)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/310/2/a), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/c)

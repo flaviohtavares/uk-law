@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. The British Transport Police Authority[^key-04de28738eeabe52c96b5a6624ab8c28]
+## 18. The British Transport Police Authority[^c-04de28738eeabe52c96b5a6624ab8c28]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04de28738eeabe52c96b5a6624ab8c28]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2003/20/section/18) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/a)
+[^c-04de28738eeabe52c96b5a6624ab8c28]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2003/20/section/18) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/a)

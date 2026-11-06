@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269. Directions to particular core fuel sector participants[^key-8c09cf5cd4973fca3a4cd12eb88cc47b][^key-18f596488a7fb1d1c475dadb4f3304a5]
+## 269. Directions to particular core fuel sector participants[^c-8c09cf5cd4973fca3a4cd12eb88cc47b][^c-18f596488a7fb1d1c475dadb4f3304a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c09cf5cd4973fca3a4cd12eb88cc47b]: Commencement: S. 269 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-8c09cf5cd4973fca3a4cd12eb88cc47b]: Commencement: S. 269 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-18f596488a7fb1d1c475dadb4f3304a5]: Commencement: [S. 269](https://www.legislation.gov.uk/ukpga/2023/52/section/269) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/ii)
+[^c-18f596488a7fb1d1c475dadb4f3304a5]: Commencement: [S. 269](https://www.legislation.gov.uk/ukpga/2023/52/section/269) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/ii)

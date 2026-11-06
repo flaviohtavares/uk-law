@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Fruit species[^key-78f7b479e46912ea31bd2c4ef5a290aa]
+## SCHEDULE 2 — Fruit species[^c-78f7b479e46912ea31bd2c4ef5a290aa]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ Regulation 5
 
 ## Annotations
 
-[^key-78f7b479e46912ea31bd2c4ef5a290aa]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2021/77/schedule/2) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-78f7b479e46912ea31bd2c4ef5a290aa]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2021/77/schedule/2) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

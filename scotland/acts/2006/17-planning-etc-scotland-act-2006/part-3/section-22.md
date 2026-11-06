@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Further provision as regards duration of planning permission etc.[^key-5a140445baac954e7ead92dcfc07a84d][^key-d60864d9cb7bb90bb57cbb9b73019082]
+## 22. Further provision as regards duration of planning permission etc.[^c-5a140445baac954e7ead92dcfc07a84d][^c-d60864d9cb7bb90bb57cbb9b73019082]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a140445baac954e7ead92dcfc07a84d]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2006/17/section/22) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-5a140445baac954e7ead92dcfc07a84d]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2006/17/section/22) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-d60864d9cb7bb90bb57cbb9b73019082]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2006/17/section/22) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-d60864d9cb7bb90bb57cbb9b73019082]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2006/17/section/22) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

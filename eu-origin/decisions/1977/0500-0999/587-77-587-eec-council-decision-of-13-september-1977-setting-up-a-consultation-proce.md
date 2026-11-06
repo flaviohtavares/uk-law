@@ -31,10 +31,10 @@ summary: ''
 
 of 13 September 1977 setting up a consultation procedure on relations between Member States and third countries in shipping matters and on action relating to such matters in international organizations (revoked)
 
-[^key-c3d9fca45e87abcaa1a6ef5877695264]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3d9fca45e87abcaa1a6ef5877695264]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-c3d9fca45e87abcaa1a6ef5877695264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-c3d9fca45e87abcaa1a6ef5877695264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3d9fca45e87abcaa1a6ef5877695264]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(m)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/m); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3d9fca45e87abcaa1a6ef5877695264]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(m)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/m); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

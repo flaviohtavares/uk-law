@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Regulatory objectives[^key-52221c53f4b6b82f22332ad31b21bdbc]
+## 1. Regulatory objectives[^c-52221c53f4b6b82f22332ad31b21bdbc]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ For the purposes of this Act, the regulatory objectives are the objectives of—
 
 ## Annotations
 
-[^key-52221c53f4b6b82f22332ad31b21bdbc]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2010/16/section/1) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-52221c53f4b6b82f22332ad31b21bdbc]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2010/16/section/1) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

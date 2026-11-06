@@ -26,8 +26,8 @@ summary: ''
 - (b) the net costs of the collection, treatment and recycling of any waste portable batteries collected by the battery compliance scheme in excess of those required to satisfy sub-paragraph (a);
 - (c) the net costs of a scheme information campaign.
 
-(2) In this regulation, “**scheme information campaign**” has the meaning given in paragraph 15(2)[^key-10f5437cd76f23b192dfff9f7e146268] of Schedule 3.
+(2) In this regulation, “**scheme information campaign**” has the meaning given in paragraph 15(2)[^c-10f5437cd76f23b192dfff9f7e146268] of Schedule 3.
 
 ## Annotations
 
-[^key-10f5437cd76f23b192dfff9f7e146268]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2009/890/regulation/19/2) substituted (1.1.2016) by [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/1935/regulation/3)
+[^c-10f5437cd76f23b192dfff9f7e146268]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2009/890/regulation/19/2) substituted (1.1.2016) by [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/1935/regulation/3)

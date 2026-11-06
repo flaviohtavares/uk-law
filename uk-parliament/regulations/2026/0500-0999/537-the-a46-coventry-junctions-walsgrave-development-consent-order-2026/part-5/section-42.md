@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Apparatus and rights of statutory undertakers in stopped up streets[^key-1338085c70bb9859757e72fa377d5263]
+## 42. Apparatus and rights of statutory undertakers in stopped up streets[^c-1338085c70bb9859757e72fa377d5263]
 
 *Extent: E+W+S*
 
-(1) Where a street is stopped up under article 17 (permanent stopping up of streets and private means of access)[^key-239ffabe39fd7bc4e42b71cce87fee2b], any statutory utility whose apparatus is under, in, on, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this article, as if this Order had not been made.
+(1) Where a street is stopped up under article 17 (permanent stopping up of streets and private means of access)[^c-239ffabe39fd7bc4e42b71cce87fee2b], any statutory utility whose apparatus is under, in, on, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this article, as if this Order had not been made.
 
 (2) Where a street is stopped up under article 17 any statutory utility whose apparatus is under, in, on, over, along or across the street may, and if reasonably requested to do so by the undertaker must—
 
@@ -58,6 +58,6 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-1338085c70bb9859757e72fa377d5263]: Commencement: Art. 42 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-1338085c70bb9859757e72fa377d5263]: Commencement: Art. 42 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-239ffabe39fd7bc4e42b71cce87fee2b]: Textual amendment: Words in [art. 42(1)](https://www.legislation.gov.uk/uksi/2026/537/article/42/1) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-239ffabe39fd7bc4e42b71cce87fee2b]: Textual amendment: Words in [art. 42(1)](https://www.legislation.gov.uk/uksi/2026/537/article/42/1) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)

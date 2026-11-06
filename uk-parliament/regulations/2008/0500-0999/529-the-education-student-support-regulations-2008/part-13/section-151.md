@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Designated postgraduate courses[^key-1b72576b334068ff0ff50a632ba6e527]
+## 151. Designated postgraduate courses[^c-1b72576b334068ff0ff50a632ba6e527]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b72576b334068ff0ff50a632ba6e527]: Commencement: Reg. 151 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-1b72576b334068ff0ff50a632ba6e527]: Commencement: Reg. 151 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00073]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 27.

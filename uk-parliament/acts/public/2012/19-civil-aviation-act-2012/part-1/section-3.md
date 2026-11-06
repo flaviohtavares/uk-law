@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Prohibition[^key-bf8501aced7581f17795267c20b2725a]
+## 3. Prohibition[^c-bf8501aced7581f17795267c20b2725a]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ if it is a charge in respect of services provided before invalidity is finally d
 
 ## Annotations
 
-[^key-bf8501aced7581f17795267c20b2725a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/19/section/3) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-bf8501aced7581f17795267c20b2725a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/19/section/3) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Section 3J (power of PRA in relation to with-profits policies)[^key-28fb3f43f61807a9d89a95e84d4baa26]
+## 9. Section 3J (power of PRA in relation to with-profits policies)[^c-28fb3f43f61807a9d89a95e84d4baa26]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 3J [^c23657261] (power of PRA in relation to with-profits policies), 
 
 ## Annotations
 
-[^key-28fb3f43f61807a9d89a95e84d4baa26]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-28fb3f43f61807a9d89a95e84d4baa26]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657261]: Marginal citation: Section 3J was substituted by section 6(1) of the Financial Services Act 2012.

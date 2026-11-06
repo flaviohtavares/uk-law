@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119. Power to make consequential amendments, repeals and revocations[^key-177afa4f58d317d66f48b01e0525a8d5][^key-218c870d916dc11e974fb9194d84f8a0]
+## 119. Power to make consequential amendments, repeals and revocations[^c-177afa4f58d317d66f48b01e0525a8d5][^c-218c870d916dc11e974fb9194d84f8a0]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-177afa4f58d317d66f48b01e0525a8d5]: Commencement: S. 119 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
+[^c-177afa4f58d317d66f48b01e0525a8d5]: Commencement: S. 119 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
 
-[^key-218c870d916dc11e974fb9194d84f8a0]: Commencement: [S. 119](https://www.legislation.gov.uk/nia/2026/6/section/119) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)
+[^c-218c870d916dc11e974fb9194d84f8a0]: Commencement: [S. 119](https://www.legislation.gov.uk/nia/2026/6/section/119) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)

@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers are designated [^c23631081] for the purposes of section 2(2) of the European Communities Act 1972 [^c23631091] in relation to the common agricultural policy of the European Union and make these Regulations in exercise of the powers conferred on them by that section.
 
-## 1. Title, application and commencement[^key-8a3d96a33ad53389f740cd71c9e81fd2]
+## 1. Title, application and commencement[^c-8a3d96a33ad53389f740cd71c9e81fd2]
 
 (1) The title of these Regulations is the Plant Health (Fees) (Forestry) (Wales) Regulations 2019.
 
@@ -53,38 +53,38 @@ The Welsh Ministers are designated [^c23631081] for the purposes of section 2(2)
 
 (3) These Regulations come into force on 28 March 2019.
 
-## 2. Interpretation[^key-d05e87161db8d8f638e991ea50da8a10]
+## 2. Interpretation[^c-d05e87161db8d8f638e991ea50da8a10]
 
 (1) In these Regulations—
 
-- “**approved place of inspection**” (“***man arolygu a gymeradwywyd***”) has the meaning given in regulation 13(10) of the Official Controls (Plant Health) Regulations 2020[^key-0d029069b58b4cd9b672763c919bf69a];
-- “controlled consignment” means a consignment which—[^key-f4d772b2ad51a651eaac5c2784bdc5d7]
+- “**approved place of inspection**” (“***man arolygu a gymeradwywyd***”) has the meaning given in regulation 13(10) of the Official Controls (Plant Health) Regulations 2020[^c-0d029069b58b4cd9b672763c919bf69a];
+- “controlled consignment” means a consignment which—[^c-f4d772b2ad51a651eaac5c2784bdc5d7]
   - (a) is introduced into Wales from a third country; and
   - (b) consists of, or includes, isolated bark or wood of a type that is described in Part A of Annex 11, or Annex 12, to Commission Implementing Regulation (EU) 2019/2072 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants.
-- “**the [^key-5dfcbeaa38b85637d2bec54d8f4c9bda]... Plant Health Regulation**” (“***Rheoliad Iechyd Planhigion yr UE***”) means Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants;
-- “forestry remedial notice” (“[^key-0eeb6ab3100c3443b6b96926a466d6eb]*hysbysiad adfer coedwigaeth*”) means a notice served by a plant health inspector under regulation 10 or 15(1) or (2) of the Official Controls (Plant Health) Regulations 2020;
-- “licence” (“[^key-bd4021c249c6b89ffe37c4651e41249b]*trwydded*”) means—
+- “**the [^c-5dfcbeaa38b85637d2bec54d8f4c9bda]... Plant Health Regulation**” (“***Rheoliad Iechyd Planhigion yr UE***”) means Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants;
+- “forestry remedial notice” (“[^c-0eeb6ab3100c3443b6b96926a466d6eb]*hysbysiad adfer coedwigaeth*”) means a notice served by a plant health inspector under regulation 10 or 15(1) or (2) of the Official Controls (Plant Health) Regulations 2020;
+- “licence” (“[^c-bd4021c249c6b89ffe37c4651e41249b]*trwydded*”) means—
   - (a) a licence referred to in regulation 51(1) of the Official Controls (Plant Health) Regulations 2020 that has been granted by the Welsh Ministers, or
-  - (b) an authorisation described in regulation 20(1)(a) or (b)(i) or 21(1)(a) or (b)[^key-6069974f97725c694975f7307267d9d9] of the Official Controls (Plant Health) Regulations 2020 granted by the Welsh Ministers;
-- “the Official Controls (Plant Health) Regulations 2020” (“[^key-7b6140d92d5eb04be8276ba52d6bd993]*Rheoliadau Rheolaethau Swyddogol (Iechyd Planhigion) 2020*”) means the Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020;
-- [^key-8f643ada162b31e4d236bf7c884f4734]...
-- [^key-eff6db6932e5cd0c56ef95467fbf2d05]...
-- “plant health inspector” (“[^key-77bb1262e8369a9b0d524cefd1c8f184]*arolygydd iechyd planhigion*”) means an official plant health officer appointed by the Welsh Ministers for the purposes of the Official Controls (Plant Health) Regulations 2020;
-- “**plant passport authority**” (“***awdurdodiad pasbort planhigion***”) means an authorisation described in Article 89(1) of the [^key-cdd9e074d8f1246f40e5d4f4ebe6f17f]... Plant Health Regulation and granted by the Welsh Ministers[^key-2d3025bd357dd9db6796777a1c358f36];
-- “professional operator” means any person, governed by public or private law, involved professionally in, and legally responsible for, one or more of the following activities concerning plants, plant products and other objects—[^key-fe9be540190af346374c918e2e329d3c]
+  - (b) an authorisation described in regulation 20(1)(a) or (b)(i) or 21(1)(a) or (b)[^c-6069974f97725c694975f7307267d9d9] of the Official Controls (Plant Health) Regulations 2020 granted by the Welsh Ministers;
+- “the Official Controls (Plant Health) Regulations 2020” (“[^c-7b6140d92d5eb04be8276ba52d6bd993]*Rheoliadau Rheolaethau Swyddogol (Iechyd Planhigion) 2020*”) means the Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020;
+- [^c-8f643ada162b31e4d236bf7c884f4734]...
+- [^c-eff6db6932e5cd0c56ef95467fbf2d05]...
+- “plant health inspector” (“[^c-77bb1262e8369a9b0d524cefd1c8f184]*arolygydd iechyd planhigion*”) means an official plant health officer appointed by the Welsh Ministers for the purposes of the Official Controls (Plant Health) Regulations 2020;
+- “**plant passport authority**” (“***awdurdodiad pasbort planhigion***”) means an authorisation described in Article 89(1) of the [^c-cdd9e074d8f1246f40e5d4f4ebe6f17f]... Plant Health Regulation and granted by the Welsh Ministers[^c-2d3025bd357dd9db6796777a1c358f36];
+- “professional operator” means any person, governed by public or private law, involved professionally in, and legally responsible for, one or more of the following activities concerning plants, plant products and other objects—[^c-fe9be540190af346374c918e2e329d3c]
   - (a) planting;
   - (b) breeding;
   - (c) production, including growing, multiplying and maintaining;
   - (d) introduction into, and movement within and out of Northern Ireland;
   - (e) making available on the market;
   - (f) storage, collection, dispatching and processing;
-- [^key-630018d4a3df9d5f9dea419e4ef6bbef]...
-- “**remedial work**” (“***gwaith adfer***”) means any steps taken by a person for the purposes of complying with a forestry remedial notice, or by a plant health inspector under regulation 16(1) of the Official Controls (Plant Health) Regulations 2020[^key-3b849b60f98088c950eabf99ff315a91];
-- “**WPM authorisation**” (“***awdurdodiad DPP***”) means an authorisation described in Article 98(1) of the [^key-165f47362ae238c1bee3808a11b93147]... Plant Health Regulation and granted by the Welsh Ministers[^key-14c2ed6d8addd05824ed2dcec4e60bb2].
+- [^c-630018d4a3df9d5f9dea419e4ef6bbef]...
+- “**remedial work**” (“***gwaith adfer***”) means any steps taken by a person for the purposes of complying with a forestry remedial notice, or by a plant health inspector under regulation 16(1) of the Official Controls (Plant Health) Regulations 2020[^c-3b849b60f98088c950eabf99ff315a91];
+- “**WPM authorisation**” (“***awdurdodiad DPP***”) means an authorisation described in Article 98(1) of the [^c-165f47362ae238c1bee3808a11b93147]... Plant Health Regulation and granted by the Welsh Ministers[^c-14c2ed6d8addd05824ed2dcec4e60bb2].
 
-(2) Words and expressions which are not defined in these Regulations and which appear in the [^key-61643d4fc4d9f24adfa389b71611e23b]... Plant Health Regulation or in Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure that application of food and feed law, rules on animal health and welfare, plant health and plant protection products have the same meaning in these Regulations as they have in the [^key-61643d4fc4d9f24adfa389b71611e23b]... instrument in question.
+(2) Words and expressions which are not defined in these Regulations and which appear in the [^c-61643d4fc4d9f24adfa389b71611e23b]... Plant Health Regulation or in Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure that application of food and feed law, rules on animal health and welfare, plant health and plant protection products have the same meaning in these Regulations as they have in the [^c-61643d4fc4d9f24adfa389b71611e23b]... instrument in question.
 
-## 3. Fees[^key-174e4a8d60b32915888820e66be99c35]
+## 3. Fees[^c-174e4a8d60b32915888820e66be99c35]
 
 (1) Fees payable under this regulation are payable to the Welsh Ministers.
 
@@ -100,15 +100,15 @@ The Welsh Ministers are designated [^c23631081] for the purposes of section 2(2)
 
 (5) Where, at the request of an importer of a controlled consignment, a plant health check is carried out on the consignment at an approved place of inspection, the importer must pay the fee of £30 for each visit made by an inspector in the course of conducting the plant health check at the approved place of inspection, in addition to the fee payable under paragraph (4)(a).
 
-(5A)[^key-0d08234081876bd78136fdadb0e2ca05] Subject to paragraph (5E)[^key-52d2a592fa739955e9e4ca4af0cb8275] the fee payable in connection with an application to the Welsh Ministers for a phytosanitary certificate for export or phytosanitary certificate for re-export is the fee specified in Schedule 4A.
+(5A)[^c-0d08234081876bd78136fdadb0e2ca05] Subject to paragraph (5E)[^c-52d2a592fa739955e9e4ca4af0cb8275] the fee payable in connection with an application to the Welsh Ministers for a phytosanitary certificate for export or phytosanitary certificate for re-export is the fee specified in Schedule 4A.
 
 (5B) The fee payable in connection with an application to the Welsh Ministers for a WPM authorisation is the fee specified in Schedule 4B.
 
-(5C)[^key-ca2abdffe835ec73c2fe01d7c2e1bb47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5C)[^c-ca2abdffe835ec73c2fe01d7c2e1bb47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5D)[^key-9730897feecee13c103211bccb8eb9d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5D)[^c-9730897feecee13c103211bccb8eb9d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5E)[^key-7e3bf67d9e1aef611e47fc13591408ff] The fee specified in Schedule 4A is not payable in respect of a consignment to be transported to Northern Ireland—
+(5E)[^c-7e3bf67d9e1aef611e47fc13591408ff] The fee specified in Schedule 4A is not payable in respect of a consignment to be transported to Northern Ireland—
 
 - (a) by a person acting otherwise than in the course of a business, where the consignment is not to be placed on the market, or
 - (b) for delivery to—
@@ -117,11 +117,11 @@ The Welsh Ministers are designated [^c23631081] for the purposes of section 2(2)
 
 (5F) Paragraph (5E) ceases to have effect at the end of 30 June 2025.
 
-(6)[^key-c41b60c998e1992a030868942f68375f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c41b60c998e1992a030868942f68375f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6A)[^key-c25999c5c2259e2d7cf7d5d561e0f4d5] The person on whom a forestry remedial notice is served or who is given notice under regulation 16(1) of the Official Controls (Plant Health) Regulations 2020 must pay the fee specified in Schedule 5 for the carrying out or the monitoring by a plant health inspector of remedial work and associated activities in connection with a controlled consignment.
+(6A)[^c-c25999c5c2259e2d7cf7d5d561e0f4d5] The person on whom a forestry remedial notice is served or who is given notice under regulation 16(1) of the Official Controls (Plant Health) Regulations 2020 must pay the fee specified in Schedule 5 for the carrying out or the monitoring by a plant health inspector of remedial work and associated activities in connection with a controlled consignment.
 
-## 4. Revocations[^key-c10981dc5ddb6ff7ccbab99b02d4a88d]
+## 4. Revocations[^c-c10981dc5ddb6ff7ccbab99b02d4a88d]
 
 The following Regulations are revoked—
 
@@ -134,7 +134,7 @@ Lesley Griffiths
 
 Minister for Environment, Energy and Rural Affairs, one of the Welsh Ministers
 
-## SCHEDULE 1 — Fees for inspections in connection with a plant passport authority[^key-7545303cfc623eb4c3e3311b36f124fa]
+## SCHEDULE 1 — Fees for inspections in connection with a plant passport authority[^c-7545303cfc623eb4c3e3311b36f124fa]
 
 Regulation 3(2)
 
@@ -149,7 +149,7 @@ Regulation 3(2)
 </tbody>
 </table>
 
-## SCHEDULE 2 — FEES IN CONNECTION WITH LICENCES[^key-ad6e8e9c0ab00de3cb87c89e6b1129f0]
+## SCHEDULE 2 — FEES IN CONNECTION WITH LICENCES[^c-ad6e8e9c0ab00de3cb87c89e6b1129f0]
 
 Regulation 3(3)
 
@@ -165,7 +165,7 @@ Regulation 3(3)
 </tbody>
 </table>
 
-## SCHEDULE 3 — FEES FOR PLANT HEALTHCHECKS[^key-a449d6a196b220df280659b657c8ed24]
+## SCHEDULE 3 — FEES FOR PLANT HEALTHCHECKS[^c-a449d6a196b220df280659b657c8ed24]
 
 Regulation 3(4)(a)
 
@@ -182,9 +182,9 @@ Regulation 3(4)(a)
 </tbody>
 </table>
 
-[^key-9f1bd4e97b281114d0a7318761ae572a][^key-98dafb83bcf99c0dccc2c14379f47263]
+[^c-9f1bd4e97b281114d0a7318761ae572a][^c-98dafb83bcf99c0dccc2c14379f47263]
 
-## SCHEDULE 4 — FEES FOR DOCUMENTARY CHECKS AND IDENTITY CHECKS[^key-2e53c74832362234ad146673f2e62ec0]
+## SCHEDULE 4 — FEES FOR DOCUMENTARY CHECKS AND IDENTITY CHECKS[^c-2e53c74832362234ad146673f2e62ec0]
 
 Regulation 3(4)(b) and (c)
 
@@ -199,7 +199,7 @@ Regulation 3(4)(b) and (c)
 </tbody>
 </table>
 
-## SCHEDULE 4A — Fees in connection with an application for a phytosanitary certificate for export or phytosanitary certificate for re-export: Wales[^key-f7073b5b3b5d2dbd827af89fe3f6c8e5]
+## SCHEDULE 4A — Fees in connection with an application for a phytosanitary certificate for export or phytosanitary certificate for re-export: Wales[^c-f7073b5b3b5d2dbd827af89fe3f6c8e5]
 
 Regulation 3(5A)
 
@@ -215,7 +215,7 @@ Regulation 3(5A)
 </tbody>
 </table>
 
-## SCHEDULE 4B — Fees in connection with an application for a WPM authorisation[^key-46a422a014c42ef61f5b0e8407b55c27]
+## SCHEDULE 4B — Fees in connection with an application for a WPM authorisation[^c-46a422a014c42ef61f5b0e8407b55c27]
 
 Regulation 3(5B)
 
@@ -225,7 +225,7 @@ Regulation 3(5B)
 | Application for a renewal of an existing WPM authorisation | £120.00 |
 | Application for a re-assessment for the purposes a WPM authorisation | £120.00 |
 
-## SCHEDULE 5 — FEES FOR THE CARRYING OUT OR MONITORING OF REMEDIAL WORK[^key-a1c2cc8b32d6a2e75310c6fe18a9990f]
+## SCHEDULE 5 — FEES FOR THE CARRYING OUT OR MONITORING OF REMEDIAL WORK[^c-a1c2cc8b32d6a2e75310c6fe18a9990f]
 
 Regulation 3(6)
 
@@ -265,63 +265,63 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23631091]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68): section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-8a3d96a33ad53389f740cd71c9e81fd2]: Commencement: Reg. 1 in force at 28.3.2019, see reg. 1(3)
+[^c-8a3d96a33ad53389f740cd71c9e81fd2]: Commencement: Reg. 1 in force at 28.3.2019, see reg. 1(3)
 
-[^key-d05e87161db8d8f638e991ea50da8a10]: Textual amendment: Reg. 2 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [35(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/35/2)
+[^c-d05e87161db8d8f638e991ea50da8a10]: Textual amendment: Reg. 2 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [35(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/35/2)
 
-[^key-0d029069b58b4cd9b672763c919bf69a]: Textual amendment: Words in reg. 2(1) substituted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(a)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/a)
+[^c-0d029069b58b4cd9b672763c919bf69a]: Textual amendment: Words in reg. 2(1) substituted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(a)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/a)
 
-[^key-f4d772b2ad51a651eaac5c2784bdc5d7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/1) substituted (31.12.2020) by [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/735)](https://www.legislation.gov.uk/uksi/2019/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/735/regulation/1/2), [57(2)(a)](https://www.legislation.gov.uk/uksi/2019/735/regulation/57/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1492](https://www.legislation.gov.uk/uksi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2020/1492/regulation/2/a), [5(2)](https://www.legislation.gov.uk/uksi/2020/1492/regulation/5/2))
+[^c-f4d772b2ad51a651eaac5c2784bdc5d7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/1) substituted (31.12.2020) by [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/735)](https://www.legislation.gov.uk/uksi/2019/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/735/regulation/1/2), [57(2)(a)](https://www.legislation.gov.uk/uksi/2019/735/regulation/57/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1492](https://www.legislation.gov.uk/uksi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2020/1492/regulation/2/a), [5(2)](https://www.legislation.gov.uk/uksi/2020/1492/regulation/5/2))
 
-[^key-5dfcbeaa38b85637d2bec54d8f4c9bda]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/1) omitted (31.12.2020) by virtue of [S.I. 2019/735, reg. 57(2)(ca)](https://www.legislation.gov.uk/wsi/2019/735) (as inserted by [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1492)](https://www.legislation.gov.uk/wsi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/2/a), [5(3)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/5/3))
+[^c-5dfcbeaa38b85637d2bec54d8f4c9bda]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/1) omitted (31.12.2020) by virtue of [S.I. 2019/735, reg. 57(2)(ca)](https://www.legislation.gov.uk/wsi/2019/735) (as inserted by [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1492)](https://www.legislation.gov.uk/wsi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/2/a), [5(3)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/5/3))
 
-[^key-0eeb6ab3100c3443b6b96926a466d6eb]: Textual amendment: Words in reg. 2(1) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(b)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/b)
+[^c-0eeb6ab3100c3443b6b96926a466d6eb]: Textual amendment: Words in reg. 2(1) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(b)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/b)
 
-[^key-bd4021c249c6b89ffe37c4651e41249b]: Textual amendment: Words in reg. 2(1) substituted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(c)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/c)
+[^c-bd4021c249c6b89ffe37c4651e41249b]: Textual amendment: Words in reg. 2(1) substituted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(c)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/c)
 
-[^key-6069974f97725c694975f7307267d9d9]: Textual amendment: Words in reg. 2(1) inserted (13.11.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1134)](https://www.legislation.gov.uk/wsi/2020/1134), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1134/regulation/1), [4](https://www.legislation.gov.uk/wsi/2020/1134/regulation/4)
+[^c-6069974f97725c694975f7307267d9d9]: Textual amendment: Words in reg. 2(1) inserted (13.11.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1134)](https://www.legislation.gov.uk/wsi/2020/1134), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1134/regulation/1), [4](https://www.legislation.gov.uk/wsi/2020/1134/regulation/4)
 
-[^key-7b6140d92d5eb04be8276ba52d6bd993]: Textual amendment: Words in reg. 2(1) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(d)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/d)
+[^c-7b6140d92d5eb04be8276ba52d6bd993]: Textual amendment: Words in reg. 2(1) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(d)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/d)
 
-[^key-8f643ada162b31e4d236bf7c884f4734]: Textual amendment: Words in reg. 2(1) omitted (27.3.2020) by virtue of [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(h)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/h)
+[^c-8f643ada162b31e4d236bf7c884f4734]: Textual amendment: Words in reg. 2(1) omitted (27.3.2020) by virtue of [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(h)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/h)
 
-[^key-eff6db6932e5cd0c56ef95467fbf2d05]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/1) omitted (31.12.2020) by virtue of [S.I. 2019/735, reg. 57(2)(da)](https://www.legislation.gov.uk/wsi/2019/735) (as inserted by [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1492)](https://www.legislation.gov.uk/wsi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/2/a), [5(4)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/5/4))
+[^c-eff6db6932e5cd0c56ef95467fbf2d05]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/1) omitted (31.12.2020) by virtue of [S.I. 2019/735, reg. 57(2)(da)](https://www.legislation.gov.uk/wsi/2019/735) (as inserted by [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1492)](https://www.legislation.gov.uk/wsi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/2/a), [5(4)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/5/4))
 
-[^key-77bb1262e8369a9b0d524cefd1c8f184]: Textual amendment: Words in reg. 2(1) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(f)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/f)
+[^c-77bb1262e8369a9b0d524cefd1c8f184]: Textual amendment: Words in reg. 2(1) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(f)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/f)
 
-[^key-cdd9e074d8f1246f40e5d4f4ebe6f17f]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/735)](https://www.legislation.gov.uk/uksi/2019/735), [reg. 57(2)(f)](https://www.legislation.gov.uk/uksi/2019/735/regulation/57/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1492](https://www.legislation.gov.uk/uksi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2020/1492/regulation/2/a), [5(5)](https://www.legislation.gov.uk/uksi/2020/1492/regulation/5/5))
+[^c-cdd9e074d8f1246f40e5d4f4ebe6f17f]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/735)](https://www.legislation.gov.uk/uksi/2019/735), [reg. 57(2)(f)](https://www.legislation.gov.uk/uksi/2019/735/regulation/57/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1492](https://www.legislation.gov.uk/uksi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2020/1492/regulation/2/a), [5(5)](https://www.legislation.gov.uk/uksi/2020/1492/regulation/5/5))
 
-[^key-2d3025bd357dd9db6796777a1c358f36]: Textual amendment: Words in reg. 2(1) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(g)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/g)
+[^c-2d3025bd357dd9db6796777a1c358f36]: Textual amendment: Words in reg. 2(1) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(g)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/g)
 
-[^key-fe9be540190af346374c918e2e329d3c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2019/497/regulation/2) inserted (17.6.2021) by [The Plant Health (Fees) (Forestry) (Wales) (Amendment) Regulations 2021 (S.I. 2021/710)](https://www.legislation.gov.uk/wsi/2021/710), [regs. 1](https://www.legislation.gov.uk/wsi/2021/710/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2021/710/regulation/2/2)
+[^c-fe9be540190af346374c918e2e329d3c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2019/497/regulation/2) inserted (17.6.2021) by [The Plant Health (Fees) (Forestry) (Wales) (Amendment) Regulations 2021 (S.I. 2021/710)](https://www.legislation.gov.uk/wsi/2021/710), [regs. 1](https://www.legislation.gov.uk/wsi/2021/710/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2021/710/regulation/2/2)
 
-[^key-630018d4a3df9d5f9dea419e4ef6bbef]: Textual amendment: Words in reg. 2(1) omitted (27.3.2020) by virtue of [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(i)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/i)
+[^c-630018d4a3df9d5f9dea419e4ef6bbef]: Textual amendment: Words in reg. 2(1) omitted (27.3.2020) by virtue of [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(i)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/i)
 
-[^key-3b849b60f98088c950eabf99ff315a91]: Textual amendment: Words in reg. 2(1) substituted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(j)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/j)
+[^c-3b849b60f98088c950eabf99ff315a91]: Textual amendment: Words in reg. 2(1) substituted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(j)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/j)
 
-[^key-165f47362ae238c1bee3808a11b93147]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/1) omitted (31.12.2020) by virtue of [S.I. 2019/735, reg. 57(2)(g)](https://www.legislation.gov.uk/wsi/2019/735) (as inserted by [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1492)](https://www.legislation.gov.uk/wsi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/2/a), [5(6)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/5/6))
+[^c-165f47362ae238c1bee3808a11b93147]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/1) omitted (31.12.2020) by virtue of [S.I. 2019/735, reg. 57(2)(g)](https://www.legislation.gov.uk/wsi/2019/735) (as inserted by [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1492)](https://www.legislation.gov.uk/wsi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/2/a), [5(6)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/5/6))
 
-[^key-14c2ed6d8addd05824ed2dcec4e60bb2]: Textual amendment: Words in reg. 2(1) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(k)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/k)
+[^c-14c2ed6d8addd05824ed2dcec4e60bb2]: Textual amendment: Words in reg. 2(1) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(2)(k)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/2/k)
 
-[^key-61643d4fc4d9f24adfa389b71611e23b]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/2) omitted (31.12.2020) by virtue of [W.S.I. 2019/735, reg. 57(2)(h)](https://www.legislation.gov.uk/wsi/2019/735) (as inserted by [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1492)](https://www.legislation.gov.uk/wsi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/2/a), [5(6)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/5/6))
+[^c-61643d4fc4d9f24adfa389b71611e23b]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2019/497/regulation/2/2) omitted (31.12.2020) by virtue of [W.S.I. 2019/735, reg. 57(2)(h)](https://www.legislation.gov.uk/wsi/2019/735) (as inserted by [The Plant Health (Forestry) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1492)](https://www.legislation.gov.uk/wsi/2020/1492), [regs. 2(a)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/2/a), [5(6)](https://www.legislation.gov.uk/wsi/2020/1492/regulation/5/6))
 
-[^key-174e4a8d60b32915888820e66be99c35]: Commencement: Reg. 3 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/497/regulation/1/3)
+[^c-174e4a8d60b32915888820e66be99c35]: Commencement: Reg. 3 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/497/regulation/1/3)
 
-[^key-0d08234081876bd78136fdadb0e2ca05]: Textual amendment: Reg. 3(5A)(5B) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [35(3)](https://www.legislation.gov.uk/wsi/2020/44/regulation/35/3)
+[^c-0d08234081876bd78136fdadb0e2ca05]: Textual amendment: Reg. 3(5A)(5B) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [35(3)](https://www.legislation.gov.uk/wsi/2020/44/regulation/35/3)
 
-[^key-52d2a592fa739955e9e4ca4af0cb8275]: Textual amendment: Words in [reg. 3(5A)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/5A) substituted (30.12.2023) by [The Plant Health etc. (Miscellaneous Fees) (Amendment) (Wales) Regulations 2023 (S.I. 2023/1380)](https://www.legislation.gov.uk/wsi/2023/1380), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/3/2/a)
+[^c-52d2a592fa739955e9e4ca4af0cb8275]: Textual amendment: Words in [reg. 3(5A)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/5A) substituted (30.12.2023) by [The Plant Health etc. (Miscellaneous Fees) (Amendment) (Wales) Regulations 2023 (S.I. 2023/1380)](https://www.legislation.gov.uk/wsi/2023/1380), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/3/2/a)
 
-[^key-ca2abdffe835ec73c2fe01d7c2e1bb47]: Textual amendment: [Reg. 3(5C)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/5C) omitted (30.12.2023) by virtue of [The Plant Health etc. (Miscellaneous Fees) (Amendment) (Wales) Regulations 2023 (S.I. 2023/1380)](https://www.legislation.gov.uk/wsi/2023/1380), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/3/2/b)
+[^c-ca2abdffe835ec73c2fe01d7c2e1bb47]: Textual amendment: [Reg. 3(5C)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/5C) omitted (30.12.2023) by virtue of [The Plant Health etc. (Miscellaneous Fees) (Amendment) (Wales) Regulations 2023 (S.I. 2023/1380)](https://www.legislation.gov.uk/wsi/2023/1380), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/3/2/b)
 
-[^key-9730897feecee13c103211bccb8eb9d7]: Textual amendment: [Reg. 3(5D)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/5D) omitted (30.12.2023) by virtue of [The Plant Health etc. (Miscellaneous Fees) (Amendment) (Wales) Regulations 2023 (S.I. 2023/1380)](https://www.legislation.gov.uk/wsi/2023/1380), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/3/2/b)
+[^c-9730897feecee13c103211bccb8eb9d7]: Textual amendment: [Reg. 3(5D)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/5D) omitted (30.12.2023) by virtue of [The Plant Health etc. (Miscellaneous Fees) (Amendment) (Wales) Regulations 2023 (S.I. 2023/1380)](https://www.legislation.gov.uk/wsi/2023/1380), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/3/2/b)
 
-[^key-7e3bf67d9e1aef611e47fc13591408ff]: Textual amendment: [Reg. 3(5E)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/5E)[(5F)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/5F) inserted (30.12.2023) by [The Plant Health etc. (Miscellaneous Fees) (Amendment) (Wales) Regulations 2023 (S.I. 2023/1380)](https://www.legislation.gov.uk/wsi/2023/1380), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/3/2/c)
+[^c-7e3bf67d9e1aef611e47fc13591408ff]: Textual amendment: [Reg. 3(5E)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/5E)[(5F)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/5F) inserted (30.12.2023) by [The Plant Health etc. (Miscellaneous Fees) (Amendment) (Wales) Regulations 2023 (S.I. 2023/1380)](https://www.legislation.gov.uk/wsi/2023/1380), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/wsi/2023/1380/regulation/3/2/c)
 
-[^key-c41b60c998e1992a030868942f68375f]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/6) omitted (27.3.2020) by virtue of [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(3)(a)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/3/a)
+[^c-c41b60c998e1992a030868942f68375f]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/6) omitted (27.3.2020) by virtue of [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(3)(a)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/3/a)
 
-[^key-c25999c5c2259e2d7cf7d5d561e0f4d5]: Textual amendment: [Reg. 3(6A)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/6A) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(3)(b)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/3/b)
+[^c-c25999c5c2259e2d7cf7d5d561e0f4d5]: Textual amendment: [Reg. 3(6A)](https://www.legislation.gov.uk/wsi/2019/497/regulation/3/6A) inserted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 5 para. 5(3)(b)](https://www.legislation.gov.uk/wsi/2020/206/schedule/5/paragraph/5/3/b)
 
-[^key-c10981dc5ddb6ff7ccbab99b02d4a88d]: Commencement: Reg. 4 in force at 28.3.2019, see reg. 1(3)
+[^c-c10981dc5ddb6ff7ccbab99b02d4a88d]: Commencement: Reg. 4 in force at 28.3.2019, see reg. 1(3)
 
 [^c23631121]: Marginal citation: [S.I. 2006/2697](https://www.legislation.gov.uk/uksi/2006/2697), as amended by [S.I. 2008/702](https://www.legislation.gov.uk/uksi/2008/702), 2009/2956, 2010/2001, 2013/755.
 
@@ -331,20 +331,20 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23631151]: Marginal citation: [S.I. 2010/2001](https://www.legislation.gov.uk/uksi/2010/2001).
 
-[^key-7545303cfc623eb4c3e3311b36f124fa]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2019/497/schedule/1) substituted (5.8.2021) by [The Plant Health (Fees) (Forestry) (Wales) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/838)](https://www.legislation.gov.uk/wsi/2021/838), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/838/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/838/regulation/2/2)
+[^c-7545303cfc623eb4c3e3311b36f124fa]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2019/497/schedule/1) substituted (5.8.2021) by [The Plant Health (Fees) (Forestry) (Wales) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/838)](https://www.legislation.gov.uk/wsi/2021/838), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/838/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/838/regulation/2/2)
 
-[^key-ad6e8e9c0ab00de3cb87c89e6b1129f0]: Commencement: Sch. 2 in force at 28.3.2019, see reg. 1(3)
+[^c-ad6e8e9c0ab00de3cb87c89e6b1129f0]: Commencement: Sch. 2 in force at 28.3.2019, see reg. 1(3)
 
-[^key-a449d6a196b220df280659b657c8ed24]: Commencement: Sch. 3 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/497/regulation/1/3)
+[^c-a449d6a196b220df280659b657c8ed24]: Commencement: Sch. 3 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/497/regulation/1/3)
 
-[^key-9f1bd4e97b281114d0a7318761ae572a]: Textual amendment: Word in [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2019/497/schedule/3/paragraph/1) table substituted (17.6.2021) by [The Plant Health (Fees) (Forestry) (Wales) (Amendment) Regulations 2021 (S.I. 2021/710)](https://www.legislation.gov.uk/wsi/2021/710), [regs. 1](https://www.legislation.gov.uk/wsi/2021/710/regulation/1), [3(1)](https://www.legislation.gov.uk/wsi/2021/710/regulation/3/1)
+[^c-9f1bd4e97b281114d0a7318761ae572a]: Textual amendment: Word in [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2019/497/schedule/3/paragraph/1) table substituted (17.6.2021) by [The Plant Health (Fees) (Forestry) (Wales) (Amendment) Regulations 2021 (S.I. 2021/710)](https://www.legislation.gov.uk/wsi/2021/710), [regs. 1](https://www.legislation.gov.uk/wsi/2021/710/regulation/1), [3(1)](https://www.legislation.gov.uk/wsi/2021/710/regulation/3/1)
 
-[^key-98dafb83bcf99c0dccc2c14379f47263]: Textual amendment: Word in [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2019/497/schedule/3/paragraph/1) table substituted (17.6.2021) by [The Plant Health (Fees) (Forestry) (Wales) (Amendment) Regulations 2021 (S.I. 2021/710)](https://www.legislation.gov.uk/wsi/2021/710), [regs. 1](https://www.legislation.gov.uk/wsi/2021/710/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2021/710/regulation/3/2)
+[^c-98dafb83bcf99c0dccc2c14379f47263]: Textual amendment: Word in [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2019/497/schedule/3/paragraph/1) table substituted (17.6.2021) by [The Plant Health (Fees) (Forestry) (Wales) (Amendment) Regulations 2021 (S.I. 2021/710)](https://www.legislation.gov.uk/wsi/2021/710), [regs. 1](https://www.legislation.gov.uk/wsi/2021/710/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2021/710/regulation/3/2)
 
-[^key-2e53c74832362234ad146673f2e62ec0]: Commencement: Sch. 4 in force at 28.3.2019, see reg. 1(3)
+[^c-2e53c74832362234ad146673f2e62ec0]: Commencement: Sch. 4 in force at 28.3.2019, see reg. 1(3)
 
-[^key-f7073b5b3b5d2dbd827af89fe3f6c8e5]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/wsi/2019/497/schedule/4A) substituted (5.8.2021) by [The Plant Health (Fees) (Forestry) (Wales) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/838)](https://www.legislation.gov.uk/wsi/2021/838), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/838/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/838/regulation/2/3)
+[^c-f7073b5b3b5d2dbd827af89fe3f6c8e5]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/wsi/2019/497/schedule/4A) substituted (5.8.2021) by [The Plant Health (Fees) (Forestry) (Wales) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/838)](https://www.legislation.gov.uk/wsi/2021/838), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/838/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/838/regulation/2/3)
 
-[^key-46a422a014c42ef61f5b0e8407b55c27]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/wsi/2019/497/schedule/4A), [Sch. 4B](https://www.legislation.gov.uk/wsi/2019/497/schedule/4B) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [35(4)](https://www.legislation.gov.uk/wsi/2020/44/regulation/35/4)
+[^c-46a422a014c42ef61f5b0e8407b55c27]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/wsi/2019/497/schedule/4A), [Sch. 4B](https://www.legislation.gov.uk/wsi/2019/497/schedule/4B) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [35(4)](https://www.legislation.gov.uk/wsi/2020/44/regulation/35/4)
 
-[^key-a1c2cc8b32d6a2e75310c6fe18a9990f]: Commencement: Sch. 5 in force at 28.3.2019, see reg. 1(3)
+[^c-a1c2cc8b32d6a2e75310c6fe18a9990f]: Commencement: Sch. 5 in force at 28.3.2019, see reg. 1(3)

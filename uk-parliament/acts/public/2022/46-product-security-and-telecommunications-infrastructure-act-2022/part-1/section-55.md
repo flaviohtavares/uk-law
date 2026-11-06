@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Meaning of “supply”[^key-2c27b2ce9d4ce3a0ee858a2a0c610a2b][^key-944b52710157b26e18c780dc47a45293]
+## 55. Meaning of “supply”[^c-2c27b2ce9d4ce3a0ee858a2a0c610a2b][^c-944b52710157b26e18c780dc47a45293]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,6 +77,6 @@ the effective supplier and not the ostensible supplier is to be regarded as supp
 
 ## Annotations
 
-[^key-2c27b2ce9d4ce3a0ee858a2a0c610a2b]: Commencement: S. 55 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-2c27b2ce9d4ce3a0ee858a2a0c610a2b]: Commencement: S. 55 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-944b52710157b26e18c780dc47a45293]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2022/46/section/55) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-944b52710157b26e18c780dc47a45293]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2022/46/section/55) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

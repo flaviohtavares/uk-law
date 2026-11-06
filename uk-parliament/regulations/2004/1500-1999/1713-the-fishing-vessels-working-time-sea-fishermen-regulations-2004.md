@@ -64,7 +64,7 @@ These Regulations may be cited as the Fishing Vessels (Working Time: Sea-fisherm
 - “**collective agreement**” means a collective agreement within the meaning of section 178 of the Trade Union and Labour Relations (Consolidation) Act 1992 [^c5394561], the trade union parties to which are independent trade unions within the meaning of section 5 of that Act;
 - “**employer**”, in relation to a worker, means the person by whom the worker is (or, where the employment has ceased, was) employed;
 - “**employment**”, in relation to a worker, means employment under his contract of employment, and “**employed**” shall be construed accordingly;
-- “fisherman” means every person employed, engaged or working in any capacity on board any fishing vessel, but does not include a person solely engaged as a pilot for the vessel;[^key-d467e3c78c635d8eb0101a600fbd256e]
+- “fisherman” means every person employed, engaged or working in any capacity on board any fishing vessel, but does not include a person solely engaged as a pilot for the vessel;[^c-d467e3c78c635d8eb0101a600fbd256e]
 - “fishing vessel owner” means the owner of the fishing vessel or any other organisation or person such as the manager, agent or bareboat charterer, who has assumed the responsibility for the operation of the vessel from the owner;
 - “**MCA**” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport;
 - “**Merchant Shipping Notice**” means a notice described as such and issued by the MCA;
@@ -117,10 +117,10 @@ These Regulations apply to Northern Ireland with the following modifications–
 
 *Extent: N.I.*
 
-- (da)[^key-045c24b6935560db0b4a03dfd1497dd1] in regulation 19A(1)(a) for the words “subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings)” substitute “paragraph (1) of Article 20A of the Industrial Tribunals (Northern Ireland) Order 1996 (requirement to contact the Labour Relations Agency before instituting proceedings)”;
+- (da)[^c-045c24b6935560db0b4a03dfd1497dd1] in regulation 19A(1)(a) for the words “subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings)” substitute “paragraph (1) of Article 20A of the Industrial Tribunals (Northern Ireland) Order 1996 (requirement to contact the Labour Relations Agency before instituting proceedings)”;
 - (db (Extent: N.I.)) in regulation 19A(1)(b) for the words “(by virtue of regulations made under subsection (11) of that section) the certificate issued under subsection (4) of that section” substitute “(by virtue of regulations made under paragraph (11) of that Article) the certificate issued under paragraph (4) of that Article”; *(Extent: N.I.)*
-- (e) in regulation 20(2)(a) for the words “a conciliation officer has taken action under any of sections 18A to 18C[^key-dd0204970659014134e0f65048e28cb2] of the Employment Tribunals Act 1996 (conciliation)” there shall be substituted the words “the Labour Relations Agency has taken action under Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 [^c5394611] (conciliation)”;
-- (f) in regulation 20(2)(b) for the words “section 18(1)(r)[^key-4478ac819e709a75701028ce403742bb] of the Employment Tribunals Act 1996” there shall be substituted the words “Article 20(1)(l) of the Industrial Tribunals (Northern Ireland) Order 1996”.
+- (e) in regulation 20(2)(a) for the words “a conciliation officer has taken action under any of sections 18A to 18C[^c-dd0204970659014134e0f65048e28cb2] of the Employment Tribunals Act 1996 (conciliation)” there shall be substituted the words “the Labour Relations Agency has taken action under Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 [^c5394611] (conciliation)”;
+- (f) in regulation 20(2)(b) for the words “section 18(1)(r)[^c-4478ac819e709a75701028ce403742bb] of the Employment Tribunals Act 1996” there shall be substituted the words “Article 20(1)(l) of the Industrial Tribunals (Northern Ireland) Order 1996”.
 
 ## PART 2 — RIGHTS AND OBLIGATIONS CONCERNING WORKING TIME
 
@@ -169,7 +169,7 @@ C is the number of weeks in the reference period.
 
 (4) The rest periods referred to in paragraph (3)(a) above may be divided into no more than two periods, one of which shall be at least six hours in length; and the interval between consecutive rest periods shall not exceed 14 hours.
 
-(5)[^key-bac3a1b9f736bf80ac20dc2b33dd494e] Paragraphs (1) to (3) also apply to fishermen.
+(5)[^c-bac3a1b9f736bf80ac20dc2b33dd494e] Paragraphs (1) to (3) also apply to fishermen.
 
 ### 8. Health assessment and transfer of night workers to day work
 
@@ -204,7 +204,7 @@ Where the pattern according to which an employer organises work is such as to pu
 
 ### 10. Records
 
-An employer or fishing vessel owner[^key-716c1654d421354c6ccb83501ea7a1ff] shall–
+An employer or fishing vessel owner[^c-716c1654d421354c6ccb83501ea7a1ff] shall–
 
 - (a) keep records which are adequate to show whether regulations 6(1), 7(1), (3) and (4) and 8(1) are being complied with in the case of each worker or fisherman employed by him in relation to whom they apply; and
 - (b) retain such records for two years from the date on which they are made.
@@ -233,7 +233,7 @@ An employer or fishing vessel owner[^key-716c1654d421354c6ccb83501ea7a1ff] shall
 
 (7) Any contractual remuneration paid to a worker in respect of a period of leave goes towards discharging any liability of the employer to make payments under this regulation in respect of that period; and, conversely, any payment of remuneration under this regulation in respect of a period goes towards discharging any liability of the employer to pay contractual remuneration in respect of that period.
 
-**11A.**[^key-b89c205bc45e9186fcc8a1bd8ecaf7e8] (1) Subject to paragraph (4), a worker is entitled in each leave year to a period of leave in addition to the entitlement under regulation 11 (“additional leave”) determined in accordance with paragraph (2) and to be paid for any such leave at the rate of a week’s pay in respect of each week of leave.
+**11A.**[^c-b89c205bc45e9186fcc8a1bd8ecaf7e8] (1) Subject to paragraph (4), a worker is entitled in each leave year to a period of leave in addition to the entitlement under regulation 11 (“additional leave”) determined in accordance with paragraph (2) and to be paid for any such leave at the rate of a week’s pay in respect of each week of leave.
 
 (2) The period of additional leave to which a worker is entitled under paragraph (1) is—
 
@@ -258,8 +258,8 @@ Where during any period a worker is entitled to a rest period or annual leave bo
 
 (1) The Secretary of State may grant an exception from the limit in regulation 6(1) or the requirements of regulation 7(3) and 7(4) for objective or technical reasons or reasons concerning the organisation of work if–
 
-- (a) he has first (so far as is possible) consulted representatives of the employers fishing vessel owners, fishermen[^key-7aae7f0fea8d389fca3e06c63d3adaf3] and workers concerned, and
-- (b) the exception is subject to such conditions and limitations as will protect the health and safety of workers and fishermen[^key-0f626e3348a2e62db8628ae067958ffe].
+- (a) he has first (so far as is possible) consulted representatives of the employers fishing vessel owners, fishermen[^c-7aae7f0fea8d389fca3e06c63d3adaf3] and workers concerned, and
+- (b) the exception is subject to such conditions and limitations as will protect the health and safety of workers and fishermen[^c-0f626e3348a2e62db8628ae067958ffe].
 
 (2) The Secretary of State may, on giving reasonable notice and after consulting such persons (if any) as he considers may be affected, alter or cancel any exception granted under paragraph (1).
 
@@ -283,7 +283,7 @@ Where during any period a worker is entitled to a rest period or annual leave bo
 
 ### 14. Emergencies
 
-(1) Nothing in these Regulations prevents the master of a fishing vessel from requiring a worker or fisherman[^key-d8aa7db03dc4d95ca74ef9afaba4b3fd] to work any hours of work necessary for the immediate safety of the fishing vessel, persons on board the fishing vessel or cargo or for the purpose of giving assistance to another ship or to a person in distress at sea.
+(1) Nothing in these Regulations prevents the master of a fishing vessel from requiring a worker or fisherman[^c-d8aa7db03dc4d95ca74ef9afaba4b3fd] to work any hours of work necessary for the immediate safety of the fishing vessel, persons on board the fishing vessel or cargo or for the purpose of giving assistance to another ship or to a person in distress at sea.
 
 (2) For the purposes of this regulation the word “**vessel**” includes her fishing gear and the word “**cargo**” includes the catch of a fishing vessel.
 
@@ -341,7 +341,7 @@ the fishing vessel may be detained until the worker has had sufficient rest to r
 - (a) before the end of the period of three months beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period or leave extending over more than one day, the date on which it should have been permitted to begin) or, as the case may be, the payment should have been made;
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-397e5c0b0aeda15b68ed9c5fa522ae87] Regulation 19A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-397e5c0b0aeda15b68ed9c5fa522ae87] Regulation 19A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) Where an employment tribunal finds a complaint under paragraph (1)(a) well-founded, the tribunal–
 
@@ -355,7 +355,7 @@ the fishing vessel may be detained until the worker has had sufficient rest to r
 
 (5) Where on a complaint under paragraph (1)(b) an employment tribunal finds that an employer has failed to pay a worker in accordance with regulation 11(1), it shall order the employer to pay to the worker the amount which it finds to be due to him.
 
-### 19A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-387a97aaf1701afbe4da742586795f68]
+### 19A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-387a97aaf1701afbe4da742586795f68]
 
 (1) In this regulation—
 
@@ -377,10 +377,10 @@ the fishing vessel may be detained until the worker has had sufficient rest to r
 
 (2) Paragraph (1) does not apply to–
 
-- (a) any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of sections 18A to 18C[^key-3bd5271c78158e81c27a4ff3eb7e2c5d] of the Employment Tribunals Act 1996 [^c5394641] (conciliation); or
-- (b) any agreement to refrain from instituting or continuing proceedings within section 18(1)(r)[^key-e69c5600c017b1904b3ace6a3a520834] of the Employment Tribunals Act 1996 (proceedings under these Regulations where conciliation is available), if the conditions regulating settlement[^key-b0143800f425949f9e93c3c0be0c0aa4] agreements under these Regulations are satisfied in relation to the agreement.
+- (a) any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of sections 18A to 18C[^c-3bd5271c78158e81c27a4ff3eb7e2c5d] of the Employment Tribunals Act 1996 [^c5394641] (conciliation); or
+- (b) any agreement to refrain from instituting or continuing proceedings within section 18(1)(r)[^c-e69c5600c017b1904b3ace6a3a520834] of the Employment Tribunals Act 1996 (proceedings under these Regulations where conciliation is available), if the conditions regulating settlement[^c-b0143800f425949f9e93c3c0be0c0aa4] agreements under these Regulations are satisfied in relation to the agreement.
 
-(3) For the purposes of paragraph (2)(b) the conditions regulating settlement[^key-d3af30ab35bda16e7a36c58aeb54c40d] agreements under these Regulations are that–
+(3) For the purposes of paragraph (2)(b) the conditions regulating settlement[^c-d3af30ab35bda16e7a36c58aeb54c40d] agreements under these Regulations are that–
 
 - (a) the agreement must be in writing,
 - (b) the agreement must relate to the particular complaint,
@@ -403,7 +403,7 @@ the fishing vessel may be detained until the worker has had sufficient rest to r
 
 (6) In paragraph (4)(a), “**qualified lawyer**” means–
 
-- (a) as respects England and Wales, a a person who, for the purposes of the Legal Services Act 2007), is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act)[^key-8f60cd063440a7166e486cc480c7b835];
+- (a) as respects England and Wales, a a person who, for the purposes of the Legal Services Act 2007), is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act)[^c-8f60cd063440a7166e486cc480c7b835];
 - (b) as respects Scotland, an advocate (whether in practice as such or employed to give legal advice), or a solicitor who holds a practising certificate; and
 - (c) as respects Northern Ireland, a barrister (whether in practice as such or employed to give legal advice), or a solicitor who holds a practising certificate.
 
@@ -414,7 +414,7 @@ the fishing vessel may be detained until the worker has had sufficient rest to r
 
 and “**associated employer**” shall be construed accordingly.
 
-(8)[^key-d30fa43986207088f0656386bb30e4ed] In the application of this regulation in relation to Northern Ireland, paragraphs (2) and (3) above shall have effect as if for “settlement agreements” (in each place where those words occur) there were substituted “compromise agreements.
+(8)[^c-d30fa43986207088f0656386bb30e4ed] In the application of this regulation in relation to Northern Ireland, paragraphs (2) and (3) above shall have effect as if for “settlement agreements” (in each place where those words occur) there were substituted “compromise agreements.
 
 ### 21. Amendments to legislation
 
@@ -591,7 +591,7 @@ Merchant Shipping Notices are published by the Maritime and Coastguard Agency. C
 
 [^c5394561]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52) The Trade Union and Labour Relations (Consolidation) Act 1992 has been amended but the amendments are not relevant.
 
-[^key-d467e3c78c635d8eb0101a600fbd256e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/2/1) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/2)
+[^c-d467e3c78c635d8eb0101a600fbd256e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/2/1) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/2)
 
 [^c5394571]: Marginal citation: OJ No. L 307, 13.12.1993, p.18; amended by Directive 2000/34/EC of the European Parliament and of the Council, OJ No. L 195, 1.8.2000, p.41.
 
@@ -601,47 +601,47 @@ Merchant Shipping Notices are published by the Maritime and Coastguard Agency. C
 
 [^c5394601]: Marginal citation: [S.I. 1996/1919 (N.I.16)](https://www.legislation.gov.uk/nisi/1996/1919).
 
-[^key-045c24b6935560db0b4a03dfd1497dd1]: Textual amendment: Reg. 4(da)(db) inserted (N.I.) (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 28(2)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/28/2)
+[^c-045c24b6935560db0b4a03dfd1497dd1]: Textual amendment: Reg. 4(da)(db) inserted (N.I.) (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 28(2)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/28/2)
 
-[^key-dd0204970659014134e0f65048e28cb2]: Textual amendment: Words in reg. 4(e) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/27)
+[^c-dd0204970659014134e0f65048e28cb2]: Textual amendment: Words in reg. 4(e) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/27)
 
 [^c5394611]: Marginal citation: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921); Article 20 was amended by paragraph 10 of Schedule 2 to the Race Relations (Northern Ireland) Order 1997, [S.I. 1997/869 (N.I. 6)](https://www.legislation.gov.uk/nisi/1997/869); by paragraph 20 of Schedule 1 to the Employment Rights (Dispute Resolution) (Northern Ireland) Order 1998, [S.I. 1998/1265 (N.I. 8)](https://www.legislation.gov.uk/nisi/1998/1265); by section 30(2) of the [National Minimum Wage Act 1998 (c. 39)](https://www.legislation.gov.uk/ukpga/1998/39); by paragraph 5 of Schedule 2 to the Employment (Northern Ireland) Order 2002, [S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836); by regulation 33 of the Working Time Regulations (Northern Ireland) 1998, S.R. (N.I.) [1998 No. 386](https://www.legislation.gov.uk/ukcm/1998/386); by regulation 33(2) of the Transnational Information and Consultation of Employees Regulations 1999, [S.I. 1999/3233](https://www.legislation.gov.uk/uksi/1999/3233); by paragraph 2 of the Schedule to the Part-Time Workers (Prevention of Less Favourable Treatment) Regulations (Northern Ireland) 2000, S.R. (N.I.) [2000 No. 219](https://www.legislation.gov.uk/ukcm/2000/219); by paragraph 3 of Part I of Schedule 2 to the Fixed-Term Employees (Prevention of Less Favourable Treatment) Regulations (Northern Ireland) 2002, S.R. (N.I.) [2002 No. 298](https://www.legislation.gov.uk/ukcm/2002/298); by paragraph 5 of Schedule 2 to the Merchant Shipping (Working Time: Inland Waterways) Regulations 2003, [S.I. 2003/3049](https://www.legislation.gov.uk/uksi/2003/3049); by paragraph 1 of Schedule 5 to the Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003 S.R. (N.I.) [2003 No. 497](https://www.legislation.gov.uk/ukcm/2003/497); by regulations 3 and 30 of the Disability Discrimination Act 1995 (Amendment) Regulations (Northern Ireland) 2004, S.R. (N.I.) 2004 No 55 and by paragraph 4 of Schedule 2 to these Regulations..
 
-[^key-4478ac819e709a75701028ce403742bb]: Textual amendment: Words in reg. 4(f) substituted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 33(a)](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/33/a)
+[^c-4478ac819e709a75701028ce403742bb]: Textual amendment: Words in reg. 4(f) substituted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 33(a)](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/33/a)
 
-[^key-bac3a1b9f736bf80ac20dc2b33dd494e]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/7/5) added (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/3)
+[^c-bac3a1b9f736bf80ac20dc2b33dd494e]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/7/5) added (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/3)
 
-[^key-716c1654d421354c6ccb83501ea7a1ff]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2004/1713/regulation/10) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/4)
+[^c-716c1654d421354c6ccb83501ea7a1ff]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2004/1713/regulation/10) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/4)
 
 [^c5394621]: Marginal citation: 1996 c .18
 
-[^key-b89c205bc45e9186fcc8a1bd8ecaf7e8]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2004/1713/regulation/11A) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/5)
+[^c-b89c205bc45e9186fcc8a1bd8ecaf7e8]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2004/1713/regulation/11A) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/5)
 
-[^key-7aae7f0fea8d389fca3e06c63d3adaf3]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/13/1/a) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(6)(a)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/6/a)
+[^c-7aae7f0fea8d389fca3e06c63d3adaf3]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/13/1/a) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(6)(a)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/6/a)
 
-[^key-0f626e3348a2e62db8628ae067958ffe]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/13/1/b) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(6)(b)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/6/b)
+[^c-0f626e3348a2e62db8628ae067958ffe]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/13/1/b) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(6)(b)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/6/b)
 
-[^key-d8aa7db03dc4d95ca74ef9afaba4b3fd]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/14/1) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/7)
+[^c-d8aa7db03dc4d95ca74ef9afaba4b3fd]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/14/1) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/8/7)
 
 [^c5394631]: Marginal citation: Section 284 was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1, paragraph 5 (c.28).
 
-[^key-397e5c0b0aeda15b68ed9c5fa522ae87]: Textual amendment: [Reg. 19(2A)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/19/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/28)
+[^c-397e5c0b0aeda15b68ed9c5fa522ae87]: Textual amendment: [Reg. 19(2A)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/19/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/28)
 
-[^key-387a97aaf1701afbe4da742586795f68]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2004/1713/regulation/19A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/29)
+[^c-387a97aaf1701afbe4da742586795f68]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2004/1713/regulation/19A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/29)
 
-[^key-3bd5271c78158e81c27a4ff3eb7e2c5d]: Textual amendment: Words in [reg. 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/20/2/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/30)
+[^c-3bd5271c78158e81c27a4ff3eb7e2c5d]: Textual amendment: Words in [reg. 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/20/2/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/30)
 
 [^c5394641]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17); section 1(2) of the [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) provides for the Industrial Tribunals Act 1996 to be cited as the Employment Tribunals Act 1996. Section 18 was amended by the [National Minimum Wage Act 1998 (c. 39)](https://www.legislation.gov.uk/ukpga/1998/39), [section 30(1)](https://www.legislation.gov.uk/ukpga/1998/39/section/30/1); the Working Time Regulations 1998, [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833), [regulation 33](https://www.legislation.gov.uk/uksi/1998/1833/regulation/33); the Transnational Information and Consultation of Employees Regulations 1999, [S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323), [regulation 33(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/33/1); the Employment Tribunals Act (Application of Conciliation Provisions) Order 2000 [S.I. 2000/1299](https://www.legislation.gov.uk/uksi/2000/1299) article 2; the Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000, [S.I. 2000/1551](https://www.legislation.gov.uk/uksi/2000/1551), [Sch](https://www.legislation.gov.uk/uksi/2000/1551/schedule)edule, paragraph 1(a); the Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2001, [S.I. 2001/1107](https://www.legislation.gov.uk/uksi/2001/1107), [regulation 2](https://www.legislation.gov.uk/uksi/2001/1107/regulation/2); the [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [section 24(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/24/2) and Schedule 7, paragraph 23(2); the Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002, [S.I. 2002/2034](https://www.legislation.gov.uk/uksi/2002/2034), [Schedule 2](https://www.legislation.gov.uk/uksi/2002/2034/schedule/2), [paragraph 2(a)](https://www.legislation.gov.uk/uksi/2002/2034/paragraph/2/a); the Employment Equality (Religion or Belief) Regulations 2003 [S.I. 2003/1660](https://www.legislation.gov.uk/uksi/2003/1660), [Schedule 5](https://www.legislation.gov.uk/uksi/2003/1660/schedule/5), [paragraph 1](https://www.legislation.gov.uk/uksi/2003/1660/paragraph/1); the Employment Equality (Sexual Orientation) Regulations 2003 [S.I. 2003/1661](https://www.legislation.gov.uk/uksi/2003/1661), [Schedule 5](https://www.legislation.gov.uk/uksi/2003/1661/schedule/5), [paragraph 1](https://www.legislation.gov.uk/uksi/2003/1661/paragraph/1); the Disability Discrimination Act 1995 (amendment) Regulations 2003, [S.I. 2003/1673](https://www.legislation.gov.uk/uksi/2003/1673), [regulations 3](https://www.legislation.gov.uk/uksi/2003/1673/regulation/3) and 31; the Merchant Shipping (Working Time: Inland Waterways) Regulations 2003, [S.I. 2003/3049](https://www.legislation.gov.uk/uksi/2003/3049), [paragraph 2(2)](https://www.legislation.gov.uk/uksi/2003/3049/paragraph/2/2) of Schedule 2 and by paragraph 1(2) of the Schedule to these Regulations.
 
-[^key-e69c5600c017b1904b3ace6a3a520834]: Textual amendment: Words in [reg. 20(2)(b)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/20/2/b) substituted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 33(b)](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/33/b)
+[^c-e69c5600c017b1904b3ace6a3a520834]: Textual amendment: Words in [reg. 20(2)(b)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/20/2/b) substituted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 33(b)](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/33/b)
 
-[^key-b0143800f425949f9e93c3c0be0c0aa4]: Textual amendment: Word in reg. 20(2) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/6/a)
+[^c-b0143800f425949f9e93c3c0be0c0aa4]: Textual amendment: Word in reg. 20(2) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/6/a)
 
-[^key-d3af30ab35bda16e7a36c58aeb54c40d]: Textual amendment: Word in reg. 20(3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/6/a)
+[^c-d3af30ab35bda16e7a36c58aeb54c40d]: Textual amendment: Word in reg. 20(3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/6/a)
 
-[^key-8f60cd063440a7166e486cc480c7b835]: Textual amendment: Words in reg. 20(6)(a) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [23](https://www.legislation.gov.uk/uksi/2009/3348/article/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3348/schedule/2)
+[^c-8f60cd063440a7166e486cc480c7b835]: Textual amendment: Words in reg. 20(6)(a) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [23](https://www.legislation.gov.uk/uksi/2009/3348/article/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3348/schedule/2)
 
-[^key-d30fa43986207088f0656386bb30e4ed]: Textual amendment: Reg. 20(8) inserted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/6/b)
+[^c-d30fa43986207088f0656386bb30e4ed]: Textual amendment: Reg. 20(8) inserted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/6/b)
 
 [^c5394661]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
 

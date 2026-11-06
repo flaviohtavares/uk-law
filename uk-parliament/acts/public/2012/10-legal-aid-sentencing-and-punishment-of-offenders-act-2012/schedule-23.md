@@ -233,7 +233,7 @@ Section 132
 
 (2) In section 43(7) (railway safety accreditation schemes: Secretary of State power to give an accredited person the powers of a constable in uniform, or an authorised constable, to issue fixed penalty notices) omit “in uniform and of an authorised constable”.
 
-(3)[^key-545660ff1f6c87c119fdfc843b8d9ece] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-545660ff1f6c87c119fdfc843b8d9ece] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph 1 of Schedule 5 (accredited persons' powers to issue fixed penalty notices) in sub-paragraph (2)(aa) omit “in uniform”.
 
@@ -243,4 +243,4 @@ Section 132
 
 ## Annotations
 
-[^key-545660ff1f6c87c119fdfc843b8d9ece]: Textual amendment: Sch. 23 para. 14(3) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/29); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+[^c-545660ff1f6c87c119fdfc843b8d9ece]: Textual amendment: Sch. 23 para. 14(3) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/29); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)

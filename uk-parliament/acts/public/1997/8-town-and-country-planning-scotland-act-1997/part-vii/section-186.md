@@ -27,7 +27,7 @@ summary: ''
 
 (2) For that purpose the regulations may apply any of the provisions of Part VI with respect to enforcement notices or the provisions of section 143(1) to (5), subject to such adaptations and modifications as may be specified in the regulations.
 
-(3) Without prejudice to any provisions included in such regulations by virtue of subsection (1) or (2), if any person displays an advertisement in contravention of the regulations he shall be guilty of an offence and liable on summary conviction to a fine of such amount as may be prescribed, not exceeding level 5[^key-7badbeddfb2401b14247041ccf84febb] on the standard scale and, in the case of a continuing offence, one-tenth of level 5 on the standard scale for each day during which the offence continues after conviction.
+(3) Without prejudice to any provisions included in such regulations by virtue of subsection (1) or (2), if any person displays an advertisement in contravention of the regulations he shall be guilty of an offence and liable on summary conviction to a fine of such amount as may be prescribed, not exceeding level 5[^c-7badbeddfb2401b14247041ccf84febb] on the standard scale and, in the case of a continuing offence, one-tenth of level 5 on the standard scale for each day during which the offence continues after conviction.
 
 (4) Without prejudice to the generality of subsection (3), a person shall be deemed to display an advertisement for the purposes of that subsection if—
 
@@ -43,4 +43,4 @@ if he proves that it was displayed without his knowledge or consent.
 
 ## Annotations
 
-[^key-7badbeddfb2401b14247041ccf84febb]: Textual amendment: Words in [s. 186(3)](https://www.legislation.gov.uk/ukpga/1997/8/section/186/3) substituted (20.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 42(8)](https://www.legislation.gov.uk/asp/2019/13/section/42/8), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [regs. 5-10](https://www.legislation.gov.uk/ssi/2019/377/regulation/5)) (as amended by [S.S.I. 2019/411](https://www.legislation.gov.uk/ssi/2019/411), regs. 1, 2)
+[^c-7badbeddfb2401b14247041ccf84febb]: Textual amendment: Words in [s. 186(3)](https://www.legislation.gov.uk/ukpga/1997/8/section/186/3) substituted (20.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 42(8)](https://www.legislation.gov.uk/asp/2019/13/section/42/8), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [regs. 5-10](https://www.legislation.gov.uk/ssi/2019/377/regulation/5)) (as amended by [S.S.I. 2019/411](https://www.legislation.gov.uk/ssi/2019/411), regs. 1, 2)

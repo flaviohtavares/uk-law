@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. College fee loans[^key-2d30927e0b98135028b22773a16fdecc]
+## 54. College fee loans[^c-2d30927e0b98135028b22773a16fdecc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d30927e0b98135028b22773a16fdecc]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/wsi/2017/47/part/8) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [20](https://www.legislation.gov.uk/wsi/2026/3/regulation/20)
+[^c-2d30927e0b98135028b22773a16fdecc]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/wsi/2017/47/part/8) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [20](https://www.legislation.gov.uk/wsi/2026/3/regulation/20)

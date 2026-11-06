@@ -22,14 +22,14 @@ summary: ''
 
 (1) An assessment period is a period of one month beginning with the first date of entitlement and each subsequent period of one month during which entitlement subsists.
 
-(2)[^key-5176d65d34d340e1c48e37640d8083f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5176d65d34d340e1c48e37640d8083f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Each assessment period begins on the same day of each month except as follows—
 
 - (a) if the first date of entitlement falls on the 31st day of a month, each assessment period begins on the last day of the month, and
 - (b) if the first date of entitlement falls on the 29th or 30th day of a month, each assessment period will begin on the 29th or 30th day of the month (as above) except in February when it begins on the 27th day or, in a leap year, the 28th day.
 
-(3A)[^key-f7e404903976cdb282fbe88a8058520f] But paragraphs (1) and (3) are subject to regulation 22A (assessment period cycle to remain the same following change in the first date of entitlement).
+(3A)[^c-f7e404903976cdb282fbe88a8058520f] But paragraphs (1) and (3) are subject to regulation 22A (assessment period cycle to remain the same following change in the first date of entitlement).
 
 (4) Where a new award is made to a single person without a claim by virtue of regulation 8(6)(a) or (10) of the Claims and Payments Regulations (old award has ended when the claimant ceased to be a member of a couple) each assessment period for the new award begins on the same day of each month as the assessment period for the old award.
 
@@ -55,8 +55,8 @@ each assessment period for the new award begins on the same day of each month as
 
 ## Annotations
 
-[^key-5176d65d34d340e1c48e37640d8083f9]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/nisr/2016/216/regulation/22/2) omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(5)(a)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/5/a)
+[^c-5176d65d34d340e1c48e37640d8083f9]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/nisr/2016/216/regulation/22/2) omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(5)(a)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/5/a)
 
-[^key-f7e404903976cdb282fbe88a8058520f]: Textual amendment: [Reg. 22(3A)](https://www.legislation.gov.uk/nisr/2016/216/regulation/22/3A) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(5)(b)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/5/b)
+[^c-f7e404903976cdb282fbe88a8058520f]: Textual amendment: [Reg. 22(3A)](https://www.legislation.gov.uk/nisr/2016/216/regulation/22/3A) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(5)(b)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/5/b)
 
 [^c22824391]: Marginal citation: S.R. [2016 No. 220](https://www.legislation.gov.uk/ukcm/2016/220).

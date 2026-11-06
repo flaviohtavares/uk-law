@@ -35,32 +35,32 @@ concerning the activities of certain third countries in the field of cargo shipp
 
 (codified version) (revoked)
 
-[^key-2d5f876907c3a342ac6b3ee71e508bb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d5f876907c3a342ac6b3ee71e508bb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-2d5f876907c3a342ac6b3ee71e508bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d5f876907c3a342ac6b3ee71e508bb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d5f876907c3a342ac6b3ee71e508bb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Repealed Decision with its amendment[^key-2d5f876907c3a342ac6b3ee71e508bb9]
+## ANNEX I — Repealed Decision with its amendment[^c-2d5f876907c3a342ac6b3ee71e508bb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Correlation table[^key-2d5f876907c3a342ac6b3ee71e508bb9]
+## ANNEX II — Correlation table[^c-2d5f876907c3a342ac6b3ee71e508bb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d5f876907c3a342ac6b3ee71e508bb9]: Textual amendment: Decision revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/488/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d5f876907c3a342ac6b3ee71e508bb9]: Textual amendment: Decision revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/488/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

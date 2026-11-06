@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269ZW. Deductions allowance for company not in a group[^key-df4edca86bcded2474d7f6ddaaeaa41e]
+## 269ZW. Deductions allowance for company not in a group[^c-df4edca86bcded2474d7f6ddaaeaa41e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) If the accounting period is less than 12 months, the company's deductions allowance for the period is proportionally reduced.
 
-(4)[^key-842516a736840565193ef392674e20a8] See section 269ZYA for further provision about the deductions allowance for a company without a source of chargeable income.
+(4)[^c-842516a736840565193ef392674e20a8] See section 269ZYA for further provision about the deductions allowance for a company without a source of chargeable income.
 
 ## Annotations
 
-[^key-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
+[^c-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
 
-[^key-842516a736840565193ef392674e20a8]: Textual amendment: S. 269ZW(4) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 33](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/33), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
+[^c-842516a736840565193ef392674e20a8]: Textual amendment: S. 269ZW(4) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 33](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/33), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))

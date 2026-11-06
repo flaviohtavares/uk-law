@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Use of samples etc.[^key-d483168d4c3cee00704ba7db0e1904e5]
+## 82. Use of samples etc.[^c-d483168d4c3cee00704ba7db0e1904e5]
 
 *Extent: S*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d483168d4c3cee00704ba7db0e1904e5]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2010/13/section/82) in force at 1.8.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2011/178/article/9))
+[^c-d483168d4c3cee00704ba7db0e1904e5]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2010/13/section/82) in force at 1.8.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2011/178/article/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Formulae for determination of budget shares[^key-36b03c7c2c36abfb69527154b6c7a5b5]
+## 9. Formulae for determination of budget shares[^c-36b03c7c2c36abfb69527154b6c7a5b5]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36b03c7c2c36abfb69527154b6c7a5b5]: Commencement: Reg. 9 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-36b03c7c2c36abfb69527154b6c7a5b5]: Commencement: Reg. 9 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

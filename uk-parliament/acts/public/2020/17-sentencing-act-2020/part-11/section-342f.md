@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 342F. Retention and disposal of things seized under section 342E[^key-040def5338dc58820472aca46a748c49]
+## 342F. Retention and disposal of things seized under section 342E[^c-040def5338dc58820472aca46a748c49]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-040def5338dc58820472aca46a748c49]: Textual amendment: [Pt. 11 Ch. 1A](https://www.legislation.gov.uk/ukpga/2020/17/part/11/chapter/1A) inserted (28.4.2022 for specified purposes, 19.4.2023 for the specified purpose and for the specified period of 24 months beginning with that date) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 165(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/165/1), [166](https://www.legislation.gov.uk/ukpga/2022/32/section/166), [208(4)(u)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/u); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [regs. 1](https://www.legislation.gov.uk/uksi/2023/387/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/1/a)[(2)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/2) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2023/387/regulation/6))
+[^c-040def5338dc58820472aca46a748c49]: Textual amendment: [Pt. 11 Ch. 1A](https://www.legislation.gov.uk/ukpga/2020/17/part/11/chapter/1A) inserted (28.4.2022 for specified purposes, 19.4.2023 for the specified purpose and for the specified period of 24 months beginning with that date) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 165(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/165/1), [166](https://www.legislation.gov.uk/ukpga/2022/32/section/166), [208(4)(u)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/u); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [regs. 1](https://www.legislation.gov.uk/uksi/2023/387/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/1/a)[(2)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/2) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2023/387/regulation/6))

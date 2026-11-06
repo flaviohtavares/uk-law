@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. How entitlement to sign a recall petition is to be exercised[^key-efed962ea4272eb30fbe683da60aff50]
+## 11. How entitlement to sign a recall petition is to be exercised[^c-efed962ea4272eb30fbe683da60aff50]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ subject to meeting the requirements of regulations under section 18 about signin
 
 ## Annotations
 
-[^key-efed962ea4272eb30fbe683da60aff50]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2015/25/section/11) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-efed962ea4272eb30fbe683da60aff50]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2015/25/section/11) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Knowledge of language[^key-06a16206ef3f7760eeac3d2e932e55dd]
+## 11. Knowledge of language[^c-06a16206ef3f7760eeac3d2e932e55dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06a16206ef3f7760eeac3d2e932e55dd]: Commencement: Reg. 11 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-06a16206ef3f7760eeac3d2e932e55dd]: Commencement: Reg. 11 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)

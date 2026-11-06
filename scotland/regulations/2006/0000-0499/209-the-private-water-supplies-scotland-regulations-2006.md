@@ -91,7 +91,7 @@ These Regulations may be cited as the Private Water Supplies (Scotland) Regulati
 - “**Scottish Water**” means the body corporate established by section 20(1) of the 2002 Act;
 - “**specification**”, in relation to a parameter, means the concentration, value or state, shown as applicable to that parameter in the Tables in Schedule 1 as measured by reference to the unit of measurement so specified;
 - “**state**” in relation to an indicator parameter, means the state specified in relation to that parameter in Table C of Schedule 1 as measured by reference to the unit of measurement so specified;
-- “[^key-d2f8e17f70430f63b068094b55ac76c2]**total indicative dose**” means the committed effective dose for one year of ingestion resulting from all radionuclides whose presence has been detected in a supply of water intended for human consumption purposes, of natural and artificial origin, but excluding tritium, potassium-40, radon and short-lived radon decay products;
+- “[^c-d2f8e17f70430f63b068094b55ac76c2]**total indicative dose**” means the committed effective dose for one year of ingestion resulting from all radionuclides whose presence has been detected in a supply of water intended for human consumption purposes, of natural and artificial origin, but excluding tritium, potassium-40, radon and short-lived radon decay products;
 - “**Type A supply**” means a private water supply for human consumption purposes which—
   - (a) on average, provides 10 or more cubic metres of water per day or serves 50 or more persons, or
   - (b) regardless of the volume of water provided or the number of persons served, is supplied or used as part of a commercial or public activity,
@@ -131,7 +131,7 @@ and which does not affect, either directly or indirectly, the fitness for human 
 - (a) a natural mineral water within the meaning of the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999 [^c15355381]; and
 - (b) a medicinal product within the meaning of the Medicines Act 1968 [^c15355391] or a product in respect of which any provision of that Act has effect as if it were such a medicinal product.
 
-(3)[^key-20f79bc04ccc77b56024d83f9330716a] These regulations do not apply to a Type A supply.
+(3)[^c-20f79bc04ccc77b56024d83f9330716a] These regulations do not apply to a Type A supply.
 
 ## PART II — RELEVANT PERSONS
 
@@ -157,20 +157,20 @@ and a person so determined shall, in these Regulations, be referred to as a “*
 
 (4) Where a person has been determined to be a relevant person under regulation 4(1), that determination shall not have effect until the period within which an appeal may be brought has expired or until an appeal which has been brought has been disposed of or is withdrawn.
 
-### 5A. Duty of relevant person in relation to disinfection[^key-04ce1f855fdb595963dcef6a4776fb9e]
+### 5A. Duty of relevant person in relation to disinfection[^c-04ce1f855fdb595963dcef6a4776fb9e]
 
 Where a relevant person disinfects a private water supply for human consumption purposes, the relevant person must—
 
 - (a) where necessary, subject the water to sufficient preliminary treatment to prepare the water for disinfection; and
 - (b) design, operate and maintain the disinfection process so as to keep disinfection by-products as low as possible without compromising the performance of the disinfection process.
 
-### 5B. Application and introduction of substances and products[^key-722c8bbaa494e09ec25c20151736ce32]
+### 5B. Application and introduction of substances and products[^c-722c8bbaa494e09ec25c20151736ce32]
 
 Where a relevant person, in the preparation or distribution of a private water supply for human consumption purposes, applies any substance or product to, or introduces any substance or product into, the water which is to be supplied for those purposes, the person must take all measures necessary to ensure that, in doing so, the water supplied does not, at its point of use, contain the substance or product, or any impurity associated with the substance or product, at a concentration or value which would make the water unwholesome.
 
 ## PART III — CLASSIFICATION OF PRIVATE WATER SUPPLIES
 
-### 6. Classification and level of supplies[^key-3afe816432617e580127414b29e0fbb4]
+### 6. Classification and level of supplies[^c-3afe816432617e580127414b29e0fbb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -180,10 +180,10 @@ Where a relevant person, in the preparation or distribution of a private water s
 
 (1) Water supplied to any premises from a private water supply for human consumption purposes shall be regarded as wholesome for the purposes of Part VIA of the 1980 Act, as it applies to the supply of water for those purposes, if—
 
-- (a)[^key-dbf9e48f9453e9b0657095a1a27643fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-dbf9e48f9453e9b0657095a1a27643fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in respect of a Type B supply, the requirements of paragraph (3) are satisfied.
 
-(2)[^key-e8c1aaaa5f0ec1fa9d10e9f253fd122e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e8c1aaaa5f0ec1fa9d10e9f253fd122e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The requirements of this paragraph are—
 
@@ -195,98 +195,98 @@ Where a relevant person, in the preparation or distribution of a private water s
 - (b) that the water does not contain any substance (whether or not a parameter) at a concentration or value which, in conjunction with any other substance it contains (whether or not a parameter), would constitute a potential danger to human health; and
 - (c) that the water does not contain concentrations or values of the parameters listed in the second column of Table D in Schedule 1 in excess of or, as the case may be, less than the prescribed concentration or values.
 
-(4) The point at which the requirements of paragraph (3)[^key-d92782908a11b588d2628b0960122e06] are to be complied with is—
+(4) The point at which the requirements of paragraph (3)[^c-d92782908a11b588d2628b0960122e06] are to be complied with is—
 
 - (a) in the case of water supplied from a tanker or an intermittent short term supply, the point at which the water emerges from the tanker or the supply;
-- (b)[^key-f9fcc58b7cb09bada3f9f64ba2fb5204] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f9fcc58b7cb09bada3f9f64ba2fb5204] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in the case of water supplied from a distribution network, at the point, within premises or an establishment, at which it emerges from the tap or taps that are normally used for human consumption purposes; and
 - (d) in any other case, the point which, in the reasonable opinion of the monitoring local authority, is representative of the quality of water consumed or available for consumption throughout the year and which would otherwise be available at any of the points of compliance referred to at sub-paragraphs (a) to (c).
 
-(5)[^key-02b2546b4c3dd1a0307d6d740f72930b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-02b2546b4c3dd1a0307d6d740f72930b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART V — TYPE A SUPPLIES: TEMPORARY DEPARTURE FROM REQUIREMENTS OF PART IV
 
-### 8. Application for authorisation of temporary departure in respect of a Type A supply that is not wholesome[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 8. Application for authorisation of temporary departure in respect of a Type A supply that is not wholesome[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Authorisation of temporary departure: terms and conditions[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 9. Authorisation of temporary departure: terms and conditions[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Authorisation of a second temporary departure[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 10. Authorisation of a second temporary departure[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Authorisation of a third temporary departure[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 11. Authorisation of a third temporary departure[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Authorisation of temporary departure: other limitations[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 12. Authorisation of temporary departure: other limitations[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Authorisation of temporary departure: publicity[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 13. Authorisation of temporary departure: publicity[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Refusal of temporary departure: notification and publicity[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 14. Refusal of temporary departure: notification and publicity[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Revocation and modification of temporary departure[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 15. Revocation and modification of temporary departure[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART VI — TYPE A SUPPLIES: RISK ASSESSMENTS, INVESTIGATIONS AND REMEDIAL ACTION
 
-### 16. Type A Supplies: Risk Assessments[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 16. Type A Supplies: Risk Assessments[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Investigations: Schedule 1 microbiological and chemical parameters[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 17. Investigations: Schedule 1 microbiological and chemical parameters[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Investigations: Schedule 1 indicator parameters[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 18. Investigations: Schedule 1 indicator parameters[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18A. Additional notification of consumers[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 18A. Additional notification of consumers[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART VII — TYPE A SUPPLIES: MONITORING
 
-### 19. Check monitoring – interpretation[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 19. Check monitoring – interpretation[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Audit monitoring - interpretation[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 20. Audit monitoring - interpretation[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Monitoring duties and powers[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 21. Monitoring duties and powers[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Monitoring: general provision[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 22. Monitoring: general provision[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Numbers of samples: Type A supplies[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 23. Numbers of samples: Type A supplies[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Monitoring: radon, total indicative dose and tritium[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 24. Monitoring: radon, total indicative dose and tritium[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Additional monitoring[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 25. Additional monitoring[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Decision on audit monitoring[^key-dc8d2c59de3048461f4574ec37ea6edc]
+### 26. Decision on audit monitoring[^c-dc8d2c59de3048461f4574ec37ea6edc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -319,7 +319,7 @@ Where a relevant person, in the preparation or distribution of a private water s
 
 (2) Samples from a Type B supply or from premises served by such a supply, shall be taken so that they are representative of the quality of water intended for human consumption purposes throughout the year and, in a case where a Type B supply serves a number of premises, from such premises selected at random as will ensure, insofar as is reasonably practicable, that their analysis will produce data which is representative of the quality of water so sampled.
 
-(3) Samples are to be taken at the point of compliance determined in accordance with regulation 7(4)[^key-16be683565137ea61a8ab35c9128bf26].
+(3) Samples are to be taken at the point of compliance determined in accordance with regulation 7(4)[^c-16be683565137ea61a8ab35c9128bf26].
 
 (4) A monitoring local authority may at any time take and analyse a sample of water from any Type B supply (whether or not on the request of a relevant person or a consumer served by such a supply) for the parameters referred to in Table C of Schedule 2 to these Regulations, using the methodology specified in Schedule 5.
 
@@ -351,7 +351,7 @@ Where a relevant person, in the preparation or distribution of a private water s
 
 (2) In paragraph (1), “**the appropriate requirements**” means such of the following requirements as are applicable—
 
-- (a) that the sample is representative of the quality of the water intended for human consumption purposes at the point of compliance specified in regulation 7(4) [^key-8ff2f5fc98c07758e303f7a737d94696]... at the time of sampling;
+- (a) that the sample is representative of the quality of the water intended for human consumption purposes at the point of compliance specified in regulation 7(4) [^c-8ff2f5fc98c07758e303f7a737d94696]... at the time of sampling;
 - (b) that the sample is not contaminated when being taken or subsequently;
 - (c) that the sample is kept at such temperature and in such conditions as will secure that there is no material alteration of the concentration or value or specification for the measurement or observation of which the sample is intended;
 - (d) that the sample is analysed as soon as may be after the time it has been taken—
@@ -400,7 +400,7 @@ Where a relevant person, in the preparation or distribution of a private water s
 As soon as a monitoring local authority has reasonable grounds for believing that any element, organism or substance, other than residual disinfectant or a parameter, whether alone or in combination with a parameter or any other element, micro-organism, parasite or substance, may cause a private water supply serving premises located in the area of that authority to be a supply which does not satisfy—
 
 - (a) the provisions of Part IV; or
-- (b)[^key-be684285b1f27661215c519c758b7a03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-be684285b1f27661215c519c758b7a03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 it shall take, or cause to be taken, sufficient samples from the private water supply in respect of that element, organism or substance, in order to establish whether the supply is wholesome.
 
@@ -408,16 +408,16 @@ it shall take, or cause to be taken, sufficient samples from the private water s
 
 (1) A local authority may charge a person for expenses reasonably incurred by it—
 
-- (a)[^key-5a93aad5c219f86cb8e97d16dc4803ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5a93aad5c219f86cb8e97d16dc4803ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in respect of a Type B supply, for—
   - (i) sampling a supply in accordance with these Regulations, up to a maximum of £70 per visit to any premises for that purpose;
   - (ii) the analysis of samples, up to a maximum charge of £48 per visit to any premises for that purpose;
   - (iii) preparatory work, including if required, visiting premises or the source of a Type B supply, in relation to a risk assessment to be carried out under regulation 27(2), up to a maximum of £70; and
   - (iv) the carrying out of a risk assessment under regulation 27(2), up to a maximum of £50;
 
-(2) Where a local authority has undertaken additional monitoring of a private water supply under regulation [^key-a0e07df6fc016265a6180b4567c02720]...30, that authority may charge a person for the expenses reasonably incurred by it.
+(2) Where a local authority has undertaken additional monitoring of a private water supply under regulation [^c-a0e07df6fc016265a6180b4567c02720]...30, that authority may charge a person for the expenses reasonably incurred by it.
 
-(3) A local authority shall not charge for the expenses incurred by it in the taking and analysis of any sample taken for the purposes of regulation [^key-e75d58012fe3038d9ab352873e172a12]... 29(6)(a).
+(3) A local authority shall not charge for the expenses incurred by it in the taking and analysis of any sample taken for the purposes of regulation [^c-e75d58012fe3038d9ab352873e172a12]... 29(6)(a).
 
 (4) Where in relation to any private water supply there is more than one person who may be charged, the local authority shall, in determining who is to be charged and any apportionment of that charge, have regard to the terms (if any) on which the water is supplied and the purposes for which it is used.
 
@@ -428,8 +428,8 @@ it shall take, or cause to be taken, sufficient samples from the private water s
 (1) Subject to paragraph (2), a local authority shall prepare and maintain, in respect of every private water supply to premises in its area, a register containing information about—
 
 - (a) whether the supply is—
-  - (i)[^key-32c9503cd03f68813e06070c9ef4c197] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-804d1ee6dc62053d7c4deabc405aa198] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-32c9503cd03f68813e06070c9ef4c197] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-804d1ee6dc62053d7c4deabc405aa198] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) subject to paragraph (2), a supply in respect of which the provisions of regulation 3 apply;
 - (b) the name and address of every relevant person in relation to the supply;
 - (c) the addresses of premises which are served by the supply, and the purposes for which the water is supplied;
@@ -438,10 +438,10 @@ it shall take, or cause to be taken, sufficient samples from the private water s
   - (ii) the location of the source of the supply (whether or not in the area of that local authority), including the appropriate Ordnance Survey National Grid Reference as regards the location of that source;
 - (e) the estimated maximum average volume of water provided by the supply and the number of persons served by the supply on any one day;
 - (f) any treatment carried out in relation to the supply;
-- (g)[^key-2d2bc5a0db31f4fafa12d3af6ce81b21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-2d2bc5a0db31f4fafa12d3af6ce81b21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) the results of any samples taken and analysed in relation to the supply under these Regulations;
 - (i) any investigations carried out, and any action taken following such investigations in relation to the supply;
-- (ia)[^key-3acb8f8d51821fe9cd03be64a0182fb1] any enforcement notices served by the authority in relation to the supply under section 76FB of the 1980 Act (whether or not confirmed by the Scottish Ministers under section 76FC of that Act), including—
+- (ia)[^c-3acb8f8d51821fe9cd03be64a0182fb1] any enforcement notices served by the authority in relation to the supply under section 76FB of the 1980 Act (whether or not confirmed by the Scottish Ministers under section 76FC of that Act), including—
   - (i) the particulars of the person on whom the notice was served
   - (ii) the date of service of the notice;
   - (iii) the matters specified in subsection (3) of section 76FB;
@@ -450,7 +450,7 @@ it shall take, or cause to be taken, sufficient samples from the private water s
   - (ii) the date of service of the notice;
   - (iii) the matters specified in subsection (2) of that section;
 - (k) a copy of any risk assessment carried out under these Regulations in relation to the supply;
-- (l)[^key-22c4dbd3cc67f4e5af560b49a83258bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-22c4dbd3cc67f4e5af560b49a83258bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (m) such other information as the local authority may decide.
 
 (2) In respect of a private water supply—
@@ -501,7 +501,7 @@ with a completed annual return in accordance with the form provided for that pur
 
 (7) Paragraph (6) is without prejudice to section 16 of the Water Industry (Scotland) Act 2002 [^c15355441].
 
-### 36. Information Notice on premises[^key-0e13dda8bb5a9717056df7d582392090]
+### 36. Information Notice on premises[^c-0e13dda8bb5a9717056df7d582392090]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -513,7 +513,7 @@ with a completed annual return in accordance with the form provided for that pur
 
 - (a) the 1992 Regulations;
 - (b) the Private Water Supplies (Scotland) Amendment Regulations 1998 [^c15355451]; and
-- (c)[^key-e921b6a52a2b177d9d7bde715c848dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e921b6a52a2b177d9d7bde715c848dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 are revoked.
 
@@ -620,13 +620,13 @@ Part II: National requirements
 | --- | --- | --- | --- |
 | 1\. | Aluminium | 200 | µgA1/1 |
 | 2\. | Colour | 20 | mg/l Pt/Co |
-| 3\. | [^key-e2bc222b1889a3e0dcfd69e3f1c6ef02]. . . | [^key-e2bc222b1889a3e0dcfd69e3f1c6ef02]. . . | [^key-e2bc222b1889a3e0dcfd69e3f1c6ef02]. . . |
+| 3\. | [^c-e2bc222b1889a3e0dcfd69e3f1c6ef02]. . . | [^c-e2bc222b1889a3e0dcfd69e3f1c6ef02]. . . | [^c-e2bc222b1889a3e0dcfd69e3f1c6ef02]. . . |
 | 4\. | Iron | 200 | µgFe/l |
 | 5\. | Manganese | 50 | µgMn/l |
-| 6\. | [^key-91fec9160d309c18a2ee39e8250663e7]. . . | [^key-91fec9160d309c18a2ee39e8250663e7]. . . | [^key-91fec9160d309c18a2ee39e8250663e7]. . . |
+| 6\. | [^c-91fec9160d309c18a2ee39e8250663e7]. . . | [^c-91fec9160d309c18a2ee39e8250663e7]. . . | [^c-91fec9160d309c18a2ee39e8250663e7]. . . |
 | 7\. | Silver**(i)** | 10 | µg Ag/l |
 | 8\. | Sodium | 200 | mgNa/l |
-| 9\. | [^key-a9f8556a520cabe3ca3b0ceb0e969844]. . . | [^key-a9f8556a520cabe3ca3b0ceb0e969844]. . . | [^key-a9f8556a520cabe3ca3b0ceb0e969844]. . . |
+| 9\. | [^c-a9f8556a520cabe3ca3b0ceb0e969844]. . . | [^c-a9f8556a520cabe3ca3b0ceb0e969844]. . . | [^c-a9f8556a520cabe3ca3b0ceb0e969844]. . . |
 | 10\. | Tetrachloromethane | 3 | µg/l |
 | 11\. | Turbidity**(ii)** | 4 | NTU |
 | 12\. | Zinc | 5000 | µg Zn/l |
@@ -640,29 +640,29 @@ Notes:
 
 Directive requirements
 
-| *(1)**Item* | *(2)**Parameters* | *(3)**Concentration or Value (maximum unless otherwise stated[^key-ecc2596bbd10fdc2a7310a66243cc8d1]) or State* | *(4)**Units of Measurement* |
+| *(1)**Item* | *(2)**Parameters* | *(3)**Concentration or Value (maximum unless otherwise stated[^c-ecc2596bbd10fdc2a7310a66243cc8d1]) or State* | *(4)**Units of Measurement* |
 | --- | --- | --- | --- |
 | 1\. | Ammonium | 0.50 | mgNH<sub>4</sub>/l |
 | 2\. | Chloride(i) | 250 | mgC1/1 |
 | 3\. | Clostridium perfringens (including spores) | 0 | Number/100 ml |
 | 4\. | Coliform bacteria | 0 | Number/100 ml |
 | 5\. | Colony count | No abnormal change | Number/1 ml at 22°C |
-| 5A[^key-662e887b39e78213569f3e8c9f468eb1] | Colour | Acceptable to consumers and no abnormal change |  |
+| 5A[^c-662e887b39e78213569f3e8c9f468eb1] | Colour | Acceptable to consumers and no abnormal change |  |
 | 6\. | Conductivity(i) | 2500 | µS/cm at 20°C |
-| 6A[^key-91fc68142b08b228804568566d49e5ef] | Hydrogen ion | 9.5<br>6.5 (minimum) | pH value |
+| 6A[^c-91fc68142b08b228804568566d49e5ef] | Hydrogen ion | 9.5<br>6.5 (minimum) | pH value |
 | 6B | Odour | Acceptable to consumers and no abnormal change |  |
 | 6C. | Radon (for radioactivity)**(ii)** | 100 | Bq/l |
 | 7\. | Sulphate(i) | 250 | mgSO<sub>4</sub>/l |
-| 7A[^key-96692b40e5aa21c41a6c4be3eef2acd7] | Taste | Acceptable to consumers and no abnormal change |  |
-| 8\. | Total indicative dose (for radioactivity)[^key-9b6d88754088bfec7b8997ecaedcc277]... | 0.10 | mSv[^key-9b6d88754088bfec7b8997ecaedcc277]... |
+| 7A[^c-96692b40e5aa21c41a6c4be3eef2acd7] | Taste | Acceptable to consumers and no abnormal change |  |
+| 8\. | Total indicative dose (for radioactivity)[^c-9b6d88754088bfec7b8997ecaedcc277]... | 0.10 | mSv[^c-9b6d88754088bfec7b8997ecaedcc277]... |
 | 9\. | Total organic carbon (TOC) | No abnormal change | mgC/l |
-| 10\. | Tritium (for radioactivity) **(iii)[^key-e5e1c741e3306e2a6c3dbc6e0db63178]** | 100 | Bq/l |
-| 10A[^key-8ba1715060ee05003af85e950042de26] | Turbidity | Acceptable to consumers and no abnormal change |  |
+| 10\. | Tritium (for radioactivity) **(iii)[^c-e5e1c741e3306e2a6c3dbc6e0db63178]** | 100 | Bq/l |
+| 10A[^c-8ba1715060ee05003af85e950042de26] | Turbidity | Acceptable to consumers and no abnormal change |  |
 
 Notes*:*
 
 - (i) The water should not be aggressive.
-- (ii)[^key-9f7a4d0da6e9c3800cf76a29356d677f] Remedial action is to be deemed justified on radiological protection grounds, without further consideration, where radon concentrations exceed 1,000 Bq/l.
+- (ii)[^c-9f7a4d0da6e9c3800cf76a29356d677f] Remedial action is to be deemed justified on radiological protection grounds, without further consideration, where radon concentrations exceed 1,000 Bq/l.
 - (iii) If the concentration of tritium exceeds this value, an analysis of the presence of other artificial radionuclides must be also carried out by Scottish Water.
 
 ### Table D — Microbiological and Chemical Parameters: Type B Supplies
@@ -692,11 +692,11 @@ Regulations 21-23, 29 and 30
 
 ### Table A
 
-[^key-7ac4a7794d2d4252b7a39606628aec57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ac4a7794d2d4252b7a39606628aec57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Table B
 
-[^key-faebe0368014dad0cf41a9b6ad6d5ea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-faebe0368014dad0cf41a9b6ad6d5ea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Table C — Routine Monitoring: Type B Supplies
 
@@ -727,51 +727,51 @@ Notes:
 - (i) Samples need not be analysed for nitrate if there are reasonable grounds for believing that nitrate levels in the locality concerned are below 25 mg NO3/l.
 - (ii) Samples should not be assessed qualitatively if there are reasonable grounds for suspecting that the water may give rise to a health hazard.
 
-## SCHEDULE 2A — MONITORING OF RADIOACTIVE SUBSTANCES[^key-5b39fa38a9e002d0eade692b41b7779c]
+## SCHEDULE 2A — MONITORING OF RADIOACTIVE SUBSTANCES[^c-5b39fa38a9e002d0eade692b41b7779c]
 
 **No longer in force.**
 
 Regulation 21(2A)
 
-### 1. General principles and monitoring frequencies[^key-5b39fa38a9e002d0eade692b41b7779c]
+### 1. General principles and monitoring frequencies[^c-5b39fa38a9e002d0eade692b41b7779c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Radon[^key-5b39fa38a9e002d0eade692b41b7779c]
+### 2. Radon[^c-5b39fa38a9e002d0eade692b41b7779c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Tritium[^key-5b39fa38a9e002d0eade692b41b7779c]
+### 3. Tritium[^c-5b39fa38a9e002d0eade692b41b7779c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Total indicative dose[^key-5b39fa38a9e002d0eade692b41b7779c]
+### 4. Total indicative dose[^c-5b39fa38a9e002d0eade692b41b7779c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Water treatment[^key-5b39fa38a9e002d0eade692b41b7779c]
+### 5. Water treatment[^c-5b39fa38a9e002d0eade692b41b7779c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Averaging[^key-5b39fa38a9e002d0eade692b41b7779c]
+### 6. Averaging[^c-5b39fa38a9e002d0eade692b41b7779c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — CIRCUMSTANCES AND CONDITIONS TO BE CONSIDERED BY A MONITORING LOCAL AUTHORITY: DECISION ON AUDIT MONITORING[^key-adde1881ea0b35a7e8f87ca6b8438bdf]
+## SCHEDULE 3 — CIRCUMSTANCES AND CONDITIONS TO BE CONSIDERED BY A MONITORING LOCAL AUTHORITY: DECISION ON AUDIT MONITORING[^c-adde1881ea0b35a7e8f87ca6b8438bdf]
 
 **No longer in force.**
 
 Regulation 26
 
-[^key-adde1881ea0b35a7e8f87ca6b8438bdf]
+[^c-adde1881ea0b35a7e8f87ca6b8438bdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-adde1881ea0b35a7e8f87ca6b8438bdf]
+[^c-adde1881ea0b35a7e8f87ca6b8438bdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-adde1881ea0b35a7e8f87ca6b8438bdf]
+[^c-adde1881ea0b35a7e8f87ca6b8438bdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -779,7 +779,7 @@ Regulation 26
 
 Regulations 16 and 26 and 27
 
-(1) When undertaking or reviewing and updating a risk assessment for the purposes of regulations [^key-f6984ecfe12fa68e9899b9e5b4954242]... 27, a monitoring local authority shall do so in accordance with the provisions of this Schedule.
+(1) When undertaking or reviewing and updating a risk assessment for the purposes of regulations [^c-f6984ecfe12fa68e9899b9e5b4954242]... 27, a monitoring local authority shall do so in accordance with the provisions of this Schedule.
 
 (2) A risk assessment shall comprise the following–
 
@@ -943,29 +943,29 @@ Notes:
 - (v) The performance characteristics apply to the individual substances specified at 50% of the parametric value in Table B in Schedule 1.
 - (vi) The performance characteristics apply to the prescribed value of 4NTU.
 
-## SCHEDULE 5A — MONITORING FOR TOTAL INDICATIVE DOSE AND ANALYTICAL PERFORMANCE CHARACTERISTICS[^key-3da47962a4d8bbe8c7b48935d6fbd1b4]
+## SCHEDULE 5A — MONITORING FOR TOTAL INDICATIVE DOSE AND ANALYTICAL PERFORMANCE CHARACTERISTICS[^c-3da47962a4d8bbe8c7b48935d6fbd1b4]
 
 **No longer in force.**
 
 Regulation 21(2A)
 
-### 1. Monitoring for compliance with the total indicative dose[^key-3da47962a4d8bbe8c7b48935d6fbd1b4]
+### 1. Monitoring for compliance with the total indicative dose[^c-3da47962a4d8bbe8c7b48935d6fbd1b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Screening for certain radionuclides or for an individual radionuclide[^key-3da47962a4d8bbe8c7b48935d6fbd1b4]
+### 2. Screening for certain radionuclides or for an individual radionuclide[^c-3da47962a4d8bbe8c7b48935d6fbd1b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Screening for gross alpha activity and gross beta activity[^key-3da47962a4d8bbe8c7b48935d6fbd1b4]
+### 3. Screening for gross alpha activity and gross beta activity[^c-3da47962a4d8bbe8c7b48935d6fbd1b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Calculation of the total indicative dose[^key-3da47962a4d8bbe8c7b48935d6fbd1b4]
+### 4. Calculation of the total indicative dose[^c-3da47962a4d8bbe8c7b48935d6fbd1b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Performance characteristics and methods of analysis[^key-3da47962a4d8bbe8c7b48935d6fbd1b4]
+### 5. Performance characteristics and methods of analysis[^c-3da47962a4d8bbe8c7b48935d6fbd1b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1027,7 +1027,7 @@ The Regulatory Impact Assessment in relation to these Regulations has been place
 
 [^c15355351]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-d2f8e17f70430f63b068094b55ac76c2]: Textual amendment: Words in reg. 2(1) inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2015/346/regulation/3)
+[^c-d2f8e17f70430f63b068094b55ac76c2]: Textual amendment: Words in reg. 2(1) inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2015/346/regulation/3)
 
 [^c15355361]: Marginal citation: O.J. No. L 330, 5.12.98, p.32.
 
@@ -1037,90 +1037,90 @@ The Regulatory Impact Assessment in relation to these Regulations has been place
 
 [^c15355391]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67), as relevantly amended by [S.I. 1994/3119](https://www.legislation.gov.uk/uksi/1994/3119) and [S.I. 2005/50](https://www.legislation.gov.uk/uksi/2005/50), [regulation 25](https://www.legislation.gov.uk/uksi/2005/50/regulation/25). “Medicinal product” and related expressions are defined in section 130 of that Act.
 
-[^key-20f79bc04ccc77b56024d83f9330716a]: Textual amendment: Reg. 3(3) inserted (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(a)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-20f79bc04ccc77b56024d83f9330716a]: Textual amendment: Reg. 3(3) inserted (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(a)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-04ce1f855fdb595963dcef6a4776fb9e]: Textual amendment: Reg. 5A inserted (20.4.2010) by [The Water Quality (Scotland) Regulations 2010 (S.S.I. 2010/95)](https://www.legislation.gov.uk/ssi/2010/95), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/95/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2010/95/regulation/15)
+[^c-04ce1f855fdb595963dcef6a4776fb9e]: Textual amendment: Reg. 5A inserted (20.4.2010) by [The Water Quality (Scotland) Regulations 2010 (S.S.I. 2010/95)](https://www.legislation.gov.uk/ssi/2010/95), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/95/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2010/95/regulation/15)
 
-[^key-722c8bbaa494e09ec25c20151736ce32]: Textual amendment: Reg. 5B inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/346/regulation/4)
+[^c-722c8bbaa494e09ec25c20151736ce32]: Textual amendment: Reg. 5B inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/346/regulation/4)
 
-[^key-3afe816432617e580127414b29e0fbb4]: Textual amendment: Reg. 6 omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(i)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-3afe816432617e580127414b29e0fbb4]: Textual amendment: Reg. 6 omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(i)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-dbf9e48f9453e9b0657095a1a27643fb]: Textual amendment: Reg. 7(1)(a) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-dbf9e48f9453e9b0657095a1a27643fb]: Textual amendment: Reg. 7(1)(a) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-e8c1aaaa5f0ec1fa9d10e9f253fd122e]: Textual amendment: Reg. 7(2) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-e8c1aaaa5f0ec1fa9d10e9f253fd122e]: Textual amendment: Reg. 7(2) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-d92782908a11b588d2628b0960122e06]: Textual amendment: Word in reg. 7(4) substituted (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(b)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-d92782908a11b588d2628b0960122e06]: Textual amendment: Word in reg. 7(4) substituted (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(b)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-f9fcc58b7cb09bada3f9f64ba2fb5204]: Textual amendment: Reg. 7(4)(b) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-f9fcc58b7cb09bada3f9f64ba2fb5204]: Textual amendment: Reg. 7(4)(b) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-02b2546b4c3dd1a0307d6d740f72930b]: Textual amendment: Reg. 7(5) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-02b2546b4c3dd1a0307d6d740f72930b]: Textual amendment: Reg. 7(5) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-dc8d2c59de3048461f4574ec37ea6edc]: Textual amendment: Regs. 8-26 omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(iii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/iii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-dc8d2c59de3048461f4574ec37ea6edc]: Textual amendment: Regs. 8-26 omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(iii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/iii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-16be683565137ea61a8ab35c9128bf26]: Textual amendment: Word in reg. 29(3) substituted (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(c)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-16be683565137ea61a8ab35c9128bf26]: Textual amendment: Word in reg. 29(3) substituted (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(c)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
 [^c15355421]: Marginal citation: Section 76G was added by the Water Act 1989, Schedule 2, paragraph 1.
 
-[^key-8ff2f5fc98c07758e303f7a737d94696]: Textual amendment: Words in reg. 31(2)(a) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(iv)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/iv) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-8ff2f5fc98c07758e303f7a737d94696]: Textual amendment: Words in reg. 31(2)(a) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(iv)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/iv) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-be684285b1f27661215c519c758b7a03]: Textual amendment: Reg. 32(b) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(v)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/v) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-be684285b1f27661215c519c758b7a03]: Textual amendment: Reg. 32(b) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(v)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/v) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-5a93aad5c219f86cb8e97d16dc4803ca]: Textual amendment: Reg. 33(1)(a) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(vi)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/vi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-5a93aad5c219f86cb8e97d16dc4803ca]: Textual amendment: Reg. 33(1)(a) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(vi)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/vi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-a0e07df6fc016265a6180b4567c02720]: Textual amendment: Words in reg. 33(2) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(vii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/vii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-a0e07df6fc016265a6180b4567c02720]: Textual amendment: Words in reg. 33(2) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(vii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/vii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-e75d58012fe3038d9ab352873e172a12]: Textual amendment: Words in reg. 33(3) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(viii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/viii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-e75d58012fe3038d9ab352873e172a12]: Textual amendment: Words in reg. 33(3) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(viii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/viii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-32c9503cd03f68813e06070c9ef4c197]: Textual amendment: Reg. 34(1)(a)(i) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ix)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-32c9503cd03f68813e06070c9ef4c197]: Textual amendment: Reg. 34(1)(a)(i) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ix)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-804d1ee6dc62053d7c4deabc405aa198]: Textual amendment: Reg. 34(1)(a)(ii) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ix)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-804d1ee6dc62053d7c4deabc405aa198]: Textual amendment: Reg. 34(1)(a)(ii) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ix)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-2d2bc5a0db31f4fafa12d3af6ce81b21]: Textual amendment: Reg. 34(1)(g) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ix)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-2d2bc5a0db31f4fafa12d3af6ce81b21]: Textual amendment: Reg. 34(1)(g) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ix)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-3acb8f8d51821fe9cd03be64a0182fb1]: Textual amendment: Reg. 34(1)(ia) inserted (20.4.2010) by [The Water Quality (Scotland) Regulations 2010 (S.S.I. 2010/95)](https://www.legislation.gov.uk/ssi/2010/95), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/95/regulation/1/1), [20](https://www.legislation.gov.uk/ssi/2010/95/regulation/20)
+[^c-3acb8f8d51821fe9cd03be64a0182fb1]: Textual amendment: Reg. 34(1)(ia) inserted (20.4.2010) by [The Water Quality (Scotland) Regulations 2010 (S.S.I. 2010/95)](https://www.legislation.gov.uk/ssi/2010/95), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/95/regulation/1/1), [20](https://www.legislation.gov.uk/ssi/2010/95/regulation/20)
 
-[^key-22c4dbd3cc67f4e5af560b49a83258bf]: Textual amendment: Reg. 34(1)(l) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ix)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-22c4dbd3cc67f4e5af560b49a83258bf]: Textual amendment: Reg. 34(1)(l) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(ix)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/ix) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
 [^c15355431]: Marginal citation: The office of the Drinking Water Quality Regulator for Scotland was established by Part 2 of the [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3).
 
 [^c15355441]: Marginal citation: 2002 (asp3), as amended by the [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3).
 
-[^key-0e13dda8bb5a9717056df7d582392090]: Textual amendment: Reg. 36 omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(x)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/x) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-0e13dda8bb5a9717056df7d582392090]: Textual amendment: Reg. 36 omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(x)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/x) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
 [^c15355451]: Marginal citation: [S.I. 1998/1856](https://www.legislation.gov.uk/uksi/1998/1856).
 
-[^key-e921b6a52a2b177d9d7bde715c848dfc]: Textual amendment: Reg. 37(1)(c) revoked (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/1), [50(2)(b)](https://www.legislation.gov.uk/ssi/2014/364/regulation/50/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))
+[^c-e921b6a52a2b177d9d7bde715c848dfc]: Textual amendment: Reg. 37(1)(c) revoked (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/1), [50(2)(b)](https://www.legislation.gov.uk/ssi/2014/364/regulation/50/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))
 
-[^key-e2bc222b1889a3e0dcfd69e3f1c6ef02]: Textual amendment: Sch. 1 Table B Pt. 2 entry omitted (28.11.2015) by virtue of [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(a)(i)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/a/i)
+[^c-e2bc222b1889a3e0dcfd69e3f1c6ef02]: Textual amendment: Sch. 1 Table B Pt. 2 entry omitted (28.11.2015) by virtue of [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(a)(i)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/a/i)
 
-[^key-91fec9160d309c18a2ee39e8250663e7]: Textual amendment: Sch. 1 Table B Pt. 2 entry omitted (28.11.2015) by virtue of [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(a)(ii)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/a/ii)
+[^c-91fec9160d309c18a2ee39e8250663e7]: Textual amendment: Sch. 1 Table B Pt. 2 entry omitted (28.11.2015) by virtue of [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(a)(ii)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/a/ii)
 
-[^key-a9f8556a520cabe3ca3b0ceb0e969844]: Textual amendment: Sch. 1 Table B Pt. 2 entry omitted (28.11.2015) by virtue of [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(a)(iii)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/a/iii)
+[^c-a9f8556a520cabe3ca3b0ceb0e969844]: Textual amendment: Sch. 1 Table B Pt. 2 entry omitted (28.11.2015) by virtue of [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(a)(iii)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/a/iii)
 
-[^key-662e887b39e78213569f3e8c9f468eb1]: Textual amendment: Sch. 1 Table C entry inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(ii)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/ii)
+[^c-662e887b39e78213569f3e8c9f468eb1]: Textual amendment: Sch. 1 Table C entry inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(ii)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/ii)
 
-[^key-91fc68142b08b228804568566d49e5ef]: Textual amendment: Sch. 1 Table C entry inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(iii)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/iii)
+[^c-91fc68142b08b228804568566d49e5ef]: Textual amendment: Sch. 1 Table C entry inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(iii)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/iii)
 
-[^key-96692b40e5aa21c41a6c4be3eef2acd7]: Textual amendment: Sch. 1 Table C entry inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(iv)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/iv)
+[^c-96692b40e5aa21c41a6c4be3eef2acd7]: Textual amendment: Sch. 1 Table C entry inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(iv)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/iv)
 
-[^key-9b6d88754088bfec7b8997ecaedcc277]: Textual amendment: Words in Sch. 1 Table C omitted (28.11.2015) by virtue of [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(vi)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/vi)
+[^c-9b6d88754088bfec7b8997ecaedcc277]: Textual amendment: Words in Sch. 1 Table C omitted (28.11.2015) by virtue of [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(vi)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/vi)
 
-[^key-e5e1c741e3306e2a6c3dbc6e0db63178]: Textual amendment: Word in Sch. 1 Table C inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(vii)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/vii)
+[^c-e5e1c741e3306e2a6c3dbc6e0db63178]: Textual amendment: Word in Sch. 1 Table C inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(vii)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/vii)
 
-[^key-8ba1715060ee05003af85e950042de26]: Textual amendment: Sch. 1 Table C entry inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(v)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/v)
+[^c-8ba1715060ee05003af85e950042de26]: Textual amendment: Sch. 1 Table C entry inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(v)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/v)
 
-[^key-ecc2596bbd10fdc2a7310a66243cc8d1]: Textual amendment: Words in Sch. 1 Table C inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(i)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/i)
+[^c-ecc2596bbd10fdc2a7310a66243cc8d1]: Textual amendment: Words in Sch. 1 Table C inserted (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(b)(i)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/b/i)
 
-[^key-9f7a4d0da6e9c3800cf76a29356d677f]: Textual amendment: Sch. 1 Table C Note (ii)(iii) substituted for Sch. 1 Table C Note (ii) (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(c)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/c)
+[^c-9f7a4d0da6e9c3800cf76a29356d677f]: Textual amendment: Sch. 1 Table C Note (ii)(iii) substituted for Sch. 1 Table C Note (ii) (28.11.2015) by [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [8(c)](https://www.legislation.gov.uk/ssi/2015/346/regulation/8/c)
 
-[^key-7ac4a7794d2d4252b7a39606628aec57]: Textual amendment: Sch. 2 Table A omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xi)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-7ac4a7794d2d4252b7a39606628aec57]: Textual amendment: Sch. 2 Table A omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xi)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-faebe0368014dad0cf41a9b6ad6d5ea8]: Textual amendment: Sch. 2 Table B omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xi)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-faebe0368014dad0cf41a9b6ad6d5ea8]: Textual amendment: Sch. 2 Table B omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xi)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xi) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-5b39fa38a9e002d0eade692b41b7779c]: Textual amendment: Sch. 2A omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-5b39fa38a9e002d0eade692b41b7779c]: Textual amendment: Sch. 2A omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-adde1881ea0b35a7e8f87ca6b8438bdf]: Textual amendment: Sch. 3 omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xiii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xiii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-adde1881ea0b35a7e8f87ca6b8438bdf]: Textual amendment: Sch. 3 omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xiii)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xiii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-f6984ecfe12fa68e9899b9e5b4954242]: Textual amendment: Words in Sch. 4(1) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xiv)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xiv) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-f6984ecfe12fa68e9899b9e5b4954242]: Textual amendment: Words in Sch. 4(1) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xiv)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xiv) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-3da47962a4d8bbe8c7b48935d6fbd1b4]: Textual amendment: Sch. 5A omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xv)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xv) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-3da47962a4d8bbe8c7b48935d6fbd1b4]: Textual amendment: Sch. 5A omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [Sch. 10 para. 2(d)(xv)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/2/d/xv) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))

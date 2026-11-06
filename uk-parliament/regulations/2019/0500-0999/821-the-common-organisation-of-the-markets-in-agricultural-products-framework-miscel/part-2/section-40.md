@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40.[^key-d79165a35e4e0bd284d55431fe6201b0][^key-f259b93055336eb03d1ab0060045b225]
+## 40.[^c-d79165a35e4e0bd284d55431fe6201b0][^c-f259b93055336eb03d1ab0060045b225]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In Article 103(3), for “the Union” substitute “Great Britain”.
 
 ## Annotations
 
-[^key-d79165a35e4e0bd284d55431fe6201b0]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d79165a35e4e0bd284d55431fe6201b0]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f259b93055336eb03d1ab0060045b225]: Textual amendment: Reg. 40 substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [9(14)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/9/14)
+[^c-f259b93055336eb03d1ab0060045b225]: Textual amendment: Reg. 40 substituted (31.12.2020 immediately before IP completion day) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [9(14)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/9/14)

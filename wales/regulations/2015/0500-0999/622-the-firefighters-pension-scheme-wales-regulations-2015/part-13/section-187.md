@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. Scheme administrator for the purposes of the Finance Act 2004[^key-6cff22ec9ef5c671fcbafa0f9264b155]
+## 187. Scheme administrator for the purposes of the Finance Act 2004[^c-6cff22ec9ef5c671fcbafa0f9264b155]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The scheme manager is appointed to be responsible for all liabilities and respon
 
 ## Annotations
 
-[^key-6cff22ec9ef5c671fcbafa0f9264b155]: Commencement: Reg. 187 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-6cff22ec9ef5c671fcbafa0f9264b155]: Commencement: Reg. 187 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00085]: Footnote: [S.I. 2006/569](https://www.legislation.gov.uk/uksi/2006/569); amended by [S.I. 2013/1114](https://www.legislation.gov.uk/uksi/2013/1114).

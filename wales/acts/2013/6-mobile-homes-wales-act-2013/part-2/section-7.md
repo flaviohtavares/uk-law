@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Issue of site licence[^key-6c45831e01668578ef5fdef2dc4ed592]
+## 7. Issue of site licence[^c-6c45831e01668578ef5fdef2dc4ed592]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c45831e01668578ef5fdef2dc4ed592]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2013/6/section/7) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-6c45831e01668578ef5fdef2dc4ed592]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2013/6/section/7) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

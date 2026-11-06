@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Post-adoption contact[^key-32274d4e7e2f6fb087213ce91e3e68fb]
+## 49. Post-adoption contact[^c-32274d4e7e2f6fb087213ce91e3e68fb]
 
 *Extent: N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32274d4e7e2f6fb087213ce91e3e68fb]: Commencement: S. 49 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-32274d4e7e2f6fb087213ce91e3e68fb]: Commencement: S. 49 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

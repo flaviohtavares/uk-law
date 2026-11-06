@@ -164,8 +164,8 @@ require that person to furnish such relevant information available to him as is 
 - (a) to contravene, or to fail to comply with, any specified Community provision;
 - (b) to obstruct an inspector in the exercise of a power conferred by regulation 5;
 - (c) without reasonable excuse to fail to comply with any requirement imposed under regulation 5;
-- (d)[^key-6d9c900e3bb6c28343f0ed3fcd43867f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e) without reasonable excuse to fail to comply with the requirements of a notice issued under regulation 6 or[^key-c7fe293075203b72fc0b892ef74385f7] 7;
+- (d)[^c-6d9c900e3bb6c28343f0ed3fcd43867f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) without reasonable excuse to fail to comply with the requirements of a notice issued under regulation 6 or[^c-c7fe293075203b72fc0b892ef74385f7] 7;
 - (f) knowingly or recklessly to make a statement or furnish any information that is false or misleading in a material particular where the statement is made or the information is furnished in purported compliance with—
   - (i) any requirement imposed by a specified Community provision; or
   - (ii) a request of an inspector made for a purpose in connection with the execution or enforcement of these Regulations; or
@@ -288,6 +288,6 @@ A Regulatory Impact Assessment has been prepared for these Regulations and a cop
 
 [^f00008]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-6d9c900e3bb6c28343f0ed3fcd43867f]: Textual amendment: [Reg. 8(1)(d)](https://www.legislation.gov.uk/uksi/2004/2412/regulation/8/1/d) omitted (14.11.2008) by virtue of [Genetically Modified Organisms (England) (Amendments) Regulations 2008 (S.I. 2008/2598)](https://www.legislation.gov.uk/uksi/2008/2598), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2598/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2008/2598/regulation/2/a)
+[^c-6d9c900e3bb6c28343f0ed3fcd43867f]: Textual amendment: [Reg. 8(1)(d)](https://www.legislation.gov.uk/uksi/2004/2412/regulation/8/1/d) omitted (14.11.2008) by virtue of [Genetically Modified Organisms (England) (Amendments) Regulations 2008 (S.I. 2008/2598)](https://www.legislation.gov.uk/uksi/2008/2598), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2598/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2008/2598/regulation/2/a)
 
-[^key-c7fe293075203b72fc0b892ef74385f7]: Textual amendment: Words in [reg. 8(1)(e)](https://www.legislation.gov.uk/uksi/2004/2412/regulation/8/1/e) inserted (14.11.2008) by [Genetically Modified Organisms (England) (Amendments) Regulations 2008 (S.I. 2008/2598)](https://www.legislation.gov.uk/uksi/2008/2598), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2598/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2008/2598/regulation/2/b)
+[^c-c7fe293075203b72fc0b892ef74385f7]: Textual amendment: Words in [reg. 8(1)(e)](https://www.legislation.gov.uk/uksi/2004/2412/regulation/8/1/e) inserted (14.11.2008) by [Genetically Modified Organisms (England) (Amendments) Regulations 2008 (S.I. 2008/2598)](https://www.legislation.gov.uk/uksi/2008/2598), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2598/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2008/2598/regulation/2/b)

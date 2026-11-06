@@ -29,7 +29,7 @@ Settled Land Act 1882
 
 1882 c.38
 
-An Act for facilitating sales, leases, and other dispositions of settled land, and for promoting the execution of improvements thereon. *(Extent: S)* *(affected by repeal, see note)*[^key-b9c6a46e1401486fc883b30285f74e63][^c570299]
+An Act for facilitating sales, leases, and other dispositions of settled land, and for promoting the execution of improvements thereon. *(Extent: S)* *(affected by repeal, see note)*[^c-b9c6a46e1401486fc883b30285f74e63][^c570299]
 
 \[10th August 1882\][^c570300][^c570301][^c570302]
 
@@ -116,7 +116,7 @@ The enumeration of improvements contained in section nine of the Improvement of 
 
 ## Annotations
 
-[^key-b9c6a46e1401486fc883b30285f74e63]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/45-46/38) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-b9c6a46e1401486fc883b30285f74e63]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/45-46/38) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c570299]: Textual amendment: Long title and s. 1(1)(2) repealed by [Settled Land Act 1925 (c. 18)](https://www.legislation.gov.uk/ukpga/1925/18), [Sch. 5](https://www.legislation.gov.uk/ukpga/1925/18/schedule/5) but reproduced for the purpose of construing the remaining provisions of the Act
 

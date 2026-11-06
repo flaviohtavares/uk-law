@@ -34,7 +34,7 @@ Regulations made by the Department for Communities and laid before the Assembly 
 
 Social Security
 
-The Social Security Benefits Up-rating Regulations (Northern Ireland) 2023 (revoked)[^key-f448133d359a08cc72b488cde9a95290]
+The Social Security Benefits Up-rating Regulations (Northern Ireland) 2023 (revoked)[^c-f448133d359a08cc72b488cde9a95290]
 
 Made
 
@@ -44,46 +44,46 @@ Coming into operation
 
 10th April 2023
 
-[^key-f448133d359a08cc72b488cde9a95290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f448133d359a08cc72b488cde9a95290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f448133d359a08cc72b488cde9a95290]
+## 1. Citation, commencement and interpretation[^c-f448133d359a08cc72b488cde9a95290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-f448133d359a08cc72b488cde9a95290]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-f448133d359a08cc72b488cde9a95290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Northern Ireland[^key-f448133d359a08cc72b488cde9a95290]
+## 3. Persons not ordinarily resident in Northern Ireland[^c-f448133d359a08cc72b488cde9a95290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-f448133d359a08cc72b488cde9a95290]
+## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-f448133d359a08cc72b488cde9a95290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security Benefit (Dependency) Regulations[^key-f448133d359a08cc72b488cde9a95290]
+## 5. Amendment of the Social Security Benefit (Dependency) Regulations[^c-f448133d359a08cc72b488cde9a95290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Social Security (Claims and Payments) Regulations[^key-f448133d359a08cc72b488cde9a95290]
+## 6. Amendment of the Social Security (Claims and Payments) Regulations[^c-f448133d359a08cc72b488cde9a95290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Universal Credit (Transitional Provisions) Regulations[^key-f448133d359a08cc72b488cde9a95290]
+## 7. Amendment of the Universal Credit (Transitional Provisions) Regulations[^c-f448133d359a08cc72b488cde9a95290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-f448133d359a08cc72b488cde9a95290]
+## 8. Revocation[^c-f448133d359a08cc72b488cde9a95290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f448133d359a08cc72b488cde9a95290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f448133d359a08cc72b488cde9a95290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f448133d359a08cc72b488cde9a95290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f448133d359a08cc72b488cde9a95290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f448133d359a08cc72b488cde9a95290]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/45) revoked (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Regulations (Northern Ireland) 2023 (S.R. 2023/151)](https://www.legislation.gov.uk/nisr/2023/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/151/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2023/151/regulation/8)
+[^c-f448133d359a08cc72b488cde9a95290]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/45) revoked (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Regulations (Northern Ireland) 2023 (S.R. 2023/151)](https://www.legislation.gov.uk/nisr/2023/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/151/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2023/151/regulation/8)

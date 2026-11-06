@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39A. Power to make award on summary basis[^key-b2d6a8134fd3d73892dd1e41087062cd]
+## 39A. Power to make award on summary basis[^c-b2d6a8134fd3d73892dd1e41087062cd]
 
 *Extent: E+W+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2d6a8134fd3d73892dd1e41087062cd]: Textual amendment: S. 39A inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 7](https://www.legislation.gov.uk/ukpga/2025/4/section/7), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-b2d6a8134fd3d73892dd1e41087062cd]: Textual amendment: S. 39A inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 7](https://www.legislation.gov.uk/ukpga/2025/4/section/7), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

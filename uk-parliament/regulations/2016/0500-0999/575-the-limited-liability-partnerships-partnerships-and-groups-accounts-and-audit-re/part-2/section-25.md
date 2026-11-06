@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Minor definitions[^key-4d3f38a935469ef1904d17366d709493]
+## 25. Minor definitions[^c-4d3f38a935469ef1904d17366d709493]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4d3f38a935469ef1904d17366d709493]: Commencement: Reg. 25 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-4d3f38a935469ef1904d17366d709493]: Commencement: Reg. 25 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00038]: Footnote: Regulation 55 was amended by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), regulation 85 and paragraph 15 of Part 2 of Schedule 3.
 

@@ -42,7 +42,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 267(3)(e), (h) and (j) of that Act, a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-ffafb42982a77def6ddb1836140e8681]
+## 1. Citation, commencement and interpretation[^c-ffafb42982a77def6ddb1836140e8681]
 
 (1) These Regulations may be cited as the Investigatory Powers (Review of Notices and Technical Advisory Board) Regulations 2018.
 
@@ -55,7 +55,7 @@ In accordance with section 267(3)(e), (h) and (j) of that Act, a draft of these 
 
 (4) In these Regulations, “the Act” means the Investigatory Powers Act 2016.
 
-## 2. Period and circumstances in which notices may be referred for review[^key-ce912906dd006c9ec78464a4358ceabe]
+## 2. Period and circumstances in which notices may be referred for review[^c-ce912906dd006c9ec78464a4358ceabe]
 
 (1) A person to whom a retention notice, national security notice or technical capability notice is given may, where paragraph (2) applies, refer the notice back to the Secretary of State within 28 days of the day on which the notice is given.
 
@@ -63,7 +63,7 @@ In accordance with section 267(3)(e), (h) and (j) of that Act, a draft of these 
 
 (3) In this regulation, references to a notice being given include references to notice of the variation of a retention notice being published in accordance with section 94(2) of the Act.
 
-## 2A. Review period[^key-b29418c9883cc46d88e37b7641130e1b]
+## 2A. Review period[^c-b29418c9883cc46d88e37b7641130e1b]
 
 (1) For the purposes of sections 90(5) and 257(4) of the Act, the “review period” is a period of 180 days beginning with the day on which the notice is referred to the Secretary of State for review.
 
@@ -81,18 +81,18 @@ In accordance with section 267(3)(e), (h) and (j) of that Act, a draft of these 
 
 (4) The Secretary of State must notify in writing the Judicial Commissioner and the person to whom the notice was given of the duration of the extension.
 
-## 3. Membership of the Technical Advisory Board[^key-d2728c9b97b17186132b7df5a9e21ecd]
+## 3. Membership of the Technical Advisory Board[^c-d2728c9b97b17186132b7df5a9e21ecd]
 
-(1) The Technical Advisory Board must consist of at least thirteen members [^key-601098f72156b42bd65c2025bd5eab1d]....
+(1) The Technical Advisory Board must consist of at least thirteen members [^c-601098f72156b42bd65c2025bd5eab1d]....
 
-(2) At least six members[^key-8595f86000634e58b99cd3c262d3686d] must be persons holding an office, rank or position with either—
+(2) At least six members[^c-8595f86000634e58b99cd3c262d3686d] must be persons holding an office, rank or position with either—
 
 - (a) a person on whom obligations may be imposed by virtue of retention notices under Part 4 of the Act, national security notices under section 252 of the Act or technical capability notices under section 253 of the Act, or
 - (b) a person representing the interests of such persons.
 
 (3) The members to whom paragraph (2) applies must be persons with sufficient knowledge and experience to be likely effectively to represent the interests of persons on whom obligations may be imposed by virtue of retention notices under Part 4 of the Act, national security notices under section 252 of the Act or technical capability notices under section 253 of the Act.
 
-(4) At least six members[^key-01b69c1fa571c15f8515e2b88f44cb37] must be persons holding an office, rank or position with either—
+(4) At least six members[^c-01b69c1fa571c15f8515e2b88f44cb37] must be persons holding an office, rank or position with either—
 
 - (a) a person entitled to apply for warrants under Part 2, 5, 6 or 7 of the Act or authorisations under Part 3 of the Act, or
 - (b) a person representing the interests of such persons.
@@ -103,9 +103,9 @@ In accordance with section 267(3)(e), (h) and (j) of that Act, a draft of these 
 
 (7) One such member must be appointed chair and one other such member may be appointed deputy chair.
 
-(8)[^key-5b69663e2e19faf61d89c6c5f6705d61] So far as is reasonably practicable, the Technical Advisory Board must consist of an equal number of members to whom paragraph (2) applies and members to whom paragraph (4) applies.
+(8)[^c-5b69663e2e19faf61d89c6c5f6705d61] So far as is reasonably practicable, the Technical Advisory Board must consist of an equal number of members to whom paragraph (2) applies and members to whom paragraph (4) applies.
 
-## 4. Quorum[^key-30123867bbe821952eb094095f6c0329][^key-4c9141a4da7ac2a543f8480f8ce7b296][^key-6c779931c73589450c278ac2b7366bb1]
+## 4. Quorum[^c-30123867bbe821952eb094095f6c0329][^c-4c9141a4da7ac2a543f8480f8ce7b296][^c-6c779931c73589450c278ac2b7366bb1]
 
 (1) The quorum for any Technical Advisory Board is to be seven members of whom—
 
@@ -157,24 +157,24 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25).
 
-[^key-ffafb42982a77def6ddb1836140e8681]: Commencement: Reg. 1 in force at 12.3.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/1/2)
+[^c-ffafb42982a77def6ddb1836140e8681]: Commencement: Reg. 1 in force at 12.3.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/1/2)
 
-[^key-ce912906dd006c9ec78464a4358ceabe]: Commencement: Reg. 2 in force at 12.3.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/1/2)
+[^c-ce912906dd006c9ec78464a4358ceabe]: Commencement: Reg. 2 in force at 12.3.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/1/2)
 
-[^key-b29418c9883cc46d88e37b7641130e1b]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/2018/354/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/2018/354/regulation/2B) inserted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/656/regulation/5)
+[^c-b29418c9883cc46d88e37b7641130e1b]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/2018/354/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/2018/354/regulation/2B) inserted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/656/regulation/5)
 
-[^key-d2728c9b97b17186132b7df5a9e21ecd]: Commencement: Reg. 3 in force at 12.3.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/1/2)
+[^c-d2728c9b97b17186132b7df5a9e21ecd]: Commencement: Reg. 3 in force at 12.3.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/1/2)
 
-[^key-601098f72156b42bd65c2025bd5eab1d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/1) omitted (6.6.2025) by virtue of [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/a)
+[^c-601098f72156b42bd65c2025bd5eab1d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/1) omitted (6.6.2025) by virtue of [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/a)
 
-[^key-8595f86000634e58b99cd3c262d3686d]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/2) substituted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/b)
+[^c-8595f86000634e58b99cd3c262d3686d]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/2) substituted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/b)
 
-[^key-01b69c1fa571c15f8515e2b88f44cb37]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/4) substituted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/b)
+[^c-01b69c1fa571c15f8515e2b88f44cb37]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/4) substituted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/b)
 
-[^key-5b69663e2e19faf61d89c6c5f6705d61]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/8) inserted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/c)
+[^c-5b69663e2e19faf61d89c6c5f6705d61]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/8) inserted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/c)
 
-[^key-30123867bbe821952eb094095f6c0329]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/354/regulation/4): "paragraphs (1) and (2)" in force at 1.11.2018 for specified purposes by virtue of reg. 1(3)(a)
+[^c-30123867bbe821952eb094095f6c0329]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/354/regulation/4): "paragraphs (1) and (2)" in force at 1.11.2018 for specified purposes by virtue of reg. 1(3)(a)
 
-[^key-4c9141a4da7ac2a543f8480f8ce7b296]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/354/regulation/4): "paragraph (3)" in force at 1.11.2018 by virtue of reg. 1(3)(b)
+[^c-4c9141a4da7ac2a543f8480f8ce7b296]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/354/regulation/4): "paragraph (3)" in force at 1.11.2018 by virtue of reg. 1(3)(b)
 
-[^key-6c779931c73589450c278ac2b7366bb1]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/354/regulation/4) substituted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/656/regulation/7)
+[^c-6c779931c73589450c278ac2b7366bb1]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/354/regulation/4) substituted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/656/regulation/7)

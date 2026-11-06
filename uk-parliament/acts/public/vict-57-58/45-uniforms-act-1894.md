@@ -51,8 +51,8 @@ If any person not serving in Her Majesty’s Naval or Military Forces wears with
 
 In this Act—
 
-- “Her Majesty’s Military Forces”has the same meaning as in the Armed Forces Act 2006[^key-1ac84c9ddccf04e09a7c9d6f203a1fd4];
-- “[^key-b589b89d5b1474294aaa8bb95e5d1bd8]**Her Majesty's Naval Forces**” does not include any Commonwealth force.
+- “Her Majesty’s Military Forces”has the same meaning as in the Armed Forces Act 2006[^c-1ac84c9ddccf04e09a7c9d6f203a1fd4];
+- “[^c-b589b89d5b1474294aaa8bb95e5d1bd8]**Her Majesty's Naval Forces**” does not include any Commonwealth force.
 
 ## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c576359]
 
@@ -70,8 +70,8 @@ In this Act—
 
 [^c576358]: Textual amendment: S. 4 substituted by [Armed Forces Act 1981 (c. 55, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1981/55) , [s. 20](https://www.legislation.gov.uk/ukpga/1981/55/section/20) , [Sch. 3 Pt. II para. 5](https://www.legislation.gov.uk/ukpga/1981/55/schedule/3/part/II/paragraph/5)
 
-[^key-1ac84c9ddccf04e09a7c9d6f203a1fd4]: Textual amendment: Words in s. 4 substituted (28.3.2009 for specified purposes and 31.10.2009 otherwise) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2) , [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/11/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4
+[^c-1ac84c9ddccf04e09a7c9d6f203a1fd4]: Textual amendment: Words in s. 4 substituted (28.3.2009 for specified purposes and 31.10.2009 otherwise) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2) , [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/11/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4
 
-[^key-b589b89d5b1474294aaa8bb95e5d1bd8]: Textual amendment: Words in s. 4 substituted (28.3.2009 for specified purposes and 31.10.2009 otherwise) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2) , [Sch. 16 para. 11(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/11/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4
+[^c-b589b89d5b1474294aaa8bb95e5d1bd8]: Textual amendment: Words in s. 4 substituted (28.3.2009 for specified purposes and 31.10.2009 otherwise) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2) , [Sch. 16 para. 11(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/11/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4
 
 [^c576359]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Vict/57-58/45/section/5) repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)

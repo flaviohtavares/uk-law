@@ -116,7 +116,7 @@ An Act to consolidate the Firearms Acts 1937 and 1965, the Air Guns and Shot Gun
 - [Section 32 — Fee for certificate and exemption from paying it in certain cases.](part-ii/section-32.md)
 - [Section 32ZA — Fees in connection with authority under section 5](part-ii/section-32za.md)
 
-#### ...[^key-cbc1a4bf3b981e4e1640fcf59393ac0a]
+#### ...[^c-cbc1a4bf3b981e4e1640fcf59393ac0a]
 
 - [Section 32A — Documents for European purposes.](part-ii/section-32a.md)
 - [Section 32B — Renewal of European firearms pass.](part-ii/section-32b.md)
@@ -202,4 +202,4 @@ SCHEDULES
 
 [^c9808391]: Modification: Act applied (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 50(2)(3)](https://www.legislation.gov.uk/ukpga/1997/5/section/50/2/3); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3](https://www.legislation.gov.uk/uksi/1997/1535/article/3), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
 
-[^key-cbc1a4bf3b981e4e1640fcf59393ac0a]: Textual amendment: S. 32A and crossheading omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [59(6)](https://www.legislation.gov.uk/uksi/2019/742/regulation/59/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cbc1a4bf3b981e4e1640fcf59393ac0a]: Textual amendment: S. 32A and crossheading omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [59(6)](https://www.legislation.gov.uk/uksi/2019/742/regulation/59/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Hazardous waste facilities[^key-4c62acd205848808ca427c7576625047]
+## 15. Hazardous waste facilities[^c-4c62acd205848808ca427c7576625047]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c62acd205848808ca427c7576625047]: Commencement: S. 15 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-4c62acd205848808ca427c7576625047]: Commencement: S. 15 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

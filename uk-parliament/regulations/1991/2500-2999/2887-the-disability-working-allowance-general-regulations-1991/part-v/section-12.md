@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Calculation of income and capital of members of claimant’s family and of a polygamous marriage[^key-cdd00d1a2a26b5b546316feae1dc703e]
+## 12. Calculation of income and capital of members of claimant’s family and of a polygamous marriage[^c-cdd00d1a2a26b5b546316feae1dc703e]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdd00d1a2a26b5b546316feae1dc703e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1991/2887/regulation/12) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-cdd00d1a2a26b5b546316feae1dc703e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1991/2887/regulation/12) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)

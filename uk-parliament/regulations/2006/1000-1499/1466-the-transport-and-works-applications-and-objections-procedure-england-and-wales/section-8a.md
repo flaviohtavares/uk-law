@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8A. Coordination where application requires appropriate assessment[^key-1912d5456c1a9e4235a9ab1cd67d1663]
+## 8A. Coordination where application requires appropriate assessment[^c-1912d5456c1a9e4235a9ab1cd67d1663]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1912d5456c1a9e4235a9ab1cd67d1663]: Textual amendment: [Rule 8A](https://www.legislation.gov.uk/uksi/2006/1466/rule/8A) inserted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2017/1070/schedule/4/paragraph/7) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9))
+[^c-1912d5456c1a9e4235a9ab1cd67d1663]: Textual amendment: [Rule 8A](https://www.legislation.gov.uk/uksi/2006/1466/rule/8A) inserted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2017/1070/schedule/4/paragraph/7) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/9))

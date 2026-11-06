@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Modifications of the 1983 Act[^key-5da63ba091091dbadbd352e4c9269303][^key-e41a8cd825c02b06e99b28cdf68555c6]
+## 6. Modifications of the 1983 Act[^c-5da63ba091091dbadbd352e4c9269303][^c-e41a8cd825c02b06e99b28cdf68555c6]
 
 *Extent: E+W*
 
@@ -26,8 +26,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5da63ba091091dbadbd352e4c9269303]: Commencement: Rule 6 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)
+[^c-5da63ba091091dbadbd352e4c9269303]: Commencement: Rule 6 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)
 
-[^key-e41a8cd825c02b06e99b28cdf68555c6]: Modification: [Rule 6](https://www.legislation.gov.uk/wsi/2021/1460/rule/6) applied (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/26) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-e41a8cd825c02b06e99b28cdf68555c6]: Modification: [Rule 6](https://www.legislation.gov.uk/wsi/2021/1460/rule/6) applied (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/26) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
 
 [^f00008]: Footnote: Section 136(2)(b) was amended by paragraph 48 of Schedule 4 to the Representation of the People Act 1985 and by paragraph 19(4) of Schedule 18 to the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41).

@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Valuation Timetable (Disposal of Appeals and Complaints) (Coronavirus) (Scotland) Amendment Order 2020 (revoked)[^key-a74a74dc4f1b1a1c1ba43c3e45bb73a4]
+The Valuation Timetable (Disposal of Appeals and Complaints) (Coronavirus) (Scotland) Amendment Order 2020 (revoked)[^c-a74a74dc4f1b1a1c1ba43c3e45bb73a4]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 29th September 2020
 
-[^key-a74a74dc4f1b1a1c1ba43c3e45bb73a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a74a74dc4f1b1a1c1ba43c3e45bb73a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a74a74dc4f1b1a1c1ba43c3e45bb73a4]
+## 1. Citation and commencement[^c-a74a74dc4f1b1a1c1ba43c3e45bb73a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Valuation Timetable (Scotland) Order 1995[^key-a74a74dc4f1b1a1c1ba43c3e45bb73a4]
+## 2. Amendment of the Valuation Timetable (Scotland) Order 1995[^c-a74a74dc4f1b1a1c1ba43c3e45bb73a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a74a74dc4f1b1a1c1ba43c3e45bb73a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a74a74dc4f1b1a1c1ba43c3e45bb73a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a74a74dc4f1b1a1c1ba43c3e45bb73a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a74a74dc4f1b1a1c1ba43c3e45bb73a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a74a74dc4f1b1a1c1ba43c3e45bb73a4]: Textual amendment: Order revoked (6.2.2023) by [The Valuation Timetable (Scotland) Order 2022 (S.S.I. 2022/368)](https://www.legislation.gov.uk/ssi/2022/368), [art. 1](https://www.legislation.gov.uk/ssi/2022/368/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/368/schedule/2) (with [arts. 6(2)](https://www.legislation.gov.uk/ssi/2022/368/article/6/2), [7](https://www.legislation.gov.uk/ssi/2022/368/article/7)) (as amended (15.6.2023) by [S.S.I. 2023/166](https://www.legislation.gov.uk/ssi/2023/166), [arts. 1](https://www.legislation.gov.uk/ssi/2023/166/article/1), [2](https://www.legislation.gov.uk/ssi/2023/166/article/2))
+[^c-a74a74dc4f1b1a1c1ba43c3e45bb73a4]: Textual amendment: Order revoked (6.2.2023) by [The Valuation Timetable (Scotland) Order 2022 (S.S.I. 2022/368)](https://www.legislation.gov.uk/ssi/2022/368), [art. 1](https://www.legislation.gov.uk/ssi/2022/368/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/368/schedule/2) (with [arts. 6(2)](https://www.legislation.gov.uk/ssi/2022/368/article/6/2), [7](https://www.legislation.gov.uk/ssi/2022/368/article/7)) (as amended (15.6.2023) by [S.S.I. 2023/166](https://www.legislation.gov.uk/ssi/2023/166), [arts. 1](https://www.legislation.gov.uk/ssi/2023/166/article/1), [2](https://www.legislation.gov.uk/ssi/2023/166/article/2))

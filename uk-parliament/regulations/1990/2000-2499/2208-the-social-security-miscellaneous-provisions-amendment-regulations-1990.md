@@ -51,7 +51,7 @@ The Secretary of State for Social Security, in exercise of powers conferred by s
 - (b) for the purposes of regulation 16(3)(b), in relation to a particular beneficiary, at the first determination to be made by an adjudicating authority under paragraphs 5, 6 or 7 of Schedule 9 to the Social Security (Claims and Payments) Regulations 1987 on or after 5th December 1990;
 - (c) for all other purposes 5th December 1990.
 
-(2)[^key-e05b0105d3efe869cdae709ab98fef59] In these Regulations—
+(2)[^c-e05b0105d3efe869cdae709ab98fef59] In these Regulations—
 
 - “Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations 1987;
 - “Computation of Earnings Regulations” means the Social Security Benefit (Computation of Earnings) Regulations 1978.
@@ -100,7 +100,7 @@ In regulation 5 of the Computation of Earnings Regulations (calculation of earni
 - (a) in paragraph (1)(a) after the words “specified benefit” (and within the brackets) there shall be added the words “or section 41(2A) or section 64(1A)[^f00016] of the Act applies and the beneficiary is entitled to a specified benefit or retirement pension”; and
 - (b) in paragraph (2) for the words “sections 30(1), 45 to 49 (other than subsection (b) of section 49) and 66(4) of the Act” there shall be substituted the words “sections 30(1), 41, 45 to 49 (other than subsection (b) of section 49), 64 and 66(4) of the Act”.
 
-## 7. Amendment of regulation 3 of the Claims and Payments Regulations[^key-cd86f8af9addebe5f87fa2318227e670]
+## 7. Amendment of regulation 3 of the Claims and Payments Regulations[^c-cd86f8af9addebe5f87fa2318227e670]
 
 After paragraph (e) of regulation 3 of the Claims and Payments Regulations (claims not required for entitlement to benefit in certain cases) there shall be added the following paragraph—
 
@@ -108,19 +108,19 @@ After paragraph (e) of regulation 3 of the Claims and Payments Regulations (clai
 
 .
 
-## 8. Amendment of regulation 4 of the Claims and Payments Regulations[^key-cd86f8af9addebe5f87fa2318227e670]
+## 8. Amendment of regulation 4 of the Claims and Payments Regulations[^c-cd86f8af9addebe5f87fa2318227e670]
 
 In regulation 4(6) of the Claims and Payments Regulations (making a claim for benefit) for the words “if any” there shall be substituted the words “or to such other place”.
 
-## 9. Amendment of regulation 6 of the Claims and Payments Regulations[^key-cd86f8af9addebe5f87fa2318227e670]
+## 9. Amendment of regulation 6 of the Claims and Payments Regulations[^c-cd86f8af9addebe5f87fa2318227e670]
 
 In regulation 6(6) of the Claims and Payments Regulations (date of claim) after the words “on the date” there shall be inserted the words “not later than 5th December 1990”.
 
-## 10. Amendment of regulation 24 of the Claims and Payments Regulations[^key-cd86f8af9addebe5f87fa2318227e670]
+## 10. Amendment of regulation 24 of the Claims and Payments Regulations[^c-cd86f8af9addebe5f87fa2318227e670]
 
 In regulation 24(3) of the Claims and Payments Regulations (unemployment benefit, sickness or invalidity benefit, maternity allowance and severe disablement allowance) after the words “sickness or invalidity benefit” there shall be added the words “or severe disablement allowance”.
 
-## 11. Amendment of regulation 30 of the Claims and Payments Regulations[^key-cd86f8af9addebe5f87fa2318227e670]
+## 11. Amendment of regulation 30 of the Claims and Payments Regulations[^c-cd86f8af9addebe5f87fa2318227e670]
 
 (1) Regulation 30 of the Claims and Payments Regulations (payments on death) shall be amended in accordance with the following provisions of this regulation.
 
@@ -140,11 +140,11 @@ In regulation 24(3) of the Claims and Payments Regulations (unemployment benefit
 
 (4) In paragraph (7) after the words “in accordance with paragraph (5)” there shall be inserted the words “or paragraph (6A)”.
 
-## 12. Amendment of regulation 40 of the Claims and Payments Regulations[^key-cd86f8af9addebe5f87fa2318227e670]
+## 12. Amendment of regulation 40 of the Claims and Payments Regulations[^c-cd86f8af9addebe5f87fa2318227e670]
 
 In regulation 40 of the Claims and Payments Regulations (claim received within 6 months after the end of a period for which mobility allowance awarded) for the reference to “75” there shall be substituted a reference to “80”[^f00018].
 
-## 13. Amendment of regulation 44 of the Claims and Payments Regulations[^key-cd86f8af9addebe5f87fa2318227e670]
+## 13. Amendment of regulation 44 of the Claims and Payments Regulations[^c-cd86f8af9addebe5f87fa2318227e670]
 
 For regulation 44(5) of the Claims and Payments Regulations (payment of mobility allowance on behalf of a beneficiary) there shall be substituted the following paragraph—
 
@@ -152,11 +152,11 @@ For regulation 44(5) of the Claims and Payments Regulations (payment of mobility
 
 .
 
-## 14. Amendment of Schedule 1 to the Claims and Payments Regulations[^key-cd86f8af9addebe5f87fa2318227e670]
+## 14. Amendment of Schedule 1 to the Claims and Payments Regulations[^c-cd86f8af9addebe5f87fa2318227e670]
 
 In Part I of Schedule 1 to the Claims and Payments Regulations (benefit claimed and other benefit which may be treated as if claimed in addition or in the alternative) in Column (1) (benefit claimed) there shall be added at the end “Widow’s benefit” and in Column (2) (alternative benefit) (so as to correspond with the entry for “Widow’s benefit”) there shall be added “A retirement pension of any category or graduated retirement benefit.”.
 
-## 15. Amendment of Schedule 7 to the Claims and Payments Regulations[^key-cd86f8af9addebe5f87fa2318227e670]
+## 15. Amendment of Schedule 7 to the Claims and Payments Regulations[^c-cd86f8af9addebe5f87fa2318227e670]
 
 For paragraph 7 of Schedule 7 to the Claims and Payments Regulations (manner and time of payment etc. in income support cases) there shall be substituted the following paragraph.
 
@@ -196,7 +196,7 @@ For paragraph 7 of Schedule 7 to the Claims and Payments Regulations (manner and
 
 .
 
-## 16. Amendment of Schedule 9 to the Claims and Payments Regulations[^key-cd86f8af9addebe5f87fa2318227e670]
+## 16. Amendment of Schedule 9 to the Claims and Payments Regulations[^c-cd86f8af9addebe5f87fa2318227e670]
 
 (1) Schedule 9 to the Claims and Payments Regulations (deductions from benefit and direct payment to third parties) shall be amended in accordance with the following provisions of this regulation.
 
@@ -207,7 +207,7 @@ For paragraph 7 of Schedule 7 to the Claims and Payments Regulations (manner and
 - (a) after the word “maximum” there shall be inserted the word “aggregate”; and
 - (b) for the words “sub-paragraphs 5(5) and 6(6)” there shall be substituted the words “paragraphs 5(5), 6(6) and 7”.
 
-## 17. Amendment of the Housing Benefit (General) Regulations 1987[^key-d2a0e05aff70ffa16b3f712adb454a0d]
+## 17. Amendment of the Housing Benefit (General) Regulations 1987[^c-d2a0e05aff70ffa16b3f712adb454a0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -287,7 +287,7 @@ Minor amendments of a drafting nature are also made.
 
 [^f00005]: Footnote: See section 61(8)(b) of the Social Security Act 1986.
 
-[^key-e05b0105d3efe869cdae709ab98fef59]: Modification: Reg. 1(2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-e05b0105d3efe869cdae709ab98fef59]: Modification: Reg. 1(2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00008]: Footnote: S.I. [1975/598](https://www.legislation.gov.uk/uksi/1975/598), to which the relevant amendments are S.I. [1977/342](https://www.legislation.gov.uk/uksi/1977/342) and [417](https://www.legislation.gov.uk/uksi/1977/417), [1979/1684](https://www.legislation.gov.uk/uksi/1979/1684), [1983/1015](https://www.legislation.gov.uk/uksi/1983/1015), [1137](https://www.legislation.gov.uk/uksi/1983/1137) and [1741](https://www.legislation.gov.uk/uksi/1983/1741).
 
@@ -307,7 +307,7 @@ Minor amendments of a drafting nature are also made.
 
 [^f00016]: Footnote: Subsection (2A) of section 41 was inserted by paragraph 3(c) of Schedule 5 to the 1984 Act and subsection (1A) of section 64 was inserted by paragraph 4 of Schedule 5 to the 1984 Act.
 
-[^key-cd86f8af9addebe5f87fa2318227e670]: Modification: [Regs. 7-16](https://www.legislation.gov.uk/uksi/1990/2208/regulation/7) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-cd86f8af9addebe5f87fa2318227e670]: Modification: [Regs. 7-16](https://www.legislation.gov.uk/uksi/1990/2208/regulation/7) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00017]: Footnote: Subsections (3) and (4) were inserted into section 61 by paragraph 6 of Schedule 3 to the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50).
 
@@ -321,7 +321,7 @@ Minor amendments of a drafting nature are also made.
 
 [^f00022]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14). Sub-section (1) of section 104 was substituted by paragraph 10(a) of Schedule 5 to the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50).
 
-[^key-d2a0e05aff70ffa16b3f712adb454a0d]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1990/2208/regulation/17) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-d2a0e05aff70ffa16b3f712adb454a0d]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1990/2208/regulation/17) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^f00024]: Footnote: S.I. [1989/1321](https://www.legislation.gov.uk/uksi/1989/1321); the relevant amending instruments are S.I. [1990/835](https://www.legislation.gov.uk/uksi/1990/835) and [1773](https://www.legislation.gov.uk/uksi/1990/1773).
 

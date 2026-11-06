@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Power of Secretary of State to make consequential provision[^key-3c10ae3ade039a320a7b0b444885954b]
+## 143. Power of Secretary of State to make consequential provision[^c-3c10ae3ade039a320a7b0b444885954b]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 ## Annotations
 
-[^key-3c10ae3ade039a320a7b0b444885954b]: Commencement: S. 143 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-3c10ae3ade039a320a7b0b444885954b]: Commencement: S. 143 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

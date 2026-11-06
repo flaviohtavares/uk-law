@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 193. Commutation of small pensions[^key-aa7588c4564fd0eb39bf9acab560bde1]
+## 193. Commutation of small pensions[^c-aa7588c4564fd0eb39bf9acab560bde1]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ summary: ''
 
 - “beneficiary”, in relation to a deceased member, means the surviving adult or eligible child of the member;
 - “the commutation provisions” means the provisions permitting the commutation of pensions set out in—
-  - (a) paragraph 7 of schedule 29 of the Finance Act 2004,[^key-e003d9e49acb479f87cd456351ce25a3]
+  - (a) paragraph 7 of schedule 29 of the Finance Act 2004,[^c-e003d9e49acb479f87cd456351ce25a3]
   - (b) regulation 2 of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997[^f00069];
   - (c) paragraph 7 of Schedule 29 (authorised lump sums – supplementary) to FA 2004 (which defines trivial commutation lump sums for the purposes of Part 4 of that Act)[^f00070] and, in relation to a pension payable under Part 9 (death benefits), paragraph 20 of that Schedule (which defines trivial commutation lump sum death benefit for the purposes of Part 4 of that Act)[^f00071]; and
   - (d) regulation 3 of the Pension Sharing (Pension Credit Benefit) Regulations 2000[^f00072];
@@ -50,9 +50,9 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7588c4564fd0eb39bf9acab560bde1]: Commencement: Reg. 193 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-aa7588c4564fd0eb39bf9acab560bde1]: Commencement: Reg. 193 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-e003d9e49acb479f87cd456351ce25a3]: Textual amendment: Words in [reg. 193(5)](https://www.legislation.gov.uk/ssi/2015/142/regulation/193/5) substituted (with effect from 6.4.2016) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2/b), [60](https://www.legislation.gov.uk/ssi/2019/68/regulation/60)
+[^c-e003d9e49acb479f87cd456351ce25a3]: Textual amendment: Words in [reg. 193(5)](https://www.legislation.gov.uk/ssi/2015/142/regulation/193/5) substituted (with effect from 6.4.2016) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2/b), [60](https://www.legislation.gov.uk/ssi/2019/68/regulation/60)
 
 [^f00069]: Footnote: [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785). Regulation 2 was amended by [S.I. 2002/681](https://www.legislation.gov.uk/uksi/2002/681), [S.I. 2005/706](https://www.legislation.gov.uk/uksi/2005/706), [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744), [S.I. 2006/778](https://www.legislation.gov.uk/uksi/2006/778) and [S.I. 2009/2930](https://www.legislation.gov.uk/uksi/2009/2930).
 

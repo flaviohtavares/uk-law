@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Revocation of authorisation to use “university” title[^key-07e391eaa10296d98dc241930bf419a6]
+## 58. Revocation of authorisation to use “university” title[^c-07e391eaa10296d98dc241930bf419a6]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ to an institution in England to include the word “university” in its name.
 
 ## Annotations
 
-[^key-07e391eaa10296d98dc241930bf419a6]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2017/29/section/58) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/g)
+[^c-07e391eaa10296d98dc241930bf419a6]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2017/29/section/58) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/g)

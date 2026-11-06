@@ -31,7 +31,7 @@ summary: ''
 
 - (a) a regulatory function so far as exercisable in Scotland, if or to the extent that the function relates to matters which are not reserved matters;
 - (b) a regulatory function so far as exercisable in Northern Ireland, if or to the extent that the function relates to matters which are transferred matters;
-- (c) a regulatory function so far as exercisable in Wales, if or to the extent that the function could be conferred by provision falling within the legislative competence of the National Assembly for Wales[^key-3b53c7e80f91a72bdd7b1e3112e61cfb].
+- (c) a regulatory function so far as exercisable in Wales, if or to the extent that the function could be conferred by provision falling within the legislative competence of the National Assembly for Wales[^c-3b53c7e80f91a72bdd7b1e3112e61cfb].
 
 (4) An order under this section must be made by statutory instrument.
 
@@ -39,13 +39,13 @@ summary: ''
 
 (6) In this section—
 
-- [^key-ac988ed81b8adb1eea23b724fcf40cba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-ac988ed81b8adb1eea23b724fcf40cba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**reserved matter**” and “**Scotland**” have the same meanings as in the Scotland Act 1998;
 - “**transferred matter**” and “**Northern Ireland**” have the same meanings as in the Northern Ireland Act 1998;
 - “**Wales**” has the same meaning as in the Government of Wales Act 2006.
 
 ## Annotations
 
-[^key-3b53c7e80f91a72bdd7b1e3112e61cfb]: Textual amendment: Words in s. 109(3)(c) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 105(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/105/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-3b53c7e80f91a72bdd7b1e3112e61cfb]: Textual amendment: Words in s. 109(3)(c) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 105(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/105/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-ac988ed81b8adb1eea23b724fcf40cba]: Textual amendment: Words in s. 109(6) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 105(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/105/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-ac988ed81b8adb1eea23b724fcf40cba]: Textual amendment: Words in s. 109(6) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 105(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/105/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

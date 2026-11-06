@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Environmental Impact Assessment (Agriculture) (Scotland) Regulations 2006 (revoked)[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+The Environmental Impact Assessment (Agriculture) (Scotland) Regulations 2006 (revoked)[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 Made
 
@@ -46,226 +46,226 @@ Coming into force
 
 1st January 2007
 
-[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 1. Citation, commencement and extent[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 2. Interpretation[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 3. Application[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Screening decision – uncultivated land project and semi-natural areas[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 4. Screening decision – uncultivated land project and semi-natural areas[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Screening decision – restructuring project[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 5. Screening decision – restructuring project[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Thresholds[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 6. Thresholds[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application for screening decision[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 7. Application for screening decision[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Requirement for consent[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 8. Requirement for consent[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Scoping opinion[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 9. Scoping opinion[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Provision of information[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 10. Provision of information[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Application for consent[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 11. Application for consent[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Additional Information[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 12. Additional Information[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Other EEA States[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 13. Other EEA States[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Transborder projects[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 14. Transborder projects[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. The consent decision[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 15. The consent decision[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Review of decisions and consents[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 16. Review of decisions and consents[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Appeals (general provisions)[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 17. Appeals (general provisions)[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Determination of appeals by written representations[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 18. Determination of appeals by written representations[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Determination of appeals by an inquiry[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 19. Determination of appeals by an inquiry[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Application to the court by person aggrieved[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 20. Application to the court by person aggrieved[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Access to review procedures before a court[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 21. Access to review procedures before a court[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Offences[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 22. Offences[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23.[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 23.[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 24.[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Stop notices[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 25. Stop notices[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Penalties for contravention of a stop notice[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 26. Penalties for contravention of a stop notice[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27. Reinstatement[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 27. Reinstatement[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28. Powers of entry and default powers[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 28. Powers of entry and default powers[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 29. Offences by bodies corporate[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 29. Offences by bodies corporate[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 30. Revocation[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 30. Revocation[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 31. Transitional provisions[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## 31. Transitional provisions[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Thresholds for a project involving restructuring of rural land holdings on agricultural land wholly outwith a sensitive area[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## SCHEDULE 1 — Thresholds for a project involving restructuring of rural land holdings on agricultural land wholly outwith a sensitive area[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 Regulation 6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — SELECTION CRITERIA FOR A SCREENING DECISION[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## SCHEDULE 2 — SELECTION CRITERIA FOR A SCREENING DECISION[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 Regulation 7(4)
 
-**1.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — INFORMATION FOR INCLUSION IN AN ENVIRONMENTAL STATEMENT[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## SCHEDULE 3 — INFORMATION FOR INCLUSION IN AN ENVIRONMENTAL STATEMENT[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 Regulation 2(1)
 
-### PART I[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+### PART I[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
-**1.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+### PART II[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
-**1.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — REVIEW OF DECISIONS AND CONSENTS[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## SCHEDULE 4 — REVIEW OF DECISIONS AND CONSENTS[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 Regulation 16
 
-**1.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — DELEGATION OF APPELLATE FUNCTIONS[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]
+## SCHEDULE 5 — DELEGATION OF APPELLATE FUNCTIONS[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]
 
 Regulation 17(12)
 
-**1.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cfbf288ec8a2cbdba65f3073ce89b9ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cfbf288ec8a2cbdba65f3073ce89b9ab]: Textual amendment: Regulations revoked (16.5.2017) by [The Agriculture, Land Drainage and Irrigation Projects (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/114)](https://www.legislation.gov.uk/ssi/2017/114), [regs. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1), [49(1)](https://www.legislation.gov.uk/ssi/2017/114/regulation/49/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/114/regulation/3), [28](https://www.legislation.gov.uk/ssi/2017/114/regulation/28), [40](https://www.legislation.gov.uk/ssi/2017/114/regulation/40), [49(2)-(4)](https://www.legislation.gov.uk/ssi/2017/114/regulation/49/2), [50(3)](https://www.legislation.gov.uk/ssi/2017/114/regulation/50/3), [51(3)](https://www.legislation.gov.uk/ssi/2017/114/regulation/51/3))
+[^c-cfbf288ec8a2cbdba65f3073ce89b9ab]: Textual amendment: Regulations revoked (16.5.2017) by [The Agriculture, Land Drainage and Irrigation Projects (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/114)](https://www.legislation.gov.uk/ssi/2017/114), [regs. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1), [49(1)](https://www.legislation.gov.uk/ssi/2017/114/regulation/49/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/114/regulation/3), [28](https://www.legislation.gov.uk/ssi/2017/114/regulation/28), [40](https://www.legislation.gov.uk/ssi/2017/114/regulation/40), [49(2)-(4)](https://www.legislation.gov.uk/ssi/2017/114/regulation/49/2), [50(3)](https://www.legislation.gov.uk/ssi/2017/114/regulation/50/3), [51(3)](https://www.legislation.gov.uk/ssi/2017/114/regulation/51/3))

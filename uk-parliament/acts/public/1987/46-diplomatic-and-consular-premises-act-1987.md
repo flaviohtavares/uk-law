@@ -132,7 +132,7 @@ In this Part of this Act—
 
 - “**consular post**” and “**consular premises**” have the meanings given by the definitions in paragraph 1(a) and (j) of Article 1 of the 1963 Convention as that Article has effect in the United Kingdom by virtue of section 1 of and Schedule 1 to the [^c9342181]Consular Relations Act 1968;
 - “**diplomatic premises**” means premises of the mission of a State;
-- “[^key-07f062b70ade7fe91935a61255845a09]**land**” includes buildings and other structures, land covered with water and any estate, interest, easement, servitude or right in or over land,
+- “[^c-07f062b70ade7fe91935a61255845a09]**land**” includes buildings and other structures, land covered with water and any estate, interest, easement, servitude or right in or over land,
 - “**mortgage**” includes a charge or lien for securing money or money’s worth, and references to mortgagees shall be construed accordingly;
 - “**premises of the mission**” has the meaning given by the definition in Article 1(i) of the 1961 Convention as that Article has effect in the United Kingdom by virtue of section 2 of and Schedule 1 to the [^c9342191]Diplomatic Privileges Act 1964;
 - “**the 1961 Convention**” means the Vienna Convention on Diplomatic Relations signed in 1961; and
@@ -194,12 +194,12 @@ Section 4.
 
 **1.** In this Part of this Schedule—
 
-- “[^key-f737f56bfb2e37dd2cd12d3cff69db8f]**registered land**” has the same meaning as in the Land Registration Act 2002;
+- “[^c-f737f56bfb2e37dd2cd12d3cff69db8f]**registered land**” has the same meaning as in the Land Registration Act 2002;
 - “**the registrar**” means the Chief Land Registrar;
 - “**the registry**” means Her Majesty’s Land Registry;
 - “**the searches rules**” means the [^c9342271]Land Registration (Official Searches) Rules 1986 and any rules amending or replacing them;
 
-[^key-19f8ea0362a56c003555c3409bdd92dc]...
+[^c-19f8ea0362a56c003555c3409bdd92dc]...
 
 #### General
 
@@ -389,7 +389,7 @@ Section 6.
 
 [^c9342181]: Marginal citation: [1968 c. 18](https://www.legislation.gov.uk/ukpga/1968/18).
 
-[^key-07f062b70ade7fe91935a61255845a09]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/1987/46/section/5) inserted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 21(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/21/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-07f062b70ade7fe91935a61255845a09]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/1987/46/section/5) inserted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 21(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/21/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c9342191]: Marginal citation: [1964 c. 81](https://www.legislation.gov.uk/ukpga/1964/81).
 
@@ -401,11 +401,11 @@ Section 6.
 
 [^c9342261]: Modification: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1987/46/section/9/2) Power of appointment fully exercised: [S.I. 1987/1022](https://www.legislation.gov.uk/uksi/1987/1022), 2248, 1988/106
 
-[^key-f737f56bfb2e37dd2cd12d3cff69db8f]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1987/46/schedule/1/paragraph/1) inserted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 21(3)(a)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/21/3/a) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-f737f56bfb2e37dd2cd12d3cff69db8f]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1987/46/schedule/1/paragraph/1) inserted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 21(3)(a)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/21/3/a) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c9342271]: Marginal citation: S.I.[1986 No.1536](https://www.legislation.gov.uk/ukcm/1986/1536)
 
-[^key-19f8ea0362a56c003555c3409bdd92dc]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1987/46/schedule/1/paragraph/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 21(3)(b)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/21/3/b), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-19f8ea0362a56c003555c3409bdd92dc]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1987/46/schedule/1/paragraph/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 21(3)(b)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/21/3/b), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c9342331]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1987/46/schedule/1/paragraph/2) repealed (E.W.) by [Land Registration Act 1988 (c.3, SIF 98:2)](https://www.legislation.gov.uk/ukpga/1988/3). ss. 1(g), 2, Sch.
 

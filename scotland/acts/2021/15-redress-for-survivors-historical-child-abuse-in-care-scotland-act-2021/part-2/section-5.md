@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Membership, procedures and powers etc.[^key-8add998abc92a2c7c717d7433206a757]
+## 5. Membership, procedures and powers etc.[^c-8add998abc92a2c7c717d7433206a757]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Schedule 1 makes provision—
 
 ## Annotations
 
-[^key-8add998abc92a2c7c717d7433206a757]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/15/section/5) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-8add998abc92a2c7c717d7433206a757]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/15/section/5) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

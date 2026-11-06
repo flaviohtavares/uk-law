@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1B — TEXTS OF THE LETTERS EXCHANGED BY THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF IRELAND CONSTITUTING THE FURTHER SUPPLEMENTARY AGREEMENT[^key-1f8cdd27094b263988aba61c99d88e27]
+## SCHEDULE 1B — TEXTS OF THE LETTERS EXCHANGED BY THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF IRELAND CONSTITUTING THE FURTHER SUPPLEMENTARY AGREEMENT[^c-1f8cdd27094b263988aba61c99d88e27]
 
 *Extent: N.I.*
 
@@ -62,4 +62,4 @@ Minister for Foreign Affairs
 
 ## Annotations
 
-[^key-1f8cdd27094b263988aba61c99d88e27]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/uksi/1999/859/schedule/1B) inserted (13.6.2007) by [The North/South Co-operation (Implementation Bodies) (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/1719)](https://www.legislation.gov.uk/uksi/2007/1719), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1719/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1719/schedule)
+[^c-1f8cdd27094b263988aba61c99d88e27]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/uksi/1999/859/schedule/1B) inserted (13.6.2007) by [The North/South Co-operation (Implementation Bodies) (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/1719)](https://www.legislation.gov.uk/uksi/2007/1719), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1719/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1719/schedule)

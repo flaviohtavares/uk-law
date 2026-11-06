@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 952. Conditions for a set-off claim[^key-c4f476f5b3cc8b461dfedc5829987f7c]
+## 952. Conditions for a set-off claim[^c-c4f476f5b3cc8b461dfedc5829987f7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4f476f5b3cc8b461dfedc5829987f7c]: Modification: S. 952 excluded (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 610(3)(iii)](https://www.legislation.gov.uk/ukpga/2010/4/section/610/3/iii), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c4f476f5b3cc8b461dfedc5829987f7c]: Modification: S. 952 excluded (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 610(3)(iii)](https://www.legislation.gov.uk/ukpga/2010/4/section/610/3/iii), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

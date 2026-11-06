@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-bf4e5b77d1afb9c65bf3c98c2d45b222] The Land Compensation Act 1973 is amended as follows.
+(1)[^c-bf4e5b77d1afb9c65bf3c98c2d45b222] The Land Compensation Act 1973 is amended as follows.
 
 (2) In section 52A (right to interest where advance payment made)—
 
-- (a)[^key-bf4e5b77d1afb9c65bf3c98c2d45b222] in subsection (2), after the words “payment under section 52(1)” insert “ after the date of entry ”;
+- (a)[^c-bf4e5b77d1afb9c65bf3c98c2d45b222] in subsection (2), after the words “payment under section 52(1)” insert “ after the date of entry ”;
 - (b) after subsection (2A) insert—
 
   > (2B) In respect of any period in relation to which the acquiring authority is required to pay interest under section 52B (interest on advance payment), the interest payable under subsection (2) is limited to the interest which accrues on the difference between the total amount and the paid amount.
 
-(3)[^key-50e2f630cf9786dd344b63799e0583fa] After section 52A insert—
+(3)[^c-50e2f630cf9786dd344b63799e0583fa] After section 52A insert—
 
 > **52B. Interest on advance payments of compensation paid late**
 >
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf4e5b77d1afb9c65bf3c98c2d45b222]: Commencement: [S. 196(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/196/1)[(2)(a)](https://www.legislation.gov.uk/ukpga/2016/22/section/196/2/a) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/g) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
+[^c-bf4e5b77d1afb9c65bf3c98c2d45b222]: Commencement: [S. 196(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/196/1)[(2)(a)](https://www.legislation.gov.uk/ukpga/2016/22/section/196/2/a) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/g) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
 
-[^key-50e2f630cf9786dd344b63799e0583fa]: Commencement: [S. 196(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/196/3) in force at 6.4.2017 for specified purposes by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/k)
+[^c-50e2f630cf9786dd344b63799e0583fa]: Commencement: [S. 196(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/196/3) in force at 6.4.2017 for specified purposes by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/k)

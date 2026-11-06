@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Investigatory Powers Commissioner for Northern Ireland.[^key-ed55e2f4febd00afa7760b4eba20bfd9]
+## 61. Investigatory Powers Commissioner for Northern Ireland.[^c-ed55e2f4febd00afa7760b4eba20bfd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ they may exclude that matter from the copy of the report as laid before the Nort
 
 ## Annotations
 
-[^key-ed55e2f4febd00afa7760b4eba20bfd9]: Modification: S. 61: power to repeal conferred (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 240(5)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/240/5/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/i) (with [regs. 6-11](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))
+[^c-ed55e2f4febd00afa7760b4eba20bfd9]: Modification: S. 61: power to repeal conferred (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 240(5)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/240/5/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/i) (with [regs. 6-11](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))
 
 [^c19914221]: Textual amendment: Words in s. 61(8)(a) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 145](https://www.legislation.gov.uk/ukpga/2005/4/section/145), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 17 para. 30(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/30/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/e)

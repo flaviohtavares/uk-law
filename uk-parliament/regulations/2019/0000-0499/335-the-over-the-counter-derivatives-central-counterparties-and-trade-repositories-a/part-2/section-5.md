@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Applications, notifications and reports to the FCA[^key-0db5240a9932f004e8af1e6522bdca28]
+## 5. Applications, notifications and reports to the FCA[^c-0db5240a9932f004e8af1e6522bdca28]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 8, in paragraph (3), for â€œArticle 11(6), (7), (8), (9) or (10)â€
 
 ## Annotations
 
-[^key-0db5240a9932f004e8af1e6522bdca28]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0db5240a9932f004e8af1e6522bdca28]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

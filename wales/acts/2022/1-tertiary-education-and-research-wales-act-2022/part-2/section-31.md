@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Mandatory ongoing registration conditions for each registered provider[^key-deb72b9a8513e9be9d0331ecbd1f76e2][^key-daff279c190f4580d964e73e7bd8128f]
+## 31. Mandatory ongoing registration conditions for each registered provider[^c-deb72b9a8513e9be9d0331ecbd1f76e2][^c-daff279c190f4580d964e73e7bd8128f]
 
 *Extent: E+W*
 
@@ -33,12 +33,12 @@ summary: ''
 - (i) a condition requiring the governing body of the provider to have regard to advice or guidance given by the Commission to the body (either specifically or to persons generally) in exercise of the Commission’s functions under this Act;
 - (j) a condition requiring the governing body of the provider to provide the Commission, or a person authorised by the Commission, with such information, assistance and access to the provider’s facilities, systems and equipment as the Commission may reasonably require for the purpose of exercising the Commission’s functions under this Part.
 
-(2)[^key-c01a2b432d9a604be37483b4f872a11a] In subsection (1)(e), “**validation arrangements**” means arrangements between the registered provider and another education provider under which the registered provider awards a qualification to a student at the other provider or authorises the other provider to award a qualification on its behalf.
+(2)[^c-c01a2b432d9a604be37483b4f872a11a] In subsection (1)(e), “**validation arrangements**” means arrangements between the registered provider and another education provider under which the registered provider awards a qualification to a student at the other provider or authorises the other provider to award a qualification on its behalf.
 
 ## Annotations
 
-[^key-deb72b9a8513e9be9d0331ecbd1f76e2]: Commencement: S. 31 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-deb72b9a8513e9be9d0331ecbd1f76e2]: Commencement: S. 31 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-daff279c190f4580d964e73e7bd8128f]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2022/1/section/31) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(f)](https://www.legislation.gov.uk/wsi/2025/432/article/2/f)
+[^c-daff279c190f4580d964e73e7bd8128f]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2022/1/section/31) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(f)](https://www.legislation.gov.uk/wsi/2025/432/article/2/f)
 
-[^key-c01a2b432d9a604be37483b4f872a11a]: Commencement: [S. 31(1)(a)-(f)(i)(j)(2)](https://www.legislation.gov.uk/asc/2022/1/section/31/1/a) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/uksi/2023/919), [art. 3(s)](https://www.legislation.gov.uk/uksi/2023/919/article/3/s)
+[^c-c01a2b432d9a604be37483b4f872a11a]: Commencement: [S. 31(1)(a)-(f)(i)(j)(2)](https://www.legislation.gov.uk/asc/2022/1/section/31/1/a) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/uksi/2023/919), [art. 3(s)](https://www.legislation.gov.uk/uksi/2023/919/article/3/s)

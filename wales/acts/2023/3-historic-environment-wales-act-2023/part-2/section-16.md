@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Power to refuse to consider similar applications[^key-cdf6fbd8b71009b56ae807bb32d23936][^key-1a9f92843880fcbcec258d199aa1e76b]
+## 16. Power to refuse to consider similar applications[^c-cdf6fbd8b71009b56ae807bb32d23936][^c-1a9f92843880fcbcec258d199aa1e76b]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cdf6fbd8b71009b56ae807bb32d23936]: Commencement: S. 16 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-cdf6fbd8b71009b56ae807bb32d23936]: Commencement: S. 16 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-1a9f92843880fcbcec258d199aa1e76b]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2023/3/section/16) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-1a9f92843880fcbcec258d199aa1e76b]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2023/3/section/16) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

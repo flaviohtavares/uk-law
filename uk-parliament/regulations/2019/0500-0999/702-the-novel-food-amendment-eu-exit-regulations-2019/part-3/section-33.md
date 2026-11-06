@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33.[^key-76f63f3ede8f416af77b2f661de41df5]
+## 33.[^c-76f63f3ede8f416af77b2f661de41df5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ For Article 27, substitute—
 > - (a) the date of inclusion of the novel food in the list;
 > - (b) the fact that that inclusion is based on proprietary scientific evidence and scientific data protected in accordance with Article 26;
 > - (c) the name and address of the applicant;
-> - (d) the fact that during the period of data protection the novel food is authorised for placing on the market within Great Britain *(Extent: E+W+S)*[^key-c4f09de9a1d37cc6bd3856559edc5af4] only by the applicant specified in point (c) of this paragraph, unless a subsequent applicant obtains authorisation for the novel food without reference to the proprietary scientific evidence or scientific data protected in accordance with Article 26 or with the agreement of the initial applicant;
+> - (d) the fact that during the period of data protection the novel food is authorised for placing on the market within Great Britain *(Extent: E+W+S)*[^c-c4f09de9a1d37cc6bd3856559edc5af4] only by the applicant specified in point (c) of this paragraph, unless a subsequent applicant obtains authorisation for the novel food without reference to the proprietary scientific evidence or scientific data protected in accordance with Article 26 or with the agreement of the initial applicant;
 > - (e) the end date of the data protection provided for in Article 26.
 >
 > **2.**
@@ -42,6 +42,6 @@ For Article 27, substitute—
 
 ## Annotations
 
-[^key-76f63f3ede8f416af77b2f661de41df5]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-76f63f3ede8f416af77b2f661de41df5]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c4f09de9a1d37cc6bd3856559edc5af4]: Textual amendment: Words in reg. 33 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)
+[^c-c4f09de9a1d37cc6bd3856559edc5af4]: Textual amendment: Words in reg. 33 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)

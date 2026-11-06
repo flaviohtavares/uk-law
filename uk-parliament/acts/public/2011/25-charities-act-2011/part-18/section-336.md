@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 336. Enforcement of orders of Commission[^key-5a50144db4af77f0e71589c0ebb69454][^key-514d84b2542f9f48afdd58df08fc1bb9]
+## 336. Enforcement of orders of Commission[^c-5a50144db4af77f0e71589c0ebb69454][^c-514d84b2542f9f48afdd58df08fc1bb9]
 
 *Extent: E+W*
 
@@ -27,8 +27,8 @@ summary: ''
 - (a) an order of the Commission under—
   - section 52(1) (power to call for documents),
   - section 84 (power to direct specified action to be taken),
-  - section 84A (power to direct specified action not to be taken),[^key-b46cc6f410984f7d885a5d9c6f7af3a6]
-  - section 84B (power to direct winding up),[^key-c762938bc7bcd3e39af9dc0d1cfd8138]
+  - section 84A (power to direct specified action not to be taken),[^c-b46cc6f410984f7d885a5d9c6f7af3a6]
+  - section 84B (power to direct winding up),[^c-c762938bc7bcd3e39af9dc0d1cfd8138]
   - section 85 (power to direct application of charity property),
   - section 87 (supervision of certain Scottish charities),
   - section 155 (power to direct compliance with regulations giving auditors etc. access to information etc.),
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-5a50144db4af77f0e71589c0ebb69454]: Modification: S. 336 applied (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [26(5)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/26/5)
+[^c-5a50144db4af77f0e71589c0ebb69454]: Modification: S. 336 applied (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [26(5)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/26/5)
 
-[^key-514d84b2542f9f48afdd58df08fc1bb9]: Modification: S. 336 applied (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/27/2)
+[^c-514d84b2542f9f48afdd58df08fc1bb9]: Modification: S. 336 applied (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/27/2)
 
-[^key-b46cc6f410984f7d885a5d9c6f7af3a6]: Textual amendment: Words in [s. 336(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/section/336/2/a) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/6/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/e)
+[^c-b46cc6f410984f7d885a5d9c6f7af3a6]: Textual amendment: Words in [s. 336(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/section/336/2/a) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/6/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/e)
 
-[^key-c762938bc7bcd3e39af9dc0d1cfd8138]: Textual amendment: Words in [s. 336(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/section/336/2/a) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/7/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/f)
+[^c-c762938bc7bcd3e39af9dc0d1cfd8138]: Textual amendment: Words in [s. 336(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/section/336/2/a) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/7/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/f)

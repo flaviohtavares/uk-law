@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Payments into Fund from lottery proceeds[^key-fff47b294d3bfbf94933a9005988d940]
+## 24. Payments into Fund from lottery proceeds[^c-fff47b294d3bfbf94933a9005988d940]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fff47b294d3bfbf94933a9005988d940]: Commencement: S. 24 in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-fff47b294d3bfbf94933a9005988d940]: Commencement: S. 24 in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)

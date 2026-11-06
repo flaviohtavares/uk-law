@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.16. Costs management conferences[^key-a0854a3753d8762e6dfee5b8f83fb2f2][^key-4079a04c63c1990c9203ca9a6e2ec5ec]
+## 3.16. Costs management conferences[^c-a0854a3753d8762e6dfee5b8f83fb2f2][^c-4079a04c63c1990c9203ca9a6e2ec5ec]
 
 *Extent: E+W*
 
 (1) Any hearing which is convened solely for the purpose of costs management (for example, to approve a revised budget) is referred to as a “costs management conference”.
 
-(2)[^key-596a4f3d421afb96c2274d27035debe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-596a4f3d421afb96c2274d27035debe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a0854a3753d8762e6dfee5b8f83fb2f2]: Modification: [Rules 3.12-3.18](https://www.legislation.gov.uk/uksi/1998/3132/rule/3) applied (with modifications) (1.7.2015) by [S.I. 2007/1744](https://www.legislation.gov.uk/uksi/2007/1744), [rule 160](https://www.legislation.gov.uk/uksi/2007/1744/rule/160) (as substituted by [The Court of Protection (Amendment) Rules 2015 (S.I. 2015/548)](https://www.legislation.gov.uk/uksi/2015/548), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/548/rule/1/2/b), [52](https://www.legislation.gov.uk/uksi/2015/548/rule/52))
+[^c-a0854a3753d8762e6dfee5b8f83fb2f2]: Modification: [Rules 3.12-3.18](https://www.legislation.gov.uk/uksi/1998/3132/rule/3) applied (with modifications) (1.7.2015) by [S.I. 2007/1744](https://www.legislation.gov.uk/uksi/2007/1744), [rule 160](https://www.legislation.gov.uk/uksi/2007/1744/rule/160) (as substituted by [The Court of Protection (Amendment) Rules 2015 (S.I. 2015/548)](https://www.legislation.gov.uk/uksi/2015/548), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/548/rule/1/2/b), [52](https://www.legislation.gov.uk/uksi/2015/548/rule/52))
 
-[^key-4079a04c63c1990c9203ca9a6e2ec5ec]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1998/3132/part/3) Sections 2, 3 inserted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [5(h)](https://www.legislation.gov.uk/uksi/2013/262/rule/5/h) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-4079a04c63c1990c9203ca9a6e2ec5ec]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1998/3132/part/3) Sections 2, 3 inserted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [5(h)](https://www.legislation.gov.uk/uksi/2013/262/rule/5/h) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
 
-[^key-596a4f3d421afb96c2274d27035debe7]: Textual amendment: [Rule 3.16(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.16/2) omitted (1.10.2026) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [5](https://www.legislation.gov.uk/uksi/2026/817/rule/5)
+[^c-596a4f3d421afb96c2274d27035debe7]: Textual amendment: [Rule 3.16(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.16/2) omitted (1.10.2026) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [5](https://www.legislation.gov.uk/uksi/2026/817/rule/5)

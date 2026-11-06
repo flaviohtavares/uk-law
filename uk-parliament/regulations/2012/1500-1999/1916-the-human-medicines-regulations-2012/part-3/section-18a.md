@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Approved country for import[^key-35640ef38aec42492036fbad5c112f4f]
+## 18A. Approved country for import[^c-35640ef38aec42492036fbad5c112f4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35640ef38aec42492036fbad5c112f4f]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/18A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/775/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35640ef38aec42492036fbad5c112f4f]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/18A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/775/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

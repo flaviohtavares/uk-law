@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, in exercise of the powers conferred on it by Article 8 of the Diseases of Animals (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, having consulted with the bodies which appeared to it to be substantially representative of the interests concerned and with the approval of the Department of Finance and Personnel[^f00002], hereby makes the following Order:
 
-## 1. Citation and commencement[^key-b5729120d027afb952d1d49561ddc34d]
+## 1. Citation and commencement[^c-b5729120d027afb952d1d49561ddc34d]
 
 This Order may be cited as the Tuberculosis (Examination and Testing) Scheme Order (Northern Ireland) 1999 and shall come into operation on 26th July 1999.
 
-## 2. Tuberculosis (Examination and Testing) Scheme (Northern Ireland) 1999[^key-00ac39ab307d68fea90ab74ddc64f023]
+## 2. Tuberculosis (Examination and Testing) Scheme (Northern Ireland) 1999[^c-00ac39ab307d68fea90ab74ddc64f023]
 
 For the purposes of keeping bovine animals, so far as practicable, free from bovine tuberculosis, and controlling and, so far as practicable, reducing the incidence of that disease, the Department hereby makes the Scheme set out in the Schedule.
 
@@ -70,7 +70,7 @@ Assistant Secretary
 
 ## Schedule — Tuberculosis (Examination and Testing) Scheme (Northern Ireland) 1999
 
-### 1. Citation and interpretation[^key-4d9eda067a8727538650b2c8e9db42ab]
+### 1. Citation and interpretation[^c-4d9eda067a8727538650b2c8e9db42ab]
 
 (1) This Scheme may be cited as the Tuberculosis (Examination and Testing) Scheme (Northern Ireland) 1999.
 
@@ -84,7 +84,7 @@ Assistant Secretary
 
 (3) Any other expression used in this Scheme that is also used in the Tuberculosis Control Order (Northern Ireland) 1999[^f00003] shall have the same meaning as in that Order.
 
-### 2. Examination and official tests[^key-f5b70f52987f206592171923d91f7dd3]
+### 2. Examination and official tests[^c-f5b70f52987f206592171923d91f7dd3]
 
 (1) The Department may for the purposes of this Scheme require an authorised officer to carry out such examinations or tests as it may determine in relation to any bovine animals or herd kept on such holding or holdings as it may determine and upon being so required that officer—
 
@@ -98,7 +98,7 @@ Assistant Secretary
 
 (4) Where a report has been submitted to him under sub-paragraph (2), the Divisional Veterinary Officer shall, if he knows or suspects that any bovine animal or herd to which the report relates is affected with tuberculosis, notify the owner of that animal of the fact.
 
-**3.**[^key-e574adb3aa0bce89760ed75ec6954ad6] (1) For the purpose of carrying out his functions under paragraph 2, an authorised officer may at any time, and on production if so required of his authority, enter onto any land, building, shed, place or pen where an animal or carcase is kept or suspected on reasonable grounds to be kept.
+**3.**[^c-e574adb3aa0bce89760ed75ec6954ad6] (1) For the purpose of carrying out his functions under paragraph 2, an authorised officer may at any time, and on production if so required of his authority, enter onto any land, building, shed, place or pen where an animal or carcase is kept or suspected on reasonable grounds to be kept.
 
 (2) The keeper of any animal or carcase and the owner or occupier of, and any person employed on or in, any land, building, shed, pen or place where it is kept shall, upon request by an authorised officer—
 
@@ -107,13 +107,13 @@ Assistant Secretary
 - (c) in the case of an animal, collect, pen, restrain or otherwise secure it in such manner as the officer may require so as to enable him to examine or officially test it; and
 - (d) make clean water available to the officer for the cleansing and disinfection of any clothing and equipment used for the purposes of or in connection with any official test.
 
-**4.**[^key-bce121da9940d70eaed498a4c56d6c1c] Where any person on whom a requirement is placed under paragraph 3 refuses or neglects to comply with these requirements without reasonable cause the Department may, without prejudice to any proceedings arising out of such default, carry out or cause to be carried out those requirements.
+**4.**[^c-bce121da9940d70eaed498a4c56d6c1c] Where any person on whom a requirement is placed under paragraph 3 refuses or neglects to comply with these requirements without reasonable cause the Department may, without prejudice to any proceedings arising out of such default, carry out or cause to be carried out those requirements.
 
-### 5. Prohibition on movement during testing[^key-3ff8775749e14599fc9e7ba2df89ecfa]
+### 5. Prohibition on movement during testing[^c-3ff8775749e14599fc9e7ba2df89ecfa]
 
 A person shall not, except with the prior permission of the Department, move or attempt to move or cause or permit to be moved any animal off any holding while animals on that holding continue to be officially tested or, where samples taken in the course of such testing are to be submitted to a laboratory for examination, until the result of that examination is known.
 
-### 6. Prohibition on testing, vaccination and treatment[^key-f0b91c40c50f01abfeb9163315356ed4]
+### 6. Prohibition on testing, vaccination and treatment[^c-f0b91c40c50f01abfeb9163315356ed4]
 
 (1) A person, other than an authorised officer, shall not carry out a test on any bovine animal for tuberculosis.
 
@@ -129,7 +129,7 @@ A person shall not, except with the prior permission of the Department, move or 
 - (b) may be granted subject to conditions; and
 - (c) may be modified, suspended or revoked by notice in writing given to the holder thereof at any time.
 
-### 7. Prohibition on tampering with official tests[^key-5d90bd7db10eb9b57fa443aaca8732f0]
+### 7. Prohibition on tampering with official tests[^c-5d90bd7db10eb9b57fa443aaca8732f0]
 
 A person shall not do any act or thing or attempt to do any act or thing or cause or permit any act or thing to be done whether before, during or after the carrying out of an official test, whereby the reaction of an animal or carcase to such a test is intended to be affected.
 
@@ -156,22 +156,22 @@ Any person who, without lawful authority or excuse, proof of which shall lie on 
 
 [^f00002]: Footnote: Formerly the Department of Finance. See S.I. [1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Art. 3
 
-[^key-b5729120d027afb952d1d49561ddc34d]: Commencement: Art. 1 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
+[^c-b5729120d027afb952d1d49561ddc34d]: Commencement: Art. 1 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
 
-[^key-00ac39ab307d68fea90ab74ddc64f023]: Commencement: Art. 2 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
+[^c-00ac39ab307d68fea90ab74ddc64f023]: Commencement: Art. 2 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
 
-[^key-4d9eda067a8727538650b2c8e9db42ab]: Commencement: Sch. para. 1 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
+[^c-4d9eda067a8727538650b2c8e9db42ab]: Commencement: Sch. para. 1 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
 
 [^f00003]: Footnote: [S.R. 1999 No. 263](https://www.legislation.gov.uk/nisr/1999/263)
 
-[^key-f5b70f52987f206592171923d91f7dd3]: Commencement: Sch. para. 2 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
+[^c-f5b70f52987f206592171923d91f7dd3]: Commencement: Sch. para. 2 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
 
-[^key-e574adb3aa0bce89760ed75ec6954ad6]: Commencement: Sch. para. 3 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
+[^c-e574adb3aa0bce89760ed75ec6954ad6]: Commencement: Sch. para. 3 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
 
-[^key-bce121da9940d70eaed498a4c56d6c1c]: Commencement: Sch. para. 4 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
+[^c-bce121da9940d70eaed498a4c56d6c1c]: Commencement: Sch. para. 4 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
 
-[^key-3ff8775749e14599fc9e7ba2df89ecfa]: Commencement: Sch. para. 5 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
+[^c-3ff8775749e14599fc9e7ba2df89ecfa]: Commencement: Sch. para. 5 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
 
-[^key-f0b91c40c50f01abfeb9163315356ed4]: Commencement: Sch. para. 6 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
+[^c-f0b91c40c50f01abfeb9163315356ed4]: Commencement: Sch. para. 6 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
 
-[^key-5d90bd7db10eb9b57fa443aaca8732f0]: Commencement: Sch. para. 7 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)
+[^c-5d90bd7db10eb9b57fa443aaca8732f0]: Commencement: Sch. para. 7 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/264/article/1)

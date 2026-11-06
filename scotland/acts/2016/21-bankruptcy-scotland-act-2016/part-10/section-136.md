@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136. Procedure after end of accounting period where Accountant in Bankruptcy is trustee[^key-293b569c02e6925a36a3d1204d600e08]
+## 136. Procedure after end of accounting period where Accountant in Bankruptcy is trustee[^c-293b569c02e6925a36a3d1204d600e08]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-293b569c02e6925a36a3d1204d600e08]: Commencement: [S. 136](https://www.legislation.gov.uk/asp/2016/21/section/136) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-293b569c02e6925a36a3d1204d600e08]: Commencement: [S. 136](https://www.legislation.gov.uk/asp/2016/21/section/136) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

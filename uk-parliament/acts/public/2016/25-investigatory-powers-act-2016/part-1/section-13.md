@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Mandatory use of equipment interference warrants[^key-010dc07a4c58c4e39c97de10c96585c0]
+## 13. Mandatory use of equipment interference warrants[^c-010dc07a4c58c4e39c97de10c96585c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-010dc07a4c58c4e39c97de10c96585c0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/25/section/13) in force at 8.8.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 14(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/14/a) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/652/regulation/21))
+[^c-010dc07a4c58c4e39c97de10c96585c0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/25/section/13) in force at 8.8.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 14(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/14/a) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/652/regulation/21))

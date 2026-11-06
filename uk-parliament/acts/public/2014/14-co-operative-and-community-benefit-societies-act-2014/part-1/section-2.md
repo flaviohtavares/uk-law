@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Societies that may be registered[^key-6ee11e7d997c40f4f114526b598a7e48]
+## 2. Societies that may be registered[^c-6ee11e7d997c40f4f114526b598a7e48]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ee11e7d997c40f4f114526b598a7e48]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2014/14/section/2) excluded by 1979 c. 34, s. 2(1) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/3/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-6ee11e7d997c40f4f114526b598a7e48]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2014/14/section/2) excluded by 1979 c. 34, s. 2(1) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/3/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

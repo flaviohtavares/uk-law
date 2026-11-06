@@ -32,7 +32,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) (No.3) Order 2005 (revoked)[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+The European Communities (Designation) (No.3) Order 2005 (revoked)[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 Made
 
@@ -52,80 +52,80 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, and interpretation[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+## 1. Citation, commencement, and interpretation[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Minister or departments[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+## 2. Designation of Minister or departments[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of Northern Ireland departments[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+## 3. Designation of Northern Ireland departments[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation of the National Assembly for Wales[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+## 4. Designation of the National Assembly for Wales[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation of earlier designations[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+## 5. Revocation of earlier designations[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DESIGNATION OF MINISTERS OR DEPARTMENTS[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+## SCHEDULE 1 — DESIGNATION OF MINISTERS OR DEPARTMENTS[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — MATTERS IN RELATION TO WHICH NORTHERN IRELAND DEPARTMENTS ARE DESIGNATED[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+## SCHEDULE 2 — MATTERS IN RELATION TO WHICH NORTHERN IRELAND DEPARTMENTS ARE DESIGNATED[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 Article 3
 
-[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — MATTERS IN RELATION TO WHICH THE NATIONAL ASSEMBLY FOR WALES IS DESIGNATED[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+## SCHEDULE 3 — MATTERS IN RELATION TO WHICH THE NATIONAL ASSEMBLY FOR WALES IS DESIGNATED[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 Article 4
 
-[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — REVOCATION OF DESIGNATIONS[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
+## SCHEDULE 4 — REVOCATION OF DESIGNATIONS[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]
 
 Article 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06d9b4e753f94bb1ed6b1fb1ec32f6b8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/2766) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06d9b4e753f94bb1ed6b1fb1ec32f6b8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/2766) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

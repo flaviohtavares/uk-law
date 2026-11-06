@@ -34,7 +34,7 @@ Immigration
 
 Prevention And Suppression Of Terrorism
 
-The Authority to Carry Scheme and Civil Penalties Regulations 2021 (revoked)[^key-e7e68a2f0a3c947a8f98f3d2d6035446]
+The Authority to Carry Scheme and Civil Penalties Regulations 2021 (revoked)[^c-e7e68a2f0a3c947a8f98f3d2d6035446]
 
 Made
 
@@ -44,30 +44,30 @@ Coming into force
 
 6th April 2021
 
-[^key-e7e68a2f0a3c947a8f98f3d2d6035446]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7e68a2f0a3c947a8f98f3d2d6035446]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and expiry[^key-e7e68a2f0a3c947a8f98f3d2d6035446]
+## 1. Citation, commencement and expiry[^c-e7e68a2f0a3c947a8f98f3d2d6035446]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Authority to Carry Scheme[^key-e7e68a2f0a3c947a8f98f3d2d6035446]
+## 2. Authority to Carry Scheme[^c-e7e68a2f0a3c947a8f98f3d2d6035446]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Authority to Carry Scheme (Civil Penalties) Regulations 2015[^key-e7e68a2f0a3c947a8f98f3d2d6035446]
+## 3. Amendment of the Authority to Carry Scheme (Civil Penalties) Regulations 2015[^c-e7e68a2f0a3c947a8f98f3d2d6035446]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation and transitional provision[^key-e7e68a2f0a3c947a8f98f3d2d6035446]
+## 4. Revocation and transitional provision[^c-e7e68a2f0a3c947a8f98f3d2d6035446]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e7e68a2f0a3c947a8f98f3d2d6035446]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7e68a2f0a3c947a8f98f3d2d6035446]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e7e68a2f0a3c947a8f98f3d2d6035446]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7e68a2f0a3c947a8f98f3d2d6035446]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e7e68a2f0a3c947a8f98f3d2d6035446]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/323) revoked (3.4.2023) by [The Authority to Carry Scheme and Civil Penalties Regulations 2023 (S.I. 2023/326)](https://www.legislation.gov.uk/uksi/2023/326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2023/326/regulation/4/1)
+[^c-e7e68a2f0a3c947a8f98f3d2d6035446]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/323) revoked (3.4.2023) by [The Authority to Carry Scheme and Civil Penalties Regulations 2023 (S.I. 2023/326)](https://www.legislation.gov.uk/uksi/2023/326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2023/326/regulation/4/1)

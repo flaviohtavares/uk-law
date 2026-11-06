@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.86. Estimate of quantum[^key-3c322199be5c293e8d2ed15b1dd799fe]
+## 4.86. Estimate of quantum[^c-3c322199be5c293e8d2ed15b1dd799fe]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ He shall inform the creditor as to his estimate and any revision of it.
 
 ## Annotations
 
-[^key-3c322199be5c293e8d2ed15b1dd799fe]: Commencement: [Rule 4.86](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.86) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3c322199be5c293e8d2ed15b1dd799fe]: Commencement: [Rule 4.86](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.86) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

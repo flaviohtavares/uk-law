@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Financial assistance for the ISOP[^key-39b8a1fc9e74cd3413ea8f7f4b7b9c18][^key-d0dedb54b6a045eb8f77f7091aea6da3]
+## 176. Financial assistance for the ISOP[^c-39b8a1fc9e74cd3413ea8f7f4b7b9c18][^c-d0dedb54b6a045eb8f77f7091aea6da3]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39b8a1fc9e74cd3413ea8f7f4b7b9c18]: Commencement: S. 176 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-39b8a1fc9e74cd3413ea8f7f4b7b9c18]: Commencement: S. 176 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-d0dedb54b6a045eb8f77f7091aea6da3]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2023/52/section/176) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vii)
+[^c-d0dedb54b6a045eb8f77f7091aea6da3]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2023/52/section/176) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vii)

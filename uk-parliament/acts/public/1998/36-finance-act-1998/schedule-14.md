@@ -24,19 +24,19 @@ Section 86.
 
 ### Section 547
 
-**1.**[^key-b7fedfe08c2719a7911cc01435451ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b7fedfe08c2719a7911cc01435451ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Multiple interests
 
-**2.**[^key-b7fedfe08c2719a7911cc01435451ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b7fedfe08c2719a7911cc01435451ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Right of company to recover tax from trustees
 
-**3.**[^key-b7fedfe08c2719a7911cc01435451ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b7fedfe08c2719a7911cc01435451ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Foreign institution policies: no reduction under section 553
 
-**4.**[^key-b7fedfe08c2719a7911cc01435451ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b7fedfe08c2719a7911cc01435451ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Consequential amendments
 
@@ -49,34 +49,34 @@ Section 86.
 
   .
 
-**6.**[^key-6ea106e96ba134a6995978710fba5e41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6ea106e96ba134a6995978710fba5e41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commencement
 
-**7.** (1)[^key-f0a04e4757147ee7d186f13cfb343f18][^key-bf672e18b993f2d67a10c7166a4d9e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.** (1)[^c-f0a04e4757147ee7d186f13cfb343f18][^c-bf672e18b993f2d67a10c7166a4d9e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-f0a04e4757147ee7d186f13cfb343f18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f0a04e4757147ee7d186f13cfb343f18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2c4995a78eb34327053c1eb10a6f7561] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2c4995a78eb34327053c1eb10a6f7561] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-5ee865f5b3137100cc361a2de5cc801b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5ee865f5b3137100cc361a2de5cc801b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) [^key-707d5cb39dedb4a1383960a7397337eb]... This Schedule has effect in relation to chargeable events happening on or after 6th April 1998.
+(5) [^c-707d5cb39dedb4a1383960a7397337eb]... This Schedule has effect in relation to chargeable events happening on or after 6th April 1998.
 
 ## Annotations
 
-[^key-b7fedfe08c2719a7911cc01435451ef6]: Textual amendment: [Sch. 14 paras. 1-4](https://www.legislation.gov.uk/ukpga/1998/36/schedule/14/paragraph/1) omitted (with effect in accordance with Sch. 14 para. 18 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/g)
+[^c-b7fedfe08c2719a7911cc01435451ef6]: Textual amendment: [Sch. 14 paras. 1-4](https://www.legislation.gov.uk/ukpga/1998/36/schedule/14/paragraph/1) omitted (with effect in accordance with Sch. 14 para. 18 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/g)
 
 [^c16424371]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-6ea106e96ba134a6995978710fba5e41]: Textual amendment: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1998/36/schedule/14/paragraph/6) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-6ea106e96ba134a6995978710fba5e41]: Textual amendment: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1998/36/schedule/14/paragraph/6) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-f0a04e4757147ee7d186f13cfb343f18]: Textual amendment: Sch. 14 para. 7(1)(2) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-f0a04e4757147ee7d186f13cfb343f18]: Textual amendment: Sch. 14 para. 7(1)(2) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-bf672e18b993f2d67a10c7166a4d9e90]: Modification: Sch. 14 para. 7(1) extended (retrospective to 9.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 171(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/171/3), [Sch. 34 para. 12(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/34/paragraph/12/1)
+[^c-bf672e18b993f2d67a10c7166a4d9e90]: Modification: Sch. 14 para. 7(1) extended (retrospective to 9.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 171(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/171/3), [Sch. 34 para. 12(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/34/paragraph/12/1)
 
-[^key-2c4995a78eb34327053c1eb10a6f7561]: Textual amendment: Sch. 14 para. 7(3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-2c4995a78eb34327053c1eb10a6f7561]: Textual amendment: Sch. 14 para. 7(3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-5ee865f5b3137100cc361a2de5cc801b]: Textual amendment: Sch. 14 para. 7(4) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-5ee865f5b3137100cc361a2de5cc801b]: Textual amendment: Sch. 14 para. 7(4) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-707d5cb39dedb4a1383960a7397337eb]: Textual amendment: Words in Sch. 14 para. 7(5) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-707d5cb39dedb4a1383960a7397337eb]: Textual amendment: Words in Sch. 14 para. 7(5) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

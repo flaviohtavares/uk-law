@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 14 — MANAGEMENT OF SEPARATELY COLLECTED WASTE AND OPERATING A MATERIALS FACILITY[^key-21bde8690704945376fd3bb25cbfc533]
+## SCHEDULE 14 — MANAGEMENT OF SEPARATELY COLLECTED WASTE AND OPERATING A MATERIALS FACILITY[^c-21bde8690704945376fd3bb25cbfc533]
 
 *Extent: S*
 
@@ -75,4 +75,4 @@ SEPA must ensure that a permit or registration for operating a materials facili
 
 ## Annotations
 
-[^key-21bde8690704945376fd3bb25cbfc533]: Textual amendment: [Sch. 14](https://www.legislation.gov.uk/ssi/2018/219/schedule/14) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 5](https://www.legislation.gov.uk/ssi/2025/165/schedule/5) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-21bde8690704945376fd3bb25cbfc533]: Textual amendment: [Sch. 14](https://www.legislation.gov.uk/ssi/2018/219/schedule/14) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 5](https://www.legislation.gov.uk/ssi/2025/165/schedule/5) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

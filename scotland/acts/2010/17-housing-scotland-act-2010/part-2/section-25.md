@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Regulatory registration criteria[^key-3eee8cc308e0e2ee3d236903837d449a][^key-556b88d2957971da59f458468037c7c3]
+## 25. Regulatory registration criteria[^c-3eee8cc308e0e2ee3d236903837d449a][^c-556b88d2957971da59f458468037c7c3]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ and different criteria may be set for different types of bodies or cases.
 
 ## Annotations
 
-[^key-3eee8cc308e0e2ee3d236903837d449a]: Commencement: S. 25 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-3eee8cc308e0e2ee3d236903837d449a]: Commencement: S. 25 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-556b88d2957971da59f458468037c7c3]: Commencement: S. 25 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-556b88d2957971da59f458468037c7c3]: Commencement: S. 25 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

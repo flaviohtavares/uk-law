@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Breach of fiduciary duty at instigation or request of beneficiary or with consent of beneficiary[^key-f0afbffb6221d4138c160612cb288084]
+## 32. Breach of fiduciary duty at instigation or request of beneficiary or with consent of beneficiary[^c-f0afbffb6221d4138c160612cb288084]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0afbffb6221d4138c160612cb288084]: Commencement: S. 32 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-f0afbffb6221d4138c160612cb288084]: Commencement: S. 32 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

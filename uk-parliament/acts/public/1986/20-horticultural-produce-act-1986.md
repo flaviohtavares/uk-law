@@ -33,7 +33,7 @@ An Act to confer on authorised officers (within the meaning of Part III of the A
 
 \[26th June 1986\]
 
-[^c792094]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-8fc2e4572d5e4c24693ebd7805f76210][^c792094]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-9ef6836ad3020edd26919f24964e13b7][^key-4e8bdb888a7c84a60a511c904ba3d477][^key-6b15e1d7848f7099886b85984d271a2f][^key-b31716bb3da08b274586d3b8b68a1780][^key-d1053b0a34157a6b0b490d7f8c3a317b][^key-5e2c715a43441f3fb87c6414c7f2d123]
+[^c792094]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-8fc2e4572d5e4c24693ebd7805f76210][^c792094]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-9ef6836ad3020edd26919f24964e13b7][^c-4e8bdb888a7c84a60a511c904ba3d477][^c-6b15e1d7848f7099886b85984d271a2f][^c-b31716bb3da08b274586d3b8b68a1780][^c-d1053b0a34157a6b0b490d7f8c3a317b][^c-5e2c715a43441f3fb87c6414c7f2d123]
 
 ## 1. Power to control the movement of produce.
 
@@ -76,7 +76,7 @@ An Act to confer on authorised officers (within the meaning of Part III of the A
 
 (2) Before making such an order, the Ministers shall consult such organisations as appear to them to represent interests likely to be affected by the order.
 
-(2A)[^key-c71d32123e64b2599f0a28285cbf5cc5] Subsection (2) does not apply to an order which makes amendments that apply only in relation to England.
+(2A)[^c-c71d32123e64b2599f0a28285cbf5cc5] Subsection (2) does not apply to an order which makes amendments that apply only in relation to England.
 
 (3) An order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -130,9 +130,9 @@ In this Act—
 
 (1) This Act may be cited as the Horticultural Produce Act 1986.
 
-(2)[^key-e774ebf5dca1d806973a24f15ae6ffa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e774ebf5dca1d806973a24f15ae6ffa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d0a9efa5efd0f39f3d0e1d2a1fd9cf5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d0a9efa5efd0f39f3d0e1d2a1fd9cf5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This Act does not extend to Northern Ireland.
 
@@ -140,24 +140,24 @@ In this Act—
 
 [^c792094]: Modification: Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-8fc2e4572d5e4c24693ebd7805f76210]: Modification: Act excluded (S.) (1.7.2009) by [Marketing of Horticultural Produce (Scotland) Regulations 2009 (S.S.I. 2009/225)](https://www.legislation.gov.uk/ssi/2009/225), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/225/regulation/1/1), [24(a)](https://www.legislation.gov.uk/ssi/2009/225/regulation/24/a)
+[^c-8fc2e4572d5e4c24693ebd7805f76210]: Modification: Act excluded (S.) (1.7.2009) by [Marketing of Horticultural Produce (Scotland) Regulations 2009 (S.S.I. 2009/225)](https://www.legislation.gov.uk/ssi/2009/225), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/225/regulation/1/1), [24(a)](https://www.legislation.gov.uk/ssi/2009/225/regulation/24/a)
 
-[^key-9ef6836ad3020edd26919f24964e13b7]: Modification: Act excluded (1.7.2009) by [Marketing of Fresh Horticultural Produce Regulations 2009 (S.I. 2009/1361)](https://www.legislation.gov.uk/uksi/2009/1361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1361/regulation/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2009/1361/regulation/22/a)
+[^c-9ef6836ad3020edd26919f24964e13b7]: Modification: Act excluded (1.7.2009) by [Marketing of Fresh Horticultural Produce Regulations 2009 (S.I. 2009/1361)](https://www.legislation.gov.uk/uksi/2009/1361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1361/regulation/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2009/1361/regulation/22/a)
 
-[^key-4e8bdb888a7c84a60a511c904ba3d477]: Modification: Act excluded (16.7.2009) by [Marketing of Fresh Horticultural Produce (Wales) Regulations 2009 (S.I. 2009/1551)](https://www.legislation.gov.uk/uksi/2009/1551), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1551/regulation/1), [22(a)](https://www.legislation.gov.uk/uksi/2009/1551/regulation/22/a)
+[^c-4e8bdb888a7c84a60a511c904ba3d477]: Modification: Act excluded (16.7.2009) by [Marketing of Fresh Horticultural Produce (Wales) Regulations 2009 (S.I. 2009/1551)](https://www.legislation.gov.uk/uksi/2009/1551), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1551/regulation/1), [22(a)](https://www.legislation.gov.uk/uksi/2009/1551/regulation/22/a)
 
-[^key-6b15e1d7848f7099886b85984d271a2f]: Modification: Act excluded (N.I.) (25.6.2010) by [The Marketing of Fresh Horticulture Produce Regulations (Northern Ireland) 2010 (S.R. 2010/198)](https://www.legislation.gov.uk/nisr/2010/198), [regs. 1](https://www.legislation.gov.uk/nisr/2010/198/regulation/1), [24(2)(a)](https://www.legislation.gov.uk/nisr/2010/198/regulation/24/2/a)
+[^c-6b15e1d7848f7099886b85984d271a2f]: Modification: Act excluded (N.I.) (25.6.2010) by [The Marketing of Fresh Horticulture Produce Regulations (Northern Ireland) 2010 (S.R. 2010/198)](https://www.legislation.gov.uk/nisr/2010/198), [regs. 1](https://www.legislation.gov.uk/nisr/2010/198/regulation/1), [24(2)(a)](https://www.legislation.gov.uk/nisr/2010/198/regulation/24/2/a)
 
-[^key-b31716bb3da08b274586d3b8b68a1780]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/20) excluded (S.) (10.10.2011) by [The Bananas (Enforcement of Quality Standards) (Scotland) Regulations 2011 (S.S.I. 2011/325)](https://www.legislation.gov.uk/ssi/2011/325), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/325/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2011/325/regulation/21/a)
+[^c-b31716bb3da08b274586d3b8b68a1780]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/20) excluded (S.) (10.10.2011) by [The Bananas (Enforcement of Quality Standards) (Scotland) Regulations 2011 (S.S.I. 2011/325)](https://www.legislation.gov.uk/ssi/2011/325), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/325/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2011/325/regulation/21/a)
 
-[^key-d1053b0a34157a6b0b490d7f8c3a317b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/20) excluded (11.5.2012) by [The Quality Standards for Green Bananas (England and Wales) Regulations 2012 (S.I. 2012/947)](https://www.legislation.gov.uk/uksi/2012/947), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b), [22(a)](https://www.legislation.gov.uk/uksi/2012/947/regulation/22/a)
+[^c-d1053b0a34157a6b0b490d7f8c3a317b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/20) excluded (11.5.2012) by [The Quality Standards for Green Bananas (England and Wales) Regulations 2012 (S.I. 2012/947)](https://www.legislation.gov.uk/uksi/2012/947), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b), [22(a)](https://www.legislation.gov.uk/uksi/2012/947/regulation/22/a)
 
-[^key-5e2c715a43441f3fb87c6414c7f2d123]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/20) excluded (S.) (1.2.2013) by [The Marketing of Bananas (Scotland) Regulations 2012 (S.S.I. 2012/349)](https://www.legislation.gov.uk/ssi/2012/349), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/349/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2012/349/regulation/21/a)
+[^c-5e2c715a43441f3fb87c6414c7f2d123]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/20) excluded (S.) (1.2.2013) by [The Marketing of Bananas (Scotland) Regulations 2012 (S.S.I. 2012/349)](https://www.legislation.gov.uk/ssi/2012/349), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/349/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2012/349/regulation/21/a)
 
 [^c792095]: Modification: S. 3: power to transfer certain functions conferred (27.12.1999) by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141), [arts. 2(1)(5)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/1/5), [3](https://www.legislation.gov.uk/uksi/1999/3141/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1999/3141/schedule)
 
-[^key-c71d32123e64b2599f0a28285cbf5cc5]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/ukpga/1986/20/section/3/2A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/8)
+[^c-c71d32123e64b2599f0a28285cbf5cc5]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/ukpga/1986/20/section/3/2A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/8)
 
-[^key-e774ebf5dca1d806973a24f15ae6ffa1]: Textual amendment: S. 7(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-e774ebf5dca1d806973a24f15ae6ffa1]: Textual amendment: S. 7(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
-[^key-d0a9efa5efd0f39f3d0e1d2a1fd9cf5e]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/1986/20/section/7/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-d0a9efa5efd0f39f3d0e1d2a1fd9cf5e]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/1986/20/section/7/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

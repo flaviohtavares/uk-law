@@ -37,7 +37,7 @@ Made
 
 The Department for Social Development, in exercise of the powers conferred by Articles 1(2) and 73(4)(*a*) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-2670425709cb200a5fa764eefac2c5c4]
+## 1. Citation and interpretation[^c-2670425709cb200a5fa764eefac2c5c4]
 
 (1) This Order may be cited as the Welfare Reform and Pensions (1999 Order) (Commencement No. 6 and Transitional and Savings Provisions) Order (Northern Ireland) 2000.
 
@@ -46,7 +46,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 - (a) any reference to a numbered section is a reference to the section of the Contributions and Benefits Act, and
 - (b) any reference to a numbered Article or Schedule is to the Article of, or Schedule to, the Welfare Reform and Pensions (Northern Ireland) Order 1999.
 
-## 2. Appointed days[^key-179428471c7031695b3fa09ee1965172]
+## 2. Appointed days[^c-179428471c7031695b3fa09ee1965172]
 
 (1) In so far as it is not already in operation, the day appointed for the coming into operation of Article 10 (monitoring of employers' payments to personal pension schemes), is 6th April 2001.
 
@@ -70,13 +70,13 @@ are as provided in paragraphs (4) and (5).
 
 (6) The day appointed for the coming into operation of paragraphs 19 and 24 (Assembly, etc. control of regulations and orders) of Schedule 8 and Article 67 in so far as it relates to those paragraphs, is 3rd November 2000.
 
-## 3. Transitional provision in relation to incapacity benefit[^key-04f9a60e978dfeab6f20968c4d477036]
+## 3. Transitional provision in relation to incapacity benefit[^c-04f9a60e978dfeab6f20968c4d477036]
 
 (1) Notwithstanding the commencement of Article 59, where a person is entitled to incapacity benefit by virtue of paragraph 2 of Schedule 3 to the Contributions and Benefits Act[^f00003] (contribution conditions for short-term incapacity benefit) on any day of incapacity for work in a period of incapacity for work beginning before 6th April 2001 which continues, whether or not by virtue of section 30C[^f00004] or regulations made thereunder, on or after that date, that paragraph of that Schedule shall have effect in relation to him, in that period of incapacity for work, as if Article 59 had not been commenced.
 
-(2) Notwithstanding the commencement of Article 60 and paragraph 21 of Schedule 8, where a person is entitled to incapacity benefit under sections 30A, 40 or 41[^key-715376c16d71e73b8dee4b6b09d7b8e9] [^f00005] on any day of incapacity for work in a period of incapacity for work beginning before 6th April 2001 which continues, whether or not by virtue of section 30C or regulations made thereunder, on or after that date, sections 30A to 30E shall have effect in relation to him, in that period of incapacity for work, as if Article 60 and paragraph 21 of Schedule 8 had not been commenced.
+(2) Notwithstanding the commencement of Article 60 and paragraph 21 of Schedule 8, where a person is entitled to incapacity benefit under sections 30A, 40 or 41[^c-715376c16d71e73b8dee4b6b09d7b8e9] [^f00005] on any day of incapacity for work in a period of incapacity for work beginning before 6th April 2001 which continues, whether or not by virtue of section 30C or regulations made thereunder, on or after that date, sections 30A to 30E shall have effect in relation to him, in that period of incapacity for work, as if Article 60 and paragraph 21 of Schedule 8 had not been commenced.
 
-## 4. Savings for existing severe disablement allowance beneficiaries[^key-ffc16afbbbeee83fc133d6ec39cce9a5]
+## 4. Savings for existing severe disablement allowance beneficiaries[^c-ffc16afbbbeee83fc133d6ec39cce9a5]
 
 Notwithstanding the commencement of the provisions referred to in Article 2(3)(*d*), (*f*) and (*g*) of this Order (“severe disablement allowance provisions”), the provisions referred to in paragraph 25 of Schedule 8 and Part IV of Schedule 10 shall continue to have effect, in the period of incapacity for work beginning before 6th April 2001 which would have continued, whether or not by virtue of section 30C or 68(10) or (10A)[^f00006] or regulations made thereunder, on or after that date but for the commencement of the severe disablement allowance provisions, as if those provisions had not been commenced—
 
@@ -173,20 +173,20 @@ The following provisions of the Welfare Reform and Pensions (Northern Ireland) O
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-2670425709cb200a5fa764eefac2c5c4]: Commencement: Art. 1 in operation at made date
+[^c-2670425709cb200a5fa764eefac2c5c4]: Commencement: Art. 1 in operation at made date
 
-[^key-179428471c7031695b3fa09ee1965172]: Commencement: Art. 2 in operation at made date
+[^c-179428471c7031695b3fa09ee1965172]: Commencement: Art. 2 in operation at made date
 
-[^key-04f9a60e978dfeab6f20968c4d477036]: Commencement: Art. 3 in operation at made date
+[^c-04f9a60e978dfeab6f20968c4d477036]: Commencement: Art. 3 in operation at made date
 
 [^f00003]: Footnote: Paragraph 2 was amended by Articles 3(2) and 5(2) of, and paragraph 38(2) of Schedule 1 to, the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
 
 [^f00004]: Footnote: Sections 30C to 30E were inserted by Article 5(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
 
-[^key-715376c16d71e73b8dee4b6b09d7b8e9]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisr/2000/332/article/3/2) substituted (15.3.2001) by [The Welfare Reform and Pensions (1999 Order) (Commencement No. 7 and Transitional Provisions) Order (Northern Ireland) 2001 (S.R. 2001/114)](https://www.legislation.gov.uk/nisr/2001/114), [arts. 1](https://www.legislation.gov.uk/nisr/2001/114/article/1), [3](https://www.legislation.gov.uk/nisr/2001/114/article/3)
+[^c-715376c16d71e73b8dee4b6b09d7b8e9]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisr/2000/332/article/3/2) substituted (15.3.2001) by [The Welfare Reform and Pensions (1999 Order) (Commencement No. 7 and Transitional Provisions) Order (Northern Ireland) 2001 (S.R. 2001/114)](https://www.legislation.gov.uk/nisr/2001/114), [arts. 1](https://www.legislation.gov.uk/nisr/2001/114/article/1), [3](https://www.legislation.gov.uk/nisr/2001/114/article/3)
 
 [^f00005]: Footnote: Section 30A was inserted by Article 3(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 and section 30B was inserted by Article 4(1) of that Order and the proviso in subsection (3) was amended by paragraphs 14(*b*) and 18(3) of Schedule 2 to the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-ffc16afbbbeee83fc133d6ec39cce9a5]: Commencement: Art. 4 in operation at made date
+[^c-ffc16afbbbeee83fc133d6ec39cce9a5]: Commencement: Art. 4 in operation at made date
 
 [^f00006]: Footnote: Subsection (10A) was inserted by Article 11(2) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994

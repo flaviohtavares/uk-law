@@ -56,7 +56,7 @@ As respects the levying of rates for the year 1962–63 and any subsequent year�
 - (d) the reference in section 42[^c627601] of the [^c627602]Water (Scotland) Act, 1980(which relates to the levy of domestic water rate on public utility undertakings, etc.), to lands and heritages occupied as gasworks shall be construed as a reference to lands and heritages which a Gas Board is, under section twenty–four of the Act of 1956, to be treated as occupying.
 - (e)[^c627604] in this section the expression “ **gas** ” has the same meaning as in section 43(1) of the Act of 1956
 
-## 3A. Schemes for reduction and remission of rates[^key-51c97760c4ea1c50934e64e0baa8b484][^key-104588b8e4415c31c600b747dd5cc8d7]
+## 3A. Schemes for reduction and remission of rates[^c-51c97760c4ea1c50934e64e0baa8b484][^c-104588b8e4415c31c600b747dd5cc8d7]
 
 (1) This section applies in relation to rates leviable for the year 2015-16 and any subsequent year.
 
@@ -82,13 +82,13 @@ As respects the levying of rates for the year 1962–63 and any subsequent year�
 (2) If notice in writing is given to the rating authority [^c627662]... that any lands and heritages—
 
 - (a) are occupied by, or by trustees for, a charity and are wholly or mainly used for charitable purposes (whether of that charity or of that and other charities);
-- (aa)[^key-0d8256dbe4b1328e0af86bf3759c653f] are occupied by a registered community amateur sports club and are wholly or mainly used for the purposes of that club (or for the purposes of that and of other clubs which are, or are entitled to be registered as, such clubs);
+- (aa)[^c-0d8256dbe4b1328e0af86bf3759c653f] are occupied by a registered community amateur sports club and are wholly or mainly used for the purposes of that club (or for the purposes of that and of other clubs which are, or are entitled to be registered as, such clubs);
 - (b) are held on trust for use as an almshouse, ;or[^c627663]
 - (c) are within any such category as the Secretary of State may by order specify, being a category of lands and heritages which are not used for profit–making purposes, which are wholly or mainly used as residential accommodation for persons living separately from any family and in which certain facilities are shared by those persons,
 
 then, subject to the provisions of this section, any rate leviable in respect of the lands and heritages for a relevant period[^c627664] during which the lands and heritages are within the categories described in—
 
-- (i)[^c627665] any of paragraphs (a), (aa) and (b)[^key-e7a2b26cbcad5c07d9b825959b483a34] of this subsection, shall not exceed one–fifth[^c627666]
+- (i)[^c627665] any of paragraphs (a), (aa) and (b)[^c-e7a2b26cbcad5c07d9b825959b483a34] of this subsection, shall not exceed one–fifth[^c627666]
 - (ii)[^c627667] paragraph (c) of this subsection shall not exceed such fraction (and different fractions may be specified for different cases) as the Secretary of State may by the said order specify,
 
 of the rate which would be leviable apart from the provisions of this subsection:
@@ -104,9 +104,9 @@ Provided that where lands and heritages cease to be within the said categories, 
 
 (4)[^c627669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-801be1417786cd8b65c00ecbbd14c203] Without prejudice to the powers conferred by section 25A of the Local Government (Scotland) Act 1966[^c627670], a rating authority shall have power to reduce or remit any rate leviable in respect of—
+(5)[^c-801be1417786cd8b65c00ecbbd14c203] Without prejudice to the powers conferred by section 25A of the Local Government (Scotland) Act 1966[^c627670], a rating authority shall have power to reduce or remit any rate leviable in respect of—
 
-- (a) any lands and heritages within the categories described in any of paragraphs (a) to (c)[^key-d1fd65295ef9be4f930a3f61db91772b] of subsection (2) of this section;
+- (a) any lands and heritages within the categories described in any of paragraphs (a) to (c)[^c-d1fd65295ef9be4f930a3f61db91772b] of subsection (2) of this section;
 - (b) any lands and heritages occupied for the purposes of one or more institutions or other organisations (whether corporate or unincorporate) which are not established or conducted for profit and whose main objects are charitable or are otherwise philanthropic or religious or concerned with education, social welfare, science, literature or the fine arts;
 - (c) any lands and heritages occupied for the purposes of a club, society or other organisation not established or conducted for profit, and which are wholly or mainly used for purposes of recreation,
 
@@ -128,7 +128,7 @@ Provided that any such reduction or remission shall cease to have effect on a ch
 
 (7) Where any such reduction or remission is granted for an indefinite period, the rating authority may, by not less than twelve months’ notice in writing given to the occupiers of the lands and heritages, terminate or modify the reduction or remission as from the end of a year specified in the notice.
 
-(7A)[^key-b1db9abd90b96f34cb4b9762e11a4784] The Scottish Ministers may issue guidance to rating authorities about the exercise of the powers conferred by subsections (5) to (7) in relation to lands and heritages of the type mentioned in subsection (5)(c).
+(7A)[^c-b1db9abd90b96f34cb4b9762e11a4784] The Scottish Ministers may issue guidance to rating authorities about the exercise of the powers conferred by subsections (5) to (7) in relation to lands and heritages of the type mentioned in subsection (5)(c).
 
 (7B) A rating authority must have regard to such guidance.
 
@@ -158,9 +158,9 @@ Provided that any such reduction or remission shall cease to have effect on a ch
 
 (8) Lands and heritages belonging to or held by or on behalf of a religious body, being the residence from which a full–time clergyman or minister of any religious denomination performs the duties of his office, or which are being held available to provide such a residence, shall be treated for the purposes of this section as occupied by a charity and wholly or mainly used for charitable purposes, whether apart from this provision they would be so treated or not.
 
-(9) The foregoing provisions of this section shall not apply to any lands and heritages described in [^c627675]... subsection (1) of section twenty–two of the Act of 1956, to lands and heritages which are wholly or mainly used for the purpose of carrying on an independent school other than a school falling within subsection (9A),[^key-d0c7f71f9e3587bad57176ac155ade4a] or to lands and heritages occupied by a local authority (otherwise than as trustee), [^c627676]...
+(9) The foregoing provisions of this section shall not apply to any lands and heritages described in [^c627675]... subsection (1) of section twenty–two of the Act of 1956, to lands and heritages which are wholly or mainly used for the purpose of carrying on an independent school other than a school falling within subsection (9A),[^c-d0c7f71f9e3587bad57176ac155ade4a] or to lands and heritages occupied by a local authority (otherwise than as trustee), [^c627676]...
 
-(9A)[^key-8c241cf821f4556d8a722ffa7d2ae2cc] The schools falling within this subsection are—
+(9A)[^c-8c241cf821f4556d8a722ffa7d2ae2cc] The schools falling within this subsection are—
 
 - (a) any independent school all the pupils of which—
   - (i) are selected on the basis of musical ability or potential, and
@@ -169,10 +169,10 @@ Provided that any such reduction or remission shall cease to have effect on a ch
 
 (10) In this section—
 
-- (a)[^key-2f7c0436c66c99b7a718b94d38c53f10] “**charity**” means a body entered in the Scottish Charity Register,
-- (aa)[^key-f7cd21307617694390d372f21d80d78a] “**independent school**” has the meaning given by section 135(1) of the Education (Scotland) Act 1980,
+- (a)[^c-2f7c0436c66c99b7a718b94d38c53f10] “**charity**” means a body entered in the Scottish Charity Register,
+- (aa)[^c-f7cd21307617694390d372f21d80d78a] “**independent school**” has the meaning given by section 135(1) of the Education (Scotland) Act 1980,
 - (b)[^c627677] “**rate**” means the non–domestic rate.
-- (c)[^key-0d2dd619be31b74a7ca09b99ef681be6] “**registered community amateur sports club**” means a registered club for the purposes of Schedule 18 to the Finance Act 2002 (c. 23); and the period during which a club is a registered club for those purposes is to be taken to begin with the date on which its registration takes effect and end on the date with effect from which its registration is terminated (whether or not it is registered, or its registration is terminated, with retrospective effect) ,[^key-4afef8bcefd1839b0b5d45f38afee778]
+- (c)[^c-0d2dd619be31b74a7ca09b99ef681be6] “**registered community amateur sports club**” means a registered club for the purposes of Schedule 18 to the Finance Act 2002 (c. 23); and the period during which a club is a registered club for those purposes is to be taken to begin with the date on which its registration takes effect and end on the date with effect from which its registration is terminated (whether or not it is registered, or its registration is terminated, with retrospective effect) ,[^c-4afef8bcefd1839b0b5d45f38afee778]
 - (d) “**special school**” means a school falling within paragraph (a) of the definition of “special school” in section 29(1) of the Education (Additional Support for Learning) (Scotland) Act 2004.
 
 (11)[^c627678] Without prejudice to the meaning of the expression “wholly or mainly used for charitable purposes”, lands and heritages shall be treated as so used, for the purposes of subsection (2) of this section, if—
@@ -182,9 +182,9 @@ Provided that any such reduction or remission shall cease to have effect on a ch
 
 (12)[^c627679] An order under subsection (2)(c) of this section shall have no effect until approved by resolution of each House of Parliament.
 
-(13)[^key-ac788628f4750447263290316129873a] The amendments to this section made by section 98 of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10) (which extend mandatory relief to, and allow discretionary relief to be given to, registered community amateur sports clubs) have effect only as respects the year 2006–7 and subsequent years.
+(13)[^c-ac788628f4750447263290316129873a] The amendments to this section made by section 98 of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10) (which extend mandatory relief to, and allow discretionary relief to be given to, registered community amateur sports clubs) have effect only as respects the year 2006–7 and subsequent years.
 
-(14)[^key-ef779fa3f411292ccca07ff0604c6c4f] Any reduction or remission of rates in respect of lands and heritages which are wholly or mainly used for the purpose of carrying on an independent school, other than a school falling within subsection (9A), granted under subsection (5) before the day on which section 17 of the Non-Domestic Rates (Scotland) Act 2020 comes into force ceases to have effect on that day.
+(14)[^c-ef779fa3f411292ccca07ff0604c6c4f] Any reduction or remission of rates in respect of lands and heritages which are wholly or mainly used for the purpose of carrying on an independent school, other than a school falling within subsection (9A), granted under subsection (5) before the day on which section 17 of the Non-Domestic Rates (Scotland) Act 2020 comes into force ceases to have effect on that day.
 
 ## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c627680]
 
@@ -240,7 +240,7 @@ Section 12.
 
 **4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c627695]
 
-### 5. The Recreational Charities Act, 1958[^key-8192176a00d4eabf9976627027636543][^c627696]
+### 5. The Recreational Charities Act, 1958[^c-8192176a00d4eabf9976627027636543][^c627696]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -288,9 +288,9 @@ Section 12.
 
 [^c627604]: Textual amendment: S. 3(e) added by [Gas Act 1972 (c. 60)](https://www.legislation.gov.uk/ukpga/1972/60), [Sch. 6 para. 10(d)](https://www.legislation.gov.uk/ukpga/1972/60/schedule/6/paragraph/10/d)
 
-[^key-51c97760c4ea1c50934e64e0baa8b484]: Modification: [S. 3A](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/3A) excluded (1.4.2019) by [The Non-Domestic Rates (Levying) (Scotland) Regulations 2019 (S.S.I. 2019/39)](https://www.legislation.gov.uk/ssi/2019/39), [regs. 1](https://www.legislation.gov.uk/ssi/2019/39/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2019/39/regulation/5/b)
+[^c-51c97760c4ea1c50934e64e0baa8b484]: Modification: [S. 3A](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/3A) excluded (1.4.2019) by [The Non-Domestic Rates (Levying) (Scotland) Regulations 2019 (S.S.I. 2019/39)](https://www.legislation.gov.uk/ssi/2019/39), [regs. 1](https://www.legislation.gov.uk/ssi/2019/39/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2019/39/regulation/5/b)
 
-[^key-104588b8e4415c31c600b747dd5cc8d7]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/3A) inserted (31.10.2015) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 140(1)](https://www.legislation.gov.uk/asp/2015/6/section/140/1), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/344](https://www.legislation.gov.uk/ssi/2015/344), [art. 2](https://www.legislation.gov.uk/ssi/2015/344/article/2)
+[^c-104588b8e4415c31c600b747dd5cc8d7]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/3A) inserted (31.10.2015) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 140(1)](https://www.legislation.gov.uk/asp/2015/6/section/140/1), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/344](https://www.legislation.gov.uk/ssi/2015/344), [art. 2](https://www.legislation.gov.uk/ssi/2015/344/article/2)
 
 [^c627659]: Modification: S. 4 extended by [National Heritage Act 1980 (c. 17, SIF 3)](https://www.legislation.gov.uk/ukpga/1980/17), [s. 1](https://www.legislation.gov.uk/ukpga/1980/17/section/1) (4), Sch. 1 para. 2
 
@@ -302,7 +302,7 @@ Section 12.
 
 [^c627662]: Textual amendment: Words repealed (with saving) by [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [ss. 5](https://www.legislation.gov.uk/ukpga/1981/23/section/5) (a) (i), 13, Sch. 4
 
-[^key-0d8256dbe4b1328e0af86bf3759c653f]: Textual amendment: S. 4(2)(aa) substituted for word "or" (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [ss. 98(2)(a)](https://www.legislation.gov.uk/asp/2005/10/section/98/2/a), [107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)
+[^c-0d8256dbe4b1328e0af86bf3759c653f]: Textual amendment: S. 4(2)(aa) substituted for word "or" (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [ss. 98(2)(a)](https://www.legislation.gov.uk/asp/2005/10/section/98/2/a), [107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)
 
 [^c627663]: Textual amendment: Words inserted by [Local Government and Planning (Scotland) Act 1982 (c. 43, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1982/43), [s. 5](https://www.legislation.gov.uk/ukpga/1982/43/section/5) (1) (a) (i)
 
@@ -310,7 +310,7 @@ Section 12.
 
 [^c627665]: Textual amendment: Word inserted by [Local Government and Planning (Scotland) Act 1982 (c. 43, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1982/43), [s. 5](https://www.legislation.gov.uk/ukpga/1982/43/section/5) (1) (a) (ii)
 
-[^key-e7a2b26cbcad5c07d9b825959b483a34]: Textual amendment: Words in s. 4(2) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [ss. 98(2)(b)](https://www.legislation.gov.uk/asp/2005/10/section/98/2/b), [107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)
+[^c-e7a2b26cbcad5c07d9b825959b483a34]: Textual amendment: Words in s. 4(2) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [ss. 98(2)(b)](https://www.legislation.gov.uk/asp/2005/10/section/98/2/b), [107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)
 
 [^c627666]: Textual amendment: Words substituted by [Local Government Finance Act 1988 (c. 41, SIF: 2)](https://www.legislation.gov.uk/ukpga/1988/41), [s. 137](https://www.legislation.gov.uk/ukpga/1988/41/section/137), [Sch. 12 Pt. II para. 7](https://www.legislation.gov.uk/ukpga/1988/41/schedule/12/part/II/paragraph/7)
 
@@ -320,11 +320,11 @@ Section 12.
 
 [^c627669]: Textual amendment: S. 4 (3) (4) repealed by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [ss. 145](https://www.legislation.gov.uk/ukpga/1989/42/section/145), [194](https://www.legislation.gov.uk/ukpga/1989/42/section/194) (4), Sch. 6 para. 9 (a), Sch. 12 Pt. II
 
-[^key-801be1417786cd8b65c00ecbbd14c203]: Modification: S. 4(5) excluded (1.4.2019) by [The Non-Domestic Rates (Levying) (Scotland) Regulations 2019 (S.S.I. 2019/39)](https://www.legislation.gov.uk/ssi/2019/39), [regs. 1](https://www.legislation.gov.uk/ssi/2019/39/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2019/39/regulation/5/b)
+[^c-801be1417786cd8b65c00ecbbd14c203]: Modification: S. 4(5) excluded (1.4.2019) by [The Non-Domestic Rates (Levying) (Scotland) Regulations 2019 (S.S.I. 2019/39)](https://www.legislation.gov.uk/ssi/2019/39), [regs. 1](https://www.legislation.gov.uk/ssi/2019/39/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2019/39/regulation/5/b)
 
 [^c627670]: Textual amendment: Words in s. 4(5) substituted (1.4.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180](https://www.legislation.gov.uk/ukpga/1994/39/section/180), [Sch. 13 para. 57](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/57); [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 4](https://www.legislation.gov.uk/uksi/1994/3150/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/3150/schedule/1)
 
-[^key-d1fd65295ef9be4f930a3f61db91772b]: Textual amendment: Words in s. 4(5) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [ss. 98(3)](https://www.legislation.gov.uk/asp/2005/10/section/98/3), [107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)
+[^c-d1fd65295ef9be4f930a3f61db91772b]: Textual amendment: Words in s. 4(5) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [ss. 98(3)](https://www.legislation.gov.uk/asp/2005/10/section/98/3), [107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)
 
 [^c627672]: Textual amendment: Words in s. 4(5) substituted (1.4.1997) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [s. 33(1)](https://www.legislation.gov.uk/ukpga/1997/29/section/33/1), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/2/a); [S.I. 1997/1097](https://www.legislation.gov.uk/uksi/1997/1097), [art. 2](https://www.legislation.gov.uk/uksi/1997/1097/article/2)
 
@@ -332,33 +332,33 @@ Section 12.
 
 [^c627674]: Textual amendment: S. 4(6A) inserted (1.4.1997) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [s. 33(1)](https://www.legislation.gov.uk/ukpga/1997/29/section/33/1), [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/2/c); [S.I. 1997/1097](https://www.legislation.gov.uk/uksi/1997/1097), [art. 2](https://www.legislation.gov.uk/uksi/1997/1097/article/2)
 
-[^key-b1db9abd90b96f34cb4b9762e11a4784]: Textual amendment: S. 4(7A)-(7J) inserted (5.11.2020) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 18](https://www.legislation.gov.uk/asp/2020/4/section/18), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-b1db9abd90b96f34cb4b9762e11a4784]: Textual amendment: S. 4(7A)-(7J) inserted (5.11.2020) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 18](https://www.legislation.gov.uk/asp/2020/4/section/18), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
 [^c627675]: Textual amendment: Words in s. 4(9) omitted (1.4.1992) by virtue of [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/1), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/1992/14/schedule/13/paragraph/11) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4)); [S.I. 1992/818](https://www.legislation.gov.uk/uksi/1992/818), [art. 2(a)](https://www.legislation.gov.uk/uksi/1992/818/article/2/a).
 
-[^key-d0c7f71f9e3587bad57176ac155ade4a]: Textual amendment: Words in [s. 4(9)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/4/9) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 17(2)](https://www.legislation.gov.uk/asp/2020/4/section/17/2), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2021/120](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
+[^c-d0c7f71f9e3587bad57176ac155ade4a]: Textual amendment: Words in [s. 4(9)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/4/9) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 17(2)](https://www.legislation.gov.uk/asp/2020/4/section/17/2), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2021/120](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
 
 [^c627676]: Textual amendment: Words repealed by [Local Government (Scotland) Act 1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), [Sch. 7](https://www.legislation.gov.uk/ukpga/1975/30/schedule/7)
 
-[^key-8c241cf821f4556d8a722ffa7d2ae2cc]: Textual amendment: [S. 4(9A)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/4/9A) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 17(3)](https://www.legislation.gov.uk/asp/2020/4/section/17/3), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2021/120](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
+[^c-8c241cf821f4556d8a722ffa7d2ae2cc]: Textual amendment: [S. 4(9A)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/4/9A) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 17(3)](https://www.legislation.gov.uk/asp/2020/4/section/17/3), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2021/120](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
 
-[^key-2f7c0436c66c99b7a718b94d38c53f10]: Textual amendment: S. 4(10)(a) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/2/1); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-2f7c0436c66c99b7a718b94d38c53f10]: Textual amendment: S. 4(10)(a) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/2/1); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
-[^key-f7cd21307617694390d372f21d80d78a]: Textual amendment: [S. 4(10)(aa)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/4/10/aa) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 17(4)(a)](https://www.legislation.gov.uk/asp/2020/4/section/17/4/a), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2021/120](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
+[^c-f7cd21307617694390d372f21d80d78a]: Textual amendment: [S. 4(10)(aa)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/4/10/aa) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 17(4)(a)](https://www.legislation.gov.uk/asp/2020/4/section/17/4/a), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2021/120](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
 
 [^c627677]: Textual amendment: S. 4 (10) (*b*) substituted by [Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 103:2)](https://www.legislation.gov.uk/ukpga/1987/47), [s. 6](https://www.legislation.gov.uk/ukpga/1987/47/section/6), [Sch. 1 Pt. III para. 21](https://www.legislation.gov.uk/ukpga/1987/47/schedule/1/part/III/paragraph/21)
 
-[^key-0d2dd619be31b74a7ca09b99ef681be6]: Textual amendment: S. 4(10)(c) inserted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [ss. 98(4)](https://www.legislation.gov.uk/asp/2005/10/section/98/4), [107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)
+[^c-0d2dd619be31b74a7ca09b99ef681be6]: Textual amendment: S. 4(10)(c) inserted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [ss. 98(4)](https://www.legislation.gov.uk/asp/2005/10/section/98/4), [107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)
 
-[^key-4afef8bcefd1839b0b5d45f38afee778]: Textual amendment: [S. 4(10)(d)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/4/10/d) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 17(4)(b)](https://www.legislation.gov.uk/asp/2020/4/section/17/4/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2021/120](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
+[^c-4afef8bcefd1839b0b5d45f38afee778]: Textual amendment: [S. 4(10)(d)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/4/10/d) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 17(4)(b)](https://www.legislation.gov.uk/asp/2020/4/section/17/4/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2021/120](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
 
 [^c627678]: Textual amendment: S. 4 (11) added by [Rating (Charity Shops) Act 1976 (c. 45, SIF 103:2)](https://www.legislation.gov.uk/ukpga/1976/45), [s. 1](https://www.legislation.gov.uk/ukpga/1976/45/section/1) (2)
 
 [^c627679]: Textual amendment: S. 4 (12) added by [Local Government and Planning (Scotland) Act 1982 (c. 43, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1982/43), [s. 5](https://www.legislation.gov.uk/ukpga/1982/43/section/5) (1) (*c*)
 
-[^key-ac788628f4750447263290316129873a]: Textual amendment: S. 4(13) inserted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [ss. 98(5)](https://www.legislation.gov.uk/asp/2005/10/section/98/5), [107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)
+[^c-ac788628f4750447263290316129873a]: Textual amendment: S. 4(13) inserted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [ss. 98(5)](https://www.legislation.gov.uk/asp/2005/10/section/98/5), [107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)
 
-[^key-ef779fa3f411292ccca07ff0604c6c4f]: Textual amendment: [S. 4(14)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/4/14) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 17(5)](https://www.legislation.gov.uk/asp/2020/4/section/17/5), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2021/120](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
+[^c-ef779fa3f411292ccca07ff0604c6c4f]: Textual amendment: [S. 4(14)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/section/4/14) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 17(5)](https://www.legislation.gov.uk/asp/2020/4/section/17/5), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2021/120](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/120/regulation/2))
 
 [^c627680]: Textual amendment: S. 5 repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1](https://www.legislation.gov.uk/ukpga/1986/12/section/1) (1), Sch. 1 Pt. VII
 
@@ -392,7 +392,7 @@ Section 12.
 
 [^c627695]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/9/schedule/2/paragraph/4) repealed by [Local Government (Scotland) Act 1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), [s. 39(2)](https://www.legislation.gov.uk/ukpga/1975/30/section/39/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1975/30/schedule/7)
 
-[^key-8192176a00d4eabf9976627027636543]: Textual amendment: Sch. 2 para. 5 repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/2/2); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), art. 2, [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-8192176a00d4eabf9976627027636543]: Textual amendment: Sch. 2 para. 5 repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/2/2); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), art. 2, [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
 [^c627696]: Modification: The text of Ss. 8, 12 (1) and Sch. 2 para. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

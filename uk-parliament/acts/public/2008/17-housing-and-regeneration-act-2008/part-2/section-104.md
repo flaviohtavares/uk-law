@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Financial year[^key-6b3dac4e01aa7b814e925cdd1631471f]
+## 104. Financial year[^c-6b3dac4e01aa7b814e925cdd1631471f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b3dac4e01aa7b814e925cdd1631471f]: Textual amendment: S. 104 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/33), [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26) (with [Sch. 16 para. 68(6)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/68/6)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-6b3dac4e01aa7b814e925cdd1631471f]: Textual amendment: S. 104 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/33), [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26) (with [Sch. 16 para. 68(6)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/68/6)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

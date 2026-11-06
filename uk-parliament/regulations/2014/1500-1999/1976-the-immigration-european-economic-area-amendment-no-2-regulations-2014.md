@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (European Economic Area) (Amendment) (No. 2) Regulations 2014 (revoked)[^key-70598f4198d2173adbbe8479bbfe6baf]
+The Immigration (European Economic Area) (Amendment) (No. 2) Regulations 2014 (revoked)[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 Made
 
@@ -46,74 +46,74 @@ Coming into force
 
 28th July 2014
 
-[^key-70598f4198d2173adbbe8479bbfe6baf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70598f4198d2173adbbe8479bbfe6baf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-70598f4198d2173adbbe8479bbfe6baf]
+## 1. Citation and commencement[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-70598f4198d2173adbbe8479bbfe6baf]
+## 2. Interpretation[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the 2006 Regulations[^key-70598f4198d2173adbbe8479bbfe6baf]
+## 3. Amendments to the 2006 Regulations[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision[^key-70598f4198d2173adbbe8479bbfe6baf]
+## 4. Transitional provision[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-70598f4198d2173adbbe8479bbfe6baf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70598f4198d2173adbbe8479bbfe6baf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amendments to the 2006 Regulations[^key-70598f4198d2173adbbe8479bbfe6baf]
+## SCHEDULE — Amendments to the 2006 Regulations[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 Regulation 3
 
-### 1. Regulation 2 (general interpretation)[^key-70598f4198d2173adbbe8479bbfe6baf]
+### 1. Regulation 2 (general interpretation)[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Regulation 11 (right of admission to the United Kingdom)[^key-70598f4198d2173adbbe8479bbfe6baf]
+### 2. Regulation 11 (right of admission to the United Kingdom)[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Regulation 15B (continuation of a right of residence)[^key-70598f4198d2173adbbe8479bbfe6baf]
+### 3. Regulation 15B (continuation of a right of residence)[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Regulation 19 (exclusion and removal from the United Kingdom)[^key-70598f4198d2173adbbe8479bbfe6baf]
+### 4. Regulation 19 (exclusion and removal from the United Kingdom)[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Regulation 22 (person claiming right of admission)[^key-70598f4198d2173adbbe8479bbfe6baf]
+### 5. Regulation 22 (person claiming right of admission)[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. New regulation 24AA (human rights considerations and interim orders to suspend removal)[^key-70598f4198d2173adbbe8479bbfe6baf]
+### 6. New regulation 24AA (human rights considerations and interim orders to suspend removal)[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Regulation 29 (effect of appeals to the First Tier Tribunal or Upper Tribunal)[^key-70598f4198d2173adbbe8479bbfe6baf]
+### 7. Regulation 29 (effect of appeals to the First Tier Tribunal or Upper Tribunal)[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. New regulation 29AA (temporary admission in order to submit case in person)[^key-70598f4198d2173adbbe8479bbfe6baf]
+### 8. New regulation 29AA (temporary admission in order to submit case in person)[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Schedule 2 (effect on other legislation)[^key-70598f4198d2173adbbe8479bbfe6baf]
+### 9. Schedule 2 (effect on other legislation)[^c-70598f4198d2173adbbe8479bbfe6baf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-70598f4198d2173adbbe8479bbfe6baf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70598f4198d2173adbbe8479bbfe6baf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-70598f4198d2173adbbe8479bbfe6baf]: Textual amendment: Regulations revoked (1.2.2017 for specified purposes) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)
+[^c-70598f4198d2173adbbe8479bbfe6baf]: Textual amendment: Regulations revoked (1.2.2017 for specified purposes) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)

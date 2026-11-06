@@ -46,13 +46,13 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-850b7c31dc2d4bddfb1b97d6c4f21cda]
+### 1. Citation and commencement[^c-850b7c31dc2d4bddfb1b97d6c4f21cda]
 
 These Regulations may be cited as the Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2018 and come into force on exit day.
 
 ## PART 2 — Amendment of subordinate legislation
 
-### 2. Amendment of the Civil Aviation (Insurance) Regulations 2005[^key-102cd167b5dbbbfc9553e502ef619334]
+### 2. Amendment of the Civil Aviation (Insurance) Regulations 2005[^c-102cd167b5dbbbfc9553e502ef619334]
 
 (1) The Civil Aviation (Insurance) Regulations 2005 [^c23492481] are amended as follows.
 
@@ -65,22 +65,22 @@ These Regulations may be cited as the Civil Aviation (Insurance) (Amendment) (EU
 
 ## PART 3 — Amendment of EU Regulation
 
-### 3. Amendment of Regulation [(EC) No 785/2004](https://www.legislation.gov.uk/eur/2004/785)[^key-df2d3c00eeec5b94586fb7358135f52d]
+### 3. Amendment of Regulation [(EC) No 785/2004](https://www.legislation.gov.uk/eur/2004/785)[^c-df2d3c00eeec5b94586fb7358135f52d]
 
 Regulation [(EC) No 785/2004](https://www.legislation.gov.uk/eur/2004/785) of the European Parliament and of the Council on insurance requirements for air carriers and aircraft operators [^c23492491] is amended as follows.
 
-### 4.[^key-e3c733cde0b486e74869fb7de5688ade]
+### 4.[^c-e3c733cde0b486e74869fb7de5688ade]
 
 In Article 1 (objective of Regulation), in paragraph 2, for “national laws of the Member States” substitute “ law of England and Wales, Scotland or Northern Ireland ”.
 
-### 5.[^key-f6fd901f1ee8bf80f55e149e0e8f0fd0]
+### 5.[^c-f6fd901f1ee8bf80f55e149e0e8f0fd0]
 
 In Article 2 (scope)—
 
 - (a) in paragraph 1, for “a Member State to which the Treaty applies” substitute “ the United Kingdom ”;
 - (b) omit paragraphs 3 and 4.
 
-### 6.[^key-fcfa01ab2c34ae88ffbccfa4179bde16]
+### 6.[^c-fcfa01ab2c34ae88ffbccfa4179bde16]
 
 In Article 3 (definitions)—
 
@@ -99,7 +99,7 @@ In Article 3 (definitions)—
 
   .
 
-### 7.[^key-682487e7d24469d648be206682fc3487]
+### 7.[^c-682487e7d24469d648be206682fc3487]
 
 In Article 4 (principles of insurance), in paragraph 3—
 
@@ -107,7 +107,7 @@ In Article 4 (principles of insurance), in paragraph 3—
 - (b) omit the second indent (and the “and” following it);
 - (c) in the third indent, for “national law of the Member States” substitute “ the law of England and Wales, Scotland or Northern Ireland ”.
 
-### 8.[^key-74675b6bf7510c58f1766c7fc939781a]
+### 8.[^c-74675b6bf7510c58f1766c7fc939781a]
 
 In Article 5 (compliance)—
 
@@ -115,7 +115,7 @@ In Article 5 (compliance)—
 - (b) omit paragraphs 2, 3 and 4;
 - (c) in paragraph 5, for the words from “Commission” to the end substitute “ Secretary of State may, by regulations, make provision for paragraph 1 to apply with modifications. ”.
 
-### 9.[^key-dfddbb2b8ebb962261ddb48d4a6867e5]
+### 9.[^c-dfddbb2b8ebb962261ddb48d4a6867e5]
 
 In Article 6 (levels of insurance in respect of liability for passengers, baggage and cargo)—
 
@@ -125,20 +125,20 @@ In Article 6 (levels of insurance in respect of liability for passengers, baggag
   - (ii) for “non-Community” substitute “ non-UK ”;
   - (iii) for “the Community” substitute “ the United Kingdom ”;
   - (iv) for “such territory” substitute “ the territory of the United Kingdom ”;
-- (c)[^key-33ff9390a9aae1a572a8dc61bfff9ecf] in paragraph 5, for “The Commission is empowered to adopt delegated acts in accordance with Article 8a amending”, substitute “The Secretary of State may, by regulations, amend”.
+- (c)[^c-33ff9390a9aae1a572a8dc61bfff9ecf] in paragraph 5, for “The Commission is empowered to adopt delegated acts in accordance with Article 8a amending”, substitute “The Secretary of State may, by regulations, amend”.
 
-### 10.[^key-65b1d4f62354ea622183821dd15efb05]
+### 10.[^c-65b1d4f62354ea622183821dd15efb05]
 
 In Article 7 (levels of insurance in respect of liability for third parties)—
 
 - (a) in paragraph 1, for “The Commission” substitute “ The UK competent authority ”;
-- (b)[^key-6970aa3d8747d27b29f55725bb6dd6fd] in paragraph 2, for “The Commission is empowered to adopt delegated acts in accordance with Article 8a amending”, substitute “The Secretary of State may, by regulations, amend”.
+- (b)[^c-6970aa3d8747d27b29f55725bb6dd6fd] in paragraph 2, for “The Commission is empowered to adopt delegated acts in accordance with Article 8a amending”, substitute “The Secretary of State may, by regulations, amend”.
 
-### 11.[^key-4bc5c675f47466e1d826ad75b0ba78f0][^key-ce7a38dc26c39224dd3189b52d5a62f3]
+### 11.[^c-4bc5c675f47466e1d826ad75b0ba78f0][^c-ce7a38dc26c39224dd3189b52d5a62f3]
 
 Omit Article 8 (enforcement and sanctions), Article 8a (exercise of the delegation) and Article 9 (committee procedure).
 
-### 12.[^key-061a462ecec815e341de26c441059691]
+### 12.[^c-061a462ecec815e341de26c441059691]
 
 Before Article 10 insert—
 
@@ -159,7 +159,7 @@ Before Article 10 insert—
 
 .
 
-### 13.[^key-c97b9f66c6d21a50b134b3a3e90257e9]
+### 13.[^c-c97b9f66c6d21a50b134b3a3e90257e9]
 
 In Article 10 (report and cooperation)—
 
@@ -168,7 +168,7 @@ In Article 10 (report and cooperation)—
   - (i) for “Member States” substitute “ the CAA ”;
   - (ii) for “the Commission” substitute “ the Secretary of State ”.
 
-### 14.[^key-c35083d11a65466253b466dedbdeb2bf]
+### 14.[^c-c35083d11a65466253b466dedbdeb2bf]
 
 After Article 11 (entry into force) omit the paragraph beginning with the words “This Regulation”.
 
@@ -198,42 +198,42 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23492471]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-850b7c31dc2d4bddfb1b97d6c4f21cda]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-850b7c31dc2d4bddfb1b97d6c4f21cda]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-102cd167b5dbbbfc9553e502ef619334]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-102cd167b5dbbbfc9553e502ef619334]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23492481]: Marginal citation: [S.I. 2005/1089](https://www.legislation.gov.uk/uksi/2005/1089), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-df2d3c00eeec5b94586fb7358135f52d]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-df2d3c00eeec5b94586fb7358135f52d]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23492491]: Marginal citation: OJ L 138 30.4.2004, p. 1.
 
-[^key-e3c733cde0b486e74869fb7de5688ade]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e3c733cde0b486e74869fb7de5688ade]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f6fd901f1ee8bf80f55e149e0e8f0fd0]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f6fd901f1ee8bf80f55e149e0e8f0fd0]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-fcfa01ab2c34ae88ffbccfa4179bde16]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-fcfa01ab2c34ae88ffbccfa4179bde16]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23492501]: Marginal citation: Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community.
 
-[^key-682487e7d24469d648be206682fc3487]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-682487e7d24469d648be206682fc3487]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-74675b6bf7510c58f1766c7fc939781a]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-74675b6bf7510c58f1766c7fc939781a]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-dfddbb2b8ebb962261ddb48d4a6867e5]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dfddbb2b8ebb962261ddb48d4a6867e5]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-33ff9390a9aae1a572a8dc61bfff9ecf]: Textual amendment: [Reg. 9(c)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/9/c) substituted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/692)](https://www.legislation.gov.uk/uksi/2020/692), [regs. 1](https://www.legislation.gov.uk/uksi/2020/692/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/692/regulation/2/2)
+[^c-33ff9390a9aae1a572a8dc61bfff9ecf]: Textual amendment: [Reg. 9(c)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/9/c) substituted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/692)](https://www.legislation.gov.uk/uksi/2020/692), [regs. 1](https://www.legislation.gov.uk/uksi/2020/692/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/692/regulation/2/2)
 
-[^key-65b1d4f62354ea622183821dd15efb05]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-65b1d4f62354ea622183821dd15efb05]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6970aa3d8747d27b29f55725bb6dd6fd]: Textual amendment: [Reg. 10(b)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/10/b) substituted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/692)](https://www.legislation.gov.uk/uksi/2020/692), [regs. 1](https://www.legislation.gov.uk/uksi/2020/692/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/692/regulation/2/3)
+[^c-6970aa3d8747d27b29f55725bb6dd6fd]: Textual amendment: [Reg. 10(b)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/10/b) substituted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/692)](https://www.legislation.gov.uk/uksi/2020/692), [regs. 1](https://www.legislation.gov.uk/uksi/2020/692/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/692/regulation/2/3)
 
-[^key-4bc5c675f47466e1d826ad75b0ba78f0]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4bc5c675f47466e1d826ad75b0ba78f0]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ce7a38dc26c39224dd3189b52d5a62f3]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/1363/regulation/11) substituted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/692)](https://www.legislation.gov.uk/uksi/2020/692), [regs. 1](https://www.legislation.gov.uk/uksi/2020/692/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/692/regulation/2/4)
+[^c-ce7a38dc26c39224dd3189b52d5a62f3]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/1363/regulation/11) substituted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/692)](https://www.legislation.gov.uk/uksi/2020/692), [regs. 1](https://www.legislation.gov.uk/uksi/2020/692/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/692/regulation/2/4)
 
-[^key-061a462ecec815e341de26c441059691]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-061a462ecec815e341de26c441059691]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c97b9f66c6d21a50b134b3a3e90257e9]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c97b9f66c6d21a50b134b3a3e90257e9]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c35083d11a65466253b466dedbdeb2bf]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c35083d11a65466253b466dedbdeb2bf]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

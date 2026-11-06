@@ -60,7 +60,7 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 
 (3) These Regulations (except Part 5) do not apply to a person who reaches pensionable age [^c2234736] before 6th April 2016.
 
-(4) In these Regulations, “ *(affected by repeal, see note)*[^key-5fb580d381a3f27628eb43ac88b26818]**the 2014 Act *(affected by repeal, see note)*[^key-5fb580d381a3f27628eb43ac88b26818]**” means the Pensions Act 2014. *(affected by repeal, see note)*[^key-5fb580d381a3f27628eb43ac88b26818]
+(4) In these Regulations, “ *(affected by repeal, see note)*[^c-5fb580d381a3f27628eb43ac88b26818]**the 2014 Act *(affected by repeal, see note)*[^c-5fb580d381a3f27628eb43ac88b26818]**” means the Pensions Act 2014. *(affected by repeal, see note)*[^c-5fb580d381a3f27628eb43ac88b26818]
 
 In these Regulations—
 
@@ -75,7 +75,7 @@ In these Regulations—
 
 ### 1A. Full rate of state pension
 
-The full rate of the state pension for the purposes of section 3(1) of the 2014 Act (full rate of state pension) is £241.30[^key-dc42c117f87b1563bfd0d3465b35d667] per week.
+The full rate of the state pension for the purposes of section 3(1) of the 2014 Act (full rate of state pension) is £241.30[^c-dc42c117f87b1563bfd0d3465b35d667] per week.
 
 ## PART 2 — Prisoners
 
@@ -102,7 +102,7 @@ The full rate of the state pension for the purposes of section 3(1) of the 2014 
 
 - (a) a sentence of imprisonment or detention in legal custody as a result of criminal proceedings;
 - (b) a sentence of detention where the provisions mentioned in regulation 2(2)(c)(i) or (d) apply;
-- (c) a suspended sentence within the meaning in section 286 of the Sentencing Code[^key-58bd2b8422583d2ebe49cc00f3c823da] (suspended sentences of imprisonment).
+- (c) a suspended sentence within the meaning in section 286 of the Sentencing Code[^c-58bd2b8422583d2ebe49cc00f3c823da] (suspended sentences of imprisonment).
 
 (3) A sentence described in paragraph (2)(a) which is imposed outside Great Britain is not a described sentence for the purposes of paragraph (1) if, in similar circumstances in Great Britain, a sentence described in paragraph (2)(a) would not have been imposed.
 
@@ -172,7 +172,7 @@ may be altered in the circumstances specified in paragraph (2).
   - (iii) in the currency in which that amount was originally paid;
 - (f) where the application is to alter the choice so that it becomes a choice to be paid a lump sum under section 8 of the 2014 Act, any amount paid by way of (or on account of) a state pension under section 9 of the 2014 Act would be less than the amount which would be paid as a lump sum under section 8 of the 2014 Act;
 - (g) no previous alteration has been made under this regulation in respect of the same deferral mentioned in section 8(1)(c) of the 2014 Act; and
-- (h) the choice has not been treated as made under regulation 30(5G) or (5H)[^key-c5417e34c7559ef429666afaadc3a078] of the Social Security (Claims and Payments) Regulations 1987 (payments on death) [^c2234742].
+- (h) the choice has not been treated as made under regulation 30(5G) or (5H)[^c-c5417e34c7559ef429666afaadc3a078] of the Social Security (Claims and Payments) Regulations 1987 (payments on death) [^c2234742].
 
 (3) Where the circumstance in paragraph (2)(f) applies, any amount paid by way of (or on account of) a state pension under section 9 of the 2014 Act in respect of the deferral mentioned in section 8(1)(c) of the 2014 Act for which the choice was originally made is to be treated as having been paid on account of the lump sum to be paid under section 8 of the 2014 Act.
 
@@ -223,7 +223,7 @@ For the purposes of section 17(4) of the 2014 Act (effect of pensioner postponin
   - (iv) an income-based jobseeker's allowance within the meaning in section 1(4) of the Jobseekers Act 1995 (the jobseeker's allowance) [^c2234746];
   - (v) universal credit under Part 1 of the Welfare Reform Act 2012 (universal credit) [^c2234747];
   - (vi) a carer's allowance under section 70 of the Contributions and Benefits Act (carer's allowance) [^c2234748];
-  - (via)[^key-caed8797adb6613608a5122e5163e699] the carer support payment component of carer support given in accordance with[^key-f77dbd0411d2d9c884542d821fc14beb] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (“carer support payment”);
+  - (via)[^c-caed8797adb6613608a5122e5163e699] the carer support payment component of carer support given in accordance with[^c-f77dbd0411d2d9c884542d821fc14beb] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (“carer support payment”);
   - (vii) an unemployability supplement within the meaning in regulation 2(1) of the Social Security (Overlapping Benefits) Regulations 1979 (interpretation) [^c2234749];
   - (viii) severe disablement allowance under section 68 of the Contributions and Benefits Act (entitlement and rate of severe disablement allowance) [^c2234750];
   - (ix) a widow's pension under section 39 of the Contributions and Benefits Act (rate of widowed mother's allowance and widow's pension) [^c2234751];
@@ -240,7 +240,7 @@ For the purposes of section 17(4) of the 2014 Act (effect of pensioner postponin
 
 (2) The circumstances mentioned in paragraph (1) are where there is a part of a week in the total period during which the person's entitlement to a state pension was deferred, after any days have been discounted under regulation 11.
 
-### 12A. Modification of the amount of an increment for other cases during deferral[^key-2c1cb4f7e55b5a9f866c5e3f13f5ac63]
+### 12A. Modification of the amount of an increment for other cases during deferral[^c-2c1cb4f7e55b5a9f866c5e3f13f5ac63]
 
 (1) Subject to regulation 23, this regulation applies in cases where, at any time in the deferral period, the weekly rate of the person’s state pension, had the person’s entitlement not been deferred, would have changed otherwise than because of an up-rating increase (“a non-uprating change”).
 
@@ -267,7 +267,7 @@ For the purposes of section 17(4) of the 2014 Act (effect of pensioner postponin
 
 The Schedule to these Regulations (which makes amendments relating to the sharing of state pension rights) has effect.
 
-## PART 6 — Graduated Retirement Benefit[^key-b05a264745334a627e54c5c8353a02f1]
+## PART 6 — Graduated Retirement Benefit[^c-b05a264745334a627e54c5c8353a02f1]
 
 ### 15. Survivor’s state pension based on inheritance of graduated retirement benefit
 
@@ -467,7 +467,7 @@ The Schedule to these Regulations (which makes amendments relating to the sharin
 
 ## PART 7 — Overseas Residents
 
-### 21. Entitlement to state pension for overseas residents[^key-0c0b3e54afb8aeec589934500abd7415][^key-88835a1712d41a9f0ef6bf4a38ed2b6e][^key-8cf80035ad3f3ff8c9f701163409c0a5][^key-2a4e04f38dcabd357a978ea9ad014923][^key-b2102f12c3664818fa9007d0fec3429e][^key-1eb30879a0fc581ef3bbdb200bc91c9c][^key-e82adc52a57b1d77e927a2dcd6d91052][^key-f5c1ee06da3c785c66ad25306ea46eaa][^key-644383a640674798f93d5f8e60a75cef]
+### 21. Entitlement to state pension for overseas residents[^c-0c0b3e54afb8aeec589934500abd7415][^c-88835a1712d41a9f0ef6bf4a38ed2b6e][^c-8cf80035ad3f3ff8c9f701163409c0a5][^c-2a4e04f38dcabd357a978ea9ad014923][^c-b2102f12c3664818fa9007d0fec3429e][^c-1eb30879a0fc581ef3bbdb200bc91c9c][^c-e82adc52a57b1d77e927a2dcd6d91052][^c-f5c1ee06da3c785c66ad25306ea46eaa][^c-644383a640674798f93d5f8e60a75cef]
 
 (1) An overseas resident who is entitled to a state pension under Part 1 of the 2014 Act is not entitled to up-rating increases in accordance with this regulation.
 
@@ -522,7 +522,7 @@ The Schedule to these Regulations (which makes amendments relating to the sharin
 
 (5) Any increase or decrease of the increment as determined in accordance with paragraph (4) is then added to, or subtracted from, the amount of the increment as determined in accordance with paragraph (3).
 
-## PART 8 — National Insurance Credits[^key-74fc630737363abca7076700643f26da]
+## PART 8 — National Insurance Credits[^c-74fc630737363abca7076700643f26da]
 
 ### CHAPTER 1 — General
 
@@ -581,7 +581,7 @@ A person is to be credited with a Class 3 contribution to which the person would
 (4) Paragraph (1) does not apply to—
 
 - (a) a person in respect of a week in which the person is entitled to be credited with earnings under—
-  - (i) regulation 7A (credits for carer’s allowance or carer support payment[^key-f6a72f7e2389c7f23fcdd89d241dd8ce]),
+  - (i) regulation 7A (credits for carer’s allowance or carer support payment[^c-f6a72f7e2389c7f23fcdd89d241dd8ce]),
   - (ii) regulation 8A (credits for unemployment),
   - (iii) regulation 8B (credits for incapacity for work or limited capability for work), or
   - (iv) regulation 9E (credits for certain spouses and civil partners of members of Her Majesty’s forces),
@@ -605,7 +605,7 @@ A person is to be credited with a Class 3 contribution to which the person would
 (2) The provisions specified are—
 
 - (a) regulation 7 (credits for approved training);
-- (b) regulation 7A (credits for carer’s allowance or carer support payment[^key-f2d382ae029a230c96bb05ad2512dced]);
+- (b) regulation 7A (credits for carer’s allowance or carer support payment[^c-f2d382ae029a230c96bb05ad2512dced]);
 - (c) regulation 7B (credits for disability element of working tax credit);
 - (d) regulation 8A (credits for unemployment);
 - (e) regulation 8B (credits for incapacity for work or limited capability for work);
@@ -619,8 +619,8 @@ A person is to be credited with a Class 3 contribution to which the person would
 (1) Where working tax credit is paid to a person in respect of a week in which the person is—
 
 - (a) an employed earner,
-- (b) a self-employed earner whose profits for the year are below the small profits threshold specified by section 11(4)(b)[^key-fc3b8a75a03236290a6a06b89c3c3ad7] of the 1992 Act, who would otherwise[^key-d4fefb9b737264c08598d62131f3caea]... be treated as having actually paid,[^key-1a5dc1c6d658c68a8f92374fa81866bb] a Class 2 contribution, or
-- (c) excepted from being treated as having actually paid[^key-a6726924f4a189455b876f8d7cf8ac3c] a Class 2 contribution by virtue of regulation 43 of the Social Security (Contributions) Regulations 2001,
+- (b) a self-employed earner whose profits for the year are below the small profits threshold specified by section 11(4)(b)[^c-fc3b8a75a03236290a6a06b89c3c3ad7] of the 1992 Act, who would otherwise[^c-d4fefb9b737264c08598d62131f3caea]... be treated as having actually paid,[^c-1a5dc1c6d658c68a8f92374fa81866bb] a Class 2 contribution, or
+- (c) excepted from being treated as having actually paid[^c-a6726924f4a189455b876f8d7cf8ac3c] a Class 2 contribution by virtue of regulation 43 of the Social Security (Contributions) Regulations 2001,
 
 the person is to be credited with earnings equal to the lower earnings limit then in force in respect of that week.
 
@@ -658,8 +658,8 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 
 (4) Paragraph (1) applies to a man who is a self-employed earner only if he—
 
-- (a) [^key-0d756b251f003fdbcbcc089e30ef9998]... would be treated as having actually paid,[^key-b8da130128754f3fe0f30a69c9d61c01] a Class 2 contribution but for the fact that his profits for the year are below the small profits threshold specified by section 11(4)(b)[^key-81288bfc4c5c6dd47226a90e091ec783] of the 1992 Act, or
-- (b) is excepted from being treated as having actually paid[^key-c75ac47b9747859a2d02caddc4f95610] a Class 2 contribution by virtue of regulation 43 of the Social Security (Contributions) Regulations 2001 in respect of any week in a year to which this regulation applies.
+- (a) [^c-0d756b251f003fdbcbcc089e30ef9998]... would be treated as having actually paid,[^c-b8da130128754f3fe0f30a69c9d61c01] a Class 2 contribution but for the fact that his profits for the year are below the small profits threshold specified by section 11(4)(b)[^c-81288bfc4c5c6dd47226a90e091ec783] of the 1992 Act, or
+- (b) is excepted from being treated as having actually paid[^c-c75ac47b9747859a2d02caddc4f95610] a Class 2 contribution by virtue of regulation 43 of the Social Security (Contributions) Regulations 2001 in respect of any week in a year to which this regulation applies.
 
 #### 33. Credits for spouses and civil partners of members of Her Majesty’s forces
 
@@ -675,7 +675,7 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 (4) Paragraph (1) does not apply to—
 
 - (a) a person in respect of a week in which the person is entitled to be credited with earnings under—
-  - (i) regulation 7A (credits for carer’s allowance or carer support payment[^key-e7d249ef3e5686287d980096d2803c69]),
+  - (i) regulation 7A (credits for carer’s allowance or carer support payment[^c-e7d249ef3e5686287d980096d2803c69]),
   - (ii) regulation 8A (credits for unemployment),
   - (iii) regulation 8B (credits for incapacity for work or limited capability for work), or
   - (iv) regulation 9E (credits for certain spouses and civil partners of members of Her Majesty’s forces),
@@ -719,7 +719,7 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 - (b) is, in relation to that child, a person specified in paragraph (6), and
 - (c) was ordinarily resident in Great Britain.
 
-(3)[^key-c02e9c28c5c158635737d8d4c5b8af7b] The person (‘A’) referred to in paragraph (1) is not entitled to be credited with a Class 3 contribution unless—
+(3)[^c-c02e9c28c5c158635737d8d4c5b8af7b] The person (‘A’) referred to in paragraph (1) is not entitled to be credited with a Class 3 contribution unless—
 
 - (a) child benefit was awarded to another person (‘B’) in respect of—
   - (i) the child, or each child, for whom A provided care, and
@@ -732,11 +732,11 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 - (a) those persons shall elect, with the agreement of B, which of them is to be credited with a Class 3 contribution credit (and then only the elected person is to be so credited), or
 - (b) the Secretary of State is to exercise his discretion to determine which of those persons is to be credited with that contribution, in default of the agreement referred to in sub-paragraph (a).
 
-(5) An application under paragraph (3)(c)[^key-2f512621e2b51011825462bffd0afa8c] must—
+(5) An application under paragraph (3)(c)[^c-2f512621e2b51011825462bffd0afa8c] must—
 
-- (a) include the name and date of birth of the child , or each child,[^key-6b0152a0ff6fd7a2a43191ead239b03e] cared for,
+- (a) include the name and date of birth of the child , or each child,[^c-6b0152a0ff6fd7a2a43191ead239b03e] cared for,
 - (b) where requested by the Secretary of State or the Commissioners for Her Majesty’s Revenue and Customs, include a declaration by B that the conditions in paragraph (2) are satisfied, and
-- (c) specify the relevant week or weeks in which the child , or each child,[^key-cc4e7670d61e8e10064fa771492a132a] was cared for.
+- (c) specify the relevant week or weeks in which the child , or each child,[^c-cc4e7670d61e8e10064fa771492a132a] was cared for.
 
 (6) The person specified in paragraph (2)(b) is—
 
@@ -757,7 +757,7 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 
 (7) For the purposes of paragraph (6)(e) and (f), a sibling includes a sibling of the half blood, a step sibling and an adopted sibling.
 
-(8) For the purposes of paragraph (6)(i) and (k)(iii), a partner is a person who is the other member of a couple who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners[^key-78d1b015acacd804693fc82996c757c7].
+(8) For the purposes of paragraph (6)(i) and (k)(iii), a partner is a person who is the other member of a couple who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners[^c-78d1b015acacd804693fc82996c757c7].
 
 #### 36. Credits for being a foster parent
 
@@ -794,7 +794,7 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 (4) For the purposes of paragraph (2)(a)(i), “relevant benefit” means—
 
 - (a) attendance allowance in accordance with section 64 of the 1992 Act;
-- (aa)[^key-f361c3a59a4cad062779eff990d84157] pension age disability payment in accordance with the Disability Assistance for Older People (Scotland) Regulations 2024;
+- (aa)[^c-f361c3a59a4cad062779eff990d84157] pension age disability payment in accordance with the Disability Assistance for Older People (Scotland) Regulations 2024;
 - (b) the care component of disability living allowance in accordance with section 72 of the 1992 Act, at the middle or highest rate prescribed in accordance with subsection (3) of that section;
 - (c) an increase in the rate of disablement pension in accordance with section 104 of the 1992 Act;
 - (d) any benefit which is payable as if an injury or disease were one in respect of which a disablement pension would for the time being be payable in respect of an assessment of 100 per cent., by virtue of—
@@ -805,8 +805,8 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
   - (ii) article 14 (constant attendance allowance) of the Personal Injuries (Civilians) Scheme 1983;
 - (f) the daily living component of personal independence payment in accordance with section 78 of the 2012 Act;
 - (g) armed forces independence payment in accordance with the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011.
-- (h)[^key-c267e61fd3e8b65545739501d3188a28] the care component of child disability payment at the middle or highest rate in accordance with regulation 11 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021;[^key-acafc39c140c40906ed965fd6abc884c]
-- (i)[^key-9686e54c65d7cd5d4f88ff3ea46fac37] the daily living component of adult disability payment at the standard or enhanced rate payable in accordance with regulation 5 of the Disability Assistance for Working Age People (Scotland) Regulations 2022;[^key-7ada14fc4d78dec52605e46105fd23d3]
+- (h)[^c-c267e61fd3e8b65545739501d3188a28] the care component of child disability payment at the middle or highest rate in accordance with regulation 11 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021;[^c-acafc39c140c40906ed965fd6abc884c]
+- (i)[^c-9686e54c65d7cd5d4f88ff3ea46fac37] the daily living component of adult disability payment at the standard or enhanced rate payable in accordance with regulation 5 of the Disability Assistance for Working Age People (Scotland) Regulations 2022;[^c-7ada14fc4d78dec52605e46105fd23d3]
 - (j) the care component of Scottish adult disability living allowance at the middle or highest rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025.
 
 (5) Except in a case to which paragraph (8) applies, a person is not entitled to be credited with a Class 3 contribution under paragraph (2)(a) unless an application to be so credited is received by the Secretary of State in accordance with paragraph (6) and regulation 39.
@@ -825,15 +825,15 @@ A person is to be credited with a Class 3 contribution in respect of a week for 
 
 (8) This paragraph applies in the case of a woman in respect of a week in any part of which an election made by her under regulations under section 19(4) of the 1992 Act (reduced rate election for married women) is in force.
 
-#### 38. Credits for an additional period in respect of entitlement to carer’s allowance or carer support payment and relevant benefits[^key-e46f07da7e76625335be4b7b456f4088]
+#### 38. Credits for an additional period in respect of entitlement to carer’s allowance or carer support payment and relevant benefits[^c-e46f07da7e76625335be4b7b456f4088]
 
 (1) A person is to be credited with a Class 3 contribution for a period of 12 weeks—
 
-- (a) prior to the date on which that person becomes entitled to carer’s allowance by virtue of subsection (1) of section 70 of the 1992 Act or[^key-81d5da6d7f033e4ba6caa9a60eba6335] the carer support payment component of carer support given in accordance with[^key-5401ee514ce7a988273431d65f26e409] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
-- (b) subject to paragraph (2), following the end of the week in which that person ceases to be entitled to carer’s allowance by virtue of that subsection or[^key-7506b01f91d37764f6530ef9848bca2c] the carer support payment component of carer support[^key-c1868638ca6ed29c9a1d07e783f18491] by virtue of those Regulations;
+- (a) prior to the date on which that person becomes entitled to carer’s allowance by virtue of subsection (1) of section 70 of the 1992 Act or[^c-81d5da6d7f033e4ba6caa9a60eba6335] the carer support payment component of carer support given in accordance with[^c-5401ee514ce7a988273431d65f26e409] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+- (b) subject to paragraph (2), following the end of the week in which that person ceases to be entitled to carer’s allowance by virtue of that subsection or[^c-7506b01f91d37764f6530ef9848bca2c] the carer support payment component of carer support[^c-c1868638ca6ed29c9a1d07e783f18491] by virtue of those Regulations;
 - (c) following the end of a week in which regulation 37(2)(a) ceases to be satisfied.
 
-(2) A person is not entitled to be credited with a Class 3 contribution under paragraph (1)(b) in a week in respect of which that person is entitled under regulation 7A of the 1975 Regulations to be credited with contributions by virtue of being entitled to an allowance under section 70 of the 1992 Act or[^key-5531c7df016798bb023474265ae631a6] the carer support payment component of carer support given in accordance with[^key-ab0d7d53f15744be1d7d0c7b57d65fc3] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
+(2) A person is not entitled to be credited with a Class 3 contribution under paragraph (1)(b) in a week in respect of which that person is entitled under regulation 7A of the 1975 Regulations to be credited with contributions by virtue of being entitled to an allowance under section 70 of the 1992 Act or[^c-5531c7df016798bb023474265ae631a6] the carer support payment component of carer support given in accordance with[^c-ab0d7d53f15744be1d7d0c7b57d65fc3] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
 
 #### 39. Time limit for making an application under regulation 34(1)(b), 35, 36 or 37
 
@@ -1009,11 +1009,11 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c2234736]: Marginal citation: *See* section 22(1) of the Pensions Act 2014 for the meaning of “pensionable age”.
 
-[^key-5fb580d381a3f27628eb43ac88b26818]: Textual amendment: Reg. 1(4) substituted (6.4.2016 immediately after S.I. 2015/173 comes into force) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [reg. 2](https://www.legislation.gov.uk/uksi/2016/199/regulation/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/5))
+[^c-5fb580d381a3f27628eb43ac88b26818]: Textual amendment: Reg. 1(4) substituted (6.4.2016 immediately after S.I. 2015/173 comes into force) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [reg. 2](https://www.legislation.gov.uk/uksi/2016/199/regulation/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/5))
 
 [^M_F_67a3f2bc-8788-457b-b05c-8c38f2099669]: Textual amendment: Reg. 1A inserted (6.4.16 coming into force in accordance with art. 1(2)) by The State Pension (Amendment) Regulations 2016 (2016/227) reg. 1(2), 2
 
-[^key-dc42c117f87b1563bfd0d3465b35d667]: Textual amendment: Sum in [Reg. 1A](https://www.legislation.gov.uk/uksi/2015/173/regulation/1A) substituted (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [6(1)](https://www.legislation.gov.uk/uksi/2026/148/article/6/1)
+[^c-dc42c117f87b1563bfd0d3465b35d667]: Textual amendment: Sum in [Reg. 1A](https://www.legislation.gov.uk/uksi/2015/173/regulation/1A) substituted (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [6(1)](https://www.legislation.gov.uk/uksi/2026/148/article/6/1)
 
 [^c2234737]: Marginal citation: *See* section 19(2) of the Pensions Act 2014 for the meaning of “prisoner”.
 
@@ -1023,9 +1023,9 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c2234740]: Marginal citation: 2003 asp.13.
 
-[^key-58bd2b8422583d2ebe49cc00f3c823da]: Textual amendment: Words in reg. 3(2)(c) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 427](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/427) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-58bd2b8422583d2ebe49cc00f3c823da]: Textual amendment: Words in reg. 3(2)(c) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 427](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/427) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c5417e34c7559ef429666afaadc3a078]: Textual amendment: Words in reg. 6(2)(h) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [45](https://www.legislation.gov.uk/uksi/2015/1985/article/45)
+[^c-c5417e34c7559ef429666afaadc3a078]: Textual amendment: Words in reg. 6(2)(h) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [45](https://www.legislation.gov.uk/uksi/2015/1985/article/45)
 
 [^c2234742]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Regulation 30(5G) was inserted by [S.I. 2005/3078](https://www.legislation.gov.uk/uksi/2005/3078).
 
@@ -1041,9 +1041,9 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c2234748]: Marginal citation: Section 70 was amended by S.I.s 1994/2556, 2002/1457, 2011/2426 and 2013/388 and 796.
 
-[^key-caed8797adb6613608a5122e5163e699]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/11/2/a)[(via)](https://www.legislation.gov.uk/uksi/2015/173/regulation/11/2/via) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/2)
+[^c-caed8797adb6613608a5122e5163e699]: Textual amendment: [Reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/11/2/a)[(via)](https://www.legislation.gov.uk/uksi/2015/173/regulation/11/2/via) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/2)
 
-[^key-f77dbd0411d2d9c884542d821fc14beb]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/11/2/a)[(via)](https://www.legislation.gov.uk/uksi/2015/173/regulation/11/2/via) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2026/246/article/29/2)
+[^c-f77dbd0411d2d9c884542d821fc14beb]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/11/2/a)[(via)](https://www.legislation.gov.uk/uksi/2015/173/regulation/11/2/via) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2026/246/article/29/2)
 
 [^c2234749]: Marginal citation: [S.I. 1979/597](https://www.legislation.gov.uk/uksi/1979/597).
 
@@ -1055,89 +1055,89 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c2234753]: Marginal citation: Section 30A was inserted by section 1 of the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18) and amended by section 64 of the Welfare Reform and Pensions Act 1999 and paragraph 14 of Schedule 24 to the Civil Partnership Act 2004.
 
-[^key-2c1cb4f7e55b5a9f866c5e3f13f5ac63]: Textual amendment: Reg. 12A inserted (6.4.2016 immediately after S.I. 2015/173 comes into force) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [reg. 3](https://www.legislation.gov.uk/uksi/2016/199/regulation/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/5))
+[^c-2c1cb4f7e55b5a9f866c5e3f13f5ac63]: Textual amendment: Reg. 12A inserted (6.4.2016 immediately after S.I. 2015/173 comes into force) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [reg. 3](https://www.legislation.gov.uk/uksi/2016/199/regulation/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/5))
 
 [^M_C_f751d6f1-2207-46f5-8a25-c08d5e3577e1]: Modification: Reg. 13 excluded (6.4.2016) by [The Transfer of State Pensions and Benefits Regulations 2007 (S.I. 2007/1398)](https://www.legislation.gov.uk/uksi/2007/1398), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2007/1398/regulation/2/4) (as inserted by [S.I. 2015/1985](https://www.legislation.gov.uk/uksi/2015/1985/contents/made), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2015/1985/article/30/3))
 
 [^c2234754]: Marginal citation: *See* section 2(4) of the Pensions Act 2014 for the definition of “qualifying year”.
 
-[^key-b05a264745334a627e54c5c8353a02f1]: Textual amendment: Pts. 6, 7 inserted (6.4.2016 immediately after S.I. 2015/173 comes into force) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [reg. 4](https://www.legislation.gov.uk/uksi/2016/199/regulation/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/5))
+[^c-b05a264745334a627e54c5c8353a02f1]: Textual amendment: Pts. 6, 7 inserted (6.4.2016 immediately after S.I. 2015/173 comes into force) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [reg. 4](https://www.legislation.gov.uk/uksi/2016/199/regulation/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/5))
 
-[^key-0c0b3e54afb8aeec589934500abd7415]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (9.4.2018) by [The Social Security Benefits Up-rating Regulations 2018 (S.I. 2018/332)](https://www.legislation.gov.uk/uksi/2018/332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/332/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/332/regulation/3)
+[^c-0c0b3e54afb8aeec589934500abd7415]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (9.4.2018) by [The Social Security Benefits Up-rating Regulations 2018 (S.I. 2018/332)](https://www.legislation.gov.uk/uksi/2018/332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/332/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/332/regulation/3)
 
-[^key-88835a1712d41a9f0ef6bf4a38ed2b6e]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (8.4.2019) by [The Social Security Benefits Up-rating Regulations 2019 (S.I. 2019/552)](https://www.legislation.gov.uk/uksi/2019/552), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/552/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/552/regulation/3)
+[^c-88835a1712d41a9f0ef6bf4a38ed2b6e]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (8.4.2019) by [The Social Security Benefits Up-rating Regulations 2019 (S.I. 2019/552)](https://www.legislation.gov.uk/uksi/2019/552), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/552/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/552/regulation/3)
 
-[^key-8cf80035ad3f3ff8c9f701163409c0a5]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (6.4.2020) by [The Social Security Benefits Up-rating Regulations 2020 (S.I. 2020/266)](https://www.legislation.gov.uk/uksi/2020/266), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/266/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/266/regulation/3)
+[^c-8cf80035ad3f3ff8c9f701163409c0a5]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (6.4.2020) by [The Social Security Benefits Up-rating Regulations 2020 (S.I. 2020/266)](https://www.legislation.gov.uk/uksi/2020/266), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/266/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/266/regulation/3)
 
-[^key-2a4e04f38dcabd357a978ea9ad014923]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (12.4.2021) by [The Social Security Benefits Up-rating Regulations 2021 (S.I. 2021/312)](https://www.legislation.gov.uk/uksi/2021/312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/312/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/312/regulation/3)
+[^c-2a4e04f38dcabd357a978ea9ad014923]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (12.4.2021) by [The Social Security Benefits Up-rating Regulations 2021 (S.I. 2021/312)](https://www.legislation.gov.uk/uksi/2021/312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/312/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/312/regulation/3)
 
-[^key-b2102f12c3664818fa9007d0fec3429e]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (11.4.2022) by [The Social Security Benefits Up-rating Regulations 2022 (S.I. 2022/342)](https://www.legislation.gov.uk/uksi/2022/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/342/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/342/regulation/3)
+[^c-b2102f12c3664818fa9007d0fec3429e]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (11.4.2022) by [The Social Security Benefits Up-rating Regulations 2022 (S.I. 2022/342)](https://www.legislation.gov.uk/uksi/2022/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/342/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/342/regulation/3)
 
-[^key-1eb30879a0fc581ef3bbdb200bc91c9c]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (10.4.2023) by [The Social Security Benefits Up-rating Regulations 2023 (S.I. 2023/340)](https://www.legislation.gov.uk/uksi/2023/340), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/340/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/340/regulation/3)
+[^c-1eb30879a0fc581ef3bbdb200bc91c9c]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (10.4.2023) by [The Social Security Benefits Up-rating Regulations 2023 (S.I. 2023/340)](https://www.legislation.gov.uk/uksi/2023/340), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/340/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/340/regulation/3)
 
-[^key-e82adc52a57b1d77e927a2dcd6d91052]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (8.4.2024) by [The Social Security Benefits Up-rating Regulations 2024 (S.I. 2024/386)](https://www.legislation.gov.uk/uksi/2024/386), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/386/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/386/regulation/3)
+[^c-e82adc52a57b1d77e927a2dcd6d91052]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (8.4.2024) by [The Social Security Benefits Up-rating Regulations 2024 (S.I. 2024/386)](https://www.legislation.gov.uk/uksi/2024/386), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/386/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/386/regulation/3)
 
-[^key-f5c1ee06da3c785c66ad25306ea46eaa]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (7.4.2025) by [The Social Security Benefits Up-rating Regulations 2025 (S.I. 2025/352)](https://www.legislation.gov.uk/uksi/2025/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/352/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2025/352/regulation/3)
+[^c-f5c1ee06da3c785c66ad25306ea46eaa]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (7.4.2025) by [The Social Security Benefits Up-rating Regulations 2025 (S.I. 2025/352)](https://www.legislation.gov.uk/uksi/2025/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/352/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2025/352/regulation/3)
 
-[^key-644383a640674798f93d5f8e60a75cef]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (6.4.2026) by [The Social Security Benefits Up-rating Regulations 2026 (S.I. 2026/218)](https://www.legislation.gov.uk/uksi/2026/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/218/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/218/regulation/3)
+[^c-644383a640674798f93d5f8e60a75cef]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/173/regulation/21) applied (6.4.2026) by [The Social Security Benefits Up-rating Regulations 2026 (S.I. 2026/218)](https://www.legislation.gov.uk/uksi/2026/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/218/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/218/regulation/3)
 
-[^key-74fc630737363abca7076700643f26da]: Textual amendment: Pt. 8 inserted (6.4.2016 coming into force in accordance with reg. 1) by [The State Pension (Amendment) (No. 2) Regulations 2016 (S.I. 2016/240)](https://www.legislation.gov.uk/uksi/2016/240), [regs. 1](https://www.legislation.gov.uk/uksi/2016/240/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/240/regulation/2)
+[^c-74fc630737363abca7076700643f26da]: Textual amendment: Pt. 8 inserted (6.4.2016 coming into force in accordance with reg. 1) by [The State Pension (Amendment) (No. 2) Regulations 2016 (S.I. 2016/240)](https://www.legislation.gov.uk/uksi/2016/240), [regs. 1](https://www.legislation.gov.uk/uksi/2016/240/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/240/regulation/2)
 
-[^key-f6a72f7e2389c7f23fcdd89d241dd8ce]: Textual amendment: Words in [reg. 28(4)(a)(i)](https://www.legislation.gov.uk/uksi/2015/173/regulation/28/4/a/i) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/3)
+[^c-f6a72f7e2389c7f23fcdd89d241dd8ce]: Textual amendment: Words in [reg. 28(4)(a)(i)](https://www.legislation.gov.uk/uksi/2015/173/regulation/28/4/a/i) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/3)
 
-[^key-f2d382ae029a230c96bb05ad2512dced]: Textual amendment: Words in [reg. 29(2)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/29/2/b) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/4)
+[^c-f2d382ae029a230c96bb05ad2512dced]: Textual amendment: Words in [reg. 29(2)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/29/2/b) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/4)
 
-[^key-fc3b8a75a03236290a6a06b89c3c3ad7]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/30/1/b) substituted (with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/3/a/i)
+[^c-fc3b8a75a03236290a6a06b89c3c3ad7]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/30/1/b) substituted (with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/3/a/i)
 
-[^key-d4fefb9b737264c08598d62131f3caea]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/30/1/b) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(22)(a)(i)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/22/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-d4fefb9b737264c08598d62131f3caea]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/30/1/b) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(22)(a)(i)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/22/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
-[^key-1a5dc1c6d658c68a8f92374fa81866bb]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/30/1/b) inserted (with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/3/a/ii)
+[^c-1a5dc1c6d658c68a8f92374fa81866bb]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/30/1/b) inserted (with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/3/a/ii)
 
-[^key-a6726924f4a189455b876f8d7cf8ac3c]: Textual amendment: Words in [reg. 30(1)(c)](https://www.legislation.gov.uk/uksi/2015/173/regulation/30/1/c) substituted (6.4.2024) by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(22)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/22/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-a6726924f4a189455b876f8d7cf8ac3c]: Textual amendment: Words in [reg. 30(1)(c)](https://www.legislation.gov.uk/uksi/2015/173/regulation/30/1/c) substituted (6.4.2024) by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(22)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/22/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
-[^key-0d756b251f003fdbcbcc089e30ef9998]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/32/4/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(22)(b)(i)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/22/b/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-0d756b251f003fdbcbcc089e30ef9998]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/32/4/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(22)(b)(i)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/22/b/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
-[^key-b8da130128754f3fe0f30a69c9d61c01]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/32/4/a) inserted (with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/3/b/i)
+[^c-b8da130128754f3fe0f30a69c9d61c01]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/32/4/a) inserted (with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/3/b/i)
 
-[^key-81288bfc4c5c6dd47226a90e091ec783]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/32/4/a) substituted (with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/3/b/ii)
+[^c-81288bfc4c5c6dd47226a90e091ec783]: Textual amendment: Words in [reg. 32(4)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/32/4/a) substituted (with effect from 6.4.2022) by [The Social Security (Class 2 National Insurance Contributions Increase of Threshold) Regulations 2022 (S.I. 2022/1329)](https://www.legislation.gov.uk/uksi/2022/1329), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1329/regulation/1), [6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1329/regulation/6/3/b/ii)
 
-[^key-c75ac47b9747859a2d02caddc4f95610]: Textual amendment: Words in [reg. 32(4)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/32/4/b) substituted (6.4.2024) by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(22)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/22/b/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-c75ac47b9747859a2d02caddc4f95610]: Textual amendment: Words in [reg. 32(4)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/32/4/b) substituted (6.4.2024) by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(22)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/22/b/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
-[^key-e7d249ef3e5686287d980096d2803c69]: Textual amendment: Words in [reg. 33(4)(a)(i)](https://www.legislation.gov.uk/uksi/2015/173/regulation/33/4/a/i) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/5)
+[^c-e7d249ef3e5686287d980096d2803c69]: Textual amendment: Words in [reg. 33(4)(a)(i)](https://www.legislation.gov.uk/uksi/2015/173/regulation/33/4/a/i) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/5)
 
-[^key-c02e9c28c5c158635737d8d4c5b8af7b]: Textual amendment: Reg. 35(3)(4) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/17/2)
+[^c-c02e9c28c5c158635737d8d4c5b8af7b]: Textual amendment: Reg. 35(3)(4) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/17/2)
 
-[^key-2f512621e2b51011825462bffd0afa8c]: Textual amendment: Word in reg. 35(5) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/17/3/a)
+[^c-2f512621e2b51011825462bffd0afa8c]: Textual amendment: Word in reg. 35(5) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/17/3/a)
 
-[^key-6b0152a0ff6fd7a2a43191ead239b03e]: Textual amendment: Words in reg. 35(5)(a) inserted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/17/3/b)
+[^c-6b0152a0ff6fd7a2a43191ead239b03e]: Textual amendment: Words in reg. 35(5)(a) inserted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/17/3/b)
 
-[^key-cc4e7670d61e8e10064fa771492a132a]: Textual amendment: Words in reg. 35(5)(c) inserted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/17/3/b)
+[^c-cc4e7670d61e8e10064fa771492a132a]: Textual amendment: Words in reg. 35(5)(c) inserted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/17/3/b)
 
-[^key-78d1b015acacd804693fc82996c757c7]: Textual amendment: Words in [reg. 35(8)](https://www.legislation.gov.uk/uksi/2015/173/regulation/35/8) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 100](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/100)
+[^c-78d1b015acacd804693fc82996c757c7]: Textual amendment: Words in [reg. 35(8)](https://www.legislation.gov.uk/uksi/2015/173/regulation/35/8) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 100](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/100)
 
-[^key-f361c3a59a4cad062779eff990d84157]: Textual amendment: [Reg. 37(4)(aa)](https://www.legislation.gov.uk/uksi/2015/173/regulation/37/4/aa) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2024/919/article/18/2)
+[^c-f361c3a59a4cad062779eff990d84157]: Textual amendment: [Reg. 37(4)(aa)](https://www.legislation.gov.uk/uksi/2015/173/regulation/37/4/aa) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2024/919/article/18/2)
 
-[^key-c267e61fd3e8b65545739501d3188a28]: Textual amendment: [Reg. 37(4)(h)](https://www.legislation.gov.uk/uksi/2015/173/regulation/37/4/h) inserted (17.11.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) (No. 2) Order 2021 (S.I. 2021/1301)](https://www.legislation.gov.uk/uksi/2021/1301), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1301/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/1301/article/4/2)
+[^c-c267e61fd3e8b65545739501d3188a28]: Textual amendment: [Reg. 37(4)(h)](https://www.legislation.gov.uk/uksi/2015/173/regulation/37/4/h) inserted (17.11.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) (No. 2) Order 2021 (S.I. 2021/1301)](https://www.legislation.gov.uk/uksi/2021/1301), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1301/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/1301/article/4/2)
 
-[^key-acafc39c140c40906ed965fd6abc884c]: Textual amendment: [Reg. 37(4)(h)](https://www.legislation.gov.uk/uksi/2015/173/regulation/37/4/h): semicolon substituted for full stop (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2022/332/article/15/2/a)
+[^c-acafc39c140c40906ed965fd6abc884c]: Textual amendment: [Reg. 37(4)(h)](https://www.legislation.gov.uk/uksi/2015/173/regulation/37/4/h): semicolon substituted for full stop (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2022/332/article/15/2/a)
 
-[^key-9686e54c65d7cd5d4f88ff3ea46fac37]: Textual amendment: [Reg. 37(4)(i)](https://www.legislation.gov.uk/uksi/2015/173/regulation/37/4/i) inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2022/332/article/15/2/b)
+[^c-9686e54c65d7cd5d4f88ff3ea46fac37]: Textual amendment: [Reg. 37(4)(i)](https://www.legislation.gov.uk/uksi/2015/173/regulation/37/4/i) inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2022/332/article/15/2/b)
 
-[^key-7ada14fc4d78dec52605e46105fd23d3]: Textual amendment: [Reg. 37(4)(j)](https://www.legislation.gov.uk/uksi/2015/173/regulation/37/4/j) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2025/227/article/19/2)
+[^c-7ada14fc4d78dec52605e46105fd23d3]: Textual amendment: [Reg. 37(4)(j)](https://www.legislation.gov.uk/uksi/2015/173/regulation/37/4/j) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2025/227/article/19/2)
 
-[^key-e46f07da7e76625335be4b7b456f4088]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/2015/173/regulation/38) heading inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(6)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/6/a)
+[^c-e46f07da7e76625335be4b7b456f4088]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/2015/173/regulation/38) heading inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(6)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/6/a)
 
-[^key-81d5da6d7f033e4ba6caa9a60eba6335]: Textual amendment: Words in [reg. 38(1)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/1/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(6)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/6/b)
+[^c-81d5da6d7f033e4ba6caa9a60eba6335]: Textual amendment: Words in [reg. 38(1)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/1/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(6)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/6/b)
 
-[^key-5401ee514ce7a988273431d65f26e409]: Textual amendment: Words in [reg. 38(1)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/1/a) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [29(3)(a)](https://www.legislation.gov.uk/uksi/2026/246/article/29/3/a)
+[^c-5401ee514ce7a988273431d65f26e409]: Textual amendment: Words in [reg. 38(1)(a)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/1/a) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [29(3)(a)](https://www.legislation.gov.uk/uksi/2026/246/article/29/3/a)
 
-[^key-7506b01f91d37764f6530ef9848bca2c]: Textual amendment: Words in [reg. 38(1)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/1/b) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(6)(c)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/6/c)
+[^c-7506b01f91d37764f6530ef9848bca2c]: Textual amendment: Words in [reg. 38(1)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/1/b) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(6)(c)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/6/c)
 
-[^key-c1868638ca6ed29c9a1d07e783f18491]: Textual amendment: Words in [reg. 38(1)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/1/b) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [29(3)(b)](https://www.legislation.gov.uk/uksi/2026/246/article/29/3/b)
+[^c-c1868638ca6ed29c9a1d07e783f18491]: Textual amendment: Words in [reg. 38(1)(b)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/1/b) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [29(3)(b)](https://www.legislation.gov.uk/uksi/2026/246/article/29/3/b)
 
-[^key-5531c7df016798bb023474265ae631a6]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(6)(d)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/6/d)
+[^c-5531c7df016798bb023474265ae631a6]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [27(6)(d)](https://www.legislation.gov.uk/uksi/2023/1218/article/27/6/d)
 
-[^key-ab0d7d53f15744be1d7d0c7b57d65fc3]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/2) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [29(3)(a)](https://www.legislation.gov.uk/uksi/2026/246/article/29/3/a)
+[^c-ab0d7d53f15744be1d7d0c7b57d65fc3]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/38/2) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [29(3)(a)](https://www.legislation.gov.uk/uksi/2026/246/article/29/3/a)
 
 [^c2234755]: Marginal citation: [S.I. 2000/2914](https://www.legislation.gov.uk/uksi/2000/2914).
 

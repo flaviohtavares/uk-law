@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Hedgerows[^key-d4b029086dd4c19361ba6d46a6580f2f]
+## 44. Hedgerows[^c-d4b029086dd4c19361ba6d46a6580f2f]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4b029086dd4c19361ba6d46a6580f2f]: Commencement: Art. 44 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-d4b029086dd4c19361ba6d46a6580f2f]: Commencement: Art. 44 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00058]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).

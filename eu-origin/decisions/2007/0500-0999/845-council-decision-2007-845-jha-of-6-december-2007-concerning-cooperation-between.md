@@ -33,46 +33,46 @@ of 6 December 2007
 
 concerning cooperation between Asset Recovery Offices of the Member States in the field of tracing and identification of proceeds from, or other property related to, crime (revoked)
 
-[^key-201f88b95fa965f466eec415436e45de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-201f88b95fa965f466eec415436e45de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Asset Recovery Offices[^key-201f88b95fa965f466eec415436e45de]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Cooperation between Asset Recovery Offices[^key-201f88b95fa965f466eec415436e45de]
+## Article 1. Asset Recovery Offices[^c-201f88b95fa965f466eec415436e45de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Exchange of information between Asset Recovery Offices on request[^key-201f88b95fa965f466eec415436e45de]
+## Article 2. Cooperation between Asset Recovery Offices[^c-201f88b95fa965f466eec415436e45de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Spontaneous exchange of information between Asset Recovery Offices[^key-201f88b95fa965f466eec415436e45de]
+## Article 3. Exchange of information between Asset Recovery Offices on request[^c-201f88b95fa965f466eec415436e45de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Data protection[^key-201f88b95fa965f466eec415436e45de]
+## Article 4. Spontaneous exchange of information between Asset Recovery Offices[^c-201f88b95fa965f466eec415436e45de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Exchange of best practices[^key-201f88b95fa965f466eec415436e45de]
+## Article 5. Data protection[^c-201f88b95fa965f466eec415436e45de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Relationship to existing arrangements for cooperation[^key-201f88b95fa965f466eec415436e45de]
+## Article 6. Exchange of best practices[^c-201f88b95fa965f466eec415436e45de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Implementation[^key-201f88b95fa965f466eec415436e45de]
+## Article 7. Relationship to existing arrangements for cooperation[^c-201f88b95fa965f466eec415436e45de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Application[^key-201f88b95fa965f466eec415436e45de]
+## Article 8. Implementation[^c-201f88b95fa965f466eec415436e45de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-201f88b95fa965f466eec415436e45de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Application[^c-201f88b95fa965f466eec415436e45de]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-201f88b95fa965f466eec415436e45de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-201f88b95fa965f466eec415436e45de]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [112(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/112/b) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [32](https://www.legislation.gov.uk/uksi/2020/1408/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-201f88b95fa965f466eec415436e45de]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [112(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/112/b) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [32](https://www.legislation.gov.uk/uksi/2020/1408/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

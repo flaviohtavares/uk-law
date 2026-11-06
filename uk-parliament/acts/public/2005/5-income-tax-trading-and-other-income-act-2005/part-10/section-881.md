@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 881. Disapplication of corporation tax: section 9 of ICTA[^key-697257ba380ee49d11033f0768114a19]
+## 881. Disapplication of corporation tax: section 9 of ICTA[^c-697257ba380ee49d11033f0768114a19]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-697257ba380ee49d11033f0768114a19]: Textual amendment: [S. 881](https://www.legislation.gov.uk/ukpga/2005/5/section/881) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 644](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/644), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-697257ba380ee49d11033f0768114a19]: Textual amendment: [S. 881](https://www.legislation.gov.uk/ukpga/2005/5/section/881) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 644](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/644), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

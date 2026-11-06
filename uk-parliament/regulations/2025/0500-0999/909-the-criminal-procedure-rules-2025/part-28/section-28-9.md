@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28.9. Information to be supplied on committal to custody or admission to hospital or guardianship[^key-d2a1a53bcca43f8fcbd05bd0f438f9e5]
+## 28.9. Information to be supplied on committal to custody or admission to hospital or guardianship[^c-d2a1a53bcca43f8fcbd05bd0f438f9e5]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2a1a53bcca43f8fcbd05bd0f438f9e5]: Commencement: [Rule 28.9](https://www.legislation.gov.uk/uksi/2025/909/rule/28.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d2a1a53bcca43f8fcbd05bd0f438f9e5]: Commencement: [Rule 28.9](https://www.legislation.gov.uk/uksi/2025/909/rule/28.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00678]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20); section 44 was amended by sections 10, 40 and 55 of, and Part 8 of Schedule 11 to, the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12).

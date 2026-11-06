@@ -31,10 +31,10 @@ summary: ''
 
 of 17 May 2013 on the conclusion of the Agreement between the European Atomic Energy Community (Euratom) and the Korean Peninsula Energy Development Organisation (KEDO) (revoked)
 
-[^key-98f7f19ce6ed0076f840fb9646cbe249]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98f7f19ce6ed0076f840fb9646cbe249]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-98f7f19ce6ed0076f840fb9646cbe249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-98f7f19ce6ed0076f840fb9646cbe249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98f7f19ce6ed0076f840fb9646cbe249]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-98f7f19ce6ed0076f840fb9646cbe249]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

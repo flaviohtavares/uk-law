@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Authority to survey and investigate the land[^key-f4a12cf1e0413eb06e10de1a3c76773e]
+## 21. Authority to survey and investigate the land[^c-f4a12cf1e0413eb06e10de1a3c76773e]
 
 *Extent: E+W*
 
 (1) The undertaker may for the purposes of this Order enter on any land shown within the Order limits or which may be affected by the authorised development and—
 
 - (a) survey or investigate the land (including any watercourses, groundwater, static water bodies or vegetation on the land);
-- (b) without limitation to the scope of sub-paragraph (a), make any excavations, trial holes, boreholes and other investigations in such positions on the land as the undertaker thinks fit to investigate the nature of the surface layer, subsoil, groundwater[^key-d9951c817df2d9db2bf2dc00cad5c29c], underground structures, foundations, and plant or apparatus and remove soil and water samples and discharge water from sampling operations on to the land;
+- (b) without limitation to the scope of sub-paragraph (a), make any excavations, trial holes, boreholes and other investigations in such positions on the land as the undertaker thinks fit to investigate the nature of the surface layer, subsoil, groundwater[^c-d9951c817df2d9db2bf2dc00cad5c29c], underground structures, foundations, and plant or apparatus and remove soil and water samples and discharge water from sampling operations on to the land;
 - (c) without limitation to the scope of sub-paragraph (a), carry out ecological or archaeological investigations on such land including making any excavations or trial holes on the land for such purposes; and
 - (d) place on, leave on and remove from the land apparatus for use in connection with the survey and investigation of land and making of trial holes, boreholes or excavations.
 
@@ -58,6 +58,6 @@ that authority will be deemed to have granted consent.
 
 ## Annotations
 
-[^key-f4a12cf1e0413eb06e10de1a3c76773e]: Commencement: Art. 21 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-f4a12cf1e0413eb06e10de1a3c76773e]: Commencement: Art. 21 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
-[^key-d9951c817df2d9db2bf2dc00cad5c29c]: Textual amendment: Word in [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2025/463/article/21/1/b) substituted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)
+[^c-d9951c817df2d9db2bf2dc00cad5c29c]: Textual amendment: Word in [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2025/463/article/21/1/b) substituted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)

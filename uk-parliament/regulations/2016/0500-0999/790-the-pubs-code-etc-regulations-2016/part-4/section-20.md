@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. The rent assessment proposal[^key-1d2b934e01e6354284776b1a8e4775ac]
+## 20. The rent assessment proposal[^c-1d2b934e01e6354284776b1a8e4775ac]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d2b934e01e6354284776b1a8e4775ac]: Commencement: Reg. 20 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-1d2b934e01e6354284776b1a8e4775ac]: Commencement: Reg. 20 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

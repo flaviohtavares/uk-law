@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Adding a joint contract-holder: landlord's consent[^key-3cafa8a6b6952302696078852d16cf83]
+## 50. Adding a joint contract-holder: landlord's consent[^c-3cafa8a6b6952302696078852d16cf83]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a landlord refuses consent or consents subject to conditions to adding a j
 
 ## Annotations
 
-[^key-3cafa8a6b6952302696078852d16cf83]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2016/1/section/50) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-3cafa8a6b6952302696078852d16cf83]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2016/1/section/50) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

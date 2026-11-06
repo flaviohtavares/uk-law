@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Single tiers of local government[^key-7483c317d7a9419f6b835b832612cd4d][^key-0be23ed79f1aead6cb5479f312f978a3]
+## 59. Single tiers of local government[^c-7483c317d7a9419f6b835b832612cd4d][^c-0be23ed79f1aead6cb5479f312f978a3]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 28 makes provision about arrangements relating to single tiers of local
 
 ## Annotations
 
-[^key-7483c317d7a9419f6b835b832612cd4d]: Commencement: S. 59 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-7483c317d7a9419f6b835b832612cd4d]: Commencement: S. 59 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-0be23ed79f1aead6cb5479f312f978a3]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2026/23/section/59) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-0be23ed79f1aead6cb5479f312f978a3]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2026/23/section/59) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**34.**[^key-7d9973dfea51839259024b9fc0af6931] The community council of Port Eynon is dissolved.
+**34.**[^c-7d9973dfea51839259024b9fc0af6931] The community council of Port Eynon is dissolved.
 
 ## Annotations
 
-[^key-7d9973dfea51839259024b9fc0af6931]: Commencement: [Art. 34](https://www.legislation.gov.uk/wsi/2026/95/article/34) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-7d9973dfea51839259024b9fc0af6931]: Commencement: [Art. 34](https://www.legislation.gov.uk/wsi/2026/95/article/34) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

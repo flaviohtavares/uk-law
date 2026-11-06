@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.30.4. Remit to Court of Session[^key-79fecdfbefba760f6dcb734678d735b2]
+## 3.30.4. Remit to Court of Session[^c-79fecdfbefba760f6dcb734678d735b2]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79fecdfbefba760f6dcb734678d735b2]: Textual amendment: Ch. 3 Pt. 30 inserted (6.10.2005) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Mental Health (Care and Treatment) (Scotland) Act 2003) 2005 (S.S.I. 2005/504)](https://www.legislation.gov.uk/ssi/2005/504), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/504/paragraph/1/1), [2](https://www.legislation.gov.uk/ssi/2005/504/paragraph/2)
+[^c-79fecdfbefba760f6dcb734678d735b2]: Textual amendment: Ch. 3 Pt. 30 inserted (6.10.2005) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Mental Health (Care and Treatment) (Scotland) Act 2003) 2005 (S.S.I. 2005/504)](https://www.legislation.gov.uk/ssi/2005/504), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/504/paragraph/1/1), [2](https://www.legislation.gov.uk/ssi/2005/504/paragraph/2)

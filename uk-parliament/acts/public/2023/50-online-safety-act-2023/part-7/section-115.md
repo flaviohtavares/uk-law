@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Disclosure of information[^key-f0e2c47b8e597108289af67480a7afff]
+## 115. Disclosure of information[^c-f0e2c47b8e597108289af67480a7afff]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0e2c47b8e597108289af67480a7afff]: Commencement: S. 115 in force at Royal Assent, see [s. 240(4)(r)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/r)
+[^c-f0e2c47b8e597108289af67480a7afff]: Commencement: S. 115 in force at Royal Assent, see [s. 240(4)(r)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/r)

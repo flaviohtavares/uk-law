@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Voluntary winding up.[^c15573191][^key-063fbd4cd4021ad5d0cc8eebd0b16dfa][^key-d42c95f368c806f53e80c7334bd5b6c3]
+## 165. Voluntary winding up.[^c15573191][^c-063fbd4cd4021ad5d0cc8eebd0b16dfa][^c-d42c95f368c806f53e80c7334bd5b6c3]
 
 *Extent: E+W+S*
 
 (1) This section has effect where a company is being wound up voluntarily, but subject to section 166 below in the case of a creditor’s voluntary winding up.
 
-(2)[^key-a13bb6dad90f3006741815a486ef0d39][^key-a03bfd362925f3bfecf603d74becb208] The liquidator may exercise any of the powers specified in Parts 1 to 3 of Schedule 4.
+(2)[^c-a13bb6dad90f3006741815a486ef0d39][^c-a03bfd362925f3bfecf603d74becb208] The liquidator may exercise any of the powers specified in Parts 1 to 3 of Schedule 4.
 
 (4)[^c15573201] The liquidator may—
 
@@ -38,13 +38,13 @@ summary: ''
 
 [^c15573191]: Modification: S. 165 applied (with modifications) (S.) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(1)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2)
 
-[^key-063fbd4cd4021ad5d0cc8eebd0b16dfa]: Modification: [Ss. 163-167](https://www.legislation.gov.uk/ukpga/1986/45/section/163) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-063fbd4cd4021ad5d0cc8eebd0b16dfa]: Modification: [Ss. 163-167](https://www.legislation.gov.uk/ukpga/1986/45/section/163) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
 
-[^key-d42c95f368c806f53e80c7334bd5b6c3]: Modification: [Pts. 1-4](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-d42c95f368c806f53e80c7334bd5b6c3]: Modification: [Pts. 1-4](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-a13bb6dad90f3006741815a486ef0d39]: Modification: S. 165(2) modified by SI 1994/2421 Sch. 3 para. 8A(1) (as inserted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/7/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)))
+[^c-a13bb6dad90f3006741815a486ef0d39]: Modification: S. 165(2) modified by SI 1994/2421 Sch. 3 para. 8A(1) (as inserted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/7/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)))
 
-[^key-a03bfd362925f3bfecf603d74becb208]: Textual amendment: S. 165(2) substituted for s. 165(2)(3) (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 120(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/120/2), [164(3)(i)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/i)
+[^c-a03bfd362925f3bfecf603d74becb208]: Textual amendment: S. 165(2) substituted for s. 165(2)(3) (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 120(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/120/2), [164(3)(i)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/i)
 
 [^c15573201]: Modification: S. 165 modified (S.) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(2)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/2), [Sch. 3](https://www.legislation.gov.uk/ssi/2001/128/schedule/3)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Hearings and appeals before the Upper Tribunal[^key-c2451e463d9d7b4a18e06faa2b792b7b]
+## 16. Hearings and appeals before the Upper Tribunal[^c-c2451e463d9d7b4a18e06faa2b792b7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ as they apply in respect of such a reference under that Act.
 
 ## Annotations
 
-[^key-c2451e463d9d7b4a18e06faa2b792b7b]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-c2451e463d9d7b4a18e06faa2b792b7b]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23565611]: Marginal citation: See Article 18A of the CRA Regulation (inserted by regulation 75).
 

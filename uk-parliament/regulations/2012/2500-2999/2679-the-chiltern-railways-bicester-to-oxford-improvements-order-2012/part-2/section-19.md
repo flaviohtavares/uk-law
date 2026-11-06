@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Discharge of water[^key-536318c8c59544db5c12053dcae22ae1]
+## 19. Discharge of water[^c-536318c8c59544db5c12053dcae22ae1]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) The Company must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain under the powers conferred by this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension or any other polluting matter.
 
-(7) Nothing in this article obviates the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^key-70c5bd78610174c2fc43e725a72c09e1].
+(7) Nothing in this article obviates the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^c-70c5bd78610174c2fc43e725a72c09e1].
 
 (8) If a person who receives an application for consent or approval fails to notify the Company of a decision within 28 days of receiving an application for consent under paragraph (3) or approval under paragraph (4)(a) that person is deemed to have granted consent or given approval, as the case may be.
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-536318c8c59544db5c12053dcae22ae1]: Commencement: Art. 19 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-536318c8c59544db5c12053dcae22ae1]: Commencement: Art. 19 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
 
 [^f00019]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-70c5bd78610174c2fc43e725a72c09e1]: Textual amendment: Words in art. 19(7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/44) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-70c5bd78610174c2fc43e725a72c09e1]: Textual amendment: Words in art. 19(7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/44) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

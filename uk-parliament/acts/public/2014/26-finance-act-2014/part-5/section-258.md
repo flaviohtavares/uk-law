@@ -29,8 +29,8 @@ summary: ''
 
 (3) A “**relevant person**” means—
 
-- (a) any person who is an intermediary in relation to the monitored proposal concerned, [^key-106d11a57eaa21cbe9c9891116d9904d]...
-- (aa)[^key-1813ee674810c1e0fb3dd63f1ef145d0] any person who falls within the case described in paragraph 3 of Schedule 33A by virtue of acting under the instruction or guidance of the monitored promoter, and
+- (a) any person who is an intermediary in relation to the monitored proposal concerned, [^c-106d11a57eaa21cbe9c9891116d9904d]...
+- (aa)[^c-1813ee674810c1e0fb3dd63f1ef145d0] any person who falls within the case described in paragraph 3 of Schedule 33A by virtue of acting under the instruction or guidance of the monitored promoter, and
 - (b) any person (“A”) to whom the monitored promoter has made a firm approach in relation to the monitored proposal concerned with a view to making the proposal available for implementation by a person other than A.
 
 (4) If an authorised officer is not aware of any person to whom a notice could be given under subsection (2) the authorised officer, or an officer of Revenue and Customs with the approval of the authorised officer, may give a notice to any person who has implemented the proposal which—
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-106d11a57eaa21cbe9c9891116d9904d]: Textual amendment: Word in [s. 258(3)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/258/3/a) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 16(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/16/a)
+[^c-106d11a57eaa21cbe9c9891116d9904d]: Textual amendment: Word in [s. 258(3)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/258/3/a) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 16(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/16/a)
 
-[^key-1813ee674810c1e0fb3dd63f1ef145d0]: Textual amendment: [S. 258(3)(aa)](https://www.legislation.gov.uk/ukpga/2014/26/section/258/3/aa) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 16(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/16/b)
+[^c-1813ee674810c1e0fb3dd63f1ef145d0]: Textual amendment: [S. 258(3)(aa)](https://www.legislation.gov.uk/ukpga/2014/26/section/258/3/aa) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 16(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/16/b)

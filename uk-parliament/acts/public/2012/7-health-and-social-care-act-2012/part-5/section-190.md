@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-42f6154f2361eabd475cd7cf7787bf67] Section 244 of the National Health Service Act 2006 is amended as follows.
+(1)[^c-42f6154f2361eabd475cd7cf7787bf67] Section 244 of the National Health Service Act 2006 is amended as follows.
 
-(2)[^key-42f6154f2361eabd475cd7cf7787bf67] In subsection (2)—
+(2)[^c-42f6154f2361eabd475cd7cf7787bf67] In subsection (2)—
 
 - (a) omit “an overview and scrutiny committee of”,
 - (b) for “the committee” (in each place where it occurs) substitute “the authority”,
@@ -31,7 +31,7 @@ summary: ''
 - (e) omit the words in brackets in paragraph (c), and
 - (f) in subsection (f) for “any officer of a local NHS body” substitute “any member or employee of a relevant NHS body, or a relevant health service provider or member or employee of a relevant health service provider,”.
 
-(3)[^key-42f6154f2361eabd475cd7cf7787bf67] After subsection (2) insert—
+(3)[^c-42f6154f2361eabd475cd7cf7787bf67] After subsection (2) insert—
 
 > (2ZA) If (by virtue of subsection (2)(c)) regulations make provision as to matters on which relevant NHS bodies or relevant health service providers must consult the authority, the regulations may also make provision—
 >
@@ -56,7 +56,7 @@ summary: ''
 >
 > (2ZE) Regulations under this section may authorise a local authority to arrange for its functions under the regulations to be discharged by an overview and scrutiny committee of the authority.
 
-(4)[^key-42f6154f2361eabd475cd7cf7787bf67] For subsection (3) substitute—
+(4)[^c-42f6154f2361eabd475cd7cf7787bf67] For subsection (3) substitute—
 
 > (3) For the purposes of subsections (2) and (2ZA)—
 >
@@ -68,7 +68,7 @@ summary: ''
 >     - (iii) by the Board, a clinical commissioning group or a local authority by virtue of section 7A, and
 >   - (b) is prescribed, or is of a description prescribed, for those purposes in relation to the authority.
 
-(5)[^key-42f6154f2361eabd475cd7cf7787bf67] After subsection (3) insert—
+(5)[^c-42f6154f2361eabd475cd7cf7787bf67] After subsection (3) insert—
 
 > (3A) In subsection (2)(f) “member”—
 >
@@ -82,11 +82,11 @@ summary: ''
 > - (a) a member of a body which is a member of a clinical commissioning group or relevant health service provider is to be treated as a member of the group or (as the case may be) relevant health service provider, and
 > - (b) an employee of a body which is a member of a clinical commissioning group or relevant health service provider is to be treated as an employee of the group or (as the case may be) relevant health service provider.
 
-(6)[^key-42f6154f2361eabd475cd7cf7787bf67] In subsection (5), for “this section, section 245 and section 246” substitute “this section and section 245”.
+(6)[^c-42f6154f2361eabd475cd7cf7787bf67] In subsection (5), for “this section, section 245 and section 246” substitute “this section and section 245”.
 
-(7)[^key-42f6154f2361eabd475cd7cf7787bf67] For the heading to section 244 substitute “Review and scrutiny by local authorities”.
+(7)[^c-42f6154f2361eabd475cd7cf7787bf67] For the heading to section 244 substitute “Review and scrutiny by local authorities”.
 
-(8)[^key-42f6154f2361eabd475cd7cf7787bf67] For the title to Chapter 3 of Part 12 of the National Health Service Act 2006 substitute “Review and scrutiny by local authorities”.
+(8)[^c-42f6154f2361eabd475cd7cf7787bf67] For the title to Chapter 3 of Part 12 of the National Health Service Act 2006 substitute “Review and scrutiny by local authorities”.
 
 (9) Until the coming into force of paragraph 19 of Schedule 3 to the Localism Act 2011, section 21 of the Local Government Act 2000 (overview and scrutiny committees) is amended as follows—
 
@@ -98,7 +98,7 @@ summary: ''
 - (b) omit subsection (2A)(a) and (b), and
 - (c) in subsection (4) at the end insert “or under section 244(2ZE) of the National Health Service Act 2006.”
 
-(10)[^key-42f6154f2361eabd475cd7cf7787bf67] In section 9F of the Local Government Act 2000 (overview and scrutiny committees) (as inserted by Schedule 2 to the Localism Act 2011)—
+(10)[^c-42f6154f2361eabd475cd7cf7787bf67] In section 9F of the Local Government Act 2000 (overview and scrutiny committees) (as inserted by Schedule 2 to the Localism Act 2011)—
 
 - (a) omit subsection (2)(f),
 - (b) omit subsection (3)(a) and (b), and
@@ -112,4 +112,4 @@ summary: ''
 
 [^c2191338]: Commencement: S. 190 partly in force; s. 190 in force for specified purposes at Royal Assent, see s. 306(1)(d)
 
-[^key-42f6154f2361eabd475cd7cf7787bf67]: Commencement: S. 190(1)-(8)(10) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-42f6154f2361eabd475cd7cf7787bf67]: Commencement: S. 190(1)-(8)(10) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

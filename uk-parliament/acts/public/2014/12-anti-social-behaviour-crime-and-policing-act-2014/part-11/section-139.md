@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Recommendations by IPCC and requirement to respond[^key-761a2a1f47ac658c0e02603ac779a3f6]
+## 139. Recommendations by IPCC and requirement to respond[^c-761a2a1f47ac658c0e02603ac779a3f6]
 
 *Extent: E+W*
 
@@ -111,4 +111,4 @@ After paragraph 28 of Schedule 3 to the Police Reform Act 2002 there is inserted
 
 ## Annotations
 
-[^key-761a2a1f47ac658c0e02603ac779a3f6]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2014/12/section/139) in force at 1.10.2014 by [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2454/article/3/a)
+[^c-761a2a1f47ac658c0e02603ac779a3f6]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2014/12/section/139) in force at 1.10.2014 by [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2454/article/3/a)

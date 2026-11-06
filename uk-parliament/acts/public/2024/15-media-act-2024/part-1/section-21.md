@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Contracts relating to coverage of listed events[^key-56ac883587b988a77bb03f471ebcb10b][^key-31f7fa35b6c6647cc1ca72939fdcad03]
+## 21. Contracts relating to coverage of listed events[^c-56ac883587b988a77bb03f471ebcb10b][^c-31f7fa35b6c6647cc1ca72939fdcad03]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56ac883587b988a77bb03f471ebcb10b]: Commencement: S. 21 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-56ac883587b988a77bb03f471ebcb10b]: Commencement: S. 21 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-31f7fa35b6c6647cc1ca72939fdcad03]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2024/15/section/21) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-31f7fa35b6c6647cc1ca72939fdcad03]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2024/15/section/21) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)

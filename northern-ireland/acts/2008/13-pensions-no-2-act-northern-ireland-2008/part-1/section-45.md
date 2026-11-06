@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Offences of failing to comply[^key-2cfe1b0c06c08eba83c977fe97a5ecfb]
+## 45. Offences of failing to comply[^c-2cfe1b0c06c08eba83c977fe97a5ecfb]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cfe1b0c06c08eba83c977fe97a5ecfb]: Commencement: S. 45 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-2cfe1b0c06c08eba83c977fe97a5ecfb]: Commencement: S. 45 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

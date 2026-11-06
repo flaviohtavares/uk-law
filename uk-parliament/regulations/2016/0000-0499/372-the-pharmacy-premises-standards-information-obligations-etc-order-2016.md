@@ -56,7 +56,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 ## PART 1 — General provisions
 
-### 1. Citation, commencement and interpretation[^key-17aa5fff6b9b75093618cdb2dffbc0bb]
+### 1. Citation, commencement and interpretation[^c-17aa5fff6b9b75093618cdb2dffbc0bb]
 
 (1) This Order may be cited as the Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016.
 
@@ -72,13 +72,13 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 - “the 1976 Order” means the Pharmacy (Northern Ireland) Order 1976[^f00003]; and
 - “the 2010 Order” means the Pharmacy Order 2010[^f00004].
 
-### 2. Extent[^key-8d017778a94aeaaac6be3d0e140edca6]
+### 2. Extent[^c-8d017778a94aeaaac6be3d0e140edca6]
 
 (1) Subject to paragraph (2), this Order extends to England and Wales, Scotland and Northern Ireland.
 
 (2) Part 3 extends only to Northern Ireland and Part 4 extends only to England and Wales and Scotland.
 
-### 3. Transitional, transitory and saving provisions[^key-200aa00b0cb551bc4f4fe77f2f64122a]
+### 3. Transitional, transitory and saving provisions[^c-200aa00b0cb551bc4f4fe77f2f64122a]
 
 (1) In connection with the commencement of any provision of this Order, the Privy Council may by order make such transitional, transitory or saving provisions as it considers appropriate.
 
@@ -91,7 +91,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 - (b) in relation to all cases to which the power extends or in relation to those cases subject to specified exceptions; and
 - (c) so as to make any supplementary, incidental or consequential provisions which the Privy Council considers necessary or expedient.
 
-### 4. Privy Council procedures and legislative procedures[^key-3a84f7c36be1e675e69ba27805a5e20d]
+### 4. Privy Council procedures and legislative procedures[^c-3a84f7c36be1e675e69ba27805a5e20d]
 
 (1) Any power vested in the Privy Council to make an order under this Part may be exercised by any two or more members of the Privy Council.
 
@@ -122,7 +122,7 @@ the Privy Council must obtain the agreement of the Minister for Health, Social S
 
 ## PART 2 — Amendments to the Medicines Act 1968
 
-### 5. Amendment of section 74 of the 1968 Act[^key-11224177a57775a9e9013d6bbf7caf28][^key-6d1a0f198bc1dbe800793262bdeccd99]
+### 5. Amendment of section 74 of the 1968 Act[^c-11224177a57775a9e9013d6bbf7caf28][^c-6d1a0f198bc1dbe800793262bdeccd99]
 
 (1) Section 74 of the 1968 Act[^f00007] (meaning of “registered pharmacy”) is amended as follows.
 
@@ -134,7 +134,7 @@ the Privy Council must obtain the agreement of the Minister for Health, Social S
 
 (3) In subsection (1B), for “apart from that Order” substitute “except for a purpose prescribed by the rules or regulations mentioned in subsection (1A)”.
 
-### 6. Amendment of section 74B of the 1968 Act[^key-4f05b001e09784433ed251ef8ee2ff41][^key-15141e34e7df3218f5ffd09c4cad5134]
+### 6. Amendment of section 74B of the 1968 Act[^c-4f05b001e09784433ed251ef8ee2ff41][^c-15141e34e7df3218f5ffd09c4cad5134]
 
 In section 74B of the 1968 Act[^f00011] (conditions for registration: Great Britain), in subsection (5)—
 
@@ -143,17 +143,17 @@ In section 74B of the 1968 Act[^f00011] (conditions for registration: Great Brit
   - (i) in sub-paragraph (i), for “provided for in rules made” substitute “set”, and
   - (ii) in sub-paragraph (ii), after “of rules” insert “(if any)”.
 
-### 7. Amendment of section 74H of the 1968 Act[^key-12f0b41264dbfb3ef4abeaf9e1f92557][^key-e608c2e840d096aab66542854fff7d22]
+### 7. Amendment of section 74H of the 1968 Act[^c-12f0b41264dbfb3ef4abeaf9e1f92557][^c-e608c2e840d096aab66542854fff7d22]
 
 In section 74H of the 1968 Act[^f00012] (change of ownership of retail pharmacy business: Great Britain), in subsection (6)(c), for “provided for in rules made” substitute “set”.
 
-### 8. Amendment of section 75 of the 1968 Act[^key-2ee3ad5725e2568800a2dfac4b33df43]
+### 8. Amendment of section 75 of the 1968 Act[^c-2ee3ad5725e2568800a2dfac4b33df43]
 
 **Not yet in force.**
 
 In section 75 of the 1968 Act[^f00013] (registration of premises: Northern Ireland), omit subsections (4) to (6).
 
-### 9. Amendment of section 80 of the 1968 Act[^key-9af5bf46ebc98d5fb1e1107dc1a5ee77][^key-30b17614efefb340659693ecfb8f53dc]
+### 9. Amendment of section 80 of the 1968 Act[^c-9af5bf46ebc98d5fb1e1107dc1a5ee77][^c-30b17614efefb340659693ecfb8f53dc]
 
 (1) Section 80 of the 1968 Act[^f00014] (power for relevant disciplinary committee to disqualify and direct removal from register) is amended as follows.
 
@@ -203,14 +203,14 @@ In section 75 of the 1968 Act[^f00013] (registration of premises: Northern Irela
 - (a) after “subsection (1)” insert “or (1A)”; and
 - (b) for “the last preceding subsection”, at each place where it occurs, substitute “subsection (2)”.
 
-### 10. Amendment of section 82 of the 1968 Act[^key-8c4742f28565166f32996fbd359cbf44][^key-3ce0af1a7d11e6fc0e92271c5f48f455]
+### 10. Amendment of section 82 of the 1968 Act[^c-8c4742f28565166f32996fbd359cbf44][^c-3ce0af1a7d11e6fc0e92271c5f48f455]
 
 In section 82 of the 1968 Act[^f00017] (procedure relating to disqualification)—
 
 - (a) in subsection (2), after “body corporate” insert “, pharmacist, partnership”; and
 - (b) in subsection (3), after “body corporate” insert “, pharmacist, partnership”.
 
-### 11. New section 82A of the 1968 Act[^key-fc78d92b689b369cbc9a11fce0fb9ae4][^key-9647db400e8b0fcf7ed0720dfee91fdd]
+### 11. New section 82A of the 1968 Act[^c-fc78d92b689b369cbc9a11fce0fb9ae4][^c-9647db400e8b0fcf7ed0720dfee91fdd]
 
 After section 82 of the 1968 Act (procedure relating to disqualification), insert the following section—
 
@@ -245,7 +245,7 @@ After section 82 of the 1968 Act (procedure relating to disqualification), inser
 
 .
 
-### 12. New section 84B of the 1968 Act[^key-b891407e34c4d34007bbb042b17ef191]
+### 12. New section 84B of the 1968 Act[^c-b891407e34c4d34007bbb042b17ef191]
 
 **Not yet in force.**
 
@@ -263,7 +263,7 @@ After section 84A of the 1968 Act[^f00018] (rules by the General Pharmaceutical 
 
 **Not yet in force.**
 
-### 13. New Article 5A of the 1976 Order[^key-5fc9e56c8577873aa406498e2aa5545c]
+### 13. New Article 5A of the 1976 Order[^c-5fc9e56c8577873aa406498e2aa5545c]
 
 After Article 5 of the 1976 Order[^f00020] (regulations made by the Council: general), insert the following Article—
 
@@ -289,11 +289,11 @@ After Article 5 of the 1976 Order[^f00020] (regulations made by the Council: gen
 
 .
 
-### 14. Amendment of Article 20 of the 1976 Order[^key-591c1cfbf265c9c697864fd2fb2d4742]
+### 14. Amendment of Article 20 of the 1976 Order[^c-591c1cfbf265c9c697864fd2fb2d4742]
 
 In Article 20 of the 1976 Order[^f00021] (fitness to practise), after “and proceedings” insert “(including, where applicable, proceedings in relation to a person carrying on a retail pharmacy business)”.
 
-### 15. Amendment of paragraph 8 of Schedule 3 to the 1976 Order[^key-1513548dad3ea011983913ab731ba7f7]
+### 15. Amendment of paragraph 8 of Schedule 3 to the 1976 Order[^c-1513548dad3ea011983913ab731ba7f7]
 
 (1) Paragraph 8 of Schedule 3 to the 1976 Order[^f00022] (fitness to practise – interim orders) is amended as follows.
 
@@ -338,7 +338,7 @@ In Article 20 of the 1976 Order[^f00021] (fitness to practise), after “and pro
 
 .
 
-### 16. Amendment of paragraph 15 of Schedule 3 to the 1976 Order[^key-04bb516be142ea1fd79fe304171006ca]
+### 16. Amendment of paragraph 15 of Schedule 3 to the 1976 Order[^c-04bb516be142ea1fd79fe304171006ca]
 
 In paragraph 15 of Schedule 3 to the 1976 Order[^f00024] (fitness to practise – regulations in respect of proceedings)—
 
@@ -351,11 +351,11 @@ In paragraph 15 of Schedule 3 to the 1976 Order[^f00024] (fitness to practise �
 
 *Extent: E+W+S*
 
-### 17. Amendment of article 3 of the 2010 Order[^key-3c3c6dda7e096b1f32911ba0e64fab12][^key-784b52fc47fd1eab3d9741b41a4fa6a9]
+### 17. Amendment of article 3 of the 2010 Order[^c-3c3c6dda7e096b1f32911ba0e64fab12][^c-784b52fc47fd1eab3d9741b41a4fa6a9]
 
 In article 3 of the 2010 Order[^f00025] (interpretation), in paragraph (1), omit the definition of “Registrar General”.
 
-### 18. Amendment of article 5 of the 2010 Order[^key-8af81198c44931925c7d709ead200112][^key-1546c5f35067634885fb1c817786e802]
+### 18. Amendment of article 5 of the 2010 Order[^c-8af81198c44931925c7d709ead200112][^c-1546c5f35067634885fb1c817786e802]
 
 In article 5 of the 2010 Order (standards and requirements: consultation and review), after paragraph (1) insert the following paragraph—
 
@@ -363,7 +363,7 @@ In article 5 of the 2010 Order (standards and requirements: consultation and rev
 
 .
 
-### 19. Amendment of article 7 of the 2010 Order[^key-f06a4e9525b233da6516a233dc6f4a37][^key-91b46e942b1fd61e1fed67bf9a10f1cd]
+### 19. Amendment of article 7 of the 2010 Order[^c-f06a4e9525b233da6516a233dc6f4a37][^c-91b46e942b1fd61e1fed67bf9a10f1cd]
 
 (1) Article 7 of the 2010 Order (standards: general) is amended as follows.
 
@@ -430,11 +430,11 @@ In article 5 of the 2010 Order (standards and requirements: consultation and rev
 
 (8) Omit paragraph (7).
 
-### 20. Amendment of article 8 of the 2010 Order[^key-d1e23640475b38d7ccada0e1f8882e24][^key-7ada53c80267aeae50278b40cbb5a944]
+### 20. Amendment of article 8 of the 2010 Order[^c-d1e23640475b38d7ccada0e1f8882e24][^c-7ada53c80267aeae50278b40cbb5a944]
 
 In article 8 of the 2010 Order[^f00026] (the inspectorate), in paragraph (2)(a), for “may be provided for by rules” substitute “are set”.
 
-### 21. Amendment of article 9 of the 2010 Order[^key-181fb1486e93cbd14696f1b30340b335][^key-b9f770e61d37db259168b53b24ae41b4]
+### 21. Amendment of article 9 of the 2010 Order[^c-181fb1486e93cbd14696f1b30340b335][^c-b9f770e61d37db259168b53b24ae41b4]
 
 In article 9 of the 2010 Order (inspection and enforcement), after paragraph (2) insert the following paragraphs—
 
@@ -444,7 +444,7 @@ In article 9 of the 2010 Order (inspection and enforcement), after paragraph (2)
 
 .
 
-### 22. Amendment of article 13 of the 2010 Order[^key-aa075a26b7ec0d23041ac37fdf23765e][^key-0f6606c4383821f42f07f4a39694551a]
+### 22. Amendment of article 13 of the 2010 Order[^c-aa075a26b7ec0d23041ac37fdf23765e][^c-0f6606c4383821f42f07f4a39694551a]
 
 (1) Article 13 of the 2010 Order (improvement notices) is amended as follows.
 
@@ -462,7 +462,7 @@ In article 9 of the 2010 Order (inspection and enforcement), after paragraph (2)
 
 (3) In paragraph (2)(a), for “paragraph (1)(a) or (b)” substitute “paragraph (1)”.
 
-### 23. Amendment of article 14 of the 2010 Order[^key-630bf15ec242aa47cb3918cc9dcfc455][^key-99c64b72af29bba41aa53fc26843bf35]
+### 23. Amendment of article 14 of the 2010 Order[^c-630bf15ec242aa47cb3918cc9dcfc455][^c-99c64b72af29bba41aa53fc26843bf35]
 
 (1) Article 14 of the 2010 Order (non-compliance with improvement notices) is amended as follows.
 
@@ -490,7 +490,7 @@ In article 9 of the 2010 Order (inspection and enforcement), after paragraph (2)
 
 .
 
-### 24. Amendment of article 29 of the 2010 Order[^key-717c12290b67b04e54f436428d802bc4][^key-17ee10cc498b4652c0b5fc42c468ce05]
+### 24. Amendment of article 29 of the 2010 Order[^c-717c12290b67b04e54f436428d802bc4][^c-17ee10cc498b4652c0b5fc42c468ce05]
 
 In article 29 of the 2010 Order (corrections to the Register), for paragraph (2) substitute the following paragraph—
 
@@ -503,7 +503,7 @@ In article 29 of the 2010 Order (corrections to the Register), for paragraph (2)
 
 .
 
-### 25. Amendment of article 56 of the 2010 Order[^key-c8434aae552622ab94f02109234f0a9a][^key-69f7db9fbf7f2c407064f4155202efd3]
+### 25. Amendment of article 56 of the 2010 Order[^c-c8434aae552622ab94f02109234f0a9a][^c-69f7db9fbf7f2c407064f4155202efd3]
 
 (1) Article 56 of the 2010 Order (interim orders) is amended as follows.
 
@@ -549,7 +549,7 @@ In article 29 of the 2010 Order (corrections to the Register), for paragraph (2)
 
 .
 
-### 26. Amendment of article 61 of the 2010 Order[^key-1a309470d7d3b818e3f5e6ac7f4b05c8][^key-08d781b6138ebedf91454ad1efda3074]
+### 26. Amendment of article 61 of the 2010 Order[^c-1a309470d7d3b818e3f5e6ac7f4b05c8][^c-08d781b6138ebedf91454ad1efda3074]
 
 In article 61 of the 2010 Order[^f00030] (rules in respect of proceedings)—
 
@@ -596,7 +596,7 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^f00001]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8). Section 60 has been amended by: the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17) (“the 2002 Act”), section 26(9); the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) (“the 2008 Act”), Schedule 8, paragraph 1, and Schedule 10, paragraph 10; the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”), sections 209, 210 and 213(7)(i), and Schedule 15, paragraphs 60 and 72(2); and [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253) and 254, 2010/231 and 2012/1916. Section 62 has been amended by: the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraphs 194 and 197, and Schedule 4, paragraph 1; and the 2008 Act, Schedule 8, paragraph 2, and Schedule 10, paragraph 11. Schedule 3 has been amended by: the 2002 Act, section 26(10); the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), Schedule 11, paragraph 67, and Schedule 14, Part 4; the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 33 and Schedule 9; the 2008 Act, Schedule 8, paragraphs 3 to 10; the 2012 Act, section 211 and Schedule 15, paragraphs 61 and 72(4); and [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).
 
-[^key-17aa5fff6b9b75093618cdb2dffbc0bb]: Commencement: Art. 1 in force at 12.4.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/372/article/1/2)
+[^c-17aa5fff6b9b75093618cdb2dffbc0bb]: Commencement: Art. 1 in force at 12.4.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/372/article/1/2)
 
 [^f00002]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
@@ -604,19 +604,19 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^f00004]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-8d017778a94aeaaac6be3d0e140edca6]: Commencement: Art. 2 in force at 12.4.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/372/article/1/2)
+[^c-8d017778a94aeaaac6be3d0e140edca6]: Commencement: Art. 2 in force at 12.4.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/372/article/1/2)
 
-[^key-200aa00b0cb551bc4f4fe77f2f64122a]: Commencement: Art. 3 in force at 12.4.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/372/article/1/2)
+[^c-200aa00b0cb551bc4f4fe77f2f64122a]: Commencement: Art. 3 in force at 12.4.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/372/article/1/2)
 
-[^key-3a84f7c36be1e675e69ba27805a5e20d]: Commencement: Art. 4 in force at 12.4.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/372/article/1/2)
+[^c-3a84f7c36be1e675e69ba27805a5e20d]: Commencement: Art. 4 in force at 12.4.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/372/article/1/2)
 
 [^f00005]: Footnote: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36). Section 1(1A) was inserted by the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), Schedule 12, paragraph 2, and substituted by the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), Schedule 10, paragraph 2.
 
 [^f00006]: Footnote: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-11224177a57775a9e9013d6bbf7caf28]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-11224177a57775a9e9013d6bbf7caf28]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-6d1a0f198bc1dbe800793262bdeccd99]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2016/372/article/5) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/i)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
+[^c-6d1a0f198bc1dbe800793262bdeccd99]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2016/372/article/5) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/i)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
 
 [^f00007]: Footnote: Section 74 has been amended by the Statute Law (Repeals) Act [1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), Schedule 1(12), paragraph 1, and by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
@@ -626,25 +626,25 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^f00010]: Footnote: Articles 14 and 56 are amended by articles 23 and 25 of this Order respectively.
 
-[^key-4f05b001e09784433ed251ef8ee2ff41]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-4f05b001e09784433ed251ef8ee2ff41]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-15141e34e7df3218f5ffd09c4cad5134]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2016/372/article/6) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/i)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
+[^c-15141e34e7df3218f5ffd09c4cad5134]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2016/372/article/6) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/i)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
 
 [^f00011]: Footnote: Section 74B was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-12f0b41264dbfb3ef4abeaf9e1f92557]: Commencement: Art. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-12f0b41264dbfb3ef4abeaf9e1f92557]: Commencement: Art. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-e608c2e840d096aab66542854fff7d22]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2016/372/article/7) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/i)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
+[^c-e608c2e840d096aab66542854fff7d22]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2016/372/article/7) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/i)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
 
 [^f00012]: Footnote: Section 74B was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-2ee3ad5725e2568800a2dfac4b33df43]: Commencement: Art. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-2ee3ad5725e2568800a2dfac4b33df43]: Commencement: Art. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
 [^f00013]: Footnote: Section 75 has been amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-9af5bf46ebc98d5fb1e1107dc1a5ee77]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-9af5bf46ebc98d5fb1e1107dc1a5ee77]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-30b17614efefb340659693ecfb8f53dc]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2016/372/article/9) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/ii)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
+[^c-30b17614efefb340659693ecfb8f53dc]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2016/372/article/9) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/ii)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
 
 [^f00014]: Footnote: Section 80 has been amended by [S.I. 2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
@@ -652,88 +652,88 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^f00016]: Footnote: Article 7(1) is substituted by article 19(2) of this Order.
 
-[^key-8c4742f28565166f32996fbd359cbf44]: Commencement: Art. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-8c4742f28565166f32996fbd359cbf44]: Commencement: Art. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-3ce0af1a7d11e6fc0e92271c5f48f455]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2016/372/article/10) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/ii)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
+[^c-3ce0af1a7d11e6fc0e92271c5f48f455]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2016/372/article/10) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/ii)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
 
 [^f00017]: Footnote: Amended by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 11, paragraph 6(1), and by [S.I. 2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
 
-[^key-fc78d92b689b369cbc9a11fce0fb9ae4]: Commencement: Art. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-fc78d92b689b369cbc9a11fce0fb9ae4]: Commencement: Art. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-9647db400e8b0fcf7ed0720dfee91fdd]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2016/372/article/11) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/ii)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
+[^c-9647db400e8b0fcf7ed0720dfee91fdd]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2016/372/article/11) in force at 24.5.2018 for E.W.S. by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/ii)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
 
-[^key-b891407e34c4d34007bbb042b17ef191]: Commencement: Art. 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-b891407e34c4d34007bbb042b17ef191]: Commencement: Art. 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
 [^f00018]: Footnote: Section 84A was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
 [^f00019]: Footnote: Article 25A was inserted by [S.R. 2012/308](https://www.legislation.gov.uk/nisr/2012/308).
 
-[^key-5fc9e56c8577873aa406498e2aa5545c]: Commencement: Art. 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-5fc9e56c8577873aa406498e2aa5545c]: Commencement: Art. 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
 [^f00020]: Footnote: Article 5 was amended, and its heading substituted, by [S.R. 2012/308](https://www.legislation.gov.uk/nisr/2012/308).
 
-[^key-591c1cfbf265c9c697864fd2fb2d4742]: Commencement: Art. 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-591c1cfbf265c9c697864fd2fb2d4742]: Commencement: Art. 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
 [^f00021]: Footnote: Substituted by [S.R. 2012/308](https://www.legislation.gov.uk/nisr/2012/308).
 
-[^key-1513548dad3ea011983913ab731ba7f7]: Commencement: Art. 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-1513548dad3ea011983913ab731ba7f7]: Commencement: Art. 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
 [^f00022]: Footnote: Schedule 3 was inserted by [S.R. 2012/308](https://www.legislation.gov.uk/nisr/2012/308).
 
 [^f00023]: Footnote: Section 75 has been amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and is amended by article 8.
 
-[^key-04bb516be142ea1fd79fe304171006ca]: Commencement: Art. 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-04bb516be142ea1fd79fe304171006ca]: Commencement: Art. 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
 [^f00024]: Footnote: Schedule 3 was inserted by [S.R. 2012/308](https://www.legislation.gov.uk/nisr/2012/308).
 
-[^key-3c3c6dda7e096b1f32911ba0e64fab12]: Commencement: Art. 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-3c3c6dda7e096b1f32911ba0e64fab12]: Commencement: Art. 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-784b52fc47fd1eab3d9741b41a4fa6a9]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2016/372/article/17) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-784b52fc47fd1eab3d9741b41a4fa6a9]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2016/372/article/17) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
 [^f00025]: Footnote: Amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [2015/806](https://www.legislation.gov.uk/uksi/2015/806) and [968](https://www.legislation.gov.uk/uksi/2015/968).
 
-[^key-8af81198c44931925c7d709ead200112]: Commencement: Art. 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-8af81198c44931925c7d709ead200112]: Commencement: Art. 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-1546c5f35067634885fb1c817786e802]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2016/372/article/18) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-1546c5f35067634885fb1c817786e802]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2016/372/article/18) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-f06a4e9525b233da6516a233dc6f4a37]: Commencement: Art. 19 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-f06a4e9525b233da6516a233dc6f4a37]: Commencement: Art. 19 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-91b46e942b1fd61e1fed67bf9a10f1cd]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2016/372/article/19) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-91b46e942b1fd61e1fed67bf9a10f1cd]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2016/372/article/19) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-d1e23640475b38d7ccada0e1f8882e24]: Commencement: Art. 20 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-d1e23640475b38d7ccada0e1f8882e24]: Commencement: Art. 20 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-7ada53c80267aeae50278b40cbb5a944]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2016/372/article/20) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-7ada53c80267aeae50278b40cbb5a944]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2016/372/article/20) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
 [^f00026]: Footnote: Amended by [S.I. 2015/968](https://www.legislation.gov.uk/uksi/2015/968).
 
-[^key-181fb1486e93cbd14696f1b30340b335]: Commencement: Art. 21 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-181fb1486e93cbd14696f1b30340b335]: Commencement: Art. 21 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-b9f770e61d37db259168b53b24ae41b4]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2016/372/article/21) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-b9f770e61d37db259168b53b24ae41b4]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2016/372/article/21) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
 [^f00027]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-aa075a26b7ec0d23041ac37fdf23765e]: Commencement: Art. 22 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-aa075a26b7ec0d23041ac37fdf23765e]: Commencement: Art. 22 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-0f6606c4383821f42f07f4a39694551a]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2016/372/article/22) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-0f6606c4383821f42f07f4a39694551a]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2016/372/article/22) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-630bf15ec242aa47cb3918cc9dcfc455]: Commencement: Art. 23 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-630bf15ec242aa47cb3918cc9dcfc455]: Commencement: Art. 23 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-99c64b72af29bba41aa53fc26843bf35]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2016/372/article/23) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-99c64b72af29bba41aa53fc26843bf35]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2016/372/article/23) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
 [^f00028]: Footnote: Section 74D was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
 [^f00029]: Footnote: Subsection (1) was substituted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-717c12290b67b04e54f436428d802bc4]: Commencement: Art. 24 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-717c12290b67b04e54f436428d802bc4]: Commencement: Art. 24 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-17ee10cc498b4652c0b5fc42c468ce05]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2016/372/article/24) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-17ee10cc498b4652c0b5fc42c468ce05]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2016/372/article/24) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-c8434aae552622ab94f02109234f0a9a]: Commencement: Art. 25 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-c8434aae552622ab94f02109234f0a9a]: Commencement: Art. 25 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-69f7db9fbf7f2c407064f4155202efd3]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2016/372/article/25) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-69f7db9fbf7f2c407064f4155202efd3]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2016/372/article/25) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-1a309470d7d3b818e3f5e6ac7f4b05c8]: Commencement: Art. 26 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
+[^c-1a309470d7d3b818e3f5e6ac7f4b05c8]: Commencement: Art. 26 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3)
 
-[^key-08d781b6138ebedf91454ad1efda3074]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2016/372/article/26) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-08d781b6138ebedf91454ad1efda3074]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2016/372/article/26) in force at 24.5.2018 by [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
 [^f00030]: Footnote: Amended by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806).

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — LAND IN WHICH ONLY SUBSOIL OR NEW RIGHTS IN AND ABOVE SUBSOIL AND SURFACE MAY BE ACQUIRED[^key-579cbc31d7b1859c8234a69aaa736d1a]
+## SCHEDULE 10 — LAND IN WHICH ONLY SUBSOIL OR NEW RIGHTS IN AND ABOVE SUBSOIL AND SURFACE MAY BE ACQUIRED[^c-579cbc31d7b1859c8234a69aaa736d1a]
 
 *Extent: E+W*
 
 Articles 33, 35 and 36
 
-[^key-579cbc31d7b1859c8234a69aaa736d1a]
+[^c-579cbc31d7b1859c8234a69aaa736d1a]
 
 In this Schedule, “**the level of the surface of the land**” means—
 
@@ -31,7 +31,7 @@ In this Schedule, “**the level of the surface of the land**” means—
 - (c) in the case of the river Thames comprised in plots 15-10, 15-11, 15-12, 16-42 and 16-43, the level of Ordnance Datum Newlyn; or
 - (d) in any other case, ground surface level,
 
-[^key-579cbc31d7b1859c8234a69aaa736d1a]
+[^c-579cbc31d7b1859c8234a69aaa736d1a]
 
 at the time of this Order coming into force.
 
@@ -63,4 +63,4 @@ at the time of this Order coming into force.
 
 ## Annotations
 
-[^key-579cbc31d7b1859c8234a69aaa736d1a]: Commencement: Sch. 10 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-579cbc31d7b1859c8234a69aaa736d1a]: Commencement: Sch. 10 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

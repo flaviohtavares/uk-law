@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Land register rules[^key-9beb5c9065d6220b92be4a0b948cfa9d]
+## 115. Land register rules[^c-9beb5c9065d6220b92be4a0b948cfa9d]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9beb5c9065d6220b92be4a0b948cfa9d]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2012/5/section/115) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-9beb5c9065d6220b92be4a0b948cfa9d]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2012/5/section/115) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

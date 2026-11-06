@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 9. Jurisdiction of commissions of convocation.[^key-2ea9cce24b57f203f78975942563725a]
+## 9. Jurisdiction of commissions of convocation.[^c-2ea9cce24b57f203f78975942563725a]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ea9cce24b57f203f78975942563725a]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukcm/1963/1/section/9) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-2ea9cce24b57f203f78975942563725a]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukcm/1963/1/section/9) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

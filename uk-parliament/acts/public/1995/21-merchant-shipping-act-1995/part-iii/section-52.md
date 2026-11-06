@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Unqualified persons going to sea as qualified officers or seamen.[^key-d8c7794e8b7d7aaf7d14d3053c7e4636][^key-7ca74c4fd29727879491ad8b4b1fb6dd]
+## 52. Unqualified persons going to sea as qualified officers or seamen.[^c-d8c7794e8b7d7aaf7d14d3053c7e4636][^c-7ca74c4fd29727879491ad8b4b1fb6dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8c7794e8b7d7aaf7d14d3053c7e4636]: Modification: [S. 52](https://www.legislation.gov.uk/ukpga/1995/21/section/52) extended (in so far as not already extended) (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [4(1)(a)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/4/1/a)
+[^c-d8c7794e8b7d7aaf7d14d3053c7e4636]: Modification: [S. 52](https://www.legislation.gov.uk/ukpga/1995/21/section/52) extended (in so far as not already extended) (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [4(1)(a)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/4/1/a)
 
-[^key-7ca74c4fd29727879491ad8b4b1fb6dd]: Modification: [S. 52](https://www.legislation.gov.uk/ukpga/1995/21/section/52) modified (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [24(3)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/24/3)
+[^c-7ca74c4fd29727879491ad8b4b1fb6dd]: Modification: [S. 52](https://www.legislation.gov.uk/ukpga/1995/21/section/52) modified (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [24(3)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/24/3)

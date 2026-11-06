@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Application of the 1981 Act[^key-bf6cc0716d8343d7329d26c07b3796b3]
+## 27. Application of the 1981 Act[^c-bf6cc0716d8343d7329d26c07b3796b3]
 
 *Extent: E+W+S*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bf6cc0716d8343d7329d26c07b3796b3]: Commencement: Art. 27 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-bf6cc0716d8343d7329d26c07b3796b3]: Commencement: Art. 27 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
 [^f00042]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66). Section 5A was inserted by section 182(2) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and amended by section 185(3)(a) of the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55).
 

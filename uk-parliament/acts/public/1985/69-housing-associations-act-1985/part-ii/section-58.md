@@ -26,7 +26,7 @@ summary: ''
 
 (3) A local authority may make a loan to an unregistered self-build society for the purpose of enabling it to meet the whole or part of the expenditure incurred, or to be incurred by it, in carrying out its objects.
 
-(4) This section does not apply where the housing association is—[^key-a40f7b4ae76518945041050f5201097e]
+(4) This section does not apply where the housing association is—[^c-a40f7b4ae76518945041050f5201097e]
 
 - (a) a private registered provider of social housing, or
 - (b) a registered social landlord (for which corresponding provision is made by section 22 of the Housing Act 1996).
@@ -37,4 +37,4 @@ summary: ''
 
 [^c11837881]: Textual amendment: S. 58 substituted (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/2325/article/5/1), [Sch. 2 para. 15(22)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/15/22)
 
-[^key-a40f7b4ae76518945041050f5201097e]: Textual amendment: Words in s. 58(4) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/42) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-a40f7b4ae76518945041050f5201097e]: Textual amendment: Words in s. 58(4) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/42) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))

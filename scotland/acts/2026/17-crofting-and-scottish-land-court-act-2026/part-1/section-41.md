@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Division of crofts and owner-occupied crofts[^key-4ea5294f4f2e9738e26785ed578649ac]
+## 41. Division of crofts and owner-occupied crofts[^c-4ea5294f4f2e9738e26785ed578649ac]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ea5294f4f2e9738e26785ed578649ac]: Commencement: S. 41 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-4ea5294f4f2e9738e26785ed578649ac]: Commencement: S. 41 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

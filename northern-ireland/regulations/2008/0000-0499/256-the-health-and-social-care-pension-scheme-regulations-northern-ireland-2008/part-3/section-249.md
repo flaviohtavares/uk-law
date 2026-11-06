@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 249. Claims for benefits[^key-111d58a909aee7285c7566ca8eae5bd2]
+## 249. Claims for benefits[^c-111d58a909aee7285c7566ca8eae5bd2]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ as the Department may from time to time require for the purposes of this Part.
 
 ## Annotations
 
-[^key-111d58a909aee7285c7566ca8eae5bd2]: Textual amendment: [Reg. 249](https://www.legislation.gov.uk/nisr/2008/256/regulation/249) substituted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [77](https://www.legislation.gov.uk/nisr/2009/65/regulation/77) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
+[^c-111d58a909aee7285c7566ca8eae5bd2]: Textual amendment: [Reg. 249](https://www.legislation.gov.uk/nisr/2008/256/regulation/249) substituted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [77](https://www.legislation.gov.uk/nisr/2009/65/regulation/77) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))

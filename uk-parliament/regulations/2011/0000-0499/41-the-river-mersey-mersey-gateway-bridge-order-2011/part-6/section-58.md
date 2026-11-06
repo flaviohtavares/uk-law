@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Disapplication of certain provisions of the Manchester Ship Canal Acts and Orders[^key-92080caf1408a3100e39b53032e405b4]
+## 58. Disapplication of certain provisions of the Manchester Ship Canal Acts and Orders[^c-92080caf1408a3100e39b53032e405b4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The charges over the land, property or undertaking of the Manchester Ship Canal 
 
 ## Annotations
 
-[^key-92080caf1408a3100e39b53032e405b4]: Commencement: Art. 58 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-92080caf1408a3100e39b53032e405b4]: Commencement: Art. 58 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

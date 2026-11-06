@@ -26,10 +26,10 @@ summary: ''
 - (f) the Landscape Drawings;
 - (g) the Public Rights of Navigation Plan;
 - (h) the Traffic Regulation Plans;
-- (i) the trees and hedges to be removed or affected plans; [^key-56de9c4b376ca102561a156df42ba3cc]...
-- (j) the Works Plans;[^key-4e92381252a8604df945615357768219]...
-- (k) the other plans and drawings in Part 10 of Schedule 2; and[^key-57acf21c7a3829c5cf8e498a901aa9d7]
-- (l)[^key-5c4cf21493769e387c3fe11b019fbfe4] Special Category Land and Crown Land Plans,
+- (i) the trees and hedges to be removed or affected plans; [^c-56de9c4b376ca102561a156df42ba3cc]...
+- (j) the Works Plans;[^c-4e92381252a8604df945615357768219]...
+- (k) the other plans and drawings in Part 10 of Schedule 2; and[^c-57acf21c7a3829c5cf8e498a901aa9d7]
+- (l)[^c-5c4cf21493769e387c3fe11b019fbfe4] Special Category Land and Crown Land Plans,
 
 for certification that they are true copies of the documents referred to in this Order.
 
@@ -37,10 +37,10 @@ for certification that they are true copies of the documents referred to in this
 
 ## Annotations
 
-[^key-56de9c4b376ca102561a156df42ba3cc]: Textual amendment: Word in art. 44(1)(i) omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-56de9c4b376ca102561a156df42ba3cc]: Textual amendment: Word in art. 44(1)(i) omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-4e92381252a8604df945615357768219]: Textual amendment: Word in art. 44(1)(j) omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-4e92381252a8604df945615357768219]: Textual amendment: Word in art. 44(1)(j) omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-57acf21c7a3829c5cf8e498a901aa9d7]: Textual amendment: Word in art. 44(1)(k) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-57acf21c7a3829c5cf8e498a901aa9d7]: Textual amendment: Word in art. 44(1)(k) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-5c4cf21493769e387c3fe11b019fbfe4]: Textual amendment: Art. 44(1)(l) inserted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-5c4cf21493769e387c3fe11b019fbfe4]: Textual amendment: Art. 44(1)(l) inserted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)

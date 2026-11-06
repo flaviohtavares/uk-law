@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151B. Application to remove a disqualification[^key-f981866ff5bf983d35a7c6457aeb8f6e]
+## 151B. Application to remove a disqualification[^c-f981866ff5bf983d35a7c6457aeb8f6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f981866ff5bf983d35a7c6457aeb8f6e]: Textual amendment: [Pt. 18 Ch. 3](https://www.legislation.gov.uk/uksi/2009/2041/part/18/chapter/3) inserted (1.4.2023) by [The Armed Forces (Driving Disqualification Orders) Regulations 2023 (S.I. 2023/209)](https://www.legislation.gov.uk/uksi/2023/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/209/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2023/209/regulation/17)
+[^c-f981866ff5bf983d35a7c6457aeb8f6e]: Textual amendment: [Pt. 18 Ch. 3](https://www.legislation.gov.uk/uksi/2009/2041/part/18/chapter/3) inserted (1.4.2023) by [The Armed Forces (Driving Disqualification Orders) Regulations 2023 (S.I. 2023/209)](https://www.legislation.gov.uk/uksi/2023/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/209/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2023/209/regulation/17)

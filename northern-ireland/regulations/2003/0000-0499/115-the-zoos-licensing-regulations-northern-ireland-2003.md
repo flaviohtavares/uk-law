@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the keeping of wild animals in zoos, in exercise of the powers conferred on it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-1a81495d340d7e3d77531ac6cc5a0272]
+## 1. Citation and commencement[^c-1a81495d340d7e3d77531ac6cc5a0272]
 
 These Regulations may be cited as the Zoos Licensing Regulations (Northern Ireland) 2003 and shall come into operation on 31st March 2003.
 
-## 2. Interpretation[^key-4b0332aeab26e29254981cfe0996e208]
+## 2. Interpretation[^c-4b0332aeab26e29254981cfe0996e208]
 
 (1) In these Regulations –
 
@@ -60,7 +60,7 @@ These Regulations may be cited as the Zoos Licensing Regulations (Northern Irela
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Licensing of zoos[^key-f8cd0e4a52151202bfea398ed120262b]
+## 3. Licensing of zoos[^c-f8cd0e4a52151202bfea398ed120262b]
 
 (1) Subject to the provisions of this regulation and regulation 4, it is unlawful to operate a zoo to which these Regulations apply except under the authority of a licence issued by the Department, which is the competent authority for the purposes of Council Directive [1999/22/EC](https://www.legislation.gov.uk/european/directive/1999/0022)[^f00004] relating to the keeping of wild animals in zoos.
 
@@ -94,7 +94,7 @@ These Regulations may be cited as the Zoos Licensing Regulations (Northern Irela
 - “circus” means any place where animals are kept or introduced wholly or mainly for the purpose of performing tricks or manoeuvres at that place; and
 - “pet shop” means any premises, structure (whether moveable or not), vehicle, cart or barrow where two or more species of animals are kept primarily for the purpose of sale as pets.
 
-## 4. Dispensation for particular zoos[^key-c2892ba250cf7304789cd291860a5594]
+## 4. Dispensation for particular zoos[^c-c2892ba250cf7304789cd291860a5594]
 
 (1) If the operator of a zoo makes application to the Department that in his opinion these Regulations should not apply to the zoo on the grounds that it does not exhibit a significant number of animals or species to the public, the Department, after consulting such persons as it thinks fit, may direct that these Regulations, with the exception of this regulation, shall not apply to that zoo.
 
@@ -108,7 +108,7 @@ These Regulations may be cited as the Zoos Licensing Regulations (Northern Irela
 
 (6) The Department shall take reasonable steps to ensure that the operator of the zoo is notified in writing of any direction under paragraph (1) or (4).
 
-## 5. Application for licence[^key-7bd43950269142fcb895232d659c29d9]
+## 5. Application for licence[^c-7bd43950269142fcb895232d659c29d9]
 
 (1) Subject to regulation 25, a person intending to operate a zoo shall apply to the Department for a licence to do so.
 
@@ -125,7 +125,7 @@ These Regulations may be cited as the Zoos Licensing Regulations (Northern Irela
 
 (5) Any newspaper notice published under paragraph (2) shall identify the location of the zoo for which the application is to be made and shall state that the notice to the Department may be inspected as provided for in paragraph (4).
 
-## 6. Grant or refusal of licence[^key-23a1cd30259ea796dfe389218db67da1]
+## 6. Grant or refusal of licence[^c-23a1cd30259ea796dfe389218db67da1]
 
 (1) In considering an application for a licence the Department shall take into account any representations made by or on behalf of any of the following persons concerning the implementation of the conservation measures referred to in regulation 3(7) at the zoo:
 
@@ -160,13 +160,13 @@ has been convicted of an offence under these Regulations or under any of the ena
 
 (7) When a licence is granted the Department shall send it to the applicant by post and the licence or a copy of it shall be displayed by the holder of the licence at each public entrance to the zoo.
 
-## 7. Period of an original licence and conditions[^key-a5c37ab52da7d4b0ebe318175bd89c19]
+## 7. Period of an original licence and conditions[^c-a5c37ab52da7d4b0ebe318175bd89c19]
 
 (1) An original licence granted under these Regulations shall be granted for a period of four years beginning with the date specified in the licence as that on which it was granted or any later date specified in the licence as that on which the licence is to commence.
 
 (2) A licence under these Regulations shall be granted subject to conditions requiring the conservation measures referred to in regulation 3(7) to be implemented at the zoo, having regard to the Standards specified by the Department under regulation 10.
 
-## 8. Renewal of licence and fresh licences[^key-ac911f5771fd526d3e2b2ce686770e0b]
+## 8. Renewal of licence and fresh licences[^c-ac911f5771fd526d3e2b2ce686770e0b]
 
 (1) The Department shall give notice in writing to the holder of any licence that it has granted, not later than nine months before the end of the period of the licence, of the latest date on which application for renewal may be made under this regulation.
 
@@ -186,7 +186,7 @@ has been convicted of an offence under these Regulations or under any of the ena
 
 (6) A fresh licence granted under these Regulations to the holder of an existing licence shall be granted for a period of four years, beginning with the end of the period of the existing licence.
 
-## 9. Transfer and surrender of licence[^key-e654526f27523e90e2966a2d2813a246]
+## 9. Transfer and surrender of licence[^c-e654526f27523e90e2966a2d2813a246]
 
 (1) A licence for a zoo may, with the approval of the Department, be transferred to another person, and in that case the transferee shall become the holder of the licence from a date specified by the Department and notified by it to the transferor and transferee.
 
@@ -196,17 +196,17 @@ has been convicted of an offence under these Regulations or under any of the ena
 
 (4) The holder of a licence may at any time, with the approval of the Department, surrender it to the Department which shall thereupon cancel the licence.
 
-## 10. Department’s Standards[^key-920defa44e7f204295431351c633f788]
+## 10. Department’s Standards[^c-920defa44e7f204295431351c633f788]
 
 The Department shall from time to time specify standards of modern zoo practice, that is, standards with respect to the implementation of the conservation measures referred to in regulation 3(7).
 
-## 11. Appointment of inspectors[^key-f8b25d633f09e4ace937a617557c8b52]
+## 11. Appointment of inspectors[^c-f8b25d633f09e4ace937a617557c8b52]
 
 (1) For the purposes of carrying out inspections under these Regulations, the Department shall appoint as inspectors persons who are in its opinion competent to advise about the implementation in zoos of the conservation measures referred to in regulation 3(7).
 
 (2) The Department shall pay to persons appointed under paragraph (1) such amounts in respect of their services and expenses as may from time to time be agreed with the Department.
 
-## 12. Inspections of licensed zoos[^key-e8f5f2ea3d7f9c4ddd65654ad1054947]
+## 12. Inspections of licensed zoos[^c-e8f5f2ea3d7f9c4ddd65654ad1054947]
 
 (1) The Department shall arrange regular inspections of any zoo for which a licence granted by the Department is in force.
 
@@ -245,7 +245,7 @@ The Department shall from time to time specify standards of modern zoo practice,
 
 (12) Within one month after receiving the report of the inspection the Department shall send a copy to the holder of the licence and give him an opportunity to comment on it.
 
-## 13. Special inspections[^key-fafcb1f522ac69059eca344a2adb00ca]
+## 13. Special inspections[^c-fafcb1f522ac69059eca344a2adb00ca]
 
 (1) The Department may at any time make arrangements for a special inspection of a zoo for which a licence granted by the Department is in force if it considers it appropriate to do so having regard to any circumstances concerned with implementation of the conservation measures referred to in regulation 3(7), which in the opinion of the Department call for investigation.
 
@@ -255,7 +255,7 @@ The Department shall from time to time specify standards of modern zoo practice,
 
 (4) This regulation does not apply to zoos to which regulation 21 applies.
 
-## 14. Special inspections of closed zoos[^key-64dfc9325a431cb6f4b1a5c2b8324740]
+## 14. Special inspections of closed zoos[^c-64dfc9325a431cb6f4b1a5c2b8324740]
 
 (1) The Department may at any time make arrangements for a special inspection of a zoo, or a section of a zoo, to which regulation 21 applies –
 
@@ -269,7 +269,7 @@ The Department shall from time to time specify standards of modern zoo practice,
 
 (4) On completion of their inspection the inspector shall send his report to the Department, and except where the operator of the zoo cannot, after reasonable enquiries have been made, be found, the Department shall send a copy to the operator forthwith and give him an opportunity to comment on it.
 
-## 15. Fees and other charges[^key-2e4c21a1f80bb421b8061f231a728400]
+## 15. Fees and other charges[^c-2e4c21a1f80bb421b8061f231a728400]
 
 (1) The Department shall charge an applicant in respect of its consideration of his application for the grant, renewal, transfer or surrender of a licence, a fee of £100 and the applicant shall pay the charge when he makes his application.
 
@@ -284,7 +284,7 @@ The Department shall from time to time specify standards of modern zoo practice,
 
 (4) The Department shall, so far as is practicable, secure that the amount of all the fees and other sums charged by it under this regulation in a year is sufficient to cover the amount of expenditure incurred by the Department in the year by virtue of these Regulations.
 
-## 16. Power to amend licences[^key-86f12d0cba9df6145165790c0400b463]
+## 16. Power to amend licences[^c-86f12d0cba9df6145165790c0400b463]
 
 (1) At any time after the grant of a licence under these Regulations, the terms and conditions of the licence may be amended by the Department if, in its opinion, it is necessary or desirable to do so for the purpose of ensuring that the conservation measures referred to in regulation 3(7) are implemented at the zoo.
 
@@ -312,7 +312,7 @@ The Department shall from time to time specify standards of modern zoo practice,
 
 (8) Without prejudice to regulation 23(5) and (6), the Department shall take reasonable steps to secure that the holder of the licence is notified in writing of amendments to a licence under this regulation.
 
-## 17. Enforcement of licence conditions[^key-bd147449c704f2fbf5cd7eb9eb4309db]
+## 17. Enforcement of licence conditions[^c-bd147449c704f2fbf5cd7eb9eb4309db]
 
 (1) Paragraph (2) applies where, after giving the holder of a licence an opportunity to be heard, the Department is not satisfied that a condition attached to a licence granted by it under these Regulations is met.
 
@@ -333,7 +333,7 @@ The Department shall from time to time specify standards of modern zoo practice,
 
 (6) A direction under paragraph (2) including such a direction as varied by a direction under paragraph (4) may be revoked by a further direction of the Department.
 
-## 18. Zoo closure direction[^key-e30c6a9baf6f3857ff12ec2bc5a5857e]
+## 18. Zoo closure direction[^c-e30c6a9baf6f3857ff12ec2bc5a5857e]
 
 (1) References in these Regulations to a “zoo closure direction” are to a direction requiring a zoo to be closed to the public forthwith.
 
@@ -364,7 +364,7 @@ The Department shall from time to time specify standards of modern zoo practice,
 
 (8) A zoo closure direction made under this regulation may be revoked by a further direction of the Department made after it has first consulted such persons as it thinks fit.
 
-## 19. Zoo closure direction for zoos without licences[^key-7314906906ea2a047d1ea6e72af5893a]
+## 19. Zoo closure direction for zoos without licences[^c-7314906906ea2a047d1ea6e72af5893a]
 
 (1) This regulation applies to a zoo –
 
@@ -388,7 +388,7 @@ The Department shall from time to time specify standards of modern zoo practice,
 
 (6) A zoo closure direction made under this regulation may be revoked by a further direction of the Department made after it has first consulted such persons as it thinks fit.
 
-## 20. Application of regulation 21[^key-1d3efce64ab18c8c437c9ba2ff5cafe3]
+## 20. Application of regulation 21[^c-1d3efce64ab18c8c437c9ba2ff5cafe3]
 
 (1) Regulation 21 applies to a zoo –
 
@@ -404,7 +404,7 @@ The Department shall from time to time specify standards of modern zoo practice,
 
 (4) If a section of a zoo which was closed to the public by virtue of amendments to the zoo’s licence under regulation 16(3) reopens pursuant to further amendments to the licence, regulation 21 shall cease to apply to that section.
 
-## 21. Welfare of animals following closure of a zoo[^key-a3b45c9ab9b86547cef8f34fb63d6303]
+## 21. Welfare of animals following closure of a zoo[^c-a3b45c9ab9b86547cef8f34fb63d6303]
 
 (1) As soon as reasonably practicable after the date from which this regulation applies, the operator shall give to the Department a plan of the arrangements he proposes to make in relation to all the animals kept in the zoo –
 
@@ -476,7 +476,7 @@ the Department shall, after giving the operator an opportunity to be heard, make
 
 (21) Where this regulation applies by virtue of regulation 20(2), references in this regulation to a zoo shall be read as references to that section of the zoo which is closed to the public.
 
-## 22. Powers of entry[^key-7790a4c546b3999a77a7d40f0e48cb52]
+## 22. Powers of entry[^c-7790a4c546b3999a77a7d40f0e48cb52]
 
 (1) For the purpose of giving effect to arrangements under regulation 21, any person authorised in writing by the Department may at any reasonable time and (if required to do so) upon producing evidence that he is authorised, enter the premises of the zoo for the purposes of –
 
@@ -505,7 +505,7 @@ and may contain such restrictions as the justice of the peace thinks fit.
 
 (5) A person duly authorised for the purposes of paragraph (3) shall, if so required, produce his authority and warrant before entering the premises of the zoo or part of the premises to which the warrant relates (as the case may be).
 
-## 23. Appeals[^key-663e0b0b3ad9428a08fa23b8ff0ba27b]
+## 23. Appeals[^c-663e0b0b3ad9428a08fa23b8ff0ba27b]
 
 (1) A person aggrieved by a decision relating to –
 
@@ -519,7 +519,7 @@ and may contain such restrictions as the justice of the peace thinks fit.
 - (h) a direction under regulation 21(5) or any variation of such a direction; or
 - (i) any arrangements under regulation 21(6) or (7),
 
-may appeal to a court of summary jurisdiction[^key-d77b6ce2de9620479b6297c471515cd8]....
+may appeal to a court of summary jurisdiction[^c-d77b6ce2de9620479b6297c471515cd8]....
 
 (2) Any such appeal shall be brought within 28 days from the date on which the person wishing to appeal receives written notification of the Department’s decision.
 
@@ -555,7 +555,7 @@ may appeal to a court of summary jurisdiction[^key-d77b6ce2de9620479b6297c471515
 - (b) if an appeal is brought under this regulation within the time mentioned in paragraph (2) but is subsequently abandoned, on the day following the day on which the appeal is abandoned, or on such other day as the court directs; or
 - (c) if no appeal is brought within the time mentioned in paragraph (2), on the expiration of that time.
 
-## 24. Offences and penalties[^key-e3817891b270c69017884849a0d0465c]
+## 24. Offences and penalties[^c-e3817891b270c69017884849a0d0465c]
 
 (1) If a zoo is operated without a licence in contravention of these Regulations, the operator of the zoo is guilty of an offence.
 
@@ -588,7 +588,7 @@ he is guilty of an offence.
 
 (13) For the purposes of this regulation, section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited”.
 
-## 25. Transitional provision for existing zoos[^key-e12099781b9c4eb40ac82cbca513d973]
+## 25. Transitional provision for existing zoos[^c-e12099781b9c4eb40ac82cbca513d973]
 
 (1) A person who immediately before the date of commencement of these Regulations was operating a zoo on any premises may continue to operate the zoo on those premises without a licence under these Regulations –
 
@@ -599,7 +599,7 @@ he is guilty of an offence.
 
 (3) For an application for a licence under paragraph (1)(b) the inspection required by regulation 6 is in lieu of the first inspection under sub-paragraph (a) of paragraph (2) of regulation 12.
 
-## 26. Directions[^key-2f3ffb30b7de81ddcfa3cf6a76862465]
+## 26. Directions[^c-2f3ffb30b7de81ddcfa3cf6a76862465]
 
 (1) Where the Department makes a direction under these Regulations, it shall take reasonable steps to secure that the operator of the zoo is notified in writing of it.
 
@@ -673,21 +673,21 @@ Regulation 26 deals with the arrangements for notifying the operator of a zoo ab
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-1a81495d340d7e3d77531ac6cc5a0272]: Commencement: Reg. 1 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-1a81495d340d7e3d77531ac6cc5a0272]: Commencement: Reg. 1 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-4b0332aeab26e29254981cfe0996e208]: Commencement: Reg. 2 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-4b0332aeab26e29254981cfe0996e208]: Commencement: Reg. 2 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f8cd0e4a52151202bfea398ed120262b]: Commencement: Reg. 3 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-f8cd0e4a52151202bfea398ed120262b]: Commencement: Reg. 3 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L094, 9.4.1999, p. 24–26
 
-[^key-c2892ba250cf7304789cd291860a5594]: Commencement: Reg. 4 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-c2892ba250cf7304789cd291860a5594]: Commencement: Reg. 4 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-7bd43950269142fcb895232d659c29d9]: Commencement: Reg. 5 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-7bd43950269142fcb895232d659c29d9]: Commencement: Reg. 5 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-23a1cd30259ea796dfe389218db67da1]: Commencement: Reg. 6 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-23a1cd30259ea796dfe389218db67da1]: Commencement: Reg. 6 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
 [^f00005]: Footnote: [1972 c. 7. (N.I.)](https://www.legislation.gov.uk/apni/1972/7).
 
@@ -695,46 +695,46 @@ Regulation 26 deals with the arrangements for notifying the operator of a zoo ab
 
 [^f00007]: Footnote: [1976 c. 72](https://www.legislation.gov.uk/ukpga/1976/72).
 
-[^key-a5c37ab52da7d4b0ebe318175bd89c19]: Commencement: Reg. 7 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-a5c37ab52da7d4b0ebe318175bd89c19]: Commencement: Reg. 7 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-ac911f5771fd526d3e2b2ce686770e0b]: Commencement: Reg. 8 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-ac911f5771fd526d3e2b2ce686770e0b]: Commencement: Reg. 8 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-e654526f27523e90e2966a2d2813a246]: Commencement: Reg. 9 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-e654526f27523e90e2966a2d2813a246]: Commencement: Reg. 9 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-920defa44e7f204295431351c633f788]: Commencement: Reg. 10 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-920defa44e7f204295431351c633f788]: Commencement: Reg. 10 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-f8b25d633f09e4ace937a617557c8b52]: Commencement: Reg. 11 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-f8b25d633f09e4ace937a617557c8b52]: Commencement: Reg. 11 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-e8f5f2ea3d7f9c4ddd65654ad1054947]: Commencement: Reg. 12 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-e8f5f2ea3d7f9c4ddd65654ad1054947]: Commencement: Reg. 12 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-fafcb1f522ac69059eca344a2adb00ca]: Commencement: Reg. 13 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-fafcb1f522ac69059eca344a2adb00ca]: Commencement: Reg. 13 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-64dfc9325a431cb6f4b1a5c2b8324740]: Commencement: Reg. 14 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-64dfc9325a431cb6f4b1a5c2b8324740]: Commencement: Reg. 14 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-2e4c21a1f80bb421b8061f231a728400]: Commencement: Reg. 15 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-2e4c21a1f80bb421b8061f231a728400]: Commencement: Reg. 15 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-86f12d0cba9df6145165790c0400b463]: Commencement: Reg. 16 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-86f12d0cba9df6145165790c0400b463]: Commencement: Reg. 16 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-bd147449c704f2fbf5cd7eb9eb4309db]: Commencement: Reg. 17 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-bd147449c704f2fbf5cd7eb9eb4309db]: Commencement: Reg. 17 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-e30c6a9baf6f3857ff12ec2bc5a5857e]: Commencement: Reg. 18 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-e30c6a9baf6f3857ff12ec2bc5a5857e]: Commencement: Reg. 18 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-7314906906ea2a047d1ea6e72af5893a]: Commencement: Reg. 19 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-7314906906ea2a047d1ea6e72af5893a]: Commencement: Reg. 19 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-1d3efce64ab18c8c437c9ba2ff5cafe3]: Commencement: Reg. 20 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-1d3efce64ab18c8c437c9ba2ff5cafe3]: Commencement: Reg. 20 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-a3b45c9ab9b86547cef8f34fb63d6303]: Commencement: Reg. 21 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-a3b45c9ab9b86547cef8f34fb63d6303]: Commencement: Reg. 21 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-7790a4c546b3999a77a7d40f0e48cb52]: Commencement: Reg. 22 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-7790a4c546b3999a77a7d40f0e48cb52]: Commencement: Reg. 22 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-663e0b0b3ad9428a08fa23b8ff0ba27b]: Commencement: Reg. 23 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-663e0b0b3ad9428a08fa23b8ff0ba27b]: Commencement: Reg. 23 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-d77b6ce2de9620479b6297c471515cd8]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/nisr/2003/115/regulation/23/1) omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [22](https://www.legislation.gov.uk/nisr/2016/317/article/22); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+[^c-d77b6ce2de9620479b6297c471515cd8]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/nisr/2003/115/regulation/23/1) omitted (31.10.2016) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [22](https://www.legislation.gov.uk/nisr/2016/317/article/22); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
 
 [^f00008]: Footnote: [S.I. 1981/1675 (NI 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-e3817891b270c69017884849a0d0465c]: Commencement: Reg. 24 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-e3817891b270c69017884849a0d0465c]: Commencement: Reg. 24 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-e12099781b9c4eb40ac82cbca513d973]: Commencement: Reg. 25 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-e12099781b9c4eb40ac82cbca513d973]: Commencement: Reg. 25 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
 
-[^key-2f3ffb30b7de81ddcfa3cf6a76862465]: Commencement: Reg. 26 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)
+[^c-2f3ffb30b7de81ddcfa3cf6a76862465]: Commencement: Reg. 26 in operation at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/115/regulation/1)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31B. Advocates and litigators employed by Lord Chancellor .[^c12474021][^key-02bf4af056a96ea253468b47cb7bc5dd]
+## 31B. Advocates and litigators employed by Lord Chancellor .[^c12474021][^c-02bf4af056a96ea253468b47cb7bc5dd]
 
 *Extent: E+W*
 
 (1)[^c19965671] This section applies where a person—
 
 - (a) is authorised by a relevant approved regulator (“**the regulator**”) to carry on an activity which constitutes the exercise of a right of audience or the conduct of litigation, and
-- (b)[^key-5bba3d12e742d7f5c3f8880ddb1858e5] is employed by the Lord Chancellor, or by any body established and maintained by the Lord Chancellor, under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+- (b)[^c-5bba3d12e742d7f5c3f8880ddb1858e5] is employed by the Lord Chancellor, or by any body established and maintained by the Lord Chancellor, under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
 (1A) Any rules of the regulator which fall within subsection (2) shall not have effect in relation to that person.
 
@@ -45,11 +45,11 @@ and either of the conditions specified in subsection (3) is satisfied.
 
 [^c12474021]: Textual amendment: S. 31B inserted (31.7.2000) by [1999 c.22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 38](https://www.legislation.gov.uk/ukpga/1999/22/section/38) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)); [S.I. 2000/1920](https://www.legislation.gov.uk/uksi/2000/1920), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/1920/article/2/a)
 
-[^key-02bf4af056a96ea253468b47cb7bc5dd]: Textual amendment: Words in s. 31B heading substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 39(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/39/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-02bf4af056a96ea253468b47cb7bc5dd]: Textual amendment: Words in s. 31B heading substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 39(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/39/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
 [^c19965671]: Textual amendment: S. 31B(1)(1A) substituted (1.1.2010) for s. 31B(1) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 208](https://www.legislation.gov.uk/ukpga/2007/29/section/208), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 21 para. 85(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/85/a) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-5bba3d12e742d7f5c3f8880ddb1858e5]: Textual amendment: S. 31B(1)(b) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 39(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/39/3); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-5bba3d12e742d7f5c3f8880ddb1858e5]: Textual amendment: S. 31B(1)(b) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 39(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/39/3); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
 [^c19965711]: Textual amendment: Words in s. 31B(2) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 208](https://www.legislation.gov.uk/ukpga/2007/29/section/208), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 21 para. 85(b)(i)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/85/b/i) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 

@@ -24,7 +24,7 @@ summary: ''
 
 ### Interpretation
 
-**1.**[^key-2559a7f573d1ce186c1ed27988e3f30d] In this schedule—
+**1.**[^c-2559a7f573d1ce186c1ed27988e3f30d] In this schedule—
 
 - “ **civil sanction** ” means a fixed monetary penalty or a variable monetary penalty,
 - “ **fixed penalty notice** ” means a fixed penalty notice under section 25(1) of the Aquaculture and Fisheries (Scotland) Act 2007,
@@ -41,7 +41,7 @@ summary: ''
 
 - (a) the person may not at any time be convicted of the offence in relation to which the penalty is imposed in respect of the act or omission giving rise to the penalty,
 - (b) the Scottish Ministers may not issue a compliance notice or a remediation notice to that person in respect of the act or omission giving rise to the penalty.
-- (c)[^key-7822677421355c03e42afbfdaff076f2] a fixed penalty officer may not issue a fixed penalty notice to the person in respect of the act or omission giving rise to the fixed monetary penalty.
+- (c)[^c-7822677421355c03e42afbfdaff076f2] a fixed penalty officer may not issue a fixed penalty notice to the person in respect of the act or omission giving rise to the fixed monetary penalty.
 
 ### Variable monetary penalties: other sanctions
 
@@ -49,7 +49,7 @@ summary: ''
 
 - (a) the person may not at any time be convicted of the offence in relation to which the penalty is imposed in respect of the act or omission giving rise to the penalty,
 - (b) the Scottish Ministers may not issue a compliance notice to the person in respect of the act or omission giving rise to the penalty.
-- (c)[^key-72e0749e9cc1d87a84b293dd1a46d70d] a fixed penalty officer may not issue a fixed penalty notice to the person in respect of the act or omission giving rise to the variable monetary penalty.
+- (c)[^c-72e0749e9cc1d87a84b293dd1a46d70d] a fixed penalty officer may not issue a fixed penalty notice to the person in respect of the act or omission giving rise to the variable monetary penalty.
 
 ### Combination of sanctions
 
@@ -67,7 +67,7 @@ summary: ''
   - (i) a fixed monetary penalty has been imposed on the person in relation to the act or omission, or
   - (ii) the person has discharged liability to a fixed monetary penalty in relation to the act or omission pursuant to section 47(2)(b).
 
-### Civil sanctions and fixed penalty notices[^key-bf9674b86eb8c52ec008977a0558b005]
+### Civil sanctions and fixed penalty notices[^c-bf9674b86eb8c52ec008977a0558b005]
 
 **4A.** (1) Provision under section 46 must secure that, in a case where a fixed penalty notice is issued to a person in respect of a relevant offence, the Scottish Ministers may not—
 
@@ -202,7 +202,7 @@ summary: ''
 (2) The persons are—
 
 - (a) a Procurator Fiscal,
-- (b) a constable of the Police Service of Scotland[^key-72afd26a30e153d8ce44a6b5a74c3a8e].
+- (b) a constable of the Police Service of Scotland[^c-72afd26a30e153d8ce44a6b5a74c3a8e].
 
 (3) It is immaterial for the purposes of sub-paragraph (1) whether the information was obtained before or after the coming into force of this paragraph.
 
@@ -210,30 +210,30 @@ summary: ''
 
 (5) Nothing in this paragraph authorises the making of a disclosure in contravention of—
 
-- (a) the data protection legislation[^key-a4c60e2b96d8ee3f1493425437acd3e5] , or
-- (b)[^key-67ba9a16d20f1a15229eaf60a9a7d7d0] any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+- (a) the data protection legislation[^c-a4c60e2b96d8ee3f1493425437acd3e5] , or
+- (b)[^c-67ba9a16d20f1a15229eaf60a9a7d7d0] any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
 
 (6) This paragraph does not affect a power to disclose which exists apart from this paragraph.
 
-(7)[^key-9b1ae7bfa1a96a81f55a21a275259e3a] In this paragraph, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(7)[^c-9b1ae7bfa1a96a81f55a21a275259e3a] In this paragraph, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 ## Annotations
 
 [^M_C_35c6036b-7e76-4a0e-91bf-a5ed8a19443d]: Modification: Sch. 2 applied (9.11.2020) by [The Marine Licensing (Exempted Activities) (Scottish Inshore Region) Amendment Order 2020 (S.S.I. 2020/316)](https://www.legislation.gov.uk/ssi/2020/316), [arts. 1](https://www.legislation.gov.uk/ssi/2020/316/article/1), [14](https://www.legislation.gov.uk/ssi/2020/316/article/14)
 
-[^key-2559a7f573d1ce186c1ed27988e3f30d]: Textual amendment: Sch. 2 para. 1 substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 61(2)](https://www.legislation.gov.uk/asp/2013/7/section/61/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-2559a7f573d1ce186c1ed27988e3f30d]: Textual amendment: Sch. 2 para. 1 substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 61(2)](https://www.legislation.gov.uk/asp/2013/7/section/61/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
 [^M_I_2eef8af8-fc15-40fc-dfae-21fd38b0eefb]: Commencement: Sch. 2 para. 2 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2020/316/article/3/a)
 
-[^key-7822677421355c03e42afbfdaff076f2]: Textual amendment: [Sch. 2 para. 2(2)(c)](https://www.legislation.gov.uk/asp/2010/5/schedule/2/paragraph/2/2/c) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 61(3)](https://www.legislation.gov.uk/asp/2013/7/section/61/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-7822677421355c03e42afbfdaff076f2]: Textual amendment: [Sch. 2 para. 2(2)(c)](https://www.legislation.gov.uk/asp/2010/5/schedule/2/paragraph/2/2/c) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 61(3)](https://www.legislation.gov.uk/asp/2013/7/section/61/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
 [^M_I_be93a3ca-ead0-4b38-a8d6-683c18dab4a3]: Commencement: Sch. 2 para. 3 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
-[^key-72e0749e9cc1d87a84b293dd1a46d70d]: Textual amendment: [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/asp/2010/5/schedule/2/paragraph/3/c) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 61(4)](https://www.legislation.gov.uk/asp/2013/7/section/61/4), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-72e0749e9cc1d87a84b293dd1a46d70d]: Textual amendment: [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/asp/2010/5/schedule/2/paragraph/3/c) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 61(4)](https://www.legislation.gov.uk/asp/2013/7/section/61/4), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
 [^M_I_d0237274-4139-4515-8dff-622edd23881d]: Commencement: Sch. 2 para. 4 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
-[^key-bf9674b86eb8c52ec008977a0558b005]: Textual amendment: Sch. 2 para. 4A and cross-heading inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 61(5)](https://www.legislation.gov.uk/asp/2013/7/section/61/5), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-bf9674b86eb8c52ec008977a0558b005]: Textual amendment: Sch. 2 para. 4A and cross-heading inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 61(5)](https://www.legislation.gov.uk/asp/2013/7/section/61/5), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
 [^M_I_70ea9d40-026b-436d-d058-fd1bffdee5ae]: Commencement: Sch. 2 para. 5 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
@@ -251,10 +251,10 @@ summary: ''
 
 [^M_I_223c970c-e324-433c-ad0c-4236ce96eae5]: Commencement: Sch. 2 para. 12 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
-[^key-72afd26a30e153d8ce44a6b5a74c3a8e]: Textual amendment: Words in Sch. 2 para. 12(2)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 39](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/39); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-72afd26a30e153d8ce44a6b5a74c3a8e]: Textual amendment: Words in Sch. 2 para. 12(2)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 39](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/39); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-a4c60e2b96d8ee3f1493425437acd3e5]: Textual amendment: Words in sch. 2 para. 12(5)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 165(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/165/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-a4c60e2b96d8ee3f1493425437acd3e5]: Textual amendment: Words in sch. 2 para. 12(5)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 165(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/165/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-67ba9a16d20f1a15229eaf60a9a7d7d0]: Textual amendment: [Sch. 2 para. 12(5)(b)](https://www.legislation.gov.uk/asp/2010/5/schedule/2/paragraph/12/5/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 26](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/26) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-67ba9a16d20f1a15229eaf60a9a7d7d0]: Textual amendment: [Sch. 2 para. 12(5)(b)](https://www.legislation.gov.uk/asp/2010/5/schedule/2/paragraph/12/5/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 26](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/26) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
 
-[^key-9b1ae7bfa1a96a81f55a21a275259e3a]: Textual amendment: Sch. 2 para. 12(7) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 165(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/165/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-9b1ae7bfa1a96a81f55a21a275259e3a]: Textual amendment: Sch. 2 para. 12(7) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 165(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/165/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 145. Effect of discharge under section 137, 138 or 140[^key-bc094d4802a39dad550e80dd25abcfae]
+## 145. Effect of discharge under section 137, 138 or 140[^c-bc094d4802a39dad550e80dd25abcfae]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc094d4802a39dad550e80dd25abcfae]: Commencement: [S. 145](https://www.legislation.gov.uk/asp/2016/21/section/145) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-bc094d4802a39dad550e80dd25abcfae]: Commencement: [S. 145](https://www.legislation.gov.uk/asp/2016/21/section/145) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

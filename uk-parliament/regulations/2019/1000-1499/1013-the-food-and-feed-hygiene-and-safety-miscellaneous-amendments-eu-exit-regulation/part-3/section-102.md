@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Amendment of Council Regulation (Euratom) 2016/52 laying down maximum permitted levels of radioactive contamination of food and feed following a nuclear accident or any other case of radiological emergency, and repealing Regulation (Euratom) No. 3954/87 and Commission Regulations (Euratom) No. 944/89 and (Euratom) No. 770/90[^key-8375ef99bbd3ff6842401a88d299262b]
+## 102. Amendment of Council Regulation (Euratom) 2016/52 laying down maximum permitted levels of radioactive contamination of food and feed following a nuclear accident or any other case of radiological emergency, and repealing Regulation (Euratom) No. 3954/87 and Commission Regulations (Euratom) No. 944/89 and (Euratom) No. 770/90[^c-8375ef99bbd3ff6842401a88d299262b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8375ef99bbd3ff6842401a88d299262b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/e)
+[^c-8375ef99bbd3ff6842401a88d299262b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/e)

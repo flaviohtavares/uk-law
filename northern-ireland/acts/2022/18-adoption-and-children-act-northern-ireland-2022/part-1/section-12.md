@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Independent review of qualifying determinations of adoption agencies[^key-040dee88ba61dd55afcab7b46f280d71]
+## 12. Independent review of qualifying determinations of adoption agencies[^c-040dee88ba61dd55afcab7b46f280d71]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-040dee88ba61dd55afcab7b46f280d71]: Commencement: S. 12 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-040dee88ba61dd55afcab7b46f280d71]: Commencement: S. 12 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

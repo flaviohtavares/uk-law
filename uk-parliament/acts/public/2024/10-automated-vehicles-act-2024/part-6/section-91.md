@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Power to update type approval requirements[^key-af5acc8f23859c8beba43135a2cb4998]
+## 91. Power to update type approval requirements[^c-af5acc8f23859c8beba43135a2cb4998]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af5acc8f23859c8beba43135a2cb4998]: Commencement: S. 91 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-af5acc8f23859c8beba43135a2cb4998]: Commencement: S. 91 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

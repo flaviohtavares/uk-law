@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Time within which summary proceedings for certain offences must be commenced.[^c18157601][^key-9106ce843998bbacd11591e1ec758425]
+## 6. Time within which summary proceedings for certain offences must be commenced.[^c18157601][^c-9106ce843998bbacd11591e1ec758425]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 [^c18157601]: Modification: S. 6 applied (1.1.1996) by [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23), [s. 51](https://www.legislation.gov.uk/ukpga/1995/23/section/51)
 
-[^key-9106ce843998bbacd11591e1ec758425]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1988/53/section/6) applied (31.3.2009) by [Road Safety (Immobilisation, Removal and Disposal of Vehicles) Regulations 2009 (S.I. 2009/493)](https://www.legislation.gov.uk/uksi/2009/493), [regs. 1](https://www.legislation.gov.uk/uksi/2009/493/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2009/493/regulation/19/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/493/regulation/3))
+[^c-9106ce843998bbacd11591e1ec758425]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1988/53/section/6) applied (31.3.2009) by [Road Safety (Immobilisation, Removal and Disposal of Vehicles) Regulations 2009 (S.I. 2009/493)](https://www.legislation.gov.uk/uksi/2009/493), [regs. 1](https://www.legislation.gov.uk/uksi/2009/493/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2009/493/regulation/19/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/493/regulation/3))
 
 [^c18157611]: Textual amendment: Words in s. 6(5) substituted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 4 para. 71(2)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/71/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Automatic enrolment[^key-e2ada3c7d70e671f9a7850bd9bb36627]
+## 19. Automatic enrolment[^c-e2ada3c7d70e671f9a7850bd9bb36627]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2ada3c7d70e671f9a7850bd9bb36627]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2014/290/regulation/19) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e2ada3c7d70e671f9a7850bd9bb36627]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2014/290/regulation/19) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

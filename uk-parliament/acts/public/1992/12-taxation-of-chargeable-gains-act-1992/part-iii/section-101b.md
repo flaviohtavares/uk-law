@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101B. Transfer of company’s assets to venture capital trust.[^key-71b7283be4cf9400c10deb7a84736406]
+## 101B. Transfer of company’s assets to venture capital trust.[^c-71b7283be4cf9400c10deb7a84736406]
 
 *Extent: E+W+S+N.I.*
 
 (1) Where section 139 has applied on the transfer of a company’s business (in whole or in part) to a company which at the time of the transfer was not a venture capital trust, then if—
 
-- (a) at any time after the transfer the company becomes a venture capital trust by virtue of an approval for the purposes of Part 6 of ITA 2007[^key-5fb60119fe2f1032fe1b1692a5d49965]; and
+- (a) at any time after the transfer the company becomes a venture capital trust by virtue of an approval for the purposes of Part 6 of ITA 2007[^c-5fb60119fe2f1032fe1b1692a5d49965]; and
 - (b) at the time as from which the approval has effect the company still owns any of the assets of the business transferred,
 
 the company shall be treated for all the purposes of this Act as if immediately after the transfer it had sold, and immediately reacquired, the assets referred to in paragraph (b) above at their market value at that time.
@@ -37,6 +37,6 @@ the company shall be treated for all the purposes of this Act as if immediately 
 
 ## Annotations
 
-[^key-71b7283be4cf9400c10deb7a84736406]: Textual amendment: S. 101B inserted (with application in accordance with s. 134(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 134(2)](https://www.legislation.gov.uk/ukpga/1998/36/section/134/2)
+[^c-71b7283be4cf9400c10deb7a84736406]: Textual amendment: S. 101B inserted (with application in accordance with s. 134(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 134(2)](https://www.legislation.gov.uk/ukpga/1998/36/section/134/2)
 
-[^key-5fb60119fe2f1032fe1b1692a5d49965]: Textual amendment: Words in s. 101B(1)(a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 304](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/304) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-5fb60119fe2f1032fe1b1692a5d49965]: Textual amendment: Words in s. 101B(1)(a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 304](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/304) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

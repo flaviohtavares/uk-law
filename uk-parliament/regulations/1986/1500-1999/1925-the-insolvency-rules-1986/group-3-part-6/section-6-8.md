@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.8. Identification of debt[^key-5cdf44d6169d9dfd8a7e721f102693ee]
+## 6.8. Identification of debt[^c-5cdf44d6169d9dfd8a7e721f102693ee]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
   - (i) any charge by way of interest not previously notified to the debtor as a liability of his, or
   - (ii) any other charge accruing from time to time,
 
-  the amount or rate of the charge (separately identified) and the grounds on which it is claimed to form part of the debt , provided that such amount or rate must, in the case of a petition based on a statutory demand, be limited to that claimed in that demand[^key-ee1c43846a81b9af0c6663cf37bb2131];
+  the amount or rate of the charge (separately identified) and the grounds on which it is claimed to form part of the debt , provided that such amount or rate must, in the case of a petition based on a statutory demand, be limited to that claimed in that demand[^c-ee1c43846a81b9af0c6663cf37bb2131];
 - (d) either—
   - (i) that the debt is for a liquidated sum payable immediately, and the debtor appears to be unable to pay it, or
   - (ii) that the debt is for a liquidated sum payable at some certain, future time (that time to be specified), and the debtor appears to have no reasonable prospect of being able to pay it,
@@ -46,6 +46,6 @@ and, in either case (subject to section 269) that the debt is unsecured.
 
 ## Annotations
 
-[^key-5cdf44d6169d9dfd8a7e721f102693ee]: Commencement: [Rule 6.8](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.8) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5cdf44d6169d9dfd8a7e721f102693ee]: Commencement: [Rule 6.8](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.8) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-ee1c43846a81b9af0c6663cf37bb2131]: Textual amendment: Words in [rule 6.8(1)(c)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.8/1/c) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 91](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/91)
+[^c-ee1c43846a81b9af0c6663cf37bb2131]: Textual amendment: Words in [rule 6.8(1)(c)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.8/1/c) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 91](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/91)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Aeroplane operating conditions and performance requirements[^key-91981120edc71a6289d20545095cdc49]
+## 101. Aeroplane operating conditions and performance requirements[^c-91981120edc71a6289d20545095cdc49]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ to reach a place at which, from a height sufficient to enable it to do so, it ca
 
 ## Annotations
 
-[^key-91981120edc71a6289d20545095cdc49]: Commencement: [Art. 101](https://www.legislation.gov.uk/uksi/2013/2870/article/101) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-91981120edc71a6289d20545095cdc49]: Commencement: [Art. 101](https://www.legislation.gov.uk/uksi/2013/2870/article/101) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

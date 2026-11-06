@@ -52,7 +52,7 @@ Article 37 of the Convention provides that the Convention shall enter into force
 
 Instruments of ratification were exchanged on behalf of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland on 3rd July 2007. The Convention and the amendments to the Convention therefore enter into force on 1st October 2007.
 
-In order to give effect to the Convention and the amendments to the Convention, therefore, Her Majesty, in exercise of the powers conferred on Her by section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order as follows:[^key-fe494b1ee2dbc1fe00b7756c120442e7][^key-0f40b4724555e26d703303e5c8ac12d3]
+In order to give effect to the Convention and the amendments to the Convention, therefore, Her Majesty, in exercise of the powers conferred on Her by section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order as follows:[^c-fe494b1ee2dbc1fe00b7756c120442e7][^c-0f40b4724555e26d703303e5c8ac12d3]
 
 ## 1. Citation and commencement
 
@@ -745,9 +745,9 @@ The Order does not impose any costs on business, charities or the voluntary sect
 
 [^c1883219]: Marginal citation: See Cm 6633.
 
-[^key-fe494b1ee2dbc1fe00b7756c120442e7]: Modification: [Order](https://www.legislation.gov.uk/uksi/2007/2122) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-fe494b1ee2dbc1fe00b7756c120442e7]: Modification: [Order](https://www.legislation.gov.uk/uksi/2007/2122) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
-[^key-0f40b4724555e26d703303e5c8ac12d3]: Modification: [Order](https://www.legislation.gov.uk/uksi/2007/2122) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
+[^c-0f40b4724555e26d703303e5c8ac12d3]: Modification: [Order](https://www.legislation.gov.uk/uksi/2007/2122) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
 
 [^c1883220]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 

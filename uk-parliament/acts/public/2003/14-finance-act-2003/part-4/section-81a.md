@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81A. Return or further return in consequence of later linked transaction[^key-97dea0a11ee41e2b059dfb5c89c2aa50]
+## 81A. Return or further return in consequence of later linked transaction[^c-97dea0a11ee41e2b059dfb5c89c2aa50]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-dc1187c4026c7897dc923cd228bb7b94] Where the effect of a transaction (“the later transaction”) that is linked to an earlier transaction is that the earlier transaction becomes notifiable, the purchaser under the earlier transaction must deliver a return in respect of that transaction before the end of the period of 14 days after the effective date of the later transaction.
+(1)[^c-dc1187c4026c7897dc923cd228bb7b94] Where the effect of a transaction (“the later transaction”) that is linked to an earlier transaction is that the earlier transaction becomes notifiable, the purchaser under the earlier transaction must deliver a return in respect of that transaction before the end of the period of 14 days after the effective date of the later transaction.
 
 (1A) Where the effect of a transaction (“the later transaction”) that is linked to an earlier transaction is that—
 
@@ -45,6 +45,6 @@ the purchaser under the earlier transaction must deliver a further return in res
 
 ## Annotations
 
-[^key-97dea0a11ee41e2b059dfb5c89c2aa50]: Textual amendment: S. 81A inserted (with effect in accordance with Sch. 39 para. 26 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 19(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/19/1) (which amending provision re-enacts, subject to certain changes, a corresponding amendment made by the now revoked [Stamp Duty and Stamp Duty Land Tax (Variation of the Finance Act 2003) (No. 2) Regulations 2003 (S.I. 2003/2816)](https://www.legislation.gov.uk/uksi/2003/2816), see Sch. 39 para. 14)
+[^c-97dea0a11ee41e2b059dfb5c89c2aa50]: Textual amendment: S. 81A inserted (with effect in accordance with Sch. 39 para. 26 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 19(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/19/1) (which amending provision re-enacts, subject to certain changes, a corresponding amendment made by the now revoked [Stamp Duty and Stamp Duty Land Tax (Variation of the Finance Act 2003) (No. 2) Regulations 2003 (S.I. 2003/2816)](https://www.legislation.gov.uk/uksi/2003/2816), see Sch. 39 para. 14)
 
-[^key-dc1187c4026c7897dc923cd228bb7b94]: Textual amendment: Ss. 81A(1)-(1C) substituted for s. 81A(1) (with effect in accordance with s. 46(10) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 46(5)](https://www.legislation.gov.uk/ukpga/2019/1/section/46/5)
+[^c-dc1187c4026c7897dc923cd228bb7b94]: Textual amendment: Ss. 81A(1)-(1C) substituted for s. 81A(1) (with effect in accordance with s. 46(10) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 46(5)](https://www.legislation.gov.uk/ukpga/2019/1/section/46/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Initial determination of a local authority’s schools budget[^key-ee5fd99cab47a444e2541be8af94f6b3]
+## 6. Initial determination of a local authority’s schools budget[^c-ee5fd99cab47a444e2541be8af94f6b3]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A local authority must, not later than 28th February 2026—
 
 ## Annotations
 
-[^key-ee5fd99cab47a444e2541be8af94f6b3]: Commencement: Reg. 6 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-ee5fd99cab47a444e2541be8af94f6b3]: Commencement: Reg. 6 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

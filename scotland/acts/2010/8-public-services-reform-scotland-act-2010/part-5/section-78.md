@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Regulations: care services[^key-e288d9e623597466069b68d6771b0805][^key-043e260e5ba3e78e76c702a1168ec0e6]
+## 78. Regulations: care services[^c-e288d9e623597466069b68d6771b0805][^c-043e260e5ba3e78e76c702a1168ec0e6]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e288d9e623597466069b68d6771b0805]: Commencement: S. 78 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-e288d9e623597466069b68d6771b0805]: Commencement: S. 78 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-043e260e5ba3e78e76c702a1168ec0e6]: Commencement: S. 78 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-043e260e5ba3e78e76c702a1168ec0e6]: Commencement: S. 78 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

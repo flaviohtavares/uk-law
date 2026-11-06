@@ -25,7 +25,7 @@ summary: ''
 - (a) is a foreign goods vehicle, or
 - (b) is a foreign public service vehicle,
 
-which has been brought into Northern Ireland and is being used, or which has been brought into Northern Ireland for the purposes of being used, in such circumstances as, by virtue of regulations for the time being in force under section 45 of the Transport Act (Northern Ireland) 1967 [^m00009] or section 57 of the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010,[^key-ca6ce81799807901695526bd898a5f4f] , to require a document of a description specified in the regulations to be carried on it.
+which has been brought into Northern Ireland and is being used, or which has been brought into Northern Ireland for the purposes of being used, in such circumstances as, by virtue of regulations for the time being in force under section 45 of the Transport Act (Northern Ireland) 1967 [^m00009] or section 57 of the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010,[^c-ca6ce81799807901695526bd898a5f4f] , to require a document of a description specified in the regulations to be carried on it.
 
 (2) In the circumstances mentioned in paragraph (1) an authorised officer, on production, if so required, of his authority—
 
@@ -40,4 +40,4 @@ and, if the driver refuses or fails to comply with any such requirement (includi
 
 [^m00009]: Marginal citation: 1967 c.37
 
-[^key-ca6ce81799807901695526bd898a5f4f]: Textual amendment: Words in [art. 87(1)](https://www.legislation.gov.uk/nisi/1981/154/article/87/1) inserted (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2010/2/schedule/3/paragraph/10); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-ca6ce81799807901695526bd898a5f4f]: Textual amendment: Words in [art. 87(1)](https://www.legislation.gov.uk/nisi/1981/154/article/87/1) inserted (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2010/2/schedule/3/paragraph/10); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

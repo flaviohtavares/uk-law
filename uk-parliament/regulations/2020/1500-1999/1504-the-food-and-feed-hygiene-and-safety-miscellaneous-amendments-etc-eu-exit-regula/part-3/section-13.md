@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Amendment of the Food and Feed Imports (Amendment) (EU Exit) Regulations 2019[^key-90c54761146881aee134430264571f01]
+## 13. Amendment of the Food and Feed Imports (Amendment) (EU Exit) Regulations 2019[^c-90c54761146881aee134430264571f01]
 
 *Extent: E+W+S*
 
@@ -115,6 +115,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90c54761146881aee134430264571f01]: Commencement: Reg. 13 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-90c54761146881aee134430264571f01]: Commencement: Reg. 13 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375501]: Marginal citation: [S.I. 2019/664](https://www.legislation.gov.uk/uksi/2019/664).

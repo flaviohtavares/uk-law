@@ -37,11 +37,11 @@ An Act to make provisions for fisheries for lobsters and other crustaceans.
 
 ## 1. Power to make orders as to fisheries for lobsters and other crustaceans.
 
-(1 (Extent: E+W) (affected by repeal, see note))[^key-1d7ab547ade2af3ff6890e858df28c34] Section 1(1) of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-1d7ab547ade2af3ff6890e858df28c34] [^c863406]Sea Fisheries (Shellfish) Act 1967 (which enables the Secretary of State to make orders as to fisheries for shellfish) is amended as follows. *(Extent: E+W)* *(affected by repeal, see note)*[^key-1d7ab547ade2af3ff6890e858df28c34]
+(1 (Extent: E+W) (affected by repeal, see note))[^c-1d7ab547ade2af3ff6890e858df28c34] Section 1(1) of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-1d7ab547ade2af3ff6890e858df28c34] [^c863406]Sea Fisheries (Shellfish) Act 1967 (which enables the Secretary of State to make orders as to fisheries for shellfish) is amended as follows. *(Extent: E+W)* *(affected by repeal, see note)*[^c-1d7ab547ade2af3ff6890e858df28c34]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-1d7ab547ade2af3ff6890e858df28c34] After “clams” there is inserted *(Extent: E+W)* *(affected by repeal, see note)*[^key-1d7ab547ade2af3ff6890e858df28c34] “ , lobsters ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-1d7ab547ade2af3ff6890e858df28c34]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-1d7ab547ade2af3ff6890e858df28c34]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-1d7ab547ade2af3ff6890e858df28c34] After “clams” there is inserted *(Extent: E+W)* *(affected by repeal, see note)*[^c-1d7ab547ade2af3ff6890e858df28c34] “ , lobsters ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-1d7ab547ade2af3ff6890e858df28c34]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-1d7ab547ade2af3ff6890e858df28c34]
 
-(3 (Extent: E+W) (affected by repeal, see note))[^key-1d7ab547ade2af3ff6890e858df28c34] After “molluscs” there is inserted *(Extent: E+W)* *(affected by repeal, see note)*[^key-1d7ab547ade2af3ff6890e858df28c34] “ or crustaceans ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-1d7ab547ade2af3ff6890e858df28c34]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-1d7ab547ade2af3ff6890e858df28c34]
+(3 (Extent: E+W) (affected by repeal, see note))[^c-1d7ab547ade2af3ff6890e858df28c34] After “molluscs” there is inserted *(Extent: E+W)* *(affected by repeal, see note)*[^c-1d7ab547ade2af3ff6890e858df28c34] “ or crustaceans ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-1d7ab547ade2af3ff6890e858df28c34]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-1d7ab547ade2af3ff6890e858df28c34]
 
 ## 2. Short title and extent.
 
@@ -53,6 +53,6 @@ An Act to make provisions for fisheries for lobsters and other crustaceans.
 
 [^c863405]: Commencement: Act wholly in force at Royal Assent
 
-[^key-1d7ab547ade2af3ff6890e858df28c34]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1997/3/section/1) repealed (E.W.) (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(A)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/A); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
+[^c-1d7ab547ade2af3ff6890e858df28c34]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1997/3/section/1) repealed (E.W.) (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(A)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/A); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
 
 [^c863406]: Marginal citation: [1967 c. 83](https://www.legislation.gov.uk/ukpga/1967/83).

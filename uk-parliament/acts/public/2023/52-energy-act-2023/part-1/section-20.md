@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Appeal to the CMA[^key-6997302913df4f507f0008f1c51d34f2]
+## 20. Appeal to the CMA[^c-6997302913df4f507f0008f1c51d34f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6997302913df4f507f0008f1c51d34f2]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/52/section/20) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-6997302913df4f507f0008f1c51d34f2]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/52/section/20) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

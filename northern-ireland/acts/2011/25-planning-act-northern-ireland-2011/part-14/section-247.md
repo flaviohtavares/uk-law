@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 247. Regulations and orders[^key-cb97396d99d371c12ac6788d7064bd5c][^key-9076e4034b2d096ac356a91e879e2466]
+## 247. Regulations and orders[^c-cb97396d99d371c12ac6788d7064bd5c][^c-9076e4034b2d096ac356a91e879e2466]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb97396d99d371c12ac6788d7064bd5c]: Modification: [S. 247](https://www.legislation.gov.uk/nia/2011/25/section/247): transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-cb97396d99d371c12ac6788d7064bd5c]: Modification: [S. 247](https://www.legislation.gov.uk/nia/2011/25/section/247): transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-9076e4034b2d096ac356a91e879e2466]: Modification: [S. 247](https://www.legislation.gov.uk/nia/2011/25/section/247): transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-9076e4034b2d096ac356a91e879e2466]: Modification: [S. 247](https://www.legislation.gov.uk/nia/2011/25/section/247): transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

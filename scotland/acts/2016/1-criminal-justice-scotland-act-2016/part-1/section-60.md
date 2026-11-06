@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Further provision about application of Part[^key-cfb074bb05802cf1e123210f27a631ab]
+## 60. Further provision about application of Part[^c-cfb074bb05802cf1e123210f27a631ab]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfb074bb05802cf1e123210f27a631ab]: Commencement: S. 60 in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-cfb074bb05802cf1e123210f27a631ab]: Commencement: S. 60 in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

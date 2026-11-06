@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Circular economy strategy
 
-### 1. Circular economy strategy[^key-00f6ca84cb8f5e2a08e46daa464a1323][^key-fac3aab8421322d17e9e3e714c906966]
+### 1. Circular economy strategy[^c-00f6ca84cb8f5e2a08e46daa464a1323][^c-fac3aab8421322d17e9e3e714c906966]
 
 (1) The Scottish Ministers must prepare a circular economy strategy.
 
@@ -99,7 +99,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (15) In subsection (14), making policies includes developing, adopting and revising policies.
 
-### 2. Consultation on strategy[^key-5286d6298b90a82e448df0dbc655474c][^key-06acd919b51fa07a2410a2de2a6362fc]
+### 2. Consultation on strategy[^c-5286d6298b90a82e448df0dbc655474c][^c-06acd919b51fa07a2410a2de2a6362fc]
 
 In preparing the circular economy strategy, the Scottish Ministers must publish a draft strategy and consult—
 
@@ -107,7 +107,7 @@ In preparing the circular economy strategy, the Scottish Ministers must publish 
 - (b) such other persons as they consider appropriate, and
 - (c) the general public.
 
-### 3. Publication and laying of strategy[^key-e3c927626db286a8e02c583a9c370ae2][^key-44b15a88c43e92adf0254ed79f5f964f]
+### 3. Publication and laying of strategy[^c-e3c927626db286a8e02c583a9c370ae2][^c-44b15a88c43e92adf0254ed79f5f964f]
 
 (1) The Scottish Ministers must—
 
@@ -123,7 +123,7 @@ In preparing the circular economy strategy, the Scottish Ministers must publish 
   - (ii) the ways in which, in preparing the circular economy strategy, the Scottish Ministers have taken account of views expressed in the course of that process, and
 - (b) lay a copy of the report before the Scottish Parliament.
 
-### 4. Review of strategy[^key-e5a83868ffcd0aefb21d8b6bf05ab13f][^key-023a3573431f71d6d08033b7ead243aa]
+### 4. Review of strategy[^c-e5a83868ffcd0aefb21d8b6bf05ab13f][^c-023a3573431f71d6d08033b7ead243aa]
 
 (1) The Scottish Ministers—
 
@@ -134,7 +134,7 @@ In preparing the circular economy strategy, the Scottish Ministers must publish 
 
 (3) Sections 1(2) to (13), 2 and 3(1) and (3) apply in relation to revising the circular economy strategy as they apply in relation to preparing the first circular economy strategy.
 
-### 5. Reporting on strategy[^key-ec8888a84415f700dcf8c4fcd2aa6432][^key-f02e07faed91105d358dd6a554b04f92]
+### 5. Reporting on strategy[^c-ec8888a84415f700dcf8c4fcd2aa6432][^c-f02e07faed91105d358dd6a554b04f92]
 
 (1) The Scottish Ministers must, as soon as practicable after the end of each reporting period, prepare a report setting out—
 
@@ -151,7 +151,7 @@ In preparing the circular economy strategy, the Scottish Ministers must publish 
 
 ## Circular economy targets
 
-### 6. Circular economy targets[^key-91e6de33c54dc462697f93f0b849ed23][^key-735e7d90084ac201b9a53388076ff10d]
+### 6. Circular economy targets[^c-91e6de33c54dc462697f93f0b849ed23][^c-735e7d90084ac201b9a53388076ff10d]
 
 (1) The Scottish Ministers must by regulations make provision imposing targets on the Scottish Ministers relating to developing a circular economy.
 
@@ -190,7 +190,7 @@ In preparing the circular economy strategy, the Scottish Ministers must publish 
 - (a) make different provision for different purposes or areas,
 - (b) make incidental, supplementary, consequential, transitional, transitory or saving provision.
 
-### 7. Circular economy targets: monitoring and reporting[^key-e79f34f0cbe626bff50723a4e0c843bc][^key-a7438d3cfb2d6b2b8d81828890c09bf5]
+### 7. Circular economy targets: monitoring and reporting[^c-e79f34f0cbe626bff50723a4e0c843bc][^c-a7438d3cfb2d6b2b8d81828890c09bf5]
 
 (1) Regulations under section 6(1) must set out arrangements for—
 
@@ -207,7 +207,7 @@ In preparing the circular economy strategy, the Scottish Ministers must publish 
 - (a) the report is published in such manner as the Scottish Ministers consider appropriate, and
 - (b) a copy of the report is laid before the Scottish Parliament.
 
-### 8. Circular economy targets: pre-laying procedure for first regulations[^key-5fc869ad0f15f82e2d76e13f0106b2f3][^key-43c8690a23b271a14b1e27782998a678]
+### 8. Circular economy targets: pre-laying procedure for first regulations[^c-5fc869ad0f15f82e2d76e13f0106b2f3][^c-43c8690a23b271a14b1e27782998a678]
 
 (1) This section applies where the Scottish Ministers propose to lay before the Scottish Parliament a draft of a statutory instrument containing the first regulations under section 6(1).
 
@@ -239,7 +239,7 @@ before the expiry of the representation period.
 
 ## Restrictions on the disposal of unsold consumer goods
 
-### 9. Restrictions on the disposal of unsold consumer goods[^key-f637e0a3a17f5ff2d87984132a323483][^key-42bf2c350186ab846dd40b48827f8c2a]
+### 9. Restrictions on the disposal of unsold consumer goods[^c-f637e0a3a17f5ff2d87984132a323483][^c-42bf2c350186ab846dd40b48827f8c2a]
 
 (1) The Climate Change (Scotland) Act 2009 is modified as follows.
 
@@ -294,7 +294,7 @@ before the expiry of the representation period.
 
 ## Charges for single-use items
 
-### 10. Power to require imposition of charges for single-use items[^key-3a89879a5323b55b22be136261ba9301][^key-18fef6b1e2f5215de17f34ce29f02230]
+### 10. Power to require imposition of charges for single-use items[^c-3a89879a5323b55b22be136261ba9301][^c-18fef6b1e2f5215de17f34ce29f02230]
 
 (1) The Climate Change (Scotland) Act 2009 is modified as follows.
 
@@ -367,7 +367,7 @@ before the expiry of the representation period.
 
 ## Fly-tipping offences and removal of waste
 
-### 11. Fixed penalty notices for fly-tipping offences[^key-72504148311d307f87ee597bce50d32d][^key-821ec1c46b4de5face1c918a9a1bfa88]
+### 11. Fixed penalty notices for fly-tipping offences[^c-72504148311d307f87ee597bce50d32d][^c-821ec1c46b4de5face1c918a9a1bfa88]
 
 (1) The Environmental Protection Act 1990 is modified as follows.
 
@@ -381,7 +381,7 @@ before the expiry of the representation period.
 
   .
 
-### 12. Removal of unlawfully deposited waste[^key-91e75ecaf5f3afbb00cbbfc71d0f7779][^key-d72b27a7ba5cc99f7764b66564c102b8]
+### 12. Removal of unlawfully deposited waste[^c-91e75ecaf5f3afbb00cbbfc71d0f7779][^c-d72b27a7ba5cc99f7764b66564c102b8]
 
 (1) In section 59 of the Environmental Protection Act 1990—
 
@@ -420,7 +420,7 @@ before the expiry of the representation period.
 
 ## Information on fly-tipping offences
 
-### 13. Information on fly-tipping offences[^key-8bd891a41d458bf8877c5e4b81b5f2f6][^key-070cac9a7a0faaca65a1055ef60f0be5]
+### 13. Information on fly-tipping offences[^c-8bd891a41d458bf8877c5e4b81b5f2f6][^c-070cac9a7a0faaca65a1055ef60f0be5]
 
 (1) The Environmental Protection Act 1990 is modified as follows.
 
@@ -461,7 +461,7 @@ before the expiry of the representation period.
 
 ## Household waste
 
-### 14. Householder’s duty of care[^key-e08613bb44d1ad22ae70f2e9deb8eb9c][^key-68e66112d4c28d7f1d6c7c43fdbfa9f0]
+### 14. Householder’s duty of care[^c-e08613bb44d1ad22ae70f2e9deb8eb9c][^c-68e66112d4c28d7f1d6c7c43fdbfa9f0]
 
 (1) The Environmental Protection Act 1990 is modified as follows.
 
@@ -557,7 +557,7 @@ before the expiry of the representation period.
 
 .
 
-### 15. Household waste requirements[^key-62fac764ced1b8ac38e8cbd49bb5735a][^key-2bd276d57c6d688ed8c592bc40535957]
+### 15. Household waste requirements[^c-62fac764ced1b8ac38e8cbd49bb5735a][^c-2bd276d57c6d688ed8c592bc40535957]
 
 (1) The Environmental Protection Act 1990 is modified as follows.
 
@@ -724,7 +724,7 @@ before the expiry of the representation period.
 
 .
 
-### 16. Code of practice on household waste recycling[^key-483bd4effeeb307af6463d19ac304606]
+### 16. Code of practice on household waste recycling[^c-483bd4effeeb307af6463d19ac304606]
 
 **Not yet in force.**
 
@@ -785,7 +785,7 @@ before the expiry of the representation period.
   ,
 - (d) in paragraph (b), for “those” substitute “the authority’s waste management”.
 
-### 17. Targets for local authorities relating to household waste recycling[^key-0e0e21c7d3865c924e29414731600ec8]
+### 17. Targets for local authorities relating to household waste recycling[^c-0e0e21c7d3865c924e29414731600ec8]
 
 **Not yet in force.**
 
@@ -836,7 +836,7 @@ before the expiry of the representation period.
 
 ## Littering from vehicles: civil penalties
 
-### 18. Littering from a vehicle[^key-bc10d1c6ea5dfb4fe1809550083362b5][^key-5c1fa238ce2cf502dcbc5981850fe76f]
+### 18. Littering from a vehicle[^c-bc10d1c6ea5dfb4fe1809550083362b5][^c-5c1fa238ce2cf502dcbc5981850fe76f]
 
 (1) The Environmental Protection Act 1990 is modified as follows.
 
@@ -908,7 +908,7 @@ before the expiry of the representation period.
 
 ## Enforcement powers in respect of certain environmental offences
 
-### 19. Powers to search and seize vehicles, etc.[^key-c429b3b8891ea84e7e7775cb1105bae7][^key-e7aaa4bfb1f6c1966b97534b859b19ab]
+### 19. Powers to search and seize vehicles, etc.[^c-c429b3b8891ea84e7e7775cb1105bae7][^c-e7aaa4bfb1f6c1966b97534b859b19ab]
 
 (1) The Environment Act 1995 is modified as follows.
 
@@ -1005,11 +1005,11 @@ before the expiry of the representation period.
 
 .
 
-### 20. Offences in respect of which powers may be exercised[^key-ecb58418d9f15373e76f24929e605d84]
+### 20. Offences in respect of which powers may be exercised[^c-ecb58418d9f15373e76f24929e605d84]
 
 **Not yet in force.**
 
-(1)[^key-faa3964b4afd56e41a45e318ceb59a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-faa3964b4afd56e41a45e318ceb59a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the Environmental Protection Act 1990—
 
@@ -1024,11 +1024,11 @@ before the expiry of the representation period.
 
   .
 
-(3)[^key-b91c3bf0ccace10b7c1be60f58dc4402] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b91c3bf0ccace10b7c1be60f58dc4402] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Offences relating to the use etc. of injurious articles or substances: fixed penalty notices
 
-### 21. Offences relating to the use etc. of injurious articles or substances: fixed penalty notices[^key-766963336308c53bcf82bc8df53f165c][^key-1e96aae9f63b0ffad5332533480125a1]
+### 21. Offences relating to the use etc. of injurious articles or substances: fixed penalty notices[^c-766963336308c53bcf82bc8df53f165c][^c-1e96aae9f63b0ffad5332533480125a1]
 
 (1) The Environmental Protection Act 1990 is modified as follows.
 
@@ -1057,7 +1057,7 @@ before the expiry of the representation period.
 
 ## Reporting on waste, surpluses, etc.
 
-### 22. Duty to make information publicly available[^key-bb34e5746810fadddc51456f406c58af][^key-80ba2b7166af2300ec7ef7a938302e23]
+### 22. Duty to make information publicly available[^c-bb34e5746810fadddc51456f406c58af][^c-80ba2b7166af2300ec7ef7a938302e23]
 
 (1) The Regulatory Reform (Scotland) Act 2014 is modified as follows.
 
@@ -1069,7 +1069,7 @@ before the expiry of the representation period.
 
 ## Waste reprocessing infrastructure report
 
-### 23. Waste reprocessing infrastructure report[^key-b67a446005d5eb9d4db63e246d39012e][^key-ac7b946ac13ed58521f2606732749a6d]
+### 23. Waste reprocessing infrastructure report[^c-b67a446005d5eb9d4db63e246d39012e][^c-ac7b946ac13ed58521f2606732749a6d]
 
 (1) The Scottish Ministers must prepare and publish a waste reprocessing infrastructure report.
 
@@ -1089,13 +1089,13 @@ before the expiry of the representation period.
 
 ## Zero Waste Scotland: application of public bodies legislation
 
-### 24. Zero Waste Scotland: application of public bodies legislation[^key-96f8a8aec7720d232cd2c2d6c7a2e82c][^key-7cb6a7fde3177b7a56d861c43555f51c]
+### 24. Zero Waste Scotland: application of public bodies legislation[^c-96f8a8aec7720d232cd2c2d6c7a2e82c][^c-7cb6a7fde3177b7a56d861c43555f51c]
 
 The schedule modifies other Acts so that their provisions apply to Zero Waste Scotland.
 
 ## Deposit and return schemes
 
-### 25. Deposit and return schemes: power to direct scheme administrator[^key-60a0169ec4c28c5ccb6ebb933c44355f][^key-24cc0ec30ee8521d44c54990a9972684]
+### 25. Deposit and return schemes: power to direct scheme administrator[^c-60a0169ec4c28c5ccb6ebb933c44355f][^c-24cc0ec30ee8521d44c54990a9972684]
 
 (1) The Climate Change (Scotland) Act 2009 is modified as follows.
 
@@ -1107,7 +1107,7 @@ The schedule modifies other Acts so that their provisions apply to Zero Waste Sc
 
 ## Final provisions
 
-### 26. Ancillary provision[^key-0873b44ecb606145fea6cc3a635d40de]
+### 26. Ancillary provision[^c-0873b44ecb606145fea6cc3a635d40de]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
 
@@ -1121,7 +1121,7 @@ The schedule modifies other Acts so that their provisions apply to Zero Waste Sc
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act, but
 - (b) otherwise are subject to the negative procedure.
 
-### 27. Commencement[^key-6e628af4f5bc01243eb654f5a30e1781]
+### 27. Commencement[^c-6e628af4f5bc01243eb654f5a30e1781]
 
 (1) The following provisions come into force on the day after Royal Assent: this section and sections 26 and 28.
 
@@ -1132,7 +1132,7 @@ The schedule modifies other Acts so that their provisions apply to Zero Waste Sc
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 28. Short title[^key-099e9bf3c2831295e427515caf3874de]
+### 28. Short title[^c-099e9bf3c2831295e427515caf3874de]
 
 The short title of this Act is the Circular Economy (Scotland) Act 2024.
 
@@ -1140,7 +1140,7 @@ The short title of this Act is the Circular Economy (Scotland) Act 2024.
 
 (introduced by section 24)
 
-### 1. Ethical Standards in Public Life etc. (Scotland) Act 2000[^key-50b8d2d4c5bebc2ff392ac921c96de28][^key-0c74839955d10b3f66af83d412bfd17a]
+### 1. Ethical Standards in Public Life etc. (Scotland) Act 2000[^c-50b8d2d4c5bebc2ff392ac921c96de28][^c-0c74839955d10b3f66af83d412bfd17a]
 
 (1) The Ethical Standards in Public Life etc. (Scotland) Act 2000 is modified as follows.
 
@@ -1150,7 +1150,7 @@ The short title of this Act is the Circular Economy (Scotland) Act 2024.
 
 .
 
-### 2. Freedom of Information (Scotland) Act 2002[^key-9fac920ab9e2126e016c7f9977a0ae6e][^key-83f74ad573cb17b479278f4567afa8da]
+### 2. Freedom of Information (Scotland) Act 2002[^c-9fac920ab9e2126e016c7f9977a0ae6e][^c-83f74ad573cb17b479278f4567afa8da]
 
 (1) The Freedom of Information (Scotland) Act 2002 is modified as follows.
 
@@ -1160,7 +1160,7 @@ The short title of this Act is the Circular Economy (Scotland) Act 2024.
 
 .
 
-### 3. Public Appointments and Public Bodies etc. (Scotland) Act 2003[^key-b610c123ed02af52379173195bc7ca76][^key-2c0ca2f29f0ec04c32276ea543d2f18f]
+### 3. Public Appointments and Public Bodies etc. (Scotland) Act 2003[^c-b610c123ed02af52379173195bc7ca76][^c-2c0ca2f29f0ec04c32276ea543d2f18f]
 
 (1) The Public Appointments and Public Bodies etc. (Scotland) Act 2003 is modified as follows.
 
@@ -1170,7 +1170,7 @@ The short title of this Act is the Circular Economy (Scotland) Act 2024.
 
 .
 
-### 4. Public Services Reform (Scotland) Act 2010[^key-ffe186b7f02960bcf853bebc23d9b395][^key-f401a862f2ee3c9056c098703e038f5e]
+### 4. Public Services Reform (Scotland) Act 2010[^c-ffe186b7f02960bcf853bebc23d9b395][^c-f401a862f2ee3c9056c098703e038f5e]
 
 (1) The Public Services Reform (Scotland) Act 2010 is modified as follows.
 
@@ -1186,7 +1186,7 @@ The short title of this Act is the Circular Economy (Scotland) Act 2024.
 
 .
 
-### 5. Public Records (Scotland) Act 2011[^key-43113c6e757fe0a98aaef7add214bd72][^key-676f9e943a4c0e623a86a5cac1d2a7a0]
+### 5. Public Records (Scotland) Act 2011[^c-43113c6e757fe0a98aaef7add214bd72][^c-676f9e943a4c0e623a86a5cac1d2a7a0]
 
 (1) The Public Records (Scotland) Act 2011 is modified as follows.
 
@@ -1196,7 +1196,7 @@ The short title of this Act is the Circular Economy (Scotland) Act 2024.
 
 .
 
-### 6. Procurement Reform (Scotland) Act 2014[^key-02cbefbe768e448e5c2d1e585363a101][^key-7317eaa3618896a0e2b58d3fb575e31d]
+### 6. Procurement Reform (Scotland) Act 2014[^c-02cbefbe768e448e5c2d1e585363a101][^c-7317eaa3618896a0e2b58d3fb575e31d]
 
 (1) The Procurement Reform (Scotland) Act 2014 is modified as follows.
 
@@ -1206,7 +1206,7 @@ The short title of this Act is the Circular Economy (Scotland) Act 2024.
 
 .
 
-### 7. Gender Representation on Public Boards (Scotland) Act 2018[^key-3ae908d86e28556aa20303038406ec2d][^key-a1456af690e439682c7bb630c98f0584]
+### 7. Gender Representation on Public Boards (Scotland) Act 2018[^c-3ae908d86e28556aa20303038406ec2d][^c-a1456af690e439682c7bb630c98f0584]
 
 (1) The Gender Representation on Public Boards (Scotland) Act 2018 is modified as follows.
 
@@ -1218,7 +1218,7 @@ The short title of this Act is the Circular Economy (Scotland) Act 2024.
 
 .
 
-### 8. Islands (Scotland) Act 2018[^key-4f525cd2d3c44b3e1ba136bbb4649c20][^key-b3367ca31008d67f24da21c6db6b919d]
+### 8. Islands (Scotland) Act 2018[^c-4f525cd2d3c44b3e1ba136bbb4649c20][^c-b3367ca31008d67f24da21c6db6b919d]
 
 (1) The Islands (Scotland) Act 2018 is modified as follows.
 
@@ -1230,138 +1230,138 @@ The short title of this Act is the Circular Economy (Scotland) Act 2024.
 
 ## Annotations
 
-[^key-00f6ca84cb8f5e2a08e46daa464a1323]: Commencement: S. 1 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-00f6ca84cb8f5e2a08e46daa464a1323]: Commencement: S. 1 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-fac3aab8421322d17e9e3e714c906966]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/13/section/1) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-fac3aab8421322d17e9e3e714c906966]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/13/section/1) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-5286d6298b90a82e448df0dbc655474c]: Commencement: S. 2 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-5286d6298b90a82e448df0dbc655474c]: Commencement: S. 2 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-06acd919b51fa07a2410a2de2a6362fc]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/13/section/2) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-06acd919b51fa07a2410a2de2a6362fc]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/13/section/2) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-e3c927626db286a8e02c583a9c370ae2]: Commencement: S. 3 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-e3c927626db286a8e02c583a9c370ae2]: Commencement: S. 3 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-44b15a88c43e92adf0254ed79f5f964f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/13/section/3) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-44b15a88c43e92adf0254ed79f5f964f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/13/section/3) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-e5a83868ffcd0aefb21d8b6bf05ab13f]: Commencement: S. 4 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-e5a83868ffcd0aefb21d8b6bf05ab13f]: Commencement: S. 4 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-023a3573431f71d6d08033b7ead243aa]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/13/section/4) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-023a3573431f71d6d08033b7ead243aa]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/13/section/4) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-ec8888a84415f700dcf8c4fcd2aa6432]: Commencement: S. 5 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-ec8888a84415f700dcf8c4fcd2aa6432]: Commencement: S. 5 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-f02e07faed91105d358dd6a554b04f92]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/13/section/5) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-f02e07faed91105d358dd6a554b04f92]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/13/section/5) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-91e6de33c54dc462697f93f0b849ed23]: Commencement: S. 6 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-91e6de33c54dc462697f93f0b849ed23]: Commencement: S. 6 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-735e7d90084ac201b9a53388076ff10d]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/13/section/6) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-735e7d90084ac201b9a53388076ff10d]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/13/section/6) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-e79f34f0cbe626bff50723a4e0c843bc]: Commencement: S. 7 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-e79f34f0cbe626bff50723a4e0c843bc]: Commencement: S. 7 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-a7438d3cfb2d6b2b8d81828890c09bf5]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/13/section/7) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-a7438d3cfb2d6b2b8d81828890c09bf5]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/13/section/7) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-5fc869ad0f15f82e2d76e13f0106b2f3]: Commencement: S. 8 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-5fc869ad0f15f82e2d76e13f0106b2f3]: Commencement: S. 8 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-43c8690a23b271a14b1e27782998a678]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/13/section/8) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-43c8690a23b271a14b1e27782998a678]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/13/section/8) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-f637e0a3a17f5ff2d87984132a323483]: Commencement: S. 9 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-f637e0a3a17f5ff2d87984132a323483]: Commencement: S. 9 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-42bf2c350186ab846dd40b48827f8c2a]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/13/section/9) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-42bf2c350186ab846dd40b48827f8c2a]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/13/section/9) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-3a89879a5323b55b22be136261ba9301]: Commencement: S. 10 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-3a89879a5323b55b22be136261ba9301]: Commencement: S. 10 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-18fef6b1e2f5215de17f34ce29f02230]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/13/section/10) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)
+[^c-18fef6b1e2f5215de17f34ce29f02230]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/13/section/10) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)
 
-[^key-72504148311d307f87ee597bce50d32d]: Commencement: S. 11 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-72504148311d307f87ee597bce50d32d]: Commencement: S. 11 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-821ec1c46b4de5face1c918a9a1bfa88]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/13/section/11) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(b)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/b)
+[^c-821ec1c46b4de5face1c918a9a1bfa88]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/13/section/11) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(b)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/b)
 
-[^key-91e75ecaf5f3afbb00cbbfc71d0f7779]: Commencement: S. 12 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-91e75ecaf5f3afbb00cbbfc71d0f7779]: Commencement: S. 12 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-d72b27a7ba5cc99f7764b66564c102b8]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/13/section/12) in force at 1.8.2025 for specified purposes by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-d72b27a7ba5cc99f7764b66564c102b8]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/13/section/12) in force at 1.8.2025 for specified purposes by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-8bd891a41d458bf8877c5e4b81b5f2f6]: Commencement: S. 13 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-8bd891a41d458bf8877c5e4b81b5f2f6]: Commencement: S. 13 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-070cac9a7a0faaca65a1055ef60f0be5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/13/section/13) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(c)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/c)
+[^c-070cac9a7a0faaca65a1055ef60f0be5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/13/section/13) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(c)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/c)
 
-[^key-e08613bb44d1ad22ae70f2e9deb8eb9c]: Commencement: S. 14 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-e08613bb44d1ad22ae70f2e9deb8eb9c]: Commencement: S. 14 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-68e66112d4c28d7f1d6c7c43fdbfa9f0]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/13/section/14) in force at 1.8.2025 for specified purposes by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-68e66112d4c28d7f1d6c7c43fdbfa9f0]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/13/section/14) in force at 1.8.2025 for specified purposes by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-62fac764ced1b8ac38e8cbd49bb5735a]: Commencement: S. 15 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-62fac764ced1b8ac38e8cbd49bb5735a]: Commencement: S. 15 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-2bd276d57c6d688ed8c592bc40535957]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2024/13/section/15) in force at 1.8.2025 for specified purposes by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-2bd276d57c6d688ed8c592bc40535957]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2024/13/section/15) in force at 1.8.2025 for specified purposes by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-483bd4effeeb307af6463d19ac304606]: Commencement: S. 16 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-483bd4effeeb307af6463d19ac304606]: Commencement: S. 16 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-0e0e21c7d3865c924e29414731600ec8]: Commencement: S. 17 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-0e0e21c7d3865c924e29414731600ec8]: Commencement: S. 17 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-bc10d1c6ea5dfb4fe1809550083362b5]: Commencement: S. 18 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-bc10d1c6ea5dfb4fe1809550083362b5]: Commencement: S. 18 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-5c1fa238ce2cf502dcbc5981850fe76f]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2024/13/section/18) in force at 1.8.2025 for specified purposes by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-5c1fa238ce2cf502dcbc5981850fe76f]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2024/13/section/18) in force at 1.8.2025 for specified purposes by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-c429b3b8891ea84e7e7775cb1105bae7]: Commencement: S. 19 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-c429b3b8891ea84e7e7775cb1105bae7]: Commencement: S. 19 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-e7aaa4bfb1f6c1966b97534b859b19ab]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/13/section/19) in force at 1.8.2025 for specified purposes by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-e7aaa4bfb1f6c1966b97534b859b19ab]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/13/section/19) in force at 1.8.2025 for specified purposes by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-ecb58418d9f15373e76f24929e605d84]: Commencement: S. 20 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-ecb58418d9f15373e76f24929e605d84]: Commencement: S. 20 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-faa3964b4afd56e41a45e318ceb59a37]: Textual amendment: [S. 20(1)](https://www.legislation.gov.uk/asp/2024/13/section/20/1) repealed (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-faa3964b4afd56e41a45e318ceb59a37]: Textual amendment: [S. 20(1)](https://www.legislation.gov.uk/asp/2024/13/section/20/1) repealed (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-b91c3bf0ccace10b7c1be60f58dc4402]: Textual amendment: [S. 20(3)](https://www.legislation.gov.uk/asp/2024/13/section/20/3) repealed (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-b91c3bf0ccace10b7c1be60f58dc4402]: Textual amendment: [S. 20(3)](https://www.legislation.gov.uk/asp/2024/13/section/20/3) repealed (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-766963336308c53bcf82bc8df53f165c]: Commencement: S. 21 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-766963336308c53bcf82bc8df53f165c]: Commencement: S. 21 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-1e96aae9f63b0ffad5332533480125a1]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2024/13/section/21) in force at 4.2.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 2](https://www.legislation.gov.uk/ssi/2025/10/regulation/2)
+[^c-1e96aae9f63b0ffad5332533480125a1]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2024/13/section/21) in force at 4.2.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 2](https://www.legislation.gov.uk/ssi/2025/10/regulation/2)
 
-[^key-bb34e5746810fadddc51456f406c58af]: Commencement: S. 22 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-bb34e5746810fadddc51456f406c58af]: Commencement: S. 22 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-80ba2b7166af2300ec7ef7a938302e23]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2024/13/section/22) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-80ba2b7166af2300ec7ef7a938302e23]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2024/13/section/22) in force at 1.8.2025 by [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
 
-[^key-b67a446005d5eb9d4db63e246d39012e]: Commencement: S. 23 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-b67a446005d5eb9d4db63e246d39012e]: Commencement: S. 23 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-ac7b946ac13ed58521f2606732749a6d]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2024/13/section/23) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(d)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/d)
+[^c-ac7b946ac13ed58521f2606732749a6d]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2024/13/section/23) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(d)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/d)
 
-[^key-96f8a8aec7720d232cd2c2d6c7a2e82c]: Commencement: S. 24 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-96f8a8aec7720d232cd2c2d6c7a2e82c]: Commencement: S. 24 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-7cb6a7fde3177b7a56d861c43555f51c]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2024/13/section/24) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(e)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/e)
+[^c-7cb6a7fde3177b7a56d861c43555f51c]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2024/13/section/24) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(e)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/e)
 
-[^key-60a0169ec4c28c5ccb6ebb933c44355f]: Commencement: S. 25 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-60a0169ec4c28c5ccb6ebb933c44355f]: Commencement: S. 25 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-24cc0ec30ee8521d44c54990a9972684]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2024/13/section/25) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(f)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/f)
+[^c-24cc0ec30ee8521d44c54990a9972684]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2024/13/section/25) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(f)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/f)
 
-[^key-0873b44ecb606145fea6cc3a635d40de]: Commencement: S. 26 in force at 9.8.2024, see [s. 27(1)](https://www.legislation.gov.uk/asp/2024/13/section/27/1)
+[^c-0873b44ecb606145fea6cc3a635d40de]: Commencement: S. 26 in force at 9.8.2024, see [s. 27(1)](https://www.legislation.gov.uk/asp/2024/13/section/27/1)
 
-[^key-6e628af4f5bc01243eb654f5a30e1781]: Commencement: S. 27 in force at 9.8.2024, see [s. 27(1)](https://www.legislation.gov.uk/asp/2024/13/section/27/1)
+[^c-6e628af4f5bc01243eb654f5a30e1781]: Commencement: S. 27 in force at 9.8.2024, see [s. 27(1)](https://www.legislation.gov.uk/asp/2024/13/section/27/1)
 
-[^key-099e9bf3c2831295e427515caf3874de]: Commencement: S. 28 in force at 9.8.2024, see [s. 27(1)](https://www.legislation.gov.uk/asp/2024/13/section/27/1)
+[^c-099e9bf3c2831295e427515caf3874de]: Commencement: S. 28 in force at 9.8.2024, see [s. 27(1)](https://www.legislation.gov.uk/asp/2024/13/section/27/1)
 
-[^key-50b8d2d4c5bebc2ff392ac921c96de28]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-50b8d2d4c5bebc2ff392ac921c96de28]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-0c74839955d10b3f66af83d412bfd17a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/1) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
+[^c-0c74839955d10b3f66af83d412bfd17a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/1) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
 
-[^key-9fac920ab9e2126e016c7f9977a0ae6e]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-9fac920ab9e2126e016c7f9977a0ae6e]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-83f74ad573cb17b479278f4567afa8da]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/2) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
+[^c-83f74ad573cb17b479278f4567afa8da]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/2) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
 
-[^key-b610c123ed02af52379173195bc7ca76]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-b610c123ed02af52379173195bc7ca76]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-2c0ca2f29f0ec04c32276ea543d2f18f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/3) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
+[^c-2c0ca2f29f0ec04c32276ea543d2f18f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/3) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
 
-[^key-ffe186b7f02960bcf853bebc23d9b395]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-ffe186b7f02960bcf853bebc23d9b395]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-f401a862f2ee3c9056c098703e038f5e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/4) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
+[^c-f401a862f2ee3c9056c098703e038f5e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/4) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
 
-[^key-43113c6e757fe0a98aaef7add214bd72]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-43113c6e757fe0a98aaef7add214bd72]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-676f9e943a4c0e623a86a5cac1d2a7a0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/5) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
+[^c-676f9e943a4c0e623a86a5cac1d2a7a0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/5) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
 
-[^key-02cbefbe768e448e5c2d1e585363a101]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-02cbefbe768e448e5c2d1e585363a101]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-7317eaa3618896a0e2b58d3fb575e31d]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/6) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
+[^c-7317eaa3618896a0e2b58d3fb575e31d]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/6) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
 
-[^key-3ae908d86e28556aa20303038406ec2d]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-3ae908d86e28556aa20303038406ec2d]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-a1456af690e439682c7bb630c98f0584]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/7) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
+[^c-a1456af690e439682c7bb630c98f0584]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/7) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
 
-[^key-4f525cd2d3c44b3e1ba136bbb4649c20]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
+[^c-4f525cd2d3c44b3e1ba136bbb4649c20]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 27](https://www.legislation.gov.uk/asp/2024/13/section/27)
 
-[^key-b3367ca31008d67f24da21c6db6b919d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/8) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
+[^c-b3367ca31008d67f24da21c6db6b919d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/8) in force at 1.4.2025 by [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)

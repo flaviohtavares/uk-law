@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Determination of appeal against notice[^key-efd0fd574bc9e7e920eaf6d0e6942229]
+## 62. Determination of appeal against notice[^c-efd0fd574bc9e7e920eaf6d0e6942229]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efd0fd574bc9e7e920eaf6d0e6942229]: Commencement: S. 62 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-efd0fd574bc9e7e920eaf6d0e6942229]: Commencement: S. 62 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

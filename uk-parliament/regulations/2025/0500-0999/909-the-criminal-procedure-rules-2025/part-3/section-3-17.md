@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.17. Place of magistrates’ court trial[^key-2dcbc608990173a9dc4f6774a1d8ad85]
+## 3.17. Place of magistrates’ court trial[^c-2dcbc608990173a9dc4f6774a1d8ad85]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ The court officer must arrange for a magistrates’ court trial to take place in
 
 ## Annotations
 
-[^key-2dcbc608990173a9dc4f6774a1d8ad85]: Commencement: [Rule 3.17](https://www.legislation.gov.uk/uksi/2025/909/rule/3.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2dcbc608990173a9dc4f6774a1d8ad85]: Commencement: [Rule 3.17](https://www.legislation.gov.uk/uksi/2025/909/rule/3.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00120]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 

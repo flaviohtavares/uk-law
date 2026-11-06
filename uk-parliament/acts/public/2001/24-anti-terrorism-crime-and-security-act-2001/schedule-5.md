@@ -61,7 +61,7 @@ Section 58
 - Rocio virus[^c19544461]
 - Sabia virus[^c19544481]
 - Sagiyama virus[^c19544501]
-- SARS Coronavirus[^key-1a7185d488a5dfded2f42076f34a9202]
+- SARS Coronavirus[^c-1a7185d488a5dfded2f42076f34a9202]
 - Sin Nombre virus[^c19544521]
 - St Louis encephalitis virus[^c19544541]
 - Tick-borne encephalitis virus (Russian Spring-Summer encephalitis virus)
@@ -90,11 +90,11 @@ Section 58
 - Burkholderia pseudomallei (Pseudomonas pseudomallei)
 - Chlamydophila psittaci
 - Clostridium botulinum
-- [^key-7ea2e27ef6dae24dcb13d132b6cf9533]...
+- [^c-7ea2e27ef6dae24dcb13d132b6cf9533]...
 - Enterohaemorrhagic Escherichia coli, serotype 0157 and verotoxin producing strains[^c19548351]
 - Francisella tularensis
 - Multiple-drug resistant Salmonella paratyphi[^c19548371]
-- [^key-7ea2e27ef6dae24dcb13d132b6cf9533]...
+- [^c-7ea2e27ef6dae24dcb13d132b6cf9533]...
 - Salmonella paratyphi A, B, C[^c19548411]
 - Salmonella typhi
 - Shigella boydii[^c19548431]
@@ -103,7 +103,7 @@ Section 58
 - Vibrio cholerae
 - Yersinia pestis
 
-### ...[^key-0179aab1ad949321203a4dd6c1b8e342]
+### ...[^c-0179aab1ad949321203a4dd6c1b8e342]
 
 -
 -
@@ -192,7 +192,7 @@ Section 58
 
 [^c19544501]: Textual amendment: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, [Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929)](https://www.legislation.gov.uk/uksi/2007/929), [art. 3](https://www.legislation.gov.uk/uksi/2007/929/article/3)
 
-[^key-1a7185d488a5dfded2f42076f34a9202]: Textual amendment: Sch. 5: entry added (1.10.2012) by [The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2012 (S.I. 2012/1466)](https://www.legislation.gov.uk/uksi/2012/1466), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1466/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2012/1466/article/2/a)
+[^c-1a7185d488a5dfded2f42076f34a9202]: Textual amendment: Sch. 5: entry added (1.10.2012) by [The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2012 (S.I. 2012/1466)](https://www.legislation.gov.uk/uksi/2012/1466), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1466/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2012/1466/article/2/a)
 
 [^c19544521]: Textual amendment: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, [Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929)](https://www.legislation.gov.uk/uksi/2007/929), [art. 3](https://www.legislation.gov.uk/uksi/2007/929/article/3)
 
@@ -206,7 +206,7 @@ Section 58
 
 [^c19548311]: Textual amendment: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, [Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929)](https://www.legislation.gov.uk/uksi/2007/929), [art. 5](https://www.legislation.gov.uk/uksi/2007/929/article/5)
 
-[^key-7ea2e27ef6dae24dcb13d132b6cf9533]: Textual amendment: Sch. 5: entries omitted (1.10.2012) by virtue of [The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2012 (S.I. 2012/1466)](https://www.legislation.gov.uk/uksi/2012/1466), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1466/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2012/1466/article/2/b)
+[^c-7ea2e27ef6dae24dcb13d132b6cf9533]: Textual amendment: Sch. 5: entries omitted (1.10.2012) by virtue of [The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2012 (S.I. 2012/1466)](https://www.legislation.gov.uk/uksi/2012/1466), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1466/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2012/1466/article/2/b)
 
 [^c19548351]: Textual amendment: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, [Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929)](https://www.legislation.gov.uk/uksi/2007/929), [art. 5](https://www.legislation.gov.uk/uksi/2007/929/article/5)
 
@@ -218,7 +218,7 @@ Section 58
 
 [^c19548451]: Textual amendment: Words in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, [Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929)](https://www.legislation.gov.uk/uksi/2007/929), [art. 5](https://www.legislation.gov.uk/uksi/2007/929/article/5)
 
-[^key-0179aab1ad949321203a4dd6c1b8e342]: Textual amendment: Sch. 5: list omitted (1.10.2012) by virtue of [The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2012 (S.I. 2012/1466)](https://www.legislation.gov.uk/uksi/2012/1466), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1466/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2012/1466/article/2/c)
+[^c-0179aab1ad949321203a4dd6c1b8e342]: Textual amendment: Sch. 5: list omitted (1.10.2012) by virtue of [The Schedule 5 to the Anti-terrorism, Crime and Security Act 2001 (Modification) Order 2012 (S.I. 2012/1466)](https://www.legislation.gov.uk/uksi/2012/1466), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1466/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2012/1466/article/2/c)
 
 [^c19548601]: Textual amendment: Word in Sch. 5 inserted (2.4.2007) by The Schedule 5 to the Anti-terrorism, [Crime and Security Act 2001 (Modification) Order 2007 (S.I. 2007/929)](https://www.legislation.gov.uk/uksi/2007/929), [art. 7(2)](https://www.legislation.gov.uk/uksi/2007/929/article/7/2)
 

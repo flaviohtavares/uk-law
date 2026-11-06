@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Minor definitions for Part 4[^key-85e6cc5a9f4a28855a018a27d751efc8]
+## 60. Minor definitions for Part 4[^c-85e6cc5a9f4a28855a018a27d751efc8]
 
 *Extent: E+W+S+N.I.*
 
 In this Part—
 
-- “[^key-f1eef2e46de52c1bec8c9614663e294d]**contact details**” means—
+- “[^c-f1eef2e46de52c1bec8c9614663e294d]**contact details**” means—
   - (a) telephone numbers (if any), and
   - (b) email addresses (if any);
 - “**country**” includes a territory;
@@ -54,6 +54,6 @@ In this Part—
 
 ## Annotations
 
-[^key-85e6cc5a9f4a28855a018a27d751efc8]: Commencement: S. 60 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-85e6cc5a9f4a28855a018a27d751efc8]: Commencement: S. 60 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
 
-[^key-f1eef2e46de52c1bec8c9614663e294d]: Textual amendment: Words in s. 60 inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(6)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/6), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
+[^c-f1eef2e46de52c1bec8c9614663e294d]: Textual amendment: Words in s. 60 inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(6)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/6), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))

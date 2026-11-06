@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79A. Additional payments: change in the persons carrying on the trade[^key-ac0513ce23ff7f0a9af9a307c2ae1ce5]
+## 79A. Additional payments: change in the persons carrying on the trade[^c-ac0513ce23ff7f0a9af9a307c2ae1ce5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac0513ce23ff7f0a9af9a307c2ae1ce5]: Textual amendment: S. 79A inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 598](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/598) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-ac0513ce23ff7f0a9af9a307c2ae1ce5]: Textual amendment: S. 79A inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 598](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/598) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

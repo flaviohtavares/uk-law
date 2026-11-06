@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Current model clauses[^key-6c39c45cd6524b7792d4c685bb084666]
+## 3. Current model clauses[^c-6c39c45cd6524b7792d4c685bb084666]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In relation to a paragraph of Schedule 1 to the Act which is specified in paragr
 
 ## Annotations
 
-[^key-6c39c45cd6524b7792d4c685bb084666]: Commencement: Art. 3 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-6c39c45cd6524b7792d4c685bb084666]: Commencement: Art. 3 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)

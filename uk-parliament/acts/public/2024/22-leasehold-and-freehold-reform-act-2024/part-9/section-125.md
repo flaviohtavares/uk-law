@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Short title[^key-487b994e5914400e09c7506b9f32232a]
+## 125. Short title[^c-487b994e5914400e09c7506b9f32232a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Leasehold and Freehold Reform Act 2024.
 
 ## Annotations
 
-[^key-487b994e5914400e09c7506b9f32232a]: Commencement: S. 125 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)
+[^c-487b994e5914400e09c7506b9f32232a]: Commencement: S. 125 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)

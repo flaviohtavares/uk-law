@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Mixing alcoholic products[^M_I_89657020-1f4e-4f44-8a12-6462c10385da][^key-8d2dae04e62abd3cc8d1fe19cd2b374d]
+## 86. Mixing alcoholic products[^M_I_89657020-1f4e-4f44-8a12-6462c10385da][^c-8d2dae04e62abd3cc8d1fe19cd2b374d]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) The first exemption applies if the products are mixed—
 
 - (a) either—
-  - (i)[^key-1fe1c8c07ce09f0df78efc17ea6d1d13] in accordance with an approval under section 82, or
+  - (i)[^c-1fe1c8c07ce09f0df78efc17ea6d1d13] in accordance with an approval under section 82, or
   - (ii) in an excise warehouse, and
 - (b) the mixing takes place before the excise duty point.
 
@@ -49,6 +49,6 @@ summary: ''
 
 [^M_I_89657020-1f4e-4f44-8a12-6462c10385da]: Commencement: S. 86 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-8d2dae04e62abd3cc8d1fe19cd2b374d]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2023/30/section/86) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/c) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-8d2dae04e62abd3cc8d1fe19cd2b374d]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2023/30/section/86) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/c) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
-[^key-1fe1c8c07ce09f0df78efc17ea6d1d13]: Modification: [S. 86(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/30/section/86/2/a/i) modified (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [reg. 6](https://www.legislation.gov.uk/uksi/2023/884/regulation/6)
+[^c-1fe1c8c07ce09f0df78efc17ea6d1d13]: Modification: [S. 86(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/30/section/86/2/a/i) modified (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [reg. 6](https://www.legislation.gov.uk/uksi/2023/884/regulation/6)

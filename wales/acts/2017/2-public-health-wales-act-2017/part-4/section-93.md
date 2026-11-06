@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Power to add or remove special procedures[^key-59b16271f99fe59c6bea69dced60159f]
+## 93. Power to add or remove special procedures[^c-59b16271f99fe59c6bea69dced60159f]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59b16271f99fe59c6bea69dced60159f]: Commencement: [S. 93](https://www.legislation.gov.uk/anaw/2017/2/section/93) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(hh)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/hh) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-59b16271f99fe59c6bea69dced60159f]: Commencement: [S. 93](https://www.legislation.gov.uk/anaw/2017/2/section/93) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(hh)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/hh) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

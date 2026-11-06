@@ -31,12 +31,12 @@ summary: ''
   - (ii) a disposal by the person whose interest or right is subject to the interest created;
 - (b) the surrender or release of a chargeable interest is—
   - (i) an acquisition of that interest by any person whose interest or right is benefitted or enlarged by the transaction, and
-  - (ii) a disposal by the person ceasing to be entitled to that interest; [^key-643ec379cf3427545816f1cd25ad6f1e]...
-- (c) the variation of a chargeable interest (other than a lease)[^key-504fac221be1cd7dd0d0ae59b4a462f6] is—
+  - (ii) a disposal by the person ceasing to be entitled to that interest; [^c-643ec379cf3427545816f1cd25ad6f1e]...
+- (c) the variation of a chargeable interest (other than a lease)[^c-504fac221be1cd7dd0d0ae59b4a462f6] is—
   - (i) an acquisition of a chargeable interest (other than a lease) by the person benefitting from the variation, and
   - (ii) a disposal of a chargeable interest (other than a lease) by the person whose interest is subject to or limited by the variation.
-- (d)[^key-131c256557b15b66a0f046d28b36fa4a] the variation of a lease is an acquisition and disposal of a chargeable interest only where
-  - (i)[^key-05be663f58779611c215752b1ce8d24a] it takes effect, or is treated for the purposes of this Part, as the grant of a new lease, or[^key-051bbdd3d25397f8dabcb86c8efbcdf3]
+- (d)[^c-131c256557b15b66a0f046d28b36fa4a] the variation of a lease is an acquisition and disposal of a chargeable interest only where
+  - (i)[^c-05be663f58779611c215752b1ce8d24a] it takes effect, or is treated for the purposes of this Part, as the grant of a new lease, or[^c-051bbdd3d25397f8dabcb86c8efbcdf3]
   - (ii) paragraph 15A of Schedule 17A (reduction of rent or term) applies.
 
 (4) References in this Part to the “**purchaser**” and “**vendor**”, in relation to a land transaction, are to the person acquiring and the person disposing of the subject-matter of the transaction.
@@ -51,12 +51,12 @@ These expressions apply even if there is no consideration given for the transact
 
 [^c5521631]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)
 
-[^key-643ec379cf3427545816f1cd25ad6f1e]: Textual amendment: Word in s. 43(3) repealed (with effect in accordance with Sch. 39 para. 13 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 4(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/4/2)
+[^c-643ec379cf3427545816f1cd25ad6f1e]: Textual amendment: Word in s. 43(3) repealed (with effect in accordance with Sch. 39 para. 13 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 4(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/4/2)
 
-[^key-504fac221be1cd7dd0d0ae59b4a462f6]: Textual amendment: Words in s. 43(3)(c) inserted (with effect in accordance with Sch. 39 para. 13(3)-(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 2(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/2/a)
+[^c-504fac221be1cd7dd0d0ae59b4a462f6]: Textual amendment: Words in s. 43(3)(c) inserted (with effect in accordance with Sch. 39 para. 13(3)-(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 2(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/2/a)
 
-[^key-131c256557b15b66a0f046d28b36fa4a]: Textual amendment: S. 43(3)(d) inserted (with effect in accordance with Sch. 39 para. 13(3)-(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 2(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/2/b)
+[^c-131c256557b15b66a0f046d28b36fa4a]: Textual amendment: S. 43(3)(d) inserted (with effect in accordance with Sch. 39 para. 13(3)-(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 2(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/2/b)
 
-[^key-05be663f58779611c215752b1ce8d24a]: Textual amendment: Words in s. 43(3)(d) renumbered as s. 43(3)(d)(i) (with effect in accordance with s. 297(9) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 297(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/297/2)
+[^c-05be663f58779611c215752b1ce8d24a]: Textual amendment: Words in s. 43(3)(d) renumbered as s. 43(3)(d)(i) (with effect in accordance with s. 297(9) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 297(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/297/2)
 
-[^key-051bbdd3d25397f8dabcb86c8efbcdf3]: Textual amendment: S. 43(3)(d)(ii) and word inserted (with effect in accordance with s. 297(9) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 297(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/297/2)
+[^c-051bbdd3d25397f8dabcb86c8efbcdf3]: Textual amendment: S. 43(3)(d)(ii) and word inserted (with effect in accordance with s. 297(9) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 297(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/297/2)

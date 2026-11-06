@@ -50,7 +50,7 @@ Accordingly, the Department for Communities makes the following Order.
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and effect[^key-2e763e34a42ff691b7160b4f7cb33aad][^key-2e763e34a42ff691b7160b4f7cb33aad]
+### 1. Citation, commencement and effect[^c-2e763e34a42ff691b7160b4f7cb33aad][^c-2e763e34a42ff691b7160b4f7cb33aad]
 
 (1) This Order may be cited as the Social Security Benefits Up-rating Order (Northern Ireland) 2026, and subject to paragraphs (2) and (3), shall come into operation for the purposes of—
 
@@ -81,7 +81,7 @@ Accordingly, the Department for Communities makes the following Order.
 
 shall take effect for each case on the date specified in relation to that case in Article 7.
 
-### 2. Interpretation[^key-168d10caa85fcd5bce38ff532963262e][^key-168d10caa85fcd5bce38ff532963262e]
+### 2. Interpretation[^c-168d10caa85fcd5bce38ff532963262e][^c-168d10caa85fcd5bce38ff532963262e]
 
 (1) In this Order—
 
@@ -110,7 +110,7 @@ shall take effect for each case on the date specified in relation to that case i
 
 ## PART 2 — SOCIAL SECURITY BENEFITS AND PENSIONS
 
-### 3. Rates or amounts of certain benefits under the Contributions and Benefits Act[^key-8b62951bad102a60ed4bed8a35b2810a][^key-1a1123787bfdbc5338fc03678aabd764][^key-8b62951bad102a60ed4bed8a35b2810a][^key-1a1123787bfdbc5338fc03678aabd764]
+### 3. Rates or amounts of certain benefits under the Contributions and Benefits Act[^c-8b62951bad102a60ed4bed8a35b2810a][^c-1a1123787bfdbc5338fc03678aabd764][^c-8b62951bad102a60ed4bed8a35b2810a][^c-1a1123787bfdbc5338fc03678aabd764]
 
 (1) From and including the respective dates specified in Article 7, the sums specified in paragraph (2) shall be increased so that Schedule 4 to the Contributions and Benefits Act (rates of benefits, etc.), except paragraph 5 of Part III of that Schedule (guardian’s allowance), has effect as set out in Schedule 1 to this Order.
 
@@ -119,7 +119,7 @@ shall take effect for each case on the date specified in relation to that case i
 - (a) Part III, the sum specified for age addition to a pension of any category, and otherwise under section 79 of that Act; and
 - (b) Part V[^f00025], the sums specified for the increase in disablement pension for dependent children and death benefit allowance in respect of children and qualifying young persons.
 
-### 4. Rates or amounts of certain pensions and allowances under the Contributions and Benefits Act[^key-acc14a3198ab829b6d66eb25f99e3774][^key-acc14a3198ab829b6d66eb25f99e3774]
+### 4. Rates or amounts of certain pensions and allowances under the Contributions and Benefits Act[^c-acc14a3198ab829b6d66eb25f99e3774][^c-acc14a3198ab829b6d66eb25f99e3774]
 
 (1) The sums specified in paragraphs (2) to (5) shall be increased from and including the respective dates specified in Article 7.
 
@@ -140,7 +140,7 @@ shall in each case be increased by 3.8 per cent.
 
 (5) The sums which are shared additional pensions under sections 55A and 55AA of the Contributions and Benefits Act[^f00031], and the sums which are increases in the rates of such pensions under paragraph 2 of Schedule 5A to that Act[^f00032], shall in each case be increased by 3.8 per cent.
 
-### 5. Rates or amounts of certain benefits under the Pension Schemes Act[^key-1a6cc13b2ec7b060224c119e304e9cdb][^key-1a6cc13b2ec7b060224c119e304e9cdb]
+### 5. Rates or amounts of certain benefits under the Pension Schemes Act[^c-1a6cc13b2ec7b060224c119e304e9cdb][^c-1a6cc13b2ec7b060224c119e304e9cdb]
 
 (1) It is directed that the sums specified in paragraph (2) shall be increased from and including the respective dates specified in Article 7.
 
@@ -149,7 +149,7 @@ shall in each case be increased by 3.8 per cent.
 - (a) 3.8 per cent where the increase under section 11(1) is attributable to earnings factors for the tax year 1987-88 and earlier tax years[^f00034]; and
 - (b) 0.8 per cent where the increase under section 11(1) is attributable to earnings factors for the tax years 1988-89 to 1996-97 inclusive.
 
-### 6. Rates or amounts of certain pensions under Part 1 of the Pensions Act[^key-5e229b977476d48e57f93cd52ed3400c][^key-5e229b977476d48e57f93cd52ed3400c]
+### 6. Rates or amounts of certain pensions under Part 1 of the Pensions Act[^c-5e229b977476d48e57f93cd52ed3400c][^c-5e229b977476d48e57f93cd52ed3400c]
 
 (1) The sums specified in paragraphs (2) to (4) shall be increased from and including the date specified in Article 7(10).
 
@@ -168,7 +168,7 @@ shall in each case be increased by 3.8 per cent.
 
 (5) For the purpose of this Article, “**old state pension**” has the same meaning as in section 22 of the Pensions Act.
 
-### 7. Dates on which sums specified for rates or amounts of benefits in Articles 3, 4, 5, 6, 11, 12 and 13 are changed by this Order[^key-f651c597383ae9fd7f946a8f257fa8e3][^key-f651c597383ae9fd7f946a8f257fa8e3]
+### 7. Dates on which sums specified for rates or amounts of benefits in Articles 3, 4, 5, 6, 11, 12 and 13 are changed by this Order[^c-f651c597383ae9fd7f946a8f257fa8e3][^c-f651c597383ae9fd7f946a8f257fa8e3]
 
 (1) Paragraph (7), which is subject to the provisions of paragraph (9), and paragraphs (2) to (6), (8), (10) and (11) specify the date on which the changes made by this Order in the sums specified for rates or amounts of benefit in Articles 3, 4, 5, 6, 11, 12 and 13 shall take effect for each case.
 
@@ -214,15 +214,15 @@ and for the purpose of this paragraph, “**benefit week**” has the same meani
 
 (11) The increase in the sum mentioned in Article 13 shall take effect on 6th April 2026.
 
-### 8. Statutory sick pay[^key-da925efe29f180b86be0066ede9fc3a8][^key-da925efe29f180b86be0066ede9fc3a8]
+### 8. Statutory sick pay[^c-da925efe29f180b86be0066ede9fc3a8][^c-da925efe29f180b86be0066ede9fc3a8]
 
 In section 153(1) of the Contributions and Benefits Act[^f00037] (rate of payment) for “£118.75” substitute “£123.25”.
 
-### 9. Statutory maternity pay[^key-3c55ef9f5219610080068be7ef85b885][^key-acd7b8dcc2f43daa7c746994bb8e9ed3][^key-3c55ef9f5219610080068be7ef85b885][^key-acd7b8dcc2f43daa7c746994bb8e9ed3]
+### 9. Statutory maternity pay[^c-3c55ef9f5219610080068be7ef85b885][^c-acd7b8dcc2f43daa7c746994bb8e9ed3][^c-3c55ef9f5219610080068be7ef85b885][^c-acd7b8dcc2f43daa7c746994bb8e9ed3]
 
 In regulation 6 of the Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^f00038] (prescribed rate of statutory maternity pay) for “£187.18” substitute “£194.32”.
 
-### 10. Statutory paternity pay, statutory adoption pay, statutory shared parental pay and statutory parental bereavement pay[^key-6f28b223a54ba45d59fba046accb64fe][^key-6f28b223a54ba45d59fba046accb64fe]
+### 10. Statutory paternity pay, statutory adoption pay, statutory shared parental pay and statutory parental bereavement pay[^c-6f28b223a54ba45d59fba046accb64fe][^c-6f28b223a54ba45d59fba046accb64fe]
 
 (1) In the Statutory Paternity Pay and Statutory Adoption Pay (Weekly Rates) Regulations (Northern Ireland) 2002[^f00039]—
 
@@ -233,7 +233,7 @@ In regulation 6 of the Statutory Maternity Pay (General) Regulations (Northern I
 
 (3) In regulation 20(1)(a) of the Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023[^f00041] (weekly rate of payment) for “£187.18” substitute “£194.32”.
 
-### 11. Graduated retirement benefit[^key-c0fd1dddbeb9d68fa22d0b6531e88df1][^key-c0fd1dddbeb9d68fa22d0b6531e88df1]
+### 11. Graduated retirement benefit[^c-c0fd1dddbeb9d68fa22d0b6531e88df1][^c-c0fd1dddbeb9d68fa22d0b6531e88df1]
 
 (1) In section 35(1) of the National Insurance Act (Northern Ireland) 1966[^f00042] (graduated retirement benefit)—
 
@@ -246,15 +246,15 @@ In regulation 6 of the Statutory Maternity Pay (General) Regulations (Northern I
 
 (4) The sums which are the additions under section 36(1) of the National Insurance Act (Northern Ireland) 1966 (special provision as to graduated retirement benefit for widows and widowers) shall be increased by 3.8 per cent.
 
-### 12. Amount of Category C retirement pension under the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^key-c28fb5894b05de520861d87692cae048][^key-c28fb5894b05de520861d87692cae048]
+### 12. Amount of Category C retirement pension under the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^c-c28fb5894b05de520861d87692cae048][^c-c28fb5894b05de520861d87692cae048]
 
 In regulation 11(3) of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00045] (Category C retirement pension for widows of men over pensionable age on 5th July 1948) for “£105.70” substitute “£110.75”.
 
-### 13. Maximum additional pension[^key-df139024ac3db20cc86b4f6587c6c15c][^key-df139024ac3db20cc86b4f6587c6c15c]
+### 13. Maximum additional pension[^c-df139024ac3db20cc86b4f6587c6c15c][^c-df139024ac3db20cc86b4f6587c6c15c]
 
 In regulation 2A of the Social Security (Maximum Additional Pension) Regulations (Northern Ireland) 2010[^f00046] (prescribed maximum additional pension for survivors who become entitled on or after 6th April 2016) for “£222.10” substitute “£230.54”.
 
-### 14. Disability living allowance[^key-2ecbbe23e725e7cff6b1438bba964ecd][^key-2ecbbe23e725e7cff6b1438bba964ecd]
+### 14. Disability living allowance[^c-2ecbbe23e725e7cff6b1438bba964ecd][^c-2ecbbe23e725e7cff6b1438bba964ecd]
 
 In regulation 4 of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00047] (rate of benefit)—
 
@@ -264,7 +264,7 @@ In regulation 4 of the Social Security (Disability Living Allowance) Regulations
 - (d) in paragraph (2)(a) for “£77.05” substitute “£80.00”; and
 - (e) in paragraph (2)(b) for “£29.20” substitute “£30.30”.
 
-### 15. Personal independence payment[^key-dbe788899e5d17bc0c59dcd63516baeb][^key-dbe788899e5d17bc0c59dcd63516baeb]
+### 15. Personal independence payment[^c-dbe788899e5d17bc0c59dcd63516baeb][^c-dbe788899e5d17bc0c59dcd63516baeb]
 
 In regulation 24 of the Personal Independence Payment Regulations (Northern Ireland) 2016[^f00048] (rate of personal independence payment)—
 
@@ -273,7 +273,7 @@ In regulation 24 of the Personal Independence Payment Regulations (Northern Irel
 - (c) in paragraph (2)(a) for “£29.20” substitute “£30.30”; and
 - (d) in paragraph (2)(b) for “£77.05” substitute “£80.00”.
 
-### 16. Age addition to long-term incapacity benefit[^key-0e1389c4ab589097fc86bebfe2d09804]
+### 16. Age addition to long-term incapacity benefit[^c-0e1389c4ab589097fc86bebfe2d09804]
 
 (1) Subject to paragraph (2), in regulation 9(2) of the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00049] (increase in rate of incapacity benefit where beneficiary is under prescribed age on the qualifying date)—
 
@@ -282,7 +282,7 @@ In regulation 24 of the Personal Independence Payment Regulations (Northern Irel
 
 (2) In so far as a claimant entitled to long-term incapacity benefit corresponds to a claimant under Article 16(2) of the Great Britain Up-rating Order, the sums specified in regulation 9(2)(a) and (b) of the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994 shall be increased to “£15.50” and “£8.60” respectively.
 
-### 17. Transitional invalidity allowance in long-term incapacity benefit cases[^key-fb36fd62a396fa369690f2cafc3e464c]
+### 17. Transitional invalidity allowance in long-term incapacity benefit cases[^c-fb36fd62a396fa369690f2cafc3e464c]
 
 (1) Subject to paragraph (2), in regulation 18(2) of the Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995[^f00050] (rate of long-term incapacity benefit in transitional cases)—
 
@@ -292,14 +292,14 @@ In regulation 24 of the Personal Independence Payment Regulations (Northern Irel
 
 (2) In so far as a claimant entitled to long-term incapacity benefit corresponds to a claimant under Article 17(2) of the Great Britain Up-rating Order, the sums specified in regulation 18(2)(a), (b) and (c) of the Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995 shall be increased to “£15.50”, “£8.60” and “£8.60” respectively.
 
-### 18. Bereavement benefits[^key-3bebe5ecdc1b5d5b498f8a09f8f5882b][^key-3bebe5ecdc1b5d5b498f8a09f8f5882b]
+### 18. Bereavement benefits[^c-3bebe5ecdc1b5d5b498f8a09f8f5882b][^c-3bebe5ecdc1b5d5b498f8a09f8f5882b]
 
 In the Rate of Bereavement Benefits Regulations (Northern Ireland) 2010[^f00051]—
 
 - (a) in regulation 2 (rate of widowed mother’s allowance and widow’s pension) for “£150.90” substitute “£156.65”; and
 - (b) in regulation 3 (rate of widowed parent’s allowance) for “£150.90” substitute “£156.65”.
 
-### 19. Bereavement support payment[^key-d3ce304cc820e73b3b3863e467b98af5][^key-d3ce304cc820e73b3b3863e467b98af5]
+### 19. Bereavement support payment[^c-d3ce304cc820e73b3b3863e467b98af5][^c-d3ce304cc820e73b3b3863e467b98af5]
 
 In regulation 3 of the Bereavement Support Payment (No. 2) Regulations (Northern Ireland) 2019[^f00052] (rate of bereavement support payment)—
 
@@ -310,7 +310,7 @@ In regulation 3 of the Bereavement Support Payment (No. 2) Regulations (Northern
 
 ## PART 3 — INCOME SUPPORT AND HOUSING BENEFIT
 
-### 20. Applicable amounts for income support[^key-f631a1a6d7149dfddf5f0cb90922da0a][^key-f631a1a6d7149dfddf5f0cb90922da0a]
+### 20. Applicable amounts for income support[^c-f631a1a6d7149dfddf5f0cb90922da0a][^c-f631a1a6d7149dfddf5f0cb90922da0a]
 
 (1) The sums relevant to the calculation of an applicable amount as specified in the Income Support Regulations[^f00053] shall be the sums set out in this Article and Schedules 2 and 3 to this Order; and unless stated otherwise, a reference in this Article to a numbered regulation or Schedule is a reference to the regulation of, or Schedule to, the Income Support Regulations bearing that number.
 
@@ -340,15 +340,15 @@ the sum specified is in each case £3,000 (which remains the same).
   - (iv) in head (d) for “£348.00”, “£463.00” and “£101.35” substitute “£365.00”, “£485.00” and “£105.20” respectively, and
   - (v) in head (e) for “£463.00”, “£577.00” and “£115.45” substitute “£485.00”, “£605.00” and “£119.85” respectively.
 
-### 21. Income support transitional protection[^key-de4ec9292b30aac1372ac4cc22581bfb][^key-de4ec9292b30aac1372ac4cc22581bfb]
+### 21. Income support transitional protection[^c-de4ec9292b30aac1372ac4cc22581bfb][^c-de4ec9292b30aac1372ac4cc22581bfb]
 
 The sums which are special transitional additions to income support payable in accordance with regulation 15 of the Income Support (Transitional) Regulations (Northern Ireland) 1987[^f00059] shall be increased by 3.8 per cent.
 
-### 22. Relevant sum for income support[^key-9c2dfb7a9a3d9798c261a8b824fb8bef][^key-9c2dfb7a9a3d9798c261a8b824fb8bef]
+### 22. Relevant sum for income support[^c-9c2dfb7a9a3d9798c261a8b824fb8bef][^c-9c2dfb7a9a3d9798c261a8b824fb8bef]
 
 In section 125(7) of the Contributions and Benefits Act (trade disputes) for “£51.00” substitute “£53.00”.
 
-### 23. Housing benefit[^key-ddaf5f567081febf180128d22e15a549][^key-e97bbbd6428567f70d88ca2ca889c6e1][^key-ddaf5f567081febf180128d22e15a549][^key-e97bbbd6428567f70d88ca2ca889c6e1]
+### 23. Housing benefit[^c-ddaf5f567081febf180128d22e15a549][^c-e97bbbd6428567f70d88ca2ca889c6e1][^c-ddaf5f567081febf180128d22e15a549][^c-e97bbbd6428567f70d88ca2ca889c6e1]
 
 (1) The sums relevant to the calculation of an applicable amount as specified in the Housing Benefit Regulations shall be the sums set out in this Article and Schedules 4 and 5 to this Order; and unless stated otherwise, a reference in this Article to a numbered regulation or Schedule is a reference to the regulation of, or Schedule to, the Housing Benefit Regulations bearing that number.
 
@@ -390,7 +390,7 @@ In section 125(7) of the Contributions and Benefits Act (trade disputes) for “
 
 (10) In paragraph 58 of Schedule 6[^f00065] (sums to be disregarded in the calculation of income other than earnings) the sum of £17.10 remains the same.
 
-### 24. Housing benefit for certain persons over the qualifying age for state pension credit[^key-906ec0198d7fa64b08779a1541584230][^key-6711d1487bf721b289a6e4f82ad58174][^key-906ec0198d7fa64b08779a1541584230][^key-6711d1487bf721b289a6e4f82ad58174]
+### 24. Housing benefit for certain persons over the qualifying age for state pension credit[^c-906ec0198d7fa64b08779a1541584230][^c-6711d1487bf721b289a6e4f82ad58174][^c-906ec0198d7fa64b08779a1541584230][^c-6711d1487bf721b289a6e4f82ad58174]
 
 (1) The sums relevant to the calculation of an applicable amount as specified in the Housing Benefit (SPC) Regulations shall be the sums set out in this Article and Schedules 6 and 7 to this Order; and unless stated otherwise, a reference in this Article to a numbered regulation or Schedule is a reference to the regulation of, or Schedule to, the Housing Benefit (SPC) Regulations bearing that number.
 
@@ -426,14 +426,14 @@ In section 125(7) of the Contributions and Benefits Act (trade disputes) for “
 
 ## PART 4 — JOBSEEKER’S ALLOWANCE
 
-### 25. Age-related amounts of contribution-based jobseeker’s allowance[^key-ae27712d7deff86c27f96332af8bf8bb][^key-ae27712d7deff86c27f96332af8bf8bb]
+### 25. Age-related amounts of contribution-based jobseeker’s allowance[^c-ae27712d7deff86c27f96332af8bf8bb][^c-ae27712d7deff86c27f96332af8bf8bb]
 
 In regulation 79(1) of the Jobseeker’s Allowance Regulations 1996[^f00072] (weekly amounts of contribution-based jobseeker’s allowance)—
 
 - (a) in sub-paragraph (a) for “£72.90” substitute “£75.65”; and
 - (b) in sub-paragraph (c) for “£92.05” substitute “£95.55”.
 
-### 26. Applicable amounts for jobseeker’s allowance[^key-5481453c236b192842dafb2c47c430ba][^key-5481453c236b192842dafb2c47c430ba]
+### 26. Applicable amounts for jobseeker’s allowance[^c-5481453c236b192842dafb2c47c430ba][^c-5481453c236b192842dafb2c47c430ba]
 
 (1) The sums relevant to the calculation of an applicable amount as specified in the Jobseeker’s Allowance Regulations[^f00073] shall be the sums set out in this Article and Schedules 8 to 10 to this Order, and unless stated otherwise, a reference in this Article to a numbered regulation or Schedule is a reference to the regulation of, or Schedule to, the Jobseeker’s Allowance Regulations 1996 bearing that number.
 
@@ -465,11 +465,11 @@ the sum specified is in each case £3,000 (which remains the same).
   - (iv) in head (d) for “£348.00”, “£463.00” and “£101.35” substitute “£365.00”, “£485.00” and “£105.20” respectively, and
   - (v) in head (e) for “£463.00”, “£577.00” and “£115.45” substitute “£485.00”, “£605.00” and “£119.85” respectively.
 
-### 27. Prescribed sum for the Jobseeker’s Allowance Regulations 1996[^key-dc51694565943c71ff4490407c8940fc][^key-dc51694565943c71ff4490407c8940fc]
+### 27. Prescribed sum for the Jobseeker’s Allowance Regulations 1996[^c-dc51694565943c71ff4490407c8940fc][^c-dc51694565943c71ff4490407c8940fc]
 
 In regulation 170 of the Jobseeker’s Allowance Regulations 1996[^f00079] (trade disputes: prescribed sum) for “£51.00” substitute “£53.00”.
 
-### 28. Amounts for the Jobseeker’s Allowance Regulations 2016[^key-1c3a3d4cbcd215e2650227457ce55df2][^key-1c3a3d4cbcd215e2650227457ce55df2]
+### 28. Amounts for the Jobseeker’s Allowance Regulations 2016[^c-1c3a3d4cbcd215e2650227457ce55df2][^c-1c3a3d4cbcd215e2650227457ce55df2]
 
 In regulation 49 of the Jobseeker’s Allowance Regulations 2016 (weekly amounts of jobseeker’s allowance)—
 
@@ -478,7 +478,7 @@ In regulation 49 of the Jobseeker’s Allowance Regulations 2016 (weekly amounts
 
 ## PART 5 — STATE PENSION CREDIT
 
-### 29. State pension credit[^key-9ef5cbd483354a6c84f14fb762cd59b0][^key-9ef5cbd483354a6c84f14fb762cd59b0]
+### 29. State pension credit[^c-9ef5cbd483354a6c84f14fb762cd59b0][^c-9ef5cbd483354a6c84f14fb762cd59b0]
 
 (1) The sums specified in the State Pension Credit Regulations shall be the sums set out in this Article, and unless stated otherwise, a reference in this Article to a numbered regulation or Schedule is a reference to the regulation of, or Schedule to, the State Pension Credit Regulations bearing that number.
 
@@ -516,7 +516,7 @@ In regulation 49 of the Jobseeker’s Allowance Regulations 2016 (weekly amounts
 
 ## PART 6 — EMPLOYMENT AND SUPPORT ALLOWANCE
 
-### 30. Applicable amounts for the Employment and Support Allowance Regulations 2008[^key-a6de3084ebea02f9ef3562bed7ced108][^key-a6de3084ebea02f9ef3562bed7ced108]
+### 30. Applicable amounts for the Employment and Support Allowance Regulations 2008[^c-a6de3084ebea02f9ef3562bed7ced108][^c-a6de3084ebea02f9ef3562bed7ced108]
 
 (1) The sums relevant to the calculation of an applicable amount as specified in the Employment and Support Allowance Regulations 2008 shall be the sums set out in this Article and Schedules 11 and 12 to this Order; and unless stated otherwise, a reference in this Article to a numbered Schedule is a reference to the Schedule to the Employment and Support Allowance Regulations 2008 bearing that number.
 
@@ -552,7 +552,7 @@ In regulation 49 of the Jobseeker’s Allowance Regulations 2016 (weekly amounts
   - (iv) in head (d) for “£348.00”, “£463.00” and “£101.35” substitute “£365.00”, “£485.00” and “£105.20” respectively, and
   - (v) in head (e) for “£463.00”, “£577.00” and “£115.45” substitute “£485.00”, “£605.00” and “£119.85” respectively.
 
-### 31. Prescribed amounts for the Employment and Support Allowance Regulations 2016[^key-79c014b66d0f15c2f2fd9432d7591175][^key-79c014b66d0f15c2f2fd9432d7591175]
+### 31. Prescribed amounts for the Employment and Support Allowance Regulations 2016[^c-79c014b66d0f15c2f2fd9432d7591175][^c-79c014b66d0f15c2f2fd9432d7591175]
 
 (1) In regulation 62 of the Employment and Support Allowance Regulations 2016[^f00089] (prescribed amounts)—
 
@@ -572,7 +572,7 @@ In regulation 49 of the Jobseeker’s Allowance Regulations 2016 (weekly amounts
 
 ## PART 7 — UNIVERSAL CREDIT
 
-### 32. Universal credit[^key-7ee1c5a39020b5a1cfc19f01b54072d4][^key-7ee1c5a39020b5a1cfc19f01b54072d4]
+### 32. Universal credit[^c-7ee1c5a39020b5a1cfc19f01b54072d4][^c-7ee1c5a39020b5a1cfc19f01b54072d4]
 
 (1) In the table in regulation 23 of the Universal Credit Regulations[^f00092] (deduction of income and work allowance)—
 
@@ -583,7 +583,7 @@ In regulation 49 of the Jobseeker’s Allowance Regulations 2016 (weekly amounts
 
 (3) In paragraph 13(1) of Schedule 4 to the Universal Credit Regulations[^f00093] (amount of housing cost contributions) for “£93.02” substitute “£96.55”.
 
-### 33. Amendment of the Universal Credit (Transitional Provisions) Regulations[^key-30b0bef8fda0f09f232735d1a1facbd5][^key-30b0bef8fda0f09f232735d1a1facbd5]
+### 33. Amendment of the Universal Credit (Transitional Provisions) Regulations[^c-30b0bef8fda0f09f232735d1a1facbd5][^c-30b0bef8fda0f09f232735d1a1facbd5]
 
 In the Universal Credit (Transitional Provisions) Regulations—
 
@@ -600,7 +600,7 @@ In the Universal Credit (Transitional Provisions) Regulations—
 
 ## PART 8 — REVOCATION
 
-### 34. Revocation[^key-2bea5c1d655c6bd5792b00f544860c3c]
+### 34. Revocation[^c-2bea5c1d655c6bd5792b00f544860c3c]
 
 The Social Security Benefits Up-rating Order (Northern Ireland) 2025[^f00096] is revoked.
 
@@ -612,7 +612,7 @@ Cherrie Arnold
 
 A senior officer of the Department for Communities
 
-## SCHEDULE 1 — Provisions of Schedule 4 to the Contributions and Benefits Act as amended by this Order[^key-6722c4928efed03e6973be609b12e7dc][^key-65d032e351e72a02aac00036477d45cb]
+## SCHEDULE 1 — Provisions of Schedule 4 to the Contributions and Benefits Act as amended by this Order[^c-6722c4928efed03e6973be609b12e7dc][^c-65d032e351e72a02aac00036477d45cb]
 
 Article 3(1)
 
@@ -726,7 +726,7 @@ Article 3(1)
 
 [^f00102]
 
-## SCHEDULE 2 — Part I of Schedule 2 to the Income Support Regulations as amended by this Order[^key-874b3d9d3623f05b3ff33f23c8239eec]
+## SCHEDULE 2 — Part I of Schedule 2 to the Income Support Regulations as amended by this Order[^c-874b3d9d3623f05b3ff33f23c8239eec]
 
 Article 20(3)
 
@@ -777,7 +777,7 @@ Article 20(3)
 
 [^f00103][^f00104]
 
-## SCHEDULE 3 — Part IV of Schedule 2 to the Income Support Regulations as amended by this Order[^key-2b41e7700190ea68a4e8dda1378e0f71]
+## SCHEDULE 3 — Part IV of Schedule 2 to the Income Support Regulations as amended by this Order[^c-2b41e7700190ea68a4e8dda1378e0f71]
 
 Article 20(5)
 
@@ -814,7 +814,7 @@ Article 20(5)
 
 [^f00105][^f00106][^f00107][^f00108][^f00109][^f00110]
 
-## SCHEDULE 4 — Part I of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^key-fcce37a79f5f0e3e8c0c8ba9289d106f][^key-1e12e0de0c90e4f871c54e0097a6e2f7]
+## SCHEDULE 4 — Part I of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^c-fcce37a79f5f0e3e8c0c8ba9289d106f][^c-1e12e0de0c90e4f871c54e0097a6e2f7]
 
 Article 23(5)
 
@@ -845,7 +845,7 @@ Article 23(5)
 
 [^f00111]
 
-## SCHEDULE 5 — Part IV of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^key-cbe566ecabcd971961953b77a8bfa82e][^key-8e28deefcae154149458f6745076f974]
+## SCHEDULE 5 — Part IV of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^c-cbe566ecabcd971961953b77a8bfa82e][^c-8e28deefcae154149458f6745076f974]
 
 Article 23(7)
 
@@ -878,7 +878,7 @@ Article 23(7)
 
 [^f00112][^f00113]
 
-## SCHEDULE 6 — Paragraph 1 of Part I of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^key-cedcf911876af614a27c0c6e9716174b][^key-37bcbae2b669401584c84e5e1700f72e]
+## SCHEDULE 6 — Paragraph 1 of Part I of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^c-cedcf911876af614a27c0c6e9716174b][^c-37bcbae2b669401584c84e5e1700f72e]
 
 Article 24(5)(a)
 
@@ -907,7 +907,7 @@ Article 24(5)(a)
 </tbody>
 </table>
 
-## SCHEDULE 7 — Part IV of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^key-cb82e2f650928adbd7f4b52593275bc1][^key-94dc3dca01cd3072d0eeb82fb3976bd9]
+## SCHEDULE 7 — Part IV of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^c-cb82e2f650928adbd7f4b52593275bc1][^c-94dc3dca01cd3072d0eeb82fb3976bd9]
 
 Article 24(7)
 
@@ -931,7 +931,7 @@ Article 24(7)
 
 [^f00115]
 
-## SCHEDULE 8 — Part I of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^key-892ca1cea4612e74164ce2740fb8126a]
+## SCHEDULE 8 — Part I of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^c-892ca1cea4612e74164ce2740fb8126a]
 
 Article 26(3)(a)
 
@@ -998,7 +998,7 @@ Article 26(3)(a)
 </tbody>
 </table>
 
-## SCHEDULE 9 — Part IV of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^key-48b2ed7d8b850defc7f517aa8a18ca14]
+## SCHEDULE 9 — Part IV of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^c-48b2ed7d8b850defc7f517aa8a18ca14]
 
 Article 26(5)
 
@@ -1040,7 +1040,7 @@ Article 26(5)
 
 [^f00117][^f00118][^f00119][^f00120][^f00121]
 
-## SCHEDULE 10 — Part IVB of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^key-97cb4095e3cb894447550150d8fe80d8]
+## SCHEDULE 10 — Part IVB of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^c-97cb4095e3cb894447550150d8fe80d8]
 
 Article 26(6)
 
@@ -1062,7 +1062,7 @@ Article 26(6)
 </tbody>
 </table>
 
-## SCHEDULE 11 — Part 1 of Schedule 4 to the Employment and Support Allowance Regulations 2008 as amended by this Order[^key-490e1040e2959d8e6a3c31a42921c4a3]
+## SCHEDULE 11 — Part 1 of Schedule 4 to the Employment and Support Allowance Regulations 2008 as amended by this Order[^c-490e1040e2959d8e6a3c31a42921c4a3]
 
 Article 30(1), (2) and (3)
 
@@ -1108,7 +1108,7 @@ Article 30(1), (2) and (3)
 </tbody>
 </table>
 
-## SCHEDULE 12 — Provisions of Part 3 of Schedule 4 to the Employment and Support Allowance Regulations 2008 as amended by this Order[^key-2a86894f59a97ad47258141567cc8947]
+## SCHEDULE 12 — Provisions of Part 3 of Schedule 4 to the Employment and Support Allowance Regulations 2008 as amended by this Order[^c-2a86894f59a97ad47258141567cc8947]
 
 Article 30(1), (4) and (5)
 
@@ -1157,7 +1157,7 @@ Article 30(1), (4) and (5)
 
 [^f00125]
 
-## SCHEDULE 13 — Amounts of certain elements specified in the table in regulation 38 of the Universal Credit Regulations as amended by this Order[^key-0c2286e1209d01861976e18fb80002b7][^key-0c2286e1209d01861976e18fb80002b7]
+## SCHEDULE 13 — Amounts of certain elements specified in the table in regulation 38 of the Universal Credit Regulations as amended by this Order[^c-0c2286e1209d01861976e18fb80002b7][^c-0c2286e1209d01861976e18fb80002b7]
 
 Article 32(2)
 
@@ -1273,13 +1273,13 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00004]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5)
 
-[^key-2e763e34a42ff691b7160b4f7cb33aad]: Commencement: Art. 1 in operation at 1.4.2026, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/a)
+[^c-2e763e34a42ff691b7160b4f7cb33aad]: Commencement: Art. 1 in operation at 1.4.2026, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/a)
 
 [^f00005]: Footnote: Section 35A was inserted by Article 50(3) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and amended by regulation 2(4) of [S.R. 2014 No. 102](https://www.legislation.gov.uk/nisr/2014/102) and subsection (1) was substituted by section 4(1)(a) of the Social Security Act (Northern Ireland) [2002 (c. 10 (N.I.))](https://www.legislation.gov.uk/nia/2002/10)
 
 [^f00006]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-168d10caa85fcd5bce38ff532963262e]: Commencement: Art. 2 in operation at 1.4.2026, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/a)
+[^c-168d10caa85fcd5bce38ff532963262e]: Commencement: Art. 2 in operation at 1.4.2026, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/a)
 
 [^f00007]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
@@ -1317,13 +1317,13 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00024]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8b62951bad102a60ed4bed8a35b2810a]: Commencement: Art. 3 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/b)(i)(2)(3)(a)
+[^c-8b62951bad102a60ed4bed8a35b2810a]: Commencement: Art. 3 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/b)(i)(2)(3)(a)
 
-[^key-1a1123787bfdbc5338fc03678aabd764]: Commencement: Art. 3 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/b)(ii)(2)(3)(a)
+[^c-1a1123787bfdbc5338fc03678aabd764]: Commencement: Art. 3 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/b)(ii)(2)(3)(a)
 
 [^f00025]: Footnote: Part V was amended by paragraph 41 of Schedule 1 to the Child Benefit Act [2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6) and Article 71 of the Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006))
 
-[^key-acc14a3198ab829b6d66eb25f99e3774]: Commencement: Art. 4 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)(3)(a)
+[^c-acc14a3198ab829b6d66eb25f99e3774]: Commencement: Art. 4 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)(3)(a)
 
 [^f00026]: Footnote: Section 44(4) was substituted by Article 64 of the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and amended by Article 4(3) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
@@ -1339,31 +1339,31 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00032]: Footnote: Schedule 5A was inserted by paragraph 14 of Schedule 9 to the Pensions (Northern Ireland) Order 2005
 
-[^key-1a6cc13b2ec7b060224c119e304e9cdb]: Commencement: Art. 5 in operation at 6.4.2026 (at 00.01), see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/d)(2)(3)(a)
+[^c-1a6cc13b2ec7b060224c119e304e9cdb]: Commencement: Art. 5 in operation at 6.4.2026 (at 00.01), see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/d)(2)(3)(a)
 
 [^f00033]: Footnote: Section 13(2) was amended by paragraph 5(b) of Schedule 1 to [S.R. 2005 No. 433](https://www.legislation.gov.uk/nisr/2005/433), regulation 68(3)(a) and (b) of [S.I. 2019/1514](https://www.legislation.gov.uk/uksi/2019/1514) and regulation 40(2) of [S.I. 2020/1143](https://www.legislation.gov.uk/uksi/2020/1143)
 
 [^f00034]: Footnote: *See* section 132(4) of the Social Security Administration (Northern Ireland) Act 1992 as amended by paragraph 41(c) of Schedule 7 to the Pension Schemes (Northern Ireland) Act 1993; *see also*[S.R. 2026 No. 51](https://www.legislation.gov.uk/nisr/2026/51)
 
-[^key-5e229b977476d48e57f93cd52ed3400c]: Commencement: Art. 6 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)(3)(a)
+[^c-5e229b977476d48e57f93cd52ed3400c]: Commencement: Art. 6 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)(3)(a)
 
 [^f00035]: Footnote: [S.R. 2015 No. 315](https://www.legislation.gov.uk/nisr/2015/315); regulation 1A was inserted by regulation 2 of [S.R. 2016 No. 88](https://www.legislation.gov.uk/nisr/2016/88) and amended by Article 6(2) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-f651c597383ae9fd7f946a8f257fa8e3]: Commencement: Art. 7 in operation at 1.4.2026, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/a)
+[^c-f651c597383ae9fd7f946a8f257fa8e3]: Commencement: Art. 7 in operation at 1.4.2026, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/a)
 
 [^f00036]: Footnote: Section 47(1) was amended by paragraph 13 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)); *see also* regulation 23 of [S.R. 1995 No. 35](https://www.legislation.gov.uk/nisr/1995/35) and section 48C was inserted by paragraph 3(1) of Schedule 2 to the Pensions (Northern Ireland) Order 1995
 
-[^key-da925efe29f180b86be0066ede9fc3a8]: Commencement: Art. 8 in operation at 6.4.2026 (at 00.01), see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/d)
+[^c-da925efe29f180b86be0066ede9fc3a8]: Commencement: Art. 8 in operation at 6.4.2026 (at 00.01), see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/d)
 
 [^f00037]: Footnote: Section 153(1) was amended by Article 8 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-3c55ef9f5219610080068be7ef85b885]: Commencement: Art. 9 in operation at 5.4.2026 for specified purposes, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/e)(2)
+[^c-3c55ef9f5219610080068be7ef85b885]: Commencement: Art. 9 in operation at 5.4.2026 for specified purposes, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/e)(2)
 
-[^key-acd7b8dcc2f43daa7c746994bb8e9ed3]: Commencement: Art. 9 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/e)(2)
+[^c-acd7b8dcc2f43daa7c746994bb8e9ed3]: Commencement: Art. 9 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/e)(2)
 
 [^f00038]: Footnote: [S.R. 1987 No. 30](https://www.legislation.gov.uk/nisr/1987/30); relevant amending Rules are [S.R. 2002 No. 354](https://www.legislation.gov.uk/nisr/2002/354) and [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-6f28b223a54ba45d59fba046accb64fe]: Commencement: Art. 10 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)
+[^c-6f28b223a54ba45d59fba046accb64fe]: Commencement: Art. 10 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)
 
 [^f00039]: Footnote: [S.R. 2002 No. 380](https://www.legislation.gov.uk/nisr/2002/380); relevant amending Rule is [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
@@ -1371,7 +1371,7 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00041]: Footnote: [S.R. 2023 No. 155](https://www.legislation.gov.uk/nisr/2023/155); relevant amending Rule is [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-c0fd1dddbeb9d68fa22d0b6531e88df1]: Commencement: Art. 11 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)(3)(a)
+[^c-c0fd1dddbeb9d68fa22d0b6531e88df1]: Commencement: Art. 11 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)(3)(a)
 
 [^f00042]: Footnote: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6); sections 35 and 36 were repealed by the Social Security (Consequential Provisions) Act [1975 (c. 18)](https://www.legislation.gov.uk/ukpga/1975/18) but are continued in force by regulation 2 of [S.R. 1978 No. 105](https://www.legislation.gov.uk/nisr/1978/105); *see also* Article 11 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
@@ -1379,39 +1379,39 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00044]: Footnote: [S.R. 2005 No. 121](https://www.legislation.gov.uk/nisr/2005/121); relevant amending Rules are [S.R. 2005 No. 541](https://www.legislation.gov.uk/nisr/2005/541), [S.R. 2006 No. 104](https://www.legislation.gov.uk/nisr/2006/104), [S.R. 2017 No.57](https://www.legislation.gov.uk/nisr/2017/57) and [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-c28fb5894b05de520861d87692cae048]: Commencement: Art. 12 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)(3)(a)
+[^c-c28fb5894b05de520861d87692cae048]: Commencement: Art. 12 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)(3)(a)
 
 [^f00045]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243); regulation 11(3) was amended by regulation 2(4) of [S.R. 1987 No. 404](https://www.legislation.gov.uk/nisr/1987/404), Article 5(5) of [S.R. 2015 No. 411](https://www.legislation.gov.uk/nisr/2015/411) and Article 12 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-df139024ac3db20cc86b4f6587c6c15c]: Commencement: Art. 13 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)(3)(a)
+[^c-df139024ac3db20cc86b4f6587c6c15c]: Commencement: Art. 13 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)(3)(a)
 
 [^f00046]: Footnote: [S.R. 2010 No. 62](https://www.legislation.gov.uk/nisr/2010/62); regulation 2A was inserted by Article 26(4) of [S.R. 2015 No. 411](https://www.legislation.gov.uk/nisr/2015/411) and amended by Article 13 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-2ecbbe23e725e7cff6b1438bba964ecd]: Commencement: Art. 14 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)
+[^c-2ecbbe23e725e7cff6b1438bba964ecd]: Commencement: Art. 14 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)
 
 [^f00047]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); regulation 4 was amended by regulation 2(5) of [S.R. 1993 No. 340](https://www.legislation.gov.uk/nisr/1993/340) and Article 14 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-dbe788899e5d17bc0c59dcd63516baeb]: Commencement: Art. 15 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)
+[^c-dbe788899e5d17bc0c59dcd63516baeb]: Commencement: Art. 15 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)
 
 [^f00048]: Footnote: [S.R. 2016 No. 217](https://www.legislation.gov.uk/nisr/2016/217); regulation 24 was amended by Article 15 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-0e1389c4ab589097fc86bebfe2d09804]: Commencement: Art. 16 in operation at 9.4.2026, see [art. 1(1)(f)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/f)(2)
+[^c-0e1389c4ab589097fc86bebfe2d09804]: Commencement: Art. 16 in operation at 9.4.2026, see [art. 1(1)(f)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/f)(2)
 
 [^f00049]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); regulation 9(2) was amended by Article 16 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-fb36fd62a396fa369690f2cafc3e464c]: Commencement: Art. 17 in operation at 9.4.2026, see [art. 1(1)(f)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/f)(2)
+[^c-fb36fd62a396fa369690f2cafc3e464c]: Commencement: Art. 17 in operation at 9.4.2026, see [art. 1(1)(f)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/f)(2)
 
 [^f00050]: Footnote: [S.R. 1995 No. 35](https://www.legislation.gov.uk/nisr/1995/35); regulation 18(2) was amended by Article 17 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-3bebe5ecdc1b5d5b498f8a09f8f5882b]: Commencement: Art. 18 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)
+[^c-3bebe5ecdc1b5d5b498f8a09f8f5882b]: Commencement: Art. 18 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)(2)
 
 [^f00051]: Footnote: [S.R. 2010 No. 407](https://www.legislation.gov.uk/nisr/2010/407); regulations 2 and 3 were amended by Article 18 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-d3ce304cc820e73b3b3863e467b98af5]: Commencement: Art. 19 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)
+[^c-d3ce304cc820e73b3b3863e467b98af5]: Commencement: Art. 19 in operation at 6.4.2026, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c)
 
 [^f00052]: Footnote: [S.R. 2019 No. 181](https://www.legislation.gov.uk/nisr/2019/181); regulation 3 was amended by Article 9(3) of [S.I. 2023/134](https://www.legislation.gov.uk/uksi/2023/134) and Article 19 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-f631a1a6d7149dfddf5f0cb90922da0a]: Commencement: Art. 20 comes into force in accordance with art. 1(1)(g)
+[^c-f631a1a6d7149dfddf5f0cb90922da0a]: Commencement: Art. 20 comes into force in accordance with art. 1(1)(g)
 
 [^f00053]: Footnote: *See* [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) which omits provisions relating to children and young persons and makes transitional arrangements in connection with the introduction of child tax credit
 
@@ -1425,15 +1425,15 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00058]: Footnote: Schedule 3 was substituted by Schedule 1 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and paragraph 18(1) and (2) was amended by regulation 2(3)(j)(i) and (ii) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434), regulation 3 of [S.R. 1997 No. 3](https://www.legislation.gov.uk/nisr/1997/3), Article 7(2) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), regulation 4(b)(i) of [S.R. 2004 No. 394](https://www.legislation.gov.uk/nisr/2004/394) and Article 20(6) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-de4ec9292b30aac1372ac4cc22581bfb]: Commencement: Art. 21 comes into force in accordance with art. 1(1)(g)
+[^c-de4ec9292b30aac1372ac4cc22581bfb]: Commencement: Art. 21 comes into force in accordance with art. 1(1)(g)
 
 [^f00059]: Footnote: [S.R. 1987 No. 460](https://www.legislation.gov.uk/nisr/1987/460); regulation 15 was amended by regulation 10 of [S.R. 1988 No. 132](https://www.legislation.gov.uk/nisr/1988/132), regulation 2(3) of [S.R. 1988 No. 153](https://www.legislation.gov.uk/nisr/1988/153), regulation 4 of [S.R. 1989 No. 371](https://www.legislation.gov.uk/nisr/1989/371), regulation 3 of [S.R. 1991 No. 341](https://www.legislation.gov.uk/nisr/1991/341) and Article 21 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-9c2dfb7a9a3d9798c261a8b824fb8bef]: Commencement: Art. 22 comes into force in accordance with art. 1(1)(g)
+[^c-9c2dfb7a9a3d9798c261a8b824fb8bef]: Commencement: Art. 22 comes into force in accordance with art. 1(1)(g)
 
-[^key-ddaf5f567081febf180128d22e15a549]: Commencement: Art. 23 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-ddaf5f567081febf180128d22e15a549]: Commencement: Art. 23 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
-[^key-e97bbbd6428567f70d88ca2ca889c6e1]: Commencement: Art. 23 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-e97bbbd6428567f70d88ca2ca889c6e1]: Commencement: Art. 23 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
 [^f00060]: Footnote: Regulation 72(1) and (2) was amended by Article 20(3) of [S.R. 2012 No. 116](https://www.legislation.gov.uk/nisr/2012/116) and Article 23(3) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
@@ -1447,9 +1447,9 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00065]: Footnote: Paragraph 58 was amended by Article 23(10) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-906ec0198d7fa64b08779a1541584230]: Commencement: Art. 24 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-906ec0198d7fa64b08779a1541584230]: Commencement: Art. 24 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
-[^key-6711d1487bf721b289a6e4f82ad58174]: Commencement: Art. 24 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-6711d1487bf721b289a6e4f82ad58174]: Commencement: Art. 24 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
 [^f00066]: Footnote: Regulation 53(1) and (2) was amended by Article 24(3) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
@@ -1463,11 +1463,11 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00071]: Footnote: Paragraph 22 was amended by regulation 6(6)(d) of [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498) and Article 24(9) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-ae27712d7deff86c27f96332af8bf8bb]: Commencement: Art. 25 comes into force in accordance with art. 1(1)(i)(3)(b)
+[^c-ae27712d7deff86c27f96332af8bf8bb]: Commencement: Art. 25 comes into force in accordance with art. 1(1)(i)(3)(b)
 
 [^f00072]: Footnote: Regulation 79(1) was amended by regulation 4(9) of [S.R. 2017 No. 116](https://www.legislation.gov.uk/nisr/2017/116) and Article 25 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-5481453c236b192842dafb2c47c430ba]: Commencement: Art. 26 comes into force in accordance with art. 1(1)(i)
+[^c-5481453c236b192842dafb2c47c430ba]: Commencement: Art. 26 comes into force in accordance with art. 1(1)(i)
 
 [^f00073]: Footnote: *See* [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) which omits provisions relating to children and young persons and makes transitional arrangements in connection with the introduction of child tax credit
 
@@ -1481,13 +1481,13 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00078]: Footnote: Sub-paragraphs (1) and (2) were amended by Article 9(5)(l) of [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428), regulation 5(b)(i) of [S.R. 2004 No. 394](https://www.legislation.gov.uk/nisr/2004/394), Article 25(8) of [S.R. 2019 No. 58](https://www.legislation.gov.uk/nisr/2019/58) and Article 26(7) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-dc51694565943c71ff4490407c8940fc]: Commencement: Art. 27 in operation at 6.4.2026, see [art. 1(1)(i)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/i)
+[^c-dc51694565943c71ff4490407c8940fc]: Commencement: Art. 27 in operation at 6.4.2026, see [art. 1(1)(i)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/i)
 
 [^f00079]: Footnote: Regulation 170 was amended by Article 27 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-1c3a3d4cbcd215e2650227457ce55df2]: Commencement: Art. 28 comes into force in accordance with art. 1(1)(j)(2)
+[^c-1c3a3d4cbcd215e2650227457ce55df2]: Commencement: Art. 28 comes into force in accordance with art. 1(1)(j)(2)
 
-[^key-9ef5cbd483354a6c84f14fb762cd59b0]: Commencement: Art. 29 comes into force in accordance with art. 1(1)(k)
+[^c-9ef5cbd483354a6c84f14fb762cd59b0]: Commencement: Art. 29 comes into force in accordance with art. 1(1)(k)
 
 [^f00080]: Footnote: Regulation 6 was amended by regulation 31(3) of [S.R. 2016 No. 236](https://www.legislation.gov.uk/nisr/2016/236), regulation 2(2) of [S.R. 2018 No. 135](https://www.legislation.gov.uk/nisr/2018/135), Article 38(3) of [S.I. 2023/1218](https://www.legislation.gov.uk/uksi/2023/1218), regulation 3(3) of [S.R. 2024 No. 119](https://www.legislation.gov.uk/nisr/2024/119) and Article 29(2) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
@@ -1501,7 +1501,7 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00085]: Footnote: Paragraph 1(5) and (7) was amended by Article 29(7) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-a6de3084ebea02f9ef3562bed7ced108]: Commencement: Art. 30 comes into force in accordance with art. 1(1)(l)
+[^c-a6de3084ebea02f9ef3562bed7ced108]: Commencement: Art. 30 comes into force in accordance with art. 1(1)(l)
 
 [^f00086]: Footnote: [S.R. 2017 No. 51](https://www.legislation.gov.uk/nisr/2017/51): Paragraph 4 was amended by regulation 8(b) of [S.R. 2017 No. 148](https://www.legislation.gov.uk/nisr/2017/148)
 
@@ -1509,7 +1509,7 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00088]: Footnote: Paragraph 19(1) and (2) was amended by Article 30(7) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-79c014b66d0f15c2f2fd9432d7591175]: Commencement: Art. 31 comes into force in accordance with art. 1(1)(m)(2)
+[^c-79c014b66d0f15c2f2fd9432d7591175]: Commencement: Art. 31 comes into force in accordance with art. 1(1)(m)(2)
 
 [^f00089]: Footnote: Regulation 62(2) was substituted by regulation 3(4)(b) of [S.R. 2017 No. 51](https://www.legislation.gov.uk/nisr/2017/51) (but that amendment does not apply where any of the circumstances in paragraphs 2 to 7 of Schedule 2 to those Regulations apply) and was amended by Article 31 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
@@ -1517,25 +1517,25 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00091]: Footnote: [S.R. 2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) (c. 11); which modifies the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 so that they refer to a modified form of the Employment and Support Allowance Regulations (Northern Ireland) 2016 for the purpose of the conversion of awards of incapacity benefit and severe disablement allowance to employment and support allowance under the Employment and Support Allowance Regulations (Northern Ireland) 2016
 
-[^key-7ee1c5a39020b5a1cfc19f01b54072d4]: Commencement: Art. 32 comes into force in accordance with art. 1(1)(n)
+[^c-7ee1c5a39020b5a1cfc19f01b54072d4]: Commencement: Art. 32 comes into force in accordance with art. 1(1)(n)
 
 [^f00092]: Footnote: Regulation 23 was amended by regulations 2(1) and 3(1) of [S.R. 2021 No. 302](https://www.legislation.gov.uk/nisr/2021/302) and Article 32(1) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
 [^f00093]: Footnote: Paragraph 13(1) was amended by Article 32(3) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-30b0bef8fda0f09f232735d1a1facbd5]: Commencement: Art. 33 comes into force in accordance with art. 1(1)(n)
+[^c-30b0bef8fda0f09f232735d1a1facbd5]: Commencement: Art. 33 comes into force in accordance with art. 1(1)(n)
 
 [^f00094]: Footnote: Schedule 2 was inserted by regulation 2(10) of [S.R. 2019 No. 152](https://www.legislation.gov.uk/nisr/2019/152), amended by regulation 2 of [S.R. 2021 No. 2](https://www.legislation.gov.uk/nisr/2021/2), regulation 4(7)(a) of [S.R. 2023 No. 93](https://www.legislation.gov.uk/nisr/2023/93), Article 52 of [S.I. 2023/1218](https://www.legislation.gov.uk/uksi/2023/1218) and Article 33 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
 [^f00095]: Footnote: Schedule 3 was inserted by regulation 2(3) of [S.R. 2024 No. 5](https://www.legislation.gov.uk/nisr/2024/5) and amended by Article 33(b) of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-2bea5c1d655c6bd5792b00f544860c3c]: Commencement: [Art. 34](https://www.legislation.gov.uk/nisr/2026/59/article/34) in operation at 5.5.2026, see [art. 1(1)(o)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/o)
+[^c-2bea5c1d655c6bd5792b00f544860c3c]: Commencement: [Art. 34](https://www.legislation.gov.uk/nisr/2026/59/article/34) in operation at 5.5.2026, see [art. 1(1)(o)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/o)
 
 [^f00096]: Footnote: [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-6722c4928efed03e6973be609b12e7dc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2026/59/schedule/1) in operation at 1.4.2026 for specified purposes, see [art. 1(1)(b)(i)(2)(3)(a)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/b/i/2/3/a)
+[^c-6722c4928efed03e6973be609b12e7dc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2026/59/schedule/1) in operation at 1.4.2026 for specified purposes, see [art. 1(1)(b)(i)(2)(3)(a)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/b/i/2/3/a)
 
-[^key-65d032e351e72a02aac00036477d45cb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2026/59/schedule/1) in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(b)(ii)(2)(3)(a)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/b/ii/2/3/a)
+[^c-65d032e351e72a02aac00036477d45cb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2026/59/schedule/1) in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(b)(ii)(2)(3)(a)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/b/ii/2/3/a)
 
 [^f00097]: Footnote: Paragraphs 2 and 2A were substituted for paragraph 2 by Article 4(2) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
 
@@ -1549,13 +1549,13 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00102]: Footnote: Part V was amended by paragraph 41 of Schedule 1 to the Child Benefit Act [2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6) and Article 71 to the Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)). Widow’s and widower’s pension are payable in relation only to deaths occurring before 11th April 1988 (paragraph 14(1) of Schedule 7 to the Contributions and Benefits Act)
 
-[^key-874b3d9d3623f05b3ff33f23c8239eec]: Commencement: Sch. 2 comes into force in accordance with art. 1(1)(g)
+[^c-874b3d9d3623f05b3ff33f23c8239eec]: Commencement: Sch. 2 comes into force in accordance with art. 1(1)(g)
 
 [^f00103]: Footnote: Sub-paragraphs (1) and (2) were substituted by regulation 2 of [S.R. 1990 No. 213](https://www.legislation.gov.uk/nisr/1990/213) and amended by paragraph 2 of Schedule 2 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and regulation 2(7)(a) of [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154)
 
 [^f00104]: Footnote: Sub-paragraph (3) was substituted by paragraph 3 of Schedule 2 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and amended by regulation 2(9) of [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69)
 
-[^key-2b41e7700190ea68a4e8dda1378e0f71]: Commencement: Sch. 3 comes into force in accordance with art. 1(1)(g)
+[^c-2b41e7700190ea68a4e8dda1378e0f71]: Commencement: Sch. 3 comes into force in accordance with art. 1(1)(g)
 
 [^f00105]: Footnote: Sub-paragraphs (2), (2A) and (3) were substituted by regulation 24(5)(g) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and amended by Schedule 3 to [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
@@ -1569,37 +1569,37 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00110]: Footnote: Sub-paragraph (8) was added by regulation 2(c)(iii) of [S.R. 2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367); s*ee* [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) which omits provisions relating to children and young persons and makes transitional arrangements in connection with the introduction of child tax credit; *see also* regulation 4 of [S.R. 2017 No. 79](https://www.legislation.gov.uk/nisr/2017/79)
 
-[^key-fcce37a79f5f0e3e8c0c8ba9289d106f]: Commencement: Sch. 4 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-fcce37a79f5f0e3e8c0c8ba9289d106f]: Commencement: Sch. 4 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
-[^key-1e12e0de0c90e4f871c54e0097a6e2f7]: Commencement: Sch. 4 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-1e12e0de0c90e4f871c54e0097a6e2f7]: Commencement: Sch. 4 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
 [^f00111]: Footnote: Sub-paragraphs (1) to (3) were substituted by regulation 3(17)(a) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
 
-[^key-cbe566ecabcd971961953b77a8bfa82e]: Commencement: Sch. 5 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-cbe566ecabcd971961953b77a8bfa82e]: Commencement: Sch. 5 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
-[^key-8e28deefcae154149458f6745076f974]: Commencement: Sch. 5 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-8e28deefcae154149458f6745076f974]: Commencement: Sch. 5 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
 [^f00112]: Footnote: Sub-paragraph (6) was amended by regulation 34(10)(b) of [S.R. 2016 No. 236](https://www.legislation.gov.uk/nisr/2016/236) and Article 42(4)(d) of [S.I. 2023/1218](https://www.legislation.gov.uk/uksi/2023/1218)
 
 [^f00113]: Footnote: Sub-paragraph (9) was amended by regulation 4(7)(b) of [S.R. 2011 No. 136](https://www.legislation.gov.uk/nisr/2011/136)
 
-[^key-cedcf911876af614a27c0c6e9716174b]: Commencement: Sch. 6 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-cedcf911876af614a27c0c6e9716174b]: Commencement: Sch. 6 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
-[^key-37bcbae2b669401584c84e5e1700f72e]: Commencement: Sch. 6 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-37bcbae2b669401584c84e5e1700f72e]: Commencement: Sch. 6 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
 [^f00114]: Footnote: The Table in paragraph 1 was amended by regulation 7(7) of [S.R. 2017 No. 242](https://www.legislation.gov.uk/nisr/2017/242) and by Schedule 6 to [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
-[^key-cb82e2f650928adbd7f4b52593275bc1]: Commencement: Sch. 7 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-cb82e2f650928adbd7f4b52593275bc1]: Commencement: Sch. 7 in operation at 1.4.2026 for specified purposes, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
-[^key-94dc3dca01cd3072d0eeb82fb3976bd9]: Commencement: Sch. 7 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
+[^c-94dc3dca01cd3072d0eeb82fb3976bd9]: Commencement: Sch. 7 in operation at 6.4.2026 in so far as not already in force, see [art. 1(1)(h)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/h)
 
 [^f00115]: Footnote: Sub-paragraph (1) was amended by regulation 35(7)(b) of [S.R. 2016 No. 236](https://www.legislation.gov.uk/nisr/2016/236) and Article 43(4)(d) of [S.I. 2023/1218](https://www.legislation.gov.uk/uksi/2023/1218)
 
-[^key-892ca1cea4612e74164ce2740fb8126a]: Commencement: Sch. 8 comes into force in accordance with art. 1(1)(i)
+[^c-892ca1cea4612e74164ce2740fb8126a]: Commencement: Sch. 8 comes into force in accordance with art. 1(1)(i)
 
 [^f00116]: Footnote: Paragraph 1 was amended by regulation 16 of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356), paragraph 53(2) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350), paragraph 23(11)(a) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), regulation 3(8)(a) of [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154), regulation 4(13)(a) and (b) of [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112), regulation 19(24)(a) to (d) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and regulation 3 of [S.R. 2009 No. 261](https://www.legislation.gov.uk/nisr/2009/261)
 
-[^key-48b2ed7d8b850defc7f517aa8a18ca14]: Commencement: Sch. 9 comes into force in accordance with art. 1(1)(i)
+[^c-48b2ed7d8b850defc7f517aa8a18ca14]: Commencement: Sch. 9 comes into force in accordance with art. 1(1)(i)
 
 [^f00117]: Footnote: Sub-paragraph (2) was amended by regulation 5(5)(e) of [S.R. 2010 No. 103](https://www.legislation.gov.uk/nisr/2010/103)
 
@@ -1611,21 +1611,21 @@ Article 34 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00121]: Footnote: Sub-paragraph (9) was added by regulation 4(c)(iii) of [S.R. 2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367)
 
-[^key-97cb4095e3cb894447550150d8fe80d8]: Commencement: Sch. 10 comes into force in accordance with art. 1(1)(i)
+[^c-97cb4095e3cb894447550150d8fe80d8]: Commencement: Sch. 10 comes into force in accordance with art. 1(1)(i)
 
 [^f00122]: Footnote: Part IVB was inserted by paragraph 53(4) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350) and paragraph 20M was amended by regulation 4(c)(vi) of S.R. [2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367), regulation 2(7) of [S.R. 2001 No. 120](https://www.legislation.gov.uk/nisr/2001/120), paragraph 1 of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323), regulation 3(8)(l) of [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154), regulation 5(5)(j) of [S.R. 2010 No. 103](https://www.legislation.gov.uk/nisr/2010/103) and Article 34(9)(h) of [S.I. 2023/1218](https://www.legislation.gov.uk/uksi/2023/1218)
 
-[^key-490e1040e2959d8e6a3c31a42921c4a3]: Commencement: [Sch. 11](https://www.legislation.gov.uk/nisr/2026/59/schedule/11) comes into force in accordance with art. 1(1)(l)
+[^c-490e1040e2959d8e6a3c31a42921c4a3]: Commencement: [Sch. 11](https://www.legislation.gov.uk/nisr/2026/59/schedule/11) comes into force in accordance with art. 1(1)(l)
 
 [^f00123]: Footnote: Paragraph 1 was amended by regulation 3(29) of [S.R. 2008 No. 413](https://www.legislation.gov.uk/nisr/2008/413), regulation 8(15) of [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338), regulation 5(5)(a) of [S.R. 2011 No. 368](https://www.legislation.gov.uk/nisr/2011/368) and regulation 6(4) of [S.R. 2017 No. 148](https://www.legislation.gov.uk/nisr/2017/148)
 
-[^key-2a86894f59a97ad47258141567cc8947]: Commencement: Sch. 12 comes into force in accordance with art. 1(1)(n)
+[^c-2a86894f59a97ad47258141567cc8947]: Commencement: Sch. 12 comes into force in accordance with art. 1(1)(n)
 
 [^f00124]: Footnote: Paragraph 11(1) was amended by regulation 2(4)(b) of [S.R. 2017 No. 51](https://www.legislation.gov.uk/nisr/2017/51) and Schedule 12 of [S.R. 2025 No. 64](https://www.legislation.gov.uk/nisr/2025/64)
 
 [^f00125]: Footnote: For transitional and savings provisions applicable to paragraph 11(1) *see* Schedule 2 to [S.R. 2017 No. 51](https://www.legislation.gov.uk/nisr/2017/51)
 
-[^key-0c2286e1209d01861976e18fb80002b7]: Commencement: Sch. 13 comes into force in accordance with art. 1(1)(n)
+[^c-0c2286e1209d01861976e18fb80002b7]: Commencement: Sch. 13 comes into force in accordance with art. 1(1)(n)
 
 [^f00126]: Footnote: The amount for the first child or qualifying young person was abolished by Article 10(5)(b)(i) of the Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/nisi/2016/999)) subject to the saving in regulation 44 of [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226) inserted by regulation 3(3) of [S.R. 2017 No. 79](https://www.legislation.gov.uk/nisr/2017/79)
 

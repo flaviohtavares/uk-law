@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Power to keep apparatus in streets[^key-fa6ff195920c76476b86983a25d0da97]
+## 10. Power to keep apparatus in streets[^c-fa6ff195920c76476b86983a25d0da97]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa6ff195920c76476b86983a25d0da97]: Commencement: Art. 10 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-fa6ff195920c76476b86983a25d0da97]: Commencement: Art. 10 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
 [^f00031]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).

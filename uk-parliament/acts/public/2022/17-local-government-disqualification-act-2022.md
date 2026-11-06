@@ -37,7 +37,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Grounds of disqualification
 
-### 1. Members of local authorities in England etc[^key-070d2da155ef32744aa68d871ccef66f]
+### 1. Members of local authorities in England etc[^c-070d2da155ef32744aa68d871ccef66f]
 
 (1) In the Local Government Act 1972, after section 81 insert—
 
@@ -102,7 +102,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) after “(d)” insert “or section 81A”;
 - (b) for “or criminal conviction” substitute “, criminal conviction or sexual offences etc”.
 
-### 2. Mayors of combined authorities[^key-b3d5416e383fd443cf125eda8a16bae8]
+### 2. Mayors of combined authorities[^c-b3d5416e383fd443cf125eda8a16bae8]
 
 (1) The Local Democracy, Economic Development and Construction Act 2009 is amended in accordance with subsections (2) and (3).
 
@@ -153,7 +153,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) in paragraph 9(1)(b) of Schedule 1 (the Combined Authority Mayoral Elections Rules), after “9” insert “and 9A”;
 - (b) in paragraph 9(1)(b) of Schedule 3 (Combined Authority Mayoral Election (Combination of Polls) Rules), after “9” insert “and 9A”.
 
-### 3. The Mayor of London and London Assembly members[^key-4aabb84bdeb00aef32adef1d87e2783d]
+### 3. The Mayor of London and London Assembly members[^c-4aabb84bdeb00aef32adef1d87e2783d]
 
 (1) In the Greater London Authority Act 1999, after section 21 insert—
 
@@ -210,7 +210,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Supplementary and final provisions
 
-### 4. References to Channel Islands or Isle of Man legislation[^key-03425f2891acf9c5c82742d6aa3b6be8]
+### 4. References to Channel Islands or Isle of Man legislation[^c-03425f2891acf9c5c82742d6aa3b6be8]
 
 (1) The Secretary of State may by regulations make such amendments to any relevant provision as the Secretary of State considers appropriate in consequence of the amendment, repeal or re-enactment of any legislation of any of the Channel Islands or the Isle of Man which is for the time being specified in that provision.
 
@@ -224,7 +224,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-### 5. Transitional provision[^key-2733ee657f393477baf4380918044375]
+### 5. Transitional provision[^c-2733ee657f393477baf4380918044375]
 
 (1) The amendments made by this Act do not have the effect of disqualifying a person by reason of the person becoming subject to—
 
@@ -235,7 +235,7 @@ before the day on which this Act comes into force.
 
 (2) In subsection (1) “**relevant notification requirements**” and “**relevant order**” have the same meaning as in section 81A of the Local Government Act 1972, paragraph 9A of Schedule 5B to the Local Democracy, Economic Development and Construction Act 2009 and section 21A of the Greater London Authority Act 1999 as first enacted.
 
-### 6. Extent, commencement and short title[^key-56bb279577898183a353ed81552be55e]
+### 6. Extent, commencement and short title[^c-56bb279577898183a353ed81552be55e]
 
 (1) This Act extends to England and Wales only.
 
@@ -245,14 +245,14 @@ before the day on which this Act comes into force.
 
 ## Annotations
 
-[^key-070d2da155ef32744aa68d871ccef66f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/17/section/1) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)
+[^c-070d2da155ef32744aa68d871ccef66f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/17/section/1) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)
 
-[^key-b3d5416e383fd443cf125eda8a16bae8]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/17/section/2) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)
+[^c-b3d5416e383fd443cf125eda8a16bae8]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/17/section/2) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)
 
-[^key-4aabb84bdeb00aef32adef1d87e2783d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/17/section/3) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)
+[^c-4aabb84bdeb00aef32adef1d87e2783d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/17/section/3) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)
 
-[^key-03425f2891acf9c5c82742d6aa3b6be8]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/17/section/4) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)
+[^c-03425f2891acf9c5c82742d6aa3b6be8]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/17/section/4) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)
 
-[^key-2733ee657f393477baf4380918044375]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)
+[^c-2733ee657f393477baf4380918044375]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)
 
-[^key-56bb279577898183a353ed81552be55e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/17/section/6) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)
+[^c-56bb279577898183a353ed81552be55e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/17/section/6) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2)

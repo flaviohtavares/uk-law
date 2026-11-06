@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Marketing of unpacketed seed[^key-30740c6c2a4d5b5d45a31d1146f89652]
+## 18. Marketing of unpacketed seed[^c-30740c6c2a4d5b5d45a31d1146f89652]
 
 *Extent: S*
 
-[^key-28fd60651c917ac138e7e2ba27100cb1]... A person may sell any seed otherwise than in a package which is sealed, labelled, inscribed or otherwise dealt with in accordance with regulations 16 and 17 where–
+[^c-28fd60651c917ac138e7e2ba27100cb1]... A person may sell any seed otherwise than in a package which is sealed, labelled, inscribed or otherwise dealt with in accordance with regulations 16 and 17 where–
 
 - (a)
   - (i) in relation to species other than field peas and field beans the seed is sold in a quantity not exceeding 2 kilograms to the final consumer;
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30740c6c2a4d5b5d45a31d1146f89652]: Commencement: Reg. 18 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-30740c6c2a4d5b5d45a31d1146f89652]: Commencement: Reg. 18 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-28fd60651c917ac138e7e2ba27100cb1]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/ssi/2005/329/regulation/18) omitted (1.4.2007) by virtue of [The Seed (Scotland) (Amendments for Tests and Trials etc.) Regulations 2007 (S.S.I. 2007/224)](https://www.legislation.gov.uk/ssi/2007/224), [regs. 1](https://www.legislation.gov.uk/ssi/2007/224/regulation/1), [19](https://www.legislation.gov.uk/ssi/2007/224/regulation/19)
+[^c-28fd60651c917ac138e7e2ba27100cb1]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/ssi/2005/329/regulation/18) omitted (1.4.2007) by virtue of [The Seed (Scotland) (Amendments for Tests and Trials etc.) Regulations 2007 (S.S.I. 2007/224)](https://www.legislation.gov.uk/ssi/2007/224), [regs. 1](https://www.legislation.gov.uk/ssi/2007/224/regulation/1), [19](https://www.legislation.gov.uk/ssi/2007/224/regulation/19)

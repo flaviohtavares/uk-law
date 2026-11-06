@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.13. Content of notice of other hearsay[^key-24556687d7e129491d3a508d7a5e2fcb]
+## 48.13. Content of notice of other hearsay[^c-24556687d7e129491d3a508d7a5e2fcb]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24556687d7e129491d3a508d7a5e2fcb]: Commencement: [Rule 48.13](https://www.legislation.gov.uk/uksi/2025/909/rule/48.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-24556687d7e129491d3a508d7a5e2fcb]: Commencement: [Rule 48.13](https://www.legislation.gov.uk/uksi/2025/909/rule/48.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

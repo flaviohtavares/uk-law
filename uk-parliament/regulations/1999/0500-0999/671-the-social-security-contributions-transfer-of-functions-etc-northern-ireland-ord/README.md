@@ -48,7 +48,7 @@ Present
 
 The Queen’s most Excellent Majesty in Council
 
-Her Majesty, in exercise of the powers conferred upon Her by section 24 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-27c32be69355ecfe820c3a235015fd83][^key-9cd29933775dc517ad12ad43fc2afeb8]
+Her Majesty, in exercise of the powers conferred upon Her by section 24 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^c-27c32be69355ecfe820c3a235015fd83][^c-9cd29933775dc517ad12ad43fc2afeb8]
 
 ## Contents
 
@@ -72,7 +72,7 @@ Her Majesty, in exercise of the powers conferred upon Her by section 24 of the S
 - [Section 5 — Powers relating to enforcement](part-ii/section-5.md)
 - [Section 6 — Disclosure of information](part-ii/section-6.md)
 
-### PART III — DECISIONS AND APPEALS[^key-19b74b86c250a146a86cf720922270a8][^key-a90c5e0cde4aa8ce00e756a2eff37dd7][^M_C_b2c84bfd-5be2-4579-ad9d-112f1b1b17b6][^M_C_8259e7d9-f1db-4bda-cb00-1af7b47ab1cb][^key-e0899ff15fbf63c624a11d1d009aef5e][^key-c7bd39d14ce282be9d6900b1a194ce1e]
+### PART III — DECISIONS AND APPEALS[^c-19b74b86c250a146a86cf720922270a8][^c-a90c5e0cde4aa8ce00e756a2eff37dd7][^M_C_b2c84bfd-5be2-4579-ad9d-112f1b1b17b6][^M_C_8259e7d9-f1db-4bda-cb00-1af7b47ab1cb][^c-e0899ff15fbf63c624a11d1d009aef5e][^c-c7bd39d14ce282be9d6900b1a194ce1e]
 
 *Extent: N.I.*
 
@@ -134,18 +134,18 @@ Part IV of the Order deals with miscellaneous and supplemental issues including 
 
 [^f00001]: Footnote: [1999 c. 2](https://www.legislation.gov.uk/ukpga/1999/2).
 
-[^key-27c32be69355ecfe820c3a235015fd83]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/671) modified (1.6.2015) by [The Social Security (Contributions) (Republic of Chile) Order 2015 (S.I. 2015/828)](https://www.legislation.gov.uk/uksi/2015/828), [arts. 1](https://www.legislation.gov.uk/uksi/2015/828/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/828/article/2/b)
+[^c-27c32be69355ecfe820c3a235015fd83]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/671) modified (1.6.2015) by [The Social Security (Contributions) (Republic of Chile) Order 2015 (S.I. 2015/828)](https://www.legislation.gov.uk/uksi/2015/828), [arts. 1](https://www.legislation.gov.uk/uksi/2015/828/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/828/article/2/b)
 
-[^key-9cd29933775dc517ad12ad43fc2afeb8]: Modification: Order modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Ireland) Order 2019 (S.I. 2019/622)](https://www.legislation.gov.uk/uksi/2019/622), [arts. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1), [3](https://www.legislation.gov.uk/uksi/2019/622/article/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9cd29933775dc517ad12ad43fc2afeb8]: Modification: Order modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Ireland) Order 2019 (S.I. 2019/622)](https://www.legislation.gov.uk/uksi/2019/622), [arts. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1), [3](https://www.legislation.gov.uk/uksi/2019/622/article/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-19b74b86c250a146a86cf720922270a8]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1999/671/part/3) modified (22.3.2011) by [National Insurance Contributions Act 2011 (c. 3)](https://www.legislation.gov.uk/ukpga/2011/3), [ss. 8(6)(b)](https://www.legislation.gov.uk/ukpga/2011/3/section/8/6/b), [13(2)](https://www.legislation.gov.uk/ukpga/2011/3/section/13/2)
+[^c-19b74b86c250a146a86cf720922270a8]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1999/671/part/3) modified (22.3.2011) by [National Insurance Contributions Act 2011 (c. 3)](https://www.legislation.gov.uk/ukpga/2011/3), [ss. 8(6)(b)](https://www.legislation.gov.uk/ukpga/2011/3/section/8/6/b), [13(2)](https://www.legislation.gov.uk/ukpga/2011/3/section/13/2)
 
-[^key-a90c5e0cde4aa8ce00e756a2eff37dd7]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1999/671/part/3) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [art. 2](https://www.legislation.gov.uk/uksi/2023/1060/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1060/schedule)
+[^c-a90c5e0cde4aa8ce00e756a2eff37dd7]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1999/671/part/3) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [art. 2](https://www.legislation.gov.uk/uksi/2023/1060/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1060/schedule)
 
 [^M_C_b2c84bfd-5be2-4579-ad9d-112f1b1b17b6]: Modification: Pt. 3 modified (1.1.2021) by [The Social Security (Norway) Order 2020 (S.I. 2020/1597)](https://www.legislation.gov.uk/uksi/2020/1597), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2836/article/1), [2](https://www.legislation.gov.uk/uksi/2002/2836/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2836/schedule) (as amended 12.10.2023) by [S.I. 2023/1060](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/1))
 
 [^M_C_8259e7d9-f1db-4bda-cb00-1af7b47ab1cb]: Modification: Pt. 3 modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Switzerland) Order 2021 (S.I. 2021/1088)](https://www.legislation.gov.uk/uksi/2021/1088), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1088/article/1), [2](https://www.legislation.gov.uk/uksi/2021/1088/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/1088/schedule) (as amended 12.10.2023) by [S.I. 2023/1060](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/2))
 
-[^key-e0899ff15fbf63c624a11d1d009aef5e]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1999/671/part/3) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Gibraltar) Order 2024 (S.I. 2024/149)](https://www.legislation.gov.uk/uksi/2024/149), [art. 2](https://www.legislation.gov.uk/uksi/2024/149/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/149/schedule)
+[^c-e0899ff15fbf63c624a11d1d009aef5e]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1999/671/part/3) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Gibraltar) Order 2024 (S.I. 2024/149)](https://www.legislation.gov.uk/uksi/2024/149), [art. 2](https://www.legislation.gov.uk/uksi/2024/149/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/149/schedule)
 
-[^key-c7bd39d14ce282be9d6900b1a194ce1e]: Modification: [Pt. III](https://www.legislation.gov.uk/uksi/1999/671/part/III) modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Contributions) (Republic of India) Order 2026 (S.I. 2026/274)](https://www.legislation.gov.uk/uksi/2026/274), [art. 2(b)](https://www.legislation.gov.uk/uksi/2026/274/article/2/b)
+[^c-c7bd39d14ce282be9d6900b1a194ce1e]: Modification: [Pt. III](https://www.legislation.gov.uk/uksi/1999/671/part/III) modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Contributions) (Republic of India) Order 2026 (S.I. 2026/274)](https://www.legislation.gov.uk/uksi/2026/274), [art. 2(b)](https://www.legislation.gov.uk/uksi/2026/274/article/2/b)

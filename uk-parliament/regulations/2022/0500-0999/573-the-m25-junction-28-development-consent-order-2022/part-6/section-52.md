@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Appeals relating to the Control of Pollution Act 1974[^key-1e992de2af45ff2fbcf21cb22461614e]
+## 52. Appeals relating to the Control of Pollution Act 1974[^c-1e992de2af45ff2fbcf21cb22461614e]
 
 *Extent: E+W*
 
@@ -58,12 +58,12 @@ and may deal with the application as if it had been made to the appointed person
 
 (13) The appointed person may give directions as to the costs of the appeal and as to the parties by whom such costs are to be paid.
 
-(14) In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to the relevant Planning Practice Guidance published by the Ministry of Housing, Communities and Local Government[^key-7a19182876766cfa8883dcf45fe075ee] or such guidance as may from time to time replace it.
+(14) In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to the relevant Planning Practice Guidance published by the Ministry of Housing, Communities and Local Government[^c-7a19182876766cfa8883dcf45fe075ee] or such guidance as may from time to time replace it.
 
 ## Annotations
 
-[^key-1e992de2af45ff2fbcf21cb22461614e]: Commencement: Art. 52 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-1e992de2af45ff2fbcf21cb22461614e]: Commencement: Art. 52 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
 [^f00102]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Section 61(9) was amended by section 162 of, and paragraph 15 of Schedule 3 to, the Environmental Protection Act 1990. There are other amendments to section 61 which are not relevant to this Order.
 
-[^key-7a19182876766cfa8883dcf45fe075ee]: Textual amendment: Words in [art. 52(14)](https://www.legislation.gov.uk/uksi/2022/573/article/52/14) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/22) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-7a19182876766cfa8883dcf45fe075ee]: Textual amendment: Words in [art. 52(14)](https://www.legislation.gov.uk/uksi/2022/573/article/52/14) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/22) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))

@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for the references to EU instruments in these Regulations to be construed as references to those instruments as amended from time to time.
 
-## 1. Citation, commencement and extent[^key-de71f68c43220a94623beab77c2f18b9]
+## 1. Citation, commencement and extent[^c-de71f68c43220a94623beab77c2f18b9]
 
 (1) These Regulations may be cited as the Sea Fishing (Points for Masters of Fishing Boats) (Scotland) Regulations 2014 and come into force on 2nd February 2015.
 
@@ -58,11 +58,11 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (4) In this regulation “Scotland” and “the Scottish zone” have the same meaning as in section 126(1) of the Scotland Act 1998[^f00002].
 
-## 2. Interpretation[^key-23fd5873385477529d68034e777873fd]
+## 2. Interpretation[^c-23fd5873385477529d68034e777873fd]
 
 In these Regulations—
 
-- “administrative sanction” means a sanction other than a criminal sanction imposed by the authorities of a[^key-1f051177bb5cd95fa1edf3dd18e8bd8f] third country on a master in respect of a serious infringement;
+- “administrative sanction” means a sanction other than a criminal sanction imposed by the authorities of a[^c-1f051177bb5cd95fa1edf3dd18e8bd8f] third country on a master in respect of a serious infringement;
 - “British national” means a British citizen, a person who is a British subject by virtue of Part IV of the British Nationality Act 1981[^f00003] and who has the right of abode in the United Kingdom and is therefore exempt from United Kingdom immigration control, or a British overseas territories citizen who has acquired citizenship from a connection with Gibraltar[^f00004];
 - “the Control Regulation” means Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy, amending Regulations [(EC) No 847/96](https://www.legislation.gov.uk/european/regulation/1996/0847), [(EC) No 2371/2002](https://www.legislation.gov.uk/european/regulation/2002/2371), [(EC) No 811/2004](https://www.legislation.gov.uk/european/regulation/2004/0811), [(EC) No 768/2005](https://www.legislation.gov.uk/european/regulation/2005/0768), [(EC) No 2115/2005](https://www.legislation.gov.uk/european/regulation/2005/2115), [(EC) No 2166/2005](https://www.legislation.gov.uk/european/regulation/2005/2166), [(EC) No 388/2006](https://www.legislation.gov.uk/european/regulation/2006/0388), [(EC) No 509/2007](https://www.legislation.gov.uk/european/regulation/2007/0509), [(EC) No 676/2007](https://www.legislation.gov.uk/european/regulation/2007/0676), [(EC) No 1098/2007](https://www.legislation.gov.uk/european/regulation/2007/1098), [(EC) No 1300/2008](https://www.legislation.gov.uk/european/regulation/2008/1300), [(EC) No 1342/2008](https://www.legislation.gov.uk/european/regulation/2008/1342) and repealing Regulations [(EEC) No 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847), [(EC) No 1627/94](https://www.legislation.gov.uk/european/regulation/1994/1627) and [(EC) No 1966/2006](https://www.legislation.gov.uk/european/regulation/2006/1966)[^f00005], as amended from time to time;
 - “fishing boat” means a vessel equipped for the commercial exploitation of living aquatic resources, including sea fish;
@@ -79,17 +79,17 @@ In these Regulations—
 - “serious infringement” has the meaning given by—
   - (a) Article 42 of Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing, amending Regulations [(EEC) No 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847), [(EC) No 1936/2001](https://www.legislation.gov.uk/european/regulation/2001/1936) and [(EC) No 601/2004](https://www.legislation.gov.uk/european/regulation/2004/0601) and repealing Regulations [(EC) No 1093/94](https://www.legislation.gov.uk/european/regulation/1994/1093) and [(EC) No 1447/1999](https://www.legislation.gov.uk/european/regulation/1999/1447)[^f00010], as amended from time to time; and
   - (b) Article 90 of the Control Regulation;
-- “third country” means a country other than the United Kingdom[^key-087e2c0b3bab40aecb1bbd4f65d749f6].
+- “third country” means a country other than the United Kingdom[^c-087e2c0b3bab40aecb1bbd4f65d749f6].
 
-## 3. Points authority[^key-916168be006b91666f80f9d520d0f24b]
+## 3. Points authority[^c-916168be006b91666f80f9d520d0f24b]
 
 The Scottish Ministers are the authority responsible for allocating points to a master of a Scottish fishing boat who is, in relation to that Scottish fishing boat—
 
 - (a) convicted of a serious infringement by a court in the United Kingdom;
-- (b) convicted of a serious infringement by a court in [^key-093ec1a893316505646ae7dbe2f4ba31]... a third country; or
-- (c) given an administrative sanction for a serious infringement in [^key-20832a4ba9c3c0aecd7e167b2fe57784]... a third country.
+- (b) convicted of a serious infringement by a court in [^c-093ec1a893316505646ae7dbe2f4ba31]... a third country; or
+- (c) given an administrative sanction for a serious infringement in [^c-20832a4ba9c3c0aecd7e167b2fe57784]... a third country.
 
-## 4. Notification of suspension and disqualification[^key-04d0a9b22a507154bd6d092ffc62b1bc]
+## 4. Notification of suspension and disqualification[^c-04d0a9b22a507154bd6d092ffc62b1bc]
 
 For the purpose of enabling the Marine Management Organisation[^f00011] to maintain the register of masters, the Scottish Ministers must notify the Marine Management Organisation—
 
@@ -97,21 +97,21 @@ For the purpose of enabling the Marine Management Organisation[^f00011] to maint
 - (b) whether a master has been disqualified under regulation 10(3); and
 - (c) of the start date of any such disqualification.
 
-## 5. Notification to the master[^key-eb8537b12ca815ab40536229113f4259]
+## 5. Notification to the master[^c-eb8537b12ca815ab40536229113f4259]
 
 The Scottish Ministers, when reporting a case to the Procurator Fiscal which may result in the prosecution of a master of a Scottish fishing boat for a serious infringement, must also notify that master in writing of—
 
 - (a) the points relating to the infringement which would be allocated under regulation 7; and
 - (b) the period of any suspension, or of any disqualification under regulation 10, which would be triggered by the allocation of those points.
 
-## 6. Meaning of conviction[^key-daa00607c9dd38415d018281fc6ed6ed]
+## 6. Meaning of conviction[^c-daa00607c9dd38415d018281fc6ed6ed]
 
 For the purposes of these Regulations, a master is only convicted of a serious infringement—
 
 - (a) on the expiry of the period for appealing against that conviction; or
 - (b) on the date the conviction is upheld by the final court to which the master appeals.
 
-## 7. Allocation of points in respect of UK convictions[^key-c04dff7173bf881d060c07b8d4a8e674]
+## 7. Allocation of points in respect of UK convictions[^c-c04dff7173bf881d060c07b8d4a8e674]
 
 (1) If a master of a Scottish fishing boat is convicted of a serious infringement by a Scottish court, the Scottish Ministers must, within 7 days of the date that they become aware of the conviction—
 
@@ -127,9 +127,9 @@ For the purposes of these Regulations, a master is only convicted of a serious i
 
 (3) In this regulation and in regulation 8, “the points relating to the serious infringement” are the points assignable in relation to the serious infringement under Article 126 of and Annex XXX to the Implementing Regulation which, for the purposes of these Regulations, is deemed to apply to serious infringements by masters.
 
-## 8. Allocation of points in respect of convictions and administrative sanctions in ... third countries[^key-95bc264966aa8eca4029b0e412e356fe][^key-6b5a27bb5bce006960adc2e26284381c]
+## 8. Allocation of points in respect of convictions and administrative sanctions in ... third countries[^c-95bc264966aa8eca4029b0e412e356fe][^c-6b5a27bb5bce006960adc2e26284381c]
 
-(1) A master of a Scottish fishing boat who is charged with an offence in [^key-4835dbd7ae487d02d4873ade9409ced3]... a third country may request the Scottish Ministers to notify the master—
+(1) A master of a Scottish fishing boat who is charged with an offence in [^c-4835dbd7ae487d02d4873ade9409ced3]... a third country may request the Scottish Ministers to notify the master—
 
 - (a) if the offence is a serious infringement;
 - (b) of the points relating to such an infringement; and
@@ -137,24 +137,24 @@ For the purposes of these Regulations, a master is only convicted of a serious i
 
 (2) The Scottish Ministers must provide the information requested under paragraph (1) to the master within 7 days of receiving the master’s request.
 
-(3) The Scottish Ministers must, within 7 days of being satisfied that the master of a Scottish fishing boat has been convicted of, or received an administrative sanction in respect of, a serious infringement in [^key-1f0458c88b60a70d9cdc6715f62f5d6f]... a third country—
+(3) The Scottish Ministers must, within 7 days of being satisfied that the master of a Scottish fishing boat has been convicted of, or received an administrative sanction in respect of, a serious infringement in [^c-1f0458c88b60a70d9cdc6715f62f5d6f]... a third country—
 
 - (a) allocate to the master the points relating to the serious infringement;
 - (b) notify the master of the allocation of points ; and
 - (c) notify the Marine Management Organisation of the allocation of points.
 
-## 9. Allocation of points in respect of serious infringements committed on the same occasion[^key-717e5a42d4eb1d8d2dcb85ea5eb2067a]
+## 9. Allocation of points in respect of serious infringements committed on the same occasion[^c-717e5a42d4eb1d8d2dcb85ea5eb2067a]
 
 (1) If a master of a Scottish fishing boat has committed two or more serious infringements in relation to a Scottish fishing boat and these are detected by an enforcement officer in the course of one inspection, the total number of points to be allocated to the master by the Scottish Ministers under regulation 7 or 8 in respect of those serious infringements is the sum of the points for each infringement, but to a maximum of 12 points.
 
 (2) An enforcement officer is—
 
-- (a) a person appointed for the purposes of carrying out inspections[^key-505578ccc06c83d568b4fc00be430eb5]—
+- (a) a person appointed for the purposes of carrying out inspections[^c-505578ccc06c83d568b4fc00be430eb5]—
   - (i) by the Scottish Ministers or a prosecuting authority;
-  - (ii)[^key-b3f850b194ef4db95899c869ceb79dd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-b3f850b194ef4db95899c869ceb79dd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the case of a charge brought in a third country in respect of a fishing activity which is a serious infringement, the person appointed by that country who carried out the inspection or surveillance which led to the charge being brought.
 
-## 10. Suspension and disqualification[^key-e6dcfec28b3028717c8fcea0df6eaf07]
+## 10. Suspension and disqualification[^c-e6dcfec28b3028717c8fcea0df6eaf07]
 
 (1) A master who has, at any one time, accumulated at least 18 points but fewer than 90 points in the register of masters is suspended from mastering a Scottish fishing boat.
 
@@ -177,7 +177,7 @@ For the purposes of these Regulations, a master is only convicted of a serious i
 - (a) while suspended from doing so; or
 - (b) when disqualified from doing so.
 
-## 11. Offence of employing suspended or disqualified masters[^key-e8977fcac6adc0d2a71b4b3f451b35fd]
+## 11. Offence of employing suspended or disqualified masters[^c-e8977fcac6adc0d2a71b4b3f451b35fd]
 
 (1) It is an offence for a person to employ a master to master a UK fishing boat if the register of masters indicates that the master is suspended or has been disqualified.
 
@@ -186,7 +186,7 @@ For the purposes of these Regulations, a master is only convicted of a serious i
 - (a) is registered in the United Kingdom under Part II of the Merchant Shipping Act 1995[^f00012]; or
 - (b) is wholly owned by persons qualified to own British ships for the purposes of that Part.
 
-## 12. Penalties[^key-85c84d85fa715d96b03bffb1e41b566f]
+## 12. Penalties[^c-85c84d85fa715d96b03bffb1e41b566f]
 
 A person who commits an offence under these Regulations is liable—
 
@@ -229,13 +229,13 @@ A Business and Regulatory Impact Assessment (“BRIA”) has been prepared in re
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“the 2008 Act”), section 3(3) and Schedule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act and was amended by the 2008 Act, section 3(3) and Schedule, Part 1.
 
-[^key-de71f68c43220a94623beab77c2f18b9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/379/regulation/1) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-de71f68c43220a94623beab77c2f18b9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/379/regulation/1) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
 
 [^f00002]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). The sea within British fishery limits (that is, the limits set by or under section 1 of the Fishery Limits Act [1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86) which is adjacent to Scotland is determined by the Scottish Adjacent Waters Boundary Order 1999 ([S.I. 1999/1126](https://www.legislation.gov.uk/uksi/1999/1126)).
 
-[^key-23fd5873385477529d68034e777873fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/379/regulation/2) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-23fd5873385477529d68034e777873fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/379/regulation/2) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
 
-[^key-1f051177bb5cd95fa1edf3dd18e8bd8f]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2014/379/regulation/2) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(2)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f051177bb5cd95fa1edf3dd18e8bd8f]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2014/379/regulation/2) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(2)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61).
 
@@ -253,42 +253,42 @@ A Business and Regulatory Impact Assessment (“BRIA”) has been prepared in re
 
 [^f00010]: Footnote: OJ No L 286, 29.10.2008, p.1, as last amended by Commission Regulation (EU) No 202/2011 (OJ No L 57, 2.3.2011, p.10).
 
-[^key-087e2c0b3bab40aecb1bbd4f65d749f6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2014/379/regulation/2) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-087e2c0b3bab40aecb1bbd4f65d749f6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2014/379/regulation/2) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-916168be006b91666f80f9d520d0f24b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/379/regulation/3) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-916168be006b91666f80f9d520d0f24b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/379/regulation/3) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
 
-[^key-093ec1a893316505646ae7dbe2f4ba31]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/ssi/2014/379/regulation/3/b) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(3)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-093ec1a893316505646ae7dbe2f4ba31]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/ssi/2014/379/regulation/3/b) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(3)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-20832a4ba9c3c0aecd7e167b2fe57784]: Textual amendment: Words in [reg. 3(c)](https://www.legislation.gov.uk/ssi/2014/379/regulation/3/c) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(3)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-20832a4ba9c3c0aecd7e167b2fe57784]: Textual amendment: Words in [reg. 3(c)](https://www.legislation.gov.uk/ssi/2014/379/regulation/3/c) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(3)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-04d0a9b22a507154bd6d092ffc62b1bc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/379/regulation/4) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-04d0a9b22a507154bd6d092ffc62b1bc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/379/regulation/4) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
 
 [^f00011]: Footnote: The Marine Management Organisation was established under section 1 of the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-eb8537b12ca815ab40536229113f4259]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/379/regulation/5) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-eb8537b12ca815ab40536229113f4259]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/379/regulation/5) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
 
-[^key-daa00607c9dd38415d018281fc6ed6ed]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/379/regulation/6) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-daa00607c9dd38415d018281fc6ed6ed]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/379/regulation/6) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
 
-[^key-c04dff7173bf881d060c07b8d4a8e674]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/379/regulation/7) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-c04dff7173bf881d060c07b8d4a8e674]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/379/regulation/7) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
 
-[^key-95bc264966aa8eca4029b0e412e356fe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/379/regulation/8) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-95bc264966aa8eca4029b0e412e356fe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/379/regulation/8) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
 
-[^key-6b5a27bb5bce006960adc2e26284381c]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/ssi/2014/379/regulation/8) heading omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(4)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b5a27bb5bce006960adc2e26284381c]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/ssi/2014/379/regulation/8) heading omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(4)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4835dbd7ae487d02d4873ade9409ced3]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/8/1) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(4)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4835dbd7ae487d02d4873ade9409ced3]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/8/1) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(4)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1f0458c88b60a70d9cdc6715f62f5d6f]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/ssi/2014/379/regulation/8/3) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(4)(c)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f0458c88b60a70d9cdc6715f62f5d6f]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/ssi/2014/379/regulation/8/3) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(4)(c)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-717e5a42d4eb1d8d2dcb85ea5eb2067a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/379/regulation/9) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-717e5a42d4eb1d8d2dcb85ea5eb2067a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/379/regulation/9) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
 
-[^key-505578ccc06c83d568b4fc00be430eb5]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/ssi/2014/379/regulation/9/2/a) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(5)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-505578ccc06c83d568b4fc00be430eb5]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/ssi/2014/379/regulation/9/2/a) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(5)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b3f850b194ef4db95899c869ceb79dd0]: Textual amendment: [Reg. 9(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2014/379/regulation/9/2/a/ii) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(5)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3f850b194ef4db95899c869ceb79dd0]: Textual amendment: [Reg. 9(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2014/379/regulation/9/2/a/ii) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [12(5)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/12/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e6dcfec28b3028717c8fcea0df6eaf07]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/379/regulation/10) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-e6dcfec28b3028717c8fcea0df6eaf07]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/379/regulation/10) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
 
-[^key-e8977fcac6adc0d2a71b4b3f451b35fd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/379/regulation/11) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-e8977fcac6adc0d2a71b4b3f451b35fd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/379/regulation/11) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
 
 [^f00012]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-85c84d85fa715d96b03bffb1e41b566f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/379/regulation/12) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)
+[^c-85c84d85fa715d96b03bffb1e41b566f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/379/regulation/12) in force at 2.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/379/regulation/1/1)

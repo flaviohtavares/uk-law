@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Persons whose capital exceeds £16,000[^key-dac98b10a1d637d46b5d0999204b2152]
+## 30. Persons whose capital exceeds £16,000[^c-dac98b10a1d637d46b5d0999204b2152]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dac98b10a1d637d46b5d0999204b2152]: Commencement: Reg. 30 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-dac98b10a1d637d46b5d0999204b2152]: Commencement: Reg. 30 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

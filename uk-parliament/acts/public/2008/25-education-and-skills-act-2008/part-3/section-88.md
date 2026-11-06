@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Revenue and Customs information[^key-b9ee3874268aa25eb4d4a654b2fa8625]
+## 88. Revenue and Customs information[^c-b9ee3874268aa25eb4d4a654b2fa8625]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9ee3874268aa25eb4d4a654b2fa8625]: Commencement: S. 88 in force at 26.1.2009 by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/c)
+[^c-b9ee3874268aa25eb4d4a654b2fa8625]: Commencement: S. 88 in force at 26.1.2009 by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/c)

@@ -34,7 +34,7 @@ AGRICULTURE, ENGLAND AND WALES
 
 PESTICIDES, ENGLAND AND WALES
 
-The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) (No. 3) Regulations 2007 (revoked)[^key-18b812a009705ab0d2e2080ff46575de]
+The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) (No. 3) Regulations 2007 (revoked)[^c-18b812a009705ab0d2e2080ff46575de]
 
 Made
 
@@ -50,49 +50,49 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-18b812a009705ab0d2e2080ff46575de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18b812a009705ab0d2e2080ff46575de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-18b812a009705ab0d2e2080ff46575de]
+## 1. Citation and commencement[^c-18b812a009705ab0d2e2080ff46575de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-18b812a009705ab0d2e2080ff46575de]
+## 2. Revocation[^c-18b812a009705ab0d2e2080ff46575de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments[^key-18b812a009705ab0d2e2080ff46575de]
+## 3. Amendments[^c-18b812a009705ab0d2e2080ff46575de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments coming into force on 17th November 2007[^key-18b812a009705ab0d2e2080ff46575de]
+## 4. Amendments coming into force on 17th November 2007[^c-18b812a009705ab0d2e2080ff46575de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments coming into force on 27th November 2007[^key-18b812a009705ab0d2e2080ff46575de]
+## 5. Amendments coming into force on 27th November 2007[^c-18b812a009705ab0d2e2080ff46575de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment coming into force on 28th December 2007[^key-18b812a009705ab0d2e2080ff46575de]
+## 6. Amendment coming into force on 28th December 2007[^c-18b812a009705ab0d2e2080ff46575de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment coming into force on 21st January 2008[^key-18b812a009705ab0d2e2080ff46575de]
+## 7. Amendment coming into force on 21st January 2008[^c-18b812a009705ab0d2e2080ff46575de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18b812a009705ab0d2e2080ff46575de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18b812a009705ab0d2e2080ff46575de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Entries inserted or substituted in Schedule 1[^key-18b812a009705ab0d2e2080ff46575de]
+## SCHEDULE 1 — Entries inserted or substituted in Schedule 1[^c-18b812a009705ab0d2e2080ff46575de]
 
 Regulations 4(1) and 5(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Entries substituted or inserted in Schedule 2[^key-18b812a009705ab0d2e2080ff46575de]
+## SCHEDULE 2 — Entries substituted or inserted in Schedule 2[^c-18b812a009705ab0d2e2080ff46575de]
 
 Regulations 4(2), 5(2), 6 and 7
 
@@ -100,8 +100,8 @@ Regulations 4(2), 5(2), 6 and 7
 
 **May not be in force at this date. Check the source.**
 
-[^key-18b812a009705ab0d2e2080ff46575de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18b812a009705ab0d2e2080ff46575de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-18b812a009705ab0d2e2080ff46575de]: Textual amendment: Regulations revoked (1.11.2008) by [The Pesticides (Maximum Residue Levels) (England and Wales) Regulations 2008 (S.I. 2008/2570)](https://www.legislation.gov.uk/uksi/2008/2570), [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/2570/regulation/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2570/schedule/2)
+[^c-18b812a009705ab0d2e2080ff46575de]: Textual amendment: Regulations revoked (1.11.2008) by [The Pesticides (Maximum Residue Levels) (England and Wales) Regulations 2008 (S.I. 2008/2570)](https://www.legislation.gov.uk/uksi/2008/2570), [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/2570/regulation/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2570/schedule/2)

@@ -33,7 +33,7 @@ An Act to regulate the turning out upon Commons of Entire Animals.
 
 \[21st December 1908\][^c579074]
 
-## 1. Power of making regulations as to the turning out of entire animals on commons.[^key-edeb072930a3d258064112e247fce21c]
+## 1. Power of making regulations as to the turning out of entire animals on commons.[^c-edeb072930a3d258064112e247fce21c]
 
 (1) The persons for the time being entitled to turn out animals on a common at a meeting convened in manner provided by this Act may, by a resolution passed by a majority in value of interest of the persons present by themselves or by their proxy or attorney,—
 
@@ -73,7 +73,7 @@ The powers by this Act conferred on the persons for the time being entitled to t
 
 [^c579074]: Modification: Act: powers transferred (1.7.1999) by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-edeb072930a3d258064112e247fce21c]: Modification: S. 1: power to modify conferred (1.10.2007 for E. and 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [ss. 17(6)-(8)(e)](https://www.legislation.gov.uk/ukpga/2006/26/section/17/6), [56](https://www.legislation.gov.uk/ukpga/2006/26/section/56) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2584/article/3)); S.I. 2012/739, art. 2(b) (with art. 4)
+[^c-edeb072930a3d258064112e247fce21c]: Modification: S. 1: power to modify conferred (1.10.2007 for E. and 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [ss. 17(6)-(8)(e)](https://www.legislation.gov.uk/ukpga/2006/26/section/17/6), [56](https://www.legislation.gov.uk/ukpga/2006/26/section/56) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2584/article/3)); S.I. 2012/739, art. 2(b) (with art. 4)
 
 [^c579089]: Textual amendment: Words substituted by virtue of [Ministry of Agriculture and Fisheries Act 1919 (c. 91)](https://www.legislation.gov.uk/ukpga/1919/91), [s. 1](https://www.legislation.gov.uk/ukpga/1919/91/section/1), [S.I](https://www.legislation.gov.uk/ukpga/1919/91/section/I). 1955/554 (1955 I p. 1200), 1965/143, 1967/156 and 1970/1681
 

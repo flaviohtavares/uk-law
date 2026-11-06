@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2004 (revoked)[^key-bb422062da9a20144625b8a28d598761]
+The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2004 (revoked)[^c-bb422062da9a20144625b8a28d598761]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 13th January 2005
 
-[^key-bb422062da9a20144625b8a28d598761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb422062da9a20144625b8a28d598761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bb422062da9a20144625b8a28d598761]
+## 1. Citation and commencement[^c-bb422062da9a20144625b8a28d598761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Greenhouse Gas Emissions Trading Scheme Regulations 2003[^key-bb422062da9a20144625b8a28d598761]
+## 2. Amendment to the Greenhouse Gas Emissions Trading Scheme Regulations 2003[^c-bb422062da9a20144625b8a28d598761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bb422062da9a20144625b8a28d598761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb422062da9a20144625b8a28d598761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bb422062da9a20144625b8a28d598761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb422062da9a20144625b8a28d598761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bb422062da9a20144625b8a28d598761]: Textual amendment: Regulations revoked (21.4.2005) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2005 (S.I. 2005/925)](https://www.legislation.gov.uk/uksi/2005/925), [regs. 1](https://www.legislation.gov.uk/uksi/2005/925/regulation/1), [47(1)(b)](https://www.legislation.gov.uk/uksi/2005/925/regulation/47/1/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2005/925/regulation/3), [47(2)-(4)](https://www.legislation.gov.uk/uksi/2005/925/regulation/47/2))
+[^c-bb422062da9a20144625b8a28d598761]: Textual amendment: Regulations revoked (21.4.2005) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2005 (S.I. 2005/925)](https://www.legislation.gov.uk/uksi/2005/925), [regs. 1](https://www.legislation.gov.uk/uksi/2005/925/regulation/1), [47(1)(b)](https://www.legislation.gov.uk/uksi/2005/925/regulation/47/1/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2005/925/regulation/3), [47(2)-(4)](https://www.legislation.gov.uk/uksi/2005/925/regulation/47/2))

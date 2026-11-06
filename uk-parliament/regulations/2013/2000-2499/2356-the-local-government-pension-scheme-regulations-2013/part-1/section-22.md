@@ -46,9 +46,9 @@ summary: ''
 - (b) a refund of contributions is paid under regulation 18 (rights to return of contributions);
 - (c) all the benefits in the account are forfeited under regulation 91 (forfeiture of pension rights after conviction for employment-related offences);
 - (d) the member dies;
-- (e) the last survivor entitled to a benefit from a survivor member's account ceases to be entitled to a benefit from the account (by reason of death or upon ceasing to be an eligible child); [^key-b8934c3da05b602e47c55853ba24b474]...
+- (e) the last survivor entitled to a benefit from a survivor member's account ceases to be entitled to a benefit from the account (by reason of death or upon ceasing to be an eligible child); [^c-b8934c3da05b602e47c55853ba24b474]...
 - (f) due to aggregation of the benefits in the account with a different account, it is no longer required;
-- (g)[^key-b1aa4947bbfc90e04cd006d528eac13a] the member’s benefits are commuted under regulation 34 (commutation and small pensions); or
+- (g)[^c-b1aa4947bbfc90e04cd006d528eac13a] the member’s benefits are commuted under regulation 34 (commutation and small pensions); or
 - (h) the member’s benefits are transferred to a different administering authority under regulation 103 (changes of administering authority).
 
 (5) Where a member with an active member's pension account also has a deferred refund account, the benefits in the deferred refund account must be aggregated with the active member's pension account and the deferred refund account closed.
@@ -62,7 +62,7 @@ summary: ''
 
 the member makes an election to the appropriate administering authority to retain the deferred member's pension account.
 
-(8) Where a deferred member again becomes an active member (other than where a member becomes entitled to deferred benefits as a consequence of a notice served under regulation 5(2) (ending active membership))[^key-b25e62e714677b6b13784d98ef6114ab], the benefits in the deferred member's pension account must be aggregated with those in the active member's pension account unless—
+(8) Where a deferred member again becomes an active member (other than where a member becomes entitled to deferred benefits as a consequence of a notice served under regulation 5(2) (ending active membership))[^c-b25e62e714677b6b13784d98ef6114ab], the benefits in the deferred member's pension account must be aggregated with those in the active member's pension account unless—
 
 - (a) within 12 months of the active member's pension account being opened; or
 - (b) such longer time as the Scheme employer in relation to that active member's pension account permits,
@@ -73,8 +73,8 @@ the member makes an election to the appropriate administering authority to retai
 
 ## Annotations
 
-[^key-b8934c3da05b602e47c55853ba24b474]: Textual amendment: Word in [reg. 22(4)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/22/4) omitted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2015/755/regulation/11/a)
+[^c-b8934c3da05b602e47c55853ba24b474]: Textual amendment: Word in [reg. 22(4)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/22/4) omitted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2015/755/regulation/11/a)
 
-[^key-b1aa4947bbfc90e04cd006d528eac13a]: Textual amendment: [Reg. 22(4)(g)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/22/4/g)[(h)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/22/4/h) added (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2015/755/regulation/11/a)
+[^c-b1aa4947bbfc90e04cd006d528eac13a]: Textual amendment: [Reg. 22(4)(g)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/22/4/g)[(h)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/22/4/h) added (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2015/755/regulation/11/a)
 
-[^key-b25e62e714677b6b13784d98ef6114ab]: Textual amendment: Words in [reg. 22(8)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/22/8) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2015/755/regulation/11/b)
+[^c-b25e62e714677b6b13784d98ef6114ab]: Textual amendment: Words in [reg. 22(8)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/22/8) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2015/755/regulation/11/b)

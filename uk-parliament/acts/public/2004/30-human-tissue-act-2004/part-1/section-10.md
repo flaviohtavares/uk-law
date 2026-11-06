@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Existing anatomical specimens[^key-998ee0bd386b8143013c0d47737f237e][^key-30881d81f024e6a1498e29dd5acb3f01]
+## 10. Existing anatomical specimens[^c-998ee0bd386b8143013c0d47737f237e][^c-30881d81f024e6a1498e29dd5acb3f01]
 
 *Extent: E+W+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-998ee0bd386b8143013c0d47737f237e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2004/30/section/10) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
+[^c-998ee0bd386b8143013c0d47737f237e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2004/30/section/10) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
 
-[^key-30881d81f024e6a1498e29dd5acb3f01]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2004/30/section/10) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-30881d81f024e6a1498e29dd5acb3f01]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2004/30/section/10) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))

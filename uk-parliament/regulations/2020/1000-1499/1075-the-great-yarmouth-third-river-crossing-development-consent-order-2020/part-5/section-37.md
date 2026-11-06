@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Statutory undertakers and utilities[^key-b1ebd8d13a5be070cfad85a1dc9bfb62]
+## 37. Statutory undertakers and utilities[^c-b1ebd8d13a5be070cfad85a1dc9bfb62]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1ebd8d13a5be070cfad85a1dc9bfb62]: Commencement: Art. 37 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-b1ebd8d13a5be070cfad85a1dc9bfb62]: Commencement: Art. 37 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

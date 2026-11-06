@@ -61,8 +61,8 @@ This Order may be cited as the Food Safety (Ships and Aircraft) (England and Sco
 - “**innocent passage**” has the same meaning as it has for the purposes of Part II Section 3A of the United Nations Convention on the Law of the Sea;
 - “**internal waters**” has the same meaning as it has for the purposes of Article 8(1) of the United Nations Convention on the Law of the Sea;
 - “**the principal Hygiene and Temperature Control provisions**” means—
-  - (a) [^key-4d443f3bb11d683cde091f2c63fb5c31]...
-  - (b) [^key-5ab5771ac5d4ee928729a95bb6d5222c]...
+  - (a) [^c-4d443f3bb11d683cde091f2c63fb5c31]...
+  - (b) [^c-5ab5771ac5d4ee928729a95bb6d5222c]...
 - “**sovereign immune ship or aircraft**” means a ship or aircraft belonging to a State other than the United Kingdom and which is not in use for commercial purposes;
 - “**territorial sea**” has the same meaning as it has for the purposes of the Territorial Sea Act 1987 [^c5064121].
 
@@ -87,7 +87,7 @@ Article 3
 **2.** Any other ship or any aircraft, which is not an exempt ship or aircraft—
 
 - (a) for the purpose of ascertaining whether there is in the ship or aircraft any food imported as part of the cargo in contravention of the provisions of regulations made under Part II of the Act;
-- (b)[^key-e20289367b23866f70a99c5bc2860b6b][^key-4e6167b20f7a1e010189cfac9a3ff43d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e20289367b23866f70a99c5bc2860b6b][^c-4e6167b20f7a1e010189cfac9a3ff43d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for the purpose of applying sections 11 and 12 of the Act;
 
 and references to “**premises**” in sections 2, 3, 29, 32 and 50 of the Act shall include any ship or aircraft of a description specified in this paragraph in relation to any purposes specified in this paragraph.
@@ -110,15 +110,15 @@ No Regulatory Impact Assessment has been prepared in respect of this Order. A Tr
 
 [^c5064071]: Marginal citation: OJ No. L131, 1.2.2002, p. 1.
 
-[^key-4d443f3bb11d683cde091f2c63fb5c31]: Textual amendment: Words in art. 2(1) revoked (E.) (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [33(1)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/33/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7)
+[^c-4d443f3bb11d683cde091f2c63fb5c31]: Textual amendment: Words in art. 2(1) revoked (E.) (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [33(1)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/33/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7)
 
-[^key-5ab5771ac5d4ee928729a95bb6d5222c]: Textual amendment: Words in art. 2(1) revoked (S.) (1.1.2006) by [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
+[^c-5ab5771ac5d4ee928729a95bb6d5222c]: Textual amendment: Words in art. 2(1) revoked (S.) (1.1.2006) by [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
 
 [^c5064121]: Marginal citation: [1987 c. 49](https://www.legislation.gov.uk/ukpga/1987/49).
 
-[^key-e20289367b23866f70a99c5bc2860b6b]: Textual amendment: [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2003/1895/schedule/paragraph/2/b) revoked (E.) (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [33(1)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/33/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7)
+[^c-e20289367b23866f70a99c5bc2860b6b]: Textual amendment: [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2003/1895/schedule/paragraph/2/b) revoked (E.) (1.1.2006) by [The Food Hygiene (England) Regulations 2005 (S.I. 2005/2059)](https://www.legislation.gov.uk/uksi/2005/2059), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/1/b), [33(1)](https://www.legislation.gov.uk/uksi/2005/2059/regulation/33/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2059/schedule/7)
 
-[^key-4e6167b20f7a1e010189cfac9a3ff43d]: Textual amendment: Sch. para. 2(b) revoked (S.) (1.1.2006) by [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
+[^c-4e6167b20f7a1e010189cfac9a3ff43d]: Textual amendment: Sch. para. 2(b) revoked (S.) (1.1.2006) by [The Food Hygiene (Scotland) Regulations 2005 (S.S.I. 2005/505)](https://www.legislation.gov.uk/ssi/2005/505), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/505/regulation/1/b), [sch. 7](https://www.legislation.gov.uk/ssi/2005/505/schedule/7)
 
 [^c5064131]: Marginal citation: OJ No. L175, 19.7.93, p. 1, as amended by Directive 96/3 (OJ No. L21, 27.1.96, p. 42) and Directive 98/28 (OJ No. L140, 12.5.98, p. 10).
 

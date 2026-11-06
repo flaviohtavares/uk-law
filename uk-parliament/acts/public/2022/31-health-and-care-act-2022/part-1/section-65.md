@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. NHS foundation trusts: mergers, acquisitions and separations[^key-c5516cd823d7ebff62cd2476872ad7f1][^key-eff6c203a21c4b39627bc40f9ca34102]
+## 65. NHS foundation trusts: mergers, acquisitions and separations[^c-c5516cd823d7ebff62cd2476872ad7f1][^c-eff6c203a21c4b39627bc40f9ca34102]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c5516cd823d7ebff62cd2476872ad7f1]: Commencement: S. 65 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-c5516cd823d7ebff62cd2476872ad7f1]: Commencement: S. 65 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-eff6c203a21c4b39627bc40f9ca34102]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2022/31/section/65) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-eff6c203a21c4b39627bc40f9ca34102]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2022/31/section/65) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 363A. Residence of undertakings for collective investment in transferable securities and alternative investment funds[^key-23bef064e945432ef5076a7a05002b23][^key-3ff61fc00afd4e89393536854d4d7f34]
+## 363A. Residence of undertakings for collective investment in transferable securities and alternative investment funds[^c-23bef064e945432ef5076a7a05002b23][^c-3ff61fc00afd4e89393536854d4d7f34]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-593c80759855e0031b19d8656c8c2b6d] This section applies to—
+(1)[^c-593c80759855e0031b19d8656c8c2b6d] This section applies to—
 
 - (a) a UCITS which is authorised in a foreign country or territory pursuant to Article 5 of the UCITS Directive, and
 - (b) an AIF which is authorised or registered in a foreign country or territory, or is not authorised or registered but has its registered office in a foreign country or territory,
@@ -44,9 +44,9 @@ unless the UCITS or AIF is an excluded entity.
 - (b) provide that a description of UCITS or AIF is no longer an excluded entity, or
 - (c) vary a description of an excluded entity.
 
-(3) If, by virtue of section 99 [^key-0caf93cf5fe8e7df5367c49d970bb377]... of TCGA 1992, that Act applies in relation to the UCITS[^key-225c3e4c7a35fbd2d7a02f7b0e4918e2] or AIF as if it were a company, that Act applies as if the company were not resident[^key-8394804e134852d007acda13e85c0b86] in the United Kingdom (if it would not otherwise do so).
+(3) If, by virtue of section 99 [^c-0caf93cf5fe8e7df5367c49d970bb377]... of TCGA 1992, that Act applies in relation to the UCITS[^c-225c3e4c7a35fbd2d7a02f7b0e4918e2] or AIF as if it were a company, that Act applies as if the company were not resident[^c-8394804e134852d007acda13e85c0b86] in the United Kingdom (if it would not otherwise do so).
 
-(4) In this section—[^key-069fe02f1412395d7817aa855832529a]
+(4) In this section—[^c-069fe02f1412395d7817aa855832529a]
 
 "AIF” has the meaning given in regulation 3 of the Alternative Investment Fund Managers Regulations 2013,
 
@@ -62,16 +62,16 @@ unless the UCITS or AIF is an excluded entity.
 
 ## Annotations
 
-[^key-23bef064e945432ef5076a7a05002b23]: Textual amendment: S. 363A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 59](https://www.legislation.gov.uk/ukpga/2011/11/section/59)
+[^c-23bef064e945432ef5076a7a05002b23]: Textual amendment: S. 363A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 59](https://www.legislation.gov.uk/ukpga/2011/11/section/59)
 
-[^key-3ff61fc00afd4e89393536854d4d7f34]: Textual amendment: S. 363A heading substituted (retrospective to 5.12.2013) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 289(5)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/5/c)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/6)
+[^c-3ff61fc00afd4e89393536854d4d7f34]: Textual amendment: S. 363A heading substituted (retrospective to 5.12.2013) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 289(5)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/5/c)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/6)
 
-[^key-593c80759855e0031b19d8656c8c2b6d]: Textual amendment: Ss. 363A(1)-(2B) substituted for s. 363A(1)(2) (retrospective to 5.12.2013) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 289(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/2)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/6)
+[^c-593c80759855e0031b19d8656c8c2b6d]: Textual amendment: Ss. 363A(1)-(2B) substituted for s. 363A(1)(2) (retrospective to 5.12.2013) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 289(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/2)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/6)
 
-[^key-0caf93cf5fe8e7df5367c49d970bb377]: Textual amendment: Words in [s. 363A(3)](https://www.legislation.gov.uk/ukpga/2010/8/section/363A/3) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2017/1204/regulation/14)
+[^c-0caf93cf5fe8e7df5367c49d970bb377]: Textual amendment: Words in [s. 363A(3)](https://www.legislation.gov.uk/ukpga/2010/8/section/363A/3) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2017/1204/regulation/14)
 
-[^key-225c3e4c7a35fbd2d7a02f7b0e4918e2]: Textual amendment: Words in s. 363A(3) substituted (retrospective to 5.12.2013) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 289(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/3)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/6)
+[^c-225c3e4c7a35fbd2d7a02f7b0e4918e2]: Textual amendment: Words in s. 363A(3) substituted (retrospective to 5.12.2013) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 289(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/3)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/6)
 
-[^key-8394804e134852d007acda13e85c0b86]: Textual amendment: Words in s. 363A(3) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 146](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/146)
+[^c-8394804e134852d007acda13e85c0b86]: Textual amendment: Words in s. 363A(3) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 146](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/146)
 
-[^key-069fe02f1412395d7817aa855832529a]: Textual amendment: Words in s. 363A(4) substituted (retrospective to 5.12.2013) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 289(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/4)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/6)
+[^c-069fe02f1412395d7817aa855832529a]: Textual amendment: Words in s. 363A(4) substituted (retrospective to 5.12.2013) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 289(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/4)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/289/6)

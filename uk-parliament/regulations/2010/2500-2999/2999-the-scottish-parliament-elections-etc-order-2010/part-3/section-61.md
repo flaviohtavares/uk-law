@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Right to send election address post free[^key-d283ba81ccab3b0dcec730e464f0af12]
+## 61. Right to send election address post free[^c-d283ba81ccab3b0dcec730e464f0af12]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ or alternatively one unaddressed such communication may be sent to each place wh
 
 ## Annotations
 
-[^key-d283ba81ccab3b0dcec730e464f0af12]: Commencement: Art. 61 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d283ba81ccab3b0dcec730e464f0af12]: Commencement: Art. 61 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

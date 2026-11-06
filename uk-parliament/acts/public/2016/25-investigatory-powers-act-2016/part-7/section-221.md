@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Safeguards relating to examination of bulk personal datasets[^key-91941698e9860c725e706e79d9f87628]
+## 221. Safeguards relating to examination of bulk personal datasets[^c-91941698e9860c725e706e79d9f87628]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91941698e9860c725e706e79d9f87628]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2016/25/section/221) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/t) (with [reg. 6(d)](https://www.legislation.gov.uk/uksi/2018/873/regulation/6/d))
+[^c-91941698e9860c725e706e79d9f87628]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2016/25/section/221) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/t) (with [reg. 6(d)](https://www.legislation.gov.uk/uksi/2018/873/regulation/6/d))

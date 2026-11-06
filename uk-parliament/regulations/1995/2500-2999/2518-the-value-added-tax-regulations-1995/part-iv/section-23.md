@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Final statements[^key-16c9a56d96b38efc02a27a51de278504]
+## 23. Final statements[^c-16c9a56d96b38efc02a27a51de278504]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16c9a56d96b38efc02a27a51de278504]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/1995/2518/regulation/23) omitted (1.1.2010) by virtue of [The Value Added Tax (Amendment) (No. 5) Regulations 2009 (S.I. 2009/3241)](https://www.legislation.gov.uk/uksi/2009/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3241/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/3241/regulation/7) (with [reg. 18](https://www.legislation.gov.uk/uksi/2009/3241/regulation/18))
+[^c-16c9a56d96b38efc02a27a51de278504]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/1995/2518/regulation/23) omitted (1.1.2010) by virtue of [The Value Added Tax (Amendment) (No. 5) Regulations 2009 (S.I. 2009/3241)](https://www.legislation.gov.uk/uksi/2009/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3241/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/3241/regulation/7) (with [reg. 18](https://www.legislation.gov.uk/uksi/2009/3241/regulation/18))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Sale etc of lessor companies etc[^key-d8358c312d391c2312109c745bc3f3ad]
+## 82. Sale etc of lessor companies etc[^c-d8358c312d391c2312109c745bc3f3ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8358c312d391c2312109c745bc3f3ad]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukpga/2006/25/section/82) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 481](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/481), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d8358c312d391c2312109c745bc3f3ad]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukpga/2006/25/section/82) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 481](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/481), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

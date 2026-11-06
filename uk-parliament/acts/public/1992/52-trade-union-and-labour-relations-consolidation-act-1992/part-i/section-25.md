@@ -44,7 +44,7 @@ and may make or refuse the declaration asked for.
 
 (6) In exercising his functions under this section the Certification Officer shall ensure that, so far as is reasonably practicable, an application made to him is determined within six months of being made.
 
-(6A)[^key-e8df2e318e7e6f4c1666eb5e266b0354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6A)[^c-e8df2e318e7e6f4c1666eb5e266b0354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Where he requests a person to furnish information to him in connection with enquiries made by him under this section, he shall specify the date by which that information is to be furnished and, unless he considers that it would be inappropriate to do so, shall proceed with his determination of the application notwithstanding that the information has not been furnished to him by the specified date.
 
@@ -52,7 +52,7 @@ and may make or refuse the declaration asked for.
 
 (9)[^c14513481] A declaration made by the Certification Officer under this section may be relied on as if it were a declaration made by the court.
 
-(10) An enforcement order made by the Certification Officer under this section may be enforced (by the Certification Officer, the applicant or a person mentioned in subsection (5B))[^key-4f307a59ff6b389aadf705a5246b073a] in the same way as an order of the court.
+(10) An enforcement order made by the Certification Officer under this section may be enforced (by the Certification Officer, the applicant or a person mentioned in subsection (5B))[^c-4f307a59ff6b389aadf705a5246b073a] in the same way as an order of the court.
 
 (11) The following paragraphs have effect if a person applies under section 26 in relation to an alleged failure—
 
@@ -67,10 +67,10 @@ and may make or refuse the declaration asked for.
 
 [^c14513451]: Textual amendment: S. 25(5A)(5B) inserted (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 29](https://www.legislation.gov.uk/ukpga/1999/26/section/29), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/1), [4(3)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/4/3); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/I) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/4))
 
-[^key-e8df2e318e7e6f4c1666eb5e266b0354]: Textual amendment: S. 25(6A) omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 82(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/82/2), [159(2)(n)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/n) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/15))
+[^c-e8df2e318e7e6f4c1666eb5e266b0354]: Textual amendment: S. 25(6A) omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 82(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/82/2), [159(2)(n)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/n) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/15))
 
 [^c14513471]: Textual amendment: S. 25(8) inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2), [Sch. 8 para. 40(b)](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/40/b); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
 [^c14513481]: Textual amendment: S. 25(9)-(11) inserted (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 29](https://www.legislation.gov.uk/ukpga/1999/26/section/29), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/1), [4(4)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/4/4); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/I) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/4))
 
-[^key-4f307a59ff6b389aadf705a5246b073a]: Textual amendment: Words in s. 25(10) inserted (1.4.2022) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [ss. 19(4)](https://www.legislation.gov.uk/ukpga/2016/15/section/19/4), [25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/c) (with [reg. 15](https://www.legislation.gov.uk/uksi/2021/1373/regulation/15))
+[^c-4f307a59ff6b389aadf705a5246b073a]: Textual amendment: Words in s. 25(10) inserted (1.4.2022) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [ss. 19(4)](https://www.legislation.gov.uk/ukpga/2016/15/section/19/4), [25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/c) (with [reg. 15](https://www.legislation.gov.uk/uksi/2021/1373/regulation/15))

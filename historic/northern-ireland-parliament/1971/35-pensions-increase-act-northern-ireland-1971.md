@@ -188,7 +188,7 @@ The power conferred by this subsection on the Ministry may be exercised also, wi
 
 (3) Where an earnings-related pension beginning before the year 1969 may be payable either at a rate fixed, directly or indirectly, by reference to emoluments or at a flat rate, the 1969 standard and, if relevant, the 1971 rate of the pension according to either of its rates shall be determined without regard to the other.
 
-### 8A. Section 8(2): references to “service”[^key-516c15e0c772d26b006110283514ddd9]
+### 8A. Section 8(2): references to “service”[^c-516c15e0c772d26b006110283514ddd9]
 
 (1) In a case where—
 
@@ -389,7 +389,7 @@ Sections 4, 5, 7, 11 and 12.
 
 **2.** A pension payable under the Superannuation Acts (Northern Ireland) 1967 and 1969 \[[^c11556081] or under a scheme made under Article 3 of the Superannuation (Northern Ireland) Order 1972 [^m00031], being the principal civil service pension scheme within the meaning of Article 4 of that Order.\]
 
-**2A.**[^key-3d036d04b1b87847c82ad92b241c7583] A pension payable under a scheme made by the Department of Finance and Personnel under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 by virtue of section 1(2)(a) of that Act (civil servants).
+**2A.**[^c-3d036d04b1b87847c82ad92b241c7583] A pension payable under a scheme made by the Department of Finance and Personnel under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 by virtue of section 1(2)(a) of that Act (civil servants).
 
 **3.** A pension payable under the National School Teachers (Ireland) Act 1879 [^m00032], or a superannuation scheme made under the Education Act (Northern Ireland) 1923 [^m00033] (whether as originally enacted or as applied by Order in Council), or under the Teachers (Superannuation) Acts (Northern Ireland) 1950 to 1967 \[[^c11556091] or payable under regulations made under Article 11 of the Superannuation (Northern Ireland) Order 1972\] \[[^c11556101] or under the Teachers Superannuation Regulations (Northern Ireland) 1972 [^m00034].\]
 
@@ -397,11 +397,11 @@ This paragraph does not include any part of an annual allowance that is payable 
 
 **3A.**[^c11556121] A pension payable to or in respect of a teacher under regulations made under Article 19 of the Superannuation (Northern Ireland) Order 1972 (compensation for loss of employment, etc.).\]
 
-**3B.**[^key-852a8b424324b6302b10f6f65001e728] A pension payable by the Department of Education under a scheme made by the Department under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 by virtue of section 1(2)(d) of that Act (teachers).
+**3B.**[^c-852a8b424324b6302b10f6f65001e728] A pension payable by the Department of Education under a scheme made by the Department under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 by virtue of section 1(2)(d) of that Act (teachers).
 
 *Paras.4, 5 rep. by 1975 NI 15*
 
-**5A.**[^key-90a9d7f2ec0c709a00d02e33683b32c9] A pension payable by the Department of Justice under a scheme made by the Department under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 by virtue of section 1(2)(g) of that Act (members of police service).
+**5A.**[^c-90a9d7f2ec0c709a00d02e33683b32c9] A pension payable by the Department of Justice under a scheme made by the Department under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 by virtue of section 1(2)(g) of that Act (members of police service).
 
 **5B.** A pension payable under a scheme made by the Department of Justice under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 by virtue of section 1(2)(b) of that Act (holders of judicial office).
 
@@ -411,7 +411,7 @@ This paragraph does not include any part of an annual allowance that is payable 
 
 **7A.**[^c11556141] A pension payable to or in respect of a person in relation to whom regulations may be made under Article 12 of the Superannuation (Northern Ireland) Order 1972, being a pension payable under regulations made under Article 19 of that Order (compensation for loss of employment, etc.).\]
 
-**7B.**[^key-3a70caca080bc4bcd5dc68fd96c4d5db] A pension payable by the Department of Health, Social Services and Public Safety under a scheme made by the Department under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 by virtue of section 1(2)(e) of that Act (health service workers).
+**7B.**[^c-3a70caca080bc4bcd5dc68fd96c4d5db] A pension payable by the Department of Health, Social Services and Public Safety under a scheme made by the Department under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 by virtue of section 1(2)(e) of that Act (health service workers).
 
 **8.** A pension payable by the Ministry of Finance under section 33 of the Agriculture Act (Northern Ireland) 1949 [^m00041].
 
@@ -435,13 +435,13 @@ This paragraph does not include any part of an annual allowance that is payable 
 
 **14A.**[^c11556201] A pension payable to or in respect of a person in relation to whom regulations may be made under Article 9 of the Superannuation (Northern Ireland) Order 1972, being a pension payable under regulations made under Article 19 of that Order (compensation for loss of employment, etc.).\]
 
-**14B.**[^key-54c74e7357bc14dc78ea61b39f77cc60][^key-c2a71fde8d2a44c92de5516d94a53ff0] A pension payable under a defined benefits scheme, within the meaning of the Public Service Pensions Act (Northern Ireland) 2014, made by the Department of the Environment under section 1 of that Act by virtue of section 1(2)(c) of that Act (local government workers).
+**14B.**[^c-54c74e7357bc14dc78ea61b39f77cc60][^c-c2a71fde8d2a44c92de5516d94a53ff0] A pension payable under a defined benefits scheme, within the meaning of the Public Service Pensions Act (Northern Ireland) 2014, made by the Department of the Environment under section 1 of that Act by virtue of section 1(2)(c) of that Act (local government workers).
 
 **15.** A pension payable under any enactment by a local authority in respect of a service in a fire brigade or in respect of service which by or under any enactment is treated as service in a fire brigade, not being a pension specified in paragraph 16.
 
 **16.**[^c20046921] A pension payable in accordance with any scheme under the Fire and Rescue Services (Northern Ireland) Order 2006 or payable by virtue of Article 60 of that Order.
 
-**16A.**[^key-4507502b12e04aa45ea165bae7446382] A pension payable under a defined benefits scheme, within the meaning of the Public Service Pensions Act (Northern Ireland) 2014, made by the Department of Health, Social Services and Public Safety under section 1 of that Act by virtue of section 1(2)(f) of that Act (fire and rescue workers).
+**16A.**[^c-4507502b12e04aa45ea165bae7446382] A pension payable under a defined benefits scheme, within the meaning of the Public Service Pensions Act (Northern Ireland) 2014, made by the Department of Health, Social Services and Public Safety under section 1 of that Act by virtue of section 1(2)(f) of that Act (fire and rescue workers).
 
 **17.** A pension payable by the Northern Ireland Hospitals Authority under section 23 or section 60 of the Health Services Act (Northern Ireland) 1948 [^m00046].
 
@@ -549,7 +549,7 @@ This paragraph does not include any part of an annual allowance that is payable 
 
 [^m00014]: Marginal citation: 1952 c.15
 
-[^key-516c15e0c772d26b006110283514ddd9]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/apni/1971/35/section/8A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/2); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-516c15e0c772d26b006110283514ddd9]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/apni/1971/35/section/8A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/2); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^c11555721]: Textual amendment: [1990 NI 13](https://www.legislation.gov.uk/nisi/1990)
 
@@ -625,7 +625,7 @@ This paragraph does not include any part of an annual allowance that is payable 
 
 [^m00031]: Marginal citation: 1972 NI 10
 
-[^key-3d036d04b1b87847c82ad92b241c7583]: Textual amendment: Sch. 2 para. 2A inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 4](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/4); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-3d036d04b1b87847c82ad92b241c7583]: Textual amendment: Sch. 2 para. 2A inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 4](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/4); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^m00032]: Marginal citation: 1879 c.74
 
@@ -643,9 +643,9 @@ This paragraph does not include any part of an annual allowance that is payable 
 
 [^c11556121]: Textual amendment: [1972 NI 10](https://www.legislation.gov.uk/nisi/1972)
 
-[^key-852a8b424324b6302b10f6f65001e728]: Textual amendment: Sch. 2 para. 3B inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 5](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/5); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-852a8b424324b6302b10f6f65001e728]: Textual amendment: Sch. 2 para. 3B inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 5](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/5); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
-[^key-90a9d7f2ec0c709a00d02e33683b32c9]: Textual amendment: Sch. 2 paras. 5A, 5B inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 6](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/6); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-90a9d7f2ec0c709a00d02e33683b32c9]: Textual amendment: Sch. 2 paras. 5A, 5B inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 6](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/6); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^m00036]: Marginal citation: 1946 c.23
 
@@ -661,7 +661,7 @@ This paragraph does not include any part of an annual allowance that is payable 
 
 [^c11556141]: Textual amendment: [1972 NI 10](https://www.legislation.gov.uk/nisi/1972)
 
-[^key-3a70caca080bc4bcd5dc68fd96c4d5db]: Textual amendment: Sch. 2 para. 7B inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 7](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/7); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-3a70caca080bc4bcd5dc68fd96c4d5db]: Textual amendment: Sch. 2 para. 7B inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 7](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/7); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^m00041]: Marginal citation: 1949 c.2
 
@@ -685,13 +685,13 @@ This paragraph does not include any part of an annual allowance that is payable 
 
 [^c11556201]: Textual amendment: [1972 NI 10](https://www.legislation.gov.uk/nisi/1972)
 
-[^key-54c74e7357bc14dc78ea61b39f77cc60]: Modification: Sch. 2 para. 14B: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-54c74e7357bc14dc78ea61b39f77cc60]: Modification: Sch. 2 para. 14B: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-c2a71fde8d2a44c92de5516d94a53ff0]: Textual amendment: Sch. 2 para. 14B inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 8](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/8); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-c2a71fde8d2a44c92de5516d94a53ff0]: Textual amendment: Sch. 2 para. 14B inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 8](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/8); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^c20046921]: Textual amendment: Sch. 2 para. 16 substituted (1.7.2006) by [Fire and Rescue Services (Northern Ireland) Order 2006 (S.I. 2006/1254 (N.I. 9))](https://www.legislation.gov.uk/nisi/2006/1254), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1254/article/1/3), [63(1)](https://www.legislation.gov.uk/nisi/2006/1254/article/63/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/nisi/2006/1254/schedule/3/paragraph/8); [S.R. 2006/257](https://www.legislation.gov.uk/nisr/2006/257), [art. 2(d)](https://www.legislation.gov.uk/nisr/2006/257/article/2/d)
 
-[^key-4507502b12e04aa45ea165bae7446382]: Textual amendment: [Sch. 2 para. 16A](https://www.legislation.gov.uk/apni/1971/35/schedule/2/paragraph/16A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 9](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/9); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-4507502b12e04aa45ea165bae7446382]: Textual amendment: [Sch. 2 para. 16A](https://www.legislation.gov.uk/apni/1971/35/schedule/2/paragraph/16A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 9](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/9); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^m00046]: Marginal citation: 1948 c.3
 

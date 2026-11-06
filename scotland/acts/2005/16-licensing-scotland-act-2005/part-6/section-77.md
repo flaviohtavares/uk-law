@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Period of effect of personal licence[^key-bc270d66ada4fe9380539e1271d1c6ff][^key-4a6560544015893e20fa146078bdaeac]
+## 77. Period of effect of personal licence[^c-bc270d66ada4fe9380539e1271d1c6ff][^c-4a6560544015893e20fa146078bdaeac]
 
 *Extent: S*
 
-(1)[^key-34b84cdae1e79a86b20cc14afa1b8e1b] A personal licence has effect, subject to the following provisions of this section, during the period of 10 years beginning with the date on which it is issued.
+(1)[^c-34b84cdae1e79a86b20cc14afa1b8e1b] A personal licence has effect, subject to the following provisions of this section, during the period of 10 years beginning with the date on which it is issued.
 
 (2) That period, and any subsequent extension of it under this subsection, is extended for a further period of 10 years if a personal licence renewal application is granted in respect of the licence.
 
@@ -40,14 +40,14 @@ summary: ''
 
 (7) The date of expiry of the period during which a personal licence has effect is referred to in this Act as the “expiry date” of the licence.
 
-(8) Not later than 9[^key-d1a8ae588299b80ef4d59b90985e11f8] months before the expiry date of a personal licence, the Licensing Board which issued the licence must give notice to the licence holder that the licence will cease to have effect on the expiry date unless renewed.
+(8) Not later than 9[^c-d1a8ae588299b80ef4d59b90985e11f8] months before the expiry date of a personal licence, the Licensing Board which issued the licence must give notice to the licence holder that the licence will cease to have effect on the expiry date unless renewed.
 
 ## Annotations
 
-[^key-bc270d66ada4fe9380539e1271d1c6ff]: Modification: S. 77 modified (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [23](https://www.legislation.gov.uk/ssi/2007/454/article/23)
+[^c-bc270d66ada4fe9380539e1271d1c6ff]: Modification: S. 77 modified (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [23](https://www.legislation.gov.uk/ssi/2007/454/article/23)
 
-[^key-4a6560544015893e20fa146078bdaeac]: Commencement: S. 77 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-4a6560544015893e20fa146078bdaeac]: Commencement: S. 77 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-34b84cdae1e79a86b20cc14afa1b8e1b]: Modification: S. 77(1) excluded (30.6.2019) by [The Licensing (Personal Licences Supplemental and Transitional Provision) (Scotland) Order 2019 (S.S.I. 2019/177)](https://www.legislation.gov.uk/ssi/2019/177), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/177/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/177/article/2/2)
+[^c-34b84cdae1e79a86b20cc14afa1b8e1b]: Modification: S. 77(1) excluded (30.6.2019) by [The Licensing (Personal Licences Supplemental and Transitional Provision) (Scotland) Order 2019 (S.S.I. 2019/177)](https://www.legislation.gov.uk/ssi/2019/177), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/177/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/177/article/2/2)
 
-[^key-d1a8ae588299b80ef4d59b90985e11f8]: Textual amendment: Word in s. 77(8) substituted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 60(3)](https://www.legislation.gov.uk/asp/2015/10/section/60/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
+[^c-d1a8ae588299b80ef4d59b90985e11f8]: Textual amendment: Word in s. 77(8) substituted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 60(3)](https://www.legislation.gov.uk/asp/2015/10/section/60/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)

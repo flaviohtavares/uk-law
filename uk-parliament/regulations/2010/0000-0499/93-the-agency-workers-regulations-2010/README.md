@@ -51,7 +51,7 @@ The Secretary of State makes these Regulations—
 - (a) in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 15(1), (2) and (5) and 82(3) of, and paragraphs 7, 8 and 15(1) of Schedule 3 to, the Health and Safety at Work etc Act 1974 [^M_C_6f8400bc-a871-495e-e0d6-02177cab7b7a], (“the 1974 Act”); and
 - (b) independently of any proposals submitted by the Health and Safety Executive under section 11(3) of the 1974 Act.
 
-The Secretary of State has consulted the Health and Safety Executive and such other bodies as appear to the Secretary of State to be appropriate, as required by section 50(1AA) of the 1974 Act [^c20080951].[^key-a236d009359c0e199e5ebe1d0bfabc83]
+The Secretary of State has consulted the Health and Safety Executive and such other bodies as appear to the Secretary of State to be appropriate, as required by section 50(1AA) of the 1974 Act [^c20080951].[^c-a236d009359c0e199e5ebe1d0bfabc83]
 
 ## Contents
 
@@ -155,4 +155,4 @@ An Impact Assessment report of the effect that these Regulations will have on th
 
 [^c20080951]: Marginal citation: Section 50(1AA) was inserted by SI 2008/960, articles 3 16(1) and (2).
 
-[^key-a236d009359c0e199e5ebe1d0bfabc83]: Modification: Regulations modified (E.W.S.) (30.7.2020) by [The Posted Workers (Agency Workers) Regulations 2020 (S.I. 2020/384)](https://www.legislation.gov.uk/uksi/2020/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/384/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/384/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/384/regulation/5))
+[^c-a236d009359c0e199e5ebe1d0bfabc83]: Modification: Regulations modified (E.W.S.) (30.7.2020) by [The Posted Workers (Agency Workers) Regulations 2020 (S.I. 2020/384)](https://www.legislation.gov.uk/uksi/2020/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/384/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/384/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/384/regulation/5))

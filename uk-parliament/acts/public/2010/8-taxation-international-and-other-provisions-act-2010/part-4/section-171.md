@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Tax returns where transfer pricing notice given[^key-3979b09122da12a1036cf30e789065de]
+## 171. Tax returns where transfer pricing notice given[^c-3979b09122da12a1036cf30e789065de]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,11 +30,11 @@ summary: ''
 - (a) the end of the period of 90 days specified in subsection (1), or
 - (b) the earlier amendment of the tax return for the purpose of complying with the notice.
 
-(2A)[^key-92ad108d7e4691b51265a2633806fb2e] Subsection (2) does not apply to a partial closure notice which does not relate to any matter to which the transfer pricing notice relates.
+(2A)[^c-92ad108d7e4691b51265a2633806fb2e] Subsection (2) does not apply to a partial closure notice which does not relate to any matter to which the transfer pricing notice relates.
 
 (3) So far as relating to any provision made or imposed by or in relation to a person—
 
-- (a) who is a small or[^key-6516a2ce0b99eae3cb39080ef94b1af7] medium-sized enterprise for a chargeable period,
+- (a) who is a small or[^c-6516a2ce0b99eae3cb39080ef94b1af7] medium-sized enterprise for a chargeable period,
 - (b) who does not make an election under section 167(2) for that period, and
 - (c) who is not excepted from section 166(1) in relation to that provision for that period because of section 167(3),
 
@@ -58,8 +58,8 @@ the tax return required to be made for that period is a return that disregards s
 
 ## Annotations
 
-[^key-3979b09122da12a1036cf30e789065de]: Modification: Ss. 166-171 excluded (1.4.2010 with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 542(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/542/2), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-3979b09122da12a1036cf30e789065de]: Modification: Ss. 166-171 excluded (1.4.2010 with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 542(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/542/2), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-92ad108d7e4691b51265a2633806fb2e]: Textual amendment: [S. 171(2A)](https://www.legislation.gov.uk/ukpga/2010/8/section/171/2A) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 40](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/40)
+[^c-92ad108d7e4691b51265a2633806fb2e]: Textual amendment: [S. 171(2A)](https://www.legislation.gov.uk/ukpga/2010/8/section/171/2A) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 40](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/40)
 
-[^key-6516a2ce0b99eae3cb39080ef94b1af7]: Textual amendment: Words in s. 171(3)(a) inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/6)
+[^c-6516a2ce0b99eae3cb39080ef94b1af7]: Textual amendment: Words in s. 171(3)(a) inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/6)

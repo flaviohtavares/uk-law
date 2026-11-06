@@ -31,7 +31,7 @@ summary: ''
 
 National Health Service, England
 
-The Dudley and Walsall Mental Health Partnership National Health Service Trust (Establishment) (Amendment) Order 2020 (revoked)[^key-2c68e5f958aabbabd064074b43ba586e]
+The Dudley and Walsall Mental Health Partnership National Health Service Trust (Establishment) (Amendment) Order 2020 (revoked)[^c-2c68e5f958aabbabd064074b43ba586e]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1st August 2020
 
-[^key-2c68e5f958aabbabd064074b43ba586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c68e5f958aabbabd064074b43ba586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2c68e5f958aabbabd064074b43ba586e]
+## 1. Citation, commencement and interpretation[^c-2c68e5f958aabbabd064074b43ba586e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Change of name and savings[^key-2c68e5f958aabbabd064074b43ba586e]
+## 2. Change of name and savings[^c-2c68e5f958aabbabd064074b43ba586e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c68e5f958aabbabd064074b43ba586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c68e5f958aabbabd064074b43ba586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2c68e5f958aabbabd064074b43ba586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c68e5f958aabbabd064074b43ba586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2c68e5f958aabbabd064074b43ba586e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/768) revoked (1.10.2024) by [The Dudley Integrated Health and Care National Health Service Trust (Dissolution) Order 2024 (S.I. 2024/980)](https://www.legislation.gov.uk/uksi/2024/980), [arts. 1](https://www.legislation.gov.uk/uksi/2024/980/article/1), [3](https://www.legislation.gov.uk/uksi/2024/980/article/3)
+[^c-2c68e5f958aabbabd064074b43ba586e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/768) revoked (1.10.2024) by [The Dudley Integrated Health and Care National Health Service Trust (Dissolution) Order 2024 (S.I. 2024/980)](https://www.legislation.gov.uk/uksi/2024/980), [arts. 1](https://www.legislation.gov.uk/uksi/2024/980/article/1), [3](https://www.legislation.gov.uk/uksi/2024/980/article/3)

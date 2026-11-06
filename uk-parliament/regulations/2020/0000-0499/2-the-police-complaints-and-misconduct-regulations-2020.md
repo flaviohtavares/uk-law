@@ -54,7 +54,7 @@ In accordance with section 63(3)(b) of the Police Act 1996[^f00007], the Secreta
 
 *Extent: E+W*
 
-### 1. Citation, commencement, interpretation and application[^key-67da5a8ec6303957d174468f2c5ed8b8]
+### 1. Citation, commencement, interpretation and application[^c-67da5a8ec6303957d174468f2c5ed8b8]
 
 (1) These Regulations may be cited as the Police (Complaints and Misconduct) Regulations 2020 and come into force on 1st February 2020.
 
@@ -103,7 +103,7 @@ In accordance with section 63(3)(b) of the Police Act 1996[^f00007], the Secreta
 
 as they apply in relation to any investigation in pursuance of a determination under paragraph 15 of Schedule 3 (power of the Director General to determine the form of an investigation)[^f00020].
 
-### 2. Revocation and transitional and saving provisions[^key-27aecdc530612c9464751883c186b0fa]
+### 2. Revocation and transitional and saving provisions[^c-27aecdc530612c9464751883c186b0fa]
 
 (1) Subject to the following provisions of this regulation, the following are revoked—
 
@@ -143,7 +143,7 @@ regardless of when the complaint was made or the matter came to the attention of
 
 *Extent: E+W*
 
-### 3. Recording of complaints: copies of complaints etc.[^key-fa9735f44efaa78d0c50f9784b5ae13c]
+### 3. Recording of complaints: copies of complaints etc.[^c-fa9735f44efaa78d0c50f9784b5ae13c]
 
 (1) Where a local policing body or chief officer records a complaint under paragraph 2(6A) or 4A(4) of Schedule 3 (duties to record complaints)[^f00028], the local policing body or chief officer must provide—
 
@@ -159,7 +159,7 @@ regardless of when the complaint was made or the matter came to the attention of
 
 (4) Where a local policing body or chief officer decides not to provide a copy of a complaint under paragraph (1), the local policing body or chief officer must keep that decision under regular review.
 
-### 4. Reference of complaints to the Director General[^key-58ca797e2d0ff9d9f8183cd0f460661e]
+### 4. Reference of complaints to the Director General[^c-58ca797e2d0ff9d9f8183cd0f460661e]
 
 (1) The descriptions of complaint specified for the purposes of paragraph 4(1)(b) of Schedule 3 (complaints which must be referred to the Director General)[^f00029] are—
 
@@ -184,7 +184,7 @@ regardless of when the complaint was made or the matter came to the attention of
 - (a) without delay and in any event not later than the end of the day following the day on which the Director General notifies the appropriate authority that the complaint is to be referred, and
 - (b) in such manner as the Director General determines.
 
-### 5. Complaints relating to the conduct of chief officers etc.[^key-7d90c45198aaf5b01a72928c437db43c]
+### 5. Complaints relating to the conduct of chief officers etc.[^c-7d90c45198aaf5b01a72928c437db43c]
 
 (1) The Director General must determine that it is necessary for complaints referred to the Director General—
 
@@ -195,7 +195,7 @@ to be investigated.
 
 (2) Where the Director General is required by paragraph (1) to determine that it is necessary for a complaint to be investigated, paragraph 15 of Schedule 3 (power of the Director General to determine the form of an investigation) applies in relation to the complaint as if sub-paragraphs (4)(a), (4A) and (5A)(b)[^f00030] were omitted.
 
-### 6. Handling of complaints by the appropriate authority: exception to the duty to investigate[^key-27492eaea0e941b8b41178e7495e5f47]
+### 6. Handling of complaints by the appropriate authority: exception to the duty to investigate[^c-27492eaea0e941b8b41178e7495e5f47]
 
 The duty imposed by paragraph 6(2C) of Schedule 3 (duty to make arrangements for complaint to be investigated)[^f00031] does not apply where the appropriate authority determines that—
 
@@ -212,7 +212,7 @@ The duty imposed by paragraph 6(2C) of Schedule 3 (duty to make arrangements for
   - (i) it has been or is being investigated, or
   - (ii) in the case of a complaint, it has been or is being otherwise handled in accordance with Schedule 3 or the provisions of Part 2 of the 2002 Act ceased to apply to it in accordance with regulation 38 (withdrawn complaints) or regulations 38 and 39 (withdrawn complaints: no written signed notification).
 
-### 7. Recording and reference of conduct matters[^key-22fcbc961e8e04bd43729ffebc726522]
+### 7. Recording and reference of conduct matters[^c-22fcbc961e8e04bd43729ffebc726522]
 
 (1) The descriptions of conduct specified for the purposes of paragraph 11(2)(c) of Schedule 3 (recording etc. of conduct matters in other cases) are—
 
@@ -241,20 +241,20 @@ The duty imposed by paragraph 6(2C) of Schedule 3 (duty to make arrangements for
 - (a) if the matter falls within paragraph 13(1)(a) or (b) of Schedule 3, without delay and in any event not later than the end of the day following the day on which it becomes clear to the appropriate authority that the conduct matter is one to which paragraph 13(1)(a) or (b) of Schedule 3 applies;
 - (b) if the matter falls within paragraph 13(1)(c) of Schedule 3, without delay and in any event not later than the end of the day following the day on which the Director General notifies the appropriate authority that the conduct matter is to be referred.
 
-### 8. Recordable conduct matters relating to the conduct of chief officers etc.[^key-c9c9257c71e796c5ae43a46c91e94aaf]
+### 8. Recordable conduct matters relating to the conduct of chief officers etc.[^c-c9c9257c71e796c5ae43a46c91e94aaf]
 
 (1) The Director General must determine that it is necessary for recordable conduct matters referred to the Director General that relate to the conduct of a chief officer or the Deputy Commissioner of Police of the Metropolis to be investigated.
 
 (2) Where the Director General is required by paragraph (1) to determine that it is necessary for a recordable conduct matter to be investigated, paragraph 15 of Schedule 3 (power of the Director General to determine the form of an investigation) applies in relation to the matter as if sub-paragraphs (4)(a), (4A) and (5A)(b) were omitted.
 
-### 9. Reference of DSI Matters[^key-989998fe665394d63d8babaf3bf2d568]
+### 9. Reference of DSI Matters[^c-989998fe665394d63d8babaf3bf2d568]
 
 Any DSI matter which is required to be referred to the Director General must be referred in such manner as the Director General determines and—
 
 - (a) in a case where the Director General directs that the matter be referred to the Director General, without delay and in any event not later than the end of the day following the day on which the Director General so directs, and
 - (b) in any other case, without delay and in any event not later than the end of the day following the day on which the matter first comes to the attention of the appropriate authority.
 
-### 10. DSI matters relating to the conduct of chief officers etc.[^key-a7311e4b81f49fcb322c5e03fe33e7c3]
+### 10. DSI matters relating to the conduct of chief officers etc.[^c-a7311e4b81f49fcb322c5e03fe33e7c3]
 
 (1) The Director General must determine that it is necessary for DSI matters referred to the Director General in relation to which the relevant officer[^f00035] is a chief officer or the Deputy Commissioner of Police of the Metropolis to be investigated.
 
@@ -264,7 +264,7 @@ Any DSI matter which is required to be referred to the Director General must be 
 
 *Extent: E+W*
 
-### 11. Notification of determination of form of investigation etc: exceptions[^key-535e5640e19c360ab6108c8f7141ff4a]
+### 11. Notification of determination of form of investigation etc: exceptions[^c-535e5640e19c360ab6108c8f7141ff4a]
 
 (1) Subject to paragraph (3), the duties imposed by—
 
@@ -295,7 +295,7 @@ on the Director General do not apply where in the opinion of the Director Genera
 - (c) the disclosure of that information might prejudice the welfare or safety of any third party;
 - (d) that information constitutes criminal intelligence.
 
-### 12. Appointment of persons to carry out investigations[^key-5c72cd1cea47c356a0c7f490a71aa7e6]
+### 12. Appointment of persons to carry out investigations[^c-5c72cd1cea47c356a0c7f490a71aa7e6]
 
 A person may not be appointed to carry out an investigation under paragraph 16 or 18 of Schedule 3 (investigations by the appropriate authority on its own behalf and investigations directed by the Director General)[^f00038]—
 
@@ -309,7 +309,7 @@ A person may not be appointed to carry out an investigation under paragraph 16 o
   - (v) a designated police volunteer serving in that force;
 - (d) if the person’s involvement could reasonably give rise to a concern as to whether the person could act impartially.
 
-### 13. Timeliness of investigations[^key-e98558e91d45ed027de40fdd2bb4c83c]
+### 13. Timeliness of investigations[^c-e98558e91d45ed027de40fdd2bb4c83c]
 
 (1) Where an investigation under paragraph 16 of Schedule 3 (investigations by the appropriate authority on its own behalf) is not completed within a relevant period, the appropriate authority must, as soon as practicable after the end of that period, provide in writing the information mentioned in paragraph (4) to—
 
@@ -350,7 +350,7 @@ except in a case where it appears to the Director General that to do so might pr
 
 (7) Paragraphs (4) and (5) of regulation 35 apply in relation to paragraph (6) of this regulation as they apply in relation to paragraph (2) of regulation 34.
 
-### 14. Combining and splitting investigations[^key-d570a83a655ae3972447cc21a5fe1400]
+### 14. Combining and splitting investigations[^c-d570a83a655ae3972447cc21a5fe1400]
 
 (1) Where an investigation is being carried out under paragraph 16 of Schedule 3 (investigations by the appropriate authority on its own behalf), the appropriate authority may—
 
@@ -373,7 +373,7 @@ if the Director General considers that it is more efficient and effective, or is
 - (a) where an investigation is split into two or more separate investigations, those investigations may take different forms;
 - (b) two or more separate investigations which take different forms (including an investigation being carried out by the appropriate authority on its own behalf) may be combined into a single investigation.
 
-### 15. Change of form of investigation: provision of documentation and evidence[^key-21dd4c5933a01381df75e0ac1bb1b103]
+### 15. Change of form of investigation: provision of documentation and evidence[^c-21dd4c5933a01381df75e0ac1bb1b103]
 
 (1) This regulation applies where the Director General determines[^f00041] that—
 
@@ -382,7 +382,7 @@ if the Director General considers that it is more efficient and effective, or is
 
 (2) The Director General must send to the appropriate authority any documentation and evidence gathered during the investigation which will assist the appropriate authority to carry out its functions under Part 2 of the 2002 Act.
 
-### 16. Special procedure: severity assessment[^key-724c53b63e254870c2909bf94f31ff47]
+### 16. Special procedure: severity assessment[^c-724c53b63e254870c2909bf94f31ff47]
 
 (1) Where paragraph 19A of Schedule 3 (special procedure where investigation relates to police officer or special constable)[^f00042] applies to an investigation, the person investigating must proceed with the investigation in accordance with this regulation and regulations 17 to 22 (special procedure).
 
@@ -400,14 +400,14 @@ if the Director General considers that it is more efficient and effective, or is
 
 (5) A severity assessment may only be made after consultation with the appropriate authority.
 
-### 17. Special procedure: notification of severity assessment etc.[^key-d9d5a0571f89d1e2ae3b2f0c6685a3c2]
+### 17. Special procedure: notification of severity assessment etc.[^c-d9d5a0571f89d1e2ae3b2f0c6685a3c2]
 
 (1) Except where paragraph (4) applies, on the completion of a severity assessment, the person investigating must give the person concerned a notification stating—
 
 - (a) the conduct that is the subject matter of the allegation and how that conduct is alleged to fall below the Standards of Professional Behaviour;
 - (b) that there is to be an investigation into the matter and the identity of the person investigating;
 - (c) the result of the severity assessment;
-- (ca)[^key-40026a75575a7ff8165a0363452d8daa] where relevant, that if, after the day on which the officer is given the written notice, the officer is charged with an offence listed in Schedule 3 to the Police (Conduct) Regulations 2020 in connection with the conduct that is the subject matter of the allegation, or with attempt or conspiracy to commit such an offence, the officer will be automatically suspended upon notification of the charge;
+- (ca)[^c-40026a75575a7ff8165a0363452d8daa] where relevant, that if, after the day on which the officer is given the written notice, the officer is charged with an offence listed in Schedule 3 to the Police (Conduct) Regulations 2020 in connection with the conduct that is the subject matter of the allegation, or with attempt or conspiracy to commit such an offence, the officer will be automatically suspended upon notification of the charge;
 - (d) that if the person concerned is dismissed at disciplinary proceedings, information including the person’s full name and a description of the conduct which led to dismissal will be added to the list referred to in section 88B(2) of the Police Act 1996 (police barred list)[^f00045] and may be subject to publication for a period of up to five years;
 - (e) that the person concerned has the right to seek advice from the person’s staff association or any other body;
 - (f) the effect of regulation 18 (special procedure: police friend);
@@ -434,9 +434,9 @@ considers that giving the notification or providing a copy of the terms, or revi
 
 (6) On the completion of a severity assessment, the person investigating must notify the appropriate authority of the result of the assessment.
 
-(7)[^key-17c7d3cae46525059ed4bd36122ef020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-17c7d3cae46525059ed4bd36122ef020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Special procedure: police friend[^key-87babcb2b96eef844e28ea25ff5f5a27]
+### 18. Special procedure: police friend[^c-87babcb2b96eef844e28ea25ff5f5a27]
 
 (1) This regulation applies where the person investigating a complaint or matter has given the person concerned a notification under regulation 17 (special procedure: notification of severity assessment etc.).
 
@@ -445,7 +445,7 @@ considers that giving the notification or providing a copy of the terms, or revi
 - (a) a member of a police force;
 - (b) a special constable;
 - (c) a police staff member, or
-- (d) where the person concerned is a member of a police force or a special constable[^key-c17ec1931dcb4f55845bdda76968a9c5], a person nominated by the person’s staff association,
+- (d) where the person concerned is a member of a police force or a special constable[^c-c17ec1931dcb4f55845bdda76968a9c5], a person nominated by the person’s staff association,
 
 who is not otherwise involved in the matter to act as the person’s police friend.
 
@@ -460,7 +460,7 @@ who is not otherwise involved in the matter to act as the person’s police frie
 
 (5) The reference in paragraph (4) to the force of which the police friend is a member includes a reference to the force maintained for the police area for which a special constable is appointed and the force in which a police staff member is serving.
 
-### 19. Special procedure: revision of severity assessment[^key-4c84ec9a36fb9dc88fbd60139cfd3324]
+### 19. Special procedure: revision of severity assessment[^c-4c84ec9a36fb9dc88fbd60139cfd3324]
 
 (1) Where in the case of an investigation under—
 
@@ -494,9 +494,9 @@ of the result of the revision.
 
 considers the notification might prejudice the investigation or any other investigation (including a criminal investigation).
 
-(7)[^key-744ccf1fafb28fcef1e56306c5c841a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-744ccf1fafb28fcef1e56306c5c841a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Special procedure: representations to the person investigating[^key-ebec687897be14a5cbe2d3467730494d]
+### 20. Special procedure: representations to the person investigating[^c-ebec687897be14a5cbe2d3467730494d]
 
 (1) This regulation applies where the person investigating a complaint or matter has provided the person concerned with a copy of the terms of reference of the investigation, or given the person concerned a notice, under regulation 17(2) (special procedure: notification of severity assessment etc.).
 
@@ -514,7 +514,7 @@ the person concerned or the person’s police friend provides the person investi
 - (a) the person investigating, or
 - (b) in the case of an investigation under paragraph 19 of Schedule 3 other than by the Director General acting personally, the Director General.
 
-### 21. Special procedure: interview of the person concerned[^key-ff7cd9b7b963f8edf7b204a5be1ce3bf]
+### 21. Special procedure: interview of the person concerned[^c-ff7cd9b7b963f8edf7b204a5be1ce3bf]
 
 (1) This regulation applies where the person investigating a complaint or matter has provided the person concerned with a copy of the terms of reference of the investigation, or given the person concerned a notice under regulation 17(2) (special procedure: notification of severity assessment etc.).
 
@@ -549,7 +549,7 @@ the interview must be postponed to the time proposed by the person concerned.
 
 (8) A police friend may not answer any questions asked of the person concerned during the interview.
 
-### 22. Special procedure: duty to provide information to appropriate authority[^key-95f433057caf4ae2bad433b0297351b4]
+### 22. Special procedure: duty to provide information to appropriate authority[^c-95f433057caf4ae2bad433b0297351b4]
 
 (1) In a case where the Director General or person investigating has made a severity assessment under regulation 16 (special procedure: severity assessment), the person investigating must provide the appropriate authority with such information in that person’s possession as the authority may reasonably request for the purpose mentioned in paragraph (2).
 
@@ -558,7 +558,7 @@ the interview must be postponed to the time proposed by the person concerned.
 - (a) from the office of constable, and
 - (b) where that person is a member of a police force, from membership of that force.
 
-### 23. Police friend: police staff members and designated police volunteers[^key-0b388baab132bda8720c6ccc2105a811]
+### 23. Police friend: police staff members and designated police volunteers[^c-0b388baab132bda8720c6ccc2105a811]
 
 (1) This regulation applies where—
 
@@ -590,7 +590,7 @@ who is not otherwise involved in the matter to act as the police staff member or
 
 (4) Paragraphs (4) and (5) of regulation 18 (police friend: special procedure) apply for the purposes of this regulation as they apply for the purposes of that regulation.
 
-### 24. Accelerated procedure: statement and report[^key-3ce1249b69fbfdf9c97de8c0395531e7]
+### 24. Accelerated procedure: statement and report[^c-3ce1249b69fbfdf9c97de8c0395531e7]
 
 (1) Where paragraph 20A of Schedule 3 (accelerated procedure in special cases)[^f00049] applies, the person investigating, the appropriate authority and (where the person investigating is not also the Director General carrying out the investigation under paragraph 19 of Schedule 3 personally) the Director General must proceed in accordance with—
 
@@ -632,7 +632,7 @@ who is not otherwise involved in the matter to act as the police staff member or
 
 (10) In regulations 25 and 26, “special report” means a report submitted under this regulation.
 
-### 25. Accelerated procedure: investigations by the appropriate authority on its own behalf[^key-6431f988345de6147a3f0583490d9c2c]
+### 25. Accelerated procedure: investigations by the appropriate authority on its own behalf[^c-6431f988345de6147a3f0583490d9c2c]
 
 (1) This regulation applies if a statement and special report on an investigation under paragraph 16 of Schedule 3 (investigations by the appropriate authority on its own behalf) are submitted to the appropriate authority under regulation 24 (accelerated procedure: statement and report).
 
@@ -655,7 +655,7 @@ it must notify the person investigating the complaint or recordable conduct matt
 - (a) a certification under paragraph (3), or
 - (b) its determination under paragraph (4).
 
-### 26. Accelerated procedure: other investigations[^key-5b264476d379e0a2f265c454ad969312]
+### 26. Accelerated procedure: other investigations[^c-5b264476d379e0a2f265c454ad969312]
 
 (1) This regulation applies if a statement and special report on an investigation under—
 
@@ -664,7 +664,7 @@ it must notify the person investigating the complaint or recordable conduct matt
 
 are submitted to the appropriate authority under regulation 24 (accelerated procedure: statement and report).
 
-(1A)[^key-49f8c3a817397a8117b03ac2b55e6eeb] This regulation also applies if a report or a copy of a report on an investigation under—
+(1A)[^c-49f8c3a817397a8117b03ac2b55e6eeb] This regulation also applies if a report or a copy of a report on an investigation under—
 
 - (a) paragraph 16 of Schedule 3 (investigations by the appropriate authority on its own behalf);
 - (b) paragraph 18 of Schedule 3, or
@@ -672,9 +672,9 @@ are submitted to the appropriate authority under regulation 24 (accelerated proc
 
 is submitted or sent to the appropriate authority under paragraph 22 (final reports on investigations) or paragraph 23 (action by the Director General in relation to an investigation report) of Schedule 3.
 
-(2) Where paragraph (1) applies, the appropriate authority[^key-7d32c469d8d2d0fc4fb8c592edeb4c58] must determine whether the special conditions are satisfied.
+(2) Where paragraph (1) applies, the appropriate authority[^c-7d32c469d8d2d0fc4fb8c592edeb4c58] must determine whether the special conditions are satisfied.
 
-(2A)[^key-4d7445b0d091b5804f6d1760683e0862] Subject to paragraph (2B), where paragraph (1A) applies, the appropriate authority may at any time determine whether the special conditions are satisfied.
+(2A)[^c-4d7445b0d091b5804f6d1760683e0862] Subject to paragraph (2B), where paragraph (1A) applies, the appropriate authority may at any time determine whether the special conditions are satisfied.
 
 (2B) The appropriate authority must not make a determination under paragraph (2A)—
 
@@ -683,12 +683,12 @@ is submitted or sent to the appropriate authority under paragraph 22 (final repo
 - (c) where the appropriate authority has a duty under paragraph 27(4)(b) of Schedule 3 (duties with respect to disciplinary proceedings etc) to comply with a direction to give effect to a recommendation to bring misconduct proceedings, or
 - (d) where the case is referred to misconduct proceedings, on or after the date of the misconduct meeting or misconduct hearing.
 
-(3) Subject to paragraph (3A), if the appropriate authority[^key-98bced1f9b3a018975f8c050514d0bc4] determines that the special conditions are satisfied, it must, unless it considers that the circumstances are such as to make it inappropriate to do so—
+(3) Subject to paragraph (3A), if the appropriate authority[^c-98bced1f9b3a018975f8c050514d0bc4] determines that the special conditions are satisfied, it must, unless it considers that the circumstances are such as to make it inappropriate to do so—
 
 - (a) certify the case as one where the special conditions are satisfied for the purposes of the Conduct Regulations, and
 - (b) take such steps as are required by those Regulations in relation to the case.
 
-(3A)[^key-b47ca5604b4a882ddfef3aea1b3c97fb] Where paragraph (1A)(b) or (c) applies, the appropriate authority must not certify the case under paragraph (3) unless—
+(3A)[^c-b47ca5604b4a882ddfef3aea1b3c97fb] Where paragraph (1A)(b) or (c) applies, the appropriate authority must not certify the case under paragraph (3) unless—
 
 - (a) it submits a memorandum to the Director General notifying the Director General of its determination that the special conditions are satisfied and the reasons for its determination, and
 - (b) the Director General notifies the appropriate authority that the Director General does not object to the certification.
@@ -697,7 +697,7 @@ is submitted or sent to the appropriate authority under paragraph 22 (final repo
 
 (3C) If the Director General notifies the appropriate authority that the Director General objects to the certification, the Director General must provide the appropriate authority with a statement of the Director General’s belief as to why it would be inappropriate to certify the case.
 
-(4) Except where paragraph (1A)(a) applies, the appropriate authority[^key-fb261cf54a2d6b55ae758a8e3b3cc0b6] must notify the Director General of a certification under paragraph (3).
+(4) Except where paragraph (1A)(a) applies, the appropriate authority[^c-fb261cf54a2d6b55ae758a8e3b3cc0b6] must notify the Director General of a certification under paragraph (3).
 
 (5) If the appropriate authority determines that—
 
@@ -727,9 +727,9 @@ and the appropriate authority must certify the case under that paragraph, take s
 
 (9) The Director General may at any time withdraw a direction given under this regulation.
 
-(10)[^key-61a1c4f9eaeddbf42c0b4c1b156b7f73] In this regulation, “**misconduct hearing**”, “**misconduct meeting**” and “**misconduct proceedings**” have the same meaning as in the Conduct Regulations.
+(10)[^c-61a1c4f9eaeddbf42c0b4c1b156b7f73] In this regulation, “**misconduct hearing**”, “**misconduct meeting**” and “**misconduct proceedings**” have the same meaning as in the Conduct Regulations.
 
-### 27. Report on investigation[^key-d7eb33d62ac7778e74c99340e879722d]
+### 27. Report on investigation[^c-d7eb33d62ac7778e74c99340e879722d]
 
 (1) For the purposes of paragraph 22(7) of Schedule 3 (final reports on investigations)[^f00052], a report on an investigation to which paragraph 19A of Schedule 3 (special procedure where investigation relates to police officer or special constable) applies must—
 
@@ -756,7 +756,7 @@ where the Director General seeks the views of the appropriate authority on the m
 
 (5) The time limit is 28 days starting with the day after which the Director General seeks the appropriate authority’s views in accordance with paragraph 23(5A)(a) of Schedule 3, unless this period is extended by the Director General.
 
-### 28. Provision of copy of report on investigation etc. to person to whose conduct the investigation related[^key-264e5e850302ac7812d7a9db85387d22]
+### 28. Provision of copy of report on investigation etc. to person to whose conduct the investigation related[^c-264e5e850302ac7812d7a9db85387d22]
 
 (1) Except where paragraph (2) applies, where—
 
@@ -771,7 +771,7 @@ the Director General or appropriate authority (as the case may be) must provide 
 
 (4) Where the Director General or appropriate authority would contravene section 21A of the 2002 Act (restriction on disclosure of sensitive information) by providing a copy of the report, or part of it, under paragraph (1), the Director General or appropriate authority must instead provide the copy having removed or obscured the information which by virtue of section 21A must not be disclosed.
 
-### 29. Reviews[^key-38a48ebb3b9f3792ef017443adf1e1aa]
+### 29. Reviews[^c-38a48ebb3b9f3792ef017443adf1e1aa]
 
 (1) This regulation applies to reviews under—
 
@@ -802,7 +802,7 @@ the Director General or appropriate authority (as the case may be) must provide 
 
 (9) The relevant review body must comply with its duty under paragraph 6A(4) or 25(4A) of Schedule 3 (duty to determine whether outcome of complaint is reasonable and proportionate)[^f00061] as soon as practicable.
 
-### 30. Recommendations by the Director General or a local policing body[^key-ad3325971023da15caf8c0b9cf6761e0]
+### 30. Recommendations by the Director General or a local policing body[^c-ad3325971023da15caf8c0b9cf6761e0]
 
 (1) The kinds of recommendation described for the purposes of paragraph 28ZA(1) of Schedule 3 (recommendations by the Director General or a local policing body)[^f00062] are—
 
@@ -843,7 +843,7 @@ the Director General or appropriate authority (as the case may be) must provide 
 - (a) in relation to a recommendation under paragraph 28ZA of Schedule 3, has the meaning given by sub-paragraph (3) of that paragraph;
 - (b) in relation to a recommendation under paragraph 6A(6)(a) or (b) or 25(4E)(a), (b) or (c) or (4G)(b) of Schedule 3, means the complainant who applied under paragraph 6A(2) or 25(1B) of Schedule 3 for the review.
 
-### 31. Recommendations by the Director General under paragraph 28A of Schedule 3[^key-a42b5b276bdffc33d188d0284ced26af]
+### 31. Recommendations by the Director General under paragraph 28A of Schedule 3[^c-a42b5b276bdffc33d188d0284ced26af]
 
 (1) The types of conduct matter specified for the purposes of paragraph 28A(4)(a)(ii) of Schedule 3 (recommendation following receipt or completion of report relating to a conduct matter)[^f00065] are any matter—
 
@@ -873,7 +873,7 @@ the Director General or appropriate authority (as the case may be) must provide 
 - (e) in respect of which the Director General gives a notification to the appropriate authority under paragraph 4(1)(c) of Schedule 3 (power of the Director General to require a complaint to be referred)[^f00070], or
 - (f) that the Director General is treating as having been referred to the Director General under paragraph 4A(1) of Schedule 3 (power of the Director General to treat complaint as having been referred)[^f00071].
 
-### 32. Relevant review body[^key-87bb465e59e0271fd6388440def1ddc2]
+### 32. Relevant review body[^c-87bb465e59e0271fd6388440def1ddc2]
 
 The description of complaints specified for the purposes of paragraph 30(1)(a) of Schedule 3 (reviews: cases where the Director General is the relevant review body)[^f00072] is any complaint—
 
@@ -890,7 +890,7 @@ The description of complaints specified for the purposes of paragraph 30(1)(a) o
 
 *Extent: E+W*
 
-### 33. Matters of which the complainant and interested person must be kept properly informed[^key-b3fe726fc42ac362feb7e53c575e2af9]
+### 33. Matters of which the complainant and interested person must be kept properly informed[^c-b3fe726fc42ac362feb7e53c575e2af9]
 
 (1) Paragraph (2) specifies matters of which the complainant and interested person must be kept properly informed, in accordance with sections 20(4)(d) and 21(9)(c) of the 2002 Act (duties to keep the complainant informed and provide information for interested persons)[^f00074].
 
@@ -912,7 +912,7 @@ The description of complaints specified for the purposes of paragraph 30(1)(a) o
 - (c) the outcome of any such proceedings or process;
 - (d) where an appeal is brought against the outcome of any such proceedings, the fact and outcome of the appeal.
 
-### 34. Manner in which duties to keep the complainant and interested person informed are to be performed[^key-386824cd54c7a5b0fd73c7aa6c39605c]
+### 34. Manner in which duties to keep the complainant and interested person informed are to be performed[^c-386824cd54c7a5b0fd73c7aa6c39605c]
 
 (1) In accordance with sections 20(5) and 21(10) of the 2002 Act (duties to keep the complainant informed and provide information for interested persons)[^f00075], the following provisions of this regulation specify the manner in which the duties imposed on the Director General and appropriate authority by those sections are to be performed.
 
@@ -944,7 +944,7 @@ promptly and in any event within five working days of the outcome of the handlin
 
 (6) As soon as practicable after any such meeting, the Director General or appropriate authority (as the case may be) must send the complainant or interested person a written record of the meeting and an account of how any concerns of that person will be addressed.
 
-### 35. Exceptions to duties to keep the complainant and interested person informed[^key-357a064b6dd512401c55814d7bf9be91]
+### 35. Exceptions to duties to keep the complainant and interested person informed[^c-357a064b6dd512401c55814d7bf9be91]
 
 (1) In accordance with sections 20(5) and 21(10) of the 2002 Act (duties to keep the complainant informed and provide information for interested persons), paragraph (2) specifies the circumstances in which the duties imposed on the Director General and appropriate authority by those sections do not apply.
 
@@ -971,11 +971,11 @@ promptly and in any event within five working days of the outcome of the handlin
 - (c) the disclosure of that information might prejudice the welfare or safety of any third party;
 - (d) that information constitutes criminal intelligence.
 
-### 36. Meaning of “relative”[^key-f2b970dd9e6911d53e85fa9273b51941]
+### 36. Meaning of “relative”[^c-f2b970dd9e6911d53e85fa9273b51941]
 
 For the purposes of section 21(12) of the 2002 Act (duty to provide information for other persons: meaning of “relative”) the description of person prescribed is any spouse, partner, parent or adult child.
 
-### 37. Appropriate authority to notify the Director General of outcome of disciplinary proceedings etc.[^key-d6f025b218ece134198acaaa63470bc5]
+### 37. Appropriate authority to notify the Director General of outcome of disciplinary proceedings etc.[^c-d6f025b218ece134198acaaa63470bc5]
 
 The appropriate authority must notify the Director General of–
 
@@ -987,7 +987,7 @@ The appropriate authority must notify the Director General of–
 
 *Extent: E+W*
 
-### 38. Withdrawn complaints[^key-dd2b271c331bb9a37790f07f75678ce8]
+### 38. Withdrawn complaints[^c-dd2b271c331bb9a37790f07f75678ce8]
 
 (1) This regulation applies where an appropriate authority receives a notification signed by the complainant or the complainant’s solicitor or other authorised agent on the complainant’s behalf that the complainant—
 
@@ -1038,7 +1038,7 @@ the Director General must consider whether it is in the public interest for that
 - (a) might prejudice any criminal investigation or pending proceedings, or
 - (b) would otherwise be contrary to the public interest.
 
-### 39. Withdrawn complaints: no written signed notification[^key-0b6372aa989933bf9f71a72b11b1a16c]
+### 39. Withdrawn complaints: no written signed notification[^c-0b6372aa989933bf9f71a72b11b1a16c]
 
 (1) This regulation applies where the complainant indicates a wish—
 
@@ -1058,7 +1058,7 @@ but does not provide a notification to that effect signed by the complainant or 
 
 the appropriate authority must proceed as if it had received a notification signed by the complainant that the complainant withdraws the complaint.
 
-### 40. Suspension of investigation or other procedure[^key-00b64cd44c0497c28ba564bca7a95958]
+### 40. Suspension of investigation or other procedure[^c-00b64cd44c0497c28ba564bca7a95958]
 
 (1) The Director General and, subject to paragraph (2), an appropriate authority may suspend any investigation or other procedure under Part 2 of the 2002 Act which, in the opinion of the Director General or appropriate authority, would, if it were to continue, prejudice any criminal investigation or proceedings.
 
@@ -1066,7 +1066,7 @@ the appropriate authority must proceed as if it had received a notification sign
 
 (3) The Director General must consult the appropriate authority before making such a direction.
 
-### 41. Resumption of investigation of complaint after criminal proceedings[^key-cdec85b728fe650ae77b5d9275983506]
+### 41. Resumption of investigation of complaint after criminal proceedings[^c-cdec85b728fe650ae77b5d9275983506]
 
 (1) This regulation applies where—
 
@@ -1097,7 +1097,7 @@ the Director General or appropriate authority (as the case may be) must determin
 
 (8) Nothing in paragraph (7) requires the Director General or appropriate authority to make a notification if the Director General or appropriate authority (as the case may be) believes that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
 
-### 42. Complaints and conduct matters relating to the conduct of a person who has ceased to be a person serving with the police[^key-c8c7a668ffb95ee140cbeafdee1ff735]
+### 42. Complaints and conduct matters relating to the conduct of a person who has ceased to be a person serving with the police[^c-c8c7a668ffb95ee140cbeafdee1ff735]
 
 (1) Where a complaint or conduct matter relates to the conduct of a person who has ceased to be a person serving with the police since the time of the conduct and on or after 15th December 2017, the provisions of Part 2 of the 2002 Act and these Regulations apply—
 
@@ -1106,7 +1106,7 @@ the Director General or appropriate authority (as the case may be) must determin
 
 (2) Where a complaint or conduct matter relates to the conduct of a person who has ceased to be a person serving with the police since the time of the conduct and before 15th December 2017, the provisions of Part 2 of the 2002 Act apply in relation to such a person as if they did not include any requirement to determine whether disciplinary proceedings or performance proceedings should be brought against a person whose conduct is the subject-matter of a report.
 
-### 43. Complaints and conduct matters concerning a person whose identity is unascertained[^key-c20a426e9cf89e0cb66aca4e379bb949]
+### 43. Complaints and conduct matters concerning a person whose identity is unascertained[^c-c20a426e9cf89e0cb66aca4e379bb949]
 
 (1) Where a complaint or conduct matter relates to the conduct of a person whose identity—
 
@@ -1123,7 +1123,7 @@ Part 2 of the 2002 Act and these Regulations apply in relation to such a person 
 
 (3) Where the identity of a person mentioned in paragraph (1) is subsequently ascertained, the Director General and appropriate authority must, so far as possible, proceed in accordance with Part 2 of the 2002 Act and these Regulations, regardless of any previous action taken under that Part and these Regulations as modified by paragraph (1).
 
-### 44. Records to be kept by local policing bodies and chief officers[^key-1c65284c7b83fe19809080c4afdd35f1]
+### 44. Records to be kept by local policing bodies and chief officers[^c-1c65284c7b83fe19809080c4afdd35f1]
 
 Every local policing body and chief officer must keep records, in such form as the Director General determines, of—
 
@@ -1136,7 +1136,7 @@ Every local policing body and chief officer must keep records, in such form as t
 - (e) every DSI matter recorded by it or the chief officer under paragraph 14A(1) or 14CA(4) of Schedule 3 (duties to record DSI matters)[^f00081];
 - (f) every exercise of a power or performance of a duty under Part 2 of the 2002 Act by it or the chief officer.
 
-### 45. Register to be kept by the Director General[^key-53654757cad369c2cbaeffd5e4f8b98c]
+### 45. Register to be kept by the Director General[^c-53654757cad369c2cbaeffd5e4f8b98c]
 
 (1) The Director General must maintain a register of all information provided to the Director General by a local policing body or chief officer under Part 2 of the 2002 Act.
 
@@ -1149,7 +1149,7 @@ Every local policing body and chief officer must keep records, in such form as t
 
 (3) Information may not be published or disclosed in circumstances where, in the opinion of the Director General, the non-disclosure of the information is necessary for a purpose mentioned in regulation 35(3) (exceptions to duties to keep the complainant and interested person informed).
 
-### 46. Delegation of exercise or performance of powers and duties by chief officers[^key-47f034be09bf53fc54c7fe360a45e6b3]
+### 46. Delegation of exercise or performance of powers and duties by chief officers[^c-47f034be09bf53fc54c7fe360a45e6b3]
 
 (1) Subject to the following provisions of this regulation, a chief officer may delegate the exercise or performance of all or any of the powers and duties conferred or imposed on the chief officer by or under Part 2 of the 2002 Act to—
 
@@ -1169,7 +1169,7 @@ the chief officer may delegate the exercise or performance of all or any of the 
 
 (3) A chief officer must not delegate the exercise or performance of any power or duty under this regulation to a person if to do so could reasonably give rise to a concern as to whether the person could act impartially.
 
-### 47. Definition of “disciplinary proceedings” for the purposes of Part 2 of the 2002 Act in relation to police staff members and designated police volunteers[^key-d8ab350a7046c17da57a4f6ee541b590]
+### 47. Definition of “disciplinary proceedings” for the purposes of Part 2 of the 2002 Act in relation to police staff members and designated police volunteers[^c-d8ab350a7046c17da57a4f6ee541b590]
 
 (1) In relation to a person serving with the police who is not a member of a police force or a special constable, for the purposes of Part 2 of the 2002 Act “disciplinary proceedings” means[^f00083]—
 
@@ -1192,7 +1192,7 @@ the chief officer may delegate the exercise or performance of all or any of the 
   - (x) paragraph 25(4C), (4E) and (14) (reviews with respect to an investigation: powers of relevant review body and references to outcome of a complaint)[^f00093];
   - (xi) paragraph 27(2) (duties of appropriate authority following memorandum under paragraph 24C)[^f00094].
 
-### 48. Local policing body functions in relation to complaints: giving of section 13A notices[^key-3ee63eda2b183d4fc74cc164a14c283c]
+### 48. Local policing body functions in relation to complaints: giving of section 13A notices[^c-3ee63eda2b183d4fc74cc164a14c283c]
 
 (1) A local policing body may only give a section 13A notice—
 
@@ -1221,7 +1221,7 @@ the chief officer may delegate the exercise or performance of all or any of the 
 
 (7) In this regulation and regulation 49 (local policing body functions in relation to complaints: withdrawal of section 13A notices), “relevant chief officer” means the chief officer of the police force that the local policing body concerned maintains.
 
-### 49. Local policing body functions in relation to complaints: withdrawal of section 13A notices[^key-953081805cfa54bfb90eca996765b07a]
+### 49. Local policing body functions in relation to complaints: withdrawal of section 13A notices[^c-953081805cfa54bfb90eca996765b07a]
 
 (1) A local policing body may only withdraw a section 13A notice—
 
@@ -1245,7 +1245,7 @@ the chief officer may delegate the exercise or performance of all or any of the 
 - (a) not to withdraw the section 13A notice, it must notify the chief officer of that decision promptly;
 - (b) to withdraw the section 13A notice on a date other than that notified in accordance with paragraph (4), it must retake the step mentioned in that paragraph.
 
-### 50. Delegation of exercise or performance of powers and duties by local policing bodies[^key-620d9deafba26b3153cee842f254e1b8]
+### 50. Delegation of exercise or performance of powers and duties by local policing bodies[^c-620d9deafba26b3153cee842f254e1b8]
 
 (1) Subject to the following provisions of this regulation, a local policing body may delegate the exercise or performance of all or any of the powers and duties conferred or imposed on the local policing body by or under Part 2 of the 2002 Act (including powers and duties that are acquired by virtue of giving a section 13A notice) to any person.
 
@@ -1260,14 +1260,14 @@ the chief officer may delegate the exercise or performance of all or any of the 
 
 (3) But paragraph (2)(e) does not prevent a local policing body delegating the exercise or performance of a power or duty acquired by virtue of a section 13A notice to a person for so long as that person is under the direction and control of the local policing body.
 
-### 51. Manner and time limit of notifications under these Regulations[^key-2e6326bc20bfb770de49837c72f7d3dc]
+### 51. Manner and time limit of notifications under these Regulations[^c-2e6326bc20bfb770de49837c72f7d3dc]
 
 (1) Any notification to be given under these Regulations must—
 
 - (a) unless otherwise specified in these Regulations or determined in guidance issued by the Director General, be given in writing;
 - (b) unless otherwise specified in these Regulations, be made within such period as the Director General may determine in guidance.
 
-(1A)[^key-4092fa4483e044e06b70368ea6e14988] Paragraph (1B) applies to—
+(1A)[^c-4092fa4483e044e06b70368ea6e14988] Paragraph (1B) applies to—
 
 - (a) a notice under regulation 17(1) and a copy of the terms, or revised terms, of reference of the investigation under regulation 17(2) or (3);
 - (b) a notice under regulation 19(5)(b).
@@ -1292,11 +1292,11 @@ the chief officer may delegate the exercise or performance of all or any of the 
 (1E) Where a written notice or document is sent by post, it is to be taken to have been given or supplied to the person concerned—
 
 - (a) on the second day after it was posted, left with, delivered to or collected by the relevant service provider, provided that day is a working day, or
-- (b)[^key-9cd639a8a2a1babe003648100b9b1b7e] in any other case, on the next working day after the day referred to in sub-paragraph (a).
+- (b)[^c-9cd639a8a2a1babe003648100b9b1b7e] in any other case, on the next working day after the day referred to in sub-paragraph (a).
 
 (2) No time limit mentioned in these Regulations or determined by the Director General applies in any case where exceptional circumstances prevent that time limit being complied with.
 
-### 52. Application of Part 2 of the 2002 Act etc. to old cases[^key-3cbff3e65a5dda44c6811c26ade8d55e]
+### 52. Application of Part 2 of the 2002 Act etc. to old cases[^c-3cbff3e65a5dda44c6811c26ade8d55e]
 
 (1) Part 2 of the 2002 Act and any provision made under it (including these Regulations) apply to a matter in relation to which the Director General has made a section 28A direction with the following modifications—
 
@@ -1312,7 +1312,7 @@ the chief officer may delegate the exercise or performance of all or any of the 
   - (i) the conduct of a person is considered in order to determine whether a sanction or punitive measure is to be imposed against that person in relation to that conduct;
   - (ii) the performance of a person is considered in order to determine whether it is unsatisfactory and whether, as a result, any action is to be taken in relation to it.
 
-### 53. Amendment of policing protocol[^key-d5fdf15ebf7581c225fa4aed2caefd2c]
+### 53. Amendment of policing protocol[^c-d5fdf15ebf7581c225fa4aed2caefd2c]
 
 (1) The policing protocol set out as a Schedule to the Policing Protocol Order 2011[^f00097] is amended as follows.
 
@@ -1326,7 +1326,7 @@ the chief officer may delegate the exercise or performance of all or any of the 
 
 (4) Paragraph 38 (ability of the Director General to issue guidance on the meaning of “direction and control”) is omitted.
 
-### 54. Amendment of the Police (Complaints and Conduct) Regulations 2013[^key-31e68cee29da3dcae7d5d8e35fd0d39f]
+### 54. Amendment of the Police (Complaints and Conduct) Regulations 2013[^c-31e68cee29da3dcae7d5d8e35fd0d39f]
 
 *Extent: E+W+S+N.I.*
 
@@ -1340,7 +1340,7 @@ the chief officer may delegate the exercise or performance of all or any of the 
 
 .
 
-### 55. Amendment of the Public Interest Disclosure (Prescribed Persons) Order 2014[^key-76252a9e1aab458396f93d4336401033]
+### 55. Amendment of the Public Interest Disclosure (Prescribed Persons) Order 2014[^c-76252a9e1aab458396f93d4336401033]
 
 (1) The Public Interest Disclosure (Prescribed Persons) Order 2014[^f00099] is amended as follows.
 
@@ -1356,7 +1356,7 @@ Home Office
 
 *Extent: E+W*
 
-## SCHEDULE 1 — Provisions of the 2002 Act conferring powers under which these Regulations are made[^key-6baea4dd63ede30ffccc403ddcb42d55]
+## SCHEDULE 1 — Provisions of the 2002 Act conferring powers under which these Regulations are made[^c-6baea4dd63ede30ffccc403ddcb42d55]
 
 Preamble
 
@@ -1397,11 +1397,11 @@ Regulation 42(1)(b)
 
 ### PART 1 — Modifications to Part 2 of the 2002 Act
 
-#### 1. Modification to section 29 (interpretation of Part 2)[^key-28010c83f923c3688536ee549d8f930c]
+#### 1. Modification to section 29 (interpretation of Part 2)[^c-28010c83f923c3688536ee549d8f930c]
 
 Section 29(1)[^f00101] is to be read as if, in the definition of “disciplinary proceedings”, for “50 or 51” there were substituted “50(3A) to (3G) or 51(2B) to (2H)”.
 
-#### 2. Modifications to Part 3 of Schedule 3 (investigations and subsequent proceedings)[^key-12038c3121d4572a963fdd95f41ce93f]
+#### 2. Modifications to Part 3 of Schedule 3 (investigations and subsequent proceedings)[^c-12038c3121d4572a963fdd95f41ce93f]
 
 (1) Part 3 of Schedule 3 is modified as follows.
 
@@ -1490,7 +1490,7 @@ Section 29(1)[^f00101] is to be read as if, in the definition of “disciplinary
 
 ### PART 2 — Modifications to these Regulations
 
-#### 3. Modification to regulation 1 (citation, commencement, interpretation and application)[^key-ebf4ff4c5bc31cea497c5d070297da8e]
+#### 3. Modification to regulation 1 (citation, commencement, interpretation and application)[^c-ebf4ff4c5bc31cea497c5d070297da8e]
 
 Regulation 1(2) is to be read as if—
 
@@ -1503,14 +1503,14 @@ Regulation 1(2) is to be read as if—
 - (c) in paragraph (a) of the definition of “disciplinary proceedings”, for “any proceedings” to the end there were substituted “any misconduct hearing or accelerated misconduct hearing under the Conduct Regulations,”, and
 - (d) in the definition of “severity assessment”, for paragraphs (a) and (b) there were substituted “whether the conduct, if proved, would amount to gross misconduct;”.
 
-#### 4. Modification to regulation 16 (special procedure: severity assessment)[^key-38203f75a096bb40c651e0bc05d31071]
+#### 4. Modification to regulation 16 (special procedure: severity assessment)[^c-38203f75a096bb40c651e0bc05d31071]
 
 Regulation 16 is to be read as if—
 
 - (a) in paragraph (1), for “22 (special procedure)” there were substituted “21A (special procedure: notice of enquiry)”, and
 - (b) in paragraph (2)(a), for paragraphs (i) and (ii), there were substituted “whether the conduct of the person concerned, if proved, would amount to gross misconduct;”.
 
-#### 5. Modification to regulation 17 (special procedure: notification of severity assessment etc.)[^key-6fe511430236bebcbc3d06981f2aaf24]
+#### 5. Modification to regulation 17 (special procedure: notification of severity assessment etc.)[^c-6fe511430236bebcbc3d06981f2aaf24]
 
 Regulation 17(1) is to be read as if—
 
@@ -1527,7 +1527,7 @@ Regulation 17(1) is to be read as if—
   , and
 - (c) in sub-paragraph (h), after “20”, there were inserted “, regulation 21A (special procedure: notice of enquiry)”.
 
-#### 6. Modification to regulation 18 (special procedure: police friend)[^key-5f72d6193dddf8fd12b5d982faa37e63]
+#### 6. Modification to regulation 18 (special procedure: police friend)[^c-5f72d6193dddf8fd12b5d982faa37e63]
 
 Regulation 18(2) is to be read as if for sub-paragraph (d) there were substituted—
 
@@ -1535,14 +1535,14 @@ Regulation 18(2) is to be read as if for sub-paragraph (d) there were substitute
 
 .
 
-#### 7. Modification to regulation 21 (special procedure: interview of the person concerned)[^key-03770ece9b8567ab0b10c66e70ba4576]
+#### 7. Modification to regulation 21 (special procedure: interview of the person concerned)[^c-03770ece9b8567ab0b10c66e70ba4576]
 
 Regulation 21 is to be read as if—
 
 - (a) in paragraph (1), at the beginning, there were inserted “Subject to regulation 21A (special procedure: notice of enquiry),”, and
 - (b) in paragraph (5), for the words from “must” to the end there were substituted “must be reasonable.”.
 
-#### 8. Modification: insertion of regulation 21A[^key-be9fe7b3004765aeddb699c41e501298]
+#### 8. Modification: insertion of regulation 21A[^c-be9fe7b3004765aeddb699c41e501298]
 
 These Regulations are to be read as if after regulation 21 there were inserted—
 
@@ -1573,11 +1573,11 @@ These Regulations are to be read as if after regulation 21 there were inserted�
 
 .
 
-#### 9. Modification: omission of regulation 22 (special procedure: duty to provide information to appropriate authority)[^key-34c2c19bbe06cf97731f36cd9d20b398]
+#### 9. Modification: omission of regulation 22 (special procedure: duty to provide information to appropriate authority)[^c-34c2c19bbe06cf97731f36cd9d20b398]
 
 These Regulations are to be read as if regulation 22 were omitted.
 
-#### 10. Modification to regulation 27 (report on investigation)[^key-86c8ce19b2d3cf20de72ad217d357dca]
+#### 10. Modification to regulation 27 (report on investigation)[^c-86c8ce19b2d3cf20de72ad217d357dca]
 
 Regulation 27 is to be read as if—
 
@@ -1597,14 +1597,14 @@ Regulation 27 is to be read as if—
 
   .
 
-#### 11. Modification to regulation 28 (provision of copy of report on investigation etc. to person to whose conduct the investigation related)[^key-a31a4b87675e2951b224a356ebee99e0]
+#### 11. Modification to regulation 28 (provision of copy of report on investigation etc. to person to whose conduct the investigation related)[^c-a31a4b87675e2951b224a356ebee99e0]
 
 Regulation 28(1) is to be read as if—
 
 - (a) in sub-paragraph (a), for the words from “neither” to the end there were substituted “a person to whose conduct the investigation related has no case to answer in respect of gross misconduct,”, and
 - (b) in sub-paragraph (b), for the words from “it” to the end there were substituted “such a person has no case to answer in respect of gross misconduct,”.
 
-#### 12. Modification to regulation 30 (recommendation by the Director General or a local policing body)[^key-29b686ced291fde45ff3dcfd22993500]
+#### 12. Modification to regulation 30 (recommendation by the Director General or a local policing body)[^c-29b686ced291fde45ff3dcfd22993500]
 
 Regulation 30(1) is to be read as if sub-paragraph (c) were omitted.
 
@@ -1642,7 +1642,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00007]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Section 63(3) was substituted by paragraphs 68 and 78 of Schedule 4 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and amended by section 10(3)(b) of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26); there are further amendments to section 63(3) but none is relevant.
 
-[^key-67da5a8ec6303957d174468f2c5ed8b8]: Commencement: Reg. 1 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-67da5a8ec6303957d174468f2c5ed8b8]: Commencement: Reg. 1 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2020/4](https://www.legislation.gov.uk/uksi/2020/4).
 
@@ -1670,7 +1670,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00020]: Footnote: Paragraph 15 was amended by paragraphs 1, 11 and 13 of Schedule 12 to the Serious Organised Crime and Police Act 2005 and paragraphs 9 and 15 of Schedule 5, and paragraphs 15 and 56 of Schedule 9, to the Policing and Crime Act 2017.
 
-[^key-27aecdc530612c9464751883c186b0fa]: Commencement: Reg. 2 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-27aecdc530612c9464751883c186b0fa]: Commencement: Reg. 2 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 2012/1204](https://www.legislation.gov.uk/uksi/2012/1204), amended by [S.I. 2014/2406](https://www.legislation.gov.uk/uksi/2014/2406), [2015/431](https://www.legislation.gov.uk/uksi/2015/431), [2017/575](https://www.legislation.gov.uk/uksi/2017/575), [2017/1134](https://www.legislation.gov.uk/uksi/2017/1134) and [2017/1250](https://www.legislation.gov.uk/uksi/2017/1250).
 
@@ -1686,61 +1686,61 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00027]: Footnote: [S.I. 2015/431](https://www.legislation.gov.uk/uksi/2015/431), amended by [S.I. 2017/1250](https://www.legislation.gov.uk/uksi/2017/1250) and [2018/682](https://www.legislation.gov.uk/uksi/2018/682).
 
-[^key-fa9735f44efaa78d0c50f9784b5ae13c]: Commencement: Reg. 3 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-fa9735f44efaa78d0c50f9784b5ae13c]: Commencement: Reg. 3 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00028]: Footnote: Paragraph 2(6A) was inserted by paragraphs 1 and 2 of Schedule 5 to the Policing and Crime Act 2017; paragraph 4A(4) was inserted by section 17(1) and (3) of that Act.
 
-[^key-58ca797e2d0ff9d9f8183cd0f460661e]: Commencement: Reg. 4 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-58ca797e2d0ff9d9f8183cd0f460661e]: Commencement: Reg. 4 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00029]: Footnote: Paragraph 4(1) was amended by paragraphs 1 and 7 of Schedule 4, and paragraphs 15 and 56 of Schedule 9, to the Policing and Crime Act 2017.
 
-[^key-7d90c45198aaf5b01a72928c437db43c]: Commencement: Reg. 5 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-7d90c45198aaf5b01a72928c437db43c]: Commencement: Reg. 5 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00030]: Footnote: Sub-paragraphs (4A) and (5A) were inserted by paragraphs 9 and 15 of Schedule 5 to the Policing and Crime Act 2017 and amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
-[^key-27492eaea0e941b8b41178e7495e5f47]: Commencement: Reg. 6 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-27492eaea0e941b8b41178e7495e5f47]: Commencement: Reg. 6 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00031]: Footnote: Paragraph 6(2C) was inserted by paragraphs 5 and 6 of Schedule 5 to the Policing and Crime Act 2017.
 
 [^f00032]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-22fcbc961e8e04bd43729ffebc726522]: Commencement: Reg. 7 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-22fcbc961e8e04bd43729ffebc726522]: Commencement: Reg. 7 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00033]: Footnote: Paragraphs 10(4A) and 11(3B) were inserted by paragraphs 1, 11 and 12 of Schedule 14 to the Police Reform and Social Responsibility Act 2011.
 
 [^f00034]: Footnote: Paragraph 13(1) was amended by paragraphs 277 and 301 of Schedule 16 to the Police Reform and Social Responsibility Act 2011 and paragraphs 15 and 56 of Schedule 9 to the Policing and Crime Act 2017.
 
-[^key-c9c9257c71e796c5ae43a46c91e94aaf]: Commencement: Reg. 8 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-c9c9257c71e796c5ae43a46c91e94aaf]: Commencement: Reg. 8 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-989998fe665394d63d8babaf3bf2d568]: Commencement: Reg. 9 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-989998fe665394d63d8babaf3bf2d568]: Commencement: Reg. 9 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-a7311e4b81f49fcb322c5e03fe33e7c3]: Commencement: Reg. 10 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-a7311e4b81f49fcb322c5e03fe33e7c3]: Commencement: Reg. 10 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00035]: Footnote: Section 29(1A) of the 2002 Act (which was inserted by paragraphs 1 and 10 of Schedule 12 to the Serious Organised Crime and Police Act 2005 and amended by paragraph 93 of Schedule 11 to the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12)) defines “the relevant officer” in relation to a DSI matter.
 
-[^key-535e5640e19c360ab6108c8f7141ff4a]: Commencement: Reg. 11 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-535e5640e19c360ab6108c8f7141ff4a]: Commencement: Reg. 11 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00036]: Footnote: Paragraph 15(9) was inserted by paragraphs 9 and 15 of Schedule 5 to the Policing and Crime Act 2017 and amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
 [^f00037]: Footnote: Paragraph 26(5A) was substituted by paragraphs 29 and 37 of Schedule 5 to the Policing and Crime Act 2017 and amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
-[^key-5c72cd1cea47c356a0c7f490a71aa7e6]: Commencement: Reg. 12 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-5c72cd1cea47c356a0c7f490a71aa7e6]: Commencement: Reg. 12 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00038]: Footnote: Paragraph 16 was amended by paragraphs 1, 11 and 14 of Schedule 12 to the Serious Organised Crime and Police Act 2005, paragraphs 1, 11 and 12 of Schedule 14 to the Police Reform and Social Responsibility Act 2011, paragraph 8 and 17 of Schedule 6 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and paragraphs 9 and 16 of Schedule 5, and paragraphs 15 and 56 of Schedule 9, to the Policing and Crime Act 2017; paragraph 18 was amended by paragraphs 1, 11 and 16 and of Schedule 12 to the Serious Organised Crime and Police Act 2005 and paragraphs 9 and 19 of Schedule 5, and paragraphs 15 and 56 of Schedule 9, to the Policing and Crime Act 2017.
 
-[^key-e98558e91d45ed027de40fdd2bb4c83c]: Commencement: Reg. 13 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-e98558e91d45ed027de40fdd2bb4c83c]: Commencement: Reg. 13 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00039]: Footnote: Paragraph 19 was amended by paragraphs 1, 11 and 17 of Schedule 12 to the Serious Organised Crime and Police Act 2005 and paragraphs 15 and 56 of Schedule 9 to the Policing and Crime Act 2017; there are further amendments to paragraph 19 but none is relevant.
 
 [^f00040]: Footnote: Paragraph 22 was substituted by paragraphs 1, 11 and 21 of Schedule 12 to the Serious Organised Crime and Police Act 2005 and amended by paragraphs 1, 3 and 12 of Schedule 23, and Part 8 of Schedule 28, to the Criminal Justice and Immigration Act 2008 and paragraph 47 of Schedule 5, and paragraphs 15 and 56 of Schedule 9, to the Policing and Crime Act 2017; there are further amendments to paragraph 22 but none is relevant. Paragraph 24A was inserted by paragraphs 1, 11 and 24 of Schedule 12 to the Serious Organised Crime and Police Act 2005 and amended by paragraphs 1, 3 and 15 of Schedule 23 to the Criminal Justice and Immigration Act 2008 and paragraph 47 of Schedule 5, and paragraphs 15 and 56 of Schedule 9, to the Policing and Crime Act 2017; there are further amendments to paragraph 24A but none is relevant.
 
-[^key-d570a83a655ae3972447cc21a5fe1400]: Commencement: Reg. 14 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-d570a83a655ae3972447cc21a5fe1400]: Commencement: Reg. 14 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-21dd4c5933a01381df75e0ac1bb1b103]: Commencement: Reg. 15 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-21dd4c5933a01381df75e0ac1bb1b103]: Commencement: Reg. 15 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00041]: Footnote: See paragraph 15 of Schedule 3 and section 13B of the 2002 Act; see also paragraph 26 of Schedule 3.
 
-[^key-724c53b63e254870c2909bf94f31ff47]: Commencement: Reg. 16 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-724c53b63e254870c2909bf94f31ff47]: Commencement: Reg. 16 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00042]: Footnote: Paragraph 19A was substituted by paragraphs 9 and 21 of Schedule 5 to the Policing and Crime Act 2017 and amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
@@ -1748,75 +1748,75 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00044]: Footnote: Paragraph 29 of Schedule 3 defines “misconduct” and “gross misconduct”.
 
-[^key-d9d5a0571f89d1e2ae3b2f0c6685a3c2]: Commencement: Reg. 17 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-d9d5a0571f89d1e2ae3b2f0c6685a3c2]: Commencement: Reg. 17 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-40026a75575a7ff8165a0363452d8daa]: Textual amendment: Reg. 17(1)(ca) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/9/2)
+[^c-40026a75575a7ff8165a0363452d8daa]: Textual amendment: Reg. 17(1)(ca) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/9/2)
 
 [^f00045]: Footnote: Section 88B(2) was inserted by Schedule 8 to the Policing and Crime Act 2017.
 
-[^key-17c7d3cae46525059ed4bd36122ef020]: Textual amendment: Reg. 17(7) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [57](https://www.legislation.gov.uk/uksi/2025/558/regulation/57) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
+[^c-17c7d3cae46525059ed4bd36122ef020]: Textual amendment: Reg. 17(7) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [57](https://www.legislation.gov.uk/uksi/2025/558/regulation/57) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
 
-[^key-87babcb2b96eef844e28ea25ff5f5a27]: Commencement: Reg. 18 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-87babcb2b96eef844e28ea25ff5f5a27]: Commencement: Reg. 18 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-c17ec1931dcb4f55845bdda76968a9c5]: Textual amendment: Words in [reg. 18(2)(d)](https://www.legislation.gov.uk/uksi/2020/2/regulation/18/2/d) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/5/2)
+[^c-c17ec1931dcb4f55845bdda76968a9c5]: Textual amendment: Words in [reg. 18(2)(d)](https://www.legislation.gov.uk/uksi/2020/2/regulation/18/2/d) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/5/2)
 
 [^f00046]: Footnote: See regulation 20.
 
 [^f00047]: Footnote: See regulation 21.
 
-[^key-4c84ec9a36fb9dc88fbd60139cfd3324]: Commencement: Reg. 19 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-4c84ec9a36fb9dc88fbd60139cfd3324]: Commencement: Reg. 19 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-744ccf1fafb28fcef1e56306c5c841a3]: Textual amendment: [Reg. 19(7)](https://www.legislation.gov.uk/uksi/2020/2/regulation/19/7) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2025/558/regulation/58) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
+[^c-744ccf1fafb28fcef1e56306c5c841a3]: Textual amendment: [Reg. 19(7)](https://www.legislation.gov.uk/uksi/2020/2/regulation/19/7) omitted (28.5.2025) by virtue of [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2025/558/regulation/58) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
 
-[^key-ebec687897be14a5cbe2d3467730494d]: Commencement: Reg. 20 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-ebec687897be14a5cbe2d3467730494d]: Commencement: Reg. 20 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-ff7cd9b7b963f8edf7b204a5be1ce3bf]: Commencement: Reg. 21 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-ff7cd9b7b963f8edf7b204a5be1ce3bf]: Commencement: Reg. 21 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-95f433057caf4ae2bad433b0297351b4]: Commencement: Reg. 22 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-95f433057caf4ae2bad433b0297351b4]: Commencement: Reg. 22 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-0b388baab132bda8720c6ccc2105a811]: Commencement: Reg. 23 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-0b388baab132bda8720c6ccc2105a811]: Commencement: Reg. 23 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00048]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52). There are amendments to section 119 but none is relevant.
 
-[^key-3ce1249b69fbfdf9c97de8c0395531e7]: Commencement: Reg. 24 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-3ce1249b69fbfdf9c97de8c0395531e7]: Commencement: Reg. 24 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00049]: Footnote: Paragraph 20A was substituted by paragraphs 9 and 23 of Schedule 5 to the Policing and Crime Act 2017 and amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
 [^f00050]: Footnote: Section 21A was inserted by section 19 of the Policing and Crime Act 2017 and amended by paragraphs 15 and 28 of Schedule 9 to that Act.
 
-[^key-6431f988345de6147a3f0583490d9c2c]: Commencement: Reg. 25 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-6431f988345de6147a3f0583490d9c2c]: Commencement: Reg. 25 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00051]: Footnote: See regulation 2(1) and Part 5 of the Conduct Regulations (meaning of “special conditions” and accelerated misconduct hearings).
 
-[^key-5b264476d379e0a2f265c454ad969312]: Commencement: Reg. 26 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-5b264476d379e0a2f265c454ad969312]: Commencement: Reg. 26 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-49f8c3a817397a8117b03ac2b55e6eeb]: Textual amendment: [Reg. 26(1A)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/1A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/2) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
+[^c-49f8c3a817397a8117b03ac2b55e6eeb]: Textual amendment: [Reg. 26(1A)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/1A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/2) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
 
-[^key-7d32c469d8d2d0fc4fb8c592edeb4c58]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/3) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
+[^c-7d32c469d8d2d0fc4fb8c592edeb4c58]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/3) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
 
-[^key-4d7445b0d091b5804f6d1760683e0862]: Textual amendment: [Reg. 26(2A)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/2A)[(2B)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/2B) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/4) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
+[^c-4d7445b0d091b5804f6d1760683e0862]: Textual amendment: [Reg. 26(2A)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/2A)[(2B)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/2B) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(4)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/4) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
 
-[^key-98bced1f9b3a018975f8c050514d0bc4]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/5) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
+[^c-98bced1f9b3a018975f8c050514d0bc4]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/3) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(5)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/5) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
 
-[^key-b47ca5604b4a882ddfef3aea1b3c97fb]: Textual amendment: [Reg. 26(3A)-(3C)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/3A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/6) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
+[^c-b47ca5604b4a882ddfef3aea1b3c97fb]: Textual amendment: [Reg. 26(3A)-(3C)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/3A) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(6)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/6) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
 
-[^key-fb261cf54a2d6b55ae758a8e3b3cc0b6]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(7)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/7) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
+[^c-fb261cf54a2d6b55ae758a8e3b3cc0b6]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/4) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(7)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/7) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
 
-[^key-61a1c4f9eaeddbf42c0b4c1b156b7f73]: Textual amendment: [Reg. 26(10)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/10) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(8)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/8) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
+[^c-61a1c4f9eaeddbf42c0b4c1b156b7f73]: Textual amendment: [Reg. 26(10)](https://www.legislation.gov.uk/uksi/2020/2/regulation/26/10) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [59(8)](https://www.legislation.gov.uk/uksi/2025/558/regulation/59/8) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
 
-[^key-d7eb33d62ac7778e74c99340e879722d]: Commencement: Reg. 27 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-d7eb33d62ac7778e74c99340e879722d]: Commencement: Reg. 27 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00052]: Footnote: Paragraph 22(7) was inserted by paragraphs 1, 3 and 12 of Schedule 23 to the Criminal Justice and Immigration Act 2008 and amended by paragraph 47 of Schedule 5 to the Policing and Crime Act 2017.
 
 [^f00053]: Footnote: Paragraph 23(5A) was inserted by paragraphs 9 and 26 of Schedule 5 to the Policing and Crime Act 2017 and amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
-[^key-264e5e850302ac7812d7a9db85387d22]: Commencement: Reg. 28 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-264e5e850302ac7812d7a9db85387d22]: Commencement: Reg. 28 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00054]: Footnote: Paragraph 24(6) was substituted by paragraphs 1, 3 and 14 of Schedule 23 to the Criminal Justice and Immigration Act 2008 and amended by paragraphs 1 and 14 of Schedule 14 to the Police Reform and Social Responsibility Act 2011 and paragraphs 9, 27 and 47 of Schedule 5 to the Policing and Crime Act 2017.
 
 [^f00055]: Footnote: Paragraph 25 was amended by paragraphs 1, 15 and 20 of Schedule 14 to the Police Reform and Social Responsibility Act 2011 and paragraphs 1 and 8 of Schedule 4, paragraphs 29, 34 and 47 of Schedule 5 and paragraphs 15 and 56 of Schedule 9 to the Policing and Crime Act 2017.
 
-[^key-38a48ebb3b9f3792ef017443adf1e1aa]: Commencement: Reg. 29 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-38a48ebb3b9f3792ef017443adf1e1aa]: Commencement: Reg. 29 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00056]: Footnote: Paragraph 6A was inserted by paragraphs 29 and 31 of Schedule 5 to the Policing and Crime Act 2017 and amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
@@ -1830,7 +1830,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00061]: Footnote: Sub-paragraph (4A) of paragraph 25 was inserted by paragraphs 29 and 34 of Schedule 5 to the Policing and Crime Act 2017.
 
-[^key-ad3325971023da15caf8c0b9cf6761e0]: Commencement: Reg. 30 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-ad3325971023da15caf8c0b9cf6761e0]: Commencement: Reg. 30 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00062]: Footnote: Paragraph 28ZA was inserted by paragraph 45 of Schedule 5 to the Policing and Crime Act 2017 and amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
@@ -1838,7 +1838,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00064]: Footnote: Sub-paragraphs (4E) and (4G) of paragraph 25 were inserted by paragraphs 29 and 34 of Schedule 5 to the Policing and Crime Act 2017; sub-paragraph (4E)(b) was amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
-[^key-a42b5b276bdffc33d188d0284ced26af]: Commencement: Reg. 31 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-a42b5b276bdffc33d188d0284ced26af]: Commencement: Reg. 31 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00065]: Footnote: Paragraph 28A was inserted by section 139 of the Anti-social Behaviour, Crime and Policing Act 2014; sub-paragraph (4)(a) was amended by paragraphs 15 and 56 of Schedule 9 to the Policing and Crime Act 2017.
 
@@ -1854,17 +1854,17 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00071]: Footnote: Paragraph 4A(1) was inserted by section 17(1) and (3) of the Policing and Crime Act 2017 and amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
-[^key-87bb465e59e0271fd6388440def1ddc2]: Commencement: Reg. 32 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-87bb465e59e0271fd6388440def1ddc2]: Commencement: Reg. 32 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00072]: Footnote: Paragraph 30(1)(a) was inserted by paragraphs 1, 15 and 22 of Schedule 14 to the Police Reform and Social Responsibility Act 2011 and amended by paragraphs 29 and 39 of Schedule 5, and paragraphs 15 and 56 of Schedule 9, to the Policing and Crime Act 2017.
 
 [^f00073]: Footnote: Paragraph 4 was amended by paragraphs 277 and 300 of Schedule 16 to the Police Reform and Social Responsibility Act 2011 and section 17(1) and (2) of, and paragraphs 1 and 7 of Schedule 4, paragraphs 1, 4, 29 and 30 of Schedule 5 and paragraphs 15 and 56 of Schedule 9 to, the Policing and Crime Act 2017.
 
-[^key-b3fe726fc42ac362feb7e53c575e2af9]: Commencement: Reg. 33 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-b3fe726fc42ac362feb7e53c575e2af9]: Commencement: Reg. 33 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00074]: Footnote: Sections 20(4)(d) and 21(9)(c) were substituted by section 15(1), (3) and (7) of the Policing and Crime Act 2017.
 
-[^key-386824cd54c7a5b0fd73c7aa6c39605c]: Commencement: Reg. 34 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-386824cd54c7a5b0fd73c7aa6c39605c]: Commencement: Reg. 34 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00075]: Footnote: Section 20(5) was amended by paragraphs 15 and 26 of Schedule 9 to the Policing and Crime Act 2017; section 21(10) was amended by paragraphs 1 and 7 of Schedule 12 to the Serious Organised Crime and Police Act 2005 and paragraphs 15 and 27 of Schedule 9 to the Policing and Crime Act 2017.
 
@@ -1872,27 +1872,27 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00077]: Footnote: Subsections (1) and (2) of section 20 were amended by paragraph 47 of Schedule 5, and paragraphs 15 and 26 of Schedule 9, to the Policing and Crime Act 2017; subsection (3A) of section 20 was inserted by sections 15(1) and (2) of that Act; subsections (6) and (7) of section 21 were amended by paragraphs 1 and 7 of Schedule 12 to the Serious Organised Crime and Police Act 2005 and paragraph 47 of Schedule 5, and paragraphs 15 and 27 of Schedule 9, to the Policing and Crime Act 2017; subsection (8A) of section 21 was inserted by sections 15(1) and (6) of the Policing and Crime Act 2017.
 
-[^key-357a064b6dd512401c55814d7bf9be91]: Commencement: Reg. 35 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-357a064b6dd512401c55814d7bf9be91]: Commencement: Reg. 35 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-f2b970dd9e6911d53e85fa9273b51941]: Commencement: Reg. 36 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-f2b970dd9e6911d53e85fa9273b51941]: Commencement: Reg. 36 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-d6f025b218ece134198acaaa63470bc5]: Commencement: Reg. 37 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-d6f025b218ece134198acaaa63470bc5]: Commencement: Reg. 37 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-dd2b271c331bb9a37790f07f75678ce8]: Commencement: Reg. 38 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-dd2b271c331bb9a37790f07f75678ce8]: Commencement: Reg. 38 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00078]: Footnote: Paragraph 5(2) was amended by paragraphs 9 and 10 of Schedule 5, and paragraphs 15 and 56 of Schedule 9, to the Policing and Crime Act 2017.
 
-[^key-0b6372aa989933bf9f71a72b11b1a16c]: Commencement: Reg. 39 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-0b6372aa989933bf9f71a72b11b1a16c]: Commencement: Reg. 39 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-00b64cd44c0497c28ba564bca7a95958]: Commencement: Reg. 40 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-00b64cd44c0497c28ba564bca7a95958]: Commencement: Reg. 40 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-cdec85b728fe650ae77b5d9275983506]: Commencement: Reg. 41 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-cdec85b728fe650ae77b5d9275983506]: Commencement: Reg. 41 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-c8c7a668ffb95ee140cbeafdee1ff735]: Commencement: Reg. 42 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-c8c7a668ffb95ee140cbeafdee1ff735]: Commencement: Reg. 42 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-c20a426e9cf89e0cb66aca4e379bb949]: Commencement: Reg. 43 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-c20a426e9cf89e0cb66aca4e379bb949]: Commencement: Reg. 43 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-1c65284c7b83fe19809080c4afdd35f1]: Commencement: Reg. 44 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-1c65284c7b83fe19809080c4afdd35f1]: Commencement: Reg. 44 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00079]: Footnote: Paragraph 2(6A) was inserted by paragraphs 1 and 2 of Schedule 5 to the Policing and Crime Act 2017; paragraph 4A(4) was inserted by section 17(1) and (3) of that Act.
 
@@ -1900,13 +1900,13 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00081]: Footnote: Paragraph 14A(1) was inserted by paragraphs 1, 11 and 12 of Schedule 12 to the Serious Organised Crime and Police Act 2005 and amended by paragraphs 277 and 302 of Schedule 16 to the Police Reform and Social Responsibility Act 2011; paragraph 14CA(4) was inserted by section 17(1) and (9) of the Policing and Crime Act 2017.
 
-[^key-53654757cad369c2cbaeffd5e4f8b98c]: Commencement: Reg. 45 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-53654757cad369c2cbaeffd5e4f8b98c]: Commencement: Reg. 45 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-47f034be09bf53fc54c7fe360a45e6b3]: Commencement: Reg. 46 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-47f034be09bf53fc54c7fe360a45e6b3]: Commencement: Reg. 46 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00082]: Footnote: Paragraph 6(2A) was inserted by paragraphs 5 and 6 of Schedule 5 to the Policing and Crime Act 2017.
 
-[^key-d8ab350a7046c17da57a4f6ee541b590]: Commencement: Reg. 47 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-d8ab350a7046c17da57a4f6ee541b590]: Commencement: Reg. 47 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00083]: Footnote: See paragraph (b) of the definition of “disciplinary proceedings” in section 29(1) of the 2002 Act.
 
@@ -1932,45 +1932,45 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00094]: Footnote: Paragraph 27(2) was amended by section 15(1) and (10)(b) of the Policing and Crime Act 2017.
 
-[^key-3ee63eda2b183d4fc74cc164a14c283c]: Commencement: Reg. 48 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-3ee63eda2b183d4fc74cc164a14c283c]: Commencement: Reg. 48 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00095]: Footnote: Section 13A was inserted by section 13 of the Policing and Crime Act 2017.
 
-[^key-953081805cfa54bfb90eca996765b07a]: Commencement: Reg. 49 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-953081805cfa54bfb90eca996765b07a]: Commencement: Reg. 49 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-620d9deafba26b3153cee842f254e1b8]: Commencement: Reg. 50 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-620d9deafba26b3153cee842f254e1b8]: Commencement: Reg. 50 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-2e6326bc20bfb770de49837c72f7d3dc]: Commencement: Reg. 51 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-2e6326bc20bfb770de49837c72f7d3dc]: Commencement: Reg. 51 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-4092fa4483e044e06b70368ea6e14988]: Textual amendment: Reg. 51(1A)-(1E) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [60](https://www.legislation.gov.uk/uksi/2025/558/regulation/60) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
+[^c-4092fa4483e044e06b70368ea6e14988]: Textual amendment: Reg. 51(1A)-(1E) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [60](https://www.legislation.gov.uk/uksi/2025/558/regulation/60) (with [reg. 66](https://www.legislation.gov.uk/uksi/2025/558/regulation/66))
 
-[^key-9cd639a8a2a1babe003648100b9b1b7e]: Textual amendment: Reg. 51(1E)(b) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2026/653/regulation/9/3)
+[^c-9cd639a8a2a1babe003648100b9b1b7e]: Textual amendment: Reg. 51(1E)(b) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2026/653/regulation/9/3)
 
-[^key-3cbff3e65a5dda44c6811c26ade8d55e]: Commencement: Reg. 52 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-3cbff3e65a5dda44c6811c26ade8d55e]: Commencement: Reg. 52 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00096]: Footnote: Paragraph 14CA(1) was inserted by section 17(1) and (9) of the Policing and Crime Act 2017 and amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
-[^key-d5fdf15ebf7581c225fa4aed2caefd2c]: Commencement: Reg. 53 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-d5fdf15ebf7581c225fa4aed2caefd2c]: Commencement: Reg. 53 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00097]: Footnote: [S.I. 2011/2744](https://www.legislation.gov.uk/uksi/2011/2744), amended by [S.I. 2017/1250](https://www.legislation.gov.uk/uksi/2017/1250).
 
-[^key-31e68cee29da3dcae7d5d8e35fd0d39f]: Commencement: Reg. 54 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-31e68cee29da3dcae7d5d8e35fd0d39f]: Commencement: Reg. 54 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00098]: Footnote: [S.I. 2013/281](https://www.legislation.gov.uk/uksi/2013/281), amended by [S.I. 2017/1250](https://www.legislation.gov.uk/uksi/2017/1250).
 
-[^key-76252a9e1aab458396f93d4336401033]: Commencement: Reg. 55 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-76252a9e1aab458396f93d4336401033]: Commencement: Reg. 55 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00099]: Footnote: [S.I. 2014/2418](https://www.legislation.gov.uk/uksi/2014/2418), to which there are amendments not relevant to these Regulations.
 
-[^key-6baea4dd63ede30ffccc403ddcb42d55]: Commencement: Sch. 1 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-6baea4dd63ede30ffccc403ddcb42d55]: Commencement: Sch. 1 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00100]: Footnote: The relevant power is in paragraph (b) of the definition of “disciplinary proceedings”.
 
-[^key-28010c83f923c3688536ee549d8f930c]: Commencement: Sch. 2 para. 1 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-28010c83f923c3688536ee549d8f930c]: Commencement: Sch. 2 para. 1 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00101]: Footnote: There are amendments to section 29(1) but none is relevant.
 
-[^key-12038c3121d4572a963fdd95f41ce93f]: Commencement: Sch. 2 para. 2 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-12038c3121d4572a963fdd95f41ce93f]: Commencement: Sch. 2 para. 2 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
 [^f00102]: Footnote: Paragraph 20A was substituted by paragraphs 9 and 23 of Schedule 5 to the Policing and Crime Act 2017 and amended by paragraphs 15 and 56 of Schedule 9 to that Act.
 
@@ -1980,22 +1980,22 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00105]: Footnote: Paragraph 29 was inserted by paragraphs 1, 3 and 19 of Schedule 23 to the Criminal Justice and Immigration Act 2008. There is an amendment to that paragraph not relevant to these Regulations.
 
-[^key-ebf4ff4c5bc31cea497c5d070297da8e]: Commencement: Sch. 2 para. 3 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-ebf4ff4c5bc31cea497c5d070297da8e]: Commencement: Sch. 2 para. 3 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-38203f75a096bb40c651e0bc05d31071]: Commencement: Sch. 2 para. 4 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-38203f75a096bb40c651e0bc05d31071]: Commencement: Sch. 2 para. 4 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-6fe511430236bebcbc3d06981f2aaf24]: Commencement: Sch. 2 para. 5 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-6fe511430236bebcbc3d06981f2aaf24]: Commencement: Sch. 2 para. 5 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-5f72d6193dddf8fd12b5d982faa37e63]: Commencement: Sch. 2 para. 6 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-5f72d6193dddf8fd12b5d982faa37e63]: Commencement: Sch. 2 para. 6 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-03770ece9b8567ab0b10c66e70ba4576]: Commencement: Sch. 2 para. 7 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-03770ece9b8567ab0b10c66e70ba4576]: Commencement: Sch. 2 para. 7 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-be9fe7b3004765aeddb699c41e501298]: Commencement: Sch. 2 para. 8 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-be9fe7b3004765aeddb699c41e501298]: Commencement: Sch. 2 para. 8 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-34c2c19bbe06cf97731f36cd9d20b398]: Commencement: Sch. 2 para. 9 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-34c2c19bbe06cf97731f36cd9d20b398]: Commencement: Sch. 2 para. 9 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-86c8ce19b2d3cf20de72ad217d357dca]: Commencement: Sch. 2 para. 10 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-86c8ce19b2d3cf20de72ad217d357dca]: Commencement: Sch. 2 para. 10 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-a31a4b87675e2951b224a356ebee99e0]: Commencement: Sch. 2 para. 11 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-a31a4b87675e2951b224a356ebee99e0]: Commencement: Sch. 2 para. 11 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
 
-[^key-29b686ced291fde45ff3dcfd22993500]: Commencement: Sch. 2 para. 12 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)
+[^c-29b686ced291fde45ff3dcfd22993500]: Commencement: Sch. 2 para. 12 in force at 1.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1)

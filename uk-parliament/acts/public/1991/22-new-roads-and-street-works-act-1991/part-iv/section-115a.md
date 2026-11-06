@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115A. Power to give directions as to placing of apparatus[^key-6c3a1758dac8662d621662059e13543d]
+## 115A. Power to give directions as to placing of apparatus[^c-6c3a1758dac8662d621662059e13543d]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ the authority may by directions require the undertaker not to place the apparatu
 
 ## Annotations
 
-[^key-6c3a1758dac8662d621662059e13543d]: Textual amendment: [S. 115A](https://www.legislation.gov.uk/ukpga/1991/22/section/115A) inserted (S.) (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 21(1)](https://www.legislation.gov.uk/asp/2005/12/section/21/1), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-6c3a1758dac8662d621662059e13543d]: Textual amendment: [S. 115A](https://www.legislation.gov.uk/ukpga/1991/22/section/115A) inserted (S.) (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 21(1)](https://www.legislation.gov.uk/asp/2005/12/section/21/1), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

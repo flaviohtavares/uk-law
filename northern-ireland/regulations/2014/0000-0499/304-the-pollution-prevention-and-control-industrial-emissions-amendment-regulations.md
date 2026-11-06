@@ -44,15 +44,15 @@ The Department of the Environment, in exercise of the powers conferred by Articl
 
 In accordance with Article 4(4) of that Order, the Department of the Environment has consulted district councils and such bodies or persons appearing to it to be representative of the interests of district councils as it considers appropriate, such bodies or persons appearing to it to be representative of the interests of industry, agriculture and business as it considers appropriate and such other bodies or persons as it considers appropriate.
 
-## 1. Citation and commencement[^key-839c73216b6cb55218e58305ee782b2f]
+## 1. Citation and commencement[^c-839c73216b6cb55218e58305ee782b2f]
 
 These Regulations may be cited as the Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 and shall come into operation on the day after the day on which they are made.
 
-## 2. Amendment of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^key-170941a1445469926f390b6cb7a4ac8c]
+## 2. Amendment of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^c-170941a1445469926f390b6cb7a4ac8c]
 
 The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^f00002] are amended in accordance with regulations 3 to 13.
 
-## 3. Amendment of regulation 2 (interpretation: general)[^key-7a921d31431706c475ec5e577354b79f]
+## 3. Amendment of regulation 2 (interpretation: general)[^c-7a921d31431706c475ec5e577354b79f]
 
 In regulation 2, at the appropriate alphabetical places, insert the following definitions—
 
@@ -65,7 +65,7 @@ In regulation 2, at the appropriate alphabetical places, insert the following de
 
 .
 
-## 4. Amendment of regulation 7 (discharge and scope of functions)[^key-04d973a50ce3a8b9c227c1411c95f57d]
+## 4. Amendment of regulation 7 (discharge and scope of functions)[^c-04d973a50ce3a8b9c227c1411c95f57d]
 
 In regulation 7—
 
@@ -91,7 +91,7 @@ In regulation 7—
 - (c) at the end of the closing words of paragraph (6) insert “and, where appropriate, ensuring that cost-benefit analyses are carried out in accordance with Article 14(5) of the Energy Efficiency Directive and Schedule 13A”; and
 - (d) in paragraph (17) for “Schedules 8 to 13” substitute “Schedules 8 to 13A”.
 
-## 5. Amendment of regulation 10 (permits: general provisions)[^key-01e951d7e3dff4fe8a8c490c6d67e42d]
+## 5. Amendment of regulation 10 (permits: general provisions)[^c-01e951d7e3dff4fe8a8c490c6d67e42d]
 
 In regulation 10—
 
@@ -108,7 +108,7 @@ In regulation 10—
 
   .
 
-## 6. Amendment of regulation 19 (variation of conditions of permits)[^key-faf32366a07463720d8a43b29d6a25ae]
+## 6. Amendment of regulation 19 (variation of conditions of permits)[^c-faf32366a07463720d8a43b29d6a25ae]
 
 In regulation 19—
 
@@ -123,7 +123,7 @@ In regulation 19—
 
   .
 
-## 7. Amendment of regulation 26 (duty of the enforcing authority to undertake inspections and to ensure compliance with conditions)[^key-39021f2b2a120f4f893a940357ab1735]
+## 7. Amendment of regulation 26 (duty of the enforcing authority to undertake inspections and to ensure compliance with conditions)[^c-39021f2b2a120f4f893a940357ab1735]
 
 In regulation 26—
 
@@ -131,7 +131,7 @@ In regulation 26—
 - (b) in paragraph (7) after “inspections” insert “of Part A installations and Part A mobile plant”; and
 - (c) in paragraph (8) after “visit”, in the opening words, insert “to a Part A installation or Part A mobile plant”.
 
-## 8. Amendment of regulation 36 (offences)[^key-8a1a8931786535f48b2e38ea31820927]
+## 8. Amendment of regulation 36 (offences)[^c-8a1a8931786535f48b2e38ea31820927]
 
 In regulation 36—
 
@@ -145,7 +145,7 @@ In regulation 36—
     ; and
 - (b) in paragraph (2) for “(a), (b), (d) or (k)” substitute “(a), (b), (d), (k) or (n)”.
 
-## 9. Amendment of Schedule 1 (activities, installations and mobile plant)[^key-af838ce44d5966e2819d6011bb7127ec]
+## 9. Amendment of Schedule 1 (activities, installations and mobile plant)[^c-af838ce44d5966e2819d6011bb7127ec]
 
 In Schedule 1—
 
@@ -168,7 +168,7 @@ In Schedule 1—
   .
 - (d) in Part C of section 6.6 (timber activities), in head (a) for “planning” substitute “planing”.
 
-## 10. Amendment of Schedule 3 (prescribed date and transitional arrangements)[^key-224557e8c0b203e98486e8b305de7a5d]
+## 10. Amendment of Schedule 3 (prescribed date and transitional arrangements)[^c-224557e8c0b203e98486e8b305de7a5d]
 
 In Part 2 (Part B and Part C installations and mobile plant) of Schedule 3, for paragraph 5, substitute—
 
@@ -186,7 +186,7 @@ In Part 2 (Part B and Part C installations and mobile plant) of Schedule 3, for 
 
 .
 
-## 11. Amendment of Schedule 4 (grant of permits)[^key-ba215ee85ef8bbd48c7dfe9c35275402]
+## 11. Amendment of Schedule 4 (grant of permits)[^c-ba215ee85ef8bbd48c7dfe9c35275402]
 
 In Schedule 4—
 
@@ -222,7 +222,7 @@ In Schedule 4—
 
 .
 
-## 12. Amendment of Schedule 7 (variation of conditions)[^key-8d8d895e579428431fe5e475ea5576ea]
+## 12. Amendment of Schedule 7 (variation of conditions)[^c-8d8d895e579428431fe5e475ea5576ea]
 
 In Schedule 7—
 
@@ -232,7 +232,7 @@ In Schedule 7—
 
 (3) in paragraph 13 of Part 2 (variation notices), for “II” substitute “I”.
 
-## 13. Amendment by inserting Schedule 13A (Energy Efficiency Directive)[^key-4f71c3831c47a7b14328fbefa92b1de6]
+## 13. Amendment by inserting Schedule 13A (Energy Efficiency Directive)[^c-4f71c3831c47a7b14328fbefa92b1de6]
 
 After Schedule 13 (asbestos), insert Schedule 13A as set out in the Schedule to these Regulations.
 
@@ -242,7 +242,7 @@ Dave Foster
 
 A senior officer of the Department of the Environment
 
-## SCHEDULE — Schedule to be inserted as Schedule 13A to the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^key-0e59dfae2685ebd745a73ed01fc9534f]
+## SCHEDULE — Schedule to be inserted as Schedule 13A to the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^c-0e59dfae2685ebd745a73ed01fc9534f]
 
 Regulation 13
 
@@ -359,36 +359,36 @@ These regulations also make miscellaneous amendments to the principal Regulation
 
 [^f00001]: Footnote: [S.I. 2002/3153 (N.I. 7)](https://www.legislation.gov.uk/nisi/2002/3153)
 
-[^key-839c73216b6cb55218e58305ee782b2f]: Commencement: Reg. 1 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-839c73216b6cb55218e58305ee782b2f]: Commencement: Reg. 1 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
-[^key-170941a1445469926f390b6cb7a4ac8c]: Commencement: Reg. 2 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-170941a1445469926f390b6cb7a4ac8c]: Commencement: Reg. 2 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2013 No. 160](https://www.legislation.gov.uk/nisr/2013/160)
 
-[^key-7a921d31431706c475ec5e577354b79f]: Commencement: Reg. 3 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-7a921d31431706c475ec5e577354b79f]: Commencement: Reg. 3 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L 315/1, 14.11.2012, p.1
 
-[^key-04d973a50ce3a8b9c227c1411c95f57d]: Commencement: Reg. 4 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-04d973a50ce3a8b9c227c1411c95f57d]: Commencement: Reg. 4 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
-[^key-01e951d7e3dff4fe8a8c490c6d67e42d]: Commencement: Reg. 5 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-01e951d7e3dff4fe8a8c490c6d67e42d]: Commencement: Reg. 5 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
-[^key-faf32366a07463720d8a43b29d6a25ae]: Commencement: Reg. 6 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-faf32366a07463720d8a43b29d6a25ae]: Commencement: Reg. 6 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
-[^key-39021f2b2a120f4f893a940357ab1735]: Commencement: Reg. 7 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-39021f2b2a120f4f893a940357ab1735]: Commencement: Reg. 7 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
-[^key-8a1a8931786535f48b2e38ea31820927]: Commencement: Reg. 8 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-8a1a8931786535f48b2e38ea31820927]: Commencement: Reg. 8 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
-[^key-af838ce44d5966e2819d6011bb7127ec]: Commencement: Reg. 9 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-af838ce44d5966e2819d6011bb7127ec]: Commencement: Reg. 9 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
-[^key-224557e8c0b203e98486e8b305de7a5d]: Commencement: Reg. 10 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-224557e8c0b203e98486e8b305de7a5d]: Commencement: Reg. 10 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
-[^key-ba215ee85ef8bbd48c7dfe9c35275402]: Commencement: Reg. 11 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-ba215ee85ef8bbd48c7dfe9c35275402]: Commencement: Reg. 11 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
-[^key-8d8d895e579428431fe5e475ea5576ea]: Commencement: Reg. 12 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-8d8d895e579428431fe5e475ea5576ea]: Commencement: Reg. 12 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
-[^key-4f71c3831c47a7b14328fbefa92b1de6]: Commencement: Reg. 13 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-4f71c3831c47a7b14328fbefa92b1de6]: Commencement: Reg. 13 in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
-[^key-0e59dfae2685ebd745a73ed01fc9534f]: Commencement: Sch. in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
+[^c-0e59dfae2685ebd745a73ed01fc9534f]: Commencement: Sch. in operation at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1)
 
 [^f00004]: Footnote: O.J. L140 5.6.2009 p.144

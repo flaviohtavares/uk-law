@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-e8b813fbd24a83cf87a97f13a295f0a5] In this Chapter “**local authority**” in relation to England means—
+(1)[^c-e8b813fbd24a83cf87a97f13a295f0a5] In this Chapter “**local authority**” in relation to England means—
 
 - (a) a district council,
 - (b) a county council for an area in England for which there are no district councils,
@@ -28,7 +28,7 @@ summary: ''
 - (d) the Common Council of the City of London, or
 - (e) the Council of the Isles of Scilly.
 
-(2)[^key-e8b813fbd24a83cf87a97f13a295f0a5] The Secretary of State may by order amend this section for the purpose of changing the meaning in this Chapter of “**local authority**” in relation to England.
+(2)[^c-e8b813fbd24a83cf87a97f13a295f0a5] The Secretary of State may by order amend this section for the purpose of changing the meaning in this Chapter of “**local authority**” in relation to England.
 
 (3) In this Chapter “**local authority**” in relation to Wales means—
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c2116518]: Commencement: S. 106 in force for specified purposes at Royal Assent see [s. 240(5)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/f)
 
-[^key-e8b813fbd24a83cf87a97f13a295f0a5]: Commencement: S. 106(1)(2) in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-e8b813fbd24a83cf87a97f13a295f0a5]: Commencement: S. 106(1)(2) in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

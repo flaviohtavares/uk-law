@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5ZA — Serious terrorism offences[^key-650b96d540ef0eb418b819729e2c95cc]
+## SCHEDULE 5ZA — Serious terrorism offences[^c-650b96d540ef0eb418b819729e2c95cc]
 
 *Extent: S*
 
@@ -190,4 +190,4 @@ Section 205ZA
 
 ## Annotations
 
-[^key-650b96d540ef0eb418b819729e2c95cc]: Textual amendment: [Sch. 5ZA](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZA) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(d)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/d), [Sch. 4](https://www.legislation.gov.uk/ukpga/2021/11/schedule/4)
+[^c-650b96d540ef0eb418b819729e2c95cc]: Textual amendment: [Sch. 5ZA](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZA) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(d)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/d), [Sch. 4](https://www.legislation.gov.uk/ukpga/2021/11/schedule/4)

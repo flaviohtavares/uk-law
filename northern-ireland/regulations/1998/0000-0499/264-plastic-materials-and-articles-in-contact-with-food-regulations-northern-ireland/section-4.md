@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Restriction on manufacture with monomers[^key-0576019f3e6177e91b7203dd10fb5467]
+## 4. Restriction on manufacture with monomers[^c-0576019f3e6177e91b7203dd10fb5467]
 
 *Extent: N.I.*
 
@@ -66,4 +66,4 @@ and does not contravene paragraph 4 of that Annex
 
 ## Annotations
 
-[^key-0576019f3e6177e91b7203dd10fb5467]: Commencement: Reg. 4 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-0576019f3e6177e91b7203dd10fb5467]: Commencement: Reg. 4 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

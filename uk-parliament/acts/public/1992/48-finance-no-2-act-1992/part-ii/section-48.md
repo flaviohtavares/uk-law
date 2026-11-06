@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Transfer of a non-UK trade: amendment of 1970 Act.[^key-906e7855b2657ef0bf07a7bc57c6063e]
+## 48. Transfer of a non-UK trade: amendment of 1970 Act.[^c-906e7855b2657ef0bf07a7bc57c6063e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-906e7855b2657ef0bf07a7bc57c6063e]: Textual amendment: [Ss. 47-49](https://www.legislation.gov.uk/ukpga/1992/48/section/47) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-906e7855b2657ef0bf07a7bc57c6063e]: Textual amendment: [Ss. 47-49](https://www.legislation.gov.uk/ukpga/1992/48/section/47) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

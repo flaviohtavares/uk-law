@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of a defect in [S.I. 2008
 
 Betting, Gaming And Lotteries
 
-The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) (No 2) Regulations 2008 (revoked)[^key-28ac30659e08c0200b54d84cfc871d71]
+The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) (No 2) Regulations 2008 (revoked)[^c-28ac30659e08c0200b54d84cfc871d71]
 
 Made
 
@@ -48,37 +48,37 @@ Coming into force
 
 31st December 2008
 
-[^key-28ac30659e08c0200b54d84cfc871d71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28ac30659e08c0200b54d84cfc871d71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-28ac30659e08c0200b54d84cfc871d71]
+## 1. Citation and commencement[^c-28ac30659e08c0200b54d84cfc871d71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2006 Regulations[^key-28ac30659e08c0200b54d84cfc871d71]
+## 2. Amendment of the 2006 Regulations[^c-28ac30659e08c0200b54d84cfc871d71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 1 (Categories of non-remote operating licences)[^key-28ac30659e08c0200b54d84cfc871d71]
+## 3. Amendment of Schedule 1 (Categories of non-remote operating licences)[^c-28ac30659e08c0200b54d84cfc871d71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Schedule 4 (Categories of remote operating licences)[^key-28ac30659e08c0200b54d84cfc871d71]
+## 4. Amendment of Schedule 4 (Categories of remote operating licences)[^c-28ac30659e08c0200b54d84cfc871d71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28ac30659e08c0200b54d84cfc871d71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28ac30659e08c0200b54d84cfc871d71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Categories of non-remote operating licences[^key-28ac30659e08c0200b54d84cfc871d71]
+## SCHEDULE 1 — Categories of non-remote operating licences[^c-28ac30659e08c0200b54d84cfc871d71]
 
 Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Categories of remote operating licences[^key-28ac30659e08c0200b54d84cfc871d71]
+## SCHEDULE 4 — Categories of remote operating licences[^c-28ac30659e08c0200b54d84cfc871d71]
 
 Regulation 4
 
@@ -86,8 +86,8 @@ Regulation 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-28ac30659e08c0200b54d84cfc871d71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28ac30659e08c0200b54d84cfc871d71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-28ac30659e08c0200b54d84cfc871d71]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/3105) revoked (6.4.2017) by [The Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2017 (S.I. 2017/303)](https://www.legislation.gov.uk/uksi/2017/303), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/303/schedule/7)
+[^c-28ac30659e08c0200b54d84cfc871d71]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/3105) revoked (6.4.2017) by [The Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2017 (S.I. 2017/303)](https://www.legislation.gov.uk/uksi/2017/303), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/303/schedule/7)

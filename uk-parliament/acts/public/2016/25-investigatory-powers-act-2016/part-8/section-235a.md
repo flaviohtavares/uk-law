@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235A. Personal data breaches[^key-5ab70cba2f3aa516edb1d965c8f886da]
+## 235A. Personal data breaches[^c-5ab70cba2f3aa516edb1d965c8f886da]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where a telecommunications operator would, but for a relevant restriction, be required by regulation 5A(2) of the 2003 Regulations to notify a personal data breach to the Information Commission[^key-9086837344ff900f29df176819c166b2].
+(1) This section applies where a telecommunications operator would, but for a relevant restriction, be required by regulation 5A(2) of the 2003 Regulations to notify a personal data breach to the Information Commission[^c-9086837344ff900f29df176819c166b2].
 
 (2) The telecommunications operator must report the personal data breach to the Investigatory Powers Commissioner.
 
-(3) Where a telecommunications operator reports a personal data breach to the Investigatory Powers Commissioner under subsection (2), a Judicial Commissioner must disclose information about the breach to the Information Commission[^key-145f0172f604479eaed83d9b5045444b].
+(3) Where a telecommunications operator reports a personal data breach to the Investigatory Powers Commissioner under subsection (2), a Judicial Commissioner must disclose information about the breach to the Information Commission[^c-145f0172f604479eaed83d9b5045444b].
 
-(4) Where a Judicial Commissioner discloses information about a personal data breach to the Information Commission[^key-becc7067392b417d4fc3d0b45c4a022c] under subsection (3), the Information Commission must—
+(4) Where a Judicial Commissioner discloses information about a personal data breach to the Information Commission[^c-becc7067392b417d4fc3d0b45c4a022c] under subsection (3), the Information Commission must—
 
 - (a) consider whether the breach is serious, and
 - (b) if the Information Commission considers that the breach is serious, notify the Investigatory Powers Commissioner.
@@ -71,10 +71,10 @@ to make submissions to the Commissioner about the matters concerned.
 
 ## Annotations
 
-[^key-5ab70cba2f3aa516edb1d965c8f886da]: Textual amendment: [S. 235A](https://www.legislation.gov.uk/ukpga/2016/25/section/235A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/11/1), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/k)
+[^c-5ab70cba2f3aa516edb1d965c8f886da]: Textual amendment: [S. 235A](https://www.legislation.gov.uk/ukpga/2016/25/section/235A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/11/1), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/k)
 
-[^key-9086837344ff900f29df176819c166b2]: Textual amendment: Words in [s. 235A(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/235A/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-9086837344ff900f29df176819c166b2]: Textual amendment: Words in [s. 235A(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/235A/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-145f0172f604479eaed83d9b5045444b]: Textual amendment: Words in [s. 235A(3)](https://www.legislation.gov.uk/ukpga/2016/25/section/235A/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-145f0172f604479eaed83d9b5045444b]: Textual amendment: Words in [s. 235A(3)](https://www.legislation.gov.uk/ukpga/2016/25/section/235A/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-becc7067392b417d4fc3d0b45c4a022c]: Textual amendment: Words in [s. 235A(4)](https://www.legislation.gov.uk/ukpga/2016/25/section/235A/4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-becc7067392b417d4fc3d0b45c4a022c]: Textual amendment: Words in [s. 235A(4)](https://www.legislation.gov.uk/ukpga/2016/25/section/235A/4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

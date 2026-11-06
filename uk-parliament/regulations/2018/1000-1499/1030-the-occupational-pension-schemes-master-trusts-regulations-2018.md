@@ -46,7 +46,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 The Secretary of State has exercised her discretion under section 42(5) of the Pension Schemes Act 2017 to make regulations subject to affirmative resolution procedure which would otherwise be subject to negative resolution procedure.
 
-## 1. Citation and commencement[^key-aa14dda327c4fda9472b184e1997f216]
+## 1. Citation and commencement[^c-aa14dda327c4fda9472b184e1997f216]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Master Trusts) Regulations 2018.
 
@@ -54,7 +54,7 @@ The Secretary of State has exercised her discretion under section 42(5) of the P
 
 (3) Regulation 23(2)(b)(i) and (ii) comes into force on 1st April 2019.
 
-## 2. Interpretation and notices[^key-6b7e66101c8256c08f91379b472b6c79]
+## 2. Interpretation and notices[^c-6b7e66101c8256c08f91379b472b6c79]
 
 (1) In these Regulations—
 
@@ -86,7 +86,7 @@ The Secretary of State has exercised her discretion under section 42(5) of the P
 
 (2) Except where paragraph 1 of Schedule 5 provides otherwise, sections 303 and 304 of the 2004 Act (service of notifications and other documents) are treated as applying to notices and notifications issued under these Regulations.
 
-## 3. Connected employers[^key-6eca82b6fae1048b866b30fea8c25e16]
+## 3. Connected employers[^c-6eca82b6fae1048b866b30fea8c25e16]
 
 (1) For the purposes of section 1(3)(b) of the Act (Master Trust schemes: definition), an employer (“A”) is connected with another employer (“B”), and an employer which is a group undertaking of A is connected with an employer which is a group undertaking of B—
 
@@ -104,7 +104,7 @@ The Secretary of State has exercised her discretion under section 42(5) of the P
 
 (3) Where the transfer referred to in paragraph (1)(c) is not a relevant transfer as defined in regulation 2 of the TUPE Regulations[^f00012], A and B (and their respective group undertakings) are connected for no more than six months beginning with the date of the transfer.
 
-## 4. Application for authorisation[^key-36dbdf11c969b12105e2bdce7a99adc1]
+## 4. Application for authorisation[^c-36dbdf11c969b12105e2bdce7a99adc1]
 
 (1) The following provisions of this regulation apply for the purposes of section 4(5)(a) of the Act (application for authorisation).
 
@@ -115,7 +115,7 @@ The Secretary of State has exercised her discretion under section 42(5) of the P
   - (ii) the person’s date of birth;
   - (iii) the title and description of the person’s role in relation to the scheme;
   - (iv) the person’s residential address and address for correspondence, if different, including any change to the residential address in the five years before the date of the application for authorisation;
-  - (v) a criminal conviction certificate obtained by means of an application in accordance with section 112(1) of the Police Act 1997[^f00013] , a Level 1 disclosure within the meaning of section 1 of the Disclosure (Scotland) Act 2020[^key-e1daafba3b4c7cd6a192cd0bd9ff8948] or, in relation to the law of a country outside the United Kingdom, any document that is equivalent to such a certificate or disclosure[^key-0a9899f894c8979b0d3f499ded6bf0db];
+  - (v) a criminal conviction certificate obtained by means of an application in accordance with section 112(1) of the Police Act 1997[^f00013] , a Level 1 disclosure within the meaning of section 1 of the Disclosure (Scotland) Act 2020[^c-e1daafba3b4c7cd6a192cd0bd9ff8948] or, in relation to the law of a country outside the United Kingdom, any document that is equivalent to such a certificate or disclosure[^c-0a9899f894c8979b0d3f499ded6bf0db];
 - (b) in the case of a body corporate within the meaning given by section 1173(1) of the Companies Act—
   - (i) the full name of each person who exercises a function in respect of or on behalf of the body corporate acting in such a capacity;
   - (ii) the date of birth of each such person who is an individual;
@@ -138,17 +138,17 @@ The Secretary of State has exercised her discretion under section 42(5) of the P
 
 (6) The Regulator must pay fees received under paragraph (4) to the Secretary of State, unless the Secretary of State with the consent of the Treasury directs otherwise.
 
-## 5. Fit and proper persons requirement[^key-23aa2def8233d5f67851a770a5bada94]
+## 5. Fit and proper persons requirement[^c-23aa2def8233d5f67851a770a5bada94]
 
 Schedule 1 sets out the matters that the Regulator must take into account in assessing, for the purposes of section 7 of the Act (fit and proper persons requirement), whether a person involved in a Master Trust scheme is a fit and proper person.
 
-## 6. Financial sustainability requirement[^key-c0045d17aefd808257cf5305cbca9149]
+## 6. Financial sustainability requirement[^c-c0045d17aefd808257cf5305cbca9149]
 
 (1) Part 1 of Schedule 2 sets out the matters that the Regulator must take into account in deciding, for the purposes of section 8 of the Act (financial sustainability requirement), whether it is satisfied that a Master Trust scheme is financially sustainable.
 
 (2) Part 2 of Schedule 2 sets out the requirements to be met by a Master Trust scheme and each scheme funder relating to its financing.
 
-## 7. Financial sustainability requirement: business plan[^key-417f14eb4ea39d2a4ada79b9255dd974]
+## 7. Financial sustainability requirement: business plan[^c-417f14eb4ea39d2a4ada79b9255dd974]
 
 (1) A Master Trust scheme’s business plan must be submitted—
 
@@ -178,7 +178,7 @@ Schedule 1 sets out the matters that the Regulator must take into account in ass
 - (b) that the trustees are pursuing continuity option 1 or 2, and
 - (c) that the Regulator has approved an implementation strategy in respect of the scheme.
 
-## 8. Scheme funder requirements: activities[^key-99c44e0ea10daca46970f667adaa8477]
+## 8. Scheme funder requirements: activities[^c-99c44e0ea10daca46970f667adaa8477]
 
 (1) A current or prospective scheme funder which wishes to be exempted from the requirement in section 10(3) of the Act (that the scheme funder should only carry out activities that relate directly to Master Trust schemes in relation to which it is a scheme funder) must submit the following information to the Regulator in the format required by the Regulator—
 
@@ -213,7 +213,7 @@ the Regulator must notify the scheme funder to that effect, upon which the requi
 
 (5) The requirement in section 10(3) of the Act does not apply to the trustee corporation established by section 75 of the Pensions Act 2008[^f00017].
 
-## 9. Scheme funder requirements: accounts[^key-ac438715b6f902c64d7d9e73d25e804a]
+## 9. Scheme funder requirements: accounts[^c-ac438715b6f902c64d7d9e73d25e804a]
 
 (1) Where a scheme funder is a charity, its accounts must meet the requirements in the Companies Act notwithstanding the provisions of any other enactment.
 
@@ -257,11 +257,11 @@ irrespective of whether it is a qualifying partnership as defined in regulation 
 
 (10) A scheme funder that is partly or wholly funded by an undertaking must provide to the Regulator the accounts of that undertaking, produced in accordance with the Companies Act.
 
-## 10. Systems and processes requirements[^key-ac7b37976d21beb3c8de75944a337b53]
+## 10. Systems and processes requirements[^c-ac7b37976d21beb3c8de75944a337b53]
 
 Schedule 4 sets out the matters which the Regulator must take into account when deciding whether it is satisfied that the systems and processes used in running a Master Trust scheme are sufficient to ensure that the scheme is run effectively.
 
-## 11. Continuity strategy: administration charges[^key-e498d6cfa20f9beadea4afb0c4fa0aaa]
+## 11. Continuity strategy: administration charges[^c-e498d6cfa20f9beadea4afb0c4fa0aaa]
 
 (1) For the purposes of section 12(5) of the Act, the section of the continuity strategy setting out the levels of administration charges must set them out as follows.
 
@@ -276,7 +276,7 @@ Schedule 4 sets out the matters which the Regulator must take into account when 
 
 (4) Where there is a discounted level, the reason for charging the lower level must also be set out.
 
-## 12. Continuity strategy: information[^key-5b504245ecdde651f64947d543047211]
+## 12. Continuity strategy: information[^c-5b504245ecdde651f64947d543047211]
 
 (1) The following information is specified for the purposes of section 12(6)(a) of the Act (continuity strategy requirement)—
 
@@ -306,7 +306,7 @@ Schedule 4 sets out the matters which the Regulator must take into account when 
 - (b) in the format set out in a Code, and
 - (c) in accordance with any further requirements set out in a Code.
 
-## 13. Supervisory return: contents[^key-3e6b6826e215cb0e87006f0f29048a56]
+## 13. Supervisory return: contents[^c-3e6b6826e215cb0e87006f0f29048a56]
 
 For the purposes of section 15(2) of the Act, the Regulator may require the following information to be included in a supervisory return, to the extent that it has not already been provided to the Regulator—
 
@@ -319,7 +319,7 @@ For the purposes of section 15(2) of the Act, the Regulator may require the foll
 - (e) details of the scheme’s current position in relation to its objectives in the business plan;
 - (f) any other information that is relevant to the authorisation criteria listed in section 5(3) of the Act (decision on application).
 
-## 14. Significant events: notifying the Regulator[^key-024d1043faf454d3b265371826fc46dc]
+## 14. Significant events: notifying the Regulator[^c-024d1043faf454d3b265371826fc46dc]
 
 The following are significant events which must be notified to the Regulator under section 16 of the Act (duty to notify Regulator)—
 
@@ -345,7 +345,7 @@ The following are significant events which must be notified to the Regulator und
 - (k) a significant change to the systems and processes used in running the scheme, or in any person responsible for delivering key services to the scheme;
 - (l) an investigation of the scheme, or of a person involved in the scheme, by a regulator or other competent authority inside or outside the United Kingdom.
 
-## 15. Fixed and escalating penalties[^key-35be655e03c3365deea91330e502b3ac]
+## 15. Fixed and escalating penalties[^c-35be655e03c3365deea91330e502b3ac]
 
 (1) Where the Regulator issues a fixed penalty notice to a person under section 17(1) of the Act, the penalty is £500.
 
@@ -371,7 +371,7 @@ The following are significant events which must be notified to the Regulator und
 | 10 | £10,000 |
 | Each subsequent day | £10,000. |
 
-## 16. Triggering events: notification requirements[^key-5dd1d6fb562c705890e805463b9cc767]
+## 16. Triggering events: notification requirements[^c-5dd1d6fb562c705890e805463b9cc767]
 
 (1) For the purposes of section 22(6)(b) of the Act, if a triggering event occurs in relation to a Master Trust scheme, the trustees must notify the employers of the following matters—
 
@@ -394,14 +394,14 @@ beginning with the date specified in paragraph (3).
 - (a) the date on which the triggering event occurred (in the case of notifications made under section 22(2) or (6) of the Act), or
 - (b) the date on which the person under the duty to notify the Regulator became aware that the event had occurred (in the case of notifications made under section 22(4) of the Act).
 
-## 17. Implementation strategy: approval[^key-b85caf84e4ae4d7e0de205a08251efb8]
+## 17. Implementation strategy: approval[^c-b85caf84e4ae4d7e0de205a08251efb8]
 
 Where trustees are required to submit an implementation strategy to the Regulator for approval, it must be submitted before the end of the 28 days beginning with the date on which—
 
 - (a) the decision to refuse or withdraw authorisation became final, in the case of a triggering event within item 1, 2 or 2A[^f00024] of the table in section 21(6) of the Act; or
 - (b) the triggering event occurred, in the case of a triggering event within any other item of the table in section 21(6) of the Act.
 
-## 18. Implementation strategy: administration charges[^key-a41aa6fd82979252a7b2ae2071ff7fc4]
+## 18. Implementation strategy: administration charges[^c-a41aa6fd82979252a7b2ae2071ff7fc4]
 
 (1) The levels to be set out in the section relating to administration charges in the implementation strategy (“fixed charge levels”) must be set out and calculated using the following method.
 
@@ -429,7 +429,7 @@ Where trustees are required to submit an implementation strategy to the Regulato
 
 (9) Where there is a discounted level, the reason for charging the lower level must also be stated.
 
-## 19. Implementation strategy: content[^key-4967bcbea9af8f134b5178bd06d94b33]
+## 19. Implementation strategy: content[^c-4967bcbea9af8f134b5178bd06d94b33]
 
 (1) An implementation strategy must contain—
 
@@ -458,18 +458,18 @@ Where trustees are required to submit an implementation strategy to the Regulato
 
 (3) After approval by the Regulator, the implementation strategy must be made available to the employers within the seven days beginning with the date on which the Regulator notifies the trustees that the implementation strategy is approved.
 
-## 20. Continuity option 1: transfer out and winding up[^key-c812b35d02223edf00c22e00fc172409]
+## 20. Continuity option 1: transfer out and winding up[^c-c812b35d02223edf00c22e00fc172409]
 
 Schedule 5 applies when the trustees of a Master Trust scheme—
 
 - (a) are required, or decide, to pursue continuity option 1; and
 - (b) propose to transfer members’ accrued rights and benefits under the scheme.
 
-## 21. Continuity option 2: resolving triggering event[^key-ecb6388f89a8eef31972b3991f4bea76]
+## 21. Continuity option 2: resolving triggering event[^c-ecb6388f89a8eef31972b3991f4bea76]
 
 For the purposes of section 25(4) of the Act (continuity option 2: resolving triggering event) (or, where applicable, of section 25(4)(d) as substituted by paragraph 5(c) of Schedule 2 to the Act), the notification must be given before the end of the 14 days beginning with the date on which the triggering event was, in the trustees’ opinion, resolved.
 
-## 22. Periodic reporting requirement[^key-78bd4f62700c3b897b1b74fb7854104f]
+## 22. Periodic reporting requirement[^c-78bd4f62700c3b897b1b74fb7854104f]
 
 (1) For the purposes of section 30(2) of the Act (periodic reporting requirement), the first report must be submitted before the end of the 14 days beginning with the date on which the Regulator notifies the trustees that the implementation strategy is approved.
 
@@ -488,9 +488,9 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
 
 (4) This regulation does not apply to a scheme to which regulation 27(3) applies.
 
-## 23. Fraud compensation[^key-23d63f176e4ac060f763e718e3b1b967][^key-d6bbec2b09175d06defb80893cd0c327]
+## 23. Fraud compensation[^c-23d63f176e4ac060f763e718e3b1b967][^c-d6bbec2b09175d06defb80893cd0c327]
 
-(1)[^key-23d63f176e4ac060f763e718e3b1b967] This paragraph applies to a scheme when all the following conditions are met—
+(1)[^c-23d63f176e4ac060f763e718e3b1b967] This paragraph applies to a scheme when all the following conditions are met—
 
 - (a) the scheme has been authorised by the Regulator under section 5 of the Act;
 - (b) there are one or more scheme funders and a triggering event within item 4 or 5 of the table in section 21(6) of the Act has occurred in relation to every scheme funder;
@@ -499,7 +499,7 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
 
 (2) Where paragraph (1) applies, the following enactments have effect in relation to the scheme with the following modifications—
 
-- (a)[^key-23d63f176e4ac060f763e718e3b1b967] in the 2004 Act, omit—
+- (a)[^c-23d63f176e4ac060f763e718e3b1b967] in the 2004 Act, omit—
   - (i) section 182(1)(c), (2) to (4), 6(a), (8) and (9) (insolvency of employers);
   - (ii) the words “the later of” in section 182(6);
   - (iii) the definition of “relevant event” in section 182(10);
@@ -507,8 +507,8 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
   - (v) section 185(5)(d) (board’s duty to give notice to the insolvency practitioner or the employer) and the “and” before it;
   - (vi) paragraph 21 of Schedule 9 (issue of a notice under section 183);
 - (b) in the Occupational Pension Schemes (Fraud Compensation Payments and Miscellaneous Amendments) Regulations 2005[^f00026]—
-  - (i)[^key-d6bbec2b09175d06defb80893cd0c327] omit regulation 2(1)(ka)[^f00027];
-  - (ii)[^key-d6bbec2b09175d06defb80893cd0c327] in regulation 2(2), for “(ka)” substitute “(k)”;
+  - (i)[^c-d6bbec2b09175d06defb80893cd0c327] omit regulation 2(1)(ka)[^f00027];
+  - (ii)[^c-d6bbec2b09175d06defb80893cd0c327] in regulation 2(2), for “(ka)” substitute “(k)”;
   - (iii) in regulation 5(3)—
     - (aa) in sub-paragraph (c), for “employer” substitute “each scheme funder (as defined in section 39(1) of the Pension Schemes Act 2017)”;
     - (bb) for sub-paragraph (e), substitute—
@@ -516,9 +516,9 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
       > - (e) the date the triggering event (as defined in section 39(1) of the Pension Schemes Act 2017) occurred;
 
       ;
-- (c)[^key-be06272d81af7ae66ac20bcc4d106f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-be06272d81af7ae66ac20bcc4d106f00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Pause orders[^key-69c6d12779c47b0f46bb8e867aa9b166]
+## 24. Pause orders[^c-69c6d12779c47b0f46bb8e867aa9b166]
 
 (1) Where a pause order containing a direction under section 31(5)(e) of the Act (pause orders) has effect in respect of a scheme, section 99 of the 1993 Act[^f00030] (trustees’ duties after exercise of option) has effect in relation to that scheme as if for subsection (2)(b) of section 99 there were substituted—
 
@@ -538,17 +538,17 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
   ;
 - (c) in sub-paragraph (c), for “(b) or (ba)” substitute “(b), (ba) or (bb)”.
 
-## 25. Administration charges[^key-ebf3a3f990b75e23d0ce18c5448feb60]
+## 25. Administration charges[^c-ebf3a3f990b75e23d0ce18c5448feb60]
 
-(1)[^key-a37ee88a6d9b5d5e35eca762b4eb09e8] The administration charges that apply in relation to members of a Master Trust scheme must not include—
+(1)[^c-a37ee88a6d9b5d5e35eca762b4eb09e8] The administration charges that apply in relation to members of a Master Trust scheme must not include—
 
 - (a) costs incurred as a result of buying, selling, lending or borrowing investments;
 - (b) where a court order provides for the recovery by the trustees of costs incurred in complying with the order, the amount of those costs;
 - (c) charges permitted by regulations made under section 24 or 41 of the Welfare Reform and Pensions Act 1999[^f00032] (charges by pension arrangements in relation to earmarking orders and charges in respect of pension sharing costs);
-- (d) costs solely associated with the provision of death benefits;[^key-a97434c748b7c77fc1e910c5f694452b]
+- (d) costs solely associated with the provision of death benefits;[^c-a97434c748b7c77fc1e910c5f694452b]
 - (e) costs solely attributable to holding physical assets.
 
-(2)[^key-681a43e33a15143f3a2bc3920cb83d93] For the purposes of this regulation, the costs solely attributable to holding a physical asset include—
+(2)[^c-681a43e33a15143f3a2bc3920cb83d93] For the purposes of this regulation, the costs solely attributable to holding a physical asset include—
 
 - (a) the costs of managing and maintaining the asset;
 - (b) fees for valuing the asset;
@@ -564,7 +564,7 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
   - (iii) vehicles, ships, aircraft or rolling stock, and
   - (iv) commodities.
 
-## 26. Application of Part 1 of the Pension Schemes Act 2017[^key-ca259be87feb3658df3ad6798f55fcf3]
+## 26. Application of Part 1 of the Pension Schemes Act 2017[^c-ca259be87feb3658df3ad6798f55fcf3]
 
 (1) Part 1 of the Act does not apply to schemes which have all the following characteristics—
 
@@ -576,7 +576,7 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
 
 (2) In paragraph (1)(c), a “new member” includes a person who was formerly a member of the scheme by virtue of a relationship with a previous employer, except where that person’s employment contract was transferred to the person’s current employer as a result of a relevant transfer as defined in regulation 2 of the TUPE Regulations.
 
-**27.**[^key-db4fa46e06e8f263b90af4f1ceffb4cd][^key-ca259be87feb3658df3ad6798f55fcf3] (1) Part 1 of the Act does not apply to schemes to which one or more of the following paragraphs apply.
+**27.**[^c-db4fa46e06e8f263b90af4f1ceffb4cd][^c-ca259be87feb3658df3ad6798f55fcf3] (1) Part 1 of the Act does not apply to schemes to which one or more of the following paragraphs apply.
 
 (2) This paragraph applies where—
 
@@ -596,7 +596,7 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
 - (b) money purchase rights or benefits transferred from other pension schemes in respect of persons who, at the time of the transfer, were active non-money purchase members of the receiving scheme, where those rights or benefits are closed to future accrual;
 - (c) pension credits created pursuant to section 29 of the Welfare Reform and Pensions Act 1999 (creation of pension debits and credits).
 
-**28.**[^key-611e51a8daf43d160f19733ff298733e][^key-ca259be87feb3658df3ad6798f55fcf3] (1) This paragraph applies to a Master Trust scheme which—
+**28.**[^c-611e51a8daf43d160f19733ff298733e][^c-ca259be87feb3658df3ad6798f55fcf3] (1) This paragraph applies to a Master Trust scheme which—
 
 - (a) was established before the commencement date,
 - (b) provides both money purchase benefits and non-money purchase benefits, and
@@ -642,7 +642,7 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
   - (iv) the report must contain a statement as to whether any of the scheme’s administrative services are being carried out by a person other than the trustees, including the name and address of that person;
   - (v) the report must state the actions being taken by the trustees in the absence of an implementation strategy, the timescales for completing them, and details of any particular issues affecting the trustees’ ability to pursue or complete them.
 
-**29.**[^key-a70f9bfaaab7bfde9ad2c4f7158fdfb3][^key-ca259be87feb3658df3ad6798f55fcf3] (1) Two or more pension schemes are treated as a single Master Trust scheme for the purposes of Part 1 of the Act when paragraph (2) or (4) applies.
+**29.**[^c-a70f9bfaaab7bfde9ad2c4f7158fdfb3][^c-ca259be87feb3658df3ad6798f55fcf3] (1) Two or more pension schemes are treated as a single Master Trust scheme for the purposes of Part 1 of the Act when paragraph (2) or (4) applies.
 
 (2) This paragraph applies where—
 
@@ -681,7 +681,7 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
   - (i) provided by a common service provider, or
   - (ii) subject to the same rules.
 
-## 30. Amendment of the Companies Act 2006[^key-6cbad0a67ab9aca4f6ca23d4ddfce223]
+## 30. Amendment of the Companies Act 2006[^c-6cbad0a67ab9aca4f6ca23d4ddfce223]
 
 (1) The Companies Act is amended as follows.
 
@@ -740,7 +740,7 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
 
   .
 
-## 31. Amendment of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^key-d44ca8f1ba1c1713e843a9c5efd691c7]
+## 31. Amendment of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^c-d44ca8f1ba1c1713e843a9c5efd691c7]
 
 (1) The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^f00040] are amended as follows.
 
@@ -798,7 +798,7 @@ For the purposes of section 25(4) of the Act (continuity option 2: resolving tri
 
   .
 
-## 32. Amendment of the Overseas Companies Regulations 2009[^key-50c1328ec72112c35f3c633dca567978]
+## 32. Amendment of the Overseas Companies Regulations 2009[^c-50c1328ec72112c35f3c633dca567978]
 
 (1) The Overseas Companies Regulations 2009[^f00045] are amended as follows.
 
@@ -820,7 +820,7 @@ Department for Work and Pensions
 
 Regulation 5
 
-**1.**[^key-be0bc7af49e3e4fae55af85822ee1225] For the purposes of section 7(4)(a) of the Act, the Regulator must take account of the following matters when assessing whether a person is fit and proper to act in a capacity mentioned in section 7(2) or (3) of the Act—
+**1.**[^c-be0bc7af49e3e4fae55af85822ee1225] For the purposes of section 7(4)(a) of the Act, the Regulator must take account of the following matters when assessing whether a person is fit and proper to act in a capacity mentioned in section 7(2) or (3) of the Act—
 
 - (a) whether, in England and Wales, the person has—
   - (i) made any arrangement with the person’s creditors;
@@ -874,9 +874,9 @@ Regulation 5
     - (aa) Article 29 of the Pensions (Northern Ireland) Order 1995[^f00059] (persons disqualified from being trustees), or
     - (bb) any other legislation.
 
-**2.**[^key-c5b46564720281c6d256da8e7e7c2ab4] For the purposes of section 7(3)(b) of the Act, the Regulator may assess whether a person who exercises a core function is fit and proper to act in such a capacity.
+**2.**[^c-c5b46564720281c6d256da8e7e7c2ab4] For the purposes of section 7(3)(b) of the Act, the Regulator may assess whether a person who exercises a core function is fit and proper to act in such a capacity.
 
-**3.**[^key-f89e56c11be1e87b524697740c1f58a8] For the purposes of section 7(4)(a) of the Act, the Regulator must take into account—
+**3.**[^c-f89e56c11be1e87b524697740c1f58a8] For the purposes of section 7(4)(a) of the Act, the Regulator must take into account—
 
 - (a) the knowledge and skills gained from a person’s significant experience as a trustee, in assessing whether the person is fit and proper to act in that capacity;
 - (b) whether a person has successfully completed the Regulator’s on-line learning program known as the Toolkit, or an equivalent learning program, in assessing whether the person is fit and proper to act in the capacity of a trustee of the scheme;
@@ -884,7 +884,7 @@ Regulation 5
 - (d) a person’s relevant experience and professional competence, in assessing whether the person is fit and proper to act in the capacity of a scheme strategist;
 - (e) the collective expertise and experience of persons acting together in the capacity of a scheme strategist, in assessing whether they are fit and proper to act in that capacity.
 
-**4.**[^key-ece1bcbb3b227596f72693fe7d0c64e0] (1) In this Schedule—
+**4.**[^c-ece1bcbb3b227596f72693fe7d0c64e0] (1) In this Schedule—
 
 - “arrangement” means a voluntary agreement entered into by an individual with their creditors;
 - “the Bankruptcy Act” means the Bankruptcy (Scotland) Act 2016[^f00060];
@@ -916,7 +916,7 @@ Regulation 6
 
 ### PART 1 — Matters which the Regulator must take into account
 
-**1.**[^key-03943cc144230b5bced021d976967dc9] The Regulator must take account of the following matters in deciding whether it is satisfied, for the purposes of section 8(2)(a) of the Act, that the business strategy relating to a Master Trust scheme is sound—
+**1.**[^c-03943cc144230b5bced021d976967dc9] The Regulator must take account of the following matters in deciding whether it is satisfied, for the purposes of section 8(2)(a) of the Act, that the business strategy relating to a Master Trust scheme is sound—
 
 - (a) the structure of the scheme and its target market, including any plans to acquire or merge with other schemes;
 - (b) the objectives for the scheme and the strategy for achieving them, including delivery milestones;
@@ -931,7 +931,7 @@ Regulation 6
 - (k) where the scheme has no scheme funder, the scheme’s strategy for meeting the costs mentioned in section 8(3) of the Act;
 - (l) any provision made by the trustees and each scheme funder to fund contingent liabilities in respect of the scheme.
 
-**2.**[^key-65a6227b5dae8f9b30b89d429925bee4] The Regulator must take account of the following matters in deciding whether it is satisfied, for the purposes of section 8(2)(b) of the Act, that a Master Trust scheme has sufficient financial resources to meet the costs mentioned in section 8(3)(a) of the Act—
+**2.**[^c-65a6227b5dae8f9b30b89d429925bee4] The Regulator must take account of the following matters in deciding whether it is satisfied, for the purposes of section 8(2)(b) of the Act, that a Master Trust scheme has sufficient financial resources to meet the costs mentioned in section 8(3)(a) of the Act—
 
 - (a) the structure of the scheme and the business strategy relating to it;
 - (b) the scheme’s sources of income;
@@ -947,7 +947,7 @@ Regulation 6
   - (iii) the beneficiary of the policy;
   - (iv) any limitations on the insurer’s liability.
 
-**3.**[^key-53c5317d3c0b8b4ab2238ff668e3da9f] The Regulator must take account of the following matters in deciding whether it is satisfied, for the purposes of section 8(2)(b) of the Act, that a Master Trust scheme has sufficient financial resources to meet the costs mentioned in section 8(3)(b) of the Act—
+**3.**[^c-53c5317d3c0b8b4ab2238ff668e3da9f] The Regulator must take account of the following matters in deciding whether it is satisfied, for the purposes of section 8(2)(b) of the Act, that a Master Trust scheme has sufficient financial resources to meet the costs mentioned in section 8(3)(b) of the Act—
 
 - (a) the extent and manner in which the trustees have made provision to meet those costs;
 - (b) the amount and classes of assets held by, or available to, the trustees to meet those costs;
@@ -970,7 +970,7 @@ Regulation 6
   - (ii) the basis on which the compensation is payable;
   - (iii) any limits on the amount of compensation payable.
 
-**4.**[^key-d2f74db105ce7843ecf25ee4f47208d3] The Regulator must take account of the following information in deciding whether it is satisfied about the matters mentioned in section 8(2) of the Act—
+**4.**[^c-d2f74db105ce7843ecf25ee4f47208d3] The Regulator must take account of the following information in deciding whether it is satisfied about the matters mentioned in section 8(2) of the Act—
 
 - (a) the scheme’s business plan, including any supporting documents and information;
 - (b) the scheme’s accounts;
@@ -980,7 +980,7 @@ Regulation 6
 
 ### PART 2 — Requirements to be met by Master Trust schemes and scheme funders
 
-**5.**[^key-2dc52e4c21be9c169061d99cee2243cb] A Master Trust scheme and each scheme funder must meet the following requirements in relation to the scheme’s financing—
+**5.**[^c-2dc52e4c21be9c169061d99cee2243cb] A Master Trust scheme and each scheme funder must meet the following requirements in relation to the scheme’s financing—
 
 - (a) any assets held by the trustees or a scheme funder to meet the costs mentioned in section 8(3) of the Act must be—
   - (i) of the classes and in the proportions set out in a Code,
@@ -991,7 +991,7 @@ Regulation 6
 - (d) where a scheme funder operates more than one Master Trust scheme, the funds allocated to each scheme must be separately identified to the Regulator;
 - (e) where the assets include cash in a greater proportion than that set out in a Code, the Regulator may require trustees to hold a proportion of the assets set out in a Code in a separate account kept with a deposit taker as defined in section 49(8A) of the 1995 Act[^f00069] (other responsibilities of trustees, etc).
 
-**6.**[^key-ca7189d2389d5d909da3040beb10810b] (1) This paragraph applies in respect of a Master Trust scheme—
+**6.**[^c-ca7189d2389d5d909da3040beb10810b] (1) This paragraph applies in respect of a Master Trust scheme—
 
 - (a) that was established before the commencement date,
 - (b) that provides both money purchase benefits and non-money purchase benefits,
@@ -1012,18 +1012,18 @@ Regulation 7
 
 #### General
 
-**1.**[^key-6141e63e5854a8d9e470dfaf62428ec2] The effective date of the business plan.
+**1.**[^c-6141e63e5854a8d9e470dfaf62428ec2] The effective date of the business plan.
 
-**2.**[^key-c33c5fc4dbc7e0fea55191e3cda57473] The period to which the business plan relates, to be no less than three years and no more than five years starting with the effective date (the “plan period”).
+**2.**[^c-c33c5fc4dbc7e0fea55191e3cda57473] The period to which the business plan relates, to be no less than three years and no more than five years starting with the effective date (the “plan period”).
 
-**3.**[^key-80b037282709b92d8fc908a50fddc571] In each case where this Schedule or a Code requires estimates to be provided in connection with the business plan—
+**3.**[^c-80b037282709b92d8fc908a50fddc571] In each case where this Schedule or a Code requires estimates to be provided in connection with the business plan—
 
 - (a) the assumptions used in reaching those estimates, and
 - (b) the circumstances in which, and the extent to which, the scheme’s actual costs, income and size may vary from the estimates.
 
-**4.**[^key-9a5fc624d95437fbe460de390db25baa] The name of the person who prepared the business plan.
+**4.**[^c-9a5fc624d95437fbe460de390db25baa] The name of the person who prepared the business plan.
 
-**5.**[^key-3cb687f9a3fabea4bc8f0e80baeae187] A statement, signed by the trustees, each scheme funder and, if different, the scheme strategist, confirming—
+**5.**[^c-3cb687f9a3fabea4bc8f0e80baeae187] A statement, signed by the trustees, each scheme funder and, if different, the scheme strategist, confirming—
 
 - (a) that each scheme funder considers (or, in the absence of a scheme funder, the trustees consider) the business plan to give a true and fair representation of the matters to which it relates, and
 - (b) that the business plan, and any revisions to it, have been approved by the trustees, each scheme funder and, if different, the scheme strategist,
@@ -1032,61 +1032,61 @@ but this paragraph does not apply to scheme funders of schemes to which regulati
 
 #### Information about the Master Trust scheme
 
-**6.**[^key-150d33d75577ec9f15fe0b0443cf6b6f] The registered name of the scheme.
+**6.**[^c-150d33d75577ec9f15fe0b0443cf6b6f] The registered name of the scheme.
 
-**7.**[^key-b2d55a2111f263e92d6e9a04d625c035] If different, any trading or brand name under which the scheme is promoted or marketed.
+**7.**[^c-b2d55a2111f263e92d6e9a04d625c035] If different, any trading or brand name under which the scheme is promoted or marketed.
 
-**8.**[^key-78b25db41df691e076e2cb62279073e2] The date when the scheme was established.
+**8.**[^c-78b25db41df691e076e2cb62279073e2] The date when the scheme was established.
 
-**9.**[^key-066d801cf229741d85ef5c2aabd4b473] The address of the scheme’s registered office.
+**9.**[^c-066d801cf229741d85ef5c2aabd4b473] The address of the scheme’s registered office.
 
-**10.**[^key-dfbeed9c24900fd4417dc31974fe906f] The name of—
+**10.**[^c-dfbeed9c24900fd4417dc31974fe906f] The name of—
 
 - (a) each scheme trustee,
 - (b) each scheme funder (except where regulation 27(1) applies to the scheme), and
 - (c) each scheme strategist.
 
-**11.**[^key-3f765ecb0e2e0f6fb49c9a53615a17c9] The name and address of any scheme administrator.
+**11.**[^c-3f765ecb0e2e0f6fb49c9a53615a17c9] The name and address of any scheme administrator.
 
-**12.**[^key-1c11eb516b31c4c79894279f6f0ef34a] The number of participating employers.
+**12.**[^c-1c11eb516b31c4c79894279f6f0ef34a] The number of participating employers.
 
-**13.**[^key-bccf7cdf4c156f9d1dc37b8c3cc4068e] The number of members, broken down into active members, deferred members and pensioner members.
+**13.**[^c-bccf7cdf4c156f9d1dc37b8c3cc4068e] The number of members, broken down into active members, deferred members and pensioner members.
 
-**14.**[^key-70a97d6cc867313e543e94aea6e6fa15] The numbers of members joining, transferring from and leaving the scheme in the three years ending with the effective date.
+**14.**[^c-70a97d6cc867313e543e94aea6e6fa15] The numbers of members joining, transferring from and leaving the scheme in the three years ending with the effective date.
 
-**15.**[^key-502dc1273a6df6dd5e87e6365cb69b61] The scheme’s pension registry number.
+**15.**[^c-502dc1273a6df6dd5e87e6365cb69b61] The scheme’s pension registry number.
 
-**16.**[^key-7d48bff1892fded2b6a390578793bde0] The scheme’s HM Revenue & Customs reference number.
+**16.**[^c-7d48bff1892fded2b6a390578793bde0] The scheme’s HM Revenue & Customs reference number.
 
 #### Information about scheme funders
 
-**17.**[^key-ed02aa37d7c204413313c3bb96c80dff] If a scheme funder has a single shareholder or is, in the Regulator’s opinion, reliant on a single individual, details of the succession planning in the event that the shareholder or single individual ceases to be connected to the scheme funder.
+**17.**[^c-ed02aa37d7c204413313c3bb96c80dff] If a scheme funder has a single shareholder or is, in the Regulator’s opinion, reliant on a single individual, details of the succession planning in the event that the shareholder or single individual ceases to be connected to the scheme funder.
 
-**18.**[^key-91fa27ee761bad4c09aae8403acb6066] Where section 10(3) of the Act (scheme funder requirements) applies to a scheme funder, a description of those of its activities which do not relate directly to the scheme.
+**18.**[^c-91fa27ee761bad4c09aae8403acb6066] Where section 10(3) of the Act (scheme funder requirements) applies to a scheme funder, a description of those of its activities which do not relate directly to the scheme.
 
-**19.**[^key-a68561a3400d5a09363124c52389515f] Whether a scheme funder is regulated by a financial regulator other than the Regulator and, if so, the identity of that regulator.
+**19.**[^c-a68561a3400d5a09363124c52389515f] Whether a scheme funder is regulated by a financial regulator other than the Regulator and, if so, the identity of that regulator.
 
 #### Information about the scheme strategist
 
-**20.**[^key-3504c78ca67e64cfb8e6048e62aeef2d] A declaration as to the overall competence of the scheme strategist, with particular reference to the scheme strategist’s experience, knowledge, professional qualifications, and plans to improve that competence by way of continuous professional development or otherwise.
+**20.**[^c-3504c78ca67e64cfb8e6048e62aeef2d] A declaration as to the overall competence of the scheme strategist, with particular reference to the scheme strategist’s experience, knowledge, professional qualifications, and plans to improve that competence by way of continuous professional development or otherwise.
 
 #### Information following a triggering event
 
-**21.**[^key-8a1dbdd94b79ddf35a3b93707a6558fe] Where a triggering event has reduced the value of the assets available to the scheme, the plans and timetable for restoring the scheme’s assets to a level likely to satisfy the Regulator that the scheme is financially sustainable.
+**21.**[^c-8a1dbdd94b79ddf35a3b93707a6558fe] Where a triggering event has reduced the value of the assets available to the scheme, the plans and timetable for restoring the scheme’s assets to a level likely to satisfy the Regulator that the scheme is financially sustainable.
 
 ### PART 2 — Requirements relating to the business plan to be set out in a Code
 
-**22.**[^key-cb71caec4170040f354618cc2b00bfca] Information to be provided by schemes which provide non-money purchase benefits.
+**22.**[^c-cb71caec4170040f354618cc2b00bfca] Information to be provided by schemes which provide non-money purchase benefits.
 
-**23.**[^key-f60483f9160ae1a34c2d83c560a669a3] The scheme’s objectives and its strategy for meeting them.
+**23.**[^c-f60483f9160ae1a34c2d83c560a669a3] The scheme’s objectives and its strategy for meeting them.
 
-**24.**[^key-b22f6b94bd0a990c555802704462fc66] Costs in relation to money purchase benefits.
+**24.**[^c-b22f6b94bd0a990c555802704462fc66] Costs in relation to money purchase benefits.
 
-**25.**[^key-62a98f316c7287de851032b7fcf438cf] Assets and liquidity in relation to costs.
+**25.**[^c-62a98f316c7287de851032b7fcf438cf] Assets and liquidity in relation to costs.
 
-**26.**[^key-c49d83f171ac1668c4934a9d0e6b22db] Income in relation to money purchase benefits.
+**26.**[^c-c49d83f171ac1668c4934a9d0e6b22db] Income in relation to money purchase benefits.
 
-**27.**[^key-f904b8b6eb171281c73c36e0be703314] Profit and loss in relation to money purchase benefits.
+**27.**[^c-f904b8b6eb171281c73c36e0be703314] Profit and loss in relation to money purchase benefits.
 
 ## SCHEDULE 4 — SYSTEMS AND PROCESSES REQUIREMENTS
 
@@ -1094,7 +1094,7 @@ Regulation 10
 
 ### Features and functionality of IT systems
 
-**1.**[^key-5d12f21c247ded2c07f563216e97a11a] Whether the IT systems have the capacity and capability—
+**1.**[^c-5d12f21c247ded2c07f563216e97a11a] Whether the IT systems have the capacity and capability—
 
 - (a) to process financial transactions securely and accurately, including the core transactions described in regulation 24(2) of the Administration Regulations[^f00070] (requirements for processing financial transactions);
 - (b) to make and receive electronic payments;
@@ -1106,7 +1106,7 @@ Regulation 10
 
 ### Standards required of IT systems
 
-**2.**[^key-4674ca50345d90ed8f1a5e1eb9105ef2] Whether the IT systems—
+**2.**[^c-4674ca50345d90ed8f1a5e1eb9105ef2] Whether the IT systems—
 
 - (a) are of sufficient standard to allow the scheme to meet its objectives as set out in the business plan;
 - (b) are capable of being upgraded to reflect changes in required transactions and capacity;
@@ -1115,7 +1115,7 @@ Regulation 10
 
 ### Maintenance of IT systems
 
-**3.**[^key-c6c4312aa86ada10c7f905bbd458ffc4] Whether the IT systems—
+**3.**[^c-c6c4312aa86ada10c7f905bbd458ffc4] Whether the IT systems—
 
 - (a) are maintained at regular intervals, either automatically or by a person with the appropriate skills and experience;
 - (b) are backed up and updated regularly, including the maintenance of firewalls and other preventative systems;
@@ -1123,7 +1123,7 @@ Regulation 10
 
 ### Member records
 
-**4.**[^key-e0fba8a70a907949023f509703a79bfb] Whether the scheme’s systems and processes ensure that—
+**4.**[^c-e0fba8a70a907949023f509703a79bfb] Whether the scheme’s systems and processes ensure that—
 
 - (a) there is an accurate record of each member’s details, including the contributions made in respect of each active member for each pay period, on the relevant IT system;
 - (b) any unpaid contribution in respect of active members can be explained to the Regulator and remedied;
@@ -1136,7 +1136,7 @@ Regulation 10
 
 ### Trustees and others
 
-**5.**[^key-a655e45e35ae71a3e35b55afd7826c48] Whether there are systems and processes—
+**5.**[^c-a655e45e35ae71a3e35b55afd7826c48] Whether there are systems and processes—
 
 - (a) for the fair and transparent recruitment, appointment, resignation and removal of trustees;
 - (b) for determining and recording that persons involved in the scheme in the capacities listed in section 7(2) and (3) of the Act (fit and proper persons requirements) are, and remain, fit and proper;
@@ -1150,7 +1150,7 @@ Regulation 10
 
 ### Contracts and service providers
 
-**6.**[^key-771f7fbeba2cb5de479038e9bb141f9b] Whether there are systems and processes—
+**6.**[^c-771f7fbeba2cb5de479038e9bb141f9b] Whether there are systems and processes—
 
 - (a) for ensuring that trustees and the scheme strategist are properly informed about service providers, and appropriately involved in decisions about them;
 - (b) for establishing and recording that service providers are, and remain, fit and proper;
@@ -1164,7 +1164,7 @@ Regulation 10
 
 ### Risk management
 
-**7.**[^key-79be1d36dd1214bf77280af91998a5ad] Whether there are systems and processes—
+**7.**[^c-79be1d36dd1214bf77280af91998a5ad] Whether there are systems and processes—
 
 - (a) for identifying, managing and monitoring operational, financial, regulatory and compliance risks;
 - (b) for recording and documenting risks in an appropriate and durable format;
@@ -1173,7 +1173,7 @@ Regulation 10
 
 ### Security
 
-**8.**[^key-c62aca170aed500bfaa77a6dff449759] Whether there are systems and processes—
+**8.**[^c-c62aca170aed500bfaa77a6dff449759] Whether there are systems and processes—
 
 - (a) for preventing unauthorised access to sensitive records and infrastructure, including those containing member information, financial details or investment information;
 - (b) for monitoring and recording electronic and physical access to sensitive records and infrastructure;
@@ -1181,7 +1181,7 @@ Regulation 10
 
 ### Resource planning
 
-**9.**[^key-3a16c54f1e5d940a1856294f63751c83] Whether there are systems and processes for ensuring that there are sufficient human resources with the skills, qualifications and capacity necessary to comply with the requirements of Part 1 of the Act and, in particular—
+**9.**[^c-3a16c54f1e5d940a1856294f63751c83] Whether there are systems and processes for ensuring that there are sufficient human resources with the skills, qualifications and capacity necessary to comply with the requirements of Part 1 of the Act and, in particular—
 
 - (a) to run and maintain the scheme’s systems and processes,
 - (b) to meet the objectives in the scheme’s business plan, and
@@ -1189,7 +1189,7 @@ Regulation 10
 
 ### Investments
 
-**10.**[^key-7f946d107c4ad6ea25307b8d9e2d9a43] Whether there are systems and processes—
+**10.**[^c-7f946d107c4ad6ea25307b8d9e2d9a43] Whether there are systems and processes—
 
 - (a) for investing contributions in a timely manner in accordance with members’ instructions or, in the absence of instructions, with the scheme’s default investment policy;
 - (b) for recording investment decisions and the associated instructions from members, or confirmation that a decision has been made without instructions;
@@ -1200,7 +1200,7 @@ Regulation 10
 
 ### Member communication
 
-**11.**[^key-f568bc01d91f194173498fe2642bad59] Whether there are systems and processes—
+**11.**[^c-f568bc01d91f194173498fe2642bad59] Whether there are systems and processes—
 
 - (a) for facilitating members’ engagement with the scheme;
 - (b) for bringing members’ views to the attention of the trustees;
@@ -1212,7 +1212,7 @@ Regulation 20
 
 ### Interpretation
 
-**1.**[^key-0e7a569ff948e1f11a43eb0128249df6] (1) In this Schedule—
+**1.**[^c-0e7a569ff948e1f11a43eb0128249df6] (1) In this Schedule—
 
 - “applicable scheme” means whichever of the employer default scheme or the trustee default scheme was included in the notice sent to members under paragraph 6;
 - “employer default scheme” means the alternative scheme nominated by an employer in accordance with paragraph 5(1)(b);
@@ -1238,7 +1238,7 @@ Regulation 20
 
 ### Calculation of cash equivalent
 
-**2.**[^key-da621430b420004a0d86024d12a7646a] (1) In this Schedule, a “cash equivalent” of any rights and benefits to which a member is entitled is the realisable value of those rights and benefits.
+**2.**[^c-da621430b420004a0d86024d12a7646a] (1) In this Schedule, a “cash equivalent” of any rights and benefits to which a member is entitled is the realisable value of those rights and benefits.
 
 (2) A cash equivalent must be calculated—
 
@@ -1251,7 +1251,7 @@ Regulation 20
 
 ### Trustees’ powers
 
-**3.**[^key-5ff0a89462af621581ca7dab29c9ce5e] (1) The trustees of a scheme that is pursuing continuity option 1 may, without members’ consent, provide—
+**3.**[^c-5ff0a89462af621581ca7dab29c9ce5e] (1) The trustees of a scheme that is pursuing continuity option 1 may, without members’ consent, provide—
 
 - (a) for either—
   - (i) a member’s accrued rights and benefits (including any transfer credits allowed under the scheme) to be transferred, or
@@ -1268,7 +1268,7 @@ Regulation 20
 
 ### Trustees’ first notice to employers and members
 
-**4.**[^key-90569b0142b967e8cdf939703a0ba1a8] (1) When the trustees have identified the trustee default scheme, they must send a notice to each participating employer, each member and the trustees of the trustee default scheme.
+**4.**[^c-90569b0142b967e8cdf939703a0ba1a8] (1) When the trustees have identified the trustee default scheme, they must send a notice to each participating employer, each member and the trustees of the trustee default scheme.
 
 (2) A notice under this paragraph must be sent within 14 days beginning with—
 
@@ -1298,7 +1298,7 @@ Regulation 20
 
 ### Employer’s response to trustees
 
-**5.**[^key-acdb3710fb849e5a71372efd99316e64] (1) Each employer which receives a notice under paragraph 4 must give notice to the trustees of whether—
+**5.**[^c-acdb3710fb849e5a71372efd99316e64] (1) Each employer which receives a notice under paragraph 4 must give notice to the trustees of whether—
 
 - (a) it accepts the choice of trustee default scheme in relation to members then employed by it, or
 - (b) it opts to nominate an alternative scheme (the trustees of which are able and willing to accept the transfer) as the employer default scheme for those members, in which case it must state the name of that scheme and inform the trustees of that scheme that it has been so nominated.
@@ -1311,7 +1311,7 @@ Regulation 20
 
 ### Trustees’ second notice to members
 
-**6.**[^key-47a049596f10deef1aead8a82ce0f767] (1) After the period allowed for employers to send notice to the trustees under paragraph 5, the trustees must send a second notice to each member of the transferring scheme.
+**6.**[^c-47a049596f10deef1aead8a82ce0f767] (1) After the period allowed for employers to send notice to the trustees under paragraph 5, the trustees must send a second notice to each member of the transferring scheme.
 
 (2) A notice under this paragraph must be sent within three months beginning with the day on which the trustees sent notice to members and employers under paragraph 4.
 
@@ -1342,7 +1342,7 @@ Regulation 20
 
 ### Member’s response to trustees
 
-**7.**[^key-7101d5be0c643e5abdb083792bb2d69a] (1) A member who has received notice from the trustees under paragraph 6 may give notice to the trustees requiring them—
+**7.**[^c-7101d5be0c643e5abdb083792bb2d69a] (1) A member who has received notice from the trustees under paragraph 6 may give notice to the trustees requiring them—
 
 - (a) to transfer the member’s accrued rights and benefits in the transferring scheme to—
   - (i) the applicable scheme, or
@@ -1361,7 +1361,7 @@ Regulation 20
 
 ### Trustees’ duty to transfer
 
-**8.**[^key-9ce1f052dbda9e9d9be5908d421e119b] (1) If the trustees receive notice from a member in accordance with paragraph 7, they must—
+**8.**[^c-9ce1f052dbda9e9d9be5908d421e119b] (1) If the trustees receive notice from a member in accordance with paragraph 7, they must—
 
 - (a) arrange for the member’s accrued rights and benefits to be transferred, or the member’s cash equivalent applied, as specified in the notice;
 - (b) notify the member of the value of the cash equivalent of his or her accrued rights if the member is not yet receiving benefits under the transferring scheme; and
@@ -1373,11 +1373,11 @@ Regulation 20
 
 ### Notice of expected transfer date
 
-**9.**[^key-ab619e4ff0f5e0cc3cd8acc758217ede] Not less than one month before the expected transfer date, the trustees must notify each participating employer of the expected transfer date.
+**9.**[^c-ab619e4ff0f5e0cc3cd8acc758217ede] Not less than one month before the expected transfer date, the trustees must notify each participating employer of the expected transfer date.
 
 ### Transfer requirements: choice of arrangements
 
-**10.**[^key-d81499c3314e05b0b6616e8225cce2b1] (1) The trustees of the applicable scheme must, as soon as reasonably practicable, contact each member whose accrued rights or benefits are to be transferred to that scheme and must invite them to select an arrangement of the applicable scheme into which those rights or benefits are to be transferred.
+**10.**[^c-d81499c3314e05b0b6616e8225cce2b1] (1) The trustees of the applicable scheme must, as soon as reasonably practicable, contact each member whose accrued rights or benefits are to be transferred to that scheme and must invite them to select an arrangement of the applicable scheme into which those rights or benefits are to be transferred.
 
 (2) The accrued rights of members who do not respond to the applicable scheme within eight weeks after the date on which they received the invitation referred to in sub-paragraph (1) must remain in an arrangement which—
 
@@ -1386,14 +1386,14 @@ Regulation 20
 
 ### Requirements to be met by default schemes
 
-**11.**[^key-a26949a8572f6dd7cc7c6d4d6b9048fa] The trustee default scheme and any employer default scheme must each be—
+**11.**[^c-a26949a8572f6dd7cc7c6d4d6b9048fa] The trustee default scheme and any employer default scheme must each be—
 
 - (a) a Master Trust scheme authorised under the Act, and
 - (b) an automatic enrolment scheme in relation to the members being transferred, as defined in section 17 of the Pensions Act 2008[^f00073] (automatic enrolment schemes), or a scheme which would be an automatic enrolment scheme if the members being transferred were jobholders as defined in section 16(1) of that Act.
 
 ### Trustees’ power to transfer otherwise than to a scheme
 
-**12.**[^key-03b2b3dbde82f3b009d459b1892da8c4] (1) Where the trustees cannot identify a scheme which they consider appropriate for use as a default scheme in respect of a member of the transferring scheme, the trustees may make arrangements to transfer that member’s accrued rights and benefits to a vehicle which will secure suitable benefits for the member that are comparable to those in the transferring scheme.
+**12.**[^c-03b2b3dbde82f3b009d459b1892da8c4] (1) Where the trustees cannot identify a scheme which they consider appropriate for use as a default scheme in respect of a member of the transferring scheme, the trustees may make arrangements to transfer that member’s accrued rights and benefits to a vehicle which will secure suitable benefits for the member that are comparable to those in the transferring scheme.
 
 (2) Before making arrangements under sub-paragraph (1), the trustees must notify the members to whom the arrangements relate of their intention to do so.
 
@@ -1403,7 +1403,7 @@ Regulation 20
 
 ### Administration charges
 
-**13.**[^key-cc78745e3f956d959ecb58c7dc093051] (1) For the purposes of section 24(5)(i) of the Act (continuity option 1: transfer out and winding up), the trustees of an applicable scheme must provide to the Regulator a document setting out the administration charges in accordance with the following provisions.
+**13.**[^c-cc78745e3f956d959ecb58c7dc093051] (1) For the purposes of section 24(5)(i) of the Act (continuity option 1: transfer out and winding up), the trustees of an applicable scheme must provide to the Regulator a document setting out the administration charges in accordance with the following provisions.
 
 (2) The document must be provided within 28 days beginning with—
 
@@ -1431,14 +1431,14 @@ Regulation 20
 
 ### Future contributions
 
-**14.**[^key-601fe39392333be4a425026f23f28010] The trustees of a scheme that is pursuing continuity option 1 may—
+**14.**[^c-601fe39392333be4a425026f23f28010] The trustees of a scheme that is pursuing continuity option 1 may—
 
 - (a) arrange for the future contributions of employers and active members to be paid to the trustee default scheme from a date to be decided by the trustees, and
 - (b) arrange for any contributions received from employers and active members after the date referred to in sub-paragraph (a) to be forwarded to the trustees of the applicable scheme.
 
 ### Cessation of accruals
 
-**15.**[^key-4d1fbbe9a9348f0550ceb1144e2dc4bc] (1) On the transfer date, the trustees of the transferring scheme are discharged from any obligation to receive contributions from members or maintain arrangements for the accrual of rights to benefits in respect of them.
+**15.**[^c-4d1fbbe9a9348f0550ceb1144e2dc4bc] (1) On the transfer date, the trustees of the transferring scheme are discharged from any obligation to receive contributions from members or maintain arrangements for the accrual of rights to benefits in respect of them.
 
 (2) When the accrued rights and benefits of members of the transferring scheme have been transferred to a receiving scheme, the trustees of the transferring scheme are discharged from any obligation to provide benefits to those members.
 
@@ -1446,15 +1446,15 @@ Regulation 20
 
 ### Winding up
 
-**16.**[^key-b87a60f3fe1ce41a28489e623257caff] The Regulator may direct the trustees of the transferring scheme to wind up the scheme where continuity option 1 is being pursued.
+**16.**[^c-b87a60f3fe1ce41a28489e623257caff] The Regulator may direct the trustees of the transferring scheme to wind up the scheme where continuity option 1 is being pursued.
 
 ### Regulator’s power to direct
 
-**17.**[^key-860729ca2dd8a4773e1403a376ad8ceb] The trustees of a Master Trust scheme must comply with a direction issued by the Regulator requiring them to do anything permitted or required by this Schedule.
+**17.**[^c-860729ca2dd8a4773e1403a376ad8ceb] The trustees of a Master Trust scheme must comply with a direction issued by the Regulator requiring them to do anything permitted or required by this Schedule.
 
 ### Civil penalties
 
-**18.**[^key-9c5ee7e0c6ec0a119e33c94d27abead2] Section 10 of the 1995 Act (civil penalties) applies to a person who fails to comply with a requirement imposed by this Schedule, including where the requirement is contained in a direction made under it.
+**18.**[^c-9c5ee7e0c6ec0a119e33c94d27abead2] Section 10 of the 1995 Act (civil penalties) applies to a person who fails to comply with a requirement imposed by this Schedule, including where the requirement is contained in a direction made under it.
 
 EXPLANATORY NOTE
 
@@ -1530,9 +1530,9 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00002]: Footnote: Regulations made under sections 1(3), 7(4), 8(4), 9(2), 10(4), 11(2), 12(5) and (6), 16(3), 24(2)(b) and (4), 38(2) (to the extent that they contain provision mentioned in subsection (3)(a)), 39(5) and 40(1) and (2) of the Act are stated to be subject to affirmative resolution procedure.
 
-[^key-aa14dda327c4fda9472b184e1997f216]: Commencement: Reg. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-aa14dda327c4fda9472b184e1997f216]: Commencement: Reg. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-6b7e66101c8256c08f91379b472b6c79]: Commencement: Reg. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-6b7e66101c8256c08f91379b472b6c79]: Commencement: Reg. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00003]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
@@ -1552,17 +1552,17 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00011]: Footnote: [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246).
 
-[^key-6eca82b6fae1048b866b30fea8c25e16]: Commencement: Reg. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-6eca82b6fae1048b866b30fea8c25e16]: Commencement: Reg. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00012]: Footnote: There are further provisions about relevant transfers in regulation 3 of the TUPE Regulations, which was amended by [S.I. 2014/16](https://www.legislation.gov.uk/uksi/2014/16).
 
-[^key-36dbdf11c969b12105e2bdce7a99adc1]: Commencement: Reg. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-36dbdf11c969b12105e2bdce7a99adc1]: Commencement: Reg. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00013]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50); section 112(1) was amended by the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), section 97(2) and Schedule 8, Part 8, the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), section 80(1), and [S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006).
 
-[^key-e1daafba3b4c7cd6a192cd0bd9ff8948]: Textual amendment: Words in [reg. 4(2)(a)(v)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/4/2/a/v) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/5/2/a)
+[^c-e1daafba3b4c7cd6a192cd0bd9ff8948]: Textual amendment: Words in [reg. 4(2)(a)(v)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/4/2/a/v) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/5/2/a)
 
-[^key-0a9899f894c8979b0d3f499ded6bf0db]: Textual amendment: Words in [reg. 4(2)(a)(v)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/4/2/a/v) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/5/2/b)
+[^c-0a9899f894c8979b0d3f499ded6bf0db]: Textual amendment: Words in [reg. 4(2)(a)(v)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/4/2/a/v) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/5/2/b)
 
 [^f00014]: Footnote: Regulation 23 was inserted by [S.I. 2015/879](https://www.legislation.gov.uk/uksi/2015/879) and amended by [S.I. 2016/427](https://www.legislation.gov.uk/uksi/2016/427).
 
@@ -1570,29 +1570,29 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00016]: Footnote: [S.I. 2005/3378](https://www.legislation.gov.uk/uksi/2005/3378).
 
-[^key-23aa2def8233d5f67851a770a5bada94]: Commencement: Reg. 5 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-23aa2def8233d5f67851a770a5bada94]: Commencement: Reg. 5 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-c0045d17aefd808257cf5305cbca9149]: Commencement: Reg. 6 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-c0045d17aefd808257cf5305cbca9149]: Commencement: Reg. 6 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-417f14eb4ea39d2a4ada79b9255dd974]: Commencement: Reg. 7 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-417f14eb4ea39d2a4ada79b9255dd974]: Commencement: Reg. 7 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-99c44e0ea10daca46970f667adaa8477]: Commencement: Reg. 8 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-99c44e0ea10daca46970f667adaa8477]: Commencement: Reg. 8 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00017]: Footnote: [2008 c. 30](https://www.legislation.gov.uk/ukpga/2008/30).
 
-[^key-ac438715b6f902c64d7d9e73d25e804a]: Commencement: Reg. 9 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-ac438715b6f902c64d7d9e73d25e804a]: Commencement: Reg. 9 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00018]: Footnote: Section 49(8A) was inserted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and amended by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), Schedule 18, Part 2, paragraph 82(1) and (2) and by [S.I. 2007/3014](https://www.legislation.gov.uk/uksi/2007/3014).
 
 [^f00019]: Footnote: [S.I. 2008/569](https://www.legislation.gov.uk/uksi/2008/569); regulation 4 was amended by [S.I. 2013/2005](https://www.legislation.gov.uk/uksi/2013/2005) and regulation 9 was amended by [S.I. 2016/649](https://www.legislation.gov.uk/uksi/2016/649).
 
-[^key-ac7b37976d21beb3c8de75944a337b53]: Commencement: Reg. 10 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-ac7b37976d21beb3c8de75944a337b53]: Commencement: Reg. 10 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-e498d6cfa20f9beadea4afb0c4fa0aaa]: Commencement: Reg. 11 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-e498d6cfa20f9beadea4afb0c4fa0aaa]: Commencement: Reg. 11 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-5b504245ecdde651f64947d543047211]: Commencement: Reg. 12 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-5b504245ecdde651f64947d543047211]: Commencement: Reg. 12 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-3e6b6826e215cb0e87006f0f29048a56]: Commencement: Reg. 13 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-3e6b6826e215cb0e87006f0f29048a56]: Commencement: Reg. 13 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00020]: Footnote: Section 248(8) was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
@@ -1600,71 +1600,71 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00022]: Footnote: Section 399 was amended by [S.I. 2015/980](https://www.legislation.gov.uk/uksi/2015/980) and [2016/1245](https://www.legislation.gov.uk/uksi/2016/1245).
 
-[^key-024d1043faf454d3b265371826fc46dc]: Commencement: Reg. 14 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-024d1043faf454d3b265371826fc46dc]: Commencement: Reg. 14 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00023]: Footnote: “Statement of investment principles” is defined in section 35(2) of the 1995 Act; section 35 was substituted by the 2004 Act, section 244.
 
-[^key-35be655e03c3365deea91330e502b3ac]: Commencement: Reg. 15 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-35be655e03c3365deea91330e502b3ac]: Commencement: Reg. 15 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-5dd1d6fb562c705890e805463b9cc767]: Commencement: Reg. 16 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-5dd1d6fb562c705890e805463b9cc767]: Commencement: Reg. 16 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-b85caf84e4ae4d7e0de205a08251efb8]: Commencement: Reg. 17 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-b85caf84e4ae4d7e0de205a08251efb8]: Commencement: Reg. 17 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00024]: Footnote: Item 2A of the table is substituted for item 2 by paragraph 10(c) of Schedule 2 to the Act in respect of Master Trust schemes in operation before the commencement date.
 
-[^key-a41aa6fd82979252a7b2ae2071ff7fc4]: Commencement: Reg. 18 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-a41aa6fd82979252a7b2ae2071ff7fc4]: Commencement: Reg. 18 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-4967bcbea9af8f134b5178bd06d94b33]: Commencement: Reg. 19 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-4967bcbea9af8f134b5178bd06d94b33]: Commencement: Reg. 19 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-c812b35d02223edf00c22e00fc172409]: Commencement: Reg. 20 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-c812b35d02223edf00c22e00fc172409]: Commencement: Reg. 20 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-ecb6388f89a8eef31972b3991f4bea76]: Commencement: Reg. 21 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-ecb6388f89a8eef31972b3991f4bea76]: Commencement: Reg. 21 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-78bd4f62700c3b897b1b74fb7854104f]: Commencement: Reg. 22 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-78bd4f62700c3b897b1b74fb7854104f]: Commencement: Reg. 22 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00025]: Footnote: Section 23 was substituted by section 36(3) of the 2004 Act.
 
-[^key-23d63f176e4ac060f763e718e3b1b967]: Commencement: Reg. 23(1)(2)(a)(b)(iii)(c) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-23d63f176e4ac060f763e718e3b1b967]: Commencement: Reg. 23(1)(2)(a)(b)(iii)(c) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-d6bbec2b09175d06defb80893cd0c327]: Commencement: [Reg. 23(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/b/ii) in force at 1.4.2019, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/3)
+[^c-d6bbec2b09175d06defb80893cd0c327]: Commencement: [Reg. 23(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/b/ii) in force at 1.4.2019, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/3)
 
 [^f00026]: Footnote: [S.I. 2005/2184](https://www.legislation.gov.uk/uksi/2005/2184).
 
 [^f00027]: Footnote: Regulation 2(1)(ka) was inserted, and regulation 2(2) amended, by article 2 of the National Employment Savings Trust (Consequential Provisions) Order 2010 ([S.I. 2010/9](https://www.legislation.gov.uk/uksi/2010/9)).
 
-[^key-be06272d81af7ae66ac20bcc4d106f00]: Textual amendment: [Reg. 23(2)(c)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/c) omitted (1.4.2022) by virtue of [The Occupational Pension Schemes (Fraud Compensation Levy) (Amendment) Regulations 2022 (S.I. 2022/259)](https://www.legislation.gov.uk/uksi/2022/259), [regs. 1](https://www.legislation.gov.uk/uksi/2022/259/regulation/1), [4](https://www.legislation.gov.uk/uksi/2022/259/regulation/4)
+[^c-be06272d81af7ae66ac20bcc4d106f00]: Textual amendment: [Reg. 23(2)(c)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/c) omitted (1.4.2022) by virtue of [The Occupational Pension Schemes (Fraud Compensation Levy) (Amendment) Regulations 2022 (S.I. 2022/259)](https://www.legislation.gov.uk/uksi/2022/259), [regs. 1](https://www.legislation.gov.uk/uksi/2022/259/regulation/1), [4](https://www.legislation.gov.uk/uksi/2022/259/regulation/4)
 
-[^key-69c6d12779c47b0f46bb8e867aa9b166]: Commencement: Reg. 24 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-69c6d12779c47b0f46bb8e867aa9b166]: Commencement: Reg. 24 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00030]: Footnote: Section 99(2) was substituted by the Pension Schemes Act [2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), Schedule 4, Part 1, paragraph 13.
 
 [^f00031]: Footnote: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847). Regulation 13(1) was amended by [S.I. 2016/200](https://www.legislation.gov.uk/uksi/2016/200), and sub-paragraph (ba) was inserted by [S.I. 2005/686](https://www.legislation.gov.uk/uksi/2005/686); there are other amending instruments but none is relevant.
 
-[^key-ebf3a3f990b75e23d0ce18c5448feb60]: Commencement: Reg. 25 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-ebf3a3f990b75e23d0ce18c5448feb60]: Commencement: Reg. 25 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-a37ee88a6d9b5d5e35eca762b4eb09e8]: Textual amendment: [Reg. 25(1)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/25/1): reg. 25 renumbered as reg. 25(1) (5.4.2022 immediately after regulation 10(1) of the Pension Schemes Act 2021 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2021 (saving provision in respect of the definition of "administration charge") ceases to have effect) by [The Occupational Pension Schemes (Master Trusts) (Amendment) Regulations 2022 (S.I. 2022/277)](https://www.legislation.gov.uk/uksi/2022/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/277/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/277/regulation/2/2)
+[^c-a37ee88a6d9b5d5e35eca762b4eb09e8]: Textual amendment: [Reg. 25(1)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/25/1): reg. 25 renumbered as reg. 25(1) (5.4.2022 immediately after regulation 10(1) of the Pension Schemes Act 2021 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2021 (saving provision in respect of the definition of "administration charge") ceases to have effect) by [The Occupational Pension Schemes (Master Trusts) (Amendment) Regulations 2022 (S.I. 2022/277)](https://www.legislation.gov.uk/uksi/2022/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/277/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/277/regulation/2/2)
 
 [^f00032]: Footnote: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30); section 24 was amended by section 263(10)(b) of, and paragraph 158(2) of Schedule 27 and Schedule 30 to, the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), and by article 2(2) of [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175).
 
-[^key-a97434c748b7c77fc1e910c5f694452b]: Textual amendment: [Reg. 25(1)(e) and semi-colon](https://www.legislation.gov.uk/uksi/2018/1030/regulation/25/1/e) substituted for full-stop (5.4.2022 immediately after regulation 10(1) of the Pension Schemes Act 2021 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2021 (saving provision in respect of the definition of "administration charge") ceases to have effect) by [The Occupational Pension Schemes (Master Trusts) (Amendment) Regulations 2022 (S.I. 2022/277)](https://www.legislation.gov.uk/uksi/2022/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/277/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/277/regulation/2/3)
+[^c-a97434c748b7c77fc1e910c5f694452b]: Textual amendment: [Reg. 25(1)(e) and semi-colon](https://www.legislation.gov.uk/uksi/2018/1030/regulation/25/1/e) substituted for full-stop (5.4.2022 immediately after regulation 10(1) of the Pension Schemes Act 2021 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2021 (saving provision in respect of the definition of "administration charge") ceases to have effect) by [The Occupational Pension Schemes (Master Trusts) (Amendment) Regulations 2022 (S.I. 2022/277)](https://www.legislation.gov.uk/uksi/2022/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/277/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/277/regulation/2/3)
 
-[^key-681a43e33a15143f3a2bc3920cb83d93]: Textual amendment: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/25/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/25/3) inserted (5.4.2022 immediately after regulation 10(1) of the Pension Schemes Act 2021 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2021 (saving provision in respect of the definition of "administration charge") ceases to have effect) by [The Occupational Pension Schemes (Master Trusts) (Amendment) Regulations 2022 (S.I. 2022/277)](https://www.legislation.gov.uk/uksi/2022/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/277/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/277/regulation/2/4)
+[^c-681a43e33a15143f3a2bc3920cb83d93]: Textual amendment: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/25/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/25/3) inserted (5.4.2022 immediately after regulation 10(1) of the Pension Schemes Act 2021 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2021 (saving provision in respect of the definition of "administration charge") ceases to have effect) by [The Occupational Pension Schemes (Master Trusts) (Amendment) Regulations 2022 (S.I. 2022/277)](https://www.legislation.gov.uk/uksi/2022/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/277/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/277/regulation/2/4)
 
-[^key-ca259be87feb3658df3ad6798f55fcf3]: Commencement: Reg. 26 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-ca259be87feb3658df3ad6798f55fcf3]: Commencement: Reg. 26 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-db4fa46e06e8f263b90af4f1ceffb4cd]: Commencement: Reg. 27 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-db4fa46e06e8f263b90af4f1ceffb4cd]: Commencement: Reg. 27 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00033]: Footnote: Regulation 1(2ZB) was inserted by [S.I. 2015/879](https://www.legislation.gov.uk/uksi/2015/879).
 
-[^key-611e51a8daf43d160f19733ff298733e]: Commencement: Reg. 28 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-611e51a8daf43d160f19733ff298733e]: Commencement: Reg. 28 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00034]: Footnote: Section 23 was substituted by the 2004 Act, section 36(3).
 
-[^key-a70f9bfaaab7bfde9ad2c4f7158fdfb3]: Commencement: Reg. 29 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-a70f9bfaaab7bfde9ad2c4f7158fdfb3]: Commencement: Reg. 29 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00035]: Footnote: Section 7 was amended by the 2004 Act, section 35(1), Schedule 12, paragraph 36, and Schedule 13, paragraph 1; the Pensions Act [2014 (c. 19](https://www.legislation.gov.uk/ukpga/2014/19)), Schedule 19, paragraph 3; and the Pensions Act [2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), section 131(1).
 
-[^key-6cbad0a67ab9aca4f6ca23d4ddfce223]: Commencement: Reg. 30 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-6cbad0a67ab9aca4f6ca23d4ddfce223]: Commencement: Reg. 30 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00036]: Footnote: Subsections (1) and (2) were amended by [S.I. 2007/2932](https://www.legislation.gov.uk/uksi/2007/2932) and [2015/980](https://www.legislation.gov.uk/uksi/2015/980); subsection (2) was also amended by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), Schedule 18, paragraph 111, and [S.I. 2013/2005](https://www.legislation.gov.uk/uksi/2013/2005).
 
@@ -1674,7 +1674,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00039]: Footnote: Section 479B was inserted by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301) and amended by [S.I. 2015/980](https://www.legislation.gov.uk/uksi/2015/980).
 
-[^key-d44ca8f1ba1c1713e843a9c5efd691c7]: Commencement: Reg. 31 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-d44ca8f1ba1c1713e843a9c5efd691c7]: Commencement: Reg. 31 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00040]: Footnote: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911).
 
@@ -1686,11 +1686,11 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00044]: Footnote: Section 479B, as modified by regulation 34A, was amended by [S.I. 2016/575](https://www.legislation.gov.uk/uksi/2016/575).
 
-[^key-50c1328ec72112c35f3c633dca567978]: Commencement: Reg. 32 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-50c1328ec72112c35f3c633dca567978]: Commencement: Reg. 32 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00045]: Footnote: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801).
 
-[^key-be0bc7af49e3e4fae55af85822ee1225]: Commencement: Sch. 1 para. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-be0bc7af49e3e4fae55af85822ee1225]: Commencement: Sch. 1 para. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00046]: Footnote: Section 263H was inserted by the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), Schedule 18.
 
@@ -1720,11 +1720,11 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00059]: Footnote: Article 29 was amended by [S.I. 2002/3150 (N.I. 1)](https://www.legislation.gov.uk/nisi/2002/3150) and [S.R. 2008/94](https://www.legislation.gov.uk/nisr/2008/94) and [2016/108](https://www.legislation.gov.uk/nisr/2016/108).
 
-[^key-c5b46564720281c6d256da8e7e7c2ab4]: Commencement: Sch. 1 para. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-c5b46564720281c6d256da8e7e7c2ab4]: Commencement: Sch. 1 para. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-f89e56c11be1e87b524697740c1f58a8]: Commencement: Sch. 1 para. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-f89e56c11be1e87b524697740c1f58a8]: Commencement: Sch. 1 para. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-ece1bcbb3b227596f72693fe7d0c64e0]: Commencement: Sch. 1 para. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-ece1bcbb3b227596f72693fe7d0c64e0]: Commencement: Sch. 1 para. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00060]: Footnote: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21).
 
@@ -1740,140 +1740,140 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00066]: Footnote: [S.R. 1991 No. 364](https://www.legislation.gov.uk/nisr/1991/364).
 
-[^key-03943cc144230b5bced021d976967dc9]: Commencement: Sch. 2 para. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-03943cc144230b5bced021d976967dc9]: Commencement: Sch. 2 para. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-65a6227b5dae8f9b30b89d429925bee4]: Commencement: Sch. 2 para. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-65a6227b5dae8f9b30b89d429925bee4]: Commencement: Sch. 2 para. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-53c5317d3c0b8b4ab2238ff668e3da9f]: Commencement: Sch. 2 para. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-53c5317d3c0b8b4ab2238ff668e3da9f]: Commencement: Sch. 2 para. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00067]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-d2f74db105ce7843ecf25ee4f47208d3]: Commencement: Sch. 2 para. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-d2f74db105ce7843ecf25ee4f47208d3]: Commencement: Sch. 2 para. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00068]: Footnote: Section 35 was substituted by section 244 of the 2004 Act.
 
-[^key-2dc52e4c21be9c169061d99cee2243cb]: Commencement: Sch. 2 para. 5 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-2dc52e4c21be9c169061d99cee2243cb]: Commencement: Sch. 2 para. 5 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00069]: Footnote: Section 49(8A) was inserted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and amended by paragraph 82(2) of Schedule 18 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and [S.I. 2007/3014](https://www.legislation.gov.uk/uksi/2007/3014).
 
-[^key-ca7189d2389d5d909da3040beb10810b]: Commencement: Sch. 2 para. 6 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-ca7189d2389d5d909da3040beb10810b]: Commencement: Sch. 2 para. 6 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-6141e63e5854a8d9e470dfaf62428ec2]: Commencement: Sch. 3 para. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-6141e63e5854a8d9e470dfaf62428ec2]: Commencement: Sch. 3 para. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-c33c5fc4dbc7e0fea55191e3cda57473]: Commencement: Sch. 3 para. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-c33c5fc4dbc7e0fea55191e3cda57473]: Commencement: Sch. 3 para. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-80b037282709b92d8fc908a50fddc571]: Commencement: Sch. 3 para. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-80b037282709b92d8fc908a50fddc571]: Commencement: Sch. 3 para. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-9a5fc624d95437fbe460de390db25baa]: Commencement: Sch. 3 para. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-9a5fc624d95437fbe460de390db25baa]: Commencement: Sch. 3 para. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-3cb687f9a3fabea4bc8f0e80baeae187]: Commencement: Sch. 3 para. 5 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-3cb687f9a3fabea4bc8f0e80baeae187]: Commencement: Sch. 3 para. 5 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-150d33d75577ec9f15fe0b0443cf6b6f]: Commencement: Sch. 3 para. 6 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-150d33d75577ec9f15fe0b0443cf6b6f]: Commencement: Sch. 3 para. 6 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-b2d55a2111f263e92d6e9a04d625c035]: Commencement: Sch. 3 para. 7 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-b2d55a2111f263e92d6e9a04d625c035]: Commencement: Sch. 3 para. 7 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-78b25db41df691e076e2cb62279073e2]: Commencement: Sch. 3 para. 8 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-78b25db41df691e076e2cb62279073e2]: Commencement: Sch. 3 para. 8 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-066d801cf229741d85ef5c2aabd4b473]: Commencement: Sch. 3 para. 9 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-066d801cf229741d85ef5c2aabd4b473]: Commencement: Sch. 3 para. 9 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-dfbeed9c24900fd4417dc31974fe906f]: Commencement: Sch. 3 para. 10 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-dfbeed9c24900fd4417dc31974fe906f]: Commencement: Sch. 3 para. 10 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-3f765ecb0e2e0f6fb49c9a53615a17c9]: Commencement: Sch. 3 para. 11 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-3f765ecb0e2e0f6fb49c9a53615a17c9]: Commencement: Sch. 3 para. 11 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-1c11eb516b31c4c79894279f6f0ef34a]: Commencement: Sch. 3 para. 12 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-1c11eb516b31c4c79894279f6f0ef34a]: Commencement: Sch. 3 para. 12 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-bccf7cdf4c156f9d1dc37b8c3cc4068e]: Commencement: Sch. 3 para. 13 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-bccf7cdf4c156f9d1dc37b8c3cc4068e]: Commencement: Sch. 3 para. 13 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-70a97d6cc867313e543e94aea6e6fa15]: Commencement: Sch. 3 para. 14 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-70a97d6cc867313e543e94aea6e6fa15]: Commencement: Sch. 3 para. 14 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-502dc1273a6df6dd5e87e6365cb69b61]: Commencement: Sch. 3 para. 15 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-502dc1273a6df6dd5e87e6365cb69b61]: Commencement: Sch. 3 para. 15 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-7d48bff1892fded2b6a390578793bde0]: Commencement: Sch. 3 para. 16 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-7d48bff1892fded2b6a390578793bde0]: Commencement: Sch. 3 para. 16 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-ed02aa37d7c204413313c3bb96c80dff]: Commencement: Sch. 3 para. 17 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-ed02aa37d7c204413313c3bb96c80dff]: Commencement: Sch. 3 para. 17 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-91fa27ee761bad4c09aae8403acb6066]: Commencement: Sch. 3 para. 18 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-91fa27ee761bad4c09aae8403acb6066]: Commencement: Sch. 3 para. 18 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-a68561a3400d5a09363124c52389515f]: Commencement: Sch. 3 para. 19 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-a68561a3400d5a09363124c52389515f]: Commencement: Sch. 3 para. 19 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-3504c78ca67e64cfb8e6048e62aeef2d]: Commencement: Sch. 3 para. 20 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-3504c78ca67e64cfb8e6048e62aeef2d]: Commencement: Sch. 3 para. 20 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-8a1dbdd94b79ddf35a3b93707a6558fe]: Commencement: Sch. 3 para. 21 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-8a1dbdd94b79ddf35a3b93707a6558fe]: Commencement: Sch. 3 para. 21 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-cb71caec4170040f354618cc2b00bfca]: Commencement: Sch. 3 para. 22 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-cb71caec4170040f354618cc2b00bfca]: Commencement: Sch. 3 para. 22 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-f60483f9160ae1a34c2d83c560a669a3]: Commencement: Sch. 3 para. 23 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-f60483f9160ae1a34c2d83c560a669a3]: Commencement: Sch. 3 para. 23 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-b22f6b94bd0a990c555802704462fc66]: Commencement: Sch. 3 para. 24 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-b22f6b94bd0a990c555802704462fc66]: Commencement: Sch. 3 para. 24 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-62a98f316c7287de851032b7fcf438cf]: Commencement: Sch. 3 para. 25 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-62a98f316c7287de851032b7fcf438cf]: Commencement: Sch. 3 para. 25 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-c49d83f171ac1668c4934a9d0e6b22db]: Commencement: Sch. 3 para. 26 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-c49d83f171ac1668c4934a9d0e6b22db]: Commencement: Sch. 3 para. 26 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-f904b8b6eb171281c73c36e0be703314]: Commencement: Sch. 3 para. 27 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-f904b8b6eb171281c73c36e0be703314]: Commencement: Sch. 3 para. 27 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-5d12f21c247ded2c07f563216e97a11a]: Commencement: Sch. 4 para. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-5d12f21c247ded2c07f563216e97a11a]: Commencement: Sch. 4 para. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00070]: Footnote: Regulation 24 was inserted by [S.I. 2015/879](https://www.legislation.gov.uk/uksi/2015/879).
 
-[^key-4674ca50345d90ed8f1a5e1eb9105ef2]: Commencement: Sch. 4 para. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-4674ca50345d90ed8f1a5e1eb9105ef2]: Commencement: Sch. 4 para. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-c6c4312aa86ada10c7f905bbd458ffc4]: Commencement: Sch. 4 para. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-c6c4312aa86ada10c7f905bbd458ffc4]: Commencement: Sch. 4 para. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-e0fba8a70a907949023f509703a79bfb]: Commencement: Sch. 4 para. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-e0fba8a70a907949023f509703a79bfb]: Commencement: Sch. 4 para. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-a655e45e35ae71a3e35b55afd7826c48]: Commencement: Sch. 4 para. 5 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-a655e45e35ae71a3e35b55afd7826c48]: Commencement: Sch. 4 para. 5 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-771f7fbeba2cb5de479038e9bb141f9b]: Commencement: Sch. 4 para. 6 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-771f7fbeba2cb5de479038e9bb141f9b]: Commencement: Sch. 4 para. 6 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-79be1d36dd1214bf77280af91998a5ad]: Commencement: Sch. 4 para. 7 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-79be1d36dd1214bf77280af91998a5ad]: Commencement: Sch. 4 para. 7 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-c62aca170aed500bfaa77a6dff449759]: Commencement: Sch. 4 para. 8 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-c62aca170aed500bfaa77a6dff449759]: Commencement: Sch. 4 para. 8 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-3a16c54f1e5d940a1856294f63751c83]: Commencement: Sch. 4 para. 9 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-3a16c54f1e5d940a1856294f63751c83]: Commencement: Sch. 4 para. 9 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-7f946d107c4ad6ea25307b8d9e2d9a43]: Commencement: Sch. 4 para. 10 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-7f946d107c4ad6ea25307b8d9e2d9a43]: Commencement: Sch. 4 para. 10 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-f568bc01d91f194173498fe2642bad59]: Commencement: Sch. 4 para. 11 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-f568bc01d91f194173498fe2642bad59]: Commencement: Sch. 4 para. 11 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-0e7a569ff948e1f11a43eb0128249df6]: Commencement: Sch. 5 para. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-0e7a569ff948e1f11a43eb0128249df6]: Commencement: Sch. 5 para. 1 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-da621430b420004a0d86024d12a7646a]: Commencement: Sch. 5 para. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-da621430b420004a0d86024d12a7646a]: Commencement: Sch. 5 para. 2 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-5ff0a89462af621581ca7dab29c9ce5e]: Commencement: Sch. 5 para. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-5ff0a89462af621581ca7dab29c9ce5e]: Commencement: Sch. 5 para. 3 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00071]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-90569b0142b967e8cdf939703a0ba1a8]: Commencement: Sch. 5 para. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-90569b0142b967e8cdf939703a0ba1a8]: Commencement: Sch. 5 para. 4 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-acdb3710fb849e5a71372efd99316e64]: Commencement: Sch. 5 para. 5 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-acdb3710fb849e5a71372efd99316e64]: Commencement: Sch. 5 para. 5 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-47a049596f10deef1aead8a82ce0f767]: Commencement: Sch. 5 para. 6 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-47a049596f10deef1aead8a82ce0f767]: Commencement: Sch. 5 para. 6 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-7101d5be0c643e5abdb083792bb2d69a]: Commencement: Sch. 5 para. 7 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-7101d5be0c643e5abdb083792bb2d69a]: Commencement: Sch. 5 para. 7 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00072]: Footnote: The Financial Conduct Authority is described in section 1A of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) (“FSMA”), substituted by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 6(1); Part 3 of FSMA contains provisions on authorisation.
 
-[^key-9ce1f052dbda9e9d9be5908d421e119b]: Commencement: Sch. 5 para. 8 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-9ce1f052dbda9e9d9be5908d421e119b]: Commencement: Sch. 5 para. 8 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-ab619e4ff0f5e0cc3cd8acc758217ede]: Commencement: Sch. 5 para. 9 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-ab619e4ff0f5e0cc3cd8acc758217ede]: Commencement: Sch. 5 para. 9 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-d81499c3314e05b0b6616e8225cce2b1]: Commencement: Sch. 5 para. 10 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-d81499c3314e05b0b6616e8225cce2b1]: Commencement: Sch. 5 para. 10 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-a26949a8572f6dd7cc7c6d4d6b9048fa]: Commencement: Sch. 5 para. 11 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-a26949a8572f6dd7cc7c6d4d6b9048fa]: Commencement: Sch. 5 para. 11 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
 [^f00073]: Footnote: [2008 c. 30](https://www.legislation.gov.uk/ukpga/2008/30).
 
-[^key-03b2b3dbde82f3b009d459b1892da8c4]: Commencement: Sch. 5 para. 12 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-03b2b3dbde82f3b009d459b1892da8c4]: Commencement: Sch. 5 para. 12 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-cc78745e3f956d959ecb58c7dc093051]: Commencement: Sch. 5 para. 13 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-cc78745e3f956d959ecb58c7dc093051]: Commencement: Sch. 5 para. 13 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-601fe39392333be4a425026f23f28010]: Commencement: Sch. 5 para. 14 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-601fe39392333be4a425026f23f28010]: Commencement: Sch. 5 para. 14 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-4d1fbbe9a9348f0550ceb1144e2dc4bc]: Commencement: Sch. 5 para. 15 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-4d1fbbe9a9348f0550ceb1144e2dc4bc]: Commencement: Sch. 5 para. 15 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-b87a60f3fe1ce41a28489e623257caff]: Commencement: Sch. 5 para. 16 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-b87a60f3fe1ce41a28489e623257caff]: Commencement: Sch. 5 para. 16 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-860729ca2dd8a4773e1403a376ad8ceb]: Commencement: Sch. 5 para. 17 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-860729ca2dd8a4773e1403a376ad8ceb]: Commencement: Sch. 5 para. 17 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
 
-[^key-9c5ee7e0c6ec0a119e33c94d27abead2]: Commencement: Sch. 5 para. 18 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)
+[^c-9c5ee7e0c6ec0a119e33c94d27abead2]: Commencement: Sch. 5 para. 18 in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2)

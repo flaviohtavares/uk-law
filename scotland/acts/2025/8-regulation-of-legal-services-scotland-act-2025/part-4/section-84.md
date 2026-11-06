@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Licensing rules: fees[^key-802c529f8440068ca8ef2dd5f7aafb73]
+## 84. Licensing rules: fees[^c-802c529f8440068ca8ef2dd5f7aafb73]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In section 14 (licensing rules: general) of the 2010 Act, after subsection (2) i
 
 ## Annotations
 
-[^key-802c529f8440068ca8ef2dd5f7aafb73]: Commencement: S. 84 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-802c529f8440068ca8ef2dd5f7aafb73]: Commencement: S. 84 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

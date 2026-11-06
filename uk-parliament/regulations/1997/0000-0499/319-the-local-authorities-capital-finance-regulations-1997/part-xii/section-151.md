@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 151. Relevant amount for financial year beginning 1st April 1997[^key-f0e7130849dd399f3291cf6c027e3cc1]
+## 151. Relevant amount for financial year beginning 1st April 1997[^c-f0e7130849dd399f3291cf6c027e3cc1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ The authority’s relevant amount for the financial year beginning on 1st April 
 
 ## Annotations
 
-[^key-f0e7130849dd399f3291cf6c027e3cc1]: Commencement: Reg. 151 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-f0e7130849dd399f3291cf6c027e3cc1]: Commencement: Reg. 151 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

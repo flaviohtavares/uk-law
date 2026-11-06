@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Alcoholic products regulations[^M_I_f611fadd-4382-499b-89ad-b6ac54368adb][^key-fe94682ffabf016c662046cd7eba33e6]
+## 88. Alcoholic products regulations[^M_I_f611fadd-4382-499b-89ad-b6ac54368adb][^c-fe94682ffabf016c662046cd7eba33e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 [^M_I_f611fadd-4382-499b-89ad-b6ac54368adb]: Commencement: S. 88 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-fe94682ffabf016c662046cd7eba33e6]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/30/section/88) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/c) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-fe94682ffabf016c662046cd7eba33e6]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/30/section/88) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/c) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

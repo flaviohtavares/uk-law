@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-Students Awards (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-790d17ece9411f7ca477ed11c2335a13]
+Students Awards (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-790d17ece9411f7ca477ed11c2335a13]
 
 Made
 
@@ -40,32 +40,32 @@ Coming into operation
 
 1st September 1998
 
-[^key-790d17ece9411f7ca477ed11c2335a13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-790d17ece9411f7ca477ed11c2335a13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-790d17ece9411f7ca477ed11c2335a13]
+## 1. Citation, commencement and interpretation[^c-790d17ece9411f7ca477ed11c2335a13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Students Awards Regulations (Northern Ireland) 1998[^key-790d17ece9411f7ca477ed11c2335a13]
+## 2. Amendment of the Students Awards Regulations (Northern Ireland) 1998[^c-790d17ece9411f7ca477ed11c2335a13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-790d17ece9411f7ca477ed11c2335a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-790d17ece9411f7ca477ed11c2335a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-790d17ece9411f7ca477ed11c2335a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-790d17ece9411f7ca477ed11c2335a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-790d17ece9411f7ca477ed11c2335a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-790d17ece9411f7ca477ed11c2335a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-790d17ece9411f7ca477ed11c2335a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-790d17ece9411f7ca477ed11c2335a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-790d17ece9411f7ca477ed11c2335a13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-790d17ece9411f7ca477ed11c2335a13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-790d17ece9411f7ca477ed11c2335a13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-790d17ece9411f7ca477ed11c2335a13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-790d17ece9411f7ca477ed11c2335a13]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/300) revoked (1.9.1999) by [Students Awards Regulations (Northern Ireland) 1999 (S.R. 1999/351)](https://www.legislation.gov.uk/nisr/1999/351), [regs. 1](https://www.legislation.gov.uk/nisr/1999/351/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/1999/351/regulation/2/1) (with [regs. 2(3)](https://www.legislation.gov.uk/nisr/1999/351/regulation/2/3), [19](https://www.legislation.gov.uk/nisr/1999/351/regulation/19))
+[^c-790d17ece9411f7ca477ed11c2335a13]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/300) revoked (1.9.1999) by [Students Awards Regulations (Northern Ireland) 1999 (S.R. 1999/351)](https://www.legislation.gov.uk/nisr/1999/351), [regs. 1](https://www.legislation.gov.uk/nisr/1999/351/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/1999/351/regulation/2/1) (with [regs. 2(3)](https://www.legislation.gov.uk/nisr/1999/351/regulation/2/3), [19](https://www.legislation.gov.uk/nisr/1999/351/regulation/19))

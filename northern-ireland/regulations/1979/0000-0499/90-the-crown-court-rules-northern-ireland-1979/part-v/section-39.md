@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Interpretation[^key-d93ebaa37d5eff05a8d50974a32298ba]
+## 39. Interpretation[^c-d93ebaa37d5eff05a8d50974a32298ba]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d93ebaa37d5eff05a8d50974a32298ba]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/nisr/1979/90/part/V) omitted (31.12.2020) by virtue of [The Crown Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/233)](https://www.legislation.gov.uk/nisr/2019/233), [rules 1](https://www.legislation.gov.uk/nisr/2019/233/rule/1), [2(2)](https://www.legislation.gov.uk/nisr/2019/233/rule/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d93ebaa37d5eff05a8d50974a32298ba]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/nisr/1979/90/part/V) omitted (31.12.2020) by virtue of [The Crown Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/233)](https://www.legislation.gov.uk/nisr/2019/233), [rules 1](https://www.legislation.gov.uk/nisr/2019/233/rule/1), [2(2)](https://www.legislation.gov.uk/nisr/2019/233/rule/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

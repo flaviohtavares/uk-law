@@ -50,7 +50,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 ### GENERAL
 
-#### 1. Citation, commencement and interpretation[^key-7ec7629dc586ffc472d8eeefcf24d082]
+#### 1. Citation, commencement and interpretation[^c-7ec7629dc586ffc472d8eeefcf24d082]
 
 (1) These Regulations may be cited as the Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 and come into operation immediately after the coming into operation of the Universal Credit Regulations (Northern Ireland) 2016[^f00007].
 
@@ -58,11 +58,11 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 ## PART 2 — AMENDMENTS OF ENABLING LEGISLATION
 
-### 2. Amendment of the Maintenance Orders Act[^key-c4ca7fc5f447c473cd73b3b01bd9c229]
+### 2. Amendment of the Maintenance Orders Act[^c-c4ca7fc5f447c473cd73b3b01bd9c229]
 
 In section 12(1)(d) of the Maintenance Orders Act 1950[^f00009] (contributions under enactments relating to children, national assistance and welfare services) after “income support” insert “or universal credit”.
 
-### 3. Amendment of the Employment (Miscellaneous Provisions) Order[^key-d1812ae19933eb1d58ddf97d5423658b]
+### 3. Amendment of the Employment (Miscellaneous Provisions) Order[^c-d1812ae19933eb1d58ddf97d5423658b]
 
 In Article 10(4) of the Employment (Miscellaneous Provisions) (Northern Ireland) Order 1990 (power to exempt discrimination in favour of lone parents in connection with training)[^f00010]—
 
@@ -79,7 +79,7 @@ In Article 10(4) of the Employment (Miscellaneous Provisions) (Northern Ireland)
 
   .
 
-### 4. Amendment of the Social Security Contributions and Benefits Act[^key-68dcb5bacde604f5ce7cd62f752eefb8]
+### 4. Amendment of the Social Security Contributions and Benefits Act[^c-68dcb5bacde604f5ce7cd62f752eefb8]
 
 (1) Section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (carer’s allowance)[^f00011] is amended in accordance with paragraphs (2) and (3).
 
@@ -97,7 +97,7 @@ In Article 10(4) of the Employment (Miscellaneous Provisions) (Northern Ireland)
 
 .
 
-### 5. Amendment of the Value Added Tax Act[^key-c8eff79fb5c09be9dedd7d84cbd3a598]
+### 5. Amendment of the Value Added Tax Act[^c-c8eff79fb5c09be9dedd7d84cbd3a598]
 
 (1) The Value Added Tax Act 1994[^f00013] is amended in accordance with paragraphs (2) and (3).
 
@@ -105,11 +105,11 @@ In Article 10(4) of the Employment (Miscellaneous Provisions) (Northern Ireland)
 
 (3) In Note (1D) to Group 15 in Part 2 of Schedule 8 (zero-rating) in paragraph (g) after “Welfare Reform Act 2012” insert “or Part 2 of the Welfare Reform (Northern Ireland) Order 2015”.
 
-### 6. Amendment of the Children Order[^key-e2c652087a3de822febadcf9fa5bfe44]
+### 6. Amendment of the Children Order[^c-e2c652087a3de822febadcf9fa5bfe44]
 
 In Article 24(3) of the Children (Northern Ireland) Order 1995 (recoupment of cost of providing services, etc.)[^f00014] for “or of an income-related employment and support allowance” substitute “, of an income-related employment and support allowance or of universal credit”.
 
-### 7. Amendment of the Jobseekers Order[^key-3725f7f156eaaa350f13c71ffcc4e736]
+### 7. Amendment of the Jobseekers Order[^c-3725f7f156eaaa350f13c71ffcc4e736]
 
 In paragraph 2 of Schedule 1 to the Jobseekers (Northern Ireland) Order 1995 (supplementary provisions: limited capability for work)[^f00015]—
 
@@ -120,11 +120,11 @@ In paragraph 2 of Schedule 1 to the Jobseekers (Northern Ireland) Order 1995 (su
 
   .
 
-### 8. Amendment of the Road Traffic Order[^key-0481927725abfc546f3af5e0b11f8b6c]
+### 8. Amendment of the Road Traffic Order[^c-0481927725abfc546f3af5e0b11f8b6c]
 
 In Article 25(2)(b) of the Road Traffic (Northern Ireland) Order 1995 (payments in respect of applicants for exemption from wearing seat belts)[^f00016] after “those in receipt of” insert “universal credit,”.
 
-### 9. Amendment of the Industrial Tribunals Order[^key-8910bb87d7789d7f1b8479c82db58470]
+### 9. Amendment of the Industrial Tribunals Order[^c-8910bb87d7789d7f1b8479c82db58470]
 
 (1) The Industrial Tribunals (Northern Ireland) Order 1996[^f00017] is amended in accordance with paragraphs (2) to (4).
 
@@ -144,11 +144,11 @@ In Article 25(2)(b) of the Road Traffic (Northern Ireland) Order 1995 (payments 
 
   .
 
-### 10. Amendment of the Data Protection Act[^key-a9c85afd81cd35878b8a27d2c5ee4455]
+### 10. Amendment of the Data Protection Act[^c-a9c85afd81cd35878b8a27d2c5ee4455]
 
 In paragraph 3 of the Table in section 56(6) of the Data Protection Act 1998 (prohibition of requirement as to production of certain records)[^f00020] for “or Part 1 of the Welfare Reform Act (Northern Ireland) 2007” substitute “, Part 1 of the Welfare Reform Act (Northern Ireland) 2007 or Part 2 of the Welfare Reform (Northern Ireland) Order 2015”.
 
-### 11. Amendment of the Welfare Reform and Pensions Order[^key-a1bb23c79540d91c899dc718bdce9885]
+### 11. Amendment of the Welfare Reform and Pensions Order[^c-a1bb23c79540d91c899dc718bdce9885]
 
 In Article 69(3) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (supply of information for certain purposes)[^f00021]—
 
@@ -160,7 +160,7 @@ In Article 69(3) of the Welfare Reform and Pensions (Northern Ireland) Order 199
 
   .
 
-### 12. Amendment of the Income Tax (Earnings and Pensions) Act[^key-a9b2ba7e76f18c78fb2bd33df24c9dfb]
+### 12. Amendment of the Income Tax (Earnings and Pensions) Act[^c-a9b2ba7e76f18c78fb2bd33df24c9dfb]
 
 (1) The Income Tax (Earnings and Pensions) Act 2003[^f00022] is amended in accordance with paragraphs (2) and (3).
 
@@ -179,7 +179,7 @@ In Article 69(3) of the Welfare Reform and Pensions (Northern Ireland) Order 199
 
   .
 
-### 13. Amendment of the Housing (Northern Ireland) Order[^key-987604ef7c4bc82c96322e04e098635b]
+### 13. Amendment of the Housing (Northern Ireland) Order[^c-987604ef7c4bc82c96322e04e098635b]
 
 (1) The Housing (Northern Ireland) Order 2003[^f00024] is amended in accordance with paragraphs (2) to (4).
 
@@ -189,15 +189,15 @@ In Article 69(3) of the Welfare Reform and Pensions (Northern Ireland) Order 199
 
 (4) In Article 109(3) (power to make further provisions by regulations), after “housing benefit,” insert “universal credit,”.
 
-### 14. Amendment of the Gender Recognition (Application Fees) Order[^key-3838e8cd3689400cc05130cbb70d3f12]
+### 14. Amendment of the Gender Recognition (Application Fees) Order[^c-3838e8cd3689400cc05130cbb70d3f12]
 
 In paragraph 1(1) of the Schedule to the Gender Recognition (Application Fees) Order 2006[^f00025] in sub-paragraph (o) of the definition of “excluded benefits”, after “2013” insert “or the Universal Credit Regulations (Northern Ireland) 2016”.
 
-### 15. Amendment of the Private Tenancies Order[^key-cb5ee88671091d60a2a304b83c4303b7]
+### 15. Amendment of the Private Tenancies Order[^c-cb5ee88671091d60a2a304b83c4303b7]
 
 In Article 54 of the Private Tenancies (Northern Ireland) Order 2006[^f00026] (amounts attributable to services) after “Social Security Contributions and Benefits (Northern Ireland) Act [1992 (c.7)](https://www.legislation.gov.uk/ukpga/1992/7)” insert “or to assist the Department in the administration of universal credit”.
 
-### 16. Amendment of the Naval, Military and Air Forces Etc (Disablement and Death) Service Pensions Order[^key-6c17ee4bc56a9324b7c1586e990be1df]
+### 16. Amendment of the Naval, Military and Air Forces Etc (Disablement and Death) Service Pensions Order[^c-6c17ee4bc56a9324b7c1586e990be1df]
 
 (1) The Naval, Military and Air Forces Etc (Disablement and Death) Service Pensions Order 2006[^f00027] is amended in accordance with paragraphs (2) to (5).
 
@@ -237,7 +237,7 @@ In Article 54 of the Private Tenancies (Northern Ireland) Order 2006[^f00026] (a
 
 ### CHAPTER 1 — SOCIAL SECURITY BENEFITS
 
-#### 17. Amendment of the Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations[^key-22dbdb0dc5af443bf2b7df697f9e874e]
+#### 17. Amendment of the Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations[^c-22dbdb0dc5af443bf2b7df697f9e874e]
 
 (1) The Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations (Northern Ireland) 1975[^f00032] are amended in accordance with paragraphs (2) and (3).
 
@@ -252,7 +252,7 @@ In Article 54 of the Private Tenancies (Northern Ireland) Order 2006[^f00026] (a
 
 (3) In the title of regulation 3 (modifications, in relation to widows, of provisions with respect to unemployment and short-term incapacity benefit, contributory employment and support allowance, maternity allowance and Category A retirement pension) and in paragraphs (1)(a) and (b) and (5)(a) and (b) of that regulation omit “contributory” in each place it occurs.
 
-#### 18. Amendment of the Social Security (Benefit) (Members of the Forces) Regulations[^key-075c1c4c7069a8effda7a5b67d1814d7]
+#### 18. Amendment of the Social Security (Benefit) (Members of the Forces) Regulations[^c-075c1c4c7069a8effda7a5b67d1814d7]
 
 (1) The Social Security (Benefit) (Members of the Forces) Regulations 1975[^f00034] are amended in accordance with paragraphs (2) and (3).
 
@@ -263,7 +263,7 @@ In Article 54 of the Private Tenancies (Northern Ireland) Order 2006[^f00026] (a
 
 (3) In regulation 5 (application of the Act, the Northern Ireland Act and regulations)[^f00037] after “Welfare Reform Act 2012 and regulations made under it,” insert “or of Part 2 of the Welfare Reform (Northern Ireland) Order 2015 and regulations made under it,”.
 
-#### 19. Amendment of the Social Security (Mariners’ Benefits) Regulations[^key-4b63fb6706a9e98a44404763c3f81377]
+#### 19. Amendment of the Social Security (Mariners’ Benefits) Regulations[^c-4b63fb6706a9e98a44404763c3f81377]
 
 (1) The Social Security (Mariners’ Benefits) Regulations (Northern Ireland) 1975[^f00038] are amended in accordance with paragraphs (2) to (4).
 
@@ -293,7 +293,7 @@ In Article 54 of the Private Tenancies (Northern Ireland) Order 2006[^f00026] (a
 
 .
 
-#### 20. Amendment of the Social Security (Medical Evidence) Regulations[^key-ea9f35781506eb9f0f318015225d7bc4]
+#### 20. Amendment of the Social Security (Medical Evidence) Regulations[^c-ea9f35781506eb9f0f318015225d7bc4]
 
 In regulation 1 of the Social Security (Medical Evidence) Regulations (Northern Ireland) 1976 (interpretation)[^f00042]—
 
@@ -322,7 +322,7 @@ In regulation 1 of the Social Security (Medical Evidence) Regulations (Northern 
 
   .
 
-#### 21. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-0181e1690abeb32ecc33620e30e55b90]
+#### 21. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-0181e1690abeb32ecc33620e30e55b90]
 
 (1) Regulation 7 of the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976 (manner of electing the person entitled to a carer’s allowance in respect of a severely disabled person where, but for section 70(7) of the Contributions and Benefits Act, more than one person would be entitled to an invalid care allowance in respect of that severely disabled person)[^f00044] is amended in accordance with paragraphs (2) to (4).
 
@@ -344,7 +344,7 @@ In regulation 1 of the Social Security (Medical Evidence) Regulations (Northern 
 
 .
 
-#### 22. Amendment of the Social Security Benefit (Persons Abroad) Regulations[^key-ff20ac58a13b5588f06e56fe8a5aebfa]
+#### 22. Amendment of the Social Security Benefit (Persons Abroad) Regulations[^c-ff20ac58a13b5588f06e56fe8a5aebfa]
 
 In regulation 1(2) of the Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978 (interpretation)[^f00045] after the definition of “former principal Act” insert—
 
@@ -352,7 +352,7 @@ In regulation 1(2) of the Social Security Benefit (Persons Abroad) Regulations (
 
 .
 
-#### 23. Amendment of the Social Security (Overlapping Benefits) Regulations[^key-a5af9c731c297f32b8d71b1ef9dc7be5]
+#### 23. Amendment of the Social Security (Overlapping Benefits) Regulations[^c-a5af9c731c297f32b8d71b1ef9dc7be5]
 
 In regulation 2(1) of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979 (interpretation)[^f00046]—
 
@@ -374,7 +374,7 @@ In regulation 2(1) of the Social Security (Overlapping Benefits) Regulations (No
   ; and
 - (d) in the definition of “personal benefit”[^f00048], after the words “dependency benefit” insert “ or universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015”.
 
-#### 24. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^key-8567c57f8b8d40a175c7dd6b230f43db]
+#### 24. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^c-8567c57f8b8d40a175c7dd6b230f43db]
 
 In regulation 4 of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979 (days to be treated as days of increment)[^f00049]—
 
@@ -399,7 +399,7 @@ In regulation 4 of the Social Security (Widow’s Benefit and Retirement Pension
 
   .
 
-#### 25. Amendment of the Social Security (General Benefit) Regulations[^key-102b8c1b763372d8717cc79568e43d35]
+#### 25. Amendment of the Social Security (General Benefit) Regulations[^c-102b8c1b763372d8717cc79568e43d35]
 
 In regulation 9 of the Social Security (General Benefit) Regulations (Northern Ireland) 1984 (payments of benefit and suspension of payments pending a decision on appeals or references, arrears and repayments)[^f00050]—
 
@@ -412,7 +412,7 @@ In regulation 9 of the Social Security (General Benefit) Regulations (Northern I
 
   .
 
-#### 26. Amendment of the Income Support (General) Regulations[^key-17b20c375642e6ac30f32a023f06730c]
+#### 26. Amendment of the Income Support (General) Regulations[^c-17b20c375642e6ac30f32a023f06730c]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00051] are amended in accordance with paragraphs (2) to (10).
 
@@ -525,7 +525,7 @@ In regulation 9 of the Social Security (General Benefit) Regulations (Northern I
 
     .
 
-#### 27. Amendment of the Social Security (Claims and Payments) Regulations[^key-0570872645e212356ff66ff8246c1016]
+#### 27. Amendment of the Social Security (Claims and Payments) Regulations[^c-0570872645e212356ff66ff8246c1016]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00068] are amended in accordance with paragraphs (2) and (3).
 
@@ -540,7 +540,7 @@ In regulation 9 of the Social Security (General Benefit) Regulations (Northern I
 - (a) in sub-paragraph (a) after “income support,” insert “universal credit,”; and
 - (b) in sub-paragraph (b) after income-based jobseeker’s allowance” insert “or universal credit”.
 
-#### 28. Amendment of the Jobseeker’s Allowance Regulations[^key-4863b0df9ce9d9165a18527d61c0786d]
+#### 28. Amendment of the Jobseeker’s Allowance Regulations[^c-4863b0df9ce9d9165a18527d61c0786d]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00071] are amended in accordance with paragraphs (2) to (10).
 
@@ -649,7 +649,7 @@ In regulation 9 of the Social Security (General Benefit) Regulations (Northern I
 
 (10) In paragraph 12(1)(b) of Schedule 7 (capital to be disregarded)[^f00081] after “working tax credit” insert “, universal credit”.
 
-#### 29. Amendment of the Social Security (Immigration and Asylum) Consequential Amendments Regulations[^key-3ab0657057ac9287152fe68fe761326e]
+#### 29. Amendment of the Social Security (Immigration and Asylum) Consequential Amendments Regulations[^c-3ab0657057ac9287152fe68fe761326e]
 
 (1) The Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000[^f00082] are amended in accordance with paragraphs (2) to (4).
 
@@ -673,11 +673,11 @@ In regulation 9 of the Social Security (General Benefit) Regulations (Northern I
 
 (4) In the heading to Part I of the Schedule (persons not excluded from certain benefits under section 115 of the Immigration and Asylum Act 1999)[^f00085] after “entitlement to” insert “universal credit,”.
 
-#### 30. Amendment of the Occupational and Personal Pension Schemes (Bankruptcy) Regulations[^key-d93ba44685cca9cb586502e205d97bfc]
+#### 30. Amendment of the Occupational and Personal Pension Schemes (Bankruptcy) Regulations[^c-d93ba44685cca9cb586502e205d97bfc]
 
 In regulation 5(3)(b) of the Occupational and Personal Pension Schemes (Bankruptcy) Regulations (Northern Ireland) 2002 (exclusion orders)[^f00086] after “Benefits Act 1992,” insert “universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015”.
 
-#### 31. Amendment of the State Pension Credit Regulations[^key-7f44c75ac6ccb891f902ea1af1689379]
+#### 31. Amendment of the State Pension Credit Regulations[^c-7f44c75ac6ccb891f902ea1af1689379]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00087] are amended in accordance with paragraphs (2) to (9).
 
@@ -766,7 +766,7 @@ In regulation 5(3)(b) of the Occupational and Personal Pension Schemes (Bankrupt
 
     .
 
-#### 32. Amendment of the Social Security (Deferral of Retirement Pensions) Regulations[^key-1ae6d559f82345af0ca4ced45a706e0e]
+#### 32. Amendment of the Social Security (Deferral of Retirement Pensions) Regulations[^c-1ae6d559f82345af0ca4ced45a706e0e]
 
 In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2005 (amount of retirement pension not included in the calculation of the lump sum)[^f00101]—
 
@@ -788,7 +788,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
   .
 
-#### 33. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^key-299048b99854689cd2310624b352fad6]
+#### 33. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^c-299048b99854689cd2310624b352fad6]
 
 (1) The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^f00104] are amended in accordance with paragraphs (2) to (6).
 
@@ -850,7 +850,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
   .
 
-#### 34. Amendment of the Housing Benefit Regulations[^key-7cb4c6b3a043188c08739cbc2291e099]
+#### 34. Amendment of the Housing Benefit Regulations[^c-7cb4c6b3a043188c08739cbc2291e099]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00110] are amended in accordance with paragraphs (2) to (13).
 
@@ -935,7 +935,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
 .
 
-#### 35. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-a153c902045ad635eadfab1c9e7896a0]
+#### 35. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-a153c902045ad635eadfab1c9e7896a0]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00127] are amended in accordance with paragraphs (2) to (9).
 
@@ -1008,7 +1008,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
   .
 
-#### 36. Amendment of the Employment and Support Allowance Regulations[^key-32ea936b2a756e937f478539c5c1cc6d]
+#### 36. Amendment of the Employment and Support Allowance Regulations[^c-32ea936b2a756e937f478539c5c1cc6d]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00139] are amended in accordance with paragraphs (2) to (10).
 
@@ -1111,7 +1111,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
 ### CHAPTER 2 — CHILD SUPPORT
 
-#### 37. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-5a092495082195fc72372a3dc8548bc5]
+#### 37. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^c-5a092495082195fc72372a3dc8548bc5]
 
 (1) The Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992[^f00142] are amended in accordance with paragraphs (2) and (3).
 
@@ -1143,7 +1143,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
   .
 
-#### 38. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^key-38dcf92a333ca6eedc1381f530e76c9a]
+#### 38. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^c-38dcf92a333ca6eedc1381f530e76c9a]
 
 (1) The Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992[^f00144] are amended in accordance with paragraphs (2) to (4).
 
@@ -1176,7 +1176,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
 .
 
-#### 39. Amendment of the Child Support Departure Direction and Consequential Amendments Regulations[^key-aa347b256b78fa7c3bc5b9b187686281]
+#### 39. Amendment of the Child Support Departure Direction and Consequential Amendments Regulations[^c-aa347b256b78fa7c3bc5b9b187686281]
 
 (1) The Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996[^f00147] are amended in accordance with paragraphs (2) to (4).
 
@@ -1204,7 +1204,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
 (4) In regulation 12 (meaning of “benefit” for the purposes of Article 28E of the Order)[^f00149], for “and housing benefit” substitute “, housing benefit and relevant universal credit”.
 
-#### 40. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations[^key-d56a8357a48f3eb5e5b1b813437035c5]
+#### 40. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations[^c-d56a8357a48f3eb5e5b1b813437035c5]
 
 (1) The Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001[^f00150] are amended in accordance with paragraphs (2) to (4).
 
@@ -1246,7 +1246,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
   .
 
-#### 41. Amendment of the Child Support Maintenance Calculation Regulations[^key-c5520a587c3cd813fdae02e0c09fa467]
+#### 41. Amendment of the Child Support Maintenance Calculation Regulations[^c-c5520a587c3cd813fdae02e0c09fa467]
 
 (1) The Child Support Maintenance Calculation Regulations (Northern Ireland) 2012[^f00154] are amended in accordance with paragraphs (2) to (4).
 
@@ -1291,7 +1291,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
 ### CHAPTER 3 — CHILDREN
 
-#### 42. Amendment of the Adoption Allowance Regulations[^key-07e5ffbe2b329b2c75bbd029adb8e35c]
+#### 42. Amendment of the Adoption Allowance Regulations[^c-07e5ffbe2b329b2c75bbd029adb8e35c]
 
 (1) The Adoption Allowance Regulations (Northern Ireland) 1996[^f00155] are amended in accordance with paragraphs (2) and (3).
 
@@ -1308,7 +1308,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
 ### CHAPTER 4 — EDUCATION AND EMPLOYMENT
 
-#### 43. Amendment of the Employment Protection (Recoupment of Jobseeker’s Allowance and Income Support) Regulations[^key-0e3b09505ddbda46e8bffa4895f73a52]
+#### 43. Amendment of the Employment Protection (Recoupment of Jobseeker’s Allowance and Income Support) Regulations[^c-0e3b09505ddbda46e8bffa4895f73a52]
 
 (1) The Employment Protection (Recoupment of Jobseeker’s Allowance and Income Support) Regulations (Northern Ireland) 1996[^f00156] are amended in accordance with paragraphs (2) to (7).
 
@@ -1352,7 +1352,7 @@ In regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulat
 
 (7) In regulation 10(1) and (2) (provisions relating to determination of amount paid by way of or paid as on account of benefit)[^f00160] after “income-related employment and support allowance” insert “, universal credit”.
 
-#### 44. Amendment of the Education (Student Loans) Regulations[^key-2460000682b604a1cb130d72ccb387e9]
+#### 44. Amendment of the Education (Student Loans) Regulations[^c-2460000682b604a1cb130d72ccb387e9]
 
 In paragraph 1 of Schedule 2 to the Education (Student Loans) Regulations (Northern Ireland) 1998 (terms of loans)[^f00161] for the definition of “disability related benefits” substitute—
 
@@ -1366,7 +1366,7 @@ In paragraph 1 of Schedule 2 to the Education (Student Loans) Regulations (North
 
 .
 
-#### 45. Amendment of the Education (Student Support) (No. 2) Regulations[^key-a780690f63c8d2e2144fd5b929216802]
+#### 45. Amendment of the Education (Student Support) (No. 2) Regulations[^c-a780690f63c8d2e2144fd5b929216802]
 
 (1) The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009[^f00171] are amended in accordance with paragraphs (2) to (7).
 
@@ -1429,7 +1429,7 @@ In paragraph 1 of Schedule 2 to the Education (Student Loans) Regulations (North
 
   .
 
-#### 46. Amendment of the National Minimum Wage Regulations[^key-96fb50921f55a4dcbf7a9e0c3174eff4]
+#### 46. Amendment of the National Minimum Wage Regulations[^c-96fb50921f55a4dcbf7a9e0c3174eff4]
 
 In regulation 55(2)(a) of the National Minimum Wage Regulations 2015[^f00176] (work schemes for provision of accommodation to the homeless)—
 
@@ -1439,7 +1439,7 @@ In regulation 55(2)(a) of the National Minimum Wage Regulations 2015[^f00176] (w
 
 ### CHAPTER 5 — HOUSING
 
-#### 47. Amendment of the Home Repair Assistance Grant Regulations[^key-d6b85a617e228fef4dbf39f54fbccb08]
+#### 47. Amendment of the Home Repair Assistance Grant Regulations[^c-d6b85a617e228fef4dbf39f54fbccb08]
 
 (1) The Home Repair Assistance Grant Regulations (Northern Ireland) 2003[^f00177] are amended in accordance with paragraphs (2) to (4).
 
@@ -1453,7 +1453,7 @@ In regulation 55(2)(a) of the National Minimum Wage Regulations 2015[^f00176] (w
 
 (4) In paragraph 4 of Schedule 1 after “an income-based jobseeker’s allowance,” insert “universal credit,”.
 
-#### 48. Amendment of the Housing Renewal Grants (Reduction of Grant) Regulations[^key-67e16c7e459f55eceb13726be5e5cc43]
+#### 48. Amendment of the Housing Renewal Grants (Reduction of Grant) Regulations[^c-67e16c7e459f55eceb13726be5e5cc43]
 
 (1) The Housing Renewal Grants (Reduction of Grant) Regulations (Northern Ireland) 2004[^f00179] are amended in accordance with paragraphs (2) to (4).
 
@@ -1503,11 +1503,11 @@ and
 
 ### CHAPTER 6 — IMMIGRATION AND ASYLUM
 
-#### 49. Amendment of Asylum Support Regulations[^key-d4de038cc36900f91f675243a835505d]
+#### 49. Amendment of Asylum Support Regulations[^c-d4de038cc36900f91f675243a835505d]
 
 In regulation 4(6)(a)(iv) of the Asylum Regulations 2000 (persons excluded from support)[^f00182] after the “Welfare Reform Act 2012” insert “or Part 2 of the Welfare Reform (Northern Ireland) Order 2015”.
 
-#### 50. Amendment of the Displaced Persons (Temporary Protection) Regulations[^key-428e1b649a805e16dbc5b3494b6fd5e4]
+#### 50. Amendment of the Displaced Persons (Temporary Protection) Regulations[^c-428e1b649a805e16dbc5b3494b6fd5e4]
 
 In regulation 14 of the Displaced Persons (Temporary Protection) Regulations 2005[^f00183] (housing: rent liability)—
 
@@ -1516,7 +1516,7 @@ In regulation 14 of the Displaced Persons (Temporary Protection) Regulations 200
 
 ### CHAPTER 7 — NATIONAL INSURANCE CONTRIBUTIONS AND CREDITS
 
-#### 51. Amendment of the Social Security (Credits) Regulations[^key-8640102884350d49343e1adcc5697908]
+#### 51. Amendment of the Social Security (Credits) Regulations[^c-8640102884350d49343e1adcc5697908]
 
 (1) The Social Security (Credits) Regulations (Northern Ireland) 1975[^f00184] are amended in accordance with paragraphs (2) to (6).
 
@@ -1604,7 +1604,7 @@ In regulation 14 of the Displaced Persons (Temporary Protection) Regulations 200
 
   .
 
-(6)[^key-0bf24537df5d40e0c72ae78e537e2f1b] After regulation 8F (credits for the purposes of entitlement to contribution-based jobseeker’s allowance following official error) insert—
+(6)[^c-0bf24537df5d40e0c72ae78e537e2f1b] After regulation 8F (credits for the purposes of entitlement to contribution-based jobseeker’s allowance following official error) insert—
 
 > **8G. Credits for persons entitled to universal credit**
 >
@@ -1619,7 +1619,7 @@ In regulation 14 of the Displaced Persons (Temporary Protection) Regulations 200
 
 .
 
-#### 52. Amendment of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations[^key-b05457be6f003223dae8298ce9ac4a4a]
+#### 52. Amendment of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations[^c-b05457be6f003223dae8298ce9ac4a4a]
 
 In regulation 1(2) of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001[^f00188] (interpretation)—
 
@@ -1639,7 +1639,7 @@ In regulation 1(2) of the Social Security (Crediting and Treatment of Contributi
 
   .
 
-#### 53. Amendment of the Transfer of State Pensions and Benefits Regulations[^key-f29d2a6754eafb060412b63e10600fba]
+#### 53. Amendment of the Transfer of State Pensions and Benefits Regulations[^c-f29d2a6754eafb060412b63e10600fba]
 
 In regulation 1(2) of the Transfer of State Pensions and Benefits Regulations 2007 (interpretation)[^f00190] in the definition of “relevant benefit”[^f00191]—
 
@@ -1656,39 +1656,39 @@ In regulation 1(2) of the Transfer of State Pensions and Benefits Regulations 20
 
 ### CHAPTER 8 — POLICE SERVICE of NORTHERN IRELAND
 
-#### 54. Amendment of the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations[^key-eafe10359134011bc9170263053b9ac4]
+#### 54. Amendment of the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations[^c-eafe10359134011bc9170263053b9ac4]
 
 In paragraph 1(1) of Schedule 4 to the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006[^f00192] (reduction in child’s special allowance during full-time remunerated training etc) in the definition of “specified rate” from “applicable amount” to “1987” substitute “standard allowance included in an award of universal credit, for a single claimant aged under 25 years, as specified in regulation 38 of the Universal Credit Regulations (Northern Ireland) 2016[^f00193]”.
 
-#### 55. Amendment of the Police Pension Regulations[^key-831afffc759d88b6829bd85d8a6ef633]
+#### 55. Amendment of the Police Pension Regulations[^c-831afffc759d88b6829bd85d8a6ef633]
 
 In regulation 39(9) of the Police Pension (Northern Ireland) Regulations 2009 (calculation of child survivors’ pensions)[^f00194] in the definition of “specified rate” from “applicable amount” to “1987” substitute “standard allowance included in an award of universal credit, for a single claimant aged under 25 years, as specified in regulation 38 of the Universal Credit Regulations (Northern Ireland) 2016”.
 
 ### CHAPTER 9 — TAX, CHILD BENEFIT, GUARDIAN’S ALLOWANCE AND TAX CREDITS
 
-#### 56. Amendment of the Tax Credits (Administrative Arrangements) Regulations[^key-29c5be828ee054e62383fe7075c5e75d]
+#### 56. Amendment of the Tax Credits (Administrative Arrangements) Regulations[^c-29c5be828ee054e62383fe7075c5e75d]
 
 In regulation 5(6)(c) of the Tax Credits (Administrative Arrangements) Regulations 2002 (recording, verification and holding, and forwarding, of claims etc. received by relevant authorities)[^f00195] after “Part 1 of the Welfare Reform Act 2012” insert “or Part 2 of the Welfare Reform (Northern Ireland) Order 2015”.
 
-#### 57. Amendments of the Child Benefit and Guardian’s Allowance (Administration) Regulations[^key-0c5da7f72417f4dfcf73d900425909be]
+#### 57. Amendments of the Child Benefit and Guardian’s Allowance (Administration) Regulations[^c-0c5da7f72417f4dfcf73d900425909be]
 
 In regulation 19(1)(b)(v) of the Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (persons who may elect to have child benefit paid weekly)[^f00196] after “Part 1 of the Welfare Reform Act 2012” insert “or Part 2 of the Welfare Reform (Northern Ireland) Order 2015”.
 
-#### 58. Amendment of the Child Benefit and Guardian’s Allowance (Administrative Arrangements) Regulations[^key-4090237f7485d04d0a64f81278d14808]
+#### 58. Amendment of the Child Benefit and Guardian’s Allowance (Administrative Arrangements) Regulations[^c-4090237f7485d04d0a64f81278d14808]
 
 In regulation 5(8)(c) of the Child Benefit and Guardian’s Allowance (Administrative Arrangements) Regulations 2003 (recording, verification and holding, and forwarding, of claims etc. received by relevant authorities)[^f00197] after “Part 1 of the Welfare Reform Act 2012” insert “or Part 2 of the Welfare Reform (Northern Ireland) Order 2015”.
 
-#### 59. Amendment of the Income Tax (Pay As You Earn) Regulations[^key-965fed09050e2c49c3126a3953f8b31c]
+#### 59. Amendment of the Income Tax (Pay As You Earn) Regulations[^c-965fed09050e2c49c3126a3953f8b31c]
 
 In regulation 148 of the Income Tax (Pay As You Earn) Regulations 2003 (interpretation of Chapters 1 and 2)[^f00198] in the entry for “Chapter 2 claimant”, in paragraph (b)(ii) after “Jobseeker’s Allowance Regulations 2013” insert “or Jobseeker’s Allowance Regulations (Northern Ireland) 2016”.
 
-#### 60. Amendments to the Child Benefit (General) Regulations[^key-993e6ce30ba1239523e8c835d6a70d33]
+#### 60. Amendments to the Child Benefit (General) Regulations[^c-993e6ce30ba1239523e8c835d6a70d33]
 
 In regulation 8(2)(f) of the Child Benefit (General) Regulations 2006 (child benefit not payable in respect of qualifying young person: other financial support)[^f00199], after “Part 1 of the Welfare Reform Act 2012” insert “or Part 2 of the Welfare Reform (Northern Ireland) Order 2015”.
 
 ### CHAPTER 10 — LEGAL AID
 
-#### 61. Amendments to the Civil Legal Services (Financial) Regulations[^key-6e77961e3da64460d1109f43b034fba6]
+#### 61. Amendments to the Civil Legal Services (Financial) Regulations[^c-6e77961e3da64460d1109f43b034fba6]
 
 (1) The Civil Legal Services (Financial) Regulations (Northern Ireland) 2015[^f00200] are amended in accordance with paragraphs (2) and (3).
 
@@ -1775,43 +1775,43 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00006]: Footnote: [S.I. 2015/2006](https://www.legislation.gov.uk/uksi/2015/2006). For the meaning of “prescribed” see Article 5
 
-[^key-7ec7629dc586ffc472d8eeefcf24d082]: Commencement: Reg. 1 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-7ec7629dc586ffc472d8eeefcf24d082]: Commencement: Reg. 1 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c4ca7fc5f447c473cd73b3b01bd9c229]: Commencement: Reg. 2 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-c4ca7fc5f447c473cd73b3b01bd9c229]: Commencement: Reg. 2 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00009]: Footnote: [1950 c.37](https://www.legislation.gov.uk/ukpga/1950/37); section 12(1)(d) was inserted by paragraph 38 of Schedule 10 to the Social Security Act [1986 (c.50)](https://www.legislation.gov.uk/ukpga/1986/50) and was amended by paragraph 3 of Schedule 2 to the Social Security (Consequential Provisions) Act [1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6)
 
-[^key-d1812ae19933eb1d58ddf97d5423658b]: Commencement: Reg. 3 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-d1812ae19933eb1d58ddf97d5423658b]: Commencement: Reg. 3 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 1990/246 (N.I. 2)](https://www.legislation.gov.uk/nisi/1990/246)
 
-[^key-68dcb5bacde604f5ce7cd62f752eefb8]: Commencement: Reg. 4 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-68dcb5bacde604f5ce7cd62f752eefb8]: Commencement: Reg. 4 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00011]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 70 was amended by Articles 2(2)(a) and 3 of [S.R. 2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321)
 
 [^f00012]: Footnote: [S.I. 2015/2006](https://www.legislation.gov.uk/uksi/2015/2006)
 
-[^key-c8eff79fb5c09be9dedd7d84cbd3a598]: Commencement: Reg. 5 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-c8eff79fb5c09be9dedd7d84cbd3a598]: Commencement: Reg. 5 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00013]: Footnote: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23); Schedule 7A was inserted by Schedule 31 to the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9). Group 3 and the Notes to that Group were amended by paragraph 48 of Schedule 3 to the Tax Credits Act [2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21), Article 3 of [S.I. 2002/1100](https://www.legislation.gov.uk/uksi/2002/1100), Article 2 of [S.I. 2013/601](https://www.legislation.gov.uk/uksi/2013/601) and regulation 9 of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630). Note (1D) of Schedule 8 was inserted by Article 8 of [S.I. 2000/805](https://www.legislation.gov.uk/uksi/2000/805), substituted by paragraph 49 of Schedule 3 to the Tax Credits Act 2002 and amended by regulation 9 of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
-[^key-e2c652087a3de822febadcf9fa5bfe44]: Commencement: Reg. 6 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-e2c652087a3de822febadcf9fa5bfe44]: Commencement: Reg. 6 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-3725f7f156eaaa350f13c71ffcc4e736]: Commencement: Reg. 7 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-3725f7f156eaaa350f13c71ffcc4e736]: Commencement: Reg. 7 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00015]: Footnote: [S.I 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); paragraph 2 was substituted by paragraph 6(6) of Schedule 3 to, the Welfare Reform Act (Northern Ireland) [2007(c. 2)](https://www.legislation.gov.uk/nia/2007/2)
 
-[^key-0481927725abfc546f3af5e0b11f8b6c]: Commencement: Reg. 8 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-0481927725abfc546f3af5e0b11f8b6c]: Commencement: Reg. 8 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00016]: Footnote: [S.I.1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
-[^key-8910bb87d7789d7f1b8479c82db58470]: Commencement: Reg. 9 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-8910bb87d7789d7f1b8479c82db58470]: Commencement: Reg. 9 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921);.Articles 18(3)(a), (b) and (c) and (4)(cc) and (e) and Article 19(1) were amended by paragraph 9 of Schedule 3 to the Welfare Reform Act (Northern Ireland) [2007 (c. 2)](https://www.legislation.gov.uk/ukpga/2007/2)
 
@@ -1819,33 +1819,33 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00019]: Footnote: Article 19(5) was added by sections 28(1), 60(1) and Schedule 3 paragraph 9(4) of the Welfare Reform Act (Northern Ireland) [2007 (c.2)](https://www.legislation.gov.uk/ukpga/2007/2) and Article 2(2)(c) and Part 1 of the Schedule to [S.R. 2008 No. 276](https://www.legislation.gov.uk/nisr/2008/276)
 
-[^key-a9c85afd81cd35878b8a27d2c5ee4455]: Commencement: Reg. 10 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-a9c85afd81cd35878b8a27d2c5ee4455]: Commencement: Reg. 10 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00020]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29); paragraph 3 of the Table in section 56(6) was amended by regulation 4 of [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357)
 
-[^key-a1bb23c79540d91c899dc718bdce9885]: Commencement: Reg. 11 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-a1bb23c79540d91c899dc718bdce9885]: Commencement: Reg. 11 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147). Article 69(3) was amended by paragraph 12 of Schedule 3 and Schedule 8 to the Welfare Reform Act (Northern Ireland) [2007 (c. 2)](https://www.legislation.gov.uk/ukpga/2007/2) and sections 36 (1) (a) and 2(6) of the Welfare Reform Act (Northern Ireland) [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13)
 
-[^key-a9b2ba7e76f18c78fb2bd33df24c9dfb]: Commencement: Reg. 12 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-a9b2ba7e76f18c78fb2bd33df24c9dfb]: Commencement: Reg. 12 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00022]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1); section 318D was inserted by paragraph 1 of Schedule 13 to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) and amended by paragraph 6 of Schedule 8 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) and regulation 16 of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
 [^f00023]: Footnote: Section 675 was amended by regulation 167 of [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229)
 
-[^key-987604ef7c4bc82c96322e04e098635b]: Commencement: Reg. 13 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-987604ef7c4bc82c96322e04e098635b]: Commencement: Reg. 13 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00024]: Footnote: [S.I. 2003/412 (N.I. 2)](https://www.legislation.gov.uk/nisi/2003/412)
 
-[^key-3838e8cd3689400cc05130cbb70d3f12]: Commencement: Reg. 14 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-3838e8cd3689400cc05130cbb70d3f12]: Commencement: Reg. 14 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 2006/758](https://www.legislation.gov.uk/uksi/2006/758); the Schedule was inserted by Article 4(7) of and the Schedule to, [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302) and amended by Article 6(1) and (2) of [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590)
 
-[^key-cb5ee88671091d60a2a304b83c4303b7]: Commencement: Reg. 15 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-cb5ee88671091d60a2a304b83c4303b7]: Commencement: Reg. 15 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 2006/1459 (N.I. 10)](https://www.legislation.gov.uk/nisi/2006/1459)
 
-[^key-6c17ee4bc56a9324b7c1586e990be1df]: Commencement: Reg. 16 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-6c17ee4bc56a9324b7c1586e990be1df]: Commencement: Reg. 16 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00027]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606)
 
@@ -1857,13 +1857,13 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00031]: Footnote: Article 56(3) was amended by Article 13 of Schedule 1 to [S.I. 2008/679](https://www.legislation.gov.uk/uksi/2008/679), Article 13 of [S.I. 2009/706](https://www.legislation.gov.uk/uksi/2009/706), regulation 38 of [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388) and regulation 49 (5) of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
-[^key-22dbdb0dc5af443bf2b7df697f9e874e]: Commencement: Reg. 17 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-22dbdb0dc5af443bf2b7df697f9e874e]: Commencement: Reg. 17 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00032]: Footnote: [S.R. 1975 No. 19](https://www.legislation.gov.uk/nisr/1975/19)
 
 [^f00033]: Footnote: Regulation 1(2) was amended by regulation 2 of [S.R. 1984 No. 174](https://www.legislation.gov.uk/nisr/1984/174) and regulation 4 of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-075c1c4c7069a8effda7a5b67d1814d7]: Commencement: Reg. 18 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-075c1c4c7069a8effda7a5b67d1814d7]: Commencement: Reg. 18 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00034]: Footnote: [S.I. 1975/493](https://www.legislation.gov.uk/uksi/1975/493)
 
@@ -1873,7 +1873,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00037]: Footnote: Regulation 5 was amended by regulation 14(3) of [S.I. 1996/1345](https://www.legislation.gov.uk/uksi/1996/1345) and regulation 21(3) of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
-[^key-4b63fb6706a9e98a44404763c3f81377]: Commencement: Reg. 19 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-4b63fb6706a9e98a44404763c3f81377]: Commencement: Reg. 19 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00038]: Footnote: [S.R. 1975 No. 108](https://www.legislation.gov.uk/nisr/1975/108)
 
@@ -1883,21 +1883,21 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00041]: Footnote: Regulation 6(1) was amended by regulation 165(4) of [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
 
-[^key-ea9f35781506eb9f0f318015225d7bc4]: Commencement: Reg. 20 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-ea9f35781506eb9f0f318015225d7bc4]: Commencement: Reg. 20 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00042]: Footnote: [S.R. 1976 No. 175](https://www.legislation.gov.uk/nisr/1976/175)
 
 [^f00043]: Footnote: Paragraph (2) was amended by regulation 8 of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-0181e1690abeb32ecc33620e30e55b90]: Commencement: Reg. 21 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-0181e1690abeb32ecc33620e30e55b90]: Commencement: Reg. 21 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00044]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99); regulation 7 was amended by regulation 2(6) of [S.R. 1996 No. 521](https://www.legislation.gov.uk/nisr/1996/521) and paragraph 1 of Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323)
 
-[^key-ff20ac58a13b5588f06e56fe8a5aebfa]: Commencement: Reg. 22 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-ff20ac58a13b5588f06e56fe8a5aebfa]: Commencement: Reg. 22 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00045]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114)
 
-[^key-a5af9c731c297f32b8d71b1ef9dc7be5]: Commencement: Reg. 23 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-a5af9c731c297f32b8d71b1ef9dc7be5]: Commencement: Reg. 23 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00046]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amendments are regulation 11(2) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289) and regulation 9(2) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
@@ -1905,15 +1905,15 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00048]: Footnote: The definition of “personal benefit” was amended by regulation 2(a) of [S.R. 1980 No. 451](https://www.legislation.gov.uk/nisr/1980/451), regulation 11(2)(c) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289), regulation 4(a) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299) and regulation 9(2)(c) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-8567c57f8b8d40a175c7dd6b230f43db]: Commencement: Reg. 24 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-8567c57f8b8d40a175c7dd6b230f43db]: Commencement: Reg. 24 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00049]: Footnote: [S.R. 1979 No.243](https://www.legislation.gov.uk/nisr/1979/243); regulation 4(1)(e) was inserted by regulation 2(2)(c) of [S.R. 2011 No. 109](https://www.legislation.gov.uk/nisr/2011/109), regulation 4(2)(b)(ii) was amended by regulation 12 of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289) and regulation 4(5) was inserted by regulation 2(3) of [S.R. 2011 No. 109](https://www.legislation.gov.uk/nisr/2011/109)
 
-[^key-102b8c1b763372d8717cc79568e43d35]: Commencement: Reg. 25 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-102b8c1b763372d8717cc79568e43d35]: Commencement: Reg. 25 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00050]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); paragraphs (5A) to (5D) of regulation 9 were inserted by regulation 5 of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
 
-[^key-17b20c375642e6ac30f32a023f06730c]: Commencement: Reg. 26 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-17b20c375642e6ac30f32a023f06730c]: Commencement: Reg. 26 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00051]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459)
 
@@ -1947,7 +1947,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00067]: Footnote: Paragraph 7(3) was added by regulation 2(b) of [S.R. 2002 No. 295](https://www.legislation.gov.uk/nisr/2002/295) and amended by regulation 12(15)(b) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-0570872645e212356ff66ff8246c1016]: Commencement: Reg. 27 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-0570872645e212356ff66ff8246c1016]: Commencement: Reg. 27 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00068]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 
@@ -1955,7 +1955,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00070]: Footnote: Regulation 16A was inserted by regulation 7 of [S.R. 2003 No.191](https://www.legislation.gov.uk/nisr/2003/191) and paragraph (2) of that regulation was amended by regulation 13 of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-4863b0df9ce9d9165a18527d61c0786d]: Commencement: Reg. 28 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-4863b0df9ce9d9165a18527d61c0786d]: Commencement: Reg. 28 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00071]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
 
@@ -1979,7 +1979,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00081]: Footnote: Paragraph 12(1)(b) was amended by paragraph 24(a) of Schedule 2 to [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195), regulation 4(16)(a) of [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112), regulation 3(7)(a) of [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498), and regulation 4(11)(a) of [S.R. 2009 No. 92](https://www.legislation.gov.uk/nisr/2009/92)
 
-[^key-3ab0657057ac9287152fe68fe761326e]: Commencement: Reg. 29 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-3ab0657057ac9287152fe68fe761326e]: Commencement: Reg. 29 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00082]: Footnote: [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
 
@@ -1989,11 +1989,11 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00085]: Footnote: Part 1 of the Schedule was amended by regulation 23(5) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-d93ba44685cca9cb586502e205d97bfc]: Commencement: Reg. 30 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-d93ba44685cca9cb586502e205d97bfc]: Commencement: Reg. 30 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00086]: Footnote: [S.R. 2002 No. 127](https://www.legislation.gov.uk/nisr/2002/127)
 
-[^key-7f44c75ac6ccb891f902ea1af1689379]: Commencement: Reg. 31 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-7f44c75ac6ccb891f902ea1af1689379]: Commencement: Reg. 31 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00087]: Footnote: [S.R. 2003 No.28](https://www.legislation.gov.uk/nisr/2003/28)
 
@@ -2023,7 +2023,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00100]: Footnote: Paragraph 20A was inserted by regulation 23(9)(b) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), substituted by regulation 2(11)(f) of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421), amended by regulation 5 of and paragraph 11(6) of Schedule 2 to [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407) and regulation 30(9)(b) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-1ae6d559f82345af0ca4ced45a706e0e]: Commencement: Reg. 32 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-1ae6d559f82345af0ca4ced45a706e0e]: Commencement: Reg. 32 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00101]: Footnote: [S.R. 2005 No. 120](https://www.legislation.gov.uk/nisr/2005/120)
 
@@ -2031,7 +2031,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00103]: Footnote: Paragraph (5A) was inserted by regulation 3(4)(c) of [S.R. 2011 No. 109](https://www.legislation.gov.uk/nisr/2011/109)
 
-[^key-299048b99854689cd2310624b352fad6]: Commencement: Reg. 33 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-299048b99854689cd2310624b352fad6]: Commencement: Reg. 33 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00104]: Footnote: [S.R. 2005 No. 506](https://www.legislation.gov.uk/nisr/2005/506)
 
@@ -2045,7 +2045,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00109]: Footnote: Sub-paragraph (ta) was inserted by regulation 22 of [S.R. 2015 No. 411](https://www.legislation.gov.uk/nisr/2015/411)
 
-[^key-7cb4c6b3a043188c08739cbc2291e099]: Commencement: Reg. 34 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-7cb4c6b3a043188c08739cbc2291e099]: Commencement: Reg. 34 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00110]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 
@@ -2081,7 +2081,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00126]: Footnote: Paragraph 9(1)(f) was inserted by regulation 3(20) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
 
-[^key-a153c902045ad635eadfab1c9e7896a0]: Commencement: Reg. 35 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-a153c902045ad635eadfab1c9e7896a0]: Commencement: Reg. 35 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00127]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406)
 
@@ -2107,7 +2107,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00138]: Footnote: Paragraph 21(2) was amended by regulation 4(13) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378), regulation 6(7) of [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498), regulation 7(3) of [S.R. 2013 No. 67](https://www.legislation.gov.uk/nisr/2013/67) and Article 27(9) of [S.I. 2013/3021](https://www.legislation.gov.uk/uksi/2013/3021)
 
-[^key-32ea936b2a756e937f478539c5c1cc6d]: Commencement: Reg. 36 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-32ea936b2a756e937f478539c5c1cc6d]: Commencement: Reg. 36 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00139]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
 
@@ -2115,13 +2115,13 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00141]: Footnote: Paragraph 9(b) was amended by regulation 3(32)(a) of [S.R. 2008 No. 413](https://www.legislation.gov.uk/nisr/2008/413)
 
-[^key-5a092495082195fc72372a3dc8548bc5]: Commencement: Reg. 37 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-5a092495082195fc72372a3dc8548bc5]: Commencement: Reg. 37 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00142]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340). The Regulations are revoked in certain cases by [S.R. 2001 No. 17](https://www.legislation.gov.uk/nisr/2001/17) (as amended by [S.R. 2003 No. 469](https://www.legislation.gov.uk/nisr/2003/469) and [S.R. 2003 No. 91](https://www.legislation.gov.uk/nisr/2003/91)) and [S.R. 2012 No. 438](https://www.legislation.gov.uk/nisr/2012/438)
 
 [^f00143]: Footnote: Regulation 22 was amended by regulation 4(5) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215), regulation 5(3) of [S.R. 2003 No. 224](https://www.legislation.gov.uk/nisr/2003/224), regulation 2(5) of [S.R. 2005 No. 125](https://www.legislation.gov.uk/nisr/2005/125), regulation 2(6) of [S.R.2008 No. 404](https://www.legislation.gov.uk/nisr/2008/404), regulation 2(3) of [S.R. 2009 No. 363](https://www.legislation.gov.uk/nisr/2009/363), regulation 2(4) of [S.R. 2011 No. 226](https://www.legislation.gov.uk/nisr/2011/226) and regulation 2 of [S.R. 2012 No. 163](https://www.legislation.gov.uk/nisr/2012/163)
 
-[^key-38dcf92a333ca6eedc1381f530e76c9a]: Commencement: Reg. 38 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-38dcf92a333ca6eedc1381f530e76c9a]: Commencement: Reg. 38 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00144]: Footnote: [S.R. 1992 No. 341](https://www.legislation.gov.uk/nisr/1992/341); the Regulations were revoked in certain cases by [S.R. 2001 No. 17](https://www.legislation.gov.uk/nisr/2001/17) (as amended by [S.R. 2003 No. 91](https://www.legislation.gov.uk/nisr/2003/91)) and [S.R. 2012 No. 438](https://www.legislation.gov.uk/nisr/2012/438)
 
@@ -2129,7 +2129,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00146]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
 
-[^key-aa347b256b78fa7c3bc5b9b187686281]: Commencement: Reg. 39 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-aa347b256b78fa7c3bc5b9b187686281]: Commencement: Reg. 39 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00147]: Footnote: [S.R. 1996 No. 541](https://www.legislation.gov.uk/nisr/1996/541); The Regulations were revoked in certain cases by [S.R. 2001 No. 17](https://www.legislation.gov.uk/nisr/2001/17) (amended by [S.R. 2003 No. 91](https://www.legislation.gov.uk/nisr/2003/91)) and [S.R. 2012 No. 438](https://www.legislation.gov.uk/nisr/2012/438)
 
@@ -2137,7 +2137,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00149]: Footnote: Regulation 12 was amended by regulation 6(3) of [S.R 2003 No. 84](https://www.legislation.gov.uk/nisr/2003/84), regulation 4(3) of [S.R. 2003 No. 469](https://www.legislation.gov.uk/nisr/2003/469) and regulation 21(4) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-d56a8357a48f3eb5e5b1b813437035c5]: Commencement: Reg. 40 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-d56a8357a48f3eb5e5b1b813437035c5]: Commencement: Reg. 40 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00150]: Footnote: [S.R. 2001 No.18](https://www.legislation.gov.uk/nisr/2001/18); The Regulations were revoked in certain cases by [S.R. 2012 No. 438](https://www.legislation.gov.uk/nisr/2012/438)
 
@@ -2147,15 +2147,15 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00153]: Footnote: Regulation 5(d) was amended by regulation 26(4) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-c5520a587c3cd813fdae02e0c09fa467]: Commencement: Reg. 41 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-c5520a587c3cd813fdae02e0c09fa467]: Commencement: Reg. 41 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00154]: Footnote: [S.R. 2012 No. 427](https://www.legislation.gov.uk/nisr/2012/427)
 
-[^key-07e5ffbe2b329b2c75bbd029adb8e35c]: Commencement: Reg. 42 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-07e5ffbe2b329b2c75bbd029adb8e35c]: Commencement: Reg. 42 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00155]: Footnote: [S.R. 1996 No. 438](https://www.legislation.gov.uk/nisr/1996/438)
 
-[^key-0e3b09505ddbda46e8bffa4895f73a52]: Commencement: Reg. 43 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-0e3b09505ddbda46e8bffa4895f73a52]: Commencement: Reg. 43 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00156]: Footnote: [S.R. 1996 No. 459](https://www.legislation.gov.uk/nisr/1996/459)
 
@@ -2167,7 +2167,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00160]: Footnote: Regulation 10 was amended by Article 12 (3) and (4) of [S.R. 1999 No. 472](https://www.legislation.gov.uk/nisr/1999/472) and regulation 5 of [S.R 2010 No. 345](https://www.legislation.gov.uk/nisr/2010/345)
 
-[^key-2460000682b604a1cb130d72ccb387e9]: Commencement: Reg. 44 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-2460000682b604a1cb130d72ccb387e9]: Commencement: Reg. 44 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00161]: Footnote: [S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58)
 
@@ -2189,7 +2189,7 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00170]: Footnote: SR. [2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
-[^key-a780690f63c8d2e2144fd5b929216802]: Commencement: Reg. 45 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-a780690f63c8d2e2144fd5b929216802]: Commencement: Reg. 45 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00171]: Footnote: [S.R. 2009 No. 373](https://www.legislation.gov.uk/nisr/2009/373)
 
@@ -2201,17 +2201,17 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00175]: Footnote: Regulation 59 was amended by regulation 13 of [S.R. 2012 No. 398](https://www.legislation.gov.uk/nisr/2012/398), regulation 11 of [S.R. 2013 No. 128](https://www.legislation.gov.uk/nisr/2013/128) and regulation 7 of [S.R.2013 No. 223](https://www.legislation.gov.uk/nisr/2013/223)
 
-[^key-96fb50921f55a4dcbf7a9e0c3174eff4]: Commencement: Reg. 46 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-96fb50921f55a4dcbf7a9e0c3174eff4]: Commencement: Reg. 46 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00176]: Footnote: [S.I. 2015/621](https://www.legislation.gov.uk/uksi/2015/621)
 
-[^key-d6b85a617e228fef4dbf39f54fbccb08]: Commencement: Reg. 47 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-d6b85a617e228fef4dbf39f54fbccb08]: Commencement: Reg. 47 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00177]: Footnote: [S.R. 2003 No. 464](https://www.legislation.gov.uk/nisr/2003/464)
 
 [^f00178]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-67e16c7e459f55eceb13726be5e5cc43]: Commencement: Reg. 48 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-67e16c7e459f55eceb13726be5e5cc43]: Commencement: Reg. 48 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00179]: Footnote: [S.R. 2004 No. 8](https://www.legislation.gov.uk/nisr/2004/8)
 
@@ -2219,15 +2219,15 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00181]: Footnote: Regulation 11 was amended by paragraph 19(2) of the Schedule to [S.I. 2005/520](https://www.legislation.gov.uk/uksi/2005/520) and regulation 8 of [S.R. 2006 No. 452](https://www.legislation.gov.uk/nisr/2006/452)
 
-[^key-d4de038cc36900f91f675243a835505d]: Commencement: Reg. 49 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-d4de038cc36900f91f675243a835505d]: Commencement: Reg. 49 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00182]: Footnote: [S.I. 2000/704](https://www.legislation.gov.uk/uksi/2000/704); regulation 4 was amended by regulation 11 of [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879) and regulation 59 of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
-[^key-428e1b649a805e16dbc5b3494b6fd5e4]: Commencement: Reg. 50 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-428e1b649a805e16dbc5b3494b6fd5e4]: Commencement: Reg. 50 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00183]: Footnote: [S.I. 2005/1379](https://www.legislation.gov.uk/uksi/2005/1379); regulation 14 was amended by paragraph 26 of Schedule 2 to [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217) and regulation 60 of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
-[^key-8640102884350d49343e1adcc5697908]: Commencement: Reg. 51 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-8640102884350d49343e1adcc5697908]: Commencement: Reg. 51 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00184]: Footnote: SR. [1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113)
 
@@ -2237,50 +2237,50 @@ An assessment has been made of the impact of universal credit. Copies of the Imp
 
 [^f00187]: Footnote: Regulation 8B was inserted by regulation 2(6) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430) and amended by regulation 3 of [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404), regulation 2 of [S.R. 2003 No. 151](https://www.legislation.gov.uk/nisr/2003/151), regulation 2(3) of [S.R. 2007 No. 306](https://www.legislation.gov.uk/nisr/2007/306), regulation 7(6) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and regulation 2(2) of [S.R. 2010 No. 109](https://www.legislation.gov.uk/nisr/2010/109)
 
-[^key-0bf24537df5d40e0c72ae78e537e2f1b]: Modification: Reg. 51(6) amended (6.4.2017) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [art. 30](https://www.legislation.gov.uk/nisr/2017/66/article/30), [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/regulation/1/2/c) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
+[^c-0bf24537df5d40e0c72ae78e537e2f1b]: Modification: Reg. 51(6) amended (6.4.2017) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [art. 30](https://www.legislation.gov.uk/nisr/2017/66/article/30), [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/regulation/1/2/c) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
 
-[^key-b05457be6f003223dae8298ce9ac4a4a]: Commencement: Reg. 52 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-b05457be6f003223dae8298ce9ac4a4a]: Commencement: Reg. 52 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00188]: Footnote: [S.R. 2001 No. 102](https://www.legislation.gov.uk/nisr/2001/102)
 
 [^f00189]: Footnote: The definition of “contributory employment and support allowance” was inserted by regulation 28(2)(c) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-f29d2a6754eafb060412b63e10600fba]: Commencement: Reg. 53 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-f29d2a6754eafb060412b63e10600fba]: Commencement: Reg. 53 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00190]: Footnote: [S.I. 2007/1398](https://www.legislation.gov.uk/uksi/2007/1398)
 
 [^f00191]: Footnote: The definition of “relevant benefit” was amended by regulation 3(2)(c) of [S.I. 2010/1825](https://www.legislation.gov.uk/uksi/2010/1825) and regulation 74(2) of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
-[^key-eafe10359134011bc9170263053b9ac4]: Commencement: Reg. 54 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-eafe10359134011bc9170263053b9ac4]: Commencement: Reg. 54 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00192]: Footnote: [S.R. 2006 No. 268](https://www.legislation.gov.uk/nisr/2006/268)
 
 [^f00193]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
-[^key-831afffc759d88b6829bd85d8a6ef633]: Commencement: Reg. 55 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-831afffc759d88b6829bd85d8a6ef633]: Commencement: Reg. 55 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00194]: Footnote: [S.R. 2009 No. 79](https://www.legislation.gov.uk/nisr/2009/79)
 
-[^key-29c5be828ee054e62383fe7075c5e75d]: Commencement: Reg. 56 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-29c5be828ee054e62383fe7075c5e75d]: Commencement: Reg. 56 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00195]: Footnote: [S.I. 2002/3036](https://www.legislation.gov.uk/uksi/2002/3036); Regulation 5 was amended by regulation 80 of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
-[^key-0c5da7f72417f4dfcf73d900425909be]: Commencement: Reg. 57 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-0c5da7f72417f4dfcf73d900425909be]: Commencement: Reg. 57 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00196]: Footnote: [S.I. 2003/492](https://www.legislation.gov.uk/uksi/2003/492); Regulation 19 was amended by regulation 2(5) of [S.I. 2006/203](https://www.legislation.gov.uk/uksi/2006/203), regulation 3(4) of [S.I 2009/3268](https://www.legislation.gov.uk/uksi/2009/3268) and regulation 81 of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
-[^key-4090237f7485d04d0a64f81278d14808]: Commencement: Reg. 58 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-4090237f7485d04d0a64f81278d14808]: Commencement: Reg. 58 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00197]: Footnote: [S.I. 2003/494](https://www.legislation.gov.uk/uksi/2003/494); Regulation 5 was amended by regulation 3(3) of [S.I. 2006/203](https://www.legislation.gov.uk/uksi/2006/203) and regulation 82 of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
-[^key-965fed09050e2c49c3126a3953f8b31c]: Commencement: Reg. 59 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-965fed09050e2c49c3126a3953f8b31c]: Commencement: Reg. 59 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00198]: Footnote: [S.I. 2003/2682](https://www.legislation.gov.uk/uksi/2003/2682); Regulation 148 was amended by regulation 83 of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
-[^key-993e6ce30ba1239523e8c835d6a70d33]: Commencement: Reg. 60 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-993e6ce30ba1239523e8c835d6a70d33]: Commencement: Reg. 60 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00199]: Footnote: [S.I. 2006/223](https://www.legislation.gov.uk/uksi/2006/223); Regulation 8 was amended by regulation 24 of [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879), regulation 11 of [S.R. 2008 No. 412](https://www.legislation.gov.uk/nisr/2008/412) and regulation 84 of [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630)
 
-[^key-6e77961e3da64460d1109f43b034fba6]: Commencement: Reg. 61 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
+[^c-6e77961e3da64460d1109f43b034fba6]: Commencement: Reg. 61 comes into operation in accordance with [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1)
 
 [^f00200]: Footnote: [S.R. 2015 No. 196](https://www.legislation.gov.uk/nisr/2015/196)

@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL ASSISTANCE SERVICES, WALES
 
-The National Assistance (Sums for Personal Requirements) and National Assistance (Assessment of Resources) (Amendment) (Wales) Regulations 2013 (revoked)[^key-dd656ce24ddb99923dbc3fa0208b0e07]
+The National Assistance (Sums for Personal Requirements) and National Assistance (Assessment of Resources) (Amendment) (Wales) Regulations 2013 (revoked)[^c-dd656ce24ddb99923dbc3fa0208b0e07]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 8 April 2013
 
-[^key-dd656ce24ddb99923dbc3fa0208b0e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd656ce24ddb99923dbc3fa0208b0e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-dd656ce24ddb99923dbc3fa0208b0e07]
+## 1. Title, commencement and application[^c-dd656ce24ddb99923dbc3fa0208b0e07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 1 — Sums for Personal Requirements[^key-dd656ce24ddb99923dbc3fa0208b0e07]
+## PART 1 — Sums for Personal Requirements[^c-dd656ce24ddb99923dbc3fa0208b0e07]
 
-### 2. Sums needed for personal requirements[^key-dd656ce24ddb99923dbc3fa0208b0e07]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Revocation[^key-dd656ce24ddb99923dbc3fa0208b0e07]
+### 2. Sums needed for personal requirements[^c-dd656ce24ddb99923dbc3fa0208b0e07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Assessment of Resources[^key-dd656ce24ddb99923dbc3fa0208b0e07]
-
-### 4. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^key-dd656ce24ddb99923dbc3fa0208b0e07]
+### 3. Revocation[^c-dd656ce24ddb99923dbc3fa0208b0e07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd656ce24ddb99923dbc3fa0208b0e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 2 — Assessment of Resources[^c-dd656ce24ddb99923dbc3fa0208b0e07]
+
+### 4. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^c-dd656ce24ddb99923dbc3fa0208b0e07]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-dd656ce24ddb99923dbc3fa0208b0e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dd656ce24ddb99923dbc3fa0208b0e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd656ce24ddb99923dbc3fa0208b0e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd656ce24ddb99923dbc3fa0208b0e07]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/631) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-dd656ce24ddb99923dbc3fa0208b0e07]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/631) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

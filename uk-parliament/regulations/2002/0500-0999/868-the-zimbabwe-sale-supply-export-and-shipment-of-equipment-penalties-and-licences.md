@@ -31,7 +31,7 @@ summary: ''
 
 CUSTOMS AND EXCISE
 
-The Zimbabwe (Sale, Supply, Export and Shipment of Equipment) (Penalties and Licences) Regulations 2002 (revoked)[^key-ad203388040d35efe2dddfd8be0a802d]
+The Zimbabwe (Sale, Supply, Export and Shipment of Equipment) (Penalties and Licences) Regulations 2002 (revoked)[^c-ad203388040d35efe2dddfd8be0a802d]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 31st March 2002
 
-[^key-ad203388040d35efe2dddfd8be0a802d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad203388040d35efe2dddfd8be0a802d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-ad203388040d35efe2dddfd8be0a802d]
+## 1.[^c-ad203388040d35efe2dddfd8be0a802d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-ad203388040d35efe2dddfd8be0a802d]
+## 2.[^c-ad203388040d35efe2dddfd8be0a802d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-ad203388040d35efe2dddfd8be0a802d]
+## 3.[^c-ad203388040d35efe2dddfd8be0a802d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-ad203388040d35efe2dddfd8be0a802d]
+## 4.[^c-ad203388040d35efe2dddfd8be0a802d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad203388040d35efe2dddfd8be0a802d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad203388040d35efe2dddfd8be0a802d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ad203388040d35efe2dddfd8be0a802d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad203388040d35efe2dddfd8be0a802d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad203388040d35efe2dddfd8be0a802d]: Textual amendment: Regulations revoked (8.3.2004) by [The Zimbabwe (Sale, Supply, Export, Technical Assistance, Financing and Financial Assistance and Shipment of Equipment) (Penalties and Licences) Regulations 2004 (S.I. 2004/559)](https://www.legislation.gov.uk/uksi/2004/559), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/559/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/559/schedule/I)
+[^c-ad203388040d35efe2dddfd8be0a802d]: Textual amendment: Regulations revoked (8.3.2004) by [The Zimbabwe (Sale, Supply, Export, Technical Assistance, Financing and Financial Assistance and Shipment of Equipment) (Penalties and Licences) Regulations 2004 (S.I. 2004/559)](https://www.legislation.gov.uk/uksi/2004/559), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/559/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/559/schedule/I)

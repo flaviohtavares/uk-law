@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1A — Designated courses[^key-8721fec320af66819dc7e55c725755a3]
+## SCHEDULE 1A — Designated courses[^c-8721fec320af66819dc7e55c725755a3]
 
 *Extent: E+W*
 
@@ -139,4 +139,4 @@ Regulation 5(b)
 
 ## Annotations
 
-[^key-8721fec320af66819dc7e55c725755a3]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/wsi/2018/191/schedule/1A) inserted (31.8.2025) by [The Education (Student Support) (Wales) (Amendment) Regulations 2025 (S.I. 2025/981)](https://www.legislation.gov.uk/wsi/2025/981), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/981/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2025/981/regulation/6)
+[^c-8721fec320af66819dc7e55c725755a3]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/wsi/2018/191/schedule/1A) inserted (31.8.2025) by [The Education (Student Support) (Wales) (Amendment) Regulations 2025 (S.I. 2025/981)](https://www.legislation.gov.uk/wsi/2025/981), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/981/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2025/981/regulation/6)

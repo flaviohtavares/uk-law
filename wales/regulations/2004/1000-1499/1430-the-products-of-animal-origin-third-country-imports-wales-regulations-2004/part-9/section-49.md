@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Additional documentation for returned products[^key-45ad4eb01abf5db6cdd0fe4374ded436]
+## 49. Additional documentation for returned products[^c-45ad4eb01abf5db6cdd0fe4374ded436]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45ad4eb01abf5db6cdd0fe4374ded436]: Textual amendment: Regulations revoked (15.3.2005) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2005 (S.I. 2005/666)](https://www.legislation.gov.uk/uksi/2005/666), [regs. 1](https://www.legislation.gov.uk/uksi/2005/666/regulation/1), [68](https://www.legislation.gov.uk/uksi/2005/666/regulation/68) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/666/regulation/3))
+[^c-45ad4eb01abf5db6cdd0fe4374ded436]: Textual amendment: Regulations revoked (15.3.2005) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2005 (S.I. 2005/666)](https://www.legislation.gov.uk/uksi/2005/666), [regs. 1](https://www.legislation.gov.uk/uksi/2005/666/regulation/1), [68](https://www.legislation.gov.uk/uksi/2005/666/regulation/68) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/666/regulation/3))

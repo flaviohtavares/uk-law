@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Exceptional circumstances[^key-a782764e05fb9cd37519c1705232068a]
+## 25. Exceptional circumstances[^c-a782764e05fb9cd37519c1705232068a]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ or such part of such evidence as constitutes the most reliable evidence availabl
 
 ## Annotations
 
-[^key-a782764e05fb9cd37519c1705232068a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2016/219/regulation/25) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-a782764e05fb9cd37519c1705232068a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2016/219/regulation/25) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

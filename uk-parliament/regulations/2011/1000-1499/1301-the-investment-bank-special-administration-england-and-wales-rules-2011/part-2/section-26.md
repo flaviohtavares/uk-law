@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Making, transmission and advertisement of order[^key-239ee1ca95d0516a89f17b234948eae7]
+## 26. Making, transmission and advertisement of order[^c-239ee1ca95d0516a89f17b234948eae7]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) The administrator shall send 2 copies of the order—
 
-- (a) to the Bank of England, the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-6d9a5ed6cc79beb1b19775db3256f773] and the FSCS; and
+- (a) to the Bank of England, the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-6d9a5ed6cc79beb1b19775db3256f773] and the FSCS; and
 - (b) if there is in force for the investment bank a voluntary arrangement under Part 1 of the 1986 Act, the supervisor of that arrangement,
 
 in accordance with paragraph (6).
@@ -39,6 +39,6 @@ in accordance with paragraph (6).
 
 ## Annotations
 
-[^key-239ee1ca95d0516a89f17b234948eae7]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2011/1301/rule/26) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-239ee1ca95d0516a89f17b234948eae7]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2011/1301/rule/26) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-6d9a5ed6cc79beb1b19775db3256f773]: Textual amendment: Words in [art. 26(5)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/26/5/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-6d9a5ed6cc79beb1b19775db3256f773]: Textual amendment: Words in [art. 26(5)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/26/5/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

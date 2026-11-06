@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89A. Restriction on which third parties may incur controlled expenditure[^key-f71b4c5a3506ba8af4bb87f7d3fddffb]
+## 89A. Restriction on which third parties may incur controlled expenditure[^c-f71b4c5a3506ba8af4bb87f7d3fddffb]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f71b4c5a3506ba8af4bb87f7d3fddffb]: Textual amendment: S. 89A and cross-heading inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/2), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/4)); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-f71b4c5a3506ba8af4bb87f7d3fddffb]: Textual amendment: S. 89A and cross-heading inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/2), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/4)); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

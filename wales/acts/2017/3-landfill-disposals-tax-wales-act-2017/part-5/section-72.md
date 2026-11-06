@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Liability of personal representatives[^key-607c7f895b52e8ce8879c94fd84146f4]
+## 72. Liability of personal representatives[^c-607c7f895b52e8ce8879c94fd84146f4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-607c7f895b52e8ce8879c94fd84146f4]: Commencement: [S. 72](https://www.legislation.gov.uk/anaw/2017/3/section/72) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(v)](https://www.legislation.gov.uk/wsi/2018/35/article/2/v)
+[^c-607c7f895b52e8ce8879c94fd84146f4]: Commencement: [S. 72](https://www.legislation.gov.uk/anaw/2017/3/section/72) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(v)](https://www.legislation.gov.uk/wsi/2018/35/article/2/v)

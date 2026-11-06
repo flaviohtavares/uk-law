@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Satisfaction of external order[^key-689f3ad66b3e627c30afe59bad0d8a45]
+## 123. Satisfaction of external order[^c-689f3ad66b3e627c30afe59bad0d8a45]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-689f3ad66b3e627c30afe59bad0d8a45]: Commencement: [Art. 123](https://www.legislation.gov.uk/uksi/2005/3181/article/123) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-689f3ad66b3e627c30afe59bad0d8a45]: Commencement: [Art. 123](https://www.legislation.gov.uk/uksi/2005/3181/article/123) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

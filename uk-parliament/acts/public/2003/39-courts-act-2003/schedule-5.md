@@ -26,13 +26,13 @@ Section 97(1)
 
 #### Application of Schedule[^c19121361]
 
-**1.**[^c19135151] (1 (Extent: N.I.))[^key-cd10b1c4e7900eec4c4104fdbd83a12b] This Schedule, apart from Part 3B, *(Extent: N.I.)*[^key-2e566cd3786147e4f3081724d544d7f3] applies if a person aged 18 or over (“P”) is liable to pay a sum which is or is treated for the purposes of Part 3 of the 1980 Act as a sum adjudged to be paid by a conviction of a magistrates' court.
+**1.**[^c19135151] (1 (Extent: N.I.))[^c-cd10b1c4e7900eec4c4104fdbd83a12b] This Schedule, apart from Part 3B, *(Extent: N.I.)*[^c-2e566cd3786147e4f3081724d544d7f3] applies if a person aged 18 or over (“P”) is liable to pay a sum which is or is treated for the purposes of Part 3 of the 1980 Act as a sum adjudged to be paid by a conviction of a magistrates' court.
 
 *Extent: N.I.*
 
-(2)[^key-c4aed1a4c53ca2f048029dfbf3ea2cbb] Part 3B applies in a case where Chapter 1 of Part 1 of the Justice Act (Northern Ireland) 2016 (collection of fines etc.) applies.
+(2)[^c-c4aed1a4c53ca2f048029dfbf3ea2cbb] Part 3B applies in a case where Chapter 1 of Part 1 of the Justice Act (Northern Ireland) 2016 (collection of fines etc.) applies.
 
-(2)[^key-d48903ab669a4c7d42a8e55776230f84] A sum payable under a notice of conviction and penalty (within the meaning of section 16L of the Magistrates’ Courts Act 1980) is not to be regarded as a sum within sub-paragraph (1); but this Schedule applies in relation to such sums as provided in paragraphs 10A, 21(2), 25(2), 29(2) and 37(1A).
+(2)[^c-d48903ab669a4c7d42a8e55776230f84] A sum payable under a notice of conviction and penalty (within the meaning of section 16L of the Magistrates’ Courts Act 1980) is not to be regarded as a sum within sub-paragraph (1); but this Schedule applies in relation to such sums as provided in paragraphs 10A, 21(2), 25(2), 29(2) and 37(1A).
 
 (3) For the purposes of this Schedule as it applies as mentioned in paragraph 1(2), “**the fines officer**” means any fines officer.
 
@@ -40,14 +40,14 @@ Section 97(1)
 
 *Extent: E+W*
 
-**2.**[^c19122961] (1) In this Schedule “**the sum due**” means the sum adjudged to be paid as mentioned in paragraph 1(1), or (in a case where this Schedule applies as mentioned in paragraph 1[^key-1bb76dc85bb8e104f225e1b4c3b8673b](2)) the sum payable under a notice of conviction and penalty.
+**2.**[^c19122961] (1) In this Schedule “**the sum due**” means the sum adjudged to be paid as mentioned in paragraph 1(1), or (in a case where this Schedule applies as mentioned in paragraph 1[^c-1bb76dc85bb8e104f225e1b4c3b8673b](2)) the sum payable under a notice of conviction and penalty.
 
 (2) For the purposes of this Schedule—
 
 - a “**fine**” does not include any pecuniary forfeiture or pecuniary compensation payable on conviction; and
-- “**a sum required to be paid by a compensation order**” means any sum required to be paid by an order made under section 130(1) of the Powers of Criminal Courts (Sentencing) Act 2000 or Chapter 2 of Part 7 of the Sentencing Code[^key-4f0025bc935cf2d04be74500d895913f] ;[^key-f409991d847856024e75436e629b1082] [^key-874378b25a3c7423af131fad1081f413]...
+- “**a sum required to be paid by a compensation order**” means any sum required to be paid by an order made under section 130(1) of the Powers of Criminal Courts (Sentencing) Act 2000 or Chapter 2 of Part 7 of the Sentencing Code[^c-4f0025bc935cf2d04be74500d895913f] ;[^c-f409991d847856024e75436e629b1082] [^c-874378b25a3c7423af131fad1081f413]...
 - “**a sum required to be paid by an unlawful profit order**” means any sum required to be paid by an order made under section 4 of the Prevention of Social Housing Fraud Act 2013
-- “[^key-fdac65b3502b5d960c6a7c170fe25b06]**a sum required to be paid by a slavery and trafficking reparation order**” means any sum required to be paid by an order made under section 8 of the Modern Slavery Act 2015.
+- “[^c-fdac65b3502b5d960c6a7c170fe25b06]**a sum required to be paid by a slavery and trafficking reparation order**” means any sum required to be paid by an order made under section 8 of the Modern Slavery Act 2015.
 
 #### Meaning of “existing defaulter” etc.
 
@@ -60,8 +60,8 @@ Section 97(1)
   - (i) section 71 of the Road Traffic Offenders Act 1988,
   - (ii) section 9 of the Criminal Justice and Police Act 2001, or
   - (iii) any other enactment specified in fines collection regulations,
-- (c) he is in default on a collection order in respect of another sum falling within paragraph 1(1),[^key-88eb07894c5201dfcf5629c3dcb0595c]
-- (d) he is in default in payment of another sum falling within paragraph 1(1)[^key-4ac76758743e185c67279b5b403d85a6] but in respect of which no collection order has been made , or[^key-f93ca3b3cfbd00114b7a25117b4f06c9]
+- (c) he is in default on a collection order in respect of another sum falling within paragraph 1(1),[^c-88eb07894c5201dfcf5629c3dcb0595c]
+- (d) he is in default in payment of another sum falling within paragraph 1(1)[^c-4ac76758743e185c67279b5b403d85a6] but in respect of which no collection order has been made , or[^c-f93ca3b3cfbd00114b7a25117b4f06c9]
 - (e) the person is in default on a notice of conviction and penalty (within the meaning of section 16L of the Magistrates’ Courts Act 1980).
 
 (2) For the purposes of this Schedule, P’s existing default can be disregarded only if he shows that there was an adequate reason for it.
@@ -121,7 +121,7 @@ The court must make an order—
 
 #### Application of Part
 
-**7.**[^c19068331] (1)[^c19123501] This Part does not apply where the court is hearing P's case following an appeal under paragraph 23, 32 or , 37(9) or 37A(4)[^key-cbb163c0b406d61e5c969f868c17655f].
+**7.**[^c19068331] (1)[^c19123501] This Part does not apply where the court is hearing P's case following an appeal under paragraph 23, 32 or , 37(9) or 37A(4)[^c-cbb163c0b406d61e5c969f868c17655f].
 
 (2) In the following provisions of this Part, “**the relevant court**” means—
 
@@ -137,7 +137,7 @@ is an order or application to secure the payment of the whole of the sum due.
 
 #### Attachment of earnings order or application for benefit deductions where P is liable to pay compensation[^c19126931]
 
-**7A.** (1) This paragraph applies if the sum due consists of or includes a sum required to be paid by a compensation order, an unlawful profit order or a slavery and trafficking reparation order[^key-5b56d68096a4a95b243e8f5ca601b8ea].
+**7A.** (1) This paragraph applies if the sum due consists of or includes a sum required to be paid by a compensation order, an unlawful profit order or a slavery and trafficking reparation order[^c-5b56d68096a4a95b243e8f5ca601b8ea].
 
 (2) The relevant court must make an attachment of earnings order if it appears to the court—
 
@@ -184,15 +184,15 @@ is an order or application to secure the payment of the whole of the sum due.
 
 if P consents.
 
-### Part 3A — Disclosure of information, and meaning of "relevant benefit" etc[^key-d5868bdc752437ee92e6191ead980f34]
+### Part 3A — Disclosure of information, and meaning of "relevant benefit" etc[^c-d5868bdc752437ee92e6191ead980f34]
 
 *Extent: E+W*
 
-#### Disclosure of information in connection with making of attachment of earnings order or application for benefit deductions[^c20885111][^key-164bf80c3f7fad975f2d8059c67bc391]
+#### Disclosure of information in connection with making of attachment of earnings order or application for benefit deductions[^c20885111][^c-164bf80c3f7fad975f2d8059c67bc391]
 
 *Extent: E+W+S+N.I.*
 
-**9A.**[^key-57c002afb7398c0b1ce784d94ca47b2a][^M_F_5a091be8-7760-4daf-c267-dd721929953c] (1) The Secretary of State or a Northern Ireland department, or a person providing services to the Secretary of State or a Northern Ireland department, may disclose social security information to a relevant person.
+**9A.**[^c-57c002afb7398c0b1ce784d94ca47b2a][^M_F_5a091be8-7760-4daf-c267-dd721929953c] (1) The Secretary of State or a Northern Ireland department, or a person providing services to the Secretary of State or a Northern Ireland department, may disclose social security information to a relevant person.
 
 (1A) Her Majesty's Revenue and Customs, or a person providing services to the Commissioners for Her Majesty's Revenue and Customs, may disclose finances information to a relevant person.
 
@@ -246,11 +246,11 @@ if P consents.
   - (ii) to a fine, or
   - (iii) to both;
 - (b) on summary conviction—
-  - (i) to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-aadcd0a9bc150b0c17c0aef50b53b7b6], or
+  - (i) to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-aadcd0a9bc150b0c17c0aef50b53b7b6], or
   - (ii) to a fine not exceeding the statutory maximum, or
   - (iii) to both.
 
-(6)[^M_F_fc9cd2c2-aeeb-4f6d-abff-baf838bbc400] Sub-paragraph (5)(b) applies in relation to offences committed before 2 May 2022[^key-e2a5eec64748daac3d8c6d861a863c62] (general limit on power of magistrates' courts to impose imprisonment) as if the reference to the general limit in a magistrates’ court[^key-b8b6e79de8834c8d283b6faa3541a940] were a reference to 6 months.
+(6)[^M_F_fc9cd2c2-aeeb-4f6d-abff-baf838bbc400] Sub-paragraph (5)(b) applies in relation to offences committed before 2 May 2022[^c-e2a5eec64748daac3d8c6d861a863c62] (general limit on power of magistrates' courts to impose imprisonment) as if the reference to the general limit in a magistrates’ court[^c-b8b6e79de8834c8d283b6faa3541a940] were a reference to 6 months.
 
 (7) A prosecution for an offence under sub-paragraph (2) may be instituted only by or with the consent of the Director of Public Prosecutions.
 
@@ -258,7 +258,7 @@ if P consents.
 
 *Extent: E+W+S+N.I.*
 
-**9C.**[^key-2943390dd9c2daae5b726ef98673a96c] (1) Sub-paragraphs (3) and (3A) apply[^M_F_bb7f5798-9072-4dbf-b3a1-7b0171094941] for the purposes of paragraphs 9A and 9B.
+**9C.**[^c-2943390dd9c2daae5b726ef98673a96c] (1) Sub-paragraphs (3) and (3A) apply[^M_F_bb7f5798-9072-4dbf-b3a1-7b0171094941] for the purposes of paragraphs 9A and 9B.
 
 (2)[^M_F_cfa5dfc6-8b96-407e-a257-409543c3a709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -281,16 +281,16 @@ if P consents.
 
 *Extent: E+W+S+N.I.*
 
-**10.**[^c19068361][^key-79f78d3dbed8bfb51f3801c32a4bcf9f] In this Schedule—
+**10.**[^c19068361][^c-79f78d3dbed8bfb51f3801c32a4bcf9f] In this Schedule—
 
-- (a) “**relevant benefit**” means a benefit from which the Secretary of State may make deductions by virtue of section 24 of the Criminal Justice Act 1991 (recovery of fines etc. by deductions from universal credit and[^key-33902898f3d332ed7e2afa7797cdb799] income support etc.), and
+- (a) “**relevant benefit**” means a benefit from which the Secretary of State may make deductions by virtue of section 24 of the Criminal Justice Act 1991 (recovery of fines etc. by deductions from universal credit and[^c-33902898f3d332ed7e2afa7797cdb799] income support etc.), and
 - (b) “**application for benefit deductions**”, in relation to a relevant benefit, means an application to the Secretary of State asking him to deduct sums from any amounts payable to P by way of the benefit.
 
-#### Application of this Part to person with automatic online conviction[^key-503b58683e6b949f60036c4f87ea4306]
+#### Application of this Part to person with automatic online conviction[^c-503b58683e6b949f60036c4f87ea4306]
 
 **10A.** This Part of this Schedule applies to a person who has been given a notice of conviction and penalty (within the meaning of section 16L of the Magistrates’ Courts Act 1980) as it applies to P.
 
-### PART 3B — JUSTICE ACT (NORTHERN IRELAND) 2016: INFORMATION SHARING[^key-f1185b2d82ca576f7cc72c4a3d02595f]
+### PART 3B — JUSTICE ACT (NORTHERN IRELAND) 2016: INFORMATION SHARING[^c-f1185b2d82ca576f7cc72c4a3d02595f]
 
 *Extent: N.I.*
 
@@ -326,12 +326,12 @@ if P consents.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or both.
 
-(7) Nothing in this paragraph authorises the making of a disclosure which contravenes the data protection legislation[^key-e4fe8ad4a96110eb88141ed3cac3f192].
+(7) Nothing in this paragraph authorises the making of a disclosure which contravenes the data protection legislation[^c-e4fe8ad4a96110eb88141ed3cac3f192].
 
 (8) In this paragraph—
 
 - “attachment of earnings order” and “collection officer” each have the same meaning as in Chapter 1 of Part 1 of the Justice Act (Northern Ireland) 2016 (see section 27(1) of that Act);
-- “[^key-d33269d9018c3f83d41737887f9e420f]**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+- “[^c-d33269d9018c3f83d41737887f9e420f]**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
 - “information” means information held in any form;
 - “statutory provision” has the same meaning as in the Interpretation Act (Northern Ireland) 1954 (see section 1(f) of that Act).
 
@@ -356,15 +356,15 @@ if P consents.
 **13.**[^c19068451] (1) The collection order must—
 
 - (a)[^c19127121] state the amount of the sum due,
-- (aa) where that sum consists of or includes a fine, a sum required to be paid by a compensation order[^M_F_16b3cbe2-ca10-4779-8e14-42a254a35fe9], a sum[^key-e39be3dfe5cbe23bba13965aa86b32e3] required to be paid by an unlawful profit order or a sum required to be paid by a slavery and trafficking reparation order[^key-321c57b1b33ece75e1fb0cdab17068b8], state—
-  - (i)[^key-dc77cf8d8e9fe4078b54055ee987e29b] the amount of the fine, the amount required to be paid by the compensation order , the[^key-3b3b1be39283b76c4dca88797af4d4e5] amount required to be paid by the unlawful profit order or the amount required to be paid by the slavery and trafficking reparation order[^key-043e781d1aabc625cb53b3587bd2c1a9] (or, where that sum consists of or includes two or more of those amounts, each of those amounts),
+- (aa) where that sum consists of or includes a fine, a sum required to be paid by a compensation order[^M_F_16b3cbe2-ca10-4779-8e14-42a254a35fe9], a sum[^c-e39be3dfe5cbe23bba13965aa86b32e3] required to be paid by an unlawful profit order or a sum required to be paid by a slavery and trafficking reparation order[^c-321c57b1b33ece75e1fb0cdab17068b8], state—
+  - (i)[^c-dc77cf8d8e9fe4078b54055ee987e29b] the amount of the fine, the amount required to be paid by the compensation order , the[^c-3b3b1be39283b76c4dca88797af4d4e5] amount required to be paid by the unlawful profit order or the amount required to be paid by the slavery and trafficking reparation order[^c-043e781d1aabc625cb53b3587bd2c1a9] (or, where that sum consists of or includes two or more of those amounts, each of those amounts),
   - (ii) the amount of any other part of the sum due,
 - (b) state the court’s conclusions as to whether P is an existing defaulter and if so whether the existing default (or defaults) can be disregarded,
 - (c) if the court has made an attachment of earnings order or an application for benefit deductions, state that fact,
 - (d) specify the fines office to which the order is allocated, and
 - (e) contain information about the effect of the order.
 
-(2) In this Schedule “**the fines officer**”, in relation to P and a collection order[^key-5a49be28f28729cb80a6c6ad3482ae69], means any fines officer working at the fines office specified in the collection order.
+(2) In this Schedule “**the fines officer**”, in relation to P and a collection order[^c-5a49be28f28729cb80a6c6ad3482ae69], means any fines officer working at the fines office specified in the collection order.
 
 #### Contents of collection orders: no attachment of earnings order etc. made
 
@@ -438,12 +438,12 @@ For the purposes of this Schedule, P is in default on a collection order if he f
 
 #### Application of Part
 
-**21.**[^key-0c225967d45708f8af2c4b4c4620b5b9] (1)[^key-db535f088b4b1c8e9cffd52c1ef843d0] This Part applies if—
+**21.**[^c-0c225967d45708f8af2c4b4c4620b5b9] (1)[^c-db535f088b4b1c8e9cffd52c1ef843d0] This Part applies if—
 
 - (a) the court has made a collection order, and
 - (b) the order contains payment terms but does not contain reserve terms.
 
-(2)[^key-e39b180be1f8aec4416a44ec2e99f4f5] This Part also applies if a person (“**P**”) has been given a notice of conviction and penalty (within the meaning of section 16L of the Magistrates’ Courts Act 1980).
+(2)[^c-e39b180be1f8aec4416a44ec2e99f4f5] This Part also applies if a person (“**P**”) has been given a notice of conviction and penalty (within the meaning of section 16L of the Magistrates’ Courts Act 1980).
 
 (3) In the application of this Part in such a case—
 
@@ -453,9 +453,9 @@ For the purposes of this Schedule, P is in default on a collection order if he f
 
 #### Application to fines officer for variation of order or attachment of earnings order etc.
 
-**22.**[^c19072901] (1)[^key-da49f95e34a7a3493aa1be1ca080001a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c19072901] (1)[^c-da49f95e34a7a3493aa1be1ca080001a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) P may at any time apply to the fines officer under this paragraph for[^key-df08bf51a9a54f5231408c306a239a0a] —
+(2) P may at any time apply to the fines officer under this paragraph for[^c-df08bf51a9a54f5231408c306a239a0a] —
 
 - (a) the payment terms to be varied, or
 - (b) an attachment of earnings order or application for benefit deductions to be made.
@@ -467,10 +467,10 @@ For the purposes of this Schedule, P is in default on a collection order if he f
 
 (4) On an application under sub-paragraph (2)(a), the fines officer may decide—
 
-- (a) to vary the payment terms [^key-13afe45c0d4a99d7b8e4a36850f8a4ef]..., or
+- (a) to vary the payment terms [^c-13afe45c0d4a99d7b8e4a36850f8a4ef]..., or
 - (b) not to vary them.
 
-(4A)[^key-0ad8283e15b7c497c11a22927a8af045] The fines officer may not vary the payment terms under sub-paragraph (4)(a) so that they are less favourable to P without P's consent.
+(4A)[^c-0ad8283e15b7c497c11a22927a8af045] The fines officer may not vary the payment terms under sub-paragraph (4)(a) so that they are less favourable to P without P's consent.
 
 (5) On an application under sub-paragraph (2)(b), the fines officer may decide—
 
@@ -479,7 +479,7 @@ For the purposes of this Schedule, P is in default on a collection order if he f
 
 (6) If he decides to make an order or application he must vary the collection order so that it states reserve terms.
 
-(7)[^key-b85f7288bb6924c8d7f8d742dedc0991] The fines officer may not vary the order so that it states reserve terms which are less favourable to P than the payment terms without P's consent.
+(7)[^c-b85f7288bb6924c8d7f8d742dedc0991] The fines officer may not vary the order so that it states reserve terms which are less favourable to P than the payment terms without P's consent.
 
 (8) A decision of the fines officer under this paragraph must be in writing, dated and delivered to P.
 
@@ -529,13 +529,13 @@ is that the collection order has effect as varied by the fines officer.
 
 #### Application of Part
 
-**25.**[^c19072961] (1)[^key-e3252b050c2e38e71cbd7376dd086c7b] This Part applies on the first occasion on which P is in default on a collection order containing payment terms and none of the following is pending—
+**25.**[^c19072961] (1)[^c-e3252b050c2e38e71cbd7376dd086c7b] This Part applies on the first occasion on which P is in default on a collection order containing payment terms and none of the following is pending—
 
-- (a)[^key-dccf79adbf86fdaf3f11db00da25f988] an application to a fines officer under paragraph 22 (application for variation of order or for attachment of earnings order etc) that was made at a time when P was not in default on the collection order;
+- (a)[^c-dccf79adbf86fdaf3f11db00da25f988] an application to a fines officer under paragraph 22 (application for variation of order or for attachment of earnings order etc) that was made at a time when P was not in default on the collection order;
 - (b) an appeal under paragraph 23 against a decision of a fines officer on an application described in paragraph (a);
 - (c) a reference under paragraph 42 (power of fines officer to refer case to magistrates' court).
 
-(2)[^key-9458ddc73f991cfb91cb2ffb3b3aceb5] This Part also applies on the first occasion on which a person (“**P**”) is in default on a notice of conviction and penalty (within the meaning of section 16L of the Magistrates’ Courts Act 1980).
+(2)[^c-9458ddc73f991cfb91cb2ffb3b3aceb5] This Part also applies on the first occasion on which a person (“**P**”) is in default on a notice of conviction and penalty (within the meaning of section 16L of the Magistrates’ Courts Act 1980).
 
 #### Attachment of earnings order or application for benefit deductions to be made
 
@@ -565,12 +565,12 @@ is that the collection order has effect as varied by the fines officer.
 
 #### Application of Part
 
-**29.**[^c19073451] (1)[^key-17ea04f71aeb04e70dcf924d9f9f7c96] This Part applies if—
+**29.**[^c19073451] (1)[^c-17ea04f71aeb04e70dcf924d9f9f7c96] This Part applies if—
 
 - (a) a collection order contains reserve terms, and
 - (b) the attachment of earnings order or application for benefit deductions made under Part 3 or 6 fails.
 
-(2)[^key-4abeec0002a487862baa7791083f8dd7] This Part also applies if (through the application of Part 6 by virtue of paragraph 21(2))—
+(2)[^c-4abeec0002a487862baa7791083f8dd7] This Part also applies if (through the application of Part 6 by virtue of paragraph 21(2))—
 
 - (a) a notice of conviction and penalty (within the meaning of section 16L of the Magistrates’ Courts Act 1980) contains reserve terms, and
 - (b) the attachment of earnings order or application for benefit deductions made under Part 6 fails.
@@ -585,7 +585,7 @@ is that the collection order has effect as varied by the fines officer.
 
 #### Application to fines officer for variation of reserve terms
 
-**31.**[^c19074321] (1)[^key-cec38c0d452690551524e7925a5721c3] P may, at any time after the date of a payment notice under paragraph 30, apply to the fines officer for the reserve terms to be varied.
+**31.**[^c19074321] (1)[^c-cec38c0d452690551524e7925a5721c3] P may, at any time after the date of a payment notice under paragraph 30, apply to the fines officer for the reserve terms to be varied.
 
 (2) No application may be made under sub-paragraph (1) unless—
 
@@ -594,10 +594,10 @@ is that the collection order has effect as varied by the fines officer.
 
 (3) On such an application being made, the fines officer may decide—
 
-- (a) to vary the reserve terms [^key-f8c94e8b2b8ebde4d737b6d1f4fe0cb9]..., or
+- (a) to vary the reserve terms [^c-f8c94e8b2b8ebde4d737b6d1f4fe0cb9]..., or
 - (b) not to vary them.
 
-(3A)[^key-588c63c8ac509958c621fb68ffb00acb] The fines officer may not vary the reserve terms under sub-paragraph (3)(a) so that they are less favourable to P without P's consent.
+(3A)[^c-588c63c8ac509958c621fb68ffb00acb] The fines officer may not vary the reserve terms under sub-paragraph (3)(a) so that they are less favourable to P without P's consent.
 
 (4) A decision of the fines officer under this paragraph must be in writing, dated and delivered to P.
 
@@ -639,11 +639,11 @@ is that the collection order has effect as varied by the fines officer.
 - (a) P is in default on a collection order,
 - (b) paragraph 26 does not apply, and
 - (c) none of the following is pending—
-  - (i)[^key-79ba4df763649ab3c04fa09d1d88dacd] an application to a fines officer under paragraph 31 (application for variation of reserve terms) that was made at a time when P was not in default on the collection order;
+  - (i)[^c-79ba4df763649ab3c04fa09d1d88dacd] an application to a fines officer under paragraph 31 (application for variation of reserve terms) that was made at a time when P was not in default on the collection order;
   - (ii) an appeal under paragraph 32 against a decision of a fines officer on an application described in sub-paragraph (i);
   - (iii) a reference under paragraph 42 (power of fines officer to refer case to magistrates' court).
 
-(1A)[^key-95f2fe57850bee0506f6530895ee1562] This paragraph also applies if—
+(1A)[^c-95f2fe57850bee0506f6530895ee1562] This paragraph also applies if—
 
 - (a) a person (“**P**”) is in default on a notice of conviction and penalty (within the meaning of section 16L of the Magistrates’ Courts Act 1980), and
 - (b) paragraph 26 does not apply.
@@ -661,13 +661,13 @@ is that the collection order has effect as varied by the fines officer.
 - (a) refer P’s case to the magistrates' court, or
 - (b) deliver to P a notice (a “further steps notice”) that he intends to take one or more of the steps listed in paragraph 38.
 
-(7) Any steps that the fines officer wishes to be able[^key-20f2cbe2304a9e11f58720e741df9212] to take must be specified in the notice.
+(7) Any steps that the fines officer wishes to be able[^c-20f2cbe2304a9e11f58720e741df9212] to take must be specified in the notice.
 
 (8) A further steps notice must be in writing and dated.
 
 (9) P may, within 10 working days from the date of the further steps notice, appeal to the magistrates' court against it.
 
-#### Issue by fines officer of replacement notice[^key-119e7d1c4a37d0c24d63a3a22299800e]
+#### Issue by fines officer of replacement notice[^c-119e7d1c4a37d0c24d63a3a22299800e]
 
 **37A.** (1) This paragraph applies if—
 
@@ -691,14 +691,14 @@ is that the collection order has effect as varied by the fines officer.
 
 #### The range of further steps available against defaulters
 
-**38.**[^c19075761] (1) The steps referred to in paragraphs 37(6)(b), 37A(3)(a)[^key-cc7a61df129ddac2a564e754cee6e21c] and 39(3) and (4) (powers to take further steps) are—
+**38.**[^c19075761] (1) The steps referred to in paragraphs 37(6)(b), 37A(3)(a)[^c-cc7a61df129ddac2a564e754cee6e21c] and 39(3) and (4) (powers to take further steps) are—
 
-- (a) issuing a warrant of control[^key-1eb7346ed90de4095d32ac01b96462bd] for the purpose of recovering[^key-e7a6db5d65e4994df5497cb52ddf1693] the sum due;
+- (a) issuing a warrant of control[^c-1eb7346ed90de4095d32ac01b96462bd] for the purpose of recovering[^c-e7a6db5d65e4994df5497cb52ddf1693] the sum due;
 - (b) registering the sum in the register of judgments and orders required to be kept by section 98;
 - (c) making an attachment of earnings order or an application for benefit deductions;
 - (d) subject to sub-paragraph (3), making a clamping order;
 - (e)[^c19130771] taking proceedings by virtue of section 87(1) of the 1980 Act (enforcement of payment of fines by High Court and county court).
-- (f)[^key-46267d313e62f912a2e695dbc69658a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-46267d313e62f912a2e695dbc69658a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A clamping order is an order—
 
@@ -707,9 +707,9 @@ is that the collection order has effect as varied by the fines officer.
 
 (3) A clamping order must not be made except in relation to a vehicle which is registered under the Vehicle Excise and Registration Act 1994 in P’s name.
 
-(4)[^key-fd7feefcbdb8120e9b57934db04d2f59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fd7feefcbdb8120e9b57934db04d2f59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1994017a6c88b553f6bb99097a425944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1994017a6c88b553f6bb99097a425944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Powers of court . . .[^c19130811]
 
@@ -717,7 +717,7 @@ is that the collection order has effect as varied by the fines officer.
 
 - (a) [^c19131111]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a referral under paragraph 37(6)(a) (functions of fines officer in relation to defaulters), or
-- (c) an appeal under paragraph 37(9) or 37A(4)[^key-d14be49d01633ec29550b919e0f4e982] (appeal against a further steps notice or replacement notice[^key-904127dc800ccd1186c945f54e617144] ).
+- (c) an appeal under paragraph 37(9) or 37A(4)[^c-d14be49d01633ec29550b919e0f4e982] (appeal against a further steps notice or replacement notice[^c-904127dc800ccd1186c945f54e617144] ).
 
 (2) [^c19131111]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -727,7 +727,7 @@ is that the collection order has effect as varied by the fines officer.
 - (b) take any of the steps listed in paragraph 38;
 - (c) discharge the order and exercise any of its standard powers in respect of persons liable to pay fines or other sums[^c19131721] .
 
-(4) On an appeal against a further steps notice or replacement notice[^key-ce6adb36f32464b0b0d37f09329ba611] , the court may—
+(4) On an appeal against a further steps notice or replacement notice[^c-ce6adb36f32464b0b0d37f09329ba611] , the court may—
 
 - (a) confirm or quash the notice;
 - (b) vary the notice so as to specify any step listed in paragraph 38;
@@ -738,12 +738,12 @@ is that the collection order has effect as varied by the fines officer.
 
 **40.**[^c19075821] If—
 
-- (a) P does not appeal within 10 working days against a further steps notice or replacement notice[^key-bc42c6810c06e067405a1f71d9498db4], or
+- (a) P does not appeal within 10 working days against a further steps notice or replacement notice[^c-bc42c6810c06e067405a1f71d9498db4], or
 - (b) he does so but the further steps notice or replacement notice is confirmed or varied,
 
-any step specified in the notice (or the notice as varied) may be taken and retaken[^key-b1f78ef47008e809abc0c956ec20b8c1].
+any step specified in the notice (or the notice as varied) may be taken and retaken[^c-b1f78ef47008e809abc0c956ec20b8c1].
 
-#### Withdrawal of warrant of control by fines officer[^key-62d912b7af9d0eab6e8ff575620e7494]
+#### Withdrawal of warrant of control by fines officer[^c-62d912b7af9d0eab6e8ff575620e7494]
 
 **40A.** (1) This paragraph applies if, in taking a step specified in a further steps notice or replacement notice, the fines officer has issued a warrant of control for the purpose of recovering the sum due.
 
@@ -873,7 +873,7 @@ any step specified in the notice (or the notice as varied) may be taken and reta
 
 #### Offences of providing false information, failing to disclose information etc.
 
-**48.**[^c19075971] (1) P commits an offence if, in providing a statement of financial circumstances (whether a statement of assets, of other financial circumstances or of both)[^key-41df43dedaac24293b93fece1490690d] to a fines officer in response to a relevant request, he—
+**48.**[^c19075971] (1) P commits an offence if, in providing a statement of financial circumstances (whether a statement of assets, of other financial circumstances or of both)[^c-41df43dedaac24293b93fece1490690d] to a fines officer in response to a relevant request, he—
 
 - (a) makes a statement which he knows to be false in a material particular,
 - (b) recklessly provides a statement which is false in a material particular, or
@@ -881,11 +881,11 @@ any step specified in the notice (or the notice as varied) may be taken and reta
 
 (2) A person guilty of an offence under sub-paragraph (1) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-(3) P commits an offence if he fails to provide a fines officer with a statement of financial circumstances (whether a statement of assets, of other financial circumstances or of both) requested by[^key-ec8f9f65db57132c62c210b8d7035db7] a relevant request.
+(3) P commits an offence if he fails to provide a fines officer with a statement of financial circumstances (whether a statement of assets, of other financial circumstances or of both) requested by[^c-ec8f9f65db57132c62c210b8d7035db7] a relevant request.
 
 (4) A person guilty of an offence under sub-paragraph (3) is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-(5) A relevant request is a request for information about P’s financial circumstances (whether about P's assets, P's other financial circumstances or both)[^key-01718a77e6f4b79bb5ab083176ea7a6e] which—
+(5) A relevant request is a request for information about P’s financial circumstances (whether about P's assets, P's other financial circumstances or both)[^c-01718a77e6f4b79bb5ab083176ea7a6e] which—
 
 - (a) is made by a fines officer, and
 - (b) is expressed to be made for the purpose of determining whether or how the fines officer should vary the payment terms (or the reserve terms) of a collection order in P’s favour.
@@ -944,37 +944,37 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19135151]: Textual amendment: Sch. 5 para. 1 and heading substituted (3.7.2006) by [The Collection of Fines (Final Scheme) Order 2006 (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [6](https://www.legislation.gov.uk/uksi/2006/1737/article/6) (with transitional provision in [art. 3](https://www.legislation.gov.uk/uksi/2006/1737/article/3))
 
-[^key-cd10b1c4e7900eec4c4104fdbd83a12b]: Textual amendment: Sch. 5 para. 1 renumbered as Sch. 5 para. 1(1) (N.I.) (coming into force in accordance with art. 1(2) of the amending S.I) by [The Collection of Fines etc. (Northern Ireland Consequential Amendments) Order 2017 (S.I. 2017/570)](https://www.legislation.gov.uk/uksi/2017/570), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/570/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2017/570/article/2/1) and renumbered as Sch. 5 para. 1(1) (E.W) (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/2/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-cd10b1c4e7900eec4c4104fdbd83a12b]: Textual amendment: Sch. 5 para. 1 renumbered as Sch. 5 para. 1(1) (N.I.) (coming into force in accordance with art. 1(2) of the amending S.I) by [The Collection of Fines etc. (Northern Ireland Consequential Amendments) Order 2017 (S.I. 2017/570)](https://www.legislation.gov.uk/uksi/2017/570), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/570/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2017/570/article/2/1) and renumbered as Sch. 5 para. 1(1) (E.W) (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/2/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-2e566cd3786147e4f3081724d544d7f3]: Textual amendment: Words in [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/paragraph/1/1) inserted (N.I.) (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Collection of Fines etc. (Northern Ireland Consequential Amendments) Order 2017 (S.I. 2017/570)](https://www.legislation.gov.uk/uksi/2017/570), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/570/article/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2017/570/article/2/1/a)
+[^c-2e566cd3786147e4f3081724d544d7f3]: Textual amendment: Words in [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/paragraph/1/1) inserted (N.I.) (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Collection of Fines etc. (Northern Ireland Consequential Amendments) Order 2017 (S.I. 2017/570)](https://www.legislation.gov.uk/uksi/2017/570), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/570/article/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2017/570/article/2/1/a)
 
-[^key-c4aed1a4c53ca2f048029dfbf3ea2cbb]: Textual amendment: [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/paragraph/1/2) inserted (N.I.) (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Collection of Fines etc. (Northern Ireland Consequential Amendments) Order 2017 (S.I. 2017/570)](https://www.legislation.gov.uk/uksi/2017/570), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/570/article/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2017/570/article/2/1/b)
+[^c-c4aed1a4c53ca2f048029dfbf3ea2cbb]: Textual amendment: [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/paragraph/1/2) inserted (N.I.) (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Collection of Fines etc. (Northern Ireland Consequential Amendments) Order 2017 (S.I. 2017/570)](https://www.legislation.gov.uk/uksi/2017/570), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/570/article/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2017/570/article/2/1/b)
 
-[^key-d48903ab669a4c7d42a8e55776230f84]: Textual amendment: Sch. 5 para. 1(2)(3) inserted (E.W) (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/2/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-d48903ab669a4c7d42a8e55776230f84]: Textual amendment: Sch. 5 para. 1(2)(3) inserted (E.W) (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/2/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
 [^c19122051]: Textual amendment: Sch. 5 para. 2 and heading substituted (3.7.2006) by [The Collection of Fines (Final Scheme) Order 2006 (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [7](https://www.legislation.gov.uk/uksi/2006/1737/article/7)
 
 [^c19122961]: Textual amendment: Sch. 5 para. 2 and heading substituted (3.7.2006) by [The Collection of Fines (Final Scheme) Order 2006 (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1) , [7](https://www.legislation.gov.uk/uksi/2006/1737/article/7)
 
-[^key-1bb76dc85bb8e104f225e1b4c3b8673b]: Textual amendment: Words in Sch. 5 para. 2(1) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/3); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-1bb76dc85bb8e104f225e1b4c3b8673b]: Textual amendment: Words in Sch. 5 para. 2(1) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/3); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-4f0025bc935cf2d04be74500d895913f]: Textual amendment: Words in Sch. 5 para. 2(2) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 203](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/203) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4f0025bc935cf2d04be74500d895913f]: Textual amendment: Words in Sch. 5 para. 2(2) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 203](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/203) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-f409991d847856024e75436e629b1082]: Textual amendment: Words in Sch. 5 para. 2(2) inserted (15.10.2013 for E., 5.11.2013 for W.) by [Prevention of Social Housing Fraud Act 2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3), [s. 12](https://www.legislation.gov.uk/ukpga/2013/3/section/12), [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2013/3/schedule/paragraph/25); [S.I. 2013/2622](https://www.legislation.gov.uk/uksi/2013/2622), [art. 2](https://www.legislation.gov.uk/uksi/2013/2622/article/2); [S.I. 2013/2861](https://www.legislation.gov.uk/wsi/2013/2861), [art. 2](https://www.legislation.gov.uk/wsi/2013/2861/article/2)
+[^c-f409991d847856024e75436e629b1082]: Textual amendment: Words in Sch. 5 para. 2(2) inserted (15.10.2013 for E., 5.11.2013 for W.) by [Prevention of Social Housing Fraud Act 2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3), [s. 12](https://www.legislation.gov.uk/ukpga/2013/3/section/12), [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2013/3/schedule/paragraph/25); [S.I. 2013/2622](https://www.legislation.gov.uk/uksi/2013/2622), [art. 2](https://www.legislation.gov.uk/uksi/2013/2622/article/2); [S.I. 2013/2861](https://www.legislation.gov.uk/wsi/2013/2861), [art. 2](https://www.legislation.gov.uk/wsi/2013/2861/article/2)
 
-[^key-874378b25a3c7423af131fad1081f413]: Textual amendment: Words in Sch. 5 para. 2(2) omitted (31.7.2015) by virtue of [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(2)(a)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/2/a); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-874378b25a3c7423af131fad1081f413]: Textual amendment: Words in Sch. 5 para. 2(2) omitted (31.7.2015) by virtue of [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(2)(a)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/2/a); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
 
-[^key-fdac65b3502b5d960c6a7c170fe25b06]: Textual amendment: Words in Sch. 5 para. 2(2) inserted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(2)(b)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/2/b); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-fdac65b3502b5d960c6a7c170fe25b06]: Textual amendment: Words in Sch. 5 para. 2(2) inserted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(2)(b)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/2/b); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
 
 [^c19068251]: Commencement: Sch. 5 para. 3 wholly in force at 5.4.2004; Sch. 5 para. 3 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 3 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 3 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 3 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
 [^c19123181]: Textual amendment: Sch. 5 para. 3(1)(a) omitted (3.7.2006) by virtue of [The Collection of Fines (Final Scheme) Order 2006 (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [8(a)(i)](https://www.legislation.gov.uk/uksi/2006/1737/article/8/a/i)
 
-[^key-88eb07894c5201dfcf5629c3dcb0595c]: Textual amendment: Word in Sch. 5 para. 3(1)(c) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/4/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-88eb07894c5201dfcf5629c3dcb0595c]: Textual amendment: Word in Sch. 5 para. 3(1)(c) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/4/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-4ac76758743e185c67279b5b403d85a6]: Textual amendment: Word in Sch. 5 para. 3(1)(d) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/4/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-4ac76758743e185c67279b5b403d85a6]: Textual amendment: Word in Sch. 5 para. 3(1)(d) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/4/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-f93ca3b3cfbd00114b7a25117b4f06c9]: Textual amendment: Sch. 5 para. 3(1)(e) and word inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(4)(c)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/4/c); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-f93ca3b3cfbd00114b7a25117b4f06c9]: Textual amendment: Sch. 5 para. 3(1)(e) and word inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(4)(c)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/4/c); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
 [^c19123241]: Textual amendment: [Sch. 5 para. 3(5)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/paragraph/3/5) omitted (3.7.2007) by virtue of [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2006/1737/article/8/b)
 
@@ -992,7 +992,7 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19123501]: Textual amendment: Sch. 5 para. 7(1) substituted (3.7.2006) by [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [10(a)](https://www.legislation.gov.uk/uksi/2006/1737/article/10)
 
-[^key-cbb163c0b406d61e5c969f868c17655f]: Textual amendment: Words in Sch. 5 para. 7(1) substituted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
+[^c-cbb163c0b406d61e5c969f868c17655f]: Textual amendment: Words in Sch. 5 para. 7(1) substituted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
 
 [^c19123521]: Textual amendment: Words in Sch. 5 para. 7(2)(b) omitted (3.7.2006) by virtue of [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [10(b)](https://www.legislation.gov.uk/uksi/2006/1737/article/10)
 
@@ -1000,7 +1000,7 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19126931]: Textual amendment: [Sch. 5 para. 7A](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/paragraph/7A) inserted (3.7.2006) by [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [11](https://www.legislation.gov.uk/uksi/2006/1737/article/11)
 
-[^key-5b56d68096a4a95b243e8f5ca601b8ea]: Textual amendment: Words in Sch. 5 para. 7A(1) substituted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(3)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/3); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-5b56d68096a4a95b243e8f5ca601b8ea]: Textual amendment: Words in Sch. 5 para. 7A(1) substituted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(3)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/3); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
 
 [^c19068341]: Commencement: Sch. 5 para. 8 wholly in force at 5.4.2004; Sch. 5 para. 8 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 8 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 8 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 8 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
@@ -1010,13 +1010,13 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19127061]: Textual amendment: Sch. 5 para. 9(1) substituted (3.7.2006) by [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [13](https://www.legislation.gov.uk/uksi/2006/1737/article/13)
 
-[^key-d5868bdc752437ee92e6191ead980f34]: Textual amendment: Sch. 5 Pt. 3A heading inserted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/3), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
+[^c-d5868bdc752437ee92e6191ead980f34]: Textual amendment: Sch. 5 Pt. 3A heading inserted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/3), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
 
 [^c20885111]: Textual amendment: Sch. 5 paras. 9A-9C and cross-headings inserted (3.11.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 41](https://www.legislation.gov.uk/ukpga/2008/4/section/41), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153); [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/6) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2008/2712/article/3), [4](https://www.legislation.gov.uk/uksi/2008/2712/article/4))
 
-[^key-164bf80c3f7fad975f2d8059c67bc391]: Textual amendment: Words in Sch. 5 para. 9A heading inserted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
+[^c-164bf80c3f7fad975f2d8059c67bc391]: Textual amendment: Words in Sch. 5 para. 9A heading inserted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
 
-[^key-57c002afb7398c0b1ce784d94ca47b2a]: Modification: [Sch. 5 para. 9A](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/paragraph/9A) extended to S. and N.I. (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(13)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/13), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
+[^c-57c002afb7398c0b1ce784d94ca47b2a]: Modification: [Sch. 5 para. 9A](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/paragraph/9A) extended to S. and N.I. (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(13)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/13), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
 
 [^M_F_5a091be8-7760-4daf-c267-dd721929953c]: Textual amendment: Sch. 5 para. 9A substituted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(5)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
 
@@ -1032,15 +1032,15 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^M_F_591ebf7a-91d9-4371-86a9-3e804e2a506f]: Textual amendment: Words in Sch. 5 para. 9B(5) substituted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(9)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
 
-[^key-aadcd0a9bc150b0c17c0aef50b53b7b6]: Textual amendment: Words in Sch. 5 para. 9B(5)(b)(i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-aadcd0a9bc150b0c17c0aef50b53b7b6]: Textual amendment: Words in Sch. 5 para. 9B(5)(b)(i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
 [^M_F_fc9cd2c2-aeeb-4f6d-abff-baf838bbc400]: Textual amendment: Sch. 5 para. 9B(6)(7) inserted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(10)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
 
-[^key-e2a5eec64748daac3d8c6d861a863c62]: Textual amendment: Words in Sch. 5 para. 9B(6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-e2a5eec64748daac3d8c6d861a863c62]: Textual amendment: Words in Sch. 5 para. 9B(6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-b8b6e79de8834c8d283b6faa3541a940]: Textual amendment: Words in Sch. 5 para. 9B(6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-b8b6e79de8834c8d283b6faa3541a940]: Textual amendment: Words in Sch. 5 para. 9B(6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-2943390dd9c2daae5b726ef98673a96c]: Modification: [Sch. 5 para. 9C](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/paragraph/9C) extended to S. and N.I. (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(13)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/13), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
+[^c-2943390dd9c2daae5b726ef98673a96c]: Modification: [Sch. 5 para. 9C](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/paragraph/9C) extended to S. and N.I. (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(13)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/13), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
 
 [^M_F_bb7f5798-9072-4dbf-b3a1-7b0171094941]: Textual amendment: Words in Sch. 5 para. 9C substituted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(12)(a)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/13), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
 
@@ -1056,17 +1056,17 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19068361]: Commencement: Sch. 5 para. 10 wholly in force at 5.4.2004; Sch. 5 para. 10 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 10 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 10 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 10 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
-[^key-79f78d3dbed8bfb51f3801c32a4bcf9f]: Modification: Sch. 5 para. 10 extended (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(13)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/13), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
+[^c-79f78d3dbed8bfb51f3801c32a4bcf9f]: Modification: Sch. 5 para. 10 extended (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 27(13)](https://www.legislation.gov.uk/ukpga/2013/22/section/27/13), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
 
-[^key-33902898f3d332ed7e2afa7797cdb799]: Textual amendment: Words in Sch. 5 para. 10(a) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/17/2)
+[^c-33902898f3d332ed7e2afa7797cdb799]: Textual amendment: Words in Sch. 5 para. 10(a) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/17/2)
 
-[^key-503b58683e6b949f60036c4f87ea4306]: Textual amendment: [Sch. 5 para. 10A and cross-heading](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/part/3B/crossheading/attachment-of-earnings-orders-disclosure-of-information) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/5); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-503b58683e6b949f60036c4f87ea4306]: Textual amendment: [Sch. 5 para. 10A and cross-heading](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/part/3B/crossheading/attachment-of-earnings-orders-disclosure-of-information) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/5); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-f1185b2d82ca576f7cc72c4a3d02595f]: Textual amendment: Sch. 5 Pt. 3B inserted (N.I.) (12.4.2017 coming into force in accordance with art. 1(2)) by [The Collection of Fines etc. (Northern Ireland Consequential Amendments) Order 2017 (S.I. 2017/570)](https://www.legislation.gov.uk/uksi/2017/570), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/570/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2017/570/article/2/2)
+[^c-f1185b2d82ca576f7cc72c4a3d02595f]: Textual amendment: Sch. 5 Pt. 3B inserted (N.I.) (12.4.2017 coming into force in accordance with art. 1(2)) by [The Collection of Fines etc. (Northern Ireland Consequential Amendments) Order 2017 (S.I. 2017/570)](https://www.legislation.gov.uk/uksi/2017/570), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/570/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2017/570/article/2/2)
 
-[^key-e4fe8ad4a96110eb88141ed3cac3f192]: Textual amendment: Words in Sch. 5 para. 10A(7) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 93(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/93/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-e4fe8ad4a96110eb88141ed3cac3f192]: Textual amendment: Words in Sch. 5 para. 10A(7) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 93(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/93/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-d33269d9018c3f83d41737887f9e420f]: Textual amendment: Words in Sch. 5 para. 10A(8) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 93(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/93/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-d33269d9018c3f83d41737887f9e420f]: Textual amendment: Words in Sch. 5 para. 10A(8) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 93(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/93/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^c19068371]: Commencement: Sch. 5 para. 11 wholly in force at 5.4.2004; Sch. 5 para. 11 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 11 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 11 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 11 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
@@ -1080,17 +1080,17 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^M_F_16b3cbe2-ca10-4779-8e14-42a254a35fe9]: Textual amendment: Words in Sch. 5 para. 13(1)(aa) substituted (15.10.2013 for E., 5.11.2013 for W.) by [Prevention of Social Housing Fraud Act 2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3), [s. 12](https://www.legislation.gov.uk/ukpga/2013/3/section/12), [Sch. para. 27(a)](https://www.legislation.gov.uk/ukpga/2013/3/schedule/paragraph/27/a); [S.I. 2013/2622](https://www.legislation.gov.uk/uksi/2013/2622), [art. 2](https://www.legislation.gov.uk/uksi/2013/2622/article/2); [S.I. 2013/2861](https://www.legislation.gov.uk/uksi/2013/2861), [art. 2](https://www.legislation.gov.uk/uksi/2013/2861/article/2)
 
-[^key-e39be3dfe5cbe23bba13965aa86b32e3]: Textual amendment: Words in Sch. 5 para. 13(1)(aa) substituted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(4)(a)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/4/a); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-e39be3dfe5cbe23bba13965aa86b32e3]: Textual amendment: Words in Sch. 5 para. 13(1)(aa) substituted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(4)(a)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/4/a); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
 
-[^key-321c57b1b33ece75e1fb0cdab17068b8]: Textual amendment: Words in Sch. 5 para. 13(1)(aa) inserted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(4)(b)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/4/b); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-321c57b1b33ece75e1fb0cdab17068b8]: Textual amendment: Words in Sch. 5 para. 13(1)(aa) inserted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(4)(b)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/4/b); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
 
-[^key-dc77cf8d8e9fe4078b54055ee987e29b]: Textual amendment: Sch. 5 para. 13(1)(aa)(i) substituted (15.10.2013 for E., 5.11.2013 for W.) by [Prevention of Social Housing Fraud Act 2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3), [s. 12](https://www.legislation.gov.uk/ukpga/2013/3/section/12), [Sch. para. 27(b)](https://www.legislation.gov.uk/ukpga/2013/3/schedule/paragraph/27/b); [S.I. 2013/2622](https://www.legislation.gov.uk/uksi/2013/2622), [art. 2](https://www.legislation.gov.uk/uksi/2013/2622/article/2); [S.I. 2013/2861](https://www.legislation.gov.uk/wsi/2013/2861), [art. 2](https://www.legislation.gov.uk/wsi/2013/2861/article/2)
+[^c-dc77cf8d8e9fe4078b54055ee987e29b]: Textual amendment: Sch. 5 para. 13(1)(aa)(i) substituted (15.10.2013 for E., 5.11.2013 for W.) by [Prevention of Social Housing Fraud Act 2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3), [s. 12](https://www.legislation.gov.uk/ukpga/2013/3/section/12), [Sch. para. 27(b)](https://www.legislation.gov.uk/ukpga/2013/3/schedule/paragraph/27/b); [S.I. 2013/2622](https://www.legislation.gov.uk/uksi/2013/2622), [art. 2](https://www.legislation.gov.uk/uksi/2013/2622/article/2); [S.I. 2013/2861](https://www.legislation.gov.uk/wsi/2013/2861), [art. 2](https://www.legislation.gov.uk/wsi/2013/2861/article/2)
 
-[^key-3b3b1be39283b76c4dca88797af4d4e5]: Textual amendment: Word in Sch. 5 para. 13(1)(aa)(i) substituted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(4)(c)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/4/c); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-3b3b1be39283b76c4dca88797af4d4e5]: Textual amendment: Word in Sch. 5 para. 13(1)(aa)(i) substituted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(4)(c)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/4/c); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
 
-[^key-043e781d1aabc625cb53b3587bd2c1a9]: Textual amendment: Words in Sch. 5 para. 13(1)(aa)(i) inserted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(4)(d)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/4/d); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-043e781d1aabc625cb53b3587bd2c1a9]: Textual amendment: Words in Sch. 5 para. 13(1)(aa)(i) inserted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 23(4)(d)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/23/4/d); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
 
-[^key-5a49be28f28729cb80a6c6ad3482ae69]: Textual amendment: Words in Sch. 5 para. 13(2) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(6)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/6); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-5a49be28f28729cb80a6c6ad3482ae69]: Textual amendment: Words in Sch. 5 para. 13(2) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(6)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/6); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
 [^c19071771]: Commencement: Sch. 5 para. 14 wholly in force at 5.4.2004; Sch. 5 para. 14 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 14 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 14 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 14 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
@@ -1110,23 +1110,23 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19108181]: Commencement: Sch. 5 para. 20 wholly in force at 5.4.2004; Sch. 5 para. 20 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 20 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 20 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 20 in force for all purposes 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
-[^key-0c225967d45708f8af2c4b4c4620b5b9]: Textual amendment: Sch. 5 para. 21 substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-0c225967d45708f8af2c4b4c4620b5b9]: Textual amendment: Sch. 5 para. 21 substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
 
-[^key-db535f088b4b1c8e9cffd52c1ef843d0]: Textual amendment: Sch. 5 para. 21 renumbered as Sch. 5 para. 21(1) (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(7)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/7/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-db535f088b4b1c8e9cffd52c1ef843d0]: Textual amendment: Sch. 5 para. 21 renumbered as Sch. 5 para. 21(1) (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(7)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/7/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-e39b180be1f8aec4416a44ec2e99f4f5]: Textual amendment: Sch. 5 para. 21(2)(3) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/7/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-e39b180be1f8aec4416a44ec2e99f4f5]: Textual amendment: Sch. 5 para. 21(2)(3) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/7/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
 [^c19072901]: Commencement: Sch. 5 para. 22 wholly in force at 5.4.2004; Sch. 5 para. 22 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 22 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 22 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 22 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
-[^key-da49f95e34a7a3493aa1be1ca080001a]: Textual amendment: Sch. 5 para. 22(1) omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(3)(a)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/3/a), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-da49f95e34a7a3493aa1be1ca080001a]: Textual amendment: Sch. 5 para. 22(1) omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(3)(a)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/3/a), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
 
-[^key-df08bf51a9a54f5231408c306a239a0a]: Textual amendment: Words in Sch. 5 para. 22(2) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(3)(b)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/3/b), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-df08bf51a9a54f5231408c306a239a0a]: Textual amendment: Words in Sch. 5 para. 22(2) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(3)(b)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/3/b), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
 
-[^key-13afe45c0d4a99d7b8e4a36850f8a4ef]: Textual amendment: Words in Sch. 5 para. 22(4)(a) omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(3)(c)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/3/c), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-13afe45c0d4a99d7b8e4a36850f8a4ef]: Textual amendment: Words in Sch. 5 para. 22(4)(a) omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(3)(c)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/3/c), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
 
-[^key-0ad8283e15b7c497c11a22927a8af045]: Textual amendment: Sch. 5 para. 22(4A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(3)(d)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/3/d), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-0ad8283e15b7c497c11a22927a8af045]: Textual amendment: Sch. 5 para. 22(4A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(3)(d)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/3/d), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
 
-[^key-b85f7288bb6924c8d7f8d742dedc0991]: Textual amendment: Sch. 5 para. 22(7) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(3)(e)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/3/e), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-b85f7288bb6924c8d7f8d742dedc0991]: Textual amendment: Sch. 5 para. 22(7) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(3)(e)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/3/e), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
 
 [^c19072911]: Commencement: Sch. 5 para. 23 wholly in force at 5.4.2004; Sch. 5 para. 23 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 23 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 23 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 23 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
@@ -1136,11 +1136,11 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19072961]: Commencement: Sch. 5 para. 25 wholly in force at 5.4.2004; Sch. 5 para. 25 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 25 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 25 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 25 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
-[^key-e3252b050c2e38e71cbd7376dd086c7b]: Textual amendment: Sch. 5 para. 25 renumbered as Sch. 5 para. 25(1) (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(8)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/8/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-e3252b050c2e38e71cbd7376dd086c7b]: Textual amendment: Sch. 5 para. 25 renumbered as Sch. 5 para. 25(1) (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(8)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/8/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-dccf79adbf86fdaf3f11db00da25f988]: Textual amendment: Sch. 5 para. 25(a)(b) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/4), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-dccf79adbf86fdaf3f11db00da25f988]: Textual amendment: Sch. 5 para. 25(a)(b) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/4), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
 
-[^key-9458ddc73f991cfb91cb2ffb3b3aceb5]: Textual amendment: Sch. 5 para. 25(2) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(8)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/8/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-9458ddc73f991cfb91cb2ffb3b3aceb5]: Textual amendment: Sch. 5 para. 25(2) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(8)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/8/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
 [^c19073301]: Commencement: Sch. 5 para. 26 wholly in force at 5.4.2004; Sch. 5 para. 26 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 26 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 26 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 26 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
@@ -1150,19 +1150,19 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19073451]: Commencement: Sch. 5 para. 29 wholly in force at 5.4.2004; Sch. 5 para. 29 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 29 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 29 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 29 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
-[^key-17ea04f71aeb04e70dcf924d9f9f7c96]: Textual amendment: Sch. 5 para. 29 renumbered as Sch. 5 para. 29(1) (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(9)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/9/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-17ea04f71aeb04e70dcf924d9f9f7c96]: Textual amendment: Sch. 5 para. 29 renumbered as Sch. 5 para. 29(1) (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(9)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/9/a); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
-[^key-4abeec0002a487862baa7791083f8dd7]: Textual amendment: Sch. 5 para. 29(2) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(9)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/9/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-4abeec0002a487862baa7791083f8dd7]: Textual amendment: Sch. 5 para. 29(2) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(9)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/9/b); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
 [^c19073511]: Commencement: Sch. 5 para. 30 wholly in force at 5.4.2004; Sch. 5 para. 30 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 30 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 30 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 30 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
 [^c19074321]: Commencement: Sch. 5 para. 31 wholly in force at 5.4.2004; Sch. 5 para. 31 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 31 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 31 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 31 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
-[^key-cec38c0d452690551524e7925a5721c3]: Textual amendment: Sch. 5 para. 31(1) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(5)(a)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/5/a), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-cec38c0d452690551524e7925a5721c3]: Textual amendment: Sch. 5 para. 31(1) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(5)(a)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/5/a), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
 
-[^key-f8c94e8b2b8ebde4d737b6d1f4fe0cb9]: Textual amendment: Words in Sch. 5 para. 31(3)(a) omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(5)(b)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/5/b), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-f8c94e8b2b8ebde4d737b6d1f4fe0cb9]: Textual amendment: Words in Sch. 5 para. 31(3)(a) omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(5)(b)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/5/b), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
 
-[^key-588c63c8ac509958c621fb68ffb00acb]: Textual amendment: Sch. 5 para. 31(3A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(5)(c)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/5/c), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-588c63c8ac509958c621fb68ffb00acb]: Textual amendment: Sch. 5 para. 31(3A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(5)(c)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/5/c), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
 
 [^c19074331]: Commencement: Sch. 5 para. 32 wholly in force at 5.4.2004; Sch. 5 para. 32 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 32 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 32 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 32 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
@@ -1182,31 +1182,31 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19130711]: Textual amendment: Sch. 5 para. 37(1) substituted (3.7.2006) by [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737](https://www.legislation.gov.uk/uksi/2006/1737)), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [25(a)](https://www.legislation.gov.uk/uksi/2006/1737/article/25/a)
 
-[^key-79ba4df763649ab3c04fa09d1d88dacd]: Textual amendment: Sch. 5 para. 37(1)(c)(i)(ii) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(6)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/6), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
+[^c-79ba4df763649ab3c04fa09d1d88dacd]: Textual amendment: Sch. 5 para. 37(1)(c)(i)(ii) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 56(6)](https://www.legislation.gov.uk/ukpga/2015/2/section/56/6), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/46)
 
-[^key-95f2fe57850bee0506f6530895ee1562]: Textual amendment: Sch. 5 para. 37(1A) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(10)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/10); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
+[^c-95f2fe57850bee0506f6530895ee1562]: Textual amendment: Sch. 5 para. 37(1A) inserted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 3(10)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/3/10); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/e)
 
 [^c19130731]: Textual amendment: [Sch. 5 para. 37(2)-(5)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/5/paragraph/37/2) omitted (3.7.2006) by virtue of [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737](https://www.legislation.gov.uk/uksi/2006/1737)), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [25(b)](https://www.legislation.gov.uk/uksi/2006/1737/article/25/b)
 
-[^key-20f2cbe2304a9e11f58720e741df9212]: Textual amendment: Words in Sch. 5 para. 37(7) substituted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/3), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
+[^c-20f2cbe2304a9e11f58720e741df9212]: Textual amendment: Words in Sch. 5 para. 37(7) substituted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/3), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
 
-[^key-119e7d1c4a37d0c24d63a3a22299800e]: Textual amendment: Sch. 5 para. 37A and cross-heading inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/4), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
+[^c-119e7d1c4a37d0c24d63a3a22299800e]: Textual amendment: Sch. 5 para. 37A and cross-heading inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/4), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
 
 [^c19075761]: Commencement: Sch. 5 para. 38 wholly in force at 5.4.2004; Sch. 5 para. 38 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 38 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 38 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 38 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
-[^key-cc7a61df129ddac2a564e754cee6e21c]: Textual amendment: Words in Sch. 5 para. 38(1) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(5)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/5/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
+[^c-cc7a61df129ddac2a564e754cee6e21c]: Textual amendment: Words in Sch. 5 para. 38(1) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(5)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/5/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
 
-[^key-1eb7346ed90de4095d32ac01b96462bd]: Textual amendment: Words in Sch. 5 para. 38(1)(a) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 149](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/149) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-1eb7346ed90de4095d32ac01b96462bd]: Textual amendment: Words in Sch. 5 para. 38(1)(a) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 149](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/149) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-e7a6db5d65e4994df5497cb52ddf1693]: Textual amendment: Word in Sch. 5 para. 38(1)(a) substituted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(5)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/5/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
+[^c-e7a6db5d65e4994df5497cb52ddf1693]: Textual amendment: Word in Sch. 5 para. 38(1)(a) substituted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(5)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/5/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
 
 [^c19130771]: Textual amendment: Sch. 5 para. 38(1)(e) substituted (3.7.2006) by virtue of [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [26](https://www.legislation.gov.uk/uksi/2006/1737/article/26)
 
-[^key-46267d313e62f912a2e695dbc69658a0]: Textual amendment: Sch. 5 para. 38(1)(f) omitted (31.12.2020) by virtue of [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2019/780/regulation/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46267d313e62f912a2e695dbc69658a0]: Textual amendment: Sch. 5 para. 38(1)(f) omitted (31.12.2020) by virtue of [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2019/780/regulation/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fd7feefcbdb8120e9b57934db04d2f59]: Textual amendment: Sch. 5 para. 38(4) omitted (31.12.2020) by virtue of [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [18(b)](https://www.legislation.gov.uk/uksi/2019/780/regulation/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd7feefcbdb8120e9b57934db04d2f59]: Textual amendment: Sch. 5 para. 38(4) omitted (31.12.2020) by virtue of [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [18(b)](https://www.legislation.gov.uk/uksi/2019/780/regulation/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1994017a6c88b553f6bb99097a425944]: Textual amendment: Sch. 5 para. 38(5) omitted (31.12.2020) by virtue of [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [18(c)](https://www.legislation.gov.uk/uksi/2019/780/regulation/18/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1994017a6c88b553f6bb99097a425944]: Textual amendment: Sch. 5 para. 38(5) omitted (31.12.2020) by virtue of [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [18(c)](https://www.legislation.gov.uk/uksi/2019/780/regulation/18/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19130811]: Textual amendment: Sch. 5 para. 39: words in heading omitted (3.7.2006) by virtue of [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [27(d)](https://www.legislation.gov.uk/uksi/2006/1737/article/27)
 
@@ -1214,9 +1214,9 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19131111]: Textual amendment: Sch. 5 para. 39(1)(a)(2) omitted (3.7.2006) by virtue of [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [27(a)](https://www.legislation.gov.uk/uksi/2006/1737/article/27)
 
-[^key-d14be49d01633ec29550b919e0f4e982]: Textual amendment: Words in Sch. 5 para. 39(1)(c) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/6/a/i), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
+[^c-d14be49d01633ec29550b919e0f4e982]: Textual amendment: Words in Sch. 5 para. 39(1)(c) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/6/a/i), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
 
-[^key-904127dc800ccd1186c945f54e617144]: Textual amendment: Words in Sch. 5 para. 39(1)(c) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/6/a/ii), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
+[^c-904127dc800ccd1186c945f54e617144]: Textual amendment: Words in Sch. 5 para. 39(1)(c) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/6/a/ii), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
 
 [^c19131531]: Textual amendment: Words in Sch. 5 para. 39(3) substituted (3.7.2006) by [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [27(b)(i)](https://www.legislation.gov.uk/uksi/2006/1737/article/27)
 
@@ -1224,17 +1224,17 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19131721]: Textual amendment: Words in Sch. 5 para. 39(3)(c) inserted (3.7.2006) by [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [27(c)(i)](https://www.legislation.gov.uk/uksi/2006/1737/article/27)
 
-[^key-ce6adb36f32464b0b0d37f09329ba611]: Textual amendment: Words in Sch. 5 para. 39(4) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(6)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/6/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
+[^c-ce6adb36f32464b0b0d37f09329ba611]: Textual amendment: Words in Sch. 5 para. 39(4) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(6)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/6/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
 
 [^c19132201]: Textual amendment: Words in Sch. 5 para. 39(4)(d) inserted (3.7.2006) by [The Collection of Fines (Final Scheme) Order (S.I. 2006/1737)](https://www.legislation.gov.uk/uksi/2006/1737), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1737/article/1), [27(c)(ii)](https://www.legislation.gov.uk/uksi/2006/1737/article/27)
 
 [^c19075821]: Commencement: Sch. 5 para. 40 wholly in force at 5.4.2004; Sch. 5 para. 40 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 40 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 40 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 40 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
-[^key-bc42c6810c06e067405a1f71d9498db4]: Textual amendment: Words in Sch. 5 para. 40 inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(7)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/7/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
+[^c-bc42c6810c06e067405a1f71d9498db4]: Textual amendment: Words in Sch. 5 para. 40 inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(7)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/7/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
 
-[^key-b1f78ef47008e809abc0c956ec20b8c1]: Textual amendment: Words in Sch. 5 para. 40 inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(7)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/7/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
+[^c-b1f78ef47008e809abc0c956ec20b8c1]: Textual amendment: Words in Sch. 5 para. 40 inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(7)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/7/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
 
-[^key-62d912b7af9d0eab6e8ff575620e7494]: Textual amendment: Sch. 5 paras. 40A-40C and cross-headings inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(8)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/8), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
+[^c-62d912b7af9d0eab6e8ff575620e7494]: Textual amendment: Sch. 5 paras. 40A-40C and cross-headings inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 88(8)](https://www.legislation.gov.uk/ukpga/2012/10/section/88/8), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/453/article/4/a)
 
 [^c19075861]: Commencement: Sch. 5 para. 41 wholly in force at 5.4.2004; Sch. 5 para. 41 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 41 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 41 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 41 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
@@ -1268,11 +1268,11 @@ fitted or fixed to a motor vehicle in accordance with a clamping order made unde
 
 [^c19075971]: Commencement: Sch. 5 para. 48 wholly in force at 5.4.2004; Sch. 5 para. 48 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 48 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 48 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 48 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 
-[^key-41df43dedaac24293b93fece1490690d]: Textual amendment: Words in Sch. 5 para. 48(1) substituted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 16 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/28/2/a); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
+[^c-41df43dedaac24293b93fece1490690d]: Textual amendment: Words in Sch. 5 para. 48(1) substituted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 16 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/28/2/a); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
 
-[^key-ec8f9f65db57132c62c210b8d7035db7]: Textual amendment: Words in Sch. 5 para. 48(3) substituted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 16 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/28/2/b); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
+[^c-ec8f9f65db57132c62c210b8d7035db7]: Textual amendment: Words in Sch. 5 para. 48(3) substituted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 16 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/28/2/b); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
 
-[^key-01718a77e6f4b79bb5ab083176ea7a6e]: Textual amendment: Words in Sch. 5 para. 48(5) inserted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 16 para. 28(2)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/28/2/c); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
+[^c-01718a77e6f4b79bb5ab083176ea7a6e]: Textual amendment: Words in Sch. 5 para. 48(5) inserted (11.12.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 16 para. 28(2)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/28/2/c); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
 
 [^c19075981]: Commencement: Sch. 5 para. 49 wholly in force at 5.4.2004; Sch. 5 para. 49 not in force at Royal Assent see s. 110(1)(2); Sch. 5 para. 49 in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); Sch. 5 para. 49 in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); Sch. 5 para. 49 in force for all purposes at 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)
 

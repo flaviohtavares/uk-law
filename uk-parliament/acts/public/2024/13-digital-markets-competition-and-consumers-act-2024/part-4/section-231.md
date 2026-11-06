@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Public enforcement[^key-e8a623fa8adfd43471baede43b8a2832][^key-e6839688f35c723a337b0fb44a08289a]
+## 231. Public enforcement[^c-e8a623fa8adfd43471baede43b8a2832][^c-e6839688f35c723a337b0fb44a08289a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8a623fa8adfd43471baede43b8a2832]: Commencement: S. 231 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-e8a623fa8adfd43471baede43b8a2832]: Commencement: S. 231 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-e6839688f35c723a337b0fb44a08289a]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2024/13/section/231) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-e6839688f35c723a337b0fb44a08289a]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2024/13/section/231) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

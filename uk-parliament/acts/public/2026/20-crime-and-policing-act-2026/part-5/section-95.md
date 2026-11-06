@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Powers to amend this Chapter, and consequential amendments[^key-c84e971453f40254a86badfddd0e0336]
+## 95. Powers to amend this Chapter, and consequential amendments[^c-c84e971453f40254a86badfddd0e0336]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ The regulations may make consequential amendments of this Chapter.
 
 ## Annotations
 
-[^key-c84e971453f40254a86badfddd0e0336]: Commencement: S. 95 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c84e971453f40254a86badfddd0e0336]: Commencement: S. 95 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

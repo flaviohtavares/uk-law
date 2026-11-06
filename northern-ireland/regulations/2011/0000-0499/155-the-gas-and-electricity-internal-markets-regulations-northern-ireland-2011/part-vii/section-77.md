@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Amendment to the Energy Order – penalties[^key-c6d6f72ea93d50b1f80583d53757a2eb]
+## 77. Amendment to the Energy Order – penalties[^c-c6d6f72ea93d50b1f80583d53757a2eb]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ For paragraph (9) of Article 45 there shall be substituted the following paragra
 
 ## Annotations
 
-[^key-c6d6f72ea93d50b1f80583d53757a2eb]: Commencement: Reg. 77 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-c6d6f72ea93d50b1f80583d53757a2eb]: Commencement: Reg. 77 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

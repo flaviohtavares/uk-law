@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Failure to produce information[^key-43cfcdf0927de092c7a89db20fa44514]
+## 58. Failure to produce information[^c-43cfcdf0927de092c7a89db20fa44514]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b5fc6ffdf0efe94f4b0c59871585a3c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-b5fc6ffdf0efe94f4b0c59871585a3c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 3(1) of that Act (grounds for making prohibition orders), after paragraph (ca) (inserted by section 53(2)) insert—
 
@@ -28,14 +28,14 @@ summary: ''
 
 .
 
-(3)[^key-05b24808b2bb494b62de861ad44f1f11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-05b24808b2bb494b62de861ad44f1f11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-05b24808b2bb494b62de861ad44f1f11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-05b24808b2bb494b62de861ad44f1f11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-43cfcdf0927de092c7a89db20fa44514]: Commencement: S. 58 in force at 1.10.2008 by [S.I. 2008/905](https://www.legislation.gov.uk/uksi/2008/905), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/905/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/905/schedule/2)
+[^c-43cfcdf0927de092c7a89db20fa44514]: Commencement: S. 58 in force at 1.10.2008 by [S.I. 2008/905](https://www.legislation.gov.uk/uksi/2008/905), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/905/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/905/schedule/2)
 
-[^key-b5fc6ffdf0efe94f4b0c59871585a3c2]: Textual amendment: [S. 58(1)](https://www.legislation.gov.uk/ukpga/2007/17/section/58/1) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(i)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/i); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-b5fc6ffdf0efe94f4b0c59871585a3c2]: Textual amendment: [S. 58(1)](https://www.legislation.gov.uk/ukpga/2007/17/section/58/1) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(i)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/i); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-05b24808b2bb494b62de861ad44f1f11]: Textual amendment: [S. 58(3)](https://www.legislation.gov.uk/ukpga/2007/17/section/58/3)[(4)](https://www.legislation.gov.uk/ukpga/2007/17/section/58/4) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(i)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/i); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-05b24808b2bb494b62de861ad44f1f11]: Textual amendment: [S. 58(3)](https://www.legislation.gov.uk/ukpga/2007/17/section/58/3)[(4)](https://www.legislation.gov.uk/ukpga/2007/17/section/58/4) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(i)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/i); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.24. Proceedings commenced in the wrong court[^key-60caec7d3c34bc05486e030c5d29bf5a]
+## 4.24. Proceedings commenced in the wrong court[^c-60caec7d3c34bc05486e030c5d29bf5a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where housing administration proceedings are commenced in a court which is, in r
 
 ## Annotations
 
-[^key-60caec7d3c34bc05486e030c5d29bf5a]: Commencement: Rule 4.24 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-60caec7d3c34bc05486e030c5d29bf5a]: Commencement: Rule 4.24 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

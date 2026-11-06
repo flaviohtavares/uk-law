@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25D. Energy efficiency rating[^key-349114e1194b96d9b41a167a1ae6bb59]
+## 25D. Energy efficiency rating[^c-349114e1194b96d9b41a167a1ae6bb59]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Energy efficiency ratings must be approved by the Welsh Ministers, applying the 
 
 ## Annotations
 
-[^key-349114e1194b96d9b41a167a1ae6bb59]: Textual amendment: [Reg. 25D](https://www.legislation.gov.uk/uksi/2010/2214/regulation/25D) inserted (W.) (23.11.2022) by [The Building (Amendment) (Wales) Regulations 2022 (S.I. 2022/564)](https://www.legislation.gov.uk/wsi/2022/564), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3), [7](https://www.legislation.gov.uk/wsi/2022/564/regulation/7) (with [reg. 21](https://www.legislation.gov.uk/wsi/2022/564/regulation/21))
+[^c-349114e1194b96d9b41a167a1ae6bb59]: Textual amendment: [Reg. 25D](https://www.legislation.gov.uk/uksi/2010/2214/regulation/25D) inserted (W.) (23.11.2022) by [The Building (Amendment) (Wales) Regulations 2022 (S.I. 2022/564)](https://www.legislation.gov.uk/wsi/2022/564), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3), [7](https://www.legislation.gov.uk/wsi/2022/564/regulation/7) (with [reg. 21](https://www.legislation.gov.uk/wsi/2022/564/regulation/21))

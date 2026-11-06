@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6A (Extent: N.I.) — EU WITHDRAWAL: DEMOCRATIC CONSENT PROCESS (Extent: N.I.)[^key-987fc61a25df1efd41ef519bb7c55274]
+## SCHEDULE 6A (Extent: N.I.) — EU WITHDRAWAL: DEMOCRATIC CONSENT PROCESS (Extent: N.I.)[^c-987fc61a25df1efd41ef519bb7c55274]
 
 *Extent: E+W+S+N.I.*
 
@@ -386,9 +386,9 @@ This Part applies in relation to any motion for a consent resolution whether the
 
 (1 (Extent: N.I.)) This paragraph applies where the Presiding Officer notifies the Secretary of State that the Assembly has passed a consent resolution by a majority of the members voting but not with cross-community support. *(Extent: N.I.)*
 
-(2 (Extent: N.I.)) Within one month of receiving the notification, the[^key-af65eee9bdd0b180e78bee13d23d25ab] *(Extent: N.I.)* Secretary of State must commission an independent review into the functioning of the Protocol in accordance with paragraphs 7 to 9 of the unilateral Declaration. *(Extent: N.I.)*
+(2 (Extent: N.I.)) Within one month of receiving the notification, the[^c-af65eee9bdd0b180e78bee13d23d25ab] *(Extent: N.I.)* Secretary of State must commission an independent review into the functioning of the Protocol in accordance with paragraphs 7 to 9 of the unilateral Declaration. *(Extent: N.I.)*
 
-(2A (Extent: N.I.))[^key-5e89779537e5947f822f4438d2d0e6da] The review may include consideration of any effect of the Windsor Framework in the withdrawal agreement on— *(Extent: N.I.)*
+(2A (Extent: N.I.))[^c-5e89779537e5947f822f4438d2d0e6da] The review may include consideration of any effect of the Windsor Framework in the withdrawal agreement on— *(Extent: N.I.)*
 
 - (a (Extent: N.I.)) the constitutional status of Northern Ireland, and *(Extent: N.I.)*
 - (b (Extent: N.I.)) the operation of the single market in goods and services between Northern Ireland and the rest of the United Kingdom. *(Extent: N.I.)*
@@ -411,18 +411,18 @@ This Part applies in relation to any motion for a consent resolution whether the
 - (a (Extent: N.I.)) by either House of Parliament or a committee thereof, or *(Extent: N.I.)*
 - (b (Extent: N.I.)) by the Assembly. *(Extent: N.I.)*
 
-(3 (Extent: N.I.)) The reference in *(Extent: N.I.)* sub-paragraph (1)[^key-ce3b608cba11fe7d91bfd473c935fb6c] *(Extent: N.I.)* to the Presiding Officer has effect as a reference to the interim Presiding Officer if a person is holding that office in accordance with paragraph 16. *(Extent: N.I.)*
+(3 (Extent: N.I.)) The reference in *(Extent: N.I.)* sub-paragraph (1)[^c-ce3b608cba11fe7d91bfd473c935fb6c] *(Extent: N.I.)* to the Presiding Officer has effect as a reference to the interim Presiding Officer if a person is holding that office in accordance with paragraph 16. *(Extent: N.I.)*
 
-(4 (Extent: N.I.))[^key-88fbc981c6148928adf5a3c0a2bfe4d0] In this paragraph, “ *(Extent: N.I.)***Joint Committee *(Extent: N.I.)***” has the same meaning as in the European Union (Withdrawal) Act 2018. *(Extent: N.I.)*
+(4 (Extent: N.I.))[^c-88fbc981c6148928adf5a3c0a2bfe4d0] In this paragraph, “ *(Extent: N.I.)***Joint Committee *(Extent: N.I.)***” has the same meaning as in the European Union (Withdrawal) Act 2018. *(Extent: N.I.)*
 
 ## Annotations
 
-[^key-987fc61a25df1efd41ef519bb7c55274]: Textual amendment: Sch. 6A inserted (10.12.2020) by [The Protocol on Ireland/Northern Ireland (Democratic Consent Process) (EU Exit) Regulations 2020 (S.I. 2020/1500)](https://www.legislation.gov.uk/uksi/2020/1500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/2/3)
+[^c-987fc61a25df1efd41ef519bb7c55274]: Textual amendment: Sch. 6A inserted (10.12.2020) by [The Protocol on Ireland/Northern Ireland (Democratic Consent Process) (EU Exit) Regulations 2020 (S.I. 2020/1500)](https://www.legislation.gov.uk/uksi/2020/1500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/2/3)
 
-[^key-af65eee9bdd0b180e78bee13d23d25ab]: Textual amendment: Words in Sch. 6A para. 21(2) substituted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/164/regulation/4/2/a)
+[^c-af65eee9bdd0b180e78bee13d23d25ab]: Textual amendment: Words in Sch. 6A para. 21(2) substituted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/164/regulation/4/2/a)
 
-[^key-5e89779537e5947f822f4438d2d0e6da]: Textual amendment: Sch. 6A para. 21(2A)-(2G) inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/164/regulation/4/2/b)
+[^c-5e89779537e5947f822f4438d2d0e6da]: Textual amendment: Sch. 6A para. 21(2A)-(2G) inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/164/regulation/4/2/b)
 
-[^key-ce3b608cba11fe7d91bfd473c935fb6c]: Textual amendment: Words in Sch. 6A para. 21(3) substituted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2024/164/regulation/4/2/c)
+[^c-ce3b608cba11fe7d91bfd473c935fb6c]: Textual amendment: Words in Sch. 6A para. 21(3) substituted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2024/164/regulation/4/2/c)
 
-[^key-88fbc981c6148928adf5a3c0a2bfe4d0]: Textual amendment: Sch. 6A para. 21(4) inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [4(2)(d)](https://www.legislation.gov.uk/uksi/2024/164/regulation/4/2/d)
+[^c-88fbc981c6148928adf5a3c0a2bfe4d0]: Textual amendment: Sch. 6A para. 21(4) inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [4(2)(d)](https://www.legislation.gov.uk/uksi/2024/164/regulation/4/2/d)

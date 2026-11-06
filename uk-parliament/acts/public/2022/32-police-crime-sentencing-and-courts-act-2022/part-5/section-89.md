@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Courses offered as alternative to prosecution: fees etc[^key-859dbd8a11e3f5370895e1b4366940c6][^key-014fd4bd31960995fe12eb8734f39f3f]
+## 89. Courses offered as alternative to prosecution: fees etc[^c-859dbd8a11e3f5370895e1b4366940c6][^c-014fd4bd31960995fe12eb8734f39f3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -162,6 +162,6 @@ summary: ''
 
 ## Annotations
 
-[^key-859dbd8a11e3f5370895e1b4366940c6]: Commencement: S. 89 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-859dbd8a11e3f5370895e1b4366940c6]: Commencement: S. 89 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-014fd4bd31960995fe12eb8734f39f3f]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2022/32/section/89) in force at 26.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/f)
+[^c-014fd4bd31960995fe12eb8734f39f3f]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2022/32/section/89) in force at 26.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/f)

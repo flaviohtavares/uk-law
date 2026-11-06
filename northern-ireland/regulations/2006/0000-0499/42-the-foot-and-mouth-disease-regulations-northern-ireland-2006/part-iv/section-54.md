@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Retention of records[^key-e723c14e7daa5dca1e8bb1646d2947d5]
+## 54. Retention of records[^c-e723c14e7daa5dca1e8bb1646d2947d5]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ Any person making a record required by these Regulations shall retain it for the
 
 ## Annotations
 
-[^key-e723c14e7daa5dca1e8bb1646d2947d5]: Commencement: Reg. 54 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-e723c14e7daa5dca1e8bb1646d2947d5]: Commencement: Reg. 54 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

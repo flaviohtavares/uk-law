@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Protection of interests[^key-ab1c219a35d50d10b233e2cd4a71a78b]
+## 49. Protection of interests[^c-ab1c219a35d50d10b233e2cd4a71a78b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) to the Order has effect.
 
 ## Annotations
 
-[^key-ab1c219a35d50d10b233e2cd4a71a78b]: Commencement: Art. 49 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-ab1c219a35d50d10b233e2cd4a71a78b]: Commencement: Art. 49 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)

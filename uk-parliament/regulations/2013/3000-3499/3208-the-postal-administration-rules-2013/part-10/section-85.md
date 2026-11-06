@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Notice of intention to resign[^key-45b1042fa888018b56a7a624babe4c35]
+## 85. Notice of intention to resign[^c-45b1042fa888018b56a7a624babe4c35]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The postal administrator shall in all cases give at least 5 business days’ not
 
 ## Annotations
 
-[^key-45b1042fa888018b56a7a624babe4c35]: Commencement: [Rule 85](https://www.legislation.gov.uk/uksi/2013/3208/rule/85) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-45b1042fa888018b56a7a624babe4c35]: Commencement: [Rule 85](https://www.legislation.gov.uk/uksi/2013/3208/rule/85) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

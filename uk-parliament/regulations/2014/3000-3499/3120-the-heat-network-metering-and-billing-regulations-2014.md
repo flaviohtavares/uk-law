@@ -42,7 +42,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-These Regulations are made by the Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c22267101] in relation to energy and energy sources [^c22267111] in exercise of the powers conferred by section 2(2) of that Act.[^key-aa3577d05129a55408729abfd527083c][^key-15310aa8c12f21de0f33238cefd2c559]
+These Regulations are made by the Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c22267101] in relation to energy and energy sources [^c22267111] in exercise of the powers conferred by section 2(2) of that Act.[^c-aa3577d05129a55408729abfd527083c][^c-15310aa8c12f21de0f33238cefd2c559]
 
 ## PART 1 — Introductory
 
@@ -60,7 +60,7 @@ These Regulations are made by the Secretary of State, being a Minister designate
 
 In these Regulations—
 
-- “almshouse accommodation” means—[^key-24a7ec1c48b666d65782234dbdda52f9]
+- “almshouse accommodation” means—[^c-24a7ec1c48b666d65782234dbdda52f9]
   - (a) accommodation in an almshouse provided by an almshouse charity; or
   - (b) any low cost rental accommodation provided by a charity which is maintained as an almshouse (whether it is called an almshouse or not);
 - “**authorised person**” means—
@@ -69,7 +69,7 @@ In these Regulations—
   - (c) a person authorised under regulation 10(2);
 - “**bill**” means a demand for payment from a heat supplier to a final customer for the supply of heating, cooling or hot water by that heat supplier;
 - “**billing**” means the issuing of a bill;
-- “[^key-d944fd8d8ff3249196deb465b128363a]**billing information *(affected by repeal, see note)*[^key-d944fd8d8ff3249196deb465b128363a]**” means the information specified in paragraph 4 of Schedule 2 provided by the heat supplier to a final customer in respect of the supply of heating, cooling or hot water from a district heat network or communal heating operated by that heat supplier; *(affected by repeal, see note)*[^key-d944fd8d8ff3249196deb465b128363a]
+- “[^c-d944fd8d8ff3249196deb465b128363a]**billing information *(affected by repeal, see note)*[^c-d944fd8d8ff3249196deb465b128363a]**” means the information specified in paragraph 4 of Schedule 2 provided by the heat supplier to a final customer in respect of the supply of heating, cooling or hot water from a district heat network or communal heating operated by that heat supplier; *(affected by repeal, see note)*[^c-d944fd8d8ff3249196deb465b128363a]
 - “**communal heating**” means the distribution of thermal energy in the form of steam, hot water, or chilled liquids from a central source in a building which is occupied by more than one final customer, for the use of space or process heating, cooling or hot water;
 - “**district heat network**” means the distribution of thermal energy in the form of steam, hot water or chilled liquids from a central source of production through a network to multiple buildings or sites for the use of space or process heating, cooling or hot water;
 - “existing building” means—
@@ -106,7 +106,7 @@ In these Regulations—
     - (vii) teenage parents; or
     - (viii) refugees.
 
-### 2A. Classes of building[^key-c0f27590e7209ea9c390658229a4ae72]
+### 2A. Classes of building[^c-c0f27590e7209ea9c390658229a4ae72]
 
 (1) The following buildings are in the viable class—
 
@@ -142,7 +142,7 @@ In these Regulations—
 (4) A building mentioned in paragraph (3)(c) or (d) is not in the exempt class if, for each private dwelling and non-domestic premises in the building—
 
 - (a) a meter to which regulation 4(3) or (4) applies has been installed; or
-- (b) heat cost allocators, thermostatic radiator valves and a hot water meter to which regulation 6(2) applies *(affected by repeal, see note)*[^key-8c1c8b703ad2a4b34bd0f1610c4532d9] applied before that regulation was revoked have been installed.
+- (b) heat cost allocators, thermostatic radiator valves and a hot water meter to which regulation 6(2) applies *(affected by repeal, see note)*[^c-8c1c8b703ad2a4b34bd0f1610c4532d9] applied before that regulation was revoked have been installed.
 
 (5) For the purpose of paragraph (1)(c)—
 
@@ -153,43 +153,43 @@ In these Regulations—
 
 ## PART 2 — Duties in respect of metering and billing
 
-### 3. Duty to notify (affected by repeal, see note)[^key-b791bebb5c0c411e4dc6157706443658][^key-b791bebb5c0c411e4dc6157706443658]
+### 3. Duty to notify (affected by repeal, see note)[^c-b791bebb5c0c411e4dc6157706443658][^c-b791bebb5c0c411e4dc6157706443658]
 
-(1) Heat suppliers must, in relation to each district heat network or communal heating operated by them, submit a notification to the Secretary of State, or in relation to a Scottish network the Scottish Ministers, as to the following— *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
+(1) Heat suppliers must, in relation to each district heat network or communal heating operated by them, submit a notification to the Secretary of State, or in relation to a Scottish network the Scottish Ministers, as to the following— *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
 
-- (a) the location of that district heat network or communal heating; *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-- (b) the estimated total for that district heat network or communal heating, per calendar year, of— *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-  - (i) installed heating capacity, *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-  - (ii (affected by repeal, see note))[^key-b791bebb5c0c411e4dc6157706443658] heat generated, and *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-  - (iii (affected by repeal, see note))[^key-b791bebb5c0c411e4dc6157706443658] heat supplied; *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-- (c) the number and type of buildings supplied by that district heat network or communal heating; *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-- (ca (affected by repeal, see note))[^key-112f0f0dc4c3377a93e7f814f29f02a4][^key-b791bebb5c0c411e4dc6157706443658] the number of buildings supplied by that district heat network or communal heating in each class; *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-- (d) the number and type of meters or heat cost allocators installed in any buildings supplied by that district heat network or communal heating; *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-- (e) the number of final customers supplied by that district heat network or communal heating; *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-- (f) the name and business address of the heat supplier; *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-- (g) where any analysis *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658] has been carried out in accordance with Schedule 1 for the purpose of regulation 4 or 6[^key-8ca10ccbaaa1d26c6002575d1bfe99ab] *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658], the results of that analysis together with details of any meters or heat cost allocators which have been installed as a result; *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-- (h) the expected frequency and content of billing information provided by the heat supplier to the final customers; and *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-- (i) any other information reasonably required by an authorised person for the purpose of determining whether the heat supplier has complied with the duties in these regulations. *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
+- (a) the location of that district heat network or communal heating; *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+- (b) the estimated total for that district heat network or communal heating, per calendar year, of— *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+  - (i) installed heating capacity, *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+  - (ii (affected by repeal, see note))[^c-b791bebb5c0c411e4dc6157706443658] heat generated, and *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+  - (iii (affected by repeal, see note))[^c-b791bebb5c0c411e4dc6157706443658] heat supplied; *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+- (c) the number and type of buildings supplied by that district heat network or communal heating; *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+- (ca (affected by repeal, see note))[^c-112f0f0dc4c3377a93e7f814f29f02a4][^c-b791bebb5c0c411e4dc6157706443658] the number of buildings supplied by that district heat network or communal heating in each class; *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+- (d) the number and type of meters or heat cost allocators installed in any buildings supplied by that district heat network or communal heating; *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+- (e) the number of final customers supplied by that district heat network or communal heating; *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+- (f) the name and business address of the heat supplier; *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+- (g) where any analysis *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658] has been carried out in accordance with Schedule 1 for the purpose of regulation 4 or 6[^c-8ca10ccbaaa1d26c6002575d1bfe99ab] *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658], the results of that analysis together with details of any meters or heat cost allocators which have been installed as a result; *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+- (h) the expected frequency and content of billing information provided by the heat supplier to the final customers; and *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+- (i) any other information reasonably required by an authorised person for the purpose of determining whether the heat supplier has complied with the duties in these regulations. *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
 
-(2) Heat suppliers must comply with the duty in paragraph (1)— *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
+(2) Heat suppliers must comply with the duty in paragraph (1)— *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
 
-- (a) on or before the *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658] 31st December 2015[^key-657a1d0fa832ec5be266f70f77c373d7] *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]; or *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-- (b) in relation to a district heat network or communal heating that commences operation after *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658] 31st December 2015 *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658], on or before the first date of operation. *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
+- (a) on or before the *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658] 31st December 2015[^c-657a1d0fa832ec5be266f70f77c373d7] *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]; or *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+- (b) in relation to a district heat network or communal heating that commences operation after *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658] 31st December 2015 *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658], on or before the first date of operation. *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
 
-(3) Subject to paragraph (4), a[^key-0bbad89be5badf72bda4d9f05442e35d] *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658] heat supplier must submit an updated notification within four years of the date of the first notification submitted and within every four year period thereafter from the date of the previous notification. *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
+(3) Subject to paragraph (4), a[^c-0bbad89be5badf72bda4d9f05442e35d] *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658] heat supplier must submit an updated notification within four years of the date of the first notification submitted and within every four year period thereafter from the date of the previous notification. *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
 
-(4)[^key-70eaf1c28a6d426c562b03b07951d221] If an updated notification is due to be submitted by a heat supplier in the period beginning on 27th November 2020 and ending on 1st September 2022, the heat supplier may submit the updated notification at any time before the end of that period. *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
+(4)[^c-70eaf1c28a6d426c562b03b07951d221] If an updated notification is due to be submitted by a heat supplier in the period beginning on 27th November 2020 and ending on 1st September 2022, the heat supplier may submit the updated notification at any time before the end of that period. *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
 
-(5) A change of heat supplier in relation to a district heat network or communal heating does not alter the period within which the heat supplier must comply with paragraph (3). *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
+(5) A change of heat supplier in relation to a district heat network or communal heating does not alter the period within which the heat supplier must comply with paragraph (3). *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
 
-(6) A notification or updated notification must be submitted in a form approved by the Secretary of State or, in relation to a Scottish network, the Scottish Ministers. *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
+(6) A notification or updated notification must be submitted in a form approved by the Secretary of State or, in relation to a Scottish network, the Scottish Ministers. *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
 
-(7) The Secretary of State or, in relation to a Scottish network, the Scottish Ministers may— *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
+(7) The Secretary of State or, in relation to a Scottish network, the Scottish Ministers may— *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
 
-- (a) reject a notification or updated notification that does not comply with paragraph *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658] (6); and *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
-- (b) require the heat supplier to resubmit the notification or updated notification in a form that complies with that paragraph. *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
+- (a) reject a notification or updated notification that does not comply with paragraph *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658] (6); and *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
+- (b) require the heat supplier to resubmit the notification or updated notification in a form that complies with that paragraph. *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
 
-(8) In this regulation, “class” in relation to a building supplied by a district heat network or communal heating means viable class, open class or exempt class within the meaning of regulation 2A. *(affected by repeal, see note)*[^key-b791bebb5c0c411e4dc6157706443658]
+(8) In this regulation, “class” in relation to a building supplied by a district heat network or communal heating means viable class, open class or exempt class within the meaning of regulation 2A. *(affected by repeal, see note)*[^c-b791bebb5c0c411e4dc6157706443658]
 
 ### 4. Duty to install meters[^c23349321]
 
@@ -197,104 +197,104 @@ In these Regulations—
 
 (2) A meter installed in accordance with paragraph (1) must be situated at a heat exchanger in that building or at the point of entry of the district heat network pipes into the building.
 
-(2A)[^key-8d998c1ee398740505462966926c4b59] Heat suppliers must comply with paragraph (3) or (4) in respect of all buildings in the viable class supplied by a district heat network or communal heating operated by them.
+(2A)[^c-8d998c1ee398740505462966926c4b59] Heat suppliers must comply with paragraph (3) or (4) in respect of all buildings in the viable class supplied by a district heat network or communal heating operated by them.
 
-(2B)[^key-3b62016a15d5acd8f5ce54605ab10f22] A heat supplier must comply with paragraph (3) or (4) before 1st September 2022 in respect of a building which first falls within the open class before that date, where the heat supplier determines that it is cost effective and technically feasible to install meters in the building. *(affected by repeal, see note)*[^key-3b62016a15d5acd8f5ce54605ab10f22]
+(2B)[^c-3b62016a15d5acd8f5ce54605ab10f22] A heat supplier must comply with paragraph (3) or (4) before 1st September 2022 in respect of a building which first falls within the open class before that date, where the heat supplier determines that it is cost effective and technically feasible to install meters in the building. *(affected by repeal, see note)*[^c-3b62016a15d5acd8f5ce54605ab10f22]
 
-(2C) A determination for the purpose of paragraph (2B) is to be made— *(affected by repeal, see note)*[^key-3b62016a15d5acd8f5ce54605ab10f22]
+(2C) A determination for the purpose of paragraph (2B) is to be made— *(affected by repeal, see note)*[^c-3b62016a15d5acd8f5ce54605ab10f22]
 
-- (a) before 27th November 2021, where the building first falls within the open class before that date; or *(affected by repeal, see note)*[^key-3b62016a15d5acd8f5ce54605ab10f22]
-- (b) otherwise, before 1st September 2022. *(affected by repeal, see note)*[^key-3b62016a15d5acd8f5ce54605ab10f22]
+- (a) before 27th November 2021, where the building first falls within the open class before that date; or *(affected by repeal, see note)*[^c-3b62016a15d5acd8f5ce54605ab10f22]
+- (b) otherwise, before 1st September 2022. *(affected by repeal, see note)*[^c-3b62016a15d5acd8f5ce54605ab10f22]
 
-(2D) Where a heat supplier determines that it is cost effective and technically feasible to install meters in a building which first falls within the open class on or after 1st September 2022, the heat supplier must comply with paragraph (3) or (4) when the building first falls within the open class. *(affected by repeal, see note)*[^key-3b62016a15d5acd8f5ce54605ab10f22]
+(2D) Where a heat supplier determines that it is cost effective and technically feasible to install meters in a building which first falls within the open class on or after 1st September 2022, the heat supplier must comply with paragraph (3) or (4) when the building first falls within the open class. *(affected by repeal, see note)*[^c-3b62016a15d5acd8f5ce54605ab10f22]
 
 (3) Where only one final customer occupies a building supplied by a district heat network, the heat supplier must ensure that meters are installed to measure the consumption of heating, cooling or hot water by that final customer.
 
-(4) Where there is more than one final customer in a building supplied by a district heat network, or by communal heating, the heat supplier must ensure that sufficient[^key-3da81463e874f975a3a434703d5a693d] meters are installed to measure the consumption of heating, cooling or hot water by each final customer.
+(4) Where there is more than one final customer in a building supplied by a district heat network, or by communal heating, the heat supplier must ensure that sufficient[^c-3da81463e874f975a3a434703d5a693d] meters are installed to measure the consumption of heating, cooling or hot water by each final customer.
 
-(5)[^key-99e4d8d331069903eb3d9d4736f87b8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-99e4d8d331069903eb3d9d4736f87b8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-1861298d0bc7c03d9f1d4a7408b01ad6][^key-841abfddd83bfa4f298805f643b76e45] A determination as to whether it is cost effective and technically feasible to install meters in a building must be made on the basis of an analysis carried out in accordance with Schedule 1. *(affected by repeal, see note)*[^key-1861298d0bc7c03d9f1d4a7408b01ad6]
+(6)[^c-1861298d0bc7c03d9f1d4a7408b01ad6][^c-841abfddd83bfa4f298805f643b76e45] A determination as to whether it is cost effective and technically feasible to install meters in a building must be made on the basis of an analysis carried out in accordance with Schedule 1. *(affected by repeal, see note)*[^c-1861298d0bc7c03d9f1d4a7408b01ad6]
 
-(7) Within four years of making a determination, a heat supplier who determines that it is not cost effective or technically feasible to install meters in the building— *(affected by repeal, see note)*[^key-1861298d0bc7c03d9f1d4a7408b01ad6]
+(7) Within four years of making a determination, a heat supplier who determines that it is not cost effective or technically feasible to install meters in the building— *(affected by repeal, see note)*[^c-1861298d0bc7c03d9f1d4a7408b01ad6]
 
-- (a) must make a further determination; and *(affected by repeal, see note)*[^key-1861298d0bc7c03d9f1d4a7408b01ad6]
-- (b) if the heat supplier then determines that it is cost effective and technically feasible to install meters in the building, must comply with paragraph (3) or (4) within that four year period. *(affected by repeal, see note)*[^key-1861298d0bc7c03d9f1d4a7408b01ad6]
+- (a) must make a further determination; and *(affected by repeal, see note)*[^c-1861298d0bc7c03d9f1d4a7408b01ad6]
+- (b) if the heat supplier then determines that it is cost effective and technically feasible to install meters in the building, must comply with paragraph (3) or (4) within that four year period. *(affected by repeal, see note)*[^c-1861298d0bc7c03d9f1d4a7408b01ad6]
 
-(7A) Paragraph (7) does not apply where meters to which paragraph (3) or (4) applies or heat cost allocators, thermostatic radiator valves and hot water meters to which regulation 6(2) applies have been installed in the building. *(affected by repeal, see note)*[^key-1861298d0bc7c03d9f1d4a7408b01ad6]
+(7A) Paragraph (7) does not apply where meters to which paragraph (3) or (4) applies or heat cost allocators, thermostatic radiator valves and hot water meters to which regulation 6(2) applies have been installed in the building. *(affected by repeal, see note)*[^c-1861298d0bc7c03d9f1d4a7408b01ad6]
 
 (8) Where a meter to which paragraph (3) or (4) applies is installed, the heat supplier must ensure that temperature control devices are installed to enable the control of the consumption of heating or cooling by a final customer from that district heat network or communal heating.
 
-(9)[^key-acc3ba4d83538b52cee94aada62403d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-acc3ba4d83538b52cee94aada62403d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Requirements relating to meters[^key-174f0d9dedf7b0f9cc52db5efc02a36b]
+### 5. Requirements relating to meters[^c-174f0d9dedf7b0f9cc52db5efc02a36b]
 
-Where a meter is installed, the[^key-827f55691f9b801ac59b58eacf6b61b2] heat supplier must ensure that the meter accurately measures, memorises and displays the consumption of heating, cooling or hot water by a final customer.
+Where a meter is installed, the[^c-827f55691f9b801ac59b58eacf6b61b2] heat supplier must ensure that the meter accurately measures, memorises and displays the consumption of heating, cooling or hot water by a final customer.
 
-### 6. Duty to install heat cost allocators, thermostatic radiator valves and hot water meters (affected by repeal, see note)[^key-4965e54734cfe4b5692fe1daf1cfd527][^key-4965e54734cfe4b5692fe1daf1cfd527]
+### 6. Duty to install heat cost allocators, thermostatic radiator valves and hot water meters (affected by repeal, see note)[^c-4965e54734cfe4b5692fe1daf1cfd527][^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-(1) Where— *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+(1) Where— *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-- (a) there is more than one final customer in a building supplied by a district heat network or communal heating, *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
-- (b) the heat supplier supplies both heating and hot water to that building, and *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
-- (c) the heat supplier has determined that it is not cost effective or technically feasible to install meters in accordance with regulation 4(4), *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+- (a) there is more than one final customer in a building supplied by a district heat network or communal heating, *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
+- (b) the heat supplier supplies both heating and hot water to that building, and *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
+- (c) the heat supplier has determined that it is not cost effective or technically feasible to install meters in accordance with regulation 4(4), *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-the heat supplier must comply with paragraph (2). *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+the heat supplier must comply with paragraph (2). *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-(2) A heat supplier must ensure that the following are installed— *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+(2) A heat supplier must ensure that the following are installed— *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-- (a) heat cost allocators and thermostatic radiator valves at each room heating radiator in order to determine and enable the control of the consumption of heating by each final customer, and *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
-- (b) a hot water meter. *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+- (a) heat cost allocators and thermostatic radiator valves at each room heating radiator in order to determine and enable the control of the consumption of heating by each final customer, and *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
+- (b) a hot water meter. *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-(2A)[^key-8f70fb68444111a5bce8187f2168fca1] A heat supplier must comply with paragraph (2) before 1st September 2022 in respect of a building which first falls within the open class before that date where— *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+(2A)[^c-8f70fb68444111a5bce8187f2168fca1] A heat supplier must comply with paragraph (2) before 1st September 2022 in respect of a building which first falls within the open class before that date where— *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-- (a) the heat supplier determines that it is cost effective to install heat cost allocators, thermostatic radiator valves and hot water meters in the building; and *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
-- (b) it is technically possible to do so. *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+- (a) the heat supplier determines that it is cost effective to install heat cost allocators, thermostatic radiator valves and hot water meters in the building; and *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
+- (b) it is technically possible to do so. *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-(2B) A determination for the purpose of paragraph (2A)(a) is to be made— *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+(2B) A determination for the purpose of paragraph (2A)(a) is to be made— *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-- (a) before 27th November 2021, where the building first falls within the open class before that date; or *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
-- (b) otherwise, before 1st September 2022. *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+- (a) before 27th November 2021, where the building first falls within the open class before that date; or *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
+- (b) otherwise, before 1st September 2022. *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-(2C) Where a heat supplier determines that it is cost effective to install heat cost allocators, thermostatic radiator valves and hot water meters in a building which first falls within the open class on or after 1st September 2022 and it is technically possible to do so, the heat supplier must comply with paragraph *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527] (2) when the building first falls within the open class. *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+(2C) Where a heat supplier determines that it is cost effective to install heat cost allocators, thermostatic radiator valves and hot water meters in a building which first falls within the open class on or after 1st September 2022 and it is technically possible to do so, the heat supplier must comply with paragraph *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527] (2) when the building first falls within the open class. *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-(3)[^key-2ab3cc2c190fbd81c23564f87e67abcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2ab3cc2c190fbd81c23564f87e67abcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ef62f5dc4e45f2ff3a1ffe6af7b60439] A determination as to whether it is cost effective to install heat cost allocators, thermostatic radiator valves and hot water meters in a building must be made on the basis of an analysis carried out in accordance with Schedule 1. *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+(4)[^c-ef62f5dc4e45f2ff3a1ffe6af7b60439] A determination as to whether it is cost effective to install heat cost allocators, thermostatic radiator valves and hot water meters in a building must be made on the basis of an analysis carried out in accordance with Schedule 1. *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-(5) A heat supplier who determines that it is not cost effective to install heat cost allocators, thermostatic radiator valves and hot water meters in a building— *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+(5) A heat supplier who determines that it is not cost effective to install heat cost allocators, thermostatic radiator valves and hot water meters in a building— *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-- (a) may employ alternative methods for determining charges for the supply of heating and hot water including using meters installed in accordance with regulation 4(1); and *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
-- (b) within four years of making a determination as to cost effectiveness— *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
-  - (i) must make a further determination as to cost effectiveness; and *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
-  - (ii (affected by repeal, see note))[^key-4965e54734cfe4b5692fe1daf1cfd527] if the heat supplier then determines that it is cost effective to install heat cost allocators, thermostatic radiator valves and hot water meters in the building, must comply with paragraph (2) within that four year period. *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+- (a) may employ alternative methods for determining charges for the supply of heating and hot water including using meters installed in accordance with regulation 4(1); and *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
+- (b) within four years of making a determination as to cost effectiveness— *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
+  - (i) must make a further determination as to cost effectiveness; and *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
+  - (ii (affected by repeal, see note))[^c-4965e54734cfe4b5692fe1daf1cfd527] if the heat supplier then determines that it is cost effective to install heat cost allocators, thermostatic radiator valves and hot water meters in the building, must comply with paragraph (2) within that four year period. *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-(5A) Paragraph (5) does not apply where meters to which regulation 4(3) or (4) applies or heat cost allocators, thermostatic radiator valves and hot water meters to which paragraph *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527] (2) applies have been installed in the building. *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+(5A) Paragraph (5) does not apply where meters to which regulation 4(3) or (4) applies or heat cost allocators, thermostatic radiator valves and hot water meters to which paragraph *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527] (2) applies have been installed in the building. *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-(6) Where[^key-6e5c43a8882f2d7a3eda3d69e86a641a] *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527] [^key-8ff12d891e807bd2a662119927c7f304]... a heat cost allocator is installed, *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527] the heat supplier must ensure that it accurately measures, memorises and displays the consumption of heat by a room heating radiator. *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+(6) Where[^c-6e5c43a8882f2d7a3eda3d69e86a641a] *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527] [^c-8ff12d891e807bd2a662119927c7f304]... a heat cost allocator is installed, *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527] the heat supplier must ensure that it accurately measures, memorises and displays the consumption of heat by a room heating radiator. *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-(7)[^key-78992d3303a05d1777b9943702252853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-78992d3303a05d1777b9943702252853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8) A “hot water meter” is a meter to measure consumption of hot water by a final customer. *(affected by repeal, see note)*[^key-4965e54734cfe4b5692fe1daf1cfd527]
+(8) A “hot water meter” is a meter to measure consumption of hot water by a final customer. *(affected by repeal, see note)*[^c-4965e54734cfe4b5692fe1daf1cfd527]
 
-### 7. Replacement of existing meters...[^key-bd97f01e7b6fc038078487ea92fe6eab]
+### 7. Replacement of existing meters...[^c-bd97f01e7b6fc038078487ea92fe6eab]
 
-(1) Where an existing meter which is part of a district heat network or communal heating is replaced the heat supplier must ensure that the replacement meter accurately measures, memorises and displays the consumption of heating, cooling or hot water by a final customer[^key-dd1a322241b4b44177af1d44676661c0].
+(1) Where an existing meter which is part of a district heat network or communal heating is replaced the heat supplier must ensure that the replacement meter accurately measures, memorises and displays the consumption of heating, cooling or hot water by a final customer[^c-dd1a322241b4b44177af1d44676661c0].
 
-(2)[^key-3d13ffd1de044ea8a2fd2e3263aa3129] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3d13ffd1de044ea8a2fd2e3263aa3129] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A heat supplier need not comply with paragraph (1) if it would be technically impossible to do so or the estimated cost would be unreasonable.
 
-(4)[^key-743ea59e0ce533c54ede1f726c36d5c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-743ea59e0ce533c54ede1f726c36d5c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. On-going obligations in relation to meters and heat cost allocators
 
-Where[^key-c9718e93aaab3d7e373a742ae6b8dd2e] [^key-bb05350ae8ab1798e320c40e0e5197f5]... meters or heat cost allocators are installed, the heat supplier must so far as possible ensure those meters and heat cost allocators are —
+Where[^c-c9718e93aaab3d7e373a742ae6b8dd2e] [^c-bb05350ae8ab1798e320c40e0e5197f5]... meters or heat cost allocators are installed, the heat supplier must so far as possible ensure those meters and heat cost allocators are —
 
-- (a) continuously operating correctly[^key-81121e5c2420128a0c5bb7dba57de288], and
+- (a) continuously operating correctly[^c-81121e5c2420128a0c5bb7dba57de288], and
 - (b) properly maintained and periodically checked for errors.
 
-### 8A. No continuing duty to install heat cost allocators, thermostatic radiator valves and hot water meters[^key-ab725fedba298a9d67e572457525820b]
+### 8A. No continuing duty to install heat cost allocators, thermostatic radiator valves and hot water meters[^c-ab725fedba298a9d67e572457525820b]
 
 *Extent: E+W+S*
 
@@ -302,35 +302,35 @@ Where[^key-c9718e93aaab3d7e373a742ae6b8dd2e] [^key-bb05350ae8ab1798e320c40e0e519
 
 (2) Paragraph (1) does not otherwise affect the operation of section 16 of the Interpretation Act 1978 in relation to the amendments to these Regulations made by regulation 12 of the Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026.
 
-### 9. Billing (affected by repeal, see note)[^key-1e2a0605406928c3c206022634e1c6f7][^key-cbf64291e43c68d762d66dece8806c2a][^key-aa17b6d729e8bcbcd70b59d915ff1c8f][^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+### 9. Billing (affected by repeal, see note)[^c-1e2a0605406928c3c206022634e1c6f7][^c-cbf64291e43c68d762d66dece8806c2a][^c-aa17b6d729e8bcbcd70b59d915ff1c8f][^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
-(1) Subject to paragraphs (2) and (4), *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f] where[^key-c72d6f9bfcb12ea1d4e8a6519ab75a6a] *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f] [^key-1e652087b80760d2fcf71e7d0a7e07c9]... meters or heat cost allocators *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f] are installed, the heat supplier must ensure that bills and billing information for the consumption of heating, cooling or hot water by a final customer are— *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+(1) Subject to paragraphs (2) and (4), *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f] where[^c-c72d6f9bfcb12ea1d4e8a6519ab75a6a] *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f] [^c-1e652087b80760d2fcf71e7d0a7e07c9]... meters or heat cost allocators *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f] are installed, the heat supplier must ensure that bills and billing information for the consumption of heating, cooling or hot water by a final customer are— *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
-- (a) accurate; *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
-- (b) based on actual consumption; and *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
-- (c) compliant with the requirements in Schedule 2. *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+- (a) accurate; *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
+- (b) based on actual consumption; and *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
+- (c) compliant with the requirements in Schedule 2. *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
-(2) A heat supplier need not comply with paragraph (1) unless it is technically possible and economically justified to do so. *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+(2) A heat supplier need not comply with paragraph (1) unless it is technically possible and economically justified to do so. *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
-(3) A determination of what is technically possible and economically justified under paragraph (2) must be made by the heat supplier in accordance with Schedule 2. *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+(3) A determination of what is technically possible and economically justified under paragraph (2) must be made by the heat supplier in accordance with Schedule 2. *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
-(4) Where bills or billing information are based on meter readings to be provided by a final customer but that customer has not provided a meter reading, a bill may be based on an estimate of consumption. *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+(4) Where bills or billing information are based on meter readings to be provided by a final customer but that customer has not provided a meter reading, a bill may be based on an estimate of consumption. *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
-(5) The heat supplier must not make a specific charge to a final customer for the provision of a bill or billing information other than in respect of the supply of additional copies of that bill or that billing information. *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+(5) The heat supplier must not make a specific charge to a final customer for the provision of a bill or billing information other than in respect of the supply of additional copies of that bill or that billing information. *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
-(6) Where bills and billing information relate to the consumption of heating, cooling or hot water by final customers in a building occupied by more than one final customer— *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+(6) Where bills and billing information relate to the consumption of heating, cooling or hot water by final customers in a building occupied by more than one final customer— *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
-- (a) the heat supplier's costs of providing such bills and billing information may be passed on to those final customers provided that no profit is made from such charges, or *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
-- (b) where the heat supplier has assigned the task of providing bills or billing information to a third party the reasonable costs of providing them may be passed on to those final customers. *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+- (a) the heat supplier's costs of providing such bills and billing information may be passed on to those final customers provided that no profit is made from such charges, or *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
+- (b) where the heat supplier has assigned the task of providing bills or billing information to a third party the reasonable costs of providing them may be passed on to those final customers. *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
-(7) Heat suppliers must— *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+(7) Heat suppliers must— *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
-- (a) supply a final customer's billing information to an energy services provider at the request of that final customer; *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
-- (b) provide electronic billing and billing information at the request of a final customer; *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
-- (c) provide a clear explanation of the information contained in a bill, including how the bill was calculated and specifying fixed and variable charges; and *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
-- (d) ensure that information and estimates of energy costs are provided to a final customer promptly where requested, and in a format which enables customers to compare the charges of different energy suppliers. *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+- (a) supply a final customer's billing information to an energy services provider at the request of that final customer; *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
+- (b) provide electronic billing and billing information at the request of a final customer; *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
+- (c) provide a clear explanation of the information contained in a bill, including how the bill was calculated and specifying fixed and variable charges; and *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
+- (d) ensure that information and estimates of energy costs are provided to a final customer promptly where requested, and in a format which enables customers to compare the charges of different energy suppliers. *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
-(8) In paragraph (7)(a), “ *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]**energy services provider *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]**” means a person who supplies energy efficiency services. *(affected by repeal, see note)*[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]
+(8) In paragraph (7)(a), “ *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]**energy services provider *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]**” means a person who supplies energy efficiency services. *(affected by repeal, see note)*[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]
 
 ## PART 3 — Enforcement
 
@@ -346,17 +346,17 @@ Where[^key-c9718e93aaab3d7e373a742ae6b8dd2e] [^key-bb05350ae8ab1798e320c40e0e519
 
 (1) It is an offence for any heat supplier to fail to comply with—
 
-- (a)[^key-0a19e790df521e6638aedc62670128e2] regulation 3 (duty to notify); *(affected by repeal, see note)*[^key-0a19e790df521e6638aedc62670128e2]
+- (a)[^c-0a19e790df521e6638aedc62670128e2] regulation 3 (duty to notify); *(affected by repeal, see note)*[^c-0a19e790df521e6638aedc62670128e2]
 - (b) regulation 4 (duty to install meters);
-- (ba)[^key-147a296aca0971ad1322f3e76a8f52fb] regulation 5 (requirements relating to meters);
-- (c)[^key-c368592eb16547965c2332f14c585d7f] regulation 6 (heat cost allocators and hot water meters); *(affected by repeal, see note)*[^key-c368592eb16547965c2332f14c585d7f]
+- (ba)[^c-147a296aca0971ad1322f3e76a8f52fb] regulation 5 (requirements relating to meters);
+- (c)[^c-c368592eb16547965c2332f14c585d7f] regulation 6 (heat cost allocators and hot water meters); *(affected by repeal, see note)*[^c-c368592eb16547965c2332f14c585d7f]
 - (d) regulation 7 (replacement of meters, new buildings and major renovations);
 - (e) regulation 8 (on-going obligations); or
-- (f)[^key-8d0caddc0c015619d27896d40256bc3a] regulation 9 (billing). *(affected by repeal, see note)*[^key-8d0caddc0c015619d27896d40256bc3a]
+- (f)[^c-8d0caddc0c015619d27896d40256bc3a] regulation 9 (billing). *(affected by repeal, see note)*[^c-8d0caddc0c015619d27896d40256bc3a]
 
 (2) No person may be prosecuted for an offence under paragraph (1) in respect of any failure to comply which occurred before 30th April 2015.
 
-(2A)[^key-565484596feefe2b66399b5bdf479019] No person may be prosecuted for—
+(2A)[^c-565484596feefe2b66399b5bdf479019] No person may be prosecuted for—
 
 - (a) an offence under paragraph (1)(b) in respect of any failure to comply with regulation 4(8) which occurred before 1st September 2022;
 - (b) an offence under paragraph (1)(ba) in respect of any meter installed before 27th November 2020 where the offence occurred before 1st September 2022;
@@ -390,17 +390,17 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 ### 13. Penalties
 
-(1) Any person found guilty of an offence under regulation 11(1)(a), (e) or (f) *(affected by repeal, see note)*[^key-30507acea400616cb167f276e8493bc4] regulation 11(1)(e) or (3) shall be liable on summary conviction to a fine [^key-b9d85ad9014e032dc7d44f7a956ea6e7]... or in Scotland or Northern Ireland[^key-d976defe7b3a6a983089b45f05a98224] a fine not exceeding level 5 on the standard scale.
+(1) Any person found guilty of an offence under regulation 11(1)(a), (e) or (f) *(affected by repeal, see note)*[^c-30507acea400616cb167f276e8493bc4] regulation 11(1)(e) or (3) shall be liable on summary conviction to a fine [^c-b9d85ad9014e032dc7d44f7a956ea6e7]... or in Scotland or Northern Ireland[^c-d976defe7b3a6a983089b45f05a98224] a fine not exceeding level 5 on the standard scale.
 
 (2) Any person found guilty of an offence under regulation 11(1)(b) to (d) shall be liable—
 
-- (aa)[^key-91850e6dca2725c0e7dcd8454fbece81] on summary conviction in England and Wales to a fine;
-- (a) on summary conviction in Scotland or Northern Ireland[^key-7def54db3aaa61b03b7ef0a6ee447e42] to a fine not exceeding the statutory maximum; or
+- (aa)[^c-91850e6dca2725c0e7dcd8454fbece81] on summary conviction in England and Wales to a fine;
+- (a) on summary conviction in Scotland or Northern Ireland[^c-7def54db3aaa61b03b7ef0a6ee447e42] to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment to a fine.
 
 ### 14. Time limit for prosecution of offences
 
-(1) An offence under regulation 11(1)(a), (e) or (f) *(affected by repeal, see note)*[^key-7047acfab953a5d72d58c2ea83e61441][^key-2c734e17e5cf5d47876295d4a671c272] regulation 11(1)(e) or (3) may be tried if—
+(1) An offence under regulation 11(1)(a), (e) or (f) *(affected by repeal, see note)*[^c-7047acfab953a5d72d58c2ea83e61441][^c-2c734e17e5cf5d47876295d4a671c272] regulation 11(1)(e) or (3) may be tried if—
 
 - (a) in England and Wales, the information is laid;
 - (b) in Northern Ireland, the complaint is made; or
@@ -423,7 +423,7 @@ before the end of the period of 12 months beginning on the day after the date on
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Articles 9(1) and (3), 10 and 11 of Directive 2012/27/[^key-1dd2b87e108b2b7a6d3ec48e2bc5acd9]EU of the European Parliament and of the Council on energy efficiency are implemented in other Member States.
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Articles 9(1) and (3), 10 and 11 of Directive 2012/27/[^c-1dd2b87e108b2b7a6d3ec48e2bc5acd9]EU of the European Parliament and of the Council on energy efficiency are implemented in other Member States.
 
 (3) The report must in particular—
 
@@ -441,117 +441,117 @@ Parliamentary Under Secretary of State
 
 Department of Energy and Climate Change
 
-## SCHEDULE 1 (affected by repeal, see note) — Analysis (affected by repeal, see note) of cost effectiveness and technical feasibility (affected by repeal, see note)[^key-d0c2bd72999a5d8c1dedbadbae42b6d0][^key-b51941443f68caca2523b826fd71d8dc][^key-d0c2bd72999a5d8c1dedbadbae42b6d0][^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+## SCHEDULE 1 (affected by repeal, see note) — Analysis (affected by repeal, see note) of cost effectiveness and technical feasibility (affected by repeal, see note)[^c-d0c2bd72999a5d8c1dedbadbae42b6d0][^c-b51941443f68caca2523b826fd71d8dc][^c-d0c2bd72999a5d8c1dedbadbae42b6d0][^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-Regulations 3, 4 and 6[^key-4fbd16f41604d5612c5f369efd9a3a59] *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+Regulations 3, 4 and 6[^c-4fbd16f41604d5612c5f369efd9a3a59] *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-**1.** (1) Where sub-paragraph (2) applies it will be considered cost effective for the purposes of regulations 4(6) and 6(4) for the heat supplier to install meters in a building in accordance with regulations 4(3) to (4) and 6(2). *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+**1.** (1) Where sub-paragraph (2) applies it will be considered cost effective for the purposes of regulations 4(6) and 6(4) for the heat supplier to install meters in a building in accordance with regulations 4(3) to (4) and 6(2). *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-(2) This sub-paragraph applies where the net present value of projected energy savings to all the final customers in the building supplied with heating *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0],[^key-d423525dc6d30058fd1e64ad78eeb347] *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] cooling or hot water by the heat supplier, over the 10 year period subsequent to installation, is greater than the net present value of the estimated reasonable costs of installing the meters in that building. *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+(2) This sub-paragraph applies where the net present value of projected energy savings to all the final customers in the building supplied with heating *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0],[^c-d423525dc6d30058fd1e64ad78eeb347] *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] cooling or hot water by the heat supplier, over the 10 year period subsequent to installation, is greater than the net present value of the estimated reasonable costs of installing the meters in that building. *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-**2.** The matters to be taken into account in estimating the costs of installation are the capital, installation, operation and maintenance costs of the meters, taking into account— *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+**2.** The matters to be taken into account in estimating the costs of installation are the capital, installation, operation and maintenance costs of the meters, taking into account— *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-- (a) the building type, age and number of individual private dwellings or non-domestic premises in the building; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (b) the number of storeys in the building; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (c) the geographical location of the building; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (d) in the case of a building not containing private dwellings, the type of use of the building; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (e) whether the costs could be reduced if another building supplied from the same district heat network is also to have meters installed in accordance with these regulations; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (f) any costs of access to private dwelling or non-domestic premises including legal costs; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (g) any costs of access to or isolation of pipework; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (h) any costs of repair to decoration or building fabric as a consequence of the installation; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (i) any costs of installation of temperature control devices; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (j) the cost of equipment and software to collect data from the meters to be used for billing; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (k) the cost of issuing bills and billing information; and *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (l) the cost of re-calibrating the meters periodically to ensure accuracy of performance. *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (a) the building type, age and number of individual private dwellings or non-domestic premises in the building; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (b) the number of storeys in the building; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (c) the geographical location of the building; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (d) in the case of a building not containing private dwellings, the type of use of the building; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (e) whether the costs could be reduced if another building supplied from the same district heat network is also to have meters installed in accordance with these regulations; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (f) any costs of access to private dwelling or non-domestic premises including legal costs; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (g) any costs of access to or isolation of pipework; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (h) any costs of repair to decoration or building fabric as a consequence of the installation; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (i) any costs of installation of temperature control devices; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (j) the cost of equipment and software to collect data from the meters to be used for billing; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (k) the cost of issuing bills and billing information; and *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (l) the cost of re-calibrating the meters periodically to ensure accuracy of performance. *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-**3.** The projected energy savings over the 10 year period subsequent to installation for the purpose of paragraph 1 is— *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+**3.** The projected energy savings over the 10 year period subsequent to installation for the purpose of paragraph 1 is— *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-- (a) 20% of the *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand[^key-93b6ca214eca79cea8436d1c33984f5e] *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] in the case of a building consisting mainly of private dwellings, except for the one year period subsequent to installation when the projected value to be applied is 10% of the *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]; and *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (b) 10% of the *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] in the case of any other building except for the one year period subsequent to installation where the projected value to be applied is 5% of the *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0].
+- (a) 20% of the *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand[^c-93b6ca214eca79cea8436d1c33984f5e] *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] in the case of a building consisting mainly of private dwellings, except for the one year period subsequent to installation when the projected value to be applied is 10% of the *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]; and *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (b) 10% of the *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] in the case of any other building except for the one year period subsequent to installation where the projected value to be applied is 5% of the *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0].
 
-**4.** It will be considered technically feasible to install meters in a building consisting mainly of private dwellings unless— *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+**4.** It will be considered technically feasible to install meters in a building consisting mainly of private dwellings unless— *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-- (a) there is more than one entry point for the pipes of the district heat network or communal heating into each private dwelling within that building or the entry point for the pipes is unknown; or *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (b)[^key-ae0e948d7b2aabe1c55dd49282b207a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) there is more than one entry point for the pipes of the district heat network or communal heating into each private dwelling within that building or the entry point for the pipes is unknown; or *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (b)[^c-ae0e948d7b2aabe1c55dd49282b207a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** It will be considered technically feasible to install meters in a building not consisting mainly of private dwellings unless— *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+**5.** It will be considered technically feasible to install meters in a building not consisting mainly of private dwellings unless— *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-- (a)[^key-0075d79c64a65e4fcc4839491c35d58a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) there is more than one entry point for the pipes of the district heat network heating or communal heating into each private dwelling or non-domestic premises in a building or the entry point of the pipes is unknown; or *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (c)[^key-1eddcbc7e0977dc4ec2488681a93810c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0075d79c64a65e4fcc4839491c35d58a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) there is more than one entry point for the pipes of the district heat network heating or communal heating into each private dwelling or non-domestic premises in a building or the entry point of the pipes is unknown; or *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (c)[^c-1eddcbc7e0977dc4ec2488681a93810c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** (1) Where sub-paragraph (2) applies it will be considered cost effective for the purpose of regulation 6(4) to install heat cost allocators and thermostatic radiator valves in accordance with regulation 6(2). *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+**6.** (1) Where sub-paragraph (2) applies it will be considered cost effective for the purpose of regulation 6(4) to install heat cost allocators and thermostatic radiator valves in accordance with regulation 6(2). *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-(2) This *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] sub-paragraph[^key-94902fe9623b210f804d418f76868331] *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] applies where the net present value of the projected energy savings to the final customers in the building over the 10 year period subsequent to installation is greater than the net present value of the estimated reasonable costs of installing *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] hot water meters in the building and[^key-26348fc8b45cc38cbb31ec606c95c846] *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] a heat cost allocator and thermostatic radiator valve for every radiator in that building. *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+(2) This *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] sub-paragraph[^c-94902fe9623b210f804d418f76868331] *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] applies where the net present value of the projected energy savings to the final customers in the building over the 10 year period subsequent to installation is greater than the net present value of the estimated reasonable costs of installing *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] hot water meters in the building and[^c-26348fc8b45cc38cbb31ec606c95c846] *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] a heat cost allocator and thermostatic radiator valve for every radiator in that building. *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-**7.** The matters to be taken into account in estimating the costs of installation of heat cost allocators and thermostatic radiator valves are the capital, installation, operation and maintenance costs of the heat cost allocators and thermostatic radiator valves taking into account— *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+**7.** The matters to be taken into account in estimating the costs of installation of heat cost allocators and thermostatic radiator valves are the capital, installation, operation and maintenance costs of the heat cost allocators and thermostatic radiator valves taking into account— *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-- (a) any cost of access to private dwelling or non-domestic premises including legal costs; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (b) the cost of equipment and software to collect data from the heat cost allocators to be used for billing; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (c) the cost of re-calibrating the heat cost allocators periodically to ensure accuracy of performance; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] [^key-0c9ad066bcfc06e051e57d72aa6d3935]...
-- (d) the cost of issuing bills and billing information; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (e)[^key-841dffb6286be90c793030b7227944ed] the matters mentioned in paragraph 2(a) to (d); and *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (f) whether the costs could be reduced if another building supplied from the same district heat network is also to have heat cost allocators and thermostatic radiator valves installed in accordance with regulation 6(2). *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (a) any cost of access to private dwelling or non-domestic premises including legal costs; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (b) the cost of equipment and software to collect data from the heat cost allocators to be used for billing; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (c) the cost of re-calibrating the heat cost allocators periodically to ensure accuracy of performance; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] [^c-0c9ad066bcfc06e051e57d72aa6d3935]...
+- (d) the cost of issuing bills and billing information; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (e)[^c-841dffb6286be90c793030b7227944ed] the matters mentioned in paragraph 2(a) to (d); and *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (f) whether the costs could be reduced if another building supplied from the same district heat network is also to have heat cost allocators and thermostatic radiator valves installed in accordance with regulation 6(2). *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-**8.** The projected energy savings over the 10 year period subsequent to installation for the purpose of paragraph 6 is— *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+**8.** The projected energy savings over the 10 year period subsequent to installation for the purpose of paragraph 6 is— *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-- (a) 20% of the *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand[^key-93285ff5cb185c7576b9adc6f91a781e] *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] in the case of a building consisting mainly of private dwellings, except for the one year period subsequent to installation when the projected value to be applied is 10% of the *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]; and *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (b) 10% of the *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] in the case of any other building except for the one year period subsequent to installation when the projected value to be applied is 5% of the *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0].
+- (a) 20% of the *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand[^c-93285ff5cb185c7576b9adc6f91a781e] *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] in the case of a building consisting mainly of private dwellings, except for the one year period subsequent to installation when the projected value to be applied is 10% of the *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]; and *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (b) 10% of the *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] in the case of any other building except for the one year period subsequent to installation when the projected value to be applied is 5% of the *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] heat or cooling demand *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0].
 
-**9.** For the purpose of this Schedule, the one year period and 10 year period subsequent to installation begin the day after completion of the installation of— *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+**9.** For the purpose of this Schedule, the one year period and 10 year period subsequent to installation begin the day after completion of the installation of— *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-- (a) all the meters *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] and temperature control devices[^key-44bdc9f5a8cdaa35f6a7b9792e0d1cc1] *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] in a building, or *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (b) all the heat cost allocators, thermostatic radiator valves and hot water meters in a building. *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (a) all the meters *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] and temperature control devices[^c-44bdc9f5a8cdaa35f6a7b9792e0d1cc1] *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] in a building, or *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (b) all the heat cost allocators, thermostatic radiator valves and hot water meters in a building. *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-**10.**[^key-63f9623713e052efa6d9720abcb24c9c] In this Schedule, “heat or cooling demand” for a building means the actual heat or cooling consumption for the building or an estimated heat or cooling demand for the building calculated using industry standard methodologies and assumptions for calculating heat demand, taking into account— *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+**10.**[^c-63f9623713e052efa6d9720abcb24c9c] In this Schedule, “heat or cooling demand” for a building means the actual heat or cooling consumption for the building or an estimated heat or cooling demand for the building calculated using industry standard methodologies and assumptions for calculating heat demand, taking into account— *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-- (a) the construction, fabric, ventilation and age of the building; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (b) the number of individual private dwellings or non-domestic premises in the building; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (c) the number of storeys in the building; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (d) the geographical location of the building; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (e) the type of use of the building; *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
-- (f) heat and cooling plant and system efficiency. *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (a) the construction, fabric, ventilation and age of the building; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (b) the number of individual private dwellings or non-domestic premises in the building; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (c) the number of storeys in the building; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (d) the geographical location of the building; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (e) the type of use of the building; *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
+- (f) heat and cooling plant and system efficiency. *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-**11.** A real discount rate of *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] 3.5%[^key-0ab4fc85ab1401030a37323a36154805] *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0] is to be applied to calculate net present value under this Schedule. *(affected by repeal, see note)*[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]
+**11.** A real discount rate of *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] 3.5%[^c-0ab4fc85ab1401030a37323a36154805] *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0] is to be applied to calculate net present value under this Schedule. *(affected by repeal, see note)*[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]
 
-## SCHEDULE 2 (affected by repeal, see note) — Minimum requirements for billing and billing information (affected by repeal, see note)[^key-7c6a5695be81772418758433165ccd5d][^key-729599ddbcda270af69dcf52fc53918f][^key-729599ddbcda270af69dcf52fc53918f]
+## SCHEDULE 2 (affected by repeal, see note) — Minimum requirements for billing and billing information (affected by repeal, see note)[^c-7c6a5695be81772418758433165ccd5d][^c-729599ddbcda270af69dcf52fc53918f][^c-729599ddbcda270af69dcf52fc53918f]
 
-Regulations 2, 9(1) and (3) *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+Regulations 2, 9(1) and (3) *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-**1.** At least once a year a bill must be issued to the final customer on the basis of actual rather than estimated consumption provided that— *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+**1.** At least once a year a bill must be issued to the final customer on the basis of actual rather than estimated consumption provided that— *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-- (a) the final customer has provided a meter reading, or *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
-- (b) the heat supplier has taken a meter reading. *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+- (a) the final customer has provided a meter reading, or *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
+- (b) the heat supplier has taken a meter reading. *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-**2.** Where the final customer has opted to receive electronic billing or where the final customer so requests, billing information must be issued by the heat supplier at least quarterly. *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+**2.** Where the final customer has opted to receive electronic billing or where the final customer so requests, billing information must be issued by the heat supplier at least quarterly. *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-**3.** Where billing information is not issued by the heat supplier at least quarterly in accordance with paragraph (2), billing information must be issued by the heat supplier at least twice a year and with every bill issued. *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+**3.** Where billing information is not issued by the heat supplier at least quarterly in accordance with paragraph (2), billing information must be issued by the heat supplier at least twice a year and with every bill issued. *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-**4.** Billing information means the following information— *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+**4.** Billing information means the following information— *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-- (a) current energy prices charged to the final customer by the heat supplier; *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
-- (b) information about the final customer's energy consumption from the heat supplier; *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
-- (c) where available, comparisons of the final customer's current energy consumption from the heat supplier with consumption for the same period in the previous year, if possible displayed in a graph; and *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
-- (d) contact information, including website addresses, for organisations from which information may be obtained on available energy efficiency improvement measures and technical specifications for products which use energy. *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+- (a) current energy prices charged to the final customer by the heat supplier; *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
+- (b) information about the final customer's energy consumption from the heat supplier; *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
+- (c) where available, comparisons of the final customer's current energy consumption from the heat supplier with consumption for the same period in the previous year, if possible displayed in a graph; and *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
+- (d) contact information, including website addresses, for organisations from which information may be obtained on available energy efficiency improvement measures and technical specifications for products which use energy. *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-**5.** The information specified in sub-paragraph 4(d) must also be supplied to the final customer by the heat supplier when— *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+**5.** The information specified in sub-paragraph 4(d) must also be supplied to the final customer by the heat supplier when— *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-- (a) a contract for the supply of heating, cooling or hot water is sent to the final customer by the heat supplier, or *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
-- (b) any changes to such a contract are sent to the final customer by the heat supplier. *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+- (a) a contract for the supply of heating, cooling or hot water is sent to the final customer by the heat supplier, or *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
+- (b) any changes to such a contract are sent to the final customer by the heat supplier. *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-**6.**[^key-179ed4b9ebee255089be7df13914a258] It will be considered technically possible and economically justified to issue bills and billing information to final customers in accordance with regulation 9(1) where the estimated reasonable costs of issuing bills and billing information to final customers does not exceed £92 per final customer per calendar year unless the final customer occupies— *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+**6.**[^c-179ed4b9ebee255089be7df13914a258] It will be considered technically possible and economically justified to issue bills and billing information to final customers in accordance with regulation 9(1) where the estimated reasonable costs of issuing bills and billing information to final customers does not exceed £92 per final customer per calendar year unless the final customer occupies— *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-- (a) supported housing, almshouse accommodation or purpose-built student accommodation; or *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
-- (b) any private dwelling or non-domestic premises that is subject to a leasehold interest where the lease— *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
-  - (i) began before 27th November 2020; and *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
-  - (ii (affected by repeal, see note))[^key-729599ddbcda270af69dcf52fc53918f] contains a provision which would prevent billing based on actual consumption unless the lease is varied, renewed, or comes to an end. *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+- (a) supported housing, almshouse accommodation or purpose-built student accommodation; or *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
+- (b) any private dwelling or non-domestic premises that is subject to a leasehold interest where the lease— *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
+  - (i) began before 27th November 2020; and *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
+  - (ii (affected by repeal, see note))[^c-729599ddbcda270af69dcf52fc53918f] contains a provision which would prevent billing based on actual consumption unless the lease is varied, renewed, or comes to an end. *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-**7.** The matters to be taken into account in estimating the cost of issuing bills and billing information are the costs of— *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+**7.** The matters to be taken into account in estimating the cost of issuing bills and billing information are the costs of— *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
-- (a) collecting, storing and processing meter readings; *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
-- (b) preparation and issuing of the bill and billing information; *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
-- (c) processing of payments; and *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
-- (d) issuing of demands for payment if a bill is not paid. *(affected by repeal, see note)*[^key-729599ddbcda270af69dcf52fc53918f]
+- (a) collecting, storing and processing meter readings; *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
+- (b) preparation and issuing of the bill and billing information; *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
+- (c) processing of payments; and *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
+- (d) issuing of demands for payment if a bill is not paid. *(affected by repeal, see note)*[^c-729599ddbcda270af69dcf52fc53918f]
 
 ## SCHEDULE 3 — Powers of entry and warrants
 
@@ -618,7 +618,7 @@ The conditions are—
 
 A warrant under paragraph 3 is valid for one month.
 
-## SCHEDULE 4 — Civil sanctions[^key-cd90ae9b8c20d08137c256b2b37310b8][^key-c4fc64deb766cd084a61c2fa9fd9b221][^key-9491eb8b8e0e2d5d7e964c673c7ecf2c][^key-e98ae50d4cafeed05792101ebc8f9285][^key-f9d1678aea8d557fcda3348dba00e0f7][^key-aa6a5a817427911f378c1f9475334bb2]
+## SCHEDULE 4 — Civil sanctions[^c-cd90ae9b8c20d08137c256b2b37310b8][^c-c4fc64deb766cd084a61c2fa9fd9b221][^c-9491eb8b8e0e2d5d7e964c673c7ecf2c][^c-e98ae50d4cafeed05792101ebc8f9285][^c-f9d1678aea8d557fcda3348dba00e0f7][^c-aa6a5a817427911f378c1f9475334bb2]
 
 Regulation 10(3)
 
@@ -817,9 +817,9 @@ An authorised person may accept a written undertaking (an “enforcement underta
 - (d) take such steps as the authorised person could take in relation to the act or omission giving rise to the requirement or notice;
 - (e) remit the decision whether to confirm the requirement or notice, or any matter relating to that decision, to the authorised person.
 
-### PART 7 — Guidance and publicity[^key-e98ae50d4cafeed05792101ebc8f9285][^key-f9d1678aea8d557fcda3348dba00e0f7][^key-aa6a5a817427911f378c1f9475334bb2]
+### PART 7 — Guidance and publicity[^c-e98ae50d4cafeed05792101ebc8f9285][^c-f9d1678aea8d557fcda3348dba00e0f7][^c-aa6a5a817427911f378c1f9475334bb2]
 
-#### 17. Guidance as to use of civil sanctions[^key-e98ae50d4cafeed05792101ebc8f9285][^key-f9d1678aea8d557fcda3348dba00e0f7][^key-aa6a5a817427911f378c1f9475334bb2]
+#### 17. Guidance as to use of civil sanctions[^c-e98ae50d4cafeed05792101ebc8f9285][^c-f9d1678aea8d557fcda3348dba00e0f7][^c-aa6a5a817427911f378c1f9475334bb2]
 
 (1) The authorised person must publish guidance about its use of civil sanctions.
 
@@ -840,11 +840,11 @@ An authorised person may accept a written undertaking (an “enforcement underta
 - (a) the circumstances in which the authorised person is likely to accept an enforcement undertaking; and
 - (b) the circumstances in which the authorised person is not likely to accept an enforcement undertaking.
 
-#### 18. Consultation on guidance[^key-e98ae50d4cafeed05792101ebc8f9285][^key-8a8d956c29f10afafe1b30ec62ea57d0][^key-f9d1678aea8d557fcda3348dba00e0f7][^key-aa6a5a817427911f378c1f9475334bb2][^key-e98ae50d4cafeed05792101ebc8f9285][^key-f9d1678aea8d557fcda3348dba00e0f7][^key-aa6a5a817427911f378c1f9475334bb2]
+#### 18. Consultation on guidance[^c-e98ae50d4cafeed05792101ebc8f9285][^c-8a8d956c29f10afafe1b30ec62ea57d0][^c-f9d1678aea8d557fcda3348dba00e0f7][^c-aa6a5a817427911f378c1f9475334bb2][^c-e98ae50d4cafeed05792101ebc8f9285][^c-f9d1678aea8d557fcda3348dba00e0f7][^c-aa6a5a817427911f378c1f9475334bb2]
 
 The authorised person must consult such persons as it considers appropriate before publishing any guidance or revised guidance.
 
-#### 19. Publication of enforcement action[^key-e98ae50d4cafeed05792101ebc8f9285][^key-f9d1678aea8d557fcda3348dba00e0f7][^key-aa6a5a817427911f378c1f9475334bb2]
+#### 19. Publication of enforcement action[^c-e98ae50d4cafeed05792101ebc8f9285][^c-f9d1678aea8d557fcda3348dba00e0f7][^c-aa6a5a817427911f378c1f9475334bb2]
 
 (1) The authorised person must from time to time publish—
 
@@ -887,164 +887,164 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22267111]: Marginal citation: [European Communities (Designation) Order 2010 (S.I. 2010/761)](https://www.legislation.gov.uk/uksi/2010/761).
 
-[^key-aa3577d05129a55408729abfd527083c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/3120) power to apply (with modifications) conferred (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 19(10)(e)](https://www.legislation.gov.uk/ukpga/2022/44/section/19/10/e), [30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-aa3577d05129a55408729abfd527083c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/3120) power to apply (with modifications) conferred (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 19(10)(e)](https://www.legislation.gov.uk/ukpga/2022/44/section/19/10/e), [30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-15310aa8c12f21de0f33238cefd2c559]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/3120) power to revoke or amend conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 57](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/57)
+[^c-15310aa8c12f21de0f33238cefd2c559]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/3120) power to revoke or amend conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 57](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/57)
 
-[^key-24a7ec1c48b666d65782234dbdda52f9]: Textual amendment: Words in reg. 2 inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1221/regulation/3)
+[^c-24a7ec1c48b666d65782234dbdda52f9]: Textual amendment: Words in reg. 2 inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1221/regulation/3)
 
-[^key-d944fd8d8ff3249196deb465b128363a]: Textual amendment: Words in reg. 2 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(2)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/2)
+[^c-d944fd8d8ff3249196deb465b128363a]: Textual amendment: Words in reg. 2 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(2)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/2)
 
-[^key-c0f27590e7209ea9c390658229a4ae72]: Textual amendment: Reg. 2A inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1221/regulation/4)
+[^c-c0f27590e7209ea9c390658229a4ae72]: Textual amendment: Reg. 2A inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1221/regulation/4)
 
-[^key-8c1c8b703ad2a4b34bd0f1610c4532d9]: Textual amendment: Words in reg. 2A(4)(b) substituted (E.W.S.) (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/3)
+[^c-8c1c8b703ad2a4b34bd0f1610c4532d9]: Textual amendment: Words in reg. 2A(4)(b) substituted (E.W.S.) (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/3)
 
-[^key-b791bebb5c0c411e4dc6157706443658]: Textual amendment: Reg. 3 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(4)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/4)
+[^c-b791bebb5c0c411e4dc6157706443658]: Textual amendment: Reg. 3 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(4)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/4)
 
-[^key-112f0f0dc4c3377a93e7f814f29f02a4]: Textual amendment: Reg. 3(1)(ca) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/5/2/a)
+[^c-112f0f0dc4c3377a93e7f814f29f02a4]: Textual amendment: Reg. 3(1)(ca) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/5/2/a)
 
-[^key-8ca10ccbaaa1d26c6002575d1bfe99ab]: Textual amendment: Words in reg. 3(1)(g) substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/5/2/b)
+[^c-8ca10ccbaaa1d26c6002575d1bfe99ab]: Textual amendment: Words in reg. 3(1)(g) substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/5/2/b)
 
-[^key-657a1d0fa832ec5be266f70f77c373d7]: Textual amendment: Words in reg. 3(2) substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/855/regulation/3)
+[^c-657a1d0fa832ec5be266f70f77c373d7]: Textual amendment: Words in reg. 3(2) substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/855/regulation/3)
 
-[^key-0bbad89be5badf72bda4d9f05442e35d]: Textual amendment: Words in reg. 3(3) substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/5/3)
+[^c-0bbad89be5badf72bda4d9f05442e35d]: Textual amendment: Words in reg. 3(3) substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/5/3)
 
-[^key-70eaf1c28a6d426c562b03b07951d221]: Textual amendment: Reg. 3(4)-(8) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/5/4)
+[^c-70eaf1c28a6d426c562b03b07951d221]: Textual amendment: Reg. 3(4)-(8) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/5/4)
 
 [^c23349321]: Commencement: S. 4(1)-(3), (5)-(9) in force at 18.12.2014, s. 4(4) in force at 31.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3120/regulation/1)
 
-[^key-8d998c1ee398740505462966926c4b59]: Textual amendment: Reg. 4(2A)-(2D) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/6/2)
+[^c-8d998c1ee398740505462966926c4b59]: Textual amendment: Reg. 4(2A)-(2D) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/6/2)
 
-[^key-3b62016a15d5acd8f5ce54605ab10f22]: Textual amendment: Reg. 4(2B)-(2D) omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(5)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/5)
+[^c-3b62016a15d5acd8f5ce54605ab10f22]: Textual amendment: Reg. 4(2B)-(2D) omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(5)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/5)
 
-[^key-3da81463e874f975a3a434703d5a693d]: Textual amendment: Word in reg. 4(4) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/6/3)
+[^c-3da81463e874f975a3a434703d5a693d]: Textual amendment: Word in reg. 4(4) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/6/3)
 
-[^key-99e4d8d331069903eb3d9d4736f87b8d]: Textual amendment: Reg. 4(5) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/6/4)
+[^c-99e4d8d331069903eb3d9d4736f87b8d]: Textual amendment: Reg. 4(5) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/6/4)
 
-[^key-1861298d0bc7c03d9f1d4a7408b01ad6]: Textual amendment: Reg. 4(6)-(7A) omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(5)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/5)
+[^c-1861298d0bc7c03d9f1d4a7408b01ad6]: Textual amendment: Reg. 4(6)-(7A) omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(5)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/5)
 
-[^key-841abfddd83bfa4f298805f643b76e45]: Textual amendment: Reg. 4(6)-(7A) substituted for reg. 4(6)(7) (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/6/5)
+[^c-841abfddd83bfa4f298805f643b76e45]: Textual amendment: Reg. 4(6)-(7A) substituted for reg. 4(6)(7) (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/6/5)
 
-[^key-acc3ba4d83538b52cee94aada62403d7]: Textual amendment: Reg. 4(9) omitted (20.4.2015) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/855/regulation/4)
+[^c-acc3ba4d83538b52cee94aada62403d7]: Textual amendment: Reg. 4(9) omitted (20.4.2015) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/855/regulation/4)
 
-[^key-174f0d9dedf7b0f9cc52db5efc02a36b]: Textual amendment: Reg. 5 substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/855/regulation/5)
+[^c-174f0d9dedf7b0f9cc52db5efc02a36b]: Textual amendment: Reg. 5 substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/855/regulation/5)
 
-[^key-827f55691f9b801ac59b58eacf6b61b2]: Textual amendment: Words in reg. 5 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1221/regulation/7)
+[^c-827f55691f9b801ac59b58eacf6b61b2]: Textual amendment: Words in reg. 5 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1221/regulation/7)
 
-[^key-4965e54734cfe4b5692fe1daf1cfd527]: Textual amendment: Reg. 6 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(6)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/6)
+[^c-4965e54734cfe4b5692fe1daf1cfd527]: Textual amendment: Reg. 6 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(6)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/6)
 
-[^key-8f70fb68444111a5bce8187f2168fca1]: Textual amendment: Reg. 6(2A)-(2C) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/8/2)
+[^c-8f70fb68444111a5bce8187f2168fca1]: Textual amendment: Reg. 6(2A)-(2C) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/8/2)
 
-[^key-2ab3cc2c190fbd81c23564f87e67abcc]: Textual amendment: Reg. 6(3) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/8/3)
+[^c-2ab3cc2c190fbd81c23564f87e67abcc]: Textual amendment: Reg. 6(3) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/8/3)
 
-[^key-ef62f5dc4e45f2ff3a1ffe6af7b60439]: Textual amendment: Reg. 6(4)-(5A) substituted for reg. 6(4)(5) (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/8/4)
+[^c-ef62f5dc4e45f2ff3a1ffe6af7b60439]: Textual amendment: Reg. 6(4)-(5A) substituted for reg. 6(4)(5) (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/8/4)
 
-[^key-6e5c43a8882f2d7a3eda3d69e86a641a]: Textual amendment: Words in reg. 6(6) substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2015/855/regulation/6/1)
+[^c-6e5c43a8882f2d7a3eda3d69e86a641a]: Textual amendment: Words in reg. 6(6) substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2015/855/regulation/6/1)
 
-[^key-8ff12d891e807bd2a662119927c7f304]: Textual amendment: Words in reg. 6(6) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/8/5)
+[^c-8ff12d891e807bd2a662119927c7f304]: Textual amendment: Words in reg. 6(6) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/8/5)
 
-[^key-78992d3303a05d1777b9943702252853]: Textual amendment: Reg. 6(7) omitted (20.4.2015) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/855/regulation/6/2)
+[^c-78992d3303a05d1777b9943702252853]: Textual amendment: Reg. 6(7) omitted (20.4.2015) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/855/regulation/6/2)
 
-[^key-bd97f01e7b6fc038078487ea92fe6eab]: Textual amendment: Words in reg. 7 heading omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/9/2)
+[^c-bd97f01e7b6fc038078487ea92fe6eab]: Textual amendment: Words in reg. 7 heading omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/9/2)
 
-[^key-dd1a322241b4b44177af1d44676661c0]: Textual amendment: Words in reg. 7(1) substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/9/3)
+[^c-dd1a322241b4b44177af1d44676661c0]: Textual amendment: Words in reg. 7(1) substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/9/3)
 
-[^key-3d13ffd1de044ea8a2fd2e3263aa3129]: Textual amendment: Reg. 7(2) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/9/4)
+[^c-3d13ffd1de044ea8a2fd2e3263aa3129]: Textual amendment: Reg. 7(2) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/9/4)
 
-[^key-743ea59e0ce533c54ede1f726c36d5c3]: Textual amendment: Reg. 7(4) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/9/4)
+[^c-743ea59e0ce533c54ede1f726c36d5c3]: Textual amendment: Reg. 7(4) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/9/4)
 
-[^key-c9718e93aaab3d7e373a742ae6b8dd2e]: Textual amendment: Words in reg. 8 substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [8](https://www.legislation.gov.uk/uksi/2015/855/regulation/8)
+[^c-c9718e93aaab3d7e373a742ae6b8dd2e]: Textual amendment: Words in reg. 8 substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [8](https://www.legislation.gov.uk/uksi/2015/855/regulation/8)
 
-[^key-bb05350ae8ab1798e320c40e0e5197f5]: Textual amendment: Words in reg. 8 omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/10/a)
+[^c-bb05350ae8ab1798e320c40e0e5197f5]: Textual amendment: Words in reg. 8 omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/10/a)
 
-[^key-81121e5c2420128a0c5bb7dba57de288]: Textual amendment: Word in reg. 8 inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/10/b)
+[^c-81121e5c2420128a0c5bb7dba57de288]: Textual amendment: Word in reg. 8 inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/10/b)
 
-[^key-ab725fedba298a9d67e572457525820b]: Textual amendment: Reg. 8A inserted (E.W.S.) (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(7)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/7)
+[^c-ab725fedba298a9d67e572457525820b]: Textual amendment: Reg. 8A inserted (E.W.S.) (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(7)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/7)
 
-[^key-1e2a0605406928c3c206022634e1c6f7]: Modification: Reg. 9 applied (with modifications (5.11.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Northern Ireland) Regulations 2022 (S.I. 2022/1124)](https://www.legislation.gov.uk/uksi/2022/1124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1124/regulation/1/2), [7(1)-(3)](https://www.legislation.gov.uk/uksi/2022/1124/regulation/7/1)
+[^c-1e2a0605406928c3c206022634e1c6f7]: Modification: Reg. 9 applied (with modifications (5.11.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Northern Ireland) Regulations 2022 (S.I. 2022/1124)](https://www.legislation.gov.uk/uksi/2022/1124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1124/regulation/1/2), [7(1)-(3)](https://www.legislation.gov.uk/uksi/2022/1124/regulation/7/1)
 
-[^key-cbf64291e43c68d762d66dece8806c2a]: Modification: Reg. 9 applied (with modifications) (26.4.2023) by [The Energy Bills Discount Scheme Pass-through Requirement (Heat Suppliers) Regulations 2023 (S.I. 2023/455)](https://www.legislation.gov.uk/uksi/2023/455), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/455/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2023/455/regulation/7)
+[^c-cbf64291e43c68d762d66dece8806c2a]: Modification: Reg. 9 applied (with modifications) (26.4.2023) by [The Energy Bills Discount Scheme Pass-through Requirement (Heat Suppliers) Regulations 2023 (S.I. 2023/455)](https://www.legislation.gov.uk/uksi/2023/455), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/455/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2023/455/regulation/7)
 
-[^key-aa17b6d729e8bcbcd70b59d915ff1c8f]: Textual amendment: Reg. 9 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(8)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/8)
+[^c-aa17b6d729e8bcbcd70b59d915ff1c8f]: Textual amendment: Reg. 9 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(8)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/8)
 
-[^key-c72d6f9bfcb12ea1d4e8a6519ab75a6a]: Textual amendment: Words in reg. 9(1) substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/855/regulation/9)
+[^c-c72d6f9bfcb12ea1d4e8a6519ab75a6a]: Textual amendment: Words in reg. 9(1) substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/855/regulation/9)
 
-[^key-1e652087b80760d2fcf71e7d0a7e07c9]: Textual amendment: Words in reg. 9(1) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/1221/regulation/11)
+[^c-1e652087b80760d2fcf71e7d0a7e07c9]: Textual amendment: Words in reg. 9(1) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/1221/regulation/11)
 
-[^key-0a19e790df521e6638aedc62670128e2]: Textual amendment: Reg. 11(1)(a) omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(9)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/9)
+[^c-0a19e790df521e6638aedc62670128e2]: Textual amendment: Reg. 11(1)(a) omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(9)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/9)
 
-[^key-147a296aca0971ad1322f3e76a8f52fb]: Textual amendment: Reg. 11(1)(ba) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/12/2)
+[^c-147a296aca0971ad1322f3e76a8f52fb]: Textual amendment: Reg. 11(1)(ba) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/12/2)
 
-[^key-c368592eb16547965c2332f14c585d7f]: Textual amendment: Reg. 11(1)(c) omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(9)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/9)
+[^c-c368592eb16547965c2332f14c585d7f]: Textual amendment: Reg. 11(1)(c) omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(9)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/9)
 
-[^key-8d0caddc0c015619d27896d40256bc3a]: Textual amendment: Reg. 11(1)(f) omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(9)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/9)
+[^c-8d0caddc0c015619d27896d40256bc3a]: Textual amendment: Reg. 11(1)(f) omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(9)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/9)
 
-[^key-565484596feefe2b66399b5bdf479019]: Textual amendment: Reg. 11(2A) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/12/3)
+[^c-565484596feefe2b66399b5bdf479019]: Textual amendment: Reg. 11(2A) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/12/3)
 
-[^key-30507acea400616cb167f276e8493bc4]: Textual amendment: Words in reg. 13(1) substituted (E.W.S.) (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(10)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/10)
+[^c-30507acea400616cb167f276e8493bc4]: Textual amendment: Words in reg. 13(1) substituted (E.W.S.) (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(10)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/10)
 
-[^key-b9d85ad9014e032dc7d44f7a956ea6e7]: Textual amendment: Words in reg. 13(1) omitted (20.4.2015) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2015/855/regulation/10/a)
+[^c-b9d85ad9014e032dc7d44f7a956ea6e7]: Textual amendment: Words in reg. 13(1) omitted (20.4.2015) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2015/855/regulation/10/a)
 
-[^key-d976defe7b3a6a983089b45f05a98224]: Textual amendment: Words in reg. 13(1) inserted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2015/855/regulation/10/b)
+[^c-d976defe7b3a6a983089b45f05a98224]: Textual amendment: Words in reg. 13(1) inserted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2015/855/regulation/10/b)
 
-[^key-91850e6dca2725c0e7dcd8454fbece81]: Textual amendment: Reg. 13(2)(aa) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/13/a)
+[^c-91850e6dca2725c0e7dcd8454fbece81]: Textual amendment: Reg. 13(2)(aa) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/13/a)
 
-[^key-7def54db3aaa61b03b7ef0a6ee447e42]: Textual amendment: Words in reg. 13(2)(a) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/13/b)
+[^c-7def54db3aaa61b03b7ef0a6ee447e42]: Textual amendment: Words in reg. 13(2)(a) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/13/b)
 
-[^key-7047acfab953a5d72d58c2ea83e61441]: Textual amendment: Words in reg. 14(1) substituted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(11)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/11)
+[^c-7047acfab953a5d72d58c2ea83e61441]: Textual amendment: Words in reg. 14(1) substituted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(11)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/11)
 
-[^key-2c734e17e5cf5d47876295d4a671c272]: Textual amendment: Words in reg. 14(1) substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [11](https://www.legislation.gov.uk/uksi/2015/855/regulation/11)
+[^c-2c734e17e5cf5d47876295d4a671c272]: Textual amendment: Words in reg. 14(1) substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [11](https://www.legislation.gov.uk/uksi/2015/855/regulation/11)
 
-[^key-1dd2b87e108b2b7a6d3ec48e2bc5acd9]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2014/3120/regulation/15/2) substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [12](https://www.legislation.gov.uk/uksi/2015/855/regulation/12)
+[^c-1dd2b87e108b2b7a6d3ec48e2bc5acd9]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2014/3120/regulation/15/2) substituted (20.4.2015) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2015 (S.I. 2015/855)](https://www.legislation.gov.uk/uksi/2015/855), [regs. 1](https://www.legislation.gov.uk/uksi/2015/855/regulation/1), [12](https://www.legislation.gov.uk/uksi/2015/855/regulation/12)
 
-[^key-d0c2bd72999a5d8c1dedbadbae42b6d0]: Textual amendment: Sch. 1 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(12)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/12)
+[^c-d0c2bd72999a5d8c1dedbadbae42b6d0]: Textual amendment: Sch. 1 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(12)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/12)
 
-[^key-b51941443f68caca2523b826fd71d8dc]: Textual amendment: Word in Sch. 1 heading substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/2)
+[^c-b51941443f68caca2523b826fd71d8dc]: Textual amendment: Word in Sch. 1 heading substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/2)
 
-[^key-4fbd16f41604d5612c5f369efd9a3a59]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3120/schedule/1) substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/3)
+[^c-4fbd16f41604d5612c5f369efd9a3a59]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3120/schedule/1) substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/3)
 
-[^key-d423525dc6d30058fd1e64ad78eeb347]: Textual amendment: Comma in Sch. 1 para. 1(2) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/4)
+[^c-d423525dc6d30058fd1e64ad78eeb347]: Textual amendment: Comma in Sch. 1 para. 1(2) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/4)
 
-[^key-93b6ca214eca79cea8436d1c33984f5e]: Textual amendment: Words in Sch. 1 para. 3 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(5)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/5)
+[^c-93b6ca214eca79cea8436d1c33984f5e]: Textual amendment: Words in Sch. 1 para. 3 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(5)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/5)
 
-[^key-ae0e948d7b2aabe1c55dd49282b207a2]: Textual amendment: Sch. 1 para. 4(b) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(6)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/6)
+[^c-ae0e948d7b2aabe1c55dd49282b207a2]: Textual amendment: Sch. 1 para. 4(b) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(6)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/6)
 
-[^key-0075d79c64a65e4fcc4839491c35d58a]: Textual amendment: Sch. 1 para. 5(a) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(7)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/7)
+[^c-0075d79c64a65e4fcc4839491c35d58a]: Textual amendment: Sch. 1 para. 5(a) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(7)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/7)
 
-[^key-1eddcbc7e0977dc4ec2488681a93810c]: Textual amendment: Sch. 1 para. 5(c) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(7)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/7)
+[^c-1eddcbc7e0977dc4ec2488681a93810c]: Textual amendment: Sch. 1 para. 5(c) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(7)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/7)
 
-[^key-94902fe9623b210f804d418f76868331]: Textual amendment: Word in Sch. 1 para. 6(2) substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(8)(a)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/8/a)
+[^c-94902fe9623b210f804d418f76868331]: Textual amendment: Word in Sch. 1 para. 6(2) substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(8)(a)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/8/a)
 
-[^key-26348fc8b45cc38cbb31ec606c95c846]: Textual amendment: Words in Sch. 1 para. 6(2) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(8)(b)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/8/b)
+[^c-26348fc8b45cc38cbb31ec606c95c846]: Textual amendment: Words in Sch. 1 para. 6(2) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(8)(b)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/8/b)
 
-[^key-0c9ad066bcfc06e051e57d72aa6d3935]: Textual amendment: Word in Sch. 1 para. 7(c) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(9)(a)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/9/a)
+[^c-0c9ad066bcfc06e051e57d72aa6d3935]: Textual amendment: Word in Sch. 1 para. 7(c) omitted (27.11.2020) by virtue of [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(9)(a)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/9/a)
 
-[^key-841dffb6286be90c793030b7227944ed]: Textual amendment: Sch. 1 para. 7(e)(f) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(9)(b)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/9/b)
+[^c-841dffb6286be90c793030b7227944ed]: Textual amendment: Sch. 1 para. 7(e)(f) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(9)(b)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/9/b)
 
-[^key-93285ff5cb185c7576b9adc6f91a781e]: Textual amendment: Words in Sch. 1 para. 8 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(10)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/10)
+[^c-93285ff5cb185c7576b9adc6f91a781e]: Textual amendment: Words in Sch. 1 para. 8 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(10)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/10)
 
-[^key-44bdc9f5a8cdaa35f6a7b9792e0d1cc1]: Textual amendment: Words in Sch. 1 para. 9(a) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(11)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/11)
+[^c-44bdc9f5a8cdaa35f6a7b9792e0d1cc1]: Textual amendment: Words in Sch. 1 para. 9(a) inserted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(11)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/11)
 
-[^key-63f9623713e052efa6d9720abcb24c9c]: Textual amendment: Sch. 1 para. 10 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(12)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/12)
+[^c-63f9623713e052efa6d9720abcb24c9c]: Textual amendment: Sch. 1 para. 10 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(12)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/12)
 
-[^key-0ab4fc85ab1401030a37323a36154805]: Textual amendment: Word in Sch. 1 para. 11 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(13)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/13)
+[^c-0ab4fc85ab1401030a37323a36154805]: Textual amendment: Word in Sch. 1 para. 11 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [14(13)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/14/13)
 
-[^key-7c6a5695be81772418758433165ccd5d]: Modification: Sch. 2 applied (with modifications (5.11.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Northern Ireland) Regulations 2022 (S.I. 2022/1124)](https://www.legislation.gov.uk/uksi/2022/1124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1124/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2022/1124/regulation/7/1)[(4)](https://www.legislation.gov.uk/uksi/2022/1124/regulation/7/4)
+[^c-7c6a5695be81772418758433165ccd5d]: Modification: Sch. 2 applied (with modifications (5.11.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Northern Ireland) Regulations 2022 (S.I. 2022/1124)](https://www.legislation.gov.uk/uksi/2022/1124), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1124/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2022/1124/regulation/7/1)[(4)](https://www.legislation.gov.uk/uksi/2022/1124/regulation/7/4)
 
-[^key-729599ddbcda270af69dcf52fc53918f]: Textual amendment: Sch. 2 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(13)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/13)
+[^c-729599ddbcda270af69dcf52fc53918f]: Textual amendment: Sch. 2 omitted (E.W.S.) (27.1.2026) by virtue of [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/c), [12(13)](https://www.legislation.gov.uk/uksi/2026/7/regulation/12/13)
 
-[^key-179ed4b9ebee255089be7df13914a258]: Textual amendment: Sch. 2 para. 6 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2020/1221/regulation/15)
+[^c-179ed4b9ebee255089be7df13914a258]: Textual amendment: Sch. 2 para. 6 substituted (27.11.2020) by [The Heat Network (Metering and Billing) (Amendment) Regulations 2020 (S.I. 2020/1221)](https://www.legislation.gov.uk/uksi/2020/1221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1221/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2020/1221/regulation/15)
 
-[^key-cd90ae9b8c20d08137c256b2b37310b8]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (1.11.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/1101)](https://www.legislation.gov.uk/uksi/2022/1101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2022/1101/regulation/10) (as amended (7.12.2022) by [S.I. 2022/1280](https://www.legislation.gov.uk/uksi/2022/1280), [reg. 8](https://www.legislation.gov.uk/uksi/2022/1280/regulation/8))
+[^c-cd90ae9b8c20d08137c256b2b37310b8]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (1.11.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/1101)](https://www.legislation.gov.uk/uksi/2022/1101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2022/1101/regulation/10) (as amended (7.12.2022) by [S.I. 2022/1280](https://www.legislation.gov.uk/uksi/2022/1280), [reg. 8](https://www.legislation.gov.uk/uksi/2022/1280/regulation/8))
 
-[^key-c4fc64deb766cd084a61c2fa9fd9b221]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/1101)](https://www.legislation.gov.uk/uksi/2022/1101), [reg. 12](https://www.legislation.gov.uk/uksi/2022/1101/regulation/12) (as inserted by [S.I. 2022/1280](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/1280/regulation/9))
+[^c-c4fc64deb766cd084a61c2fa9fd9b221]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/1101)](https://www.legislation.gov.uk/uksi/2022/1101), [reg. 12](https://www.legislation.gov.uk/uksi/2022/1101/regulation/12) (as inserted by [S.I. 2022/1280](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/1280/regulation/9))
 
-[^key-9491eb8b8e0e2d5d7e964c673c7ecf2c]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Northern Ireland) Regulations 2022 (S.I. 2022/1124)](https://www.legislation.gov.uk/uksi/2022/1124), [reg. 11](https://www.legislation.gov.uk/uksi/2022/1124/regulation/11) (as inserted by [S.I. 2022/1280](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2022/1280/regulation/16))
+[^c-9491eb8b8e0e2d5d7e964c673c7ecf2c]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (7.12.2022) by [The Energy Bill Relief Scheme Pass-through Requirement (Heat Suppliers) (Northern Ireland) Regulations 2022 (S.I. 2022/1124)](https://www.legislation.gov.uk/uksi/2022/1124), [reg. 11](https://www.legislation.gov.uk/uksi/2022/1124/regulation/11) (as inserted by [S.I. 2022/1280](https://www.legislation.gov.uk/uksi/2022/1280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1280/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2022/1280/regulation/16))
 
-[^key-e98ae50d4cafeed05792101ebc8f9285]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (E.W.S.) (26.4.2023) by [The Energy Bills Discount Scheme Regulations 2023 (S.I. 2023/453)](https://www.legislation.gov.uk/uksi/2023/453), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/453/regulation/1/1), [73](https://www.legislation.gov.uk/uksi/2023/453/regulation/73), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/453/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2023/453/regulation/3), [4](https://www.legislation.gov.uk/uksi/2023/453/regulation/4), [66](https://www.legislation.gov.uk/uksi/2023/453/regulation/66))
+[^c-e98ae50d4cafeed05792101ebc8f9285]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (E.W.S.) (26.4.2023) by [The Energy Bills Discount Scheme Regulations 2023 (S.I. 2023/453)](https://www.legislation.gov.uk/uksi/2023/453), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/453/regulation/1/1), [73](https://www.legislation.gov.uk/uksi/2023/453/regulation/73), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/453/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2023/453/regulation/3), [4](https://www.legislation.gov.uk/uksi/2023/453/regulation/4), [66](https://www.legislation.gov.uk/uksi/2023/453/regulation/66))
 
-[^key-f9d1678aea8d557fcda3348dba00e0f7]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (N.I.) (26.4.2023) by [The Energy Bills Discount Scheme (Northern Ireland) Regulations 2023 (S.I. 2023/454)](https://www.legislation.gov.uk/uksi/2023/454), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1), [78](https://www.legislation.gov.uk/uksi/2023/454/regulation/78), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/454/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2023/454/regulation/3), [4](https://www.legislation.gov.uk/uksi/2023/454/regulation/4), [71](https://www.legislation.gov.uk/uksi/2023/454/regulation/71))
+[^c-f9d1678aea8d557fcda3348dba00e0f7]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (N.I.) (26.4.2023) by [The Energy Bills Discount Scheme (Northern Ireland) Regulations 2023 (S.I. 2023/454)](https://www.legislation.gov.uk/uksi/2023/454), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/454/regulation/1/1), [78](https://www.legislation.gov.uk/uksi/2023/454/regulation/78), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/454/schedule/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2023/454/regulation/3), [4](https://www.legislation.gov.uk/uksi/2023/454/regulation/4), [71](https://www.legislation.gov.uk/uksi/2023/454/regulation/71))
 
-[^key-aa6a5a817427911f378c1f9475334bb2]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (E.W.S.) (26.4.2023) by [The Energy Bills Discount Scheme Pass-through Requirement (Heat Suppliers) Regulations 2023 (S.I. 2023/455)](https://www.legislation.gov.uk/uksi/2023/455), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/455/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/455/regulation/10)
+[^c-aa6a5a817427911f378c1f9475334bb2]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4) applied (with modifications) (E.W.S.) (26.4.2023) by [The Energy Bills Discount Scheme Pass-through Requirement (Heat Suppliers) Regulations 2023 (S.I. 2023/455)](https://www.legislation.gov.uk/uksi/2023/455), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/455/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/455/regulation/10)
 
-[^key-8a8d956c29f10afafe1b30ec62ea57d0]: Modification: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4/paragraph/18) excluded (26.4.2023) by [The Energy Bills Discount Scheme Pass-through Requirement (Heat Suppliers) Regulations 2023 (S.I. 2023/455)](https://www.legislation.gov.uk/uksi/2023/455), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/455/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/455/regulation/12)
+[^c-8a8d956c29f10afafe1b30ec62ea57d0]: Modification: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2014/3120/schedule/4/paragraph/18) excluded (26.4.2023) by [The Energy Bills Discount Scheme Pass-through Requirement (Heat Suppliers) Regulations 2023 (S.I. 2023/455)](https://www.legislation.gov.uk/uksi/2023/455), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/455/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/455/regulation/12)

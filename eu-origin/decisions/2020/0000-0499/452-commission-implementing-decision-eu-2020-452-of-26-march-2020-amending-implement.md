@@ -37,18 +37,18 @@ amending Implementing Decision (EU) 2019/570 as regards capacities established t
 
 (Text with EEA relevance) (revoked)
 
-[^key-3c7411e1960e4eb31d4b59d0e9b8f0a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c7411e1960e4eb31d4b59d0e9b8f0a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-3c7411e1960e4eb31d4b59d0e9b8f0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3c7411e1960e4eb31d4b59d0e9b8f0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Addressees[^key-3c7411e1960e4eb31d4b59d0e9b8f0a2]
+## Article 2. Addressees[^c-3c7411e1960e4eb31d4b59d0e9b8f0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c7411e1960e4eb31d4b59d0e9b8f0a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c7411e1960e4eb31d4b59d0e9b8f0a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c7411e1960e4eb31d4b59d0e9b8f0a2]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(k)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/k)
+[^c-3c7411e1960e4eb31d4b59d0e9b8f0a2]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(k)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/k)

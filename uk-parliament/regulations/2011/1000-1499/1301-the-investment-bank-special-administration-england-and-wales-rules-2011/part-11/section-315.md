@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 315. Notifications relating to documents[^key-069dfa2c027dbe4b74b7765063883e03]
+## 315. Notifications relating to documents[^c-069dfa2c027dbe4b74b7765063883e03]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In addition to the information required by rule 313, a notification relating to 
 
 ## Annotations
 
-[^key-069dfa2c027dbe4b74b7765063883e03]: Commencement: [Rule 315](https://www.legislation.gov.uk/uksi/2011/1301/rule/315) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-069dfa2c027dbe4b74b7765063883e03]: Commencement: [Rule 315](https://www.legislation.gov.uk/uksi/2011/1301/rule/315) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

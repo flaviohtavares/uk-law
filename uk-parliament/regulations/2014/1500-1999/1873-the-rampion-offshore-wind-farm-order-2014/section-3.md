@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Development consent etc granted by the Order[^key-c4dd790eacd76f1097289035a59ad065][^key-811d4bc21c2b3c9793610c04b14c6f51]
+## 3. Development consent etc granted by the Order[^c-c4dd790eacd76f1097289035a59ad065][^c-811d4bc21c2b3c9793610c04b14c6f51]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ may be constructed pursuant to this Order unless the development authorised by t
 
 ## Annotations
 
-[^key-c4dd790eacd76f1097289035a59ad065]: Commencement: Art. 3 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-c4dd790eacd76f1097289035a59ad065]: Commencement: Art. 3 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-811d4bc21c2b3c9793610c04b14c6f51]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2014/1873/article/3) substituted (28.4.2025) by [The Rampion 2 Offshore Wind Farm Order 2025 (S.I. 2025/468)](https://www.legislation.gov.uk/uksi/2025/468), [arts. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2025/468/article/7/2) (with [arts. 47](https://www.legislation.gov.uk/uksi/2025/468/article/47), [48](https://www.legislation.gov.uk/uksi/2025/468/article/48), [Sch. 10](https://www.legislation.gov.uk/uksi/2025/468/schedule/10))
+[^c-811d4bc21c2b3c9793610c04b14c6f51]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2014/1873/article/3) substituted (28.4.2025) by [The Rampion 2 Offshore Wind Farm Order 2025 (S.I. 2025/468)](https://www.legislation.gov.uk/uksi/2025/468), [arts. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2025/468/article/7/2) (with [arts. 47](https://www.legislation.gov.uk/uksi/2025/468/article/47), [48](https://www.legislation.gov.uk/uksi/2025/468/article/48), [Sch. 10](https://www.legislation.gov.uk/uksi/2025/468/schedule/10))

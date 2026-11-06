@@ -31,7 +31,7 @@ summary: ''
 
 National Health Service, Wales
 
-The National Health Service (Welfare Reform Consequential Amendments) (Wales) Regulations 2015 (revoked)[^key-3c299c7b477be7e510a5ec7b06d9854a]
+The National Health Service (Welfare Reform Consequential Amendments) (Wales) Regulations 2015 (revoked)[^c-3c299c7b477be7e510a5ec7b06d9854a]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 1 April 2015
 
-[^key-3c299c7b477be7e510a5ec7b06d9854a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c299c7b477be7e510a5ec7b06d9854a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-3c299c7b477be7e510a5ec7b06d9854a]
+## 1. Title, commencement and application[^c-3c299c7b477be7e510a5ec7b06d9854a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3c299c7b477be7e510a5ec7b06d9854a]
+## 2. Interpretation[^c-3c299c7b477be7e510a5ec7b06d9854a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 1986 Regulations[^key-3c299c7b477be7e510a5ec7b06d9854a]
+## 3. Amendment of the 1986 Regulations[^c-3c299c7b477be7e510a5ec7b06d9854a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the 1997 Regulations[^key-3c299c7b477be7e510a5ec7b06d9854a]
+## 4. Amendment of the 1997 Regulations[^c-3c299c7b477be7e510a5ec7b06d9854a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the 2007 Regulations[^key-3c299c7b477be7e510a5ec7b06d9854a]
+## 5. Amendment of the 2007 Regulations[^c-3c299c7b477be7e510a5ec7b06d9854a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-3c299c7b477be7e510a5ec7b06d9854a]
+## 6. Revocation[^c-3c299c7b477be7e510a5ec7b06d9854a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c299c7b477be7e510a5ec7b06d9854a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c299c7b477be7e510a5ec7b06d9854a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3c299c7b477be7e510a5ec7b06d9854a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c299c7b477be7e510a5ec7b06d9854a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c299c7b477be7e510a5ec7b06d9854a]: Textual amendment: Regulations revoked (1.4.2016) by [The National Health Service (Welfare Reform Consequential Amendments) (Wales) Regulations 2016 (S.I. 2016/97)](https://www.legislation.gov.uk/uksi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/97/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/97/regulation/6)
+[^c-3c299c7b477be7e510a5ec7b06d9854a]: Textual amendment: Regulations revoked (1.4.2016) by [The National Health Service (Welfare Reform Consequential Amendments) (Wales) Regulations 2016 (S.I. 2016/97)](https://www.legislation.gov.uk/uksi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/97/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/97/regulation/6)

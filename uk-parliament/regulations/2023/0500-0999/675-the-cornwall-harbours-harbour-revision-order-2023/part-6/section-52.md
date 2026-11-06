@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Power to licence moorings[^key-e86b4049f91e25ca4e30dc10df5c760a]
+## 52. Power to licence moorings[^c-e86b4049f91e25ca4e30dc10df5c760a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e86b4049f91e25ca4e30dc10df5c760a]: Commencement: Art. 52 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-e86b4049f91e25ca4e30dc10df5c760a]: Commencement: Art. 52 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

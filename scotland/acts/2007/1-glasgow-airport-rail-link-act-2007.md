@@ -224,7 +224,7 @@ as may be required for any purpose for which that land may be acquired under tha
 
 (2) The powers conferred by subsection (1) may be exercised in relation to a road without the authorised undertaker being required to acquire any part of the road or any servitude or right in relation to it.
 
-(3)[^key-e2ba51b500bf8bf9a77356aa0203a99f] The powers conferred by this section constitute a real right.
+(3)[^c-e2ba51b500bf8bf9a77356aa0203a99f] The powers conferred by this section constitute a real right.
 
 (4) Any person who—
 
@@ -785,10 +785,10 @@ whichever is sooner, BRBR shall be discharged from any obligation to which it is
 
 (2) Without prejudice to the generality of subsection (1), nothing in this Act authorises the acquisition of land (including any rights or interests in land)—
 
-- (a) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^key-a10cfbccbc1e0de4a200f7102023cf32], without the consent in writing of those Commissioners or that person[^key-eb2d4973f39590b021ec3a831eb17537]; or
+- (a) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^c-a10cfbccbc1e0de4a200f7102023cf32], without the consent in writing of those Commissioners or that person[^c-eb2d4973f39590b021ec3a831eb17537]; or
 - (b) held or used by a Minister of the Crown, a government department or the Scottish Ministers, without the consent in writing of that Minister or government department or of the Scottish Ministers.
 
-(2A)[^key-f3fad521f8a586da031dce6adb6ab5da] In subsection (2), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+(2A)[^c-f3fad521f8a586da031dce6adb6ab5da] In subsection (2), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
 (3) A consent under subsection (2) may be given unconditionally or subject to terms and conditions.
 
@@ -1129,10 +1129,10 @@ Building authorised to be altered
 
 ## Annotations
 
-[^key-e2ba51b500bf8bf9a77356aa0203a99f]: Textual amendment: S. 15(3) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 51](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/51) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13, 16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-e2ba51b500bf8bf9a77356aa0203a99f]: Textual amendment: S. 15(3) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 51](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/51) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13, 16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-a10cfbccbc1e0de4a200f7102023cf32]: Textual amendment: Words in s. 50(2)(a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 37(a)(i)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/37/a/i)
+[^c-a10cfbccbc1e0de4a200f7102023cf32]: Textual amendment: Words in s. 50(2)(a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 37(a)(i)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/37/a/i)
 
-[^key-eb2d4973f39590b021ec3a831eb17537]: Textual amendment: Words in s. 50(2)(a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 37(a)(ii)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/37/a/ii)
+[^c-eb2d4973f39590b021ec3a831eb17537]: Textual amendment: Words in s. 50(2)(a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 37(a)(ii)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/37/a/ii)
 
-[^key-f3fad521f8a586da031dce6adb6ab5da]: Textual amendment: S. 50(2A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 37(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/37/b)
+[^c-f3fad521f8a586da031dce6adb6ab5da]: Textual amendment: S. 50(2A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 37(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/37/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Grounds for termination of the general medical services contract[^key-c27010521531820ff3920bf944d8b98d]
+## 52. Grounds for termination of the general medical services contract[^c-c27010521531820ff3920bf944d8b98d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ those circumstances shall, for the purposes of the term of the general medical s
 
 ## Annotations
 
-[^key-c27010521531820ff3920bf944d8b98d]: Commencement: Art. 52 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-c27010521531820ff3920bf944d8b98d]: Commencement: Art. 52 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

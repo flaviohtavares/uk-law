@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Remuneration and allowances[^key-06d404c0264be02eae2dc530b33d1774]
+## 19. Remuneration and allowances[^c-06d404c0264be02eae2dc530b33d1774]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06d404c0264be02eae2dc530b33d1774]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2007/24/section/19) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)
+[^c-06d404c0264be02eae2dc530b33d1774]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2007/24/section/19) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)

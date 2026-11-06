@@ -24,17 +24,17 @@ Section 39
 
 ### Proceeds of Crime (Northern Ireland) Order 1996 (S.I. 1996/1299 (N.I. 9))
 
-**1.**[^key-9ffaa33a91c091f4693f54ee2303ddfd] In Article 5(3) of the Proceeds of Crime (Northern Ireland) Order 1996, after “section 23” insert “ or 23A ”.
+**1.**[^c-9ffaa33a91c091f4693f54ee2303ddfd] In Article 5(3) of the Proceeds of Crime (Northern Ireland) Order 1996, after “section 23” insert “ or 23A ”.
 
 ### Terrorism Act 2000 (c. 11)
 
-**2.**[^key-25e7e72b0103b0ca0a291be42ff58f90] In section 54 of the Terrorism Act 2000, omit subsections (7) to (9).
+**2.**[^c-25e7e72b0103b0ca0a291be42ff58f90] In section 54 of the Terrorism Act 2000, omit subsections (7) to (9).
 
-**3.**[^key-dc3026bd15e7edbb55fd6ee4b9e8c6fd] In section 58 of that Act, omit subsections (5) to (7).
+**3.**[^c-dc3026bd15e7edbb55fd6ee4b9e8c6fd] In section 58 of that Act, omit subsections (5) to (7).
 
-**4.**[^key-2b0605f358eba4c4affc1e936396984c] In section 119(1) of that Act for “sections 15 to 23” substitute “ sections 15 to 23A ”.
+**4.**[^c-2b0605f358eba4c4affc1e936396984c] In section 119(1) of that Act for “sections 15 to 23” substitute “ sections 15 to 23A ”.
 
-**5.**[^key-8b4078c22fd6fffafed6c2ed85f9ac4d] (1) Schedule 4 to that Act is amended as follows.
+**5.**[^c-8b4078c22fd6fffafed6c2ed85f9ac4d] (1) Schedule 4 to that Act is amended as follows.
 
 (2) In paragraph 1—
 
@@ -133,11 +133,11 @@ Section 39
 
 (29) In paragraph 45, in paragraph (a) of the definition of “forfeiture order” after “section 23” insert “ or 23A ”.
 
-**6.**[^key-453dd12bda444c31b9d920c7b782e7e7] In Schedule 8 to that Act, in paragraphs 8(4)(d), 17(3)(c) and 34(2)(c) after “section 23” insert “ or 23A ”.
+**6.**[^c-453dd12bda444c31b9d920c7b782e7e7] In Schedule 8 to that Act, in paragraphs 8(4)(d), 17(3)(c) and 34(2)(c) after “section 23” insert “ or 23A ”.
 
 ### Proceeds of Crime Act 2002 (c. 29)
 
-**7.**[^key-9b4e86f20f185b8bd3716e8285639182] (1) The Proceeds of Crime Act 2002 is amended as follows.
+**7.**[^c-9b4e86f20f185b8bd3716e8285639182] (1) The Proceeds of Crime Act 2002 is amended as follows.
 
 (2) In section 13(3)(d) after “section 23” insert “ or 23A ”.
 
@@ -153,16 +153,16 @@ Section 39
 
 ## Annotations
 
-[^key-9ffaa33a91c091f4693f54ee2303ddfd]: Commencement: Sch. 3 para. 1 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-9ffaa33a91c091f4693f54ee2303ddfd]: Commencement: Sch. 3 para. 1 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-25e7e72b0103b0ca0a291be42ff58f90]: Commencement: Sch. 3 para. 2 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-25e7e72b0103b0ca0a291be42ff58f90]: Commencement: Sch. 3 para. 2 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-dc3026bd15e7edbb55fd6ee4b9e8c6fd]: Commencement: Sch. 3 para. 3 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-dc3026bd15e7edbb55fd6ee4b9e8c6fd]: Commencement: Sch. 3 para. 3 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-2b0605f358eba4c4affc1e936396984c]: Commencement: Sch. 3 para. 4 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-2b0605f358eba4c4affc1e936396984c]: Commencement: Sch. 3 para. 4 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-8b4078c22fd6fffafed6c2ed85f9ac4d]: Commencement: Sch. 3 para. 5 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-8b4078c22fd6fffafed6c2ed85f9ac4d]: Commencement: Sch. 3 para. 5 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-453dd12bda444c31b9d920c7b782e7e7]: Commencement: Sch. 3 para. 6 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-453dd12bda444c31b9d920c7b782e7e7]: Commencement: Sch. 3 para. 6 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-9b4e86f20f185b8bd3716e8285639182]: Commencement: Sch. 3 para. 7 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-9b4e86f20f185b8bd3716e8285639182]: Commencement: Sch. 3 para. 7 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)

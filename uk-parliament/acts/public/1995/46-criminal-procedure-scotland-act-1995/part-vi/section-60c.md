@@ -60,10 +60,10 @@ a constable or the person specified by the court under paragraph (a) of that sub
 - (a) an emergency detention certificate under section 36 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13); or
 - (b) a short-term detention certificate under section 44 of that Act.
 
-(7) This section does not apply in a case where the person is acquitted by reason of the special defence set out in section 51A of this Act.[^key-6352dc65094c25c5b5ce4d80b22316bb]
+(7) This section does not apply in a case where the person is acquitted by reason of the special defence set out in section 51A of this Act.[^c-6352dc65094c25c5b5ce4d80b22316bb]
 
-- (a)[^key-ee3debd5ea7ec1a4916369b950e97d35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-ee3debd5ea7ec1a4916369b950e97d35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ee3debd5ea7ec1a4916369b950e97d35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ee3debd5ea7ec1a4916369b950e97d35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In this section, “**medical treatment**” has the same meaning as in section 52D of this Act.
 
@@ -73,6 +73,6 @@ a constable or the person specified by the court under paragraph (a) of that sub
 
 [^c18932751]: Textual amendment: Ss. 60C, 60D inserted (21.3.2005 for specified purpose and otherwise 5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 134](https://www.legislation.gov.uk/asp/2003/13/section/134), [333(1)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), arts. {2}, {3}
 
-[^key-6352dc65094c25c5b5ce4d80b22316bb]: Textual amendment: Words in s. 60C(7) inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 40(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/40/a); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-6352dc65094c25c5b5ce4d80b22316bb]: Textual amendment: Words in s. 60C(7) inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 40(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/40/a); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
-[^key-ee3debd5ea7ec1a4916369b950e97d35]: Textual amendment: S. 60C(7)(a)(b) repealed (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 40(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/40/b); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-ee3debd5ea7ec1a4916369b950e97d35]: Textual amendment: S. 60C(7)(a)(b) repealed (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 40(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/40/b); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)

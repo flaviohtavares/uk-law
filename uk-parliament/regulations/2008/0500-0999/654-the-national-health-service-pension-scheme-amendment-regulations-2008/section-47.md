@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Amendment of regulation Q4[^key-8acb1682a8f3c85e8dd3f3228cfe1b2a]
+## 47. Amendment of regulation Q4[^c-8acb1682a8f3c85e8dd3f3228cfe1b2a]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8acb1682a8f3c85e8dd3f3228cfe1b2a]: Commencement: Reg. 47 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-8acb1682a8f3c85e8dd3f3228cfe1b2a]: Commencement: Reg. 47 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Contaminated land: appeals against remediation notices[^key-6183bbdc94207229cfa777311a240171][^key-74848aeb434ae44333c60dcdaa20b053][^key-be261d5aff6efdd1eac85700eb2677b0]
+## 104. Contaminated land: appeals against remediation notices[^c-6183bbdc94207229cfa777311a240171][^c-74848aeb434ae44333c60dcdaa20b053][^c-be261d5aff6efdd1eac85700eb2677b0]
 
 *Extent: E+W*
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6183bbdc94207229cfa777311a240171]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2005/16/section/104) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-6183bbdc94207229cfa777311a240171]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2005/16/section/104) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-74848aeb434ae44333c60dcdaa20b053]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2005/16/section/104) in force at 4.8.2006 for specified purposes for E. by [S.I. 2006/1361](https://www.legislation.gov.uk/uksi/2006/1361), [art. 2](https://www.legislation.gov.uk/uksi/2006/1361/article/2)
+[^c-74848aeb434ae44333c60dcdaa20b053]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2005/16/section/104) in force at 4.8.2006 for specified purposes for E. by [S.I. 2006/1361](https://www.legislation.gov.uk/uksi/2006/1361), [art. 2](https://www.legislation.gov.uk/uksi/2006/1361/article/2)
 
-[^key-be261d5aff6efdd1eac85700eb2677b0]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2005/16/section/104) in force at 10.12.2006 (being the day on which S.I. 2006/2989 came into force) for W. in so far as not already in force by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 4(a)](https://www.legislation.gov.uk/wsi/2006/768/article/4/a)
+[^c-be261d5aff6efdd1eac85700eb2677b0]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2005/16/section/104) in force at 10.12.2006 (being the day on which S.I. 2006/2989 came into force) for W. in so far as not already in force by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 4(a)](https://www.legislation.gov.uk/wsi/2006/768/article/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.213. Order on request by creditors or contributories[^key-736e021557ecdb0db8a4008a171f04cc]
+## 4.213. Order on request by creditors or contributories[^c-736e021557ecdb0db8a4008a171f04cc]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ This paragraph does not apply if the requisitioning creditor's debt or, as the c
 
 ## Annotations
 
-[^key-736e021557ecdb0db8a4008a171f04cc]: Commencement: [Rule 4.213](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.213) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-736e021557ecdb0db8a4008a171f04cc]: Commencement: [Rule 4.213](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.213) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00113]: Marginal citation: \[FORM 4.62\] \[FORM 4.63\]

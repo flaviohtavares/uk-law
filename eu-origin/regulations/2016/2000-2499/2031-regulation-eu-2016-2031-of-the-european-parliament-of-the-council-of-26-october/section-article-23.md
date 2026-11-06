@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The competent authorities[^key-c4b83bfd915ea174e353557cf018590a] shall establish multiannual survey programmes setting out the content of the surveys to be carried out pursuant to Article 22. Those programmes shall provide for the collection and recording of the scientific and technical evidence and other information referred to in the second subparagraph of Article 22(2).
+1. The competent authorities[^c-c4b83bfd915ea174e353557cf018590a] shall establish multiannual survey programmes setting out the content of the surveys to be carried out pursuant to Article 22. Those programmes shall provide for the collection and recording of the scientific and technical evidence and other information referred to in the second subparagraph of Article 22(2).
 
 The multiannual survey programmes shall include the following elements in conformity with Article 22(2):
 
@@ -32,12 +32,12 @@ The multiannual survey programmes shall include the following elements in confor
 
 The multiannual survey programmes shall be for a period of five to seven years.
 
-2.[^key-42126d7ba287248bd34009ec5a49761b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-42126d7ba287248bd34009ec5a49761b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-42126d7ba287248bd34009ec5a49761b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-42126d7ba287248bd34009ec5a49761b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4b83bfd915ea174e353557cf018590a]: Textual amendment: Words in Art. 23(1) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(22)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/22/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-c4b83bfd915ea174e353557cf018590a]: Textual amendment: Words in Art. 23(1) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(22)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/22/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-42126d7ba287248bd34009ec5a49761b]: Textual amendment: Art. 23(2)(3) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(22)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/22/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-42126d7ba287248bd34009ec5a49761b]: Textual amendment: Art. 23(2)(3) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(22)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/22/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

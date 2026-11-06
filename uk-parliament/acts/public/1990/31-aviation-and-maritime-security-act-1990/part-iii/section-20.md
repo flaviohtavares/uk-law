@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Designation of restricted zones of harbour areas.[^c10457051][^key-e3c8918e5172a077a428b5078248b9a0]
+## 20. Designation of restricted zones of harbour areas.[^c10457051][^c-e3c8918e5172a077a428b5078248b9a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ and operating area means, in relation to that person, so much of the harbour are
 
 [^c10457051]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/1990/31/section/20) extended (with modifications) (Jersey) (1.1.1997) by [S.I. 1996/2881](https://www.legislation.gov.uk/uksi/1996/2881), [art. 2](https://www.legislation.gov.uk/uksi/1996/2881/article/2), [Sch. Pts. I](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/I), [II](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/II)
 
-[^key-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
+[^c-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
 
 [^c10457061]: Textual amendment: [S. 20(1A)](https://www.legislation.gov.uk/ukpga/1990/31/section/20/1A) inserted (17.7.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 25](https://www.legislation.gov.uk/ukpga/1997/28/section/25), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/1997/28/schedule/4/paragraph/3/2); [S.I. 1997/1539](https://www.legislation.gov.uk/uksi/1997/1539), [art. 2](https://www.legislation.gov.uk/uksi/1997/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1539/schedule)
 

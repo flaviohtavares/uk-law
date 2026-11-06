@@ -32,7 +32,7 @@ summary: ''
 
 Fisheries
 
-The Shellfish Gathering (Conservation) Regulations (Northern Ireland) 2026 (revoked)[^key-e52295896970204ca26a5c983438034f]
+The Shellfish Gathering (Conservation) Regulations (Northern Ireland) 2026 (revoked)[^c-e52295896970204ca26a5c983438034f]
 
 Made
 
@@ -42,32 +42,32 @@ Coming into operation
 
 6th February 2026
 
-[^key-e52295896970204ca26a5c983438034f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e52295896970204ca26a5c983438034f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e52295896970204ca26a5c983438034f]
+## 1. Citation and commencement[^c-e52295896970204ca26a5c983438034f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e52295896970204ca26a5c983438034f]
+## 2. Interpretation[^c-e52295896970204ca26a5c983438034f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on the taking of periwinkles[^key-e52295896970204ca26a5c983438034f]
+## 3. Prohibition on the taking of periwinkles[^c-e52295896970204ca26a5c983438034f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemptions[^key-e52295896970204ca26a5c983438034f]
+## 4. Exemptions[^c-e52295896970204ca26a5c983438034f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e52295896970204ca26a5c983438034f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e52295896970204ca26a5c983438034f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e52295896970204ca26a5c983438034f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e52295896970204ca26a5c983438034f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e52295896970204ca26a5c983438034f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2026/1) revoked (6.2.2026) by [The Shellfish Gathering (Conservation) (Revocation) Regulations (Northern Ireland) 2026 (S.R. 2026/15)](https://www.legislation.gov.uk/nisr/2026/15), [regs. 1](https://www.legislation.gov.uk/nisr/2026/15/regulation/1), [2](https://www.legislation.gov.uk/nisr/2026/15/regulation/2)
+[^c-e52295896970204ca26a5c983438034f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2026/1) revoked (6.2.2026) by [The Shellfish Gathering (Conservation) (Revocation) Regulations (Northern Ireland) 2026 (S.R. 2026/15)](https://www.legislation.gov.uk/nisr/2026/15), [regs. 1](https://www.legislation.gov.uk/nisr/2026/15/regulation/1), [2](https://www.legislation.gov.uk/nisr/2026/15/regulation/2)

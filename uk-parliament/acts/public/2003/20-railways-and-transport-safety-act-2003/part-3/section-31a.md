@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31A. Exercise of powers and privileges in Scotland[^key-e51da9e60b29419bbbd247e608908e36]
+## 31A. Exercise of powers and privileges in Scotland[^c-e51da9e60b29419bbbd247e608908e36]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e51da9e60b29419bbbd247e608908e36]: Textual amendment: [S. 31A](https://www.legislation.gov.uk/ukpga/2003/20/section/31A) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6))
+[^c-e51da9e60b29419bbbd247e608908e36]: Textual amendment: [S. 31A](https://www.legislation.gov.uk/ukpga/2003/20/section/31A) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6))

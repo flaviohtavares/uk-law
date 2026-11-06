@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 248. Replacement of trees in conservation areas[^key-0135a46d366d6a4a7b362d13f3a4427d]
+## 248. Replacement of trees in conservation areas[^c-0135a46d366d6a4a7b362d13f3a4427d]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0135a46d366d6a4a7b362d13f3a4427d]: Commencement: S. 248 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0135a46d366d6a4a7b362d13f3a4427d]: Commencement: S. 248 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

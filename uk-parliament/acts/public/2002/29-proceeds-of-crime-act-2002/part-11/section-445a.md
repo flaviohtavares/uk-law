@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 445A. Sharing of beneficial ownership information[^key-44c3f95b4a15ccfe409665bcf7ad4177]
+## 445A. Sharing of beneficial ownership information[^c-44c3f95b4a15ccfe409665bcf7ad4177]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ for the sharing of beneficial ownership information.
 
 ## Annotations
 
-[^key-44c3f95b4a15ccfe409665bcf7ad4177]: Textual amendment: [S. 445A](https://www.legislation.gov.uk/ukpga/2002/29/section/445A) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/22/section/9), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
+[^c-44c3f95b4a15ccfe409665bcf7ad4177]: Textual amendment: [S. 445A](https://www.legislation.gov.uk/ukpga/2002/29/section/445A) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/22/section/9), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)

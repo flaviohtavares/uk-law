@@ -22,12 +22,12 @@ summary: ''
 
 (1) This rule applies to complaints made by a prisoner concerning any matter, other than—
 
-- (a) a matter to which rules 118, [^key-f54f1ea7c1cd035743fddbc0e8325169]... 121 and 124 relate; or
+- (a) a matter to which rules 118, [^c-f54f1ea7c1cd035743fddbc0e8325169]... 121 and 124 relate; or
 - (b) a matter concerning any aspect of the healthcare provided to the prisoner by a healthcare professional either within or outwith the prison.
 
 (2) A prisoner who wishes to make a complaint to which this rule applies must make that complaint to the residential first line manager (“the RFLM”) either orally or in writing but, where the complaint raises any allegations against an officer or employee, the complaint must be made in writing.
 
-(2A)[^key-f8c5a77e9ff68dafccfb14b88e934d50] Where a prisoner makes a request to an independent prison monitor for assistance in making an oral or written complaint under paragraph (2), the independent prison monitor may provide such assistance to the prisoner as the independent prison monitor considers appropriate.
+(2A)[^c-f8c5a77e9ff68dafccfb14b88e934d50] Where a prisoner makes a request to an independent prison monitor for assistance in making an oral or written complaint under paragraph (2), the independent prison monitor may provide such assistance to the prisoner as the independent prison monitor considers appropriate.
 
 (3) The RFLM must, within 48 hours of receiving a complaint under paragraph (2), allow the prisoner the opportunity to discuss the complaint with him or her with a view to resolving the complaint.
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f54f1ea7c1cd035743fddbc0e8325169]: Textual amendment: Figure in rule 122(1)(a) deleted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2015/39/article/4/4/a) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
+[^c-f54f1ea7c1cd035743fddbc0e8325169]: Textual amendment: Figure in rule 122(1)(a) deleted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2015/39/article/4/4/a) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
 
-[^key-f8c5a77e9ff68dafccfb14b88e934d50]: Textual amendment: Rule 122(2A) inserted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2015/39/article/4/4/b) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
+[^c-f8c5a77e9ff68dafccfb14b88e934d50]: Textual amendment: Rule 122(2A) inserted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2015/39/article/4/4/b) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))

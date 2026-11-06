@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Lighting of en-route obstacles[^key-31f99a20d848192b1cb4b59c5c02c9fe]
+## 136. Lighting of en-route obstacles[^c-31f99a20d848192b1cb4b59c5c02c9fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31f99a20d848192b1cb4b59c5c02c9fe]: Commencement: [Art. 136](https://www.legislation.gov.uk/uksi/2015/870/article/136) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-31f99a20d848192b1cb4b59c5c02c9fe]: Commencement: [Art. 136](https://www.legislation.gov.uk/uksi/2015/870/article/136) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

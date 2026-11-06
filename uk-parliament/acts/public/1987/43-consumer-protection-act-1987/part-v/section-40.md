@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Liability of persons other than principal offender.[^c9341531][^key-5f291a5f6f34a93c5c9952cae4fc5061]
+## 40. Liability of persons other than principal offender.[^c9341531][^c-5f291a5f6f34a93c5c9952cae4fc5061]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
     [S. 40](https://www.legislation.gov.uk/ukpga/1987/43/section/40) applied (25.8.2003) by [S.I. 2003/1941](https://www.legislation.gov.uk/uksi/2003/1941), [reg. 8](https://www.legislation.gov.uk/uksi/2003/1941/regulation/8), [Sch. IV para. 2(b)](https://www.legislation.gov.uk/uksi/2003/1941/schedule/IV/paragraph/2/b)
 
-[^key-5f291a5f6f34a93c5c9952cae4fc5061]: Modification: [S. 40](https://www.legislation.gov.uk/ukpga/1987/43/section/40) applied (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 4 para. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/paragraph/1/1/b) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
+[^c-5f291a5f6f34a93c5c9952cae4fc5061]: Modification: [S. 40](https://www.legislation.gov.uk/ukpga/1987/43/section/40) applied (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 4 para. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/paragraph/1/1/b) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
 
 [^c18755501]: Modification: [S. 40(1)(2)(3)](https://www.legislation.gov.uk/ukpga/1987/43/section/40/1/2/3) applied by [S.I. 1991/199](https://www.legislation.gov.uk/uksi/1991/199), [reg. 8(2)(c)](https://www.legislation.gov.uk/uksi/1991/199/regulation/8/2/c)
 

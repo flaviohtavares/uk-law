@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Money value of residential benefits in kind to form part of pensionable earnings[^key-6eb91e506ff10eafd7bdaf928634dd16]
+## 36. Money value of residential benefits in kind to form part of pensionable earnings[^c-6eb91e506ff10eafd7bdaf928634dd16]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6eb91e506ff10eafd7bdaf928634dd16]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2014/292/regulation/36) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-6eb91e506ff10eafd7bdaf928634dd16]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2014/292/regulation/36) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00022]: Footnote: Contributions are deducted under Part 9.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Powers to carry out searches relating to driving licences[^key-5e8d5c199baff5c39c45dac8deadfc5b]
+## 43. Powers to carry out searches relating to driving licences[^c-5e8d5c199baff5c39c45dac8deadfc5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -138,4 +138,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e8d5c199baff5c39c45dac8deadfc5b]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2016/19/section/43) in force at 31.7.2017 for specified purposes by [S.I. 2017/799](https://www.legislation.gov.uk/uksi/2017/799), [reg. 2](https://www.legislation.gov.uk/uksi/2017/799/regulation/2)
+[^c-5e8d5c199baff5c39c45dac8deadfc5b]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2016/19/section/43) in force at 31.7.2017 for specified purposes by [S.I. 2017/799](https://www.legislation.gov.uk/uksi/2017/799), [reg. 2](https://www.legislation.gov.uk/uksi/2017/799/regulation/2)

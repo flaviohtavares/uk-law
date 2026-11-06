@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176G. Clawback of earlier qualifying flow-through tax benefits[^key-07a171cad47ba980f7162332ffd5ee80]
+## 176G. Clawback of earlier qualifying flow-through tax benefits[^c-07a171cad47ba980f7162332ffd5ee80]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
   Whichever is less is the clawback amount.
 
-(4)[^key-8f12633440aadd26101163791fb3ef45] For the purposes of this section an investor has an “excess return” from an arrangement in an accounting period (“**the current period**”) if the total relevant return exceeds the amount of capital investment provided by the investor to the arrangement at its commencement.
+(4)[^c-8f12633440aadd26101163791fb3ef45] For the purposes of this section an investor has an “excess return” from an arrangement in an accounting period (“**the current period**”) if the total relevant return exceeds the amount of capital investment provided by the investor to the arrangement at its commencement.
 
 The amount of the excess return is the amount of the excess.
 
@@ -56,6 +56,6 @@ less the amount of any excess return that the investor had from the arrangement 
 
 ## Annotations
 
-[^key-07a171cad47ba980f7162332ffd5ee80]: Textual amendment: S. 176G inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 23](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/23), [72(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/3/a)
+[^c-07a171cad47ba980f7162332ffd5ee80]: Textual amendment: S. 176G inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 23](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/23), [72(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/3/a)
 
-[^key-8f12633440aadd26101163791fb3ef45]: Textual amendment: S. 176G(4)(5) substituted for s. 176G(4) (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 18](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/18), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-8f12633440aadd26101163791fb3ef45]: Textual amendment: S. 176G(4)(5) substituted for s. 176G(4) (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 18](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/18), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)

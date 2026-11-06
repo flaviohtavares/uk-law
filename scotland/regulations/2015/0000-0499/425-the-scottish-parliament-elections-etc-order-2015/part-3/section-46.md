@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Election agent’s claim[^key-5bf5853ba713a22621eab715a942a89e]
+## 46. Election agent’s claim[^c-5bf5853ba713a22621eab715a942a89e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ So far as circumstances admit, this Order applies to an election agent’s claim
 
 ## Annotations
 
-[^key-5bf5853ba713a22621eab715a942a89e]: Commencement: Art. 46 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-5bf5853ba713a22621eab715a942a89e]: Commencement: Art. 46 in force at 16.12.2015 in accordance with art. 1(1)

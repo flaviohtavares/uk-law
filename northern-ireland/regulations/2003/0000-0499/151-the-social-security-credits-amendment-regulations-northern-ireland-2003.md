@@ -41,17 +41,17 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 22(5) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-19bd9183b37d856e5e2a4478dc96be9a]
+## 1. Citation and commencement[^c-19bd9183b37d856e5e2a4478dc96be9a]
 
 These Regulations may be cited as the Social Security (Credits) (Amendment) Regulations (Northern Ireland) 2003 and shall come into operation on 6th April 2003.
 
-## 2. Amendment of the Social Security (Credits) Regulations[^key-ede538b6853c9787e81e4724094ce6da]
+## 2. Amendment of the Social Security (Credits) Regulations[^c-ede538b6853c9787e81e4724094ce6da]
 
 (1) The Social Security (Credits) Regulations (Northern Ireland) 1975[^f00003] shall be amended in accordance with paragraphs (2) and (3).
 
 (2) In regulation 8B(2)[^f00004] (which specifies weeks in respect of which a person is entitled to be credited with earnings for incapacity for work) –
 
-- (a)[^key-aba8839ef4706fc29328ed2ff7ce5dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-aba8839ef4706fc29328ed2ff7ce5dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for sub-paragraph (b), there shall be substituted the following sub-paragraph –
 
   > - (b) a week for any part of which an unemployability supplement or allowance was payable by virtue of –
@@ -116,15 +116,15 @@ These Regulations do not impose a charge on business.
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-19bd9183b37d856e5e2a4478dc96be9a]: Commencement: Reg. 1 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/151/regulation/1)
+[^c-19bd9183b37d856e5e2a4478dc96be9a]: Commencement: Reg. 1 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/151/regulation/1)
 
-[^key-ede538b6853c9787e81e4724094ce6da]: Commencement: Reg. 2 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/151/regulation/1)
+[^c-ede538b6853c9787e81e4724094ce6da]: Commencement: Reg. 2 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/151/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); relevant amending Regulations are [S.R. 1988 Nos. 105](https://www.legislation.gov.uk/nisr/1988/105) and [326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
 [^f00004]: Footnote: Regulation 8B was inserted by regulation 2(6) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
-[^key-aba8839ef4706fc29328ed2ff7ce5dac]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2003/151/regulation/2/2/a) revoked (16.7.2007) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/306)](https://www.legislation.gov.uk/nisr/2007/306), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2007/306/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2007/306/schedule)
+[^c-aba8839ef4706fc29328ed2ff7ce5dac]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2003/151/regulation/2/2/a) revoked (16.7.2007) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/306)](https://www.legislation.gov.uk/nisr/2007/306), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2007/306/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2007/306/schedule)
 
 [^f00006]: Footnote: Definition of “Contributions and Benefits Act” was inserted by regulation 6(2) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Offences relating to offshore income, assets and activities[^key-7c6d9d54dfde42a83963014ad286983b]
+## 166. Offences relating to offshore income, assets and activities[^c-7c6d9d54dfde42a83963014ad286983b]
 
 *Extent: E+W+S+N.I.*
 
@@ -132,4 +132,4 @@ if the notice or return relates to a tax year before that in which the amendment
 
 ## Annotations
 
-[^key-7c6d9d54dfde42a83963014ad286983b]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2016/24/section/166) in force at 7.10.2017 for the purposes of the amendment made by that provision with effect in relation to the tax year commencing on 6.4.2017 and subsequent tax years by [S.I. 2017/970](https://www.legislation.gov.uk/uksi/2017/970), [art. 2](https://www.legislation.gov.uk/uksi/2017/970/article/2)
+[^c-7c6d9d54dfde42a83963014ad286983b]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2016/24/section/166) in force at 7.10.2017 for the purposes of the amendment made by that provision with effect in relation to the tax year commencing on 6.4.2017 and subsequent tax years by [S.I. 2017/970](https://www.legislation.gov.uk/uksi/2017/970), [art. 2](https://www.legislation.gov.uk/uksi/2017/970/article/2)

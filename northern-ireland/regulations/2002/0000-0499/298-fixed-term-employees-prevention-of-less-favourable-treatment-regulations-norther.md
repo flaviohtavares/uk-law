@@ -47,7 +47,7 @@ The Department for Employment and Learning[^f00001], in exercise of the powers c
 
 ## PART I — GENERAL AND INTERPRETATION
 
-### 1. Citation, commencement and interpretation[^key-77b8758da1370d2a3fb60ee124d3ea18]
+### 1. Citation, commencement and interpretation[^c-77b8758da1370d2a3fb60ee124d3ea18]
 
 (1) These Regulations may be cited as the Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations (Northern Ireland) 2002 and shall come into operation on 1st October 2002.
 
@@ -74,7 +74,7 @@ The Department for Employment and Learning[^f00001], in exercise of the powers c
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-### 2. Comparable employees[^key-e619748d961c9a57c30e067b06906711]
+### 2. Comparable employees[^c-e619748d961c9a57c30e067b06906711]
 
 (1) For the purposes of these Regulations, an employee is a comparable permanent employee in relation to a fixed-term employee if, at the time when the treatment that is alleged to be less favourable to the fixed-term employee takes place –
 
@@ -87,7 +87,7 @@ The Department for Employment and Learning[^f00001], in exercise of the powers c
 
 ## PART II — RIGHTS AND REMEDIES
 
-### 3. Less favourable treatment of fixed-term employees[^key-c58aae57d86d104d44a04af91ab1b5ef]
+### 3. Less favourable treatment of fixed-term employees[^c-c58aae57d86d104d44a04af91ab1b5ef]
 
 (1) A fixed-term employee has the right not to be treated by his employer less favourably than the employer treats a comparable permanent employee –
 
@@ -113,13 +113,13 @@ The Department for Employment and Learning[^f00001], in exercise of the powers c
 
 (7) For the purposes of paragraph (6) an employee is “informed by his employer” only if the vacancy is contained in an advertisement which the employee has a reasonable opportunity of reading in the course of his employment or the employee is given reasonable notification of the vacancy in some other way.
 
-### 4. Objective justification[^key-9a9d7ab49c6564ce34c1f1f4e4d4c2bd]
+### 4. Objective justification[^c-9a9d7ab49c6564ce34c1f1f4e4d4c2bd]
 
 (1) Where a fixed-term employee is treated by his employer less favourably than the employer treats a comparable permanent employee as regards any term of his contract, the treatment in question shall be regarded for the purposes of regulation 3(3)(b) as justified on objective grounds if the terms of the fixed-term employee’s contract of employment, taken as a whole, are at least as favourable as the terms of the comparable permanent employee’s contract of employment.
 
 (2) Paragraph (1) is without prejudice to the generality of regulation 3(3)(b).
 
-### 5. Right to receive a written statement of reasons for less favourable treatment[^key-9e974dd762a4ba60329eb50880c2e56d]
+### 5. Right to receive a written statement of reasons for less favourable treatment[^c-9e974dd762a4ba60329eb50880c2e56d]
 
 (1) If an employee who considers that his employer may have treated him in a manner which infringes a right conferred on him by regulation 3 requests in writing from his employer a written statement giving particulars of the reasons for the treatment, the employee is entitled to be provided with such a statement within twenty-one days of his request.
 
@@ -134,7 +134,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 (4) This regulation does not apply where the treatment in question consists of the dismissal of an employee, and the employee is entitled to a written statement of reasons for his dismissal under Article 124 of the 1996 Order[^f00006].
 
-### 6. Unfair dismissal and the right not to be subjected to detriment[^key-9ef56cf492e124e161f644a6bee8b7a4]
+### 6. Unfair dismissal and the right not to be subjected to detriment[^c-9ef56cf492e124e161f644a6bee8b7a4]
 
 (1) An employee who is dismissed shall be regarded as unfairly dismissed for the purposes of Part XI of the 1996 Order[^f00007] if the reason (or, if more than one, the principal reason) for the dismissal is a reason specified in paragraph (3).
 
@@ -161,7 +161,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 (5) Paragraph (2) does not apply where the detriment in question amounts to the dismissal of an employee within the meaning of Part XI of the 1996 Order.
 
-### 7. Complaints to industrial tribunals etc.[^key-355239b63a3291c3c94ef26111abb6fa]
+### 7. Complaints to industrial tribunals etc.[^c-355239b63a3291c3c94ef26111abb6fa]
 
 (1) An employee may present a complaint to an industrial tribunal that his employer has infringed a right conferred on him by regulation 3, or (subject to regulation 6(5)), 6(2).
 
@@ -170,7 +170,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 - (a) in the case of an alleged infringement of a right conferred by regulation 3(1) or 6(2), with the date of the less favourable treatment or detriment to which the complaint relates or, where an act or failure to act is part of a series of similar acts or failures comprising the less favourable treatment or detriment, the last of them;
 - (b) in the case of an alleged infringement of the right conferred by regulation 3(6), with the date, or if more than one the last date, on which other individuals, whether or not employees of the employer, were informed of the vacancy.
 
-(2A)[^key-03b40d5e3bb5ea833324083da347656e] Regulation 7A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-03b40d5e3bb5ea833324083da347656e] Regulation 7A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) A tribunal may consider any such complaint which is out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
@@ -213,7 +213,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 - (a) increase the amount of compensation required to be paid to the complainant in respect of the complaint, where an order was made under paragraph (7)(b); or
 - (b) make an order under paragraph (7)(b).
 
-### 7A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-6532b56ce48d2c970957eac76c236ba3]
+### 7A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-6532b56ce48d2c970957eac76c236ba3]
 
 (1) In this regulation—
 
@@ -226,7 +226,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 (4) The power conferred on the industrial tribunal by regulation 7(3) to extend the time limit set by paragraph (2) of that regulation is exercisable in relation to that time limit as extended by this regulation.
 
-### 8. Successive fixed-term contracts[^key-6ab47daba0abeea31336e0c273495c05]
+### 8. Successive fixed-term contracts[^c-6ab47daba0abeea31336e0c273495c05]
 
 (1) This regulation applies where –
 
@@ -255,7 +255,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 and those conditions shall have effect in relation to that employee or an employee of that description as if they were contained in paragraphs (2) and (3).
 
-### 9. Right to receive written statement of variation[^key-8d5452b09c27d9cc83e7e759221b31fc]
+### 9. Right to receive written statement of variation[^c-8d5452b09c27d9cc83e7e759221b31fc]
 
 (1) If an employee who considers that he is to be regarded, by virtue of regulation 8, as a permanent employee requests in writing from his employer a written statement confirming that the contract is to be so regarded, he is entitled to be provided, within twenty-one days of his request, with either –
 
@@ -282,15 +282,15 @@ it may draw any inference which it considers it just and equitable to draw.
 
 ## PART III — MISCELLANEOUS
 
-### 10. Restrictions on contracting out[^key-bf9cfebbbf43b23198748d064360b574]
+### 10. Restrictions on contracting out[^c-bf9cfebbbf43b23198748d064360b574]
 
 Article 245 of the 1996 Order[^f00008] (restrictions on contracting out) shall apply in relation to these Regulations as if they were contained in that Order.
 
-### 11. Amendments to primary legislation[^key-b98f765cd16f35603fe6701063ea0c2d]
+### 11. Amendments to primary legislation[^c-b98f765cd16f35603fe6701063ea0c2d]
 
 The amendments in Part I of Schedule 2 to these Regulations shall have effect subject to the transitional provisions in Part II of the Schedule.
 
-### 12. Liability of employers and principals[^key-e02992c7b0b3a3439be87c7ff551db2c]
+### 12. Liability of employers and principals[^c-e02992c7b0b3a3439be87c7ff551db2c]
 
 (1) Anything done by a person in the course of his employment shall be treated for the purposes of these Regulations as also done by his employer, whether or not it was done with the employer’s knowledge or approval.
 
@@ -303,7 +303,7 @@ The amendments in Part I of Schedule 2 to these Regulations shall have effect su
 
 ## PART IV — SPECIAL CLASSES OF PERSON
 
-### 13. Crown employment[^key-e8c2c052f304ec0ed3f37a93ce73a685]
+### 13. Crown employment[^c-e8c2c052f304ec0ed3f37a93ce73a685]
 
 (1) Subject to regulation 14, these Regulations have effect in relation to Crown employment and persons in Crown employment as they have effect in relation to other employment and other employees.
 
@@ -318,14 +318,14 @@ The amendments in Part I of Schedule 2 to these Regulations shall have effect su
 - (b) references to a contract of employment shall be construed, in relation to a person in Crown employment, as references to the terms and conditions mentioned in paragraph (2)(b); and
 - (c) references to dismissal shall be construed as references to the termination of Crown employment.
 
-### 14. Armed forces[^key-caa9ebd1f1c007551fb14466c1b8e261]
+### 14. Armed forces[^c-caa9ebd1f1c007551fb14466c1b8e261]
 
 These Regulations –
 
 - (a) do not apply to service as a member of the naval, military or air forces of the Crown, but
 - (b) do apply to employment by an association established for the purposes of Part XI of the Reserve Forces Act 1996[^f00009].
 
-### 15. Police service[^key-c5aa7a11ed37390ae51de358e4319547]
+### 15. Police service[^c-c5aa7a11ed37390ae51de358e4319547]
 
 (1) For the purposes of these Regulations, the holding, otherwise than under a contract of employment, of the office of constable or an appointment as a police cadet shall be treated as employment, under a contract of employment, by the relevant officer.
 
@@ -337,11 +337,11 @@ These Regulations –
 
 ## PART V — EXCLUSIONS
 
-### 16. Apprentices[^key-9ddda79a2344420071dcde88eeddb7d3]
+### 16. Apprentices[^c-9ddda79a2344420071dcde88eeddb7d3]
 
 These Regulations shall not have effect in relation to a fixed-term employee who is employed under a contract of apprenticeship.
 
-### 17. Government training schemes etc.[^key-769ffaf44f1359baf6478f7d2bd7b43b]
+### 17. Government training schemes etc.[^c-769ffaf44f1359baf6478f7d2bd7b43b]
 
 (1) These Regulations shall not have effect in relation to a fixed-term employee who is employed on a scheme, designed to provide him with training or work experience for the purpose of assisting him to seek or obtain work, which is either –
 
@@ -356,9 +356,9 @@ These Regulations shall not have effect in relation to a fixed-term employee who
 - (b) in Scotland, a course of a description falling within section 38 of the Further and Higher Education (Scotland) Act 1992[^f00012]; and
 - (c) in England and Wales, a course of a description referred to in Schedule 6 to the Education Reform Act 1988[^f00013];
 
-### 18. Agency workers[^key-03c67883f6e89296d6dc894ae2e42ec2]
+### 18. Agency workers[^c-03c67883f6e89296d6dc894ae2e42ec2]
 
-(1)[^key-fb0106331f18cc30e887567a5217b8f4] Save in respect of paragraph 1 of Part 1 of Schedule 2, these Regulations shall not have effect in relation to employment under a fixed-term contract where the employee is an agency worker.
+(1)[^c-fb0106331f18cc30e887567a5217b8f4] Save in respect of paragraph 1 of Part 1 of Schedule 2, these Regulations shall not have effect in relation to employment under a fixed-term contract where the employee is an agency worker.
 
 (2) In this regulation “agency worker” means any person who is supplied by an employment business to do work for another person under a contract or other arrangements made between the employment business and the other person.
 
@@ -376,7 +376,7 @@ Department for Employment and Learning
 
 Regulations 1 and 8
 
-**1.**[^key-b8e10a4437d96947452b5997951f5124] An agreement is a workforce agreement for the purposes of these Regulations if the following conditions are satisfied –
+**1.**[^c-b8e10a4437d96947452b5997951f5124] An agreement is a workforce agreement for the purposes of these Regulations if the following conditions are satisfied –
 
 - (a) the agreement is in writing;
 - (b) it has effect for a specified period not exceeding five years;
@@ -388,13 +388,13 @@ Regulations 1 and 8
   - (ii) if the employer employed 20 or fewer employees on the date referred to in sub-paragraph (d)(i), either by the appropriate representatives in accordance with that sub-paragraph or by the majority of the employees employed by him;
 - (e) before the agreement was made available for signature, the employer provided all the employees to whom it was intended to apply on the date on which it came into operation with copies of the text of the agreement and such guidance as those employees might reasonably require in order to understand it fully.
 
-**2.**[^key-d6ce4d42fa226676f80dbf658d825d7e] For the purposes of this Schedule –
+**2.**[^c-d6ce4d42fa226676f80dbf658d825d7e] For the purposes of this Schedule –
 
 - “a particular group” is a group of the relevant members of a workforce who undertake a particular function, work at a particular workplace or belong to a particular department or unit within their employer’s business;
 - “relevant members of the workforce” are all of the employees employed by a particular employer, excluding any employee whose terms and conditions of employment are provided for, wholly or in part, in a collective agreement;
 - “representatives of the workforce” are employees duly elected to represent the relevant members of the workforce, “representatives of the group” are employees duly elected to represent the members of a particular group, and representatives are “duly elected” if the election at which they were elected satisfied the requirements of paragraph 3 of this Schedule.
 
-**3.**[^key-9e2e6f21595f5e5f650d5e5f1b0b263f] The requirements concerning elections referred to in paragraph 2 are that –
+**3.**[^c-9e2e6f21595f5e5f650d5e5f1b0b263f] The requirements concerning elections referred to in paragraph 2 are that –
 
 - (a) the number of representatives to be elected is determined by the employer;
 - (b) the candidates for election as representatives of the workforce are relevant members of the workforce, and the candidates for election as representatives of a group are members of the group;
@@ -411,12 +411,12 @@ Regulation 11
 
 ### PART I — amendments to primary legislation
 
-**1.**[^key-2a39bbb64d44c6cc7677c586f95cfba0] In Schedule 11 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00014] (circumstances in which periods of entitlement to statutory sick pay do not arise) –
+**1.**[^c-2a39bbb64d44c6cc7677c586f95cfba0] In Schedule 11 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00014] (circumstances in which periods of entitlement to statutory sick pay do not arise) –
 
 - (a) in paragraph 2, omit sub-paragraph (b), and
 - (b) omit paragraph 4.
 
-**2.**[^key-c1dfeac3ef13eb4e25dbcd0393ebbe95] (1) The 1996 Order is amended in accordance with sub-paragraphs (2) to (16).
+**2.**[^c-c1dfeac3ef13eb4e25dbcd0393ebbe95] (1) The 1996 Order is amended in accordance with sub-paragraphs (2) to (16).
 
 (2) In Article 2(3) (Interpretation – general), after the definition of “job” insert –
 
@@ -510,7 +510,7 @@ Regulation 11
 
 .
 
-**3.**[^key-593e8d02beed9a6a766187691ad41777] In the Industrial Tribunals (Northern Ireland) Order 1996[^f00020], Article 20(1)[^f00021] (cases where conciliation provisions apply) is amended as follows –
+**3.**[^c-593e8d02beed9a6a766187691ad41777] In the Industrial Tribunals (Northern Ireland) Order 1996[^f00020], Article 20(1)[^f00021] (cases where conciliation provisions apply) is amended as follows –
 
 - (a) at the end of sub-paragraph (g), omit “or”, and
 - (b) after sub-paragraph (h), insert –
@@ -524,9 +524,9 @@ Regulation 11
 
 ### PART II — transitional provisions
 
-**4.**[^key-53f1288026bda9eb14e385d31d30e6cc] Paragraph 1 of this Schedule applies where the relevant date (as defined in paragraph 3 of Schedule 11 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00022] falls on or after 1st October 2002.
+**4.**[^c-53f1288026bda9eb14e385d31d30e6cc] Paragraph 1 of this Schedule applies where the relevant date (as defined in paragraph 3 of Schedule 11 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00022] falls on or after 1st October 2002.
 
-**5.**[^key-193cecdacd8ba5a0ca1cf4c45dd7b491] (1) This paragraph applies to the dismissal of an employee employed under a contract for a fixed term of two years or more which consists of the expiry of the term without its being renewed, where the employee has agreed in accordance with Article 240 of the 1996 Order to exclude any right to a redundancy payment in that event.
+**5.**[^c-193cecdacd8ba5a0ca1cf4c45dd7b491] (1) This paragraph applies to the dismissal of an employee employed under a contract for a fixed term of two years or more which consists of the expiry of the term without its being renewed, where the employee has agreed in accordance with Article 240 of the 1996 Order to exclude any right to a redundancy payment in that event.
 
 (2) The repeal of Articles 240, 242(6) and 245(2)(d) of the 1996 Order provided for by paragraph 3(15) of this Schedule shall have effect in relation to a dismissal to which this paragraph applies where the relevant date (within the meaning of Article 180 of the 1996 Order) falls on or after 1st October 2002, unless both the following conditions are satisfied –
 
@@ -551,7 +551,7 @@ The Regulations make a number of amendments to primary legislation to remove dis
 
 [^f00002]: Footnote: [2002 c. 22](https://www.legislation.gov.uk/ukpga/2002/22)
 
-[^key-77b8758da1370d2a3fb60ee124d3ea18]: Commencement: Reg. 1 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-77b8758da1370d2a3fb60ee124d3ea18]: Commencement: Reg. 1 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
@@ -559,51 +559,51 @@ The Regulations make a number of amendments to primary legislation to remove dis
 
 [^f00005]: Footnote: [1954 c. 33 (N. I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e619748d961c9a57c30e067b06906711]: Commencement: Reg. 2 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-e619748d961c9a57c30e067b06906711]: Commencement: Reg. 2 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-c58aae57d86d104d44a04af91ab1b5ef]: Commencement: Reg. 3 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-c58aae57d86d104d44a04af91ab1b5ef]: Commencement: Reg. 3 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-9a9d7ab49c6564ce34c1f1f4e4d4c2bd]: Commencement: Reg. 4 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-9a9d7ab49c6564ce34c1f1f4e4d4c2bd]: Commencement: Reg. 4 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-9e974dd762a4ba60329eb50880c2e56d]: Commencement: Reg. 5 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-9e974dd762a4ba60329eb50880c2e56d]: Commencement: Reg. 5 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00006]: Footnote: Article 124 was amended by the Unfair Dismissal and Statement of Reasons for Dismissal (Variation of Qualifying Period) Order (Northern Ireland) 1999 ([S.R. 1999/277](https://www.legislation.gov.uk/nisr/1999/277)), Article 3 and by the Employment Relations (Northern Ireland) Order [1999 (N.I. 9)](https://www.legislation.gov.uk/nidsr/1999/2790), Article 11 and paragraph 6 of Part III of Schedule 4, and is amended by these Regulations, Schedule 2, paragraph 3(5)
 
-[^key-9ef56cf492e124e161f644a6bee8b7a4]: Commencement: Reg. 6 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-9ef56cf492e124e161f644a6bee8b7a4]: Commencement: Reg. 6 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00007]: Footnote: Part XI is amended by these Regulations, Schedule 2, to extend the circumstances in which, under Article 127, an employee is treated as dismissed for the purposes of that Part
 
-[^key-355239b63a3291c3c94ef26111abb6fa]: Commencement: Reg. 7 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-355239b63a3291c3c94ef26111abb6fa]: Commencement: Reg. 7 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-03b40d5e3bb5ea833324083da347656e]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/nisr/2002/298/regulation/7/2A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 19](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/19)
+[^c-03b40d5e3bb5ea833324083da347656e]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/nisr/2002/298/regulation/7/2A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 19](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/19)
 
-[^key-6532b56ce48d2c970957eac76c236ba3]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/nisr/2002/298/regulation/7A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 20](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/20)
+[^c-6532b56ce48d2c970957eac76c236ba3]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/nisr/2002/298/regulation/7A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 20](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/20)
 
-[^key-6ab47daba0abeea31336e0c273495c05]: Commencement: Reg. 8 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-6ab47daba0abeea31336e0c273495c05]: Commencement: Reg. 8 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-8d5452b09c27d9cc83e7e759221b31fc]: Commencement: Reg. 9 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-8d5452b09c27d9cc83e7e759221b31fc]: Commencement: Reg. 9 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-bf9cfebbbf43b23198748d064360b574]: Commencement: Reg. 10 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-bf9cfebbbf43b23198748d064360b574]: Commencement: Reg. 10 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00008]: Footnote: Article 245 was amended by the Employment Rights (Dispute Resolution) (Northern Ireland) Order [1998 (N.I. 8)](https://www.legislation.gov.uk/nidsr/1998/1265) and by the Employment Relations (Northern Ireland) Order 1999, Article 40 and Schedule 9
 
-[^key-b98f765cd16f35603fe6701063ea0c2d]: Commencement: Reg. 11 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-b98f765cd16f35603fe6701063ea0c2d]: Commencement: Reg. 11 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-e02992c7b0b3a3439be87c7ff551db2c]: Commencement: Reg. 12 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-e02992c7b0b3a3439be87c7ff551db2c]: Commencement: Reg. 12 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-e8c2c052f304ec0ed3f37a93ce73a685]: Commencement: Reg. 13 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-e8c2c052f304ec0ed3f37a93ce73a685]: Commencement: Reg. 13 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-caa9ebd1f1c007551fb14466c1b8e261]: Commencement: Reg. 14 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-caa9ebd1f1c007551fb14466c1b8e261]: Commencement: Reg. 14 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00009]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14)
 
-[^key-c5aa7a11ed37390ae51de358e4319547]: Commencement: Reg. 15 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-c5aa7a11ed37390ae51de358e4319547]: Commencement: Reg. 15 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00010]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)
 
-[^key-9ddda79a2344420071dcde88eeddb7d3]: Commencement: Reg. 16 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-9ddda79a2344420071dcde88eeddb7d3]: Commencement: Reg. 16 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-769ffaf44f1359baf6478f7d2bd7b43b]: Commencement: Reg. 17 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-769ffaf44f1359baf6478f7d2bd7b43b]: Commencement: Reg. 17 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00011]: Footnote: [1998 c. 40](https://www.legislation.gov.uk/ukpga/1998/40)
 
@@ -611,21 +611,21 @@ The Regulations make a number of amendments to primary legislation to remove dis
 
 [^f00013]: Footnote: [S.I. 1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772)
 
-[^key-03c67883f6e89296d6dc894ae2e42ec2]: Commencement: Reg. 18 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-03c67883f6e89296d6dc894ae2e42ec2]: Commencement: Reg. 18 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-fb0106331f18cc30e887567a5217b8f4]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/18/1) substituted (27.10.2008) by [The Fixed-term Employees (Prevention of Less Favourable Treatment) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/326)](https://www.legislation.gov.uk/nisr/2008/326), [regs. 1](https://www.legislation.gov.uk/nisr/2008/326/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2008/326/regulation/3/2)
+[^c-fb0106331f18cc30e887567a5217b8f4]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/18/1) substituted (27.10.2008) by [The Fixed-term Employees (Prevention of Less Favourable Treatment) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/326)](https://www.legislation.gov.uk/nisr/2008/326), [regs. 1](https://www.legislation.gov.uk/nisr/2008/326/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2008/326/regulation/3/2)
 
-[^key-b8e10a4437d96947452b5997951f5124]: Commencement: Sch. 1 para. 1 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-b8e10a4437d96947452b5997951f5124]: Commencement: Sch. 1 para. 1 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-d6ce4d42fa226676f80dbf658d825d7e]: Commencement: Sch. 1 para. 2 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-d6ce4d42fa226676f80dbf658d825d7e]: Commencement: Sch. 1 para. 2 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-9e2e6f21595f5e5f650d5e5f1b0b263f]: Commencement: Sch. 1 para. 3 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-9e2e6f21595f5e5f650d5e5f1b0b263f]: Commencement: Sch. 1 para. 3 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
-[^key-2a39bbb64d44c6cc7677c586f95cfba0]: Commencement: Sch. 2 para. 1 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-2a39bbb64d44c6cc7677c586f95cfba0]: Commencement: Sch. 2 para. 1 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00014]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). Amendments have been made to paragraph 2 of Schedule 11 which are not relevant to these Regulations
 
-[^key-c1dfeac3ef13eb4e25dbcd0393ebbe95]: Commencement: Sch. 2 para. 2 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-c1dfeac3ef13eb4e25dbcd0393ebbe95]: Commencement: Sch. 2 para. 2 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00015]: Footnote: Article 137 has been amended on a number of occasions to specify additional circumstances in which an employee dismissed by reason of redundancy is to be regarded as unfairly dismissed; paragraph (7A) was inserted by Article 18 and paragraph 2 to Schedule 5 of [S.I. 1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790); paragraph (7B) was inserted by regulation 30(1) of [S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323); paragraph (7C) was inserted by regulation 10 and paragraph 1(1) of the Schedule to [S.R. 2000 No. 219](https://www.legislation.gov.uk/nisr/2000/219); other amendments have been made to Article 137 not relevant to these Regulations
 
@@ -637,16 +637,16 @@ The Regulations make a number of amendments to primary legislation to remove dis
 
 [^f00019]: Footnote: Article 245(2)(d) was amended by the Employment Relations (Northern Ireland) Order 1999, Article 40 and Schedule 9
 
-[^key-593e8d02beed9a6a766187691ad41777]: Commencement: Sch. 2 para. 3 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-593e8d02beed9a6a766187691ad41777]: Commencement: Sch. 2 para. 3 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00020]: Footnote: [1996/1921 (N.I. 18 )](https://www.legislation.gov.uk/nisi/1996/1921)
 
 [^f00021]: Footnote: Article 20(1) has been amended on a number of occasions to specify additional proceedings and claims in respect of which the Labour Relations Agency has a duty to conciliate. Paragraph (g) was inserted by regulation 33(2) of [S.I. 1999/3233](https://www.legislation.gov.uk/uksi/1999/3233); paragraph (h) was inserted by regulation 10 and paragraph 2 of the Schedule to [S.R. 2000 No. 219](https://www.legislation.gov.uk/nisr/2000/219)
 
-[^key-53f1288026bda9eb14e385d31d30e6cc]: Commencement: Sch. 2 para. 4 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-53f1288026bda9eb14e385d31d30e6cc]: Commencement: Sch. 2 para. 4 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00022]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). Paragraph 2 of Schedule 11 has been amended by paragraph 42 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
 
-[^key-193cecdacd8ba5a0ca1cf4c45dd7b491]: Commencement: Sch. 2 para. 5 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
+[^c-193cecdacd8ba5a0ca1cf4c45dd7b491]: Commencement: Sch. 2 para. 5 in operation at 1.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/298/regulation/1/1)
 
 [^f00023]: Footnote: O.J. No. L175, 10.7.99 p. 43

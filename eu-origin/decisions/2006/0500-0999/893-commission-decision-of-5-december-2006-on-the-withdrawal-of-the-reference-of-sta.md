@@ -37,7 +37,7 @@ on the withdrawal of the reference of standard EN 10080:2005 ‘Steel for the re
 
 (2006/893/EC)
 
-[^key-434d113fc98265e67d332bbaf83935d5]
+[^c-434d113fc98265e67d332bbaf83935d5]
 
 THE COMMISSION OF THE EUROPEAN COMMUNITIES,
 
@@ -87,7 +87,7 @@ Günter Verheugen
 
 ## Annotations
 
-[^key-434d113fc98265e67d332bbaf83935d5]: Modification: Decision excluded (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/1/d) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/b); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-434d113fc98265e67d332bbaf83935d5]: Modification: Decision excluded (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/1/d) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/b); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ L 40, 11.2.1989, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.040.01.0012.01.ENG). Directive as last amended by Commission Decision 2006/190/EC ([OJ L 66, 8.3.2006, p. 47](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.066.01.0047.01.ENG)).
 

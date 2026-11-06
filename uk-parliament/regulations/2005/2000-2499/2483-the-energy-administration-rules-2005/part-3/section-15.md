@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Notice requiring statement of affairs[^key-30d39a1fed75de1f3eb1bf2904863cec]
+## 15. Notice requiring statement of affairs[^c-30d39a1fed75de1f3eb1bf2904863cec]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30d39a1fed75de1f3eb1bf2904863cec]: Commencement: Rule 15 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-30d39a1fed75de1f3eb1bf2904863cec]: Commencement: Rule 15 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00010]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 235 was amended by the Enterprise Act [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), Schedule 17, paragraph 24.

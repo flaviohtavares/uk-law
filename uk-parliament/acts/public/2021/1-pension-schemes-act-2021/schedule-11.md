@@ -26,9 +26,9 @@ Section 129
 
 #### Amendments of Part 4 of the Pensions (Northern Ireland) Order 2005
 
-**1.**[^c24498501][^key-8c50acd1d2632fdb5ec3faf7dcf8ca97] Part 4 of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) (scheme funding) is amended as follows.
+**1.**[^c24498501][^c-8c50acd1d2632fdb5ec3faf7dcf8ca97] Part 4 of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) (scheme funding) is amended as follows.
 
-**2.**[^c24498511][^key-4f08e5c2039a7473042e7af1ccc31d5f] Before Article 201 insert—
+**2.**[^c24498511][^c-4f08e5c2039a7473042e7af1ccc31d5f] Before Article 201 insert—
 
 > **Funding and investment strategy**
 >
@@ -100,7 +100,7 @@ Section 129
 >
 > (9) Where any requirement of this Article is not complied with, Article 10 of the 1995 Order (civil penalties) applies to a trustee or manager who has failed to take all reasonable steps to secure compliance.
 
-**3.**[^c24498521][^key-4cc09245fc726801cf896f746a0673ec] (1) Article 201 (the statutory funding objective) is amended as follows.
+**3.**[^c24498521][^c-4cc09245fc726801cf896f746a0673ec] (1) Article 201 (the statutory funding objective) is amended as follows.
 
 (2) After paragraph (2) insert—
 
@@ -108,7 +108,7 @@ Section 129
 
 (3) In paragraph (3)(b), after “in a prescribed manner and” insert “ , subject to paragraph (2A), ”.
 
-**4.**[^c24498531][^key-0ecc3f200d9283a42b065e935c48dcc9] (1) Article 203 (actuarial valuations and reports) is amended as follows.
+**4.**[^c24498531][^c-0ecc3f200d9283a42b065e935c48dcc9] (1) Article 203 (actuarial valuations and reports) is amended as follows.
 
 (2) After paragraph (7) insert—
 
@@ -116,17 +116,17 @@ Section 129
 
 (3) In paragraph (8), for “or (7)” substitute “ , (7) or (7A) ”.
 
-**5.**[^c24498541][^key-fdc9e8d3327380ee2d9dc4c10be7631b] In Article 205 (recovery plan), after paragraph (3) insert—
+**5.**[^c24498541][^c-fdc9e8d3327380ee2d9dc4c10be7631b] In Article 205 (recovery plan), after paragraph (3) insert—
 
 > (3A) Provision may be made by regulations as to the matters to be taken into account, or the principles to be followed, in determining for the purposes of paragraph (3) whether a recovery plan is appropriate having regard to the nature and circumstances of the scheme.
 
-**6.**[^c24498561][^key-32abb8b2f0c297459613e686034330d7] In Article 208 (matters requiring agreement of employer), in paragraph (1), before sub-paragraph (a) insert—
+**6.**[^c24498561][^c-32abb8b2f0c297459613e686034330d7] In Article 208 (matters requiring agreement of employer), in paragraph (1), before sub-paragraph (a) insert—
 
 > - (za) the scheme's funding and investment strategy, as set out in the scheme's statement of strategy;
 
 .
 
-**7.**[^c24498571][^key-5c9a09ebf00e72e438fd581edd9022db] (1) Article 210 (powers of the Regulator) is amended as follows.
+**7.**[^c24498571][^c-5c9a09ebf00e72e438fd581edd9022db] (1) Article 210 (powers of the Regulator) is amended as follows.
 
 (2) In paragraph (1), before sub-paragraph (za) insert—
 
@@ -142,15 +142,15 @@ Section 129
 
 #### Minor and consequential amendments
 
-**8.**[^c24498581][^key-8974e4e62c0fa61b10cc4c6e1f697aa7] The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) is amended as follows.
+**8.**[^c24498581][^c-8974e4e62c0fa61b10cc4c6e1f697aa7] The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)) is amended as follows.
 
-**9.**[^c24498591][^key-b9247a5252a6cbf0e70d46d9b3be3ade] In Article 55 (registrable information), in paragraph (2), after sub-paragraph (c) insert—
+**9.**[^c24498591][^c-b9247a5252a6cbf0e70d46d9b3be3ade] In Article 55 (registrable information), in paragraph (2), after sub-paragraph (c) insert—
 
 > - (ca) in the case of an occupational pension scheme established under a trust, the full name and address of any chair of the trustees;
 
 .
 
-**10.**[^c24498601][^key-073a25d2a8d8fa7f95ed2805eacc5cd7] In Article 75 (offences of providing false or misleading information), in paragraph (1)(a)—
+**10.**[^c24498601][^c-073a25d2a8d8fa7f95ed2805eacc5cd7] In Article 75 (offences of providing false or misleading information), in paragraph (1)(a)—
 
 - (a) omit the “or” at the end of head (iv);
 - (b) after that head insert—
@@ -159,7 +159,7 @@ Section 129
 
   .
 
-**11.**[^c24498611][^key-57eece043e802a63087a218261a4ffb0] In Article 288 (Assembly etc control of orders and regulations), in paragraph (3), after sub-paragraph (h) insert—
+**11.**[^c24498611][^c-57eece043e802a63087a218261a4ffb0] In Article 288 (Assembly etc control of orders and regulations), in paragraph (3), after sub-paragraph (h) insert—
 
 > - (ha) the first regulations under Article 200A(4)(a) and (b) (funding and investment strategy: matters to be taken into account etc and level of detail);
 > - (hb) the first regulations under Article 200B(2)(d) (Part 2 of statement of strategy: additional matters to be included);
@@ -171,7 +171,7 @@ Section 129
 
 #### Climate change risk
 
-**12.**[^key-f717c5c6cefec871cd745533b59613bc] (1) The Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) is amended as follows.
+**12.**[^c-f717c5c6cefec871cd745533b59613bc] (1) The Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22)) is amended as follows.
 
 (2) After Article 41 insert—
 
@@ -255,9 +255,9 @@ Section 129
 
 #### Transfer rights: exercise of right to cash equivalent
 
-**13.** (1)[^key-aec34dfd586e1f2bbba29b92d60fabee][^key-2d5d8b6bc99ded53fce575a6527e4ef1] The Pension Schemes (Northern Ireland) Act 1993 is amended as follows.
+**13.** (1)[^c-aec34dfd586e1f2bbba29b92d60fabee][^c-2d5d8b6bc99ded53fce575a6527e4ef1] The Pension Schemes (Northern Ireland) Act 1993 is amended as follows.
 
-(2)[^key-98bf49483c952e8fcd9e62f9aa3dc337][^key-2d5d8b6bc99ded53fce575a6527e4ef1] In section 91 (ways of taking right to cash equivalent), after subsection (6) insert—
+(2)[^c-98bf49483c952e8fcd9e62f9aa3dc337][^c-2d5d8b6bc99ded53fce575a6527e4ef1] In section 91 (ways of taking right to cash equivalent), after subsection (6) insert—
 
 > (6ZA) The trustees or managers of the scheme may not use the cash equivalent in a way specified in subsection (2)(a), (b) or (d), (2A)(a), (b) or (d) or (3) unless prescribed conditions are satisfied.
 >
@@ -272,20 +272,20 @@ Section 129
 >
 > (6ZC) Regulations may make provision requiring the trustees or managers of a pension scheme to notify a member who makes an application under subsection (1) of conditions prescribed under subsection (6ZA).
 
-(3)[^key-220d3852cc923c0522d86cd0b6686734] In section 94 (loss of right to cash equivalent), in subsection (2), for “95(2A)” substitute “ 95(2ZA) or (2A) ”.
+(3)[^c-220d3852cc923c0522d86cd0b6686734] In section 94 (loss of right to cash equivalent), in subsection (2), for “95(2A)” substitute “ 95(2ZA) or (2A) ”.
 
-(4)[^key-220d3852cc923c0522d86cd0b6686734] In section 95 (trustees' duties after exercise of option), after subsection (2) insert—
+(4)[^c-220d3852cc923c0522d86cd0b6686734] In section 95 (trustees' duties after exercise of option), after subsection (2) insert—
 
 > (2ZA) Subsection (2) does not apply if the trustees or managers have been unable to carry out what the member requires because a condition prescribed by regulations under section 91(6ZA) has not been satisfied.
 
-(5)[^key-220d3852cc923c0522d86cd0b6686734] In section 95, after subsection (2ZA) (inserted by sub-paragraph (4)) insert—
+(5)[^c-220d3852cc923c0522d86cd0b6686734] In section 95, after subsection (2ZA) (inserted by sub-paragraph (4)) insert—
 
 > (2ZB) Subsection (2) does not apply if—
 >
 > - (a) the member was required by section 92(4) to give a transfer notice under section 97F(1) in addition to making an application, and
 > - (b) the trustees or managers have been unable to carry out what the member required in the transfer notice under section 97F(1) because a condition prescribed by regulations under section 97F(5A) has not been satisfied.
 
-(6)[^key-98bf49483c952e8fcd9e62f9aa3dc337][^key-2d5d8b6bc99ded53fce575a6527e4ef1] In section 97F (power to give transfer notice), after subsection (5) insert—
+(6)[^c-98bf49483c952e8fcd9e62f9aa3dc337][^c-2d5d8b6bc99ded53fce575a6527e4ef1] In section 97F (power to give transfer notice), after subsection (5) insert—
 
 > (5A) The trustees or managers of the scheme may not use the amount equal to the cash equivalent for an authorised purpose under subsection (2)(a) or (c) or (3) unless prescribed conditions are satisfied.
 >
@@ -300,11 +300,11 @@ Section 129
 >
 > (5C) Regulations may make provision requiring the trustees or managers of a qualifying scheme to notify an eligible member who gives a transfer notice of conditions prescribed under subsection (5A).
 
-(7)[^key-220d3852cc923c0522d86cd0b6686734] In section 97J (time for compliance with transfer notice), after subsection (2A) insert—
+(7)[^c-220d3852cc923c0522d86cd0b6686734] In section 97J (time for compliance with transfer notice), after subsection (2A) insert—
 
 > (2AA) Subsection (1) does not apply if the trustees or managers have been unable to carry out what the member requires because a condition prescribed by regulations under section 97F(5A) has not been satisfied.
 
-(8)[^key-220d3852cc923c0522d86cd0b6686734] In section 97J, after subsection (2AA) (inserted by sub-paragraph (7)) insert—
+(8)[^c-220d3852cc923c0522d86cd0b6686734] In section 97J, after subsection (2AA) (inserted by sub-paragraph (7)) insert—
 
 > (2AB) Subsection (1) does not apply if—
 >
@@ -313,7 +313,7 @@ Section 129
 
 #### The Pension Protection Fund: modification of provisions relating to pensionable service
 
-**14.**[^key-5b0a2d87a5a3770dfdd9d6eed89859a4] (1) The amendments of the Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005 (S.R. (N.I.) 2005 No. 149) made by regulation 2(2) and (3) of the Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations (Northern Ireland) 2018 (S.R. (N.I.) 2018 No. 165) (“**the 2018 Regulations**”) are to be deemed always to have had effect.
+**14.**[^c-5b0a2d87a5a3770dfdd9d6eed89859a4] (1) The amendments of the Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005 (S.R. (N.I.) 2005 No. 149) made by regulation 2(2) and (3) of the Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations (Northern Ireland) 2018 (S.R. (N.I.) 2018 No. 165) (“**the 2018 Regulations**”) are to be deemed always to have had effect.
 
 (2) The amendment of the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations (Northern Ireland) 2005 (S.R. (N.I.) 2005 No. 91) made by regulation 3 of the 2018 Regulations is to be deemed always to have had effect.
 
@@ -336,7 +336,7 @@ Section 129
 
 #### Categories of pension schemes: repeal of provisions of Pension Schemes Act (Northern Ireland) 2016
 
-**16.**[^key-4b887e72f40a01facd75290b194b8a83] In the Pension Schemes Act (Northern Ireland) 2016 (c. 1 (N.I.)), omit—
+**16.**[^c-4b887e72f40a01facd75290b194b8a83] In the Pension Schemes Act (Northern Ireland) 2016 (c. 1 (N.I.)), omit—
 
 - (a) sections 1 to 7 (Part 1: categories of pension scheme);
 - (b) sections 8 to 35 (Part 2: pension schemes providing collective benefits);
@@ -354,59 +354,59 @@ Section 129
 
 [^c24498501]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/1) in force at Royal Assent for specified purposes, see [s. 131(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c)
 
-[^key-8c50acd1d2632fdb5ec3faf7dcf8ca97]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/1) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-8c50acd1d2632fdb5ec3faf7dcf8ca97]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/1) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
 
 [^c24498511]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/2) in force at Royal Assent for specified purposes, see [s. 131(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c)
 
-[^key-4f08e5c2039a7473042e7af1ccc31d5f]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/2) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-4f08e5c2039a7473042e7af1ccc31d5f]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/2) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
 
 [^c24498521]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/3) in force at Royal Assent for specified purposes, see [s. 131(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c)
 
-[^key-4cc09245fc726801cf896f746a0673ec]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/3) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2024/89/article/3))
+[^c-4cc09245fc726801cf896f746a0673ec]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/3) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2024/89/article/3))
 
 [^c24498531]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/4) in force at Royal Assent for specified purposes, see [s. 131(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c)
 
-[^key-0ecc3f200d9283a42b065e935c48dcc9]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/4) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2024/89/article/4))
+[^c-0ecc3f200d9283a42b065e935c48dcc9]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/4) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2024/89/article/4))
 
 [^c24498541]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/5) in force at Royal Assent for specified purposes, see [s. 131(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c)
 
-[^key-fdc9e8d3327380ee2d9dc4c10be7631b]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/5) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-fdc9e8d3327380ee2d9dc4c10be7631b]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/5) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
 
 [^c24498561]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/6) in force at Royal Assent for specified purposes, see [s. 131(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c)
 
-[^key-32abb8b2f0c297459613e686034330d7]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/6) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-32abb8b2f0c297459613e686034330d7]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/6) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
 
 [^c24498571]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/7) in force at Royal Assent for specified purposes, see [s. 131(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c)
 
-[^key-5c9a09ebf00e72e438fd581edd9022db]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/7) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-5c9a09ebf00e72e438fd581edd9022db]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/7) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
 
 [^c24498581]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/8) in force at Royal Assent for specified purposes, see [s. 131(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c)
 
-[^key-8974e4e62c0fa61b10cc4c6e1f697aa7]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/8) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-8974e4e62c0fa61b10cc4c6e1f697aa7]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/8) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
 
 [^c24498591]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/9) in force at Royal Assent for specified purposes, see [s. 131(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c)
 
-[^key-b9247a5252a6cbf0e70d46d9b3be3ade]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/9) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-b9247a5252a6cbf0e70d46d9b3be3ade]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/9) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
 
 [^c24498601]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/10) in force at Royal Assent for specified purposes, see [s. 131(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c)
 
-[^key-073a25d2a8d8fa7f95ed2805eacc5cd7]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/10) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-073a25d2a8d8fa7f95ed2805eacc5cd7]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/10) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
 
 [^c24498611]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/11) in force at Royal Assent for specified purposes, see [s. 131(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c)
 
-[^key-57eece043e802a63087a218261a4ffb0]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/11) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-57eece043e802a63087a218261a4ffb0]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/11) in force at 6.4.2024 in so far as not already in force by [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
 
-[^key-f717c5c6cefec871cd745533b59613bc]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/12) in force at 1.9.2021 by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/e)
+[^c-f717c5c6cefec871cd745533b59613bc]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/12) in force at 1.9.2021 by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/e)
 
-[^key-aec34dfd586e1f2bbba29b92d60fabee]: Commencement: [Sch. 11 para. 13(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/1) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/b)
+[^c-aec34dfd586e1f2bbba29b92d60fabee]: Commencement: [Sch. 11 para. 13(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/1) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/b)
 
-[^key-2d5d8b6bc99ded53fce575a6527e4ef1]: Commencement: [Sch. 11 para. 13(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/1)[(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/2)[(6)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/6) in force at 30.11.2021 in so far as not already in force by [S.R. 2021/300](https://www.legislation.gov.uk/nisr/2021/300), [art. 2(b)](https://www.legislation.gov.uk/nisr/2021/300/article/2/b)
+[^c-2d5d8b6bc99ded53fce575a6527e4ef1]: Commencement: [Sch. 11 para. 13(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/1)[(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/2)[(6)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/6) in force at 30.11.2021 in so far as not already in force by [S.R. 2021/300](https://www.legislation.gov.uk/nisr/2021/300), [art. 2(b)](https://www.legislation.gov.uk/nisr/2021/300/article/2/b)
 
-[^key-98bf49483c952e8fcd9e62f9aa3dc337]: Commencement: [Sch. 11 para. 13(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/2)[(6)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/6) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(g)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/g)
+[^c-98bf49483c952e8fcd9e62f9aa3dc337]: Commencement: [Sch. 11 para. 13(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/2)[(6)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/13/6) in force at 1.9.2021 for specified purposes by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(g)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/g)
 
-[^key-220d3852cc923c0522d86cd0b6686734]: Commencement: Sch. 11 para. 13(3)-(5)(7)(8) in force at 30.11.2021 by [S.R. 2021/300](https://www.legislation.gov.uk/nisr/2021/300), [art. 2(b)](https://www.legislation.gov.uk/nisr/2021/300/article/2/b)
+[^c-220d3852cc923c0522d86cd0b6686734]: Commencement: Sch. 11 para. 13(3)-(5)(7)(8) in force at 30.11.2021 by [S.R. 2021/300](https://www.legislation.gov.uk/nisr/2021/300), [art. 2(b)](https://www.legislation.gov.uk/nisr/2021/300/article/2/b)
 
-[^key-5b0a2d87a5a3770dfdd9d6eed89859a4]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/14) in force at 1.9.2021 by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(f)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/f)
+[^c-5b0a2d87a5a3770dfdd9d6eed89859a4]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/14) in force at 1.9.2021 by [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(f)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/f)
 
 [^M_I_a7c33cee-fc98-4dbe-92bd-1311204a1eba]: Commencement: Sch. 11 para. 15(2) in force at 29.9.2021 for specified purposes by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(2)](https://www.legislation.gov.uk/nisr/2021/271/article/2/2) (with [art. 10](https://www.legislation.gov.uk/nisr/2021/271/article/10))
 
@@ -414,4 +414,4 @@ Section 129
 
 [^M_I_9dcdd16b-f7e3-4099-f923-b2d1c348f8e4]: Commencement: Sch. 11 para. 15(3) in force at 1.10.2021 by [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(j)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/j)
 
-[^key-4b887e72f40a01facd75290b194b8a83]: Commencement: [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16) in force at 1.8.2022 for specified purposes by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)
+[^c-4b887e72f40a01facd75290b194b8a83]: Commencement: [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16) in force at 1.8.2022 for specified purposes by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)

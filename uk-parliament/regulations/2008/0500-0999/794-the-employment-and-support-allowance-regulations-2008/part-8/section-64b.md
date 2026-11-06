@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64B. Circumstances in which a claimant is to be treated as being in hardship[^key-9e7242575949065ccff474940882696e]
+## 64B. Circumstances in which a claimant is to be treated as being in hardship[^c-9e7242575949065ccff474940882696e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A claimant is to be treated as being in hardship if the claimant’s partner, or
 
 ## Annotations
 
-[^key-9e7242575949065ccff474940882696e]: Textual amendment: Regs. 64A-64D inserted (3.12.2012) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2756)](https://www.legislation.gov.uk/uksi/2012/2756), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2012/2756/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/2))
+[^c-9e7242575949065ccff474940882696e]: Textual amendment: Regs. 64A-64D inserted (3.12.2012) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2756)](https://www.legislation.gov.uk/uksi/2012/2756), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2012/2756/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/2))

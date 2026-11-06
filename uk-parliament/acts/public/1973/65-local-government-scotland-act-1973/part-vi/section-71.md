@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-c34ccefc17b74436045e615b5c3acd8a] Subject to subsection (2) below, for the purposes of any of their functions under this or any other enactment, a local authority may be authorised by the Minister concerned with the function in question to purchase compulsorily any land, whether situated inside or outside their area.
+(1)[^c-c34ccefc17b74436045e615b5c3acd8a] Subject to subsection (2) below, for the purposes of any of their functions under this or any other enactment, a local authority may be authorised by the Minister concerned with the function in question to purchase compulsorily any land, whether situated inside or outside their area.
 
 (2) A local authority may not be authorised under subsection (1) above to purchase land compulsorily for any purpose in relation to which their power of acquisition is by any enactment expressly limited to acquisition by agreement.
 
@@ -37,6 +37,6 @@ summary: ''
 
 [^c19267461]: Modification: [S. 71](https://www.legislation.gov.uk/ukpga/1973/65/section/71) applied (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [ss. 4](https://www.legislation.gov.uk/asp/2005/5/section/4), [90](https://www.legislation.gov.uk/asp/2005/5/section/90), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/asp/2005/5/schedule/1/paragraph/2/2) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
 
-[^key-c34ccefc17b74436045e615b5c3acd8a]: Modification: [S. 71(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/71/1) modified (28.12.2016) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [ss. 101](https://www.legislation.gov.uk/asp/2016/20/section/101), [112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule)
+[^c-c34ccefc17b74436045e615b5c3acd8a]: Modification: [S. 71(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/71/1) modified (28.12.2016) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [ss. 101](https://www.legislation.gov.uk/asp/2016/20/section/101), [112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule)
 
 [^c9672731]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).

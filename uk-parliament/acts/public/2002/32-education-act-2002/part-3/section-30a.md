@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30A. School profiles[^key-34f594cdd04edef33c4b8cc4304e1606]
+## 30A. School profiles[^c-34f594cdd04edef33c4b8cc4304e1606]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34f594cdd04edef33c4b8cc4304e1606]: Textual amendment: S. 30A repealed (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/32/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-34f594cdd04edef33c4b8cc4304e1606]: Textual amendment: S. 30A repealed (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/32/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

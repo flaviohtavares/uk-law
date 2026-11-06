@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Consultation on proposed sentencing guidelines[^key-139ac54ec61bc929cb060b2e243c4c1c]
+## 4. Consultation on proposed sentencing guidelines[^c-139ac54ec61bc929cb060b2e243c4c1c]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-139ac54ec61bc929cb060b2e243c4c1c]: Commencement: S. 4 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-139ac54ec61bc929cb060b2e243c4c1c]: Commencement: S. 4 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)

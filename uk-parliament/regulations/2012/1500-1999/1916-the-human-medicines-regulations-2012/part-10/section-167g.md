@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167G. EAMS medicinal products: pharmacovigilance[^key-0c458fec6b4a67e2150b83d716086edd]
+## 167G. EAMS medicinal products: pharmacovigilance[^c-0c458fec6b4a67e2150b83d716086edd]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraphs (1A) and (1B),[^key-2cc7bb00eb23238079516433042eebed] the EAMS scientific opinion holder must comply with the following pharmacovigilance requirements in respect of an EAMS medicinal product—
+(1) Subject to paragraphs (1A) and (1B),[^c-2cc7bb00eb23238079516433042eebed] the EAMS scientific opinion holder must comply with the following pharmacovigilance requirements in respect of an EAMS medicinal product—
 
 - (a) a risk management system must be agreed with the licensing authority and operated by the EAMS scientific opinion holder in accordance with the risk management plan;
 - (b) the EAMS scientific opinion holder must record and maintain adverse reaction reports in respect of the EAMS medicinal product and must ensure that these reports are accessible (electronically or physically) at a single point within the United Kingdom;
@@ -28,7 +28,7 @@ summary: ''
   - (i) a report on all serious suspected adverse reactions that occur within 15 days of receipt, and
   - (ii) a report on all non-serious suspected adverse reactions that occur in the United Kingdom within 90 days of receipt,
 
-  and must ensure that the reports referred to in sub-paragraphs (i) and (ii) are in the format and content specified by Part 6 of Schedule 12A and, in the case of an MM medicinal product or a POC medicinal product, include the product’s batch number or other product identifier if no batch number is available[^key-5128fb7547b6f7035de01c9b551e228c];
+  and must ensure that the reports referred to in sub-paragraphs (i) and (ii) are in the format and content specified by Part 6 of Schedule 12A and, in the case of an MM medicinal product or a POC medicinal product, include the product’s batch number or other product identifier if no batch number is available[^c-5128fb7547b6f7035de01c9b551e228c];
 - (d) the EAMS scientific opinion holder must—
   - (i) establish procedures in order to obtain accurate and verifiable data for the scientific evaluation of suspected adverse reaction reports, and
   - (ii) collect follow-up information on reports submitted under sub-paragraphs (c)(i) and (c)(ii) and submit it electronically to the licensing authority by way of an update to the original report within the specified time period;
@@ -47,7 +47,7 @@ summary: ''
   - (ii) maintain those records for at least five years beginning on the date on which the EAMS scientific opinion ceases to have effect in accordance with regulation 167D(1) (subject to any winding down period provided for in accordance with regulation 167D(2)), and
   - (iii) make those records available to the licensing authority or to the enforcement authority on request.
 
-(1A)[^key-803713206d7d4c149bbb086adeda48cd] In the case of an MM medicinal product, the periods of 15 and 90 days referred to in paragraph (1)(c) begin on the day following the day on which the holder of the scientific opinion gained knowledge of the reaction.
+(1A)[^c-803713206d7d4c149bbb086adeda48cd] In the case of an MM medicinal product, the periods of 15 and 90 days referred to in paragraph (1)(c) begin on the day following the day on which the holder of the scientific opinion gained knowledge of the reaction.
 
 (1B) In the case of a POC medicinal product, the periods of 15 and 90 days referred to in paragraph (1)(c) begin on the day following the day on which the holder of the scientific opinion gained knowledge of the reaction.
 
@@ -55,10 +55,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0c458fec6b4a67e2150b83d716086edd]: Textual amendment: [Regs. 167C-167H](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167C) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/352/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
+[^c-0c458fec6b4a67e2150b83d716086edd]: Textual amendment: [Regs. 167C-167H](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167C) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/352/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
 
-[^key-2cc7bb00eb23238079516433042eebed]: Textual amendment: Words in [reg. 167G(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167G/1) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2025/87/regulation/20/2/a)
+[^c-2cc7bb00eb23238079516433042eebed]: Textual amendment: Words in [reg. 167G(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167G/1) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2025/87/regulation/20/2/a)
 
-[^key-5128fb7547b6f7035de01c9b551e228c]: Textual amendment: Words in [reg. 167G(1)(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167G/1/c) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2025/87/regulation/20/2/b)
+[^c-5128fb7547b6f7035de01c9b551e228c]: Textual amendment: Words in [reg. 167G(1)(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167G/1/c) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2025/87/regulation/20/2/b)
 
-[^key-803713206d7d4c149bbb086adeda48cd]: Textual amendment: [Reg. 167G(1A)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167G/1A)[(1B)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167G/1B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2025/87/regulation/20/3)
+[^c-803713206d7d4c149bbb086adeda48cd]: Textual amendment: [Reg. 167G(1A)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167G/1A)[(1B)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167G/1B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2025/87/regulation/20/3)

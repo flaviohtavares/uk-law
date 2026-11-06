@@ -50,7 +50,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 
 (2) Regulations 4 and 6(3), and, for the purposes of those provisions, this regulation, shall come into force on 2nd April 2001 and regulation 2(6)(c) and (9), and, for the purposes of those provisions, this regulation, shall come into force on the day on which section 16 of the 2000 Act comes into force.
 
-(2A)[^key-518d8e3c504b55222d3d00e6852fdbcb] Regulation 2(6)(b) and, for the purposes of that provision, this regulation, shall come into force on 31st May 2001.
+(2A)[^c-518d8e3c504b55222d3d00e6852fdbcb] Regulation 2(6)(b) and, for the purposes of that provision, this regulation, shall come into force on 31st May 2001.
 
 (2B)[^M_F_e956a912-5821-4112-c03e-7eb1e8333b64] Regulation 2(3)(b)(ii) and (c) shall, to the extent that those provisions are not already in force on 12th July 2006, come into force on that date.
 
@@ -295,19 +295,19 @@ The Fees Regulations shall be revoked.
 (3) In Part II (arrears of child support maintenance and interest on arrears)—
 
 - (a) in the heading to the Part, “and interest on arrears” shall be omitted;
-- (b)[^key-fa8389388208869c49f7fb0e74fd73cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-e98729bca976a50ffe973140bb8c9fb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-fa8389388208869c49f7fb0e74fd73cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e98729bca976a50ffe973140bb8c9fb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in regulation 8—
   - (i) in paragraphs (1)(i) and (2), for “absent parent” there shall be substituted “ non-resident parent ”; and
   - (ii) in paragraph (2), for “maintenance assessment” there shall be substituted “ maintenance calculation ”; and
-- (e)[^key-74d7d1031febedd8262619f5c871644c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-74d7d1031febedd8262619f5c871644c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Part III (attribution of payments and adjustment of the amount payable under a maintenance assessment)—
 
 - (a) in the heading to the Part and the heading to regulation 10, for “assessment” there shall be substituted “ calculation ”;
 - (b) in regulation 9, paragraphs (1) and (4) of regulation 10 and paragraph (1) of regulation 10A for “assessment” wherever it appears there shall be substituted “ calculation ”;
 - (c) in regulation 9, paragraph (1)(b)(i) of regulation 10 and paragraph (1) of regulation 10A, for “absent parent” there shall be substituted “ non-resident parent ”;
-- (d)[^key-db4b4b12570fbdedfd79dafbda755081] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-db4b4b12570fbdedfd79dafbda755081] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in regulation 10A(1)—
   - (i) in sub-paragraph (a), the words “family credit or disability working allowance” shall be omitted; and
   - (ii) sub-paragraph (b) shall be omitted; and
@@ -326,7 +326,7 @@ The Fees Regulations shall be revoked.
 
 ## 6. Savings[^c2200985]
 
-(Z1)[^key-b8852947016e3c6821edeeb4ea4bb5ad] This regulation is subject to the Child Support (Transitional Provisions) Regulations 2000.
+(Z1)[^c-b8852947016e3c6821edeeb4ea4bb5ad] This regulation is subject to the Child Support (Transitional Provisions) Regulations 2000.
 
 (1) Where, in respect of a particular case before the date that these Regulations come into force with respect to that type of case,—
 
@@ -439,7 +439,7 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^c2200978]: Commencement: Reg. 1 coming into force in accordance with {reg. 1(2)(3)} and [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-518d8e3c504b55222d3d00e6852fdbcb]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/2A) inserted (31.5.2001) by [The Child Support (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/1775)](https://www.legislation.gov.uk/uksi/2001/1775), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1775/regulation/1), [2](https://www.legislation.gov.uk/uksi/2001/1775/regulation/2)
+[^c-518d8e3c504b55222d3d00e6852fdbcb]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/2A) inserted (31.5.2001) by [The Child Support (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/1775)](https://www.legislation.gov.uk/uksi/2001/1775), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1775/regulation/1), [2](https://www.legislation.gov.uk/uksi/2001/1775/regulation/2)
 
 [^M_F_e956a912-5821-4112-c03e-7eb1e8333b64]: Textual amendment: [Reg. 1(2B)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/2A) inserted (12.7.2006) by [The Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/6/2)
 
@@ -467,17 +467,17 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^c1555995]: Marginal citation: [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155).
 
-[^key-fa8389388208869c49f7fb0e74fd73cf]: Textual amendment: [Reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/3/b) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+[^c-fa8389388208869c49f7fb0e74fd73cf]: Textual amendment: [Reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/3/b) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
 
-[^key-e98729bca976a50ffe973140bb8c9fb8]: Textual amendment: [Reg. 5(3)(c)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/3/c) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+[^c-e98729bca976a50ffe973140bb8c9fb8]: Textual amendment: [Reg. 5(3)(c)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/3/c) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
 
-[^key-74d7d1031febedd8262619f5c871644c]: Textual amendment: [Reg. 5(3)(e)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/3/e) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+[^c-74d7d1031febedd8262619f5c871644c]: Textual amendment: [Reg. 5(3)(e)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/3/e) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
 
-[^key-db4b4b12570fbdedfd79dafbda755081]: Textual amendment: [Reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/4/d) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+[^c-db4b4b12570fbdedfd79dafbda755081]: Textual amendment: [Reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/4/d) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
 
 [^c2200985]: Commencement: Reg. 6 coming into force in accordance with {reg. 1(2)(3)} and [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354) and [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192)
 
-[^key-b8852947016e3c6821edeeb4ea4bb5ad]: Textual amendment: [Reg. 6(Z1)](https://www.legislation.gov.uk/uksi/2001/162/regulation/6/Z1) inserted (3.3.2003) by [The Child Support (Transitional Provision)(Miscellaneous Amendments) Regulations 2003 (S.I. 2003/347)](https://www.legislation.gov.uk/uksi/2003/347), [regs. 1](https://www.legislation.gov.uk/uksi/2003/347/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/4/a)
+[^c-b8852947016e3c6821edeeb4ea4bb5ad]: Textual amendment: [Reg. 6(Z1)](https://www.legislation.gov.uk/uksi/2001/162/regulation/6/Z1) inserted (3.3.2003) by [The Child Support (Transitional Provision)(Miscellaneous Amendments) Regulations 2003 (S.I. 2003/347)](https://www.legislation.gov.uk/uksi/2003/347), [regs. 1](https://www.legislation.gov.uk/uksi/2003/347/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/4/a)
 
 [^M_F_0e5151eb-d81b-466c-8ac6-b9336fdeb78d]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2001/162/regulation/6/1) inserted (12.7.2006) by [The Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/6/3/a)
 

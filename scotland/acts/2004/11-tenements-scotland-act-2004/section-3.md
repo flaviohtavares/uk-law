@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Pertinents[^key-bd5e98777b9219f0c9c3359f829409e4]
+## 3. Pertinents[^c-bd5e98777b9219f0c9c3359f829409e4]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd5e98777b9219f0c9c3359f829409e4]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/11/section/3) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)
+[^c-bd5e98777b9219f0c9c3359f829409e4]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/11/section/3) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)

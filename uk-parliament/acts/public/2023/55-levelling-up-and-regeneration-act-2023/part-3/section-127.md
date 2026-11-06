@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Power to shorten deadline for examination of development consent order applications[^key-63823e181432379b0d21b97bd3cd697e]
+## 127. Power to shorten deadline for examination of development consent order applications[^c-63823e181432379b0d21b97bd3cd697e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63823e181432379b0d21b97bd3cd697e]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2023/55/section/127) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-63823e181432379b0d21b97bd3cd697e]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2023/55/section/127) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

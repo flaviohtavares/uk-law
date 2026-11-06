@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Maximum council tax reduction[^key-68ec0f7f66aac4905817260ac03bcf86]
+## 79. Maximum council tax reduction[^c-68ec0f7f66aac4905817260ac03bcf86]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ less any deductions in respect of non-dependants which fall to be made under reg
 
 ## Annotations
 
-[^key-68ec0f7f66aac4905817260ac03bcf86]: Commencement: [Reg. 79](https://www.legislation.gov.uk/ssi/2021/249/regulation/79) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-68ec0f7f66aac4905817260ac03bcf86]: Commencement: [Reg. 79](https://www.legislation.gov.uk/ssi/2021/249/regulation/79) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00217]: Footnote: Section 80 was amended by paragraph 176 of schedule 13 of the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39) and [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388). Section 80A was inserted by section 65 of the Climate Change (Scotland) Act [2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12).

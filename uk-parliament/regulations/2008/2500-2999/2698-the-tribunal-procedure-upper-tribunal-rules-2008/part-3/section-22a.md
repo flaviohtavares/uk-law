@@ -14,10 +14,10 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
 
-## 22A. Special procedure for providing notice of a refusal of permission to appeal in an asylum case[^key-6e53a0e540ced8063a094badcc1fe13b]
+## 22A. Special procedure for providing notice of a refusal of permission to appeal in an asylum case[^c-6e53a0e540ced8063a094badcc1fe13b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e53a0e540ced8063a094badcc1fe13b]: Textual amendment: [Art. 22A](https://www.legislation.gov.uk/uksi/2008/2698/article/22A) omitted (25.12.2023) by virtue of [The Tribunal Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1280)](https://www.legislation.gov.uk/uksi/2023/1280), [rules 1](https://www.legislation.gov.uk/uksi/2023/1280/rule/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/1280/rule/3/3)
+[^c-6e53a0e540ced8063a094badcc1fe13b]: Textual amendment: [Art. 22A](https://www.legislation.gov.uk/uksi/2008/2698/article/22A) omitted (25.12.2023) by virtue of [The Tribunal Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1280)](https://www.legislation.gov.uk/uksi/2023/1280), [rules 1](https://www.legislation.gov.uk/uksi/2023/1280/rule/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/1280/rule/3/3)

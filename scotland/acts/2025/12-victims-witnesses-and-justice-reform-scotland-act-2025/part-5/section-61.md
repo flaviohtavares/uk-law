@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Vulnerable parties[^key-374de27d9530a2552a82fe049d9bb944]
+## 61. Vulnerable parties[^c-374de27d9530a2552a82fe049d9bb944]
 
 *Extent: S*
 
@@ -142,4 +142,4 @@ summary: ''
 
 ## Annotations
 
-[^key-374de27d9530a2552a82fe049d9bb944]: Commencement: S. 61 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-374de27d9530a2552a82fe049d9bb944]: Commencement: S. 61 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

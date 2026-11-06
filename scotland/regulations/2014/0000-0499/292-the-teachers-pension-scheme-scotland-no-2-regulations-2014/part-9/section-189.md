@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 189. Recovery of unpaid contributions from benefits[^key-cf36b74279b1cfaab6919fa3cafe4b88]
+## 189. Recovery of unpaid contributions from benefits[^c-cf36b74279b1cfaab6919fa3cafe4b88]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf36b74279b1cfaab6919fa3cafe4b88]: Commencement: [Reg. 189](https://www.legislation.gov.uk/ssi/2014/292/regulation/189) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-cf36b74279b1cfaab6919fa3cafe4b88]: Commencement: [Reg. 189](https://www.legislation.gov.uk/ssi/2014/292/regulation/189) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

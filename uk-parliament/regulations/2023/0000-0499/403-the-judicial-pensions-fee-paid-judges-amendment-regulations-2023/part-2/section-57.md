@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Amendment of regulation 117[^key-7578e96df3c64798835c26fec375c7f7]
+## 57. Amendment of regulation 117[^c-7578e96df3c64798835c26fec375c7f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In regulation 117—
 
 ## Annotations
 
-[^key-7578e96df3c64798835c26fec375c7f7]: Commencement: Reg. 57 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-7578e96df3c64798835c26fec375c7f7]: Commencement: Reg. 57 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Power to make further consequential amendments[^key-88098189c8a0c60da2e41d31749b1b2e][^M_C_67dd03af-39f0-44e7-e464-e2a0a6622092]
+## 4. Power to make further consequential amendments[^c-88098189c8a0c60da2e41d31749b1b2e][^M_C_67dd03af-39f0-44e7-e464-e2a0a6622092]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88098189c8a0c60da2e41d31749b1b2e]: Modification: S. 4 modified (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 22(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/22/1)
+[^c-88098189c8a0c60da2e41d31749b1b2e]: Modification: S. 4 modified (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 22(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/22/1)
 
 [^M_C_67dd03af-39f0-44e7-e464-e2a0a6622092]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/2015/21/section/4) modified (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 30(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/30/2)

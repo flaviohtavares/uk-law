@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Visa penalty provision: general[^key-51da85183ba5f46709b351be58fbccdf][^key-9498bf6957f820995c6b8775d00b4a15]
+## 70. Visa penalty provision: general[^c-51da85183ba5f46709b351be58fbccdf][^c-9498bf6957f820995c6b8775d00b4a15]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-51da85183ba5f46709b351be58fbccdf]: Commencement: S. 70 in force at Royal Assent, see [s. 87(3)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/b)
+[^c-51da85183ba5f46709b351be58fbccdf]: Commencement: S. 70 in force at Royal Assent, see [s. 87(3)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/b)
 
-[^key-9498bf6957f820995c6b8775d00b4a15]: Modification: [S. 70](https://www.legislation.gov.uk/ukpga/2022/36/section/70) extended (with modifications) (Guernsey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2025 (S.I. 2025/1138)](https://www.legislation.gov.uk/uksi/2025/1138), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1138/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2025/1138/schedule/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/schedule/2)
+[^c-9498bf6957f820995c6b8775d00b4a15]: Modification: [S. 70](https://www.legislation.gov.uk/ukpga/2022/36/section/70) extended (with modifications) (Guernsey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2025 (S.I. 2025/1138)](https://www.legislation.gov.uk/uksi/2025/1138), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1138/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2025/1138/schedule/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/schedule/2)

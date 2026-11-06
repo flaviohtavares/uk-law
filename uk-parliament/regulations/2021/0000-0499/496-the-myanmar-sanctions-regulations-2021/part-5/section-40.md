@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Defences[^key-35607e83e43b0b8158bb3b546c4b8a2f]
+## 40. Defences[^c-35607e83e43b0b8158bb3b546c4b8a2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35607e83e43b0b8158bb3b546c4b8a2f]: Commencement: Reg. 40 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-35607e83e43b0b8158bb3b546c4b8a2f]: Commencement: Reg. 40 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

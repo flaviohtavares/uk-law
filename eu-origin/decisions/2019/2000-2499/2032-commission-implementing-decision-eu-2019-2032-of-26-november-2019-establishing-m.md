@@ -35,66 +35,66 @@ establishing measures to prevent the introduction into and the spread within the
 
 (notified under document C(2019) 8359) (revoked)
 
-[^key-0c7624ca8816a8906cf23da18e3757ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c7624ca8816a8906cf23da18e3757ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions[^key-0c7624ca8816a8906cf23da18e3757ac]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Action upon detection or suspected presence of the specified organism[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 1. Definitions[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Surveys of the presence of the specified organism in the territories of the Member States[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 2. Action upon detection or suspected presence of the specified organism[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Establishment of demarcated areas[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 3. Surveys of the presence of the specified organism in the territories of the Member States[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Eradication measures in the demarcated area[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 4. Establishment of demarcated areas[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Movement of specified plants within the Union[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 5. Eradication measures in the demarcated area[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Movement of certain wood and isolated bark out of demarcated areas[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 6. Movement of specified plants within the Union[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Movement of wood packaging material out of demarcated areas[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 7. Movement of certain wood and isolated bark out of demarcated areas[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Introduction into the Union of specified plants[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 8. Movement of wood packaging material out of demarcated areas[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Introduction into the Union of certain wood and isolated bark[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 9. Introduction into the Union of specified plants[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Official checks at introduction into the Union of specified plants as well as certain wood and isolated bark originating from non-European third countries[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 10. Introduction into the Union of certain wood and isolated bark[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Compliance[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 11. Official checks at introduction into the Union of specified plants as well as certain wood and isolated bark originating from non-European third countries[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Repeal[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 12. Compliance[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Addressees[^key-0c7624ca8816a8906cf23da18e3757ac]
+## Article 13. Repeal[^c-0c7624ca8816a8906cf23da18e3757ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c7624ca8816a8906cf23da18e3757ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 14. Addressees[^c-0c7624ca8816a8906cf23da18e3757ac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0c7624ca8816a8906cf23da18e3757ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c7624ca8816a8906cf23da18e3757ac]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 35](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/35) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-0c7624ca8816a8906cf23da18e3757ac]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 35](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/35) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

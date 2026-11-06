@@ -64,18 +64,18 @@ The Air Navigation (Single European Sky) (Penalties) Order 2009 [^c23491531] is 
 
 In article 2(1) (interpretation)—
 
-- (a)[^key-7dc1f1f923381fa3464564a90d3b5e35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7dc1f1f923381fa3464564a90d3b5e35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the definition of “notified”, for “article 155 of the Air Navigation Order 2005” substitute “ paragraph 1 of Schedule 1 to the Air Navigation Order 2016 ”[^c23491551] .
 
-## 4. Compliance and monitoring[^key-46751fa8f6b2c9058293488a61c50267]
+## 4. Compliance and monitoring[^c-46751fa8f6b2c9058293488a61c50267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties[^key-46751fa8f6b2c9058293488a61c50267]
+## 5. Penalties[^c-46751fa8f6b2c9058293488a61c50267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Review[^key-46751fa8f6b2c9058293488a61c50267]
+## 6. Review[^c-46751fa8f6b2c9058293488a61c50267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -103,8 +103,8 @@ An Explanatory Memorandum has been prepared for this instrument and is available
 
 [^c23491531]: Marginal citation: [S.I. 2009/1735](https://www.legislation.gov.uk/uksi/2009/1735), amended by [S.I. 2013/2874](https://www.legislation.gov.uk/uksi/2013/2874).
 
-[^key-7dc1f1f923381fa3464564a90d3b5e35]: Textual amendment: [Art. 3(a)](https://www.legislation.gov.uk/uksi/2018/1354/article/3/a) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [393](https://www.legislation.gov.uk/uksi/2019/459/regulation/393); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7dc1f1f923381fa3464564a90d3b5e35]: Textual amendment: [Art. 3(a)](https://www.legislation.gov.uk/uksi/2018/1354/article/3/a) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [393](https://www.legislation.gov.uk/uksi/2019/459/regulation/393); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23491551]: Marginal citation: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765), to which there are amendments not relevant to this Order.
 
-[^key-46751fa8f6b2c9058293488a61c50267]: Textual amendment: [Arts. 4-6](https://www.legislation.gov.uk/uksi/2018/1354/article/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [393](https://www.legislation.gov.uk/uksi/2019/459/regulation/393); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46751fa8f6b2c9058293488a61c50267]: Textual amendment: [Arts. 4-6](https://www.legislation.gov.uk/uksi/2018/1354/article/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [393](https://www.legislation.gov.uk/uksi/2019/459/regulation/393); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

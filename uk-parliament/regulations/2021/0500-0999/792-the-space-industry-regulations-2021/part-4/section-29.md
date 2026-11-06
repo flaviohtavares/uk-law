@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Contents of the safety case[^key-626a49e04a365fe09702eb314a3052e7]
+## 29. Contents of the safety case[^c-626a49e04a365fe09702eb314a3052e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-626a49e04a365fe09702eb314a3052e7]: Commencement: Reg. 29 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-626a49e04a365fe09702eb314a3052e7]: Commencement: Reg. 29 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

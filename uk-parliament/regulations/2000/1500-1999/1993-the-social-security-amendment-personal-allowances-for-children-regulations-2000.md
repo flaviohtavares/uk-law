@@ -61,8 +61,8 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (2) The provisions specified for the purposes of paragraph (1) above are—
 
-- (a) paragraph 2(1) of Schedule 1 to the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-c6db7084a77d85feb3078f54179432ac][^c1605337];
-- (b) paragraph 2(1) of Schedule 2 to the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-c6db7084a77d85feb3078f54179432ac][^c1605338];
+- (a) paragraph 2(1) of Schedule 1 to the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-c6db7084a77d85feb3078f54179432ac][^c1605337];
+- (b) paragraph 2(1) of Schedule 2 to the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-c6db7084a77d85feb3078f54179432ac][^c1605338];
 - (c) paragraph 2(1) of Schedule 2 to the Income Support Regulations;
 - (d) paragraph 2(1) of Schedule 1 to the Jobseeker’s Allowance Regulations.
 
@@ -102,7 +102,7 @@ These Regulations do not impose a charge on business.
 
 [^c1605336]: Marginal citation: The sum £26.60 was inserted in each case by [S.I.2000/440](https://www.legislation.gov.uk/uksi/2000/440).
 
-[^key-c6db7084a77d85feb3078f54179432ac]: Textual amendment: Reg. 2(2)(a)(b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-c6db7084a77d85feb3078f54179432ac]: Textual amendment: Reg. 2(2)(a)(b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1605337]: Marginal citation: [S.I.1992/1814](https://www.legislation.gov.uk/uksi/1992/1814); the relevant amending instruments are [S.I.1999/2555](https://www.legislation.gov.uk/uksi/1999/2555) and 2000/440.
 

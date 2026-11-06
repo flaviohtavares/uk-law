@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Amendment of regulation 269 (offences relating to packaging and package leaflets: other persons)[^key-1309fb8f97631b6cc5c6bab50d3476fe]
+## 208. Amendment of regulation 269 (offences relating to packaging and package leaflets: other persons)[^c-1309fb8f97631b6cc5c6bab50d3476fe]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulation 269 [^c23885411] is amended as follows.
 
-(1A)[^key-d965e8ca15d81ca1b9ffc7102ed5e7fc] In the heading to the regulation, after “packaging and package leaflets” insert “in Great Britain”.
+(1A)[^c-d965e8ca15d81ca1b9ffc7102ed5e7fc] In the heading to the regulation, after “packaging and package leaflets” insert “in Great Britain”.
 
-(2)[^key-7000dadd0ae3abe8f845b0e03d7170e2] In paragraph (1)—
+(2)[^c-7000dadd0ae3abe8f845b0e03d7170e2] In paragraph (1)—
 
 - (a) for “marketing authorisation, Article 126a authorisation” substitute “UKMA(UK), UKMA(GB)”;
 - (b) after “the purpose of sale or supply” insert “, in Great Britain”.
 
-(2A)[^key-87c9032ea9dcfdbdefc9f9434f4a886e] In paragraph (2), after “for the purpose of sale or supply,” insert “in Great Britain”.
+(2A)[^c-87c9032ea9dcfdbdefc9f9434f4a886e] In paragraph (2), after “for the purpose of sale or supply,” insert “in Great Britain”.
 
 (3) In paragraph (2)(a)—
 
@@ -38,12 +38,12 @@ summary: ''
 
 ## Annotations
 
-[^key-1309fb8f97631b6cc5c6bab50d3476fe]: Commencement: Reg. 208 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1309fb8f97631b6cc5c6bab50d3476fe]: Commencement: Reg. 208 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885411]: Marginal citation: Regulation 269 was amended by [S.I. 2015/903](https://www.legislation.gov.uk/uksi/2015/903) and 2019/62.
 
-[^key-d965e8ca15d81ca1b9ffc7102ed5e7fc]: Textual amendment: Reg. 208(1A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 163(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/163/a)
+[^c-d965e8ca15d81ca1b9ffc7102ed5e7fc]: Textual amendment: Reg. 208(1A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 163(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/163/a)
 
-[^key-7000dadd0ae3abe8f845b0e03d7170e2]: Textual amendment: Reg. 208(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 163(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/163/b)
+[^c-7000dadd0ae3abe8f845b0e03d7170e2]: Textual amendment: Reg. 208(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 163(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/163/b)
 
-[^key-87c9032ea9dcfdbdefc9f9434f4a886e]: Textual amendment: Reg. 208(2A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 163(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/163/c)
+[^c-87c9032ea9dcfdbdefc9f9434f4a886e]: Textual amendment: Reg. 208(2A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 163(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/163/c)

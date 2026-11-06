@@ -43,17 +43,17 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 A draft of this instrument has been laid before, and approved by a resolution of, Senedd Cymru in accordance with section 174(4) and (5)(f) of the Local Government and Elections (Wales) Act 2021[^f00003].
 
-## 1. Title and commencement[^key-86a7385915379dfb422e61893a33b024]
+## 1. Title and commencement[^c-86a7385915379dfb422e61893a33b024]
 
 The title of these Regulations is the Local Authorities (Amendments Relating to Publication of Information) (Wales) Regulations 2022 and they come into force on 5<sup> </sup>May 2022.
 
-## 2. Amendment to the Local Government Act 1972[^key-ab19dc42c1b3e3397dd2b7897c3b4936]
+## 2. Amendment to the Local Government Act 1972[^c-ab19dc42c1b3e3397dd2b7897c3b4936]
 
 In section 100G of the Local Government Act 1972[^f00004] (additional information published by principal councils), after subsection (4) insert—
 
 > (5) But, in relation to a principal council in Wales, the information open to inspection under subsection (4) must not include a member’s address included in the register maintained under subsection (1).
 
-## 3. Amendment to the Local Authorities (Executive Arrangements) (Decisions, Documents and Meetings) (Wales) Regulations 2001[^key-0a34125737d51f8e70009c9c92ef1ed6]
+## 3. Amendment to the Local Authorities (Executive Arrangements) (Decisions, Documents and Meetings) (Wales) Regulations 2001[^c-0a34125737d51f8e70009c9c92ef1ed6]
 
 In regulation 12 of the Local Authorities (Executive Arrangements) (Decisions, Documents and Meetings) (Wales) Regulations 2001[^f00005] (additional information published by local authorities), after paragraph (3) insert—
 
@@ -87,12 +87,12 @@ The Welsh Ministers’ Code of Practice on the carrying out of regulatory impact
 
 [^f00003]: Footnote: See also section 40 of the Legislation (Wales) [Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4) for provision about the procedure that applies to this instrument.
 
-[^key-86a7385915379dfb422e61893a33b024]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/412/regulation/1) in force at 5.5.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/412/regulation/1)
+[^c-86a7385915379dfb422e61893a33b024]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/412/regulation/1) in force at 5.5.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/412/regulation/1)
 
-[^key-ab19dc42c1b3e3397dd2b7897c3b4936]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/412/regulation/2) in force at 5.5.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/412/regulation/1)
+[^c-ab19dc42c1b3e3397dd2b7897c3b4936]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/412/regulation/2) in force at 5.5.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/412/regulation/1)
 
 [^f00004]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 100G was inserted by section 1(1) of the Local Government (Access to Information) Act [1985 (c. 43)](https://www.legislation.gov.uk/ukpga/1985/43).
 
-[^key-0a34125737d51f8e70009c9c92ef1ed6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/412/regulation/3) in force at 5.5.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/412/regulation/1)
+[^c-0a34125737d51f8e70009c9c92ef1ed6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/412/regulation/3) in force at 5.5.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/412/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2001/2290 (W. 178)](https://www.legislation.gov.uk/wsi/2001/2290), to which there are amendments not relevant to these Regulations.

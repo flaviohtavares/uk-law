@@ -33,7 +33,7 @@ Agriculture
 
 Pesticides
 
-Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-f823a1d979745c60c999885aa3dac750]
+Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-f823a1d979745c60c999885aa3dac750]
 
 Made
 
@@ -43,30 +43,30 @@ Coming into operation-
 
 16th June 2008
 
-[^key-f823a1d979745c60c999885aa3dac750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f823a1d979745c60c999885aa3dac750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f823a1d979745c60c999885aa3dac750]
+## 1. Citation, commencement and interpretation[^c-f823a1d979745c60c999885aa3dac750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Pesticides (Maximum Residue Levels in Crops Food and Feeding Stuffs) Regulations (Northern Ireland) 2006[^key-f823a1d979745c60c999885aa3dac750]
+## 2. Amendment of the Pesticides (Maximum Residue Levels in Crops Food and Feeding Stuffs) Regulations (Northern Ireland) 2006[^c-f823a1d979745c60c999885aa3dac750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f823a1d979745c60c999885aa3dac750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f823a1d979745c60c999885aa3dac750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-f823a1d979745c60c999885aa3dac750]
+## SCHEDULE[^c-f823a1d979745c60c999885aa3dac750]
 
 Regulation 2(5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f823a1d979745c60c999885aa3dac750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f823a1d979745c60c999885aa3dac750]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f823a1d979745c60c999885aa3dac750]: Textual amendment: Regulations revoked (8.12.2008) by [The Pesticides (Maximum Residue Levels) Regulations (Northern Ireland) 2008 (S.R. 2008/433)](https://www.legislation.gov.uk/nisr/2008/433), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1), [Sch. 2 reg. 15](https://www.legislation.gov.uk/nisr/2008/433/schedule/2/regulation/15)
+[^c-f823a1d979745c60c999885aa3dac750]: Textual amendment: Regulations revoked (8.12.2008) by [The Pesticides (Maximum Residue Levels) Regulations (Northern Ireland) 2008 (S.R. 2008/433)](https://www.legislation.gov.uk/nisr/2008/433), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/433/regulation/1/1), [Sch. 2 reg. 15](https://www.legislation.gov.uk/nisr/2008/433/schedule/2/regulation/15)

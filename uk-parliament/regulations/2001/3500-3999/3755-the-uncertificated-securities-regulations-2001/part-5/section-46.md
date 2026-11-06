@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Breaches of statutory duty[^key-15b15c7b21087808746168ba121fe7fd]
+## 46. Breaches of statutory duty[^c-15b15c7b21087808746168ba121fe7fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15b15c7b21087808746168ba121fe7fd]: Commencement: Reg. 46 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-15b15c7b21087808746168ba121fe7fd]: Commencement: Reg. 46 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

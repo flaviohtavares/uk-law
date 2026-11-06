@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Refusal to renew an access and participation plan[^key-3adf59b42fda69dc616bbec8ed2ff697]
+## 21. Refusal to renew an access and participation plan[^c-3adf59b42fda69dc616bbec8ed2ff697]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3adf59b42fda69dc616bbec8ed2ff697]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/29/section/21) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/c)
+[^c-3adf59b42fda69dc616bbec8ed2ff697]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/29/section/21) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/c)

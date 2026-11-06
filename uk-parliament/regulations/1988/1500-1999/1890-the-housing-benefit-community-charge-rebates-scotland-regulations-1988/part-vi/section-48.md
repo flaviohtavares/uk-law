@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Amount of housing benefit for members of a couple[^key-278802ffb5c8a1827d4c7ad9f492a3f5]
+## 48. Amount of housing benefit for members of a couple[^c-278802ffb5c8a1827d4c7ad9f492a3f5]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-278802ffb5c8a1827d4c7ad9f492a3f5]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1988/1890/regulation/48) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-278802ffb5c8a1827d4c7ad9f492a3f5]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1988/1890/regulation/48) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

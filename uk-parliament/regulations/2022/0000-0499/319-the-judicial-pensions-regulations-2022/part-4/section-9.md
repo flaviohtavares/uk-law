@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Service in two or more qualifying judicial offices[^key-8d84dcfa3124a7f22655ab5bc59f179c]
+## 9. Service in two or more qualifying judicial offices[^c-8d84dcfa3124a7f22655ab5bc59f179c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a person is in service in two or more qualifying judicial offices, regulation
 
 ## Annotations
 
-[^key-8d84dcfa3124a7f22655ab5bc59f179c]: Commencement: Reg. 9 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-8d84dcfa3124a7f22655ab5bc59f179c]: Commencement: Reg. 9 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

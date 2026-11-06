@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 10 — Form of phytosanitary certificate and form of phytosanitary certificate for re-export[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+## SCHEDULE 10 — Form of phytosanitary certificate and form of phytosanitary certificate for re-export[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 *Extent: N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Article 2(1)
 
-### PART A — Form of phytosanitary certificate[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART A — Form of phytosanitary certificate[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
-[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 [image: see source](https://www.legislation.gov.uk/nisr/2018/184/images/nisr_20180184_en_sld_001)
 
-### PART B — Form of Phytosanitary certificate for re-export[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+### PART B — Form of Phytosanitary certificate for re-export[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
-[^key-b37e9440ba8259021a4d4c6e6755fd2e]
+[^c-b37e9440ba8259021a4d4c6e6755fd2e]
 
 [image: see source](https://www.legislation.gov.uk/nisr/2018/184/images/nisr_20180184_en_sld_002)
 
 ## Annotations
 
-[^key-b37e9440ba8259021a4d4c6e6755fd2e]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))
+[^c-b37e9440ba8259021a4d4c6e6755fd2e]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))

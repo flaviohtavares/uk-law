@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Time[^key-ea09b78016cea365485e7ea9ec0a3f04]
+## 8. Time[^c-ea09b78016cea365485e7ea9ec0a3f04]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea09b78016cea365485e7ea9ec0a3f04]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/1741/regulation/8) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 67(d)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/67/d)
+[^c-ea09b78016cea365485e7ea9ec0a3f04]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/1741/regulation/8) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 67(d)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/67/d)
 
 [^f00013]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).

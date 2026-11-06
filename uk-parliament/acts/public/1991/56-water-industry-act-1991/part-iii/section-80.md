@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Remedial powers of local authorities in relation to private supplies.[^key-e324448910db971eea651a4cda7bbfd6]
+## 80. Remedial powers of local authorities in relation to private supplies.[^c-e324448910db971eea651a4cda7bbfd6]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ and in sections 81 to 83 below a notice under this section is referred to as a p
 
 ## Annotations
 
-[^key-e324448910db971eea651a4cda7bbfd6]: Modification: [S. 80](https://www.legislation.gov.uk/ukpga/1991/56/section/80): functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
+[^c-e324448910db971eea651a4cda7bbfd6]: Modification: [S. 80](https://www.legislation.gov.uk/ukpga/1991/56/section/80): functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))

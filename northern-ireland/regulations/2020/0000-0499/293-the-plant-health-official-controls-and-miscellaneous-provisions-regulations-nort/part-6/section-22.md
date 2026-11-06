@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Authorisations granted by the Department[^key-50f2f1f7dc2b5bee5fd8eb00e91eced6]
+## 22. Authorisations granted by the Department[^c-50f2f1f7dc2b5bee5fd8eb00e91eced6]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50f2f1f7dc2b5bee5fd8eb00e91eced6]: Commencement: Reg. 22 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-50f2f1f7dc2b5bee5fd8eb00e91eced6]: Commencement: Reg. 22 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

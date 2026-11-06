@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 185. Second excepted case[^key-9572a041c2e186f39c329ab8552f0689]
+## 185. Second excepted case[^c-9572a041c2e186f39c329ab8552f0689]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9572a041c2e186f39c329ab8552f0689]: Commencement: Rule 185 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-9572a041c2e186f39c329ab8552f0689]: Commencement: Rule 185 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00021]: Footnote: Article 180 is repealed on 1 October 2009.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 327. Local probation boards[^key-1446f5abda75574141b0cde235b256a9][^key-994bd986f963653aee8e7f04bf0d6fe5]
+## 327. Local probation boards[^c-1446f5abda75574141b0cde235b256a9][^c-994bd986f963653aee8e7f04bf0d6fe5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ For section 5A of the Criminal Justice and Court Services Act 2000 (c. 43) (inse
 
 ## Annotations
 
-[^key-1446f5abda75574141b0cde235b256a9]: Commencement: S. 327 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-1446f5abda75574141b0cde235b256a9]: Commencement: S. 327 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-994bd986f963653aee8e7f04bf0d6fe5]: Commencement: S. 327 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-994bd986f963653aee8e7f04bf0d6fe5]: Commencement: S. 327 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

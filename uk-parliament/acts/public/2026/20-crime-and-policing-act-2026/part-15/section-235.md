@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Sentences for offence of breaching foreign travel restriction order[^key-e9fcfa1e8ec835e095144e47489bcc23]
+## 235. Sentences for offence of breaching foreign travel restriction order[^c-e9fcfa1e8ec835e095144e47489bcc23]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 27 contains amendments about sentences for an offence under [paragraph 
 
 ## Annotations
 
-[^key-e9fcfa1e8ec835e095144e47489bcc23]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2026/20/section/235) in force at 29.6.2026, see [s. 255(3)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/j)
+[^c-e9fcfa1e8ec835e095144e47489bcc23]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2026/20/section/235) in force at 29.6.2026, see [s. 255(3)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/j)

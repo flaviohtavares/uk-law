@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Mandatory services[^key-ee2d42d4b342a27cf843f358536157ba]
+## 14. Mandatory services[^c-ee2d42d4b342a27cf843f358536157ba]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee2d42d4b342a27cf843f358536157ba]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2026/37/regulation/14) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-ee2d42d4b342a27cf843f358536157ba]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2026/37/regulation/14) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

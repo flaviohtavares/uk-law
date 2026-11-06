@@ -71,7 +71,7 @@ An Act to make new provision in connection with the Antarctic Treaty signed at W
 - (a) to a person travelling through, on or above the high seas to an immediate destination outside Antarctica, or
 - (b) to a person entering or remaining in Antarctica for the sole purpose of fishing for profit.
 
-(3) Subject to subsection (4), for the purposes of this Act[^key-2b5c69aa324ffc4e78ea44f3ff35a96f] an expedition is a British expedition if—
+(3) Subject to subsection (4), for the purposes of this Act[^c-2b5c69aa324ffc4e78ea44f3ff35a96f] an expedition is a British expedition if—
 
 - (a) it was organised in the United Kingdom, or
 - (b) the place of final departure for Antarctica of the persons on the expedition was in the United Kingdom.
@@ -163,19 +163,19 @@ except in accordance with a permit granted under this section.
 
 #### 7. Conservation of Antarctic fauna and flora.
 
-(1) No United Kingdom national , and no non-national on a British expedition,[^key-8ae7cfbd54c095c860299233f74fdf7c] may in Antarctica—
+(1) No United Kingdom national , and no non-national on a British expedition,[^c-8ae7cfbd54c095c860299233f74fdf7c] may in Antarctica—
 
 - (a) intentionally kill, injure, capture, handle or molest any native mammal or native bird,
 - (b) while on foot intentionally disturb a breeding or moulting native bird, or a concentration of native mammals or native birds,
 - (c) use a vehicle, vessel or aircraft in a manner that disturbs a concentration of native mammals or native birds,
 - (d) use explosives or firearms in such a manner,
-- (e) remove or damage such quantities of any native plant or native invertebrate[^key-10596fc31e5d07d15dff5657c4c9afc4] that its local distribution or abundance will be significantly affected,
+- (e) remove or damage such quantities of any native plant or native invertebrate[^c-10596fc31e5d07d15dff5657c4c9afc4] that its local distribution or abundance will be significantly affected,
 - (f) significantly damage a concentration of native plants, or
 - (g) do anything that is likely to cause significant damage to the habitat of any native mammal, bird, plant or invertebrate,
 
 except in accordance with a permit granted under section 12 or under the written authorisation of another Contracting Party.
 
-(1A)[^key-a1637bcd5e37e92837815ab2331a25df] Accidental harm occurring in the course of—
+(1A)[^c-a1637bcd5e37e92837815ab2331a25df] Accidental harm occurring in the course of—
 
 - (a) normal operations of a vessel, or
 - (b) the activity of fishing for profit,
@@ -186,9 +186,9 @@ shall not be regarded as a contravention of subsection (1)(e), (f) or (g).
 
 #### 8. Permits required for introducing non-native animals and plants into Antarctica.
 
-(1) No United Kingdom national , and no non-national on a British expedition,[^key-8d40d65e9c6a6b28a9ca7a8e9c175093] may introduce into any part of Antarctica any animal of a species that is not indigenous to Antarctica, or any plant that is not a native plant, except in accordance with a permit granted under section 12 or under the written authorisation of another Contracting Party.
+(1) No United Kingdom national , and no non-national on a British expedition,[^c-8d40d65e9c6a6b28a9ca7a8e9c175093] may introduce into any part of Antarctica any animal of a species that is not indigenous to Antarctica, or any plant that is not a native plant, except in accordance with a permit granted under section 12 or under the written authorisation of another Contracting Party.
 
-(2)[^key-79039225a8fcc2845ca19590a58c977c] The keeping of—
+(2)[^c-79039225a8fcc2845ca19590a58c977c] The keeping of—
 
 - (a) a recognised assistance dog on board a vessel in Antarctica,
 - (b) another animal on board such a vessel where the vessel is travelling to an immediate destination outside Antarctica, or
@@ -198,14 +198,14 @@ shall not be regarded as a contravention of subsection (1).
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-(4)[^key-b622515671b040592dd5a199a3eba413] Nothing in this section prohibits the introduction of a microscopic organism.
+(4)[^c-b622515671b040592dd5a199a3eba413] Nothing in this section prohibits the introduction of a microscopic organism.
 
 (5) In this section—
 
 - “ **plant** ” means any terrestrial, marine or freshwater vegetation, including bryophytes, lichen, fungi and algae, and includes such vegetation at any stage of its life cycle (including seeds and other propagules of such vegetation);
 - “**recognised assistance dog**” means a dog which has been trained to assist a disabled person by a person, or a person of a description, prescribed in regulations.
 
-#### 8A. Introduction of microscopic organisms[^key-b74ac09ef737540576631c7da6804a91]
+#### 8A. Introduction of microscopic organisms[^c-b74ac09ef737540576631c7da6804a91]
 
 (1) No United Kingdom national, and no non-national on a British expedition, may introduce into any part of Antarctica any microscopic organism of a species which is not indigenous to Antarctica, except in accordance with a permit granted under section 12 or under written authorisation of another Contracting Party.
 
@@ -215,7 +215,7 @@ shall not be regarded as a contravention of subsection (1).
 
 (4) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-#### 8B. Introduction of non-sterile soil[^key-9d2f76502588fab98d857300b9fe1865]
+#### 8B. Introduction of non-sterile soil[^c-9d2f76502588fab98d857300b9fe1865]
 
 (1) No United Kingdom national, and no non-national on a British expedition, may introduce non-sterile soil into any part of Antarctica.
 
@@ -227,17 +227,17 @@ shall not be regarded as a contravention of subsection (1).
 
 #### 9. Areas restricted under the Protocol.
 
-(1) No United Kingdom national , and no non-national on a British expedition,[^key-ff94b4241e84e64650a4c54377c20195] may enter or remain in an area in Antarctica designated by regulations as an area restricted under the Protocol except in accordance with a permit granted under section 12 or under the written authorisation of another Contracting Party.
+(1) No United Kingdom national , and no non-national on a British expedition,[^c-ff94b4241e84e64650a4c54377c20195] may enter or remain in an area in Antarctica designated by regulations as an area restricted under the Protocol except in accordance with a permit granted under section 12 or under the written authorisation of another Contracting Party.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
 #### 10. Historic Sites and Monuments.
 
-(1) No United Kingdom national , and no non-national on a British expedition,[^key-0e2485cd93a3a0b8db5eda13c52f0f62] may damage, destroy or remove any part of a site or monument designated by regulations as an Antarctic Historic Site or Monument , except in accordance with a permit granted under this section or under the written authorisation of another Contracting Party[^key-32ea92306b2a3b8b0a47d8ecdd0f25b3].
+(1) No United Kingdom national , and no non-national on a British expedition,[^c-0e2485cd93a3a0b8db5eda13c52f0f62] may damage, destroy or remove any part of a site or monument designated by regulations as an Antarctic Historic Site or Monument , except in accordance with a permit granted under this section or under the written authorisation of another Contracting Party[^c-32ea92306b2a3b8b0a47d8ecdd0f25b3].
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-(3)[^key-df60932e20c56e9a1e5b8d58f1d1aa53] The Secretary of State may on the application of any person grant to him a permit authorising any United Kingdom national, or any non-national on a British expedition, who is specified or of a description specified in the permit to do anything specified or of a description specified in the permit that would otherwise constitute a contravention of subsection (1).
+(3)[^c-df60932e20c56e9a1e5b8d58f1d1aa53] The Secretary of State may on the application of any person grant to him a permit authorising any United Kingdom national, or any non-national on a British expedition, who is specified or of a description specified in the permit to do anything specified or of a description specified in the permit that would otherwise constitute a contravention of subsection (1).
 
 (4) The Secretary of State shall not grant a permit under this section unless he is satisfied that the activities authorised by the permit will be carried on only for the purposes of conservation or repair of—
 
@@ -246,21 +246,21 @@ shall not be regarded as a contravention of subsection (1).
 
 #### 11. Places protected under the Convention.
 
-(1) No United Kingdom national , and no non-national on a British expedition,[^key-cd732c6558501b23e94f0244def5054e] may enter or remain in a place that is in the area south of the Antarctic Convergence and that has been designated by regulations as a place protected under the Convention (in this section referred to as a “**protected place**”) except in accordance with a permit granted under this section.
+(1) No United Kingdom national , and no non-national on a British expedition,[^c-cd732c6558501b23e94f0244def5054e] may enter or remain in a place that is in the area south of the Antarctic Convergence and that has been designated by regulations as a place protected under the Convention (in this section referred to as a “**protected place**”) except in accordance with a permit granted under this section.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-(3) The Secretary of State may on the application of any person grant to him a permit authorising any United Kingdom national , or any non-national on a British expedition,[^key-3f929249332e49c9ba66719b9930a9ea] specified or of a description specified in the permit to enter and remain in any protected place specified in the permit.
+(3) The Secretary of State may on the application of any person grant to him a permit authorising any United Kingdom national , or any non-national on a British expedition,[^c-3f929249332e49c9ba66719b9930a9ea] specified or of a description specified in the permit to enter and remain in any protected place specified in the permit.
 
-(4)[^key-8e37c21f984c0151d00e3d2d625215bd] The Secretary of State shall not grant a permit under this section in respect of a non-national on a British expedition unless he is satisfied that the activities authorised by the permit will be carried on only for the purposes of education or scientific research.
+(4)[^c-8e37c21f984c0151d00e3d2d625215bd] The Secretary of State shall not grant a permit under this section in respect of a non-national on a British expedition unless he is satisfied that the activities authorised by the permit will be carried on only for the purposes of education or scientific research.
 
 ### Permits under Part II: further provisions
 
-#### 12. Grant of permits for activities prohibited by sections 7 to 9.[^key-bee64c665c40be3c1dce2e6d45e764c2]
+#### 12. Grant of permits for activities prohibited by sections 7 to 9.[^c-bee64c665c40be3c1dce2e6d45e764c2]
 
-(1)[^key-4cb157fd09c0365e96dd4a489f4a9757] The Secretary of State may on the application of any person grant to him a permit authorising any United Kingdom national , or any non-national on a British expedition,[^key-3ec7424b0199d8d6d2f0d9e6bd8bc3ae] who is specified or of a description specified in the permit to do anything specified or of a description specified in the permit that would otherwise constitute a contravention of section 7(1), 8(1) , 8A(1)[^key-a6c3be171b2f8ed7fe6f336cac15018b] or 9(1).
+(1)[^c-4cb157fd09c0365e96dd4a489f4a9757] The Secretary of State may on the application of any person grant to him a permit authorising any United Kingdom national , or any non-national on a British expedition,[^c-3ec7424b0199d8d6d2f0d9e6bd8bc3ae] who is specified or of a description specified in the permit to do anything specified or of a description specified in the permit that would otherwise constitute a contravention of section 7(1), 8(1) , 8A(1)[^c-a6c3be171b2f8ed7fe6f336cac15018b] or 9(1).
 
-(2)[^key-4ad1cbf843f94a38f645a2f06e5b283f] The Secretary of State shall not grant a permit under this section in respect of a non-national on a British expedition unless he is satisfied that the activities authorised by the permit will be carried on only for the purposes of education or scientific research.
+(2)[^c-4ad1cbf843f94a38f645a2f06e5b283f] The Secretary of State shall not grant a permit under this section in respect of a non-national on a British expedition unless he is satisfied that the activities authorised by the permit will be carried on only for the purposes of education or scientific research.
 
 #### 13. Conditions attached to permits under Part II.
 
@@ -291,13 +291,13 @@ shall not be regarded as a contravention of subsection (1).
 
 The Secretary of State shall have regard to the provisions of the Protocol and to any measures for the implementation of the Protocol that have become effective by virtue of paragraph 4 of Article IX of the Antarctic Treaty—
 
-- (a) in considering in any case whether to grant a permit under section 3, 4, 5 , 10[^key-c6ac437598b0fe2d9084b20a0f75f514] or 12,
-- (b) in any case where he grants a permit under section 3, 4, 5 , 10[^key-b7f6881daddb398a270c1421e597895e] or 12, in considering whether to attach any conditions to it under section 13(1), and
-- (c) in exercising his power to make regulations under section 14(1)(c) in relation to a permit granted under section 3, 4, 5 , 10[^key-148551204d6beaabce2d45c062b4e884] or 12.
+- (a) in considering in any case whether to grant a permit under section 3, 4, 5 , 10[^c-c6ac437598b0fe2d9084b20a0f75f514] or 12,
+- (b) in any case where he grants a permit under section 3, 4, 5 , 10[^c-b7f6881daddb398a270c1421e597895e] or 12, in considering whether to attach any conditions to it under section 13(1), and
+- (c) in exercising his power to make regulations under section 14(1)(c) in relation to a permit granted under section 3, 4, 5 , 10[^c-148551204d6beaabce2d45c062b4e884] or 12.
 
-#### 16. Delegation of powers under sections 10, 11 and 12 etc.[^key-6c1a616b00baf112567375f1f1fac6b5]
+#### 16. Delegation of powers under sections 10, 11 and 12 etc.[^c-6c1a616b00baf112567375f1f1fac6b5]
 
-(1) Any of the Secretary of State’s powers relating to the granting of permits under section 10,[^key-c49cba657b31253cedd7742e7c081611] 11 or 12, or the revocation or suspension of permits granted under section 10, 11 or 12, may be delegated by him to any person—
+(1) Any of the Secretary of State’s powers relating to the granting of permits under section 10,[^c-c49cba657b31253cedd7742e7c081611] 11 or 12, or the revocation or suspension of permits granted under section 10, 11 or 12, may be delegated by him to any person—
 
 - (a) who holds office as Administrator of the British Antarctic Territory (or who holds an appointment, by whatever name called, having functions similar to those performed by the person holding that office on the date of the passing of this Act),
 - (b) who holds office as Director of the British Antarctic Survey (or who holds an appointment, by whatever name called, having functions similar to those performed by the person holding that office on the date of the passing of this Act), or
@@ -326,7 +326,7 @@ give a report to the Secretary of State in respect of that period.
 
 ### Offences under Part II
 
-#### 17. Proceedings for offences under Part II.[^key-cd8f9edc3be95da318c7732c96f4c367]
+#### 17. Proceedings for offences under Part II.[^c-cd8f9edc3be95da318c7732c96f4c367]
 
 Proceedings for an offence under this Part may be taken, and the offence may for incidental purposes be treated as having been committed, in any place in the United Kingdom.
 
@@ -344,7 +344,7 @@ Proceedings for an offence under this Part may be taken, and the offence may for
 
 (4) Where a person is charged with an offence under section 7(2) in respect of a contravention of section 7(1)(a), it shall be a defence to prove that the act in question was done for the relief of the suffering of the mammal or bird in question.
 
-#### 19. Offences committed by bodies corporate and Scottish partnerships.[^key-0086fe7c8fe66c2abe0fd77be2169a84]
+#### 19. Offences committed by bodies corporate and Scottish partnerships.[^c-0086fe7c8fe66c2abe0fd77be2169a84]
 
 (1) Where an offence under this Part has been committed by a body corporate and the contravention in question is proved to have occurred with the consent or connivance of, or to be attributable to any neglect on the part of—
 
@@ -420,11 +420,11 @@ Where the Secretary of State thinks fit in the light of any arrangements made by
 
 ### Offences under this Act: further provisions
 
-#### 27. Meaning of “offence under this Act”.[^key-8bdc2de38724dd1fd989a198935acf1c]
+#### 27. Meaning of “offence under this Act”.[^c-8bdc2de38724dd1fd989a198935acf1c]
 
 In the following provisions of this Act “**offence under this Act**” includes any offence committed by virtue of section 21, 22 or 23 and any offence (wherever committed) of incitement to commit an offence under Part II, conspiracy to commit an offence under Part II or attempting to commit an offence under Part II.
 
-#### 28. Institution of proceedings.[^key-97a28c26d1ef7188863489da18edc5a3]
+#### 28. Institution of proceedings.[^c-97a28c26d1ef7188863489da18edc5a3]
 
 (1) Proceedings for an offence under this Act shall not be instituted in England and Wales except—
 
@@ -461,7 +461,7 @@ shall be conclusive evidence of the facts stated in it.
 
 (2) A document purporting to be a certificate such as is mentioned in subsection (1) shall be deemed to be such a certificate unless the contrary is proved.
 
-(3) A document purporting to be a written authorisation such as is mentioned in section 3(4), 5(1), 7(1), 8(1) , 9(1) or 10(1)[^key-8849338860e7777f72e94e123f408b23] shall be deemed to be such an authorisation unless the contrary is proved.
+(3) A document purporting to be a written authorisation such as is mentioned in section 3(4), 5(1), 7(1), 8(1) , 9(1) or 10(1)[^c-8849338860e7777f72e94e123f408b23] shall be deemed to be such an authorisation unless the contrary is proved.
 
 ### Interpretation
 
@@ -469,17 +469,17 @@ shall be conclusive evidence of the facts stated in it.
 
 (1) In this Act—
 
-- “[^key-841a825bcf34cb79beeab0924e919df6]**British expedition**” has the meaning given by section 3;
+- “[^c-841a825bcf34cb79beeab0924e919df6]**British expedition**” has the meaning given by section 3;
 - “**commander**”, in relation to an aircraft, means the member of the flight crew designated as commander by the operator of the aircraft, or if there is no such person, the person who is for the time being the pilot in command of the aircraft;
 - “**contravenes**” includes fails to comply with (and “**contravention**” has a corresponding meaning);
 - “**expedition**” includes any tour or other journey, whatever its purpose, made by one or more persons;
 - “**land**” includes any ice-shelf;
 - “**master**”, in relation to a vessel, includes any person for the time being in charge of the vessel (other than a pilot);
-- “**native bird**” means a bird of any species indigenous to Antarctica [^key-abc5c31dbb81de01cc578d544f94b161]... (and includes an egg of such a bird);
-- “**native invertebrate**” means a terrestrial , marine[^key-275a773f80bdad49f8796192c04c197d] or freshwater invertebrate indigenous to Antarctica (at any stage of its life cycle);
-- “**native mammal**” means a mammal of any species indigenous to Antarctica [^key-abc5c31dbb81de01cc578d544f94b161]...;
-- “**native plant**” means any terrestrial , marine[^key-71cab9e37d66664c44f99e0914a92a3c] or freshwater vegetation, including bryophytes, lichens, fungi and algae, indigenous to Antarctica, and includes such vegetation at any stage of its life cycle (including seeds and other propagules of such vegetation);
-- “[^key-4e47067dcfa58d930ef2894f614e2249]**non-national**” means an individual who is not a United Kingdom national;
+- “**native bird**” means a bird of any species indigenous to Antarctica [^c-abc5c31dbb81de01cc578d544f94b161]... (and includes an egg of such a bird);
+- “**native invertebrate**” means a terrestrial , marine[^c-275a773f80bdad49f8796192c04c197d] or freshwater invertebrate indigenous to Antarctica (at any stage of its life cycle);
+- “**native mammal**” means a mammal of any species indigenous to Antarctica [^c-abc5c31dbb81de01cc578d544f94b161]...;
+- “**native plant**” means any terrestrial , marine[^c-71cab9e37d66664c44f99e0914a92a3c] or freshwater vegetation, including bryophytes, lichens, fungi and algae, indigenous to Antarctica, and includes such vegetation at any stage of its life cycle (including seeds and other propagules of such vegetation);
+- “[^c-4e47067dcfa58d930ef2894f614e2249]**non-national**” means an individual who is not a United Kingdom national;
 - “**operator**”, in relation to a vessel or aircraft, means the person for the time being having the management of that vessel or aircraft;
 - “**regulations**” means regulations made by the Secretary of State;
 - “**station**” includes any building or group of buildings;
@@ -491,7 +491,7 @@ shall be conclusive evidence of the facts stated in it.
   - (e) a body incorporated under the law of any part of the United Kingdom;
 - “**vessel**” includes a hovercraft.
 
-(1A)[^key-f0c31bcd578277c38b9f7661e97c948b] In this Act, references to a species “indigenous to Antarctica” include a species occurring in Antarctica through natural migration.
+(1A)[^c-f0c31bcd578277c38b9f7661e97c948b] In this Act, references to a species “indigenous to Antarctica” include a species occurring in Antarctica through natural migration.
 
 (2) For the purposes of this Act the Antarctic Convergence shall be taken to be a line running along parallels of latitude and meridians of longitude that joins the following points—
 
@@ -527,9 +527,9 @@ The enactments mentioned in the Schedule to this Act (which include enactments t
 
 (1) This Act extends to Northern Ireland.
 
-(2)[^key-1eaa10b9536d669ff6aed2c36cf91866][^key-9a21757bc75b6b54c4c607ca6a0700a9] Her Majesty may by Order in Council direct that any provision of this Act shall extend to the Channel Islands, the Isle of Man or any colony.
+(2)[^c-1eaa10b9536d669ff6aed2c36cf91866][^c-9a21757bc75b6b54c4c607ca6a0700a9] Her Majesty may by Order in Council direct that any provision of this Act shall extend to the Channel Islands, the Isle of Man or any colony.
 
-(3)[^key-1eaa10b9536d669ff6aed2c36cf91866][^key-9a21757bc75b6b54c4c607ca6a0700a9] An Order in Council under subsection (2) may provide for such provisions as may be specified in the Order to have effect in any territory in respect of which it is made—
+(3)[^c-1eaa10b9536d669ff6aed2c36cf91866][^c-9a21757bc75b6b54c4c607ca6a0700a9] An Order in Council under subsection (2) may provide for such provisions as may be specified in the Order to have effect in any territory in respect of which it is made—
 
 - (a) with the substitution for any reference to a United Kingdom national of a reference to a different description of person;
 - (b) with the substitution for any reference to the United Kingdom (or to a place in, or part of, the United Kingdom) of a reference to that territory (or to a place in, or part of, that territory);
@@ -564,91 +564,91 @@ This Act may be cited as the Antarctic Act 1994.
 
     Act (except ss. 34, 35) extended (with modifications) (Isle of Man) by [S.I. 1995/1035](https://www.legislation.gov.uk/uksi/1995/1035), [art. 2](https://www.legislation.gov.uk/uksi/1995/1035/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/1035/schedule) (which S.I. is in force in accordance with art. 1(2)(3))
 
-[^key-2b5c69aa324ffc4e78ea44f3ff35a96f]: Textual amendment: Word in s. 3(3) substituted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(6)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/6), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-2b5c69aa324ffc4e78ea44f3ff35a96f]: Textual amendment: Word in s. 3(3) substituted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(6)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/6), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
 [^c1025664]: Marginal citation: [1979 c. 39](https://www.legislation.gov.uk/ukpga/1979/39).
 
 [^c1025665]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-8ae7cfbd54c095c860299233f74fdf7c]: Textual amendment: Words in s. 7(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/2/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-8ae7cfbd54c095c860299233f74fdf7c]: Textual amendment: Words in s. 7(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/2/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-10596fc31e5d07d15dff5657c4c9afc4]: Textual amendment: Words in s. 7(1)(e) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/2), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-10596fc31e5d07d15dff5657c4c9afc4]: Textual amendment: Words in s. 7(1)(e) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/2), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-a1637bcd5e37e92837815ab2331a25df]: Textual amendment: S. 7(1A) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/3), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-a1637bcd5e37e92837815ab2331a25df]: Textual amendment: S. 7(1A) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/3), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-8d40d65e9c6a6b28a9ca7a8e9c175093]: Textual amendment: Words in s. 8(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/2/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-8d40d65e9c6a6b28a9ca7a8e9c175093]: Textual amendment: Words in s. 8(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/2/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-79039225a8fcc2845ca19590a58c977c]: Textual amendment: S. 8(2) substituted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(4)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/4), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-79039225a8fcc2845ca19590a58c977c]: Textual amendment: S. 8(2) substituted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(4)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/4), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-b622515671b040592dd5a199a3eba413]: Textual amendment: S. 8(4)(5) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(5)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/5), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-b622515671b040592dd5a199a3eba413]: Textual amendment: S. 8(4)(5) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(5)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/5), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-b74ac09ef737540576631c7da6804a91]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1994/15/section/8A) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(6)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/6), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-b74ac09ef737540576631c7da6804a91]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1994/15/section/8A) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(6)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/6), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-9d2f76502588fab98d857300b9fe1865]: Textual amendment: [S. 8B](https://www.legislation.gov.uk/ukpga/1994/15/section/8B) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(8)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/8), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-9d2f76502588fab98d857300b9fe1865]: Textual amendment: [S. 8B](https://www.legislation.gov.uk/ukpga/1994/15/section/8B) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(8)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/8), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-ff94b4241e84e64650a4c54377c20195]: Textual amendment: Words in s. 9(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(2)(c)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/2/c), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-ff94b4241e84e64650a4c54377c20195]: Textual amendment: Words in s. 9(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(2)(c)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/2/c), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-0e2485cd93a3a0b8db5eda13c52f0f62]: Textual amendment: Words in s. 10(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(2)(d)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/2/d), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-0e2485cd93a3a0b8db5eda13c52f0f62]: Textual amendment: Words in s. 10(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(2)(d)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/2/d), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-32ea92306b2a3b8b0a47d8ecdd0f25b3]: Textual amendment: Words in s. 10(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/2/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-32ea92306b2a3b8b0a47d8ecdd0f25b3]: Textual amendment: Words in s. 10(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/2/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-df60932e20c56e9a1e5b8d58f1d1aa53]: Textual amendment: S. 10(3)(4) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/2/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-df60932e20c56e9a1e5b8d58f1d1aa53]: Textual amendment: S. 10(3)(4) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/2/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-cd732c6558501b23e94f0244def5054e]: Textual amendment: Words in s. 11(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(2)(e)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/2/e), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-cd732c6558501b23e94f0244def5054e]: Textual amendment: Words in s. 11(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(2)(e)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/2/e), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-3f929249332e49c9ba66719b9930a9ea]: Textual amendment: Words in s. 11(3) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/3/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-3f929249332e49c9ba66719b9930a9ea]: Textual amendment: Words in s. 11(3) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/3/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-8e37c21f984c0151d00e3d2d625215bd]: Textual amendment: S. 11(4) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/3/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-8e37c21f984c0151d00e3d2d625215bd]: Textual amendment: S. 11(4) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/3/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-bee64c665c40be3c1dce2e6d45e764c2]: Textual amendment: Words in s. 12 heading substituted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(7)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/7/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-bee64c665c40be3c1dce2e6d45e764c2]: Textual amendment: Words in s. 12 heading substituted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(7)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/7/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-4cb157fd09c0365e96dd4a489f4a9757]: Textual amendment: S. 12 renumbered (26.5.2013) as s. 12(1) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/4/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-4cb157fd09c0365e96dd4a489f4a9757]: Textual amendment: S. 12 renumbered (26.5.2013) as s. 12(1) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/4/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-3ec7424b0199d8d6d2f0d9e6bd8bc3ae]: Textual amendment: Words in s. 12(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(4)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/4/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-3ec7424b0199d8d6d2f0d9e6bd8bc3ae]: Textual amendment: Words in s. 12(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(4)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/4/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-a6c3be171b2f8ed7fe6f336cac15018b]: Textual amendment: Words in s. 12 inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(7)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/7/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-a6c3be171b2f8ed7fe6f336cac15018b]: Textual amendment: Words in s. 12 inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(7)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/7/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-4ad1cbf843f94a38f645a2f06e5b283f]: Textual amendment: S. 12(2) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(4)(c)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/4/c), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-4ad1cbf843f94a38f645a2f06e5b283f]: Textual amendment: S. 12(2) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(4)(c)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/4/c), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-c6ac437598b0fe2d9084b20a0f75f514]: Textual amendment: Word in s. 15(a) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/3), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-c6ac437598b0fe2d9084b20a0f75f514]: Textual amendment: Word in s. 15(a) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/3), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-b7f6881daddb398a270c1421e597895e]: Textual amendment: Word in s. 15(b) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/3), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-b7f6881daddb398a270c1421e597895e]: Textual amendment: Word in s. 15(b) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/3), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-148551204d6beaabce2d45c062b4e884]: Textual amendment: Word in s. 15(c) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/3), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-148551204d6beaabce2d45c062b4e884]: Textual amendment: Word in s. 15(c) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/3), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-6c1a616b00baf112567375f1f1fac6b5]: Textual amendment: Word in s. 16 heading inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/4/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-6c1a616b00baf112567375f1f1fac6b5]: Textual amendment: Word in s. 16 heading inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/4/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-c49cba657b31253cedd7742e7c081611]: Textual amendment: Words in s. 16(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(4)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/4/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-c49cba657b31253cedd7742e7c081611]: Textual amendment: Words in s. 16(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(4)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/4/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-cd8f9edc3be95da318c7732c96f4c367]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/1994/15/section/17) applied (31.12.2020 immediately before IP completion day) by [The Antarctic Act 1994 (Convention for the Conservation of Antarctic Marine Living Resources) Regulations 2020 (S.I. 2020/1251)](https://www.legislation.gov.uk/uksi/2020/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/1/1), [9(1)(a)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/9/1/a)
+[^c-cd8f9edc3be95da318c7732c96f4c367]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/1994/15/section/17) applied (31.12.2020 immediately before IP completion day) by [The Antarctic Act 1994 (Convention for the Conservation of Antarctic Marine Living Resources) Regulations 2020 (S.I. 2020/1251)](https://www.legislation.gov.uk/uksi/2020/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/1/1), [9(1)(a)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/9/1/a)
 
-[^key-0086fe7c8fe66c2abe0fd77be2169a84]: Modification: [S. 19](https://www.legislation.gov.uk/ukpga/1994/15/section/19) applied (31.12.2020 immediately before IP completion day) by [The Antarctic Act 1994 (Convention for the Conservation of Antarctic Marine Living Resources) Regulations 2020 (S.I. 2020/1251)](https://www.legislation.gov.uk/uksi/2020/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/1/1), [9(1)(b)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/9/1/b)
+[^c-0086fe7c8fe66c2abe0fd77be2169a84]: Modification: [S. 19](https://www.legislation.gov.uk/ukpga/1994/15/section/19) applied (31.12.2020 immediately before IP completion day) by [The Antarctic Act 1994 (Convention for the Conservation of Antarctic Marine Living Resources) Regulations 2020 (S.I. 2020/1251)](https://www.legislation.gov.uk/uksi/2020/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/1/1), [9(1)(b)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/9/1/b)
 
-[^key-8bdc2de38724dd1fd989a198935acf1c]: Modification: S. 27 modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), ss. 63(1), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/23) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-8bdc2de38724dd1fd989a198935acf1c]: Modification: S. 27 modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), ss. 63(1), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/23) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-97a28c26d1ef7188863489da18edc5a3]: Modification: [S. 28](https://www.legislation.gov.uk/ukpga/1994/15/section/28) applied (31.12.2020 immediately before IP completion day) by [The Antarctic Act 1994 (Convention for the Conservation of Antarctic Marine Living Resources) Regulations 2020 (S.I. 2020/1251)](https://www.legislation.gov.uk/uksi/2020/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/1/1), [9(1)(c)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/9/1/c)
+[^c-97a28c26d1ef7188863489da18edc5a3]: Modification: [S. 28](https://www.legislation.gov.uk/ukpga/1994/15/section/28) applied (31.12.2020 immediately before IP completion day) by [The Antarctic Act 1994 (Convention for the Conservation of Antarctic Marine Living Resources) Regulations 2020 (S.I. 2020/1251)](https://www.legislation.gov.uk/uksi/2020/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/1/1), [9(1)(c)](https://www.legislation.gov.uk/uksi/2020/1251/regulation/9/1/c)
 
-[^key-8849338860e7777f72e94e123f408b23]: Textual amendment: Words in [s. 30(3)](https://www.legislation.gov.uk/ukpga/1994/15/section/30/3) substituted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(5)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/5), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-8849338860e7777f72e94e123f408b23]: Textual amendment: Words in [s. 30(3)](https://www.legislation.gov.uk/ukpga/1994/15/section/30/3) substituted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 15(5)](https://www.legislation.gov.uk/ukpga/2013/15/section/15/5), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-841a825bcf34cb79beeab0924e919df6]: Textual amendment: Words in s. 31(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(7)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/7), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-841a825bcf34cb79beeab0924e919df6]: Textual amendment: Words in s. 31(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(7)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/7), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-abc5c31dbb81de01cc578d544f94b161]: Textual amendment: Words in s. 31(1) omitted (26.5.2013) by virtue of [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(9)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/9/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-abc5c31dbb81de01cc578d544f94b161]: Textual amendment: Words in s. 31(1) omitted (26.5.2013) by virtue of [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(9)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/9/a), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-275a773f80bdad49f8796192c04c197d]: Textual amendment: Word in s. 31(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(9)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/9/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-275a773f80bdad49f8796192c04c197d]: Textual amendment: Word in s. 31(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(9)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/9/b), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-71cab9e37d66664c44f99e0914a92a3c]: Textual amendment: Word in s. 31(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(9)(c)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/9/c), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-71cab9e37d66664c44f99e0914a92a3c]: Textual amendment: Word in s. 31(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(9)(c)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/9/c), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
-[^key-4e47067dcfa58d930ef2894f614e2249]: Textual amendment: Words in s. 31(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(5)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/5), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-4e47067dcfa58d930ef2894f614e2249]: Textual amendment: Words in s. 31(1) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 14(5)](https://www.legislation.gov.uk/ukpga/2013/15/section/14/5), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
 [^c1025666]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-f0c31bcd578277c38b9f7661e97c948b]: Textual amendment: S. 31(1A) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(10)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/10), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
+[^c-f0c31bcd578277c38b9f7661e97c948b]: Textual amendment: S. 31(1A) inserted (26.5.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [ss. 16(10)](https://www.legislation.gov.uk/ukpga/2013/15/section/16/10), [18(4)(a)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/a)
 
 [^c1025667]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/1994/15/section/33) partly in force; [s. 33](https://www.legislation.gov.uk/ukpga/1994/15/section/33) not in force at Royal Assent see [s. 35](https://www.legislation.gov.uk/ukpga/1994/15/section/35); [s. 33](https://www.legislation.gov.uk/ukpga/1994/15/section/33) in force for certain purposes at 1.11.1995 by [S.I. 1995/2748](https://www.legislation.gov.uk/uksi/1995/2748), [art. 2](https://www.legislation.gov.uk/uksi/1995/2748/article/2)
 
-[^key-1eaa10b9536d669ff6aed2c36cf91866]: Modification: S. 34(2)(3) applied (26.3.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [s. 18(2)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/2)[(4)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/b)
+[^c-1eaa10b9536d669ff6aed2c36cf91866]: Modification: S. 34(2)(3) applied (26.3.2013) by [Antarctic Act 2013 (c. 15)](https://www.legislation.gov.uk/ukpga/2013/15), [s. 18(2)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/2)[(4)(b)](https://www.legislation.gov.uk/ukpga/2013/15/section/18/4/b)
 
-[^key-9a21757bc75b6b54c4c607ca6a0700a9]: Modification: [S. 34(2)](https://www.legislation.gov.uk/ukpga/1994/15/section/34/2)[(3)](https://www.legislation.gov.uk/ukpga/1994/15/section/34/3) applied (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 27(2)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/27/2); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
+[^c-9a21757bc75b6b54c4c607ca6a0700a9]: Modification: [S. 34(2)](https://www.legislation.gov.uk/ukpga/1994/15/section/34/2)[(3)](https://www.legislation.gov.uk/ukpga/1994/15/section/34/3) applied (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 27(2)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/27/2); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
 
 [^c1025668]: Subordinate legislation: [S. 35](https://www.legislation.gov.uk/ukpga/1994/15/section/35) power partly exercised (9.10.1995): 1.11.1995 appointed for specified provisions by [S.I. 1995/2748](https://www.legislation.gov.uk/uksi/1995/2748), [art. 2](https://www.legislation.gov.uk/uksi/1995/2748/article/2)
 

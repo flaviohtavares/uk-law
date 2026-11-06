@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Water abstraction: no compensation for certain licence modifications[^key-1109ce1a21da6abddcdcd118915fd7ac]
+## 88. Water abstraction: no compensation for certain licence modifications[^c-1109ce1a21da6abddcdcd118915fd7ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1109ce1a21da6abddcdcd118915fd7ac]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2021/30/section/88) in force at 9.1.2022, see [s. 147(2)(k)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/k)
+[^c-1109ce1a21da6abddcdcd118915fd7ac]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2021/30/section/88) in force at 9.1.2022, see [s. 147(2)(k)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/k)

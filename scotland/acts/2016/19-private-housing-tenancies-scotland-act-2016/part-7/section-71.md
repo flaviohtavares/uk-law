@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. First-tier Tribunal's jurisdiction[^key-f1a502d8f37a3a0bdea0ebace8df9343]
+## 71. First-tier Tribunal's jurisdiction[^c-f1a502d8f37a3a0bdea0ebace8df9343]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1a502d8f37a3a0bdea0ebace8df9343]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2016/19/section/71) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-f1a502d8f37a3a0bdea0ebace8df9343]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2016/19/section/71) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

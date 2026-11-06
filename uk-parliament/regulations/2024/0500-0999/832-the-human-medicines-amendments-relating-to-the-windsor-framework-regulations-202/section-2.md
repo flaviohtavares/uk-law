@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment of the Human Medicines Regulations 2012[^key-8b92c52d1ca7ad17eda587ec4bbfa44f]
+## 2. Amendment of the Human Medicines Regulations 2012[^c-8b92c52d1ca7ad17eda587ec4bbfa44f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Human Medicines Regulations 2012[^f00002] are amended in accordance with reg
 
 ## Annotations
 
-[^key-8b92c52d1ca7ad17eda587ec4bbfa44f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/832/regulation/2) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-8b92c52d1ca7ad17eda587ec4bbfa44f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/832/regulation/2) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).

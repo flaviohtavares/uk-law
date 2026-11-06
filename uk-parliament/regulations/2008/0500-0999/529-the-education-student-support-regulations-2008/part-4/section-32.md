@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Amount of the fee contribution loan[^key-5009e7b4a5acfd1bff226f67bba52a08]
+## 32. Amount of the fee contribution loan[^c-5009e7b4a5acfd1bff226f67bba52a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5009e7b4a5acfd1bff226f67bba52a08]: Commencement: Reg. 32 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-5009e7b4a5acfd1bff226f67bba52a08]: Commencement: Reg. 32 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

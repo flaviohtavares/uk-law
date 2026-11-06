@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Power to alter layout, etc., of streets[^key-c24a78286b73c73f08c102638a81b068]
+## 13. Power to alter layout, etc., of streets[^c-c24a78286b73c73f08c102638a81b068]
 
 *Extent: E+W+S*
 
 (1) Subject to paragraph (3), the undertaker may for the purposes of constructing and maintaining the authorised development alter the layout of any street within the Order limits and the layout of any street at its junction with such a street, and, without limitation on the scope of this paragraph, the undertaker may—
 
 - (a) increase the width of the carriageway of the street by reducing the width of any kerb, footpath, footway, cycle track or verge within the street;
-- (b) alter the level or increase the width of such a kerb, footpath,[^key-bc0e0c37dad4ff8be16dbfe73dd53bf3] footway, cycle track or verge;
+- (b) alter the level or increase the width of such a kerb, footpath,[^c-bc0e0c37dad4ff8be16dbfe73dd53bf3] footway, cycle track or verge;
 - (c) reduce the width of the carriageway of the street; and
 - (d) make and maintain crossovers and passing places.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c24a78286b73c73f08c102638a81b068]: Commencement: Art. 13 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-c24a78286b73c73f08c102638a81b068]: Commencement: Art. 13 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-bc0e0c37dad4ff8be16dbfe73dd53bf3]: Textual amendment: Word in [art. 13(1)(b)](https://www.legislation.gov.uk/uksi/2025/362/article/13/1/b) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-bc0e0c37dad4ff8be16dbfe73dd53bf3]: Textual amendment: Word in [art. 13(1)(b)](https://www.legislation.gov.uk/uksi/2025/362/article/13/1/b) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)

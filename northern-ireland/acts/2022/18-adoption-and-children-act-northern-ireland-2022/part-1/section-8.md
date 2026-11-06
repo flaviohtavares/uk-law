@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Inactive or defunct adoption societies, etc.[^key-db85a344f5959686bdb6661881e68ba3]
+## 8. Inactive or defunct adoption societies, etc.[^c-db85a344f5959686bdb6661881e68ba3]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db85a344f5959686bdb6661881e68ba3]: Commencement: S. 8 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-db85a344f5959686bdb6661881e68ba3]: Commencement: S. 8 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

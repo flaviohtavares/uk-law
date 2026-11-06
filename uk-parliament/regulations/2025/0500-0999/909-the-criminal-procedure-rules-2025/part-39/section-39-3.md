@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.3. Form of appeal notice[^key-3edc4171eebc6fff9afa7a84bc64d485]
+## 39.3. Form of appeal notice[^c-3edc4171eebc6fff9afa7a84bc64d485]
 
 *Extent: E+W*
 
@@ -74,7 +74,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3edc4171eebc6fff9afa7a84bc64d485]: Commencement: [Rule 39.3](https://www.legislation.gov.uk/uksi/2025/909/rule/39.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3edc4171eebc6fff9afa7a84bc64d485]: Commencement: [Rule 39.3](https://www.legislation.gov.uk/uksi/2025/909/rule/39.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00957]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 11(1A) was inserted by section 29 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and amended by section 47 of, and paragraphs 1 and 3 of Schedule 8 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 

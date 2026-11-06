@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303Z54. Detained cryptoassets: conversion[^key-2ac246cf35a1958544c914078c26a0f4]
+## 303Z54. Detained cryptoassets: conversion[^c-2ac246cf35a1958544c914078c26a0f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ac246cf35a1958544c914078c26a0f4]: Textual amendment: [Pt. 5 Chs. 3C-3F](https://www.legislation.gov.uk/ukpga/2002/29/part/5/chapter/3C) inserted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 for E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)(c)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b/c), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/1); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+[^c-2ac246cf35a1958544c914078c26a0f4]: Textual amendment: [Pt. 5 Chs. 3C-3F](https://www.legislation.gov.uk/ukpga/2002/29/part/5/chapter/3C) inserted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 for E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)(c)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b/c), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/1); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)

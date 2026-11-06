@@ -26,12 +26,12 @@ summary: ''
 - (b) the provision of a new means of access to any premises from a highway; or
 - (c) the provision of a maintenance compound or, if that authority are a special road authority, of a service area.
 
-(1A)[^c19868611] Subsection (1) is subject to section 33(4) of the Planning Act 2008 (exclusion of powers to make or confirm orders in relation to highways for which development consent required) and section 20(3) of the Infrastructure (Wales) Act 2024 (exclusion of powers to make or confirm orders in relation to highways for which infrastructure consent required)[^key-e9e000faa633cf3cdb60d41ea366f534].
+(1A)[^c19868611] Subsection (1) is subject to section 33(4) of the Planning Act 2008 (exclusion of powers to make or confirm orders in relation to highways for which development consent required) and section 20(3) of the Infrastructure (Wales) Act 2024 (exclusion of powers to make or confirm orders in relation to highways for which infrastructure consent required)[^c-e9e000faa633cf3cdb60d41ea366f534].
 
 (2) An order under subsection (1) above shall—
 
 - (a) if the authority proposing to divert the watercourse is the Minister, be made by him; and
-- (b) if that authority are a any other[^key-9de3be8470bcdf724944519276d4beb1] highway authority, be made by that authority and confirmed by the Minister.
+- (b) if that authority are a any other[^c-9de3be8470bcdf724944519276d4beb1] highway authority, be made by that authority and confirmed by the Minister.
 
 (3) Parts I and III of Schedule 1 to this Act have effect as to the making of any order under subsection (1) above, and Schedule 2 to this Act has effect as to the validity and date of operation of any such order.
 
@@ -50,6 +50,6 @@ summary: ''
 
 [^c19868611]: Textual amendment: S. 108(1A) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 36](https://www.legislation.gov.uk/ukpga/2008/29/section/36), [241](https://www.legislation.gov.uk/ukpga/2008/29/section/241), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/27) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-e9e000faa633cf3cdb60d41ea366f534]: Textual amendment: Words in s. 108(1A) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 2(7)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/2/7) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-e9e000faa633cf3cdb60d41ea366f534]: Textual amendment: Words in s. 108(1A) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 2(7)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/2/7) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
 
-[^key-9de3be8470bcdf724944519276d4beb1]: Textual amendment: Words in s. 108(2)(b) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/35); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-9de3be8470bcdf724944519276d4beb1]: Textual amendment: Words in s. 108(2)(b) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/35); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

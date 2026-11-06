@@ -72,7 +72,7 @@ These Regulations may be cited as the Good Laboratory Practice Regulations 1999 
 - “operator", in relation to a test facility, means the person having control of the test facility;
 - “premises", in relation to a test facility, includes field sites at which phases of regulatory studies are conducted;
 - “principal investigator" means an individual who, for a multi-site regulatory study, acts on behalf of the study director and has defined responsibility for one or more delegated phases of the study;
-- “principles of good laboratory practice” means—[^key-a6693b7aa60d857f495af145043deb49]
+- “principles of good laboratory practice” means—[^c-a6693b7aa60d857f495af145043deb49]
   - (a) the principles of good laboratory practice set out in Schedule 1, which are based on the Good Laboratory Practice Principles set out in Section II of Annex I to the European Parliament and Council Directive [2004/10/EC](https://www.legislation.gov.uk/european/directive/2004/0010) on the harmonisation of laws, regulations and administrative provisions relating to the application of the principles of good laboratory practice and the verification of their applications for tests on chemical substances; read with
   - (b) the revised guidance for the conduct of test facility inspections and study audits set out in Schedule 2, which is based on part of the Revised Guidance for the Conduct of Test Facility Inspections and Study Audits in Annex I to the European Parliament and Council Directive [2004/9/EC](https://www.legislation.gov.uk/european/directive/2004/0009) on the inspection and verification of good laboratory practice;
 - “quality assurance programme" means a defined system, including personnel, which is independent of study conduct and is designed to assure test facility management of compliance with the principles of good laboratory practice;
@@ -82,7 +82,7 @@ These Regulations may be cited as the Good Laboratory Practice Regulations 1999 
 - “regulatory study" means a non-clinical experiment or set of experiments—
   - (a) in which an item is examined under laboratory conditions or in the environment in order to obtain data on its properties or its safety (or both) with respect to human health, animal health or the environment;
   - (b) the results of which are, or are intended, for submission to the appropriate regulatory authorities; and
-  - (c) in respect of which[^key-e36ec6b57251e15b58b1ff8cbcddfcd3] compliance with the principles of good laboratory practice is required in respect of that experiment or set of experiments by the appropriate regulatory authorities (whether or not compliance with the said principles in respect of that experiment or set of experiments is also a legislative requirement);
+  - (c) in respect of which[^c-e36ec6b57251e15b58b1ff8cbcddfcd3] compliance with the principles of good laboratory practice is required in respect of that experiment or set of experiments by the appropriate regulatory authorities (whether or not compliance with the said principles in respect of that experiment or set of experiments is also a legislative requirement);
 - “short-term study" means a regulatory study of short duration with widely used, routine techniques;
 - “specimen" means any material derived from a test system for examination, analysis, or retention;
 - “sponsor" means a person who commissions, supports and/or submits a regulatory study;
@@ -107,11 +107,11 @@ These Regulations may be cited as the Good Laboratory Practice Regulations 1999 
 
 ## 3. The Good Laboratory Practice Monitoring Authority
 
-(1) The body responsible for enforcing compliance with these Regulations shall be the Good Laboratory Practice Monitoring Authority, a body consisting of the Secretary of State for Health and Social Care[^key-b729d74c9d07e97a7cd30fbbee5388ee], the National Assembly for Wales, the Scottish Ministers and the Department of Health and Social Services for Northern Ireland.
+(1) The body responsible for enforcing compliance with these Regulations shall be the Good Laboratory Practice Monitoring Authority, a body consisting of the Secretary of State for Health and Social Care[^c-b729d74c9d07e97a7cd30fbbee5388ee], the National Assembly for Wales, the Scottish Ministers and the Department of Health and Social Services for Northern Ireland.
 
-(2) The functions of the Good Laboratory Practice Monitoring Authority may be performed by any one of the Secretary of State for Health and Social Care[^key-98e2f53203f00720380362a456674529], the National Assembly for Wales, the Scottish Ministers or the Department of Health and Social Services for Northern Ireland acting alone, or any two or more of them acting jointly.
+(2) The functions of the Good Laboratory Practice Monitoring Authority may be performed by any one of the Secretary of State for Health and Social Care[^c-98e2f53203f00720380362a456674529], the National Assembly for Wales, the Scottish Ministers or the Department of Health and Social Services for Northern Ireland acting alone, or any two or more of them acting jointly.
 
-(3) In accordance with the preceding provisions of this regulation, in these Regulations, “the Good Laboratory Practice Monitoring Authority" (“the GLPMA") means any one or more of the Secretary of State for Health and Social Care[^key-9bb180175ff32e778564ecd7e7a0225e], the National Assembly for Wales, the Scottish Ministers and the Department of Health and Social Services for Northern Ireland, and, in the case of anything falling to be done by the GLPMA, means any one or more of them acting as mentioned in paragraph (2).
+(3) In accordance with the preceding provisions of this regulation, in these Regulations, “the Good Laboratory Practice Monitoring Authority" (“the GLPMA") means any one or more of the Secretary of State for Health and Social Care[^c-9bb180175ff32e778564ecd7e7a0225e], the National Assembly for Wales, the Scottish Ministers and the Department of Health and Social Services for Northern Ireland, and, in the case of anything falling to be done by the GLPMA, means any one or more of them acting as mentioned in paragraph (2).
 
 (4) The GLPMA may appoint such persons as they think necessary for the proper discharge by them of their functions, and those persons shall be appointed upon such terms and conditions (including conditions as to remuneration, benefits, allowances and reimbursement for expenses) as the GLPMA think fit.
 
@@ -149,10 +149,10 @@ and if a regulatory study is conducted at any premises in contravention of this 
 
 unless, for either of the reasons set out in paragraph (4), it is necessary for the GLPMA to inform the prospective member immediately that they are not prepared to admit him to membership of the programme in respect of those premises.
 
-(4) The reasons referred to in paragraph (3) are [^key-56f4777f608262c6bdd4fb5774d0a4e9]...—
+(4) The reasons referred to in paragraph (3) are [^c-56f4777f608262c6bdd4fb5774d0a4e9]...—
 
-- (a) there is a failure to adhere to the principles of good laboratory practice at those premises which, in the opinion of the GLPMA, may contribute towards precipitating a danger to animal or human health or to the environment; [^key-cf3d60987c7646b82f5552b1756c1ebd]...
-- (b)[^key-cf3d60987c7646b82f5552b1756c1ebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) there is a failure to adhere to the principles of good laboratory practice at those premises which, in the opinion of the GLPMA, may contribute towards precipitating a danger to animal or human health or to the environment; [^c-cf3d60987c7646b82f5552b1756c1ebd]...
+- (b)[^c-cf3d60987c7646b82f5552b1756c1ebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Membership of the United Kingdom good laboratory practice compliance programme
 
@@ -178,7 +178,7 @@ unless, for either of the reasons set out in paragraph (4), it is necessary for 
 - (b) give the operator a specified period within which to make representations to him; and
 - (c) consider any representations which are duly made and not withdrawn.
 
-[^key-6e47f335910755ba63e7682053b28a39]...
+[^c-6e47f335910755ba63e7682053b28a39]...
 
 (5) Where an operator of a test facility has ceased to be a member of the UK GLP compliance programme in respect of particular test facility premises on the grounds set out in paragraph (2)(a), or membership of the programme in respect of particular test facility premises has been withdrawn from him on the grounds set out in paragraph (3)(a), he shall again be regarded as being a member of the programme in respect of those premises if—
 
@@ -267,7 +267,7 @@ the justice may by warrant signed by him, which shall continue in force for a pe
 
 (5) Where, pursuant to paragraph (1)(e), a person appointed in accordance with regulation 3(4) takes possession of any article, substance, book, document, data or record, he shall leave at the premises with a responsible person a statement giving particulars of the article, substance, book, document, data or record sufficient to identify it and stating that he has taken possession of it.
 
-(6) Persons appointed in accordance with regulation 3(4) shall, when enforcing compliance with these Regulations, have regard to any relevant provision of the Revised Guidance for the Conduct of Test Facility Inspections and Study Audits set out in Part B of Annex I to the European Parliament and Council Directive[^key-861525ee0f05f9ab30394d6993c06279] [2004/9/EC](https://www.legislation.gov.uk/european/directive/2004/0009).
+(6) Persons appointed in accordance with regulation 3(4) shall, when enforcing compliance with these Regulations, have regard to any relevant provision of the Revised Guidance for the Conduct of Test Facility Inspections and Study Audits set out in Part B of Annex I to the European Parliament and Council Directive[^c-861525ee0f05f9ab30394d6993c06279] [2004/9/EC](https://www.legislation.gov.uk/european/directive/2004/0009).
 
 ## 10. Disclosure of confidential information
 
@@ -302,7 +302,7 @@ shall not be considered to be confidential.
 
 shall be guilty of an offence.
 
-(2) Nothing in paragraph (1)(a)(ii) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him or, in the case of a person who is married or a civil partner, his spouse or civil partner[^key-451f05bbf06048f8740d4d5b0fcdee6e].
+(2) Nothing in paragraph (1)(a)(ii) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him or, in the case of a person who is married or a civil partner, his spouse or civil partner[^c-451f05bbf06048f8740d4d5b0fcdee6e].
 
 ## 12. False good laboratory practice instruments
 
@@ -392,7 +392,7 @@ Department of Health
 
 18th November 1999
 
-## SCHEDULE 1 — GOOD LABORATORY PRACTICE PRINCIPLES (BASED ON SECTION II OF ANNEX I TO THE EUROPEAN PARLIAMENT AND COUNCIL DIRECTIVE [2004/10/EC](https://www.legislation.gov.uk/european/directive/2004/0010))[^key-489ad6cb67423240fd86818998f88283]
+## SCHEDULE 1 — GOOD LABORATORY PRACTICE PRINCIPLES (BASED ON SECTION II OF ANNEX I TO THE EUROPEAN PARLIAMENT AND COUNCIL DIRECTIVE [2004/10/EC](https://www.legislation.gov.uk/european/directive/2004/0010))[^c-489ad6cb67423240fd86818998f88283]
 
 Regulation 2(1)
 
@@ -759,7 +759,7 @@ Storage
 
 **4.** If a test facility or an archive contracting facility goes out of business and has no legal successor, the archive should be transferred to the archives of the sponsor of the regulatory study.
 
-## SCHEDULE 2 — REVISED GUIDANCE FOR THE CONDUCTOF TEST FACILITY INSPECTIONS AND STUDY AUDITS (BASED ON PART OF PART B OF ANNEX I TO THE EUROPEAN PARLIAMENT AND COUNCIL DIRECTIVE [2004/9/EC](https://www.legislation.gov.uk/european/directive/2004/0009))[^key-4c9ce7398798ca2485d209ade35a0884]
+## SCHEDULE 2 — REVISED GUIDANCE FOR THE CONDUCTOF TEST FACILITY INSPECTIONS AND STUDY AUDITS (BASED ON PART OF PART B OF ANNEX I TO THE EUROPEAN PARLIAMENT AND COUNCIL DIRECTIVE [2004/9/EC](https://www.legislation.gov.uk/european/directive/2004/0009))[^c-4c9ce7398798ca2485d209ade35a0884]
 
 Regulation 2(1)
 
@@ -1034,28 +1034,28 @@ A Regulatory Impact Assessment in relation to these Regulations has been prepare
 
 [^c16480201]: Marginal citation: Measures relating to good laboratory practice are not a reserved matter under the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). Therefore, as regards Scotland, see [section 57(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/57/1) of the 1998 Act which provides that despite the transfer to the Scottish Ministers by virtue of section 53 of that Act of functions in relation to observing and implementing Community law, any function of a Minister of the Crown in relation to any matter (including, therefore, in relation to measures relating to good laboratory practice) shall continue to be exercisable by him as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972.
 
-[^key-a6693b7aa60d857f495af145043deb49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/2/1) substituted (27.4.2004) by [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/a/i)
+[^c-a6693b7aa60d857f495af145043deb49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/2/1) substituted (27.4.2004) by [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/a/i)
 
-[^key-e36ec6b57251e15b58b1ff8cbcddfcd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/2/1) inserted (27.4.2004) by virtue of [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/a/ii)
+[^c-e36ec6b57251e15b58b1ff8cbcddfcd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/2/1) inserted (27.4.2004) by virtue of [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/a/ii)
 
-[^key-b729d74c9d07e97a7cd30fbbee5388ee]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/3/1) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(f)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/f) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-b729d74c9d07e97a7cd30fbbee5388ee]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/3/1) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(f)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/f) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-98e2f53203f00720380362a456674529]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/3/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(f)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/f) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-98e2f53203f00720380362a456674529]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/3/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(f)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/f) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-9bb180175ff32e778564ecd7e7a0225e]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/3/3) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(f)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/f) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-9bb180175ff32e778564ecd7e7a0225e]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/3/3) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(f)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/f) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-56f4777f608262c6bdd4fb5774d0a4e9]: Textual amendment: Word in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/5/4) omitted (27.4.2004) by virtue of [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/b)
+[^c-56f4777f608262c6bdd4fb5774d0a4e9]: Textual amendment: Word in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/5/4) omitted (27.4.2004) by virtue of [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/b)
 
-[^key-cf3d60987c7646b82f5552b1756c1ebd]: Textual amendment: [Reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/5/4/b) and word omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/1488/regulation/2/a)
+[^c-cf3d60987c7646b82f5552b1756c1ebd]: Textual amendment: [Reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/5/4/b) and word omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/1488/regulation/2/a)
 
 [^c16480251]: Marginal citation: [S.I. 1997/654](https://www.legislation.gov.uk/uksi/1997/654).
 
-[^key-6e47f335910755ba63e7682053b28a39]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/6/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/1488/regulation/2/b)
+[^c-6e47f335910755ba63e7682053b28a39]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/6/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/1488/regulation/2/b)
 
-[^key-861525ee0f05f9ab30394d6993c06279]: Textual amendment: Words in [reg. 9(6)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/9/6) substituted (27.4.2004) by [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/c)
+[^c-861525ee0f05f9ab30394d6993c06279]: Textual amendment: Words in [reg. 9(6)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/9/6) substituted (27.4.2004) by [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/c)
 
-[^key-451f05bbf06048f8740d4d5b0fcdee6e]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/11/2) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/1), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2005/2114/schedule/1/paragraph/7)
+[^c-451f05bbf06048f8740d4d5b0fcdee6e]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/1999/3106/regulation/11/2) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/1), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2005/2114/schedule/1/paragraph/7)
 
-[^key-489ad6cb67423240fd86818998f88283]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3106/schedule/1) heading substituted (27.4.2004) by [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/d)
+[^c-489ad6cb67423240fd86818998f88283]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3106/schedule/1) heading substituted (27.4.2004) by [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/d)
 
-[^key-4c9ce7398798ca2485d209ade35a0884]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3106/schedule/2) heading substituted (27.4.2004) by [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(e)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/e)
+[^c-4c9ce7398798ca2485d209ade35a0884]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3106/schedule/2) heading substituted (27.4.2004) by [The Good Laboratory Practice (Codification Amendments Etc.) Regulations 2004 (S.I. 2004/994)](https://www.legislation.gov.uk/uksi/2004/994), [regs. 1](https://www.legislation.gov.uk/uksi/2004/994/regulation/1), [2(e)](https://www.legislation.gov.uk/uksi/2004/994/regulation/2/e)

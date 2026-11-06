@@ -24,9 +24,9 @@ Section 54
 
 ### Immigration Act 1971 (c. 77)
 
-**1.**[^key-5e31c64b57c3560c7aafd385dad4f9d5] The Immigration Act 1971 is amended as follows.
+**1.**[^c-5e31c64b57c3560c7aafd385dad4f9d5] The Immigration Act 1971 is amended as follows.
 
-**2.**[^key-208cea332a53fc8e3da7ee9f06e54f85] (1) Section 28D (entry and search of premises) is amended as follows.
+**2.**[^c-208cea332a53fc8e3da7ee9f06e54f85] (1) Section 28D (entry and search of premises) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -64,7 +64,7 @@ Section 54
 - (b) in paragraph (a) for “the reference” substitute “ references ” and for “a reference” substitute “ references ”, and
 - (c) in paragraph (b) for “paragraph (d)” substitute “ subsection (1)(d) ”.
 
-**3.**[^key-72e2c23ad5cd76312be9aa696e969907] (1) Section 28FB (search for personnel records with warrant) is amended as follows.
+**3.**[^c-72e2c23ad5cd76312be9aa696e969907] (1) Section 28FB (search for personnel records with warrant) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -96,7 +96,7 @@ Section 54
 > - (a) an all premises warrant under this section, or
 > - (b) a warrant under this section authorising multiple entries.
 
-**4.**[^key-787c83f705a1e35c32e36742d736c88c] (1) Section 28J (search warrants: safeguards) is amended as follows.
+**4.**[^c-787c83f705a1e35c32e36742d736c88c] (1) Section 28J (search warrants: safeguards) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -144,7 +144,7 @@ Section 54
 >
 > (10B) References in this section to a warrant authorising multiple entries is to a warrant of the kind mentioned in section 24E(8), 28D(1C) or 28FB(3A) or paragraph 25A(6AC) of Schedule 2.
 
-**5.**[^key-d8556f73105c0c8a00fbcb39ff631983] (1) Section 28K (execution of warrants) is amended as follows.
+**5.**[^c-d8556f73105c0c8a00fbcb39ff631983] (1) Section 28K (execution of warrants) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -187,7 +187,7 @@ Section 54
 >
 > (13B) The reference in subsection (8B) to a warrant authorising multiple entries is to a warrant of the kind mentioned in section 24E(8), 28D(1C) or 28FB(3A) or paragraph 25A(6AC) of Schedule 2.
 
-**6.**[^key-e5ca83c69278abaa56674061498b3fc5] (1) Paragraph 25A of Schedule 2 (search of premises for nationality documents) is amended as follows.
+**6.**[^c-e5ca83c69278abaa56674061498b3fc5] (1) Paragraph 25A of Schedule 2 (search of premises for nationality documents) is amended as follows.
 
 (2) In sub-paragraph (6A)—
 
@@ -223,7 +223,7 @@ Section 54
 
 ### UK Borders Act 2007 (c. 30)
 
-**7.**[^key-5e31e584c2b7e15351ed9746a18dc4e9] (1) Section 45 of the UK Borders Act 2007 (search of premises for nationality documents) is amended as follows.
+**7.**[^c-5e31e584c2b7e15351ed9746a18dc4e9] (1) Section 45 of the UK Borders Act 2007 (search of premises for nationality documents) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -257,16 +257,16 @@ Section 54
 
 ## Annotations
 
-[^key-5e31c64b57c3560c7aafd385dad4f9d5]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/1) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+[^c-5e31c64b57c3560c7aafd385dad4f9d5]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/1) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
 
-[^key-208cea332a53fc8e3da7ee9f06e54f85]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/2) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+[^c-208cea332a53fc8e3da7ee9f06e54f85]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/2) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
 
-[^key-72e2c23ad5cd76312be9aa696e969907]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/3) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+[^c-72e2c23ad5cd76312be9aa696e969907]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/3) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
 
-[^key-787c83f705a1e35c32e36742d736c88c]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/4) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+[^c-787c83f705a1e35c32e36742d736c88c]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/4) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
 
-[^key-d8556f73105c0c8a00fbcb39ff631983]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/5) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+[^c-d8556f73105c0c8a00fbcb39ff631983]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/5) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
 
-[^key-e5ca83c69278abaa56674061498b3fc5]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/6) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+[^c-e5ca83c69278abaa56674061498b3fc5]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/6) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
 
-[^key-5e31e584c2b7e15351ed9746a18dc4e9]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/7) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+[^c-5e31e584c2b7e15351ed9746a18dc4e9]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/7) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)

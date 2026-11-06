@@ -33,7 +33,7 @@ BANKS AND BANKING
 
 FINANCIAL SERVICES
 
-The Cross-Border Payments in Euro Regulations 2003 (revoked)[^key-74b8010d951ac581ba1f184ca0812617]
+The Cross-Border Payments in Euro Regulations 2003 (revoked)[^c-74b8010d951ac581ba1f184ca0812617]
 
 Made
 
@@ -45,36 +45,36 @@ Laid before Parliament
 
 Coming into force in accordance with Regulation 1
 
-[^key-74b8010d951ac581ba1f184ca0812617]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74b8010d951ac581ba1f184ca0812617]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-74b8010d951ac581ba1f184ca0812617]
+## 1. Citation and commencement[^c-74b8010d951ac581ba1f184ca0812617]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-74b8010d951ac581ba1f184ca0812617]
+## 2. Interpretation[^c-74b8010d951ac581ba1f184ca0812617]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Civil proceedings[^key-74b8010d951ac581ba1f184ca0812617]
+## 3. Civil proceedings[^c-74b8010d951ac581ba1f184ca0812617]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Criminal Proceedings[^key-74b8010d951ac581ba1f184ca0812617]
+## 4. Criminal Proceedings[^c-74b8010d951ac581ba1f184ca0812617]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences by a body corporate[^key-74b8010d951ac581ba1f184ca0812617]
+## 5. Offences by a body corporate[^c-74b8010d951ac581ba1f184ca0812617]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74b8010d951ac581ba1f184ca0812617]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74b8010d951ac581ba1f184ca0812617]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-74b8010d951ac581ba1f184ca0812617]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74b8010d951ac581ba1f184ca0812617]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74b8010d951ac581ba1f184ca0812617]: Textual amendment: Regulations revoked (11.2.2010) by [The Cross-Border Payments in Euro Regulations 2010 (S.I. 2010/89)](https://www.legislation.gov.uk/uksi/2010/89), [regs. 1](https://www.legislation.gov.uk/uksi/2010/89/regulation/1), [20](https://www.legislation.gov.uk/uksi/2010/89/regulation/20)
+[^c-74b8010d951ac581ba1f184ca0812617]: Textual amendment: Regulations revoked (11.2.2010) by [The Cross-Border Payments in Euro Regulations 2010 (S.I. 2010/89)](https://www.legislation.gov.uk/uksi/2010/89), [regs. 1](https://www.legislation.gov.uk/uksi/2010/89/regulation/1), [20](https://www.legislation.gov.uk/uksi/2010/89/regulation/20)

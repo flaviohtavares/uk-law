@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. Nature[^key-5d5f3f3427a706a69e898b068abf47ef]
+## 238. Nature[^c-5d5f3f3427a706a69e898b068abf47ef]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d5f3f3427a706a69e898b068abf47ef]: Commencement: S. 238 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-5d5f3f3427a706a69e898b068abf47ef]: Commencement: S. 238 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

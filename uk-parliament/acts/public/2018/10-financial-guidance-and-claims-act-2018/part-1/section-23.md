@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Power to dissolve the single financial guidance body[^key-094e18714c9f4f275c02f8d02ba57976]
+## 23. Power to dissolve the single financial guidance body[^c-094e18714c9f4f275c02f8d02ba57976]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-094e18714c9f4f275c02f8d02ba57976]: Commencement: S. 23 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/l)
+[^c-094e18714c9f4f275c02f8d02ba57976]: Commencement: S. 23 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/l)

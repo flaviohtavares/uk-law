@@ -33,23 +33,23 @@ of 8 December 2015
 
 on the position to be taken by the Member States on behalf of the European Union, concerning the decisions to be adopted by the Permanent Commission of Eurocontrol, with regard to the roles and tasks of Eurocontrol and on centralised services (revoked)
 
-[^key-f9c556271852b98db4df08064edaf6c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9c556271852b98db4df08064edaf6c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f9c556271852b98db4df08064edaf6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f9c556271852b98db4df08064edaf6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f9c556271852b98db4df08064edaf6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f9c556271852b98db4df08064edaf6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9c556271852b98db4df08064edaf6c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9c556271852b98db4df08064edaf6c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-f9c556271852b98db4df08064edaf6c1]
+## ANNEX[^c-f9c556271852b98db4df08064edaf6c1]
 
-[^key-f9c556271852b98db4df08064edaf6c1]I.
+[^c-f9c556271852b98db4df08064edaf6c1]I.
 
 **Eurocontrol's roles and tasks**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9c556271852b98db4df08064edaf6c1]II.
+[^c-f9c556271852b98db4df08064edaf6c1]II.
 
 **Centralised services**
 
@@ -57,4 +57,4 @@ on the position to be taken by the Member States on behalf of the European Union
 
 ## Annotations
 
-[^key-f9c556271852b98db4df08064edaf6c1]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [382](https://www.legislation.gov.uk/uksi/2019/459/regulation/382); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9c556271852b98db4df08064edaf6c1]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [382](https://www.legislation.gov.uk/uksi/2019/459/regulation/382); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**105A.**[^key-753db2ec8002eea7aac9ce08a14690f6] (1) Subject to regulation 106ZA(1), where, in relation to a taxable person, total input tax incurred less any input tax incurred on goods or services used or to be used exclusively in making taxable supplies—
+**105A.**[^c-753db2ec8002eea7aac9ce08a14690f6] (1) Subject to regulation 106ZA(1), where, in relation to a taxable person, total input tax incurred less any input tax incurred on goods or services used or to be used exclusively in making taxable supplies—
 
 - (a) in any prescribed accounting period, or
 - (b) in any applicable longer period,
@@ -37,4 +37,4 @@ does not amount to more than £625 per month on average, all input tax incurred 
 
 ## Annotations
 
-[^key-753db2ec8002eea7aac9ce08a14690f6]: Textual amendment: [Reg. 105A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/105A) inserted (1.4.2010) by [The Value Added Tax (Amendment) Regulations 2010 (S.I. 2010/559)](https://www.legislation.gov.uk/uksi/2010/559), [regs. 1](https://www.legislation.gov.uk/uksi/2010/559/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/559/regulation/6)
+[^c-753db2ec8002eea7aac9ce08a14690f6]: Textual amendment: [Reg. 105A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/105A) inserted (1.4.2010) by [The Value Added Tax (Amendment) Regulations 2010 (S.I. 2010/559)](https://www.legislation.gov.uk/uksi/2010/559), [regs. 1](https://www.legislation.gov.uk/uksi/2010/559/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/559/regulation/6)

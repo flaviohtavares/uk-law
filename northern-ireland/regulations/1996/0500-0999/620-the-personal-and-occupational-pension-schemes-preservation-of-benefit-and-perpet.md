@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 67(6), 69(2) and (4), 70(8), 73(5)(*c*) and (6), 78(1), 109(1), 149(2)(*c*), 159(6), 161(5), 164(1) and (4) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-5b724bdd03dadc3a4499c9139a12df82]
+## 1. Citation, commencement and interpretation[^c-5b724bdd03dadc3a4499c9139a12df82]
 
 (1) These Regulations may be cited as the Personal and Occupational Pension Schemes (Preservation of Benefit and Perpetuities) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^key-ae4091fdb3e572efd9fc3987c46c1bd6]
+## 2. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^c-ae4091fdb3e572efd9fc3987c46c1bd6]
 
 (1) The Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00003] shall be amended in accordance with paragraphs (2) to (18).
 
@@ -59,7 +59,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-(...)[^key-bf01d68c52f1abb35738e7b80fe1649e][^key-bf01d68c52f1abb35738e7b80fe1649e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(...)[^c-bf01d68c52f1abb35738e7b80fe1649e][^c-bf01d68c52f1abb35738e7b80fe1649e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Regulation 7(3) and (4)[^f00006] (alternatives to short service benefit) shall be omitted.
 
@@ -183,15 +183,15 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 3. Amendment of the Personal and Occupational Pension Schemes (Perpetuities) Regulations[^key-e79f1ce5f7fbd2e400c63438492e025c]
+## 3. Amendment of the Personal and Occupational Pension Schemes (Perpetuities) Regulations[^c-e79f1ce5f7fbd2e400c63438492e025c]
 
 In regulation 4 of the Personal and Occupational Pension Schemes (Perpetuities) Regulations (Northern Ireland) 1990[^f00016] (schemes that cease to qualify under section 159 of the Act) for “Occupational Pensions Board consider” there shall be substituted “Department considers”.
 
-## 4. Transitional arrangements — application of uniform accrual to money purchase benefits[^key-bc0ab237ef00725bc7394a3c41dcac96]
+## 4. Transitional arrangements — application of uniform accrual to money purchase benefits[^c-bc0ab237ef00725bc7394a3c41dcac96]
 
 Where, prior to the coming into operation of the amendments made by regulation 2(9) and (10), short service benefit which would otherwise have been required to be computed in accordance with uniform accrual has been computed on the same basis as long service benefit, in accordance with a determination of the Occupational Pensions Board under regulation 14(4) of the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991, then, until such time as there is a change in the rules of the scheme affecting the rate at which benefits accrue, the scheme may continue to compute short service benefit on that basis.
 
-## 5. Revocations[^key-41897a1d22ce636654bad6f810909733]
+## 5. Revocations[^c-41897a1d22ce636654bad6f810909733]
 
 In paragraph 26 of Schedule 2 to the Occupational and Personal Pension Schemes (Consequential Amendments) Regulations (Northern Ireland) 1994[^f00017] sub-paragraphs (2), (10), (19), (20) and (24) are hereby revoked.
 
@@ -221,17 +221,17 @@ Regulation 5 makes consequential revocations.
 
 [^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 159(6) was amended by paragraph 14 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and section 164 was substituted by Article 151(1) of that Order
 
-[^key-5b724bdd03dadc3a4499c9139a12df82]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1996/620/regulation/1) in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/620/regulation/1/1)
+[^c-5b724bdd03dadc3a4499c9139a12df82]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1996/620/regulation/1) in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/620/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ae4091fdb3e572efd9fc3987c46c1bd6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/620/regulation/2) in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/620/regulation/1/1)
+[^c-ae4091fdb3e572efd9fc3987c46c1bd6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/620/regulation/2) in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/620/regulation/1/1)
 
 [^f00003]: Footnote: [S.R.1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); relevant amending regulations are [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304), [S.R. 1993 No. 324](https://www.legislation.gov.uk/nisr/1993/324), [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300) and [S.R. 1995 No. 441](https://www.legislation.gov.uk/nisr/1995/441)
 
 [^f00004]: Footnote: Regulation 1(2) was amended by paragraph 26(2) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-bf01d68c52f1abb35738e7b80fe1649e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/1996/620/regulation/2/3) revoked (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2007/185/schedule)
+[^c-bf01d68c52f1abb35738e7b80fe1649e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/1996/620/regulation/2/3) revoked (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2007/185/schedule)
 
 [^f00006]: Footnote: Regulation 7(3) was amended by paragraph 26(10) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
@@ -253,12 +253,12 @@ Regulation 5 makes consequential revocations.
 
 [^f00015]: Footnote: Regulation 26 was amended by paragraph 26(24) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-e79f1ce5f7fbd2e400c63438492e025c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/620/regulation/3) in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/620/regulation/1/1)
+[^c-e79f1ce5f7fbd2e400c63438492e025c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/620/regulation/3) in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/620/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 1990 No. 204](https://www.legislation.gov.uk/nisr/1990/204); amended by [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-bc0ab237ef00725bc7394a3c41dcac96]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1996/620/regulation/4) in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/620/regulation/1/1)
+[^c-bc0ab237ef00725bc7394a3c41dcac96]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1996/620/regulation/4) in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/620/regulation/1/1)
 
-[^key-41897a1d22ce636654bad6f810909733]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1996/620/regulation/5) in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/620/regulation/1/1)
+[^c-41897a1d22ce636654bad6f810909733]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1996/620/regulation/5) in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/620/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)

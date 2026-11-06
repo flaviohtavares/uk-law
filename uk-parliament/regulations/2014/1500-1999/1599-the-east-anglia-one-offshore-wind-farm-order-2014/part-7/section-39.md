@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. ...[^key-4c1a479d34692dd489f922b4b947eec0][^key-4c1a479d34692dd489f922b4b947eec0]
+## 39. ...[^c-4c1a479d34692dd489f922b4b947eec0][^c-4c1a479d34692dd489f922b4b947eec0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c1a479d34692dd489f922b4b947eec0]: Textual amendment: [Art. 39](https://www.legislation.gov.uk/uksi/2014/1599/article/39) and heading omitted (25.3.2016) by virtue of [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
+[^c-4c1a479d34692dd489f922b4b947eec0]: Textual amendment: [Art. 39](https://www.legislation.gov.uk/uksi/2014/1599/article/39) and heading omitted (25.3.2016) by virtue of [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)

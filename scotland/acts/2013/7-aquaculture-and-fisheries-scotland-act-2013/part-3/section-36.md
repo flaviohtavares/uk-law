@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Power to detain vessels in connection with court proceedings[^key-71e41f0a0a6a4ace4d68954391de300d]
+## 36. Power to detain vessels in connection with court proceedings[^c-71e41f0a0a6a4ace4d68954391de300d]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71e41f0a0a6a4ace4d68954391de300d]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2013/7/section/36) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-71e41f0a0a6a4ace4d68954391de300d]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2013/7/section/36) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

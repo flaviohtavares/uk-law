@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Defence to proceedings in respect of statutory nuisance[^key-ebb215f2a70119e50cc29dec58a899b1]
+## 13. Defence to proceedings in respect of statutory nuisance[^c-ebb215f2a70119e50cc29dec58a899b1]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ebb215f2a70119e50cc29dec58a899b1]: Commencement: Art. 13 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+[^c-ebb215f2a70119e50cc29dec58a899b1]: Commencement: Art. 13 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
 
 [^f00024]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). Section 82(1) was amended by paragraph 6 of Schedule 17 to the Environment Act 1995. Section 82(2) was amended by section 5(2) of the Noise and Statutory Nuisance Act [1993 (c.40)](https://www.legislation.gov.uk/ukpga/1993/40) and paragraph 6 of Schedule 17 to the Environment Act 1995.
 

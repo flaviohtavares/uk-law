@@ -56,7 +56,7 @@ It appears to the Secretary of State that the Financial Reporting Council Limite
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 14(1), (5), (8) and (10) and 18A(1) and (3)[^f00006] of the Companies (Audit, Investigations and Community Enterprise) Act 2004 and sections 457(1), (2), (5) and (6)[^f00007] and 1292(1)(b) and (c) of the Companies Act 2006.
 
-## 1. Citation, commencement and interpretation[^key-557967853db8412cecd2c634c0d58dc8]
+## 1. Citation, commencement and interpretation[^c-557967853db8412cecd2c634c0d58dc8]
 
 (1) This Order may be cited as the Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021.
 
@@ -64,40 +64,40 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) In this Order—
 
-- “DGTR sourcebook” means the Disclosure Guidance and Transparency Rules sourcebook made by the Financial Conduct Authority[^f00008] under the Financial Services and Markets Act 2000, as it has effect from time to time[^key-429001d9509013cf336ddb66d6331363];
+- “DGTR sourcebook” means the Disclosure Guidance and Transparency Rules sourcebook made by the Financial Conduct Authority[^f00008] under the Financial Services and Markets Act 2000, as it has effect from time to time[^c-429001d9509013cf336ddb66d6331363];
 - “the 2004 Act” means the Companies (Audit, Investigations and Community Enterprise) Act 2004;
 - “the 2006 Act” means the Companies Act 2006;
 - “the FRC” means the Financial Reporting Council Limited;
 - “LLPs” means limited liability partnerships.
 
-## 2. Appointment in relation to issuers[^key-9f44d3ade5c62079b9835db93e8dbeda]
+## 2. Appointment in relation to issuers[^c-9f44d3ade5c62079b9835db93e8dbeda]
 
 (1) The FRC is appointed to exercise the functions mentioned in section 14(2) of the 2004 Act in respect of any issuer of transferable securities admitted to trading on a UK regulated market which is a body corporate.
 
 (2) In paragraph (1), “issuer” does not include a person which is not required to comply with the reporting requirements of Section 1 of Chapter 4 (annual financial report) and Section 2 of Chapter 4 (half-yearly financial reports) of the DGTR sourcebook by virtue of—
 
-- (a) rule 4.4.1, rule 4.4.2 (exemptions) and TP 1.19 (exemption for certain large debt securities issuers) of the DGTR sourcebook, [^key-2725d8870c48e3e1d95259e44e72340c]...
-- (aa)[^key-c2f797ae2d9493d214c02d7041e03224] applicable rules made by the Financial Conduct Authority by virtue of Part 3 of the Public Offers and Admissions to Trading Regulations 2024, as they have effect from time to time, or
-- (b)[^key-dd0ed5c8293c29e63fc45392f46de03a] applicable rules in—
+- (a) rule 4.4.1, rule 4.4.2 (exemptions) and TP 1.19 (exemption for certain large debt securities issuers) of the DGTR sourcebook, [^c-2725d8870c48e3e1d95259e44e72340c]...
+- (aa)[^c-c2f797ae2d9493d214c02d7041e03224] applicable rules made by the Financial Conduct Authority by virtue of Part 3 of the Public Offers and Admissions to Trading Regulations 2024, as they have effect from time to time, or
+- (b)[^c-dd0ed5c8293c29e63fc45392f46de03a] applicable rules in—
   - (i) the UK Listing Rules sourcebook made by the Financial Conduct Authority under the Financial Services and Markets Act 2000, as it has effect from time to time, or
   - (ii) the DGTR sourcebook.
 
-## 3. Appointment in relation to accounts[^key-ba607c3c429aa9d0930908b570818048]
+## 3. Appointment in relation to accounts[^c-ba607c3c429aa9d0930908b570818048]
 
 The FRC is appointed to exercise the functions mentioned in section 14(2) of the 2004 Act under this Order only in respect of the periodic accounts and reports required to be produced under Section 1 of Chapter 4 (annual financial report) and Section 2 of Chapter 4 (half-yearly financial reports) of the DGTR sourcebook.
 
-## 4. Authorisation[^key-b51c5bddb09f7dba72f17e24e531a932]
+## 4. Authorisation[^c-b51c5bddb09f7dba72f17e24e531a932]
 
 The FRC is authorised for the purposes of section 456 of the 2006 Act (application to court in respect of defective accounts or reports).
 
-## 5. Requirements for recording decisions[^key-79c8839d6964ed185b7e074e68555db6]
+## 5. Requirements for recording decisions[^c-79c8839d6964ed185b7e074e68555db6]
 
 The FRC must have satisfactory arrangements for—
 
 - (a) recording decisions made in connection with the functions it exercises by virtue of its appointment under articles 2 and 3 and its authorisation under article 4 of this Order; and
 - (b) the safekeeping of all material records.
 
-## 6. Consequential amendments[^key-b421b93f8b1b537cbef308f4a6d47e9e]
+## 6. Consequential amendments[^c-b421b93f8b1b537cbef308f4a6d47e9e]
 
 (1) The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^f00009], which apply the 2006 Act to LLPs, are amended in accordance with paragraphs (2) to (5).
 
@@ -109,9 +109,9 @@ The FRC must have satisfactory arrangements for—
 
 (5) In regulation 46, as it applies subsection (2)(b) of section 524 of the 2006 Act (information to be given to accounting authorities) to LLPs, for “Conduct Committee” substitute “Financial Reporting Council Limited”.
 
-**7.**[^key-b34ff0caacb8ad909bada60254326062][^key-b421b93f8b1b537cbef308f4a6d47e9e] In the Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Directors’ Reports) (Authorised Person) Order 2012[^f00010], omit all articles except articles 1 and 6.
+**7.**[^c-b34ff0caacb8ad909bada60254326062][^c-b421b93f8b1b537cbef308f4a6d47e9e] In the Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Directors’ Reports) (Authorised Person) Order 2012[^f00010], omit all articles except articles 1 and 6.
 
-## 8. Exemption from liability[^key-64b8bfc091c4d0db06475fd8368f658d]
+## 8. Exemption from liability[^c-64b8bfc091c4d0db06475fd8368f658d]
 
 In regulation 2 of the Companies (Bodies Concerned with Auditing Standards etc) (Exemption from Liability) Regulations 2016[^f00011]—
 
@@ -121,7 +121,7 @@ In regulation 2 of the Companies (Bodies Concerned with Auditing Standards etc) 
 - (b) in paragraph (2), for “subsection 2(a) to (d), (ea), (eb), (ec) and (f) to (t) of section 16” substitute “subsection 2(a) to (t) of section 16”;
 - (c) omit paragraph (3).
 
-## 9. Application and transitional provisions[^key-381a520c0b6daece6a16c813e8a4065b]
+## 9. Application and transitional provisions[^c-381a520c0b6daece6a16c813e8a4065b]
 
 (1) Articles 2 and 3 of this Order apply in respect of periodic accounts and reports relating to financial years beginning on or after 20th January 2007.
 
@@ -187,36 +187,36 @@ An impact assessment has not been produced for this instrument, as no, or no sig
 
 [^f00007]: Footnote: Section 457 has been amended by [S.I. 2019/685](https://www.legislation.gov.uk/uksi/2019/685) and [2013/1970](https://www.legislation.gov.uk/uksi/2013/1970).
 
-[^key-557967853db8412cecd2c634c0d58dc8]: Commencement: Art. 1 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+[^c-557967853db8412cecd2c634c0d58dc8]: Commencement: Art. 1 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
 
 [^f00008]: Footnote: An electronic copy of the relevant chapter, Chapter 4 (periodic financial reporting), of the sourcebook can be found at https://www.handbook.fca.org.uk/handbook/DTR/4/?view=chapter. A printed copy of the modules or the sourcebook can also be obtained from The Stationary Office (https://www.tsoshop.co.uk/bookstore.asp?FO=1350564).
 
-[^key-429001d9509013cf336ddb66d6331363]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/465/article/1/3) substituted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(2)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/2); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-429001d9509013cf336ddb66d6331363]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/465/article/1/3) substituted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(2)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/2); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-9f44d3ade5c62079b9835db93e8dbeda]: Commencement: Art. 2 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+[^c-9f44d3ade5c62079b9835db93e8dbeda]: Commencement: Art. 2 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
 
-[^key-2725d8870c48e3e1d95259e44e72340c]: Textual amendment: Word in [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/465/article/2/2/a) omitted (19.1.2026) by virtue of [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(3)(a)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/3/a); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-2725d8870c48e3e1d95259e44e72340c]: Textual amendment: Word in [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/465/article/2/2/a) omitted (19.1.2026) by virtue of [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(3)(a)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/3/a); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-c2f797ae2d9493d214c02d7041e03224]: Textual amendment: [Art. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2021/465/article/2/2/aa) inserted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(3)(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/3/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-c2f797ae2d9493d214c02d7041e03224]: Textual amendment: [Art. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2021/465/article/2/2/aa) inserted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(3)(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/3/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-dd0ed5c8293c29e63fc45392f46de03a]: Textual amendment: [Art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2021/465/article/2/2/b) substituted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(3)(c)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/3/c); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-dd0ed5c8293c29e63fc45392f46de03a]: Textual amendment: [Art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2021/465/article/2/2/b) substituted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(3)(c)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/3/c); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-ba607c3c429aa9d0930908b570818048]: Commencement: Art. 3 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+[^c-ba607c3c429aa9d0930908b570818048]: Commencement: Art. 3 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
 
-[^key-b51c5bddb09f7dba72f17e24e531a932]: Commencement: Art. 4 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+[^c-b51c5bddb09f7dba72f17e24e531a932]: Commencement: Art. 4 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
 
-[^key-79c8839d6964ed185b7e074e68555db6]: Commencement: Art. 5 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+[^c-79c8839d6964ed185b7e074e68555db6]: Commencement: Art. 5 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
 
-[^key-b421b93f8b1b537cbef308f4a6d47e9e]: Commencement: Art. 6 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+[^c-b421b93f8b1b537cbef308f4a6d47e9e]: Commencement: Art. 6 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
 
 [^f00009]: Footnote: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911). This instrument is relevantly amended by [S.I. 2012/1439](https://www.legislation.gov.uk/uksi/2012/1439), [S.I. 2018/1155](https://www.legislation.gov.uk/uksi/2018/1155) and [S.I. 2021/153](https://www.legislation.gov.uk/uksi/2021/153).
 
-[^key-b34ff0caacb8ad909bada60254326062]: Commencement: Art. 7 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+[^c-b34ff0caacb8ad909bada60254326062]: Commencement: Art. 7 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
 
 [^f00010]: Footnote: [S.I. 2012/1439](https://www.legislation.gov.uk/uksi/2012/1439), as amended by [S.I. 2019/145](https://www.legislation.gov.uk/uksi/2019/145) and [2019/685](https://www.legislation.gov.uk/uksi/2019/685).
 
-[^key-64b8bfc091c4d0db06475fd8368f658d]: Commencement: Art. 8 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+[^c-64b8bfc091c4d0db06475fd8368f658d]: Commencement: Art. 8 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
 
 [^f00011]: Footnote: [S.I. 2016/571](https://www.legislation.gov.uk/uksi/2016/571), as amended by [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177).
 
-[^key-381a520c0b6daece6a16c813e8a4065b]: Commencement: Art. 9 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+[^c-381a520c0b6daece6a16c813e8a4065b]: Commencement: Art. 9 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)

@@ -50,7 +50,7 @@ In accordance with Article 12(1) of the Superannuation (Northern Ireland) Order 
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-884c1a460a2f74e0d87bbb7a774cd18e]
+### 1. Citation and commencement[^c-884c1a460a2f74e0d87bbb7a774cd18e]
 
 (1) These Regulations may be cited as the Health and Social Care Pensions (Abatement) (No 2) Regulations (Northern Ireland) 2022.
 
@@ -58,25 +58,25 @@ In accordance with Article 12(1) of the Superannuation (Northern Ireland) Order 
 
 ## PART 2 — Amendment of the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995
 
-### 2. General[^key-b624f4c5d4c6bb36a7b346798cae350f]
+### 2. General[^c-b624f4c5d4c6bb36a7b346798cae350f]
 
 The Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995 are amended as provided by regulations 3 and 4.
 
-### 3. Amendment to regulations 84[^key-b13c9b3b9f0d18ee891653310d820399]
+### 3. Amendment to regulations 84[^c-b13c9b3b9f0d18ee891653310d820399]
 
 These Regulations have effect as if, for the period 1 November 2022 to 31 March 2024, (both dates inclusive) regulation 84 (suspension of pension on return to HPSS employment) were omitted.
 
-### 4. Amendment to regulations 85[^key-a1857e9eadf5bb1818e1d5693de4d983]
+### 4. Amendment to regulations 85[^c-a1857e9eadf5bb1818e1d5693de4d983]
 
 These Regulations have effect for the period 1 November 2022 to 31 March 2025 (both dates inclusive) as if in the opening words of regulation 85(3) (reduction of pension on return to HPSS employment) the words “or (c)” were omitted.
 
 ## PART 3 — Amendments to the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008
 
-### 5. General[^key-09359ce5fd2255f70f16b83564ac3435]
+### 5. General[^c-09359ce5fd2255f70f16b83564ac3435]
 
 The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[^f00003] are amended as provided by regulation 6.
 
-### 6. Amendment to regulations 50 and 181[^key-b6c51ddaa2e5d620fabd84297c2373ef]
+### 6. Amendment to regulations 50 and 181[^c-b6c51ddaa2e5d620fabd84297c2373ef]
 
 These Regulations have effect as if for the period 1 November 2022 to 31 March 2023 ( both dates inclusive) –
 
@@ -85,11 +85,11 @@ These Regulations have effect as if for the period 1 November 2022 to 31 March 2
 
 ## PART 4 — Amendments to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015
 
-### 7. General[^key-a15a4ca5596a4dacbe4a9d3a382c8d83]
+### 7. General[^c-a15a4ca5596a4dacbe4a9d3a382c8d83]
 
 The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015b are amended as provided by regulation 8.
 
-### 8. Amendment to regulation 85[^key-a63ac416a3b284e61ed2cf3166fa5ee3]
+### 8. Amendment to regulation 85[^c-a63ac416a3b284e61ed2cf3166fa5ee3]
 
 These Regulations have effect for the period 1 November 2022 to 31 March 2023 (both dates inclusive) as if in regulation 85 (abatement of pension following continuation of employment) paragraph (3) were omitted.
 
@@ -123,22 +123,22 @@ These Regulations remove the abatement provisions of the Health and Personal Soc
 
 [^f00002]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2) section 3 was amended by section 94(11) to (14) of the Public Service Pensions and Judicial Offices Act [2022 (c 7)](https://www.legislation.gov.uk/ukpga/2022/7)
 
-[^key-884c1a460a2f74e0d87bbb7a774cd18e]: Commencement: Reg. 1 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
+[^c-884c1a460a2f74e0d87bbb7a774cd18e]: Commencement: Reg. 1 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
 
-[^key-b624f4c5d4c6bb36a7b346798cae350f]: Commencement: Reg. 2 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
+[^c-b624f4c5d4c6bb36a7b346798cae350f]: Commencement: Reg. 2 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
 
-[^key-b13c9b3b9f0d18ee891653310d820399]: Commencement: Reg. 3 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
+[^c-b13c9b3b9f0d18ee891653310d820399]: Commencement: Reg. 3 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
 
-[^key-a1857e9eadf5bb1818e1d5693de4d983]: Commencement: Reg. 4 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
+[^c-a1857e9eadf5bb1818e1d5693de4d983]: Commencement: Reg. 4 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
 
-[^key-09359ce5fd2255f70f16b83564ac3435]: Commencement: Reg. 5 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
+[^c-09359ce5fd2255f70f16b83564ac3435]: Commencement: Reg. 5 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2008 No.256](https://www.legislation.gov.uk/nisr/2008/256) as amended by S.R. 2009 Nos.[65](https://www.legislation.gov.uk/nisr/2009/65) and [188](https://www.legislation.gov.uk/nisr/2009/188); S.R. 2010 Nos.[22](https://www.legislation.gov.uk/nisr/2010/22), [286](https://www.legislation.gov.uk/nisr/2010/286) and [420](https://www.legislation.gov.uk/nisr/2010/420); [S.R. 2011 No.256](https://www.legislation.gov.uk/nisr/2011/256); S.R. 2012 Nos.[42](https://www.legislation.gov.uk/nisr/2012/42) and [78](https://www.legislation.gov.uk/nisr/2012/78); S.R. 2013 Nos.[40](https://www.legislation.gov.uk/nisr/2013/40), [73](https://www.legislation.gov.uk/nisr/2013/73), [247](https://www.legislation.gov.uk/nisr/2013/247) and [259](https://www.legislation.gov.uk/nisr/2013/259); S.R. 2014 Nos.[59](https://www.legislation.gov.uk/nisr/2014/59) and [225](https://www.legislation.gov.uk/nisr/2014/225); S.R. 2015 Nos.[56](https://www.legislation.gov.uk/nisr/2015/56), [121](https://www.legislation.gov.uk/nisr/2015/121) and [122](https://www.legislation.gov.uk/nisr/2015/122); [S.R. 2016 No.384](https://www.legislation.gov.uk/nisr/2016/384) and [S.R. 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62)
 
     [S.R. 2015 No.120](https://www.legislation.gov.uk/nisr/2015/120) as amended by [S.R. 2016 No.384](https://www.legislation.gov.uk/nisr/2016/384) and [S.R 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62)
 
-[^key-b6c51ddaa2e5d620fabd84297c2373ef]: Commencement: Reg. 6 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
+[^c-b6c51ddaa2e5d620fabd84297c2373ef]: Commencement: Reg. 6 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
 
-[^key-a15a4ca5596a4dacbe4a9d3a382c8d83]: Commencement: Reg. 7 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
+[^c-a15a4ca5596a4dacbe4a9d3a382c8d83]: Commencement: Reg. 7 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
 
-[^key-a63ac416a3b284e61ed2cf3166fa5ee3]: Commencement: Reg. 8 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)
+[^c-a63ac416a3b284e61ed2cf3166fa5ee3]: Commencement: Reg. 8 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2)

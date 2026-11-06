@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Penalties for non-compliance[^key-893b3b1f86cea6ad600f901525960eeb][^key-5195ae058511900dd3e0787655adb683]
+## 120. Penalties for non-compliance[^c-893b3b1f86cea6ad600f901525960eeb][^c-5195ae058511900dd3e0787655adb683]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-893b3b1f86cea6ad600f901525960eeb]: Commencement: S. 120 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-893b3b1f86cea6ad600f901525960eeb]: Commencement: S. 120 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-5195ae058511900dd3e0787655adb683]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2023/55/section/120) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/g) (with [reg. 9](https://www.legislation.gov.uk/uksi/2024/452/regulation/9))
+[^c-5195ae058511900dd3e0787655adb683]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2023/55/section/120) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/g) (with [reg. 9](https://www.legislation.gov.uk/uksi/2024/452/regulation/9))

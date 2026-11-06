@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Simple majority system to be used in elections for certain offices[^key-bd6c1b91536307524a3da074765651a7][^key-111a3a6a4afc9b9d5e8b2a534fdc686a]
+## 13. Simple majority system to be used in elections for certain offices[^c-bd6c1b91536307524a3da074765651a7][^c-111a3a6a4afc9b9d5e8b2a534fdc686a]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,6 +94,6 @@ Elections for police and crime commissioners
 
 ## Annotations
 
-[^key-bd6c1b91536307524a3da074765651a7]: Commencement: S. 13 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-bd6c1b91536307524a3da074765651a7]: Commencement: S. 13 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-111a3a6a4afc9b9d5e8b2a534fdc686a]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/37/section/13) in force at 26.10.2022 (but the amendments made by s.13 do not apply in relation to any election in respect of which the date of the poll specified in the notice of election is before the ordinary day of election in 2023) by [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
+[^c-111a3a6a4afc9b9d5e8b2a534fdc686a]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/37/section/13) in force at 26.10.2022 (but the amendments made by s.13 do not apply in relation to any election in respect of which the date of the poll specified in the notice of election is before the ordinary day of election in 2023) by [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))

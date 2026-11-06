@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Offences[^key-cb55ff7517ca8364abe4209df2dfff28]
+## 18. Offences[^c-cb55ff7517ca8364abe4209df2dfff28]
 
 *Extent: E+W+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb55ff7517ca8364abe4209df2dfff28]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2013/2605/article/18) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-cb55ff7517ca8364abe4209df2dfff28]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2013/2605/article/18) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

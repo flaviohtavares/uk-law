@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Habitats Regulations: power to amend Part 6[^key-fa26dee023e22d395c0bf0065816df1a][^key-7039af3b6174b5d57daaae0ab0ed8ad3]
+## 113. Habitats Regulations: power to amend Part 6[^c-fa26dee023e22d395c0bf0065816df1a][^c-7039af3b6174b5d57daaae0ab0ed8ad3]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa26dee023e22d395c0bf0065816df1a]: Commencement: S. 113 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-fa26dee023e22d395c0bf0065816df1a]: Commencement: S. 113 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-7039af3b6174b5d57daaae0ab0ed8ad3]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2021/30/section/113) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/p)
+[^c-7039af3b6174b5d57daaae0ab0ed8ad3]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2021/30/section/113) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/p)

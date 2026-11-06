@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Saving for outlying enactments of certain general provisions as to offences.[^key-1fdf115dbc22eb3328c5f7d11e17f305]
+## 156. Saving for outlying enactments of certain general provisions as to offences.[^c-1fdf115dbc22eb3328c5f7d11e17f305]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1fdf115dbc22eb3328c5f7d11e17f305]: Modification: Ss. 144-156 applied (with modifications) (6.4.2018) by [The Soft Drinks Industry Levy (Enforcement) Regulations 2018 (S.I. 2018/264)](https://www.legislation.gov.uk/uksi/2018/264), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/264/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/264/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/264/schedule) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2018/264/regulation/3))
+[^c-1fdf115dbc22eb3328c5f7d11e17f305]: Modification: Ss. 144-156 applied (with modifications) (6.4.2018) by [The Soft Drinks Industry Levy (Enforcement) Regulations 2018 (S.I. 2018/264)](https://www.legislation.gov.uk/uksi/2018/264), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/264/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/264/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/264/schedule) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2018/264/regulation/3))
 
 [^c14781241]: Marginal citation: [1972 c. 25](https://www.legislation.gov.uk/ukpga/1972/25).
 

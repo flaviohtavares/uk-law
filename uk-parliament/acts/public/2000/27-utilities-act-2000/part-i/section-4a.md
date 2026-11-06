@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4A. Information in relation to strategy and policy statement[^key-b9457880ff00e6e77d8f163fd1ac7040]
+## 4A. Information in relation to strategy and policy statement[^c-b9457880ff00e6e77d8f163fd1ac7040]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9457880ff00e6e77d8f163fd1ac7040]: Textual amendment: S. 4A inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 137(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/137/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-b9457880ff00e6e77d8f163fd1ac7040]: Textual amendment: S. 4A inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 137(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/137/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)

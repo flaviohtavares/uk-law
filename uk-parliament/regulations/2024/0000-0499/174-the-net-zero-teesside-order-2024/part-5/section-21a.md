@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21A. Supplemental land[^key-66db9fedace8fd1435777c28cfcabb34]
+## 21A. Supplemental land[^c-66db9fedace8fd1435777c28cfcabb34]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66db9fedace8fd1435777c28cfcabb34]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/uksi/2024/174/article/21A) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [7](https://www.legislation.gov.uk/uksi/2025/1143/article/7)
+[^c-66db9fedace8fd1435777c28cfcabb34]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/uksi/2024/174/article/21A) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [7](https://www.legislation.gov.uk/uksi/2025/1143/article/7)

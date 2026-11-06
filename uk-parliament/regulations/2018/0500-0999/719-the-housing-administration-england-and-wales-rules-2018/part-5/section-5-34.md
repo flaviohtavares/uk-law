@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.34. Notice of no dividend, or no further dividend[^key-446e0ba0d308f2dbe5b2a7ebc925125b]
+## 5.34. Notice of no dividend, or no further dividend[^c-446e0ba0d308f2dbe5b2a7ebc925125b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-446e0ba0d308f2dbe5b2a7ebc925125b]: Commencement: Rule 5.34 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-446e0ba0d308f2dbe5b2a7ebc925125b]: Commencement: Rule 5.34 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

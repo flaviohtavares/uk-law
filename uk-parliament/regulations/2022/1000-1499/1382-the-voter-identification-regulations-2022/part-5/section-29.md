@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Replacement of anonymous elector’s document following change of electoral number[^key-5f4e6e845b083732cbb4b53541a3ded7]
+## 29. Replacement of anonymous elector’s document following change of electoral number[^c-5f4e6e845b083732cbb4b53541a3ded7]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f4e6e845b083732cbb4b53541a3ded7]: Commencement: Reg. 29 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-5f4e6e845b083732cbb4b53541a3ded7]: Commencement: Reg. 29 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

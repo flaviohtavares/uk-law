@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Destination of interim statements: maintained schools[^key-c64106a51230b826f6d8830716639377][^key-2805d147d38289071b890edcc099d50f][^key-c64106a51230b826f6d8830716639377]
+## 14A. Destination of interim statements: maintained schools[^c-c64106a51230b826f6d8830716639377][^c-2805d147d38289071b890edcc099d50f][^c-c64106a51230b826f6d8830716639377]
 
 *Extent: E+W*
 
@@ -25,10 +25,10 @@ summary: ''
 (2) The Chief Inspector must ensure that copies of the statement are sent—
 
 - (a) to the head teacher of the school,
-- (b) to whichever of the local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] and the governing body are not the appropriate authority, and
+- (b) to whichever of the local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] and the governing body are not the appropriate authority, and
 - (c) in the case of a school having foundation governors, to the person who appoints them and (if different) to the appropriate appointing authority.
 
-(3)[^key-6887b26701f05f98f0cd5ac87aa36625] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6887b26701f05f98f0cd5ac87aa36625] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The appropriate authority must—
 
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c64106a51230b826f6d8830716639377]: Modification: Pt. 1 applied (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 137(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/137/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1) (with [arts. 5-20](https://www.legislation.gov.uk/uksi/2010/1151/article/5))
+[^c-c64106a51230b826f6d8830716639377]: Modification: Pt. 1 applied (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 137(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/137/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1) (with [arts. 5-20](https://www.legislation.gov.uk/uksi/2010/1151/article/5))
 
-[^key-2805d147d38289071b890edcc099d50f]: Textual amendment: S. 14A inserted (12.1.2010 for specified purposes) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 225(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/225/4), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-2805d147d38289071b890edcc099d50f]: Textual amendment: S. 14A inserted (12.1.2010 for specified purposes) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 225(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/225/4), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
 
-[^key-6887b26701f05f98f0cd5ac87aa36625]: Textual amendment: [S. 14A(3)](https://www.legislation.gov.uk/ukpga/2005/18/section/14A/3) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 26](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/26); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-6887b26701f05f98f0cd5ac87aa36625]: Textual amendment: [S. 14A(3)](https://www.legislation.gov.uk/ukpga/2005/18/section/14A/3) omitted (1.4.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 26](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/26); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

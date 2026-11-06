@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228ZB. Anti-avoidance in connection with section 228ZA[^key-0e054296bac9487ae9fd3da7bd862080]
+## 228ZB. Anti-avoidance in connection with section 228ZA[^c-0e054296bac9487ae9fd3da7bd862080]
 
 *Extent: E+W+S+N.I.*
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]
+[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 (1) Subsection (5) applies if there are arrangements in respect of which conditions A to C are met.
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e054296bac9487ae9fd3da7bd862080]: Textual amendment: Ss. 228ZA, 228ZB inserted (with effect in accordance with Sch. 4 para. 10(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 4 para. 10(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/4/paragraph/10/1)
+[^c-0e054296bac9487ae9fd3da7bd862080]: Textual amendment: Ss. 228ZA, 228ZB inserted (with effect in accordance with Sch. 4 para. 10(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 4 para. 10(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/4/paragraph/10/1)
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)

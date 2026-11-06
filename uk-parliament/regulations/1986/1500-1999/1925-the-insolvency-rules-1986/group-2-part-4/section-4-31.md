@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.31. Termination of appointment[^key-307619031f98d7bba29f3fcacddf9fb2]
+## 4.31. Termination of appointment[^c-307619031f98d7bba29f3fcacddf9fb2]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) If the provisional liquidator's appointment terminates, in consequence of the dismissal of the winding-up petition or otherwise, the court may give such directions as it thinks fit with respect to the accounts of his administration or any other matters which it thinks appropriate.
 
-(3)[^key-6d663c3c8a7a501f9813947ac14b4a2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6d663c3c8a7a501f9813947ac14b4a2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-307619031f98d7bba29f3fcacddf9fb2]: Commencement: [Rule 4.31](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.31) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-307619031f98d7bba29f3fcacddf9fb2]: Commencement: [Rule 4.31](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.31) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-6d663c3c8a7a501f9813947ac14b4a2e]: Textual amendment: [Rule 4.31(3)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.31/3) omitted (11.1.1988 with application in accordance with rule 3(1)(2)) by virtue of [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 44](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/44)
+[^c-6d663c3c8a7a501f9813947ac14b4a2e]: Textual amendment: [Rule 4.31(3)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.31/3) omitted (11.1.1988 with application in accordance with rule 3(1)(2)) by virtue of [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 44](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/44)

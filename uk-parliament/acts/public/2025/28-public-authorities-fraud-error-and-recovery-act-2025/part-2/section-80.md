@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Entry, search and seizure in England and Wales[^key-a83d2cb87ee8d073032ed215b5f9f5fe]
+## 80. Entry, search and seizure in England and Wales[^c-a83d2cb87ee8d073032ed215b5f9f5fe]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a83d2cb87ee8d073032ed215b5f9f5fe]: Commencement: S. 80 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-a83d2cb87ee8d073032ed215b5f9f5fe]: Commencement: S. 80 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

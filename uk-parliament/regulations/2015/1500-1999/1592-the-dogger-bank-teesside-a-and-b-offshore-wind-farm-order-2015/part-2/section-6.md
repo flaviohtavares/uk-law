@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Procedure in relation to approvals, etc. under Requirements[^key-549671186f6bac3c62f07222cd81a1d8]
+## 6. Procedure in relation to approvals, etc. under Requirements[^c-549671186f6bac3c62f07222cd81a1d8]
 
 *Extent: E+W+S*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-549671186f6bac3c62f07222cd81a1d8]: Commencement: Art. 6 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+[^c-549671186f6bac3c62f07222cd81a1d8]: Commencement: Art. 6 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
 
 [^f00019]: Footnote: Section 78 was amended by section 43(2) of the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), paragraph 3(b) of Schedule 10 to the Planning Act 2008, section 123(3) of, and paragraph 11 of Schedule 12 to, the Localism Act 2011, paragraph 8 of Schedule 1 to the Growth and Infrastructure Act 2013 and paragraph 12 of Schedule 4 to the Infrastructure Act [2015 (c.7)](https://www.legislation.gov.uk/ukpga/2015/7). Section 79 was amended by section 18 of, and paragraph 19 of Schedule 7 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34) and by paragraph 4 of Schedule 10 to the Planning Act 2008.
 

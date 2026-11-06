@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Requirements in relation to the statement of purpose[^key-97137126f33fe47753fd6e9e2053e3ff]
+## 4. Requirements in relation to the statement of purpose[^c-97137126f33fe47753fd6e9e2053e3ff]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97137126f33fe47753fd6e9e2053e3ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/169/regulation/4) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-97137126f33fe47753fd6e9e2053e3ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/169/regulation/4) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

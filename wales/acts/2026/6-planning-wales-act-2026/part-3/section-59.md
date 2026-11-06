@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Planning authority not to consider invalid application[^key-9dc47d78669ee19bc6d313405d8958ec]
+## 59. Planning authority not to consider invalid application[^c-9dc47d78669ee19bc6d313405d8958ec]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dc47d78669ee19bc6d313405d8958ec]: Commencement: S. 59 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9dc47d78669ee19bc6d313405d8958ec]: Commencement: S. 59 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-### PART 1 — OFFENCES SPECIFIED FOR THE PURPOSES OF REGULATION 25(3)(b)[^key-c6e6050ab0fcf9382f14c595c5d3640c]
+### PART 1 — OFFENCES SPECIFIED FOR THE PURPOSES OF REGULATION 25(3)(b)[^c-c6e6050ab0fcf9382f14c595c5d3640c]
 
 Regulation 23(3)
 
@@ -36,7 +36,7 @@ Any of the following offences against an adult—
 - (f) an offence of inducement, threat or deception to procure sexual activity with a person with a mental disorder under section 34 of that Act, if the touching involved fell within subsection (2) of that section; and
 - (g) an offence of causing a person with a mental disorder to engage in or agree to engage in sexual activity by inducement, threat or deception under section 35 of that Act, if the activity fell within subsection (2) of that section.
 
-**1A.**[^key-8ccca98c1d39c82c1cf48c4c1ed0379f] Any of the following offences—
+**1A.**[^c-8ccca98c1d39c82c1cf48c4c1ed0379f] Any of the following offences—
 
 - (a) an offence of virginity testing under section 136 of the Health and Care Act 2022,
 - (b) an offence of offering to carry out virginity testing under section 137 of that Act,
@@ -45,7 +45,7 @@ Any of the following offences against an adult—
 - (e) an offence of offering to carry out hymenoplasty under section 149 of that Act, and
 - (f) an offence of aiding or abetting etc a person to carry out hymenoplasty under section 150 of that Act.
 
-#### 2. Offences in Scotland[^key-3ac1236598a74248a8baeecae92fa237]
+#### 2. Offences in Scotland[^c-3ac1236598a74248a8baeecae92fa237]
 
 An offence under section 1 (rape) and section 18 (rape of a young child) of the Sexual Offences (Scotland) Act 2009.
 
@@ -57,7 +57,7 @@ An offence under section 1 (rape) and section 18 (rape of a young child) of the 
 
 **6.** An offence under section 3 of the Sexual Offences (Amendment) Act 2000 (abuse of trust) [^c10823111].
 
-**6A.**[^key-b978ad643e51221c0625baf99a74f8e2] Any of the following offences—
+**6A.**[^c-b978ad643e51221c0625baf99a74f8e2] Any of the following offences—
 
 - (a) an offence of virginity testing under section 140 of the Health and Care Act 2022,
 - (b) an offence of offering to carry out virginity testing under section 141 of that Act,
@@ -66,7 +66,7 @@ An offence under section 1 (rape) and section 18 (rape of a young child) of the 
 - (e) an offence of offering to carry out hymenoplasty under section 153 of that Act, and
 - (f) an offence of aiding or abetting etc a person to carry out hymenoplasty under section 154 of that Act.
 
-#### 7. Offences in Northern Ireland[^key-507a22c8015ca81a84a957659cd8ccd8]
+#### 7. Offences in Northern Ireland[^c-507a22c8015ca81a84a957659cd8ccd8]
 
 An offence under Article 5 (rape) and Article 12 (rape of a child under 13) of the Sexual Offences (Northern Ireland) Order 2008.
 
@@ -74,11 +74,11 @@ An offence under Article 5 (rape) and Article 12 (rape of a child under 13) of t
 
 **9.** An offence under Article 3 of the Protection of Children (Northern Ireland) Order 1978 (indecent photographs) [^c10823141].
 
-**10.**[^key-e89b1079d0796342a67225265258dc3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e89b1079d0796342a67225265258dc3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** An offence contrary to Article 15 of the Criminal Justice (Evidence, Etc.) (Northern Ireland) Order 1988 (possession of indecent photographs of children) [^c10823161].
 
-**11A.**[^key-6dcb080dee3b705a32e75e62325bb8b2] Any of the following offences—
+**11A.**[^c-6dcb080dee3b705a32e75e62325bb8b2] Any of the following offences—
 
 - (a) an offence of virginity testing under section 144 of the Health and Care Act 2022,
 - (b) an offence of offering to carry out virginity testing under section 145 of that Act,
@@ -141,29 +141,29 @@ Regulation 23(4)
 
 ## Annotations
 
-[^key-c6e6050ab0fcf9382f14c595c5d3640c]: Textual amendment: Words in Sch. 3 Pt. 1 heading substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2013/985/regulation/8/a)
+[^c-c6e6050ab0fcf9382f14c595c5d3640c]: Textual amendment: Words in Sch. 3 Pt. 1 heading substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2013/985/regulation/8/a)
 
 [^c10823071]: Marginal citation: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-8ccca98c1d39c82c1cf48c4c1ed0379f]: Textual amendment: [Sch. 3 Pt. 1 para. 1A](https://www.legislation.gov.uk/uksi/2005/389/schedule/3/part/1/paragraph/1A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [130(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/130/2/a)
+[^c-8ccca98c1d39c82c1cf48c4c1ed0379f]: Textual amendment: [Sch. 3 Pt. 1 para. 1A](https://www.legislation.gov.uk/uksi/2005/389/schedule/3/part/1/paragraph/1A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [130(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/130/2/a)
 
-[^key-3ac1236598a74248a8baeecae92fa237]: Textual amendment: Sch. 3 paras. 2, 3 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2013/985/regulation/8/b)
+[^c-3ac1236598a74248a8baeecae92fa237]: Textual amendment: Sch. 3 paras. 2, 3 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2013/985/regulation/8/b)
 
 [^c10823101]: Marginal citation: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45). Section 52A was inserted by section 161 of the [Criminal Justice Act 1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33).
 
 [^c10823111]: Marginal citation: [2000 c. 44](https://www.legislation.gov.uk/ukpga/2000/44).
 
-[^key-b978ad643e51221c0625baf99a74f8e2]: Textual amendment: [Sch. 3 Pt. 1 para. 6A](https://www.legislation.gov.uk/uksi/2005/389/schedule/3/part/1/paragraph/6A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [130(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/130/2/b)
+[^c-b978ad643e51221c0625baf99a74f8e2]: Textual amendment: [Sch. 3 Pt. 1 para. 6A](https://www.legislation.gov.uk/uksi/2005/389/schedule/3/part/1/paragraph/6A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [130(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/130/2/b)
 
-[^key-507a22c8015ca81a84a957659cd8ccd8]: Textual amendment: Sch. 3 paras. 7, 8 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2013/985/regulation/8/c)
+[^c-507a22c8015ca81a84a957659cd8ccd8]: Textual amendment: Sch. 3 paras. 7, 8 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2013/985/regulation/8/c)
 
 [^c10823141]: Marginal citation: [S.I. 1978/1047 (N.I.17)](https://www.legislation.gov.uk/nisi/1978/1047).
 
-[^key-e89b1079d0796342a67225265258dc3c]: Textual amendment: Sch. 3 para. 10 omitted (1.7.2013) by virtue of [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2013/985/regulation/8/d)
+[^c-e89b1079d0796342a67225265258dc3c]: Textual amendment: Sch. 3 para. 10 omitted (1.7.2013) by virtue of [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2013/985/regulation/8/d)
 
 [^c10823161]: Marginal citation: [S.I. 1988/1847 (N.I.17)](https://www.legislation.gov.uk/nisi/1988/1847).
 
-[^key-6dcb080dee3b705a32e75e62325bb8b2]: Textual amendment: [Sch. 3 Pt. 1 para. 11A](https://www.legislation.gov.uk/uksi/2005/389/schedule/3/part/1/paragraph/11A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [130(2)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/130/2/c)
+[^c-6dcb080dee3b705a32e75e62325bb8b2]: Textual amendment: [Sch. 3 Pt. 1 para. 11A](https://www.legislation.gov.uk/uksi/2005/389/schedule/3/part/1/paragraph/11A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [130(2)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/130/2/c)
 
 [^c10823171]: Marginal citation: [1956 c. 69](https://www.legislation.gov.uk/ukpga/1956/69).
 

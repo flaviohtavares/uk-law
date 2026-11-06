@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.26. Procedure at meetings[^key-b33410189e13ed721d1a057bd3992b25]
+## 3.26. Procedure at meetings[^c-b33410189e13ed721d1a057bd3992b25]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b33410189e13ed721d1a057bd3992b25]: Commencement: [Rule 3.26](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.26) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b33410189e13ed721d1a057bd3992b25]: Commencement: [Rule 3.26](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.26) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 564U. Arrangements not unit trust scheme or offshore fund[^key-da836259ed8c8af04bb84f2af6a0c5a7][^M_F_8ca1c352-5adf-4014-ecb2-7928a7709513]
+## 564U. Arrangements not unit trust scheme or offshore fund[^c-da836259ed8c8af04bb84f2af6a0c5a7][^M_F_8ca1c352-5adf-4014-ecb2-7928a7709513]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ Investment bond arrangements are not—
 
 ## Annotations
 
-[^key-da836259ed8c8af04bb84f2af6a0c5a7]: Modification: S. 564U(b) modified (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 9 para. 38](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/38) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-da836259ed8c8af04bb84f2af6a0c5a7]: Modification: S. 564U(b) modified (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 9 para. 38](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/38) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^M_F_8ca1c352-5adf-4014-ecb2-7928a7709513]: Textual amendment: S. 564U inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/22) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

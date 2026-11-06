@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Surviving scheme partner[^key-a044af3a8d933343b36e416533bce444]
+## 114. Surviving scheme partner[^c-a044af3a8d933343b36e416533bce444]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a044af3a8d933343b36e416533bce444]: Textual amendment: [Reg. 114](https://www.legislation.gov.uk/uksi/2015/94/regulation/114) substituted (with effect from 1.4.2015 of the amending S.I.) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/5), [87](https://www.legislation.gov.uk/uksi/2019/418/regulation/87)
+[^c-a044af3a8d933343b36e416533bce444]: Textual amendment: [Reg. 114](https://www.legislation.gov.uk/uksi/2015/94/regulation/114) substituted (with effect from 1.4.2015 of the amending S.I.) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/5), [87](https://www.legislation.gov.uk/uksi/2019/418/regulation/87)

@@ -43,7 +43,7 @@ as may, with the consent of the Treasury, be determined by the Minister or the S
 (4) The area in respect of which the Authority shall carry out its functions relating to fisheries shall be the whole of England and Wales, together with—
 
 - (a) such part of the territorial sea adjacent to England and Wales as extends for six miles from the baselines from which the breadth of that sea is measured; and
-- (b) in the case of subsection (1) above and the Salmon and Freshwater Fisheries Act 1975[^key-d06bf088d5ec327a140fad570a20a7e4] , so much of the River Esk with its banks and tributary streams up to their source as is situated in Scotland,
+- (b) in the case of subsection (1) above and the Salmon and Freshwater Fisheries Act 1975[^c-d06bf088d5ec327a140fad570a20a7e4] , so much of the River Esk with its banks and tributary streams up to their source as is situated in Scotland,
 
 but, in the case of that subsection and those Acts, excluding the River Tweed, that is to say, “the river” within the meaning of the [^c3797501]Tweed Fisheries Amendment Act 1859, as amended by byelaws.
 
@@ -57,6 +57,6 @@ but, in the case of that subsection and those Acts, excluding the River Tweed, t
 
 [^c3797471]: Textual amendment: Ss. 13, 23, 141(1)–(4)(7), 172 repealed (E.W.) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [s. 3](https://www.legislation.gov.uk/ukpga/1991/60/section/3), [Sch. 3 Pt.I](https://www.legislation.gov.uk/ukpga/1991/60/schedule/3/part/I) (with [s. 2](https://www.legislation.gov.uk/ukpga/1991/60/section/2), [Sch. 2 paras. 10](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/10), [14(1)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/14/1), [15](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/15))
 
-[^key-d06bf088d5ec327a140fad570a20a7e4]: Textual amendment: Words in [s. 141(4)(b)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/4/b) substituted (27.3.2009) by [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 8(a)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/8/a) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-d06bf088d5ec327a140fad570a20a7e4]: Textual amendment: Words in [s. 141(4)(b)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/4/b) substituted (27.3.2009) by [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 8(a)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/8/a) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
 
 [^c3797501]: Marginal citation: [1859 c. lxx](https://www.legislation.gov.uk/ukla/1859/70).

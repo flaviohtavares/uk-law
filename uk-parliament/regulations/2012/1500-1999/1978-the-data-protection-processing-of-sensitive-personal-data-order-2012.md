@@ -32,7 +32,7 @@ summary: ''
 
 Data Protection
 
-The Data Protection (Processing of Sensitive Personal Data) Order 2012 (revoked)[^key-4216437de61a22772c96fdaeab2852c5]
+The Data Protection (Processing of Sensitive Personal Data) Order 2012 (revoked)[^c-4216437de61a22772c96fdaeab2852c5]
 
 Made
 
@@ -40,24 +40,24 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-4216437de61a22772c96fdaeab2852c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4216437de61a22772c96fdaeab2852c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4216437de61a22772c96fdaeab2852c5]
+## 1. Citation and commencement[^c-4216437de61a22772c96fdaeab2852c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Circumstances specified for the purposes of processing sensitive personal data[^key-4216437de61a22772c96fdaeab2852c5]
+## 2. Circumstances specified for the purposes of processing sensitive personal data[^c-4216437de61a22772c96fdaeab2852c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4216437de61a22772c96fdaeab2852c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4216437de61a22772c96fdaeab2852c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4216437de61a22772c96fdaeab2852c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4216437de61a22772c96fdaeab2852c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4216437de61a22772c96fdaeab2852c5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1978) revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 370](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/370) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-4216437de61a22772c96fdaeab2852c5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1978) revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 370](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/370) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

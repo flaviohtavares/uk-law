@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Priority removal notices: expedited appeals[^key-0f52f51283b38495f51243b6b270207b]
+## 23. Priority removal notices: expedited appeals[^c-0f52f51283b38495f51243b6b270207b]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f52f51283b38495f51243b6b270207b]: Commencement: S. 23 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-0f52f51283b38495f51243b6b270207b]: Commencement: S. 23 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

@@ -35,7 +35,7 @@ Section 141.
 
 (4) The provisions to which this paragraph applies are the provisions of—
 
-- (a) the *(affected by repeal, see note)*[^key-8f0f157f361095cbf3c66b2114a18504] [^c3801681]Sea Fisheries Regulation Act 1966; *(affected by repeal, see note)*[^key-8f0f157f361095cbf3c66b2114a18504]
+- (a) the *(affected by repeal, see note)*[^c-8f0f157f361095cbf3c66b2114a18504] [^c3801681]Sea Fisheries Regulation Act 1966; *(affected by repeal, see note)*[^c-8f0f157f361095cbf3c66b2114a18504]
 - (b) the [^c3801691]Salmon and Freshwater Fisheries Act 1975; and
 - (c) any local statutory provision or subordinate legislation which is in force immediately before the transfer date and—
   - (i) relates to the carrying out by a water authority of any function relating to fisheries; or
@@ -59,21 +59,21 @@ Section 141.
 
 ### The Diseases of Fish Act 1937 (c. 33)
 
-**3.**[^key-cb487cf60c368808fc661f8a870deddc][^key-de8b86da8e6f9a9f2ecd2b67e0d57063] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cb487cf60c368808fc661f8a870deddc][^c-de8b86da8e6f9a9f2ecd2b67e0d57063] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Salmon and Freshwater Fisheries (Protection) (Scotland) Act 1951 (c. 26)
 
 **Not yet in force.**
 
-**4.**[^key-f3db5392dafefa79f9be2e6dd8bfffc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f3db5392dafefa79f9be2e6dd8bfffc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Sea Fisheries Regulation Act 1966 (c. 38)
 
-**5.** (1)[^key-2bc8bcff2a56ca9293bab966f2bd24c3] The provisions of section 1 of the Sea Fisheries Regulation Act 1966 (establishment of fisheries committees) which provide that an order under that section modifying a previous such order is to be made only on such an application and after such consultation as is mentioned in that section shall not apply to an order under that section which contains a statement that the only provision made by the order is provision which appears to the Minister making the order to be appropriate in consequence of any of the provisions of this Act. *(affected by repeal, see note)*[^key-2bc8bcff2a56ca9293bab966f2bd24c3]
+**5.** (1)[^c-2bc8bcff2a56ca9293bab966f2bd24c3] The provisions of section 1 of the Sea Fisheries Regulation Act 1966 (establishment of fisheries committees) which provide that an order under that section modifying a previous such order is to be made only on such an application and after such consultation as is mentioned in that section shall not apply to an order under that section which contains a statement that the only provision made by the order is provision which appears to the Minister making the order to be appropriate in consequence of any of the provisions of this Act. *(affected by repeal, see note)*[^c-2bc8bcff2a56ca9293bab966f2bd24c3]
 
 (2)[^c3801761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In section 18(3) of that Act (provision where a water authority or harbour authority have the powers of a local fisheries committee), for the words from “section 36(3)” to “authority)” there shall be substituted the words *(affected by repeal, see note)*[^key-2bc8bcff2a56ca9293bab966f2bd24c3] “section 186 of the Water Act 1989 (procedure relating to byelaws made by the National Rivers Authority)” *(affected by repeal, see note)*[^key-2bc8bcff2a56ca9293bab966f2bd24c3].
+(3) In section 18(3) of that Act (provision where a water authority or harbour authority have the powers of a local fisheries committee), for the words from “section 36(3)” to “authority)” there shall be substituted the words *(affected by repeal, see note)*[^c-2bc8bcff2a56ca9293bab966f2bd24c3] “section 186 of the Water Act 1989 (procedure relating to byelaws made by the National Rivers Authority)” *(affected by repeal, see note)*[^c-2bc8bcff2a56ca9293bab966f2bd24c3].
 
 ### The Sea Fish (Conservation) Act 1967 (c. 84)
 
@@ -92,9 +92,9 @@ Section 141.
 
 “(c) section 107(1)(a) of the Water Act 1989;”.
 
-(3)[^key-188d751756a51978306f002eaee67c8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-188d751756a51978306f002eaee67c8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-84da005a7f81832dc31c8364289ba714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-84da005a7f81832dc31c8364289ba714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 25(2) (licences to fish), for the words “of a description, in an area and for a period” there shall be substituted the words “of such a description, in such area or areas and for such period as is”.
 
@@ -123,7 +123,7 @@ Section 141.
 (9) In section 35 (power to require production of fishing licences)—
 
 - (a) in subsection (1), for the words “in a water authority area” there shall be substituted the words “in any area”;
-- (b)[^key-8e3750b0c2d1fe88bc421bea339f4c32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8e3750b0c2d1fe88bc421bea339f4c32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (3), for the words “the office of the water authority” there shall be substituted the words “the appropriate office of the National Rivers Authority”; and
 - (d)[^c3801921] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -131,7 +131,7 @@ Section 141.
 
 (11) In section 41(1) (interpretation), in the definition of “authorised officer”, the words “**acting within the water authority area**” shall be omitted.
 
-(12)[^key-7c5f0e4ba7662af562eab87323f59340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-7c5f0e4ba7662af562eab87323f59340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) In Schedule 2 (duty on licences)—
 
@@ -177,7 +177,7 @@ Section 141.
 
 ### The Diseases of Fish Act 1983 (c. 30)
 
-**8.**[^key-1fd11fdc9fac129f199bcc008aa0f29d][^key-a78297c472e82b993cf7bbb823c396c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1fd11fdc9fac129f199bcc008aa0f29d][^c-a78297c472e82b993cf7bbb823c396c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Salmon Act 1986 (c. 62)
 
@@ -189,19 +189,19 @@ Section 141.
 
 [^c3801671]: Marginal citation: [1937 c. 33](https://www.legislation.gov.uk/ukpga/1937/33).
 
-[^key-8f0f157f361095cbf3c66b2114a18504]: Textual amendment: [Sch. 17 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/1/4/a) repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8) [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
+[^c-8f0f157f361095cbf3c66b2114a18504]: Textual amendment: [Sch. 17 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/1/4/a) repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8) [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
 
 [^c3801681]: Marginal citation: [1966 c. 38](https://www.legislation.gov.uk/ukpga/1966/38).
 
 [^c3801691]: Marginal citation: [1975 c. 51](https://www.legislation.gov.uk/ukpga/1975/51).
 
-[^key-cb487cf60c368808fc661f8a870deddc]: Textual amendment: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/3) omitted (E.W.) (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/8/a) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2))
+[^c-cb487cf60c368808fc661f8a870deddc]: Textual amendment: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/3) omitted (E.W.) (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/8/a) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2))
 
-[^key-de8b86da8e6f9a9f2ecd2b67e0d57063]: Textual amendment: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/3) omitted (S.) (27.3.2009) by virtue of [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 8(b)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/8/b) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-de8b86da8e6f9a9f2ecd2b67e0d57063]: Textual amendment: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/3) omitted (S.) (27.3.2009) by virtue of [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 8(b)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/8/b) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
 
-[^key-f3db5392dafefa79f9be2e6dd8bfffc4]: Textual amendment: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/4) repealed (15.11.2006) by [The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/part/2)
+[^c-f3db5392dafefa79f9be2e6dd8bfffc4]: Textual amendment: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/4) repealed (15.11.2006) by [The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/part/2)
 
-[^key-2bc8bcff2a56ca9293bab966f2bd24c3]: Textual amendment: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/5) repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8) [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
+[^c-2bc8bcff2a56ca9293bab966f2bd24c3]: Textual amendment: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/5) repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8) [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
 
 [^c3801761]: Textual amendment: Sch. 17 para. 5(2) repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3(xxv)](https://www.legislation.gov.uk/uksi/1996/186/article/3/xxv)
 
@@ -211,18 +211,18 @@ Section 141.
 
 [^c3801901]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-188d751756a51978306f002eaee67c8e]: Textual amendment: [Sch. 17 para. 7(3)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/7/3) repealed (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
+[^c-188d751756a51978306f002eaee67c8e]: Textual amendment: [Sch. 17 para. 7(3)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/7/3) repealed (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
 
-[^key-84da005a7f81832dc31c8364289ba714]: Textual amendment: [Sch. 17 para. 7(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/7/4) repealed (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
+[^c-84da005a7f81832dc31c8364289ba714]: Textual amendment: [Sch. 17 para. 7(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/7/4) repealed (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
 
-[^key-8e3750b0c2d1fe88bc421bea339f4c32]: Textual amendment: [Sch. 17 para. 7(9)(b)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/7/9/b) repealed (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
+[^c-8e3750b0c2d1fe88bc421bea339f4c32]: Textual amendment: [Sch. 17 para. 7(9)(b)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/7/9/b) repealed (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
 
 [^c3801921]: Textual amendment: Sch. 17 para. 7(9)(d) repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3(xxv)](https://www.legislation.gov.uk/uksi/1996/186/article/3/xxv)
 
-[^key-7c5f0e4ba7662af562eab87323f59340]: Textual amendment: [Sch. 17 para. 7(12)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/7/12) repealed (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
+[^c-7c5f0e4ba7662af562eab87323f59340]: Textual amendment: [Sch. 17 para. 7(12)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/7/12) repealed (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
 
-[^key-1fd11fdc9fac129f199bcc008aa0f29d]: Textual amendment: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/8) omitted (E.W.) (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/8/a) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2))
+[^c-1fd11fdc9fac129f199bcc008aa0f29d]: Textual amendment: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/8) omitted (E.W.) (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/8/a) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2))
 
-[^key-a78297c472e82b993cf7bbb823c396c8]: Textual amendment: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/8) omitted (S.) (27.3.2009) by virtue of [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 8(b)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/8/b) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-a78297c472e82b993cf7bbb823c396c8]: Textual amendment: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/8) omitted (S.) (27.3.2009) by virtue of [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 8(b)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/8/b) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
 
 [^c3802011]: Textual amendment: [Sch. 17 para. 9(1)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/17/paragraph/9/1) repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3(xxv)](https://www.legislation.gov.uk/uksi/1996/186/article/3/xxv)

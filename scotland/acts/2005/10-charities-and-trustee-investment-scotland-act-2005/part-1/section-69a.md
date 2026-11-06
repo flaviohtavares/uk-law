@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69A. Disqualification: specified offences[^key-2a3f11737b91c1df728f6cea165ead4d]
+## 69A. Disqualification: specified offences[^c-2a3f11737b91c1df728f6cea165ead4d]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a3f11737b91c1df728f6cea165ead4d]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/asp/2005/10/section/69A) inserted (30.6.2025 for specified purposes, 31.8.2025 in so far as not already in force) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 4(3)](https://www.legislation.gov.uk/asp/2023/5/section/4/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)
+[^c-2a3f11737b91c1df728f6cea165ead4d]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/asp/2005/10/section/69A) inserted (30.6.2025 for specified purposes, 31.8.2025 in so far as not already in force) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 4(3)](https://www.legislation.gov.uk/asp/2023/5/section/4/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)

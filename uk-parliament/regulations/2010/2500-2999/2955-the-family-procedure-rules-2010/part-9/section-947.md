@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 947. Communication of information with the permission of the court[^key-997827f76ee683f01a9d74836ca942e0]
+## 947. Communication of information with the permission of the court[^c-997827f76ee683f01a9d74836ca942e0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A practice direction may make provision in relation to the court giving permissi
 
 ## Annotations
 
-[^key-997827f76ee683f01a9d74836ca942e0]: Textual amendment: [Rule 9.47](https://www.legislation.gov.uk/uksi/2010/2955/rule/9.47) inserted (20.7.2026) by [The Family Procedure (Amendment) Rules 2026 (S.I. 2026/699)](https://www.legislation.gov.uk/uksi/2026/699), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/699/rule/1/3), [3](https://www.legislation.gov.uk/uksi/2026/699/rule/3)
+[^c-997827f76ee683f01a9d74836ca942e0]: Textual amendment: [Rule 9.47](https://www.legislation.gov.uk/uksi/2010/2955/rule/9.47) inserted (20.7.2026) by [The Family Procedure (Amendment) Rules 2026 (S.I. 2026/699)](https://www.legislation.gov.uk/uksi/2026/699), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/699/rule/1/3), [3](https://www.legislation.gov.uk/uksi/2026/699/rule/3)

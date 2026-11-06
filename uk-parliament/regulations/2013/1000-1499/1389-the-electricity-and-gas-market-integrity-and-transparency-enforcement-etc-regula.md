@@ -71,8 +71,8 @@ In these Regulations—
 - “**investigation**” means an investigation conducted in accordance with regulation 10;
 - “**premises**” has the same meaning as in section 23 of the Police and Criminal Evidence Act 1984 [^c21812191];
 - “**regulated person**” has the meaning given in regulation 3;
-- “regulation 39 requirement” means a prohibition against publication imposed by regulation 39 on any person to whom the Authority has given or copied a warning or decision notice;[^key-99ad72501be02ad9af78c2fec40de86b]
-- “[^key-d52f5b435810b57602b29d68a7eb4347]**REMIT**” means—
+- “regulation 39 requirement” means a prohibition against publication imposed by regulation 39 on any person to whom the Authority has given or copied a warning or decision notice;[^c-99ad72501be02ad9af78c2fec40de86b]
+- “[^c-d52f5b435810b57602b29d68a7eb4347]**REMIT**” means—
   - (a) in relation to anything done before IP completion day, Regulation (EU) No 1227/2011 of the European Parliament and of the Council on wholesale energy market integrity and transparency, as it applied immediately before IP completion day;
   - (b) in relation to anything done on or after IP completion day, that Regulation as it applies in the law of the United Kingdom on or after IP completion day;
 - “**REMIT requirement**” has the meaning given in regulation 4;
@@ -95,7 +95,7 @@ In these Regulations—
 - (a) Article 3(1) and (5) (prohibition of insider trading);
 - (b) Article 4(1), (2) and (3) (obligation to publish inside information);
 - (c) Article 5 (prohibition of market manipulation);
-- (ca)[^key-f86fd6ae95336ddd33ee6db5ab571886] Article 8(1) and (5) (data collection);
+- (ca)[^c-f86fd6ae95336ddd33ee6db5ab571886] Article 8(1) and (5) (data collection);
 - (cb) Article 9(1), (4) and (5) (registration of market participants);
 - (d) Article 15 (obligations of persons professionally arranging transactions).
 
@@ -109,7 +109,7 @@ Schedule 2 (service of notices) has effect.
 
 ## PART 2 — Functions of the Authority
 
-### 6A. Authority's general functions[^key-3c8cc9faefac2bae12910047cc331f81]
+### 6A. Authority's general functions[^c-3c8cc9faefac2bae12910047cc331f81]
 
 The Authority must, so far as it appears to the Authority to be appropriate, monitor the integrity and transparency of the wholesale energy market.
 
@@ -210,13 +210,13 @@ as it may reasonably require.
 (1) The Authority may conduct an investigation if it appears to the Authority that there are circumstances suggesting that a person—
 
 - (a) may have failed to comply with a REMIT requirement;
-- (b)[^key-d44116442e5aeb130bb774be5fe365fc] may have failed to comply with—
+- (b)[^c-d44116442e5aeb130bb774be5fe365fc] may have failed to comply with—
   - (i) a requirement imposed by or under regulation 8; or
   - (ii) a regulation 39 requirement;
-- (c) may be guilty of an offence under regulation 20; or[^key-1f5a4b17ff7f82dc1627259108d5f9b3]
+- (c) may be guilty of an offence under regulation 20; or[^c-1f5a4b17ff7f82dc1627259108d5f9b3]
 - (d) may be guilty of an offence under the Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015.
 
-(2)[^key-b5898f39e01fc6f5725e7cf20cfd9058] For the purposes of an investigation under paragraph (1)(a),(c) or (d) GEMA">the Authority has the powers conferred by regulations 11 to 19.
+(2)[^c-b5898f39e01fc6f5725e7cf20cfd9058] For the purposes of an investigation under paragraph (1)(a),(c) or (d) GEMA">the Authority has the powers conferred by regulations 11 to 19.
 
 (3) For the purposes of an investigation under paragraph (1)(b) the Authority has the powers conferred by regulations 11 to 15.
 
@@ -473,7 +473,7 @@ is guilty of an offence.
 
 (8) Any person who intentionally obstructs the exercise of any rights conferred by a warrant under this Part is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months or a fine not exceeding level 5 on the standard scale, or both.
 
-### General restrictions on disclosure of information[^key-d9d236c10691d4ba7d4eb26e5955f8e5]
+### General restrictions on disclosure of information[^c-d9d236c10691d4ba7d4eb26e5955f8e5]
 
 #### 20A. General restrictions on disclosure of information
 
@@ -508,7 +508,7 @@ is guilty of an offence.
 - (a) that there is a reasonable likelihood that any person will fail to comply with a requirement imposed by or under regulation 8; or
 - (b) that any person is failing or has failed to comply with a requirement imposed by or under regulation 8 and that there is a reasonable likelihood that the failure to comply will continue or be repeated.
 
-(2A)[^key-33288321fc17aae25574480757151bfa] Paragraph (3) also applies if, on the application of the Authority, the court is satisfied—
+(2A)[^c-33288321fc17aae25574480757151bfa] Paragraph (3) also applies if, on the application of the Authority, the court is satisfied—
 
 - (a) that there is a reasonable likelihood that any person will fail to comply with a regulation 39 requirement; or
 - (b) that any person is failing or has failed to comply with a regulation 39 requirement.
@@ -520,9 +520,9 @@ is guilty of an offence.
 (5) If, on the application of the Authority, the court is satisfied—
 
 - (a) that any person (“FP”) is failing or has failed to comply with—
-  - (i) a REMIT requirement; [^key-253b27aaf328b68514be1618687df6ec]...
-  - (ii) a requirement imposed by or under regulation 8; or[^key-05bde620aa6ed212717eb17879b80650]
-  - (iii)[^key-7c7d1a2e210e375055e8499f75b635a7] a regulation 39 requirement, and
+  - (i) a REMIT requirement; [^c-253b27aaf328b68514be1618687df6ec]...
+  - (ii) a requirement imposed by or under regulation 8; or[^c-05bde620aa6ed212717eb17879b80650]
+  - (iii)[^c-7c7d1a2e210e375055e8499f75b635a7] a regulation 39 requirement, and
 - (b) that there are steps which could be taken for remedying the failure to comply;
 
 the court may make an order requiring FP to take such steps as the court may direct to remedy it.
@@ -614,13 +614,13 @@ the court may make an order requiring FP to take such steps as the court may dir
 
 (1) If the Authority is satisfied that a person (“FP”)—
 
-- (a) has failed to comply with a REMIT requirement; [^key-e3057df1c44afa8c8621efaf1afbc1cc]...
-- (b) has failed to comply with a requirement imposed by or under regulation 8; or[^key-7619b37152645a6275744fe927e271d4]
-- (c)[^key-98af6782bb760c1efd1b973d1a6bd744] has failed to comply with a regulation 39 requirement,
+- (a) has failed to comply with a REMIT requirement; [^c-e3057df1c44afa8c8621efaf1afbc1cc]...
+- (b) has failed to comply with a requirement imposed by or under regulation 8; or[^c-7619b37152645a6275744fe927e271d4]
+- (c)[^c-98af6782bb760c1efd1b973d1a6bd744] has failed to comply with a regulation 39 requirement,
 
 it may impose on FP a penalty of such amount as it considers appropriate.
 
-(2) If the Authority is entitled to impose a penalty on FP under this regulation it may, instead of imposing a penalty on FP, publish a statement to the effect that FP has failed to comply with a REMIT requirement , a requirement imposed by or under regulation 8 or a regulation 39 requirement[^key-9d837b89ea7a190cfd535509155bb67a] (as the case may be).
+(2) If the Authority is entitled to impose a penalty on FP under this regulation it may, instead of imposing a penalty on FP, publish a statement to the effect that FP has failed to comply with a REMIT requirement , a requirement imposed by or under regulation 8 or a regulation 39 requirement[^c-9d837b89ea7a190cfd535509155bb67a] (as the case may be).
 
 ### 27. Statement of policy
 
@@ -631,14 +631,14 @@ it may impose on FP a penalty of such amount as it considers appropriate.
 - (a) the seriousness of the failure in question in relation to the nature of the requirement not complied with;
 - (b) the behaviour of the person, including—
   - (i) the extent to which the behaviour was deliberate or reckless;
-  - (ii) whether the person believed, on reasonable grounds, that the behaviour did not fall within regulation 26(1)(a), (b) or (c)[^key-a6fe7672f2d8edacaf328d8f967b80d7];
-  - (iii) whether the person took all reasonable precautions and exercised due diligence to avoid behaving in a way which fell within regulation 26(1)(a), (b) or (c)[^key-5f973d8514691738827cee4e1e290c14]; and
+  - (ii) whether the person believed, on reasonable grounds, that the behaviour did not fall within regulation 26(1)(a), (b) or (c)[^c-a6fe7672f2d8edacaf328d8f967b80d7];
+  - (iii) whether the person took all reasonable precautions and exercised due diligence to avoid behaving in a way which fell within regulation 26(1)(a), (b) or (c)[^c-5f973d8514691738827cee4e1e290c14]; and
 - (c) whether the person on whom the penalty is to be imposed is an individual.
 
 (3) A statement issued under this regulation must include an indication of the circumstances in which the Authority is expected to regard a person (“FP”) as—
 
-- (a) having a reasonable belief that FP's behaviour did not amount to a failure to comply with a REMIT requirement, a requirement imposed by or under regulation 8 or a regulation 39 requirement[^key-63bd0ab8d35460951f15ddc697a40f91]; or
-- (b) having taken reasonable precautions and exercised due diligence to avoid failing to comply with a REMIT requirement, a requirement imposed by or under regulation 8 or a regulation 39 requirement[^key-5d69bd876710e7330fca933941c9e164].
+- (a) having a reasonable belief that FP's behaviour did not amount to a failure to comply with a REMIT requirement, a requirement imposed by or under regulation 8 or a regulation 39 requirement[^c-63bd0ab8d35460951f15ddc697a40f91]; or
+- (b) having taken reasonable precautions and exercised due diligence to avoid failing to comply with a REMIT requirement, a requirement imposed by or under regulation 8 or a regulation 39 requirement[^c-5d69bd876710e7330fca933941c9e164].
 
 (4) The Authority may at any time alter or replace a statement issued under this regulation.
 
@@ -1282,7 +1282,7 @@ Regulation 6
 | --- | --- |
 | Leaving the document at the proper address | The business day after the day on which it is left at the proper address |
 | Post to an address in the United Kingdom | The second business day after posting |
-| Post to an address in any EEA State [^key-1428c9899ab250d5f64b5b1ceb5743b7]... | The fifth business day after posting |
+| Post to an address in any EEA State [^c-1428c9899ab250d5f64b5b1ceb5743b7]... | The fifth business day after posting |
 | Fax | The business day after the day on which the document is transmitted |
 | Other electronic means of communication | The business day after the day on which the document is transmitted |
 
@@ -1379,13 +1379,13 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c21812191]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 23 was amended by section 103(2) of the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
 
-[^key-99ad72501be02ad9af78c2fec40de86b]: Textual amendment: Words in reg. 2 inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/862/regulation/7)
+[^c-99ad72501be02ad9af78c2fec40de86b]: Textual amendment: Words in reg. 2 inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/862/regulation/7)
 
-[^key-d52f5b435810b57602b29d68a7eb4347]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Electricity and Gas (Market Integrity and Transparency) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/534)](https://www.legislation.gov.uk/uksi/2019/534), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/534/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2019/534/regulation/3/2) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d52f5b435810b57602b29d68a7eb4347]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Electricity and Gas (Market Integrity and Transparency) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/534)](https://www.legislation.gov.uk/uksi/2019/534), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/534/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2019/534/regulation/3/2) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f86fd6ae95336ddd33ee6db5ab571886]: Textual amendment: Reg. 4(ca)(cb) inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/862/regulation/8)
+[^c-f86fd6ae95336ddd33ee6db5ab571886]: Textual amendment: Reg. 4(ca)(cb) inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/862/regulation/8)
 
-[^key-3c8cc9faefac2bae12910047cc331f81]: Textual amendment: Reg. 6A inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2015/862/regulation/9)
+[^c-3c8cc9faefac2bae12910047cc331f81]: Textual amendment: Reg. 6A inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2015/862/regulation/9)
 
 [^c21812211]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -1393,11 +1393,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c21812231]: Marginal citation: Section 422 was amended by Schedule 3 to the [Financial Services and Markets Act 2000 (Controllers) Regulations 2009 (S.I. 2009/534)](https://www.legislation.gov.uk/uksi/2009/534).
 
-[^key-d44116442e5aeb130bb774be5fe365fc]: Textual amendment: Reg. 10(1)(b) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2015/862/regulation/10)
+[^c-d44116442e5aeb130bb774be5fe365fc]: Textual amendment: Reg. 10(1)(b) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2015/862/regulation/10)
 
-[^key-1f5a4b17ff7f82dc1627259108d5f9b3]: Textual amendment: Reg. 10(1)(d) and preceding word inserted (13.4.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015 (S.I. 2015/979)](https://www.legislation.gov.uk/uksi/2015/979), [regs. 1](https://www.legislation.gov.uk/uksi/2015/979/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/979/regulation/5/3)
+[^c-1f5a4b17ff7f82dc1627259108d5f9b3]: Textual amendment: Reg. 10(1)(d) and preceding word inserted (13.4.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015 (S.I. 2015/979)](https://www.legislation.gov.uk/uksi/2015/979), [regs. 1](https://www.legislation.gov.uk/uksi/2015/979/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/979/regulation/5/3)
 
-[^key-b5898f39e01fc6f5725e7cf20cfd9058]: Textual amendment: Reg. 10(2) substituted (13.4.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015 (S.I. 2015/979)](https://www.legislation.gov.uk/uksi/2015/979), [regs. 1](https://www.legislation.gov.uk/uksi/2015/979/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2015/979/regulation/5/4)
+[^c-b5898f39e01fc6f5725e7cf20cfd9058]: Textual amendment: Reg. 10(2) substituted (13.4.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015 (S.I. 2015/979)](https://www.legislation.gov.uk/uksi/2015/979), [regs. 1](https://www.legislation.gov.uk/uksi/2015/979/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2015/979/regulation/5/4)
 
 [^c21812241]: Marginal citation: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
@@ -1405,31 +1405,31 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c21812261]: Marginal citation: [1995 c. 39](https://www.legislation.gov.uk/ukpga/1995/39).
 
-[^key-d9d236c10691d4ba7d4eb26e5955f8e5]: Textual amendment: Regs. 20A, 20B and cross-heading inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2015/862/regulation/11)
+[^c-d9d236c10691d4ba7d4eb26e5955f8e5]: Textual amendment: Regs. 20A, 20B and cross-heading inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2015/862/regulation/11)
 
-[^key-33288321fc17aae25574480757151bfa]: Textual amendment: Reg. 21(2A) inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/12/1)
+[^c-33288321fc17aae25574480757151bfa]: Textual amendment: Reg. 21(2A) inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/12/1)
 
-[^key-253b27aaf328b68514be1618687df6ec]: Textual amendment: Word in reg. 21(5)(a)(i) omitted (1.7.2015) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2015/862/regulation/12/2/a)
+[^c-253b27aaf328b68514be1618687df6ec]: Textual amendment: Word in reg. 21(5)(a)(i) omitted (1.7.2015) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2015/862/regulation/12/2/a)
 
-[^key-05bde620aa6ed212717eb17879b80650]: Textual amendment: Word in reg. 21(5)(a)(ii) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2015/862/regulation/12/2/b)
+[^c-05bde620aa6ed212717eb17879b80650]: Textual amendment: Word in reg. 21(5)(a)(ii) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2015/862/regulation/12/2/b)
 
-[^key-7c7d1a2e210e375055e8499f75b635a7]: Textual amendment: Reg. 21(5)(a)(iii) inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2015/862/regulation/12/2/c)
+[^c-7c7d1a2e210e375055e8499f75b635a7]: Textual amendment: Reg. 21(5)(a)(iii) inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2015/862/regulation/12/2/c)
 
-[^key-e3057df1c44afa8c8621efaf1afbc1cc]: Textual amendment: Word in reg. 26(1)(a) omitted (1.7.2015) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [13(1)(a)](https://www.legislation.gov.uk/uksi/2015/862/regulation/13/1/a)
+[^c-e3057df1c44afa8c8621efaf1afbc1cc]: Textual amendment: Word in reg. 26(1)(a) omitted (1.7.2015) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [13(1)(a)](https://www.legislation.gov.uk/uksi/2015/862/regulation/13/1/a)
 
-[^key-7619b37152645a6275744fe927e271d4]: Textual amendment: Word in reg. 26(1)(b) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [13(1)(b)](https://www.legislation.gov.uk/uksi/2015/862/regulation/13/1/b)
+[^c-7619b37152645a6275744fe927e271d4]: Textual amendment: Word in reg. 26(1)(b) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [13(1)(b)](https://www.legislation.gov.uk/uksi/2015/862/regulation/13/1/b)
 
-[^key-98af6782bb760c1efd1b973d1a6bd744]: Textual amendment: Reg. 26(1)(c) inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [13(1)(c)](https://www.legislation.gov.uk/uksi/2015/862/regulation/13/1/c)
+[^c-98af6782bb760c1efd1b973d1a6bd744]: Textual amendment: Reg. 26(1)(c) inserted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [13(1)(c)](https://www.legislation.gov.uk/uksi/2015/862/regulation/13/1/c)
 
-[^key-9d837b89ea7a190cfd535509155bb67a]: Textual amendment: Words in reg. 26(2) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2015/862/regulation/13/2)
+[^c-9d837b89ea7a190cfd535509155bb67a]: Textual amendment: Words in reg. 26(2) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2015/862/regulation/13/2)
 
-[^key-a6fe7672f2d8edacaf328d8f967b80d7]: Textual amendment: Words in reg. 27(2)(b)(ii) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/14/1)
+[^c-a6fe7672f2d8edacaf328d8f967b80d7]: Textual amendment: Words in reg. 27(2)(b)(ii) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/14/1)
 
-[^key-5f973d8514691738827cee4e1e290c14]: Textual amendment: Words in reg. 27(2)(b)(iii) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/14/1)
+[^c-5f973d8514691738827cee4e1e290c14]: Textual amendment: Words in reg. 27(2)(b)(iii) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/14/1)
 
-[^key-63bd0ab8d35460951f15ddc697a40f91]: Textual amendment: Words in reg. 27(3)(a) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2015/862/regulation/14/2)
+[^c-63bd0ab8d35460951f15ddc697a40f91]: Textual amendment: Words in reg. 27(3)(a) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2015/862/regulation/14/2)
 
-[^key-5d69bd876710e7330fca933941c9e164]: Textual amendment: Words in reg. 27(3)(b) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2015/862/regulation/14/2)
+[^c-5d69bd876710e7330fca933941c9e164]: Textual amendment: Words in reg. 27(3)(b) substituted (1.7.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) (Amendment) Regulations 2015 (S.I. 2015/862)](https://www.legislation.gov.uk/uksi/2015/862), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/862/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2015/862/regulation/14/2)
 
 [^c21812271]: Marginal citation: [S.S.I. 2003/179](https://www.legislation.gov.uk/ssi/2003/179); regulation 5A was inserted by regulation 4(4) of the [Advice and Assistance and Civil Legal Aid (Transfer of Tribunal Functions) (No. 2) (Scotland) Regulations 2010 (S.S.I. 2010/239)](https://www.legislation.gov.uk/ssi/2010/239).
 
@@ -1443,7 +1443,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c21812321]: Marginal citation: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12); section 8 was amended by paragraph 4 of Schedule 3 to the [Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804).
 
-[^key-1428c9899ab250d5f64b5b1ceb5743b7]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/uksi/2013/1389/schedule/2/paragraph/6/1) omitted (31.12.2020) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/534)](https://www.legislation.gov.uk/uksi/2019/534), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/534/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2019/534/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1428c9899ab250d5f64b5b1ceb5743b7]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/uksi/2013/1389/schedule/2/paragraph/6/1) omitted (31.12.2020) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/534)](https://www.legislation.gov.uk/uksi/2019/534), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/534/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2019/534/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21812331]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44); section 30B was inserted by section 95(1) of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 

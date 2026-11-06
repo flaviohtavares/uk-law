@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Restriction on gaining possession[^key-5351a7730cc7a029a6e809df5f9a435d]
+## 90. Restriction on gaining possession[^c-5351a7730cc7a029a6e809df5f9a435d]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ a breach of section 82(3)(a) of this Act prevents the making of an order for pos
 
 ## Annotations
 
-[^key-5351a7730cc7a029a6e809df5f9a435d]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-5351a7730cc7a029a6e809df5f9a435d]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

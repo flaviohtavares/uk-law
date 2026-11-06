@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Oversight of adequacy of resources[^key-66a99d3df227362e0f2ee724214debc2]
+## 44. Oversight of adequacy of resources[^c-66a99d3df227362e0f2ee724214debc2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66a99d3df227362e0f2ee724214debc2]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2019/165/regulation/44) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-66a99d3df227362e0f2ee724214debc2]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2019/165/regulation/44) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

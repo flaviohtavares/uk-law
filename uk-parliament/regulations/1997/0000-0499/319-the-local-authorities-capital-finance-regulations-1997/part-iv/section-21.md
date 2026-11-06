@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Contracts with residuary bodies[^key-9bd325cad595fe1fd00d35b37d25bc58]
+## 21. Contracts with residuary bodies[^c-9bd325cad595fe1fd00d35b37d25bc58]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9bd325cad595fe1fd00d35b37d25bc58]: Commencement: Reg. 21 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-9bd325cad595fe1fd00d35b37d25bc58]: Commencement: Reg. 21 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00015]: Footnote: The Local Government Residuary Body (England) was established by article 3 of the Local Government Residuary Body (England) Order 1995 ([S.I. 1995/401](https://www.legislation.gov.uk/uksi/1995/401)).
 

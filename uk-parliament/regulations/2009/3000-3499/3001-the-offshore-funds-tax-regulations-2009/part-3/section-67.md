@@ -24,8 +24,8 @@ summary: ''
 
 (2) For the purposes of this regulation, a company is a wholly-owned subsidiary of an offshore fund if and so long as the whole of the issued share capital of the company is—
 
-- (a) in the case of an offshore fund falling within paragraph (a) of the definition of “offshore fund” in section 40A(2) of FA 2008 [^c19952261], directly or indirectly[^key-1e4a027151aa513e17fc203b391181ed] owned by the fund;
-- (b) in the case of an offshore fund falling within paragraph (b) of the definition of “offshore fund” in that enactment, directly or indirectly[^key-9d664acaf3c82c7483b9bda10dc2df6e] owned by the trustees of the fund for the benefit of the fund;
+- (a) in the case of an offshore fund falling within paragraph (a) of the definition of “offshore fund” in section 40A(2) of FA 2008 [^c19952261], directly or indirectly[^c-1e4a027151aa513e17fc203b391181ed] owned by the fund;
+- (b) in the case of an offshore fund falling within paragraph (b) of the definition of “offshore fund” in that enactment, directly or indirectly[^c-9d664acaf3c82c7483b9bda10dc2df6e] owned by the trustees of the fund for the benefit of the fund;
 - (c) in the case of an offshore fund falling within paragraph (c) of the definition of “offshore fund” in that enactment, owned in a manner which, as near as may be, corresponds either to paragraph (a) or paragraph (b) above.
 
 (3) But in the case of a company which has only one class of issued share capital, the reference in paragraph (2) to the whole of the issued share capital shall be construed as a reference to at least 95% of that share capital.
@@ -43,6 +43,6 @@ summary: ''
 
 [^c19952261]: Marginal citation: Section 40A was inserted by paragraph 2 of Schedule 22 to the [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-1e4a027151aa513e17fc203b391181ed]: Textual amendment: Words in reg. 67(2)(a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [33(a)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/33/a)
+[^c-1e4a027151aa513e17fc203b391181ed]: Textual amendment: Words in reg. 67(2)(a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [33(a)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/33/a)
 
-[^key-9d664acaf3c82c7483b9bda10dc2df6e]: Textual amendment: Words in reg. 67(2)(b) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [33(b)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/33/b)
+[^c-9d664acaf3c82c7483b9bda10dc2df6e]: Textual amendment: Words in reg. 67(2)(b) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [33(b)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/33/b)

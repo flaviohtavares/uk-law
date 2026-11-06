@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248B. Calculation of relief[^key-486b2ef49ea7f18e34cbfef66ee55b81]
+## 248B. Calculation of relief[^c-486b2ef49ea7f18e34cbfef66ee55b81]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-08c319d7e40846e16d99b8668ba51410] If the amount or value of the consideration for the disposal of the relinquished interest is equal to or less than the amount or value of the consideration for the acquired interest, the landowner, on making a claim, is to be treated for the purposes of this Act—
+(1)[^c-08c319d7e40846e16d99b8668ba51410] If the amount or value of the consideration for the disposal of the relinquished interest is equal to or less than the amount or value of the consideration for the acquired interest, the landowner, on making a claim, is to be treated for the purposes of this Act—
 
 - (a) as if the consideration for the disposal of the relinquished interest were of such amount as would secure that on the disposal neither a gain nor a loss accrues to the landowner, and
 - (b) as if the amount or value of the consideration for the acquired interest were reduced by the excess of the amount or value of the consideration for the disposal of the relinquished interest over the amount of the consideration which the landowner is treated as receiving under paragraph (a).
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-486b2ef49ea7f18e34cbfef66ee55b81]: Textual amendment: Ss. 248A-248E and cross-heading inserted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2010/157/article/8/1)
+[^c-486b2ef49ea7f18e34cbfef66ee55b81]: Textual amendment: Ss. 248A-248E and cross-heading inserted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2010/157/article/8/1)
 
-[^key-08c319d7e40846e16d99b8668ba51410]: Textual amendment: S. 248B(1)(2) substituted (with effect in accordance with art. 2(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2013 (S.I. 2013/234)](https://www.legislation.gov.uk/uksi/2013/234), [arts. 1](https://www.legislation.gov.uk/uksi/2013/234/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/234/article/2/1)
+[^c-08c319d7e40846e16d99b8668ba51410]: Textual amendment: S. 248B(1)(2) substituted (with effect in accordance with art. 2(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2013 (S.I. 2013/234)](https://www.legislation.gov.uk/uksi/2013/234), [arts. 1](https://www.legislation.gov.uk/uksi/2013/234/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/234/article/2/1)

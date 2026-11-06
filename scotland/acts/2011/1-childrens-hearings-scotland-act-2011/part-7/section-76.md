@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Power to exclude relevant person from children's hearing[^key-76a6112c56184f4b484f72f681495e65]
+## 76. Power to exclude relevant person from children's hearing[^c-76a6112c56184f4b484f72f681495e65]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76a6112c56184f4b484f72f681495e65]: Commencement: S. 76 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-76a6112c56184f4b484f72f681495e65]: Commencement: S. 76 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

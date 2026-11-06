@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Statutory undertakers, etc.[^key-8f5ad6bbb59473dc5229fe0f92af12aa]
+## 67. Statutory undertakers, etc.[^c-8f5ad6bbb59473dc5229fe0f92af12aa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 11 (provisions relating to statutory undertakers, etc
 
 ## Annotations
 
-[^key-8f5ad6bbb59473dc5229fe0f92af12aa]: Commencement: Art. 67 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-8f5ad6bbb59473dc5229fe0f92af12aa]: Commencement: Art. 67 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

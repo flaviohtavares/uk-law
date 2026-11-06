@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Reverting to original rent levels[^key-0821c301c4926067c61ab194658008fe]
+## 84. Reverting to original rent levels[^c-0821c301c4926067c61ab194658008fe]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the rent is changed to what it would have been if section 82(2) had never applie
 
 ## Annotations
 
-[^key-0821c301c4926067c61ab194658008fe]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2016/22/section/84) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
+[^c-0821c301c4926067c61ab194658008fe]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2016/22/section/84) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — Streets subject to alteration of layout[^key-e100885aff46659c20cc986af7e9f86a]
+## SCHEDULE 5 — Streets subject to alteration of layout[^c-e100885aff46659c20cc986af7e9f86a]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Table 7
 
 ## Annotations
 
-[^key-e100885aff46659c20cc986af7e9f86a]: Commencement: Sch. 5 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-e100885aff46659c20cc986af7e9f86a]: Commencement: Sch. 5 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

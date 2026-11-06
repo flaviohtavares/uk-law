@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Disregard of contribution[^key-31714a8a41af13da825eca61ca0f1fd8]
+## 46. Disregard of contribution[^c-31714a8a41af13da825eca61ca0f1fd8]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Where the relevant person or his partner is a student and the income of one is t
 
 ## Annotations
 
-[^key-31714a8a41af13da825eca61ca0f1fd8]: Commencement: Reg. 46 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-31714a8a41af13da825eca61ca0f1fd8]: Commencement: Reg. 46 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

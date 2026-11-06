@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Compensation for the person aggrieved[^key-04243b15debe59602d401578f7f36f2b]
+## 35. Compensation for the person aggrieved[^c-04243b15debe59602d401578f7f36f2b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04243b15debe59602d401578f7f36f2b]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2019/3/section/35) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-04243b15debe59602d401578f7f36f2b]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2019/3/section/35) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

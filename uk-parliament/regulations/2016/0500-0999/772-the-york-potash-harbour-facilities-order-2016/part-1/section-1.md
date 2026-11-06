@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation[^key-0cc0609cc72b64be8dbe6f0413818be8]
+## 1. Citation[^c-0cc0609cc72b64be8dbe6f0413818be8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the York Potash Harbour Facilities Order 2016 and com
 
 ## Annotations
 
-[^key-0cc0609cc72b64be8dbe6f0413818be8]: Commencement: Art. 1 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-0cc0609cc72b64be8dbe6f0413818be8]: Commencement: Art. 1 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

@@ -31,7 +31,7 @@ summary: ''
 
 POLICE
 
-The Police Federation (Amendment) Regulations 1990 (revoked)[^key-0a31ba9e267453b27ece709aceadfb15]
+The Police Federation (Amendment) Regulations 1990 (revoked)[^c-0a31ba9e267453b27ece709aceadfb15]
 
 Made
 
@@ -45,30 +45,30 @@ Coming into force
 
 1st September 1990
 
-[^key-0a31ba9e267453b27ece709aceadfb15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a31ba9e267453b27ece709aceadfb15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-0a31ba9e267453b27ece709aceadfb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a31ba9e267453b27ece709aceadfb15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a31ba9e267453b27ece709aceadfb15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0a31ba9e267453b27ece709aceadfb15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a31ba9e267453b27ece709aceadfb15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a31ba9e267453b27ece709aceadfb15]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1990/1575) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+[^c-0a31ba9e267453b27ece709aceadfb15]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1990/1575) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))

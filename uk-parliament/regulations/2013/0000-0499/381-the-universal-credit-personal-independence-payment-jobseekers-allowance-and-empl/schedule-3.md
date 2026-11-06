@@ -40,7 +40,7 @@ Regulation 50(2)
 - (l) regulation 56 (payments on death);
 - (m) regulation 57 (persons unable to act);
 - (n) regulation 58 (payment to another person on the claimant's behalf);
-- (o)[^key-bd07402ef76368d533cfe82470eeb62c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o)[^c-bd07402ef76368d533cfe82470eeb62c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (p) Part 6 (mobility component of personal independence payment).
 
 ### Other Jobseeker's Allowance Decisions
@@ -113,7 +113,7 @@ Regulation 50(2)
 
 ### European Community Regulations
 
-**17.** An authorisation given by the Secretary of State in accordance with Article 22(1) or 55(1) of Council Regulation [(EEC) No 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408) , as amended from time to time[^key-38853ba617f43dcae0b5dd653047b701] on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the European Union.
+**17.** An authorisation given by the Secretary of State in accordance with Article 22(1) or 55(1) of Council Regulation [(EEC) No 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408) , as amended from time to time[^c-38853ba617f43dcae0b5dd653047b701] on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the European Union.
 
 ### Up-rating
 
@@ -121,7 +121,7 @@ Regulation 50(2)
 
 ## Annotations
 
-[^key-bd07402ef76368d533cfe82470eeb62c]: Textual amendment: Sch. 3 para. 1(o) omitted by S.I. 2017/725, Sch. 5 para. 12(2) (as inserted(6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e))](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+[^c-bd07402ef76368d533cfe82470eeb62c]: Textual amendment: Sch. 3 para. 1(o) omitted by S.I. 2017/725, Sch. 5 para. 12(2) (as inserted(6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e))](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
 
 [^c2167619]: Marginal citation: [Section 160C](https://www.legislation.gov.uk/uksi/2013/381/section/160C) was inserted by section 31 of, and paragraphs 3 and 24 of Schedule 2 to, the 2012 Act.
 
@@ -155,4 +155,4 @@ Regulation 50(2)
 
 [^c2167634]: Marginal citation: [Section 179(3)](https://www.legislation.gov.uk/uksi/2013/381/section/179/3) was amended by section 86 of, and paragraph 107 of Schedule 7 to, the 1998 Act, by section 41 of, and paragraph 70 of Schedule 2 to, the 1995 Act, by section 18 of, and paragraph 15 of Schedule 7 to, the Contributions Act 1999, by [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671), by section 14 of, and paragraphs 8 and 21 of Schedule 2 to, the 2002 Act, by section 28 of, and paragraph 10 of Schedule 3 to, the 2007 Act, and by sections 31 and 91 of, and paragraphs 7 and 27 of Schedule 9 and paragraphs 3 and 27 of Schedule 2 to, the 2012 Act. Relevant amendments were made to subsection (4) by section 86 of, and paragraph 107 of Schedule 7 to, the 1998 Act, by section 41 of, and paragraph 70 of Schedule 2 to, the 1995 Act, by section 18 of, and paragraph 15 of Schedule 7 to, the Contributions Act 1999, by section 28 of, and paragraph 10 of Schedule 3 to, the 2007 Act, and by sections 31, 91 and 147 of, and paragraphs 3 and 27 of Schedule 2, paragraphs 7 and 27 of Schedule 9 and Schedule 14 to, the 2012 Act. Relevant amendments to subsection (5) were made by section 41 of, and paragraph 70 of Schedule 2 to, the 1995 Act, by section 60 of, and Schedule 6 to, the Tax Credits Act, by section 28 of, and paragraph 10 of Schedule 3 to, the 2007 Act, by [S.I. 2011/2425](https://www.legislation.gov.uk/uksi/2011/2425) and by sections 31 and 147 of, and paragraphs 3 and 27 of Schedule 2 and Schedule 14 to, the 2012 Act.
 
-[^key-38853ba617f43dcae0b5dd653047b701]: Textual amendment: Words in Sch. 3 para. 17 inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/12)
+[^c-38853ba617f43dcae0b5dd653047b701]: Textual amendment: Words in Sch. 3 para. 17 inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/12)

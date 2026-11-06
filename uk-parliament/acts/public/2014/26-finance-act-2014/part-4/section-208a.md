@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208A. Additional penalty for unreasonable tax appeal[^key-ce8d1b9c6e385ce77b2568dbf3004ce2]
+## 208A. Additional penalty for unreasonable tax appeal[^c-ce8d1b9c6e385ce77b2568dbf3004ce2]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce8d1b9c6e385ce77b2568dbf3004ce2]: Textual amendment: [S. 208A](https://www.legislation.gov.uk/ukpga/2014/26/section/208A) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/2)
+[^c-ce8d1b9c6e385ce77b2568dbf3004ce2]: Textual amendment: [S. 208A](https://www.legislation.gov.uk/ukpga/2014/26/section/208A) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/2)

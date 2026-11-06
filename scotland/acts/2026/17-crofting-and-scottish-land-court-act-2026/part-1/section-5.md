@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Enforcement of duties[^key-1233848c9e32dbef1e79f74d1e3b1cd0]
+## 5. Enforcement of duties[^c-1233848c9e32dbef1e79f74d1e3b1cd0]
 
 *Extent: S*
 
@@ -156,4 +156,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1233848c9e32dbef1e79f74d1e3b1cd0]: Commencement: S. 5 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-1233848c9e32dbef1e79f74d1e3b1cd0]: Commencement: S. 5 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

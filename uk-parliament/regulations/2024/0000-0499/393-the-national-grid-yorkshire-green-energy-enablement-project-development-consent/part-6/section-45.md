@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Traffic regulation[^key-eaa8de3ec1ee516fff9a69a91781549e]
+## 45. Traffic regulation[^c-eaa8de3ec1ee516fff9a69a91781549e]
 
 *Extent: E+W+S*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eaa8de3ec1ee516fff9a69a91781549e]: Commencement: Art. 45 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-eaa8de3ec1ee516fff9a69a91781549e]: Commencement: Art. 45 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
 [^f00077]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).

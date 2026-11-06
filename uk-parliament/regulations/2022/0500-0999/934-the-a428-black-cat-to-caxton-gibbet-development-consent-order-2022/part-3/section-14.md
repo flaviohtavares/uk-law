@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Power to alter layout etc. of streets[^key-f99ee6c0f14096018a3b0dddd40ad1b4]
+## 14. Power to alter layout etc. of streets[^c-f99ee6c0f14096018a3b0dddd40ad1b4]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ it is deemed to have granted consent.
 
 ## Annotations
 
-[^key-f99ee6c0f14096018a3b0dddd40ad1b4]: Commencement: Art. 14 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-f99ee6c0f14096018a3b0dddd40ad1b4]: Commencement: Art. 14 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

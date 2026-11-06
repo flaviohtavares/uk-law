@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Access to database[^key-5cfc65c9a1858a3b7b2720cafb5c0a26]
+## 38. Access to database[^c-5cfc65c9a1858a3b7b2720cafb5c0a26]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Secretary of State must give every local housing authority in England access
 
 ## Annotations
 
-[^key-5cfc65c9a1858a3b7b2720cafb5c0a26]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2016/22/section/38) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-5cfc65c9a1858a3b7b2720cafb5c0a26]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2016/22/section/38) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

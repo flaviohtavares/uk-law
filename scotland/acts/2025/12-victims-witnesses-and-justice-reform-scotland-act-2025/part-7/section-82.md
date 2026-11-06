@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Rights of audience: solicitors[^key-00995dc013e24c4ec79f9568f12c7b5a]
+## 82. Rights of audience: solicitors[^c-00995dc013e24c4ec79f9568f12c7b5a]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00995dc013e24c4ec79f9568f12c7b5a]: Commencement: S. 82 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-00995dc013e24c4ec79f9568f12c7b5a]: Commencement: S. 82 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

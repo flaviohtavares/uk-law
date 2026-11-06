@@ -75,7 +75,7 @@ Where the Reconsideration Committee has given a reconsideration decision in rela
   - (i) a scheme failure notice under section 130(2) of the Act (Board's duty where application or notification received under section 129); or
   - (ii) a withdrawal notice under section 130(3) of the Act;
 - (e) the issue of a notice under section 136(2) of the Act (power to validate contraventions of section 135);
-- (ea)[^key-227ab03bc9e553d7f1e95bfcdcd07ada] the issue of–
+- (ea)[^c-227ab03bc9e553d7f1e95bfcdcd07ada] the issue of–
   - (i) a notice under section 143(2A) of the Act (whether Board will make a determination or obtain an actuarial valuation); or
   - (ii) a determination under section 143(2)(a) of the Act (whether condition in section 127(2)(a) or 128(2)(a) satisfied);
 - (f) the approval of the valuation under section 144(2)(a) of the Act [^c1228154] (approval of valuation);
@@ -84,7 +84,7 @@ Where the Reconsideration Committee has given a reconsideration decision in rela
 - (i) the issue of a withdrawal notice under section 147(2)(a) of the Act (new schemes created to replace existing schemes);
 - (j) the issue of a withdrawal notice under section 148(3) or (4) of the Act (withdrawal following issue of section 122(4) notice);
 - (k) the issue of a determination notice under section 152(3) (duty to assume responsibility following reconsideration);
-- (l) the issue of a determination notice under section 153(6) of the Act (closed schemes); or[^key-cd2f67c718ce923dea7d79e8a9b0e832]
+- (l) the issue of a determination notice under section 153(6) of the Act (closed schemes); or[^c-cd2f67c718ce923dea7d79e8a9b0e832]
 - (m) the issue of–
   - (i) a notice under section 158(3A) of the Act (whether Board will make a determination or obtain an actuarial valuation); or
   - (ii) a determination under section 158(3)(a) of the Act (whether condition in section 158(1) satisfied).
@@ -331,7 +331,7 @@ may call witnesses to give evidence that is relevant to the matter being investi
 
 (3) A person whose conduct has disrupted or is likely to disrupt a hearing may be excluded by the PPF Ombudsman.
 
-## 14. Administrative Justice and Tribunals Council[^key-6d2edb34b7f3195ff414c78ed2bd0e0b]
+## 14. Administrative Justice and Tribunals Council[^c-6d2edb34b7f3195ff414c78ed2bd0e0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -602,14 +602,14 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1228153]: Marginal citation: [S.I. 2005/590](https://www.legislation.gov.uk/uksi/2005/590) as amended by [S.I. 2005/993](https://www.legislation.gov.uk/uksi/2005/993).
 
-[^key-227ab03bc9e553d7f1e95bfcdcd07ada]: Textual amendment: Reg. 3(2)(ea) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/1688)](https://www.legislation.gov.uk/uksi/2012/1688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/7/a)
+[^c-227ab03bc9e553d7f1e95bfcdcd07ada]: Textual amendment: Reg. 3(2)(ea) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/1688)](https://www.legislation.gov.uk/uksi/2012/1688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/7/a)
 
 [^c1228154]: Marginal citation: Section 144 of the Pensions Act 2004 is modified in its application to an unsecured part of a partially guaranteed scheme by regulation 3(3)(b) of [S.I. 2005/277](https://www.legislation.gov.uk/uksi/2005/277) so as to also apply in respect of the valuation of an unsecured part of such a scheme obtained under section 143 of that Act.
 
 [^c1228155]: Marginal citation: *See* regulation 10(1)(b) of [S.I. 2005/277](https://www.legislation.gov.uk/uksi/2005/277) which modifies section 160 of the Pensions Act 2004 so as to insert a new subsection (8) which applies to an unsecured part of a partially guaranteed scheme.
 
-[^key-cd2f67c718ce923dea7d79e8a9b0e832]: Textual amendment: Reg. 3(2)(m) and word inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/1688)](https://www.legislation.gov.uk/uksi/2012/1688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/7/b)
+[^c-cd2f67c718ce923dea7d79e8a9b0e832]: Textual amendment: Reg. 3(2)(m) and word inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/1688)](https://www.legislation.gov.uk/uksi/2012/1688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/7/b)
 
 [^c1228156]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-6d2edb34b7f3195ff414c78ed2bd0e0b]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2005/2024/regulation/14) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/60)
+[^c-6d2edb34b7f3195ff414c78ed2bd0e0b]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2005/2024/regulation/14) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/60)

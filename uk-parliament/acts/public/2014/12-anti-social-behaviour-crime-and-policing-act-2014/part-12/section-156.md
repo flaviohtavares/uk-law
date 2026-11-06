@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Extradition barred if no prosecution decision in requesting territory[^key-5eb4b220398eb445bd175cbe6106f795]
+## 156. Extradition barred if no prosecution decision in requesting territory[^c-5eb4b220398eb445bd175cbe6106f795]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5eb4b220398eb445bd175cbe6106f795]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2014/12/section/156) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/c)
+[^c-5eb4b220398eb445bd175cbe6106f795]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2014/12/section/156) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/c)

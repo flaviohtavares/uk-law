@@ -47,7 +47,7 @@ summary: ''
   - Gaming Act 1968,
   - section 179 of the Road Traffic Act 1972,
   - Health and Safety at Work etc. Act 1974,
-  - Rehabilitation of Offenders Act 1974; *(Extent: E+W)* *(affected by repeal, see note)*[^key-3689b65fc87ce75929ab29062842f787]
+  - Rehabilitation of Offenders Act 1974; *(Extent: E+W)* *(affected by repeal, see note)*[^c-3689b65fc87ce75929ab29062842f787]
 - section 65(5) and Schedule 13 so far as they relate to—
   - Night Poaching Act 1828,
   - Truck Act 1831,
@@ -57,7 +57,7 @@ summary: ''
   - Truck Amendment Act 1887,
   - Witnesses (Public Inquiries) Protection Act 1892,
   - section 283 of the Customs and Excise Act 1952,
-  - [^key-3157c6b56316a61a9a18f6aa9f6cadfe]...
+  - [^c-3157c6b56316a61a9a18f6aa9f6cadfe]...
   - sections 26 and 28 of the Criminal Justice Act 1961,
   - Penalties for Drunkenness Act 1962,
   - Criminal Justice (Scotland) Act 1963,
@@ -85,8 +85,8 @@ summary: ''
 
 [^c4766451]: Textual amendment: Words repealed by [Companies Act 1980 (c. 22)](https://www.legislation.gov.uk/ukpga/1980/22), [s. 88](https://www.legislation.gov.uk/ukpga/1980/22/section/88), [Sch. 4](https://www.legislation.gov.uk/ukpga/1980/22/schedule/4)
 
-[^key-3689b65fc87ce75929ab29062842f787]: Textual amendment: Words in [s. 63(2)](https://www.legislation.gov.uk/ukpga/1977/45/section/63/2) repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-3689b65fc87ce75929ab29062842f787]: Textual amendment: Words in [s. 63(2)](https://www.legislation.gov.uk/ukpga/1977/45/section/63/2) repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c4766461]: Textual amendment: Words in s. 63(2) repealed (16.10.1992) by [Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52), [ss. 300(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/300/1), [302](https://www.legislation.gov.uk/ukpga/1992/52/section/302), [Sch.1](https://www.legislation.gov.uk/ukpga/1992/52/schedule/1) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1992/52/schedule/3/paragraph/2)).
 
-[^key-3157c6b56316a61a9a18f6aa9f6cadfe]: Textual amendment: Words in s. 63(2) omitted (S.) (3.11.2006) by virtue of [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2006/536/schedule/1/paragraph/9)
+[^c-3157c6b56316a61a9a18f6aa9f6cadfe]: Textual amendment: Words in s. 63(2) omitted (S.) (3.11.2006) by virtue of [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2006/536/schedule/1/paragraph/9)

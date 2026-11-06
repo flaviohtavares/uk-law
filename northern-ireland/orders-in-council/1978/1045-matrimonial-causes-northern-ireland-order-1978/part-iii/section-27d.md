@@ -49,7 +49,7 @@ the order shall have effect as if it had been made instead in respect of the per
 - (a) provision for calculation or verification in accordance with guidance from time to time prepared by a prescribed person, and
 - (b) provision by reference to regulations under Article 27 or 46(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999.
 
-(2B) Regulations under this Article shall be subject to negative resolution[^key-da64c0c13415347cde2aaeba806c18db].
+(2B) Regulations under this Article shall be subject to negative resolution[^c-da64c0c13415347cde2aaeba806c18db].
 
 (3) In this Article and Articles 27B and 27C—
 
@@ -79,4 +79,4 @@ the order shall have effect as if it had been made instead in respect of the per
 
 [^c16975781]: Textual amendment: [1999 NI 11](https://www.legislation.gov.uk/1999/ni11)
 
-[^key-da64c0c13415347cde2aaeba806c18db]: Textual amendment: Words in art. 27D(2B) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 114(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/114/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-da64c0c13415347cde2aaeba806c18db]: Textual amendment: Words in art. 27D(2B) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 114(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/114/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

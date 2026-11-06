@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Post-mortem examination and removal and retention of organs: further requirements[^key-5a206eee0d4887740200d19743a4eea0]
+## 35. Post-mortem examination and removal and retention of organs: further requirements[^c-5a206eee0d4887740200d19743a4eea0]
 
 *Extent: S*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a206eee0d4887740200d19743a4eea0]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2006/4/section/35) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-5a206eee0d4887740200d19743a4eea0]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2006/4/section/35) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 335. Amendment of Appendix 8 to Annex 6 to [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^key-6ef617c648ea29f124ca1c4efd5a8caf]
+## 335. Amendment of Appendix 8 to Annex 6 to [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^c-6ef617c648ea29f124ca1c4efd5a8caf]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,10 +34,10 @@ summary: ''
 
 (7) Omit the note at “(\*)”.
 
-(8) For “EASA Form XXX Issue 2”[^key-9f566fc3b6712332538380b33b4a6011] substitute “CAA Form XXX Issue 1”.
+(8) For “EASA Form XXX Issue 2”[^c-9f566fc3b6712332538380b33b4a6011] substitute “CAA Form XXX Issue 1”.
 
 ## Annotations
 
-[^key-6ef617c648ea29f124ca1c4efd5a8caf]: Commencement: Reg. 335 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6ef617c648ea29f124ca1c4efd5a8caf]: Commencement: Reg. 335 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9f566fc3b6712332538380b33b4a6011]: Textual amendment: Words in reg. 335(8) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2020/1116/regulation/40)
+[^c-9f566fc3b6712332538380b33b4a6011]: Textual amendment: Words in reg. 335(8) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2020/1116/regulation/40)

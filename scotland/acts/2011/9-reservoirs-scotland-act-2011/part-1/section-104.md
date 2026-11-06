@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. SEPA: Ministerial directions[^key-d5e1ea577592253e3c78537377bb15e2]
+## 104. SEPA: Ministerial directions[^c-d5e1ea577592253e3c78537377bb15e2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ SEPA must, in carrying out its functions under this Part, act subject to and in 
 
 ## Annotations
 
-[^key-d5e1ea577592253e3c78537377bb15e2]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2011/9/section/104) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-d5e1ea577592253e3c78537377bb15e2]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2011/9/section/104) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

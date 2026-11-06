@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Air passenger duty: extension of area to which EEA rates apply[^key-c7faa4febe5d38bb834d4ba634f5e745]
+## 121. Air passenger duty: extension of area to which EEA rates apply[^c-c7faa4febe5d38bb834d4ba634f5e745]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7faa4febe5d38bb834d4ba634f5e745]: Textual amendment: [S. 121](https://www.legislation.gov.uk/ukpga/2002/23/section/121) omitted (with effect in accordance with Sch. 5 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 5 para. 6(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/5/paragraph/6/c)
+[^c-c7faa4febe5d38bb834d4ba634f5e745]: Textual amendment: [S. 121](https://www.legislation.gov.uk/ukpga/2002/23/section/121) omitted (with effect in accordance with Sch. 5 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 5 para. 6(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/5/paragraph/6/c)

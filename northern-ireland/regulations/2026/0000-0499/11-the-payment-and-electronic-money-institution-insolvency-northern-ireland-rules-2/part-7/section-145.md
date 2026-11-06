@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 145. Notice of declaration of a dividend[^key-665a3dda9e06937da8f8b8474a371f2d]
+## 145. Notice of declaration of a dividend[^c-665a3dda9e06937da8f8b8474a371f2d]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-665a3dda9e06937da8f8b8474a371f2d]: Commencement: [Rule 145](https://www.legislation.gov.uk/nisr/2026/11/rule/145) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-665a3dda9e06937da8f8b8474a371f2d]: Commencement: [Rule 145](https://www.legislation.gov.uk/nisr/2026/11/rule/145) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

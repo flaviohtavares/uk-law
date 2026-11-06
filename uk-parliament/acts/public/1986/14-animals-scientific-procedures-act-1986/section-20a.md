@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. Sharing of organs and tissues[^key-08e8cb77464306b81eab842d311c7697]
+## 20A. Sharing of organs and tissues[^c-08e8cb77464306b81eab842d311c7697]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Secretary of State must take such steps as he or she considers appropriate t
 
 ## Annotations
 
-[^key-08e8cb77464306b81eab842d311c7697]: Textual amendment: S. 20A inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2012/3039/regulation/21) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-08e8cb77464306b81eab842d311c7697]: Textual amendment: S. 20A inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2012/3039/regulation/21) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

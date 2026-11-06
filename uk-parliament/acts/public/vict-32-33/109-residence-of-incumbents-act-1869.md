@@ -29,7 +29,7 @@ Residence of Incumbents Act 1869
 
 1869 c.109
 
-An Act . . .[^c5673901] for securing uniformity in the law relating to the residence of spiritual persons upon their benefices, and to the penalties and forfeitures consequent on non-residence.[^key-8be2852556c7d3d8d3ec43e8422d8795]
+An Act . . .[^c5673901] for securing uniformity in the law relating to the residence of spiritual persons upon their benefices, and to the penalties and forfeitures consequent on non-residence.[^c-8be2852556c7d3d8d3ec43e8422d8795]
 
 \[11th August 1869\][^c5673911][^c5673921][^c5673931]
 
@@ -45,7 +45,7 @@ No proceeding shall be taken against any spiritual person for enforcing the resi
 
 [^c5673901]: Textual amendment: Words repealed by [Statute Law Revision (No. 2) Act 1893 (c. 54)](https://www.legislation.gov.uk/ukpga/1893/54)
 
-[^key-8be2852556c7d3d8d3ec43e8422d8795]: Textual amendment: Act repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/2); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-8be2852556c7d3d8d3ec43e8422d8795]: Textual amendment: Act repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/2); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c5673911]: Modification: Short title given by [Short Titles Act 1896 (c. 14)](https://www.legislation.gov.uk/ukpga/1896/14)
 

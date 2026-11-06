@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 69ZA. Alternative means of notifying changes of circumstances[^key-e2c93ba6eabb03f42e5985e84ea5da81]
+## 69ZA. Alternative means of notifying changes of circumstances[^c-e2c93ba6eabb03f42e5985e84ea5da81]
 
 (1) In such cases and subject to such conditions as the Secretary of State may specify, the duty in regulation 69(1) to notify a change of circumstances may be discharged by notifying the Secretary of State—
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2c93ba6eabb03f42e5985e84ea5da81]: Textual amendment: Reg. 69ZA inserted (5.4.2010) by [The Social Security (Notification of Changes of Circumstances) Regulations 2010 (S.I. 2010/444)](https://www.legislation.gov.uk/uksi/2010/444), [regs. 1](https://www.legislation.gov.uk/uksi/2010/444/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/444/regulation/6)
+[^c-e2c93ba6eabb03f42e5985e84ea5da81]: Textual amendment: Reg. 69ZA inserted (5.4.2010) by [The Social Security (Notification of Changes of Circumstances) Regulations 2010 (S.I. 2010/444)](https://www.legislation.gov.uk/uksi/2010/444), [regs. 1](https://www.legislation.gov.uk/uksi/2010/444/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/444/regulation/6)

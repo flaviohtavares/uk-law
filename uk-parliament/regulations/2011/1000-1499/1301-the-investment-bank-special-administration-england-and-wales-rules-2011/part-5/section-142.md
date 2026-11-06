@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. New administrator appointed[^key-901b74952f34b2536918235e6c2f00c1]
+## 142. New administrator appointed[^c-901b74952f34b2536918235e6c2f00c1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-901b74952f34b2536918235e6c2f00c1]: Commencement: [Rule 142](https://www.legislation.gov.uk/uksi/2011/1301/rule/142) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-901b74952f34b2536918235e6c2f00c1]: Commencement: [Rule 142](https://www.legislation.gov.uk/uksi/2011/1301/rule/142) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

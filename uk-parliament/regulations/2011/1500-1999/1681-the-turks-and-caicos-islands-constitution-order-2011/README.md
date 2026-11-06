@@ -48,7 +48,7 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-Her Majesty, in exercise of the powers conferred upon Her by sections 5 and 7 of the West Indies Act 1962[^f00001] and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:[^key-fd63842ec3b5c2431137395013efc893]
+Her Majesty, in exercise of the powers conferred upon Her by sections 5 and 7 of the West Indies Act 1962[^f00001] and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:[^c-fd63842ec3b5c2431137395013efc893]
 
 ## Contents
 
@@ -90,4 +90,4 @@ The Order revokes the Turks and Caicos Islands Constitution Order 2006, as well 
 
 [^f00001]: Footnote: [1962 c.19](https://www.legislation.gov.uk/ukpga/1962/19).
 
-[^key-fd63842ec3b5c2431137395013efc893]: Modification: Order construed as one with [S.I. 2021/8878](https://www.legislation.gov.uk/uksi/2021/8878) and [S.I. 2024/1128](https://www.legislation.gov.uk/uksi/2024/1128) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/1/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-fd63842ec3b5c2431137395013efc893]: Modification: Order construed as one with [S.I. 2021/8878](https://www.legislation.gov.uk/uksi/2021/8878) and [S.I. 2024/1128](https://www.legislation.gov.uk/uksi/2024/1128) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/1/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))

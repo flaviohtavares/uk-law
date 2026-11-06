@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Transitory Modifications[^key-e56839b42bfac751fdbe86755e8303c8]
+## SCHEDULE 9 — Transitory Modifications[^c-e56839b42bfac751fdbe86755e8303c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,10 +34,10 @@ TABLE
 | Provision | Paragraph of this Schedule |
 | --- | --- |
 | (i) Section 69(7) of the [^c21361971]Social Security Act 1973. | Paragraph 2. |
-| (ii) [^key-17d4a1e9a33bbde18b2b648e229cb4c3]... | [^key-17d4a1e9a33bbde18b2b648e229cb4c3]. . . |
-| (iii) [^key-17d4a1e9a33bbde18b2b648e229cb4c3]... | [^key-17d4a1e9a33bbde18b2b648e229cb4c3]. . . |
-| (iv) [^key-17d4a1e9a33bbde18b2b648e229cb4c3]... | [^key-17d4a1e9a33bbde18b2b648e229cb4c3]. . . |
-| (v) [^key-17d4a1e9a33bbde18b2b648e229cb4c3]... | [^key-17d4a1e9a33bbde18b2b648e229cb4c3]. . . |
+| (ii) [^c-17d4a1e9a33bbde18b2b648e229cb4c3]... | [^c-17d4a1e9a33bbde18b2b648e229cb4c3]. . . |
+| (iii) [^c-17d4a1e9a33bbde18b2b648e229cb4c3]... | [^c-17d4a1e9a33bbde18b2b648e229cb4c3]. . . |
+| (iv) [^c-17d4a1e9a33bbde18b2b648e229cb4c3]... | [^c-17d4a1e9a33bbde18b2b648e229cb4c3]. . . |
+| (v) [^c-17d4a1e9a33bbde18b2b648e229cb4c3]... | [^c-17d4a1e9a33bbde18b2b648e229cb4c3]. . . |
 | (vi) Section 82(2) of the [^c21361991]Courts and Legal Services Act 1990. | Paragraph 5. |
 | (vii) Paragraph 23 of Schedule 16 to the [^c21362001]Friendly Societies Act 1992. | Paragraph 6. |
 | (viii) Paragraph 12 of Schedule 8 to the [^c21362011]Judicial Pensions and Retirement Act 1993. | Paragraph 7(1). |
@@ -56,7 +56,7 @@ then the paragraph mentioned in column 2 of the Table opposite that provision sh
 - “**the commencement date**”, means the date on which the provisions of this Act other than those mentioned in subsection (3) of section 193 come into force by virtue of an order under subsection (2) of that section;
 - “**the appointed day**”, in relation to a provision mentioned in column 1 of the Table in sub-paragraph (1), means—
 - (a) in the case mentioned in paragraph (a) of sub-paragraph (1), such day as may be appointed by order for the purposes of that provision—
-  - (i) in the case of the provision mentioned in paragraph (i)[^key-5e64fd460d85ee092a16c1daf7289423] of that Table, by the Secretary of State;
+  - (i) in the case of the provision mentioned in paragraph (i)[^c-5e64fd460d85ee092a16c1daf7289423] of that Table, by the Secretary of State;
   - (ii) in the case of the provision mentioned in paragraph (vi) of that Table, by the Lord Chancellor or by the Secretary of State or by both acting jointly;
   - (iii) in the case of the provision mentioned in paragraph (vii) of that Table, by the Treasury; and
   - (iv) in the case of the provisions mentioned in paragraphs (viii) to (x) of that Table, by the appropriate Minister (within the meaning of section 30(1) of the [^c21362021]Judicial Pensions and Retirement Act 1993); and
@@ -72,7 +72,7 @@ then the paragraph mentioned in column 2 of the Table opposite that provision sh
 
 and in sub-paragraph (2) “**the relevant appointed day**”, in relation to any purpose of a provision, means the day appointed as the day on which the provision is to come into force for that purpose.
 
-(5)[^key-82c17c8a6be754bb1f75c2c2b07897cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-82c17c8a6be754bb1f75c2c2b07897cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The Treasury may by regulations make such transitional and consequential provisions and such savings as they consider necessary or expedient in preparation for or in connection with or in consequence of the coming into force of the words which come into force when paragraph 6 ceases to have effect and such regulations may make modifications of any enactment contained in the [^c21362051]Friendly Societies Act 1992 or in any other Act.
 
@@ -82,13 +82,13 @@ and in sub-paragraph (2) “**the relevant appointed day**”, in relation to an
 
 ### Limited price indexation
 
-**3.**[^key-02946b09796029e901c0ca5438c7ef6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-02946b09796029e901c0ca5438c7ef6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Guaranteed minimum for married women and widows paying reduced rate contributions
 
-**4.**[^key-02946b09796029e901c0ca5438c7ef6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-02946b09796029e901c0ca5438c7ef6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0530a2fd7e323d709fe73ed94f5197b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0530a2fd7e323d709fe73ed94f5197b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Friendly societies
 
@@ -98,17 +98,17 @@ and in sub-paragraph (2) “**the relevant appointed day**”, in relation to an
 
 **7.** (1) In section 146, subsection (3) shall be omitted.
 
-(2)[^key-e1844661a3e8a4ed95590bb73fae40d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e1844661a3e8a4ed95590bb73fae40d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 6, paragraph 17(3)(j) shall be omitted.
 
 ## Annotations
 
-[^key-e56839b42bfac751fdbe86755e8303c8]: Commencement: Sch. 9 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-e56839b42bfac751fdbe86755e8303c8]: Commencement: Sch. 9 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
 [^c21361971]: Marginal citation: [1973 c. 38](https://www.legislation.gov.uk/ukpga/1973/38).
 
-[^key-17d4a1e9a33bbde18b2b648e229cb4c3]: Textual amendment: [Sch. 9 para. 1(1)(ii)-(v)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/1/1/ii/v) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 6 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/6/paragraph/16/2/a), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-17d4a1e9a33bbde18b2b648e229cb4c3]: Textual amendment: [Sch. 9 para. 1(1)(ii)-(v)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/1/1/ii/v) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 6 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/6/paragraph/16/2/a), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
 
 [^c21361991]: Marginal citation: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41).
 
@@ -116,7 +116,7 @@ and in sub-paragraph (2) “**the relevant appointed day**”, in relation to an
 
 [^c21362011]: Marginal citation: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8).
 
-[^key-5e64fd460d85ee092a16c1daf7289423]: Textual amendment: Words in [Sch. 9 para. 1(3)(a)(i)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/1/3/a/i) substituted (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 6 para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/6/paragraph/16/2/b); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-5e64fd460d85ee092a16c1daf7289423]: Textual amendment: Words in [Sch. 9 para. 1(3)(a)(i)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/1/3/a/i) substituted (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 6 para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/6/paragraph/16/2/b); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
 
 [^c21362021]: Marginal citation: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8).
 
@@ -124,12 +124,12 @@ and in sub-paragraph (2) “**the relevant appointed day**”, in relation to an
 
 [^c21362041]: Marginal citation: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8).
 
-[^key-82c17c8a6be754bb1f75c2c2b07897cf]: Textual amendment: [Sch. 9 para. 1(5)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/1/5) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 6 para. 16(2)(c)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/6/paragraph/16/2/c), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-82c17c8a6be754bb1f75c2c2b07897cf]: Textual amendment: [Sch. 9 para. 1(5)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/1/5) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 6 para. 16(2)(c)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/6/paragraph/16/2/c), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
 
 [^c21362051]: Marginal citation: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
 
-[^key-02946b09796029e901c0ca5438c7ef6f]: Textual amendment: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/4) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 6 para. 16(3)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/6/paragraph/16/3), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-02946b09796029e901c0ca5438c7ef6f]: Textual amendment: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/4) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 6 para. 16(3)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/6/paragraph/16/3), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
 
-[^key-0530a2fd7e323d709fe73ed94f5197b2]: Textual amendment: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/5) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-0530a2fd7e323d709fe73ed94f5197b2]: Textual amendment: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/5) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
-[^key-e1844661a3e8a4ed95590bb73fae40d6]: Textual amendment: [Sch. 9 para. 7(2)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/7/2) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-e1844661a3e8a4ed95590bb73fae40d6]: Textual amendment: [Sch. 9 para. 7(2)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9/paragraph/7/2) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)

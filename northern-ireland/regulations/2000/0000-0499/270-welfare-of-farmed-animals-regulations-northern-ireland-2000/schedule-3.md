@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — ADDITIONAL CONDITIONS UNDER WHICH POULTRY (OTHER THAN THOSE KEPT IN THE SYSTEMS REFERRED TO IN SCHEDULES 3A, 3B AND 3C) MUST BE KEPT[^key-3823bfdeaa573ad722ab877e4278600a]
+## SCHEDULE 3 — ADDITIONAL CONDITIONS UNDER WHICH POULTRY (OTHER THAN THOSE KEPT IN THE SYSTEMS REFERRED TO IN SCHEDULES 3A, 3B AND 3C) MUST BE KEPT[^c-3823bfdeaa573ad722ab877e4278600a]
 
 *Extent: N.I.*
 
@@ -24,8 +24,8 @@ summary: ''
 
 Regulation 5
 
-**1.**[^key-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3823bfdeaa573ad722ab877e4278600a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/270) revoked (2.4.2012) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2012 (S.R. 2012/156)](https://www.legislation.gov.uk/nisr/2012/156), [regs. 1](https://www.legislation.gov.uk/nisr/2012/156/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/156/regulation/8)
+[^c-3823bfdeaa573ad722ab877e4278600a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/270) revoked (2.4.2012) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2012 (S.R. 2012/156)](https://www.legislation.gov.uk/nisr/2012/156), [regs. 1](https://www.legislation.gov.uk/nisr/2012/156/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/156/regulation/8)

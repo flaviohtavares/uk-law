@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Notice and service of article 4 directions[^key-45f0453e1ec6439fcbad72df6b34c263]
+## 5. Notice and service of article 4 directions[^c-45f0453e1ec6439fcbad72df6b34c263]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45f0453e1ec6439fcbad72df6b34c263]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1992/223/article/5) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)
+[^c-45f0453e1ec6439fcbad72df6b34c263]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1992/223/article/5) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)

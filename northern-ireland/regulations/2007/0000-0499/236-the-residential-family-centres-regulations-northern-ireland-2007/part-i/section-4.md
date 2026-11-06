@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Resident’s guide[^key-f4032fa73b84642cd4a8b481c5ae87a9]
+## 4. Resident’s guide[^c-f4032fa73b84642cd4a8b481c5ae87a9]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) the terms and conditions in respect of accommodation to be provided for residents, including as to the amount and method of payment of fees;
 - (c) a standard form of contract for the provision of services and facilities by the registered provider to residents;
 - (d) a summary of the complaints procedure established under regulation 23;
-- (e) the address and telephone number of the RQIA[^key-1ab6982513a93aea57feba0c8096e8f0].
+- (e) the address and telephone number of the RQIA[^c-1ab6982513a93aea57feba0c8096e8f0].
 
 (2) The registered person shall also provide, on request, access to a copy of the most recent inspection report and information on how to access earlier inspection reports.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4032fa73b84642cd4a8b481c5ae87a9]: Commencement: Reg. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-f4032fa73b84642cd4a8b481c5ae87a9]: Commencement: Reg. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
-[^key-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

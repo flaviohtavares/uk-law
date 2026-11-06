@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Minor and consequential amendments[^key-64cb9c7f4f5677e525005a2ce0e7d2be][^key-b9bf995fbcbcbe41f60bccf0f1229b5b]
+## SCHEDULE 7 — Minor and consequential amendments[^c-64cb9c7f4f5677e525005a2ce0e7d2be][^c-b9bf995fbcbcbe41f60bccf0f1229b5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ Section 29
 
 #### Regulation of Investigatory Powers Act 2000
 
-**4.**[^key-64f8991342681c79f18e7240dbc9ae76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-64f8991342681c79f18e7240dbc9ae76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Counter-Terrorism Act 2008
 
@@ -100,8 +100,8 @@ Section 29
 
 ## Annotations
 
-[^key-64cb9c7f4f5677e525005a2ce0e7d2be]: Textual amendment: Words in Sch. 6 para. 14 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2) , [Sch. 2 para. 64(3)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/3/b)
+[^c-64cb9c7f4f5677e525005a2ce0e7d2be]: Textual amendment: Words in Sch. 6 para. 14 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2) , [Sch. 2 para. 64(3)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/3/b)
 
-[^key-b9bf995fbcbcbe41f60bccf0f1229b5b]: Textual amendment: Word in Sch. 6 para. 10(1)(a)(ii) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 32(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/32/a) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
+[^c-b9bf995fbcbcbe41f60bccf0f1229b5b]: Textual amendment: Word in Sch. 6 para. 10(1)(a)(ii) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 32(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/32/a) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
 
-[^key-64f8991342681c79f18e7240dbc9ae76]: Textual amendment: Sch. 7 para. 4 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-64f8991342681c79f18e7240dbc9ae76]: Textual amendment: Sch. 7 para. 4 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))

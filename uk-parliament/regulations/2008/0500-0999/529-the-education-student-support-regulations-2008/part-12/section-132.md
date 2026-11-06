@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Eligible part-time students[^key-9103f4a9fb65af5eed571bf21602e5b8]
+## 132. Eligible part-time students[^c-9103f4a9fb65af5eed571bf21602e5b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,4 +91,4 @@ A’s status as an eligible part-time student terminates immediately before the 
 
 ## Annotations
 
-[^key-9103f4a9fb65af5eed571bf21602e5b8]: Commencement: Reg. 132 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-9103f4a9fb65af5eed571bf21602e5b8]: Commencement: Reg. 132 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

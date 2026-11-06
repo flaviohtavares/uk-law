@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Requirement to serve induction period.[^key-b8ea649311e065ceb9bc7120372248aa]
+## 19. Requirement to serve induction period.[^c-b8ea649311e065ceb9bc7120372248aa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8ea649311e065ceb9bc7120372248aa]: Textual amendment: S. 19 repealed (1.4.2015) by [Education (Wales) Act 2014 (anaw 5)](https://www.legislation.gov.uk/anaw/2014/5), [s. 50(4)](https://www.legislation.gov.uk/anaw/2014/5/section/50/4), [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/3/paragraph/3); [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(x)](https://www.legislation.gov.uk/wsi/2015/29/article/3/x) (with [art. 4](https://www.legislation.gov.uk/wsi/2015/29/article/4))
+[^c-b8ea649311e065ceb9bc7120372248aa]: Textual amendment: S. 19 repealed (1.4.2015) by [Education (Wales) Act 2014 (anaw 5)](https://www.legislation.gov.uk/anaw/2014/5), [s. 50(4)](https://www.legislation.gov.uk/anaw/2014/5/section/50/4), [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/3/paragraph/3); [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(x)](https://www.legislation.gov.uk/wsi/2015/29/article/3/x) (with [art. 4](https://www.legislation.gov.uk/wsi/2015/29/article/4))

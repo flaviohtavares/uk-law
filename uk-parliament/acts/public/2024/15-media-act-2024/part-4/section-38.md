@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Audience protection reviews[^key-ea9d5c29ba17cb1664bb6d878bc4caf1][^key-73c58fa76319af3e9718ec634a2c5882]
+## 38. Audience protection reviews[^c-ea9d5c29ba17cb1664bb6d878bc4caf1][^c-73c58fa76319af3e9718ec634a2c5882]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea9d5c29ba17cb1664bb6d878bc4caf1]: Commencement: S. 38 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-ea9d5c29ba17cb1664bb6d878bc4caf1]: Commencement: S. 38 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-73c58fa76319af3e9718ec634a2c5882]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2024/15/section/38) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(p)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/p)
+[^c-73c58fa76319af3e9718ec634a2c5882]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2024/15/section/38) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(p)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/p)

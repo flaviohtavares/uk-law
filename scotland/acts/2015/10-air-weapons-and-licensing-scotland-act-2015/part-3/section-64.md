@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Testing of private hire car drivers[^key-a9751566a585547ebfa04842e57b47d0]
+## 64. Testing of private hire car drivers[^c-a9751566a585547ebfa04842e57b47d0]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In section 13 of the 1982 Act (taxi and private hire car driving licences), in s
 
 ## Annotations
 
-[^key-a9751566a585547ebfa04842e57b47d0]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2015/10/section/64) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
+[^c-a9751566a585547ebfa04842e57b47d0]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2015/10/section/64) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)

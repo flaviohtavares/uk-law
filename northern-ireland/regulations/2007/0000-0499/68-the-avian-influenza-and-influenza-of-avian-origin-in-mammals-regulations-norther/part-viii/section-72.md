@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Records of movements authorised by licence[^key-d9099659a1d4be6c0fddd98dd18f570a]
+## 72. Records of movements authorised by licence[^c-d9099659a1d4be6c0fddd98dd18f570a]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9099659a1d4be6c0fddd98dd18f570a]: Commencement: Reg. 72 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-d9099659a1d4be6c0fddd98dd18f570a]: Commencement: Reg. 72 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

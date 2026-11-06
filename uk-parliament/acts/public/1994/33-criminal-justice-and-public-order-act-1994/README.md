@@ -196,11 +196,11 @@ An Act to make further provision in relation to criminal justice (including empl
 - [Section 60A — Retention and disposal of things seized under section 60.](part-iv/section-60a.md)
 - [Section 60B — Arrest without warrant for offences under section 60: Scotland.](part-iv/section-60b.md)
 
-### Part V — Public Order: Unauthorised encampments and Collective Trespass or Nuisance on Land[^key-11aa2c2726e6247daa42a969b479574c]
+### Part V — Public Order: Unauthorised encampments and Collective Trespass or Nuisance on Land[^c-11aa2c2726e6247daa42a969b479574c]
 
 *Extent: E+W*
 
-#### Residing on land without consent in or with a vehicle[^key-39ddeb6bd16cacf7f1dfb59dc413f246]
+#### Residing on land without consent in or with a vehicle[^c-39ddeb6bd16cacf7f1dfb59dc413f246]
 
 *Extent: E+W*
 
@@ -571,9 +571,9 @@ An Act to make further provision in relation to criminal justice (including empl
 
 [^c13100261]: Extent: Act extends mainly to England and Wales only, but for exceptions see s. 172(7)-(16)
 
-[^key-11aa2c2726e6247daa42a969b479574c]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/ukpga/1994/33/part/V) heading inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/83/2), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-11aa2c2726e6247daa42a969b479574c]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/ukpga/1994/33/part/V) heading inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/83/2), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
 
-[^key-39ddeb6bd16cacf7f1dfb59dc413f246]: Textual amendment: Ss. 60C-60E and cross-heading inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/83/1), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-39ddeb6bd16cacf7f1dfb59dc413f246]: Textual amendment: Ss. 60C-60E and cross-heading inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/83/1), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
 
 [^c13103841]: Extent: [Ss. 93 to 101](https://www.legislation.gov.uk/ukpga/1994/33/section/93) extend to England and Wales only; [ss. 93](https://www.legislation.gov.uk/ukpga/1994/33/section/93), [95](https://www.legislation.gov.uk/ukpga/1994/33/section/95) and 101(8) extend also to the British Islands so far as relating to the delivery of prisoners to or from premises situated in a part of the British Islands outside England and Wales see [s. 172(7)(11)](https://www.legislation.gov.uk/ukpga/1994/33/section/172/7/11)
 

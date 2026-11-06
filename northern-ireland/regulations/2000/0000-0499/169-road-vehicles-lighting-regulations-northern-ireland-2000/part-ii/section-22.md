@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Restrictions on the obscuration of certain obligatory lamps and reflectors[^key-ff8fc11af19e52c1b02099acfa710cb8]
+## 22. Restrictions on the obscuration of certain obligatory lamps and reflectors[^c-ff8fc11af19e52c1b02099acfa710cb8]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ which is required by these Regulations to be fitted to a vehicle is visible when
 
 ## Annotations
 
-[^key-ff8fc11af19e52c1b02099acfa710cb8]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2000/169/regulation/22) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-ff8fc11af19e52c1b02099acfa710cb8]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2000/169/regulation/22) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

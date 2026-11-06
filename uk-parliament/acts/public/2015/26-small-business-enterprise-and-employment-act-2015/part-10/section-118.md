@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Power for liquidator or administrator to assign causes of action[^key-90aac7dcebe04e31ffe77b09f8b4ab67]
+## 118. Power for liquidator or administrator to assign causes of action[^c-90aac7dcebe04e31ffe77b09f8b4ab67]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ After section 246ZC of the Insolvency Act 1986 (inserted by section 117) insertâ
 
 ## Annotations
 
-[^key-90aac7dcebe04e31ffe77b09f8b4ab67]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2015/26/section/118) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/j) (with [Sch. para. 16](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/16))
+[^c-90aac7dcebe04e31ffe77b09f8b4ab67]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2015/26/section/118) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/j) (with [Sch. para. 16](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/16))

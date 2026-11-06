@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Terrorism offences excepted from defence for slavery or trafficking victims[^key-a72326cfe8aad9b984ea19f9a96bd3c4]
+## 237. Terrorism offences excepted from defence for slavery or trafficking victims[^c-a72326cfe8aad9b984ea19f9a96bd3c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a72326cfe8aad9b984ea19f9a96bd3c4]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2026/20/section/237) in force at 29.6.2026, see [s. 255(3)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/j)
+[^c-a72326cfe8aad9b984ea19f9a96bd3c4]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2026/20/section/237) in force at 29.6.2026, see [s. 255(3)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/j)

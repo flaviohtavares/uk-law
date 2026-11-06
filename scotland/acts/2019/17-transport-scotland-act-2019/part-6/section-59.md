@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Enforcement of parking prohibitions[^key-13833d6f2f70e318bf231e51b0327f46]
+## 59. Enforcement of parking prohibitions[^c-13833d6f2f70e318bf231e51b0327f46]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13833d6f2f70e318bf231e51b0327f46]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2019/17/section/59) in force at 22.9.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-13833d6f2f70e318bf231e51b0327f46]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2019/17/section/59) in force at 22.9.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

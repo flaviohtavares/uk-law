@@ -24,7 +24,7 @@ Regulation 136
 
 ### PART 1 — Modification of early leaver and other provisions
 
-#### 1. Application of this Part[^key-2d36e4cfac22e139104f26f4fc4a6519]
+#### 1. Application of this Part[^c-2d36e4cfac22e139104f26f4fc4a6519]
 
 (1) This Part applies where a person (P)—
 
@@ -40,7 +40,7 @@ Regulation 136
 
 (3) In this Part “the old scheme” means a scheme referred to in sub-paragraph (1)(a) or (2)(a) of which P is a member.
 
-#### 2. Preservation of benefit[^key-f773cdb77be93d379784b8c48c4f78b8]
+#### 2. Preservation of benefit[^c-f773cdb77be93d379784b8c48c4f78b8]
 
 (1) Chapter 1 of Part 4 of the PSA 1993 (protection for early leavers: preservation of benefit) is modified as follows in relation to P.
 
@@ -66,7 +66,7 @@ Regulation 136
 - (c) in section 71(7)(a), the reference to P’s pensionable service under the scheme is to be taken as a reference to P’s pensionable service either under this scheme or under the old scheme and this scheme taken together; and
 - (d) in section 74(6), in relation to pensionable service which is terminated, the reference to the beginning of that service is to be taken as a reference to the beginning of pensionable service under the old scheme.
 
-#### 3. Revaluation of preserved benefit[^key-06dc6c3c0a47e38e153e425dfa9c6237]
+#### 3. Revaluation of preserved benefit[^c-06dc6c3c0a47e38e153e425dfa9c6237]
 
 (1) Chapter 2 of Part 4 of the PSA 1993 (protection for early leavers: revaluation of accrued benefits) is modified as follows.
 
@@ -77,27 +77,27 @@ Regulation 136
 
 ### PART 2 — Amendments
 
-#### 4. Amendments to the Judicial Pensions Regulations 2015[^key-85873c2ccd21042d2570bd8a52c7a446][^key-f6ad4fa1d41a5b89f2c7f6db171a7579][^key-f6ad4fa1d41a5b89f2c7f6db171a7579]
+#### 4. Amendments to the Judicial Pensions Regulations 2015[^c-85873c2ccd21042d2570bd8a52c7a446][^c-f6ad4fa1d41a5b89f2c7f6db171a7579][^c-f6ad4fa1d41a5b89f2c7f6db171a7579]
 
-(1)[^key-85873c2ccd21042d2570bd8a52c7a446] The 2015 Regulations are amended as follows.
+(1)[^c-85873c2ccd21042d2570bd8a52c7a446] The 2015 Regulations are amended as follows.
 
-(2)[^key-85873c2ccd21042d2570bd8a52c7a446] In regulation 9(2) (scheme advisory board: establishment), after “making changes to this scheme” insert “and the scheme established by the Judicial Pensions Regulations 2022”.
+(2)[^c-85873c2ccd21042d2570bd8a52c7a446] In regulation 9(2) (scheme advisory board: establishment), after “making changes to this scheme” insert “and the scheme established by the Judicial Pensions Regulations 2022”.
 
-(3)[^key-85873c2ccd21042d2570bd8a52c7a446] For regulation 41(2) (closure of active member’s account) substitute—
+(3)[^c-85873c2ccd21042d2570bd8a52c7a446] For regulation 41(2) (closure of active member’s account) substitute—
 
 > (2) The scheme manager must re-establish an active member’s account under this Chapter when the scheme manager closes a deferred member’s account under regulation 46.
 
-(4)[^key-85873c2ccd21042d2570bd8a52c7a446] Omit regulation 49 (closure of full retirement account).
+(4)[^c-85873c2ccd21042d2570bd8a52c7a446] Omit regulation 49 (closure of full retirement account).
 
-(5)[^key-85873c2ccd21042d2570bd8a52c7a446] In regulation 56(1)(b) (entitlement to full retirement pension) for “pensionable service under this scheme” substitute “qualifying judicial office”.
+(5)[^c-85873c2ccd21042d2570bd8a52c7a446] In regulation 56(1)(b) (entitlement to full retirement pension) for “pensionable service under this scheme” substitute “qualifying judicial office”.
 
-(6)[^key-85873c2ccd21042d2570bd8a52c7a446] After regulation 56(6) insert—
+(6)[^c-85873c2ccd21042d2570bd8a52c7a446] After regulation 56(6) insert—
 
 > (7) Where P resumes service in qualifying judicial office, this will not affect any entitlement under this regulation.
 
-(7)[^key-85873c2ccd21042d2570bd8a52c7a446] Omit regulation 59 (full retirement pension ceases to be payable).
+(7)[^c-85873c2ccd21042d2570bd8a52c7a446] Omit regulation 59 (full retirement pension ceases to be payable).
 
-(8)[^key-85873c2ccd21042d2570bd8a52c7a446] In regulation 60 (exercise of partial retirement option)—
+(8)[^c-85873c2ccd21042d2570bd8a52c7a446] In regulation 60 (exercise of partial retirement option)—
 
 - (a) in paragraph (1)(c), for “annual rate” substitute “amount”,
 - (b) in paragraph (2), after “part only of P’s accrued pensions” insert—
@@ -136,7 +136,7 @@ Regulation 136
   > - (a) the reduction in earnings in paragraph (1)(c) refers to service in each chamber of the relevant tribunal; and
   > - (b) in paragraph (5) references to an office are to be taken as references to an assignment to a tribunal chamber.
 
-(9)[^key-85873c2ccd21042d2570bd8a52c7a446] In regulation 61 (partial retirement option notice)—
+(9)[^c-85873c2ccd21042d2570bd8a52c7a446] In regulation 61 (partial retirement option notice)—
 
 - (a) in paragraph (2)(a)(i) after “pensions” insert—
 
@@ -154,13 +154,13 @@ Regulation 136
   >
   > - (d) if P holds more than one office, the office or offices in respect of which P is exercising the partial retirement option.
 
-(10)[^key-85873c2ccd21042d2570bd8a52c7a446] In regulation 64 (annual rate of partial retirement pension) at the end of paragraph (1) insert “in the office from which P is taking partial retirement.”.
+(10)[^c-85873c2ccd21042d2570bd8a52c7a446] In regulation 64 (annual rate of partial retirement pension) at the end of paragraph (1) insert “in the office from which P is taking partial retirement.”.
 
-(11)[^key-85873c2ccd21042d2570bd8a52c7a446] In regulation 65 (annual rate of full retirement pension) at the end of paragraph (1) insert “in the office from which P is taking partial retirement.”.
+(11)[^c-85873c2ccd21042d2570bd8a52c7a446] In regulation 65 (annual rate of full retirement pension) at the end of paragraph (1) insert “in the office from which P is taking partial retirement.”.
 
-(12)[^key-85873c2ccd21042d2570bd8a52c7a446] Omit regulation 144 (appointment of scheme actuary and actuarial valuations)[^f00052].
+(12)[^c-85873c2ccd21042d2570bd8a52c7a446] Omit regulation 144 (appointment of scheme actuary and actuarial valuations)[^f00052].
 
-(13)[^key-f6ad4fa1d41a5b89f2c7f6db171a7579] After regulation 167 insert—
+(13)[^c-f6ad4fa1d41a5b89f2c7f6db171a7579] After regulation 167 insert—
 
 > - Financial provision
 >
@@ -175,7 +175,7 @@ Regulation 136
 >
 > (3) This regulation is treated as having come into force on 1st April 2015.
 
-#### 5. Amendments to the Judicial Pensions (Additional Voluntary Contributions) Regulations 2017[^key-b31faf075e166885fe6d2d569e2a68a5]
+#### 5. Amendments to the Judicial Pensions (Additional Voluntary Contributions) Regulations 2017[^c-b31faf075e166885fe6d2d569e2a68a5]
 
 (1) The Judicial Pensions (Additional Voluntary Contributions) Regulations 2017[^f00053] are amended as follows.
 
@@ -194,22 +194,22 @@ Regulation 136
 
 ## Annotations
 
-[^key-2d36e4cfac22e139104f26f4fc4a6519]: Commencement: Sch. 3 para. 1 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-2d36e4cfac22e139104f26f4fc4a6519]: Commencement: Sch. 3 para. 1 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
-[^key-f773cdb77be93d379784b8c48c4f78b8]: Commencement: Sch. 3 para. 2 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-f773cdb77be93d379784b8c48c4f78b8]: Commencement: Sch. 3 para. 2 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00050]: Footnote: Section 70 was amended by [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053).
 
-[^key-06dc6c3c0a47e38e153e425dfa9c6237]: Commencement: Sch. 3 para. 3 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-06dc6c3c0a47e38e153e425dfa9c6237]: Commencement: Sch. 3 para. 3 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00051]: Footnote: Section 83 was amended by section 84(1) of, and paragraphs 28 and 31 of Schedule 12 to, the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30). It was amended further in relation to the definition of “normal pension age” by section 27 of, and paragraphs 18 and 20 of Schedule 8 to, the Public Service Pensions Act [2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-85873c2ccd21042d2570bd8a52c7a446]: Commencement: Sch. 3 para. 4(1)-(12) in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-85873c2ccd21042d2570bd8a52c7a446]: Commencement: Sch. 3 para. 4(1)-(12) in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
-[^key-f6ad4fa1d41a5b89f2c7f6db171a7579]: Commencement: Sch. 3 para. 4(13) in force at 18.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2)
+[^c-f6ad4fa1d41a5b89f2c7f6db171a7579]: Commencement: Sch. 3 para. 4(13) in force at 18.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2)
 
 [^f00052]: Footnote: Since valuation provisions are included in these scheme regulations, section 11(1A) of the Act mean that the 2015 Regulations are not required to include valuation provisions.
 
-[^key-b31faf075e166885fe6d2d569e2a68a5]: Commencement: Sch. 3 para. 5 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-b31faf075e166885fe6d2d569e2a68a5]: Commencement: Sch. 3 para. 5 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00053]: Footnote: [S.I. 2017/512](https://www.legislation.gov.uk/uksi/2017/512).

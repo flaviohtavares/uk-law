@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 112. Coordinated control programmes and information and data collection[^key-41c689eabb7af1dc79eae5adf3888841]
+## Article 112. Coordinated control programmes and information and data collection[^c-41c689eabb7af1dc79eae5adf3888841]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ With a view to conducting targeted assessment of the state of application of the
 
 ## Annotations
 
-[^key-41c689eabb7af1dc79eae5adf3888841]: Textual amendment: [Art. 112](https://www.legislation.gov.uk/eur/2017/625/article/112) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-41c689eabb7af1dc79eae5adf3888841]: Textual amendment: [Art. 112](https://www.legislation.gov.uk/eur/2017/625/article/112) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

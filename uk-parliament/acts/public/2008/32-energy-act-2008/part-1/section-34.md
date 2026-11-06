@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Power of Secretary of State etc to transfer functions[^key-5ccc035ae37125332ff7fb079bf85383]
+## 34. Power of Secretary of State etc to transfer functions[^c-5ccc035ae37125332ff7fb079bf85383]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ccc035ae37125332ff7fb079bf85383]: Commencement: S. 34 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
+[^c-5ccc035ae37125332ff7fb079bf85383]: Commencement: S. 34 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)

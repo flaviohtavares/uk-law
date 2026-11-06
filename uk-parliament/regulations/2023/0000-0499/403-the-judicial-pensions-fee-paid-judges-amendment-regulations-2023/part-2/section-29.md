@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Amendment of regulation 45[^key-19a25f101a9aface4930c5f0f28de073]
+## 29. Amendment of regulation 45[^c-19a25f101a9aface4930c5f0f28de073]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ In regulation 45—
 
 ## Annotations
 
-[^key-19a25f101a9aface4930c5f0f28de073]: Commencement: Reg. 29 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-19a25f101a9aface4930c5f0f28de073]: Commencement: Reg. 29 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Powers of Crown Court to vary orders on conviction[^key-ed46a452743b7ea070eb0dbd1abbba91]
+## 20. Powers of Crown Court to vary orders on conviction[^c-ed46a452743b7ea070eb0dbd1abbba91]
 
 *Extent: E+W+N.I.*
 
@@ -52,4 +52,4 @@ vary the order if the court has reasonable grounds to believe that the terms of 
 
 ## Annotations
 
-[^key-ed46a452743b7ea070eb0dbd1abbba91]: Commencement: S. 20 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
+[^c-ed46a452743b7ea070eb0dbd1abbba91]: Commencement: S. 20 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)

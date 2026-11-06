@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Temporary certificates[^key-15ed3d28364d449557fb62a95d69209f]
+## 9. Temporary certificates[^c-15ed3d28364d449557fb62a95d69209f]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The competent authority must grant a temporary certificate if—
 
 ## Annotations
 
-[^key-15ed3d28364d449557fb62a95d69209f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2014/951/regulation/9) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-15ed3d28364d449557fb62a95d69209f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2014/951/regulation/9) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

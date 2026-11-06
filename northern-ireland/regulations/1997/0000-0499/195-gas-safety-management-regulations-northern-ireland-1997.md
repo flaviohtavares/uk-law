@@ -48,11 +48,11 @@ Regulation 8
 
 The Department of Economic Development, being the Department concerned[^f00001], in exercise of the powers conferred on it by Articles 17(1) to (6) and 55(2) of, and paragraphs 1(1), 14(1), 15 and 20(*a*) of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00002] (“the 1978 Order”) and by Article 4(2) and (3) of the Offshore, and Pipelines, Safety (Northern Ireland) Order 1992[^f00003] and of every other power enabling it in that behalf, after consultation in accordance with Article 46(1) of the 1978 Order with the Health and Safety Agency for Northern Ireland and such other bodies as appeared to the Department to be appropriate, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-32d809fa30847920fbaa6f45acb2cf56]
+## 1. Citation and commencement[^c-32d809fa30847920fbaa6f45acb2cf56]
 
 These Regulations may be cited as the Gas Safety (Management) Regulations (Northern Ireland) 1997 and shall come into operation on 12th May 1997 except regulation 8 which shall come into operation on 12th December 1997.
 
-## 2. Interpretation[^key-b3d35550b13e4e0c80b37190ea029a17]
+## 2. Interpretation[^c-b3d35550b13e4e0c80b37190ea029a17]
 
 (1) In these Regulations—
 
@@ -100,7 +100,7 @@ These Regulations may be cited as the Gas Safety (Management) Regulations (North
 
 (11) Any reference in these Regulations to a person supplying or conveying gas, preparing a safety case or carrying out work in relation to a gas fitting is a reference to a person who does so in the course of a business or other undertaking carried on by him.
 
-## 3. Duties on persons conveying gas[^key-e6b804342aaba0f2b8b99e58f864d8fc]
+## 3. Duties on persons conveying gas[^c-e6b804342aaba0f2b8b99e58f864d8fc]
 
 (1) A person shall not convey gas in a network unless—
 
@@ -113,7 +113,7 @@ These Regulations may be cited as the Gas Safety (Management) Regulations (North
 
 (4) Nothing in these Regulations shall prevent a person who conveys gas in a network from also being the network emergency co-ordinator.
 
-## 4. Revision of safety cases[^key-45bb6da8629c11e9af47211328162724]
+## 4. Revision of safety cases[^c-45bb6da8629c11e9af47211328162724]
 
 (1) A person who has prepared a safety case pursuant to these Regulations shall revise its contents whenever it is appropriate, but nothing in this paragraph shall require him to have the revision accepted by the Department.
 
@@ -121,7 +121,7 @@ These Regulations may be cited as the Gas Safety (Management) Regulations (North
 
 (3) A person who has prepared a safety case which has been accepted by the Department pursuant to these Regulations shall make a thorough review of its contents at least every three years.
 
-## 5. Duty to conform with safety case[^key-a3e9195e790bc5563c20000025c2ccfc]
+## 5. Duty to conform with safety case[^c-a3e9195e790bc5563c20000025c2ccfc]
 
 (1) Where a person has prepared and has had accepted a safety case pursuant to these Regulations he shall ensure, so long as he conveys gas in the network to which the safety case relates or remains a network emergency co-ordinator, as the case may be, that the procedures and arrangements described in the safety case and any revision thereof are followed.
 
@@ -130,7 +130,7 @@ These Regulations may be cited as the Gas Safety (Management) Regulations (North
 - (a) in the particular circumstances of the case it was not in the best interests of health and safety to follow the procedures or arrangements concerned and there was insufficient time to revise the safety case pursuant to regulation 4; or
 - (b) the commission of the offence was due to a contravention by another person of regulation 6 and the accused had taken all reasonable precautions and exercised all due diligence to ensure that the procedures or arrangements were followed.
 
-## 6. Co-operation[^key-3d2a5c30fe1a935c66f1b7cf3fed2829]
+## 6. Co-operation[^c-3d2a5c30fe1a935c66f1b7cf3fed2829]
 
 (1) Every person to whom this paragraph applies shall co-operate so far as is necessary with a person conveying gas in a network and with a network emergency co-ordinator to enable them to comply with the provisions of these Regulations.
 
@@ -166,7 +166,7 @@ These Regulations may be cited as the Gas Safety (Management) Regulations (North
 
 (8) A person who conveys gas in a network shall, where he is requested to do so by a person proposing to carry out work in relation to a gas fitting, provide him with information about the operating pressures of the gas at the outlet of a service pipe.
 
-## 7. Gas escapes and investigations[^key-15ffc1a246cfb60becefcccb238866c8]
+## 7. Gas escapes and investigations[^c-15ffc1a246cfb60becefcccb238866c8]
 
 (1) It shall be the duty of Phoenix Natural Gas Limited to provide a continuously manned telephone service (which shall be contactable from any place within Northern Ireland by the use of one telephone number) for enabling persons to report an escape of gas from a network or from a gas fitting supplied with gas from a network.
 
@@ -214,7 +214,7 @@ These Regulations may be cited as the Gas Safety (Management) Regulations (North
 - (c) any reference to a fire or explosion of gas is a reference to an unintended fire or explosion of gas;
 - (d) any reference to a person supplying gas does not include a reference to a person to whom the gas is supplied and who provides it for use in a flat or part of premises let by him.
 
-## 8. Content and other characteristics of gas[^key-1e160680154e9b57ab001fc9e1f78dd6]
+## 8. Content and other characteristics of gas[^c-1e160680154e9b57ab001fc9e1f78dd6]
 
 (1) A person shall not, subject to paragraphs (2) to (4), convey gas in a network unless the gas conforms with the requirements specified in Part I of Schedule 3.
 
@@ -226,7 +226,7 @@ These Regulations may be cited as the Gas Safety (Management) Regulations (North
 
 (5) A person who conveys gas in a network shall ensure that suitable and sufficient tests are carried out to ensure that the gas conforms with the requirements of paragraph (1), (2) or (4), as appropriate.
 
-## 9. Keeping of documents[^key-0e30e11e0daafe85d89e2b8b2afd8658]
+## 9. Keeping of documents[^c-0e30e11e0daafe85d89e2b8b2afd8658]
 
 (1) A person who prepares a safety case pursuant to these Regulations shall—
 
@@ -246,7 +246,7 @@ These Regulations may be cited as the Gas Safety (Management) Regulations (North
 
 (5) In this regulation “audit report” means a report made pursuant to the arrangements referred to in paragraph 11 of Schedule 1 or paragraph 4 of Schedule 2 (to the extent that the later mentioned paragraph relates to arrangements for audit).
 
-## 10. Transitional provisions[^key-8bd41e5cac7dcef2a7076f739574ccfa]
+## 10. Transitional provisions[^c-8bd41e5cac7dcef2a7076f739574ccfa]
 
 (1) Where a person conveys gas in a network before 12th May 1998 it shall be sufficient compliance by him with regulation 3(1)(*a*) if—
 
@@ -261,7 +261,7 @@ These Regulations may be cited as the Gas Safety (Management) Regulations (North
 
 (5) Nothing in paragraph (3) shall prevent a person who conveys gas in the network from being appointed under that paragraph.
 
-## 11. Exemptions[^key-97cd8a3d88663cfa3231cfc67964bbd9]
+## 11. Exemptions[^c-97cd8a3d88663cfa3231cfc67964bbd9]
 
 (1) Subject to paragraph (2), the Department may, by a certificate in writing, exempt any person or class of persons from any requirement or prohibition imposed by these Regulations, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by the Department by a further certificate in writing.
 
@@ -272,7 +272,7 @@ These Regulations may be cited as the Gas Safety (Management) Regulations (North
 
 it is satisfied that the health and safety of persons likely to be affected by the exemption will not be prejudiced in consequence of it.
 
-## 12. Repeal[^key-82a341fc1f0bc7d90bf86be2db9cc3ec]
+## 12. Repeal[^c-82a341fc1f0bc7d90bf86be2db9cc3ec]
 
 Article 64 of the Gas (Northern Ireland) Order 1996 is hereby repealed.
 
@@ -288,71 +288,71 @@ Assistant Secretary
 
 Regulation 3(1)
 
-### 1. General[^key-83657c8ef5382775ebce002c9f5701ca]
+### 1. General[^c-83657c8ef5382775ebce002c9f5701ca]
 
 Name and address of the person preparing the safety case (in this Schedule referred to as “the duty holder”).
 
-**2.**[^key-4f0b5035e7e16a7ee75f3576e71cfa84] A description of the operation intended to be undertaken by the duty holder.
+**2.**[^c-4f0b5035e7e16a7ee75f3576e71cfa84] A description of the operation intended to be undertaken by the duty holder.
 
-**3.**[^key-5d70ef8df88b9f1ac35aba223061fe9e] A general description of the plant and premises the duty holder intends to use in connection with the operation including, in particular, the geographical location of where any pipes he uses join pipes used by other persons for conveying gas.
+**3.**[^c-5d70ef8df88b9f1ac35aba223061fe9e] A general description of the plant and premises the duty holder intends to use in connection with the operation including, in particular, the geographical location of where any pipes he uses join pipes used by other persons for conveying gas.
 
-**4.**[^key-1f9daa1beded133f70fe3c90249b7b29] Particulars of any—
+**4.**[^c-1f9daa1beded133f70fe3c90249b7b29] Particulars of any—
 
 - (a) technical specifications;
 - (b) procedures or arrangements relating to operation and maintenance,
 
 which the duty holder intends to follow in connection with the operation he intends to undertake insofar as they affect the health and safety of persons.
 
-### 5. Safety management[^key-61ba2d63cd19d7bebfae37ea9e417045]
+### 5. Safety management[^c-61ba2d63cd19d7bebfae37ea9e417045]
 
 A statement of the significant findings of the risk assessment he has made pursuant to regulation 3 of the Management of Health and Safety at Work Regulations (Northern Ireland) 1992[^f00010], and particulars of the arrangements he has made in accordance with regulation 4(1) thereof.
 
-**6.**[^key-39304579295e0309d08c319c91548d04] Particulars to demonstrate that the management system of the duty holder is adequate to ensure that the relevant statutory provisions will (in respect of matters within his control) be complied with in relation to the operation he intends to undertake.
+**6.**[^c-39304579295e0309d08c319c91548d04] Particulars to demonstrate that the management system of the duty holder is adequate to ensure that the relevant statutory provisions will (in respect of matters within his control) be complied with in relation to the operation he intends to undertake.
 
-**7.**[^key-31696503142076d4a15bf6b8458afbad] Particulars to demonstrate that the duty holder has established adequate arrangements for ensuring the competence of his employees in health and safety matters.
+**7.**[^c-31696503142076d4a15bf6b8458afbad] Particulars to demonstrate that the duty holder has established adequate arrangements for ensuring the competence of his employees in health and safety matters.
 
-**8.**[^key-d882d2058ac82d7ef547bdfda2b7acab] Particulars to demonstrate that the duty holder has established adequate arrangements for managing work carried out by persons who are not his employees on or in relation to plant or premises which he owns or controls.
+**8.**[^c-d882d2058ac82d7ef547bdfda2b7acab] Particulars to demonstrate that the duty holder has established adequate arrangements for managing work carried out by persons who are not his employees on or in relation to plant or premises which he owns or controls.
 
-**9.**[^key-f72ed0fda1e39c178d1743f57097a848] Particulars to demonstrate that the duty holder has established adequate arrangements for passing information relevant to health and safety to persons within his undertaking.
+**9.**[^c-f72ed0fda1e39c178d1743f57097a848] Particulars to demonstrate that the duty holder has established adequate arrangements for passing information relevant to health and safety to persons within his undertaking.
 
-**10.**[^key-d4c0fa66b243b37a825f933092328bad] Particulars to demonstrate that the duty holder has established adequate arrangements for passing and receiving information relevant to health and safety to and from other persons who have duties under these Regulations.
+**10.**[^c-d4c0fa66b243b37a825f933092328bad] Particulars to demonstrate that the duty holder has established adequate arrangements for passing and receiving information relevant to health and safety to and from other persons who have duties under these Regulations.
 
-**11.**[^key-aa57cac54b556f45f59d050fe80efe0a] Particulars to demonstrate that the duty holder has established adequate arrangements for audit and the making of any necessary reports.
+**11.**[^c-aa57cac54b556f45f59d050fe80efe0a] Particulars to demonstrate that the duty holder has established adequate arrangements for audit and the making of any necessary reports.
 
-### 12. Co-operation[^key-f4ed31d01cdf0e569e60b124b1c104d5]
+### 12. Co-operation[^c-f4ed31d01cdf0e569e60b124b1c104d5]
 
 Particulars of the arrangements the duty holder has established to enable him to comply with regulation 6 (co-operation) including (except where he is the network emergency co-ordinator) particulars of the arrangements he has established to ensure that any directions given to him by the network emergency co-ordinator are followed.
 
-### 13. Gas escapes and investigations[^key-bf445b021fc2c13efb1f0f178838c246]
+### 13. Gas escapes and investigations[^c-bf445b021fc2c13efb1f0f178838c246]
 
 Particulars of the arrangements—
 
 - (a) the duty holder and any emergency service provider appointed by him have established to enable him or the provider, as the case may be, to comply with regulation 7(4) to (6);
 - (b) the duty holder has established to appoint emergency service providers.
 
-**14.**[^key-0a381de9f5598585fcb6698344cf8e56] Particulars to demonstrate that the duty holder has established adequate arrangements to enable him to comply with regulation 7(12), (13), (15) and (16) for co-ordinating the investigations he causes to be carried out pursuant to that regulation with other investigations carried out pursuant thereto and for participating in such other investigations.
+**14.**[^c-0a381de9f5598585fcb6698344cf8e56] Particulars to demonstrate that the duty holder has established adequate arrangements to enable him to comply with regulation 7(12), (13), (15) and (16) for co-ordinating the investigations he causes to be carried out pursuant to that regulation with other investigations carried out pursuant thereto and for participating in such other investigations.
 
-### 15. Content and other characteristics of gas[^key-64cfee51ddd2c42019571e06538750c6]
+### 15. Content and other characteristics of gas[^c-64cfee51ddd2c42019571e06538750c6]
 
 Particulars to demonstrate that the duty holder has established adequate arrangements to ensure that all gas he conveys complies with regulation 8.
 
-### 16. Continuity of supply[^key-6ed0952d2a47cf3da8f5f92897782eea]
+### 16. Continuity of supply[^c-6ed0952d2a47cf3da8f5f92897782eea]
 
 Particulars to demonstrate that the duty holder has established adequate arrangements to minimise the risk of a supply emergency.
 
-**17.**[^key-2e6386fe74a07cae394fb368014d9a9a] Particulars to demonstrate that the duty holder has established adequate arrangements to ensure that the gas he conveys will be at an adequate pressure when it leaves the part of the network used by him.
+**17.**[^c-2e6386fe74a07cae394fb368014d9a9a] Particulars to demonstrate that the duty holder has established adequate arrangements to ensure that the gas he conveys will be at an adequate pressure when it leaves the part of the network used by him.
 
-### 18. Supply emergencies[^key-b48458c3c423484e6b410e8850cf434c]
+### 18. Supply emergencies[^c-b48458c3c423484e6b410e8850cf434c]
 
 Particulars to demonstrate that the duty holder has established adequate arrangements for dealing with supply emergencies or other incidents which could endanger persons.
 
-**19.**[^key-99d0cf611790889bd228aeadb8977385] Where the duty holder is the only person conveying gas in a network, particulars to demonstrate that he has established adequate arrangements to decide when and for how long gas not conforming with the requirements of regulation 8(1) should be conveyed in the network pursuant to regulation 8(4).
+**19.**[^c-99d0cf611790889bd228aeadb8977385] Where the duty holder is the only person conveying gas in a network, particulars to demonstrate that he has established adequate arrangements to decide when and for how long gas not conforming with the requirements of regulation 8(1) should be conveyed in the network pursuant to regulation 8(4).
 
-**20.**[^key-13672b1b6bc12094828870038611ba3d] Without prejudice to paragraph 18, particulars of the procedures that the duty holder has established to discontinue safely supply to consumers, when it is known there is insufficient gas to satisfy demand.
+**20.**[^c-13672b1b6bc12094828870038611ba3d] Without prejudice to paragraph 18, particulars of the procedures that the duty holder has established to discontinue safely supply to consumers, when it is known there is insufficient gas to satisfy demand.
 
-**21.**[^key-4e212b9937be8f2043c124e381c8d4dc] Particulars of the procedures that the duty holder has established to restore safely the gas supply to consumers, following an interruption in supply.
+**21.**[^c-4e212b9937be8f2043c124e381c8d4dc] Particulars of the procedures that the duty holder has established to restore safely the gas supply to consumers, following an interruption in supply.
 
-### 22. Interpretation[^key-0fed980b40b42fd013d5520f32585f94]
+### 22. Interpretation[^c-0fed980b40b42fd013d5520f32585f94]
 
 In this Schedule—
 
@@ -364,11 +364,11 @@ In this Schedule—
 
 Regulation 3(2)
 
-**1.**[^key-ad282a73d510caee572a3c2a4f5ca164] Name and address of the person preparing the safety case (in this Schedule referred to as “the duty holder”).
+**1.**[^c-ad282a73d510caee572a3c2a4f5ca164] Name and address of the person preparing the safety case (in this Schedule referred to as “the duty holder”).
 
-**2.**[^key-7ad8d977ce366de45976bcd5f064eb90] A general description of the network to which the safety case relates, including the geographical location of where pipes used by different persons conveying gas in the network join.
+**2.**[^c-7ad8d977ce366de45976bcd5f064eb90] A general description of the network to which the safety case relates, including the geographical location of where pipes used by different persons conveying gas in the network join.
 
-**3.**[^key-6425eb30dda37bfb1b1433ff723209e7] Particulars to demonstrate that the duty holder has established adequate arrangements for co-ordinating the actions to be taken to prevent a supply emergency including—
+**3.**[^c-6425eb30dda37bfb1b1433ff723209e7] Particulars to demonstrate that the duty holder has established adequate arrangements for co-ordinating the actions to be taken to prevent a supply emergency including—
 
 - (a) particulars to demonstrate that the duty holder has established adequate arrangements to monitor gas flow within the network in order to identify a forthcoming supply emergency;
 - (b) in cases where it is not possible to obtain sufficient gas, particulars of the procedures and arrangements that the duty holder has established to direct persons conveying gas to secure a reduction in consumption and to verify that such directions have been followed;
@@ -377,7 +377,7 @@ Regulation 3(2)
 - (e) particulars to demonstrate that the duty holder has established adequate arrangements for rehearsing and testing the actions to be taken in the case of a supply emergency;
 - (f) a general description of the plant and premises the duty holder intends to use in connection with the arrangements and procedures described in his safety case pursuant to this paragraph.
 
-**4.**[^key-759a710c6ed9db84a4b3f98e3414c060] The same particulars as are referred to in paragraphs 4 to 11 of Schedule 1 as if any reference in paragraphs 4 and 6 thereof to the operation intended to be undertaken were a reference to the network emergency co-ordinator’s functions under the arrangements and procedures described in his safety case.
+**4.**[^c-759a710c6ed9db84a4b3f98e3414c060] The same particulars as are referred to in paragraphs 4 to 11 of Schedule 1 as if any reference in paragraphs 4 and 6 thereof to the operation intended to be undertaken were a reference to the network emergency co-ordinator’s functions under the arrangements and procedures described in his safety case.
 
 ## SCHEDULE 3 — Content and other characteristics of gas
 
@@ -385,7 +385,7 @@ Regulation 8
 
 ### Part I — Requirements under Normal Conditions
 
-**1.**[^key-8967073f8ef22b31e6be213bbcfbacd4] The content and characteristics of the gas shall be in accordance with the values specified in the following table.
+**1.**[^c-8967073f8ef22b31e6be213bbcfbacd4] The content and characteristics of the gas shall be in accordance with the values specified in the following table.
 
 | *Content or characteristic* | *Value* |
 | --- | --- |
@@ -399,17 +399,17 @@ Regulation 8
 | ICF | ≤ 0.48 |
 | SI | ≤ 0.60 |
 
-**2.**[^key-fbfb968d4f96e3a1f5be7ce8502f78c6] The gas shall have been treated with a suitable stenching agent to ensure that it has a distinctive and characteristic odour which shall remain distinctive and characteristic when the gas is mixed with gas which has not been so treated, except that this paragraph shall not apply where the gas is at a pressure of above 7 barg.
+**2.**[^c-fbfb968d4f96e3a1f5be7ce8502f78c6] The gas shall have been treated with a suitable stenching agent to ensure that it has a distinctive and characteristic odour which shall remain distinctive and characteristic when the gas is mixed with gas which has not been so treated, except that this paragraph shall not apply where the gas is at a pressure of above 7 barg.
 
-**3.**[^key-95aa06f10294757abb6a22929d2500b9] The gas shall be at a suitable pressure to ensure the safe operation of any gas appliance (within the meaning of regulation 2(1) of the 1997 Regulations) which a consumer could reasonably be expected to operate.
+**3.**[^c-95aa06f10294757abb6a22929d2500b9] The gas shall be at a suitable pressure to ensure the safe operation of any gas appliance (within the meaning of regulation 2(1) of the 1997 Regulations) which a consumer could reasonably be expected to operate.
 
-**4.**[^key-8b0652b6c6c39ec3ba4c1be5358b39e3] (1) Expressions and the abbreviations used in this Part shall have the meanings assigned to them in Part III.
+**4.**[^c-8b0652b6c6c39ec3ba4c1be5358b39e3] (1) Expressions and the abbreviations used in this Part shall have the meanings assigned to them in Part III.
 
 (2) ICF and SI shall be calculated in accordance with Part III.
 
 ### Part II — Requirements for Gas Conveyed to Prevent a Supply Emergency
 
-**1.**[^key-9522608c2baf292608ff98d019ede958] The requirements of the gas referred to in regulation 8(2) and (4) are—
+**1.**[^c-9522608c2baf292608ff98d019ede958] The requirements of the gas referred to in regulation 8(2) and (4) are—
 
 - (a) WN—
   - (i) ≤ 52.85 MJ/m<sup>3</sup>, and
@@ -418,13 +418,13 @@ Regulation 8
 
 and in all other respects the gas shall conform to the requirements specified in Part I, as if those requirements were repeated herein.
 
-**2.**[^key-f85c82a7d8c9a05cb97cab489ece119b] (1) Expressions and the abbreviations used in this Part shall have the meanings assigned to them in Part III.
+**2.**[^c-f85c82a7d8c9a05cb97cab489ece119b] (1) Expressions and the abbreviations used in this Part shall have the meanings assigned to them in Part III.
 
 (2) ICF and SI shall be calculated in accordance with Part III.
 
 ### Part III — Interpretation
 
-**1.**[^key-a28d6b46177dc802ba738e481145199e] In this Schedule—
+**1.**[^c-a28d6b46177dc802ba738e481145199e] In this Schedule—
 
 - “bar” means bars (absolute);
 - “barg” means bars (gauge);
@@ -443,7 +443,7 @@ and in all other respects the gas shall conform to the requirements specified in
 - “WN” means the Wobbe Number;
 - trigonometric functions are to be evaluated in radians.
 
-**2.**[^key-5ed5d725f21205ae5f086166b0ee7a13] In this Schedule, ICF, SI and WN shall be calculated in accordance with the following formulae—
+**2.**[^c-5ed5d725f21205ae5f086166b0ee7a13] In this Schedule, ICF, SI and WN shall be calculated in accordance with the following formulae—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/1997/195) [formula: see source](https://www.legislation.gov.uk/nisr/1997/195) [formula: see source](https://www.legislation.gov.uk/nisr/1997/195)
 
@@ -485,21 +485,21 @@ A person who contravenes the Regulations or any requirement or prohibition impos
 
 [^f00003]: Footnote: [S.I. 1992/1728 (N.I. 17)](https://www.legislation.gov.uk/nisi/1992/1728); Article 4(3)(*a*) was amended by Schedule 6 to the Gas (Northern Ireland) Order 1996 ([S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275))
 
-[^key-32d809fa30847920fbaa6f45acb2cf56]: Commencement: Reg. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-32d809fa30847920fbaa6f45acb2cf56]: Commencement: Reg. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-b3d35550b13e4e0c80b37190ea029a17]: Commencement: Reg. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-b3d35550b13e4e0c80b37190ea029a17]: Commencement: Reg. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1997 No. 194](https://www.legislation.gov.uk/nisr/1997/194)
 
 [^f00005]: Footnote: [S.R. 1997 No. 193](https://www.legislation.gov.uk/nisr/1997/193)
 
-[^key-e6b804342aaba0f2b8b99e58f864d8fc]: Commencement: Reg. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-e6b804342aaba0f2b8b99e58f864d8fc]: Commencement: Reg. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-45bb6da8629c11e9af47211328162724]: Commencement: Reg. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-45bb6da8629c11e9af47211328162724]: Commencement: Reg. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-a3e9195e790bc5563c20000025c2ccfc]: Commencement: Reg. 5 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-a3e9195e790bc5563c20000025c2ccfc]: Commencement: Reg. 5 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-3d2a5c30fe1a935c66f1b7cf3fed2829]: Commencement: Reg. 6 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-3d2a5c30fe1a935c66f1b7cf3fed2829]: Commencement: Reg. 6 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)
 
@@ -507,86 +507,86 @@ A person who contravenes the Regulations or any requirement or prohibition impos
 
 [^f00008]: Footnote: [S.R. 1995 No. 491](https://www.legislation.gov.uk/nisr/1995/491)
 
-[^key-15ffc1a246cfb60becefcccb238866c8]: Commencement: Reg. 7 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-15ffc1a246cfb60becefcccb238866c8]: Commencement: Reg. 7 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1986 No. 247](https://www.legislation.gov.uk/nisr/1986/247) to which there are amendments not relevant to these Regulations
 
-[^key-1e160680154e9b57ab001fc9e1f78dd6]: Commencement: Reg. 8 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-1e160680154e9b57ab001fc9e1f78dd6]: Commencement: Reg. 8 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-0e30e11e0daafe85d89e2b8b2afd8658]: Commencement: Reg. 9 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-0e30e11e0daafe85d89e2b8b2afd8658]: Commencement: Reg. 9 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-8bd41e5cac7dcef2a7076f739574ccfa]: Commencement: Reg. 10 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-8bd41e5cac7dcef2a7076f739574ccfa]: Commencement: Reg. 10 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-97cd8a3d88663cfa3231cfc67964bbd9]: Commencement: Reg. 11 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-97cd8a3d88663cfa3231cfc67964bbd9]: Commencement: Reg. 11 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-82a341fc1f0bc7d90bf86be2db9cc3ec]: Commencement: Reg. 12 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-82a341fc1f0bc7d90bf86be2db9cc3ec]: Commencement: Reg. 12 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-83657c8ef5382775ebce002c9f5701ca]: Commencement: Sch. 1 para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-83657c8ef5382775ebce002c9f5701ca]: Commencement: Sch. 1 para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-4f0b5035e7e16a7ee75f3576e71cfa84]: Commencement: Sch. 1 para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-4f0b5035e7e16a7ee75f3576e71cfa84]: Commencement: Sch. 1 para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-5d70ef8df88b9f1ac35aba223061fe9e]: Commencement: Sch. 1 para. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-5d70ef8df88b9f1ac35aba223061fe9e]: Commencement: Sch. 1 para. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-1f9daa1beded133f70fe3c90249b7b29]: Commencement: Sch. 1 para. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-1f9daa1beded133f70fe3c90249b7b29]: Commencement: Sch. 1 para. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-61ba2d63cd19d7bebfae37ea9e417045]: Commencement: Sch. 1 para. 5 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-61ba2d63cd19d7bebfae37ea9e417045]: Commencement: Sch. 1 para. 5 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
 [^f00010]: Footnote: [S.R. 1992 No. 459](https://www.legislation.gov.uk/nisr/1992/459), to which there are amendments not relevant to these Regulations
 
-[^key-39304579295e0309d08c319c91548d04]: Commencement: Sch. 1 para. 6 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-39304579295e0309d08c319c91548d04]: Commencement: Sch. 1 para. 6 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-31696503142076d4a15bf6b8458afbad]: Commencement: Sch. 1 para. 7 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-31696503142076d4a15bf6b8458afbad]: Commencement: Sch. 1 para. 7 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-d882d2058ac82d7ef547bdfda2b7acab]: Commencement: Sch. 1 para. 8 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-d882d2058ac82d7ef547bdfda2b7acab]: Commencement: Sch. 1 para. 8 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-f72ed0fda1e39c178d1743f57097a848]: Commencement: Sch. 1 para. 9 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-f72ed0fda1e39c178d1743f57097a848]: Commencement: Sch. 1 para. 9 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-d4c0fa66b243b37a825f933092328bad]: Commencement: Sch. 1 para. 10 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-d4c0fa66b243b37a825f933092328bad]: Commencement: Sch. 1 para. 10 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-aa57cac54b556f45f59d050fe80efe0a]: Commencement: Sch. 1 para. 11 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-aa57cac54b556f45f59d050fe80efe0a]: Commencement: Sch. 1 para. 11 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-f4ed31d01cdf0e569e60b124b1c104d5]: Commencement: Sch. 1 para. 12 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-f4ed31d01cdf0e569e60b124b1c104d5]: Commencement: Sch. 1 para. 12 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-bf445b021fc2c13efb1f0f178838c246]: Commencement: Sch. 1 para. 13 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-bf445b021fc2c13efb1f0f178838c246]: Commencement: Sch. 1 para. 13 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-0a381de9f5598585fcb6698344cf8e56]: Commencement: Sch. 1 para. 14 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-0a381de9f5598585fcb6698344cf8e56]: Commencement: Sch. 1 para. 14 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-64cfee51ddd2c42019571e06538750c6]: Commencement: Sch. 1 para. 15 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-64cfee51ddd2c42019571e06538750c6]: Commencement: Sch. 1 para. 15 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-6ed0952d2a47cf3da8f5f92897782eea]: Commencement: Sch. 1 para. 16 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-6ed0952d2a47cf3da8f5f92897782eea]: Commencement: Sch. 1 para. 16 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-2e6386fe74a07cae394fb368014d9a9a]: Commencement: Sch. 1 para. 17 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-2e6386fe74a07cae394fb368014d9a9a]: Commencement: Sch. 1 para. 17 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-b48458c3c423484e6b410e8850cf434c]: Commencement: Sch. 1 para. 18 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-b48458c3c423484e6b410e8850cf434c]: Commencement: Sch. 1 para. 18 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-99d0cf611790889bd228aeadb8977385]: Commencement: Sch. 1 para. 19 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-99d0cf611790889bd228aeadb8977385]: Commencement: Sch. 1 para. 19 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-13672b1b6bc12094828870038611ba3d]: Commencement: Sch. 1 para. 20 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-13672b1b6bc12094828870038611ba3d]: Commencement: Sch. 1 para. 20 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-4e212b9937be8f2043c124e381c8d4dc]: Commencement: Sch. 1 para. 21 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-4e212b9937be8f2043c124e381c8d4dc]: Commencement: Sch. 1 para. 21 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-0fed980b40b42fd013d5520f32585f94]: Commencement: Sch. 1 para. 22 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-0fed980b40b42fd013d5520f32585f94]: Commencement: Sch. 1 para. 22 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-ad282a73d510caee572a3c2a4f5ca164]: Commencement: Sch. 2 para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-ad282a73d510caee572a3c2a4f5ca164]: Commencement: Sch. 2 para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-7ad8d977ce366de45976bcd5f064eb90]: Commencement: Sch. 2 para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-7ad8d977ce366de45976bcd5f064eb90]: Commencement: Sch. 2 para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-6425eb30dda37bfb1b1433ff723209e7]: Commencement: Sch. 2 para. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-6425eb30dda37bfb1b1433ff723209e7]: Commencement: Sch. 2 para. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-759a710c6ed9db84a4b3f98e3414c060]: Commencement: Sch. 2 para. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-759a710c6ed9db84a4b3f98e3414c060]: Commencement: Sch. 2 para. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-8967073f8ef22b31e6be213bbcfbacd4]: Commencement: Sch. 3 Pt. I para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-8967073f8ef22b31e6be213bbcfbacd4]: Commencement: Sch. 3 Pt. I para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-fbfb968d4f96e3a1f5be7ce8502f78c6]: Commencement: Sch. 3 Pt. I para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-fbfb968d4f96e3a1f5be7ce8502f78c6]: Commencement: Sch. 3 Pt. I para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-95aa06f10294757abb6a22929d2500b9]: Commencement: Sch. 3 para. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-95aa06f10294757abb6a22929d2500b9]: Commencement: Sch. 3 para. 3 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-8b0652b6c6c39ec3ba4c1be5358b39e3]: Commencement: Sch. 3 para. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-8b0652b6c6c39ec3ba4c1be5358b39e3]: Commencement: Sch. 3 para. 4 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-9522608c2baf292608ff98d019ede958]: Commencement: Sch. 3 Pt. II para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-9522608c2baf292608ff98d019ede958]: Commencement: Sch. 3 Pt. II para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-f85c82a7d8c9a05cb97cab489ece119b]: Commencement: Sch. 3 Pt. II para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-f85c82a7d8c9a05cb97cab489ece119b]: Commencement: Sch. 3 Pt. II para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-a28d6b46177dc802ba738e481145199e]: Commencement: Sch. 3 Pt. III para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-a28d6b46177dc802ba738e481145199e]: Commencement: Sch. 3 Pt. III para. 1 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
 
-[^key-5ed5d725f21205ae5f086166b0ee7a13]: Commencement: Sch. 3 Pt. III para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)
+[^c-5ed5d725f21205ae5f086166b0ee7a13]: Commencement: Sch. 3 Pt. III para. 2 in operation at 12.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/195/regulation/1)

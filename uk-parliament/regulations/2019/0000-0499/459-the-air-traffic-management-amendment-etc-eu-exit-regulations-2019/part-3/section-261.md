@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261. Article 1 of Commission Implementing Regulation (EU) No 1206/2011[^key-583ef72d33df8c3cf85f0b96ca617894]
+## 261. Article 1 of Commission Implementing Regulation (EU) No 1206/2011[^c-583ef72d33df8c3cf85f0b96ca617894]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 1 (subject matter) “EATMN” substitute “UK ATMS”.
 
 ## Annotations
 
-[^key-583ef72d33df8c3cf85f0b96ca617894]: Commencement: Reg. 261 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-583ef72d33df8c3cf85f0b96ca617894]: Commencement: Reg. 261 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

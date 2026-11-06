@@ -28,7 +28,7 @@ summary: ''
 - “**the nominated company**” means the company nominated for the purposes of section 127(1);
 - “**securities**”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
 - “**shares**” includes stock;
-- “**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006[^key-33cb2c4180391630a230f245da34837c];
+- “**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006[^c-33cb2c4180391630a230f245da34837c];
 - “**the transfer date**” means the day appointed under section 127(1).
 
 (2) Other expressions used in this Part which are also used in the [^c16548351]Broadcasting Act 1981 have the same meaning as in that Act.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33cb2c4180391630a230f245da34837c]: Textual amendment: Words in [s. 141(1)](https://www.legislation.gov.uk/ukpga/1990/42/section/141/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 119(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/119/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-33cb2c4180391630a230f245da34837c]: Textual amendment: Words in [s. 141(1)](https://www.legislation.gov.uk/ukpga/1990/42/section/141/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 119(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/119/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c16548351]: Marginal citation: [1981 c. 68](https://www.legislation.gov.uk/ukpga/1981/68).

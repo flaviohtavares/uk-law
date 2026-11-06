@@ -35,17 +35,17 @@ An Act to provide for the constitution of Commissions for the reform of the law.
 
 ## 1. The Law Commission.
 
-(1) For the purpose of promoting the reform of the law of England and Wales[^key-32b3f881ff2c614ebcdb059bc70c7e05] there shall be constituted in accordance with this section a body of Commissioners, to be known as the Law Commission, consisting (except during any temporary vacancy)[^c657278] of a Chairman and four other Commissioners appointed by the Lord Chancellor.
+(1) For the purpose of promoting the reform of the law of England and Wales[^c-32b3f881ff2c614ebcdb059bc70c7e05] there shall be constituted in accordance with this section a body of Commissioners, to be known as the Law Commission, consisting (except during any temporary vacancy)[^c657278] of a Chairman and four other Commissioners appointed by the Lord Chancellor.
 
-(1A)[^key-8ea533b5088fe7627129ce6d2b20a77c] The person appointed to be the Chairman shall be a person who holds office as a judge of the High Court or Court of Appeal in England and Wales.
+(1A)[^c-8ea533b5088fe7627129ce6d2b20a77c] The person appointed to be the Chairman shall be a person who holds office as a judge of the High Court or Court of Appeal in England and Wales.
 
-(2) The persons appointed to be the other[^key-53f6d178ea0bdc8c0d7a534b61f35ab1] Commissioners shall be persons appearing to the Lord Chancellor to be suitably qualified by the holding of judicial office or by experience as a person having a general qualification (within the meaning of section 71 of the Courts and Legal Services Act 1990)[^c657279] or as a teacher of law in a university.
+(2) The persons appointed to be the other[^c-53f6d178ea0bdc8c0d7a534b61f35ab1] Commissioners shall be persons appearing to the Lord Chancellor to be suitably qualified by the holding of judicial office or by experience as a person having a general qualification (within the meaning of section 71 of the Courts and Legal Services Act 1990)[^c657279] or as a teacher of law in a university.
 
 (3) A person appointed to be a Commissioner shall be appointed for such term (not exceeding five years) and subject to such conditions as may be determined by the Lord Chancellor at the time of his appointment; but a Commissioner may at any time resign his office and a person who ceases to be a Commissioner shall be eligible for reappointment.
 
 (4) A person who holds judicial office may be appointed as a Commissioner without relinquishing that office, but shall not (unless otherwise provided by the terms of his appointment) be required to perform his duties as the holder of that office while he remains a member of the Commission.
 
-(5)[^key-e4332ec9c7422331eb295a391ccd54cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e4332ec9c7422331eb295a391ccd54cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. The Scottish Law Commission.
 
@@ -68,7 +68,7 @@ An Act to provide for the constitution of Commissions for the reform of the law.
 - (c) to undertake, pursuant to any such recommendations approved by the Minister, the examination of particular branches of the law and the formulation, by means of draft Bills or otherwise, of proposals for reform therein;
 - (d) to prepare from time to time at the request of the Minister comprehensive programmes of consolidation and statute law revision, and to undertake the preparation of draft Bills pursuant to any such programme approved by the Minister;
 - (e) to provide advice and information to government departments and other authorities or bodies concerned at the instance of the Government of the United Kingdom or the Scottish Administration[^c657305] with proposals for the reform or amendment of any branch of the law;
-- (ea)[^key-e97749b6e757719d0ed9c7c49b36ff3c] in the case of the Law Commission, to provide advice and information to the Welsh Ministers;
+- (ea)[^c-e97749b6e757719d0ed9c7c49b36ff3c] in the case of the Law Commission, to provide advice and information to the Welsh Ministers;
 - (f) to obtain such information as to the legal systems of other countries as appears to the Commissioners likely to facilitate the performance of any of their functions.
 
 (2) The Minister shall lay before Parliament any programmes prepared by the Commission and approved by him and any proposals for reform formulated by the Commission pursuant to such programmes.
@@ -77,9 +77,9 @@ An Act to provide for the constitution of Commissions for the reform of the law.
 
 (3A)[^c657306] Subsections (2) and (3) of this section shall have effect in relation to the Scottish Law Commission with the substitution of “the Scottish Parliament” for “Parliament”.
 
-(4) In the exercise of their functions under this Act the Commissions shall act in consultation with each other and the Northern Ireland Law Commission[^key-1688dc4bc42fce1d373d011a70bb18e9].
+(4) In the exercise of their functions under this Act the Commissions shall act in consultation with each other and the Northern Ireland Law Commission[^c-1688dc4bc42fce1d373d011a70bb18e9].
 
-## 3A. Reports on implementation of Law Commission proposals[^key-e3adbdedaf19ff815ba1d38e343fbd8d]
+## 3A. Reports on implementation of Law Commission proposals[^c-e3adbdedaf19ff815ba1d38e343fbd8d]
 
 (1) As soon as practicable after the end of each reporting year, the Lord Chancellor must prepare a report on—
 
@@ -101,9 +101,9 @@ An Act to provide for the constitution of Commissions for the reform of the law.
 - (a) a proposal formulated by the Law Commission as mentioned in section 3(1)(c);
 - (b) a proposal for consolidation or statute law revision for which a draft Bill has been prepared by the Law Commission as mentioned in section 3(1)(d).
 
-(7)[^key-23a96d590cb22552eb737803b53aa230] This section does not require the Lord Chancellor to prepare reports on Law Commission proposals on which the Welsh Ministers are required to report (see section 3C).
+(7)[^c-23a96d590cb22552eb737803b53aa230] This section does not require the Lord Chancellor to prepare reports on Law Commission proposals on which the Welsh Ministers are required to report (see section 3C).
 
-## 3B. Protocol about the Law Commission's work[^key-bf9b4367103cc053f42d91f0173dc164]
+## 3B. Protocol about the Law Commission's work[^c-bf9b4367103cc053f42d91f0173dc164]
 
 (1) The Lord Chancellor and the Law Commission may agree for the purposes of this section a statement (a “protocol”) about the Law Commission's work.
 
@@ -119,7 +119,7 @@ An Act to provide for the constitution of Commissions for the reform of the law.
 
 (5) Ministers of the Crown and the Law Commission must have regard to the protocol.
 
-## 3C. Report on implementation of Law Commission proposals: Wales[^key-c212f62b1eb06a264141933308c75cd5]
+## 3C. Report on implementation of Law Commission proposals: Wales[^c-c212f62b1eb06a264141933308c75cd5]
 
 (1) The Welsh Ministers must prepare a report each year on—
 
@@ -204,7 +204,7 @@ An Act to provide for the constitution of Commissions for the reform of the law.
 
 (3) The power of the Treasury to make regulations under subsection (2) of this section shall be exercisable by statutory instrument, and any statutory instrument made by virtue of that subsection shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(4) The expenses of the Law Commission [^c657321]. . ., including the remuneration of officers and servants appointed under this section, shall be defrayed out of moneys provided by Parliament (except to the extent that those expenses are met by the Welsh Ministers)[^key-0c635c4db0229607aaf71bea8eca471b].
+(4) The expenses of the Law Commission [^c657321]. . ., including the remuneration of officers and servants appointed under this section, shall be defrayed out of moneys provided by Parliament (except to the extent that those expenses are met by the Welsh Ministers)[^c-0c635c4db0229607aaf71bea8eca471b].
 
 (5)[^c657322] The expenses of the Scottish Law Commission, including the remuneration of its officers and servants appointed under this section, shall be paid by the Scottish Ministers.
 
@@ -212,7 +212,7 @@ An Act to provide for the constitution of Commissions for the reform of the law.
 
 (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c657327]
 
-(2) In this Act “**high judicial office**” means such office within the meaning of Part 3 of the Constitutional Reform Act 2005 or membership of the Judicial Committee of the Privy Council;[^key-146f4435ad501684f2c4ab91e8683eaa] and “**the Minister**” means, in relation to the Law Commission the Lord Chancellor and in relation to the Scottish Law Commission . . . [^c657330] the Scottish Ministers[^c657331].
+(2) In this Act “**high judicial office**” means such office within the meaning of Part 3 of the Constitutional Reform Act 2005 or membership of the Judicial Committee of the Privy Council;[^c-146f4435ad501684f2c4ab91e8683eaa] and “**the Minister**” means, in relation to the Law Commission the Lord Chancellor and in relation to the Scottish Law Commission . . . [^c657330] the Scottish Ministers[^c657331].
 
 ## 7. Short title.
 
@@ -222,17 +222,17 @@ This Act may be cited as the Law Commissions Act 1965.
 
 [^c657277]: Modification: Act: Functions transferred (19.5.1999) by [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/678/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1999/678/schedule)
 
-[^key-32b3f881ff2c614ebcdb059bc70c7e05]: Textual amendment: Words in s. 1(1) inserted (16.4.2007) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/8); [S.R. 2007/237](https://www.legislation.gov.uk/nisr/2007/237), [art. 2](https://www.legislation.gov.uk/nisr/2007/237/article/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/nisr/2007/237/schedule/paragraph/6/b)
+[^c-32b3f881ff2c614ebcdb059bc70c7e05]: Textual amendment: Words in s. 1(1) inserted (16.4.2007) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/8); [S.R. 2007/237](https://www.legislation.gov.uk/nisr/2007/237), [art. 2](https://www.legislation.gov.uk/nisr/2007/237/article/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/nisr/2007/237/schedule/paragraph/6/b)
 
 [^c657278]: Textual amendment: Words inserted by [Administration of Justice Act 1982 (c. 53, SIF 37)](https://www.legislation.gov.uk/ukpga/1982/53), [s. 64](https://www.legislation.gov.uk/ukpga/1982/53/section/64)
 
-[^key-8ea533b5088fe7627129ce6d2b20a77c]: Textual amendment: S. 1(1A) inserted (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2007/15/section/60/2), [148(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/1)
+[^c-8ea533b5088fe7627129ce6d2b20a77c]: Textual amendment: S. 1(1A) inserted (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2007/15/section/60/2), [148(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/1)
 
-[^key-53f6d178ea0bdc8c0d7a534b61f35ab1]: Textual amendment: Words in s. 1(2) inserted (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2007/15/section/60/3), [148(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/1)
+[^c-53f6d178ea0bdc8c0d7a534b61f35ab1]: Textual amendment: Words in s. 1(2) inserted (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2007/15/section/60/3), [148(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/1)
 
 [^c657279]: Textual amendment: Words substituted by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 71(2)](https://www.legislation.gov.uk/ukpga/1990/41/section/71/2), [Sch. 10 para. 25](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/25)
 
-[^key-e4332ec9c7422331eb295a391ccd54cf]: Textual amendment: S. 1(5) repealed (16.4.2007) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2007/237](https://www.legislation.gov.uk/nisr/2007/237), [art. 2](https://www.legislation.gov.uk/nisr/2007/237/article/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/nisr/2007/237/schedule/paragraph/7/a)
+[^c-e4332ec9c7422331eb295a391ccd54cf]: Textual amendment: S. 1(5) repealed (16.4.2007) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2007/237](https://www.legislation.gov.uk/nisr/2007/237), [art. 2](https://www.legislation.gov.uk/nisr/2007/237/article/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/nisr/2007/237/schedule/paragraph/7/a)
 
 [^c657293]: Textual amendment: Words repealed by [S.I. 1972/2002](https://www.legislation.gov.uk/uksi/1972/2002) art. 3(3)(b)
 
@@ -248,19 +248,19 @@ This Act may be cited as the Law Commissions Act 1965.
 
 [^c657305]: Textual amendment: Words in s. 3(1)(e) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 36(3)(a)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/36/3/a)
 
-[^key-e97749b6e757719d0ed9c7c49b36ff3c]: Textual amendment: S. 3(1)(ea) inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/25/2), [29(2)(c)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/c)
+[^c-e97749b6e757719d0ed9c7c49b36ff3c]: Textual amendment: S. 3(1)(ea) inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/25/2), [29(2)(c)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/c)
 
 [^c657306]: Textual amendment: S. 3(3A) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 36(3)(b)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/36/3/b)
 
-[^key-1688dc4bc42fce1d373d011a70bb18e9]: Textual amendment: Words in s. 3(4) inserted (16.4.2007) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/9); [S.R. 2007/237](https://www.legislation.gov.uk/nisr/2007/237), [art. 2](https://www.legislation.gov.uk/nisr/2007/237/article/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/nisr/2007/237/schedule/paragraph/6/b)
+[^c-1688dc4bc42fce1d373d011a70bb18e9]: Textual amendment: Words in s. 3(4) inserted (16.4.2007) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/9); [S.R. 2007/237](https://www.legislation.gov.uk/nisr/2007/237), [art. 2](https://www.legislation.gov.uk/nisr/2007/237/article/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/nisr/2007/237/schedule/paragraph/6/b)
 
-[^key-e3adbdedaf19ff815ba1d38e343fbd8d]: Textual amendment: S. 3A inserted (12.1.2010) by [Law Commission Act 2009 (c. 14)](https://www.legislation.gov.uk/ukpga/2009/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2009/14/section/1), [3(1)](https://www.legislation.gov.uk/ukpga/2009/14/section/3/1)
+[^c-e3adbdedaf19ff815ba1d38e343fbd8d]: Textual amendment: S. 3A inserted (12.1.2010) by [Law Commission Act 2009 (c. 14)](https://www.legislation.gov.uk/ukpga/2009/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2009/14/section/1), [3(1)](https://www.legislation.gov.uk/ukpga/2009/14/section/3/1)
 
-[^key-23a96d590cb22552eb737803b53aa230]: Textual amendment: S. 3A(7) inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/25/3), [29(2)(c)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/c)
+[^c-23a96d590cb22552eb737803b53aa230]: Textual amendment: S. 3A(7) inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/25/3), [29(2)(c)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/c)
 
-[^key-bf9b4367103cc053f42d91f0173dc164]: Textual amendment: S. 3B inserted (12.1.2010) by [Law Commission Act 2009 (c. 14)](https://www.legislation.gov.uk/ukpga/2009/14), [ss. 2](https://www.legislation.gov.uk/ukpga/2009/14/section/2), [3(1)](https://www.legislation.gov.uk/ukpga/2009/14/section/3/1)
+[^c-bf9b4367103cc053f42d91f0173dc164]: Textual amendment: S. 3B inserted (12.1.2010) by [Law Commission Act 2009 (c. 14)](https://www.legislation.gov.uk/ukpga/2009/14), [ss. 2](https://www.legislation.gov.uk/ukpga/2009/14/section/2), [3(1)](https://www.legislation.gov.uk/ukpga/2009/14/section/3/1)
 
-[^key-c212f62b1eb06a264141933308c75cd5]: Textual amendment: Ss. 3C, 3D inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2014/29/section/25/4), [29(2)(c)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/c)
+[^c-c212f62b1eb06a264141933308c75cd5]: Textual amendment: Ss. 3C, 3D inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2014/29/section/25/4), [29(2)(c)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/c)
 
 [^c657312]: Textual amendment: Words in s. 4(1) repealed (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 36(4)(a)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/36/4/a), [Pt. IV](https://www.legislation.gov.uk/uksi/1999/1820/part/IV)
 
@@ -278,13 +278,13 @@ This Act may be cited as the Law Commissions Act 1965.
 
 [^c657321]: Textual amendment: Words in s. 5(4) repealed (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 36(5)(c)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/36/5/c), [Pt. IV](https://www.legislation.gov.uk/uksi/1999/1820/part/IV)
 
-[^key-0c635c4db0229607aaf71bea8eca471b]: Textual amendment: Words in s. 5(4) inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 25(5)](https://www.legislation.gov.uk/ukpga/2014/29/section/25/5), [29(2)(c)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/c)
+[^c-0c635c4db0229607aaf71bea8eca471b]: Textual amendment: Words in s. 5(4) inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 25(5)](https://www.legislation.gov.uk/ukpga/2014/29/section/25/5), [29(2)(c)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/c)
 
 [^c657322]: Textual amendment: S. 5(5) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 36(5)(d)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/36/5/d)
 
 [^c657327]: Textual amendment: S. 6(1) repealed by [House of Commons Disqualification Act 1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24), [Sch. 3](https://www.legislation.gov.uk/ukpga/1975/24/schedule/3) and [Northern Ireland Assembly Disqualification Act 1975 (c. 25)](https://www.legislation.gov.uk/ukpga/1975/25), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1975/25/schedule/3/part/I)
 
-[^key-146f4435ad501684f2c4ab91e8683eaa]: Textual amendment: Words in s. 6 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/17); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/e)
+[^c-146f4435ad501684f2c4ab91e8683eaa]: Textual amendment: Words in s. 6 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/17); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/e)
 
 [^c657330]: Textual amendment: Words repealed by [S.I. 1972/2002](https://www.legislation.gov.uk/uksi/1972/2002) art. 3(3)(b)
 

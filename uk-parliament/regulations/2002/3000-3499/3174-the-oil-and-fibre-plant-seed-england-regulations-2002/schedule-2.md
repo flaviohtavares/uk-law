@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^key-47a55e4c785cb85c28d0381215c6549f]
+## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^c-47a55e4c785cb85c28d0381215c6549f]
 
 *Extent: E+W+S+NI*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 5(1)
 
-**1.**[^key-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3A.**[^key-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3A.**[^c-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-47a55e4c785cb85c28d0381215c6549f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47a55e4c785cb85c28d0381215c6549f]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3174) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(d)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/d)
+[^c-47a55e4c785cb85c28d0381215c6549f]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3174) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(d)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/d)

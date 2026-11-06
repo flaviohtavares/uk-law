@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Provisions supplementary to section 23.[^key-9566d83abab0ccf5ed89064f91d45f84]
+## 24. Provisions supplementary to section 23.[^c-9566d83abab0ccf5ed89064f91d45f84]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9566d83abab0ccf5ed89064f91d45f84]: Textual amendment: Ss. 23-26 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/2)
+[^c-9566d83abab0ccf5ed89064f91d45f84]: Textual amendment: Ss. 23-26 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/2)

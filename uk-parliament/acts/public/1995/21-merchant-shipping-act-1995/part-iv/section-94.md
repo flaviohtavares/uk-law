@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Meaning of “dangerously unsafe ship”.[^key-870cb8bdd190eeaed64713a9935a7010]
+## 94. Meaning of “dangerously unsafe ship”.[^c-870cb8bdd190eeaed64713a9935a7010]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ and are referred to in those sections, in relation to any ship, as “**the matt
 
 ## Annotations
 
-[^key-870cb8bdd190eeaed64713a9935a7010]: Modification: [S. 94](https://www.legislation.gov.uk/ukpga/1995/21/section/94) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [7](https://www.legislation.gov.uk/uksi/2023/35/article/7)
+[^c-870cb8bdd190eeaed64713a9935a7010]: Modification: [S. 94](https://www.legislation.gov.uk/ukpga/1995/21/section/94) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [7](https://www.legislation.gov.uk/uksi/2023/35/article/7)
 
 [^c14526101]: Textual amendment: Words in s. 94(1) inserted (23.3.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 9](https://www.legislation.gov.uk/ukpga/1997/28/section/9), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/1997/28/schedule/1/paragraph/1/2); [S.I. 1997/1082](https://www.legislation.gov.uk/uksi/1997/1082), [art. 2](https://www.legislation.gov.uk/uksi/1997/1082/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1082/schedule)
 

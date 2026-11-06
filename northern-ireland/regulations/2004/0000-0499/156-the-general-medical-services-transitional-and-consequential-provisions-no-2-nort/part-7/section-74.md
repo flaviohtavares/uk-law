@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Interpretation[^key-347b0df35498d5ca2ea1ac2c59f36b9a]
+## 74. Interpretation[^c-347b0df35498d5ca2ea1ac2c59f36b9a]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-347b0df35498d5ca2ea1ac2c59f36b9a]: Commencement: Art. 74 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-347b0df35498d5ca2ea1ac2c59f36b9a]: Commencement: Art. 74 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00034]: Footnote: [S.R. 1996 No. 137](https://www.legislation.gov.uk/nisr/1996/137) as amended by [S.R. 1999 No. 15](https://www.legislation.gov.uk/nisr/1999/15)

@@ -24,7 +24,7 @@ Section 125.
 
 ### The Exchequer and Audit Departments Act 1866 (c.39)
 
-**1.**[^key-2b14dcf83eee2aaa7f73b3fc962dd263] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2b14dcf83eee2aaa7f73b3fc962dd263] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Statutory Instruments Act 1946 (c.36)
 
@@ -111,7 +111,7 @@ Section 125.
 
 **17.** (1) Section 33 (consultation with other Commissioners) is amended as follows.
 
-(2) In subsection (1) (duty to consult), [^key-072b305a8579386ffdcab764aae823ef]... in the words following paragraph (b), after “Commissioner” insert “ or the Ombudsman ” [^key-ec8b563fd4785727cbfe97e2cef55111]....
+(2) In subsection (1) (duty to consult), [^c-072b305a8579386ffdcab764aae823ef]... in the words following paragraph (b), after “Commissioner” insert “ or the Ombudsman ” [^c-ec8b563fd4785727cbfe97e2cef55111]....
 
 (3) In subsection (2) (matters which may be covered by consultation)—
 
@@ -151,13 +151,13 @@ Section 125.
 >
 > Members of the National Assembly for Wales.
 
-### ...[^key-9f942a21c928782b722d08ea06e4c884]
+### ...[^c-9f942a21c928782b722d08ea06e4c884]
 
-**21.**[^key-9f942a21c928782b722d08ea06e4c884] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-9f942a21c928782b722d08ea06e4c884] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-9f942a21c928782b722d08ea06e4c884] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-9f942a21c928782b722d08ea06e4c884] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-fbe23afb8184815a609c30feac1d96e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-fbe23afb8184815a609c30feac1d96e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Insolvency Act 1986 (c.45)
 
@@ -216,7 +216,7 @@ Section 125.
 
 ### The European Communities (Amendment) Act 1993 (c.32)
 
-**34.**[^key-790eb151440f258934bf0b3aacf21923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-790eb151440f258934bf0b3aacf21923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Value Added Tax Act 1994 (c.23)
 
@@ -226,12 +226,12 @@ Section 125.
 
 **36.** In section 79(1) of the Deregulation and Contracting Out Act 1994 (interpretation of Part II), in the definition of “**office-holder**”—
 
-- (a) after “officer of either House of Parliament,” insert “ the Auditor General for Wales, ” [^key-8b7dc07bee055f6d55073768d3792a24]...
-- (b)[^key-8b7dc07bee055f6d55073768d3792a24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) after “officer of either House of Parliament,” insert “ the Auditor General for Wales, ” [^c-8b7dc07bee055f6d55073768d3792a24]...
+- (b)[^c-8b7dc07bee055f6d55073768d3792a24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b14dcf83eee2aaa7f73b3fc962dd263]: Textual amendment: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/1) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/19); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-2b14dcf83eee2aaa7f73b3fc962dd263]: Textual amendment: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/1) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/19); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
 [^c20225581]: Textual amendment: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/2) repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2006/32/section/161), [163](https://www.legislation.gov.uk/ukpga/2006/32/section/163), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/32/schedule/12) (with [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) (which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)) and [s. 161(6)](https://www.legislation.gov.uk/ukpga/1998/38/section/161/6) of the amending Act - see [ss. 46](https://www.legislation.gov.uk/ukpga/1998/38/section/46), [161(1)(4)-(6)](https://www.legislation.gov.uk/ukpga/1998/38/section/161/1/4) of the amending Act.
 
@@ -247,17 +247,17 @@ Section 125.
 
 [^c20189151]: Textual amendment: [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/16) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)
 
-[^key-072b305a8579386ffdcab764aae823ef]: Textual amendment: Words in [Sch. 12 para. 17(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/17/2) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(5)(a)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/5/a/i)
+[^c-072b305a8579386ffdcab764aae823ef]: Textual amendment: Words in [Sch. 12 para. 17(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/17/2) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(5)(a)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/5/a/i)
 
-[^key-ec8b563fd4785727cbfe97e2cef55111]: Textual amendment: Words in [Sch. 12 para. 17(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/17/2) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(5)(a)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/5/a/ii)
+[^c-ec8b563fd4785727cbfe97e2cef55111]: Textual amendment: Words in [Sch. 12 para. 17(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/17/2) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(5)(a)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/5/a/ii)
 
 [^c20225841]: Textual amendment: [Sch. 12 para. 17(3)(a)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/17/3/a) repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2006/32/section/161), [163](https://www.legislation.gov.uk/ukpga/2006/32/section/163), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/32/schedule/12) (with [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) (which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)) and [s. 161(6)](https://www.legislation.gov.uk/ukpga/1998/38/section/161/6) of the amending Act - see [ss. 46](https://www.legislation.gov.uk/ukpga/1998/38/section/46), [161(1)(4)-(6)](https://www.legislation.gov.uk/ukpga/1998/38/section/161/1/4) of the amending Act.
 
 [^c20137641]: Textual amendment: [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/18) repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 332](https://www.legislation.gov.uk/ukpga/2003/44/section/332), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(2)(l)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/iv)
 
-[^key-9f942a21c928782b722d08ea06e4c884]: Textual amendment: [Sch. 12 paras. 21](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/21), [22](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/22) and cross-heading omitted (E.W.) (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(5)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/5/b)
+[^c-9f942a21c928782b722d08ea06e4c884]: Textual amendment: [Sch. 12 paras. 21](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/21), [22](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/22) and cross-heading omitted (E.W.) (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(5)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/5/b)
 
-[^key-fbe23afb8184815a609c30feac1d96e6]: Textual amendment: [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/23) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/3)
+[^c-fbe23afb8184815a609c30feac1d96e6]: Textual amendment: [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/23) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/3)
 
 [^c20225881]: Textual amendment: [Sch. 12 para. 28](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/28) repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2006/32/section/161), [163](https://www.legislation.gov.uk/ukpga/2006/32/section/163), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/32/schedule/12) (with [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) (which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007)) and [s. 161(6)](https://www.legislation.gov.uk/ukpga/1998/38/section/161/6) of the amending Act - see [ss. 46](https://www.legislation.gov.uk/ukpga/1998/38/section/46), [161(1)(4)(5)](https://www.legislation.gov.uk/ukpga/1998/38/section/161/1/4/5) of the amending Act.
 
@@ -265,6 +265,6 @@ Section 125.
 
 [^c20189161]: Textual amendment: [Sch. 12 para. 32(b)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/32/b) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)
 
-[^key-790eb151440f258934bf0b3aacf21923]: Textual amendment: [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/34) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-790eb151440f258934bf0b3aacf21923]: Textual amendment: [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/34) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8b7dc07bee055f6d55073768d3792a24]: Textual amendment: [Sch. 12 para. 36(b)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/36/b) and word omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(5)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/5/c)
+[^c-8b7dc07bee055f6d55073768d3792a24]: Textual amendment: [Sch. 12 para. 36(b)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/12/paragraph/36/b) and word omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(5)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/5/c)

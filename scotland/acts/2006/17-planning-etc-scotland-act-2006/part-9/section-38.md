@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. BID proposals[^key-2bbc7bb44f0efd98201e10359f72b809][^key-2620d627134774ec6a3cbd1933e2cdc3]
+## 38. BID proposals[^c-2bbc7bb44f0efd98201e10359f72b809][^c-2620d627134774ec6a3cbd1933e2cdc3]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2bbc7bb44f0efd98201e10359f72b809]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2006/17/section/38) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-2bbc7bb44f0efd98201e10359f72b809]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2006/17/section/38) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-2620d627134774ec6a3cbd1933e2cdc3]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2006/17/section/38) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-2620d627134774ec6a3cbd1933e2cdc3]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2006/17/section/38) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

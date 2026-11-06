@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17D. Lump sum payments[^key-114ccb83bfb61f3888d6c6ec893115af]
+## 17D. Lump sum payments[^c-114ccb83bfb61f3888d6c6ec893115af]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-114ccb83bfb61f3888d6c6ec893115af]: Textual amendment: [Regs. 17D-17H](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17D) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [10(1)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/10/1)
+[^c-114ccb83bfb61f3888d6c6ec893115af]: Textual amendment: [Regs. 17D-17H](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17D) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [10(1)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/10/1)

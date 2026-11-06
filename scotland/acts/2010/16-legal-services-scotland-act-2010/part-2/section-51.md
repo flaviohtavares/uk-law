@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Head of Legal Services[^key-92ec4f206105504804e5dd12cf36ccd3][^key-9c7d2dae35749db19fdeb7b3377a6a7d]
+## 51. Head of Legal Services[^c-92ec4f206105504804e5dd12cf36ccd3][^c-9c7d2dae35749db19fdeb7b3377a6a7d]
 
 *Extent: S*
 
@@ -62,6 +62,6 @@ they are jointly and severally responsible for exercising the function.
 
 ## Annotations
 
-[^key-92ec4f206105504804e5dd12cf36ccd3]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2010/16/section/51) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-92ec4f206105504804e5dd12cf36ccd3]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2010/16/section/51) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-9c7d2dae35749db19fdeb7b3377a6a7d]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2010/16/section/51) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-9c7d2dae35749db19fdeb7b3377a6a7d]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2010/16/section/51) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

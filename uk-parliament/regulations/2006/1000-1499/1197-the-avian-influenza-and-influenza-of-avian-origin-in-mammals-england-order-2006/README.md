@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Avian Influenza and Influenza of Avian Origin in Mammals (England) Order 2006 (revoked)[^key-7c3084c56997d8bcb6be9c4828c33889]
+The Avian Influenza and Influenza of Avian Origin in Mammals (England) Order 2006 (revoked)[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 Made
 
@@ -43,11 +43,11 @@ Coming into force
 
 6.00 p.m. on 27th April 2006
 
-[^key-7c3084c56997d8bcb6be9c4828c33889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c3084c56997d8bcb6be9c4828c33889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-7c3084c56997d8bcb6be9c4828c33889]
+### PART 1 — Introduction[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 4 — Declarations, licences, notices and designations under this Order](part-1/section-4.md)
 - [Section 5 — Controlled zones](part-1/section-5.md)
 
-### PART 2 — Preventive measures[^key-7c3084c56997d8bcb6be9c4828c33889]
+### PART 2 — Preventive measures[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -68,7 +68,7 @@ Coming into force
 - [Section 6 — Measures to reduce the risk of transmission of avian influenza](part-2/section-6.md)
 - [Section 7 — Surveillance for avian influenza](part-2/section-7.md)
 
-### PART 3 — Measures on suspicion of avian influenza[^key-7c3084c56997d8bcb6be9c4828c33889]
+### PART 3 — Measures on suspicion of avian influenza[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -85,7 +85,7 @@ Coming into force
 - [Section 16 — Additional restrictions at suspect premises](part-3/section-16.md)
 - [Section 17 — Declaration of a temporary control zone around the suspect premises](part-3/section-17.md)
 
-### PART 4 — Measures on confirmation of highly pathogenic avian influenza at premises other than regulated places[^key-7c3084c56997d8bcb6be9c4828c33889]
+### PART 4 — Measures on confirmation of highly pathogenic avian influenza at premises other than regulated places[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -111,7 +111,7 @@ Coming into force
 - [Section 35 — Additional measures in protection, surveillance and restricted zones](part-4/section-35.md)
 - [Section 36 — Ending of protection, surveillance and restricted zones](part-4/section-36.md)
 
-### PART 5 — Measures on suspicion or confirmation of highly pathogenic avian influenza in regulated places and vehicles[^key-7c3084c56997d8bcb6be9c4828c33889]
+### PART 5 — Measures on suspicion or confirmation of highly pathogenic avian influenza in regulated places and vehicles[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -127,7 +127,7 @@ Coming into force
 - [Section 44 — Reintroduction of poultry and other captive birds](part-5/section-44.md)
 - [Section 45 — Measures at other premises](part-5/section-45.md)
 
-### PART 6 — Measures on confirmation of low pathogenic avian influenza[^key-7c3084c56997d8bcb6be9c4828c33889]
+### PART 6 — Measures on confirmation of low pathogenic avian influenza[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -146,7 +146,7 @@ Coming into force
 - [Section 56 — Size of zones](part-6/section-56.md)
 - [Section 57 — Measures in low pathogenic avian influenza restricted zones](part-6/section-57.md)
 
-### PART 7 — Measures to reduce the risk of the spread of influenza viruses of avian origin to other species[^key-7c3084c56997d8bcb6be9c4828c33889]
+### PART 7 — Measures to reduce the risk of the spread of influenza viruses of avian origin to other species[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -158,7 +158,7 @@ Coming into force
 - [Section 61 — Measures at other premises](part-7/section-61.md)
 - [Section 62 — Additional measures to control the spread of virus in mammals](part-7/section-62.md)
 
-### PART 8 — General measures on suspicion or confirmation of avian influenza[^key-7c3084c56997d8bcb6be9c4828c33889]
+### PART 8 — General measures on suspicion or confirmation of avian influenza[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -182,7 +182,7 @@ Coming into force
 - [Section 78 — Killing of birds and destruction of things which may be contaminated](part-8/section-78.md)
 - [Section 79 — Duty of the local authority to erect signs](part-8/section-79.md)
 
-### PART 9 — Inspection, enforcement, offences, amendments and revocations[^key-7c3084c56997d8bcb6be9c4828c33889]
+### PART 9 — Inspection, enforcement, offences, amendments and revocations[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -210,14 +210,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-7c3084c56997d8bcb6be9c4828c33889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c3084c56997d8bcb6be9c4828c33889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-7c3084c56997d8bcb6be9c4828c33889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c3084c56997d8bcb6be9c4828c33889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c3084c56997d8bcb6be9c4828c33889]: Textual amendment: Instrument revoked with saving (13.11.2006) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006 (S.I. 2006/2702)](https://www.legislation.gov.uk/uksi/2006/2702), [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2) (with [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2))
+[^c-7c3084c56997d8bcb6be9c4828c33889]: Textual amendment: Instrument revoked with saving (13.11.2006) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006 (S.I. 2006/2702)](https://www.legislation.gov.uk/uksi/2006/2702), [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2) (with [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2))

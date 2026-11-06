@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 12A — The Information Commission[^key-9cb040d62e9f275b1ff61ca32bcd6148]
+## Schedule 12A — The Information Commission[^c-9cb040d62e9f275b1ff61ca32bcd6148]
 
 *Extent: E+W+S+N.I.*
 
@@ -385,4 +385,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-9cb040d62e9f275b1ff61ca32bcd6148]: Textual amendment: [Sch. 12A](https://www.legislation.gov.uk/ukpga/2018/12/schedule/12A) inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/1) (with [Sch. 14 paras. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/2), [3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/3)); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/z) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/904/regulation/1/3))
+[^c-9cb040d62e9f275b1ff61ca32bcd6148]: Textual amendment: [Sch. 12A](https://www.legislation.gov.uk/ukpga/2018/12/schedule/12A) inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/1) (with [Sch. 14 paras. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/2), [3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/3)); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/z) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/904/regulation/1/3))

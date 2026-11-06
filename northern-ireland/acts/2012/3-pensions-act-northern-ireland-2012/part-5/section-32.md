@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Grants by the Department to advisory bodies etc.[^key-3b6bb3001701e9931c8dc3c8a83fd083]
+## 32. Grants by the Department to advisory bodies etc.[^c-3b6bb3001701e9931c8dc3c8a83fd083]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b6bb3001701e9931c8dc3c8a83fd083]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2012/3/section/32) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(h)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/h)
+[^c-3b6bb3001701e9931c8dc3c8a83fd083]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2012/3/section/32) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(h)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/h)

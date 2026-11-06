@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91B. Effect of endorsement on Community licence holders.[^key-82137f77fe3abebdeabc0da9f990c20d]
+## 91B. Effect of endorsement on Community licence holders.[^c-82137f77fe3abebdeabc0da9f990c20d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82137f77fe3abebdeabc0da9f990c20d]: Textual amendment: S. 91B repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 60](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/60), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-82137f77fe3abebdeabc0da9f990c20d]: Textual amendment: S. 91B repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 60](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/60), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))

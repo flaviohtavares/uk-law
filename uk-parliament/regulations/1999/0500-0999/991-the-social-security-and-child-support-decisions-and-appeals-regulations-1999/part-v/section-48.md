@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Misconceived appeals[^key-8127c6893911775f139ae5c95a3722d6]
+## 48. Misconceived appeals[^c-8127c6893911775f139ae5c95a3722d6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8127c6893911775f139ae5c95a3722d6]: Textual amendment: Reg. 48 omitted (21.12.2004) by virtue of [Social Security, Child Support and Tax Credits (Decisions and Appeals) Amendment Regulations 2004 (S.I. 2004/3368)](https://www.legislation.gov.uk/uksi/2004/3368) , [regs. 1](https://www.legislation.gov.uk/uksi/2004/3368/regulation/1) , [2(8)](https://www.legislation.gov.uk/uksi/2004/3368/regulation/2/8)
+[^c-8127c6893911775f139ae5c95a3722d6]: Textual amendment: Reg. 48 omitted (21.12.2004) by virtue of [Social Security, Child Support and Tax Credits (Decisions and Appeals) Amendment Regulations 2004 (S.I. 2004/3368)](https://www.legislation.gov.uk/uksi/2004/3368) , [regs. 1](https://www.legislation.gov.uk/uksi/2004/3368/regulation/1) , [2(8)](https://www.legislation.gov.uk/uksi/2004/3368/regulation/2/8)

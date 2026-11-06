@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Interpretation and minor amendments of PACE[^key-846128fa6a9fd7f407042fb40a454e43]
+## 18. Interpretation and minor amendments of PACE[^c-846128fa6a9fd7f407042fb40a454e43]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
   .
 
-(3)[^key-eb0e241d3b729af707984a0afab68bf3] After section 65(2) (meaning of references to a sample's proving insufficient) insert—
+(3)[^c-eb0e241d3b729af707984a0afab68bf3] After section 65(2) (meaning of references to a sample's proving insufficient) insert—
 
 > (2A) In subsection (2), the reference to the destruction of a sample does not include a reference to the destruction of a sample under section 63R (requirement to destroy samples).
 >
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-846128fa6a9fd7f407042fb40a454e43]: Commencement: S. 18 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/d) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-846128fa6a9fd7f407042fb40a454e43]: Commencement: S. 18 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/d) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
 
-[^key-eb0e241d3b729af707984a0afab68bf3]: Modification: S. 18(3) modified by S.I. 2013/1813 art. 5A (as inserted (31.10.2013) by [The Protection of Freedoms Act 2012 (Destruction, Retention and Use of Biometric Data) (Transitional, Transitory and Saving Provisions) (Amendment) Order 2013 (S.I. 2013/2580)](https://www.legislation.gov.uk/uksi/2013/2580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2580/article/1/2), [4](https://www.legislation.gov.uk/uksi/2013/2580/article/4))
+[^c-eb0e241d3b729af707984a0afab68bf3]: Modification: S. 18(3) modified by S.I. 2013/1813 art. 5A (as inserted (31.10.2013) by [The Protection of Freedoms Act 2012 (Destruction, Retention and Use of Biometric Data) (Transitional, Transitory and Saving Provisions) (Amendment) Order 2013 (S.I. 2013/2580)](https://www.legislation.gov.uk/uksi/2013/2580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2580/article/1/2), [4](https://www.legislation.gov.uk/uksi/2013/2580/article/4))

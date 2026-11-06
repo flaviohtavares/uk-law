@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91A. Further provision about sensitive processing[^key-ec3664b19393730fe8eb0e0f28405a08]
+## 91A. Further provision about sensitive processing[^c-ec3664b19393730fe8eb0e0f28405a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec3664b19393730fe8eb0e0f28405a08]: Textual amendment: [S. 91A](https://www.legislation.gov.uk/ukpga/2018/12/section/91A) inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 74(8)](https://www.legislation.gov.uk/ukpga/2025/18/section/74/8), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/c)
+[^c-ec3664b19393730fe8eb0e0f28405a08]: Textual amendment: [S. 91A](https://www.legislation.gov.uk/ukpga/2018/12/section/91A) inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 74(8)](https://www.legislation.gov.uk/ukpga/2025/18/section/74/8), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/c)

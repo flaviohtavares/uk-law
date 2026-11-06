@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Reports by examining authority[^key-346900517cd212462fc3d850c373c7b9][^key-1a2a67ed8ae4c45b147ca6188a19e519]
+## 52. Reports by examining authority[^c-346900517cd212462fc3d850c373c7b9][^c-1a2a67ed8ae4c45b147ca6188a19e519]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-346900517cd212462fc3d850c373c7b9]: Commencement: S. 52 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-346900517cd212462fc3d850c373c7b9]: Commencement: S. 52 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-1a2a67ed8ae4c45b147ca6188a19e519]: Commencement: [S. 52](https://www.legislation.gov.uk/asc/2024/3/section/52) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-1a2a67ed8ae4c45b147ca6188a19e519]: Commencement: [S. 52](https://www.legislation.gov.uk/asc/2024/3/section/52) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

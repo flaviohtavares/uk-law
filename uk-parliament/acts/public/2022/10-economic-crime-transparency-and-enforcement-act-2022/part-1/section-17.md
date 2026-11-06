@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Power to modify application process etc in certain cases[^key-c7a319963a51a31fef5d3d5a4ec59901][^key-3c05b5d11aa63bb076aeffac4c7458f4][^key-84f1eb27e9d7a1f6ef32318dc8ba8d12]
+## 17. Power to modify application process etc in certain cases[^c-c7a319963a51a31fef5d3d5a4ec59901][^c-3c05b5d11aa63bb076aeffac4c7458f4][^c-84f1eb27e9d7a1f6ef32318dc8ba8d12]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c7a319963a51a31fef5d3d5a4ec59901]: Commencement: S. 17 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-c7a319963a51a31fef5d3d5a4ec59901]: Commencement: S. 17 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-3c05b5d11aa63bb076aeffac4c7458f4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/10/section/17) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/d)
+[^c-3c05b5d11aa63bb076aeffac4c7458f4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/10/section/17) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/d)
 
-[^key-84f1eb27e9d7a1f6ef32318dc8ba8d12]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/10/section/17) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-84f1eb27e9d7a1f6ef32318dc8ba8d12]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/10/section/17) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Springs and resilient material[^key-b1b3417bcccba5fe7c77cecd18dff619]
+## 22. Springs and resilient material[^c-b1b3417bcccba5fe7c77cecd18dff619]
 
 *Extent: E+W+S*
 
@@ -34,8 +34,8 @@ summary: ''
   - (ii) a motor tractor used in connection with railway shunting and which is used on a road only when passing from one railway track to another in connection with such use;
   - (iii) a vehicle specially designed, and mainly used, for work on rough ground or unmade roads and every wheel of which is fitted with a pneumatic tyre and which is not driven at more than 20 mph;
   - (iv) a vehicle constructed or adapted for, and being used for, road sweeping and every wheel of which is fitted with either a pneumatic tyre or a resilient tyre and which is not driven at more than 20 mph;
-- (b) an agricultural motor vehicle , not being a category T tractor,[^key-12f3193614c422f314333d0c359bf35f] which is not driven at more than 20 mph;
-- (ba)[^key-a76e29dc9d0e61cdbb523eaafc388a4c] a category T tractor which is not driven at more than 40 km/h;
+- (b) an agricultural motor vehicle , not being a category T tractor,[^c-12f3193614c422f314333d0c359bf35f] which is not driven at more than 20 mph;
+- (ba)[^c-a76e29dc9d0e61cdbb523eaafc388a4c] a category T tractor which is not driven at more than 40 km/h;
 - (c) an agricultural trailer, or an agricultural trailed appliance;
 - (d) a trailer used solely for the haulage of felled trees;
 - (e) a motor cycle;
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b1b3417bcccba5fe7c77cecd18dff619]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1986/1078/regulation/22) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-b1b3417bcccba5fe7c77cecd18dff619]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1986/1078/regulation/22) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-12f3193614c422f314333d0c359bf35f]: Textual amendment: Words in [reg. 22(3)(b)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/22/3/b) inserted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2015/142/regulation/8/1)
+[^c-12f3193614c422f314333d0c359bf35f]: Textual amendment: Words in [reg. 22(3)(b)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/22/3/b) inserted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2015/142/regulation/8/1)
 
-[^key-a76e29dc9d0e61cdbb523eaafc388a4c]: Textual amendment: [Reg. 22(3)(ba)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/22/3/ba) inserted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/8/2)
+[^c-a76e29dc9d0e61cdbb523eaafc388a4c]: Textual amendment: [Reg. 22(3)(ba)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/22/3/ba) inserted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/8/2)

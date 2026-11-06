@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Possession of specified article[^key-33bc8194617097f973ce60210f0ede43][^key-a7dd016b66e2aca8c18e769b95c6f47c]
+## 154. Possession of specified article[^c-33bc8194617097f973ce60210f0ede43][^c-a7dd016b66e2aca8c18e769b95c6f47c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33bc8194617097f973ce60210f0ede43]: Commencement: S. 154 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-33bc8194617097f973ce60210f0ede43]: Commencement: S. 154 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a7dd016b66e2aca8c18e769b95c6f47c]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2026/20/section/154) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/b)
+[^c-a7dd016b66e2aca8c18e769b95c6f47c]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2026/20/section/154) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/b)

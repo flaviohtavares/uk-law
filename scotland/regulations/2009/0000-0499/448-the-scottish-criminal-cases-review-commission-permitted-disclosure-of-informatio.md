@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Scottish Criminal Cases Review Commission (Permitted Disclosure of Information) Order 2009 (revoked)[^key-1bab5f8c3d067987e0dd4541dbda8471]
+The Scottish Criminal Cases Review Commission (Permitted Disclosure of Information) Order 2009 (revoked)[^c-1bab5f8c3d067987e0dd4541dbda8471]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st February 2010
 
-[^key-1bab5f8c3d067987e0dd4541dbda8471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bab5f8c3d067987e0dd4541dbda8471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1bab5f8c3d067987e0dd4541dbda8471]
+## 1. Citation and commencement[^c-1bab5f8c3d067987e0dd4541dbda8471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Permitted disclosure of information[^key-1bab5f8c3d067987e0dd4541dbda8471]
+## 2. Permitted disclosure of information[^c-1bab5f8c3d067987e0dd4541dbda8471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bab5f8c3d067987e0dd4541dbda8471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bab5f8c3d067987e0dd4541dbda8471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1bab5f8c3d067987e0dd4541dbda8471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bab5f8c3d067987e0dd4541dbda8471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1bab5f8c3d067987e0dd4541dbda8471]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/448) revoked (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 4](https://www.legislation.gov.uk/asp/2012/7/section/4), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3)
+[^c-1bab5f8c3d067987e0dd4541dbda8471]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/448) revoked (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 4](https://www.legislation.gov.uk/asp/2012/7/section/4), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3)

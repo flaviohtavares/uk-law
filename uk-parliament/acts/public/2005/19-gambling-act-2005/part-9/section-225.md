@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Dismissal of objection[^key-2c00522474f8a1dbeab06f83711da86d]
+## 225. Dismissal of objection[^c-2c00522474f8a1dbeab06f83711da86d]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c00522474f8a1dbeab06f83711da86d]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2005/19/section/225) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-2c00522474f8a1dbeab06f83711da86d]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2005/19/section/225) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

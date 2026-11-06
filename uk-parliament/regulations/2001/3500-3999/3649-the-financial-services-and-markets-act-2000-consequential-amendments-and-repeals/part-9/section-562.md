@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 562. Interest on unpaid levies[^key-3b1451122e3552964c57af9100557729]
+## 562. Interest on unpaid levies[^c-3b1451122e3552964c57af9100557729]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ In article 14 of the NCIS Service Authority (Levying) Order 1997 (interest on un
 
 ## Annotations
 
-[^key-3b1451122e3552964c57af9100557729]: Commencement: Art. 562 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3b1451122e3552964c57af9100557729]: Commencement: Art. 562 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00357]: Footnote: Article 14 was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129).

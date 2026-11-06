@@ -52,18 +52,18 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 In accordance with section 13(2) of the Social Security Act 1988 she has consulted with the Scottish Ministers and the National Assembly for Wales[^f00005].
 
-## 1. Citation and commencement[^key-0ce5d52f2721706b455b08e2b77e4641]
+## 1. Citation and commencement[^c-0ce5d52f2721706b455b08e2b77e4641]
 
 These Regulations may be cited as the Healthy Start Scheme and Welfare Food (Amendment No. 2) Regulations 2006 and shall come into force on 27th November 2006.
 
-## 2. Interpretation[^key-87a25f14577709058d2532347182fa23]
+## 2. Interpretation[^c-87a25f14577709058d2532347182fa23]
 
 (1) In these Regulations—
 
 - “the principal Regulations” means the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005[^f00006]; and
 - “the 1996 Regulations” means the Welfare Food Regulations 1996[^f00007].
 
-## 3. Amendment of regulation 2 of the principal Regulations[^key-7f177c0d9112d9ed6f1e6d701816d66a]
+## 3. Amendment of regulation 2 of the principal Regulations[^c-7f177c0d9112d9ed6f1e6d701816d66a]
 
 In regulation 2(1) of the principal Regulations (interpretation)—
 
@@ -119,74 +119,74 @@ In regulation 2(1) of the principal Regulations (interpretation)—
 
   .
 
-## 4 (Extent: S) (affected by repeal, see note). Amendment of regulation 3 of the principal Regulations (Extent: S) (affected by repeal, see note)[^key-dff063cdf8f50ad0bd8965ca22523eb5][^key-88e5b67dd43168b0faf3f8fda67558bc][^key-88e5b67dd43168b0faf3f8fda67558bc]
+## 4 (Extent: S) (affected by repeal, see note). Amendment of regulation 3 of the principal Regulations (Extent: S) (affected by repeal, see note)[^c-dff063cdf8f50ad0bd8965ca22523eb5][^c-88e5b67dd43168b0faf3f8fda67558bc][^c-88e5b67dd43168b0faf3f8fda67558bc]
 
-(1 (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] For regulation 3(2) of the principal Regulations (entitlement to benefit) substitute— *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
+(1 (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] For regulation 3(2) of the principal Regulations (entitlement to benefit) substitute— *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
 
-> (2 (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] The benefits to which a person described in paragraph (3) is entitled are— *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
+> (2 (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] The benefits to which a person described in paragraph (3) is entitled are— *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] Healthy Start food to the value represented by a voucher as provided in regulation 8(3); and *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
-> - (b (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] Healthy Start vitamins as follows— *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
->   - (i (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] in the case of a pregnant woman described in paragraph (3)(a) or (b), 56 tablets of Healthy Start vitamins for every eight weeks of entitlement; *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
->   - (ii (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] in the case of a mother described in paragraph (3)(c) or (d), 56 tablets of Healthy Start vitamins for every eight weeks of entitlement; or *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
->   - (iii (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] in the case of a child described in paragraph (3)(e), 10 millilitres of drops of Healthy Start vitamins for every eight weeks of entitlement. *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
+> - (a (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] Healthy Start food to the value represented by a voucher as provided in regulation 8(3); and *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
+> - (b (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] Healthy Start vitamins as follows— *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
+>   - (i (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] in the case of a pregnant woman described in paragraph (3)(a) or (b), 56 tablets of Healthy Start vitamins for every eight weeks of entitlement; *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
+>   - (ii (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] in the case of a mother described in paragraph (3)(c) or (d), 56 tablets of Healthy Start vitamins for every eight weeks of entitlement; or *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
+>   - (iii (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] in the case of a child described in paragraph (3)(e), 10 millilitres of drops of Healthy Start vitamins for every eight weeks of entitlement. *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] In regulation 3(3) of the principal Regulations— *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
+(2 (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] In regulation 3(3) of the principal Regulations— *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] omit “resident in an area described in Schedule 1 and”; and *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
-- (b (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] in sub-paragraph (e), for “five” substitute “four”. *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
+- (a (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] omit “resident in an area described in Schedule 1 and”; and *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
+- (b (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] in sub-paragraph (e), for “five” substitute “four”. *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] In regulation 3(4) of the principal Regulations, before “benefit” insert “the Healthy Start food”; *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
+(3 (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] In regulation 3(4) of the principal Regulations, before “benefit” insert “the Healthy Start food”; *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
 
-(4 (Extent: S) (affected by repeal, see note))[^key-88e5b67dd43168b0faf3f8fda67558bc] In regulation 3(5) of the principal Regulations, for “benefit” the second time it occurs, substitute “the Healthy Start food benefit to which the mother would otherwise be entitled”. *(Extent: S)* *(affected by repeal, see note)*[^key-88e5b67dd43168b0faf3f8fda67558bc]
+(4 (Extent: S) (affected by repeal, see note))[^c-88e5b67dd43168b0faf3f8fda67558bc] In regulation 3(5) of the principal Regulations, for “benefit” the second time it occurs, substitute “the Healthy Start food benefit to which the mother would otherwise be entitled”. *(Extent: S)* *(affected by repeal, see note)*[^c-88e5b67dd43168b0faf3f8fda67558bc]
 
-## 5 (Extent: S) (affected by repeal, see note). Healthy Start vitamins and payments in lieu (Extent: S) (affected by repeal, see note)[^key-4bfab4c23ed4917c357904dca6854cae][^key-86a7ce3610be6d1d26d3244a773e5234][^key-86a7ce3610be6d1d26d3244a773e5234]
+## 5 (Extent: S) (affected by repeal, see note). Healthy Start vitamins and payments in lieu (Extent: S) (affected by repeal, see note)[^c-4bfab4c23ed4917c357904dca6854cae][^c-86a7ce3610be6d1d26d3244a773e5234][^c-86a7ce3610be6d1d26d3244a773e5234]
 
-After regulation 5 of the principal Regulations, insert— *(Extent: S)* *(affected by repeal, see note)*[^key-86a7ce3610be6d1d26d3244a773e5234]
+After regulation 5 of the principal Regulations, insert— *(Extent: S)* *(affected by repeal, see note)*[^c-86a7ce3610be6d1d26d3244a773e5234]
 
-> **5A (Extent: S) (affected by repeal, see note). Healthy Start vitamins and payments in lieu (Extent: S) (affected by repeal, see note)[^key-86a7ce3610be6d1d26d3244a773e5234][^key-86a7ce3610be6d1d26d3244a773e5234]**
+> **5A (Extent: S) (affected by repeal, see note). Healthy Start vitamins and payments in lieu (Extent: S) (affected by repeal, see note)[^c-86a7ce3610be6d1d26d3244a773e5234][^c-86a7ce3610be6d1d26d3244a773e5234]**
 >
-> (1 (Extent: S) (affected by repeal, see note))[^key-86a7ce3610be6d1d26d3244a773e5234] Healthy Start vitamins are tablets or vitamin drops containing vitamins appropriate for the beneficiary who receives them. *(Extent: S)* *(affected by repeal, see note)*[^key-86a7ce3610be6d1d26d3244a773e5234]
+> (1 (Extent: S) (affected by repeal, see note))[^c-86a7ce3610be6d1d26d3244a773e5234] Healthy Start vitamins are tablets or vitamin drops containing vitamins appropriate for the beneficiary who receives them. *(Extent: S)* *(affected by repeal, see note)*[^c-86a7ce3610be6d1d26d3244a773e5234]
 >
-> (2 (Extent: S) (affected by repeal, see note))[^key-86a7ce3610be6d1d26d3244a773e5234] If the Secretary of State is satisfied that a person entitled to Healthy Start vitamins has not received them for a period as a result of an act or omission on the part of the Secretary of State or a health service body (“the missing period”) she shall pay the beneficiary an amount equal to the cost of purchasing the prescribed number or amount of Healthy Start vitamins for the missing period. *(Extent: S)* *(affected by repeal, see note)*[^key-86a7ce3610be6d1d26d3244a773e5234]
+> (2 (Extent: S) (affected by repeal, see note))[^c-86a7ce3610be6d1d26d3244a773e5234] If the Secretary of State is satisfied that a person entitled to Healthy Start vitamins has not received them for a period as a result of an act or omission on the part of the Secretary of State or a health service body (“the missing period”) she shall pay the beneficiary an amount equal to the cost of purchasing the prescribed number or amount of Healthy Start vitamins for the missing period. *(Extent: S)* *(affected by repeal, see note)*[^c-86a7ce3610be6d1d26d3244a773e5234]
 
-## 6 (Extent: S) (affected by repeal, see note). Amendment of regulation 8 of the principal Regulations (Extent: S) (affected by repeal, see note)[^key-9cfec451a0f0c38aad1dec5908bbfe73][^key-61e0ed02650249db0077557cba74ddcd][^key-61e0ed02650249db0077557cba74ddcd]
+## 6 (Extent: S) (affected by repeal, see note). Amendment of regulation 8 of the principal Regulations (Extent: S) (affected by repeal, see note)[^c-9cfec451a0f0c38aad1dec5908bbfe73][^c-61e0ed02650249db0077557cba74ddcd][^c-61e0ed02650249db0077557cba74ddcd]
 
-In regulation 8(1) of the principal Regulations (issue of voucher), before “benefit”, in both places it occurs, insert “the Healthy Start food”. *(Extent: S)* *(affected by repeal, see note)*[^key-61e0ed02650249db0077557cba74ddcd]
+In regulation 8(1) of the principal Regulations (issue of voucher), before “benefit”, in both places it occurs, insert “the Healthy Start food”. *(Extent: S)* *(affected by repeal, see note)*[^c-61e0ed02650249db0077557cba74ddcd]
 
-## 7 (Extent: S) (affected by repeal, see note). Provision of Healthy Start vitamins (Extent: S) (affected by repeal, see note)[^key-5e9bc6dafedbd4d394b7e1e16641407b][^key-8cc099af2225b514089435113bfda762][^key-8cc099af2225b514089435113bfda762]
+## 7 (Extent: S) (affected by repeal, see note). Provision of Healthy Start vitamins (Extent: S) (affected by repeal, see note)[^c-5e9bc6dafedbd4d394b7e1e16641407b][^c-8cc099af2225b514089435113bfda762][^c-8cc099af2225b514089435113bfda762]
 
-After regulation 8 of the principal Regulations insert— *(Extent: S)* *(affected by repeal, see note)*[^key-8cc099af2225b514089435113bfda762]
+After regulation 8 of the principal Regulations insert— *(Extent: S)* *(affected by repeal, see note)*[^c-8cc099af2225b514089435113bfda762]
 
-> **8A (Extent: S) (affected by repeal, see note). Provision of Healthy Start vitamins (Extent: S) (affected by repeal, see note)[^key-8cc099af2225b514089435113bfda762][^key-8cc099af2225b514089435113bfda762]**
+> **8A (Extent: S) (affected by repeal, see note). Provision of Healthy Start vitamins (Extent: S) (affected by repeal, see note)[^c-8cc099af2225b514089435113bfda762][^c-8cc099af2225b514089435113bfda762]**
 >
-> (1 (Extent: S) (affected by repeal, see note))[^key-8cc099af2225b514089435113bfda762] A health service body is— *(Extent: S)* *(affected by repeal, see note)*[^key-8cc099af2225b514089435113bfda762]
+> (1 (Extent: S) (affected by repeal, see note))[^c-8cc099af2225b514089435113bfda762] A health service body is— *(Extent: S)* *(affected by repeal, see note)*[^c-8cc099af2225b514089435113bfda762]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-8cc099af2225b514089435113bfda762] in relation to England and Wales, a Primary Care Trust, a NHS trust, a NHS foundation trust or a Local Health Board that provides a maternity or child health clinic; and *(Extent: S)* *(affected by repeal, see note)*[^key-8cc099af2225b514089435113bfda762]
-> - (b (Extent: S) (affected by repeal, see note))[^key-8cc099af2225b514089435113bfda762] in relation to Scotland, a Health Board. *(Extent: S)* *(affected by repeal, see note)*[^key-8cc099af2225b514089435113bfda762]
+> - (a (Extent: S) (affected by repeal, see note))[^c-8cc099af2225b514089435113bfda762] in relation to England and Wales, a Primary Care Trust, a NHS trust, a NHS foundation trust or a Local Health Board that provides a maternity or child health clinic; and *(Extent: S)* *(affected by repeal, see note)*[^c-8cc099af2225b514089435113bfda762]
+> - (b (Extent: S) (affected by repeal, see note))[^c-8cc099af2225b514089435113bfda762] in relation to Scotland, a Health Board. *(Extent: S)* *(affected by repeal, see note)*[^c-8cc099af2225b514089435113bfda762]
 >
-> (2 (Extent: S) (affected by repeal, see note))[^key-8cc099af2225b514089435113bfda762] A health service body shall have the function of providing Healthy Start vitamins for beneficiaries. *(Extent: S)* *(affected by repeal, see note)*[^key-8cc099af2225b514089435113bfda762]
+> (2 (Extent: S) (affected by repeal, see note))[^c-8cc099af2225b514089435113bfda762] A health service body shall have the function of providing Healthy Start vitamins for beneficiaries. *(Extent: S)* *(affected by repeal, see note)*[^c-8cc099af2225b514089435113bfda762]
 >
-> (3 (Extent: S) (affected by repeal, see note))[^key-8cc099af2225b514089435113bfda762] A health service body may make arrangements for a pharmacist or other person or body to supply Healthy Start vitamins for beneficiaries on its behalf. *(Extent: S)* *(affected by repeal, see note)*[^key-8cc099af2225b514089435113bfda762]
+> (3 (Extent: S) (affected by repeal, see note))[^c-8cc099af2225b514089435113bfda762] A health service body may make arrangements for a pharmacist or other person or body to supply Healthy Start vitamins for beneficiaries on its behalf. *(Extent: S)* *(affected by repeal, see note)*[^c-8cc099af2225b514089435113bfda762]
 >
-> (4 (Extent: S) (affected by repeal, see note))[^key-8cc099af2225b514089435113bfda762] Where a health service body makes arrangements under paragraph (2) it must inform beneficiaries where they may obtain Healthy Start vitamins. *(Extent: S)* *(affected by repeal, see note)*[^key-8cc099af2225b514089435113bfda762]
+> (4 (Extent: S) (affected by repeal, see note))[^c-8cc099af2225b514089435113bfda762] Where a health service body makes arrangements under paragraph (2) it must inform beneficiaries where they may obtain Healthy Start vitamins. *(Extent: S)* *(affected by repeal, see note)*[^c-8cc099af2225b514089435113bfda762]
 >
-> (5 (Extent: S) (affected by repeal, see note))[^key-8cc099af2225b514089435113bfda762] A beneficiary who is entitled to Healthy Start vitamins must produce documentary evidence of her entitlement to a person who supplies Healthy Start vitamins for beneficiaries. *(Extent: S)* *(affected by repeal, see note)*[^key-8cc099af2225b514089435113bfda762]
+> (5 (Extent: S) (affected by repeal, see note))[^c-8cc099af2225b514089435113bfda762] A beneficiary who is entitled to Healthy Start vitamins must produce documentary evidence of her entitlement to a person who supplies Healthy Start vitamins for beneficiaries. *(Extent: S)* *(affected by repeal, see note)*[^c-8cc099af2225b514089435113bfda762]
 >
-> (6 (Extent: S) (affected by repeal, see note))[^key-8cc099af2225b514089435113bfda762] For the purposes of paragraph (4), documentary evidence of entitlement may consist of a letter from the Secretary of State that confirms the entitlement of the beneficiary to Healthy Start food and, if requested by the person who supplies the Healthy Start vitamins in respect of a beneficiary who is a child, documentary evidence of the child’s age. *(Extent: S)* *(affected by repeal, see note)*[^key-8cc099af2225b514089435113bfda762]
+> (6 (Extent: S) (affected by repeal, see note))[^c-8cc099af2225b514089435113bfda762] For the purposes of paragraph (4), documentary evidence of entitlement may consist of a letter from the Secretary of State that confirms the entitlement of the beneficiary to Healthy Start food and, if requested by the person who supplies the Healthy Start vitamins in respect of a beneficiary who is a child, documentary evidence of the child’s age. *(Extent: S)* *(affected by repeal, see note)*[^c-8cc099af2225b514089435113bfda762]
 >
-> (7 (Extent: S) (affected by repeal, see note))[^key-8cc099af2225b514089435113bfda762] The Secretary of State shall pay a health service body an amount equal to the cost of the Healthy Start vitamins that the health service body has provided (or secured the provision of) to a beneficiary. *(Extent: S)* *(affected by repeal, see note)*[^key-8cc099af2225b514089435113bfda762]
+> (7 (Extent: S) (affected by repeal, see note))[^c-8cc099af2225b514089435113bfda762] The Secretary of State shall pay a health service body an amount equal to the cost of the Healthy Start vitamins that the health service body has provided (or secured the provision of) to a beneficiary. *(Extent: S)* *(affected by repeal, see note)*[^c-8cc099af2225b514089435113bfda762]
 
-## 8 (Extent: S) (affected by repeal, see note). Amendment of regulation 9 of the principal Regulations (Extent: S) (affected by repeal, see note)[^key-24abd98db03a0ee1ba089eddb7a8c32a][^key-fd5ff60048fbc77cf76ae75cfb9911af][^key-fd5ff60048fbc77cf76ae75cfb9911af]
+## 8 (Extent: S) (affected by repeal, see note). Amendment of regulation 9 of the principal Regulations (Extent: S) (affected by repeal, see note)[^c-24abd98db03a0ee1ba089eddb7a8c32a][^c-fd5ff60048fbc77cf76ae75cfb9911af][^c-fd5ff60048fbc77cf76ae75cfb9911af]
 
-In regulation 9(4) of the principal Regulations (use of voucher)— *(Extent: S)* *(affected by repeal, see note)*[^key-fd5ff60048fbc77cf76ae75cfb9911af]
+In regulation 9(4) of the principal Regulations (use of voucher)— *(Extent: S)* *(affected by repeal, see note)*[^c-fd5ff60048fbc77cf76ae75cfb9911af]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-fd5ff60048fbc77cf76ae75cfb9911af] in sub-paragraph (a) delete “or”; and *(Extent: S)* *(affected by repeal, see note)*[^key-fd5ff60048fbc77cf76ae75cfb9911af]
-- (b (Extent: S) (affected by repeal, see note))[^key-fd5ff60048fbc77cf76ae75cfb9911af] after sub-paragraph (b) insert— *(Extent: S)* *(affected by repeal, see note)*[^key-fd5ff60048fbc77cf76ae75cfb9911af]
+- (a (Extent: S) (affected by repeal, see note))[^c-fd5ff60048fbc77cf76ae75cfb9911af] in sub-paragraph (a) delete “or”; and *(Extent: S)* *(affected by repeal, see note)*[^c-fd5ff60048fbc77cf76ae75cfb9911af]
+- (b (Extent: S) (affected by repeal, see note))[^c-fd5ff60048fbc77cf76ae75cfb9911af] after sub-paragraph (b) insert— *(Extent: S)* *(affected by repeal, see note)*[^c-fd5ff60048fbc77cf76ae75cfb9911af]
 
-  > - (c (Extent: S) (affected by repeal, see note))[^key-fd5ff60048fbc77cf76ae75cfb9911af] Healthy Start vitamins supplied under these Regulations to a beneficiary; *(Extent: S)* *(affected by repeal, see note)*[^key-fd5ff60048fbc77cf76ae75cfb9911af]
+  > - (c (Extent: S) (affected by repeal, see note))[^c-fd5ff60048fbc77cf76ae75cfb9911af] Healthy Start vitamins supplied under these Regulations to a beneficiary; *(Extent: S)* *(affected by repeal, see note)*[^c-fd5ff60048fbc77cf76ae75cfb9911af]
 
-## 9. Amendment of regulation 12 of the principal Regulations[^key-bdce03a1ab981c8674f15d476436490f]
+## 9. Amendment of regulation 12 of the principal Regulations[^c-bdce03a1ab981c8674f15d476436490f]
 
 After regulation 12(2) of the principal Regulations (application for registration of food outlet), insert—
 
@@ -194,11 +194,11 @@ After regulation 12(2) of the principal Regulations (application for registratio
 
 .
 
-## 10. Amendment of Schedule 1 to the principal Regulations[^key-e2695481eb2b5a8c24540166cb5ae761]
+## 10. Amendment of Schedule 1 to the principal Regulations[^c-e2695481eb2b5a8c24540166cb5ae761]
 
 Omit Schedule 1 to the principal Regulations (area of the Healthy Start scheme).
 
-## 11. Amendment of the 1996 Regulations[^key-eb58c4e61569d6dded27f6b85f2a68d4]
+## 11. Amendment of the 1996 Regulations[^c-eb58c4e61569d6dded27f6b85f2a68d4]
 
 (1) In regulation 2(1) of the 1996 Regulations (interpretation)—
 
@@ -238,7 +238,7 @@ Omit Schedule 1 to the principal Regulations (area of the Healthy Start scheme).
 - (d) regulation 5 (entitlement to free vitamins); and
 - (e) Schedule 2A.
 
-## 12. Transitional provisions[^key-6bb90cc029233d49844e7bccdbb91dcb]
+## 12. Transitional provisions[^c-6bb90cc029233d49844e7bccdbb91dcb]
 
 (1) Any person other than a child over the age of four, who, at the date of coming into force of these Regulations, is—
 
@@ -314,15 +314,15 @@ A Regulatory Impact Assessment has been prepared and placed in the library of ea
 
 [^f00005]: Footnote: See the requirement to consult in new section 13(2) of the 1988 Act.
 
-[^key-0ce5d52f2721706b455b08e2b77e4641]: Commencement: Reg. 1 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-0ce5d52f2721706b455b08e2b77e4641]: Commencement: Reg. 1 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
-[^key-87a25f14577709058d2532347182fa23]: Commencement: Reg. 2 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-87a25f14577709058d2532347182fa23]: Commencement: Reg. 2 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2005/3262](https://www.legislation.gov.uk/uksi/2005/3262) as amended by [S.I. 2006/589](https://www.legislation.gov.uk/uksi/2006/589).
 
 [^f00007]: Footnote: [S.I. 1996/1434](https://www.legislation.gov.uk/uksi/1996/1434), as amended by [S.I. 2005/688](https://www.legislation.gov.uk/uksi/2005/688) and [S.I. 2006/589](https://www.legislation.gov.uk/uksi/2006/589). Previous amending instruments were revoked by regulation 3 of [S.I. 2005/688](https://www.legislation.gov.uk/uksi/2005/688), and earlier amending instruments.
 
-[^key-7f177c0d9112d9ed6f1e6d701816d66a]: Commencement: Reg. 3 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-7f177c0d9112d9ed6f1e6d701816d66a]: Commencement: Reg. 3 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
 [^f00008]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
@@ -334,33 +334,33 @@ A Regulatory Impact Assessment has been prepared and placed in the library of ea
 
 [^f00012]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-dff063cdf8f50ad0bd8965ca22523eb5]: Commencement: Reg. 4 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-dff063cdf8f50ad0bd8965ca22523eb5]: Commencement: Reg. 4 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
-[^key-88e5b67dd43168b0faf3f8fda67558bc]: Textual amendment: Reg. 4 revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
+[^c-88e5b67dd43168b0faf3f8fda67558bc]: Textual amendment: Reg. 4 revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
 
-[^key-4bfab4c23ed4917c357904dca6854cae]: Commencement: Reg. 5 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-4bfab4c23ed4917c357904dca6854cae]: Commencement: Reg. 5 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
-[^key-86a7ce3610be6d1d26d3244a773e5234]: Textual amendment: Reg. 5 revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
+[^c-86a7ce3610be6d1d26d3244a773e5234]: Textual amendment: Reg. 5 revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
 
-[^key-9cfec451a0f0c38aad1dec5908bbfe73]: Commencement: Reg. 6 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-9cfec451a0f0c38aad1dec5908bbfe73]: Commencement: Reg. 6 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
-[^key-61e0ed02650249db0077557cba74ddcd]: Textual amendment: Reg. 6 revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
+[^c-61e0ed02650249db0077557cba74ddcd]: Textual amendment: Reg. 6 revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
 
-[^key-5e9bc6dafedbd4d394b7e1e16641407b]: Commencement: Reg. 7 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-5e9bc6dafedbd4d394b7e1e16641407b]: Commencement: Reg. 7 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
-[^key-8cc099af2225b514089435113bfda762]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/2818/regulation/7) revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
+[^c-8cc099af2225b514089435113bfda762]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/2818/regulation/7) revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
 
-[^key-24abd98db03a0ee1ba089eddb7a8c32a]: Commencement: Reg. 8 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-24abd98db03a0ee1ba089eddb7a8c32a]: Commencement: Reg. 8 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
-[^key-fd5ff60048fbc77cf76ae75cfb9911af]: Textual amendment: Reg. 8 revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
+[^c-fd5ff60048fbc77cf76ae75cfb9911af]: Textual amendment: Reg. 8 revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
 
-[^key-bdce03a1ab981c8674f15d476436490f]: Commencement: Reg. 9 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-bdce03a1ab981c8674f15d476436490f]: Commencement: Reg. 9 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
-[^key-e2695481eb2b5a8c24540166cb5ae761]: Commencement: Reg. 10 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-e2695481eb2b5a8c24540166cb5ae761]: Commencement: Reg. 10 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
-[^key-eb58c4e61569d6dded27f6b85f2a68d4]: Commencement: Reg. 11 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-eb58c4e61569d6dded27f6b85f2a68d4]: Commencement: Reg. 11 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
-[^key-6bb90cc029233d49844e7bccdbb91dcb]: Commencement: Reg. 12 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
+[^c-6bb90cc029233d49844e7bccdbb91dcb]: Commencement: Reg. 12 in force at 27.11.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2818/regulation/1)
 
 [^f00013]: Footnote: as amended by the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2006, [S.I. 2006/589](https://www.legislation.gov.uk/uksi/2006/589).
 

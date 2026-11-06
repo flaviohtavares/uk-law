@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Connecting sections and direction-holding of articulated buses[^key-6b1bd7f8d195f61a91d728809ebf1091]
+## 14. Connecting sections and direction-holding of articulated buses[^c-6b1bd7f8d195f61a91d728809ebf1091]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b1bd7f8d195f61a91d728809ebf1091]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1986/1078/regulation/14) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-6b1bd7f8d195f61a91d728809ebf1091]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1986/1078/regulation/14) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

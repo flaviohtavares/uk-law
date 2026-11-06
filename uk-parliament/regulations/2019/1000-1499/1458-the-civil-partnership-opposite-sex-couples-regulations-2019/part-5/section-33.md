@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Amendment of definition relating to civil partnership to include overseas relationships[^key-242bfc1e2c39ac2b01f7563f8ca018b7]
+## 33. Amendment of definition relating to civil partnership to include overseas relationships[^c-242bfc1e2c39ac2b01f7563f8ca018b7]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ In section 25[^f00054], in the definition of “protected civil partnership”, 
 
 ## Annotations
 
-[^key-242bfc1e2c39ac2b01f7563f8ca018b7]: Commencement: Reg. 33 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-242bfc1e2c39ac2b01f7563f8ca018b7]: Commencement: Reg. 33 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00054]: Footnote: The definition of “protected civil partnership” was inserted by the Marriage (Same Sex Couples) Act 2013, Schedule 5, paragraph 14(a).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Considerations applying to the exercise of powers[^key-316e7a33b19b1bd3bcb26a1e13d07012]
+## 1. Considerations applying to the exercise of powers[^c-316e7a33b19b1bd3bcb26a1e13d07012]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ but does not include coming to a decision about granting leave in any other circ
 
 ## Annotations
 
-[^key-316e7a33b19b1bd3bcb26a1e13d07012]: Commencement: S. 1 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-316e7a33b19b1bd3bcb26a1e13d07012]: Commencement: S. 1 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

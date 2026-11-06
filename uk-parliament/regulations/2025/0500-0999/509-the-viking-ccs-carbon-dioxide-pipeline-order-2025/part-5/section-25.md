@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Statutory authority to override easements and other rights[^key-dfbdbf66f5ad3b00bf926c6bd9cbd4d0]
+## 25. Statutory authority to override easements and other rights[^c-dfbdbf66f5ad3b00bf926c6bd9cbd4d0]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ caused by the carrying out or use of the authorised development and the operatio
 
 ## Annotations
 
-[^key-dfbdbf66f5ad3b00bf926c6bd9cbd4d0]: Commencement: Art. 25 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-dfbdbf66f5ad3b00bf926c6bd9cbd4d0]: Commencement: Art. 25 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

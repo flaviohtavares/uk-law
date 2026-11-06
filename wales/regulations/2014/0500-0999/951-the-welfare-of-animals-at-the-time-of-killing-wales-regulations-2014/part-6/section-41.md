@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Time limit for prosecutions[^key-74a8006477b69f6a2ff1792959f7afc0]
+## 41. Time limit for prosecutions[^c-74a8006477b69f6a2ff1792959f7afc0]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74a8006477b69f6a2ff1792959f7afc0]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2014/951/regulation/41) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-74a8006477b69f6a2ff1792959f7afc0]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2014/951/regulation/41) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
 [^f00012]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).

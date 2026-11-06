@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Review of indefinite notification requirements[^key-ab95b39c54b25e0925f5182937d6239f]
+## SCHEDULE 3A — Review of indefinite notification requirements[^c-ab95b39c54b25e0925f5182937d6239f]
 
 *Extent: N.I.*
 
@@ -180,4 +180,4 @@ the offender may apply to the Crown Court for an order discharging the offender 
 
 ## Annotations
 
-[^key-ab95b39c54b25e0925f5182937d6239f]: Textual amendment: Sch. 3A inserted (N.I.) (1.3.2014) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 1(3)](https://www.legislation.gov.uk/nia/2013/7/section/1/3), [15(2)(a)](https://www.legislation.gov.uk/nia/2013/7/section/15/2/a), [Sch. 1](https://www.legislation.gov.uk/nia/2013/7/schedule/1); [S.R. 2014/53](https://www.legislation.gov.uk/nisr/2014/53), [art. 2](https://www.legislation.gov.uk/nisr/2014/53/article/2)
+[^c-ab95b39c54b25e0925f5182937d6239f]: Textual amendment: Sch. 3A inserted (N.I.) (1.3.2014) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 1(3)](https://www.legislation.gov.uk/nia/2013/7/section/1/3), [15(2)(a)](https://www.legislation.gov.uk/nia/2013/7/section/15/2/a), [Sch. 1](https://www.legislation.gov.uk/nia/2013/7/schedule/1); [S.R. 2014/53](https://www.legislation.gov.uk/nisr/2014/53), [art. 2](https://www.legislation.gov.uk/nisr/2014/53/article/2)

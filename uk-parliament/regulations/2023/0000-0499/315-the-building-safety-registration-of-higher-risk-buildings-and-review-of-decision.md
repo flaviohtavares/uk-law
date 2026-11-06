@@ -52,7 +52,7 @@ No consultation by the Secretary of State is required in relation to regulations
 
 ## PART 1 — General
 
-### 1. Citation, commencement, extent, application and interpretation[^key-98a9a6b11ee00830a6334cf08c6fc5ca]
+### 1. Citation, commencement, extent, application and interpretation[^c-98a9a6b11ee00830a6334cf08c6fc5ca]
 
 (1) These Regulations may be cited as the Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023 and come into force on 6th April 2023.
 
@@ -62,10 +62,10 @@ No consultation by the Secretary of State is required in relation to regulations
 
 - “**the 2022 Act**” means the Building Safety Act 2022;
 - “**AP**” means accountable person[^f00003];
-- “[^key-e84bbbb43bce37ab9e7aafdf7aacad56]**building certificate**” means a completion certificate or, as the case may be, a final certificate in relation to a building;
-- “[^key-cd1154edbfeb9938883895085ee320bb]**building control body**” means—
+- “[^c-e84bbbb43bce37ab9e7aafdf7aacad56]**building certificate**” means a completion certificate or, as the case may be, a final certificate in relation to a building;
+- “[^c-cd1154edbfeb9938883895085ee320bb]**building control body**” means—
   - (a) where the certificate is a completion certificate, the building control authority for the building;
-  - (b) where the certificate is a final certificate, the approved inspector or, as the case may be, registered building control approver[^key-06ad61b7630797a3543c811e7cbdd13a] who gave the initial notice to which the final certificate relates;
+  - (b) where the certificate is a final certificate, the approved inspector or, as the case may be, registered building control approver[^c-06ad61b7630797a3543c811e7cbdd13a] who gave the initial notice to which the final certificate relates;
 - “**change of use**” has the same meaning as in The Town and Country Planning (Use Classes) Order 1987[^f00005];
 - “**completed**” in relation to a building means—
   - (a) in the case of a newly built higher-risk building[^f00006], when the construction of that building is completed;
@@ -73,7 +73,7 @@ No consultation by the Secretary of State is required in relation to regulations
   - (c) in the case of a building which was not a higher-risk building when built and which becomes a higher-risk building following works which cause it to become a higher-risk building, when those works are completed;
 - “**completion certificate**” means—
   - (a) a certificate issued in accordance with regulation 17 (completion certificates) of the Building Regulations 2010[^f00007],
-  - (aa) a certificate issued in accordance with regulation 44 (completion certificate applications: decisions) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;[^key-94042b440565a50bf0736a8fc37494cb]
+  - (aa) a certificate issued in accordance with regulation 44 (completion certificate applications: decisions) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;[^c-94042b440565a50bf0736a8fc37494cb]
   - (ab) where paragraph 5, 10 or 11 of Schedule 3 to the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 applies in relation to a building, a transfer and completion certificate provided for by virtue of modifications set out in paragraph 5(9), 10(4), or, as the case may be, 11(4) of Schedule 3 to those Regulations;
   - (d) a certificate issued in accordance with the equivalent provision of earlier regulations made under section 1 of the Building Act 1984 or section 4 of the Public Health Act 1961[^f00008], or
   - (e) a certificate issued under an equivalent provision of byelaws made under section 61 of the Public Health Act 1936[^f00009];
@@ -86,11 +86,11 @@ No consultation by the Secretary of State is required in relation to regulations
 - “**start date**” means the day on which section 32 of the 2022 Act (building control authorities) comes into force in relation to England, ignoring any commencement of that section for the purpose only of making regulations;
 - “**transitional building**” means a higher-risk building in relation to which section 91ZA(1) of the Building Act 1984[^f00014] does not apply (by virtue of regulations made under paragraph 10 of Schedule 1 to the Building Act 1984) on the day the application for registration of that building is submitted.
 
-### 2. Direction to be made by regulator[^key-6fd24e01b8e358321a3b684bbf2ce08f]
+### 2. Direction to be made by regulator[^c-6fd24e01b8e358321a3b684bbf2ce08f]
 
 (1) The regulator[^f00015] may make a direction as to the way in which any of the following must be given to it—
 
-- (a)[^key-5e94b4c438c09df2238b0f59b08c2433] information with regard to a change to registration information or copy certificate in accordance with regulation 4;
+- (a)[^c-5e94b4c438c09df2238b0f59b08c2433] information with regard to a change to registration information or copy certificate in accordance with regulation 4;
 - (b) a request made in accordance with regulation 7 to remove a building from the register;
 - (c) an application under section 78(1) of the 2022 Act to register a higher-risk building;
 - (d) a request made in accordance with regulation 22 to withdraw an application for registration;
@@ -104,7 +104,7 @@ No consultation by the Secretary of State is required in relation to regulations
 
 ## PART 2 — The Register of Higher-Risk Buildings
 
-### 3. Content[^key-61ce65ff0bbbb0d83801284ec091de42]
+### 3. Content[^c-61ce65ff0bbbb0d83801284ec091de42]
 
 The register must contain the following information in relation to each higher-risk building on the register—
 
@@ -113,28 +113,28 @@ The register must contain the following information in relation to each higher-r
 - (c) the date of issue of any building assessment certificate[^f00016], and
 - (d) where applicable, the date that any special measures order[^f00017] is made or discharged.
 
-### 4. Updating information[^key-e624f37a35cbf13b984b7c8e11dc7df8]
+### 4. Updating information[^c-e624f37a35cbf13b984b7c8e11dc7df8]
 
 The PAP must provide to the regulator, within the period of 14 relevant days beginning with the day that the PAP becomes aware of a change—
 
 - (a) any change to the registration information provided to the regulator,
-- (b) any copy certificate required in regulation 18(1)(d) [^key-569a2b0841a58d49f82c0e220b32f65e]..., where a certificate becomes available that is more recent than the one provided to the regulator.
+- (b) any copy certificate required in regulation 18(1)(d) [^c-569a2b0841a58d49f82c0e220b32f65e]..., where a certificate becomes available that is more recent than the one provided to the regulator.
 
-**5.**[^key-181e5f7fc1327a2701c3795092ccf7dc] The regulator must update the register, as it considers necessary, within the period of 14 relevant days beginning with the relevant day that—
+**5.**[^c-181e5f7fc1327a2701c3795092ccf7dc] The regulator must update the register, as it considers necessary, within the period of 14 relevant days beginning with the relevant day that—
 
-- (a) the regulator receives information or a[^key-3f5e42367e437c916ce7f033a0f27b9a] copy certificate pursuant to[^key-34413779e1a20e48a6699cd284b870b5] regulation 4;
+- (a) the regulator receives information or a[^c-3f5e42367e437c916ce7f033a0f27b9a] copy certificate pursuant to[^c-34413779e1a20e48a6699cd284b870b5] regulation 4;
 - (b) the regulator gives a building assessment certificate;
 - (c) the regulator receives any information pursuant to regulations made under section 90(4) (provision of information etc on change in accountable person) of the 2022 Act;
 - (d) a special measures order is made or discharged.
 
-### 6. Circumstances for removing a building entry[^key-e77152f13b17104d51b984755312c450]
+### 6. Circumstances for removing a building entry[^c-e77152f13b17104d51b984755312c450]
 
 The regulator may remove a higher-risk building from the register where—
 
 - (a) a PAP makes a written request to the regulator in accordance with regulation 7, or
 - (b) there is no request, on the regulator’s own initiative.
 
-### 7. Request of PAP to remove a building entry[^key-ac9269a21a4e96a738c001c2a00861f4]
+### 7. Request of PAP to remove a building entry[^c-ac9269a21a4e96a738c001c2a00861f4]
 
 (1) Where a PAP for a building considers that the building is or will not be occupied or the building is or will not be a higher-risk building, the PAP must make a request to the regulator to remove the building from the register.
 
@@ -144,34 +144,34 @@ The regulator may remove a higher-risk building from the register where—
 - (b) an explanation of why the PAP considers that the building is not or will not be occupied or the building is or will not be a higher-risk building, and
 - (c) where there is more than one AP for the building, a declaration confirming that all other APs for the building have been sent a copy of the request[^f00018].
 
-### 8. Notice of removal of building entry[^key-52333ef6e66daded7400dabc576a6406]
+### 8. Notice of removal of building entry[^c-52333ef6e66daded7400dabc576a6406]
 
-(1)[^key-6415488dbf329bfa09a77ee7103e9a85] Where the regulator makes a decision to remove a building from the register, or to refuse a request to remove a building from the register (“a removal decision”), the regulator must give a notice of the removal decision to all the APs for the building.
+(1)[^c-6415488dbf329bfa09a77ee7103e9a85] Where the regulator makes a decision to remove a building from the register, or to refuse a request to remove a building from the register (“a removal decision”), the regulator must give a notice of the removal decision to all the APs for the building.
 
 (2) A notice under paragraph (1) may be in electronic form and must—
 
 - (a) be in writing,
-- (b) give a summary of the reasons for the removal decision[^key-07fad7aa6b218ca0b3bab4a293c86055], and
+- (b) give a summary of the reasons for the removal decision[^c-07fad7aa6b218ca0b3bab4a293c86055], and
 - (c) inform the recipient of the notice of the right to a review of and appeal against the removal decision[^f00019].
 
-(3)[^key-2862e35eb8de0110c4b3ca9b58a92909] A notice under paragraph (2) must be served as soon as reasonably practicable after a removal decision is made, and in any event before effecting any removal.
+(3)[^c-2862e35eb8de0110c4b3ca9b58a92909] A notice under paragraph (2) must be served as soon as reasonably practicable after a removal decision is made, and in any event before effecting any removal.
 
-### 9. Duty-holders[^key-d1f31fcbad9418bceced0342b940fb67]
+### 9. Duty-holders[^c-d1f31fcbad9418bceced0342b940fb67]
 
 (1) In relation to regulations 6 and 7, “**PAP**” includes a person who would be a PAP for the building if the building were a higher-risk building.
 
-(2) In relation to regulation 8 [^key-11ef40a1fc240a76a6a22025a3d3aa7c]..., “**AP**” includes a person who would be an AP for the building if the building were a higher-risk building.
+(2) In relation to regulation 8 [^c-11ef40a1fc240a76a6a22025a3d3aa7c]..., “**AP**” includes a person who would be an AP for the building if the building were a higher-risk building.
 
 ## PART 3 — Applications for Registration
 
-### 10. Applications for registration[^key-caf83e306f990b1f0aef13c2623bfa76]
+### 10. Applications for registration[^c-caf83e306f990b1f0aef13c2623bfa76]
 
 An application to register a higher-risk building must—
 
 - (a) contain the information set out in regulations 11 to 17, 18(1)(a) to (c) and (2), and 19,
 - (b) be accompanied by any document required by regulation 18(1)(d).
 
-### 11. AP details where there is one AP for the building[^key-7fcbb67969507dfd79090686fa66dc62]
+### 11. AP details where there is one AP for the building[^c-7fcbb67969507dfd79090686fa66dc62]
 
 Where there is only one AP for the building, the details relating to the AP of the building as follows—
 
@@ -180,7 +180,7 @@ Where there is only one AP for the building, the details relating to the AP of t
 - (c) their email address;
 - (d) their telephone number.
 
-### 12. AP details where there is more than one AP for the building[^key-1ee224555300e77ca1085193b3ebbd52]
+### 12. AP details where there is more than one AP for the building[^c-1ee224555300e77ca1085193b3ebbd52]
 
 Where there is more than one AP for the building—
 
@@ -192,7 +192,7 @@ Where there is more than one AP for the building—
   - (iii) their email address;
   - (iv) their telephone number.
 
-### 13. PAP organisation type[^key-a46ec4a3ac39c11aea49c876a76e110c]
+### 13. PAP organisation type[^c-a46ec4a3ac39c11aea49c876a76e110c]
 
 (1) For a PAP that is not an individual, whether the PAP is—
 
@@ -206,21 +206,21 @@ Where there is more than one AP for the building—
 
 (2) For the purpose of this regulation, “**resident management company**” means a body corporate which is party to a lease of a building where—
 
-- (a) the body corporate is limited by guarantee and the members of that body are leaseholders[^key-eebd29824fe912a7f761dfe3a9bba590], or
+- (a) the body corporate is limited by guarantee and the members of that body are leaseholders[^c-eebd29824fe912a7f761dfe3a9bba590], or
 - (b) the majority of the shares of the body corporate are held by leaseholders.
 
-### 14. Details of person making application on behalf of PAP[^key-5840df0787d61dba1aaecb663ceb90f6]
+### 14. Details of person making application on behalf of PAP[^c-5840df0787d61dba1aaecb663ceb90f6]
 
 If the PAP authorises a person to make the registration application on their behalf—
 
 - (a) confirmation from that person that they are authorised by that PAP, to act on that PAP’s behalf, and
 - (b) the name and address of that person.
 
-### 15. Details of single point of contact[^key-0c9e8e9f648e282a625fbb72762b41d8]
+### 15. Details of single point of contact[^c-0c9e8e9f648e282a625fbb72762b41d8]
 
 If the PAP or person making the application on behalf of the PAP is not an individual, the name and address of the individual who will act as a single point of contact for the PAP for the purposes of the registration application.
 
-### 16. Description of building[^key-53857e890ade38edd5400b48a961f216]
+### 16. Description of building[^c-53857e890ade38edd5400b48a961f216]
 
 With regard to the higher-risk building—
 
@@ -230,7 +230,7 @@ With regard to the higher-risk building—
 - (d) the number of storeys on or above ground level as determined in accordance with regulations made under section 65(2) of the 2022 Act, and
 - (e) the year in which the building was completed.
 
-### 17. Building control: for a building completed before start date[^key-c8a7394eb6f6e832340a1fc5076be8bc]
+### 17. Building control: for a building completed before start date[^c-c8a7394eb6f6e832340a1fc5076be8bc]
 
 (1) In relation to a building which was completed before the start date—
 
@@ -240,7 +240,7 @@ With regard to the higher-risk building—
 
 (2) Where the PAP does not hold any of the information in a paragraph (1) they must provide an explanation to the regulator setting out the steps that the PAP has taken to obtain the information.
 
-### 18. Building control: for a building completed on or after start date and a transitional building[^key-0398a5a56df2ed0859665c37ca9d73e5]
+### 18. Building control: for a building completed on or after start date and a transitional building[^c-0398a5a56df2ed0859665c37ca9d73e5]
 
 (1) In relation to a building which was completed on or after the start date and is a transitional building—
 
@@ -251,22 +251,22 @@ With regard to the higher-risk building—
 
 (2) It is sufficient to provide the most recent building certificate where more than one building certificate has been issued for the same part of the building.
 
-### 19. Building control: for a building completed on or after start date and not a transitional building[^key-a3e9b778aa77f71a28efc80b38a2ebcc]
+### 19. Building control: for a building completed on or after start date and not a transitional building[^c-a3e9b778aa77f71a28efc80b38a2ebcc]
 
 In relation to a building which was completed on or after the start date but is not a transitional building—
 
 - (a) the reference number for the building, issued by the regulator, and
 - (b) the date that the building certificate was issued.
 
-### 20. Prescribed fee[^key-14703dbe4187263f11cd34e827744168]
+### 20. Prescribed fee[^c-14703dbe4187263f11cd34e827744168]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Effect of failure to pay fee[^key-1b06ac69ffc5a5621e74b3ba789a0ea1]
+### 21. Effect of failure to pay fee[^c-1b06ac69ffc5a5621e74b3ba789a0ea1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Withdrawing an application[^key-2573dbd4aeca45bf4766db8989875396]
+### 22. Withdrawing an application[^c-2573dbd4aeca45bf4766db8989875396]
 
 (1) The circumstance in which an application for registration of a higher-risk building may be withdrawn is where—
 
@@ -277,24 +277,24 @@ In relation to a building which was completed on or after the start date but is 
 
 ## PART 4 — Review of Decisions of the Regulator
 
-### 23. Regulator decision: review[^key-ad4895e13fff08a87e315bfc378fc0ca]
+### 23. Regulator decision: review[^c-ad4895e13fff08a87e315bfc378fc0ca]
 
 (1) The following decisions of the regulator are prescribed for the purposes of section 25(1)[^f00027] of the 2022 Act—
 
 - (a) a decision not to register a higher-risk building further to an application;
 - (b) a decision to remove a building from the register[^f00028];
-- (c) a decision to refuse a request[^key-7085d4281a49a632105dd142a574ecce] to remove a building from the register;
+- (c) a decision to refuse a request[^c-7085d4281a49a632105dd142a574ecce] to remove a building from the register;
 - (d) a decision to refuse an application for a building assessment certificate[^f00029];
 - (e) a decision to give a direction for assessment of building safety risks pursuant to section 83(2)(c) of the 2022 Act.
 
 (2) The persons prescribed for the purposes of section 25(2) of the 2022 Act are—
 
-- (a) in relation to a decision of the regulator mentioned in[^key-b789020a8c1aeba13e32fec007852861] paragraph (1)(a), (b), (d) or (e) an affected person within the meaning in section 104(4) of the 2022 Act;
-- (b) in relation to a decision of the regulator mentioned in[^key-f1408f5f3af9ecb84fcb945e38455342] paragraph (1)(c), an AP for the higher-risk building (or person who would be an AP for the building if the building were a higher-risk building).
+- (a) in relation to a decision of the regulator mentioned in[^c-b789020a8c1aeba13e32fec007852861] paragraph (1)(a), (b), (d) or (e) an affected person within the meaning in section 104(4) of the 2022 Act;
+- (b) in relation to a decision of the regulator mentioned in[^c-f1408f5f3af9ecb84fcb945e38455342] paragraph (1)(c), an AP for the higher-risk building (or person who would be an AP for the building if the building were a higher-risk building).
 
-(3) The prescribed period for the purposes of section 25(2) of the 2022 Act[^key-b48c6d7bc26075c6d32d79565b2d1bf3] for giving a notice to the regulator is within 21 relevant days beginning with the day on which the decision is made.
+(3) The prescribed period for the purposes of section 25(2) of the 2022 Act[^c-b48c6d7bc26075c6d32d79565b2d1bf3] for giving a notice to the regulator is within 21 relevant days beginning with the day on which the decision is made.
 
-(4) The prescribed information for the purposes of section 25(3)(a) of the 2022 Act[^key-91b70ec5964e3bef835f9bac55a7ea54] to be contained in a notice (“**the notice**”) is—
+(4) The prescribed information for the purposes of section 25(3)(a) of the 2022 Act[^c-91b70ec5964e3bef835f9bac55a7ea54] to be contained in a notice (“**the notice**”) is—
 
 - (a) details for the person giving the notice as follows—
   - (i) their name;
@@ -347,15 +347,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: See section 2 of the Building Safety Act 2022 (“**the 2022 Act**”) for the meaning of “the regulator”.
 
-[^key-98a9a6b11ee00830a6334cf08c6fc5ca]: Commencement: Reg. 1 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-98a9a6b11ee00830a6334cf08c6fc5ca]: Commencement: Reg. 1 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
 [^f00003]: Footnote: See section 72 of the 2022 Act for the meaning of ‘accountable person’.
 
-[^key-e84bbbb43bce37ab9e7aafdf7aacad56]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2023/911/regulation/20/2/a) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-e84bbbb43bce37ab9e7aafdf7aacad56]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2023/911/regulation/20/2/a) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-cd1154edbfeb9938883895085ee320bb]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2023/911/regulation/20/2/b) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-cd1154edbfeb9938883895085ee320bb]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2023/911/regulation/20/2/b) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-06ad61b7630797a3543c811e7cbdd13a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/3) inserted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2024/110/regulation/40)
+[^c-06ad61b7630797a3543c811e7cbdd13a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/3) inserted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2024/110/regulation/40)
 
 [^f00005]: Footnote: [S.I. 1987/764](https://www.legislation.gov.uk/uksi/1987/764).
 
@@ -363,7 +363,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00007]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214) as amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119) and [2016/285](https://www.legislation.gov.uk/uksi/2016/285).
 
-[^key-94042b440565a50bf0736a8fc37494cb]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1): in definition of "completion certificate" paras. (aa)(ab) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/uksi/2023/911/regulation/20/2/c) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-94042b440565a50bf0736a8fc37494cb]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1): in definition of "completion certificate" paras. (aa)(ab) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/uksi/2023/911/regulation/20/2/c) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
 [^f00008]: Footnote: [1961 c. 64](https://www.legislation.gov.uk/ukpga/1961/64).
 
@@ -379,57 +379,57 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00014]: Footnote: Section 91ZA was inserted by section 32 of the Building Safety Act 2022. Paragraph 10 was substituted by paragraph 83(8) of Schedule 5 to the Building Safety Act 2022.
 
-[^key-6fd24e01b8e358321a3b684bbf2ce08f]: Commencement: Reg. 2 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-6fd24e01b8e358321a3b684bbf2ce08f]: Commencement: Reg. 2 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
 [^f00015]: Footnote: See section 2 of the 2022 Act for meaning of the “regulator”.
 
-[^key-5e94b4c438c09df2238b0f59b08c2433]: Textual amendment: [Reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/315/regulation/2/1/a) substituted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/a); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-5e94b4c438c09df2238b0f59b08c2433]: Textual amendment: [Reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/315/regulation/2/1/a) substituted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/a); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
-[^key-61ce65ff0bbbb0d83801284ec091de42]: Commencement: Reg. 3 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-61ce65ff0bbbb0d83801284ec091de42]: Commencement: Reg. 3 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
 [^f00016]: Footnote: See definition of “building assessment certificate” in section 81(1)(a) of the 2022 Act.
 
 [^f00017]: Footnote: See definition of “special measures order” in paragraph 1 of Schedule 7 of the 2022 Act.
 
-[^key-e624f37a35cbf13b984b7c8e11dc7df8]: Commencement: Reg. 4 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-e624f37a35cbf13b984b7c8e11dc7df8]: Commencement: Reg. 4 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-569a2b0841a58d49f82c0e220b32f65e]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2023/315/regulation/4/b) omitted (16.1.2024) by virtue of [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/b); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-569a2b0841a58d49f82c0e220b32f65e]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2023/315/regulation/4/b) omitted (16.1.2024) by virtue of [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/b); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
-[^key-181e5f7fc1327a2701c3795092ccf7dc]: Commencement: Reg. 5 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-181e5f7fc1327a2701c3795092ccf7dc]: Commencement: Reg. 5 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-3f5e42367e437c916ce7f033a0f27b9a]: Textual amendment: Word in [reg. 5(a)](https://www.legislation.gov.uk/uksi/2023/315/regulation/5/a) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(c)(i)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/c/i); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-3f5e42367e437c916ce7f033a0f27b9a]: Textual amendment: Word in [reg. 5(a)](https://www.legislation.gov.uk/uksi/2023/315/regulation/5/a) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(c)(i)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/c/i); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
-[^key-34413779e1a20e48a6699cd284b870b5]: Textual amendment: Word in [reg. 5(a)](https://www.legislation.gov.uk/uksi/2023/315/regulation/5/a) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(c)(ii)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/c/ii); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-34413779e1a20e48a6699cd284b870b5]: Textual amendment: Word in [reg. 5(a)](https://www.legislation.gov.uk/uksi/2023/315/regulation/5/a) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(c)(ii)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/c/ii); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
-[^key-e77152f13b17104d51b984755312c450]: Commencement: Reg. 6 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-e77152f13b17104d51b984755312c450]: Commencement: Reg. 6 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-ac9269a21a4e96a738c001c2a00861f4]: Commencement: Reg. 7 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-ac9269a21a4e96a738c001c2a00861f4]: Commencement: Reg. 7 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
 [^f00018]: Footnote: See section 109 (cooperation and coordination) of the 2022 Act.
 
-[^key-52333ef6e66daded7400dabc576a6406]: Commencement: Reg. 8 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-52333ef6e66daded7400dabc576a6406]: Commencement: Reg. 8 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-6415488dbf329bfa09a77ee7103e9a85]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/8/1) substituted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(d)(i)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/d/i); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-6415488dbf329bfa09a77ee7103e9a85]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/8/1) substituted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(d)(i)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/d/i); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
-[^key-07fad7aa6b218ca0b3bab4a293c86055]: Textual amendment: Word in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2023/315/regulation/8/2/b) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(d)(ii)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/d/ii); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-07fad7aa6b218ca0b3bab4a293c86055]: Textual amendment: Word in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2023/315/regulation/8/2/b) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(d)(ii)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/d/ii); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
 [^f00019]: Footnote: See sections 25 and 26 (reviews and appeals) and sections 104 to 107 (appeals etc.) of the 2022 Act.
 
-[^key-2862e35eb8de0110c4b3ca9b58a92909]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/8/3) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(d)(iii)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/d/iii); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-2862e35eb8de0110c4b3ca9b58a92909]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/8/3) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(d)(iii)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/d/iii); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
-[^key-d1f31fcbad9418bceced0342b940fb67]: Commencement: Reg. 9 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-d1f31fcbad9418bceced0342b940fb67]: Commencement: Reg. 9 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-11ef40a1fc240a76a6a22025a3d3aa7c]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2023/315/regulation/9/2) omitted (16.1.2024) by virtue of [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(e)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/e); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-11ef40a1fc240a76a6a22025a3d3aa7c]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2023/315/regulation/9/2) omitted (16.1.2024) by virtue of [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(e)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/e); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
-[^key-caf83e306f990b1f0aef13c2623bfa76]: Commencement: Reg. 10 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-caf83e306f990b1f0aef13c2623bfa76]: Commencement: Reg. 10 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-7fcbb67969507dfd79090686fa66dc62]: Commencement: Reg. 11 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-7fcbb67969507dfd79090686fa66dc62]: Commencement: Reg. 11 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-1ee224555300e77ca1085193b3ebbd52]: Commencement: Reg. 12 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-1ee224555300e77ca1085193b3ebbd52]: Commencement: Reg. 12 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
 [^f00020]: Footnote: See section 74 of the 2022 Act for “part of a building for which an accountable person is responsible”.
 
-[^key-a46ec4a3ac39c11aea49c876a76e110c]: Commencement: Reg. 13 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-a46ec4a3ac39c11aea49c876a76e110c]: Commencement: Reg. 13 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
 [^f00021]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Section 1 of the act has been amended by the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28) and by the Local Government (Wales) Measure [2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4).
 
@@ -441,42 +441,42 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00025]: Footnote: Section 73 has been amended by the Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 ([S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941)) and by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14).
 
-[^key-eebd29824fe912a7f761dfe3a9bba590]: Textual amendment: Word in [reg. 13(2)(a)](https://www.legislation.gov.uk/uksi/2023/315/regulation/13/2/a) substituted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(f)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/f); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-eebd29824fe912a7f761dfe3a9bba590]: Textual amendment: Word in [reg. 13(2)(a)](https://www.legislation.gov.uk/uksi/2023/315/regulation/13/2/a) substituted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(f)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/f); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
-[^key-5840df0787d61dba1aaecb663ceb90f6]: Commencement: Reg. 14 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-5840df0787d61dba1aaecb663ceb90f6]: Commencement: Reg. 14 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-0c9e8e9f648e282a625fbb72762b41d8]: Commencement: Reg. 15 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-0c9e8e9f648e282a625fbb72762b41d8]: Commencement: Reg. 15 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-53857e890ade38edd5400b48a961f216]: Commencement: Reg. 16 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-53857e890ade38edd5400b48a961f216]: Commencement: Reg. 16 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
 [^f00026]: Footnote: See definition of “residential unit” in section 115 of the 2022 Act.
 
-[^key-c8a7394eb6f6e832340a1fc5076be8bc]: Commencement: Reg. 17 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-c8a7394eb6f6e832340a1fc5076be8bc]: Commencement: Reg. 17 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-0398a5a56df2ed0859665c37ca9d73e5]: Commencement: Reg. 18 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-0398a5a56df2ed0859665c37ca9d73e5]: Commencement: Reg. 18 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-a3e9b778aa77f71a28efc80b38a2ebcc]: Commencement: Reg. 19 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-a3e9b778aa77f71a28efc80b38a2ebcc]: Commencement: Reg. 19 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-14703dbe4187263f11cd34e827744168]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2023/315/regulation/20) omitted (1.10.2023) by virtue of [The Building Safety (Regulator’s Charges) Regulations 2023 (S.I. 2023/965)](https://www.legislation.gov.uk/uksi/2023/965), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/965/regulation/1/5), [13(2)](https://www.legislation.gov.uk/uksi/2023/965/regulation/13/2)
+[^c-14703dbe4187263f11cd34e827744168]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2023/315/regulation/20) omitted (1.10.2023) by virtue of [The Building Safety (Regulator’s Charges) Regulations 2023 (S.I. 2023/965)](https://www.legislation.gov.uk/uksi/2023/965), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/965/regulation/1/5), [13(2)](https://www.legislation.gov.uk/uksi/2023/965/regulation/13/2)
 
-[^key-1b06ac69ffc5a5621e74b3ba789a0ea1]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2023/315/regulation/21) omitted (1.10.2023) by virtue of [The Building Safety (Regulator’s Charges) Regulations 2023 (S.I. 2023/965)](https://www.legislation.gov.uk/uksi/2023/965), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/965/regulation/1/5), [13(3)](https://www.legislation.gov.uk/uksi/2023/965/regulation/13/3)
+[^c-1b06ac69ffc5a5621e74b3ba789a0ea1]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2023/315/regulation/21) omitted (1.10.2023) by virtue of [The Building Safety (Regulator’s Charges) Regulations 2023 (S.I. 2023/965)](https://www.legislation.gov.uk/uksi/2023/965), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/965/regulation/1/5), [13(3)](https://www.legislation.gov.uk/uksi/2023/965/regulation/13/3)
 
-[^key-2573dbd4aeca45bf4766db8989875396]: Commencement: Reg. 22 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-2573dbd4aeca45bf4766db8989875396]: Commencement: Reg. 22 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
-[^key-ad4895e13fff08a87e315bfc378fc0ca]: Commencement: Reg. 23 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
+[^c-ad4895e13fff08a87e315bfc378fc0ca]: Commencement: Reg. 23 in force at 6.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/315/regulation/1/1)
 
 [^f00027]: Footnote: Section 25 of the 2022 Act is entitled “review by regulator of certain decisions made by it”.
 
 [^f00028]: Footnote: See section 78(3) of the 2022 Act for provision regarding a decision to remove a building from the register.
 
-[^key-7085d4281a49a632105dd142a574ecce]: Textual amendment: Words in [reg. 23(1)(c)](https://www.legislation.gov.uk/uksi/2023/315/regulation/23/1/c) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(g)(i)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/g/i); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-7085d4281a49a632105dd142a574ecce]: Textual amendment: Words in [reg. 23(1)(c)](https://www.legislation.gov.uk/uksi/2023/315/regulation/23/1/c) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(g)(i)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/g/i); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
 [^f00029]: Footnote: See section 81 of the 2022 Act for provision regarding a decision as to whether or not to issue a building assessment certificate.
 
-[^key-b789020a8c1aeba13e32fec007852861]: Textual amendment: Words in [reg. 23(2)(a)](https://www.legislation.gov.uk/uksi/2023/315/regulation/23/2/a) substituted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(g)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/g/ii/aa); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-b789020a8c1aeba13e32fec007852861]: Textual amendment: Words in [reg. 23(2)(a)](https://www.legislation.gov.uk/uksi/2023/315/regulation/23/2/a) substituted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(g)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/g/ii/aa); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
-[^key-f1408f5f3af9ecb84fcb945e38455342]: Textual amendment: Words in [reg. 23(2)(b)](https://www.legislation.gov.uk/uksi/2023/315/regulation/23/2/b) substituted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(g)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/g/ii/bb); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-f1408f5f3af9ecb84fcb945e38455342]: Textual amendment: Words in [reg. 23(2)(b)](https://www.legislation.gov.uk/uksi/2023/315/regulation/23/2/b) substituted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(g)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/g/ii/bb); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
-[^key-b48c6d7bc26075c6d32d79565b2d1bf3]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/23/3) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(g)(iii)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/g/iii); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-b48c6d7bc26075c6d32d79565b2d1bf3]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2023/315/regulation/23/3) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(g)(iii)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/g/iii); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
 
-[^key-91b70ec5964e3bef835f9bac55a7ea54]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/2023/315/regulation/23/4) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(g)(iv)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/g/iv); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-91b70ec5964e3bef835f9bac55a7ea54]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/2023/315/regulation/23/4) inserted (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [16(g)(iv)](https://www.legislation.gov.uk/uksi/2023/907/regulation/16/g/iv); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)

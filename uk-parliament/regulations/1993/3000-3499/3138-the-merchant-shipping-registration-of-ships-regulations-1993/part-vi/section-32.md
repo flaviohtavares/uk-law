@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Marking[^key-e38bdbade2c5b312bff385641cbb19b8]
+## 32. Marking[^c-e38bdbade2c5b312bff385641cbb19b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ On receipt of a carving and marking note on first registration the owner shall:â
 
 ## Annotations
 
-[^key-e38bdbade2c5b312bff385641cbb19b8]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1993/3138/regulation/32) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-e38bdbade2c5b312bff385641cbb19b8]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1993/3138/regulation/32) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

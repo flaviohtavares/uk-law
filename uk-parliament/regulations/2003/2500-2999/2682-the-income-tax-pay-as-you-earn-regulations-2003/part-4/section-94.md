@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Employers: information to employees of other earnings (Form P11D)[^key-4caf69c4d3be3f76fb850648041101a4]
+## 94. Employers: information to employees of other earnings (Form P11D)[^c-4caf69c4d3be3f76fb850648041101a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ whichever is the later.
 
 ## Annotations
 
-[^key-4caf69c4d3be3f76fb850648041101a4]: Textual amendment: Words in [reg. 94](https://www.legislation.gov.uk/uksi/2003/2682/regulation/94) heading substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2015/1927/regulation/10)
+[^c-4caf69c4d3be3f76fb850648041101a4]: Textual amendment: Words in [reg. 94](https://www.legislation.gov.uk/uksi/2003/2682/regulation/94) heading substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2015/1927/regulation/10)

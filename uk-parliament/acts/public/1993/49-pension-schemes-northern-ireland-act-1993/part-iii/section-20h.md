@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20H. Enforcement of GMP conversion conditions[^key-340218b5a8267ff4e737d298941b79ed]
+## 20H. Enforcement of GMP conversion conditions[^c-340218b5a8267ff4e737d298941b79ed]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-340218b5a8267ff4e737d298941b79ed]: Textual amendment: Ss. 20A-20H inserted (3.3.2009 for specified purposes, 6.4.2009 in so far as not already in force) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 12(3)](https://www.legislation.gov.uk/nia/2008/1/section/12/3), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1); [S.R. 2009/75](https://www.legislation.gov.uk/nisr/2009/75), [art. 2(a)(b)](https://www.legislation.gov.uk/nisr/2009/75/article/2/a)
+[^c-340218b5a8267ff4e737d298941b79ed]: Textual amendment: Ss. 20A-20H inserted (3.3.2009 for specified purposes, 6.4.2009 in so far as not already in force) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 12(3)](https://www.legislation.gov.uk/nia/2008/1/section/12/3), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1); [S.R. 2009/75](https://www.legislation.gov.uk/nisr/2009/75), [art. 2(a)(b)](https://www.legislation.gov.uk/nisr/2009/75/article/2/a)

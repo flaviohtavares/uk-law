@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 103A. Amendments to allegations[^key-515f94487f62111c278f015cf6f5db5b]
+## 103A. Amendments to allegations[^c-515f94487f62111c278f015cf6f5db5b]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-515f94487f62111c278f015cf6f5db5b]: Textual amendment: [Rule 103A](https://www.legislation.gov.uk/uksi/2005/2022/rule/103A) inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [12](https://www.legislation.gov.uk/uksi/2021/557/rule/12)
+[^c-515f94487f62111c278f015cf6f5db5b]: Textual amendment: [Rule 103A](https://www.legislation.gov.uk/uksi/2005/2022/rule/103A) inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [12](https://www.legislation.gov.uk/uksi/2021/557/rule/12)

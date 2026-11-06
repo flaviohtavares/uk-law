@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by section 108 of the Town and Country Planning Act 1990[^f00001] now exercisable by them[^f00002] make the following Regulations:
 
-## 1. Title, commencement, application and interpretation[^key-3183ecc7a38e199fc8a8e689c637582d]
+## 1. Title, commencement, application and interpretation[^c-3183ecc7a38e199fc8a8e689c637582d]
 
 (1) The title of these Regulations is the Town and Country Planning (Compensation) (Wales) (No.2) Regulations 2014 and they come into force on 7 November 2014.
 
@@ -58,13 +58,13 @@ The Welsh Ministers, in exercise of the powers conferred by section 108 of the T
 - “the DMPO” (“*Gorchymyn y Weithdrefn Rheoli Datblygu*”) means the Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^f00004]; and
 - “Schedule 2” (“*Atodlen 2*”) means Schedule 2 to the 1995 Order.
 
-## 2. Prescribed development – planning permission granted by development order[^key-3bf38b070b814061c6584f8158826173]
+## 2. Prescribed development – planning permission granted by development order[^c-3bf38b070b814061c6584f8158826173]
 
 For the purposes of paragraphs (2A)(a) and (3C)(a) of section 108 of the Act (compensation where development order or local development order withdrawn), development of the following description is prescribed—
 
 - (a) development permitted by Part 1 of Schedule 2 (development within the curtilage of a dwellinghouse)[^f00005];
-- (aa)[^key-a0d6d523201f962cb560d328b8966a27] development permitted by Class I of Part 3 of Schedule 2 (certain changes of use);
-- (ab)[^key-7cc1322d66894a0c57969cb99e7943ff] development permitted by Class BA of Part 4 of Schedule 2 (temporary buildings and uses);
+- (aa)[^c-a0d6d523201f962cb560d328b8966a27] development permitted by Class I of Part 3 of Schedule 2 (certain changes of use);
+- (ab)[^c-7cc1322d66894a0c57969cb99e7943ff] development permitted by Class BA of Part 4 of Schedule 2 (temporary buildings and uses);
 - (b) development permitted by Classes A and E of Part 8 of Schedule 2 (extension or alteration of an industrial building or a warehouse and erection or construction of a refuse or cycle store within the curtilage of an industrial building or warehouse)[^f00006];
 - (c) Class A of Part 24 (development by electronic communications code operators (Wales))[^f00007] to the extent that paragraph A.2(4A) disapplies the conditions in paragraph A.3 of Class A and applies the conditions in paragraph A.2(4B) of Class A;
 - (d) development permitted by Part 32 of Schedule 2 (schools, colleges, universities and hospitals)[^f00008];
@@ -73,22 +73,22 @@ For the purposes of paragraphs (2A)(a) and (3C)(a) of section 108 of the Act (co
 - (g) development permitted by Part 42 of Schedule 2 (shops, financial or professional services establishments)[^f00011]; and
 - (h) development permitted by Part 43 of Schedule 2 (installation of non-domestic microgeneration equipment)[^f00012].
 
-## 3. Prescribed manner for withdrawing planning permission granted by development order[^key-331cdf757a94ff6dfd3357fffb63abe7]
+## 3. Prescribed manner for withdrawing planning permission granted by development order[^c-331cdf757a94ff6dfd3357fffb63abe7]
 
 For the purposes of section 108(3C)(b) of the Act, the prescribed manner for withdrawing planning permission is—
 
-- (a) by direction in accordance with article 4[^key-40f91d0435aeca4f04ba023583f3546f] of the 1995 Order; or
+- (a) by direction in accordance with article 4[^c-40f91d0435aeca4f04ba023583f3546f] of the 1995 Order; or
 - (b) by providing in a development order that planning permission—
   - (i) is for a limited period; or
   - (ii) is withdrawn after a date specified in the order.
 
-## 4. Notice of the withdrawal - prescribed manner of publication and period for development orders[^key-aa3ee5069de40bd28daf7da76daf9517]
+## 4. Notice of the withdrawal - prescribed manner of publication and period for development orders[^c-aa3ee5069de40bd28daf7da76daf9517]
 
 (1) For the purposes of section 108(3C)(c) of the Act the following matters are prescribed.
 
 (2) The prescribed manner in which notice of the withdrawal is to be published is—
 
-- (a) in the manner described in paragraphs 1(1) to (5) of Schedule 2A to[^key-b05436a674fd8c71d03419e2cae80e54] the 1995 Order; or
+- (a) in the manner described in paragraphs 1(1) to (5) of Schedule 2A to[^c-b05436a674fd8c71d03419e2cae80e54] the 1995 Order; or
 - (b) by providing in a development order that planning permission—
   - (i) is for a limited period; or
   - (ii) is withdrawn after a date specified in the development order.
@@ -98,7 +98,7 @@ For the purposes of section 108(3C)(b) of the Act, the prescribed manner for wit
 - (a) 24 months; or
 - (b) where notice of withdrawal is published in accordance with paragraph (2)(b), 5 years.
 
-## 5. Notice of withdrawal – prescribed manner and period for local development orders[^key-f6bbcbded4524df87e277b5eed2de794]
+## 5. Notice of withdrawal – prescribed manner and period for local development orders[^c-f6bbcbded4524df87e277b5eed2de794]
 
 (1) For the purposes of section 108(3D)(c) of the Act the following matters are prescribed.
 
@@ -112,14 +112,14 @@ For the purposes of section 108(3C)(b) of the Act, the prescribed manner for wit
 - (a) 24 months; or
 - (b) where notice of withdrawal is published in accordance with paragraph (2)(b), 5 years.
 
-## 6. Transitional provision[^key-c4a7986654d087bce0d7c7063f575c56]
+## 6. Transitional provision[^c-c4a7986654d087bce0d7c7063f575c56]
 
 These Regulations do not apply in relation to any withdrawal of planning permission for development of a description prescribed in regulation 2(d) where, before 18 June 2012, either—
 
 - (a) notice of the direction withdrawing that permission has been given in accordance with article 5 of the 1995 Order; or
 - (b) the direction is one to which article 6 of the 1995 Order (notice and confirmation of article 4(2) directions) applies and the direction has come into force.
 
-## 7. Revocation[^key-e44177a5a12c0ddfaf43f57131bcebf3]
+## 7. Revocation[^c-e44177a5a12c0ddfaf43f57131bcebf3]
 
 The Town and Country Planning (Compensation) (Wales) Regulations 2014 are revoked[^f00014].
 
@@ -163,19 +163,19 @@ A regulatory impact assessment has been prepared in relation to these Regulation
 
 [^f00002]: Footnote: Section 108(6) was amended so as to confer functions in relation to Wales exercisable by the Welsh Ministers, by the Planning Permission (Withdrawal of Development Order or Local Development Order) (Compensation) (Wales) Order 2012.
 
-[^key-3183ecc7a38e199fc8a8e689c637582d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
+[^c-3183ecc7a38e199fc8a8e689c637582d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418).
 
 [^f00004]: Footnote: [S.I. 2012/801 (W. 110)](https://www.legislation.gov.uk/wsi/2012/801) as amended by [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755). There are other amendments which are not relevant to these Regulations.
 
-[^key-3bf38b070b814061c6584f8158826173]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/2693/regulation/2) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
+[^c-3bf38b070b814061c6584f8158826173]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/2693/regulation/2) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
 
 [^f00005]: Footnote: Part 1 was substituted in relation to Wales by [S.I. 2013/1776 (W. 177)](https://www.legislation.gov.uk/wsi/2013/1776).
 
-[^key-a0d6d523201f962cb560d328b8966a27]: Textual amendment: [Reg. 2(aa)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/2/aa) inserted (20.10.2022) by [The Town and Country Planning (General Permitted Development etc.) (Amendment) (Wales) Order 2022 (S.I. 2022/997)](https://www.legislation.gov.uk/wsi/2022/997), [arts. 1](https://www.legislation.gov.uk/wsi/2022/997/article/1), [3(2)](https://www.legislation.gov.uk/wsi/2022/997/article/3/2)
+[^c-a0d6d523201f962cb560d328b8966a27]: Textual amendment: [Reg. 2(aa)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/2/aa) inserted (20.10.2022) by [The Town and Country Planning (General Permitted Development etc.) (Amendment) (Wales) Order 2022 (S.I. 2022/997)](https://www.legislation.gov.uk/wsi/2022/997), [arts. 1](https://www.legislation.gov.uk/wsi/2022/997/article/1), [3(2)](https://www.legislation.gov.uk/wsi/2022/997/article/3/2)
 
-[^key-7cc1322d66894a0c57969cb99e7943ff]: Textual amendment: [Reg. 2(ab)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/2/ab) inserted (1.6.2026) by [The Town and Country Planning (General Permitted Development) (Amendment) (Wales) Order 2026 (W.S.I. 2026/79)](https://www.legislation.gov.uk/wsi/2026/79), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/79/article/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2026/79/article/7/2)
+[^c-7cc1322d66894a0c57969cb99e7943ff]: Textual amendment: [Reg. 2(ab)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/2/ab) inserted (1.6.2026) by [The Town and Country Planning (General Permitted Development) (Amendment) (Wales) Order 2026 (W.S.I. 2026/79)](https://www.legislation.gov.uk/wsi/2026/79), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/79/article/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2026/79/article/7/2)
 
 [^f00006]: Footnote: Part 8 was substituted in relation to Wales by [S.I. 2014/592 (W. 69)](https://www.legislation.gov.uk/wsi/2014/592).
 
@@ -191,18 +191,18 @@ A regulatory impact assessment has been prepared in relation to these Regulation
 
 [^f00012]: Footnote: Part 43 was inserted in relation to Wales by [S.I. 2012/2318 (W. 252)](https://www.legislation.gov.uk/wsi/2012/2318).
 
-[^key-331cdf757a94ff6dfd3357fffb63abe7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2014/2693/regulation/3) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
+[^c-331cdf757a94ff6dfd3357fffb63abe7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2014/2693/regulation/3) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
 
-[^key-40f91d0435aeca4f04ba023583f3546f]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/3/a) substituted (20.10.2022) by [The Town and Country Planning (General Permitted Development etc.) (Amendment) (Wales) Order 2022 (S.I. 2022/997)](https://www.legislation.gov.uk/wsi/2022/997), [arts. 1](https://www.legislation.gov.uk/wsi/2022/997/article/1), [3(3)](https://www.legislation.gov.uk/wsi/2022/997/article/3/3)
+[^c-40f91d0435aeca4f04ba023583f3546f]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/3/a) substituted (20.10.2022) by [The Town and Country Planning (General Permitted Development etc.) (Amendment) (Wales) Order 2022 (S.I. 2022/997)](https://www.legislation.gov.uk/wsi/2022/997), [arts. 1](https://www.legislation.gov.uk/wsi/2022/997/article/1), [3(3)](https://www.legislation.gov.uk/wsi/2022/997/article/3/3)
 
-[^key-aa3ee5069de40bd28daf7da76daf9517]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2014/2693/regulation/4) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
+[^c-aa3ee5069de40bd28daf7da76daf9517]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2014/2693/regulation/4) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
 
-[^key-b05436a674fd8c71d03419e2cae80e54]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/4/2/a) substituted (20.10.2022) by [The Town and Country Planning (General Permitted Development etc.) (Amendment) (Wales) Order 2022 (S.I. 2022/997)](https://www.legislation.gov.uk/wsi/2022/997), [arts. 1](https://www.legislation.gov.uk/wsi/2022/997/article/1), [3(4)](https://www.legislation.gov.uk/wsi/2022/997/article/3/4)
+[^c-b05436a674fd8c71d03419e2cae80e54]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/4/2/a) substituted (20.10.2022) by [The Town and Country Planning (General Permitted Development etc.) (Amendment) (Wales) Order 2022 (S.I. 2022/997)](https://www.legislation.gov.uk/wsi/2022/997), [arts. 1](https://www.legislation.gov.uk/wsi/2022/997/article/1), [3(4)](https://www.legislation.gov.uk/wsi/2022/997/article/3/4)
 
-[^key-f6bbcbded4524df87e277b5eed2de794]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2014/2693/regulation/5) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
+[^c-f6bbcbded4524df87e277b5eed2de794]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2014/2693/regulation/5) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
 
-[^key-c4a7986654d087bce0d7c7063f575c56]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2014/2693/regulation/6) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
+[^c-c4a7986654d087bce0d7c7063f575c56]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2014/2693/regulation/6) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
 
-[^key-e44177a5a12c0ddfaf43f57131bcebf3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2014/2693/regulation/7) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
+[^c-e44177a5a12c0ddfaf43f57131bcebf3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2014/2693/regulation/7) in force at 7.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2693/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 2014/593 (W. 70)](https://www.legislation.gov.uk/wsi/2014/593).

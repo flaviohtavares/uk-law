@@ -431,7 +431,7 @@ Section 7
 - (a) despite the repeal of Part 3 of CTA 2010 by paragraph 4 of this Schedule, sections 25 to 30 of that Act (interpretation of references to associated companies) continue to apply for the purposes of section 99 of CAA 2001, and sections 357CL and 357CM of CTA 2010, in relation to accounting periods beginning before but ending on or after 1 April 2015, and
 - (b) in relation to the application of sections 25 to 30 of CTA 2010 for those purposes, paragraph 22(2) of this Schedule is to be ignored.
 
-**22.**[^key-487382cc9ebe9aab1c6220844e00a9df] (1) The other amendments made by this Schedule have effect for the financial year 2015 and subsequent financial years.
+**22.**[^c-487382cc9ebe9aab1c6220844e00a9df] (1) The other amendments made by this Schedule have effect for the financial year 2015 and subsequent financial years.
 
 (2) In the case of an accounting period (a “straddling period”)—
 
@@ -449,4 +449,4 @@ the repealed small profit provisions and the new ring fence small profit provisi
 
 ## Annotations
 
-[^key-487382cc9ebe9aab1c6220844e00a9df]: Modification: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/22) excluded (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/39/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/39/2/b)
+[^c-487382cc9ebe9aab1c6220844e00a9df]: Modification: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/22) excluded (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/39/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/39/2/b)

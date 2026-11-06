@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Inspectors[^key-32379224a548f2664a8ed5bdddd48e72]
+## 83. Inspectors[^c-32379224a548f2664a8ed5bdddd48e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 8 (appointment and powers of inspectors) has effect.
 
 ## Annotations
 
-[^key-32379224a548f2664a8ed5bdddd48e72]: Commencement: S. 83 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-32379224a548f2664a8ed5bdddd48e72]: Commencement: S. 83 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

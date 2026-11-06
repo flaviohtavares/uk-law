@@ -40,10 +40,10 @@ summary: ''
 (8) When providing a sample of urine—
 
 - (a) the prisoner must be afforded such degree of privacy for the purposes of providing the sample as may be compatible with the need to prevent or detect any alteration or falsification of the sample; and
-- (b) the prisoner must not be required to provide such a sample in the sight of a person of the opposite gender unless the Governor considers that it is necessary to do so for the purpose of protecting the health, welfare or safety of any person, or the security or good order of the prison[^key-e5801f8fd891651712ae74cf206d5607].
+- (b) the prisoner must not be required to provide such a sample in the sight of a person of the opposite gender unless the Governor considers that it is necessary to do so for the purpose of protecting the health, welfare or safety of any person, or the security or good order of the prison[^c-e5801f8fd891651712ae74cf206d5607].
 
 ## Annotations
 
 [^c21071761]: Marginal citation: [1989 c.45](https://www.legislation.gov.uk/ukpga/1989/45); section 41B was added by the [Criminal Justice and Public Order Act 1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33), [section 151(2)](https://www.legislation.gov.uk/ukpga/1994/33/section/151/2) and was amended by the [Management of Offenders etc. (Scotland) Act 2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14), [section 16](https://www.legislation.gov.uk/asp/2005/14/section/16).
 
-[^key-e5801f8fd891651712ae74cf206d5607]: Textual amendment: Words in [rule 93(8)(b)](https://www.legislation.gov.uk/ssi/2011/331/rule/93/8/b) inserted (26.2.2024) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2023 (S.S.I. 2023/366)](https://www.legislation.gov.uk/ssi/2023/366), [rules 1](https://www.legislation.gov.uk/ssi/2023/366/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/366/rule/2/3)
+[^c-e5801f8fd891651712ae74cf206d5607]: Textual amendment: Words in [rule 93(8)(b)](https://www.legislation.gov.uk/ssi/2011/331/rule/93/8/b) inserted (26.2.2024) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2023 (S.S.I. 2023/366)](https://www.legislation.gov.uk/ssi/2023/366), [rules 1](https://www.legislation.gov.uk/ssi/2023/366/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/366/rule/2/3)

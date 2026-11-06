@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Designated part-time courses[^key-f7bc6e3209ba510a702a68c6577ecdd9]
+## 134. Designated part-time courses[^c-f7bc6e3209ba510a702a68c6577ecdd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7bc6e3209ba510a702a68c6577ecdd9]: Commencement: Reg. 134 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-f7bc6e3209ba510a702a68c6577ecdd9]: Commencement: Reg. 134 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00070]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 27.

@@ -32,7 +32,7 @@ summary: ''
 
 Companies
 
-The Companies (Revision of Defective Accounts and Reports) (Amendment) Regulations 2013 (revoked)[^key-e82fa08e1968499ec28d0156970286b7]
+The Companies (Revision of Defective Accounts and Reports) (Amendment) Regulations 2013 (revoked)[^c-e82fa08e1968499ec28d0156970286b7]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 1st October 2013
 
-[^key-e82fa08e1968499ec28d0156970286b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e82fa08e1968499ec28d0156970286b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e82fa08e1968499ec28d0156970286b7]
+## 1. Citation and commencement[^c-e82fa08e1968499ec28d0156970286b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Companies (Revision of Defective Accounts and Reports) Regulations 2008[^key-e82fa08e1968499ec28d0156970286b7]
+## 2. Amendment to the Companies (Revision of Defective Accounts and Reports) Regulations 2008[^c-e82fa08e1968499ec28d0156970286b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e82fa08e1968499ec28d0156970286b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Saving[^key-e82fa08e1968499ec28d0156970286b7]
+## 13. Saving[^c-e82fa08e1968499ec28d0156970286b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e82fa08e1968499ec28d0156970286b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e82fa08e1968499ec28d0156970286b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e82fa08e1968499ec28d0156970286b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e82fa08e1968499ec28d0156970286b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e82fa08e1968499ec28d0156970286b7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1971) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [reg. 2](https://www.legislation.gov.uk/uksi/2013/2224/regulation/2)
+[^c-e82fa08e1968499ec28d0156970286b7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1971) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [reg. 2](https://www.legislation.gov.uk/uksi/2013/2224/regulation/2)

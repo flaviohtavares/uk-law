@@ -46,7 +46,7 @@ The Child Abduction (Northern Ireland) Order 1985
 - (a) a person shall be regarded as taking a child if he causes or induces the child to accompany him or any other person or causes the child to be taken;
 - (b) a person shall be regarded as sending a child if he causes the child to be sent;[^c16979951]. . .
 - (c) a person shall be regarded as detaining a child if he causes the child to be detained or induces the child to remain with him or any other person and
-- (d) references to a child's parents and to a child whose parents were (or were not) married to , or civil partners of,[^key-829626eb8532d71d882ac0e54bce12c5] each other at the time of his birth shall be construed in accordance with Article 155 of the Children (Northern Ireland) Order 1995 (which extends their meaning).
+- (d) references to a child's parents and to a child whose parents were (or were not) married to , or civil partners of,[^c-829626eb8532d71d882ac0e54bce12c5] each other at the time of his birth shall be construed in accordance with Article 155 of the Children (Northern Ireland) Order 1995 (which extends their meaning).
 
 ## 3. Offence of abduction of child by parent, etc.
 
@@ -55,7 +55,7 @@ The Child Abduction (Northern Ireland) Order 1985
 (2) A person is connected with a child for the purposes of this Article if—
 
 - (a) he is a parent of the child; or
-- (b) in the case of a child whose parents were not married to , or civil partners of,[^key-2846dc98c5a183f269982148a6016ca6] each other at the time of his birth, there are reasonable grounds for believing that he is the father of the child; or
+- (b) in the case of a child whose parents were not married to , or civil partners of,[^c-2846dc98c5a183f269982148a6016ca6] each other at the time of his birth, there are reasonable grounds for believing that he is the father of the child; or
 - (c) he is a guardian of the child; or
 - (d) he is a person in whose favour a residence order is in force with respect to the child; or
 - (e) he has custody of the child.
@@ -111,13 +111,13 @@ The Child Abduction (Northern Ireland) Order 1985
 
 (2) The persons are—
 
-- (a) where the father and mother of the child in question were married to , or civil partners of,[^key-f75514693015ae42197f8828d98fc143] each other at the time of his birth, the child's father and mother;
-- (b) where the father and mother of the child in question were not married to , or civil partners of,[^key-cc93baf6b4135f9e5a0e1f2f35075ef6] each other at the time of his birth, the child's mother; and
+- (a) where the father and mother of the child in question were married to , or civil partners of,[^c-f75514693015ae42197f8828d98fc143] each other at the time of his birth, the child's father and mother;
+- (b) where the father and mother of the child in question were not married to , or civil partners of,[^c-cc93baf6b4135f9e5a0e1f2f35075ef6] each other at the time of his birth, the child's mother; and
 - (c) any other person mentioned in sub-paragraphs (c) to (e) of Article 3(2).
 
 (3) In proceedings against any person for an offence under this Article, it shall be a defence for that person to prove—
 
-- (a) where the father and mother of the child in question were not married to , or civil partners of,[^key-79516f7b9717d4bbfc6b6502494e1feb] each other at the time of his birth—
+- (a) where the father and mother of the child in question were not married to , or civil partners of,[^c-79516f7b9717d4bbfc6b6502494e1feb] each other at the time of his birth—
   - (i) that he is the child's father; or
   - (ii) that, at the time of the alleged offence, he believed, on reasonable grounds, that he was the child's father; or
 - (b) that, at the time of the alleged offence, he believed that the child had attained the age of 16.
@@ -217,11 +217,11 @@ Article 3(7).
 
 [^c16979951]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/nisi/1995)
 
-[^key-829626eb8532d71d882ac0e54bce12c5]: Textual amendment: Words in [art. 2(2)(d)](https://www.legislation.gov.uk/nisi/1985/1638/article/2/2/d) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [34(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/34/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-829626eb8532d71d882ac0e54bce12c5]: Textual amendment: Words in [art. 2(2)(d)](https://www.legislation.gov.uk/nisi/1985/1638/article/2/2/d) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [34(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/34/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c16980001]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/nisi/1995)
 
-[^key-2846dc98c5a183f269982148a6016ca6]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/nisi/1985/1638/article/3/2/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [34(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/34/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-2846dc98c5a183f269982148a6016ca6]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/nisi/1985/1638/article/3/2/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [34(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/34/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c16980101]: Textual amendment: [1998 NI 9](https://www.legislation.gov.uk/nisi/1998)
 
@@ -229,11 +229,11 @@ Article 3(7).
 
 [^c16980141]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/nisi/1995)
 
-[^key-f75514693015ae42197f8828d98fc143]: Textual amendment: Words in [art. 4(2)(a)](https://www.legislation.gov.uk/nisi/1985/1638/article/4/2/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [34(4)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/34/4/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-f75514693015ae42197f8828d98fc143]: Textual amendment: Words in [art. 4(2)(a)](https://www.legislation.gov.uk/nisi/1985/1638/article/4/2/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [34(4)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/34/4/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-cc93baf6b4135f9e5a0e1f2f35075ef6]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/nisi/1985/1638/article/4/2/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [34(4)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/34/4/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-cc93baf6b4135f9e5a0e1f2f35075ef6]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/nisi/1985/1638/article/4/2/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [34(4)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/34/4/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-79516f7b9717d4bbfc6b6502494e1feb]: Textual amendment: Words in [art. 4(3)(a)](https://www.legislation.gov.uk/nisi/1985/1638/article/4/3/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [34(4)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/34/4/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-79516f7b9717d4bbfc6b6502494e1feb]: Textual amendment: Words in [art. 4(3)(a)](https://www.legislation.gov.uk/nisi/1985/1638/article/4/3/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [34(4)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/34/4/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^m00002]: Marginal citation: 1952 c. 67
 

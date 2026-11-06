@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Register of supply systems, etc.[^key-7c6bca3509d3434270b53f14f123416d]
+## 5. Register of supply systems, etc.[^c-7c6bca3509d3434270b53f14f123416d]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ An enforcing authority must prepare and maintain a register of information in re
 
 ## Annotations
 
-[^key-7c6bca3509d3434270b53f14f123416d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/282/regulation/5) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-7c6bca3509d3434270b53f14f123416d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/282/regulation/5) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

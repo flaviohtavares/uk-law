@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Review of classification of properties[^key-788b971cbd117b3779e7144241821ab5][^key-a5b5ddca5fae14af19d3a0f172c71c76]
+## 77. Review of classification of properties[^c-788b971cbd117b3779e7144241821ab5][^c-a5b5ddca5fae14af19d3a0f172c71c76]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-788b971cbd117b3779e7144241821ab5]: Commencement: S. 77 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-788b971cbd117b3779e7144241821ab5]: Commencement: S. 77 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-a5b5ddca5fae14af19d3a0f172c71c76]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2025/13/section/77) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-a5b5ddca5fae14af19d3a0f172c71c76]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2025/13/section/77) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Survey of councillors and unsuccessful candidates in local elections[^key-dc0ecd352df8f569a9316bac0f2a6b66]
+## 25. Survey of councillors and unsuccessful candidates in local elections[^c-dc0ecd352df8f569a9316bac0f2a6b66]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc0ecd352df8f569a9316bac0f2a6b66]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2024/5/section/25) in force at 9.11.2024, see [s. 72(2)(b)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/b)
+[^c-dc0ecd352df8f569a9316bac0f2a6b66]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2024/5/section/25) in force at 9.11.2024, see [s. 72(2)(b)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/b)

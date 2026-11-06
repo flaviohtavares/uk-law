@@ -24,7 +24,7 @@ summary: ''
 
 (2) In calculating tax notionally chargeable under subsection (1), it is to be assumed—
 
-- (a) that, to the extent permitted by the law of the [^key-579d0b942c54af5c5e522c91b66d855e]... member State mentioned in section 120(1), losses arising on the relevant transfer are set against profits arising on it, and
+- (a) that, to the extent permitted by the law of the [^c-579d0b942c54af5c5e522c91b66d855e]... member State mentioned in section 120(1), losses arising on the relevant transfer are set against profits arising on it, and
 - (b) that any relief available under that law is claimed.
 
 (3) In this section “**the relevant transfer**” means—
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-579d0b942c54af5c5e522c91b66d855e]: Textual amendment: Word in [s. 121(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/121/2/a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(7)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/7) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-579d0b942c54af5c5e522c91b66d855e]: Textual amendment: Word in [s. 121(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/121/2/a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(7)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/7) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

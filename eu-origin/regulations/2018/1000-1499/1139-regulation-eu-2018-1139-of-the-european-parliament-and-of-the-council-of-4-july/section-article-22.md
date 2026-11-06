@@ -22,7 +22,7 @@ summary: ''
 
 1. Cabin crew involved in commercial air transport operations shall be required to hold an attestation.
 
-2. Taking into account the objectives and principles set out in Articles 1 and 4, and in particular the nature and risk of the activity concerned, cabin crew involved in operations other than commercial air transport may also be required to hold an attestation, in accordance with regulations made under[^key-cee637d642cf69d47904486d5297e002] point (a) of Article 23(2).
+2. Taking into account the objectives and principles set out in Articles 1 and 4, and in particular the nature and risk of the activity concerned, cabin crew involved in operations other than commercial air transport may also be required to hold an attestation, in accordance with regulations made under[^c-cee637d642cf69d47904486d5297e002] point (a) of Article 23(2).
 
 3. The attestations referred to in paragraphs 1 and 2 of this Article shall be issued upon application, when the applicant has demonstrated that he or she complies with regulations made under Article 23 adopted to ensure compliance with the essential requirements referred to in Article 20.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cee637d642cf69d47904486d5297e002]: Textual amendment: Words in [Art. 22](https://www.legislation.gov.uk/eur/2018/1139/article/22) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [101](https://www.legislation.gov.uk/uksi/2019/645/regulation/101) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cee637d642cf69d47904486d5297e002]: Textual amendment: Words in [Art. 22](https://www.legislation.gov.uk/eur/2018/1139/article/22) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [101](https://www.legislation.gov.uk/uksi/2019/645/regulation/101) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

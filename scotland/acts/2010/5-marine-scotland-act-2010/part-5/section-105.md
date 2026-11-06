@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Penalties in regulations implementing the Habitats Directive for the Scottish marine area[^key-5b2f0bece852caa2fe9dc2298b00f684]
+## 105. Penalties in regulations implementing the Habitats Directive for the Scottish marine area[^c-5b2f0bece852caa2fe9dc2298b00f684]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b2f0bece852caa2fe9dc2298b00f684]: Textual amendment: S. 105 repealed (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/55/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b2f0bece852caa2fe9dc2298b00f684]: Textual amendment: S. 105 repealed (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/55/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

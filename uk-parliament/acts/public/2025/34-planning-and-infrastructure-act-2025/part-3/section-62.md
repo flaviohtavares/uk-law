@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Nature restoration levy: charging schedules[^key-6a960495f3446657683fb63920e5f077][^key-935d19415c11560c832e9142a28742d0]
+## 62. Nature restoration levy: charging schedules[^c-6a960495f3446657683fb63920e5f077][^c-935d19415c11560c832e9142a28742d0]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a960495f3446657683fb63920e5f077]: Commencement: S. 62 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-6a960495f3446657683fb63920e5f077]: Commencement: S. 62 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-935d19415c11560c832e9142a28742d0]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2025/34/section/62) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/d)
+[^c-935d19415c11560c832e9142a28742d0]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2025/34/section/62) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/d)

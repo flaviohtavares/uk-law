@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**302.**[^key-e56b3a5bc1c95201fb7decd57697c355] In section 93(1) (regulations providing for approval of local authority foster parents) in paragraph (a) after “such local authority” insert “or other persons”.
+**302.**[^c-e56b3a5bc1c95201fb7decd57697c355] In section 93(1) (regulations providing for approval of local authority foster parents) in paragraph (a) after “such local authority” insert “or other persons”.
 
 ## Annotations
 
-[^key-e56b3a5bc1c95201fb7decd57697c355]: Commencement: Reg. 302 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-e56b3a5bc1c95201fb7decd57697c355]: Commencement: Reg. 302 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

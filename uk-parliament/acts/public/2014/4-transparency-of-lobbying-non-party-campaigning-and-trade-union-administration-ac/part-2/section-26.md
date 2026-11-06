@@ -70,7 +70,7 @@ summary: ''
 - (a) for “in connection with the production or publication of election material which” substitute “ and the expenditure ”;
 - (b) for “85(3)” substitute “ 85(2)(b) ”.
 
-(11)[^key-ac97158e40534a5087faa9f950a678a0] In section 143 of that Act (details to appear on election material)—
+(11)[^c-ac97158e40534a5087faa9f950a678a0] In section 143 of that Act (details to appear on election material)—
 
 - (a) in subsections (2A) and (2B)—
   - (i) for “, procuring or enhancing” substitute “ or procuring ”;
@@ -81,7 +81,7 @@ summary: ''
 
   .
 
-(12)[^key-ac97158e40534a5087faa9f950a678a0] After section 143 of that Act insert—
+(12)[^c-ac97158e40534a5087faa9f950a678a0] After section 143 of that Act insert—
 
 > **143A. Meaning of “election material”**
 >
@@ -118,4 +118,4 @@ summary: ''
 
 [^c2201954]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2014/4/section/26) partly in force; [s. 26(1)-(10)](https://www.legislation.gov.uk/ukpga/2014/4/section/26/1) (13) (14) in force for certain purposes at Royal Assent, see [s. 45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b)
 
-[^key-ac97158e40534a5087faa9f950a678a0]: Commencement: [S. 26(11)](https://www.legislation.gov.uk/ukpga/2014/4/section/26/11)[(12)](https://www.legislation.gov.uk/ukpga/2014/4/section/26/12) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/f)
+[^c-ac97158e40534a5087faa9f950a678a0]: Commencement: [S. 26(11)](https://www.legislation.gov.uk/ukpga/2014/4/section/26/11)[(12)](https://www.legislation.gov.uk/ukpga/2014/4/section/26/12) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Statement of strategic priorities[^key-6b6be77f46e09cd5e6fdafe2af7e33f0][^key-3936dd8eed6a4f0a34182ebba7286292]
+## 172. Statement of strategic priorities[^c-6b6be77f46e09cd5e6fdafe2af7e33f0][^c-3936dd8eed6a4f0a34182ebba7286292]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b6be77f46e09cd5e6fdafe2af7e33f0]: Commencement: S. 172 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-6b6be77f46e09cd5e6fdafe2af7e33f0]: Commencement: S. 172 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-3936dd8eed6a4f0a34182ebba7286292]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2023/50/section/172) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)
+[^c-3936dd8eed6a4f0a34182ebba7286292]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2023/50/section/172) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1D. The integrity objective[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+## 1D. The integrity objective[^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,12 +26,12 @@ summary: ''
 
 - (a) its soundness, stability and resilience,
 - (b) its not being used for a purpose connected with financial crime,
-- (c) its not being affected by contraventions by persons of Article 14 (prohibition of insider dealing and of unlawful disclosure of inside information) or Article 15 (prohibition of market manipulation) of the market abuse regulation[^key-d87d68192e4fd31e05c7eeda82681163],
+- (c) its not being affected by contraventions by persons of Article 14 (prohibition of insider dealing and of unlawful disclosure of inside information) or Article 15 (prohibition of market manipulation) of the market abuse regulation[^c-d87d68192e4fd31e05c7eeda82681163],
 - (d) the orderly operation of the financial markets, and
 - (e) the transparency of the price formation process in those markets.
 
 ## Annotations
 
-[^key-213c415ae170f27ccc3cbe5ebbb68cce]: Textual amendment: Pt. 1A substituted for Pt. 1 (24.1.2013 for specified purposes, 19.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/6/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), [4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-213c415ae170f27ccc3cbe5ebbb68cce]: Textual amendment: Pt. 1A substituted for Pt. 1 (24.1.2013 for specified purposes, 19.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/6/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), [4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-d87d68192e4fd31e05c7eeda82681163]: Textual amendment: Words in s. 1D(2)(c) substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2016/680/regulation/10/2)
+[^c-d87d68192e4fd31e05c7eeda82681163]: Textual amendment: Words in s. 1D(2)(c) substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2016/680/regulation/10/2)

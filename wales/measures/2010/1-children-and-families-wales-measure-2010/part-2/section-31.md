@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Cancellation of registration[^key-8a18175e0e9ce68ccfadfacb32fab9cf]
+## 31. Cancellation of registration[^c-8a18175e0e9ce68ccfadfacb32fab9cf]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) The Welsh Ministers may cancel the registration of a person registered under this Part if it appears to them that any of the following apply—
 
 - (a) the requirements for registration that apply in relation to the person's registration under section 25 or 27 have ceased, or will cease, to be satisfied;
-- (b)[^key-6eb4b2a16b01b4a61e081d3516f47513][^key-699cf847ce449e6011159c96a686a46e] the person has failed to comply with a condition imposed on that person's registration under this Part;
+- (b)[^c-6eb4b2a16b01b4a61e081d3516f47513][^c-699cf847ce449e6011159c96a686a46e] the person has failed to comply with a condition imposed on that person's registration under this Part;
 - (c) the person has failed to comply with a requirement imposed on that person by regulations under this Part;
 - (d) the person has failed to pay a prescribed fee.
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8a18175e0e9ce68ccfadfacb32fab9cf]: Commencement: S. 31 in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
+[^c-8a18175e0e9ce68ccfadfacb32fab9cf]: Commencement: S. 31 in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
 
-[^key-6eb4b2a16b01b4a61e081d3516f47513]: Modification: S. 31(2)(b) excluded (1.4.2016) by [The Regulation of Child Minding and Day Care (Wales) Order 2016 (No. 98)](https://www.legislation.gov.uk/wsi/2016/98), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/98/article/1/2), [12(2)](https://www.legislation.gov.uk/wsi/2016/98/article/12/2)[(3)(b)](https://www.legislation.gov.uk/wsi/2016/98/article/12/3/b) (with [art. 11](https://www.legislation.gov.uk/wsi/2016/98/article/11))
+[^c-6eb4b2a16b01b4a61e081d3516f47513]: Modification: S. 31(2)(b) excluded (1.4.2016) by [The Regulation of Child Minding and Day Care (Wales) Order 2016 (No. 98)](https://www.legislation.gov.uk/wsi/2016/98), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/98/article/1/2), [12(2)](https://www.legislation.gov.uk/wsi/2016/98/article/12/2)[(3)(b)](https://www.legislation.gov.uk/wsi/2016/98/article/12/3/b) (with [art. 11](https://www.legislation.gov.uk/wsi/2016/98/article/11))
 
-[^key-699cf847ce449e6011159c96a686a46e]: Modification: S. 31(2)(b) excluded (1.4.2016) by [The Regulation of Child Minding and Day Care (Wales) Order 2016 (No. 98)](https://www.legislation.gov.uk/wsi/2016/98), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/98/article/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2016/98/article/8/2)[(3)(b)](https://www.legislation.gov.uk/wsi/2016/98/article/8/3/b) (with [art. 6](https://www.legislation.gov.uk/wsi/2016/98/article/6))
+[^c-699cf847ce449e6011159c96a686a46e]: Modification: S. 31(2)(b) excluded (1.4.2016) by [The Regulation of Child Minding and Day Care (Wales) Order 2016 (No. 98)](https://www.legislation.gov.uk/wsi/2016/98), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/98/article/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2016/98/article/8/2)[(3)(b)](https://www.legislation.gov.uk/wsi/2016/98/article/8/3/b) (with [art. 6](https://www.legislation.gov.uk/wsi/2016/98/article/6))

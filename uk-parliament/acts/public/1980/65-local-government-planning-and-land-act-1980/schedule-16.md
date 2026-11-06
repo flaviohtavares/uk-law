@@ -24,41 +24,41 @@ Section 93.
 
 - A county council.
 - A county borough council.[^c13883551]
-- A corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021.[^key-59344c287b6efca557e172c555e6932d]
+- A corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021.[^c-59344c287b6efca557e172c555e6932d]
 - A district council.
 - [^c13883561]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - A London borough council.
 - The Common Council of the City of London.
 - [^c13883581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c13883591]A joint authority established by Part IV of the Local Government Act 1985.[^c13883571]
-- An economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009.[^key-687a3581c3f873c66e7af13082ede770]
+- An economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009.[^c-687a3581c3f873c66e7af13082ede770]
 - A combined authority established under section 103 of that Act.
-- A combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023.[^key-4393a00f467b87330890e78acb3d0ddd]
-- The Greater London Authority. *(Extent: E)*[^key-5df1a55ab6b90f120343c6ce257aa82e]
-- [^key-969707f697061a8e814c0d12f4a3ce41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- The London Fire Commissioner.[^key-42cf46046ab2a4efcaad6a3cea00c6ed]
-- Transport for London. *(Extent: E)*[^key-f4403344fed183445d45da3e3855dac4]
-- A fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004.[^key-ba53a7f0fbcee4e22df616742a44999f]
-- A police and crime commissioner.[^key-7ba33f294e1be8b079106eaf8a396304]
+- A combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023.[^c-4393a00f467b87330890e78acb3d0ddd]
+- The Greater London Authority. *(Extent: E)*[^c-5df1a55ab6b90f120343c6ce257aa82e]
+- [^c-969707f697061a8e814c0d12f4a3ce41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- The London Fire Commissioner.[^c-42cf46046ab2a4efcaad6a3cea00c6ed]
+- Transport for London. *(Extent: E)*[^c-f4403344fed183445d45da3e3855dac4]
+- A fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004.[^c-ba53a7f0fbcee4e22df616742a44999f]
+- A police and crime commissioner.[^c-7ba33f294e1be8b079106eaf8a396304]
 - The Mayor's Office for Policing and Crime.
-- The British Transport Police. *(Extent: E)*[^key-0e17ccd5ea9736a777306161995c1a92]
+- The British Transport Police. *(Extent: E)*[^c-0e17ccd5ea9736a777306161995c1a92]
 - [^c13883661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-a989af8c3fe39dfaff7d213b7c90019f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-a989af8c3fe39dfaff7d213b7c90019f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - A development corporation established under the [^c13883681]New Towns Act 1981[^c13883671]
 - An urban development corporation established under this Act.
 - A housing action trust established under Part III of the Housing Act 1988.[^c13883691]
-- The Regulator of Social Housing.[^key-7dddeee42c5c4487d14d12a03e58e13b]
+- The Regulator of Social Housing.[^c-7dddeee42c5c4487d14d12a03e58e13b]
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13883711]
 - [^c13883721]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - The Civil Aviation Authority.
-- [^key-a6d52ab9e490d1857a5f36cf803522fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-a6d52ab9e490d1857a5f36cf803522fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c13883731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - The Coal Authority[^c13883751]
 - The British Broadcasting Corporation.
 - [^c13883761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c13883771]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - The National Rivers Authority[^c13883781]
-- Statutory undertakers other than Canal & River Trust[^key-d0d0ce24e2f7d6e4b0f1a1e3801ba13a].
+- Statutory undertakers other than Canal & River Trust[^c-d0d0ce24e2f7d6e4b0f1a1e3801ba13a].
 
 In paragraph 18 above “**statutory undertakers**” means persons authorised by any enactment to carry on any railway, light railway, road transport, water transport, canal inland navigation, dock or harbour undertaking, or any undertaking for the supply of [^c13883791]... , [^c13883801]... or hydraulic power[^c13883811]
 
@@ -72,7 +72,7 @@ Provided that where any persons carry on a business to the main purpose of which
 
 [^c13883551]: Textual amendment: Sch. 16 para. 1A inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 59(5)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/59/5); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
-[^key-59344c287b6efca557e172c555e6932d]: Textual amendment: [Sch. 16 para. 1B](https://www.legislation.gov.uk/ukpga/1980/65/schedule/16/paragraph/1B) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [48(b)](https://www.legislation.gov.uk/wsi/2022/372/regulation/48/b)
+[^c-59344c287b6efca557e172c555e6932d]: Textual amendment: [Sch. 16 para. 1B](https://www.legislation.gov.uk/ukpga/1980/65/schedule/16/paragraph/1B) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [48(b)](https://www.legislation.gov.uk/wsi/2022/372/regulation/48/b)
 
 [^c13883561]: Textual amendment: Sch. 15 para. 24, Sch. 16 para. 3, Sch. 32 Pt. III para. 23(3) repealed by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17)
 
@@ -82,27 +82,27 @@ Provided that where any persons carry on a business to the main purpose of which
 
 [^c13883571]: Textual amendment: Paras. 5A, 5B inserted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 84](https://www.legislation.gov.uk/ukpga/1985/51/section/84), [Sch. 14 para. 59(1)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/14/paragraph/59/1)(*g*)
 
-[^key-687a3581c3f873c66e7af13082ede770]: Textual amendment: Sch. 16 paras. 5BZA, 5BZB inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 53](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/53); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+[^c-687a3581c3f873c66e7af13082ede770]: Textual amendment: Sch. 16 paras. 5BZA, 5BZB inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 53](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/53); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
 
-[^key-4393a00f467b87330890e78acb3d0ddd]: Textual amendment: [Sch. 16 para. 5BZBA](https://www.legislation.gov.uk/ukpga/1980/65/schedule/16/paragraph/5BZBA) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 67](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/67) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-4393a00f467b87330890e78acb3d0ddd]: Textual amendment: [Sch. 16 para. 5BZBA](https://www.legislation.gov.uk/ukpga/1980/65/schedule/16/paragraph/5BZBA) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 67](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/67) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-5df1a55ab6b90f120343c6ce257aa82e]: Textual amendment: Sch. 16 para. 5BZC inserted (E.) (30.6.2011) by [The Local Government, Planning and Land Act 1980 (Amendment of Schedule 16) (England) Order 2011 (S.I. 2011/1399)](https://www.legislation.gov.uk/uksi/2011/1399), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1399/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2011/1399/article/2/a)
+[^c-5df1a55ab6b90f120343c6ce257aa82e]: Textual amendment: Sch. 16 para. 5BZC inserted (E.) (30.6.2011) by [The Local Government, Planning and Land Act 1980 (Amendment of Schedule 16) (England) Order 2011 (S.I. 2011/1399)](https://www.legislation.gov.uk/uksi/2011/1399), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1399/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2011/1399/article/2/a)
 
-[^key-969707f697061a8e814c0d12f4a3ce41]: Textual amendment: Sch. 16 para. 5BA omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 6(14)(e)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/14/e); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
+[^c-969707f697061a8e814c0d12f4a3ce41]: Textual amendment: Sch. 16 para. 5BA omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 6(14)(e)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/14/e); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
 
-[^key-42cf46046ab2a4efcaad6a3cea00c6ed]: Textual amendment: Sch. 16 para. 5BB substituted (E.W.) (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 61](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/61); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-42cf46046ab2a4efcaad6a3cea00c6ed]: Textual amendment: Sch. 16 para. 5BB substituted (E.W.) (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 61](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/61); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-f4403344fed183445d45da3e3855dac4]: Textual amendment: Sch. 16 para. 5BC inserted (E.) (30.6.2011) by [The Local Government, Planning and Land Act 1980 (Amendment of Schedule 16) (England) Order 2011 (S.I. 2011/1399)](https://www.legislation.gov.uk/uksi/2011/1399), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1399/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2011/1399/article/2/b)
+[^c-f4403344fed183445d45da3e3855dac4]: Textual amendment: Sch. 16 para. 5BC inserted (E.) (30.6.2011) by [The Local Government, Planning and Land Act 1980 (Amendment of Schedule 16) (England) Order 2011 (S.I. 2011/1399)](https://www.legislation.gov.uk/uksi/2011/1399), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1399/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2011/1399/article/2/b)
 
-[^key-ba53a7f0fbcee4e22df616742a44999f]: Textual amendment: Sch. 16 para. 5BD inserted (E.W.) (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/42); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-ba53a7f0fbcee4e22df616742a44999f]: Textual amendment: Sch. 16 para. 5BD inserted (E.W.) (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/42); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-7ba33f294e1be8b079106eaf8a396304]: Textual amendment: Sch. 16 para. 5C, 5CC substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 142](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/142); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/43))
+[^c-7ba33f294e1be8b079106eaf8a396304]: Textual amendment: Sch. 16 para. 5C, 5CC substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 142](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/142); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/43))
 
-[^key-0e17ccd5ea9736a777306161995c1a92]: Textual amendment: Sch. 16 para. 5CD inserted (E.) (30.6.2011) by [The Local Government, Planning and Land Act 1980 (Amendment of Schedule 16) (England) Order 2011 (S.I. 2011/1399)](https://www.legislation.gov.uk/uksi/2011/1399), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1399/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2011/1399/article/2/c)
+[^c-0e17ccd5ea9736a777306161995c1a92]: Textual amendment: Sch. 16 para. 5CD inserted (E.) (30.6.2011) by [The Local Government, Planning and Land Act 1980 (Amendment of Schedule 16) (England) Order 2011 (S.I. 2011/1399)](https://www.legislation.gov.uk/uksi/2011/1399), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1399/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2011/1399/article/2/c)
 
 [^c13883661]: Textual amendment: Sch. 16 para. 5D repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 128](https://www.legislation.gov.uk/ukpga/2001/16/section/128), [137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 6 Pt. II para. 38](https://www.legislation.gov.uk/ukpga/2001/16/schedule/6/part/II/paragraph/38), [Sch. 7 Pt. V](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/V); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(j)(k)(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/j/k/m) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
-[^key-a989af8c3fe39dfaff7d213b7c90019f]: Textual amendment: Sch. 16 para. 6 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/31), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-a989af8c3fe39dfaff7d213b7c90019f]: Textual amendment: Sch. 16 para. 6 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/31), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
 [^c13883681]: Marginal citation: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64) (**123:3**).
 
@@ -110,13 +110,13 @@ Provided that where any persons carry on a business to the main purpose of which
 
 [^c13883691]: Textual amendment: [Sch. 16 para. 8A](https://www.legislation.gov.uk/ukpga/1980/65/schedule/16/paragraph/8A) inserted by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1988/50/section/140/1), [Sch. 17 para. 28](https://www.legislation.gov.uk/ukpga/1988/50/schedule/17/paragraph/28)
 
-[^key-7dddeee42c5c4487d14d12a03e58e13b]: Textual amendment: Sch. 16 para. 9 substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2008/17/schedule/9/paragraph/6); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 3](https://www.legislation.gov.uk/uksi/2008/3068/article/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-7dddeee42c5c4487d14d12a03e58e13b]: Textual amendment: Sch. 16 para. 9 substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2008/17/schedule/9/paragraph/6); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 3](https://www.legislation.gov.uk/uksi/2008/3068/article/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
 [^c13883711]: Textual amendment: Sch. 16 para. 9A repealed (1.11.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. VI](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/VI) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 5](https://www.legislation.gov.uk/uksi/1998/2244/article/5)
 
 [^c13883721]: Textual amendment: Sch. 16 para. 10 repealed by [Airports Act 1986 (c. 31, SIF 9)](https://www.legislation.gov.uk/ukpga/1986/31), [s. 83(5)](https://www.legislation.gov.uk/ukpga/1986/31/section/83/5), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1986/31/schedule/6/part/I)
 
-[^key-a6d52ab9e490d1857a5f36cf803522fd]: Textual amendment: Sch. 16 para. 12 omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/5/3)
+[^c-a6d52ab9e490d1857a5f36cf803522fd]: Textual amendment: Sch. 16 para. 12 omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/5/3)
 
 [^c13883731]: Textual amendment: Sch. 16 para. 13 repealed by [British Steel Act 1988 (c. 35, SIF 70)](https://www.legislation.gov.uk/ukpga/1988/35), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1988/35/section/16/3), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1988/35/schedule/2/part/I)
 
@@ -128,7 +128,7 @@ Provided that where any persons carry on a business to the main purpose of which
 
 [^c13883781]: Textual amendment: Sch. 16 para. 17A inserted by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 25 para. 61(6)(a)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/25/paragraph/61/6/a), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [41(1)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/41/1), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58)
 
-[^key-d0d0ce24e2f7d6e4b0f1a1e3801ba13a]: Textual amendment: Words in Sch. 16 para. 18 inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/5/3) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-d0d0ce24e2f7d6e4b0f1a1e3801ba13a]: Textual amendment: Words in Sch. 16 para. 18 inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/5/3) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c13883791]: Textual amendment: Word repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(3)(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3/4), [Sch. 17 paras. 33](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/33), [35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 

@@ -34,8 +34,8 @@ is, subject to subsection (2) below, guilty of an offence.
 
 is satisfied that the accused acted in the reasonable belief that he had lawful authority, or in the reasonable belief that the owner would, in the circumstances of the case, have given consent if he had been asked for it, the accused shall not be liable to be convicted of the offence.
 
-(3)[^key-c7e72212da166bbf1c8ea43e720485d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c7e72212da166bbf1c8ea43e720485d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7e72212da166bbf1c8ea43e720485d0]: Textual amendment: S. 178(3) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 11](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/11)
+[^c-c7e72212da166bbf1c8ea43e720485d0]: Textual amendment: S. 178(3) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 11](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Power of entry[^key-e797efaed60b5c9f1a2b9d39d5a241dc][^key-b563be1a222f56cd14a5f32211ae650b]
+## 131. Power of entry[^c-e797efaed60b5c9f1a2b9d39d5a241dc][^c-b563be1a222f56cd14a5f32211ae650b]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e797efaed60b5c9f1a2b9d39d5a241dc]: Commencement: S. 131 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-e797efaed60b5c9f1a2b9d39d5a241dc]: Commencement: S. 131 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
 
-[^key-b563be1a222f56cd14a5f32211ae650b]: Modification: [S. 131](https://www.legislation.gov.uk/ukpga/2006/40/section/131) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/2)
+[^c-b563be1a222f56cd14a5f32211ae650b]: Modification: [S. 131](https://www.legislation.gov.uk/ukpga/2006/40/section/131) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/2)

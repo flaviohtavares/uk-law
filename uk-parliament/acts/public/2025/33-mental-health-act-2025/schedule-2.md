@@ -26,9 +26,9 @@ Section 24
 
 ### Part 1 — Appointment etc
 
-**1.**[^key-4f796ca97046e05e299c8b561bf8203e] The Mental Health Act 1983 is amended as follows.
+**1.**[^c-4f796ca97046e05e299c8b561bf8203e] The Mental Health Act 1983 is amended as follows.
 
-**2.**[^key-37a9d1ca107d9a237de657ac09daf2f7] Before section 31 and the italic heading before that section insert—
+**2.**[^c-37a9d1ca107d9a237de657ac09daf2f7] Before section 31 and the italic heading before that section insert—
 
 > **Nominated persons: appointment and removal**
 >
@@ -77,7 +77,7 @@ Section 24
 > - (a) a person by whom a nominated person is appointed under Part 1 of Schedule A1, or
 > - (b) a person for whom a nominated person is appointed under Part 2 of that Schedule.
 
-**3.**[^key-99b0838fec344b2eeab79472cc57b797] Before Schedule 1 insert—
+**3.**[^c-99b0838fec344b2eeab79472cc57b797] Before Schedule 1 insert—
 
 > **Schedule A1 — Nominated person**
 >
@@ -351,11 +351,11 @@ Section 24
 
 ### Part 2 — Functions of nominated person
 
-**4.**[^key-104de1a7eab2d04bba7249a4dea8d369] The Mental Health Act 1983 is amended as follows.
+**4.**[^c-104de1a7eab2d04bba7249a4dea8d369] The Mental Health Act 1983 is amended as follows.
 
-**5.**[^key-8a1dd5e6aac8706e7c6c8cb3c18a5a45] In section 4 (admission for assessment in cases of emergency), in subsection (2), for “the nearest relative of the patient” substitute “the patient’s nominated person”.
+**5.**[^c-8a1dd5e6aac8706e7c6c8cb3c18a5a45] In section 4 (admission for assessment in cases of emergency), in subsection (2), for “the nearest relative of the patient” substitute “the patient’s nominated person”.
 
-**6.**[^key-9c7d722ad29390deaef29c25821ab7a6] (1) Section 11 (general provisions as to applications) is amended as follows.
+**6.**[^c-9c7d722ad29390deaef29c25821ab7a6] (1) Section 11 (general provisions as to applications) is amended as follows.
 
 (2) In subsection (1), for “the nearest relative of the patient” substitute “the patient’s nominated person”.
 
@@ -364,30 +364,30 @@ Section 24
 - (a) for “the nearest relative of the patient” substitute “the patient’s nominated person”;
 - (b) for “the nearest relative” substitute “the nominated person”.
 
-**7.**[^key-a8c84d0c34de48b0d05fda8833d6c120] In section 13 (duty of approved mental health professionals to make applications for admission or guardianship), in subsection (4), for “the nearest relative”, in both places it occurs, substitute “the nominated person”.
+**7.**[^c-a8c84d0c34de48b0d05fda8833d6c120] In section 13 (duty of approved mental health professionals to make applications for admission or guardianship), in subsection (4), for “the nearest relative”, in both places it occurs, substitute “the nominated person”.
 
-**8.**[^key-64e471637c0b184cfacd2e653eb79548] In section 14 (social reports), for “nearest relative” substitute “nominated person”.
+**8.**[^c-64e471637c0b184cfacd2e653eb79548] In section 14 (social reports), for “nearest relative” substitute “nominated person”.
 
-**9.**[^key-946fbec7e1280867e04c748633522428] In section 23 (discharge of patients), in subsection (2)(a), (b) and (c), for “the nearest relative of the patient” substitute “the patient’s nominated person”.
+**9.**[^c-946fbec7e1280867e04c748633522428] In section 23 (discharge of patients), in subsection (2)(a), (b) and (c), for “the nearest relative of the patient” substitute “the patient’s nominated person”.
 
-**10.**[^key-38723c31623ddaa03bd71a8b582ae9ef] In section 24 (visiting and examination of patient), in subsection (1), for “the nearest relative”, in both places it occurs, substitute “the nominated person”.
+**10.**[^c-38723c31623ddaa03bd71a8b582ae9ef] In section 24 (visiting and examination of patient), in subsection (1), for “the nearest relative”, in both places it occurs, substitute “the nominated person”.
 
-**11.**[^key-b6685e17fa21a93f177a1c804340e07f] Omit sections 26 to 30 and the italic heading before section 26.
+**11.**[^c-b6685e17fa21a93f177a1c804340e07f] Omit sections 26 to 30 and the italic heading before section 26.
 
-**12.**[^key-0475124795d3fe1645c495bb97d2db14] In section 32 (regulations for purposes of Part), in subsection (2)—
+**12.**[^c-0475124795d3fe1645c495bb97d2db14] In section 32 (regulations for purposes of Part), in subsection (2)—
 
 - (a) at the end of paragraph (c) insert “and”;
 - (b) omit paragraph (e) and the “and” before it.
 
-**13.**[^key-d64694bc7eb69e671ec7305ab2bb79bf] In section 33 (special provisions as to wards of court), in subsection (2), for “nearest relative” substitute “nominated person”.
+**13.**[^c-d64694bc7eb69e671ec7305ab2bb79bf] In section 33 (special provisions as to wards of court), in subsection (2), for “nearest relative” substitute “nominated person”.
 
-**14.**[^key-d6fa746a08ab9e8e3af3da1caf406690] In section 66 (applications to tribunals), in subsection (1), in sub-paragraph (ii), for “his nearest relative” substitute “the patient’s nominated person”.
+**14.**[^c-d6fa746a08ab9e8e3af3da1caf406690] In section 66 (applications to tribunals), in subsection (1), in sub-paragraph (ii), for “his nearest relative” substitute “the patient’s nominated person”.
 
-**15.**[^key-0b2138d5f2a2f906bd7512951e1f3a5d] In section 69 (applications to tribunals concerning patients subject to hospital and guardianship orders), in subsection (1)(a) and (b)(ii), for “the nearest relative of the patient” substitute “the patient’s nominated person”.
+**15.**[^c-0b2138d5f2a2f906bd7512951e1f3a5d] In section 69 (applications to tribunals concerning patients subject to hospital and guardianship orders), in subsection (1)(a) and (b)(ii), for “the nearest relative of the patient” substitute “the patient’s nominated person”.
 
-**16.**[^key-a5877b268d3b431a709911023ffe83d6] In section 116 (welfare of certain hospital patients), in subsection (2) omit paragraph (c) and the “or” before it.
+**16.**[^c-a5877b268d3b431a709911023ffe83d6] In section 116 (welfare of certain hospital patients), in subsection (2) omit paragraph (c) and the “or” before it.
 
-**17.**[^key-9654af6ac8e8d43fa48ddcb61e173a9d] In section 118 (code of practice), in subsection (1)—
+**17.**[^c-9654af6ac8e8d43fa48ddcb61e173a9d] In section 118 (code of practice), in subsection (1)—
 
 - (a) omit the “and” at the end of paragraph (a);
 - (b) after paragraph (b) insert—
@@ -396,19 +396,19 @@ Section 24
 
   .
 
-**18.**[^key-795ca33862bf595ce349a90a23401945] In section 130B (arrangements in relation to independent mental advocates: England), in subsection (5)(a), for “nearest relative” substitute “nominated person”.
+**18.**[^c-795ca33862bf595ce349a90a23401945] In section 130B (arrangements in relation to independent mental advocates: England), in subsection (5)(a), for “nearest relative” substitute “nominated person”.
 
-**19.**[^key-5832cd2a7a103413ed16a1bc3bfa3d1b] In section 130D (duty to give information about independent mental health advocates), in subsection (5), for “nearest relative” substitute “nominated person”.
+**19.**[^c-5832cd2a7a103413ed16a1bc3bfa3d1b] In section 130D (duty to give information about independent mental health advocates), in subsection (5), for “nearest relative” substitute “nominated person”.
 
-**20.**[^key-5f275ac645dc323fa057344ed2600bc5] In section 130H (independent mental health advocates for Wales: supplementary powers and duties), in subsection (3)(b), for “nearest relative” substitute “nominated person”.
+**20.**[^c-5f275ac645dc323fa057344ed2600bc5] In section 130H (independent mental health advocates for Wales: supplementary powers and duties), in subsection (3)(b), for “nearest relative” substitute “nominated person”.
 
-**21.**[^key-27bc8ae26e7807daf4c620fe782ab775] In section 130K (duty to give information about independent mental health advocates to Welsh qualifying compulsory patients), in subsection (6)(a), for “nearest relative” substitute “nominated person”.
+**21.**[^c-27bc8ae26e7807daf4c620fe782ab775] In section 130K (duty to give information about independent mental health advocates to Welsh qualifying compulsory patients), in subsection (6)(a), for “nearest relative” substitute “nominated person”.
 
-**22.**[^key-31ac54fd7c2f9cc5240947f00a2a60e7] In section 132 (duty of managers of hospitals to give information to detained patients), in subsection (4), for “nearest relative” substitute “nominated person”.
+**22.**[^c-31ac54fd7c2f9cc5240947f00a2a60e7] In section 132 (duty of managers of hospitals to give information to detained patients), in subsection (4), for “nearest relative” substitute “nominated person”.
 
-**23.**[^key-a980d89495acf654752dc2f0ec9a0b5c] In section 132A (duty of managers of hospitals to give information to community patients), in subsection (3), for “nearest relative” substitute “nominated person”.
+**23.**[^c-a980d89495acf654752dc2f0ec9a0b5c] In section 132A (duty of managers of hospitals to give information to community patients), in subsection (3), for “nearest relative” substitute “nominated person”.
 
-**24.**[^key-a78118b42686ba864f853cd16888f3da] (1) Section 133 (duty of managers of hospitals to give information to community patients) is amended as follows.
+**24.**[^c-a78118b42686ba864f853cd16888f3da] (1) Section 133 (duty of managers of hospitals to give information to community patients) is amended as follows.
 
 (2) In the heading for “nearest relatives” substitute “nominated persons”.
 
@@ -419,7 +419,7 @@ Section 24
 
 (4) In subsections (1B) and (2), for “nearest relative” substitute “nominated person”.
 
-**25.**[^key-d849fd97e95d6b01053a37ce8b907f34] (1) Section 145(1) (interpretation) is amended as follows.
+**25.**[^c-d849fd97e95d6b01053a37ce8b907f34] (1) Section 145(1) (interpretation) is amended as follows.
 
 (2) Omit the definition of “nearest relative”.
 
@@ -431,19 +431,19 @@ Section 24
 
 ### Part 3 — Patients concerned in criminal proceedings etc: functions of nominated person
 
-**26.**[^key-e66bb70c03ca3d8e8d2cdfaa13b1fcac] The Mental Health Act 1983 is amended as follows.
+**26.**[^c-e66bb70c03ca3d8e8d2cdfaa13b1fcac] The Mental Health Act 1983 is amended as follows.
 
-**27.**[^key-c293aab934c4bd5ff54742e234ddea00] After section 36 (but before the italic heading after that section) insert—
+**27.**[^c-c293aab934c4bd5ff54742e234ddea00] After section 36 (but before the italic heading after that section) insert—
 
 > **36A. Remands to hospital: nominated person**
 >
 > Sections 30A and 30B and Schedule A1 (nominated person) apply in relation to a person remanded to hospital under section 35 or 36 as they apply in relation to a person subject to an order under section 41 (see section 41(3) and Part 2 of Schedule 1).
 
-**28.**[^key-02d387cd9235ff6e4e539a2091283080] In section 38 (interim hospital orders), after subsection (7) insert—
+**28.**[^c-02d387cd9235ff6e4e539a2091283080] In section 38 (interim hospital orders), after subsection (7) insert—
 
 > (8) Sections 30A and 30B and Schedule A1 (nominated person) apply in relation to an offender subject to an interim hospital order as they apply in relation to a person subject to an order under section 41 (see section 41(3) and Part 2 of Schedule 1).
 
-**29.**[^key-6e5b996cd9d42cdc0b3ee78e9340bf14] In Part 1 of Schedule 1 (application of certain provisions to patients subject to hospital and guardianship orders who are not subject to special restrictions)—
+**29.**[^c-6e5b996cd9d42cdc0b3ee78e9340bf14] In Part 1 of Schedule 1 (application of certain provisions to patients subject to hospital and guardianship orders who are not subject to special restrictions)—
 
 - (a) in paragraph 1, for “26 to 28” substitute “30A”;
 - (b) in paragraph 2—
@@ -464,7 +464,7 @@ Section 24
 
   > **11.** In Schedule A1, references to an approved mental health professional are to be read as references to the responsible clinician.
 
-**30.**[^key-17dd6fd99fe02057cc101fcfdb700eda] In Part 2 of Schedule 1 (application of certain provisions to patients subject to hospital and guardianship orders who are subject to special restrictions)—
+**30.**[^c-17dd6fd99fe02057cc101fcfdb700eda] In Part 2 of Schedule 1 (application of certain provisions to patients subject to hospital and guardianship orders who are subject to special restrictions)—
 
 - (a) in paragraph 1, after “Sections” insert “30A,”;
 - (b) in paragraph 2—
@@ -497,62 +497,62 @@ Section 24
 
 ## Annotations
 
-[^key-4f796ca97046e05e299c8b561bf8203e]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-4f796ca97046e05e299c8b561bf8203e]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-37a9d1ca107d9a237de657ac09daf2f7]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-37a9d1ca107d9a237de657ac09daf2f7]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-99b0838fec344b2eeab79472cc57b797]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-99b0838fec344b2eeab79472cc57b797]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-104de1a7eab2d04bba7249a4dea8d369]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-104de1a7eab2d04bba7249a4dea8d369]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-8a1dd5e6aac8706e7c6c8cb3c18a5a45]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-8a1dd5e6aac8706e7c6c8cb3c18a5a45]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-9c7d722ad29390deaef29c25821ab7a6]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-9c7d722ad29390deaef29c25821ab7a6]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-a8c84d0c34de48b0d05fda8833d6c120]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-a8c84d0c34de48b0d05fda8833d6c120]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-64e471637c0b184cfacd2e653eb79548]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-64e471637c0b184cfacd2e653eb79548]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-946fbec7e1280867e04c748633522428]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-946fbec7e1280867e04c748633522428]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-38723c31623ddaa03bd71a8b582ae9ef]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-38723c31623ddaa03bd71a8b582ae9ef]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-b6685e17fa21a93f177a1c804340e07f]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-b6685e17fa21a93f177a1c804340e07f]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-0475124795d3fe1645c495bb97d2db14]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-0475124795d3fe1645c495bb97d2db14]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-d64694bc7eb69e671ec7305ab2bb79bf]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-d64694bc7eb69e671ec7305ab2bb79bf]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-d6fa746a08ab9e8e3af3da1caf406690]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-d6fa746a08ab9e8e3af3da1caf406690]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-0b2138d5f2a2f906bd7512951e1f3a5d]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-0b2138d5f2a2f906bd7512951e1f3a5d]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-a5877b268d3b431a709911023ffe83d6]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-a5877b268d3b431a709911023ffe83d6]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-9654af6ac8e8d43fa48ddcb61e173a9d]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-9654af6ac8e8d43fa48ddcb61e173a9d]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-795ca33862bf595ce349a90a23401945]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-795ca33862bf595ce349a90a23401945]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-5832cd2a7a103413ed16a1bc3bfa3d1b]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-5832cd2a7a103413ed16a1bc3bfa3d1b]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-5f275ac645dc323fa057344ed2600bc5]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-5f275ac645dc323fa057344ed2600bc5]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-27bc8ae26e7807daf4c620fe782ab775]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-27bc8ae26e7807daf4c620fe782ab775]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-31ac54fd7c2f9cc5240947f00a2a60e7]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-31ac54fd7c2f9cc5240947f00a2a60e7]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-a980d89495acf654752dc2f0ec9a0b5c]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-a980d89495acf654752dc2f0ec9a0b5c]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-a78118b42686ba864f853cd16888f3da]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-a78118b42686ba864f853cd16888f3da]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-d849fd97e95d6b01053a37ce8b907f34]: Commencement: Sch. 2 para. 25 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-d849fd97e95d6b01053a37ce8b907f34]: Commencement: Sch. 2 para. 25 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-e66bb70c03ca3d8e8d2cdfaa13b1fcac]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-e66bb70c03ca3d8e8d2cdfaa13b1fcac]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-c293aab934c4bd5ff54742e234ddea00]: Commencement: Sch. 2 para. 27 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-c293aab934c4bd5ff54742e234ddea00]: Commencement: Sch. 2 para. 27 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-02d387cd9235ff6e4e539a2091283080]: Commencement: Sch. 2 para. 28 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-02d387cd9235ff6e4e539a2091283080]: Commencement: Sch. 2 para. 28 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-6e5b996cd9d42cdc0b3ee78e9340bf14]: Commencement: Sch. 2 para. 29 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-6e5b996cd9d42cdc0b3ee78e9340bf14]: Commencement: Sch. 2 para. 29 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-17dd6fd99fe02057cc101fcfdb700eda]: Commencement: Sch. 2 para. 30 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-17dd6fd99fe02057cc101fcfdb700eda]: Commencement: Sch. 2 para. 30 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

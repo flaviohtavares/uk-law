@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Transfer schemes between trusts[^key-db6eb584bc968f2ccbb5d9140af3adbe][^key-12bc9d1d9300eadb2b71aba09ddd0909]
+## 69. Transfer schemes between trusts[^c-db6eb584bc968f2ccbb5d9140af3adbe][^c-12bc9d1d9300eadb2b71aba09ddd0909]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ After section 69 of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-db6eb584bc968f2ccbb5d9140af3adbe]: Commencement: S. 69 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-db6eb584bc968f2ccbb5d9140af3adbe]: Commencement: S. 69 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-12bc9d1d9300eadb2b71aba09ddd0909]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2022/31/section/69) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-12bc9d1d9300eadb2b71aba09ddd0909]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2022/31/section/69) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

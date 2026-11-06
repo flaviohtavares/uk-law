@@ -53,10 +53,10 @@ summary: ''
 (9) Shares issued in pursuance of this section—
 
 - (a) must be of such nominal value as the direction concerned specifies, and
-- (b) must be issued as fully paid and treated for the purposes of the Companies Act 2006[^key-c7056530764bba22e69c23ef6ee098ac] as if they had been paid up by virtue of the payment to the issuing company of their nominal value in cash.
+- (b) must be issued as fully paid and treated for the purposes of the Companies Act 2006[^c-c7056530764bba22e69c23ef6ee098ac] as if they had been paid up by virtue of the payment to the issuing company of their nominal value in cash.
 
 ## Annotations
 
 [^c14879471]: Commencement: S. 58 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-c7056530764bba22e69c23ef6ee098ac]: Textual amendment: Words in s. 58(9)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-c7056530764bba22e69c23ef6ee098ac]: Textual amendment: Words in s. 58(9)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

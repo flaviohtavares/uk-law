@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Feed (Hygiene and Enforcement) and the Animal Feed (England) (Amendment) Regulations 2013 (revoked)[^key-1bc279a81b818bcb05adae99ceb5023f]
+The Feed (Hygiene and Enforcement) and the Animal Feed (England) (Amendment) Regulations 2013 (revoked)[^c-1bc279a81b818bcb05adae99ceb5023f]
 
 Made
 
@@ -46,39 +46,39 @@ Coming into force
 
 17th January 2014
 
-[^key-1bc279a81b818bcb05adae99ceb5023f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bc279a81b818bcb05adae99ceb5023f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-1bc279a81b818bcb05adae99ceb5023f]
+## 1. Title and commencement[^c-1bc279a81b818bcb05adae99ceb5023f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feed (Hygiene and Enforcement) (England) Regulations 2005[^key-1bc279a81b818bcb05adae99ceb5023f]
+## 2. Amendment of the Feed (Hygiene and Enforcement) (England) Regulations 2005[^c-1bc279a81b818bcb05adae99ceb5023f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Animal Feed (England) Regulations 2010[^key-1bc279a81b818bcb05adae99ceb5023f]
+## 3. Amendment of the Animal Feed (England) Regulations 2010[^c-1bc279a81b818bcb05adae99ceb5023f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bc279a81b818bcb05adae99ceb5023f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bc279a81b818bcb05adae99ceb5023f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-1bc279a81b818bcb05adae99ceb5023f]
+## SCHEDULE 1[^c-1bc279a81b818bcb05adae99ceb5023f]
 
 Regulation 2(5)
 
-> **SCHEDULE 2 — FEES PAYABLE FOR APPROVALS[^key-1bc279a81b818bcb05adae99ceb5023f]**
+> **SCHEDULE 2 — FEES PAYABLE FOR APPROVALS[^c-1bc279a81b818bcb05adae99ceb5023f]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-1bc279a81b818bcb05adae99ceb5023f]
+## SCHEDULE 2[^c-1bc279a81b818bcb05adae99ceb5023f]
 
 Regulation 3(4)
 
-> **SCHEDULE 1 — Specified Provisions of Regulation 767/2009[^key-1bc279a81b818bcb05adae99ceb5023f]**
+> **SCHEDULE 1 — Specified Provisions of Regulation 767/2009[^c-1bc279a81b818bcb05adae99ceb5023f]**
 >
 > Regulation 4(1)
 >
@@ -86,8 +86,8 @@ Regulation 3(4)
 
 **May not be in force at this date. Check the source.**
 
-[^key-1bc279a81b818bcb05adae99ceb5023f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bc279a81b818bcb05adae99ceb5023f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1bc279a81b818bcb05adae99ceb5023f]: Textual amendment: Regulations revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
+[^c-1bc279a81b818bcb05adae99ceb5023f]: Textual amendment: Regulations revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)

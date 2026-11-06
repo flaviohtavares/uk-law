@@ -41,7 +41,7 @@ Coming into operation in accordance with regulation 1
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 122(1)(a), 123(1)(e) and 171(1) to (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 2A, 2B, 165(1), (4) to (6) and (7A) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], Articles 8(2) and (4), 9(4), 10(2)(d)(ii), 21(8)(a) and 36(2) of, and paragraphs 8, 10(1)(a) and (2)(a) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00003] and now vested in it[^f00004] and sections 2(4)(a) and 4(6)(a) of the Welfare Reform Act (Northern Ireland) 2007[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-cb705dcc2e9002b0409db9f26047eb01]
+## 1. Citation, commencement and interpretation[^c-cb705dcc2e9002b0409db9f26047eb01]
 
 (1) These Regulations may be cited as the Social Security (Lone Parents and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 and come into operation on the day after the day on which they are made, except that—
 
@@ -59,11 +59,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support Regulations from the day after the day on which these Regulations are made[^key-f6502d96cc672c2ea2f8ed97f441b122]
+## 2. Amendment of the Income Support Regulations from the day after the day on which these Regulations are made[^c-f6502d96cc672c2ea2f8ed97f441b122]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Income Support Regulations from 26th October 2009[^key-46c3973922a32c4f2352a0c424ffec92]
+## 3. Amendment of the Income Support Regulations from 26th October 2009[^c-46c3973922a32c4f2352a0c424ffec92]
 
 In Schedule 1B (prescribed categories of person) to the Income Support Regulations for paragraph 1 (as substituted by regulation 2 of these Regulations) substitute—
 
@@ -78,11 +78,11 @@ In Schedule 1B (prescribed categories of person) to the Income Support Regulatio
 
 .
 
-## 4. Amendment of the Income Support Regulations from 25th October 2010[^key-f40d3bfbd7dd5ec3f7e6036ef93148ef]
+## 4. Amendment of the Income Support Regulations from 25th October 2010[^c-f40d3bfbd7dd5ec3f7e6036ef93148ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Lone Parents Regulations from the day after the day on which these Regulations are made[^key-011dff5b0df5493ff91e3efc88f1cf94]
+## 5. Amendment of the Lone Parents Regulations from the day after the day on which these Regulations are made[^c-011dff5b0df5493ff91e3efc88f1cf94]
 
 (1) The Lone Parents Regulations are amended in accordance with paragraphs (2) to (6).
 
@@ -123,15 +123,15 @@ In Schedule 1B (prescribed categories of person) to the Income Support Regulatio
 
 (6) In regulation 7(3)(b)[^f00015] (consequence of failure to take part in a work-focused interview), after “2(3) or (4)” insert “, 2ZA”.
 
-## 6. Amendment of the Lone Parents Regulations from 26th October 2009[^key-5dc6c216664707846b1d1c2e4f9aa391]
+## 6. Amendment of the Lone Parents Regulations from 26th October 2009[^c-5dc6c216664707846b1d1c2e4f9aa391]
 
 In regulation 2ZA(1)(c) of the Lone Parents Regulations, as inserted by regulation 5(3), for “9, 10 or 11” in each place where it occurs, substitute “6, 7, 8 or 9”.
 
-## 7. Amendment of the Lone Parents Regulations from 25th October 2010[^key-b394ebc91d3f75a8135ff50f7692d2d8]
+## 7. Amendment of the Lone Parents Regulations from 25th October 2010[^c-b394ebc91d3f75a8135ff50f7692d2d8]
 
 In regulation 2ZA(1)(c) of the Lone Parents Regulations, as amended by regulation 6, for “6, 7, 8 or 9” in each place where it occurs, substitute “6”.
 
-## 8. Amendment of the Work-focused Interviews Regulations from the day after the day on which these Regulations are made[^key-d524e90d06ba15de769fe6e8bc1f1365]
+## 8. Amendment of the Work-focused Interviews Regulations from the day after the day on which these Regulations are made[^c-d524e90d06ba15de769fe6e8bc1f1365]
 
 (1) The Work-focused Interviews Regulations are amended in accordance with paragraphs (2) to (7).
 
@@ -174,15 +174,15 @@ In regulation 2ZA(1)(c) of the Lone Parents Regulations, as amended by regulatio
 
 (7) In regulation 11(2)(c)[^f00019] (failure to take part in an interview) for “3” substitute “3 or 3A”.
 
-## 9. Amendment of the Work-focused Interviews Regulations from 26th October 2009[^key-f1b7ed5483335ac3038419005d29079e]
+## 9. Amendment of the Work-focused Interviews Regulations from 26th October 2009[^c-f1b7ed5483335ac3038419005d29079e]
 
 In regulation 3A(1)(c) of the Work-focused Interview Regulations, as inserted by regulation 8(3) for “9, 10 or 11” in each place where it occurs substitute “6, 7, 8 or 9”.
 
-## 10. Amendment of the Work-focused Interviews Regulations from 25th October 2010[^key-51e687e57d2880347984c9dc0e69a1e4]
+## 10. Amendment of the Work-focused Interviews Regulations from 25th October 2010[^c-51e687e57d2880347984c9dc0e69a1e4]
 
 In regulation 3A(1)(c) of the Work-focused Interview Regulations, as amended by regulation 9 for “6, 7, 8 or 9” in each place where it occurs substitute “6”.
 
-## 11. Amendment of the Jobseeker’s Allowance Regulations[^key-d6572307c2bb3e805fdfd177c2c0a139]
+## 11. Amendment of the Jobseeker’s Allowance Regulations[^c-d6572307c2bb3e805fdfd177c2c0a139]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00020] are amended in accordance with paragraphs (2) to (11).
 
@@ -289,7 +289,7 @@ In regulation 3A(1)(c) of the Work-focused Interview Regulations, as amended by 
 
 (11) In regulation 140(1)(b)[^f00029] (meaning of “person in hardship”) for “young person” in each place where it occurs substitute “child or young person”.
 
-## 12. Amendment of the Employment and Support Allowance Regulations[^key-4f4eb7339e366dee094960218c8cd1d4]
+## 12. Amendment of the Employment and Support Allowance Regulations[^c-4f4eb7339e366dee094960218c8cd1d4]
 
 In regulation 7(1) (circumstances where the condition that the assessment phase has ended before entitlement to the support component or the work-related activity component arises does not apply) of the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00030]—
 
@@ -305,7 +305,7 @@ In regulation 7(1) (circumstances where the condition that the assessment phase 
 
   .
 
-## 13. Savings and transitional provisions applicable to certain full-time students and full-time participants in New Deal for Lone Parents[^key-8d80638673c035aad4c3a128716d48b9]
+## 13. Savings and transitional provisions applicable to certain full-time students and full-time participants in New Deal for Lone Parents[^c-8d80638673c035aad4c3a128716d48b9]
 
 (1) This regulation applies to a lone parent if the following two conditions are met.
 
@@ -355,7 +355,7 @@ In regulation 7(1) (circumstances where the condition that the assessment phase 
 
     who is a member of that person’s household.
 
-## 14. Revocations[^key-b9b23a1357cb3a16a6768efff9fc5821]
+## 14. Revocations[^c-b9b23a1357cb3a16a6768efff9fc5821]
 
 The following regulations are revoked—
 
@@ -376,7 +376,7 @@ Regulation 1(2)
 
 ### PART 1 — Provisions relating to regulations 2, 5 and 8
 
-#### 1. Application[^key-4d12d9ad5cef673299e46642a1c0e28b]
+#### 1. Application[^c-4d12d9ad5cef673299e46642a1c0e28b]
 
 (1) A lone parent falls within this Part of the Schedule if—
 
@@ -395,7 +395,7 @@ Regulation 1(2)
 
 (3) In this Part of this Schedule, “relevant day” means the day after the day on which these Regulations are made.
 
-#### 2. Lone parent responsible for a child aged 15 who attains the age of 16 on or before 1st March 2009[^key-b16374b798bc755e25e2343e59cda52b]
+#### 2. Lone parent responsible for a child aged 15 who attains the age of 16 on or before 1st March 2009[^c-b16374b798bc755e25e2343e59cda52b]
 
 (1) This paragraph applies to a person who falls within this Part of this Schedule if, on the relevant day, that person is responsible for—
 
@@ -406,7 +406,7 @@ who is a member of that person’s household.
 
 (2) Paragraph 1 of Schedule 1B to the Income Support Regulations shall continue to have effect in relation to a lone parent to whom this paragraph applies as if regulation 2 had not come into operation.
 
-#### 3. Lone parent responsible for a child aged 15 who attains the age of 16 after 1st March 2009[^key-96a7132ba3a10bf85b0f4f2f7b87aa56]
+#### 3. Lone parent responsible for a child aged 15 who attains the age of 16 after 1st March 2009[^c-96a7132ba3a10bf85b0f4f2f7b87aa56]
 
 (1) This paragraph applies to a person who falls within this Part of this Schedule if, on the relevant day, that person is responsible for—
 
@@ -420,7 +420,7 @@ who is a member of that person’s household.
 - (a) the first day of the first benefit week in which a requirement to take part in a work-focused interview would, apart from this Schedule, next have arisen in relation to that person on or after 2nd March 2009, or
 - (b) the day on which the child in question attains the age of 16.
 
-#### 4. Lone parent responsible for a child aged 11, 12, 13 or 14[^key-d4c4d7ce813de4d603c0683e1c9bf002]
+#### 4. Lone parent responsible for a child aged 11, 12, 13 or 14[^c-d4c4d7ce813de4d603c0683e1c9bf002]
 
 (1) Regulation 2 comes into operation in relation to a person who falls within this Part of this Schedule (and to whom neither paragraph 2 nor paragraph 3 applies) in accordance with the following provisions.
 
@@ -446,7 +446,7 @@ regulation 2 comes into operation in relation to that person at the end of the p
 </tbody>
 </table>
 
-#### 5. Lone Parents and Work-focused Interviews Regulations: lone parent responsible for child aged 11[^key-651d74e76f24f1d6482735a2d633fa6a]
+#### 5. Lone Parents and Work-focused Interviews Regulations: lone parent responsible for child aged 11[^c-651d74e76f24f1d6482735a2d633fa6a]
 
 (1) This paragraph applies to a lone parent who—
 
@@ -461,7 +461,7 @@ regulation 2 comes into operation in relation to that person at the end of the p
 
 ### PART 2 — Provisions relating to regulation 3
 
-#### 6. Application[^key-7b40ed7a00fefc26877aae18adb1059b]
+#### 6. Application[^c-7b40ed7a00fefc26877aae18adb1059b]
 
 (1) A lone parent falls within this Part of this Schedule if —
 
@@ -482,7 +482,7 @@ regulation 2 comes into operation in relation to that person at the end of the p
 
 (3) In this Part of this Schedule, “relevant day” means 26th October 2009.
 
-#### 7. Lone parent responsible for child aged 9, 10 or 11[^key-c9a7206d14734c83f771f8fb0355ed58]
+#### 7. Lone parent responsible for child aged 9, 10 or 11[^c-c9a7206d14734c83f771f8fb0355ed58]
 
 (1) Regulation 3 comes into operation in relation to a person who falls within this Part of this Schedule in accordance with the following provisions.
 
@@ -510,7 +510,7 @@ regulation 3 comes into operation in relation to that person at the end of the p
 
 ### PART 3 — Provisions relating to regulation 4
 
-#### 8. Application[^key-5bf195a437b0c08877d347fe5ed950f1]
+#### 8. Application[^c-5bf195a437b0c08877d347fe5ed950f1]
 
 (1) A lone parent falls within this Part of this Schedule if—
 
@@ -531,7 +531,7 @@ regulation 3 comes into operation in relation to that person at the end of the p
 
 (3) In this Part of this Schedule, “relevant day” means 25th October 2010.
 
-#### 9. Lone parent responsible for child aged 6, 7, 8 or 9[^key-3a8b16de2504f1058bc2bb64963df0d8]
+#### 9. Lone parent responsible for child aged 6, 7, 8 or 9[^c-3a8b16de2504f1058bc2bb64963df0d8]
 
 (1) Regulation 4 comes into operation in relation to a person who falls within this Part of this Schedule in accordance with the following provisions.
 
@@ -560,7 +560,7 @@ regulation 4 comes into operation in relation to that person at the end of the p
 
 ### PART 4 — Interpretation
 
-**10.**[^key-5a7565d73b91dd290e0b3c0a2447fa1c] In this Schedule—
+**10.**[^c-5a7565d73b91dd290e0b3c0a2447fa1c] In this Schedule—
 
 - “benefit week” has the same meaning as in regulation 2(1) of the Income Support Regulations;
 - “child” means a person aged under 16;
@@ -619,7 +619,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00005]: Footnote: [2007 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)
 
-[^key-cb705dcc2e9002b0409db9f26047eb01]: Commencement: Reg. 1 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-cb705dcc2e9002b0409db9f26047eb01]: Commencement: Reg. 1 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
 
@@ -629,13 +629,13 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f6502d96cc672c2ea2f8ed97f441b122]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/478/regulation/2) revoked (16.1.2017) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/67)](https://www.legislation.gov.uk/nisr/2016/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2016/67/regulation/8/a)
+[^c-f6502d96cc672c2ea2f8ed97f441b122]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/478/regulation/2) revoked (16.1.2017) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/67)](https://www.legislation.gov.uk/nisr/2016/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2016/67/regulation/8/a)
 
-[^key-46c3973922a32c4f2352a0c424ffec92]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/478/regulation/3) in operation at 26.10.2009, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1/a)
+[^c-46c3973922a32c4f2352a0c424ffec92]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/478/regulation/3) in operation at 26.10.2009, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1/a)
 
-[^key-f40d3bfbd7dd5ec3f7e6036ef93148ef]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/478/regulation/4) revoked (16.1.2017) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/67)](https://www.legislation.gov.uk/nisr/2016/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2016/67/regulation/8/a)
+[^c-f40d3bfbd7dd5ec3f7e6036ef93148ef]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/478/regulation/4) revoked (16.1.2017) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/67)](https://www.legislation.gov.uk/nisr/2016/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/67/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2016/67/regulation/8/a)
 
-[^key-011dff5b0df5493ff91e3efc88f1cf94]: Commencement: Reg. 5 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-011dff5b0df5493ff91e3efc88f1cf94]: Commencement: Reg. 5 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
 [^f00011]: Footnote: Regulation 2(1) was substituted by regulation 2(2) of [S.R. 2007 No. 219](https://www.legislation.gov.uk/nisr/2007/219)
 
@@ -647,11 +647,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00015]: Footnote: Regulation 7 was amended by regulation 2(6)(b) of [S.R. 2007 No. 219](https://www.legislation.gov.uk/nisr/2007/219)
 
-[^key-5dc6c216664707846b1d1c2e4f9aa391]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/478/regulation/6) in operation at 26.10.2009, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1/a)
+[^c-5dc6c216664707846b1d1c2e4f9aa391]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/478/regulation/6) in operation at 26.10.2009, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1/a)
 
-[^key-b394ebc91d3f75a8135ff50f7692d2d8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/478/regulation/7) in operation at 25.10.2010, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1/b)
+[^c-b394ebc91d3f75a8135ff50f7692d2d8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/478/regulation/7) in operation at 25.10.2010, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1/b)
 
-[^key-d524e90d06ba15de769fe6e8bc1f1365]: Commencement: Reg. 8 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-d524e90d06ba15de769fe6e8bc1f1365]: Commencement: Reg. 8 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
 [^f00016]: Footnote: Regulation 3(1) was amended by regulation 3(2)(a) and (3)(a) of [S.R. 2007 No. 219](https://www.legislation.gov.uk/nisr/2007/219)
 
@@ -661,11 +661,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00019]: Footnote: Regulation 11(2)(c) was amended by regulation 2(8)(b) of [S.R. 2005 No. 443](https://www.legislation.gov.uk/nisr/2005/443)
 
-[^key-f1b7ed5483335ac3038419005d29079e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/478/regulation/9) in operation at 26.10.2009, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1/a)
+[^c-f1b7ed5483335ac3038419005d29079e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/478/regulation/9) in operation at 26.10.2009, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1/a)
 
-[^key-51e687e57d2880347984c9dc0e69a1e4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/478/regulation/10) in operation at 25.10.2010, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1/b)
+[^c-51e687e57d2880347984c9dc0e69a1e4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/478/regulation/10) in operation at 25.10.2010, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1/b)
 
-[^key-d6572307c2bb3e805fdfd177c2c0a139]: Commencement: Reg. 11 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-d6572307c2bb3e805fdfd177c2c0a139]: Commencement: Reg. 11 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358), [S.R. 1998 No. 198](https://www.legislation.gov.uk/nisr/1998/198), [S.R. 1999 Nos. 107](https://www.legislation.gov.uk/nisr/1999/107) and [428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428) , [S.R. 2000 Nos. 255](https://www.legislation.gov.uk/nisr/2000/255) and [350](https://www.legislation.gov.uk/nisr/2000/350), [S.R. 2002 No. 388](https://www.legislation.gov.uk/nisr/2002/388), [S.R. 2004 No. 166](https://www.legislation.gov.uk/nisr/2004/166) and [S.R. 2006 No. 234](https://www.legislation.gov.uk/nisr/2006/234)
 
@@ -687,37 +687,37 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00029]: Footnote: Regulation 140(1)(b) was amended by Article 9(5)(i) of [S.R. 1999 No. 428 (C.32)](https://www.legislation.gov.uk/nisr/1999/428)
 
-[^key-4f4eb7339e366dee094960218c8cd1d4]: Commencement: Reg. 12 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-4f4eb7339e366dee094960218c8cd1d4]: Commencement: Reg. 12 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
 [^f00030]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
 
-[^key-8d80638673c035aad4c3a128716d48b9]: Commencement: Reg. 13 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-8d80638673c035aad4c3a128716d48b9]: Commencement: Reg. 13 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
-[^key-b9b23a1357cb3a16a6768efff9fc5821]: Commencement: Reg. 14 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-b9b23a1357cb3a16a6768efff9fc5821]: Commencement: Reg. 14 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
 [^f00031]: Footnote: [S.R. 2005 No. 443](https://www.legislation.gov.uk/nisr/2005/443)
 
 [^f00032]: Footnote: [S.R. 2006 No. 234](https://www.legislation.gov.uk/nisr/2006/234)
 
-[^key-4d12d9ad5cef673299e46642a1c0e28b]: Commencement: Sch. para. 1 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-4d12d9ad5cef673299e46642a1c0e28b]: Commencement: Sch. para. 1 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
-[^key-b16374b798bc755e25e2343e59cda52b]: Commencement: Sch. para. 2 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-b16374b798bc755e25e2343e59cda52b]: Commencement: Sch. para. 2 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
-[^key-96a7132ba3a10bf85b0f4f2f7b87aa56]: Commencement: Sch. para. 3 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-96a7132ba3a10bf85b0f4f2f7b87aa56]: Commencement: Sch. para. 3 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
-[^key-d4c4d7ce813de4d603c0683e1c9bf002]: Commencement: Sch. para. 4 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-d4c4d7ce813de4d603c0683e1c9bf002]: Commencement: Sch. para. 4 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
-[^key-651d74e76f24f1d6482735a2d633fa6a]: Commencement: Sch. para. 5 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-651d74e76f24f1d6482735a2d633fa6a]: Commencement: Sch. para. 5 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
-[^key-7b40ed7a00fefc26877aae18adb1059b]: Commencement: Sch. para. 6 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-7b40ed7a00fefc26877aae18adb1059b]: Commencement: Sch. para. 6 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
-[^key-c9a7206d14734c83f771f8fb0355ed58]: Commencement: Sch. para. 7 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-c9a7206d14734c83f771f8fb0355ed58]: Commencement: Sch. para. 7 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
-[^key-5bf195a437b0c08877d347fe5ed950f1]: Commencement: Sch. para. 8 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-5bf195a437b0c08877d347fe5ed950f1]: Commencement: Sch. para. 8 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
-[^key-3a8b16de2504f1058bc2bb64963df0d8]: Commencement: Sch. para. 9 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-3a8b16de2504f1058bc2bb64963df0d8]: Commencement: Sch. para. 9 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
-[^key-5a7565d73b91dd290e0b3c0a2447fa1c]: Commencement: Sch. para. 10 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
+[^c-5a7565d73b91dd290e0b3c0a2447fa1c]: Commencement: Sch. para. 10 in operation at 2.12.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1)
 
 [^f00033]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
 

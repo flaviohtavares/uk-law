@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Powers to amend Part 2 of Schedule 1[^key-138b1464f9dc463cac28927c859519cf]
+## 221. Powers to amend Part 2 of Schedule 1[^c-138b1464f9dc463cac28927c859519cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ Interpretation
 
 ## Annotations
 
-[^key-138b1464f9dc463cac28927c859519cf]: Commencement: S. 221 in force at Royal Assent, see [s. 240(z4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z4)
+[^c-138b1464f9dc463cac28927c859519cf]: Commencement: S. 221 in force at Royal Assent, see [s. 240(z4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z4)

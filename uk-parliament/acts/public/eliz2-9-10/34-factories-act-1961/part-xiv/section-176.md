@@ -25,7 +25,7 @@ summary: ''
 - “**bakehouse**” means any place in which bread, biscuits or confectionery is or are baked by way of trade or for purposes of gain;
 - [^c14258081]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**bodily injury**” includes injury to health;
-- “[^c14258091]**building operation**” and “**work of engineering construction**” mean “construction work" within the meaning assigned to that phrase by regulation 2(1) of the Construction (Design and Management) Regulations 2015[^key-6e18997ea926972753003b232ba8b7cc];
+- “[^c14258091]**building operation**” and “**work of engineering construction**” mean “construction work" within the meaning assigned to that phrase by regulation 2(1) of the Construction (Design and Management) Regulations 2015[^c-6e18997ea926972753003b232ba8b7cc];
 - “**calendar year**” means the period of twelve months beginning with the first day of January in any year;
 - [^c14258101]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “[^c14258111] **child** ” means any person who is not over—
@@ -38,9 +38,9 @@ summary: ''
 - “**district council**” means, as respects England and Wales, the council of a . . . [^c14258131] district, and, as respects Scotland an islands or a district council[^c14258141];
 - “**driving-belt**” includes any driving strap or rope;
 - “**fume**” includes gas or vapour;
-- [^key-eb92783a7b2e4fdf128b0c6f7eb362c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-eb92783a7b2e4fdf128b0c6f7eb362c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**humid factory**” means a factory in which atmospheric humidity is artificially produced by steaming or other means in connection with any textile process;
-- “[^c14258151]**inspector**” , in relation to a factory, means an inspector appointed under section 19 of the Health and Safety at Work etc. Act 1974 (“[^key-5ed83433803a6ea1d05108a1897017eb]**the 1974 Act**”)—
+- “[^c14258151]**inspector**” , in relation to a factory, means an inspector appointed under section 19 of the Health and Safety at Work etc. Act 1974 (“[^c-5ed83433803a6ea1d05108a1897017eb]**the 1974 Act**”)—
 -
   - in the case of a factory on a site in relation to which the Office for Nuclear Regulation has responsibility for the enforcement of any of the relevant statutory provisions (within the meaning of Part 1 of the 1974 Act) by virtue of section 18(1A) or (2) of that Act, by the Office for Nuclear Regulation;
   - in any other case, by the Health and Safety Executive,
@@ -97,7 +97,7 @@ summary: ''
 
 [^c14258091]: Textual amendment: Definition of “building operation" in s. 176(1) deleted and substituted (2.9.1996) by [S.I. 1996/1592](https://www.legislation.gov.uk/uksi/1996/1592), [reg. 34](https://www.legislation.gov.uk/uksi/1996/1592/regulation/34), [Sch. 9 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/1996/1592/schedule/9/paragraph/2/b/i)
 
-[^key-6e18997ea926972753003b232ba8b7cc]: Textual amendment: Word in s. 176(1) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
+[^c-6e18997ea926972753003b232ba8b7cc]: Textual amendment: Word in s. 176(1) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
 
 [^c14258101]: Textual amendment: Definition repealed by [S.I. 1974/1941](https://www.legislation.gov.uk/uksi/1974/1941), [reg. 7](https://www.legislation.gov.uk/uksi/1974/1941/regulation/7), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1941/schedule/1)
 
@@ -109,11 +109,11 @@ summary: ''
 
 [^c14258141]: Textual amendment: Words substituted by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [s. 155(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/155/1)
 
-[^key-eb92783a7b2e4fdf128b0c6f7eb362c6]: Textual amendment: Words in s. 176(1) repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/2/d)
+[^c-eb92783a7b2e4fdf128b0c6f7eb362c6]: Textual amendment: Words in s. 176(1) repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/2/d)
 
 [^c14258151]: Textual amendment: Definition substituted by [S.I. 1974/1941](https://www.legislation.gov.uk/uksi/1974/1941), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/1974/1941/schedule/2/paragraph/12)
 
-[^key-5ed83433803a6ea1d05108a1897017eb]: Textual amendment: Words in s. 176(1) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 53](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/53); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-5ed83433803a6ea1d05108a1897017eb]: Textual amendment: Words in s. 176(1) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 53](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/53); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
 [^c14258171]: Textual amendment: In s. 176(1) definition of “magistrates' court" repealed (5.11.1993) by [Statute Law (Repeals) Act 1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XIV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIV) Gp. 3
 

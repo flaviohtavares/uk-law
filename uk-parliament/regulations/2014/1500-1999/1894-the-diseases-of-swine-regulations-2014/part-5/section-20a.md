@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20A. Removal of feral pig investigation zones in England[^key-bdd7abc3d89323aed647ab46ceef2bf4]
+## 20A. Removal of feral pig investigation zones in England[^c-bdd7abc3d89323aed647ab46ceef2bf4]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdd7abc3d89323aed647ab46ceef2bf4]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/20A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(15)](https://www.legislation.gov.uk/uksi/2026/475/article/3/15)
+[^c-bdd7abc3d89323aed647ab46ceef2bf4]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/20A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(15)](https://www.legislation.gov.uk/uksi/2026/475/article/3/15)

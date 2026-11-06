@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Public houses and hotels: further additional hours[^key-8c4a5c3784a93f10417a4b9bb496735b][^key-02ca066bb0c64b25a4cbbd260f92ff8b]
+## 3. Public houses and hotels: further additional hours[^c-8c4a5c3784a93f10417a4b9bb496735b][^c-02ca066bb0c64b25a4cbbd260f92ff8b]
 
 *Extent: N.I.*
 
@@ -108,6 +108,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c4a5c3784a93f10417a4b9bb496735b]: Commencement: S. 3 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-8c4a5c3784a93f10417a4b9bb496735b]: Commencement: S. 3 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-02ca066bb0c64b25a4cbbd260f92ff8b]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2021/7/section/3) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-02ca066bb0c64b25a4cbbd260f92ff8b]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2021/7/section/3) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

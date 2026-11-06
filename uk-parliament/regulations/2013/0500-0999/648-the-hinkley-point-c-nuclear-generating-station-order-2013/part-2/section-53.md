@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Incorporation of the Harbours, Docks and Piers Clauses Act 1847[^key-67a0cf4c9ad93146bd75818c98f2d99b]
+## 53. Incorporation of the Harbours, Docks and Piers Clauses Act 1847[^c-67a0cf4c9ad93146bd75818c98f2d99b]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67a0cf4c9ad93146bd75818c98f2d99b]: Commencement: Art. 53 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-67a0cf4c9ad93146bd75818c98f2d99b]: Commencement: Art. 53 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

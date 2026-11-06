@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Breach of requirements relating to children and seat belts[^key-e60e66d0ca4324f21778ac39430bb712]
+## 24. Breach of requirements relating to children and seat belts[^c-e60e66d0ca4324f21778ac39430bb712]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Part 1 of Schedule 2 to the Road Traffic Offenders Act 1988 (prosecution and 
 
 ## Annotations
 
-[^key-e60e66d0ca4324f21778ac39430bb712]: Commencement: S. 24 in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/c)
+[^c-e60e66d0ca4324f21778ac39430bb712]: Commencement: S. 24 in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/c)

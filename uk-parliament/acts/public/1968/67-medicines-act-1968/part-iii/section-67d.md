@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67D. Defences under sections 67A, 67B and 67C: evidence etc.[^key-cd94600ee6a0fdb159df7fabfb1af9af]
+## 67D. Defences under sections 67A, 67B and 67C: evidence etc.[^c-cd94600ee6a0fdb159df7fabfb1af9af]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) the person used his or her professional skills for an improper purpose; or
 - (b) the person deliberately failed to have due regard for patient safety.
 
-(4) Proof that a registrant failed to comply with a procedure established in relation to a registered pharmacy or a relevant pharmacy service[^key-c89b5aa8912743d7713c5e34ff5358e5] does not of itself constitute proof that the registrant was not acting in the course of his or her profession.
+(4) Proof that a registrant failed to comply with a procedure established in relation to a registered pharmacy or a relevant pharmacy service[^c-c89b5aa8912743d7713c5e34ff5358e5] does not of itself constitute proof that the registrant was not acting in the course of his or her profession.
 
 (5) Knowledge acquired after a product is sold or supplied does not count if it is acquired only as a result of an investigation into whether an offence has been committed in respect of a product.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd94600ee6a0fdb159df7fabfb1af9af]: Textual amendment: Ss. 67A-67E inserted (16.4.2018) by [The Pharmacy (Preparation and Dispensing Errors Registered Pharmacies) Order 2018 (S.I. 2018/181)](https://www.legislation.gov.uk/uksi/2018/181), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/181/article/1/3), [4](https://www.legislation.gov.uk/uksi/2018/181/article/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2018/181/article/2)); [S.I. 2018/402](https://www.legislation.gov.uk/uksi/2018/402), [art. 2](https://www.legislation.gov.uk/uksi/2018/402/article/2)
+[^c-cd94600ee6a0fdb159df7fabfb1af9af]: Textual amendment: Ss. 67A-67E inserted (16.4.2018) by [The Pharmacy (Preparation and Dispensing Errors Registered Pharmacies) Order 2018 (S.I. 2018/181)](https://www.legislation.gov.uk/uksi/2018/181), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/181/article/1/3), [4](https://www.legislation.gov.uk/uksi/2018/181/article/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2018/181/article/2)); [S.I. 2018/402](https://www.legislation.gov.uk/uksi/2018/402), [art. 2](https://www.legislation.gov.uk/uksi/2018/402/article/2)
 
-[^key-c89b5aa8912743d7713c5e34ff5358e5]: Textual amendment: Words in [s. 67D(4)](https://www.legislation.gov.uk/ukpga/1968/67/section/67D/4) inserted (1.12.2022) by [The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022 (S.I. 2022/851)](https://www.legislation.gov.uk/uksi/2022/851), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3), [8](https://www.legislation.gov.uk/uksi/2022/851/article/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/851/article/3)); [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+[^c-c89b5aa8912743d7713c5e34ff5358e5]: Textual amendment: Words in [s. 67D(4)](https://www.legislation.gov.uk/ukpga/1968/67/section/67D/4) inserted (1.12.2022) by [The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022 (S.I. 2022/851)](https://www.legislation.gov.uk/uksi/2022/851), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3), [8](https://www.legislation.gov.uk/uksi/2022/851/article/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/851/article/3)); [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 163. Application to Tribunal by patient etc. for revocation of determination extending compulsion order[^key-3235e3b4b5d1d415f789b6a6311c99ce]
+## 163. Application to Tribunal by patient etc. for revocation of determination extending compulsion order[^c-3235e3b4b5d1d415f789b6a6311c99ce]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ may make an application under this section to the Tribunal for an order under se
 
 ## Annotations
 
-[^key-3235e3b4b5d1d415f789b6a6311c99ce]: Commencement: S. 163 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-3235e3b4b5d1d415f789b6a6311c99ce]: Commencement: S. 163 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

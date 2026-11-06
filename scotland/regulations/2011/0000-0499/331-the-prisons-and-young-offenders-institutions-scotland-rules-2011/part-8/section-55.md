@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Restrictions on general correspondence to and from the prisoner[^key-24c55c9ef57b4de1680ec13ab284c5a3]
+## 55. Restrictions on general correspondence to and from the prisoner[^c-24c55c9ef57b4de1680ec13ab284c5a3]
 
 *Extent: S*
 
 (1) This rule applies to any letter or package, other than one to which rule 56 or 57 applies, which a prisoner wishes to send or which is addressed to a prisoner.
 
-(2) An officer or employee may open a letter or package to which this rule applies and remove , copy and, for the purposes of investigating whether it contains a prohibited article or unauthorised property, test[^key-0ad1957537bb3ccfb2650a320630c711] the contents of that letter or package.
+(2) An officer or employee may open a letter or package to which this rule applies and remove , copy and, for the purposes of investigating whether it contains a prohibited article or unauthorised property, test[^c-0ad1957537bb3ccfb2650a320630c711] the contents of that letter or package.
 
 (3) Where an officer or employee proposes to open a letter or package to which this rule applies, or remove the contents of that letter or package, the officer or employee may ask the prisoner to be present when the letter or package is opened or its contents removed.
 
-(3A)[^key-d322f668f52f965c6bd2f367b85a3e99] Where an officer or employee copies the contents of a letter or package to which this rule applies, the officer or employee must provide the copy to the prisoner.
+(3A)[^c-d322f668f52f965c6bd2f367b85a3e99] Where an officer or employee copies the contents of a letter or package to which this rule applies, the officer or employee must provide the copy to the prisoner.
 
 (3B) Where an officer or employee copies the contents of a letter or package to which this rule applies, the officer or employee may retain the letter or package for return to the prisoner upon his or her release.
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-24c55c9ef57b4de1680ec13ab284c5a3]: Textual amendment: Rules 55-57 substituted for rules 55-59 (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(9)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/9)
+[^c-24c55c9ef57b4de1680ec13ab284c5a3]: Textual amendment: Rules 55-57 substituted for rules 55-59 (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(9)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/9)
 
-[^key-0ad1957537bb3ccfb2650a320630c711]: Textual amendment: Words in [rule 55(2)](https://www.legislation.gov.uk/ssi/2011/331/rule/55/2) inserted (13.12.2021) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2021 (S.S.I. 2021/446)](https://www.legislation.gov.uk/ssi/2021/446), [rules 1](https://www.legislation.gov.uk/ssi/2021/446/rule/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2021/446/rule/2/3/a)
+[^c-0ad1957537bb3ccfb2650a320630c711]: Textual amendment: Words in [rule 55(2)](https://www.legislation.gov.uk/ssi/2011/331/rule/55/2) inserted (13.12.2021) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2021 (S.S.I. 2021/446)](https://www.legislation.gov.uk/ssi/2021/446), [rules 1](https://www.legislation.gov.uk/ssi/2021/446/rule/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2021/446/rule/2/3/a)
 
-[^key-d322f668f52f965c6bd2f367b85a3e99]: Textual amendment: [Rule 55(3A)](https://www.legislation.gov.uk/ssi/2011/331/rule/55/3A)[(3B)](https://www.legislation.gov.uk/ssi/2011/331/rule/55/3B) inserted (13.12.2021) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2021 (S.S.I. 2021/446)](https://www.legislation.gov.uk/ssi/2021/446), [rules 1](https://www.legislation.gov.uk/ssi/2021/446/rule/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2021/446/rule/2/3/b)
+[^c-d322f668f52f965c6bd2f367b85a3e99]: Textual amendment: [Rule 55(3A)](https://www.legislation.gov.uk/ssi/2011/331/rule/55/3A)[(3B)](https://www.legislation.gov.uk/ssi/2011/331/rule/55/3B) inserted (13.12.2021) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2021 (S.S.I. 2021/446)](https://www.legislation.gov.uk/ssi/2021/446), [rules 1](https://www.legislation.gov.uk/ssi/2021/446/rule/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2021/446/rule/2/3/b)

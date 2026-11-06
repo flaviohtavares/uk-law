@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Grants[^key-0232461025de7d4380e351592258dd08]
+## 32. Grants[^c-0232461025de7d4380e351592258dd08]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ as the Secretary of State may determine.
 
 ## Annotations
 
-[^key-0232461025de7d4380e351592258dd08]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2009/23/section/32) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)
+[^c-0232461025de7d4380e351592258dd08]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2009/23/section/32) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)

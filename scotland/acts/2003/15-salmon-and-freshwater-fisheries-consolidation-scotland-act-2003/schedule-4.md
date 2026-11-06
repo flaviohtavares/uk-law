@@ -24,11 +24,11 @@ summary: ''
 
 ### Part 1 — Consequential amendments
 
-**1.**[^key-be847dcb0905fe20481493648b145c91] In section 18 (enforcement of orders in relation to salmon and migratory trout) of the Sea Fish (Conservation) Act 1967, for subsection (2) there shall be substituted—
+**1.**[^c-be847dcb0905fe20481493648b145c91] In section 18 (enforcement of orders in relation to salmon and migratory trout) of the Sea Fish (Conservation) Act 1967, for subsection (2) there shall be substituted—
 
 > (2) Where any order under the said section 4, 5 or 6 imposes any prohibition or restriction on fishing for salmon or migratory trout within any waters which form part of the district of a district salmon fishery board within the meaning of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15), or on landing salmon or migratory trout at a place within such a district as aforesaid, the provisions of sections 52, 53, 54, 55, 57, 58 and 60(3) and (4) of that Act (which relate to enforcement and forfeiture) shall apply in relation to any contravention of the orders mentioned above as they apply in relation to a contravention of that Act.
 
-**2.**[^key-04a0a35d6dbca6c22d8e6628b8133cd6] (1) The Inshore Fishing (Scotland) Act 1984 shall be amended as follows.
+**2.**[^c-04a0a35d6dbca6c22d8e6628b8133cd6] (1) The Inshore Fishing (Scotland) Act 1984 shall be amended as follows.
 
 (2) In subsection (1) of section 7 (powers of water bailiffs etc.), for the words from “district board” to the end there shall be substituted the words “ district salmon fishery board within the meaning of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15) (“**the 2003 Act**”). ”
 
@@ -36,7 +36,7 @@ summary: ''
 
 > (2) The provisions of sections 52, 53, 54, 55, 57, 58 and 60(3) and (4) of the 2003 Act (which relate to enforcement and forfeiture) shall apply in relation to a contravention of an order referred to in subsection (1) above as they apply in relation to a contravention of that Act.
 
-**3.**[^key-ce6a2568f42bb3a8df116677187cf289] (1) The Water Act 1989 shall be amended as follows.
+**3.**[^c-ce6a2568f42bb3a8df116677187cf289] (1) The Water Act 1989 shall be amended as follows.
 
 (2) In paragraph 4 of Schedule 17 (minor and consequential amendments) for the words from “section 15” to “Secretary of State” there shall be substituted the words “ section 64 of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15) (power of Scottish Ministers ”.
 
@@ -45,7 +45,7 @@ summary: ''
 - (a) for the word “him” there shall be substituted the word “ them ”; and
 - (b) for the word “he”, in each place where it occurs, there shall be substituted the word “ they ”.
 
-### Part 2 — Repeals and revocations[^key-7c400fe5b4a6af3e695bffcb00fb1542]
+### Part 2 — Repeals and revocations[^c-7c400fe5b4a6af3e695bffcb00fb1542]
 
 | *Enactment* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -69,10 +69,10 @@ summary: ''
 
 ## Annotations
 
-[^key-be847dcb0905fe20481493648b145c91]: Commencement: Sch. 4 para. 1 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-be847dcb0905fe20481493648b145c91]: Commencement: Sch. 4 para. 1 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-04a0a35d6dbca6c22d8e6628b8133cd6]: Commencement: Sch. 4 para. 2 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-04a0a35d6dbca6c22d8e6628b8133cd6]: Commencement: Sch. 4 para. 2 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-ce6a2568f42bb3a8df116677187cf289]: Commencement: Sch. 4 para. 3 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-ce6a2568f42bb3a8df116677187cf289]: Commencement: Sch. 4 para. 3 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-7c400fe5b4a6af3e695bffcb00fb1542]: Commencement: Sch. 4 Pt. 2 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-7c400fe5b4a6af3e695bffcb00fb1542]: Commencement: Sch. 4 Pt. 2 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

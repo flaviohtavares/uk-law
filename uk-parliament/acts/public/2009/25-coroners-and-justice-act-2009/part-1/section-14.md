@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Post-mortem examinations[^key-c45b55a1e49b03b5fe1384db054b563c]
+## 14. Post-mortem examinations[^c-c45b55a1e49b03b5fe1384db054b563c]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ This subsection has no effect as regards a post-mortem examination already made.
 
 ## Annotations
 
-[^key-c45b55a1e49b03b5fe1384db054b563c]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2009/25/section/14) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-c45b55a1e49b03b5fe1384db054b563c]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2009/25/section/14) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)

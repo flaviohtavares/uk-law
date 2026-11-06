@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Public spaces protection orders: Convention rights, consultation, publicity and notification[^key-48490e4fff18ddfed1fcdc96ffe82da8][^key-06e971a4635045cbcdc3af9a4265426b]
+## 72. Public spaces protection orders: Convention rights, consultation, publicity and notification[^c-48490e4fff18ddfed1fcdc96ffe82da8][^c-06e971a4635045cbcdc3af9a4265426b]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ must have particular regard to the rights of freedom of expression and freedom o
 
 ## Annotations
 
-[^key-48490e4fff18ddfed1fcdc96ffe82da8]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2014/12/section/72) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-48490e4fff18ddfed1fcdc96ffe82da8]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2014/12/section/72) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
 
-[^key-06e971a4635045cbcdc3af9a4265426b]: Textual amendment: Words in [s. 72 heading](https://www.legislation.gov.uk/ukpga/2014/12/part/4/chapter/2/crossheading/supplemental) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/16); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-06e971a4635045cbcdc3af9a4265426b]: Textual amendment: Words in [s. 72 heading](https://www.legislation.gov.uk/ukpga/2014/12/part/4/chapter/2/crossheading/supplemental) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/16); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

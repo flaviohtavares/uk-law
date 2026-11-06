@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 211. Notice of an order under section 176A(5)[^key-816f4bada43a2448e53fbc847cb5364e]
+## 211. Notice of an order under section 176A(5)[^c-816f4bada43a2448e53fbc847cb5364e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-816f4bada43a2448e53fbc847cb5364e]: Commencement: Rule 211 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-816f4bada43a2448e53fbc847cb5364e]: Commencement: Rule 211 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

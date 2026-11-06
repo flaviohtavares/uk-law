@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Control of Asbestos at Work (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-dbf1763c05008d2bccd7281fec0c5f22]
+Control of Asbestos at Work (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-dbf1763c05008d2bccd7281fec0c5f22]
 
 Made
 
@@ -39,23 +39,23 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-dbf1763c05008d2bccd7281fec0c5f22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbf1763c05008d2bccd7281fec0c5f22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dbf1763c05008d2bccd7281fec0c5f22]
+## 1. Citation and commencement[^c-dbf1763c05008d2bccd7281fec0c5f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Control of Asbestos at Work Regulations (Northern Ireland) 1988[^key-dbf1763c05008d2bccd7281fec0c5f22]
+## 2. Amendment of the Control of Asbestos at Work Regulations (Northern Ireland) 1988[^c-dbf1763c05008d2bccd7281fec0c5f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dbf1763c05008d2bccd7281fec0c5f22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbf1763c05008d2bccd7281fec0c5f22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule to be added after Schedule 2 to the Control of Asbestos at Work Regulations (Northern Ireland) 1988[^key-dbf1763c05008d2bccd7281fec0c5f22]
+## SCHEDULE — Schedule to be added after Schedule 2 to the Control of Asbestos at Work Regulations (Northern Ireland) 1988[^c-dbf1763c05008d2bccd7281fec0c5f22]
 
 Regulation 2(20)
 
@@ -63,8 +63,8 @@ Regulation 2(20)
 
 **May not be in force at this date. Check the source.**
 
-[^key-dbf1763c05008d2bccd7281fec0c5f22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbf1763c05008d2bccd7281fec0c5f22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dbf1763c05008d2bccd7281fec0c5f22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/98) revoked (28.2.2003) by [Control of Asbestos at Work Regulations (Northern Ireland) 2003 (S.R. 2003/33)](https://www.legislation.gov.uk/nisr/2003/33), [regs. 1](https://www.legislation.gov.uk/nisr/2003/33/regulation/1), [27(1)(c)](https://www.legislation.gov.uk/nisr/2003/33/regulation/27) (with [reg. 27(4)](https://www.legislation.gov.uk/nisr/2003/33/regulation/27))
+[^c-dbf1763c05008d2bccd7281fec0c5f22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/98) revoked (28.2.2003) by [Control of Asbestos at Work Regulations (Northern Ireland) 2003 (S.R. 2003/33)](https://www.legislation.gov.uk/nisr/2003/33), [regs. 1](https://www.legislation.gov.uk/nisr/2003/33/regulation/1), [27(1)(c)](https://www.legislation.gov.uk/nisr/2003/33/regulation/27) (with [reg. 27(4)](https://www.legislation.gov.uk/nisr/2003/33/regulation/27))

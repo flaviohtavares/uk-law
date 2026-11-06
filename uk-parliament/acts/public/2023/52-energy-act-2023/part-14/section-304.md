@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 304. Excluded disposal sites[^key-9f2f8edde5d73a282fa58e501b9ce6b8]
+## 304. Excluded disposal sites[^c-9f2f8edde5d73a282fa58e501b9ce6b8]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-847e126d277c71bec56b7bced70aff32] The Nuclear Installations Act 1965 is amended as follows.
+(1)[^c-847e126d277c71bec56b7bced70aff32] The Nuclear Installations Act 1965 is amended as follows.
 
-(2)[^key-847e126d277c71bec56b7bced70aff32] In section 7B (duties in respect of relevant disposal sites)—
+(2)[^c-847e126d277c71bec56b7bced70aff32] In section 7B (duties in respect of relevant disposal sites)—
 
 - (a) after subsection (2A) (inserted by section 303 of this Act) insert—
 
@@ -56,7 +56,7 @@ summary: ''
     ;
   - (ii) in paragraph (b), omit “Scotland or”.
 
-(3)[^key-c8eebe8e0c76c61629f16f8dc163cc3c][^key-54d3c73eb7297bb019443093328a3ca8] After section 7B insert—
+(3)[^c-c8eebe8e0c76c61629f16f8dc163cc3c][^c-54d3c73eb7297bb019443093328a3ca8] After section 7B insert—
 
 > **7C. Excluded disposal sites**
 >
@@ -126,11 +126,11 @@ summary: ''
 >
 > (8) In this section, “**disqualifying matter**” has the meaning given by section 7C.
 
-(4)[^key-847e126d277c71bec56b7bced70aff32] In section 20 (furnishing of information relating to operator’s cover), after subsection (5) insert—
+(4)[^c-847e126d277c71bec56b7bced70aff32] In section 20 (furnishing of information relating to operator’s cover), after subsection (5) insert—
 
 > (5A) Subsection (4) does not apply where the operator of a relevant disposal site makes an application to the Secretary of State under section 7C(1)(a) (application for site to be excluded disposal site).
 
-(5)[^key-847e126d277c71bec56b7bced70aff32] In section 26(1) (interpretation), at the appropriate place insert—
+(5)[^c-847e126d277c71bec56b7bced70aff32] In section 26(1) (interpretation), at the appropriate place insert—
 
 > - “**excluded disposal site**” has the meaning given by section 7C;
 
@@ -138,10 +138,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9f2f8edde5d73a282fa58e501b9ce6b8]: Commencement: S. 304 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-9f2f8edde5d73a282fa58e501b9ce6b8]: Commencement: S. 304 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-847e126d277c71bec56b7bced70aff32]: Commencement: [S. 304(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/2)[(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/5) in force at 2.12.2025 by [S.I. 2025/1173](https://www.legislation.gov.uk/uksi/2025/1173), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1173/regulation/2)
+[^c-847e126d277c71bec56b7bced70aff32]: Commencement: [S. 304(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/2)[(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/5) in force at 2.12.2025 by [S.I. 2025/1173](https://www.legislation.gov.uk/uksi/2025/1173), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1173/regulation/2)
 
-[^key-c8eebe8e0c76c61629f16f8dc163cc3c]: Commencement: [S. 304(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/3) in force at 11.1.2024 for specified purposes by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/e)
+[^c-c8eebe8e0c76c61629f16f8dc163cc3c]: Commencement: [S. 304(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/3) in force at 11.1.2024 for specified purposes by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/e)
 
-[^key-54d3c73eb7297bb019443093328a3ca8]: Commencement: [S. 304(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/3) in force at 2.12.2025 in so far as not already in force by [S.I. 2025/1173](https://www.legislation.gov.uk/uksi/2025/1173), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1173/regulation/2)
+[^c-54d3c73eb7297bb019443093328a3ca8]: Commencement: [S. 304(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/304/3) in force at 2.12.2025 in so far as not already in force by [S.I. 2025/1173](https://www.legislation.gov.uk/uksi/2025/1173), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1173/regulation/2)

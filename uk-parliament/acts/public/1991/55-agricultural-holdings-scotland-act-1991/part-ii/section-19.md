@@ -24,8 +24,8 @@ summary: ''
 
 (2) Where payment of the price is not made within one month as aforesaid the outgoing tenant shall be entitled to sell or remove the goods and to receive from the landlord or the incoming tenant, as the case may be, by whom the price was payable, compensation of an amount equal to any loss or expense unavoidably incurred by the outgoing tenant upon or in connection with such sale or removal, together with any expenses reasonably incurred by him in the preparation of his claim for compensation.
 
-(3)[^key-dfa10c8ef85bf7f07ed7808c8fdb12a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-dfa10c8ef85bf7f07ed7808c8fdb12a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dfa10c8ef85bf7f07ed7808c8fdb12a8]: Textual amendment: S. 19(3) repealed (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 18](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/18) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-dfa10c8ef85bf7f07ed7808c8fdb12a8]: Textual amendment: S. 19(3) repealed (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 18](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/18) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 235B. Right to transfer a deferred pension to the 2015 Scheme[^key-7de7844373faa1c32c81ef3946fdb4a7]
+## 235B. Right to transfer a deferred pension to the 2015 Scheme[^c-7de7844373faa1c32c81ef3946fdb4a7]
 
 *Extent: N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7de7844373faa1c32c81ef3946fdb4a7]: Textual amendment: [Reg. 235B](https://www.legislation.gov.uk/nisr/2008/256/regulation/235B) inserted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [40](https://www.legislation.gov.uk/nisr/2015/121/regulation/40)
+[^c-7de7844373faa1c32c81ef3946fdb4a7]: Textual amendment: [Reg. 235B](https://www.legislation.gov.uk/nisr/2008/256/regulation/235B) inserted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [40](https://www.legislation.gov.uk/nisr/2015/121/regulation/40)

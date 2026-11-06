@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Transfer of status[^key-c1344501890d79f4e8bbeff7ec9d68fb]
+## 126. Transfer of status[^c-c1344501890d79f4e8bbeff7ec9d68fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1344501890d79f4e8bbeff7ec9d68fb]: Commencement: Reg. 126 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-c1344501890d79f4e8bbeff7ec9d68fb]: Commencement: Reg. 126 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

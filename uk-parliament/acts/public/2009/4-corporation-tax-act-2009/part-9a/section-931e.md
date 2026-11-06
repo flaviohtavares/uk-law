@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 931E. Distributions from controlled companies[^key-c2daeff2dc2f1c78d3413089f450a47e]
+## 931E. Distributions from controlled companies[^c-c2daeff2dc2f1c78d3413089f450a47e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Condition A is that the recipient controls the payer.
 
-(3)[^key-1caefebb43d07590c4bd919eed32a353] Condition B is that—
+(3)[^c-1caefebb43d07590c4bd919eed32a353] Condition B is that—
 
 - (a) the recipient is one of two persons who, taken together, control the payer,
 - (b) the recipient has interests, rights and powers representing at least 40% of the holdings, rights and powers in respect of which the recipient and the second person fall to be taken as controlling the payer, and
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2daeff2dc2f1c78d3413089f450a47e]: Textual amendment: Pt. 9A inserted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/1) (with [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/32))
+[^c-c2daeff2dc2f1c78d3413089f450a47e]: Textual amendment: Pt. 9A inserted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/1) (with [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/32))
 
-[^key-1caefebb43d07590c4bd919eed32a353]: Textual amendment: Ss. 931E(3)-(6) substituted for s. 931E(3)-(5) (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 31](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/31) (with [Sch. 20 para. 53](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/53))
+[^c-1caefebb43d07590c4bd919eed32a353]: Textual amendment: Ss. 931E(3)-(6) substituted for s. 931E(3)-(5) (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 31](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/31) (with [Sch. 20 para. 53](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/53))

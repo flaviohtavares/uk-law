@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Supplements to improvement and water supply grants.[^key-ea2b31573b96abf5bfd246396469f2c5]
+## 33. Supplements to improvement and water supply grants.[^c-ea2b31573b96abf5bfd246396469f2c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea2b31573b96abf5bfd246396469f2c5]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/1967/22/section/33) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-ea2b31573b96abf5bfd246396469f2c5]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/1967/22/section/33) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

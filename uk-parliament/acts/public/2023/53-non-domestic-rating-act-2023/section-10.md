@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 10. Disclosure of valuation information to ratepayers[^key-4b390b5074c6543d98624a51da75a92d]
+## 10. Disclosure of valuation information to ratepayers[^c-4b390b5074c6543d98624a51da75a92d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ In Schedule 9 to the Act (administration), before paragraph 8 (but after the ita
 
 ## Annotations
 
-[^key-4b390b5074c6543d98624a51da75a92d]: Commencement: S. 10 not in force at Royal Assent, see [s. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/4/a)
+[^c-4b390b5074c6543d98624a51da75a92d]: Commencement: S. 10 not in force at Royal Assent, see [s. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/4/a)

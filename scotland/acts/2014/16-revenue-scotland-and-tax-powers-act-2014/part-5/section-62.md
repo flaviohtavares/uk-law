@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. The general anti-avoidance rule: introductory[^key-f12e2c96f09abf9912e21f5d786e536b]
+## 62. The general anti-avoidance rule: introductory[^c-f12e2c96f09abf9912e21f5d786e536b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f12e2c96f09abf9912e21f5d786e536b]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/16/section/62) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-f12e2c96f09abf9912e21f5d786e536b]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/16/section/62) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Progress report to company and creditors[^key-5ecb5f31c4b79caf9f01c8dbd0e001a1]
+## 35. Progress report to company and creditors[^c-5ecb5f31c4b79caf9f01c8dbd0e001a1]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 91 as substituted by section 3(2) of the Insolvency (Amendment) Act (
 
 ## Annotations
 
-[^key-5ecb5f31c4b79caf9f01c8dbd0e001a1]: Commencement: S. 35 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-5ecb5f31c4b79caf9f01c8dbd0e001a1]: Commencement: S. 35 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

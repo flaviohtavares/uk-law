@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-7880272a34a25bf03886610e27f465f7]
+## 2. Interpretation[^c-7880272a34a25bf03886610e27f465f7]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 - “**concept design parameters and principles**” means the document of that name identified in the table of Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the concept design parameters and principles document for the purposes of this Order;
 - “**the Cottam Solar Project Order**” means the Cottam Solar Project Order 2024[^f00021];
 - “**crown land plan**” means the plan of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the crown land plan for the purposes of this Order;
-- “**date of decommissioning**” means in respect of each part[^key-246bd5eeafed108d87daec10a0dcb874] of the authorised development [^key-82efcf35a3c67fb118c327cf49bac1a2]..., the date on which that part of the authorised development has permanently ceased to generate electricity on a commercial basis;
+- “**date of decommissioning**” means in respect of each part[^c-246bd5eeafed108d87daec10a0dcb874] of the authorised development [^c-82efcf35a3c67fb118c327cf49bac1a2]..., the date on which that part of the authorised development has permanently ceased to generate electricity on a commercial basis;
 - “**date of final commissioning**” means in respect of each phase of the authorised development as submitted under requirement 2 of Schedule 2 (requirements) the date on which that part of the authorised development commences operation by generating electricity on a commercial basis but excluding the generation of electricity during commissioning and testing;
 - “**definitive map and statement**” has the same meaning as in Part III of the Wildlife and Countryside Act 1981[^f00022];
 - “**electronic transmission**” means a communication transmitted—
@@ -102,7 +102,7 @@ summary: ''
 
 (2) References in this Order to rights over land include references to rights to do or restrain or to place and maintain anything in, on or under land or in the airspace above its surface and to any trusts or incidents (including restrictive covenants) to which the land is subject and references in this Order to the imposition of restrictive covenants are references to the creation of rights over land which interfere with the interests or rights of another and are for the benefit of land which is acquired under this Order or over which rights are created and acquired under this Order or is otherwise comprised in this Order.
 
-(3) In this Order, references to the purposes of the authorised development include[^key-e54581ead33c46b17f1fbf50a48f623d] the construction, maintenance, operation, use and decommissioning of the authorised development.
+(3) In this Order, references to the purposes of the authorised development include[^c-e54581ead33c46b17f1fbf50a48f623d] the construction, maintenance, operation, use and decommissioning of the authorised development.
 
 (4) All distances, directions, capacities and lengths referred to in this Order are approximate and distances between lines or points on a numbered work comprised in the authorised development and shown on the works plan, access plan and public rights of way plan are to be taken to be measured along that work.
 
@@ -116,7 +116,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7880272a34a25bf03886610e27f465f7]: Commencement: Art. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-7880272a34a25bf03886610e27f465f7]: Commencement: Art. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
 [^f00012]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -138,9 +138,9 @@ summary: ''
 
 [^f00021]: Footnote: [S.I. 2024/943](https://www.legislation.gov.uk/uksi/2024/943).
 
-[^key-246bd5eeafed108d87daec10a0dcb874]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/116/article/2/1) substituted (4.6.2025) by [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table
+[^c-246bd5eeafed108d87daec10a0dcb874]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/116/article/2/1) substituted (4.6.2025) by [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table
 
-[^key-82efcf35a3c67fb118c327cf49bac1a2]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/116/article/2/1) omitted (4.6.2025) by virtue of [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table
+[^c-82efcf35a3c67fb118c327cf49bac1a2]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/116/article/2/1) omitted (4.6.2025) by virtue of [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table
 
 [^f00022]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
@@ -160,4 +160,4 @@ summary: ''
 
 [^f00030]: Footnote: Section 121A was inserted by paragraph 70 of Schedule 8 to the 1991 Act, and subsequently amended by section 271 of the Greater London Authority Act 1999 (c. 29); section 1(6) of, and paragraphs 70 and 95 of Schedule 1 to the Infrastructure Act 2015; and [S.I. 1999/1920](https://www.legislation.gov.uk/uksi/1999/1920) and [S.I. 2001/1400](https://www.legislation.gov.uk/uksi/2001/1400).
 
-[^key-e54581ead33c46b17f1fbf50a48f623d]: Textual amendment: Word in [art. 2(3)](https://www.legislation.gov.uk/uksi/2025/116/article/2/3) substituted (4.6.2025) by [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table
+[^c-e54581ead33c46b17f1fbf50a48f623d]: Textual amendment: Word in [art. 2(3)](https://www.legislation.gov.uk/uksi/2025/116/article/2/3) substituted (4.6.2025) by [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table

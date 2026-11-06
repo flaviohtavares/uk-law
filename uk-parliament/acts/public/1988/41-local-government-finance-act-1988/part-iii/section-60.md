@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-Schedule 8 below (which provides for the keeping of non-domestic rating accounts, and for sums to be paid to and by the Welsh Ministers[^key-51fa061eccbfdbcb80e5dd2109fa6dc5]) shall have effect.
+Schedule 8 below (which provides for the keeping of non-domestic rating accounts, and for sums to be paid to and by the Welsh Ministers[^c-51fa061eccbfdbcb80e5dd2109fa6dc5]) shall have effect.
 
 ## Annotations
 
-[^key-51fa061eccbfdbcb80e5dd2109fa6dc5]: Textual amendment: Words in s. 60 substituted (with effect in accordance with s. 5(3) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/1)
+[^c-51fa061eccbfdbcb80e5dd2109fa6dc5]: Textual amendment: Words in s. 60 substituted (with effect in accordance with s. 5(3) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/1)

@@ -37,168 +37,168 @@ establishing a common format for the second report of Member States on the imple
 
 (2010/693/EU) (revoked)
 
-[^key-fd08ddafe47005cdacc759ed33794343]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd08ddafe47005cdacc759ed33794343]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-fd08ddafe47005cdacc759ed33794343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fd08ddafe47005cdacc759ed33794343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fd08ddafe47005cdacc759ed33794343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fd08ddafe47005cdacc759ed33794343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd08ddafe47005cdacc759ed33794343]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — COMMON FORMAT FOR SUBMISSION OF THE REPORT ON THE IMPLEMENTATION OF DIRECTIVE 2004/42/EC FOR THE PERIOD FROM 1 JANUARY UNTIL 31 DECEMBER 2010[^key-fd08ddafe47005cdacc759ed33794343]
+## ANNEX — COMMON FORMAT FOR SUBMISSION OF THE REPORT ON THE IMPLEMENTATION OF DIRECTIVE 2004/42/EC FOR THE PERIOD FROM 1 JANUARY UNTIL 31 DECEMBER 2010[^c-fd08ddafe47005cdacc759ed33794343]
 
-[^key-fd08ddafe47005cdacc759ed33794343]1.
+[^c-fd08ddafe47005cdacc759ed33794343]1.
 
 **General information and administrative arrangements**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]1.1.
+[^c-fd08ddafe47005cdacc759ed33794343]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]1.2.
+[^c-fd08ddafe47005cdacc759ed33794343]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]1.3.
+[^c-fd08ddafe47005cdacc759ed33794343]1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.
+[^c-fd08ddafe47005cdacc759ed33794343]2.
 
 **Monitoring programme (Article 6 of Directive 2004/42/EC)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.1.
+[^c-fd08ddafe47005cdacc759ed33794343]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.2.
+[^c-fd08ddafe47005cdacc759ed33794343]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.3.
+[^c-fd08ddafe47005cdacc759ed33794343]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.4.
+[^c-fd08ddafe47005cdacc759ed33794343]2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.5.
+[^c-fd08ddafe47005cdacc759ed33794343]2.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.6.
+[^c-fd08ddafe47005cdacc759ed33794343]2.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.7.
+[^c-fd08ddafe47005cdacc759ed33794343]2.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.8.
+[^c-fd08ddafe47005cdacc759ed33794343]2.8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.9.
+[^c-fd08ddafe47005cdacc759ed33794343]2.9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.10.
+[^c-fd08ddafe47005cdacc759ed33794343]2.10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]2.11.
+[^c-fd08ddafe47005cdacc759ed33794343]2.11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]3.
+[^c-fd08ddafe47005cdacc759ed33794343]3.
 
 **Key results of the monitoring programme carried out in 2010 (Article 7 of Directive 2004/42/EC)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]3.1.
+[^c-fd08ddafe47005cdacc759ed33794343]3.1.
 
 Summary of inspections
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]3.1.1.
+[^c-fd08ddafe47005cdacc759ed33794343]3.1.1.
 
 Table A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]3.1.2.
+[^c-fd08ddafe47005cdacc759ed33794343]3.1.2.
 
 Table B
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]3.1.3.
+[^c-fd08ddafe47005cdacc759ed33794343]3.1.3.
 
 Table C
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]3.2.
+[^c-fd08ddafe47005cdacc759ed33794343]3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]3.3.
+[^c-fd08ddafe47005cdacc759ed33794343]3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]4.
+[^c-fd08ddafe47005cdacc759ed33794343]4.
 
 **Exemptions granted pursuant to Article 3(2) of Directive 2004/42/EC**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]4.1.
+[^c-fd08ddafe47005cdacc759ed33794343]4.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]4.2.
+[^c-fd08ddafe47005cdacc759ed33794343]4.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]4.3.
+[^c-fd08ddafe47005cdacc759ed33794343]4.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]5.
+[^c-fd08ddafe47005cdacc759ed33794343]5.
 
 **Individual licences granted pursuant to Article 3(3) of Directive 2004/42/EC**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]5.1.
+[^c-fd08ddafe47005cdacc759ed33794343]5.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]5.2.
+[^c-fd08ddafe47005cdacc759ed33794343]5.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]6.
+[^c-fd08ddafe47005cdacc759ed33794343]6.
 
 **Other relevant information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]6.1.
+[^c-fd08ddafe47005cdacc759ed33794343]6.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd08ddafe47005cdacc759ed33794343]6.2.
+[^c-fd08ddafe47005cdacc759ed33794343]6.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fd08ddafe47005cdacc759ed33794343]: Textual amendment: Decision revoked (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2018/1407/schedule/1/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd08ddafe47005cdacc759ed33794343]: Textual amendment: Decision revoked (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2018/1407/schedule/1/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

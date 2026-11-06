@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Final infringement notice: directions to take enhanced consumer measures[^key-67ab7bd9b65b3384f7c1b77544b82c5f][^key-50ca524388407ab6aeace3c3878eae63]
+## 183. Final infringement notice: directions to take enhanced consumer measures[^c-67ab7bd9b65b3384f7c1b77544b82c5f][^c-50ca524388407ab6aeace3c3878eae63]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67ab7bd9b65b3384f7c1b77544b82c5f]: Commencement: S. 183 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-67ab7bd9b65b3384f7c1b77544b82c5f]: Commencement: S. 183 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-50ca524388407ab6aeace3c3878eae63]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2024/13/section/183) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-50ca524388407ab6aeace3c3878eae63]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2024/13/section/183) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. New Schedule 1A[^key-40a401c51ce04189f2b069f1ce20fde8]
+## 52. New Schedule 1A[^c-40a401c51ce04189f2b069f1ce20fde8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ After Schedule 1 (Band 1 Charges – diagnosis, treatment planning and maintenan
 
 ## Annotations
 
-[^key-40a401c51ce04189f2b069f1ce20fde8]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2013/364/regulation/52) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-40a401c51ce04189f2b069f1ce20fde8]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2013/364/regulation/52) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

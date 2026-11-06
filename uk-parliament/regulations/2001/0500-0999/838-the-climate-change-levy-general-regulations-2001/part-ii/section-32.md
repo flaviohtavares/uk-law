@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**32.**[^key-edb619c9ce2a76e8d1a49be6cc7f0871] A reference in regulation 29 or 30 to an amount in respect of tax or duty includes a reference to an amount of any related penalty, surcharge or interest that may be recovered as if it was an amount of tax or duty.
+**32.**[^c-edb619c9ce2a76e8d1a49be6cc7f0871] A reference in regulation 29 or 30 to an amount in respect of tax or duty includes a reference to an amount of any related penalty, surcharge or interest that may be recovered as if it was an amount of tax or duty.
 
 ## Annotations
 
-[^key-edb619c9ce2a76e8d1a49be6cc7f0871]: Commencement: Reg. 32 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-edb619c9ce2a76e8d1a49be6cc7f0871]: Commencement: Reg. 32 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

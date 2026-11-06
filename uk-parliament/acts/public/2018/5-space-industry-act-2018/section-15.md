@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Transfer, variation, suspension or termination of licence[^key-d3b3daf56585a5c74b7fadcf1a669fbc]
+## 15. Transfer, variation, suspension or termination of licence[^c-d3b3daf56585a5c74b7fadcf1a669fbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ the regulator may vary or suspend the licence pending the outcome of the investi
 
 ## Annotations
 
-[^key-d3b3daf56585a5c74b7fadcf1a669fbc]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2018/5/section/15) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/32) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-d3b3daf56585a5c74b7fadcf1a669fbc]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2018/5/section/15) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/32) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

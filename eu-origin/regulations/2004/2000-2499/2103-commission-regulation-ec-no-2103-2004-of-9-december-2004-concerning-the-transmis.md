@@ -33,60 +33,60 @@ of 9 December 2004
 
 concerning the transmission of data on certain fisheries in the western waters and the Baltic Sea (revoked)
 
-[^key-b97ed333ca24fcaaeb26b6b36a724a63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b97ed333ca24fcaaeb26b6b36a724a63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — WESTERN WATERS[^key-b97ed333ca24fcaaeb26b6b36a724a63]
+## CHAPTER I — WESTERN WATERS[^c-b97ed333ca24fcaaeb26b6b36a724a63]
 
-### Article 1. Lists of vessels with special fishing permit[^key-b97ed333ca24fcaaeb26b6b36a724a63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Fishing effort[^key-b97ed333ca24fcaaeb26b6b36a724a63]
+### Article 1. Lists of vessels with special fishing permit[^c-b97ed333ca24fcaaeb26b6b36a724a63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — THE BALTIC SEA[^key-b97ed333ca24fcaaeb26b6b36a724a63]
-
-### Article 3. Lists of vessels with special fishing permit[^key-b97ed333ca24fcaaeb26b6b36a724a63]
+### Article 2. Fishing effort[^c-b97ed333ca24fcaaeb26b6b36a724a63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Fishing effort[^key-b97ed333ca24fcaaeb26b6b36a724a63]
+## CHAPTER II — THE BALTIC SEA[^c-b97ed333ca24fcaaeb26b6b36a724a63]
+
+### Article 3. Lists of vessels with special fishing permit[^c-b97ed333ca24fcaaeb26b6b36a724a63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — GENERAL PROVISIONS[^key-b97ed333ca24fcaaeb26b6b36a724a63]
-
-### Article 5. Transfer of data and access to data[^key-b97ed333ca24fcaaeb26b6b36a724a63]
+### Article 4. Fishing effort[^c-b97ed333ca24fcaaeb26b6b36a724a63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Repeal[^key-b97ed333ca24fcaaeb26b6b36a724a63]
+## CHAPTER III — GENERAL PROVISIONS[^c-b97ed333ca24fcaaeb26b6b36a724a63]
+
+### Article 5. Transfer of data and access to data[^c-b97ed333ca24fcaaeb26b6b36a724a63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Entry into force[^key-b97ed333ca24fcaaeb26b6b36a724a63]
+### Article 6. Repeal[^c-b97ed333ca24fcaaeb26b6b36a724a63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b97ed333ca24fcaaeb26b6b36a724a63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-b97ed333ca24fcaaeb26b6b36a724a63]
+### Article 7. Entry into force[^c-b97ed333ca24fcaaeb26b6b36a724a63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-b97ed333ca24fcaaeb26b6b36a724a63]
+[^c-b97ed333ca24fcaaeb26b6b36a724a63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-b97ed333ca24fcaaeb26b6b36a724a63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-b97ed333ca24fcaaeb26b6b36a724a63]
+## ANNEX II[^c-b97ed333ca24fcaaeb26b6b36a724a63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-b97ed333ca24fcaaeb26b6b36a724a63]
+## ANNEX III[^c-b97ed333ca24fcaaeb26b6b36a724a63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX IV[^c-b97ed333ca24fcaaeb26b6b36a724a63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b97ed333ca24fcaaeb26b6b36a724a63]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b97ed333ca24fcaaeb26b6b36a724a63]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

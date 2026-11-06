@@ -27,7 +27,7 @@ summary: ''
 
 but shall not make an order in respect of an existing institution without the consent of the governing body.
 
-(2)[^c11062411] Subsection (1) above does not apply to an institution which is maintained by a local authority[^key-5ca14e1c5c9fb4ff32ae914fdd63af76].
+(2)[^c11062411] Subsection (1) above does not apply to an institution which is maintained by a local authority[^c-5ca14e1c5c9fb4ff32ae914fdd63af76].
 
 (3) The Secretary of State may by order make provision for the establishment of a body corporate for the purpose of conducting an institution which—
 
@@ -46,4 +46,4 @@ but shall not make an order in respect of an existing institution without the co
 
 [^c11062411]: Textual amendment: S. 16(2)(3) substituted (1.10.2000 for E. and 1.4.2001 for W.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 111(1)](https://www.legislation.gov.uk/ukpga/2000/21/section/111/1); [S.I. 2000/2559](https://www.legislation.gov.uk/uksi/2000/2559), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2559/article/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2000/2559/schedule/part/I); [S.I. 2001/1274](https://www.legislation.gov.uk/uksi/2001/1274), [art. 2](https://www.legislation.gov.uk/uksi/2001/1274/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1274/schedule/part/I)
 
-[^key-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
+[^c-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Further provision about the right of use[^key-e07db24d1aa08f4cd450b0e43dfeb919]
+## 44. Further provision about the right of use[^c-e07db24d1aa08f4cd450b0e43dfeb919]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ and the circumstances at the time of that decision were such that L would not ha
 
 ## Annotations
 
-[^key-e07db24d1aa08f4cd450b0e43dfeb919]: Commencement: S. 44 in force at 12.4.2015, see s. 57(7)(b)
+[^c-e07db24d1aa08f4cd450b0e43dfeb919]: Commencement: S. 44 in force at 12.4.2015, see s. 57(7)(b)

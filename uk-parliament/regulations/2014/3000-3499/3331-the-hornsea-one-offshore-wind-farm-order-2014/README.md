@@ -47,7 +47,7 @@ The Examining authority, having considered the application with the documents th
 
 The Secretary of State, having considered the report and recommendation of the Panel, and decided the application, has determined to make an Order giving effect to the proposals comprised in the application with modifications which in his opinion do not make substantial change to the proposals;
 
-The Secretary of State, in exercise of the powers conferred by sections 114, 115, 120, and 149A of the 2008 Act, makes the following Order:[^key-7fb63e95f2900d0f2677cffd28abf172]
+The Secretary of State, in exercise of the powers conferred by sections 114, 115, 120, and 149A of the 2008 Act, makes the following Order:[^c-7fb63e95f2900d0f2677cffd28abf172]
 
 ## Contents
 
@@ -176,4 +176,4 @@ A copy of the plans and book of reference referred to in this Order and certifie
 
 [^f00003]: Footnote: [S.I. 2010/103](https://www.legislation.gov.uk/uksi/2010/103). Amended by [SI 2012/635](https://www.legislation.gov.uk/uksi/2012/635).
 
-[^key-7fb63e95f2900d0f2677cffd28abf172]: Modification: [Order](https://www.legislation.gov.uk/uksi/2014/3331) modified (1.4.2016) by [The Hornsea One Offshore Wind Farm (Amendment) Order 2016 (S.I. 2016/471)](https://www.legislation.gov.uk/uksi/2016/471), [arts. 1](https://www.legislation.gov.uk/uksi/2016/471/article/1), [4](https://www.legislation.gov.uk/uksi/2016/471/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2016/471/schedule)
+[^c-7fb63e95f2900d0f2677cffd28abf172]: Modification: [Order](https://www.legislation.gov.uk/uksi/2014/3331) modified (1.4.2016) by [The Hornsea One Offshore Wind Farm (Amendment) Order 2016 (S.I. 2016/471)](https://www.legislation.gov.uk/uksi/2016/471), [arts. 1](https://www.legislation.gov.uk/uksi/2016/471/article/1), [4](https://www.legislation.gov.uk/uksi/2016/471/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2016/471/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Directions[^key-9d3ecc9523cacaafb2ebb6555303d3eb][^key-3c416108d714609234a3f77e61e1e30b]
+## 25. Directions[^c-9d3ecc9523cacaafb2ebb6555303d3eb][^c-3c416108d714609234a3f77e61e1e30b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d3ecc9523cacaafb2ebb6555303d3eb]: Textual amendment: Pt. 1 Ch. 2 repealed (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
+[^c-9d3ecc9523cacaafb2ebb6555303d3eb]: Textual amendment: Pt. 1 Ch. 2 repealed (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
 
-[^key-3c416108d714609234a3f77e61e1e30b]: Commencement: S. 25 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-3c416108d714609234a3f77e61e1e30b]: Commencement: S. 25 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

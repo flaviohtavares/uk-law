@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Measures in a surveillance zone[^key-faa495193063f61d97f08c3d89fb9b5f]
+## 31. Measures in a surveillance zone[^c-faa495193063f61d97f08c3d89fb9b5f]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faa495193063f61d97f08c3d89fb9b5f]: Commencement: Reg. 31 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-faa495193063f61d97f08c3d89fb9b5f]: Commencement: Reg. 31 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

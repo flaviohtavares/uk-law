@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — ACTIVITIES IN RELATION TO WHICH SERVICE DELIVERY STANDARDS MUST BE SPECIFIED[^key-4d92b146b5541d3bc61d7be1e0fe0ad9]
+## SCHEDULE 9 — ACTIVITIES IN RELATION TO WHICH SERVICE DELIVERY STANDARDS MUST BE SPECIFIED[^c-4d92b146b5541d3bc61d7be1e0fe0ad9]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ These are the activities referred to in section 42(2)—
 
 ## Annotations
 
-[^key-4d92b146b5541d3bc61d7be1e0fe0ad9]: Commencement: Sch. 9 in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/969/article/2/j)
+[^c-4d92b146b5541d3bc61d7be1e0fe0ad9]: Commencement: Sch. 9 in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/969/article/2/j)

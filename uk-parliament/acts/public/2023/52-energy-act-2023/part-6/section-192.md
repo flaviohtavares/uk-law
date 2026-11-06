@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Modification of designated documents by GEMA[^key-e6cbad93d8100f70785405b5d28e9ebc][^key-08344a8e232b43c7eec55808604ba9ce]
+## 192. Modification of designated documents by GEMA[^c-e6cbad93d8100f70785405b5d28e9ebc][^c-08344a8e232b43c7eec55808604ba9ce]
 
 *Extent: E+W+S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e6cbad93d8100f70785405b5d28e9ebc]: Commencement: S. 192 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-e6cbad93d8100f70785405b5d28e9ebc]: Commencement: S. 192 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-08344a8e232b43c7eec55808604ba9ce]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2023/52/section/192) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/vi)
+[^c-08344a8e232b43c7eec55808604ba9ce]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2023/52/section/192) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/vi)

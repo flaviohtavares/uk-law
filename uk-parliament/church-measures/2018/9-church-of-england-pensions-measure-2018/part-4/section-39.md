@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 39. Schemes for church workers[^key-d5d0de8f9f633c6e21b8266dc782735d]
+## 39. Schemes for church workers[^c-d5d0de8f9f633c6e21b8266dc782735d]
 
 *Extent: E*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) The Board must continue to administer or to participate with others in the administration of any pension scheme established or administered under section 27 of the Clergy Pensions Measure 1961 and continuing to have effect under section 1 of this Measure; and the scheme is to be treated as if it had been established under this section.
 
-(3) A deaconess , licensed lay worker or lay residentiary canon[^key-180156309d8b3296b3553ebf84554fa0] who is performing or has performed pensionable service is not eligible to join a scheme established or administered under this section, unless the Board gives him or her permission to do so.
+(3) A deaconess , licensed lay worker or lay residentiary canon[^c-180156309d8b3296b3553ebf84554fa0] who is performing or has performed pensionable service is not eligible to join a scheme established or administered under this section, unless the Board gives him or her permission to do so.
 
 (4) The Board may give a clerk permission to join a scheme established or administered under this section.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5d0de8f9f633c6e21b8266dc782735d]: Commencement: [S. 39](https://www.legislation.gov.uk/ukcm/2018/9/section/39) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-d5d0de8f9f633c6e21b8266dc782735d]: Commencement: [S. 39](https://www.legislation.gov.uk/ukcm/2018/9/section/39) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-180156309d8b3296b3553ebf84554fa0]: Textual amendment: Words in [s. 39(3)](https://www.legislation.gov.uk/ukcm/2018/9/section/39/3) substituted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 11(d)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/11/d)
+[^c-180156309d8b3296b3553ebf84554fa0]: Textual amendment: Words in [s. 39(3)](https://www.legislation.gov.uk/ukcm/2018/9/section/39/3) substituted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 11(d)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/11/d)

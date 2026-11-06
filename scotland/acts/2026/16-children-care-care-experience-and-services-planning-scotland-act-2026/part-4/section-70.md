@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Commencement[^key-1011c56299ea03cb09ca2ee8383a0a14]
+## 70. Commencement[^c-1011c56299ea03cb09ca2ee8383a0a14]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1011c56299ea03cb09ca2ee8383a0a14]: Commencement: S. 70 in force at 16.5.2026, see [s. 70(1)](https://www.legislation.gov.uk/asp/2026/16/section/70/1)
+[^c-1011c56299ea03cb09ca2ee8383a0a14]: Commencement: S. 70 in force at 16.5.2026, see [s. 70(1)](https://www.legislation.gov.uk/asp/2026/16/section/70/1)

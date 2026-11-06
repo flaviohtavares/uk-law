@@ -125,10 +125,10 @@ Regulation 4
 </tbody>
 </table>
 
-[^key-a0c27519f4b74ebc48602760a2ebc5f2][^key-025c0cb11352b324d0b35feea4196ea3]
+[^c-a0c27519f4b74ebc48602760a2ebc5f2][^c-025c0cb11352b324d0b35feea4196ea3]
 
 ## Annotations
 
-[^key-a0c27519f4b74ebc48602760a2ebc5f2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2016/244/schedule/1) substituted (11.12.2017) by [The Seed Marketing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/222)](https://www.legislation.gov.uk/nisr/2017/222), [regs. 1](https://www.legislation.gov.uk/nisr/2017/222/regulation/1), [2](https://www.legislation.gov.uk/nisr/2017/222/regulation/2)
+[^c-a0c27519f4b74ebc48602760a2ebc5f2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2016/244/schedule/1) substituted (11.12.2017) by [The Seed Marketing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/222)](https://www.legislation.gov.uk/nisr/2017/222), [regs. 1](https://www.legislation.gov.uk/nisr/2017/222/regulation/1), [2](https://www.legislation.gov.uk/nisr/2017/222/regulation/2)
 
-[^key-025c0cb11352b324d0b35feea4196ea3]: Textual amendment: Words in Sch. 1 Table substituted (28.12.2020) by [The Seed Marketing (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/301)](https://www.legislation.gov.uk/nisr/2020/301), [regs. 1](https://www.legislation.gov.uk/nisr/2020/301/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/301/regulation/2/3) (as amended by [S.R. 2020/322](https://www.legislation.gov.uk/nisr/2020/322), [regs. 1](https://www.legislation.gov.uk/nisr/2020/322/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/322/regulation/2))
+[^c-025c0cb11352b324d0b35feea4196ea3]: Textual amendment: Words in Sch. 1 Table substituted (28.12.2020) by [The Seed Marketing (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/301)](https://www.legislation.gov.uk/nisr/2020/301), [regs. 1](https://www.legislation.gov.uk/nisr/2020/301/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/301/regulation/2/3) (as amended by [S.R. 2020/322](https://www.legislation.gov.uk/nisr/2020/322), [regs. 1](https://www.legislation.gov.uk/nisr/2020/322/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/322/regulation/2))

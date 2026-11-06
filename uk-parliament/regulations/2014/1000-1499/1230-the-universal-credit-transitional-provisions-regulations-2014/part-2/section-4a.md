@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Restriction on claims for universal credit by persons entitled to a severe disability premium[^key-37511902e658774cb7b812ddda21bfd6]
+## 4A. Restriction on claims for universal credit by persons entitled to a severe disability premium[^c-37511902e658774cb7b812ddda21bfd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37511902e658774cb7b812ddda21bfd6]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2014/1230/regulation/4A) revoked (27.1.2021) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/5), [7](https://www.legislation.gov.uk/uksi/2019/1152/regulation/7)
+[^c-37511902e658774cb7b812ddda21bfd6]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2014/1230/regulation/4A) revoked (27.1.2021) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/5), [7](https://www.legislation.gov.uk/uksi/2019/1152/regulation/7)

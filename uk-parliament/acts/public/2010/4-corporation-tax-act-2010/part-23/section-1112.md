@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1112. Arrangements between companies[^key-c084ad7e12276bd3fc3be1e4be25004d]
+## 1112. Arrangements between companies[^c-c084ad7e12276bd3fc3be1e4be25004d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c084ad7e12276bd3fc3be1e4be25004d]: Modification: S. 1112 applied by 2004 c. 12, s. 196L(3) (as inserted (with effect in accordance with Sch. 13 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/15) (with [Sch. 13 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/4)))
+[^c-c084ad7e12276bd3fc3be1e4be25004d]: Modification: S. 1112 applied by 2004 c. 12, s. 196L(3) (as inserted (with effect in accordance with Sch. 13 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/15) (with [Sch. 13 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/4)))

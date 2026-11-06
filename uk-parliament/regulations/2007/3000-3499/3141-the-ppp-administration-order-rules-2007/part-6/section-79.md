@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Payment into court[^key-b20fdae82ae6b27139175ef7c054fd11]
+## 79. Payment into court[^c-b20fdae82ae6b27139175ef7c054fd11]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The CPR relating to payment into and out of court of money lodged in court as se
 
 ## Annotations
 
-[^key-b20fdae82ae6b27139175ef7c054fd11]: Commencement: [Rule 79](https://www.legislation.gov.uk/uksi/2007/3141/rule/79) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-b20fdae82ae6b27139175ef7c054fd11]: Commencement: [Rule 79](https://www.legislation.gov.uk/uksi/2007/3141/rule/79) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Her Majesty may by Order in Council provide for any functions exercisable by a member of the Scottish Government[^key-1a6eec0a223077253e974615c6946a62] to be exercisable—
+(1) Her Majesty may by Order in Council provide for any functions exercisable by a member of the Scottish Government[^c-1a6eec0a223077253e974615c6946a62] to be exercisable—
 
 - (a) by a Minister of the Crown instead of by the member of the Scottish Government,
 - (b) by a Minister of the Crown concurrently with the member of the Scottish Government, or
@@ -36,4 +36,4 @@ summary: ''
 
 [^c20293821]: Modification: S. 108 modified (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 8(2)(3)](https://www.legislation.gov.uk/ukpga/2005/11/section/8/2/3), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/e)
 
-[^key-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)

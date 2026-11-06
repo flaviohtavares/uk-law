@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Offences under section 199 committed by partnerships[^key-66bfa59e1a75d32c1dffc04b4bb486d9][^key-2622c68893f660f4aa8e5f7d61f05bfb]
+## 203. Offences under section 199 committed by partnerships[^c-66bfa59e1a75d32c1dffc04b4bb486d9][^c-2622c68893f660f4aa8e5f7d61f05bfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66bfa59e1a75d32c1dffc04b4bb486d9]: Commencement: S. 203 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-66bfa59e1a75d32c1dffc04b4bb486d9]: Commencement: S. 203 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-2622c68893f660f4aa8e5f7d61f05bfb]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2023/56/section/203) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)
+[^c-2622c68893f660f4aa8e5f7d61f05bfb]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2023/56/section/203) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)

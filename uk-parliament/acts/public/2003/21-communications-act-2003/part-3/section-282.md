@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282. Power to repeal or modify Channel 3 news provider provisions[^key-441c5bf4daa99f0d30431c9dc0dcc898]
+## 282. Power to repeal or modify Channel 3 news provider provisions[^c-441c5bf4daa99f0d30431c9dc0dcc898]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-441c5bf4daa99f0d30431c9dc0dcc898]: Commencement: S. 282 in force at 12.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 2](https://www.legislation.gov.uk/uksi/2003/3142/article/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-441c5bf4daa99f0d30431c9dc0dcc898]: Commencement: S. 282 in force at 12.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 2](https://www.legislation.gov.uk/uksi/2003/3142/article/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

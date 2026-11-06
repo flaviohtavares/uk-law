@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 629. Tax avoidance[^key-5d1c1e2dad29dafba045bcb3e9cf08c5]
+## 629. Tax avoidance[^c-5d1c1e2dad29dafba045bcb3e9cf08c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d1c1e2dad29dafba045bcb3e9cf08c5]: Textual amendment: S. 629 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 80](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/80)
+[^c-5d1c1e2dad29dafba045bcb3e9cf08c5]: Textual amendment: S. 629 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 80](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/80)

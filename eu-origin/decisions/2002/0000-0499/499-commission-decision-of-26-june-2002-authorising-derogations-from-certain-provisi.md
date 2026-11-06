@@ -40,82 +40,82 @@ authorising derogations from certain provisions of Council Directive 2000/29/EC 
 
 (2002/499/EC) (revoked)
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-a54d4ed6d63d1badc4c6e62e29787c51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Specific conditions applying to plants, originating in the Republic of Korea, benefiting from the derogation provided for in Article 1 of this Decision[^key-a54d4ed6d63d1badc4c6e62e29787c51]
+## ANNEX — Specific conditions applying to plants, originating in the Republic of Korea, benefiting from the derogation provided for in Article 1 of this Decision[^c-a54d4ed6d63d1badc4c6e62e29787c51]
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]2.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]3.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]4.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]5.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]6.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]7.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]8.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]9.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]10.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]11.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]12.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]13.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]12.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]14.
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]13.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]14.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a54d4ed6d63d1badc4c6e62e29787c51]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-a54d4ed6d63d1badc4c6e62e29787c51]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

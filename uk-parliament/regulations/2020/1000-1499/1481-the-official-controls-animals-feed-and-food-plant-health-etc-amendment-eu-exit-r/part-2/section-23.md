@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Omission of Title 6, Chapter 3[^key-c80466899addf34ae41d3e902ac33a65]
+## 23. Omission of Title 6, Chapter 3[^c-c80466899addf34ae41d3e902ac33a65]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Chapter 3 of Title 6.
 
 ## Annotations
 
-[^key-c80466899addf34ae41d3e902ac33a65]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-c80466899addf34ae41d3e902ac33a65]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

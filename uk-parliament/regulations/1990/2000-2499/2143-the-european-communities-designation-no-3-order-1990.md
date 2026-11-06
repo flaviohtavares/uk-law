@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) (No. 3)Order 1990 (revoked)[^key-d6aab3a73ac2a61a6fa8fc6fa68d9877]
+The European Communities (Designation) (No. 3)Order 1990 (revoked)[^c-d6aab3a73ac2a61a6fa8fc6fa68d9877]
 
 Made
 
@@ -51,30 +51,30 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-d6aab3a73ac2a61a6fa8fc6fa68d9877]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6aab3a73ac2a61a6fa8fc6fa68d9877]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d6aab3a73ac2a61a6fa8fc6fa68d9877]
+## 1. Citation and commencement[^c-d6aab3a73ac2a61a6fa8fc6fa68d9877]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Minister[^key-d6aab3a73ac2a61a6fa8fc6fa68d9877]
+## 2. Designation of Minister[^c-d6aab3a73ac2a61a6fa8fc6fa68d9877]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6aab3a73ac2a61a6fa8fc6fa68d9877]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6aab3a73ac2a61a6fa8fc6fa68d9877]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-d6aab3a73ac2a61a6fa8fc6fa68d9877]
+## SCHEDULE[^c-d6aab3a73ac2a61a6fa8fc6fa68d9877]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6aab3a73ac2a61a6fa8fc6fa68d9877]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6aab3a73ac2a61a6fa8fc6fa68d9877]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6aab3a73ac2a61a6fa8fc6fa68d9877]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1990/2143) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6aab3a73ac2a61a6fa8fc6fa68d9877]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1990/2143) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

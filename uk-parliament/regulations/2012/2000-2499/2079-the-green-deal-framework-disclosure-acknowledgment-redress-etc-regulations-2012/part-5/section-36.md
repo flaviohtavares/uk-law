@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Condition as to other matters – confirmation from bill payer and owners[^key-01e05503b03f9f655b64fc0d88bd07de]
+## 36. Condition as to other matters – confirmation from bill payer and owners[^c-01e05503b03f9f655b64fc0d88bd07de]
 
 *Extent: E+W+S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01e05503b03f9f655b64fc0d88bd07de]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2012/2079/regulation/36) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-01e05503b03f9f655b64fc0d88bd07de]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2012/2079/regulation/36) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
 
 [^f00029]: Footnote: The terms of the plan which bind a bill payer are set out in regulation 40.

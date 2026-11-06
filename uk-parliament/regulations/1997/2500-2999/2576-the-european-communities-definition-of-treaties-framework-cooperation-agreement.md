@@ -30,7 +30,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Framework Cooperation Agreement between the European Community and its Member States and the Republic of Chile) Order 1997 (revoked)[^key-28783b93af6fb64778964c1fe4e5af0a]
+The European Communities (Definition of Treaties) (Framework Cooperation Agreement between the European Community and its Member States and the Republic of Chile) Order 1997 (revoked)[^c-28783b93af6fb64778964c1fe4e5af0a]
 
 Made
 
@@ -38,26 +38,26 @@ Made
 
 Coming into force in accordance with Article 1
 
-[^key-28783b93af6fb64778964c1fe4e5af0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28783b93af6fb64778964c1fe4e5af0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-28783b93af6fb64778964c1fe4e5af0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-28783b93af6fb64778964c1fe4e5af0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-28783b93af6fb64778964c1fe4e5af0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-28783b93af6fb64778964c1fe4e5af0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28783b93af6fb64778964c1fe4e5af0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28783b93af6fb64778964c1fe4e5af0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-28783b93af6fb64778964c1fe4e5af0a]
+## SCHEDULE[^c-28783b93af6fb64778964c1fe4e5af0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-28783b93af6fb64778964c1fe4e5af0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28783b93af6fb64778964c1fe4e5af0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-28783b93af6fb64778964c1fe4e5af0a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1997/2576) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28783b93af6fb64778964c1fe4e5af0a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1997/2576) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

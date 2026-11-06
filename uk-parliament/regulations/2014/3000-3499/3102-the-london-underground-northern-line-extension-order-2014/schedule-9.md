@@ -22,7 +22,7 @@ summary: ''
 
 Article 40
 
-### PART 1 — PARKING PLACES[^key-4e6241a59b5ba381a9f2200846420db3]
+### PART 1 — PARKING PLACES[^c-4e6241a59b5ba381a9f2200846420db3]
 
 <table>
 <thead>
@@ -40,7 +40,7 @@ Article 40
 </tbody>
 </table>
 
-### PART 2 — BUS LANES[^key-e80ff1c730aac0faf4d27280a6f4151a]
+### PART 2 — BUS LANES[^c-e80ff1c730aac0faf4d27280a6f4151a]
 
 <table>
 <thead>
@@ -57,7 +57,7 @@ Article 40
 </tbody>
 </table>
 
-### PART 3 — PEDESTRIAN CROSSINGS[^key-238a836d2c6416e5340df02301b2d91e]
+### PART 3 — PEDESTRIAN CROSSINGS[^c-238a836d2c6416e5340df02301b2d91e]
 
 <table>
 <thead>
@@ -74,8 +74,8 @@ Article 40
 
 ## Annotations
 
-[^key-4e6241a59b5ba381a9f2200846420db3]: Commencement: Sch. 9 Pt. 1 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-4e6241a59b5ba381a9f2200846420db3]: Commencement: Sch. 9 Pt. 1 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
 
-[^key-e80ff1c730aac0faf4d27280a6f4151a]: Commencement: Sch. 9 Pt. 2 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-e80ff1c730aac0faf4d27280a6f4151a]: Commencement: Sch. 9 Pt. 2 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
 
-[^key-238a836d2c6416e5340df02301b2d91e]: Commencement: Sch. 9 Pt. 3 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-238a836d2c6416e5340df02301b2d91e]: Commencement: Sch. 9 Pt. 3 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

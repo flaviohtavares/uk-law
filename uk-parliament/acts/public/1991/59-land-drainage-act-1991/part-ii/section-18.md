@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where—
 
-- (a) the appropriate agency[^key-78f172c44640741ace56f9d631824917] is of the opinion that any land is capable of improvement by drainage works but that the constitution for that purpose of an internal drainage district would not be practicable; or
+- (a) the appropriate agency[^c-78f172c44640741ace56f9d631824917] is of the opinion that any land is capable of improvement by drainage works but that the constitution for that purpose of an internal drainage district would not be practicable; or
 - (b) a local authority other than a district council is of that opinion in relation to any land in their area,
 
 the appropriate agency or, as the case may be, that local authority may, in accordance with the provisions of a scheme made by it or them under this section, enter on the land and carry out such drainage works as appear to it or them desirable.
@@ -56,6 +56,6 @@ shall, according to the apportionment provided for by the scheme, be recoverable
 
 ## Annotations
 
-[^key-78f172c44640741ace56f9d631824917]: Textual amendment: Word in [s. 18](https://www.legislation.gov.uk/ukpga/1991/59/section/18) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 320](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/320) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-78f172c44640741ace56f9d631824917]: Textual amendment: Word in [s. 18](https://www.legislation.gov.uk/ukpga/1991/59/section/18) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 320](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/320) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1415385]: Textual amendment: S. 18(1A) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), [Sch. 11](https://www.legislation.gov.uk/ukpga/1994/19/schedule/11), [Pt. II](https://www.legislation.gov.uk/ukpga/1994/19/part/II), [para. 4(5)](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/4/5) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art.3](https://www.legislation.gov.uk/uksi/1996/186/article/3)

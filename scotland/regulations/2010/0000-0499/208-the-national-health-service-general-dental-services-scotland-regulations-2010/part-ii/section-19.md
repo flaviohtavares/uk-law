@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Emergency dental services[^key-886693c43b0296c30b03b0127ef4ccc8]
+## 19. Emergency dental services[^c-886693c43b0296c30b03b0127ef4ccc8]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-886693c43b0296c30b03b0127ef4ccc8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2010/208/regulation/19) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-886693c43b0296c30b03b0127ef4ccc8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2010/208/regulation/19) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

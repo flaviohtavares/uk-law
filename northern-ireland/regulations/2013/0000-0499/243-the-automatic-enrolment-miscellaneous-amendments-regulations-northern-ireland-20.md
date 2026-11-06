@@ -40,7 +40,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 107A(15)(b) and 177(2) and (3) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Articles 49(8) and 166(1) and (2) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and sections 3(2), 4(5), 5(2), 8(4) to (6), 10, 11, 15, 23(1)(c), (3) and (6), 33(2), 37(3) and 113(2) of the Pensions (No. 2) Act (Northern Ireland) 2008[^f00004].
 
-## 1. Citation, commencement and interpretation[^key-1c4e6e73767e5e15cc1b0b5ee2d832e5]
+## 1. Citation, commencement and interpretation[^c-1c4e6e73767e5e15cc1b0b5ee2d832e5]
 
 (1) These Regulations may be cited as the Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 and shall come into operation—
 
@@ -49,7 +49,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-695ba22187adb1211ef8f822fd540901]
+## 2. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^c-695ba22187adb1211ef8f822fd540901]
 
 In regulation 16 of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00006] (prescribed time in which an employer must make payments to trustees or managers) for paragraphs (2) and (3) substitute—
 
@@ -69,7 +69,7 @@ In regulation 16 of the Occupational Pension Schemes (Scheme Administration) Reg
 
 .
 
-## 3. Amendment of the Personal Pension Schemes (Payments by Employers) Regulations[^key-4f08fe9473df1e73cbfe5f3d3f6bd789]
+## 3. Amendment of the Personal Pension Schemes (Payments by Employers) Regulations[^c-4f08fe9473df1e73cbfe5f3d3f6bd789]
 
 In regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulations (Northern Ireland) 2000[^f00009] (prescribed period for the purpose of calculating the due date for the payment of any contribution on behalf of an employee) for paragraphs (2) and (3) substitute—
 
@@ -89,11 +89,11 @@ In regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulati
 
 .
 
-## 4. Amendment of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations[^key-e410b8e43917fa4c9187030ff6899887][^key-c1111503a03544b93e9a40b80c66a734][^key-1664710168cd5adea6e22d267f7a76e2][^key-dc2cb7d672e665c07b473f6e49a8b1c2][^key-bc776f0f6e25d83e801a41c98cfcf5b8][^key-7e78f044ad0593bf369bed2ae65e4d22]
+## 4. Amendment of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations[^c-e410b8e43917fa4c9187030ff6899887][^c-c1111503a03544b93e9a40b80c66a734][^c-1664710168cd5adea6e22d267f7a76e2][^c-dc2cb7d672e665c07b473f6e49a8b1c2][^c-bc776f0f6e25d83e801a41c98cfcf5b8][^c-7e78f044ad0593bf369bed2ae65e4d22]
 
-(1)[^key-e410b8e43917fa4c9187030ff6899887] The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010[^f00010] are amended in accordance with paragraphs (2) to (11).
+(1)[^c-e410b8e43917fa4c9187030ff6899887] The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010[^f00010] are amended in accordance with paragraphs (2) to (11).
 
-(2)[^key-c1111503a03544b93e9a40b80c66a734] For regulation 4[^f00011] (pay reference periods for the purposes of sections 1(1)(c), 3(1)(c) and 5(1)(c)) substitute—
+(2)[^c-c1111503a03544b93e9a40b80c66a734] For regulation 4[^f00011] (pay reference periods for the purposes of sections 1(1)(c), 3(1)(c) and 5(1)(c)) substitute—
 
 > **4. Pay reference periods for the purposes of sections 1(1)(c), 3(1)(c) and 5(1)(c)**
 >
@@ -137,7 +137,7 @@ In regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulati
 
 .
 
-(3)[^key-1664710168cd5adea6e22d267f7a76e2] For regulation 5[^f00013] (pay reference periods for the purposes of sections 20(1)(b) and (c) and 26(4)(b) and (5)(b)) substitute—
+(3)[^c-1664710168cd5adea6e22d267f7a76e2] For regulation 5[^f00013] (pay reference periods for the purposes of sections 20(1)(b) and (c) and 26(4)(b) and (5)(b)) substitute—
 
 > **5. Pay reference periods for the purposes of sections 20(1)(b) and (c) and 26(4)(b) and (5)(b)**
 >
@@ -190,14 +190,14 @@ In regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulati
 
 .
 
-(4)[^key-dc2cb7d672e665c07b473f6e49a8b1c2] In regulations 6(1), 7(1) and (3), 13(2)(a), 17(1)[^f00014], 18(4)(a), 21(1)[^f00015], 24(3)[^f00016], 27(b)[^f00017], 28(a) (in substituted regulation 6(3)) and 29(a)[^f00018] (in substituted paragraph (1)) for “one month”, in each place where it occurs, substitute “6 weeks”.
+(4)[^c-dc2cb7d672e665c07b473f6e49a8b1c2] In regulations 6(1), 7(1) and (3), 13(2)(a), 17(1)[^f00014], 18(4)(a), 21(1)[^f00015], 24(3)[^f00016], 27(b)[^f00017], 28(a) (in substituted regulation 6(3)) and 29(a)[^f00018] (in substituted paragraph (1)) for “one month”, in each place where it occurs, substitute “6 weeks”.
 
-(5)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 8 (arrangements to achieve active membership)—
+(5)[^c-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 8 (arrangements to achieve active membership)—
 
 - (a) before “qualifying earnings” omit “any”;
 - (b) omit “in any applicable pay reference period”.
 
-(6)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 9 (opting out)—
+(6)[^c-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 9 (opting out)—
 
 - (a) in paragraph (6) for sub-paragraph (a)[^f00019] substitute—
 
@@ -211,7 +211,7 @@ In regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulati
 
   .
 
-(7)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 37 (test scheme: requirements to revalue accrued benefits and increase pensions in payment)—
+(7)[^c-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 37 (test scheme: requirements to revalue accrued benefits and increase pensions in payment)—
 
 - (a) in paragraph (2)(a) for “section 80(1)” substitute “section 80”;
 - (b) for paragraph (3) substitute—
@@ -223,7 +223,7 @@ In regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulati
 
   .
 
-(8)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] For regulation 38[^f00022] (staged increase in appropriate age) substitute—
+(8)[^c-bc776f0f6e25d83e801a41c98cfcf5b8] For regulation 38[^f00022] (staged increase in appropriate age) substitute—
 
 > **38. Appropriate age**
 >
@@ -233,7 +233,7 @@ In regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulati
 
 .
 
-(9)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] For regulation 39A (requirement for satisfying the test scheme under section 23(2)(b)) substitute—
+(9)[^c-bc776f0f6e25d83e801a41c98cfcf5b8] For regulation 39A (requirement for satisfying the test scheme under section 23(2)(b)) substitute—
 
 > **39A. Lump sum test scheme requirements**
 >
@@ -263,7 +263,7 @@ In regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulati
 
 .
 
-(10)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 50 (due date for the purposes of section 37(3))—
+(10)[^c-bc776f0f6e25d83e801a41c98cfcf5b8] In regulation 50 (due date for the purposes of section 37(3))—
 
 - (a) for paragraph (3) substitute—
 
@@ -282,17 +282,17 @@ In regulation 5 of the Personal Pension Schemes (Payments by Employers) Regulati
 
   .
 
-(11)[^key-bc776f0f6e25d83e801a41c98cfcf5b8] For Schedule 1 (form of opt out notice) substitute Schedule 1 as set out in the Schedule to these Regulations.
+(11)[^c-bc776f0f6e25d83e801a41c98cfcf5b8] For Schedule 1 (form of opt out notice) substitute Schedule 1 as set out in the Schedule to these Regulations.
 
-## 5. Amendment of the Employers’ Duties (Registration and Compliance) Regulations[^key-2222a12882bf8475aedbf74e1dd84806]
+## 5. Amendment of the Employers’ Duties (Registration and Compliance) Regulations[^c-2222a12882bf8475aedbf74e1dd84806]
 
 (1) The Employers’ Duties (Registration and Compliance) Regulations (Northern Ireland) 2010[^f00024] are amended in accordance with paragraphs (2) and (3).
 
 (2) In regulation 3(1)(a) and (b)[^f00025] (registration: after staging date and new PAYE schemes) for “4 months” substitute “5 months”.
 
-(3)[^key-2c979690e6ad3bb382c4b58d985f06ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2c979690e6ad3bb382c4b58d985f06ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-2d95bef1e62a7a765d1eb99a9cebfd27]
+## 6. Revocations[^c-2d95bef1e62a7a765d1eb99a9cebfd27]
 
 Regulations 2(4) to (6), (17), (19), (23)(b), (24)(b) and (c) and (26) and 4(4)(a) and (5)(a) of the Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012[^f00027] are revoked.
 
@@ -304,7 +304,7 @@ Andrew M. Hamilton
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE — Schedule to be substituted for Schedule 1 to the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010[^key-b5bc42790ff92f2fd6becbd1d7092720]
+## SCHEDULE — Schedule to be substituted for Schedule 1 to the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010[^c-b5bc42790ff92f2fd6becbd1d7092720]
 
 Regulation 4(11)
 
@@ -361,11 +361,11 @@ As these Regulations, in so far as they are made under the Pensions (Northern Ir
 
 [^f00004]: Footnote: [2008 c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13); section 4 was substituted by section 7(2) of the [Pensions Act (Northern Ireland) 2012 (c. 3 (N.I.))](https://www.legislation.gov.uk/nia/2012/3); section 23 was substituted by section 12(2) of that Act
 
-[^key-1c4e6e73767e5e15cc1b0b5ee2d832e5]: Commencement: Reg. 1 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+[^c-1c4e6e73767e5e15cc1b0b5ee2d832e5]: Commencement: Reg. 1 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-695ba22187adb1211ef8f822fd540901]: Commencement: Reg. 2 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+[^c-695ba22187adb1211ef8f822fd540901]: Commencement: Reg. 2 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
 
 [^f00006]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94); regulation 16 was substituted by regulation 48 of [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122) and paragraph (3) was amended by regulation 2(23)(b) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
 
@@ -373,21 +373,21 @@ As these Regulations, in so far as they are made under the Pensions (Northern Ir
 
 [^f00008]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
 
-[^key-4f08fe9473df1e73cbfe5f3d3f6bd789]: Commencement: Reg. 3 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+[^c-4f08fe9473df1e73cbfe5f3d3f6bd789]: Commencement: Reg. 3 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
 
 [^f00009]: Footnote: [S.R. 2000 No. 349](https://www.legislation.gov.uk/nisr/2000/349); regulation 5 was substituted by regulation 49 of [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122) and paragraphs (2) and (3) were amended by regulation 2(24)(b) and (c) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
 
-[^key-e410b8e43917fa4c9187030ff6899887]: Commencement: Reg. 4(1) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+[^c-e410b8e43917fa4c9187030ff6899887]: Commencement: Reg. 4(1) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
 
-[^key-c1111503a03544b93e9a40b80c66a734]: Commencement: Reg. 4(2) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+[^c-c1111503a03544b93e9a40b80c66a734]: Commencement: Reg. 4(2) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
 
-[^key-1664710168cd5adea6e22d267f7a76e2]: Commencement: Reg. 4(3) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+[^c-1664710168cd5adea6e22d267f7a76e2]: Commencement: Reg. 4(3) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
 
-[^key-dc2cb7d672e665c07b473f6e49a8b1c2]: Commencement: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/4) in operation at 1.4.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b)
+[^c-dc2cb7d672e665c07b473f6e49a8b1c2]: Commencement: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/4) in operation at 1.4.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b)
 
-[^key-bc776f0f6e25d83e801a41c98cfcf5b8]: Commencement: Reg. 4(5)-(11) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+[^c-bc776f0f6e25d83e801a41c98cfcf5b8]: Commencement: Reg. 4(5)-(11) in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
 
-[^key-7e78f044ad0593bf369bed2ae65e4d22]: Commencement: Reg. 4 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+[^c-7e78f044ad0593bf369bed2ae65e4d22]: Commencement: Reg. 4 in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
 
 [^f00010]: Footnote: [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122); relevant amending Regulations are [S.R. 2012 Nos. 232](https://www.legislation.gov.uk/nisr/2012/232), [237](https://www.legislation.gov.uk/nisr/2012/237) and [390](https://www.legislation.gov.uk/nisr/2012/390)
 
@@ -417,16 +417,16 @@ As these Regulations, in so far as they are made under the Pensions (Northern Ir
 
 [^f00023]: Footnote: Regulation 36(4) was amended by regulation 2(5)(a) of [S.R. 2012 No. 237](https://www.legislation.gov.uk/nisr/2012/237) and regulation 2(b) of [S.R. 2012 No. 390](https://www.legislation.gov.uk/nisr/2012/390)
 
-[^key-2222a12882bf8475aedbf74e1dd84806]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/243/regulation/5) in operation at 1.4.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b)
+[^c-2222a12882bf8475aedbf74e1dd84806]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/243/regulation/5) in operation at 1.4.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b)
 
 [^f00024]: Footnote: [S.R. 2010 No. 186](https://www.legislation.gov.uk/nisr/2010/186) as amended by [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
 
 [^f00025]: Footnote: Regulation 3(1)(a) and (b) was amended by regulation 4(4)(a) of [S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232)
 
-[^key-2c979690e6ad3bb382c4b58d985f06ab]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2013/243/regulation/5/3) revoked (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [5](https://www.legislation.gov.uk/nisr/2016/142/regulation/5)
+[^c-2c979690e6ad3bb382c4b58d985f06ab]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2013/243/regulation/5/3) revoked (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/142)](https://www.legislation.gov.uk/nisr/2016/142), [regs. 1](https://www.legislation.gov.uk/nisr/2016/142/regulation/1), [5](https://www.legislation.gov.uk/nisr/2016/142/regulation/5)
 
-[^key-2d95bef1e62a7a765d1eb99a9cebfd27]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6) in operation at 1.4.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b)
+[^c-2d95bef1e62a7a765d1eb99a9cebfd27]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/243/regulation/6) in operation at 1.4.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b)
 
 [^f00027]: Footnote: [S.R. 2012No. 232](https://www.legislation.gov.uk/nisr/2012/232)
 
-[^key-b5bc42790ff92f2fd6becbd1d7092720]: Commencement: Sch. in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)
+[^c-b5bc42790ff92f2fd6becbd1d7092720]: Commencement: Sch. in operation at 1.11.2013, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a)

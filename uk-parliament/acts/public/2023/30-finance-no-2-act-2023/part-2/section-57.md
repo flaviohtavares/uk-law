@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. “Alcohol production amount” etc[^M_I_bbf7bab2-238e-4adf-8e09-caeb45070aba][^key-1cfa6f24323617684622aced00279385]
+## 57. “Alcohol production amount” etc[^M_I_bbf7bab2-238e-4adf-8e09-caeb45070aba][^c-1cfa6f24323617684622aced00279385]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ in relation to production premises for any production year.
 
 [^M_I_bbf7bab2-238e-4adf-8e09-caeb45070aba]: Commencement: S. 57 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-1cfa6f24323617684622aced00279385]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2023/30/section/57) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-1cfa6f24323617684622aced00279385]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2023/30/section/57) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

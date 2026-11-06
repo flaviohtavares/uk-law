@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Absence of registered service manager[^key-520da44b6a84e389c36bf44774dbcdb1]
+## 33. Absence of registered service manager[^c-520da44b6a84e389c36bf44774dbcdb1]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-520da44b6a84e389c36bf44774dbcdb1]: Commencement: Reg. 33 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-520da44b6a84e389c36bf44774dbcdb1]: Commencement: Reg. 33 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

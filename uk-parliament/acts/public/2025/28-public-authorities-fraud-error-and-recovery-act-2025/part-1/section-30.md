@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Revocation[^key-caa9ebf5fc42808fdeaebf1d176f1744][^key-e346d16f46deacb1dfd6cb9af095fa06]
+## 30. Revocation[^c-caa9ebf5fc42808fdeaebf1d176f1744][^c-e346d16f46deacb1dfd6cb9af095fa06]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-caa9ebf5fc42808fdeaebf1d176f1744]: Commencement: S. 30 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-caa9ebf5fc42808fdeaebf1d176f1744]: Commencement: S. 30 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-e346d16f46deacb1dfd6cb9af095fa06]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/28/section/30) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-e346d16f46deacb1dfd6cb9af095fa06]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/28/section/30) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

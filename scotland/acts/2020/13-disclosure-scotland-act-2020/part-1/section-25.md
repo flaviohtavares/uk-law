@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Review of inclusion of removable convictions by the Scottish Ministers[^key-1c4bfcd0696c128fc3144d7123710f3e]
+## 25. Review of inclusion of removable convictions by the Scottish Ministers[^c-1c4bfcd0696c128fc3144d7123710f3e]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c4bfcd0696c128fc3144d7123710f3e]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/13/section/25) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-1c4bfcd0696c128fc3144d7123710f3e]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/13/section/25) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

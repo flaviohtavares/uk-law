@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Consequential provisions[^key-fd08a4520344427c74b0808e86305e6e]
+## 2. Consequential provisions[^c-fd08a4520344427c74b0808e86305e6e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The amendments of enactments in the Schedule to this Order have effect.
 
 ## Annotations
 
-[^key-fd08a4520344427c74b0808e86305e6e]: Commencement: Art. 2 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+[^c-fd08a4520344427c74b0808e86305e6e]: Commencement: Art. 2 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)

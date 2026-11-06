@@ -50,7 +50,7 @@ The Department of the Environment in exercise of the powers conferred by Article
 
 - “**the 1994 Order**” means the Litter (Northern Ireland) Order 1994;
 - “**the 1997 Order**” means the Waste and Contaminated Land (Northern Ireland) Order 1997; and
-- “[^key-b4c944ababd753562cbb52120d295618]**Directive Waste**” has the same meaning as “**Relevant Waste**” as set out in Schedule 1A to the Waste Management Licensing Regulations (Northern Ireland) 2003.
+- “[^c-b4c944ababd753562cbb52120d295618]**Directive Waste**” has the same meaning as “**Relevant Waste**” as set out in Schedule 1A to the Waste Management Licensing Regulations (Northern Ireland) 2003.
 
 ## 2. Waste which is not to be treated as household waste, industrial waste or commercial waste
 
@@ -67,7 +67,7 @@ The Department of the Environment in exercise of the powers conferred by Article
 (4) In this regulation—
 
 - (a) “**animal by-products**” has the meaning given in Article 3(1) of the Animal By-Products Regulation;
-- (b) “**the Animal By-Products Regulation**” means Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) [^c21933921] of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774) (Animal By-Products Regulation) as amended by[^key-9ef3ecc5326b7e2541e64fc41e3f0fe2] [Directive 2010/63/EU](https://www.legislation.gov.uk/european/directive/2010/0063) of the European Parliament of the Council .
+- (b) “**the Animal By-Products Regulation**” means Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) [^c21933921] of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774) (Animal By-Products Regulation) as amended by[^c-9ef3ecc5326b7e2541e64fc41e3f0fe2] [Directive 2010/63/EU](https://www.legislation.gov.uk/european/directive/2010/0063) of the European Parliament of the Council .
 
 ## 3. Household, industrial and commercial waste
 
@@ -154,17 +154,17 @@ Regulation 3
 (1) In this Schedule the following definitions apply—
 
 - “**agricultural waste**” means waste from premises used for agriculture within the meaning of the Agriculture Act (Northern Ireland) 1949;
-- “bed and breakfast” means an establishment meeting the criteria set out in Schedule 3 to the Categories of Tourist Establishment (Statutory Criteria) Regulations (Northern Ireland) 1992;[^key-5e2f1ca3518a957071108062748c32f4]
+- “bed and breakfast” means an establishment meeting the criteria set out in Schedule 3 to the Categories of Tourist Establishment (Statutory Criteria) Regulations (Northern Ireland) 1992;[^c-5e2f1ca3518a957071108062748c32f4]
 - “**camp site**” means land on which tents are pitched for the purpose of human habitation and land the use of which is incidental to that purpose;
 - “**charity shop**” means a premises used wholly or mainly for the sale of goods donated to a charity where the proceeds of sale (after deduction of expenses) are applied for the purposes of a charity;
 - “**clinical waste**” means waste from a healthcare activity (from medical, nursing, dental, veterinary, pharmaceutical or similar practice, investigation, treatment, care, teaching or research) that—
   - (a) contains viable micro-organisms or their toxins which are known or reliably believed to cause disease in humans or other living organisms;
   - (b) contains or is contaminated with drugs or medicine that contains a biologically active pharmaceutical agent; or
-  - (c) is a sharp, swab or dressing, or a body fluid or other biological material (including human and animal tissue) containing or contaminated with a dangerous substance within the meaning of Regulation[^key-d9c7dc31caec4f609002da3b51827037] [(EC) 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) on classification, labelling and packaging of substances and mixtures (CLP);”
+  - (c) is a sharp, swab or dressing, or a body fluid or other biological material (including human and animal tissue) containing or contaminated with a dangerous substance within the meaning of Regulation[^c-d9c7dc31caec4f609002da3b51827037] [(EC) 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) on classification, labelling and packaging of substances and mixtures (CLP);”
 - “**construction**” includes improvement, repair or alteration;
 - “**controlled waste**” means household, industrial and commercial waste or any such waste;
 - “**Directive waste**” has the same meaning as in regulation 1(3) of the Waste Management Licensing Regulations (Northern Ireland) 2003 [^c21934001];
-- “European Waste Catalogue” has the same meaning as in the Waste Management Licensing Regulations (Northern Ireland) 2003;[^key-4ab48f0d14e08f53349cd8338f0f595a]
+- “European Waste Catalogue” has the same meaning as in the Waste Management Licensing Regulations (Northern Ireland) 2003;[^c-4ab48f0d14e08f53349cd8338f0f595a]
 - “**factory**” has the meaning given in Section 175 of the Factories Act (Northern Ireland) 1965 [^c21934021];
 - “**general medical practitioner**” means a person registered in the General Practitioner Register kept by the General Medical Council under Section 34 of the Medical Act 1983 [^c21934031];
 - “guest House” means an establishment meeting the criteria set out in Schedule 2 to the Categories of Tourist Establishment (Statutory Criteria) Regulations (Northern Ireland) 1992;”
@@ -182,7 +182,7 @@ Regulation 3
 - “**scrap metal**” means any waste metal, and any broken, worn out, defaced or partly manufactured articles made wholly or partly of metal and any metallic wastes, and also includes old, broken, worn out or defaced tooltips or dies made of any of the materials commonly known as hard metal or of cemented or sintered metallic carbides;
 - “**septic tank sludge**” means residual sludge from septic tanks and other similar installations for the treatment of sewage;
 - “**sludge**” means residual sludge from sewage plants treating domestic or urban waste waters and from other sewage plants treating waste waters of a composition similar to domestic and urban waste waters;
-- “**The Waste Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council, on waste [^c21934091] , as last amended by Directive (EU) 2018/851[^key-d4afd37c4adea49fb7500fc2e05d5dc6];
+- “**The Waste Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council, on waste [^c21934091] , as last amended by Directive (EU) 2018/851[^c-d4afd37c4adea49fb7500fc2e05d5dc6];
 - “transferor” and “**transferee**” means respectively, in relation to a transfer of controlled waste by a person who is subject to the duty imposed by Article 5 of the 1997 Order, the person who in compliance with that Article transfers a written description of the waste and the person who receives that description;
 - “**vessel**” includes a hovercraft within the meaning of Section 4(1) of the Hovercraft Act 1968 [^c21934101];
 - “**waste oils**” means any mineral or synthetic lubrication or industrial oils which have become unfit for the use for which they were originally intended, such as used combustion engine oils and gearbox oils, lubricating oils, oils for turbines and hydraulic oils;
@@ -210,7 +210,7 @@ Classification by place of production
 | **4** | A vehicle or vessel used wholly for the purposes of living accommodation | Household waste | Where the vehicle or vessel is used in the course of a business for the provision of self-catering accommodation, the waste is to be treated as commercial waste |
 | **5** | A place of worship | Household waste |  |
 | **6** | A residential hostel which provides accommodation only to persons with no other permanent address or who are unable to live at their permanent address | Household waste |  |
-| **7** | A ‘Bed and Breakfast’ or a ‘Guest House’[^key-d0718ea1ab10be36916fd1f866b29da1] | Household waste |  |
+| **7** | A ‘Bed and Breakfast’ or a ‘Guest House’[^c-d0718ea1ab10be36916fd1f866b29da1] | Household waste |  |
 | **8** | Prisons, Borstals or other such penal institution | Household waste |  |
 | **9** | A charity shop selling donated goods originating from domestic property | Household waste |  |
 | **10** | A caravan or mobile home site for members of the Irish Traveller Community | Household waste |  |
@@ -225,7 +225,7 @@ Classification by place of production
 | **19** | A hotel | Commercial waste |  |
 | **20** | Any part of a ‘mixed hereditament’ used for the purposes of a trade or business | Commercial waste |  |
 | **21** | A market or fair | Commercial waste |  |
-| **22** | The practice premises of a general medical practitioner[^key-d192cd194988edc232e46e2395ef3b6a] | Commercial waste |  |
+| **22** | The practice premises of a general medical practitioner[^c-d192cd194988edc232e46e2395ef3b6a] | Commercial waste |  |
 | **23** | An office or showroom | Commercial waste |  |
 | **24** | A workshop or similar premises which is not a factory only because—<br>- (a) those working there are not employees; or<br>- (b) the work carried on there is not carried on by way of trade or for purposes of gain | Industrial waste | Where the principal activities at the premises are computer operations or the copying of documents by photographic or lithographic means the waste is to be treated as commercial waste |
 | **25** | A laboratory | Industrial waste |  |
@@ -251,10 +251,10 @@ Classification by nature of waste or activity producing waste
 | ***No.*** | ***Description*** | ***Classification*** | ***Exceptions*** |
 | --- | --- | --- | --- |
 | **1** | Waste arising from the discharge of duties under Article 7(1)(a) or (e) of the 1994 Order (duty to collect litter) | Household waste |  |
-| **2** | Waste arising from the discharge by a district council of its duty under Article 7(2) of the 1994 Order (duty to ensure roads are kept clean) where it relates to household waste as classified in Table 1[^key-cb96b96a0fbdbfe3b84ddc1368e5cf56] | Household waste |  |
+| **2** | Waste arising from the discharge by a district council of its duty under Article 7(2) of the 1994 Order (duty to ensure roads are kept clean) where it relates to household waste as classified in Table 1[^c-cb96b96a0fbdbfe3b84ddc1368e5cf56] | Household waste |  |
 | **3** | Waste arising from the discharge of duties under Article 7(1)(c), 12(10), 12C(3) and 13 of the 1994 Order (duty and powers in relation to the collection of litter) | Commercial waste |  |
 | **4** | Waste arising from the discharge of duties under Article 7(1)(b) and (d) of the 1994 Order (duties to collect litter) | Industrial waste |  |
-| **5** | Waste arising from the discharge by a district council or the Department for Regional Development of the duty under Article 7(2) of the 1994 Order (duty to ensure roads are kept clean) where it relates to industrial waste as classified in Table 1[^key-150508618d06950b8fb3c231fd427b91] | Industrial waste |  |
+| **5** | Waste arising from the discharge by a district council or the Department for Regional Development of the duty under Article 7(2) of the 1994 Order (duty to ensure roads are kept clean) where it relates to industrial waste as classified in Table 1[^c-150508618d06950b8fb3c231fd427b91] | Industrial waste |  |
 | **6** | Hazardous waste arising from the following activities carried on at premises used for the purposes of a trade or business—<br>- (a) mixing or selling paints;<br>- (b) sign writing;<br>- (c) laundering or dry cleaning;<br>- (d) developing photographic film or making photographic prints;<br>- (e) selling petrol, diesel fuel, paraffin, kerosene, heating oil or similar substances; or<br>- (f) selling pesticides, herbicides or fungicides | Industrial waste |  |
 | **7** | Waste oil, waste solvent or scrap metal | Industrial waste | Where the waste is produced at the following places it is to be treated as household waste—<br>- (a) a residential home;<br>- (b) domestic property, a caravan or land belonging to or used in connection with such a place;<br>- (c) a private garage which has a floor area of 25<sup>m2</sup> or less or is used wholly or mainly for the accommodation of a private motor vehicle;<br>- (d) private storage premises used wholly or mainly for the storage of articles of domestic use; or<br>- (e) a vehicle or vessel used wholly for the purposes of living accommodation, except where it is used in the course of a business for the provision of self-catering accommodation |
 | **8** | Waste from construction or demolition works, including preparatory works | Industrial waste | The waste is to be treated as household waste for the purposes of Articles 5(2) and (2A) of the 1997 Order only (dis-application of Article 5(1) and duty on the occupier of domestic property to transfer household waste only to an authorised person or for authorised transport purposes) |
@@ -318,13 +318,13 @@ Regulation 5(1) places a new duty on waste holders and transporters to carry Was
 
 [^c21933891]: Marginal citation: [S.I. 1997/2870 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2870)
 
-[^key-b4c944ababd753562cbb52120d295618]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/255/regulation/1/2) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4c944ababd753562cbb52120d295618]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/255/regulation/1/2) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21933911]: Marginal citation: S.R. [1990 No. 880](https://www.legislation.gov.uk/ukcm/1990/880)
 
 [^c21933921]: Marginal citation: OJ L 300,14.11.2009
 
-[^key-9ef3ecc5326b7e2541e64fc41e3f0fe2]: Textual amendment: Words in [reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2013/255/regulation/2/4/b) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/32)
+[^c-9ef3ecc5326b7e2541e64fc41e3f0fe2]: Textual amendment: Words in [reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2013/255/regulation/2/4/b) added (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/32)
 
 [^c21933931]: Marginal citation: S.R. [2002 No. 271](https://www.legislation.gov.uk/ukcm/2002/271)
 
@@ -338,13 +338,13 @@ Regulation 5(1) places a new duty on waste holders and transporters to carry Was
 
 [^c21933981]: Marginal citation: S.R. [2002 No. 248](https://www.legislation.gov.uk/ukcm/2002/248)
 
-[^key-5e2f1ca3518a957071108062748c32f4]: Textual amendment: Words in Sch. para. 1 inserted (30.5.2014) by [The Controlled Waste and Duty of Care (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/117)](https://www.legislation.gov.uk/nisr/2014/117), [regs. 1](https://www.legislation.gov.uk/nisr/2014/117/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2014/117/regulation/2/2/a)
+[^c-5e2f1ca3518a957071108062748c32f4]: Textual amendment: Words in Sch. para. 1 inserted (30.5.2014) by [The Controlled Waste and Duty of Care (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/117)](https://www.legislation.gov.uk/nisr/2014/117), [regs. 1](https://www.legislation.gov.uk/nisr/2014/117/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2014/117/regulation/2/2/a)
 
-[^key-d9c7dc31caec4f609002da3b51827037]: Textual amendment: Words in Sch. para. 1 substituted (24.12.2018) by virtue of [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 33(a)(i)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/33/a/i)
+[^c-d9c7dc31caec4f609002da3b51827037]: Textual amendment: Words in Sch. para. 1 substituted (24.12.2018) by virtue of [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 33(a)(i)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/33/a/i)
 
 [^c21934001]: Marginal citation: S.R. [2003 No. 493](https://www.legislation.gov.uk/ukcm/2003/493) as amended
 
-[^key-4ab48f0d14e08f53349cd8338f0f595a]: Textual amendment: Words in Sch. para. 1 substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 33(a)(ii)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/33/a/ii)
+[^c-4ab48f0d14e08f53349cd8338f0f595a]: Textual amendment: Words in Sch. para. 1 substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 1 para. 33(a)(ii)](https://www.legislation.gov.uk/nisr/2018/200/schedule/1/paragraph/33/a/ii)
 
 [^c21934021]: Marginal citation: S.I. [1965 c. 20](https://www.legislation.gov.uk/ukpga/1965/20) as amended by S.I. [1970 c.46](https://www.legislation.gov.uk/ukpga/1970/46) and [1971 c. 11](https://www.legislation.gov.uk/ukpga/1971/11)
 
@@ -362,14 +362,14 @@ Regulation 5(1) places a new duty on waste holders and transporters to carry Was
 
 [^c21934091]: Marginal citation: OJ No L 312, 22.11.08
 
-[^key-d4afd37c4adea49fb7500fc2e05d5dc6]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2013/255/schedule/paragraph/1/1) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2020/285/regulation/12)
+[^c-d4afd37c4adea49fb7500fc2e05d5dc6]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2013/255/schedule/paragraph/1/1) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2020/285/regulation/12)
 
 [^c21934101]: Marginal citation: S.I. [1969 c. 59](https://www.legislation.gov.uk/ukpga/1969/59)
 
-[^key-d0718ea1ab10be36916fd1f866b29da1]: Textual amendment: Words in Sch. para. 2 Table 1 item 7 substituted (30.5.2014) by [The Controlled Waste and Duty of Care (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/117)](https://www.legislation.gov.uk/nisr/2014/117), [regs. 1](https://www.legislation.gov.uk/nisr/2014/117/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2014/117/regulation/2/2/b)
+[^c-d0718ea1ab10be36916fd1f866b29da1]: Textual amendment: Words in Sch. para. 2 Table 1 item 7 substituted (30.5.2014) by [The Controlled Waste and Duty of Care (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/117)](https://www.legislation.gov.uk/nisr/2014/117), [regs. 1](https://www.legislation.gov.uk/nisr/2014/117/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2014/117/regulation/2/2/b)
 
-[^key-d192cd194988edc232e46e2395ef3b6a]: Textual amendment: Words in Sch. para. 2 Table 1 item 22 substituted (30.5.2014) by [The Controlled Waste and Duty of Care (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/117)](https://www.legislation.gov.uk/nisr/2014/117), [regs. 1](https://www.legislation.gov.uk/nisr/2014/117/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2014/117/regulation/2/2/c)
+[^c-d192cd194988edc232e46e2395ef3b6a]: Textual amendment: Words in Sch. para. 2 Table 1 item 22 substituted (30.5.2014) by [The Controlled Waste and Duty of Care (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/117)](https://www.legislation.gov.uk/nisr/2014/117), [regs. 1](https://www.legislation.gov.uk/nisr/2014/117/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2014/117/regulation/2/2/c)
 
-[^key-cb96b96a0fbdbfe3b84ddc1368e5cf56]: Textual amendment: Words in Sch. para. 3 Table 2 item 2 inserted (30.5.2014) by [The Controlled Waste and Duty of Care (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/117)](https://www.legislation.gov.uk/nisr/2014/117), [regs. 1](https://www.legislation.gov.uk/nisr/2014/117/regulation/1), [2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2014/117/regulation/2/2/d/i)
+[^c-cb96b96a0fbdbfe3b84ddc1368e5cf56]: Textual amendment: Words in Sch. para. 3 Table 2 item 2 inserted (30.5.2014) by [The Controlled Waste and Duty of Care (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/117)](https://www.legislation.gov.uk/nisr/2014/117), [regs. 1](https://www.legislation.gov.uk/nisr/2014/117/regulation/1), [2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2014/117/regulation/2/2/d/i)
 
-[^key-150508618d06950b8fb3c231fd427b91]: Textual amendment: Words in Sch. para. 3 Table 2 item 5 inserted (30.5.2014) by [The Controlled Waste and Duty of Care (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/117)](https://www.legislation.gov.uk/nisr/2014/117), [regs. 1](https://www.legislation.gov.uk/nisr/2014/117/regulation/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2014/117/regulation/2/2/d/ii)
+[^c-150508618d06950b8fb3c231fd427b91]: Textual amendment: Words in Sch. para. 3 Table 2 item 5 inserted (30.5.2014) by [The Controlled Waste and Duty of Care (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/117)](https://www.legislation.gov.uk/nisr/2014/117), [regs. 1](https://www.legislation.gov.uk/nisr/2014/117/regulation/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2014/117/regulation/2/2/d/ii)

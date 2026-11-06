@@ -48,7 +48,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and extent[^key-a6e3a825a5bbc57d90c5ec1f502b8276]
+### 1. Citation, commencement and extent[^c-a6e3a825a5bbc57d90c5ec1f502b8276]
 
 (1) These Regulations may be cited as the Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force—
 
@@ -59,7 +59,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 ## PART 2 — AMENDMENT OF REFERENCES IN SECONDARY LEGISLATION
 
-### 2. The Foot-and-Mouth Disease (Scotland) Order 2006[^key-60d7b56dff7ef584e431bc17d6bac2bf]
+### 2. The Foot-and-Mouth Disease (Scotland) Order 2006[^c-60d7b56dff7ef584e431bc17d6bac2bf]
 
 In article 2(1) (interpretation) of the Foot-and-Mouth Disease (Scotland) Order 2006 [^c23597411]—
 
@@ -71,7 +71,7 @@ In article 2(1) (interpretation) of the Foot-and-Mouth Disease (Scotland) Order 
   - (i) in paragraph (a), insert at the end “ , as last amended by Commission Implementing Regulation (EU) 2018/1587 [^c23597461] ”,
   - (ii) in paragraph (b), for “) was” substitute “ , as last amended by Commission Regulation (EU) 2017/1981 was ”.
 
-### 3. The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006[^key-b07f1471bba360d4f2619940fb5e9ddb]
+### 3. The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006[^c-b07f1471bba360d4f2619940fb5e9ddb]
 
 In regulation 2(1) (interpretation) of the Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006 [^c23597471]—
 
@@ -82,7 +82,7 @@ In regulation 2(1) (interpretation) of the Foot-and-Mouth Disease (Slaughter and
   - (i) in paragraph (a), insert at the end “ , as last amended by Commission Implementing Regulation (EU) 2018/1587 ”,
   - (ii) in paragraph (b), for “) was” substitute “ , as last amended by Commission Regulation (EU) 2017/1981 was ”.
 
-### 4. The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006[^key-e0bfbf08344b25ae51af0967c285f644]
+### 4. The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006[^c-e0bfbf08344b25ae51af0967c285f644]
 
 (1) The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006 [^c23597481] is amended as follows.
 
@@ -95,7 +95,7 @@ In regulation 2(1) (interpretation) of the Foot-and-Mouth Disease (Slaughter and
 
 (3) In paragraph 17(j) of schedule 4 (measures in a protection zone), for the words from “in accordance with” to “foodstuffs” substitute “ as referred to in Chapter II of Section X of Annex III to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin [^c23597501] ”.
 
-### 5. The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006[^key-20462db44f8d95c1b721588658ab9a0d]
+### 5. The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006[^c-20462db44f8d95c1b721588658ab9a0d]
 
 In regulation 2(1) (interpretation) of the Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006 [^c23597511]—
 
@@ -104,11 +104,11 @@ In regulation 2(1) (interpretation) of the Avian Influenza (Slaughter and Vaccin
 - (c) in the definition of “packing centre”, insert at the end “ , as last amended by Commission Delegated Regulation (EU) 2017/2168 ”,
 - (d) in the definition of “slaughterhouse”, in sub-paragraph (a), for “Commission Regulation (EU) 2018/455” substitute “ Commission Implementing Regulation (EU) 2018/1587 ”.
 
-### 6. The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007[^key-6dd275e8b02ff5b646a9c66890267a03]
+### 6. The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007[^c-6dd275e8b02ff5b646a9c66890267a03]
 
 In article 2 (interpretation) of the Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007 [^c23597521], in the definition of “Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853)”, for “853” substitute “ 853/2004 ”.
 
-### 7. The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007[^key-bbb3a6dbcb8419138b3ba87e47aeeda3]
+### 7. The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007[^c-bbb3a6dbcb8419138b3ba87e47aeeda3]
 
 (1) The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007 [^c23597531] is amended as follows.
 
@@ -126,11 +126,11 @@ In article 2 (interpretation) of the Avian Influenza (H5N1 in Wild Birds) (Scotl
 
 (4) In article 11(2)(b)(i) (restrictions on the movement of wild game bird products) omit the words from “of the European Parliament” to the end.
 
-### 8. The Cattle Identification (Scotland) Regulations 2007[^key-841da000802d8cead54d2aa0a61c3482]
+### 8. The Cattle Identification (Scotland) Regulations 2007[^c-841da000802d8cead54d2aa0a61c3482]
 
 In schedule 3 (cattle passports etc), Part 2 (movement and cattle passports), paragraph 18(1) (export to third countries) of the Cattle Identification (Scotland) Regulations 2007 [^c23597551] omit “In accordance with Article 6(5) of Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760),”.
 
-### 9. The Products of Animal Origin (Disease Control) (Scotland) Order 2008[^key-b6356b503a55d94397ffa1f9a285ca8d]
+### 9. The Products of Animal Origin (Disease Control) (Scotland) Order 2008[^c-b6356b503a55d94397ffa1f9a285ca8d]
 
 (1) The Products of Animal Origin (Disease Control) (Scotland) Order 2008 [^c23597561] is amended as follows.
 
@@ -147,15 +147,15 @@ In schedule 3 (cattle passports etc), Part 2 (movement and cattle passports), pa
   - (i) omit sub-paragraph (a),
   - (ii) omit the “or” before sub-paragraph (b).
 
-### 10. The Sheep and Goats (Records, Identification and Movement) (Scotland) Order 2009[^key-0a5dc166e195e7108ccca760cb760201]
+### 10. The Sheep and Goats (Records, Identification and Movement) (Scotland) Order 2009[^c-0a5dc166e195e7108ccca760cb760201]
 
 In article 2(1) (interpretation) of the Sheep and Goats (Records, Identification and Movement) (Scotland) Order 2009 [^c23597571], in the definition of “slaughterhouse”, insert at the end “ , as last amended by Commission Implementing Regulation (EU) 2018/981 ”.
 
-### 11. The Sheep Scab (Scotland) Order 2010[^key-d0cbbe07592ab6ba2e8061026a6c9a05]
+### 11. The Sheep Scab (Scotland) Order 2010[^c-d0cbbe07592ab6ba2e8061026a6c9a05]
 
 In article 2(1) (interpretation) of the Sheep Scab (Scotland) Order 2010 [^c23597581], in the definition of “treatment”, for “2009” substitute “ 2013 [^c23597591] ”.
 
-### 12. The Trade in Animals and Related Products (Scotland) Regulations 2012[^key-57b4eeb22911cfa00de02bd387998de2]
+### 12. The Trade in Animals and Related Products (Scotland) Regulations 2012[^c-57b4eeb22911cfa00de02bd387998de2]
 
 (1) The Trade in Animals and Related Products (Scotland) Regulations 2012 [^c23597601] are amended as follows.
 
@@ -175,13 +175,13 @@ In article 2(1) (interpretation) of the Sheep Scab (Scotland) Order 2010 [^c2359
 
 (5) In paragraph 3 (poultry health scheme) in Part 1 (additional requirements for trade between member States) of schedule 2 (additional requirements in specific cases) omit “, as last relevantly amended by Commission Implementing Decision 2011/879/EU [^c23597641]”.
 
-### 13. The Animal By-Products (Enforcement) (Scotland) Regulations 2013[^key-15065d5aad0a361e1f20cb9e3873d3bc]
+### 13. The Animal By-Products (Enforcement) (Scotland) Regulations 2013[^c-15065d5aad0a361e1f20cb9e3873d3bc]
 
 In regulation 2(1) (interpretation) of the Animal By-Products (Enforcement) (Scotland) Regulations 2013 [^c23597651], in the definition of “EU Control Regulation”, insert at the end “ , as last amended by Council Regulation (EU) No 1385/2013 ”.
 
 ## PART 3 — AMENDMENT OF SECONDARY LEGISLATION RELATING TO WITHDRAWAL FROM THE EUROPEAN UNION
 
-### 14. The Foot-and-Mouth Disease (Scotland) Order 2006[^key-7e273599ecc2cf8b63a45bbcbf1ef877]
+### 14. The Foot-and-Mouth Disease (Scotland) Order 2006[^c-7e273599ecc2cf8b63a45bbcbf1ef877]
 
 (1) The Foot-and-Mouth Disease (Scotland) Order 2006 [^c23597661] is amended as follows.
 
@@ -244,7 +244,7 @@ In regulation 2(1) (interpretation) of the Animal By-Products (Enforcement) (Sco
 
   .
 
-### 15. The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006[^key-4a4f579af3c2e97b9b77dbb84a2df009]
+### 15. The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006[^c-4a4f579af3c2e97b9b77dbb84a2df009]
 
 (1) The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006 [^c23597671] are amended as follows.
 
@@ -277,7 +277,7 @@ In regulation 2(1) (interpretation) of the Animal By-Products (Enforcement) (Sco
 
 (6) In regulation 39(b) (powers of inspectors), for the words from “(powers of” to the end substitute “ (powers of inspectors relating to retained EU law) ”[^c23597691] .
 
-### 16. The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006[^key-634b4b756ecc4a1122624dca48b76cb5]
+### 16. The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006[^c-634b4b756ecc4a1122624dca48b76cb5]
 
 (1) The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006 [^c23597701] is amended as follows.
 
@@ -285,7 +285,7 @@ In regulation 2(1) (interpretation) of the Animal By-Products (Enforcement) (Sco
 
 (3) In article 61(3) (treatment, labelling and movement of meat from poultry from a protection zone), in each of paragraphs (a), (c) and (d) for “intra-Community or international trade” substitute “ export outside the United Kingdom ”.
 
-### 17. The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006[^key-6c1948aa7621354f4222b87d24b1e8b7]
+### 17. The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006[^c-6c1948aa7621354f4222b87d24b1e8b7]
 
 (1) The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006 [^c23597711] are amended as follows.
 
@@ -333,18 +333,18 @@ In regulation 2(1) (interpretation) of the Animal By-Products (Enforcement) (Sco
 
 (7) In regulation 24(1)(b) (powers of inspectors), for the words from “(powers of” to the end substitute “ (powers of inspectors relating to retained EU law) ”.
 
-### 18. The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007[^key-fb8cd0d2aa87b72bfa7bc16028294d1f]
+### 18. The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007[^c-fb8cd0d2aa87b72bfa7bc16028294d1f]
 
 In schedule 1 (measures applicable in respect of a wild bird control area), Part 3 (movement of controlled meat), paragraph 10 (national mark) of the Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007 [^c23597721], in footnote (b) to the form after sub-paragraph (2)(c) , for “point 7” substitute “ point 6 ”.
 
-### 19. The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007[^key-52bab2cd3c9ff27c995f0d2e00937783]
+### 19. The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007[^c-52bab2cd3c9ff27c995f0d2e00937783]
 
 (1) The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007 [^c23597731] is amended as follows.
 
 (2) In article 2 (interpretation)—
 
 - (a) in the definition of “approved body”, for the words from “in accordance” to the end substitute “ by the Scottish Ministers ”,
-- (b)[^key-bf6c13b0b7774971c3a8144a029d1001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-bf6c13b0b7774971c3a8144a029d1001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) after the definition of “temporary movement restriction zone” insert—
 
   > “**third country**” means any country that is neither the United Kingdom nor a member State;
@@ -367,11 +367,11 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
 
 (7) In the schedule, in paragraph 2 (the mark for fresh meat and meat products), in footnote (b) to the form, for “point 7” substitute “ point 6 ”.
 
-### 20. The Tuberculosis (Scotland) Order 2007[^key-a97d7fae8f970f9672529b80bf4f3132]
+### 20. The Tuberculosis (Scotland) Order 2007[^c-a97d7fae8f970f9672529b80bf4f3132]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. The Cattle Identification (Scotland) Regulations 2007[^key-ebe7c00a11691c84600bc321085d9634]
+### 21. The Cattle Identification (Scotland) Regulations 2007[^c-ebe7c00a11691c84600bc321085d9634]
 
 (1) The Cattle Identification (Scotland) Regulations 2007 [^c23597751] are amended as follows.
 
@@ -403,7 +403,7 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
 
 - (a) in paragraph 2 (applications for cattle passports for animals from other member States etc.) in Part 1 (general)—
   - (i) in the heading omit “other”,
-  - (ia)[^key-8f43a1253da8a726cbe87832e5e2e242] in sub-paragraph (1), in the opening words, for “another” substitute “a”;
+  - (ia)[^c-8f43a1253da8a726cbe87832e5e2e242] in sub-paragraph (1), in the opening words, for “another” substitute “a”;
   - (ii) in sub-paragraph (1)(b)—
     - (aa) after “Regulation [(EC) No. 820/1997](https://www.legislation.gov.uk/eur/1997/820)” insert “ , Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No 820/1997](https://www.legislation.gov.uk/eur/1997/820) as it has effect in EU law, ”,
     - (bb) for “another” substitute “ a ”.
@@ -414,7 +414,7 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
   - (i) after “Regulation [(EC) No. 820/1997](https://www.legislation.gov.uk/eur/1997/820)” insert “ , Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No 820/1997](https://www.legislation.gov.uk/eur/1997/820) as it has effect in EU law, ”,
   - (ii) for “another” substitute “ a ”.
 
-### 22. The Bovine Semen (Scotland) Regulations 2007[^key-1175a8789e692cba314c9b70421abf92]
+### 22. The Bovine Semen (Scotland) Regulations 2007[^c-1175a8789e692cba314c9b70421abf92]
 
 (1) The Bovine Semen (Scotland) Regulations 2007 [^c23597771] are amended as follows.
 
@@ -475,14 +475,14 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
   > - (a) the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.1 to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) are to be read as if—
   >   - (i) the references to “competent authority” and “competent authority of a Member State” include**—**
   >     - (aa) in relation to Scotland, the Scottish Ministers,
-  >     - (bb)[^key-5a5c8187d8622d1f2e98bb219f090f4e] in relation to another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
+  >     - (bb)[^c-5a5c8187d8622d1f2e98bb219f090f4e] in relation to another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
   >   - (ii) the reference to “**on its own territory**” includes territory in the United Kingdom,
   >   - (iii) the reference to “in a Member State” were omitted,
   >   - (iv) the references to “the Member State or part of the Member State” and “the Member State or a part thereof” include the United Kingdom or part of the United Kingdom,
   > - (b) the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.2 to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) are to be read as if—
   >   - (i) the references to “competent authority” and “competent authority of a Member State” include**—**
   >     - (aa) in relation to Scotland, the Scottish Ministers,
-  >     - (bb)[^key-20e17e95de616cfd1a3f1c050b4291cd] in relation to another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
+  >     - (bb)[^c-20e17e95de616cfd1a3f1c050b4291cd] in relation to another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
   >   - (ii) the reference to “**the Member State or part of the Member state**” includes the United Kingdom or part of the United Kingdom,
   >   - (iii) the references to “Member States, or regions of Member States” and “that Member State or region” include the United Kingdom or region of the United Kingdom.
 
@@ -531,7 +531,7 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > (4) For the purposes of sub-paragraph (1)(b), Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
     >
     > - (a) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    > - (b)[^key-fd2e46c7406badab2fb8f1ec8a56d6d1] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    > - (b)[^c-fd2e46c7406badab2fb8f1ec8a56d6d1] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     > for co-ordinating the standards and methods of diagnosis referred to.
 
@@ -545,10 +545,10 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
   > - (c) the reference to “**Community legislation**” includes these Regulations and legislation having equivalent effect in another part of the United Kingdom,
   > - (d) the reference to “**in a region, Member States**” includes—
   >   - (i) in Scotland, the Scottish Ministers,
-  >   - (ii)[^key-e7b945f27528e0a04cdcbc98d54952ef] in relation to another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
+  >   - (ii)[^c-e7b945f27528e0a04cdcbc98d54952ef] in relation to another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
   > - (e) the reference to “**The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a**” includes—
   >   - (i) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-  >   - (ii)[^key-2c97908f8cd8fb080157de66448f9e5a] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+  >   - (ii)[^c-2c97908f8cd8fb080157de66448f9e5a] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
   >
   >   for co-ordinating the standards and methods of diagnosis referred to;
   > - (f) the reference to “**in their respective Member States**” includes in respective parts of the United Kingdom.
@@ -556,19 +556,19 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
   > (6) For the purposes of sub-paragraph (1)(b), Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
   >
   > - (a) the references to “each Member State” and “the Member State” include the United Kingdom,
-  > - (b)[^key-6b92916423e6c16f214251ab7b2ef60f] the references to “certification” include a “certificate” as defined in these Regulations or an equivalent certificate published by an authority in another part of the United Kingdom under legislation in force there;
+  > - (b)[^c-6b92916423e6c16f214251ab7b2ef60f] the references to “certification” include a “certificate” as defined in these Regulations or an equivalent certificate published by an authority in another part of the United Kingdom under legislation in force there;
   > - (c) the references to “intra-Community trade” include trade between the United Kingdom and a member State,
   > - (d) the reference to “**officially brucellosis-free or brucellosis-free bovine herds**” includes bovine herds which do not include bovine animals subject to measures imposed by a veterinary inspector under the Brucellosis (Scotland) Order 2009 [^c23597791] (or legislation having equivalent effect in another part of the United Kingdom),
   > - (e) the reference to “**National reference laboratories designated in accordance with Article 6a**” includes—
   >   - (i) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-  >   - (ii)[^key-63ef14937b4b17bd5d755f626b209c12] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+  >   - (ii)[^c-63ef14937b4b17bd5d755f626b209c12] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
   >
   >   for co-ordinating the standards and methods of diagnosis referred to.
   >
   > (7) For the purposes of sub-paragraph (1)(c), Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
   >
   > - (a) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-  > - (b)[^key-63131a623a64474c3f5bc2e2fd46dc15] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+  > - (b)[^c-63131a623a64474c3f5bc2e2fd46dc15] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
   >
   >   for co-ordinating the standards and methods of diagnosis referred to.
 
@@ -578,12 +578,12 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
   > (3) For the purposes of sub-paragraph (1)(a), Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
   >
   > - (a) the references to “each Member State” and “the Member State” include the United Kingdom,
-  > - (b)[^key-e80c3211152c682c130d59bc80cf336d] the references to “certification” include a “certificate” as defined in these Regulations or an equivalent certificate published by an authority in another part of the United Kingdom under legislation in force there;
+  > - (b)[^c-e80c3211152c682c130d59bc80cf336d] the references to “certification” include a “certificate” as defined in these Regulations or an equivalent certificate published by an authority in another part of the United Kingdom under legislation in force there;
   > - (c) the references to “intra-Community trade” include trade between the United Kingdom and a member State,
   > - (d) the reference to “**officially brucellosis-free or brucellosis-free bovine herds**” includes bovine herds which do not include bovine animals subject to measures imposed by a veterinary inspector under the Brucellosis (Scotland) Order 2009 (or legislation having equivalent effect in another part of the United Kingdom),
   > - (e) the reference to “**National reference laboratories designated in accordance with Article 6a**” includes—
   >   - (i) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-  >   - (ii)[^key-af1dce23be0231c61c3f16a8bfe98a2d] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+  >   - (ii)[^c-af1dce23be0231c61c3f16a8bfe98a2d] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
   >
   >   for co-ordinating the standards and methods of diagnosis referred to.
 
@@ -600,7 +600,7 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > (4) For the purposes of sub-paragraph (1)(b), Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
     >
     > - (a) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    > - (b)[^key-1944fd3f7ffaa57d3b4c115c30dceadd] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    > - (b)[^c-1944fd3f7ffaa57d3b4c115c30dceadd] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     >   for co-ordinating the standards and methods of diagnosis referred to.
 
@@ -615,10 +615,10 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > - (c) the reference to “**Community legislation**” includes these Regulations and legislation having equivalent effect in another part of the United Kingdom,
     > - (d) the reference to “**in a region, Member States**” includes—
     >   - (i) in Scotland, the Scottish Ministers,
-    >   - (ii)[^key-16327478886e610dd8354d448a469838] in another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
+    >   - (ii)[^c-16327478886e610dd8354d448a469838] in another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
     > - (e) the reference to “**The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a**” includes—
     >   - (i) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    >   - (ii)[^key-68c4339ba3fe30207b52707d349a4704] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    >   - (ii)[^c-68c4339ba3fe30207b52707d349a4704] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     >   for co-ordinating the standards and methods of diagnosis referred to;
     > - (f) the reference to “**in their respective Member States**” includes in respective parts of the United Kingdom.
@@ -626,19 +626,19 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > (8) For the purposes of sub-paragraph (1)(b), Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
     >
     > - (a) the references to “each Member State” and “the Member State” include the United Kingdom,
-    > - (b)[^key-b15e89aeb504934ef82bf6ffa5518e80] the references to “certification” include a “certificate” as defined in these Regulations or an equivalent certificate published by an authority in another part of the United Kingdom under legislation in force there;
+    > - (b)[^c-b15e89aeb504934ef82bf6ffa5518e80] the references to “certification” include a “certificate” as defined in these Regulations or an equivalent certificate published by an authority in another part of the United Kingdom under legislation in force there;
     > - (c) the references to “intra-Community trade” include trade between the United Kingdom and a member State,
     > - (d) the reference to “**officially brucellosis-free or brucellosis-free bovine herds**” includes bovine herds which do not include bovine animals subject to measures imposed by a veterinary inspector under the Brucellosis (Scotland) Order 2009 (or legislation having equivalent effect in another part of the United Kingdom),
     > - (e) the reference to “**National reference laboratories designated in accordance with Article 6a**” includes—
     >   - (i) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    >   - (ii)[^key-cfacb1b0e900d231afa95bcfd20d9592] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom
+    >   - (ii)[^c-cfacb1b0e900d231afa95bcfd20d9592] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom
     >
     >   for co-ordinating the standards and methods of diagnosis referred to.
     >
     > (9) For the purposes of sub-paragraph (1)(c), Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
     >
     > - (a) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    > - (b)[^key-522472b5d4e2be7d4a5e4c24729e0919] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    > - (b)[^c-522472b5d4e2be7d4a5e4c24729e0919] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     >   for co-ordinating the standards and methods of diagnosis referred to.
 
@@ -660,7 +660,7 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > (3) For the purposes of sub-paragraph (1)(b) and the words following that sub-paragraph, Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
     >
     > - (a) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    > - (b)[^key-82fe4d5b76af5775962b8256c313882e] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    > - (b)[^c-82fe4d5b76af5775962b8256c313882e] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     >   for co-ordinating the standards and methods of diagnosis referred to.
 
@@ -679,7 +679,7 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > (4) For the purposes of sub-paragraph (1)(b), Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
     >
     > - (a) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    > - (b)[^key-b313dc45c75128f3d11946d75912a18a] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    > - (b)[^c-b313dc45c75128f3d11946d75912a18a] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     >   for co-ordinating the standards and methods of diagnosis referred to.
 
@@ -695,10 +695,10 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > - (c) the reference to “**Community legislation**” includes these Regulations and legislation having equivalent effect in another part of the United Kingdom,
     > - (d) the reference to “**in a region, Member States**” includes—
     >   - (i) in Scotland, the Scottish Ministers,
-    >   - (ii)[^key-e24605988d4991bd8fee0de2e2dae7e8] in another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
+    >   - (ii)[^c-e24605988d4991bd8fee0de2e2dae7e8] in another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
     > - (e) the reference to “**The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a**” includes—
     >   - (i) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    >   - (ii)[^key-c8bcc99dde1fc4e9e39d5cdb935b6a27] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    >   - (ii)[^c-c8bcc99dde1fc4e9e39d5cdb935b6a27] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     >   for co-ordinating the standards and methods of diagnosis referred to;
     > - (f) the reference to “**in their respective Member States**” includes in respective parts of the United Kingdom.
@@ -706,19 +706,19 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > (3) For the purposes of sub-paragraph (1)(b), Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
     >
     > - (a) the references to “each Member State” and “the Member State” include the United Kingdom,
-    > - (b)[^key-ce4168851e79ea1ba33ffce200c121c0] the references to “certification” include a “certificate” as defined in these Regulations or an equivalent certificate published by an authority in another part of the United Kingdom under legislation in force there;
+    > - (b)[^c-ce4168851e79ea1ba33ffce200c121c0] the references to “certification” include a “certificate” as defined in these Regulations or an equivalent certificate published by an authority in another part of the United Kingdom under legislation in force there;
     > - (c) the references to “intra-Community trade” include trade between the United Kingdom and a member State,
     > - (d) the reference to “**officially brucellosis-free or brucellosis-free bovine herds**” includes bovine herds which do not include bovine animals subject to measures imposed by a veterinary inspector under the Brucellosis (Scotland) Order 2009 [^c23597811] (or legislation having equivalent effect in another part of the United Kingdom),
     > - (e) the reference to “**National reference laboratories designated in accordance with Article 6a**” includes—
     >   - (i) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    >   - (ii)[^key-764d43ca2da1006646900fa0d9b87032] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    >   - (ii)[^c-764d43ca2da1006646900fa0d9b87032] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     >   for co-ordinating the standards and methods of diagnosis referred to.
     >
     > (4) For the purposes of sub-paragraph (1)(c), Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
     >
     > - (a) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    > - (b)[^key-205d641d2dafa519360d4ecabd805278] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    > - (b)[^c-205d641d2dafa519360d4ecabd805278] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     >   for co-ordinating the standards and methods of diagnosis referred to.
 
@@ -739,7 +739,7 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > (3) For the purposes of sub-paragraph (1)(b) and the words following that sub-paragraph, Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
     >
     > - (a) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    > - (b)[^key-7a9ddcf67af7793f0d7903d38394add3] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    > - (b)[^c-7a9ddcf67af7793f0d7903d38394add3] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     > for co-ordinating the standards and methods of diagnosis referred to.
 
@@ -755,7 +755,7 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
   > (4) For the purposes of sub-paragraph (1)(b), Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
   >
   > - (a) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-  > - (b)[^key-57a579740d9d25dfb8bab68748224a84] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+  > - (b)[^c-57a579740d9d25dfb8bab68748224a84] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
   >
   > for co-ordinating the standards and methods of diagnosis referred to.
 
@@ -771,7 +771,7 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > (2) For the purposes of sub-paragraph (1)—
     >
     > - (a) paragraph 1(a) of Chapter 1 of Annex B to the Directive is to be read as if—
-    >   - (i)[^key-f9040f8ff7f825f28b74ee423b5eeebd] the reference to “competent authority” includes the authority of another part of the United Kingdom which approves accommodation for the purpose of that period of quarantine, in accordance with legislation in force in that part of the United Kingdom;
+    >   - (i)[^c-f9040f8ff7f825f28b74ee423b5eeebd] the reference to “competent authority” includes the authority of another part of the United Kingdom which approves accommodation for the purpose of that period of quarantine, in accordance with legislation in force in that part of the United Kingdom;
     >   - (ii) the reference to “**Member State**” includes the United Kingdom or part of the United Kingdom,
     > - (b) paragraph 5 of Chapter 1 of Annex B to the Directive is to be read as if the reference to “**Member States**” includes the United Kingdom or part of the United Kingdom.
 
@@ -789,14 +789,14 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > - (a) the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.1 to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) are to be read as if—
     >   - (i) the references to “competent authority” and “competent authority of a Member State” include**—**
     >     - (aa) in relation to Scotland, the Scottish Ministers,
-    >     - (bb)[^key-020429b18b0c8f0aad92ed887c1b51e9] in relation to another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
+    >     - (bb)[^c-020429b18b0c8f0aad92ed887c1b51e9] in relation to another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
     >   - (ii) the reference to “**on its own territory**” includes territory in the United Kingdom,
     >   - (iii) the reference to “in a Member State” were omitted,
     >   - (iv) the references to “the Member State or part of the Member State” and “the Member State or a part thereof” include the United Kingdom or part of the United Kingdom,
     > - (b) the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.2 to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) are to be read as if—
     >   - (i) the references to “competent authority” and “competent authority of a Member State” include**—**
     >     - (aa) in relation to Scotland, the Scottish Ministers,
-    >     - (bb)[^key-d5a3ec8970cf7bfce4f0069dcb01b987] in relation to another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
+    >     - (bb)[^c-d5a3ec8970cf7bfce4f0069dcb01b987] in relation to another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
     >   - (ii) the reference to “**the Member State or part of the Member state**” includes the United Kingdom or part of the United Kingdom,
     >   - (iii) the references to “Member States, or regions of Member States” and “that Member State or region” include the United Kingdom or region of the United Kingdom,
     > - (c) Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
@@ -805,10 +805,10 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     >   - (iii) the reference to “**Community legislation**” includes these Regulations and legislation having equivalent effect in another part of the United Kingdom,
     >   - (iv) the reference to “**in a region, Member States**” includes—
     >     - (aa) in Scotland, the Scottish Ministers,
-    >     - (bb)[^key-14bdaae5bf7bb40ab18cd5b26a92f124] in another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
+    >     - (bb)[^c-14bdaae5bf7bb40ab18cd5b26a92f124] in another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
     >   - (v) the reference to “**The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a**” includes—
     >     - (aa) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    >     - (bb)[^key-c9c061babcd9a4151adf48ebe857c7da] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    >     - (bb)[^c-c9c061babcd9a4151adf48ebe857c7da] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     >     for co-ordinating the standards and methods of diagnosis referred to;
     >   - (vi) the reference to “**in their respective Member States**” includes in respective parts of the United Kingdom.
@@ -825,10 +825,10 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > - (c) the reference to “**Community legislation**” includes these Regulations and legislation having equivalent effect in another part of the United Kingdom,
     > - (d) the reference to “**in a region, Member States**” includes—
     >   - (i) in Scotland, the Scottish Ministers,
-    >   - (ii)[^key-656fcd056fe538a385d1bea10c3107f4] in another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
+    >   - (ii)[^c-656fcd056fe538a385d1bea10c3107f4] in another part of the United Kingdom, an equivalent authority under legislation in force in that part of the United Kingdom;
     > - (e) the reference to “**The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a**” includes—
     >   - (i) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    >   - (ii)[^key-91b5ff3385d827bf9ad4c4fe1deff45c] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    >   - (ii)[^c-91b5ff3385d827bf9ad4c4fe1deff45c] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     >   for co-ordinating the standards and methods of diagnosis referred to;
     > - (f) the reference to “**in their respective Member States**” includes in respective parts of the United Kingdom.
@@ -836,25 +836,25 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
     > (3) For the purposes of sub-paragraph (1)(b), Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
     >
     > - (a) the references to “each Member State” and “the Member State” include the United Kingdom,
-    > - (b)[^key-862e5fe811cc8f8a9618327347044481] the references to “certification” include a “certificate” as defined in these Regulations or an equivalent certificate published by an authority in another part of the United Kingdom under legislation in force there;
+    > - (b)[^c-862e5fe811cc8f8a9618327347044481] the references to “certification” include a “certificate” as defined in these Regulations or an equivalent certificate published by an authority in another part of the United Kingdom under legislation in force there;
     > - (c) the references to “intra-Community trade” include trade between the United Kingdom and a member State,
     > - (d) the reference to “**officially brucellosis-free or brucellosis-free bovine herds**” includes bovine herds which do not include bovine animals subject to measures imposed by a veterinary inspector under the Brucellosis (Scotland) Order 2009 [^c23597831] (or legislation having equivalent effect in another part of the United Kingdom),
     > - (e) the reference to “**National reference laboratories designated in accordance with Article 6a**” includes—
     >   - (i) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    >   - (ii)[^key-c700da828e55c46ca834341d850031d1] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    >   - (ii)[^c-c700da828e55c46ca834341d850031d1] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     >   for co-ordinating the standards and methods of diagnosis referred to.
     >
     > (4) For the purposes of sub-paragraph (1)(c), Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
     >
     > - (a) in relation to Scotland, a laboratory approved by the Scottish Ministers,
-    > - (b)[^key-f41aa38b7857990d7ee8bb535b2b2a7a] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
+    > - (b)[^c-f41aa38b7857990d7ee8bb535b2b2a7a] in relation to another part of the United Kingdom, a laboratory approved by an authority under legislation in force in that part of the United Kingdom,
     >
     > for co-ordinating the standards and methods of diagnosis referred to.
 
     .
 
-### 23. The Zoonoses (Monitoring) (Scotland) Regulations 2007[^key-bc05662388c9ae0e7d5cb5d91e71bea8]
+### 23. The Zoonoses (Monitoring) (Scotland) Regulations 2007[^c-bc05662388c9ae0e7d5cb5d91e71bea8]
 
 (1) The Zoonoses (Monitoring) (Scotland) Regulations 2007 [^c23597841] are amended as follows.
 
@@ -866,7 +866,7 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
 - (b) omit the “or” before sub-paragraph (ii),
 - (c) in sub-paragraph (ii) omit “other”.
 
-### 24. The Products of Animal Origin (Disease Control) (Scotland) Order 2008[^key-26bf1089b26c31de69f579b9e4149576]
+### 24. The Products of Animal Origin (Disease Control) (Scotland) Order 2008[^c-26bf1089b26c31de69f579b9e4149576]
 
 (1) The Products of Animal Origin (Disease Control) (Scotland) Order 2008 [^c23597851] is amended as follows.
 
@@ -877,7 +877,7 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
 
 (3) In paragraph (1)(b) (identification mark on restricted meat from animals) of schedule 3 (special identification mark) omit head (iii).
 
-### 25. The Sheep and Goats (Records, Identification and Movement) (Scotland) Order 2009[^key-c009e0c80e6b63eeb7aa976209b65ec5]
+### 25. The Sheep and Goats (Records, Identification and Movement) (Scotland) Order 2009[^c-c009e0c80e6b63eeb7aa976209b65ec5]
 
 (1) The Sheep and Goats (Records, Identification and Movement) (Scotland) Order 2009 [^c23597861] is amended as follows.
 
@@ -927,11 +927,11 @@ In schedule 1 (measures applicable in respect of a wild bird control area), Part
 
 (6) In article 38(1)(i) (powers of inspectors) omit “representative of the European Commission acting for the purpose of the Council Regulation or any other”.
 
-### 26. The Poultry Compartments (Scotland) Order 2010[^key-2aa86dd85ae070d575d201b88a5c5523]
+### 26. The Poultry Compartments (Scotland) Order 2010[^c-2aa86dd85ae070d575d201b88a5c5523]
 
 In article 5(1)(f) (powers of inspectors) of the Poultry Compartments (Scotland) Order 2010 [^c23597891] omit “a representative of the European Commission or”.
 
-### 27. The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010[^key-4e25adcf195f1d448e4e16a13f9b9822]
+### 27. The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010[^c-4e25adcf195f1d448e4e16a13f9b9822]
 
 (1) The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 [^c23597901] are amended as follows.
 
@@ -976,7 +976,7 @@ In article 5(1)(f) (powers of inspectors) of the Poultry Compartments (Scotland)
 - (f) in the heading of paragraph 4 (export to third countries of products containing specified risk material) for “third countries” substitute “ countries outside the European Union ”,
 - (g) in paragraph 4 for “third countries” substitute “ countries outside the European Union ”.
 
-### 28. The Pigs (Records, Identification and Movement) (Scotland) Order 2011[^key-2f554abe05940e95887e470fba779274]
+### 28. The Pigs (Records, Identification and Movement) (Scotland) Order 2011[^c-2f554abe05940e95887e470fba779274]
 
 (1) The Pigs (Records, Identification and Movement) (Scotland) Order 2011 [^c23597911] is amended as follows.
 
@@ -999,13 +999,13 @@ In article 5(1)(f) (powers of inspectors) of the Poultry Compartments (Scotland)
 
 (5) In article 9 (additional identification requirements for export movements) omit “intra-European Union trade or”.
 
-### 29. The Trade in Animals and Related Products (Scotland) Regulations 2012[^key-99d91d568a08bef8a8027330712331fa]
+### 29. The Trade in Animals and Related Products (Scotland) Regulations 2012[^c-99d91d568a08bef8a8027330712331fa]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. The African Horse Sickness (Scotland) Order 2012[^key-931ba527fa867897f74e9bd53e2e4ab4]
+### 30. The African Horse Sickness (Scotland) Order 2012[^c-931ba527fa867897f74e9bd53e2e4ab4]
 
 (1) The African Horse Sickness (Scotland) Order 2012 [^c23597991] is amended as follows.
 
@@ -1018,7 +1018,7 @@ In article 5(1)(f) (powers of inspectors) of the Poultry Compartments (Scotland)
 - (a) omit the “and” before head (ii),
 - (b) omit head (ii).
 
-### 31. The Bluetongue (Scotland) Order 2012[^key-8c65a09f74d837c4aef6f7c5566d2197]
+### 31. The Bluetongue (Scotland) Order 2012[^c-8c65a09f74d837c4aef6f7c5566d2197]
 
 (1) The Bluetongue (Scotland) Order 2012 [^c23598001] is amended as follows.
 
@@ -1040,7 +1040,7 @@ In article 5(1)(f) (powers of inspectors) of the Poultry Compartments (Scotland)
 - (a) omit the “and” before head (ii),
 - (b) omit head (ii).
 
-### 32. The Animal By-Products (Enforcement) (Scotland) Regulations 2013[^key-eed3a6aeb0eacc15b4118e494a229a70]
+### 32. The Animal By-Products (Enforcement) (Scotland) Regulations 2013[^c-eed3a6aeb0eacc15b4118e494a229a70]
 
 (1) The Animal By-Products (Enforcement) (Scotland) Regulations 2013 [^c23598011] are amended as follows.
 
@@ -1054,27 +1054,27 @@ In article 5(1)(f) (powers of inspectors) of the Poultry Compartments (Scotland)
   - (ii) in column 3 omit “Article 20(11) of the EU Control Regulation as read with”,
 - (c) in entry 6 (disposal and use of Category 3 material), column 3 omit “Article 20(11) of the EU Control Regulation as read with”.
 
-### 33. The Equine Animal (Identification) (Scotland) Regulations 2019[^key-6bc61ce4cea804d88a961fcf661ac7a5]
+### 33. The Equine Animal (Identification) (Scotland) Regulations 2019[^c-6bc61ce4cea804d88a961fcf661ac7a5]
 
 (1) The Equine Animal (Identification) (Scotland) Regulations 2019 [^c23598021] are amended as follows.
 
-(2) In the heading of regulation 10 (completion of existing identification documents for equidae imported into the European Union), for “European Union” substitute “ Great Britain from a third country[^key-60b351c88c5d30976294c012f5dff718] ”.
+(2) In the heading of regulation 10 (completion of existing identification documents for equidae imported into the European Union), for “European Union” substitute “ Great Britain from a third country[^c-60b351c88c5d30976294c012f5dff718] ”.
 
 (3) In regulation 11(3)(b) (measures in relation to the verification of identification and the implantation of transponders)—
 
 - (a) for “another” substitute “ a ”,
 - (b) insert at the end “ of Commission Implementing Regulation (EU) 2015/262 laying down rules pursuant to Council Directives [90/427/EEC](https://www.legislation.gov.uk/eudr/1990/427) and [2009/156/EC](https://www.legislation.gov.uk/eudr/2009/156) as regards the methods for the identification of equidae (Equine Passport Regulation) [^c23598031] as it has effect in EU law, as amended from time to time ”.
 
-(4) In regulation 17(g) (failure to comply with these Regulations), for “European Union” substitute “ Great Britain from a third country[^key-073d382deddefe29b97a7b51ed6ffd24] ”.
+(4) In regulation 17(g) (failure to comply with these Regulations), for “European Union” substitute “ Great Britain from a third country[^c-073d382deddefe29b97a7b51ed6ffd24] ”.
 
-(5)[^key-f7cacf12097c0bafe5b3cc9fab78124a] Omit regulation 19(1)(c).
+(5)[^c-f7cacf12097c0bafe5b3cc9fab78124a] Omit regulation 19(1)(c).
 
 (6) In column 2 of the schedule (specified requirements)—
 
-- (a) in the entry corresponding to “The second sub-paragraph of Article 12(3) in so far as it applies to the keeper” in column 1, for “ the Union[^key-aff2c5ed390949ecb582fcbf08b4e5c3] ” substitute “ Great Britain[^key-2d98c728620af2d1906fe9d801f6069b] ”,
-- (b) in the entry corresponding to “Article 15(1)” in column 1, for “ the Union[^key-1093e70bd0d0597f7733bc0f90c37a80] ” substitute “ Great Britain from a third country[^key-a43a895c4945eedc087da4dc35d32212] ”,
+- (a) in the entry corresponding to “The second sub-paragraph of Article 12(3) in so far as it applies to the keeper” in column 1, for “ the Union[^c-aff2c5ed390949ecb582fcbf08b4e5c3] ” substitute “ Great Britain[^c-2d98c728620af2d1906fe9d801f6069b] ”,
+- (b) in the entry corresponding to “Article 15(1)” in column 1, for “ the Union[^c-1093e70bd0d0597f7733bc0f90c37a80] ” substitute “ Great Britain from a third country[^c-a43a895c4945eedc087da4dc35d32212] ”,
 - (c) in the entry corresponding to “Article 17(3)” in column 1, after “Union” insert “ or the United Kingdom ”,
-- (d) in the entry corresponding to “Article 27(1) and (2)” in column 1, for “Member State in which the holding is located” substitute “ constituent territory of Great Britain[^key-95c5004855759afe25c326e2b8f642dc] ”.
+- (d) in the entry corresponding to “Article 27(1) and (2)” in column 1, for “Member State in which the holding is located” substitute “ constituent territory of Great Britain[^c-95c5004855759afe25c326e2b8f642dc] ”.
 
 MAIRI GOUGEON
 
@@ -1102,9 +1102,9 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23597401]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-a6e3a825a5bbc57d90c5ec1f502b8276]: Commencement: Reg. 1 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-a6e3a825a5bbc57d90c5ec1f502b8276]: Commencement: Reg. 1 in force at 28.3.2019, see reg. 1(1)(a)
 
-[^key-60d7b56dff7ef584e431bc17d6bac2bf]: Commencement: Reg. 2 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-60d7b56dff7ef584e431bc17d6bac2bf]: Commencement: Reg. 2 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597411]: Marginal citation: [S.S.I. 2006/44](https://www.legislation.gov.uk/ssi/2006/44), relevant amending instruments are [S.S.I. 2007/455](https://www.legislation.gov.uk/ssi/2007/455), [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171), [S.S.I. 2012/321](https://www.legislation.gov.uk/ssi/2012/321), [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173), [S.S.I. 2013/307](https://www.legislation.gov.uk/ssi/2013/307) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
@@ -1118,11 +1118,11 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23597461]: Marginal citation: OJ L 264, 23.10.2018, p.20.
 
-[^key-b07f1471bba360d4f2619940fb5e9ddb]: Commencement: Reg. 3 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-b07f1471bba360d4f2619940fb5e9ddb]: Commencement: Reg. 3 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597471]: Marginal citation: [S.S.I. 2006/45](https://www.legislation.gov.uk/ssi/2006/45), relevant amending instruments are [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171), [S.S.I. 2012/321](https://www.legislation.gov.uk/ssi/2012/321), [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173), [S.S.I. 2013/307](https://www.legislation.gov.uk/ssi/2013/307) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
-[^key-e0bfbf08344b25ae51af0967c285f644]: Commencement: Reg. 4 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-e0bfbf08344b25ae51af0967c285f644]: Commencement: Reg. 4 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597481]: Marginal citation: [S.S.I. 2006/336](https://www.legislation.gov.uk/ssi/2006/336), relevant amending instruments are [S.S.I. 2008/129](https://www.legislation.gov.uk/ssi/2008/129), [S.S.I. 2008/395](https://www.legislation.gov.uk/ssi/2008/395), [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
@@ -1130,39 +1130,39 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23597501]: Marginal citation: OJ L 139, 30.4.2004, p.55.
 
-[^key-20462db44f8d95c1b721588658ab9a0d]: Commencement: Reg. 5 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-20462db44f8d95c1b721588658ab9a0d]: Commencement: Reg. 5 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597511]: Marginal citation: [S.S.I. 2006/337](https://www.legislation.gov.uk/ssi/2006/337), relevant amending instruments are [S.S.I. 2008/129](https://www.legislation.gov.uk/ssi/2008/129), [S.S.I. 2008/395](https://www.legislation.gov.uk/ssi/2008/395), [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
-[^key-6dd275e8b02ff5b646a9c66890267a03]: Commencement: Reg. 6 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-6dd275e8b02ff5b646a9c66890267a03]: Commencement: Reg. 6 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597521]: Marginal citation: [S.S.I. 2007/61](https://www.legislation.gov.uk/ssi/2007/61), relevant amending instruments are S.S.I 2011/171, [S.S.I. 2013/307](https://www.legislation.gov.uk/ssi/2013/307) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) comes into force on 28 February 2019.
 
-[^key-bbb3a6dbcb8419138b3ba87e47aeeda3]: Commencement: Reg. 7 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-bbb3a6dbcb8419138b3ba87e47aeeda3]: Commencement: Reg. 7 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597531]: Marginal citation: [S.S.I. 2007/62](https://www.legislation.gov.uk/ssi/2007/62), relevant amending instruments are [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171), [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173), [S.S.I. 2013/307](https://www.legislation.gov.uk/ssi/2013/307) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
 [^c23597541]: Marginal citation: OJ L 164, 16.6.2006, p.51 (“**the Decision**”). The Decision was last amended by Commission Implementing Decision (EU) 2017/2410 of 20 December 2017 amending Decisions 2006/415/EC and 2007/25/EC and Implementing Decision 2013/657/EU concerning certain protection measures in relation to highly pathogenic avian influenza (OJ L 342, 21.12.2017, p. 13) which in particular amended Article 12 of the Decision to provide that the Decision was to apply until 31 December 2018.
 
-[^key-841da000802d8cead54d2aa0a61c3482]: Commencement: Reg. 8 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-841da000802d8cead54d2aa0a61c3482]: Commencement: Reg. 8 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597551]: Marginal citation: [S.S.I. 2007/174](https://www.legislation.gov.uk/ssi/2007/174).
 
-[^key-b6356b503a55d94397ffa1f9a285ca8d]: Commencement: Reg. 9 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-b6356b503a55d94397ffa1f9a285ca8d]: Commencement: Reg. 9 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597561]: Marginal citation: [S.S.I. 2008/158](https://www.legislation.gov.uk/ssi/2008/158), relevantly amended by [S.S.I. 2009/174](https://www.legislation.gov.uk/ssi/2009/174).
 
-[^key-0a5dc166e195e7108ccca760cb760201]: Commencement: Reg. 10 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-0a5dc166e195e7108ccca760cb760201]: Commencement: Reg. 10 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597571]: Marginal citation: [S.S.I. 2009/414](https://www.legislation.gov.uk/ssi/2009/414), amended by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
-[^key-d0cbbe07592ab6ba2e8061026a6c9a05]: Commencement: Reg. 11 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-d0cbbe07592ab6ba2e8061026a6c9a05]: Commencement: Reg. 11 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597581]: Marginal citation: [S.S.I. 2010/419](https://www.legislation.gov.uk/ssi/2010/419), relevantly amended by [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173).
 
 [^c23597591]: Marginal citation: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033), to which there are amendments not relevant to this regulation.
 
-[^key-57b4eeb22911cfa00de02bd387998de2]: Commencement: Reg. 12 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-57b4eeb22911cfa00de02bd387998de2]: Commencement: Reg. 12 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597601]: Marginal citation: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177), relevant amending instruments are [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) and [S.S.I. 2019/5](https://www.legislation.gov.uk/ssi/2019/5). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019 and the amendments made by [S.S.I. 2019/5](https://www.legislation.gov.uk/ssi/2019/5) come into force on 7 March 2019.
 
@@ -1174,15 +1174,15 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23597641]: Marginal citation: OJ L 343, 23.12.2011, p.105.
 
-[^key-15065d5aad0a361e1f20cb9e3873d3bc]: Commencement: Reg. 13 in force at 28.3.2019, see reg. 1(1)(a)
+[^c-15065d5aad0a361e1f20cb9e3873d3bc]: Commencement: Reg. 13 in force at 28.3.2019, see reg. 1(1)(a)
 
 [^c23597651]: Marginal citation: [S.S.I. 2013/307](https://www.legislation.gov.uk/ssi/2013/307).
 
-[^key-7e273599ecc2cf8b63a45bbcbf1ef877]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-7e273599ecc2cf8b63a45bbcbf1ef877]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597661]: Marginal citation: [S.S.I. 2006/44](https://www.legislation.gov.uk/ssi/2006/44), relevant amending instruments are [S.S.I. 2007/455](https://www.legislation.gov.uk/ssi/2007/455), [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171), [S.S.I. 2012/321](https://www.legislation.gov.uk/ssi/2012/321), [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173), [S.S.I. 2013/307](https://www.legislation.gov.uk/ssi/2013/307) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
-[^key-4a4f579af3c2e97b9b77dbb84a2df009]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-4a4f579af3c2e97b9b77dbb84a2df009]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597671]: Marginal citation: [S.S.I. 2006/45](https://www.legislation.gov.uk/ssi/2006/45), amended by [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171), [S.I](https://www.legislation.gov.uk/ssi/2011/171/section/I). 2011/1043, [S.S.I. 2012/321](https://www.legislation.gov.uk/ssi/2012/321), [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173), [S.S.I. 2013/307](https://www.legislation.gov.uk/ssi/2013/307), [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
@@ -1190,129 +1190,129 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23597691]: Marginal citation: Section 64A of the [Animal Health Act 1981 (c.22)](https://www.legislation.gov.uk/ukpga/1981/22) is prospectively amended by the Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/XX).
 
-[^key-634b4b756ecc4a1122624dca48b76cb5]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-634b4b756ecc4a1122624dca48b76cb5]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597701]: Marginal citation: [S.S.I. 2006/336](https://www.legislation.gov.uk/ssi/2006/336).
 
-[^key-6c1948aa7621354f4222b87d24b1e8b7]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-6c1948aa7621354f4222b87d24b1e8b7]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597711]: Marginal citation: [S.S.I. 2006/337](https://www.legislation.gov.uk/ssi/2006/337), amended by [S.S.I. 2008/129](https://www.legislation.gov.uk/ssi/2008/129), [S.S.I. 2008/395](https://www.legislation.gov.uk/ssi/2008/395), [S.I](https://www.legislation.gov.uk/ssi/2008/395/section/I). 2011/1043, [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173), ,[S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
-[^key-fb8cd0d2aa87b72bfa7bc16028294d1f]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-fb8cd0d2aa87b72bfa7bc16028294d1f]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597721]: Marginal citation: [S.S.I. 2007/61](https://www.legislation.gov.uk/ssi/2007/61), to which there are amendments not relevant to this regulation.
 
-[^key-52bab2cd3c9ff27c995f0d2e00937783]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-52bab2cd3c9ff27c995f0d2e00937783]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597731]: Marginal citation: [S.S.I. 2007/62](https://www.legislation.gov.uk/ssi/2007/62), amended by [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171), [S.S.I. 2012/179](https://www.legislation.gov.uk/ssi/2012/179), [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173), 2013/307 and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
-[^key-bf6c13b0b7774971c3a8144a029d1001]: Textual amendment: Reg. 19(2)(b) revoked (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Animals, Feed and Food) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/288)](https://www.legislation.gov.uk/ssi/2019/288), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/b), [7](https://www.legislation.gov.uk/ssi/2019/288/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf6c13b0b7774971c3a8144a029d1001]: Textual amendment: Reg. 19(2)(b) revoked (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Animals, Feed and Food) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/288)](https://www.legislation.gov.uk/ssi/2019/288), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/b), [7](https://www.legislation.gov.uk/ssi/2019/288/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a97d7fae8f970f9672529b80bf4f3132]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/ssi/2019/71/regulation/20) revoked (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/93/schedule)
+[^c-a97d7fae8f970f9672529b80bf4f3132]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/ssi/2019/71/regulation/20) revoked (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/93/schedule)
 
-[^key-ebe7c00a11691c84600bc321085d9634]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-ebe7c00a11691c84600bc321085d9634]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597751]: Marginal citation: [S.S.I. 2007/174](https://www.legislation.gov.uk/ssi/2007/174), amended by [S.S.I. 2007/312](https://www.legislation.gov.uk/ssi/2007/312), [S.S.I. 2011/412](https://www.legislation.gov.uk/ssi/2011/412), [S.I](https://www.legislation.gov.uk/ssi/2011/412/section/I). 2011/1043, [S.S.I. 2017/133](https://www.legislation.gov.uk/ssi/2017/133) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
 [^c23597761]: Marginal citation: OJ L 204, 11.8.2000, p.1, last amended by Regulation (EU) No 653/2014 of the European Parliament and the Council (OJ L 189, 27.06.2014, p.33).
 
-[^key-8f43a1253da8a726cbe87832e5e2e242]: Textual amendment: Reg. 21(6)(a)(ia) inserted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/2)
+[^c-8f43a1253da8a726cbe87832e5e2e242]: Textual amendment: Reg. 21(6)(a)(ia) inserted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/2)
 
-[^key-1175a8789e692cba314c9b70421abf92]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-1175a8789e692cba314c9b70421abf92]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597771]: Marginal citation: [S.S.I. 2007/330](https://www.legislation.gov.uk/ssi/2007/330), amended by [S.S.I. 2013/151](https://www.legislation.gov.uk/ssi/2013/151).
 
-[^key-5a5c8187d8622d1f2e98bb219f090f4e]: Textual amendment: Words in reg. 22(6)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(a)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/a/i)
+[^c-5a5c8187d8622d1f2e98bb219f090f4e]: Textual amendment: Words in reg. 22(6)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(a)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/a/i)
 
-[^key-20e17e95de616cfd1a3f1c050b4291cd]: Textual amendment: Words in reg. 22(6)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/a/ii)
+[^c-20e17e95de616cfd1a3f1c050b4291cd]: Textual amendment: Words in reg. 22(6)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/a/ii)
 
-[^key-fd2e46c7406badab2fb8f1ec8a56d6d1]: Textual amendment: Words in reg. 22(11)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/i)
+[^c-fd2e46c7406badab2fb8f1ec8a56d6d1]: Textual amendment: Words in reg. 22(11)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/i)
 
 [^c23597781]: Marginal citation: [S.S.I. 2007/147](https://www.legislation.gov.uk/ssi/2007/147), amended by [S.S.I. 2009/445](https://www.legislation.gov.uk/ssi/2009/445), [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173), [S.S.I. 2014/71](https://www.legislation.gov.uk/ssi/2014/71) and [S.S.I. 2018/333](https://www.legislation.gov.uk/ssi/2018/333).
 
-[^key-e7b945f27528e0a04cdcbc98d54952ef]: Textual amendment: Words in reg. 22(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii/aa)
+[^c-e7b945f27528e0a04cdcbc98d54952ef]: Textual amendment: Words in reg. 22(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii/aa)
 
-[^key-2c97908f8cd8fb080157de66448f9e5a]: Textual amendment: Words in reg. 22(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii/bb)
+[^c-2c97908f8cd8fb080157de66448f9e5a]: Textual amendment: Words in reg. 22(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii/bb)
 
-[^key-6b92916423e6c16f214251ab7b2ef60f]: Textual amendment: Words in reg. 22(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)(cc)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii/cc)
+[^c-6b92916423e6c16f214251ab7b2ef60f]: Textual amendment: Words in reg. 22(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)(cc)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii/cc)
 
 [^c23597791]: Marginal citation: [S.S.I. 2009/232](https://www.legislation.gov.uk/ssi/2009/232), amended by [S.S.I. 2014/63](https://www.legislation.gov.uk/ssi/2014/63) and [S.S.I. 2014/72](https://www.legislation.gov.uk/ssi/2014/72).
 
-[^key-63ef14937b4b17bd5d755f626b209c12]: Textual amendment: Words in reg. 22(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)(dd)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii/dd)
+[^c-63ef14937b4b17bd5d755f626b209c12]: Textual amendment: Words in reg. 22(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)(dd)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii/dd)
 
-[^key-63131a623a64474c3f5bc2e2fd46dc15]: Textual amendment: Words in reg. 22(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)(ee)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii/ee)
+[^c-63131a623a64474c3f5bc2e2fd46dc15]: Textual amendment: Words in reg. 22(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)(ee)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii/ee)
 
-[^key-e80c3211152c682c130d59bc80cf336d]: Textual amendment: Words in reg. 22(11)(c) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(iii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/iii/aa)
+[^c-e80c3211152c682c130d59bc80cf336d]: Textual amendment: Words in reg. 22(11)(c) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(iii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/iii/aa)
 
-[^key-af1dce23be0231c61c3f16a8bfe98a2d]: Textual amendment: Words in reg. 22(11)(c) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(iii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/iii/bb)
+[^c-af1dce23be0231c61c3f16a8bfe98a2d]: Textual amendment: Words in reg. 22(11)(c) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(iii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/iii/bb)
 
-[^key-1944fd3f7ffaa57d3b4c115c30dceadd]: Textual amendment: Words in reg. 22(12)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/i)
+[^c-1944fd3f7ffaa57d3b4c115c30dceadd]: Textual amendment: Words in reg. 22(12)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/i)
 
-[^key-16327478886e610dd8354d448a469838]: Textual amendment: Words in reg. 22(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii/aa)
+[^c-16327478886e610dd8354d448a469838]: Textual amendment: Words in reg. 22(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii/aa)
 
-[^key-68c4339ba3fe30207b52707d349a4704]: Textual amendment: Words in reg. 22(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii/bb)
+[^c-68c4339ba3fe30207b52707d349a4704]: Textual amendment: Words in reg. 22(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii/bb)
 
-[^key-b15e89aeb504934ef82bf6ffa5518e80]: Textual amendment: Words in reg. 22(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)(cc)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii/cc)
+[^c-b15e89aeb504934ef82bf6ffa5518e80]: Textual amendment: Words in reg. 22(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)(cc)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii/cc)
 
-[^key-cfacb1b0e900d231afa95bcfd20d9592]: Textual amendment: Words in reg. 22(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)(dd)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii/dd)
+[^c-cfacb1b0e900d231afa95bcfd20d9592]: Textual amendment: Words in reg. 22(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)(dd)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii/dd)
 
-[^key-522472b5d4e2be7d4a5e4c24729e0919]: Textual amendment: Words in reg. 22(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)(ee)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii/ee)
+[^c-522472b5d4e2be7d4a5e4c24729e0919]: Textual amendment: Words in reg. 22(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)(ee)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii/ee)
 
-[^key-82fe4d5b76af5775962b8256c313882e]: Textual amendment: Words in reg. 22(12)(d)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/iii)
+[^c-82fe4d5b76af5775962b8256c313882e]: Textual amendment: Words in reg. 22(12)(d)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/iii)
 
-[^key-b313dc45c75128f3d11946d75912a18a]: Textual amendment: Words in reg. 22(14)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/i)
+[^c-b313dc45c75128f3d11946d75912a18a]: Textual amendment: Words in reg. 22(14)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/i)
 
 [^c23597801]: Marginal citation: [S.S.I. 2007/147](https://www.legislation.gov.uk/ssi/2007/147), amended by [S.S.I. 2009/445](https://www.legislation.gov.uk/ssi/2009/445), [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173), [S.S.I. 2014/71](https://www.legislation.gov.uk/ssi/2014/71) and [S.S.I. 2018/333](https://www.legislation.gov.uk/ssi/2018/333).
 
-[^key-e24605988d4991bd8fee0de2e2dae7e8]: Textual amendment: Words in reg. 22(14)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii/aa)
+[^c-e24605988d4991bd8fee0de2e2dae7e8]: Textual amendment: Words in reg. 22(14)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii/aa)
 
-[^key-c8bcc99dde1fc4e9e39d5cdb935b6a27]: Textual amendment: Words in reg. 22(14)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii/bb)
+[^c-c8bcc99dde1fc4e9e39d5cdb935b6a27]: Textual amendment: Words in reg. 22(14)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii/bb)
 
-[^key-ce4168851e79ea1ba33ffce200c121c0]: Textual amendment: Words in reg. 22(14)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)(cc)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii/cc)
+[^c-ce4168851e79ea1ba33ffce200c121c0]: Textual amendment: Words in reg. 22(14)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)(cc)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii/cc)
 
 [^c23597811]: Marginal citation: [S.S.I. 2009/232](https://www.legislation.gov.uk/ssi/2009/232), amended by [S.S.I. 2014/63](https://www.legislation.gov.uk/ssi/2014/63) and [S.S.I. 2014/72](https://www.legislation.gov.uk/ssi/2014/72).
 
-[^key-764d43ca2da1006646900fa0d9b87032]: Textual amendment: Words in reg. 22(14)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)(dd)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii/dd)
+[^c-764d43ca2da1006646900fa0d9b87032]: Textual amendment: Words in reg. 22(14)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)(dd)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii/dd)
 
-[^key-205d641d2dafa519360d4ecabd805278]: Textual amendment: Words in reg. 22(14)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)(ee)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii/ee)
+[^c-205d641d2dafa519360d4ecabd805278]: Textual amendment: Words in reg. 22(14)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)(ee)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii/ee)
 
-[^key-7a9ddcf67af7793f0d7903d38394add3]: Textual amendment: Words in reg. 22(14)(e)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/iii)
+[^c-7a9ddcf67af7793f0d7903d38394add3]: Textual amendment: Words in reg. 22(14)(e)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/iii)
 
-[^key-57a579740d9d25dfb8bab68748224a84]: Textual amendment: Words in reg. 22(15)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(e)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/e)
+[^c-57a579740d9d25dfb8bab68748224a84]: Textual amendment: Words in reg. 22(15)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(e)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/e)
 
-[^key-f9040f8ff7f825f28b74ee423b5eeebd]: Textual amendment: Words in reg. 22(16)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/i)
+[^c-f9040f8ff7f825f28b74ee423b5eeebd]: Textual amendment: Words in reg. 22(16)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/i)
 
-[^key-020429b18b0c8f0aad92ed887c1b51e9]: Textual amendment: Words in reg. 22(16)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/ii/aa)
+[^c-020429b18b0c8f0aad92ed887c1b51e9]: Textual amendment: Words in reg. 22(16)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/ii/aa)
 
-[^key-d5a3ec8970cf7bfce4f0069dcb01b987]: Textual amendment: Words in reg. 22(16)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/ii/bb)
+[^c-d5a3ec8970cf7bfce4f0069dcb01b987]: Textual amendment: Words in reg. 22(16)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/ii/bb)
 
-[^key-14bdaae5bf7bb40ab18cd5b26a92f124]: Textual amendment: Words in reg. 22(16)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(ii)(cc)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/ii/cc)
+[^c-14bdaae5bf7bb40ab18cd5b26a92f124]: Textual amendment: Words in reg. 22(16)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(ii)(cc)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/ii/cc)
 
-[^key-c9c061babcd9a4151adf48ebe857c7da]: Textual amendment: Words in reg. 22(16)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(ii)(dd)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/ii/dd)
+[^c-c9c061babcd9a4151adf48ebe857c7da]: Textual amendment: Words in reg. 22(16)(b)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(ii)(dd)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/ii/dd)
 
 [^c23597821]: Marginal citation: [S.S.I. 2007/147](https://www.legislation.gov.uk/ssi/2007/147), amended by [S.S.I. 2009/445](https://www.legislation.gov.uk/ssi/2009/445), [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173), [S.S.I. 2014/71](https://www.legislation.gov.uk/ssi/2014/71) and [S.S.I. 2018/333](https://www.legislation.gov.uk/ssi/2018/333).
 
-[^key-656fcd056fe538a385d1bea10c3107f4]: Textual amendment: Words in reg. 22(16)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii/aa)
+[^c-656fcd056fe538a385d1bea10c3107f4]: Textual amendment: Words in reg. 22(16)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii/aa)
 
-[^key-91b5ff3385d827bf9ad4c4fe1deff45c]: Textual amendment: Words in reg. 22(16)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii/bb)
+[^c-91b5ff3385d827bf9ad4c4fe1deff45c]: Textual amendment: Words in reg. 22(16)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii/bb)
 
-[^key-862e5fe811cc8f8a9618327347044481]: Textual amendment: Words in reg. 22(16)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)(cc)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii/cc)
+[^c-862e5fe811cc8f8a9618327347044481]: Textual amendment: Words in reg. 22(16)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)(cc)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii/cc)
 
 [^c23597831]: Marginal citation: [S.S.I. 2009/232](https://www.legislation.gov.uk/ssi/2009/232), amended by [S.S.I. 2014/72](https://www.legislation.gov.uk/ssi/2014/72).
 
-[^key-c700da828e55c46ca834341d850031d1]: Textual amendment: Words in reg. 22(16)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)(dd)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii/dd)
+[^c-c700da828e55c46ca834341d850031d1]: Textual amendment: Words in reg. 22(16)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)(dd)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii/dd)
 
-[^key-f41aa38b7857990d7ee8bb535b2b2a7a]: Textual amendment: Words in reg. 22(16)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)(ee)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii/ee)
+[^c-f41aa38b7857990d7ee8bb535b2b2a7a]: Textual amendment: Words in reg. 22(16)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)(ee)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii/ee)
 
-[^key-bc05662388c9ae0e7d5cb5d91e71bea8]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-bc05662388c9ae0e7d5cb5d91e71bea8]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597841]: Marginal citation: [S.S.I. 2007/420](https://www.legislation.gov.uk/ssi/2007/420).
 
-[^key-26bf1089b26c31de69f579b9e4149576]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-26bf1089b26c31de69f579b9e4149576]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597851]: Marginal citation: [S.S.I. 2008/158](https://www.legislation.gov.uk/ssi/2008/158), relevantly amended by [S.S.I. 2009/174](https://www.legislation.gov.uk/ssi/2009/174).
 
-[^key-c009e0c80e6b63eeb7aa976209b65ec5]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-c009e0c80e6b63eeb7aa976209b65ec5]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597861]: Marginal citation: [S.S.I. 2009/414](https://www.legislation.gov.uk/ssi/2009/414), amended by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391). The amendments made by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) come into force on 28 February 2019.
 
@@ -1320,52 +1320,52 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23597881]: Marginal citation: OJ L 355, 5.12.92, p.32, repealed by Directive 2008/71/EC (OJ L 213, 8.8.2008, p.31.).
 
-[^key-2aa86dd85ae070d575d201b88a5c5523]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-2aa86dd85ae070d575d201b88a5c5523]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597891]: Marginal citation: [S.S.I. 2010/150](https://www.legislation.gov.uk/ssi/2010/150).
 
-[^key-4e25adcf195f1d448e4e16a13f9b9822]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-4e25adcf195f1d448e4e16a13f9b9822]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597901]: Marginal citation: [S.S.I. 2010/177](https://www.legislation.gov.uk/ssi/2010/177), relevant amending instruments are [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171) and [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100).
 
-[^key-2f554abe05940e95887e470fba779274]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-2f554abe05940e95887e470fba779274]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597911]: Marginal citation: [S.S.I. 2011/327](https://www.legislation.gov.uk/ssi/2011/327), to which there are amendments not relevant to this regulation.
 
 [^c23597921]: Marginal citation: OJ L 316, 1.12.2001, p.5, last amended by Council Directive 2008/73/EC (OJ L 219, 14.8.2008, p.40).
 
-[^key-99d91d568a08bef8a8027330712331fa]: Textual amendment: Reg. 29 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/458)](https://www.legislation.gov.uk/ssi/2020/458), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/458/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2020/458/regulation/3)
+[^c-99d91d568a08bef8a8027330712331fa]: Textual amendment: Reg. 29 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/458)](https://www.legislation.gov.uk/ssi/2020/458), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/458/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2020/458/regulation/3)
 
-[^key-931ba527fa867897f74e9bd53e2e4ab4]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-931ba527fa867897f74e9bd53e2e4ab4]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23597991]: Marginal citation: [S.S.I. 2012/178](https://www.legislation.gov.uk/ssi/2012/178).
 
-[^key-8c65a09f74d837c4aef6f7c5566d2197]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-8c65a09f74d837c4aef6f7c5566d2197]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23598001]: Marginal citation: [S.S.I. 2012/199](https://www.legislation.gov.uk/ssi/2012/199).
 
-[^key-eed3a6aeb0eacc15b4118e494a229a70]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-eed3a6aeb0eacc15b4118e494a229a70]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23598011]: Marginal citation: [S.S.I. 2013/307](https://www.legislation.gov.uk/ssi/2013/307), relevantly amended by [S.S.I. 2015/393](https://www.legislation.gov.uk/ssi/2015/393).
 
-[^key-6bc61ce4cea804d88a961fcf661ac7a5]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
+[^c-6bc61ce4cea804d88a961fcf661ac7a5]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)(b)
 
 [^c23598021]: Marginal citation: [S.S.I. 2019/30](https://www.legislation.gov.uk/ssi/2019/30) which comes into force on 28 March 2019 (with the exception of regulation 11(3)(c) which comes into force on 28 March 2021).
 
-[^key-60b351c88c5d30976294c012f5dff718]: Textual amendment: Words in reg. 33(2) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/a)
+[^c-60b351c88c5d30976294c012f5dff718]: Textual amendment: Words in reg. 33(2) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/a)
 
 [^c23598031]: Marginal citation: OJ L 59, 3.3.2015, p.1.
 
-[^key-073d382deddefe29b97a7b51ed6ffd24]: Textual amendment: Words in reg. 33(4) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/b)
+[^c-073d382deddefe29b97a7b51ed6ffd24]: Textual amendment: Words in reg. 33(4) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/b)
 
-[^key-f7cacf12097c0bafe5b3cc9fab78124a]: Textual amendment: Reg. 33(5) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/c)
+[^c-f7cacf12097c0bafe5b3cc9fab78124a]: Textual amendment: Reg. 33(5) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/c)
 
-[^key-aff2c5ed390949ecb582fcbf08b4e5c3]: Textual amendment: Words in reg. 33(6)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d/i/aa)
+[^c-aff2c5ed390949ecb582fcbf08b4e5c3]: Textual amendment: Words in reg. 33(6)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d/i/aa)
 
-[^key-2d98c728620af2d1906fe9d801f6069b]: Textual amendment: Words in reg. 33(6)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d/i/bb)
+[^c-2d98c728620af2d1906fe9d801f6069b]: Textual amendment: Words in reg. 33(6)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d/i/bb)
 
-[^key-1093e70bd0d0597f7733bc0f90c37a80]: Textual amendment: Words in reg. 33(6)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d/ii/aa)
+[^c-1093e70bd0d0597f7733bc0f90c37a80]: Textual amendment: Words in reg. 33(6)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d/ii/aa)
 
-[^key-a43a895c4945eedc087da4dc35d32212]: Textual amendment: Words in reg. 33(6)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d/ii/bb)
+[^c-a43a895c4945eedc087da4dc35d32212]: Textual amendment: Words in reg. 33(6)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d/ii/bb)
 
-[^key-95c5004855759afe25c326e2b8f642dc]: Textual amendment: Words in reg. 33(6)(d) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d/iii)
+[^c-95c5004855759afe25c326e2b8f642dc]: Textual amendment: Words in reg. 33(6)(d) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d/iii)

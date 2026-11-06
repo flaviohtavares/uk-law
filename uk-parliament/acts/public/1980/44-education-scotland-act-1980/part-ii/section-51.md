@@ -28,9 +28,9 @@ summary: ''
 
 and any such arrangement may in respect of any pupil make provision for more than one of the facilities specified in the foregoing paragraphs of this subsection.
 
-(2) Where the requirements of pupils, for the conveyance of whom arrangements have been made by an education authority under subsection (1)(a) above, have been met, it shall be the duty of that authority, where there are any vacant places in any vehicle used for such conveyance, to allow such vacant places to be used [^key-fba14f01a2c1b527addc9b335c9f53c7]... by other pupils to be selected by the authority.
+(2) Where the requirements of pupils, for the conveyance of whom arrangements have been made by an education authority under subsection (1)(a) above, have been met, it shall be the duty of that authority, where there are any vacant places in any vehicle used for such conveyance, to allow such vacant places to be used [^c-fba14f01a2c1b527addc9b335c9f53c7]... by other pupils to be selected by the authority.
 
-(2AA)[^key-7f8ba8f0f5a97bf525d3a5a5cda2c494] An education authority may—
+(2AA)[^c-7f8ba8f0f5a97bf525d3a5a5cda2c494] An education authority may—
 
 - (a) subject to subsection (2BB) below, charge the parent of a pupil using a vacant place by virtue of subsection (2) above such sum as the authority consider appropriate; or
 - (b) allow a vacant place to be so used without charge,
@@ -66,7 +66,7 @@ In this subsection “ **walking distance** ” has the same meaning as in secti
 - (b) in accordance with the arrangements subsisting before the establishment of new local government areas under Part I of the Local Government etc. (Scotland) Act 1994 and continuing by virtue of section 23(1C) of this Act; or
 - (c) if at the time when the pupil was placed in that school or educational establishment it was under the management of the education authority for the area to which the pupil belonged, and is under the management of another education authority as a consequence of the establishment of such new local government areas.
 
-(2B) The duty imposed by subsection (1) above does not apply where the pupil belongs (in accordance with section 23(3) of this Act) to the area of some other education authority or of a local authority (as defined in section 579(1) of the Education Act 1996)[^key-c2e5c19c8bca63d7d3c7c31168da8887] in England and Wales.
+(2B) The duty imposed by subsection (1) above does not apply where the pupil belongs (in accordance with section 23(3) of this Act) to the area of some other education authority or of a local authority (as defined in section 579(1) of the Education Act 1996)[^c-c2e5c19c8bca63d7d3c7c31168da8887] in England and Wales.
 
 (2C)[^c9694971] In considering whether to make any arrangements under subsection (1) above in respect of pupils attending schools, an education authority shall have regard to the safety of such pupils.
 
@@ -80,9 +80,9 @@ In this subsection “ **walking distance** ” has the same meaning as in secti
 
 [^c9694901]: Textual amendment: Words inserted by Self-[Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2)](https://www.legislation.gov.uk/ukpga/1989/39), [s. 25(3)](https://www.legislation.gov.uk/ukpga/1989/39/section/25/3), [Sch. 6 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1989/39/schedule/6/paragraph/1/2/a)
 
-[^key-fba14f01a2c1b527addc9b335c9f53c7]: Textual amendment: Words in s. 51(2) repealed (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 45(1)](https://www.legislation.gov.uk/asp/2003/1/section/45/1), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-fba14f01a2c1b527addc9b335c9f53c7]: Textual amendment: Words in s. 51(2) repealed (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 45(1)](https://www.legislation.gov.uk/asp/2003/1/section/45/1), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-7f8ba8f0f5a97bf525d3a5a5cda2c494]: Textual amendment: S. 51(2AA)(2BB) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 45(2)](https://www.legislation.gov.uk/asp/2003/1/section/45/2), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-7f8ba8f0f5a97bf525d3a5a5cda2c494]: Textual amendment: S. 51(2AA)(2BB) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 45(2)](https://www.legislation.gov.uk/asp/2003/1/section/45/2), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
 [^c9694911]: Textual amendment: S. 51(2A)(2B) inserted by [Education (Scotland) Act 1981 (c. 58)](https://www.legislation.gov.uk/ukpga/1981/58), [s. 2(3)(b)](https://www.legislation.gov.uk/ukpga/1981/58/section/2/3/b)
 
@@ -96,7 +96,7 @@ In this subsection “ **walking distance** ” has the same meaning as in secti
 
 [^c9694961]: Textual amendment: S. 51(2AD) inserted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 145(3)(b)](https://www.legislation.gov.uk/ukpga/1994/39/section/145/3/b); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/323/schedule/1).
 
-[^key-c2e5c19c8bca63d7d3c7c31168da8887]: Textual amendment: Words in s. 51(2B) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 31(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/31/4)
+[^c-c2e5c19c8bca63d7d3c7c31168da8887]: Textual amendment: Words in s. 51(2B) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 31(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/31/4)
 
 [^c9694971]: Textual amendment: S. 51(2C) inserted (18.9.1996) by [1996 c. 43](https://www.legislation.gov.uk/ukpga/1996/43), [s. 36](https://www.legislation.gov.uk/ukpga/1996/43/section/36), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/1996/43/schedule/5/paragraph/2); [S.I. 1996/2250](https://www.legislation.gov.uk/uksi/1996/2250), [art. 2](https://www.legislation.gov.uk/uksi/1996/2250/article/2).
 

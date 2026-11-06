@@ -93,20 +93,20 @@ The day appointed for the coming into force of the following provisions of the A
   - (viii) section 1(1) of the European Union (Finance) Act 2015 [^c23328171];
   - (ix) the European Union (Approvals) Act 2015 [^c23328181].
 
-### 4. Provisions coming into force on IP completion day[^key-689dcf8283e63ec6bcfebde36105594f]
+### 4. Provisions coming into force on IP completion day[^c-689dcf8283e63ec6bcfebde36105594f]
 
 The day appointed for the coming into force of—
 
 - (a) section 23(8) (consequential and transitional provision) insofar as it relates to the repeal of the European Union Act 2011 (to the extent not already commenced); and
 - (b) accordingly Schedule 9 (additional repeals) insofar as it relates to the repeal of that Act (to the extent not already commenced),
 
-is IP completion day[^key-b9eea18b64770ab6844738a58affa585].
+is IP completion day[^c-b9eea18b64770ab6844738a58affa585].
 
 ## PART 3 — Transitional Provisions
 
 ### 5. Transitional Provision in relation to the Small Business, Enterprise and Employment Act 2015
 
-The reference to “international obligation” in section 30(3) (section 28(2)(a): “provision for review”) of the Small Business, Enterprise and Employment Act 2015 [^c23328191] is to be read, in its application in relation to any provision made for review, in the period beginning with the First Appointed Day and ending on IP completion day, as a reference to an “international obligation to the extent it is not an EU obligation.”.[^key-95c4b253620de8842ce277e67819c75d]
+The reference to “international obligation” in section 30(3) (section 28(2)(a): “provision for review”) of the Small Business, Enterprise and Employment Act 2015 [^c23328191] is to be read, in its application in relation to any provision made for review, in the period beginning with the First Appointed Day and ending on IP completion day, as a reference to an “international obligation to the extent it is not an EU obligation.”.[^c-95c4b253620de8842ce277e67819c75d]
 
 ### 6. Approval for the purposes of section 12 of the European Parliamentary Elections Act 2002
 
@@ -192,13 +192,13 @@ Regulations 6 – 8 provide that the repeal of the requirements for Parliamentar
 
 [^c23328181]: Marginal citation: [2015 c. 37](https://www.legislation.gov.uk/ukpga/2015/37).
 
-[^key-689dcf8283e63ec6bcfebde36105594f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2018/808/regulation/4) heading substituted (29.1.2020) by [The European Union (Withdrawal) Act 2018 (Commencement No. 5, Transitional Provisions and Amendment) Regulations 2020 (S.I. 2020/74)](https://www.legislation.gov.uk/uksi/2020/74), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/74/regulation/3/2)
+[^c-689dcf8283e63ec6bcfebde36105594f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2018/808/regulation/4) heading substituted (29.1.2020) by [The European Union (Withdrawal) Act 2018 (Commencement No. 5, Transitional Provisions and Amendment) Regulations 2020 (S.I. 2020/74)](https://www.legislation.gov.uk/uksi/2020/74), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/74/regulation/3/2)
 
-[^key-b9eea18b64770ab6844738a58affa585]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2018/808/regulation/4) substituted (29.1.2020) by [The European Union (Withdrawal) Act 2018 (Commencement No. 5, Transitional Provisions and Amendment) Regulations 2020 (S.I. 2020/74)](https://www.legislation.gov.uk/uksi/2020/74), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2020/74/regulation/3/3)
+[^c-b9eea18b64770ab6844738a58affa585]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2018/808/regulation/4) substituted (29.1.2020) by [The European Union (Withdrawal) Act 2018 (Commencement No. 5, Transitional Provisions and Amendment) Regulations 2020 (S.I. 2020/74)](https://www.legislation.gov.uk/uksi/2020/74), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2020/74/regulation/3/3)
 
 [^c23328191]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-95c4b253620de8842ce277e67819c75d]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/808/regulation/5) substituted (29.1.2020) by [The European Union (Withdrawal) Act 2018 (Commencement No. 5, Transitional Provisions and Amendment) Regulations 2020 (S.I. 2020/74)](https://www.legislation.gov.uk/uksi/2020/74), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2020/74/regulation/3/4)
+[^c-95c4b253620de8842ce277e67819c75d]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/808/regulation/5) substituted (29.1.2020) by [The European Union (Withdrawal) Act 2018 (Commencement No. 5, Transitional Provisions and Amendment) Regulations 2020 (S.I. 2020/74)](https://www.legislation.gov.uk/uksi/2020/74), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2020/74/regulation/3/4)
 
 [^c23328201]: Marginal citation: [Section 12](https://www.legislation.gov.uk/uksi/2018/808/section/12) was repealed by section 14 of the European Union Act 2011.
 

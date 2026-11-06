@@ -62,17 +62,17 @@ The Secretary of State for Environment, Food and Rural Affairs, in exercise of h
 - “bird” includes poultry, unless the context otherwise requires;
 - “carcase” means the carcase of poultry or of any bird other than poultry, as the context requires, and includes part of a carcase;
 - “Chief Veterinary Officer” means the Chief Veterinary Officer of the Department for Environment, Food and Rural Affairs;
-- “Council[^key-a8349baaebd003f0af891895c6db9972] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094)” means Council [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) on Community measures for the control of avian influenza;
+- “Council[^c-a8349baaebd003f0af891895c6db9972] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094)” means Council [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) on Community measures for the control of avian influenza;
 - “designated disease” means paramyxovirus 1 in pigeons, avian influenza and Newcastle disease;
-- “disinfect” means disinfect with a disinfectant approved under the Diseases of Animals (Approved Disinfectants) (England) Order 2007[^key-3bbe1024aa6d2b1fc9f33eed9e8fa666] for the purposes of this Order;
-- [^key-94bea73d9e9065ca1416beb1149cfbad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “disinfect” means disinfect with a disinfectant approved under the Diseases of Animals (Approved Disinfectants) (England) Order 2007[^c-3bbe1024aa6d2b1fc9f33eed9e8fa666] for the purposes of this Order;
+- [^c-94bea73d9e9065ca1416beb1149cfbad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “poultry” means domestic fowls, turkeys, geese, ducks, guinea fowls, quails, pigeons, ratites and pheasants and partridges reared or kept in captivity for breeding, the production of meat or eggs for consumption or for restocking supplies of game;
 - “premises” includes any place; and
 - “racing pigeon” means any pigeon transported or intended for transport from its pigeon house (any installation used for keeping or breeding racing pigeons) to be released so that it may freely fly back to its pigeon house or to any other destination.
 
-(2) Any notice or licence served or issued under this Order or under a declaration[^key-da7c2fa03cc2d703cb299286e4591a56] made under article 10 below shall be in writing, may be general or specific, may be the subject of conditions and may be amended, suspended or revoked by notice in writing at any time.
+(2) Any notice or licence served or issued under this Order or under a declaration[^c-da7c2fa03cc2d703cb299286e4591a56] made under article 10 below shall be in writing, may be general or specific, may be the subject of conditions and may be amended, suspended or revoked by notice in writing at any time.
 
-## 3A. Notification procedure where an infection with Avian Mycoplasmosis is suspected[^key-f83c0174455b3b3a5cd6345a3e6c1361]
+## 3A. Notification procedure where an infection with Avian Mycoplasmosis is suspected[^c-f83c0174455b3b3a5cd6345a3e6c1361]
 
 (1) A person who—
 
@@ -98,10 +98,10 @@ must give notice of this knowledge or suspicion to the Secretary of State as soo
 
 (1) A person who has in his possession or under his charge any bird or carcase having, or suspected of having, a designated disease shall—
 
-- (a) immediately inform the Secretary of State[^key-ab448a3d9c064b2097abf50adbbeced7], and
+- (a) immediately inform the Secretary of State[^c-ab448a3d9c064b2097abf50adbbeced7], and
 - (b) take all reasonable steps to ensure that the restrictions and requirements set out in Part I of Schedule 1 to this Order are complied with.
 
-(2) A person who examines or inspects any bird or carcase or who analyses any sample taken from any bird or carcase, and who suspects the presence of a designated disease in the bird, carcase or sample shall immediately inform the Secretary of State[^key-50bceb0d0b3b968d0d6a95f937675a3f].
+(2) A person who examines or inspects any bird or carcase or who analyses any sample taken from any bird or carcase, and who suspects the presence of a designated disease in the bird, carcase or sample shall immediately inform the Secretary of State[^c-50bceb0d0b3b968d0d6a95f937675a3f].
 
 ## 5. Restrictions where a designated disease is suspected
 
@@ -118,7 +118,7 @@ If an inspector has reasonable grounds for suspecting that a designated disease 
   - (iv) the extent to which a disease has been carried to or from the premises under enquiry; and may
 - (b) mark, or cause to be marked, for identification purposes any bird, carcase or other thing in relation to which any of the powers under (a) above have been exercised.
 
-(2) Collection of samples and laboratory testing shall be carried out (in relation to avian influenza) in accordance with Article 50 of Council[^key-e0597ab0c27e2a53f7c202662743db1c] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) and (in relation to Newcastle disease and paramyxovirus in pigeons), with Annex III of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66).
+(2) Collection of samples and laboratory testing shall be carried out (in relation to avian influenza) in accordance with Article 50 of Council[^c-e0597ab0c27e2a53f7c202662743db1c] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) and (in relation to Newcastle disease and paramyxovirus in pigeons), with Annex III of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66).
 
 (3) The occupier or person in charge of the premises or any person in his employment shall provide such reasonable assistance to a veterinary inspector as he may require for the exercise of his powers under paragraphs (1) and (2) above.
 
@@ -173,19 +173,19 @@ by notice served on the occupier or person in charge of the premises, impose, in
 
 ## 10. Declaration of infected area
 
-(1) Upon confirmation by the Chief Veterinary Officer or by a person authorised by him of the presence in any area in England or elsewhere of a designated disease in poultry, the Secretary of State shall [^key-7912ff3bfc8364a97326be7926a1b905]... declare the part of that area which is in England to be an infected area.
+(1) Upon confirmation by the Chief Veterinary Officer or by a person authorised by him of the presence in any area in England or elsewhere of a designated disease in poultry, the Secretary of State shall [^c-7912ff3bfc8364a97326be7926a1b905]... declare the part of that area which is in England to be an infected area.
 
-(2) Upon the presence in any area in England or elsewhere of a designated disease in captive birds other than poultry or in racing pigeons being confirmed by the Chief Veterinary Officer or by a person authorised by him and upon the Secretary of State being satisfied that the presence of that disease in such birds constitutes a serious risk to poultry, the Secretary of State may [^key-26cbeccfedbddce07e1daaa888f3d7cc]... declare the part of that area which is in England to be an infected area.
+(2) Upon the presence in any area in England or elsewhere of a designated disease in captive birds other than poultry or in racing pigeons being confirmed by the Chief Veterinary Officer or by a person authorised by him and upon the Secretary of State being satisfied that the presence of that disease in such birds constitutes a serious risk to poultry, the Secretary of State may [^c-26cbeccfedbddce07e1daaa888f3d7cc]... declare the part of that area which is in England to be an infected area.
 
-(3) An area shall remain an infected area until such date as may be stated in the declaration[^key-fcf4f77c466c3494bc3379bf407b131d], or, if none, until the declaration is revoked.
+(3) An area shall remain an infected area until such date as may be stated in the declaration[^c-fcf4f77c466c3494bc3379bf407b131d], or, if none, until the declaration is revoked.
 
 (4) Any premises which are partly inside and partly outside an infected area shall be deemed to be wholly inside that area.
 
-(5) A declaration[^key-4880b38754b0475c41a7006d4288092f] may apply to all birds or to designated species.
+(5) A declaration[^c-4880b38754b0475c41a7006d4288092f] may apply to all birds or to designated species.
 
-(6) A declaration[^key-fde79340fcfaafb9ab020cdaf7fddb58] shall provide for the division of the infected area into protection and surveillance zones, the protection zone being based on a minimum radius of three kilometres, itself contained in a surveillance zone based on a minimum radius of ten kilometres, based on the centre of premises where disease has been confirmed, or such lesser radia as the Secretary of State may declare.
+(6) A declaration[^c-fde79340fcfaafb9ab020cdaf7fddb58] shall provide for the division of the infected area into protection and surveillance zones, the protection zone being based on a minimum radius of three kilometres, itself contained in a surveillance zone based on a minimum radius of ten kilometres, based on the centre of premises where disease has been confirmed, or such lesser radia as the Secretary of State may declare.
 
-(7) The provisions of Schedule 2 shall apply in an area declared an infected area except to the extent that they are varied or excepted by the declaration[^key-9d4c78e225163ed6f311fc0badd4207f] or to the extent that anything which would otherwise be a breach of this Order is authorised by a licence issued by a veterinary inspector.
+(7) The provisions of Schedule 2 shall apply in an area declared an infected area except to the extent that they are varied or excepted by the declaration[^c-9d4c78e225163ed6f311fc0badd4207f] or to the extent that anything which would otherwise be a breach of this Order is authorised by a licence issued by a veterinary inspector.
 
 ## 11. Vaccination areas
 
@@ -283,7 +283,7 @@ No person shall remove from the premises or spread in the premises any used poul
 
 #### 6. Restriction on removal of eggs
 
-No person shall move any eggs from premises except in accordance with the provisions of Article 7(2)(f) of, and Annex 3 to, Council[^key-6fe82dafe234dd36c4c05cedba5e70d1] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or article 4.2(e) of and Annex I to Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be.
+No person shall move any eggs from premises except in accordance with the provisions of Article 7(2)(f) of, and Annex 3 to, Council[^c-6fe82dafe234dd36c4c05cedba5e70d1] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or article 4.2(e) of and Annex I to Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be.
 
 #### 7. Disinfection at entrances and exits
 
@@ -311,7 +311,7 @@ are traced and destroyed, except that table eggs need not be destroyed if they h
 
 #### 11. Disinfection and restocking
 
-The buildings used for housing poultry, their surroundings, the vehicles used for transport and all equipment likely to be contaminated shall, under the supervision of an inspector, be subject to preliminary and final cleaning and disinfecting in accordance with Annex 6 to Council[^key-b62fc716fd20cfaabd9b484199a1761f] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or Annex II of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be and to the satisfaction of a veterinary inspector. The occupier of the premises shall not restock the premises until at least 21 days after completion of the cleaning and disinfection[^f00006].
+The buildings used for housing poultry, their surroundings, the vehicles used for transport and all equipment likely to be contaminated shall, under the supervision of an inspector, be subject to preliminary and final cleaning and disinfecting in accordance with Annex 6 to Council[^c-b62fc716fd20cfaabd9b484199a1761f] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or Annex II of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be and to the satisfaction of a veterinary inspector. The occupier of the premises shall not restock the premises until at least 21 days after completion of the cleaning and disinfection[^f00006].
 
 ## SCHEDULE 2 — INFECTED AREAS: PROTECTION AND SURVEILLANCE ZONES
 
@@ -380,42 +380,42 @@ The following shall apply within the surveillance zone and shall continue to app
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22), amended by the Animal Health Act [2002 c. 42](https://www.legislation.gov.uk/ukpga/2002/42). These powers were previously exercised by the Minister of Agriculture, Fisheries and Food (see section 86(1)). Functions were transferred to the Secretary of State by S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141) and [2002/794](https://www.legislation.gov.uk/uksi/2002/794). Functions exercisable by the Secretaries of State for Scotland and Wales in relation to England were transferred to the Minister by S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141) and were then transferred to the Secretary of State by S.I. [2992/794](https://www.legislation.gov.uk/uksi/2992/794).
 
-[^key-a8349baaebd003f0af891895c6db9972]: Textual amendment: Words in art. 3(1) inserted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(2)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/2/a)
+[^c-a8349baaebd003f0af891895c6db9972]: Textual amendment: Words in art. 3(1) inserted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(2)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/2/a)
 
-[^key-3bbe1024aa6d2b1fc9f33eed9e8fa666]: Textual amendment: Words in art. 3(1) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(2)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/2/b)
+[^c-3bbe1024aa6d2b1fc9f33eed9e8fa666]: Textual amendment: Words in art. 3(1) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(2)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/2/b)
 
-[^key-94bea73d9e9065ca1416beb1149cfbad]: Textual amendment: Words in art. 3(1) revoked (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2713/schedule/2)
+[^c-94bea73d9e9065ca1416beb1149cfbad]: Textual amendment: Words in art. 3(1) revoked (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2713/schedule/2)
 
-[^key-da7c2fa03cc2d703cb299286e4591a56]: Textual amendment: Word in art. 3(2) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/443/article/5/2)
+[^c-da7c2fa03cc2d703cb299286e4591a56]: Textual amendment: Word in art. 3(2) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/443/article/5/2)
 
-[^key-f83c0174455b3b3a5cd6345a3e6c1361]: Textual amendment: [Arts. 3A](https://www.legislation.gov.uk/uksi/2003/1078/article/3A), [3B](https://www.legislation.gov.uk/uksi/2003/1078/article/3B) inserted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/443/article/5/3)
+[^c-f83c0174455b3b3a5cd6345a3e6c1361]: Textual amendment: [Arts. 3A](https://www.legislation.gov.uk/uksi/2003/1078/article/3A), [3B](https://www.legislation.gov.uk/uksi/2003/1078/article/3B) inserted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/443/article/5/3)
 
-[^key-ab448a3d9c064b2097abf50adbbeced7]: Textual amendment: Words in art. 4(1)(a) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+[^c-ab448a3d9c064b2097abf50adbbeced7]: Textual amendment: Words in art. 4(1)(a) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
 
-[^key-50bceb0d0b3b968d0d6a95f937675a3f]: Textual amendment: Words in art. 4(2) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+[^c-50bceb0d0b3b968d0d6a95f937675a3f]: Textual amendment: Words in art. 4(2) substituted (1.11.2009) by [The Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
 
-[^key-e0597ab0c27e2a53f7c202662743db1c]: Textual amendment: Words in art. 6(2) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/3)
+[^c-e0597ab0c27e2a53f7c202662743db1c]: Textual amendment: Words in art. 6(2) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/3)
 
-[^key-7912ff3bfc8364a97326be7926a1b905]: Textual amendment: Words in art. 10(1) omitted (21.4.2021) by virtue of [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/a)
+[^c-7912ff3bfc8364a97326be7926a1b905]: Textual amendment: Words in art. 10(1) omitted (21.4.2021) by virtue of [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/a)
 
-[^key-26cbeccfedbddce07e1daaa888f3d7cc]: Textual amendment: Words in art. 10(2) omitted (21.4.2021) by virtue of [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/a)
+[^c-26cbeccfedbddce07e1daaa888f3d7cc]: Textual amendment: Words in art. 10(2) omitted (21.4.2021) by virtue of [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/a)
 
-[^key-fcf4f77c466c3494bc3379bf407b131d]: Textual amendment: Word in art. 10(3) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/b)
+[^c-fcf4f77c466c3494bc3379bf407b131d]: Textual amendment: Word in art. 10(3) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/b)
 
-[^key-4880b38754b0475c41a7006d4288092f]: Textual amendment: Word in art. 10(5) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/c)
+[^c-4880b38754b0475c41a7006d4288092f]: Textual amendment: Word in art. 10(5) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/c)
 
-[^key-fde79340fcfaafb9ab020cdaf7fddb58]: Textual amendment: Word in art. 10(6) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/c)
+[^c-fde79340fcfaafb9ab020cdaf7fddb58]: Textual amendment: Word in art. 10(6) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/c)
 
-[^key-9d4c78e225163ed6f311fc0badd4207f]: Textual amendment: Word in art. 10(7) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/d)
+[^c-9d4c78e225163ed6f311fc0badd4207f]: Textual amendment: Word in art. 10(7) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2021/443/article/5/4/d)
 
 [^f00003]: Footnote: S.I. [1994/3141](https://www.legislation.gov.uk/uksi/1994/3141).
 
 [^f00004]: Footnote: S.I. [1997/150](https://www.legislation.gov.uk/uksi/1997/150).
 
-[^key-6fe82dafe234dd36c4c05cedba5e70d1]: Textual amendment: Words in Sch. 1 para. 6 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(4)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/4/a)
+[^c-6fe82dafe234dd36c4c05cedba5e70d1]: Textual amendment: Words in Sch. 1 para. 6 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(4)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/4/a)
 
 [^f00005]: Footnote: Disinfectants approved for use under this Order are set out in the Schedules to the Diseases of Animals (Approved Disinfectants) Order 1978 (S.I. [1978/32](https://www.legislation.gov.uk/uksi/1978/32), amended by S.I. [1999/919](https://www.legislation.gov.uk/uksi/1999/919)).
 
-[^key-b62fc716fd20cfaabd9b484199a1761f]: Textual amendment: Words in Sch. 1 para. 11 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(4)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/4/b)
+[^c-b62fc716fd20cfaabd9b484199a1761f]: Textual amendment: Words in Sch. 1 para. 11 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [32(4)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/32/4/b)
 
 [^f00006]: Footnote: Disinfectants approved for use under this Order are set out in the Schedules to the Diseases of Animals (Approved Disinfectants) Order 1978 (S.I. [1978/32](https://www.legislation.gov.uk/uksi/1978/32), amended by S.I. [1999/919](https://www.legislation.gov.uk/uksi/1999/919)).

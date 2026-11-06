@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Introductory[^key-4b7c929c905cdbc067ea7c6d04380d28]
+## 72. Introductory[^c-4b7c929c905cdbc067ea7c6d04380d28]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The European Nursing and Midwifery Qualifications Designation Order of Council 2
 
 ## Annotations
 
-[^key-4b7c929c905cdbc067ea7c6d04380d28]: Commencement: Reg. 72 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-4b7c929c905cdbc067ea7c6d04380d28]: Commencement: Reg. 72 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00053]: Footnote: [S.I. 2004/1766](https://www.legislation.gov.uk/uksi/2004/1766).

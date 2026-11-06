@@ -24,7 +24,7 @@ Article 51
 
 ### Applications made under Requirements
 
-**1.**[^key-60dee5aa4604c3c8f72eaeb94211e55d] (1) Where an application has been made to a relevant authority for any consent, agreement or approval required by a requirement (including consent, agreement or approval in respect of part of a requirement), the relevant authority must give notice to the undertaker of its decision on the application within a period of 35 days beginning with—
+**1.**[^c-60dee5aa4604c3c8f72eaeb94211e55d] (1) Where an application has been made to a relevant authority for any consent, agreement or approval required by a requirement (including consent, agreement or approval in respect of part of a requirement), the relevant authority must give notice to the undertaker of its decision on the application within a period of 35 days beginning with—
 
 - (a) where no further information is requested under paragraph 2, the day immediately following that on which the application is received by the authority;
 - (b) where further information is requested under paragraph 2(2), the day immediately following that on which further information has been supplied by the undertaker; or
@@ -34,17 +34,17 @@ Article 51
 
 (3) Where—
 
-- (a) an application has been made to the relevant authority for any consent, agreement or approval required by a requirement[^key-1ec0553a66d5ab5339368f383df2f108] included in this Order;
+- (a) an application has been made to the relevant authority for any consent, agreement or approval required by a requirement[^c-1ec0553a66d5ab5339368f383df2f108] included in this Order;
 - (b) the relevant authority does not determine such application within the period set out in sub-paragraph (1); and
-- (c) the application is accompanied by a report that considers it likely that the subject matter of the application is to give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement[^key-55db7197afd129e35c9ae3fd13744a7a],
+- (c) the application is accompanied by a report that considers it likely that the subject matter of the application is to give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement[^c-55db7197afd129e35c9ae3fd13744a7a],
 
 then the application is taken to have been refused by the relevant authority at the end of that period.
 
 ### Further information
 
-**2.**[^key-2560d7f8f2c4bdb5f738d3ebe9b5c221] (1) Where an application has been made under paragraph 1 the relevant authority may request such reasonable further information from the undertaker as it considers is necessary to enable it to consider the application.
+**2.**[^c-2560d7f8f2c4bdb5f738d3ebe9b5c221] (1) Where an application has been made under paragraph 1 the relevant authority may request such reasonable further information from the undertaker as it considers is necessary to enable it to consider the application.
 
-(2) If the relevant authority considers further information is necessary and the requirement[^key-85dde37cb6b6029d00dbc77022947b8c] does not specify that consultation with a requirement consultee is required, the relevant authority must, within seven business days of receipt of the application, notify the undertaker in writing specifying the further information required.
+(2) If the relevant authority considers further information is necessary and the requirement[^c-85dde37cb6b6029d00dbc77022947b8c] does not specify that consultation with a requirement consultee is required, the relevant authority must, within seven business days of receipt of the application, notify the undertaker in writing specifying the further information required.
 
 (3) If the requirement specifies that consultation with a requirement consultee is required, the relevant authority must issue the consultation to the requirement consultee within seven business days of receipt of the application and must notify the undertaker in writing specifying any further information requested by the requirement consultee within seven business days of receipt of such a request and in any event within 21 business days of receipt of the application.
 
@@ -54,14 +54,14 @@ then the application is taken to have been refused by the relevant authority at 
 
 ### Fees
 
-**3.**[^key-db24672aec080357805a92a59494ba5e] (1) Where an application is made to a relevant authority for any consent, agreement or approval required by a requirement[^key-36d6b6f2362f532923ca1f13b2e650ce] (including consent, agreement or approval in respect of part of a requirement), a fee must be paid to the relevant authority as follows—
+**3.**[^c-db24672aec080357805a92a59494ba5e] (1) Where an application is made to a relevant authority for any consent, agreement or approval required by a requirement[^c-36d6b6f2362f532923ca1f13b2e650ce] (including consent, agreement or approval in respect of part of a requirement), a fee must be paid to the relevant authority as follows—
 
 - (a) such fee as may be prescribed (under sections 303 and 333(2A) of the 1990 Act for the discharge of conditions attached to a planning permission); or
 - (b) a fee of £145 per request unless a bespoke arrangement has been agreed between the Applicant and discharging authority and legally secured.
 
 ### Appeals
 
-**4.**[^key-24209c7a537cd8f14d803c6bd147dc0c] (1) The undertaker may appeal if—
+**4.**[^c-24209c7a537cd8f14d803c6bd147dc0c] (1) The undertaker may appeal if—
 
 - (a) the relevant authority refuses an application for—
   - (i) any consent, agreement or approval required by a requirement or any document referred to in any requirement; or
@@ -90,7 +90,7 @@ then the application is taken to have been refused by the relevant authority at 
 
 ### Outcome of appeals
 
-**5.**[^key-a35c601972d3330efbbbf36ab6460aea] (1) On an appeal under paragraph 4, the appointed person may—
+**5.**[^c-a35c601972d3330efbbbf36ab6460aea] (1) On an appeal under paragraph 4, the appointed person may—
 
 - (a) allow or dismiss the appeal; or
 - (b) reverse or vary any part of the decision of the relevant authority (whether the appeal relates to that part of it or not),
@@ -115,32 +115,32 @@ and may deal with the application as if it had been made to the appointed person
 
 ### Interpretation of Schedule 4
 
-**6.**[^key-87b5ac8ed0ba421bcc03fee494071ab0] In this Schedule—
+**6.**[^c-87b5ac8ed0ba421bcc03fee494071ab0] In this Schedule—
 
 - “**the appeal parties**” means the relevant authority, the requirement consultee and the undertaker;
-- “**relevant authority**” means the body responsible for giving any consent[^key-82c21761bc27697809a37dd57c09e365], agreement or approval under this schedule or relevant owner of a watercourse, sewer or drain as may be appropriate to the consent, agreement or approval sought; and
+- “**relevant authority**” means the body responsible for giving any consent[^c-82c21761bc27697809a37dd57c09e365], agreement or approval under this schedule or relevant owner of a watercourse, sewer or drain as may be appropriate to the consent, agreement or approval sought; and
 - “**requirement consultee**” means any body named in a requirement which is the subject of an appeal as a body to be consulted by the relevant authority in discharging that requirement.
 
 ## Annotations
 
-[^key-60dee5aa4604c3c8f72eaeb94211e55d]: Commencement: Sch. 4 para. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-60dee5aa4604c3c8f72eaeb94211e55d]: Commencement: Sch. 4 para. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-1ec0553a66d5ab5339368f383df2f108]: Textual amendment: Word in [Sch. 4 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/958/schedule/4/paragraph/1/3/a) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-1ec0553a66d5ab5339368f383df2f108]: Textual amendment: Word in [Sch. 4 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/958/schedule/4/paragraph/1/3/a) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-55db7197afd129e35c9ae3fd13744a7a]: Textual amendment: Words in [Sch. 4 para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/958/schedule/4/paragraph/1/3/c) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-55db7197afd129e35c9ae3fd13744a7a]: Textual amendment: Words in [Sch. 4 para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/958/schedule/4/paragraph/1/3/c) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-2560d7f8f2c4bdb5f738d3ebe9b5c221]: Commencement: Sch. 4 para. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-2560d7f8f2c4bdb5f738d3ebe9b5c221]: Commencement: Sch. 4 para. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-85dde37cb6b6029d00dbc77022947b8c]: Textual amendment: Word in [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2024/958/schedule/4/paragraph/2/2) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-85dde37cb6b6029d00dbc77022947b8c]: Textual amendment: Word in [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2024/958/schedule/4/paragraph/2/2) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-db24672aec080357805a92a59494ba5e]: Commencement: Sch. 4 para. 3 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-db24672aec080357805a92a59494ba5e]: Commencement: Sch. 4 para. 3 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-36d6b6f2362f532923ca1f13b2e650ce]: Textual amendment: Word in [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/uksi/2024/958/schedule/4/paragraph/3/1) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-36d6b6f2362f532923ca1f13b2e650ce]: Textual amendment: Word in [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/uksi/2024/958/schedule/4/paragraph/3/1) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-24209c7a537cd8f14d803c6bd147dc0c]: Commencement: Sch. 4 para. 4 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-24209c7a537cd8f14d803c6bd147dc0c]: Commencement: Sch. 4 para. 4 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-a35c601972d3330efbbbf36ab6460aea]: Commencement: Sch. 4 para. 5 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-a35c601972d3330efbbbf36ab6460aea]: Commencement: Sch. 4 para. 5 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-87b5ac8ed0ba421bcc03fee494071ab0]: Commencement: Sch. 4 para. 6 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-87b5ac8ed0ba421bcc03fee494071ab0]: Commencement: Sch. 4 para. 6 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-82c21761bc27697809a37dd57c09e365]: Textual amendment: Words in [Sch. 4 para. 4(6)](https://www.legislation.gov.uk/uksi/2024/958/schedule/4/paragraph/4/6) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-82c21761bc27697809a37dd57c09e365]: Textual amendment: Words in [Sch. 4 para. 4(6)](https://www.legislation.gov.uk/uksi/2024/958/schedule/4/paragraph/4/6) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6b93ec4c719e37539eced73d04c641f8] This section applies to any payment made in a tax year where condition A or condition B is met.
+(1)[^c-6b93ec4c719e37539eced73d04c641f8] This section applies to any payment made in a tax year where condition A or condition B is met.
 
 (2) Condition A is that—
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b93ec4c719e37539eced73d04c641f8]: Textual amendment: S. 906(1)-(3) substituted (with effect in accordance with s. 40(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/40/2) (with [s. 40(5)-(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/40/5))
+[^c-6b93ec4c719e37539eced73d04c641f8]: Textual amendment: S. 906(1)-(3) substituted (with effect in accordance with s. 40(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/40/2) (with [s. 40(5)-(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/40/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99A. Verdict of guilty or not guilty and majority for guilty verdict[^key-26975a4c4611780abbcaa245466340c8]
+## 99A. Verdict of guilty or not guilty and majority for guilty verdict[^c-26975a4c4611780abbcaa245466340c8]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26975a4c4611780abbcaa245466340c8]: Textual amendment: S. 99A inserted (1.1.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 65(2)](https://www.legislation.gov.uk/asp/2025/12/section/65/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))
+[^c-26975a4c4611780abbcaa245466340c8]: Textual amendment: S. 99A inserted (1.1.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 65(2)](https://www.legislation.gov.uk/asp/2025/12/section/65/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))

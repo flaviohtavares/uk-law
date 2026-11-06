@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Deposit constraint on bidding[^key-d352671d2b88af0badbdbf3d96b99b5d]
+## 44. Deposit constraint on bidding[^c-d352671d2b88af0badbdbf3d96b99b5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d352671d2b88af0badbdbf3d96b99b5d]: Commencement: Reg. 44 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-d352671d2b88af0badbdbf3d96b99b5d]: Commencement: Reg. 44 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

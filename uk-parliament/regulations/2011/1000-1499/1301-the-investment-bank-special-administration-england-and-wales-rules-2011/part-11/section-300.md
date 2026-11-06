@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 300. Notice etc to joint administrators[^key-f8b34b6bb9dc2336d3eaa9c9b4d43ada]
+## 300. Notice etc to joint administrators[^c-f8b34b6bb9dc2336d3eaa9c9b4d43ada]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where there are joint office-holders in a special administration, delivery of a 
 
 ## Annotations
 
-[^key-f8b34b6bb9dc2336d3eaa9c9b4d43ada]: Commencement: [Rule 300](https://www.legislation.gov.uk/uksi/2011/1301/rule/300) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f8b34b6bb9dc2336d3eaa9c9b4d43ada]: Commencement: [Rule 300](https://www.legislation.gov.uk/uksi/2011/1301/rule/300) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

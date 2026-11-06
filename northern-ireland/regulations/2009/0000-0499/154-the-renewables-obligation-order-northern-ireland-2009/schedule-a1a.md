@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE A1A — Greenhouse gas emission criteria for solid and gaseous biomass[^key-cbcb75ca760fea1bf7e35a1ffdb7fdf8][^key-7f9384a5d8ef519bceecfd5ab64a855b]
+## SCHEDULE A1A — Greenhouse gas emission criteria for solid and gaseous biomass[^c-cbcb75ca760fea1bf7e35a1ffdb7fdf8][^c-7f9384a5d8ef519bceecfd5ab64a855b]
 
 *Extent: N.I.*
 
@@ -181,6 +181,6 @@ For the purposes of paragraph 2, and subject to paragraph 4, the greenhouse gas 
 
 ## Annotations
 
-[^key-cbcb75ca760fea1bf7e35a1ffdb7fdf8]: Textual amendment: [Sch. A1A](https://www.legislation.gov.uk/nisr/2009/154/schedule/A1A) inserted (1.3.2016) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [9](https://www.legislation.gov.uk/nisr/2016/84/article/9), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/84/schedule/1) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
+[^c-cbcb75ca760fea1bf7e35a1ffdb7fdf8]: Textual amendment: [Sch. A1A](https://www.legislation.gov.uk/nisr/2009/154/schedule/A1A) inserted (1.3.2016) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [9](https://www.legislation.gov.uk/nisr/2016/84/article/9), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/84/schedule/1) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
 
-[^key-7f9384a5d8ef519bceecfd5ab64a855b]: Textual amendment: [Schs. A1](https://www.legislation.gov.uk/nisr/2009/154/schedule/A1), [A2](https://www.legislation.gov.uk/nisr/2009/154/schedule/A2) inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [art. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2011/169/schedule/1) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
+[^c-7f9384a5d8ef519bceecfd5ab64a855b]: Textual amendment: [Schs. A1](https://www.legislation.gov.uk/nisr/2009/154/schedule/A1), [A2](https://www.legislation.gov.uk/nisr/2009/154/schedule/A2) inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [art. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2011/169/schedule/1) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))

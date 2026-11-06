@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Safety duties protecting children: interpretation[^key-11fce1a9154ccf644fa2bc0bdbfcf1a9][^key-5ca7b50608da814d69d6627e07d0329e]
+## 13. Safety duties protecting children: interpretation[^c-11fce1a9154ccf644fa2bc0bdbfcf1a9][^c-5ca7b50608da814d69d6627e07d0329e]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11fce1a9154ccf644fa2bc0bdbfcf1a9]: Commencement: S. 13 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-11fce1a9154ccf644fa2bc0bdbfcf1a9]: Commencement: S. 13 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-5ca7b50608da814d69d6627e07d0329e]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/50/section/13) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/d)
+[^c-5ca7b50608da814d69d6627e07d0329e]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/50/section/13) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/d)

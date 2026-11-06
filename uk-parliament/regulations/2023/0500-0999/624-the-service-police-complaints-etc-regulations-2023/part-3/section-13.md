@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Reference of complaints to the Commissioner[^key-b7d46915c64b0590c38a44c83a147a7b]
+## 13. Reference of complaints to the Commissioner[^c-b7d46915c64b0590c38a44c83a147a7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ is exercisable at any time irrespective of whether the complaint is already bein
 
 ## Annotations
 
-[^key-b7d46915c64b0590c38a44c83a147a7b]: Commencement: Reg. 13 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-b7d46915c64b0590c38a44c83a147a7b]: Commencement: Reg. 13 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

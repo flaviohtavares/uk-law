@@ -228,7 +228,7 @@ Regulation 9
 > </tbody>
 > </table>
 >
-> [^key-2e8e1af3e847e678385b2ef77d4f6b92][^key-e2c8b303ed8a76fe08766b604f431301][^key-1b08b9d885dd8714183645376421b5cc][^key-1b08b9d885dd8714183645376421b5cc][^key-1b08b9d885dd8714183645376421b5cc][^key-1b08b9d885dd8714183645376421b5cc]
+> [^c-2e8e1af3e847e678385b2ef77d4f6b92][^c-e2c8b303ed8a76fe08766b604f431301][^c-1b08b9d885dd8714183645376421b5cc][^c-1b08b9d885dd8714183645376421b5cc][^c-1b08b9d885dd8714183645376421b5cc][^c-1b08b9d885dd8714183645376421b5cc]
 >
 > **SCHEDULE 10 — PARAMETERS , PROPERTIES, ELEMENTS, SUBSTANCES AND ORGANISMS IN RELATION TO WHICH CHECK MONITORING MUST BE CARRIED OUT**
 >
@@ -314,8 +314,8 @@ Regulation 9
 
 [^c20159431]: Marginal citation: OJ No. L37, 10.2.2010, p.13.
 
-[^key-2e8e1af3e847e678385b2ef77d4f6b92]: Textual amendment: Word in Sch. 2 substituted (8.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) (No.2) Regulations 2010 (S.I. 2010/896)](https://www.legislation.gov.uk/uksi/2010/896/1), [regs. 1](https://www.legislation.gov.uk/uksi/2010/896/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2010/896/regulation/3/a/i)
+[^c-2e8e1af3e847e678385b2ef77d4f6b92]: Textual amendment: Word in Sch. 2 substituted (8.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) (No.2) Regulations 2010 (S.I. 2010/896)](https://www.legislation.gov.uk/uksi/2010/896/1), [regs. 1](https://www.legislation.gov.uk/uksi/2010/896/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2010/896/regulation/3/a/i)
 
-[^key-e2c8b303ed8a76fe08766b604f431301]: Textual amendment: Word in Sch. 2 substituted (8.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) (No.2) Regulations 2010 (S.I. 2010/896)](https://www.legislation.gov.uk/uksi/2010/896), [regs. 1](https://www.legislation.gov.uk/uksi/2010/896/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2010/896/regulation/3/a/ii)
+[^c-e2c8b303ed8a76fe08766b604f431301]: Textual amendment: Word in Sch. 2 substituted (8.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) (No.2) Regulations 2010 (S.I. 2010/896)](https://www.legislation.gov.uk/uksi/2010/896), [regs. 1](https://www.legislation.gov.uk/uksi/2010/896/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2010/896/regulation/3/a/ii)
 
-[^key-1b08b9d885dd8714183645376421b5cc]: Textual amendment: Word in Sch. 2 omitted (8.4.2010) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) (No.2) Regulations 2010 (S.I. 2010/896)](https://www.legislation.gov.uk/uksi/2010/896), [regs. 1](https://www.legislation.gov.uk/uksi/2010/896/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/896/regulation/3/b)
+[^c-1b08b9d885dd8714183645376421b5cc]: Textual amendment: Word in Sch. 2 omitted (8.4.2010) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) (No.2) Regulations 2010 (S.I. 2010/896)](https://www.legislation.gov.uk/uksi/2010/896), [regs. 1](https://www.legislation.gov.uk/uksi/2010/896/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/896/regulation/3/b)

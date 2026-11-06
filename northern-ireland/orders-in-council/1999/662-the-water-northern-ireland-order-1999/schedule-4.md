@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — DESCRIPTION OF CANAL WORKS, ETC.[^key-884aae3a7b21b56efe8aa841bfaa89ca]
+## SCHEDULE 4 — DESCRIPTION OF CANAL WORKS, ETC.[^c-884aae3a7b21b56efe8aa841bfaa89ca]
 
 *Extent: N.I.*
 
@@ -63,6 +63,6 @@ Article 42(4)(a).
 
 ## Annotations
 
-[^key-884aae3a7b21b56efe8aa841bfaa89ca]: Modification: Schs. 3-5: transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-884aae3a7b21b56efe8aa841bfaa89ca]: Modification: Schs. 3-5: transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^m00024]: Marginal citation: 1993 NI 15.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Power to appropriate[^key-82f4524147d342851b1b20ccf97975f4]
+## 22. Power to appropriate[^c-82f4524147d342851b1b20ccf97975f4]
 
 *Extent: E+W*
 
@@ -24,11 +24,11 @@ summary: ''
 
 (2) No person or vessel may make use of any part of the authorised development so set apart or appropriated without the consent of the dock master, and—
 
-- (a) the dock master may order any person or vessel making use of the authorised development without such consent to be removed; and[^key-327b0f91046448259e844cfe2492b29f]
+- (a) the dock master may order any person or vessel making use of the authorised development without such consent to be removed; and[^c-327b0f91046448259e844cfe2492b29f]
 - (b) the provisions of section 58 of the 1847 Act (powers of harbour master as to mooring of vessels in harbour), as incorporated by this Order, extend and apply with the necessary modifications to any such vessel.
 
 ## Annotations
 
-[^key-82f4524147d342851b1b20ccf97975f4]: Commencement: Art. 22 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-82f4524147d342851b1b20ccf97975f4]: Commencement: Art. 22 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-327b0f91046448259e844cfe2492b29f]: Textual amendment: Word in [art. 22(2)(a)](https://www.legislation.gov.uk/uksi/2024/1014/article/22/2/a) inserted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
+[^c-327b0f91046448259e844cfe2492b29f]: Textual amendment: Word in [art. 22(2)(a)](https://www.legislation.gov.uk/uksi/2024/1014/article/22/2/a) inserted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368Z18. Guidance[^key-02dd9f734f9de221efb556998936ddc9]
+## 368Z18. Guidance[^c-02dd9f734f9de221efb556998936ddc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02dd9f734f9de221efb556998936ddc9]: Textual amendment: Pt. 4C inserted (28.6.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/3)
+[^c-02dd9f734f9de221efb556998936ddc9]: Textual amendment: Pt. 4C inserted (28.6.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/3)

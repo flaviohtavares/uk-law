@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Commission Implementing Regulation (EU) 2015/2065[^key-1ea7927efed8ebb45cf6a2cb4a8dc236]
+## 67. Commission Implementing Regulation (EU) 2015/2065[^c-1ea7927efed8ebb45cf6a2cb4a8dc236]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Regulation (EU) 2015/2065 establishing, pursuant to Regu
 
 ## Annotations
 
-[^key-1ea7927efed8ebb45cf6a2cb4a8dc236]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-1ea7927efed8ebb45cf6a2cb4a8dc236]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Income tax, etc.[^key-0f3225cb3455959666f82bdd9bb8ce39]
+## 161. Income tax, etc.[^c-0f3225cb3455959666f82bdd9bb8ce39]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f3225cb3455959666f82bdd9bb8ce39]: Textual amendment: S. 161 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-0f3225cb3455959666f82bdd9bb8ce39]: Textual amendment: S. 161 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

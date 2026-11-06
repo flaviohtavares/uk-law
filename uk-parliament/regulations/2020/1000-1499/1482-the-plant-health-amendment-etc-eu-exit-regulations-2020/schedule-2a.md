@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Transitional provision: plants to which Article 72(1) does not apply[^key-56c831770fad387fa0f4bdb4a562b413]
+## SCHEDULE 2A — Transitional provision: plants to which Article 72(1) does not apply[^c-56c831770fad387fa0f4bdb4a562b413]
 
 *Extent: E+W+S*
 
@@ -42,26 +42,26 @@ Regulation 52(2B)
 </tbody>
 </table>
 
-[^f01000][^key-371c77055bcd135b041a138252234e78][^key-371c77055bcd135b041a138252234e78][^key-371c77055bcd135b041a138252234e78][^key-ad3e27b3e30ef56551b2e1400e14ede9][^key-ad5c7efa25dacdf53ea342bcc370def5][^key-704e02f803f72c6dffede5afc129ea4e][^key-56f7907178adeb5945e9e046b62fa632][^key-e63cab5f7e3f04019715e945fc6e773f][^key-dc83a290a2ff5a63ba0860c3f007499d][^key-dc83a290a2ff5a63ba0860c3f007499d][^key-dc83a290a2ff5a63ba0860c3f007499d]
+[^f01000][^c-371c77055bcd135b041a138252234e78][^c-371c77055bcd135b041a138252234e78][^c-371c77055bcd135b041a138252234e78][^c-ad3e27b3e30ef56551b2e1400e14ede9][^c-ad5c7efa25dacdf53ea342bcc370def5][^c-704e02f803f72c6dffede5afc129ea4e][^c-56f7907178adeb5945e9e046b62fa632][^c-e63cab5f7e3f04019715e945fc6e773f][^c-dc83a290a2ff5a63ba0860c3f007499d][^c-dc83a290a2ff5a63ba0860c3f007499d][^c-dc83a290a2ff5a63ba0860c3f007499d]
 
 ## Annotations
 
-[^key-56c831770fad387fa0f4bdb4a562b413]: Textual amendment: Sch. 2A inserted (E.W.S.) (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/20/schedule/1)
+[^c-56c831770fad387fa0f4bdb4a562b413]: Textual amendment: Sch. 2A inserted (E.W.S.) (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/20/schedule/1)
 
-[^f01000]: Footnote: (1)[^key-56c831770fad387fa0f4bdb4a562b413]
+[^f01000]: Footnote: (1)[^c-56c831770fad387fa0f4bdb4a562b413]
 
     “**Annex 11 to the Phytosanitary Conditions Regulation**” means Annex 11 to [Regulation (EU) 2019/2072](https://www.legislation.gov.uk/european/regulation/2019/2072) establishing uniform conditions for the implementation of [Regulation (EU) 2016/2031](https://www.legislation.gov.uk/european/regulation/2016/2031) of the European Parliament and the Council, as regards protective measures against pests of plants.
 
-[^key-371c77055bcd135b041a138252234e78]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/uksi/2020/1482/schedule/2A) omitted (30.1.2025) by virtue of [The Official Controls (Plant Health) and Phytosanitary Conditions (Amendment) Regulations 2025 (S.I. 2025/13)](https://www.legislation.gov.uk/uksi/2025/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/13/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2025/13/regulation/13/2/a)
+[^c-371c77055bcd135b041a138252234e78]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/uksi/2020/1482/schedule/2A) omitted (30.1.2025) by virtue of [The Official Controls (Plant Health) and Phytosanitary Conditions (Amendment) Regulations 2025 (S.I. 2025/13)](https://www.legislation.gov.uk/uksi/2025/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/13/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2025/13/regulation/13/2/a)
 
-[^key-ad3e27b3e30ef56551b2e1400e14ede9]: Textual amendment: Words in Sch. 2A inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2024/541/regulation/9/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-ad3e27b3e30ef56551b2e1400e14ede9]: Textual amendment: Words in Sch. 2A inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2024/541/regulation/9/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-ad5c7efa25dacdf53ea342bcc370def5]: Textual amendment: Words in Sch. 2A substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/541/regulation/9/2/b/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-ad5c7efa25dacdf53ea342bcc370def5]: Textual amendment: Words in Sch. 2A substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/541/regulation/9/2/b/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-704e02f803f72c6dffede5afc129ea4e]: Textual amendment: Words in Sch. 2A substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/9/2/b/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-704e02f803f72c6dffede5afc129ea4e]: Textual amendment: Words in Sch. 2A substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/9/2/b/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-56f7907178adeb5945e9e046b62fa632]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/uksi/2020/1482/schedule/2A) inserted (30.1.2025) by [The Official Controls (Plant Health) and Phytosanitary Conditions (Amendment) Regulations 2025 (S.I. 2025/13)](https://www.legislation.gov.uk/uksi/2025/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/13/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2025/13/regulation/13/2/b)
+[^c-56f7907178adeb5945e9e046b62fa632]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/uksi/2020/1482/schedule/2A) inserted (30.1.2025) by [The Official Controls (Plant Health) and Phytosanitary Conditions (Amendment) Regulations 2025 (S.I. 2025/13)](https://www.legislation.gov.uk/uksi/2025/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/13/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2025/13/regulation/13/2/b)
 
-[^key-e63cab5f7e3f04019715e945fc6e773f]: Textual amendment: Words in Sch. 2A inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2024/541/regulation/9/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-e63cab5f7e3f04019715e945fc6e773f]: Textual amendment: Words in Sch. 2A inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2024/541/regulation/9/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-dc83a290a2ff5a63ba0860c3f007499d]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/uksi/2020/1482/schedule/2A) omitted (30.1.2025) by virtue of [The Official Controls (Plant Health) and Phytosanitary Conditions (Amendment) Regulations 2025 (S.I. 2025/13)](https://www.legislation.gov.uk/uksi/2025/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/13/regulation/1/2), [13(2)(c)](https://www.legislation.gov.uk/uksi/2025/13/regulation/13/2/c)
+[^c-dc83a290a2ff5a63ba0860c3f007499d]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/uksi/2020/1482/schedule/2A) omitted (30.1.2025) by virtue of [The Official Controls (Plant Health) and Phytosanitary Conditions (Amendment) Regulations 2025 (S.I. 2025/13)](https://www.legislation.gov.uk/uksi/2025/13), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/13/regulation/1/2), [13(2)(c)](https://www.legislation.gov.uk/uksi/2025/13/regulation/13/2/c)

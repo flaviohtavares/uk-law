@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Power to enter and survey land[^key-e3f5065bf3f76a66cc8f926f963db65f]
+## 17. Power to enter and survey land[^c-e3f5065bf3f76a66cc8f926f963db65f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3f5065bf3f76a66cc8f926f963db65f]: Textual amendment: Ss. 17, 18 omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 27](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/27); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
+[^c-e3f5065bf3f76a66cc8f926f963db65f]: Textual amendment: Ss. 17, 18 omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 27](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/27); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))

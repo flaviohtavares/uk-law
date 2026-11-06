@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Proof by written statement.[^key-75733bc09cbb391cc48663e21be346e9]
+## 69. Proof by written statement.[^c-75733bc09cbb391cc48663e21be346e9]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75733bc09cbb391cc48663e21be346e9]: Textual amendment: S. 69 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(6)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/6/d), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
+[^c-75733bc09cbb391cc48663e21be346e9]: Textual amendment: S. 69 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(6)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/6/d), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)

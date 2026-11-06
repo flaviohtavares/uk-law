@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Consequential amendments[^key-4634a08b47d3a5413c66a6cf5af8a611]
+## 61. Consequential amendments[^c-4634a08b47d3a5413c66a6cf5af8a611]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 (electoral arrangements: consequential amendments) has effect.
 
 ## Annotations
 
-[^key-4634a08b47d3a5413c66a6cf5af8a611]: Commencement: S. 61 in force at 30.12.2007, see s. 245(2)
+[^c-4634a08b47d3a5413c66a6cf5af8a611]: Commencement: S. 61 in force at 30.12.2007, see s. 245(2)

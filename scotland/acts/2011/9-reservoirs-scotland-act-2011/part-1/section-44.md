@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-d5489f7e154b40701443e1c0f9945947] Subsection (2) applies in relation to controlled reservoirs—
+(1)[^c-d5489f7e154b40701443e1c0f9945947] Subsection (2) applies in relation to controlled reservoirs—
 
 - (a) which were, immediately before the commencement date, large raised reservoirs,
 - (b) which are, on that date, subject to relevant works.
 
-(2)[^key-d5489f7e154b40701443e1c0f9945947] This Chapter, and sections 65 to 67, apply in relation to such controlled reservoirs on and after the commencement date as they apply in relation to controlled reservoirs which are subject to relevant works wholly on or after that date.
+(2)[^c-d5489f7e154b40701443e1c0f9945947] This Chapter, and sections 65 to 67, apply in relation to such controlled reservoirs on and after the commencement date as they apply in relation to controlled reservoirs which are subject to relevant works wholly on or after that date.
 
 (3) Subsection (4) applies in relation to controlled reservoirs—
 
@@ -45,11 +45,11 @@ summary: ''
 
   .
 
-(6)[^key-d5489f7e154b40701443e1c0f9945947] In this section—
+(6)[^c-d5489f7e154b40701443e1c0f9945947] In this section—
 
 - “**the commencement date**” means the date on which section 32 is commenced,
 - “**large raised reservoir**” has the same meaning as in section 1(1) of the 1975 Act.
 
 ## Annotations
 
-[^key-d5489f7e154b40701443e1c0f9945947]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/asp/2011/9/section/44/1)[(2)](https://www.legislation.gov.uk/asp/2011/9/section/44/2)[(6)](https://www.legislation.gov.uk/asp/2011/9/section/44/6) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-d5489f7e154b40701443e1c0f9945947]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/asp/2011/9/section/44/1)[(2)](https://www.legislation.gov.uk/asp/2011/9/section/44/2)[(6)](https://www.legislation.gov.uk/asp/2011/9/section/44/6) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

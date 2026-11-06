@@ -46,15 +46,15 @@ The Secretary of State for Work and Pensions has made an Order[^f00002] under se
 
 Accordingly the Department for Communities[^f00004] makes the following Order:
 
-## 1. Citation and commencement[^key-3b9a3efb4e8569de9c51e2268f66fb5d]
+## 1. Citation and commencement[^c-3b9a3efb4e8569de9c51e2268f66fb5d]
 
 This Order may be cited as the Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2026 and shall come into operation on 31st March 2026.
 
-## 2. The levy ceiling[^key-0e4e35081fb2d04be1ea85fd6584d678]
+## 2. The levy ceiling[^c-0e4e35081fb2d04be1ea85fd6584d678]
 
 For the purposes of Article 160 of the Pensions (Northern Ireland) Order 2005 (amounts to be raised by the pension protection levies), the levy ceiling for the financial year beginning on 1st April 2026 is £1,473,343,665.61.
 
-## 3. Revocation[^key-97a56118e2eb4ae93b14c621cf783173]
+## 3. Revocation[^c-97a56118e2eb4ae93b14c621cf783173]
 
 The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2025[^f00005] is revoked.
 
@@ -88,10 +88,10 @@ Article 3 makes a revocation.
 
 [^f00004]: Footnote: *See* section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-3b9a3efb4e8569de9c51e2268f66fb5d]: Commencement: Art. 1 in operation at 31.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/43/article/1)
+[^c-3b9a3efb4e8569de9c51e2268f66fb5d]: Commencement: Art. 1 in operation at 31.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/43/article/1)
 
-[^key-0e4e35081fb2d04be1ea85fd6584d678]: Commencement: Art. 2 in operation at 31.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/43/article/1)
+[^c-0e4e35081fb2d04be1ea85fd6584d678]: Commencement: Art. 2 in operation at 31.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/43/article/1)
 
-[^key-97a56118e2eb4ae93b14c621cf783173]: Commencement: Art. 3 in operation at 31.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/43/article/1)
+[^c-97a56118e2eb4ae93b14c621cf783173]: Commencement: Art. 3 in operation at 31.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/43/article/1)
 
 [^f00005]: Footnote: [S.R. 2025 No. 38](https://www.legislation.gov.uk/nisr/2025/38)

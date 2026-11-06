@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.20. Compensation – general[^key-567dc257dee6daa561d0cb830969a050]
+## 33.20. Compensation – general[^c-567dc257dee6daa561d0cb830969a050]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ at least 5 business days before the date fixed by the court for hearing the appl
 
 ## Annotations
 
-[^key-567dc257dee6daa561d0cb830969a050]: Commencement: [Rule 33.20](https://www.legislation.gov.uk/uksi/2025/909/rule/33.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-567dc257dee6daa561d0cb830969a050]: Commencement: [Rule 33.20](https://www.legislation.gov.uk/uksi/2025/909/rule/33.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00810]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 72 was amended by section 50(6) of, and paragraph 97 of Schedule 4 to, the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), section 61 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) and sections 15 and 55 of, and paragraphs 108 and 114 of Schedule 8 and paragraphs 14 and 19 of Schedule 21 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).

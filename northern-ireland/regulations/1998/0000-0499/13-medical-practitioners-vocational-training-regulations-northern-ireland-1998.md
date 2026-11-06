@@ -42,11 +42,11 @@ The Department of Health and Social Services being a Department designated[^f000
 
 ## Part I — General
 
-### 1. Citation and commencement[^key-32a485471abab918a98f0669039672d9]
+### 1. Citation and commencement[^c-32a485471abab918a98f0669039672d9]
 
 These Regulations may be cited as the Medical Practitioners (Vocational Training) Regulations (Northern Ireland) 1998 and shall come into operation on 30th January 1998.
 
-### 2. Interpretation[^key-ab30d3234106b3d187865248e875c875]
+### 2. Interpretation[^c-ab30d3234106b3d187865248e875c875]
 
 (1) In these Regulations—
 
@@ -54,13 +54,13 @@ These Regulations may be cited as the Medical Practitioners (Vocational Training
 - “appeal body” means the body appointed by the Department under regulation 14;
 - “certificate of prescribed experience” means a certificate issued pursuant to regulation 10 and, for the purposes of regulation 4 includes a certificate of prescribed experience issued under the Medical Practitioners (Vocational Training) Regulations (Northern Ireland) 1979[^f00004];
 - “certificate of equivalent experience” means a certificate issued pursuant to regulation 12 and, for the purposes of regulation 4, includes a certificate of equivalent experience issued under the Medical Practitioners (Vocational Training) Regulations (Northern Ireland) 1979;
-- “[^key-13656a289950a2a263bad03aba4f558e]**EEA Agreement**” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993 and as amended by Decisions of the EEA Joint Committee Nos. 7/94 of 21st March 1994, 190/1999 of 17th December 1999, 89/2000 of 27th October 2000 and 84/2002 of 25th June 2002 [^c5104211];
+- “[^c-13656a289950a2a263bad03aba4f558e]**EEA Agreement**” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993 and as amended by Decisions of the EEA Joint Committee Nos. 7/94 of 21st March 1994, 190/1999 of 17th December 1999, 89/2000 of 27th October 2000 and 84/2002 of 25th June 2002 [^c5104211];
 - “**EEA State**” means a State which is a Contracting Party to the EEA Agreement or Switzerland;
 - “General Practice (GP) Registrar” has the meaning assigned to it in regulation 2 of the General Medical Services Regulations, regulation 2(1) of the National Health Service (General Medical Services) Regulations 1992[^f00005] and regulation 2(1) of the National Health Service (General Medical Services) (Scotland) Regulations 1995[^f00006], and also includes a practitioner who is being trained in general practice under an arrangement approved by the Armed Services General Practice Approval Board;
 - “the General Medical Services Regulations” means the General Medical Services Regulations (Northern Ireland) 1997[^f00007];
 - “Health and Social Services Board” includes an HSS Trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991[^f00008] and any person responsible for the management of a hospital which is not vested in either the Department or an HSS Trust;
 - “the Joint Committee” means the Joint Committee on Postgraduate Training for General Practice;
-- “[^key-8769df1420186b6108a9f5eb817c5dba]**Medical Directive**” means Council Directive [93/16/EEC](https://www.legislation.gov.uk/eudr/1993/16) of 5th April 1993 to facilitate the free movement of doctors and the mutual recognition of their diplomas, certificates and other evidence of formal qualifications as adapted or amended by—
+- “[^c-8769df1420186b6108a9f5eb817c5dba]**Medical Directive**” means Council Directive [93/16/EEC](https://www.legislation.gov.uk/eudr/1993/16) of 5th April 1993 to facilitate the free movement of doctors and the mutual recognition of their diplomas, certificates and other evidence of formal qualifications as adapted or amended by—
   - (a) Annex VII to the EEA Agreement;
   - (b) the Act annexed to the Treaty relating to the accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden signed at Corfu on the 24th June 1994, as adjusted by the Decision of the Council of the European Union of 1st January 1995 adjusting the instruments concerning the accession of new Member States to the European Union;
   - (c) Council Directive [97/50/EC](https://www.legislation.gov.uk/eudr/1997/50) of 6th October 1997, Commission Directive [98/21/EC](https://www.legislation.gov.uk/eudr/1998/21) of 8th April 1998, Commission Directive [98/63/EC](https://www.legislation.gov.uk/eudr/1998/63) of 3rd September 1998, Commission Directive [1996/46/EC](https://www.legislation.gov.uk/eudr/1996/46) of 21st May 1999, Directive [2001/19/EC](https://www.legislation.gov.uk/eudr/2001/19) of 14th May 2001; and
@@ -72,7 +72,7 @@ These Regulations may be cited as the Medical Practitioners (Vocational Training
 - “**the Swiss Agreement**” means the Agreement between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other, on the free movement of persons, signed at Luxembourg on 21st June 1999.
 - “trainer” has the meaning assigned to it in regulation 7(1).
 
-### 3. Power of direction[^key-223c886532d1345350e698d5ddf5d1d0]
+### 3. Power of direction[^c-223c886532d1345350e698d5ddf5d1d0]
 
 (1) Subject to paragraph (2), the Department may give directions to the Joint Committee in connection with—
 
@@ -83,7 +83,7 @@ and it shall be the duty of the Joint Committee to comply with any such directio
 
 (2) Directions given under paragraph (1) may be as to matters of administration only.
 
-### 4. Experience and certificates required[^key-5df4503e5e22e6c2d3ae00a1158b36c6]
+### 4. Experience and certificates required[^c-5df4503e5e22e6c2d3ae00a1158b36c6]
 
 (1) Subject to paragraph (2), a Health and Social Services Board shall not arrange under Article 56 of the principal Order with a practitioner for him to provide general medical services for persons in its area unless he is suitably experienced within the meaning of Article 8(2) of the 1978 Order.
 
@@ -95,7 +95,7 @@ and it shall be the duty of the Joint Committee to comply with any such directio
 - (b) a certificate of equivalent experience; or
 - (c) a statement of the grounds (with evidence in support thereof) upon which the practitioner claims exemption from the need to have the prescribed experience by virtue of regulation 5.
 
-### 5. Exemptions[^key-1c703d5e29569b0c511e12c38702f569]
+### 5. Exemptions[^c-1c703d5e29569b0c511e12c38702f569]
 
 (1) A practitioner shall be exempt from the need to have acquired the prescribed experience—
 
@@ -121,13 +121,13 @@ and it shall be the duty of the Joint Committee to comply with any such directio
 - “certificate of acquired rights” means a certificate issued under Article 36(4) of the Medical Directive, to the effect that its holder has an acquired right to practise as a general medical practitioner under the national social security scheme of the issuing State without a vocational training certificate[^f00018];
 - “child health surveillance services”, “maternity medical services” and “minor surgery services” have the meaning assigned by regulation 2 of the General Medical Services Regulations;
 - “contraceptive services” has the meaning assigned by regulation 3(1)(*c*) of the General Medical Services Regulations;
-- [^key-de941e6df45a1f8d5e17c1d1f50f754f]...[^f00019]
-- [^key-de941e6df45a1f8d5e17c1d1f50f754f]...
+- [^c-de941e6df45a1f8d5e17c1d1f50f754f]...[^f00019]
+- [^c-de941e6df45a1f8d5e17c1d1f50f754f]...
 - “vocational training certificate” means a diploma, certificate or other evidence of formal qualifications awarded on completion of a course of specific training in general medical practice and referred to in Article 30 of the Medical Directive.
 
 ## Part II — Prescribed Experience
 
-### 6. Prescribed Medical experience[^key-e3f554421f621ee0bc35ba3274f4f94e]
+### 6. Prescribed Medical experience[^c-e3f554421f621ee0bc35ba3274f4f94e]
 
 (1) Subject to regulation 12(9), the medical experience prescribed for the purposes of Article 8(2) of the 1978 Order is the satisfactory completion of a period or periods of training amounting to at least three years employment, and meeting the other requirements of this regulation.
 
@@ -161,18 +161,18 @@ and it shall be the duty of the Joint Committee to comply with any such directio
 (8) In relation to periods of part-time employment—
 
 - (a) in computing any period of training which began on or before 31st December 1994 there shall be disregarded any period of part-time employment during which the duties of the practitioner employed occupied less than half of the time usually occupied by the duties of practitioners employed whole-time in similar employment; and
-- (b)[^key-6f4cd8aa54efeee82df7c6a9fcc660ad] in computing any period of training which began after 31st December 1994 there shall be disregarded any period of part-time employment during which the duties of the person employed, taken week by week, occupied less than the specified percentage of the time usually occupied by the duties of persons employed whole-time in similar employment;
+- (b)[^c-6f4cd8aa54efeee82df7c6a9fcc660ad] in computing any period of training which began after 31st December 1994 there shall be disregarded any period of part-time employment during which the duties of the person employed, taken week by week, occupied less than the specified percentage of the time usually occupied by the duties of persons employed whole-time in similar employment;
 
 and in relation to any period of training which began after 31st December 1994 employment which is not whole-time shall not be regarded as equivalent to whole-time employment unless it includes at least two periods of whole-time employment, each lasting not less than one week, one such period falling within paragraph (3) and one within paragraph (4).
 
-(8A)[^key-11f70ed11c0069e0b2409ecc893eb7f3] For the purposes of paragraph (8)(b), the specified percentage is—
+(8A)[^c-11f70ed11c0069e0b2409ecc893eb7f3] For the purposes of paragraph (8)(b), the specified percentage is—
 
 - (i) for any training which takes place after 31st December 1994 but before 1st January 2003, 60 per cent, and
 - (ii) for any training which takes place after 31st December 2002, 50 per cent.
 
 (9) For the purposes of this regulation, a “month” includes a period which begins on the first Wednesday of the month (whether or not that is the first day of the month) and ends on the last day of the month.
 
-### 7. Approval of trainers[^key-8248df7727ada11b1ba6f31fcce539e1]
+### 7. Approval of trainers[^c-8248df7727ada11b1ba6f31fcce539e1]
 
 (1) A practitioner falls within this paragraph for the purposes of regulation 6(3) if—
 
@@ -193,7 +193,7 @@ and in relation to any period of training which began after 31st December 1994 e
 
 (8) Where the Department has required the Joint Committee to reconsider a decision, paragraphs (4) to (7) shall apply in relation to a second or subsequent decision by the Joint Committee to refuse to approve a practitioner under paragraph (1) or, as the case may be, to withdraw his approval, as they apply in relation to the first such decision.
 
-### 8. Approval of training posts[^key-191c1db03cae373214d4b0bb007477f4]
+### 8. Approval of training posts[^c-191c1db03cae373214d4b0bb007477f4]
 
 (1) A post falls within this regulation for the purposes of regulation 6(4) if it is—
 
@@ -206,7 +206,7 @@ and in relation to any period of training which began after 31st December 1994 e
 - (a) it is approved by the Specialist Training Authority of the Medical Royal Colleges (“the STA”) pursuant to Article 7 of the European Specialist Medical Qualifications Order 1995[^f00022]; or
 - (b) it is not so approved and the post is one for which there is no relevant Royal College or Faculty which is entitled to appoint a member of the STA pursuant to Article 3(3) and Part I of Schedule 1 to that Order.
 
-### 9. Satisfactory completion of prescribed experience[^key-80365b465e029f4c3233a8b619fa0751]
+### 9. Satisfactory completion of prescribed experience[^c-80365b465e029f4c3233a8b619fa0751]
 
 (1) In these regulations, in relation to a period of training in any employment, “satisfactory completion” means the completion of that period of training in such a manner as to have acquired the medical experience which may reasonably be expected to be acquired from training of that duration in that employment.
 
@@ -221,7 +221,7 @@ and in relation to any period of training which began after 31st December 1994 e
 - (a) in relation to the period or periods prescribed in regulation 6(3), by a statement containing information specified in Part I of Schedule 3, which is completed by the trainer with whom the training took place and signed by that person and authorised by the Regional Advisor for Postgraduate General Practice Education or a person authorised by him to act on his behalf for that purpose; and
 - (b) in relation to a period or periods prescribed by regulation 6(4), by a statement containing the information specified in Part II of Schedule 3, which is completed by the practitioner who has supervised the training and signed by him and authorised by the Regional Advisor for Postgraduate General Practice Education or a person authorised by him to act on his behalf for that purpose.
 
-### 10. Certificate of prescribed experience[^key-85824fa1cc2cb2c28668708a281001f1]
+### 10. Certificate of prescribed experience[^c-85824fa1cc2cb2c28668708a281001f1]
 
 (1) A practitioner who claims to have acquired the prescribed experience may apply to the Joint Committee for a certificate of prescribed experience and shall include with his application the statements mentioned in regulation 9(5) or, if he does not have those statements, such evidence as the Joint Committee may require of satisfactory completion of his period of training.
 
@@ -233,11 +233,11 @@ and in relation to any period of training which began after 31st December 1994 e
 
 ## Part III — Equivalent Experience
 
-### 11. Meaning of equivalent experience[^key-64b640dffd71e37ef58a7c7769e25d8c]
+### 11. Meaning of equivalent experience[^c-64b640dffd71e37ef58a7c7769e25d8c]
 
 A practitioner’s training and other experience shall be regarded as equivalent to the prescribed experience if it has given the practitioner the level of knowledge and skill in general medical practice which he could reasonably be expected to have attained if he had acquired the prescribed experience.
 
-### 12. Certificate of equivalent experience[^key-5a1c4de5ba1d6bd6052d2e86cd6c9a25]
+### 12. Certificate of equivalent experience[^c-5a1c4de5ba1d6bd6052d2e86cd6c9a25]
 
 (1) A practitioner who does not claim to have acquired the prescribed experience, but who considers that the medical experience which he has acquired is,or ought to be regarded as, equivalent to the prescribed experience may apply to the Joint Committee for a certificate of equivalent experience.
 
@@ -255,7 +255,7 @@ A practitioner’s training and other experience shall be regarded as equivalent
 
 (8) If the Joint Committee are not satisfied that the applicant’s medical experience is equivalent to the prescribed experience, they shall issue to him a statement setting out the reasons why they are not satisfied.
 
-(8A)[^key-17916e0fa66dbe841bf6cf3986b92275] In the case of an exempt person—
+(8A)[^c-17916e0fa66dbe841bf6cf3986b92275] In the case of an exempt person—
 
 - (a) the Joint Committee shall issue the statement mentioned in paragraph (8) within three months beginning with the date on which they receive the application together with full supporting documentation; and
 - (b) failure to issue such a statement within the period mentioned in sub-paragraph (a) shall be treated as a decision from which an applicant may appeal under regulation 13.
@@ -269,7 +269,7 @@ A practitioner’s training and other experience shall be regarded as equivalent
 
 ## Part IV — Appeals Against Refusal of Certificates
 
-### 13. Appeals against refusal of certificates[^key-86158b1a3076c2faecb97f3fd351aa31]
+### 13. Appeals against refusal of certificates[^c-86158b1a3076c2faecb97f3fd351aa31]
 
 (1) A practitioner may appeal against a refusal of the Joint Committee to issue to him a certificate of prescribed experience or a certificate of equivalent experience, by sending a notice of appeal to the Department within a period of 28 days beginning with the day on which the decision of the Joint Committee is given to him, or (subject to paragraph (2)) such longer period as the Department may allow.
 
@@ -277,7 +277,7 @@ A practitioner’s training and other experience shall be regarded as equivalent
 
 (3) A notice of appeal shall contain a concise statement of the facts and contentions on which the practitioner intends to rely.
 
-### 14. Appeal bodies[^key-dbca438799fded11b7cbe668fa947ae5]
+### 14. Appeal bodies[^c-dbca438799fded11b7cbe668fa947ae5]
 
 (1) An appeal under regulation 13 shall be determined by an appeal body appointed by the Department.
 
@@ -299,7 +299,7 @@ and in the case of an appeal body falling within sub-paragraph (*b*) it may with
 
 (5) The Department shall appoint a person to act as secretary of the appeal body and may appoint such other officers as it considers necessary.
 
-### 15. Power of the Department to make new appointments[^key-de2b47668c206c77cc572a3eb65b0bc7]
+### 15. Power of the Department to make new appointments[^c-de2b47668c206c77cc572a3eb65b0bc7]
 
 (1) Where a member of an appeal body dies or resigns or is unable to carry out his duties, the Department may appoint a new member in accordance with regulation 14 and may rescind the appointment of the member who is unable or refuses to carry out his duties.
 
@@ -309,7 +309,7 @@ and in the case of an appeal body falling within sub-paragraph (*b*) it may with
 
 (4) An appeal body shall be deemed to have reached a decision when a sufficient number of the members have given such indications to constitute a majority for the purposes of the provision, notwithstanding that any document embodying the decision has not been drawn up or signed by all or any of the members, or issued by the appeal body.
 
-### 16. Procedure on appeal[^key-5f2d2666d376120a4c42675c50716972]
+### 16. Procedure on appeal[^c-5f2d2666d376120a4c42675c50716972]
 
 (1) Subject to the provisions of these Regulations, the procedure of the appeal body shall be determined by that body.
 
@@ -351,7 +351,7 @@ and in the case of an appeal body falling within sub-paragraph (*b*) it may with
 - (b) it has tried to contact the practitioner but has not, after a reasonable interval, been successful in doing so, or a letter properly sent to the practitioner has been returned on the ground that it could not be delivered; and
 - (c) it has sent notice to the practitioner that his appeal will be treated as withdrawn if the practitioner does not, within the period of 28 days beginning with the date on which the notice was sent, confirm that he wishes to proceed with his appeal.
 
-### 17. Determination of appeals[^key-a6b622d195a1f06d58b20bdee651bc5a]
+### 17. Determination of appeals[^c-a6b622d195a1f06d58b20bdee651bc5a]
 
 (1) In arriving at its decision on the appeal, whether or not a hearing has been held—
 
@@ -364,11 +364,11 @@ and in the case of an appeal body falling within sub-paragraph (*b*) it may with
 
 ## Part V — Miscellaneous
 
-### 18. Revocations[^key-c15afeaaf168df1b38c9109fc64db823]
+### 18. Revocations[^c-c15afeaaf168df1b38c9109fc64db823]
 
 The Regulations specified in column (1) of Schedule 4 are revoked to the extent specified in column (3) of that Schedule.
 
-### 19. Existing circumstances[^key-c2d6fad145ccc33a4d4736205f2fb9f2]
+### 19. Existing circumstances[^c-c2d6fad145ccc33a4d4736205f2fb9f2]
 
 (1) Where a practitioner who applies or has applied to the Joint Committee for a certificate of prescribed experience has undertaken a period of training which began before the date on which these regulations come into operation and which, at the date on which that period began, fell within regulation 4(1)(*b*)(i) of the 1979 Regulations, the Joint Committee shall treat that period of training as falling within regulation 6(3) of these regulations.
 
@@ -393,7 +393,7 @@ Assistant Secretary
 
 21st January 1998.
 
-## SCHEDULE 1 — Text of Articles 30, 31(1) and 34 of the Medical Directive[^key-087be2cf4cb385338f2e265366703e4b]
+## SCHEDULE 1 — Text of Articles 30, 31(1) and 34 of the Medical Directive[^c-087be2cf4cb385338f2e265366703e4b]
 
 Regulation 6(5)
 
@@ -420,11 +420,11 @@ Without prejudice to the principle of full-time training laid down in Article 31
 
 **2.** Part-time training must be of a level of quality equivalent to that of full-time training. It shall lead to a diploma, certificate or other evidence of formal qualification, as referred to in Article 30.
 
-## SCHEDULE 2 — Competencies to be tested by Summative Assessment[^key-789dea4b8acd9f4e8f019ef7c57b2ae0]
+## SCHEDULE 2 — Competencies to be tested by Summative Assessment[^c-789dea4b8acd9f4e8f019ef7c57b2ae0]
 
 Regulation 9(2)
 
-[^key-789dea4b8acd9f4e8f019ef7c57b2ae0]
+[^c-789dea4b8acd9f4e8f019ef7c57b2ae0]
 
 The competencies to be tested by summative assessment are:
 
@@ -460,7 +460,7 @@ The competencies to be tested by summative assessment are:
 
 Regulation 9(5)
 
-### Part I — Information to be contained in a statement of satisfactory completion of the prescribed experience as a General Practice (GP) Registrar[^key-11ae79b45db68d79d4074bb7c04ccd86]
+### Part I — Information to be contained in a statement of satisfactory completion of the prescribed experience as a General Practice (GP) Registrar[^c-11ae79b45db68d79d4074bb7c04ccd86]
 
 - Practitioner’s name and address
 - GMC Full Registration number
@@ -470,7 +470,7 @@ Regulation 9(5)
 - Statement that the practitioner has passed summative assessment
 - Date of signatures required by regulation 9(5)(*a)*
 
-### Part II — Information to be contained in a statement of satisfactory completion of a period of prescribed experience in a post falling within regulation 8[^key-bab6611c302170b82752535bdf6dc982]
+### Part II — Information to be contained in a statement of satisfactory completion of a period of prescribed experience in a post falling within regulation 8[^c-bab6611c302170b82752535bdf6dc982]
 
 - Practitioner’s name and address
 - GMC Full Registration number
@@ -484,7 +484,7 @@ Regulation 9(5)
 - Statement of satisfactory completion of training
 - Date of signatures required by regulation 9(5)(*b)*
 
-## SCHEDULE 4 — Revocations[^key-5563319358ea991e5c3826da79333dac]
+## SCHEDULE 4 — Revocations[^c-5563319358ea991e5c3826da79333dac]
 
 Regulation 18
 
@@ -521,13 +521,13 @@ The Regulations give effect to Title IV of Council Directive [93/16/EEC](https:/
 
 [^f00003]: Footnote: S.I. [1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907)
 
-[^key-32a485471abab918a98f0669039672d9]: Commencement: Reg. 1 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-32a485471abab918a98f0669039672d9]: Commencement: Reg. 1 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-ab30d3234106b3d187865248e875c875]: Commencement: Reg. 2 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-ab30d3234106b3d187865248e875c875]: Commencement: Reg. 2 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1979 No. 460](https://www.legislation.gov.uk/nisr/1979/460)
 
-[^key-13656a289950a2a263bad03aba4f558e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/13/regulation/2) inserted (31.12.2003) by [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(2)(b)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/2/b)
+[^c-13656a289950a2a263bad03aba4f558e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/13/regulation/2) inserted (31.12.2003) by [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(2)(b)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/2/b)
 
 [^c5104211]: Annotation text not found in the source document.
 
@@ -539,17 +539,17 @@ The Regulations give effect to Title IV of Council Directive [93/16/EEC](https:/
 
 [^f00008]: Footnote: S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
-[^key-8769df1420186b6108a9f5eb817c5dba]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/13/regulation/2) substituted (31.12.2003) by [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(2)(a)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/2/a)
+[^c-8769df1420186b6108a9f5eb817c5dba]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/13/regulation/2) substituted (31.12.2003) by [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(2)(a)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/2/a)
 
 [^f00011]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54) section 22 was amended by S.I. [1996/1591](https://www.legislation.gov.uk/uksi/1996/1591), regulation 6(5) and (6)
 
-[^key-223c886532d1345350e698d5ddf5d1d0]: Commencement: Reg. 3 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-223c886532d1345350e698d5ddf5d1d0]: Commencement: Reg. 3 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
 [^f00012]: Footnote: S.I. [1994/3130](https://www.legislation.gov.uk/uksi/1994/3130)
 
-[^key-5df4503e5e22e6c2d3ae00a1158b36c6]: Commencement: Reg. 4 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-5df4503e5e22e6c2d3ae00a1158b36c6]: Commencement: Reg. 4 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-1c703d5e29569b0c511e12c38702f569]: Commencement: Reg. 5 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-1c703d5e29569b0c511e12c38702f569]: Commencement: Reg. 5 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
 [^f00013]: Footnote: *See* [S.R. 1979 No. 460](https://www.legislation.gov.uk/nisr/1979/460), regulation 7
 
@@ -563,19 +563,19 @@ The Regulations give effect to Title IV of Council Directive [93/16/EEC](https:/
 
 [^f00018]: Footnote: See for the issue of certificates of acquired rights by the Joint Committee, S.I. [1994/3130](https://www.legislation.gov.uk/uksi/1994/3130), regulation 5(3)
 
-[^key-de941e6df45a1f8d5e17c1d1f50f754f]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/nisr/1998/13/regulation/5/2) omitted (31.12.2003) by virtue of [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(3)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/3)
+[^c-de941e6df45a1f8d5e17c1d1f50f754f]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/nisr/1998/13/regulation/5/2) omitted (31.12.2003) by virtue of [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(3)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/3)
 
 [^f00019]: Footnote: Cm. 2183 and O.J. No. L1, 3.1.1994, p. 572
 
-[^key-e3f554421f621ee0bc35ba3274f4f94e]: Commencement: Reg. 6 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-e3f554421f621ee0bc35ba3274f4f94e]: Commencement: Reg. 6 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-6f4cd8aa54efeee82df7c6a9fcc660ad]: Textual amendment: [Reg. 6(8)(b)](https://www.legislation.gov.uk/nisr/1998/13/regulation/6/8/b) substituted (31.12.2003) by [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(4)(a)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/4/a)
+[^c-6f4cd8aa54efeee82df7c6a9fcc660ad]: Textual amendment: [Reg. 6(8)(b)](https://www.legislation.gov.uk/nisr/1998/13/regulation/6/8/b) substituted (31.12.2003) by [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(4)(a)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/4/a)
 
-[^key-11f70ed11c0069e0b2409ecc893eb7f3]: Textual amendment: [Reg. 6(8A)](https://www.legislation.gov.uk/nisr/1998/13/regulation/6/8A) inserted (31.12.2003) by [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(4)(b)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/4/b)
+[^c-11f70ed11c0069e0b2409ecc893eb7f3]: Textual amendment: [Reg. 6(8A)](https://www.legislation.gov.uk/nisr/1998/13/regulation/6/8A) inserted (31.12.2003) by [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(4)(b)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/4/b)
 
-[^key-8248df7727ada11b1ba6f31fcce539e1]: Commencement: Reg. 7 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-8248df7727ada11b1ba6f31fcce539e1]: Commencement: Reg. 7 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-191c1db03cae373214d4b0bb007477f4]: Commencement: Reg. 8 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-191c1db03cae373214d4b0bb007477f4]: Commencement: Reg. 8 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
 [^f00020]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49)
 
@@ -583,40 +583,40 @@ The Regulations give effect to Title IV of Council Directive [93/16/EEC](https:/
 
 [^f00022]: Footnote: S.I. [1995/3208](https://www.legislation.gov.uk/uksi/1995/3208)
 
-[^key-80365b465e029f4c3233a8b619fa0751]: Commencement: Reg. 9 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-80365b465e029f4c3233a8b619fa0751]: Commencement: Reg. 9 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-85824fa1cc2cb2c28668708a281001f1]: Commencement: Reg. 10 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-85824fa1cc2cb2c28668708a281001f1]: Commencement: Reg. 10 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-64b640dffd71e37ef58a7c7769e25d8c]: Commencement: Reg. 11 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-64b640dffd71e37ef58a7c7769e25d8c]: Commencement: Reg. 11 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-5a1c4de5ba1d6bd6052d2e86cd6c9a25]: Commencement: Reg. 12 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-5a1c4de5ba1d6bd6052d2e86cd6c9a25]: Commencement: Reg. 12 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-17916e0fa66dbe841bf6cf3986b92275]: Textual amendment: [Reg. 12(8A)](https://www.legislation.gov.uk/nisr/1998/13/regulation/12/8A)[(8B)](https://www.legislation.gov.uk/nisr/1998/13/regulation/12/8B) inserted (31.12.2003) by [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(5)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/5)
+[^c-17916e0fa66dbe841bf6cf3986b92275]: Textual amendment: [Reg. 12(8A)](https://www.legislation.gov.uk/nisr/1998/13/regulation/12/8A)[(8B)](https://www.legislation.gov.uk/nisr/1998/13/regulation/12/8B) inserted (31.12.2003) by [The European Qualifications (Health Care Professions) Regulations 2003 (S.I. 2003/3148)](https://www.legislation.gov.uk/uksi/2003/3148), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/1/1/c), [12(5)](https://www.legislation.gov.uk/uksi/2003/3148/regulation/12/5)
 
-[^key-86158b1a3076c2faecb97f3fd351aa31]: Commencement: Reg. 13 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-86158b1a3076c2faecb97f3fd351aa31]: Commencement: Reg. 13 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-dbca438799fded11b7cbe668fa947ae5]: Commencement: Reg. 14 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-dbca438799fded11b7cbe668fa947ae5]: Commencement: Reg. 14 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-de2b47668c206c77cc572a3eb65b0bc7]: Commencement: Reg. 15 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-de2b47668c206c77cc572a3eb65b0bc7]: Commencement: Reg. 15 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-5f2d2666d376120a4c42675c50716972]: Commencement: Reg. 16 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-5f2d2666d376120a4c42675c50716972]: Commencement: Reg. 16 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-a6b622d195a1f06d58b20bdee651bc5a]: Commencement: Reg. 17 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-a6b622d195a1f06d58b20bdee651bc5a]: Commencement: Reg. 17 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-c15afeaaf168df1b38c9109fc64db823]: Commencement: Reg. 18 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-c15afeaaf168df1b38c9109fc64db823]: Commencement: Reg. 18 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-c2d6fad145ccc33a4d4736205f2fb9f2]: Commencement: Reg. 19 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-c2d6fad145ccc33a4d4736205f2fb9f2]: Commencement: Reg. 19 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
 [^f00023]: Footnote: Regulation 4(5)(*a*) was amended by [S.R. 1986 No. 69](https://www.legislation.gov.uk/nisr/1986/69)
 
 [^f00024]: Footnote: [S.R. 1979 No. 460](https://www.legislation.gov.uk/nisr/1979/460), amended by [S.R. 1986 Nos. 69](https://www.legislation.gov.uk/nisr/1986/69) and [309](https://www.legislation.gov.uk/nisr/1986/309) and [S.R. 1994 No. 499](https://www.legislation.gov.uk/nisr/1994/499)
 
-[^key-087be2cf4cb385338f2e265366703e4b]: Commencement: Sch. 1 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-087be2cf4cb385338f2e265366703e4b]: Commencement: Sch. 1 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-789dea4b8acd9f4e8f019ef7c57b2ae0]: Commencement: Sch. 2 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-789dea4b8acd9f4e8f019ef7c57b2ae0]: Commencement: Sch. 2 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-11ae79b45db68d79d4074bb7c04ccd86]: Commencement: Sch. 3 Pt. I in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-11ae79b45db68d79d4074bb7c04ccd86]: Commencement: Sch. 3 Pt. I in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-bab6611c302170b82752535bdf6dc982]: Commencement: Sch. 3 Pt. II in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-bab6611c302170b82752535bdf6dc982]: Commencement: Sch. 3 Pt. II in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
 
-[^key-5563319358ea991e5c3826da79333dac]: Commencement: Sch. 4 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)
+[^c-5563319358ea991e5c3826da79333dac]: Commencement: Sch. 4 in operation at 30.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/13/regulation/1)

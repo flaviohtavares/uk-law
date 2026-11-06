@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Notice by scheme authorised in a designated country or territory[^key-b72b5bb322e97fb4af28660d461de232]
+## 43. Notice by scheme authorised in a designated country or territory[^c-b72b5bb322e97fb4af28660d461de232]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ the notice given by the Authority under section 89(5) ceases to have effect on c
 
 ## Annotations
 
-[^key-b72b5bb322e97fb4af28660d461de232]: Commencement: Art. 43 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-b72b5bb322e97fb4af28660d461de232]: Commencement: Art. 43 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00027]: Footnote: This period is currently 4 months: see the Financial Services (Schemes Authorised in Designated Countries or Territories) (Notification) Regulations 1989 (S.I. [1989/1584](https://www.legislation.gov.uk/uksi/1989/1584)).

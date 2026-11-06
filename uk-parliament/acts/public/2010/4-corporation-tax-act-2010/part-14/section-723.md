@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 723. Changes in indirect ownership[^key-5b3ae313255e5ba836c18c0642966ce8]
+## 723. Changes in indirect ownership[^c-5b3ae313255e5ba836c18c0642966ce8]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if there is a change in the ownership of a company, other than a change in ownership which is disregarded because of section 724 or 724A[^key-3f9e4248be4c690684b843cfa656fa85] .
+(1) This section applies if there is a change in the ownership of a company, other than a change in ownership which is disregarded because of section 724 or 724A[^c-3f9e4248be4c690684b843cfa656fa85] .
 
 (2) The reference in subsection (1) to a change in the ownership of a company includes a change in ownership occurring as a result of the application of this section.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b3ae313255e5ba836c18c0642966ce8]: Modification: [Ss. 719-724A](https://www.legislation.gov.uk/ukpga/2010/4/section/719) modified (with effect in relation to accounting periods commencing on or after 31.12.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [ss. 212(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/212/5), [264](https://www.legislation.gov.uk/ukpga/2023/30/section/264)
+[^c-5b3ae313255e5ba836c18c0642966ce8]: Modification: [Ss. 719-724A](https://www.legislation.gov.uk/ukpga/2010/4/section/719) modified (with effect in relation to accounting periods commencing on or after 31.12.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [ss. 212(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/212/5), [264](https://www.legislation.gov.uk/ukpga/2023/30/section/264)
 
-[^key-3f9e4248be4c690684b843cfa656fa85]: Textual amendment: Words in s. 723(1) inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 37(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/37/3)
+[^c-3f9e4248be4c690684b843cfa656fa85]: Textual amendment: Words in s. 723(1) inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 37(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/37/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Making dual-use goods and dual-use technology available[^key-3158c54f38df1a680c25fee7f7add6dc]
+## 32. Making dual-use goods and dual-use technology available[^c-3158c54f38df1a680c25fee7f7add6dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3158c54f38df1a680c25fee7f7add6dc]: Commencement: Reg. 32 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-3158c54f38df1a680c25fee7f7add6dc]: Commencement: Reg. 32 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

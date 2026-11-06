@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Interpretation of Part 2[^key-ee19e5f1164867d4a7545ddd96b5aecb]
+## 23. Interpretation of Part 2[^c-ee19e5f1164867d4a7545ddd96b5aecb]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee19e5f1164867d4a7545ddd96b5aecb]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2020/27/section/23) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/b)
+[^c-ee19e5f1164867d4a7545ddd96b5aecb]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2020/27/section/23) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/b)

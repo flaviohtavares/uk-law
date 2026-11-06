@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 1. Sale, exchange or demolition of parsonage house[^key-2ed7ee6b9c637d1cc86db4b8abd22e66]
+## 1. Sale, exchange or demolition of parsonage house[^c-2ed7ee6b9c637d1cc86db4b8abd22e66]
 
 *Extent: E*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ed7ee6b9c637d1cc86db4b8abd22e66]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2018/8/section/1) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-2ed7ee6b9c637d1cc86db4b8abd22e66]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2018/8/section/1) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

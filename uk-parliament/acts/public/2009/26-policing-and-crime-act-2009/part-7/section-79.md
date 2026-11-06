@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Security planning for airports[^key-2277f97366a17ce15bddfc361cb0c288][^key-c7b13b30f78d85a0dfebd1238e9667d2]
+## 79. Security planning for airports[^c-2277f97366a17ce15bddfc361cb0c288][^c-c7b13b30f78d85a0dfebd1238e9667d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -459,6 +459,6 @@ After Part 2 of the Aviation Security Act 1982 (c. 36) insert—
 
 ## Annotations
 
-[^key-2277f97366a17ce15bddfc361cb0c288]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)
+[^c-2277f97366a17ce15bddfc361cb0c288]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)
 
-[^key-c7b13b30f78d85a0dfebd1238e9667d2]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(m)](https://www.legislation.gov.uk/uksi/2010/507/article/5/m)
+[^c-c7b13b30f78d85a0dfebd1238e9667d2]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(m)](https://www.legislation.gov.uk/uksi/2010/507/article/5/m)

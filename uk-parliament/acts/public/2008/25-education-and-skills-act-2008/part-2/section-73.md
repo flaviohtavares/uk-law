@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Educational institutions: access and facilities[^key-28d74a6e147bdc2e4ff1cd35bef4dc90]
+## 73. Educational institutions: access and facilities[^c-28d74a6e147bdc2e4ff1cd35bef4dc90]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28d74a6e147bdc2e4ff1cd35bef4dc90]: Textual amendment: [S. 73](https://www.legislation.gov.uk/ukpga/2008/25/section/73) repealed (1.9.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2011/21/section/28/4), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-28d74a6e147bdc2e4ff1cd35bef4dc90]: Textual amendment: [S. 73](https://www.legislation.gov.uk/ukpga/2008/25/section/73) repealed (1.9.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2011/21/section/28/4), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)

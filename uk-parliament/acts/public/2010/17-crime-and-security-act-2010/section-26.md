@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Breach of a domestic violence protection notice[^M_I_6c9e386d-3906-4116-f265-7b7553b0bc7c][^M_I_145bbfaf-d448-4314-d4f7-c7dc3789fbfc][^key-d55de9e8e3a42af02bcc6f45c6c7478b][^key-fa224e5fbd87fbac64079db0b0de2f1d]
+## 26. Breach of a domestic violence protection notice[^M_I_6c9e386d-3906-4116-f265-7b7553b0bc7c][^M_I_145bbfaf-d448-4314-d4f7-c7dc3789fbfc][^c-d55de9e8e3a42af02bcc6f45c6c7478b][^c-fa224e5fbd87fbac64079db0b0de2f1d]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 [^M_I_145bbfaf-d448-4314-d4f7-c7dc3789fbfc]: Commencement: S. 26 coming into force (temp.) (7.10.2011 for specified police areas and policing divisions for a period ending on 29.6.2012 so that the Secretary of State may assess the effectiveness of this provision) by [The Crime and Security Act 2010 (Domestic Violence: Pilot Schemes) Order (No. 2) 2011 (S.I. 2011/2279)](https://www.legislation.gov.uk/uksi/2011/2279), [arts. 2](https://www.legislation.gov.uk/uksi/2011/2279/article/2), [3](https://www.legislation.gov.uk/uksi/2011/2279/article/3)
 
-[^key-d55de9e8e3a42af02bcc6f45c6c7478b]: Commencement: S. 26 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
+[^c-d55de9e8e3a42af02bcc6f45c6c7478b]: Commencement: S. 26 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
 
-[^key-fa224e5fbd87fbac64079db0b0de2f1d]: Commencement: S. 26 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)
+[^c-fa224e5fbd87fbac64079db0b0de2f1d]: Commencement: S. 26 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)

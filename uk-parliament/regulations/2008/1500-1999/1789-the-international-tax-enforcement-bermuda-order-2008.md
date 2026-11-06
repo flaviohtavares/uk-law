@@ -31,7 +31,7 @@ summary: ''
 
 Taxes
 
-The International Tax Enforcement (Bermuda) Order 2008 (revoked)[^key-8f9b6f03b88a315c1026fa3784549b36]
+The International Tax Enforcement (Bermuda) Order 2008 (revoked)[^c-8f9b6f03b88a315c1026fa3784549b36]
 
 Made
 
@@ -43,23 +43,23 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-8f9b6f03b88a315c1026fa3784549b36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f9b6f03b88a315c1026fa3784549b36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-8f9b6f03b88a315c1026fa3784549b36]
+## 1. Citation[^c-8f9b6f03b88a315c1026fa3784549b36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Tax information exchange arrangements to have effect[^key-8f9b6f03b88a315c1026fa3784549b36]
+## 2. Tax information exchange arrangements to have effect[^c-8f9b6f03b88a315c1026fa3784549b36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f9b6f03b88a315c1026fa3784549b36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f9b6f03b88a315c1026fa3784549b36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-8f9b6f03b88a315c1026fa3784549b36]
+## SCHEDULE[^c-8f9b6f03b88a315c1026fa3784549b36]
 
 Article 2
 
@@ -67,8 +67,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-8f9b6f03b88a315c1026fa3784549b36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f9b6f03b88a315c1026fa3784549b36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f9b6f03b88a315c1026fa3784549b36]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1789) revoked (24.4.2018) by [The International Tax Enforcement (Bermuda) Order 2018 (S.I. 2018/518)](https://www.legislation.gov.uk/uksi/2018/518), [art. 3](https://www.legislation.gov.uk/uksi/2018/518/article/3)
+[^c-8f9b6f03b88a315c1026fa3784549b36]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1789) revoked (24.4.2018) by [The International Tax Enforcement (Bermuda) Order 2018 (S.I. 2018/518)](https://www.legislation.gov.uk/uksi/2018/518), [art. 3](https://www.legislation.gov.uk/uksi/2018/518/article/3)

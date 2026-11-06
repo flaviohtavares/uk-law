@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100H. Relationship with housing ombudsman[^key-7c8e85c9edddffb85a08fe383c545ee8]
+## 100H. Relationship with housing ombudsman[^c-7c8e85c9edddffb85a08fe383c545ee8]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c8e85c9edddffb85a08fe383c545ee8]: Textual amendment: [S. 100H](https://www.legislation.gov.uk/ukpga/2008/17/section/100H) and cross-heading inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/5/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/d)
+[^c-7c8e85c9edddffb85a08fe383c545ee8]: Textual amendment: [S. 100H](https://www.legislation.gov.uk/ukpga/2008/17/section/100H) and cross-heading inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/5/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/d)

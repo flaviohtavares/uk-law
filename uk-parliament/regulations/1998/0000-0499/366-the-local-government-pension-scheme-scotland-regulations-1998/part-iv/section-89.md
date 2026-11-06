@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 89. Pension increases and cash equivalents under the Pension Schemes Act 1993[^key-5c7598122689f525b11b9745f7d96674]
+## 89. Pension increases and cash equivalents under the Pension Schemes Act 1993[^c-5c7598122689f525b11b9745f7d96674]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ Any increase in a pension required by reason of Chapter III of Part IV of the Pe
 
 ## Annotations
 
-[^key-5c7598122689f525b11b9745f7d96674]: Commencement: Reg. 89 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-5c7598122689f525b11b9745f7d96674]: Commencement: Reg. 89 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00033]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

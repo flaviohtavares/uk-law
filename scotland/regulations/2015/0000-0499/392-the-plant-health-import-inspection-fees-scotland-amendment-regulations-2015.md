@@ -56,7 +56,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In the Plant Health (Import Inspection Fees) (Scotland) Regulations 2014 [^c22598141]—
 
-- (a)[^key-fb30f21869e7dd6d5256b59c27c644e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fb30f21869e7dd6d5256b59c27c644e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for Schedule 3 (additional fees) substitute—
 
   > **SCHEDULE 3 — ADDITIONAL FEES**
@@ -128,4 +128,4 @@ No business and regulatory impact assessment has been prepared for this instrume
 
 [^c22598141]: Marginal citation: 1S.S.I 2014/338.
 
-[^key-fb30f21869e7dd6d5256b59c27c644e8]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/ssi/2015/392/regulation/2/a) revoked (11.2.2017) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/6)](https://www.legislation.gov.uk/ssi/2017/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/6/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2017/6/regulation/3)
+[^c-fb30f21869e7dd6d5256b59c27c644e8]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/ssi/2015/392/regulation/2/a) revoked (11.2.2017) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/6)](https://www.legislation.gov.uk/ssi/2017/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/6/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2017/6/regulation/3)

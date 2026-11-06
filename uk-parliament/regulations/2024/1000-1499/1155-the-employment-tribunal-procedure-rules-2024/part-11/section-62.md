@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Consent orders and judgments[^key-a22e5e3bb48a0798b392358aad29de68]
+## 62. Consent orders and judgments[^c-a22e5e3bb48a0798b392358aad29de68]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ If the parties agree in writing or orally at a hearing upon the terms of any ord
 
 ## Annotations
 
-[^key-a22e5e3bb48a0798b392358aad29de68]: Commencement: [Rule 62](https://www.legislation.gov.uk/uksi/2024/1155/rule/62) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-a22e5e3bb48a0798b392358aad29de68]: Commencement: [Rule 62](https://www.legislation.gov.uk/uksi/2024/1155/rule/62) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

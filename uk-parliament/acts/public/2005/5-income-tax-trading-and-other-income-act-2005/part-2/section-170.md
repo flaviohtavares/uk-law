@@ -32,8 +32,8 @@ summary: ''
 
 (3) But no expenditure is to be brought into account—
 
-- (a) under both paragraphs (a) and (b) of subsection (2), [^key-cad287b97a992e7def986428f0f57edb]...
-- (b) under both subsection (2)(a) above and section 147(2)(b) of CTA 2009[^key-120d2337f269050c08859a36656ee8b5] (relief for corporation tax purposes) or under both subsection (2)(b) above and section 147(2)(a) of CTA 2009,or[^key-943b8f486f924541f3ceba1ac8740090]
+- (a) under both paragraphs (a) and (b) of subsection (2), [^c-cad287b97a992e7def986428f0f57edb]...
+- (b) under both subsection (2)(a) above and section 147(2)(b) of CTA 2009[^c-120d2337f269050c08859a36656ee8b5] (relief for corporation tax purposes) or under both subsection (2)(b) above and section 147(2)(a) of CTA 2009,or[^c-943b8f486f924541f3ceba1ac8740090]
 - (c) under both subsection (2)(b) above and section 172ZB(4), 172ZC(4) or 172ZD(3).
 
 whether for the same or different periods of account.
@@ -44,8 +44,8 @@ whether for the same or different periods of account.
 
 ## Annotations
 
-[^key-cad287b97a992e7def986428f0f57edb]: Textual amendment: Word in s. 170(3)(a) omitted (1.3.2012) by virtue of [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2012/266/article/4/3/a) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/266/article/4/5))
+[^c-cad287b97a992e7def986428f0f57edb]: Textual amendment: Word in s. 170(3)(a) omitted (1.3.2012) by virtue of [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2012/266/article/4/3/a) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/266/article/4/5))
 
-[^key-120d2337f269050c08859a36656ee8b5]: Textual amendment: Words in s. 170(3)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 603](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/603) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-120d2337f269050c08859a36656ee8b5]: Textual amendment: Words in s. 170(3)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 603](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/603) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-943b8f486f924541f3ceba1ac8740090]: Textual amendment: S. 170(3)(c) and word inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2012/266/article/4/3/b) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/266/article/4/5))
+[^c-943b8f486f924541f3ceba1ac8740090]: Textual amendment: S. 170(3)(c) and word inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2012/266/article/4/3/b) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/266/article/4/5))

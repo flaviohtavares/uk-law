@@ -42,15 +42,15 @@ Section 30
 
 ### Structured finance arrangements
 
-**3.**[^key-962767c2c65e9235d50062348828f7dd][^key-bb3525be207a57b6fc4af388405bcdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-962767c2c65e9235d50062348828f7dd][^c-bb3525be207a57b6fc4af388405bcdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-962767c2c65e9235d50062348828f7dd][^key-bb3525be207a57b6fc4af388405bcdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-962767c2c65e9235d50062348828f7dd][^c-bb3525be207a57b6fc4af388405bcdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-962767c2c65e9235d50062348828f7dd][^key-bb3525be207a57b6fc4af388405bcdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-962767c2c65e9235d50062348828f7dd][^c-bb3525be207a57b6fc4af388405bcdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-962767c2c65e9235d50062348828f7dd][^key-bb3525be207a57b6fc4af388405bcdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-962767c2c65e9235d50062348828f7dd][^c-bb3525be207a57b6fc4af388405bcdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-962767c2c65e9235d50062348828f7dd][^key-bb3525be207a57b6fc4af388405bcdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-962767c2c65e9235d50062348828f7dd][^c-bb3525be207a57b6fc4af388405bcdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** (1) Section 263E of TCGA 1992 (structured finance arrangements) is amended as follows.
 
@@ -78,7 +78,7 @@ Section 30
 
 ### Manufactured payments under arrangements having an unallowable purpose
 
-**9.**[^key-1e5526729f3565d4fab60d2bafcef10f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1e5526729f3565d4fab60d2bafcef10f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Options and groups of companies
 
@@ -94,23 +94,23 @@ Section 30
 
 ### Loan relationships: amounts not fully recognised for accounting purposes
 
-**11.**[^key-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Shares treated as loan relationships
 
-**12.**[^key-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exchange gains and losses where loan not on arm's length terms
 
-**15.**[^key-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Loan relationships and collective investment schemes
 
-**16.**[^key-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-ae27d2820cb6bac26b880e7a1f12407d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Plant or machinery subject to a lease and finance leaseback
 
@@ -124,7 +124,7 @@ Section 30
 - (b) omit subsection (4), and
 - (c) in subsection (8), for “sections 228B to 228D” substitute “ sections 228B and 228C ” and omit paragraph (b) (together with the “and” before it).
 
-(4)[^key-00522ae94c92418923f05c5f0d6ef98b][^key-21f9ea0ec70ff5c765271f44fee8fbea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-00522ae94c92418923f05c5f0d6ef98b][^c-21f9ea0ec70ff5c765271f44fee8fbea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The amendments made by this paragraph have effect in relation to post-commencement rentals that fall to be taken into account in calculating for tax purposes the income or profits for any post-commencement period of account.
 
@@ -155,26 +155,26 @@ where—
 
 ### Derivative contracts: contracts treated for accounting purposes as financial asset or liability
 
-**18.**[^key-ca4a26769f9e0fb0e63b1ccd582386f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-ca4a26769f9e0fb0e63b1ccd582386f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Derivative contracts: transfers of value to connected companies
 
-**19.**[^key-8186eff4f61e6a67c30bfecbe2e52791] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-8186eff4f61e6a67c30bfecbe2e52791] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-962767c2c65e9235d50062348828f7dd]: Textual amendment: Sch. 5 paras. 3-7 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 10](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/10) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-962767c2c65e9235d50062348828f7dd]: Textual amendment: Sch. 5 paras. 3-7 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 10](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/10) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-bb3525be207a57b6fc4af388405bcdda]: Textual amendment: Sch. 5 paras. 3-7 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-bb3525be207a57b6fc4af388405bcdda]: Textual amendment: Sch. 5 paras. 3-7 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-1e5526729f3565d4fab60d2bafcef10f]: Textual amendment: Sch. 5 para. 9 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1e5526729f3565d4fab60d2bafcef10f]: Textual amendment: Sch. 5 para. 9 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ae27d2820cb6bac26b880e7a1f12407d]: Textual amendment: Sch. 5 paras. 11-16 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-ae27d2820cb6bac26b880e7a1f12407d]: Textual amendment: Sch. 5 paras. 11-16 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-00522ae94c92418923f05c5f0d6ef98b]: Textual amendment: Sch. 5 para. 17(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-00522ae94c92418923f05c5f0d6ef98b]: Textual amendment: Sch. 5 para. 17(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-21f9ea0ec70ff5c765271f44fee8fbea]: Textual amendment: Sch. 5 para. 17(4) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 10](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/10) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-21f9ea0ec70ff5c765271f44fee8fbea]: Textual amendment: Sch. 5 para. 17(4) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 10](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/10) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-ca4a26769f9e0fb0e63b1ccd582386f7]: Textual amendment: Sch. 5 para. 18 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-ca4a26769f9e0fb0e63b1ccd582386f7]: Textual amendment: Sch. 5 para. 18 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-8186eff4f61e6a67c30bfecbe2e52791]: Textual amendment: Sch. 5 para. 19 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-8186eff4f61e6a67c30bfecbe2e52791]: Textual amendment: Sch. 5 para. 19 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

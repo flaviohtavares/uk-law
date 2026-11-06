@@ -287,7 +287,7 @@ Table 2: Hazard Type 1 explosives in a brick-built unmounded store
 | 60000-70000 | 308 | 461 | 923 | 923 | 1846 | 461 | 923 | 923 |
 | 70000-80000 | 322 | 482 | 965 | 965 | 1930 | 482 | 965 | 965 |
 | 80000-90000 | 335 | 502 | 1004 | 1004 | 2007 | 502 | 1004 | 1004 |
-| 90000 – 100000[^key-be9229d115bca44b5e97eb8d0d30e0d7] | 347 | 520 | 1040 | 1040 | 2079 | 520 | 1040 | 1040 |
+| 90000 – 100000[^c-be9229d115bca44b5e97eb8d0d30e0d7] | 347 | 520 | 1040 | 1040 | 2079 | 520 | 1040 | 1040 |
 |  |  |  |  |  |  |  |  |  |
 
 Table 3: Hazard Type 1 explosive in a metal-built mounded store
@@ -921,4 +921,4 @@ Table 11: Hazard Type 4 explosive
 
 [^c22151041]: Marginal citation: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348), to which there are amendments not relevant to these Regulations.
 
-[^key-be9229d115bca44b5e97eb8d0d30e0d7]: Textual amendment: Words in Sch. 5 substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 18(g)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/18/g) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-be9229d115bca44b5e97eb8d0d30e0d7]: Textual amendment: Words in Sch. 5 substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 18(g)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/18/g) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

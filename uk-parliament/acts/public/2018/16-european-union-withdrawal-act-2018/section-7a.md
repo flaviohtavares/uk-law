@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. General implementation of remainder of withdrawal agreement[^key-e18f94452350f08ee318748bf6f2d3ad]
+## 7A. General implementation of remainder of withdrawal agreement[^c-e18f94452350f08ee318748bf6f2d3ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ as in accordance with the withdrawal agreement are without further enactment to 
 
 (3) Every enactment (including an enactment contained in this Act) is to be read and has effect subject to subsection (2).
 
-(3A)[^key-abf321bebf62eb747c4edfa42eb0ec65] The following provide for the application in Northern Ireland of EU law relating to the trade in goods necessary for the functioning of the Windsor Framework in the withdrawal agreement to be subject to democratic consent and scrutiny—
+(3A)[^c-abf321bebf62eb747c4edfa42eb0ec65] The following provide for the application in Northern Ireland of EU law relating to the trade in goods necessary for the functioning of the Windsor Framework in the withdrawal agreement to be subject to democratic consent and scrutiny—
 
 - (a) Articles 13 and 18 of that Framework, and
 - (b) Part 5A of the Northern Ireland Act 1998.
@@ -52,6 +52,6 @@ as in accordance with the withdrawal agreement are without further enactment to 
 
 ## Annotations
 
-[^key-e18f94452350f08ee318748bf6f2d3ad]: Textual amendment: S. 7A and cross-heading inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/1/section/5), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/c)
+[^c-e18f94452350f08ee318748bf6f2d3ad]: Textual amendment: S. 7A and cross-heading inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/1/section/5), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/c)
 
-[^key-abf321bebf62eb747c4edfa42eb0ec65]: Textual amendment: S. 7A(3A) inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/3/2)
+[^c-abf321bebf62eb747c4edfa42eb0ec65]: Textual amendment: S. 7A(3A) inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/3/2)

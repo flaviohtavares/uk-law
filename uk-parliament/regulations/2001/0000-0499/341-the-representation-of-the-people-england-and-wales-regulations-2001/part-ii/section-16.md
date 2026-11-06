@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Transmission of service declaration[^key-335a97179af4aa0c69ddbcb0bbe13876]
+## 16. Transmission of service declaration[^c-335a97179af4aa0c69ddbcb0bbe13876]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A service declaration—
 
 ## Annotations
 
-[^key-335a97179af4aa0c69ddbcb0bbe13876]: Textual amendment: Reg. 16 substituted (9.12.2014) by [The Representation of the People (England and Wales) (Amendment No. 2) Regulations 2014 (S.I. 2014/3161)](https://www.legislation.gov.uk/uksi/2014/3161), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3161/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/3161/regulation/4)
+[^c-335a97179af4aa0c69ddbcb0bbe13876]: Textual amendment: Reg. 16 substituted (9.12.2014) by [The Representation of the People (England and Wales) (Amendment No. 2) Regulations 2014 (S.I. 2014/3161)](https://www.legislation.gov.uk/uksi/2014/3161), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3161/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/3161/regulation/4)

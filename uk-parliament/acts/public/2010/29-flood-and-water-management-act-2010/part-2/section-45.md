@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Water and sewerage charges: non-owner occupiers[^key-27de6a01be58f41ef7d9bc61357a8440][^key-ad7bb54f4421d3be703aef7e367bbc09]
+## 45. Water and sewerage charges: non-owner occupiers[^c-27de6a01be58f41ef7d9bc61357a8440][^c-ad7bb54f4421d3be703aef7e367bbc09]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27de6a01be58f41ef7d9bc61357a8440]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2010/29/section/45) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-27de6a01be58f41ef7d9bc61357a8440]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2010/29/section/45) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-ad7bb54f4421d3be703aef7e367bbc09]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2010/29/section/45) in force at 1.1.2015 for W. in so far as not already in force by [S.I. 2014/3155](https://www.legislation.gov.uk/wsi/2014/3155), [art. 2](https://www.legislation.gov.uk/wsi/2014/3155/article/2)
+[^c-ad7bb54f4421d3be703aef7e367bbc09]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2010/29/section/45) in force at 1.1.2015 for W. in so far as not already in force by [S.I. 2014/3155](https://www.legislation.gov.uk/wsi/2014/3155), [art. 2](https://www.legislation.gov.uk/wsi/2014/3155/article/2)

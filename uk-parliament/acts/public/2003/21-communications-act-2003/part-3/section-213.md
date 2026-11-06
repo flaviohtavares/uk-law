@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Abolition of licensing for local cable systems[^key-984429597cc1ebedd8ee4a898cde1ccd]
+## 213. Abolition of licensing for local cable systems[^c-984429597cc1ebedd8ee4a898cde1ccd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ On and after the television transfer date no licence shall be required under Par
 
 ## Annotations
 
-[^key-984429597cc1ebedd8ee4a898cde1ccd]: Commencement: S. 213 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-984429597cc1ebedd8ee4a898cde1ccd]: Commencement: S. 213 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

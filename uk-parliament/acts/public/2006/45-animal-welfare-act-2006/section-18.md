@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Powers in relation to animals in distress[^key-33b345bd831b83459cec9217b6b90d42][^key-ed73cc4507f47ccaa7b9338359046cba]
+## 18. Powers in relation to animals in distress[^c-33b345bd831b83459cec9217b6b90d42][^c-ed73cc4507f47ccaa7b9338359046cba]
 
 *Extent: E+W*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33b345bd831b83459cec9217b6b90d42]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2006/45/section/18) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-33b345bd831b83459cec9217b6b90d42]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2006/45/section/18) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-ed73cc4507f47ccaa7b9338359046cba]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2006/45/section/18) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-ed73cc4507f47ccaa7b9338359046cba]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2006/45/section/18) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Policy holders’ share of profits.[^key-ffcb6eb079a5e7b60ca11dd8b7af9426]
+## 89. Policy holders’ share of profits.[^c-ffcb6eb079a5e7b60ca11dd8b7af9426]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffcb6eb079a5e7b60ca11dd8b7af9426]: Textual amendment: S. 89 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 63](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/63)
+[^c-ffcb6eb079a5e7b60ca11dd8b7af9426]: Textual amendment: S. 89 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 63](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/63)

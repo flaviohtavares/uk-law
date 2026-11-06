@@ -32,7 +32,7 @@ summary: ''
 
 Income Tax
 
-The Income Tax (Digital Requirements) Regulations 2021 (revoked)[^key-f79ff72b3f612d93972fb945a29ed1dd]
+The Income Tax (Digital Requirements) Regulations 2021 (revoked)[^c-f79ff72b3f612d93972fb945a29ed1dd]
 
 Made
 
@@ -46,7 +46,7 @@ Coming into force
 
 6th April 2024
 
-[^key-f79ff72b3f612d93972fb945a29ed1dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f79ff72b3f612d93972fb945a29ed1dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -194,8 +194,8 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-f79ff72b3f612d93972fb945a29ed1dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f79ff72b3f612d93972fb945a29ed1dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f79ff72b3f612d93972fb945a29ed1dd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1076) revoked (1.4.2026) by [The Income Tax (Digital Obligations) Regulations 2026 (S.I. 2026/336)](https://www.legislation.gov.uk/uksi/2026/336), [regs. 1](https://www.legislation.gov.uk/uksi/2026/336/regulation/1), [48(a)](https://www.legislation.gov.uk/uksi/2026/336/regulation/48/a)
+[^c-f79ff72b3f612d93972fb945a29ed1dd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1076) revoked (1.4.2026) by [The Income Tax (Digital Obligations) Regulations 2026 (S.I. 2026/336)](https://www.legislation.gov.uk/uksi/2026/336), [regs. 1](https://www.legislation.gov.uk/uksi/2026/336/regulation/1), [48(a)](https://www.legislation.gov.uk/uksi/2026/336/regulation/48/a)

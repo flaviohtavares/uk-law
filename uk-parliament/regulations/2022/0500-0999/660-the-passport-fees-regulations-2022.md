@@ -46,7 +46,7 @@ A draft of these Regulations has been laid before Parliament and has been approv
 
 In accordance with section 87(1) of that Act, these Regulations are made with the consent of the Treasury.
 
-## 1. Citation, commencement and extent[^key-eab262975a842cbb8f54ec363e4425b4]
+## 1. Citation, commencement and extent[^c-eab262975a842cbb8f54ec363e4425b4]
 
 (1) These Regulations may be cited as the Passport (Fees) Regulations 2022.
 
@@ -54,7 +54,7 @@ In accordance with section 87(1) of that Act, these Regulations are made with th
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-66b859598fb8171a1211c02a2a51001b]
+## 2. Interpretation[^c-66b859598fb8171a1211c02a2a51001b]
 
 (1) In these Regulations—
 
@@ -96,14 +96,14 @@ In accordance with section 87(1) of that Act, these Regulations are made with th
 
 (4) Subject to regulation 3(6), in these Regulations, any reference to the age of a prospective passport holder is a reference to their age on the day on which the application for a passport is made by or in respect of them.
 
-## 3. Fees[^key-9f87de9da65ef567a991edbc430ff358]
+## 3. Fees[^c-9f87de9da65ef567a991edbc430ff358]
 
 (1) Subject to paragraph (2) a fee is to be charged in respect of—
 
 - (a) the administration by the Secretary of State of applications for passports specified in Parts 1 to 3 of the Schedule; and
 - (b) the exercise of the functions of the Secretary of State specified in Part 4 of the Schedule.
 
-(2) The fee specified in Parts 1 to 3 of the Schedule in relation to the priority services includes a fee of £34.50[^key-54c27a17e10730e23d5aa431a04d86e1] for arranging the appointment (“the booking fee”).
+(2) The fee specified in Parts 1 to 3 of the Schedule in relation to the priority services includes a fee of £34.50[^c-54c27a17e10730e23d5aa431a04d86e1] for arranging the appointment (“the booking fee”).
 
 (3) No fee is to be charged for administering a standard passport application where it is made by post or online (other than an application made under the priority services) if the prospective passport holder was born on or before 2nd September 1929.
 
@@ -113,7 +113,7 @@ In accordance with section 87(1) of that Act, these Regulations are made with th
 
 (6) A prospective passport holder who is 15 years of age may, within 3 weeks before their 16th birthday, pay the fee payable by or in respect of a prospective passport holder of 16 years of age or over (but not a fee falling within paragraph (3)).
 
-## 4. Waivers[^key-fe84ad88d49ef85a2ff7f195ef858f02]
+## 4. Waivers[^c-fe84ad88d49ef85a2ff7f195ef858f02]
 
 (1) Any fee for arranging delivery of a passport in relation to an application made outside the United Kingdom must be waived where the delivery of the passport is to a British Forces Post Office address or a United Kingdom address and the prospective passport holder—
 
@@ -131,7 +131,7 @@ In accordance with section 87(1) of that Act, these Regulations are made with th
 - “**crisis**” means an incident in which at least five British citizens have been killed or injured, or are in danger of being killed;
 - “**Exceptional Assistance Measures**” means measures activated in accordance with the Foreign, Commonwealth and Development Office policy set out in the House of Commons written statement made on 10th December 2015: Exceptional Assistance Measures for Victims of Terrorist Incidents Overseas[^f00005].
 
-## 5. Refund of fees[^key-a6d2a308ff90ecd3df2e27094039db26]
+## 5. Refund of fees[^c-a6d2a308ff90ecd3df2e27094039db26]
 
 (1) Subject to paragraphs (2) and (3), the Secretary of State may refund any fee, or any part of a fee, paid under these Regulations.
 
@@ -144,7 +144,7 @@ unless the Secretary of State determines, in any particular case, that it may be
 
 (3) The booking fee referred to in regulation 3(2) may not be refunded if an appointment is cancelled by the prospective passport holder or another person acting on their behalf less than 48 hours before the time when it is due to take place unless the Secretary of State determines, in any particular case, that it may be refunded.
 
-## 6. Revocation[^key-93d614bfb36e2620732f59cd6199f6b1]
+## 6. Revocation[^c-93d614bfb36e2620732f59cd6199f6b1]
 
 The Passport (Fees) Regulations 2018[^f00006] are revoked.
 
@@ -172,9 +172,9 @@ Regulation 3
 
 ### PART 1 — STANDARD PASSPORT APPLICATIONS
 
-**1.**[^key-cb9607a65ae4cb8baa5b8295d5a176ee] This Part specifies the fees for standard passport applications.
+**1.**[^c-cb9607a65ae4cb8baa5b8295d5a176ee] This Part specifies the fees for standard passport applications.
 
-**2.**[^key-1bed82ddba5a43240d43c40f4bd1e3fb] Except where the application—
+**2.**[^c-1bed82ddba5a43240d43c40f4bd1e3fb] Except where the application—
 
 - (a) is administered under the priority services; or
 - (b) is made by, or in respect of, a prospective passport holder who is in a category specified in the table in paragraph 5,
@@ -183,7 +183,7 @@ the fees are as follows—
 
 | Category of prospective passport holder | Where the prospective passport holder lives | Method of application | Fee |
 | --- | --- | --- | --- |
-| Under-16 prospective passport holder[^key-e40934e4b70eacefbe859be112020fd0] | In the United Kingdom | Online | £66.50[^key-cf69675ff27a6ed80c8c0b4bec4f36bd] |
+| Under-16 prospective passport holder[^c-e40934e4b70eacefbe859be112020fd0] | In the United Kingdom | Online | £66.50[^c-cf69675ff27a6ed80c8c0b4bec4f36bd] |
 |  | In the United Kingdom | Postal | £80 |
 |  | Outside the United Kingdom | Online | £75.50 |
 |  | Outside the United Kingdom | Postal | £89 |
@@ -192,21 +192,21 @@ the fees are as follows—
 |  | Outside the United Kingdom | Online | £116.50 |
 |  | Outside the United Kingdom | Postal | £130 |
 
-**3.**[^key-0756f2fe66ed6f2e57fb053b32d49bc7] (1) This paragraph and paragraph 4 apply where the application is administered under one of the priority services.
+**3.**[^c-0756f2fe66ed6f2e57fb053b32d49bc7] (1) This paragraph and paragraph 4 apply where the application is administered under one of the priority services.
 
 (2)  Where the prospective passport holder is an under-16 prospective passport holder or an over-16 prospective passport holder born after 2nd September 1929 and—
 
-- (a) the application is administered under the fast track service, the fee is the standard fee plus[^key-c9635220efde0fc4d69074a1e363e9e3] £90[^key-63f785aee6d8a99fbe81de0f3b3e01d0];
-- (b) the application is administered under the premium service, the fee is the standard fee plus[^key-26920a6a2479bd3fd1daa6863a98a16a] £137.50[^key-f102538e7ec36e2908276cbebe5c5454].
+- (a) the application is administered under the fast track service, the fee is the standard fee plus[^c-c9635220efde0fc4d69074a1e363e9e3] £90[^c-63f785aee6d8a99fbe81de0f3b3e01d0];
+- (b) the application is administered under the premium service, the fee is the standard fee plus[^c-26920a6a2479bd3fd1daa6863a98a16a] £137.50[^c-f102538e7ec36e2908276cbebe5c5454].
 
 (3) Where the prospective passport holder is an over-16 prospective passport holder born on or before 2nd September 1929 and—
 
 - (a) the application is administered under the fast track service, the fee is £90;
 - (b) the application is administered under the premium service, the fee is £137.50.
 
-**4.**[^key-5b49451a0af2c84fdec7e894b7f3c1b0] The fee for applications administered under the fast track collect service is the fee for the fast track service specified in paragraph 3(2)(a) or, as the case may be, (3)(a), plus[^key-2e3e1b5ad9d84bf704c9fa90ea01120f] £27[^key-486e79d92e75673678b7fe261b7f42e7].
+**4.**[^c-5b49451a0af2c84fdec7e894b7f3c1b0] The fee for applications administered under the fast track collect service is the fee for the fast track service specified in paragraph 3(2)(a) or, as the case may be, (3)(a), plus[^c-2e3e1b5ad9d84bf704c9fa90ea01120f] £27[^c-486e79d92e75673678b7fe261b7f42e7].
 
-**5.**[^key-9bdf8787ea3f1c2ed88f9e490ccb46ab] The following table specifies the fees for the purposes of paragraph 2(b)—
+**5.**[^c-9bdf8787ea3f1c2ed88f9e490ccb46ab] The following table specifies the fees for the purposes of paragraph 2(b)—
 
 | Category of prospective passport holder | Method of application | Fee |
 | --- | --- | --- |
@@ -222,35 +222,35 @@ the fees are as follows—
 
 ### PART 2 — FREQUENT TRAVELLER PASSPORT APPLICATIONS
 
-**6.**[^key-51f5ee3a8445876ddae36f39111a193c] This Part specifies the fees for frequent traveller passport applications.
+**6.**[^c-51f5ee3a8445876ddae36f39111a193c] This Part specifies the fees for frequent traveller passport applications.
 
-**7.**[^key-c1c9e143d1c9da71506a6cc1b17ba634] Except where—
+**7.**[^c-c1c9e143d1c9da71506a6cc1b17ba634] Except where—
 
 - (a) the application is administered under the priority services;
 - (b) the prospective passport holder lives outside the United Kingdom;
 - (c) the application is made by post; or
 - (d) the prospective passport holder is in a category specified in the table in paragraph 12,
 
-the fee is the standard fee plus[^key-592d21311014a9006090cc65204f1f11] £14[^key-55fcd8f6639ec97b601a8ef3ef8ad5c6].
+the fee is the standard fee plus[^c-592d21311014a9006090cc65204f1f11] £14[^c-55fcd8f6639ec97b601a8ef3ef8ad5c6].
 
-**8.**[^key-0e96a20095dd42acee0ab7dac9c95e5c] (1) This paragraph and paragraph 9 apply where the application is administered under one of the priority services.
+**8.**[^c-0e96a20095dd42acee0ab7dac9c95e5c] (1) This paragraph and paragraph 9 apply where the application is administered under one of the priority services.
 
 (2) Where—
 
-- (a) the application is administered under the fast track service, the fee is the standard fee plus[^key-3abab5af6cad90fb1ae9e52a0910f5f5] £104[^key-c1c753225256967219bfbc83de3c86c5];
-- (b) the application is administered under the premium service, the fee is the standard fee plus[^key-e483a3c6d50608597f958eec346635c9] £151.50[^key-9fd8e2d44fd67a2a82aa22769d88159d].
+- (a) the application is administered under the fast track service, the fee is the standard fee plus[^c-3abab5af6cad90fb1ae9e52a0910f5f5] £104[^c-c1c753225256967219bfbc83de3c86c5];
+- (b) the application is administered under the premium service, the fee is the standard fee plus[^c-e483a3c6d50608597f958eec346635c9] £151.50[^c-9fd8e2d44fd67a2a82aa22769d88159d].
 
-**9.**[^key-33213b8c2e0b30b49f3ed78ebb2a8dc0] The fee for applications administered under the fast track collect service is the the fee for the fast track service specified in paragraph 8(2)(a) plus[^key-b53aca13863cda905d9e2cfb77987eaf] £27[^key-4d7ce1ed8d5ffcb1f36655b8718bd522].
+**9.**[^c-33213b8c2e0b30b49f3ed78ebb2a8dc0] The fee for applications administered under the fast track collect service is the the fee for the fast track service specified in paragraph 8(2)(a) plus[^c-b53aca13863cda905d9e2cfb77987eaf] £27[^c-4d7ce1ed8d5ffcb1f36655b8718bd522].
 
-**10.**[^key-269819db0e2bd9187633bba2a019b322] Where paragraph 7(b) applies, the fee is the appropriate fee specified in paragraph 2 for an application made by a prospective passport holder who lives outside the United Kingdom plus[^key-b3296d9aee95831a004bcf84f14d62c7] £14[^key-b6fdda13234f5648644fcc6726a1fecd].
+**10.**[^c-269819db0e2bd9187633bba2a019b322] Where paragraph 7(b) applies, the fee is the appropriate fee specified in paragraph 2 for an application made by a prospective passport holder who lives outside the United Kingdom plus[^c-b3296d9aee95831a004bcf84f14d62c7] £14[^c-b6fdda13234f5648644fcc6726a1fecd].
 
-**11.**[^key-b60aac3a203e07dc9e6e63fd573f9e89] Where paragraph 7(c) applies, the fee is the appropriate fee specified in paragraph 2 for an application made by a prospective passport holder by post plus[^key-3c4354b0cf34e22f1843d2e6be4520d0] £14[^key-6dec7e65e557d1fcd85e8999533cbc53].
+**11.**[^c-b60aac3a203e07dc9e6e63fd573f9e89] Where paragraph 7(c) applies, the fee is the appropriate fee specified in paragraph 2 for an application made by a prospective passport holder by post plus[^c-3c4354b0cf34e22f1843d2e6be4520d0] £14[^c-6dec7e65e557d1fcd85e8999533cbc53].
 
-**12.**[^key-f38868b45afa11e92a29379607a8a130] The following table specifies the fees for the purposes of paragraph 7(d)—
+**12.**[^c-f38868b45afa11e92a29379607a8a130] The following table specifies the fees for the purposes of paragraph 7(d)—
 
 | Category of prospective passport holder | Method of application | Fee |
 | --- | --- | --- |
-| A member of, or a person attached to, His Majesty’s armed forces, or a dependant of such a person aged 16 years or over[^key-3112f8e4c78b02d8c3f9098b182d69f8] | Online | The standard fee plus[^key-bb5683c5ea1296ee77737cb1b4bc4081] £14[^key-3cfd6f72064352d08b5d598dd663568a] |
+| A member of, or a person attached to, His Majesty’s armed forces, or a dependant of such a person aged 16 years or over[^c-3112f8e4c78b02d8c3f9098b182d69f8] | Online | The standard fee plus[^c-bb5683c5ea1296ee77737cb1b4bc4081] £14[^c-3cfd6f72064352d08b5d598dd663568a] |
 |  | Postal | The fee specified in the table in paragraph 2 for a postal application made by, or in respect of, an over-16 prospective passport holder who lives in the United Kingdom plus £14 |
 | A dependent aged under 16 years of a person who is a member of, or attached to, His Majesty’s armed forces | Online | The standard fee plus £14 |
 |  | Postal | The fee specified in the table in paragraph 2 for a postal application made by, or in respect of, an under-16 prospective passport holder who lives in the United Kingdom plus £14 |
@@ -258,26 +258,26 @@ the fee is the standard fee plus[^key-592d21311014a9006090cc65204f1f11] £14[^ke
 
 ### PART 3 — COLLECTIVE PASSPORTS
 
-**13.**[^key-f6d51cc3ddc8a262d3f70f7f56f37c8d] The fee for an application for a collective passport—
+**13.**[^c-f6d51cc3ddc8a262d3f70f7f56f37c8d] The fee for an application for a collective passport—
 
 - (a) made by post is £39;
 - (b) made in person is £54.
 
 ### PART 4 — FEES FOR OTHER FUNCTIONS
 
-**14.**[^key-401a213e0bb9e66c3db965045bbae0a0] The fees specified in the second column of the following table are payable in respect of the carrying out of the functions specified in the corresponding entry in the first column of that table.
+**14.**[^c-401a213e0bb9e66c3db965045bbae0a0] The fees specified in the second column of the following table are payable in respect of the carrying out of the functions specified in the corresponding entry in the first column of that table.
 
 | Function |  | Fee |
 | --- | --- | --- |
-| Arranging the return of supporting documents accompanying a passport application[^key-978d321c70c2c3fd4be03235a7fce074] made in the United Kingdom |  | £5 |
+| Arranging the return of supporting documents accompanying a passport application[^c-978d321c70c2c3fd4be03235a7fce074] made in the United Kingdom |  | £5 |
 | Arranging delivery of a passport for an application made outside the United Kingdom and if the application is successful, delivering the passport— |  |  |
 |  | To an address in the United Kingdom (including a British Forces Post Office address) | £5 |
-|  | To a United Kingdom embassy, High Commission or consulate by diplomatic channels | £14.32[^key-d89d4d96de335c3c5ff3abbaaa3d99b1] |
-|  | To an address, not being one of the above, specified by the prospective passport holder or the Secretary of State | £14.32[^key-37a57cf820a630c6b9065307e85c1339] |
-| Forwarding an application [^key-8ffdd0902abc32e1ee3df65392eb5772]... made outside the United Kingdom to a passport office in the United Kingdom to be administered where the prospective passport holder [^key-fbcb93a6a70a30eca0ff97983e95b197]... was born after 2nd September 1929 |  | £16.24[^key-9692cf40bb220dba1a50b7a4e6b5d727] |
-| Arranging the return of supporting documents accompanying an application [^key-409788103b4eaf70bb765cc90e1ad338]... made outside the United Kingdom for a passport — |  |  |
+|  | To a United Kingdom embassy, High Commission or consulate by diplomatic channels | £14.32[^c-d89d4d96de335c3c5ff3abbaaa3d99b1] |
+|  | To an address, not being one of the above, specified by the prospective passport holder or the Secretary of State | £14.32[^c-37a57cf820a630c6b9065307e85c1339] |
+| Forwarding an application [^c-8ffdd0902abc32e1ee3df65392eb5772]... made outside the United Kingdom to a passport office in the United Kingdom to be administered where the prospective passport holder [^c-fbcb93a6a70a30eca0ff97983e95b197]... was born after 2nd September 1929 |  | £16.24[^c-9692cf40bb220dba1a50b7a4e6b5d727] |
+| Arranging the return of supporting documents accompanying an application [^c-409788103b4eaf70bb765cc90e1ad338]... made outside the United Kingdom for a passport — |  |  |
 |  | To an address in the United Kingdom | £5 |
-|  | To an overseas address specified by the prospective passport holder or the Secretary of State, where the prospective passport holder [^key-d4fd967dded69ff22dbb5ed7abc49bfd]... was born after 2nd September 1929 | £14.32[^key-3f90c6f758c033687f6045d7d636735e] |
+|  | To an overseas address specified by the prospective passport holder or the Secretary of State, where the prospective passport holder [^c-d4fd967dded69ff22dbb5ed7abc49bfd]... was born after 2nd September 1929 | £14.32[^c-3f90c6f758c033687f6045d7d636735e] |
 
 EXPLANATORY NOTE
 
@@ -303,118 +303,118 @@ A full impact assessment has not been produced for this instrument because no, o
 
 [^f00001]: Footnote: [2016 c. 19](https://www.legislation.gov.uk/ukpga/2016/19).
 
-[^key-eab262975a842cbb8f54ec363e4425b4]: Commencement: Reg. 1 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-eab262975a842cbb8f54ec363e4425b4]: Commencement: Reg. 1 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-66b859598fb8171a1211c02a2a51001b]: Commencement: Reg. 2 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-66b859598fb8171a1211c02a2a51001b]: Commencement: Reg. 2 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
 [^f00002]: Footnote: https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=090000168006b644.
 
 [^f00003]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-9f87de9da65ef567a991edbc430ff358]: Commencement: Reg. 3 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-9f87de9da65ef567a991edbc430ff358]: Commencement: Reg. 3 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-54c27a17e10730e23d5aa431a04d86e1]: Textual amendment: Sum in reg. 3(2) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [12](https://www.legislation.gov.uk/uksi/2026/311/regulation/12)
+[^c-54c27a17e10730e23d5aa431a04d86e1]: Textual amendment: Sum in reg. 3(2) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [12](https://www.legislation.gov.uk/uksi/2026/311/regulation/12)
 
-[^key-fe84ad88d49ef85a2ff7f195ef858f02]: Commencement: Reg. 4 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-fe84ad88d49ef85a2ff7f195ef858f02]: Commencement: Reg. 4 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
 [^f00004]: Footnote: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/974146/Diplomatic\_and\_Official\_service\_passports\_and\_observations\_.pdf.
 
 [^f00005]: Footnote: https://questions-statements.parliament.uk/written-statements/detail/2015-12-10/HLWS376. See also “Crisis situations: supporting our customers” on www.gov.uk.
 
-[^key-a6d2a308ff90ecd3df2e27094039db26]: Commencement: Reg. 5 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-a6d2a308ff90ecd3df2e27094039db26]: Commencement: Reg. 5 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-93d614bfb36e2620732f59cd6199f6b1]: Commencement: Reg. 6 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-93d614bfb36e2620732f59cd6199f6b1]: Commencement: Reg. 6 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2018/414](https://www.legislation.gov.uk/uksi/2018/414).
 
-[^key-cb9607a65ae4cb8baa5b8295d5a176ee]: Commencement: Sch. para. 1 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-cb9607a65ae4cb8baa5b8295d5a176ee]: Commencement: Sch. para. 1 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-1bed82ddba5a43240d43c40f4bd1e3fb]: Commencement: Sch. para. 2 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-1bed82ddba5a43240d43c40f4bd1e3fb]: Commencement: Sch. para. 2 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-e40934e4b70eacefbe859be112020fd0]: Textual amendment: Sch. para. 2 table substituted (2.2.2023) by [The Immigration and Nationality (Fees) and Passport (Fees) (Amendment) Regulations 2023 (S.I. 2023/15)](https://www.legislation.gov.uk/uksi/2023/15), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/15/regulation/1/2/a), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/15/schedule/paragraph/1)
+[^c-e40934e4b70eacefbe859be112020fd0]: Textual amendment: Sch. para. 2 table substituted (2.2.2023) by [The Immigration and Nationality (Fees) and Passport (Fees) (Amendment) Regulations 2023 (S.I. 2023/15)](https://www.legislation.gov.uk/uksi/2023/15), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/15/regulation/1/2/a), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/15/schedule/paragraph/1)
 
-[^key-cf69675ff27a6ed80c8c0b4bec4f36bd]: Textual amendment: Sum in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/2) Table substituted (9.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/3), [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2026/311/schedule/8/paragraph/1)
+[^c-cf69675ff27a6ed80c8c0b4bec4f36bd]: Textual amendment: Sum in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/2) Table substituted (9.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/3), [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2026/311/schedule/8/paragraph/1)
 
-[^key-0756f2fe66ed6f2e57fb053b32d49bc7]: Textual amendment: Sch. para. 3 substituted (2.2.2023) by [The Immigration and Nationality (Fees) and Passport (Fees) (Amendment) Regulations 2023 (S.I. 2023/15)](https://www.legislation.gov.uk/uksi/2023/15), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/15/regulation/1/2/a), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/15/schedule/paragraph/2)
+[^c-0756f2fe66ed6f2e57fb053b32d49bc7]: Textual amendment: Sch. para. 3 substituted (2.2.2023) by [The Immigration and Nationality (Fees) and Passport (Fees) (Amendment) Regulations 2023 (S.I. 2023/15)](https://www.legislation.gov.uk/uksi/2023/15), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/15/regulation/1/2/a), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/15/schedule/paragraph/2)
 
-[^key-c9635220efde0fc4d69074a1e363e9e3]: Textual amendment: Words in Sch. para. 3(2)(a) substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
+[^c-c9635220efde0fc4d69074a1e363e9e3]: Textual amendment: Words in Sch. para. 3(2)(a) substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
 
-[^key-63f785aee6d8a99fbe81de0f3b3e01d0]: Textual amendment: Sum in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/3) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(3)(a)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/3/a)
+[^c-63f785aee6d8a99fbe81de0f3b3e01d0]: Textual amendment: Sum in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/3) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(3)(a)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/3/a)
 
-[^key-26920a6a2479bd3fd1daa6863a98a16a]: Textual amendment: Words in Sch. para. 3(2)(b) substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
+[^c-26920a6a2479bd3fd1daa6863a98a16a]: Textual amendment: Words in Sch. para. 3(2)(b) substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
 
-[^key-f102538e7ec36e2908276cbebe5c5454]: Textual amendment: Sum in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/3) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(3)(b)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/3/b)
+[^c-f102538e7ec36e2908276cbebe5c5454]: Textual amendment: Sum in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/3) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(3)(b)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/3/b)
 
-[^key-5b49451a0af2c84fdec7e894b7f3c1b0]: Commencement: Sch. para. 4 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-5b49451a0af2c84fdec7e894b7f3c1b0]: Commencement: Sch. para. 4 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-2e3e1b5ad9d84bf704c9fa90ea01120f]: Textual amendment: Words in Sch. para. 4 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
+[^c-2e3e1b5ad9d84bf704c9fa90ea01120f]: Textual amendment: Words in Sch. para. 4 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
 
-[^key-486e79d92e75673678b7fe261b7f42e7]: Textual amendment: Sum in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/4) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/4)
+[^c-486e79d92e75673678b7fe261b7f42e7]: Textual amendment: Sum in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/4) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/4)
 
-[^key-9bdf8787ea3f1c2ed88f9e490ccb46ab]: Commencement: Sch. para. 5 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-9bdf8787ea3f1c2ed88f9e490ccb46ab]: Commencement: Sch. para. 5 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-51f5ee3a8445876ddae36f39111a193c]: Commencement: Sch. para. 6 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-51f5ee3a8445876ddae36f39111a193c]: Commencement: Sch. para. 6 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-c1c9e143d1c9da71506a6cc1b17ba634]: Commencement: Sch. para. 7 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-c1c9e143d1c9da71506a6cc1b17ba634]: Commencement: Sch. para. 7 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-592d21311014a9006090cc65204f1f11]: Textual amendment: Words in Sch. para. 7 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
+[^c-592d21311014a9006090cc65204f1f11]: Textual amendment: Words in Sch. para. 7 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
 
-[^key-55fcd8f6639ec97b601a8ef3ef8ad5c6]: Textual amendment: Sum in [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/7) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(5)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/5)
+[^c-55fcd8f6639ec97b601a8ef3ef8ad5c6]: Textual amendment: Sum in [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/7) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(5)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/5)
 
-[^key-0e96a20095dd42acee0ab7dac9c95e5c]: Textual amendment: Sch. para. 8 substituted (2.2.2023) by [The Immigration and Nationality (Fees) and Passport (Fees) (Amendment) Regulations 2023 (S.I. 2023/15)](https://www.legislation.gov.uk/uksi/2023/15), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/15/regulation/1/2/a), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2023/15/schedule/paragraph/5)
+[^c-0e96a20095dd42acee0ab7dac9c95e5c]: Textual amendment: Sch. para. 8 substituted (2.2.2023) by [The Immigration and Nationality (Fees) and Passport (Fees) (Amendment) Regulations 2023 (S.I. 2023/15)](https://www.legislation.gov.uk/uksi/2023/15), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/15/regulation/1/2/a), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2023/15/schedule/paragraph/5)
 
-[^key-3abab5af6cad90fb1ae9e52a0910f5f5]: Textual amendment: Words in Sch. para. 8(2)(a) substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
+[^c-3abab5af6cad90fb1ae9e52a0910f5f5]: Textual amendment: Words in Sch. para. 8(2)(a) substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
 
-[^key-c1c753225256967219bfbc83de3c86c5]: Textual amendment: Sum in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/8) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(6)(a)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/6/a)
+[^c-c1c753225256967219bfbc83de3c86c5]: Textual amendment: Sum in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/8) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(6)(a)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/6/a)
 
-[^key-e483a3c6d50608597f958eec346635c9]: Textual amendment: Words in Sch. para. 8(2)(b) substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
+[^c-e483a3c6d50608597f958eec346635c9]: Textual amendment: Words in Sch. para. 8(2)(b) substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
 
-[^key-9fd8e2d44fd67a2a82aa22769d88159d]: Textual amendment: Sum in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/8) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(6)(b)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/6/b)
+[^c-9fd8e2d44fd67a2a82aa22769d88159d]: Textual amendment: Sum in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/8) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(6)(b)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/6/b)
 
-[^key-33213b8c2e0b30b49f3ed78ebb2a8dc0]: Commencement: Sch. para. 9 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-33213b8c2e0b30b49f3ed78ebb2a8dc0]: Commencement: Sch. para. 9 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-b53aca13863cda905d9e2cfb77987eaf]: Textual amendment: Words in Sch. para. 9 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
+[^c-b53aca13863cda905d9e2cfb77987eaf]: Textual amendment: Words in Sch. para. 9 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
 
-[^key-4d7ce1ed8d5ffcb1f36655b8718bd522]: Textual amendment: Sum in [Sch. para. 9](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/9) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(7)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/7)
+[^c-4d7ce1ed8d5ffcb1f36655b8718bd522]: Textual amendment: Sum in [Sch. para. 9](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/9) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(7)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/7)
 
-[^key-269819db0e2bd9187633bba2a019b322]: Commencement: Sch. para. 10 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-269819db0e2bd9187633bba2a019b322]: Commencement: Sch. para. 10 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-b3296d9aee95831a004bcf84f14d62c7]: Textual amendment: Words in Sch. para. 10 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
+[^c-b3296d9aee95831a004bcf84f14d62c7]: Textual amendment: Words in Sch. para. 10 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
 
-[^key-b6fdda13234f5648644fcc6726a1fecd]: Textual amendment: Sum in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/10) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(8)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/8)
+[^c-b6fdda13234f5648644fcc6726a1fecd]: Textual amendment: Sum in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/10) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(8)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/8)
 
-[^key-b60aac3a203e07dc9e6e63fd573f9e89]: Commencement: Sch. para. 11 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-b60aac3a203e07dc9e6e63fd573f9e89]: Commencement: Sch. para. 11 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-3c4354b0cf34e22f1843d2e6be4520d0]: Textual amendment: Words in Sch. para. 11 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
+[^c-3c4354b0cf34e22f1843d2e6be4520d0]: Textual amendment: Words in Sch. para. 11 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
 
-[^key-6dec7e65e557d1fcd85e8999533cbc53]: Textual amendment: Sum in [Sch. para. 11](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/11) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(9)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/9)
+[^c-6dec7e65e557d1fcd85e8999533cbc53]: Textual amendment: Sum in [Sch. para. 11](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/11) substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(9)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/9)
 
-[^key-f38868b45afa11e92a29379607a8a130]: Commencement: Sch. para. 12 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-f38868b45afa11e92a29379607a8a130]: Commencement: Sch. para. 12 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-3112f8e4c78b02d8c3f9098b182d69f8]: Textual amendment: Sch. para. 12 table substituted (2.2.2023) by [The Immigration and Nationality (Fees) and Passport (Fees) (Amendment) Regulations 2023 (S.I. 2023/15)](https://www.legislation.gov.uk/uksi/2023/15), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/15/regulation/1/2/a), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2023/15/schedule/paragraph/9)
+[^c-3112f8e4c78b02d8c3f9098b182d69f8]: Textual amendment: Sch. para. 12 table substituted (2.2.2023) by [The Immigration and Nationality (Fees) and Passport (Fees) (Amendment) Regulations 2023 (S.I. 2023/15)](https://www.legislation.gov.uk/uksi/2023/15), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/15/regulation/1/2/a), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2023/15/schedule/paragraph/9)
 
-[^key-bb5683c5ea1296ee77737cb1b4bc4081]: Textual amendment: Words in Sch. para. 12 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
+[^c-bb5683c5ea1296ee77737cb1b4bc4081]: Textual amendment: Words in Sch. para. 12 substituted (11.4.2024) by [The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024 (S.I. 2024/398)](https://www.legislation.gov.uk/uksi/2024/398), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2024/398/regulation/1/2/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/398/schedule/2)
 
-[^key-3cfd6f72064352d08b5d598dd663568a]: Textual amendment: Sum in [Sch. para. 12](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/12) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(10)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/10)
+[^c-3cfd6f72064352d08b5d598dd663568a]: Textual amendment: Sum in [Sch. para. 12](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/12) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(10)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/10)
 
-[^key-f6d51cc3ddc8a262d3f70f7f56f37c8d]: Commencement: Sch. para. 13 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-f6d51cc3ddc8a262d3f70f7f56f37c8d]: Commencement: Sch. para. 13 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-401a213e0bb9e66c3db965045bbae0a0]: Commencement: Sch. para. 14 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
+[^c-401a213e0bb9e66c3db965045bbae0a0]: Commencement: Sch. para. 14 in force at 5.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2)
 
-[^key-978d321c70c2c3fd4be03235a7fce074]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(a)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/a)
+[^c-978d321c70c2c3fd4be03235a7fce074]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(a)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/a)
 
-[^key-d89d4d96de335c3c5ff3abbaaa3d99b1]: Textual amendment: Sum in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(b)(i)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/b/i)
+[^c-d89d4d96de335c3c5ff3abbaaa3d99b1]: Textual amendment: Sum in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(b)(i)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/b/i)
 
-[^key-37a57cf820a630c6b9065307e85c1339]: Textual amendment: Sum in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/b/ii)
+[^c-37a57cf820a630c6b9065307e85c1339]: Textual amendment: Sum in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/b/ii)
 
-[^key-8ffdd0902abc32e1ee3df65392eb5772]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table omitted (8.4.2026) by virtue of [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(c)(i)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/c/i)
+[^c-8ffdd0902abc32e1ee3df65392eb5772]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table omitted (8.4.2026) by virtue of [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(c)(i)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/c/i)
 
-[^key-fbcb93a6a70a30eca0ff97983e95b197]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table omitted (8.4.2026) by virtue of [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/c/ii)
+[^c-fbcb93a6a70a30eca0ff97983e95b197]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table omitted (8.4.2026) by virtue of [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/c/ii)
 
-[^key-9692cf40bb220dba1a50b7a4e6b5d727]: Textual amendment: Sum in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/c/iii)
+[^c-9692cf40bb220dba1a50b7a4e6b5d727]: Textual amendment: Sum in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/c/iii)
 
-[^key-409788103b4eaf70bb765cc90e1ad338]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table omitted (8.4.2026) by virtue of [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(d)(i)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/d/i)
+[^c-409788103b4eaf70bb765cc90e1ad338]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table omitted (8.4.2026) by virtue of [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(d)(i)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/d/i)
 
-[^key-d4fd967dded69ff22dbb5ed7abc49bfd]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table omitted (8.4.2026) by virtue of [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/d/ii)
+[^c-d4fd967dded69ff22dbb5ed7abc49bfd]: Textual amendment: Words in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table omitted (8.4.2026) by virtue of [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/d/ii)
 
-[^key-3f90c6f758c033687f6045d7d636735e]: Textual amendment: Sum in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(d)(iii)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/d/iii)
+[^c-3f90c6f758c033687f6045d7d636735e]: Textual amendment: Sum in [Sch. para. 14](https://www.legislation.gov.uk/uksi/2022/660/schedule/paragraph/14) table substituted (8.4.2026) by [The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026 (S.I. 2026/311)](https://www.legislation.gov.uk/uksi/2026/311), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/311/regulation/1/4), [13(11)(d)(iii)](https://www.legislation.gov.uk/uksi/2026/311/regulation/13/11/d/iii)

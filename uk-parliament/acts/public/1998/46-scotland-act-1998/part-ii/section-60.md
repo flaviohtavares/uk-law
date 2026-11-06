@@ -27,10 +27,10 @@ summary: ''
 
 (2) Subordinate legislation may provide for the transfer to the Scottish Ministers of any liabilities to which a Minister of the Crown or government department is subject.
 
-(3) Subordinate legislation under this section may only be made in connection with any transfer or sharing of functions of a Minister of the Crown by virtue of section 53, 63 or 89 or in any other circumstances in which the person making the legislation considers it appropriate to do so for the purposes of this Act or the Scotland Act 2016[^key-0d0b7fb776f65506f4f640ad434b9c19].
+(3) Subordinate legislation under this section may only be made in connection with any transfer or sharing of functions of a Minister of the Crown by virtue of section 53, 63 or 89 or in any other circumstances in which the person making the legislation considers it appropriate to do so for the purposes of this Act or the Scotland Act 2016[^c-0d0b7fb776f65506f4f640ad434b9c19].
 
 ## Annotations
 
 [^c12394511]: Commencement: S. 60 wholly in force at 6.5.1999; s. 60 not in force at Royal Assent see s. 130; s. 60 in force for certain purposes at 25.1.1999 by [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/3178/schedule/1); s. 60 in force at 6.5.1999 in so far as not already in force by [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1998/3178/schedule/3)
 
-[^key-0d0b7fb776f65506f4f640ad434b9c19]: Textual amendment: Words in [s. 60(3)](https://www.legislation.gov.uk/ukpga/1998/46/section/60/3) inserted (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 69](https://www.legislation.gov.uk/ukpga/2016/11/section/69), [72(1)(c)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/c)
+[^c-0d0b7fb776f65506f4f640ad434b9c19]: Textual amendment: Words in [s. 60(3)](https://www.legislation.gov.uk/ukpga/1998/46/section/60/3) inserted (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 69](https://www.legislation.gov.uk/ukpga/2016/11/section/69), [72(1)(c)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/c)

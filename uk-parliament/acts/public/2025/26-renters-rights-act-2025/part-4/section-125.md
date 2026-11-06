@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Appeal against detention of documents[^key-c42d4abe7168422a06ddebe29561a901]
+## 125. Appeal against detention of documents[^c-c42d4abe7168422a06ddebe29561a901]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c42d4abe7168422a06ddebe29561a901]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2025/26/section/125) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-c42d4abe7168422a06ddebe29561a901]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2025/26/section/125) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

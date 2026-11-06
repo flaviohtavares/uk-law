@@ -32,10 +32,10 @@ Commission Regulation (EC) No 1209/2000
 
 of 8 June 2000 determining procedures for effecting the communications prescribed under Article 41 of the Treaty establishing the European Atomic Energy Community (revoked)
 
-[^key-36e95a6d8fb044bd3948a6e3baf48d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36e95a6d8fb044bd3948a6e3baf48d38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-36e95a6d8fb044bd3948a6e3baf48d38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-36e95a6d8fb044bd3948a6e3baf48d38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36e95a6d8fb044bd3948a6e3baf48d38]: Textual amendment: Regulation revoked (31.12.2020) by [The Communication of Investments (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1147)](https://www.legislation.gov.uk/uksi/2018/1147), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1147/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/1147/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36e95a6d8fb044bd3948a6e3baf48d38]: Textual amendment: Regulation revoked (31.12.2020) by [The Communication of Investments (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1147)](https://www.legislation.gov.uk/uksi/2018/1147), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1147/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/1147/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -43,13 +43,13 @@ The Office of Communications (“**OFCOM**”), in exercise of the powers confer
 
 Before making these Regulations, OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act, and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation, commencement and extent[^key-90881414a6ca8d1c41240ac9ef943d01]
+## 1. Citation, commencement and extent[^c-90881414a6ca8d1c41240ac9ef943d01]
 
 (1) These Regulations may be cited as the Wireless Telegraphy (Direct to Device Satellite Communications) (Exemption) Regulations 2026 and shall come into force on 25th February 2026.
 
 (2) These Regulations shall not extend to the Channel Islands nor to the Isle of Man.
 
-## 2. Interpretation[^key-8650c20000db148bde4d2229bf3640d8]
+## 2. Interpretation[^c-8650c20000db148bde4d2229bf3640d8]
 
 In these Regulations—
 
@@ -58,7 +58,7 @@ In these Regulations—
 - “**mobile satellite system**” means an electronic communications network and associated facilities which is capable of providing radio-communications services between mobile earth stations and one or more space stations; and
 - “total radiated power” is the integral of the power transmitted in different directions over the entire radiation sphere, measured when the apparatus is transmitting.
 
-## 3. Exemption[^key-875b57568392127244beb7c3c29ccf86]
+## 3. Exemption[^c-875b57568392127244beb7c3c29ccf86]
 
 (1) Except in the situation described in paragraph (3), the establishment, installation and use of wireless telegraphy apparatus for direct to device services is exempt from the provisions of section 8(1) of the Wireless Telegraphy Act 2006 where the terms, provisions and limitations in regulation 4 are met.
 
@@ -68,7 +68,7 @@ In these Regulations—
 
 (4) A commercial multi-user gateway device is a device utilising more than one SIM card and onto which telephone voice calls or SMS messages for more than one end user are (or could be) diverted for onward wireless transmission utilising one (or more than one) of the SIM cards associated with the device.
 
-## 4. Terms, provisions and limitations[^key-a21947300caa03ee63a086e1c20b8661]
+## 4. Terms, provisions and limitations[^c-a21947300caa03ee63a086e1c20b8661]
 
 (1) The terms, provisions and limitations are those in paragraphs (2) to (9).
 
@@ -80,9 +80,9 @@ In these Regulations—
 
 (5) The frequency bands are—
 
-- (a) 1710.1-1715.9 Megahertz; [^key-b401d405948d5a1973735559b380eb7f]...
-- (b) 1805.1-1810.9 Megahertz;[^key-f41b222f054d70e79485106ae5654ef0]
-- (c)[^key-70555b92b1247010bbe4cba93aea7e6f] 880.1-885.1 Megahertz; and
+- (a) 1710.1-1715.9 Megahertz; [^c-b401d405948d5a1973735559b380eb7f]...
+- (b) 1805.1-1810.9 Megahertz;[^c-f41b222f054d70e79485106ae5654ef0]
+- (c)[^c-70555b92b1247010bbe4cba93aea7e6f] 880.1-885.1 Megahertz; and
 - (d) 925.1-930.1 Megahertz.
 
 (6) The wireless telegraphy apparatus must (when transmitting and receiving radio signals to and from a space station) only operate using one (or more than one) of the standards listed in paragraph (7), which are published by the European Telecommunications Standards Institute[^f00003].
@@ -100,7 +100,7 @@ In these Regulations—
   - (i) EN 301 908–1 V15.2.1; and
   - (ii) EN 301 908–25 V15.1.1.
 
-(8)[^key-61b19523826fdc26336b928137eab67c] When transmitting using the GSM standard, the mean power must not exceed—
+(8)[^c-61b19523826fdc26336b928137eab67c] When transmitting using the GSM standard, the mean power must not exceed—
 
 - (a) 30dBm total radiated power when transmitting on the frequencies specified in regulation 4, paragraph (5), sub-paragraphs (a) and (b); and
 - (b) 33 dBm total radiated power when transmitting on the frequencies specified in regulation 4, paragraph (5), sub-paragraphs (c) and (d).
@@ -137,22 +137,22 @@ A full regulatory impact assessment of the effect of these Regulations is availa
 
 [^f00001]: Footnote: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36).
 
-[^key-90881414a6ca8d1c41240ac9ef943d01]: Commencement: Reg. 1 in force at 25.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/139/regulation/1/1)
+[^c-90881414a6ca8d1c41240ac9ef943d01]: Commencement: Reg. 1 in force at 25.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/139/regulation/1/1)
 
-[^key-8650c20000db148bde4d2229bf3640d8]: Commencement: Reg. 2 in force at 25.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/139/regulation/1/1)
+[^c-8650c20000db148bde4d2229bf3640d8]: Commencement: Reg. 2 in force at 25.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/139/regulation/1/1)
 
 [^f00002]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-875b57568392127244beb7c3c29ccf86]: Commencement: Reg. 3 in force at 25.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/139/regulation/1/1)
+[^c-875b57568392127244beb7c3c29ccf86]: Commencement: Reg. 3 in force at 25.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/139/regulation/1/1)
 
-[^key-a21947300caa03ee63a086e1c20b8661]: Commencement: Reg. 4 in force at 25.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/139/regulation/1/1)
+[^c-a21947300caa03ee63a086e1c20b8661]: Commencement: Reg. 4 in force at 25.2.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/139/regulation/1/1)
 
-[^key-b401d405948d5a1973735559b380eb7f]: Textual amendment: Word in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2026/139/regulation/4/5) omitted (10.7.2026) by virtue of [The Wireless Telegraphy (Direct to Device Satellite Communications) (Exemption) (Amendment) Regulations 2026 (S.I. 2026/660)](https://www.legislation.gov.uk/uksi/2026/660), [regs. 1](https://www.legislation.gov.uk/uksi/2026/660/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/660/regulation/2/2/a)
+[^c-b401d405948d5a1973735559b380eb7f]: Textual amendment: Word in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2026/139/regulation/4/5) omitted (10.7.2026) by virtue of [The Wireless Telegraphy (Direct to Device Satellite Communications) (Exemption) (Amendment) Regulations 2026 (S.I. 2026/660)](https://www.legislation.gov.uk/uksi/2026/660), [regs. 1](https://www.legislation.gov.uk/uksi/2026/660/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/660/regulation/2/2/a)
 
-[^key-f41b222f054d70e79485106ae5654ef0]: Textual amendment: Word in [reg. 4(5)(b)](https://www.legislation.gov.uk/uksi/2026/139/regulation/4/5/b) substituted (10.7.2026) by [The Wireless Telegraphy (Direct to Device Satellite Communications) (Exemption) (Amendment) Regulations 2026 (S.I. 2026/660)](https://www.legislation.gov.uk/uksi/2026/660), [regs. 1](https://www.legislation.gov.uk/uksi/2026/660/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/660/regulation/2/2/b)
+[^c-f41b222f054d70e79485106ae5654ef0]: Textual amendment: Word in [reg. 4(5)(b)](https://www.legislation.gov.uk/uksi/2026/139/regulation/4/5/b) substituted (10.7.2026) by [The Wireless Telegraphy (Direct to Device Satellite Communications) (Exemption) (Amendment) Regulations 2026 (S.I. 2026/660)](https://www.legislation.gov.uk/uksi/2026/660), [regs. 1](https://www.legislation.gov.uk/uksi/2026/660/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/660/regulation/2/2/b)
 
-[^key-70555b92b1247010bbe4cba93aea7e6f]: Textual amendment: [Reg. 4(5)(c)](https://www.legislation.gov.uk/uksi/2026/139/regulation/4/5/c)[(d)](https://www.legislation.gov.uk/uksi/2026/139/regulation/4/5/d) inserted (10.7.2026) by [The Wireless Telegraphy (Direct to Device Satellite Communications) (Exemption) (Amendment) Regulations 2026 (S.I. 2026/660)](https://www.legislation.gov.uk/uksi/2026/660), [regs. 1](https://www.legislation.gov.uk/uksi/2026/660/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/660/regulation/2/2/c)
+[^c-70555b92b1247010bbe4cba93aea7e6f]: Textual amendment: [Reg. 4(5)(c)](https://www.legislation.gov.uk/uksi/2026/139/regulation/4/5/c)[(d)](https://www.legislation.gov.uk/uksi/2026/139/regulation/4/5/d) inserted (10.7.2026) by [The Wireless Telegraphy (Direct to Device Satellite Communications) (Exemption) (Amendment) Regulations 2026 (S.I. 2026/660)](https://www.legislation.gov.uk/uksi/2026/660), [regs. 1](https://www.legislation.gov.uk/uksi/2026/660/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/660/regulation/2/2/c)
 
 [^f00003]: Footnote: The standards are published by the European Telecommunications Standards Institute (ETSI) and are available at https://www.etsi.org/.
 
-[^key-61b19523826fdc26336b928137eab67c]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/uksi/2026/139/regulation/4/8) substituted (10.7.2026) by [The Wireless Telegraphy (Direct to Device Satellite Communications) (Exemption) (Amendment) Regulations 2026 (S.I. 2026/660)](https://www.legislation.gov.uk/uksi/2026/660), [regs. 1](https://www.legislation.gov.uk/uksi/2026/660/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/660/regulation/2/3)
+[^c-61b19523826fdc26336b928137eab67c]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/uksi/2026/139/regulation/4/8) substituted (10.7.2026) by [The Wireless Telegraphy (Direct to Device Satellite Communications) (Exemption) (Amendment) Regulations 2026 (S.I. 2026/660)](https://www.legislation.gov.uk/uksi/2026/660), [regs. 1](https://www.legislation.gov.uk/uksi/2026/660/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/660/regulation/2/3)

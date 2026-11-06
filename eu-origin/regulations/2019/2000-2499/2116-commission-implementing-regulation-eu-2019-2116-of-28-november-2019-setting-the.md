@@ -35,18 +35,18 @@ setting the weighted average of maximum mobile termination rates across the Unio
 
 (Text with EEA relevance) (revoked)
 
-[^key-b0e406a0ac080e4eb82e803033346e74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0e406a0ac080e4eb82e803033346e74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-b0e406a0ac080e4eb82e803033346e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b0e406a0ac080e4eb82e803033346e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b0e406a0ac080e4eb82e803033346e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b0e406a0ac080e4eb82e803033346e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b0e406a0ac080e4eb82e803033346e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b0e406a0ac080e4eb82e803033346e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0e406a0ac080e4eb82e803033346e74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0e406a0ac080e4eb82e803033346e74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0e406a0ac080e4eb82e803033346e74]: Textual amendment: Regulation revoked (6.4.2023) by [The Trade (Mobile Roaming) Regulations 2023 (S.I. 2023/214)](https://www.legislation.gov.uk/uksi/2023/214), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b), [14](https://www.legislation.gov.uk/uksi/2023/214/regulation/14)
+[^c-b0e406a0ac080e4eb82e803033346e74]: Textual amendment: Regulation revoked (6.4.2023) by [The Trade (Mobile Roaming) Regulations 2023 (S.I. 2023/214)](https://www.legislation.gov.uk/uksi/2023/214), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b), [14](https://www.legislation.gov.uk/uksi/2023/214/regulation/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Designated courses – exceptions[^key-321e18f71ae903f2e6ac2555f1d4c7be]
+## 7. Designated courses – exceptions[^c-321e18f71ae903f2e6ac2555f1d4c7be]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ A course is not a designated course if it is recognised as a designated course f
 
 ## Annotations
 
-[^key-321e18f71ae903f2e6ac2555f1d4c7be]: Commencement: Reg. 7 in force at 27.5.2019, see reg. 1(2)
+[^c-321e18f71ae903f2e6ac2555f1d4c7be]: Commencement: Reg. 7 in force at 27.5.2019, see reg. 1(2)
 
 [^c23728091]: Marginal citation: [S.I. 2017/47](https://www.legislation.gov.uk/uksi/2017/47) (W. 21), amended by [S.I. 2018/191](https://www.legislation.gov.uk/uksi/2018/191) (W. 42) and [S.I. 2018/814](https://www.legislation.gov.uk/uksi/2018/814) (W. 165).
 

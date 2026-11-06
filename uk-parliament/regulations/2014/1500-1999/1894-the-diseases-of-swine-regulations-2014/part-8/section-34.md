@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Powers of inspectors[^key-3ff5c54e9bd1f2e60a3457498f92a1f6]
+## 34. Powers of inspectors[^c-3ff5c54e9bd1f2e60a3457498f92a1f6]
 
 *Extent: E+W+S*
 
@@ -81,7 +81,7 @@ summary: ''
 (9) The inspector may—
 
 - (a) take any necessary equipment or vehicle on to the premises;
-- (b)[^key-bb0d9e161f0817829dd6d2dae63f5fc2] be accompanied by such other persons as the inspector considers necessary.
+- (b)[^c-bb0d9e161f0817829dd6d2dae63f5fc2] be accompanied by such other persons as the inspector considers necessary.
 
 (10) Any power or obligation to take a sample and test it includes a power to—
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ff5c54e9bd1f2e60a3457498f92a1f6]: Commencement: Reg. 34 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-3ff5c54e9bd1f2e60a3457498f92a1f6]: Commencement: Reg. 34 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
 
-[^key-bb0d9e161f0817829dd6d2dae63f5fc2]: Textual amendment: [Reg. 34(9)(b)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/34/9/b) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [21(5)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/21/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb0d9e161f0817829dd6d2dae63f5fc2]: Textual amendment: [Reg. 34(9)(b)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/34/9/b) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [21(5)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/21/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

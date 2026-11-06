@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Where proceedings may be commenced[^key-ba1e8d0adb8e2b3ae79d316cedc00dcb]
+## 4. Where proceedings may be commenced[^c-ba1e8d0adb8e2b3ae79d316cedc00dcb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba1e8d0adb8e2b3ae79d316cedc00dcb]: Textual amendment: Order 52 rule 4 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(21)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/21/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-ba1e8d0adb8e2b3ae79d316cedc00dcb]: Textual amendment: Order 52 rule 4 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(21)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/21/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

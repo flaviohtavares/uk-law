@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYMENT
 
-The Industrial Tribunals (Constitution and Rules of Procedure) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-748ddf5cdb938b4022d6d295158fd940]
+The Industrial Tribunals (Constitution and Rules of Procedure) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-748ddf5cdb938b4022d6d295158fd940]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 31st August 2005
 
-[^key-748ddf5cdb938b4022d6d295158fd940]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-748ddf5cdb938b4022d6d295158fd940]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-748ddf5cdb938b4022d6d295158fd940]
+## 1. Citation, commencement and interpretation[^c-748ddf5cdb938b4022d6d295158fd940]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment to panel of chairmen[^key-748ddf5cdb938b4022d6d295158fd940]
+## 2. Appointment to panel of chairmen[^c-748ddf5cdb938b4022d6d295158fd940]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-748ddf5cdb938b4022d6d295158fd940]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-748ddf5cdb938b4022d6d295158fd940]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-748ddf5cdb938b4022d6d295158fd940]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-748ddf5cdb938b4022d6d295158fd940]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-748ddf5cdb938b4022d6d295158fd940]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/376) revoked (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/1) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
+[^c-748ddf5cdb938b4022d6d295158fd940]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/376) revoked (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/1) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))

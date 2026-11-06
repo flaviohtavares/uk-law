@@ -85,7 +85,7 @@ Section 411
 
 **Not yet in force.**
 
-**12.** (1)[^key-e36843010d01b91cc2b340519d59a147] In section 218A (life sentence for second listed offence)—
+**12.** (1)[^c-e36843010d01b91cc2b340519d59a147] In section 218A (life sentence for second listed offence)—
 
 - (a) omit subsection (1B);
 - (b) in subsection (2), omit “Where the offender is 21 or over when convicted of the offence under section 42,”;
@@ -93,7 +93,7 @@ Section 411
   - (i) for “sections 273(3)(a) and 283(3)(a)” substitute “ section 283(3)(a) ”;
   - (ii) for “subsections (1B) and (2)” substitute “ subsection (2) ”;
 - (d) in subsection (4), omit “or, in the case of an offender aged under 21 on conviction, a sentence of detention in a young offender institution for 10 years or more,”;
-- (da)[^key-4ff74a50f4a02a9fc57b31b00367bce1] in subsection (6), for “(12)” in each place substitute “(12A)”;
+- (da)[^c-4ff74a50f4a02a9fc57b31b00367bce1] in subsection (6), for “(12)” in each place substitute “(12A)”;
 - (db) after that subsection insert—
 
   > (6A) In sections 273 and 283 of that Code as applied for the purpose of this section, subsection (12A) has effect as if—
@@ -104,7 +104,7 @@ Section 411
 - (e) in subsection (6), omit “section 273(5)(b) of the Sentencing Code (see subsections (7) to (12) of that section) or”;
 - (f) in subsection (7), omit “273(3) or”.
 
-(2)[^key-7ec5fedb5a37f62b99e4113e63d042af] In sub-paragraph (1)—
+(2)[^c-7ec5fedb5a37f62b99e4113e63d042af] In sub-paragraph (1)—
 
 - (a) in paragraph (da), if it has not already come into force, omit “in each place”;
 - (b) in paragraph (e), for “(12)” substitute “(12A)”.
@@ -123,7 +123,7 @@ Section 411
 **14.** In section 219A (extended sentence for certain violent or sexual offenders aged 18 or over)—
 
 - (a) in subsection (1), in paragraph (d), omit sub-paragraphs (i) and (iii);
-- (aa)[^key-680e4c389b8ef5f57614ac32be187e36] in subsection (2), for “Schedule 14 to the Sentencing Code” substitute “Part 1, 2, or 3 of Schedule 14 to the Sentencing Code”;
+- (aa)[^c-680e4c389b8ef5f57614ac32be187e36] in subsection (2), for “Schedule 14 to the Sentencing Code” substitute “Part 1, 2, or 3 of Schedule 14 to the Sentencing Code”;
 - (bb) after that subsection insert—
 
   > (2A) But if the proceedings for the offence under section 42 were instituted before IP completion day (see section 377(8)), Condition A is that, when the offence was committed, the offender had been convicted of an offence listed in Part 1, 2, 3, or 3A of Schedule 14 to the Sentencing Code.
@@ -144,7 +144,7 @@ Section 411
 
 **Not yet in force.**
 
-**15A.**[^key-54bee2925a963246cea30cc27dcd1554] In section 225 (third drug trafficking offence), after subsection (1) insert—
+**15A.**[^c-54bee2925a963246cea30cc27dcd1554] In section 225 (third drug trafficking offence), after subsection (1) insert—
 
 > (1A) For this purpose, section 313 of that Code has effect as if the reference in subsection (3A) to section 397(5) of that Code were to section 377(8) of this Act.
 
@@ -244,7 +244,7 @@ Section 411
 
 **Not yet in force.**
 
-**26.**[^key-5e05ecba043b4f5a9db27114eb46f155] In section 377, at the end insert—
+**26.**[^c-5e05ecba043b4f5a9db27114eb46f155] In section 377, at the end insert—
 
 > (8) A reference to the institution of proceedings in, or in a provision applied by, section 218A, 219A, 225 or 226 is to a charge being brought under Chapter 2 of Part 5.
 
@@ -252,14 +252,14 @@ Section 411
 
 ## Annotations
 
-[^key-e36843010d01b91cc2b340519d59a147]: Textual amendment: Sch. 26 para. 12 renumbered as Sch. 26 para. 12(1) (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/2/a)
+[^c-e36843010d01b91cc2b340519d59a147]: Textual amendment: Sch. 26 para. 12 renumbered as Sch. 26 para. 12(1) (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/2/a)
 
-[^key-4ff74a50f4a02a9fc57b31b00367bce1]: Textual amendment: Sch. 26 para. 12(1)(da)-(dc) inserted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/2/b)
+[^c-4ff74a50f4a02a9fc57b31b00367bce1]: Textual amendment: Sch. 26 para. 12(1)(da)-(dc) inserted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/2/b)
 
-[^key-7ec5fedb5a37f62b99e4113e63d042af]: Textual amendment: Sch. 26 para. 12(2) inserted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/2/c)
+[^c-7ec5fedb5a37f62b99e4113e63d042af]: Textual amendment: Sch. 26 para. 12(2) inserted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/2/c)
 
-[^key-680e4c389b8ef5f57614ac32be187e36]: Textual amendment: Sch. 26 para. 14(aa)(bb) inserted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/3)
+[^c-680e4c389b8ef5f57614ac32be187e36]: Textual amendment: Sch. 26 para. 14(aa)(bb) inserted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/3)
 
-[^key-54bee2925a963246cea30cc27dcd1554]: Textual amendment: Sch. 26 paras. 15A, 15B inserted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/4)
+[^c-54bee2925a963246cea30cc27dcd1554]: Textual amendment: Sch. 26 paras. 15A, 15B inserted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/4)
 
-[^key-5e05ecba043b4f5a9db27114eb46f155]: Textual amendment: Sch. 26 para. 26 inserted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/5)
+[^c-5e05ecba043b4f5a9db27114eb46f155]: Textual amendment: Sch. 26 para. 26 inserted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/5)

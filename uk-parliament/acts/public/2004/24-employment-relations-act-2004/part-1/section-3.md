@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Duty of employer to supply information to union[^key-a142f5421b55046b41deb03b7d017995]
+## 3. Duty of employer to supply information to union[^c-a142f5421b55046b41deb03b7d017995]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ After paragraph 18 of Schedule A1 to the 1992 Act insert—
 
 ## Annotations
 
-[^key-a142f5421b55046b41deb03b7d017995]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2004/24/section/3) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-a142f5421b55046b41deb03b7d017995]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2004/24/section/3) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))

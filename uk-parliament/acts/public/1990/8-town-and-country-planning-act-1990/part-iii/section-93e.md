@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93E. Outline planning permission: automatic extension of certain time limits for beginning development[^key-a163c29df3bf808faac4c8de3c0d3d3c]
+## 93E. Outline planning permission: automatic extension of certain time limits for beginning development[^c-a163c29df3bf808faac4c8de3c0d3d3c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a163c29df3bf808faac4c8de3c0d3d3c]: Textual amendment: Ss. 93D-93F inserted (temp. until 2.5.2021) (19.8.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/18/2), [25(3)(b)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/3/b) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2020/16/section/18/6))
+[^c-a163c29df3bf808faac4c8de3c0d3d3c]: Textual amendment: Ss. 93D-93F inserted (temp. until 2.5.2021) (19.8.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/18/2), [25(3)(b)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/3/b) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2020/16/section/18/6))

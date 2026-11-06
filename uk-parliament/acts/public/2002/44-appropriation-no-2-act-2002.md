@@ -31,21 +31,21 @@ Appropriation (No. 2) Act 2002 (repealed)
 
 2002 c. 44
 
-[^key-2b19100219c9516a0172a6d6bdfa8b20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b19100219c9516a0172a6d6bdfa8b20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Non-operating appropriations in aid for 2001-02[^key-2b19100219c9516a0172a6d6bdfa8b20][^key-2b19100219c9516a0172a6d6bdfa8b20]
+## 1. Non-operating appropriations in aid for 2001-02[^c-2b19100219c9516a0172a6d6bdfa8b20][^c-2b19100219c9516a0172a6d6bdfa8b20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title[^key-2b19100219c9516a0172a6d6bdfa8b20][^key-2b19100219c9516a0172a6d6bdfa8b20]
+## 2. Short title[^c-2b19100219c9516a0172a6d6bdfa8b20][^c-2b19100219c9516a0172a6d6bdfa8b20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-2b19100219c9516a0172a6d6bdfa8b20]
+## SCHEDULE[^c-2b19100219c9516a0172a6d6bdfa8b20]
 
 Section 1
 
@@ -53,4 +53,4 @@ Section 1
 
 ## Annotations
 
-[^key-2b19100219c9516a0172a6d6bdfa8b20]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2002/44) repealed (8.7.2004) by [Appropriation Act 2004 (c. 9)](https://www.legislation.gov.uk/ukpga/2004/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/9/schedule/3)
+[^c-2b19100219c9516a0172a6d6bdfa8b20]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2002/44) repealed (8.7.2004) by [Appropriation Act 2004 (c. 9)](https://www.legislation.gov.uk/ukpga/2004/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/9/schedule/3)

@@ -188,7 +188,7 @@ After regulation 12D (eligible rent and maximum rent (LHA)) insert—
 > - (a) the maximum rent (LHA) where it is higher than the eligible rent applying immediately before 7th April 2008; or
 > - (b) in any other case, the lower of—
 >   - (i) the amount of the eligible rent applying immediately before 7th April 2008; or
->   - (ii) the amount of the cap rent by reference to which the maximum rent (LHA) was determined[^key-9b9b54301a9def1ce4423541f9a3f52b]....
+>   - (ii) the amount of the cap rent by reference to which the maximum rent (LHA) was determined[^c-9b9b54301a9def1ce4423541f9a3f52b]....
 >
 > (3) Where the claimant's eligible rent is determined in accordance with paragraph (2)(b), it continues to apply until, on or after 7th April 2009, the first of the following events occurs—
 >
@@ -279,4 +279,4 @@ In regulation 13D(12) (determination of a maximum rent (LHA)) in the definition 
 
 [^M_F_a893abf6-3f67-4415-844d-1f3c7ae85b66]: Textual amendment: Sch. 9 substituted (with application in accordance with reg. 1(3)(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/4), [20(1)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/20/1) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/4))
 
-[^key-9b9b54301a9def1ce4423541f9a3f52b]: Textual amendment: Words in [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2006/214/schedule/9/paragraph/6) omitted (1.4.2011) by virtue of [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [3(11)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/3/11)
+[^c-9b9b54301a9def1ce4423541f9a3f52b]: Textual amendment: Words in [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2006/214/schedule/9/paragraph/6) omitted (1.4.2011) by virtue of [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [3(11)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/3/11)

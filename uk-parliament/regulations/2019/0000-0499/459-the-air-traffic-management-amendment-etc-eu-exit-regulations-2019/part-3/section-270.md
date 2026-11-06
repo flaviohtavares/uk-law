@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270. Article 12 of Commission Implementing Regulation (EU) No 1206/2011[^key-d43dab06d701eba7c226ae2f50759540]
+## 270. Article 12 of Commission Implementing Regulation (EU) No 1206/2011[^c-d43dab06d701eba7c226ae2f50759540]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 12 (entry into force and application).
 
 ## Annotations
 
-[^key-d43dab06d701eba7c226ae2f50759540]: Commencement: Reg. 270 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d43dab06d701eba7c226ae2f50759540]: Commencement: Reg. 270 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

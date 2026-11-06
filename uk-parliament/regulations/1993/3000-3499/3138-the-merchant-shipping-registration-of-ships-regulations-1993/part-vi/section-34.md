@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Verification of measurement and carving and marking[^key-6fc89d0ee3ce602526a68aeff2b27827]
+## 34. Verification of measurement and carving and marking[^c-6fc89d0ee3ce602526a68aeff2b27827]
 
 *Extent: E+W+S+N.I.*
 
 (1) If the Registrar is not satisfied:—
 
-- (a) that the particulars of the measurement and tonnage of the ship or such other particulars describing the identity of the ship, as have been required by the Secretary of State[^key-7b5149dd3d4a4aa80eeaf4756da538d5] furnished to him are correct, or
+- (a) that the particulars of the measurement and tonnage of the ship or such other particulars describing the identity of the ship, as have been required by the Secretary of State[^c-7b5149dd3d4a4aa80eeaf4756da538d5] furnished to him are correct, or
 - (b) that the ship is carved and marked in the manner required by Schedule 3,
 
-he may direct the owner to have the measurement or other details[^key-dda9f1807ddb51b51b7475cda831c0b5], and/or carving or marking of the vessel verified by an authorised measurer or inspector of marks as appropriate.
+he may direct the owner to have the measurement or other details[^c-dda9f1807ddb51b51b7475cda831c0b5], and/or carving or marking of the vessel verified by an authorised measurer or inspector of marks as appropriate.
 
 (2) If the owner fails to comply with the direction of the Registrar, the Registrar may:—
 
@@ -43,8 +43,8 @@ he may direct the owner to have the measurement or other details[^key-dda9f1807d
 
 ## Annotations
 
-[^key-6fc89d0ee3ce602526a68aeff2b27827]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1993/3138/regulation/34) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-6fc89d0ee3ce602526a68aeff2b27827]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1993/3138/regulation/34) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-7b5149dd3d4a4aa80eeaf4756da538d5]: Textual amendment: Words in [reg. 34(1)(a)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/34/1/a) inserted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/1998/2976/regulation/9/a)
+[^c-7b5149dd3d4a4aa80eeaf4756da538d5]: Textual amendment: Words in [reg. 34(1)(a)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/34/1/a) inserted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/1998/2976/regulation/9/a)
 
-[^key-dda9f1807ddb51b51b7475cda831c0b5]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/34/1) inserted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/1998/2976/regulation/9/b)
+[^c-dda9f1807ddb51b51b7475cda831c0b5]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/34/1) inserted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/1998/2976/regulation/9/b)

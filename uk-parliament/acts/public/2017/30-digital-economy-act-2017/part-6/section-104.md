@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Internet filters[^key-05724c69a0bd7388860cafa466ad0ec6]
+## 104. Internet filters[^c-05724c69a0bd7388860cafa466ad0ec6]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05724c69a0bd7388860cafa466ad0ec6]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2017/30/section/104) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/dd)
+[^c-05724c69a0bd7388860cafa466ad0ec6]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2017/30/section/104) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/dd)

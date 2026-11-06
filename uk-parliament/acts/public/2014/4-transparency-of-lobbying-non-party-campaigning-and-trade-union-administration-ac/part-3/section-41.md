@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Duty to appoint an assurer etc[^c2201955][^key-5db15028381a6144ed732b61e2a3087d]
+## 41. Duty to appoint an assurer etc[^c2201955][^c-5db15028381a6144ed732b61e2a3087d]
 
 *Extent: E+W+S+N.I.*
 
@@ -140,4 +140,4 @@ summary: ''
 
 [^c2201955]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/4/section/41) partly in force; [s. 41](https://www.legislation.gov.uk/ukpga/2014/4/section/41) in force for certain purposes at Royal Assent, see [s. 45(3)(c)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/c)
 
-[^key-5db15028381a6144ed732b61e2a3087d]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/4/section/41) in force at 6.4.2015 in so far as not already in force and with application in accordance with art. 3 by [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2015/717/article/3/1/b) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/717/article/3/2))
+[^c-5db15028381a6144ed732b61e2a3087d]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/4/section/41) in force at 6.4.2015 in so far as not already in force and with application in accordance with art. 3 by [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2015/717/article/3/1/b) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/717/article/3/2))

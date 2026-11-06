@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Loans for living costs payable in respect of three quarters of the academic year[^key-26e64a677732a4a1e1ca2810928b7d79]
+## 47. Loans for living costs payable in respect of three quarters of the academic year[^c-26e64a677732a4a1e1ca2810928b7d79]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26e64a677732a4a1e1ca2810928b7d79]: Commencement: Reg. 47 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-26e64a677732a4a1e1ca2810928b7d79]: Commencement: Reg. 47 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

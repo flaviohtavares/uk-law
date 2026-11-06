@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Availability of fee loans to current system students - general[^key-3bb0fdd40b67e56f30bf16f143498a9b]
+## 18. Availability of fee loans to current system students - general[^c-3bb0fdd40b67e56f30bf16f143498a9b]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bb0fdd40b67e56f30bf16f143498a9b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2007/195/regulation/18) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-3bb0fdd40b67e56f30bf16f143498a9b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2007/195/regulation/18) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. “The Minister”[^key-ccfd819e186e787d98ca797a0e33134b]
+## 26. “The Minister”[^c-ccfd819e186e787d98ca797a0e33134b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccfd819e186e787d98ca797a0e33134b]: Textual amendment: Ss. 26, 26A omitted (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 25(9)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/25/9); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-ccfd819e186e787d98ca797a0e33134b]: Textual amendment: Ss. 26, 26A omitted (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 25(9)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/25/9); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)

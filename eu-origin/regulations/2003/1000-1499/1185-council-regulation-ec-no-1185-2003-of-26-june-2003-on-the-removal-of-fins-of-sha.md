@@ -84,7 +84,7 @@ In accordance with the principle of proportionality, it is necessary and appropr
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. Scope[^key-d3969a210219a44745f83af927220fd9]
+## Article 1. Scope[^c-d3969a210219a44745f83af927220fd9]
 
 This Regulation applies to the removal of shark fins, retention on board, transhipment and landing of shark fins:
 
@@ -120,7 +120,7 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Reports[^key-e2e00754c4ea4b35d318e00bee6796df]
+## Article 6. Reports[^c-e2e00754c4ea4b35d318e00bee6796df]
 
 1. Where United Kingdom fishing vessels catch, retain on-board, tranship or land sharks, a fisheries administration must publish, annually, by 1 May, a comprehensive report on its implementation of this Regulation during the previous year. The report must describe the monitoring by the fisheries administration of compliance with this Regulation by vessels in its fleet, and the enforcement measures it has taken in cases of non-compliance. In particular, the fisheries administration must provide all of the following information—
 
@@ -129,7 +129,7 @@ For the purposes of this Regulation, the following definitions shall apply:
 - (c) the number and nature of cases of non-compliance detected, including a full identification of the vessel(s) involved and the penalty applied for each case of non-compliance; and
 - (d) the total landings by species (weight/number) and by port.
 
-## Article 7. Entry into force[^key-1789145cd281e65b4a69d23daf43fee3]
+## Article 7. Entry into force[^c-1789145cd281e65b4a69d23daf43fee3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -147,12 +147,12 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^f00005]: Footnote: [OJ L 261, 20.10.1993, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.261.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 806/2003 ([OJ L 122, 16.5.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.122.01.0001.01.ENG)).
 
-[^key-d3969a210219a44745f83af927220fd9]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2003/1185/article/1) substituted (29.8.2023) by [Shark Fins Act 2023 (c. 22)](https://www.legislation.gov.uk/ukpga/2023/22), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/22/section/2), [3(3)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/3)
+[^c-d3969a210219a44745f83af927220fd9]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2003/1185/article/1) substituted (29.8.2023) by [Shark Fins Act 2023 (c. 22)](https://www.legislation.gov.uk/ukpga/2023/22), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/22/section/2), [3(3)](https://www.legislation.gov.uk/ukpga/2023/22/section/3/3)
 
 [^c000001]: Textual amendment: Deleted by [Regulation (EU) No 605/2013 of the European Parliament and of the Council of 12 June 2013 amending Council Regulation (EC) No 1185/2003 on the removal of fins of sharks on board vessels](https://www.legislation.gov.uk/eur/2013/605).
 
 [^c000002]: Textual amendment: Inserted by [Regulation (EU) No 605/2013 of the European Parliament and of the Council of 12 June 2013 amending Council Regulation (EC) No 1185/2003 on the removal of fins of sharks on board vessels](https://www.legislation.gov.uk/eur/2013/605).
 
-[^key-e2e00754c4ea4b35d318e00bee6796df]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2003/1185/article/6) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2019/753/regulation/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2e00754c4ea4b35d318e00bee6796df]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2003/1185/article/6) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2019/753/regulation/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1789145cd281e65b4a69d23daf43fee3]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2003/1185/article/7) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/2019/753/regulation/14/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1789145cd281e65b4a69d23daf43fee3]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2003/1185/article/7) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/2019/753/regulation/14/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

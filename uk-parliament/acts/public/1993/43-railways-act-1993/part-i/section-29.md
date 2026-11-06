@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A franchise agreement may require—[^key-7f9527771866a0ea0a68c4a51c4df082]
+(1) A franchise agreement may require—[^c-7f9527771866a0ea0a68c4a51c4df082]
 
 - (a) the rendering to the Franchising Director by the franchisee or the franchise operator of payments of such amounts and at such intervals as may be specified in, or determined by or under, the franchise agreement; [^c14100961]. . .
 - (b)[^c14100961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -49,7 +49,7 @@ summary: ''
 
 [^c14100941]: Commencement: S. 29 wholly in force at 1.4.1994; s. 29 not in force at Royal Assent see s. 154(2); s. 29(8) in force at 6.1.1994 by [S.I. 1993/3237](https://www.legislation.gov.uk/uksi/1993/3237), [art. 2(2)](https://www.legislation.gov.uk/uksi/1993/3237/article/2/2); s. 29 in force at 1.4.1994 insofar as not already in force by [S.I. 1994/571](https://www.legislation.gov.uk/uksi/1994/571), [art. 5](https://www.legislation.gov.uk/uksi/1994/571/article/5)
 
-[^key-7f9527771866a0ea0a68c4a51c4df082]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/ukpga/1993/43/section/29/1) substituted (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2024/25/schedule/paragraph/5)
+[^c-7f9527771866a0ea0a68c4a51c4df082]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/ukpga/1993/43/section/29/1) substituted (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2024/25/schedule/paragraph/5)
 
 [^c14100961]: Textual amendment: S. 29(1)(b) and word “or" immediately preceding it repealed (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 274](https://www.legislation.gov.uk/ukpga/2000/38/section/274), [Sch. 31 Pt. IV](https://www.legislation.gov.uk/ukpga/2000/38/schedule/31/part/IV); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 

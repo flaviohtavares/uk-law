@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Indirect participation: involvement in financing arrangements[^key-e8e5c535ce8ed156bfc9fb8c3817ce3a][^key-7dbf0ec84d45659bd0abbb7059277047]
+## 161. Indirect participation: involvement in financing arrangements[^c-e8e5c535ce8ed156bfc9fb8c3817ce3a][^c-7dbf0ec84d45659bd0abbb7059277047]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ in relation to provision comprising financing arrangements for A to which P and 
 
 ## Annotations
 
-[^key-e8e5c535ce8ed156bfc9fb8c3817ce3a]: Modification: Ss. 158-163 applied (with modifications) (with effect in accordance with s. 116(1) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 106(7)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/106/7/b)
+[^c-e8e5c535ce8ed156bfc9fb8c3817ce3a]: Modification: Ss. 158-163 applied (with modifications) (with effect in accordance with s. 116(1) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 106(7)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/106/7/b)
 
-[^key-7dbf0ec84d45659bd0abbb7059277047]: Textual amendment: [S. 161](https://www.legislation.gov.uk/ukpga/2010/8/section/161) substituted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 13(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/13/1), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)
+[^c-7dbf0ec84d45659bd0abbb7059277047]: Textual amendment: [S. 161](https://www.legislation.gov.uk/ukpga/2010/8/section/161) substituted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 13(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/13/1), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)

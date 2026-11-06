@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Inducement of members not accorded entitlement to vote[^key-5c3e9ea98d416d164e20cc041386538e]
+## 24. Inducement of members not accorded entitlement to vote[^c-5c3e9ea98d416d164e20cc041386538e]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c3e9ea98d416d164e20cc041386538e]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2004/24/section/24) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
+[^c-5c3e9ea98d416d164e20cc041386538e]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2004/24/section/24) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
 
 [^M_F_f7d13cfa-1477-4e2c-e4fb-b0c0bf6c7898]: Textual amendment: S. 24(2) omitted (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 21(c)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/21/c); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(iii)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/iii)

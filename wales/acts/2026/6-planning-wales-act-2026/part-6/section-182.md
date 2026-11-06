@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 182. Exemptions and reductions: procedure[^key-69e17b22ed3c833daa91b90cbc522d14]
+## 182. Exemptions and reductions: procedure[^c-69e17b22ed3c833daa91b90cbc522d14]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69e17b22ed3c833daa91b90cbc522d14]: Commencement: S. 182 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-69e17b22ed3c833daa91b90cbc522d14]: Commencement: S. 182 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

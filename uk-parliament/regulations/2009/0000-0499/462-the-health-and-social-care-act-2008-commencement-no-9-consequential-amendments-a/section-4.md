@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Appointed day for provisions relating to the abolition of maintenance liability of relatives[^key-0f7849805fc051fbaf6339d8eec42449]
+## 4. Appointed day for provisions relating to the abolition of maintenance liability of relatives[^c-0f7849805fc051fbaf6339d8eec42449]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f7849805fc051fbaf6339d8eec42449]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/462/article/4) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-0f7849805fc051fbaf6339d8eec42449]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/462/article/4) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)

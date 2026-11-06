@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Employment outside Great Britain[^key-eba28fd1104d7b6e33321f1f3fc08e13]
+## 87. Employment outside Great Britain[^c-eba28fd1104d7b6e33321f1f3fc08e13]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ In section 285 of the Trade Union and Labour Relations (Consolidation) Act 1992 
 
 ## Annotations
 
-[^key-eba28fd1104d7b6e33321f1f3fc08e13]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2025/36/section/87) in force at 18.2.2026, see [s. 159(2)(r)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/r)
+[^c-eba28fd1104d7b6e33321f1f3fc08e13]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2025/36/section/87) in force at 18.2.2026, see [s. 159(2)(r)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/r)

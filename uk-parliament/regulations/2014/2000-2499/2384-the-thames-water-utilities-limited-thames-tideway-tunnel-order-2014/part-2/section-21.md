@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Remedial works to buildings, or apparatus or equipment[^key-f4af0849a6beb18adcaaebcd8df13858]
+## 21. Remedial works to buildings, or apparatus or equipment[^c-f4af0849a6beb18adcaaebcd8df13858]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ the undertaker shall compensate the owners and occupiers of the land or building
 
 ## Annotations
 
-[^key-f4af0849a6beb18adcaaebcd8df13858]: Commencement: Art. 21 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-f4af0849a6beb18adcaaebcd8df13858]: Commencement: Art. 21 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

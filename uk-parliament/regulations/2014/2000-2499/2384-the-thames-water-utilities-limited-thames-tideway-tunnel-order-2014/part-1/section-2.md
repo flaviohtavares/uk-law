@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-112d3c348a14542c6edbf6dd99159fbb]
+## 2. Interpretation[^c-112d3c348a14542c6edbf6dd99159fbb]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 - “**authorised development**” means the development and associated development described in Part 1 of Schedule 1 (*authorised project*) and any other development authorised by articles 21 (*remedial works to buildings, or apparatus or equipment*) and 42 (*statutory undertakers*) of this Order, which is development within the meaning of section 32 of the 2008 Act;
 - “**the authorised project**” means the authorised development and the ancillary works;
 - “**Authority**” means the Port of London Authority;
-- “[^key-6bebbb7ec596099d1333b49a5f76f211]**the book of reference**” means—
+- “[^c-6bebbb7ec596099d1333b49a5f76f211]**the book of reference**” means—
   - (a) the book of reference certified by the Secretary of State as the book of reference for the purposes of this Order, and
   - (b) the addendum to that book dated January 2020 certified by the Secretary of State for the purposes of this Order;
 - “**building**” includes any building, structure or erection or any part of a building, structure or erection;
@@ -50,7 +50,7 @@ summary: ''
 - “**compulsory acquisition notice**” means a notice served in accordance with section 134 of the 2008 Act;
 - “**CSO**” means a combined sewer overflow;
 - “**discharging authority**” means the body responsible for giving any consent, agreement or approval required by a requirement included in this Order or protective provision set out in Schedule 16 to this Order, or further to any document referred to in any requirement, or any licence condition in the deemed marine licence set out in Schedule 15 (*deemed marine licence*), or the local authority in the exercise of functions set out in sections 60 or 61 of the Control of Pollution Act 1974[^f00012];
-- “**environmental statement**” means the environmental statement for the authorised project (January 2013) with document reference 6.1 and[^key-be59afbd212753d01f0dc83df91be602] 6.2 together with the Errata to that environmental statement[^key-4b042596b06e6493ac3cc56bf17b8ea0] with document references 9.04.01, 9.04.04, 9.04.05 and APP123, and the environmental statement update report (March 2014) with document reference APP208.01, submitted by Thames Water Utilities Limited to support its application for development consent;
+- “**environmental statement**” means the environmental statement for the authorised project (January 2013) with document reference 6.1 and[^c-be59afbd212753d01f0dc83df91be602] 6.2 together with the Errata to that environmental statement[^c-4b042596b06e6493ac3cc56bf17b8ea0] with document references 9.04.01, 9.04.04, 9.04.05 and APP123, and the environmental statement update report (March 2014) with document reference APP208.01, submitted by Thames Water Utilities Limited to support its application for development consent;
 - “**highway**” and “**highway authority**” have the same meaning as in the 1980 Act;
 - “**infrastructure provider**” means any body designated by the Secretary of State for the Environment, Food and Rural Affairs or by the Water Services Regulation Authority (as the case may be) in respect of the authorised project or part(s) of the authorised project under or by virtue of Section 36D of the Water Industry Act 1991 (as inserted by Section 35 of the Flood and Water Management Act 2010) or any successor under a special administration order or otherwise;
 - “**the land plans**” means the plans certified as the land plans by the Secretary of State for the purposes of this Order and listed in part 2 of Schedule 2 (*plans*);
@@ -98,7 +98,7 @@ summary: ''
 
 ## Annotations
 
-[^key-112d3c348a14542c6edbf6dd99159fbb]: Commencement: Art. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-112d3c348a14542c6edbf6dd99159fbb]: Commencement: Art. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
 [^f00003]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). Section 2(2) was amended by section 193 of, and paragraph 5 of Schedule 33 to, the Local Government, Planning and Land Act [1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65). There are other amendments to the 1961 Act which are not relevant to this Order.
 
@@ -116,15 +116,15 @@ summary: ''
 
 [^f00010]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29). Paragraph (o) of subsection (1) of section 14 was amended by articles 2(1) and (2) of the [Infrastructure Planning (Waste Water Transfer and Storage Order) 2012/1645](https://www.legislation.gov.uk/uksi/2012/1645). Section 29 was amended by articles 2(3) and 3 of the [Infrastructure Planning (Waste Water Transfer and Storage) Order 2012/1645](https://www.legislation.gov.uk/uksi/2012/1645). Section 37 was amended by paragraphs 5(2) and (3) of Part 1 of Schedule 13 to the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20) Section 127 was amended by section 128(2) of, and paragraphs 64 (1) and (2) of Part 1 of Schedule 13 to, the Localism Act 2011 and section 23(2) of the Growth and Infrastructure Act [2013 (c.27)](https://www.legislation.gov.uk/ukpga/2013/27). Section 138 was amended subsections (1) and (4) of section 23 of the Growth and Infrastructure Act 2013. There are other amendments which are not relevant to this Order.
 
-[^key-6bebbb7ec596099d1333b49a5f76f211]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2384/article/2/1) substituted (11.3.2020) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2020 (S.I. 2020/268)](https://www.legislation.gov.uk/uksi/2020/268), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/268/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/268/article/2/2)
+[^c-6bebbb7ec596099d1333b49a5f76f211]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2384/article/2/1) substituted (11.3.2020) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2020 (S.I. 2020/268)](https://www.legislation.gov.uk/uksi/2020/268), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/268/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/268/article/2/2)
 
 [^f00011]: Footnote: [1967 (xlii)](https://www.legislation.gov.uk/ukla/1967/42). Section 11A was inserted by section 12(b) of the City of London (Various Powers) Act 1990. There are other amendments which are relevant to this Order
 
 [^f00012]: Footnote: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40). sections 61 and 65 are amended by section 133 of and schedule 17 to the Building Act [1984 (c.55)](https://www.legislation.gov.uk/ukpga/1984/55), section 120 of and schedule 24 to the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) and section 162 of and schedule 15 to the Environmental Protection Act [1990 (c.43)](https://www.legislation.gov.uk/ukpga/1990/43). There are other amendments not relevant to this Order.
 
-[^key-be59afbd212753d01f0dc83df91be602]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2384/article/2/1) inserted (17.3.2015) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Correction) Order 2015 (S.I. 2015/723)](https://www.legislation.gov.uk/uksi/2015/723), [art. 1](https://www.legislation.gov.uk/uksi/2015/723/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/723/schedule) Table 2
+[^c-be59afbd212753d01f0dc83df91be602]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2384/article/2/1) inserted (17.3.2015) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Correction) Order 2015 (S.I. 2015/723)](https://www.legislation.gov.uk/uksi/2015/723), [art. 1](https://www.legislation.gov.uk/uksi/2015/723/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/723/schedule) Table 2
 
-[^key-4b042596b06e6493ac3cc56bf17b8ea0]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2384/article/2/1) substituted (17.3.2015) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Correction) Order 2015 (S.I. 2015/723)](https://www.legislation.gov.uk/uksi/2015/723), [art. 1](https://www.legislation.gov.uk/uksi/2015/723/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/723/schedule) Table 2
+[^c-4b042596b06e6493ac3cc56bf17b8ea0]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2384/article/2/1) substituted (17.3.2015) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Correction) Order 2015 (S.I. 2015/723)](https://www.legislation.gov.uk/uksi/2015/723), [art. 1](https://www.legislation.gov.uk/uksi/2015/723/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/723/schedule) Table 2
 
 [^f00013]: Footnote: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18). There are amendments to this act which are not relevant to this Order.
 

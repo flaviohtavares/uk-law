@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 259. Use of websites by administrator[^key-b34a7455ae628cf10ec928fbe5a0be60]
+## 259. Use of websites by administrator[^c-b34a7455ae628cf10ec928fbe5a0be60]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b34a7455ae628cf10ec928fbe5a0be60]: Commencement: Rule 259 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-b34a7455ae628cf10ec928fbe5a0be60]: Commencement: Rule 259 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

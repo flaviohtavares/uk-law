@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82A. Effect of statutory shared parental pay on a contributory allowance[^key-2ff6a12f961f2893296148c3282188b5]
+## 82A. Effect of statutory shared parental pay on a contributory allowance[^c-2ff6a12f961f2893296148c3282188b5]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ff6a12f961f2893296148c3282188b5]: Textual amendment: Reg. 82A inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [20(6)](https://www.legislation.gov.uk/uksi/2014/3255/article/20/6)
+[^c-2ff6a12f961f2893296148c3282188b5]: Textual amendment: Reg. 82A inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [20(6)](https://www.legislation.gov.uk/uksi/2014/3255/article/20/6)

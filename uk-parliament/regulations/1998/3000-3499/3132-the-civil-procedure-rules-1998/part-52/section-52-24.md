@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52.24. Who may exercise the powers of the Court of Appeal[^key-80838474f749f7ae040b777947f28e75]
+## 52.24. Who may exercise the powers of the Court of Appeal[^c-80838474f749f7ae040b777947f28e75]
 
 *Extent: E+W*
 
 (1) A court officer assigned to the Civil Appeals Office who is—
 
-- (a) a barrister; [^key-d2ac4c36ce96664dbf92eb7d40e4c973]...
-- (b) a solicitor ; or[^key-84bfb02630b014ad63654dd0985fcc77]
-- (c)[^key-bed773553364a6477b9fceb8ba0c9513] a Fellow of the Chartered Institute of Legal Executives or a CILEX lawyer[^key-f6dfa9c2ad8505f460992032e33a52d2],
+- (a) a barrister; [^c-d2ac4c36ce96664dbf92eb7d40e4c973]...
+- (b) a solicitor ; or[^c-84bfb02630b014ad63654dd0985fcc77]
+- (c)[^c-bed773553364a6477b9fceb8ba0c9513] a Fellow of the Chartered Institute of Legal Executives or a CILEX lawyer[^c-f6dfa9c2ad8505f460992032e33a52d2],
 
 may exercise the jurisdiction of the Court of Appeal with regard to the matters set out in paragraph (2) with the consent of the Master of the Rolls.
 
@@ -69,12 +69,12 @@ and which may be called into question by rules of court. Paragraphs (5) and (6) 
 
 ## Annotations
 
-[^key-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
+[^c-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
 
-[^key-d2ac4c36ce96664dbf92eb7d40e4c973]: Textual amendment: Word in rule 52.24(1)(a) omitted (6.4.2020) by virtue of [The Civil Procedure (Amendment) Rules 2020 (S.I. 2020/82)](https://www.legislation.gov.uk/uksi/2020/82), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/82/rule/5/2/a)
+[^c-d2ac4c36ce96664dbf92eb7d40e4c973]: Textual amendment: Word in rule 52.24(1)(a) omitted (6.4.2020) by virtue of [The Civil Procedure (Amendment) Rules 2020 (S.I. 2020/82)](https://www.legislation.gov.uk/uksi/2020/82), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/82/rule/5/2/a)
 
-[^key-84bfb02630b014ad63654dd0985fcc77]: Textual amendment: Word in rule 52.24(1)(b) inserted (6.4.2020) by [The Civil Procedure (Amendment) Rules 2020 (S.I. 2020/82)](https://www.legislation.gov.uk/uksi/2020/82), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/82/rule/5/2/b)
+[^c-84bfb02630b014ad63654dd0985fcc77]: Textual amendment: Word in rule 52.24(1)(b) inserted (6.4.2020) by [The Civil Procedure (Amendment) Rules 2020 (S.I. 2020/82)](https://www.legislation.gov.uk/uksi/2020/82), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/82/rule/5/2/b)
 
-[^key-bed773553364a6477b9fceb8ba0c9513]: Textual amendment: Rule 52.24(1)(c) inserted (6.4.2020) by [The Civil Procedure (Amendment) Rules 2020 (S.I. 2020/82)](https://www.legislation.gov.uk/uksi/2020/82), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2020/82/rule/5/2/c)
+[^c-bed773553364a6477b9fceb8ba0c9513]: Textual amendment: Rule 52.24(1)(c) inserted (6.4.2020) by [The Civil Procedure (Amendment) Rules 2020 (S.I. 2020/82)](https://www.legislation.gov.uk/uksi/2020/82), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2020/82/rule/5/2/c)
 
-[^key-f6dfa9c2ad8505f460992032e33a52d2]: Textual amendment: Words in rule 52.24(1)(c) inserted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [26](https://www.legislation.gov.uk/uksi/2023/105/rule/26)
+[^c-f6dfa9c2ad8505f460992032e33a52d2]: Textual amendment: Words in rule 52.24(1)(c) inserted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [26](https://www.legislation.gov.uk/uksi/2023/105/rule/26)

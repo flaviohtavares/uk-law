@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Restrictions relating to things moved from Great Britain[^key-94856158602eb6701b3ea9d081416df7]
+## 62. Restrictions relating to things moved from Great Britain[^c-94856158602eb6701b3ea9d081416df7]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94856158602eb6701b3ea9d081416df7]: Commencement: Reg. 62 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-94856158602eb6701b3ea9d081416df7]: Commencement: Reg. 62 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

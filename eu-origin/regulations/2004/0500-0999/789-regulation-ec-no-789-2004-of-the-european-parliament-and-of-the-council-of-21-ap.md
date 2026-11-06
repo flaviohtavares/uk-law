@@ -37,58 +37,58 @@ on the transfer of cargo and passenger ships between registers within the Commun
 
 (Text with EEA relevance) (revoked)
 
-[^key-1b608c030869065dd12cc2d9183e5915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b608c030869065dd12cc2d9183e5915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Purpose[^key-1b608c030869065dd12cc2d9183e5915]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-1b608c030869065dd12cc2d9183e5915]
+## Article 1. Purpose[^c-1b608c030869065dd12cc2d9183e5915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Scope[^key-1b608c030869065dd12cc2d9183e5915]
+## Article 2. Definitions[^c-1b608c030869065dd12cc2d9183e5915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transfer of register[^key-1b608c030869065dd12cc2d9183e5915]
+## Article 3. Scope[^c-1b608c030869065dd12cc2d9183e5915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Certificates[^key-1b608c030869065dd12cc2d9183e5915]
+## Article 4. Transfer of register[^c-1b608c030869065dd12cc2d9183e5915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Refusal of transfer and interpretation[^key-1b608c030869065dd12cc2d9183e5915]
+## Article 5. Certificates[^c-1b608c030869065dd12cc2d9183e5915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Committee procedure[^key-1b608c030869065dd12cc2d9183e5915]
+## Article 6. Refusal of transfer and interpretation[^c-1b608c030869065dd12cc2d9183e5915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Reporting[^key-1b608c030869065dd12cc2d9183e5915]
+## Article 7. Committee procedure[^c-1b608c030869065dd12cc2d9183e5915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Amendments[^key-1b608c030869065dd12cc2d9183e5915]
+## Article 8. Reporting[^c-1b608c030869065dd12cc2d9183e5915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9a. Exercise of the delegation[^key-1b608c030869065dd12cc2d9183e5915]
+## Article 9. Amendments[^c-1b608c030869065dd12cc2d9183e5915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Repeal[^key-1b608c030869065dd12cc2d9183e5915]
+## Article 9a. Exercise of the delegation[^c-1b608c030869065dd12cc2d9183e5915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force[^key-1b608c030869065dd12cc2d9183e5915]
+## Article 10. Repeal[^c-1b608c030869065dd12cc2d9183e5915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b608c030869065dd12cc2d9183e5915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 11. Entry into force[^c-1b608c030869065dd12cc2d9183e5915]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1b608c030869065dd12cc2d9183e5915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b608c030869065dd12cc2d9183e5915]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/488/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b608c030869065dd12cc2d9183e5915]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/488/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

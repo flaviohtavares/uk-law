@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Seizure and retention in relation to offences[^key-9f25be3e700f2735920dd42512e8dd91]
+## 48. Seizure and retention in relation to offences[^c-9f25be3e700f2735920dd42512e8dd91]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f25be3e700f2735920dd42512e8dd91]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2016/19/section/48) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)
+[^c-9f25be3e700f2735920dd42512e8dd91]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2016/19/section/48) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)

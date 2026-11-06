@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Duty to use installations etc. for purposes of NDA[^key-74b5b01c8df7b641e77a9e3a5041a663]
+## 17. Duty to use installations etc. for purposes of NDA[^c-74b5b01c8df7b641e77a9e3a5041a663]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ and references to sums received in respect of such a disposal include references
 
 ## Annotations
 
-[^key-74b5b01c8df7b641e77a9e3a5041a663]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2004/20/section/17) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-74b5b01c8df7b641e77a9e3a5041a663]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2004/20/section/17) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

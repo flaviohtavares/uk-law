@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 173. Annual benefit information statements[^key-14fa71d0a684e9efaeff01321e9534d5]
+## 173. Annual benefit information statements[^c-14fa71d0a684e9efaeff01321e9534d5]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14fa71d0a684e9efaeff01321e9534d5]: Commencement: [Reg. 173](https://www.legislation.gov.uk/ssi/2015/19/regulation/173) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-14fa71d0a684e9efaeff01321e9534d5]: Commencement: [Reg. 173](https://www.legislation.gov.uk/ssi/2015/19/regulation/173) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Powers of entry, inspection and audit[^key-3cbabca197cecaad6b1d20de6f77a1a6][^key-d571c37660af8654e7d5d43fc0a27650]
+## 107. Powers of entry, inspection and audit[^c-3cbabca197cecaad6b1d20de6f77a1a6][^c-d571c37660af8654e7d5d43fc0a27650]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ Schedule 12 makes provision about—
 
 ## Annotations
 
-[^key-3cbabca197cecaad6b1d20de6f77a1a6]: Commencement: S. 107 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-3cbabca197cecaad6b1d20de6f77a1a6]: Commencement: S. 107 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-d571c37660af8654e7d5d43fc0a27650]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2023/50/section/107) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z10)
+[^c-d571c37660af8654e7d5d43fc0a27650]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2023/50/section/107) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z10)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section and the next apply to a scheme made under section 38[^key-925e1b7a66f657e721b421e452304b79]... or 79(3) for transferring eligible employees.
+(1) This section and the next apply to a scheme made under section 38[^c-925e1b7a66f657e721b421e452304b79]... or 79(3) for transferring eligible employees.
 
 (2) Subject to those provisions, such a scheme may apply to all, or any description of, employees or to any individual employee.
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c12427771]: Commencement: S. 114 wholly in force at 1.7.2001; s. 114 not in force at Royal Assent see s. 122; s. 114 in force for E. at 16.3.2001 by [S.I. 2001/1210](https://www.legislation.gov.uk/uksi/2001/1210), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2001/1210/article/1/3), [2(d)](https://www.legislation.gov.uk/uksi/2001/1210/article/2/d); s. 114 in force for W. at 1.4.2001 for certain purposes by [S.I. 2000/2992](https://www.legislation.gov.uk/uksi/2000/2992), [art. 2(2)](https://www.legislation.gov.uk/uksi/2000/2992/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2992/schedule/2); s. 114 in force for W. at 1.7.2001 by [S.I. 2001/2190](https://www.legislation.gov.uk/uksi/2001/2190), [art. 2](https://www.legislation.gov.uk/uksi/2001/2190/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/2190/schedule) Table
 
-[^key-925e1b7a66f657e721b421e452304b79]: Textual amendment: Word in s. 114(1) omitted (1.8.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/21); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-925e1b7a66f657e721b421e452304b79]: Textual amendment: Word in s. 114(1) omitted (1.8.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/21); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)

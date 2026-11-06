@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Drought orders and drought permits: charges[^key-ee4578ca37f5cff129ae0cda0370a1d4]
+## 64. Drought orders and drought permits: charges[^c-ee4578ca37f5cff129ae0cda0370a1d4]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee4578ca37f5cff129ae0cda0370a1d4]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2003/37/section/64) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(o)](https://www.legislation.gov.uk/uksi/2004/641/article/3/o) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-ee4578ca37f5cff129ae0cda0370a1d4]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2003/37/section/64) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(o)](https://www.legislation.gov.uk/uksi/2004/641/article/3/o) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

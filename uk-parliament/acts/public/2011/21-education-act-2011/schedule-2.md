@@ -24,36 +24,36 @@ Section 11
 
 ### Amendments to THEA 1998
 
-**1.**[^key-fe8712cf7b2c07247e896d7aefd98d67] THEA 1998 is amended as follows.
+**1.**[^c-fe8712cf7b2c07247e896d7aefd98d67] THEA 1998 is amended as follows.
 
-**2.**[^key-64f61d340506e41604d23c78fd6ea790] In the heading to Chapter 1, for “Councils” substitute “ Council for Wales ”.
+**2.**[^c-64f61d340506e41604d23c78fd6ea790] In the heading to Chapter 1, for “Councils” substitute “ Council for Wales ”.
 
-**3.**[^key-60e8cca8db02cae32996603ad77f1dc6] In the italic cross-heading above section 1, for “England” substitute “ Wales: aims and constitution ”.
+**3.**[^c-60e8cca8db02cae32996603ad77f1dc6] In the italic cross-heading above section 1, for “England” substitute “ Wales: aims and constitution ”.
 
-**4.**[^key-ed0507e3eabd274585e78bf248f74871] In the italic cross-heading above section 2, for “England” substitute “ Wales ”.
+**4.**[^c-ed0507e3eabd274585e78bf248f74871] In the italic cross-heading above section 2, for “England” substitute “ Wales ”.
 
-**5.**[^key-5d5aa92c4fcbc6ebdb27ea8c26200f37] In section 2, in the heading, for “General Teaching Council for England” substitute “ the Council ”.
+**5.**[^c-5d5aa92c4fcbc6ebdb27ea8c26200f37] In section 2, in the heading, for “General Teaching Council for England” substitute “ the Council ”.
 
-**6.**[^key-b3f33f7466b781835a0713825265ba31] In the italic cross-heading above section 8, at the beginning insert “ Establishment of ”.
+**6.**[^c-b3f33f7466b781835a0713825265ba31] In the italic cross-heading above section 8, at the beginning insert “ Establishment of ”.
 
-**7.**[^key-c3df3956b8fddd7d4f5bd737328990cf] In section 8 (the General Teaching Council for Wales)—
+**7.**[^c-c3df3956b8fddd7d4f5bd737328990cf] In section 8 (the General Teaching Council for Wales)—
 
 - (a) in subsection (2), omit “as it has effect in relation to the Council,”;
 - (b) omit subsections (3) to (6);
 - (c) in the heading, at the beginning insert “ Establishment of ”.
 
-**8.**[^key-a64d8513dce2f4e3b2b7235ce992659c] In section 9 (functions of the General Teaching Council for Wales: general)—
+**8.**[^c-a64d8513dce2f4e3b2b7235ce992659c] In section 9 (functions of the General Teaching Council for Wales: general)—
 
 - (a) omit subsection (1);
 - (b) in subsection (2), for “the General Teaching Council for Wales” substitute “ the Council ”.
 
-**9.**[^key-e241f9afd51a80dd779cff2de7c07a52] In section 12 (deduction of fees from salaries, etc)—
+**9.**[^c-e241f9afd51a80dd779cff2de7c07a52] In section 12 (deduction of fees from salaries, etc)—
 
 - (a) in subsection (1)(b), omit “relevant”;
 - (b) in subsection (3), in paragraphs (b) and (c), omit “relevant”;
 - (c) in subsection (4), omit the definition of “relevant Council”.
 
-**10.**[^key-40164373f272f29bcef938f2f5a4aa7e] In section 14 (supply of information relating to teachers: general)—
+**10.**[^c-40164373f272f29bcef938f2f5a4aa7e] In section 14 (supply of information relating to teachers: general)—
 
 - (a) for subsection (1) substitute—
 
@@ -64,7 +64,7 @@ Section 11
 - (c) in subsection (3), for “either” substitute “ the ”;
 - (d) omit subsection (4).
 
-**11.**[^key-16ec812293dd60a0921a3380ba1c4753] In section 15 (supply of information following dismissal, resignation, etc)—
+**11.**[^c-16ec812293dd60a0921a3380ba1c4753] In section 15 (supply of information following dismissal, resignation, etc)—
 
 - (a) omit subsection (2);
 - (b) in subsection (3)—
@@ -72,7 +72,7 @@ Section 11
   - (ii) for “the General Teaching Council for Wales” substitute “ the Council ”.
 - (c) in subsection (5), in the definition of “relevant employer”, at the end of each of paragraphs (a), (b), (c) and (d) insert “ in Wales ”.
 
-**12.**[^key-c542be53a53b5889b949b19168d746e8] In section 15A (supply of information by contractor, agency, etc)—
+**12.**[^c-c542be53a53b5889b949b19168d746e8] In section 15A (supply of information by contractor, agency, etc)—
 
 - (a) in subsection (2), for “Subsections (3) and (4) apply” substitute “ Subsection (4) applies ”;
 - (b) omit subsections (3), (5) and (7);
@@ -80,9 +80,9 @@ Section 11
   - (i) omit the words from the beginning to “in Wales,”;
   - (ii) for “the General Teaching Council for Wales” substitute “ the Council ”.
 
-**13.**[^key-2711fd6ac69bac518f5214ac67b86e70] In the italic cross-heading above section 19, at the end insert “ : teachers in Wales ”.
+**13.**[^c-2711fd6ac69bac518f5214ac67b86e70] In the italic cross-heading above section 19, at the end insert “ : teachers in Wales ”.
 
-**14.**[^key-2548673addc98c27f3bb9043f1996e1e] In section 19 (requirement to serve induction period)—
+**14.**[^c-2548673addc98c27f3bb9043f1996e1e] In section 19 (requirement to serve induction period)—
 
 - (a) in subsection (1), after “schools” insert “ in Wales ”;
 - (b) in subsection (2)(i), for “either the Council or the General Teaching Council for Wales” substitute “ the Council ”;
@@ -91,14 +91,14 @@ Section 11
   - (ii) for “one or both of those Councils (as appropriate)” substitute “ the Council ”;
 - (d) in subsection (4)(b), omit “or the General Teaching Council for Wales”.
 
-**15.**[^key-4fc8daf5e68ce3cb44d95677afb12127] In section 42 (orders and regulations)—
+**15.**[^c-4fc8daf5e68ce3cb44d95677afb12127] In section 42 (orders and regulations)—
 
 - (a) omit subsection (3);
 - (b) in subsection (9)—
   - (i) omit the words from the beginning to “established,”;
   - (ii) omit “to which the regulations will relate”.
 
-**16.**[^key-2ff182f0de04839d431e2ca5682ec93d] (1) Schedule 1 is amended as follows.
+**16.**[^c-2ff182f0de04839d431e2ca5682ec93d] (1) Schedule 1 is amended as follows.
 
 (2) In the title, for “England” substitute “ Wales ”.
 
@@ -128,15 +128,15 @@ Section 11
 
 (10) In paragraph 11, omit sub-paragraph (1).
 
-**17.**[^key-a02983da9e5fab64030a21573e9dbd11] In Schedule 2 (disciplinary powers of Council), in paragraph 7 (supplementary provisions) for sub-paragraph (2) substitute—
+**17.**[^c-a02983da9e5fab64030a21573e9dbd11] In Schedule 2 (disciplinary powers of Council), in paragraph 7 (supplementary provisions) for sub-paragraph (2) substitute—
 
 > (2) Regulations may also make provision for securing that any prohibition order made by virtue of Schedule 11A to the Education Act 2002 in relation to a teacher in England has a corresponding effect in relation to Wales.
 
 ### Amendments to other Education Acts
 
-**18.**[^key-4ad70f65bb54db8a2f88cd84a6d783f7] In EA 1994, in section 18B (inspection of teacher training), in subsection (3) (advice from Chief Inspector), omit paragraph (c) (and the “or” preceding it).
+**18.**[^c-4ad70f65bb54db8a2f88cd84a6d783f7] In EA 1994, in section 18B (inspection of teacher training), in subsection (3) (advice from Chief Inspector), omit paragraph (c) (and the “or” preceding it).
 
-**19.**[^key-851e4faef448605ac9feee8d9e954ce7] (1) EA 2002 is amended as follows.
+**19.**[^c-851e4faef448605ac9feee8d9e954ce7] (1) EA 2002 is amended as follows.
 
 (2) In section 132 (qualified teacher status), omit subsection (3) (consultation of GTCE).
 
@@ -153,26 +153,26 @@ Section 11
 
 (5) In Schedule 12 (the General Teaching Councils for England and Wales), in Part 1 (amendments to the Teaching and Higher Education Act 1998), omit paragraph 7 (amendment to section 9(1)).
 
-**20.**[^key-418efee992a8d80f01f0226e37fb0af8] In ESA 2008—
+**20.**[^c-418efee992a8d80f01f0226e37fb0af8] In ESA 2008—
 
 - (a) in section 130 (directions prohibiting participation in management: information), in subsection (5), omit “the General Teaching Council for England,”;
 - (b) in Schedule 1 (minor and consequential amendments), in paragraph 23 (substitution of sections 167C and 167D of EA 2002), in the substituted section 167C, in subsection (5), omit “ the General Teaching Council for England, ”.
 
 ### Other amendments
 
-**21.**[^key-0e0b9344ef01bac550b54526256e7864] In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 2, omit “General Teaching Council for England.”
+**21.**[^c-0e0b9344ef01bac550b54526256e7864] In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 2, omit “General Teaching Council for England.”
 
-**22.**[^key-7ba157209b36bffd3fe280574b9614e4] In Schedule 1 to the Superannuation Act 1972 (kinds of employment in relation to which superannuation schemes may be made), omit “General Teaching Council for England.”
+**22.**[^c-7ba157209b36bffd3fe280574b9614e4] In Schedule 1 to the Superannuation Act 1972 (kinds of employment in relation to which superannuation schemes may be made), omit “General Teaching Council for England.”
 
-**23.**[^key-64e5f3fa95e88673d80975ab22c63f32] In Schedule 1 to the House of Commons Disqualification Act 1975 (offices disqualifying for membership) in Part 3, omit “Any member of the General Teaching Council for England in receipt of remuneration.”
+**23.**[^c-64e5f3fa95e88673d80975ab22c63f32] In Schedule 1 to the House of Commons Disqualification Act 1975 (offices disqualifying for membership) in Part 3, omit “Any member of the General Teaching Council for England in receipt of remuneration.”
 
-**24.**[^key-b5ca7926a1b86f58ea5cb2414f4e194d] In section 50 of the Employment Rights Act 1996 (right to time off for public duties), in subsection (9) (definition of “relevant education body”) omit paragraph (i) (but not the “or” following it).
+**24.**[^c-b5ca7926a1b86f58ea5cb2414f4e194d] In section 50 of the Employment Rights Act 1996 (right to time off for public duties), in subsection (9) (definition of “relevant education body”) omit paragraph (i) (but not the “or” following it).
 
-**25.**[^key-d93ba7f48954ff73eaebdc98f5010d63] In Schedule 1 to the Freedom of Information Act 2000 (public authorities), in Part 6 omit “The General Teaching Council for England.”
+**25.**[^c-d93ba7f48954ff73eaebdc98f5010d63] In Schedule 1 to the Freedom of Information Act 2000 (public authorities), in Part 6 omit “The General Teaching Council for England.”
 
-**26.**[^key-8770bdccddaa5ba4e17d018452f9439f] In section 343 of the Income Tax (Earnings and Pensions) Act 2003 (deductions allowed from earnings: professional membership fees), in the Table in subsection (2), in part 7 omit paragraph (a) (fee for registration by the GTCE).
+**26.**[^c-8770bdccddaa5ba4e17d018452f9439f] In section 343 of the Income Tax (Earnings and Pensions) Act 2003 (deductions allowed from earnings: professional membership fees), in the Table in subsection (2), in part 7 omit paragraph (a) (fee for registration by the GTCE).
 
-**27.**[^key-170df02b2379dc830dac17abf5255942] (1) The Safeguarding Vulnerable Groups Act 2006 is amended as follows.
+**27.**[^c-170df02b2379dc830dac17abf5255942] (1) The Safeguarding Vulnerable Groups Act 2006 is amended as follows.
 
 (2) In section 41 (registers: duty to refer), in the table in subsection (7), in entry 1, for the entry in column 2 substitute “ The General Teaching Council for Wales ”.
 
@@ -196,56 +196,56 @@ Section 11
 
 ## Annotations
 
-[^key-fe8712cf7b2c07247e896d7aefd98d67]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/1) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-fe8712cf7b2c07247e896d7aefd98d67]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/1) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-64f61d340506e41604d23c78fd6ea790]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-64f61d340506e41604d23c78fd6ea790]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-60e8cca8db02cae32996603ad77f1dc6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-60e8cca8db02cae32996603ad77f1dc6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-ed0507e3eabd274585e78bf248f74871]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/4) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-ed0507e3eabd274585e78bf248f74871]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/4) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-5d5aa92c4fcbc6ebdb27ea8c26200f37]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/5) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-5d5aa92c4fcbc6ebdb27ea8c26200f37]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/5) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-b3f33f7466b781835a0713825265ba31]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/6) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-b3f33f7466b781835a0713825265ba31]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/6) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-c3df3956b8fddd7d4f5bd737328990cf]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/7) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-c3df3956b8fddd7d4f5bd737328990cf]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/7) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-a64d8513dce2f4e3b2b7235ce992659c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/8) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-a64d8513dce2f4e3b2b7235ce992659c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/8) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-e241f9afd51a80dd779cff2de7c07a52]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/9) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-e241f9afd51a80dd779cff2de7c07a52]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/9) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-40164373f272f29bcef938f2f5a4aa7e]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/10) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-40164373f272f29bcef938f2f5a4aa7e]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/10) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-16ec812293dd60a0921a3380ba1c4753]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/11) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-16ec812293dd60a0921a3380ba1c4753]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/11) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-c542be53a53b5889b949b19168d746e8]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/12) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-c542be53a53b5889b949b19168d746e8]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/12) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-2711fd6ac69bac518f5214ac67b86e70]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/13) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-2711fd6ac69bac518f5214ac67b86e70]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/13) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-2548673addc98c27f3bb9043f1996e1e]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/14) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-2548673addc98c27f3bb9043f1996e1e]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/14) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-4fc8daf5e68ce3cb44d95677afb12127]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/15) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-4fc8daf5e68ce3cb44d95677afb12127]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/15) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-2ff182f0de04839d431e2ca5682ec93d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/16) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-2ff182f0de04839d431e2ca5682ec93d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/16) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-a02983da9e5fab64030a21573e9dbd11]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/17) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-a02983da9e5fab64030a21573e9dbd11]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/17) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-4ad70f65bb54db8a2f88cd84a6d783f7]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/18) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-4ad70f65bb54db8a2f88cd84a6d783f7]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/18) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-851e4faef448605ac9feee8d9e954ce7]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/19) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-851e4faef448605ac9feee8d9e954ce7]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/19) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-418efee992a8d80f01f0226e37fb0af8]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/20) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-418efee992a8d80f01f0226e37fb0af8]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/20) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-0e0b9344ef01bac550b54526256e7864]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/21) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-0e0b9344ef01bac550b54526256e7864]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/21) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-7ba157209b36bffd3fe280574b9614e4]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/22) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-7ba157209b36bffd3fe280574b9614e4]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/22) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-64e5f3fa95e88673d80975ab22c63f32]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/23) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-64e5f3fa95e88673d80975ab22c63f32]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/23) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-b5ca7926a1b86f58ea5cb2414f4e194d]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/24) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-b5ca7926a1b86f58ea5cb2414f4e194d]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/24) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-d93ba7f48954ff73eaebdc98f5010d63]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/25) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-d93ba7f48954ff73eaebdc98f5010d63]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/25) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-8770bdccddaa5ba4e17d018452f9439f]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/26) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-8770bdccddaa5ba4e17d018452f9439f]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/26) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-170df02b2379dc830dac17abf5255942]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/27) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-170df02b2379dc830dac17abf5255942]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2011/21/schedule/2/paragraph/27) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

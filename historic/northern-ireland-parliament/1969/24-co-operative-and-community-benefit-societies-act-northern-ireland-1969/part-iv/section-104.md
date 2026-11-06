@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) This Act may be cited as the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^key-c7f4d4d63aabe656ae69c359c11d06b1] .
+(1) This Act may be cited as the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^c-c7f4d4d63aabe656ae69c359c11d06b1] .
 
 (2) *Commencement*
 
 ## Annotations
 
-[^key-c7f4d4d63aabe656ae69c359c11d06b1]: Textual amendment: Words in [s. 104(1)](https://www.legislation.gov.uk/apni/1969/24/section/104/1) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/15); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-c7f4d4d63aabe656ae69c359c11d06b1]: Textual amendment: Words in [s. 104(1)](https://www.legislation.gov.uk/apni/1969/24/section/104/1) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/15); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)

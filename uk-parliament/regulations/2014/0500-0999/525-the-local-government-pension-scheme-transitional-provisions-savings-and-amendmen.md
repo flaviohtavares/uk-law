@@ -48,9 +48,9 @@ These Regulations are made in exercise of the powers conferred by sections 7 and
 
 In accordance with section 7(5) of that Act, the Secretary of State consulted such associations of local authorities as appeared to the Secretary of State to be concerned; the local authorities with whom consultation appeared to the Secretary of State to be desirable; and such representatives of other persons likely to be affected by the Regulations as appeared to the Secretary of State to be appropriate.
 
-The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878df280ba93d8b6]
+The Secretary of State makes the following Regulations:[^c-46b7ac329fd2597a878df280ba93d8b6]
 
-## 1. Citation, extent, commencement and interpretation[^key-feb30f6021e3a2a710a4e194d0fef0a7]
+## 1. Citation, extent, commencement and interpretation[^c-feb30f6021e3a2a710a4e194d0fef0a7]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014.
 
@@ -81,7 +81,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 - “the Benefits Regulations” means the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations 2007[^f00010];
 - “the Earlier Schemes” means the 1974, the 1986, the 1995, the 1998 and the 2008 Schemes collectively;
 - “the Earlier Regulations” means the regulations by which the Earlier Schemes were constituted;
-- “[^key-243a6b9c1edd8e42a11c7fb3abde6f93]**eligible member**” has the meaning given in regulation 4A(2);
+- “[^c-243a6b9c1edd8e42a11c7fb3abde6f93]**eligible member**” has the meaning given in regulation 4A(2);
 - “**final assumed benefits**” means the benefits calculated in accordance with regulation 4K;
 - “final guarantee amount” is the amount by which the eligible member’s final assumed benefits are exceeded by their final underpin amount (if at all) in respect of a pension account;
 - “**final underpin amount**” means the amount calculated in accordance with regulation 4L;
@@ -91,20 +91,20 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 - “**PSP Directions 2022**” means the Public Service Pensions (Exercise of Powers, Compensation and Information) Directions 2022[^f00005];
 - “**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
 - “public service pension scheme” has the same meaning as in section 1 of the Pension Schemes Act 1993[^f00011].
-- “[^key-3d401413313bf67fe8260c0487088073]**underpin date**” has the meaning given in regulation 4G;
+- “[^c-3d401413313bf67fe8260c0487088073]**underpin date**” has the meaning given in regulation 4G;
 - “**underpin period**” has the meaning given in regulation 4A(3)
 
-(7)[^key-ce54f3734192e8b7852b7a0191206499] In regulations 4A to 4V, a reference to actuarial guidance issued by the Secretary of State has the meaning given in Schedule 1 to the 2013 Regulations.
+(7)[^c-ce54f3734192e8b7852b7a0191206499] In regulations 4A to 4V, a reference to actuarial guidance issued by the Secretary of State has the meaning given in Schedule 1 to the 2013 Regulations.
 
 (8) Where these Regulations refer to the PSP Directions 2022, a reference to “scheme manager” in those Directions is to be read as “administering authority”.
 
-## 2. Revocation of Regulations[^key-0177be0397d7cceb8e0d23d11bccdd5f]
+## 2. Revocation of Regulations[^c-0177be0397d7cceb8e0d23d11bccdd5f]
 
 (1) Except where these Regulations provide otherwise, the Regulations listed in Schedule 1 are revoked.
 
 (2) Accordingly, no person may become a member of the 2008 Scheme after 31st March 2014 or accrue benefits under the 2008 Scheme in respect of any service after that date.
 
-## 3. Membership before 1st April 2014[^key-913ac12bc73acc3ce2684e9cd0a82a4d]
+## 3. Membership before 1st April 2014[^c-913ac12bc73acc3ce2684e9cd0a82a4d]
 
 (1) Notwithstanding the revocations effected by regulation 2 of these Regulations, and subject to this Regulation, the regulations listed in Schedule 1 continue to have effect so far as is necessary—
 
@@ -119,9 +119,9 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 
 (5) But a retirement pension and any retirement grant payable to a member under paragraph (4) is subject to actuarial adjustment if it would have been subject to actuarial adjustment under the 2008 Scheme, irrespective of whether retirement pension under the 2014 Scheme payable at the same time is subject to actuarial adjustment.
 
-(5A)[^key-75868dfec9dfe1fa3d94bd6ccbfc72e7] Notwithstanding paragraph (1)(a)—
+(5A)[^c-75868dfec9dfe1fa3d94bd6ccbfc72e7] Notwithstanding paragraph (1)(a)—
 
-- (a)[^key-644ce04f1b959f1583ba542af344e84d] regulation D11 of the 1995 Regulations (entitlement to deferred retirement benefits) has effect as if—
+- (a)[^c-644ce04f1b959f1583ba542af344e84d] regulation D11 of the 1995 Regulations (entitlement to deferred retirement benefits) has effect as if—
   - (i) in paragraph (2)(d) the words “has ceased to be employed in local government employment” were omitted;
   - (ii) in paragraphs (2)(d) and (4) the references to age 60 were substituted with references to age 55;
   - (iii) in paragraph (3)—
@@ -133,7 +133,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 - (b) regulations 31(2) (other early leavers: deferred retirement benefits and elections for early payment) and 154(4) (payment of benefits: pension credit member) of the 1997 Regulations have effect with the substitution of the references to age 60 with references to age 55;
 - (c) regulations 30(2) and 30A(3) of the Benefits Regulations (requirements for member aged between 55 and 60 to obtain consent for early payment of pension) cease to have effect.
 
-(5B)[^key-813c25a1e421fbe26dee6d06bb8cdd30] Notwithstanding paragraph (1)(a), in respect of the death of a member between 1st April 2008 and 31st March 2014 inclusive—
+(5B)[^c-813c25a1e421fbe26dee6d06bb8cdd30] Notwithstanding paragraph (1)(a), in respect of the death of a member between 1st April 2008 and 31st March 2014 inclusive—
 
 - (a) the Benefits Regulations have effect as if regulation 17(16A)(b) of these Regulations applied;
 - (b) the 2008 Scheme Transitional Regulations have effect as if regulation 17(16A)(c) of these Regulations applied.
@@ -173,7 +173,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 - (b) the 1997 Regulations have effect as if regulations 38(6) (death grants) and 155(5) (death grants) were omitted;
 - (c) the 1995 Regulations have effect as if regulation E8(5) (nomination of beneficiary of death grant) were omitted.
 
-(5H)[^key-4e66050f3c91e092d89876e4cfaaf8fb] Notwithstanding paragraph (1)(a)—
+(5H)[^c-4e66050f3c91e092d89876e4cfaaf8fb] Notwithstanding paragraph (1)(a)—
 
 - (a) the 1997 Regulations have effect as if—
   - (i) in regulation 19A (limit on total amount of benefits), paragraphs (1) to (3) were omitted;
@@ -226,7 +226,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 
 (6) Where a member who has not had a disqualifying break aggregates benefits from Earlier Schemes with benefits from the 2014 Scheme, the benefits from the Earlier Schemes are payable as final salary benefits.
 
-(6A)[^key-c4ac4e44b66ad55df0512df86ea767d2] Notwithstanding paragraph (1)(a), where deferred benefits are aggregated in accordance with paragraph (6), the normal pension age in relation to deferred benefits in respect of membership that ceased before 1st October 2006, is age 65
+(6A)[^c-c4ac4e44b66ad55df0512df86ea767d2] Notwithstanding paragraph (1)(a), where deferred benefits are aggregated in accordance with paragraph (6), the normal pension age in relation to deferred benefits in respect of membership that ceased before 1st October 2006, is age 65
 
 (7) A disqualifying break for the purposes of paragraph (6) is a continuous break in active membership of a public service pension scheme of more than five years.
 
@@ -242,11 +242,11 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 
 (13) Regulations 70 and 71 of the Administration Regulations (abatement) continue to have effect in relation to pensions in payment deriving from the Earlier Schemes regardless of when payment of those pensions commenced.
 
-## 4. Statutory underpin[^key-59224eb2cb20b61a7dc574923050ad92]
+## 4. Statutory underpin[^c-59224eb2cb20b61a7dc574923050ad92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Statutory underpin: general[^key-83bc6d76be9fa86a798dc82775db44df][^key-4928340ccbf855e9158a1d7f749ce8fc]
+## 4A. Statutory underpin: general[^c-83bc6d76be9fa86a798dc82775db44df][^c-4928340ccbf855e9158a1d7f749ce8fc]
 
 (1) This regulation and regulations 4B to 4V (provisions relating to the statutory underpin) apply in relation to an eligible member’s remediable service[^f00006] during the underpin period.
 
@@ -267,7 +267,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
     - (aa) the normal retirement age applicable to them under the 2008 Scheme, or
     - (bb) where the person was not a member of the 2008 Scheme, the age of 65.
 
-## 4B. Statutory underpin: retirement, redundancy, ill health[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4B. Statutory underpin: retirement, redundancy, ill health[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) This regulation applies in relation to an eligible member whose final underpin date is that in regulation 4H(1)(a), (c), (d) or (e) (statutory underpin: final underpin date).
 
@@ -275,7 +275,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 
 (3) The pension account is to be increased on the day after the eligible member’s final underpin date.
 
-## 4C. Statutory underpin: flexible retirement[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4C. Statutory underpin: flexible retirement[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) This regulation applies in relation to an eligible member whose final underpin date is that in regulation 4H(1)(b) (statutory underpin: final underpin date – flexible retirement).
 
@@ -312,13 +312,13 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 
 (11) In this regulation “relevant pension” is the pension built up in the 2014 Scheme before the member’s first final underpin date.
 
-## 4D. Statutory underpin: lump sum payments[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4D. Statutory underpin: lump sum payments[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) This regulation applies to an eligible member whose final underpin date is that in regulation 4H(1)(f) (statutory underpin: final underpin date – lump sum payment).
 
 (2) Where this regulation applies the eligible member’s pension account is not to be increased by any final guarantee amount relating to the pension account[^f00010].
 
-## 4E. Statutory underpin: transfers[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4E. Statutory underpin: transfers[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) This regulation applies to an eligible member whose final underpin date is that in regulation 4H(1)(g) or (h) (statutory underpin: final underpin date – transfer to a different scheme).
 
@@ -329,15 +329,15 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
   - (i) where regulation 4H(1)(g) applies to the eligible member, regulation 96 of the 2013 Regulations applies (right to payment out of the pension fund), or
   - (ii) where regulation 4H(1)(h) applies to the eligible member, regulation 98 of the 2013 Regulations applies (bulk transfer (transfer of undertakings etc.)).
 
-## 4F. Statutory underpin: members taking a repayment of contributions[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4F. Statutory underpin: members taking a repayment of contributions[^c-83bc6d76be9fa86a798dc82775db44df]
 
-(1) This regulation applies in relation to an eligible member whose final underpin date is that in regulation 4H(1)(i)[^key-6c625e2df871734131ee69b1885b2830] (statutory underpin: final underpin date – receipt of repayment under regulation 18 of the 2013 Regulations).
+(1) This regulation applies in relation to an eligible member whose final underpin date is that in regulation 4H(1)(i)[^c-6c625e2df871734131ee69b1885b2830] (statutory underpin: final underpin date – receipt of repayment under regulation 18 of the 2013 Regulations).
 
 (2) An eligible member to whom this regulation applies is not entitled to a final guarantee amount in respect of any repaid contributions.
 
-## 4G. Statutory underpin: underpin date[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4G. Statutory underpin: underpin date[^c-83bc6d76be9fa86a798dc82775db44df]
 
-(1)[^key-261219b47acfdc4b31c631c30d7cd72d] Subject to paragraphs (2) to (5), an[^key-c9b4fdc06cd90f3881f2258c74d871da] eligible member’s underpin date, in relation to a pension account, is the earliest of—
+(1)[^c-261219b47acfdc4b31c631c30d7cd72d] Subject to paragraphs (2) to (5), an[^c-c9b4fdc06cd90f3881f2258c74d871da] eligible member’s underpin date, in relation to a pension account, is the earliest of—
 
 - (a) the last day on which the eligible member is an active member of the 2014 Scheme;
 - (b) the date on which the eligible member attains—
@@ -345,7 +345,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
   - (ii) where the eligible member was not a member of the 2008 Scheme, the age of 65, and
 - (c) where the eligible member elects to receive an immediate payment of all or part of their pension under regulation 30(6) of the 2013 Regulations, the day before the date on which the eligible member’s reduced working hours or grade of employment begins.
 
-(2)[^key-ec47fba66a3e1780a85c90d2e0ddb811] This paragraph applies where—
+(2)[^c-ec47fba66a3e1780a85c90d2e0ddb811] This paragraph applies where—
 
 - (a) under paragraph (1)(b)(ii) an eligible member’s underpin date would be the date on which they attained the age of 65, and
 - (b) the eligible member—
@@ -365,7 +365,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 
 (5) In this regulation, “Club Transfer” has the same meaning as in Schedule 1 to the 2013 Regulations.
 
-## 4H. Statutory underpin: final underpin date[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4H. Statutory underpin: final underpin date[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) An eligible member’s final underpin date, in relation to a pension account, is the earliest of the following dates which occur either at the same time as, or after, an underpin date applicable to that pension account—
 
@@ -381,7 +381,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 
 (2) Where the eligible member has had a final underpin date by virtue of paragraph (1)(b), paragraph (1) subsequently applies as if for “the earliest of the following dates” there were substituted “the next occurring of the following dates”.
 
-## 4I. Statutory underpin: calculation of provisional assumed benefits[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4I. Statutory underpin: calculation of provisional assumed benefits[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) An eligible member’s provisional assumed benefits are calculated by assessing, at the eligible member’s underpin date, the benefits the eligible member would have been entitled to under the 2014 Scheme over the underpin period if—
 
@@ -410,7 +410,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 - (f) no transfer value payment had been made to the eligible member’s pension account under regulation 10(5) or (6); and
 - (g) where the balance in the eligible member’s pension account at the underpin date had been adjusted on account of any pension debit or Scheme pays election[^f00016], that adjustment had not occurred.
 
-(1A)[^key-f718122962d88966c0817cd14f32e84b] Where the eligible member’s underpin date is the date specified in regulation 4G (3) or (4) (statutory underpin: underpin date), the calculation in paragraph (1) must be carried out in accordance with actuarial guidance issued by the Secretary of State.
+(1A)[^c-f718122962d88966c0817cd14f32e84b] Where the eligible member’s underpin date is the date specified in regulation 4G (3) or (4) (statutory underpin: underpin date), the calculation in paragraph (1) must be carried out in accordance with actuarial guidance issued by the Secretary of State.
 
 (2) Where paragraph (1)(a)(i)(cc) or (dd) apply, the additional pension purchased is to be included in the provisional assumed benefits as if it were pension credited to the eligible member’s pension account on the earliest of—
 
@@ -446,7 +446,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 
 (10) Paragraph (9) does not apply if there has been a continuous break in active membership of a public service pension scheme of more than five years since the remediable service was accrued.
 
-## 4J. Statutory underpin: calculation of the provisional underpin amount[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4J. Statutory underpin: calculation of the provisional underpin amount[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) The eligible member’s provisional underpin amount is calculated by assessing the benefits the eligible member would have been entitled to under the 2008 Scheme over the underpin period at the eligible member’s underpin date if—
 
@@ -464,7 +464,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
   there was no continuous break of more than five years in active membership of a public service pension scheme since the remediable service was accrued; and
 - (e) where the balance in the eligible member’s pension account at the underpin date had been adjusted on account of any pension debit or Scheme pays election, that adjustment had not occurred.
 
-(1A)[^key-ab26c7532f3e4c5ed9f3304cfb294e41] Where the eligible member’s underpin date is the date specified in regulation 4G(3) or (4) (statutory underpin: underpin date), the calculation in paragraph (1) must be carried out in accordance with actuarial guidance issued by the Secretary of State.
+(1A)[^c-ab26c7532f3e4c5ed9f3304cfb294e41] Where the eligible member’s underpin date is the date specified in regulation 4G(3) or (4) (statutory underpin: underpin date), the calculation in paragraph (1) must be carried out in accordance with actuarial guidance issued by the Secretary of State.
 
 (2) Where paragraph (1)(b)(ii) applies, the unpaid period to be used in relation to the provisional underpin amount is the proportion of the period of absence that is equal to the proportion of the full amount of contributions to be paid under the arrangement that have been paid by the eligible member.
 
@@ -492,7 +492,7 @@ The Secretary of State makes the following Regulations:[^key-46b7ac329fd2597a878
 
 (8) Paragraph (7) does not apply if there has been a continuous break in active membership of a public service pension scheme of more than five years since the remediable service was accrued.
 
-## 4K. Statutory underpin: calculation of final assumed benefits[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4K. Statutory underpin: calculation of final assumed benefits[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) An eligible member’s final assumed benefits are calculated by adjusting their provisional assumed benefits at the eligible member’s final underpin date in accordance with this regulation.
 
@@ -514,7 +514,7 @@ the additional pension referred to in sub-paragraph (a) is also to be reduced in
 
 (7) This regulation is subject to regulation 4N (statutory underpin: effect of uplift of Tier 3 benefits to Tier 2 benefits).
 
-## 4L. Statutory underpin: calculation of final underpin amount[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4L. Statutory underpin: calculation of final underpin amount[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) An eligible member’s final underpin amount is calculated by adjusting their provisional underpin amount at the eligible member’s final underpin date in accordance with this regulation.
 
@@ -536,7 +536,7 @@ apply an adjustment calculated in accordance with actuarial guidance issued by t
 
 (6) This regulation is subject to regulation 4N (statutory underpin: effect of uplift of Tier 3 benefits to Tier 2 benefits).
 
-## 4M. Statutory underpin: effect of cessation of Tier 3 benefits[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4M. Statutory underpin: effect of cessation of Tier 3 benefits[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) This regulation applies in relation to an eligible member—
 
@@ -551,7 +551,7 @@ apply an adjustment calculated in accordance with actuarial guidance issued by t
 - (a) the eligible member ceases to be entitled to any future payments of any final guarantee amount to which the person became entitled by virtue of being entitled to Tier 3 benefits from the date those benefits cease; and
 - (b) regulations 4A to 4V apply in relation to the eligible member as if they had never previously had a final underpin date in relation to the pension account.
 
-## 4N. Statutory underpin: effect of uplift of Tier 3 benefits to Tier 2 benefits[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4N. Statutory underpin: effect of uplift of Tier 3 benefits to Tier 2 benefits[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) This regulation applies in relation to an eligible member—
 
@@ -574,7 +574,7 @@ apply an adjustment calculated in accordance with actuarial guidance issued by t
 
 (6) Notwithstanding regulation 4B(3), the amount to be added under paragraph (5) is to be added from the date the eligible member is awarded Tier 2 benefits.
 
-## 4O. Statutory underpin: survivor’s guarantee amount calculation[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4O. Statutory underpin: survivor’s guarantee amount calculation[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) This regulation applies where—
 
@@ -621,7 +621,7 @@ apply an adjustment calculated in accordance with actuarial guidance issued by t
 
 (9) In this regulation, “IRMP” has the meaning given in Schedule 1 to the 2013 Regulations.
 
-## 4P. Statutory underpin: death grants[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4P. Statutory underpin: death grants[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) This regulation applies where—
 
@@ -634,12 +634,12 @@ apply an adjustment calculated in accordance with actuarial guidance issued by t
 
 (4) An eligible member’s deferred assumed benefits are calculated by adjusting their provisional assumed benefits to apply any revaluation adjustment or index rate adjustment that would have applied to a deferred benefit in the 2014 Scheme as if the last day of scheme membership was the underpin date.
 
-(5) An eligible member’s deferred underpin amount is calculated by adjusting their provisional underpin amount[^key-1e3d4275ec0fadac2d93ebf59481793a] to apply any amount by which it would be increased if it were a pension to which the Pensions (Increase) Act 1971 applied, which relates to the period—
+(5) An eligible member’s deferred underpin amount is calculated by adjusting their provisional underpin amount[^c-1e3d4275ec0fadac2d93ebf59481793a] to apply any amount by which it would be increased if it were a pension to which the Pensions (Increase) Act 1971 applied, which relates to the period—
 
 - (a) beginning with the day after the day on which the final pay period used for the purposes of calculating the eligible member’s final pay under regulations 8 to 11 of the Benefits Regulations ends; and
 - (b) ending with date of the eligible member’s death.
 
-## 4Q. Statutory underpin: multiple pension accounts[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4Q. Statutory underpin: multiple pension accounts[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) This regulation applies to an eligible member who has an aggregated pension account.
 
@@ -681,7 +681,7 @@ apply an adjustment calculated in accordance with actuarial guidance issued by t
 - “aggregated pension account” is a pension account that has been aggregated under regulation 22(5), (6), (7) or (8) of the 2013 Regulations;
 - “**inactive pension account**” means a pension account in respect of which the eligible member is no longer an active member.
 
-## 4R. Statutory underpin: divorce and dissolution of civil partnership[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4R. Statutory underpin: divorce and dissolution of civil partnership[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) This regulation applies where the cash equivalent of an eligible member’s relevant benefits is, for the purpose of section 29 of the Welfare Reform and Pensions Act 1999[^f00019] (creation of pension debits and credits), calculated in accordance with regulation 4 of the Pension Sharing (Valuation) Regulations 2000 (manner of calculation and verification of cash equivalents: occupational pension schemes).
 
@@ -689,7 +689,7 @@ apply an adjustment calculated in accordance with actuarial guidance issued by t
 
 (3) “**Relevant benefits**” has the same meaning as in section 29 of the Welfare Reform and Pensions Act 1999.
 
-## 4S. Payment of indirect compensation[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4S. Payment of indirect compensation[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) An administering authority may, in respect of a compensatable loss that is a Part 4 tax loss incurred by an eligible member—
 
@@ -706,7 +706,7 @@ apply an adjustment calculated in accordance with actuarial guidance issued by t
 
 (6) Direction 36 of the PSP Directions 2022 (indirect compensation) applies to this regulation for the purpose of determining whether a Part 4 tax loss is compensatable.
 
-## 4T. Applications for compensation[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4T. Applications for compensation[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) An administering authority may pay compensation to a person in respect of the 2014 Scheme under section 82(1) of PSPJOA 2022 (power to pay compensation to members or personal representatives in respect of compensatable losses) or additional benefits payable by virtue of regulation 4S only after the appropriate person has made an application to the administering authority in such form and manner as determined by the administering authority, subject to paragraph (2).
 
@@ -738,17 +738,17 @@ apply an adjustment calculated in accordance with actuarial guidance issued by t
 - “**HMRC**” means His Majesty’s Revenue and Customs;
 - “**the appropriate person**” means the eligible member or, if they are deceased, their personal representatives.
 
-## 4U. Payment of compensation or indirect compensation out of pension fund[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4U. Payment of compensation or indirect compensation out of pension fund[^c-83bc6d76be9fa86a798dc82775db44df]
 
 An administering authority may pay compensation to a person in respect of the 2014 Scheme under section 82(1) of PSPJOA 2022 (power to pay compensation to members or personal representatives in respect of compensatable losses) or additional benefits payable by virtue of regulation 4S from the pension fund concerned.
 
-## 4V. Interest on indirect compensation[^key-83bc6d76be9fa86a798dc82775db44df]
+## 4V. Interest on indirect compensation[^c-83bc6d76be9fa86a798dc82775db44df]
 
 (1) This regulation applies where an administering authority pays additional benefit to an eligible member under regulation 4S (indirect compensation).
 
 (2) Interest is to be paid in respect of the additional benefit in accordance with regulation 14 of the Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023.
 
-## 5. Membership of the 2014 Scheme[^key-f579fcbaf450afb91e4f8c721e10f395]
+## 5. Membership of the 2014 Scheme[^c-f579fcbaf450afb91e4f8c721e10f395]
 
 (1) A person who is an active member of the 2008 Scheme in an employment immediately before 1st April 2014 becomes an active member of the 2014 Scheme on 1st April 2014 in that employment provided the person is eligible for membership of the 2014 Scheme on that date.
 
@@ -768,7 +768,7 @@ An administering authority may pay compensation to a person in respect of the 20
 
 (7) A designation by a body of an employee or class of employees as being eligible for membership of the 2008 Scheme pursuant to regulations 4 (general eligibility for membership), 7 (admission agreements: further provisions), 8 (eligibility for membership of employees of other bodies not listed in Schedule 2), 8B (eligibility for membership: employees of Newcastle International Airport Limited)[^f00014] or 12(6) (further restrictions on eligibility: admission agreements with certain NHS bodies) of the Administration Regulations has effect as a designation as being eligible for membership of the 2014 Scheme.
 
-## 6. Admission agreements[^key-b6d5661efd42fa62579b99acbff27d28]
+## 6. Admission agreements[^c-b6d5661efd42fa62579b99acbff27d28]
 
 (1) Any admission agreement entered into before 1st April 2014 continues to have effect after 31st March 2014 and employees of admission bodies designated before that date in accordance with an admission agreement as eligible for membership of the Local Government Pension Scheme are from 1st April 2014, subject to regulations 5(2) to (4) of these Regulations, members of the 2014 Scheme by virtue of the agreement.
 
@@ -778,7 +778,7 @@ An administering authority may pay compensation to a person in respect of the 20
 
 (4) Regulation 8B of the Administration Regulations (eligibility for membership: employees of Newcastle International Airport Limited) continues to have effect notwithstanding the revocations effected by regulation 2 of these Regulations (revocation of regulations).
 
-## 7. Qualifying service for the 2014 Scheme[^key-259d184b5922b294111cdac71869aed4]
+## 7. Qualifying service for the 2014 Scheme[^c-259d184b5922b294111cdac71869aed4]
 
 (1) Any period of active membership in the Earlier Schemes which the member has at 31st March 2014 counts as qualifying service in the 2014 Scheme for the purposes of regulation 3(7)(a) and (c) of the 2013 Regulations (active membership).
 
@@ -799,7 +799,7 @@ and the aggregate of that membership and the service in the 2014 Scheme is less 
 - (b) to be a deferred member of the 2014 Scheme notwithstanding regulation 6(1) of the 2013 Regulations (deferred and deferred pensioner members); or
 - (c) if the member has reached the normal retirement age applicable to that member under the 2008 Scheme, to draw retirement pension immediately upon cessation of local government service, notwithstanding regulation 6(1) (deferred and deferred pensioner members) of the 2013 Regulations.
 
-(5A)[^key-15e96101e8e643d9da1742f3629ae7c9] In paragraph (5)(c) the reference to cessation of local government service includes—
+(5A)[^c-15e96101e8e643d9da1742f3629ae7c9] In paragraph (5)(c) the reference to cessation of local government service includes—
 
 - (a) cessation of employment deemed by regulation 2(1B) of the 2013 Regulations (introductory) to be local government service; and
 - (b) cessation of employment in respect of which the member satisfies the conditions in regulation 3(1)(b) of the 2013 Regulations (active membership).
@@ -809,7 +809,7 @@ and the aggregate of that membership and the service in the 2014 Scheme is less 
 - (a) in the case of a member satisfying the conditions in paragraph (4), be awarded a deferred benefit under the 2014 Scheme;
 - (b) in the case of a member satisfying the conditions in paragraph (5), be awarded a deferred benefit in the 2014 Scheme, or an immediate pension, as appropriate.
 
-## 8. Pensionable pay[^key-9af846447cb97a63a40b4623b92a0d95]
+## 8. Pensionable pay[^c-9af846447cb97a63a40b4623b92a0d95]
 
 (1) For the purposes of regulation 20(1) of the 2013 Regulations (meaning of pensionable pay) no account is to be taken of any supplement paid—
 
@@ -822,24 +822,24 @@ in recognition of the difference in contribution rates between members of the pr
 
 (3) For the purposes of calculating assumed pensionable pay under regulation 21 of the 2013 Regulations (assumed pensionable pay), if all or part of the periods referred to in paragraph (4) of that regulation fall before 1st April 2014, the calculation must include the pensionable pay the member received before 1st April 2014 in relation to that period.
 
-(4) Where these Regulations provide for final pay received after 31st March 2014 to be calculated under regulations 8 to 11 of the Benefits Regulations (calculation of final pay), if a member has a period of absence from work of the description in regulation 11(4)(b) or (c) of the 2013 Regulations (contributions during absence from work with permission or due to a trade dispute) and, on or after the commencement of that period of absence, has paid contributions in respect of that period of absence under regulation 11 (5) of the 2013 Regulations (absences of fewer than 15 days) or[^key-9aba0571f240d582c7226dc132346580] has purchased additional pension under regulation 16 of the 2013 Regulations (additional pension contributions) equivalent to the pension that the member would have accrued but for the absence—
+(4) Where these Regulations provide for final pay received after 31st March 2014 to be calculated under regulations 8 to 11 of the Benefits Regulations (calculation of final pay), if a member has a period of absence from work of the description in regulation 11(4)(b) or (c) of the 2013 Regulations (contributions during absence from work with permission or due to a trade dispute) and, on or after the commencement of that period of absence, has paid contributions in respect of that period of absence under regulation 11 (5) of the 2013 Regulations (absences of fewer than 15 days) or[^c-9aba0571f240d582c7226dc132346580] has purchased additional pension under regulation 16 of the 2013 Regulations (additional pension contributions) equivalent to the pension that the member would have accrued but for the absence—
 
 - (a) the member is treated as entitled to count the period of absence as a period of membership; and
 - (b) is treated as receiving the pay that would have been received but for the absence.
 
-## 9. Transfers[^key-567d11d0bb31b1971802cee8a1251f8b]
+## 9. Transfers[^c-567d11d0bb31b1971802cee8a1251f8b]
 
-(1) Where a transfer payment is received into the 2014 Scheme in respect of a person from a different public service pension scheme which includes a payment in respect of service that is not remediable service[^key-eb088ac1b8c58e5c0991a80322076058] [^key-ba8d4412b06122ea3176682ea76025bb]... which would have entitled the person to final salary benefits in that scheme, such payment shall entitle that person to benefits under the 2014 Scheme as if they were payable as final salary benefits under the 2008 Scheme so long as the person in respect of whom the transfer payment is received has had no continuous break in active membership of any public service pension scheme of more than five years since ceasing active membership in the scheme from which the transfer payment is received[^key-bcb173a235bfd9044f7b719858205aa0].
+(1) Where a transfer payment is received into the 2014 Scheme in respect of a person from a different public service pension scheme which includes a payment in respect of service that is not remediable service[^c-eb088ac1b8c58e5c0991a80322076058] [^c-ba8d4412b06122ea3176682ea76025bb]... which would have entitled the person to final salary benefits in that scheme, such payment shall entitle that person to benefits under the 2014 Scheme as if they were payable as final salary benefits under the 2008 Scheme so long as the person in respect of whom the transfer payment is received has had no continuous break in active membership of any public service pension scheme of more than five years since ceasing active membership in the scheme from which the transfer payment is received[^c-bcb173a235bfd9044f7b719858205aa0].
 
-(1ZA)[^key-1711734b7425990155830ee072e845f5] Where a transfer payment is received into the 2014 Scheme in respect of a person from a different public service pension scheme which includes a payment in respect of remediable service, the payment in respect of remediable service entitles the person to benefits under the 2014 Scheme.
+(1ZA)[^c-1711734b7425990155830ee072e845f5] Where a transfer payment is received into the 2014 Scheme in respect of a person from a different public service pension scheme which includes a payment in respect of remediable service, the payment in respect of remediable service entitles the person to benefits under the 2014 Scheme.
 
 (1ZB) For the purposes of these Regulations, so long as there has been no continuous break in active membership of a public service pension scheme of more than five years since the remediable service was accrued, transferred remediable service to which paragraph (1ZA) applies is to be treated as a pension to which regulations 4A to 4V apply.
 
-(1A)[^key-03e799ec56ef9002aa7cec752e3c4029] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-03e799ec56ef9002aa7cec752e3c4029] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where a transfer payment is to be made to a registered pension scheme or qualifying recognised overseas pension scheme in respect of a member of the 2014 Scheme, that transfer payment shall include any benefits accrued by that member under the Earlier Schemes that are aggregated with the service under the 2014 Scheme.
 
-(2A)[^key-2a8e96ff6ec5fe0271e01835c47f59ab] Where a transfer payment to which paragraph (1) applies is received into the 2014 Scheme in respect of an elected member, such payment is to entitle the person to benefits under the 2014 Scheme.
+(2A)[^c-2a8e96ff6ec5fe0271e01835c47f59ab] Where a transfer payment to which paragraph (1) applies is received into the 2014 Scheme in respect of an elected member, such payment is to entitle the person to benefits under the 2014 Scheme.
 
 (2B) Notwithstanding paragraphs (1ZA) and (1ZB), where a transfer payment, to which paragraphs (1ZA) and (1ZB) apply is received into the 2014 Scheme in respect of an elected member, such payment is not to be treated as—
 
@@ -850,9 +850,9 @@ in recognition of the difference in contribution rates between members of the pr
 
 (4) The relevant date for the purposes of paragraph (3) is the date on which the person first became an active member in the employment, or the date the transfer payment is received if more than 12 months later.
 
-(5)[^key-2f6a0240a62e5b74d999d11e209e8185] In this regulation, “**elected member**” has the same meaning as in Schedule 1 to the Local Government Pension Scheme Regulations 2013.
+(5)[^c-2f6a0240a62e5b74d999d11e209e8185] In this regulation, “**elected member**” has the same meaning as in Schedule 1 to the Local Government Pension Scheme Regulations 2013.
 
-## 10. Interfund adjustments etc.[^key-6bef092f41da92acd3e9a0ca5ccc8264]
+## 10. Interfund adjustments etc.[^c-6bef092f41da92acd3e9a0ca5ccc8264]
 
 (1) Paragraph (2) applies to a member in a fund—
 
@@ -877,7 +877,7 @@ in recognition of the difference in contribution rates between members of the pr
 
 (5) A member entitled to a refund of contributions from the Earlier Schemes, who becomes an active member of the 2014 Scheme, is entitled to a transfer value payment in relation to the benefits in respect of that membership, which is to be credited to the member’s active member account to purchase earned pension, with the transfer value payment and the amount of purchased earned pension being calculated in accordance with actuarial guidance issued by the Secretary of State and, where the new period of active membership is in a different fund, the authority which has ceased to be the member’s appropriate administering authority must make the transfer value payment to the authority that has become the member’s appropriate administering authority.
 
-(6)[^key-f67df8989636bf516787ac912fb40a39] A member with deferred benefits relating to the Earlier Schemes, who did not become a member of the 2014 Scheme by virtue of regulation 5(1) of these Regulations (membership of the 2014 Scheme), but who subsequently becomes an active member of the 2014 Scheme may—
+(6)[^c-f67df8989636bf516787ac912fb40a39] A member with deferred benefits relating to the Earlier Schemes, who did not become a member of the 2014 Scheme by virtue of regulation 5(1) of these Regulations (membership of the 2014 Scheme), but who subsequently becomes an active member of the 2014 Scheme may—
 
 - (a) within 12 months of the active member’s pension account being opened, or
 - (b) such longer time as the Scheme employer permits,
@@ -894,7 +894,7 @@ elect to receive a transfer value payment in relation to the deferred benefits t
 
 (10) Where the deferred benefits or deferred refund under paragraph (1) arise from the cessation of variable-time employment and the new active membership is not variable-time employment, the formula in regulation 87(2) (changes of fund and variable-time employees) of the Administration Regulations must be applied in order to determine the rights to which the member is entitled for the purposes of paragraph (2).
 
-## 11. Retirement benefits[^key-2bfa237ee32060a2eebf78ad186c70b2]
+## 11. Retirement benefits[^c-2bfa237ee32060a2eebf78ad186c70b2]
 
 (1) A member who became an active member of the Scheme by virtue of regulation 5(1) of these Regulations (membership of the 2014 Scheme) must, upon drawing a retirement pension under regulation 30 (retirement pension), 35 (early payment of retirement pension on ill-health grounds: active members) or 38 (early payment of retirement pension on ill-health grounds: deferred and deferred pensioner members) of the 2013 Regulations, draw any aggregated benefits accrued in the 1998 Scheme and 2008 Scheme at the same time as those benefits accrued under the 2014 Scheme are drawn.
 
@@ -914,7 +914,7 @@ elect to receive a transfer value payment in relation to the deferred benefits t
 - (c) additional pension purchased under regulation 16 of the 2013 Regulations (additional pension contributions) or regulation 23 of the Administration Regulations (payment of additional regular contributions) and regulation 14 of the Benefits Regulations (election in respect of additional pension);
 - (d) additional pension awarded under regulation 31 of the 2013 Regulations (award of additional pension) or regulation 13 of the Benefits Regulations (power of employing authority to award additional pension).
 
-## 12. Ill-health retirement[^key-2d0e412ed1d5e6b404f0bd6608ad21d6]
+## 12. Ill-health retirement[^c-2d0e412ed1d5e6b404f0bd6608ad21d6]
 
 (1) A member who qualifies for Tier 1 or Tier 2 benefits under the 2013 Regulations who would have benefited from the protection in regulation 20(13) of the Benefits Regulations (transitional protection for those aged 45 before 1st April 2008)[^f00015] if those Regulations had applied on the date the member’s employment was terminated, is entitled to benefits equalling the higher of—
 
@@ -935,7 +935,7 @@ elect to receive a transfer value payment in relation to the deferred benefits t
 
 (7) A person who has received an ill-health pension and grant under the Earlier Schemes, which for the purposes of this paragraph does not include the 2008 Scheme, is to be treated as if that person were in receipt of Tier 1 Benefits under the 2013 Regulations.
 
-## 13. Lump sum commutation[^key-6b517625136a827943f36e250e172b1a]
+## 13. Lump sum commutation[^c-6b517625136a827943f36e250e172b1a]
 
 (1) Where a member elects to commute pension under regulation 33 of the 2013 Regulations (election for lump sum instead of pension) the member’s benefits under the Earlier Schemes which are aggregated with the member’s benefits under the 2014 Scheme are taken into account for the purposes of regulation 33(1) and (2) of the 2013 Regulations.
 
@@ -945,7 +945,7 @@ elect to receive a transfer value payment in relation to the deferred benefits t
 
 (4) Pension accrued under the Earlier Schemes is treated as reduced by that percentage of the amount of the pension commuted which the amount of pre-commutation pension under the Earlier Schemes bears to the total pre-commutation pension.
 
-## 14. Contributions[^key-ae14f912397a666a450af01138864fc0]
+## 14. Contributions[^c-ae14f912397a666a450af01138864fc0]
 
 (1) Notwithstanding the revocations effected by regulation 2 of these Regulations (revocation of regulations), the Administration Regulations and the Benefits Regulations continue to have effect so far as is necessary to ensure that where—
 
@@ -954,61 +954,61 @@ elect to receive a transfer value payment in relation to the deferred benefits t
 
 any contributions that the member makes after 1st April 2014 in respect of the absence or that pay must be allocated according to the period to which they relate and benefits are accrued accordingly.
 
-(2) A member entitled to a refund of contributions (including additional contributions)[^key-44dfba04f44374671210583a15e372c3] under regulation 18 of the 2013 Regulations (rights to return of contributions) who has paid contributions under the Earlier Schemes and has aggregated the periods in which those contributions were paid with membership of the 2014 Scheme, is entitled to a refund of the contributions paid to the Earlier Schemes in respect of that aggregated membership.
+(2) A member entitled to a refund of contributions (including additional contributions)[^c-44dfba04f44374671210583a15e372c3] under regulation 18 of the 2013 Regulations (rights to return of contributions) who has paid contributions under the Earlier Schemes and has aggregated the periods in which those contributions were paid with membership of the 2014 Scheme, is entitled to a refund of the contributions paid to the Earlier Schemes in respect of that aggregated membership.
 
-## 15. Additional contributions[^key-16da41e6584a9924a126d909b1dfdade]
+## 15. Additional contributions[^c-16da41e6584a9924a126d909b1dfdade]
 
 (1) Notwithstanding the revocations effected by regulation 2 of these Regulations (revocation of regulations) the following regulations continue to have effect—
 
 - (a) regulation 55 of the 1997 Regulations (payments to increase total membership) as it applies to a member who has elected before 1st April 2008 to make additional contributions to increase total membership by an additional period;
-- (b)[^key-305d148c7cf47b4b8068d4fca8c69dee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-305d148c7cf47b4b8068d4fca8c69dee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation 83 of the 1997 Regulations (discontinuance of additional contributions) in respect of a person to whom sub-paragraph (a) applies; and
-- (d)[^key-6daa0cc17b54088320f8f8d280c2e2a4] regulation 14 (election in respect of additional pension) and 14A (election to pay additional contributions: survivor benefits) of the Benefits Regulations and regulations 23, 24, 24A and 24B of the Administration Regulations (payment, discontinuance and use of additional contributions) as they apply to a member who has elected before 1st April 2014 to pay additional contributions under those regulations.
+- (d)[^c-6daa0cc17b54088320f8f8d280c2e2a4] regulation 14 (election in respect of additional pension) and 14A (election to pay additional contributions: survivor benefits) of the Benefits Regulations and regulations 23, 24, 24A and 24B of the Administration Regulations (payment, discontinuance and use of additional contributions) as they apply to a member who has elected before 1st April 2014 to pay additional contributions under those regulations.
 
 (2) Benefits accrued under the regulations preserved by paragraph (1) must be calculated using the normal retirement age under the 2008 Scheme and treated as benefits under that Scheme.
 
-(2A)[^key-47dccb06163efe22ff58f892ad95d3ea] Regulation 17 of the 2013 Regulations (additional voluntary contributions) applies to an AVC arrangement entered into before 1st April 2014 as it applies to an AVC arrangement entered into on or after that date save that—
+(2A)[^c-47dccb06163efe22ff58f892ad95d3ea] Regulation 17 of the 2013 Regulations (additional voluntary contributions) applies to an AVC arrangement entered into before 1st April 2014 as it applies to an AVC arrangement entered into on or after that date save that—
 
 - (a) the normal pension age in an AVC arrangement entered into before 1st April 2014 is the normal retirement age under the 2008 Scheme; and
 - (b) regulation 66(8) of the 1997 Regulations (persons making elections in relation to AVCs prior to 13th November 2001) continues to have effect in relation to persons of the description in that regulation .
 
 (3) Notwithstanding regulation 17(11) of the 2013 Regulations (additional voluntary contributions), a person to whom regulation 5(1) applies (membership of the 2014 Scheme) who has had no continuous break in active membership of a public service pension scheme of more than five years, may elect not to transfer the realisable value in any deferred AVC account to an arrangement under regulation 17 of the 2013 Regulations.
 
-(4)[^key-9d42b7ab0e4d3ce38a77064e05a22e3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9d42b7ab0e4d3ce38a77064e05a22e3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) For the purposes of paragraph (2A)[^key-37db8a3ca2ee8b74bcbc13aa3db0bff8], an AVC arrangement is to be regarded as having been entered into on whichever is the earlier of the date the AVC election form was received by the administering authority or the date the AVC election form was received by the Scheme employer.
+(5) For the purposes of paragraph (2A)[^c-37db8a3ca2ee8b74bcbc13aa3db0bff8], an AVC arrangement is to be regarded as having been entered into on whichever is the earlier of the date the AVC election form was received by the administering authority or the date the AVC election form was received by the Scheme employer.
 
-## 16. Annual allowance[^key-4588a1d89cac12133e1a074f7ba92dac]
+## 16. Annual allowance[^c-4588a1d89cac12133e1a074f7ba92dac]
 
 If a member gives the administering authority notice of joint and several liability under section 237B of the Finance Act 2004[^f00024] (liability of scheme administrator) in respect of the member’s annual allowance charge after 1st April 2014, the administering authority may adjust the member’s benefits accrued within the Earlier Schemes in accordance with actuarial guidance issued by the Secretary of State.
 
-## 17. Survivor benefits[^key-1e13c74f18af21c6ab811bd87d6b6dad]
+## 17. Survivor benefits[^c-1e13c74f18af21c6ab811bd87d6b6dad]
 
 (1) Except where regulation 10(4) of these Regulations (interfund adjustments etc: deferred members rejoining after five year break in membership) applies, survivor pensions in the case of a survivor of a person who became an active member of the 2014 Scheme by virtue of regulation 5(1) of these Regulations (membership of the 2014 Scheme) are calculated by adding together the 2008 Scheme survivor pension and the 2014 Scheme survivor pension.
 
-(2) Subject to paragraphs (16A) to (16F)[^key-afc81b57a4e42ff507578074cd3670d2], 2008 Scheme survivor pensions for the purposes of paragraph (1) are calculated under the 2008 Scheme, notwithstanding the revocations effected by regulation 2 of these Regulations (revocation of regulations), taking account of the deceased member’s membership up to 31st March 2014 but—
+(2) Subject to paragraphs (16A) to (16F)[^c-afc81b57a4e42ff507578074cd3670d2], 2008 Scheme survivor pensions for the purposes of paragraph (1) are calculated under the 2008 Scheme, notwithstanding the revocations effected by regulation 2 of these Regulations (revocation of regulations), taking account of the deceased member’s membership up to 31st March 2014 but—
 
 - (a) in the case of a death in service where a survivor benefit is payable under regulations 41 or 42 of the 2013 Regulations (survivor benefits for partners and children of active members), excluding any augmentation under regulation 20(2) of the Benefits Regulations (early leavers: ill-health), and
 - (b) using final pay calculated in accordance with regulations 8 to 11 of the Benefits Regulations (calculation of final pay) as if those Regulations were still in force.
 
 (3) 2014 Scheme survivor pensions for the purposes of paragraph (1) are calculated in accordance with the 2013 Regulations.
 
-(4) Subject to paragraphs (16A) to (16F)[^key-03d3988cfaabd91cf397a5de2646536d], where—
+(4) Subject to paragraphs (16A) to (16F)[^c-03d3988cfaabd91cf397a5de2646536d], where—
 
 - (a) a member did not accrue any membership in the 2014 Scheme but had pension rights under the Earlier Schemes, or
 - (b) a member did accrue membership in the 2014 Scheme and has pension rights under the Earlier Schemes that have not been aggregated with the rights in the 2014 Scheme,
 
 the survivor pension in respect of the rights under the Earlier Schemes are calculated under the Earlier Schemes notwithstanding the revocations effected by regulation 2 of these Regulations (revocation of regulations).
 
-(5) Subject to paragraph (8A), death grants[^key-073bc3c54d45646372a8dd70f158c01a] in the case of a member who did not accrue any membership of the 2014 Scheme are calculated under the Earlier Schemes notwithstanding the revocations effected by regulation 2 of these Regulations (revocation of regulations).
+(5) Subject to paragraph (8A), death grants[^c-073bc3c54d45646372a8dd70f158c01a] in the case of a member who did not accrue any membership of the 2014 Scheme are calculated under the Earlier Schemes notwithstanding the revocations effected by regulation 2 of these Regulations (revocation of regulations).
 
 (6) Subject to paragraph (7), death grants in the case of an active member who accrued any membership of the 2014 Scheme are calculated under regulation 40 of the 2013 Regulations (death grants: active members) regardless of whether the member had accrued any membership of the Earlier Schemes (excluding membership deriving from a pension credit).
 
-(7) In the case of an active member of the 2014 Scheme who is also a deferred, deferred pensioner or pensioner member of the Earlier Schemes, if the amount of death grant that would have been payable if regulations 32 and 35 of the Benefits Regulations, or the corresponding provisions under any of the other Earlier Regulations, (death grants: deferred and pensioner members) still applied (subject to the modifications in paragraph (8A))[^key-1f634ee8825a62ac0befed330a19b143] is higher than the amount that would be payable under paragraph (6), the death grant payable is that higher amount.
+(7) In the case of an active member of the 2014 Scheme who is also a deferred, deferred pensioner or pensioner member of the Earlier Schemes, if the amount of death grant that would have been payable if regulations 32 and 35 of the Benefits Regulations, or the corresponding provisions under any of the other Earlier Regulations, (death grants: deferred and pensioner members) still applied (subject to the modifications in paragraph (8A))[^c-1f634ee8825a62ac0befed330a19b143] is higher than the amount that would be payable under paragraph (6), the death grant payable is that higher amount.
 
-(8) Death grants in the case of a deferred, deferred pensioner or pensioner member of the 2014 Scheme who has membership accrued before 1st April 2014 are calculated by adding together the death grant calculated under the Earlier Schemes (subject to the modifications in paragraph (8A))[^key-33d6145b69469e99acc2d48b9ea61dc9] based on the membership accrued before 1st April 2014, and the death grant calculated under the 2014 Scheme based on membership after 31st March 2014.
+(8) Death grants in the case of a deferred, deferred pensioner or pensioner member of the 2014 Scheme who has membership accrued before 1st April 2014 are calculated by adding together the death grant calculated under the Earlier Schemes (subject to the modifications in paragraph (8A))[^c-33d6145b69469e99acc2d48b9ea61dc9] based on the membership accrued before 1st April 2014, and the death grant calculated under the 2014 Scheme based on membership after 31st March 2014.
 
-(8A)[^key-8bdb9dd7450d6160fbb3ce2701ea558a] For the purposes of determining whether and to whom a death grant is payable under the Earlier Schemes—
+(8A)[^c-8bdb9dd7450d6160fbb3ce2701ea558a] For the purposes of determining whether and to whom a death grant is payable under the Earlier Schemes—
 
 - (a) the Benefits Regulations have effect as if—
   - (i) regulation 23(5) (death grants: active members) were omitted;
@@ -1025,23 +1025,23 @@ the survivor pension in respect of the rights under the Earlier Schemes are calc
     - (bb) paragraph (5) were omitted;
 - (c) the 1995 Regulations have effect as if regulation E8(5) (nomination of beneficiary of death grant) were omitted.
 
-(9)[^key-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15)[^key-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(16)[^key-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(16)[^c-3b0ec41cb688bccecdd67c6911155d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(16A)[^key-9db978b93405fe91a632781a1a74f97c] For the purposes of determining eligibility of a person to survivor benefits under the Earlier Schemes—
+(16A)[^c-9db978b93405fe91a632781a1a74f97c] For the purposes of determining eligibility of a person to survivor benefits under the Earlier Schemes—
 
 - (a) the Earlier Regulations have effect as if, for the definition of “eligible child” contained in—
   - (i) regulation 26 of the Benefits Regulations (meaning of “**eligible child**”),
@@ -1106,7 +1106,7 @@ the survivor pension in respect of the rights under the Earlier Schemes are calc
 
 (16F) Paragraph (16B)(b)(iv) is treated as having no effect before 31st December 2019.
 
-(17)[^key-c24bc233f085fcf55d92b3bb1a58f64f] In this regulation—
+(17)[^c-c24bc233f085fcf55d92b3bb1a58f64f] In this regulation—
 
 - “opposite-sex civil partnership” means a civil partnership formed between two persons who are not of the same sex;
 - “same-sex civil partnership” means a civil partnership formed between two persons who are of the same sex;
@@ -1114,17 +1114,17 @@ the survivor pension in respect of the rights under the Earlier Schemes are calc
 - “surviving opposite-sex civil partner of a member” means a person who, at the time of a member’s death, was in a civil partnership with the member and was of the opposite sex to the member; and
 - “surviving spouse of a same sex marriage with a member” means a person who, at the time of a member’s death, was married to the member and was of the same sex as the member.
 
-## 18. The 85 year rule[^key-10bf1a985236a92e6cf5c1a5f463fc1b]
+## 18. The 85 year rule[^c-10bf1a985236a92e6cf5c1a5f463fc1b]
 
 Schedule 2 (which makes transitional provision relating to the so-called “85 year rule”) has effect.
 
-## 19. Appropriate funds[^key-804197e3f71ed5a1a3372c5b572d4bec]
+## 19. Appropriate funds[^c-804197e3f71ed5a1a3372c5b572d4bec]
 
-(1)[^key-526520e21f228d9db3d626ece955c7ad] The pension funds which are the appropriate funds for members of the 1998 Scheme or the 2008 Scheme who do not become members of the 2014 Scheme continue to be the appropriate funds for those members unless changed in accordance with the 2013 Regulations.
+(1)[^c-526520e21f228d9db3d626ece955c7ad] The pension funds which are the appropriate funds for members of the 1998 Scheme or the 2008 Scheme who do not become members of the 2014 Scheme continue to be the appropriate funds for those members unless changed in accordance with the 2013 Regulations.
 
 (2) Any direction given by the Secretary of State under paragraphs 2B or 3 of Part 1 of Schedule 4 to the Administration Regulations (appropriate funds)[^f00025] before 1st April 2014 continues to have effect notwithstanding the revocations effected by regulation 2 of these Regulations (revocation of regulations).
 
-## 20. Pension sharing[^key-77671097b15d1110caa41023fed09ea9]
+## 20. Pension sharing[^c-77671097b15d1110caa41023fed09ea9]
 
 (1) A valuation of benefits of a person who is a member of the 2014 Scheme shall, for the purposes of a pension sharing order which has an effective date on or after 1st April 2014, take account of any benefits the member has accrued in the Earlier Schemes.
 
@@ -1134,21 +1134,21 @@ Schedule 2 (which makes transitional provision relating to the so-called “85 y
 
 (4) Where a pension sharing order requires a pension debit in terms other than a percentage of a member’s pension benefits, the debit is to apply in proportion to the cash equivalent transfer value of the benefits accrued within the Earlier Schemes and the 2014 Scheme unless the order specifies otherwise.
 
-## 21. Mis-sold personal pensions[^key-f9375eea46848c2b9fdd5c8ca9081380]
+## 21. Mis-sold personal pensions[^c-f9375eea46848c2b9fdd5c8ca9081380]
 
 Regulations 108A (provision of information, charging and prescribed persons)[^f00026] and 122A of the 1997 Regulations (credited periods for transferring members with mis-sold pension rights) are preserved so far as is necessary to ensure that administering authorities are under a duty to provide information requested to a prescribed person as to the restitution payment applicable to an individual, but no membership may be granted under the 1998 Scheme or the 2008 Scheme in relation to a restitution payment.
 
-## 22. Scheme employers’ obligations[^key-be8da9f4d9e3ad9576125cdd5f4c7810]
+## 22. Scheme employers’ obligations[^c-be8da9f4d9e3ad9576125cdd5f4c7810]
 
 (1) Scheme employers must provide administering authorities with such information as administering authorities reasonably require to enable them to discharge their functions under these Regulations and any outstanding functions under the Earlier Regulations.
 
 (2) An administering authority may give a written notice under regulation 70 of the 2013 Regulations (additional costs arising from Scheme employer’s level of performance) where the additional costs incurred were as a result of the employer’s level of performance in carrying out functions under the Administration or Benefits Regulations.
 
-## 23. Decisions and adjudications of disagreements[^key-6c329c71475f7593ad34afde664a7f4b]
+## 23. Decisions and adjudications of disagreements[^c-6c329c71475f7593ad34afde664a7f4b]
 
 Regulations 72 to 80 (decisions and adjudications) of the 2013 Regulations apply in respect of questions not finally determined by 1st April 2014 concerning the rights and liabilities of a person under the Earlier Schemes as they apply to questions under the 2014 Scheme.
 
-## 24. Special cases[^key-04af58332a579f95bc6e68ce78b5559a]
+## 24. Special cases[^c-04af58332a579f95bc6e68ce78b5559a]
 
 (1) A person who was an active member of the 2008 Scheme on 31st March 2014 by virtue of or subject to the terms of any statutory provision which varied the application of the generality of any of the Earlier Regulations continues to be an active member in the 2014 Scheme from 1st April 2014, provided that person is eligible for membership on that date and, subject to this regulation, any variation of the application of any of those regulations to that person applies in respect of the application of the 2013 Regulations to that person, with any necessary modifications.
 
@@ -1158,12 +1158,12 @@ Regulations 72 to 80 (decisions and adjudications) of the 2013 Regulations apply
 
 (4) For a person to whom regulation 15 of the 2008 Scheme Transitional Regulations (civil servants transferred to the Environment Agency)[^f00029] applies—
 
-- (a)[^key-8b7b9c2e7853a5f0f9622317788e33c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8b7b9c2e7853a5f0f9622317788e33c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) regulation 18 of and Schedule 2 to these Regulations (the 85 year rule) do not apply.
 
 (5) Notwithstanding the revocation of regulation 23 of the 1997 Transitional Regulations (former NHS scheme members)[^f00030] and regulations 129 (miscellaneous transport employees) and 130 (miscellaneous airport employees) of the 1997 Regulations by the 2008 Scheme Transitional Regulations, those regulation have effect as if they had never been revoked.
 
-## 25. Pension increases under the Pensions (Increase) Acts[^key-94fe847d733d08c8f3205458076a1cb4]
+## 25. Pension increases under the Pensions (Increase) Acts[^c-94fe847d733d08c8f3205458076a1cb4]
 
 (1) This regulation applies—
 
@@ -1205,7 +1205,7 @@ Regulations 72 to 80 (decisions and adjudications) of the 2013 Regulations apply
   of the 1997 Regulations; or
 - (c) a company under the control of a Scheme employer.
 
-## 25A. Employer contributions for historic liabilities[^key-c9d1da1493031e99e65410d5feaeb011]
+## 25A. Employer contributions for historic liabilities[^c-c9d1da1493031e99e65410d5feaeb011]
 
 (1) This regulation applies to an employer who—
 
@@ -1220,7 +1220,7 @@ Regulations 72 to 80 (decisions and adjudications) of the 2013 Regulations apply
 
 (4) When an employer has paid the contributions referred to in paragraph (2), no further payments are due from that employer in respect of those liabilities to the relevant fund relating to the benefits in respect of any current or former employees of that employer.
 
-## 26. Councillor pensions[^key-8b13b2954e0ce305528fcd40daa97177]
+## 26. Councillor pensions[^c-8b13b2954e0ce305528fcd40daa97177]
 
 (1) Notwithstanding the revocation of the 1997 Regulations, they continue to have effect in respect of councillor members and their councillor membership, with the modifications set out in Schedule 8 to those Regulations[^f00036]—
 
@@ -1245,11 +1245,11 @@ Department for Communities and Local Government
 
 SCHEDULES
 
-## SCHEDULE 1[^key-e2fc51133905a78d090daa9f46ebb8dc]
+## SCHEDULE 1[^c-e2fc51133905a78d090daa9f46ebb8dc]
 
 Regulation 2
 
-[^key-e2fc51133905a78d090daa9f46ebb8dc]
+[^c-e2fc51133905a78d090daa9f46ebb8dc]
 
 - The Local Government Pension Scheme Regulations 1995[^f00037] in so far as they have not already been revoked;
 - The Local Government Pension Scheme Regulations 1997[^f00038] in so far as they have not already been revoked;
@@ -1272,17 +1272,17 @@ Regulation 2
 
 Regulation 18
 
-**1.**[^key-6f3e2bf0c27341526770baa81a622169] (1) Paragraph 1(3) applies where a member of the description in paragraph 3(1) or (2) makes a request to receive immediate payment of retirement benefits under—
+**1.**[^c-6f3e2bf0c27341526770baa81a622169] (1) Paragraph 1(3) applies where a member of the description in paragraph 3(1) or (2) makes a request to receive immediate payment of retirement benefits under—
 
-- (a) regulations 30(1) (choice of early payment of pension) or 30A (choice of payment of pension: pensioner member with deferred benefits)[^f00053] of the Benefits Regulations if the member was aged 60 or over at the date of making the request[^key-34352e30cf69ff52e66a827cd037d952];
-- (aa)[^key-2fc1b3d3ee6e6593d8173fc6705a4069] regulation 30(1) (choice of early payment of pension) or 30A (choice of payment of pension: pensioner member with deferred benefits) of the Benefits Regulations, if the member is aged 55 or over but aged under 60 at the date of making the request and the former Scheme employer or, where the former Scheme employer has ceased to be a Scheme employer, the administering authority, agrees that paragraph 1(3) of this Schedule should apply;
+- (a) regulations 30(1) (choice of early payment of pension) or 30A (choice of payment of pension: pensioner member with deferred benefits)[^f00053] of the Benefits Regulations if the member was aged 60 or over at the date of making the request[^c-34352e30cf69ff52e66a827cd037d952];
+- (aa)[^c-2fc1b3d3ee6e6593d8173fc6705a4069] regulation 30(1) (choice of early payment of pension) or 30A (choice of payment of pension: pensioner member with deferred benefits) of the Benefits Regulations, if the member is aged 55 or over but aged under 60 at the date of making the request and the former Scheme employer or, where the former Scheme employer has ceased to be a Scheme employer, the administering authority, agrees that paragraph 1(3) of this Schedule should apply;
 - (b) regulation 30(5) (retirement benefits: early retirement) of the 2013 Regulations if the member was aged 60 or over at the date of making the request;
-- (c) regulation 30(5) (retirement benefits: early retirement) of the 2013 Regulations, or regulations 30(1) (choice of early pension) or 30A (choice of payment of pension: pensioner member with deferred benefits) of the Benefits Regulations,[^key-a4767f263c6d8ec2b8b9f725b155e39c] if the member is aged 55 or over but aged under 60 at the date of making the request and the Scheme employer agrees that paragraph 1(3) of this Schedule should apply; [^key-a7c7d45a05ab0f302044a81704f8a034]...
+- (c) regulation 30(5) (retirement benefits: early retirement) of the 2013 Regulations, or regulations 30(1) (choice of early pension) or 30A (choice of payment of pension: pensioner member with deferred benefits) of the Benefits Regulations,[^c-a4767f263c6d8ec2b8b9f725b155e39c] if the member is aged 55 or over but aged under 60 at the date of making the request and the Scheme employer agrees that paragraph 1(3) of this Schedule should apply; [^c-a7c7d45a05ab0f302044a81704f8a034]...
 - (d) regulation 30(6) (retirement benefits: flexible retirement) of the 2013 Regulations.
-- (e)[^key-b578dc891be5564b26e692ccd0948118] regulation 31(1) of the 1997 Regulations (other early leavers: deferred retirement benefits and elections for early payment) if the member was aged 60 or over at the date of making the request; or
+- (e)[^c-b578dc891be5564b26e692ccd0948118] regulation 31(1) of the 1997 Regulations (other early leavers: deferred retirement benefits and elections for early payment) if the member was aged 60 or over at the date of making the request; or
 - (f) regulation 31(1) of the 1997 Regulations (other early leavers: deferred retirement benefits and elections for early payment) if the member is aged 55 or over but aged under 60 at the date of making the request and the former employing authority or, where the former employing authority has ceased to be a Scheme employer, the administering authority, agrees that paragraph 1(3) of this Schedule should apply.
 
-(2) Paragraph 1(4) applies where paragraph 1(1)(aa), 1(1)(c) or 1(1)(f)[^key-564d4c8dadf19d8d98ea03e91e3fb7bf] would otherwise apply, but the member’s Scheme employer does not agree that paragraph 1(3) of this Schedule should apply.
+(2) Paragraph 1(4) applies where paragraph 1(1)(aa), 1(1)(c) or 1(1)(f)[^c-564d4c8dadf19d8d98ea03e91e3fb7bf] would otherwise apply, but the member’s Scheme employer does not agree that paragraph 1(3) of this Schedule should apply.
 
 (3) Where this sub-paragraph applies—
 
@@ -1296,22 +1296,22 @@ Regulation 18
 
 (5) In this Schedule, references to a Scheme employer are to be read as including a former employer which is a Scheme employer, or where a member’s employer or former employer has ceased to be a Scheme employer, the appropriate administering authority.
 
-**2.**[^key-4d1af638c5ae4006ef272a9e70913274] (1) A member’s Scheme employer may determine on compassionate grounds to waive the reduction referred to in paragraph 1(4), 9(2) or, except where paragraph 1(1)(d) applies, paragraph 1(3)(b)[^key-2a70bba47f4f9aeaf92b3b3e32030200].
+**2.**[^c-4d1af638c5ae4006ef272a9e70913274] (1) A member’s Scheme employer may determine on compassionate grounds to waive the reduction referred to in paragraph 1(4), 9(2) or, except where paragraph 1(1)(d) applies, paragraph 1(3)(b)[^c-2a70bba47f4f9aeaf92b3b3e32030200].
 
-(1A)[^key-052cf766fd0557fdd745b29a1f7d34ea] A member’s Scheme employer may determine to waive in whole or in part the reduction referred to in paragraph 1(3)(b) where paragraph 1(1)(d) applies in relation to that paragraph.
+(1A)[^c-052cf766fd0557fdd745b29a1f7d34ea] A member’s Scheme employer may determine to waive in whole or in part the reduction referred to in paragraph 1(3)(b) where paragraph 1(1)(d) applies in relation to that paragraph.
 
 (2) Regulation 60 of the 2013 Regulations (statements of policy about exercise of discretionary functions) applies to paragraph 1(1)(c) of this Schedule and to this paragraph as if they were specified in paragraph (1) of that regulation.
 
-(3) Where a Scheme employer agrees [^key-fd509d114023bd1332e9a28808f84ebb]... that paragraph 1(1)(aa), 1(1)(c) or 1(1)(f)[^key-7c93d172e9dc4f3be7e7c77f8b118903] of this Schedule should apply to a member, or determines to waive a reduction under sub-paragraph (1), an administering authority may require the Scheme employer concerned to make additional payments to the appropriate fund in respect of any extra charge on the fund, as calculated by an actuary appointed by the administering authority, resulting from the agreement or waiver of reduction.
+(3) Where a Scheme employer agrees [^c-fd509d114023bd1332e9a28808f84ebb]... that paragraph 1(1)(aa), 1(1)(c) or 1(1)(f)[^c-7c93d172e9dc4f3be7e7c77f8b118903] of this Schedule should apply to a member, or determines to waive a reduction under sub-paragraph (1), an administering authority may require the Scheme employer concerned to make additional payments to the appropriate fund in respect of any extra charge on the fund, as calculated by an actuary appointed by the administering authority, resulting from the agreement or waiver of reduction.
 
-**3.**[^key-76e09253c01f964e393180217c578fbd] (1) For the purposes of paragraph 1, the relevant date for a member who will be aged 60 or more on 31st March 2016 and who was a member of the 1998 Scheme before 1st October 2006, is the earlier of—
+**3.**[^c-76e09253c01f964e393180217c578fbd] (1) For the purposes of paragraph 1, the relevant date for a member who will be aged 60 or more on 31st March 2016 and who was a member of the 1998 Scheme before 1st October 2006, is the earlier of—
 
 - (a) 1st April 2016, and
 - (b) the date on the day after the day on which the member leaves local government employment.
 
 (2) For the purposes of paragraph 1, the relevant date for a member who will not be aged 60 or more on 31st March 2016, but who was a member of the 1998 Scheme before 1st October 2006, is 1st April 2008.
 
-**4.**[^key-604e637c6daeaaa916d1e7bcec72766f] (1) For the purposes of this Schedule, a member satisfies the 85 year rule if the sum of—
+**4.**[^c-604e637c6daeaaa916d1e7bcec72766f] (1) For the purposes of this Schedule, a member satisfies the 85 year rule if the sum of—
 
 - (a) the member’s age in whole years on the date the request is made under paragraph 1;
 - (b) the member’s total membership in whole years;
@@ -1325,22 +1325,22 @@ is 85 years or more.
 - (a) the periods of membership taken into account are—
   - (i) the total membership the member accrued under the Earlier Schemes which counts as membership in relation to the employment in respect of which the member has made a request to receive immediate payment of retirement benefits under paragraph 1, plus
   - (ii) the period during which the member paid, or is treated as having paid, contributions under regulations 9 or 10 of the 2013 Regulations (contributions and temporary reduction in contributions), plus
-  - (iii) any period after 31st March 2014 of unpaid absence due to industrial action, or absence from work with permission with no pensionable pay otherwise than because of illness or injury, child related leave or reserve forces service leave, if contributions have been paid under regulation 11 (5) of the 2013 Regulations (absences of fewer than 15 days) or[^key-03e82fce1b065f1ba93f100813e0bf5c] regulation 16 of the 2013 Regulations (additional pension contributions) to cover that period, and
+  - (iii) any period after 31st March 2014 of unpaid absence due to industrial action, or absence from work with permission with no pensionable pay otherwise than because of illness or injury, child related leave or reserve forces service leave, if contributions have been paid under regulation 11 (5) of the 2013 Regulations (absences of fewer than 15 days) or[^c-03e82fce1b065f1ba93f100813e0bf5c] regulation 16 of the 2013 Regulations (additional pension contributions) to cover that period, and
 - (b) no account is to be taken of—
   - (i) any increase in membership awarded under regulations 12 (power of employing authority to increase total membership of active members) or 12B (conversion of periods under Discretionary Compensation Regulations etc into membership)[^f00054] of the Benefits Regulations,
   - (ii) any membership credited after 1st October 2012 under regulation 84 (right to count credited period) of the Administration Regulations or regulation 9 of these Regulations (transfers),
   - (iii) any membership credited under regulation 40A (Water Act company pensions: Environment Agency payments)[^f00055] of the Administration Regulations, or
   - (iv) subject to paragraph 5, any period on or after the date specified in regulation 32(4) of the 2013 Regulations (commencement of pensions following flexible retirement) or the date benefits became payable under regulations 18[^f00056] or 18A[^f00057] of the Benefits Regulations or regulation 35(1A) of the 1997[^f00058] Regulations (retirement benefits: flexible retirement).
 
-**5.**[^key-9b3df30923c0431f18dd14afa3579162] (1) This paragraph applies to a member who received immediate payment under regulation 30(6) of the 2013 Regulations, regulation 18 or 18A of the Benefits Regulations, or regulation 35(1A) of the 1997 Regulations (retirement benefits: flexible retirement) of some, but not all, of the benefits to which that member was entitled.
+**5.**[^c-9b3df30923c0431f18dd14afa3579162] (1) This paragraph applies to a member who received immediate payment under regulation 30(6) of the 2013 Regulations, regulation 18 or 18A of the Benefits Regulations, or regulation 35(1A) of the 1997 Regulations (retirement benefits: flexible retirement) of some, but not all, of the benefits to which that member was entitled.
 
 (2) Where this paragraph applies, this Schedule, with the exception of paragraph 4(2)(b)(iv), continues to apply to any undrawn benefits accrued by the member before the date the member started to receive payment of benefits under those regulations.
 
-**6.**[^key-17c99dda7bc43c4700b24e2a6d4b66b0] (1) This paragraph applies to a member to whom regulation 4 of the 2008 Scheme Transitional Regulations (membership accrued before 1st April 2008: deferred members), regulation 16 of the Administration Regulations (re-employed and rejoining deferred members), or regulation 10(1) of these Regulations (interfund adjustments) applies.
+**6.**[^c-17c99dda7bc43c4700b24e2a6d4b66b0] (1) This paragraph applies to a member to whom regulation 4 of the 2008 Scheme Transitional Regulations (membership accrued before 1st April 2008: deferred members), regulation 16 of the Administration Regulations (re-employed and rejoining deferred members), or regulation 10(1) of these Regulations (interfund adjustments) applies.
 
 (2) Where such a member does not choose, or does not choose as respects all periods of membership, to be treated as if regulation 3 of the 2008 Scheme Transitional Regulations (membership accrued before 1st April 2008: active members) applies, or to have the member’s membership aggregated under regulation 16 of the Administration Regulations (re-employed and rejoining deferred members), or under regulation 22 of the 2013 Regulations (pension accounts), as the case may be, then in applying paragraphs 1 to 5 and 9 of this Schedule as respects any later membership, the total membership excludes unaggregated periods.
 
-**7.**[^key-d69f26cbbac237a53ae3296004f89e35] (1) This paragraph applies to a member who was a member of the 1998 Scheme before 1st October 2006 who—
+**7.**[^c-d69f26cbbac237a53ae3296004f89e35] (1) This paragraph applies to a member who was a member of the 1998 Scheme before 1st October 2006 who—
 
 - (a) before 1st October 2006 elected to make additional contributions to the Scheme to increase total membership under regulation 55(1) of the 1997 Regulations (payments to increase total membership); and
 - (b) was assumed to retire from a local government employment on a date before the member’s 65th birthday (“the assumed date”) for the purposes of calculating additional contributions under regulation 55(6) of the 1997 Regulations.
@@ -1354,7 +1354,7 @@ the member shall not pay any additional contributions after that date and the wh
 
 (3) An additional period counted as a period of total membership as a result of this paragraph shall be treated as a period of membership before 1st April 2008.
 
-**8.**[^key-da6cb7b7b366e4bc368af221fcc724df] (1) This paragraph applies to a person who was an active member of one of the Earlier Schemes before 1st October 2006 and who—
+**8.**[^c-da6cb7b7b366e4bc368af221fcc724df] (1) This paragraph applies to a person who was an active member of one of the Earlier Schemes before 1st October 2006 and who—
 
 - (a) ceases to be an active member of the 1998 Scheme, the 2008 Scheme or the 2014 Scheme (whether before, on, or after that date); and
 - (b) resumes active membership.
@@ -1366,7 +1366,7 @@ the member shall not pay any additional contributions after that date and the wh
 
 (3) A disqualifying break for the purposes of paragraph (2) is a continuous break in active membership of a public service pension scheme of more than five years.
 
-**9.**[^key-45012fe2b105b488bfbf684329bd1d1d] (1) This paragraph applies to a member who was a member before 1st October 2006, who will reach or has reached the age of 60 on or after 1st April 2016 and before 1st April 2020, and whose retirement benefits would (but for the provisions of this paragraph) have been actuarially reduced on account of the age at which they were drawn.
+**9.**[^c-45012fe2b105b488bfbf684329bd1d1d] (1) This paragraph applies to a member who was a member before 1st October 2006, who will reach or has reached the age of 60 on or after 1st April 2016 and before 1st April 2020, and whose retirement benefits would (but for the provisions of this paragraph) have been actuarially reduced on account of the age at which they were drawn.
 
 (2) That part of the member’s retirement benefits which is calculated by reference to any period of membership after 31st March 2008 shall be reduced in accordance with actuarial guidance issued by the Secretary of State.
 
@@ -1428,9 +1428,9 @@ No separate regulatory impact assessment has been produced for these Regulations
 
 [^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 12 was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7).
 
-[^key-46b7ac329fd2597a878df280ba93d8b6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/525) applied (with modifications) (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/972/regulation/13)
+[^c-46b7ac329fd2597a878df280ba93d8b6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/525) applied (with modifications) (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/972/regulation/13)
 
-[^key-feb30f6021e3a2a710a4e194d0fef0a7]: Commencement: Reg. 1 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-feb30f6021e3a2a710a4e194d0fef0a7]: Commencement: Reg. 1 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
 [^f00002]: Footnote: [S.I. 1974/520](https://www.legislation.gov.uk/uksi/1974/520); these regulations were revoked by [S.I. 1986/24](https://www.legislation.gov.uk/uksi/1986/24).
 
@@ -1450,43 +1450,43 @@ No separate regulatory impact assessment has been produced for these Regulations
 
 [^f00010]: Footnote: [S.I. 2007/1166](https://www.legislation.gov.uk/uksi/2007/1166).
 
-[^key-243a6b9c1edd8e42a11c7fb3abde6f93]: Textual amendment: Words in [reg. 1(6)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/6) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/2/a/i)
+[^c-243a6b9c1edd8e42a11c7fb3abde6f93]: Textual amendment: Words in [reg. 1(6)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/6) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/2/a/i)
 
 [^f00011]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 1 has amendments which are not relevant to this instrument.
 
-[^key-3d401413313bf67fe8260c0487088073]: Textual amendment: Words in [reg. 1(6)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/6) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/2/a/ii)
+[^c-3d401413313bf67fe8260c0487088073]: Textual amendment: Words in [reg. 1(6)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/6) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/2/a/ii)
 
-[^key-ce54f3734192e8b7852b7a0191206499]: Textual amendment: [Reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/7)[(8)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/8) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/2/b)
+[^c-ce54f3734192e8b7852b7a0191206499]: Textual amendment: [Reg. 1(7)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/7)[(8)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/8) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/2/b)
 
-[^key-0177be0397d7cceb8e0d23d11bccdd5f]: Commencement: Reg. 2 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-0177be0397d7cceb8e0d23d11bccdd5f]: Commencement: Reg. 2 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-913ac12bc73acc3ce2684e9cd0a82a4d]: Commencement: Reg. 3 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-913ac12bc73acc3ce2684e9cd0a82a4d]: Commencement: Reg. 3 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-75868dfec9dfe1fa3d94bd6ccbfc72e7]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/5A) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2018/493/regulation/24/a)
+[^c-75868dfec9dfe1fa3d94bd6ccbfc72e7]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/5A) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2018/493/regulation/24/a)
 
-[^key-644ce04f1b959f1583ba542af344e84d]: Textual amendment: [Reg. 3(5A)(a)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/5A/a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Local Government Pension Scheme (Miscellaneous Amendment) Regulations 2018 (S.I. 2018/1366)](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4)
+[^c-644ce04f1b959f1583ba542af344e84d]: Textual amendment: [Reg. 3(5A)(a)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/5A/a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Local Government Pension Scheme (Miscellaneous Amendment) Regulations 2018 (S.I. 2018/1366)](https://www.legislation.gov.uk/uksi/2018/1366), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1366/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1366/regulation/4)
 
-[^key-813c25a1e421fbe26dee6d06bb8cdd30]: Textual amendment: [Reg. 3(5B)-(5G)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/5B) inserted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35(1)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/35/1/a) (with [reg. 35(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/35/2))
+[^c-813c25a1e421fbe26dee6d06bb8cdd30]: Textual amendment: [Reg. 3(5B)-(5G)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/5B) inserted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [35(1)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/35/1/a) (with [reg. 35(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/35/2))
 
-[^key-4e66050f3c91e092d89876e4cfaaf8fb]: Textual amendment: [Reg. 3(5H)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/5H)[(5I)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/5I) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [35(1)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/35/1/b) (with [reg. 35(3)](https://www.legislation.gov.uk/uksi/2026/226/regulation/35/3))
+[^c-4e66050f3c91e092d89876e4cfaaf8fb]: Textual amendment: [Reg. 3(5H)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/5H)[(5I)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/5I) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [35(1)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/35/1/b) (with [reg. 35(3)](https://www.legislation.gov.uk/uksi/2026/226/regulation/35/3))
 
-[^key-c4ac4e44b66ad55df0512df86ea767d2]: Textual amendment: [Reg. 3(6A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/6A) inserted (with effect in accordance with of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(3)(i)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/3/i), [24(b)](https://www.legislation.gov.uk/uksi/2018/493/regulation/24/b)
+[^c-c4ac4e44b66ad55df0512df86ea767d2]: Textual amendment: [Reg. 3(6A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/3/6A) inserted (with effect in accordance with of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(3)(i)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/3/i), [24(b)](https://www.legislation.gov.uk/uksi/2018/493/regulation/24/b)
 
 [^f00012]: Footnote: Regulation 12A was inserted by [S.I. 2009/3150](https://www.legislation.gov.uk/uksi/2009/3150).
 
-[^key-59224eb2cb20b61a7dc574923050ad92]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/525/regulation/4) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/3)
+[^c-59224eb2cb20b61a7dc574923050ad92]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/525/regulation/4) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/3)
 
-[^key-83bc6d76be9fa86a798dc82775db44df]: Modification: Regs. 4A-4V restricted (14.7.2026 for the tax year 2014-15 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/673/regulation/15)
+[^c-83bc6d76be9fa86a798dc82775db44df]: Modification: Regs. 4A-4V restricted (14.7.2026 for the tax year 2014-15 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/673/regulation/15)
 
-[^key-4928340ccbf855e9158a1d7f749ce8fc]: Textual amendment: Regs. 4A-4V inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/4)
+[^c-4928340ccbf855e9158a1d7f749ce8fc]: Textual amendment: Regs. 4A-4V inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/4)
 
-[^key-6c625e2df871734131ee69b1885b2830]: Textual amendment: Word in [reg. 4F(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4F/1) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [36](https://www.legislation.gov.uk/uksi/2026/226/regulation/36)
+[^c-6c625e2df871734131ee69b1885b2830]: Textual amendment: Word in [reg. 4F(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4F/1) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [36](https://www.legislation.gov.uk/uksi/2026/226/regulation/36)
 
-[^key-261219b47acfdc4b31c631c30d7cd72d]: Textual amendment: [Reg. 4G](https://www.legislation.gov.uk/uksi/2014/525/regulation/4G) renumbered as reg. 4G(1) (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [37(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/37/a)
+[^c-261219b47acfdc4b31c631c30d7cd72d]: Textual amendment: [Reg. 4G](https://www.legislation.gov.uk/uksi/2014/525/regulation/4G) renumbered as reg. 4G(1) (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [37(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/37/a)
 
-[^key-c9b4fdc06cd90f3881f2258c74d871da]: Textual amendment: Words in [reg. 4G(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4G/1) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [37(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/37/b)
+[^c-c9b4fdc06cd90f3881f2258c74d871da]: Textual amendment: Words in [reg. 4G(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4G/1) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [37(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/37/b)
 
-[^key-ec47fba66a3e1780a85c90d2e0ddb811]: Textual amendment: [Reg. 4G(2)-(5)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4G/2) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [37(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/37/c)
+[^c-ec47fba66a3e1780a85c90d2e0ddb811]: Textual amendment: [Reg. 4G(2)-(5)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4G/2) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [37(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/37/c)
 
 [^f00013]: Footnote: Revaluation adjustment is defined in Schedule 1 to the 2013 Regulations.
 
@@ -1496,115 +1496,115 @@ No separate regulatory impact assessment has been produced for these Regulations
 
 [^f00016]: Footnote: Paragraph (2) was amended by [S.I. 2010/2090](https://www.legislation.gov.uk/uksi/2010/2090).
 
-[^key-f718122962d88966c0817cd14f32e84b]: Textual amendment: [Reg. 4I(1A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4I/1A) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [38](https://www.legislation.gov.uk/uksi/2026/226/regulation/38)
+[^c-f718122962d88966c0817cd14f32e84b]: Textual amendment: [Reg. 4I(1A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4I/1A) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [38](https://www.legislation.gov.uk/uksi/2026/226/regulation/38)
 
 [^f00017]: Footnote: Paragraph (3) was amended by [S.I. 2010/2090](https://www.legislation.gov.uk/uksi/2010/2090).
 
-[^key-ab26c7532f3e4c5ed9f3304cfb294e41]: Textual amendment: [Reg. 4J(1A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4J/1A) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [39](https://www.legislation.gov.uk/uksi/2026/226/regulation/39)
+[^c-ab26c7532f3e4c5ed9f3304cfb294e41]: Textual amendment: [Reg. 4J(1A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4J/1A) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [39](https://www.legislation.gov.uk/uksi/2026/226/regulation/39)
 
 [^f00018]: Footnote: Paragraph (4) was substituted by [S.I. 2011/561](https://www.legislation.gov.uk/uksi/2011/561).
 
-[^key-1e3d4275ec0fadac2d93ebf59481793a]: Textual amendment: Word in [reg. 4P(5)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4P/5) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [40](https://www.legislation.gov.uk/uksi/2026/226/regulation/40)
+[^c-1e3d4275ec0fadac2d93ebf59481793a]: Textual amendment: Word in [reg. 4P(5)](https://www.legislation.gov.uk/uksi/2014/525/regulation/4P/5) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [40](https://www.legislation.gov.uk/uksi/2026/226/regulation/40)
 
 [^f00019]: Footnote: Paragraphs (7), (8) and (11) were amended by [S.I. 2010/2090](https://www.legislation.gov.uk/uksi/2010/2090); paragraph (11) was also amended by [S.I. 2011/561](https://www.legislation.gov.uk/uksi/2011/561).
 
-[^key-f579fcbaf450afb91e4f8c721e10f395]: Commencement: Reg. 5 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-f579fcbaf450afb91e4f8c721e10f395]: Commencement: Reg. 5 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-b6d5661efd42fa62579b99acbff27d28]: Commencement: Reg. 6 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-b6d5661efd42fa62579b99acbff27d28]: Commencement: Reg. 6 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-259d184b5922b294111cdac71869aed4]: Commencement: Reg. 7 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-259d184b5922b294111cdac71869aed4]: Commencement: Reg. 7 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-15e96101e8e643d9da1742f3629ae7c9]: Textual amendment: [Reg. 7(5A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/7/5A) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2018/493/regulation/25)
+[^c-15e96101e8e643d9da1742f3629ae7c9]: Textual amendment: [Reg. 7(5A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/7/5A) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2018/493/regulation/25)
 
-[^key-9af846447cb97a63a40b4623b92a0d95]: Commencement: Reg. 8 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-9af846447cb97a63a40b4623b92a0d95]: Commencement: Reg. 8 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-9aba0571f240d582c7226dc132346580]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2014/525/regulation/8/4) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [41](https://www.legislation.gov.uk/uksi/2026/226/regulation/41)
+[^c-9aba0571f240d582c7226dc132346580]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2014/525/regulation/8/4) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [41](https://www.legislation.gov.uk/uksi/2026/226/regulation/41)
 
-[^key-567d11d0bb31b1971802cee8a1251f8b]: Commencement: Reg. 9 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-567d11d0bb31b1971802cee8a1251f8b]: Commencement: Reg. 9 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-eb088ac1b8c58e5c0991a80322076058]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/5/a)
+[^c-eb088ac1b8c58e5c0991a80322076058]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/5/a)
 
-[^key-ba8d4412b06122ea3176682ea76025bb]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1) omitted (with effect in accordance with of the amending S.I.) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)(3)(j)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [26(a)(i)](https://www.legislation.gov.uk/uksi/2018/493/regulation/26/a/i)
+[^c-ba8d4412b06122ea3176682ea76025bb]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1) omitted (with effect in accordance with of the amending S.I.) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)(3)(j)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [26(a)(i)](https://www.legislation.gov.uk/uksi/2018/493/regulation/26/a/i)
 
-[^key-bcb173a235bfd9044f7b719858205aa0]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1) added (with effect in accordance with of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)(3)(j)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [26(a)(ii)](https://www.legislation.gov.uk/uksi/2018/493/regulation/26/a/ii)
+[^c-bcb173a235bfd9044f7b719858205aa0]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1) added (with effect in accordance with of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)(3)(j)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [26(a)(ii)](https://www.legislation.gov.uk/uksi/2018/493/regulation/26/a/ii)
 
-[^key-1711734b7425990155830ee072e845f5]: Textual amendment: [Reg. 9(1ZA)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1ZA)[(1ZB)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1ZB) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/5/b)
+[^c-1711734b7425990155830ee072e845f5]: Textual amendment: [Reg. 9(1ZA)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1ZA)[(1ZB)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1ZB) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/5/b)
 
-[^key-03e799ec56ef9002aa7cec752e3c4029]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1A) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/5/c)
+[^c-03e799ec56ef9002aa7cec752e3c4029]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/1A) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/5/c)
 
-[^key-2a8e96ff6ec5fe0271e01835c47f59ab]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/2A)[(2B)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/2B) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/7/a)
+[^c-2a8e96ff6ec5fe0271e01835c47f59ab]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/2A)[(2B)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/2B) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/7/a)
 
-[^key-2f6a0240a62e5b74d999d11e209e8185]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/5) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2026/346/regulation/7/b)
+[^c-2f6a0240a62e5b74d999d11e209e8185]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2014/525/regulation/9/5) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2026/346/regulation/7/b)
 
-[^key-6bef092f41da92acd3e9a0ca5ccc8264]: Commencement: Reg. 10 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-6bef092f41da92acd3e9a0ca5ccc8264]: Commencement: Reg. 10 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-f67df8989636bf516787ac912fb40a39]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/2014/525/regulation/10/6)[(6A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/10/6A) substituted for [reg. 10(6)](https://www.legislation.gov.uk/uksi/2014/525/regulation/10/6) (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2018/493/regulation/27)
+[^c-f67df8989636bf516787ac912fb40a39]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/2014/525/regulation/10/6)[(6A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/10/6A) substituted for [reg. 10(6)](https://www.legislation.gov.uk/uksi/2014/525/regulation/10/6) (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2018/493/regulation/27)
 
-[^key-2bfa237ee32060a2eebf78ad186c70b2]: Commencement: Reg. 11 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-2bfa237ee32060a2eebf78ad186c70b2]: Commencement: Reg. 11 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-2d0e412ed1d5e6b404f0bd6608ad21d6]: Commencement: Reg. 12 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-2d0e412ed1d5e6b404f0bd6608ad21d6]: Commencement: Reg. 12 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-6b517625136a827943f36e250e172b1a]: Commencement: Reg. 13 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-6b517625136a827943f36e250e172b1a]: Commencement: Reg. 13 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-ae14f912397a666a450af01138864fc0]: Commencement: Reg. 14 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-ae14f912397a666a450af01138864fc0]: Commencement: Reg. 14 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-44dfba04f44374671210583a15e372c3]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2014/525/regulation/14/2) inserted (with effect in accordance with of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)(3)(k)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2018/493/regulation/28)
+[^c-44dfba04f44374671210583a15e372c3]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2014/525/regulation/14/2) inserted (with effect in accordance with of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)(3)(k)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2018/493/regulation/28)
 
-[^key-16da41e6584a9924a126d909b1dfdade]: Commencement: Reg. 15 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-16da41e6584a9924a126d909b1dfdade]: Commencement: Reg. 15 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-305d148c7cf47b4b8068d4fca8c69dee]: Textual amendment: [Reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2014/525/regulation/15/1/b) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(a)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/a)
+[^c-305d148c7cf47b4b8068d4fca8c69dee]: Textual amendment: [Reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2014/525/regulation/15/1/b) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(a)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/a)
 
-[^key-6daa0cc17b54088320f8f8d280c2e2a4]: Textual amendment: [Reg. 15(1)(d)](https://www.legislation.gov.uk/uksi/2014/525/regulation/15/1/d) substituted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(b)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/b)
+[^c-6daa0cc17b54088320f8f8d280c2e2a4]: Textual amendment: [Reg. 15(1)(d)](https://www.legislation.gov.uk/uksi/2014/525/regulation/15/1/d) substituted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(b)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/b)
 
-[^key-47dccb06163efe22ff58f892ad95d3ea]: Textual amendment: [Reg. 15(2A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/15/2A) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(c)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/c)
+[^c-47dccb06163efe22ff58f892ad95d3ea]: Textual amendment: [Reg. 15(2A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/15/2A) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(c)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/c)
 
-[^key-9d42b7ab0e4d3ce38a77064e05a22e3e]: Textual amendment: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/2014/525/regulation/15/4) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(d)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/d)
+[^c-9d42b7ab0e4d3ce38a77064e05a22e3e]: Textual amendment: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/2014/525/regulation/15/4) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(d)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/d)
 
-[^key-37db8a3ca2ee8b74bcbc13aa3db0bff8]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2014/525/regulation/15/5) substituted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(e)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/e)
+[^c-37db8a3ca2ee8b74bcbc13aa3db0bff8]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2014/525/regulation/15/5) substituted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(e)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/e)
 
-[^key-4588a1d89cac12133e1a074f7ba92dac]: Commencement: Reg. 16 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-4588a1d89cac12133e1a074f7ba92dac]: Commencement: Reg. 16 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
 [^f00024]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 237B was inserted by the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-1e13c74f18af21c6ab811bd87d6b6dad]: Commencement: Reg. 17 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-1e13c74f18af21c6ab811bd87d6b6dad]: Commencement: Reg. 17 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-afc81b57a4e42ff507578074cd3670d2]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/2) substituted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/a)
+[^c-afc81b57a4e42ff507578074cd3670d2]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/2) substituted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/a)
 
-[^key-03d3988cfaabd91cf397a5de2646536d]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/4) substituted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/b)
+[^c-03d3988cfaabd91cf397a5de2646536d]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/4) substituted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/b)
 
-[^key-073bc3c54d45646372a8dd70f158c01a]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/5) substituted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/c)
+[^c-073bc3c54d45646372a8dd70f158c01a]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/5) substituted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/c)
 
-[^key-1f634ee8825a62ac0befed330a19b143]: Textual amendment: Words in [reg. 17(7)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/7) inserted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/d)
+[^c-1f634ee8825a62ac0befed330a19b143]: Textual amendment: Words in [reg. 17(7)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/7) inserted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/d)
 
-[^key-33d6145b69469e99acc2d48b9ea61dc9]: Textual amendment: Words in [reg. 17(8)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/8) inserted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(e)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/e)
+[^c-33d6145b69469e99acc2d48b9ea61dc9]: Textual amendment: Words in [reg. 17(8)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/8) inserted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(e)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/e)
 
-[^key-8bdb9dd7450d6160fbb3ce2701ea558a]: Textual amendment: [Reg. 17(8A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/8A) inserted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(f)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/f) (with [reg. 42(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/2))
+[^c-8bdb9dd7450d6160fbb3ce2701ea558a]: Textual amendment: [Reg. 17(8A)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/8A) inserted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(f)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/f) (with [reg. 42(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/2))
 
-[^key-3b0ec41cb688bccecdd67c6911155d34]: Textual amendment: [Reg. 17(9)-(16)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/9) omitted (with effect from 1.4.2014 and with effect in accordance with reg. 1(3) of this amending S.I.) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(g)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/g) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/3))
+[^c-3b0ec41cb688bccecdd67c6911155d34]: Textual amendment: [Reg. 17(9)-(16)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/9) omitted (with effect from 1.4.2014 and with effect in accordance with reg. 1(3) of this amending S.I.) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(g)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/g) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/3))
 
-[^key-9db978b93405fe91a632781a1a74f97c]: Textual amendment: [Reg. 17(16A)-(16F)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/16A) inserted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(h)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/h)
+[^c-9db978b93405fe91a632781a1a74f97c]: Textual amendment: [Reg. 17(16A)-(16F)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/16A) inserted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [42(1)(h)](https://www.legislation.gov.uk/uksi/2026/226/regulation/42/1/h)
 
-[^key-c24bc233f085fcf55d92b3bb1a58f64f]: Textual amendment: [Reg. 17(17)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/17) substituted (31.12.2019) by [The Local Government Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/1449)](https://www.legislation.gov.uk/uksi/2019/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1449/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/1449/regulation/2/6)
+[^c-c24bc233f085fcf55d92b3bb1a58f64f]: Textual amendment: [Reg. 17(17)](https://www.legislation.gov.uk/uksi/2014/525/regulation/17/17) substituted (31.12.2019) by [The Local Government Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/1449)](https://www.legislation.gov.uk/uksi/2019/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1449/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/1449/regulation/2/6)
 
-[^key-10bf1a985236a92e6cf5c1a5f463fc1b]: Commencement: Reg. 18 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-10bf1a985236a92e6cf5c1a5f463fc1b]: Commencement: Reg. 18 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-804197e3f71ed5a1a3372c5b572d4bec]: Commencement: Reg. 19 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-804197e3f71ed5a1a3372c5b572d4bec]: Commencement: Reg. 19 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-526520e21f228d9db3d626ece955c7ad]: Modification: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/19/1) excluded (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [11(4)(b)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/11/4/b)
+[^c-526520e21f228d9db3d626ece955c7ad]: Modification: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2014/525/regulation/19/1) excluded (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [11(4)(b)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/11/4/b)
 
 [^f00025]: Footnote: Paragraph 2B was inserted by [S.I. 2012/1989](https://www.legislation.gov.uk/uksi/2012/1989); paragraph 3 was amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
 
-[^key-77671097b15d1110caa41023fed09ea9]: Commencement: Reg. 20 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-77671097b15d1110caa41023fed09ea9]: Commencement: Reg. 20 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-f9375eea46848c2b9fdd5c8ca9081380]: Commencement: Reg. 21 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-f9375eea46848c2b9fdd5c8ca9081380]: Commencement: Reg. 21 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
 [^f00026]: Footnote: Regulations 108A and 122A were inserted by [S.I. 1997/594](https://www.legislation.gov.uk/uksi/1997/594) as amended by [S.I. 1997/1613](https://www.legislation.gov.uk/uksi/1997/1613).
 
-[^key-be8da9f4d9e3ad9576125cdd5f4c7810]: Commencement: Reg. 22 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-be8da9f4d9e3ad9576125cdd5f4c7810]: Commencement: Reg. 22 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-6c329c71475f7593ad34afde664a7f4b]: Commencement: Reg. 23 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-6c329c71475f7593ad34afde664a7f4b]: Commencement: Reg. 23 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-04af58332a579f95bc6e68ce78b5559a]: Commencement: Reg. 24 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-04af58332a579f95bc6e68ce78b5559a]: Commencement: Reg. 24 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
 [^f00027]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 
@@ -1612,11 +1612,11 @@ No separate regulatory impact assessment has been produced for these Regulations
 
 [^f00029]: Footnote: Regulation 15 was inserted by [S.I. 2010/2090](https://www.legislation.gov.uk/uksi/2010/2090).
 
-[^key-8b7b9c2e7853a5f0f9622317788e33c5]: Textual amendment: [Reg. 24(4)(a)](https://www.legislation.gov.uk/uksi/2014/525/regulation/24/4/a) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/6)
+[^c-8b7b9c2e7853a5f0f9622317788e33c5]: Textual amendment: [Reg. 24(4)(a)](https://www.legislation.gov.uk/uksi/2014/525/regulation/24/4/a) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2023/972/regulation/2/6)
 
 [^f00030]: Footnote: [S.I. 1997/1613](https://www.legislation.gov.uk/uksi/1997/1613); regulation 23 was amended by [S.I. 1998/2118](https://www.legislation.gov.uk/uksi/1998/2118).
 
-[^key-94fe847d733d08c8f3205458076a1cb4]: Commencement: Reg. 25 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-94fe847d733d08c8f3205458076a1cb4]: Commencement: Reg. 25 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
 [^f00031]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 
@@ -1628,13 +1628,13 @@ No separate regulatory impact assessment has been produced for these Regulations
 
 [^f00035]: Footnote: Regulation 130C was inserted by [S.I. 2001/770](https://www.legislation.gov.uk/uksi/2001/770).
 
-[^key-c9d1da1493031e99e65410d5feaeb011]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2014/525/regulation/25A) inserted (with effect in accordance with art. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [reg. 35](https://www.legislation.gov.uk/uksi/2015/755/regulation/35)
+[^c-c9d1da1493031e99e65410d5feaeb011]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2014/525/regulation/25A) inserted (with effect in accordance with art. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [reg. 35](https://www.legislation.gov.uk/uksi/2015/755/regulation/35)
 
-[^key-8b13b2954e0ce305528fcd40daa97177]: Commencement: Reg. 26 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-8b13b2954e0ce305528fcd40daa97177]: Commencement: Reg. 26 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
 [^f00036]: Footnote: Schedule 8 was inserted by [S.I. 2003/1022](https://www.legislation.gov.uk/uksi/2003/1022) and has been amended by [S.I. 2004/573](https://www.legislation.gov.uk/uksi/2004/573), [S.I. 2004/928](https://www.legislation.gov.uk/uksi/2004/928), [S.I. 2005/3069](https://www.legislation.gov.uk/uksi/2005/3069), [S.I. 2006/966](https://www.legislation.gov.uk/uksi/2006/966), and [S.I. 2006/2008](https://www.legislation.gov.uk/uksi/2006/2008); regulation 137A of the 1997 Regulations introducing Schedule 8 and Schedule 8 itself were saved by regulation 13 of [S.I. 2008/238](https://www.legislation.gov.uk/uksi/2008/238).
 
-[^key-e2fc51133905a78d090daa9f46ebb8dc]: Commencement: Sch. 1 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-e2fc51133905a78d090daa9f46ebb8dc]: Commencement: Sch. 1 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
 [^f00037]: Footnote: [S.I. 1995/1019](https://www.legislation.gov.uk/uksi/1995/1019).
 
@@ -1668,37 +1668,37 @@ No separate regulatory impact assessment has been produced for these Regulations
 
 [^f00052]: Footnote: [S.I. 2012/1989](https://www.legislation.gov.uk/uksi/2012/1989).
 
-[^key-6f3e2bf0c27341526770baa81a622169]: Commencement: Sch. 2 para. 1 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-6f3e2bf0c27341526770baa81a622169]: Commencement: Sch. 2 para. 1 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
 [^f00053]: Footnote: Regulation 30A was inserted by [S.I. 2010/2090](https://www.legislation.gov.uk/uksi/2010/2090).
 
-[^key-34352e30cf69ff52e66a827cd037d952]: Textual amendment: Words in [Sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1/a) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(a)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/a)
+[^c-34352e30cf69ff52e66a827cd037d952]: Textual amendment: Words in [Sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1/a) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(a)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/a)
 
-[^key-2fc1b3d3ee6e6593d8173fc6705a4069]: Textual amendment: [Sch. 2 para. 1(1)(aa)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1/aa) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(b)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/b)
+[^c-2fc1b3d3ee6e6593d8173fc6705a4069]: Textual amendment: [Sch. 2 para. 1(1)(aa)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1/aa) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(b)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/b)
 
-[^key-a4767f263c6d8ec2b8b9f725b155e39c]: Textual amendment: Words in [Sch. 2 para. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1/c) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(c)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/c)
+[^c-a4767f263c6d8ec2b8b9f725b155e39c]: Textual amendment: Words in [Sch. 2 para. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1/c) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(c)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/c)
 
-[^key-a7c7d45a05ab0f302044a81704f8a034]: Textual amendment: Word in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(d)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/d)
+[^c-a7c7d45a05ab0f302044a81704f8a034]: Textual amendment: Word in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(d)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/d)
 
-[^key-b578dc891be5564b26e692ccd0948118]: Textual amendment: [Sch. 2 para. 1(1)(e)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1/e)[(f)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1/f) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(d)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/d)
+[^c-b578dc891be5564b26e692ccd0948118]: Textual amendment: [Sch. 2 para. 1(1)(e)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1/e)[(f)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/1/f) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(d)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/d)
 
-[^key-564d4c8dadf19d8d98ea03e91e3fb7bf]: Textual amendment: Words in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/2) substituted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(e)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/e)
+[^c-564d4c8dadf19d8d98ea03e91e3fb7bf]: Textual amendment: Words in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/1/2) substituted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(e)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/e)
 
-[^key-4d1af638c5ae4006ef272a9e70913274]: Commencement: Sch. 2 para. 2 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-4d1af638c5ae4006ef272a9e70913274]: Commencement: Sch. 2 para. 2 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-2a70bba47f4f9aeaf92b3b3e32030200]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/2/1) substituted (with effect in accordance with art. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [reg. 36(a)](https://www.legislation.gov.uk/uksi/2015/755/regulation/36/a)
+[^c-2a70bba47f4f9aeaf92b3b3e32030200]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/2/1) substituted (with effect in accordance with art. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [reg. 36(a)](https://www.legislation.gov.uk/uksi/2015/755/regulation/36/a)
 
-[^key-052cf766fd0557fdd745b29a1f7d34ea]: Textual amendment: [Sch. 2 para. 2(1A)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/2/1A) inserted (with effect in accordance with art. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [reg. 36(b)](https://www.legislation.gov.uk/uksi/2015/755/regulation/36/b)
+[^c-052cf766fd0557fdd745b29a1f7d34ea]: Textual amendment: [Sch. 2 para. 2(1A)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/2/1A) inserted (with effect in accordance with art. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [reg. 36(b)](https://www.legislation.gov.uk/uksi/2015/755/regulation/36/b)
 
-[^key-fd509d114023bd1332e9a28808f84ebb]: Textual amendment: Words in [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/2/3) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(f)(i)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/f/i)
+[^c-fd509d114023bd1332e9a28808f84ebb]: Textual amendment: Words in [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/2/3) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(f)(i)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/f/i)
 
-[^key-7c93d172e9dc4f3be7e7c77f8b118903]: Textual amendment: Words in [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/2/3) substituted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(f)(ii)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/f/ii)
+[^c-7c93d172e9dc4f3be7e7c77f8b118903]: Textual amendment: Words in [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/2/3) substituted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [30(f)(ii)](https://www.legislation.gov.uk/uksi/2018/493/regulation/30/f/ii)
 
-[^key-76e09253c01f964e393180217c578fbd]: Commencement: Sch. 2 para. 3 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-76e09253c01f964e393180217c578fbd]: Commencement: Sch. 2 para. 3 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-604e637c6daeaaa916d1e7bcec72766f]: Commencement: Sch. 2 para. 4 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-604e637c6daeaaa916d1e7bcec72766f]: Commencement: Sch. 2 para. 4 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-03e82fce1b065f1ba93f100813e0bf5c]: Textual amendment: Words in [Sch. 2 para. 4(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/4/2/a/iii) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [43](https://www.legislation.gov.uk/uksi/2026/226/regulation/43)
+[^c-03e82fce1b065f1ba93f100813e0bf5c]: Textual amendment: Words in [Sch. 2 para. 4(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/525/schedule/2/paragraph/4/2/a/iii) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [43](https://www.legislation.gov.uk/uksi/2026/226/regulation/43)
 
 [^f00054]: Footnote: Regulation 12B was inserted by [S.I. 2009/3150](https://www.legislation.gov.uk/uksi/2009/3150).
 
@@ -1710,12 +1710,12 @@ No separate regulatory impact assessment has been produced for these Regulations
 
 [^f00058]: Footnote: Regulation 35(1A) was inserted by [S.I. 2006/966](https://www.legislation.gov.uk/uksi/2006/966) and was amended by [S.I. 2006/2008](https://www.legislation.gov.uk/uksi/2006/2008); it was revoked, with savings, by [S.I. 2008238](https://www.legislation.gov.uk/uksi/2008/238).
 
-[^key-9b3df30923c0431f18dd14afa3579162]: Commencement: Sch. 2 para. 5 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-9b3df30923c0431f18dd14afa3579162]: Commencement: Sch. 2 para. 5 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-17c99dda7bc43c4700b24e2a6d4b66b0]: Commencement: Sch. 2 para. 6 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-17c99dda7bc43c4700b24e2a6d4b66b0]: Commencement: Sch. 2 para. 6 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-d69f26cbbac237a53ae3296004f89e35]: Commencement: Sch. 2 para. 7 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-d69f26cbbac237a53ae3296004f89e35]: Commencement: Sch. 2 para. 7 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-da6cb7b7b366e4bc368af221fcc724df]: Commencement: Sch. 2 para. 8 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-da6cb7b7b366e4bc368af221fcc724df]: Commencement: Sch. 2 para. 8 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
 
-[^key-45012fe2b105b488bfbf684329bd1d1d]: Commencement: Sch. 2 para. 9 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)
+[^c-45012fe2b105b488bfbf684329bd1d1d]: Commencement: Sch. 2 para. 9 in force at 1.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3)

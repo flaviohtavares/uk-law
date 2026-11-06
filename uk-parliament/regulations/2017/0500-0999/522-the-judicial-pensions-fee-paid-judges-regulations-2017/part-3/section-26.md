@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies where P[^key-c24ab8d0a11630904c70541b628f467e] retires and subsequently resumes judicial office.
+(1) This regulation applies where P[^c-c24ab8d0a11630904c70541b628f467e] retires and subsequently resumes judicial office.
 
 (2) The resumption of judicial office does not affect the entitlement of P to any payment under the principal scheme in respect of any period before the resumption.
 
@@ -37,4 +37,4 @@ are (subject to paragraph (5)) to be determined as if no amounts had previously 
 
 ## Annotations
 
-[^key-c24ab8d0a11630904c70541b628f467e]: Textual amendment: Word in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/26/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2023/403/regulation/26)
+[^c-c24ab8d0a11630904c70541b628f467e]: Textual amendment: Word in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/26/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2023/403/regulation/26)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Power to maintain the authorised development[^key-29ab2216fd9e8ed1f443318e73cb9f0e]
+## 5. Power to maintain the authorised development[^c-29ab2216fd9e8ed1f443318e73cb9f0e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29ab2216fd9e8ed1f443318e73cb9f0e]: Commencement: Art. 5 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-29ab2216fd9e8ed1f443318e73cb9f0e]: Commencement: Art. 5 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

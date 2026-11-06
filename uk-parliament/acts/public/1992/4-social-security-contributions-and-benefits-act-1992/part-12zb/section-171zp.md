@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171ZP. Relationship with benefits and other payments etc[^key-078e62575b12860a9390beadc9342127]
+## 171ZP. Relationship with benefits and other payments etc[^c-078e62575b12860a9390beadc9342127]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-078e62575b12860a9390beadc9342127]: Textual amendment: Pt. 12ZB inserted (8.12.2002) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 4](https://www.legislation.gov.uk/ukpga/2002/22/section/4), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/2)
+[^c-078e62575b12860a9390beadc9342127]: Textual amendment: Pt. 12ZB inserted (8.12.2002) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 4](https://www.legislation.gov.uk/ukpga/2002/22/section/4), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172A. Meaning of “trading stock”[^key-696a418b4ca9217116dc3e9a9c5accb7]
+## 172A. Meaning of “trading stock”[^c-696a418b4ca9217116dc3e9a9c5accb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-696a418b4ca9217116dc3e9a9c5accb7]: Textual amendment: Pt. 2 Ch. 11A inserted (with effect in accordance with s. 37(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/15/paragraph/2)
+[^c-696a418b4ca9217116dc3e9a9c5accb7]: Textual amendment: Pt. 2 Ch. 11A inserted (with effect in accordance with s. 37(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/15/paragraph/2)

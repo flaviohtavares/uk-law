@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Interpretation[^key-1b629c5ca9684eb8ac5cdb6d85a5e0ef]
+## 16. Interpretation[^c-1b629c5ca9684eb8ac5cdb6d85a5e0ef]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ In Article 3 (Interpretation of Part II) of the Electricity Order—
 
 ## Annotations
 
-[^key-1b629c5ca9684eb8ac5cdb6d85a5e0ef]: Commencement: Reg. 16 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-1b629c5ca9684eb8ac5cdb6d85a5e0ef]: Commencement: Reg. 16 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

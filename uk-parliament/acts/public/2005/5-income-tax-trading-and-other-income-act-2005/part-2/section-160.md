@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Alternative basis of calculation in early years of practice[^key-112d787ee12409961989903f76943440]
+## 160. Alternative basis of calculation in early years of practice[^c-112d787ee12409961989903f76943440]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-112d787ee12409961989903f76943440]: Textual amendment: S. 160 omitted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 51](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/51)
+[^c-112d787ee12409961989903f76943440]: Textual amendment: S. 160 omitted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 51](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/51)

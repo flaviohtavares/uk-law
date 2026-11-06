@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.77. General rule as to reporting[^key-059ee1d52af7171b6fdd6138aeb3c32f]
+## 6.77. General rule as to reporting[^c-059ee1d52af7171b6fdd6138aeb3c32f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-059ee1d52af7171b6fdd6138aeb3c32f]: Commencement: [Rule 6.77](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.77) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-059ee1d52af7171b6fdd6138aeb3c32f]: Commencement: [Rule 6.77](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.77) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

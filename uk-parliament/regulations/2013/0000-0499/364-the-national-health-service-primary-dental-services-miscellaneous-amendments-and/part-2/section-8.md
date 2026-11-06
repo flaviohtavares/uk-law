@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Amendment of regulation 7[^key-23c2cd9d493360ac6d46356c83c4ddb3]
+## 8. Amendment of regulation 7[^c-23c2cd9d493360ac6d46356c83c4ddb3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 7 (appeal), for “the Primary Care Trust” substitute “the Boa
 
 ## Annotations
 
-[^key-23c2cd9d493360ac6d46356c83c4ddb3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/364/regulation/8) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-23c2cd9d493360ac6d46356c83c4ddb3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/364/regulation/8) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

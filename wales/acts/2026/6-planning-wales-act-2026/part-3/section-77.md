@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Determination of appeal[^key-686506fa487ca9d28b73c63a4652240c]
+## 77. Determination of appeal[^c-686506fa487ca9d28b73c63a4652240c]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ and may deal with the application as if it had been made to them.
 
 ## Annotations
 
-[^key-686506fa487ca9d28b73c63a4652240c]: Commencement: S. 77 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-686506fa487ca9d28b73c63a4652240c]: Commencement: S. 77 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

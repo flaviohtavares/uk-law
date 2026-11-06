@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Amendment of the Public Interest Disclosure (Prescribed Persons) Order 2014[^key-e1befbb0969f0d065d05c0b3ca846376]
+## 108. Amendment of the Public Interest Disclosure (Prescribed Persons) Order 2014[^c-e1befbb0969f0d065d05c0b3ca846376]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1befbb0969f0d065d05c0b3ca846376]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/2023/1071/regulation/108) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-e1befbb0969f0d065d05c0b3ca846376]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/2023/1071/regulation/108) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00085]: Footnote: [S.I. 2014/2418](https://www.legislation.gov.uk/uksi/2014/2418), relevant amending instruments are [S.I. 2022/634](https://www.legislation.gov.uk/uksi/2022/634) and [S.I. 2023/368](https://www.legislation.gov.uk/uksi/2023/368).

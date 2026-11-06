@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Purchase etc. of charcoal[^key-e3703c86aa3e7974871c8a7fabdd8e8e]
+## 38. Purchase etc. of charcoal[^c-e3703c86aa3e7974871c8a7fabdd8e8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3703c86aa3e7974871c8a7fabdd8e8e]: Commencement: Reg. 38 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-e3703c86aa3e7974871c8a7fabdd8e8e]: Commencement: Reg. 38 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

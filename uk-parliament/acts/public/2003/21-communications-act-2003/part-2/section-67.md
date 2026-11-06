@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Subject-matter of universal service conditions[^key-c1a399b6e024d2166d618522b418d9e2][^key-905f64611a802754b2d299314f3748f3]
+## 67. Subject-matter of universal service conditions[^c-c1a399b6e024d2166d618522b418d9e2][^c-905f64611a802754b2d299314f3748f3]
 
 *Extent: E+W+S+N.I.*
 
 (1) OFCOM may set any such universal service conditions as they consider appropriate for securing compliance with the obligations set out in the universal service order.
 
-(1A)[^key-4f065b28eb7faedbc81ac533f32a562b] OFCOM may also set universal service conditions which apply to a designated universal service provider who proposes to make a disposal to another person of a substantial part or all of the designated universal service provider’s local access network assets.
+(1A)[^c-4f065b28eb7faedbc81ac533f32a562b] OFCOM may also set universal service conditions which apply to a designated universal service provider who proposes to make a disposal to another person of a substantial part or all of the designated universal service provider’s local access network assets.
 
 (1B) But subsection (1A) does not apply where the disposal is made by a company to a connected company (within the meaning given by section 1122(2) of the Corporation Tax Act 2010).
 
@@ -30,11 +30,11 @@ summary: ''
 
 (3) A condition set in accordance with subsection (2) must contain provision which—
 
-- (a) requires information published in accordance with it to be updated from time to time and published again; and[^key-3387cea8c339fbb5c5da84189fc6cc5a]
-- (b) requires information so published to satisfy the requirements that OFCOM consider appropriate for securing that it is adequate;[^key-08074b5fc4055d02bb51df0975dace2b]...
-- (c)[^key-08074b5fc4055d02bb51df0975dace2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) requires information published in accordance with it to be updated from time to time and published again; and[^c-3387cea8c339fbb5c5da84189fc6cc5a]
+- (b) requires information so published to satisfy the requirements that OFCOM consider appropriate for securing that it is adequate;[^c-08074b5fc4055d02bb51df0975dace2b]...
+- (c)[^c-08074b5fc4055d02bb51df0975dace2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-d37ff585fe14843c264962b4b9cd170a] A condition set in accordance with that subsection may require the information published in accordance with it to be framed by reference to such international standards specified in the condition as OFCOM consider appropriate.
+(3A)[^c-d37ff585fe14843c264962b4b9cd170a] A condition set in accordance with that subsection may require the information published in accordance with it to be framed by reference to such international standards specified in the condition as OFCOM consider appropriate.
 
 (4) A condition set in accordance with that subsection may impose requirements as to—
 
@@ -62,17 +62,17 @@ summary: ''
 
 ## Annotations
 
-[^key-c1a399b6e024d2166d618522b418d9e2]: Commencement: S. 67 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-c1a399b6e024d2166d618522b418d9e2]: Commencement: S. 67 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-905f64611a802754b2d299314f3748f3]: Commencement: S. 67 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-905f64611a802754b2d299314f3748f3]: Commencement: S. 67 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4f065b28eb7faedbc81ac533f32a562b]: Textual amendment: S. 67(1A)(1B) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/36) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-4f065b28eb7faedbc81ac533f32a562b]: Textual amendment: S. 67(1A)(1B) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/36) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-3387cea8c339fbb5c5da84189fc6cc5a]: Textual amendment: Word in s. 67(3) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 23(a)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/23/a)
+[^c-3387cea8c339fbb5c5da84189fc6cc5a]: Textual amendment: Word in s. 67(3) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 23(a)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/23/a)
 
-[^key-08074b5fc4055d02bb51df0975dace2b]: Textual amendment: S. 67(3)(c) and word omitted (21.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/23/b)
+[^c-08074b5fc4055d02bb51df0975dace2b]: Textual amendment: S. 67(3)(c) and word omitted (21.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/23/b)
 
-[^key-d37ff585fe14843c264962b4b9cd170a]: Textual amendment: [S. 67(3A)](https://www.legislation.gov.uk/ukpga/2003/21/section/67/3A) inserted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 21(3)](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/21/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d37ff585fe14843c264962b4b9cd170a]: Textual amendment: [S. 67(3A)](https://www.legislation.gov.uk/ukpga/2003/21/section/67/3A) inserted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 21(3)](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/21/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_def53451-3690-4faa-e103-ff4a647a13ac]: Textual amendment: Words in s. 67(3)omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), ss. 1(6), 118(2)
 

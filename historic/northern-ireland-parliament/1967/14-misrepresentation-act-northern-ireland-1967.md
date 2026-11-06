@@ -49,7 +49,7 @@ or both, then, if otherwise he would be entitled to rescind the contract without
 
 (3) Damages may be awarded against a person under subsection (2) whether or not he is liable to damages under subsection (1), but where he is so liable any award under subsection (2) shall be taken into account in assessing his liability under subsection (1).
 
-(4)[^key-736ad4af45ac9dd59c7ec0ae29459523] This section does not entitle a person to be paid damages in respect of a misrepresentation if the person has a right to redress under Part 4A of the Consumer Protection from Unfair Trading Regulations 2008 ([SI 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277)) in respect of the conduct constituting the misrepresentation.
+(4)[^c-736ad4af45ac9dd59c7ec0ae29459523] This section does not entitle a person to be paid damages in respect of a misrepresentation if the person has a right to redress under Part 4A of the Consumer Protection from Unfair Trading Regulations 2008 ([SI 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277)) in respect of the conduct constituting the misrepresentation.
 
 (5) Subsection (4) does not prevent a debtor from bringing a claim under section 75(1) of the Consumer Credit Act 1974 against a creditor under a debtor-creditor-supplier agreement in a case where, but for subsection (4), the debtor would have a claim against the supplier in respect of a misrepresentation (and, where section 75 of that Act would otherwise apply, it accordingly applies as if the debtor had a claim against the supplier).
 
@@ -80,7 +80,7 @@ This Act shall bind the Crown to the full extent authorised or permitted by the 
 
 ## Annotations
 
-[^key-736ad4af45ac9dd59c7ec0ae29459523]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/apni/1967/14/section/2/4)[(5)](https://www.legislation.gov.uk/apni/1967/14/section/2/5) inserted (with application in accordance with reg. 1(3) of the commencing S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2014/870/regulation/6)
+[^c-736ad4af45ac9dd59c7ec0ae29459523]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/apni/1967/14/section/2/4)[(5)](https://www.legislation.gov.uk/apni/1967/14/section/2/5) inserted (with application in accordance with reg. 1(3) of the commencing S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2014/870/regulation/6)
 
 [^c5446531]: Textual amendment: [1977 c.50](https://www.legislation.gov.uk/ukpga/1977/50)
 

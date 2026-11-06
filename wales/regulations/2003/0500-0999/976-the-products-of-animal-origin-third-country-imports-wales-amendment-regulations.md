@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Products of Animal Origin (Third Country Imports) (Wales) (Amendment) Regulations 2003 (revoked)[^key-9b6a7f5eee59b787727a396682caf88e]
+The Products of Animal Origin (Third Country Imports) (Wales) (Amendment) Regulations 2003 (revoked)[^c-9b6a7f5eee59b787727a396682caf88e]
 
 Made
 
@@ -41,52 +41,52 @@ Coming into force
 
 11th April 2003
 
-[^key-9b6a7f5eee59b787727a396682caf88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b6a7f5eee59b787727a396682caf88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-9b6a7f5eee59b787727a396682caf88e]
+## 1. Title, commencement and application[^c-9b6a7f5eee59b787727a396682caf88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Products of Animal Origin (Third Country Imports) (Wales) Regulations 2002[^key-9b6a7f5eee59b787727a396682caf88e]
+## 2. Amendments to the Products of Animal Origin (Third Country Imports) (Wales) Regulations 2002[^c-9b6a7f5eee59b787727a396682caf88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to regulation 2[^key-9b6a7f5eee59b787727a396682caf88e]
+## 3. Amendments to regulation 2[^c-9b6a7f5eee59b787727a396682caf88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to regulation 4[^key-9b6a7f5eee59b787727a396682caf88e]
+## 4. Amendment to regulation 4[^c-9b6a7f5eee59b787727a396682caf88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Insertion of regulation 12A[^key-9b6a7f5eee59b787727a396682caf88e]
+## 5. Insertion of regulation 12A[^c-9b6a7f5eee59b787727a396682caf88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to regulation 13[^key-9b6a7f5eee59b787727a396682caf88e]
+## 6. Amendment to regulation 13[^c-9b6a7f5eee59b787727a396682caf88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Substitution of regulation 16[^key-9b6a7f5eee59b787727a396682caf88e]
+## 7. Substitution of regulation 16[^c-9b6a7f5eee59b787727a396682caf88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments to regulation 28[^key-9b6a7f5eee59b787727a396682caf88e]
+## 8. Amendments to regulation 28[^c-9b6a7f5eee59b787727a396682caf88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment to Part I of Schedule 6[^key-9b6a7f5eee59b787727a396682caf88e]
+## 9. Amendment to Part I of Schedule 6[^c-9b6a7f5eee59b787727a396682caf88e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9b6a7f5eee59b787727a396682caf88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b6a7f5eee59b787727a396682caf88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9b6a7f5eee59b787727a396682caf88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b6a7f5eee59b787727a396682caf88e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9b6a7f5eee59b787727a396682caf88e]: Textual amendment: Regulations revoked (31.5.2004) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2004 (S.I. 2004/1430)](https://www.legislation.gov.uk/uksi/2004/1430), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1430/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2004/1430/schedule/6)
+[^c-9b6a7f5eee59b787727a396682caf88e]: Textual amendment: Regulations revoked (31.5.2004) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2004 (S.I. 2004/1430)](https://www.legislation.gov.uk/uksi/2004/1430), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1430/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2004/1430/schedule/6)

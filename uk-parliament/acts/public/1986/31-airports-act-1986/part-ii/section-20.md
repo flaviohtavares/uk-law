@@ -38,8 +38,8 @@ a principal council shall have power at any time to subscribe for, take up or ac
 (6) In subsection (5) “**employees’ share scheme**” means a scheme for encouraging or facilitating the holding of shares or debentures in a public airport company by or for the benefit of—
 
 - (a) the bona fide employees or former employees of the company or of a subsidiary of the company; or
-- (b) the wives, husbands, widows, widowers , civil partners, surviving civil partners[^key-e905e89c0817eabe361c860add9bd5d3] or children or step-children under the age of 18 of such employees or former employees.
+- (b) the wives, husbands, widows, widowers , civil partners, surviving civil partners[^c-e905e89c0817eabe361c860add9bd5d3] or children or step-children under the age of 18 of such employees or former employees.
 
 ## Annotations
 
-[^key-e905e89c0817eabe361c860add9bd5d3]: Textual amendment: Words in s. 20(6)(b) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 111](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/111); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-e905e89c0817eabe361c860add9bd5d3]: Textual amendment: Words in s. 20(6)(b) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 111](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/111); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)

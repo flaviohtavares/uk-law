@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Revocations[^key-8ace0f15ef9f07466990a9eaf9ef59f7]
+## 67. Revocations[^c-8ace0f15ef9f07466990a9eaf9ef59f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ace0f15ef9f07466990a9eaf9ef59f7]: Commencement: Reg. 67 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-8ace0f15ef9f07466990a9eaf9ef59f7]: Commencement: Reg. 67 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
 [^c24163321]: Marginal citation: [S.I. 2014/587](https://www.legislation.gov.uk/uksi/2014/587) as amended by [S.I. 2017/560](https://www.legislation.gov.uk/uksi/2017/560) and S.S. 2018/1149 and prospectively amended by [S.I.2019/380](https://www.legislation.gov.uk/uksi/2019/380) and [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149).

@@ -32,7 +32,7 @@ summary: ''
 
 Defence
 
-The Armed Forces (Discharge and Transfer to the Reserve Forces) Regulations 2009 (revoked)[^key-41516aabbf390cc0398d22c29eba74b6]
+The Armed Forces (Discharge and Transfer to the Reserve Forces) Regulations 2009 (revoked)[^c-41516aabbf390cc0398d22c29eba74b6]
 
 Made
 
@@ -46,90 +46,90 @@ Coming into force
 
 31st October 2009
 
-[^key-41516aabbf390cc0398d22c29eba74b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41516aabbf390cc0398d22c29eba74b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-41516aabbf390cc0398d22c29eba74b6]
+## 1. Citation and commencement[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-41516aabbf390cc0398d22c29eba74b6]
+## 2. Interpretation[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Authority to discharge or transfer[^key-41516aabbf390cc0398d22c29eba74b6]
+## 3. Authority to discharge or transfer[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Entitlement to be discharged or transferred[^key-41516aabbf390cc0398d22c29eba74b6]
+## 4. Entitlement to be discharged or transferred[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Conveyance to place of residence[^key-41516aabbf390cc0398d22c29eba74b6]
+## 5. Conveyance to place of residence[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Certificate of discharge[^key-41516aabbf390cc0398d22c29eba74b6]
+## 6. Certificate of discharge[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Right of warrant officer to discharge following reduction in rank or disrating[^key-41516aabbf390cc0398d22c29eba74b6]
+## 7. Right of warrant officer to discharge following reduction in rank or disrating[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Postponement of discharge or transfer[^key-41516aabbf390cc0398d22c29eba74b6]
+## 8. Postponement of discharge or transfer[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-41516aabbf390cc0398d22c29eba74b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Transitional provisions[^key-41516aabbf390cc0398d22c29eba74b6]
+## 15. Transitional provisions[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-41516aabbf390cc0398d22c29eba74b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41516aabbf390cc0398d22c29eba74b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TRANSITIONAL PROVISIONS[^key-41516aabbf390cc0398d22c29eba74b6]
+## SCHEDULE — TRANSITIONAL PROVISIONS[^c-41516aabbf390cc0398d22c29eba74b6]
 
 Regulation 15
 
-### 16. Authority to discharge or transfer[^key-41516aabbf390cc0398d22c29eba74b6]
+### 16. Authority to discharge or transfer[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Entitlement to be discharged or transferred[^key-41516aabbf390cc0398d22c29eba74b6]
+### 17. Entitlement to be discharged or transferred[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Conveyance to place of residence[^key-41516aabbf390cc0398d22c29eba74b6]
+### 18. Conveyance to place of residence[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Right of warrant officer to discharge following reduction to the ranks or disrating under sentence of a court-martial[^key-41516aabbf390cc0398d22c29eba74b6]
+### 19. Right of warrant officer to discharge following reduction to the ranks or disrating under sentence of a court-martial[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Postponement of discharge or transfer[^key-41516aabbf390cc0398d22c29eba74b6]
+### 20. Postponement of discharge or transfer[^c-41516aabbf390cc0398d22c29eba74b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-41516aabbf390cc0398d22c29eba74b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41516aabbf390cc0398d22c29eba74b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-41516aabbf390cc0398d22c29eba74b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/832) revoked (31.10.2009) by [The Armed Forces (Discharge and Transfer to the Reserve Forces) (No. 2) Regulations 2009 (S.I. 2009/1091)](https://www.legislation.gov.uk/uksi/2009/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1091/regulation/1), [16](https://www.legislation.gov.uk/uksi/2009/1091/regulation/16)
+[^c-41516aabbf390cc0398d22c29eba74b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/832) revoked (31.10.2009) by [The Armed Forces (Discharge and Transfer to the Reserve Forces) (No. 2) Regulations 2009 (S.I. 2009/1091)](https://www.legislation.gov.uk/uksi/2009/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1091/regulation/1), [16](https://www.legislation.gov.uk/uksi/2009/1091/regulation/16)

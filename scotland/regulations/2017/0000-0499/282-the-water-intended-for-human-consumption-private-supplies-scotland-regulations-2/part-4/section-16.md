@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Duty of care: supplies of water[^key-51b5e8254691138eaad0d92ae3349c9f]
+## 16. Duty of care: supplies of water[^c-51b5e8254691138eaad0d92ae3349c9f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A person, in relation to a supply of water, must not take any action which has t
 
 ## Annotations
 
-[^key-51b5e8254691138eaad0d92ae3349c9f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/282/regulation/16) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-51b5e8254691138eaad0d92ae3349c9f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/282/regulation/16) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

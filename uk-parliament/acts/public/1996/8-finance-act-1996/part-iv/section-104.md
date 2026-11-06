@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Minor and consequential amendments.[^key-afdb1dc146c49171b8233892e3e1c890]
+## 104. Minor and consequential amendments.[^c-afdb1dc146c49171b8233892e3e1c890]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 14 to this Act (which, for the purposes of both corporation tax and inc
 
 ## Annotations
 
-[^key-afdb1dc146c49171b8233892e3e1c890]: Modification: Pt. 4 Ch. 2 modified (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 7 para. 14(5)-(7)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/7/paragraph/14/5)
+[^c-afdb1dc146c49171b8233892e3e1c890]: Modification: Pt. 4 Ch. 2 modified (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 7 para. 14(5)-(7)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/7/paragraph/14/5)

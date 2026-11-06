@@ -47,7 +47,7 @@ The Welsh Ministers are designated[^f00001] for the purposes of section 2(2) of 
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972.
 
-## 1. Title, application and commencement[^key-13d83161788f118c6a9c04a6782cb421]
+## 1. Title, application and commencement[^c-13d83161788f118c6a9c04a6782cb421]
 
 (1) The title of these Regulations is the Common Agricultural Policy Basic Payment Scheme (Provisional Payment Region Classification) (Wales) (Amendment) Regulations 2014.
 
@@ -55,7 +55,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 (3) These Regulations come into force on 26 September 2014.
 
-## 2. Amendment to the Common Agricultural Policy Basic Payment Scheme (Provisional Payment Region Classification) (Wales) Regulations 2014[^key-c541a427265513fea503cf3a05e834f6]
+## 2. Amendment to the Common Agricultural Policy Basic Payment Scheme (Provisional Payment Region Classification) (Wales) Regulations 2014[^c-c541a427265513fea503cf3a05e834f6]
 
 (1) The Common Agricultural Policy Basic Payment Scheme (Provisional Payment Region Classification) (Wales) Regulations 2014[^f00003] are amended as follows.
 
@@ -86,7 +86,7 @@ Deputy Minister for Agriculture and Fisheries under authority of the Minister fo
 
 5 September 2014
 
-## SCHEDULE — Species of semi-natural upland vegetation[^key-bfaea010afff4a2bff5a3339cd2714ba]
+## SCHEDULE — Species of semi-natural upland vegetation[^c-bfaea010afff4a2bff5a3339cd2714ba]
 
 Regulation 2(1)
 
@@ -128,10 +128,10 @@ A Regulatory Impact Assessment of the effects of these Regulations on the costs 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006.
 
-[^key-13d83161788f118c6a9c04a6782cb421]: Commencement: Reg. 1 in force at 26.9.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2367/regulation/1/3)
+[^c-13d83161788f118c6a9c04a6782cb421]: Commencement: Reg. 1 in force at 26.9.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2367/regulation/1/3)
 
-[^key-c541a427265513fea503cf3a05e834f6]: Commencement: Reg. 2 in force at 26.9.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2367/regulation/1/3)
+[^c-c541a427265513fea503cf3a05e834f6]: Commencement: Reg. 2 in force at 26.9.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2367/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 2014/1835 (W. 189)](https://www.legislation.gov.uk/wsi/2014/1835).
 
-[^key-bfaea010afff4a2bff5a3339cd2714ba]: Commencement: Sch. in force at 26.9.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2367/regulation/1/3)
+[^c-bfaea010afff4a2bff5a3339cd2714ba]: Commencement: Sch. in force at 26.9.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2367/regulation/1/3)

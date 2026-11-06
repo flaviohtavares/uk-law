@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Contracts[^key-ab8b0567548d2a701aeab77510a022ce][^key-9797e82e7f770b20f233df1cc91c73a0]
+## 60. Contracts[^c-ab8b0567548d2a701aeab77510a022ce][^c-9797e82e7f770b20f233df1cc91c73a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Secretary of State may enter into such contracts and other arrangements with
 
 ## Annotations
 
-[^key-ab8b0567548d2a701aeab77510a022ce]: Commencement: S. 60 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-ab8b0567548d2a701aeab77510a022ce]: Commencement: S. 60 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-9797e82e7f770b20f233df1cc91c73a0]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/32/section/60) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-9797e82e7f770b20f233df1cc91c73a0]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/32/section/60) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

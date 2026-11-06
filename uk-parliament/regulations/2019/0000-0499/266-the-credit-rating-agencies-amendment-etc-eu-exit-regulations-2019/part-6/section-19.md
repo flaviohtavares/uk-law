@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Notices[^key-7239995a2c5fcf1eb16bbd88a191bcaa]
+## 19. Notices[^c-7239995a2c5fcf1eb16bbd88a191bcaa]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ as it applies in respect of the giving of notices under the Act, subject as foll
 
 ## Annotations
 
-[^key-7239995a2c5fcf1eb16bbd88a191bcaa]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-7239995a2c5fcf1eb16bbd88a191bcaa]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23565691]: Marginal citation: Amended by paragraph 27 of Schedule 9 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and paragraph 13 of Schedule 3 to the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33).
 

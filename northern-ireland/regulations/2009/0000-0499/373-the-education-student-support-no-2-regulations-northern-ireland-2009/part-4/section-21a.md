@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21A. Standard entitlement – graduate entry medicine course in Northern Ireland[^key-c73acaee4ccc85f2fd5629cbda61be8b]
+## 21A. Standard entitlement – graduate entry medicine course in Northern Ireland[^c-c73acaee4ccc85f2fd5629cbda61be8b]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ where *OD* is the number of academic years that make up the ordinary duration of
 
 ## Annotations
 
-[^key-c73acaee4ccc85f2fd5629cbda61be8b]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/nisr/2009/373/regulation/21A) inserted (with application in accordance with reg. 1(5)(6)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [14](https://www.legislation.gov.uk/nisr/2025/32/regulation/14)
+[^c-c73acaee4ccc85f2fd5629cbda61be8b]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/nisr/2009/373/regulation/21A) inserted (with application in accordance with reg. 1(5)(6)(b) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [14](https://www.legislation.gov.uk/nisr/2025/32/regulation/14)

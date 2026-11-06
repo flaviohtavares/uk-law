@@ -53,7 +53,7 @@ and paragraph (a) of that subsection shall not apply to houses and other buildin
 (5) In this Part—
 
 - (a) references to the houses or other property of an authority within the authority’s Housing Revenue Account are references to the houses, dwellings or other property to which subsection (1) above for the time being applies;and
-- (b) references (however expressed) to a disposal are references to a conveyance of the freehold, or a grant or assignment of a lease (other than a shared ownership lease) which is a long tenancy within the meaning given by section 115 of the [^c15273951]Housing Act 1985 or which is a long tenancy within the meaning given by paragraph 8 of Schedule 2 to the Renting Homes (Wales) Act[^key-01a7bcea2037b14eb2533bf86e518720] [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1).
+- (b) references (however expressed) to a disposal are references to a conveyance of the freehold, or a grant or assignment of a lease (other than a shared ownership lease) which is a long tenancy within the meaning given by section 115 of the [^c15273951]Housing Act 1985 or which is a long tenancy within the meaning given by paragraph 8 of Schedule 2 to the Renting Homes (Wales) Act[^c-01a7bcea2037b14eb2533bf86e518720] [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1).
 
 (6) Sections 417 to 420 of, and Schedule 14 to, the Housing Act 1985 (which are superseded by this section, sections 75 to 78 below and Schedule 4 to this Act) shall cease to have effect.
 
@@ -73,4 +73,4 @@ and paragraph (a) of that subsection shall not apply to houses and other buildin
 
 [^c15273951]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-01a7bcea2037b14eb2533bf86e518720]: Textual amendment: Words in [s. 74(5)(b)](https://www.legislation.gov.uk/ukpga/1989/42/section/74/5/b) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [18(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/18/2)
+[^c-01a7bcea2037b14eb2533bf86e518720]: Textual amendment: Words in [s. 74(5)(b)](https://www.legislation.gov.uk/ukpga/1989/42/section/74/5/b) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [18(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/18/2)

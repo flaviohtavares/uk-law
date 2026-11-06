@@ -296,11 +296,11 @@ These Regulations may be cited as the Social Security (Restrictions on Amounts f
 
 In paragraph (2) of article 7 (transitional provision: claims for housing benefit, income support or a tax credit) of the Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) Order 2015[^f00030], after “regulation 4” insert “, or by virtue of regulation 39,”.
 
-## 5. Restrictions on amounts for children and young persons – consequential changes to the Income Support (General) Regulations 1987[^key-f0196cee3edcb1a978879d0226314cd0]
+## 5. Restrictions on amounts for children and young persons – consequential changes to the Income Support (General) Regulations 1987[^c-f0196cee3edcb1a978879d0226314cd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Restrictions on amounts for children and young persons – consequential changes to the Jobseeker’s Allowance Regulations 1996[^key-562ee2c2733aba350e3d83d88efaca0a]
+## 6. Restrictions on amounts for children and young persons – consequential changes to the Jobseeker’s Allowance Regulations 1996[^c-562ee2c2733aba350e3d83d88efaca0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -392,7 +392,7 @@ In paragraph (2) of article 7 (transitional provision: claims for housing benefi
 
   .
 
-## 9. Housing Benefit – transitional provisions for restrictions on amounts for children and young persons[^key-112b88b710e9ef81b5bc2ad8bf5311ec]
+## 9. Housing Benefit – transitional provisions for restrictions on amounts for children and young persons[^c-112b88b710e9ef81b5bc2ad8bf5311ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -511,9 +511,9 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00030]: Footnote: [S.I. 2015/634](https://www.legislation.gov.uk/uksi/2015/634).
 
-[^key-f0196cee3edcb1a978879d0226314cd0]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/376/regulation/5) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2026/316/regulation/4/a)
+[^c-f0196cee3edcb1a978879d0226314cd0]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/376/regulation/5) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2026/316/regulation/4/a)
 
-[^key-562ee2c2733aba350e3d83d88efaca0a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/376/regulation/6) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2026/316/regulation/4/b)
+[^c-562ee2c2733aba350e3d83d88efaca0a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/376/regulation/6) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2026/316/regulation/4/b)
 
 [^f00039]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213). Regulations 22 and 23 were amended by [S.I. 2008/1082](https://www.legislation.gov.uk/uksi/2008/1082) and [2428](https://www.legislation.gov.uk/uksi/2008/2428), [2010/1907](https://www.legislation.gov.uk/uksi/2010/1907) and [2430](https://www.legislation.gov.uk/uksi/2010/2430) and 2017/xxxx. Paragraph 1 of Schedule 3 was amended by [S.I. 2008/1082](https://www.legislation.gov.uk/uksi/2008/1082) and paragraph 2(1) of that Schedule was amended by [S.I. 2006/718](https://www.legislation.gov.uk/uksi/2006/718). There have been other amendments of paragraphs 1 and 2(1) of that Schedule to alter the amounts specified in them.
 
@@ -523,4 +523,4 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00042]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214). There have been amendments to regulation 22 that are not relevant to these Regulations.
 
-[^key-112b88b710e9ef81b5bc2ad8bf5311ec]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/376/regulation/9) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2026/316/regulation/4/c)
+[^c-112b88b710e9ef81b5bc2ad8bf5311ec]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/376/regulation/9) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2026/316/regulation/4/c)

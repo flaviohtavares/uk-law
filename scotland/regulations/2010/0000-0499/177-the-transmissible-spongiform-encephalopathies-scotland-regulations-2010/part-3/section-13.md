@@ -28,8 +28,8 @@ summary: ''
 
 (4) Inspectors may be accompanied by—
 
-- (a) such other persons as they consider necessary; [^key-e75bc9b5e806b3c118a34914d4b27991]...
-- (b)[^key-2063bf1f0aad95acf9720bea23bd2388] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) such other persons as they consider necessary; [^c-e75bc9b5e806b3c118a34914d4b27991]...
+- (b)[^c-2063bf1f0aad95acf9720bea23bd2388] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) If inspectors enter any unoccupied premises or (where the premises are occupied) the occupier of the premises is temporarily absent, they must leave those premises (so far as reasonably practicable) as effectively secured against unauthorised entry as the inspectors found them.
 
@@ -46,6 +46,6 @@ the justice may by a signed warrant authorise inspectors to enter the premises, 
 
 ## Annotations
 
-[^key-e75bc9b5e806b3c118a34914d4b27991]: Textual amendment: Word in [reg. 13(4)](https://www.legislation.gov.uk/ssi/2010/177/regulation/13/4) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e75bc9b5e806b3c118a34914d4b27991]: Textual amendment: Word in [reg. 13(4)](https://www.legislation.gov.uk/ssi/2010/177/regulation/13/4) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2063bf1f0aad95acf9720bea23bd2388]: Textual amendment: [Reg. 13(4)(b)](https://www.legislation.gov.uk/ssi/2010/177/regulation/13/4/b) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2063bf1f0aad95acf9720bea23bd2388]: Textual amendment: [Reg. 13(4)(b)](https://www.legislation.gov.uk/ssi/2010/177/regulation/13/4/b) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

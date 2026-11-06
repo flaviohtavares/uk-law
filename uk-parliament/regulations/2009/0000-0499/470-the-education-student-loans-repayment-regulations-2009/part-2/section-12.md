@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Officers of Revenue and Customs[^key-72d69054c27735643f4bf942b0eb7982]
+## 12. Officers of Revenue and Customs[^c-72d69054c27735643f4bf942b0eb7982]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any legal proceedings or administrative act authorised by or done for the purpos
 
 ## Annotations
 
-[^key-72d69054c27735643f4bf942b0eb7982]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/470/regulation/12) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-72d69054c27735643f4bf942b0eb7982]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/470/regulation/12) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

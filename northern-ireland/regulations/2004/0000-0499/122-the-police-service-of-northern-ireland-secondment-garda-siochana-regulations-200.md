@@ -45,13 +45,13 @@ The Secretary of State, in pursuance of sections 25, 27 and 33 of the Police (No
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-8bc55f3a7082607d686fe2cc9281ea76]
+### 1. Citation and commencement[^c-8bc55f3a7082607d686fe2cc9281ea76]
 
 (1) These regulations may be cited as the Police Service of Northern Ireland (Secondment) (Garda Síochána) Regulations 2004.
 
 (2) These regulations shall come into operation on 30th April 2004.
 
-### 2. Interpretation[^key-496bf288c12a1ac9b1989df0fa75d390]
+### 2. Interpretation[^c-496bf288c12a1ac9b1989df0fa75d390]
 
 (1) Any reference in these regulations to a member seconded from the Garda Síochána is a reference to a person –
 
@@ -70,7 +70,7 @@ The Secretary of State, in pursuance of sections 25, 27 and 33 of the Police (No
 
 ## PART II — SECONDMENTS FROM THE GARDA SÍOCHÁNA
 
-### 3. Efficiency and effectiveness of seconded officers[^key-7f8bc5002c7b8f9964579b5485b9844a]
+### 3. Efficiency and effectiveness of seconded officers[^c-7f8bc5002c7b8f9964579b5485b9844a]
 
 (1) Where a candidate for appointment under section 36A(1) of the Police (Northern Ireland) Act 2000 is a member of the Garda Síochána, the Chief Constable shall not make the appointment unless he is satisfied that the candidate –
 
@@ -79,33 +79,33 @@ The Secretary of State, in pursuance of sections 25, 27 and 33 of the Police (No
 
 (2) The Chief Constable shall make arrangements for such training as he considers appropriate for the purposes of ensuring that a member seconded from the Garda Síochána is able to perform the duties of his office efficiently and effectively.
 
-### 4. Appointment of seconded officers[^key-54ae55ef9ea0b57619dfaf7911bf7c6c]
+### 4. Appointment of seconded officers[^c-54ae55ef9ea0b57619dfaf7911bf7c6c]
 
-(1)[^key-631a756e407f1909a9324b7aa69dd58b] Where a member of the Garda Síochána is appointed to the Police Service of Northern Ireland under section 36A(1) of the Police (Northern Ireland) Act 2000, the appointment is subject to the provisions of any such protocols, addressing detailed aspects of secondments from the Garda Síochána to the Police Service of Northern Ireland, as may be signed under Article 3 of the inter-governmental agreement.
+(1)[^c-631a756e407f1909a9324b7aa69dd58b] Where a member of the Garda Síochána is appointed to the Police Service of Northern Ireland under section 36A(1) of the Police (Northern Ireland) Act 2000, the appointment is subject to the provisions of any such protocols, addressing detailed aspects of secondments from the Garda Síochána to the Police Service of Northern Ireland, as may be signed under Article 3 of the inter-governmental agreement.
 
-(2)[^key-5bacb13978143ee70d45dff6951e1862] The appointment of a member of the Garda Síochána to the Police Service of Northern Ireland under section 36A(1) of that Act is subject to regulation 10(1A) to (1C) of the Police Service of Northern Ireland Regulations 2005 (testing for evidence of controlled drugs).
+(2)[^c-5bacb13978143ee70d45dff6951e1862] The appointment of a member of the Garda Síochána to the Police Service of Northern Ireland under section 36A(1) of that Act is subject to regulation 10(1A) to (1C) of the Police Service of Northern Ireland Regulations 2005 (testing for evidence of controlled drugs).
 
-### 5. Seconded officers not eligible for promotion[^key-7b1cd32634cfeec922d120990d5a54a6]
+### 5. Seconded officers not eligible for promotion[^c-7b1cd32634cfeec922d120990d5a54a6]
 
 A member who is seconded from the Garda Síochána and appointed to a rank in the Police Service of Northern Ireland under section 36A(1) of the Police (Northern Ireland) Act 2000 shall not be eligible for any promotion to a higher rank.
 
-### 6. Police Association for Northern Ireland[^key-84034fc985615c884863b5e703202b52]
+### 6. Police Association for Northern Ireland[^c-84034fc985615c884863b5e703202b52]
 
 In regulation 5 of the Police Association for Northern Ireland Regulations 1991[^f00006] (every member of the police force shall be a member of the Police Association) after “force” insert “(other than a member seconded from the Garda Síochána (within the meaning of the Police Service of Northern Ireland (Secondment) (Garda Síochána) Regulations 2004))”.
 
-### 7. Conditions of service[^key-bc7e8c8d7c2d301368adf3b44cd582e8]
+### 7. Conditions of service[^c-bc7e8c8d7c2d301368adf3b44cd582e8]
 
-(1)[^key-d5b8e51a34f98da365928efd8b87f507] The 1996 regulations shall not apply in relation to any member seconded from the Garda Síochána, except as provided by Schedule 1.
+(1)[^c-d5b8e51a34f98da365928efd8b87f507] The 1996 regulations shall not apply in relation to any member seconded from the Garda Síochána, except as provided by Schedule 1.
 
-(2)[^key-38b669efc62688e2da7cf177e7abdc55] The appointment of a member of the Garda Síochána to the Police Service of Northern Ireland under section 36A(1) of that Act is subject to regulation 10(1A) to (1C) of the Police Service of Northern Ireland Regulations 2005 (testing for evidence of controlled drugs).
+(2)[^c-38b669efc62688e2da7cf177e7abdc55] The appointment of a member of the Garda Síochána to the Police Service of Northern Ireland under section 36A(1) of that Act is subject to regulation 10(1A) to (1C) of the Police Service of Northern Ireland Regulations 2005 (testing for evidence of controlled drugs).
 
-### 8. Conduct[^key-d5b9835202b99932a4a93135e7d039b1]
+### 8. Conduct[^c-d5b9835202b99932a4a93135e7d039b1]
 
 (1) In relation to any member seconded from the Garda Síochána, the conduct regulations shall have effect with the modifications set out in Schedule 2.
 
 (2) The Royal Ulster Constabulary (Appeals) Regulations 2000[^f00007] shall not apply in relation to any member seconded from the Garda Síochána.
 
-### 9. Notices about misconduct cases[^key-396f49110dc5fe2df2584aa8c1ed77f5]
+### 9. Notices about misconduct cases[^c-396f49110dc5fe2df2584aa8c1ed77f5]
 
 (1) Where the Chief Constable suspends a member seconded from the Garda Síochána under regulation 5 of the conduct regulations, the Chief Constable shall notify the Commissioner of the Garda Síochána in writing of the suspension.
 
@@ -122,7 +122,7 @@ In regulation 5 of the Police Association for Northern Ireland Regulations 1991[
 
 (6) The Chief Constable may delegate any of his functions under paragraph (1) or (5) to another senior officer.
 
-### 10. Members of the Garda Síochána whose appointment to the PSNI has ended[^key-2291dff5a98a7501fd509cf0171e1b64]
+### 10. Members of the Garda Síochána whose appointment to the PSNI has ended[^c-2291dff5a98a7501fd509cf0171e1b64]
 
 (1) The conduct regulations shall apply to any person –
 
@@ -141,21 +141,21 @@ as if he were still a member seconded from the Garda Síochána, subject to the 
 
 (4) Any reference to the sub-division or branch in which a member under investigation is serving includes a reference to any sub-division or branch in which the member served during the appointment referred to in paragraph (1)(b).
 
-### 11. Pensions and injury benefit[^key-8637ba2ac5a1b2cdb26b406c85d7b4bc]
+### 11. Pensions and injury benefit[^c-8637ba2ac5a1b2cdb26b406c85d7b4bc]
 
 The regulations relating to Police Service of Northern Ireland pensions and injury benefit for the time being in force shall not apply in relation to any service as a member seconded from the Garda Síochána.
 
-### 12. Unsatisfactory performance[^key-91e312952fded87edfa73381a5fa2b2e]
+### 12. Unsatisfactory performance[^c-91e312952fded87edfa73381a5fa2b2e]
 
 The Royal Ulster Constabulary (Unsatisfactory Performance) Regulations 2000[^f00008] shall not apply in relation to any member seconded from the Garda Síochána.
 
 ## PART III — SECONDMENTS TO THE GARDA SÍOCHÁNA
 
-### 13. Conduct of member on relevant service with Garda Síochána[^key-c1c58aa90d99515fef45f2013e18bedd]
+### 13. Conduct of member on relevant service with Garda Síochána[^c-c1c58aa90d99515fef45f2013e18bedd]
 
 Where an investigation is carried out in accordance with the law and procedure for the time being governing the discipline of members of the Garda Síochána into whether any conduct by a member of the Police Service of Northern Ireland engaged on relevant service with the Garda Síochána amounts to a breach of Garda Síochána discipline, any requirement imposed on the member under that law and procedure shall be treated as imposed under the conduct regulations.
 
-### 14. Supervising member[^key-a0b18b8ece301e432a21fce369b65666]
+### 14. Supervising member[^c-a0b18b8ece301e432a21fce369b65666]
 
 (1) Where the Chief Constable is notified that an investigation is being or has been carried out by the Garda Síochána into an alleged breach of Garda Síochána discipline by a member engaged on relevant service with the Garda Síochána (“the member concerned”), he may refer the case to an officer (“the supervising member”) to supervise the consideration of the question of imposing any sanction.
 
@@ -163,7 +163,7 @@ Where an investigation is carried out in accordance with the law and procedure f
 
 (3) The Chief Constable shall supply to the supervising member any report, notice or other document which he receives from the Garda Síochána in connection with the case.
 
-### 15. Referring case to hearing[^key-0f7f09de353188c108111f4dbf5f6c6a]
+### 15. Referring case to hearing[^c-0f7f09de353188c108111f4dbf5f6c6a]
 
 (1) The supervising member to whom a case is referred under regulation 14 shall decide whether to refer a case to a hearing on the question of whether to impose a sanction.
 
@@ -193,13 +193,13 @@ Where an investigation is carried out in accordance with the law and procedure f
   and any steps taken in relation to either such hearing, shall be treated as having been carried out in accordance with regulations 13 to 30 of the conduct regulations; and
 - (c) any decision of such a hearing that the member concerned did commit a breach of Garda Síochána discipline shall be treated as a decision taken under regulation 23(3) of the conduct regulations that his conduct did not meet the appropriate standard.
 
-### 16. Withdrawal of case[^key-be81ee809f46437ab0df9148b7c0baf3]
+### 16. Withdrawal of case[^c-be81ee809f46437ab0df9148b7c0baf3]
 
 (1) At any time before the beginning of the hearing the supervising member to whom a case is referred under regulation 14 may direct that the case be withdrawn.
 
 (2) Where a case is withdrawn it shall be treated as if the supervising member had decided not to refer the case to a hearing.
 
-### 17. Notice of decision to refer case to hearing[^key-fed1ac56ed754732cc44cbad9d5edc2a]
+### 17. Notice of decision to refer case to hearing[^c-fed1ac56ed754732cc44cbad9d5edc2a]
 
 (1) The supervising member to whom a case is referred under regulation 14 shall ensure that, as soon as practicable, the member concerned is given written notice of any decision taken under regulation 15.
 
@@ -212,7 +212,7 @@ Where an investigation is carried out in accordance with the law and procedure f
 
 (3) There shall be supplied to the police officers conducting the hearing a copy of the notice given under paragraph (1).
 
-### 18. Notice and documents[^key-ad028177a34782932031e30e3e05612d]
+### 18. Notice and documents[^c-ad028177a34782932031e30e3e05612d]
 
 (1) The supervising member to whom a case is referred under regulation 14 shall ensure that the member concerned is given written notice –
 
@@ -223,11 +223,11 @@ Where an investigation is carried out in accordance with the law and procedure f
 
 (2) The supervising member shall ensure that not less than 28 days before the date of the hearing, the member concerned is supplied with copies of any report, notice or other document submitted to the supervising member under regulation 14(3) and any other relevant documents obtained by the supervising member.
 
-### 19. Consideration of facts[^key-4f976fa3188f5442c2b220de4ed156e9]
+### 19. Consideration of facts[^c-4f976fa3188f5442c2b220de4ed156e9]
 
 The officers conducting a hearing to which a case is referred under regulation 15 shall consider the facts of the case and decide whether, in all the circumstances, it would be reasonable to impose a sanction.
 
-### 20. Conduct regulations[^key-5c7460c93bc60b21bcc7fb041d674134]
+### 20. Conduct regulations[^c-5c7460c93bc60b21bcc7fb041d674134]
 
 (1) The following provisions of the conduct regulations, namely –
 
@@ -246,13 +246,13 @@ shall apply in relation to a hearing to which a case is referred under regulatio
 - (a) any reference to giving notice or supplying copies of documents under regulation 13 of the conduct regulations shall be construed as a reference to doing so under regulation 18(2); and
 - (b) any reference to conduct not meeting the appropriate standard shall be construed as a reference to a breach of Garda Síochána discipline.
 
-### 21. Request for a review[^key-8d7f134bf21892f2f57bd21dc8e5b3f9]
+### 21. Request for a review[^c-8d7f134bf21892f2f57bd21dc8e5b3f9]
 
 (1) Where a sanction is imposed at a hearing to which a case is referred under regulation 15, the member concerned shall be entitled to request the Chief Constable to review the sanction.
 
 (2) Regulations 34(2) and (3), 35(1) and (3), 36 and 37 of the conduct regulations shall apply to a review requested under this regulation as they apply to a review requested under regulation 34(1) of those regulations.
 
-### 22. Disciplinary proceedings[^key-3072f0f6e449e79489152916a53bb0b3]
+### 22. Disciplinary proceedings[^c-3072f0f6e449e79489152916a53bb0b3]
 
 Proceedings at or in connection with a hearing to which a case is referred under regulation 15 shall, for the purposes of section 50 of the 1998 Act, be disciplinary proceedings.
 
@@ -264,11 +264,11 @@ Northern Ireland Office
 
 11th March 2004
 
-## SCHEDULE 1 — MODIFICATIONS OF THE 1996 REGULATIONS FOR MEMBERS SECONDED FROM THE GARDA SÍOCHÁNA[^key-2913d7818ac8faee6fe4bb0af188ae36]
+## SCHEDULE 1 — MODIFICATIONS OF THE 1996 REGULATIONS FOR MEMBERS SECONDED FROM THE GARDA SÍOCHÁNA[^c-2913d7818ac8faee6fe4bb0af188ae36]
 
 Regulation 7
 
-[^key-2913d7818ac8faee6fe4bb0af188ae36]
+[^c-2913d7818ac8faee6fe4bb0af188ae36]
 
 The following provisions of the 1996 regulations shall apply in relation to a member seconded from the Garda Síochána, namely –
 
@@ -344,13 +344,13 @@ The following provisions of the 1996 regulations shall apply in relation to a me
 
 Regulation 8
 
-**1.**[^key-fc8ce8b187246b07ebd19d1fe5827685] Any reference in regulation 9(a)(iv), 26(2) or 35(3) of the conduct regulations to a member, or a member of a police force, accompanying a member seconded from the Garda Síochána at a hearing or meeting shall include a reference to a member of the Garda Síochána.
+**1.**[^c-fc8ce8b187246b07ebd19d1fe5827685] Any reference in regulation 9(a)(iv), 26(2) or 35(3) of the conduct regulations to a member, or a member of a police force, accompanying a member seconded from the Garda Síochána at a hearing or meeting shall include a reference to a member of the Garda Síochána.
 
-**2.**[^key-d535852d513532de47187793eac7b1e1] Any reference in the conduct regulations to a staff association shall include a reference to an association representing members of the Garda Síochána.
+**2.**[^c-d535852d513532de47187793eac7b1e1] Any reference in the conduct regulations to a staff association shall include a reference to an association representing members of the Garda Síochána.
 
-**3.**[^key-23bb7e75f6896434f7f66eaccb3470f8] Any requirement in the conduct regulations to give a member the opportunity to elect to be legally represented shall apply in any case in which the supervising member considers that the circumstances of the case are such that, were the member concerned not seconded from the Garda Síochána, the supervising member would be of the opinion that the hearing should have available the sanctions of dismissal, requirement to resign or reduction in rank.
+**3.**[^c-23bb7e75f6896434f7f66eaccb3470f8] Any requirement in the conduct regulations to give a member the opportunity to elect to be legally represented shall apply in any case in which the supervising member considers that the circumstances of the case are such that, were the member concerned not seconded from the Garda Síochána, the supervising member would be of the opinion that the hearing should have available the sanctions of dismissal, requirement to resign or reduction in rank.
 
-**4.**[^key-ee1c25ae0ba709200618b166b1bdc4ec] The following provisions of the conduct regulations shall be omitted –
+**4.**[^c-ee1c25ae0ba709200618b166b1bdc4ec] The following provisions of the conduct regulations shall be omitted –
 
 - (a) regulations 10(2) and 11(3) (special cases);
 - (b) regulation 14 (limitation on sanctions);
@@ -362,20 +362,20 @@ Regulation 8
 - (h) regulation 36(4); and
 - (i) regulation 39 (special cases).
 
-**5.**[^key-6af88265466307ffd85c9e454ae8ace7] In regulation 29(2)(b) of the conduct regulations (remission of cases) for the words from the beginning to “available and that” there shall be substituted “the member concerned was not given an opportunity under regulation 16 to elect to be legally represented at the hearing, and it appears to the presiding officer concerned that –
+**5.**[^c-6af88265466307ffd85c9e454ae8ace7] In regulation 29(2)(b) of the conduct regulations (remission of cases) for the words from the beginning to “available and that” there shall be substituted “the member concerned was not given an opportunity under regulation 16 to elect to be legally represented at the hearing, and it appears to the presiding officer concerned that –
 
 > - (i) were the member concerned not seconded from the Garda Síochána, the sanctions referred to in that regulation ought to be available on a finding against him, and
 > - (ii)
 
 .
 
-**6.**[^key-d31afa024098c5445b96a9b19c583596] For regulation 34(1) of the conduct regulations (request for a review) there shall be substituted –
+**6.**[^c-d31afa024098c5445b96a9b19c583596] For regulation 34(1) of the conduct regulations (request for a review) there shall be substituted –
 
 > (1) The member concerned shall be entitled to request the Chief Constable to review the finding of the hearing
 
 .
 
-**7.**[^key-97717bd4eef119534a10507f030b4d0e] For regulation 36(2) of the conduct regulations (finding of the review) there shall be substituted –
+**7.**[^c-97717bd4eef119534a10507f030b4d0e] For regulation 36(2) of the conduct regulations (finding of the review) there shall be substituted –
 
 > (2) The Chief Constable may confirm the finding of the hearing or reach a different finding
 
@@ -407,9 +407,9 @@ Part III of these regulations makes provision about disciplinary proceedings aga
 
 [^f00002]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16)
 
-[^key-8bc55f3a7082607d686fe2cc9281ea76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/122/regulation/1) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-8bc55f3a7082607d686fe2cc9281ea76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/122/regulation/1) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-496bf288c12a1ac9b1989df0fa75d390]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/122/regulation/2) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-496bf288c12a1ac9b1989df0fa75d390]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/122/regulation/2) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
 [^f00003]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32). Section 36A was inserted by the Police (Northern Ireland) Act 2003
 
@@ -417,72 +417,72 @@ Part III of these regulations makes provision about disciplinary proceedings aga
 
 [^f00005]: Footnote: [S.R. 2000 No. 315](https://www.legislation.gov.uk/nisr/2000/315), as amended by [S.R. 2003 No. 68](https://www.legislation.gov.uk/nisr/2003/68)
 
-[^key-7f8bc5002c7b8f9964579b5485b9844a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/122/regulation/3) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-7f8bc5002c7b8f9964579b5485b9844a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/122/regulation/3) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-54ae55ef9ea0b57619dfaf7911bf7c6c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/122/regulation/4) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-54ae55ef9ea0b57619dfaf7911bf7c6c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/122/regulation/4) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-631a756e407f1909a9324b7aa69dd58b]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2004/122/regulation/4/1): reg. 4 renumbered as reg. 4(1) (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/4/2)
+[^c-631a756e407f1909a9324b7aa69dd58b]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2004/122/regulation/4/1): reg. 4 renumbered as reg. 4(1) (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/4/2)
 
-[^key-5bacb13978143ee70d45dff6951e1862]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/4/2) inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/4/2)
+[^c-5bacb13978143ee70d45dff6951e1862]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/4/2) inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/4/2)
 
-[^key-7b1cd32634cfeec922d120990d5a54a6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/122/regulation/5) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-7b1cd32634cfeec922d120990d5a54a6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/122/regulation/5) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-84034fc985615c884863b5e703202b52]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/122/regulation/6) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-84034fc985615c884863b5e703202b52]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/122/regulation/6) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
 [^f00006]: Footnote: [S.R. 1991 No. 168](https://www.legislation.gov.uk/nisr/1991/168)
 
-[^key-bc7e8c8d7c2d301368adf3b44cd582e8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/122/regulation/7) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-bc7e8c8d7c2d301368adf3b44cd582e8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/122/regulation/7) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-d5b8e51a34f98da365928efd8b87f507]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/nisr/2004/122/regulation/7/1): reg. 7 renumbered as reg. 7(1) (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2008/325/regulation/4/3)
+[^c-d5b8e51a34f98da365928efd8b87f507]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/nisr/2004/122/regulation/7/1): reg. 7 renumbered as reg. 7(1) (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2008/325/regulation/4/3)
 
-[^key-38b669efc62688e2da7cf177e7abdc55]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/7/2) inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2008/325/regulation/4/3)
+[^c-38b669efc62688e2da7cf177e7abdc55]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/7/2) inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2008/325/regulation/4/3)
 
-[^key-d5b9835202b99932a4a93135e7d039b1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/122/regulation/8) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-d5b9835202b99932a4a93135e7d039b1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/122/regulation/8) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
 [^f00007]: Footnote: [S.R. 2000 No. 317](https://www.legislation.gov.uk/nisr/2000/317)
 
-[^key-396f49110dc5fe2df2584aa8c1ed77f5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/122/regulation/9) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-396f49110dc5fe2df2584aa8c1ed77f5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/122/regulation/9) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-2291dff5a98a7501fd509cf0171e1b64]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2004/122/regulation/10) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-2291dff5a98a7501fd509cf0171e1b64]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2004/122/regulation/10) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-8637ba2ac5a1b2cdb26b406c85d7b4bc]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2004/122/regulation/11) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-8637ba2ac5a1b2cdb26b406c85d7b4bc]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2004/122/regulation/11) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-91e312952fded87edfa73381a5fa2b2e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2004/122/regulation/12) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-91e312952fded87edfa73381a5fa2b2e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2004/122/regulation/12) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
 [^f00008]: Footnote: [S.R. 2000 No. 316](https://www.legislation.gov.uk/nisr/2000/316)
 
-[^key-c1c58aa90d99515fef45f2013e18bedd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2004/122/regulation/13) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-c1c58aa90d99515fef45f2013e18bedd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2004/122/regulation/13) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-a0b18b8ece301e432a21fce369b65666]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2004/122/regulation/14) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-a0b18b8ece301e432a21fce369b65666]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2004/122/regulation/14) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-0f7f09de353188c108111f4dbf5f6c6a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2004/122/regulation/15) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-0f7f09de353188c108111f4dbf5f6c6a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2004/122/regulation/15) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-be81ee809f46437ab0df9148b7c0baf3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2004/122/regulation/16) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-be81ee809f46437ab0df9148b7c0baf3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2004/122/regulation/16) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-fed1ac56ed754732cc44cbad9d5edc2a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2004/122/regulation/17) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-fed1ac56ed754732cc44cbad9d5edc2a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2004/122/regulation/17) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-ad028177a34782932031e30e3e05612d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2004/122/regulation/18) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-ad028177a34782932031e30e3e05612d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2004/122/regulation/18) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-4f976fa3188f5442c2b220de4ed156e9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2004/122/regulation/19) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-4f976fa3188f5442c2b220de4ed156e9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2004/122/regulation/19) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-5c7460c93bc60b21bcc7fb041d674134]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2004/122/regulation/20) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-5c7460c93bc60b21bcc7fb041d674134]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2004/122/regulation/20) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-8d7f134bf21892f2f57bd21dc8e5b3f9]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2004/122/regulation/21) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-8d7f134bf21892f2f57bd21dc8e5b3f9]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2004/122/regulation/21) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-3072f0f6e449e79489152916a53bb0b3]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2004/122/regulation/22) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-3072f0f6e449e79489152916a53bb0b3]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2004/122/regulation/22) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-2913d7818ac8faee6fe4bb0af188ae36]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2004/122/schedule/1) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-2913d7818ac8faee6fe4bb0af188ae36]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2004/122/schedule/1) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-fc8ce8b187246b07ebd19d1fe5827685]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/1) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-fc8ce8b187246b07ebd19d1fe5827685]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/1) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-d535852d513532de47187793eac7b1e1]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/2) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-d535852d513532de47187793eac7b1e1]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/2) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-23bb7e75f6896434f7f66eaccb3470f8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/3) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-23bb7e75f6896434f7f66eaccb3470f8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/3) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-ee1c25ae0ba709200618b166b1bdc4ec]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/4) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-ee1c25ae0ba709200618b166b1bdc4ec]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/4) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-6af88265466307ffd85c9e454ae8ace7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/5) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-6af88265466307ffd85c9e454ae8ace7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/5) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-d31afa024098c5445b96a9b19c583596]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/6) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-d31afa024098c5445b96a9b19c583596]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/6) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
 
-[^key-97717bd4eef119534a10507f030b4d0e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/7) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)
+[^c-97717bd4eef119534a10507f030b4d0e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2004/122/schedule/2/paragraph/7) in operation at 30.4.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2)

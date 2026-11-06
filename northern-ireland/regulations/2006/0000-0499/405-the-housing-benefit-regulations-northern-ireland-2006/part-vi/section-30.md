@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Calculation of weekly income[^key-ed97b4c04d938d1fa0c0694f6566d6ba]
+## 30. Calculation of weekly income[^c-ed97b4c04d938d1fa0c0694f6566d6ba]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed97b4c04d938d1fa0c0694f6566d6ba]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/405/regulation/30) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-ed97b4c04d938d1fa0c0694f6566d6ba]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/405/regulation/30) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

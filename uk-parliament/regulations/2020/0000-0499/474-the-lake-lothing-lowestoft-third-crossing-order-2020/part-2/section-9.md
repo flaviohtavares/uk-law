@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Classification of roads, etc.[^key-3520a74d76035ea86d2bf1c7d6e5341a]
+## 9. Classification of roads, etc.[^c-3520a74d76035ea86d2bf1c7d6e5341a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ On the date on which the roads described in Schedule 3 (classification of roads,
 
 ## Annotations
 
-[^key-3520a74d76035ea86d2bf1c7d6e5341a]: Commencement: Art. 9 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-3520a74d76035ea86d2bf1c7d6e5341a]: Commencement: Art. 9 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

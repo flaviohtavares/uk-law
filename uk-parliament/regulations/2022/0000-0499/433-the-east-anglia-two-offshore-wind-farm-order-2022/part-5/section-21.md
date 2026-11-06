@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Private rights[^key-7f2a7a61a6855d1a5f34a2eb269c49b6]
+## 21. Private rights[^c-7f2a7a61a6855d1a5f34a2eb269c49b6]
 
 *Extent: E+W+S*
 
@@ -62,6 +62,6 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-7f2a7a61a6855d1a5f34a2eb269c49b6]: Commencement: Art. 21 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-7f2a7a61a6855d1a5f34a2eb269c49b6]: Commencement: Art. 21 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
 [^f00034]: Footnote: Section 11(1) was amended by sections 186 to 188 of and Schedules 14 and 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67) and Schedule 5 to the Church of England (Miscellaneous Provision) Measure [2006 No 1](https://www.legislation.gov.uk/ukcm/2006/1) and Schedule 1 to the Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009/1307.

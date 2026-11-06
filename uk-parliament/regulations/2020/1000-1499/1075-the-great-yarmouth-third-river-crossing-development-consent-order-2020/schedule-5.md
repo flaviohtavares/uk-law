@@ -22,7 +22,7 @@ summary: ''
 
 Article 18(1)
 
-### PART 1 — PROHIBITIONS AND RESTRICTIONS OF WAITING, LOADING, ETC.[^key-0af2fd0f9ab5d2a165efa53f492d583a]
+### PART 1 — PROHIBITIONS AND RESTRICTIONS OF WAITING, LOADING, ETC.[^c-0af2fd0f9ab5d2a165efa53f492d583a]
 
 In this Part of this Schedule the terms “disabled person's badge” and “relevant position” each have the meanings given in the Disabled Persons (Badges for Motor Vehicles) (England) Regulations 2000 [^c24294851].
 
@@ -54,7 +54,7 @@ In this Part of this Schedule the terms “disabled person's badge” and “rel
 | Sheet 2<br>Reference 35 | U60782 Middle Road West<br>east side<br>From its junction with the U60795 Sutton Road southwards for a distance of 7 metres | All motor vehicles: no waiting at any time |
 | Sheets 1 and 2<br>Reference 38 | U61057 Cromwell Road south side<br>From a point 35 metres west of its junction with Southtown Road, the provision of a disabled parking bay 6.6 metres in length | All motor vehicles: no waiting at any time save for a vehicle displaying a disabled person's badge in the relevant position |
 
-### PART 2 — DIRECTION OF TRAVEL, ENTRY, ETC.[^key-36e263be84181a2576f35d666c76265f]
+### PART 2 — DIRECTION OF TRAVEL, ENTRY, ETC.[^c-36e263be84181a2576f35d666c76265f]
 
 | *(1)* *Traffic regulation measures plans sheet number and reference number* | *(2)* *Number, name and side of road within the Borough of Great Yarmouth and affected length* | *(3)* *Measure* |
 | --- | --- | --- |
@@ -62,7 +62,7 @@ In this Part of this Schedule the terms “disabled person's badge” and “rel
 | Sheet 1 and Sheet 2<br>Reference 34 | The New Road<br>north side (east bound)<br>From a point 155 metres east of its junction with the new roundabout for a distance of 135 metres in an easterly direction | All vehicles, pedestrians and persons driving, riding or leading a horse or other animal of draught or burden: prohibition of entry when indicated by signs<br>and barriers or by direction of an authorised person |
 | Sheet 1<br>Reference 37 | C618 Suffolk Road<br>both sides<br>From its junction with the new roundabout to its junction with U61054 Boundary Road | All vehicles: one way from south to north |
 
-### PART 3 — VARIATION AND REVOCATION OF EXISTING ORDERS[^key-de88749a4907373fcc2b09d58cbfaf20]
+### PART 3 — VARIATION AND REVOCATION OF EXISTING ORDERS[^c-de88749a4907373fcc2b09d58cbfaf20]
 
 | *(1)* *Traffic regulation measures plans sheet number and reference number* | *(2)* *Number, name and side of road within the Borough of Great Yarmouth and affected length* | *(3)* *Title of Order* | *(4)* *Variation or revocation* |
 | --- | --- | --- | --- |
@@ -77,10 +77,10 @@ In this Part of this Schedule the terms “disabled person's badge” and “rel
 
 ## Annotations
 
-[^key-0af2fd0f9ab5d2a165efa53f492d583a]: Commencement: Sch. 5 Pt. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-0af2fd0f9ab5d2a165efa53f492d583a]: Commencement: Sch. 5 Pt. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294851]: Marginal citation: [S.I. 2000/682](https://www.legislation.gov.uk/uksi/2000/682).
 
-[^key-36e263be84181a2576f35d666c76265f]: Commencement: Sch. 5 Pt. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-36e263be84181a2576f35d666c76265f]: Commencement: Sch. 5 Pt. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-de88749a4907373fcc2b09d58cbfaf20]: Commencement: Sch. 5 Pt. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-de88749a4907373fcc2b09d58cbfaf20]: Commencement: Sch. 5 Pt. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

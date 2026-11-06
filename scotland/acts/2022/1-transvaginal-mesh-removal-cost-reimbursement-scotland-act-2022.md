@@ -35,7 +35,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Power to reimburse costs
 
-### 1. Power for Scottish Ministers to reimburse costs relating to the removal of transvaginal mesh[^key-f856e3f903a1c5c0d34c2a60e5f331ee]
+### 1. Power for Scottish Ministers to reimburse costs relating to the removal of transvaginal mesh[^c-f856e3f903a1c5c0d34c2a60e5f331ee]
 
 (1) The Scottish Ministers may make a scheme for the making of payments by them reimbursing costs incurred in connection with qualifying mesh removal surgery.
 
@@ -62,7 +62,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) In subsection (3), “**health board**” means a board constituted under section 2(1)(a) of the National Health Service (Scotland) Act 1978.
 
-### 2. Further provision about scheme[^key-0eaeb9662814195d1d7af842c71a513a]
+### 2. Further provision about scheme[^c-0eaeb9662814195d1d7af842c71a513a]
 
 (1) A scheme under section 1 may in particular make provision—
 
@@ -89,7 +89,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Final provisions
 
-### 3. Ancillary provision[^key-806fa5ecebb7d8a5d9178ac9244b701c]
+### 3. Ancillary provision[^c-806fa5ecebb7d8a5d9178ac9244b701c]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision that they consider appropriate for the purposes of, in connection with, or for giving full effect to this Act or any provision made under it.
 
@@ -103,24 +103,24 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise, are subject to the negative procedure.
 
-### 4. Commencement[^key-0ac7150fe8cc5446cb5f417bf8816aaa]
+### 4. Commencement[^c-0ac7150fe8cc5446cb5f417bf8816aaa]
 
 (1) This section and sections 3 and 5 come into force on the day after Royal Assent.
 
 (2) Sections 1 and 2 come into force at the end of the period of two months beginning with the day of Royal Assent.
 
-### 5. Short title[^key-47c0d18575a00d1e705439870870614a]
+### 5. Short title[^c-47c0d18575a00d1e705439870870614a]
 
 The short title of this Act is the Transvaginal Mesh Removal (Cost Reimbursement) (Scotland) Act 2022.
 
 ## Annotations
 
-[^key-f856e3f903a1c5c0d34c2a60e5f331ee]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2022/1/section/1) in force at 3.5.2022, see [s. 4(2)](https://www.legislation.gov.uk/asp/2022/1/section/4/2)
+[^c-f856e3f903a1c5c0d34c2a60e5f331ee]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2022/1/section/1) in force at 3.5.2022, see [s. 4(2)](https://www.legislation.gov.uk/asp/2022/1/section/4/2)
 
-[^key-0eaeb9662814195d1d7af842c71a513a]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2022/1/section/2) in force at 3.5.2022, see [s. 4(2)](https://www.legislation.gov.uk/asp/2022/1/section/4/2)
+[^c-0eaeb9662814195d1d7af842c71a513a]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2022/1/section/2) in force at 3.5.2022, see [s. 4(2)](https://www.legislation.gov.uk/asp/2022/1/section/4/2)
 
-[^key-806fa5ecebb7d8a5d9178ac9244b701c]: Commencement: S. 3 in force at 4.3.2022, see [s. 4(1)](https://www.legislation.gov.uk/asp/2022/1/section/4/1)
+[^c-806fa5ecebb7d8a5d9178ac9244b701c]: Commencement: S. 3 in force at 4.3.2022, see [s. 4(1)](https://www.legislation.gov.uk/asp/2022/1/section/4/1)
 
-[^key-0ac7150fe8cc5446cb5f417bf8816aaa]: Commencement: S. 4 in force at 4.3.2022, see [s. 4(1)](https://www.legislation.gov.uk/asp/2022/1/section/4/1)
+[^c-0ac7150fe8cc5446cb5f417bf8816aaa]: Commencement: S. 4 in force at 4.3.2022, see [s. 4(1)](https://www.legislation.gov.uk/asp/2022/1/section/4/1)
 
-[^key-47c0d18575a00d1e705439870870614a]: Commencement: S. 5 in force at 4.3.2022, see [s. 4(1)](https://www.legislation.gov.uk/asp/2022/1/section/4/1)
+[^c-47c0d18575a00d1e705439870870614a]: Commencement: S. 5 in force at 4.3.2022, see [s. 4(1)](https://www.legislation.gov.uk/asp/2022/1/section/4/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105A. Section 105 notices: supplemental[^key-1013f672e6a9bc6b08e4ef2ba24574c6]
+## 105A. Section 105 notices: supplemental[^c-1013f672e6a9bc6b08e4ef2ba24574c6]
 
 *Extent: E+W+S+N.I.*
 
-(1) The appropriate Minister[^key-f446ceb88a2c8efd41e9e5af847191b4] may not give a notice under section 105(2)(b) to a body corporate associated with a person (“the responsible person”) within section 105(1)(a), (b) or (c) unless the appropriate Minister—
+(1) The appropriate Minister[^c-f446ceb88a2c8efd41e9e5af847191b4] may not give a notice under section 105(2)(b) to a body corporate associated with a person (“the responsible person”) within section 105(1)(a), (b) or (c) unless the appropriate Minister—
 
 - (a) has given a notice to the responsible person under section 105(2)(a), and
 - (b) is not satisfied that adequate arrangements (including financial arrangements) have been made by the responsible person to ensure that a satisfactory decommissioning programme will be carried out.
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1013f672e6a9bc6b08e4ef2ba24574c6]: Textual amendment: S. 105A inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 69(4)](https://www.legislation.gov.uk/ukpga/2008/32/section/69/4), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
+[^c-1013f672e6a9bc6b08e4ef2ba24574c6]: Textual amendment: S. 105A inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 69(4)](https://www.legislation.gov.uk/ukpga/2008/32/section/69/4), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
 
-[^key-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))

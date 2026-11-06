@@ -29,10 +29,10 @@ summary: ''
 
 in so far as the making of the order or the doing of the act would be prohibited in the case of a court in Northern Ireland or a relevant office-holder by provisions made by or under this Part.
 
-(3) Paragraph (2) does not affect the recognition or enforcement of a judgment required to be recognised or enforced under or by virtue of the Civil Jurisdiction and Judgments Act 1982 [^key-6b29890d74f54693d942ed9dda1be23b]....
+(3) Paragraph (2) does not affect the recognition or enforcement of a judgment required to be recognised or enforced under or by virtue of the Civil Jurisdiction and Judgments Act 1982 [^c-6b29890d74f54693d942ed9dda1be23b]....
 
 ## Annotations
 
 [^c16862781]: Textual amendment: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40)
 
-[^key-6b29890d74f54693d942ed9dda1be23b]: Textual amendment: Words in art. 104(3) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [65](https://www.legislation.gov.uk/uksi/2019/479/regulation/65) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b29890d74f54693d942ed9dda1be23b]: Textual amendment: Words in art. 104(3) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [65](https://www.legislation.gov.uk/uksi/2019/479/regulation/65) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

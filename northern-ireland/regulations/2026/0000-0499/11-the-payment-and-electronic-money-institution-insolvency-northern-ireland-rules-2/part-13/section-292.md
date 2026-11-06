@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 292. “Debt” and “liability”[^key-eb6c7e70010802c742a7baaffe758c83]
+## 292. “Debt” and “liability”[^c-eb6c7e70010802c742a7baaffe758c83]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb6c7e70010802c742a7baaffe758c83]: Commencement: [Rule 292](https://www.legislation.gov.uk/nisr/2026/11/rule/292) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-eb6c7e70010802c742a7baaffe758c83]: Commencement: [Rule 292](https://www.legislation.gov.uk/nisr/2026/11/rule/292) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

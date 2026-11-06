@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58A. Trading VRTS credits with CRTS participants: SPV van manufacturers[^key-18e77fee29d17dc2dede6eb594b8033b]
+## 58A. Trading VRTS credits with CRTS participants: SPV van manufacturers[^c-18e77fee29d17dc2dede6eb594b8033b]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18e77fee29d17dc2dede6eb594b8033b]: Textual amendment: [Art. 58A](https://www.legislation.gov.uk/uksi/2023/1394/article/58A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [29](https://www.legislation.gov.uk/uksi/2025/1101/article/29)
+[^c-18e77fee29d17dc2dede6eb594b8033b]: Textual amendment: [Art. 58A](https://www.legislation.gov.uk/uksi/2023/1394/article/58A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [29](https://www.legislation.gov.uk/uksi/2025/1101/article/29)

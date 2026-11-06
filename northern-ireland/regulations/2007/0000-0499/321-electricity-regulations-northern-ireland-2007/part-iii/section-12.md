@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Existing supply licence holders[^key-d9b32eac42a0ea101713fa7feab780b4]
+## 12. Existing supply licence holders[^c-d9b32eac42a0ea101713fa7feab780b4]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d9b32eac42a0ea101713fa7feab780b4]: Commencement: Reg. 12 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-d9b32eac42a0ea101713fa7feab780b4]: Commencement: Reg. 12 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
 
 [^f00008]: Footnote: S.I. [1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231)
 

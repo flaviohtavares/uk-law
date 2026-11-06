@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.33. Recission or amendment of order for limited disclosure[^key-e1191d43b9d443c07a03b2763b6954ff]
+## 3.33. Recission or amendment of order for limited disclosure[^c-e1191d43b9d443c07a03b2763b6954ff]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1191d43b9d443c07a03b2763b6954ff]: Commencement: Rule 3.33 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-e1191d43b9d443c07a03b2763b6954ff]: Commencement: Rule 3.33 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Right to advocacy[^key-dcf103ce9247409b45ce9b522644891f]
+## 10. Right to advocacy[^c-dcf103ce9247409b45ce9b522644891f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcf103ce9247409b45ce9b522644891f]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/9/section/10) in force at 30.6.2020 by [S.S.I. 2020/75](https://www.legislation.gov.uk/ssi/2020/75), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/75/regulation/2/1/a)
+[^c-dcf103ce9247409b45ce9b522644891f]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/9/section/10) in force at 30.6.2020 by [S.S.I. 2020/75](https://www.legislation.gov.uk/ssi/2020/75), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/75/regulation/2/1/a)

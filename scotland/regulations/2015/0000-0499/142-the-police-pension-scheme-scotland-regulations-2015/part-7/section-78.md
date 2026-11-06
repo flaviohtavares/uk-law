@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Qualifying service[^key-25b6ab0ffd3547fc7c502cf68a1d5a2a]
+## 78. Qualifying service[^c-25b6ab0ffd3547fc7c502cf68a1d5a2a]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-25b6ab0ffd3547fc7c502cf68a1d5a2a]: Commencement: Reg. 78 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-25b6ab0ffd3547fc7c502cf68a1d5a2a]: Commencement: Reg. 78 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00046]: Footnote: This includes any service transferred into the 2006 scheme before the member’s transition date.
 

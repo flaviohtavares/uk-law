@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-[^key-31156ca262e6afea0e20aa1c97b71bbc]The Public Health Notifiable Diseases Order (Northern Ireland) 2020 (revoked)
+[^c-31156ca262e6afea0e20aa1c97b71bbc]The Public Health Notifiable Diseases Order (Northern Ireland) 2020 (revoked)
 
 Made
 
@@ -72,4 +72,4 @@ The Department of Health, in exercise of the powers conferred by section 1(2) of
 
 ## Annotations
 
-[^key-31156ca262e6afea0e20aa1c97b71bbc]: Textual amendment: Order revoked (8.7.2021) by [The Public Health Notifiable Diseases Order (Northern Ireland) 2021 (S.R. 2021/160)](https://www.legislation.gov.uk/nisr/2021/160), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/160/article/1/1), [3](https://www.legislation.gov.uk/nisr/2021/160/article/3)
+[^c-31156ca262e6afea0e20aa1c97b71bbc]: Textual amendment: Order revoked (8.7.2021) by [The Public Health Notifiable Diseases Order (Northern Ireland) 2021 (S.R. 2021/160)](https://www.legislation.gov.uk/nisr/2021/160), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/160/article/1/1), [3](https://www.legislation.gov.uk/nisr/2021/160/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Appeal to Court of Appeal about external orders[^key-d19b9b6996d8c5a58f8f8e46c35a4351]
+## 23. Appeal to Court of Appeal about external orders[^c-d19b9b6996d8c5a58f8f8e46c35a4351]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d19b9b6996d8c5a58f8f8e46c35a4351]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2005/3181/article/23) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-d19b9b6996d8c5a58f8f8e46c35a4351]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2005/3181/article/23) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

@@ -34,7 +34,7 @@ This Scottish Statutory Instrument has been printed to correct errors in [S.S.I.
 
 Sheriff Court
 
-The Sheriff Court Fees Amendment Order 2022 (revoked)[^key-858a8de5bf6fe6f9b4cd7671044b7917]
+The Sheriff Court Fees Amendment Order 2022 (revoked)[^c-858a8de5bf6fe6f9b4cd7671044b7917]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 1st July 2022
 
-[^key-858a8de5bf6fe6f9b4cd7671044b7917]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-858a8de5bf6fe6f9b4cd7671044b7917]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-858a8de5bf6fe6f9b4cd7671044b7917]
+## 1. Citation and commencement[^c-858a8de5bf6fe6f9b4cd7671044b7917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sheriff Court Fees Order 2022[^key-858a8de5bf6fe6f9b4cd7671044b7917]
+## 2. Amendment of the Sheriff Court Fees Order 2022[^c-858a8de5bf6fe6f9b4cd7671044b7917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-858a8de5bf6fe6f9b4cd7671044b7917]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-858a8de5bf6fe6f9b4cd7671044b7917]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-858a8de5bf6fe6f9b4cd7671044b7917]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-858a8de5bf6fe6f9b4cd7671044b7917]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-858a8de5bf6fe6f9b4cd7671044b7917]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/214) revoked (1.11.2024) by [The Sheriff Court Fees Order 2024 (S.S.I. 2024/235)](https://www.legislation.gov.uk/ssi/2024/235), [arts. 1](https://www.legislation.gov.uk/ssi/2024/235/article/1), [15(b)](https://www.legislation.gov.uk/ssi/2024/235/article/15/b)
+[^c-858a8de5bf6fe6f9b4cd7671044b7917]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/214) revoked (1.11.2024) by [The Sheriff Court Fees Order 2024 (S.S.I. 2024/235)](https://www.legislation.gov.uk/ssi/2024/235), [arts. 1](https://www.legislation.gov.uk/ssi/2024/235/article/1), [15(b)](https://www.legislation.gov.uk/ssi/2024/235/article/15/b)

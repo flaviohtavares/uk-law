@@ -54,15 +54,15 @@ The General Medical Council has made the General Medical Council (Constitution o
 
 By virtue of paragraph 24 of Schedule 1[^f00002] to that Act, the Rules shall not have effect until approved by order of the Privy Council.
 
-## 1. Citation and commencement[^key-26d52e12bab2123fdfedf4ac1eff4b4a]
+## 1. Citation and commencement[^c-26d52e12bab2123fdfedf4ac1eff4b4a]
 
 This Order may be cited as the General Medical Council (Constitution of Panels, Tribunals and Investigation Committee) Rules Order of Council 2015 and comes into force on 31st December 2015.
 
-## 2. Privy Council approval[^key-1d61569948facf0b3de81530e0ca4a6a]
+## 2. Privy Council approval[^c-1d61569948facf0b3de81530e0ca4a6a]
 
 Their Lordships, having taken the Rules in the Schedule into consideration, are pleased to and do approve them.
 
-## 3. Revocation of Orders of Council[^key-e86fd695088806e5e71dadf73e8e4817]
+## 3. Revocation of Orders of Council[^c-e86fd695088806e5e71dadf73e8e4817]
 
 The following instruments are revoked—
 
@@ -81,24 +81,24 @@ Article 2
 
 These Rules are made by the General Medical Council in exercise of the powers conferred by paragraphs 19B to 19D, 19G, 23 and 23B of Schedule 1 to the Medical Act 1983[^f00007].
 
-### 1. Citation, commencement and interpretation[^key-1ce2584e98ac918085b2f6898934d392]
+### 1. Citation, commencement and interpretation[^c-1ce2584e98ac918085b2f6898934d392]
 
 These Rules may be cited as the General Medical Council (Constitution of Panels, Tribunals and Investigation Committee) Rules 2015 and come into force on 31st December 2015.
 
-### 2. Interpretation[^key-ba58a71786f6bc8659858d54e95f8563]
+### 2. Interpretation[^c-ba58a71786f6bc8659858d54e95f8563]
 
 In these Rules—
 
 - “the Act” means the Medical Act 1983;
 - “appropriate person” means a person of good character who is fit to sit as a panellist or tribunal member;
 - “the Committee” means the Investigation Committee;
-- “lay” has the same meaning as in paragraph 1A(1)(b) of Schedule 1 to the Act;[^key-74dc0319ce465396ccfc49e832fbe740]
-- “medical”, in relation to any person, means a person who is fully registered or provisionally registered under the Act and holds a licence to practise under the Act;[^key-660a2a1828f0ab1e458a841c75c0ecde]
+- “lay” has the same meaning as in paragraph 1A(1)(b) of Schedule 1 to the Act;[^c-74dc0319ce465396ccfc49e832fbe740]
+- “medical”, in relation to any person, means a person who is fully registered or provisionally registered under the Act and holds a licence to practise under the Act;[^c-660a2a1828f0ab1e458a841c75c0ecde]
 - “Panel” means a Registration Appeals Panel or a Registration Panel;
 - “panellist” means a person sitting on a Panel or the Investigation Committee;
 - “Tribunal” means an Interim Orders Tribunal or a Medical Practitioners Tribunal.
 
-### 3. Lists of panellists[^key-2204da92b0e8352a8a2afd3385f387ce]
+### 3. Lists of panellists[^c-2204da92b0e8352a8a2afd3385f387ce]
 
 (1) The General Council must, in accordance with paragraphs (3) and (4), appoint to and maintain—
 
@@ -115,7 +115,7 @@ In these Rules—
 
 (4) A person cannot, at the same time, be included in both the lists maintained under paragraph (1).
 
-### 4. Lists of tribunal members[^key-cf76b1808e1a21969aa3490a288e2655]
+### 4. Lists of tribunal members[^c-cf76b1808e1a21969aa3490a288e2655]
 
 (1) The MPTS must, in accordance with paragraphs (2) to (4),—
 
@@ -132,7 +132,7 @@ In these Rules—
 
 (4) A person cannot, at the same time, be included in both lists maintained under paragraph (1)(a).
 
-### 5. Constitution of Panels, Tribunals and the Committee[^key-53173e4034de2e1c13119838c4de3160]
+### 5. Constitution of Panels, Tribunals and the Committee[^c-53173e4034de2e1c13119838c4de3160]
 
 (1) Membership of a Registration Appeals Panel must—
 
@@ -164,7 +164,7 @@ This is subject to rules 6(9) and 7.
   - (ii) in proceedings relating to an application for restoration of that person’s name to the register;
 - (b) a tribunal member who sat on an Interim Orders Tribunal in proceedings relating to a person from acting as a tribunal member on a subsequent Interim Orders Tribunal in proceedings in which the Tribunal is to review an order under section 41A(2) or (9)[^f00009] of the Act in respect of that person.
 
-### 6. Chair[^key-5157fc6f6d48218266d17e1b5604a891]
+### 6. Chair[^c-5157fc6f6d48218266d17e1b5604a891]
 
 (1) The General Council must appoint to and maintain—
 
@@ -193,14 +193,14 @@ This is subject to rules 6(9) and 7.
 
 (9) If the Chair selected under paragraph (6) is unavailable for the whole or part of any proceedings or becomes ineligible to act as Chair during the course of any proceedings, then the MPTS may appoint another tribunal member, present at the commencement of the proceedings, to act as Chair for the whole or part of the hearing.
 
-### 7. Quorum[^key-5c94f819c14f9a9997bdb4cd294888e4]
+### 7. Quorum[^c-5c94f819c14f9a9997bdb4cd294888e4]
 
 Including the Chair, the quorum of a Panel, a Tribunal or the Committee is to be three panellists of whom—
 
 - (a) at least one must be a medical panellist or Tribunal member; and
 - (b) at least one must be a lay panellist or Tribunal member.
 
-### 8. Validity of proceedings[^key-710dd62a356c7ba6a53add39f2628782]
+### 8. Validity of proceedings[^c-710dd62a356c7ba6a53add39f2628782]
 
 (1) The validity of any proceedings of a Panel, a Tribunal or the Committee is not be affected by any defect in the appointment of a panellist or a Tribunal member.
 
@@ -213,7 +213,7 @@ Including the Chair, the quorum of a Panel, a Tribunal or the Committee is to be
 
 (4) Paragraph (3) does not apply where the Registrar or the MPTS (as the case may be) considers that it is in the interests of justice to convene a freshly constituted Panel, Tribunal or Committee.
 
-### 9. Revocation of Rules[^key-88dd1bdc9d11669ce5716a1764f8e254]
+### 9. Revocation of Rules[^c-88dd1bdc9d11669ce5716a1764f8e254]
 
 The following are revoked—
 
@@ -267,11 +267,11 @@ In making the 2015 Rules, the General Medical Council has given effect to the ov
 
 [^f00002]: Footnote: Paragraph 24 was substituted by article 5(3) of [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and then amended by article 4(5) of [S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794).
 
-[^key-26d52e12bab2123fdfedf4ac1eff4b4a]: Commencement: Art. 1 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-26d52e12bab2123fdfedf4ac1eff4b4a]: Commencement: Art. 1 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
-[^key-1d61569948facf0b3de81530e0ca4a6a]: Commencement: Art. 2 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-1d61569948facf0b3de81530e0ca4a6a]: Commencement: Art. 2 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
-[^key-e86fd695088806e5e71dadf73e8e4817]: Commencement: Art. 3 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-e86fd695088806e5e71dadf73e8e4817]: Commencement: Art. 3 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
 [^f00003]: Footnote: [S.I. 2004/2611](https://www.legislation.gov.uk/uksi/2004/2611).
 
@@ -283,31 +283,31 @@ In making the 2015 Rules, the General Medical Council has given effect to the ov
 
 [^f00007]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54) Paragraphs 19B to 19D, 23 and 23B of Schedule 1 were substituted by article 5(3) of [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).Paragraphs 19B and 23 were also amended by article 3(2) of [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914). Paragraph 19G of Schedule 1 was inserted by article 3(3) of [S.I 2015/794](https://www.legislation.gov.uk/uksi/2015/794). In making these Rules, the General Medical Council has given effect to the overriding objective in paragraph 23D of Schedule 1 to the Act.
 
-[^key-1ce2584e98ac918085b2f6898934d392]: Commencement: Sch. rule 1 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-1ce2584e98ac918085b2f6898934d392]: Commencement: Sch. rule 1 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
-[^key-ba58a71786f6bc8659858d54e95f8563]: Commencement: Sch. rule 2 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-ba58a71786f6bc8659858d54e95f8563]: Commencement: Sch. rule 2 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
-[^key-74dc0319ce465396ccfc49e832fbe740]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2015/1965/schedule/rule/2) substituted (13.12.2024) by [The General Medical Council (Miscellaneous Amendments) Order of Council 2024 (S.I. 2024/1133)](https://www.legislation.gov.uk/uksi/2024/1133), [art. 1](https://www.legislation.gov.uk/uksi/2024/1133/article/1), [Sch. rule 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1133/schedule/rule/2/2/a)
+[^c-74dc0319ce465396ccfc49e832fbe740]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2015/1965/schedule/rule/2) substituted (13.12.2024) by [The General Medical Council (Miscellaneous Amendments) Order of Council 2024 (S.I. 2024/1133)](https://www.legislation.gov.uk/uksi/2024/1133), [art. 1](https://www.legislation.gov.uk/uksi/2024/1133/article/1), [Sch. rule 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1133/schedule/rule/2/2/a)
 
-[^key-660a2a1828f0ab1e458a841c75c0ecde]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2015/1965/schedule/rule/2) substituted (13.12.2024) by [The General Medical Council (Miscellaneous Amendments) Order of Council 2024 (S.I. 2024/1133)](https://www.legislation.gov.uk/uksi/2024/1133), [art. 1](https://www.legislation.gov.uk/uksi/2024/1133/article/1), [Sch. rule 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1133/schedule/rule/2/2/b)
+[^c-660a2a1828f0ab1e458a841c75c0ecde]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2015/1965/schedule/rule/2) substituted (13.12.2024) by [The General Medical Council (Miscellaneous Amendments) Order of Council 2024 (S.I. 2024/1133)](https://www.legislation.gov.uk/uksi/2024/1133), [art. 1](https://www.legislation.gov.uk/uksi/2024/1133/article/1), [Sch. rule 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1133/schedule/rule/2/2/b)
 
-[^key-2204da92b0e8352a8a2afd3385f387ce]: Commencement: Sch. rule 3 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-2204da92b0e8352a8a2afd3385f387ce]: Commencement: Sch. rule 3 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
-[^key-cf76b1808e1a21969aa3490a288e2655]: Commencement: Sch. rule 4 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-cf76b1808e1a21969aa3490a288e2655]: Commencement: Sch. rule 4 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
-[^key-53173e4034de2e1c13119838c4de3160]: Commencement: Sch. rule 5 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-53173e4034de2e1c13119838c4de3160]: Commencement: Sch. rule 5 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
 [^f00008]: Footnote: Paragraphs (5), (6), (8), (10) and (12) of section 35D were substituted by article 13 of [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135); amended by article 7 of [S.I. 2014/1101](https://www.legislation.gov.uk/uksi/2014/1101) and by article 5 of [S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794).
 
 [^f00009]: Footnote: Paragraph (2) of section 41A was substituted by article 13 of [S.I 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135). Paragraphs (2) and (9) of section 41(A) were amended by article 6(4) of [S.I. 2015/794](https://www.legislation.gov.uk/uksi/2015/794).
 
-[^key-5157fc6f6d48218266d17e1b5604a891]: Commencement: Sch. rule 6 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-5157fc6f6d48218266d17e1b5604a891]: Commencement: Sch. rule 6 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
-[^key-5c94f819c14f9a9997bdb4cd294888e4]: Commencement: Sch. rule 7 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-5c94f819c14f9a9997bdb4cd294888e4]: Commencement: Sch. rule 7 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
-[^key-710dd62a356c7ba6a53add39f2628782]: Commencement: Sch. rule 8 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-710dd62a356c7ba6a53add39f2628782]: Commencement: Sch. rule 8 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
-[^key-88dd1bdc9d11669ce5716a1764f8e254]: Commencement: Sch. rule 9 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
+[^c-88dd1bdc9d11669ce5716a1764f8e254]: Commencement: Sch. rule 9 in force at 31.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1965/article/1)
 
 [^f00010]: Footnote: Scheduled to [S.I. 2004/2611](https://www.legislation.gov.uk/uksi/2004/2611).
 

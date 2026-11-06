@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Beef Bones (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-0168645f9904fda3cdcaf5228b286b38]
+The Beef Bones (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-0168645f9904fda3cdcaf5228b286b38]
 
 Made
 
@@ -41,52 +41,52 @@ Coming into operation
 
 17th December 1999
 
-[^key-0168645f9904fda3cdcaf5228b286b38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0168645f9904fda3cdcaf5228b286b38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0168645f9904fda3cdcaf5228b286b38]
+## 1. Citation and commencement[^c-0168645f9904fda3cdcaf5228b286b38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Beef Bones Regulations (Northern Ireland) 1997[^key-0168645f9904fda3cdcaf5228b286b38]
+## 2. Amendments to the Beef Bones Regulations (Northern Ireland) 1997[^c-0168645f9904fda3cdcaf5228b286b38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Bone-in beef[^key-0168645f9904fda3cdcaf5228b286b38]
+## 3. Bone-in beef[^c-0168645f9904fda3cdcaf5228b286b38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Bones[^key-0168645f9904fda3cdcaf5228b286b38]
+## 4. Bones[^c-0168645f9904fda3cdcaf5228b286b38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Food and food ingredients[^key-0168645f9904fda3cdcaf5228b286b38]
+## 5. Food and food ingredients[^c-0168645f9904fda3cdcaf5228b286b38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Deboning[^key-0168645f9904fda3cdcaf5228b286b38]
+## 6. Deboning[^c-0168645f9904fda3cdcaf5228b286b38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Storage of bones and substances[^key-0168645f9904fda3cdcaf5228b286b38]
+## 7. Storage of bones and substances[^c-0168645f9904fda3cdcaf5228b286b38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Disposal of bones[^key-0168645f9904fda3cdcaf5228b286b38]
+## 8. Disposal of bones[^c-0168645f9904fda3cdcaf5228b286b38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Records[^key-0168645f9904fda3cdcaf5228b286b38]
+## 9. Records[^c-0168645f9904fda3cdcaf5228b286b38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0168645f9904fda3cdcaf5228b286b38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0168645f9904fda3cdcaf5228b286b38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0168645f9904fda3cdcaf5228b286b38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0168645f9904fda3cdcaf5228b286b38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0168645f9904fda3cdcaf5228b286b38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/495) revoked (26.4.2008) by [The Transmissible Spongiform Encephalopathies (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/188)](https://www.legislation.gov.uk/nisr/2008/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/188/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/188/regulation/3)
+[^c-0168645f9904fda3cdcaf5228b286b38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/495) revoked (26.4.2008) by [The Transmissible Spongiform Encephalopathies (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/188)](https://www.legislation.gov.uk/nisr/2008/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/188/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/188/regulation/3)

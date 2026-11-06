@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Power for Secretary of State to impose time-limits on investigations etc.[^c2181323][^key-b98d28a7cf7e5498fef19111015a46f7]
+## 45. Power for Secretary of State to impose time-limits on investigations etc.[^c2181323][^c-b98d28a7cf7e5498fef19111015a46f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ After section 31E of the 1998 Act insert—
 
 [^c2181323]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2013/24/section/45) partly in force; [s. 45](https://www.legislation.gov.uk/ukpga/2013/24/section/45) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-b98d28a7cf7e5498fef19111015a46f7]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2013/24/section/45) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-b98d28a7cf7e5498fef19111015a46f7]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2013/24/section/45) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

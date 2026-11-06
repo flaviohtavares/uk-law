@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270EC. Research and development[^key-cbcd1ed5c48b97c97b53855f8aa67d24][^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+## 270EC. Research and development[^c-cbcd1ed5c48b97c97b53855f8aa67d24][^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cbcd1ed5c48b97c97b53855f8aa67d24]: Textual amendment: S. 270EC substituted (with effect in accordance with Sch. 5 para. 8 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/5/paragraph/2)
+[^c-cbcd1ed5c48b97c97b53855f8aa67d24]: Textual amendment: S. 270EC substituted (with effect in accordance with Sch. 5 para. 8 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/5/paragraph/2)
 
-[^key-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
+[^c-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)

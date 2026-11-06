@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Examination of duty to have regard to strategy and policy statement[^key-82e28fff4b2f44967bfe52410bf1b575][^key-ca189778f456ccc460deeee50e19d967]
+## 17. Examination of duty to have regard to strategy and policy statement[^c-82e28fff4b2f44967bfe52410bf1b575][^c-ca189778f456ccc460deeee50e19d967]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82e28fff4b2f44967bfe52410bf1b575]: Commencement: S. 17 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-82e28fff4b2f44967bfe52410bf1b575]: Commencement: S. 17 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-ca189778f456ccc460deeee50e19d967]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/37/section/17) in force at 19.8.2022 by [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/908/regulation/3))
+[^c-ca189778f456ccc460deeee50e19d967]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/37/section/17) in force at 19.8.2022 by [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/908/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 569. Insurance by the NCIS Service Authority against accidents to members[^key-2ba0d2b5be9549fa9e428c477519caba]
+## 569. Insurance by the NCIS Service Authority against accidents to members[^c-2ba0d2b5be9549fa9e428c477519caba]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ba0d2b5be9549fa9e428c477519caba]: Commencement: Art. 569 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2ba0d2b5be9549fa9e428c477519caba]: Commencement: Art. 569 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

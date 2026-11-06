@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Contract adopted by community landlord[^key-d0ee8f94ce913badf49de80c366c9154]
+## 12. Contract adopted by community landlord[^c-d0ee8f94ce913badf49de80c366c9154]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ unless one of the following exceptions applies.
 
 ## Annotations
 
-[^key-d0ee8f94ce913badf49de80c366c9154]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2016/1/section/12) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-d0ee8f94ce913badf49de80c366c9154]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2016/1/section/12) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

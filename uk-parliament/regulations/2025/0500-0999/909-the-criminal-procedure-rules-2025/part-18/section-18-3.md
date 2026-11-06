@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.3. Meaning of ‘intermediary’ and ‘intermediary’s report’[^key-baa7e2f861effa54a25ce9d290bf4af3]
+## 18.3. Meaning of ‘intermediary’ and ‘intermediary’s report’[^c-baa7e2f861effa54a25ce9d290bf4af3]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In this Part—
 
 ## Annotations
 
-[^key-baa7e2f861effa54a25ce9d290bf4af3]: Commencement: [Rule 18.3](https://www.legislation.gov.uk/uksi/2025/909/rule/18.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-baa7e2f861effa54a25ce9d290bf4af3]: Commencement: [Rule 18.3](https://www.legislation.gov.uk/uksi/2025/909/rule/18.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00445]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23); section 29 was amended by paragraph 384 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).

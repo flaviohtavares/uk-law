@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Remuneration of charity trustees etc providing goods or services to charity[^key-2823783532406b9924b8c2690c4a25fe][^key-fd5744d8ee5da5ce18de4d45f2a81987]
+## 30. Remuneration of charity trustees etc providing goods or services to charity[^c-2823783532406b9924b8c2690c4a25fe][^c-fd5744d8ee5da5ce18de4d45f2a81987]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ In section 185 of the Charities Act 2011 (remuneration of charity trustees etc p
 
 ## Annotations
 
-[^key-2823783532406b9924b8c2690c4a25fe]: Commencement: S. 30 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-2823783532406b9924b8c2690c4a25fe]: Commencement: S. 30 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-fd5744d8ee5da5ce18de4d45f2a81987]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/6/section/30) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/6)
+[^c-fd5744d8ee5da5ce18de4d45f2a81987]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/6/section/30) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/6)

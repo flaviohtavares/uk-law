@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Notice requirements: lease of 1991 Act holding[^key-a634b461b5cd0bcd4a6f36aacf96aa32]
+## 40. Notice requirements: lease of 1991 Act holding[^c-a634b461b5cd0bcd4a6f36aacf96aa32]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a634b461b5cd0bcd4a6f36aacf96aa32]: Commencement: S. 40 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-a634b461b5cd0bcd4a6f36aacf96aa32]: Commencement: S. 40 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

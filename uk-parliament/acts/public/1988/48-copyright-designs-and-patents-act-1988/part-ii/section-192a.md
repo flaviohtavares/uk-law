@@ -24,11 +24,11 @@ summary: ''
 
 section 182 (consent required for recording, &c. of live performance),
 
-section 183 (infringement of performer’s rights by use of recording made without consent), [^key-7126b114a9e14f7f1efa2ccf634dc0f8] ...
+section 183 (infringement of performer’s rights by use of recording made without consent), [^c-7126b114a9e14f7f1efa2ccf634dc0f8] ...
 
 section 184 (infringement of performer’s rights importing, possessing or dealing with illicit recording),
 
-section 191HA (assignment of performer’s property rights in a sound recording), and[^key-638f29014cd2183933765a5739ed31ad]
+section 191HA (assignment of performer’s property rights in a sound recording), and[^c-638f29014cd2183933765a5739ed31ad]
 
 section 191HB (payment in consideration of assignment),
 
@@ -53,9 +53,9 @@ They are referred to in this Chapter[^c20324591] as “ [^c20324571] . . . perfo
 
 [^c20311961]: Textual amendment: Ss. 192A, 192B and crossheading substituted for s. 192 (1.12.1996) by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), [reg. 21(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/21/2) (with [Pt. III](https://www.legislation.gov.uk/uksi/1996/2967/part/III))
 
-[^key-7126b114a9e14f7f1efa2ccf634dc0f8]: Textual amendment: Word in s. 192A(1) deleted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/1782/regulation/10) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))
+[^c-7126b114a9e14f7f1efa2ccf634dc0f8]: Textual amendment: Word in s. 192A(1) deleted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/1782/regulation/10) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))
 
-[^key-638f29014cd2183933765a5739ed31ad]: Textual amendment: Words in s. 192A(1) inserted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/1782/regulation/10) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))
+[^c-638f29014cd2183933765a5739ed31ad]: Textual amendment: Words in s. 192A(1) inserted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/1782/regulation/10) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))
 
 [^c20324591]: Textual amendment: Words in s. 192A(1)(3) substituted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18), [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8))
 

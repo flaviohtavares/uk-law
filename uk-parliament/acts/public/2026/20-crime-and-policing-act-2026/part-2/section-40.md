@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Delivery of crossbows: Northern Ireland[^key-7c50252592b74fcde44f3433aa7f0f66]
+## 40. Delivery of crossbows: Northern Ireland[^c-7c50252592b74fcde44f3433aa7f0f66]
 
 *Extent: N.I.*
 
@@ -256,4 +256,4 @@ In the Crossbows (Northern Ireland) Order 1988 ([S.I. 1988/794 (N.I. 5)](https:/
 
 ## Annotations
 
-[^key-7c50252592b74fcde44f3433aa7f0f66]: Commencement: S. 40 not in force at Royal Assent, see [s. 255(8)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/b)
+[^c-7c50252592b74fcde44f3433aa7f0f66]: Commencement: S. 40 not in force at Royal Assent, see [s. 255(8)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/b)

@@ -105,15 +105,15 @@ Section 76
 
 ### Designated international organisations: miscellaneous exemptions
 
-**10.**[^key-370179f13970471bd713f3aab35dd3a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-370179f13970471bd713f3aab35dd3a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Application of Income Tax Acts to public departments etc
 
-**11.**[^key-8788391062f462bf6ffeb33f1a44a9ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-8788391062f462bf6ffeb33f1a44a9ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Provisions for securing payment by company of outstanding tax
 
-**12.**[^key-f3445c19496a5245e6df3ffd8c9a39cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f3445c19496a5245e6df3ffd8c9a39cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Supplementary provisions relating to contributions: Great Britain
 
@@ -151,8 +151,8 @@ Section 76
 
 ## Annotations
 
-[^key-370179f13970471bd713f3aab35dd3a3]: Textual amendment: Sch. 12 para. 10 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-370179f13970471bd713f3aab35dd3a3]: Textual amendment: Sch. 12 para. 10 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-8788391062f462bf6ffeb33f1a44a9ea]: Textual amendment: Sch. 12 para. 11 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-8788391062f462bf6ffeb33f1a44a9ea]: Textual amendment: Sch. 12 para. 11 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-f3445c19496a5245e6df3ffd8c9a39cf]: Textual amendment: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2004/12/schedule/12/paragraph/12) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-f3445c19496a5245e6df3ffd8c9a39cf]: Textual amendment: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2004/12/schedule/12/paragraph/12) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Notice to complainant and interested persons of accelerated misconduct hearing[^key-3beab6e0404d193f76b3655f4cfadaf3]
+## 60. Notice to complainant and interested persons of accelerated misconduct hearing[^c-3beab6e0404d193f76b3655f4cfadaf3]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3beab6e0404d193f76b3655f4cfadaf3]: Commencement: Reg. 60 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-3beab6e0404d193f76b3655f4cfadaf3]: Commencement: Reg. 60 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

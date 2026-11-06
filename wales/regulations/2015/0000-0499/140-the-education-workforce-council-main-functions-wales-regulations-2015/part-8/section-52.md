@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Supply of information to An Chomhairle Mhúinteoireachta or the Teaching Council[^key-82c0cfbe847a58e465f553b0b0d51a03]
+## 52. Supply of information to An Chomhairle Mhúinteoireachta or the Teaching Council[^c-82c0cfbe847a58e465f553b0b0d51a03]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82c0cfbe847a58e465f553b0b0d51a03]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2015/140/regulation/52) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-82c0cfbe847a58e465f553b0b0d51a03]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2015/140/regulation/52) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

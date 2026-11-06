@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Financial provisions[^key-eb2d21a19460f64f9645d57a81c0fcd9]
+## 37. Financial provisions[^c-eb2d21a19460f64f9645d57a81c0fcd9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-eb2d21a19460f64f9645d57a81c0fcd9]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2007/21/section/37) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/n)
+[^c-eb2d21a19460f64f9645d57a81c0fcd9]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2007/21/section/37) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/n)

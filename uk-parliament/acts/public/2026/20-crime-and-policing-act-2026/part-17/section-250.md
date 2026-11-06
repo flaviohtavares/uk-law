@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Criminal liability of bodies corporate and partnerships where senior manager commits offence[^key-114ea3b32d5ebc355d9d344bd74f25c4]
+## 250. Criminal liability of bodies corporate and partnerships where senior manager commits offence[^c-114ea3b32d5ebc355d9d344bd74f25c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-114ea3b32d5ebc355d9d344bd74f25c4]: Commencement: [S. 250](https://www.legislation.gov.uk/ukpga/2026/20/section/250) in force at 29.6.2026, see [s. 255(3)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/k)
+[^c-114ea3b32d5ebc355d9d344bd74f25c4]: Commencement: [S. 250](https://www.legislation.gov.uk/ukpga/2026/20/section/250) in force at 29.6.2026, see [s. 255(3)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/k)

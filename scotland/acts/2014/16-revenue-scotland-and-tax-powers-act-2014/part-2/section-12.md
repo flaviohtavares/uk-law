@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Annual report[^key-7a74afef4bb600ac2344c61d37bb0ffd]
+## 12. Annual report[^c-7a74afef4bb600ac2344c61d37bb0ffd]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a74afef4bb600ac2344c61d37bb0ffd]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/16/section/12) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-7a74afef4bb600ac2344c61d37bb0ffd]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/16/section/12) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

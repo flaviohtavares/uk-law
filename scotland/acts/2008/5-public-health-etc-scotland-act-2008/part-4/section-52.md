@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Duty to review exclusion and restriction orders[^key-c1d78268a052d0997dc403ac41146688]
+## 52. Duty to review exclusion and restriction orders[^c-c1d78268a052d0997dc403ac41146688]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ the competent person must revoke it.
 
 ## Annotations
 
-[^key-c1d78268a052d0997dc403ac41146688]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2008/5/section/52) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-c1d78268a052d0997dc403ac41146688]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2008/5/section/52) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

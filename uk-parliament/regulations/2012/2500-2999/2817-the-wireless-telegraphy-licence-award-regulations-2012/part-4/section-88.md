@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Assignment stage round and assignment stage bids[^key-a18c31030489bb41ca5b46dcc100c5d9]
+## 88. Assignment stage round and assignment stage bids[^c-a18c31030489bb41ca5b46dcc100c5d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ which matches an assignment stage option for that bidder.
 
 ## Annotations
 
-[^key-a18c31030489bb41ca5b46dcc100c5d9]: Commencement: Reg. 88 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-a18c31030489bb41ca5b46dcc100c5d9]: Commencement: Reg. 88 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

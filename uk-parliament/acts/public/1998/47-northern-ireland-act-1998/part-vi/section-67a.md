@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Accounts etc to be laid before House of Commons if no functioning Assembly[^key-dc2d0143200a75d61048bcd2702c7062]
+## 67A. Accounts etc to be laid before House of Commons if no functioning Assembly[^c-dc2d0143200a75d61048bcd2702c7062]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc2d0143200a75d61048bcd2702c7062]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/1998/47/section/67A) inserted (24.5.2023) by [Northern Ireland (Interim Arrangements) Act 2023 (c. 21)](https://www.legislation.gov.uk/ukpga/2023/21), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2023/21/section/4/1), [6](https://www.legislation.gov.uk/ukpga/2023/21/section/6) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2023/21/section/4/2))
+[^c-dc2d0143200a75d61048bcd2702c7062]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/1998/47/section/67A) inserted (24.5.2023) by [Northern Ireland (Interim Arrangements) Act 2023 (c. 21)](https://www.legislation.gov.uk/ukpga/2023/21), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2023/21/section/4/1), [6](https://www.legislation.gov.uk/ukpga/2023/21/section/6) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2023/21/section/4/2))

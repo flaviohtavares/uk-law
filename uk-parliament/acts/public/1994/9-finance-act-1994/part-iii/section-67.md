@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Deemed date of receipt of certain premiums.[^key-c916d01e5494c542ab413db8ccd52f9d]
+## 67. Deemed date of receipt of certain premiums.[^c-c916d01e5494c542ab413db8ccd52f9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c916d01e5494c542ab413db8ccd52f9d]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/1994/9/section/67) omitted (27.4.2017) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2017/10/section/18/3/a)
+[^c-c916d01e5494c542ab413db8ccd52f9d]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/1994/9/section/67) omitted (27.4.2017) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2017/10/section/18/3/a)

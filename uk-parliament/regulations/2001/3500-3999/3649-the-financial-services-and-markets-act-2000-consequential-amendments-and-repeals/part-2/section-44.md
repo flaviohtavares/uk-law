@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Membership of holding company[^key-a98acfcadb00c1b6396a515385c7ffd8]
+## 44. Membership of holding company[^c-a98acfcadb00c1b6396a515385c7ffd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a98acfcadb00c1b6396a515385c7ffd8]: Commencement: Art. 44 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a98acfcadb00c1b6396a515385c7ffd8]: Commencement: Art. 44 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00048]: Footnote: Substituted by the [Companies (No. 2) (NI) Order 1990 (NI 10)](https://www.legislation.gov.uk/nisi/1990/1504), Article 64(1).

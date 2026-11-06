@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — The postal transit procedure[^key-c3bfeace05036790299535b06c0f663e]
+## SCHEDULE 5 — The postal transit procedure[^c-c3bfeace05036790299535b06c0f663e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,28 +45,28 @@ Regulation 6
 
 **3.** The conditions are—
 
-- (a) the goods are addressed to a recipient outside Great Britain[^key-cf15aa852bf8c039a6c6231dc0334be1]; and
+- (a) the goods are addressed to a recipient outside Great Britain[^c-cf15aa852bf8c039a6c6231dc0334be1]; and
 - (b) the goods will merely pass through places within Great Britain before arriving at their ultimate destination outside Great Britain.
 
 ### 4. Requirements of the postal transit procedure
 
 Where goods are deemed to be declared for the postal transit procedure under paragraph 2, the following requirements apply—
 
-- (a) the goods must only pass through places within Great Britain[^key-868e085350ffae33ec293308c1d223e3] before arriving at their ultimate destination outside Great Britain;
+- (a) the goods must only pass through places within Great Britain[^c-868e085350ffae33ec293308c1d223e3] before arriving at their ultimate destination outside Great Britain;
 - (b) the goods must be transported by or on behalf of a universal service provider;
 - (c) the goods must be transported in compliance with any relevant conditions imposed by the UP Convention; and
 - (d) the goods must be transported in compliance with any conditions imposed by a public notice.
 
 ### 5. Discharge of the postal transit procedure
 
-The postal transit procedure is discharged when the goods leave Great Britain[^key-e8249e8ca7deb16912a3441aabc32c95] where the procedure has not already been discharged under TCTA Schedule 2, paragraph 18(2).
+The postal transit procedure is discharged when the goods leave Great Britain[^c-e8249e8ca7deb16912a3441aabc32c95] where the procedure has not already been discharged under TCTA Schedule 2, paragraph 18(2).
 
 ## Annotations
 
-[^key-c3bfeace05036790299535b06c0f663e]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2018/1258/schedule/5) inserted (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/5/5); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-c3bfeace05036790299535b06c0f663e]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2018/1258/schedule/5) inserted (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/5/5); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-cf15aa852bf8c039a6c6231dc0334be1]: Textual amendment: Words in [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2018/1258/schedule/5/paragraph/3) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [39(6)(a)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/39/6/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-cf15aa852bf8c039a6c6231dc0334be1]: Textual amendment: Words in [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2018/1258/schedule/5/paragraph/3) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [39(6)(a)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/39/6/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-868e085350ffae33ec293308c1d223e3]: Textual amendment: Words in [Sch. 5 para. 4(a)](https://www.legislation.gov.uk/uksi/2018/1258/schedule/5/paragraph/4/a) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [39(6)(b)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/39/6/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-868e085350ffae33ec293308c1d223e3]: Textual amendment: Words in [Sch. 5 para. 4(a)](https://www.legislation.gov.uk/uksi/2018/1258/schedule/5/paragraph/4/a) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [39(6)(b)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/39/6/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-e8249e8ca7deb16912a3441aabc32c95]: Textual amendment: Words in [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2018/1258/schedule/5/paragraph/5) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [39(6)(c)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/39/6/c); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-e8249e8ca7deb16912a3441aabc32c95]: Textual amendment: Words in [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2018/1258/schedule/5/paragraph/5) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [39(6)(c)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/39/6/c); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

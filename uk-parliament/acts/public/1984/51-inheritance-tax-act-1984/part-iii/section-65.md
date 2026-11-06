@@ -43,35 +43,35 @@ or in respect of a liability to make such a payment.
 
 (6) Tax shall not be charged under this section by virtue of subsection (1)(b) above if the disposition is such that, were the trustees beneficially entitled to the settled property, section 10 or section 16 above would prevent the disposition from being a transfer of value.
 
-(7) Tax shall not be charged under this section by reason only that property comprised in a settlement ceases to be situated in the United Kingdom and thereby becomes excluded property by virtue of section 48ZA[^key-b16c9c4f24cc92bbce17c8e8324a7ec7].
+(7) Tax shall not be charged under this section by reason only that property comprised in a settlement ceases to be situated in the United Kingdom and thereby becomes excluded property by virtue of section 48ZA[^c-b16c9c4f24cc92bbce17c8e8324a7ec7].
 
-(7A)[^c22729911] Tax shall not be charged under this section by reason only that property comprised in a settlement is invested in a holding in an authorised unit trust or a share in an open-ended investment company and thereby becomes excluded property by virtue of section 48ZA[^key-2cb80fabe0e5f75dbdf8b357abc709c3].
+(7A)[^c22729911] Tax shall not be charged under this section by reason only that property comprised in a settlement is invested in a holding in an authorised unit trust or a share in an open-ended investment company and thereby becomes excluded property by virtue of section 48ZA[^c-2cb80fabe0e5f75dbdf8b357abc709c3].
 
-(7B)[^key-a4c6bf149ed81253ae5d7f328e07118e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7B)[^c-a4c6bf149ed81253ae5d7f328e07118e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7C)[^key-df6b3d3047819b49f3f809d03579b7ed] Tax shall not be charged under this section by reason only that property comprised in a settlement ceases to any extent to be property to which paragraph 2 or 3 of Schedule A1 applies and thereby becomes excluded property by virtue of section 48ZA[^key-91d0647a8ca3ac2b0f2aff2441b33fab].
+(7C)[^c-df6b3d3047819b49f3f809d03579b7ed] Tax shall not be charged under this section by reason only that property comprised in a settlement ceases to any extent to be property to which paragraph 2 or 3 of Schedule A1 applies and thereby becomes excluded property by virtue of section 48ZA[^c-91d0647a8ca3ac2b0f2aff2441b33fab].
 
 (7D) Tax shall not be charged under this section where property comprised in a settlement or any part of that property—
 
 - (a) is, by virtue of paragraph 5(2)(a) of Schedule A1, not excluded property for the two year period referred to in that paragraph, but
 - (b) becomes excluded property at the end of that period.
 
-(8) If the condition in subsection (8ZA) is met in relation to property comprised in a settlement[^key-76114358d4366fc6b9b48b5f696690e6], tax shall not be charged under this section by reason only that the property[^key-101dda90a001241cab16fb18c4756d40] is invested in securities issued by the Treasury subject to a condition of the kind mentioned in section 6(2) above and thereby becomes excluded property by virtue of section 48(4)(b) above.
+(8) If the condition in subsection (8ZA) is met in relation to property comprised in a settlement[^c-76114358d4366fc6b9b48b5f696690e6], tax shall not be charged under this section by reason only that the property[^c-101dda90a001241cab16fb18c4756d40] is invested in securities issued by the Treasury subject to a condition of the kind mentioned in section 6(2) above and thereby becomes excluded property by virtue of section 48(4)(b) above.
 
-(8ZA)[^key-924a6c92befa6c1c0d1d184aeaa01826] The condition is that the settlor—
+(8ZA)[^c-924a6c92befa6c1c0d1d184aeaa01826] The condition is that the settlor—
 
 - (a) is alive and is not a long-term UK resident,
 - (b) died on or after 6 April 2025 and was not a long-term UK resident immediately before they died, or
 - (c) died before 6 April 2025 and was not domiciled in the United Kingdom when the property became comprised in the settlement.
 
-(8A)[^key-967925e247e403ddc14ade767e4b38c1] If—
+(8A)[^c-967925e247e403ddc14ade767e4b38c1] If—
 
 - (a) an amount is payable in respect of property (“the existing property”) comprised in a settlement, and
 - (b) the amount represents an accumulation of income which (once accumulated) becomes comprised in the settlement,
 
-subsection (8ZA)(c)[^key-e9021012f46a66770cf2cd2e6a25e976] has effect, in the case of the amount, as if any reference to the time it became comprised in the settlement were to the time the existing property became comprised in the settlement.
+subsection (8ZA)(c)[^c-e9021012f46a66770cf2cd2e6a25e976] has effect, in the case of the amount, as if any reference to the time it became comprised in the settlement were to the time the existing property became comprised in the settlement.
 
-(8B)[^key-a6b0e58df9f9ba970296a8adb6005972] None of subsections (7), (7A) and (8) applies in relation to property comprised in a settlement if—
+(8B)[^c-a6b0e58df9f9ba970296a8adb6005972] None of subsections (7), (7A) and (8) applies in relation to property comprised in a settlement if—
 
 - (a) a long-term residence change took place at a time—
   - (i) before the event in question, and
@@ -92,26 +92,26 @@ subsection (8ZA)(c)[^key-e9021012f46a66770cf2cd2e6a25e976] has effect, in the ca
 
 [^c22729901]: Modification: S. 65 restricted (retrospective to 20.3.1993) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 86(4)(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/86/4/6)
 
-[^key-b16c9c4f24cc92bbce17c8e8324a7ec7]: Textual amendment: Words in [s. 65(7)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/7) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/2), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-b16c9c4f24cc92bbce17c8e8324a7ec7]: Textual amendment: Words in [s. 65(7)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/7) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/2), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
 [^c22729911]: Textual amendment: S. 65(7A) inserted (retrospective to 16.10.2002) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 175](https://www.legislation.gov.uk/ukpga/2013/29/section/175)
 
-[^key-2cb80fabe0e5f75dbdf8b357abc709c3]: Textual amendment: Words in [s. 65(7A)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/7A) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/3), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-2cb80fabe0e5f75dbdf8b357abc709c3]: Textual amendment: Words in [s. 65(7A)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/7A) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/3), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-a4c6bf149ed81253ae5d7f328e07118e]: Textual amendment: [S. 65(7B)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/7B) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/4), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-a4c6bf149ed81253ae5d7f328e07118e]: Textual amendment: [S. 65(7B)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/7B) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/4), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-df6b3d3047819b49f3f809d03579b7ed]: Textual amendment: S. 65(7C)(7D) inserted (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2017/32/schedule/10/paragraph/5)
+[^c-df6b3d3047819b49f3f809d03579b7ed]: Textual amendment: S. 65(7C)(7D) inserted (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2017/32/schedule/10/paragraph/5)
 
-[^key-91d0647a8ca3ac2b0f2aff2441b33fab]: Textual amendment: Words in [s. 65(7C)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/7C) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/5), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-91d0647a8ca3ac2b0f2aff2441b33fab]: Textual amendment: Words in [s. 65(7C)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/7C) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/5), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-76114358d4366fc6b9b48b5f696690e6]: Textual amendment: Words in [s. 65(8)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/8) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/6), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-76114358d4366fc6b9b48b5f696690e6]: Textual amendment: Words in [s. 65(8)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/8) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/6), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-101dda90a001241cab16fb18c4756d40]: Textual amendment: Words in s. 65(8) substituted (with effect in accordance with s. 73(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 73(6)(b)(iii)](https://www.legislation.gov.uk/ukpga/2020/14/section/73/6/b/iii)
+[^c-101dda90a001241cab16fb18c4756d40]: Textual amendment: Words in s. 65(8) substituted (with effect in accordance with s. 73(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 73(6)(b)(iii)](https://www.legislation.gov.uk/ukpga/2020/14/section/73/6/b/iii)
 
-[^key-924a6c92befa6c1c0d1d184aeaa01826]: Textual amendment: [S. 65(8ZA)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/8ZA) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/7), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-924a6c92befa6c1c0d1d184aeaa01826]: Textual amendment: [S. 65(8ZA)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/8ZA) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/7), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-967925e247e403ddc14ade767e4b38c1]: Textual amendment: S. 65(8A) inserted (with effect in accordance with s. 73(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 73(6)(c)](https://www.legislation.gov.uk/ukpga/2020/14/section/73/6/c)
+[^c-967925e247e403ddc14ade767e4b38c1]: Textual amendment: S. 65(8A) inserted (with effect in accordance with s. 73(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 73(6)(c)](https://www.legislation.gov.uk/ukpga/2020/14/section/73/6/c)
 
-[^key-e9021012f46a66770cf2cd2e6a25e976]: Textual amendment: Words in [s. 65(8A)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/8A) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/8), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-e9021012f46a66770cf2cd2e6a25e976]: Textual amendment: Words in [s. 65(8A)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/8A) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 11(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/11/8), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-a6b0e58df9f9ba970296a8adb6005972]: Textual amendment: [S. 65(8B)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/8B)[(8C)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/8C) inserted (26.11.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 73(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/73/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/73/2)
+[^c-a6b0e58df9f9ba970296a8adb6005972]: Textual amendment: [S. 65(8B)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/8B)[(8C)](https://www.legislation.gov.uk/ukpga/1984/51/section/65/8C) inserted (26.11.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 73(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/73/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/73/2)

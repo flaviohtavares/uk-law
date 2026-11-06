@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Banking Act 2009: miscellaneous amendments[^key-2db5498344f6bf3fbe17b34814cf1b2a][^key-b60306005b9d698127379e3f9d11c2c1]
+## 75. Banking Act 2009: miscellaneous amendments[^c-2db5498344f6bf3fbe17b34814cf1b2a][^c-b60306005b9d698127379e3f9d11c2c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2db5498344f6bf3fbe17b34814cf1b2a]: Commencement: S. 75 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-2db5498344f6bf3fbe17b34814cf1b2a]: Commencement: S. 75 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-b60306005b9d698127379e3f9d11c2c1]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2023/29/section/75) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ww)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ww)
+[^c-b60306005b9d698127379e3f9d11c2c1]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2023/29/section/75) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ww)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ww)

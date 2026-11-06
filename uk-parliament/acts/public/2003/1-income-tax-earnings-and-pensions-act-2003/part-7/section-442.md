@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 442. Amount of consideration given for entitlement to convert[^key-74ea5d0d19e54792ecd1cf8a6a2ae033]
+## 442. Amount of consideration given for entitlement to convert[^c-74ea5d0d19e54792ecd1cf8a6a2ae033]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74ea5d0d19e54792ecd1cf8a6a2ae033]: Textual amendment: Pt. 7 Ch. 3 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 4(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 4(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/4/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-74ea5d0d19e54792ecd1cf8a6a2ae033]: Textual amendment: Pt. 7 Ch. 3 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 4(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 4(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/4/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)

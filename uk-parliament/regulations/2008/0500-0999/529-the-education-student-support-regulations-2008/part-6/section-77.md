@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Increases in maximum amount[^key-c3e6aa6dfdf9987b0b2acf42f7bd2728]
+## 77. Increases in maximum amount[^c-c3e6aa6dfdf9987b0b2acf42f7bd2728]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3e6aa6dfdf9987b0b2acf42f7bd2728]: Commencement: Reg. 77 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-c3e6aa6dfdf9987b0b2acf42f7bd2728]: Commencement: Reg. 77 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

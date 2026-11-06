@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Dealing in duty stamps[^key-c1dbe41b4615114f2ef8c2b0b1155094]
+## 129. Dealing in duty stamps[^c-c1dbe41b4615114f2ef8c2b0b1155094]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-c581094b4652b5c892f85784b6e7ecb4] It is an offence for a person who is not an approved stamp holder to possess a duty stamp that has not been affixed to a vaping product.
+(1)[^c-c581094b4652b5c892f85784b6e7ecb4] It is an offence for a person who is not an approved stamp holder to possess a duty stamp that has not been affixed to a vaping product.
 
 (2) It is an offence for a person to transfer a duty stamp that has not been affixed to a vaping product to another person.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1dbe41b4615114f2ef8c2b0b1155094]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2026/11/section/129) in force at 18.5.2026, see [s. 141(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/141/4)
+[^c-c1dbe41b4615114f2ef8c2b0b1155094]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2026/11/section/129) in force at 18.5.2026, see [s. 141(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/141/4)
 
-[^key-c581094b4652b5c892f85784b6e7ecb4]: Modification: [S. 129(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/129/1) excluded (1.10.2026) by [The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 (S.I. 2026/331)](https://www.legislation.gov.uk/uksi/2026/331), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/1/3), [39](https://www.legislation.gov.uk/uksi/2026/331/regulation/39)
+[^c-c581094b4652b5c892f85784b6e7ecb4]: Modification: [S. 129(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/129/1) excluded (1.10.2026) by [The Vaping Products (Production, Duty Stamps and Commencement) Regulations 2026 (S.I. 2026/331)](https://www.legislation.gov.uk/uksi/2026/331), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/331/regulation/1/3), [39](https://www.legislation.gov.uk/uksi/2026/331/regulation/39)

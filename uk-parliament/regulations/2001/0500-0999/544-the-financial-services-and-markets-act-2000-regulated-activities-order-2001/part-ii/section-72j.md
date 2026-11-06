@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72J. Persons seeking to use the exemption under Article 2.1(j) of the markets in financial instruments directive[^key-13efde84b22ac3c9c365eb027af61d45]
+## 72J. Persons seeking to use the exemption under Article 2.1(j) of the markets in financial instruments directive[^c-13efde84b22ac3c9c365eb027af61d45]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13efde84b22ac3c9c365eb027af61d45]: Textual amendment: Art. 72J inserted (3.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/b), [4(3)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/4/3)
+[^c-13efde84b22ac3c9c365eb027af61d45]: Textual amendment: Art. 72J inserted (3.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/b), [4(3)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/4/3)

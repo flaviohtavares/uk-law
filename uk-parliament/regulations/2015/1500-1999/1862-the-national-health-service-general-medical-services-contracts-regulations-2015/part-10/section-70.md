@@ -26,9 +26,9 @@ summary: ''
 
 (3) In this regulation—
 
-- “**clinical correspondence**” means all correspondence in writing, whether in electronic form or otherwise, between the contractor and other health service providers concerning or arising out of the provision of a remote service or[^key-a135feda692be2c90451968220515769] patient attendance and treatment at practice premises including referrals made by letter or by any other means; and
+- “**clinical correspondence**” means all correspondence in writing, whether in electronic form or otherwise, between the contractor and other health service providers concerning or arising out of the provision of a remote service or[^c-a135feda692be2c90451968220515769] patient attendance and treatment at practice premises including referrals made by letter or by any other means; and
 - “**NHS number**”, in relation to a registered patient, means the number, consisting of ten numeric digits, which serves as the national unique identifier used for the purpose of safely, accurately and efficiently sharing information relating to that patient across the whole of the health service in England.
 
 ## Annotations
 
-[^key-a135feda692be2c90451968220515769]: Textual amendment: Words in reg. 70(3) inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/5)
+[^c-a135feda692be2c90451968220515769]: Textual amendment: Words in reg. 70(3) inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/5)

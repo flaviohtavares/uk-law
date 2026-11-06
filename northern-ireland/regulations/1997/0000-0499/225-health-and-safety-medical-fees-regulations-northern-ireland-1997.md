@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Health and Safety (Medical Fees) Regulations (Northern Ireland) 1997 (revoked)[^key-4737ca06b4e13386426c35862a4b4580]
+Health and Safety (Medical Fees) Regulations (Northern Ireland) 1997 (revoked)[^c-4737ca06b4e13386426c35862a4b4580]
 
 Made
 
@@ -40,45 +40,45 @@ Coming into operation
 
 3rd June 1997
 
-[^key-4737ca06b4e13386426c35862a4b4580]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4737ca06b4e13386426c35862a4b4580]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4737ca06b4e13386426c35862a4b4580]
+## 1. Citation and commencement[^c-4737ca06b4e13386426c35862a4b4580]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4737ca06b4e13386426c35862a4b4580]
+## 2. Interpretation[^c-4737ca06b4e13386426c35862a4b4580]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees payable for medical examination or surveillance by an employment medical adviser[^key-4737ca06b4e13386426c35862a4b4580]
+## 3. Fees payable for medical examination or surveillance by an employment medical adviser[^c-4737ca06b4e13386426c35862a4b4580]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees for medical surveillance by an employment medical adviser under the Ionising Radiations Regulations (Northern Ireland) 1985[^key-4737ca06b4e13386426c35862a4b4580]
+## 4. Fees for medical surveillance by an employment medical adviser under the Ionising Radiations Regulations (Northern Ireland) 1985[^c-4737ca06b4e13386426c35862a4b4580]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Fees for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations (Northern Ireland) 1986[^key-4737ca06b4e13386426c35862a4b4580]
+## 5. Fees for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations (Northern Ireland) 1986[^c-4737ca06b4e13386426c35862a4b4580]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation and saving[^key-4737ca06b4e13386426c35862a4b4580]
+## 6. Revocation and saving[^c-4737ca06b4e13386426c35862a4b4580]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4737ca06b4e13386426c35862a4b4580]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4737ca06b4e13386426c35862a4b4580]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Fees payable for medical examination or surveillance by an employment medical adviser[^key-4737ca06b4e13386426c35862a4b4580]
+## SCHEDULE 1 — Fees payable for medical examination or surveillance by an employment medical adviser[^c-4737ca06b4e13386426c35862a4b4580]
 
 Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Fees payable for medical examination or surveillance by an employment medical adviser under the Control of Lead at Work Regulations (Northern Ireland) 1986[^key-4737ca06b4e13386426c35862a4b4580]
+## SCHEDULE 2 — Fees payable for medical examination or surveillance by an employment medical adviser under the Control of Lead at Work Regulations (Northern Ireland) 1986[^c-4737ca06b4e13386426c35862a4b4580]
 
 Regulation 5
 
@@ -86,8 +86,8 @@ Regulation 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-4737ca06b4e13386426c35862a4b4580]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4737ca06b4e13386426c35862a4b4580]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4737ca06b4e13386426c35862a4b4580]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/225) revoked (5.5.1998) by [Health and Safety (Fees) Regulations (Northern Ireland) 1998 (S.R. 1998/125)](https://www.legislation.gov.uk/nisr/1998/125), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1), [12(2)](https://www.legislation.gov.uk/nisr/1998/125/regulation/12/2) (with [reg. 12(3)](https://www.legislation.gov.uk/nisr/1998/125/regulation/12/3))
+[^c-4737ca06b4e13386426c35862a4b4580]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/225) revoked (5.5.1998) by [Health and Safety (Fees) Regulations (Northern Ireland) 1998 (S.R. 1998/125)](https://www.legislation.gov.uk/nisr/1998/125), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1), [12(2)](https://www.legislation.gov.uk/nisr/1998/125/regulation/12/2) (with [reg. 12(3)](https://www.legislation.gov.uk/nisr/1998/125/regulation/12/3))

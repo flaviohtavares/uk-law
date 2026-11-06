@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Building assessment reports[^key-6e734432555bc8ffa3f5d9544f771aa2][^key-c9598eb89cbf656efcea1d4b2fb8d4f5]
+## 63. Building assessment reports[^c-6e734432555bc8ffa3f5d9544f771aa2][^c-c9598eb89cbf656efcea1d4b2fb8d4f5]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e734432555bc8ffa3f5d9544f771aa2]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2021/9/section/63) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-6e734432555bc8ffa3f5d9544f771aa2]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2021/9/section/63) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
 
-[^key-c9598eb89cbf656efcea1d4b2fb8d4f5]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2021/9/section/63) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(j)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/j)
+[^c-c9598eb89cbf656efcea1d4b2fb8d4f5]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2021/9/section/63) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(j)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/j)

@@ -26,11 +26,11 @@ summary: ''
 
 #### The 1995 Act
 
-**1.**[^key-679d0a9b8b2ff89b889f296c9515afbd] The 1995 Act is amended as follows.
+**1.**[^c-679d0a9b8b2ff89b889f296c9515afbd] The 1995 Act is amended as follows.
 
-**2.**[^key-fa015450666f656eb85b347327239b14] In section 23C(2)(d)(i) (previous convictions to be taken into consideration in determining bail), for “outwith Scotland” substitute “ by courts outside the European Union ”.
+**2.**[^c-fa015450666f656eb85b347327239b14] In section 23C(2)(d)(i) (previous convictions to be taken into consideration in determining bail), for “outwith Scotland” substitute “ by courts outside the European Union ”.
 
-**3.**[^key-4cd9196d6b1a2b628d34e0fe5c048c62] In section 27 (breach of bail conditions: offences), after subsection (3) insert—
+**3.**[^c-4cd9196d6b1a2b628d34e0fe5c048c62] In section 27 (breach of bail conditions: offences), after subsection (3) insert—
 
 > (3A) The reference in subsection (3)(b) to any previous conviction of an offence under subsection (1)(b) includes any previous conviction by a court in England and Wales, Northern Ireland or a member State of the European Union other than the United Kingdom of an offence that is equivalent to an offence under subsection (1)(b).
 >
@@ -40,9 +40,9 @@ summary: ''
 
 .
 
-**4.**[^key-7ebd9178228c68c9c304146407c2b29f] In section 202(2) (deferred sentence), for “Great Britain” substitute “ the United Kingdom or in another member State of the European Union ”.
+**4.**[^c-7ebd9178228c68c9c304146407c2b29f] In section 202(2) (deferred sentence), for “Great Britain” substitute “ the United Kingdom or in another member State of the European Union ”.
 
-**5.**[^key-6c3f61c4431b88e9fadf89e3508a5776] In section 204 (restrictions on passing sentence of imprisonment or detention)—
+**5.**[^c-6c3f61c4431b88e9fadf89e3508a5776] In section 204 (restrictions on passing sentence of imprisonment or detention)—
 
 - (a) in each of subsections (1) and (2), after “United Kingdom” insert “ or in another member State of the European Union ”, and
 - (b) after subsection (4) insert—
@@ -56,7 +56,7 @@ summary: ''
 
   .
 
-**6.**[^key-d83563d5186c7c5e7c3bbbbb353d8e91] In section 205B (minimum sentence for third conviction of certain offences relating to drug trafficking)—
+**6.**[^c-d83563d5186c7c5e7c3bbbbb353d8e91] In section 205B (minimum sentence for third conviction of certain offences relating to drug trafficking)—
 
 - (a) in subsection (1)(b), for “been convicted in any part of the United Kingdom of two other class A drug trafficking offences” substitute “ two previous convictions for relevant offences ”, and
 - (b) after subsection (1) insert—
@@ -70,7 +70,7 @@ summary: ''
 
   .
 
-**7.**[^key-a65a2d8ac6b7a5cf88ed9ee3bfb4215d] In section 275A (disclosure of accused's previous convictions where court allows questioning or evidence under section 275)—
+**7.**[^c-a65a2d8ac6b7a5cf88ed9ee3bfb4215d] In section 275A (disclosure of accused's previous convictions where court allows questioning or evidence under section 275)—
 
 - (a) in subsection (10)—
   - (i) the word “or” immediately following paragraph (a) is repealed, and
@@ -85,7 +85,7 @@ summary: ''
 
   .
 
-**8.**[^key-b898426eaafd1836460c0b4d046c9948] In section 307 (interpretation)—
+**8.**[^c-b898426eaafd1836460c0b4d046c9948] In section 307 (interpretation)—
 
 - (a) in subsection (1), insert the following definition at the appropriate place—
 
@@ -108,7 +108,7 @@ summary: ''
 
 #### The 1982 Act
 
-**9.**[^key-7699821afe9713bc24444a1e36368c96] In section 58 of the 1982 Act, after subsection (4) insert—
+**9.**[^c-7699821afe9713bc24444a1e36368c96] In section 58 of the 1982 Act, after subsection (4) insert—
 
 > (4A) In subsection (4), the reference to a conviction for theft includes a reference to a conviction by a court in England and Wales, Northern Ireland or a member State of the European Union other than the United Kingdom of an offence that is equivalent to theft.
 >
@@ -118,7 +118,7 @@ summary: ''
 
 #### The Prisoners and Criminal Proceedings (Scotland) Act 1993 (c.9)
 
-**10.**[^key-42b751ae1b8e42f8a5d9dfe27b5563fd] In section 27(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (interpretation of Part 1), insert at the appropriate place—
+**10.**[^c-42b751ae1b8e42f8a5d9dfe27b5563fd] In section 27(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (interpretation of Part 1), insert at the appropriate place—
 
 > “**previous conviction**” means a previous conviction by a court in any part of the United Kingdom or in any other member State of the European Union;
 
@@ -126,7 +126,7 @@ summary: ''
 
 #### The Criminal Law (Consolidation) (Scotland) Act 1995 (c.39)
 
-**11.**[^key-c9f127081843dfe8ce643467e99ddea6] (1) Section 9 of the Criminal Law (Consolidation) (Scotland) Act 1995 (permitting girl to use premises for intercourse) is amended as follows.
+**11.**[^c-c9f127081843dfe8ce643467e99ddea6] (1) Section 9 of the Criminal Law (Consolidation) (Scotland) Act 1995 (permitting girl to use premises for intercourse) is amended as follows.
 
 (2) In subsection (2A)—
 
@@ -152,13 +152,13 @@ summary: ''
 
 **12.** In section 4(1) of the Custodial Sentences and Weapons (Scotland) Act 2007 (basic definitions for purposes of Part 2), insert at the appropriate place—
 
-> “**previous conviction**” means a previous conviction by a court in any part of the United Kingdom or , where the court considers it to be appropriate,[^key-599bb41df0e3e3516841c8d1dfe22557] in any [^key-63874702c520e517cc343fe8232f85a0]... member State of the European Union,
+> “**previous conviction**” means a previous conviction by a court in any part of the United Kingdom or , where the court considers it to be appropriate,[^c-599bb41df0e3e3516841c8d1dfe22557] in any [^c-63874702c520e517cc343fe8232f85a0]... member State of the European Union,
 
 .
 
 #### The Sexual Offences (Scotland) Act 2009 (asp 9)
 
-**13.**[^key-02edd8b555549cb421ee829a2b522980] (1) Section 39 of the Sexual Offences (Scotland) Act 2009 (defences in relation to offences against older children) is amended as follows.
+**13.**[^c-02edd8b555549cb421ee829a2b522980] (1) Section 39 of the Sexual Offences (Scotland) Act 2009 (defences in relation to offences against older children) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -196,30 +196,30 @@ summary: ''
 
 ## Annotations
 
-[^key-679d0a9b8b2ff89b889f296c9515afbd]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/1) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-679d0a9b8b2ff89b889f296c9515afbd]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/1) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-fa015450666f656eb85b347327239b14]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/2) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-fa015450666f656eb85b347327239b14]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/2) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-4cd9196d6b1a2b628d34e0fe5c048c62]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/3) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-4cd9196d6b1a2b628d34e0fe5c048c62]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/3) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-7ebd9178228c68c9c304146407c2b29f]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/4) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-7ebd9178228c68c9c304146407c2b29f]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/4) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-6c3f61c4431b88e9fadf89e3508a5776]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/5) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-6c3f61c4431b88e9fadf89e3508a5776]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/5) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-d83563d5186c7c5e7c3bbbbb353d8e91]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/6) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-d83563d5186c7c5e7c3bbbbb353d8e91]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/6) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-a65a2d8ac6b7a5cf88ed9ee3bfb4215d]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/7) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-a65a2d8ac6b7a5cf88ed9ee3bfb4215d]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/7) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-b898426eaafd1836460c0b4d046c9948]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/8) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-b898426eaafd1836460c0b4d046c9948]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/8) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-7699821afe9713bc24444a1e36368c96]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/9) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-7699821afe9713bc24444a1e36368c96]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/9) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-42b751ae1b8e42f8a5d9dfe27b5563fd]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/10) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-42b751ae1b8e42f8a5d9dfe27b5563fd]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/10) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-c9f127081843dfe8ce643467e99ddea6]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/11) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-c9f127081843dfe8ce643467e99ddea6]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/11) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-599bb41df0e3e3516841c8d1dfe22557]: Textual amendment: Words in [sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/12) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [15(4)(a)](https://www.legislation.gov.uk/ssi/2020/339/regulation/15/4/a) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-599bb41df0e3e3516841c8d1dfe22557]: Textual amendment: Words in [sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/12) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [15(4)(a)](https://www.legislation.gov.uk/ssi/2020/339/regulation/15/4/a) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
 
-[^key-63874702c520e517cc343fe8232f85a0]: Textual amendment: Word in [sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/12) omitted (31.12.2020) by virtue of [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [15(4)(b)](https://www.legislation.gov.uk/ssi/2020/339/regulation/15/4/b) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-63874702c520e517cc343fe8232f85a0]: Textual amendment: Word in [sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/12) omitted (31.12.2020) by virtue of [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [15(4)(b)](https://www.legislation.gov.uk/ssi/2020/339/regulation/15/4/b) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
 
-[^key-02edd8b555549cb421ee829a2b522980]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/13) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-02edd8b555549cb421ee829a2b522980]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/13) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

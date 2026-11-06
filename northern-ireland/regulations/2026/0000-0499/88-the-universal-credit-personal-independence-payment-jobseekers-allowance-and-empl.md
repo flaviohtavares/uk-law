@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by Articles 11(3) and 74(1), (3) and (6) of the Social Security (Northern Ireland) Order 1998[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-d5bf02280773bc8c014a195b2e9f7894]
+## 1. Citation and commencement[^c-d5bf02280773bc8c014a195b2e9f7894]
 
 These Regulations may be cited as the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 2nd June 2026.
 
-## 2. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations[^key-9908bd84f5e1266a39d694e517fa33cf]
+## 2. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations[^c-9908bd84f5e1266a39d694e517fa33cf]
 
 After regulation 22 of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations (Northern Ireland) 2016[^f00003] (introduction), insert—
 
@@ -80,9 +80,9 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-d5bf02280773bc8c014a195b2e9f7894]: Commencement: Reg. 1 in operation at 2.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/88/regulation/1)
+[^c-d5bf02280773bc8c014a195b2e9f7894]: Commencement: Reg. 1 in operation at 2.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/88/regulation/1)
 
-[^key-9908bd84f5e1266a39d694e517fa33cf]: Commencement: Reg. 2 in operation at 2.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/88/regulation/1)
+[^c-9908bd84f5e1266a39d694e517fa33cf]: Commencement: Reg. 2 in operation at 2.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/88/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2016 No. 221](https://www.legislation.gov.uk/nisr/2016/221)
 

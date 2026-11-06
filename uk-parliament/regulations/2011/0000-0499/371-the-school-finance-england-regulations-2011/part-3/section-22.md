@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Federated schools[^key-b3cb256a7b3242406d4231ea1e8c7bc3]
+## 22. Federated schools[^c-b3cb256a7b3242406d4231ea1e8c7bc3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3cb256a7b3242406d4231ea1e8c7bc3]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2011/371/regulation/22) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-b3cb256a7b3242406d4231ea1e8c7bc3]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2011/371/regulation/22) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

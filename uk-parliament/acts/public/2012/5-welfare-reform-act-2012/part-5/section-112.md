@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-f2b31c4086b28861b013e86dd842e27f][^key-9f22e3a060d707de783d2a990e2232d6] The Social Security Administration Act 1992 is amended as follows.
+(1)[^c-f2b31c4086b28861b013e86dd842e27f][^c-9f22e3a060d707de783d2a990e2232d6] The Social Security Administration Act 1992 is amended as follows.
 
-(2)[^key-f2b31c4086b28861b013e86dd842e27f][^key-9f22e3a060d707de783d2a990e2232d6] After section 116 there is inserted—
+(2)[^c-f2b31c4086b28861b013e86dd842e27f][^c-9f22e3a060d707de783d2a990e2232d6] After section 116 there is inserted—
 
 > **116ZA. Local authority powers to prosecute housing benefit and council tax benefit fraud**
 >
@@ -60,21 +60,21 @@ summary: ''
 >
 > (9) This section does not apply to Scotland.
 
-(3)[^key-3117bb024452435a4e3d880e614291ee] Section 116A (local authority powers to prosecute benefit fraud) is amended as follows.
+(3)[^c-3117bb024452435a4e3d880e614291ee] Section 116A (local authority powers to prosecute benefit fraud) is amended as follows.
 
-(4)[^key-3117bb024452435a4e3d880e614291ee] In the heading, after “prosecute” there is inserted “ other ”.
+(4)[^c-3117bb024452435a4e3d880e614291ee] In the heading, after “prosecute” there is inserted “ other ”.
 
-(5)[^key-3117bb024452435a4e3d880e614291ee] In subsection (2)—
+(5)[^c-3117bb024452435a4e3d880e614291ee] In subsection (2)—
 
 - (a) for “unless” there is substituted “ only if ”;
 - (b) in paragraph (b), for “must not”, there is substituted “ may ”.
 
-(6)[^key-3117bb024452435a4e3d880e614291ee] In subsection (4)(b), for “gives” there is substituted “ withdraws ”.
+(6)[^c-3117bb024452435a4e3d880e614291ee] In subsection (4)(b), for “gives” there is substituted “ withdraws ”.
 
 ## Annotations
 
-[^key-f2b31c4086b28861b013e86dd842e27f]: Commencement: S. 112(1)(2) in force at 20.4.2016 for specified purposes by [S.I. 2016/511](https://www.legislation.gov.uk/uksi/2016/511), [art. 3](https://www.legislation.gov.uk/uksi/2016/511/article/3)
+[^c-f2b31c4086b28861b013e86dd842e27f]: Commencement: S. 112(1)(2) in force at 20.4.2016 for specified purposes by [S.I. 2016/511](https://www.legislation.gov.uk/uksi/2016/511), [art. 3](https://www.legislation.gov.uk/uksi/2016/511/article/3)
 
-[^key-9f22e3a060d707de783d2a990e2232d6]: Commencement: S. 112(1)(2) in force at 24.5.2016 in so far as not already in force by [S.I. 2016/511](https://www.legislation.gov.uk/uksi/2016/511), [art. 4(a)](https://www.legislation.gov.uk/uksi/2016/511/article/4/a)
+[^c-9f22e3a060d707de783d2a990e2232d6]: Commencement: S. 112(1)(2) in force at 24.5.2016 in so far as not already in force by [S.I. 2016/511](https://www.legislation.gov.uk/uksi/2016/511), [art. 4(a)](https://www.legislation.gov.uk/uksi/2016/511/article/4/a)
 
-[^key-3117bb024452435a4e3d880e614291ee]: Commencement: S. 112(3)-(6) in force at 24.5.2016 by [S.I. 2016/511](https://www.legislation.gov.uk/uksi/2016/511), [art. 4(b)](https://www.legislation.gov.uk/uksi/2016/511/article/4/b)
+[^c-3117bb024452435a4e3d880e614291ee]: Commencement: S. 112(3)-(6) in force at 24.5.2016 by [S.I. 2016/511](https://www.legislation.gov.uk/uksi/2016/511), [art. 4(b)](https://www.legislation.gov.uk/uksi/2016/511/article/4/b)

@@ -29,7 +29,7 @@ summary: ''
 
 (2) A revocation does not come into force until such time, if any, as is the operative time for the purposes of this subsection under paragraph 31 of Schedule 6 (time when period for appealing expires without an appeal being made or when decision to vary is confirmed on appeal).
 
-(2A)[^key-c18a8b423c41e6af906ee70ac0b6f0b4] A final management order may not be revoked under this section at a time when—
+(2A)[^c-c18a8b423c41e6af906ee70ac0b6f0b4] A final management order may not be revoked under this section at a time when—
 
 - (a) the immediate landlord is subject to a banning order under section 16 of the Housing and Planning Act 2016,
 - (b) there is in force an agreement which, under section 117, has effect as a lease or licence granted by the authority, and
@@ -49,4 +49,4 @@ summary: ''
 
 [^c2052586]: Commencement: S. 122 wholly in force at 16.6.2006; s. 122 not in force at Royal Assent see s. 270(4)(5); s. 122 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 122 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-c18a8b423c41e6af906ee70ac0b6f0b4]: Textual amendment: [S. 122(2A)](https://www.legislation.gov.uk/ukpga/2004/34/section/122/2A) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/10); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-c18a8b423c41e6af906ee70ac0b6f0b4]: Textual amendment: [S. 122(2A)](https://www.legislation.gov.uk/ukpga/2004/34/section/122/2A) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/10); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)

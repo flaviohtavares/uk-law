@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Remands and committals to secure accommodation etc[^key-b9f87c821a41deccfedc8c7f8c5871a7]
+## 130. Remands and committals to secure accommodation etc[^c-b9f87c821a41deccfedc8c7f8c5871a7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9f87c821a41deccfedc8c7f8c5871a7]: Textual amendment: S. 130 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 47](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/47); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+[^c-b9f87c821a41deccfedc8c7f8c5871a7]: Textual amendment: S. 130 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 47](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/47); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))

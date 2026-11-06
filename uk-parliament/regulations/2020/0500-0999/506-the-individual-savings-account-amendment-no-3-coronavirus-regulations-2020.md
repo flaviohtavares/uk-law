@@ -48,15 +48,15 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred by section 151 of the Taxation of Chargeable Gains Act 1992 [^c24097541], sections 694, 695 and 701 of the Income Tax (Trading and Other Income) Act 2005 [^c24097551] and paragraph 8 of Schedule 1 to the Savings (Government Contributions) Act 2017 [^c24097561], make the following Regulations.
 
-## 1. Citation and commencement[^key-7b4c5baf1b91d8eab2bea5ac6d340954]
+## 1. Citation and commencement[^c-7b4c5baf1b91d8eab2bea5ac6d340954]
 
 These Regulations may be cited as the Individual Savings Account (Amendment No. 3) (Coronavirus) Regulations 2020 and come into force on 4th June 2020.
 
-## 2. Amendment of the Individual Savings Account Regulations 1998[^key-dc5a73117dd14dd34bc40f4e4046f8ad]
+## 2. Amendment of the Individual Savings Account Regulations 1998[^c-dc5a73117dd14dd34bc40f4e4046f8ad]
 
 The Individual Savings Account Regulations 1998 [^c24097571] are amended as follows.
 
-## 3.[^key-4f4bb5c00498f30815de9b6f8e63a01a]
+## 3.[^c-4f4bb5c00498f30815de9b6f8e63a01a]
 
 In the Schedule, after paragraph 5, insert—
 
@@ -90,10 +90,10 @@ A Tax Information and Impact Note will be published on the HM Government website
 
 [^c24097561]: Marginal citation: [2017 c. 2](https://www.legislation.gov.uk/ukpga/2017/2).
 
-[^key-7b4c5baf1b91d8eab2bea5ac6d340954]: Commencement: Reg. 1 in force at 4.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/506/regulation/1)
+[^c-7b4c5baf1b91d8eab2bea5ac6d340954]: Commencement: Reg. 1 in force at 4.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/506/regulation/1)
 
-[^key-dc5a73117dd14dd34bc40f4e4046f8ad]: Commencement: Reg. 2 in force at 4.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/506/regulation/1)
+[^c-dc5a73117dd14dd34bc40f4e4046f8ad]: Commencement: Reg. 2 in force at 4.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/506/regulation/1)
 
 [^c24097571]: Marginal citation: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870). The Schedule was inserted by [S.I. 2017/466](https://www.legislation.gov.uk/uksi/2017/466).
 
-[^key-4f4bb5c00498f30815de9b6f8e63a01a]: Commencement: Reg. 3 in force at 4.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/506/regulation/1)
+[^c-4f4bb5c00498f30815de9b6f8e63a01a]: Commencement: Reg. 3 in force at 4.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/506/regulation/1)

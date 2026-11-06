@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Police officer’s ill-health pension[^key-cdf7bb1910f6122119f20eab8d13f401]
+## 26. Police officer’s ill-health pension[^c-cdf7bb1910f6122119f20eab8d13f401]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ the award under paragraph (2) shall be an ill-health pension calculated in accor
 
 ## Annotations
 
-[^key-cdf7bb1910f6122119f20eab8d13f401]: Commencement: Reg. 26 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-cdf7bb1910f6122119f20eab8d13f401]: Commencement: Reg. 26 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

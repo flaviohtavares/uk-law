@@ -31,7 +31,7 @@ summary: ''
 - (a) that any reserved matter should become a transferred matter; or
 - (b) that any transferred matter should become a reserved matter,
 
-he may, subject to subsections (2A)[^c20129491] to (3D)[^key-7ed2ea7a43ba03926ad14043f4b1172a] , lay before Parliament the draft of an Order in Council amending Schedule 3 so that the matter ceases to be or, as the case may be, becomes a reserved matter with effect from such date as may be specified in the Order.
+he may, subject to subsections (2A)[^c20129491] to (3D)[^c-7ed2ea7a43ba03926ad14043f4b1172a] , lay before Parliament the draft of an Order in Council amending Schedule 3 so that the matter ceases to be or, as the case may be, becomes a reserved matter with effect from such date as may be specified in the Order.
 
 (2A)[^c20129521] The Secretary of State shall not lay before Parliament under subsection (2) the draft of an Order amending Schedule 3 so that a policing and justice matter ceases to be a reserved matter unless—
 
@@ -40,7 +40,7 @@ he may, subject to subsections (2A)[^c20129491] to (3D)[^key-7ed2ea7a43ba03926ad
 
 (3) The Secretary of State shall not lay before Parliament under subsection (2) the draft of any other Order[^c20129541] unless the Assembly has passed with cross-community support a resolution praying that the matter concerned should cease to be or, as the case may be, should become a reserved matter.
 
-(3A)[^key-fa5239d62ad79f0bb805b7b1f03479d3] The Secretary of State shall not lay before Parliament under subsection (2) the draft of an Order amending paragraph 16 of Schedule 3 (Civil Service Commissioners for Northern Ireland) unless the Secretary of State has, at least three months before laying the draft, laid a report before Parliament.
+(3A)[^c-fa5239d62ad79f0bb805b7b1f03479d3] The Secretary of State shall not lay before Parliament under subsection (2) the draft of an Order amending paragraph 16 of Schedule 3 (Civil Service Commissioners for Northern Ireland) unless the Secretary of State has, at least three months before laying the draft, laid a report before Parliament.
 
 (3B) The report under subsection (3A) must set out the Secretary of State's view of the effect (if any) that the Order would have on—
 
@@ -48,7 +48,7 @@ he may, subject to subsections (2A)[^c20129491] to (3D)[^key-7ed2ea7a43ba03926ad
 - (b) the application of the principle that persons should be selected for appointment to the Northern Ireland Civil Service on merit on the basis of fair and open competition; and
 - (c) the impartiality of the Northern Ireland Civil Service.
 
-(3C)[^key-887af6179466c766fda3b38cf111f755] The Secretary of State shall not lay before Parliament under subsection (2) the draft of an Order amending paragraph 42(aa) of Schedule 3 (Northern Ireland Human Rights Commission) unless the Secretary of State has, at least three months before laying the draft, laid a report before Parliament.
+(3C)[^c-887af6179466c766fda3b38cf111f755] The Secretary of State shall not lay before Parliament under subsection (2) the draft of an Order amending paragraph 42(aa) of Schedule 3 (Northern Ireland Human Rights Commission) unless the Secretary of State has, at least three months before laying the draft, laid a report before Parliament.
 
 (3D) The report under subsection (3C) must set out the Secretary of State's view of the effect (if any) that the Order would have on—
 
@@ -80,15 +80,15 @@ he may, subject to subsections (2A)[^c20129491] to (3D)[^key-7ed2ea7a43ba03926ad
 
 [^c20129491]: Textual amendment: Words in s. 4(2) substituted (11.3.2009) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/16/2), [31](https://www.legislation.gov.uk/ukpga/2006/33/section/31); [S.I. 2009/448](https://www.legislation.gov.uk/uksi/2009/448), [art. 2](https://www.legislation.gov.uk/uksi/2009/448/article/2)
 
-[^key-7ed2ea7a43ba03926ad14043f4b1172a]: Textual amendment: Words in s. 4(2) substituted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/10/4), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
+[^c-7ed2ea7a43ba03926ad14043f4b1172a]: Textual amendment: Words in s. 4(2) substituted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/10/4), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
 
 [^c20129521]: Textual amendment: S. 4(2A) inserted (11.3.2009) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/16/3), [31](https://www.legislation.gov.uk/ukpga/2006/33/section/31) (as amended by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [ss. 18(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/18/5), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4/5) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)) (as amended by [Northern Ireland (St. Andrews Agreement) Act 2007 (c. 4)](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2007/4/section/1/1)); [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [art. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2)); [S.I. 2009/448](https://www.legislation.gov.uk/uksi/2009/448), [art. 2](https://www.legislation.gov.uk/uksi/2009/448/article/2)
 
 [^c20129541]: Textual amendment: Words in s. 4(3) substituted (11.3.2009) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 16(4)](https://www.legislation.gov.uk/ukpga/2006/33/section/16/4), [31](https://www.legislation.gov.uk/ukpga/2006/33/section/31); [S.I. 2009/448](https://www.legislation.gov.uk/uksi/2009/448), [art. 2](https://www.legislation.gov.uk/uksi/2009/448/article/2)
 
-[^key-fa5239d62ad79f0bb805b7b1f03479d3]: Textual amendment: S. 4(3A)(3B) inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 10(5)](https://www.legislation.gov.uk/ukpga/2014/13/section/10/5), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
+[^c-fa5239d62ad79f0bb805b7b1f03479d3]: Textual amendment: S. 4(3A)(3B) inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 10(5)](https://www.legislation.gov.uk/ukpga/2014/13/section/10/5), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
 
-[^key-887af6179466c766fda3b38cf111f755]: Textual amendment: S. 4(3C)(3D) inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/11/3), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
+[^c-887af6179466c766fda3b38cf111f755]: Textual amendment: S. 4(3C)(3D) inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/11/3), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
 
 [^c20129641]: Textual amendment: S. 4(5A) inserted (8.5.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2006/53/section/2/2), [13](https://www.legislation.gov.uk/ukpga/2006/53/section/13), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4/5) (as amended by Northern Ireland (St Andrews Agreement) [2007 c. 4](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2007/4/section/1/1)) (with s. 1(3)); [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [art. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2)
 

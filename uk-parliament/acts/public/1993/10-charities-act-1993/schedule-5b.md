@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5B — Further provision about Charitable Incorporated Organisations[^key-c19229d866e13afe36d39b34d22ef788]
+## SCHEDULE 5B — Further provision about Charitable Incorporated Organisations[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -24,52 +24,52 @@ summary: ''
 
 Section 69P
 
-### Powers[^key-c19229d866e13afe36d39b34d22ef788]
+### Powers[^c-c19229d866e13afe36d39b34d22ef788]
 
-**1.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Constitutional requirements[^key-c19229d866e13afe36d39b34d22ef788]
+### Constitutional requirements[^c-c19229d866e13afe36d39b34d22ef788]
 
-**2.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Third parties[^key-c19229d866e13afe36d39b34d22ef788]
+### Third parties[^c-c19229d866e13afe36d39b34d22ef788]
 
-**5.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Duties[^key-c19229d866e13afe36d39b34d22ef788]
+### Duties[^c-c19229d866e13afe36d39b34d22ef788]
 
-**9.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Personal benefit and payments[^key-c19229d866e13afe36d39b34d22ef788]
+### Personal benefit and payments[^c-c19229d866e13afe36d39b34d22ef788]
 
-**11.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Procedure[^key-c19229d866e13afe36d39b34d22ef788]
+### Procedure[^c-c19229d866e13afe36d39b34d22ef788]
 
-**13.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Amendment of constitution[^key-c19229d866e13afe36d39b34d22ef788]
+### Amendment of constitution[^c-c19229d866e13afe36d39b34d22ef788]
 
-**14.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Registration and coming into effect of amendments[^key-c19229d866e13afe36d39b34d22ef788]
+### Registration and coming into effect of amendments[^c-c19229d866e13afe36d39b34d22ef788]
 
-**15.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

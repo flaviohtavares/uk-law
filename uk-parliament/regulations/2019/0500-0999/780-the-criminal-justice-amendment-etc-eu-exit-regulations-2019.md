@@ -44,11 +44,11 @@ Coming into force in accordance with regulation 1(1)
 
 In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-In accordance with section 88(2) of the Scotland Act 1998 [^c23692981] the Secretary of State has consulted with the Scottish Ministers on the proposal to make Part 2 of these Regulations.[^key-d7c7c3f8435df0237aedf28d9d126300]
+In accordance with section 88(2) of the Scotland Act 1998 [^c23692981] the Secretary of State has consulted with the Scottish Ministers on the proposal to make Part 2 of these Regulations.[^c-d7c7c3f8435df0237aedf28d9d126300]
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and extent[^key-741e7df7cdd5b09fe70ec1de72f4df13]
+### 1. Citation, commencement and extent[^c-741e7df7cdd5b09fe70ec1de72f4df13]
 
 (1) These Regulations may be cited as the Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -64,11 +64,11 @@ In accordance with section 88(2) of the Scotland Act 1998 [^c23692981] the Secre
 
 ## PART 2 — ARRANGEMENTS FOR COMPENSATION FOR VICTIMS OF VIOLENT INTENTIONAL CRIME
 
-### 2. Revocation of the Victims of Violent Intentional Crime (Arrangements for Compensation) (European Communities) Regulations 2005[^key-9f210771342af7989a2ad81b1b48fb03]
+### 2. Revocation of the Victims of Violent Intentional Crime (Arrangements for Compensation) (European Communities) Regulations 2005[^c-9f210771342af7989a2ad81b1b48fb03]
 
 The Victims of Violent Intentional Crime (Arrangements for Compensation) (European Communities) Regulations 2005 [^c23692991] are revoked.
 
-### 2A. Saving for applications for compensation received by the Deciding Authority before IP completion day: application of Article 69(1)(c) of the withdrawal agreement[^key-fa71dfe23775d3675f8436ad4c67ccbc][^M_I_ae6b81ab-7f11-44db-9894-b41473015530]
+### 2A. Saving for applications for compensation received by the Deciding Authority before IP completion day: application of Article 69(1)(c) of the withdrawal agreement[^c-fa71dfe23775d3675f8436ad4c67ccbc][^M_I_ae6b81ab-7f11-44db-9894-b41473015530]
 
 Nothing in regulation 2 affects the application of paragraph 1(c) of Article 69 of the withdrawal agreement and the legislation revoked by regulation 2 continues to have effect for the purposes of that paragraph as if it had not been revoked.
 
@@ -76,15 +76,15 @@ Nothing in regulation 2 affects the application of paragraph 1(c) of Article 69 
 
 ### CHAPTER 1 — European protection orders: England and Wales
 
-#### 3. Interpretation[^key-bbdbf4375d16c66e374e4f4f785bffa2][^key-bab31a8560f055f369d07f16e8b1d79b]
+#### 3. Interpretation[^c-bbdbf4375d16c66e374e4f4f785bffa2][^c-bab31a8560f055f369d07f16e8b1d79b]
 
 In this Chapter, “the England and Wales EPO Regulations” means the Criminal Justice (European Protection Order) (England and Wales) Regulations 2014 [^M_F_f014224b-1cb5-47b2-b0d5-806c08eb43bb].
 
-#### 4. Revocation of the England and Wales EPO Regulations[^key-3af9c9d7492bd57400261c8f82f1e01b]
+#### 4. Revocation of the England and Wales EPO Regulations[^c-3af9c9d7492bd57400261c8f82f1e01b]
 
 The England and Wales EPO Regulations are revoked.
 
-#### 5. Transitional and saving provision: requests to executing States to recognise European protection orders made in England and Wales[^key-d7bc1cd5fb246fb25e153e655ed0e2cd][^key-0530c815fbb7f59055b82c62bd9062d1]
+#### 5. Transitional and saving provision: requests to executing States to recognise European protection orders made in England and Wales[^c-d7bc1cd5fb246fb25e153e655ed0e2cd][^c-0530c815fbb7f59055b82c62bd9062d1]
 
 (1) The following provisions of the England and Wales EPO Regulations continue to apply, as if they had not been revoked by regulation 4, to relevant European protection orders as defined in paragraph (2) below (and see Article 62(1)(k) of the withdrawal agreement and sections 7A and 7C of the European Union (Withdrawal) Act 2018)—
 
@@ -100,7 +100,7 @@ The England and Wales EPO Regulations are revoked.
 - (b) “the executing State” has the same meaning as in regulations 3(2) and 4(5) of the England and Wales EPO Regulations (interpretation – Part 2 and power of a court to make a European protection order);
 - (c) the provisions of the England and Wales EPO Regulations referred to in paragraph (1) are to be read as if the term “member State” included the United Kingdom.
 
-#### 6. Transitional and saving provision: recognition by England and Wales of European protection orders made by issuing States[^key-e61ff35e25d23e47014f608a6b8558eb][^key-8797b5bb1a4c6bd3cf26f9543b1c1178]
+#### 6. Transitional and saving provision: recognition by England and Wales of European protection orders made by issuing States[^c-e61ff35e25d23e47014f608a6b8558eb][^c-8797b5bb1a4c6bd3cf26f9543b1c1178]
 
 (1) The following provisions of the England and Wales EPO Regulations continue to apply, as if they had not been revoked by regulation 4, to relevant European protection orders as defined in paragraph (2) below—
 
@@ -117,13 +117,13 @@ The England and Wales EPO Regulations are revoked.
 - (b) “the issuing State” has the same meaning as in regulations 11(2) and 12(1) of the England and Wales EPO Regulations (interpretation – Part 3 and the Schedule);
 - (c) the provisions of the England and Wales EPO Regulations referred to in paragraph (1) are to be read as if the term “member State” included the United Kingdom.
 
-#### 7. Saving provision: European protection order modifications communicated, but not given effect to, before exit day[^key-1a4eebe1d85166b46468f8496dbde63b]
+#### 7. Saving provision: European protection order modifications communicated, but not given effect to, before exit day[^c-1a4eebe1d85166b46468f8496dbde63b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Saving provision: European protection order revocation notifications made, but not given effect to, before exit day[^key-0de3580836735df8792ccfdca8139a81]
+#### 8. Saving provision: European protection order revocation notifications made, but not given effect to, before exit day[^c-0de3580836735df8792ccfdca8139a81]
 
 **Not yet in force.**
 
@@ -131,15 +131,15 @@ The England and Wales EPO Regulations are revoked.
 
 ### CHAPTER 2 — European protection orders: Northern Ireland
 
-#### 9. Interpretation[^key-55bd31b64ad96343c8140a93c5876006][^key-44668faadc6ef957969a4e54b9d5a8e0]
+#### 9. Interpretation[^c-55bd31b64ad96343c8140a93c5876006][^c-44668faadc6ef957969a4e54b9d5a8e0]
 
 In this Chapter, “the Northern Ireland EPO Regulations” means the Criminal Justice (European Protection Order) (Northern Ireland) Regulations 2014[^M_F_f8a65af1-500c-4799-d874-a354feb7745d].
 
-#### 10. Revocation of the Northern Ireland EPO Regulations[^key-a6ac9f9a2500c809c3bc4b0764eee5ad]
+#### 10. Revocation of the Northern Ireland EPO Regulations[^c-a6ac9f9a2500c809c3bc4b0764eee5ad]
 
 The Northern Ireland EPO Regulations are revoked.
 
-#### 11. Transitional and saving provision: requests to executing States to recognise European protection orders made in Northern Ireland[^key-7d0d12b8a73db3d70595e3356f084b1a][^key-41a9fa845939fbfab02ad24202b808a6]
+#### 11. Transitional and saving provision: requests to executing States to recognise European protection orders made in Northern Ireland[^c-7d0d12b8a73db3d70595e3356f084b1a][^c-41a9fa845939fbfab02ad24202b808a6]
 
 (1) The following provisions of the Northern Ireland EPO Regulations continue to apply, as if they had not been revoked by regulation 10, to relevant European protection orders as defined in paragraph (2) below (and see Article 62(1)(k) of the withdrawal agreement and sections 7A and 7C of the European Union (Withdrawal) Act 2018)—
 
@@ -155,7 +155,7 @@ The Northern Ireland EPO Regulations are revoked.
 - (b) “the executing State” has the same meaning as in regulation 3(2) and 4(5) of the Northern Ireland EPO Regulations (interpretation – Part 2 and power of a court to make a European protection order);
 - (c) the provisions of the Northern Ireland EPO Regulations referred to in paragraph (1) are to be read as if the term “member State” included the United Kingdom.
 
-#### 12. Transitional and saving provision: recognition by Northern Ireland of European protection orders made by issuing States[^key-d8a35599859cabe97b90f96dbd31ac58][^key-bfafa174b397befffcefafc5070155dc]
+#### 12. Transitional and saving provision: recognition by Northern Ireland of European protection orders made by issuing States[^c-d8a35599859cabe97b90f96dbd31ac58][^c-bfafa174b397befffcefafc5070155dc]
 
 (1) The following provisions of the Northern Ireland EPO Regulations continue to apply, as if they had not been revoked by regulation 10, to relevant European protection orders as defined in paragraph (2) below—
 
@@ -172,25 +172,25 @@ The Northern Ireland EPO Regulations are revoked.
 - (b) “the issuing State” has the same meaning as in regulation 2(1) of the Northern Ireland EPO Regulations;
 - (c) the provisions of the Northern Ireland EPO Regulations referred to in paragraph (1) are to be read as if the term “member State” included the United Kingdom.
 
-#### 13. Saving provision: European protection order modifications communicated, but not given effect to, before exit day[^key-b5dad8e9c96b7c8c004bbe6611c84c6e]
+#### 13. Saving provision: European protection order modifications communicated, but not given effect to, before exit day[^c-b5dad8e9c96b7c8c004bbe6611c84c6e]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Saving provision: European protection order revocation notifications made, but not given effect to, before exit day[^key-fd8d08fa526ede9752166094b169aacf]
+#### 14. Saving provision: European protection order revocation notifications made, but not given effect to, before exit day[^c-fd8d08fa526ede9752166094b169aacf]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Consequential revocation[^key-dbd11e07e98130cb6370e77b6c63cec1]
+#### 15. Consequential revocation[^c-dbd11e07e98130cb6370e77b6c63cec1]
 
 The Criminal Justice (European Protection Order) (Amendment) Regulations (Northern Ireland) 2015 [^c23693041] are revoked.
 
 ## PART 4 — EUROPEAN SUPERVISION ORDERS
 
-### 16. Amendment of the Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014[^key-076247756fdc6e4a514375715f80070b]
+### 16. Amendment of the Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014[^c-076247756fdc6e4a514375715f80070b]
 
 (1) The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 [^c23693051] are amended as follows.
 
@@ -198,7 +198,7 @@ The Criminal Justice (European Protection Order) (Amendment) Regulations (Northe
 
 (3) Omit Schedule 6 (grounds for refusal to monitor supervision measures).
 
-### 16A. Transitional and saving provision for England and Wales: decisions on supervision measures received before IP completion day[^M_I_a6098561-273f-4fa0-867f-34973ed4961a][^key-3898561a6adc2d3b006303db0359d4c4]
+### 16A. Transitional and saving provision for England and Wales: decisions on supervision measures received before IP completion day[^M_I_a6098561-273f-4fa0-867f-34973ed4961a][^c-3898561a6adc2d3b006303db0359d4c4]
 
 (1) The following provisions of the Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (“the 2014 Regulations”) continue to apply, as if they had not been revoked by regulation 16, to relevant decisions on supervision measures as defined in paragraph (2) below (and see Article 62(1)(i) of the withdrawal agreement and sections 7A and 7C of the European Union (Withdrawal) Act 2018)—
 
@@ -246,11 +246,11 @@ The Criminal Justice (European Protection Order) (Amendment) Regulations (Northe
 
 ## PART 5 — MUTUAL RECOGNITION OF FINANCIAL PENALTIES
 
-### 17. Interpretation[^key-ad320e22bc49b3f8b0c7ac99f8e332ce]
+### 17. Interpretation[^c-ad320e22bc49b3f8b0c7ac99f8e332ce]
 
 In this Part, the “**2008 Act**” means the Criminal Justice and Immigration Act 2008 [^c23693071].
 
-### 18. Amendment of the Courts Act 2003[^key-eae0cb64c86f9c83d7d3991047c5ecdd]
+### 18. Amendment of the Courts Act 2003[^c-eae0cb64c86f9c83d7d3991047c5ecdd]
 
 In paragraph 38 of Schedule 5 to the Courts Act 2003 (the range of further steps available against defaulters) [^c23693081], omit—
 
@@ -258,9 +258,9 @@ In paragraph 38 of Schedule 5 to the Courts Act 2003 (the range of further steps
 - (b) sub-paragraph (4);
 - (c) sub-paragraph (5).
 
-### 19. Amendment of the 2008 Act[^key-3ff0ab1c9f7c7b1973b17ec58f6a9a21]
+### 19. Amendment of the 2008 Act[^c-3ff0ab1c9f7c7b1973b17ec58f6a9a21]
 
-(1)[^key-39d14d8c8d6380a14a2610b34cd07c8a] In the 2008 Act, omit—
+(1)[^c-39d14d8c8d6380a14a2610b34cd07c8a] In the 2008 Act, omit—
 
 - (a) sections 80 to 92 (recognition of financial penalties) [^c23693091];
 - (b) section 147(5)(d) (orders, rules and regulations) [^c23693101];
@@ -268,9 +268,9 @@ In paragraph 38 of Schedule 5 to the Courts Act 2003 (the range of further steps
 - (d) Schedule 19 (grounds for refusal to enforce financial penalties) [^c23693121];
 - (e) paragraph 29 of Schedule 27 (mutual recognition of financial penalties).
 
-(2)[^key-29acc2a0e3f6f99f195f648b35ec204c] See Article 62(1)(d) of the withdrawal agreement and sections 7A and 7C of the European Union (Withdrawal) Act 2018.
+(2)[^c-29acc2a0e3f6f99f195f648b35ec204c] See Article 62(1)(d) of the withdrawal agreement and sections 7A and 7C of the European Union (Withdrawal) Act 2018.
 
-### 20. Transitional and saving provision: decisions requiring payment of financial penalties received before IP completion day[^key-640f79ab031bd438801c16c43c32ecbd][^key-d3d1fe3b6983925603853930ef53b5e5]
+### 20. Transitional and saving provision: decisions requiring payment of financial penalties received before IP completion day[^c-640f79ab031bd438801c16c43c32ecbd][^c-d3d1fe3b6983925603853930ef53b5e5]
 
 (1) The following provisions of the 2008 Act continue to apply, as if they had not been revoked by regulation 19, to relevant decisions requiring payment of financial penalties—
 
@@ -297,11 +297,11 @@ In paragraph 38 of Schedule 5 to the Courts Act 2003 (the range of further steps
 
 ### CHAPTER 1 — Amendments: legislation that extends to England and Wales only
 
-#### 21. Amendment of the Prevention of Crime Act 1953[^key-ba226d691a91176e51e124ef7e7e5af2]
+#### 21. Amendment of the Prevention of Crime Act 1953[^c-ba226d691a91176e51e124ef7e7e5af2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Amendment of the Magistrates' Courts Act 1980[^key-dea49ff7df3d9327f311c10b0a8cf755]
+#### 22. Amendment of the Magistrates' Courts Act 1980[^c-dea49ff7df3d9327f311c10b0a8cf755]
 
 (1) Section 19 of the Magistrates' Courts Act 1980 (decision as to allocation) [^c23693141] is amended as follows.
 
@@ -312,7 +312,7 @@ In paragraph 38 of Schedule 5 to the Courts Act 2003 (the range of further steps
 
 (3) Omit subsection (5A).
 
-#### 23. Amendment of the Criminal Justice and Public Order Act 1994[^key-96afbf2e0dc969f0c0cc94f71894cb74]
+#### 23. Amendment of the Criminal Justice and Public Order Act 1994[^c-96afbf2e0dc969f0c0cc94f71894cb74]
 
 (1) Section 25 of the Criminal Justice and Public Order Act 1994 (no bail for defendants charged with or convicted of homicide or rape after previous conviction of such offences) [^c23693151] is amended as follows.
 
@@ -326,7 +326,7 @@ In paragraph 38 of Schedule 5 to the Courts Act 2003 (the range of further steps
 
 (6) Omit subsection (5A).
 
-#### 24. Amendment of the Crime and Disorder Act 1998[^key-b7caeebec9800b7708f51b218b04b4e3]
+#### 24. Amendment of the Crime and Disorder Act 1998[^c-b7caeebec9800b7708f51b218b04b4e3]
 
 (1) Paragraph 9 of Schedule 3 to the Crime and Disorder Act 1998 (procedure where persons are sent for trial under section 51 of the Crime and Disorder Act 1998) [^c23693161] is amended as follows.
 
@@ -337,21 +337,21 @@ In paragraph 38 of Schedule 5 to the Courts Act 2003 (the range of further steps
 
 (3) Omit sub-paragraph (5A).
 
-#### 25. Amendment of the Powers of Criminal Courts (Sentencing) Act 2000[^key-95cff537d720c2be2928cd540c91e97f]
+#### 25. Amendment of the Powers of Criminal Courts (Sentencing) Act 2000[^c-95cff537d720c2be2928cd540c91e97f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Amendment of the Criminal Justice Act 2003[^key-95cff537d720c2be2928cd540c91e97f]
+#### 26. Amendment of the Criminal Justice Act 2003[^c-95cff537d720c2be2928cd540c91e97f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Amendment of the Coroners and Justice Act 2009[^key-95cff537d720c2be2928cd540c91e97f]
+#### 27. Amendment of the Coroners and Justice Act 2009[^c-95cff537d720c2be2928cd540c91e97f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 2 — Amendments: legislation that extends to Northern Ireland only
 
-#### 28. Amendment of the Police and Criminal Evidence (Northern Ireland) Order 1989[^key-971c84bc6ac464a0b65130f6051601fd]
+#### 28. Amendment of the Police and Criminal Evidence (Northern Ireland) Order 1989[^c-971c84bc6ac464a0b65130f6051601fd]
 
 (1) The Police and Criminal Evidence (Northern Ireland) Order 1989 [^c23693311] is amended as follows.
 
@@ -374,7 +374,7 @@ In paragraph 38 of Schedule 5 to the Courts Act 2003 (the range of further steps
 
 ### CHAPTER 3 — Amendments: legislation that extends to England and Wales and Northern Ireland
 
-#### 29. Amendment of the Police and Criminal Evidence Act 1984[^key-4860dce58dd8079629ddd621330dadb4]
+#### 29. Amendment of the Police and Criminal Evidence Act 1984[^c-4860dce58dd8079629ddd621330dadb4]
 
 *Extent: E+W+N.I.*
 
@@ -400,13 +400,13 @@ In paragraph 38 of Schedule 5 to the Courts Act 2003 (the range of further steps
 
 .
 
-#### 30. Amendment of the Criminal Justice Act 1988[^key-faec2172f0ae7f058ae0ac42b4e2e360]
+#### 30. Amendment of the Criminal Justice Act 1988[^c-faec2172f0ae7f058ae0ac42b4e2e360]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 4 — Transitional provision
 
-#### 31. Transitional provision[^key-e2155e21fd1a9a878869687983cf7c03][^key-10905d424ed4b7c60de49f8de54f2919]
+#### 31. Transitional provision[^c-e2155e21fd1a9a878869687983cf7c03][^c-10905d424ed4b7c60de49f8de54f2919]
 
 (1) This Part does not apply in relation to proceedings instituted before IP completion day (and see Article 62(1)(g) of the withdrawal agreement and sections 7A and 7C of the European Union (Withdrawal) Act 2018).
 
@@ -444,63 +444,63 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23692981]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). The Criminal Injuries Compensation Authority and the Criminal Injuries Compensation Appeals Panel have been specified as cross-border public authorities for the purposes of section 88 of the Scotland Act 1998 by the [Scotland Act 1998 (Cross-Border Public Authorities) (Specification) Order 1999 (S.I. 1999/1319)](https://www.legislation.gov.uk/uksi/1999/1319).
 
-[^key-d7c7c3f8435df0237aedf28d9d126300]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/780) applied (31.12.2020) by [The Criminal Procedure (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/908)](https://www.legislation.gov.uk/uksi/2019/908), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2019/908/regulation/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/908/regulation/3)); 2020 c. 1, Sch. 5 para. 1(1)
+[^c-d7c7c3f8435df0237aedf28d9d126300]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/780) applied (31.12.2020) by [The Criminal Procedure (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/908)](https://www.legislation.gov.uk/uksi/2019/908), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2019/908/regulation/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/908/regulation/3)); 2020 c. 1, Sch. 5 para. 1(1)
 
-[^key-741e7df7cdd5b09fe70ec1de72f4df13]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-741e7df7cdd5b09fe70ec1de72f4df13]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-9f210771342af7989a2ad81b1b48fb03]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-9f210771342af7989a2ad81b1b48fb03]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23692991]: Marginal citation: [S.I. 2005/3396](https://www.legislation.gov.uk/uksi/2005/3396), amended by [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683), 2011/1043.
 
-[^key-fa71dfe23775d3675f8436ad4c67ccbc]: Textual amendment: Reg. 2A inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2020/1493/regulation/10)
+[^c-fa71dfe23775d3675f8436ad4c67ccbc]: Textual amendment: Reg. 2A inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2020/1493/regulation/10)
 
 [^M_I_ae6b81ab-7f11-44db-9894-b41473015530]: Commencement: Reg. 2A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-bbdbf4375d16c66e374e4f4f785bffa2]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-bbdbf4375d16c66e374e4f4f785bffa2]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-bab31a8560f055f369d07f16e8b1d79b]: Textual amendment: Reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [40](https://www.legislation.gov.uk/uksi/2020/1408/regulation/40)
+[^c-bab31a8560f055f369d07f16e8b1d79b]: Textual amendment: Reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [40](https://www.legislation.gov.uk/uksi/2020/1408/regulation/40)
 
 [^M_F_f014224b-1cb5-47b2-b0d5-806c08eb43bb]: Textual amendment: [S.I. 2014/3300](https://www.legislation.gov.uk/uksi/2014/3300).
 
-[^key-3af9c9d7492bd57400261c8f82f1e01b]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-3af9c9d7492bd57400261c8f82f1e01b]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-d7bc1cd5fb246fb25e153e655ed0e2cd]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d7bc1cd5fb246fb25e153e655ed0e2cd]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-0530c815fbb7f59055b82c62bd9062d1]: Textual amendment: Reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [41](https://www.legislation.gov.uk/uksi/2020/1408/regulation/41)
+[^c-0530c815fbb7f59055b82c62bd9062d1]: Textual amendment: Reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [41](https://www.legislation.gov.uk/uksi/2020/1408/regulation/41)
 
-[^key-e61ff35e25d23e47014f608a6b8558eb]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e61ff35e25d23e47014f608a6b8558eb]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-8797b5bb1a4c6bd3cf26f9543b1c1178]: Textual amendment: Reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [42](https://www.legislation.gov.uk/uksi/2020/1408/regulation/42)
+[^c-8797b5bb1a4c6bd3cf26f9543b1c1178]: Textual amendment: Reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [42](https://www.legislation.gov.uk/uksi/2020/1408/regulation/42)
 
-[^key-1a4eebe1d85166b46468f8496dbde63b]: Textual amendment: Reg. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [43](https://www.legislation.gov.uk/uksi/2020/1408/regulation/43)
+[^c-1a4eebe1d85166b46468f8496dbde63b]: Textual amendment: Reg. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [43](https://www.legislation.gov.uk/uksi/2020/1408/regulation/43)
 
-[^key-0de3580836735df8792ccfdca8139a81]: Textual amendment: Reg. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [43](https://www.legislation.gov.uk/uksi/2020/1408/regulation/43)
+[^c-0de3580836735df8792ccfdca8139a81]: Textual amendment: Reg. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [43](https://www.legislation.gov.uk/uksi/2020/1408/regulation/43)
 
-[^key-55bd31b64ad96343c8140a93c5876006]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-55bd31b64ad96343c8140a93c5876006]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-44668faadc6ef957969a4e54b9d5a8e0]: Textual amendment: Reg. 9 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [44](https://www.legislation.gov.uk/uksi/2020/1408/regulation/44)
+[^c-44668faadc6ef957969a4e54b9d5a8e0]: Textual amendment: Reg. 9 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [44](https://www.legislation.gov.uk/uksi/2020/1408/regulation/44)
 
 [^M_F_f8a65af1-500c-4799-d874-a354feb7745d]: Textual amendment: [S.I. 2014/320](https://www.legislation.gov.uk/uksi/2014/320); amended by [S.R. 2015 No. 353](https://www.legislation.gov.uk/nisr/2015/353).
 
-[^key-a6ac9f9a2500c809c3bc4b0764eee5ad]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a6ac9f9a2500c809c3bc4b0764eee5ad]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-7d0d12b8a73db3d70595e3356f084b1a]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-7d0d12b8a73db3d70595e3356f084b1a]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-41a9fa845939fbfab02ad24202b808a6]: Textual amendment: Reg. 11 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [45](https://www.legislation.gov.uk/uksi/2020/1408/regulation/45)
+[^c-41a9fa845939fbfab02ad24202b808a6]: Textual amendment: Reg. 11 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [45](https://www.legislation.gov.uk/uksi/2020/1408/regulation/45)
 
-[^key-d8a35599859cabe97b90f96dbd31ac58]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d8a35599859cabe97b90f96dbd31ac58]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-bfafa174b397befffcefafc5070155dc]: Textual amendment: Reg. 12 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [46](https://www.legislation.gov.uk/uksi/2020/1408/regulation/46)
+[^c-bfafa174b397befffcefafc5070155dc]: Textual amendment: Reg. 12 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [46](https://www.legislation.gov.uk/uksi/2020/1408/regulation/46)
 
-[^key-b5dad8e9c96b7c8c004bbe6611c84c6e]: Textual amendment: Reg. 13 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [47](https://www.legislation.gov.uk/uksi/2020/1408/regulation/47)
+[^c-b5dad8e9c96b7c8c004bbe6611c84c6e]: Textual amendment: Reg. 13 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [47](https://www.legislation.gov.uk/uksi/2020/1408/regulation/47)
 
-[^key-fd8d08fa526ede9752166094b169aacf]: Textual amendment: Reg. 14 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [47](https://www.legislation.gov.uk/uksi/2020/1408/regulation/47)
+[^c-fd8d08fa526ede9752166094b169aacf]: Textual amendment: Reg. 14 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [47](https://www.legislation.gov.uk/uksi/2020/1408/regulation/47)
 
-[^key-dbd11e07e98130cb6370e77b6c63cec1]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-dbd11e07e98130cb6370e77b6c63cec1]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23693041]: Marginal citation: S.R. [2015 No. 353](https://www.legislation.gov.uk/ukcm/2015/353).
 
-[^key-076247756fdc6e4a514375715f80070b]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-076247756fdc6e4a514375715f80070b]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23693051]: Marginal citation: [S.I. 2014/3141](https://www.legislation.gov.uk/uksi/2014/3141).
 
@@ -508,21 +508,21 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^M_I_a6098561-273f-4fa0-867f-34973ed4961a]: Commencement: Reg. 16A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-3898561a6adc2d3b006303db0359d4c4]: Textual amendment: Regs. 16A, 16B inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [48](https://www.legislation.gov.uk/uksi/2020/1408/regulation/48)
+[^c-3898561a6adc2d3b006303db0359d4c4]: Textual amendment: Regs. 16A, 16B inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [48](https://www.legislation.gov.uk/uksi/2020/1408/regulation/48)
 
 [^M_I_1af5c614-d428-41fb-c672-e7ce0669a420]: Commencement: Reg. 16B in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-ad320e22bc49b3f8b0c7ac99f8e332ce]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-ad320e22bc49b3f8b0c7ac99f8e332ce]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23693071]: Marginal citation: [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4).
 
-[^key-eae0cb64c86f9c83d7d3991047c5ecdd]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-eae0cb64c86f9c83d7d3991047c5ecdd]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23693081]: Marginal citation: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), sub-paragraphs (1)(f), (4) and (5) of paragraph 38 were inserted by section 80(1) of the [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 
-[^key-3ff0ab1c9f7c7b1973b17ec58f6a9a21]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-3ff0ab1c9f7c7b1973b17ec58f6a9a21]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-39d14d8c8d6380a14a2610b34cd07c8a]: Textual amendment: Reg. 19 renumbered as reg. 19(1) (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [49(a)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/49/a)
+[^c-39d14d8c8d6380a14a2610b34cd07c8a]: Textual amendment: Reg. 19 renumbered as reg. 19(1) (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [49(a)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/49/a)
 
 [^c23693091]: Marginal citation: Section 80 was amended by [S.I. 2016/244](https://www.legislation.gov.uk/uksi/2016/244); section 81 was amended by [S.I. 2014/3141](https://www.legislation.gov.uk/uksi/2014/3141); section 82 was amended by paragraph 133 of Schedule 1 and Part 1 of Schedule 9 to the [Justice Act (Northern Ireland) 2015 (c. 9 (N.I.))](https://www.legislation.gov.uk/nia/2015/9), S.R. & O. (NI) [2010 No. 133](https://www.legislation.gov.uk/ukcm/2010/133) and [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976); sections 83 and 84 were amended by [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976) and 2014/3141; sections 85 and 86 were amended by [S.I. 2014/3141](https://www.legislation.gov.uk/uksi/2014/3141); section 87 was amended by paragraph 133 of Schedule 1 and Part 1 of Schedule 9 to the [Justice Act (Northern Ireland) 2015 (c. 9 (N.I.))](https://www.legislation.gov.uk/nia/2015/9), [S.I](https://www.legislation.gov.uk/nia/2015/9/section/I). 2010/976 and 2014/3141; section 88 was amended by paragraph 133 of Schedule 1 and Part 1 of Schedule 9 to the Justice Act (Northern Ireland) 2015, paragraph 6 of Schedule 2 to the [Justice Act (Northern Ireland) 2016 (c. 21 (N.I.))](https://www.legislation.gov.uk/nia/2016/21), [S.I](https://www.legislation.gov.uk/nia/2016/21/section/I). 2010/976 and 2014/3141; sections 89 to 92 were amended by [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976) and 2014/3141.
 
@@ -532,29 +532,29 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23693121]: Marginal citation: Amended by [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976), 2011/1043, 2012/1809, 2014/3141.
 
-[^key-29acc2a0e3f6f99f195f648b35ec204c]: Textual amendment: Reg. 19(2) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [49(b)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/49/b)
+[^c-29acc2a0e3f6f99f195f648b35ec204c]: Textual amendment: Reg. 19(2) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [49(b)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/49/b)
 
-[^key-640f79ab031bd438801c16c43c32ecbd]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-640f79ab031bd438801c16c43c32ecbd]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-d3d1fe3b6983925603853930ef53b5e5]: Textual amendment: Reg. 20 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [50](https://www.legislation.gov.uk/uksi/2020/1408/regulation/50)
+[^c-d3d1fe3b6983925603853930ef53b5e5]: Textual amendment: Reg. 20 substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [50](https://www.legislation.gov.uk/uksi/2020/1408/regulation/50)
 
-[^key-ba226d691a91176e51e124ef7e7e5af2]: Textual amendment: Reg. 21 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ba226d691a91176e51e124ef7e7e5af2]: Textual amendment: Reg. 21 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-dea49ff7df3d9327f311c10b0a8cf755]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-dea49ff7df3d9327f311c10b0a8cf755]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23693141]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 19 was amended by paragraph 5 of Schedule 3 to the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), and paragraph 4 of Schedule 17, paragraph 80 of Schedule 21, and Part 5 of Schedule 23 to the [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-96afbf2e0dc969f0c0cc94f71894cb74]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-96afbf2e0dc969f0c0cc94f71894cb74]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23693151]: Marginal citation: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33); section 25(3), (3A) and (3B) were inserted by paragraph 3(2) of Schedule 17 to the [Coroners and Justice Act 2009 (c.25)](https://www.legislation.gov.uk/ukpga/2009/25); section 25(5) was amended by paragraph 93(2) of Schedule 4 to the [Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40)](https://www.legislation.gov.uk/ukpga/1995/40), [paragraph 160](https://www.legislation.gov.uk/ukpga/1995/40/paragraph/160) of Schedule 9 to the [Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), [paragraph 67(b)](https://www.legislation.gov.uk/ukpga/2000/6/paragraph/67/b) of Schedule 32 and Part 7 of Schedule 37 to the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), and paragraph 3(3) of Schedule 17 and Part 5 of Schedule 23 to the Coroners and Justice Act 2009; section 25(5A) was inserted by paragraph 3(4) of Schedule 17 to the Coroners and Justice Act 2009.
 
-[^key-b7caeebec9800b7708f51b218b04b4e3]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b7caeebec9800b7708f51b218b04b4e3]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23693161]: Marginal citation: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); paragraph 9(5) of Schedule 3 was amended by paragraph 20(9)(b) of Schedule 3 to the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [paragraph 155](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/155) of Schedule 16 to the [Armed Forces Act 2006 (c. 52, paragraph 5(2)](https://www.legislation.gov.uk/ukpga/2006/52) of Schedule 17 and Part 5 of Schedule 23 to the [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25); paragraph 9(5A) was inserted by paragraph 5(3) of Schedule 17 to the Coroners and Justice Act 2009.
 
-[^key-95cff537d720c2be2928cd540c91e97f]: Textual amendment: Regs. 25-27 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-95cff537d720c2be2928cd540c91e97f]: Textual amendment: Regs. 25-27 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-971c84bc6ac464a0b65130f6051601fd]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-971c84bc6ac464a0b65130f6051601fd]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23693311]: Marginal citation: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341).
 
@@ -564,7 +564,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23693341]: Marginal citation: Amended by paragraph 18 of Schedule 17 to the [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-4860dce58dd8079629ddd621330dadb4]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-4860dce58dd8079629ddd621330dadb4]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23693351]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
@@ -574,8 +574,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23693381]: Marginal citation: Amended by paragraph 15 of Schedule 17 to the [Coroners and Justice Act 2009 (c.25)](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-faec2172f0ae7f058ae0ac42b4e2e360]: Textual amendment: Reg. 30 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-faec2172f0ae7f058ae0ac42b4e2e360]: Textual amendment: Reg. 30 revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e2155e21fd1a9a878869687983cf7c03]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e2155e21fd1a9a878869687983cf7c03]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-10905d424ed4b7c60de49f8de54f2919]: Textual amendment: Reg. 31 substituted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1520/regulation/7)
+[^c-10905d424ed4b7c60de49f8de54f2919]: Textual amendment: Reg. 31 substituted (31.12.2020 immediately before IP completion day) by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1520/regulation/7)

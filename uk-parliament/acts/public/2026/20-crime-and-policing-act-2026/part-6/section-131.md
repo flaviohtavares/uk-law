@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Guidance about stalking[^key-43bdc77abd41a51018a78a592bed4b4f]
+## 131. Guidance about stalking[^c-43bdc77abd41a51018a78a592bed4b4f]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ In the [Protection from Harassment Act 1997](https://www.legislation.gov.uk/ukpg
 
 ## Annotations
 
-[^key-43bdc77abd41a51018a78a592bed4b4f]: Commencement: S. 131 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-43bdc77abd41a51018a78a592bed4b4f]: Commencement: S. 131 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

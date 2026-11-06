@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of the Environment makes the following By-Laws in exercise of the powers conferred by Article 65(1) and (2) of the Road Traffic (Northern Ireland) Order 1981[^f00001]:
 
-## 1. Citation and commencement[^key-19fbfd4229392fe4db38922405011bca]
+## 1. Citation and commencement[^c-19fbfd4229392fe4db38922405011bca]
 
 These By-Laws may be cited as the Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2006 and shall come into operation on 27th July 2006.
 
-## 2. By-Laws amended[^key-3402c0bebbd4b7f82f1fb803bbd4cc61]
+## 2. By-Laws amended[^c-3402c0bebbd4b7f82f1fb803bbd4cc61]
 
 (1) The By-Laws relating to Motor Hackney Carriages standing or plying for hire made by the Council of the County Borough of Belfast on 4th June 1951[^f00002] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -61,13 +61,13 @@ These By-Laws may be cited as the Motor Hackney Carriages (Belfast) (Amendment) 
 
 (3) In by-law 15, the words from “and shall wear” to the end shall be omitted.
 
-(4)[^key-8ebc2eec6d861e041c1e7112c66a1d7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8ebc2eec6d861e041c1e7112c66a1d7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In by-law 27, for the words “Constable, a Public Vehicles Inspector or the Executive Officer for the time being of the Council’s Police Committee” there shall be substituted “Constable, a Public Vehicles Inspector or the Licensing Officer”.
 
 (6) By-law 30 shall be revoked.
 
-## 3. Revocation[^key-7cfe6ac0b2a7f5f61af52b36e7ae0b1f]
+## 3. Revocation[^c-7cfe6ac0b2a7f5f61af52b36e7ae0b1f]
 
 The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2004[^f00004] are hereby revoked.
 
@@ -103,16 +103,16 @@ The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 200
 
 [^f00001]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department”
 
-[^key-19fbfd4229392fe4db38922405011bca]: Commencement: By-law 1 in operation at 27.7.2006, see by-law 1
+[^c-19fbfd4229392fe4db38922405011bca]: Commencement: By-law 1 in operation at 27.7.2006, see by-law 1
 
-[^key-3402c0bebbd4b7f82f1fb803bbd4cc61]: Commencement: By-law 2 in operation at 27.7.2006, see by-law 1
+[^c-3402c0bebbd4b7f82f1fb803bbd4cc61]: Commencement: By-law 2 in operation at 27.7.2006, see by-law 1
 
 [^f00002]: Footnote: The relevant amending By-Laws are [S.R. 1984 No. 298](https://www.legislation.gov.uk/nisr/1984/298) and [S.R. 2004 No. 441](https://www.legislation.gov.uk/nisr/2004/441)
 
 [^f00003]: Footnote: [S.I 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
-[^key-8ebc2eec6d861e041c1e7112c66a1d7f]: Textual amendment: By-law 2(4) revoked (1.8.2008) by [The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2008 (S.R. 2008/245)](https://www.legislation.gov.uk/nisr/2008/245), [by-laws 1](https://www.legislation.gov.uk/nisr/2008/245/section/1), [3](https://www.legislation.gov.uk/nisr/2008/245/section/3)
+[^c-8ebc2eec6d861e041c1e7112c66a1d7f]: Textual amendment: By-law 2(4) revoked (1.8.2008) by [The Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 2008 (S.R. 2008/245)](https://www.legislation.gov.uk/nisr/2008/245), [by-laws 1](https://www.legislation.gov.uk/nisr/2008/245/section/1), [3](https://www.legislation.gov.uk/nisr/2008/245/section/3)
 
-[^key-7cfe6ac0b2a7f5f61af52b36e7ae0b1f]: Commencement: By-law 3 in operation at 27.7.2006, see by-law 1
+[^c-7cfe6ac0b2a7f5f61af52b36e7ae0b1f]: Commencement: By-law 3 in operation at 27.7.2006, see by-law 1
 
 [^f00004]: Footnote: [S.R. 2004 No. 441](https://www.legislation.gov.uk/nisr/2004/441)

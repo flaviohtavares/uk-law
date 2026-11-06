@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Department shall appoint such examiners as it considers necessary for the purpose of carrying out the functions conferred on them by this Order, the Order of 1981 or Parts 2 and 4[^key-b881aec694c684c610f9b54429cc5ec1] of the Transport Act (Northern Ireland) 1967[^c17247561] or any other statutory provision.
+(1) The Department shall appoint such examiners as it considers necessary for the purpose of carrying out the functions conferred on them by this Order, the Order of 1981 or Parts 2 and 4[^c-b881aec694c684c610f9b54429cc5ec1] of the Transport Act (Northern Ireland) 1967[^c17247561] or any other statutory provision.
 
 (2) An examiner appointed under this Article shall act under the general directions of the Department.
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b881aec694c684c610f9b54429cc5ec1]: Textual amendment: Words in [art. 74(1)](https://www.legislation.gov.uk/nisi/1995/2994/article/74/1) substituted (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2010/2/schedule/3/paragraph/12); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-b881aec694c684c610f9b54429cc5ec1]: Textual amendment: Words in [art. 74(1)](https://www.legislation.gov.uk/nisi/1995/2994/article/74/1) substituted (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2010/2/schedule/3/paragraph/12); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
 [^c17247561]: Textual amendment: [1967 c. 37 (NI)](https://www.legislation.gov.uk/apni/1967/37)
 

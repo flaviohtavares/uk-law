@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-249d0d0a78b697f2dd533084053d390a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-249d0d0a78b697f2dd533084053d390a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-249d0d0a78b697f2dd533084053d390a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-249d0d0a78b697f2dd533084053d390a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-249d0d0a78b697f2dd533084053d390a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-249d0d0a78b697f2dd533084053d390a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-632e54ef44d02e77093c1069a5eb2855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-632e54ef44d02e77093c1069a5eb2855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-249d0d0a78b697f2dd533084053d390a]: Textual amendment: S. 189(1)-(3) repealed (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/47/schedule/10) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2009/2611/article/5)) (as amended (30.3.2010) by [S.I. 2010/1101](https://www.legislation.gov.uk/uksi/2010/1101), arts. 6-11)
+[^c-249d0d0a78b697f2dd533084053d390a]: Textual amendment: S. 189(1)-(3) repealed (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 10](https://www.legislation.gov.uk/ukpga/2006/47/schedule/10) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2009/2611/article/5)) (as amended (30.3.2010) by [S.I. 2010/1101](https://www.legislation.gov.uk/uksi/2010/1101), arts. 6-11)
 
-[^key-632e54ef44d02e77093c1069a5eb2855]: Textual amendment: S. 189(4) repealed (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [s. 33](https://www.legislation.gov.uk/ukpga/2006/51/section/33), [Sch.](https://www.legislation.gov.uk/ukpga/2006/51/schedule) (with [s. 30(2)-(5)](https://www.legislation.gov.uk/ukpga/2006/51/section/30/2))
+[^c-632e54ef44d02e77093c1069a5eb2855]: Textual amendment: S. 189(4) repealed (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [s. 33](https://www.legislation.gov.uk/ukpga/2006/51/section/33), [Sch.](https://www.legislation.gov.uk/ukpga/2006/51/schedule) (with [s. 30(2)-(5)](https://www.legislation.gov.uk/ukpga/2006/51/section/30/2))

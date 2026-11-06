@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Relocation of activities[^key-acb135c97518b61d64785c24795d744a][^key-5c312bfb269e557d75d92f479170d5bd]
+## 18. Relocation of activities[^c-acb135c97518b61d64785c24795d744a][^c-5c312bfb269e557d75d92f479170d5bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acb135c97518b61d64785c24795d744a]: Commencement: S. 18 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
+[^c-acb135c97518b61d64785c24795d744a]: Commencement: S. 18 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
 
-[^key-5c312bfb269e557d75d92f479170d5bd]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/23/section/18) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-5c312bfb269e557d75d92f479170d5bd]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/23/section/18) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

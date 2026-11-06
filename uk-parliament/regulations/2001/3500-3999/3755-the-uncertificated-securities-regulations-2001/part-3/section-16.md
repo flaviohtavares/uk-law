@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16.[^key-f9874845dc6a836021900b8789f6a5ce]
+## 16.[^c-f9874845dc6a836021900b8789f6a5ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 and the directors shall be bound by the terms of any such ordinary resolution.
 
-(7)[^key-20f1f5bc449a1973550fc1eadc11f7c0] In the event of default in complying with paragraph (4), an offence is committed by every officer of the issuer who is in default.
+(7)[^c-20f1f5bc449a1973550fc1eadc11f7c0] In the event of default in complying with paragraph (4), an offence is committed by every officer of the issuer who is in default.
 
 (7A) A person guilty of such an offence is liable—
 
@@ -56,7 +56,7 @@ and the directors shall be bound by the terms of any such ordinary resolution.
 
 (8) A company shall not permit the holding of shares in such a class as is referred to in paragraph (1) in uncertificated form, or the transfer of title to shares in such a class by means of a relevant system, unless in relation to that class of shares a directors' resolution is effective.
 
-(8A)[^key-a281d1cd629381a9b10fbe472a0c91fa] Chapter 3 of Part 3 of the[^key-37a41cad1b287b49653ff73ee2ecc70a] 2006 Act (resolutions affecting a company’s constitution) applies to—
+(8A)[^c-a281d1cd629381a9b10fbe472a0c91fa] Chapter 3 of Part 3 of the[^c-37a41cad1b287b49653ff73ee2ecc70a] 2006 Act (resolutions affecting a company’s constitution) applies to—
 
 - (a) a directors’ resolution passed by virtue of paragraph (2), or
 - (b) a resolution of a company passed by virtue of paragraph (6) preventing or reversing such a resolution.
@@ -65,10 +65,10 @@ and the directors shall be bound by the terms of any such ordinary resolution.
 
 ## Annotations
 
-[^key-f9874845dc6a836021900b8789f6a5ce]: Commencement: Reg. 16 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-f9874845dc6a836021900b8789f6a5ce]: Commencement: Reg. 16 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-20f1f5bc449a1973550fc1eadc11f7c0]: Textual amendment: [Reg. 16(7)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/16/7)[(7A)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/16/7A) substituted for [reg. 16(7)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/16/7) (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 97(2)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/97/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
+[^c-20f1f5bc449a1973550fc1eadc11f7c0]: Textual amendment: [Reg. 16(7)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/16/7)[(7A)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/16/7A) substituted for [reg. 16(7)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/16/7) (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 97(2)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/97/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
-[^key-a281d1cd629381a9b10fbe472a0c91fa]: Textual amendment: [Reg. 16(8A)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/16/8A) inserted (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 97(3)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/97/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
+[^c-a281d1cd629381a9b10fbe472a0c91fa]: Textual amendment: [Reg. 16(8A)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/16/8A) inserted (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 97(3)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/97/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
-[^key-37a41cad1b287b49653ff73ee2ecc70a]: Textual amendment: Words in [reg. 16(8A)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/16/8A) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/3)
+[^c-37a41cad1b287b49653ff73ee2ecc70a]: Textual amendment: Words in [reg. 16(8A)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/16/8A) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/3)

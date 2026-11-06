@@ -24,11 +24,11 @@ When enforcing these Regulations, the enforcing authority must exercise its powe
 
 - (a) regulation 59 (evaluation of radio equipment presenting a risk),
 - (b) regulation 60 (enforcement action in respect of radio equipment which is not in conformity and which presents a risk),
-- (c) regulation 61 (EU safeguard procedure), *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-55d1fd40f01ec325af5880c72b7f4aec]
+- (c) regulation 61 (EU safeguard procedure), *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-55d1fd40f01ec325af5880c72b7f4aec]
 - (d) regulation 62 (enforcement action in respect of radio equipment which is in conformity, but presents a risk),
 - (e) regulation 63 (enforcement action in respect of formal non-compliance),
 - (f) regulation 64 (restrictive measures).
 
 ## Annotations
 
-[^key-55d1fd40f01ec325af5880c72b7f4aec]: Textual amendment: [Reg. 58(c)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/58/c) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/38) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55d1fd40f01ec325af5880c72b7f4aec]: Textual amendment: [Reg. 58(c)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/58/c) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/38) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Minimum requirements for civil service and diplomatic service codes[^key-fce4c14f824513556d88731dd0d6cfeb]
+## 7. Minimum requirements for civil service and diplomatic service codes[^c-fce4c14f824513556d88731dd0d6cfeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fce4c14f824513556d88731dd0d6cfeb]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2010/25/section/7) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-fce4c14f824513556d88731dd0d6cfeb]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2010/25/section/7) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

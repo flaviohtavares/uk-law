@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Sewerage nuisance: code of practice[^key-6c6dcc847e72449769daf70094ff5f0b]
+## 25. Sewerage nuisance: code of practice[^c-6c6dcc847e72449769daf70094ff5f0b]
 
 *Extent: S*
 
@@ -66,12 +66,12 @@ emanating from, or present at, any part of the public sewerage system so as to b
 
 about the proposed sewerage code.
 
-(9) For the purposes of subsection (5), the provision of sewerage and the disposal of sewage does not include such provision or disposal through any part of the public sewerage system which is regulated by a permit granted by virtue of regulations made under section 2 of the Pollution Prevention and Control Act 1999 (c. 24) or by an authorisation under regulations made under section 18 of the Regulatory Reform (Scotland) Act 2014[^key-6dd1f56bcc087b5d07b1a6f300e21899].
+(9) For the purposes of subsection (5), the provision of sewerage and the disposal of sewage does not include such provision or disposal through any part of the public sewerage system which is regulated by a permit granted by virtue of regulations made under section 2 of the Pollution Prevention and Control Act 1999 (c. 24) or by an authorisation under regulations made under section 18 of the Regulatory Reform (Scotland) Act 2014[^c-6dd1f56bcc087b5d07b1a6f300e21899].
 
 (10) Subsection (9) is subject to any direction made by the Scottish Ministers by virtue of any enactment in relation to the application of a sewerage code to any such part of the public sewerage system.
 
 ## Annotations
 
-[^key-6c6dcc847e72449769daf70094ff5f0b]: Commencement: S. 25 in force at 10.2.2006 by [S.S.I. 2006/40](https://www.legislation.gov.uk/ssi/2006/40), [art. 2(a)](https://www.legislation.gov.uk/ssi/2006/40/article/2/a)
+[^c-6c6dcc847e72449769daf70094ff5f0b]: Commencement: S. 25 in force at 10.2.2006 by [S.S.I. 2006/40](https://www.legislation.gov.uk/ssi/2006/40), [art. 2(a)](https://www.legislation.gov.uk/ssi/2006/40/article/2/a)
 
-[^key-6dd1f56bcc087b5d07b1a6f300e21899]: Textual amendment: Words in s. 25(9) inserted (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/9); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-6dd1f56bcc087b5d07b1a6f300e21899]: Textual amendment: Words in s. 25(9) inserted (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/9); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

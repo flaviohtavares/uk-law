@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77BA. Joint and several liability: non-UK sellers in breach of Schedule 1A registration requirement[^key-6a97f7524da645551fa4a662aa5ace21][^key-9c9581ff15768e5b4479277fc75fa620]
+## 77BA. Joint and several liability: non-UK sellers in breach of Schedule 1A registration requirement[^c-6a97f7524da645551fa4a662aa5ace21][^c-9c9581ff15768e5b4479277fc75fa620]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,12 +46,12 @@ summary: ''
 
 (7) P is in breach of a Schedule 1A registration requirement if P is liable to be registered under Schedule 1A to this Act, but is not so registered.
 
-(8)[^key-edcff7afc96e8dc0a1c38b1fd66309c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-edcff7afc96e8dc0a1c38b1fd66309c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a97f7524da645551fa4a662aa5ace21]: Textual amendment: S. 77BA inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 38(5)](https://www.legislation.gov.uk/ukpga/2018/3/section/38/5)
+[^c-6a97f7524da645551fa4a662aa5ace21]: Textual amendment: S. 77BA inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 38(5)](https://www.legislation.gov.uk/ukpga/2018/3/section/38/5)
 
-[^key-9c9581ff15768e5b4479277fc75fa620]: Textual amendment: Ss. 77B-77D inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 124(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/124/2)
+[^c-9c9581ff15768e5b4479277fc75fa620]: Textual amendment: Ss. 77B-77D inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 124(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/124/2)
 
-[^key-edcff7afc96e8dc0a1c38b1fd66309c4]: Textual amendment: S. 77BA(8) omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/9) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-edcff7afc96e8dc0a1c38b1fd66309c4]: Textual amendment: S. 77BA(8) omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/9) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Effect of conviction for breach of Scottish order etc[^key-795bee79bc9fd2c6252eaaa0324b1ccc][^key-c3bfa1a3debc09228a617f393fbebafe]
+## 181. Effect of conviction for breach of Scottish order etc[^c-795bee79bc9fd2c6252eaaa0324b1ccc][^c-c3bfa1a3debc09228a617f393fbebafe]
 
 *Extent: E+W+N.I.*
 
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-795bee79bc9fd2c6252eaaa0324b1ccc]: Commencement: S. 181 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-795bee79bc9fd2c6252eaaa0324b1ccc]: Commencement: S. 181 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-c3bfa1a3debc09228a617f393fbebafe]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2022/32/section/181) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/d) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2023/387/regulation/4/1))
+[^c-c3bfa1a3debc09228a617f393fbebafe]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2022/32/section/181) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/d) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2023/387/regulation/4/1))

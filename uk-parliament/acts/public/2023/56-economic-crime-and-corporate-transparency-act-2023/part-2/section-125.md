@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Notification of other changes[^key-8d16fd95ce5bc02dc5024d7090ec3643]
+## 125. Notification of other changes[^c-8d16fd95ce5bc02dc5024d7090ec3643]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,4 +95,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d16fd95ce5bc02dc5024d7090ec3643]: Commencement: S. 125 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-8d16fd95ce5bc02dc5024d7090ec3643]: Commencement: S. 125 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

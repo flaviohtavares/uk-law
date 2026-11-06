@@ -128,14 +128,14 @@ Article 20.
 | 1952 c.5 (N.I.) | The Foyle Fisheries Act (Northern Ireland) 1952. | Section 37(1). |
 |  |  | Section 38(1). |
 |  |  | Schedule 2, Annex para.4. |
-| [^key-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . | [^key-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . | [^c11618271]. . . |
+| [^c-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . | [^c-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . | [^c11618271]. . . |
 |  |  | [^c11618271]. . . |
 |  |  | [^c11618271]. . . |
 |  |  | [^c11618271]. . . |
-|  |  | [^key-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . |
-|  |  | [^key-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . |
-|  |  | [^key-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . |
-|  |  | [^key-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . |
+|  |  | [^c-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . |
+|  |  | [^c-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . |
+|  |  | [^c-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . |
+|  |  | [^c-5ed8747e87ccbca694cd6eebbd2cf1ca]. . . |
 | 1954 c.31 (N.I.) | The Agriculture (Temporary Assistance) Act (Northern Ireland) 1954. | Section 2(1)( *b*). |
 | 1957 c.27 (N.I.) | The Marketing of Eggs Act (Northern Ireland) 1957. | Section 13A. |
 | [^c11618341]. . . | [^c11618341]. . . | [^c11618341]. . . |
@@ -182,6 +182,6 @@ Article 21.
 
 [^c11618271]: Textual amendment: [1984 NI 2](https://www.legislation.gov.uk/nisi/1984)
 
-[^key-5ed8747e87ccbca694cd6eebbd2cf1ca]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisi/1977/1245/schedule/1) entries repealed (17.3.2013) by [Forestry Act (Northern Ireland) 2010 (c. 10)](https://www.legislation.gov.uk/nia/2010/10), [s. 39(1)](https://www.legislation.gov.uk/nia/2010/10/section/39/1), [Sch. 2](https://www.legislation.gov.uk/nia/2010/10/schedule/2) (with [s. 37](https://www.legislation.gov.uk/nia/2010/10/section/37)); [S.R. 2013/31](https://www.legislation.gov.uk/nisr/2013/31), [art. 2](https://www.legislation.gov.uk/nisr/2013/31/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/31/schedule)
+[^c-5ed8747e87ccbca694cd6eebbd2cf1ca]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisi/1977/1245/schedule/1) entries repealed (17.3.2013) by [Forestry Act (Northern Ireland) 2010 (c. 10)](https://www.legislation.gov.uk/nia/2010/10), [s. 39(1)](https://www.legislation.gov.uk/nia/2010/10/section/39/1), [Sch. 2](https://www.legislation.gov.uk/nia/2010/10/schedule/2) (with [s. 37](https://www.legislation.gov.uk/nia/2010/10/section/37)); [S.R. 2013/31](https://www.legislation.gov.uk/nisr/2013/31), [art. 2](https://www.legislation.gov.uk/nisr/2013/31/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/31/schedule)
 
 [^c11618341]: Textual amendment: [1981 NI 22](https://www.legislation.gov.uk/nisi/1981)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. General rule as to priority[^key-a4be374f96e3056e815c33a6430f69db]
+## 170. General rule as to priority[^c-a4be374f96e3056e815c33a6430f69db]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a4be374f96e3056e815c33a6430f69db]: Commencement: Rule 170 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-a4be374f96e3056e815c33a6430f69db]: Commencement: Rule 170 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00061]: Footnote: Rule 4.218 was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c1039932][^c1039933][^c1039934][^c1039935][^c2006297] A person who makes a relevant declaration[^key-ef853ca4ae1545767ded33626c860861] or a declaration purporting to be a relevant declaration —
+(1)[^c1039932][^c1039933][^c1039934][^c1039935][^c2006297] A person who makes a relevant declaration[^c-ef853ca4ae1545767ded33626c860861] or a declaration purporting to be a relevant declaration —
 
 - (a) when he knows that he is subject to a legal incapacity to vote at parliamentary elections (age apart), or
 - (b) when he knows that it contains a statement which is false,
 
 is guilty of an offence.
 
-(1A)[^key-dd824e304c4054ffd5107d91842d91e5] In subsection (1) “**relevant declaration**” means—
+(1A)[^c-dd824e304c4054ffd5107d91842d91e5] In subsection (1) “**relevant declaration**” means—
 
 - (a) an overseas elector’s declaration;
 - (b) a renewal declaration (within the meaning given by section 1D(2)).
@@ -63,9 +63,9 @@ is guilty of an offence.
 
 [^c2006297]: Modification: S. 12(1)(2)(4) applied (with modifications) (N.I.) (1.7.2008) by [The Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741)](https://www.legislation.gov.uk/uksi/2008/1741), [reg. 14(3)(5)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/14/3/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2008/1741/schedule/4)
 
-[^key-ef853ca4ae1545767ded33626c860861]: Textual amendment: Words in s. 12(1) substituted (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 5(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/5/a) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
+[^c-ef853ca4ae1545767ded33626c860861]: Textual amendment: Words in s. 12(1) substituted (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 5(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/5/a) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
 
-[^key-dd824e304c4054ffd5107d91842d91e5]: Textual amendment: S. 12(1A) inserted (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 5(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/5/b) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
+[^c-dd824e304c4054ffd5107d91842d91e5]: Textual amendment: S. 12(1A) inserted (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 5(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/5/b) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
 
 [^c1039940]: Modification: S. 12(4) applied with modifications (E.W.) by [S.I. 1986/1081](https://www.legislation.gov.uk/uksi/1986/1081), [regs. 2](https://www.legislation.gov.uk/uksi/1986/1081/regulation/2), [14(3)(4)(5)](https://www.legislation.gov.uk/uksi/1986/1081/regulation/14/3/4/5), [Sch. 3 Pt. II](https://www.legislation.gov.uk/uksi/1986/1081/schedule/3/part/II)
 

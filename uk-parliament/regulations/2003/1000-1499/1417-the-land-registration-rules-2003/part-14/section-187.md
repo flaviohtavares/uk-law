@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. Interpretation[^key-75e7e18a1bc7b251c1529a9e4cd9ecd5]
+## 187. Interpretation[^c-75e7e18a1bc7b251c1529a9e4cd9ecd5]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75e7e18a1bc7b251c1529a9e4cd9ecd5]: Textual amendment: Rule 187 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/58) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-75e7e18a1bc7b251c1529a9e4cd9ecd5]: Textual amendment: Rule 187 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/58) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

@@ -27,7 +27,7 @@ After section 537 of the [^c11259781]Education Act 1996 there shall be inserted�
 > (1) The Secretary of State may by regulations make provision requiring—
 >
 > - (a) the governing body of every school which is—
->   - (i) maintained by a local authority[^key-3899b1dd63a4b3603b94d0a6d752b94c], or
+>   - (i) maintained by a local authority[^c-3899b1dd63a4b3603b94d0a6d752b94c], or
 >   - (ii) a grant-maintained school, or
 >   - (iii) a special school which is not maintained by a local authority, and
 > - (b) the proprietor of each independent school,
@@ -66,4 +66,4 @@ After section 537 of the [^c11259781]Education Act 1996 there shall be inserted�
 
 [^c11259781]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-3899b1dd63a4b3603b94d0a6d752b94c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/8/2)
+[^c-3899b1dd63a4b3603b94d0a6d752b94c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/8/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16.4. Written witness statement in evidence[^key-c9c7a050ffbfeac293eb9738c394ab24]
+## 16.4. Written witness statement in evidence[^c-c9c7a050ffbfeac293eb9738c394ab24]
 
 *Extent: E+W*
 
@@ -42,9 +42,9 @@ summary: ''
 - (a) serve notice of the objection on—
   - (i) the party who served it, and
   - (ii) the court officer; and
-- (b) serve the notice of objection not more than 7 business days after[^key-719063bbed0e4f16d38d81017c57e959] after service of the statement unless—
+- (b) serve the notice of objection not more than 7 business days after[^c-719063bbed0e4f16d38d81017c57e959] after service of the statement unless—
   - (i) the court extends that time limit, before or after the statement was served,
-  - (ii) rule 24.8 (Written guilty plea: special rules) applies, in which case the time limit is the later of 7 business days after[^key-f25de0847cd97f698fce841452169b69] service of the statement or 5 business days before the hearing date, or
+  - (ii) rule 24.8 (Written guilty plea: special rules) applies, in which case the time limit is the later of 7 business days after[^c-f25de0847cd97f698fce841452169b69] service of the statement or 5 business days before the hearing date, or
   - (iii) rule 24.9 (Single justice procedure: special rules) applies, in which case the time limit is 15 business days after service of the statement.
 
 (5) The court may exercise its power to require the witness to give evidence in person—
@@ -63,11 +63,11 @@ summary: ''
 
 ## Annotations
 
-[^key-c9c7a050ffbfeac293eb9738c394ab24]: Commencement: [Rule 16.4](https://www.legislation.gov.uk/uksi/2025/909/rule/16.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c9c7a050ffbfeac293eb9738c394ab24]: Commencement: [Rule 16.4](https://www.legislation.gov.uk/uksi/2025/909/rule/16.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
-[^key-719063bbed0e4f16d38d81017c57e959]: Textual amendment: Words in [rule 16.4(4)(b)](https://www.legislation.gov.uk/uksi/2025/909/rule/16.4/4/b) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [7](https://www.legislation.gov.uk/uksi/2026/47/rule/7)
+[^c-719063bbed0e4f16d38d81017c57e959]: Textual amendment: Words in [rule 16.4(4)(b)](https://www.legislation.gov.uk/uksi/2025/909/rule/16.4/4/b) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [7](https://www.legislation.gov.uk/uksi/2026/47/rule/7)
 
-[^key-f25de0847cd97f698fce841452169b69]: Textual amendment: Words in [rule 16.4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/909/rule/16.4/4/b/ii) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [7](https://www.legislation.gov.uk/uksi/2026/47/rule/7)
+[^c-f25de0847cd97f698fce841452169b69]: Textual amendment: Words in [rule 16.4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/909/rule/16.4/4/b/ii) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [7](https://www.legislation.gov.uk/uksi/2026/47/rule/7)
 
 [^f00421]: Footnote: [1967 c. 80](https://www.legislation.gov.uk/ukpga/1967/80); section 9(2A) was inserted by section 80 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 

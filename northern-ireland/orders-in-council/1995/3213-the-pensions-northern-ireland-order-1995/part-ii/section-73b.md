@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Any action taken in contravention of Article 73A(3) or (6A)[^key-3473bca7d49b80a626271d991373b54e] is void.
+(1) Any action taken in contravention of Article 73A(3) or (6A)[^c-3473bca7d49b80a626271d991373b54e] is void.
 
 (2) If any provision made by or by virtue of the winding up provisions is not complied with in relation to a scheme to which Article 73 applies, Article 10 applies to any trustee or manager of the scheme who has failed to take all reasonable steps to secure compliance.
 
-(3) For the purposes of paragraph (2), when determining whether Article 73A(3) or (6A)[^key-4658b1ae5decc0689e77ea1374f29dae] has been complied with paragraph (1) of this Article is to be disregarded.
+(3) For the purposes of paragraph (2), when determining whether Article 73A(3) or (6A)[^c-4658b1ae5decc0689e77ea1374f29dae] has been complied with paragraph (1) of this Article is to be disregarded.
 
 (4) Regulations may—
 
@@ -47,7 +47,7 @@ summary: ''
 - (c) in relation to any liability in respect of rights of prescribed descriptions to which a member of the scheme had become entitled under the scheme rules before the commencement of the winding up period, or
 - (d) in relation to any liability the discharge of which is validated under Article 120 of the Pensions (Northern Ireland) Order 2005 (power to validate actions taken during an assessment period to discharge liabilities of a scheme).
 
-(7) But nothing in paragraph (6) prevents the winding up provisions applying in relation to a liability under Chapter 1 of Part 4ZA[^key-0133cd50c40b4e4d4bf7aabaf6cbf20b] of the Pension Schemes Act (transfer values) which—
+(7) But nothing in paragraph (6) prevents the winding up provisions applying in relation to a liability under Chapter 1 of Part 4ZA[^c-0133cd50c40b4e4d4bf7aabaf6cbf20b] of the Pension Schemes Act (transfer values) which—
 
 - (a) arose before the commencement of the winding up of the scheme, and
 - (b) was not discharged before the commencement of the winding up period.
@@ -69,8 +69,8 @@ his entitlement to payment of all or part of the benefit is, for the purposes of
 
 ## Annotations
 
-[^key-3473bca7d49b80a626271d991373b54e]: Textual amendment: Words in art. 73B(1) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2015/8/section/64/2), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-3473bca7d49b80a626271d991373b54e]: Textual amendment: Words in art. 73B(1) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2015/8/section/64/2), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-4658b1ae5decc0689e77ea1374f29dae]: Textual amendment: Words in art. 73B(3) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2015/8/section/64/2), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-4658b1ae5decc0689e77ea1374f29dae]: Textual amendment: Words in art. 73B(3) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2015/8/section/64/2), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-0133cd50c40b4e4d4bf7aabaf6cbf20b]: Textual amendment: Words in art. 73B(7) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 77](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/77) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-0133cd50c40b4e4d4bf7aabaf6cbf20b]: Textual amendment: Words in art. 73B(7) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 77](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/77) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85ZQ. Complaint to industrial tribunal: agency workers[^key-044959d395ae1270a75914ab239ed056]
+## 85ZQ. Complaint to industrial tribunal: agency workers[^c-044959d395ae1270a75914ab239ed056]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) before the end of the period of three months beginning with the day of the appointment in question, or
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(3A)[^key-a386db9df5426ac8c5702ac83a0c6a3d] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (3)(a).
+(3A)[^c-a386db9df5426ac8c5702ac83a0c6a3d] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (3)(a).
 
 (4) Where an industrial tribunal finds a complaint under paragraph (1) or (2) well-founded, it must make a declaration to that effect.
 
@@ -55,6 +55,6 @@ where—
 
 ## Annotations
 
-[^key-044959d395ae1270a75914ab239ed056]: Textual amendment: Arts. 85ZJ-85ZS and cross-headings inserted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(2)](https://www.legislation.gov.uk/nia/2015/1/section/17/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/e)
+[^c-044959d395ae1270a75914ab239ed056]: Textual amendment: Arts. 85ZJ-85ZS and cross-headings inserted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(2)](https://www.legislation.gov.uk/nia/2015/1/section/17/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/e)
 
-[^key-a386db9df5426ac8c5702ac83a0c6a3d]: Textual amendment: [Art. 85ZQ(3A)](https://www.legislation.gov.uk/nisi/1996/1919/article/85ZQ/3A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 26](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/26); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-a386db9df5426ac8c5702ac83a0c6a3d]: Textual amendment: [Art. 85ZQ(3A)](https://www.legislation.gov.uk/nisi/1996/1919/article/85ZQ/3A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 26](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/26); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

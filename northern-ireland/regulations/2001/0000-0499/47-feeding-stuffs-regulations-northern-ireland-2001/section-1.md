@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-3d08b47c116a6c096fc7d3acefb08d94]
+## 1. Citation and commencement[^c-3d08b47c116a6c096fc7d3acefb08d94]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ These Regulations may be cited as the Feeding Stuffs Regulations (Northern Irela
 
 ## Annotations
 
-[^key-3d08b47c116a6c096fc7d3acefb08d94]: Commencement: Reg. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-3d08b47c116a6c096fc7d3acefb08d94]: Commencement: Reg. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

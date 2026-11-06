@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.56. Restriction on concurrent proceedings and remedies[^key-c4110bb98d3ae3c30dc64ac7007011f9]
+## 7.56. Restriction on concurrent proceedings and remedies[^c-c4110bb98d3ae3c30dc64ac7007011f9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in insolvency proceedings the court makes an order staying any action, exe
 
 ## Annotations
 
-[^key-c4110bb98d3ae3c30dc64ac7007011f9]: Commencement: [Rule 7.56](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.56) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c4110bb98d3ae3c30dc64ac7007011f9]: Commencement: [Rule 7.56](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.56) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

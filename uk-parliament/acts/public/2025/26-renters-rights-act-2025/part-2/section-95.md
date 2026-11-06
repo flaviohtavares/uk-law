@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Different provision for different purposes: joint landlords[^key-54e7042dd47bb1799c6fc5f1b3b6a46b]
+## 95. Different provision for different purposes: joint landlords[^c-54e7042dd47bb1799c6fc5f1b3b6a46b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The different provision that may be made in regulations under this Chapter by vi
 
 ## Annotations
 
-[^key-54e7042dd47bb1799c6fc5f1b3b6a46b]: Commencement: S. 95 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-54e7042dd47bb1799c6fc5f1b3b6a46b]: Commencement: S. 95 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

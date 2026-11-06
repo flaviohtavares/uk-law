@@ -579,7 +579,7 @@ this paragraph applies as if the authority had refused the request and notified 
 
 **29.** In this Schedule—
 
-- “**appropriate Ministers**” means the Secretary of State for Housing, Communities and Local Government[^key-9e6646cbf7ee07c06e0f13c361288fa4] and the Secretary of State for Transport and, in relation to the carrying out of any function, means those Ministers acting jointly;
+- “**appropriate Ministers**” means the Secretary of State for Housing, Communities and Local Government[^c-9e6646cbf7ee07c06e0f13c361288fa4] and the Secretary of State for Transport and, in relation to the carrying out of any function, means those Ministers acting jointly;
 - “**building**” includes any structure other than—
   - (a) anything in the nature of plant or machinery,
   - (b) any gate, fence, wall or other means of enclosure,
@@ -593,4 +593,4 @@ this paragraph applies as if the authority had refused the request and notified 
 
 ## Annotations
 
-[^key-9e6646cbf7ee07c06e0f13c361288fa4]: Textual amendment: Words in Sch. 17 para. 29 substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 14(c)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/14/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-9e6646cbf7ee07c06e0f13c361288fa4]: Textual amendment: Words in Sch. 17 para. 29 substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 14(c)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/14/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))

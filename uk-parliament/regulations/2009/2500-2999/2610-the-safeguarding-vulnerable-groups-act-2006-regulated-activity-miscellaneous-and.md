@@ -50,16 +50,16 @@ A draft of this Order was laid before Parliament in accordance with section 61(3
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and interpretation[^key-d187c62f678a7f788c64bbe3c0f7058f]
+### 1. Citation, commencement and interpretation[^c-d187c62f678a7f788c64bbe3c0f7058f]
 
 (1) This Order may be cited as the Safeguarding Vulnerable Groups Act 2006 (Regulated Activity, Miscellaneous and Transitional Provisions and Commencement No. 5) Order 2009 and comes into force on 12th October 2009.
 
 (2) In this Order—
 
 - “the Act” means the Safeguarding Vulnerable Groups Act 2006;
-- [^key-fb073daa17dcc563b9661221e8144125]...
+- [^c-fb073daa17dcc563b9661221e8144125]...
 
-### 2. Provisions coming into force on 12th October 2009[^key-4f81a6aa0483635556043b9c73dfc9a6]
+### 2. Provisions coming into force on 12th October 2009[^c-4f81a6aa0483635556043b9c73dfc9a6]
 
 12th October 2009 is the day appointed for the coming into force of the following provisions of the Act—
 
@@ -67,99 +67,99 @@ A draft of this Order was laid before Parliament in accordance with section 61(3
 - (b) Schedule 10 in so far as it relates to the repeal of sections 113C, 113D and 113F of the Police Act 1997[^f00005];
 - (c) section 63 in so far as it relates to the provisions specified in paragraphs (a) and (b).
 
-### 3. Revocations[^key-efbf74b1eae3068bd0273491db42722d]
+### 3. Revocations[^c-efbf74b1eae3068bd0273491db42722d]
 
 The Safeguarding Vulnerable Groups Act 2006 (Transitory Provisions) Order 2009[^f00006] is revoked.
 
 ## PART 2 — Provisions applying during the first transitional period
 
-### 4. Transitional modifications applying during the first transitional period[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 4. Transitional modifications applying during the first transitional period[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Modification to section 113BA of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 5. Modification to section 113BA of the Police Act 1997[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Modification to section 113BB of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 6. Modification to section 113BB of the Police Act 1997[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Modification to section 119 of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 7. Modification to section 119 of the Police Act 1997[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Modification to section 120A of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 8. Modification to section 120A of the Police Act 1997[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Modifications to Schedule 3 to the Safeguarding Vulnerable Groups Act 2006[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 9. Modifications to Schedule 3 to the Safeguarding Vulnerable Groups Act 2006[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Provisions applying during the second transitional period
 
-### 10. Transitional modifications applying during the second transitional period[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 10. Transitional modifications applying during the second transitional period[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Modification to section 113BA of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 11. Modification to section 113BA of the Police Act 1997[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Modification to section 113BB of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 12. Modification to section 113BB of the Police Act 1997[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Provisions applying during the first and second transitional periods
 
-### 13. Transitional modifications and provisions applying during the first and second transitional periods[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 13. Transitional modifications and provisions applying during the first and second transitional periods[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Modifications to section 113E of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 14. Modifications to section 113E of the Police Act 1997[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Modification to section 116 of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 15. Modification to section 116 of the Police Act 1997[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Teachers’ pensions – entitlement to payment of retirement benefits[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 16. Teachers’ pensions – entitlement to payment of retirement benefits[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Modifications to the General Teaching Council for England (Disciplinary Functions) Regulations 2001[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 17. Modifications to the General Teaching Council for England (Disciplinary Functions) Regulations 2001[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Power of Secretary of State to refer to IBB[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 18. Power of Secretary of State to refer to IBB[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Further Transitional Provisions
 
-### 19. Transitional provisions relating to the provision of information[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 19. Transitional provisions relating to the provision of information[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Information provided to IBB[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 20. Information provided to IBB[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Information provided by IBB[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 21. Information provided by IBB[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Information provided by the Secretary of State[^key-808b7ce0658335e73ec13d9d306f4ddf]
+### 22. Information provided by the Secretary of State[^c-808b7ce0658335e73ec13d9d306f4ddf]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Relevant conduct engaged in before the repeal of sections 28 to 29A of the Criminal Justice and Court Services Act 2000[^key-69e496f49aeb40044da18e4272ec58a4]
+### 23. Relevant conduct engaged in before the repeal of sections 28 to 29A of the Criminal Justice and Court Services Act 2000[^c-69e496f49aeb40044da18e4272ec58a4]
 
 (1) In relation to conduct engaged in during the relevant period, paragraph 3(4) of Schedule 3 to the Act has effect as if the words “before the commencement of section 2” were omitted.
 
@@ -170,7 +170,7 @@ The Safeguarding Vulnerable Groups Act 2006 (Transitory Provisions) Order 2009[^
 
 ## PART 6 — Prescribed Criteria
 
-### 24. Amendments to the Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria and Miscellaneous Provisions) Regulations 2009[^key-1697ed8f98bf9c7ec103104ce583cd64]
+### 24. Amendments to the Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria and Miscellaneous Provisions) Regulations 2009[^c-1697ed8f98bf9c7ec103104ce583cd64]
 
 (1) The Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria and Miscellaneous Provisions) Regulations 2009[^f00028] are amended as follows.
 
@@ -187,7 +187,7 @@ The Safeguarding Vulnerable Groups Act 2006 (Transitory Provisions) Order 2009[^
 (3) In Part 2 of the table in paragraph 2 of the Schedule—
 
 - (a) omit “Theft Act 1968, section 9(1)(a)” and “Theft Act (Northern Ireland) 1969, section 9”;
-- (b)[^key-4d456476abda587091530a49c8a1f1b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4d456476abda587091530a49c8a1f1b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Part 1 of the table in paragraph 4 of the Schedule (prescribed criteria – automatic inclusion in the adults’ barred list with the right to make representations) insert the following entries at the appropriate place—
 
@@ -212,7 +212,7 @@ The Safeguarding Vulnerable Groups Act 2006 (Transitory Provisions) Order 2009[^
 
 ### Regulated activity relating to Children
 
-#### 25. Definition of relevant child care premises[^key-b13c0c09a6ea20412f394d4a0f8e8168]
+#### 25. Definition of relevant child care premises[^c-b13c0c09a6ea20412f394d4a0f8e8168]
 
 (1) Paragraph 3 of Schedule 4 to the Act is amended as follows.
 
@@ -228,11 +228,11 @@ The Safeguarding Vulnerable Groups Act 2006 (Transitory Provisions) Order 2009[^
 
 .
 
-#### 26. Office holders and other amendments to paragraph 4 of Schedule 4 to the Act[^key-b3b33e00b4b934e708270a89a0beb43e]
+#### 26. Office holders and other amendments to paragraph 4 of Schedule 4 to the Act[^c-b3b33e00b4b934e708270a89a0beb43e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 8 — Provisions relating to Part 2 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006[^key-885d637da1f1e906cbd3254d9ef66bca]
+## PART 8 — Provisions relating to Part 2 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006[^c-885d637da1f1e906cbd3254d9ef66bca]
 
 **No longer in force.**
 
@@ -244,7 +244,7 @@ The Safeguarding Vulnerable Groups Act 2006 (Transitory Provisions) Order 2009[^
 
 ## PART 9 — Miscellaneous
 
-### 28. Controlled activity relating to children[^key-843e0ede4c57a7c53fd6f85dbcefb45d]
+### 28. Controlled activity relating to children[^c-843e0ede4c57a7c53fd6f85dbcefb45d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -252,11 +252,11 @@ The Safeguarding Vulnerable Groups Act 2006 (Transitory Provisions) Order 2009[^
 
 In relation to times before the coming into force of section 106 of the Education and Skills Act 2008(1), paragraph 1(10)(c) of Schedule 4 to the Act has effect as if after “in pursuance of” there were inserted “section 162A(1)(b) or”.
 
-### 30. References in the Act to the National Assembly for Wales[^key-f71dab3b3a018ec021bd2e576bceaf25]
+### 30. References in the Act to the National Assembly for Wales[^c-f71dab3b3a018ec021bd2e576bceaf25]
 
 In the following provisions of the Act, for “National Assembly for Wales” substitute “Welsh Ministers”—
 
-- (a)[^key-4482f758bdec4ffb3ece06427c32f8d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4482f758bdec4ffb3ece06427c32f8d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 45(7)(b) and (e), and
 - (c) paragraphs 1(10)(g), 1(11)(b) and 7(6)(c) of Schedule 4.
 
@@ -440,27 +440,27 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-d187c62f678a7f788c64bbe3c0f7058f]: Commencement: Art. 1 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+[^c-d187c62f678a7f788c64bbe3c0f7058f]: Commencement: Art. 1 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
 
-[^key-fb073daa17dcc563b9661221e8144125]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/2) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/2157/article/5/2) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
+[^c-fb073daa17dcc563b9661221e8144125]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/2) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/2157/article/5/2) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
 
-[^key-4f81a6aa0483635556043b9c73dfc9a6]: Commencement: Art. 2 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+[^c-4f81a6aa0483635556043b9c73dfc9a6]: Commencement: Art. 2 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
 
 [^f00005]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-efbf74b1eae3068bd0273491db42722d]: Commencement: Art. 3 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+[^c-efbf74b1eae3068bd0273491db42722d]: Commencement: Art. 3 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
 
 [^f00006]: Footnote: [S.I. 2009/12](https://www.legislation.gov.uk/uksi/2009/12).
 
-[^key-808b7ce0658335e73ec13d9d306f4ddf]: Textual amendment: [Arts. 4-22](https://www.legislation.gov.uk/uksi/2009/2610/article/4) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2012/2157/article/5/3) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
+[^c-808b7ce0658335e73ec13d9d306f4ddf]: Textual amendment: [Arts. 4-22](https://www.legislation.gov.uk/uksi/2009/2610/article/4) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2012/2157/article/5/3) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
 
-[^key-69e496f49aeb40044da18e4272ec58a4]: Commencement: Art. 23 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+[^c-69e496f49aeb40044da18e4272ec58a4]: Commencement: Art. 23 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
 
 [^f00026]: Footnote: Section 29A was inserted by paragraphs 1 and 2 of Schedule 30 to the Criminal Justice Act 2003. Sections 28 to 29A were amended by paragraph 35, Part 4, of Schedule 11 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
 [^f00027]: Footnote: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43).
 
-[^key-1697ed8f98bf9c7ec103104ce583cd64]: Commencement: Art. 24 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+[^c-1697ed8f98bf9c7ec103104ce583cd64]: Commencement: Art. 24 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
 
 [^f00028]: Footnote: [S.I. 2009/37](https://www.legislation.gov.uk/uksi/2009/37).
 
@@ -468,16 +468,16 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00030]: Footnote: [1969 c. 16 (N.I.)](https://www.legislation.gov.uk/apni/1969/16). Section 9, in relation to intent to commit rape, was amended by the Criminal Justice (Northern Ireland) Order 2003 ([S.I. 2003/1247) (N.I. 13)](https://www.legislation.gov.uk/nisi/2003/1247).
 
-[^key-4d456476abda587091530a49c8a1f1b8]: Textual amendment: [Art. 24(3)(b)](https://www.legislation.gov.uk/uksi/2009/2610/article/24/3/b) revoked (31.3.2010) by [The Safeguarding Vulnerable Groups Act 2006 (Controlled Activity and Miscellaneous Provisions) Regulations 2010 (S.I. 2010/1146)](https://www.legislation.gov.uk/uksi/2010/1146), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1146/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2010/1146/regulation/9/6)
+[^c-4d456476abda587091530a49c8a1f1b8]: Textual amendment: [Art. 24(3)(b)](https://www.legislation.gov.uk/uksi/2009/2610/article/24/3/b) revoked (31.3.2010) by [The Safeguarding Vulnerable Groups Act 2006 (Controlled Activity and Miscellaneous Provisions) Regulations 2010 (S.I. 2010/1146)](https://www.legislation.gov.uk/uksi/2010/1146), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1146/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2010/1146/regulation/9/6)
 
-[^key-b13c0c09a6ea20412f394d4a0f8e8168]: Commencement: Art. 25 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+[^c-b13c0c09a6ea20412f394d4a0f8e8168]: Commencement: Art. 25 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
 
-[^key-b3b33e00b4b934e708270a89a0beb43e]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/uksi/2009/2610/article/26) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-b3b33e00b4b934e708270a89a0beb43e]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/uksi/2009/2610/article/26) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-885d637da1f1e906cbd3254d9ef66bca]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2009/2610/part/8) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-885d637da1f1e906cbd3254d9ef66bca]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2009/2610/part/8) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-843e0ede4c57a7c53fd6f85dbcefb45d]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/uksi/2009/2610/article/28) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-843e0ede4c57a7c53fd6f85dbcefb45d]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/uksi/2009/2610/article/28) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-f71dab3b3a018ec021bd2e576bceaf25]: Commencement: Art. 30 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+[^c-f71dab3b3a018ec021bd2e576bceaf25]: Commencement: Art. 30 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
 
-[^key-4482f758bdec4ffb3ece06427c32f8d5]: Textual amendment: [Art. 30(a)](https://www.legislation.gov.uk/uksi/2009/2610/article/30/a) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-4482f758bdec4ffb3ece06427c32f8d5]: Textual amendment: [Art. 30(a)](https://www.legislation.gov.uk/uksi/2009/2610/article/30/a) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)

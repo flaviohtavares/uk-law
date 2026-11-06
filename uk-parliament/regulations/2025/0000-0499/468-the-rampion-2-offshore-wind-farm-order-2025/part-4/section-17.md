@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Discharge of water[^key-61a501f6e83329fdd4d7536207e5e006]
+## 17. Discharge of water[^c-61a501f6e83329fdd4d7536207e5e006]
 
 *Extent: E+W+S*
 
 (1) Subject to sub-paragraphs (3) and (4) below the undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the carrying out or maintenance of the authorised project and for that purpose may inspect, lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
 
-(2) Any dispute arising from the making of connections to or the use of a public sewer or drain by the undertaker pursuant to sub-paragraph (1) is to be[^key-b366ac5c2de03b272d6cbedf71d60ee5] determined as if it were a dispute under section 106 of the Water Industry Act 1991[^f00036] (right to communicate with public sewers).
+(2) Any dispute arising from the making of connections to or the use of a public sewer or drain by the undertaker pursuant to sub-paragraph (1) is to be[^c-b366ac5c2de03b272d6cbedf71d60ee5] determined as if it were a dispute under section 106 of the Water Industry Act 1991[^f00036] (right to communicate with public sewers).
 
 (3) The undertaker must not discharge any water into any watercourse, public sewer or drain except with the consent of the person to whom it belongs; and such consent may be given subject to such terms and conditions as that person may reasonably impose, but must not be unreasonably withheld.
 
@@ -46,9 +46,9 @@ summary: ''
 
 ## Annotations
 
-[^key-61a501f6e83329fdd4d7536207e5e006]: Commencement: Art. 17 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-61a501f6e83329fdd4d7536207e5e006]: Commencement: Art. 17 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-b366ac5c2de03b272d6cbedf71d60ee5]: Textual amendment: Words in [art. 17(2)](https://www.legislation.gov.uk/uksi/2025/468/article/17/2) inserted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
+[^c-b366ac5c2de03b272d6cbedf71d60ee5]: Textual amendment: Words in [art. 17(2)](https://www.legislation.gov.uk/uksi/2025/468/article/17/2) inserted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
 
 [^f00036]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 

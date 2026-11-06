@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. General power to direct NHS England[^key-e54f23465eb80faffc95a2f25bd28910][^key-6abbf4ce755d008b38e8596e3255e678]
+## 45. General power to direct NHS England[^c-e54f23465eb80faffc95a2f25bd28910][^c-6abbf4ce755d008b38e8596e3255e678]
 
 *Extent: E+W*
 
@@ -96,6 +96,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e54f23465eb80faffc95a2f25bd28910]: Commencement: S. 45 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-e54f23465eb80faffc95a2f25bd28910]: Commencement: S. 45 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-6abbf4ce755d008b38e8596e3255e678]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/31/section/45) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6abbf4ce755d008b38e8596e3255e678]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/31/section/45) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

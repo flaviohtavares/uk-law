@@ -43,11 +43,11 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales, acting jointly, in exercise of the powers conferred on them by sections 1, 8(1) and 15(4) of the Animal Health Act 1981[^f00001], and of all other powers enabling them in that behalf, make the following Order:
 
-## 1. Title and commencement[^key-1dc97a6d7e3d41da7eb50df214de7027]
+## 1. Title and commencement[^c-1dc97a6d7e3d41da7eb50df214de7027]
 
 This Order may be cited as the Bovine Spongiform Encephalopathy (No. 2) (Amendment) Order 1999 and shall come into force on 15th April 1999.
 
-## 2. Amendments to the Bovine Spongiform Encephalopathy (No. 2) Order 1996[^key-99b18739fdd3f95797d4cbc26493df9e]
+## 2. Amendments to the Bovine Spongiform Encephalopathy (No. 2) Order 1996[^c-99b18739fdd3f95797d4cbc26493df9e]
 
 (1) The Bovine Spongiform Encephalopathy (No. 2) Order 1996[^f00002] is amended in accordance with the following paragraphs of this article.
 
@@ -124,8 +124,8 @@ Parliamentary Under Secretary of State, Welsh Office
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22); see section 86(1) for definitions of “the Minister” and “the Ministers”; sections 1 and 8(1) have been applied to bovine spongiform encephalopathy by the Zoonoses Order 1988, S.I. [1988/2264](https://www.legislation.gov.uk/uksi/1988/2264), amended by S.I. [1988/2299](https://www.legislation.gov.uk/uksi/1988/2299) and S.I. [1997/2964](https://www.legislation.gov.uk/uksi/1997/2964).
 
-[^key-1dc97a6d7e3d41da7eb50df214de7027]: Commencement: Art. 1 in force at 15.4.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/921/article/1)
+[^c-1dc97a6d7e3d41da7eb50df214de7027]: Commencement: Art. 1 in force at 15.4.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/921/article/1)
 
-[^key-99b18739fdd3f95797d4cbc26493df9e]: Commencement: Art. 2 in force at 15.4.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/921/article/1)
+[^c-99b18739fdd3f95797d4cbc26493df9e]: Commencement: Art. 2 in force at 15.4.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/921/article/1)
 
 [^f00002]: Footnote: S.I. [1996/3183](https://www.legislation.gov.uk/uksi/1996/3183), amended by S.I. [1997/2387](https://www.legislation.gov.uk/uksi/1997/2387) and S.I. [1998/3071](https://www.legislation.gov.uk/uksi/1998/3071).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Carriage of passengers - additional duties of pilot-in-command[^key-21c5bd91fa1fe45cff95416cc5727a00]
+## 106. Carriage of passengers - additional duties of pilot-in-command[^c-21c5bd91fa1fe45cff95416cc5727a00]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ the pilot-in-command must take all reasonable steps to ensure that all passenger
 
 ## Annotations
 
-[^key-21c5bd91fa1fe45cff95416cc5727a00]: Commencement: [Art. 106](https://www.legislation.gov.uk/uksi/2013/2870/article/106) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-21c5bd91fa1fe45cff95416cc5727a00]: Commencement: [Art. 106](https://www.legislation.gov.uk/uksi/2013/2870/article/106) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -33,7 +33,7 @@ Social Security
 
 Terms And Conditions Of Employment
 
-The Welfare Benefits Up-rating Order 2014 (revoked)[^key-ea276221840ca25fdc41613ad8b400aa]
+The Welfare Benefits Up-rating Order 2014 (revoked)[^c-ea276221840ca25fdc41613ad8b400aa]
 
 Made
 
@@ -41,99 +41,99 @@ Made
 
 Coming into force in accordance with Article 1
 
-[^key-ea276221840ca25fdc41613ad8b400aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea276221840ca25fdc41613ad8b400aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ea276221840ca25fdc41613ad8b400aa]
+## 1. Citation and commencement[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ea276221840ca25fdc41613ad8b400aa]
+## 2. Interpretation[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Statutory Sick Pay[^key-ea276221840ca25fdc41613ad8b400aa]
+## 3. Statutory Sick Pay[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Statutory Maternity Pay[^key-ea276221840ca25fdc41613ad8b400aa]
+## 4. Statutory Maternity Pay[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Ordinary and Additional Statutory Paternity Pay, and Statutory Adoption Pay[^key-ea276221840ca25fdc41613ad8b400aa]
+## 5. Ordinary and Additional Statutory Paternity Pay, and Statutory Adoption Pay[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Applicable amounts for Income Support[^key-ea276221840ca25fdc41613ad8b400aa]
+## 6. Applicable amounts for Income Support[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Housing Benefit[^key-ea276221840ca25fdc41613ad8b400aa]
+## 7. Housing Benefit[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Increase in age-related amounts of contribution-based Jobseeker’s Allowance[^key-ea276221840ca25fdc41613ad8b400aa]
+## 8. Increase in age-related amounts of contribution-based Jobseeker’s Allowance[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Applicable amounts for the JSA Regulations 1996[^key-ea276221840ca25fdc41613ad8b400aa]
+## 9. Applicable amounts for the JSA Regulations 1996[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amounts for the JSA Regulations 2013[^key-ea276221840ca25fdc41613ad8b400aa]
+## 10. Amounts for the JSA Regulations 2013[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amounts for the ESA Regulations 2008[^key-ea276221840ca25fdc41613ad8b400aa]
+## 11. Amounts for the ESA Regulations 2008[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Prescribed amounts for the ESA Regulations 2013[^key-ea276221840ca25fdc41613ad8b400aa]
+## 12. Prescribed amounts for the ESA Regulations 2013[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amounts of certain elements for the Universal Credit Regulations[^key-ea276221840ca25fdc41613ad8b400aa]
+## 13. Amounts of certain elements for the Universal Credit Regulations[^c-ea276221840ca25fdc41613ad8b400aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea276221840ca25fdc41613ad8b400aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea276221840ca25fdc41613ad8b400aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PARAGRAPH 1 OF PART I OF SCHEDULE 2 TO THE INCOME SUPPORT REGULATIONS AS AMENDED BY THIS ORDER[^key-ea276221840ca25fdc41613ad8b400aa]
+## SCHEDULE 1 — PARAGRAPH 1 OF PART I OF SCHEDULE 2 TO THE INCOME SUPPORT REGULATIONS AS AMENDED BY THIS ORDER[^c-ea276221840ca25fdc41613ad8b400aa]
 
 Article 6
 
-### PART I — PERSONAL ALLOWANCES[^key-ea276221840ca25fdc41613ad8b400aa]
+### PART I — PERSONAL ALLOWANCES[^c-ea276221840ca25fdc41613ad8b400aa]
 
-**1.**[^key-ea276221840ca25fdc41613ad8b400aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ea276221840ca25fdc41613ad8b400aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PARAGRAPH 1 OF PART 1 OF SCHEDULE 3 TO THE HOUSING BENEFIT REGULATIONS AS AMENDED BY THIS ORDER[^key-ea276221840ca25fdc41613ad8b400aa]
+## SCHEDULE 2 — PARAGRAPH 1 OF PART 1 OF SCHEDULE 3 TO THE HOUSING BENEFIT REGULATIONS AS AMENDED BY THIS ORDER[^c-ea276221840ca25fdc41613ad8b400aa]
 
 Article 7
 
-### PART 1 — Personal Allowances[^key-ea276221840ca25fdc41613ad8b400aa]
+### PART 1 — Personal Allowances[^c-ea276221840ca25fdc41613ad8b400aa]
 
-**1.**[^key-ea276221840ca25fdc41613ad8b400aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ea276221840ca25fdc41613ad8b400aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — PARAGRAPH 1 OF PART 1 OF SCHEDULE 1 TO THE JSA REGULATIONS 1996 AS AMENDED BY THIS ORDER[^key-ea276221840ca25fdc41613ad8b400aa]
+## SCHEDULE 3 — PARAGRAPH 1 OF PART 1 OF SCHEDULE 1 TO THE JSA REGULATIONS 1996 AS AMENDED BY THIS ORDER[^c-ea276221840ca25fdc41613ad8b400aa]
 
 Article 9
 
-### PART 1 — Personal Allowances[^key-ea276221840ca25fdc41613ad8b400aa]
+### PART 1 — Personal Allowances[^c-ea276221840ca25fdc41613ad8b400aa]
 
-**1.**[^key-ea276221840ca25fdc41613ad8b400aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ea276221840ca25fdc41613ad8b400aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — PART 1 OF SCHEDULE 4 TO THE ESA REGULATIONS 2008 AS AMENDED BY THIS ORDER[^key-ea276221840ca25fdc41613ad8b400aa]
+## SCHEDULE 4 — PART 1 OF SCHEDULE 4 TO THE ESA REGULATIONS 2008 AS AMENDED BY THIS ORDER[^c-ea276221840ca25fdc41613ad8b400aa]
 
 Article 11
 
-### PART 1 — Prescribed amounts[^key-ea276221840ca25fdc41613ad8b400aa]
+### PART 1 — Prescribed amounts[^c-ea276221840ca25fdc41613ad8b400aa]
 
-**1.**[^key-ea276221840ca25fdc41613ad8b400aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ea276221840ca25fdc41613ad8b400aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — AMOUNTS OF CERTAIN ELEMENTS SPECIFIED IN THE TABLE IN REGULATION 36 OF THE UNIVERSAL CREDIT REGULATIONS AS AMENDED BY THIS ORDER[^key-ea276221840ca25fdc41613ad8b400aa]
+## SCHEDULE 5 — AMOUNTS OF CERTAIN ELEMENTS SPECIFIED IN THE TABLE IN REGULATION 36 OF THE UNIVERSAL CREDIT REGULATIONS AS AMENDED BY THIS ORDER[^c-ea276221840ca25fdc41613ad8b400aa]
 
 Article 13
 
@@ -141,8 +141,8 @@ Article 13
 
 **May not be in force at this date. Check the source.**
 
-[^key-ea276221840ca25fdc41613ad8b400aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea276221840ca25fdc41613ad8b400aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea276221840ca25fdc41613ad8b400aa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/147) revoked (5.5.2015) by [The Welfare Benefits Up-rating Order 2015 (revoked) 2015 (S.I. 2015/30)](https://www.legislation.gov.uk/uksi/2015/30), [arts. 1(2)(l)](https://www.legislation.gov.uk/uksi/2015/30/article/1), [14](https://www.legislation.gov.uk/uksi/2015/30/article/14)
+[^c-ea276221840ca25fdc41613ad8b400aa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/147) revoked (5.5.2015) by [The Welfare Benefits Up-rating Order 2015 (revoked) 2015 (S.I. 2015/30)](https://www.legislation.gov.uk/uksi/2015/30), [arts. 1(2)(l)](https://www.legislation.gov.uk/uksi/2015/30/article/1), [14](https://www.legislation.gov.uk/uksi/2015/30/article/14)

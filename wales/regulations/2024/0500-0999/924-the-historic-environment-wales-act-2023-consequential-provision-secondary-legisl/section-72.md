@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**72.**[^key-4c67aa46076bb223441780bf1cedcfaa] In regulation 2, omit the definition of “the Listed Buildings Act”.
+**72.**[^c-4c67aa46076bb223441780bf1cedcfaa] In regulation 2, omit the definition of “the Listed Buildings Act”.
 
 ## Annotations
 
-[^key-4c67aa46076bb223441780bf1cedcfaa]: Commencement: [Reg. 72](https://www.legislation.gov.uk/wsi/2024/924/regulation/72) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-4c67aa46076bb223441780bf1cedcfaa]: Commencement: [Reg. 72](https://www.legislation.gov.uk/wsi/2024/924/regulation/72) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

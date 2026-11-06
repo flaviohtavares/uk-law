@@ -22,13 +22,13 @@ summary: ''
 
 Regulation 16(4)
 
-**1.**[^key-9b5eff5a8392402999238e33037282c8] For the purposes of regulation 16(1) to (3), these Regulations must be read as if—
+**1.**[^c-9b5eff5a8392402999238e33037282c8] For the purposes of regulation 16(1) to (3), these Regulations must be read as if—
 
-- (a)[^key-4d44018f2e67ba43c44087fdf0b468d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4d44018f2e67ba43c44087fdf0b468d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in Schedule 1, in the definition of “declared values” the reference to regulation 11 were a reference to regulation 16;
 - (c) in Schedule 4, paragraph 2 were substituted with—
 
-  > **2.** Where a parameter is declared pursuant to regulation 16[^key-deb407e058406f30d9d5ac2352d4e886] and in accordance with Table 12 or Table 13 of Schedule 14, its declared value must be used by the supplier for the calculations in this Schedule.
+  > **2.** Where a parameter is declared pursuant to regulation 16[^c-deb407e058406f30d9d5ac2352d4e886] and in accordance with Table 12 or Table 13 of Schedule 14, its declared value must be used by the supplier for the calculations in this Schedule.
 
   ;
 - (d) in Schedule 10—
@@ -40,18 +40,18 @@ Regulation 16(4)
   - (i) in paragraph 1 the reference to Schedule 7 were a reference to Schedule 15;
   - (ii) in paragraph 2 the reference to Schedule 7 were a reference to Schedule 15;
   - (iii) in paragraph 4—
-    - (aa)[^key-261ea4c810c733aa70aaaf564f15c019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (aa)[^c-261ea4c810c733aa70aaaf564f15c019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (bb) the reference to Schedule 8 were a reference to Schedule 16.
-- (f)[^key-63ea9907ec97e6d70199155ec917b708] in paragraph 4A the reference to Schedule 5 were a reference to Schedule 14.
+- (f)[^c-63ea9907ec97e6d70199155ec917b708] in paragraph 4A the reference to Schedule 5 were a reference to Schedule 14.
 
 ## Annotations
 
-[^key-9b5eff5a8392402999238e33037282c8]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/uksi/2026/318/schedule/17/paragraph/1) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
+[^c-9b5eff5a8392402999238e33037282c8]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/uksi/2026/318/schedule/17/paragraph/1) in force at 19.9.2026, see [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/f)
 
-[^key-4d44018f2e67ba43c44087fdf0b468d2]: Textual amendment: [Sch. 17 para. 1(a)](https://www.legislation.gov.uk/uksi/2026/318/schedule/17/paragraph/1/a) omitted (27.7.2026) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2026/750/regulation/21/a)
+[^c-4d44018f2e67ba43c44087fdf0b468d2]: Textual amendment: [Sch. 17 para. 1(a)](https://www.legislation.gov.uk/uksi/2026/318/schedule/17/paragraph/1/a) omitted (27.7.2026) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2026/750/regulation/21/a)
 
-[^key-deb407e058406f30d9d5ac2352d4e886]: Textual amendment: Words in [Sch. 17 para. 1(c)](https://www.legislation.gov.uk/uksi/2026/318/schedule/17/paragraph/1/c) substituted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2026/750/regulation/21/b)
+[^c-deb407e058406f30d9d5ac2352d4e886]: Textual amendment: Words in [Sch. 17 para. 1(c)](https://www.legislation.gov.uk/uksi/2026/318/schedule/17/paragraph/1/c) substituted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2026/750/regulation/21/b)
 
-[^key-261ea4c810c733aa70aaaf564f15c019]: Textual amendment: [Sch. 17 para. 1(e)(iii)(aa)](https://www.legislation.gov.uk/uksi/2026/318/schedule/17/paragraph/1/e/iii/aa) omitted (27.7.2026) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2026/750/regulation/21/c)
+[^c-261ea4c810c733aa70aaaf564f15c019]: Textual amendment: [Sch. 17 para. 1(e)(iii)(aa)](https://www.legislation.gov.uk/uksi/2026/318/schedule/17/paragraph/1/e/iii/aa) omitted (27.7.2026) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2026/750/regulation/21/c)
 
-[^key-63ea9907ec97e6d70199155ec917b708]: Textual amendment: [Sch. 17 para. 1(f)](https://www.legislation.gov.uk/uksi/2026/318/schedule/17/paragraph/1/f) inserted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [21(d)](https://www.legislation.gov.uk/uksi/2026/750/regulation/21/d)
+[^c-63ea9907ec97e6d70199155ec917b708]: Textual amendment: [Sch. 17 para. 1(f)](https://www.legislation.gov.uk/uksi/2026/318/schedule/17/paragraph/1/f) inserted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [21(d)](https://www.legislation.gov.uk/uksi/2026/750/regulation/21/d)

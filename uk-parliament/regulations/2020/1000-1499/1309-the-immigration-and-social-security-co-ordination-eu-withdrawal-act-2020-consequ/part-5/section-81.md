@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Saving provision in connection with the EC Association Agreement with Turkey[^key-cf7845412ae962b9ba52f62d5e349806][^M_I_b4376006-9bbe-47d9-8eb2-41c06808438c]
+## 81. Saving provision in connection with the EC Association Agreement with Turkey[^c-cf7845412ae962b9ba52f62d5e349806][^M_I_b4376006-9bbe-47d9-8eb2-41c06808438c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 2 has effect.
 
 ## Annotations
 
-[^key-cf7845412ae962b9ba52f62d5e349806]: Commencement: Reg. 81 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-cf7845412ae962b9ba52f62d5e349806]: Commencement: Reg. 81 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_b4376006-9bbe-47d9-8eb2-41c06808438c]: Commencement: Reg. 81 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)

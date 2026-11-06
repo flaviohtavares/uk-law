@@ -2917,7 +2917,7 @@ for the purposes of Article 44B(3) that day shall be taken to be the day on whic
 - (a) when he does an act inconsistent with doing the failed act, or
 - (b) if he has done no such inconsistent act, when the period expires within which he might reasonably have been expected to do the failed act if it was to be done.
 
-(4)[^key-30326df85767d5b19dd7d85a9eba5a12] Article 147A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of sub-paragraph (1)(a).
+(4)[^c-30326df85767d5b19dd7d85a9eba5a12] Article 147A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of sub-paragraph (1)(a).
 
 **158.** On a complaint under paragraph 156 it shall be for the employer to show the ground on which he acted or failed to act.
 
@@ -3348,7 +3348,7 @@ and references to a post-commencement declaration of recognition or method of co
 
 [^c17264171]: Textual amendment: [2004 NI 19](https://www.legislation.gov.uk/2004/ni19)
 
-[^key-30326df85767d5b19dd7d85a9eba5a12]: Textual amendment: [Sch. 1A para. 157(4)](https://www.legislation.gov.uk/nisi/1995/1980/schedule/1A/paragraph/157/4) added (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/10); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-30326df85767d5b19dd7d85a9eba5a12]: Textual amendment: [Sch. 1A para. 157(4)](https://www.legislation.gov.uk/nisi/1995/1980/schedule/1A/paragraph/157/4) added (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/10); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
 [^c17264211]: Textual amendment: [2004 NI 19](https://www.legislation.gov.uk/2004/ni19)
 

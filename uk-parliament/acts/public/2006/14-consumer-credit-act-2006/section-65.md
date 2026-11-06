@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Sums received by OFT[^key-e4e9114e5a3820383672fbbac54c6f39]
+## 65. Sums received by OFT[^c-e4e9114e5a3820383672fbbac54c6f39]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4e9114e5a3820383672fbbac54c6f39]: Textual amendment: [S. 65](https://www.legislation.gov.uk/ukpga/2006/14/section/65) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
+[^c-e4e9114e5a3820383672fbbac54c6f39]: Textual amendment: [S. 65](https://www.legislation.gov.uk/ukpga/2006/14/section/65) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)

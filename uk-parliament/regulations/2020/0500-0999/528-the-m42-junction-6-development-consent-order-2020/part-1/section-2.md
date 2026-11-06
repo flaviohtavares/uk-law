@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-6645223a903c28dc7ad3a7d88410f560]
+## 2. Interpretation[^c-6645223a903c28dc7ad3a7d88410f560]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 - “address” includes any number or address for the purposes of electronic transmission;
 - “apparatus” has the same meaning as in Part 3 (street works in England and Wales) of the 1991 Act;
 - “authorised development” means the development and associated development described in Schedule 1 (authorised development), and any other development authorised by this Order, which is development within the meaning of section 32 (meaning of development) of the 2008 Act;
-- “book of reference” means the document listed in Schedule 13 (certification of plans and documents, etc.)[^key-72821f121f12f981b56cc37424c177a9] certified by the Secretary of State as the book of reference for the purposes of this Order;
+- “book of reference” means the document listed in Schedule 13 (certification of plans and documents, etc.)[^c-72821f121f12f981b56cc37424c177a9] certified by the Secretary of State as the book of reference for the purposes of this Order;
 - “bridleway” has the same meaning as in the 1980 Act;
 - “building” includes any structure or erection or any part of a building, structure or erection;
 - “carriageway” has the same meaning as in the 1980 Act;
@@ -75,7 +75,7 @@ summary: ''
 
 (3) References in this Order to the creation and acquisition of rights over land includes references to rights to oblige a party having an interest in land to grant those rights referenced in the Order, at the direction of the undertaker, either—
 
-- (a) to an affected person directly, where[^key-2f76522e47bf4b377aa807a0a37db656] that person’s land or rights over land have been adversely affected by this Order, and, where that is the case, the rights referenced in the Order are to be granted for the benefit of the land in which that affected person has an interest at the time of the making of this Order; or
+- (a) to an affected person directly, where[^c-2f76522e47bf4b377aa807a0a37db656] that person’s land or rights over land have been adversely affected by this Order, and, where that is the case, the rights referenced in the Order are to be granted for the benefit of the land in which that affected person has an interest at the time of the making of this Order; or
 - (b) to any statutory undertaker for the purpose of their undertaking.
 
 (4) All distances, directions and lengths referred to in this Order are approximate and distances between points on a work comprised in the authorised development are taken to be measured along that work.
@@ -92,7 +92,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6645223a903c28dc7ad3a7d88410f560]: Commencement: Art. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-6645223a903c28dc7ad3a7d88410f560]: Commencement: Art. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -110,7 +110,7 @@ summary: ''
 
 [^f00011]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-72821f121f12f981b56cc37424c177a9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/528/article/2/1) substituted (21.10.2020) by [The M42 Junction 6 Development Consent (Correction) Order 2020 (S.I. 2020/1164)](https://www.legislation.gov.uk/uksi/2020/1164), [art. 1](https://www.legislation.gov.uk/uksi/2020/1164/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1164/schedule)
+[^c-72821f121f12f981b56cc37424c177a9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/528/article/2/1) substituted (21.10.2020) by [The M42 Junction 6 Development Consent (Correction) Order 2020 (S.I. 2020/1164)](https://www.legislation.gov.uk/uksi/2020/1164), [art. 1](https://www.legislation.gov.uk/uksi/2020/1164/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1164/schedule)
 
 [^f00012]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). The definition of “owner” was amended by paragraph 9 of Schedule 15 to the Planning and Compensation Act [1992 (c. 34)](https://www.legislation.gov.uk/ukpga/1992/34). There are other amendments to section 7 which are not relevant to the Order.
 
@@ -122,4 +122,4 @@ summary: ''
 
 [^f00016]: Footnote: Section 19(1) was amended by section 1 of, and paragraph 15 of Schedule 1 to, the Infrastructure Act 2015.
 
-[^key-2f76522e47bf4b377aa807a0a37db656]: Textual amendment: Word in [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2020/528/article/2/3/a) substituted (21.10.2020) by [The M42 Junction 6 Development Consent (Correction) Order 2020 (S.I. 2020/1164)](https://www.legislation.gov.uk/uksi/2020/1164), [art. 1](https://www.legislation.gov.uk/uksi/2020/1164/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1164/schedule)
+[^c-2f76522e47bf4b377aa807a0a37db656]: Textual amendment: Word in [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2020/528/article/2/3/a) substituted (21.10.2020) by [The M42 Junction 6 Development Consent (Correction) Order 2020 (S.I. 2020/1164)](https://www.legislation.gov.uk/uksi/2020/1164), [art. 1](https://www.legislation.gov.uk/uksi/2020/1164/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1164/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Wrongful termination without eviction order[^key-3ec28f5a35af9816b6241c6c29281f2e]
+## 58. Wrongful termination without eviction order[^c-3ec28f5a35af9816b6241c6c29281f2e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ec28f5a35af9816b6241c6c29281f2e]: Commencement: S. 58 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-3ec28f5a35af9816b6241c6c29281f2e]: Commencement: S. 58 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Resignation of commissioner[^key-c7ef460eb05c988152177c415903a47d][^key-1317ab83fd35247630aeb7e9c7f67ca4]
+## 61. Resignation of commissioner[^c-c7ef460eb05c988152177c415903a47d][^c-1317ab83fd35247630aeb7e9c7f67ca4]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7ef460eb05c988152177c415903a47d]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2011/13/section/61) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-c7ef460eb05c988152177c415903a47d]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2011/13/section/61) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
 
-[^key-1317ab83fd35247630aeb7e9c7f67ca4]: Modification: Ss. 50-61 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 21(b)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/21/b)
+[^c-1317ab83fd35247630aeb7e9c7f67ca4]: Modification: Ss. 50-61 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 21(b)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/21/b)

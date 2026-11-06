@@ -70,7 +70,7 @@ falling to be heard by one of the Child Support Commissioners involves a questio
 
 ### Pensions
 
-**4.** The Department of Justice shall[^key-d82e7b1eb1f380d44cba7ace60626ada] pay, or make such payments towards the provision of, such pensions to or in respect of persons appointed as Child Support Commissioners as the Lord Chancellor may[^key-e2eca26c177bcc8d06603d67456cd2d1], with the consent of the Treasury, determine.
+**4.** The Department of Justice shall[^c-d82e7b1eb1f380d44cba7ace60626ada] pay, or make such payments towards the provision of, such pensions to or in respect of persons appointed as Child Support Commissioners as the Lord Chancellor may[^c-e2eca26c177bcc8d06603d67456cd2d1], with the consent of the Treasury, determine.
 
 ## Annotations
 
@@ -86,6 +86,6 @@ falling to be heard by one of the Child Support Commissioners involves a questio
 
 [^c16853331]: Textual amendment: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-d82e7b1eb1f380d44cba7ace60626ada]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/nisi/1991/2628/schedule/4/paragraph/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 149(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/149/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-d82e7b1eb1f380d44cba7ace60626ada]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/nisi/1991/2628/schedule/4/paragraph/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 149(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/149/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-e2eca26c177bcc8d06603d67456cd2d1]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/nisi/1991/2628/schedule/4/paragraph/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 149(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/149/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-e2eca26c177bcc8d06603d67456cd2d1]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/nisi/1991/2628/schedule/4/paragraph/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 149(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/149/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

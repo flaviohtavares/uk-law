@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 136. Conversion of periods credited under Discretionary Payments Regulations etc. into membership[^key-2aa4f389651c6dfd025eb8fcbf3e4de2]
+## 136. Conversion of periods credited under Discretionary Payments Regulations etc. into membership[^c-2aa4f389651c6dfd025eb8fcbf3e4de2]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ and where paragraph (b) applies “employing authority” includes the person to
 
 ## Annotations
 
-[^key-2aa4f389651c6dfd025eb8fcbf3e4de2]: Commencement: Reg. 136 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-2aa4f389651c6dfd025eb8fcbf3e4de2]: Commencement: Reg. 136 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

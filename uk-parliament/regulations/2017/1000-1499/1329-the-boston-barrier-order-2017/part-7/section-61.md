@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Defence of due diligence[^key-6c1012ffd2939746d238961d5882413c]
+## 61. Defence of due diligence[^c-6c1012ffd2939746d238961d5882413c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c1012ffd2939746d238961d5882413c]: Commencement: Art. 61 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-6c1012ffd2939746d238961d5882413c]: Commencement: Art. 61 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

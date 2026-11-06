@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food (Peanuts from Egypt) (Emergency Control) (Scotland) Regulations 2003 (revoked)[^key-d3e6596504003372b8a38980ae7472cd]
+The Food (Peanuts from Egypt) (Emergency Control) (Scotland) Regulations 2003 (revoked)[^c-d3e6596504003372b8a38980ae7472cd]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 30th September 2003
 
-[^key-d3e6596504003372b8a38980ae7472cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3e6596504003372b8a38980ae7472cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-d3e6596504003372b8a38980ae7472cd]
+## 1. Citation, commencement and extent[^c-d3e6596504003372b8a38980ae7472cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d3e6596504003372b8a38980ae7472cd]
+## 2. Interpretation[^c-d3e6596504003372b8a38980ae7472cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-d3e6596504003372b8a38980ae7472cd]
+## 3. Prohibition on import[^c-d3e6596504003372b8a38980ae7472cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-d3e6596504003372b8a38980ae7472cd]
+## 4. Enforcement[^c-d3e6596504003372b8a38980ae7472cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^key-d3e6596504003372b8a38980ae7472cd]
+## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^c-d3e6596504003372b8a38980ae7472cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Re-dispatch or destruction of illegal imports[^key-d3e6596504003372b8a38980ae7472cd]
+## 6. Re-dispatch or destruction of illegal imports[^c-d3e6596504003372b8a38980ae7472cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of the Food (Peanuts from Egypt) (Emergency Control) (Scotland) Order 2000[^key-d3e6596504003372b8a38980ae7472cd]
+## 7. Revocation of the Food (Peanuts from Egypt) (Emergency Control) (Scotland) Order 2000[^c-d3e6596504003372b8a38980ae7472cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3e6596504003372b8a38980ae7472cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3e6596504003372b8a38980ae7472cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d3e6596504003372b8a38980ae7472cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3e6596504003372b8a38980ae7472cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3e6596504003372b8a38980ae7472cd]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)
+[^c-d3e6596504003372b8a38980ae7472cd]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)

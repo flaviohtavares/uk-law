@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188I. Joint and several liability of responsible members[^key-acb2cd1069e29fc1b800f50350edef80]
+## 188I. Joint and several liability of responsible members[^c-acb2cd1069e29fc1b800f50350edef80]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acb2cd1069e29fc1b800f50350edef80]: Textual amendment: Ss. 188A-188K and cross-heading omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 68](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/68)
+[^c-acb2cd1069e29fc1b800f50350edef80]: Textual amendment: Ss. 188A-188K and cross-heading omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 68](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/68)

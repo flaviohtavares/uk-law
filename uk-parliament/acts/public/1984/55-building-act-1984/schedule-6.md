@@ -54,7 +54,7 @@ Section 133(1).
 
 ### The London Government Act 1963[^c929791]
 
-**9.**[^key-4b6836de319ff064dd19b03620e38d5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4b6836de319ff064dd19b03620e38d5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** In paragraph 9(5) of Part II of Schedule 11 to that Act, for “section 27 of the Public Health Act 1961” there is substituted “section 79 of the Building Act 1984”.
 
@@ -64,7 +64,7 @@ Section 133(1).
 
 ### The Faculty Jurisdiction Measure 1964[^c929811]
 
-**12.**[^key-72ef74a0f3805857592a01b63ed6562c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-72ef74a0f3805857592a01b63ed6562c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Fire Precautions Act 1971[^c929821]
 
@@ -144,13 +144,13 @@ Section 133(1).
 
 [^c929791]: Marginal citation: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
 
-[^key-4b6836de319ff064dd19b03620e38d5e]: Textual amendment: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/1984/55/schedule/6/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-4b6836de319ff064dd19b03620e38d5e]: Textual amendment: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/1984/55/schedule/6/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c929801]: Marginal citation: [1963 c. 41](https://www.legislation.gov.uk/ukpga/1963/41).
 
 [^c929811]: Marginal citation: [1964 No. 5](https://www.legislation.gov.uk/ukcm/1964/5).
 
-[^key-72ef74a0f3805857592a01b63ed6562c]: Textual amendment: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/1984/55/schedule/6/paragraph/12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-72ef74a0f3805857592a01b63ed6562c]: Textual amendment: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/1984/55/schedule/6/paragraph/12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c929821]: Marginal citation: [1971 c. 40](https://www.legislation.gov.uk/ukpga/1971/40).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Annual rate of surviving adult’s pensions payable on death of pensioner member[^key-ad6d0be6c136242fd0002212b767defb]
+## 82. Annual rate of surviving adult’s pensions payable on death of pensioner member[^c-ad6d0be6c136242fd0002212b767defb]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad6d0be6c136242fd0002212b767defb]: Commencement: Reg. 82 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-ad6d0be6c136242fd0002212b767defb]: Commencement: Reg. 82 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Extended sentences for certain violent or sexual offences: persons 18 or over[^key-aa187205d7de32c51cfc3e8a9c4ca1ce]
+## 15. Extended sentences for certain violent or sexual offences: persons 18 or over[^c-aa187205d7de32c51cfc3e8a9c4ca1ce]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa187205d7de32c51cfc3e8a9c4ca1ce]: Textual amendment: S. 15 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 21 para. 35(b)(i)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/21/paragraph/35/b/i); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(s)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/s)
+[^c-aa187205d7de32c51cfc3e8a9c4ca1ce]: Textual amendment: S. 15 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 21 para. 35(b)(i)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/21/paragraph/35/b/i); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(s)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/s)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. The Compulsory Purchase of Land (Prescribed Forms) (National Assembly for Wales) Regulations 2004[^key-767668a766b57336b6f2aafbdecc3e9f]
+## 26. The Compulsory Purchase of Land (Prescribed Forms) (National Assembly for Wales) Regulations 2004[^c-767668a766b57336b6f2aafbdecc3e9f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Compulsory Purchase of Land (Prescribed Forms) (National Assembly for Wales)
 
 ## Annotations
 
-[^key-767668a766b57336b6f2aafbdecc3e9f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2024/924/regulation/26) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-767668a766b57336b6f2aafbdecc3e9f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2024/924/regulation/26) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 2004/2732 (W. 239)](https://www.legislation.gov.uk/wsi/2004/2732), to which there are amendments not relevant to these Regulations.

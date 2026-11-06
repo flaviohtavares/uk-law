@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Assignment of numbered 700 MHz individual frequency lots by bidding[^key-006c1cebe250ebc2b015228643332a7b]
+## 62. Assignment of numbered 700 MHz individual frequency lots by bidding[^c-006c1cebe250ebc2b015228643332a7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Except where regulation 59 applies, the particular numbered 700 MHz individual f
 
 ## Annotations
 
-[^key-006c1cebe250ebc2b015228643332a7b]: Commencement: Reg. 62 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-006c1cebe250ebc2b015228643332a7b]: Commencement: Reg. 62 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 827. Excluded capital expenditure: subsequent treatment of asset[^key-ee24af62f87b39761b4caacfc38ebb8b]
+## 827. Excluded capital expenditure: subsequent treatment of asset[^c-ee24af62f87b39761b4caacfc38ebb8b]
 
 *Extent: E+W+S+N.I.*
 
 If a relevant individual incurs excluded capital expenditure in a relevant chargeable period, section 13 of CAA 2001 applies as if, on the first day of the first subsequent chargeable period which is not a relevant chargeable period—
 
-- (a) the individual brings into use for the provision of qualifying care[^key-010c6b35c1d62510751745dfa79c9183] such of the plant or machinery on which the expenditure was incurred as the individual still owns on that day, and
+- (a) the individual brings into use for the provision of qualifying care[^c-010c6b35c1d62510751745dfa79c9183] such of the plant or machinery on which the expenditure was incurred as the individual still owns on that day, and
 - (b) the individual owns the plant or machinery as a result of incurring capital expenditure on its provision for other purposes.
 
 ## Annotations
 
-[^key-ee24af62f87b39761b4caacfc38ebb8b]: Modification: Ss. 824-827 modified (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 37(2)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37/2) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-ee24af62f87b39761b4caacfc38ebb8b]: Modification: Ss. 824-827 modified (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 37(2)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37/2) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
 
-[^key-010c6b35c1d62510751745dfa79c9183]: Textual amendment: Words in s. 827(a) substituted (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/28) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-010c6b35c1d62510751745dfa79c9183]: Textual amendment: Words in s. 827(a) substituted (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/28) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

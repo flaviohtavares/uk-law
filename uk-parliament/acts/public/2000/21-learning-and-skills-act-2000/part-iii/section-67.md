@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Action plans following section 65 inspections.[^key-a7c7fba2f1a64a639291222afb719d7a]
+## 67. Action plans following section 65 inspections.[^c-a7c7fba2f1a64a639291222afb719d7a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7c7fba2f1a64a639291222afb719d7a]: Textual amendment: Ss. 52-72 repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 56](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/56), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
+[^c-a7c7fba2f1a64a639291222afb719d7a]: Textual amendment: Ss. 52-72 repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 56](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/56), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)

@@ -164,7 +164,7 @@ unless and to the extent that regulations under section 2 of the National Minimu
 - (a) any reference to a person qualifying for the national minimum wage includes a reference to a person being or becoming entitled to a minimum rate applicable under this Act; and
 - (b) any reference to a person qualifying for a particular rate of national minimum wage includes a reference to a person being or becoming entitled to a particular minimum rate applicable under this Act.
 
-(5)[^key-aaba23b96a254d249bfacc650824042d] Notwithstanding section 2(4) of the National Minimum Wage (Enforcement Notices) Act 2003, in subsection (2)(c) above, the reference to section 19 includes a reference to subsections (2A) and (2B) of that section.
+(5)[^c-aaba23b96a254d249bfacc650824042d] Notwithstanding section 2(4) of the National Minimum Wage (Enforcement Notices) Act 2003, in subsection (2)(c) above, the reference to section 19 includes a reference to subsections (2A) and (2B) of that section.
 
 ### 4. Enforcement of holidays orders.
 
@@ -183,7 +183,7 @@ he shall be liable on summary conviction in respect of each offence to a fine no
 
 (4)[^c628778] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Permits to infirm and incapacitated persons.[^key-7958209c8f0e3346d1a0633b05195456]
+### 5. Permits to infirm and incapacitated persons.[^c-7958209c8f0e3346d1a0633b05195456]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -275,7 +275,7 @@ he shall be liable on summary conviction to a fine not exceeding twenty pounds o
 
 (8) In subsection (7) of this section, “**the enforcement provisions of the National Minimum Wage Act 1998**” has the same meaning as in subsection (1) of section 3A of this Act.
 
-### 13. Annual Reports[^key-dfffd96aefde51a9f184cba537f9d5dd]
+### 13. Annual Reports[^c-dfffd96aefde51a9f184cba537f9d5dd]
 
 (1) The Board must, before such date as the Scottish Ministers may direct, prepare and send to the Scottish Ministers a report of the Board’s proceedings under this Act during the preceding year.
 
@@ -456,7 +456,7 @@ Section 18.
 
 [^c628766]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-aaba23b96a254d249bfacc650824042d]: Textual amendment: [S. 3A(5)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/3A/5) added (8.7.2003) by [Agricultural Wages (Scotland) Act 1949 Amendment Regulations 2003 (No. 283)](https://www.legislation.gov.uk/ssi/2003/283), [regs. 1](https://www.legislation.gov.uk/ssi/2003/283/regulation/1), [2](https://www.legislation.gov.uk/ssi/2003/283/regulation/2)
+[^c-aaba23b96a254d249bfacc650824042d]: Textual amendment: [S. 3A(5)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/3A/5) added (8.7.2003) by [Agricultural Wages (Scotland) Act 1949 Amendment Regulations 2003 (No. 283)](https://www.legislation.gov.uk/ssi/2003/283), [regs. 1](https://www.legislation.gov.uk/ssi/2003/283/regulation/1), [2](https://www.legislation.gov.uk/ssi/2003/283/regulation/2)
 
 [^c628769]: Modification: [S. 4(1)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/4/1) amended by [Employment Protection Act 1975 (c. 71, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1975/71), [s. 97](https://www.legislation.gov.uk/ukpga/1975/71/section/97), [Sch. 10 Pt. II para. 5](https://www.legislation.gov.uk/ukpga/1975/71/schedule/10/part/II/paragraph/5) and [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F) (increase of fines) and 289G (substitution of references to levels on the standard scale)
 
@@ -472,7 +472,7 @@ Section 18.
 
 [^c628778]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/4/4) repealed (1.4.1999) by [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39), [ss. 47](https://www.legislation.gov.uk/ukpga/1998/39/section/47), [53](https://www.legislation.gov.uk/ukpga/1998/39/section/53), [Sch. 2 Pt. II para. 14(d)](https://www.legislation.gov.uk/ukpga/1998/39/schedule/2/part/II/paragraph/14/d) (with [s. 36](https://www.legislation.gov.uk/ukpga/1998/39/section/36)); [S.I. 1999/685](https://www.legislation.gov.uk/uksi/1999/685), [art. 2](https://www.legislation.gov.uk/uksi/1999/685/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/685/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/685/article/3))
 
-[^key-7958209c8f0e3346d1a0633b05195456]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/5) repealed (1.10.2004) by [Agricultural Wages (Permits to Infirm and Incapacitated Persons) (Repeals) (Scotland) Regulations 2004 (No. 384)](https://www.legislation.gov.uk/ssi/2004/384), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/384/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2004/384/regulation/2)
+[^c-7958209c8f0e3346d1a0633b05195456]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/5) repealed (1.10.2004) by [Agricultural Wages (Permits to Infirm and Incapacitated Persons) (Repeals) (Scotland) Regulations 2004 (No. 384)](https://www.legislation.gov.uk/ssi/2004/384), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/384/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2004/384/regulation/2)
 
 [^c628840]: Textual amendment: [Ss. 1(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/1/2), [2](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/2), [6(1)–(4)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/6/1)(8), 8, 9(2), Sch. 2 repealed by [Agriculture (Miscellaneous Provisions) Act 1972 (c. 62)](https://www.legislation.gov.uk/ukpga/1972/62), [Sch. 6](https://www.legislation.gov.uk/ukpga/1972/62/schedule/6)
 
@@ -514,7 +514,7 @@ Section 18.
 
 [^c628871]: Textual amendment: [S. 12(7)(8)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/12/7/8) added (1.4.1999) by [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39), [s. 47](https://www.legislation.gov.uk/ukpga/1998/39/section/47), [Sch. 2 Pt. II para. 17(3)](https://www.legislation.gov.uk/ukpga/1998/39/schedule/2/part/II/paragraph/17/3) (with [s. 36](https://www.legislation.gov.uk/ukpga/1998/39/section/36)); [S.I. 1999/685](https://www.legislation.gov.uk/uksi/1999/685), [art. 2](https://www.legislation.gov.uk/uksi/1999/685/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/685/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/685/article/3))
 
-[^key-dfffd96aefde51a9f184cba537f9d5dd]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/13) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 2 para. 1(2)](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/2/paragraph/1/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2)
+[^c-dfffd96aefde51a9f184cba537f9d5dd]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/30/section/13) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 2 para. 1(2)](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/2/paragraph/1/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2)
 
 [^c628875]: Textual amendment: Words repealed by [Agriculture (Miscellaneous Provisions) Act 1972 (c. 62)](https://www.legislation.gov.uk/ukpga/1972/62), [Sch. 6](https://www.legislation.gov.uk/ukpga/1972/62/schedule/6)
 

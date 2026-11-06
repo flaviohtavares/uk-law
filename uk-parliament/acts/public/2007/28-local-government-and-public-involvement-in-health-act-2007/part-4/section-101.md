@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Consequential amendments[^key-d93ca3012411c0b8f4b6687fec5d3a4b]
+## 101. Consequential amendments[^c-d93ca3012411c0b8f4b6687fec5d3a4b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 5 (consequential amendments) has effect.
 
 ## Annotations
 
-[^key-d93ca3012411c0b8f4b6687fec5d3a4b]: Commencement: S. 101 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
+[^c-d93ca3012411c0b8f4b6687fec5d3a4b]: Commencement: S. 101 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)

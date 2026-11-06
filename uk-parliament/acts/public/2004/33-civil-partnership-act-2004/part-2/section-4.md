@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Parental etc. consent where proposed civil partner under 18[^key-8e5bc9819f161d848b38f06c0cc0ce90]
+## 4. Parental etc. consent where proposed civil partner under 18[^c-8e5bc9819f161d848b38f06c0cc0ce90]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e5bc9819f161d848b38f06c0cc0ce90]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2004/33/section/4) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2022/28/section/3/3), [7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))
+[^c-8e5bc9819f161d848b38f06c0cc0ce90]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2004/33/section/4) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2022/28/section/3/3), [7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Crown application[^key-18fa45c762548b1949326b81b08d3d93]
+## 33. Crown application[^c-18fa45c762548b1949326b81b08d3d93]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Act, except section 18, binds the Crown.
 
 ## Annotations
 
-[^key-18fa45c762548b1949326b81b08d3d93]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2004/11/section/33) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-18fa45c762548b1949326b81b08d3d93]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2004/11/section/33) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

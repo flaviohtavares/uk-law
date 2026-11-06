@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Relevant period in a dumping investigation[^key-fd4bcc1b0c69e0b4cf0ca36b6a223591]
+## 91. Relevant period in a dumping investigation[^c-fd4bcc1b0c69e0b4cf0ca36b6a223591]
 
 *Extent: E+W+S+N.I.*
 
-(1) The TRA may recommend that an anti-dumping amount should apply to goods from the relevant date specified in paragraph 19(3)(a)[^key-fc4e4145502aa40e71bacfa55699e5f0] of Schedule 4 to the Act where paragraph (2) applies.
+(1) The TRA may recommend that an anti-dumping amount should apply to goods from the relevant date specified in paragraph 19(3)(a)[^c-fc4e4145502aa40e71bacfa55699e5f0] of Schedule 4 to the Act where paragraph (2) applies.
 
-(1A)[^key-3ef3d8020c026321bea77c192f99e3bd] The TRA may recommend that an anti-dumping amount should apply to goods from the relevant date specified in paragraph 19(3)(b) of Schedule 4 to the Act where in an anti-dumping investigation—
+(1A)[^c-3ef3d8020c026321bea77c192f99e3bd] The TRA may recommend that an anti-dumping amount should apply to goods from the relevant date specified in paragraph 19(3)(b) of Schedule 4 to the Act where in an anti-dumping investigation—
 
 - (a) a final determination of injury is made (but not a threat of injury or material retardation of the establishment of an industry), or
 - (b) a final determination of a threat of injury is made, and the TRA determines that injury would have occurred in the absence of provisional measures.
@@ -35,14 +35,14 @@ summary: ''
 
 (3) Before making the recommendation in paragraph (1), the TRA must allow importers to submit any evidence they consider relevant.
 
-(4)[^key-621f5166e5d2314613c8755b22384c70] The TRA may recommend that the anti-dumping amount to be applied during all or part of the relevant period is the same or less than the anti-dumping amount determined in the final affirmative determination, provided that the anti-dumping amount applied during the relevant period does not exceed the estimated anti-dumping amount as specified in paragraph 13(3)(a) of Schedule 4 to the Act.
+(4)[^c-621f5166e5d2314613c8755b22384c70] The TRA may recommend that the anti-dumping amount to be applied during all or part of the relevant period is the same or less than the anti-dumping amount determined in the final affirmative determination, provided that the anti-dumping amount applied during the relevant period does not exceed the estimated anti-dumping amount as specified in paragraph 13(3)(a) of Schedule 4 to the Act.
 
 ## Annotations
 
-[^key-fd4bcc1b0c69e0b4cf0ca36b6a223591]: Commencement: Reg. 91 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-fd4bcc1b0c69e0b4cf0ca36b6a223591]: Commencement: Reg. 91 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-fc4e4145502aa40e71bacfa55699e5f0]: Textual amendment: Words in [reg. 91(1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/91/1) substituted (22.3.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) Regulations 2023 (S.I. 2023/222)](https://www.legislation.gov.uk/uksi/2023/222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/222/regulation/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2023/222/regulation/3/1/a)
+[^c-fc4e4145502aa40e71bacfa55699e5f0]: Textual amendment: Words in [reg. 91(1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/91/1) substituted (22.3.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) Regulations 2023 (S.I. 2023/222)](https://www.legislation.gov.uk/uksi/2023/222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/222/regulation/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2023/222/regulation/3/1/a)
 
-[^key-3ef3d8020c026321bea77c192f99e3bd]: Textual amendment: [Reg. 91(1A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/91/1A) inserted (22.3.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) Regulations 2023 (S.I. 2023/222)](https://www.legislation.gov.uk/uksi/2023/222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/222/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2023/222/regulation/3/1/b)
+[^c-3ef3d8020c026321bea77c192f99e3bd]: Textual amendment: [Reg. 91(1A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/91/1A) inserted (22.3.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) Regulations 2023 (S.I. 2023/222)](https://www.legislation.gov.uk/uksi/2023/222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/222/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2023/222/regulation/3/1/b)
 
-[^key-621f5166e5d2314613c8755b22384c70]: Textual amendment: [Reg. 91(4)](https://www.legislation.gov.uk/uksi/2019/450/regulation/91/4) inserted (22.3.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) Regulations 2023 (S.I. 2023/222)](https://www.legislation.gov.uk/uksi/2023/222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/222/regulation/1/2), [3(1)(c)](https://www.legislation.gov.uk/uksi/2023/222/regulation/3/1/c)
+[^c-621f5166e5d2314613c8755b22384c70]: Textual amendment: [Reg. 91(4)](https://www.legislation.gov.uk/uksi/2019/450/regulation/91/4) inserted (22.3.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) Regulations 2023 (S.I. 2023/222)](https://www.legislation.gov.uk/uksi/2023/222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/222/regulation/1/2), [3(1)(c)](https://www.legislation.gov.uk/uksi/2023/222/regulation/3/1/c)

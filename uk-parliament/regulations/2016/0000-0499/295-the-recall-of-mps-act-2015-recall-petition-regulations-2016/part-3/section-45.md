@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Orders for production of documents: England and Wales and Northern Ireland[^key-1ad5c53a81f56c7aa2efa911cda9e2b4]
+## 45. Orders for production of documents: England and Wales and Northern Ireland[^c-1ad5c53a81f56c7aa2efa911cda9e2b4]
 
 *Extent: E+W+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1A)[^key-c6f73f39af0a87dd7d2734960249e6f5] In respect of a petition held in England or Wales, an order may be made by the bodies and in the circumstances described in paragraph (2)—
+(1A)[^c-c6f73f39af0a87dd7d2734960249e6f5] In respect of a petition held in England or Wales, an order may be made by the bodies and in the circumstances described in paragraph (2)—
 
 - (a) for the opening of the sealed packet containing a completed signing sheet refusal list, or
 - (b) for the inspection or production of that list.
@@ -74,6 +74,6 @@ is to be prima facie evidence that the elector whose signature was given by that
 
 ## Annotations
 
-[^key-1ad5c53a81f56c7aa2efa911cda9e2b4]: Commencement: Reg. 45 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-1ad5c53a81f56c7aa2efa911cda9e2b4]: Commencement: Reg. 45 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-c6f73f39af0a87dd7d2734960249e6f5]: Textual amendment: Reg. 45(1A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [84](https://www.legislation.gov.uk/uksi/2022/1382/regulation/84) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-c6f73f39af0a87dd7d2734960249e6f5]: Textual amendment: Reg. 45(1A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [84](https://www.legislation.gov.uk/uksi/2022/1382/regulation/84) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

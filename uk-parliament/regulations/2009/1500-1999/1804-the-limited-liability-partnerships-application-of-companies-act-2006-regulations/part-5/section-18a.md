@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**18A.**[^key-2c5db953fd8bcf353a4eb1cf76a2ae17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18A.**[^c-2c5db953fd8bcf353a4eb1cf76a2ae17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2c5db953fd8bcf353a4eb1cf76a2ae17]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/18A) omitted (18.11.2025) by virtue of [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/6/4) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-2c5db953fd8bcf353a4eb1cf76a2ae17]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/18A) omitted (18.11.2025) by virtue of [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/6/4) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Effect of contracting out.[^key-3a6dec975d4745419bcefa62173ea23d][^key-af371ea49afe63b32faa4861c76670c9]
+## 72. Effect of contracting out.[^c-3a6dec975d4745419bcefa62173ea23d][^c-af371ea49afe63b32faa4861c76670c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a6dec975d4745419bcefa62173ea23d]: Modification: S. 72 applied by 1998 c. 37, s. 1F(7)(a) (as inserted (E.W.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 142(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/142/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(s)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/s))
+[^c-3a6dec975d4745419bcefa62173ea23d]: Modification: S. 72 applied by 1998 c. 37, s. 1F(7)(a) (as inserted (E.W.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 142(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/142/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(s)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/s))
 
-[^key-af371ea49afe63b32faa4861c76670c9]: Modification: S. 72 applied by 2003 c. 38, s. 28A(7) (as inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 25](https://www.legislation.gov.uk/ukpga/2006/48/section/25), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a))
+[^c-af371ea49afe63b32faa4861c76670c9]: Modification: S. 72 applied by 2003 c. 38, s. 28A(7) (as inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 25](https://www.legislation.gov.uk/ukpga/2006/48/section/25), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a))

@@ -28,11 +28,11 @@ summary: ''
 
 (4) In preparing, maintaining and reviewing the statement, the administering authority must have regard to—
 
-- (a)[^key-957e44e35e7544a7b298ecdcae79889d] guidance issued by the Secretary of State from time to time, and
-- (b)[^key-b97bfa3452df86c9462b4d28f1395b45] the current version of the investment strategy statement published under regulation 13 (publication of investment strategy), or the revised investment strategy statement published under regulation 15 (review of investment strategy), of the Local Government Pension Scheme (Pooling, Management and Investment of Funds) Regulations 2026.
+- (a)[^c-957e44e35e7544a7b298ecdcae79889d] guidance issued by the Secretary of State from time to time, and
+- (b)[^c-b97bfa3452df86c9462b4d28f1395b45] the current version of the investment strategy statement published under regulation 13 (publication of investment strategy), or the revised investment strategy statement published under regulation 15 (review of investment strategy), of the Local Government Pension Scheme (Pooling, Management and Investment of Funds) Regulations 2026.
 
 ## Annotations
 
-[^key-957e44e35e7544a7b298ecdcae79889d]: Textual amendment: [Reg. 58(4)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/58/4/a) substituted (30.6.2026) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2026 (S.I. 2026/545)](https://www.legislation.gov.uk/uksi/2026/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/545/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/545/regulation/7)
+[^c-957e44e35e7544a7b298ecdcae79889d]: Textual amendment: [Reg. 58(4)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/58/4/a) substituted (30.6.2026) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2026 (S.I. 2026/545)](https://www.legislation.gov.uk/uksi/2026/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/545/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/545/regulation/7)
 
-[^key-b97bfa3452df86c9462b4d28f1395b45]: Textual amendment: [Reg. 58(4)(b)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/58/4/b) substituted (30.6.2026) by [The Local Government Pension Scheme (Pooling, Management and Investment of Funds) Regulations 2026 (S.I. 2026/544)](https://www.legislation.gov.uk/uksi/2026/544), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/544/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2026/544/regulation/21/3) (with [reg. 24](https://www.legislation.gov.uk/uksi/2026/544/regulation/24))
+[^c-b97bfa3452df86c9462b4d28f1395b45]: Textual amendment: [Reg. 58(4)(b)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/58/4/b) substituted (30.6.2026) by [The Local Government Pension Scheme (Pooling, Management and Investment of Funds) Regulations 2026 (S.I. 2026/544)](https://www.legislation.gov.uk/uksi/2026/544), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/544/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2026/544/regulation/21/3) (with [reg. 24](https://www.legislation.gov.uk/uksi/2026/544/regulation/24))

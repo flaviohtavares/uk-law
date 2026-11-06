@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Deciding which incidents to investigate[^key-955f534f59b1d6f09fc3f472603c23fe][^key-60eb0c9af321e9d0b04cf1e1953b1786]
+## 111. Deciding which incidents to investigate[^c-955f534f59b1d6f09fc3f472603c23fe][^c-60eb0c9af321e9d0b04cf1e1953b1786]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-955f534f59b1d6f09fc3f472603c23fe]: Commencement: S. 111 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-955f534f59b1d6f09fc3f472603c23fe]: Commencement: S. 111 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-60eb0c9af321e9d0b04cf1e1953b1786]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2022/31/section/111) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-60eb0c9af321e9d0b04cf1e1953b1786]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2022/31/section/111) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

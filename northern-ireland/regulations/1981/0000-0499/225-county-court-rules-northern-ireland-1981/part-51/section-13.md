@@ -37,7 +37,7 @@ summary: ''
 
 (4) The period required to be prescribed for the purpose of section 11(2) of the Act shall be 14 days.
 
-(5) The chief clerk shall send the certified copy of the maintenance order, as required by the said section 11(2), to the clerk of petty sessions [^key-ff25477fa99e10c6339cd32bcd68e28d]... indorsed with a note that the application for registration of the maintenance order has been granted and to be accompanied by a copy of the affidavit or statement lodged under paragraph (1) or (3), as the case may be.
+(5) The chief clerk shall send the certified copy of the maintenance order, as required by the said section 11(2), to the clerk of petty sessions [^c-ff25477fa99e10c6339cd32bcd68e28d]... indorsed with a note that the application for registration of the maintenance order has been granted and to be accompanied by a copy of the affidavit or statement lodged under paragraph (1) or (3), as the case may be.
 
 (6) On receipt of notice that a maintenance order made by a county court has been registered in a court of summary jurisdiction in accordance with section 11(5) of the Act the chief clerk shall enter particulars of the registration in the court minutes.
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^f00433]: Footnote: Words amended by [S.R. 2013 No. 19](https://www.legislation.gov.uk/nisr/2013/19) with effect from 25.02.13
 
-[^key-ff25477fa99e10c6339cd32bcd68e28d]: Textual amendment: Words in Order 51 rule 13(5) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(20)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/20); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-ff25477fa99e10c6339cd32bcd68e28d]: Textual amendment: Words in Order 51 rule 13(5) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(20)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/20); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

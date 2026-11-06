@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Crown application[^key-0518c56679cbfd8e1b3be18f4af9e038]
+## 56. Crown application[^c-0518c56679cbfd8e1b3be18f4af9e038]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0518c56679cbfd8e1b3be18f4af9e038]: Commencement: S. 56 not in force at Royal Assent, see [s. 133(4)(f)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/f)
+[^c-0518c56679cbfd8e1b3be18f4af9e038]: Commencement: S. 56 not in force at Royal Assent, see [s. 133(4)(f)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/f)

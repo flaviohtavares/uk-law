@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Llanarth and Clytha -- change in community ward boundaries and consequential change to electoral wards[^key-5869510620a92a84b71b3baabaaacab8][^key-ef9f47780906f171782470f7721c53e2]
+## 123. Llanarth and Clytha -- change in community ward boundaries and consequential change to electoral wards[^c-5869510620a92a84b71b3baabaaacab8][^c-ef9f47780906f171782470f7721c53e2]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The part of the Clytha ward of the community of Llanarth shown hatched on Map 94
 
 ## Annotations
 
-[^key-5869510620a92a84b71b3baabaaacab8]: Commencement: Art. 123 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-5869510620a92a84b71b3baabaaacab8]: Commencement: Art. 123 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-ef9f47780906f171782470f7721c53e2]: Commencement: [Art. 123](https://www.legislation.gov.uk/wsi/2021/1227/article/123) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-ef9f47780906f171782470f7721c53e2]: Commencement: [Art. 123](https://www.legislation.gov.uk/wsi/2021/1227/article/123) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

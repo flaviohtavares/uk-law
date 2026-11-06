@@ -16,30 +16,30 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX VIII — METHODOLOGY CONCERNING THE SPECIFIC ALLOCATION FOR THE YEI REFERRED TO IN ARTICLE 91[^key-0c2c4dbd244f5879225a62298b2180b7]
+## ANNEX VIII — METHODOLOGY CONCERNING THE SPECIFIC ALLOCATION FOR THE YEI REFERRED TO IN ARTICLE 91[^c-0c2c4dbd244f5879225a62298b2180b7]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-0c2c4dbd244f5879225a62298b2180b7]I.
+[^c-0c2c4dbd244f5879225a62298b2180b7]I.
 
 The breakdown of the specific allocation for the YEI shall be determined in accordance with the following steps:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c2c4dbd244f5879225a62298b2180b7]II.
+[^c-0c2c4dbd244f5879225a62298b2180b7]II.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c2c4dbd244f5879225a62298b2180b7]III.
+[^c-0c2c4dbd244f5879225a62298b2180b7]III.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c2c4dbd244f5879225a62298b2180b7]IV.
+[^c-0c2c4dbd244f5879225a62298b2180b7]IV.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c2c4dbd244f5879225a62298b2180b7]: Textual amendment: Annexes 6-10 omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/785/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c2c4dbd244f5879225a62298b2180b7]: Textual amendment: Annexes 6-10 omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/785/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

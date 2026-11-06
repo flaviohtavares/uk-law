@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Revocation, suspension and variation of certificates, licences and other documents[^key-d5f886c864968b4a7a1df3333e32289f]
+## 144. Revocation, suspension and variation of certificates, licences and other documents[^c-d5f886c864968b4a7a1df3333e32289f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5f886c864968b4a7a1df3333e32289f]: Commencement: [Art. 144](https://www.legislation.gov.uk/uksi/2015/870/article/144) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-d5f886c864968b4a7a1df3333e32289f]: Commencement: [Art. 144](https://www.legislation.gov.uk/uksi/2015/870/article/144) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

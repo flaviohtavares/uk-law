@@ -22,7 +22,7 @@ summary: ''
 
 Section 18
 
-**1.**[^key-f008b1ffe4174e3735a4c8d1ea5fc23e] (1) Part 42 of the Companies Act 2006 (statutory auditors) applies in relation to local audits as it applies in relation to statutory audits within the meaning of that Part, subject to—
+**1.**[^c-f008b1ffe4174e3735a4c8d1ea5fc23e] (1) Part 42 of the Companies Act 2006 (statutory auditors) applies in relation to local audits as it applies in relation to statutory audits within the meaning of that Part, subject to—
 
 - (a) the general modifications to that Part in paragraph 2, and
 - (b) the specific modifications to that Part in the rest of this Schedule.
@@ -32,12 +32,12 @@ Section 18
 - a “**local audit**” means an audit under this Act of the accounts of a relevant authority;
 - “**local audit work**” means work in connection with such audits.
 
-(3)[^key-ded0c5a38e9e7cea1070ac12b26b6ac5] The reference in sub-paragraph (1) to Part 42 of the Companies Act 2006—
+(3)[^c-ded0c5a38e9e7cea1070ac12b26b6ac5] The reference in sub-paragraph (1) to Part 42 of the Companies Act 2006—
 
 - (a) includes sections 1288, 1289, 1290 and 1292 of that Act (regulations and orders) as they apply in relation to that Part;
-- (b) does not include the amendments made to that Part by the Statutory Auditors and Third Country Auditors Regulations 2016 and the Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019[^key-b526bdcb398642b77e6d03e47e9a0a60].
+- (b) does not include the amendments made to that Part by the Statutory Auditors and Third Country Auditors Regulations 2016 and the Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019[^c-b526bdcb398642b77e6d03e47e9a0a60].
 
-**2.**[^key-4cb7924e8561535ab04e2142771b68b1] (1) The general modifications are that—
+**2.**[^c-4cb7924e8561535ab04e2142771b68b1] (1) The general modifications are that—
 
 - (a) references to a statutory auditor are to a local auditor,
 - (b) references to an audited person are to a relevant authority,
@@ -50,7 +50,7 @@ Section 18
 - (a) is treated as forming part of Part 42 of the Companies Act 2006 by virtue of any of the following provisions of this Schedule, and
 - (b) provides for an expression listed in sub-paragraph (1) to have the meaning it would have under that Part apart from its application by virtue of this Schedule.
 
-**3.**[^key-48b99b6e698b4e406ff6b3e6c22f3654] Omit the following provisions—
+**3.**[^c-48b99b6e698b4e406ff6b3e6c22f3654] Omit the following provisions—
 
 - (a) Chapter 1 (introductory);
 - (b) sections 1220 (qualifying bodies and recognised professional qualifications), 1221 (approval of third country qualifications) and 1222 (eligibility of individuals retaining only 1967 Act authorisation);
@@ -65,13 +65,13 @@ Section 18
 - (k) Schedule 12 (arrangements in which registered third country auditors are required to participate);
 - (l) Schedule 14 (statutory auditors: consequential amendments).
 
-**4.**[^key-977689375d18c80f8839c27b38c38205] In section 1212 (individuals and firms: eligibility for appointment as a statutory auditor) omit subsection (2).
+**4.**[^c-977689375d18c80f8839c27b38c38205] In section 1212 (individuals and firms: eligibility for appointment as a statutory auditor) omit subsection (2).
 
-**5.**[^key-bcec7199003418492e4bb9b3141d5c9a] For section 1214 (independence requirement) substitute—
+**5.**[^c-bcec7199003418492e4bb9b3141d5c9a] For section 1214 (independence requirement) substitute—
 
 > **1214. Independence requirement**
 >
-> (1) A person (“P”) may not act as local auditor of the accounts of a relevant authority if one or more of subsections (2), [^key-4b4fdc1853ca2fc7735f54d3325c2996]... (3A),[^key-2bf0d3ebf16d92b0c1da5cb5e8b3bb83] (4) and (5) apply to P.
+> (1) A person (“P”) may not act as local auditor of the accounts of a relevant authority if one or more of subsections (2), [^c-4b4fdc1853ca2fc7735f54d3325c2996]... (3A),[^c-2bf0d3ebf16d92b0c1da5cb5e8b3bb83] (4) and (5) apply to P.
 >
 > (2) This subsection applies if—
 >
@@ -79,9 +79,9 @@ Section 18
 > - (b) where the relevant authority is a corporation sole, P is the holder of that office, or
 > - (c) P is a partner or employee of a person within paragraph (a) or (b), or a partnership of which such a person is a partner.
 >
-> (3)[^key-cdc3aab4d9091558cd7879e19c3b0690] In relation to a relevant authority that is an integrated care board, subsection (2)(a) has effect as if “or officer” were omitted.
+> (3)[^c-cdc3aab4d9091558cd7879e19c3b0690] In relation to a relevant authority that is an integrated care board, subsection (2)(a) has effect as if “or officer” were omitted.
 >
-> (3A)[^key-2da198be4326dfd44ef7e1daed29600a] This subsection applies if—
+> (3A)[^c-2da198be4326dfd44ef7e1daed29600a] This subsection applies if—
 >
 > - (a) the relevant authority is an NHS trust, and
 > - (b) P is a director of that NHS trust.
@@ -104,20 +104,20 @@ Section 18
 >
 > (7) Regulations under subsection (6) are subject to negative resolution procedure.
 
-**6.**[^key-cff70d10b2b054c4e5956969c047fe4c] In section 1215 (effect of lack of independence) omit subsections (2) to (7).
+**6.**[^c-cff70d10b2b054c4e5956969c047fe4c] In section 1215 (effect of lack of independence) omit subsections (2) to (7).
 
-**7.**[^key-ad1e21efafc47925c6a0a4e0615a16c1] In section 1216 (effect of appointment of a partnership), after subsection (5) insert—
+**7.**[^c-ad1e21efafc47925c6a0a4e0615a16c1] In section 1216 (effect of appointment of a partnership), after subsection (5) insert—
 
 > (5A) The consent or agreement of a parish meeting under subsection (5) must be given by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
 
-**8.**[^key-fe265f66d2d506e186029c23ba85b5f1] In section 1217 (supervisory bodies), for subsection (1A) substitute—
+**8.**[^c-fe265f66d2d506e186029c23ba85b5f1] In section 1217 (supervisory bodies), for subsection (1A) substitute—
 
 > (1A) The rules referred to in paragraph 9(3)(b) (confidentiality of information) of Schedule 10 must also be binding on persons who—
 >
 > - (a) have sought appointment or acted as a local auditor, and
 > - (b) have been members of the body at any time after the commencement of Schedule 5 to the Local Audit and Accountability Act 2014.
 
-**9.**[^key-dc75e8af04dc0f20ff88982e94bc1af7] For section 1219 (appropriate qualifications) substitute—
+**9.**[^c-dc75e8af04dc0f20ff88982e94bc1af7] For section 1219 (appropriate qualifications) substitute—
 
 > **1219. Appropriate qualifications**
 >
@@ -185,7 +185,7 @@ Section 18
 >
 > (13) In this Part “**recognised qualifying body**” means a qualifying body offering a recognised professional qualification.
 
-**10.**[^key-2f01542696c3a972dd9b9f7a4b5e6e27] After section 1224 insert—
+**10.**[^c-2f01542696c3a972dd9b9f7a4b5e6e27] After section 1224 insert—
 
 > **1224ZA. Provision of documents to the Secretary of State**
 >
@@ -200,17 +200,17 @@ Section 18
 > - (b) a body designated by order under section 1252 (delegation of Secretary of State's functions under this Part), and
 > - (c) a recognised supervisory body.
 
-**11.**[^key-e896596a4b8b399db1033054ba0e0bc9] (1) Section 1225 (enforcement: general) applies with the following modifications.
+**11.**[^c-e896596a4b8b399db1033054ba0e0bc9] (1) Section 1225 (enforcement: general) applies with the following modifications.
 
 (2) In subsection (1)(b), for “any requirement of Part 2 of Schedule 11 is not satisfied” substitute “ any requirement under regulations under section 1219 applying to the qualification is not satisfied ”.
 
 (3) In subsection (3), for “paragraph 3 of Schedule 11 (revocation of recognition orders)” substitute “ any power of the Secretary of State to make a revocation order under regulations under section 1219 ”.
 
-**12.**[^key-430a5f0c1733ca52c66e2ced836f3043] In section 1225C(3) (compliance orders) omit “or, in Scotland, the Court of Session”.
+**12.**[^c-430a5f0c1733ca52c66e2ced836f3043] In section 1225C(3) (compliance orders) omit “or, in Scotland, the Court of Session”.
 
-**13.**[^key-5a2d8c4477f1a12200fddfc439ef5eb5] In section 1225F(10) (appeals against financial penalties) omit “or, in Scotland, the Court of Session”.
+**13.**[^c-5a2d8c4477f1a12200fddfc439ef5eb5] In section 1225F(10) (appeals against financial penalties) omit “or, in Scotland, the Court of Session”.
 
-**14.**[^key-a6ffa1ae7da0c2a3a6bc706a219a183e] (1) Section 1239 (the register of auditors) applies with the following modifications.
+**14.**[^c-a6ffa1ae7da0c2a3a6bc706a219a183e] (1) Section 1239 (the register of auditors) applies with the following modifications.
 
 (2) In subsection (1) omit paragraph (b) and the “and” preceding it.
 
@@ -247,9 +247,9 @@ Section 18
 
 > (9A) References in subsections (4A) and (5) to this Part or a provision of this Part in its original form are to this Part or that provision as it has effect apart from its application by virtue of Schedule 5 to the Local Audit and Accountability Act 2014.
 
-**15.**[^key-96b041e88d80e1da552656a1386e8fad] In section 1240(1)(b) (information to be made available to public), for “audit work” substitute “ local audit work ”.
+**15.**[^c-96b041e88d80e1da552656a1386e8fad] In section 1240(1)(b) (information to be made available to public), for “audit work” substitute “ local audit work ”.
 
-**16.**[^key-e725be95a09a218c10cae8eee89106bb] For section 1248 (Secretary of State's power to require second audit of company) substitute—
+**16.**[^c-e725be95a09a218c10cae8eee89106bb] For section 1248 (Secretary of State's power to require second audit of company) substitute—
 
 > **1248. Secretary of State's power to require second audit**
 >
@@ -279,7 +279,7 @@ Section 18
 >
 > (7) A person appointed under this section to conduct a second audit of the accounts of a parish meeting, or to review and report on the first audit of such accounts, must be appointed by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
 
-**17.**[^key-ac2441944bd0b40a33de7ca1f0885642] For section 1249 (supplementary provision about second audits) substitute—
+**17.**[^c-ac2441944bd0b40a33de7ca1f0885642] For section 1249 (supplementary provision about second audits) substitute—
 
 > **1249. Supplementary provisions about second audits**
 >
@@ -289,7 +289,7 @@ Section 18
 >
 > (2) Where a second audit is carried out under section 1248, any statutory or other provision applying in relation to the first audit applies also, in so far as practicable, in relation to the second audit.
 
-**18.**[^key-35d0055e3153205e8f05991044696bbf] (1) Section 1250 (misleading, false and deceptive statements) applies with the following modifications.
+**18.**[^c-35d0055e3153205e8f05991044696bbf] (1) Section 1250 (misleading, false and deceptive statements) applies with the following modifications.
 
 (2) Omit subsection (3).
 
@@ -306,7 +306,7 @@ Section 18
 
 (5) In each of subsections (7) and (8) omit “, (3)”.
 
-**19.**[^key-867cc142fc0beda3b035a92a81d92956] (1) Section 1251 (fees) applies with the following modifications.
+**19.**[^c-867cc142fc0beda3b035a92a81d92956] (1) Section 1251 (fees) applies with the following modifications.
 
 (2) In subsection (1), after “a recognition order under this Part” insert “ or under regulations under this Part ”.
 
@@ -315,9 +315,9 @@ Section 18
 - (a) at the end of paragraph (a) insert “ and ”, and
 - (b) omit paragraphs (c) and (d).
 
-**20.**[^key-fa0ac7333fe60f95c4dd76f0df2ca082] In section 1251A (duty of Secretary of State to report on inspections) omit paragraph (a).
+**20.**[^c-fa0ac7333fe60f95c4dd76f0df2ca082] In section 1251A (duty of Secretary of State to report on inspections) omit paragraph (a).
 
-**21.**[^key-80d5dbeabb22a4cea57cb02813ec9073] (1) Section 1252 (delegation of the Secretary of State's functions) applies with the following modifications.
+**21.**[^c-80d5dbeabb22a4cea57cb02813ec9073] (1) Section 1252 (delegation of the Secretary of State's functions) applies with the following modifications.
 
 (2) For subsection (3) substitute—
 
@@ -331,24 +331,24 @@ Section 18
 
 (5) Omit subsection (7).
 
-**22.**[^key-dee00ae68a31326c1a4e475589e4fd2e] In section 1253(5) (delegation of functions to an existing body)—
+**22.**[^c-dee00ae68a31326c1a4e475589e4fd2e] In section 1253(5) (delegation of functions to an existing body)—
 
 - (a) for “to 22B” substitute “ , 22 ”,
 - (b) omit “, 23A(1)”, and
 - (c) omit “or paragraph 1 or 2 of Schedule 12”.
 
-**23.**[^key-8047406bde5bdbc229daea7a2abcc2e3] (1) Section 1254 (directions to comply with international obligations) applies with the following modifications.
+**23.**[^c-8047406bde5bdbc229daea7a2abcc2e3] (1) Section 1254 (directions to comply with international obligations) applies with the following modifications.
 
-(2) In subsection (1)(a)[^key-ca3677be1f795cc6c845a36cfa8b30d9]—
+(2) In subsection (1)(a)[^c-ca3677be1f795cc6c845a36cfa8b30d9]—
 
-- (a)[^key-4e5af72102906190b260cd1157661668] omit “, the Independent Supervisor” , and[^key-b67eb1baf875252415066a75c6a8fddf]
-- (b) for “EU obligations” substitute assimilated[^key-1c0a2d1d5b610eb1be0acadf2aed3f52] obligations”.
+- (a)[^c-4e5af72102906190b260cd1157661668] omit “, the Independent Supervisor” , and[^c-b67eb1baf875252415066a75c6a8fddf]
+- (b) for “EU obligations” substitute assimilated[^c-1c0a2d1d5b610eb1be0acadf2aed3f52] obligations”.
 
 (3) For subsection (3) substitute—
 
 > (3) A direction under this section given to a body designated by order under section 1252 is enforceable on the application of the Secretary of State by injunction.
 
-**24.**[^key-d6076eae3056d5816fecd73c110f6908] (1) Section 1256 (time limits for prosecution of offences) applies with the following modifications.
+**24.**[^c-d6076eae3056d5816fecd73c110f6908] (1) Section 1256 (time limits for prosecution of offences) applies with the following modifications.
 
 (2) In subsection (1) omit “in England and Wales”.
 
@@ -362,13 +362,13 @@ Section 18
 
 (6) In subsection (7) omit the words from “, section 331” to the end.
 
-**25.**[^key-e39907f327063856d6751f02ff1db32b] (1) Section 1257 (jurisdiction and procedure in respect of offences) applies with the following modifications.
+**25.**[^c-e39907f327063856d6751f02ff1db32b] (1) Section 1257 (jurisdiction and procedure in respect of offences) applies with the following modifications.
 
 (2) In subsection (1), in each of paragraphs (a) and (b), after “at any place” insert “ in England and Wales ”.
 
 (3) Omit subsections (4) and (5).
 
-**26.**[^key-89dfb7cfff89c053de63587c887bf7bb] (1) Section 1261 (minor definitions) applies with the following modifications.
+**26.**[^c-89dfb7cfff89c053de63587c887bf7bb] (1) Section 1261 (minor definitions) applies with the following modifications.
 
 (2) In subsection (1) omit the following definitions—
 
@@ -380,10 +380,10 @@ Section 18
 - “third country competent authority”;
 - “transfer”.
 
-(3) In subsection (1) —[^key-bce366f3e8cc065c18dc0580d5fd04c8]
+(3) In subsection (1) —[^c-bce366f3e8cc065c18dc0580d5fd04c8]
 
-- (a) in the definition of “EEA competent authority”, omit “other than the United Kingdom”, [^key-c50ebece024af1ee4a0a82af005a7aa9]...
-- (b) in the definition of “officer”, after “a body corporate” insert “ other than a relevant authority ” and[^key-afcee0db016a6782a1c17c7d56bc99dc]
+- (a) in the definition of “EEA competent authority”, omit “other than the United Kingdom”, [^c-c50ebece024af1ee4a0a82af005a7aa9]...
+- (b) in the definition of “officer”, after “a body corporate” insert “ other than a relevant authority ” and[^c-afcee0db016a6782a1c17c7d56bc99dc]
 - (c) after the definition of “officer”, insert—
 
   > - “**specified state**” means one of the states specified in Schedule 1 to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023;
@@ -395,9 +395,9 @@ Section 18
 
 > (1A) Expressions used in this Part that are defined in the Local Audit and Accountability Act 2014 have the same meaning as in that Act.
 
-(5)[^key-615d2fa02664c8d0e57bb7feb306b289] In subsection (2A), after “EEA State” insert “and subject to the Audit Directive.”.
+(5)[^c-615d2fa02664c8d0e57bb7feb306b289] In subsection (2A), after “EEA State” insert “and subject to the Audit Directive.”.
 
-**27.**[^key-97871dd2054e47225e1d50ee8d553a5a] (1) Section 1262 (index of defined expressions) applies with the following modifications.
+**27.**[^c-97871dd2054e47225e1d50ee8d553a5a] (1) Section 1262 (index of defined expressions) applies with the following modifications.
 
 (2) Omit the following entries—
 
@@ -432,7 +432,7 @@ Section 18
 > | “parish meeting | section 44(1) of the Local Audit and Accountability Act 2014”; |
 > | “recognised qualifying body | section 1219(13)”; |
 > | “relevant authority | section 2(1) of the Local Audit and Accountability Act 2014 |
-> | “specified state”[^key-6969052f7d8d032cd7644dc79c597e34] | section 1261(1) |
+> | “specified state”[^c-6969052f7d8d032cd7644dc79c597e34] | section 1261(1) |
 > | “specified state auditor” | section 1261(1) |
 
 .
@@ -449,7 +449,7 @@ Section 18
 
 .
 
-**28.**[^key-7cc235c8d8c94d3c597558332f5ad423] (1) Schedule 10 (recognised supervisory bodies) applies with the following modifications.
+**28.**[^c-7cc235c8d8c94d3c597558332f5ad423] (1) Schedule 10 (recognised supervisory bodies) applies with the following modifications.
 
 (2) Omit the following paragraphs—
 
@@ -467,8 +467,8 @@ Section 18
 > **6.** (1) The body must have rules to the effect that an individual is not eligible for appointment as a local auditor unless the individual—
 >
 > - (a) holds an appropriate qualification,
-> - (b) is an EEA auditor who has passed an aptitude test in accordance with sub-paragraph (3) on or before 31 December 2020[^key-0b5637f8352ca34e3516c910066f54a4], unless an aptitude test is not required (see sub-paragraph (4)[^key-2f4466406e9a1b8d1c4b16d903f47734]), [^key-be2e300bb40cb51a22b633ca49c2be27]...
-> - (ba)[^key-ff9e96bc10bc2773c3090287ca73c9b8] is a specified state auditor who—
+> - (b) is an EEA auditor who has passed an aptitude test in accordance with sub-paragraph (3) on or before 31 December 2020[^c-0b5637f8352ca34e3516c910066f54a4], unless an aptitude test is not required (see sub-paragraph (4)[^c-2f4466406e9a1b8d1c4b16d903f47734]), [^c-be2e300bb40cb51a22b633ca49c2be27]...
+> - (ba)[^c-ff9e96bc10bc2773c3090287ca73c9b8] is a specified state auditor who—
 >   - (i) holds professional qualifications obtained in a specified state that are comparable to an appropriate qualification; and
 >   - (ii) has met a requirement to take an aptitude test or to complete an adaptation period, or to undertake both, imposed on the individual by the body in accordance with Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023, if such a requirement is so imposed, or
 > - (c) has been authorised to act as a local auditor by the body pursuant to the European Communities (Recognition of Professional Qualifications) Regulations 2007 (SI 2007/2781), and complies with the requirements of those Regulations that apply to a person acting as a local auditor.
@@ -489,18 +489,18 @@ Section 18
 >
 > (4) No aptitude test is required if—
 >
-> - (a)[^key-04472e739f0efc87c74fe473ebfc8589] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (a)[^c-04472e739f0efc87c74fe473ebfc8589] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > - (b) the subjects that are covered by a recognised professional qualification and the knowledge of which is essential for the pursuit of the profession of local auditor are covered by the professional qualification already held by the individual.
 >
-> (5)[^key-04472e739f0efc87c74fe473ebfc8589] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (5)[^c-04472e739f0efc87c74fe473ebfc8589] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (6) A firm which has ceased to comply with the conditions mentioned in sub-paragraph (2) may be permitted to remain eligible for appointment as a local auditor for a period of not more than three months.
 
 (4) In paragraph 7 (meaning of control by qualified persons)—
 
-- (a) in sub-paragraph (1) (introductory), for “paragraph 6(1)(b)” substitute “ paragraph 6(2)(b) ”, [^key-7d5721744fed36bb81afe471e9b875f4]...
-- (aa)[^key-4a2e7d3c568c90591263f69c6d3ec3f7] in sub-paragraph (2)(a)(ii), omit “, other than the United Kingdom”,
-- (b) in sub-paragraph (2)(b)(i), (requirement for firm to be eligible for appointment as statutory auditor), for “statutory auditor” substitute “ local auditor, or as a statutory auditor in accordance with this Part of this Act as it has effect apart from its application by virtue of Schedule 5 to the Local Audit and Accountability Act 2014 ” , and[^key-01c2859a12b5186ad95a42eb70548703]
+- (a) in sub-paragraph (1) (introductory), for “paragraph 6(1)(b)” substitute “ paragraph 6(2)(b) ”, [^c-7d5721744fed36bb81afe471e9b875f4]...
+- (aa)[^c-4a2e7d3c568c90591263f69c6d3ec3f7] in sub-paragraph (2)(a)(ii), omit “, other than the United Kingdom”,
+- (b) in sub-paragraph (2)(b)(i), (requirement for firm to be eligible for appointment as statutory auditor), for “statutory auditor” substitute “ local auditor, or as a statutory auditor in accordance with this Part of this Act as it has effect apart from its application by virtue of Schedule 5 to the Local Audit and Accountability Act 2014 ” , and[^c-01c2859a12b5186ad95a42eb70548703]
 - (c) in sub-paragraph (2)(b)(ii), omit “, other than the United Kingdom”.
 
 (5) After paragraph 7 insert—
@@ -554,13 +554,13 @@ Section 18
 >   - (i) local audit work,
 >   - (ii) statutory audit work within the meaning of this Part of this Act as it has effect apart from its application by virtue of Schedule 5 to the Local Audit and Accountability Act 2014,
 >   - (iii) other audit work relating to any body whose accounts form part of a group for which the Treasury prepares accounts under section 9(1) of the Government Resources and Accounts Act 2000, or
->   - (iv)[^key-cd74850c53f4337dbac362b0f9fbb444] work equivalent to that within any of sub-paragraphs (i) to (iii) on the audit of accounts under the law of—
+>   - (iv)[^c-cd74850c53f4337dbac362b0f9fbb444] work equivalent to that within any of sub-paragraphs (i) to (iii) on the audit of accounts under the law of—
 >     - (aa) an equivalent third country, or part of an equivalent third country, or
 >     - (bb) a transitional third country, or part of a transitional third country,
 > - (c) have received adequate training in the conduct of inspections concerning the audits of relevant authorities, and
 > - (d) do not have any interests likely to conflict with the proper conduct of the inspection.
 >
-> (4A)[^key-aff04dadc274d5f425c9f767c9743ba2] For the purposes of sub-paragraph (4)—
+> (4A)[^c-aff04dadc274d5f425c9f767c9743ba2] For the purposes of sub-paragraph (4)—
 >
 > - “equivalent third country” means a third country granted approval or provisional approval as an equivalent third country in accordance with section 1240A(1), as that section applies in relation to statutory audits;
 > - “third country” means a country or territory other than the United Kingdom;
@@ -618,117 +618,117 @@ Section 18
 
 (12) In paragraph 27 (supplementary: scope of arrangement) omit “, 23A”.
 
-**29.**[^key-88a00928482e4c1326624e5023c42fe4] In Schedule 13 (supplementary provision with respect to delegation order)—
+**29.**[^c-88a00928482e4c1326624e5023c42fe4] In Schedule 13 (supplementary provision with respect to delegation order)—
 
 - (a) in paragraph 9 (legislative functions) omit “(or, in Scotland, sufficient evidence)”, and
 - (b) in paragraph 10(6) (requirement for auditor of body established by order to be eligible for appointment as statutory auditor), for “a statutory auditor” substitute “ a local auditor, or a statutory auditor in accordance with this Part of this Act as it has effect apart from its application by virtue of Schedule 5 to the Local Audit and Accountability Act 2014 ”.
 
 ## Annotations
 
-[^key-f008b1ffe4174e3735a4c8d1ea5fc23e]: Commencement: Sch. 5 para. 1 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-f008b1ffe4174e3735a4c8d1ea5fc23e]: Commencement: Sch. 5 para. 1 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-ded0c5a38e9e7cea1070ac12b26b6ac5]: Textual amendment: Sch. 5 para. 1(3) substituted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/5/paragraph/2/2)
+[^c-ded0c5a38e9e7cea1070ac12b26b6ac5]: Textual amendment: Sch. 5 para. 1(3) substituted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/5/paragraph/2/2)
 
-[^key-b526bdcb398642b77e6d03e47e9a0a60]: Textual amendment: Words in [Sch. 5 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/1/3/b) inserted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [45](https://www.legislation.gov.uk/uksi/2019/177/regulation/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b526bdcb398642b77e6d03e47e9a0a60]: Textual amendment: Words in [Sch. 5 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/1/3/b) inserted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [45](https://www.legislation.gov.uk/uksi/2019/177/regulation/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4cb7924e8561535ab04e2142771b68b1]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/2) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-4cb7924e8561535ab04e2142771b68b1]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/2) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-48b99b6e698b4e406ff6b3e6c22f3654]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/3) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-48b99b6e698b4e406ff6b3e6c22f3654]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/3) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-977689375d18c80f8839c27b38c38205]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/4) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-977689375d18c80f8839c27b38c38205]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/4) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-bcec7199003418492e4bb9b3141d5c9a]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/5) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-bcec7199003418492e4bb9b3141d5c9a]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/5) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-4b4fdc1853ca2fc7735f54d3325c2996]: Textual amendment: Word in [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/5) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 216(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/216/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-4b4fdc1853ca2fc7735f54d3325c2996]: Textual amendment: Word in [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/5) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 216(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/216/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-2bf0d3ebf16d92b0c1da5cb5e8b3bb83]: Textual amendment: Word in [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/5) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 28(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/28/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2bf0d3ebf16d92b0c1da5cb5e8b3bb83]: Textual amendment: Word in [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/5) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 28(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/28/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-cdc3aab4d9091558cd7879e19c3b0690]: Textual amendment: Words in [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/5) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 216(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/216/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-cdc3aab4d9091558cd7879e19c3b0690]: Textual amendment: Words in [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/5) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 216(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/216/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-2da198be4326dfd44ef7e1daed29600a]: Textual amendment: Words in [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/5) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 28(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/28/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2da198be4326dfd44ef7e1daed29600a]: Textual amendment: Words in [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/5) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 28(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/28/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-cff70d10b2b054c4e5956969c047fe4c]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/6) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-cff70d10b2b054c4e5956969c047fe4c]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/6) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-ad1e21efafc47925c6a0a4e0615a16c1]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/7) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-ad1e21efafc47925c6a0a4e0615a16c1]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/7) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-fe265f66d2d506e186029c23ba85b5f1]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/8) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-fe265f66d2d506e186029c23ba85b5f1]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/8) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-dc75e8af04dc0f20ff88982e94bc1af7]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/9) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-dc75e8af04dc0f20ff88982e94bc1af7]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/9) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-2f01542696c3a972dd9b9f7a4b5e6e27]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/10) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-2f01542696c3a972dd9b9f7a4b5e6e27]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/10) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-e896596a4b8b399db1033054ba0e0bc9]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/11) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-e896596a4b8b399db1033054ba0e0bc9]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/11) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-430a5f0c1733ca52c66e2ced836f3043]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/12) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-430a5f0c1733ca52c66e2ced836f3043]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/12) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-5a2d8c4477f1a12200fddfc439ef5eb5]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/13) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-5a2d8c4477f1a12200fddfc439ef5eb5]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/13) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-a6ffa1ae7da0c2a3a6bc706a219a183e]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/14) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-a6ffa1ae7da0c2a3a6bc706a219a183e]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/14) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-96b041e88d80e1da552656a1386e8fad]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/15) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-96b041e88d80e1da552656a1386e8fad]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/15) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-e725be95a09a218c10cae8eee89106bb]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/16) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-e725be95a09a218c10cae8eee89106bb]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/16) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-ac2441944bd0b40a33de7ca1f0885642]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/17) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-ac2441944bd0b40a33de7ca1f0885642]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/17) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-35d0055e3153205e8f05991044696bbf]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/18) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-35d0055e3153205e8f05991044696bbf]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/18) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-867cc142fc0beda3b035a92a81d92956]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/19) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-867cc142fc0beda3b035a92a81d92956]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/19) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-fa0ac7333fe60f95c4dd76f0df2ca082]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/20) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-fa0ac7333fe60f95c4dd76f0df2ca082]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/20) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-80d5dbeabb22a4cea57cb02813ec9073]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/21) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-80d5dbeabb22a4cea57cb02813ec9073]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/21) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-dee00ae68a31326c1a4e475589e4fd2e]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/22) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-dee00ae68a31326c1a4e475589e4fd2e]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/22) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-8047406bde5bdbc229daea7a2abcc2e3]: Commencement: Sch. 5 para. 23 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-8047406bde5bdbc229daea7a2abcc2e3]: Commencement: Sch. 5 para. 23 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-ca3677be1f795cc6c845a36cfa8b30d9]: Textual amendment: Words in Sch. 5 para. 23(2) substituted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2019/504/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca3677be1f795cc6c845a36cfa8b30d9]: Textual amendment: Words in Sch. 5 para. 23(2) substituted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2019/504/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e5af72102906190b260cd1157661668]: Textual amendment: Words in Sch. 5 para. 23(2) renumbered as Sch. 5 para. 23(2)(a) (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2019/504/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4e5af72102906190b260cd1157661668]: Textual amendment: Words in Sch. 5 para. 23(2) renumbered as Sch. 5 para. 23(2)(a) (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2019/504/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b67eb1baf875252415066a75c6a8fddf]: Textual amendment: Sch. 5 para. 23(2)(b) and word inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2019/504/regulation/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b67eb1baf875252415066a75c6a8fddf]: Textual amendment: Sch. 5 para. 23(2)(b) and word inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2019/504/regulation/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1c0a2d1d5b610eb1be0acadf2aed3f52]: Textual amendment: Word in [Sch. 5 para. 23(2)(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/23/2/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 82](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/82)
+[^c-1c0a2d1d5b610eb1be0acadf2aed3f52]: Textual amendment: Word in [Sch. 5 para. 23(2)(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/23/2/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 82](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/82)
 
-[^key-d6076eae3056d5816fecd73c110f6908]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/24) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-d6076eae3056d5816fecd73c110f6908]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/24) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-e39907f327063856d6751f02ff1db32b]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/25) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-e39907f327063856d6751f02ff1db32b]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/25) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-89dfb7cfff89c053de63587c887bf7bb]: Commencement: Sch. 5 para. 26 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-89dfb7cfff89c053de63587c887bf7bb]: Commencement: Sch. 5 para. 26 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-bce366f3e8cc065c18dc0580d5fd04c8]: Textual amendment: Words in Sch. 5 para. 26(3) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2019/504/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bce366f3e8cc065c18dc0580d5fd04c8]: Textual amendment: Words in Sch. 5 para. 26(3) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2019/504/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c50ebece024af1ee4a0a82af005a7aa9]: Textual amendment: Word in [Sch. 5 para. 26(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/26/3) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 91(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/91/2/a)
+[^c-c50ebece024af1ee4a0a82af005a7aa9]: Textual amendment: Word in [Sch. 5 para. 26(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/26/3) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 91(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/91/2/a)
 
-[^key-afcee0db016a6782a1c17c7d56bc99dc]: Textual amendment: [Sch. 5 para. 26(3)(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/26/3/c) and word inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 91(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/91/2/b)
+[^c-afcee0db016a6782a1c17c7d56bc99dc]: Textual amendment: [Sch. 5 para. 26(3)(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/26/3/c) and word inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 91(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/91/2/b)
 
-[^key-615d2fa02664c8d0e57bb7feb306b289]: Textual amendment: Sch. 5 para. 26(5) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2019/504/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-615d2fa02664c8d0e57bb7feb306b289]: Textual amendment: Sch. 5 para. 26(5) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2019/504/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-97871dd2054e47225e1d50ee8d553a5a]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/27) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-97871dd2054e47225e1d50ee8d553a5a]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/27) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-6969052f7d8d032cd7644dc79c597e34]: Textual amendment: Words in [Sch. 5 para. 27(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/27/3) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 91(3)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/91/3)
+[^c-6969052f7d8d032cd7644dc79c597e34]: Textual amendment: Words in [Sch. 5 para. 27(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/27/3) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 91(3)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/91/3)
 
-[^key-7cc235c8d8c94d3c597558332f5ad423]: Commencement: Sch. 5 para. 28 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-7cc235c8d8c94d3c597558332f5ad423]: Commencement: Sch. 5 para. 28 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
 
-[^key-0b5637f8352ca34e3516c910066f54a4]: Textual amendment: Words in Sch. 5 para. 28(3) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/a/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b5637f8352ca34e3516c910066f54a4]: Textual amendment: Words in Sch. 5 para. 28(3) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/a/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2f4466406e9a1b8d1c4b16d903f47734]: Textual amendment: Words in [Sch. 5 para. 28(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/28/3) substituted (1.1.2021) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/3), [6(1)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/a/i/bb)
+[^c-2f4466406e9a1b8d1c4b16d903f47734]: Textual amendment: Words in [Sch. 5 para. 28(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/28/3) substituted (1.1.2021) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/3), [6(1)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/a/i/bb)
 
-[^key-be2e300bb40cb51a22b633ca49c2be27]: Textual amendment: Word in [Sch. 5 para. 28(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/28/3) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 91(4)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/91/4/a)
+[^c-be2e300bb40cb51a22b633ca49c2be27]: Textual amendment: Word in [Sch. 5 para. 28(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/28/3) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 91(4)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/91/4/a)
 
-[^key-ff9e96bc10bc2773c3090287ca73c9b8]: Textual amendment: Words in [Sch. 5 para. 28(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/28/3) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 91(4)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/91/4/b)
+[^c-ff9e96bc10bc2773c3090287ca73c9b8]: Textual amendment: Words in [Sch. 5 para. 28(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/28/3) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 91(4)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/91/4/b)
 
-[^key-04472e739f0efc87c74fe473ebfc8589]: Textual amendment: Words in [Sch. 5 para. 28(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/28/3) omitted (1.1.2021) by virtue of [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/3), [6(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/a/ii)
+[^c-04472e739f0efc87c74fe473ebfc8589]: Textual amendment: Words in [Sch. 5 para. 28(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/28/3) omitted (1.1.2021) by virtue of [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/3), [6(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/a/ii)
 
-[^key-7d5721744fed36bb81afe471e9b875f4]: Textual amendment: Word in Sch. 5 para. 28(3) omitted (31.12.2020) by virtue of [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d5721744fed36bb81afe471e9b875f4]: Textual amendment: Word in Sch. 5 para. 28(3) omitted (31.12.2020) by virtue of [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a2e7d3c568c90591263f69c6d3ec3f7]: Textual amendment: Words in Sch. 5 para. 28(3) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a2e7d3c568c90591263f69c6d3ec3f7]: Textual amendment: Words in Sch. 5 para. 28(3) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-01c2859a12b5186ad95a42eb70548703]: Textual amendment: Words in Sch. 5 para. 28(3) inserted (temp. until 1.1.2021) (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(d)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/d) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01c2859a12b5186ad95a42eb70548703]: Textual amendment: Words in Sch. 5 para. 28(3) inserted (temp. until 1.1.2021) (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(d)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/d) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd74850c53f4337dbac362b0f9fbb444]: Textual amendment: Words in Sch. 5 para. 28(7) substituted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(e)(i)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/e/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd74850c53f4337dbac362b0f9fbb444]: Textual amendment: Words in Sch. 5 para. 28(7) substituted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(e)(i)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/e/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aff04dadc274d5f425c9f767c9743ba2]: Textual amendment: Words in Sch. 5 para. 28(7) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/e/ii) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aff04dadc274d5f425c9f767c9743ba2]: Textual amendment: Words in Sch. 5 para. 28(7) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [6(1)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/1/e/ii) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/504/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-88a00928482e4c1326624e5023c42fe4]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/29) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-88a00928482e4c1326624e5023c42fe4]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/29) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)

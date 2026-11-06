@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Discharge of water[^key-eb71f71755791eea94ac0904fb653878]
+## 18. Discharge of water[^c-eb71f71755791eea94ac0904fb653878]
 
 *Extent: E+W+S*
 
@@ -35,21 +35,21 @@ summary: ''
 
 (6) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) This article does not authorise a groundwater activity or a water discharge activity within the meaning of the Environmental Permitting (England and Wales) Regulations 2016[^key-29ac8ddf2a88feef476d2b406e9c9812].
+(7) This article does not authorise a groundwater activity or a water discharge activity within the meaning of the Environmental Permitting (England and Wales) Regulations 2016[^c-29ac8ddf2a88feef476d2b406e9c9812].
 
 (8) In this article—
 
 - (a) “public sewer or drain” means a sewer or drain which belongs to the Homes and Communities Agency, the Environmental Agency, a harbour authority within the meaning of section 57 of the Harbours Act 1964[^f00020] (interpretation), an internal drainage board, a joint planning board, a local authority, a National Park Authority, a sewerage undertaker or an urban development corporation; and
-- (b) other expressions, excluding watercourse, used both in this article and in the Environmental Permitting (England and Wales) Regulations 2016[^key-ec28bdc249bfc40cfec9f29825645bea] have the same meaning as in those Regulations.
+- (b) other expressions, excluding watercourse, used both in this article and in the Environmental Permitting (England and Wales) Regulations 2016[^c-ec28bdc249bfc40cfec9f29825645bea] have the same meaning as in those Regulations.
 
 ## Annotations
 
-[^key-eb71f71755791eea94ac0904fb653878]: Commencement: Art. 18 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-eb71f71755791eea94ac0904fb653878]: Commencement: Art. 18 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
 [^f00019]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by section 35(8)(a) of the Competition and Service (Utilities) Act [1992 (c.43)](https://www.legislation.gov.uk/ukpga/1992/43) and by sections 36(2) and 99 of the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments to this section which are not relevant to this Order.
 
-[^key-29ac8ddf2a88feef476d2b406e9c9812]: Textual amendment: Words in [art. 18(7)](https://www.legislation.gov.uk/uksi/2016/853/article/18/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 119(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/119/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-29ac8ddf2a88feef476d2b406e9c9812]: Textual amendment: Words in [art. 18(7)](https://www.legislation.gov.uk/uksi/2016/853/article/18/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 119(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/119/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00020]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-ec28bdc249bfc40cfec9f29825645bea]: Textual amendment: Words in [art. 18(8)(b)](https://www.legislation.gov.uk/uksi/2016/853/article/18/8/b) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 119(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/119/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-ec28bdc249bfc40cfec9f29825645bea]: Textual amendment: Words in [art. 18(8)(b)](https://www.legislation.gov.uk/uksi/2016/853/article/18/8/b) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 119(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/119/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Designation as an established mayoral strategic authority[^key-63fdab0ca26ae2c8ddf57d27cf191796]
+## 25A. Designation as an established mayoral strategic authority[^c-63fdab0ca26ae2c8ddf57d27cf191796]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ the abolition or merger of an established mayoral strategic authority (whether t
 
 ## Annotations
 
-[^key-63fdab0ca26ae2c8ddf57d27cf191796]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2023/55/section/25A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/8/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-63fdab0ca26ae2c8ddf57d27cf191796]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2023/55/section/25A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/8/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

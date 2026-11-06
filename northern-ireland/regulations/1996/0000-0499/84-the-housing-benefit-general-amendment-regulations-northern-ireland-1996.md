@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*d*), 129(4), 131(1) and 132(3) and (4)(*b*) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00002] in so far as its consent is required, and after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it[^f00003], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-19a946323f120b0fddabd42d6880fb47]
+## 1. Citation, commencement and interpretation[^c-19a946323f120b0fddabd42d6880fb47]
 
 (1) These Regulations may be cited as the Housing Benefit (General) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 1st April 1996.
 
@@ -48,7 +48,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of regulation 18 of the principal Regulations[^key-fd9cfbb6508c47db7ffa7dbaf91c9708]
+## 2. Amendment of regulation 18 of the principal Regulations[^c-fd9cfbb6508c47db7ffa7dbaf91c9708]
 
 In regulation 18(1) of the principal Regulations (patients)—
 
@@ -56,7 +56,7 @@ In regulation 18(1) of the principal Regulations (patients)—
 - (b) in sub-paragraphs (*c*)(i) and (*d*)(i) for “£11·75” there shall be substituted “£12·25”;
 - (c) in sub-paragraph (*c*)(ii) for “£29·40” there shall be substituted “£30·60”.
 
-## 3. Amendment of regulation 63 of the principal Regulations[^key-a6e3ec724f86dccfc93bb10095b7971f]
+## 3. Amendment of regulation 63 of the principal Regulations[^c-a6e3ec724f86dccfc93bb10095b7971f]
 
 In regulation 63 of the principal Regulations (non-dependant deductions)—
 
@@ -65,7 +65,7 @@ In regulation 63 of the principal Regulations (non-dependant deductions)—
   - (ii) in sub-paragraph (*b*)(ii) for “£1·15” there shall be substituted “£1·30”;
 - (b) in paragraph 2(*d*) for “£111·00” there shall be substituted “£114·00”.
 
-## 4. Amendment of Schedule 2 to the principal Regulations[^key-9ee8ffd6aba99d7d21162bc14262eb5a]
+## 4. Amendment of Schedule 2 to the principal Regulations[^c-9ee8ffd6aba99d7d21162bc14262eb5a]
 
 In Schedule 2 to the principal Regulations (applicable amounts)—
 
@@ -73,11 +73,11 @@ In Schedule 2 to the principal Regulations (applicable amounts)—
 - (b) in Part II (family premium) in paragraph 3 for “£10·25” there shall be substituted “£10·55”;
 - (c) for Part IV (amounts of premiums specified in Part III) there shall be substituted the Part set out in Schedule 2 to these Regulations.
 
-## 5. Amendment of Schedule 4 to the principal Regulations[^key-057e8de04bafa545a7176e1e588d15e3]
+## 5. Amendment of Schedule 4 to the principal Regulations[^c-057e8de04bafa545a7176e1e588d15e3]
 
 In Schedule 4 to the principal Regulations (sums to be disregarded in the calculation of income other than earnings) in paragraph 22(*b*) for “£9·20” there shall be substituted “£9·25”.
 
-## 6. Revocations[^key-c6f76651785daebdbc8e5e52cad6ec64]
+## 6. Revocations[^c-c6f76651785daebdbc8e5e52cad6ec64]
 
 Regulations 3**(***a*) and 5 of the Housing Benefit (General) (Amendment No. 2) Regulations (Northern Ireland) 1994[^f00006] and regulations 2, 3, 4, 5 and 6 of the Housing Benefit (General) (Amendment No. 2) Regulations (Northern Ireland) 1995[^f00007] are hereby revoked.
 
@@ -99,7 +99,7 @@ Assistant Secretary
 
 8th March 1996.
 
-## SCHEDULE 1 — Substitution of Part I of Schedule 2 to the principal Regulations[^key-bb610459b0cf30288cda63df5429aa69]
+## SCHEDULE 1 — Substitution of Part I of Schedule 2 to the principal Regulations[^c-bb610459b0cf30288cda63df5429aa69]
 
 Regulation 4(*a*)
 
@@ -142,7 +142,7 @@ Regulation 4(*a*)
 > </tbody>
 > </table>
 
-## SCHEDULE 2 — Substitution of Part IV of Schedule 2 to the principal Regulations[^key-799e4db9fc087a31437a0265c2b14a40]
+## SCHEDULE 2 — Substitution of Part IV of Schedule 2 to the principal Regulations[^c-799e4db9fc087a31437a0265c2b14a40]
 
 Regulation 4(*c*)
 
@@ -187,26 +187,26 @@ Regulation 6 contains consequential revocations.
 
 [^f00003]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-19a946323f120b0fddabd42d6880fb47]: Commencement: Reg. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
+[^c-19a946323f120b0fddabd42d6880fb47]: Commencement: Reg. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending regulations are [S.R. 1989 Nos. 125](https://www.legislation.gov.uk/nisr/1989/125) and [260](https://www.legislation.gov.uk/nisr/1989/260), [S.R. 1990 Nos. 136](https://www.legislation.gov.uk/nisr/1990/136) and [345](https://www.legislation.gov.uk/nisr/1990/345), [S.R. 1992 Nos. 85](https://www.legislation.gov.uk/nisr/1992/85), [404](https://www.legislation.gov.uk/nisr/1992/404) and [549](https://www.legislation.gov.uk/nisr/1992/549), [S.R. 1993 Nos. 145](https://www.legislation.gov.uk/nisr/1993/145), [195](https://www.legislation.gov.uk/nisr/1993/195) and [233](https://www.legislation.gov.uk/nisr/1993/233), [S.R. 1994 Nos. 81](https://www.legislation.gov.uk/nisr/1994/81) and [88](https://www.legislation.gov.uk/nisr/1994/88), [S.R. 1995 No. 84](https://www.legislation.gov.uk/nisr/1995/84) and [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-fd9cfbb6508c47db7ffa7dbaf91c9708]: Commencement: Reg. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
+[^c-fd9cfbb6508c47db7ffa7dbaf91c9708]: Commencement: Reg. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
 
-[^key-a6e3ec724f86dccfc93bb10095b7971f]: Commencement: Reg. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
+[^c-a6e3ec724f86dccfc93bb10095b7971f]: Commencement: Reg. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
 
-[^key-9ee8ffd6aba99d7d21162bc14262eb5a]: Commencement: Reg. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
+[^c-9ee8ffd6aba99d7d21162bc14262eb5a]: Commencement: Reg. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
 
-[^key-057e8de04bafa545a7176e1e588d15e3]: Commencement: Reg. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
+[^c-057e8de04bafa545a7176e1e588d15e3]: Commencement: Reg. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
 
-[^key-c6f76651785daebdbc8e5e52cad6ec64]: Commencement: Reg. 6 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
+[^c-c6f76651785daebdbc8e5e52cad6ec64]: Commencement: Reg. 6 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1994 No. 81](https://www.legislation.gov.uk/nisr/1994/81)
 
 [^f00007]: Footnote: [S.R. 1995 No. 84](https://www.legislation.gov.uk/nisr/1995/84)
 
-[^key-bb610459b0cf30288cda63df5429aa69]: Commencement: Sch. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
+[^c-bb610459b0cf30288cda63df5429aa69]: Commencement: Sch. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
 
-[^key-799e4db9fc087a31437a0265c2b14a40]: Commencement: Sch. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)
+[^c-799e4db9fc087a31437a0265c2b14a40]: Commencement: Sch. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/84/regulation/1/1)

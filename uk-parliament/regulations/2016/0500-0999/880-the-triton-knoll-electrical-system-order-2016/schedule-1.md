@@ -24,7 +24,7 @@ Articles 2 and 3
 
 ### PART 1 — Authorised development
 
-**1.**[^key-e39c4740a35a02b72604c17d3f7f3205] Development which, in accordance with a direction made by the Secretary of State under section 35 of the 2008 Act on 14th November 2013, is development for which development consent is required on the bed of the North Sea from the coast to approximately 33 kilometres off the coast of Lincolnshire and 46 kilometres off the coast of Norfolk within the Renewable Energy Zone and within the County of Lincolnshire and the District of East Lindsey and Borough of Boston, comprising—
+**1.**[^c-e39c4740a35a02b72604c17d3f7f3205] Development which, in accordance with a direction made by the Secretary of State under section 35 of the 2008 Act on 14th November 2013, is development for which development consent is required on the bed of the North Sea from the coast to approximately 33 kilometres off the coast of Lincolnshire and 46 kilometres off the coast of Norfolk within the Renewable Energy Zone and within the County of Lincolnshire and the District of East Lindsey and Borough of Boston, comprising—
 
 #### Offshore
 
@@ -229,7 +229,7 @@ Co-ordinates for Order limits seaward of MHWS
 | E | 53° 16′ 30.664″ N | 0° 21′ 34.324″ E | AL | 53° 24′ 39.002″ N | 0° 56′ 17.146″ E |
 | F | 53° 16′ 38.211″ N | 0° 22′ 53.464″ E | AK | 53° 24′ 31.246″ N | 0° 56′ 45.454″ E |
 
-### PART 2 — Ancillary works[^key-5bf8f406f628e5fe8cd93c781d848a74]
+### PART 2 — Ancillary works[^c-5bf8f406f628e5fe8cd93c781d848a74]
 
 Works and operations within the Order limits and which fall within the scope of the work assessed by the environmental statement comprising—
 
@@ -241,7 +241,7 @@ Works and operations within the Order limits and which fall within the scope of 
 
 ### PART 3 — Requirements
 
-#### 1. Interpretation[^key-911c71f321d97c67e8c602b4d6fae465]
+#### 1. Interpretation[^c-911c71f321d97c67e8c602b4d6fae465]
 
 In this Part—
 
@@ -281,11 +281,11 @@ In this Part—
 
 or such other stage of the onshore works agreed in writing with the relevant planning authority.
 
-#### 2. Time limit for commencing authorised development[^key-29592c21abc08ecc944efa44ac0f7351]
+#### 2. Time limit for commencing authorised development[^c-29592c21abc08ecc944efa44ac0f7351]
 
 The authorised development must be commenced on or before 26th September 2021.
 
-#### 3. Detailed offshore design parameters[^key-0197fed72b8485a97b976aeec0d914d6]
+#### 3. Detailed offshore design parameters[^c-0197fed72b8485a97b976aeec0d914d6]
 
 (1) The total number of cables comprising Work No. 1 must not exceed 6.
 
@@ -295,11 +295,11 @@ The authorised development must be commenced on or before 26th September 2021.
 
 (4) The finished height of any cable protection must not exceed 10% of the navigable water depth existing before works commence unless otherwise agreed in writing in advance with the MMO and the MCA.
 
-#### 4. Offshore decommissioning[^key-e0e0a7295fab8d1c3fae933b46b02ad8]
+#### 4. Offshore decommissioning[^c-e0e0a7295fab8d1c3fae933b46b02ad8]
 
 No part of the development seaward of MHWS may be commenced until a written decommissioning programme in compliance with any notice served on the undertaker by the Secretary of State under section 105(2) of the Energy Act 2004[^f00039] has been submitted to the Secretary of State for approval.
 
-#### 5. Detailed design onshore[^key-14a6aa5da9587c86e18093c4e9a0b317]
+#### 5. Detailed design onshore[^c-14a6aa5da9587c86e18093c4e9a0b317]
 
 (1) The IEC enabling works and the substation enabling works must not be commenced until details of the ground-raising and stoned site platform have been submitted to and approved by the relevant planning authority.
 
@@ -360,7 +360,7 @@ No part of the development seaward of MHWS may be commenced until a written deco
 
 (13) In this Requirement, “onshore cable works” means Work Nos. 3, 5, 8, 11, 14, 17, 19, 21, 22, 24, 26, 29, 31, 33, 37, 39, 42, 44, 46 and 52.
 
-#### 6. Provision of landscaping[^key-b27f01d1dd9023a57fdf27f99b45e414]
+#### 6. Provision of landscaping[^c-b27f01d1dd9023a57fdf27f99b45e414]
 
 (1) Work Nos. 9A and 50A must not be commenced until a written landscaping scheme and associated work programme (in accordance with the outline landscape strategy and ecological management plan) for the relevant work has been submitted to and approved by the relevant planning authority.
 
@@ -371,13 +371,13 @@ No part of the development seaward of MHWS may be commenced until a written deco
 
 (3) If Work No. 55 is constructed before the completion of the unlicensed works, a written landscaping scheme and associated work programme (in accordance with the outline landscape strategy and ecological management plan) must be submitted to and approved by the relevant planning authority after consultation with National Grid Electricity Transmission plc (company number 02366977).
 
-#### 7. Implementation and maintenance of landscaping[^key-0789ab5ba4a7217a3a510d26708d0219]
+#### 7. Implementation and maintenance of landscaping[^c-0789ab5ba4a7217a3a510d26708d0219]
 
 (1) All landscaping works must, where relevant, be carried out in accordance with the landscaping scheme approved under Requirement 6.
 
 (2) Any tree or shrub planted as part of an approved landscaping scheme that, within 10 years after planting, is removed, dies or becomes, in the reasonable opinion of the relevant planning authority, seriously damaged or diseased must be replaced in the first available planting season with a specimen of the same species and size as that originally planted.
 
-#### 8. Highway accesses and improvements[^key-1f99574f277c3541d6179d26bb13c8db]
+#### 8. Highway accesses and improvements[^c-1f99574f277c3541d6179d26bb13c8db]
 
 (1) No stage of the onshore works may be commenced until for that stage written details (which accord with the outline access management plan) of the siting, design, layout, sequencing and timing and any access management measures for any new permanent or temporary means of access to a highway to be used by vehicular traffic, or any alteration to an existing means of access to a highway, have, after consultation with the highway authority, been submitted to and approved by the relevant planning authority.
 
@@ -387,7 +387,7 @@ No part of the development seaward of MHWS may be commenced until a written deco
 
 (4) The temporary highways alterations for that stage must be constructed in accordance with the approved scheme before they are brought into use for the purposes of the authorised development.
 
-#### 9. Fencing and other means of enclosure[^key-8defc03df3affd8e84be325563e460dc]
+#### 9. Fencing and other means of enclosure[^c-8defc03df3affd8e84be325563e460dc]
 
 (1) No stage of the onshore works may be commenced until for that stage written details of all proposed fences, walls or other means of enclosure have been submitted to and approved by the relevant planning authority.
 
@@ -401,7 +401,7 @@ No part of the development seaward of MHWS may be commenced until a written deco
 
 (6) In this Requirement, “beach works” means Work No. 2 and works related to the installation of cable ducts and cable circuits within Work No. 3 but excluding Work Nos. 3A and 3B.
 
-#### 10. Requirement for surface water drainage scheme[^key-a7af1d651d2e048240aa347e633bbb32]
+#### 10. Requirement for surface water drainage scheme[^c-a7af1d651d2e048240aa347e633bbb32]
 
 (1) Work Nos. 9, 50, 54A and 54B must not be commenced until a surface water drainage scheme for the Work, or part of the Work, in question has, after consultation with Lincolnshire County Council and the relevant drainage boards, been submitted to and approved by the relevant planning authority.
 
@@ -419,13 +419,13 @@ No part of the development seaward of MHWS may be commenced until a written deco
 
 (5) In this Requirement, “relevant drainage boards” means the drainage boards within the meaning of section 25 of the Land Drainage Act 1991[^f00040] for the area in which the Work is situated.
 
-#### 11. Requirement for foul water drainage scheme[^key-40225324d2234806fdebf3d05e073788]
+#### 11. Requirement for foul water drainage scheme[^c-40225324d2234806fdebf3d05e073788]
 
 (1) Work Nos. 9 and 50 must not be commenced until a detailed foul water drainage scheme (including means of pollution control) for the Work, or part of the Work, in question has, after consultation with Anglian Water Services Limited (company number 02366656) and the Environment Agency, been submitted to and approved by the relevant planning authority.
 
 (2) The foul water drainage scheme must be implemented as approved.
 
-#### 12. Archaeology[^key-c412abd42850d8e7974b2246ff34ae17]
+#### 12. Archaeology[^c-c412abd42850d8e7974b2246ff34ae17]
 
 (1) No stage of the onshore works may be commenced until for that stage a written scheme of investigation in accordance with the outline onshore written scheme of investigation has been submitted to and approved by the relevant planning authority.
 
@@ -443,7 +443,7 @@ No part of the development seaward of MHWS may be commenced until a written deco
 
 (5) The written scheme of investigation must be implemented as approved.
 
-#### 13. Ecological management plan and removal of hedgerows[^key-df8111eba8f98b341aa4504c81cf19d2]
+#### 13. Ecological management plan and removal of hedgerows[^c-df8111eba8f98b341aa4504c81cf19d2]
 
 (1) No stage of the onshore works may be commenced until for that stage a written ecological management plan (which accords with the outline landscape strategy and ecological management plan) reflecting the survey results and ecological mitigation and enhancement measures included in the environmental statement has after consultation with the appropriate statutory nature conservation body been submitted to and approved by the relevant planning authority.
 
@@ -453,7 +453,7 @@ No part of the development seaward of MHWS may be commenced until a written deco
 
 (4) Any hedgerow removal or replacement undertaken before approval of the written ecological management plan under paragraph (1) must be carried out in accordance with the details set out in the outline landscape strategy and ecological management plan.
 
-#### 14. Code of construction practice[^key-d038658a3fa34c69cee672e612a273d0]
+#### 14. Code of construction practice[^c-d038658a3fa34c69cee672e612a273d0]
 
 (1) No stage of the onshore works may be commenced until for that stage a code of construction practice in accordance with the outline code of construction practice (onshore) has, after consultation with the Environment Agency, been submitted to and approved by the relevant planning authority.
 
@@ -479,7 +479,7 @@ No part of the development seaward of MHWS may be commenced until a written deco
 
 (5) The code of construction practice must be implemented as approved.
 
-#### 15. Unexpected contamination[^key-ca1551a07aee0eb7cf6215d08f49eead]
+#### 15. Unexpected contamination[^c-ca1551a07aee0eb7cf6215d08f49eead]
 
 (1) If, during any stage of the authorised development, contamination not identified or addressed within the relevant code of construction practice is found to be present within the Order limits, no further development in the vicinity of the contamination may be carried out until a written scheme to deal with the associated risks has been submitted to and approved by the relevant planning authority after consultation with the Environment Agency.
 
@@ -489,13 +489,13 @@ No part of the development seaward of MHWS may be commenced until a written deco
 
 (4) The scheme and management plan must be implemented as approved.
 
-#### 16. Control of operational artificial light emissions[^key-26b29ba6d84a5a5821637429652586d3]
+#### 16. Control of operational artificial light emissions[^c-26b29ba6d84a5a5821637429652586d3]
 
 (1) Work Nos. 9A and 50A must not be brought into operation until a written scheme for the management and mitigation of artificial light emissions for the relevant Work has been submitted to and approved by the relevant planning authority.
 
 (2) The approved schemes for the management and mitigation of artificial light emissions must be implemented and maintained during the lifetime of Work Nos. 9A and 50A.
 
-#### 17. Construction hours[^key-a1fc9ee82f14db7fccca00a7c3ab7336]
+#### 17. Construction hours[^c-a1fc9ee82f14db7fccca00a7c3ab7336]
 
 (1) Except as otherwise agreed in the code of construction practice and subject to paragraphs (2) to (4), construction of the onshore works and construction-related traffic movements to or from the site of the relevant Work may take place only between 7 a.m. and 7 p.m. from Monday to Saturday, with no activity on Sundays or bank holidays.
 
@@ -513,7 +513,7 @@ No part of the development seaward of MHWS may be commenced until a written deco
 - (a) where continuous 24-hour working is required, the undertaker must notify the relevant planning authority in advance of such works;
 - (b) where a trenchless technique is to take place within 100 metres of an occupied dwelling, the works must take place within the hours specified in paragraph (1) unless otherwise agreed in advance with the resident of that dwelling and notified to the relevant planning authority.
 
-#### 18. Control of noise during operational phase[^key-06bdc531dd7a7ffc65ff0ae856aeb776]
+#### 18. Control of noise during operational phase[^c-06bdc531dd7a7ffc65ff0ae856aeb776]
 
 (1) The rating level of the overall operational noise immissions from Work No. 9A or 50A must not exceed 35 dB LAeq (5 min.) free-field (as defined in and measured in accordance with BS4142:2014 including any relevant penalties for tonal or impulsive character) at any residential property that lawfully exists on the date on which this Order is made.
 
@@ -522,7 +522,7 @@ No part of the development seaward of MHWS may be commenced until a written deco
 - (a) the undertaker must submit a proposed measurement and assessment procedure, based on the guidance and assessment methodology outlined in BS4142:2014, including a proposed measurement methodology and monitoring locations to the relevant planning authority for approval;
 - (b) measurements must be undertaken in accordance with the approved procedure by an independent consultant appointed by the undertaker in order to determine compliance or otherwise with paragraph (1).
 
-#### 19. Construction traffic[^key-5c183ca605a23a9dc964d40be4959b3a]
+#### 19. Construction traffic[^c-5c183ca605a23a9dc964d40be4959b3a]
 
 (1) No stage of the onshore works may be commenced until for that stage, after consultation with the highway authority, a construction traffic management plan in accordance with the outline traffic management plan including a contractor travel plan has been submitted to and approved by the relevant planning authority.
 
@@ -532,7 +532,7 @@ No part of the development seaward of MHWS may be commenced until a written deco
 
 (4) The construction traffic management plan and contractor travel plan must be implemented as approved.
 
-#### 20. European protected species[^key-4c36c195738c848c6ed1bc57b40bfddc]
+#### 20. European protected species[^c-4c36c195738c848c6ed1bc57b40bfddc]
 
 (1) No stage of the onshore works may be commenced until for that stage final pre-construction survey work has been carried out to establish whether a European protected species is present on any of the land affected, or likely to be affected, by that stage of the onshore works or in any of the trees to be lopped or felled as part of that stage of the onshore works.
 
@@ -540,19 +540,19 @@ No part of the development seaward of MHWS may be commenced until a written deco
 
 (3) The relevant stage of the onshore works must be carried out in accordance with the approved scheme.
 
-(4) In this Requirement, “European protected species” means a European protected species of animal or plant within the meaning of Part 3 of the Conservation of Habitats and Species Regulations 2017[^key-ca69b260b0d377da61c408c4fa976caf].
+(4) In this Requirement, “European protected species” means a European protected species of animal or plant within the meaning of Part 3 of the Conservation of Habitats and Species Regulations 2017[^c-ca69b260b0d377da61c408c4fa976caf].
 
-#### 21. Restoration of land used temporarily for construction[^key-00bbbbfb7aa5921f3749437ecbc24f53]
+#### 21. Restoration of land used temporarily for construction[^c-00bbbbfb7aa5921f3749437ecbc24f53]
 
 (1) Any land landward of MHWS which is used temporarily for construction of the onshore works and not ultimately incorporated in permanent works or approved landscaping must be reinstated within 6 months of completion of the relevant stage of the onshore works in accordance with details approved by the relevant planning authority.
 
 (2) Any hedgerow reinstatement must be carried out on accordance with Requirement 13(3).
 
-#### 22. Onshore decommissioning[^key-3ea3d550089c13811250b6ac875ff516]
+#### 22. Onshore decommissioning[^c-3ea3d550089c13811250b6ac875ff516]
 
 Within 6 months of the cessation of commercial operation of the onshore works, and after consultation with owners in relation to their landholding, an onshore decommissioning plan must be submitted to the relevant planning authority for approval.
 
-#### 23. Local employment[^key-2ddbdd1a3423b98e6e8a64dcc9f89e89]
+#### 23. Local employment[^c-2ddbdd1a3423b98e6e8a64dcc9f89e89]
 
 (1) No stage of the onshore works within a relevant planning authority’s area may be commenced until, after consultation with the relevant planning authority and the Greater Lincolnshire Local Enterprise Partnership, a plan detailing arrangements to promote local employment and skills development opportunities related to the onshore works has been notified to the relevant planning authority.
 
@@ -560,11 +560,11 @@ Within 6 months of the cessation of commercial operation of the onshore works, a
 
 (3) The employment and skills plan must be implemented and maintained for the duration of the construction of the onshore works.
 
-#### 24. Approval, etc. to be in writing[^key-7197636f16b4a503bbe867a144c430c3]
+#### 24. Approval, etc. to be in writing[^c-7197636f16b4a503bbe867a144c430c3]
 
 Where the approval or agreement of the Secretary of State or the relevant planning authority is required under a Requirement, that approval or agreement must be given in writing.
 
-#### 25. Amendments to approved plans, etc.[^key-51e017789c32364870db558558eede72]
+#### 25. Amendments to approved plans, etc.[^c-51e017789c32364870db558558eede72]
 
 (1) Where a Requirement requires the authorised development to be carried out in accordance with a plan, scheme, statement, strategy or details (the “plan”) approved by the relevant planning authority, the plan must be carried out as approved unless an amendment is previously agreed in writing by the relevant planning authority in accordance with paragraph (2).
 
@@ -574,62 +574,62 @@ Where the approval or agreement of the Secretary of State or the relevant planni
 
 ## Annotations
 
-[^key-e39c4740a35a02b72604c17d3f7f3205]: Commencement: [Sch. 1 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/880/schedule/1/part/1/paragraph/1) in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-e39c4740a35a02b72604c17d3f7f3205]: Commencement: [Sch. 1 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/880/schedule/1/part/1/paragraph/1) in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-5bf8f406f628e5fe8cd93c781d848a74]: Commencement: Sch. 1 Pt. 2 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-5bf8f406f628e5fe8cd93c781d848a74]: Commencement: Sch. 1 Pt. 2 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-911c71f321d97c67e8c602b4d6fae465]: Commencement: [Sch. 1 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/880/schedule/1/part/3/paragraph/1) in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-911c71f321d97c67e8c602b4d6fae465]: Commencement: [Sch. 1 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/880/schedule/1/part/3/paragraph/1) in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-29592c21abc08ecc944efa44ac0f7351]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/880/schedule/1/paragraph/2) in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-29592c21abc08ecc944efa44ac0f7351]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/880/schedule/1/paragraph/2) in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-0197fed72b8485a97b976aeec0d914d6]: Commencement: Sch. 1 para. 3 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-0197fed72b8485a97b976aeec0d914d6]: Commencement: Sch. 1 para. 3 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-e0e0a7295fab8d1c3fae933b46b02ad8]: Commencement: Sch. 1 para. 4 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-e0e0a7295fab8d1c3fae933b46b02ad8]: Commencement: Sch. 1 para. 4 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
 [^f00039]: Footnote: Section 105(2) was substituted by section 69(2) of the Energy Act 2008.
 
-[^key-14a6aa5da9587c86e18093c4e9a0b317]: Commencement: Sch. 1 para. 5 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-14a6aa5da9587c86e18093c4e9a0b317]: Commencement: Sch. 1 para. 5 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-b27f01d1dd9023a57fdf27f99b45e414]: Commencement: Sch. 1 para. 6 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-b27f01d1dd9023a57fdf27f99b45e414]: Commencement: Sch. 1 para. 6 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-0789ab5ba4a7217a3a510d26708d0219]: Commencement: Sch. 1 para. 7 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-0789ab5ba4a7217a3a510d26708d0219]: Commencement: Sch. 1 para. 7 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-1f99574f277c3541d6179d26bb13c8db]: Commencement: Sch. 1 para. 8 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-1f99574f277c3541d6179d26bb13c8db]: Commencement: Sch. 1 para. 8 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-8defc03df3affd8e84be325563e460dc]: Commencement: Sch. 1 para. 9 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-8defc03df3affd8e84be325563e460dc]: Commencement: Sch. 1 para. 9 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-a7af1d651d2e048240aa347e633bbb32]: Commencement: Sch. 1 para. 10 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-a7af1d651d2e048240aa347e633bbb32]: Commencement: Sch. 1 para. 10 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
 [^f00040]: Footnote: Section 25 was amended by paragraph 33 of Schedule 2 to the Flood and Water Management Act 2010.
 
-[^key-40225324d2234806fdebf3d05e073788]: Commencement: Sch. 1 para. 11 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-40225324d2234806fdebf3d05e073788]: Commencement: Sch. 1 para. 11 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-c412abd42850d8e7974b2246ff34ae17]: Commencement: Sch. 1 para. 12 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-c412abd42850d8e7974b2246ff34ae17]: Commencement: Sch. 1 para. 12 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-df8111eba8f98b341aa4504c81cf19d2]: Commencement: Sch. 1 para. 13 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-df8111eba8f98b341aa4504c81cf19d2]: Commencement: Sch. 1 para. 13 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-d038658a3fa34c69cee672e612a273d0]: Commencement: Sch. 1 para. 14 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-d038658a3fa34c69cee672e612a273d0]: Commencement: Sch. 1 para. 14 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-ca1551a07aee0eb7cf6215d08f49eead]: Commencement: Sch. 1 para. 15 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-ca1551a07aee0eb7cf6215d08f49eead]: Commencement: Sch. 1 para. 15 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-26b29ba6d84a5a5821637429652586d3]: Commencement: Sch. 1 para. 16 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-26b29ba6d84a5a5821637429652586d3]: Commencement: Sch. 1 para. 16 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-a1fc9ee82f14db7fccca00a7c3ab7336]: Commencement: Sch. 1 para. 17 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-a1fc9ee82f14db7fccca00a7c3ab7336]: Commencement: Sch. 1 para. 17 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-06bdc531dd7a7ffc65ff0ae856aeb776]: Commencement: Sch. 1 para. 18 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-06bdc531dd7a7ffc65ff0ae856aeb776]: Commencement: Sch. 1 para. 18 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-5c183ca605a23a9dc964d40be4959b3a]: Commencement: Sch. 1 para. 19 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-5c183ca605a23a9dc964d40be4959b3a]: Commencement: Sch. 1 para. 19 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-4c36c195738c848c6ed1bc57b40bfddc]: Commencement: Sch. 1 para. 20 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-4c36c195738c848c6ed1bc57b40bfddc]: Commencement: Sch. 1 para. 20 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-ca69b260b0d377da61c408c4fa976caf]: Textual amendment: Words in [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/uksi/2016/880/schedule/1/paragraph/20/4) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 71](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/71)
+[^c-ca69b260b0d377da61c408c4fa976caf]: Textual amendment: Words in [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/uksi/2016/880/schedule/1/paragraph/20/4) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 71](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/71)
 
-[^key-00bbbbfb7aa5921f3749437ecbc24f53]: Commencement: Sch. 1 para. 21 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-00bbbbfb7aa5921f3749437ecbc24f53]: Commencement: Sch. 1 para. 21 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-3ea3d550089c13811250b6ac875ff516]: Commencement: Sch. 1 para. 22 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-3ea3d550089c13811250b6ac875ff516]: Commencement: Sch. 1 para. 22 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-2ddbdd1a3423b98e6e8a64dcc9f89e89]: Commencement: Sch. 1 para. 23 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-2ddbdd1a3423b98e6e8a64dcc9f89e89]: Commencement: Sch. 1 para. 23 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-7197636f16b4a503bbe867a144c430c3]: Commencement: Sch. 1 para. 24 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-7197636f16b4a503bbe867a144c430c3]: Commencement: Sch. 1 para. 24 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
-[^key-51e017789c32364870db558558eede72]: Commencement: Sch. 1 para. 25 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-51e017789c32364870db558558eede72]: Commencement: Sch. 1 para. 25 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

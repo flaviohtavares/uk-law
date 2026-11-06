@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**173.**[^key-244e3aa9a5f1ddb06d7eee4fdfe09514] For section 43(3)(b)[^f00177] (local authority services: meaning of “relevant fostering functions”) substitute—
+**173.**[^c-244e3aa9a5f1ddb06d7eee4fdfe09514] For section 43(3)(b)[^f00177] (local authority services: meaning of “relevant fostering functions”) substitute—
 
 > - (b) “relevant fostering functions” means functions under—
 >   - (i) section 22C of the 1989 Act in connection with placements with local authority foster parents or regulations under paragraph 12E(a), (b), (d) or (e) or 12F of Schedule 2 to that Act,
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-244e3aa9a5f1ddb06d7eee4fdfe09514]: Commencement: Reg. 173 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-244e3aa9a5f1ddb06d7eee4fdfe09514]: Commencement: Reg. 173 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00177]: Footnote: Section 43(3)(b) was substituted by the Children and Young Persons Act 2008, Schedule 1, paragraph 13.

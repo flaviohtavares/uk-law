@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Punishment for destruction etc. of company documents[^key-7c1438c7f2d8e185d3e33019375c1d8a]
+## 63. Punishment for destruction etc. of company documents[^c-7c1438c7f2d8e185d3e33019375c1d8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c1438c7f2d8e185d3e33019375c1d8a]: Commencement: Art. 63 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7c1438c7f2d8e185d3e33019375c1d8a]: Commencement: Art. 63 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00067]: Footnote: Paragraph (1) was amended by the Companies (No.2) (Northern Ireland) Order 1990 ([S.I. 1990/1504 (NI 10)](https://www.legislation.gov.uk/nisi/1990/1504)), Article 14(1)(2).

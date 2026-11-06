@@ -16,41 +16,41 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Orders Designating Nitrate Sensitive Areas: Scotland[^key-a5651fe2fb0f39f4b480e25d404710f4]
+## SCHEDULE 1A — Orders Designating Nitrate Sensitive Areas: Scotland[^c-a5651fe2fb0f39f4b480e25d404710f4]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-### Part I — Applications by SEPA for Designation Orders[^key-a5651fe2fb0f39f4b480e25d404710f4]
+### Part I — Applications by SEPA for Designation Orders[^c-a5651fe2fb0f39f4b480e25d404710f4]
 
-#### Orders made only on application[^key-a5651fe2fb0f39f4b480e25d404710f4]
+#### Orders made only on application[^c-a5651fe2fb0f39f4b480e25d404710f4]
 
 **1.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Procedure for applications[^key-a5651fe2fb0f39f4b480e25d404710f4]
+#### Procedure for applications[^c-a5651fe2fb0f39f4b480e25d404710f4]
 
 **2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Orders Containing Mandatory Provisions Etc.[^key-a5651fe2fb0f39f4b480e25d404710f4]
+### Part II — Orders Containing Mandatory Provisions Etc.[^c-a5651fe2fb0f39f4b480e25d404710f4]
 
-#### Publication of proposal for order containing mandatory provisions[^key-a5651fe2fb0f39f4b480e25d404710f4]
+#### Publication of proposal for order containing mandatory provisions[^c-a5651fe2fb0f39f4b480e25d404710f4]
 
 **3.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Supply of copies of proposed orders[^key-a5651fe2fb0f39f4b480e25d404710f4]
+#### Supply of copies of proposed orders[^c-a5651fe2fb0f39f4b480e25d404710f4]
 
 **4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Modifications of proposals[^key-a5651fe2fb0f39f4b480e25d404710f4]
+#### Modifications of proposals[^c-a5651fe2fb0f39f4b480e25d404710f4]
 
 **5.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Consideration of objections et ceteralaetc.[^key-a5651fe2fb0f39f4b480e25d404710f4]
+#### Consideration of objections et ceteralaetc.[^c-a5651fe2fb0f39f4b480e25d404710f4]
 
 **6.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Consent of Treasury for payment provisions[^key-a5651fe2fb0f39f4b480e25d404710f4]
+#### Consent of Treasury for payment provisions[^c-a5651fe2fb0f39f4b480e25d404710f4]
 
 **7.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5651fe2fb0f39f4b480e25d404710f4]: Textual amendment: Sch. 1A repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 16(2)(v)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16/2/v); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-a5651fe2fb0f39f4b480e25d404710f4]: Textual amendment: Sch. 1A repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 16(2)(v)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16/2/v); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

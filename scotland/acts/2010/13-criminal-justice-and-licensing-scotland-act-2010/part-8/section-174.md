@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 174. Licensing of taxis and private hire cars[^key-f22d6fa16dbfcc4a50d9567305d1fc13]
+## 174. Licensing of taxis and private hire cars[^c-f22d6fa16dbfcc4a50d9567305d1fc13]
 
 *Extent: S*
 
@@ -121,4 +121,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f22d6fa16dbfcc4a50d9567305d1fc13]: Commencement: [S. 174](https://www.legislation.gov.uk/asp/2010/13/section/174) in force at 1.11.2011 by [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/354/article/3))
+[^c-f22d6fa16dbfcc4a50d9567305d1fc13]: Commencement: [S. 174](https://www.legislation.gov.uk/asp/2010/13/section/174) in force at 1.11.2011 by [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/354/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Leaving the Scheme[^key-44dddb1a35f0fa6b1147147c02191f01]
+## 7. Leaving the Scheme[^c-44dddb1a35f0fa6b1147147c02191f01]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44dddb1a35f0fa6b1147147c02191f01]: Commencement: Reg. 7 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-44dddb1a35f0fa6b1147147c02191f01]: Commencement: Reg. 7 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

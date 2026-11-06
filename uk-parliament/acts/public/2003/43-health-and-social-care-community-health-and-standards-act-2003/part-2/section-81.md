@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Failings[^key-62327607979b9a186898d43d2e6f0931]
+## 81. Failings[^c-62327607979b9a186898d43d2e6f0931]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62327607979b9a186898d43d2e6f0931]: Textual amendment: Ss. 76-91 repealed (1.4.2009 except in relation to ss. 88-91, 6.4.2010 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 41](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/41), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 paras. 35(q)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/q), [36](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/36); [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 paras. 17](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/17), [18](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/18) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
+[^c-62327607979b9a186898d43d2e6f0931]: Textual amendment: Ss. 76-91 repealed (1.4.2009 except in relation to ss. 88-91, 6.4.2010 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 41](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/41), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 paras. 35(q)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/q), [36](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/36); [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 paras. 17](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/17), [18](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/18) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))

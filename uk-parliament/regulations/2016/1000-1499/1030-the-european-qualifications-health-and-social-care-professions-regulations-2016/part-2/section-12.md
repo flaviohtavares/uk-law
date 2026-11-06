@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Introductory[^key-cf50b505db35be7550e6101c7ecee203]
+## 12. Introductory[^c-cf50b505db35be7550e6101c7ecee203]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00014] i
 
 ## Annotations
 
-[^key-cf50b505db35be7550e6101c7ecee203]: Commencement: Reg. 12 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-cf50b505db35be7550e6101c7ecee203]: Commencement: Reg. 12 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00014]: Footnote: [S.I. 2010/473](https://www.legislation.gov.uk/uksi/2010/473).

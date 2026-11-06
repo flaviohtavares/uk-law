@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Criteria for the making of designations[^key-c86b685662aafd8001b0e244457a94df]
+## 89. Criteria for the making of designations[^c-c86b685662aafd8001b0e244457a94df]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ The following criteria must be applied by the Secretary of State in deciding whe
 
 ## Annotations
 
-[^key-c86b685662aafd8001b0e244457a94df]: Commencement: Reg. 89 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-c86b685662aafd8001b0e244457a94df]: Commencement: Reg. 89 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

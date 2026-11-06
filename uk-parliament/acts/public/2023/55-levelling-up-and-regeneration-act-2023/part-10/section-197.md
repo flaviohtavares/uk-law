@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Circumstances in which letting to be permitted[^key-e71128d76918ce8c4e3545b95c86b619][^key-2f555fd98105d606f11b2645d4503b4f]
+## 197. Circumstances in which letting to be permitted[^c-e71128d76918ce8c4e3545b95c86b619][^c-2f555fd98105d606f11b2645d4503b4f]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ within the period referred to in subsection (2)(a).
 
 ## Annotations
 
-[^key-e71128d76918ce8c4e3545b95c86b619]: Commencement: S. 197 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-e71128d76918ce8c4e3545b95c86b619]: Commencement: S. 197 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-2f555fd98105d606f11b2645d4503b4f]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2023/55/section/197) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)
+[^c-2f555fd98105d606f11b2645d4503b4f]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2023/55/section/197) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.15. Court’s power to vary requirements under this Part[^key-9057fc3481deb33fdfe9d0df72c9cf57]
+## 3.15. Court’s power to vary requirements under this Part[^c-9057fc3481deb33fdfe9d0df72c9cf57]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9057fc3481deb33fdfe9d0df72c9cf57]: Commencement: [Rule 3.15](https://www.legislation.gov.uk/uksi/2025/909/rule/3.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9057fc3481deb33fdfe9d0df72c9cf57]: Commencement: [Rule 3.15](https://www.legislation.gov.uk/uksi/2025/909/rule/3.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

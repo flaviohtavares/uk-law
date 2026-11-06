@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Cash equivalent: authorised purposes for transfer notice[^key-f24a5b4a96d55e047295c898c8d36f59]
+## 122. Cash equivalent: authorised purposes for transfer notice[^c-f24a5b4a96d55e047295c898c8d36f59]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 101F(2)(b)[^f00108] of the Pension Schemes Act 1993 (authorised purpo
 
 ## Annotations
 
-[^key-f24a5b4a96d55e047295c898c8d36f59]: Commencement: Art. 122 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f24a5b4a96d55e047295c898c8d36f59]: Commencement: Art. 122 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00108]: Footnote: Section 101F was inserted by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) s. 37.

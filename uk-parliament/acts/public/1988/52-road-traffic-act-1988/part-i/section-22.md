@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Leaving vehicles in dangerous positions.[^c13972091][^key-d50e0f115590d61c1ad6c87a5be22f59]
+## 22. Leaving vehicles in dangerous positions.[^c13972091][^c-d50e0f115590d61c1ad6c87a5be22f59]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ If a person in charge of a vehicle causes or permits the vehicle or a trailer dr
 
 [^c13972091]: Modification: S. 22 applied (S.) (21.3.1999) by [S.I. 1999/854](https://www.legislation.gov.uk/uksi/1999/854), [art. 3(4)(a)(b)](https://www.legislation.gov.uk/uksi/1999/854/article/3/4/a/b)
 
-[^key-d50e0f115590d61c1ad6c87a5be22f59]: Modification: S. 22 excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-d50e0f115590d61c1ad6c87a5be22f59]: Modification: S. 22 excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c13972101]: Textual amendment: Words in s. 22 substituted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para.48](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/48); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2),Sch.

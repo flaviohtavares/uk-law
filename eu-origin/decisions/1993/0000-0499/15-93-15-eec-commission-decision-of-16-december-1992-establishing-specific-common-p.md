@@ -31,10 +31,10 @@ summary: ''
 
 of 16 December 1992 establishing specific common programmes for the vocational training of customs officials, with regard to inward processing, temporary admission and transit (Matthaeus programme) (revoked)
 
-[^key-2985693b8ff11cf1dda1fdf764c518cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2985693b8ff11cf1dda1fdf764c518cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-2985693b8ff11cf1dda1fdf764c518cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-2985693b8ff11cf1dda1fdf764c518cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2985693b8ff11cf1dda1fdf764c518cd]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2985693b8ff11cf1dda1fdf764c518cd]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

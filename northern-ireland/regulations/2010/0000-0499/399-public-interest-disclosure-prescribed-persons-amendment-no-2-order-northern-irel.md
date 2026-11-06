@@ -32,7 +32,7 @@ summary: ''
 
 Employment
 
-Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2010 (revoked)[^key-15acdc02f942e422142301da94abccb0]
+Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2010 (revoked)[^c-15acdc02f942e422142301da94abccb0]
 
 Made
 
@@ -42,22 +42,22 @@ Coming into operation
 
 16th January 2011
 
-[^key-15acdc02f942e422142301da94abccb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15acdc02f942e422142301da94abccb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-15acdc02f942e422142301da94abccb0]
+## 1. Citation and commencement[^c-15acdc02f942e422142301da94abccb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-15acdc02f942e422142301da94abccb0]
+## 2. Amendment[^c-15acdc02f942e422142301da94abccb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-15acdc02f942e422142301da94abccb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15acdc02f942e422142301da94abccb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-15acdc02f942e422142301da94abccb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15acdc02f942e422142301da94abccb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-15acdc02f942e422142301da94abccb0]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2010/399) revoked (1.10.2012) by [Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/283)](https://www.legislation.gov.uk/nisr/2012/283), [art. 3(b)](https://www.legislation.gov.uk/nisr/2012/283/article/3/b)
+[^c-15acdc02f942e422142301da94abccb0]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2010/399) revoked (1.10.2012) by [Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/283)](https://www.legislation.gov.uk/nisr/2012/283), [art. 3(b)](https://www.legislation.gov.uk/nisr/2012/283/article/3/b)

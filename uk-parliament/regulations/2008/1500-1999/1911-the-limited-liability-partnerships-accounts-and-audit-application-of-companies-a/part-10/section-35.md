@@ -45,7 +45,7 @@ Sections 480 and 481 [^c19348831] apply to LLPs, modified so that they read as f
 >
 > An LLP is not entitled to the exemption conferred by section 480 (dormant LLPs) if it was at any time within the financial year in question an LLP that—
 >
-> - (za)[^key-51c75e3f3adcd691ad0f0020e9b00eae] is a traded LLP as defined in section 474(1),
+> - (za)[^c-51c75e3f3adcd691ad0f0020e9b00eae] is a traded LLP as defined in section 474(1),
 > - (a) is an authorised insurance company, a banking LLP, an e-money issuer, a MiFID investment firm or a UCITS management company, or
 > - (b) carries on insurance market activity.
 
@@ -53,4 +53,4 @@ Sections 480 and 481 [^c19348831] apply to LLPs, modified so that they read as f
 
 [^c19348831]: Marginal citation: Section 481 was amended by regulation 3(6) of [S.I. 2007/2932](https://www.legislation.gov.uk/uksi/2007/2932).
 
-[^key-51c75e3f3adcd691ad0f0020e9b00eae]: Textual amendment: Words in reg. 35 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [23(2)](https://www.legislation.gov.uk/uksi/2016/575/regulation/23/2)
+[^c-51c75e3f3adcd691ad0f0020e9b00eae]: Textual amendment: Words in reg. 35 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [23(2)](https://www.legislation.gov.uk/uksi/2016/575/regulation/23/2)

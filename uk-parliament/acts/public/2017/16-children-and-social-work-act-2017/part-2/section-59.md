@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Parliamentary procedure for regulations under Part 2[^key-78c2d4a99c18f03ff414014785ef09fc]
+## 59. Parliamentary procedure for regulations under Part 2[^c-78c2d4a99c18f03ff414014785ef09fc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78c2d4a99c18f03ff414014785ef09fc]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2017/16/section/59) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(y)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/y)
+[^c-78c2d4a99c18f03ff414014785ef09fc]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2017/16/section/59) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(y)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/y)

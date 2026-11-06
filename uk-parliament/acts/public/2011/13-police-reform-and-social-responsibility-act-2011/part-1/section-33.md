@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Functions to be discharged by police and crime panel[^key-3ea0edf4f84eda0a4726fcb91fc903ea]
+## 33. Functions to be discharged by police and crime panel[^c-3ea0edf4f84eda0a4726fcb91fc903ea]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ea0edf4f84eda0a4726fcb91fc903ea]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2011/13/section/33) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 7(4)](https://www.legislation.gov.uk/uksi/2011/3019/article/7/4)) (as amended (14.11.2012) by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), art. 8(2))
+[^c-3ea0edf4f84eda0a4726fcb91fc903ea]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2011/13/section/33) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 7(4)](https://www.legislation.gov.uk/uksi/2011/3019/article/7/4)) (as amended (14.11.2012) by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), art. 8(2))

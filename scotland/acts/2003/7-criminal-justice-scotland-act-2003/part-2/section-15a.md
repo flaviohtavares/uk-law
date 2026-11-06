@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15A. Application of sections 271 to 271M of the 1995 Act in proofs ordered in relation to victim statements[^key-5f47192f572618ab1edaeaea3a5320c9]
+## 15A. Application of sections 271 to 271M of the 1995 Act in proofs ordered in relation to victim statements[^c-5f47192f572618ab1edaeaea3a5320c9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f47192f572618ab1edaeaea3a5320c9]: Textual amendment: S. 15A repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 89](https://www.legislation.gov.uk/asp/2010/13/section/89), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-5f47192f572618ab1edaeaea3a5320c9]: Textual amendment: S. 15A repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 89](https://www.legislation.gov.uk/asp/2010/13/section/89), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

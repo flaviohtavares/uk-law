@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Discharge or modification of obligation by Upper Tribunal[^key-74ad165f00b9b7ade37b0ef852d476c7][^key-98a17f2ea2c7f8b35b618d688322172d]
+## 130. Discharge or modification of obligation by Upper Tribunal[^c-74ad165f00b9b7ade37b0ef852d476c7][^c-98a17f2ea2c7f8b35b618d688322172d]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74ad165f00b9b7ade37b0ef852d476c7]: Commencement: S. 130 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-74ad165f00b9b7ade37b0ef852d476c7]: Commencement: S. 130 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-98a17f2ea2c7f8b35b618d688322172d]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2021/30/section/130) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-98a17f2ea2c7f8b35b618d688322172d]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2021/30/section/130) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

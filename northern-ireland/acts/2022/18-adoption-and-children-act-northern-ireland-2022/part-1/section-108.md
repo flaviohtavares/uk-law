@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 108. Evidence of consent[^key-13d094a9acba86a3e74b2d21ea2077bc]
+## 108. Evidence of consent[^c-13d094a9acba86a3e74b2d21ea2077bc]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13d094a9acba86a3e74b2d21ea2077bc]: Commencement: S. 108 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-13d094a9acba86a3e74b2d21ea2077bc]: Commencement: S. 108 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

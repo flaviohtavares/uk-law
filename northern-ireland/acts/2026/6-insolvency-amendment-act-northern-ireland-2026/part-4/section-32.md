@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Appointment of liquidator[^key-3bbd403cd9594e5b2fa1e5b64beaa091]
+## 32. Appointment of liquidator[^c-3bbd403cd9594e5b2fa1e5b64beaa091]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ For Article 86(1) (appointment of liquidator) substitute—
 
 ## Annotations
 
-[^key-3bbd403cd9594e5b2fa1e5b64beaa091]: Commencement: S. 32 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-3bbd403cd9594e5b2fa1e5b64beaa091]: Commencement: S. 32 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

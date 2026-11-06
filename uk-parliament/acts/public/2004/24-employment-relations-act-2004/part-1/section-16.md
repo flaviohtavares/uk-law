@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Means of communicating with workers[^key-3af4f05b35e0992d71da3aec4fee4918]
+## 16. Means of communicating with workers[^c-3af4f05b35e0992d71da3aec4fee4918]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ After paragraph 166 of Schedule A1 to the 1992 Act insert—
 
 ## Annotations
 
-[^key-3af4f05b35e0992d71da3aec4fee4918]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2004/24/section/16) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
+[^c-3af4f05b35e0992d71da3aec4fee4918]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2004/24/section/16) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)

@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Charges for Inspections and Controls (Amendment) Regulations 2006 (revoked)[^key-6dcb8f96122d7012457e62e5a2b5231a]
+The Charges for Inspections and Controls (Amendment) Regulations 2006 (revoked)[^c-6dcb8f96122d7012457e62e5a2b5231a]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2006
 
-[^key-6dcb8f96122d7012457e62e5a2b5231a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6dcb8f96122d7012457e62e5a2b5231a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-6dcb8f96122d7012457e62e5a2b5231a]
+## 1. Title and commencement[^c-6dcb8f96122d7012457e62e5a2b5231a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Charges for Inspections and Controls Regulations 1997[^key-6dcb8f96122d7012457e62e5a2b5231a]
+## 2. Amendment of the Charges for Inspections and Controls Regulations 1997[^c-6dcb8f96122d7012457e62e5a2b5231a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dcb8f96122d7012457e62e5a2b5231a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6dcb8f96122d7012457e62e5a2b5231a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6dcb8f96122d7012457e62e5a2b5231a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6dcb8f96122d7012457e62e5a2b5231a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6dcb8f96122d7012457e62e5a2b5231a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/756) revoked (1.10.2006) by [The Charges for Residues Surveillance Regulations 2006 (S.I. 2006/2285)](https://www.legislation.gov.uk/uksi/2006/2285), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2285/schedule/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2006/2285/regulation/6))
+[^c-6dcb8f96122d7012457e62e5a2b5231a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/756) revoked (1.10.2006) by [The Charges for Residues Surveillance Regulations 2006 (S.I. 2006/2285)](https://www.legislation.gov.uk/uksi/2006/2285), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2285/schedule/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2006/2285/regulation/6))

@@ -50,17 +50,17 @@ The Lord Chancellor makes the following Order in exercise of the powers conferre
 
 In accordance with section 40(5) of that Act the Lord Chancellor has consulted the Senior President of Tribunals.
 
-**1.**[^key-3b644508836a11580aeff5ac240311aa] This Order may be cited as the Contracting Out (Administrative Work of Tribunals) Order 2009 and comes into force on 2nd March 2009.
+**1.**[^c-3b644508836a11580aeff5ac240311aa] This Order may be cited as the Contracting Out (Administrative Work of Tribunals) Order 2009 and comes into force on 2nd March 2009.
 
-**2.**[^key-d9a23e7d6fd7ac4988ed271073ef5a12] The Lord Chancellor may enter into such contracts with other persons for the provision, by them or their sub-contractors, of staff to carry out the administrative work of—
+**2.**[^c-d9a23e7d6fd7ac4988ed271073ef5a12] The Lord Chancellor may enter into such contracts with other persons for the provision, by them or their sub-contractors, of staff to carry out the administrative work of—
 
 - (a) the First-tier Tribunal;
 - (b) the Upper Tribunal;
 - (c) employment tribunals;
-- (d) the Employment Appeal Tribunal; [^key-3f8b1552afab8fae857573c959e30416]...
-- (e)[^key-3f8b1552afab8fae857573c959e30416] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the Employment Appeal Tribunal; [^c-3f8b1552afab8fae857573c959e30416]...
+- (e)[^c-3f8b1552afab8fae857573c959e30416] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-662d069985d8b56c0e2fcda53769c45e] In the table in article 2(2) of the Contracting Out of Functions (Tribunal Staff) Order 2001[^f00002] omit the following entries—
+**3.**[^c-662d069985d8b56c0e2fcda53769c45e] In the table in article 2(2) of the Contracting Out of Functions (Tribunal Staff) Order 2001[^f00002] omit the following entries—
 
 - (a) paragraph 7 of Schedule 2 to the Immigration and Asylum Act 1999[^f00003] (Immigration Appeal Tribunal); and
 - (b) paragraph 7 of Schedule 3 to that Act (adjudicators for the purposes of the Immigration and Asylum Act 1999).
@@ -85,13 +85,13 @@ This Order enables the Lord Chancellor to enter into contracts with other person
 
 [^f00001]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-3b644508836a11580aeff5ac240311aa]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/121/article/1) in force at 2.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/121/article/1)
+[^c-3b644508836a11580aeff5ac240311aa]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/121/article/1) in force at 2.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/121/article/1)
 
-[^key-d9a23e7d6fd7ac4988ed271073ef5a12]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/121/article/2) in force at 2.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/121/article/1)
+[^c-d9a23e7d6fd7ac4988ed271073ef5a12]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/121/article/2) in force at 2.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/121/article/1)
 
-[^key-3f8b1552afab8fae857573c959e30416]: Textual amendment: [Art. 2(e)](https://www.legislation.gov.uk/uksi/2009/121/article/2/e) and word omitted (15.2.2010) by virtue of [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2010/21/schedule/2/paragraph/29)
+[^c-3f8b1552afab8fae857573c959e30416]: Textual amendment: [Art. 2(e)](https://www.legislation.gov.uk/uksi/2009/121/article/2/e) and word omitted (15.2.2010) by virtue of [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2010/21/schedule/2/paragraph/29)
 
-[^key-662d069985d8b56c0e2fcda53769c45e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/121/article/3) in force at 2.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/121/article/1)
+[^c-662d069985d8b56c0e2fcda53769c45e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/121/article/3) in force at 2.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/121/article/1)
 
 [^f00002]: Footnote: [S.I. 2001/3539](https://www.legislation.gov.uk/uksi/2001/3539).
 

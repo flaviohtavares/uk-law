@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. The Public Gas Transporter Pipe-line Works (Environmental Impact Assessment) Regulations 1999[^key-3f47122aaf2c824989e996aca8c7f09f]
+## 22. The Public Gas Transporter Pipe-line Works (Environmental Impact Assessment) Regulations 1999[^c-3f47122aaf2c824989e996aca8c7f09f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In regulation 2 of the Public Gas Transporter Pipe-line Works (Environmental Imp
 
 ## Annotations
 
-[^key-3f47122aaf2c824989e996aca8c7f09f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2024/924/regulation/22) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-3f47122aaf2c824989e996aca8c7f09f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2024/924/regulation/22) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 1999/1672](https://www.legislation.gov.uk/uksi/1999/1672), to which there are amendments not relevant to these Regulations.

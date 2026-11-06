@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74I. Collection of data relating to use of the online consultation tool and video consultations[^key-875ca18f9833dff2058a81321d00119d]
+## 74I. Collection of data relating to use of the online consultation tool and video consultations[^c-875ca18f9833dff2058a81321d00119d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-875ca18f9833dff2058a81321d00119d]: Textual amendment: [Reg. 74I](https://www.legislation.gov.uk/uksi/2015/1862/regulation/74I) substituted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2026/532/schedule/1/paragraph/3)
+[^c-875ca18f9833dff2058a81321d00119d]: Textual amendment: [Reg. 74I](https://www.legislation.gov.uk/uksi/2015/1862/regulation/74I) substituted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2026/532/schedule/1/paragraph/3)

@@ -43,21 +43,21 @@ The Welsh Ministers make the following Regulations in exercise of the power conf
 
 In accordance with section 256(3) and (4)(n) of that Act, a draft of these Regulations has been laid before, and approved by a resolution of, Senedd Cymru[^f00002].
 
-## 1. Title and coming into force[^key-6650968925a83351f15f23a79a663016]
+## 1. Title and coming into force[^c-6650968925a83351f15f23a79a663016]
 
 (1) The title of these Regulations is the Renting Homes (Wales) Act 2016 (Amendment of Schedule 12 and Consequential Amendment) Regulations 2022.
 
 (2) These Regulations come into force at 11.00 p.m. on 30 November 2022.
 
-## 2. Amendments to Schedule 12[^key-7159dc57be5de4cf79fc16229d981fdc]
+## 2. Amendments to Schedule 12[^c-7159dc57be5de4cf79fc16229d981fdc]
 
 Schedule 12[^f00003] to the Renting Homes (Wales) Act 2016 is amended as follows.
 
-## 3.[^key-a83ece0b4fbb02f81b936b5e5a770e05]
+## 3.[^c-a83ece0b4fbb02f81b936b5e5a770e05]
 
 In paragraph 13B[^f00004], after “periodic standard contract” insert “under which the landlord is a private landlord and”.
 
-## 4.[^key-542120cd4d62103891b57f703badc582]
+## 4.[^c-542120cd4d62103891b57f703badc582]
 
 In paragraph 15, after sub-paragraph (1) insert—
 
@@ -67,7 +67,7 @@ In paragraph 15, after sub-paragraph (1) insert—
 >
 > .
 
-## 5.[^key-f82e75728c76ed641e8cf2d4eef96c82]
+## 5.[^c-f82e75728c76ed641e8cf2d4eef96c82]
 
 In paragraph 25A(2)[^f00005], for paragraph (a) substitute—
 
@@ -75,7 +75,7 @@ In paragraph 25A(2)[^f00005], for paragraph (a) substitute—
 
 .
 
-## 6. Amendment to the Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022[^key-b3cd7c04bbea41193859eddf03456cfe]
+## 6. Amendment to the Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022[^c-b3cd7c04bbea41193859eddf03456cfe]
 
 In regulation 10 (rent determination) of the Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022[^f00006], for paragraph (6), substitute—
 
@@ -109,22 +109,22 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The reference in section 256(3) and (5) of the Renting Homes (Wales) Act 2016 to the National Assembly for Wales now has effect as a reference to Senedd Cymru by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-6650968925a83351f15f23a79a663016]: Commencement: Reg. 1 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
+[^c-6650968925a83351f15f23a79a663016]: Commencement: Reg. 1 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
 
-[^key-7159dc57be5de4cf79fc16229d981fdc]: Commencement: Reg. 2 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
+[^c-7159dc57be5de4cf79fc16229d981fdc]: Commencement: Reg. 2 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
 
 [^f00003]: Footnote: Schedule 12 was amended by section 18 of, and paragraphs 1 and 27 of Schedule 6 to, the Renting Homes (Amendment) (Wales) Act [2021 (asc. 3)](https://www.legislation.gov.uk/asc/2021/3) and by [S.I. 2022/795 (W. 173)](https://www.legislation.gov.uk/wsi/2022/795).
 
-[^key-a83ece0b4fbb02f81b936b5e5a770e05]: Commencement: Reg. 3 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
+[^c-a83ece0b4fbb02f81b936b5e5a770e05]: Commencement: Reg. 3 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
 
 [^f00004]: Footnote: Paragraph 13B was inserted by regulations 2 and 11 of [S.I. 2022/795 (W. 173)](https://www.legislation.gov.uk/wsi/2022/795).
 
-[^key-542120cd4d62103891b57f703badc582]: Commencement: Reg. 4 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
+[^c-542120cd4d62103891b57f703badc582]: Commencement: Reg. 4 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
 
-[^key-f82e75728c76ed641e8cf2d4eef96c82]: Commencement: Reg. 5 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
+[^c-f82e75728c76ed641e8cf2d4eef96c82]: Commencement: Reg. 5 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
 
 [^f00005]: Footnote: Paragraph 25A was inserted by section 18 of, and paragraph 27 of Schedule 6 to, the Renting Homes (Amendment) (Wales) Act 2021 and amended by regulations 2 and 15 of [S.I. 2022/795 (W. 173)](https://www.legislation.gov.uk/wsi/2022/795).
 
-[^key-b3cd7c04bbea41193859eddf03456cfe]: Commencement: Reg. 6 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
+[^c-b3cd7c04bbea41193859eddf03456cfe]: Commencement: Reg. 6 in force at 30.11.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1258/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2022/1172 (W. 242)](https://www.legislation.gov.uk/wsi/2022/1172).

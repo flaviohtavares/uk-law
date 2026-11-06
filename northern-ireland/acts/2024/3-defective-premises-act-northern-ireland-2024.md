@@ -36,7 +36,7 @@ An Act to amend the law as to liability for defects in the state of dwellings; a
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by His Majesty as follows:
 
-## 1. Duties relating to work to dwellings[^key-5ab576a4054c661947062de74e93ec08]
+## 1. Duties relating to work to dwellings[^c-5ab576a4054c661947062de74e93ec08]
 
 (1) In the Defective Premises (Northern Ireland) Order 1975 after Article 4 insert—
 
@@ -68,7 +68,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (2) The amendment made by this section applies in relation to work completed after the coming into operation of this section.
 
-## 2. Limitation periods[^key-52b4b11797140e7a72ba997f440cd155]
+## 2. Limitation periods[^c-52b4b11797140e7a72ba997f440cd155]
 
 (1) After Article 8 of the Limitation (Northern Ireland) Order 1989 insert—
 
@@ -98,7 +98,7 @@ Article 8A of the Limitation (Northern Ireland) Order 1989 (inserted by subsecti
 
 (5) Nothing in this section applies in relation to a claim which, before this section came into operation, was settled by agreement between the parties or finally determined by a court or arbitration (whether on the basis of limitation or otherwise).
 
-## 3. Defective premises: transfer of functions[^key-389a4eff853ed78e175ca1b085d8d21a]
+## 3. Defective premises: transfer of functions[^c-389a4eff853ed78e175ca1b085d8d21a]
 
 (1) The functions which immediately before the coming into operation of this section are exercisable by the Department of Agriculture, Environment and Rural Affairs under or for the purposes of the Defective Premises (Northern Ireland) Order 1975 are transferred to the Department for Communities.
 
@@ -108,7 +108,7 @@ Article 8A of the Limitation (Northern Ireland) Order 1989 (inserted by subsecti
 
 .
 
-## 4. Short title and commencement[^key-7dfb66407be0150653429ecae7186d0d]
+## 4. Short title and commencement[^c-7dfb66407be0150653429ecae7186d0d]
 
 (1) This Act may be cited as the Defective Premises Act (Northern Ireland) 2024.
 
@@ -116,10 +116,10 @@ Article 8A of the Limitation (Northern Ireland) Order 1989 (inserted by subsecti
 
 ## Annotations
 
-[^key-5ab576a4054c661947062de74e93ec08]: Commencement: S. 1 in operation at 21.9.2024, see [s. 4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2)
+[^c-5ab576a4054c661947062de74e93ec08]: Commencement: S. 1 in operation at 21.9.2024, see [s. 4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2)
 
-[^key-52b4b11797140e7a72ba997f440cd155]: Commencement: S. 2 in operation at 21.9.2024, see [s. 4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2)
+[^c-52b4b11797140e7a72ba997f440cd155]: Commencement: S. 2 in operation at 21.9.2024, see [s. 4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2)
 
-[^key-389a4eff853ed78e175ca1b085d8d21a]: Commencement: S. 3 in operation at 21.9.2024, see [s. 4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2)
+[^c-389a4eff853ed78e175ca1b085d8d21a]: Commencement: S. 3 in operation at 21.9.2024, see [s. 4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2)
 
-[^key-7dfb66407be0150653429ecae7186d0d]: Commencement: S. 4 in operation at 21.9.2024, see [s. 4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2)
+[^c-7dfb66407be0150653429ecae7186d0d]: Commencement: S. 4 in operation at 21.9.2024, see [s. 4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2)

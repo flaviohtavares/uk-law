@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Short title[^key-9fc370dcc2d9720502e7efeb862c17f5]
+## 221. Short title[^c-9fc370dcc2d9720502e7efeb862c17f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Economic Crime and Corporate Transparency Act 2023.
 
 ## Annotations
 
-[^key-9fc370dcc2d9720502e7efeb862c17f5]: Commencement: S. 221 in force at Royal Assent, see [s. 219(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/a)
+[^c-9fc370dcc2d9720502e7efeb862c17f5]: Commencement: S. 221 in force at Royal Assent, see [s. 219(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/a)

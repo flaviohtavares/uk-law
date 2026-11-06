@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Searches and copies[^key-06ac839792bc8c5ce50ec6559578d03d]
+## 77. Searches and copies[^c-06ac839792bc8c5ce50ec6559578d03d]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ also apply in respect of searches, and supplies of certified copies, under subse
 
 ## Annotations
 
-[^key-06ac839792bc8c5ce50ec6559578d03d]: Commencement: S. 77 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-06ac839792bc8c5ce50ec6559578d03d]: Commencement: S. 77 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

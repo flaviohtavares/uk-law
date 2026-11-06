@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State makes this Order in exercise of the powers conferred by sections 36(1)(a), 39(2)(c) and 42(1)(b) of the Equality Act 2006[^f00001].
 
-## 1. Citation, commencement and extent[^key-aa18d9e5ccfc2bcdc919ff8406c7c7de]
+## 1. Citation, commencement and extent[^c-aa18d9e5ccfc2bcdc919ff8406c7c7de]
 
 (1) This Order may be cited as the Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 and shall come into force on 1st October 2007.
 
 (2) This Order does not extend to Northern Ireland.
 
-## 2. Interpretation[^key-7c97517c15c5235c25e59d7278d57714]
+## 2. Interpretation[^c-7c97517c15c5235c25e59d7278d57714]
 
 In this Order—
 
@@ -64,11 +64,11 @@ In this Order—
   except in paragraph (2) of article 4 “the Commission” means the Commission for Equality and Human Rights; and
 - “the former Commissions” means the Commission for Racial Equality, the Disability Rights Commission and the Equal Opportunities Commission.
 
-## 3. Dissolution of former Commissions[^key-235c7df1f126d1b26571e6c7cad7ca59]
+## 3. Dissolution of former Commissions[^c-235c7df1f126d1b26571e6c7cad7ca59]
 
 The former Commissions shall cease to exist.
 
-## 4. Consequential amendments and modifications[^key-411ded741465301f0e51ff134d9033a2]
+## 4. Consequential amendments and modifications[^c-411ded741465301f0e51ff134d9033a2]
 
 (1) The Schedule to this Order shall have effect for the amendment and modification of subordinate legislation in consequence of the dissolution of the former Commissions and the establishment of the Commission.
 
@@ -79,7 +79,7 @@ The former Commissions shall cease to exist.
 - (c) references to additional Commissioners include Investigating Commissioners under paragraph 9 of Schedule 1 to the 2006 Act; and
 - (d) references to employees of the Commission include employees of the Commission for Equality and Human Rights.
 
-## 5. Transitional provisions: the Commission and the functions of the former Commissions[^key-10aec1e53df6651c41f13445bc3fd47a]
+## 5. Transitional provisions: the Commission and the functions of the former Commissions[^c-10aec1e53df6651c41f13445bc3fd47a]
 
 (1) The Commission shall discharge the functions of the former Commissions—
 
@@ -107,7 +107,7 @@ Department for Communities and Local Government
 
 7th September 2007
 
-## SCHEDULE — CONSEQUENTIAL AMENDMENTS[^key-d997c93f72c8715ab13eccb0d8fd8949]
+## SCHEDULE — CONSEQUENTIAL AMENDMENTS[^c-d997c93f72c8715ab13eccb0d8fd8949]
 
 Article 4
 
@@ -250,9 +250,9 @@ A regulatory impact assessment was produced for the CEHR and is available on the
 
 [^f00001]: Footnote: [2006 c.3](https://www.legislation.gov.uk/ukpga/2006/3).
 
-[^key-aa18d9e5ccfc2bcdc919ff8406c7c7de]: Commencement: Art. 1 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
+[^c-aa18d9e5ccfc2bcdc919ff8406c7c7de]: Commencement: Art. 1 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
 
-[^key-7c97517c15c5235c25e59d7278d57714]: Commencement: Art. 2 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
+[^c-7c97517c15c5235c25e59d7278d57714]: Commencement: Art. 2 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
 
 [^f00002]: Footnote: [1975 c.65](https://www.legislation.gov.uk/ukpga/1975/65).
 
@@ -260,10 +260,10 @@ A regulatory impact assessment was produced for the CEHR and is available on the
 
 [^f00004]: Footnote: [1999 c.17](https://www.legislation.gov.uk/ukpga/1999/17).
 
-[^key-235c7df1f126d1b26571e6c7cad7ca59]: Commencement: Art. 3 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
+[^c-235c7df1f126d1b26571e6c7cad7ca59]: Commencement: Art. 3 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
 
-[^key-411ded741465301f0e51ff134d9033a2]: Commencement: Art. 4 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
+[^c-411ded741465301f0e51ff134d9033a2]: Commencement: Art. 4 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
 
-[^key-10aec1e53df6651c41f13445bc3fd47a]: Commencement: Art. 5 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
+[^c-10aec1e53df6651c41f13445bc3fd47a]: Commencement: Art. 5 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
 
-[^key-d997c93f72c8715ab13eccb0d8fd8949]: Commencement: Sch. in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
+[^c-d997c93f72c8715ab13eccb0d8fd8949]: Commencement: Sch. in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)

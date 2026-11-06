@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4A. Exemptions—Vehicle Examiners[^key-008dc76ad258b78ba62e31c73932253a]
+## 4A. Exemptions—Vehicle Examiners[^c-008dc76ad258b78ba62e31c73932253a]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-008dc76ad258b78ba62e31c73932253a]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/4A) added (12.12.2005) by [The Road Vehicles Lighting (Amendment) (No. 2) Regulations 2005 (S.I. 2005/3169)](https://www.legislation.gov.uk/uksi/2005/3169), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3169/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/3169/regulation/2/2)
+[^c-008dc76ad258b78ba62e31c73932253a]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/4A) added (12.12.2005) by [The Road Vehicles Lighting (Amendment) (No. 2) Regulations 2005 (S.I. 2005/3169)](https://www.legislation.gov.uk/uksi/2005/3169), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3169/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/3169/regulation/2/2)

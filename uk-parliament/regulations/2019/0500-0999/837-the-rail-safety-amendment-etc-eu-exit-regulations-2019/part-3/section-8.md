@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Revocation of Commission Decision 2012/226/EU[^key-5e611a2790a74e191c8e30f48aa2c37c]
+## 8. Revocation of Commission Decision 2012/226/EU[^c-5e611a2790a74e191c8e30f48aa2c37c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Decision 2012/226/EU on the second set of common safety targets (noti
 
 ## Annotations
 
-[^key-5e611a2790a74e191c8e30f48aa2c37c]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5e611a2790a74e191c8e30f48aa2c37c]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

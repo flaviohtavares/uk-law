@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 3. Functions of mission and pastoral committees[^key-bcd7cf53977391f2df87310087945677]
+## 3. Functions of mission and pastoral committees[^c-bcd7cf53977391f2df87310087945677]
 
 *Extent: E*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcd7cf53977391f2df87310087945677]: Commencement: S. 3 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-bcd7cf53977391f2df87310087945677]: Commencement: S. 3 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Consultation on common grazings[^key-980914e86c026385e279a559b756b20d]
+## 26. Consultation on common grazings[^c-980914e86c026385e279a559b756b20d]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-980914e86c026385e279a559b756b20d]: Commencement: S. 26 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-980914e86c026385e279a559b756b20d]: Commencement: S. 26 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

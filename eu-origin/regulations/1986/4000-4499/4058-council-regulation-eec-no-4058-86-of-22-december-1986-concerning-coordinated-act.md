@@ -33,28 +33,28 @@ of 22 December 1986
 
 concerning coordinated action to safeguard free access to cargoes in ocean trades (revoked)
 
-[^key-fe03ae58962cc3fb8c876e5fd6800de3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe03ae58962cc3fb8c876e5fd6800de3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-fe03ae58962cc3fb8c876e5fd6800de3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe03ae58962cc3fb8c876e5fd6800de3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe03ae58962cc3fb8c876e5fd6800de3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe03ae58962cc3fb8c876e5fd6800de3]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/488/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe03ae58962cc3fb8c876e5fd6800de3]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/488/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

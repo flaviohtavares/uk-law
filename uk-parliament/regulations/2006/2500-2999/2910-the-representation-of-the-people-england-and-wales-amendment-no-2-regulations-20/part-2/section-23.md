@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Anonymous registration: amendment relating to edited version of the register[^key-df4a198bd09403094444215be02a8ffa]
+## 23. Anonymous registration: amendment relating to edited version of the register[^c-df4a198bd09403094444215be02a8ffa]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ After regulation 93(2)[^f00046] insert—
 
 ## Annotations
 
-[^key-df4a198bd09403094444215be02a8ffa]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2006/2910/regulation/23) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-df4a198bd09403094444215be02a8ffa]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2006/2910/regulation/23) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00046]: Footnote: Regulation 93(2) was inserted by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871).

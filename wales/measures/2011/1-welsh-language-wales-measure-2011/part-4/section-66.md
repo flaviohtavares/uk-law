@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Welsh Ministers to have due regard to report[^key-3b813fd4bc4023b55b6afc81bbe2d47d]
+## 66. Welsh Ministers to have due regard to report[^c-3b813fd4bc4023b55b6afc81bbe2d47d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b813fd4bc4023b55b6afc81bbe2d47d]: Commencement: [S. 66](https://www.legislation.gov.uk/mwa/2011/1/section/66) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)
+[^c-3b813fd4bc4023b55b6afc81bbe2d47d]: Commencement: [S. 66](https://www.legislation.gov.uk/mwa/2011/1/section/66) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)

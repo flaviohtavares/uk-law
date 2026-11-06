@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) A contracting authority must offer on the internet unrestricted and full direct access free of charge to the procurement documents from the date of publication of a notice in accordance with regulation 52 (publication on the UK e-notification service[^key-ab4e2976de1c83eff3d88fbe6a1cea72]) or the date on which an invitation to confirm interest was sent.
+(1) A contracting authority must offer on the internet unrestricted and full direct access free of charge to the procurement documents from the date of publication of a notice in accordance with regulation 52 (publication on the UK e-notification service[^c-ab4e2976de1c83eff3d88fbe6a1cea72]) or the date on which an invitation to confirm interest was sent.
 
 (2) The text of the notice or the invitation to confirm interest must specify the internet address at which the procurement documents are accessible.
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab4e2976de1c83eff3d88fbe6a1cea72]: Textual amendment: Words in [reg. 54(1)](https://www.legislation.gov.uk/ssi/2015/446/regulation/54/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(37)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/37) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-ab4e2976de1c83eff3d88fbe6a1cea72]: Textual amendment: Words in [reg. 54(1)](https://www.legislation.gov.uk/ssi/2015/446/regulation/54/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(37)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/37) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

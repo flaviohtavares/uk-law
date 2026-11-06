@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Scope and terms of service[^key-f3e55861bb9d4abfb9a6845a120c5366]
+## 3. Scope and terms of service[^c-f3e55861bb9d4abfb9a6845a120c5366]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3e55861bb9d4abfb9a6845a120c5366]: Commencement: Reg. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-f3e55861bb9d4abfb9a6845a120c5366]: Commencement: Reg. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00015]: Footnote: Article 56 was amended by Article 12 of [S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907), Article 5 of [S.I. 1981/432](https://www.legislation.gov.uk/uksi/1981/432), Article 7 of [S.I. 1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229) and Article 29 of, and Part I of Schedule 6 to, [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)

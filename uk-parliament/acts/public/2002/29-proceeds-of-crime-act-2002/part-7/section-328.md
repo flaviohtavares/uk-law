@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 328. Arrangements[^key-b02f1552cdcb3158d86a520d56f6eaa0][^key-ab8d591eb66fe915fb3e58427c0f1106][^key-ab8d591eb66fe915fb3e58427c0f1106]
+## 328. Arrangements[^c-b02f1552cdcb3158d86a520d56f6eaa0][^c-ab8d591eb66fe915fb3e58427c0f1106][^c-ab8d591eb66fe915fb3e58427c0f1106]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) he intended to make such a disclosure but had a reasonable excuse for not doing so;
 - (c) the act he does is done in carrying out a function he has relating to the enforcement of any provision of this Act or of any other enactment relating to criminal conduct or benefit from criminal conduct.
 
-(3)[^key-28c5f0bcc9fd0dec16b43e55380ac285] Nor does a person commit an offence under subsection (1) if—
+(3)[^c-28c5f0bcc9fd0dec16b43e55380ac285] Nor does a person commit an offence under subsection (1) if—
 
 - (a) he knows, or believes on reasonable grounds, that the relevant criminal conduct occurred in a particular country or territory outside the United Kingdom, and
 - (b) the relevant criminal conduct—
@@ -37,12 +37,12 @@ summary: ''
 
 (4) In subsection (3) “ **the relevant criminal conduct** ” is the criminal conduct by reference to which the property concerned is criminal property.
 
-(5)[^key-213ac7c75754ffc1cf2277d4ced36f82] A deposit-taking body , electronic money institution or payment institution[^key-39f68010543f9f6c017f07a42d45206f] that does an act mentioned in subsection (1) does not commit an offence under that subsection if—
+(5)[^c-213ac7c75754ffc1cf2277d4ced36f82] A deposit-taking body , electronic money institution or payment institution[^c-39f68010543f9f6c017f07a42d45206f] that does an act mentioned in subsection (1) does not commit an offence under that subsection if—
 
 - (a) it does the act in operating an account maintained with it, and
 - (b) the arrangement facilitates the acquisition, retention, use or control of criminal property of a value that is less than the threshold amount determined under section 339A for the act.
 
-(6)[^key-ce9d07d4449b2e2e6590facd216fab2a] A person (“**P**”) who does an act mentioned in subsection (1) does not commit an offence under that subsection if—
+(6)[^c-ce9d07d4449b2e2e6590facd216fab2a] A person (“**P**”) who does an act mentioned in subsection (1) does not commit an offence under that subsection if—
 
 - (a) P is carrying on business in the regulated sector that is not excluded business,
 - (b) P does the act, in the course of that business—
@@ -57,7 +57,7 @@ summary: ''
 - (b) a reference to property being transferred or handed over to the customer or client includes a reference to property being transferred or handed over to another person at the direction of the customer or client;
 - (c) “**customer due diligence duties**” means all duties imposed on P in relation to the customer or client by regulation 28(2), (3), (3A), (4), (8) or (10) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 ([S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692)) (customer due diligence measures).
 
-(8)[^key-f5b329ef4ab6294aad3741f92683fa96] A person (“**P**”) who does an act mentioned in subsection (1) does not commit an offence under that subsection if—
+(8)[^c-f5b329ef4ab6294aad3741f92683fa96] A person (“**P**”) who does an act mentioned in subsection (1) does not commit an offence under that subsection if—
 
 - (a) P is carrying on business in the regulated sector,
 - (b) P does the act in the course of that business, on behalf of a customer or client, in operating an account or accounts maintained with P or in connection with holding any property for the customer or client,
@@ -72,16 +72,16 @@ summary: ''
 
 ## Annotations
 
-[^key-b02f1552cdcb3158d86a520d56f6eaa0]: Commencement: S. 328 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-b02f1552cdcb3158d86a520d56f6eaa0]: Commencement: S. 328 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-ab8d591eb66fe915fb3e58427c0f1106]: Modification: Pt. 7 applied (24.2.2003) by [Proceeds of Crime Act 2002 (Crown Servants) Regulations 2003 (S.I. 2003/173)](https://www.legislation.gov.uk/uksi/2003/173), [regs. 1](https://www.legislation.gov.uk/uksi/2003/173/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/173/regulation/3)
+[^c-ab8d591eb66fe915fb3e58427c0f1106]: Modification: Pt. 7 applied (24.2.2003) by [Proceeds of Crime Act 2002 (Crown Servants) Regulations 2003 (S.I. 2003/173)](https://www.legislation.gov.uk/uksi/2003/173), [regs. 1](https://www.legislation.gov.uk/uksi/2003/173/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/173/regulation/3)
 
-[^key-28c5f0bcc9fd0dec16b43e55380ac285]: Textual amendment: S. 328(3)(4) inserted (15.5.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 102(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/102/3), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2006/1085](https://www.legislation.gov.uk/uksi/2006/1085), [art. 3](https://www.legislation.gov.uk/uksi/2006/1085/article/3)
+[^c-28c5f0bcc9fd0dec16b43e55380ac285]: Textual amendment: S. 328(3)(4) inserted (15.5.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 102(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/102/3), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2006/1085](https://www.legislation.gov.uk/uksi/2006/1085), [art. 3](https://www.legislation.gov.uk/uksi/2006/1085/article/3)
 
-[^key-213ac7c75754ffc1cf2277d4ced36f82]: Textual amendment: S. 328(5) inserted (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 103(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/103/3), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/c)
+[^c-213ac7c75754ffc1cf2277d4ced36f82]: Textual amendment: S. 328(5) inserted (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 103(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/103/3), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/c)
 
-[^key-39f68010543f9f6c017f07a42d45206f]: Textual amendment: Words in [s. 328(5)](https://www.legislation.gov.uk/ukpga/2002/29/section/328/5) inserted (29.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2021/22/section/32/3), [49(2)(b)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/2/b)
+[^c-39f68010543f9f6c017f07a42d45206f]: Textual amendment: Words in [s. 328(5)](https://www.legislation.gov.uk/ukpga/2002/29/section/328/5) inserted (29.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2021/22/section/32/3), [49(2)(b)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/2/b)
 
-[^key-ce9d07d4449b2e2e6590facd216fab2a]: Textual amendment: S. 328(6)(7) inserted (26.10.2023) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 182(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/182/3), [219(2)(f)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/f)
+[^c-ce9d07d4449b2e2e6590facd216fab2a]: Textual amendment: S. 328(6)(7) inserted (26.10.2023) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 182(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/182/3), [219(2)(f)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/f)
 
-[^key-f5b329ef4ab6294aad3741f92683fa96]: Textual amendment: [S. 328(8)](https://www.legislation.gov.uk/ukpga/2002/29/section/328/8)[(9)](https://www.legislation.gov.uk/ukpga/2002/29/section/328/9) inserted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 183(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/183/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/f)
+[^c-f5b329ef4ab6294aad3741f92683fa96]: Textual amendment: [S. 328(8)](https://www.legislation.gov.uk/ukpga/2002/29/section/328/8)[(9)](https://www.legislation.gov.uk/ukpga/2002/29/section/328/9) inserted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 183(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/183/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/f)

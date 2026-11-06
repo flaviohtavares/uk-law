@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People
 
-The Elections (Policy Development Grants Scheme) (Amendment) Order 2018 (revoked)[^key-d7c1a94b65bde5f00f4546a487b7b324]
+The Elections (Policy Development Grants Scheme) (Amendment) Order 2018 (revoked)[^c-d7c1a94b65bde5f00f4546a487b7b324]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 6th March 2018
 
-[^key-d7c1a94b65bde5f00f4546a487b7b324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7c1a94b65bde5f00f4546a487b7b324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-d7c1a94b65bde5f00f4546a487b7b324]
+## 1. Citation, commencement and interpretation[^c-d7c1a94b65bde5f00f4546a487b7b324]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the policy development grants scheme[^key-d7c1a94b65bde5f00f4546a487b7b324]
+## 2. Amendments to the policy development grants scheme[^c-d7c1a94b65bde5f00f4546a487b7b324]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d7c1a94b65bde5f00f4546a487b7b324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7c1a94b65bde5f00f4546a487b7b324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amendment to the Scheme[^key-d7c1a94b65bde5f00f4546a487b7b324]
+## SCHEDULE — Amendment to the Scheme[^c-d7c1a94b65bde5f00f4546a487b7b324]
 
 Article 2
 
-**1.**[^key-d7c1a94b65bde5f00f4546a487b7b324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d7c1a94b65bde5f00f4546a487b7b324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d7c1a94b65bde5f00f4546a487b7b324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d7c1a94b65bde5f00f4546a487b7b324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d7c1a94b65bde5f00f4546a487b7b324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d7c1a94b65bde5f00f4546a487b7b324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d7c1a94b65bde5f00f4546a487b7b324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d7c1a94b65bde5f00f4546a487b7b324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d7c1a94b65bde5f00f4546a487b7b324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7c1a94b65bde5f00f4546a487b7b324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d7c1a94b65bde5f00f4546a487b7b324]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/127) revoked (6.3.2025) by [The Elections (Policy Development Grants Scheme) Order 2025 (S.I. 2025/159)](https://www.legislation.gov.uk/uksi/2025/159), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/159/article/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2025/159/article/3/g) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/159/article/1/3))
+[^c-d7c1a94b65bde5f00f4546a487b7b324]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/127) revoked (6.3.2025) by [The Elections (Policy Development Grants Scheme) Order 2025 (S.I. 2025/159)](https://www.legislation.gov.uk/uksi/2025/159), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/159/article/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2025/159/article/3/g) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2025/159/article/1/3))

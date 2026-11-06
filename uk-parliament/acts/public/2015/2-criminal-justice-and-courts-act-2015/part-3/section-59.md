@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Effect of rules against inducements[^key-e2aa1e916a70b7d9f96d1fb7b18bb445]
+## 59. Effect of rules against inducements[^c-e2aa1e916a70b7d9f96d1fb7b18bb445]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2aa1e916a70b7d9f96d1fb7b18bb445]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2015/2/section/59) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/49)
+[^c-e2aa1e916a70b7d9f96d1fb7b18bb445]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2015/2/section/59) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/49)

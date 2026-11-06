@@ -51,7 +51,7 @@ summary: ''
 - (b) Eurocontrol;
 - (c) the CAA; [^c2536351]. . .
 - (d) the licensee of any aerodrome licensed under an Air Navigation Order;
-- (da)[^key-55c549ebd0228a208f28db3b91036ed5] a person who holds a certificate under the Aerodromes Regulation authorising the operation of an aerodrome;
+- (da)[^c-55c549ebd0228a208f28db3b91036ed5] a person who holds a certificate under the Aerodromes Regulation authorising the operation of an aerodrome;
 
 - and[^c2536361]
   - (e) a licence holder (within the meaning of section 105(1) below);
@@ -67,6 +67,6 @@ summary: ''
 
 [^c2536351]: Textual amendment: Word in s. 46(10)(c) repealed (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 274](https://www.legislation.gov.uk/ukpga/2000/38/section/274), [Sch. 31 Pt. I(4)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/31/part/I/4); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 
-[^key-55c549ebd0228a208f28db3b91036ed5]: Textual amendment: [S. 46(10)(da)](https://www.legislation.gov.uk/ukpga/1982/16/section/46/10/da) inserted (10.1.2015) by [The Air Navigation (Amendment) (No. 4) Order 2014 (S.I. 2014/3302)](https://www.legislation.gov.uk/uksi/2014/3302), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3302/article/1/1), [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2014/3302/schedule/paragraph/3/5)
+[^c-55c549ebd0228a208f28db3b91036ed5]: Textual amendment: [S. 46(10)(da)](https://www.legislation.gov.uk/ukpga/1982/16/section/46/10/da) inserted (10.1.2015) by [The Air Navigation (Amendment) (No. 4) Order 2014 (S.I. 2014/3302)](https://www.legislation.gov.uk/uksi/2014/3302), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3302/article/1/1), [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2014/3302/schedule/paragraph/3/5)
 
 [^c2536361]: Textual amendment: S. 46(10)(e) and the preceding word “and” inserted (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 36](https://www.legislation.gov.uk/ukpga/2000/38/section/36), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2000/38/schedule/4/paragraph/5) (with [s. 106](https://www.legislation.gov.uk/ukpga/2000/38/section/106)); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)

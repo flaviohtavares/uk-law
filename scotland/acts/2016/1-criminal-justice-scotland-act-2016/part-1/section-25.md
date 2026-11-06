@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Liberation by police[^key-0045365dfbc5635403270b6f9ae6d83f]
+## 25. Liberation by police[^c-0045365dfbc5635403270b6f9ae6d83f]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0045365dfbc5635403270b6f9ae6d83f]: Commencement: S. 25 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-0045365dfbc5635403270b6f9ae6d83f]: Commencement: S. 25 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))

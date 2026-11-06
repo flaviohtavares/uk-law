@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Amendment of the Representation of the People (England and Wales) Regulations 2001[^key-088109a46d8907429283ce7a323ab888][^key-cb08b5c52140e893a3a65c4e57cc2ce6]
+## 38. Amendment of the Representation of the People (England and Wales) Regulations 2001[^c-088109a46d8907429283ce7a323ab888][^c-cb08b5c52140e893a3a65c4e57cc2ce6]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-088109a46d8907429283ce7a323ab888] The Representation of the People (England and Wales) Regulations 2001 are amended as follows.
+(1)[^c-088109a46d8907429283ce7a323ab888] The Representation of the People (England and Wales) Regulations 2001 are amended as follows.
 
-(2)[^key-44a422865187594e2a70a33856ac975b] In regulation 31I (anonymous registration: evidence consisting of relevant court orders or injunctions), in paragraph (3), after sub-paragraph (s) insert—
+(2)[^c-44a422865187594e2a70a33856ac975b] In regulation 31I (anonymous registration: evidence consisting of relevant court orders or injunctions), in paragraph (3), after sub-paragraph (s) insert—
 
 > - (t) except in relation to an application for an anonymous entry on a register of local government electors in Wales, a domestic abuse protection order within the meaning of section 27 of the Domestic Abuse Act 2021.
 
 .
 
-(3)[^key-088109a46d8907429283ce7a323ab888] In regulation 45F (supply of the record of anonymous entries to police forces and other organisations), in paragraph (1)(c), at the beginning insert “so far as the record relates to an anonymous entry in a register of local government electors in Wales,”.
+(3)[^c-088109a46d8907429283ce7a323ab888] In regulation 45F (supply of the record of anonymous entries to police forces and other organisations), in paragraph (1)(c), at the beginning insert “so far as the record relates to an anonymous entry in a register of local government electors in Wales,”.
 
-(4)[^key-088109a46d8907429283ce7a323ab888] In regulation 52 (additional requirements for applications for the appointment of a proxy)—
+(4)[^c-088109a46d8907429283ce7a323ab888] In regulation 52 (additional requirements for applications for the appointment of a proxy)—
 
 - (a) in paragraph (A1)(b), after “paragraph 6(7)” insert “or (8)”;
 - (b) after paragraph (1) insert—
@@ -54,9 +54,9 @@ summary: ''
 
   .
 
-(5)[^key-088109a46d8907429283ce7a323ab888] In regulation 55A (additional requirements for application for an emergency proxy vote in respect of a particular election), in the heading, at the end insert “: grounds relating to occupation, service or employment”.
+(5)[^c-088109a46d8907429283ce7a323ab888] In regulation 55A (additional requirements for application for an emergency proxy vote in respect of a particular election), in the heading, at the end insert “: grounds relating to occupation, service or employment”.
 
-(6)[^key-088109a46d8907429283ce7a323ab888] After regulation 55A insert—
+(6)[^c-088109a46d8907429283ce7a323ab888] After regulation 55A insert—
 
 > **55B. Additional requirements for application for an emergency proxy vote in respect of a particular parliamentary election or local government election in England: grounds relating to voter identification**
 >
@@ -76,7 +76,7 @@ summary: ''
 
 .
 
-(7)[^key-088109a46d8907429283ce7a323ab888] In regulation 56 (closing date for applications)—
+(7)[^c-088109a46d8907429283ce7a323ab888] In regulation 56 (closing date for applications)—
 
 - (a) before paragraph (2) insert—
 
@@ -101,7 +101,7 @@ summary: ''
 
   .
 
-(8)[^key-088109a46d8907429283ce7a323ab888] After regulation 56 insert—
+(8)[^c-088109a46d8907429283ce7a323ab888] After regulation 56 insert—
 
 > **56A. Grounds relating to voter identification**
 >
@@ -152,25 +152,25 @@ summary: ''
 
 .
 
-(9)[^key-088109a46d8907429283ce7a323ab888] In regulation 94 (restrictions on supply of full register and disclosure of information from it by the registration officer and his staff), after paragraph (4) insert—
+(9)[^c-088109a46d8907429283ce7a323ab888] In regulation 94 (restrictions on supply of full register and disclosure of information from it by the registration officer and his staff), after paragraph (4) insert—
 
 > (5) In this regulation, references to a registration officer’s registration duties include references to the officer’s functions under sections 13BD and 13BE of the 1983 Act.
 
 .
 
-(10)[^key-088109a46d8907429283ce7a323ab888] In regulation 109 (supply of full register etc to police forces and other agencies), in paragraph (1)(e), at the beginning insert “in relation to a register of local government electors in Wales,”.
+(10)[^c-088109a46d8907429283ce7a323ab888] In regulation 109 (supply of full register etc to police forces and other agencies), in paragraph (1)(e), at the beginning insert “in relation to a register of local government electors in Wales,”.
 
-(11)[^key-088109a46d8907429283ce7a323ab888] In Schedule 3 (forms)—
+(11)[^c-088109a46d8907429283ce7a323ab888] In Schedule 3 (forms)—
 
 - (a) for Form A (official poll card to be sent to an elector voting in person), substitute the corresponding form in Part 1 of Schedule 6;
 - (b) for Form B (official proxy poll card to be sent to an appointed proxy voting in person), substitute the corresponding form in Part 1 of Schedule 6.
 
 ## Annotations
 
-[^key-088109a46d8907429283ce7a323ab888]: Commencement: Reg. 38(1)(3)-(11) in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-088109a46d8907429283ce7a323ab888]: Commencement: Reg. 38(1)(3)-(11) in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
-[^key-cb08b5c52140e893a3a65c4e57cc2ce6]: Commencement: Reg. 38(2) not in force at made date, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/4)
+[^c-cb08b5c52140e893a3a65c4e57cc2ce6]: Commencement: Reg. 38(2) not in force at made date, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/4)
 
-[^key-44a422865187594e2a70a33856ac975b]: Commencement: [Reg. 38(2)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/38/2) in force at 27.11.2024, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/4); S.I. 2024/1191, [regs. 1(2)(g)](https://www.legislation.gov.uk/uksi/2024/1191/regulation/1/2/g), [2](https://www.legislation.gov.uk/uksi/2024/1191/regulation/2), [3(1)](https://www.legislation.gov.uk/uksi/2024/1191/regulation/3/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/1191/regulation/4))
+[^c-44a422865187594e2a70a33856ac975b]: Commencement: [Reg. 38(2)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/38/2) in force at 27.11.2024, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/4); S.I. 2024/1191, [regs. 1(2)(g)](https://www.legislation.gov.uk/uksi/2024/1191/regulation/1/2/g), [2](https://www.legislation.gov.uk/uksi/2024/1191/regulation/2), [3(1)](https://www.legislation.gov.uk/uksi/2024/1191/regulation/3/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/1191/regulation/4))
 
 [^f00059]: Footnote: Paragraph 4(2) of Schedule 4 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) was amended by section 14(8) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).

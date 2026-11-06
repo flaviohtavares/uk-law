@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Avoiding delay[^key-9a8261f62853b129ed610885ff800791]
+## 109. Avoiding delay[^c-9a8261f62853b129ed610885ff800791]
 
 *Extent: E+W*
 
-(1) In proceedings in which a question may arise as to whether an adoption order or placement order should be made, or any other question with respect to such an order, the court must (in the light of any provision in rules of court that is of the kind mentioned in subsection (2)(a) or (b))[^key-550e29bbe2a488be29e7ebefb288a916]—
+(1) In proceedings in which a question may arise as to whether an adoption order or placement order should be made, or any other question with respect to such an order, the court must (in the light of any provision in rules of court that is of the kind mentioned in subsection (2)(a) or (b))[^c-550e29bbe2a488be29e7ebefb288a916]—
 
 - (a) draw up a timetable with a view to determining such a question without delay, and
 - (b) give such directions as it considers appropriate for the purpose of ensuring that the timetable is adhered to.
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a8261f62853b129ed610885ff800791]: Commencement: S. 109 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/j) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-9a8261f62853b129ed610885ff800791]: Commencement: S. 109 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/j) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-550e29bbe2a488be29e7ebefb288a916]: Textual amendment: Words in s. 109(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 14(8)](https://www.legislation.gov.uk/ukpga/2014/6/section/14/8), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/889/article/4/c) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-550e29bbe2a488be29e7ebefb288a916]: Textual amendment: Words in s. 109(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 14(8)](https://www.legislation.gov.uk/ukpga/2014/6/section/14/8), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/889/article/4/c) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

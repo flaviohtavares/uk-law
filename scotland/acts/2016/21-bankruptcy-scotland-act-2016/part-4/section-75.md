@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Further provision as regards election or appointment of new trustee[^key-7f4f03c80a0c3e1d5579bf7e74348229]
+## 75. Further provision as regards election or appointment of new trustee[^c-7f4f03c80a0c3e1d5579bf7e74348229]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Subsections (6) to (13) of section 69 apply for the purposes of sections 70 to 7
 
 ## Annotations
 
-[^key-7f4f03c80a0c3e1d5579bf7e74348229]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2016/21/section/75) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-7f4f03c80a0c3e1d5579bf7e74348229]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2016/21/section/75) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

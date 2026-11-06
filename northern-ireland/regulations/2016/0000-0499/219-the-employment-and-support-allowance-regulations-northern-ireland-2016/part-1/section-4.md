@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Rounding of fractions[^key-edf26c06e05e86d4b29f4679469b8c21]
+## 4. Rounding of fractions[^c-edf26c06e05e86d4b29f4679469b8c21]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of these Regulations—
 
 ## Annotations
 
-[^key-edf26c06e05e86d4b29f4679469b8c21]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/219/regulation/4) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-edf26c06e05e86d4b29f4679469b8c21]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/219/regulation/4) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

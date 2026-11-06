@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Discharge of registration duties[^key-588738f43e8914408205401a6495706f]
+## 23. Discharge of registration duties[^c-588738f43e8914408205401a6495706f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-588738f43e8914408205401a6495706f]: Commencement: Art. 23 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-588738f43e8914408205401a6495706f]: Commencement: Art. 23 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

@@ -96,7 +96,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 2.** This Decision shall apply from the 20th day following that of its publication in the *Official Journal of the European Union*.
 
-**Article 3.**[^key-ebc5385f33cc62bdd713015776ac89a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ebc5385f33cc62bdd713015776ac89a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX — Guidelines and procedures for the approval of identifiers and readers for the electronic identification of ovine and caprine animals pursuant to Regulation (EC) No 21/2004
 
@@ -162,7 +162,7 @@ The competent authority may require additional tests for robustness and enduranc
 
 5\.
 
-The competent authority may require other performance criteria to ensure the functionality of identifiers under the specific geographic, climatic and management conditions of the United Kingdom[^key-9403f2b597c173dadaf094988589cf27].
+The competent authority may require other performance criteria to ensure the functionality of identifiers under the specific geographic, climatic and management conditions of the United Kingdom[^c-9403f2b597c173dadaf094988589cf27].
 
 6.[^c000003]
 
@@ -184,7 +184,7 @@ The tests specified in points 1-4 of Chapter II shall be carried out in test lab
 
 [^f00001]: Footnote: [OJ L 5, 9.1.2004, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.005.01.0008.01.ENG).
 
-[^key-ebc5385f33cc62bdd713015776ac89a0]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2006/968/article/3) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ebc5385f33cc62bdd713015776ac89a0]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2006/968/article/3) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Deleted by [Commission Decision of 12 May 2010 amending Decision 2006/968/EC implementing Council Regulation (EC) No 21/2004 as regards guidelines and procedures for the electronic identification of ovine and caprine animals (notified under document C(2010) 3009) (Text with EEA relevance) (2010/280/EU)](https://www.legislation.gov.uk/eudn/2010/280).
 
@@ -192,6 +192,6 @@ The tests specified in points 1-4 of Chapter II shall be carried out in test lab
 
 [^f00002]: Footnote: [OJ L 256, 7.9.1987, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1987.256.01.0001.01.ENG).
 
-[^key-9403f2b597c173dadaf094988589cf27]: Textual amendment: Words in Annex Ch. 2 para. 5 substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9403f2b597c173dadaf094988589cf27]: Textual amendment: Words in Annex Ch. 2 para. 5 substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000003]: Textual amendment: Inserted by [Commission Decision of 12 May 2010 amending Decision 2006/968/EC implementing Council Regulation (EC) No 21/2004 as regards guidelines and procedures for the electronic identification of ovine and caprine animals (notified under document C(2010) 3009) (Text with EEA relevance) (2010/280/EU)](https://www.legislation.gov.uk/eudn/2010/280).

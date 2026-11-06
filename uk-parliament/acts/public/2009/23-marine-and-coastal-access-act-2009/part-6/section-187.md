@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Abolition of local fisheries committees[^key-41e77f8def045287fdccc986d1200bd2][^key-05ed961e668445e53777a13a6a7198ce]
+## 187. Abolition of local fisheries committees[^c-41e77f8def045287fdccc986d1200bd2][^c-05ed961e668445e53777a13a6a7198ce]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Sea Fisheries Regulation Act 1966 (c. 38), which provides for the establishm
 
 ## Annotations
 
-[^key-41e77f8def045287fdccc986d1200bd2]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2009/23/section/187) in force at 1.4.2010 for W. by [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/630/article/3/a) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12))
+[^c-41e77f8def045287fdccc986d1200bd2]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2009/23/section/187) in force at 1.4.2010 for W. by [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/630/article/3/a) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12))
 
-[^key-05ed961e668445e53777a13a6a7198ce]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2009/23/section/187) in force at 1.4.2011 for E. by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(n)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/n) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
+[^c-05ed961e668445e53777a13a6a7198ce]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2009/23/section/187) in force at 1.4.2011 for E. by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(n)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/n) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))

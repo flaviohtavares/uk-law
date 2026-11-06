@@ -37,18 +37,18 @@ amending Decision 2014/312/EU establishing the ecological criteria for the award
 
 (Text with EEA relevance) (revoked)
 
-[^key-128d113eb819e7aa4154b5e42fe4c91d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-128d113eb819e7aa4154b5e42fe4c91d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-128d113eb819e7aa4154b5e42fe4c91d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-128d113eb819e7aa4154b5e42fe4c91d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-128d113eb819e7aa4154b5e42fe4c91d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-128d113eb819e7aa4154b5e42fe4c91d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-128d113eb819e7aa4154b5e42fe4c91d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-128d113eb819e7aa4154b5e42fe4c91d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-128d113eb819e7aa4154b5e42fe4c91d]
+## ANNEX[^c-128d113eb819e7aa4154b5e42fe4c91d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-128d113eb819e7aa4154b5e42fe4c91d]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 36](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-128d113eb819e7aa4154b5e42fe4c91d]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 36](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

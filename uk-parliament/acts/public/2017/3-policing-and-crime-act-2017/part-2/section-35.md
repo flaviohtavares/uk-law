@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Public records[^c22718681][^key-c2bbd0c37536cc0da39041c9c763bc23]
+## 35. Public records[^c22718681][^c-c2bbd0c37536cc0da39041c9c763bc23]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c22718681]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/3/section/35) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c2bbd0c37536cc0da39041c9c763bc23]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/3/section/35) in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-c2bbd0c37536cc0da39041c9c763bc23]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/3/section/35) in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))

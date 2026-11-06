@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Amendment of schedule 9 (general binding rules)[^key-bc1d624cc76367bb4092d313b732cce9]
+## 40. Amendment of schedule 9 (general binding rules)[^c-bc1d624cc76367bb4092d313b732cce9]
 
 *Extent: S*
 
@@ -962,7 +962,7 @@ In schedule 9 (general binding rules), in Part 1—
 
 ## Annotations
 
-[^key-bc1d624cc76367bb4092d313b732cce9]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2025/165/regulation/40) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-bc1d624cc76367bb4092d313b732cce9]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2025/165/regulation/40) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00012]: Footnote: EUR 2009/1107, amended by [S.I. 2019/556](https://www.legislation.gov.uk/uksi/2019/556), [S.I. 2019/1410](https://www.legislation.gov.uk/uksi/2019/1410) and [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376).
 

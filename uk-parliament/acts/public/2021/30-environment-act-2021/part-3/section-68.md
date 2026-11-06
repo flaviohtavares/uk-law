@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Littering enforcement[^key-37c72ddc96aee937a352ca6db7c105aa][^key-d488e57dc3ae9f80dc587ba8381af5e2]
+## 68. Littering enforcement[^c-37c72ddc96aee937a352ca6db7c105aa][^c-d488e57dc3ae9f80dc587ba8381af5e2]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37c72ddc96aee937a352ca6db7c105aa]: Commencement: S. 68 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)
+[^c-37c72ddc96aee937a352ca6db7c105aa]: Commencement: S. 68 not in force at Royal Assent, see [s. 147(3)(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3/4)
 
-[^key-d488e57dc3ae9f80dc587ba8381af5e2]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2021/30/section/68) in force at 1.4.2023 for E. by [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/a)
+[^c-d488e57dc3ae9f80dc587ba8381af5e2]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2021/30/section/68) in force at 1.4.2023 for E. by [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/a)

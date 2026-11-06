@@ -32,7 +32,7 @@ summary: ''
 
 Revenue And Customs
 
-The Fees for Payment of Taxes, etc. by Credit Card (Amendment) Regulations 2017 (revoked)[^key-b925ec2c1d7273511a95814ee6650dc0]
+The Fees for Payment of Taxes, etc. by Credit Card (Amendment) Regulations 2017 (revoked)[^c-b925ec2c1d7273511a95814ee6650dc0]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 13th January 2018
 
-[^key-b925ec2c1d7273511a95814ee6650dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b925ec2c1d7273511a95814ee6650dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b925ec2c1d7273511a95814ee6650dc0]
+## 1. Citation and commencement[^c-b925ec2c1d7273511a95814ee6650dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fees for Payment of Taxes, etc. by Credit Card Regulations 2016[^key-b925ec2c1d7273511a95814ee6650dc0]
+## 2. Amendment of the Fees for Payment of Taxes, etc. by Credit Card Regulations 2016[^c-b925ec2c1d7273511a95814ee6650dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b925ec2c1d7273511a95814ee6650dc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b925ec2c1d7273511a95814ee6650dc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b925ec2c1d7273511a95814ee6650dc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b925ec2c1d7273511a95814ee6650dc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b925ec2c1d7273511a95814ee6650dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b925ec2c1d7273511a95814ee6650dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b925ec2c1d7273511a95814ee6650dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b925ec2c1d7273511a95814ee6650dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b925ec2c1d7273511a95814ee6650dc0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/1262) revoked (1.11.2020) by [The Fees for Payment of Taxes, etc. by Card Regulations 2020 (S.I. 2020/657)](https://www.legislation.gov.uk/uksi/2020/657), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/657/regulation/4/b)
+[^c-b925ec2c1d7273511a95814ee6650dc0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/1262) revoked (1.11.2020) by [The Fees for Payment of Taxes, etc. by Card Regulations 2020 (S.I. 2020/657)](https://www.legislation.gov.uk/uksi/2020/657), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/657/regulation/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59G. Bringing of appeals[^key-f571927d208b973e0f05610b51003deb]
+## 59G. Bringing of appeals[^c-f571927d208b973e0f05610b51003deb]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) an appeal may not be made until the conclusion date, and
 - (b) any appeal is to be made within the period of 30 days beginning with the conclusion date.
 
-(4)[^key-354d93c33de861de3658810d9c902988] In a case where HMRC are requested to undertake a review by virtue of section 59E—
+(4)[^c-354d93c33de861de3658810d9c902988] In a case where HMRC are requested to undertake a review by virtue of section 59E—
 
 - (a) an appeal may not be made to an appeal tribunal—
   - (i) unless HMRC have notified P, or the other person, as to whether or not a review will be undertaken, and
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f571927d208b973e0f05610b51003deb]: Textual amendment: Ss. 59A-59G inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 206](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/206)
+[^c-f571927d208b973e0f05610b51003deb]: Textual amendment: Ss. 59A-59G inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 206](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/206)
 
-[^key-354d93c33de861de3658810d9c902988]: Textual amendment: S. 59G(4) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [3](https://www.legislation.gov.uk/uksi/2014/1264/article/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/3))
+[^c-354d93c33de861de3658810d9c902988]: Textual amendment: S. 59G(4) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [3](https://www.legislation.gov.uk/uksi/2014/1264/article/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/3))

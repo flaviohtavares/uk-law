@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.1. Circumstances where a party is in default[^key-cb0aa6bf8b141b8506c8133524b47ea6]
+## 3.1. Circumstances where a party is in default[^c-cb0aa6bf8b141b8506c8133524b47ea6]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ A party is in default if that party fails—
 
 ## Annotations
 
-[^key-cb0aa6bf8b141b8506c8133524b47ea6]: Commencement: Para. 3.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-cb0aa6bf8b141b8506c8133524b47ea6]: Commencement: Para. 3.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

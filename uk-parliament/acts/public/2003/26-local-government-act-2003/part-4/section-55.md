@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Regulations about ballots[^key-5fd5f98139501cd278eb55f22bd6642f][^key-ea282666dd66f27a6512f988d11b8e3d][^key-2c8b876497f5fa38570145dbd792ca25]
+## 55. Regulations about ballots[^c-5fd5f98139501cd278eb55f22bd6642f][^c-ea282666dd66f27a6512f988d11b8e3d][^c-2c8b876497f5fa38570145dbd792ca25]
 
 *Extent: E+W*
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5fd5f98139501cd278eb55f22bd6642f]: Commencement: S. 55 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-5fd5f98139501cd278eb55f22bd6642f]: Commencement: S. 55 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-ea282666dd66f27a6512f988d11b8e3d]: Commencement: S. 55 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-ea282666dd66f27a6512f988d11b8e3d]: Commencement: S. 55 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-2c8b876497f5fa38570145dbd792ca25]: Modification: S. 55 power to amend or apply (with modifications) conferred (16.7.2014 for E. for specified purposes, 2.12.2014 for E. in so far as not already in force) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [s. 32](https://www.legislation.gov.uk/ukpga/2009/7/section/32), [Sch. 2 para. 10(1)](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/10/1) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2); S.I. 2014/3200, art. 2
+[^c-2c8b876497f5fa38570145dbd792ca25]: Modification: S. 55 power to amend or apply (with modifications) conferred (16.7.2014 for E. for specified purposes, 2.12.2014 for E. in so far as not already in force) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [s. 32](https://www.legislation.gov.uk/ukpga/2009/7/section/32), [Sch. 2 para. 10(1)](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/10/1) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2); S.I. 2014/3200, art. 2

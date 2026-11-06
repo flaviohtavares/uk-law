@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Monetary penalties for non-compliance with crofting duties[^key-705235eeaf98fab1e2402998493c2472]
+## 8. Monetary penalties for non-compliance with crofting duties[^c-705235eeaf98fab1e2402998493c2472]
 
 *Extent: S*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-705235eeaf98fab1e2402998493c2472]: Commencement: S. 8 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-705235eeaf98fab1e2402998493c2472]: Commencement: S. 8 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

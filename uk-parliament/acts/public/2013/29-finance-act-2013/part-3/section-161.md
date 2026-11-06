@@ -22,7 +22,7 @@ summary: ''
 
 (1) A return must include a self assessment.
 
-(2)[^key-9ea1edf41f71568242f1be7887695b7c] In subsection (1) “**return**” means—
+(2)[^c-9ea1edf41f71568242f1be7887695b7c] In subsection (1) “**return**” means—
 
 - (a) an annual tax on enveloped dwellings return, or
 - (b) a return of the adjusted chargeable amount.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ea1edf41f71568242f1be7887695b7c]: Textual amendment: S. 161(2)(2A) substituted for s. 161(2) (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/4)
+[^c-9ea1edf41f71568242f1be7887695b7c]: Textual amendment: S. 161(2)(2A) substituted for s. 161(2) (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/4)

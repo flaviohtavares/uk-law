@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Upgrading and sharing of apparatus: subsisting agreements[^key-baad8fbb4d405ed748cee32637091613][^key-9fc0932cc6015a5858956f56e3be257b]
+## 58. Upgrading and sharing of apparatus: subsisting agreements[^c-baad8fbb4d405ed748cee32637091613][^c-9fc0932cc6015a5858956f56e3be257b]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-baad8fbb4d405ed748cee32637091613]: Commencement: S. 58 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-baad8fbb4d405ed748cee32637091613]: Commencement: S. 58 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-9fc0932cc6015a5858956f56e3be257b]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2022/46/section/58) in force at 17.4.2023 by [S.I. 2023/109](https://www.legislation.gov.uk/uksi/2023/109), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/109/regulation/3/a)
+[^c-9fc0932cc6015a5858956f56e3be257b]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2022/46/section/58) in force at 17.4.2023 by [S.I. 2023/109](https://www.legislation.gov.uk/uksi/2023/109), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/109/regulation/3/a)

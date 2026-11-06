@@ -50,63 +50,63 @@ In accordance with section 100(7) of that Act, the Secretary of State has obtain
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-ed80928c90f71de8dab2b681cc4a8931]
+### 1. Citation and commencement[^c-ed80928c90f71de8dab2b681cc4a8931]
 
 These Regulations may be cited as the Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016 and come into force on 24th March 2016.
 
 ## PART 2 — Amendments to the Renewable Heat Incentive Scheme Regulations 2011
 
-### 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^key-982c701fc2b26f243690db0756078d8e]
+### 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^c-982c701fc2b26f243690db0756078d8e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendments to regulation 2 (interpretation)[^key-982c701fc2b26f243690db0756078d8e]
+### 3. Amendments to regulation 2 (interpretation)[^c-982c701fc2b26f243690db0756078d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment to regulation 13 (certification for installation of Microgeneration heating equipment)[^key-982c701fc2b26f243690db0756078d8e]
+### 4. Amendment to regulation 13 (certification for installation of Microgeneration heating equipment)[^c-982c701fc2b26f243690db0756078d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment to regulation 23 (treatment of grants from public funds)[^key-982c701fc2b26f243690db0756078d8e]
+### 5. Amendment to regulation 23 (treatment of grants from public funds)[^c-982c701fc2b26f243690db0756078d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendments to regulation 36B (ongoing obligation to use sustainable solid biomass or biogas or to produce sustainable biomethane)[^key-982c701fc2b26f243690db0756078d8e]
+### 6. Amendments to regulation 36B (ongoing obligation to use sustainable solid biomass or biogas or to produce sustainable biomethane)[^c-982c701fc2b26f243690db0756078d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment to regulation 36D (sustainability audit reports)[^key-982c701fc2b26f243690db0756078d8e]
+### 7. Amendment to regulation 36D (sustainability audit reports)[^c-982c701fc2b26f243690db0756078d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendments to regulation 37 (payment of periodic support payments to participants)[^key-982c701fc2b26f243690db0756078d8e]
+### 8. Amendments to regulation 37 (payment of periodic support payments to participants)[^c-982c701fc2b26f243690db0756078d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendments to regulation 37B (calculation of A)[^key-982c701fc2b26f243690db0756078d8e]
+### 9. Amendments to regulation 37B (calculation of A)[^c-982c701fc2b26f243690db0756078d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendments to regulation 39C (CHP systems accredited in relation to the Renewables Obligation)[^key-982c701fc2b26f243690db0756078d8e]
+### 10. Amendments to regulation 39C (CHP systems accredited in relation to the Renewables Obligation)[^c-982c701fc2b26f243690db0756078d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment to Schedule 2 (provision of information in relation to the use of biomass in certain circumstances)[^key-982c701fc2b26f243690db0756078d8e]
+### 11. Amendment to Schedule 2 (provision of information in relation to the use of biomass in certain circumstances)[^c-982c701fc2b26f243690db0756078d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendments to Schedule 2B (land criteria)[^key-982c701fc2b26f243690db0756078d8e]
+### 12. Amendments to Schedule 2B (land criteria)[^c-982c701fc2b26f243690db0756078d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Substitution of Schedule 4 (total expenditure)[^key-982c701fc2b26f243690db0756078d8e]
+### 13. Substitution of Schedule 4 (total expenditure)[^c-982c701fc2b26f243690db0756078d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Amendments to Schedule 5 (expenditure in relation to individual technologies)[^key-982c701fc2b26f243690db0756078d8e]
+### 14. Amendments to Schedule 5 (expenditure in relation to individual technologies)[^c-982c701fc2b26f243690db0756078d8e]
 
 **No longer in force.**
 
@@ -114,11 +114,11 @@ These Regulations may be cited as the Renewable Heat Incentive Scheme and Domest
 
 ## PART 3 — Amendments to the Domestic Renewable Heat Incentive Scheme Regulations 2014
 
-### 15. Amendments to the Domestic Renewable Heat Incentive Scheme Regulations 2014[^key-c935475df2436f720cb0a2bf44ccd197]
+### 15. Amendments to the Domestic Renewable Heat Incentive Scheme Regulations 2014[^c-c935475df2436f720cb0a2bf44ccd197]
 
 The Domestic Renewable Heat Incentive Scheme Regulations 2014[^f00012] are amended in accordance with regulations 16 to 28.
 
-### 16. Amendments to regulation 2 (interpretation)[^key-dae6ce151c7e780d7ee0a4dc220f171d]
+### 16. Amendments to regulation 2 (interpretation)[^c-dae6ce151c7e780d7ee0a4dc220f171d]
 
 In regulation 2—
 
@@ -152,7 +152,7 @@ In regulation 2—
 
   .
 
-### 17. Amendment to regulation 8 (certification requirements)[^key-e59e8b65991c5429bed8703bc81f3783]
+### 17. Amendment to regulation 8 (certification requirements)[^c-e59e8b65991c5429bed8703bc81f3783]
 
 For regulation 8(1)(b) substitute—
 
@@ -163,7 +163,7 @@ For regulation 8(1)(b) substitute—
 
 .
 
-### 18. Amendment to regulation 9 (plants used to generate heat before the first commissioning date)[^key-4e0c5cb94eb46f2b283e67e11ddaed8b]
+### 18. Amendment to regulation 9 (plants used to generate heat before the first commissioning date)[^c-4e0c5cb94eb46f2b283e67e11ddaed8b]
 
 For regulation 9(2)(a) substitute—
 
@@ -171,7 +171,7 @@ For regulation 9(2)(a) substitute—
 
 .
 
-### 19. Amendment to regulation 13 (plants where heat generation must be metered)[^key-fdd979861bd8477f7f01ef718f4c493e]
+### 19. Amendment to regulation 13 (plants where heat generation must be metered)[^c-fdd979861bd8477f7f01ef718f4c493e]
 
 (1) In regulation 13(4), before “Plant A” insert “Subject to paragraph (4A),”.
 
@@ -181,7 +181,7 @@ For regulation 9(2)(a) substitute—
 
 .
 
-### 20. Amendment to regulation 32 (calculation of grant funding deduction)[^key-c4677d07e05bf9074db248747ffc644e]
+### 20. Amendment to regulation 32 (calculation of grant funding deduction)[^c-c4677d07e05bf9074db248747ffc644e]
 
 For regulation 32(2)(b)(ii) substitute—
 
@@ -193,7 +193,7 @@ For regulation 32(2)(b)(ii) substitute—
 
 .
 
-### 21. Amendment to regulation 34 (calculation of initial tariffs)[^key-056c986783463829ebde355d1a321986]
+### 21. Amendment to regulation 34 (calculation of initial tariffs)[^c-056c986783463829ebde355d1a321986]
 
 In regulation 34(3)—
 
@@ -206,7 +206,7 @@ In regulation 34(3)—
 
   .
 
-### 22. Amendment to regulation 35 (calculation of initial tariffs: calculation of A)[^key-e45b90fab91f9cef2624e3313dbc6d30]
+### 22. Amendment to regulation 35 (calculation of initial tariffs: calculation of A)[^c-e45b90fab91f9cef2624e3313dbc6d30]
 
 For regulation 35(2)(c) substitute—
 
@@ -218,7 +218,7 @@ For regulation 35(2)(c) substitute—
 
 .
 
-### 23. Amendment to regulation 37 (calculation of subsequent tariffs)[^key-5bf2973a4249cf378ba1f47b705a862e]
+### 23. Amendment to regulation 37 (calculation of subsequent tariffs)[^c-5bf2973a4249cf378ba1f47b705a862e]
 
 (1) In regulation 37(2)(b)—
 
@@ -242,19 +242,19 @@ For regulation 35(2)(c) substitute—
 
 .
 
-### 24. Amendments to regulation 38 (expenditure forecast statement and tariff change notice)[^key-8b3ecb50cfd849b006bdd775f2bd8706]
+### 24. Amendments to regulation 38 (expenditure forecast statement and tariff change notice)[^c-8b3ecb50cfd849b006bdd775f2bd8706]
 
 (1) In regulation 38(4)(c), after “retail prices index” insert “or consumer prices index”.
 
 (2) In sub-paragraph (b)(i) of the definition of “estimated spend” in regulation 38(7), after “provides heat” insert “is not an eligible new-build property and”.
 
-### 25. Amendment to regulation 46 (changes affecting whether accredited domestic plants must be metered)[^key-04bea85f5aa9f94c6085953e9909b502]
+### 25. Amendment to regulation 46 (changes affecting whether accredited domestic plants must be metered)[^c-04bea85f5aa9f94c6085953e9909b502]
 
 After regulation 46(1) insert—
 
 > (1A) For the purposes of paragraph (1)(c), the exception for eligible new-build properties in regulation 13(4A) does not apply.
 
-### 26. Amendment to Schedule 3 (eligible properties)[^key-85ad962eb7e9afcc97ac3c1370754aff]
+### 26. Amendment to Schedule 3 (eligible properties)[^c-85ad962eb7e9afcc97ac3c1370754aff]
 
 In Schedule 3, for paragraph 1(2) substitute—
 
@@ -265,11 +265,11 @@ In Schedule 3, for paragraph 1(2) substitute—
 
 .
 
-### 27. Amendment to Schedule 4 (information required for accreditation)[^key-3bc5e6bbd8798838dbb1aa26231b65d1]
+### 27. Amendment to Schedule 4 (information required for accreditation)[^c-3bc5e6bbd8798838dbb1aa26231b65d1]
 
 In Schedule 4, omit paragraph 1(j).
 
-### 28. Substitution of Schedule 6 (expenditure for individual technologies)[^key-7f802f196a40b1b7e47b19b27123dcb1]
+### 28. Substitution of Schedule 6 (expenditure for individual technologies)[^c-7f802f196a40b1b7e47b19b27123dcb1]
 
 For Schedule 6 substitute—
 
@@ -433,40 +433,40 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32); section 100 was amended by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195) and section 51 of the Infrastructure Act [2015 (c.7)](https://www.legislation.gov.uk/ukpga/2015/7). Section 51 also amended section 105 of the Energy Act 2008 (Parliamentary control of subordinate legislation) and inserted subsections (3A) to (3I) concerning provisions which require the affirmative resolution procedure. These Regulations do not contain provisions of the kind described in those subsections.
 
-[^key-ed80928c90f71de8dab2b681cc4a8931]: Commencement: Reg. 1 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-ed80928c90f71de8dab2b681cc4a8931]: Commencement: Reg. 1 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-982c701fc2b26f243690db0756078d8e]: Textual amendment: [Regs. 2-14](https://www.legislation.gov.uk/uksi/2016/257/regulation/2) revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(i)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/i) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-982c701fc2b26f243690db0756078d8e]: Textual amendment: [Regs. 2-14](https://www.legislation.gov.uk/uksi/2016/257/regulation/2) revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(i)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/i) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
 
-[^key-c935475df2436f720cb0a2bf44ccd197]: Commencement: Reg. 15 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-c935475df2436f720cb0a2bf44ccd197]: Commencement: Reg. 15 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
 [^f00012]: Footnote: [S.I. 2014/928](https://www.legislation.gov.uk/uksi/2014/928); relevant amending instruments are [2015/143](https://www.legislation.gov.uk/uksi/2015/143), [145](https://www.legislation.gov.uk/uksi/2015/145) and [1459](https://www.legislation.gov.uk/uksi/2015/1459).
 
-[^key-dae6ce151c7e780d7ee0a4dc220f171d]: Commencement: Reg. 16 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-dae6ce151c7e780d7ee0a4dc220f171d]: Commencement: Reg. 16 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
 [^f00013]: Footnote: The ISBN for the English language version of this standard is ISBN 0580294153. This standard is published by the British Standards Institution and copies can be obtained at www.bsigroup.com.
 
 [^f00014]: Footnote: The ISBN for the English language version of this standard is ISBN 9780580784729. This standard is published by the British Standards Institution and copies can be obtained at www.bsigroup.com.
 
-[^key-e59e8b65991c5429bed8703bc81f3783]: Commencement: Reg. 17 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-e59e8b65991c5429bed8703bc81f3783]: Commencement: Reg. 17 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-4e0c5cb94eb46f2b283e67e11ddaed8b]: Commencement: Reg. 18 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-4e0c5cb94eb46f2b283e67e11ddaed8b]: Commencement: Reg. 18 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-fdd979861bd8477f7f01ef718f4c493e]: Commencement: Reg. 19 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-fdd979861bd8477f7f01ef718f4c493e]: Commencement: Reg. 19 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-c4677d07e05bf9074db248747ffc644e]: Commencement: Reg. 20 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-c4677d07e05bf9074db248747ffc644e]: Commencement: Reg. 20 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-056c986783463829ebde355d1a321986]: Commencement: Reg. 21 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-056c986783463829ebde355d1a321986]: Commencement: Reg. 21 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-e45b90fab91f9cef2624e3313dbc6d30]: Commencement: Reg. 22 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-e45b90fab91f9cef2624e3313dbc6d30]: Commencement: Reg. 22 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-5bf2973a4249cf378ba1f47b705a862e]: Commencement: Reg. 23 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-5bf2973a4249cf378ba1f47b705a862e]: Commencement: Reg. 23 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-8b3ecb50cfd849b006bdd775f2bd8706]: Commencement: Reg. 24 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-8b3ecb50cfd849b006bdd775f2bd8706]: Commencement: Reg. 24 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-04bea85f5aa9f94c6085953e9909b502]: Commencement: Reg. 25 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-04bea85f5aa9f94c6085953e9909b502]: Commencement: Reg. 25 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-85ad962eb7e9afcc97ac3c1370754aff]: Commencement: Reg. 26 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-85ad962eb7e9afcc97ac3c1370754aff]: Commencement: Reg. 26 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-3bc5e6bbd8798838dbb1aa26231b65d1]: Commencement: Reg. 27 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-3bc5e6bbd8798838dbb1aa26231b65d1]: Commencement: Reg. 27 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
 
-[^key-7f802f196a40b1b7e47b19b27123dcb1]: Commencement: Reg. 28 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+[^c-7f802f196a40b1b7e47b19b27123dcb1]: Commencement: Reg. 28 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)

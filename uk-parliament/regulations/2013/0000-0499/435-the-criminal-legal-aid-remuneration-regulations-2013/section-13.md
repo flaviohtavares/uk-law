@@ -31,8 +31,8 @@ the litigator may apply to the Lord Chancellor for prior authority to do so.
 
 (2) Where the Lord Chancellor authorises the taking of any step referred to in paragraph (1), the Lord Chancellor shall also authorise the maximum to be paid in respect of that step.
 
-(3) A representative assigned to an assisted person in any proceedings in the Crown Court may apply to the Lord Chancellor for prior authority for the incurring of travelling and accommodation expenses in order to attend at the [^key-bc53be0ea1b0f7445c89d2447128af6d]... main hearing in those proceedings.
+(3) A representative assigned to an assisted person in any proceedings in the Crown Court may apply to the Lord Chancellor for prior authority for the incurring of travelling and accommodation expenses in order to attend at the [^c-bc53be0ea1b0f7445c89d2447128af6d]... main hearing in those proceedings.
 
 ## Annotations
 
-[^key-bc53be0ea1b0f7445c89d2447128af6d]: Textual amendment: Words in reg. 13(3) omitted (5.5.2015) by virtue of [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2015 (S.I. 2015/882)](https://www.legislation.gov.uk/uksi/2015/882), [regs. 1](https://www.legislation.gov.uk/uksi/2015/882/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2015/882/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/882/regulation/3))
+[^c-bc53be0ea1b0f7445c89d2447128af6d]: Textual amendment: Words in reg. 13(3) omitted (5.5.2015) by virtue of [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2015 (S.I. 2015/882)](https://www.legislation.gov.uk/uksi/2015/882), [regs. 1](https://www.legislation.gov.uk/uksi/2015/882/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2015/882/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/882/regulation/3))

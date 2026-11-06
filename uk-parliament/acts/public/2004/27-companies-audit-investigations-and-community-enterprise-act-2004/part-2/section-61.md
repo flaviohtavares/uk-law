@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Orders made by Regulator[^key-6d8cb3effde877124f20c965f3f9a8a9]
+## 61. Orders made by Regulator[^c-6d8cb3effde877124f20c965f3f9a8a9]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d8cb3effde877124f20c965f3f9a8a9]: Commencement: S. 61 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-6d8cb3effde877124f20c965f3f9a8a9]: Commencement: S. 61 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)

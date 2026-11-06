@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-c08452691ed69679f184f63b339a3dd9][^key-b3b427915b6215fd02ca93cbe846c889] A person commits an offence if he—
+(1)[^c-c08452691ed69679f184f63b339a3dd9][^c-b3b427915b6215fd02ca93cbe846c889] A person commits an offence if he—
 
 - (a) alters, suppresses, conceals or destroys, or
 - (b) causes or permits the alteration, suppression, concealment or destruction of,
 
-any book, record or other document which is or is liable to be required to be produced for inspection under paragraph 1 or 3 of Schedule 19B, and does so with the intention of falsifying the document or enabling any person to evade any of the provisions of this Act.[^key-d9a24833b6176fa770d78a289ab785fb]
+any book, record or other document which is or is liable to be required to be produced for inspection under paragraph 1 or 3 of Schedule 19B, and does so with the intention of falsifying the document or enabling any person to evade any of the provisions of this Act.[^c-d9a24833b6176fa770d78a289ab785fb]
 
-(2)[^key-c08452691ed69679f184f63b339a3dd9][^key-b3b427915b6215fd02ca93cbe846c889] Where the relevant person in the case of a supervised organisation, or a person acting on his behalf, requests a person holding an office in any such organisation (“**the office-holder**”) to supply the relevant person with any information which he reasonably requires for the purposes of any of the provisions of this Act, the office-holder commits an offence if—
+(2)[^c-c08452691ed69679f184f63b339a3dd9][^c-b3b427915b6215fd02ca93cbe846c889] Where the relevant person in the case of a supervised organisation, or a person acting on his behalf, requests a person holding an office in any such organisation (“**the office-holder**”) to supply the relevant person with any information which he reasonably requires for the purposes of any of the provisions of this Act, the office-holder commits an offence if—
 
 - (a) without reasonable excuse, he fails to supply the relevant person with that information as soon as is reasonably practicable, or
 - (b) in purporting to comply with the request, he knowingly supplies the relevant person with any information which is false in a material particular.
 
-(3)[^key-c08452691ed69679f184f63b339a3dd9][^key-b3b427915b6215fd02ca93cbe846c889] A person commits an offence if, with intent to deceive, he withholds—
+(3)[^c-c08452691ed69679f184f63b339a3dd9][^c-b3b427915b6215fd02ca93cbe846c889] A person commits an offence if, with intent to deceive, he withholds—
 
 - (a) from the relevant person in the case of a supervised organisation, or
 - (b) from a supervised individual,
@@ -72,11 +72,11 @@ as they apply in relation to a supervised individual (or a former supervised ind
 
 [^c10575431]: Commencement: S. 148 wholly in force at 16.2.2001; s. 148 not in force at Royal Assent, see s. 163(2); s. 148 in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-c08452691ed69679f184f63b339a3dd9]: Modification: S. 148(1)-(3) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/9/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-c08452691ed69679f184f63b339a3dd9]: Modification: S. 148(1)-(3) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/9/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-b3b427915b6215fd02ca93cbe846c889]: Modification: S. 148(1)-(3) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 44(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-b3b427915b6215fd02ca93cbe846c889]: Modification: S. 148(1)-(3) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 44(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-d9a24833b6176fa770d78a289ab785fb]: Textual amendment: Words in s. 148(1) substituted (1.12.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [s. 43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1), [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/23); [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(d)(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/d/g)
+[^c-d9a24833b6176fa770d78a289ab785fb]: Textual amendment: Words in s. 148(1) substituted (1.12.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [s. 43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1), [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/23); [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(d)(g)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/d/g)
 
 [^c20075311]: Textual amendment: Words in s. 148(6)(a) inserted (11.9.2006 for E.W.S. for certain purposes, 1.7.2008 for N.I. and otherwise prosp.) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2006/22/section/74/1), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2), [Sch. 1 para 151(2)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/151/2); [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 paras. 24](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/24), [25(m)(ii)](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/25/m/ii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2006/1972/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/2)) (as amended by [S.I. 2006/2268](https://www.legislation.gov.uk/uksi/2006/2268), [art. 4](https://www.legislation.gov.uk/uksi/2006/2268/article/4)); [S.I. 2008/1656](https://www.legislation.gov.uk/uksi/2008/1656), [art. 2](https://www.legislation.gov.uk/uksi/2008/1656/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2008/1656/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1656/schedule/1))
 

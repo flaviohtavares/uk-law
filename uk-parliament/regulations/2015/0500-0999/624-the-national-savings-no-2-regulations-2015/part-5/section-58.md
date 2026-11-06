@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Maximum holding of certificates[^key-27eacb8c4d9ecf0555c47f294b4fbd24]
+## 58. Maximum holding of certificates[^c-27eacb8c4d9ecf0555c47f294b4fbd24]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27eacb8c4d9ecf0555c47f294b4fbd24]: Commencement: Reg. 58 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-27eacb8c4d9ecf0555c47f294b4fbd24]: Commencement: Reg. 58 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

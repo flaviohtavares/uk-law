@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12ZA. Agreement for exercise of approval function: England[^key-ba658417a8e967c221d4390b3723967f]
+## 12ZA. Agreement for exercise of approval function: England[^c-ba658417a8e967c221d4390b3723967f]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba658417a8e967c221d4390b3723967f]: Textual amendment: [Ss. 12ZA-12ZC](https://www.legislation.gov.uk/ukpga/1983/20/section/12ZA) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-ba658417a8e967c221d4390b3723967f]: Textual amendment: [Ss. 12ZA-12ZC](https://www.legislation.gov.uk/ukpga/1983/20/section/12ZA) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Transfer of liabilities etc.: schemes contracted-out on or after 6 April 1997[^key-517899527499da653d579cb7d08256fc]
+## 33A. Transfer of liabilities etc.: schemes contracted-out on or after 6 April 1997[^c-517899527499da653d579cb7d08256fc]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ except in prescribed circumstances or on prescribed conditions.
 
 ## Annotations
 
-[^key-517899527499da653d579cb7d08256fc]: Textual amendment: S. 33A inserted (14.9.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 25](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/25); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2015/329/article/2/1/b)
+[^c-517899527499da653d579cb7d08256fc]: Textual amendment: S. 33A inserted (14.9.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 25](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/25); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2015/329/article/2/1/b)

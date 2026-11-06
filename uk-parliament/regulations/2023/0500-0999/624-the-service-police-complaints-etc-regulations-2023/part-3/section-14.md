@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Power of the Commissioner to treat complaint as having been referred[^key-b374aa7151a3145233dfad8504e8cfcb]
+## 14. Power of the Commissioner to treat complaint as having been referred[^c-b374aa7151a3145233dfad8504e8cfcb]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b374aa7151a3145233dfad8504e8cfcb]: Commencement: Reg. 14 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-b374aa7151a3145233dfad8504e8cfcb]: Commencement: Reg. 14 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

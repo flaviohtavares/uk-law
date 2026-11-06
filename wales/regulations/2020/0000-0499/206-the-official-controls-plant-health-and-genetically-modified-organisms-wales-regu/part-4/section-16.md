@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Action which may be taken by a plant health inspector[^key-f683756d0f331bb50375bd1a59250658]
+## 16. Action which may be taken by a plant health inspector[^c-f683756d0f331bb50375bd1a59250658]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) Paragraph (1) does not apply to any premises which are used wholly or mainly as a private dwelling unless 24 hours' notice has been given to the occupier.
 
-(4) A plant health inspector may be accompanied by such other persons [^key-5ce7c6e0906641a4484181fe6e12d465]... and bring onto the premises such equipment and vehicles as the inspector considers necessary.
+(4) A plant health inspector may be accompanied by such other persons [^c-5ce7c6e0906641a4484181fe6e12d465]... and bring onto the premises such equipment and vehicles as the inspector considers necessary.
 
 (5) A person accompanying a plant health inspector under paragraph (4) may—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f683756d0f331bb50375bd1a59250658]: Commencement: Reg. 16 in force at 27.3.2020, see reg. 1
+[^c-f683756d0f331bb50375bd1a59250658]: Commencement: Reg. 16 in force at 27.3.2020, see reg. 1
 
-[^key-5ce7c6e0906641a4484181fe6e12d465]: Textual amendment: Words in reg. 16(4) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [7(3)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/7/3)
+[^c-5ce7c6e0906641a4484181fe6e12d465]: Textual amendment: Words in reg. 16(4) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [7(3)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/7/3)

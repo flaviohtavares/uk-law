@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Chargeable interest[^key-8643dd8371bf8ec65011182c7b53b887]
+## 4. Chargeable interest[^c-8643dd8371bf8ec65011182c7b53b887]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ other than an exempt interest.
 
 ## Annotations
 
-[^key-8643dd8371bf8ec65011182c7b53b887]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2017/1/section/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8643dd8371bf8ec65011182c7b53b887]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2017/1/section/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

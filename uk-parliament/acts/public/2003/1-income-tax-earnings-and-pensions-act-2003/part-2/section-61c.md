@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61C. Section 61B: supplementary[^key-87da422853c02c2b89725efce6f34cf9]
+## 61C. Section 61B: supplementary[^c-87da422853c02c2b89725efce6f34cf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87da422853c02c2b89725efce6f34cf9]: Textual amendment: Pt. 2 Ch. 9 inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/25/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/3/paragraph/4)
+[^c-87da422853c02c2b89725efce6f34cf9]: Textual amendment: Pt. 2 Ch. 9 inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/25/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/3/paragraph/4)

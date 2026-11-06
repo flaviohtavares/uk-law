@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139A. Additional information if party not relevant national[^key-b3dc9bb2ae4d63efabba32ec86a466e4]
+## 139A. Additional information if party not relevant national[^c-b3dc9bb2ae4d63efabba32ec86a466e4]
 
 *Extent: N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 - (b) if the notice is accompanied by statement D for a party to the proposed civil partnership, the person may provide the registrar with details of his or her immigration position in the United Kingdom; and
 - (c) if any such details are provided, the registrar must record them.
 
-(9)[^key-c2a73356ab9805184d241f1b244fb409] In this section and section 139B—
+(9)[^c-c2a73356ab9805184d241f1b244fb409] In this section and section 139B—
 
 - (a) a reference—
   - (i) to a person having the appropriate immigration status, or
@@ -64,6 +64,6 @@ is to be construed in accordance with section 49 of the 2014 Act;
 
 ## Annotations
 
-[^key-b3dc9bb2ae4d63efabba32ec86a466e4]: Textual amendment: Ss. 139A-139E inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-b3dc9bb2ae4d63efabba32ec86a466e4]: Textual amendment: Ss. 139A-139E inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-c2a73356ab9805184d241f1b244fb409]: Modification: [S. 139A(9)](https://www.legislation.gov.uk/ukpga/2004/33/section/139A/9) applied (2.3.2015) by [The Sham Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) Regulations 2015 (S.I. 2015/404)](https://www.legislation.gov.uk/uksi/2015/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/404/regulation/1/2), [18(4)(b)](https://www.legislation.gov.uk/uksi/2015/404/regulation/18/4/b)
+[^c-c2a73356ab9805184d241f1b244fb409]: Modification: [S. 139A(9)](https://www.legislation.gov.uk/ukpga/2004/33/section/139A/9) applied (2.3.2015) by [The Sham Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) Regulations 2015 (S.I. 2015/404)](https://www.legislation.gov.uk/uksi/2015/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/404/regulation/1/2), [18(4)(b)](https://www.legislation.gov.uk/uksi/2015/404/regulation/18/4/b)

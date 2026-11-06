@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94A. Renewal of notices[^key-1e425f8048ee1cb0b2cbe003fb44bb1c]
+## 94A. Renewal of notices[^c-1e425f8048ee1cb0b2cbe003fb44bb1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e425f8048ee1cb0b2cbe003fb44bb1c]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/2016/25/section/94A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 20(4)](https://www.legislation.gov.uk/ukpga/2024/9/section/20/4), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/1021/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/1021/regulation/4))
+[^c-1e425f8048ee1cb0b2cbe003fb44bb1c]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/2016/25/section/94A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 20(4)](https://www.legislation.gov.uk/ukpga/2024/9/section/20/4), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/1021/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/1021/regulation/4))

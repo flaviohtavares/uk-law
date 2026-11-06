@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Establishment of committees.[^key-f8a6391a6ff4cd75055ab883a4a2c227]
+## 4. Establishment of committees.[^c-f8a6391a6ff4cd75055ab883a4a2c227]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8a6391a6ff4cd75055ab883a4a2c227]: Textual amendment: Ss. 2A-9 repealed (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-f8a6391a6ff4cd75055ab883a4a2c227]: Textual amendment: Ss. 2A-9 repealed (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

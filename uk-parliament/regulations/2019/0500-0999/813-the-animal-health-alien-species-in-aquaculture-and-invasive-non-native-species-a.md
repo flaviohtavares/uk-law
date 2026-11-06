@@ -52,11 +52,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The Secretary of State is of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft of the instrument being laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation and commencement[^key-283d9d69253316cf40ff074389d5331f]
+## 1. Citation and commencement[^c-283d9d69253316cf40ff074389d5331f]
 
 These Regulations may be cited as the Animal Health, Alien Species in Aquaculture and Invasive Non-native Species (Amendment) (EU Exit) Regulations 2019 and come into force immediately before exit day.
 
-## 2. The Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2019[^key-c8815fb19aa076c808f8ed644561c8fe]
+## 2. The Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2019[^c-c8815fb19aa076c808f8ed644561c8fe]
 
 (1) The Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2019 [^c23936971] are amended as follows.
 
@@ -111,7 +111,7 @@ These Regulations may be cited as the Animal Health, Alien Species in Aquacultur
 
   .
 
-## 3. The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^key-965b940678c08f3eb55050f8ef6a9423]
+## 3. The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^c-965b940678c08f3eb55050f8ef6a9423]
 
 (1) The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 [^c23936981] are amended as follows.
 
@@ -121,7 +121,7 @@ These Regulations may be cited as the Animal Health, Alien Species in Aquacultur
 
 .
 
-## 4. The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019[^key-45d9c411c55bf61413ed8d2a5dbeda96]
+## 4. The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019[^c-45d9c411c55bf61413ed8d2a5dbeda96]
 
 (1) The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019 [^c23936991] are amended as follows.
 
@@ -136,7 +136,7 @@ These Regulations may be cited as the Animal Health, Alien Species in Aquacultur
   - (i) in sub-paragraph (a), omit “paragraph 2 of”;
   - (ii) in sub-paragraph (b), for “paragraph 2(b)” substitute “ paragraph (b) ”.
 
-## 5. The Import of and Trade in Animals and Animal Products (Amendment etc.) (EU Exit) Regulations 2019[^key-a1b0dc94e235d370d8e18c70e80fafe7]
+## 5. The Import of and Trade in Animals and Animal Products (Amendment etc.) (EU Exit) Regulations 2019[^c-a1b0dc94e235d370d8e18c70e80fafe7]
 
 **Not yet in force.**
 
@@ -160,20 +160,20 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23936961]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-283d9d69253316cf40ff074389d5331f]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-283d9d69253316cf40ff074389d5331f]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-c8815fb19aa076c808f8ed644561c8fe]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-c8815fb19aa076c808f8ed644561c8fe]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23936971]: Marginal citation: [S.I. 2019/223](https://www.legislation.gov.uk/uksi/2019/223).
 
-[^key-965b940678c08f3eb55050f8ef6a9423]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-965b940678c08f3eb55050f8ef6a9423]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23936981]: Marginal citation: [S.I. 2019/451](https://www.legislation.gov.uk/uksi/2019/451).
 
-[^key-45d9c411c55bf61413ed8d2a5dbeda96]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-45d9c411c55bf61413ed8d2a5dbeda96]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23936991]: Marginal citation: [S.I. 2019/452](https://www.legislation.gov.uk/uksi/2019/452).
 
 [^c23937001]: Marginal citation: [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463), as amended by [S.I. 2019/452](https://www.legislation.gov.uk/uksi/2019/452); there are other amending instruments but none is relevant.
 
-[^key-a1b0dc94e235d370d8e18c70e80fafe7]: Textual amendment: Reg. 5 omitted (31.12.2020 before IP completion day) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [37](https://www.legislation.gov.uk/uksi/2020/1462/regulation/37)
+[^c-a1b0dc94e235d370d8e18c70e80fafe7]: Textual amendment: Reg. 5 omitted (31.12.2020 before IP completion day) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [37](https://www.legislation.gov.uk/uksi/2020/1462/regulation/37)

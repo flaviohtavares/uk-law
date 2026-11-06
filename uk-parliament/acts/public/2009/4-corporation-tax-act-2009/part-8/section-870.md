@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 870. Assumptions for calculating chargeable profits[^key-12ef7f4f71a2dda2c3e63b20c7197529]
+## 870. Assumptions for calculating chargeable profits[^c-12ef7f4f71a2dda2c3e63b20c7197529]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12ef7f4f71a2dda2c3e63b20c7197529]: Textual amendment: S. 870 and cross-heading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/29) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
+[^c-12ef7f4f71a2dda2c3e63b20c7197529]: Textual amendment: S. 870 and cross-heading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/29) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))

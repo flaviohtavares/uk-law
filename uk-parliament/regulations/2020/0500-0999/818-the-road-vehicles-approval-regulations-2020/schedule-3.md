@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 23 and 26
 
-**1.**[^key-f41b8bdc6540423080c64e987422bcba] (1) For the purposes of regulations 23 and 26, the alternative conditions apply if either of the cases specified in paragraph 2 applies.
+**1.**[^c-f41b8bdc6540423080c64e987422bcba] (1) For the purposes of regulations 23 and 26, the alternative conditions apply if either of the cases specified in paragraph 2 applies.
 
 (2) The alternative conditions are that—
 
@@ -33,7 +33,7 @@ Regulations 23 and 26
   is in consequence of the importation of the trailer from a place outside the United Kingdom, any value added tax or customs duty charged on or arising from its removal into the United Kingdom has been or will be paid or remitted, and
 - (b) there is otherwise no lawful reason (whether or not arising from a breach of these Regulations) for refusing to give consent.
 
-**2.**[^key-4edd08ea0f3a384df284e276a679e085] The cases are as follows—
+**2.**[^c-4edd08ea0f3a384df284e276a679e085] The cases are as follows—
 
 - (a) Case 1—
   - (i) the trailer is manufactured in one stage, and
@@ -42,7 +42,7 @@ Regulations 23 and 26
   - (i) the trailer is manufactured in more than one stage, and
   - (ii) its manufacture is completed not later than 29th July 2013.
 
-**3.**[^key-1f2d66f5f00238833b60f3b8fb5f54e8] The alternative information for the purposes of regulation 26 is—
+**3.**[^c-1f2d66f5f00238833b60f3b8fb5f54e8] The alternative information for the purposes of regulation 26 is—
 
 - (a) the name and address and (if any) the company registration number of the manufacturer,
 - (b) the manufacturer's designation (make and model) of the trailer,
@@ -53,8 +53,8 @@ Regulations 23 and 26
 
 ## Annotations
 
-[^key-f41b8bdc6540423080c64e987422bcba]: Commencement: Sch. 3 para. 1 in force at 1.9.2020, see reg. 1(b)
+[^c-f41b8bdc6540423080c64e987422bcba]: Commencement: Sch. 3 para. 1 in force at 1.9.2020, see reg. 1(b)
 
-[^key-4edd08ea0f3a384df284e276a679e085]: Commencement: Sch. 3 para. 2 in force at 1.9.2020, see reg. 1(b)
+[^c-4edd08ea0f3a384df284e276a679e085]: Commencement: Sch. 3 para. 2 in force at 1.9.2020, see reg. 1(b)
 
-[^key-1f2d66f5f00238833b60f3b8fb5f54e8]: Commencement: Sch. 3 para. 3 in force at 1.9.2020, see reg. 1(b)
+[^c-1f2d66f5f00238833b60f3b8fb5f54e8]: Commencement: Sch. 3 para. 3 in force at 1.9.2020, see reg. 1(b)

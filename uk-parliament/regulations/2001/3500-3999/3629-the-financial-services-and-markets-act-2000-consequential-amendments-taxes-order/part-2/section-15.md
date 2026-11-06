@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Insurance business: application of sections 43A to 43E of the Taxes Act[^key-b06ef52141101412f19854e7e0b315d7]
+## 15. Insurance business: application of sections 43A to 43E of the Taxes Act[^c-b06ef52141101412f19854e7e0b315d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b06ef52141101412f19854e7e0b315d7]: Commencement: Art. 15 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-b06ef52141101412f19854e7e0b315d7]: Commencement: Art. 15 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00014]: Footnote: Section 43F was inserted, together with sections 43A to 43E and 43G, by section 110 of the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17).
 

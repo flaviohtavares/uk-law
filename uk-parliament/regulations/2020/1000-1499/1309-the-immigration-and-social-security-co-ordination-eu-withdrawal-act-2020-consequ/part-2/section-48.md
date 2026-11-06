@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Amendment of the Immigration, Nationality and Asylum (EU Exit) Regulations 2019[^key-f205a57b6fe7e90c1a83d41002a9c0a9][^M_I_e92310b3-91ff-4496-b082-d41acb12d07e]
+## 48. Amendment of the Immigration, Nationality and Asylum (EU Exit) Regulations 2019[^c-f205a57b6fe7e90c1a83d41002a9c0a9][^M_I_e92310b3-91ff-4496-b082-d41acb12d07e]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f205a57b6fe7e90c1a83d41002a9c0a9]: Commencement: Reg. 48 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-f205a57b6fe7e90c1a83d41002a9c0a9]: Commencement: Reg. 48 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_e92310b3-91ff-4496-b082-d41acb12d07e]: Commencement: Reg. 48 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

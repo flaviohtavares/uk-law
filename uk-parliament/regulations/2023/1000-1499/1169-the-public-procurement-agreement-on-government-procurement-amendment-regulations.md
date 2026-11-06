@@ -32,7 +32,7 @@ summary: ''
 
 PUBLIC PROCUREMENT
 
-The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2023 (revoked)[^key-cfd6fe99c81365f94cc469c78dfc582e]
+The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2023 (revoked)[^c-cfd6fe99c81365f94cc469c78dfc582e]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 28th November 2023
 
-[^key-cfd6fe99c81365f94cc469c78dfc582e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfd6fe99c81365f94cc469c78dfc582e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-cfd6fe99c81365f94cc469c78dfc582e]
+## 1. Citation, commencement and extent[^c-cfd6fe99c81365f94cc469c78dfc582e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Public Contracts Regulations 2015[^key-cfd6fe99c81365f94cc469c78dfc582e]
+## 2. Amendments to the Public Contracts Regulations 2015[^c-cfd6fe99c81365f94cc469c78dfc582e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Concession Contracts Regulations 2016[^key-cfd6fe99c81365f94cc469c78dfc582e]
+## 3. Amendments to the Concession Contracts Regulations 2016[^c-cfd6fe99c81365f94cc469c78dfc582e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Utilities Contracts Regulations 2016[^key-cfd6fe99c81365f94cc469c78dfc582e]
+## 4. Amendments to the Utilities Contracts Regulations 2016[^c-cfd6fe99c81365f94cc469c78dfc582e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cfd6fe99c81365f94cc469c78dfc582e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfd6fe99c81365f94cc469c78dfc582e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cfd6fe99c81365f94cc469c78dfc582e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfd6fe99c81365f94cc469c78dfc582e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cfd6fe99c81365f94cc469c78dfc582e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/1169) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-cfd6fe99c81365f94cc469c78dfc582e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/1169) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)

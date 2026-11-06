@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Heat networks regulations[^key-4bf122889085eaf95bb14875a7a62b18]
+## 219. Heat networks regulations[^c-4bf122889085eaf95bb14875a7a62b18]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bf122889085eaf95bb14875a7a62b18]: Commencement: S. 219 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-4bf122889085eaf95bb14875a7a62b18]: Commencement: S. 219 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

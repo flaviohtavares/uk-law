@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Determination of certain asset shares, notional pensions and survivor notional pensions[^key-8e94aafe757b2a0fe4fe984df8fc0416]
+## 28. Determination of certain asset shares, notional pensions and survivor notional pensions[^c-8e94aafe757b2a0fe4fe984df8fc0416]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e94aafe757b2a0fe4fe984df8fc0416]: Textual amendment: [Pts. 7](https://www.legislation.gov.uk/uksi/2005/1986/part/7), [8](https://www.legislation.gov.uk/uksi/2005/1986/part/8), [9](https://www.legislation.gov.uk/uksi/2005/1986/part/9) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [14](https://www.legislation.gov.uk/uksi/2010/1149/regulation/14), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1149/schedule/1)
+[^c-8e94aafe757b2a0fe4fe984df8fc0416]: Textual amendment: [Pts. 7](https://www.legislation.gov.uk/uksi/2005/1986/part/7), [8](https://www.legislation.gov.uk/uksi/2005/1986/part/8), [9](https://www.legislation.gov.uk/uksi/2005/1986/part/9) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [14](https://www.legislation.gov.uk/uksi/2010/1149/regulation/14), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1149/schedule/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Where one of the situations referred to in points (a) and (b) of Article 11(2)[^key-2c97ec9c8d830b9410c1ef51d32375d6] is officially confirmed, the competent authority shall immediately establish one or more areas where the eradication measures referred to in Article 17(1) are to be taken (‘demarcated area’).
+1. Where one of the situations referred to in points (a) and (b) of Article 11(2)[^c-2c97ec9c8d830b9410c1ef51d32375d6] is officially confirmed, the competent authority shall immediately establish one or more areas where the eradication measures referred to in Article 17(1) are to be taken (‘demarcated area’).
 
 The demarcated area shall consist of an infested zone and a buffer zone.
 
@@ -41,18 +41,18 @@ However, where any risk of the pest spreading out of the infested zone is elimin
 
 In that case, it shall carry out a survey to determine whether any further plants or plant products have been infested. On the basis of that survey, the competent authority shall determine whether there is a need to establish a demarcated area.
 
-4A.[^key-d92676f9d936efcf97497ff4e57d1a3f] Where, in accordance with paragraph 2 or 3, the competent authority determines that a demarcated area should extend to or be established in another territory of Great Britain, it must immediately inform the competent authority in relation to that other territory of the extent of the proposed demarcated area.
+4A.[^c-d92676f9d936efcf97497ff4e57d1a3f] Where, in accordance with paragraph 2 or 3, the competent authority determines that a demarcated area should extend to or be established in another territory of Great Britain, it must immediately inform the competent authority in relation to that other territory of the extent of the proposed demarcated area.
 
 4B. Where, in accordance with paragraph 4A, the competent authority in relation to that other territory is informed that a demarcated area should extend to or be established in the territory for which it is responsible, it may, in accordance with paragraphs 2 to 4, establish an appropriate demarcated area in the territory for which it is responsible.
 
-5.[^key-7582cec8701d382ca0ace3b65c07fed3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-7582cec8701d382ca0ace3b65c07fed3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-7582cec8701d382ca0ace3b65c07fed3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-7582cec8701d382ca0ace3b65c07fed3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2c97ec9c8d830b9410c1ef51d32375d6]: Textual amendment: Words in Art. 18(1) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(17)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/17/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-2c97ec9c8d830b9410c1ef51d32375d6]: Textual amendment: Words in Art. 18(1) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(17)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/17/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-d92676f9d936efcf97497ff4e57d1a3f]: Textual amendment: Art. 18(4A)(4B) inserted (20.12.2022) by [The Plant Health and Trade in Animals and Related Products (Amendment) Regulations 2022 (S.I. 2022/1367)](https://www.legislation.gov.uk/uksi/2022/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/2/3)
+[^c-d92676f9d936efcf97497ff4e57d1a3f]: Textual amendment: Art. 18(4A)(4B) inserted (20.12.2022) by [The Plant Health and Trade in Animals and Related Products (Amendment) Regulations 2022 (S.I. 2022/1367)](https://www.legislation.gov.uk/uksi/2022/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/2/3)
 
-[^key-7582cec8701d382ca0ace3b65c07fed3]: Textual amendment: Art. 18(5)(6) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(17)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/17/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-7582cec8701d382ca0ace3b65c07fed3]: Textual amendment: Art. 18(5)(6) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(17)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/17/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

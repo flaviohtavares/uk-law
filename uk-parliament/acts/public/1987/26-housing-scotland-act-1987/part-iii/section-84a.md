@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84A. Application of right to buy to cases where landlord is lessee.[^key-16993b79226abff95570e11ef1115cc3]
+## 84A. Application of right to buy to cases where landlord is lessee.[^c-16993b79226abff95570e11ef1115cc3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16993b79226abff95570e11ef1115cc3]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/1987/26/section/84A) repealed (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 1(1)](https://www.legislation.gov.uk/asp/2014/14/section/1/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))
+[^c-16993b79226abff95570e11ef1115cc3]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/1987/26/section/84A) repealed (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 1(1)](https://www.legislation.gov.uk/asp/2014/14/section/1/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))

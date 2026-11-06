@@ -55,7 +55,7 @@ In these Regulations—
 - “**airports**” means the Belfast International Airport, the City of Derry Airport and the George Best Belfast City Airport;
 - “**excepted hereditament**” means a hereditament which falls within a class of hereditament described in Schedule 1;
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975 [^c24238141];
-- “newspaper” means a daily, Sunday or local (other than daily or Sunday) newspaper circulating in Northern Ireland.[^key-a9c9261c785a87438cdfdef40dc31b42]
+- “newspaper” means a daily, Sunday or local (other than daily or Sunday) newspaper circulating in Northern Ireland.[^c-a9c9261c785a87438cdfdef40dc31b42]
 - “**retail hereditament**” means a hereditament that is used for the retail sale of goods to members of the public who visit the building to buy goods for consumption or use elsewhere, whether or not by the buyer, for purposes unconnected with a trade or business, but does not include a hereditament whose retail floor space —
   - (a) is greater than 500m² Net Internal Area (NIA) and is wholly or mainly used for the retail sale of food and household goods; or
   - (b) is wholly or mainly used for the retail sale of intoxicating liquor and licensed under Article 5(1)(b) of the Licensing (Northern Ireland) Order 1996 [^c24238151];
@@ -89,7 +89,7 @@ The condition referred to in regulation 3 is that where rates in respect of a sp
 
 A reduction applicable to a specified hereditament by virtue of these Regulations is to be applied after any reduction applied to the hereditament by virtue of the 2010 Regulations.
 
-## 7. Reduction after the application of Article 43 of the Rates (Northern Ireland) Order 1977[^key-908f4ca95b2a395ec87c3b9a51adc749]
+## 7. Reduction after the application of Article 43 of the Rates (Northern Ireland) Order 1977[^c-908f4ca95b2a395ec87c3b9a51adc749]
 
 A reduction applicable to a specified hereditament by virtue of these Regulations is to be applied after any reduction applied to that hereditament due to it being distinguished in the NAV list as a result of Article 43 of the Rates (Northern Ireland) Order 1977.
 
@@ -247,7 +247,7 @@ Regulation 2
 
 **61.** Children's day-care or nurseries.
 
-**62.**[^key-2618815ec1f3ad02df34d5ecdda4f4df] An industrial business occupying an industrial hereditament distinguished in the NAV list as a result of Article 43 of the Rates (Northern Ireland) Order 1977.
+**62.**[^c-2618815ec1f3ad02df34d5ecdda4f4df] An industrial business occupying an industrial hereditament distinguished in the NAV list as a result of Article 43 of the Rates (Northern Ireland) Order 1977.
 
 **63.** A newspaper business occupying premises used for the purpose of regular production of published newspapers for sale to the general public.
 
@@ -281,11 +281,11 @@ Schedule 2 to the Regulations outlines what will constitute the classes designat
 
 [^c24238141]: Marginal citation: [1975 c.26](https://www.legislation.gov.uk/ukpga/1975/26)
 
-[^key-a9c9261c785a87438cdfdef40dc31b42]: Textual amendment: Words in reg. 2 inserted (5.2.2021) by [The Rates (Coronavirus) (Emergency Relief) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/24)](https://www.legislation.gov.uk/nisr/2021/24), [regs. 1](https://www.legislation.gov.uk/nisr/2021/24/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/24/regulation/3)
+[^c-a9c9261c785a87438cdfdef40dc31b42]: Textual amendment: Words in reg. 2 inserted (5.2.2021) by [The Rates (Coronavirus) (Emergency Relief) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/24)](https://www.legislation.gov.uk/nisr/2021/24), [regs. 1](https://www.legislation.gov.uk/nisr/2021/24/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/24/regulation/3)
 
 [^c24238151]: Marginal citation: S.I. 1996 / 3158 (N.I. 22)
 
-[^key-908f4ca95b2a395ec87c3b9a51adc749]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2020/144/regulation/7) inserted (5.2.2021) by [The Rates (Coronavirus) (Emergency Relief) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/24)](https://www.legislation.gov.uk/nisr/2021/24), [regs. 1](https://www.legislation.gov.uk/nisr/2021/24/regulation/1), [4](https://www.legislation.gov.uk/nisr/2021/24/regulation/4)
+[^c-908f4ca95b2a395ec87c3b9a51adc749]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2020/144/regulation/7) inserted (5.2.2021) by [The Rates (Coronavirus) (Emergency Relief) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/24)](https://www.legislation.gov.uk/nisr/2021/24), [regs. 1](https://www.legislation.gov.uk/nisr/2021/24/regulation/1), [4](https://www.legislation.gov.uk/nisr/2021/24/regulation/4)
 
 [^c24238161]: Marginal citation: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725)
 
@@ -297,4 +297,4 @@ Schedule 2 to the Regulations outlines what will constitute the classes designat
 
 [^c24238201]: Marginal citation: [1985 No. 1204](https://www.legislation.gov.uk/ukcm/1985/1204) (N.I. 11)
 
-[^key-2618815ec1f3ad02df34d5ecdda4f4df]: Textual amendment: [Sch. 2 paras. 62](https://www.legislation.gov.uk/nisr/2020/144/schedule/2/paragraph/62), [63](https://www.legislation.gov.uk/nisr/2020/144/schedule/2/paragraph/63) inserted (5.2.2021) by [The Rates (Coronavirus) (Emergency Relief) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/24)](https://www.legislation.gov.uk/nisr/2021/24), [regs. 1](https://www.legislation.gov.uk/nisr/2021/24/regulation/1), [5](https://www.legislation.gov.uk/nisr/2021/24/regulation/5)
+[^c-2618815ec1f3ad02df34d5ecdda4f4df]: Textual amendment: [Sch. 2 paras. 62](https://www.legislation.gov.uk/nisr/2020/144/schedule/2/paragraph/62), [63](https://www.legislation.gov.uk/nisr/2020/144/schedule/2/paragraph/63) inserted (5.2.2021) by [The Rates (Coronavirus) (Emergency Relief) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/24)](https://www.legislation.gov.uk/nisr/2021/24), [regs. 1](https://www.legislation.gov.uk/nisr/2021/24/regulation/1), [5](https://www.legislation.gov.uk/nisr/2021/24/regulation/5)

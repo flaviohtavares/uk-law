@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Power of High Court to remit unitary development plans in Wales[^key-743ac902bfe7d764506add8d842798ef]
+## 186. Power of High Court to remit unitary development plans in Wales[^c-743ac902bfe7d764506add8d842798ef]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-743ac902bfe7d764506add8d842798ef]: Textual amendment: S. 186 omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 20(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/20/2)
+[^c-743ac902bfe7d764506add8d842798ef]: Textual amendment: S. 186 omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 20(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/20/2)

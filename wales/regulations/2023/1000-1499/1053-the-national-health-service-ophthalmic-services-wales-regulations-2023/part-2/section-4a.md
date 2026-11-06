@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4A. Issue of orders signed by a qualifying optometrist[^key-c7d9518d344e8d5f5af7bc13232151b5]
+## 4A. Issue of orders signed by a qualifying optometrist[^c-c7d9518d344e8d5f5af7bc13232151b5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7d9518d344e8d5f5af7bc13232151b5]: Textual amendment: Regs. 4A, 4B inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [Sch. para. 3](https://www.legislation.gov.uk/wsi/2024/1196/schedule/paragraph/3) (as amended by [S.I. 2025/285](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/wsi/2025/285/regulation/3/4/b))
+[^c-c7d9518d344e8d5f5af7bc13232151b5]: Textual amendment: Regs. 4A, 4B inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/wsi/2024/1196), [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4), [Sch. para. 3](https://www.legislation.gov.uk/wsi/2024/1196/schedule/paragraph/3) (as amended by [S.I. 2025/285](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/wsi/2025/285/regulation/3/4/b))

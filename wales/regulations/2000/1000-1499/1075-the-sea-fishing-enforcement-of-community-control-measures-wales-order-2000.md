@@ -31,7 +31,7 @@ summary: ''
 
 SEA FISHERIES, WALES
 
-The Sea Fishing (Enforcement of Community Control Measures) (Wales) Order 2000 (revoked)[^key-9f75af7d704c732342d1e77149048245]
+The Sea Fishing (Enforcement of Community Control Measures) (Wales) Order 2000 (revoked)[^c-9f75af7d704c732342d1e77149048245]
 
 Made
 
@@ -41,67 +41,67 @@ Coming into force
 
 1st April 2000
 
-[^key-9f75af7d704c732342d1e77149048245]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f75af7d704c732342d1e77149048245]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-9f75af7d704c732342d1e77149048245]
+## 1. Title, commencement and application[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9f75af7d704c732342d1e77149048245]
+## 2. Interpretation[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences[^key-9f75af7d704c732342d1e77149048245]
+## 3. Offences[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Penalties[^key-9f75af7d704c732342d1e77149048245]
+## 4. Penalties[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Recovery of fines[^key-9f75af7d704c732342d1e77149048245]
+## 5. Recovery of fines[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Powers of British sea-fishery officers in relation to fishing boats[^key-9f75af7d704c732342d1e77149048245]
+## 6. Powers of British sea-fishery officers in relation to fishing boats[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Powers of British sea-fishery officers on land[^key-9f75af7d704c732342d1e77149048245]
+## 7. Powers of British sea-fishery officers on land[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Powers of British sea-fishery officers to seize fish and fishing gear[^key-9f75af7d704c732342d1e77149048245]
+## 8. Powers of British sea-fishery officers to seize fish and fishing gear[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Protection of officers[^key-9f75af7d704c732342d1e77149048245]
+## 9. Protection of officers[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Obstruction etc.[^key-9f75af7d704c732342d1e77149048245]
+## 10. Obstruction etc.[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Provisions as to offences and proceedings[^key-9f75af7d704c732342d1e77149048245]
+## 11. Provisions as to offences and proceedings[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Admissibility in evidence of logbooks and other documents[^key-9f75af7d704c732342d1e77149048245]
+## 12. Admissibility in evidence of logbooks and other documents[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Revocation[^key-9f75af7d704c732342d1e77149048245]
+## 13. Revocation[^c-9f75af7d704c732342d1e77149048245]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f75af7d704c732342d1e77149048245]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f75af7d704c732342d1e77149048245]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — COMMUNITY CONTROL MEASURES, CONTRAVENTION OF WHICH CONSTITUTES AN OFFENCE[^key-9f75af7d704c732342d1e77149048245]
+## SCHEDULE — COMMUNITY CONTROL MEASURES, CONTRAVENTION OF WHICH CONSTITUTES AN OFFENCE[^c-9f75af7d704c732342d1e77149048245]
 
 **Articles 3 and 4(1) and (2)**
 
@@ -109,8 +109,8 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-9f75af7d704c732342d1e77149048245]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f75af7d704c732342d1e77149048245]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f75af7d704c732342d1e77149048245]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2000/1075) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-9f75af7d704c732342d1e77149048245]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2000/1075) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

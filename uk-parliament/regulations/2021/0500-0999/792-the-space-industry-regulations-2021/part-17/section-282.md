@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282. Duty on licensee to inform regulator of changes[^key-dcebd780a9bb8b931d751aee4bf9b2c0]
+## 282. Duty on licensee to inform regulator of changes[^c-dcebd780a9bb8b931d751aee4bf9b2c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcebd780a9bb8b931d751aee4bf9b2c0]: Commencement: Reg. 282 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-dcebd780a9bb8b931d751aee4bf9b2c0]: Commencement: Reg. 282 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

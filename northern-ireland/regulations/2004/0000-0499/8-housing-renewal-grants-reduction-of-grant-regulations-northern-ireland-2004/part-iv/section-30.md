@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Determination of income other than earnings[^key-859133f3061001e20f131a0cc08ae520]
+## 30. Determination of income other than earnings[^c-859133f3061001e20f131a0cc08ae520]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-859133f3061001e20f131a0cc08ae520]: Commencement: Reg. 30 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-859133f3061001e20f131a0cc08ae520]: Commencement: Reg. 30 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Careers education: information and advice[^key-1c9cab95acaec2fa5f6529fcef9be6f2]
+## 81. Careers education: information and advice[^c-1c9cab95acaec2fa5f6529fcef9be6f2]
 
 *Extent: E+W*
 
 (1) Part 7 of the Education Act 1997 (c. 44) (careers education and guidance) is amended as follows.
 
-(2)[^key-1fc544f09e15e282bad5de88fb58b80e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1fc544f09e15e282bad5de88fb58b80e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1fc544f09e15e282bad5de88fb58b80e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1fc544f09e15e282bad5de88fb58b80e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After section 45 insert—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c9cab95acaec2fa5f6529fcef9be6f2]: Commencement: S. 81 in force at 1.9.2009 by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 3](https://www.legislation.gov.uk/uksi/2009/1513/article/3)
+[^c-1c9cab95acaec2fa5f6529fcef9be6f2]: Commencement: S. 81 in force at 1.9.2009 by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 3](https://www.legislation.gov.uk/uksi/2009/1513/article/3)
 
-[^key-1fc544f09e15e282bad5de88fb58b80e]: Textual amendment: [S. 81(2)](https://www.legislation.gov.uk/ukpga/2008/25/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/25/section/81/3) omitted (1.9.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 29(9)(c)](https://www.legislation.gov.uk/ukpga/2011/21/section/29/9/c), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-1fc544f09e15e282bad5de88fb58b80e]: Textual amendment: [S. 81(2)](https://www.legislation.gov.uk/ukpga/2008/25/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/25/section/81/3) omitted (1.9.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 29(9)(c)](https://www.legislation.gov.uk/ukpga/2011/21/section/29/9/c), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)

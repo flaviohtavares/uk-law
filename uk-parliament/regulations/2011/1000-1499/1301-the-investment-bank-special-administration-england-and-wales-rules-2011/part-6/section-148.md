@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Distribution to creditors[^key-72e5d5959609f07fd7230520d0196e81]
+## 148. Distribution to creditors[^c-72e5d5959609f07fd7230520d0196e81]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72e5d5959609f07fd7230520d0196e81]: Commencement: [Rule 148](https://www.legislation.gov.uk/uksi/2011/1301/rule/148) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-72e5d5959609f07fd7230520d0196e81]: Commencement: [Rule 148](https://www.legislation.gov.uk/uksi/2011/1301/rule/148) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

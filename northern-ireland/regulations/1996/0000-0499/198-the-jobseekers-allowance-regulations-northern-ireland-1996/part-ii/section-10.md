@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Reasonable prospects of employment[^key-5296aac642435ea6e15e3cec1d59eea2]
+## 10. Reasonable prospects of employment[^c-5296aac642435ea6e15e3cec1d59eea2]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5296aac642435ea6e15e3cec1d59eea2]: Commencement: Reg. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-5296aac642435ea6e15e3cec1d59eea2]: Commencement: Reg. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

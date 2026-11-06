@@ -35,72 +35,72 @@ implementing Regulation (EC) No 453/2008 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-84d9e61eae232616ee87c17b0994473a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84d9e61eae232616ee87c17b0994473a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions related to ‘job vacancy’[^key-84d9e61eae232616ee87c17b0994473a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Reference dates[^key-84d9e61eae232616ee87c17b0994473a]
+## Article 1. Definitions related to ‘job vacancy’[^c-84d9e61eae232616ee87c17b0994473a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Data transmission[^key-84d9e61eae232616ee87c17b0994473a]
+## Article 2. Reference dates[^c-84d9e61eae232616ee87c17b0994473a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Feasibility studies[^key-84d9e61eae232616ee87c17b0994473a]
+## Article 3. Data transmission[^c-84d9e61eae232616ee87c17b0994473a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-84d9e61eae232616ee87c17b0994473a]
+## Article 4. Feasibility studies[^c-84d9e61eae232616ee87c17b0994473a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84d9e61eae232616ee87c17b0994473a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX[^key-84d9e61eae232616ee87c17b0994473a]
-
-[^key-84d9e61eae232616ee87c17b0994473a]Feasibility study to assess how quarterly job vacancy statistics can be obtained for NACE Rev. 2 sections O, P, Q, R and/or S
+## Article 5. Entry into force[^c-84d9e61eae232616ee87c17b0994473a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84d9e61eae232616ee87c17b0994473a]Options
+[^c-84d9e61eae232616ee87c17b0994473a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-84d9e61eae232616ee87c17b0994473a]
+
+[^c-84d9e61eae232616ee87c17b0994473a]Feasibility study to assess how quarterly job vacancy statistics can be obtained for NACE Rev. 2 sections O, P, Q, R and/or S
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84d9e61eae232616ee87c17b0994473a]Recommendation
+[^c-84d9e61eae232616ee87c17b0994473a]Options
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84d9e61eae232616ee87c17b0994473a]Implementation
+[^c-84d9e61eae232616ee87c17b0994473a]Recommendation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84d9e61eae232616ee87c17b0994473a]Member States undertaking feasibility studies
+[^c-84d9e61eae232616ee87c17b0994473a]Implementation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84d9e61eae232616ee87c17b0994473a]Feasibility study to assess how the quarterly job vacancy statistics can be obtained from business units with less than 10 employees
+[^c-84d9e61eae232616ee87c17b0994473a]Member States undertaking feasibility studies
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84d9e61eae232616ee87c17b0994473a]Options
+[^c-84d9e61eae232616ee87c17b0994473a]Feasibility study to assess how the quarterly job vacancy statistics can be obtained from business units with less than 10 employees
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84d9e61eae232616ee87c17b0994473a]Recommendation
+[^c-84d9e61eae232616ee87c17b0994473a]Options
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84d9e61eae232616ee87c17b0994473a]Implementation
+[^c-84d9e61eae232616ee87c17b0994473a]Recommendation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84d9e61eae232616ee87c17b0994473a]Member States undertaking feasibility studies
+[^c-84d9e61eae232616ee87c17b0994473a]Implementation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-84d9e61eae232616ee87c17b0994473a]Member States undertaking feasibility studies
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-84d9e61eae232616ee87c17b0994473a]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 143](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/143); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84d9e61eae232616ee87c17b0994473a]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 143](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/143); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -39,14 +39,14 @@ releasing the United Kingdom from certain obligations for the marketing of veget
 
 (2007/321/EC) (revoked)
 
-[^key-bb5495dfebd6166b556e2ee46d9e86d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb5495dfebd6166b556e2ee46d9e86d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-bb5495dfebd6166b556e2ee46d9e86d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bb5495dfebd6166b556e2ee46d9e86d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bb5495dfebd6166b556e2ee46d9e86d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bb5495dfebd6166b556e2ee46d9e86d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bb5495dfebd6166b556e2ee46d9e86d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb5495dfebd6166b556e2ee46d9e86d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bb5495dfebd6166b556e2ee46d9e86d2]: Textual amendment: Decision revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb5495dfebd6166b556e2ee46d9e86d2]: Textual amendment: Decision revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

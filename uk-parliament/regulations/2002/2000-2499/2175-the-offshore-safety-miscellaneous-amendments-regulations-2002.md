@@ -45,13 +45,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 15(1) and (3)(a) and 82(3)(a) of the Health and Safety at Work etc. Act 1974[^f00001] and section 1(2)(a) of the Offshore Safety Act 1992[^f00002] and of all other powers enabling him in that behalf, and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the said Act of 1974 after the carrying out by the Health and Safety Commission of consultations in accordance with section 50(3) of the said Act of 1974, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-f644561864ade313936d35974daba1a2]
+## 1. Citation, commencement and interpretation[^c-f644561864ade313936d35974daba1a2]
 
 (1) These Regulations may be cited as the Offshore Safety (Miscellaneous Amendments) Regulations 2002 and shall come into force on 17th September 2002.
 
 (2) References in these Regulations to the “Management Regulations” are to the Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995[^f00003].
 
-## 2. Amendment of the Management Regulations[^key-b5623f7b0effee801cab60736b43578e]
+## 2. Amendment of the Management Regulations[^c-b5623f7b0effee801cab60736b43578e]
 
 (1) Regulation 2(1) of the Management Regulations shall be amended—
 
@@ -68,12 +68,12 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 - (b) in paragraph (2), by substituting the words “Any reference in paragraph (1) to a structure or unit does not include” for the words “For the purposes of paragraph (1), the excepted structures are”; and
 - (c) in sub-paragraph (e) of paragraph (2), by substituting the words “yet being moved with a view to its being” for the words “for the time being intended to be”.
 
-## 3. Amendment of other enactments[^key-9456dc24cc944a1e2376b516d4661dec]
+## 3. Amendment of other enactments[^c-9456dc24cc944a1e2376b516d4661dec]
 
 The reference to regulation 3 of the Management Regulations in—
 
 - (a) the definition of “installation” in—
-  - (i)[^key-212fd008d55bfc4fe996b4b5b8aac564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-212fd008d55bfc4fe996b4b5b8aac564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) paragraph (1) of regulation 2 of the Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations 1995[^f00005]; and
   - (iii) paragraph (1) of regulation 2 of the Offshore Installations and Wells (Design and Construction, etc.) Regulations 1996[^f00006]; and
 - (b) the definition of “offshore installation” in—
@@ -106,15 +106,15 @@ Department for Work and Pensions
 
 [^f00002]: Footnote: [1992 c. 15](https://www.legislation.gov.uk/ukpga/1992/15).
 
-[^key-f644561864ade313936d35974daba1a2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1) in force at 17.9.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1)
+[^c-f644561864ade313936d35974daba1a2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1) in force at 17.9.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1995/738](https://www.legislation.gov.uk/uksi/1995/738).
 
-[^key-b5623f7b0effee801cab60736b43578e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/2175/regulation/2) in force at 17.9.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1)
+[^c-b5623f7b0effee801cab60736b43578e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/2175/regulation/2) in force at 17.9.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1)
 
-[^key-9456dc24cc944a1e2376b516d4661dec]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/2175/regulation/3) in force at 17.9.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1)
+[^c-9456dc24cc944a1e2376b516d4661dec]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/2175/regulation/3) in force at 17.9.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1)
 
-[^key-212fd008d55bfc4fe996b4b5b8aac564]: Textual amendment: [Reg. 3(a)(i)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/3/a/i) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-212fd008d55bfc4fe996b4b5b8aac564]: Textual amendment: [Reg. 3(a)(i)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/3/a/i) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
 [^f00005]: Footnote: S.I. [1995/743](https://www.legislation.gov.uk/uksi/1995/743).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137FA. FCA general rules: disclosure of information about pension scheme transaction costs etc[^key-8027d64d8b176f5bf351caff1f15438c][^key-e922c816a6b3c56cc617ae59c14f3510]
+## 137FA. FCA general rules: disclosure of information about pension scheme transaction costs etc[^c-8027d64d8b176f5bf351caff1f15438c][^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,9 +31,9 @@ summary: ''
 (3) The FCA must make general rules requiring the publication of information about—
 
 - (a) some or all of the transaction costs of a relevant scheme, and
-- (b) some or all of the other[^key-c355a656ce8176683f395f32d7ce3c43] administration charges imposed on members of a relevant scheme.
+- (b) some or all of the other[^c-c355a656ce8176683f395f32d7ce3c43] administration charges imposed on members of a relevant scheme.
 
-(4) Rules made by virtue of subsection (3) may require other relevant information to be published along with information about transaction costs or other[^key-15ba2f0b3c17e977c5ea8bc229c0468b] administration charges in relation to a scheme.
+(4) Rules made by virtue of subsection (3) may require other relevant information to be published along with information about transaction costs or other[^c-15ba2f0b3c17e977c5ea8bc229c0468b] administration charges in relation to a scheme.
 
 (5) “**Other relevant information**” means other information which would or may assist in making comparisons between those costs or charges and costs or charges in relation to other schemes.
 
@@ -42,7 +42,7 @@ summary: ''
 - (a) the Secretary of State, and
 - (b) the Treasury.
 
-(7) In determining what provision to include in the rules, the FCA must have regard to any regulations about the disclosure or publication of transaction costs or other[^key-64ba8526666d23f3468112be1d3e15d2] administration charges that are for the time being in force under section 113 of the Pension Schemes Act 1993.
+(7) In determining what provision to include in the rules, the FCA must have regard to any regulations about the disclosure or publication of transaction costs or other[^c-64ba8526666d23f3468112be1d3e15d2] administration charges that are for the time being in force under section 113 of the Pension Schemes Act 1993.
 
 (8) In this section—
 
@@ -60,12 +60,12 @@ summary: ''
 
 ## Annotations
 
-[^key-8027d64d8b176f5bf351caff1f15438c]: Textual amendment: S. 137FA inserted (18.9.2017) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/44/2), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2017/916](https://www.legislation.gov.uk/uksi/2017/916), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/916/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/916/regulation/2/2))
+[^c-8027d64d8b176f5bf351caff1f15438c]: Textual amendment: S. 137FA inserted (18.9.2017) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/44/2), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2017/916](https://www.legislation.gov.uk/uksi/2017/916), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/916/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/916/regulation/2/2))
 
-[^key-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-c355a656ce8176683f395f32d7ce3c43]: Textual amendment: Word in s. 137FA(3)(b) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 127(4)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/127/4/a), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(j)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/j)
+[^c-c355a656ce8176683f395f32d7ce3c43]: Textual amendment: Word in s. 137FA(3)(b) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 127(4)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/127/4/a), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(j)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/j)
 
-[^key-15ba2f0b3c17e977c5ea8bc229c0468b]: Textual amendment: Word in s. 137FA(4) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 127(4)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/127/4/b), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(j)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/j)
+[^c-15ba2f0b3c17e977c5ea8bc229c0468b]: Textual amendment: Word in s. 137FA(4) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 127(4)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/127/4/b), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(j)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/j)
 
-[^key-64ba8526666d23f3468112be1d3e15d2]: Textual amendment: Word in s. 137FA(7) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 127(4)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/127/4/c), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(j)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/j)
+[^c-64ba8526666d23f3468112be1d3e15d2]: Textual amendment: Word in s. 137FA(7) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 127(4)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/127/4/c), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(j)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/j)

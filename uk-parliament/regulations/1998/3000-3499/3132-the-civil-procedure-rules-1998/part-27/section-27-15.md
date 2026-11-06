@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.15. Claim re-allocated from the small claims track to another track[^key-c5e4fba2be31d554e553810d1c7d7746]
+## 27.15. Claim re-allocated from the small claims track to another track[^c-c5e4fba2be31d554e553810d1c7d7746]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5e4fba2be31d554e553810d1c7d7746]: Textual amendment: [Rule 27.15](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.15) substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/572/rule/9/4) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-c5e4fba2be31d554e553810d1c7d7746]: Textual amendment: [Rule 27.15](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.15) substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/572/rule/9/4) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))

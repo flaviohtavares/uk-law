@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Annual rate of full retirement pension (active members)[^key-0f8419aa73879b0ddb6342a5ac0d31c7]
+## 88. Annual rate of full retirement pension (active members)[^c-0f8419aa73879b0ddb6342a5ac0d31c7]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f8419aa73879b0ddb6342a5ac0d31c7]: Commencement: Reg. 88 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-0f8419aa73879b0ddb6342a5ac0d31c7]: Commencement: Reg. 88 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

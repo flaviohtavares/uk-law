@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Power to adjust redress payment amounts for inflation[^key-d8b8f4c4fef9b300e09ad5a129229e38]
+## 41. Power to adjust redress payment amounts for inflation[^c-d8b8f4c4fef9b300e09ad5a129229e38]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may by regulations modify sections 38 and 39 to replace a
 
 ## Annotations
 
-[^key-d8b8f4c4fef9b300e09ad5a129229e38]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2021/15/section/41) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-d8b8f4c4fef9b300e09ad5a129229e38]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2021/15/section/41) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

@@ -44,7 +44,7 @@ summary: ''
 
 (6) In these Regulations a “**participant**”, in relation to an authorised investment fund, means a beneficial owner of units in the fund, except where the units are held on trust (other than a bare trust) or are comprised in the estate of a deceased person, and in such a case the participant, in relation to the fund, means the trustees of the trust, or, as the case may be, the deceased's personal representatives.
 
-(7)[^key-794700830b9d6be3cf5ad5ee4db9ec65] In these Regulations “instrument constituting the fund” means—
+(7)[^c-794700830b9d6be3cf5ad5ee4db9ec65] In these Regulations “instrument constituting the fund” means—
 
 - (a) in relation to an open-ended investment company, the instrument of incorporation, and
 - (b) in relation to an authorised unit trust scheme, the trust deed.
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-794700830b9d6be3cf5ad5ee4db9ec65]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2006/964/regulation/6/7)[(8)](https://www.legislation.gov.uk/uksi/2006/964/regulation/6/8) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2036/regulation/4)
+[^c-794700830b9d6be3cf5ad5ee4db9ec65]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2006/964/regulation/6/7)[(8)](https://www.legislation.gov.uk/uksi/2006/964/regulation/6/8) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2036/regulation/4)

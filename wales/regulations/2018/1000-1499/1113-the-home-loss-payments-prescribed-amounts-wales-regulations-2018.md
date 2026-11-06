@@ -33,7 +33,7 @@ Acquisition Of Land, Wales
 
 Compensation
 
-The Home Loss Payments (Prescribed Amounts) (Wales) Regulations 2018 (revoked)[^key-256dcf0a290aef88a1db0a55e4ff5c02]
+The Home Loss Payments (Prescribed Amounts) (Wales) Regulations 2018 (revoked)[^c-256dcf0a290aef88a1db0a55e4ff5c02]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 3 December 2018
 
-[^key-256dcf0a290aef88a1db0a55e4ff5c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-256dcf0a290aef88a1db0a55e4ff5c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-256dcf0a290aef88a1db0a55e4ff5c02]
+## 1. Title, commencement, application and interpretation[^c-256dcf0a290aef88a1db0a55e4ff5c02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revision of prescribed amounts for home loss payment[^key-256dcf0a290aef88a1db0a55e4ff5c02]
+## 2. Revision of prescribed amounts for home loss payment[^c-256dcf0a290aef88a1db0a55e4ff5c02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and savings[^key-256dcf0a290aef88a1db0a55e4ff5c02]
+## 3. Revocation and savings[^c-256dcf0a290aef88a1db0a55e4ff5c02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-256dcf0a290aef88a1db0a55e4ff5c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-256dcf0a290aef88a1db0a55e4ff5c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-256dcf0a290aef88a1db0a55e4ff5c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-256dcf0a290aef88a1db0a55e4ff5c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-256dcf0a290aef88a1db0a55e4ff5c02]: Textual amendment: Regulations revoked (27.4.2020) by [The Home Loss Payments (Prescribed Amounts) (Wales) Regulations 2020 (S.I. 2020/340)](https://www.legislation.gov.uk/wsi/2020/340), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/340/regulation/1/1), [3(1)](https://www.legislation.gov.uk/wsi/2020/340/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/wsi/2020/340/regulation/3/2))
+[^c-256dcf0a290aef88a1db0a55e4ff5c02]: Textual amendment: Regulations revoked (27.4.2020) by [The Home Loss Payments (Prescribed Amounts) (Wales) Regulations 2020 (S.I. 2020/340)](https://www.legislation.gov.uk/wsi/2020/340), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/340/regulation/1/1), [3(1)](https://www.legislation.gov.uk/wsi/2020/340/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/wsi/2020/340/regulation/3/2))

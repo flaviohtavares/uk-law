@@ -47,7 +47,7 @@ The Secretary of State, in exercise of the powers conferred upon him by section 
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and application[^key-ca44d883d611aa75b79c8e9b58df8dda]
+### 1. Citation, commencement and application[^c-ca44d883d611aa75b79c8e9b58df8dda]
 
 (1) These regulations may be cited as the Police Service of Northern Ireland Reserve (Part-Time) Regulations 2004.
 
@@ -58,7 +58,7 @@ The Secretary of State, in exercise of the powers conferred upon him by section 
 - (a) in relation to any member appointed on or after 8th February 2004, and
 - (b) in accordance with paragraph (5) or (6) of regulation 4, in relation to any such member as is described in that paragraph.
 
-### 2. Interpretation[^key-8cac048e1b0f25cceb5380e32787aaf6]
+### 2. Interpretation[^c-8cac048e1b0f25cceb5380e32787aaf6]
 
 (1) In these regulations –
 
@@ -70,7 +70,7 @@ The Secretary of State, in exercise of the powers conferred upon him by section 
 
 (2) Nothing in these regulations shall be construed as authorising pay or allowances payable to any person to be reduced retrospectively.
 
-### 3. Revocation[^key-c4f951b1b89728cd1fee1c8697360145]
+### 3. Revocation[^c-c4f951b1b89728cd1fee1c8697360145]
 
 (1) The following regulations are revoked –
 
@@ -82,7 +82,7 @@ The Secretary of State, in exercise of the powers conferred upon him by section 
 - (a) in so far as it could have been made, given, kept, fixed or done under a provision of these regulations or for the purposes thereof, shall have effect as if it had been made, given, kept, fixed or done under, or for the purposes of, that provision, and
 - (b) where it was made, given, kept, fixed or done by or to the Board under a provision of the regulations mentioned in paragraph (1) or for the purposes thereof, but could have been made, given, kept, fixed or done by or to the Chief Constable under, or for the purposes of, a provision of these regulations, shall have effect as if it had been made, given, kept, fixed or done by or to the Chief Constable under, or for the purposes of, that provision.
 
-### 4. Members appointed before 8th February 2004[^key-7018be23854990a3c62a8d9c1097e563]
+### 4. Members appointed before 8th February 2004[^c-7018be23854990a3c62a8d9c1097e563]
 
 (1) In this regulation “existing member” means any member who was appointed before 8th February 2004 on a part-time basis (other than to perform part-time service under regulation 4A of the Royal Ulster Constabulary Reserve (Full-time) (Appointment and Conditions of Service) Regulations 1996)[^f00008].
 
@@ -111,7 +111,7 @@ and participation in any training required under sub-paragraph (a) shall be trea
 - (a) the regulations mentioned in regulation 3(1) shall cease to apply in relation to him, and
 - (b) Parts II to V of these regulations shall apply in relation to him.
 
-### 5. Functions of the Chief Constable[^key-894cbe0146733ea4e8e558b8af8737b0]
+### 5. Functions of the Chief Constable[^c-894cbe0146733ea4e8e558b8af8737b0]
 
 (1) Any power conferred on the Chief Constable by these regulations to make provision by –
 
@@ -131,7 +131,7 @@ includes power to make different provision for different purposes, cases and cir
 
 ## PART II — GOVERNMENT
 
-### 6. Restrictions on private life[^key-8524c21dee3efc7ce412973200f55f9f]
+### 6. Restrictions on private life[^c-8524c21dee3efc7ce412973200f55f9f]
 
 (1) No restriction on the private life of members shall be imposed by the Board or the Chief Constable, other than those designed to secure the proper exercise of the functions of a member, except such as may temporarily be necessary or such as may be approved by the Secretary of State after consultation with the Police Advisory Board established under section 45 of the Police (Northern Ireland) Act 1998; and any such restriction temporarily imposed shall be reported forthwith to the Secretary of State.
 
@@ -139,7 +139,7 @@ includes power to make different provision for different purposes, cases and cir
 
 (3) A member shall not wilfully refuse or neglect to discharge any lawful debt.
 
-### 7. Prohibited business interests[^key-3cce323f95845294dbf697ba30f0c5b0]
+### 7. Prohibited business interests[^c-3cce323f95845294dbf697ba30f0c5b0]
 
 (1) If a member or a relative included in his family has a prohibited business interest within the meaning of regulation 2A of the Police (Recruitment) (Northern Ireland) Regulations 2001[^f00009], the Chief Constable may give notice in writing to the member that the prohibited business interest is incompatible with that person remaining a member.
 
@@ -170,7 +170,7 @@ then the Chief Constable may dispense with the services of that member.
 
 (8) Any reference in this regulation to a relative included in a member’s family shall include a reference to his spouse, parent, son, daughter, brother or sister.
 
-### 8. Probation[^key-322f78b418cdbc257193dc26de79aa61]
+### 8. Probation[^c-322f78b418cdbc257193dc26de79aa61]
 
 (1) Subject to paragraphs (2) and (3), a member shall be on probation for 2 years from the date of his first appointment as a member.
 
@@ -183,7 +183,7 @@ may count towards the period of probation.
 
 (3) If, in the opinion of the Chief Constable, the period of probation of a member was seriously interrupted by a period of absence from duty, the Chief Constable may, at his discretion, extend the period of probation for such longer period, not exceeding 12 months, as he determines in the circumstances of the particular case.
 
-### 9. Discharge of probationer[^key-ff5e6f0ab0967edfe9e977407bd89523]
+### 9. Discharge of probationer[^c-ff5e6f0ab0967edfe9e977407bd89523]
 
 (1) Subject to the provisions of this regulation, during his period of probation in the Police Service of Northern Ireland Reserve the services of a member may be dispensed with at any time if the Chief Constable considers that he –
 
@@ -194,7 +194,7 @@ may count towards the period of probation.
 
 (3) A member’s services shall not be dispensed with in accordance with this regulation, and any notice given for the purposes thereof shall cease to have effect, if he gives written notice to the Chief Constable of his intention to retire and retires in pursuance of the said notice on or before the date on which his services would otherwise be dispensed with; and such a notice taking effect on that date shall be accepted by the Chief Constable notwithstanding that less than a month’s notice is given.
 
-### 10. Persistent failure to report for duty[^key-02ded997829592860e89483d35f50101]
+### 10. Persistent failure to report for duty[^c-02ded997829592860e89483d35f50101]
 
 (1) The appropriate officer may dismiss a member whose persistent failure to report for duty is unacceptable.
 
@@ -231,7 +231,7 @@ and where notice of appeal is so given, the dismissal shall not take effect unti
 - (a) receiving his comments on the notice and any other documents sent to the member under paragraph (8), or
 - (b) the expiration of the period afforded for making comments if none have by then been received.
 
-### 11. Medical examinations[^key-4ad27507d23cd3c559711e588bcd2cb9]
+### 11. Medical examinations[^c-4ad27507d23cd3c559711e588bcd2cb9]
 
 (1) Where, following an examination by an approved medical practitioner, the Chief Constable considers that a member is not fit, physically or mentally, to be a reserve constable, the Chief Constable may dismiss the member.
 
@@ -243,7 +243,7 @@ and where notice of appeal is so given, the dismissal shall not take effect unti
 
 (5) Where the Chief Constable dismisses a member under paragraph (1) or (2), he shall give the member one month’s written notice.
 
-### 12. Retirement[^key-fb4eb340fa6c45d0f8d5933e1740fd52]
+### 12. Retirement[^c-fb4eb340fa6c45d0f8d5933e1740fd52]
 
 (1) Retirement shall be compulsory on attaining the age of 65 years.
 
@@ -253,7 +253,7 @@ and where notice of appeal is so given, the dismissal shall not take effect unti
 
 (4) A member who is suspended under the Conduct Regulations may not, without the consent of the Chief Constable, give notice for the purposes of paragraph (3) or retire in pursuance of a notice previously given.
 
-### 13. Contents of personal records[^key-adc22f48bf94fe543f73a8e379664021]
+### 13. Contents of personal records[^c-adc22f48bf94fe543f73a8e379664021]
 
 (1) The Chief Constable shall cause a personal record of each member to be kept.
 
@@ -276,13 +276,13 @@ but in the case of a period free from punishment other than a caution which expi
 
 (4) A member shall, if he so requests, be entitled to inspect his personal record.
 
-### 14. Personal record of member leaving the PSNI Reserve[^key-bc154dc95953fe765f99a642e4de2e8c]
+### 14. Personal record of member leaving the PSNI Reserve[^c-bc154dc95953fe765f99a642e4de2e8c]
 
 (1) Where a member ceases to be a member he shall, on request, be given a certificate setting out the period of his service as a reserve constable and any period of service as a police reserve trainee.
 
 (2) Where a member ceases to be a member his personal record shall be kept for such time as the Chief Constable may think fit and shall then be destroyed.
 
-### 15. Fingerprints[^key-78703ea830a74bb6e2395ce27234df26]
+### 15. Fingerprints[^c-78703ea830a74bb6e2395ce27234df26]
 
 (1) Every member shall, in accordance with the directions of the Chief Constable, have his fingerprints taken.
 
@@ -292,7 +292,7 @@ but in the case of a period free from punishment other than a caution which expi
 
 ## PART III — DUTY AND PAY
 
-### 16. Duty[^key-d60c79fd909be382668bb90fb871e467]
+### 16. Duty[^c-d60c79fd909be382668bb90fb871e467]
 
 (1) A member may only exercise the powers and privileges of a constable when on duty.
 
@@ -320,7 +320,7 @@ but in the case of a period free from punishment other than a caution which expi
   - (i) in the case of a member appointed on or after 8th February 2004, from the date of his appointment as a member and ending with the 31st March after that date, or
   - (ii) in the case of a member to whom these regulations apply with effect from a date specified under regulation 4(5), from the date so specified and ending with the first 31st March after that date.
 
-### 17. Rate of pay[^key-896356b9c6738a0251a6de558ff18ebd]
+### 17. Rate of pay[^c-896356b9c6738a0251a6de558ff18ebd]
 
 (1) The pay of members shall be determined by the Secretary of State.
 
@@ -328,7 +328,7 @@ but in the case of a period free from punishment other than a caution which expi
 
 (3) A determination under paragraph (1) may make different provision for different cases and circumstances.
 
-### 18. Pay day[^key-358b3bc5a004c72ecf768191b33ae1ba]
+### 18. Pay day[^c-358b3bc5a004c72ecf768191b33ae1ba]
 
 (1) Members shall be paid at such intervals as the Chief Constable may fix.
 
@@ -336,7 +336,7 @@ but in the case of a period free from punishment other than a caution which expi
 
 (3) The Chief Constable may, if he thinks fit, pay to a member such part of his pay as he may determine in advance of the day on which it would otherwise be due to be paid in accordance with this regulation.
 
-### 19. Sick pay[^key-898a02b5cc419e79ccdd131854ddbe84]
+### 19. Sick pay[^c-898a02b5cc419e79ccdd131854ddbe84]
 
 (1) Where a member loses remuneration in his private employment in consequence of an injury received in the execution of his duty as a member, he shall be entitled to an allowance by way of sick pay as hereinafter provided.
 
@@ -345,7 +345,7 @@ but in the case of a period free from punishment other than a caution which expi
 - (a) the rate of such loss of remuneration, or
 - (b) the rate of pay to which he would have been entitled if he had been a member of the Police Service of Northern Ireland holding the rank of constable and his service as a reserve constable had been service as such a member.
 
-### 20. Deductions from pay of social security benefits and statutory sick pay[^key-8ae4fa3a71107e49abfa225d1c5afc82]
+### 20. Deductions from pay of social security benefits and statutory sick pay[^c-8ae4fa3a71107e49abfa225d1c5afc82]
 
 (1) There shall be deducted from the pay of a member –
 
@@ -358,21 +358,21 @@ and for the purposes of sub-paragraph (a) any increase for adult and child depen
 
 ## PART IV — ALLOWANCES AND OTHER EMOLUMENTS
 
-### 21. Restriction on payment of allowances[^key-393fec64620be1cffa8e9f56d2739137]
+### 21. Restriction on payment of allowances[^c-393fec64620be1cffa8e9f56d2739137]
 
 (1) No allowances shall be paid to a member except as provided by these regulations or approved by the Secretary of State, and the amounts and conditions of payment of such allowances shall be as so provided or approved.
 
 (2) Nothing in this regulation shall apply to the reimbursement of expenses incurred by a member in the execution of his duty, being expenses authorised either generally or specifically by the Board or the Chief Constable in respect of which no allowance is payable under these regulations.
 
-### 22. Restriction on payments for private employment of police[^key-7c6f6030f12743877c0feebac6fa1c76]
+### 22. Restriction on payments for private employment of police[^c-7c6f6030f12743877c0feebac6fa1c76]
 
 Without prejudice to the generality of regulation 21, a member who is engaged on duty at the request of any person who has agreed to pay the Chief Constable for the member’s services shall not be entitled to any payment for those services except as provided by the regulations applicable to him.
 
-### 23. Advances to cover expenses when away on duty[^key-fbab224a784c41419f909aae3c1e1dd6]
+### 23. Advances to cover expenses when away on duty[^c-fbab224a784c41419f909aae3c1e1dd6]
 
 Where a member is required to do duty away from his usual place of duty he shall be given, if he so requests, an advance to cover, as far as practicable, any expenses which he will probably incur.
 
-### 24. Motor vehicle allowances[^key-75c5b61e1267789bf17cc668517e298c]
+### 24. Motor vehicle allowances[^c-75c5b61e1267789bf17cc668517e298c]
 
 (1) Where the Chief Constable is of the opinion that the duties normally performed by a member are of such a nature that it is –
 
@@ -401,7 +401,7 @@ shall, subject as aforesaid, be payable on such conditions and at such rate as i
 
 (6) Paragraph 1 of the Schedule shall have effect for the purposes of the interpretation of this regulation.
 
-### 25. Allowance in respect of medical charges[^key-ed29dbc95915a18e938ed6055cc11459]
+### 25. Allowance in respect of medical charges[^c-ed29dbc95915a18e938ed6055cc11459]
 
 (1) A member, if the charges are incurred by reason of an injury received without his default in the execution of his duty as a member, shall be reimbursed the normal standard charges incurred in his case under Articles 5, 61, 62, 63 and 98 of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00012] (which Articles relate to charges for certain drugs, medicines appliances and dental treatment).
 
@@ -410,13 +410,13 @@ shall, subject as aforesaid, be payable on such conditions and at such rate as i
 - (a) shall be reimbursed the charges if they are incurred as mentioned in paragraph (1) of regulation 7 of the Police Reserve Trainee Regulations (Northern Ireland) 2004[^f00013], and
 - (b) may be reimbursed the charges if they are incurred as mentioned in paragraph (2) of that regulation.
 
-### 26. General[^key-6102ecfbe9b64d34eb984fc5c20aa1c5]
+### 26. General[^c-6102ecfbe9b64d34eb984fc5c20aa1c5]
 
 A member claiming any allowance under this Part shall comply with such directions as may be given by the Board or the Chief Constable from time to time as to the time and manner of claiming and certification.
 
 ## PART V — UNIFORM AND EQUIPMENT
 
-### 27. Issue of uniform and equipment[^key-d5115e293367f327b885ce4a229319ac]
+### 27. Issue of uniform and equipment[^c-d5115e293367f327b885ce4a229319ac]
 
 (1) The Secretary of State shall determine the circumstances in which and the conditions subject to which uniform and equipment is to be issued by the Chief Constable to a member, and in making such a determination the Secretary of State may confer on the Chief Constable discretion to specify the type of uniform and equipment to be issued.
 
@@ -434,7 +434,7 @@ Northern Ireland Office
 
 Regulation 24
 
-**1.**[^key-6fdd92af4d59917b8e2f2dd01040bc8c] For the purposes of regulation 24 and of this Schedule the following expressions have the meanings hereby respectively assigned to them –
+**1.**[^c-6fdd92af4d59917b8e2f2dd01040bc8c] For the purposes of regulation 24 and of this Schedule the following expressions have the meanings hereby respectively assigned to them –
 
 - “authorised use” means the use, authorised under regulation 24, of a motor vehicle owned by the member concerned for the purposes of his duties as a member, and “period of authorised use” means the period during which such use is authorised;
 - “cylinder capacity” means the cylinder capacity of the engine of a vehicle calculated in accordance with regulations under paragraph 2(4) of Schedule 1 to the Vehicle Excise and Registration Act 1994[^f00014];
@@ -444,7 +444,7 @@ Regulation 24
 
 and a reference to a motor vehicle owned by a member is a reference to such a vehicle kept and used by him.
 
-**2.**[^key-80b0c3c9ef2c7d73da934882588e753d] (1) Subject as hereinafter provided, the amount of a motor vehicle allowance payable at the essential user’s rate shall, in any year, comprise a fixed element and a mileage element, calculated as provided in sub-paragraphs (2) and (3).
+**2.**[^c-80b0c3c9ef2c7d73da934882588e753d] (1) Subject as hereinafter provided, the amount of a motor vehicle allowance payable at the essential user’s rate shall, in any year, comprise a fixed element and a mileage element, calculated as provided in sub-paragraphs (2) and (3).
 
 (2) The fixed element shall be calculated by reference to the number of completed months comprised in the period of authorised use for the year in question, at such annual rate as is specified by the Secretary of State by reference to the cylinder capacity of the motor car in question.
 
@@ -464,9 +464,9 @@ for a continuous period of four or more weeks in that year, the allowance shall 
 
 (6) Where, in any year, a motor vehicle allowance is payable at the essential user’s rate but the period of authorised use is a fraction only of that year, sub-paragraph (3) shall have effect as if for the reference to the basic mileage there were substituted a reference to the corresponding fraction of that mileage; and, for the purposes of this paragraph, the monthly rate of the fixed element of such an allowance so payable shall be taken to be a twelfth of the annual rate.
 
-**3.**[^key-ccb02d7ad05609e14e6c7362cc498df2] The amount of a motor vehicle allowance payable at the casual user’s rate shall, in any year, be an amount calculated, in relation to the mileage of authorised use in that year, at such rate as is specified by the Secretary of State by reference to that mileage and the cylinder capacity of the motor car in question, except that where the amount of the allowance would be less if it were calculated at the essential user’s rate, it shall be of an amount calculated in accordance with paragraph 2.
+**3.**[^c-ccb02d7ad05609e14e6c7362cc498df2] The amount of a motor vehicle allowance payable at the casual user’s rate shall, in any year, be an amount calculated, in relation to the mileage of authorised use in that year, at such rate as is specified by the Secretary of State by reference to that mileage and the cylinder capacity of the motor car in question, except that where the amount of the allowance would be less if it were calculated at the essential user’s rate, it shall be of an amount calculated in accordance with paragraph 2.
 
-**4.**[^key-cc3b1d87e1f66a989e1e3f9e21b30f02] The amount of a motor vehicle allowance payable to a member shall not exceed that which would be payable if the vehicle in question were of such a cylinder capacity, not being less than 1,000 c.c., as the Chief Constable has determined appropriate for use for the purposes of the duties normally performed by the member concerned.
+**4.**[^c-cc3b1d87e1f66a989e1e3f9e21b30f02] The amount of a motor vehicle allowance payable to a member shall not exceed that which would be payable if the vehicle in question were of such a cylinder capacity, not being less than 1,000 c.c., as the Chief Constable has determined appropriate for use for the purposes of the duties normally performed by the member concerned.
 
 (This note is not part of the Regulations.)
 
@@ -488,9 +488,9 @@ Part V makes provision for the issue of uniform and equipment to members.
 
 [^f00001]: Footnote: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32)
 
-[^key-ca44d883d611aa75b79c8e9b58df8dda]: Commencement: Reg. 1 in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/3/regulation/1/2)
+[^c-ca44d883d611aa75b79c8e9b58df8dda]: Commencement: Reg. 1 in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/3/regulation/1/2)
 
-[^key-8cac048e1b0f25cceb5380e32787aaf6]: Commencement: Reg. 2 in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/3/regulation/1/2)
+[^c-8cac048e1b0f25cceb5380e32787aaf6]: Commencement: Reg. 2 in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/3/regulation/1/2)
 
 [^f00002]: Footnote: [S.R. 1988 No. 374](https://www.legislation.gov.uk/nisr/1988/374)
 
@@ -498,7 +498,7 @@ Part V makes provision for the issue of uniform and equipment to members.
 
 [^f00004]: Footnote: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77)
 
-[^key-c4f951b1b89728cd1fee1c8697360145]: Commencement: Reg. 3 in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/3/regulation/1/2)
+[^c-c4f951b1b89728cd1fee1c8697360145]: Commencement: Reg. 3 in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/3/regulation/1/2)
 
 [^f00005]: Footnote: [S.R. 1996 No. 565](https://www.legislation.gov.uk/nisr/1996/565)
 
@@ -506,72 +506,72 @@ Part V makes provision for the issue of uniform and equipment to members.
 
 [^f00007]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30)
 
-[^key-7018be23854990a3c62a8d9c1097e563]: Commencement: Reg. 4 in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/3/regulation/1/2)
+[^c-7018be23854990a3c62a8d9c1097e563]: Commencement: Reg. 4 in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/3/regulation/1/2)
 
 [^f00008]: Footnote: [S.R. 1996 No. 564](https://www.legislation.gov.uk/nisr/1996/564). Regulation 4A was inserted by [S.R. 2001 No. 80](https://www.legislation.gov.uk/nisr/2001/80)
 
-[^key-894cbe0146733ea4e8e558b8af8737b0]: Commencement: Reg. 5 in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/3/regulation/1/2)
+[^c-894cbe0146733ea4e8e558b8af8737b0]: Commencement: Reg. 5 in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/3/regulation/1/2)
 
-[^key-8524c21dee3efc7ce412973200f55f9f]: Commencement: Reg. 6 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-8524c21dee3efc7ce412973200f55f9f]: Commencement: Reg. 6 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-3cce323f95845294dbf697ba30f0c5b0]: Commencement: Reg. 7 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-3cce323f95845294dbf697ba30f0c5b0]: Commencement: Reg. 7 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
 [^f00009]: Footnote: [S.R. 2001 No. 140](https://www.legislation.gov.uk/nisr/2001/140). Regulation 2A was inserted by the Police (Recruitment) (Northern Ireland) (Amendment) Regulations 2004 ([S.R. 2004 No. 1](https://www.legislation.gov.uk/nisr/2004/1)). Other amendments have been made by [S.R. 2002 No. 385](https://www.legislation.gov.uk/nisr/2002/385) and [S.R. 2003 No. 372](https://www.legislation.gov.uk/nisr/2003/372)
 
-[^key-322f78b418cdbc257193dc26de79aa61]: Commencement: Reg. 8 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-322f78b418cdbc257193dc26de79aa61]: Commencement: Reg. 8 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-ff5e6f0ab0967edfe9e977407bd89523]: Commencement: Reg. 9 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-ff5e6f0ab0967edfe9e977407bd89523]: Commencement: Reg. 9 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-02ded997829592860e89483d35f50101]: Commencement: Reg. 10 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-02ded997829592860e89483d35f50101]: Commencement: Reg. 10 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-4ad27507d23cd3c559711e588bcd2cb9]: Commencement: Reg. 11 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-4ad27507d23cd3c559711e588bcd2cb9]: Commencement: Reg. 11 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-fb4eb340fa6c45d0f8d5933e1740fd52]: Commencement: Reg. 12 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-fb4eb340fa6c45d0f8d5933e1740fd52]: Commencement: Reg. 12 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-adc22f48bf94fe543f73a8e379664021]: Commencement: Reg. 13 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-adc22f48bf94fe543f73a8e379664021]: Commencement: Reg. 13 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-bc154dc95953fe765f99a642e4de2e8c]: Commencement: Reg. 14 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-bc154dc95953fe765f99a642e4de2e8c]: Commencement: Reg. 14 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-78703ea830a74bb6e2395ce27234df26]: Commencement: Reg. 15 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-78703ea830a74bb6e2395ce27234df26]: Commencement: Reg. 15 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-d60c79fd909be382668bb90fb871e467]: Commencement: Reg. 16 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-d60c79fd909be382668bb90fb871e467]: Commencement: Reg. 16 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-896356b9c6738a0251a6de558ff18ebd]: Commencement: Reg. 17 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-896356b9c6738a0251a6de558ff18ebd]: Commencement: Reg. 17 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-358b3bc5a004c72ecf768191b33ae1ba]: Commencement: Reg. 18 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-358b3bc5a004c72ecf768191b33ae1ba]: Commencement: Reg. 18 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-898a02b5cc419e79ccdd131854ddbe84]: Commencement: Reg. 19 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-898a02b5cc419e79ccdd131854ddbe84]: Commencement: Reg. 19 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-8ae4fa3a71107e49abfa225d1c5afc82]: Commencement: Reg. 20 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-8ae4fa3a71107e49abfa225d1c5afc82]: Commencement: Reg. 20 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
 [^f00010]: Footnote: S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)
 
 [^f00011]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-393fec64620be1cffa8e9f56d2739137]: Commencement: Reg. 21 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-393fec64620be1cffa8e9f56d2739137]: Commencement: Reg. 21 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-7c6f6030f12743877c0feebac6fa1c76]: Commencement: Reg. 22 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-7c6f6030f12743877c0feebac6fa1c76]: Commencement: Reg. 22 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-fbab224a784c41419f909aae3c1e1dd6]: Commencement: Reg. 23 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-fbab224a784c41419f909aae3c1e1dd6]: Commencement: Reg. 23 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-75c5b61e1267789bf17cc668517e298c]: Commencement: Reg. 24 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-75c5b61e1267789bf17cc668517e298c]: Commencement: Reg. 24 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-ed29dbc95915a18e938ed6055cc11459]: Commencement: Reg. 25 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-ed29dbc95915a18e938ed6055cc11459]: Commencement: Reg. 25 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
 [^f00012]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) as modified by S.I. [1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907)
 
 [^f00013]: Footnote: [S.R. 2004 No. 2](https://www.legislation.gov.uk/nisr/2004/2)
 
-[^key-6102ecfbe9b64d34eb984fc5c20aa1c5]: Commencement: Reg. 26 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-6102ecfbe9b64d34eb984fc5c20aa1c5]: Commencement: Reg. 26 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-d5115e293367f327b885ce4a229319ac]: Commencement: Reg. 27 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-d5115e293367f327b885ce4a229319ac]: Commencement: Reg. 27 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-6fdd92af4d59917b8e2f2dd01040bc8c]: Commencement: Sch. para. 1 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-6fdd92af4d59917b8e2f2dd01040bc8c]: Commencement: Sch. para. 1 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
 [^f00014]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
 
-[^key-80b0c3c9ef2c7d73da934882588e753d]: Commencement: Sch. para. 2 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-80b0c3c9ef2c7d73da934882588e753d]: Commencement: Sch. para. 2 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-ccb02d7ad05609e14e6c7362cc498df2]: Commencement: Sch. para. 3 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-ccb02d7ad05609e14e6c7362cc498df2]: Commencement: Sch. para. 3 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
 
-[^key-cc3b1d87e1f66a989e1e3f9e21b30f02]: Commencement: Sch. para. 4 in operation at 8.2.2004 with effect in accordance with reg. 1(3)
+[^c-cc3b1d87e1f66a989e1e3f9e21b30f02]: Commencement: Sch. para. 4 in operation at 8.2.2004 with effect in accordance with reg. 1(3)

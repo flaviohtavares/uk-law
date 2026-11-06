@@ -37,7 +37,7 @@ summary: ''
 > - (b) the Chapter II prohibition;
 > - (c) the prohibition in Article 81(1) of the Treaty;
 > - (d) the prohibition in Article 82 of the Treaty;
-> - (e) the prohibition in Article 65(1) of the Treaty establishing the European Union[^key-a885cfd1664244a9294ae00ea214b5ab] ;
+> - (e) the prohibition in Article 65(1) of the Treaty establishing the European Union[^c-a885cfd1664244a9294ae00ea214b5ab] ;
 > - (f) the prohibition in Article 66(7) of that Treaty.
 >
 > (3) For the purpose of identifying claims which may be made in civil proceedings, any limitation rules that would apply in such proceedings are to be disregarded.
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a885cfd1664244a9294ae00ea214b5ab]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-a885cfd1664244a9294ae00ea214b5ab]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

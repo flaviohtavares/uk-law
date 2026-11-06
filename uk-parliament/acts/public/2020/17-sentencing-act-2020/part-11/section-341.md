@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 341. Guidance[^key-872ebbf99fb7e3d49933e9be5e2b3a79]
+## 341. Guidance[^c-872ebbf99fb7e3d49933e9be5e2b3a79]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ about the exercise of their functions under this Chapter.
 
 ## Annotations
 
-[^key-872ebbf99fb7e3d49933e9be5e2b3a79]: Commencement: [S. 341](https://www.legislation.gov.uk/ukpga/2020/17/section/341) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-872ebbf99fb7e3d49933e9be5e2b3a79]: Commencement: [S. 341](https://www.legislation.gov.uk/ukpga/2020/17/section/341) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

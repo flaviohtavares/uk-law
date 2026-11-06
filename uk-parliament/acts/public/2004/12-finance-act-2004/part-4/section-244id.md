@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244ID. Information to be provided by relieved relevant non-UK scheme on block transfer[^key-74019447021e3dfd59dbae4cd587d864][^key-8442a960629e1e99ed567cd792d5924f]
+## 244ID. Information to be provided by relieved relevant non-UK scheme on block transfer[^c-74019447021e3dfd59dbae4cd587d864][^c-8442a960629e1e99ed567cd792d5924f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74019447021e3dfd59dbae4cd587d864]: Textual amendment: [S. 244ID](https://www.legislation.gov.uk/ukpga/2004/12/section/244ID) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/356/regulation/3/2)
+[^c-74019447021e3dfd59dbae4cd587d864]: Textual amendment: [S. 244ID](https://www.legislation.gov.uk/ukpga/2004/12/section/244ID) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/356/regulation/3/2)
 
-[^key-8442a960629e1e99ed567cd792d5924f]: Textual amendment: Ss. 244A-244N and cross-heading inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/11)
+[^c-8442a960629e1e99ed567cd792d5924f]: Textual amendment: Ss. 244A-244N and cross-heading inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/11)

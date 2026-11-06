@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. No derogation from statements in the consent form[^key-6ce4589b543dca63ac35cf6b417eab8e]
+## 208. No derogation from statements in the consent form[^c-6ce4589b543dca63ac35cf6b417eab8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The consent form must not contain any provision which derogates from the stateme
 
 ## Annotations
 
-[^key-6ce4589b543dca63ac35cf6b417eab8e]: Commencement: Reg. 208 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-6ce4589b543dca63ac35cf6b417eab8e]: Commencement: Reg. 208 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

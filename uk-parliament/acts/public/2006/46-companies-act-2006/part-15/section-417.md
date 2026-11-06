@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 417. Contents of directors' report: business review[^key-e89932faaa6b5c4c3d205eac43d3d184]
+## 417. Contents of directors' report: business review[^c-e89932faaa6b5c4c3d205eac43d3d184]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e89932faaa6b5c4c3d205eac43d3d184]: Textual amendment: S. 417 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3)[5](https://www.legislation.gov.uk/uksi/2013/1970/regulation/5)
+[^c-e89932faaa6b5c4c3d205eac43d3d184]: Textual amendment: S. 417 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3)[5](https://www.legislation.gov.uk/uksi/2013/1970/regulation/5)

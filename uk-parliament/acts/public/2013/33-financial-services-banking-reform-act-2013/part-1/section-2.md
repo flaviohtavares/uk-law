@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Modification of objectives of Financial Conduct Authority[^key-36f283ffbe9332206483108b67925393]
+## 2. Modification of objectives of Financial Conduct Authority[^c-36f283ffbe9332206483108b67925393]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ After section 1I of FSMA 2000 insert—
 
 ## Annotations
 
-[^key-36f283ffbe9332206483108b67925393]: Commencement: S. 2 in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/b)
+[^c-36f283ffbe9332206483108b67925393]: Commencement: S. 2 in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/b)

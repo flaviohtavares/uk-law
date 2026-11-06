@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 182. Omission of unobtainable information[^key-f412caf5727b105104c6fb1ebdcddd61]
+## 182. Omission of unobtainable information[^c-f412caf5727b105104c6fb1ebdcddd61]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Information required under this Chapter to be included in a notice to be gazette
 
 ## Annotations
 
-[^key-f412caf5727b105104c6fb1ebdcddd61]: Commencement: [Rule 182](https://www.legislation.gov.uk/uksi/2013/3208/rule/182) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-f412caf5727b105104c6fb1ebdcddd61]: Commencement: [Rule 182](https://www.legislation.gov.uk/uksi/2013/3208/rule/182) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

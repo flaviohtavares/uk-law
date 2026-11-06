@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Notice of unauthorised development[^c19534411][^key-f3cef7cf5215cc706cc67bf395b055ba]
+## 169. Notice of unauthorised development[^c19534411][^c-f3cef7cf5215cc706cc67bf395b055ba]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c19534411]: Commencement: S. 169 partly in force; s. 169 in force for certain purposes at Royal Assent see s. 241
 
-[^key-f3cef7cf5215cc706cc67bf395b055ba]: Commencement: S. 169 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-f3cef7cf5215cc706cc67bf395b055ba]: Commencement: S. 169 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

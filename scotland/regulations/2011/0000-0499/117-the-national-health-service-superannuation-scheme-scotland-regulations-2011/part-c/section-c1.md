@@ -22,7 +22,7 @@ summary: ''
 
 (1) In these Regulations, “**pensionable pay**” means, subject to the provisions of this regulation—
 
-- (a) all salary, wages, fees , any amount equal to any part of salary given up under an approved salary sacrifice arrangement,[^key-efaa04e9a50a3683fbd3cec71ebf53a9] and other regular payments made to a member in respect of pensionable employment as an officer, but does not include bonuses, pay awards and pay increases that are expressed by the Scottish Ministers to be non-consolidated,[^key-d1e86bae3464a2f28429542a28730525] payments made to cover expenses or payments for overtime; and
+- (a) all salary, wages, fees , any amount equal to any part of salary given up under an approved salary sacrifice arrangement,[^c-efaa04e9a50a3683fbd3cec71ebf53a9] and other regular payments made to a member in respect of pensionable employment as an officer, but does not include bonuses, pay awards and pay increases that are expressed by the Scottish Ministers to be non-consolidated,[^c-d1e86bae3464a2f28429542a28730525] payments made to cover expenses or payments for overtime; and
 - (b) in respect of a non GP provider who, by virtue of regulation R1(3) of these Regulations is treated as an officer, pensionable earnings calculated in accordance with—
   - (i) paragraph 5 of Schedule 1; or
   - (ii) where the non GP provider is a practitioner in partnership, paragraph 6 of Schedule 1.
@@ -61,7 +61,7 @@ summary: ''
 
 (11) This regulation applies to a member in respect of whom a transfer payment has been accepted from a health service scheme in the same way as if the period of employment that qualified the member for benefits under the health service scheme had been pensionable employment.
 
-(12) Subject to paragraphs (13) and (13A)[^key-451dbfc3cffed7ec51b0302094018516], in these Regulations “**final year's pensionable pay**” means pensionable pay in respect of the member's last year of pensionable employment, ending on the date the member ceases to be in such employment, or dies, whichever occurs first, except—
+(12) Subject to paragraphs (13) and (13A)[^c-451dbfc3cffed7ec51b0302094018516], in these Regulations “**final year's pensionable pay**” means pensionable pay in respect of the member's last year of pensionable employment, ending on the date the member ceases to be in such employment, or dies, whichever occurs first, except—
 
 - (a) if the member was in pensionable employment for less than 12 months, “**final year's pensionable pay**” means—
 
@@ -75,7 +75,7 @@ summary: ''
 
 that excess shall be ignored for the purposes of calculating the final year's pensionable pay under paragraph (12) in respect of the corresponding period of pensionable service credited under regulation N3 or N6.
 
-(13A)[^key-36e140f0e1627906b477d2ae0e082c56] If a member becomes entitled to a pension under regulation E11A (partial retirement pension), “final year’s pensionable pay” means pensionable pay in respect of the year immediately preceding the day on which the reduction in the member’s pensionable pay takes effect by virtue of which the member becomes entitled to the partial retirement pension.
+(13A)[^c-36e140f0e1627906b477d2ae0e082c56] If a member becomes entitled to a pension under regulation E11A (partial retirement pension), “final year’s pensionable pay” means pensionable pay in respect of the year immediately preceding the day on which the reduction in the member’s pensionable pay takes effect by virtue of which the member becomes entitled to the partial retirement pension.
 
 (14) In this regulation, “**permitted maximum**” means—
 
@@ -89,7 +89,7 @@ that excess shall be ignored for the purposes of calculating the final year's pe
 
 (16) If the retail prices index for the month of September preceding the tax year 2007-08 or the month of September preceding any later tax year is not higher than it was for the previous September, the figure for that year shall be the same as for the previous tax year.
 
-(17)[^key-08cc543cdee4a3bfdc3722823daf6669] Where, having regard to the matters referred to in paragraph (18), the Scottish Ministers consider that the amount which would, but for their determination under this paragraph, constitute the member’s final year’s pensionable pay is inordinate, they may for the purposes of this regulation determine—
+(17)[^c-08cc543cdee4a3bfdc3722823daf6669] Where, having regard to the matters referred to in paragraph (18), the Scottish Ministers consider that the amount which would, but for their determination under this paragraph, constitute the member’s final year’s pensionable pay is inordinate, they may for the purposes of this regulation determine—
 
 - (a) what the amount of that pensionable pay is to be; and
 - (b) the date from which any change in the amount of that pay as a result of that determination is to take effect
@@ -108,7 +108,7 @@ that excess shall be ignored for the purposes of calculating the final year's pe
 - (c) any contributions referable to the ignored amount and paid by the employing authority pursuant to regulation D2 or paragraph 14 or 31 of Schedule 1, are to be refunded to that employing authority;
 - (d) the amount so determined is not be regarded as an “excessive pay increase” for the purposes of regulation D3.
 
-(20)[^key-47108df540110f67dcc40345f66d6d91] Paragraphs (21) to (27) apply to a member who has remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 that is pensionable service under this Section of the scheme by virtue of section 2(1) of that Act (remediable service treated as pensionable under Chapter 1 legacy schemes) and whose pensionable pay and pensionable service in this Section of the scheme is derived from contributions made to the 2015 Scheme in the relevant scheme years in respect of that remediable service, if—
+(20)[^c-47108df540110f67dcc40345f66d6d91] Paragraphs (21) to (27) apply to a member who has remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 that is pensionable service under this Section of the scheme by virtue of section 2(1) of that Act (remediable service treated as pensionable under Chapter 1 legacy schemes) and whose pensionable pay and pensionable service in this Section of the scheme is derived from contributions made to the 2015 Scheme in the relevant scheme years in respect of that remediable service, if—
 
 - (a) at any time during that period of service, the terms of the member’s employment contract required the member to work less than whole-time, according to those terms, for any period of time, and
 - (b) the member received a relevant payment.
@@ -139,24 +139,24 @@ that excess shall be ignored for the purposes of calculating the final year's pe
 
 ## Annotations
 
-[^key-efaa04e9a50a3683fbd3cec71ebf53a9]: Textual amendment: Words in reg. C1(1)(a) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [8(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/8/2)
+[^c-efaa04e9a50a3683fbd3cec71ebf53a9]: Textual amendment: Words in reg. C1(1)(a) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [8(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/8/2)
 
-[^key-d1e86bae3464a2f28429542a28730525]: Textual amendment: Words in reg. C1(1)(a) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2015/96/regulation/5)
+[^c-d1e86bae3464a2f28429542a28730525]: Textual amendment: Words in reg. C1(1)(a) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2015/96/regulation/5)
 
 [^c21041881]: Marginal citation: [1978 c.44](https://www.legislation.gov.uk/ukpga/1978/44); section 39 was substituted by the [Trade Union Reform and Employment Rights Act 1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19), Schedule 2.
 
 [^c21041891]: Marginal citation: [1986 c.60](https://www.legislation.gov.uk/ukpga/1986/60).
 
-[^key-451dbfc3cffed7ec51b0302094018516]: Textual amendment: Words in reg. C1(12) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [8(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/8/3)
+[^c-451dbfc3cffed7ec51b0302094018516]: Textual amendment: Words in reg. C1(12) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [8(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/8/3)
 
 [^c21041901]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26). Paragraph 20 of Schedule 6 was repealed by the 2004 Act, Schedule 42, paragraph 1.
 
 [^c21041911]: Marginal citation: [S.I. 1990/2101](https://www.legislation.gov.uk/uksi/1990/2101). Regulation 5 was repealed by implication on the repeal of the enabling provision subject to transitional provisions and savings by the 2004 Act, Schedule 42, paragraph 1.
 
-[^key-36e140f0e1627906b477d2ae0e082c56]: Textual amendment: Reg. C1(13A) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [8(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/8/4)
+[^c-36e140f0e1627906b477d2ae0e082c56]: Textual amendment: Reg. C1(13A) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [8(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/8/4)
 
 [^c21041921]: Marginal citation: Section 590C was repealed by the 2004 Act, Schedule 42, paragraph 1.
 
-[^key-08cc543cdee4a3bfdc3722823daf6669]: Textual amendment: Reg. C1(17)-(19) inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2014/154/regulation/5)
+[^c-08cc543cdee4a3bfdc3722823daf6669]: Textual amendment: Reg. C1(17)-(19) inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2014/154/regulation/5)
 
-[^key-47108df540110f67dcc40345f66d6d91]: Textual amendment: [Regs. C1(20)-(27)](https://www.legislation.gov.uk/ssi/2011/117/regulation/C1/20) inserted (31.10.2025 with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2025/259/regulation/3)
+[^c-47108df540110f67dcc40345f66d6d91]: Textual amendment: [Regs. C1(20)-(27)](https://www.legislation.gov.uk/ssi/2011/117/regulation/C1/20) inserted (31.10.2025 with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2025/259/regulation/3)

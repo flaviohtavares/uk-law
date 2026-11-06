@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151A. Use of zero-emission vehicles for local services in England[^key-25e848eeec246761742bb7a44148c37d]
+## 151A. Use of zero-emission vehicles for local services in England[^c-25e848eeec246761742bb7a44148c37d]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25e848eeec246761742bb7a44148c37d]: Textual amendment: [S. 151A and cross-heading](https://www.legislation.gov.uk/ukpga/2000/38/part/II/crossheading/zeroemission-vehicles) inserted (27.10.2025 for the purposes of making regulations, 29.10.2026 in so far as not already in force) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/37/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/1136](https://www.legislation.gov.uk/uksi/2026/1136), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1136/regulation/2/b)
+[^c-25e848eeec246761742bb7a44148c37d]: Textual amendment: [S. 151A and cross-heading](https://www.legislation.gov.uk/ukpga/2000/38/part/II/crossheading/zeroemission-vehicles) inserted (27.10.2025 for the purposes of making regulations, 29.10.2026 in so far as not already in force) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/37/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/1136](https://www.legislation.gov.uk/uksi/2026/1136), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1136/regulation/2/b)

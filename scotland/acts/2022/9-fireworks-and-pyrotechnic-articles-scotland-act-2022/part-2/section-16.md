@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. False or altered licences and documents[^key-814509af625d08165077aa3a55a2c681]
+## 16. False or altered licences and documents[^c-814509af625d08165077aa3a55a2c681]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-814509af625d08165077aa3a55a2c681]: Commencement: S. 16 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-814509af625d08165077aa3a55a2c681]: Commencement: S. 16 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

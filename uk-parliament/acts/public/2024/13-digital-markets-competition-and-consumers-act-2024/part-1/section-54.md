@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Consultation[^key-ebfa01a9de2be88107865baa0c045971][^key-31c9ca63a8544f81f38c8d62520258da]
+## 54. Consultation[^c-ebfa01a9de2be88107865baa0c045971][^c-31c9ca63a8544f81f38c8d62520258da]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ebfa01a9de2be88107865baa0c045971]: Commencement: S. 54 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ebfa01a9de2be88107865baa0c045971]: Commencement: S. 54 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-31c9ca63a8544f81f38c8d62520258da]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2024/13/section/54) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-31c9ca63a8544f81f38c8d62520258da]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2024/13/section/54) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

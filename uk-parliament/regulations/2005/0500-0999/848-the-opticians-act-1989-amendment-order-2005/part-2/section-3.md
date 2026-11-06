@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Functions of the Council[^key-a7eb759550233301681613cf68311e62]
+## 3. Functions of the Council[^c-a7eb759550233301681613cf68311e62]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 1 (constitution and functions of the Council), in subsection (2), for
 
 ## Annotations
 
-[^key-a7eb759550233301681613cf68311e62]: Commencement: Art. 3 comes into force in accordance with art. 1(3)-(6)
+[^c-a7eb759550233301681613cf68311e62]: Commencement: Art. 3 comes into force in accordance with art. 1(3)-(6)

@@ -31,7 +31,7 @@ summary: ''
 
 COUNCIL TAX, WALES
 
-The Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2012 (revoked)[^key-515bdae6dfd069ce525e2012f87ae715]
+The Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2012 (revoked)[^c-515bdae6dfd069ce525e2012f87ae715]
 
 Made
 
@@ -39,7 +39,7 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-515bdae6dfd069ce525e2012f87ae715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-515bdae6dfd069ce525e2012f87ae715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -52,14 +52,14 @@ Coming into force in accordance with regulation 1(2)
 
 **No longer in force.**
 
-[^key-515bdae6dfd069ce525e2012f87ae715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-515bdae6dfd069ce525e2012f87ae715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-515bdae6dfd069ce525e2012f87ae715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-515bdae6dfd069ce525e2012f87ae715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-515bdae6dfd069ce525e2012f87ae715]: Textual amendment: Regulations revoked (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013 (S.I. 2013/3035)](https://www.legislation.gov.uk/uksi/2013/3035), [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/2013/3035/regulation/1/2/4)
+[^c-515bdae6dfd069ce525e2012f87ae715]: Textual amendment: Regulations revoked (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013 (S.I. 2013/3035)](https://www.legislation.gov.uk/uksi/2013/3035), [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/2013/3035/regulation/1/2/4)

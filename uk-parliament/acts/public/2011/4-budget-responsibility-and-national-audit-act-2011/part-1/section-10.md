@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Superseded statutory provisions[^key-4099813c66e3f1d2a568e4fe9b29527e]
+## 10. Superseded statutory provisions[^c-4099813c66e3f1d2a568e4fe9b29527e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The following are repealed in consequence of the preceding provisions of this Pa
 
 ## Annotations
 
-[^key-4099813c66e3f1d2a568e4fe9b29527e]: Commencement: S. 10 in force at 23.3.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/892/schedule/1)
+[^c-4099813c66e3f1d2a568e4fe9b29527e]: Commencement: S. 10 in force at 23.3.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/892/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Abolition of Oversight Committee[^key-b0d5b8d9b1059ced30d795b6b1b7e66e]
+## 3. Abolition of Oversight Committee[^c-b0d5b8d9b1059ced30d795b6b1b7e66e]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0d5b8d9b1059ced30d795b6b1b7e66e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/14/section/3) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/d)
+[^c-b0d5b8d9b1059ced30d795b6b1b7e66e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/14/section/3) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/d)

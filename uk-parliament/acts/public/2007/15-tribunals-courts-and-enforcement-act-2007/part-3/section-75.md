@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Commercial premises[^key-44e8642208e514fb9e8f1585571b95aa]
+## 75. Commercial premises[^c-44e8642208e514fb9e8f1585571b95aa]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44e8642208e514fb9e8f1585571b95aa]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2007/15/section/75) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-44e8642208e514fb9e8f1585571b95aa]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2007/15/section/75) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

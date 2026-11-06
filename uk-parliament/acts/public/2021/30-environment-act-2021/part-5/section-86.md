@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Water and sewerage undertakers in England: modifying appointments[^key-703147b3d7ddadd636cf64bd4b3b34f4][^key-704b21101bd34959288d2c8a14548060]
+## 86. Water and sewerage undertakers in England: modifying appointments[^c-703147b3d7ddadd636cf64bd4b3b34f4][^c-704b21101bd34959288d2c8a14548060]
 
 *Extent: E+W+S+N.I.*
 
@@ -222,6 +222,6 @@ summary: ''
 
 ## Annotations
 
-[^key-703147b3d7ddadd636cf64bd4b3b34f4]: Commencement: S. 86 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-703147b3d7ddadd636cf64bd4b3b34f4]: Commencement: S. 86 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-704b21101bd34959288d2c8a14548060]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2021/30/section/86) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)
+[^c-704b21101bd34959288d2c8a14548060]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2021/30/section/86) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)

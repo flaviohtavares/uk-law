@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Guidance relating to section 46[^key-f59df5cd9aa5e33bce613500eb7097c6]
+## 46A. Guidance relating to section 46[^c-f59df5cd9aa5e33bce613500eb7097c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f59df5cd9aa5e33bce613500eb7097c6]: Textual amendment: S. 46A inserted (20.2.2024) by [The Windsor Framework (UK Internal Market and Unfettered Access) Regulations 2024 (S.I. 2024/163)](https://www.legislation.gov.uk/uksi/2024/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/163/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/163/regulation/2/3)
+[^c-f59df5cd9aa5e33bce613500eb7097c6]: Textual amendment: S. 46A inserted (20.2.2024) by [The Windsor Framework (UK Internal Market and Unfettered Access) Regulations 2024 (S.I. 2024/163)](https://www.legislation.gov.uk/uksi/2024/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/163/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/163/regulation/2/3)

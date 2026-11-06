@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Warning notices[^key-9a084cdef3ce1283d117faf87abe2e06][^key-e9dd1000c35b36b6045dc5b7d12093a5]
+## 76. Warning notices[^c-9a084cdef3ce1283d117faf87abe2e06][^c-e9dd1000c35b36b6045dc5b7d12093a5]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a084cdef3ce1283d117faf87abe2e06]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-9a084cdef3ce1283d117faf87abe2e06]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-e9dd1000c35b36b6045dc5b7d12093a5]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2025/21/section/76) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/iii)
+[^c-e9dd1000c35b36b6045dc5b7d12093a5]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2025/21/section/76) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/iii)

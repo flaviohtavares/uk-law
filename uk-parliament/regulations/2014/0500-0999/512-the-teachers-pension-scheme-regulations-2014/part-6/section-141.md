@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A death grant may be paid[^key-bd213fd22d6f917a3b5c85a82b787d3e] under this regulation (“supplementary death grant”) if—
+(1) A death grant may be paid[^c-bd213fd22d6f917a3b5c85a82b787d3e] under this regulation (“supplementary death grant”) if—
 
 - (a) a member (D) dies as a pensioner member; and
 - (b) AR is greater than AP.
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd213fd22d6f917a3b5c85a82b787d3e]: Textual amendment: Words in reg. 141(1) substituted (retrospective to 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2018 (S.I. 2018/218)](https://www.legislation.gov.uk/uksi/2018/218), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/218/regulation/1/2/b), [3(5)](https://www.legislation.gov.uk/uksi/2018/218/regulation/3/5)
+[^c-bd213fd22d6f917a3b5c85a82b787d3e]: Textual amendment: Words in reg. 141(1) substituted (retrospective to 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2018 (S.I. 2018/218)](https://www.legislation.gov.uk/uksi/2018/218), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/218/regulation/1/2/b), [3(5)](https://www.legislation.gov.uk/uksi/2018/218/regulation/3/5)

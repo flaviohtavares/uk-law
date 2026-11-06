@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Subject to the provisions of this Act [^key-8b256d13c165eb1163ea7714b1f44f18]... , a woman whose marriage has been terminated by divorce shall be entitled to a child’s special allowance at the weekly rate specified in Schedule 4, Part I, paragraph 6, if—
+(1) Subject to the provisions of this Act [^c-8b256d13c165eb1163ea7714b1f44f18]... , a woman whose marriage has been terminated by divorce shall be entitled to a child’s special allowance at the weekly rate specified in Schedule 4, Part I, paragraph 6, if—
 
 - (a) the husband of that marriage is dead and satisfied the contribution condition for a child’s special allowance specified in Schedule 3, Part I, paragraph 6; and
 - (b) she is entitled to child benefit in respect of a child and either—
@@ -58,4 +58,4 @@ and who has so continued since 6th April 1987.
 
 ## Annotations
 
-[^key-8b256d13c165eb1163ea7714b1f44f18]: Textual amendment: Words in s. 56(1) repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/3/e), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/962/schedule/1) (with savings in [S.R. 2003/212](https://www.legislation.gov.uk/nisr/2003/212), [art. 2](https://www.legislation.gov.uk/nisr/2003/212/article/2))
+[^c-8b256d13c165eb1163ea7714b1f44f18]: Textual amendment: Words in s. 56(1) repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/3/e), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/962/schedule/1) (with savings in [S.R. 2003/212](https://www.legislation.gov.uk/nisr/2003/212), [art. 2](https://www.legislation.gov.uk/nisr/2003/212/article/2))

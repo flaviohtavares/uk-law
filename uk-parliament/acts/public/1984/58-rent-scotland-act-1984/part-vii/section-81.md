@@ -27,7 +27,7 @@ summary: ''
 - “**dwelling-house**” means a house or part of a house;
 - “**lessee**” means the person to whom is granted, under a Part VII contract, the right to occupy the dwelling in question as a residence and includes any person directly or indirectly deriving title from the grantee;
 - “**lessor**” means the person who, under a Part VII contract, grants to another the right to occupy the dwelling in question as a residence and includes any person directly or indirectly deriving title from the grantor;
-- “**register**” means the register kept by the First-tier Tribunal[^key-68007d6f39fc57211e9c43dfb84e8b4d] in pursuance of section 67 above;
+- “**register**” means the register kept by the First-tier Tribunal[^c-68007d6f39fc57211e9c43dfb84e8b4d] in pursuance of section 67 above;
 - “**rental period**” means a period in respect of which a payment of rent falls to be made;
 - “**services**” includes attendance, the provision of heating or lighting, the supply of hot water and any other privilege or facility connected with the occupancy of a dwelling-house.
 
@@ -45,4 +45,4 @@ any reference in this Part of this Act to “**rent**” in relation to that dwe
 
 [^c982591]: Textual amendment: Definition in s. 81(1) inserted (1.4.1993) by [S.I. 1993/658](https://www.legislation.gov.uk/uksi/1993/658), [art. 2](https://www.legislation.gov.uk/uksi/1993/658/article/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1993/658/schedule/1/paragraph/7)
 
-[^key-68007d6f39fc57211e9c43dfb84e8b4d]: Textual amendment: Words in [s. 81(1)](https://www.legislation.gov.uk/ukpga/1984/58/section/81/1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(25)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/25) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-68007d6f39fc57211e9c43dfb84e8b4d]: Textual amendment: Words in [s. 81(1)](https://www.legislation.gov.uk/ukpga/1984/58/section/81/1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(25)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/25) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))

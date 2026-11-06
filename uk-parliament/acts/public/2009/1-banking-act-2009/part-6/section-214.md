@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Consequential repeals and amendments[^key-7b40f858c3a971d86ff8e4c66e42fda9]
+## 214. Consequential repeals and amendments[^c-7b40f858c3a971d86ff8e4c66e42fda9]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b40f858c3a971d86ff8e4c66e42fda9]: Commencement: S. 214 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-7b40f858c3a971d86ff8e4c66e42fda9]: Commencement: S. 214 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

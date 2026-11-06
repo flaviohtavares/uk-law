@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Meaning of “nicotine product”[^key-2d60409170cd3d29c0161554d6a09968]
+## 117. Meaning of “nicotine product”[^c-2d60409170cd3d29c0161554d6a09968]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d60409170cd3d29c0161554d6a09968]: Commencement: S. 117 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-2d60409170cd3d29c0161554d6a09968]: Commencement: S. 117 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

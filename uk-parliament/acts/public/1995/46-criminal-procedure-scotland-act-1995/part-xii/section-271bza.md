@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271BZA. Child witnesses in certain solemn cases: special measures[^key-5bb059c9db7c3f0086ea901f6401e6d8]
+## 271BZA. Child witnesses in certain solemn cases: special measures[^c-5bb059c9db7c3f0086ea901f6401e6d8]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 - (d) abduction,
 - (e) plagium,
 - (f) a sexual offence to which section 288C applies,
-- (fa)[^key-5fe07764796f7e6c09cdc0d718bfa7c2] an offence under any of sections 140 to 142 and 152 to 154 of the Health and Care Act 2022 (offences relating to virginity testing and hymenoplasty),
+- (fa)[^c-5fe07764796f7e6c09cdc0d718bfa7c2] an offence under any of sections 140 to 142 and 152 to 154 of the Health and Care Act 2022 (offences relating to virginity testing and hymenoplasty),
 - (g) an offence under section 1(1) of the Domestic Abuse (Scotland) Act 2018,
 - (h) an offence that is aggravated as described in section 1(1)(a) of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016,
 - (i) an offence that would have fallen within paragraph (h) if section 1 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 had been in force when the offence was allegedly committed,
@@ -69,7 +69,7 @@ summary: ''
 
 (8) An exception is justified if—
 
-- (a)[^key-3e6120a9be852e315a1db36e67396a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3e6120a9be852e315a1db36e67396a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the child witness expresses a wish to give evidence at the hearing, and
 - (c) it would be in the child witness's best interests to give evidence at the hearing.
 
@@ -82,8 +82,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5bb059c9db7c3f0086ea901f6401e6d8]: Textual amendment: [Ss. 271BZA-271BZC](https://www.legislation.gov.uk/ukpga/1995/46/section/271BZA) inserted (20.1.2020 for specified purposes, 30.3.2026 for specified purposes) by [Vulnerable Witnesses (Criminal Evidence) (Scotland) Act 2019 (asp 8)](https://www.legislation.gov.uk/asp/2019/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/8/section/1/2), [12(2)](https://www.legislation.gov.uk/asp/2019/8/section/12/2); [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2019/392/regulation/3)); [S.S.I. 2026/136](https://www.legislation.gov.uk/ssi/2026/136), [reg. 2](https://www.legislation.gov.uk/ssi/2026/136/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/136/regulation/3))
+[^c-5bb059c9db7c3f0086ea901f6401e6d8]: Textual amendment: [Ss. 271BZA-271BZC](https://www.legislation.gov.uk/ukpga/1995/46/section/271BZA) inserted (20.1.2020 for specified purposes, 30.3.2026 for specified purposes) by [Vulnerable Witnesses (Criminal Evidence) (Scotland) Act 2019 (asp 8)](https://www.legislation.gov.uk/asp/2019/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/8/section/1/2), [12(2)](https://www.legislation.gov.uk/asp/2019/8/section/12/2); [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2019/392/regulation/3)); [S.S.I. 2026/136](https://www.legislation.gov.uk/ssi/2026/136), [reg. 2](https://www.legislation.gov.uk/ssi/2026/136/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/136/regulation/3))
 
-[^key-5fe07764796f7e6c09cdc0d718bfa7c2]: Textual amendment: [S. 271BZA(2)(fa)](https://www.legislation.gov.uk/ukpga/1995/46/section/271BZA/2/fa) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/16/paragraph/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-5fe07764796f7e6c09cdc0d718bfa7c2]: Textual amendment: [S. 271BZA(2)(fa)](https://www.legislation.gov.uk/ukpga/1995/46/section/271BZA/2/fa) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2022/31/schedule/16/paragraph/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-3e6120a9be852e315a1db36e67396a30]: Textual amendment: [S. 271BZA(8)(a)](https://www.legislation.gov.uk/ukpga/1995/46/section/271BZA/8/a) repealed (30.3.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 102(2)](https://www.legislation.gov.uk/asp/2025/12/section/102/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-3e6120a9be852e315a1db36e67396a30]: Textual amendment: [S. 271BZA(8)(a)](https://www.legislation.gov.uk/ukpga/1995/46/section/271BZA/8/a) repealed (30.3.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 102(2)](https://www.legislation.gov.uk/asp/2025/12/section/102/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. International travel regulations[^key-ea94c0e731db93f5ad305885fdc38007]
+## 2. International travel regulations[^c-ea94c0e731db93f5ad305885fdc38007]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea94c0e731db93f5ad305885fdc38007]: Commencement: S. 2 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-ea94c0e731db93f5ad305885fdc38007]: Commencement: S. 2 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

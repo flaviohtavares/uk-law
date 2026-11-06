@@ -32,7 +32,7 @@ summary: ''
 
 Rates
 
-The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2016 (revoked)[^key-61b2ba787ad430a498dec95fc3bf89d7]
+The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2016 (revoked)[^c-61b2ba787ad430a498dec95fc3bf89d7]
 
 Made
 
@@ -44,28 +44,28 @@ Coming into operation
 
 1st April 2016
 
-[^key-61b2ba787ad430a498dec95fc3bf89d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61b2ba787ad430a498dec95fc3bf89d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-61b2ba787ad430a498dec95fc3bf89d7]
+## 1. Citation and commencement[^c-61b2ba787ad430a498dec95fc3bf89d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Definition of “relevant year”[^key-61b2ba787ad430a498dec95fc3bf89d7]
+## 2. Definition of “relevant year”[^c-61b2ba787ad430a498dec95fc3bf89d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-61b2ba787ad430a498dec95fc3bf89d7]
+## 3. Revocation[^c-61b2ba787ad430a498dec95fc3bf89d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61b2ba787ad430a498dec95fc3bf89d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61b2ba787ad430a498dec95fc3bf89d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-61b2ba787ad430a498dec95fc3bf89d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61b2ba787ad430a498dec95fc3bf89d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61b2ba787ad430a498dec95fc3bf89d7]: Textual amendment: Order revoked (8.7.2020) by [The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2020 (S.R. 2020/110)](https://www.legislation.gov.uk/nisr/2020/110), [arts. 1](https://www.legislation.gov.uk/nisr/2020/110/article/1), [3](https://www.legislation.gov.uk/nisr/2020/110/article/3)
+[^c-61b2ba787ad430a498dec95fc3bf89d7]: Textual amendment: Order revoked (8.7.2020) by [The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2020 (S.R. 2020/110)](https://www.legislation.gov.uk/nisr/2020/110), [arts. 1](https://www.legislation.gov.uk/nisr/2020/110/article/1), [3](https://www.legislation.gov.uk/nisr/2020/110/article/3)

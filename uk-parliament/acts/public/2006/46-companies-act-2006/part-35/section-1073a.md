@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1073A. Power to reject documents for discrepancies[^key-025add9182a3f90159491ba428c256ff]
+## 1073A. Power to reject documents for discrepancies[^c-025add9182a3f90159491ba428c256ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-025add9182a3f90159491ba428c256ff]: Textual amendment: [S. 1073A](https://www.legislation.gov.uk/ukpga/2006/46/section/1073A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 79](https://www.legislation.gov.uk/ukpga/2023/56/section/79), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z21)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z21)
+[^c-025add9182a3f90159491ba428c256ff]: Textual amendment: [S. 1073A](https://www.legislation.gov.uk/ukpga/2006/46/section/1073A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 79](https://www.legislation.gov.uk/ukpga/2023/56/section/79), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z21)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z21)

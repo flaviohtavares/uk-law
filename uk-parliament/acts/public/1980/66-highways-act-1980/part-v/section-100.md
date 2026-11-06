@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Drainage of highways.[^key-c3cd334724b0bc6f5cd52fc902b34b32]
+## 100. Drainage of highways.[^c-c3cd334724b0bc6f5cd52fc902b34b32]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c3cd334724b0bc6f5cd52fc902b34b32]: Modification: S. 100 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(z)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/z)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-c3cd334724b0bc6f5cd52fc902b34b32]: Modification: S. 100 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(z)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/z)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
 
 [^c13421921]: Textual amendment: Words substituted by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 25 para. 62(4)(a)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/25/paragraph/62/4/a), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58)
 

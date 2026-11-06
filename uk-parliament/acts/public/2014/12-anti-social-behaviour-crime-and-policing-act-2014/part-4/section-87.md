@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Access to other premises[^key-0329b30dba42ef80d05bbf4c9b93d280]
+## 87. Access to other premises[^c-0329b30dba42ef80d05bbf4c9b93d280]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ an occupier or owner of that other part may apply to the appropriate court for a
 
 - (a) whatever constable the court thinks appropriate;
 - (b) the local authority;
-- (ba)[^key-cae3cdc45b7fd0285aea115b0625de18] the RSH provider, in a case where that RSH provider owns or manages the premises;
+- (ba)[^c-cae3cdc45b7fd0285aea115b0625de18] the RSH provider, in a case where that RSH provider owns or manages the premises;
 - (c) a person on whom the closure notice was served under section 79;
 - (d) anyone else who has an interest in the premises but on whom the closure notice was not served.
 
@@ -47,6 +47,6 @@ It does not matter whether provision has been made under section 80(8)(b).
 
 ## Annotations
 
-[^key-0329b30dba42ef80d05bbf4c9b93d280]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2014/12/section/87) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-0329b30dba42ef80d05bbf4c9b93d280]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2014/12/section/87) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
 
-[^key-cae3cdc45b7fd0285aea115b0625de18]: Textual amendment: [S. 87(3)(ba)](https://www.legislation.gov.uk/ukpga/2014/12/section/87/3/ba) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2026/20/schedule/2/paragraph/11); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/h)
+[^c-cae3cdc45b7fd0285aea115b0625de18]: Textual amendment: [S. 87(3)(ba)](https://www.legislation.gov.uk/ukpga/2014/12/section/87/3/ba) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2026/20/schedule/2/paragraph/11); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/h)

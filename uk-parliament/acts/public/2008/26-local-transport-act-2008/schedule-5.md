@@ -24,19 +24,19 @@ Section 109
 
 ### Introductory
 
-**1.**[^key-d7cbada18b9c9680a7adca3427ff1313][^key-272be75a79f1d11e1d36ccbae554e43f] Part 3 of the TA 2000 (road user charging and workplace parking levy) is amended as follows.
+**1.**[^c-d7cbada18b9c9680a7adca3427ff1313][^c-272be75a79f1d11e1d36ccbae554e43f] Part 3 of the TA 2000 (road user charging and workplace parking levy) is amended as follows.
 
 ### Preliminary: power to make schemes does not limit other powers
 
-**2.**[^key-18d40005854fdfd8ed1752536c0057eb][^key-95490ec34af61e888c470e6e78d8728d] In section 163(6) after “joint local-London charging schemes” insert “and joint ITA-London charging schemes”.
+**2.**[^c-18d40005854fdfd8ed1752536c0057eb][^c-95490ec34af61e888c470e6e78d8728d] In section 163(6) after “joint local-London charging schemes” insert “and joint ITA-London charging schemes”.
 
 ### Conditions for making trunk road schemes
 
-**3.**[^key-5d815adb6a75917843d339fcd1b24471][^key-1039ff5d6efc199860c62563ba861598] In section 167(2)(b) after “a local traffic authority” insert “, an Integrated Transport Authority”.
+**3.**[^c-5d815adb6a75917843d339fcd1b24471][^c-1039ff5d6efc199860c62563ba861598] In section 167(2)(b) after “a local traffic authority” insert “, an Integrated Transport Authority”.
 
 ### Charging schemes to be made by order
 
-**4.**[^key-f3ebe6f71ba9794078e2758d23a53cf6][^key-404652152c0d8af9b587f070c4a2360c] (1) Section 168 is amended as follows.
+**4.**[^c-f3ebe6f71ba9794078e2758d23a53cf6][^c-404652152c0d8af9b587f070c4a2360c] (1) Section 168 is amended as follows.
 
 (2) In subsection (2)—
 
@@ -47,11 +47,11 @@ Section 109
 
 ### Confirmation of charging schemes
 
-**5.**[^key-49d9837f89e7c24be390900da216e8f2][^key-d3167912ac5a59a462fcf2caaf03dc1e] In section 169(3) after “joint local-London charging scheme” insert “or joint ITA-London charging scheme”.
+**5.**[^c-49d9837f89e7c24be390900da216e8f2][^c-d3167912ac5a59a462fcf2caaf03dc1e] In section 169(3) after “joint local-London charging scheme” insert “or joint ITA-London charging scheme”.
 
 ### Consultation and inquiries
 
-**6.**[^key-d725886d713441c4d5ce04c3c05017e5][^key-179abc50ddee6f6a1ed40c1b8c938291] (1) Section 170 is amended as follows.
+**6.**[^c-d725886d713441c4d5ce04c3c05017e5][^c-179abc50ddee6f6a1ed40c1b8c938291] (1) Section 170 is amended as follows.
 
 (2) In subsection (5) after “joint local-London charging scheme” insert “or joint ITA-London charging scheme”.
 
@@ -59,11 +59,11 @@ Section 109
 
 ### Traffic signs
 
-**7.**[^key-7ed112aeb2fbf8b73b94d6d153d89526][^key-208f8d050ec954ce465d4b424231b771] In section 177(2) after “joint local-London charging scheme” insert “or joint ITA-London charging scheme”.
+**7.**[^c-7ed112aeb2fbf8b73b94d6d153d89526][^c-208f8d050ec954ce465d4b424231b771] In section 177(2) after “joint local-London charging scheme” insert “or joint ITA-London charging scheme”.
 
 ### Guidance
 
-**8.**[^key-460758e7d6246a1f1a424bd11b36eba1][^key-8d9bc113da5ed9842ce3c050fc982010] (1) Section 193 is amended as follows.
+**8.**[^c-460758e7d6246a1f1a424bd11b36eba1][^c-8d9bc113da5ed9842ce3c050fc982010] (1) Section 193 is amended as follows.
 
 (2) In subsection (1) after “non-metropolitan local traffic authorities” insert “, Integrated Transport Authorities”.
 
@@ -71,7 +71,7 @@ Section 109
 
 ### Interpretation
 
-**9.**[^key-9c5de9bc4fc1349e902f0d602988a54e][^key-2f95666849c4a395b8570160ee2067aa] In section 198(1) insert each of the following definitions at the appropriate place—
+**9.**[^c-9c5de9bc4fc1349e902f0d602988a54e][^c-2f95666849c4a395b8570160ee2067aa] In section 198(1) insert each of the following definitions at the appropriate place—
 
 > - “**eligible local traffic authority**” has the meaning given by section 163(4A),
 
@@ -87,11 +87,11 @@ Section 109
 
 ### Financial provisions
 
-**10.**[^key-ea391b4dfbd85c3655e5468c00c0cba4][^key-f579c3fd79d0c1415dbe0f313d303d73] Schedule 12 is amended as follows.
+**10.**[^c-ea391b4dfbd85c3655e5468c00c0cba4][^c-f579c3fd79d0c1415dbe0f313d303d73] Schedule 12 is amended as follows.
 
-**11.**[^key-32074a4b2ee76251db77e0c2a935bdac][^key-248234fe7e98bfb89f4a6dad51b03497] In paragraph 2(4) (net proceeds) after “local traffic authority” insert “or Integrated Transport Authority”.
+**11.**[^c-32074a4b2ee76251db77e0c2a935bdac][^c-248234fe7e98bfb89f4a6dad51b03497] In paragraph 2(4) (net proceeds) after “local traffic authority” insert “or Integrated Transport Authority”.
 
-**12.**[^key-b8acd75054ce3122384c71c69a296a2b][^key-48bd24bb234949cb8304b27e304c94bd] (1) Paragraph 3 (apportionment) is amended as follows.
+**12.**[^c-b8acd75054ce3122384c71c69a296a2b][^c-48bd24bb234949cb8304b27e304c94bd] (1) Paragraph 3 (apportionment) is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -110,11 +110,11 @@ Section 109
 
 (3) In sub-paragraph (2) after “local traffic authority” insert “or Integrated Transport Authority”.
 
-**13.**[^key-f5bb690820cd40ed7c3b648967434c2c][^key-563a3cd728da9c3d08aa488b2e530540] (1) Paragraph 7 (accounts and funds) is amended as follows.
+**13.**[^c-f5bb690820cd40ed7c3b648967434c2c][^c-563a3cd728da9c3d08aa488b2e530540] (1) Paragraph 7 (accounts and funds) is amended as follows.
 
 (2) In sub-paragraph (5)(c) after “London traffic authority,” insert “or an Integrated Transport Authority,”.
 
-**14.**[^key-09ae43e67aa283c19d567b2e80cf79fa][^key-921175763ba7f0f85fa07c3cb4885352] (1) Paragraph 8 (application of proceeds by non-metropolitan local traffic authorities) is amended as follows.
+**14.**[^c-09ae43e67aa283c19d567b2e80cf79fa][^c-921175763ba7f0f85fa07c3cb4885352] (1) Paragraph 8 (application of proceeds by non-metropolitan local traffic authorities) is amended as follows.
 
 (2) In sub-paragraph (3) for the word “and” at the end of paragraph (a) substitute—
 
@@ -128,7 +128,7 @@ Section 109
 
 .
 
-**15.**[^key-0653b3a67af183b55fc2525cd63161a7][^key-76255ab65ae82b742662776e4c8842a0] After paragraph 11 insert—
+**15.**[^c-0653b3a67af183b55fc2525cd63161a7][^c-76255ab65ae82b742662776e4c8842a0] After paragraph 11 insert—
 
 > **Application of proceeds by Integrated Transport Authorities**
 >
@@ -168,62 +168,62 @@ Section 109
 
 ## Annotations
 
-[^key-d7cbada18b9c9680a7adca3427ff1313]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/1) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-d7cbada18b9c9680a7adca3427ff1313]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/1) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-272be75a79f1d11e1d36ccbae554e43f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/1) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-272be75a79f1d11e1d36ccbae554e43f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/1) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-18d40005854fdfd8ed1752536c0057eb]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/2) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-18d40005854fdfd8ed1752536c0057eb]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/2) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-95490ec34af61e888c470e6e78d8728d]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/2) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-95490ec34af61e888c470e6e78d8728d]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/2) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-5d815adb6a75917843d339fcd1b24471]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/3) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-5d815adb6a75917843d339fcd1b24471]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/3) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-1039ff5d6efc199860c62563ba861598]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/3) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-1039ff5d6efc199860c62563ba861598]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/3) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-f3ebe6f71ba9794078e2758d23a53cf6]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/4) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-f3ebe6f71ba9794078e2758d23a53cf6]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/4) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-404652152c0d8af9b587f070c4a2360c]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/4) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-404652152c0d8af9b587f070c4a2360c]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/4) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-49d9837f89e7c24be390900da216e8f2]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/5) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-49d9837f89e7c24be390900da216e8f2]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/5) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-d3167912ac5a59a462fcf2caaf03dc1e]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/5) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-d3167912ac5a59a462fcf2caaf03dc1e]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/5) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-d725886d713441c4d5ce04c3c05017e5]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/6) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-d725886d713441c4d5ce04c3c05017e5]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/6) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-179abc50ddee6f6a1ed40c1b8c938291]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/6) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-179abc50ddee6f6a1ed40c1b8c938291]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/6) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-7ed112aeb2fbf8b73b94d6d153d89526]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/7) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-7ed112aeb2fbf8b73b94d6d153d89526]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/7) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-208f8d050ec954ce465d4b424231b771]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/7) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-208f8d050ec954ce465d4b424231b771]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/7) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-460758e7d6246a1f1a424bd11b36eba1]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/8) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-460758e7d6246a1f1a424bd11b36eba1]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/8) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-8d9bc113da5ed9842ce3c050fc982010]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/8) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-8d9bc113da5ed9842ce3c050fc982010]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/8) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-9c5de9bc4fc1349e902f0d602988a54e]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/9) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-9c5de9bc4fc1349e902f0d602988a54e]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/9) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-2f95666849c4a395b8570160ee2067aa]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/9) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-2f95666849c4a395b8570160ee2067aa]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/9) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-ea391b4dfbd85c3655e5468c00c0cba4]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/10) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-ea391b4dfbd85c3655e5468c00c0cba4]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/10) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-f579c3fd79d0c1415dbe0f313d303d73]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/10) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-f579c3fd79d0c1415dbe0f313d303d73]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/10) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-32074a4b2ee76251db77e0c2a935bdac]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/11) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-32074a4b2ee76251db77e0c2a935bdac]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/11) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-248234fe7e98bfb89f4a6dad51b03497]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/11) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-248234fe7e98bfb89f4a6dad51b03497]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/11) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-b8acd75054ce3122384c71c69a296a2b]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/12) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-b8acd75054ce3122384c71c69a296a2b]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/12) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-48bd24bb234949cb8304b27e304c94bd]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/12) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-48bd24bb234949cb8304b27e304c94bd]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/12) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-f5bb690820cd40ed7c3b648967434c2c]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/13) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-f5bb690820cd40ed7c3b648967434c2c]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/13) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-563a3cd728da9c3d08aa488b2e530540]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/13) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-563a3cd728da9c3d08aa488b2e530540]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/13) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-09ae43e67aa283c19d567b2e80cf79fa]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/14) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-09ae43e67aa283c19d567b2e80cf79fa]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/14) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-921175763ba7f0f85fa07c3cb4885352]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/14) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-921175763ba7f0f85fa07c3cb4885352]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/14) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
 
-[^key-0653b3a67af183b55fc2525cd63161a7]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/15) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-0653b3a67af183b55fc2525cd63161a7]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/15) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-76255ab65ae82b742662776e4c8842a0]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/15) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)
+[^c-76255ab65ae82b742662776e4c8842a0]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2008/26/schedule/5/paragraph/15) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/579/article/2/k)

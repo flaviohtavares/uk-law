@@ -35,46 +35,46 @@ amending Annexes I and V to Regulation (EU) No 649/2012 of the European Parliame
 
 (Text with EEA relevance) (revoked)
 
-[^key-9bd0bd19af5e32c7913044c59321d0f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bd0bd19af5e32c7913044c59321d0f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-9bd0bd19af5e32c7913044c59321d0f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9bd0bd19af5e32c7913044c59321d0f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9bd0bd19af5e32c7913044c59321d0f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9bd0bd19af5e32c7913044c59321d0f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9bd0bd19af5e32c7913044c59321d0f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bd0bd19af5e32c7913044c59321d0f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-9bd0bd19af5e32c7913044c59321d0f0]
+## ANNEX I[^c-9bd0bd19af5e32c7913044c59321d0f0]
 
-[^key-9bd0bd19af5e32c7913044c59321d0f0]
+[^c-9bd0bd19af5e32c7913044c59321d0f0]
 
 Annex I to Regulation (EU) No 649/2012 is amended as follows:
 
-[^key-9bd0bd19af5e32c7913044c59321d0f0](1)
+[^c-9bd0bd19af5e32c7913044c59321d0f0](1)
 
 Part 1 is amended as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9bd0bd19af5e32c7913044c59321d0f0](2)
+[^c-9bd0bd19af5e32c7913044c59321d0f0](2)
 
 Part 2 is amended as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9bd0bd19af5e32c7913044c59321d0f0](3)
+[^c-9bd0bd19af5e32c7913044c59321d0f0](3)
 
 in Part 3, the following entries are inserted in alphabetical order:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-9bd0bd19af5e32c7913044c59321d0f0]
+## ANNEX II[^c-9bd0bd19af5e32c7913044c59321d0f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bd0bd19af5e32c7913044c59321d0f0]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-9bd0bd19af5e32c7913044c59321d0f0]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

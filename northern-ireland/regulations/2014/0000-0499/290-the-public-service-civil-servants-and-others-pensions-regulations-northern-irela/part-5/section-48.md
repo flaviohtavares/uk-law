@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Provisional amount of deferred pension[^key-e659bc004e6066b46184d138013888d1]
+## 48. Provisional amount of deferred pension[^c-e659bc004e6066b46184d138013888d1]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e659bc004e6066b46184d138013888d1]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2014/290/regulation/48) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e659bc004e6066b46184d138013888d1]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2014/290/regulation/48) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

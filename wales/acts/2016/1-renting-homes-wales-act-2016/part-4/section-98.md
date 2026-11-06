@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Landlord's right to access dwelling[^key-40a5b5841ac02c66e15e124a61f41656][^key-b9dda83c51da31db76f62959f079c293]
+## 98. Landlord's right to access dwelling[^c-40a5b5841ac02c66e15e124a61f41656][^c-b9dda83c51da31db76f62959f079c293]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-40a5b5841ac02c66e15e124a61f41656]: Commencement: [S. 98](https://www.legislation.gov.uk/anaw/2016/1/section/98) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-40a5b5841ac02c66e15e124a61f41656]: Commencement: [S. 98](https://www.legislation.gov.uk/anaw/2016/1/section/98) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-b9dda83c51da31db76f62959f079c293]: Modification: [S. 98](https://www.legislation.gov.uk/anaw/2016/1/section/98) modified (1.12.2022) by 2002 c. 15, Sch. 7 para. 3A(6) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/27/2/b))
+[^c-b9dda83c51da31db76f62959f079c293]: Modification: [S. 98](https://www.legislation.gov.uk/anaw/2016/1/section/98) modified (1.12.2022) by 2002 c. 15, Sch. 7 para. 3A(6) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/27/2/b))

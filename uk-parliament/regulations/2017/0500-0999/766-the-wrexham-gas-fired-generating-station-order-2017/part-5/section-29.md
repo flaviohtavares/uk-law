@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Apparatus and rights of statutory undertakers in streets[^key-bf17af236a5eccb1f49ec0e79524ee68]
+## 29. Apparatus and rights of statutory undertakers in streets[^c-bf17af236a5eccb1f49ec0e79524ee68]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a street is altered or diverted or its use is temporarily prohibited or re
 
 ## Annotations
 
-[^key-bf17af236a5eccb1f49ec0e79524ee68]: Commencement: Art. 29 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-bf17af236a5eccb1f49ec0e79524ee68]: Commencement: Art. 29 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

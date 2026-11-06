@@ -22,9 +22,9 @@ summary: ''
 
 In this Chapter—
 
-- “**ownership**” means beneficial ownership (and references to acquisition and shareholder[^key-a82cc30cb9311cd2a7dda8799449a547] are construed accordingly), and
+- “**ownership**” means beneficial ownership (and references to acquisition and shareholder[^c-a82cc30cb9311cd2a7dda8799449a547] are construed accordingly), and
 - “**shares**” includes stock.
 
 ## Annotations
 
-[^key-a82cc30cb9311cd2a7dda8799449a547]: Textual amendment: Word in s. 726 inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/37/5)
+[^c-a82cc30cb9311cd2a7dda8799449a547]: Textual amendment: Word in s. 726 inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/37/5)

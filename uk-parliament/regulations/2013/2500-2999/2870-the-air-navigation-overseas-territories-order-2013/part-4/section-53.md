@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Maintenance of privileges of other ratings in licences[^key-59717545789a492e64477ffecddd6215]
+## 53. Maintenance of privileges of other ratings in licences[^c-59717545789a492e64477ffecddd6215]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person is not entitled to perform the functions to which an instrument rating 
 
 ## Annotations
 
-[^key-59717545789a492e64477ffecddd6215]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2013/2870/article/53) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-59717545789a492e64477ffecddd6215]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2013/2870/article/53) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

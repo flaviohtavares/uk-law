@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The provision which may be made by regulations under section 7 of the [^c1428008]Superannuation Act 1972 (superannuation of persons employed in local government service etc) includes provision for or in connection with the provision of pensions, allowances or gratuities to or in respect of such members of a local authority as may be prescribed by the regulations ; and for the purposes of the application of this subsection to Wales, the reference to pensions and allowances is to be ignored.[^key-d1b177bb31878414987f08ed8dc79f0a].
+(1) The provision which may be made by regulations under section 7 of the [^c1428008]Superannuation Act 1972 (superannuation of persons employed in local government service etc) includes provision for or in connection with the provision of pensions, allowances or gratuities to or in respect of such members of a local authority as may be prescribed by the regulations ; and for the purposes of the application of this subsection to Wales, the reference to pensions and allowances is to be ignored.[^c-d1b177bb31878414987f08ed8dc79f0a].
 
 (2) In subsection (1) “**local authority**” has the same meaning as in Part II of this Act.
 
@@ -82,6 +82,6 @@ summary: ''
 
 [^c1428008]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-d1b177bb31878414987f08ed8dc79f0a]: Textual amendment: Words in s. 99(1) inserted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [s. 178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/mwa/2011/4/schedule/3/paragraph/5/2); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(q)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/q)
+[^c-d1b177bb31878414987f08ed8dc79f0a]: Textual amendment: Words in s. 99(1) inserted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [s. 178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/mwa/2011/4/schedule/3/paragraph/5/2); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(q)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/q)
 
 [^c1428009]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).

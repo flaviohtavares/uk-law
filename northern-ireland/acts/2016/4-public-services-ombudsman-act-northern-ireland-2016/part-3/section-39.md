@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Declaration of non-compliance of complaints handling procedure[^key-dfe3aa2f8c89a4421d841812b43a1a1f]
+## 39. Declaration of non-compliance of complaints handling procedure[^c-dfe3aa2f8c89a4421d841812b43a1a1f]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfe3aa2f8c89a4421d841812b43a1a1f]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2016/4/section/39) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)
+[^c-dfe3aa2f8c89a4421d841812b43a1a1f]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2016/4/section/39) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.9. Basis of detailed assessment of solicitor and client costs[^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 46.9. Basis of detailed assessment of solicitor and client costs[^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
-(1) This rule applies to every assessment of a solicitor’s bill to a client except a bill which is to be paid out of the Community Legal Service Fund under the Legal Aid Act 1988 or the Access to Justice Act 1999 or by the Lord Chancellor under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-5ee3a19b4ae6e983227518b74e0b5535].
+(1) This rule applies to every assessment of a solicitor’s bill to a client except a bill which is to be paid out of the Community Legal Service Fund under the Legal Aid Act 1988 or the Access to Justice Act 1999 or by the Lord Chancellor under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-5ee3a19b4ae6e983227518b74e0b5535].
 
 (2) Section 74(3) of the Solicitors Act 1974 applies unless the solicitor and client have entered into a written agreement which expressly permits payment to the solicitor of an amount of costs greater than that which the client could have recovered from another party to the proceedings.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
 
-[^key-5ee3a19b4ae6e983227518b74e0b5535]: Textual amendment: Words in [rule 46.9(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/46.9/1) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/2/a) (with [reg. 14(4)](https://www.legislation.gov.uk/uksi/2013/534/regulation/14/4))
+[^c-5ee3a19b4ae6e983227518b74e0b5535]: Textual amendment: Words in [rule 46.9(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/46.9/1) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/2/a) (with [reg. 14(4)](https://www.legislation.gov.uk/uksi/2013/534/regulation/14/4))

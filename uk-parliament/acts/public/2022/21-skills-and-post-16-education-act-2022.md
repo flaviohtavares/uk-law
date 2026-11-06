@@ -42,7 +42,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 #### Local skills improvement plans
 
-##### 1. Local skills improvement plans[^key-2e467d978cb2b5247a2258f8747ace05]
+##### 1. Local skills improvement plans[^c-2e467d978cb2b5247a2258f8747ace05]
 
 *Extent: E+W*
 
@@ -74,7 +74,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 For this purpose “**relevant authority**” means—
 
-- (a)[^key-874313491d5e999599fb4d3f9c74fdeb] a combined authority within the meaning of Part 6 of the Local Democracy, Economic Development and Construction Act 2009 (see section 103 of that Act),
+- (a)[^c-874313491d5e999599fb4d3f9c74fdeb] a combined authority within the meaning of Part 6 of the Local Democracy, Economic Development and Construction Act 2009 (see section 103 of that Act),
 - (aa) a CCA within the meaning of Chapter 1 of Part 2 of the Levelling-up and Regeneration Act 2023 (combined county authorities) (see section 9 of that Act),
 - (ab) a local authority that has functions conferred on it by regulations made under section 16(1) of the Cities and Local Government Devolution Act 2016 (power to transfer etc public authority functions to certain local authorities), or
 - (b) the Greater London Authority.
@@ -87,7 +87,7 @@ For this purpose “**relevant authority**” means—
 
 (9) An “**approved local skills improvement plan**” means a local skills improvement plan that has been approved and published by the Secretary of State.
 
-##### 2. Designation of employer representative bodies[^key-b1cc9597f15f2d1bb9281da99367ccf0]
+##### 2. Designation of employer representative bodies[^c-b1cc9597f15f2d1bb9281da99367ccf0]
 
 *Extent: E+W*
 
@@ -117,7 +117,7 @@ For this purpose “**relevant authority**” means—
 - (a) notify the employer representative body of the modification before the date on which the modification takes effect, and
 - (b) amend the notice of designation accordingly, and publish it as amended, before that date.
 
-##### 3. Removal of designations[^key-0550d944c62d6d8a16f3923375728904]
+##### 3. Removal of designations[^c-0550d944c62d6d8a16f3923375728904]
 
 *Extent: E+W*
 
@@ -138,14 +138,14 @@ For this purpose “**relevant authority**” means—
 
 (4)  The Secretary of State must publish a notice under this section.
 
-##### 4. Interpretation[^key-6b057a6ee9d52c487414c67030241414]
+##### 4. Interpretation[^c-6b057a6ee9d52c487414c67030241414]
 
 *Extent: E+W*
 
 (1) In sections 1 to 3 and this section—
 
 - “**combined authority**” means a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
-- “[^key-d533f5129162ca0e0cc947651fd7ddf6]**combined county authority**” means a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;
+- “[^c-d533f5129162ca0e0cc947651fd7ddf6]**combined county authority**” means a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;
 - “**eligible body**” means a body corporate that—
   - (a) is not a servant or agent of the Crown,
   - (b) is not a body to which the Secretary of State appoints members, and
@@ -184,7 +184,7 @@ For this purpose “**relevant authority**” means—
 
 - (a) the Secretary of State,
 - (b) a combined authority,
-- (ba)[^key-fc6d563dc56a61819175422a646b3a1a] a combined county authority
+- (ba)[^c-fc6d563dc56a61819175422a646b3a1a] a combined county authority
 - (c) the Greater London Authority, or
 - (d) a local authority in England.
 
@@ -198,7 +198,7 @@ For this purpose “**relevant authority**” means—
 
 *Extent: E+W*
 
-##### 5. Institutions in England within the further education sector: local needs[^key-f1cc429bd5826e8fadc1b339ae7c7b7d]
+##### 5. Institutions in England within the further education sector: local needs[^c-f1cc429bd5826e8fadc1b339ae7c7b7d]
 
 In the Further and Higher Education Act 1992, after section 52A insert—
 
@@ -219,13 +219,13 @@ In the Further and Higher Education Act 1992, after section 52A insert—
 
 *Extent: E+W*
 
-##### 6. Functions of the Institute: oversight etc[^key-fefa175537ae4ce18966981e1180aba9]
+##### 6. Functions of the Institute: oversight etc[^c-fefa175537ae4ce18966981e1180aba9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Technical education qualifications
 
-##### 7. Additional powers to approve technical education qualifications[^key-c835bde86537712915119881bf276395][^key-5bee95bfab22dd332e2398ebaf849a9b]
+##### 7. Additional powers to approve technical education qualifications[^c-c835bde86537712915119881bf276395][^c-5bee95bfab22dd332e2398ebaf849a9b]
 
 *Extent: E+W*
 
@@ -413,7 +413,7 @@ In the Further and Higher Education Act 1992, after section 52A insert—
 >
 > (2) References in this Chapter to approval, in relation to a technical education qualification approved under section A2D3 or A2D5, are to approval under the section in question.
 
-##### 8. Functions of the Institute: availability of qualifications outside England[^key-5512ac5fa6bff1d8e0ded8631f1b1b44][^key-b1aaf0548a89c6c28e7aa5f326bd25cb]
+##### 8. Functions of the Institute: availability of qualifications outside England[^c-5512ac5fa6bff1d8e0ded8631f1b1b44][^c-b1aaf0548a89c6c28e7aa5f326bd25cb]
 
 *Extent: E+W*
 
@@ -423,13 +423,13 @@ In the Apprenticeships, Skills, Children and Learning Act 2009, after section A2
 >
 > The Institute may provide advice and assistance, or take other steps that it considers appropriate, for the purpose of enabling approved technical education qualifications to be made available to be obtained by persons outside England.
 
-##### 9. Technical education qualifications: co-operation between the Institute and Ofqual[^key-1e5472e27158d0ad47b882628547787c]
+##### 9. Technical education qualifications: co-operation between the Institute and Ofqual[^c-1e5472e27158d0ad47b882628547787c]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 10. Application of accreditation requirement in relation to technical education qualifications[^key-d3b8665ca94d05efba67d3331e39ec53][^key-423bcbfac60388aefa40bb4e22dcbeb4]
+##### 10. Application of accreditation requirement in relation to technical education qualifications[^c-d3b8665ca94d05efba67d3331e39ec53][^c-423bcbfac60388aefa40bb4e22dcbeb4]
 
 *Extent: E+W+N.I.*
 
@@ -454,7 +454,7 @@ In section 138 of the Apprenticeships, Skills, Children and Learning Act 2009 (q
   > - “**the Institute**” means the Institute for Apprenticeships and Technical Education;
   > - “**approved technical education qualification**” and “**technical education qualification**” have the meanings given by section A12(1).
 
-##### 11. Information sharing in relation to technical education qualifications[^key-c838f095a65c1cd464f39331f08ae7be][^key-ea91a4a8e6ec87dc800814a960236cf2]
+##### 11. Information sharing in relation to technical education qualifications[^c-c838f095a65c1cd464f39331f08ae7be][^c-ea91a4a8e6ec87dc800814a960236cf2]
 
 (1) The Apprenticeships, Skills, Children and Learning Act 2009 is amended as follows.
 
@@ -497,13 +497,13 @@ In section 138 of the Apprenticeships, Skills, Children and Learning Act 2009 (q
 
 .
 
-##### 12. Technical education qualifications: minor and consequential amendments[^key-1872c375712f865c092f95ec8b3bdd70][^key-fc1481e20df5290adf9dabfeeeb63bfa]
+##### 12. Technical education qualifications: minor and consequential amendments[^c-1872c375712f865c092f95ec8b3bdd70][^c-fc1481e20df5290adf9dabfeeeb63bfa]
 
 *Extent: E+W*
 
 (1) The Apprenticeships, Skills, Children and Learning Act 2009 is amended as set out in subsections (2) to (9).
 
-(2)[^key-06822444abca5918f2f7f8086240f7af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-06822444abca5918f2f7f8086240f7af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section A2D3 (as renumbered by section 13: approved technical education qualifications)—
 
@@ -530,13 +530,13 @@ In section 138 of the Apprenticeships, Skills, Children and Learning Act 2009 (q
 - (a) in the definition of “approved technical education qualification”, for “A2DA” substitute “A12”;
 - (b) in the definition of “technical education qualification”, for “A2DA” substitute “A12”.
 
-(8)[^key-427502313c12eb56b49e621573a9c9f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-427502313c12eb56b49e621573a9c9f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-ab871acba4f7303b73af477b9cd0d61c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-ab871acba4f7303b73af477b9cd0d61c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In section 42B of the Education Act 1997 (information about technical education: access to English schools), in subsection (10), for “A2DA” substitute “A2D3 or A2D5”.
 
-##### 13. Renumbering of provisions relating to technical education qualifications[^key-f81162a5ad2817dcb50871f9dc085070][^key-a3e41a1d41fec719346c15098db7a1bb]
+##### 13. Renumbering of provisions relating to technical education qualifications[^c-f81162a5ad2817dcb50871f9dc085070][^c-a3e41a1d41fec719346c15098db7a1bb]
 
 *Extent: E+W*
 
@@ -573,7 +573,7 @@ In section 138 of the Apprenticeships, Skills, Children and Learning Act 2009 (q
 
 *Extent: E+W*
 
-##### 14. Information about technical education and training: access to English schools[^key-da188eec37b25c170fcd2f23a7048698][^key-4b6db1e1e423bdbdb5ef886d1ea287d2]
+##### 14. Information about technical education and training: access to English schools[^c-da188eec37b25c170fcd2f23a7048698][^c-4b6db1e1e423bdbdb5ef886d1ea287d2]
 
 (1) Section 42B of the Education Act 1997 (information about technical education: access to English schools) is amended as follows.
 
@@ -623,7 +623,7 @@ In section 138 of the Apprenticeships, Skills, Children and Learning Act 2009 (q
 
 ### Chapter 3 — Lifelong learning
 
-#### 15. Support for lifelong learning[^key-6d7639ea823e5f1481b5fa028568e03d][^key-5bc6a46ae0434e44514c30c242e7e2d9]
+#### 15. Support for lifelong learning[^c-6d7639ea823e5f1481b5fa028568e03d][^c-5bc6a46ae0434e44514c30c242e7e2d9]
 
 (1) After section 28 of the Teaching and Higher Education Act 1998 insert—
 
@@ -677,7 +677,7 @@ In section 138 of the Apprenticeships, Skills, Children and Learning Act 2009 (q
   - (ii) subsection (2ZB);
 - (b) section 28A(1)(b) of that Act has effect with the omission of the reference to section 22(4B) of that Act.
 
-#### 16. Lifelong learning: amendment of the Higher Education and Research Act 2017[^key-0d6afe4bc11b8fdbe7a7040719aad7a7][^key-1a69c9c78096e80969a7080d66cba7ec][^key-11ce108f9bf96e959f4c32448b3a2eeb]
+#### 16. Lifelong learning: amendment of the Higher Education and Research Act 2017[^c-0d6afe4bc11b8fdbe7a7040719aad7a7][^c-1a69c9c78096e80969a7080d66cba7ec][^c-11ce108f9bf96e959f4c32448b3a2eeb]
 
 (1) The Higher Education and Research Act 2017 is amended as follows.
 
@@ -713,7 +713,7 @@ In section 138 of the Apprenticeships, Skills, Children and Learning Act 2009 (q
 
 ### Initial teacher training for further education
 
-#### 17. Initial teacher training for further education[^key-ef50e02a72bc9e36236a78e438a8c935][^key-2ba932a9f91c54a4bd8cd3330aa8f4e0]
+#### 17. Initial teacher training for further education[^c-ef50e02a72bc9e36236a78e438a8c935][^c-2ba932a9f91c54a4bd8cd3330aa8f4e0]
 
 (1) The Secretary of State may make regulations for the purpose of securing or improving the quality of courses of initial teacher training for further education (“ITT(FE) courses”) provided by educational institutions in England.
 
@@ -759,7 +759,7 @@ In section 138 of the Apprenticeships, Skills, Children and Learning Act 2009 (q
 
 ### Quality assessments of higher education
 
-#### 18. Office for Students: power to assess the quality of higher education by reference to student outcomes[^key-a6ee9145abd237b9f6b676b146e62bac]
+#### 18. Office for Students: power to assess the quality of higher education by reference to student outcomes[^c-a6ee9145abd237b9f6b676b146e62bac]
 
 In section 23 of the Higher Education and Research Act 2017 (assessing the quality of, and the standards applied to, higher education), at the end insert—
 
@@ -798,7 +798,7 @@ In section 23 of the Higher Education and Research Act 2017 (assessing the quali
 
 **Not yet in force.**
 
-##### 19. List of relevant providers[^key-02ae006dc9f2cc819807166cfa8af3ee]
+##### 19. List of relevant providers[^c-02ae006dc9f2cc819807166cfa8af3ee]
 
 (1) The Secretary of State may by regulations make provision—
 
@@ -863,7 +863,7 @@ In section 23 of the Higher Education and Research Act 2017 (assessing the quali
 - (a) persons for whom relevant education or training is or has been provided;
 - (b) persons having general control and management of, or legal responsibility and accountability for, a relevant provider.
 
-##### 20. Prohibitions on entering into funding arrangements with providers[^key-ffc5701aeef27ab3a46f7f782aeda590]
+##### 20. Prohibitions on entering into funding arrangements with providers[^c-ffc5701aeef27ab3a46f7f782aeda590]
 
 (1) If the Secretary of State makes regulations under section 19(1)(a) for the keeping of a list, the following provisions apply in relation to the making of funding arrangements while the regulations are in force.
 
@@ -912,7 +912,7 @@ In section 23 of the Higher Education and Research Act 2017 (assessing the quali
 - (a) for the provision of all or part of the education or training to which the relevant funding arrangements relate, and
 - (b) that has any other characteristics specified in regulations made by the Secretary of State.
 
-##### 21. Funding arrangements: interpretation[^key-3b9c0fbd2b7269a73a83e97953d4cab2]
+##### 21. Funding arrangements: interpretation[^c-3b9c0fbd2b7269a73a83e97953d4cab2]
 
 (1) This section applies for the interpretation of sections 19, 20 and this section.
 
@@ -943,7 +943,7 @@ In section 23 of the Higher Education and Research Act 2017 (assessing the quali
 - (d) section 20(8);
 - (e) section 20(9).
 
-##### 22. Regulations under section 19 or 20[^key-f4a931188064d89b7fe84bcffb9736ea]
+##### 22. Regulations under section 19 or 20[^c-f4a931188064d89b7fe84bcffb9736ea]
 
 (1) Any power to make regulations under section 19 or 20 includes power to make consequential, supplemental, incidental, transitional or saving provision.
 
@@ -963,7 +963,7 @@ In section 23 of the Higher Education and Research Act 2017 (assessing the quali
 
 #### Further education in England: intervention
 
-##### 23. Further education in England: intervention[^key-605749232fe65ccfb487a5db4d62d189]
+##### 23. Further education in England: intervention[^c-605749232fe65ccfb487a5db4d62d189]
 
 (1) The Further and Higher Education Act 1992 is amended as follows.
 
@@ -1055,7 +1055,7 @@ In section 23 of the Higher Education and Research Act 2017 (assessing the quali
 
 ### Chapter 2 — Education administration and administration of further education bodies
 
-#### 24. Further education bodies in education administration: application of other insolvency procedures[^key-f211b7cad5874db179043114fc691520]
+#### 24. Further education bodies in education administration: application of other insolvency procedures[^c-f211b7cad5874db179043114fc691520]
 
 In section 33 of the Technical and Further Education Act 2017 (application of other insolvency law), after subsection (2) insert—
 
@@ -1063,7 +1063,7 @@ In section 33 of the Technical and Further Education Act 2017 (application of ot
 >
 > (2B) Nothing in Schedule 3 or 4 limits the provision that may be made by virtue of subsection (2A), and provision made by virtue of that subsection may amend Schedules 3 and 4.
 
-#### 25. Further education bodies in education administration: transfer schemes[^key-5735de9584a80bba63f122800660e5f2]
+#### 25. Further education bodies in education administration: transfer schemes[^c-5735de9584a80bba63f122800660e5f2]
 
 (1) The Technical and Further Education Act 2017 is amended as follows.
 
@@ -1100,7 +1100,7 @@ In section 33 of the Technical and Further Education Act 2017 (application of ot
 
 *Extent: E+W*
 
-#### 26. Meaning of “relevant service” and other key expressions[^key-7408ec3d830359e5da88e74969933e2c]
+#### 26. Meaning of “relevant service” and other key expressions[^c-7408ec3d830359e5da88e74969933e2c]
 
 (1) This section applies for the purposes of this Chapter.
 
@@ -1144,7 +1144,7 @@ whether the person’s own business or that of the person’s employer.
 
 (9) Section 30 sets out the meanings of other terms used in this Chapter (including in this section).
 
-#### 27. Offence of providing or arranging a relevant service[^key-173ffa4cc986a2c31cff692648df7644]
+#### 27. Offence of providing or arranging a relevant service[^c-173ffa4cc986a2c31cff692648df7644]
 
 (1) It is an offence for a person to provide, or arrange for another person to provide, in commercial circumstances, a relevant service for a student in relation to a relevant assignment.
 
@@ -1171,7 +1171,7 @@ is not, of itself, to be taken as sufficient evidence of a matter to be proved u
 - (a) an offence under Part 2 of the Serious Crime Act 2007 where the offence that the student intended or believed would be committed is an offence under this section;
 - (b) an offence under this section committed by aiding, abetting, counselling or procuring the commission of an offence under this section.
 
-#### 28. Offence of advertising a relevant service[^key-dc1379310a68f55b91581bf5c5849f7d]
+#### 28. Offence of advertising a relevant service[^c-dc1379310a68f55b91581bf5c5849f7d]
 
 (1) A person who advertises a relevant service to students commits an offence.
 
@@ -1186,7 +1186,7 @@ to provide or arrange for another person to provide a relevant service.
 
 (4) A person guilty of an offence under this section is liable on summary conviction to a fine.
 
-#### 29. Offences: bodies corporate and unincorporated associations[^key-0c7299d86d3ec5055f322e57fa4b5759]
+#### 29. Offences: bodies corporate and unincorporated associations[^c-0c7299d86d3ec5055f322e57fa4b5759]
 
 (1) If an offence under this Chapter committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of—
 
@@ -1207,7 +1207,7 @@ that person (as well as the body corporate) is guilty of that offence and liable
 
 (7) Where an offence under this Chapter committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, a partner, that partner (as well as the body) is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-#### 30. Interpretation of Chapter[^key-e4251f74d5819a1dd5a1f5c140eb60f9]
+#### 30. Interpretation of Chapter[^c-e4251f74d5819a1dd5a1f5c140eb60f9]
 
 In this Chapter, the following terms have the following meanings—
 
@@ -1238,7 +1238,7 @@ In this Chapter, the following terms have the following meanings—
 
 #### 16 to 19 Academies: designation as having a religious character
 
-##### 31. 16 to 19 Academy: designation as having a religious character[^key-e73109b89760fa6b4895a8648c03e3f8]
+##### 31. 16 to 19 Academy: designation as having a religious character[^c-e73109b89760fa6b4895a8648c03e3f8]
 
 After section 8 of the Academies Act 2010 insert—
 
@@ -1295,7 +1295,7 @@ After section 8 of the Academies Act 2010 insert—
 
 #### Institutions within the further education sector: procedure for designation
 
-##### 32. Institutions within the further education sector: designation[^key-5458bb680013f42bd6132d9e6f1c1dcb]
+##### 32. Institutions within the further education sector: designation[^c-5458bb680013f42bd6132d9e6f1c1dcb]
 
 (1) The Further and Higher Education Act 1992 is amended in accordance with subsections (2) and (3).
 
@@ -1326,7 +1326,7 @@ After section 8 of the Academies Act 2010 insert—
 
 #### Publication by the Office for Students
 
-##### 33. Office for Students: publication and protection from defamation[^key-41d5d4f02f55572592d3f065229798a4]
+##### 33. Office for Students: publication and protection from defamation[^c-41d5d4f02f55572592d3f065229798a4]
 
 In the Higher Education and Research Act 2017, after section 67 insert—
 
@@ -1392,13 +1392,13 @@ In the Higher Education and Research Act 2017, after section 67 insert—
 
 #### Higher education course fee limits: administration
 
-##### 34. Relevant date for purposes of fee limit for certain higher education courses[^key-be92e12e1b72cfa8341053a1cbff2005]
+##### 34. Relevant date for purposes of fee limit for certain higher education courses[^c-be92e12e1b72cfa8341053a1cbff2005]
 
 In paragraph 3(3) of Schedule 2 to the Higher Education and Research Act 2017 (the fee limit where the provider has no access and participation plan), omit “before the calendar year”.
 
 ### Chapter 3 — General provisions
 
-#### 35. Extent[^key-055d5c7134fbf86b105fe21e59c75fee]
+#### 35. Extent[^c-055d5c7134fbf86b105fe21e59c75fee]
 
 (1) This Act extends to England and Wales.
 
@@ -1417,7 +1417,7 @@ In paragraph 3(3) of Schedule 2 to the Higher Education and Research Act 2017 (t
 - (d) section 16(3);
 - (e) this Chapter.
 
-#### 36. Commencement[^key-6e554e98d81ebf824184295df2fe3016]
+#### 36. Commencement[^c-6e554e98d81ebf824184295df2fe3016]
 
 (1) This Chapter comes into force on the day on which this Act is passed.
 
@@ -1433,116 +1433,116 @@ In paragraph 3(3) of Schedule 2 to the Higher Education and Research Act 2017 (t
 
 (7) Regulations under this section are to be made by statutory instrument.
 
-#### 37. Short title[^key-e39bbd79228f3b650d091cf828327318]
+#### 37. Short title[^c-e39bbd79228f3b650d091cf828327318]
 
 This Act may be cited as the Skills and Post-16 Education Act 2022.
 
 ## Annotations
 
-[^key-2e467d978cb2b5247a2258f8747ace05]: Commencement: S. 1 in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-2e467d978cb2b5247a2258f8747ace05]: Commencement: S. 1 in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-874313491d5e999599fb4d3f9c74fdeb]: Textual amendment: S. 1(7)(a)-(ab) substituted for s. 1(7)(a) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 220](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/220) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-874313491d5e999599fb4d3f9c74fdeb]: Textual amendment: S. 1(7)(a)-(ab) substituted for s. 1(7)(a) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 220](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/220) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-b1cc9597f15f2d1bb9281da99367ccf0]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/21/section/2) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-b1cc9597f15f2d1bb9281da99367ccf0]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/21/section/2) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-0550d944c62d6d8a16f3923375728904]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/21/section/3) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-0550d944c62d6d8a16f3923375728904]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/21/section/3) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-6b057a6ee9d52c487414c67030241414]: Commencement: S. 4 in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-6b057a6ee9d52c487414c67030241414]: Commencement: S. 4 in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-d533f5129162ca0e0cc947651fd7ddf6]: Textual amendment: Words in s. 4(1) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 221(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/221/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-d533f5129162ca0e0cc947651fd7ddf6]: Textual amendment: Words in s. 4(1) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 221(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/221/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-fc6d563dc56a61819175422a646b3a1a]: Textual amendment: S. 4(2)(ba) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 221(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/221/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-fc6d563dc56a61819175422a646b3a1a]: Textual amendment: S. 4(2)(ba) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 221(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/221/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-f1cc429bd5826e8fadc1b339ae7c7b7d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/21/section/5) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-f1cc429bd5826e8fadc1b339ae7c7b7d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/21/section/5) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-fefa175537ae4ce18966981e1180aba9]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2022/21/section/6) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/10/a) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
+[^c-fefa175537ae4ce18966981e1180aba9]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2022/21/section/6) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/10/a) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
 
-[^key-c835bde86537712915119881bf276395]: Commencement: S. 7 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-c835bde86537712915119881bf276395]: Commencement: S. 7 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-5bee95bfab22dd332e2398ebaf849a9b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/21/section/7) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
+[^c-5bee95bfab22dd332e2398ebaf849a9b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/21/section/7) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
 
-[^key-5512ac5fa6bff1d8e0ded8631f1b1b44]: Commencement: S. 8 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-5512ac5fa6bff1d8e0ded8631f1b1b44]: Commencement: S. 8 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-b1aaf0548a89c6c28e7aa5f326bd25cb]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/21/section/8) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
+[^c-b1aaf0548a89c6c28e7aa5f326bd25cb]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/21/section/8) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
 
-[^key-1e5472e27158d0ad47b882628547787c]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2022/21/section/9) omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 35(a)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/35/a) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
+[^c-1e5472e27158d0ad47b882628547787c]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2022/21/section/9) omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 35(a)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/35/a) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
 
-[^key-d3b8665ca94d05efba67d3331e39ec53]: Commencement: S. 10 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-d3b8665ca94d05efba67d3331e39ec53]: Commencement: S. 10 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-423bcbfac60388aefa40bb4e22dcbeb4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/21/section/10) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(5)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/5) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
+[^c-423bcbfac60388aefa40bb4e22dcbeb4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/21/section/10) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(5)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/5) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
 
-[^key-c838f095a65c1cd464f39331f08ae7be]: Commencement: S. 11 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-c838f095a65c1cd464f39331f08ae7be]: Commencement: S. 11 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-ea91a4a8e6ec87dc800814a960236cf2]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/21/section/11) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/6) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
+[^c-ea91a4a8e6ec87dc800814a960236cf2]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/21/section/11) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/6) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
 
-[^key-1872c375712f865c092f95ec8b3bdd70]: Commencement: S. 12 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-1872c375712f865c092f95ec8b3bdd70]: Commencement: S. 12 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-fc1481e20df5290adf9dabfeeeb63bfa]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/21/section/12) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(7)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/7) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
+[^c-fc1481e20df5290adf9dabfeeeb63bfa]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/21/section/12) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(7)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/7) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
 
-[^key-06822444abca5918f2f7f8086240f7af]: Textual amendment: [S. 12(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/12/2) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/10/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
+[^c-06822444abca5918f2f7f8086240f7af]: Textual amendment: [S. 12(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/12/2) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/10/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
 
-[^key-427502313c12eb56b49e621573a9c9f6]: Textual amendment: [S. 12(8)](https://www.legislation.gov.uk/ukpga/2022/21/section/12/8) omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 35(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/35/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
+[^c-427502313c12eb56b49e621573a9c9f6]: Textual amendment: [S. 12(8)](https://www.legislation.gov.uk/ukpga/2022/21/section/12/8) omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 35(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/35/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
 
-[^key-ab871acba4f7303b73af477b9cd0d61c]: Textual amendment: [S. 12(9)](https://www.legislation.gov.uk/ukpga/2022/21/section/12/9) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/10/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
+[^c-ab871acba4f7303b73af477b9cd0d61c]: Textual amendment: [S. 12(9)](https://www.legislation.gov.uk/ukpga/2022/21/section/12/9) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/10/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
 
-[^key-f81162a5ad2817dcb50871f9dc085070]: Commencement: S. 13 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-f81162a5ad2817dcb50871f9dc085070]: Commencement: S. 13 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-a3e41a1d41fec719346c15098db7a1bb]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/21/section/13) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/8) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
+[^c-a3e41a1d41fec719346c15098db7a1bb]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/21/section/13) in force at 30.9.2022 by [S.I. 2022/965](https://www.legislation.gov.uk/uksi/2022/965), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2022/965/regulation/3/8) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/965/regulation/4), [5](https://www.legislation.gov.uk/uksi/2022/965/regulation/5))
 
-[^key-da188eec37b25c170fcd2f23a7048698]: Commencement: S. 14 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-da188eec37b25c170fcd2f23a7048698]: Commencement: S. 14 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-4b6db1e1e423bdbdb5ef886d1ea287d2]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/21/section/14) in force at 1.1.2023 by [S.I. 2022/1349](https://www.legislation.gov.uk/uksi/2022/1349), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1349/regulation/2)
+[^c-4b6db1e1e423bdbdb5ef886d1ea287d2]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/21/section/14) in force at 1.1.2023 by [S.I. 2022/1349](https://www.legislation.gov.uk/uksi/2022/1349), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1349/regulation/2)
 
-[^key-6d7639ea823e5f1481b5fa028568e03d]: Commencement: S. 15 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-6d7639ea823e5f1481b5fa028568e03d]: Commencement: S. 15 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-5bc6a46ae0434e44514c30c242e7e2d9]: Commencement: S. 15 in force at 12.5.2026 by [S.I. 2026/498](https://www.legislation.gov.uk/uksi/2026/498), [reg. 2](https://www.legislation.gov.uk/uksi/2026/498/regulation/2)
+[^c-5bc6a46ae0434e44514c30c242e7e2d9]: Commencement: S. 15 in force at 12.5.2026 by [S.I. 2026/498](https://www.legislation.gov.uk/uksi/2026/498), [reg. 2](https://www.legislation.gov.uk/uksi/2026/498/regulation/2)
 
-[^key-0d6afe4bc11b8fdbe7a7040719aad7a7]: Commencement: S. 16 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-0d6afe4bc11b8fdbe7a7040719aad7a7]: Commencement: S. 16 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-1a69c9c78096e80969a7080d66cba7ec]: Commencement: S. 16 in force at 12.5.2026 for specified purposes by [S.I. 2026/498](https://www.legislation.gov.uk/uksi/2026/498), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/498/regulation/3/1)
+[^c-1a69c9c78096e80969a7080d66cba7ec]: Commencement: S. 16 in force at 12.5.2026 for specified purposes by [S.I. 2026/498](https://www.legislation.gov.uk/uksi/2026/498), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/498/regulation/3/1)
 
-[^key-11ce108f9bf96e959f4c32448b3a2eeb]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/21/section/16) in force at 1.9.2026 in so far as not already in force by [S.I. 2026/498](https://www.legislation.gov.uk/uksi/2026/498), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/498/regulation/3/2)
+[^c-11ce108f9bf96e959f4c32448b3a2eeb]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/21/section/16) in force at 1.9.2026 in so far as not already in force by [S.I. 2026/498](https://www.legislation.gov.uk/uksi/2026/498), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/498/regulation/3/2)
 
-[^key-ef50e02a72bc9e36236a78e438a8c935]: Commencement: S. 17 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-ef50e02a72bc9e36236a78e438a8c935]: Commencement: S. 17 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-2ba932a9f91c54a4bd8cd3330aa8f4e0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/21/section/17) in force at 1.9.2025 by [S.I. 2025/929](https://www.legislation.gov.uk/uksi/2025/929), [reg. 2](https://www.legislation.gov.uk/uksi/2025/929/regulation/2)
+[^c-2ba932a9f91c54a4bd8cd3330aa8f4e0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/21/section/17) in force at 1.9.2025 by [S.I. 2025/929](https://www.legislation.gov.uk/uksi/2025/929), [reg. 2](https://www.legislation.gov.uk/uksi/2025/929/regulation/2)
 
-[^key-a6ee9145abd237b9f6b676b146e62bac]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/21/section/18) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-a6ee9145abd237b9f6b676b146e62bac]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/21/section/18) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-02ae006dc9f2cc819807166cfa8af3ee]: Commencement: S. 19 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-02ae006dc9f2cc819807166cfa8af3ee]: Commencement: S. 19 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-ffc5701aeef27ab3a46f7f782aeda590]: Commencement: S. 20 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-ffc5701aeef27ab3a46f7f782aeda590]: Commencement: S. 20 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-3b9c0fbd2b7269a73a83e97953d4cab2]: Commencement: S. 21 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-3b9c0fbd2b7269a73a83e97953d4cab2]: Commencement: S. 21 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-f4a931188064d89b7fe84bcffb9736ea]: Commencement: S. 22 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
+[^c-f4a931188064d89b7fe84bcffb9736ea]: Commencement: S. 22 not in force at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/3)
 
-[^key-605749232fe65ccfb487a5db4d62d189]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/21/section/23) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-605749232fe65ccfb487a5db4d62d189]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/21/section/23) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-f211b7cad5874db179043114fc691520]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/21/section/24) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-f211b7cad5874db179043114fc691520]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/21/section/24) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-5735de9584a80bba63f122800660e5f2]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/21/section/25) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-5735de9584a80bba63f122800660e5f2]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/21/section/25) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-7408ec3d830359e5da88e74969933e2c]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/21/section/26) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-7408ec3d830359e5da88e74969933e2c]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/21/section/26) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-173ffa4cc986a2c31cff692648df7644]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/21/section/27) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-173ffa4cc986a2c31cff692648df7644]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/21/section/27) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-dc1379310a68f55b91581bf5c5849f7d]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/21/section/28) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-dc1379310a68f55b91581bf5c5849f7d]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/21/section/28) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-0c7299d86d3ec5055f322e57fa4b5759]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/21/section/29) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-0c7299d86d3ec5055f322e57fa4b5759]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/21/section/29) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-e4251f74d5819a1dd5a1f5c140eb60f9]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/21/section/30) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-e4251f74d5819a1dd5a1f5c140eb60f9]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/21/section/30) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-e73109b89760fa6b4895a8648c03e3f8]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/21/section/31) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-e73109b89760fa6b4895a8648c03e3f8]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/21/section/31) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-5458bb680013f42bd6132d9e6f1c1dcb]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/21/section/32) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-5458bb680013f42bd6132d9e6f1c1dcb]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/21/section/32) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-41d5d4f02f55572592d3f065229798a4]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/21/section/33) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-41d5d4f02f55572592d3f065229798a4]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/21/section/33) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-be92e12e1b72cfa8341053a1cbff2005]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/21/section/34) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-be92e12e1b72cfa8341053a1cbff2005]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/21/section/34) in force at 28.6.2022, see [s. 36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-055d5c7134fbf86b105fe21e59c75fee]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/21/section/35) in force at in force at Royal Assent, see [s. 36(1)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/1)
+[^c-055d5c7134fbf86b105fe21e59c75fee]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/21/section/35) in force at in force at Royal Assent, see [s. 36(1)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/1)
 
-[^key-6e554e98d81ebf824184295df2fe3016]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/21/section/36) in force at in force at Royal Assent, see [s. 36(1)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/1)
+[^c-6e554e98d81ebf824184295df2fe3016]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/21/section/36) in force at in force at Royal Assent, see [s. 36(1)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/1)
 
-[^key-e39bbd79228f3b650d091cf828327318]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/21/section/37) in force at in force at Royal Assent, see [s. 36(1)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/1)
+[^c-e39bbd79228f3b650d091cf828327318]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/21/section/37) in force at in force at Royal Assent, see [s. 36(1)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/1)

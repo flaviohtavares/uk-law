@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Claims under warranty: circumstances where liability excluded[^key-0fd96df96bad73a748b802e8ca8e6306]
+## 78. Claims under warranty: circumstances where liability excluded[^c-0fd96df96bad73a748b802e8ca8e6306]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ The Keeper has no liability to pay compensation by virtue of section 77(1)—
 
 ## Annotations
 
-[^key-0fd96df96bad73a748b802e8ca8e6306]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2012/5/section/78) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-0fd96df96bad73a748b802e8ca8e6306]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2012/5/section/78) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

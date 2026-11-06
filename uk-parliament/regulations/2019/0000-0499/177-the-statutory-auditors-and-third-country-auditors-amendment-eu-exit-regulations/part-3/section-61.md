@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61.[^key-8928eee14abd92043e2b37e78d4df315]
+## 61.[^c-8928eee14abd92043e2b37e78d4df315]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ In regulation 8 (application statement)—
 - (b) in paragraph (c), for “UK-traded non-EEA companies” substitute “ UK-traded third country companies ”;
 - (c) in paragraph (d) [^c23587041]—
   - (i) for “UK-traded non-EEA companies” substitute “ UK-traded third country companies ”;
-  - (ii) in sub-paragraph (i), after “Audit Directive” insert “before IP completion day[^key-573aaac36e56c08081a70b8ddf7cd407]”;
+  - (ii) in sub-paragraph (i), after “Audit Directive” insert “before IP completion day[^c-573aaac36e56c08081a70b8ddf7cd407]”;
   - (iii) after sub-paragraph (i) insert—
 
     > - (ia) the UK-adopted international standards adopted by the competent authority in accordance with regulation 4(3)(za) of the Statutory Auditors and Third Country Auditors Regulations 2016, or with standards, procedures or requirements which are equivalent,
@@ -41,8 +41,8 @@ In regulation 8 (application statement)—
 
 ## Annotations
 
-[^key-8928eee14abd92043e2b37e78d4df315]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-8928eee14abd92043e2b37e78d4df315]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23587041]: Marginal citation: Paragraph (d) was substituted by regulation 20(2)(a) of the [Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649).
 
-[^key-573aaac36e56c08081a70b8ddf7cd407]: Textual amendment: Words in reg. 61(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/15/b)
+[^c-573aaac36e56c08081a70b8ddf7cd407]: Textual amendment: Words in reg. 61(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/15/b)

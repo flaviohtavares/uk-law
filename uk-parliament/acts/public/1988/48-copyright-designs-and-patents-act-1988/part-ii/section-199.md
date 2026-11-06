@@ -41,13 +41,13 @@ and in Scotland, where an order has been made under this section, the person fro
 
 (5) A person to whom an illicit recording is delivered up in pursuance of an order under this section shall retain it pending the making of an order, or the decision not to make an order, under section 204.
 
-(6) Nothing in in this section affects the powers of the court under section 153 of the Sentencing Code[^key-533304392d9640a2732d085bf957f374], Part II of the Proceeds of Crime (Scotland) Act 1995[^c20312151] or Article 11 of the Criminal Justice (Northern Ireland) Order 1994[^c20312161] (general provisions as to forfeiture in criminal proceedings).
+(6) Nothing in in this section affects the powers of the court under section 153 of the Sentencing Code[^c-533304392d9640a2732d085bf957f374], Part II of the Proceeds of Crime (Scotland) Act 1995[^c20312151] or Article 11 of the Criminal Justice (Northern Ireland) Order 1994[^c20312161] (general provisions as to forfeiture in criminal proceedings).
 
 ## Annotations
 
 [^c20314081]: Editorial: The insertion of the new headings "Chapter 1 Introductory", "Chapter 2 Economic Rights", "Chapter 3 Moral Rights" and "Chapter 4 Qualification for Protection, Extent and Interpretation" in Pt. II on 1.2.2006 gives rise to a change in the structure of this legislation on SLD which breaks the continuity of historical versions of the existing provisions which are now brought under those new headings.
 
-[^key-533304392d9640a2732d085bf957f374]: Textual amendment: Words in s. 199(6) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 96](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/96) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-533304392d9640a2732d085bf957f374]: Textual amendment: Words in s. 199(6) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 96](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/96) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c20312151]: Textual amendment: Words in s. 199(6) substituted (1.4.1996) by [1995 c. 20](https://www.legislation.gov.uk/ukpga/1995/20), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/20/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/20/section/7/2), [Sch. 4 para. 70(3)](https://www.legislation.gov.uk/ukpga/1995/20/schedule/4/paragraph/70/3)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Powers of directors where no liquidator appointed or nominated by company[^key-1e09efb526eec1f9a05edfd74bd186e9]
+## 37. Powers of directors where no liquidator appointed or nominated by company[^c-1e09efb526eec1f9a05edfd74bd186e9]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In Article 99(2) (restriction on exercise of powers where no liquidator appointe
 
 ## Annotations
 
-[^key-1e09efb526eec1f9a05edfd74bd186e9]: Commencement: S. 37 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-1e09efb526eec1f9a05edfd74bd186e9]: Commencement: S. 37 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

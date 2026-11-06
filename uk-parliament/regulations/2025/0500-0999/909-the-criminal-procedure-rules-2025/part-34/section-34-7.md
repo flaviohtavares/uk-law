@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.7. Preparation for appeal[^key-531bc209c0d6acc5839619051ffbee61]
+## 34.7. Preparation for appeal[^c-531bc209c0d6acc5839619051ffbee61]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-531bc209c0d6acc5839619051ffbee61]: Commencement: [Rule 34.7](https://www.legislation.gov.uk/uksi/2025/909/rule/34.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-531bc209c0d6acc5839619051ffbee61]: Commencement: [Rule 34.7](https://www.legislation.gov.uk/uksi/2025/909/rule/34.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

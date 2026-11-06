@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — Provisions of the Drainage Order applied for the purposes of environmental impact assessment of canal schemes[^key-884aae3a7b21b56efe8aa841bfaa89ca][^M_F_02c12034-03f9-4269-d2da-1894af657d6d]
+## SCHEDULE 5 — Provisions of the Drainage Order applied for the purposes of environmental impact assessment of canal schemes[^c-884aae3a7b21b56efe8aa841bfaa89ca][^M_F_02c12034-03f9-4269-d2da-1894af657d6d]
 
 *Extent: N.I.*
 
@@ -132,6 +132,6 @@ Article 45(1) and (1A)
 
 ## Annotations
 
-[^key-884aae3a7b21b56efe8aa841bfaa89ca]: Modification: Schs. 3-5: transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-884aae3a7b21b56efe8aa841bfaa89ca]: Modification: Schs. 3-5: transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^M_F_02c12034-03f9-4269-d2da-1894af657d6d]: Textual amendment: Sch. 5 substituted (1.12.2019) by [The Waterways (Environmental Impact Assessment) Regulations (Northern Ireland) 2019 (S.R. 2019/209)](https://www.legislation.gov.uk/nisr/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/209/regulation/1/1), [18(3)](https://www.legislation.gov.uk/nisr/2019/209/regulation/18/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2019/209/schedule/4) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2019/209/regulation/3/2))

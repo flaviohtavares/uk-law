@@ -35,7 +35,7 @@ summary: ''
 - “the Department” means the Department of Commerce;
 - “designated country” in any provision of this Order means such, if any, of the following countries, that is to say, Great Britain, any of the Channel Islands and the Isle of Man, as the Department, having regard to the law for the time being in force in that country, designates for the purposes of that provision by order;
 - “drugs” and “food” have the same meanings respectively as for the purposes of the Food Safety (Northern Ireland) Order 1991[^c16914261];
-- “the FIC Regulation” means Regulation ([^key-2c55c104768f444d71fd76088e387ae7]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers;
+- “the FIC Regulation” means Regulation ([^c-2c55c104768f444d71fd76088e387ae7]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers;
 - “gross weight”, in relation to any goods, means the aggregate weight of the goods and any container in or on which they are made up;
 - “indication of quantity”, in relation to any container in or on which goods are made up, means a statement in writing to the effect that those goods are of, or of not less than, a specified quantity by net weight, gross weight or other measurement or by number, as the case may require;
 - “inspector” means a chief or other inspector of weights and measures within the meaning of Article 40; and “chief inspector” means such a chief inspector of weights and measures;
@@ -75,7 +75,7 @@ summary: ''
 
 [^c16914261]: Textual amendment: [1991 NI 7](https://www.legislation.gov.uk/nisi/1991)
 
-[^key-2c55c104768f444d71fd76088e387ae7]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1981/231/article/2/2) inserted (18.4.2016) by [The Weights and Measures (Food) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/187)](https://www.legislation.gov.uk/nisr/2016/187), [regs. 1](https://www.legislation.gov.uk/nisr/2016/187/regulation/1), [4](https://www.legislation.gov.uk/nisr/2016/187/regulation/4)
+[^c-2c55c104768f444d71fd76088e387ae7]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1981/231/article/2/2) inserted (18.4.2016) by [The Weights and Measures (Food) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/187)](https://www.legislation.gov.uk/nisr/2016/187), [regs. 1](https://www.legislation.gov.uk/nisr/2016/187/regulation/1), [4](https://www.legislation.gov.uk/nisr/2016/187/regulation/4)
 
 [^m00004]: Marginal citation: 1954 c.33
 

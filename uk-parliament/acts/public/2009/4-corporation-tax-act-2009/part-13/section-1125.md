@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1125. “Software , data licences, cloud computing services or consumable items”[^key-18fdfde2409a38d28960d46ee27255e1][^M_F_77920efa-e5cd-4523-9786-7315e9f4775b]
+## 1125. “Software , data licences, cloud computing services or consumable items”[^c-18fdfde2409a38d28960d46ee27255e1][^M_F_77920efa-e5cd-4523-9786-7315e9f4775b]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-18fdfde2409a38d28960d46ee27255e1]: Modification: S. 1125 applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(c)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/c) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
+[^c-18fdfde2409a38d28960d46ee27255e1]: Modification: S. 1125 applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(c)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/c) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
 
 [^M_F_77920efa-e5cd-4523-9786-7315e9f4775b]: Textual amendment: Words in s. 1125 heading inserted (with effect in relation to accounting periods beginning on or after 1.4.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 1 paras. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/3/3/a), [20](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/20)
 

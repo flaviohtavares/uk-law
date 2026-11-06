@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Changes to information and samples plans[^key-635b3fd3e61daa1f1f29096412070dc8]
+## 32. Changes to information and samples plans[^c-635b3fd3e61daa1f1f29096412070dc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ the reference to the responsible person in subsection (1) does not include that 
 
 ## Annotations
 
-[^key-635b3fd3e61daa1f1f29096412070dc8]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2016/20/section/32) in force at 21.10.2017 by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2)
+[^c-635b3fd3e61daa1f1f29096412070dc8]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2016/20/section/32) in force at 21.10.2017 by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2)

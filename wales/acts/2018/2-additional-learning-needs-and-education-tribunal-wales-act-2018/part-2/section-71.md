@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Decisions on appeals and applications under section 70[^key-07b3fa157c7798bdfd84b4e0ec0f6b1f]
+## 71. Decisions on appeals and applications under section 70[^c-07b3fa157c7798bdfd84b4e0ec0f6b1f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07b3fa157c7798bdfd84b4e0ec0f6b1f]: Commencement: S. 71 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(f)](https://www.legislation.gov.uk/wsi/2021/373/article/8/f)
+[^c-07b3fa157c7798bdfd84b4e0ec0f6b1f]: Commencement: S. 71 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(f)](https://www.legislation.gov.uk/wsi/2021/373/article/8/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Appeal on a point of law[^key-ed92a52a9bc2cf10e7b0c0a34fb1fb82]
+## 104. Appeal on a point of law[^c-ed92a52a9bc2cf10e7b0c0a34fb1fb82]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed92a52a9bc2cf10e7b0c0a34fb1fb82]: Textual amendment: S. 104 omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 81](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/81) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-ed92a52a9bc2cf10e7b0c0a34fb1fb82]: Textual amendment: S. 104 omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 81](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/81) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

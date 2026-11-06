@@ -50,7 +50,7 @@ summary: ''
 (1G) In paragraph (1F)—
 
 - “**automatic telling machine**” means a hereditament which is used only for the purposes of a machine which provides automatic telling and other services on behalf of a bank or building society;
-- “**relevant year**” means any year beginning on or after the commencement of Article 25 of the Rates (Amendment) (Northern Ireland) Order 2006 and ending before 1st April 2017[^key-b4111dbf8c6374a64a38e82a04dfffa4] or on such later date as the Department may by order made subject to affirmative resolution specify;
+- “**relevant year**” means any year beginning on or after the commencement of Article 25 of the Rates (Amendment) (Northern Ireland) Order 2006 and ending before 1st April 2017[^c-b4111dbf8c6374a64a38e82a04dfffa4] or on such later date as the Department may by order made subject to affirmative resolution specify;
 - “**rural area**” means a ward designated by the Department by order subject to negative resolution as a rural area for the purposes of paragraph (1F);
 - “**ward**” has the same meaning as it has for local government purposes.
 - *Para.(2) rep. by 1979 NI 4*
@@ -88,6 +88,6 @@ summary: ''
 
 [^c19632381]: Textual amendment: Art. 42(1F)(1G) inserted (1.4.2007) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [25](https://www.legislation.gov.uk/nisi/2006/2954/article/25); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(4)](https://www.legislation.gov.uk/nisr/2006/464/article/2/4)
 
-[^key-b4111dbf8c6374a64a38e82a04dfffa4]: Textual amendment: Art. 42(1G): dated specified (1.4.2016) by [The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2016 (S.R. 2016/17)](https://www.legislation.gov.uk/nisr/2016/17), [arts. 1](https://www.legislation.gov.uk/nisr/2016/17/article/1), [2](https://www.legislation.gov.uk/nisr/2016/17/article/2)
+[^c-b4111dbf8c6374a64a38e82a04dfffa4]: Textual amendment: Art. 42(1G): dated specified (1.4.2016) by [The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2016 (S.R. 2016/17)](https://www.legislation.gov.uk/nisr/2016/17), [arts. 1](https://www.legislation.gov.uk/nisr/2016/17/article/1), [2](https://www.legislation.gov.uk/nisr/2016/17/article/2)
 
 [^c19631491]: Textual amendment: Art. 42(2A)(2B) inserted (1.12.2006) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [15(2)](https://www.legislation.gov.uk/nisi/2006/2954/article/15/2); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2) Sch. 2

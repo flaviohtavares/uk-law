@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Revocation of nominations[^key-fadc946c2f6dc8a9749cd62dd3707a85]
+## 85. Revocation of nominations[^c-fadc946c2f6dc8a9749cd62dd3707a85]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ shall, subject to regulation 76 (saving for rights of third parties), be as vali
 
 ## Annotations
 
-[^key-fadc946c2f6dc8a9749cd62dd3707a85]: Commencement: Reg. 85 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-fadc946c2f6dc8a9749cd62dd3707a85]: Commencement: Reg. 85 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

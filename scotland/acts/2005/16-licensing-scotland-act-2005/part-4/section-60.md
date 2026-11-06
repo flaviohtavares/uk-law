@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Conditions of occasional licence[^key-31b8a25a313977146e2cefcdca0f13e2]
+## 60. Conditions of occasional licence[^c-31b8a25a313977146e2cefcdca0f13e2]
 
 *Extent: S*
 
@@ -24,8 +24,8 @@ summary: ''
 
 (2) The Scottish Ministers may by regulations modify schedule 4 so as—
 
-- (a) to add , delete or amend a condition[^key-40c8d68f4f9e192ab7b2df8c1e8ec178] as they consider necessary or expedient for the purposes of any of the licensing objectives, or
-- (b) to extend the application of any condition for the time being[^key-c25039ec31b1d7deafc9bc1c941eda9a] specified in the schedule.
+- (a) to add , delete or amend a condition[^c-40c8d68f4f9e192ab7b2df8c1e8ec178] as they consider necessary or expedient for the purposes of any of the licensing objectives, or
+- (b) to extend the application of any condition for the time being[^c-c25039ec31b1d7deafc9bc1c941eda9a] specified in the schedule.
 
 (3) The Scottish Ministers may by regulations prescribe further conditions as conditions which Licensing Boards may, at their discretion, impose on the granting by them of occasional licences.
 
@@ -54,8 +54,8 @@ include, in particular, conditions of the kind described in subsection (7).
 
 ## Annotations
 
-[^key-31b8a25a313977146e2cefcdca0f13e2]: Commencement: S. 60 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-31b8a25a313977146e2cefcdca0f13e2]: Commencement: S. 60 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-40c8d68f4f9e192ab7b2df8c1e8ec178]: Textual amendment: Words in s. 60(2)(a) substituted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 8(2)(a)](https://www.legislation.gov.uk/asp/2010/18/section/8/2/a), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-40c8d68f4f9e192ab7b2df8c1e8ec178]: Textual amendment: Words in s. 60(2)(a) substituted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 8(2)(a)](https://www.legislation.gov.uk/asp/2010/18/section/8/2/a), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-c25039ec31b1d7deafc9bc1c941eda9a]: Textual amendment: Words in s. 60(2)(b) inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 8(2)(b)](https://www.legislation.gov.uk/asp/2010/18/section/8/2/b), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-c25039ec31b1d7deafc9bc1c941eda9a]: Textual amendment: Words in s. 60(2)(b) inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 8(2)(b)](https://www.legislation.gov.uk/asp/2010/18/section/8/2/b), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)

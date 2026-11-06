@@ -50,9 +50,9 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 
 [^c24370031][^c24370041]The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of that Act and by section 56(1) and (2) of the Finance Act 1973 , with the consent of the Treasury .
 
-The Secretary of State has taken into account the selection criteria set out in Annex III to Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment [^c24370051].[^key-a9f8ce64ba91e763a93042c6d7270a82]
+The Secretary of State has taken into account the selection criteria set out in Annex III to Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment [^c24370051].[^c-a9f8ce64ba91e763a93042c6d7270a82]
 
-## 1. Citation, commencement and application[^key-de90823b23b9f543a0ad50dcc39a742a]
+## 1. Citation, commencement and application[^c-de90823b23b9f543a0ad50dcc39a742a]
 
 (1) These Regulations may be cited as the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 and come into force immediately before 11 p.m. on 31st December 2020.
 
@@ -73,7 +73,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 - (a) those to which the Marine Works (Environmental Impact Assessment) Regulations 2007 [^c24370081] apply, where the appropriate authority under those Regulations is a devolved authority or the Natural Resources Body for Wales;
 - (b) those to which the Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017 [^c24370091] apply.
 
-## 2. The 1999 Regulations and related legislation[^key-66fcd413f88d796cb02d0cdf7bb08a05]
+## 2. The 1999 Regulations and related legislation[^c-66fcd413f88d796cb02d0cdf7bb08a05]
 
 (1) In this regulation “**the 1999 Regulations**” means the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999 [^c24370101].
 
@@ -93,7 +93,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 - (e) regulation 10 of the Oil and Gas Authority (Levy) and Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2019 [^c24370171];
 - (f) regulation 11 of the Oil and Gas Authority (Levy and Fees) and Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2020 [^c24370181].
 
-## 3. Interpretation[^key-6d16f3995b26752810035caae1c35552]
+## 3. Interpretation[^c-6d16f3995b26752810035caae1c35552]
 
 (1) In these Regulations—
 
@@ -122,7 +122,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 (2) References in these Regulations to a project being in a particular area include a project proposed to be carried out in that area, a project which is in the course of being carried out in that area and a project which has been carried out in that area.
 
-## 4. Requirement for Consent[^key-40ba3d7c46b0ac373492440e229f44ee]
+## 4. Requirement for Consent[^c-40ba3d7c46b0ac373492440e229f44ee]
 
 (1) A developer must not commence a project without the Secretary of State's agreement to the OGA's grant of consent and the consent of the OGA.
 
@@ -140,7 +140,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 - (a) consider whether there are appropriate existing monitoring arrangements under legislation aside from these Regulations that make the imposition of a monitoring condition unnecessary;
 - (b) take steps to ensure that the parameters to be monitored and the duration of the monitoring are proportionate to the nature, location and size of the project and the significance of its effects on the environment.
 
-## 5. Requirement for an Environmental Impact Assessment[^key-5955de9c42060a7bb1ec81ea2dc4f92e]
+## 5. Requirement for an Environmental Impact Assessment[^c-5955de9c42060a7bb1ec81ea2dc4f92e]
 
 (1) Projects that fall under Schedule 1 require an environmental impact assessment, and regulations 8 to 16 apply.
 
@@ -155,7 +155,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 (5) Where a project requires both an environmental impact assessment under these Regulations and an assessment under either regulation 5 of the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001 [^c24370191] or regulation 28 of the Conservation of Offshore Marine Habitats and Species Regulations 2017 [^c24370201], the Secretary of State must ensure that the preparation of those assessments is coordinated where appropriate.
 
-## 6. Requirement for a screening direction[^key-66fb9a1122a17afddc995d10d1858acc]
+## 6. Requirement for a screening direction[^c-66fb9a1122a17afddc995d10d1858acc]
 
 (1) Where a project requires a screening direction under regulation 5(2), the developer's application for a screening direction —
 
@@ -168,7 +168,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 - (a) the information provided by the developer;
 - (b) the matters listed in Schedule 5 (matters to be taken into account in deciding whether a project is likely to have a significant effect on the environment);
-- (c) the results of any preliminary verifications or assessments of the effects on the environment of the project carried out pursuant to assimilated[^key-98501489110414821ceb66a01c327ee5] law other than any law that implemented the EIA Directive;
+- (c) the results of any preliminary verifications or assessments of the effects on the environment of the project carried out pursuant to assimilated[^c-98501489110414821ceb66a01c327ee5] law other than any law that implemented the EIA Directive;
 - (d) any conditions that the Secretary of State may attach to the agreement to the grant of consent pursuant to regulation 4(4).
 
 (4) The screening direction must state—
@@ -187,7 +187,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 (8) The Secretary of State must promptly make the screening direction available on a public website.
 
-## 7. Decision that no environmental impact assessment is required, without a screening direction[^key-d6324383494f2fb282b7735b81b6e106]
+## 7. Decision that no environmental impact assessment is required, without a screening direction[^c-d6324383494f2fb282b7735b81b6e106]
 
 (1) For a project that falls under Schedule 3, an application for a screening direction is not required, but the developer must provide any information that the Secretary of State requires in relation to the project.
 
@@ -202,7 +202,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 - (a) that the Secretary of State agrees to the grant of consent for the project;
 - (b) any conditions that the Secretary of State attaches to the agreement to the grant of consent pursuant to regulation 4(4).
 
-## 8. Environmental Statement Requirements[^key-e6a8354437aecf749c47ad517e38e9f0]
+## 8. Environmental Statement Requirements[^c-e6a8354437aecf749c47ad517e38e9f0]
 
 (1) Where a project is subject to an environmental impact assessment, the developer must submit an environmental statement containing the information listed in Schedule 6, as relevant.
 
@@ -213,7 +213,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 - (a) the environmental statement is prepared by competent experts;
 - (b) the environmental statement is accompanied by a statement from the developer outlining the relevant expertise or qualifications of such experts.
 
-## 9. Scoping opinion for an environmental statement[^key-b93ea9d14a8a82608ab753de09b1f487]
+## 9. Scoping opinion for an environmental statement[^c-b93ea9d14a8a82608ab753de09b1f487]
 
 (1) Where a project is subject to an environmental impact assessment, the developer may apply to the Secretary of State for an opinion on the scope and level of detail to be included in the environmental statement (the “scoping opinion”).
 
@@ -238,7 +238,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 (7) Where the Secretary of State has provided a scoping opinion to the developer the environmental statement must be based on the scoping opinion.
 
-## 10. Obtaining information for preparing the environmental statement[^key-1eef443bc51828ff4ec40fe9a0a22c22]
+## 10. Obtaining information for preparing the environmental statement[^c-1eef443bc51828ff4ec40fe9a0a22c22]
 
 (1) A developer may apply to the Secretary of State to request information regarding a project that is subject to an environmental impact assessment where that information—
 
@@ -265,7 +265,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 (5) Where a notice is served on an authority pursuant to paragraph (4), the authority must promptly provide the developer with any information held by it which falls within scope of the developer's application.
 
-## 11. Public Consultation Requirements - United Kingdom[^key-fc0f28b45b810129d02b1ce8372e12b7]
+## 11. Public Consultation Requirements - United Kingdom[^c-fc0f28b45b810129d02b1ce8372e12b7]
 
 (1) Where the Secretary of State receives an environmental statement for a project from a developer, the Secretary of State must promptly serve a notice on the developer which specifies the authorities that the Secretary of State considers would be likely to be interested in the project due to their particular environmental responsibilities or local or regional competence.
 
@@ -303,7 +303,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 (8) Following receipt of the notice pursuant to paragraph (7), the Secretary of State must promptly publish the notice, the environmental statement, and the summary of the project on a public website.
 
-## 12. Provision of further information and related public consultation requirements[^key-8deeb96f719e3d8e767b15491e53a1ad]
+## 12. Provision of further information and related public consultation requirements[^c-8deeb96f719e3d8e767b15491e53a1ad]
 
 (1) Following receipt of an environmental statement from a developer, the Secretary of State may by notice require a developer to provide further information.
 
@@ -349,7 +349,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 (10) Following receipt of the notice pursuant to paragraph (9), the Secretary of State must promptly publish the notice and the further information on the same website as the Secretary of State published the documents referred to under regulation 11(8).
 
-## 13. Consultation Requirements – other countries[^key-5c76443f95eac2cdab095439dd947388]
+## 13. Consultation Requirements – other countries[^c-5c76443f95eac2cdab095439dd947388]
 
 (1) This regulation applies where a project is subject to an environmental impact assessment and—
 
@@ -378,7 +378,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 (6) Following the OGA's decision on whether to grant consent under regulation 15, the Secretary of State must provide the notice specified in regulation 16 (notice of consent decisions) to the country.
 
-## 14. Secretary of State decision on whether to agree to the grant of consent[^key-86224c7f62d037d7819621994d4a0ec9]
+## 14. Secretary of State decision on whether to agree to the grant of consent[^c-86224c7f62d037d7819621994d4a0ec9]
 
 (1) When making a decision as to whether to agree to the grant of consent for a project that is subject to an environmental impact assessment, the Secretary of State must reach a conclusion on the significant effects of the project on the environment.
 
@@ -401,7 +401,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 (6) The Secretary of State's decision on whether or not to agree to the grant of consent must be made within a reasonable time from the date on which the Secretary of State has been provided with the information and representations referred to in paragraph (2), taking into account the nature and complexity of the project.
 
-## 15. OGA decision on whether to grant consent[^key-9601afebf0863c7694db38a544d60850]
+## 15. OGA decision on whether to grant consent[^c-9601afebf0863c7694db38a544d60850]
 
 (1) For projects that are subject to an environmental impact assessment, the OGA must—
 
@@ -414,7 +414,7 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 (4) Where the Secretary of State has agreed to the grant of consent, but the OGA has not granted consent, the OGA must give reasons for its decision in its notification.
 
-## 16. Publication of Secretary of State and OGA decisions[^key-4ec5b9a407a4f845b4aaba471758e33d]
+## 16. Publication of Secretary of State and OGA decisions[^c-4ec5b9a407a4f845b4aaba471758e33d]
 
 (1) Following the OGA's notification to the developer under regulation 15, the Secretary of State must promptly publish a notice containing the information in paragraphs (2) and (3) on a public website.
 
@@ -433,14 +433,14 @@ The Secretary of State has taken into account the selection criteria set out in 
 
 (4) The Secretary of State must promptly provide a copy of the notice to those authorities specified in regulation 11(1) (authorities likely to be interested).
 
-## 17. Exempt projects – defence and civil emergencies[^key-0a73c128f67f9cfe96a6bc0a63c84af6]
+## 17. Exempt projects – defence and civil emergencies[^c-0a73c128f67f9cfe96a6bc0a63c84af6]
 
 The Secretary of State may direct a developer that these Regulations do not apply in relation to a project if—
 
 - (a) the project has defence or the response to a civil emergency as its sole purpose; and
 - (b) the Secretary of State considers that compliance with these Regulations would have an adverse effect on that purpose.
 
-## 18. Exempt projects – adverse effect on the project purpose[^key-a9e1a110118db6eeebeca8c72e395f3a]
+## 18. Exempt projects – adverse effect on the project purpose[^c-a9e1a110118db6eeebeca8c72e395f3a]
 
 (1) The Secretary of State may, in exceptional cases, direct that a project is exempt in whole or in part from the requirements of these Regulations if the application of all or some of the provisions of these Regulations would adversely affect the purpose of the project.
 
@@ -458,7 +458,7 @@ The Secretary of State may direct a developer that these Regulations do not appl
 
 (5) Following any required consultations, and after the developer has complied with all requirements specified by the Secretary of State in the direction, the Secretary of State must notify the developer regarding whether the Secretary of State agrees to the grant of consent.
 
-## 19. UK participation in overseas projects[^key-8d2cacfecf08292b43c957f3fe695962]
+## 19. UK participation in overseas projects[^c-8d2cacfecf08292b43c957f3fe695962]
 
 (1) This regulation applies where the Secretary of State receives information on a proposed overseas project and the Secretary of State considers that the overseas project is likely to have significant effects on the environment of the relevant UK area.
 
@@ -494,11 +494,11 @@ The Secretary of State may direct a developer that these Regulations do not appl
 
   and includes related works.
 
-## 20. Confidentiality[^key-aa0445a6446fb723c3fdd4ac4b88d0c2]
+## 20. Confidentiality[^c-aa0445a6446fb723c3fdd4ac4b88d0c2]
 
 Nothing in these Regulations requires the disclosure of information which is subject to an obligation of confidentiality by virtue of any law of any part of the United Kingdom.
 
-## 21. Provision of Documents[^key-5f2892d44f2c6b26b73bcd8bfab012d9]
+## 21. Provision of Documents[^c-5f2892d44f2c6b26b73bcd8bfab012d9]
 
 Any information, application, decision, notice, notification, direction, or any other document may be provided to a person pursuant to these Regulations by—
 
@@ -508,7 +508,7 @@ Any information, application, decision, notice, notification, direction, or any 
   - (ii) the person's principal office in the United Kingdom; or
   - (iii) another address in the United Kingdom specified by the person as the address for service.
 
-## 22. Fees[^key-f66dd8219de9b81efcac234a11cb09f3]
+## 22. Fees[^c-f66dd8219de9b81efcac234a11cb09f3]
 
 (1) The Secretary of State may charge fees in respect of the following—
 
@@ -575,11 +575,11 @@ where—
 
 A is the number of hours’ work carried out by specialist officers;
 
-B is £256[^key-37e161e32d2a6f8f471ca1af89f807dd];
+B is £256[^c-37e161e32d2a6f8f471ca1af89f807dd];
 
 C is the number of hours’ work carried out by non-specialist officers;
 
-D is £130[^key-1d33a6bcfd3d895aef8482081cc5d546].
+D is £130[^c-1d33a6bcfd3d895aef8482081cc5d546].
 
 (3) For the purposes of paragraph (2), the number of hours’ work may be expressed as a fraction where—
 
@@ -590,7 +590,7 @@ D is £130[^key-1d33a6bcfd3d895aef8482081cc5d546].
 
 (5) In this regulation, “**specialist officers**” means persons engaged on behalf of the Secretary of State to carry out the functions of the Secretary of State referred to in paragraph (1) and “**non-specialist officers**” means any other persons engaged on behalf of the Secretary of State to provide administrative support to those specialist officers.
 
-## 23. Inspection and investigation[^key-095a1a0c16de29bc7ec45073f99922d3]
+## 23. Inspection and investigation[^c-095a1a0c16de29bc7ec45073f99922d3]
 
 (1) The Secretary of State may appoint inspectors to monitor compliance with these Regulations and any conditions attached to the Secretary of State's agreement to the grant of consent.
 
@@ -610,7 +610,7 @@ D is £130[^key-1d33a6bcfd3d895aef8482081cc5d546].
 
 (4) An inspector may be required to produce evidence of appointment by any person involved in the investigation when the inspector purports to carry out functions under this regulation.
 
-## 24. Application to court by Secretary of State[^key-488cfbbf7df27f17601dad7989d134c1]
+## 24. Application to court by Secretary of State[^c-488cfbbf7df27f17601dad7989d134c1]
 
 (1) The Secretary of State may apply to the court where a developer is carrying out, or has carried out, a project —
 
@@ -645,7 +645,7 @@ D is £130[^key-1d33a6bcfd3d895aef8482081cc5d546].
 
 (7) Where a project is situated in more than one of the areas referred to in paragraph (6)(b), any of the courts having jurisdiction in those areas has jurisdiction in relation to any question arising under this regulation.
 
-## 25. Offences[^key-0bf07cb2feacec399864048e269cf85f]
+## 25. Offences[^c-0bf07cb2feacec399864048e269cf85f]
 
 (1) Subject to paragraph (4), a person is guilty of an offence where the person—
 
@@ -696,7 +696,7 @@ D is £130[^key-1d33a6bcfd3d895aef8482081cc5d546].
 
 (12) In this regulation, “**officer**” means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate, or any person purporting to act in such capacity.
 
-## 26. Revocation[^key-599c48217f9be2719bcca4c42c292eef]
+## 26. Revocation[^c-599c48217f9be2719bcca4c42c292eef]
 
 (1) The Secretary of State may revoke the agreement to the grant of consent for a project where the Secretary of State considers that—
 
@@ -709,7 +709,7 @@ D is £130[^key-1d33a6bcfd3d895aef8482081cc5d546].
 
 (4) “**Relevant information**” has the meaning given in regulation 25(2).
 
-## 27. Amendments to the Offshore Environmental Civil Sanctions Regulations 2018[^key-33afcff19cc9a5b34cebf6211226cd39]
+## 27. Amendments to the Offshore Environmental Civil Sanctions Regulations 2018[^c-33afcff19cc9a5b34cebf6211226cd39]
 
 (1) The Offshore Environmental Civil Sanctions Regulations 2018 [^c24370241] are amended as follows.
 
@@ -736,11 +736,11 @@ D is £130[^key-1d33a6bcfd3d895aef8482081cc5d546].
 
 .
 
-## 28. Consequential Amendments[^key-eedf080580409bc4ca8296a5458859ff]
+## 28. Consequential Amendments[^c-eedf080580409bc4ca8296a5458859ff]
 
 Schedule 7 (consequential amendments) has effect.
 
-## 29. Transitional and Saving Provisions relating to the 1999 Regulations[^key-aad539c112f1871259fb653bb693d30c]
+## 29. Transitional and Saving Provisions relating to the 1999 Regulations[^c-aad539c112f1871259fb653bb693d30c]
 
 (1) The 1999 Regulations apply only for the purposes specified in this regulation, with the modifications specified in this regulation.
 
@@ -778,7 +778,7 @@ Schedule 7 (consequential amendments) has effect.
 
 (7) Where the Secretary of State is exercising any functions under the 1999 Regulations in accordance with this regulation, regulation 17A of the 1999 Regulations applies, rather than regulation 22 of these Regulations (fees), except that regulation 22(2) of these Regulations applies to determine the rate charged.
 
-## 30. Review[^key-f17779ef230a4651da91d3e8d431ff89]
+## 30. Review[^c-f17779ef230a4651da91d3e8d431ff89]
 
 (1) The Secretary of State must from time to time—
 
@@ -814,28 +814,28 @@ SCHEDULES
 
 Regulations 3, 5 and 19 and Schedule 2
 
-**1.**[^key-b77888d06595dce29a91d51e27b5d613] Extraction of oil and natural gas for commercial purposes where the amount extracted exceeds 500 tonnes per day in the case of oil and 500,000 cubic metres per day in the case of natural gas.
+**1.**[^c-b77888d06595dce29a91d51e27b5d613] Extraction of oil and natural gas for commercial purposes where the amount extracted exceeds 500 tonnes per day in the case of oil and 500,000 cubic metres per day in the case of natural gas.
 
-**2.**[^key-1283054d14afa308ed62a43eea44ee4a] Installations for storage of oil with a capacity of 200,000 tonnes or more.
+**2.**[^c-1283054d14afa308ed62a43eea44ee4a] Installations for storage of oil with a capacity of 200,000 tonnes or more.
 
-**3.**[^key-21cf99577ef4a5e77a8fd333f143a2fa] Activities captured by section 17(2)(a) or (b) of the Energy Act 2008 (activities related to the geological storage of carbon dioxide).
+**3.**[^c-21cf99577ef4a5e77a8fd333f143a2fa] Activities captured by section 17(2)(a) or (b) of the Energy Act 2008 (activities related to the geological storage of carbon dioxide).
 
-**4.**[^key-9d561ba6cf3ae87a74fde7a532a32d3e] Installations for the capture of carbon dioxide streams for the purposes of geological storage of carbon dioxide where—
+**4.**[^c-9d561ba6cf3ae87a74fde7a532a32d3e] Installations for the capture of carbon dioxide streams for the purposes of geological storage of carbon dioxide where—
 
 - (a) the carbon dioxide is captured from an installation forming part of a project that falls under paragraph 1; or
 - (b) the total yearly capture of carbon dioxide is 1.5 megatonnes or more.
 
-**5.**[^key-bbd4728cd1f44378fddfa9e723513f39] Pipelines with a diameter of more than 800 mm and a length of more than 40 km for the transport of oil, combustible gas or chemicals.
+**5.**[^c-bbd4728cd1f44378fddfa9e723513f39] Pipelines with a diameter of more than 800 mm and a length of more than 40 km for the transport of oil, combustible gas or chemicals.
 
-**6.**[^key-0033473001270958095c2225282d0245] Pipelines with a diameter of more than 800 mm and a length of more than 40 km for the transport of carbon dioxide streams for the purposes of geological storage of carbon dioxide.
+**6.**[^c-0033473001270958095c2225282d0245] Pipelines with a diameter of more than 800 mm and a length of more than 40 km for the transport of carbon dioxide streams for the purposes of geological storage of carbon dioxide.
 
-**7.**[^key-704928289af443d1af39b8bd57775dde] A change to a project that falls under this Schedule where such a change in itself meets the thresholds, if any, listed in this Schedule.
+**7.**[^c-704928289af443d1af39b8bd57775dde] A change to a project that falls under this Schedule where such a change in itself meets the thresholds, if any, listed in this Schedule.
 
 ## SCHEDULE 2 — Requirement for a screening direction where the definition of “project” applies
 
 Regulations 3, 5 and 19
 
-**1.**[^key-132ef6337539a95a9a783fdfb6406309] (1) Subject to sub-paragraph (2), drilling a well or borehole for the purpose of—
+**1.**[^c-132ef6337539a95a9a783fdfb6406309] (1) Subject to sub-paragraph (2), drilling a well or borehole for the purpose of—
 
 - (a) exploring for oil or natural gas, establishing the existence of oil or natural gas, appraising the quantity, characteristics, or quality of oil or natural gas, or getting oil or natural gas; or
 - (b) activities within section 2(3) or section 17(2) of the Energy Act 2008 (activities related to unloading or storage of combustible gas or the geological storage of carbon dioxide).
@@ -845,33 +845,33 @@ Regulations 3, 5 and 19
 - (a) a well or borehole drilled to a depth of 350 metres or less below the surface of the seabed for the purpose of obtaining geological information about strata; or
 - (b) a drilling operation where the main purpose is the testing of the stability of the seabed.
 
-**2.**[^key-055a8952460f8c832c563d65f53cac28] Surface installations for the extraction of oil or natural gas.
+**2.**[^c-055a8952460f8c832c563d65f53cac28] Surface installations for the extraction of oil or natural gas.
 
-**3.**[^key-dc2cf5e4858efbd6f3e5a2b38cadf7ee] Extraction of oil or natural gas for commercial purposes where the amount extracted is equal to or less than 500 tonnes per day in the case of oil and equal to or less than 500,000 cubic metres per day in the case of natural gas.
+**3.**[^c-dc2cf5e4858efbd6f3e5a2b38cadf7ee] Extraction of oil or natural gas for commercial purposes where the amount extracted is equal to or less than 500 tonnes per day in the case of oil and equal to or less than 500,000 cubic metres per day in the case of natural gas.
 
-**4.**[^key-40d857cd4270cddaf2840f0c9f08528d] Installations for storage of oil with a capacity of less than 200,000 tonnes.
+**4.**[^c-40d857cd4270cddaf2840f0c9f08528d] Installations for storage of oil with a capacity of less than 200,000 tonnes.
 
-**5.**[^key-54c0a5b885c4cd49fec8e44a90975e77] Activities captured by section 2(3)(a) to (d) of the Energy Act 2008 (activities related to the unloading or storage of combustible gas).
+**5.**[^c-54c0a5b885c4cd49fec8e44a90975e77] Activities captured by section 2(3)(a) to (d) of the Energy Act 2008 (activities related to the unloading or storage of combustible gas).
 
-**6.**[^key-791db13a46eda45ff1a464cc559a7195] Installations for the capture of carbon dioxide streams for the purposes of geological storage of carbon dioxide where—
+**6.**[^c-791db13a46eda45ff1a464cc559a7195] Installations for the capture of carbon dioxide streams for the purposes of geological storage of carbon dioxide where—
 
 - (a) the carbon dioxide is captured from an installation forming part of a project under paragraph (3); and
 - (b) the total yearly capture of carbon dioxide is less than 1.5 megatonnes.
 
-**7.**[^key-8526dea2998c320707e0dc137d482f62] Pipelines that are—
+**7.**[^c-8526dea2998c320707e0dc137d482f62] Pipelines that are—
 
 - (a) for the transport of oil, combustible gas, or chemicals, or for the transport of carbon dioxide streams for the purposes of geological storage of carbon dioxide; and
 - (b) do not fall under paragraphs 5 or 6 of Schedule 1 or Schedule 3.
 
-**8.**[^key-f728cd86ffb1371d6adb3e37b9f4b392] A change to a project that falls under Schedule 1, except a change to which paragraph 7 of Schedule 1 applies.
+**8.**[^c-f728cd86ffb1371d6adb3e37b9f4b392] A change to a project that falls under Schedule 1, except a change to which paragraph 7 of Schedule 1 applies.
 
-**9.**[^key-8a294815bbaf65afa55aac4b9d76ac22] A change to a project that falls under this Schedule.
+**9.**[^c-8a294815bbaf65afa55aac4b9d76ac22] A change to a project that falls under this Schedule.
 
-## SCHEDULE 3 — Secretary of State to decide if an environmental impact assessment is required, without a screening direction application where the definition of “project” applies[^key-6b4de38ec99146ab9b9c5282596a239b]
+## SCHEDULE 3 — Secretary of State to decide if an environmental impact assessment is required, without a screening direction application where the definition of “project” applies[^c-6b4de38ec99146ab9b9c5282596a239b]
 
 Regulations 3, 5, 7 and 19 and Schedule 2
 
-[^key-6b4de38ec99146ab9b9c5282596a239b]
+[^c-6b4de38ec99146ab9b9c5282596a239b]
 
 The construction of a pipeline for the transport of oil, combustible gas, or chemicals, or for the transport of carbon dioxide streams for the purposes of geological storage of carbon dioxide, or the maintenance, repair, replacement, protection or extension of an existing pipeline constructed for those purposes where no part of the pipeline or related works would extend more than 500 metres from a well or any part of an installation to which that pipeline would be directly or indirectly attached.
 
@@ -879,9 +879,9 @@ The construction of a pipeline for the transport of oil, combustible gas, or che
 
 Regulation 6
 
-**1.**[^key-531ac98e0a7af339c59fe7171aad844f] The name and address of the developer.
+**1.**[^c-531ac98e0a7af339c59fe7171aad844f] The name and address of the developer.
 
-**2.**[^key-f675cdca78072805b5fe6f4d58b446d7] A description of the project, including—
+**2.**[^c-f675cdca78072805b5fe6f4d58b446d7] A description of the project, including—
 
 - (a) the physical characteristics of the project, and of any demolition works necessary to implement the project;
 - (b) the location of the project, with particular regard to the environmental sensitivity of the geographical areas likely to be affected by the project;
@@ -890,16 +890,16 @@ Regulation 6
   - (i) the expected residues and emissions and the production of waste, where relevant;
   - (ii) the use of natural resources, in particular soil, land, water and biodiversity.
 
-**3.**[^key-6fd9fdef910e3eb94356c6485286f79f] The description of the project must take into account—
+**3.**[^c-6fd9fdef910e3eb94356c6485286f79f] The description of the project must take into account—
 
 - (a) the matters listed in Schedule 5 (matters to be taken into account in deciding whether a project is likely to have a significant effect on the environment);
-- (b) where relevant, the results of other assessments of the effects on the environment carried out pursuant to assimilated[^key-c6555d48297461e28d7234604a4011bf] law other than any law that implemented the EIA Directive.
+- (b) where relevant, the results of other assessments of the effects on the environment carried out pursuant to assimilated[^c-c6555d48297461e28d7234604a4011bf] law other than any law that implemented the EIA Directive.
 
 ## SCHEDULE 5 — Matters to be taken into account in deciding whether a project is likely to have a significant effect on the environment
 
 Regulations 6 and 7 and Schedule 4
 
-### 1. Characteristics of the project[^key-ca254c6d195fa0fc1232f6d9d753ec6a]
+### 1. Characteristics of the project[^c-ca254c6d195fa0fc1232f6d9d753ec6a]
 
 The characteristics of the project having regard, in particular, to—
 
@@ -911,7 +911,7 @@ The characteristics of the project having regard, in particular, to—
 - (f) the risk of major accidents or disasters, including those caused by climate change, in accordance with scientific knowledge;
 - (g) the risks to human health (for example, due to water contamination or air pollution).
 
-### 2. Location of the project[^key-5b2d783e996f2b8e903ff06092be9e96]
+### 2. Location of the project[^c-5b2d783e996f2b8e903ff06092be9e96]
 
 The environmental sensitivity of geographical areas likely to be affected by the project, with particular regard to—
 
@@ -923,11 +923,11 @@ The environmental sensitivity of geographical areas likely to be affected by the
   - (iii) mountain and forest areas;
   - (iv) nature reserves and parks;
   - (v) areas classified or protected under national legislation*,* or Natura 2000 as defined in regulation 3(1) of the Conservation of Habitats and Species Regulations 2017 [^c24370251];
-  - (vi) areas in which there has been a failure to meet the environmental quality standards laid down in assimilated[^key-4eff21430641bc138019aee585d2b7f8] law, or in which it is considered that there is such a failure;
+  - (vi) areas in which there has been a failure to meet the environmental quality standards laid down in assimilated[^c-4eff21430641bc138019aee585d2b7f8] law, or in which it is considered that there is such a failure;
   - (vii) densely populated areas;
   - (viii) landscapes and sites of historical, cultural or archaeological significance.
 
-### 3. Type and characteristics of the potential impact[^key-7200ae9d88df68570c02e3d1293885a0]
+### 3. Type and characteristics of the potential impact[^c-7200ae9d88df68570c02e3d1293885a0]
 
 The likely significant effects of the project on the environment in relation to the matters listed under paragraphs 1 and 2—
 
@@ -951,18 +951,18 @@ The likely significant effects of the project on the environment in relation to 
 
 Regulation 8
 
-**1.**[^key-8ad3de1830887f2c10fd1f185ddc4d9f] A description of the project comprising information on the site, design, size and other relevant features of the project including—
+**1.**[^c-8ad3de1830887f2c10fd1f185ddc4d9f] A description of the project comprising information on the site, design, size and other relevant features of the project including—
 
 - (a) a description of the location of the project;
 - (b) a description of the physical characteristics of the project, including any demolition works necessary to implement the project, and the land-use requirements during the construction and operational phases;
 - (c) a description of the main characteristics of the operational phase of the project, in particular any production process, which must cover energy demand and energy used, and nature and quantity of the materials and natural resources used (including water, land, soil and biodiversity);
 - (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat and radiation) and quantities and types of waste produced during the construction and operation phases.
 
-**2.**[^key-a36e78f839403c9b0eb27895a97ad9ea] A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the developer and an indication of the main reasons for the option chosen, taking into account the effects of the project on the environment and including a comparison of environmental effects.
+**2.**[^c-a36e78f839403c9b0eb27895a97ad9ea] A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the developer and an indication of the main reasons for the option chosen, taking into account the effects of the project on the environment and including a comparison of environmental effects.
 
-**3.**[^key-a88aecd9206be879f3cb6d809e2a6c9a] A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of its likely evolution without implementation of the project as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+**3.**[^c-a88aecd9206be879f3cb6d809e2a6c9a] A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of its likely evolution without implementation of the project as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
 
-**4.**[^key-19124cd30db39e14c91648bc06d280d5] An assessment of the likely significant effects of the project on the environment, including those resulting from—
+**4.**[^c-19124cd30db39e14c91648bc06d280d5] An assessment of the likely significant effects of the project on the environment, including those resulting from—
 
 - (a) the construction and existence of the project, including any demolition works necessary to implement the project;
 - (b) the use of natural resources, in particular land, soil, water and biodiversity, considering the sustainable availability of these resources;
@@ -972,7 +972,7 @@ Regulation 8
 - (f) the impact of the project on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the project to climate change;
 - (g) the technologies and the substances used.
 
-**5.**[^key-e688a25e7fa6b83aa3402b3a4d04d399] The assessment under paragraph 4 must—
+**5.**[^c-e688a25e7fa6b83aa3402b3a4d04d399] The assessment under paragraph 4 must—
 
 - (a) cover the likely significant effects on—
   - (i) population and human health;
@@ -982,30 +982,30 @@ Regulation 8
   - (v) the interaction between the factors referred to in paragraphs (i) to (iv);
 - (b) cover the direct effects and any indirect, secondary, cumulative, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the project, including any effects on the environment in other countries;
 - (c) cover the expected effects deriving from the vulnerability of the project to risks of major accidents or disasters;
-- (d) take into account environmental protection objectives established in assimilated[^key-0bededae677d93229a4504ae4b200bc5] law or at national level.
+- (d) take into account environmental protection objectives established in assimilated[^c-0bededae677d93229a4504ae4b200bc5] law or at national level.
 
-**6.**[^key-ff0afc3d5bcb805e8bb5febd673d8fcb] A description of the features of the project or measures envisaged in order to avoid, prevent, reduce or offset likely significant adverse effects on the environment that—
+**6.**[^c-ff0afc3d5bcb805e8bb5febd673d8fcb] A description of the features of the project or measures envisaged in order to avoid, prevent, reduce or offset likely significant adverse effects on the environment that—
 
 - (a) explains the extent to which significant adverse effects on the environment are avoided, prevented, reduced or offset;
 - (b) covers both the construction and operational phases;
 - (c) includes any proposed monitoring arrangements (for example the preparation of a post-project analysis);
 - (d) describes measures envisaged to prevent or mitigate the significant adverse effects of major accidents or disasters on the environment and details of the preparedness for and proposed response to such emergencies.
 
-**7.**[^key-119a237aab6ec85fcdbee5486a00a56d] A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+**7.**[^c-119a237aab6ec85fcdbee5486a00a56d] A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
 
-**8.**[^key-4fd34122efec893226eeb3362e803dbf] A non-technical summary of the information provided under paragraphs 1 to 7.
+**8.**[^c-4fd34122efec893226eeb3362e803dbf] A non-technical summary of the information provided under paragraphs 1 to 7.
 
-**9.**[^key-46598f77ae286e7f9b8b0b337b38245c] A reference list detailing the sources used for the descriptions and assessments included in the environmental statement.
+**9.**[^c-46598f77ae286e7f9b8b0b337b38245c] A reference list detailing the sources used for the descriptions and assessments included in the environmental statement.
 
 ## SCHEDULE 7 — Consequential Amendments
 
 Regulation 28
 
-### 1. Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^key-3e75a8a0cfd21b6a4706521423a0b668]
+### 1. Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^c-3e75a8a0cfd21b6a4706521423a0b668]
 
 In regulation 4(3)(b) of the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001 [^c24370281], after “Regulations 1999” insert “ or the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 ”.
 
-### 2. Offshore Chemicals Regulations 2002[^key-00b86227cc65ccedcfe1082fe713bede]
+### 2. Offshore Chemicals Regulations 2002[^c-00b86227cc65ccedcfe1082fe713bede]
 
 (1) The Offshore Chemicals Regulations 2002 [^c24370291] are amended as follows.
 
@@ -1017,7 +1017,7 @@ In regulation 4(3)(b) of the Offshore Petroleum Activities (Conservation of Habi
 
 .
 
-### 3. Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^key-6891ea58fb0eadd79e3f9434c0bd2fed]
+### 3. Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^c-6891ea58fb0eadd79e3f9434c0bd2fed]
 
 In regulation 5A(5) of the Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 [^c24370301], for paragraph (a) substitute—
 
@@ -1025,15 +1025,15 @@ In regulation 5A(5) of the Offshore Petroleum Activities (Oil Pollution Preventi
 
 .
 
-### 4. Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010[^key-7993112bea789c38408dfd32b3ec9260]
+### 4. Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010[^c-7993112bea789c38408dfd32b3ec9260]
 
 In article 3(5) of the Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 [^c24370311], after “Regulations 1999”, insert “ or the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 ”.
 
-### 5. Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013[^key-34a7a5085b37f6008f5a97c1f379f8d0]
+### 5. Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013[^c-34a7a5085b37f6008f5a97c1f379f8d0]
 
 In regulation 4(5) of the Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013 [^c24370321], for “Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999”, substitute “ Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 ”.
 
-### 6. Conservation of Offshore Marine Habitats and Species Regulations 2017[^key-e2276af1158a5ccbf2e938a79d48bb9f]
+### 6. Conservation of Offshore Marine Habitats and Species Regulations 2017[^c-e2276af1158a5ccbf2e938a79d48bb9f]
 
 (1) The Conservation of Offshore Marine Habitats and Species Regulations 2017 [^c24370331] are amended as follows.
 
@@ -1077,9 +1077,9 @@ A transposition note setting out how these Regulations implement Directive 2011/
 
 [^c24370051]: Marginal citation: O.J. L 26, 28.1.2012, p. 1. The Directive was amended by Directive 2014/52/EU, O.J. L 124, 25.4.2014, p. 1.
 
-[^key-a9f8ce64ba91e763a93042c6d7270a82]: Modification: Regulations power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-a9f8ce64ba91e763a93042c6d7270a82]: Modification: Regulations power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-de90823b23b9f543a0ad50dcc39a742a]: Commencement: Reg. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-de90823b23b9f543a0ad50dcc39a742a]: Commencement: Reg. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370061]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) of the Act was amended by paragraph 1 of Schedule 3 to the [Oil and Gas (Enterprise) Act 1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23); and by section 103 of the [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16).
 
@@ -1089,7 +1089,7 @@ A transposition note setting out how these Regulations implement Directive 2011/
 
 [^c24370091]: Marginal citation: [S.I. 2017/115](https://www.legislation.gov.uk/uksi/2017/115). Amended by [S.I. 2017/168](https://www.legislation.gov.uk/uksi/2017/168), [S.I](https://www.legislation.gov.uk/uksi/2017/168/section/I). 2017/1013, [S.I. 2019/55](https://www.legislation.gov.uk/uksi/2019/55) and [S.I. 2020/157](https://www.legislation.gov.uk/uksi/2020/157).
 
-[^key-66fcd413f88d796cb02d0cdf7bb08a05]: Commencement: Reg. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-66fcd413f88d796cb02d0cdf7bb08a05]: Commencement: Reg. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370101]: Marginal citation: [S.I. 1999/360](https://www.legislation.gov.uk/uksi/1999/360). Relevant amending instruments are [S.I. 2007/933](https://www.legislation.gov.uk/uksi/2007/933), [S.I](https://www.legislation.gov.uk/uksi/2007/933/section/I). 2015/1431, [S.I. 2016/529](https://www.legislation.gov.uk/uksi/2016/529), [S.I](https://www.legislation.gov.uk/uksi/2016/529/section/I). 2016/912, [S.I. 2017/582](https://www.legislation.gov.uk/uksi/2017/582) and [S.I. 2018/1325](https://www.legislation.gov.uk/uksi/2018/1325).
 
@@ -1109,176 +1109,176 @@ A transposition note setting out how these Regulations implement Directive 2011/
 
 [^c24370181]: Marginal citation: [S.I. 2020/208](https://www.legislation.gov.uk/uksi/2020/208).
 
-[^key-6d16f3995b26752810035caae1c35552]: Commencement: Reg. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-6d16f3995b26752810035caae1c35552]: Commencement: Reg. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-40ba3d7c46b0ac373492440e229f44ee]: Commencement: Reg. 4 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-40ba3d7c46b0ac373492440e229f44ee]: Commencement: Reg. 4 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-5955de9c42060a7bb1ec81ea2dc4f92e]: Commencement: Reg. 5 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-5955de9c42060a7bb1ec81ea2dc4f92e]: Commencement: Reg. 5 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370191]: Marginal citation: [S.I. 2001/1754](https://www.legislation.gov.uk/uksi/2001/1754). Relevant amending instruments are [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912), [S.I](https://www.legislation.gov.uk/uksi/2016/912/section/I). 2007/77 and [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842).
 
 [^c24370201]: Marginal citation: [S.I. 2017/1013](https://www.legislation.gov.uk/uksi/2017/1013). Amended by [S.I. 2019/579](https://www.legislation.gov.uk/uksi/2019/579). There are other amendments which are not relevant.
 
-[^key-66fb9a1122a17afddc995d10d1858acc]: Commencement: Reg. 6 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-66fb9a1122a17afddc995d10d1858acc]: Commencement: Reg. 6 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-98501489110414821ceb66a01c327ee5]: Textual amendment: Word in [reg. 6(3)(c)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/6/3/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/10/2/a)
+[^c-98501489110414821ceb66a01c327ee5]: Textual amendment: Word in [reg. 6(3)(c)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/6/3/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/10/2/a)
 
-[^key-d6324383494f2fb282b7735b81b6e106]: Commencement: Reg. 7 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-d6324383494f2fb282b7735b81b6e106]: Commencement: Reg. 7 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-e6a8354437aecf749c47ad517e38e9f0]: Commencement: Reg. 8 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-e6a8354437aecf749c47ad517e38e9f0]: Commencement: Reg. 8 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-b93ea9d14a8a82608ab753de09b1f487]: Commencement: Reg. 9 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-b93ea9d14a8a82608ab753de09b1f487]: Commencement: Reg. 9 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-1eef443bc51828ff4ec40fe9a0a22c22]: Commencement: Reg. 10 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-1eef443bc51828ff4ec40fe9a0a22c22]: Commencement: Reg. 10 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-fc0f28b45b810129d02b1ce8372e12b7]: Commencement: Reg. 11 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-fc0f28b45b810129d02b1ce8372e12b7]: Commencement: Reg. 11 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-8deeb96f719e3d8e767b15491e53a1ad]: Commencement: Reg. 12 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-8deeb96f719e3d8e767b15491e53a1ad]: Commencement: Reg. 12 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-5c76443f95eac2cdab095439dd947388]: Commencement: Reg. 13 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-5c76443f95eac2cdab095439dd947388]: Commencement: Reg. 13 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-86224c7f62d037d7819621994d4a0ec9]: Commencement: Reg. 14 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-86224c7f62d037d7819621994d4a0ec9]: Commencement: Reg. 14 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-9601afebf0863c7694db38a544d60850]: Commencement: Reg. 15 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-9601afebf0863c7694db38a544d60850]: Commencement: Reg. 15 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-4ec5b9a407a4f845b4aaba471758e33d]: Commencement: Reg. 16 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-4ec5b9a407a4f845b4aaba471758e33d]: Commencement: Reg. 16 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-0a73c128f67f9cfe96a6bc0a63c84af6]: Commencement: Reg. 17 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-0a73c128f67f9cfe96a6bc0a63c84af6]: Commencement: Reg. 17 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-a9e1a110118db6eeebeca8c72e395f3a]: Commencement: Reg. 18 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-a9e1a110118db6eeebeca8c72e395f3a]: Commencement: Reg. 18 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-8d2cacfecf08292b43c957f3fe695962]: Commencement: Reg. 19 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-8d2cacfecf08292b43c957f3fe695962]: Commencement: Reg. 19 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-aa0445a6446fb723c3fdd4ac4b88d0c2]: Commencement: Reg. 20 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-aa0445a6446fb723c3fdd4ac4b88d0c2]: Commencement: Reg. 20 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-5f2892d44f2c6b26b73bcd8bfab012d9]: Commencement: Reg. 21 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-5f2892d44f2c6b26b73bcd8bfab012d9]: Commencement: Reg. 21 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-f66dd8219de9b81efcac234a11cb09f3]: Commencement: Reg. 22 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-f66dd8219de9b81efcac234a11cb09f3]: Commencement: Reg. 22 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-37e161e32d2a6f8f471ca1af89f807dd]: Textual amendment: Sum in reg. 22(2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/757/regulation/5/a)
+[^c-37e161e32d2a6f8f471ca1af89f807dd]: Textual amendment: Sum in reg. 22(2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/757/regulation/5/a)
 
-[^key-1d33a6bcfd3d895aef8482081cc5d546]: Textual amendment: Sum in reg. 22(2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/757/regulation/5/b)
+[^c-1d33a6bcfd3d895aef8482081cc5d546]: Textual amendment: Sum in reg. 22(2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/757/regulation/5/b)
 
-[^key-095a1a0c16de29bc7ec45073f99922d3]: Commencement: Reg. 23 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-095a1a0c16de29bc7ec45073f99922d3]: Commencement: Reg. 23 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-488cfbbf7df27f17601dad7989d134c1]: Commencement: Reg. 24 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-488cfbbf7df27f17601dad7989d134c1]: Commencement: Reg. 24 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370211]: Marginal citation: [S.I. 1987/2197](https://www.legislation.gov.uk/uksi/1987/2197). There are no relevant amendments.
 
-[^key-0bf07cb2feacec399864048e269cf85f]: Commencement: Reg. 25 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-0bf07cb2feacec399864048e269cf85f]: Commencement: Reg. 25 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370221]: Marginal citation: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17). Section 21 of the Act was amended by paragraph 7 of Schedule 4 to [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937) and paragraph 25 of Schedule 1 to the [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20).
 
 [^c24370231]: Marginal citation: [1878 c. 73](https://www.legislation.gov.uk/ukpga/1878/73).
 
-[^key-599c48217f9be2719bcca4c42c292eef]: Commencement: Reg. 26 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-599c48217f9be2719bcca4c42c292eef]: Commencement: Reg. 26 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-33afcff19cc9a5b34cebf6211226cd39]: Commencement: Reg. 27 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-33afcff19cc9a5b34cebf6211226cd39]: Commencement: Reg. 27 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370241]: Marginal citation: [S.I. 2018/800](https://www.legislation.gov.uk/uksi/2018/800).
 
-[^key-eedf080580409bc4ca8296a5458859ff]: Commencement: Reg. 28 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-eedf080580409bc4ca8296a5458859ff]: Commencement: Reg. 28 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-aad539c112f1871259fb653bb693d30c]: Commencement: Reg. 29 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-aad539c112f1871259fb653bb693d30c]: Commencement: Reg. 29 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-f17779ef230a4651da91d3e8d431ff89]: Commencement: Reg. 30 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-f17779ef230a4651da91d3e8d431ff89]: Commencement: Reg. 30 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-b77888d06595dce29a91d51e27b5d613]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-b77888d06595dce29a91d51e27b5d613]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-1283054d14afa308ed62a43eea44ee4a]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-1283054d14afa308ed62a43eea44ee4a]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-21cf99577ef4a5e77a8fd333f143a2fa]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-21cf99577ef4a5e77a8fd333f143a2fa]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-9d561ba6cf3ae87a74fde7a532a32d3e]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-9d561ba6cf3ae87a74fde7a532a32d3e]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-bbd4728cd1f44378fddfa9e723513f39]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-bbd4728cd1f44378fddfa9e723513f39]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-0033473001270958095c2225282d0245]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-0033473001270958095c2225282d0245]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-704928289af443d1af39b8bd57775dde]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-704928289af443d1af39b8bd57775dde]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-132ef6337539a95a9a783fdfb6406309]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-132ef6337539a95a9a783fdfb6406309]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-055a8952460f8c832c563d65f53cac28]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-055a8952460f8c832c563d65f53cac28]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-dc2cf5e4858efbd6f3e5a2b38cadf7ee]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-dc2cf5e4858efbd6f3e5a2b38cadf7ee]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-40d857cd4270cddaf2840f0c9f08528d]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-40d857cd4270cddaf2840f0c9f08528d]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-54c0a5b885c4cd49fec8e44a90975e77]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-54c0a5b885c4cd49fec8e44a90975e77]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-791db13a46eda45ff1a464cc559a7195]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-791db13a46eda45ff1a464cc559a7195]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-8526dea2998c320707e0dc137d482f62]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-8526dea2998c320707e0dc137d482f62]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-f728cd86ffb1371d6adb3e37b9f4b392]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-f728cd86ffb1371d6adb3e37b9f4b392]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-8a294815bbaf65afa55aac4b9d76ac22]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-8a294815bbaf65afa55aac4b9d76ac22]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-6b4de38ec99146ab9b9c5282596a239b]: Commencement: Sch. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-6b4de38ec99146ab9b9c5282596a239b]: Commencement: Sch. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-531ac98e0a7af339c59fe7171aad844f]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-531ac98e0a7af339c59fe7171aad844f]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-f675cdca78072805b5fe6f4d58b446d7]: Commencement: Sch. 4 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-f675cdca78072805b5fe6f4d58b446d7]: Commencement: Sch. 4 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-6fd9fdef910e3eb94356c6485286f79f]: Commencement: Sch. 4 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-6fd9fdef910e3eb94356c6485286f79f]: Commencement: Sch. 4 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-c6555d48297461e28d7234604a4011bf]: Textual amendment: Word in [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/4/paragraph/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/10/2/b)
+[^c-c6555d48297461e28d7234604a4011bf]: Textual amendment: Word in [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/4/paragraph/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/10/2/b)
 
-[^key-ca254c6d195fa0fc1232f6d9d753ec6a]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-ca254c6d195fa0fc1232f6d9d753ec6a]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-5b2d783e996f2b8e903ff06092be9e96]: Commencement: Sch. 5 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-5b2d783e996f2b8e903ff06092be9e96]: Commencement: Sch. 5 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370251]: Marginal citation: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012). Amended by [S.I. 2019/579](https://www.legislation.gov.uk/uksi/2019/579). There are other amendments which are not relevant.
 
-[^key-4eff21430641bc138019aee585d2b7f8]: Textual amendment: Word in [Sch. 5 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/5/paragraph/2/c/vi) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/10/2/c)
+[^c-4eff21430641bc138019aee585d2b7f8]: Textual amendment: Word in [Sch. 5 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/5/paragraph/2/c/vi) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/10/2/c)
 
-[^key-7200ae9d88df68570c02e3d1293885a0]: Commencement: Sch. 5 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-7200ae9d88df68570c02e3d1293885a0]: Commencement: Sch. 5 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370261]: Marginal citation: O.J. L 206, 22.7.1992, p. 7. The Directive was amended by Directive 97/62/EC, O.J. L 305, 8.11.1997, p. 42; Regulation (EC) No 1882/2003, O.J. L 284, 31.10.2003, p. 1; Directive 2006/105/EC, O.J. L 363, 20.12.2006, p. 368; and Directive 2013/17/EU, O.J. L 158, 10.6. 2013, p. 193.
 
 [^c24370271]: Marginal citation: OJ L 20, 26.1.2010, p. 7. The Directive was amended by Directive 2013/17/EU, O.J. L 158, 10.6.2013, p. 193 and Regulation (EU) 2019/1010, O.J. L 170, 25.6.2019, p.115.
 
-[^key-8ad3de1830887f2c10fd1f185ddc4d9f]: Commencement: Sch. 6 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-8ad3de1830887f2c10fd1f185ddc4d9f]: Commencement: Sch. 6 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-a36e78f839403c9b0eb27895a97ad9ea]: Commencement: Sch. 6 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-a36e78f839403c9b0eb27895a97ad9ea]: Commencement: Sch. 6 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-a88aecd9206be879f3cb6d809e2a6c9a]: Commencement: Sch. 6 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-a88aecd9206be879f3cb6d809e2a6c9a]: Commencement: Sch. 6 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-19124cd30db39e14c91648bc06d280d5]: Commencement: Sch. 6 para. 4 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-19124cd30db39e14c91648bc06d280d5]: Commencement: Sch. 6 para. 4 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-e688a25e7fa6b83aa3402b3a4d04d399]: Commencement: Sch. 6 para. 5 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-e688a25e7fa6b83aa3402b3a4d04d399]: Commencement: Sch. 6 para. 5 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-0bededae677d93229a4504ae4b200bc5]: Textual amendment: Word in [Sch. 6 para. 5(d)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/6/paragraph/5/d) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 10(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/10/2/d)
+[^c-0bededae677d93229a4504ae4b200bc5]: Textual amendment: Word in [Sch. 6 para. 5(d)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/6/paragraph/5/d) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 10(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/10/2/d)
 
-[^key-ff0afc3d5bcb805e8bb5febd673d8fcb]: Commencement: Sch. 6 para. 6 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-ff0afc3d5bcb805e8bb5febd673d8fcb]: Commencement: Sch. 6 para. 6 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-119a237aab6ec85fcdbee5486a00a56d]: Commencement: Sch. 6 para. 7 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-119a237aab6ec85fcdbee5486a00a56d]: Commencement: Sch. 6 para. 7 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-4fd34122efec893226eeb3362e803dbf]: Commencement: Sch. 6 para. 8 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-4fd34122efec893226eeb3362e803dbf]: Commencement: Sch. 6 para. 8 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-46598f77ae286e7f9b8b0b337b38245c]: Commencement: Sch. 6 para. 9 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-46598f77ae286e7f9b8b0b337b38245c]: Commencement: Sch. 6 para. 9 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
-[^key-3e75a8a0cfd21b6a4706521423a0b668]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-3e75a8a0cfd21b6a4706521423a0b668]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370281]: Marginal citation: [S.I. 2001/1754](https://www.legislation.gov.uk/uksi/2001/1754). Amended by [S.I. 2007/77](https://www.legislation.gov.uk/uksi/2007/77). There are other amendments which are not relevant.
 
-[^key-00b86227cc65ccedcfe1082fe713bede]: Commencement: Sch. 7 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-00b86227cc65ccedcfe1082fe713bede]: Commencement: Sch. 7 para. 2 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370291]: Marginal citation: [S.I. 2002/1355](https://www.legislation.gov.uk/uksi/2002/1355). Amended by [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912). There are other amendments which are not relevant.
 
-[^key-6891ea58fb0eadd79e3f9434c0bd2fed]: Commencement: Sch. 7 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-6891ea58fb0eadd79e3f9434c0bd2fed]: Commencement: Sch. 7 para. 3 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370301]: Marginal citation: [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055). Relevant amending instruments are [S.I. 2011/983](https://www.legislation.gov.uk/uksi/2011/983) and [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912).
 
-[^key-7993112bea789c38408dfd32b3ec9260]: Commencement: Sch. 7 para. 4 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-7993112bea789c38408dfd32b3ec9260]: Commencement: Sch. 7 para. 4 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370311]: Marginal citation: [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513). Relevant amending instruments are [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912) and [S.I. 2017/582](https://www.legislation.gov.uk/uksi/2017/582).
 
-[^key-34a7a5085b37f6008f5a97c1f379f8d0]: Commencement: Sch. 7 para. 5 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-34a7a5085b37f6008f5a97c1f379f8d0]: Commencement: Sch. 7 para. 5 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370321]: Marginal citation: [S.I. 2013/971](https://www.legislation.gov.uk/uksi/2013/971). Amended by [S.I. 2018/798](https://www.legislation.gov.uk/uksi/2018/798). There are other amendments which are not relevant.
 
-[^key-e2276af1158a5ccbf2e938a79d48bb9f]: Commencement: Sch. 7 para. 6 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
+[^c-e2276af1158a5ccbf2e938a79d48bb9f]: Commencement: Sch. 7 para. 6 in force at 31.12.2020 immediately before 11 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1)
 
 [^c24370331]: Marginal citation: [S.I. 2017/1013](https://www.legislation.gov.uk/uksi/2017/1013). Amended by [S.I. 2019/579](https://www.legislation.gov.uk/uksi/2019/579). There are other amendments which are not relevant.

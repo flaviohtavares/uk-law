@@ -34,7 +34,7 @@ summary: ''
 - (c) where the judge who presided at the trial furnishes a report under section 113 of this Act, that report; and
 - (d) where, by virtue of section 94(1) of this Act, a transcript of the charge to the jury of the judge who presided at the trial is delivered to the Clerk of Justiciary, that transcript.
 
-(2A)[^key-249751ffd5a2dbcb18495eebd7047a28] In respect of an appeal by virtue of section 11(7) of the Double Jeopardy (Scotland) Act 2011 (asp 16), the “report under section 113” in subsection (2)(c) means—
+(2A)[^c-249751ffd5a2dbcb18495eebd7047a28] In respect of an appeal by virtue of section 11(7) of the Double Jeopardy (Scotland) Act 2011 (asp 16), the “report under section 113” in subsection (2)(c) means—
 
 - (a) the report of the judge who presided at the trial resulting in the appellant's acquittal for an offence mentioned in section 11(2) of that Act;
 - (b) where an appeal against conviction was taken before that acquittal, the report of the judge who presided at the trial resulting in the conviction in respect of which leave to appeal is sought prepared at that time; and
@@ -79,7 +79,7 @@ to the appellant or his solicitor and to the Crown Agent.
 
 [^c18926101]: Modification: S. 107(1)(a) modified (27.10.2003) by [S.I. 1996/513](https://www.legislation.gov.uk/uksi/1996/513) , [rule 19B](https://www.legislation.gov.uk/uksi/1996/513/rule/19B) .1(3) (as inserted by [Act of Adjournal (Criminal Procedure Rules Amendment No. 2) (Miscellaneous) 2003 (S.S.I. 2003/468)](https://www.legislation.gov.uk/ssi/2003/468) , [rule 2(10)](https://www.legislation.gov.uk/ssi/2003/468/rule/2/10) )
 
-[^key-249751ffd5a2dbcb18495eebd7047a28]: Textual amendment: S. 107(2A) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [sch. para. 8](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/8); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-249751ffd5a2dbcb18495eebd7047a28]: Textual amendment: S. 107(2A) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [sch. para. 8](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/8); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
 [^c18926041]: Textual amendment: Words in s. 107(3) inserted (27.6.2003) by Criminal Justice (Scotland) Act 2003(asp 7), {ss. 62(a)(i)}, 89; S.S.I. 2003.288, {art. 2}
 

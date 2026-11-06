@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Establishment of Firefighters’ Pension Fund[^key-62ded7106b6fb4228adf6e6350ca8c87]
+## 122. Establishment of Firefighters’ Pension Fund[^c-62ded7106b6fb4228adf6e6350ca8c87]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Firefighters’ Pension Fund (“FPF”) established and maintained by the s
 
 ## Annotations
 
-[^key-62ded7106b6fb4228adf6e6350ca8c87]: Commencement: [Reg. 122](https://www.legislation.gov.uk/uksi/2014/2848/regulation/122) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-62ded7106b6fb4228adf6e6350ca8c87]: Commencement: [Reg. 122](https://www.legislation.gov.uk/uksi/2014/2848/regulation/122) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8E. Power to assist other public authorities[^key-9edcefd7e9a63c30276d2796cb97563e]
+## 8E. Power to assist other public authorities[^c-9edcefd7e9a63c30276d2796cb97563e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9edcefd7e9a63c30276d2796cb97563e]: Textual amendment: S. 8E inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 9](https://www.legislation.gov.uk/ukpga/2008/22/section/9), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/c)
+[^c-9edcefd7e9a63c30276d2796cb97563e]: Textual amendment: S. 8E inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 9](https://www.legislation.gov.uk/ukpga/2008/22/section/9), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Submission of accounts[^key-5e7d581e2787429188a37e2b8b574e84]
+## 32. Submission of accounts[^c-5e7d581e2787429188a37e2b8b574e84]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e7d581e2787429188a37e2b8b574e84]: Commencement: Rule 32 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-5e7d581e2787429188a37e2b8b574e84]: Commencement: Rule 32 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

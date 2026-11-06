@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Regulations about service providers who are liquidated etc.[^key-31dba4964d5cdd1d5618ee269230167f]
+## 30. Regulations about service providers who are liquidated etc.[^c-31dba4964d5cdd1d5618ee269230167f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31dba4964d5cdd1d5618ee269230167f]: Commencement: S. 30 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-31dba4964d5cdd1d5618ee269230167f]: Commencement: S. 30 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)

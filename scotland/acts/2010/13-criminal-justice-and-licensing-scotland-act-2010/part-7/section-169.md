@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 169. Acquittal involving mental disorder: procedure[^key-7ffb03d4be9779c587debf13320cb219]
+## 169. Acquittal involving mental disorder: procedure[^c-7ffb03d4be9779c587debf13320cb219]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ Before section 54 of the 1995 Act insert—
 
 ## Annotations
 
-[^key-7ffb03d4be9779c587debf13320cb219]: Commencement: [S. 169](https://www.legislation.gov.uk/asp/2010/13/section/169) in force at 25.6.2012 with application in accordance with art. 3 by [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))
+[^c-7ffb03d4be9779c587debf13320cb219]: Commencement: [S. 169](https://www.legislation.gov.uk/asp/2010/13/section/169) in force at 25.6.2012 with application in accordance with art. 3 by [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))

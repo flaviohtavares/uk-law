@@ -22,15 +22,15 @@ summary: ''
 
 Section 71.
 
-### Part 1 — NEW SCHEDULE 4A TO THE TAXES ACT 1988[^key-e85357cef1dcabed20a7329bffbe1ad5]
+### Part 1 — NEW SCHEDULE 4A TO THE TAXES ACT 1988[^c-e85357cef1dcabed20a7329bffbe1ad5]
 
 **No longer in force.**
 
-[^key-e85357cef1dcabed20a7329bffbe1ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e85357cef1dcabed20a7329bffbe1ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — CONSEQUENTIAL AMENDMENTS
 
-**2.**[^key-29055d8f77358232ae9f54cd630fc3e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-29055d8f77358232ae9f54cd630fc3e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** (1) In Schedule 1B to that Act (claims for relief involving two or more years), in paragraph 1 (preliminary definitions) for sub-paragraphs (2) and (3) substitute—
 
@@ -50,12 +50,12 @@ Section 71.
 
 (2) This paragraph applies for the year 2000-01 and subsequent years of assessment.
 
-**4.**[^key-e650760b668632b09ecf234fc9d5925c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e650760b668632b09ecf234fc9d5925c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e85357cef1dcabed20a7329bffbe1ad5]: Textual amendment: [Sch. 24 Pt. 1](https://www.legislation.gov.uk/ukpga/2001/9/schedule/24/part/1) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-e85357cef1dcabed20a7329bffbe1ad5]: Textual amendment: [Sch. 24 Pt. 1](https://www.legislation.gov.uk/ukpga/2001/9/schedule/24/part/1) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-29055d8f77358232ae9f54cd630fc3e6]: Textual amendment: [Sch. 24 para. 2](https://www.legislation.gov.uk/ukpga/2001/9/schedule/24/paragraph/2) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 310](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/310)
+[^c-29055d8f77358232ae9f54cd630fc3e6]: Textual amendment: [Sch. 24 para. 2](https://www.legislation.gov.uk/ukpga/2001/9/schedule/24/paragraph/2) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 310](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/310)
 
-[^key-e650760b668632b09ecf234fc9d5925c]: Textual amendment: Sch. 24 para. 4 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-e650760b668632b09ecf234fc9d5925c]: Textual amendment: Sch. 24 para. 4 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

@@ -37,7 +37,7 @@ A Measure of the General Synod of the Church of England to create entitlements t
 
 **Not yet in force.**
 
-### 1. Dignity, respect and compassion[^key-07c1b4f40163b3a1a2647eae0f3daca9]
+### 1. Dignity, respect and compassion[^c-07c1b4f40163b3a1a2647eae0f3daca9]
 
 Every person exercising functions for the purposes of this Measure must, in doing so, have due regard to the principle that every applicant for redress under this Measure, and every person entitled so to apply but yet to do so, should be treated with dignity, respect and compassion.
 
@@ -45,7 +45,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 **Not yet in force.**
 
-### 2. Archbishops’ Council’s functions[^key-27ea4d431af6ab1519c6b6deb563d999]
+### 2. Archbishops’ Council’s functions[^c-27ea4d431af6ab1519c6b6deb563d999]
 
 (1) The functions conferred by or under this Measure on “the redress body” are functions of the Archbishops’ Council.
 
@@ -71,7 +71,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 **Not yet in force.**
 
-### 3. Person who suffered abuse[^key-8e835854a9259c0b64bfeee7d11ec95c]
+### 3. Person who suffered abuse[^c-8e835854a9259c0b64bfeee7d11ec95c]
 
 (1) An application for redress under this Measure may be made by a person who suffered injury or loss in consequence of suffering abuse if the first or second condition is met.
 
@@ -112,7 +112,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 - (c) that person was aware or ought to have been aware of a significant risk that A might carry out abuse of the same or a similar nature as the abuse that was carried out but did not discharge the duty to report, and
 - (d) it is more likely than not that, if that person had discharged the duty to report, A would not have carried out the abuse.
 
-### 4. Meaning of “abuse”[^key-d14f55ef3a2d3beacdc3471d163bde8f]
+### 4. Meaning of “abuse”[^c-d14f55ef3a2d3beacdc3471d163bde8f]
 
 (1) This section applies for the purposes of section 3.
 
@@ -142,7 +142,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 - (a) the meaning of “close connection”;
 - (b) the meaning of “spiritual abuse”.
 
-### 5. Meaning of “Church officer”[^key-8fc4fdb6802921d23b0136e4d706d398]
+### 5. Meaning of “Church officer”[^c-8fc4fdb6802921d23b0136e4d706d398]
 
 (1) This section applies for the purposes of section 3.
 
@@ -193,7 +193,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (5) A reference in this section to a person who is a member of staff in an organisation includes a reference to a person whose relationship with that organisation is akin to the relationship between employee and employer; but a person is to be regarded as a member of staff only if the person’s work involves promoting or advancing the work and mission of the Church of England.
 
-### 6. Dependant of person who suffered abuse[^key-a951dbd506c40d2653846dfa39002335]
+### 6. Dependant of person who suffered abuse[^c-a951dbd506c40d2653846dfa39002335]
 
 (1) An application for redress under this Measure may be made by a person who—
 
@@ -202,7 +202,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (2) See section 10(6) as to the circumstances in which an application under this section may be granted.
 
-### 7. Application on behalf of child[^key-6ed1a3da3150c46056de1e573f9b7c80]
+### 7. Application on behalf of child[^c-6ed1a3da3150c46056de1e573f9b7c80]
 
 (1) An application for redress may not be made under section 3 or 6 by a person aged under 18 but may instead be made by a person aged 18 or over appointed as an appropriate adult for that person by the redress body in accordance with the rules.
 
@@ -221,7 +221,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (7) References in subsections (5) and (6) to lacking capacity are to be read with the [Mental Capacity Act 2005](https://www.legislation.gov.uk/ukpga/2005/9/contents).
 
-### 8. Continuance of application where applicant dies[^key-fc75a22bc0b00c82f69c673f8914f6d7]
+### 8. Continuance of application where applicant dies[^c-fc75a22bc0b00c82f69c673f8914f6d7]
 
 (1) Where an application for redress is made under section 3 or 6 but the applicant dies before the application is determined, the application may continue to proceed in accordance with the rules.
 
@@ -238,7 +238,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 **Not yet in force.**
 
-### 9. Application for redress[^key-79555091ae0c5776dedd02f7af62b34c]
+### 9. Application for redress[^c-79555091ae0c5776dedd02f7af62b34c]
 
 (1) An application for redress under this Measure must be made to the redress body in accordance with the rules.
 
@@ -278,7 +278,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (13) The Statutory Instruments Act 1946 applies to a resolution under subsection (2)(b) as if this Measure were an Act of Parliament providing for the instrument containing the resolution to be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 10. Determination of application for redress[^key-b64c6031747556539ed861de80e21d7c]
+### 10. Determination of application for redress[^c-b64c6031747556539ed861de80e21d7c]
 
 (1) The redress body must decide the order of priority in which applications for redress under this Measure are to be determined; and in deciding that, the redress body must have particular regard to whatever matters are specified in the rules.
 
@@ -307,7 +307,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (9) The determination of an application for redress may be paused in circumstances specified in the rules.
 
-### 11. Abuse of similar description[^key-13266a0fb7b47bd33f9e4108ba5eaf69]
+### 11. Abuse of similar description[^c-13266a0fb7b47bd33f9e4108ba5eaf69]
 
 (1) This section applies where—
 
@@ -318,7 +318,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (2) The redress body is entitled to decide that the abuse is to be treated for the purposes of the application as being of the description given in the rules.
 
-### 12. Determination of award of redress[^key-7663bba3a8a726c5ddc6232150cc6644]
+### 12. Determination of award of redress[^c-7663bba3a8a726c5ddc6232150cc6644]
 
 (1) The redress body, on granting an application for redress under this Measure, must determine the award to be made to the applicant; and the award may consist of either or both of the following—
 
@@ -359,7 +359,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (11) The rules may provide that, in the case of an application under section 6, this section applies as if the reference to compensation for having suffered abuse were a reference, or included a reference, to compensation for mental or emotional injury or economic loss suffered by the applicant in consequence of the abuse to which the application relates.
 
-### 13. Initial redress payment[^key-410a75bd60d402843aa8df267383ed41]
+### 13. Initial redress payment[^c-410a75bd60d402843aa8df267383ed41]
 
 (1) Where the redress body determines that a redress payment should be awarded but has yet to determine the amount of the payment, it may order an amount to be awarded pending the completion of the determination of the amount of the payment.
 
@@ -367,7 +367,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (3) In a case where the amount of the redress payment is reduced (including to zero) under provision made in the rules under section 12(6), the reference in subsection (2) of this section to the amount of the redress payment is a reference to the amount of the payment after the reduction is made.
 
-### 14. Waiver[^key-7d5988f1d4488c5f2b436f5d3d3dde71]
+### 14. Waiver[^c-7d5988f1d4488c5f2b436f5d3d3dde71]
 
 (1) Where an award of redress is made under section 12 on an application under section 3—
 
@@ -401,7 +401,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 **Not yet in force.**
 
-### 15. Right to appeal[^key-42ef9fd1819280ad65751cf92440968f]
+### 15. Right to appeal[^c-42ef9fd1819280ad65751cf92440968f]
 
 (1) An applicant for redress under this Measure may, in accordance with the rules, bring an appeal against a determination under section 12—
 
@@ -410,7 +410,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (2) In a case where the amount of a redress payment was reduced under provision made in the rules under section 12(6), the reference in subsection (1)(b) of this section to the amount of the redress payment is a reference to the amount of the payment before the reduction was made.
 
-### 16. Permission to appeal[^key-6b63d45e696f59380048a2835f008dfb]
+### 16. Permission to appeal[^c-6b63d45e696f59380048a2835f008dfb]
 
 (1) An appeal under section 15 may be brought only with the permission of a person or persons, known as “the appeal authority”, appointed by the Archbishops’ Council; and an application for permission to appeal must be made in accordance with the rules.
 
@@ -437,7 +437,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 - (a) high judicial office within the meaning of [Part 3](https://www.legislation.gov.uk/ukpga/2005/4/part/3) of the [Constitutional Reform Act 2005](https://www.legislation.gov.uk/ukpga/2005/4/contents) (see section 60(2) of that Act), or
 - (b) membership of the Judicial Committee of the Privy Council.
 
-### 17. Determination of appeal[^key-3e2618e04335ffef9e5ec0d23f43e377]
+### 17. Determination of appeal[^c-3e2618e04335ffef9e5ec0d23f43e377]
 
 (1) An appeal under section 15 is to be limited to a review of the determination under section 12; and the rules may make provision as to how that review is to be carried out.
 
@@ -460,7 +460,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (7) Subsections (5) to (7) of section 16 apply to a decision under this section as they apply to a determination under that section.
 
-### 18. Reconsideration in light of new information[^key-6fe09e6bbf0a82ae12409a1ffa3fdf2b]
+### 18. Reconsideration in light of new information[^c-6fe09e6bbf0a82ae12409a1ffa3fdf2b]
 
 (1) This section applies where, following the determination of an application for redress under this Measure, the applicant obtains information that the applicant was unaware of, and could not with reasonable diligence have discovered, at the time of making the application.
 
@@ -483,7 +483,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 **Not yet in force.**
 
-### 19. Account for redress awards[^key-b986793e5c8466ce5b3c678b15fe34ce]
+### 19. Account for redress awards[^c-b986793e5c8466ce5b3c678b15fe34ce]
 
 (1) The Archbishops’ Council must open an account (“**the redress fund**”) from which payments required for making awards of redress and payments required under or by virtue of section 27 are to be made.
 
@@ -494,7 +494,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 - (a) would put at risk the Council’s continuation as a going concern, or
 - (b) would put that member in breach of the member’s duties as a charity trustee.
 
-### 20. Power to take action to anticipate breach of charitable duties[^key-44514eb1d1a1e450490d6268f4af2b9b]
+### 20. Power to take action to anticipate breach of charitable duties[^c-44514eb1d1a1e450490d6268f4af2b9b]
 
 (1) If the Archbishops’ Council is satisfied by reference to matters specified in the rules that current circumstances are such that doing a certain thing would put the Council or any of its members at risk as referred to in section 19(3), the Council must issue a certificate to that effect in accordance with the rules.
 
@@ -522,7 +522,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (9) The Archbishops’ Council must have due regard to the view expressed by the General Synod on its consideration of the certificate and explanation.
 
-### 21. Contributions and co-operation[^key-5939f725ccbe97555aea95961b06b367]
+### 21. Contributions and co-operation[^c-5939f725ccbe97555aea95961b06b367]
 
 (1) The redress body, having made an award of redress, may request from one or more appropriate authorities—
 
@@ -570,7 +570,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (7) In this section, a reference to a person identified as having carried out abuse to which an application relates is a reference to a person identified in the application, or in material relevant to it, as a person who carried out abuse to which the application relates.
 
-### 22. Section 21: further provision[^key-7b9074901bef3528bd4a545f399f11af]
+### 22. Section 21: further provision[^c-7b9074901bef3528bd4a545f399f11af]
 
 (1) The amount of a financial contribution under section 21 is to be determined in accordance with the rules.
 
@@ -589,7 +589,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (7) A person specified in the second column of the table in section 21(3) may choose to make a payment into the redress fund, or co-operate with the provision of some other remedy, even if the person has not been requested to do so.
 
-### 23. Payments by charities to or from redress fund[^key-4215efebb7d5341c0e82da0fda007a91]
+### 23. Payments by charities to or from redress fund[^c-4215efebb7d5341c0e82da0fda007a91]
 
 (1) The making of payments from the redress fund by or on behalf of the Archbishops’ Council is to be treated for all purposes as charitable.
 
@@ -611,7 +611,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 **Not yet in force.**
 
-### 24. Powers to amend[^key-c3d8601fa3f8c969f2ac56729a289345]
+### 24. Powers to amend[^c-c3d8601fa3f8c969f2ac56729a289345]
 
 (1) The General Synod may by resolution—
 
@@ -625,7 +625,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (4) The Statutory Instruments Act 1946 applies to a resolution under this section as if this Measure were an Act of Parliament providing for the instrument containing the resolution to be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 25. Insurance[^key-44ebe69e48bd328ea4624b954c4c20d9]
+### 25. Insurance[^c-44ebe69e48bd328ea4624b954c4c20d9]
 
 (1) The Archbishops’ Council may prepare, and from time to time revise, a code of practice for appropriate authorities on insurance against liability for abuse.
 
@@ -633,7 +633,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (3) An appropriate authority must, accordingly, comply with a requirement imposed by the code.
 
-### 26. Information sharing[^key-3f85277969734eda93f39a78cd15c791]
+### 26. Information sharing[^c-3f85277969734eda93f39a78cd15c791]
 
 (1) An appropriate authority must co-operate with the Archbishops’ Council and with the redress body (unless the Council is the redress body)—
 
@@ -667,7 +667,7 @@ Every person exercising functions for the purposes of this Measure must, in doin
 
 (8) In this section, “controller”, “personal data” and “the data protection legislation” each have the same meaning as in the [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents).
 
-### 27. Legal costs etc.[^key-d5a5d20c36158ec8ea932688c3aa6fab]
+### 27. Legal costs etc.[^c-d5a5d20c36158ec8ea932688c3aa6fab]
 
 (1) The rules may make provision for the assessment and reimbursement of costs incurred in connection with providing legal advice and assistance for the purposes of this Measure.
 
@@ -686,13 +686,13 @@ Every person exercising functions for the purposes of this Measure must, in doin
 - (b) a barrister within the meaning of [that Act](https://www.legislation.gov.uk/ukpga/2007/29/contents) who is authorised to take instructions directly from a person rather than through a solicitor, or
 - (c) a person authorised by the Institute of Chartered Legal Executives to practise as a chartered legal executive.
 
-### 28. Defamation: privilege[^key-ff6071370ab2c7381b7962e20e8ef030]
+### 28. Defamation: privilege[^c-ff6071370ab2c7381b7962e20e8ef030]
 
 For the purposes of the law of defamation, publication of anything under this Measure or the rules by the redress body is absolutely privileged.
 
 ## Procedure
 
-### 29. Power to make the rules[^key-baea9eefbc5f345ada1a2151a351b839]
+### 29. Power to make the rules[^c-baea9eefbc5f345ada1a2151a351b839]
 
 (1) The power to make the rules for the purposes of this Measure is exercisable by the Rule Committee.
 
@@ -714,7 +714,7 @@ For the purposes of the law of defamation, publication of anything under this Me
 
 **Not yet in force.**
 
-### 30. Review of this Measure[^key-7cd08e0bad4bc26ccde433a0d96eac11]
+### 30. Review of this Measure[^c-7cd08e0bad4bc26ccde433a0d96eac11]
 
 (1) The Archbishops’ Council must, after the expiry of the third year of the five-year period referred to in section 9(2)(a) but before the beginning of the final 15 months of that period—
 
@@ -729,7 +729,7 @@ For the purposes of the law of defamation, publication of anything under this Me
 
 **Not yet in force.**
 
-### 31. Interpretation of references to relatives etc.[^key-777990a7b6b6a75f499c76354c23e3d8]
+### 31. Interpretation of references to relatives etc.[^c-777990a7b6b6a75f499c76354c23e3d8]
 
 (1) This section applies for the purposes of this Measure.
 
@@ -759,7 +759,7 @@ For the purposes of the law of defamation, publication of anything under this Me
 
 (8) “**Spouse**” includes a person married to somebody of the same sex; and a reference to being married is to be construed likewise.
 
-### 32. Other interpretation[^key-6ef51314df7041aab3efec6bd8c8c6cf]
+### 32. Other interpretation[^c-6ef51314df7041aab3efec6bd8c8c6cf]
 
 In this Measure—
 
@@ -771,7 +771,7 @@ In this Measure—
 
 ## Final
 
-### 33. Short title, commencement, extent and application[^key-0fef504933e78c0393b13179d6680bca]
+### 33. Short title, commencement, extent and application[^c-0fef504933e78c0393b13179d6680bca]
 
 (1) This Measure may be cited as the Abuse Redress Measure 2025.
 
@@ -794,68 +794,68 @@ In this Measure—
 
 ## Annotations
 
-[^key-07c1b4f40163b3a1a2647eae0f3daca9]: Commencement: S. 1 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-07c1b4f40163b3a1a2647eae0f3daca9]: Commencement: S. 1 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-27ea4d431af6ab1519c6b6deb563d999]: Commencement: S. 2 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-27ea4d431af6ab1519c6b6deb563d999]: Commencement: S. 2 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-8e835854a9259c0b64bfeee7d11ec95c]: Commencement: S. 3 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-8e835854a9259c0b64bfeee7d11ec95c]: Commencement: S. 3 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-d14f55ef3a2d3beacdc3471d163bde8f]: Commencement: S. 4 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-d14f55ef3a2d3beacdc3471d163bde8f]: Commencement: S. 4 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-8fc4fdb6802921d23b0136e4d706d398]: Commencement: S. 5 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-8fc4fdb6802921d23b0136e4d706d398]: Commencement: S. 5 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-a951dbd506c40d2653846dfa39002335]: Commencement: S. 6 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-a951dbd506c40d2653846dfa39002335]: Commencement: S. 6 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-6ed1a3da3150c46056de1e573f9b7c80]: Commencement: S. 7 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-6ed1a3da3150c46056de1e573f9b7c80]: Commencement: S. 7 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-fc75a22bc0b00c82f69c673f8914f6d7]: Commencement: S. 8 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-fc75a22bc0b00c82f69c673f8914f6d7]: Commencement: S. 8 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-79555091ae0c5776dedd02f7af62b34c]: Commencement: S. 9 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-79555091ae0c5776dedd02f7af62b34c]: Commencement: S. 9 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-b64c6031747556539ed861de80e21d7c]: Commencement: S. 10 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-b64c6031747556539ed861de80e21d7c]: Commencement: S. 10 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-13266a0fb7b47bd33f9e4108ba5eaf69]: Commencement: S. 11 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-13266a0fb7b47bd33f9e4108ba5eaf69]: Commencement: S. 11 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-7663bba3a8a726c5ddc6232150cc6644]: Commencement: S. 12 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-7663bba3a8a726c5ddc6232150cc6644]: Commencement: S. 12 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-410a75bd60d402843aa8df267383ed41]: Commencement: S. 13 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-410a75bd60d402843aa8df267383ed41]: Commencement: S. 13 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-7d5988f1d4488c5f2b436f5d3d3dde71]: Commencement: S. 14 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-7d5988f1d4488c5f2b436f5d3d3dde71]: Commencement: S. 14 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-42ef9fd1819280ad65751cf92440968f]: Commencement: S. 15 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-42ef9fd1819280ad65751cf92440968f]: Commencement: S. 15 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-6b63d45e696f59380048a2835f008dfb]: Commencement: S. 16 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-6b63d45e696f59380048a2835f008dfb]: Commencement: S. 16 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-3e2618e04335ffef9e5ec0d23f43e377]: Commencement: S. 17 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-3e2618e04335ffef9e5ec0d23f43e377]: Commencement: S. 17 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-6fe09e6bbf0a82ae12409a1ffa3fdf2b]: Commencement: S. 18 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-6fe09e6bbf0a82ae12409a1ffa3fdf2b]: Commencement: S. 18 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-b986793e5c8466ce5b3c678b15fe34ce]: Commencement: S. 19 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-b986793e5c8466ce5b3c678b15fe34ce]: Commencement: S. 19 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-44514eb1d1a1e450490d6268f4af2b9b]: Commencement: S. 20 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-44514eb1d1a1e450490d6268f4af2b9b]: Commencement: S. 20 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-5939f725ccbe97555aea95961b06b367]: Commencement: S. 21 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-5939f725ccbe97555aea95961b06b367]: Commencement: S. 21 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-7b9074901bef3528bd4a545f399f11af]: Commencement: S. 22 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-7b9074901bef3528bd4a545f399f11af]: Commencement: S. 22 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-4215efebb7d5341c0e82da0fda007a91]: Commencement: S. 23 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-4215efebb7d5341c0e82da0fda007a91]: Commencement: S. 23 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-c3d8601fa3f8c969f2ac56729a289345]: Commencement: S. 24 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-c3d8601fa3f8c969f2ac56729a289345]: Commencement: S. 24 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-44ebe69e48bd328ea4624b954c4c20d9]: Commencement: S. 25 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-44ebe69e48bd328ea4624b954c4c20d9]: Commencement: S. 25 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-3f85277969734eda93f39a78cd15c791]: Commencement: S. 26 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-3f85277969734eda93f39a78cd15c791]: Commencement: S. 26 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-d5a5d20c36158ec8ea932688c3aa6fab]: Commencement: S. 27 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-d5a5d20c36158ec8ea932688c3aa6fab]: Commencement: S. 27 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-ff6071370ab2c7381b7962e20e8ef030]: Commencement: S. 28 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-ff6071370ab2c7381b7962e20e8ef030]: Commencement: S. 28 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-baea9eefbc5f345ada1a2151a351b839]: Commencement: S. 29 in force at Royal Assent, see [s. 33(2)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/2)
+[^c-baea9eefbc5f345ada1a2151a351b839]: Commencement: S. 29 in force at Royal Assent, see [s. 33(2)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/2)
 
-[^key-7cd08e0bad4bc26ccde433a0d96eac11]: Commencement: S. 30 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-7cd08e0bad4bc26ccde433a0d96eac11]: Commencement: S. 30 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-777990a7b6b6a75f499c76354c23e3d8]: Commencement: S. 31 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-777990a7b6b6a75f499c76354c23e3d8]: Commencement: S. 31 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-6ef51314df7041aab3efec6bd8c8c6cf]: Commencement: S. 32 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
+[^c-6ef51314df7041aab3efec6bd8c8c6cf]: Commencement: S. 32 not in force at Royal Assent, see [s. 33(3)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/3)
 
-[^key-0fef504933e78c0393b13179d6680bca]: Commencement: S. 33 in force at Royal Assent, see [s. 33(2)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/2)
+[^c-0fef504933e78c0393b13179d6680bca]: Commencement: S. 33 in force at Royal Assent, see [s. 33(2)](https://www.legislation.gov.uk/ukcm/2025/4/section/33/2)

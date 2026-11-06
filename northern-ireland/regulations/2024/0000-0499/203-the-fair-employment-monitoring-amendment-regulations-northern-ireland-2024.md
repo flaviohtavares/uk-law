@@ -46,11 +46,11 @@ The Executive Office [^f00001] makes the following Regulations in exercise of th
 
 In accordance with Article 53(1) of that Order it has consulted with the Equality Commission for Northern Ireland,
 
-## 1. Citation and commencement[^key-fc0e8c5ad83291d401ca83390209396c]
+## 1. Citation and commencement[^c-fc0e8c5ad83291d401ca83390209396c]
 
 These Regulations may be cited as the Fair Employment (Monitoring) (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 9th December 2024.
 
-## 2. Amendment of the Fair Employment (Monitoring) Regulations (Northern Ireland) 1999[^key-a556a6b5d733240306def22ae8bdd9cb]
+## 2. Amendment of the Fair Employment (Monitoring) Regulations (Northern Ireland) 1999[^c-a556a6b5d733240306def22ae8bdd9cb]
 
 In regulation 6 of the Fair Employment (Monitoring) Regulations (Northern Ireland) 1999[^f00004] (date or period to which prescribed information relates), after paragraph (5) insert-
 
@@ -76,9 +76,9 @@ These Regulations amend the Fair Employment (Monitoring) Regulations (Northern I
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481); Article 4(a) and Schedule 2, Part I
 
-[^key-fc0e8c5ad83291d401ca83390209396c]: Commencement: Reg. 1 in operation at 9.12.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/203/regulation/1)
+[^c-fc0e8c5ad83291d401ca83390209396c]: Commencement: Reg. 1 in operation at 9.12.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/203/regulation/1)
 
-[^key-a556a6b5d733240306def22ae8bdd9cb]: Commencement: Reg. 2 in operation at 9.12.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/203/regulation/1)
+[^c-a556a6b5d733240306def22ae8bdd9cb]: Commencement: Reg. 2 in operation at 9.12.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/203/regulation/1)
 
 [^f00004]: Footnote: S.R [1999 No.148](https://www.legislation.gov.uk/nisr/1999/148) as amended by S.R [2000 No.228](https://www.legislation.gov.uk/nisr/2000/228) and S.R [2002 No.244](https://www.legislation.gov.uk/nisr/2002/244)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Modification of test scheme standard: money purchase benefit lump sum accruals[^key-100fc097807d3db658d38e400ce233fc]
+## 41. Modification of test scheme standard: money purchase benefit lump sum accruals[^c-100fc097807d3db658d38e400ce233fc]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-100fc097807d3db658d38e400ce233fc]: Textual amendment: [Regs. 41](https://www.legislation.gov.uk/nisr/2010/122/regulation/41), [42](https://www.legislation.gov.uk/nisr/2010/122/regulation/42) revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [5](https://www.legislation.gov.uk/nisr/2012/232/regulation/5)
+[^c-100fc097807d3db658d38e400ce233fc]: Textual amendment: [Regs. 41](https://www.legislation.gov.uk/nisr/2010/122/regulation/41), [42](https://www.legislation.gov.uk/nisr/2010/122/regulation/42) revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [5](https://www.legislation.gov.uk/nisr/2012/232/regulation/5)

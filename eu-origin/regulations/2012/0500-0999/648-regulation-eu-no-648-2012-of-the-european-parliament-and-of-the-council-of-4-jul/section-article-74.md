@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 74. Delegation of tasks by ESMA to competent authorities[^key-511426f9f73d0dd30fe14365ffe99a37]
+## Article 74. Delegation of tasks by ESMA to competent authorities[^c-511426f9f73d0dd30fe14365ffe99a37]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-511426f9f73d0dd30fe14365ffe99a37]: Textual amendment: [Arts. 72-74](https://www.legislation.gov.uk/eur/2012/648/article/72) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [56(3)](https://www.legislation.gov.uk/uksi/2019/335/regulation/56/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-511426f9f73d0dd30fe14365ffe99a37]: Textual amendment: [Arts. 72-74](https://www.legislation.gov.uk/eur/2012/648/article/72) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [56(3)](https://www.legislation.gov.uk/uksi/2019/335/regulation/56/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Variation[^key-c1996c505e939ce4cc811875c175d646]
+## 134. Variation[^c-c1996c505e939ce4cc811875c175d646]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1996c505e939ce4cc811875c175d646]: Commencement: [S. 134](https://www.legislation.gov.uk/anaw/2016/1/section/134) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-c1996c505e939ce4cc811875c175d646]: Commencement: [S. 134](https://www.legislation.gov.uk/anaw/2016/1/section/134) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

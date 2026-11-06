@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Abolition of offences of sedition and leasing-making[^key-4a2bf1a18885edeccbfc5c6c3a266bff]
+## 51. Abolition of offences of sedition and leasing-making[^c-4a2bf1a18885edeccbfc5c6c3a266bff]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The following offences under the common law of Scotland are abolished—
 
 ## Annotations
 
-[^key-4a2bf1a18885edeccbfc5c6c3a266bff]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2010/13/section/51) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-4a2bf1a18885edeccbfc5c6c3a266bff]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2010/13/section/51) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

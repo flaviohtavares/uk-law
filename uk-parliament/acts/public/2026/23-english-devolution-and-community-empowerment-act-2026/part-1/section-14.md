@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Levies[^key-f39ca55fcbef1baf28b6a2a7d9555efb]
+## 14. Levies[^c-f39ca55fcbef1baf28b6a2a7d9555efb]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f39ca55fcbef1baf28b6a2a7d9555efb]: Commencement: S. 14 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-f39ca55fcbef1baf28b6a2a7d9555efb]: Commencement: S. 14 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

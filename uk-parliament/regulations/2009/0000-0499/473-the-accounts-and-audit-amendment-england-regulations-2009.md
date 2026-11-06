@@ -32,7 +32,7 @@ summary: ''
 
 Local Government, England
 
-The Accounts and Audit (Amendment) (England) Regulations 2009 (revoked)[^key-612a235a2089ca407870e90979510a9e]
+The Accounts and Audit (Amendment) (England) Regulations 2009 (revoked)[^c-612a235a2089ca407870e90979510a9e]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 31st March 2009
 
-[^key-612a235a2089ca407870e90979510a9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-612a235a2089ca407870e90979510a9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-612a235a2089ca407870e90979510a9e]
+## 1. Citation, commencement and application[^c-612a235a2089ca407870e90979510a9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Accounts and Audit Regulations 2003[^key-612a235a2089ca407870e90979510a9e]
+## 2. Amendment of the Accounts and Audit Regulations 2003[^c-612a235a2089ca407870e90979510a9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation and application[^key-612a235a2089ca407870e90979510a9e]
+## 3. Interpretation and application[^c-612a235a2089ca407870e90979510a9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Internal drainage boards[^key-612a235a2089ca407870e90979510a9e]
+## 4. Internal drainage boards[^c-612a235a2089ca407870e90979510a9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Signing and approval of statements of accounts[^key-612a235a2089ca407870e90979510a9e]
+## 5. Signing and approval of statements of accounts[^c-612a235a2089ca407870e90979510a9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Publication of income and expenditure account and receipts and payments[^key-612a235a2089ca407870e90979510a9e]
+## 6. Publication of income and expenditure account and receipts and payments[^c-612a235a2089ca407870e90979510a9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Written notice of proposed objection[^key-612a235a2089ca407870e90979510a9e]
+## 7. Written notice of proposed objection[^c-612a235a2089ca407870e90979510a9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Extraordinary audit[^key-612a235a2089ca407870e90979510a9e]
+## 8. Extraordinary audit[^c-612a235a2089ca407870e90979510a9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-612a235a2089ca407870e90979510a9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-612a235a2089ca407870e90979510a9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-612a235a2089ca407870e90979510a9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-612a235a2089ca407870e90979510a9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-612a235a2089ca407870e90979510a9e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/473) revoked (31.3.2011) by [The Accounts and Audit (England) Regulations 2011 (S.I. 2011/817)](https://www.legislation.gov.uk/uksi/2011/817), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/817/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/817/schedule)
+[^c-612a235a2089ca407870e90979510a9e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/473) revoked (31.3.2011) by [The Accounts and Audit (England) Regulations 2011 (S.I. 2011/817)](https://www.legislation.gov.uk/uksi/2011/817), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/817/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/817/schedule)

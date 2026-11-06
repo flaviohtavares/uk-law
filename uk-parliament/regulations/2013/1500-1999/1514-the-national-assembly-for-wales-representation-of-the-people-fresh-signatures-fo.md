@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People
 
-The National Assembly for Wales (Representation of the People) (Fresh Signatures for Absent Voters) Order 2013 (revoked)[^key-aabea911f1cc68acf72312ba23988ec6]
+The National Assembly for Wales (Representation of the People) (Fresh Signatures for Absent Voters) Order 2013 (revoked)[^c-aabea911f1cc68acf72312ba23988ec6]
 
 Made
 
@@ -40,24 +40,24 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-aabea911f1cc68acf72312ba23988ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aabea911f1cc68acf72312ba23988ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-aabea911f1cc68acf72312ba23988ec6]
+## 1. Citation and commencement[^c-aabea911f1cc68acf72312ba23988ec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the requirement to provide fresh signatures at five yearly intervals[^key-aabea911f1cc68acf72312ba23988ec6]
+## 2. Modification of the requirement to provide fresh signatures at five yearly intervals[^c-aabea911f1cc68acf72312ba23988ec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aabea911f1cc68acf72312ba23988ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aabea911f1cc68acf72312ba23988ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aabea911f1cc68acf72312ba23988ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aabea911f1cc68acf72312ba23988ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aabea911f1cc68acf72312ba23988ec6]: Textual amendment: Order revoked (W.) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/uksi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/864/article/1/2), [Sch. 12 para. 4](https://www.legislation.gov.uk/uksi/2025/864/schedule/12/paragraph/4) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/864/article/1/4))
+[^c-aabea911f1cc68acf72312ba23988ec6]: Textual amendment: Order revoked (W.) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/uksi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/864/article/1/2), [Sch. 12 para. 4](https://www.legislation.gov.uk/uksi/2025/864/schedule/12/paragraph/4) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/864/article/1/4))

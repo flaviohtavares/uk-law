@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5DI. Special provision in respect of Lehman Brothers investments and Keydata investments[^key-8ef43955e91d7850ecd84c6f42a9af50]
+## 5DI. Special provision in respect of Lehman Brothers investments and Keydata investments[^c-8ef43955e91d7850ecd84c6f42a9af50]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ef43955e91d7850ecd84c6f42a9af50]: Textual amendment: Regs. 5D-5DM inserted (8.8.2012) by [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/1871/regulation/11)
+[^c-8ef43955e91d7850ecd84c6f42a9af50]: Textual amendment: Regs. 5D-5DM inserted (8.8.2012) by [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/1871/regulation/11)

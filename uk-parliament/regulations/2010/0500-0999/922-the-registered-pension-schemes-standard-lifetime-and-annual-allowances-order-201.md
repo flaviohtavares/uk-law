@@ -46,15 +46,15 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by sections 218(3) and 228(2) of the Finance Act 2004[^f00001].
 
-## 1. Citation and commencement[^key-10ddc1cca9e6aca7b8a9f3c5c8b1094f]
+## 1. Citation and commencement[^c-10ddc1cca9e6aca7b8a9f3c5c8b1094f]
 
 This Order may be cited as the Registered Pension Schemes (Standard Lifetime and Annual Allowances) Order 2010 and shall come into force on 15th April 2010.
 
-## 2. Standard lifetime allowance[^key-3c7c836a096be5147d1eaae0d505d12b]
+## 2. Standard lifetime allowance[^c-3c7c836a096be5147d1eaae0d505d12b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Annual allowance[^key-7eb844c98af435213602be50ebd87ede]
+## 3. Annual allowance[^c-7eb844c98af435213602be50ebd87ede]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -82,8 +82,8 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-10ddc1cca9e6aca7b8a9f3c5c8b1094f]: Commencement: Art. 1 in force at 15.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/922/article/1)
+[^c-10ddc1cca9e6aca7b8a9f3c5c8b1094f]: Commencement: Art. 1 in force at 15.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/922/article/1)
 
-[^key-3c7c836a096be5147d1eaae0d505d12b]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2010/922/article/2) omitted (with effect in accordance with Sch. 18 Pt. 2 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/12)
+[^c-3c7c836a096be5147d1eaae0d505d12b]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2010/922/article/2) omitted (with effect in accordance with Sch. 18 Pt. 2 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/12)
 
-[^key-7eb844c98af435213602be50ebd87ede]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2010/922/article/3) omitted (with effect in accordance with Sch. 17 Pt. 2 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 17 para. 26(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17/paragraph/26/2)
+[^c-7eb844c98af435213602be50ebd87ede]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2010/922/article/3) omitted (with effect in accordance with Sch. 17 Pt. 2 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 17 para. 26(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17/paragraph/26/2)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) The amount of the childcare costs element for an assessment period is the lesser of—
 
-- (a)[^key-df80a211f3e5a49a69d1d3521a045f77] 85 percent of the charges paid for relevant childcare that are attributable to that assessment period, or
+- (a)[^c-df80a211f3e5a49a69d1d3521a045f77] 85 percent of the charges paid for relevant childcare that are attributable to that assessment period, or
 - (b) the maximum amount specified in the table in regulation 38.
 
 (2) In determining the amount of charges paid for relevant childcare, there is to be left out of the account any amount—
@@ -32,10 +32,10 @@ summary: ''
 
 (3) “**Other relevant support**” means payments out of funds provided by the Department in connection with the claimant's participation in work-related activity or training.
 
-(3A)[^key-b9915c30575869d6279d658c7ee7fa99] in determining the amount of charges paid for relevant childcare pursuant to regulation 35(2) of the Universal Credit Regulations (Northern Ireland) 2016, the Department must not leave out of the account a payment for childcare costs from the Adviser Discretion Fund.
+(3A)[^c-b9915c30575869d6279d658c7ee7fa99] in determining the amount of charges paid for relevant childcare pursuant to regulation 35(2) of the Universal Credit Regulations (Northern Ireland) 2016, the Department must not leave out of the account a payment for childcare costs from the Adviser Discretion Fund.
 
 ## Annotations
 
-[^key-df80a211f3e5a49a69d1d3521a045f77]: Modification: Percentage in reg. 35(1)(a) confirmed (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(1)](https://www.legislation.gov.uk/nisr/2018/56/article/27)
+[^c-df80a211f3e5a49a69d1d3521a045f77]: Modification: Percentage in reg. 35(1)(a) confirmed (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(1)](https://www.legislation.gov.uk/nisr/2018/56/article/27)
 
-[^key-b9915c30575869d6279d658c7ee7fa99]: Textual amendment: [Reg. 35(3A)](https://www.legislation.gov.uk/nisr/2016/216/regulation/35/3A) inserted (4.10.2021) by [The Universal Credit (Childcare Costs) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/249)](https://www.legislation.gov.uk/nisr/2021/249), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/249/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2021/249/regulation/2/2)
+[^c-b9915c30575869d6279d658c7ee7fa99]: Textual amendment: [Reg. 35(3A)](https://www.legislation.gov.uk/nisr/2016/216/regulation/35/3A) inserted (4.10.2021) by [The Universal Credit (Childcare Costs) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/249)](https://www.legislation.gov.uk/nisr/2021/249), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/249/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2021/249/regulation/2/2)

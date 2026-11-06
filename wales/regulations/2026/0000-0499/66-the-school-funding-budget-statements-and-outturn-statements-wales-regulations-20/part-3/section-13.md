@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. New schools[^key-6d820ffd2874a17d7f81e79e5cc682cb]
+## 13. New schools[^c-6d820ffd2874a17d7f81e79e5cc682cb]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d820ffd2874a17d7f81e79e5cc682cb]: Commencement: Reg. 13 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-6d820ffd2874a17d7f81e79e5cc682cb]: Commencement: Reg. 13 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

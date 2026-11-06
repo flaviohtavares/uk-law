@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Power to enter and remain on premises[^key-93e9fc05c4f57de5160a50251803f4a2]
+## 23. Power to enter and remain on premises[^c-93e9fc05c4f57de5160a50251803f4a2]
 
 *Extent: E+W+S*
 
@@ -93,4 +93,4 @@ After section 453 of the Companies Act 1985 (c. 6) insert—
 
 ## Annotations
 
-[^key-93e9fc05c4f57de5160a50251803f4a2]: Commencement: S. 23 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-93e9fc05c4f57de5160a50251803f4a2]: Commencement: S. 23 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))

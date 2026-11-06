@@ -31,10 +31,10 @@ summary: ''
 
 - (a) an order under section 5,
 - (b) an order under section 41(4), or
-- (c)[^key-1f23b17c22dbf2ee98b110487bd72fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1f23b17c22dbf2ee98b110487bd72fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
 ## Annotations
 
-[^key-1f23b17c22dbf2ee98b110487bd72fa1]: Textual amendment: [S. 105(3)(c)](https://www.legislation.gov.uk/ukpga/2006/21/section/105/3/c) omitted (1.1.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2015/26/schedule/2/paragraph/19); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/6/b)
+[^c-1f23b17c22dbf2ee98b110487bd72fa1]: Textual amendment: [S. 105(3)(c)](https://www.legislation.gov.uk/ukpga/2006/21/section/105/3/c) omitted (1.1.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2015/26/schedule/2/paragraph/19); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/6/b)

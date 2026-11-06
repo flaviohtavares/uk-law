@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Enforcement, modification and discharge of the Deed of Obligation[^key-799796033b7ba1cdca50dbf7b9067d41]
+## 45. Enforcement, modification and discharge of the Deed of Obligation[^c-799796033b7ba1cdca50dbf7b9067d41]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-799796033b7ba1cdca50dbf7b9067d41]: Commencement: Art. 45 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-799796033b7ba1cdca50dbf7b9067d41]: Commencement: Art. 45 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

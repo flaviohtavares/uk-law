@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-fc4291e10bf7cf101bf7b04c06475ae2]
+## 1. Citation and commencement[^c-fc4291e10bf7cf101bf7b04c06475ae2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Hornsea One Offshore Wind Farm Order 2014 and com
 
 ## Annotations
 
-[^key-fc4291e10bf7cf101bf7b04c06475ae2]: Commencement: Art. 1 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-fc4291e10bf7cf101bf7b04c06475ae2]: Commencement: Art. 1 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

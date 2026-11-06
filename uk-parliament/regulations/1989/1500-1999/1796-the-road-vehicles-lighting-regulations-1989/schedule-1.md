@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — OBLIGATORY LAMPS, REFLECTORS, REAR MARKINGS AND DEVICES[^key-ad8e3a7a2987f93cee82bd20548636bc]
+## SCHEDULE 1 — OBLIGATORY LAMPS, REFLECTORS, REAR MARKINGS AND DEVICES[^c-ad8e3a7a2987f93cee82bd20548636bc]
 
 *Extent: E+W+S*
 
@@ -53,7 +53,7 @@ TABLE I
 </tbody>
 </table>
 
-[^key-123063710e481c4af5a77b5b406f525d][^key-656cd6dfee62d9537c2c2dc481e484bb][^key-a7eaaeb02f6acbb1e1af7f18a2084ea9][^key-6c11f0583ba30ce577f65fd12556749e][^key-55b009fa2b3613cf5f7b5dc86a5bbaac][^key-3951bcae884cf855ee740c9b1928b48e][^key-446b75ae68a3515e7d1b048bd81b6b32]
+[^c-123063710e481c4af5a77b5b406f525d][^c-656cd6dfee62d9537c2c2dc481e484bb][^c-a7eaaeb02f6acbb1e1af7f18a2084ea9][^c-6c11f0583ba30ce577f65fd12556749e][^c-55b009fa2b3613cf5f7b5dc86a5bbaac][^c-3951bcae884cf855ee740c9b1928b48e][^c-446b75ae68a3515e7d1b048bd81b6b32]
 
 TABLE II
 
@@ -150,7 +150,7 @@ TABLE VI
 </tbody>
 </table>
 
-[^key-7ec276b25e947811853344de36873f13][^key-f7bf0146b73b6b5af9c5c2f7744f3858][^key-e210d2a0e21b2146da3460734ec36b64][^key-dc868bb5c342a4da2b8a98ebee09f599]
+[^c-7ec276b25e947811853344de36873f13][^c-f7bf0146b73b6b5af9c5c2f7744f3858][^c-e210d2a0e21b2146da3460734ec36b64][^c-dc868bb5c342a4da2b8a98ebee09f599]
 
 TABLE VII
 
@@ -169,26 +169,26 @@ TABLE VII
 
 ## Annotations
 
-[^key-ad8e3a7a2987f93cee82bd20548636bc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-ad8e3a7a2987f93cee82bd20548636bc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-123063710e481c4af5a77b5b406f525d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 1 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/10/2/a)
+[^c-123063710e481c4af5a77b5b406f525d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 1 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/10/2/a)
 
-[^key-656cd6dfee62d9537c2c2dc481e484bb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 1 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/10/3)
+[^c-656cd6dfee62d9537c2c2dc481e484bb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 1 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/10/3)
 
-[^key-a7eaaeb02f6acbb1e1af7f18a2084ea9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 1 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/10/2/b)
+[^c-a7eaaeb02f6acbb1e1af7f18a2084ea9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 1 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/10/2/b)
 
-[^key-6c11f0583ba30ce577f65fd12556749e]: Textual amendment: Semicolon in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 1 substituted for full stop (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/10/2/a)
+[^c-6c11f0583ba30ce577f65fd12556749e]: Textual amendment: Semicolon in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 1 substituted for full stop (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/10/2/a)
 
-[^key-55b009fa2b3613cf5f7b5dc86a5bbaac]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 1 added (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/10/2/b)
+[^c-55b009fa2b3613cf5f7b5dc86a5bbaac]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 1 added (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/10/2/b)
 
-[^key-3951bcae884cf855ee740c9b1928b48e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations 2017 (S.I. 2017/852)](https://www.legislation.gov.uk/uksi/2017/852), [regs. 1](https://www.legislation.gov.uk/uksi/2017/852/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/852/regulation/8)
+[^c-3951bcae884cf855ee740c9b1928b48e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations 2017 (S.I. 2017/852)](https://www.legislation.gov.uk/uksi/2017/852), [regs. 1](https://www.legislation.gov.uk/uksi/2017/852/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/852/regulation/8)
 
-[^key-446b75ae68a3515e7d1b048bd81b6b32]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/9) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-446b75ae68a3515e7d1b048bd81b6b32]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/9) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-7ec276b25e947811853344de36873f13]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 6 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/10/4)
+[^c-7ec276b25e947811853344de36873f13]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 6 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/10/4)
 
-[^key-f7bf0146b73b6b5af9c5c2f7744f3858]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 6 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/10/2/b)
+[^c-f7bf0146b73b6b5af9c5c2f7744f3858]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 6 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/10/2/b)
 
-[^key-e210d2a0e21b2146da3460734ec36b64]: Textual amendment: Semicolon in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 6 substituted for full stop (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/10/3/a)
+[^c-e210d2a0e21b2146da3460734ec36b64]: Textual amendment: Semicolon in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 6 substituted for full stop (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/10/3/a)
 
-[^key-dc868bb5c342a4da2b8a98ebee09f599]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 6 added (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/10/3/b)
+[^c-dc868bb5c342a4da2b8a98ebee09f599]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/1) Table 6 added (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/10/3/b)

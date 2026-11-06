@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Adoption[^key-7e87b78c13f8d5f77a28afeb794c0eac]
+## 29. Adoption[^c-7e87b78c13f8d5f77a28afeb794c0eac]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (4) In section 6(2) (person legitimated following foreign convention adoption by just one parent), after “marriage of” insert “, or formation of a civil partnership by,”.
 
-**30.**[^key-57417be01a577f54f0fbea7a4a86b826][^key-7e87b78c13f8d5f77a28afeb794c0eac] (1) The Adoption (Northern Ireland) Order 1987 is amended as follows.
+**30.**[^c-57417be01a577f54f0fbea7a4a86b826][^c-7e87b78c13f8d5f77a28afeb794c0eac] (1) The Adoption (Northern Ireland) Order 1987 is amended as follows.
 
 (2) In Article 2[^f00042] (interpretation), after paragraph (5) insert—
 
@@ -129,12 +129,12 @@ summary: ''
 
 (12) In Article 55(1) (person legitimated following adoption by just one parent), after “marriage of” insert “, or formation of a civil partnership by,”.
 
-**31.**[^key-5bec0f2a7c6560d3428c2588da5a0174][^key-7e87b78c13f8d5f77a28afeb794c0eac] In the Adoption Agencies Regulations (Northern Ireland) 1989[^f00047], in Part 6 of the Schedule (particulars relating to the prospective adopter)—
+**31.**[^c-5bec0f2a7c6560d3428c2588da5a0174][^c-7e87b78c13f8d5f77a28afeb794c0eac] In the Adoption Agencies Regulations (Northern Ireland) 1989[^f00047], in Part 6 of the Schedule (particulars relating to the prospective adopter)—
 
 - (a) in paragraph 4, after “marriage” insert “or civil partnership”;
 - (b) in paragraph 5, for “married person” substitute “person who is married or a civil partner”.
 
-**32.**[^key-e26c70a9bc4df88c8de236cf0287d5d5][^key-7e87b78c13f8d5f77a28afeb794c0eac] (1) The Intercountry Adoption (Hague Convention) Regulations (Northern Ireland) 2003[^f00048] are amended as follows.
+**32.**[^c-e26c70a9bc4df88c8de236cf0287d5d5][^c-7e87b78c13f8d5f77a28afeb794c0eac] (1) The Intercountry Adoption (Hague Convention) Regulations (Northern Ireland) 2003[^f00048] are amended as follows.
 
 (2) In regulation 2 (interpretation)—
 
@@ -169,11 +169,11 @@ summary: ''
 
 ## Annotations
 
-[^key-7e87b78c13f8d5f77a28afeb794c0eac]: Commencement: Reg. 29 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-7e87b78c13f8d5f77a28afeb794c0eac]: Commencement: Reg. 29 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00041]: Footnote: [1969 c.22 (N.I.)](https://www.legislation.gov.uk/apni/1969/22); sections 1 and 2 were substituted by paragraph 6 of Schedule 4 to the Adoption (Northern Ireland) Order 1987 ([S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)).
 
-[^key-57417be01a577f54f0fbea7a4a86b826]: Commencement: Reg. 30 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-57417be01a577f54f0fbea7a4a86b826]: Commencement: Reg. 30 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00042]: Footnote: In Article 2, paragraphs (4) and (5) were inserted by paragraph 139 of Schedule 9 to [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
@@ -185,10 +185,10 @@ summary: ''
 
 [^f00046]: Footnote: Article 20(3) was inserted by paragraph 146 of Schedule 9 to the Children (Northern Ireland) Order 1995.
 
-[^key-5bec0f2a7c6560d3428c2588da5a0174]: Commencement: Reg. 31 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-5bec0f2a7c6560d3428c2588da5a0174]: Commencement: Reg. 31 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00047]: Footnote: [S.R. 1989/253](https://www.legislation.gov.uk/nisr/1989/253).
 
-[^key-e26c70a9bc4df88c8de236cf0287d5d5]: Commencement: Reg. 32 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-e26c70a9bc4df88c8de236cf0287d5d5]: Commencement: Reg. 32 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00048]: Footnote: S.R. [(N.I.) 2003 No. 16](https://www.legislation.gov.uk/nisr/2003/16).

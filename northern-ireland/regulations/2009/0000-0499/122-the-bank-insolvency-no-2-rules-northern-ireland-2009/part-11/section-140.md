@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 140. Supplementary provisions as to dividend[^key-3e9f535eab5699d3a814557068d26efc]
+## 140. Supplementary provisions as to dividend[^c-3e9f535eab5699d3a814557068d26efc]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.191 of the 1991 Rules.
 
 ## Annotations
 
-[^key-3e9f535eab5699d3a814557068d26efc]: Commencement: Rule 140 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-3e9f535eab5699d3a814557068d26efc]: Commencement: Rule 140 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

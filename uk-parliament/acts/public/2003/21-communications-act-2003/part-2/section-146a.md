@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146A. Rights of third parties to use information without charge[^key-8f7511229043b9454135a1b1c7fea539]
+## 146A. Rights of third parties to use information without charge[^c-8f7511229043b9454135a1b1c7fea539]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f7511229043b9454135a1b1c7fea539]: Textual amendment: S. 146A inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 88](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/88) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-8f7511229043b9454135a1b1c7fea539]: Textual amendment: S. 146A inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 88](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/88) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

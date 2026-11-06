@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Private examination[^key-a0e6a1ccf044e9f6dc3408ed201cc69d]
+## 118. Private examination[^c-a0e6a1ccf044e9f6dc3408ed201cc69d]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ or both to such fine and to such imprisonment.
 
 ## Annotations
 
-[^key-a0e6a1ccf044e9f6dc3408ed201cc69d]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2016/21/section/118) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-a0e6a1ccf044e9f6dc3408ed201cc69d]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2016/21/section/118) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

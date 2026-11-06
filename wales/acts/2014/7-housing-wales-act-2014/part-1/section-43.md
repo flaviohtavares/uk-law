@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Activity in contravention of this Part: effect on tenancy agreements[^key-55d056db22a742052b33544474fcae07]
+## 43. Activity in contravention of this Part: effect on tenancy agreements[^c-55d056db22a742052b33544474fcae07]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55d056db22a742052b33544474fcae07]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2014/7/section/43) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-55d056db22a742052b33544474fcae07]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2014/7/section/43) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

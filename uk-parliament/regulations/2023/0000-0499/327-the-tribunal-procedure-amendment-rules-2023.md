@@ -50,11 +50,11 @@ The Tribunal Procedure Committee makes the following Rules, in exercise of the p
 
 The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of Schedule 5 to the Tribunals, Courts and Enforcement Act 2007.
 
-## 1. Citation and commencement[^key-18475b83f69de953c1e2ac7079620d9e]
+## 1. Citation and commencement[^c-18475b83f69de953c1e2ac7079620d9e]
 
 These Rules may be cited as the Tribunal Procedure (Amendment) Rules 2023 and come into force on 6th April 2023.
 
-## 2. Amendments to the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008[^key-be7515666f74ba4f6f5a9b7a42fa7f4b]
+## 2. Amendments to the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008[^c-be7515666f74ba4f6f5a9b7a42fa7f4b]
 
 (1) The Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008[^f00002] are amended as follows.
 
@@ -63,13 +63,13 @@ These Rules may be cited as the Tribunal Procedure (Amendment) Rules 2023 and co
 - (a) in paragraph (7A) for “Her Majesty’s” substitute “His Majesty’s”;
 - (b) in paragraph (9)(b) for “Her Majesty’s” substitute “His Majesty’s”.
 
-## 3. Amendments to the Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009[^key-b7a31c0e3c8b62a5ce0e4a8dd34d05c0]
+## 3. Amendments to the Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009[^c-b7a31c0e3c8b62a5ce0e4a8dd34d05c0]
 
 (1) The Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009[^f00003] are amended as follows.
 
 (2) In rule 1(3) (citation, commencement, application and interpretation) in the definition of “HMRC” for “Her Majesty’s” substitute “His Majesty’s”.
 
-## 4. Amendments to the Tribunal Procedure (First-tier Tribunal) (War Pensions and Armed Forces Compensation Chamber) Rules 2008[^key-a70bc8dfd67fc6178d19aff0c880aaa7]
+## 4. Amendments to the Tribunal Procedure (First-tier Tribunal) (War Pensions and Armed Forces Compensation Chamber) Rules 2008[^c-a70bc8dfd67fc6178d19aff0c880aaa7]
 
 (1) The Tribunal Procedure (First-tier Tribunal) (War Pensions and Armed Forces Compensation Chamber) Rules 2008[^f00004] are amended as follows.
 
@@ -101,7 +101,7 @@ These Rules may be cited as the Tribunal Procedure (Amendment) Rules 2023 and co
     > - (c) the decision maker must send a copy of the revised decision to the Tribunal.
 
     ;
-- (b) in paragraph (2) in the second place in which it appears[^key-785ac6fad403958c912d49c09bcd0031] for “decision maker” substitute “Tribunal”;
+- (b) in paragraph (2) in the second place in which it appears[^c-785ac6fad403958c912d49c09bcd0031] for “decision maker” substitute “Tribunal”;
 - (c) after paragraph (2) insert—
 
   > (2A) The Tribunal must send a copy of the appellant’s representations or written statement provided under paragraph (2) (if any) to the decision maker.
@@ -140,7 +140,7 @@ These Rules may be cited as the Tribunal Procedure (Amendment) Rules 2023 and co
 - (a) omit paragraphs (1) and (2);
 - (b) in paragraph (5) omit “arranges a medical examination under paragraph (2) or”.
 
-## 5. Amendments to the Tribunal Procedure (Upper Tribunal) Rules 2008[^key-bf6e54291fa608fcd1f31e4586fb4f9a]
+## 5. Amendments to the Tribunal Procedure (Upper Tribunal) Rules 2008[^c-bf6e54291fa608fcd1f31e4586fb4f9a]
 
 (1) The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00005] are amended as follows.
 
@@ -172,7 +172,7 @@ These Rules may be cited as the Tribunal Procedure (Amendment) Rules 2023 and co
   ;
 - (e) in paragraph (4) after “communication” insert “(including transmission through the Upper Tribunal’s secure portal)”.
 
-## 6. Amendments to the Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010[^key-a9aae2988c54ea03a6405e84b1c114f7]
+## 6. Amendments to the Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010[^c-a9aae2988c54ea03a6405e84b1c114f7]
 
 (1) The Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010[^f00006] are amended as follows.
 
@@ -209,7 +209,7 @@ These Rules may be cited as the Tribunal Procedure (Amendment) Rules 2023 and co
 - (a) in paragraph (3)(b) after “application” insert “land”;
 - (b) in paragraph (4) after “a landowner” insert “or as”.
 
-## 7. Saving provision applicable to appeals to the First-tier Tribunal (War Pensions and Armed Forces Compensation Chamber)[^key-e660a3309f7a1e4dca5e2156228ee2ce]
+## 7. Saving provision applicable to appeals to the First-tier Tribunal (War Pensions and Armed Forces Compensation Chamber)[^c-e660a3309f7a1e4dca5e2156228ee2ce]
 
 The amendments made by rule 4 of these Rules do not apply to any appeals where written notice of the decision being challenged was sent to the appellant before 6th April 2023.
 
@@ -267,28 +267,28 @@ No impact assessment has been carried out for these amendments as no, or no sign
 
 [^f00001]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15). There are amendments to the Act but none is relevant to this instrument.
 
-[^key-18475b83f69de953c1e2ac7079620d9e]: Commencement: Rule 1 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
+[^c-18475b83f69de953c1e2ac7079620d9e]: Commencement: Rule 1 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
 
-[^key-be7515666f74ba4f6f5a9b7a42fa7f4b]: Commencement: Rule 2 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
+[^c-be7515666f74ba4f6f5a9b7a42fa7f4b]: Commencement: Rule 2 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
 
 [^f00002]: Footnote: [S.I. 2008/2685](https://www.legislation.gov.uk/uksi/2008/2685); relevant amending instruments are [S.I. 2013/477](https://www.legislation.gov.uk/uksi/2013/477) and [S.I. 2015/1510](https://www.legislation.gov.uk/uksi/2015/1510).
 
-[^key-b7a31c0e3c8b62a5ce0e4a8dd34d05c0]: Commencement: Rule 3 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
+[^c-b7a31c0e3c8b62a5ce0e4a8dd34d05c0]: Commencement: Rule 3 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
 
 [^f00003]: Footnote: [S.I. 2009/273](https://www.legislation.gov.uk/uksi/2009/273); relevant amending instrument is [S.I. 2010/2653](https://www.legislation.gov.uk/uksi/2010/2653).
 
-[^key-a70bc8dfd67fc6178d19aff0c880aaa7]: Commencement: Rule 4 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
+[^c-a70bc8dfd67fc6178d19aff0c880aaa7]: Commencement: Rule 4 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
 
 [^f00004]: Footnote: [S.I. 2008/2686](https://www.legislation.gov.uk/uksi/2008/2686); relevant amending instruments are [S.I. 2010/2653](https://www.legislation.gov.uk/uksi/2010/2653) and [S.I. 2011/651](https://www.legislation.gov.uk/uksi/2011/651).
 
-[^key-785ac6fad403958c912d49c09bcd0031]: Textual amendment: Words in [rule 4(4)(b)](https://www.legislation.gov.uk/uksi/2023/327/rule/4/4/b) inserted (25.12.2023) by [The Tribunal Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1280)](https://www.legislation.gov.uk/uksi/2023/1280), [rules 1](https://www.legislation.gov.uk/uksi/2023/1280/rule/1), [6(2)](https://www.legislation.gov.uk/uksi/2023/1280/rule/6/2)
+[^c-785ac6fad403958c912d49c09bcd0031]: Textual amendment: Words in [rule 4(4)(b)](https://www.legislation.gov.uk/uksi/2023/327/rule/4/4/b) inserted (25.12.2023) by [The Tribunal Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1280)](https://www.legislation.gov.uk/uksi/2023/1280), [rules 1](https://www.legislation.gov.uk/uksi/2023/1280/rule/1), [6(2)](https://www.legislation.gov.uk/uksi/2023/1280/rule/6/2)
 
-[^key-bf6e54291fa608fcd1f31e4586fb4f9a]: Commencement: Rule 5 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
+[^c-bf6e54291fa608fcd1f31e4586fb4f9a]: Commencement: Rule 5 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
 
 [^f00005]: Footnote: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698); relevant amending instrument is [S.I. 2009/274](https://www.legislation.gov.uk/uksi/2009/274).
 
-[^key-a9aae2988c54ea03a6405e84b1c114f7]: Commencement: Rule 6 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
+[^c-a9aae2988c54ea03a6405e84b1c114f7]: Commencement: Rule 6 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
 
 [^f00006]: Footnote: [S.I. 2010/2600](https://www.legislation.gov.uk/uksi/2010/2600); relevant amending instrument is [S.I. 2022/1030](https://www.legislation.gov.uk/uksi/2022/1030).
 
-[^key-e660a3309f7a1e4dca5e2156228ee2ce]: Commencement: Rule 7 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)
+[^c-e660a3309f7a1e4dca5e2156228ee2ce]: Commencement: Rule 7 in force at 6.4.2023, see [rule 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1)

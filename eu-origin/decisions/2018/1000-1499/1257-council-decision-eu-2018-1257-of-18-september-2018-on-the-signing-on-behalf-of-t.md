@@ -33,18 +33,18 @@ of 18 September 2018
 
 on the signing, on behalf of the European Union, of the Agreement to Prevent Unregulated High Seas Fisheries in the Central Arctic Ocean (revoked)
 
-[^key-275e080e51cb7c448a10eba25b2e3572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-275e080e51cb7c448a10eba25b2e3572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-275e080e51cb7c448a10eba25b2e3572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-275e080e51cb7c448a10eba25b2e3572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-275e080e51cb7c448a10eba25b2e3572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-275e080e51cb7c448a10eba25b2e3572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-275e080e51cb7c448a10eba25b2e3572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-275e080e51cb7c448a10eba25b2e3572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-275e080e51cb7c448a10eba25b2e3572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-275e080e51cb7c448a10eba25b2e3572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-275e080e51cb7c448a10eba25b2e3572]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-275e080e51cb7c448a10eba25b2e3572]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

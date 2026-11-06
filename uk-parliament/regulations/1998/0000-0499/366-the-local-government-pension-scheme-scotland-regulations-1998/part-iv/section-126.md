@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 126. Changes of fund[^key-c74281e123e7055a1e38c6421c71fa43]
+## 126. Changes of fund[^c-c74281e123e7055a1e38c6421c71fa43]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ that amount must be so determined.
 
 ## Annotations
 
-[^key-c74281e123e7055a1e38c6421c71fa43]: Commencement: Reg. 126 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-c74281e123e7055a1e38c6421c71fa43]: Commencement: Reg. 126 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

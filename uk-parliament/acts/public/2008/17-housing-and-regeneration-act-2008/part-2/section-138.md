@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Charity: accountant's report[^key-b03288a7f25bd28c584f04e6a6f05314]
+## 138. Charity: accountant's report[^c-b03288a7f25bd28c584f04e6a6f05314]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) On the basis of the information in the accounting records the report must also state whether—
 
-- (a) the accounts comply with the requirements of the Charities Act 2011[^key-393633606258390bfb675c61287b330c];
+- (a) the accounts comply with the requirements of the Charities Act 2011[^c-393633606258390bfb675c61287b330c];
 - (b) section 136(3) applied in respect of the accounts.
 
 (4) The report must give the name of the reporting accountant and be signed.
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b03288a7f25bd28c584f04e6a6f05314]: Commencement: S. 138 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-b03288a7f25bd28c584f04e6a6f05314]: Commencement: S. 138 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-393633606258390bfb675c61287b330c]: Textual amendment: Words in s. 138(3)(a) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 133](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/133) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-393633606258390bfb675c61287b330c]: Textual amendment: Words in s. 138(3)(a) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 133](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/133) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

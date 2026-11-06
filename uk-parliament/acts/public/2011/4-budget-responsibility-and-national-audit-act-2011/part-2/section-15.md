@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Employment etc of former Comptroller and Auditor General[^key-adba60bae84f69463879f89992abf362]
+## 15. Employment etc of former Comptroller and Auditor General[^c-adba60bae84f69463879f89992abf362]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ the person must consult such person as is specified by the Commission.
 
 ## Annotations
 
-[^key-adba60bae84f69463879f89992abf362]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/4/section/15) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-adba60bae84f69463879f89992abf362]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/4/section/15) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)

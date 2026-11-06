@@ -88,7 +88,7 @@ References to the repealed Regulation shall be construed as references to this R
 
 **Article 4.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-5cd2171748ad16c9f37e45ca9d19fc5c]...
+[^c-5cd2171748ad16c9f37e45ca9d19fc5c]...
 
 ## ANNEX — CATALOGUE OF FEED MATERIALS[^c000001]
 
@@ -102,11 +102,11 @@ The use of this Catalogue by the feed business operators shall be voluntary. How
 
 (2)
 
-All entries in the list of feed materials in Part C shall comply with the restrictions on the use of feed materials in accordance with retained EU Law[^key-07deeee727c4f6feb39bb2bc86d1175e]; particular attention shall be paid to compliance with Regulation (EC) No 1829/2003 of the European Parliament and of the Council[^f00004] for feed materials that are or are produced from genetically modified organisms, or result from a fermentation process involving genetically modified micro-organisms and, in relation to England, to the Genetic Technology (Precision Breeding) Act 2023 for feed materials that are or are produced from precision bred plants or result from a fermentation process involving precision bred plants. In this Annex, “[^key-ec1f5bbc24a332b5060064d2fec90a8b]**precision bred plants**” has the same meaning as in section 1, as read with section 2(1), of the Genetic Technology (Precision Breeding) Act 2023. Feed materials consisting of or containing animal by-products shall fulfil the requirements of Regulation (EC) No 1069/2009 of the European Parliament and of the Council[^f00005] and of Commission Regulation (EU) No 142/2011[^f00006] and their use may be subject to restrictions pursuant to Regulation (EC) No 999/2001 of the European Parliament and of the Council[^f00007]. Feed business operators using a feed material entered in the Catalogue shall ensure that it complies with Article 4 of Regulation (EC) No 767/2009.
+All entries in the list of feed materials in Part C shall comply with the restrictions on the use of feed materials in accordance with retained EU Law[^c-07deeee727c4f6feb39bb2bc86d1175e]; particular attention shall be paid to compliance with Regulation (EC) No 1829/2003 of the European Parliament and of the Council[^f00004] for feed materials that are or are produced from genetically modified organisms, or result from a fermentation process involving genetically modified micro-organisms and, in relation to England, to the Genetic Technology (Precision Breeding) Act 2023 for feed materials that are or are produced from precision bred plants or result from a fermentation process involving precision bred plants. In this Annex, “[^c-ec1f5bbc24a332b5060064d2fec90a8b]**precision bred plants**” has the same meaning as in section 1, as read with section 2(1), of the Genetic Technology (Precision Breeding) Act 2023. Feed materials consisting of or containing animal by-products shall fulfil the requirements of Regulation (EC) No 1069/2009 of the European Parliament and of the Council[^f00005] and of Commission Regulation (EU) No 142/2011[^f00006] and their use may be subject to restrictions pursuant to Regulation (EC) No 999/2001 of the European Parliament and of the Council[^f00007]. Feed business operators using a feed material entered in the Catalogue shall ensure that it complies with Article 4 of Regulation (EC) No 767/2009.
 
 (3)
 
-‘Former foodstuffs’ means foodstuffs, other than catering reflux, which were manufactured for human consumption in full compliance with retained EU law[^key-bb86a6542ebefd64875b2edada595480] but which are no longer intended for human consumption for practical or logistical reasons or due to problems of manufacturing or packaging defects or other defects and which do not present any health risks when used as feed. The setting of maximum contents as referred to in point 1 of Annex I to Regulation (EC) No 767/2009 shall not be applicable to former foodstuffs and catering reflux. It shall apply when further processed as feed.
+‘Former foodstuffs’ means foodstuffs, other than catering reflux, which were manufactured for human consumption in full compliance with retained EU law[^c-bb86a6542ebefd64875b2edada595480] but which are no longer intended for human consumption for practical or logistical reasons or due to problems of manufacturing or packaging defects or other defects and which do not present any health risks when used as feed. The setting of maximum contents as referred to in point 1 of Annex I to Regulation (EC) No 767/2009 shall not be applicable to former foodstuffs and catering reflux. It shall apply when further processed as feed.
 
 (4)
 
@@ -998,7 +998,7 @@ Feed materials in this chapter containing animal products shall fullfil the requ
 
 *Products and by-products obtained by fermentation using micro-organisms, inactivated resulting in absence of live micro-organisms*
 
-Feed materials listed in this chapter that are or are produced from genetically modified organisms, or result from a fermentation process involving genetically modified micro-organisms shall be compliant with Regulation (EC) No 1829/2003 on genetically modified feed and food. In relation to England, feed materials listed in this chapter that are or are produced from precision bred plants, or result from a fermentation process involving precision bred plants, must be compliant with the Genetic Technology (Precision Breeding) Act 2023.[^key-faa780c74658e2b5c7e7632a3f662578]
+Feed materials listed in this chapter that are or are produced from genetically modified organisms, or result from a fermentation process involving genetically modified micro-organisms shall be compliant with Regulation (EC) No 1829/2003 on genetically modified feed and food. In relation to England, feed materials listed in this chapter that are or are produced from precision bred plants, or result from a fermentation process involving precision bred plants, must be compliant with the Genetic Technology (Precision Breeding) Act 2023.[^c-faa780c74658e2b5c7e7632a3f662578]
 
 <table>
 <tfoot>
@@ -1128,15 +1128,15 @@ Feed materials in this chapter containing animal products shall fullfil the requ
 
 [^f00003]: Footnote: [OJ L 77, 24.3.2010, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.077.01.0017.01.ENG).
 
-[^key-5cd2171748ad16c9f37e45ca9d19fc5c]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/68/signature) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [134](https://www.legislation.gov.uk/uksi/2019/654/regulation/134); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5cd2171748ad16c9f37e45ca9d19fc5c]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/68/signature) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [134](https://www.legislation.gov.uk/uksi/2019/654/regulation/134); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) 2017/1017 of 15 June 2017 amending Regulation (EU) No 68/2013 on the Catalogue of feed materials (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/1017).
 
-[^key-07deeee727c4f6feb39bb2bc86d1175e]: Textual amendment: Words in Annex Pt. A point 2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [135(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/135/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07deeee727c4f6feb39bb2bc86d1175e]: Textual amendment: Words in Annex Pt. A point 2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [135(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/135/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: Regulation (EC) No 1829/2003 of the European Parliament and of the Council of[^c000001] 22 September 2003 on genetically modified food and feed ( [OJ L 268, 18.10.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.268.01.0001.01.ENG) ).
 
-[^key-ec1f5bbc24a332b5060064d2fec90a8b]: Textual amendment: Words in Annex Pt. A point 2 inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/10/2/a)
+[^c-ec1f5bbc24a332b5060064d2fec90a8b]: Textual amendment: Words in Annex Pt. A point 2 inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/10/2/a)
 
 [^f00005]: Footnote: Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 ( [OJ L 300, 14.11.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.300.01.0001.01.ENG) ).
 
@@ -1144,7 +1144,7 @@ Feed materials in this chapter containing animal products shall fullfil the requ
 
 [^f00007]: Footnote: [OJ L 147, 31.5.2001, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.147.01.0001.01.ENG) .
 
-[^key-bb86a6542ebefd64875b2edada595480]: Textual amendment: Words in Annex Pt. A point 3 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [135(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/135/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb86a6542ebefd64875b2edada595480]: Textual amendment: Words in Annex Pt. A point 3 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [135(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/135/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00008]: Footnote: [OJ L 35, 8.2.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.035.01.0001.01.ENG) .
 
@@ -1240,7 +1240,7 @@ Feed materials in this chapter containing animal products shall fullfil the requ
 
 [^f00043]: Footnote: The name shall be supplemented by ‘ from bones ’ where appropriate.
 
-[^key-faa780c74658e2b5c7e7632a3f662578]: Textual amendment: Words in Annex Pt. C Ch. 12 inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/10/2/b)
+[^c-faa780c74658e2b5c7e7632a3f662578]: Textual amendment: Words in Annex Pt. C Ch. 12 inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/10/2/b)
 
 [^f00044]: Footnote: Products obtained from the biomass of specific micro-organisms grown on certain substrates. May contain up to 0,3 % antifoaming agents, 1,5 % filtration/clarifying agents and 2,9 % propionic acid.
 

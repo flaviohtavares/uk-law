@@ -197,9 +197,9 @@ Section 208
 > - “**authorised person**” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act);
 > - “**contentious business**” means business done in or for the purposes of proceedings begun before a court or before an arbitrator, not being non-contentious or common form probate business (within the meaning of section 128 of the Supreme Court Act 1981).
 
-### ...[^key-ace3aed911dfc49a809b159388e9b62c]
+### ...[^c-ace3aed911dfc49a809b159388e9b62c]
 
-**32.**[^key-2e4fe85b9095bb093afd5fb6544c2a28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-2e4fe85b9095bb093afd5fb6544c2a28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Bail Act 1976 (c. 63)
 
@@ -214,13 +214,13 @@ Section 208
 
 ### Race Relations Act 1976 (c. 74)
 
-**36.**[^key-1ec1cbd103f607143a3b882bc2c7e0a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-1ec1cbd103f607143a3b882bc2c7e0a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-1ec1cbd103f607143a3b882bc2c7e0a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-1ec1cbd103f607143a3b882bc2c7e0a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-1ec1cbd103f607143a3b882bc2c7e0a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-1ec1cbd103f607143a3b882bc2c7e0a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-74e7d313284544aa2e7cb433eda4eb63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-74e7d313284544aa2e7cb433eda4eb63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Patents Act 1977 (c. 37)
 
@@ -237,13 +237,13 @@ Section 208
 
 ### Estate Agents Act 1979 (c. 38)
 
-**41.**[^key-251f9bd426136bb6e1f44c967b148f6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-251f9bd426136bb6e1f44c967b148f6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Magistrates' Courts Act 1980 (c. 43)
 
 **42.** The Magistrates' Courts Act 1980 is amended in accordance with paragraphs 43 and 44.
 
-**43.**[^key-94de054c4be7552f23f7a92eafa46a3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-94de054c4be7552f23f7a92eafa46a3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **44.** In section 150 (interpretation), in subsection (1), in the definition of “legal representative” for “an authorised advocate” to the end substitute “ a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act); ”.
 
@@ -251,7 +251,7 @@ Section 208
 
 **45.** The Supreme Court Act 1981 is amended in accordance with paragraphs 46 and 47.
 
-**46.**[^key-92eb89a4e4ea020b83826065754326a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-92eb89a4e4ea020b83826065754326a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **47.** In section 90(3B) (conduct of proceedings by Official Solicitor) for “section 28(2)(a) of the Courts and Legal Services Act 1990” substitute “ the fact that he is a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the conduct of litigation (within the meaning of that Act) ”.
 
@@ -631,7 +631,7 @@ Section 208
 - (b) Schedule 5 (the Authorised Conveyancing Practitioners Board);
 - (c) Schedule 6 (the Conveyancing Appeals Tribunals);
 - (d) Schedule 7 (the Conveyancing Ombudsman Scheme);
-- (e)[^key-d9af41bdc00e2aa77d7e0f7af2f8a60d] in Part 2 of Schedule 8 (amendments of provisions relating to powers of Conveyancing Licensing Council etc), paragraphs 14 to 20 and 21(1)(b);
+- (e)[^c-d9af41bdc00e2aa77d7e0f7af2f8a60d] in Part 2 of Schedule 8 (amendments of provisions relating to powers of Conveyancing Licensing Council etc), paragraphs 14 to 20 and 21(1)(b);
 - (f) Schedule 9 (probate).
 
 **101.** In paragraph 17 of Schedule 19 (revocation of appointment under section 1(1) of the Commissioners for Oaths Act 1889) for “Secretary of State” substitute “ Lord Chancellor ”.
@@ -681,7 +681,7 @@ Section 208
 
 **109.** The Trade Marks Act 1994 is amended in accordance with paragraphs 110 to 115.
 
-**110.**[^key-9f9038fdc176c0474e098985198d68ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**110.**[^c-9f9038fdc176c0474e098985198d68ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **111.** In section 84 (unregistered persons not to be described as registered trade mark agents)—
 
@@ -741,9 +741,9 @@ Section 208
 
 **117.** In section 54 of the Environment Act 1995 (appearance in legal proceedings), omit “although not of counsel or a solicitor”.
 
-### ...[^key-2ca1f6d1b22cf85e12d1a2b6d5eeaf3f]
+### ...[^c-2ca1f6d1b22cf85e12d1a2b6d5eeaf3f]
 
-**118.**[^key-394db76281ef4a6078eea84b570d669a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**118.**[^c-394db76281ef4a6078eea84b570d669a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Police Act 1996 (c. 16)
 
@@ -801,7 +801,7 @@ Section 208
 
 **127.** The Access to Justice Act 1999 is amended in accordance with paragraphs 128 to 131.
 
-**128.**[^key-fae0ea66b90f165857908266908ed811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**128.**[^c-fae0ea66b90f165857908266908ed811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **129.** In section 44 (barristers employed by solicitors)—
 
@@ -822,7 +822,7 @@ Section 208
   > - “**authorised person**” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which is a reserved legal activity (within the meaning of that Act), and
   > - “**manager**” has the same meaning as in that Act (see section 207 of that Act).
 
-**130.**[^key-7a6364db763a886bbc6bc924e8fdae1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**130.**[^c-7a6364db763a886bbc6bc924e8fdae1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **131.** In section 46 (Bar practising certificates)—
 
@@ -851,7 +851,7 @@ Section 208
 
   > (2A) “**Relevant lawyer**” means a barrister, advocate, solicitor or other legal representative communications with whom may be the subject of a claim to professional privilege.
 
-**136.**[^key-d682f347c6ce9a44a704781943b2e7e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**136.**[^c-d682f347c6ce9a44a704781943b2e7e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Income Tax (Earnings and Pensions) Act 2003 (c. 1)
 
@@ -902,7 +902,7 @@ Section 208
 (2) In subsection (2)—
 
 - (a) in paragraph (k) for from “granted” to “right” substitute “ authorised by a relevant approved regulator ”,
-- (b)[^key-2230d98c02e6358658688cba83488c70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2230d98c02e6358658688cba83488c70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph (m) for “granted that right” substitute “ authorised ”.
 
 (3) For subsection (5)(b) substitute—
@@ -919,9 +919,9 @@ Section 208
 
 **146.** In section 56 (interpretation of Part 8), in subsection (1), in the definition of “legal representative”, for “an authorised advocate” to the end substitute “ a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act), ”.
 
-**147.**[^key-8ede5fde72e5fe3c8d763cf8399faf30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**147.**[^c-8ede5fde72e5fe3c8d763cf8399faf30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**148.**[^key-13455afc0313aef0b8135932e31274ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**148.**[^c-13455afc0313aef0b8135932e31274ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Children Act 2004 (c. 31)
 
@@ -1041,19 +1041,19 @@ Section 208
 
 ## Annotations
 
-[^key-ace3aed911dfc49a809b159388e9b62c]: Textual amendment: [Sch. 21 para. 32 crossheading](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/crossheading/sex-discrimination-act-1975-c-65) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)
+[^c-ace3aed911dfc49a809b159388e9b62c]: Textual amendment: [Sch. 21 para. 32 crossheading](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/crossheading/sex-discrimination-act-1975-c-65) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)
 
-[^key-2e4fe85b9095bb093afd5fb6544c2a28]: Textual amendment: [Sch. 21 para. 32](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/32) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) )
+[^c-2e4fe85b9095bb093afd5fb6544c2a28]: Textual amendment: [Sch. 21 para. 32](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/32) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) )
 
-[^key-1ec1cbd103f607143a3b882bc2c7e0a1]: Textual amendment: [Sch. 21 paras. 36-38](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/36) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) )
+[^c-1ec1cbd103f607143a3b882bc2c7e0a1]: Textual amendment: [Sch. 21 paras. 36-38](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/36) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) )
 
-[^key-74e7d313284544aa2e7cb433eda4eb63]: Textual amendment: Sch. 21 para. 39 repealed (4.4.2011) by the Equality Act 2010 (c. 15), Sch. 27 Pt. 1A (as inserted by [S.I. 2011/1060](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Sch. 3)](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3)
+[^c-74e7d313284544aa2e7cb433eda4eb63]: Textual amendment: Sch. 21 para. 39 repealed (4.4.2011) by the Equality Act 2010 (c. 15), Sch. 27 Pt. 1A (as inserted by [S.I. 2011/1060](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Sch. 3)](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3)
 
-[^key-251f9bd426136bb6e1f44c967b148f6b]: Textual amendment: [Sch. 21 para. 41](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/41) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(h)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/h); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-251f9bd426136bb6e1f44c967b148f6b]: Textual amendment: [Sch. 21 para. 41](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/41) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(h)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/h); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-94de054c4be7552f23f7a92eafa46a3c]: Textual amendment: [Sch. 21 para. 43](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/43) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/10)
+[^c-94de054c4be7552f23f7a92eafa46a3c]: Textual amendment: [Sch. 21 para. 43](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/43) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/10)
 
-[^key-92eb89a4e4ea020b83826065754326a4]: Textual amendment: [Sch. 21 para. 46](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/46) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/10)
+[^c-92eb89a4e4ea020b83826065754326a4]: Textual amendment: [Sch. 21 para. 46](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/46) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/10)
 
 [^c20584621]: Commencement: [Sch. 21 para. 84](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/84) wholly in force at 1.1.2010, see [s. 211](https://www.legislation.gov.uk/ukpga/2007/29/section/211) and [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h) (subject to [art. 6](https://www.legislation.gov.uk/uksi/2009/3250/article/6) and with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
@@ -1063,28 +1063,28 @@ Section 208
 
 [^c20577981]: Commencement: [Sch. 21 para. 100](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/100) wholly in force at 1.1.2010; [Sch. 21 para. 100](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/100) not in force at Royal Assent see [s. 211](https://www.legislation.gov.uk/ukpga/2007/29/section/211); [Sch. 21 para. 100(b)-(d)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/100/b) in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/503/article/2/d); [s. 100(a)(e)(f)](https://www.legislation.gov.uk/ukpga/2007/29/section/100/a/e/f) in force at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h) (subject to [art. 6](https://www.legislation.gov.uk/uksi/2009/3250/article/6) and with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-d9af41bdc00e2aa77d7e0f7af2f8a60d]: Commencement: [Sch. 21 para. 100(e)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/100/e) in force at 6.10.2010 in so far as not already in force by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
+[^c-d9af41bdc00e2aa77d7e0f7af2f8a60d]: Commencement: [Sch. 21 para. 100(e)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/100/e) in force at 6.10.2010 in so far as not already in force by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6))
 
 [^c20589251]: Textual amendment: [Sch. 21 para. 108](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/108) omitted (1.4.2010) by virtue of The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 ([S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054)), art. 3, {Sch. para. 16(f)}
 
-[^key-9f9038fdc176c0474e098985198d68ab]: Textual amendment: Sch. 21 para. 110 repealed (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/1050/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f9038fdc176c0474e098985198d68ab]: Textual amendment: Sch. 21 para. 110 repealed (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/1050/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2ca1f6d1b22cf85e12d1a2b6d5eeaf3f]: Textual amendment: [Sch. 21 para. 118 crossheading](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/crossheading/disability-discrimination-act-1995-c-50) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2)](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)
+[^c-2ca1f6d1b22cf85e12d1a2b6d5eeaf3f]: Textual amendment: [Sch. 21 para. 118 crossheading](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/crossheading/disability-discrimination-act-1995-c-50) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2)](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)
 
-[^key-394db76281ef4a6078eea84b570d669a]: Textual amendment: [Sch. 21 para. 118](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/118) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) )
+[^c-394db76281ef4a6078eea84b570d669a]: Textual amendment: [Sch. 21 para. 118](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/118) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) )
 
 [^c20068801]: Textual amendment: [Sch. 21 para. 119](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/119) repealed (1.12.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153), [Sch. 28 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/8); [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(k)(iii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/k/iii) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
 
-[^key-fae0ea66b90f165857908266908ed811]: Textual amendment: [Sch. 21 para. 128](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/128) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-fae0ea66b90f165857908266908ed811]: Textual amendment: [Sch. 21 para. 128](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/128) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
-[^key-7a6364db763a886bbc6bc924e8fdae1b]: Textual amendment: [Sch. 21 para. 130](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/130) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/5)
+[^c-7a6364db763a886bbc6bc924e8fdae1b]: Textual amendment: [Sch. 21 para. 130](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/130) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/5)
 
-[^key-d682f347c6ce9a44a704781943b2e7e3]: Textual amendment: [Sch. 21 para. 136](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/136) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(2)(f)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/2/f) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-d682f347c6ce9a44a704781943b2e7e3]: Textual amendment: [Sch. 21 para. 136](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/136) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(2)(f)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/2/f) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
-[^key-2230d98c02e6358658688cba83488c70]: Textual amendment: [Sch. 21 para. 144(2)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/144/2/b) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-2230d98c02e6358658688cba83488c70]: Textual amendment: [Sch. 21 para. 144(2)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/144/2/b) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-8ede5fde72e5fe3c8d763cf8399faf30]: Textual amendment: [Sch. 21 para. 147](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/147) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8ede5fde72e5fe3c8d763cf8399faf30]: Textual amendment: [Sch. 21 para. 147](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/147) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-13455afc0313aef0b8135932e31274ae]: Textual amendment: [Sch. 21 para. 148](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/148) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-13455afc0313aef0b8135932e31274ae]: Textual amendment: [Sch. 21 para. 148](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/148) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c20584751]: Textual amendment: [Sch. 21 para. 161](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/161) omitted (13.8.2009) by virtue of The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 ([S.I. 2009/2035](https://www.legislation.gov.uk/uksi/2009/2035)), art. 2, {Sch. para. 60(o)}

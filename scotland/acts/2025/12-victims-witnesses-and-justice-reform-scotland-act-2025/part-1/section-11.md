@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Carrying out investigations[^key-21e5331f42a0f782495f4329c26f2f11]
+## 11. Carrying out investigations[^c-21e5331f42a0f782495f4329c26f2f11]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21e5331f42a0f782495f4329c26f2f11]: Commencement: S. 11 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-21e5331f42a0f782495f4329c26f2f11]: Commencement: S. 11 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

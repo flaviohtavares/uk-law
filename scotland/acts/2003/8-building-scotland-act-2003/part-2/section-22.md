@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Imposition of continuing requirements by verifiers[^key-a4fa183e0a41705b59c04fb68b7da5a0]
+## 22. Imposition of continuing requirements by verifiers[^c-a4fa183e0a41705b59c04fb68b7da5a0]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ in respect of any building.
 
 ## Annotations
 
-[^key-a4fa183e0a41705b59c04fb68b7da5a0]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2003/8/section/22) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-a4fa183e0a41705b59c04fb68b7da5a0]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2003/8/section/22) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

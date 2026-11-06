@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. The relevant local planning authority[^key-a2d7c3db000d92736f8de2f83c72a309]
+## 173. The relevant local planning authority[^c-a2d7c3db000d92736f8de2f83c72a309]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ This is subject to subsections (3) to (5).
 
 ## Annotations
 
-[^key-a2d7c3db000d92736f8de2f83c72a309]: Commencement: S. 173 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-a2d7c3db000d92736f8de2f83c72a309]: Commencement: S. 173 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

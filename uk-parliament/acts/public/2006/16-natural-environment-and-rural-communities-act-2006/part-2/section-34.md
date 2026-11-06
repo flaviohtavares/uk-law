@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Functions of national or international significance[^key-73355e12a82324a26074fe14e26f9ea8]
+## 34. Functions of national or international significance[^c-73355e12a82324a26074fe14e26f9ea8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73355e12a82324a26074fe14e26f9ea8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2006/16/section/34) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-73355e12a82324a26074fe14e26f9ea8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2006/16/section/34) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

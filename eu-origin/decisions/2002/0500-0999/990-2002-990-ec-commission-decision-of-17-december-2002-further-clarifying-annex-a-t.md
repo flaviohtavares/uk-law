@@ -31,10 +31,10 @@ summary: ''
 
 of 17 December 2002 further clarifying Annex A to Council Regulation (EC) No 2223/96 as concerns the principles for measuring prices and volumes in national accounts (Text with EEA relevance) (notified under document number C(2002) 5054) (revoked)
 
-[^key-e6fed664646df02f501771d76fc44e43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e6fed664646df02f501771d76fc44e43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-e6fed664646df02f501771d76fc44e43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-e6fed664646df02f501771d76fc44e43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e6fed664646df02f501771d76fc44e43]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/39)
+[^c-e6fed664646df02f501771d76fc44e43]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/39)

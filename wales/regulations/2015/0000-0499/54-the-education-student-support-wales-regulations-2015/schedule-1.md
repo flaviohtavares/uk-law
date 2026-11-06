@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Eligible Students[^key-f4b704cf600605459488591e30d420cb]
+## SCHEDULE 1 — Eligible Students[^c-f4b704cf600605459488591e30d420cb]
 
 *Extent: E+W*
 
@@ -24,50 +24,50 @@ summary: ''
 
 Regulations 4, 69, 86 and 115
 
-### PART 1 — Interpretation[^key-f4b704cf600605459488591e30d420cb]
+### PART 1 — Interpretation[^c-f4b704cf600605459488591e30d420cb]
 
-**1.**[^key-f4b704cf600605459488591e30d420cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f4b704cf600605459488591e30d420cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Categories[^key-f4b704cf600605459488591e30d420cb]
+### PART 2 — Categories[^c-f4b704cf600605459488591e30d420cb]
 
-#### 2. Persons who are settled in the United Kingdom[^key-f4b704cf600605459488591e30d420cb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-f4b704cf600605459488591e30d420cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4. Refugees and their family members[^key-f4b704cf600605459488591e30d420cb]
+#### 2. Persons who are settled in the United Kingdom[^c-f4b704cf600605459488591e30d420cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Persons with leave to enter or remain and their family members[^key-f4b704cf600605459488591e30d420cb]
+**3.**[^c-f4b704cf600605459488591e30d420cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Refugees and their family members[^c-f4b704cf600605459488591e30d420cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Workers, employed persons, self-employed persons and their family members[^key-f4b704cf600605459488591e30d420cb]
+#### 5. Persons with leave to enter or remain and their family members[^c-f4b704cf600605459488591e30d420cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f4b704cf600605459488591e30d420cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-f4b704cf600605459488591e30d420cb]
+#### 6. Workers, employed persons, self-employed persons and their family members[^c-f4b704cf600605459488591e30d420cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. EU nationals[^key-f4b704cf600605459488591e30d420cb]
+**7.**[^c-f4b704cf600605459488591e30d420cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-f4b704cf600605459488591e30d420cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-f4b704cf600605459488591e30d420cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 11. Children of Swiss nationals[^key-f4b704cf600605459488591e30d420cb]
+#### 9. EU nationals[^c-f4b704cf600605459488591e30d420cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Children of Turkish workers[^key-f4b704cf600605459488591e30d420cb]
+**10.**[^c-f4b704cf600605459488591e30d420cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11. Children of Swiss nationals[^c-f4b704cf600605459488591e30d420cb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. Children of Turkish workers[^c-f4b704cf600605459488591e30d420cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f4b704cf600605459488591e30d420cb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2015/54) revoked (17.2.2017) by [The Education (Student Support) (Wales) Regulations 2017 (S.I. 2017/47)](https://www.legislation.gov.uk/wsi/2017/47), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2), [3(1)](https://www.legislation.gov.uk/wsi/2017/47/regulation/3/1) (subject to savings and transitional provisions in [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/3), [3(14)](https://www.legislation.gov.uk/wsi/2017/47/regulation/3/14)[(16)](https://www.legislation.gov.uk/wsi/2017/47/regulation/3/16)) (as amended (12.3.2018) by [S.I. 2018/191](https://www.legislation.gov.uk/uksi/2018/191), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2018/191/regulation/2), [100](https://www.legislation.gov.uk/uksi/2018/191/regulation/100), [Sch. 6 paras. 2-4](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/2)); and reg. 115(4)(a), in so far as still in force, amended (3.4.2017) [S.I. 2017/52](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 30(2)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/30/2)
+[^c-f4b704cf600605459488591e30d420cb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2015/54) revoked (17.2.2017) by [The Education (Student Support) (Wales) Regulations 2017 (S.I. 2017/47)](https://www.legislation.gov.uk/wsi/2017/47), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2), [3(1)](https://www.legislation.gov.uk/wsi/2017/47/regulation/3/1) (subject to savings and transitional provisions in [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/3), [3(14)](https://www.legislation.gov.uk/wsi/2017/47/regulation/3/14)[(16)](https://www.legislation.gov.uk/wsi/2017/47/regulation/3/16)) (as amended (12.3.2018) by [S.I. 2018/191](https://www.legislation.gov.uk/uksi/2018/191), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2018/191/regulation/2), [100](https://www.legislation.gov.uk/uksi/2018/191/regulation/100), [Sch. 6 paras. 2-4](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/2)); and reg. 115(4)(a), in so far as still in force, amended (3.4.2017) [S.I. 2017/52](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 30(2)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/30/2)

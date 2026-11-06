@@ -35,18 +35,18 @@ amending Annexes II, III and V to Regulation (EC) No 396/2005 of the European Pa
 
 (Text with EEA relevance) (revoked)
 
-[^key-4ef317cd226b24c68fc2bffad881f1f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ef317cd226b24c68fc2bffad881f1f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-4ef317cd226b24c68fc2bffad881f1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4ef317cd226b24c68fc2bffad881f1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4ef317cd226b24c68fc2bffad881f1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4ef317cd226b24c68fc2bffad881f1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef317cd226b24c68fc2bffad881f1f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ef317cd226b24c68fc2bffad881f1f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-4ef317cd226b24c68fc2bffad881f1f5]
+## ANNEX[^c-4ef317cd226b24c68fc2bffad881f1f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ef317cd226b24c68fc2bffad881f1f5]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/3), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/1410/schedule/paragraph/9) (with [reg. 4(2)-(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/4/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ef317cd226b24c68fc2bffad881f1f5]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/3), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/1410/schedule/paragraph/9) (with [reg. 4(2)-(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/4/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

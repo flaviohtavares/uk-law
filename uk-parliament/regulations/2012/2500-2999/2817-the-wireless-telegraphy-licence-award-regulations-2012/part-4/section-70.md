@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Final principal stage deposit[^key-f1e260be6ee8eee9a7d6908e53d575cc]
+## 70. Final principal stage deposit[^c-f1e260be6ee8eee9a7d6908e53d575cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1e260be6ee8eee9a7d6908e53d575cc]: Commencement: Reg. 70 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-f1e260be6ee8eee9a7d6908e53d575cc]: Commencement: Reg. 70 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

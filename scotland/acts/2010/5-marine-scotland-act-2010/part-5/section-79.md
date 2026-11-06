@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Creation of network of conservation sites[^key-67e5ef8d10f9260666a4504da11c70e3]
+## 79. Creation of network of conservation sites[^c-67e5ef8d10f9260666a4504da11c70e3]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The conditions are—
 
-- (a)[^key-00bf571bd6d66c19f7b560169e173516] that the network contributes to the conservation or improvement of the marine environment in the UK marine area,
+- (a)[^c-00bf571bd6d66c19f7b560169e173516] that the network contributes to the conservation or improvement of the marine environment in the UK marine area,
 - (b) that the features which are protected by the sites comprised in the network represent the range of features present in the UK marine area,
 - (c) that the designation of sites comprised in the network reflects the fact that the conservation of a feature may require the designation of more than one site.
 
@@ -37,7 +37,7 @@ summary: ''
 - (c) the whole or part of any site of special scientific interest,
 - (d) the whole or part of any Ramsar site.
 
-(5) When complying with the duty imposed by subsection (1), the Scottish Ministers must have regard to any assimilated[^key-6b6c33830aa9785a0fddd83a77f6e128][^key-9167c35c151fba6d9cc8708898ea8ca0] obligations (within the meaning of schedule 1 of the Interpretation Act 1978 or obligations under international law that relate to the conservation or improvement of the marine environment.
+(5) When complying with the duty imposed by subsection (1), the Scottish Ministers must have regard to any assimilated[^c-6b6c33830aa9785a0fddd83a77f6e128][^c-9167c35c151fba6d9cc8708898ea8ca0] obligations (within the meaning of schedule 1 of the Interpretation Act 1978 or obligations under international law that relate to the conservation or improvement of the marine environment.
 
 (6) Before the end of the period of 2 months beginning with the date on which this section comes into force, the Scottish Ministers must—
 
@@ -53,7 +53,7 @@ summary: ''
 
 (9) In this section—
 
-- “European offshore marine site” has the meaning given by the Conservation of Offshore Marine Habitats and Species Regulations 2017 ([^key-98c2bdba6b6638b48d58afb0e8888f98][S.I. 2017/1013](https://www.legislation.gov.uk/uksi/2017/1013)),
+- “European offshore marine site” has the meaning given by the Conservation of Offshore Marine Habitats and Species Regulations 2017 ([^c-98c2bdba6b6638b48d58afb0e8888f98][S.I. 2017/1013](https://www.legislation.gov.uk/uksi/2017/1013)),
 - “**feature**” means—
   - (a) marine flora or fauna,
   - (b) marine habitats or types of such habitat,
@@ -63,12 +63,12 @@ summary: ''
 
 ## Annotations
 
-[^key-67e5ef8d10f9260666a4504da11c70e3]: Commencement: S. 79 in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-67e5ef8d10f9260666a4504da11c70e3]: Commencement: S. 79 in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
 
-[^key-00bf571bd6d66c19f7b560169e173516]: Modification: [S. 79(3)(a)](https://www.legislation.gov.uk/asp/2010/5/section/79/3/a) modified by [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716), [reg. 3A(5)](https://www.legislation.gov.uk/uksi/1994/2716/regulation/3A/5) (as substituted (16.8.2012) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2012/228/regulation/4))
+[^c-00bf571bd6d66c19f7b560169e173516]: Modification: [S. 79(3)(a)](https://www.legislation.gov.uk/asp/2010/5/section/79/3/a) modified by [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716), [reg. 3A(5)](https://www.legislation.gov.uk/uksi/1994/2716/regulation/3A/5) (as substituted (16.8.2012) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2012/228/regulation/4))
 
-[^key-6b6c33830aa9785a0fddd83a77f6e128]: Textual amendment: Word in [s. 79(5)](https://www.legislation.gov.uk/asp/2010/5/section/79/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/8)
+[^c-6b6c33830aa9785a0fddd83a77f6e128]: Textual amendment: Word in [s. 79(5)](https://www.legislation.gov.uk/asp/2010/5/section/79/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/8)
 
-[^key-9167c35c151fba6d9cc8708898ea8ca0]: Textual amendment: Words in s. 79(5) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/55/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9167c35c151fba6d9cc8708898ea8ca0]: Textual amendment: Words in s. 79(5) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/55/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-98c2bdba6b6638b48d58afb0e8888f98]: Textual amendment: Words in s. 79(9) substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/3/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-98c2bdba6b6638b48d58afb0e8888f98]: Textual amendment: Words in s. 79(9) substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/3/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))

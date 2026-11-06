@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 328. Enlistment[^key-fec1167dd97b355166d2f9e108c7b139][^key-c299bba42a655668672d401364275d01]
+## 328. Enlistment[^c-fec1167dd97b355166d2f9e108c7b139][^c-c299bba42a655668672d401364275d01]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,15 +41,15 @@ summary: ''
 
 (4) Where the regulations create an offence they may provide—
 
-- (a) that the offence is a service offence and is punishable by any punishment mentioned in rows 2 to 14[^key-8368edd816bda2bb5cda6e2ec6591d8f] of the Table in section 164; or
+- (a) that the offence is a service offence and is punishable by any punishment mentioned in rows 2 to 14[^c-8368edd816bda2bb5cda6e2ec6591d8f] of the Table in section 164; or
 - (b) that the offence is an offence triable summarily by a civilian court in the United Kingdom and is punishable by a fine not exceeding level 1 on the standard scale.
 
 (5) In this section and sections 329 to 331 “**prescribed**” means prescribed by regulations made by the Defence Council.
 
 ## Annotations
 
-[^key-fec1167dd97b355166d2f9e108c7b139]: Commencement: S. 328 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-fec1167dd97b355166d2f9e108c7b139]: Commencement: S. 328 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-c299bba42a655668672d401364275d01]: Commencement: S. 328 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c299bba42a655668672d401364275d01]: Commencement: S. 328 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-8368edd816bda2bb5cda6e2ec6591d8f]: Textual amendment: Word in [s. 328(4)(a)](https://www.legislation.gov.uk/ukpga/2006/52/section/328/4/a) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 6 para. 8(d)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/6/paragraph/8/d); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)
+[^c-8368edd816bda2bb5cda6e2ec6591d8f]: Textual amendment: Word in [s. 328(4)(a)](https://www.legislation.gov.uk/ukpga/2006/52/section/328/4/a) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 6 para. 8(d)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/6/paragraph/8/d); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)

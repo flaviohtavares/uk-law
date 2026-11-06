@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1)[^key-1425b2e09f8e81351638918331d07352] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-1425b2e09f8e81351638918331d07352] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The reference in subsection (1)(f) of section 137 to the admission of a recording includes a reference to the admission of part of the recording; and references in that section and this one to the video recording or to the witness’s recorded account shall, where appropriate, be read accordingly.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1425b2e09f8e81351638918331d07352]: Textual amendment: S. 138(1) repealed (27.6.2011) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 111](https://www.legislation.gov.uk/ukpga/2009/25/section/111), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/c/i)
+[^c-1425b2e09f8e81351638918331d07352]: Textual amendment: S. 138(1) repealed (27.6.2011) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 111](https://www.legislation.gov.uk/ukpga/2009/25/section/111), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/c/i)

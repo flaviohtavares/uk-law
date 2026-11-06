@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## PART 1 — THE LEGAL SERVICES OVERSIGHT COMMISSIONER FOR NORTHERN IRELAND
 
-### 1. The Legal Services Oversight Commissioner for Northern Ireland[^key-a932a222b68d038067a4920843689108]
+### 1. The Legal Services Oversight Commissioner for Northern Ireland[^c-a932a222b68d038067a4920843689108]
 
 (1) There is to be an officer known as the Legal Services Oversight Commissioner for Northern Ireland.
 
@@ -50,7 +50,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) Schedule 1 has effect in relation to the Commissioner.
 
-### 2. General powers of the Commissioner[^key-f7118f6cdf84548588f0f1d04bb2a8ca]
+### 2. General powers of the Commissioner[^c-f7118f6cdf84548588f0f1d04bb2a8ca]
 
 (1) The Commissioner may—
 
@@ -89,7 +89,7 @@ the Commissioner may require the body to pay a penalty.
 
 (9) A penalty under subsection (4) must be paid to the Commissioner who must pay it to the Department.
 
-### 3. Duty of certain bodies to consult Commissioner[^key-e4132d0f68e4a90af7b9035b084936d7]
+### 3. Duty of certain bodies to consult Commissioner[^c-e4132d0f68e4a90af7b9035b084936d7]
 
 (1) Where any body listed in subsection (2) has power to make any rules or regulations (however they may be described) which apply to or in relation to barristers, other than those made for the purposes of any functions that that body has to represent or promote the interests of barristers, that body must consult the Commissioner before making those rules or, as the case may be, those regulations.
 
@@ -118,13 +118,13 @@ the Commissioner may require the body to pay a penalty.
 
 .
 
-### 4. Duty of Commissioner to review certain matters[^key-2e6d11e758d7b93413a31b2e1877f50e]
+### 4. Duty of Commissioner to review certain matters[^c-2e6d11e758d7b93413a31b2e1877f50e]
 
 (1) At the request of the Department, and within such time as the Department may specify, the Commissioner must review, and submit a report to the Department on, such matter or matters relating to the organisation or regulation of the professional bodies as the Department may specify.
 
 (2) Each report published by the Commissioner under subsection (1) must be published by the Commissioner in such manner as the Commissioner may determine.
 
-### 5. The levy[^key-70563f3e411610375eae54c6c39be7b8]
+### 5. The levy[^c-70563f3e411610375eae54c6c39be7b8]
 
 (1) The Department must make regulations providing for the imposition of a levy on each professional body for the purpose of raising an amount corresponding to the expenditure of the Legal Services Oversight Commissioner incurred under or for the purposes of this Act or any other statutory provision.
 
@@ -134,7 +134,7 @@ the Commissioner may require the body to pay a penalty.
 
 (4) No regulations shall be made under this section unless a draft of the regulations has been laid before, and approved by resolution of, the Assembly.
 
-### 6. The levy: supplementary provisions[^key-527687902302fbdae4b9d3ff858357a2]
+### 6. The levy: supplementary provisions[^c-527687902302fbdae4b9d3ff858357a2]
 
 (1) In this section—
 
@@ -157,7 +157,7 @@ the Commissioner may require the body to pay a penalty.
 - (b) make provision about the circumstances in which any amount of the levy payable may be waived;
 - (c) provide that if the whole or any part of an amount of the levy payable under the levy regulations is not paid by the time when it is required to be paid under the regulations, the unpaid balance carries interest at the rate determined by or in accordance with the levy regulations.
 
-### 7. Payments by Department[^key-c606f4f5a9cf64cf7eb71b906a2c8f33]
+### 7. Payments by Department[^c-c606f4f5a9cf64cf7eb71b906a2c8f33]
 
 (1) The Department may pay to the Commissioner such sums as the Department may determine as appropriate for the purpose of meeting any expenditure of the Commissioner incurred under or for the purposes of this Act or any other statutory provision.
 
@@ -167,11 +167,11 @@ the Commissioner may require the body to pay a penalty.
 - (b) determine the manner in which and times at which those sums are to be paid; and
 - (c) impose conditions on the payment of those sums.
 
-### 8. Privilege for certain publications[^key-2057a9c42a8a0f1cd48a20cc5b33836c]
+### 8. Privilege for certain publications[^c-2057a9c42a8a0f1cd48a20cc5b33836c]
 
 For the purposes of the law of defamation, publication by the Commissioner of any matter which the Commissioner is required or authorised to publish under this Act shall be absolutely privileged unless the publication is proved to be made with malice.
 
-### 9. Lay observer[^key-00ddf6ee970446596fb20925bb5812b2]
+### 9. Lay observer[^c-00ddf6ee970446596fb20925bb5812b2]
 
 (1) The office of lay observer (within the meaning of the 1976 Order) is abolished.
 
@@ -181,7 +181,7 @@ For the purposes of the law of defamation, publication by the Commissioner of an
 
 (4) Where the Commissioner exercises the functions of a lay observer by virtue of subsection (3), the 1976 Order shall have effect in relation to the Commissioner's examination as if this Act had not been passed.
 
-### 10. Interpretation of Part 1[^key-6b34c587a1a8bc2b7576aa777492d360]
+### 10. Interpretation of Part 1[^c-6b34c587a1a8bc2b7576aa777492d360]
 
 In this Part—
 
@@ -195,7 +195,7 @@ In this Part—
 
 ### Complaints procedures for barristers
 
-#### 11. Complaints procedures for barristers[^key-cb77250985e1a6eeffd99faf1a90685e]
+#### 11. Complaints procedures for barristers[^c-cb77250985e1a6eeffd99faf1a90685e]
 
 (1) The General Council of the Bar must make provision requiring every barrister to participate in, or make arrangements to be subject to, procedures for the resolution of relevant complaints established and maintained by such person or body as may be specified by the General Council of the Bar, and provision must be made by the Council for the enforcement of that requirement.
 
@@ -205,13 +205,13 @@ In this Part—
 
 ### Bar Complaints Committee
 
-#### 12. Bar Complaints Committee[^key-4e5743da22a5f65b9a3e628cbd306a38]
+#### 12. Bar Complaints Committee[^c-4e5743da22a5f65b9a3e628cbd306a38]
 
 (1) The Benchers of the Honorable Society of the Inn of Court of Northern Ireland (in this Part referred to as “**the Benchers**”) must, in accordance with the provisions of this Part, establish and maintain a committee to be known as the Bar Complaints Committee to deal with any complaint made by or on behalf of a complainant within section 15 in relation to professional services provided by a barrister.
 
 (2) Schedule 2 makes further provision in relation to the Bar Complaints Committee.
 
-#### 13. Jurisdiction of the Bar Complaints Committee[^key-cf93fb9588def8240fe6b1e7c4a9553f]
+#### 13. Jurisdiction of the Bar Complaints Committee[^c-cf93fb9588def8240fe6b1e7c4a9553f]
 
 (1) A complaint which relates to an act or omission of a barrister (“**the respondent**”) in the course of providing professional services is within the jurisdiction of the Bar Complaints Committee if—
 
@@ -220,7 +220,7 @@ In this Part—
 
 (2) The right of a person to make a complaint to the Bar Complaints Committee, and the jurisdiction of the Committee to investigate, consider and determine a complaint, may not be limited or excluded by any contract term.
 
-#### 14. Excluded complaints[^key-402fa7484fbca8f94d5d15532e222e6a]
+#### 14. Excluded complaints[^c-402fa7484fbca8f94d5d15532e222e6a]
 
 (1) A complaint is excluded from the jurisdiction of the Bar Complaints Committee if the complainant has not first used the respondent's complaints procedures in relation to the complaint.
 
@@ -228,7 +228,7 @@ In this Part—
 
 (3) Rules made by the Committee under section 17(1) must provide that subsection (1) of this section does not apply in such circumstances as may be specified in the rules.
 
-#### 15. Complainants[^key-417706564ae8ae73fb21e83c2616de09]
+#### 15. Complainants[^c-417706564ae8ae73fb21e83c2616de09]
 
 (1) A complainant (“C”) is within this section if C—
 
@@ -253,7 +253,7 @@ In this Part—
 
 (5) An order made under this section is subject to negative resolution.
 
-#### 16. Orders under section 15[^key-436ffe37655e1781a5191caa50b58dfc]
+#### 16. Orders under section 15[^c-436ffe37655e1781a5191caa50b58dfc]
 
 (1) An interested body may recommend to the Department that the Department make an order under section 15(2)(b), (3)(c) or (4)(b).
 
@@ -274,7 +274,7 @@ In this Part—
 - (a) the Bar Complaints Committee; or
 - (b) the Legal Services Oversight Commissioner.
 
-#### 17. Procedure for complaints[^key-1fc30692dc9a2bf3cb5070687d6c95b5]
+#### 17. Procedure for complaints[^c-1fc30692dc9a2bf3cb5070687d6c95b5]
 
 (1) The Bar Complaints Committee must make rules setting out the procedure for—
 
@@ -323,7 +323,7 @@ In this Part—
 
 (10) In subsections (2), (3) and (4), “**specified**” means specified in rules made under subsection (1).
 
-#### 18. Notification requirements[^key-7a6f9fc9393d910e8698b704e0052041]
+#### 18. Notification requirements[^c-7a6f9fc9393d910e8698b704e0052041]
 
 (1) This section applies where a complaint made to the Bar Complaints Committee—
 
@@ -352,50 +352,50 @@ and, in a case within subsection (1)(a) or (b), must give reasons for the exclus
 
 #### 19. Determination of complaints
 
-(1)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] The Bar Complaints Committee may determine a complaint made in accordance with the provisions of this Part by—
+(1)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] The Bar Complaints Committee may determine a complaint made in accordance with the provisions of this Part by—
 
 - (a) upholding the complaint (or part of the complaint); or
 - (b) dismissing the complaint (or part of the complaint).
 
 (2) A determination by the Committee upholding a complaint may contain one or more of the following—
 
-- (a)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that the respondent make an apology (which shall not, of itself, amount to an admission of negligence for the purpose of any civil proceedings) to the complainant;
-- (b)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that—
+- (a)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that the respondent make an apology (which shall not, of itself, amount to an admission of negligence for the purpose of any civil proceedings) to the complainant;
+- (b)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that—
   - (i) the fees to which the respondent is entitled in respect of the services to which the complaint relates (“the fees”) are limited to such amount (if any) as may be specified in the direction, and
   - (ii) the respondent comply, or secure compliance, with such one or more of the requirements falling within subsection (3) as appear to the Committee to be necessary in order for effect to be given to the direction under sub-paragraph (i);
 - (c) a direction that the respondent pay compensation to the complainant of such amount as is specified in the direction in respect of any loss which, in the opinion of the Committee, has been suffered by the complainant as a result of the respondent's negligence;
-- (d)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that the respondent pay compensation to the complainant of such amount as is specified in the direction in respect of any loss (other than such loss as is mentioned in paragraph (c)), inconvenience or distress which has been caused to the complainant as a result of any matter connected with the complaint;
-- (e)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that the respondent secure the rectification, at the expense of the respondent, of any such error, omission or other deficiency arising in connection with the matter in question as the direction may specify;
-- (f)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that the respondent take such steps for the completion of the matter in question within such reasonable time as the direction may specify;
-- (g)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that the respondent take, at the expense of the respondent, such other action in the interests of the complainant as the direction may specify.
+- (d)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that the respondent pay compensation to the complainant of such amount as is specified in the direction in respect of any loss (other than such loss as is mentioned in paragraph (c)), inconvenience or distress which has been caused to the complainant as a result of any matter connected with the complaint;
+- (e)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that the respondent secure the rectification, at the expense of the respondent, of any such error, omission or other deficiency arising in connection with the matter in question as the direction may specify;
+- (f)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that the respondent take such steps for the completion of the matter in question within such reasonable time as the direction may specify;
+- (g)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] a direction that the respondent take, at the expense of the respondent, such other action in the interests of the complainant as the direction may specify.
 
-(3)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] The requirements referred to in subsection (2)(b)(ii) are—
+(3)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] The requirements referred to in subsection (2)(b)(ii) are—
 
 - (a) that the whole or part of any amount already paid by or on behalf of the complainant in respect of the fees be refunded;
 - (b) that the whole or part of the fees be remitted;
 - (c) that the right to recover the fees be waived, either wholly or to any specified extent.
 
-(4)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] Where—
+(4)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] Where—
 
 - (a) a direction is made under subsection (2)(b) which requires that the whole or part of any amount already paid by or on behalf of the complainant in respect of the fees be refunded; or
 - (b) a direction is made under subsection (2)(c) or (d),
 
 the direction may also provide for the amount payable under the direction to carry interest from a time specified in or determined in accordance with the direction, at the rate specified in or determined in accordance with rules made under section 17(1).
 
-(5)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] Where the Committee has given a direction under subsection (2)(b) in relation to the fees referred to in that paragraph, then—
+(5)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] Where the Committee has given a direction under subsection (2)(b) in relation to the fees referred to in that paragraph, then—
 
 - (a) for the purposes of any taxation of a bill covering those fees the amount charged by the bill in respect of those fees shall be deemed to be limited to the amount (if any) specified in the Committee's direction; and
 - (b) where a bill covering those fees has not been taxed in accordance with paragraph (a), the complainant shall, for the purposes of the recovery of those fees (by whatever means) and notwithstanding any statutory provision or agreement, be deemed to be liable to pay in respect of those fees only the amount (if any) specified in the Committee's direction.
 
-(6)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] Where a bill covering those fees has been taxed in accordance with subsection (5)(a), the Committee's direction under subsection (2)(b) shall, so far as relating to those fees, cease to have effect.
+(6)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] Where a bill covering those fees has been taxed in accordance with subsection (5)(a), the Committee's direction under subsection (2)(b) shall, so far as relating to those fees, cease to have effect.
 
-(7)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] The amount of any compensation specified in a direction under subsection (2)(c) must not exceed £5,000.
+(7)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] The amount of any compensation specified in a direction under subsection (2)(c) must not exceed £5,000.
 
-(8)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] The amount of any compensation specified in a direction under subsection (2)(d) must not exceed £5,000.
+(8)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] The amount of any compensation specified in a direction under subsection (2)(d) must not exceed £5,000.
 
-(9)[^key-dc47ca8b7cdefbdb28bfcd417e2dc058] If a respondent fails to comply with a direction given under this section which has taken effect, any person may make a complaint in respect of that failure to the General Council of the Bar.
+(9)[^c-dc47ca8b7cdefbdb28bfcd417e2dc058] If a respondent fails to comply with a direction given under this section which has taken effect, any person may make a complaint in respect of that failure to the General Council of the Bar.
 
-#### 20. Alteration of compensation limit[^key-2235cc7e8350fdca0b56466e1f0b33ff]
+#### 20. Alteration of compensation limit[^c-2235cc7e8350fdca0b56466e1f0b33ff]
 
 (1) The Department may by order subject to negative resolution amend subsection (7) or (8) of section 19 in accordance with a recommendation made by an interested body under subsection (2).
 
@@ -420,7 +420,7 @@ the direction may also provide for the amount payable under the direction to car
 
 ### Appeals
 
-#### 21. Appeals[^key-b3fb092ff92a58aa4d7dc758bed9692c]
+#### 21. Appeals[^c-b3fb092ff92a58aa4d7dc758bed9692c]
 
 (1) The Department must, with the concurrence of the Lord Chief Justice, make regulations providing for appeals to the High Court against such determinations of the Bar Complaints Committee as are specified in the regulations.
 
@@ -428,7 +428,7 @@ the direction may also provide for the amount payable under the direction to car
 
 ### Information
 
-#### 22. Information and documents[^key-13d4aa83b1b39ee3d4f241c0f32ce436]
+#### 22. Information and documents[^c-13d4aa83b1b39ee3d4f241c0f32ce436]
 
 (1) The Bar Complaints Committee may, by notice, require a party to a complaint—
 
@@ -449,7 +449,7 @@ the direction may also provide for the amount payable under the direction to car
 - (a) to provide any information which that person could not be compelled to provide or give in evidence in civil proceedings before the High Court; or
 - (b) to produce any document which that person could not be compelled to produce in such proceedings.
 
-#### 23. Reporting failures to provide information or produce documents[^key-8e15afe87968b4c4c469a0014d3d1e3a]
+#### 23. Reporting failures to provide information or produce documents[^c-8e15afe87968b4c4c469a0014d3d1e3a]
 
 (1) This section applies where the Bar Complaints Committee is of the opinion that a respondent has failed to comply with a requirement imposed under section 22.
 
@@ -462,7 +462,7 @@ the direction may also provide for the amount payable under the direction to car
 
 (4) The duty imposed by subsection (2) is not affected by the withdrawal or abandonment of the complaint in relation to which the requirement was imposed under section 22.
 
-#### 24. Enforcement of requirements to provide information or produce documents[^key-05965d1e6f09fb368577115c15f57abd]
+#### 24. Enforcement of requirements to provide information or produce documents[^c-05965d1e6f09fb368577115c15f57abd]
 
 (1) This section applies where the Bar Complaints Committee is of the opinion that a person (“**the defaulter**”) has failed to comply with a requirement imposed under section 22.
 
@@ -481,7 +481,7 @@ the direction may also provide for the amount payable under the direction to car
 
 (7) In this section “**the court**” means the High Court.
 
-#### 25. Reports of investigations[^key-e1230371356b38f065c15cc4fb84a0ef]
+#### 25. Reports of investigations[^c-e1230371356b38f065c15cc4fb84a0ef]
 
 (1) The Bar Complaints Committee may, if it considers it appropriate to do so in any particular case, publish a report of the investigation, consideration and determination of a complaint made to it.
 
@@ -492,7 +492,7 @@ the direction may also provide for the amount payable under the direction to car
 
 ### Defamation
 
-#### 26. Protection from defamation claims[^key-869589286f42a6110650416dec8a97a2]
+#### 26. Protection from defamation claims[^c-869589286f42a6110650416dec8a97a2]
 
 For the purposes of the law of defamation—
 
@@ -501,7 +501,7 @@ For the purposes of the law of defamation—
 
 ### Rules
 
-#### 27. Consultation requirements for Bar Complaints Committee rules[^key-440f61953525dd872614a1eed4cefa85]
+#### 27. Consultation requirements for Bar Complaints Committee rules[^c-440f61953525dd872614a1eed4cefa85]
 
 (1) This section applies in relation to rules made by the Bar Complaints Committee under this Part.
 
@@ -524,7 +524,7 @@ For the purposes of the law of defamation—
 
 ### Interpretation
 
-#### 28. Interpretation of Part 2[^key-40f63cb0232d9bb1da0b3aa1611ddcfc]
+#### 28. Interpretation of Part 2[^c-40f63cb0232d9bb1da0b3aa1611ddcfc]
 
 In this Part—
 
@@ -540,7 +540,7 @@ In this Part—
 
 ### Complaints procedures for solicitors
 
-#### 29. Complaints procedures for solicitors[^key-6b9d7814ba1306e1ddc50309e62c2154]
+#### 29. Complaints procedures for solicitors[^c-6b9d7814ba1306e1ddc50309e62c2154]
 
 (1) The Law Society must make regulations requiring every solicitor—
 
@@ -559,7 +559,7 @@ and provision must be made in the regulations for the enforcement of that requir
 
 ### Solicitors Complaints Committee
 
-#### 30. Solicitors Complaints Committee[^key-c7ec71e1f6a79e714d92b08e20fc5e66]
+#### 30. Solicitors Complaints Committee[^c-c7ec71e1f6a79e714d92b08e20fc5e66]
 
 (1) The Law Society must, in accordance with the provisions of this Part, establish and maintain a committee to be known as the Solicitors Complaints Committee to deal with any complaint in relation to professional services provided by a solicitor made by or on behalf of a complainant within section 33.
 
@@ -567,7 +567,7 @@ and provision must be made in the regulations for the enforcement of that requir
 
 (3) Schedule 3 makes further provision in relation to the Solicitors Complaints Committee.
 
-#### 31. Jurisdiction of the Solicitors Complaints Committee[^key-74f74ab0f5f4bd811672157a5971c2b4]
+#### 31. Jurisdiction of the Solicitors Complaints Committee[^c-74f74ab0f5f4bd811672157a5971c2b4]
 
 (1) A complaint which relates to an act or omission of a solicitor or his or her firm (“**the respondent**”) in the course of providing professional services is within the jurisdiction of the Solicitors Complaints Committee if—
 
@@ -576,7 +576,7 @@ and provision must be made in the regulations for the enforcement of that requir
 
 (2) The right of a person to make a complaint to the Committee, and the jurisdiction of the Committee to investigate, consider and determine a complaint, may not be limited or excluded by any contract term.
 
-#### 32. Excluded complaints[^key-f118cc8954d3c30c052242ab42aad4a9]
+#### 32. Excluded complaints[^c-f118cc8954d3c30c052242ab42aad4a9]
 
 (1) A complaint is excluded from the jurisdiction of the Solicitors Complaints Committee if the complainant has not first used the respondent's complaints procedures in relation to the complaint.
 
@@ -584,7 +584,7 @@ and provision must be made in the regulations for the enforcement of that requir
 
 (3) Rules made by the Committee under section 36(1) must provide that subsection (1) of this section does not apply in such circumstances as may be specified in the rules.
 
-#### 33. Complainants[^key-6cb537cb2ae99340ae397ec5a2a6f7a8]
+#### 33. Complainants[^c-6cb537cb2ae99340ae397ec5a2a6f7a8]
 
 (1) A complainant (“C”) is within this section if C—
 
@@ -613,7 +613,7 @@ and provision must be made in the regulations for the enforcement of that requir
 
 (5) An order made under this section is subject to negative resolution.
 
-#### 34. Orders under section 33[^key-5b2561a020357e2070ecb318e606035d]
+#### 34. Orders under section 33[^c-5b2561a020357e2070ecb318e606035d]
 
 (1) An interested body may recommend to the Department that the Department make an order under section 33(2)(b), (3)(c) or (4)(b).
 
@@ -634,11 +634,11 @@ and provision must be made in the regulations for the enforcement of that requir
 - (a) the Solicitors Complaints Committee; or
 - (b) the Legal Services Oversight Commissioner.
 
-#### 35. Continuity of complaints[^key-69841d74118dfd396c51e63586f1775e]
+#### 35. Continuity of complaints[^c-69841d74118dfd396c51e63586f1775e]
 
 The ability of a person to make a complaint about an act or omission of a partnership or other unincorporated body is not affected by any change in the membership of the partnership or body.
 
-#### 36. Procedure for complaints[^key-009456d3f82439d167d1a407f535ae5b]
+#### 36. Procedure for complaints[^c-009456d3f82439d167d1a407f535ae5b]
 
 (1) The Solicitors Complaints Committee must make rules setting out the procedure for—
 
@@ -687,7 +687,7 @@ The ability of a person to make a complaint about an act or omission of a partne
 
 (10) In subsections (2), (3) and (4), “**specified**” means specified in rules made under subsection (1).
 
-#### 37. Notification requirements[^key-199d10d41db3167c744c943d9e0bd035]
+#### 37. Notification requirements[^c-199d10d41db3167c744c943d9e0bd035]
 
 (1) This section applies where a complaint made to the Solicitors Complaints Committee—
 
@@ -717,57 +717,57 @@ and, in a case within subsection (1)(a) or (b), must give reasons for the exclus
 
 #### 38. Determination of complaints
 
-(1)[^key-3b240d31634cdb7e3b95521d91342fc5] The Solicitors Complaints Committee may determine a complaint made in accordance with the provisions of this Part by—
+(1)[^c-3b240d31634cdb7e3b95521d91342fc5] The Solicitors Complaints Committee may determine a complaint made in accordance with the provisions of this Part by—
 
 - (a) upholding the complaint (or part of the complaint); or
 - (b) dismissing the complaint (or part of the complaint).
 
 (2) A determination by the Committee upholding a complaint may contain one or more of the following—
 
-- (a)[^key-3b240d31634cdb7e3b95521d91342fc5] a direction that the respondent make an apology (which shall not, of itself, amount to an admission of negligence for the purpose of any civil proceedings) to the complainant;
-- (b)[^key-3b240d31634cdb7e3b95521d91342fc5] a direction that—
+- (a)[^c-3b240d31634cdb7e3b95521d91342fc5] a direction that the respondent make an apology (which shall not, of itself, amount to an admission of negligence for the purpose of any civil proceedings) to the complainant;
+- (b)[^c-3b240d31634cdb7e3b95521d91342fc5] a direction that—
   - (i) the costs to which the respondent is entitled in respect of the services to which the complaint relates (“the costs”) are limited to such amount (if any) as may be specified in the direction, and
   - (ii) the respondent comply, or secure compliance, with such one or more of the requirements falling within subsection (3) as appear to the Committee to be necessary in order for effect to be given to the direction under sub-paragraph (i);
 - (c) a direction that the respondent pay compensation to the complainant of such amount as is specified in the direction in respect of any loss which, in the opinion of the Committee, has been suffered by the complainant as a result of the respondent's negligence;
-- (d)[^key-3b240d31634cdb7e3b95521d91342fc5] a direction that the respondent pay compensation to the complainant of such amount as is specified in the direction in respect of any loss (other than such loss as is mentioned in paragraph (c)), inconvenience or distress which has been caused to the complainant as a result of any matter connected with the complaint;
-- (e)[^key-3b240d31634cdb7e3b95521d91342fc5] a direction that the respondent secure the rectification, at the expense of the respondent, of any such error, omission or other deficiency arising in connection with the matter in question as the direction may specify;
-- (f)[^key-3b240d31634cdb7e3b95521d91342fc5] a direction that the respondent take such steps for the completion of the matter in question within such reasonable time as the direction may specify;
-- (g)[^key-3b240d31634cdb7e3b95521d91342fc5] a direction that the respondent take, at the expense of the respondent, such other action in the interests of the complainant as the direction may specify.
+- (d)[^c-3b240d31634cdb7e3b95521d91342fc5] a direction that the respondent pay compensation to the complainant of such amount as is specified in the direction in respect of any loss (other than such loss as is mentioned in paragraph (c)), inconvenience or distress which has been caused to the complainant as a result of any matter connected with the complaint;
+- (e)[^c-3b240d31634cdb7e3b95521d91342fc5] a direction that the respondent secure the rectification, at the expense of the respondent, of any such error, omission or other deficiency arising in connection with the matter in question as the direction may specify;
+- (f)[^c-3b240d31634cdb7e3b95521d91342fc5] a direction that the respondent take such steps for the completion of the matter in question within such reasonable time as the direction may specify;
+- (g)[^c-3b240d31634cdb7e3b95521d91342fc5] a direction that the respondent take, at the expense of the respondent, such other action in the interests of the complainant as the direction may specify.
 
-(3)[^key-3b240d31634cdb7e3b95521d91342fc5] The requirements referred to in subsection (2)(b)(ii) are—
+(3)[^c-3b240d31634cdb7e3b95521d91342fc5] The requirements referred to in subsection (2)(b)(ii) are—
 
 - (a) that the whole or part of any amount already paid by or on behalf of the complainant in respect of the costs be refunded;
 - (b) that the whole or part of the costs be remitted;
 - (c) that the right to recover the costs be waived, whether wholly or to any specified extent.
 
-(4)[^key-3b240d31634cdb7e3b95521d91342fc5] Where—
+(4)[^c-3b240d31634cdb7e3b95521d91342fc5] Where—
 
 - (a) a direction is made under subsection (2)(b) which requires that the whole or part of any amount already paid by or on behalf of the complainant in respect of the costs be refunded; or
 - (b) a direction is made under subsection (2)(c) or (d),
 
 the direction may also provide for the amount payable under the direction to carry interest from a time specified in or determined in accordance with the direction, at the rate specified in or determined in accordance with rules made under section 36(1).
 
-(5)[^key-3b240d31634cdb7e3b95521d91342fc5] Where the Committee has given a direction under subsection (2)(b) in relation to the costs referred to in that paragraph, then—
+(5)[^c-3b240d31634cdb7e3b95521d91342fc5] Where the Committee has given a direction under subsection (2)(b) in relation to the costs referred to in that paragraph, then—
 
 - (a) for the purposes of any taxation of a bill covering those costs the amount charged by the bill in respect of those costs shall be deemed to be limited to the amount (if any) specified in the Committee's direction; and
 - (b) where a bill covering those costs has not been taxed in accordance with paragraph (a), the complainant shall, for the purposes of the recovery of those costs (by whatever means) and notwithstanding any statutory provision or agreement, be deemed to be liable to pay in respect of those costs only the amount (if any) specified in the Committee's direction.
 
-(6)[^key-3b240d31634cdb7e3b95521d91342fc5] Where a bill covering those costs has been taxed in accordance with subsection (5)(a), the Committee's direction under subsection (2)(b) shall, so far as relating to those costs, cease to have effect.
+(6)[^c-3b240d31634cdb7e3b95521d91342fc5] Where a bill covering those costs has been taxed in accordance with subsection (5)(a), the Committee's direction under subsection (2)(b) shall, so far as relating to those costs, cease to have effect.
 
-(7)[^key-3b240d31634cdb7e3b95521d91342fc5] The amount of any compensation specified in a direction under subsection (2)(c) must not exceed £5,000.
+(7)[^c-3b240d31634cdb7e3b95521d91342fc5] The amount of any compensation specified in a direction under subsection (2)(c) must not exceed £5,000.
 
-(8)[^key-3b240d31634cdb7e3b95521d91342fc5] The amount of any compensation specified in a direction under subsection (2)(d) must not exceed £5,000.
+(8)[^c-3b240d31634cdb7e3b95521d91342fc5] The amount of any compensation specified in a direction under subsection (2)(d) must not exceed £5,000.
 
-(9)[^key-3b240d31634cdb7e3b95521d91342fc5] If a respondent who is a solicitor fails to comply with a direction given under this section which has taken effect, any person may make a complaint in respect of that failure to the Solicitors Disciplinary Tribunal.
+(9)[^c-3b240d31634cdb7e3b95521d91342fc5] If a respondent who is a solicitor fails to comply with a direction given under this section which has taken effect, any person may make a complaint in respect of that failure to the Solicitors Disciplinary Tribunal.
 
-(10)[^key-3b240d31634cdb7e3b95521d91342fc5] The powers conferred on the Committee by subsection (2)(b) shall be exercisable in relation to a person notwithstanding that the person's name has been removed from or struck off the roll of solicitors kept by the Law Society under Article 8 of the 1976 Order, and references to a respondent in—
+(10)[^c-3b240d31634cdb7e3b95521d91342fc5] The powers conferred on the Committee by subsection (2)(b) shall be exercisable in relation to a person notwithstanding that the person's name has been removed from or struck off the roll of solicitors kept by the Law Society under Article 8 of the 1976 Order, and references to a respondent in—
 
 - (a) the provisions of this section so far as they relate to the exercise of those powers; and
 - (b) if a complaint is made to the Solicitors Disciplinary Tribunal under subsection (9), Articles 46 and 51 of the 1976 Order,
 
 shall be construed accordingly.
 
-#### 39. Alteration of compensation limits[^key-6d575826660a92df3fa53c20fd88d946]
+#### 39. Alteration of compensation limits[^c-6d575826660a92df3fa53c20fd88d946]
 
 (1) The Department may by order subject to negative resolution amend subsection (7) or (8) of section 38 in accordance with a recommendation made by an interested body under subsection (2).
 
@@ -792,7 +792,7 @@ shall be construed accordingly.
 
 ### Appeals
 
-#### 40. Appeals[^key-2b3f727b8c1f8c4abba2ac6dbd2195aa]
+#### 40. Appeals[^c-2b3f727b8c1f8c4abba2ac6dbd2195aa]
 
 (1) The Department must, with the concurrence of the Lord Chief Justice, make regulations providing for appeals to the High Court against such determinations of the Solicitors Complaints Committee as are specified in the regulations.
 
@@ -800,7 +800,7 @@ shall be construed accordingly.
 
 ### Information
 
-#### 41. Information and documents[^key-83b7f29c0e6ef74615882e226e753c77]
+#### 41. Information and documents[^c-83b7f29c0e6ef74615882e226e753c77]
 
 (1) The Solicitors Complaints Committee may, by notice, require a party to a complaint—
 
@@ -821,7 +821,7 @@ shall be construed accordingly.
 - (a) to provide any information which that person could not be compelled to provide or give in evidence in civil proceedings before the High Court; or
 - (b) to produce any document which that person could not be compelled to produce in such proceedings.
 
-#### 42. Reporting failures to provide information or produce documents[^key-9118844a581fa4a3b6c1535676e5bd93]
+#### 42. Reporting failures to provide information or produce documents[^c-9118844a581fa4a3b6c1535676e5bd93]
 
 (1) This section applies where the Solicitors Complaints Committee is of the opinion that a respondent has failed to comply with a requirement imposed under section 41.
 
@@ -834,7 +834,7 @@ shall be construed accordingly.
 
 (4) The duty imposed by subsection (2) is not affected by the withdrawal or abandonment of the complaint in relation to which the requirement was imposed under section 41.
 
-#### 43. Enforcement of requirements to provide information or produce documents[^key-b40dfa76992267142551f5a87239f92b]
+#### 43. Enforcement of requirements to provide information or produce documents[^c-b40dfa76992267142551f5a87239f92b]
 
 (1) This section applies where the Solicitors Complaints Committee is of the opinion that a person (“**the defaulter**”) has failed to comply with a requirement imposed under section 41.
 
@@ -860,7 +860,7 @@ as if that person were in contempt.
 
 (8) References in subsection (4)(b) to an officer of a recognised body include references to a director, manager or secretary of that body and references to a director, in relation to a limited liability partnership, are references to a member of the limited liability partnership.
 
-#### 44. Reports of investigation[^key-9f505aa9c6782a0572c44e9235d844b8]
+#### 44. Reports of investigation[^c-9f505aa9c6782a0572c44e9235d844b8]
 
 (1) The Solicitors Complaints Committee may, if it considers it appropriate to do so in any particular case, publish a report of the investigation, consideration and determination of a complaint made to it.
 
@@ -871,7 +871,7 @@ as if that person were in contempt.
 
 ### Defamation
 
-#### 45. Protection from defamation claims[^key-b0ea1be6e45dca86eba391660b5cb70b]
+#### 45. Protection from defamation claims[^c-b0ea1be6e45dca86eba391660b5cb70b]
 
 For the purposes of the law of defamation—
 
@@ -880,7 +880,7 @@ For the purposes of the law of defamation—
 
 ### Rules
 
-#### 46. Consultation requirements for Solicitors Complaints Committee rules[^key-401be568693387e1f2622dd6420bf445]
+#### 46. Consultation requirements for Solicitors Complaints Committee rules[^c-401be568693387e1f2622dd6420bf445]
 
 (1) This section applies in relation to rules made by the Solicitors Complaints Committee under this Part.
 
@@ -903,7 +903,7 @@ For the purposes of the law of defamation—
 
 ### The Solicitors Disciplinary Tribunal
 
-#### 47. The Solicitors Disciplinary Tribunal[^key-9a7a8e2eafaf61db7ba38db892b4b28d]
+#### 47. The Solicitors Disciplinary Tribunal[^c-9a7a8e2eafaf61db7ba38db892b4b28d]
 
 (1) In Article 43 of the 1976 Order (the Solicitors Disciplinary Tribunal), in paragraph (6)—
 
@@ -914,7 +914,7 @@ For the purposes of the law of defamation—
 
 ### Interpretation
 
-#### 48. Recognised bodies[^key-3bc3c885e2fbfab3b1139548542c2a66]
+#### 48. Recognised bodies[^c-3bc3c885e2fbfab3b1139548542c2a66]
 
 (1) References in this Part to a recognised body are references to a body corporate for the time being recognised under Article 26A of the 1976 Order.
 
@@ -927,7 +927,7 @@ For the purposes of the law of defamation—
 
 (4) The powers conferred on the Solicitors Complaints Committee by section 38(2)(b) shall be exercisable in relation to a body corporate in accordance with this section notwithstanding that it is no longer a recognised body.
 
-#### 49. Interpretation of Part 3[^key-6dcb3158c41cbb16270d1108292e6e89]
+#### 49. Interpretation of Part 3[^c-6dcb3158c41cbb16270d1108292e6e89]
 
 In this Part—
 
@@ -951,13 +951,13 @@ In this Act—
 - “**statutory provision**” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954;
 - “**the 1976 Order**” means the Solicitors (Northern Ireland) Order 1976.
 
-### 51. Review[^key-8f3f0c78dfbc4c2400bb2eb00a5e7610]
+### 51. Review[^c-8f3f0c78dfbc4c2400bb2eb00a5e7610]
 
 (1) The Department must not later than 3 years after the commencement of this Act appoint an independent person to review and publish a report on the implementation of this Act.
 
 (2) The Department must by order subject to negative resolution set out the terms of the review.
 
-### 52. Further provision[^key-4f74a166d3e870e53268af6e0b032301]
+### 52. Further provision[^c-4f74a166d3e870e53268af6e0b032301]
 
 (1) The Department may by order make such supplementary, incidental or consequential provision as it thinks appropriate—
 
@@ -974,11 +974,11 @@ In this Act—
 
 (6) The powers conferred by this section are not restricted by any other provision of this Act.
 
-### 53. Minor and consequential amendments[^key-39a1b790321dcce0b797377fc478021b]
+### 53. Minor and consequential amendments[^c-39a1b790321dcce0b797377fc478021b]
 
 The statutory provisions mentioned in Schedule4 have effect subject to the minor and consequential amendments specified there.
 
-### 54. Repeals[^key-34988643750c292e1cdf0e5180837331]
+### 54. Repeals[^c-34988643750c292e1cdf0e5180837331]
 
 The statutory provisions mentioned in the first column of Schedule5 are repealed to the extent specified in the second column of that Schedule.
 
@@ -998,7 +998,7 @@ Section 1(5).
 
 ### Status
 
-**1.**[^key-e9406bc58089fab8bd90a276d43afe26] (1) The person for the time being holding the office of Legal Services Oversight Commissioner for Northern Ireland shall by that name be a corporation sole.
+**1.**[^c-e9406bc58089fab8bd90a276d43afe26] (1) The person for the time being holding the office of Legal Services Oversight Commissioner for Northern Ireland shall by that name be a corporation sole.
 
 (2) The Commissioner shall not be regarded—
 
@@ -1009,7 +1009,7 @@ Section 1(5).
 
 ### General powers
 
-**2.**[^key-856b6ea4b7f8b43284678eb41441de6e] (1) The Commissioner may do anything, apart from borrowing money, which the Commissioner considers is—
+**2.**[^c-856b6ea4b7f8b43284678eb41441de6e] (1) The Commissioner may do anything, apart from borrowing money, which the Commissioner considers is—
 
 - (a) appropriate for facilitating; or
 - (b) incidental or conducive to,
@@ -1023,7 +1023,7 @@ the exercise of the Commissioner's functions.
 
 ### Tenure of office
 
-**3.**[^key-b5f0de459123b8471417b0258dd5ae67] (1) Subject to the provisions of this paragraph, a person shall hold and vacate office as the Commissioner in accordance with the terms of that person's appointment.
+**3.**[^c-b5f0de459123b8471417b0258dd5ae67] (1) Subject to the provisions of this paragraph, a person shall hold and vacate office as the Commissioner in accordance with the terms of that person's appointment.
 
 (2) An appointment as the Commissioner shall be for a term of 3 years.
 
@@ -1040,7 +1040,7 @@ the exercise of the Commissioner's functions.
 
 ### Acting Commissioner
 
-**4.**[^key-df2ff6396fb396bf702b0578334c57e8] (1) The Department may appoint a person to exercise the functions of the Commissioner where—
+**4.**[^c-df2ff6396fb396bf702b0578334c57e8] (1) The Department may appoint a person to exercise the functions of the Commissioner where—
 
 - (a) the Commissioner's office becomes vacant; or
 - (b) the Commissioner is incapable of exercising those functions or considers that it would be inappropriate to exercise any of those functions in connection with a particular matter (because of a possible conflict of interests or for any other reason).
@@ -1051,7 +1051,7 @@ the exercise of the Commissioner's functions.
 
 ### Salary, etc.
 
-**5.**[^key-0c888b11853773ad693fdb1020c8fac1] (1) The Department may pay to or in respect of the Commissioner—
+**5.**[^c-0c888b11853773ad693fdb1020c8fac1] (1) The Department may pay to or in respect of the Commissioner—
 
 - (a) such remuneration and allowances; and
 - (b) such sums for the provision of a pension,
@@ -1062,7 +1062,7 @@ as the Department may determine.
 
 ### Staff
 
-**6.**[^key-3ad4a1341caf52e94d114701b8dd09b9] (1) The Commissioner may appoint such number of officers as the Commissioner may determine.
+**6.**[^c-3ad4a1341caf52e94d114701b8dd09b9] (1) The Commissioner may appoint such number of officers as the Commissioner may determine.
 
 (2) The remuneration and other conditions of service of the officers appointed under this paragraph shall be determined by the Commissioner.
 
@@ -1074,36 +1074,36 @@ as the Department may determine.
 
 (6) Employment as an officer of the Commissioner is among the kinds of employment to which a superannuation scheme under Article 3 of the Superannuation (Northern Ireland) Order 1972 can apply and, accordingly, in Schedule 1 to that Order (employments to which Article 3 can apply) the following entry shall be inserted at the appropriate place— “ Employment by the Legal Services Oversight Commissioner for Northern Ireland. ”.
 
-**7.**[^key-3c567981e6f5b6ddfbeaf7a8b4b67c88] The Commissioner may make arrangements for securing the provision to the Commissioner of such assistance by persons employed in—
+**7.**[^c-3c567981e6f5b6ddfbeaf7a8b4b67c88] The Commissioner may make arrangements for securing the provision to the Commissioner of such assistance by persons employed in—
 
 - (a) the civil service of the United Kingdom; or
 - (b) the civil service of Northern Ireland,
 
 as the Commissioner considers appropriate for or in connection with the exercise of the Commissioner's functions.
 
-**8.**[^key-72d2320e2feee43f55468038c21f0555] The Commissioner may, with the approval of the Department, engage the services of such other persons as the Commissioner considers necessary or expedient.
+**8.**[^c-72d2320e2feee43f55468038c21f0555] The Commissioner may, with the approval of the Department, engage the services of such other persons as the Commissioner considers necessary or expedient.
 
 ### Exercise of functions of Commissioner
 
-**9.**[^key-45e65ec72c4550b3088b6028142f9ab3] Any function of the Commissioner may be exercised by any officer of the Commissioner who has been authorised (whether generally or specially) by the Commissioner for the purpose.
+**9.**[^c-45e65ec72c4550b3088b6028142f9ab3] Any function of the Commissioner may be exercised by any officer of the Commissioner who has been authorised (whether generally or specially) by the Commissioner for the purpose.
 
 ### Seal
 
-**10.**[^key-b0fd67e2010a9981d9b0712210da6785] The application of the seal of the Commissioner shall be authenticated by the Commissioner's signature or by the signature of any officer of the Commissioner who has been authorised (whether generally or specially) by the Commissioner for the purpose.
+**10.**[^c-b0fd67e2010a9981d9b0712210da6785] The application of the seal of the Commissioner shall be authenticated by the Commissioner's signature or by the signature of any officer of the Commissioner who has been authorised (whether generally or specially) by the Commissioner for the purpose.
 
 ### Evidence
 
-**11.**[^key-39287f280c18563a7c5e4f8e21d6a1f5] A document purporting to be an instrument issued by the Commissioner and to be duly executed under the Commissioner's seal or to be signed by, or on behalf of, the Commissioner shall be received in evidence and shall, unless the contrary is proved, be taken to be such an instrument.
+**11.**[^c-39287f280c18563a7c5e4f8e21d6a1f5] A document purporting to be an instrument issued by the Commissioner and to be duly executed under the Commissioner's seal or to be signed by, or on behalf of, the Commissioner shall be received in evidence and shall, unless the contrary is proved, be taken to be such an instrument.
 
 ### Property
 
-**12.**[^key-8b7ef7d704ec286c0a6e468b1b3e3be8] (1) Any real or personal property vested in the Commissioner shall (unless and until disclaimed or disposed of) vest in the Commissioner's successor in office.
+**12.**[^c-8b7ef7d704ec286c0a6e468b1b3e3be8] (1) Any real or personal property vested in the Commissioner shall (unless and until disclaimed or disposed of) vest in the Commissioner's successor in office.
 
 (2) Where there is a vacancy in the office of Commissioner at the time when real or personal property would otherwise have vested, the property shall vest in the successor on his or her appointment.
 
 ### Accounts
 
-**13.**[^key-11c38586603d968d8909e8d9858e5947] (1) The Commissioner must—
+**13.**[^c-11c38586603d968d8909e8d9858e5947] (1) The Commissioner must—
 
 - (a) keep proper accounts and proper records in relation to the accounts; and
 - (b) prepare a statement of accounts in respect of each financial year.
@@ -1136,7 +1136,7 @@ as the Department may direct.
 
 ### Annual report
 
-**14.**[^key-bf1f23b9a37f332cf492804cf32ae774] (1) As soon as practicable after the end of each financial year, the Commissioner must send to the Department a report, in such form as the Department may require, on the carrying out of the Commissioner's functions during that year.
+**14.**[^c-bf1f23b9a37f332cf492804cf32ae774] (1) As soon as practicable after the end of each financial year, the Commissioner must send to the Department a report, in such form as the Department may require, on the carrying out of the Commissioner's functions during that year.
 
 (2) Without prejudice to the generality of sub-paragraph (1), a report sent to the Department under that sub-paragraph must contain information about the number of complaints made in relation to the members of each professional body during the year to which the report relates.
 
@@ -1146,15 +1146,15 @@ as the Department may direct.
 
 ### The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
 
-**15.**[^key-c832a6ba9ddd49739061c9dcf81c00ed] In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (disqualifying offices) there shall be inserted at the appropriate place— “ Legal Services Oversight Commissioner for Northern Ireland. ”.
+**15.**[^c-c832a6ba9ddd49739061c9dcf81c00ed] In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (disqualifying offices) there shall be inserted at the appropriate place— “ Legal Services Oversight Commissioner for Northern Ireland. ”.
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
 
-**16.**[^key-13a3df2c84e84604744d0a3529c9a8d4] In Schedule 2 to the Commissioner for Complaints (Northern Ireland) Order 1996 (bodies subject to investigation) there shall be inserted at the appropriate place— “ The Legal Services Oversight Commissioner for Northern Ireland. ”.
+**16.**[^c-13a3df2c84e84604744d0a3529c9a8d4] In Schedule 2 to the Commissioner for Complaints (Northern Ireland) Order 1996 (bodies subject to investigation) there shall be inserted at the appropriate place— “ The Legal Services Oversight Commissioner for Northern Ireland. ”.
 
 ### The Freedom of Information Act 2000 (c. 36)
 
-**17.**[^key-f778bc652e55766d80746605a2d692b5] In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (offices and bodies which are public authorities for the purposes of that Act) there shall be inserted at the appropriate place— “ The Legal Services Oversight Commissioner for Northern Ireland. ”.
+**17.**[^c-f778bc652e55766d80746605a2d692b5] In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (offices and bodies which are public authorities for the purposes of that Act) there shall be inserted at the appropriate place— “ The Legal Services Oversight Commissioner for Northern Ireland. ”.
 
 ## SCHEDULE 2 — THE BAR COMPLAINTS COMMITTEE
 
@@ -1162,16 +1162,16 @@ Section 12(2).
 
 ### Membership
 
-**1.**[^key-e055c1d2c069afae3b025baff80d7f27] The Bar Complaints Committee is to consist of the following members—
+**1.**[^c-e055c1d2c069afae3b025baff80d7f27] The Bar Complaints Committee is to consist of the following members—
 
 - (a) a chair appointed by the Benchers;
 - (b) such number of other members appointed by the Benchers as the Benchers think fit.
 
-**2.**[^key-23a9095e857cc1f6f0578f1f347653b8] The Benchers must consult the Legal Services Oversight Commissioner about the manner in which members of the Bar Complaints Committee are to be appointed.
+**2.**[^c-23a9095e857cc1f6f0578f1f347653b8] The Benchers must consult the Legal Services Oversight Commissioner about the manner in which members of the Bar Complaints Committee are to be appointed.
 
-**3.**[^key-dfa42cde7603107a9764e7c2033572d3] The Benchers must consult the Legal Services Oversight Commissioner before appointing members of the Bar Complaints Committee.
+**3.**[^c-dfa42cde7603107a9764e7c2033572d3] The Benchers must consult the Legal Services Oversight Commissioner before appointing members of the Bar Complaints Committee.
 
-**4.**[^key-60724baacf10c86ab2b4b1ef2f174bd7] (1) In appointing members of the Bar Complaints Committee, the Benchers must ensure that—
+**4.**[^c-60724baacf10c86ab2b4b1ef2f174bd7] (1) In appointing members of the Bar Complaints Committee, the Benchers must ensure that—
 
 - (a) a majority of the members of the Committee are lay persons; and
 - (b) none of the members of the Committee are members of the General Council of the Bar.
@@ -1182,7 +1182,7 @@ Section 12(2).
 
 ### Terms of office
 
-**5.**[^key-6ea118ba61c84b646d5501370fc90f40] (1) Subject to the provisions of this Schedule, a member of the Bar Complaints Committee shall hold and vacate office in accordance with the terms of that member's appointment.
+**5.**[^c-6ea118ba61c84b646d5501370fc90f40] (1) Subject to the provisions of this Schedule, a member of the Bar Complaints Committee shall hold and vacate office in accordance with the terms of that member's appointment.
 
 (2) A person shall not be appointed as a member for more than 5 years at a time, and a person appointed to fill a casual vacancy shall hold office for the remainder of the term of the person in whose place that person is appointed.
 
@@ -1210,7 +1210,7 @@ Section 12(2).
 
 ### Remuneration, etc. of members
 
-**6.**[^key-ff1c7f52d77cacf2650f6cc07a48bc13] (1) The Benchers must make arrangements for the payment to the members of the Bar Complaints Committee of such remuneration and allowances (if any) as the Benchers may determine.
+**6.**[^c-ff1c7f52d77cacf2650f6cc07a48bc13] (1) The Benchers must make arrangements for the payment to the members of the Bar Complaints Committee of such remuneration and allowances (if any) as the Benchers may determine.
 
 (2) If—
 
@@ -1221,13 +1221,13 @@ the Benchers may make arrangements for that person to be paid such amount as the
 
 ### Arrangements for assistance
 
-**7.**[^key-40ea360aa83e3d7e6814c6ce0197d36f] (1) The Bar Complaints Committee may make arrangements with such persons as it considers appropriate for assistance to be provided to it.
+**7.**[^c-40ea360aa83e3d7e6814c6ce0197d36f] (1) The Bar Complaints Committee may make arrangements with such persons as it considers appropriate for assistance to be provided to it.
 
 (2) Arrangements may include the paying of fees to such persons.
 
 ### Sub-committees
 
-**8.**[^key-79f7414fe2f7395a103ec17fde11ad22] (1) The Bar Complaints Committee may establish sub-committees.
+**8.**[^c-79f7414fe2f7395a103ec17fde11ad22] (1) The Bar Complaints Committee may establish sub-committees.
 
 (2) Subject to the following provisions of this paragraph, the Committee may authorise a sub-committee to exercise, on behalf of the Committee, such of the Committee's functions, in such circumstances, as the Committee may determine.
 
@@ -1237,7 +1237,7 @@ the Benchers may make arrangements for that person to be paid such amount as the
 
 ### Proceedings
 
-**9.**[^key-d58b91eb2bc50947aa5f920ee0e1e5d9] Subject to the provisions of this Schedule and Part 2 and any rules made under that Part, the Bar Complaints Committee may regulate its own procedure and the procedure of its sub-committees, including quorum.
+**9.**[^c-d58b91eb2bc50947aa5f920ee0e1e5d9] Subject to the provisions of this Schedule and Part 2 and any rules made under that Part, the Bar Complaints Committee may regulate its own procedure and the procedure of its sub-committees, including quorum.
 
 ## SCHEDULE 3 — THE SOLICITORS COMPLAINTS COMMITTEE
 
@@ -1245,16 +1245,16 @@ Section 30(3).
 
 ### Membership
 
-**1.**[^key-b0cba73aebbd076db7829c2b5f69b768] The Solicitors Complaints Committee is to consist of the following members—
+**1.**[^c-b0cba73aebbd076db7829c2b5f69b768] The Solicitors Complaints Committee is to consist of the following members—
 
 - (a) a chair appointed by the Law Society;
 - (b) such number of other members appointed by the Law Society as the Law Society thinks fit.
 
-**2.**[^key-3d39a8d37d89e79b6a3e3b7085afb9fb] The Law Society must consult the Legal Services Oversight Commissioner about the manner in which members of the Committee are to be appointed.
+**2.**[^c-3d39a8d37d89e79b6a3e3b7085afb9fb] The Law Society must consult the Legal Services Oversight Commissioner about the manner in which members of the Committee are to be appointed.
 
-**3.**[^key-d25c8eaf25d6900d7b5f7783f5d38af6] The Law Society must consult the Legal Services Oversight Commissioner before appointing members of the Solicitors Complaints Committee.
+**3.**[^c-d25c8eaf25d6900d7b5f7783f5d38af6] The Law Society must consult the Legal Services Oversight Commissioner before appointing members of the Solicitors Complaints Committee.
 
-**4.**[^key-5ff0c6909b79161f5d30e81e59923208] (1) In appointing members of the Solicitors Complaints Committee, the Law Society must ensure that—
+**4.**[^c-5ff0c6909b79161f5d30e81e59923208] (1) In appointing members of the Solicitors Complaints Committee, the Law Society must ensure that—
 
 - (a) a majority of the members of the Committee are lay persons; and
 - (b) none of the members of the Committee are members of the Council of the Law Society.
@@ -1265,7 +1265,7 @@ Section 30(3).
 
 ### Terms of office
 
-**5.**[^key-47d6f59b5c3d56528d015f1e3c82b4eb] (1) Subject to the provisions of this Schedule, a member of the Solicitors Complaints Committee shall hold and vacate office in accordance with the terms of that member's appointment.
+**5.**[^c-47d6f59b5c3d56528d015f1e3c82b4eb] (1) Subject to the provisions of this Schedule, a member of the Solicitors Complaints Committee shall hold and vacate office in accordance with the terms of that member's appointment.
 
 (2) A person shall not be appointed as a member for more than 5 years at a time, and a person appointed to fill a casual vacancy shall hold office for the remainder of the term of the person in whose place that person is appointed.
 
@@ -1293,7 +1293,7 @@ Section 30(3).
 
 ### Remuneration, etc. of members
 
-**6.**[^key-4a911e1b59f6a8d27394b67d849dcf03] (1) The Law Society shall pay to the members of the Solicitors Complaints Committee such remuneration and allowances as the Society may determine.
+**6.**[^c-4a911e1b59f6a8d27394b67d849dcf03] (1) The Law Society shall pay to the members of the Solicitors Complaints Committee such remuneration and allowances as the Society may determine.
 
 (2) If—
 
@@ -1304,13 +1304,13 @@ the Society may make a payment to that person of such amount as the Society may 
 
 ### Arrangements for assistance
 
-**7.**[^key-56d81d7c29a5a3146de84ce445c2a154] (1) The Solicitors Complaints Committee may make arrangements with such persons as it considers appropriate for assistance to be provided to it.
+**7.**[^c-56d81d7c29a5a3146de84ce445c2a154] (1) The Solicitors Complaints Committee may make arrangements with such persons as it considers appropriate for assistance to be provided to it.
 
 (2) Arrangements may include the paying of fees to such persons.
 
 ### Sub-committees
 
-**8.**[^key-3b3ad447fa24a9ba7270cc6b87b4db83] (1) The Solicitors Complaints Committee may establish sub-committees.
+**8.**[^c-3b3ad447fa24a9ba7270cc6b87b4db83] (1) The Solicitors Complaints Committee may establish sub-committees.
 
 (2) Subject to the following provisions of this paragraph, the Committee may authorise a sub-committee to exercise, on behalf of the Committee, such of the Committee's functions, in such circumstances, as the Committee may determine.
 
@@ -1320,7 +1320,7 @@ the Society may make a payment to that person of such amount as the Society may 
 
 ### Proceedings
 
-**9.**[^key-0a002a07d7adcfb965604619e4128649] Subject to the provisions of this Schedule and Part 3 and any rules made under that Part, the Solicitors Complaints Committee may regulate its own procedure and the procedure of its sub-committees, including quorum.
+**9.**[^c-0a002a07d7adcfb965604619e4128649] Subject to the provisions of this Schedule and Part 3 and any rules made under that Part, the Solicitors Complaints Committee may regulate its own procedure and the procedure of its sub-committees, including quorum.
 
 ## SCHEDULE 4 — MINOR AND CONSEQUENTIAL AMENDMENTS
 
@@ -1328,25 +1328,25 @@ Section 53.
 
 ### The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
 
-**1.**[^key-d3fcb4ef5999f96203523f361d1f0fba] In Schedule 1, in Part 3, omit the entry relating to the lay observer appointed under Article 42 of the Solicitors (Northern Ireland) Order 1976.
+**1.**[^c-d3fcb4ef5999f96203523f361d1f0fba] In Schedule 1, in Part 3, omit the entry relating to the lay observer appointed under Article 42 of the Solicitors (Northern Ireland) Order 1976.
 
 ### The Solicitors (Northern Ireland) Order 1976 (NI 12)
 
-**2.** (1)[^key-70918de69f82723109b2c80f5df64cd9] In Article 3(2) (interpretation), at the appropriate place insert—
+**2.** (1)[^c-70918de69f82723109b2c80f5df64cd9] In Article 3(2) (interpretation), at the appropriate place insert—
 
 > the Legal Services Oversight Commissioner” means the Legal Services Oversight Commissioner for Northern Ireland;
 
 .
 
-(2)[^key-70918de69f82723109b2c80f5df64cd9] In Article 38(a) (solicitors guilty of undue delay in certain matters), omit the words “or Article 51A”.
+(2)[^c-70918de69f82723109b2c80f5df64cd9] In Article 38(a) (solicitors guilty of undue delay in certain matters), omit the words “or Article 51A”.
 
-(3)[^key-70918de69f82723109b2c80f5df64cd9] Omit Article 41A (power of Council to impose sanctions for inadequate professional services) and the cross-heading immediately preceding that Article.
+(3)[^c-70918de69f82723109b2c80f5df64cd9] Omit Article 41A (power of Council to impose sanctions for inadequate professional services) and the cross-heading immediately preceding that Article.
 
 (4) In Article 41B (power of Society to examine files in connection with complaints), in paragraph (1), for the words from “to the Society” to “the Society may” substitute “ to the Society alleging professional misconduct by a solicitor, the Society may ”.
 
-(5)[^key-70918de69f82723109b2c80f5df64cd9] In Article 46 (procedure on application or complaint against solicitor), in paragraphs (1) and (2), omit the words “or a lay observer”.
+(5)[^c-70918de69f82723109b2c80f5df64cd9] In Article 46 (procedure on application or complaint against solicitor), in paragraphs (1) and (2), omit the words “or a lay observer”.
 
-(6)[^key-70918de69f82723109b2c80f5df64cd9] In Article 51 (orders of Solicitors Disciplinary Tribunal on inquiry)—
+(6)[^c-70918de69f82723109b2c80f5df64cd9] In Article 51 (orders of Solicitors Disciplinary Tribunal on inquiry)—
 
 - (a) omit paragraph (2);
 - (b) in paragraph (3)—
@@ -1356,13 +1356,13 @@ Section 53.
 - (c) in paragraph (6), omit the words “, Article 51A”;
 - (d) in paragraph (8), omit the words “, Article 51A”.
 
-(7)[^key-70918de69f82723109b2c80f5df64cd9] Omit Article 51A (power of Tribunal to impose sanctions for inadequate professional services).
+(7)[^c-70918de69f82723109b2c80f5df64cd9] Omit Article 51A (power of Tribunal to impose sanctions for inadequate professional services).
 
-(8)[^key-70918de69f82723109b2c80f5df64cd9] In Article 52 (effect, etc., of orders), in paragraph (2), omit sub-paragraph (d) and the word “or” preceding that sub-paragraph.
+(8)[^c-70918de69f82723109b2c80f5df64cd9] In Article 52 (effect, etc., of orders), in paragraph (2), omit sub-paragraph (d) and the word “or” preceding that sub-paragraph.
 
-(9)[^key-70918de69f82723109b2c80f5df64cd9] In Article 73A (committees of the Council), in paragraph (5), omit “41A or”.
+(9)[^c-70918de69f82723109b2c80f5df64cd9] In Article 73A (committees of the Council), in paragraph (5), omit “41A or”.
 
-(10)[^key-70918de69f82723109b2c80f5df64cd9] In Schedule 1A (recognised bodies)—
+(10)[^c-70918de69f82723109b2c80f5df64cd9] In Schedule 1A (recognised bodies)—
 
 - (a) in paragraph 1(2)—
   - (i) for the words from “in relation to” to “include references to” substitute “ in relation to a complaint (other than such a complaint as is mentioned in paragraph 19(1)(a)) include references to ”;
@@ -1380,21 +1380,21 @@ Section 53.
 
 ### The Solicitors (Amendment) (Northern Ireland) Order 1989 (NI 14)
 
-**3.**[^key-63cd4c2195d7ef44665ff6474f3f00ae] In Article 16 (solicitors' discipline), omit paragraph (1).
+**3.**[^c-63cd4c2195d7ef44665ff6474f3f00ae] In Article 16 (solicitors' discipline), omit paragraph (1).
 
-**4.**[^key-962712a7663c650021af6a3721ae3936] Omit Article 17 (lay observers).
+**4.**[^c-962712a7663c650021af6a3721ae3936] Omit Article 17 (lay observers).
 
 ### The Immigration and Asylum Act 1999 (c. 33)
 
-**5.**[^key-d8d7d0f697fd3763dc8bac2d3bba6c6f] In section 86 (designated professional bodies), in subsection (4)(d) for “lay observers appointed under Article 42 of the Solicitors (Northern Ireland) Order 1976” substitute “ Legal Services Oversight Commissioner for Northern Ireland ”.
+**5.**[^c-d8d7d0f697fd3763dc8bac2d3bba6c6f] In section 86 (designated professional bodies), in subsection (4)(d) for “lay observers appointed under Article 42 of the Solicitors (Northern Ireland) Order 1976” substitute “ Legal Services Oversight Commissioner for Northern Ireland ”.
 
-**6.**[^key-e166567d8db2a994d948d246d8cac893] In Schedule 5 (Immigration Services Commissioner) in paragraph 4(2)(d) for “lay observers appointed under Article 42 of the Solicitors (Northern Ireland) Order 1976” substitute “ Legal Services Oversight Commissioner for Northern Ireland ”.
+**6.**[^c-e166567d8db2a994d948d246d8cac893] In Schedule 5 (Immigration Services Commissioner) in paragraph 4(2)(d) for “lay observers appointed under Article 42 of the Solicitors (Northern Ireland) Order 1976” substitute “ Legal Services Oversight Commissioner for Northern Ireland ”.
 
 ### The Freedom of Information Act 2000 (c. 36)
 
-**7.**[^key-0ff1a3f951af534b42215822e7b94260] In Schedule 1 (public bodies and offices: Northern Ireland), in Part 7, omit the entry relating to the Lay Observer for Northern Ireland.
+**7.**[^c-0ff1a3f951af534b42215822e7b94260] In Schedule 1 (public bodies and offices: Northern Ireland), in Part 7, omit the entry relating to the Lay Observer for Northern Ireland.
 
-## SCHEDULE 5 — REPEALS[^key-75b687125c8a128faa25aef9975c4654]
+## SCHEDULE 5 — REPEALS[^c-75b687125c8a128faa25aef9975c4654]
 
 Section 54.
 
@@ -1423,194 +1423,194 @@ Section 54.
 
 ## Annotations
 
-[^key-a932a222b68d038067a4920843689108]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/14/section/1) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-a932a222b68d038067a4920843689108]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/14/section/1) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-f7118f6cdf84548588f0f1d04bb2a8ca]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/14/section/2) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-f7118f6cdf84548588f0f1d04bb2a8ca]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/14/section/2) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-e4132d0f68e4a90af7b9035b084936d7]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/14/section/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-e4132d0f68e4a90af7b9035b084936d7]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/14/section/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-2e6d11e758d7b93413a31b2e1877f50e]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/14/section/4) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-2e6d11e758d7b93413a31b2e1877f50e]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/14/section/4) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-70563f3e411610375eae54c6c39be7b8]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/14/section/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-70563f3e411610375eae54c6c39be7b8]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/14/section/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-527687902302fbdae4b9d3ff858357a2]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/14/section/6) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-527687902302fbdae4b9d3ff858357a2]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/14/section/6) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-c606f4f5a9cf64cf7eb71b906a2c8f33]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/14/section/7) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-c606f4f5a9cf64cf7eb71b906a2c8f33]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/14/section/7) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-2057a9c42a8a0f1cd48a20cc5b33836c]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/14/section/8) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-2057a9c42a8a0f1cd48a20cc5b33836c]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/14/section/8) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-00ddf6ee970446596fb20925bb5812b2]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/14/section/9) in operation at 1.7.2026 by [S.R. 2026/112](https://www.legislation.gov.uk/nisr/2026/112), [art. 2](https://www.legislation.gov.uk/nisr/2026/112/article/2)
+[^c-00ddf6ee970446596fb20925bb5812b2]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/14/section/9) in operation at 1.7.2026 by [S.R. 2026/112](https://www.legislation.gov.uk/nisr/2026/112), [art. 2](https://www.legislation.gov.uk/nisr/2026/112/article/2)
 
-[^key-6b34c587a1a8bc2b7576aa777492d360]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2016/14/section/10) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-6b34c587a1a8bc2b7576aa777492d360]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2016/14/section/10) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-cb77250985e1a6eeffd99faf1a90685e]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/14/section/11) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-cb77250985e1a6eeffd99faf1a90685e]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/14/section/11) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-4e5743da22a5f65b9a3e628cbd306a38]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2016/14/section/12) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-4e5743da22a5f65b9a3e628cbd306a38]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2016/14/section/12) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-cf93fb9588def8240fe6b1e7c4a9553f]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/14/section/13) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-cf93fb9588def8240fe6b1e7c4a9553f]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/14/section/13) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-402fa7484fbca8f94d5d15532e222e6a]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/14/section/14) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-402fa7484fbca8f94d5d15532e222e6a]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/14/section/14) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-417706564ae8ae73fb21e83c2616de09]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/14/section/15) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-417706564ae8ae73fb21e83c2616de09]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/14/section/15) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-436ffe37655e1781a5191caa50b58dfc]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/14/section/16) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-436ffe37655e1781a5191caa50b58dfc]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/14/section/16) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-1fc30692dc9a2bf3cb5070687d6c95b5]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2016/14/section/17) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-1fc30692dc9a2bf3cb5070687d6c95b5]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2016/14/section/17) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-7a6f9fc9393d910e8698b704e0052041]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2016/14/section/18) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-7a6f9fc9393d910e8698b704e0052041]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2016/14/section/18) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-dc47ca8b7cdefbdb28bfcd417e2dc058]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/nia/2016/14/section/19/1)[(2)(a)](https://www.legislation.gov.uk/nia/2016/14/section/19/2/a)[(b)](https://www.legislation.gov.uk/nia/2016/14/section/19/2/b), [(d)-(g)](https://www.legislation.gov.uk/nia/2016/14/section/19/2/d), [(3)-(9)](https://www.legislation.gov.uk/nia/2016/14/section/19/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-dc47ca8b7cdefbdb28bfcd417e2dc058]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/nia/2016/14/section/19/1)[(2)(a)](https://www.legislation.gov.uk/nia/2016/14/section/19/2/a)[(b)](https://www.legislation.gov.uk/nia/2016/14/section/19/2/b), [(d)-(g)](https://www.legislation.gov.uk/nia/2016/14/section/19/2/d), [(3)-(9)](https://www.legislation.gov.uk/nia/2016/14/section/19/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-2235cc7e8350fdca0b56466e1f0b33ff]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2016/14/section/20) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-2235cc7e8350fdca0b56466e1f0b33ff]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2016/14/section/20) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-b3fb092ff92a58aa4d7dc758bed9692c]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2016/14/section/21) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-b3fb092ff92a58aa4d7dc758bed9692c]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2016/14/section/21) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-13d4aa83b1b39ee3d4f241c0f32ce436]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2016/14/section/22) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-13d4aa83b1b39ee3d4f241c0f32ce436]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2016/14/section/22) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-8e15afe87968b4c4c469a0014d3d1e3a]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2016/14/section/23) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-8e15afe87968b4c4c469a0014d3d1e3a]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2016/14/section/23) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-05965d1e6f09fb368577115c15f57abd]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/14/section/24) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-05965d1e6f09fb368577115c15f57abd]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/14/section/24) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-e1230371356b38f065c15cc4fb84a0ef]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/14/section/25) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-e1230371356b38f065c15cc4fb84a0ef]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/14/section/25) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-869589286f42a6110650416dec8a97a2]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2016/14/section/26) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-869589286f42a6110650416dec8a97a2]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2016/14/section/26) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-440f61953525dd872614a1eed4cefa85]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/14/section/27) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-440f61953525dd872614a1eed4cefa85]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/14/section/27) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-40f63cb0232d9bb1da0b3aa1611ddcfc]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2016/14/section/28) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-40f63cb0232d9bb1da0b3aa1611ddcfc]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2016/14/section/28) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-6b9d7814ba1306e1ddc50309e62c2154]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2016/14/section/29) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-6b9d7814ba1306e1ddc50309e62c2154]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2016/14/section/29) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-c7ec71e1f6a79e714d92b08e20fc5e66]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2016/14/section/30) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-c7ec71e1f6a79e714d92b08e20fc5e66]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2016/14/section/30) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-74f74ab0f5f4bd811672157a5971c2b4]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2016/14/section/31) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-74f74ab0f5f4bd811672157a5971c2b4]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2016/14/section/31) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-f118cc8954d3c30c052242ab42aad4a9]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2016/14/section/32) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-f118cc8954d3c30c052242ab42aad4a9]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2016/14/section/32) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-6cb537cb2ae99340ae397ec5a2a6f7a8]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2016/14/section/33) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-6cb537cb2ae99340ae397ec5a2a6f7a8]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2016/14/section/33) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-5b2561a020357e2070ecb318e606035d]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2016/14/section/34) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-5b2561a020357e2070ecb318e606035d]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2016/14/section/34) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-69841d74118dfd396c51e63586f1775e]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2016/14/section/35) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-69841d74118dfd396c51e63586f1775e]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2016/14/section/35) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-009456d3f82439d167d1a407f535ae5b]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2016/14/section/36) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-009456d3f82439d167d1a407f535ae5b]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2016/14/section/36) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-199d10d41db3167c744c943d9e0bd035]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2016/14/section/37) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-199d10d41db3167c744c943d9e0bd035]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2016/14/section/37) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-3b240d31634cdb7e3b95521d91342fc5]: Commencement: [S. 38(1)](https://www.legislation.gov.uk/nia/2016/14/section/38/1)[(2)(a)](https://www.legislation.gov.uk/nia/2016/14/section/38/2/a)[(b)](https://www.legislation.gov.uk/nia/2016/14/section/38/2/b), [(d)-(g)](https://www.legislation.gov.uk/nia/2016/14/section/38/2/d), [(3)-(10)](https://www.legislation.gov.uk/nia/2016/14/section/38/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-3b240d31634cdb7e3b95521d91342fc5]: Commencement: [S. 38(1)](https://www.legislation.gov.uk/nia/2016/14/section/38/1)[(2)(a)](https://www.legislation.gov.uk/nia/2016/14/section/38/2/a)[(b)](https://www.legislation.gov.uk/nia/2016/14/section/38/2/b), [(d)-(g)](https://www.legislation.gov.uk/nia/2016/14/section/38/2/d), [(3)-(10)](https://www.legislation.gov.uk/nia/2016/14/section/38/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-6d575826660a92df3fa53c20fd88d946]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2016/14/section/39) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-6d575826660a92df3fa53c20fd88d946]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2016/14/section/39) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-2b3f727b8c1f8c4abba2ac6dbd2195aa]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2016/14/section/40) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-2b3f727b8c1f8c4abba2ac6dbd2195aa]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2016/14/section/40) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-83b7f29c0e6ef74615882e226e753c77]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2016/14/section/41) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-83b7f29c0e6ef74615882e226e753c77]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2016/14/section/41) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-9118844a581fa4a3b6c1535676e5bd93]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2016/14/section/42) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-9118844a581fa4a3b6c1535676e5bd93]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2016/14/section/42) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-b40dfa76992267142551f5a87239f92b]: Commencement: [S. 43](https://www.legislation.gov.uk/nia/2016/14/section/43) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-b40dfa76992267142551f5a87239f92b]: Commencement: [S. 43](https://www.legislation.gov.uk/nia/2016/14/section/43) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-9f505aa9c6782a0572c44e9235d844b8]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2016/14/section/44) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-9f505aa9c6782a0572c44e9235d844b8]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2016/14/section/44) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-b0ea1be6e45dca86eba391660b5cb70b]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2016/14/section/45) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-b0ea1be6e45dca86eba391660b5cb70b]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2016/14/section/45) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-401be568693387e1f2622dd6420bf445]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2016/14/section/46) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-401be568693387e1f2622dd6420bf445]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2016/14/section/46) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-9a7a8e2eafaf61db7ba38db892b4b28d]: Commencement: [S. 47](https://www.legislation.gov.uk/nia/2016/14/section/47) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-9a7a8e2eafaf61db7ba38db892b4b28d]: Commencement: [S. 47](https://www.legislation.gov.uk/nia/2016/14/section/47) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-3bc3c885e2fbfab3b1139548542c2a66]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2016/14/section/48) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-3bc3c885e2fbfab3b1139548542c2a66]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2016/14/section/48) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-6dcb3158c41cbb16270d1108292e6e89]: Commencement: [S. 49](https://www.legislation.gov.uk/nia/2016/14/section/49) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-6dcb3158c41cbb16270d1108292e6e89]: Commencement: [S. 49](https://www.legislation.gov.uk/nia/2016/14/section/49) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-8f3f0c78dfbc4c2400bb2eb00a5e7610]: Commencement: [S. 51](https://www.legislation.gov.uk/nia/2016/14/section/51) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-8f3f0c78dfbc4c2400bb2eb00a5e7610]: Commencement: [S. 51](https://www.legislation.gov.uk/nia/2016/14/section/51) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-4f74a166d3e870e53268af6e0b032301]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2016/14/section/52) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-4f74a166d3e870e53268af6e0b032301]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2016/14/section/52) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-39a1b790321dcce0b797377fc478021b]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2016/14/section/53) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-39a1b790321dcce0b797377fc478021b]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2016/14/section/53) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-34988643750c292e1cdf0e5180837331]: Commencement: [S. 54](https://www.legislation.gov.uk/nia/2016/14/section/54) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-34988643750c292e1cdf0e5180837331]: Commencement: [S. 54](https://www.legislation.gov.uk/nia/2016/14/section/54) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-e9406bc58089fab8bd90a276d43afe26]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/1) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-e9406bc58089fab8bd90a276d43afe26]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/1) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-856b6ea4b7f8b43284678eb41441de6e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/2) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-856b6ea4b7f8b43284678eb41441de6e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/2) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-b5f0de459123b8471417b0258dd5ae67]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-b5f0de459123b8471417b0258dd5ae67]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-df2ff6396fb396bf702b0578334c57e8]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/4) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-df2ff6396fb396bf702b0578334c57e8]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/4) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-0c888b11853773ad693fdb1020c8fac1]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-0c888b11853773ad693fdb1020c8fac1]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-3ad4a1341caf52e94d114701b8dd09b9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/6) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-3ad4a1341caf52e94d114701b8dd09b9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/6) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-3c567981e6f5b6ddfbeaf7a8b4b67c88]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/7) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-3c567981e6f5b6ddfbeaf7a8b4b67c88]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/7) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-72d2320e2feee43f55468038c21f0555]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/8) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-72d2320e2feee43f55468038c21f0555]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/8) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-45e65ec72c4550b3088b6028142f9ab3]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/9) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-45e65ec72c4550b3088b6028142f9ab3]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/9) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-b0fd67e2010a9981d9b0712210da6785]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/10) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-b0fd67e2010a9981d9b0712210da6785]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/10) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-39287f280c18563a7c5e4f8e21d6a1f5]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/11) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-39287f280c18563a7c5e4f8e21d6a1f5]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/11) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-8b7ef7d704ec286c0a6e468b1b3e3be8]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/12) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-8b7ef7d704ec286c0a6e468b1b3e3be8]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/12) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-11c38586603d968d8909e8d9858e5947]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/13) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-11c38586603d968d8909e8d9858e5947]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/13) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-bf1f23b9a37f332cf492804cf32ae774]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/14) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-bf1f23b9a37f332cf492804cf32ae774]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/14) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-c832a6ba9ddd49739061c9dcf81c00ed]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/15) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-c832a6ba9ddd49739061c9dcf81c00ed]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/15) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-13a3df2c84e84604744d0a3529c9a8d4]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/16) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-13a3df2c84e84604744d0a3529c9a8d4]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/16) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-f778bc652e55766d80746605a2d692b5]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/17) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-f778bc652e55766d80746605a2d692b5]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/17) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-e055c1d2c069afae3b025baff80d7f27]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/1) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-e055c1d2c069afae3b025baff80d7f27]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/1) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-23a9095e857cc1f6f0578f1f347653b8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/2) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-23a9095e857cc1f6f0578f1f347653b8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/2) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-dfa42cde7603107a9764e7c2033572d3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-dfa42cde7603107a9764e7c2033572d3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-60724baacf10c86ab2b4b1ef2f174bd7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/4) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-60724baacf10c86ab2b4b1ef2f174bd7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/4) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-6ea118ba61c84b646d5501370fc90f40]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-6ea118ba61c84b646d5501370fc90f40]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-ff1c7f52d77cacf2650f6cc07a48bc13]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/6) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-ff1c7f52d77cacf2650f6cc07a48bc13]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/6) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-40ea360aa83e3d7e6814c6ce0197d36f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/7) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-40ea360aa83e3d7e6814c6ce0197d36f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/7) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-79f7414fe2f7395a103ec17fde11ad22]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/8) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-79f7414fe2f7395a103ec17fde11ad22]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/8) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-d58b91eb2bc50947aa5f920ee0e1e5d9]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/9) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-d58b91eb2bc50947aa5f920ee0e1e5d9]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/14/schedule/2/paragraph/9) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-b0cba73aebbd076db7829c2b5f69b768]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/1) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-b0cba73aebbd076db7829c2b5f69b768]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/1) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-3d39a8d37d89e79b6a3e3b7085afb9fb]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/2) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-3d39a8d37d89e79b6a3e3b7085afb9fb]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/2) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-d25c8eaf25d6900d7b5f7783f5d38af6]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-d25c8eaf25d6900d7b5f7783f5d38af6]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-5ff0c6909b79161f5d30e81e59923208]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/4) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-5ff0c6909b79161f5d30e81e59923208]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/4) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-47d6f59b5c3d56528d015f1e3c82b4eb]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-47d6f59b5c3d56528d015f1e3c82b4eb]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-4a911e1b59f6a8d27394b67d849dcf03]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/6) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-4a911e1b59f6a8d27394b67d849dcf03]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/6) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-56d81d7c29a5a3146de84ce445c2a154]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/7) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-56d81d7c29a5a3146de84ce445c2a154]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/7) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-3b3ad447fa24a9ba7270cc6b87b4db83]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/8) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-3b3ad447fa24a9ba7270cc6b87b4db83]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/8) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-0a002a07d7adcfb965604619e4128649]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/9) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-0a002a07d7adcfb965604619e4128649]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2016/14/schedule/3/paragraph/9) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-d3fcb4ef5999f96203523f361d1f0fba]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/1) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-d3fcb4ef5999f96203523f361d1f0fba]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/1) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-70918de69f82723109b2c80f5df64cd9]: Commencement: [Sch. 4 para. 2(1)-(3)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/1), [(5)-(10)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-70918de69f82723109b2c80f5df64cd9]: Commencement: [Sch. 4 para. 2(1)-(3)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/1), [(5)-(10)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-63cd4c2195d7ef44665ff6474f3f00ae]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-63cd4c2195d7ef44665ff6474f3f00ae]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/3) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-962712a7663c650021af6a3721ae3936]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/4) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-962712a7663c650021af6a3721ae3936]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/4) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-d8d7d0f697fd3763dc8bac2d3bba6c6f]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-d8d7d0f697fd3763dc8bac2d3bba6c6f]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-e166567d8db2a994d948d246d8cac893]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/6) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-e166567d8db2a994d948d246d8cac893]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/6) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-0ff1a3f951af534b42215822e7b94260]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/7) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-0ff1a3f951af534b42215822e7b94260]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/7) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-75b687125c8a128faa25aef9975c4654]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-75b687125c8a128faa25aef9975c4654]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5) in operation at 1.9.2025 by [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)

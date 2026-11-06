@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Establishment of Registrar General as corporation sole[^key-228ff4be290e675b5b4812658fa2c093]
+## 68. Establishment of Registrar General as corporation sole[^c-228ff4be290e675b5b4812658fa2c093]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-228ff4be290e675b5b4812658fa2c093]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2007/18/section/68) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-228ff4be290e675b5b4812658fa2c093]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2007/18/section/68) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

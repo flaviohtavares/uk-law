@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Conditions for Crown Court to give effect to external orders[^key-0f22e858d5c75bb6d3ba86512c087dee]
+## 21. Conditions for Crown Court to give effect to external orders[^c-0f22e858d5c75bb6d3ba86512c087dee]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0f22e858d5c75bb6d3ba86512c087dee]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2005/3181/article/21) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-0f22e858d5c75bb6d3ba86512c087dee]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2005/3181/article/21) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00021]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 

@@ -24,16 +24,16 @@ Section 23
 
 ### Notice of intent
 
-**1.**[^key-1d8f018042f09b9d9d2229b830b3e331] Before imposing a financial penalty on a person under section 23 a local housing authority must give the person notice of its proposal to do so (a “notice of intent”).
+**1.**[^c-1d8f018042f09b9d9d2229b830b3e331] Before imposing a financial penalty on a person under section 23 a local housing authority must give the person notice of its proposal to do so (a “notice of intent”).
 
-**2.**[^key-ddcba1dea79494bcdb2a9e21bc1f34da] (1) The notice of intent must be given before the end of the period of 6 months beginning with the first day on which the authority has sufficient evidence of the conduct to which the financial penalty relates.
+**2.**[^c-ddcba1dea79494bcdb2a9e21bc1f34da] (1) The notice of intent must be given before the end of the period of 6 months beginning with the first day on which the authority has sufficient evidence of the conduct to which the financial penalty relates.
 
 (2) But if the person is continuing to engage in the conduct on that day, and the conduct continues beyond the end of that day, the notice of intent may be given—
 
 - (a) at any time when the conduct is continuing, or
 - (b) within the period of 6 months beginning with the last day on which the conduct occurs.
 
-**3.**[^key-30d3fb7dfde211f2e965f68d6bb2f6a5] The notice of intent must set out—
+**3.**[^c-30d3fb7dfde211f2e965f68d6bb2f6a5] The notice of intent must set out—
 
 - (a) the amount of the proposed financial penalty,
 - (b) the reasons for proposing to impose the financial penalty, and
@@ -41,22 +41,22 @@ Section 23
 
 ### Right to make representations
 
-**4.**[^key-798783988486b236f45880266c797202] (1) A person who is given a notice of intent may make written representations to the local housing authority about the proposal to impose a financial penalty.
+**4.**[^c-798783988486b236f45880266c797202] (1) A person who is given a notice of intent may make written representations to the local housing authority about the proposal to impose a financial penalty.
 
 (2) Any representations must be made within the period of 28 days beginning with the day after that on which the notice was given (“the period for representations”).
 
 ### Final notice
 
-**5.**[^key-001fdc438f88cf6f96eaa245f71beee9] After the end of the period for representations the local housing authority must—
+**5.**[^c-001fdc438f88cf6f96eaa245f71beee9] After the end of the period for representations the local housing authority must—
 
 - (a) decide whether to impose a financial penalty on the person, and
 - (b) if it decides to impose a financial penalty, decide the amount of the penalty.
 
-**6.**[^key-82e19be41d54b822da178b9e0cab0742] If the authority decides to impose a financial penalty on the person, it must give the person a notice (a “final notice”) imposing that penalty.
+**6.**[^c-82e19be41d54b822da178b9e0cab0742] If the authority decides to impose a financial penalty on the person, it must give the person a notice (a “final notice”) imposing that penalty.
 
-**7.**[^key-36f4140c8fe208588f6fd69a72034ad5] The final notice must require the penalty to be paid within the period of 28 days beginning with the day after that on which the notice was given.
+**7.**[^c-36f4140c8fe208588f6fd69a72034ad5] The final notice must require the penalty to be paid within the period of 28 days beginning with the day after that on which the notice was given.
 
-**8.**[^key-142a125b970cc7cc81e6a0807dbc5d74] The final notice must set out—
+**8.**[^c-142a125b970cc7cc81e6a0807dbc5d74] The final notice must set out—
 
 - (a) the amount of the financial penalty,
 - (b) the reasons for imposing the penalty,
@@ -67,7 +67,7 @@ Section 23
 
 ### Withdrawal or amendment of notice
 
-**9.**[^key-2740c952b3574484540a70c33dbbe23d] (1) A local housing authority may at any time—
+**9.**[^c-2740c952b3574484540a70c33dbbe23d] (1) A local housing authority may at any time—
 
 - (a) withdraw a notice of intent or final notice, or
 - (b) reduce the amount specified in a notice of intent or final notice.
@@ -76,7 +76,7 @@ Section 23
 
 ### Appeals
 
-**10.**[^key-bfd219e287f5c01df7a7cc842720cac7] (1) A person to whom a final notice is given may appeal to the First-tier Tribunal against—
+**10.**[^c-bfd219e287f5c01df7a7cc842720cac7] (1) A person to whom a final notice is given may appeal to the First-tier Tribunal against—
 
 - (a) the decision to impose the penalty, or
 - (b) the amount of the penalty.
@@ -96,7 +96,7 @@ Section 23
 
 ### Recovery of financial penalty
 
-**11.**[^key-67a900cbf75d886a817f98108aa8a992] (1) This paragraph applies if a person fails to pay the whole or any part of a financial penalty which, in accordance with this Schedule, the person is liable to pay.
+**11.**[^c-67a900cbf75d886a817f98108aa8a992] (1) This paragraph applies if a person fails to pay the whole or any part of a financial penalty which, in accordance with this Schedule, the person is liable to pay.
 
 (2) The local housing authority which imposed the financial penalty may recover the penalty or part on the order of the county court as if it were payable under an order of that court.
 
@@ -113,24 +113,24 @@ is conclusive evidence of that fact.
 
 ## Annotations
 
-[^key-1d8f018042f09b9d9d2229b830b3e331]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/1) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-1d8f018042f09b9d9d2229b830b3e331]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/1) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-ddcba1dea79494bcdb2a9e21bc1f34da]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/2) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-ddcba1dea79494bcdb2a9e21bc1f34da]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/2) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-30d3fb7dfde211f2e965f68d6bb2f6a5]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/3) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-30d3fb7dfde211f2e965f68d6bb2f6a5]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/3) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-798783988486b236f45880266c797202]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/4) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-798783988486b236f45880266c797202]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/4) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-001fdc438f88cf6f96eaa245f71beee9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/5) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-001fdc438f88cf6f96eaa245f71beee9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/5) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-82e19be41d54b822da178b9e0cab0742]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/6) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-82e19be41d54b822da178b9e0cab0742]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/6) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-36f4140c8fe208588f6fd69a72034ad5]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/7) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-36f4140c8fe208588f6fd69a72034ad5]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/7) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-142a125b970cc7cc81e6a0807dbc5d74]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/8) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-142a125b970cc7cc81e6a0807dbc5d74]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/8) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-2740c952b3574484540a70c33dbbe23d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/9) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-2740c952b3574484540a70c33dbbe23d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/9) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-bfd219e287f5c01df7a7cc842720cac7]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/10) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-bfd219e287f5c01df7a7cc842720cac7]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/10) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-67a900cbf75d886a817f98108aa8a992]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/11) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-67a900cbf75d886a817f98108aa8a992]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/1/paragraph/11) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)

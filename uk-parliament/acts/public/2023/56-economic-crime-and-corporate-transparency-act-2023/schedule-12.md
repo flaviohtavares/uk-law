@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 12 — Criminal liability of bodies: economic crimes[^key-82dde727db9b149063cb5dd6ad0c8568]
+## SCHEDULE 12 — Criminal liability of bodies: economic crimes[^c-82dde727db9b149063cb5dd6ad0c8568]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ Section 196
 
 ## Annotations
 
-[^key-82dde727db9b149063cb5dd6ad0c8568]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/ukpga/2023/56/schedule/12) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 250(7)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/250/7/c), [255(3)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/k)
+[^c-82dde727db9b149063cb5dd6ad0c8568]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/ukpga/2023/56/schedule/12) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 250(7)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/250/7/c), [255(3)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/k)

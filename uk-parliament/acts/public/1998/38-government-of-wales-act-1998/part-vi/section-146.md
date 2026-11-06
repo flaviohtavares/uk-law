@@ -25,7 +25,7 @@ summary: ''
 (2) The bodies and offices falling within this subsection are—
 
 - (a) any body or office specified in Schedule 17, and
-- (b) any body or office (other than one specified in Schedule 17) whose functions relate exclusively to Wales or an area of Wales (but not the Auditor General for Wales, the Wales Audit Office, *(Extent: E+W)*[^key-df98d2ea82e81efd113f754cc1e68e1c] Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru[^c12403931], the Public Services Ombudsman for Wales[^c20185941] , [^c20185981]. . . a county council, a county borough council or a community council).
+- (b) any body or office (other than one specified in Schedule 17) whose functions relate exclusively to Wales or an area of Wales (but not the Auditor General for Wales, the Wales Audit Office, *(Extent: E+W)*[^c-df98d2ea82e81efd113f754cc1e68e1c] Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru[^c12403931], the Public Services Ombudsman for Wales[^c20185941] , [^c20185981]. . . a county council, a county borough council or a community council).
 
 (3) An order under subsection (1) may contain any appropriate consequential, incidental, supplementary or transitional provisions or savings (including provisions in the form of amendments or repeals of enactments).
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-df98d2ea82e81efd113f754cc1e68e1c]: Textual amendment: Words in [s. 146(2)(b)](https://www.legislation.gov.uk/ukpga/1998/38/section/146/2/b) inserted (E.W.) (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 8](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/8) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1) (with [art. 4(2)](https://www.legislation.gov.uk/wsi/2013/1466/article/4/2))
+[^c-df98d2ea82e81efd113f754cc1e68e1c]: Textual amendment: Words in [s. 146(2)(b)](https://www.legislation.gov.uk/ukpga/1998/38/section/146/2/b) inserted (E.W.) (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 8](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/8) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1) (with [art. 4(2)](https://www.legislation.gov.uk/wsi/2013/1466/article/4/2))
 
 [^c12403931]: Textual amendment: Words in s. 146(2)(b) substituted (1.1.2001) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 73(3)(a)](https://www.legislation.gov.uk/ukpga/2000/21/section/73/3/a); [S.I. 2000/3230](https://www.legislation.gov.uk/uksi/2000/3230), [art. 2](https://www.legislation.gov.uk/uksi/2000/3230/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3230/schedule)
 

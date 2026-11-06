@@ -29,7 +29,7 @@ summary: ''
 - (a) the Upper Tribunal[^c2057347] may exercise any power which was available to the residential property tribunal, and
 - (b) a decision of the Upper Tribunal may be enforced in the same way as a decision of the residential property tribunal.
 
-(4)[^key-f02c285ae0ddd98fdabac20bce21dc7a] Section 65A of the Rent Act 1977 (right of appeal from a rent assessment committee in Wales) does not apply to a decision of a residential property tribunal).
+(4)[^c-f02c285ae0ddd98fdabac20bce21dc7a] Section 65A of the Rent Act 1977 (right of appeal from a rent assessment committee in Wales) does not apply to a decision of a residential property tribunal).
 
 (5) [^c2057351]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -45,6 +45,6 @@ summary: ''
 
 [^c2057347]: Textual amendment: Words in s. 231(3) substituted (1.6.2009) by [Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 5(1)(2)](https://www.legislation.gov.uk/uksi/2009/1307/article/5/1/2), [Sch. 1 para. 276(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/276/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-f02c285ae0ddd98fdabac20bce21dc7a]: Textual amendment: S. 231(4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 175](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/175) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f02c285ae0ddd98fdabac20bce21dc7a]: Textual amendment: S. 231(4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 175](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/175) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2057351]: Textual amendment: S. 231(5) omitted (1.6.2009) by virtue of [Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 5(1)(2)](https://www.legislation.gov.uk/uksi/2009/1307/article/5/1/2), [Sch. 1 para. 276(c)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/276/c) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

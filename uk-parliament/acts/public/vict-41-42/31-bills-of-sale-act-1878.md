@@ -31,7 +31,7 @@ Bills of Sale Act 1878
 
 An Act to consolidate and amend the Law for preventing Frauds upon Creditors by secret Bills of Sale of Personal Chattels.
 
-\[22nd July 1878\][^c569762][^c569763][^c569764][^key-9c5296f9533f4103675a457828ef248f]
+\[22nd July 1878\][^c569762][^c569763][^c569764][^c-9c5296f9533f4103675a457828ef248f]
 
 ## 1. Short title.
 
@@ -86,7 +86,7 @@ The same rule of construction shall be applied to all deeds or instruments, incl
 
 ## 8. Avoidance of unregistered bill of sale in certain cases.[^c569769]
 
-Every bill of sale to which this Act applies shall be duly attested and shall be registered under this Act, within seven days after the making or giving thereof, and shall set forth the consideration for which such bill of sale was given, otherwise such bill of sale, as against all trustees or assignees of the estate of the person whose chattels, or any of them, are comprised in such bill of sale under the law relating to bankruptcy or liquidation, or under any assignment for the benefit of the creditors of such person, and also as against all sheriffs officers and other persons seizing any chattels comprised in such bill of sale, in the execution of any process of any court authorising the seizure of the chattels of the person by whom or of whose chattels such bill has been made, and also as against every person on whose behalf such process shall have been issued, shall be deemed fraudulent and void so far as regards the property in or right to the possession of any chattels comprised in such bill of sale which, at or after the time of making the bankruptcy application or[^key-47e3ca78361335cdfdb708f855c52e5b] filing the petition for bankruptcy or liquidation, or of the execution of such assignment, or of executing such process (as the case may be), and after the expiration of such seven days are in the possession or apparent possession of the person making such bill of sale (or of any person against whom the process has issued under or in the execution of which such bill has been made or given, as the case may be).
+Every bill of sale to which this Act applies shall be duly attested and shall be registered under this Act, within seven days after the making or giving thereof, and shall set forth the consideration for which such bill of sale was given, otherwise such bill of sale, as against all trustees or assignees of the estate of the person whose chattels, or any of them, are comprised in such bill of sale under the law relating to bankruptcy or liquidation, or under any assignment for the benefit of the creditors of such person, and also as against all sheriffs officers and other persons seizing any chattels comprised in such bill of sale, in the execution of any process of any court authorising the seizure of the chattels of the person by whom or of whose chattels such bill has been made, and also as against every person on whose behalf such process shall have been issued, shall be deemed fraudulent and void so far as regards the property in or right to the possession of any chattels comprised in such bill of sale which, at or after the time of making the bankruptcy application or[^c-47e3ca78361335cdfdb708f855c52e5b] filing the petition for bankruptcy or liquidation, or of the execution of such assignment, or of executing such process (as the case may be), and after the expiration of such seven days are in the possession or apparent possession of the person making such bill of sale (or of any person against whom the process has issued under or in the execution of which such bill has been made or given, as the case may be).
 
 ## 9. Avoidance of certain duplicate bills of sale.
 
@@ -96,7 +96,7 @@ Where a subsequent bill of sale is executed within or on the expiration of seven
 
 A bill of sale shall be attested and registered under this Act in the following manner:
 
-(1)[^c569772] The execution of every bill of sale shall be attested by a solicitor of the Senior Courts[^key-5b78185da349e38d91f076550407edaf], and the attestation shall state that before the execution of the bill of sale the effect thereof has been explained to the grantor by the attesting solicitor:
+(1)[^c569772] The execution of every bill of sale shall be attested by a solicitor of the Senior Courts[^c-5b78185da349e38d91f076550407edaf], and the attestation shall state that before the execution of the bill of sale the effect thereof has been explained to the grantor by the attesting solicitor:
 
 (2) Such bill, with every schedule or inventory thereto annexed or therein referred to, and also a true copy of such bill and of every such schedule or inventory, and of every attestation of the execution of such bill of sale, together with an affidavit of the time of such bill of sale being made or given, and of its due execution and attestation, and a description of the residence and occupation of the person making or giving the same (or in case the same is made or given by any person under or in the execution of any process, then a description of the residence and occupation of the person against whom such process issued), and of every attesting witness to such bill of sale, shall be presented to and the said copy and affidavit shall be filed with the registrar within seven clear days after the making or giving of such bill of sale, in like manner as a warrant of attorney in any personal action given by a trader is now by law required to be filed:
 
@@ -128,7 +128,7 @@ Such index shall be arranged in divisions corresponding with the letters of the 
 
 ## 13. The registrar.
 
-The masters of the Senior Courts[^key-d1e5d7c34d1f9f46ac8c08c6d8125c12] attached to the Queen’s Bench Division of the High Court of Justice, or such other officers as may for the time being be assigned for this purpose under the provisions of the [^c569773]Supreme Court of Judicature Acts 1873 and [^c569774]1875, shall be the registrar for the purposes of this Act, and any one of the said masters may perform all or any of the duties of the registrar.
+The masters of the Senior Courts[^c-d1e5d7c34d1f9f46ac8c08c6d8125c12] attached to the Queen’s Bench Division of the High Court of Justice, or such other officers as may for the time being be assigned for this purpose under the provisions of the [^c569773]Supreme Court of Judicature Acts 1873 and [^c569774]1875, shall be the registrar for the purposes of this Act, and any one of the said masters may perform all or any of the duties of the registrar.
 
 ## 14. Rectification of register.
 
@@ -144,7 +144,7 @@ Any person shall be entitled to have an office copy or extract of any registered
 
 ## 17. Affidavits.
 
-Every affidavit required by or for the purposes of this Act may be sworn before a master of any division of the High Court of Justice, or before any commissioner empowered to take affidavits in the Senior Courts[^key-4246c16060ad1c2de2fd3f6ab81c3763].
+Every affidavit required by or for the purposes of this Act may be sworn before a master of any division of the High Court of Justice, or before any commissioner empowered to take affidavits in the Senior Courts[^c-4246c16060ad1c2de2fd3f6ab81c3763].
 
 . . . [^c569776]
 
@@ -194,7 +194,7 @@ Sworn, &*c.*
 
 [^c569764]: Modification: Preamble omitted under authority of [Statute Law Revision Act 1894 (c. 56)](https://www.legislation.gov.uk/ukpga/1894/56)
 
-[^key-9c5296f9533f4103675a457828ef248f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/41-42/31) excluded (23.3.2015) by [The International Interests in Aircraft Equipment (Cape Town Convention) Regulations 2015 (S.I. 2015/912)](https://www.legislation.gov.uk/uksi/2015/912), [reg. 2](https://www.legislation.gov.uk/uksi/2015/912/regulation/2), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2015/912/schedule/5/paragraph/6) (with [reg. 51](https://www.legislation.gov.uk/uksi/2015/912/regulation/51))
+[^c-9c5296f9533f4103675a457828ef248f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/41-42/31) excluded (23.3.2015) by [The International Interests in Aircraft Equipment (Cape Town Convention) Regulations 2015 (S.I. 2015/912)](https://www.legislation.gov.uk/uksi/2015/912), [reg. 2](https://www.legislation.gov.uk/uksi/2015/912/regulation/2), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2015/912/schedule/5/paragraph/6) (with [reg. 51](https://www.legislation.gov.uk/uksi/2015/912/regulation/51))
 
 [^c569765]: Textual amendment: Words repealed by [Statute Law Revision Act 1894 (c. 56)](https://www.legislation.gov.uk/ukpga/1894/56)
 
@@ -204,7 +204,7 @@ Sworn, &*c.*
 
 [^c569769]: Editorial: S. 8 repealed as to bills of sale given by way of security for the payment of money by [Bills of Sale Act (1878) Amendment Act 1882 (c. 43)](https://www.legislation.gov.uk/ukpga/1882/43), [ss. 3](https://www.legislation.gov.uk/ukpga/1882/43/section/3), [15](https://www.legislation.gov.uk/ukpga/1882/43/section/15)
 
-[^key-47e3ca78361335cdfdb708f855c52e5b]: Textual amendment: Words in s. 8 inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/1)
+[^c-47e3ca78361335cdfdb708f855c52e5b]: Textual amendment: Words in s. 8 inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/1)
 
 [^c569771]: Modification: Provisions for filing of warrants of attorney repealed by [Administration of Justice Act 1956 (c. 46)](https://www.legislation.gov.uk/ukpga/1956/46), [s. 16](https://www.legislation.gov.uk/ukpga/1956/46/section/16)
 
@@ -212,9 +212,9 @@ Sworn, &*c.*
 
 [^c569772]: Editorial: S. 10(1) repealed as to bills of sale given by way of security for the payment of money by [Bills of Sale Act (1878) Amendment Act 1882 (c. 43)](https://www.legislation.gov.uk/ukpga/1882/43), [ss. 3](https://www.legislation.gov.uk/ukpga/1882/43/section/3), [10](https://www.legislation.gov.uk/ukpga/1882/43/section/10)
 
-[^key-5b78185da349e38d91f076550407edaf]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/ukpga/Vict/41-42/31/section/10) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-5b78185da349e38d91f076550407edaf]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/ukpga/Vict/41-42/31/section/10) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-d1e5d7c34d1f9f46ac8c08c6d8125c12]: Textual amendment: Words in s. 13 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-d1e5d7c34d1f9f46ac8c08c6d8125c12]: Textual amendment: Words in s. 13 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c569773]: Marginal citation: [1873 c. 66](https://www.legislation.gov.uk/ukpga/1873/66).
 
@@ -222,7 +222,7 @@ Sworn, &*c.*
 
 [^c569775]: Textual amendment: Words repealed by [Bills of Sale Act (1878) Amendment Act 1882 (c. 43)](https://www.legislation.gov.uk/ukpga/1882/43), [s. 16](https://www.legislation.gov.uk/ukpga/1882/43/section/16)
 
-[^key-4246c16060ad1c2de2fd3f6ab81c3763]: Textual amendment: Words in s. 17 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-4246c16060ad1c2de2fd3f6ab81c3763]: Textual amendment: Words in s. 17 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c569776]: Textual amendment: Words repealed by [Perjury Act 1911 (c. 6)](https://www.legislation.gov.uk/ukpga/1911/6), [Sch.](https://www.legislation.gov.uk/ukpga/1911/6/schedule)
 

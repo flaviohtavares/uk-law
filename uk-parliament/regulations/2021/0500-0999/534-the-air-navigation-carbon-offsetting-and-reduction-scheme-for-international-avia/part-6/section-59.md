@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Failure to keep records[^key-5dc260abb83107ee9e375dd32b232ff1]
+## 59. Failure to keep records[^c-5dc260abb83107ee9e375dd32b232ff1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person is liable to a civil penalty of £50,000 where the person fails to keep
 
 ## Annotations
 
-[^key-5dc260abb83107ee9e375dd32b232ff1]: Commencement: Art. 59 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-5dc260abb83107ee9e375dd32b232ff1]: Commencement: Art. 59 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

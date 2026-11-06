@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Activity to which the CRTS applies and unit of measurement of activity[^key-e63124378069c48b61c1ead0f9895897]
+## 10. Activity to which the CRTS applies and unit of measurement of activity[^c-e63124378069c48b61c1ead0f9895897]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e63124378069c48b61c1ead0f9895897]: Commencement: Art. 10 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-e63124378069c48b61c1ead0f9895897]: Commencement: Art. 10 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

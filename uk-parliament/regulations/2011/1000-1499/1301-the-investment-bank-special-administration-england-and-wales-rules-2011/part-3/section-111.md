@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Termination of membership[^key-f2b1460a6aa6b9de52011c0be36c5c2a]
+## 111. Termination of membership[^c-f2b1460a6aa6b9de52011c0be36c5c2a]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ but the administrator may require them to resign if the administrator thinks tha
 
 ## Annotations
 
-[^key-f2b1460a6aa6b9de52011c0be36c5c2a]: Commencement: [Rule 111](https://www.legislation.gov.uk/uksi/2011/1301/rule/111) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f2b1460a6aa6b9de52011c0be36c5c2a]: Commencement: [Rule 111](https://www.legislation.gov.uk/uksi/2011/1301/rule/111) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

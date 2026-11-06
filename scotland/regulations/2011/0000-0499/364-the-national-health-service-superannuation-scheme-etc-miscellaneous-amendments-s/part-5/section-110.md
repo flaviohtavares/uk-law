@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Amendment of regulation 3[^key-cf49dff72626b10ffa60cad20a120ad5]
+## 110. Amendment of regulation 3[^c-cf49dff72626b10ffa60cad20a120ad5]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In regulation 3 (making and acceptance of elections)—
 
 ## Annotations
 
-[^key-cf49dff72626b10ffa60cad20a120ad5]: Commencement: [Reg. 110](https://www.legislation.gov.uk/ssi/2011/364/regulation/110) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-cf49dff72626b10ffa60cad20a120ad5]: Commencement: [Reg. 110](https://www.legislation.gov.uk/ssi/2011/364/regulation/110) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

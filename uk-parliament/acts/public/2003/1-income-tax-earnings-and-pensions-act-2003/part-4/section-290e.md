@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 290E. Calculation of earnings rate for a tax year[^key-89dec35007301e1c5368fb2113089512]
+## 290E. Calculation of earnings rate for a tax year[^c-89dec35007301e1c5368fb2113089512]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 - section 346 (employee liabilities),
 - section 370 (travel costs and expenses where duties performed abroad: employee's travel),
 - section 371 (travel costs and expenses where duties performed abroad: visiting spouse's, civil partner's or child's travel),
-- section 373 (non-resident or qualifying new resident[^key-edfd9ec9660cd20417d05a7bafd33f6c] employee's travel costs and expenses where duties performed in UK),
+- section 373 (non-resident or qualifying new resident[^c-edfd9ec9660cd20417d05a7bafd33f6c] employee's travel costs and expenses where duties performed in UK),
 - section 374 (non-resident or qualifying new resident employee's spouse's, civil partner's or child's travel costs and expenses where duties performed in UK),
 - section 376 (foreign accommodation and subsistence costs and expenses (overseas employments)),
 - section 713 (payroll giving to charities),
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89dec35007301e1c5368fb2113089512]: Textual amendment: Ss. 290C-290G inserted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/13/2)
+[^c-89dec35007301e1c5368fb2113089512]: Textual amendment: Ss. 290C-290G inserted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/13/2)
 
-[^key-edfd9ec9660cd20417d05a7bafd33f6c]: Textual amendment: Words in s. 290E(4) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/4) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
+[^c-edfd9ec9660cd20417d05a7bafd33f6c]: Textual amendment: Words in s. 290E(4) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/4) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))

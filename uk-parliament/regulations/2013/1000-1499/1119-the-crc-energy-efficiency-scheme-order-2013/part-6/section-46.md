@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Information and assistance by occupiers (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+## 46. Information and assistance by occupiers (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where paragraph 16 of Schedule 1 applies, A may request B (where “A” and “B” are as described in that paragraph) to provide A with such reasonable assistance as A may require to comply with Part 2 or to comply with A's obligations as a participant. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(1) Where paragraph 16 of Schedule 1 applies, A may request B (where “A” and “B” are as described in that paragraph) to provide A with such reasonable assistance as A may require to comply with Part 2 or to comply with A's obligations as a participant. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(2) B must comply with the request within a reasonable time. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(2) B must comply with the request within a reasonable time. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
 ## Annotations
 
-[^key-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)
+[^c-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)

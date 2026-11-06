@@ -42,15 +42,15 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following regulations in exercise of the powers conferred by Article 20(3) of the Roads (Northern Ireland) Order 1993[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-83257db37bc31d63e43c75ba3d50ea82]
+## 1. Citation and commencement[^c-83257db37bc31d63e43c75ba3d50ea82]
 
 These regulations may be cited as The Motorways Traffic (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 1<sup>st</sup> October 2026.
 
-## 2. Amendment of the Motorways Traffic Regulations (Northern Ireland) 2008[^key-42c57e97fe02c2c5fee643cf39457817]
+## 2. Amendment of the Motorways Traffic Regulations (Northern Ireland) 2008[^c-42c57e97fe02c2c5fee643cf39457817]
 
 The Motorways Traffic Regulations (Northern Ireland) 2008[^f00004] are amended in accordance with regulations 3 and 4.
 
-**3.**[^key-9184335510629c98585846afc9a7d810] For regulation 1(2) substitute the following—
+**3.**[^c-9184335510629c98585846afc9a7d810] For regulation 1(2) substitute the following—
 
 > (2) In these regulations—
 >
@@ -69,7 +69,7 @@ The Motorways Traffic Regulations (Northern Ireland) 2008[^f00004] are amended i
 
 .
 
-**4.**[^key-83ff9f6fe1039a4bf397b3c3511b36f3] For regulation 11 (vehicles not to be driven by learner drivers) substitute the following—
+**4.**[^c-83ff9f6fe1039a4bf397b3c3511b36f3] For regulation 11 (vehicles not to be driven by learner drivers) substitute the following—
 
 > **11. Vehicles driven by learner drivers**
 >
@@ -122,13 +122,13 @@ The statutory rule also carves out provisions deferring motorway eligibility for
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 6(d) and Schedule 4 Part IV
 
-[^key-83257db37bc31d63e43c75ba3d50ea82]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1)
+[^c-83257db37bc31d63e43c75ba3d50ea82]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1)
 
-[^key-42c57e97fe02c2c5fee643cf39457817]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/143/regulation/2) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1)
+[^c-42c57e97fe02c2c5fee643cf39457817]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/143/regulation/2) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2008 No. 135](https://www.legislation.gov.uk/nisr/2008/135)
 
-[^key-9184335510629c98585846afc9a7d810]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/143/regulation/3) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1)
+[^c-9184335510629c98585846afc9a7d810]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/143/regulation/3) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2007/916 (N.I. 10)](https://www.legislation.gov.uk/nisi/2007/916) as amended by [S.R. 2017 No. 117](https://www.legislation.gov.uk/nisr/2017/117)
 
@@ -136,7 +136,7 @@ The statutory rule also carves out provisions deferring motorway eligibility for
 
 [^f00007]: Footnote: [S.I. 1997/276 (N.I. 2)](https://www.legislation.gov.uk/nisi/1997/276)
 
-[^key-83ff9f6fe1039a4bf397b3c3511b36f3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/143/regulation/4) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1)
+[^c-83ff9f6fe1039a4bf397b3c3511b36f3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/143/regulation/4) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); Articles 5(3), 13(3) and 14(2) were substituted by Schedule 1 to [S.I. 1991/197 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197)
 

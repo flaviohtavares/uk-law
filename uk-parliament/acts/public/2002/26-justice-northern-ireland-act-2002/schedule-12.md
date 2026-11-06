@@ -54,15 +54,15 @@ The Law Commissions Act 1965 has effect subject to the following amendments.
 
 **9.** In section 3(4) (duty of Law Commission and Scottish Law Commission to consult each other), insert at the end “ and the Northern Ireland Law Commission ”.
 
-### 10. Administration of Justice Act 1973 (c. 15)[^key-d94b915bf8aa75e9b550fa03a74df6d5]
+### 10. Administration of Justice Act 1973 (c. 15)[^c-d94b915bf8aa75e9b550fa03a74df6d5]
 
 The Administration of Justice Act 1973 has effect subject to the following amendments.
 
-**11.**[^key-0d3e0fec204c7db7153eb6838803084b] In section 9(5) (judicial salaries), after “Salaries payable” insert “ under subsection (1)(d) shall be charged on and paid out of the Consolidated Fund of Northern Ireland and other salaries payable ”.
+**11.**[^c-0d3e0fec204c7db7153eb6838803084b] In section 9(5) (judicial salaries), after “Salaries payable” insert “ under subsection (1)(d) shall be charged on and paid out of the Consolidated Fund of Northern Ireland and other salaries payable ”.
 
-**12.**[^key-2b68b6e0eebbd8ee15e762b62f814e1c] In section 12(1) (retirement of higher judiciary in event of incapacity), after “Northern Ireland” insert “ (other than a judge to whom section 7 of the Justice (Northern Ireland) Act 2002 applies) ”.
+**12.**[^c-2b68b6e0eebbd8ee15e762b62f814e1c] In section 12(1) (retirement of higher judiciary in event of incapacity), after “Northern Ireland” insert “ (other than a judge to whom section 7 of the Justice (Northern Ireland) Act 2002 applies) ”.
 
-### 13. Judicature (Northern Ireland) Act 1978 (c. 23)[^key-d3015e6b3c14a1870bb4b1bb7721c9e0]
+### 13. Judicature (Northern Ireland) Act 1978 (c. 23)[^c-d3015e6b3c14a1870bb4b1bb7721c9e0]
 
 **Not yet in force.**
 
@@ -99,7 +99,7 @@ In Article 6(6) of the Rehabilitation of Offenders (Northern Ireland) Order 1978
 
 The Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 has effect subject to the following amendments.
 
-**17.**[^key-9bf9bbc1979695c1fdb31adb128dbdf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-9bf9bbc1979695c1fdb31adb128dbdf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -149,7 +149,7 @@ The Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 has effect su
 
 **Not yet in force.**
 
-**28.**[^key-755630c07f44142d3b9b07b52ed68186] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-755630c07f44142d3b9b07b52ed68186] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 29. Magistrates’ Courts (Northern Ireland) Order 1981 (S.I 1981/1675 (N.I. 26))
 
@@ -252,7 +252,7 @@ The Mental Health (Northern Ireland) Order 1986 has effect subject to the follow
 
 > (1B) In this Part “**secure accommodation**” means accommodation provided by an authority (within the meaning of the Children (Northern Ireland) Order 1995 (N.I. 2)) for the purpose of restricting liberty.
 
-### 41. Criminal Justice Act 1988 (c. 33)[^key-25b747d38068809c2ce46f585deec175]
+### 41. Criminal Justice Act 1988 (c. 33)[^c-25b747d38068809c2ce46f585deec175]
 
 In paragraph 12 of Schedule 3 to the Criminal Justice Act 1988 (reviews of sentencing: supplementary), for “Attorney General for Northern Ireland” substitute “ Director of Public Prosecutions for Northern Ireland ”.
 
@@ -417,15 +417,15 @@ In section 42(3) of the Police (Northern Ireland) Act 1998 (copies of reports of
 
 The Northern Ireland Act 1998 has effect subject to the following amendments.
 
-**63.**[^key-fe83020cf6296d2a4ad942b39bcc4d7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**63.**[^c-fe83020cf6296d2a4ad942b39bcc4d7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**64.**[^key-fe83020cf6296d2a4ad942b39bcc4d7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-fe83020cf6296d2a4ad942b39bcc4d7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**65.**[^key-dc17c53001675710cdc2882793dac498] (1) Schedule 3 (reserved matters) is amended as follows.
+**65.**[^c-dc17c53001675710cdc2882793dac498] (1) Schedule 3 (reserved matters) is amended as follows.
 
 (2) In paragraph 1 (conferral of functions on Ministers of the Crown), insert at the end “apart from the Advocate General for Northern Ireland”.
 
-(3)[^key-8e30d315e1198d1ab60a3127421c49a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8e30d315e1198d1ab60a3127421c49a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 66. Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9))
 
@@ -575,7 +575,7 @@ The Criminal Justice (Children) (Northern Ireland) Order 1998 has effect subject
 >
 > (2D) A parent or guardian may appeal to a county court against an order under paragraph (2B).
 
-**75.**[^key-5b179a12e68ae001caba7cd18b25c9c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**75.**[^c-5b179a12e68ae001caba7cd18b25c9c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 76. Northern Ireland Act 2000 (c. 1)
 
@@ -609,21 +609,21 @@ In paragraph 39(4)(b) and (6)(b) of Schedule 4 to the Terrorism Act 2000 (compen
 
 [^c20713171]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 82. Constitutional Reform Act 2005[^key-b868cf43ff802b817987e07340e68856]
+### 82. Constitutional Reform Act 2005[^c-b868cf43ff802b817987e07340e68856]
 
 Omit sections 133 to 136 of the Constitutional Reform Act 2005 (judicial removals: Northern Ireland).
 
 ## Annotations
 
-[^key-d94b915bf8aa75e9b550fa03a74df6d5]: Commencement: Sch. 12 para. 10 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/20/a)
+[^c-d94b915bf8aa75e9b550fa03a74df6d5]: Commencement: Sch. 12 para. 10 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/20/a)
 
-[^key-0d3e0fec204c7db7153eb6838803084b]: Commencement: Sch. 12 para. 11 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/20/a)
+[^c-0d3e0fec204c7db7153eb6838803084b]: Commencement: Sch. 12 para. 11 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/20/a)
 
-[^key-2b68b6e0eebbd8ee15e762b62f814e1c]: Commencement: Sch. 12 para. 12 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/20/a)
+[^c-2b68b6e0eebbd8ee15e762b62f814e1c]: Commencement: Sch. 12 para. 12 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/20/a)
 
-[^key-d3015e6b3c14a1870bb4b1bb7721c9e0]: Textual amendment: Sch. 12 para. 13 omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/37) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-d3015e6b3c14a1870bb4b1bb7721c9e0]: Textual amendment: Sch. 12 para. 13 omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/37) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-9bf9bbc1979695c1fdb31adb128dbdf2]: Textual amendment: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/17) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-9bf9bbc1979695c1fdb31adb128dbdf2]: Textual amendment: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/17) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
 [^c20687081]: Textual amendment: Sch. 12 paras. 18-22 repealed (2.11.2003) by Access to [Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [49(2)](https://www.legislation.gov.uk/nisi/2003/435/article/49/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2003/440](https://www.legislation.gov.uk/nisr/2003/440), [art. 3](https://www.legislation.gov.uk/nisr/2003/440/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2003/440/schedule)
 
@@ -637,11 +637,11 @@ Omit sections 133 to 136 of the Constitutional Reform Act 2005 (judicial removal
 
 [^c20833941]: Commencement: Sch. 12 para. 27 wholly in force at 30.8.2005; Sch. 12 para. 27 not in force at Royal Assent see s. 87; Sch. 12 para. 27 in force for certain purposes at 1.12.2003 by [S.R. 2003/488](https://www.legislation.gov.uk/nisr/2003/488), [art. 2](https://www.legislation.gov.uk/nisr/2003/488/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2003/488/schedule); Sch. 12 para. 27 in force for remaining purpose at 30.8.2005 by [S.R. 2005/391](https://www.legislation.gov.uk/nisr/2005/391), [art. 2](https://www.legislation.gov.uk/nisr/2005/391/article/2), [Sch. para. 9(a)](https://www.legislation.gov.uk/nisr/2005/391/schedule/paragraph/9/a)
 
-[^key-755630c07f44142d3b9b07b52ed68186]: Textual amendment: [Sch. 12 para. 28](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/28) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-755630c07f44142d3b9b07b52ed68186]: Textual amendment: [Sch. 12 para. 28](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/28) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
 [^c20691211]: Commencement: Sch. 12 para. 31 partly in force; Sch. 12 para. 31 not in force at Royal Assent, see s. 87; Sch. 12 para. 31 in force for certain purposes at 1.12.2003 by [S.R. 2003/488](https://www.legislation.gov.uk/nisr/2003/488), [art. 2](https://www.legislation.gov.uk/nisr/2003/488/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2003/488/schedule)
 
-[^key-25b747d38068809c2ce46f585deec175]: Commencement: Sch. 12 para. 41 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 20(b)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/20/b)
+[^c-25b747d38068809c2ce46f585deec175]: Commencement: Sch. 12 para. 41 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 20(b)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/20/b)
 
 [^c20713471]: Textual amendment: Sch. 12 para. 47 repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/9/1), [Sch. 3 para. 228(j)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/j)
 
@@ -649,11 +649,11 @@ Omit sections 133 to 136 of the Constitutional Reform Act 2005 (judicial removal
 
 [^c20844271]: Commencement: Sch. 12 para. 60 partly in force; Sch. 12 para. 60 not in force at Royal Assent see s. 87; Sch. 12 para. 60 in force for certain purposes at 30.8.2005 by [S.R. 2005/391](https://www.legislation.gov.uk/nisr/2005/391), [art. 2](https://www.legislation.gov.uk/nisr/2005/391/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2005/391/schedule)
 
-[^key-fe83020cf6296d2a4ad942b39bcc4d7a]: Textual amendment: [Sch. 12 para. 64](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/64) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-fe83020cf6296d2a4ad942b39bcc4d7a]: Textual amendment: [Sch. 12 para. 64](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/64) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
 
-[^key-dc17c53001675710cdc2882793dac498]: Commencement: Sch. 12 para. 65 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 20(c)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/20/c)
+[^c-dc17c53001675710cdc2882793dac498]: Commencement: Sch. 12 para. 65 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 20(c)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/20/c)
 
-[^key-8e30d315e1198d1ab60a3127421c49a0]: Textual amendment: Sch. 12 para. 65(3) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2010/976/article/27/2/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-8e30d315e1198d1ab60a3127421c49a0]: Textual amendment: Sch. 12 para. 65(3) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2010/976/article/27/2/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c20691331]: Commencement: Sch. 12 para. 67 partly in force; Sch. 12 para. 67 not in force at Royal Assent, see s. 87; Sch. 12 para. 67 in force for certain purposes at 1.12.2003 by [S.R. 2003/488](https://www.legislation.gov.uk/nisr/2003/488), [art. 2](https://www.legislation.gov.uk/nisr/2003/488/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2003/488/schedule)
 
@@ -663,8 +663,8 @@ Omit sections 133 to 136 of the Constitutional Reform Act 2005 (judicial removal
 
 [^c20844301]: Commencement: Sch. 12 para. 73 partly in force; Sch. 12 para. 73 not in force at Royal Assent see s. 87; Sch. 12 para. 73(2)(c)(3) in force and Sch. 12 para. 73(1) in force for certain purposes at 30.8.2005 by [S.R. 2005/391](https://www.legislation.gov.uk/nisr/2005/391), [art. 2](https://www.legislation.gov.uk/nisr/2005/391/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2005/391/schedule)
 
-[^key-5b179a12e68ae001caba7cd18b25c9c9]: Textual amendment: Sch. 12 para. 75 repealed (12.4.2010) by [Justice (Northern Ireland) Act 2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2004/4/section/19/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/4/schedule/4); [S.R. 2012/114](https://www.legislation.gov.uk/nisr/2012/114), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/114/article/2/c)
+[^c-5b179a12e68ae001caba7cd18b25c9c9]: Textual amendment: Sch. 12 para. 75 repealed (12.4.2010) by [Justice (Northern Ireland) Act 2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2004/4/section/19/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/4/schedule/4); [S.R. 2012/114](https://www.legislation.gov.uk/nisr/2012/114), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/114/article/2/c)
 
 [^c20713171]: Textual amendment: Sch. 12 para. 81 repealed (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [ss. 30](https://www.legislation.gov.uk/ukpga/2006/51/section/30), [33](https://www.legislation.gov.uk/ukpga/2006/51/section/33), [Sch.](https://www.legislation.gov.uk/ukpga/2006/51/schedule) (with [s. 30(2)-(5)](https://www.legislation.gov.uk/ukpga/2006/51/section/30/2))
 
-[^key-b868cf43ff802b817987e07340e68856]: Textual amendment: Sch. 12 para. 82 inserted (12.4.2010) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 127](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/127); [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/ii)
+[^c-b868cf43ff802b817987e07340e68856]: Textual amendment: Sch. 12 para. 82 inserted (12.4.2010) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 127](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/127); [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/ii)

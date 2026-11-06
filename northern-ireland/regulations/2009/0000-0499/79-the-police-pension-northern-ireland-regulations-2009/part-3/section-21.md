@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Final pensionable pay[^key-f1ba7f1f1396688c0bdf54bfc175ddaf]
+## 21. Final pensionable pay[^c-f1ba7f1f1396688c0bdf54bfc175ddaf]
 
 *Extent: N.I.*
 
@@ -48,6 +48,6 @@ whichever is the greatest.
 
 ## Annotations
 
-[^key-f1ba7f1f1396688c0bdf54bfc175ddaf]: Commencement: Reg. 21 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-f1ba7f1f1396688c0bdf54bfc175ddaf]: Commencement: Reg. 21 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00009]: Footnote: [1971 c.3 (N.I.)](https://www.legislation.gov.uk/apni/1971/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Termination of contracting out.[^key-c5891ee0c154b3ab74a20abcb1f0d455][^key-308a8acc2ecc551a34fd62126e7fa8c2]
+## 73. Termination of contracting out.[^c-c5891ee0c154b3ab74a20abcb1f0d455][^c-308a8acc2ecc551a34fd62126e7fa8c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c5891ee0c154b3ab74a20abcb1f0d455]: Modification: S. 73 applied by 1998 c. 37, s. 1F(7)(b) (as inserted (E.W.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 142(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/142/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(s)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/s))
+[^c-c5891ee0c154b3ab74a20abcb1f0d455]: Modification: S. 73 applied by 1998 c. 37, s. 1F(7)(b) (as inserted (E.W.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 142(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/142/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(s)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/s))
 
-[^key-308a8acc2ecc551a34fd62126e7fa8c2]: Modification: S. 73 applied by 2003 c. 38, s. 28A(7) (as inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 25](https://www.legislation.gov.uk/ukpga/2006/48/section/25), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a))
+[^c-308a8acc2ecc551a34fd62126e7fa8c2]: Modification: S. 73 applied by 2003 c. 38, s. 28A(7) (as inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 25](https://www.legislation.gov.uk/ukpga/2006/48/section/25), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a))

@@ -81,7 +81,7 @@ are to be exercisable (in this Schedule referred to as “**regulators**”).
 **5.** Enabling the Minister to give directions which regulators are to comply with, or guidance which regulators are to have regard to, in exercising functions under the regulations, including—
 
 - (a) directions providing for any functions exercisable by one regulator to be instead exercisable by another;
-- (b) directions given for the purpose of the implementation of any assimilated[^key-75d8db9a20833eb14b1d35203f07f43b][^key-2afe137b071a2724210256e710b84cc9] obligations or under any international agreement to which the United Kingdom is a party;
+- (b) directions given for the purpose of the implementation of any assimilated[^c-75d8db9a20833eb14b1d35203f07f43b][^c-2afe137b071a2724210256e710b84cc9] obligations or under any international agreement to which the United Kingdom is a party;
 - (c) directions relating to the exercise of any function in a particular case or class of case (except functions in relation to the investigation or prosecution, in a particular case, of an offence under the regulations).
 
 #### Permits
@@ -247,7 +247,7 @@ in respect of a structure or obstruction of a specified description.
 - (a) sections 9 to 15 and 18 of the Salmon and Freshwater Fisheries Act 1975 (obstructions to passage of fish);
 - (b) Part 4 of the Eels (England and Wales) Regulations 2009 (S.I. 2009/3344) (passage of eels).
 
-(4)[^key-b20d7cb5ffed33d7e407ae13799c47ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b20d7cb5ffed33d7e407ae13799c47ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Provision made under this paragraph is not subject to the requirement in section 61(2).
 
@@ -322,7 +322,7 @@ must provide that, where the offence is committed before that date, it is punish
 
 (5) Regulations that—
 
-- (a) are made before 2 May 2022[^key-6bd45cad34abe166e4412b32a5a522e1], and
+- (a) are made before 2 May 2022[^c-6bd45cad34abe166e4412b32a5a522e1], and
 - (b) in relation to England and Wales, make provision for an offence triable either summarily or on indictment to be punishable on summary conviction with a term of imprisonment exceeding six months,
 
 must provide that, where the offence is committed before that date, it is punishable on summary conviction with imprisonment for a term not exceeding six months.
@@ -363,10 +363,10 @@ or both.
 
 ## Annotations
 
-[^key-75d8db9a20833eb14b1d35203f07f43b]: Textual amendment: Word in [Sch. 8 para. 5(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/8/paragraph/5/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 83](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/83)
+[^c-75d8db9a20833eb14b1d35203f07f43b]: Textual amendment: Word in [Sch. 8 para. 5(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/8/paragraph/5/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 83](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/83)
 
-[^key-2afe137b071a2724210256e710b84cc9]: Textual amendment: Words in [Sch. 8 para. 5(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/8/paragraph/5/b) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/558/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2afe137b071a2724210256e710b84cc9]: Textual amendment: Words in [Sch. 8 para. 5(b)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/8/paragraph/5/b) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/558/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b20d7cb5ffed33d7e407ae13799c47ec]: Textual amendment: [Sch. 8 para. 30(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/8/paragraph/30/4) omitted (9.1.2022) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 88(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/88/3), [147(2)(k)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/k) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-b20d7cb5ffed33d7e407ae13799c47ec]: Textual amendment: [Sch. 8 para. 30(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/8/paragraph/30/4) omitted (9.1.2022) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 88(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/88/3), [147(2)(k)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/k) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
-[^key-6bd45cad34abe166e4412b32a5a522e1]: Textual amendment: Words in [Sch. 8 para. 37(5)(a)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/8/paragraph/37/5/a) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-6bd45cad34abe166e4412b32a5a522e1]: Textual amendment: Words in [Sch. 8 para. 37(5)(a)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/8/paragraph/37/5/a) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)

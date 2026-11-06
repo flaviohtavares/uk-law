@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Receipt of club transfer values[^key-b96d31fecd4fab5be1628850f7bca158]
+## 31. Receipt of club transfer values[^c-b96d31fecd4fab5be1628850f7bca158]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b96d31fecd4fab5be1628850f7bca158]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2014/2336/regulation/31) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-b96d31fecd4fab5be1628850f7bca158]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2014/2336/regulation/31) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

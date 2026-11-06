@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where the registered owner[^key-8cb57837a7d63e6a1c9e2407cc0603f1] of a ship has or is alleged to have incurred a liability under section 153 he may apply to the court for the limitation of that liability to an amount determined in accordance with section 157.
+(1) Where the registered owner[^c-8cb57837a7d63e6a1c9e2407cc0603f1] of a ship has or is alleged to have incurred a liability under section 153 he may apply to the court for the limitation of that liability to an amount determined in accordance with section 157.
 
 (2) If on such an application the court finds that the applicant has incurred such a liability but has not found that he is not entitled to limit it[^c14527171], the court shall, after determining the limit which would apply to the applicant’s liability if he were entitled to limit it[^c14527181] and directing payment into court of the amount of that limit—
 
@@ -50,7 +50,7 @@ the making of the distribution is not to be regarded as affecting the applicant�
 
 (5) Where any sum has been paid in or towards satisfaction of any claim in respect of the damage or cost to which the liability extends—
 
-- (a) by the registered owner[^key-c51cce0299fdbf5387d9bc33edabc6b2] or the persons referred to in section 165 as “**the insurer**” (in relation to any insurance or other security provided as mentioned in subsection (1) of that section)[^key-966c196ab9eb5699f139e790f5225bb1]; or
+- (a) by the registered owner[^c-c51cce0299fdbf5387d9bc33edabc6b2] or the persons referred to in section 165 as “**the insurer**” (in relation to any insurance or other security provided as mentioned in subsection (1) of that section)[^c-966c196ab9eb5699f139e790f5225bb1]; or
 - (b) by a person who has or is alleged to have incurred a liability, otherwise than under section 153, for the damage or cost and who is entitled to limit his liability in connection with the ship by virtue of section 185 or 186;
 
 the person who paid the sum shall, to the extent of that sum, be in the same position with respect to any distribution made in proceedings under this section as the person to whom it was paid would have been.
@@ -93,7 +93,7 @@ the person who paid the sum shall, to the extent of that sum, be in the same pos
 
     S. 158 extended (with modifications) to Saint Helena (20.5.1998) by [S.I. 1998/1263](https://www.legislation.gov.uk/uksi/1998/1263), [art. 2](https://www.legislation.gov.uk/uksi/1998/1263/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1263/schedule)
 
-[^key-8cb57837a7d63e6a1c9e2407cc0603f1]: Textual amendment: Words in [s. 158(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/158/1) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/12/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-8cb57837a7d63e6a1c9e2407cc0603f1]: Textual amendment: Words in [s. 158(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/158/1) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/12/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
 [^c14527171]: Textual amendment: Words in s. 158(2) substituted (17.7.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 29(1)](https://www.legislation.gov.uk/ukpga/1997/28/section/29/1), [Sch. 6 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/1997/28/schedule/6/paragraph/4/2/a); [S.I. 1997/1539](https://www.legislation.gov.uk/uksi/1997/1539), [art. 2](https://www.legislation.gov.uk/uksi/1997/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1539/schedule)
 
@@ -101,6 +101,6 @@ the person who paid the sum shall, to the extent of that sum, be in the same pos
 
 [^c14527191]: Textual amendment: S. 158(2A) inserted (17.7.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 29(1)](https://www.legislation.gov.uk/ukpga/1997/28/section/29/1), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/ukpga/1997/28/schedule/6/paragraph/4/3); [S.I. 1997/1539](https://www.legislation.gov.uk/uksi/1997/1539), [art. 2](https://www.legislation.gov.uk/uksi/1997/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1539/schedule)
 
-[^key-c51cce0299fdbf5387d9bc33edabc6b2]: Textual amendment: Words in [s. 158(5)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/158/5/a) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/12/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-c51cce0299fdbf5387d9bc33edabc6b2]: Textual amendment: Words in [s. 158(5)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/158/5/a) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/12/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-966c196ab9eb5699f139e790f5225bb1]: Textual amendment: Words in [s. 158(5)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/158/5/a) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/12/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-966c196ab9eb5699f139e790f5225bb1]: Textual amendment: Words in [s. 158(5)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/158/5/a) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/12/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))

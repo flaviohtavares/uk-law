@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Amendment of the Authority’s principal objective in relation to electricity[^key-a56e6502976486a0a79abcc093b1f8e2]
+## 39. Amendment of the Authority’s principal objective in relation to electricity[^c-a56e6502976486a0a79abcc093b1f8e2]
 
 *Extent: N.I.*
 
@@ -26,10 +26,10 @@ After Article 12(1) of the Energy Order, there shall be inserted the following p
 
 .
 
-**40.**[^key-f4044b18292dcadd7f633340cac34e19] In Article 13(2)(b) of the Energy Order, after “Article 8” there shall be inserted “and Article 8A”.
+**40.**[^c-f4044b18292dcadd7f633340cac34e19] In Article 13(2)(b) of the Energy Order, after “Article 8” there shall be inserted “and Article 8A”.
 
 ## Annotations
 
-[^key-a56e6502976486a0a79abcc093b1f8e2]: Commencement: Reg. 39 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-a56e6502976486a0a79abcc093b1f8e2]: Commencement: Reg. 39 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-f4044b18292dcadd7f633340cac34e19]: Commencement: Reg. 40 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-f4044b18292dcadd7f633340cac34e19]: Commencement: Reg. 40 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

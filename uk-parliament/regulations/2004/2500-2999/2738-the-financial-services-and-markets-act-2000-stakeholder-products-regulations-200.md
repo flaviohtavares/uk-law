@@ -57,35 +57,35 @@ These Regulations may be cited as the Financial Services and Markets 2000 (Stake
 - “**the 2000 Act**” means the Financial Services and Markets Act 2000;
 - “**account-holder**” means the holder of a deposit account;
 - “**Bank of England base rate**” means the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank of England is willing to enter into transactions for providing short-term liquidity in the money markets;
-- [^key-87a6f3d3cbf0bf375060836e3dee82ea]...
+- [^c-87a6f3d3cbf0bf375060836e3dee82ea]...
 - “**relevant contract of insurance**” means a contract of insurance—
   - (a) which, or any part of which, is one or more of the following kinds—
     - (i) life and annuity,
     - (ii) linked long-term, and
   - (b) which is carried out by an insurer who has permission, as the case may be, under—
-    - (i) Part 4 of the 2000 Act, [^key-a4dd33b2d8919c0df1c0e1aa576ad03c]...
-    - (ii) [^key-a4dd33b2d8919c0df1c0e1aa576ad03c]...
+    - (i) Part 4 of the 2000 Act, [^c-a4dd33b2d8919c0df1c0e1aa576ad03c]...
+    - (ii) [^c-a4dd33b2d8919c0df1c0e1aa576ad03c]...
   - (c) is not a with-profits policy and does not include rights in a with-profits fund;
 - “**deposit account**” means a deposit account with a deposit-taker and includes a share account with a building society within the meaning of the Building Societies Act 1986 [^c5276471];
 - “**deposit-taker**” means—
-  - (a) a person who has permission under Part 4 of the 2000 Act to accept deposits, [^key-92185a2e39c19d45ee867cd0be05e0dc]...
-  - (b) [^key-92185a2e39c19d45ee867cd0be05e0dc]...
-- “dilution levy” has the meaning given by the Financial Conduct Authority Handbook made by the Financial Conduct Authority under the[^key-16cb7e7e12798058da806a0c463ac684] 2000 Act;
+  - (a) a person who has permission under Part 4 of the 2000 Act to accept deposits, [^c-92185a2e39c19d45ee867cd0be05e0dc]...
+  - (b) [^c-92185a2e39c19d45ee867cd0be05e0dc]...
+- “dilution levy” has the meaning given by the Financial Conduct Authority Handbook made by the Financial Conduct Authority under the[^c-16cb7e7e12798058da806a0c463ac684] 2000 Act;
 - “**insurer**” means—
-  - (a) a person who has permission under Part 4 of the 2000 Act to effect or carry out contracts of insurance, [^key-94baa1ba46e70101d23ac659d0cdc686]...
-  - (b) [^key-94baa1ba46e70101d23ac659d0cdc686]...
+  - (a) a person who has permission under Part 4 of the 2000 Act to effect or carry out contracts of insurance, [^c-94baa1ba46e70101d23ac659d0cdc686]...
+  - (b) [^c-94baa1ba46e70101d23ac659d0cdc686]...
 - “**investor**” means a member of a collective investment scheme which complies with regulation 5 or an underlying fund which complies with regulation 6 as the case may be;
 - “**investment property**” means the scheme property of a collective investment scheme which complies with regulation 5 or an underlying fund which complies with regulation 6 as the case may be;
 - “**investment scheme**” means a collective investment scheme which complies with regulation 5 or a linked long-term contract which complies with regulation 6 as the case may be;
-- “land and buildings” means interests in any land or buildings which satisfy the conditions in paragraph 5.6.18 of the Collective Investment Schemes Sourcebook made by the Financial Conduct Authority under the[^key-126ec91e68c973220280ed5c123ec8ea] 2000 Act;
+- “land and buildings” means interests in any land or buildings which satisfy the conditions in paragraph 5.6.18 of the Collective Investment Schemes Sourcebook made by the Financial Conduct Authority under the[^c-126ec91e68c973220280ed5c123ec8ea] 2000 Act;
 - “**linked long-term contract**” means a contract of long-term insurance as specified in paragraph 3 of Part 2 of Schedule 1 to the principal Order;
-- “[^key-21d94297ff6314fb724c959c9c9558c8]**manager**” means—
+- “[^c-21d94297ff6314fb724c959c9c9558c8]**manager**” means—
   - ((a)) the operator of a relevant collective investment scheme which is an authorised contractual scheme;
   - ((b)) the manager of any other relevant collective investment scheme; or
   - ((c)) the insurer of a relevant linked long-term contract;
-- “[^key-0ecffb5331a952c0ffb5400c72d72c49]**operator**”, in relation to an authorised contractual scheme, has the meaning given in section 237(2) of the 2000 Act;
+- “[^c-0ecffb5331a952c0ffb5400c72d72c49]**operator**”, in relation to an authorised contractual scheme, has the meaning given in section 237(2) of the 2000 Act;
 - “**the principal Order**” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001;
-- “**relevant collective investment scheme**” means an authorised unit trust scheme, an authorised contractual scheme,[^key-0d3d7d6da89bddde28903aa3ab89047f] an authorised open-ended investment company or a recognised scheme, as the case may be, as defined in section 237(3) of the 2000 Act;
+- “**relevant collective investment scheme**” means an authorised unit trust scheme, an authorised contractual scheme,[^c-0d3d7d6da89bddde28903aa3ab89047f] an authorised open-ended investment company or a recognised scheme, as the case may be, as defined in section 237(3) of the 2000 Act;
 - “**relevant investments**” means—
   - (a) shares issued by a company wherever incorporated and officially listed on a recognised stock exchange;
   - (b) units in a relevant collective investment scheme where a substantial proportion of the scheme property is invested, directly or indirectly, in shares, as defined in paragraph (a) or land and buildings; and
@@ -108,10 +108,10 @@ These Regulations specify kinds of investment for the purposes of sub-paragraph 
 A deposit account (“**the account**”) is a stakeholder product if the following conditions are fulfilled—
 
 - (a) the minimum amount which an account-holder may deposit on a single occasion is £10, except where the deposit-taker permits a smaller payment;
-- (b) the deposit-taker permits payment to the account by any of the following means, at the option of the account-holder[^key-2da51b38cc6819dd4db55b41fc7d549e]—
+- (b) the deposit-taker permits payment to the account by any of the following means, at the option of the account-holder[^c-2da51b38cc6819dd4db55b41fc7d549e]—
   - (i) cash;
   - (ii) cheque;
-  - (iii)[^key-b5524a7946abc56792650b722c17dbf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-b5524a7946abc56792650b722c17dbf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) standing order;
   - (v) direct credit (other than standing order),
 
@@ -149,7 +149,7 @@ Units in a relevant collective investment scheme are a stakeholder product where
 (2) The conditions with which the investment scheme must comply are—
 
 - (a) the minimum amount which an investor may contribute to the investment scheme on a single occasion is £20, except where the manager permits a smaller amount;
-- (b) the manager must permit payment to the investment scheme by any of the following means, at the option of the investor[^key-5393945553e63ce1d335743ad1f5fd16]—
+- (b) the manager must permit payment to the investment scheme by any of the following means, at the option of the investor[^c-5393945553e63ce1d335743ad1f5fd16]—
   - (i) cheque;
   - (ii) direct debit;
   - (iii) standing order;
@@ -236,8 +236,8 @@ must be specified in writing by the manager; and the specification may not be am
 - (c) where any charges or expenses are incurred by the manager directly or indirectly in maintaining or repairing any land or building in which the investment property is invested or in connection with the collection of rent, service charge or other sum due under the terms of a lease from occupiers of any land or building in which the investment property is invested, by the amount of those charges or expenses;
 - (d) where any charges or expenses are incurred by the manager directly or indirectly in complying with an order of the court or any similar requirements imposed by law, by the amount of those charges or expenses;
 - (e) to the extent that the manager incurs any expenses in complying with a requirement—
-  - (i) to arrange for the investor to receive a copy of the annual report and accounts issued to investors by any company, unit trust, open-ended investment company or other entity in which the investment scheme is invested directly or indirectly (“the relevant entities”), [^key-ad27b3b4d59d32a0dc6d282851a7d38a]...
-  - (ia)[^key-61ecd3a6100d52ba8646fe280f039cca] to arrange for the investor to receive a copy of the annual report and accounts issued to investors by the manager of an authorised contractual scheme in which the investment scheme is invested directly or indirectly, or to receive any other information issued to investors by the manager of such a scheme, or
+  - (i) to arrange for the investor to receive a copy of the annual report and accounts issued to investors by any company, unit trust, open-ended investment company or other entity in which the investment scheme is invested directly or indirectly (“the relevant entities”), [^c-ad27b3b4d59d32a0dc6d282851a7d38a]...
+  - (ia)[^c-61ecd3a6100d52ba8646fe280f039cca] to arrange for the investor to receive a copy of the annual report and accounts issued to investors by the manager of an authorised contractual scheme in which the investment scheme is invested directly or indirectly, or to receive any other information issued to investors by the manager of such a scheme, or
   - (ii) to arrange for the investor to attend, vote or receive any other information issued to investors by the relevant entities,
 
   by the amount of such of those expenses; and
@@ -277,32 +277,32 @@ Regulation 9 sets out the detailed requirements for the charge cap applicable to
 
 [^c5276461]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), as amended by [S.I. 2001/3544](https://www.legislation.gov.uk/uksi/2001/3544), [S.I](https://www.legislation.gov.uk/uksi/2001/3544/section/I). 2002/682, [S.I. 2002/1310](https://www.legislation.gov.uk/uksi/2002/1310), [S.I](https://www.legislation.gov.uk/uksi/2002/1310/section/I). 2002/1776, [S.I. 2002/1777](https://www.legislation.gov.uk/uksi/2002/1777), [S.I](https://www.legislation.gov.uk/uksi/2002/1777/section/I). 2003/1475, [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), [S.I](https://www.legislation.gov.uk/uksi/2003/1476/section/I). 2003/2822 and [S.I. 2004/1610](https://www.legislation.gov.uk/uksi/2004/1610).
 
-[^key-87a6f3d3cbf0bf375060836e3dee82ea]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 98(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/98/a)
+[^c-87a6f3d3cbf0bf375060836e3dee82ea]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 98(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/98/a)
 
-[^key-a4dd33b2d8919c0df1c0e1aa576ad03c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 50(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/50/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4dd33b2d8919c0df1c0e1aa576ad03c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 50(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/50/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c5276471]: Marginal citation: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53) as amended by the [Building Societies Act 1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32) and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-92185a2e39c19d45ee867cd0be05e0dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 50(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/50/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-92185a2e39c19d45ee867cd0be05e0dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 50(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/50/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-16cb7e7e12798058da806a0c463ac684]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 98(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/98/b)
+[^c-16cb7e7e12798058da806a0c463ac684]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 98(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/98/b)
 
-[^key-94baa1ba46e70101d23ac659d0cdc686]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 50(c)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/50/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94baa1ba46e70101d23ac659d0cdc686]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 50(c)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/50/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-126ec91e68c973220280ed5c123ec8ea]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 98(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/98/c)
+[^c-126ec91e68c973220280ed5c123ec8ea]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 98(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/98/c)
 
-[^key-21d94297ff6314fb724c959c9c9558c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) substituted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/2/a) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-21d94297ff6314fb724c959c9c9558c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) substituted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/2/a) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
-[^key-0ecffb5331a952c0ffb5400c72d72c49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/2/b) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-0ecffb5331a952c0ffb5400c72d72c49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/2/b) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
-[^key-0d3d7d6da89bddde28903aa3ab89047f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/2/c) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-0d3d7d6da89bddde28903aa3ab89047f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/2/c) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
-[^key-2da51b38cc6819dd4db55b41fc7d549e]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/4/b) substituted (6.4.2005) by [The Financial Services and Markets Act 2000 (Stakeholder Products) (Amendment) Regulations 2005 (S.I. 2005/594)](https://www.legislation.gov.uk/uksi/2005/594), [regs. 1](https://www.legislation.gov.uk/uksi/2005/594/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2005/594/regulation/2/2/a)
+[^c-2da51b38cc6819dd4db55b41fc7d549e]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/4/b) substituted (6.4.2005) by [The Financial Services and Markets Act 2000 (Stakeholder Products) (Amendment) Regulations 2005 (S.I. 2005/594)](https://www.legislation.gov.uk/uksi/2005/594), [regs. 1](https://www.legislation.gov.uk/uksi/2005/594/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2005/594/regulation/2/2/a)
 
-[^key-b5524a7946abc56792650b722c17dbf4]: Textual amendment: [Reg. 4(b)(iii)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/4/b/iii) omitted (6.4.2005) by virtue of [The Financial Services and Markets Act 2000 (Stakeholder Products) (Amendment) Regulations 2005 (S.I. 2005/594)](https://www.legislation.gov.uk/uksi/2005/594), [regs. 1](https://www.legislation.gov.uk/uksi/2005/594/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2005/594/regulation/2/2/b)
+[^c-b5524a7946abc56792650b722c17dbf4]: Textual amendment: [Reg. 4(b)(iii)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/4/b/iii) omitted (6.4.2005) by virtue of [The Financial Services and Markets Act 2000 (Stakeholder Products) (Amendment) Regulations 2005 (S.I. 2005/594)](https://www.legislation.gov.uk/uksi/2005/594), [regs. 1](https://www.legislation.gov.uk/uksi/2005/594/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2005/594/regulation/2/2/b)
 
-[^key-5393945553e63ce1d335743ad1f5fd16]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/7/2/b) substituted (6.4.2005) by [The Financial Services and Markets Act 2000 (Stakeholder Products) (Amendment) Regulations 2005 (S.I. 2005/594)](https://www.legislation.gov.uk/uksi/2005/594), [regs. 1](https://www.legislation.gov.uk/uksi/2005/594/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/594/regulation/2/3)
+[^c-5393945553e63ce1d335743ad1f5fd16]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/7/2/b) substituted (6.4.2005) by [The Financial Services and Markets Act 2000 (Stakeholder Products) (Amendment) Regulations 2005 (S.I. 2005/594)](https://www.legislation.gov.uk/uksi/2005/594), [regs. 1](https://www.legislation.gov.uk/uksi/2005/594/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/594/regulation/2/3)
 
-[^key-ad27b3b4d59d32a0dc6d282851a7d38a]: Textual amendment: Word in reg. 9(9)(e)(i) omitted (6.6.2013) by virtue of [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/3) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-ad27b3b4d59d32a0dc6d282851a7d38a]: Textual amendment: Word in reg. 9(9)(e)(i) omitted (6.6.2013) by virtue of [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/3) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
-[^key-61ecd3a6100d52ba8646fe280f039cca]: Textual amendment: Reg. 9(9)(e)(ia) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/3) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-61ecd3a6100d52ba8646fe280f039cca]: Textual amendment: Reg. 9(9)(e)(ia) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/3) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))

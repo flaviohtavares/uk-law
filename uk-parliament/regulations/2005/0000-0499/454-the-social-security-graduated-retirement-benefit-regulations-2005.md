@@ -121,7 +121,7 @@ Minister of State,
 
 Department for Work and Pensions
 
-## SCHEDULE 1 — FURTHER PROVISIONS REPLACING SECTION 36(4) OF THE NATIONAL INSURANCE ACT 1965: INCREASES OF GRADUATED RETIREMENT BENEFIT AND LUMP SUMS[^key-f0d58e8eb7a6cdba30fb15cc549b3bc2][^key-55be6ea012ab59305be5106e14bc8917][^key-c2e26b2286dd2cb56ca23a45f85d1669][^key-8833eb2a741e6d736eb811fc201f3f16][^key-e7620be26031d4d20ea13e7ab969bd10][^key-10299d5dc4dea09a77c9699d4924740c][^key-830a849a80a1811d134883e7d1f60bda][^key-8cb9ac99cac6884f88625efc52f15c35][^key-91bbc71112ba5b89a8a11e966ac271ff][^key-0c7f322a9fa7e17d8739fe3601af4013][^key-add2cd09cb1522e8188b1e166b7a2b28][^key-95548f7a629da4c084381225a5cb519f][^key-1e4da3836ddaad9802c7832493d73eb9][^key-b9270640eb7c4257f531209380bb820f][^key-ed1d4bfe14c037cf73b892eaaadbb280][^key-4a4e8a30d24bf0a47fcd6b62479e2790][^key-19ca8774c2aeeb95d828d8f3424ec071][^key-83aebaace9b9292722a6e0d01cb40201]
+## SCHEDULE 1 — FURTHER PROVISIONS REPLACING SECTION 36(4) OF THE NATIONAL INSURANCE ACT 1965: INCREASES OF GRADUATED RETIREMENT BENEFIT AND LUMP SUMS[^c-f0d58e8eb7a6cdba30fb15cc549b3bc2][^c-55be6ea012ab59305be5106e14bc8917][^c-c2e26b2286dd2cb56ca23a45f85d1669][^c-8833eb2a741e6d736eb811fc201f3f16][^c-e7620be26031d4d20ea13e7ab969bd10][^c-10299d5dc4dea09a77c9699d4924740c][^c-830a849a80a1811d134883e7d1f60bda][^c-8cb9ac99cac6884f88625efc52f15c35][^c-91bbc71112ba5b89a8a11e966ac271ff][^c-0c7f322a9fa7e17d8739fe3601af4013][^c-add2cd09cb1522e8188b1e166b7a2b28][^c-95548f7a629da4c084381225a5cb519f][^c-1e4da3836ddaad9802c7832493d73eb9][^c-b9270640eb7c4257f531209380bb820f][^c-ed1d4bfe14c037cf73b892eaaadbb280][^c-4a4e8a30d24bf0a47fcd6b62479e2790][^c-19ca8774c2aeeb95d828d8f3424ec071][^c-83aebaace9b9292722a6e0d01cb40201]
 
 Regulation 4
 
@@ -133,7 +133,7 @@ This Part applies only in respect of a person who is deferring entitlement to gr
 
 #### 2. Increase or lump sum where pensioner's entitlement is deferred
 
-(1) Where a person's entitlement to a Category A or Category B retirement pension is deferred and that person elects[^key-e29bbd87a07ff7586fff1f661d8053b2]...—
+(1) Where a person's entitlement to a Category A or Category B retirement pension is deferred and that person elects[^c-e29bbd87a07ff7586fff1f661d8053b2]...—
 
 - (a) that paragraph 1 of Schedule 5 (increase of pension) is to apply in relation to the period of deferment, paragraph 3 of this Schedule shall also apply in relation to that period;
 - (b) that paragraph 3A of Schedule 5 (lump sum) is to apply in relation to the period of deferment, paragraph 5 of this Schedule shall also apply in relation to that period.
@@ -178,7 +178,7 @@ This Part applies only in respect of a person who is deferring entitlement to gr
 (2) In this paragraph—
 
 - “**accrued amount**” means the amount calculated in accordance with sub-paragraph (3);
-- “**accrual period**” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to a person in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Social Security (Claims and Payments) Regulations 1987 [^c1427766] or in accordance with regulation 22C(3) or (4) of those Regulations[^key-b8173ddb13eb2b41a400f4a553089037], if his entitlement to a retirement pension had not been deferred, where that day falls within the period of deferment.
+- “**accrual period**” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to a person in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Social Security (Claims and Payments) Regulations 1987 [^c1427766] or in accordance with regulation 22C(3) or (4) of those Regulations[^c-b8173ddb13eb2b41a400f4a553089037], if his entitlement to a retirement pension had not been deferred, where that day falls within the period of deferment.
 
 (3) The accrued amount for an accrual period for a person is—
 
@@ -191,12 +191,12 @@ This Part applies only in respect of a person who is deferring entitlement to gr
 
 (5) Regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulations 2005 [^c1427767] shall have effect for the purposes of this paragraph in like manner to graduated retirement benefit as it does to retirement pension in the calculation of the lump sum under paragraph 3B of Schedule 5.
 
-#### 7. Increase or lump sum where pensioner's deceased spouse or civil partner has deferred entitlement[^key-cd564cdf2dbe35ff4e550ad8c36d8ee1]
+#### 7. Increase or lump sum where pensioner's deceased spouse or civil partner has deferred entitlement[^c-cd564cdf2dbe35ff4e550ad8c36d8ee1]
 
 (1) This paragraph applies where—
 
-- (a) a widow, widower or surviving civil partner[^key-295e35892f81356404f2a54a0349668a] (“W”) is entitled to a Category A or Category B retirement pension;
-- (b) W was married to or in a civil partnership with[^key-a5ab7010633b37ec957111dbe326c184] the other party to the marriage or civil partnership[^key-2052caa95d9e12ae40448baab77b0f56] (“S”) when S died;
+- (a) a widow, widower or surviving civil partner[^c-295e35892f81356404f2a54a0349668a] (“W”) is entitled to a Category A or Category B retirement pension;
+- (b) W was married to or in a civil partnership with[^c-a5ab7010633b37ec957111dbe326c184] the other party to the marriage or civil partnership[^c-2052caa95d9e12ae40448baab77b0f56] (“S”) when S died;
 - (c) S's entitlement to a Category A or Category B retirement pension was deferred when S died; and
 - (d) S's entitlement had been deferred throughout the period of 12 months ending with the day before S's death.
 
@@ -207,9 +207,9 @@ This Part applies only in respect of a person who is deferring entitlement to gr
 
 (3) The reference to an election in sub-paragraph (2) includes an election W is treated as having made under paragraph 3C(3) of Schedule 5.
 
-#### 8. Increase where pensioner's deceased spouse or civil partner has deferred entitlement[^key-cbdee73a861cd603dcf5e828549295f1]
+#### 8. Increase where pensioner's deceased spouse or civil partner has deferred entitlement[^c-cbdee73a861cd603dcf5e828549295f1]
 
-(1) This paragraph applies where a widow, widower or surviving civil partner[^key-81c7d0151d6dc424c0d841b57882007a] is entitled to a Category A or Category B retirement pension, was married to or in a civil partnership with[^key-66aa5f2347cafe39d54d0531dc12f353] the other party to the marriage or civil partnership[^key-40f4b763eb855fb078f24273e1902966] when S died and one of the following conditions is met—
+(1) This paragraph applies where a widow, widower or surviving civil partner[^c-81c7d0151d6dc424c0d841b57882007a] is entitled to a Category A or Category B retirement pension, was married to or in a civil partnership with[^c-66aa5f2347cafe39d54d0531dc12f353] the other party to the marriage or civil partnership[^c-40f4b763eb855fb078f24273e1902966] when S died and one of the following conditions is met—
 
 - (a) S was entitled to graduated retirement benefit with an increase under this Schedule;
 - (b) paragraph 7(2)(a) applies; or
@@ -217,24 +217,24 @@ This Part applies only in respect of a person who is deferring entitlement to gr
 
 (2) The increase in the weekly rate of W's graduated retirement benefit shall, in a case to which sub-paragraph (1) applies, be determined in accordance with section 37 of the 1965 Act [^c1427769] as continued in force by virtue of regulations made under Schedule 3 to the Social Security (Consequential Provisions) Act 1975 [^c1427770] or under Schedule 3 to the Social Security (Consequential Provisions) Act 1992 [^c1427771].
 
-#### 9. Entitlement to lump sum where pensioner's deceased spouse or civil partner has deferred entitlement[^key-850d0bd76522b6fcb3057da78d10599a]
+#### 9. Entitlement to lump sum where pensioner's deceased spouse or civil partner has deferred entitlement[^c-850d0bd76522b6fcb3057da78d10599a]
 
 (1) This paragraph applies where paragraph 7(2)(b) applies.
 
-(2) W is entitled to an amount calculated in accordance with paragraph 10 (a “widowed person's or surviving civil partner's[^key-8918f00bc2df1b3942379e379ddda753] lump sum“).
+(2) W is entitled to an amount calculated in accordance with paragraph 10 (a “widowed person's or surviving civil partner's[^c-8918f00bc2df1b3942379e379ddda753] lump sum“).
 
-#### 10. Calculation of widowed person's or surviving civil partner's lump sum[^key-52f0a76eb709d92b9f3d03113593bada]
+#### 10. Calculation of widowed person's or surviving civil partner's lump sum[^c-52f0a76eb709d92b9f3d03113593bada]
 
-(1) The widowed person's or surviving civil partner's[^key-95311e3fce6d60db8454cc60ae9c653f] lump sum is the accrued amount for the last accrual period beginning during the period which—
+(1) The widowed person's or surviving civil partner's[^c-95311e3fce6d60db8454cc60ae9c653f] lump sum is the accrued amount for the last accrual period beginning during the period which—
 
 - (a) began at the beginning of S's period of deferment; and
 - (b) ended on the day before S's death.
 
 (2) In this paragraph—
 
-- “**S**” means the other party to the marriage or civil partnership[^key-0b5657380595935cd33b9d649d102e8a];
+- “**S**” means the other party to the marriage or civil partnership[^c-0b5657380595935cd33b9d649d102e8a];
 - “**accrued amount**” means the amount calculated in accordance with sub-paragraph (3);
-- [^c1427772]“**accrual period**” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to S in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Social Security (Claims and Payments) Regulations 1987 or in accordance with regulation 22C(3) or (4) of those Regulations[^key-e6dc854337c68a87992ea454123847f8], if his entitlement to a retirement pension had not been deferred, where that day falls within S's period of deferment.
+- [^c1427772]“**accrual period**” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to S in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Social Security (Claims and Payments) Regulations 1987 or in accordance with regulation 22C(3) or (4) of those Regulations[^c-e6dc854337c68a87992ea454123847f8], if his entitlement to a retirement pension had not been deferred, where that day falls within S's period of deferment.
 
 (3) The accrued amount for an accrual period for W is—
 
@@ -247,7 +247,7 @@ This Part applies only in respect of a person who is deferring entitlement to gr
 
 (5) Regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulations 2005 [^c1427773] shall have effect for the purposes of this paragraph in like manner to graduated retirement benefit as it does to retirement pension in the calculation of the lump sum under paragraph 7B of Schedule 5.
 
-(6)[^key-e0102e2b181805df14b4245ff455651e] In any case where—
+(6)[^c-e0102e2b181805df14b4245ff455651e] In any case where—
 
 - (a) there is a period between the death of S and the date on which W becomes entitled to a Category A or Category B retirement pension; and
 - (b) one or more orders have come into force under section 150 of the Administration Act during that period,
@@ -269,7 +269,7 @@ This Part applies only in respect of a person who is deferring entitlement to gr
 
 is to apply in respect of that period.
 
-(2)[^key-1adc1b3502e08c08e66ea11e21a4f0da] The election referred to in sub-paragraph (1) shall be made—
+(2)[^c-1adc1b3502e08c08e66ea11e21a4f0da] The election referred to in sub-paragraph (1) shall be made—
 
 - (a) on the date on which he claims graduated retirement benefit; or
 - (b) within the period after claiming graduated retirement benefit prescribed in paragraph 20B,
@@ -278,7 +278,7 @@ and in the manner prescribed in paragraph 20C.
 
 (3) If no election under sub-paragraph (1) is made within the period referred to in sub-paragraph (2)(b), the person is to be treated as having made an election under sub-paragraph (1)(b).
 
-(4) A person who has made an election under sub-paragraph (1) (including one that the person is treated by sub-paragraph (3) as having made) may change the election in the circumstances, manner and within the period prescribed, in paragraph 20D[^key-b7fef5ad89b0b9a500eab4de5d0cd62e] .
+(4) A person who has made an election under sub-paragraph (1) (including one that the person is treated by sub-paragraph (3) as having made) may change the election in the circumstances, manner and within the period prescribed, in paragraph 20D[^c-b7fef5ad89b0b9a500eab4de5d0cd62e] .
 
 #### 13. Increase
 
@@ -316,7 +316,7 @@ and in the manner prescribed in paragraph 20C.
 (2) In this paragraph—
 
 - “**accrued amount**” means the amount calculated in accordance with sub-paragraph (3);
-- “**accrual period**” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to a person in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Social Security (Claims and Payments) Regulations 1987 [^c1427777] or in accordance with regulation 22C(3) or (4) of those Regulations[^key-b674f4563db029a289cae7eb0c0c0c6d], if he had been entitled to it, where that day falls within the period of deferment.
+- “**accrual period**” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to a person in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Social Security (Claims and Payments) Regulations 1987 [^c1427777] or in accordance with regulation 22C(3) or (4) of those Regulations[^c-b674f4563db029a289cae7eb0c0c0c6d], if he had been entitled to it, where that day falls within the period of deferment.
 
 (3) The accrued amount for an accrual period for a person is—
 
@@ -329,12 +329,12 @@ and in the manner prescribed in paragraph 20C.
 
 (5) Regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulations 2005 [^c1427778] shall have effect for the purposes of this paragraph in like manner to graduated retirement benefit as it does to retirement pension in the calculation of the lump sum under paragraph 3B of Schedule 5.
 
-#### 17. Choice between increase and lump sum where person's deceased spouse or civil partner has deferred entitlement to graduated retirement benefit[^key-916db5c95134ede0db982a570d46f860]
+#### 17. Choice between increase and lump sum where person's deceased spouse or civil partner has deferred entitlement to graduated retirement benefit[^c-916db5c95134ede0db982a570d46f860]
 
 (1) This paragraph applies where—
 
-- (a) a widow, widower or surviving civil partner[^key-d46c7c33db02e40a4f9e5eda91b4e389] (“W”) is entitled to a Category A or Category B retirement pension;
-- (b) W was married to or in a civil partnership with[^key-203503633517e6e685cdf5e06463c6b6] the other party to the marriage or civil partnership[^key-3014a40c03866a4af7f54ec18bbb8759] (“S”) when S died;
+- (a) a widow, widower or surviving civil partner[^c-d46c7c33db02e40a4f9e5eda91b4e389] (“W”) is entitled to a Category A or Category B retirement pension;
+- (b) W was married to or in a civil partnership with[^c-203503633517e6e685cdf5e06463c6b6] the other party to the marriage or civil partnership[^c-3014a40c03866a4af7f54ec18bbb8759] (“S”) when S died;
 - (c) S's entitlement to graduated retirement benefit was deferred when S died; and
 - (d) S's entitlement had been deferred throughout the period of 12 months ending with the day before S's death.
 
@@ -345,15 +345,15 @@ and in the manner prescribed in paragraph 20C.
 
 is to apply in respect of S's period of deferment.
 
-(3)[^key-cf3576fa44503e2f1359672e1b5cfb15] The election referred to in sub-paragraph (2) shall be made within the period prescribed in paragraph 20B and in the manner prescribed in paragraph 20C.
+(3)[^c-cf3576fa44503e2f1359672e1b5cfb15] The election referred to in sub-paragraph (2) shall be made within the period prescribed in paragraph 20B and in the manner prescribed in paragraph 20C.
 
-(4) If no election under sub-paragraph (2) is made within the period referred to in sub-paragraph (3)[^key-13595b7343b96d8349b281b215f5ca0e], the person is to be treated as having made an election under sub-paragraph (2)(b).
+(4) If no election under sub-paragraph (2) is made within the period referred to in sub-paragraph (3)[^c-13595b7343b96d8349b281b215f5ca0e], the person is to be treated as having made an election under sub-paragraph (2)(b).
 
-(5)[^key-8d5cb7204e7d46d939c0ba8d3d69c6ea] A person who has made an election under sub-paragraph (2) (including one that the person is treated by sub-paragraph (4) as having made) may change the election in the circumstances, manner and within the period prescribed in paragraph 20D.
+(5)[^c-8d5cb7204e7d46d939c0ba8d3d69c6ea] A person who has made an election under sub-paragraph (2) (including one that the person is treated by sub-paragraph (4) as having made) may change the election in the circumstances, manner and within the period prescribed in paragraph 20D.
 
-#### 18. Increase where person's deceased spouse or civil partner has deferred entitlement to graduated retirement benefit[^key-ac0b564549d2222124833910ff42b0be]
+#### 18. Increase where person's deceased spouse or civil partner has deferred entitlement to graduated retirement benefit[^c-ac0b564549d2222124833910ff42b0be]
 
-(1) This paragraph applies where a widow, widower or surviving civil partner[^key-a43e3b1ee31acb19818464616fd97336] is entitled to graduated retirement benefit, was married to or in a civil partnership with[^key-df03547d29ab3f116ada1eead311dca3] the other party to the marriage or civil partnership[^key-ba75fc39ae8892cf39c4dd839e49fc68] when S died and one of the following conditions is met—
+(1) This paragraph applies where a widow, widower or surviving civil partner[^c-a43e3b1ee31acb19818464616fd97336] is entitled to graduated retirement benefit, was married to or in a civil partnership with[^c-df03547d29ab3f116ada1eead311dca3] the other party to the marriage or civil partnership[^c-ba75fc39ae8892cf39c4dd839e49fc68] when S died and one of the following conditions is met—
 
 - (a) S was entitled to graduated retirement benefit with an increase under this Schedule;
 - (b) W is a widow or widower to whom paragraph 17 applies and has made an election under paragraph 17(2)(a); or
@@ -361,24 +361,24 @@ is to apply in respect of S's period of deferment.
 
 (2) The increase in the weekly rate of W's graduated retirement benefit shall, in a case to which sub-paragraph (1) applies, be determined in accordance with section 37 of the 1965 Act as continued in force by virtue of regulations made under Schedule 3 to the Social Security (Consequential Provisions) Act 1975 [^c1427780] or under Schedule 3 to the Social Security (Consequential Provisions) Act 1992 [^c1427781].
 
-#### 19. Entitlement to lump sum where person's deceased spouse or civil partner has deferred entitlement to graduated retirement benefit[^key-76d1a6ba645aa3e63fdd91caccc665ae]
+#### 19. Entitlement to lump sum where person's deceased spouse or civil partner has deferred entitlement to graduated retirement benefit[^c-76d1a6ba645aa3e63fdd91caccc665ae]
 
 (1) This paragraph applies where paragraph 17(2)(b) applies.
 
-(2) W is entitled to an amount calculated in accordance with paragraph 20 (a “widowed person's or surviving civil partner's[^key-f9fb129cf649af6d2db05b43c8f8da37] lump sum“).
+(2) W is entitled to an amount calculated in accordance with paragraph 20 (a “widowed person's or surviving civil partner's[^c-f9fb129cf649af6d2db05b43c8f8da37] lump sum“).
 
-#### 20. Calculation of widowed person's or surviving civil partner's lump sum[^key-602b009aa2aa93270f79207a2fc125d4]
+#### 20. Calculation of widowed person's or surviving civil partner's lump sum[^c-602b009aa2aa93270f79207a2fc125d4]
 
-(1) The widowed person's or surviving civil partner's[^key-42f850af69870a9eec69fc1f062a61cb] lump sum is the accrued amount for last accrual period beginning during the period which—
+(1) The widowed person's or surviving civil partner's[^c-42f850af69870a9eec69fc1f062a61cb] lump sum is the accrued amount for last accrual period beginning during the period which—
 
 - (a) began at the beginning of S's period of deferment; and
 - (b) ended on the day before S's death.
 
 (2) In this paragraph—
 
-- “**S**” means the other party to the marriage or civil partnership[^key-ab78c124d4c4f2f47a9b8c16aef2fea4];
+- “**S**” means the other party to the marriage or civil partnership[^c-ab78c124d4c4f2f47a9b8c16aef2fea4];
 - “**accrued amount**” means the amount calculated in accordance with sub-paragraph (3);
-- “**accrual period**” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to S in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Social Security (Claims and Payments) Regulations 1987 or in accordance with regulation 22C(3) or (4) of those Regulations[^key-324e114a558caadcb3d0dc5ddd72bffa], if he had been entitled to it, where that day falls within S's period of deferment.
+- “**accrual period**” means any period of seven days beginning with the day of the week on which Category A or Category B retirement pension would have been payable to S in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Social Security (Claims and Payments) Regulations 1987 or in accordance with regulation 22C(3) or (4) of those Regulations[^c-324e114a558caadcb3d0dc5ddd72bffa], if he had been entitled to it, where that day falls within S's period of deferment.
 
 (3) The accrued amount for an accrual period for W is—
 
@@ -391,14 +391,14 @@ is to apply in respect of S's period of deferment.
 
 (5) Regulation 3 of the Social Security (Deferral of Retirement Pensions) Regulations 2005 [^c1427782] shall have effect for the purposes of this paragraph in like manner to graduated retirement benefit as it does to retirement pension in the calculation of the lump sum under paragraph 7B of Schedule 5.
 
-(6)[^key-adc4d83f6bcb7a2ac8804040a51119d0] In any case where—
+(6)[^c-adc4d83f6bcb7a2ac8804040a51119d0] In any case where—
 
 - (a) there is a period between the death of S and the date on which W becomes entitled to graduated retirement benefit; and
 - (b) one or more orders have come into force under section 150 of the Administration Act during that period,
 
 the amount of the lump sum shall be increased in accordance with that order or those orders.
 
-### PART 2A — ELECTIONS UNDER PART 2[^key-e2ac706eeb28f2d9562968e1ddf9ec96]
+### PART 2A — ELECTIONS UNDER PART 2[^c-e2ac706eeb28f2d9562968e1ddf9ec96]
 
 #### 20A. Scope and interpretation
 
@@ -435,7 +435,7 @@ An election under paragraph 12(1) or 17(2) may be made—
 (2) This paragraph does not apply in the case of an election which is—
 
 - (a) made, or treated as made, by an elector who has subsequently died; or
-- (b) treated as having been made by virtue of regulation 30(5E) or (5G)[^key-4e415d8e4a9387ea9b74d75778398ff0] of the Social Security (Claims and Payments) Regulations 1987.
+- (b) treated as having been made by virtue of regulation 30(5E) or (5G)[^c-4e415d8e4a9387ea9b74d75778398ff0] of the Social Security (Claims and Payments) Regulations 1987.
 
 (3) An election specified in sub-paragraph (1) may be changed by way of application made no later than the last day of the period specified in sub-paragraph (4).
 
@@ -458,7 +458,7 @@ An election under paragraph 12(1) or 17(2) may be made—
 - (a) in writing to an office specified by the Secretary of State for accepting such applications; or
 - (b) except where the Secretary of State directs in any particular case that the application must be made in accordance with paragraph (a), by telephone call to the telephone number specified by the Secretary of State.
 
-#### 20ZA. Transitional provision relating to widower’s entitlement to increase of graduated retirement benefit or lump sum[^key-b3a8d884241d6c4cd9fdc37e4ec7446b]
+#### 20ZA. Transitional provision relating to widower’s entitlement to increase of graduated retirement benefit or lump sum[^c-b3a8d884241d6c4cd9fdc37e4ec7446b]
 
 In the case of a widower who attains pensionable age before 6th April 2010, paragraphs 17 to 19 shall not apply unless he was over pensionable age when his wife died.
 
@@ -501,7 +501,7 @@ Regulation 5
 
   .
 
-**5.**[^key-3c109e81fe9887072ed753dc1d28f80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3c109e81fe9887072ed753dc1d28f80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In paragraph 12(1)—
 
@@ -531,7 +531,7 @@ Regulation 5
 
   .
 
-**10.**[^key-0758c2d6e95c8b2cf2510e4f1e7cf21a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-0758c2d6e95c8b2cf2510e4f1e7cf21a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of these Regulations)*
 
@@ -569,45 +569,45 @@ A full Regulatory Impact Assessment has not been produced for this Instrument as
 
 [^c1427762]: Marginal citation: [S.I.2005/454](https://www.legislation.gov.uk/uksi/2005/454).
 
-[^key-f0d58e8eb7a6cdba30fb15cc549b3bc2]: Modification: Sch. 1 modified (7.4.2008) by [The Social Security Benefits Up-rating Order 2008 (S.I. 2008/632)](https://www.legislation.gov.uk/uksi/2008/632), [arts. 1(2)(d)](https://www.legislation.gov.uk/uksi/2008/632/article/1/2/d), [12(3)](https://www.legislation.gov.uk/uksi/2008/632/article/12/3)
+[^c-f0d58e8eb7a6cdba30fb15cc549b3bc2]: Modification: Sch. 1 modified (7.4.2008) by [The Social Security Benefits Up-rating Order 2008 (S.I. 2008/632)](https://www.legislation.gov.uk/uksi/2008/632), [arts. 1(2)(d)](https://www.legislation.gov.uk/uksi/2008/632/article/1/2/d), [12(3)](https://www.legislation.gov.uk/uksi/2008/632/article/12/3)
 
-[^key-55be6ea012ab59305be5106e14bc8917]: Modification: Sch. 1 modified (with effect in accordance with art. 1(3)(a), 6 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2009 (S.I. 2009/497)](https://www.legislation.gov.uk/uksi/2009/497), [arts. 1(2)(d)](https://www.legislation.gov.uk/uksi/2009/497/article/1/2/d), [12(3)](https://www.legislation.gov.uk/uksi/2009/497/article/12/3)
+[^c-55be6ea012ab59305be5106e14bc8917]: Modification: Sch. 1 modified (with effect in accordance with art. 1(3)(a), 6 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2009 (S.I. 2009/497)](https://www.legislation.gov.uk/uksi/2009/497), [arts. 1(2)(d)](https://www.legislation.gov.uk/uksi/2009/497/article/1/2/d), [12(3)](https://www.legislation.gov.uk/uksi/2009/497/article/12/3)
 
-[^key-c2e26b2286dd2cb56ca23a45f85d1669]: Modification: Sch. 1 sums confirmed (12.4.2010) by [The Social Security Benefits Up-rating Order 2010 (S.I. 2010/793)](https://www.legislation.gov.uk/uksi/2010/793), [arts. 1(2)(d)](https://www.legislation.gov.uk/uksi/2010/793/article/1/2/d), [12(3)](https://www.legislation.gov.uk/uksi/2010/793/article/12/3)
+[^c-c2e26b2286dd2cb56ca23a45f85d1669]: Modification: Sch. 1 sums confirmed (12.4.2010) by [The Social Security Benefits Up-rating Order 2010 (S.I. 2010/793)](https://www.legislation.gov.uk/uksi/2010/793), [arts. 1(2)(d)](https://www.legislation.gov.uk/uksi/2010/793/article/1/2/d), [12(3)](https://www.legislation.gov.uk/uksi/2010/793/article/12/3)
 
-[^key-8833eb2a741e6d736eb811fc201f3f16]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(3), 6 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2011 (S.I. 2011/821)](https://www.legislation.gov.uk/uksi/2011/821), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/821/article/1/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2011/821/article/12/3)
+[^c-8833eb2a741e6d736eb811fc201f3f16]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(3), 6 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2011 (S.I. 2011/821)](https://www.legislation.gov.uk/uksi/2011/821), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/821/article/1/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2011/821/article/12/3)
 
-[^key-e7620be26031d4d20ea13e7ab969bd10]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(3), 6 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2012 (S.I. 2012/780)](https://www.legislation.gov.uk/uksi/2012/780), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/780/article/1/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2012/780/article/12/3)
+[^c-e7620be26031d4d20ea13e7ab969bd10]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(3), 6 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2012 (S.I. 2012/780)](https://www.legislation.gov.uk/uksi/2012/780), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/780/article/1/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2012/780/article/12/3)
 
-[^key-10299d5dc4dea09a77c9699d4924740c]: Modification: Sch. 1 sums amended (with effect in accordance with art. 1(3), 6 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2013 (S.I. 2013/574)](https://www.legislation.gov.uk/uksi/2013/574), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/574/article/1/2/c), [11(3)](https://www.legislation.gov.uk/uksi/2013/574/article/11/3)
+[^c-10299d5dc4dea09a77c9699d4924740c]: Modification: Sch. 1 sums amended (with effect in accordance with art. 1(3), 6 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2013 (S.I. 2013/574)](https://www.legislation.gov.uk/uksi/2013/574), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/574/article/1/2/c), [11(3)](https://www.legislation.gov.uk/uksi/2013/574/article/11/3)
 
-[^key-830a849a80a1811d134883e7d1f60bda]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(3), 6 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2013 (S.I. 2013/574)](https://www.legislation.gov.uk/uksi/2013/574), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/574/article/1/2/c), [11(3)](https://www.legislation.gov.uk/uksi/2013/574/article/11/3)
+[^c-830a849a80a1811d134883e7d1f60bda]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(3), 6 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2013 (S.I. 2013/574)](https://www.legislation.gov.uk/uksi/2013/574), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/574/article/1/2/c), [11(3)](https://www.legislation.gov.uk/uksi/2013/574/article/11/3)
 
-[^key-8cb9ac99cac6884f88625efc52f15c35]: Modification: Sch. 1 sums amended (11.3.2014 for specified purposes and with effect in accordance with arts. 1(2)(c)(l), (3), (4), 6) by [The Social Security Benefits Up-rating Order 2014 (S.I. 2014/516)](https://www.legislation.gov.uk/uksi/2014/516), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2014/516/article/1/2/c)[(l)](https://www.legislation.gov.uk/uksi/2014/516/article/1/2/l)[(3)](https://www.legislation.gov.uk/uksi/2014/516/article/1/3)[8(3)](https://www.legislation.gov.uk/uksi/2014/516/article/8/3)
+[^c-8cb9ac99cac6884f88625efc52f15c35]: Modification: Sch. 1 sums amended (11.3.2014 for specified purposes and with effect in accordance with arts. 1(2)(c)(l), (3), (4), 6) by [The Social Security Benefits Up-rating Order 2014 (S.I. 2014/516)](https://www.legislation.gov.uk/uksi/2014/516), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2014/516/article/1/2/c)[(l)](https://www.legislation.gov.uk/uksi/2014/516/article/1/2/l)[(3)](https://www.legislation.gov.uk/uksi/2014/516/article/1/3)[8(3)](https://www.legislation.gov.uk/uksi/2014/516/article/8/3)
 
-[^key-91bbc71112ba5b89a8a11e966ac271ff]: Modification: Sch. 1 sums amended (3.3.2015 for specified purposes and with effect in accordance with arts. 1(2)(c)(3)(4), 6) by [The Social Security Benefits Up-rating Order 2015 (S.I. 2015/457)](https://www.legislation.gov.uk/uksi/2015/457), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/457/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2015/457/article/1/3)[8(3)](https://www.legislation.gov.uk/uksi/2015/457/article/8/3)
+[^c-91bbc71112ba5b89a8a11e966ac271ff]: Modification: Sch. 1 sums amended (3.3.2015 for specified purposes and with effect in accordance with arts. 1(2)(c)(3)(4), 6) by [The Social Security Benefits Up-rating Order 2015 (S.I. 2015/457)](https://www.legislation.gov.uk/uksi/2015/457), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/457/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2015/457/article/1/3)[8(3)](https://www.legislation.gov.uk/uksi/2015/457/article/8/3)
 
-[^key-0c7f322a9fa7e17d8739fe3601af4013]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(3) (4) 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2017 (S.I. 2017/260)](https://www.legislation.gov.uk/uksi/2017/260), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/260/article/1/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2017/260/article/12/3)
+[^c-0c7f322a9fa7e17d8739fe3601af4013]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(3) (4) 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2017 (S.I. 2017/260)](https://www.legislation.gov.uk/uksi/2017/260), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/260/article/1/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2017/260/article/12/3)
 
-[^key-add2cd09cb1522e8188b1e166b7a2b28]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(3)(4), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2018 (S.I. 2018/281)](https://www.legislation.gov.uk/uksi/2018/281), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2018/281/article/1/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2018/281/article/12/3)
+[^c-add2cd09cb1522e8188b1e166b7a2b28]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(3)(4), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2018 (S.I. 2018/281)](https://www.legislation.gov.uk/uksi/2018/281), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2018/281/article/1/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2018/281/article/12/3)
 
-[^key-95548f7a629da4c084381225a5cb519f]: Modification: Sch. 1 sums amended (with effect in accordance with art. 1(4)(5) 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2019 (S.I. 2019/480)](https://www.legislation.gov.uk/uksi/2019/480), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2019/480/article/1/3/c), [12(3)](https://www.legislation.gov.uk/uksi/2019/480/article/12/3)
+[^c-95548f7a629da4c084381225a5cb519f]: Modification: Sch. 1 sums amended (with effect in accordance with art. 1(4)(5) 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2019 (S.I. 2019/480)](https://www.legislation.gov.uk/uksi/2019/480), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2019/480/article/1/3/c), [12(3)](https://www.legislation.gov.uk/uksi/2019/480/article/12/3)
 
-[^key-1e4da3836ddaad9802c7832493d73eb9]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2020 (S.I. 2020/234)](https://www.legislation.gov.uk/uksi/2020/234), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/234/article/1/3/c), [12(3)](https://www.legislation.gov.uk/uksi/2020/234/article/12/3)
+[^c-1e4da3836ddaad9802c7832493d73eb9]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2020 (S.I. 2020/234)](https://www.legislation.gov.uk/uksi/2020/234), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/234/article/1/3/c), [12(3)](https://www.legislation.gov.uk/uksi/2020/234/article/12/3)
 
-[^key-b9270640eb7c4257f531209380bb820f]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2021 (S.I. 2021/162)](https://www.legislation.gov.uk/uksi/2021/162), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2021/162/article/1/3/c), [12(3)](https://www.legislation.gov.uk/uksi/2021/162/article/12/3)
+[^c-b9270640eb7c4257f531209380bb820f]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2021 (S.I. 2021/162)](https://www.legislation.gov.uk/uksi/2021/162), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2021/162/article/1/3/c), [12(3)](https://www.legislation.gov.uk/uksi/2021/162/article/12/3)
 
-[^key-ed1d4bfe14c037cf73b892eaaadbb280]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up Rating Order 2022 (S.I. 2022/292)](https://www.legislation.gov.uk/uksi/2022/292), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2022/292/article/1/3/c), [12(3)](https://www.legislation.gov.uk/uksi/2022/292/article/12/3)
+[^c-ed1d4bfe14c037cf73b892eaaadbb280]: Modification: Sch. 1 sums amended (with effect in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up Rating Order 2022 (S.I. 2022/292)](https://www.legislation.gov.uk/uksi/2022/292), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2022/292/article/1/3/c), [12(3)](https://www.legislation.gov.uk/uksi/2022/292/article/12/3)
 
-[^key-4a4e8a30d24bf0a47fcd6b62479e2790]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/454/schedule/1): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2024 (S.I. 2024/242)](https://www.legislation.gov.uk/uksi/2024/242), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/242/article/1/3/c), [11(3)](https://www.legislation.gov.uk/uksi/2024/242/article/11/3)
+[^c-4a4e8a30d24bf0a47fcd6b62479e2790]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/454/schedule/1): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2024 (S.I. 2024/242)](https://www.legislation.gov.uk/uksi/2024/242), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2024/242/article/1/3/c), [11(3)](https://www.legislation.gov.uk/uksi/2024/242/article/11/3)
 
-[^key-19ca8774c2aeeb95d828d8f3424ec071]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/454/schedule/1): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2025 (S.I. 2025/295)](https://www.legislation.gov.uk/uksi/2025/295), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/295/article/1/3/c), [11(3)](https://www.legislation.gov.uk/uksi/2025/295/article/11/3)
+[^c-19ca8774c2aeeb95d828d8f3424ec071]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/454/schedule/1): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2025 (S.I. 2025/295)](https://www.legislation.gov.uk/uksi/2025/295), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/295/article/1/3/c), [11(3)](https://www.legislation.gov.uk/uksi/2025/295/article/11/3)
 
-[^key-83aebaace9b9292722a6e0d01cb40201]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/454/schedule/1): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [11(3)](https://www.legislation.gov.uk/uksi/2026/148/article/11/3)
+[^c-83aebaace9b9292722a6e0d01cb40201]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/454/schedule/1): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [11(3)](https://www.legislation.gov.uk/uksi/2026/148/article/11/3)
 
 [^c1427763]: Marginal citation: [1965 c. 51](https://www.legislation.gov.uk/ukpga/1965/51).
 
-[^key-e29bbd87a07ff7586fff1f661d8053b2]: Textual amendment: Words in Sch. 1 para. 2(1) omitted (6.4.2006) by virtue of [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/a)
+[^c-e29bbd87a07ff7586fff1f661d8053b2]: Textual amendment: Words in Sch. 1 para. 2(1) omitted (6.4.2006) by virtue of [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/a)
 
 [^c1427764]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
@@ -615,25 +615,25 @@ A full Regulatory Impact Assessment has not been produced for this Instrument as
 
 [^c1427766]: Marginal citation: [S.I.1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); the relevant amending instruments are [S.I.2000/1483](https://www.legislation.gov.uk/uksi/2000/1483) and 2002/2441.
 
-[^key-b8173ddb13eb2b41a400f4a553089037]: Textual amendment: Words in Sch. 1 para. 6(2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/354/regulation/3)
+[^c-b8173ddb13eb2b41a400f4a553089037]: Textual amendment: Words in Sch. 1 para. 6(2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/354/regulation/3)
 
 [^c1427767]: Marginal citation: [S.I.2005/453](https://www.legislation.gov.uk/uksi/2005/453).
 
-[^key-cd564cdf2dbe35ff4e550ad8c36d8ee1]: Textual amendment: Words in Sch. 1 para. 7 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(2)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/2/a)
+[^c-cd564cdf2dbe35ff4e550ad8c36d8ee1]: Textual amendment: Words in Sch. 1 para. 7 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(2)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/2/a)
 
-[^key-295e35892f81356404f2a54a0349668a]: Textual amendment: Words in Sch. 1 para. 7(1)(a) substituted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(2)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/2/b)
+[^c-295e35892f81356404f2a54a0349668a]: Textual amendment: Words in Sch. 1 para. 7(1)(a) substituted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(2)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/2/b)
 
-[^key-a5ab7010633b37ec957111dbe326c184]: Textual amendment: Words in Sch. 1 para. 7(1)(b) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/2/c/i)
+[^c-a5ab7010633b37ec957111dbe326c184]: Textual amendment: Words in Sch. 1 para. 7(1)(b) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/2/c/i)
 
-[^key-2052caa95d9e12ae40448baab77b0f56]: Textual amendment: Words in Sch. 1 para. 7(1)(b) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/2/c/ii)
+[^c-2052caa95d9e12ae40448baab77b0f56]: Textual amendment: Words in Sch. 1 para. 7(1)(b) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/2/c/ii)
 
-[^key-cbdee73a861cd603dcf5e828549295f1]: Textual amendment: Words in Sch. 1 para. 8 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(3)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/3/a)
+[^c-cbdee73a861cd603dcf5e828549295f1]: Textual amendment: Words in Sch. 1 para. 8 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(3)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/3/a)
 
-[^key-81c7d0151d6dc424c0d841b57882007a]: Textual amendment: Words in Sch. 1 para. 8(1) substituted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/3/b/i)
+[^c-81c7d0151d6dc424c0d841b57882007a]: Textual amendment: Words in Sch. 1 para. 8(1) substituted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/3/b/i)
 
-[^key-66aa5f2347cafe39d54d0531dc12f353]: Textual amendment: Words in Sch. 1 para. 8(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/3/b/ii)
+[^c-66aa5f2347cafe39d54d0531dc12f353]: Textual amendment: Words in Sch. 1 para. 8(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/3/b/ii)
 
-[^key-40f4b763eb855fb078f24273e1902966]: Textual amendment: Words in Sch. 1 para. 8(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/3/b/iii)
+[^c-40f4b763eb855fb078f24273e1902966]: Textual amendment: Words in Sch. 1 para. 8(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/3/b/iii)
 
 [^c1427769]: Marginal citation: [1965 c. 51](https://www.legislation.gov.uk/ukpga/1965/51).
 
@@ -641,86 +641,86 @@ A full Regulatory Impact Assessment has not been produced for this Instrument as
 
 [^c1427771]: Marginal citation: [1992 c. 6](https://www.legislation.gov.uk/ukpga/1992/6).
 
-[^key-850d0bd76522b6fcb3057da78d10599a]: Textual amendment: Words in Sch. 1 para. 9 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(4)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/4/a)
+[^c-850d0bd76522b6fcb3057da78d10599a]: Textual amendment: Words in Sch. 1 para. 9 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(4)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/4/a)
 
-[^key-8918f00bc2df1b3942379e379ddda753]: Textual amendment: Words in Sch. 1 para. 9(2) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(4)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/4/b)
+[^c-8918f00bc2df1b3942379e379ddda753]: Textual amendment: Words in Sch. 1 para. 9(2) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(4)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/4/b)
 
-[^key-52f0a76eb709d92b9f3d03113593bada]: Textual amendment: Words in Sch. 1 para. 10 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(5)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/5/a)
+[^c-52f0a76eb709d92b9f3d03113593bada]: Textual amendment: Words in Sch. 1 para. 10 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(5)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/5/a)
 
-[^key-95311e3fce6d60db8454cc60ae9c653f]: Textual amendment: Words in Sch. 1 para. 10(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(5)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/5/b)
+[^c-95311e3fce6d60db8454cc60ae9c653f]: Textual amendment: Words in Sch. 1 para. 10(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(5)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/5/b)
 
-[^key-0b5657380595935cd33b9d649d102e8a]: Textual amendment: Words in Sch. 1 para. 10(2) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(5)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/5/c)
+[^c-0b5657380595935cd33b9d649d102e8a]: Textual amendment: Words in Sch. 1 para. 10(2) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(5)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/5/c)
 
 [^c1427772]: Marginal citation: [S.I.1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); the relevant amending instruments are [S.I.2000/1483](https://www.legislation.gov.uk/uksi/2000/1483) and 2002/2441.
 
-[^key-e6dc854337c68a87992ea454123847f8]: Textual amendment: Words in Sch. 1 para. 10(2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/354/regulation/3)
+[^c-e6dc854337c68a87992ea454123847f8]: Textual amendment: Words in Sch. 1 para. 10(2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/354/regulation/3)
 
 [^c1427773]: Marginal citation: [S.I.2005/453](https://www.legislation.gov.uk/uksi/2005/453).
 
-[^key-e0102e2b181805df14b4245ff455651e]: Modification: Sch. 1 para. 10(6) modified by S.I. 2015/173, reg. 19 (as inserted (6.4.2016 coming into force in accordance with reg. 1(4)) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2016/199/regulation/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/5)))
+[^c-e0102e2b181805df14b4245ff455651e]: Modification: Sch. 1 para. 10(6) modified by S.I. 2015/173, reg. 19 (as inserted (6.4.2016 coming into force in accordance with reg. 1(4)) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2016/199/regulation/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/5)))
 
 [^c1427775]: Marginal citation: [1965 c. 51](https://www.legislation.gov.uk/ukpga/1965/51).
 
-[^key-1adc1b3502e08c08e66ea11e21a4f0da]: Textual amendment: Sch. 1 para. 12(2) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(b)(i)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/b/i)
+[^c-1adc1b3502e08c08e66ea11e21a4f0da]: Textual amendment: Sch. 1 para. 12(2) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(b)(i)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/b/i)
 
-[^key-b7fef5ad89b0b9a500eab4de5d0cd62e]: Textual amendment: Words in Sch. 1 para. 12(4) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/b/ii)
+[^c-b7fef5ad89b0b9a500eab4de5d0cd62e]: Textual amendment: Words in Sch. 1 para. 12(4) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/b/ii)
 
 [^c1427776]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
 [^c1427777]: Marginal citation: [S.I.1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); the relevant amending instruments are [S.I.2000/1483](https://www.legislation.gov.uk/uksi/2000/1483) and 2002/2441.
 
-[^key-b674f4563db029a289cae7eb0c0c0c6d]: Textual amendment: Words in Sch. 1 para. 16(2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/354/regulation/3)
+[^c-b674f4563db029a289cae7eb0c0c0c6d]: Textual amendment: Words in Sch. 1 para. 16(2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/354/regulation/3)
 
 [^c1427778]: Marginal citation: [S.I.2005/453](https://www.legislation.gov.uk/uksi/2005/453).
 
-[^key-916db5c95134ede0db982a570d46f860]: Textual amendment: Words in Sch. 1 para. 17 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(6)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/6/a)
+[^c-916db5c95134ede0db982a570d46f860]: Textual amendment: Words in Sch. 1 para. 17 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(6)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/6/a)
 
-[^key-d46c7c33db02e40a4f9e5eda91b4e389]: Textual amendment: Words in Sch. 1 para. 17(1)(a) substituted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(6)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/6/b)
+[^c-d46c7c33db02e40a4f9e5eda91b4e389]: Textual amendment: Words in Sch. 1 para. 17(1)(a) substituted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(6)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/6/b)
 
-[^key-203503633517e6e685cdf5e06463c6b6]: Textual amendment: Words in Sch. 1 para. 17(1)(b) substituted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(6)(c)(i)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/6/c/i)
+[^c-203503633517e6e685cdf5e06463c6b6]: Textual amendment: Words in Sch. 1 para. 17(1)(b) substituted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(6)(c)(i)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/6/c/i)
 
-[^key-3014a40c03866a4af7f54ec18bbb8759]: Textual amendment: Words in Sch. 1 para. 17(1)(b) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/6/c/ii)
+[^c-3014a40c03866a4af7f54ec18bbb8759]: Textual amendment: Words in Sch. 1 para. 17(1)(b) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/6/c/ii)
 
-[^key-cf3576fa44503e2f1359672e1b5cfb15]: Textual amendment: Sch. 1 para. 17(3) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(c)(i)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/c/i)
+[^c-cf3576fa44503e2f1359672e1b5cfb15]: Textual amendment: Sch. 1 para. 17(3) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(c)(i)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/c/i)
 
-[^key-13595b7343b96d8349b281b215f5ca0e]: Textual amendment: Word in Sch. 1 para. 17(4) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/c/ii)
+[^c-13595b7343b96d8349b281b215f5ca0e]: Textual amendment: Word in Sch. 1 para. 17(4) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/c/ii)
 
-[^key-8d5cb7204e7d46d939c0ba8d3d69c6ea]: Textual amendment: Sch. 1 para. 17(5) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/c/iii)
+[^c-8d5cb7204e7d46d939c0ba8d3d69c6ea]: Textual amendment: Sch. 1 para. 17(5) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/c/iii)
 
-[^key-ac0b564549d2222124833910ff42b0be]: Textual amendment: Words in Sch. 1 para. 18 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(7)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/7/a)
+[^c-ac0b564549d2222124833910ff42b0be]: Textual amendment: Words in Sch. 1 para. 18 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(7)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/7/a)
 
-[^key-a43e3b1ee31acb19818464616fd97336]: Textual amendment: Words in Sch. 1 para. 18(1) substituted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(7)(b)(i)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/7/b/i)
+[^c-a43e3b1ee31acb19818464616fd97336]: Textual amendment: Words in Sch. 1 para. 18(1) substituted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(7)(b)(i)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/7/b/i)
 
-[^key-df03547d29ab3f116ada1eead311dca3]: Textual amendment: Words in Sch. 1 para. 18(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/7/b/ii)
+[^c-df03547d29ab3f116ada1eead311dca3]: Textual amendment: Words in Sch. 1 para. 18(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/7/b/ii)
 
-[^key-ba75fc39ae8892cf39c4dd839e49fc68]: Textual amendment: Words in Sch. 1 para. 18(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/7/b/iii)
+[^c-ba75fc39ae8892cf39c4dd839e49fc68]: Textual amendment: Words in Sch. 1 para. 18(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/7/b/iii)
 
 [^c1427780]: Marginal citation: [1975 c. 18](https://www.legislation.gov.uk/ukpga/1975/18).
 
 [^c1427781]: Marginal citation: [1992 c. 6](https://www.legislation.gov.uk/ukpga/1992/6).
 
-[^key-76d1a6ba645aa3e63fdd91caccc665ae]: Textual amendment: Words in Sch. 1 para. 19 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(8)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/8/a)
+[^c-76d1a6ba645aa3e63fdd91caccc665ae]: Textual amendment: Words in Sch. 1 para. 19 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(8)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/8/a)
 
-[^key-f9fb129cf649af6d2db05b43c8f8da37]: Textual amendment: Words in Sch. 1 para. 19(2) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(8)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/8/b)
+[^c-f9fb129cf649af6d2db05b43c8f8da37]: Textual amendment: Words in Sch. 1 para. 19(2) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(8)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/8/b)
 
-[^key-602b009aa2aa93270f79207a2fc125d4]: Textual amendment: Words in Sch. 1 para. 20 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(9)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/9/a)
+[^c-602b009aa2aa93270f79207a2fc125d4]: Textual amendment: Words in Sch. 1 para. 20 inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(9)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/9/a)
 
-[^key-42f850af69870a9eec69fc1f062a61cb]: Textual amendment: Words in Sch. 1 para. 20(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(9)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/9/a)
+[^c-42f850af69870a9eec69fc1f062a61cb]: Textual amendment: Words in Sch. 1 para. 20(1) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(9)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/9/a)
 
-[^key-ab78c124d4c4f2f47a9b8c16aef2fea4]: Textual amendment: Words in Sch. 1 para. 20(2) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(9)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/9/b)
+[^c-ab78c124d4c4f2f47a9b8c16aef2fea4]: Textual amendment: Words in Sch. 1 para. 20(2) inserted (5.12.2005) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(9)(b)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/9/b)
 
-[^key-324e114a558caadcb3d0dc5ddd72bffa]: Textual amendment: Words in Sch. 1 para. 20(2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/354/regulation/3)
+[^c-324e114a558caadcb3d0dc5ddd72bffa]: Textual amendment: Words in Sch. 1 para. 20(2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/354/regulation/3)
 
 [^c1427782]: Marginal citation: [S.I.2005/453](https://www.legislation.gov.uk/uksi/2005/453).
 
-[^key-adc4d83f6bcb7a2ac8804040a51119d0]: Modification: Sch. 1 para. 20(6) modified by S.I. 2015/173, reg. 19 (as inserted (6.4.2016 coming into force in accordance with reg. 1(4)) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2016/199/regulation/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/5)))
+[^c-adc4d83f6bcb7a2ac8804040a51119d0]: Modification: Sch. 1 para. 20(6) modified by S.I. 2015/173, reg. 19 (as inserted (6.4.2016 coming into force in accordance with reg. 1(4)) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2016/199/regulation/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/5)))
 
-[^key-e2ac706eeb28f2d9562968e1ddf9ec96]: Textual amendment: Sch. 1 Pt. 2A inserted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/d)
+[^c-e2ac706eeb28f2d9562968e1ddf9ec96]: Textual amendment: Sch. 1 Pt. 2A inserted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/2/d)
 
-[^key-4e415d8e4a9387ea9b74d75778398ff0]: Textual amendment: Words in Sch. 1 para. 20D(2)(b) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions etc.) Regulations 2006 (S.I. 2006/516)](https://www.legislation.gov.uk/uksi/2006/516), [regs. 1](https://www.legislation.gov.uk/uksi/2006/516/regulation/1), [5](https://www.legislation.gov.uk/uksi/2006/516/regulation/5)
+[^c-4e415d8e4a9387ea9b74d75778398ff0]: Textual amendment: Words in Sch. 1 para. 20D(2)(b) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions etc.) Regulations 2006 (S.I. 2006/516)](https://www.legislation.gov.uk/uksi/2006/516), [regs. 1](https://www.legislation.gov.uk/uksi/2006/516/regulation/1), [5](https://www.legislation.gov.uk/uksi/2006/516/regulation/5)
 
-[^key-b3a8d884241d6c4cd9fdc37e4ec7446b]: Textual amendment: Sch. 1 paras. 20ZA-20ZB inserted (5.12.2005 in so far as not already in force) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/a)[(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(10)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/10)
+[^c-b3a8d884241d6c4cd9fdc37e4ec7446b]: Textual amendment: Sch. 1 paras. 20ZA-20ZB inserted (5.12.2005 in so far as not already in force) by [Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations 2005 (S.I. 2005/3078)](https://www.legislation.gov.uk/uksi/2005/3078), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/a)[(c)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/1/1/c), [3(10)](https://www.legislation.gov.uk/uksi/2005/3078/regulation/3/10)
 
-[^key-3c109e81fe9887072ed753dc1d28f80c]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2005/454/schedule/2/paragraph/5) omitted (6.4.2006) by virtue of [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/3)
+[^c-3c109e81fe9887072ed753dc1d28f80c]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2005/454/schedule/2/paragraph/5) omitted (6.4.2006) by virtue of [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/3)
 
-[^key-0758c2d6e95c8b2cf2510e4f1e7cf21a]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2005/454/schedule/2/paragraph/10) omitted (6.4.2006) by virtue of [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/3)
+[^c-0758c2d6e95c8b2cf2510e4f1e7cf21a]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2005/454/schedule/2/paragraph/10) omitted (6.4.2006) by virtue of [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/7/3)

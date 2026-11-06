@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42J. Power to request assistance etc from TRA[^key-a6e1e9d1d884fb86594262d0a6ab8d78][^key-00f86e4c54f9730392b505827865b475]
+## 42J. Power to request assistance etc from TRA[^c-a6e1e9d1d884fb86594262d0a6ab8d78][^c-00f86e4c54f9730392b505827865b475]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6e1e9d1d884fb86594262d0a6ab8d78]: Textual amendment: Reg. 42J inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2023/954/regulation/24) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
+[^c-a6e1e9d1d884fb86594262d0a6ab8d78]: Textual amendment: Reg. 42J inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2023/954/regulation/24) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
 
-[^key-00f86e4c54f9730392b505827865b475]: Textual amendment: Pt. 7A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/99/regulation/10)
+[^c-00f86e4c54f9730392b505827865b475]: Textual amendment: Pt. 7A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/99/regulation/10)

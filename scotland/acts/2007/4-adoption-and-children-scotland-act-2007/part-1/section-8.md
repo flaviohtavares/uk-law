@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Adoption agencies: regulations about carrying out of functions[^key-64ed7109d84331afaa364da13c756f47][^key-133b18728d1c7a361e4e4288ec923873]
+## 8. Adoption agencies: regulations about carrying out of functions[^c-64ed7109d84331afaa364da13c756f47][^c-133b18728d1c7a361e4e4288ec923873]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64ed7109d84331afaa364da13c756f47]: Commencement: S. 8 in force at 20.4.2009 for specified purposes by [S.S.I. 2009/147](https://www.legislation.gov.uk/ssi/2009/147), [art. 2](https://www.legislation.gov.uk/ssi/2009/147/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/147/schedule)
+[^c-64ed7109d84331afaa364da13c756f47]: Commencement: S. 8 in force at 20.4.2009 for specified purposes by [S.S.I. 2009/147](https://www.legislation.gov.uk/ssi/2009/147), [art. 2](https://www.legislation.gov.uk/ssi/2009/147/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/147/schedule)
 
-[^key-133b18728d1c7a361e4e4288ec923873]: Commencement: S. 8 in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-133b18728d1c7a361e4e4288ec923873]: Commencement: S. 8 in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)

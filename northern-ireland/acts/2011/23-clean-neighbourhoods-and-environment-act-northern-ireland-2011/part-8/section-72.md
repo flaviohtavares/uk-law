@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Use of penalty receipts[^key-d7402e620a16c8a13c9efec318a42ccb]
+## 72. Use of penalty receipts[^c-d7402e620a16c8a13c9efec318a42ccb]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7402e620a16c8a13c9efec318a42ccb]: Commencement: [S. 72](https://www.legislation.gov.uk/nia/2011/23/section/72) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-d7402e620a16c8a13c9efec318a42ccb]: Commencement: [S. 72](https://www.legislation.gov.uk/nia/2011/23/section/72) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

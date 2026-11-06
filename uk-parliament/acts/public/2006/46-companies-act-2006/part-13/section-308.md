@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-060fbe922df595816e9e5552acee9a77]
+[^c-060fbe922df595816e9e5552acee9a77]
 
 Notice of a general meeting of a company must be given—
 
@@ -34,4 +34,4 @@ or partly by one such means and partly by another.
 
 [^c18911331]: Commencement: S. 308 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/a) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5))
 
-[^key-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
+[^c-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)

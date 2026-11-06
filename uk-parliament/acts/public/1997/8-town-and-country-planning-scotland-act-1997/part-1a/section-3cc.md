@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3CC. Amendment of National Planning Framework[^key-9eb8965f6b21e2092c40349888e7f756]
+## 3CC. Amendment of National Planning Framework[^c-9eb8965f6b21e2092c40349888e7f756]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9eb8965f6b21e2092c40349888e7f756]: Textual amendment: [S. 3CC](https://www.legislation.gov.uk/ukpga/1997/8/section/3CC) inserted (1.4.2024 for specified purposes, 5.12.2024 in so far as not already in force) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 12(2)](https://www.legislation.gov.uk/asp/2019/13/section/12/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/a)[(3)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/3); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/a)
+[^c-9eb8965f6b21e2092c40349888e7f756]: Textual amendment: [S. 3CC](https://www.legislation.gov.uk/ukpga/1997/8/section/3CC) inserted (1.4.2024 for specified purposes, 5.12.2024 in so far as not already in force) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 12(2)](https://www.legislation.gov.uk/asp/2019/13/section/12/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/a)[(3)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/3); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/a)

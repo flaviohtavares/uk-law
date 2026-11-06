@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Establishment of shared cost AVC schemes (SCAVCs)[^key-de8e8c88ab4d7eef6e79d859a7ef815e]
+## 66. Establishment of shared cost AVC schemes (SCAVCs)[^c-de8e8c88ab4d7eef6e79d859a7ef815e]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de8e8c88ab4d7eef6e79d859a7ef815e]: Commencement: Reg. 66 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-de8e8c88ab4d7eef6e79d859a7ef815e]: Commencement: Reg. 66 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

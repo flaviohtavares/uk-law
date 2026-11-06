@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Care provider offence: application to unincorporated associations[^key-6fde24f783ddfbaf9c6a0fd28c754dee]
+## 24. Care provider offence: application to unincorporated associations[^c-6fde24f783ddfbaf9c6a0fd28c754dee]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fde24f783ddfbaf9c6a0fd28c754dee]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2015/2/section/24) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/20)
+[^c-6fde24f783ddfbaf9c6a0fd28c754dee]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2015/2/section/24) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/20)

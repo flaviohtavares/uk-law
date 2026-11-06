@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7.27A. Priority of moratorium debts in a subsequent winding up[^key-0e848070dac0751a29f85d5753ea5797]
+## 7.27A. Priority of moratorium debts in a subsequent winding up[^c-0e848070dac0751a29f85d5753ea5797]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e848070dac0751a29f85d5753ea5797]: Textual amendment: [Rule 7.27A](https://www.legislation.gov.uk/ssi/2018/347/rule/7.27A) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [12(1)](https://www.legislation.gov.uk/uksi/2021/1025/rule/12/1) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
+[^c-0e848070dac0751a29f85d5753ea5797]: Textual amendment: [Rule 7.27A](https://www.legislation.gov.uk/ssi/2018/347/rule/7.27A) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [12(1)](https://www.legislation.gov.uk/uksi/2021/1025/rule/12/1) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))

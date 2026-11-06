@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Restrictions on places that may be used as places of safety[^c22719171][^key-68e45f1560bc6d68a1226892d59bb27d]
+## 81. Restrictions on places that may be used as places of safety[^c22719171][^c-68e45f1560bc6d68a1226892d59bb27d]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ summary: ''
 
 [^c22719171]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2017/3/section/81) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-68e45f1560bc6d68a1226892d59bb27d]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2017/3/section/81) in force at 11.12.2017 in so far as not already in force by [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))
+[^c-68e45f1560bc6d68a1226892d59bb27d]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2017/3/section/81) in force at 11.12.2017 in so far as not already in force by [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))

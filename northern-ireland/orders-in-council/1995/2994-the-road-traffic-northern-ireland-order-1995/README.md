@@ -26,7 +26,7 @@ summary: ''
 
 1995 No. 2994 (N.I. 18)
 
-The Road Traffic (Northern Ireland) Order 1995[^key-577c95cf1514a838574afe2b057de8fc]
+The Road Traffic (Northern Ireland) Order 1995[^c-577c95cf1514a838574afe2b057de8fc]
 
 23rd November 1995 [^c21149161][^c22013501]
 
@@ -287,7 +287,7 @@ SCHEDULES
 
 ## Annotations
 
-[^key-577c95cf1514a838574afe2b057de8fc]: Modification: [Order](https://www.legislation.gov.uk/nisi/1995/2994): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-577c95cf1514a838574afe2b057de8fc]: Modification: [Order](https://www.legislation.gov.uk/nisi/1995/2994): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c21149161]: Modification: Order applied (23.11.2009) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [ss. 54(4)(5)](https://www.legislation.gov.uk/nia/2008/4/section/54/4/5), [59](https://www.legislation.gov.uk/nia/2008/4/section/59); [S.R. 2009/352](https://www.legislation.gov.uk/nisr/2009/352), [art. 2](https://www.legislation.gov.uk/nisr/2009/352/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/352/schedule)
 

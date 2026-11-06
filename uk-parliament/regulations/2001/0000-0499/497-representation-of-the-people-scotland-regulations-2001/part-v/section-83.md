@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Opening of postal voters' ballot box[^key-3f01ef2f890da2183530e4b72674dfa3][^key-7d3ab8891e9974351ad4a5ab361e8006]
+## 83. Opening of postal voters' ballot box[^c-3f01ef2f890da2183530e4b72674dfa3][^c-7d3ab8891e9974351ad4a5ab361e8006]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f01ef2f890da2183530e4b72674dfa3]: Commencement: Reg. 83 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-3f01ef2f890da2183530e4b72674dfa3]: Commencement: Reg. 83 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-7d3ab8891e9974351ad4a5ab361e8006]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2001/497/regulation/83) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 39](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/39)
+[^c-7d3ab8891e9974351ad4a5ab361e8006]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2001/497/regulation/83) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 39](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/39)

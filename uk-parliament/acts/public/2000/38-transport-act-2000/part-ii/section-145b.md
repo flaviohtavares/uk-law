@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145B. Wales: mandatory concessions[^key-c05adb8597f2acc398b3fefbd54794ff][^key-1e423a00b49ba42aaf06821131764f34]
+## 145B. Wales: mandatory concessions[^c-c05adb8597f2acc398b3fefbd54794ff][^c-1e423a00b49ba42aaf06821131764f34]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ is entitled, on production of the permit, to a concession consisting of a waiver
 
 ## Annotations
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-1e423a00b49ba42aaf06821131764f34]: Textual amendment: S. 145B inserted (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/11); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-1e423a00b49ba42aaf06821131764f34]: Textual amendment: S. 145B inserted (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/11); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))

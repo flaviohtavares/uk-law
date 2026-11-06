@@ -31,7 +31,7 @@ summary: ''
 
 Agriculture, Wales
 
-The Common Agricultural Policy (Amendment) (Wales) Regulations 2016 (revoked)[^key-3ac8947598f2d9f70dcd80a0836e8bf7]
+The Common Agricultural Policy (Amendment) (Wales) Regulations 2016 (revoked)[^c-3ac8947598f2d9f70dcd80a0836e8bf7]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 23 February 2016
 
-[^key-3ac8947598f2d9f70dcd80a0836e8bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ac8947598f2d9f70dcd80a0836e8bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-3ac8947598f2d9f70dcd80a0836e8bf7]
+## 1. Title, application and commencement[^c-3ac8947598f2d9f70dcd80a0836e8bf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^key-3ac8947598f2d9f70dcd80a0836e8bf7]
+## 2. Amendment to the Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^c-3ac8947598f2d9f70dcd80a0836e8bf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^key-3ac8947598f2d9f70dcd80a0836e8bf7]
+## 3. Amendment to the Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^c-3ac8947598f2d9f70dcd80a0836e8bf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3ac8947598f2d9f70dcd80a0836e8bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ac8947598f2d9f70dcd80a0836e8bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3ac8947598f2d9f70dcd80a0836e8bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ac8947598f2d9f70dcd80a0836e8bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3ac8947598f2d9f70dcd80a0836e8bf7]: Textual amendment: Regulations revoked (18.3.2016) by [The Common Agricultural Policy (Amendment) (No. 2) (Wales) Regulations 2016 (S.I. 2016/217)](https://www.legislation.gov.uk/uksi/2016/217), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/217/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/217/regulation/4)
+[^c-3ac8947598f2d9f70dcd80a0836e8bf7]: Textual amendment: Regulations revoked (18.3.2016) by [The Common Agricultural Policy (Amendment) (No. 2) (Wales) Regulations 2016 (S.I. 2016/217)](https://www.legislation.gov.uk/uksi/2016/217), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/217/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/217/regulation/4)

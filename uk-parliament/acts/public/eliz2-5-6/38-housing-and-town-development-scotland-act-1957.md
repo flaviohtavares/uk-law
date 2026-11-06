@@ -78,7 +78,7 @@ An Act to make new provision with respect to contributions out of the Exchequer 
 
 #### 10. Town development schemes.
 
-(1) Where a receiving authority consider it expedient that, in conjunction with any housing accommodation proposed to be provided or already provided[^c6130971] in their district in pursuance of arrangements such as are mentioned in subsection (1) of section eight of this Act there should be carried out other development, including the provision of all or any of the following, namely, accommodation for the carrying on of industrial or other activities, appropriate public services, facilities for public worship, recreation and amenity and other requirements, they may, subject to the following provisions of this Part of this Act, make and submit to the Secretary of State a scheme containing proposals for that development related to the proposals as to the housing accommodation and related also to the housing accommodation already provided, if any; and on approval by the Secretary of State any such scheme (hereinafter referred to as a “town development scheme”) shall have effect for the purposes of this Part of this Act, and any duty which it proposes should be undertaken by the receiving authority or Scottish Water[^key-836b1886ceaa8407e8320888f412b65f] shall be a duty of that authority or, as the case may be, Scottish Water[^key-0a7c5960bb60285a3104921ae44d2944].
+(1) Where a receiving authority consider it expedient that, in conjunction with any housing accommodation proposed to be provided or already provided[^c6130971] in their district in pursuance of arrangements such as are mentioned in subsection (1) of section eight of this Act there should be carried out other development, including the provision of all or any of the following, namely, accommodation for the carrying on of industrial or other activities, appropriate public services, facilities for public worship, recreation and amenity and other requirements, they may, subject to the following provisions of this Part of this Act, make and submit to the Secretary of State a scheme containing proposals for that development related to the proposals as to the housing accommodation and related also to the housing accommodation already provided, if any; and on approval by the Secretary of State any such scheme (hereinafter referred to as a “town development scheme”) shall have effect for the purposes of this Part of this Act, and any duty which it proposes should be undertaken by the receiving authority or Scottish Water[^c-836b1886ceaa8407e8320888f412b65f] shall be a duty of that authority or, as the case may be, Scottish Water[^c-0a7c5960bb60285a3104921ae44d2944].
 
 (2) A town development scheme may be extended or amended by a subsequent town development scheme.
 
@@ -89,15 +89,15 @@ An Act to make new provision with respect to contributions out of the Exchequer 
 - (a) that the execution of the scheme will be consistent with the proper planning of the area to which the scheme relates, and
 - (b) that if he were to withhold approval the development proposed therein, either by itself or along with commitments already undertaken or proposed to be undertaken by way of overspill agreements or other town development schemes by the receiving authority, would impose an unreasonable burden on the financial resources of the receiving authority.
 
-(5) Subject to the foregoing provisions of this section and to the provisions of the Second Schedule to this Act, the Secretary of State may approve a town development scheme without modification or with such modifications as appear to him to be expedient, so however that no such modification shall impose on any authority or Scottish Water[^key-61efe3c6ba833a7cbddc7d6cb4f6d3e8] any duty other than a duty relating to any water supply or sewerage service required for the purposes of the scheme.
+(5) Subject to the foregoing provisions of this section and to the provisions of the Second Schedule to this Act, the Secretary of State may approve a town development scheme without modification or with such modifications as appear to him to be expedient, so however that no such modification shall impose on any authority or Scottish Water[^c-61efe3c6ba833a7cbddc7d6cb4f6d3e8] any duty other than a duty relating to any water supply or sewerage service required for the purposes of the scheme.
 
 (6) References in this Part of, and in the Second Schedule to, this Act to a receiving or exporting authority in relation to a town development scheme are references respectively to the receiving authority who promoted, or are promoting, the scheme and to the exporting authority to meet the needs of whose district the housing accommodation to which the scheme relates is, or is to be, provided.
 
-#### 11. Provision of water supplies and sewerage services under town development schemes.[^key-2f17fda67424971539de29df367c90be]
+#### 11. Provision of water supplies and sewerage services under town development schemes.[^c-2f17fda67424971539de29df367c90be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Allocation of expenditure on water supplies and sewerage services under town development schemes.[^key-142209570e43ac321b45acb2dfe02e45]
+#### 12. Allocation of expenditure on water supplies and sewerage services under town development schemes.[^c-142209570e43ac321b45acb2dfe02e45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -134,13 +134,13 @@ the Secretary of State is satisfied that it is necessary for the proper executio
 
 and any exporting authority appointed as mentioned in paragraph (b) of this section may themselves incur expenditure in taking any action to which the appointment relates and shall defray any expenditure so incurred as if it were incurred within and for the benefit of their own district.
 
-(2)[^key-bff990fef622bffbcc639339ea5be88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bff990fef622bffbcc639339ea5be88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this section any reference to action relating to the functions of the receiving authority or development corporation under any overspill agreement or town development scheme includes a reference to any survey or preparatory work required to determine the practicability of any proposed overspill agreement or town development scheme.
 
 #### 16. Provision for failure to carry out duties under overspill agreements or town development schemes.
 
-(1) If a complaint is made to the Secretary of State that any local [^key-87cbcc419bb73fc74f3f13a5449308ad]... authority have failed to do properly anything which they are required to do by any overspill agreement or town development scheme, or if the Secretary of State is of opinion that an investigation should be made as to whether any such authority have so failed, he may cause a local inquiry to be held into the matter.
+(1) If a complaint is made to the Secretary of State that any local [^c-87cbcc419bb73fc74f3f13a5449308ad]... authority have failed to do properly anything which they are required to do by any overspill agreement or town development scheme, or if the Secretary of State is of opinion that an investigation should be made as to whether any such authority have so failed, he may cause a local inquiry to be held into the matter.
 
 (2) If after such a local inquiry the Secretary of State is satisfied that there has been such a failure on the part of the authority in question, he may, after giving the authority an opportunity of making representations, make an order declaring the authority to be in default and requiring them for the purpose of remedying the default to take within such period as may be specified in the order such action as may be so specified.
 
@@ -156,7 +156,7 @@ and any exporting authority appointed as mentioned in paragraph (b) of this sect
 
 (5) Section 210 of the[^c6131101] [^c6131111]Local Government (Scotland) Act 1973 (which contains provisions as to local inquiries) shall apply to any local inquiry held under this section.
 
-(5A)[^key-892dcfa8433d44d1678724af1a44b345] This section shall apply in relation to Scottish Water as it applies in relation to a local authority.
+(5A)[^c-892dcfa8433d44d1678724af1a44b345] This section shall apply in relation to Scottish Water as it applies in relation to a local authority.
 
 (6) This section shall be without prejudice to any other enactment, or any provision in any agreement, under which the performance of the duties mentioned in this section may be enforced.
 
@@ -173,7 +173,7 @@ Nothing in this Part of this Act or in any authorisation given thereunder shall 
 (1) In this Part of, and in the Second Schedule to, this Act, unless the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively, that is to say—
 
 - “**functions**” includes powers and duties;
-- [^key-4c97b21d6024ed4a1bdd3c3eb03cb8a1]...
+- [^c-4c97b21d6024ed4a1bdd3c3eb03cb8a1]...
 
 - “**overspill agreement**” has the meaning assigned to it by subsection (1) of section nine of this Act;
 - “**sewerage service**” includes sewage disposal service;
@@ -268,13 +268,13 @@ Section 10.
 
 - (a) the area to which the scheme relates;
 - (b) the uses to which it is proposed that the various parts of the area are to be put; and
-- (c) the arrangements proposed to be made for the provision of any water supply or sewerage service required for the purposes of the scheme, [^key-085a00d0726d3778709d8272f9bab551]....
+- (c) the arrangements proposed to be made for the provision of any water supply or sewerage service required for the purposes of the scheme, [^c-085a00d0726d3778709d8272f9bab551]....
 
 **2.** Where a town development scheme is promoted by a receiving authority who are not the local planning authority for the area or any part of the area to which the scheme relates they shall before submitting the scheme to the Secretary of State consult the local planning authority for the area, or, as the case may be, that part of the area, and shall on submission of the scheme deliver to them a copy of the scheme as submitted.
 
-**3.**[^key-2ce3f107ed55108a4fd6ea318e8aaee5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2ce3f107ed55108a4fd6ea318e8aaee5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Any authority entitled to receive a copy of a town development scheme under paragraph 2 [^key-2e24fae42b297dbe2c661ff02135c87c]... of this Schedule may within sixty days of the receipt thereof submit to the Secretary of State objections thereto.
+**4.** Any authority entitled to receive a copy of a town development scheme under paragraph 2 [^c-2e24fae42b297dbe2c661ff02135c87c]... of this Schedule may within sixty days of the receipt thereof submit to the Secretary of State objections thereto.
 
 **5.** (1) Subject to the next following sub-paragraph, where any objections to a town development scheme have been duly submitted to the Secretary of State under the last foregoing paragraph, and have not been withdrawn, the Secretary of State shall not approve the scheme except after causing a local inquiry to be held with respect to such objections and considering the report of the person holding the inquiry.
 
@@ -302,15 +302,15 @@ Section 10.
 
 [^c6130971]: Textual amendment: Words inserted by [Housing Act 1964 (c. 56)](https://www.legislation.gov.uk/ukpga/1964/56), [s. 100](https://www.legislation.gov.uk/ukpga/1964/56/section/100)
 
-[^key-836b1886ceaa8407e8320888f412b65f]: Textual amendment: Words in s. 10(1) substituted (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/2/a/i)
+[^c-836b1886ceaa8407e8320888f412b65f]: Textual amendment: Words in s. 10(1) substituted (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/2/a/i)
 
-[^key-0a7c5960bb60285a3104921ae44d2944]: Textual amendment: Words in s. 10(1) inserted (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/2/a/ii)
+[^c-0a7c5960bb60285a3104921ae44d2944]: Textual amendment: Words in s. 10(1) inserted (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/2/a/ii)
 
-[^key-61efe3c6ba833a7cbddc7d6cb4f6d3e8]: Textual amendment: Words in s. 10(5) inserted (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/2/b)
+[^c-61efe3c6ba833a7cbddc7d6cb4f6d3e8]: Textual amendment: Words in s. 10(5) inserted (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/2/b)
 
-[^key-2f17fda67424971539de29df367c90be]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/11) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/3)
+[^c-2f17fda67424971539de29df367c90be]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/11) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/3)
 
-[^key-142209570e43ac321b45acb2dfe02e45]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/12) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/3)
+[^c-142209570e43ac321b45acb2dfe02e45]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/12) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/3)
 
 [^c6131001]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/13) extended by [Town and Country Planning (Scotland) Act 1959 (c. 70)](https://www.legislation.gov.uk/ukpga/1959/70), [s. 50(4)](https://www.legislation.gov.uk/ukpga/1959/70/section/50/4); modified by [Land Compensation (Scotland) Act 1963 (c. 51)](https://www.legislation.gov.uk/ukpga/1963/51), [s. 17](https://www.legislation.gov.uk/ukpga/1963/51/section/17), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/1963/51/schedule/2/paragraph/1/1)
 
@@ -328,9 +328,9 @@ Section 10.
 
 [^c6131081]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/14) repealed by [S.I. 1986/672](https://www.legislation.gov.uk/uksi/1986/672), [arts. 2](https://www.legislation.gov.uk/uksi/1986/672/article/2), [3](https://www.legislation.gov.uk/uksi/1986/672/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1986/672/schedule/1)
 
-[^key-bff990fef622bffbcc639339ea5be88a]: Textual amendment: [S. 15(2)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/15/2) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/3)
+[^c-bff990fef622bffbcc639339ea5be88a]: Textual amendment: [S. 15(2)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/15/2) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/3)
 
-[^key-87cbcc419bb73fc74f3f13a5449308ad]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/16/1) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(4)(a)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/4/a)
+[^c-87cbcc419bb73fc74f3f13a5449308ad]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/16/1) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(4)(a)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/4/a)
 
 [^c6131091]: Marginal citation: [1868 c. 100](https://www.legislation.gov.uk/ukpga/1868/100).
 
@@ -338,11 +338,11 @@ Section 10.
 
 [^c6131111]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-892dcfa8433d44d1678724af1a44b345]: Textual amendment: [S. 16(5A)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/16/5A) inserted (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(4)(b)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/4/b)
+[^c-892dcfa8433d44d1678724af1a44b345]: Textual amendment: [S. 16(5A)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/section/16/5A) inserted (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(4)(b)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/4/b)
 
 [^c6131121]: Marginal citation: [1947 c. 53](https://www.legislation.gov.uk/ukpga/1947/53).
 
-[^key-4c97b21d6024ed4a1bdd3c3eb03cb8a1]: Textual amendment: Words in s. 19(1) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/5)
+[^c-4c97b21d6024ed4a1bdd3c3eb03cb8a1]: Textual amendment: Words in s. 19(1) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/5)
 
 [^c6131141]: Marginal citation: [1946 c. 68](https://www.legislation.gov.uk/ukpga/1946/68).
 
@@ -386,11 +386,11 @@ Section 10.
 
 [^c6131341]: Textual amendment: [Sch. 1 Pt. II paras. 13](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/schedule/1/part/II/paragraph/13), [14](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/schedule/1/part/II/paragraph/14) repealed by [Statute Law (Repeals) Act 1981 (c. 19)](https://www.legislation.gov.uk/ukpga/1981/19), [Sch. 1 Pt. VI](https://www.legislation.gov.uk/ukpga/1981/19/schedule/1/part/VI)
 
-[^key-085a00d0726d3778709d8272f9bab551]: Textual amendment: Words in [Sch. SECOND para. 1(c)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/schedule/SECOND/paragraph/1/c) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(6)(a)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/6/a)
+[^c-085a00d0726d3778709d8272f9bab551]: Textual amendment: Words in [Sch. SECOND para. 1(c)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/schedule/SECOND/paragraph/1/c) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(6)(a)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/6/a)
 
-[^key-2ce3f107ed55108a4fd6ea318e8aaee5]: Textual amendment: [Sch. SECOND para. 3](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/schedule/SECOND/paragraph/3) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(6)(b)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/6/b)
+[^c-2ce3f107ed55108a4fd6ea318e8aaee5]: Textual amendment: [Sch. SECOND para. 3](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/schedule/SECOND/paragraph/3) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(6)(b)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/6/b)
 
-[^key-2e24fae42b297dbe2c661ff02135c87c]: Textual amendment: Words in [Sch. SECOND para. 4](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/schedule/SECOND/paragraph/4) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(6)(c)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/6/c)
+[^c-2e24fae42b297dbe2c661ff02135c87c]: Textual amendment: Words in [Sch. SECOND para. 4](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/38/schedule/SECOND/paragraph/4) repealed (25.6.2003) by [Water Industry (Scotland) Act 2002 Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [Sch. para. 2(6)(c)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/2/6/c)
 
 [^c6131351]: Marginal citation: [1947 c. 43](https://www.legislation.gov.uk/ukpga/1947/43).
 

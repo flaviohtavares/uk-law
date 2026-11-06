@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Revision of the postal administrator’s proposals[^key-d0d0a8182877bca8620e39b4c573a551]
+## 34. Revision of the postal administrator’s proposals[^c-d0d0a8182877bca8620e39b4c573a551]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 - (g) where it is proposed, by virtue of the revision, to make distributions to creditors in accordance with Part 6, the classes of creditors to whom it is proposed that distributions be made and whether or not the postal administrator intends to make an application to the court under paragraph 65(3) of Schedule B1 to the 1986 Act;
 - (h) where the revision includes a proposal to move from postal administration to a creditors’ voluntary liquidation—
   - (i) details of the proposed liquidator; and
-  - (ii) a statement that, in accordance with paragraph 83(7) of Schedule B1 to the 1986 Act and Rule 58[^key-8a762cf1706d6cc75386934861492e7d], creditors may nominate another person to act as liquidator, provided that the nomination is made at a meeting of creditors called for that purpose;
+  - (ii) a statement that, in accordance with paragraph 83(7) of Schedule B1 to the 1986 Act and Rule 58[^c-8a762cf1706d6cc75386934861492e7d], creditors may nominate another person to act as liquidator, provided that the nomination is made at a meeting of creditors called for that purpose;
   - (iii) any other information that the postal administrator thinks necessary to enable creditors to decide whether or not to vote for the proposed revisions; and
   - (iv) where applicable, the declaration required by section 231(appointment to office of two or more persons) of the 1986 Act.
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0d0a8182877bca8620e39b4c573a551]: Commencement: Rule 34 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-d0d0a8182877bca8620e39b4c573a551]: Commencement: Rule 34 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-8a762cf1706d6cc75386934861492e7d]: Textual amendment: Words in [rule 34(1)(h)](https://www.legislation.gov.uk/uksi/2016/900/rule/34/1/h) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-8a762cf1706d6cc75386934861492e7d]: Textual amendment: Words in [rule 34(1)(h)](https://www.legislation.gov.uk/uksi/2016/900/rule/34/1/h) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

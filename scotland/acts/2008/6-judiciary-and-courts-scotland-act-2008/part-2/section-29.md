@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Powers of Lord President[^key-b8f9246ac17269b2135940a3680284dd]
+## 29. Powers of Lord President[^c-b8f9246ac17269b2135940a3680284dd]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8f9246ac17269b2135940a3680284dd]: Commencement: S. 29 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
+[^c-b8f9246ac17269b2135940a3680284dd]: Commencement: S. 29 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)

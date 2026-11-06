@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Power of detention in contracted out prisons and secure training centres[^key-4d15aab78ebe17e978c324cc603378d2]
+## 17. Power of detention in contracted out prisons and secure training centres[^c-4d15aab78ebe17e978c324cc603378d2]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d15aab78ebe17e978c324cc603378d2]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2007/21/section/17) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/b)
+[^c-4d15aab78ebe17e978c324cc603378d2]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2007/21/section/17) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/b)

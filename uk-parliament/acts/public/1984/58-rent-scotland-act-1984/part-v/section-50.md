@@ -28,7 +28,7 @@ above) an application for registration of rent is made before the expiry of the 
 
 (3) If, on application for the registration of a different rent, the rent officer confirms the rent for the time being registered, the confirmation of that rent takes effect from the date when it is noted in the register.
 
-(4) If the rent for a dwelling-house is determined by the First-tier Tribunal[^key-88dde200e5ff303d09e34ea3ef7aab79], the registration of that rent takes effect from the date when the First-tier Tribunal makes its[^key-64d5eb58af2a5e44d03c803b054b2022] decision.
+(4) If the rent for a dwelling-house is determined by the First-tier Tribunal[^c-88dde200e5ff303d09e34ea3ef7aab79], the registration of that rent takes effect from the date when the First-tier Tribunal makes its[^c-64d5eb58af2a5e44d03c803b054b2022] decision.
 
 (5) The date from which the registration or confirmation of a rent takes effect shall be entered in the register.
 
@@ -38,6 +38,6 @@ above) an application for registration of rent is made before the expiry of the 
 
 ## Annotations
 
-[^key-88dde200e5ff303d09e34ea3ef7aab79]: Textual amendment: Words in [s. 50(4)](https://www.legislation.gov.uk/ukpga/1984/58/section/50/4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(6)(a)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/6/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-88dde200e5ff303d09e34ea3ef7aab79]: Textual amendment: Words in [s. 50(4)](https://www.legislation.gov.uk/ukpga/1984/58/section/50/4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(6)(a)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/6/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
 
-[^key-64d5eb58af2a5e44d03c803b054b2022]: Textual amendment: Words in [s. 50(4)](https://www.legislation.gov.uk/ukpga/1984/58/section/50/4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(6)(b)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/6/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-64d5eb58af2a5e44d03c803b054b2022]: Textual amendment: Words in [s. 50(4)](https://www.legislation.gov.uk/ukpga/1984/58/section/50/4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(6)(b)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/6/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Old system students who are on end-on courses[^key-b186480d30214788190ad9e252c5f815]
+## 26. Old system students who are on end-on courses[^c-b186480d30214788190ad9e252c5f815]
 
 *Extent: N.I.*
 
@@ -69,4 +69,4 @@ where
 
 ## Annotations
 
-[^key-b186480d30214788190ad9e252c5f815]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2007/195/regulation/26) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-b186480d30214788190ad9e252c5f815]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2007/195/regulation/26) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

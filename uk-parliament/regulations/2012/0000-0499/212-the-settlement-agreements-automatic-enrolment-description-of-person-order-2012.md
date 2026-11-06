@@ -30,7 +30,7 @@ summary: ''
 
 Pensions
 
-The Settlement[^key-dc67ad602a108a4dd366ef2d8b393c74] Agreements (Automatic Enrolment) (Description of Person) Order 2012
+The Settlement[^c-dc67ad602a108a4dd366ef2d8b393c74] Agreements (Automatic Enrolment) (Description of Person) Order 2012
 
 Made
 
@@ -46,16 +46,16 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 58(6)(d) and 99 of the Pensions Act 2008[^f00001], makes the following Order.
 
-## 1. Citation, commencement and interpretation[^key-fad1e85932bf46cacae73c59de09f51c]
+## 1. Citation, commencement and interpretation[^c-fad1e85932bf46cacae73c59de09f51c]
 
-(1) This Order may be cited as the Settlement[^key-ffe8be39d06556c4e0b31989887f1cdf] Agreements (Automatic Enrolment) (Description of Person) Order 2012 and comes into force on 1st July 2012.
+(1) This Order may be cited as the Settlement[^c-ffe8be39d06556c4e0b31989887f1cdf] Agreements (Automatic Enrolment) (Description of Person) Order 2012 and comes into force on 1st July 2012.
 
 (2) In this Order—
 
 - “regulatory arrangements” has the same meaning as in section 21 of the Legal Services Act 2007[^f00002];
 - “ILEX” means the Institute of Legal Executives.
 
-## 2. Person specified[^key-deab51ea5c6735fbbf485f9907fe189e]
+## 2. Person specified[^c-deab51ea5c6735fbbf485f9907fe189e]
 
 A person authorised by ILEX to practise as a legal executive who is practising subject to the regulatory arrangements of ILEX is specified for the purposes of section 58(5)(c) of the Pensions Act 2008.
 
@@ -79,14 +79,14 @@ A full impact assessment has not been published for this instrument as it has no
 
 ## Annotations
 
-[^key-dc67ad602a108a4dd366ef2d8b393c74]: Textual amendment: Word in Order title substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/16/a)
+[^c-dc67ad602a108a4dd366ef2d8b393c74]: Textual amendment: Word in Order title substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/16/a)
 
 [^f00001]: Footnote: [2008 c.30](https://www.legislation.gov.uk/ukpga/2008/30). Section 99 is cited for the definition of “prescribed”.
 
-[^key-fad1e85932bf46cacae73c59de09f51c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/212/article/1) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/212/article/1/1)
+[^c-fad1e85932bf46cacae73c59de09f51c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/212/article/1) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/212/article/1/1)
 
-[^key-ffe8be39d06556c4e0b31989887f1cdf]: Textual amendment: Word in [art. 1](https://www.legislation.gov.uk/uksi/2012/212/article/1) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/16/b)
+[^c-ffe8be39d06556c4e0b31989887f1cdf]: Textual amendment: Word in [art. 1](https://www.legislation.gov.uk/uksi/2012/212/article/1) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/16/b)
 
 [^f00002]: Footnote: [2007 c.29](https://www.legislation.gov.uk/ukpga/2007/29).
 
-[^key-deab51ea5c6735fbbf485f9907fe189e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/212/article/2) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/212/article/1/1)
+[^c-deab51ea5c6735fbbf485f9907fe189e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/212/article/2) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/212/article/1/1)

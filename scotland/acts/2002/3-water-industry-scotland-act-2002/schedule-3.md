@@ -36,11 +36,11 @@ and its property is not to be regarded as property of, or held on behalf of, the
 (1) Scottish Water is to consist of a board comprisingâ€”
 
 - (a) not fewer than 5, nor more than 8, non-executive members, and
-- (b) not fewer than 2[^key-68c5be7c15887f69a555fff4b799a107], nor more than 5, executive members.
+- (b) not fewer than 2[^c-68c5be7c15887f69a555fff4b799a107], nor more than 5, executive members.
 
-(2)[^key-9d10755b057088b913ba34773a5778f0] Where the number of executive members is 2, the number of non-executive members must not be fewer than 5, in accordance with paragraph 2(1).
+(2)[^c-9d10755b057088b913ba34773a5778f0] Where the number of executive members is 2, the number of non-executive members must not be fewer than 5, in accordance with paragraph 2(1).
 
-(2A)[^key-21ac87c1c7025593e5be43cd021293f1] Where the number of executive members is 3 or more, the number of non-executive members must exceed the number of executive members by at least 2.
+(2A)[^c-21ac87c1c7025593e5be43cd021293f1] Where the number of executive members is 3 or more, the number of non-executive members must exceed the number of executive members by at least 2.
 
 (3) The non-executive members are to be appointed by the Scottish Ministers from amongst persons who appear to them to have knowledge or experience relevant to the functions of Scottish Water.
 
@@ -189,8 +189,8 @@ The validity of any proceedings or actings of Scottish Water is not affected byâ
 
 ## Annotations
 
-[^key-68c5be7c15887f69a555fff4b799a107]: Textual amendment: Word in [sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/asp/2002/3/schedule/3/paragraph/2/1/b) substituted (18.3.2026) by [The Public Services Reform (Scottish Water) Order 2026 (S.S.I. 2026/146)](https://www.legislation.gov.uk/ssi/2026/146), [arts. 1](https://www.legislation.gov.uk/ssi/2026/146/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/146/article/2/2)
+[^c-68c5be7c15887f69a555fff4b799a107]: Textual amendment: Word in [sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/asp/2002/3/schedule/3/paragraph/2/1/b) substituted (18.3.2026) by [The Public Services Reform (Scottish Water) Order 2026 (S.S.I. 2026/146)](https://www.legislation.gov.uk/ssi/2026/146), [arts. 1](https://www.legislation.gov.uk/ssi/2026/146/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/146/article/2/2)
 
-[^key-9d10755b057088b913ba34773a5778f0]: Textual amendment: [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/asp/2002/3/schedule/3/paragraph/2/2) substituted (18.3.2026) by [The Public Services Reform (Scottish Water) Order 2026 (S.S.I. 2026/146)](https://www.legislation.gov.uk/ssi/2026/146), [arts. 1](https://www.legislation.gov.uk/ssi/2026/146/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/146/article/2/3)
+[^c-9d10755b057088b913ba34773a5778f0]: Textual amendment: [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/asp/2002/3/schedule/3/paragraph/2/2) substituted (18.3.2026) by [The Public Services Reform (Scottish Water) Order 2026 (S.S.I. 2026/146)](https://www.legislation.gov.uk/ssi/2026/146), [arts. 1](https://www.legislation.gov.uk/ssi/2026/146/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/146/article/2/3)
 
-[^key-21ac87c1c7025593e5be43cd021293f1]: Textual amendment: [Sch. 3 para. 2(2A)](https://www.legislation.gov.uk/asp/2002/3/schedule/3/paragraph/2/2A) inserted (18.3.2026) by [The Public Services Reform (Scottish Water) Order 2026 (S.S.I. 2026/146)](https://www.legislation.gov.uk/ssi/2026/146), [arts. 1](https://www.legislation.gov.uk/ssi/2026/146/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2026/146/article/2/4)
+[^c-21ac87c1c7025593e5be43cd021293f1]: Textual amendment: [Sch. 3 para. 2(2A)](https://www.legislation.gov.uk/asp/2002/3/schedule/3/paragraph/2/2A) inserted (18.3.2026) by [The Public Services Reform (Scottish Water) Order 2026 (S.S.I. 2026/146)](https://www.legislation.gov.uk/ssi/2026/146), [arts. 1](https://www.legislation.gov.uk/ssi/2026/146/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2026/146/article/2/4)

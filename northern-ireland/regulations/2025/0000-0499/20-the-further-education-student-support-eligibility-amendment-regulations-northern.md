@@ -42,7 +42,7 @@ Coming into operation-
 
 The Department for the Economy[^f00001] in exercise of the powers conferred by Articles 3(1), 3(2) and 8(4) of the Education (Student Support) (Northern Ireland) Order 1998[^f00002] makes the following Regulations.
 
-## 1. Citation, commencement and application[^key-7a67e0acac13a2fbc4b861d9e8540828]
+## 1. Citation, commencement and application[^c-7a67e0acac13a2fbc4b861d9e8540828]
 
 (1) These Regulations may be cited as the Further Education (Student Support) (Eligibility) (Amendment) Regulations (Northern Ireland) 2025 and come into operation on 28<sup>th</sup> February 2025.
 
@@ -50,7 +50,7 @@ The Department for the Economy[^f00001] in exercise of the powers conferred by A
 
 (3) In these Regulations, “**designated course**” has the meaning given by regulation 2 of the Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2012[^f00003].
 
-## 2. Amendment of the Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2012[^key-199f079c67758749a1b0ec1def1a5f88][^key-31a91640b1fed7423dc3e87a9acc035e]
+## 2. Amendment of the Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2012[^c-199f079c67758749a1b0ec1def1a5f88][^c-31a91640b1fed7423dc3e87a9acc035e]
 
 (1) The Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2012 are amended in accordance with paragraph (2).
 
@@ -65,7 +65,7 @@ The Department for the Economy[^f00001] in exercise of the powers conferred by A
 
   .
 
-## 3. Amendment of the Further Education (Student Support) (Eligibility) (Amendment) Regulations (Northern Ireland) 2024[^key-196aa17ca5ebcc5a8e223cfec48bb4f6]
+## 3. Amendment of the Further Education (Student Support) (Eligibility) (Amendment) Regulations (Northern Ireland) 2024[^c-196aa17ca5ebcc5a8e223cfec48bb4f6]
 
 (1) The Further Education (Student Support) (Eligibility) (Amendment) Regulations (Northern Ireland) 2024[^f00005] are amended in accordance with paragraph (2).
 
@@ -99,16 +99,16 @@ A regulatory impact assessment has not been produced for this rule as no, or no 
 
 [^f00002]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760), articles 3(1) and (2) were amended by the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), section 147(3)(a) and (b) respectively.
 
-[^key-7a67e0acac13a2fbc4b861d9e8540828]: Commencement: Reg. 1 in operation at 28.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/20/regulation/1/1)
+[^c-7a67e0acac13a2fbc4b861d9e8540828]: Commencement: Reg. 1 in operation at 28.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/20/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2012 No. 306](https://www.legislation.gov.uk/nisr/2012/306).
 
-[^key-199f079c67758749a1b0ec1def1a5f88]: Commencement: Reg. 2 in operation at 28.2.2025 with application in accordance with reg. 1(2)
+[^c-199f079c67758749a1b0ec1def1a5f88]: Commencement: Reg. 2 in operation at 28.2.2025 with application in accordance with reg. 1(2)
 
-[^key-31a91640b1fed7423dc3e87a9acc035e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/20/regulation/2) in operation at 28.2.2025 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/20/regulation/1/2)
+[^c-31a91640b1fed7423dc3e87a9acc035e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/20/regulation/2) in operation at 28.2.2025 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/20/regulation/1/2)
 
 [^f00004]: Footnote: the definition of “person granted leave under one of the Ukraine Schemes” was inserted by [S.R 2022 No. 183](https://www.legislation.gov.uk/nisr/2022/183).
 
-[^key-196aa17ca5ebcc5a8e223cfec48bb4f6]: Commencement: Reg. 3 in operation at 28.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/20/regulation/1/1)
+[^c-196aa17ca5ebcc5a8e223cfec48bb4f6]: Commencement: Reg. 3 in operation at 28.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/20/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2024 No. 128](https://www.legislation.gov.uk/nisr/2024/128).

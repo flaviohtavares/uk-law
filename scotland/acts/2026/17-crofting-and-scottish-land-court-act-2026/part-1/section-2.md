@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Enabling environmental uses of crofts[^key-ae2a0e43c34425b70f88e0b96766320b]
+## 2. Enabling environmental uses of crofts[^c-ae2a0e43c34425b70f88e0b96766320b]
 
 *Extent: S*
 
@@ -114,4 +114,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae2a0e43c34425b70f88e0b96766320b]: Commencement: S. 2 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-ae2a0e43c34425b70f88e0b96766320b]: Commencement: S. 2 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

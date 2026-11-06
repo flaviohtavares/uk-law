@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Programme of enforcement action by district councils[^key-4ee8cd995ff8629a601dc89a1882e631]
+## 85. Programme of enforcement action by district councils[^c-4ee8cd995ff8629a601dc89a1882e631]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ Before Article 7 of the Health and Personal Social Services (Northern Ireland) O
 
 ## Annotations
 
-[^key-4ee8cd995ff8629a601dc89a1882e631]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2026/18/section/85) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-4ee8cd995ff8629a601dc89a1882e631]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2026/18/section/85) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

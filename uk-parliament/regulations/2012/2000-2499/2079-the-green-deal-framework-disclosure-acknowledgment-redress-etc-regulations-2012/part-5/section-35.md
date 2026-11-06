@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Guarantees to be given by green deal providers[^key-92c1923f565f5d492c8cc1cd20762416]
+## 35. Guarantees to be given by green deal providers[^c-92c1923f565f5d492c8cc1cd20762416]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92c1923f565f5d492c8cc1cd20762416]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2012/2079/regulation/35) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-92c1923f565f5d492c8cc1cd20762416]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2012/2079/regulation/35) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

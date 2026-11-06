@@ -32,7 +32,7 @@ summary: ''
 
 TRANSPORT
 
-The Public Transport Users' Committee for Scotland Amendment Order 2008 (revoked)[^key-23b4c8d19c0a1de63c4fd6009b9652a6]
+The Public Transport Users' Committee for Scotland Amendment Order 2008 (revoked)[^c-23b4c8d19c0a1de63c4fd6009b9652a6]
 
 Made
 
@@ -46,20 +46,20 @@ Coming into force
 
 1st July 2008
 
-[^key-23b4c8d19c0a1de63c4fd6009b9652a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23b4c8d19c0a1de63c4fd6009b9652a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-23b4c8d19c0a1de63c4fd6009b9652a6]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Public Transport Users' Committee for Scotland Order 2006[^key-23b4c8d19c0a1de63c4fd6009b9652a6]
+## 1. Citation and commencement[^c-23b4c8d19c0a1de63c4fd6009b9652a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23b4c8d19c0a1de63c4fd6009b9652a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 2. Amendment of the Public Transport Users' Committee for Scotland Order 2006[^c-23b4c8d19c0a1de63c4fd6009b9652a6]
 
-[^key-23b4c8d19c0a1de63c4fd6009b9652a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-23b4c8d19c0a1de63c4fd6009b9652a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-23b4c8d19c0a1de63c4fd6009b9652a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23b4c8d19c0a1de63c4fd6009b9652a6]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2008/186) revoked (14.6.2008) by [The Public Transport Users' Committee for Scotland Amendment Order 2008 Revocation Order 2008 (S.S.I. 2008/248)](https://www.legislation.gov.uk/ssi/2008/248), [arts. 1](https://www.legislation.gov.uk/ssi/2008/248/article/1), [2](https://www.legislation.gov.uk/ssi/2008/248/article/2)
+[^c-23b4c8d19c0a1de63c4fd6009b9652a6]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2008/186) revoked (14.6.2008) by [The Public Transport Users' Committee for Scotland Amendment Order 2008 Revocation Order 2008 (S.S.I. 2008/248)](https://www.legislation.gov.uk/ssi/2008/248), [arts. 1](https://www.legislation.gov.uk/ssi/2008/248/article/1), [2](https://www.legislation.gov.uk/ssi/2008/248/article/2)

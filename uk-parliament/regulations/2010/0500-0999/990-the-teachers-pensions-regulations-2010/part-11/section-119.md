@@ -35,7 +35,7 @@ the Secretary of State may, on the application of P, commute that pension and an
 
 - (a) the lump sum is a trivial commutation lump sum as defined in paragraph 7 of Schedule 29 to FA 2004 or falls within regulation 11 or 12 of the Registered Pension Schemes (Authorised Payments) Regulations 2009 [^c20237891],
 - (b) the application is made at the same time as P makes an application under regulation 107,
-- (c) no transfer value has been accepted from the scheme managers of a personal pension scheme under Part 4, Chapter 4, Section 3[^key-797525907c2d6979b517de25b9580fd8],
+- (c) no transfer value has been accepted from the scheme managers of a personal pension scheme under Part 4, Chapter 4, Section 3[^c-797525907c2d6979b517de25b9580fd8],
 - (d) during the period of 5 years ending with the application no other transfer value has been accepted, and
 - (e) during the period of 3 years ending with the application no cash equivalent or transfer value has been paid in respect of P.
 
@@ -60,12 +60,12 @@ the Secretary of State, may on the application of the family member commute that
 
 (8) The conditions are that—
 
-- (a)[^key-ec2572bd5acdc49f53e1ce479273ddbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-ec2572bd5acdc49f53e1ce479273ddbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) the application is made at the same time as the family member makes an application under regulation 107 , and[^key-3b79d5988cccc73c2e072d1c64b18689]
-- (d)[^key-3a50a0f04ada904494574c09f7a6ecd1] the lump sum is a trivial commutation lump sum death benefit as defined in paragraph 20 of Schedule 29 to FA 2004.
+- (a)[^c-ec2572bd5acdc49f53e1ce479273ddbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ec2572bd5acdc49f53e1ce479273ddbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the application is made at the same time as the family member makes an application under regulation 107 , and[^c-3b79d5988cccc73c2e072d1c64b18689]
+- (d)[^c-3a50a0f04ada904494574c09f7a6ecd1] the lump sum is a trivial commutation lump sum death benefit as defined in paragraph 20 of Schedule 29 to FA 2004.
 
-[^key-65ce4f74f7520f1cdf0a08b83baed9f9]....
+[^c-65ce4f74f7520f1cdf0a08b83baed9f9]....
 
 (9) The lump sums referred to in paragraphs (1), (5) and (7) are to be determined by the Secretary of State after taking advice from the scheme actuary.
 
@@ -73,12 +73,12 @@ the Secretary of State, may on the application of the family member commute that
 
 [^c20237891]: Marginal citation: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171)
 
-[^key-797525907c2d6979b517de25b9580fd8]: Textual amendment: Words in [reg. 119(4)(c)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/4/c) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/19/a)
+[^c-797525907c2d6979b517de25b9580fd8]: Textual amendment: Words in [reg. 119(4)(c)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/4/c) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/19/a)
 
-[^key-ec2572bd5acdc49f53e1ce479273ddbd]: Textual amendment: [Reg. 119(8)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/8/a)[(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/8/b) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/673/regulation/8)
+[^c-ec2572bd5acdc49f53e1ce479273ddbd]: Textual amendment: [Reg. 119(8)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/8/a)[(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/8/b) omitted (1.4.2012) by virtue of [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/673/regulation/8)
 
-[^key-3b79d5988cccc73c2e072d1c64b18689]: Textual amendment: Word in [reg. 119(8)(c)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/8/c) inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [19(b)(i)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/19/b/i)
+[^c-3b79d5988cccc73c2e072d1c64b18689]: Textual amendment: Word in [reg. 119(8)(c)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/8/c) inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [19(b)(i)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/19/b/i)
 
-[^key-3a50a0f04ada904494574c09f7a6ecd1]: Textual amendment: [Reg. 119(8)(d)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/8/d) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [19(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/19/b/ii)
+[^c-3a50a0f04ada904494574c09f7a6ecd1]: Textual amendment: [Reg. 119(8)(d)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/8/d) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [19(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/19/b/ii)
 
-[^key-65ce4f74f7520f1cdf0a08b83baed9f9]: Textual amendment: Words in [reg. 119(8)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/8) omitted (1.4.2015) by virtue of [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [19(b)(iii)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/19/b/iii)
+[^c-65ce4f74f7520f1cdf0a08b83baed9f9]: Textual amendment: Words in [reg. 119(8)](https://www.legislation.gov.uk/uksi/2010/990/regulation/119/8) omitted (1.4.2015) by virtue of [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [19(b)(iii)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/19/b/iii)

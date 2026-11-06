@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14E. Rebated heavy oil and bioblend: private pleasure craft[^M_E_f6641c44-7d99-426e-b14f-ab3ec5ce559f][^M_C_f0b7a083-1699-46b5-d290-e91454a4a055][^key-9e4c7a0b2a64c433044f2b7817f9559a]
+## 14E. Rebated heavy oil and bioblend: private pleasure craft[^M_E_f6641c44-7d99-426e-b14f-ab3ec5ce559f][^M_C_f0b7a083-1699-46b5-d290-e91454a4a055][^c-9e4c7a0b2a64c433044f2b7817f9559a]
 
 *Extent: E+W+S*
 
@@ -49,9 +49,9 @@ R is the rate of the relevant rebate at the time of supply.
 
 (7) Regulations may provide, in cases where heavy oil or bioblend to which subsection (2) applies and other heavy oil or bioblend is taken into a craft as fuel, for the order in which the different substances are to be treated (for the purposes of this section and section 14F) as used.
 
-(7A)[^key-b575f695839f3e357a8bc2c8e6e95d1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7A)[^c-b575f695839f3e357a8bc2c8e6e95d1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7B)[^key-a8585780332b737f1401a272ea33b2c1] In this section “**private pleasure craft**” means any aircraft or vessel used otherwise than for commercial purposes by—
+(7B)[^c-a8585780332b737f1401a272ea33b2c1] In this section “**private pleasure craft**” means any aircraft or vessel used otherwise than for commercial purposes by—
 
 - (a) the owner of the aircraft or vessel, or
 - (b) any other person entitled to use it.
@@ -65,7 +65,7 @@ R is the rate of the relevant rebate at the time of supply.
 
 (8) In this section—
 
-- [^key-b0827613a85fb5ffe79ddb85f60c1629]...
+- [^c-b0827613a85fb5ffe79ddb85f60c1629]...
 - “**regulations**” means regulations under section 24(1) made for the purposes of this section, and
 - “**relevant declaration**”, in relation to a quantity of heavy oil or bioblend, means a declaration, made in the way and form specified by or under regulations, that the heavy oil or bioblend is to be used as fuel for propelling private pleasure craft.
 
@@ -105,13 +105,13 @@ R is the rate of the relevant rebate at the time of supply.
 
 [^M_C_f0b7a083-1699-46b5-d290-e91454a4a055]: Modification: S. 14E(2) excluded (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21), [23](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/23)
 
-[^key-9e4c7a0b2a64c433044f2b7817f9559a]: Textual amendment: Ss. 14E, 14F inserted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 15](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
+[^c-9e4c7a0b2a64c433044f2b7817f9559a]: Textual amendment: Ss. 14E, 14F inserted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 15](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
 
-[^key-b575f695839f3e357a8bc2c8e6e95d1e]: Textual amendment: S. 14E(7A) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 9 para. 6(2)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/9/paragraph/6/2) (with savings and transitional provisions in [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)
+[^c-b575f695839f3e357a8bc2c8e6e95d1e]: Textual amendment: S. 14E(7A) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 9 para. 6(2)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/9/paragraph/6/2) (with savings and transitional provisions in [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)
 
-[^key-a8585780332b737f1401a272ea33b2c1]: Textual amendment: S. 14E(7B)-(7D) inserted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 9 para. 6(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/9/paragraph/6/3) (with savings and transitional provisions in [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)
+[^c-a8585780332b737f1401a272ea33b2c1]: Textual amendment: S. 14E(7B)-(7D) inserted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 9 para. 6(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/9/paragraph/6/3) (with savings and transitional provisions in [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)
 
-[^key-b0827613a85fb5ffe79ddb85f60c1629]: Textual amendment: Words in s. 14E(8) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 9 para. 6(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/9/paragraph/6/4) (with savings and transitional provisions in [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)
+[^c-b0827613a85fb5ffe79ddb85f60c1629]: Textual amendment: Words in s. 14E(8) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 9 para. 6(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/9/paragraph/6/4) (with savings and transitional provisions in [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)
 
 [^M_E_26ff1e47-1be1-4a32-f2ce-86e2155f1f6a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

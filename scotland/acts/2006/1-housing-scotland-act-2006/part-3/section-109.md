@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Enforcement authorities[^key-a8cdd92cfa1fa1360ed984823e7e4c77]
+## 109. Enforcement authorities[^c-a8cdd92cfa1fa1360ed984823e7e4c77]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8cdd92cfa1fa1360ed984823e7e4c77]: Commencement: S. 109 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-a8cdd92cfa1fa1360ed984823e7e4c77]: Commencement: S. 109 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

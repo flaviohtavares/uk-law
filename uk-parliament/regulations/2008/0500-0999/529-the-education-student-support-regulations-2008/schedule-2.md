@@ -24,47 +24,47 @@ summary: ''
 
 Regulations 5(1), 117(1) and 134(1)
 
-**1.**[^key-5955e59c603c83a1523f8f28ad7fb3ee] A first degree course.
+**1.**[^c-5955e59c603c83a1523f8f28ad7fb3ee] A first degree course.
 
-**2.**[^key-067a36aa652deed9a27703bd24e75d2c] A course for the Diploma of Higher Education.
+**2.**[^c-067a36aa652deed9a27703bd24e75d2c] A course for the Diploma of Higher Education.
 
-**3.**[^key-eda759695bab6a4e7420907f746155db] A course for the Higher National Diploma or Higher National Certificate of—
+**3.**[^c-eda759695bab6a4e7420907f746155db] A course for the Higher National Diploma or Higher National Certificate of—
 
 - (a) the Business & Technician Education Council; or
 - (b) the Scottish Qualifications Authority.
 
-**4.**[^key-be369f003af38a8e770beb69600d383c] A course for the Certificate of Higher Education.
+**4.**[^c-be369f003af38a8e770beb69600d383c] A course for the Certificate of Higher Education.
 
-**5.**[^key-5403bada2483c7c92ea69b92969185ca] A course for the initial training of teachers.
+**5.**[^c-5403bada2483c7c92ea69b92969185ca] A course for the initial training of teachers.
 
-**6.**[^key-e87ea929c9f0005bd0bea45789fdae1e] A course for the further training of youth and community workers.
+**6.**[^c-e87ea929c9f0005bd0bea45789fdae1e] A course for the further training of youth and community workers.
 
-**7.**[^key-a4f730ca5417dca449eba61898ee6dc8] A course in preparation for a professional examination of a standard higher than that of—
+**7.**[^c-a4f730ca5417dca449eba61898ee6dc8] A course in preparation for a professional examination of a standard higher than that of—
 
 - (a) examination at advanced level for the General Certificate of Education or the examination at higher level for the Scottish Certificate of Education; or
 - (b) the examination for the National Certificate or the National Diploma of either of the bodies mentioned in paragraph 3,
 
 not being a course for entry to which a first degree (or equivalent qualification) is normally required.
 
-**8.**[^key-76aaafff1c0a026f8321d86ac8077be6] A course—
+**8.**[^c-76aaafff1c0a026f8321d86ac8077be6] A course—
 
 - (a) providing education (whether or not in preparation for an examination) the standard of which is higher than that of courses providing education in preparation for any of the examinations mentioned in paragraph 7(a) or (b) but not higher than that of a first degree course; and
 - (b) for entry to which a first degree (or equivalent qualification) is not normally required.
 
 ## Annotations
 
-[^key-5955e59c603c83a1523f8f28ad7fb3ee]: Commencement: Sch. 2 para. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-5955e59c603c83a1523f8f28ad7fb3ee]: Commencement: Sch. 2 para. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
-[^key-067a36aa652deed9a27703bd24e75d2c]: Commencement: Sch. 2 para. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-067a36aa652deed9a27703bd24e75d2c]: Commencement: Sch. 2 para. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
-[^key-eda759695bab6a4e7420907f746155db]: Commencement: Sch. 2 para. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-eda759695bab6a4e7420907f746155db]: Commencement: Sch. 2 para. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
-[^key-be369f003af38a8e770beb69600d383c]: Commencement: Sch. 2 para. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-be369f003af38a8e770beb69600d383c]: Commencement: Sch. 2 para. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
-[^key-5403bada2483c7c92ea69b92969185ca]: Commencement: Sch. 2 para. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-5403bada2483c7c92ea69b92969185ca]: Commencement: Sch. 2 para. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
-[^key-e87ea929c9f0005bd0bea45789fdae1e]: Commencement: Sch. 2 para. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-e87ea929c9f0005bd0bea45789fdae1e]: Commencement: Sch. 2 para. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
-[^key-a4f730ca5417dca449eba61898ee6dc8]: Commencement: Sch. 2 para. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-a4f730ca5417dca449eba61898ee6dc8]: Commencement: Sch. 2 para. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
-[^key-76aaafff1c0a026f8321d86ac8077be6]: Commencement: Sch. 2 para. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-76aaafff1c0a026f8321d86ac8077be6]: Commencement: Sch. 2 para. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

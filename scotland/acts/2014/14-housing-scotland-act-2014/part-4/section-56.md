@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Information and inspection: offence[^key-7197477d360f6a27ccdcdb4523d19f94]
+## 56. Information and inspection: offence[^c-7197477d360f6a27ccdcdb4523d19f94]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7197477d360f6a27ccdcdb4523d19f94]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2014/14/section/56) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-7197477d360f6a27ccdcdb4523d19f94]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2014/14/section/56) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

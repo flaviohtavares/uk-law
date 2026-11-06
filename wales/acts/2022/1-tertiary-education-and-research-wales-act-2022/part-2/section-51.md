@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Duty to monitor, and promote improvement in, the quality of regulated tertiary education[^key-f1ef7d3b0c034a60c666ffe6b6c4980b][^key-aad905dec6248ae768f4bb424a52a655][^key-35c03bd0c712d5a2b8ce4ab201e1f22e]
+## 51. Duty to monitor, and promote improvement in, the quality of regulated tertiary education[^c-f1ef7d3b0c034a60c666ffe6b6c4980b][^c-aad905dec6248ae768f4bb424a52a655][^c-35c03bd0c712d5a2b8ce4ab201e1f22e]
 
 *Extent: E+W*
 
@@ -27,8 +27,8 @@ The Commission must monitor, and promote improvement in, the quality of tertiary
 
 ## Annotations
 
-[^key-f1ef7d3b0c034a60c666ffe6b6c4980b]: Commencement: S. 51 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-f1ef7d3b0c034a60c666ffe6b6c4980b]: Commencement: S. 51 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-aad905dec6248ae768f4bb424a52a655]: Commencement: [S. 51](https://www.legislation.gov.uk/asc/2022/1/section/51) in force at 5.4.2025 for specified purposes by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 8(1)](https://www.legislation.gov.uk/wsi/2025/432/article/8/1) (with [art. 8(3)-(5)](https://www.legislation.gov.uk/wsi/2025/432/article/8/3))
+[^c-aad905dec6248ae768f4bb424a52a655]: Commencement: [S. 51](https://www.legislation.gov.uk/asc/2022/1/section/51) in force at 5.4.2025 for specified purposes by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 8(1)](https://www.legislation.gov.uk/wsi/2025/432/article/8/1) (with [art. 8(3)-(5)](https://www.legislation.gov.uk/wsi/2025/432/article/8/3))
 
-[^key-35c03bd0c712d5a2b8ce4ab201e1f22e]: Commencement: [S. 51](https://www.legislation.gov.uk/asc/2022/1/section/51) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 4(1)](https://www.legislation.gov.uk/wsi/2026/62/article/4/1) (with [art. 4(2)-(6)](https://www.legislation.gov.uk/wsi/2026/62/article/4/2))
+[^c-35c03bd0c712d5a2b8ce4ab201e1f22e]: Commencement: [S. 51](https://www.legislation.gov.uk/asc/2022/1/section/51) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 4(1)](https://www.legislation.gov.uk/wsi/2026/62/article/4/1) (with [art. 4(2)-(6)](https://www.legislation.gov.uk/wsi/2026/62/article/4/2))

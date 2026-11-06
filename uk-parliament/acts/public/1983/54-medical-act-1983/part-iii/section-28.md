@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. The Review Board for Overseas Qualified Practitioners.[^key-8e84f7e9e306f146e3680fd92bced8c2]
+## 28. The Review Board for Overseas Qualified Practitioners.[^c-8e84f7e9e306f146e3680fd92bced8c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e84f7e9e306f146e3680fd92bced8c2]: Textual amendment: S. 28 omitted (1.4.2005 as notified in the London Gazette dated 14.1.2005) by virtue of [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [6(11)](https://www.legislation.gov.uk/uksi/2002/3135/article/6/11) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
+[^c-8e84f7e9e306f146e3680fd92bced8c2]: Textual amendment: S. 28 omitted (1.4.2005 as notified in the London Gazette dated 14.1.2005) by virtue of [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [6(11)](https://www.legislation.gov.uk/uksi/2002/3135/article/6/11) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))

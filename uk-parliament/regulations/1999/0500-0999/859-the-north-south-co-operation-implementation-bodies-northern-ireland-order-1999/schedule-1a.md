@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1A — TEXTS OF THE LETTERS EXCHANGED BY THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF IRELAND CONSTITUTING THE SUPPLEMENTARY AGREEMENT[^key-4cb71654243bfa7dfa04d456169e7fcc]
+## SCHEDULE 1A — TEXTS OF THE LETTERS EXCHANGED BY THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF IRELAND CONSTITUTING THE SUPPLEMENTARY AGREEMENT[^c-4cb71654243bfa7dfa04d456169e7fcc]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ Minister for Foreign Affairs
 
 ## Annotations
 
-[^key-4cb71654243bfa7dfa04d456169e7fcc]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1999/859/schedule/1A) inserted (2.12.1999) by [The North/South Co-operation (Implementation Bodies) (Amendment) (Northern Ireland) Order 1999 (S.I. 1999/2062)](https://www.legislation.gov.uk/uksi/1999/2062), [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/2062/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/2062/schedule); [S.I. 1999/3208](https://www.legislation.gov.uk/uksi/1999/3208), [art. 2](https://www.legislation.gov.uk/uksi/1999/3208/article/2)
+[^c-4cb71654243bfa7dfa04d456169e7fcc]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1999/859/schedule/1A) inserted (2.12.1999) by [The North/South Co-operation (Implementation Bodies) (Amendment) (Northern Ireland) Order 1999 (S.I. 1999/2062)](https://www.legislation.gov.uk/uksi/1999/2062), [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/2062/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/2062/schedule); [S.I. 1999/3208](https://www.legislation.gov.uk/uksi/1999/3208), [art. 2](https://www.legislation.gov.uk/uksi/1999/3208/article/2)

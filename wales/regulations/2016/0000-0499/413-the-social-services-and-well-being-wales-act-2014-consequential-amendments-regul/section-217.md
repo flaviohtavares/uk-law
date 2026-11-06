@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**217.**[^key-ddc2ed041cbdfa5a235c3116c2c647fc] In section 25(10)(b) (co-operation to improve well-being: Wales) for sub-paragraph (i) substitute—
+**217.**[^c-ddc2ed041cbdfa5a235c3116c2c647fc] In section 25(10)(b) (co-operation to improve well-being: Wales) for sub-paragraph (i) substitute—
 
 > - (i) services under sections 105 to 118 and 176 of the Social Services and Well-being (Wales) Act 2014; or
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddc2ed041cbdfa5a235c3116c2c647fc]: Commencement: Reg. 217 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-ddc2ed041cbdfa5a235c3116c2c647fc]: Commencement: Reg. 217 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

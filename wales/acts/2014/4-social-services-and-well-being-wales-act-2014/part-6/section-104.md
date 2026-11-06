@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Young people entitled to support under sections 105 to 115[^key-467c5d431b472dc0507ab2f0ba4c7a53]
+## 104. Young people entitled to support under sections 105 to 115[^c-467c5d431b472dc0507ab2f0ba4c7a53]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 - (c) accommodated in a private children's home,
 - (d) accommodated for a consecutive period of at least three months—
   - (i) by or on behalf of a Local Health Board or Special Health Authority,
-  - (ii) by or on behalf of an integrated care board[^key-ab8a741df2bddac9ac37a63fed9e4329] or NHS England[^key-8cc08a72816363c439f9a821b1c9e110],
+  - (ii) by or on behalf of an integrated care board[^c-ab8a741df2bddac9ac37a63fed9e4329] or NHS England[^c-8cc08a72816363c439f9a821b1c9e110],
   - (iii) by or on behalf of a local authority in the exercise of education functions,
   - (iv) by or on behalf of a local authority in England in the exercise of education functions,
   - (v) in any care home or independent hospital, or
@@ -80,8 +80,8 @@ summary: ''
 
 ## Annotations
 
-[^key-467c5d431b472dc0507ab2f0ba4c7a53]: Commencement: S. 104 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-467c5d431b472dc0507ab2f0ba4c7a53]: Commencement: S. 104 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-ab8a741df2bddac9ac37a63fed9e4329]: Textual amendment: Words in [s. 104(3)(d)(ii)](https://www.legislation.gov.uk/anaw/2014/4/section/104/3/d/ii) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 221(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/221/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ab8a741df2bddac9ac37a63fed9e4329]: Textual amendment: Words in [s. 104(3)(d)(ii)](https://www.legislation.gov.uk/anaw/2014/4/section/104/3/d/ii) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 221(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/221/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-8cc08a72816363c439f9a821b1c9e110]: Textual amendment: Words in [s. 104(3)(d)(ii)](https://www.legislation.gov.uk/anaw/2014/4/section/104/3/d/ii) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/27/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-8cc08a72816363c439f9a821b1c9e110]: Textual amendment: Words in [s. 104(3)(d)(ii)](https://www.legislation.gov.uk/anaw/2014/4/section/104/3/d/ii) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/27/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

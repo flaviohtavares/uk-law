@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Appeals against deprivation orders and seizure orders[^key-1baa03069ef2f9b4921e522f85e398eb]
+## 49. Appeals against deprivation orders and seizure orders[^c-1baa03069ef2f9b4921e522f85e398eb]
 
 *Extent: S*
 
 (1) Any deprivation order is, for the purposes of any appeal under the Criminal Procedure (Scotland) Act 1995 (c. 46), to be treated as a sentence.
 
-(2) Where a deprivation order is made, any person (apart from a person who may appeal against the order by virtue of subsection (1)) who has an interest in any animal to which the order applies may appeal to the Sheriff Appeal Court[^key-3a7f7ecf08ba228d3fc89c711b9aaa5a] against the order by the same procedure as applies under subsection (1) in relation to a deprivation order.
+(2) Where a deprivation order is made, any person (apart from a person who may appeal against the order by virtue of subsection (1)) who has an interest in any animal to which the order applies may appeal to the Sheriff Appeal Court[^c-3a7f7ecf08ba228d3fc89c711b9aaa5a] against the order by the same procedure as applies under subsection (1) in relation to a deprivation order.
 
 (3) The disqualified person by reference to whom a seizure order is made, or any person (apart from that disqualified person) who entered the process prior to the making of the order, may appeal to the sheriff principal against the order.
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1baa03069ef2f9b4921e522f85e398eb]: Commencement: S. 49 in force at 12.12.2007 by [S.S.I. 2007/519](https://www.legislation.gov.uk/ssi/2007/519), [art. 2](https://www.legislation.gov.uk/ssi/2007/519/article/2)
+[^c-1baa03069ef2f9b4921e522f85e398eb]: Commencement: S. 49 in force at 12.12.2007 by [S.S.I. 2007/519](https://www.legislation.gov.uk/ssi/2007/519), [art. 2](https://www.legislation.gov.uk/ssi/2007/519/article/2)
 
-[^key-3a7f7ecf08ba228d3fc89c711b9aaa5a]: Textual amendment: Words in [s. 49(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/49/2) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/11) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-3a7f7ecf08ba228d3fc89c711b9aaa5a]: Textual amendment: Words in [s. 49(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/49/2) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/11) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-a774bbfea0a9cce1cdc1c3ddad2ecbb1]
+## 2. Interpretation[^c-a774bbfea0a9cce1cdc1c3ddad2ecbb1]
 
 *Extent: E+W*
 
@@ -79,7 +79,7 @@ summary: ''
 - “owner”, in relation to land, has the same meaning as in section 7 (interpretation) of the Acquisition of Land Act 1981[^f00013];
 - “parameters table” means the parameters table certified as the parameters table by the Secretary of State for the purposes of this Order;
 - “PD Teesport” means PD Teesport Limited, company number 02636007, whose registered office is at 17 – 27 Queens Square, Middlesbrough, TS2 1AH;
-- “[^key-fecd48d2d1bcb46459504aaff9b1c459]**phase 1a**” means that part of the authorised development required (in addition to phase 1b) to be completed in order to facilitate the movement of 6.5 million tonnes per annum of polyhalite comprising in summary—
+- “[^c-fecd48d2d1bcb46459504aaff9b1c459]**phase 1a**” means that part of the authorised development required (in addition to phase 1b) to be completed in order to facilitate the movement of 6.5 million tonnes per annum of polyhalite comprising in summary—
   - (a) site compounds;
   - (b) construction of a quay 28 metres wide and 280 metres in length including ship loaders and ship loader rails;
   - (c) dredging of up to 750,000 cubic metres of material from the approach channel and berth pocket;
@@ -95,7 +95,7 @@ summary: ''
   - (a) extension of quay to provide total quay length of 486 metres including ship loader and ship loader rails;
   - (b) dredging of up to 372,000 cubic metres of material from the approach channel and berth pocket;
   - (c) installation of second surge bin;
-  - (d) installation of second conveyor within the conveyor housing installed during phase 1b[^key-00b56f218b21daa8b20d0c8d4969dcac]; and
+  - (d) installation of second conveyor within the conveyor housing installed during phase 1b[^c-00b56f218b21daa8b20d0c8d4969dcac]; and
   - (e) provision of ancillary infrastructure;
 - “pipeline corridor” means the corridor shown coloured yellow on the pipeline corridor plans;
 - “pipeline corridor plans” means the plans certified by the Secretary of State as the pipeline corridor plans for the purposes of this Order;
@@ -137,7 +137,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a774bbfea0a9cce1cdc1c3ddad2ecbb1]: Commencement: Art. 2 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-a774bbfea0a9cce1cdc1c3ddad2ecbb1]: Commencement: Art. 2 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
 [^f00005]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -157,8 +157,8 @@ summary: ''
 
 [^f00013]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). The definition of “owner” was amended by paragraph 9 of schedule 15 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to section 7 which are not relevant to this Order.
 
-[^key-fecd48d2d1bcb46459504aaff9b1c459]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2016/772/article/2) substituted (26.8.2022) by [The York Potash Harbour Facilities (Amendment) Order 2022 (S.I. 2022/919)](https://www.legislation.gov.uk/uksi/2022/919), [arts. 1](https://www.legislation.gov.uk/uksi/2022/919/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/919/article/2/2/a)
+[^c-fecd48d2d1bcb46459504aaff9b1c459]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2016/772/article/2) substituted (26.8.2022) by [The York Potash Harbour Facilities (Amendment) Order 2022 (S.I. 2022/919)](https://www.legislation.gov.uk/uksi/2022/919), [arts. 1](https://www.legislation.gov.uk/uksi/2022/919/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/919/article/2/2/a)
 
-[^key-00b56f218b21daa8b20d0c8d4969dcac]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2016/772/article/2) substituted (26.8.2022) by [The York Potash Harbour Facilities (Amendment) Order 2022 (S.I. 2022/919)](https://www.legislation.gov.uk/uksi/2022/919), [arts. 1](https://www.legislation.gov.uk/uksi/2022/919/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/919/article/2/2/b)
+[^c-00b56f218b21daa8b20d0c8d4969dcac]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2016/772/article/2) substituted (26.8.2022) by [The York Potash Harbour Facilities (Amendment) Order 2022 (S.I. 2022/919)](https://www.legislation.gov.uk/uksi/2022/919), [arts. 1](https://www.legislation.gov.uk/uksi/2022/919/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/919/article/2/2/b)
 
 [^f00014]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

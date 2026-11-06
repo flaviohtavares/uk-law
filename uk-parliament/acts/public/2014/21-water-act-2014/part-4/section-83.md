@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Period of operation[^key-a82575d568ce34f2151d10e801e8eb34]
+## 83. Period of operation[^c-a82575d568ce34f2151d10e801e8eb34]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ including provision amending or repealing an enactment.
 
 ## Annotations
 
-[^key-a82575d568ce34f2151d10e801e8eb34]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2014/21/section/83) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(h)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/h)
+[^c-a82575d568ce34f2151d10e801e8eb34]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2014/21/section/83) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(h)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/h)

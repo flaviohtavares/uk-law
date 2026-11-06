@@ -48,13 +48,13 @@ These Regulations are made in exercise of the powers conferred by section 24 of 
 
 The Secretary of State makes the following Regulations:
 
-## 1. Citation, commencement and extent[^key-e3a07e862eadbefb0b7e684b0d1fedb5]
+## 1. Citation, commencement and extent[^c-e3a07e862eadbefb0b7e684b0d1fedb5]
 
 (1) These Regulations may be cited as the Local Government (Discretionary Payments) (Injury Allowances) Regulations 2011 and shall come into force on 16th January 2012.
 
 (2) These Regulations extend to England and Wales[^f00002].
 
-## 2. General interpretation[^key-e3e0759c328fca038844179f4d292d66]
+## 2. General interpretation[^c-e3e0759c328fca038844179f4d292d66]
 
 (1) In these Regulations—
 
@@ -92,7 +92,7 @@ The Secretary of State makes the following Regulations:
 
 the person shall be treated as having sustained the injury in the course of carrying out his or her work.
 
-## 3. Reduction in remuneration[^key-0b453f27202f970042807a3094239013]
+## 3. Reduction in remuneration[^c-0b453f27202f970042807a3094239013]
 
 (1) If—
 
@@ -119,7 +119,7 @@ the person may, subject to paragraph (2), be entitled to an allowance while the 
 - (a) shall take into account a deduction for the purpose of national insurance contributions; and
 - (b) shall not be regarded as pensionable pay for the purposes of regulation 4 (meaning of pensionable pay) of the Benefits Regulations[^f00009].
 
-## 4. Loss of employment through permanent incapacity[^key-8012eea9dc7c95273ae9d04d4b63c7ff]
+## 4. Loss of employment through permanent incapacity[^c-8012eea9dc7c95273ae9d04d4b63c7ff]
 
 (1) If—
 
@@ -152,7 +152,7 @@ the annual rate is that which would have applied if he or she had been in receip
 
 (6) In this regulation “gainful employment” means paid employment for not less than 30 hours in each week for a period of not less than 12 months.
 
-## 5. Certification of injury or disease[^key-8b77f0643611e95b27fc684298a8f3dd]
+## 5. Certification of injury or disease[^c-8b77f0643611e95b27fc684298a8f3dd]
 
 (1) Before making a determination under regulation 3 or 4 (as the case may be), the relevant employer must obtain a certificate from an independent registered medical practitioner (“IRMP”) qualified in occupational health medicine, as to whether in his or her opinion the person—
 
@@ -168,7 +168,7 @@ the annual rate is that which would have applied if he or she had been in receip
 - (a) holds a diploma in occupational health medicine (D Occ Med) or an equivalent qualification issued by a competent authority in an EEA state; and for the purposes of this definition, “competent authority” has the meaning given by section 55(1) of the Medical Act 1983[^f00010]; or
 - (b) is an Associate, a Member or a Fellow of the Faculty of Occupational Medicine or an equivalent institution of an EEA State.
 
-## 6. Allowances for pensioners[^key-3078a8bc94dfda4ae1202d90c6a4f89a]
+## 6. Allowances for pensioners[^c-3078a8bc94dfda4ae1202d90c6a4f89a]
 
 (1) Where a person ceases to be employed in a relevant employment, if—
 
@@ -180,7 +180,7 @@ the relevant employer may, subject to regulation 8, pay the person an allowance 
 
 (2) An allowance under this regulation continues for such period as the relevant employer may determine.
 
-## 7. Death benefits[^key-be0101d016a9be22c5285782aa8005ca]
+## 7. Death benefits[^c-be0101d016a9be22c5285782aa8005ca]
 
 (1) If—
 
@@ -193,7 +193,7 @@ then subject to paragraph (2), if the deceased leaves a surviving—
 
 - (i) spouse;
 - (ii) civil partner;
-- (iii) [^key-8da1736668f2a1129c2952cbffa8617e]... cohabiting partner; or
+- (iii) [^c-8da1736668f2a1129c2952cbffa8617e]... cohabiting partner; or
 - (iv) dependant,
 
 such persons may be entitled to an annual allowance or lump sum.
@@ -202,7 +202,7 @@ such persons may be entitled to an annual allowance or lump sum.
 
 (3) An allowance to a dependant shall continue for such period as the relevant employer may determine.
 
-(4)[^key-82ac7914a4f48f89118980e572c78216] “**Cohabiting partner**” means a person (A) who the relevant employer is satisfied fulfilled the condition in paragraph (4A) for a continuous period of at least 2 years ending on the date the person (B) who was, or had been, employed in a relevant employment died.
+(4)[^c-82ac7914a4f48f89118980e572c78216] “**Cohabiting partner**” means a person (A) who the relevant employer is satisfied fulfilled the condition in paragraph (4A) for a continuous period of at least 2 years ending on the date the person (B) who was, or had been, employed in a relevant employment died.
 
 (4A) The condition in this paragraph is that—
 
@@ -215,13 +215,13 @@ such persons may be entitled to an annual allowance or lump sum.
 
 - (a) a child of the deceased if the child—
   - (i) has not reached the age of 23, or
-  - (ii) has reached that age and, in the opinion of the relevant employer, was at the date of the deceased’s death dependent[^key-8de9e2f33c063a5e09024f99b8e80177] on the deceased because of physical or mental impairment;
-- (b) a person who is not a spouse, civil partner, or [^key-a3f2ca4ae1f9a037d8b7ac9ad57823a0]... cohabiting partner of the deceased at the date of the deceased’s death and is not a child of the deceased if, in the opinion of the relevant employer, the person was at the date of the deceased’s death—
-  - (i) financially dependent[^key-0622be71d9df0dd2a76a1051c815f6aa] on the deceased,
+  - (ii) has reached that age and, in the opinion of the relevant employer, was at the date of the deceased’s death dependent[^c-8de9e2f33c063a5e09024f99b8e80177] on the deceased because of physical or mental impairment;
+- (b) a person who is not a spouse, civil partner, or [^c-a3f2ca4ae1f9a037d8b7ac9ad57823a0]... cohabiting partner of the deceased at the date of the deceased’s death and is not a child of the deceased if, in the opinion of the relevant employer, the person was at the date of the deceased’s death—
+  - (i) financially dependent[^c-0622be71d9df0dd2a76a1051c815f6aa] on the deceased,
   - (ii) in a financial relationship with the deceased which was one of mutual dependence, or
-  - (iii) dependent[^key-40612d0b86e4f9e6c59d3336af4b246e] on the deceased because of physical or mental impairment.
+  - (iii) dependent[^c-40612d0b86e4f9e6c59d3336af4b246e] on the deceased because of physical or mental impairment.
 
-## 8. Considerations in determining amount of allowances[^key-e539d9c86410f1caa191d0ac03b93e81]
+## 8. Considerations in determining amount of allowances[^c-e539d9c86410f1caa191d0ac03b93e81]
 
 (1) In determining the amount of an allowance under regulation 3 or 4 or of an allowance or a lump sum under regulation 7, the relevant employer is to have regard to all the circumstances of the case, including the matters specified in paragraph (2) (except in so far as they are excluded by paragraph (3)).
 
@@ -239,7 +239,7 @@ such persons may be entitled to an annual allowance or lump sum.
 - (b) to any right which accrued before that time; or
 - (c) to any damages or sum received by virtue of such a right.
 
-## 9. First instance decisions[^key-ac6b6b2754c3995ea9bf0a08541c525d]
+## 9. First instance decisions[^c-ac6b6b2754c3995ea9bf0a08541c525d]
 
 (1) Any question concerning the rights of any person or his or her eligibility to be considered for any allowance or lump sum under these Regulations shall be decided in the first instance by the relevant LGPS employer, that is to say the LGPS employer who last employed the person in respect of whose employment the question arises.
 
@@ -249,7 +249,7 @@ such persons may be entitled to an annual allowance or lump sum.
 
 (4) A relevant employer who has decided any question under this regulation shall, as soon as is reasonably practicable after doing so, send a written notification of their decision to every person affected by it.
 
-## 10. Notification of first instance decisions[^key-dabd7439c3389ae8b7089d999cc8b16d]
+## 10. Notification of first instance decisions[^c-dabd7439c3389ae8b7089d999cc8b16d]
 
 (1) A notification of a decision that the person is not entitled to an allowance or lump sum must contain the grounds for the decision.
 
@@ -265,7 +265,7 @@ such persons may be entitled to an annual allowance or lump sum.
 
 (5) The person specified in paragraph (4)(c) must not be the person appointed by the relevant employer to make the first instance decision under regulation 9.
 
-## 11. Applications to reconsider a decision[^key-9b2a0dc574c5323c442d7e4269d95646]
+## 11. Applications to reconsider a decision[^c-9b2a0dc574c5323c442d7e4269d95646]
 
 (1) This regulation applies where a person in relation to whom a decision is made under regulation 9 disagrees with the decision of the relevant employer.
 
@@ -288,7 +288,7 @@ such persons may be entitled to an annual allowance or lump sum.
 - (a) the period of six months beginning with the date notification of the decision is given under regulation 10; or
 - (b) such longer period as the person giving the decision on the disagreement considers reasonable.
 
-## 12. Notice of decision on reconsideration[^key-4059c77fd4ab97a302eb4d6b5d500789]
+## 12. Notice of decision on reconsideration[^c-4059c77fd4ab97a302eb4d6b5d500789]
 
 (1) A decision on a disagreement to which an application under regulation 11 relates must be given by notice in writing to—
 
@@ -307,11 +307,11 @@ before the expiry of the period of two months beginning with the date the applic
 - (a) a statement of the decision;
 - (b) a reference to any legislation on which the person making the decision relied;
 - (c) in a case where the disagreement relates to the exercise of a discretion, a reference to the legislation conferring the discretion;
-- (d) a statement that the Money and Pensions Service[^key-3dc5b04c6205d37c4365d03dbf35c62b] is available to give assistance in connection with any difficulty over any entitlement to an allowance under these Regulations that remains unresolved;
+- (d) a statement that the Money and Pensions Service[^c-3dc5b04c6205d37c4365d03dbf35c62b] is available to give assistance in connection with any difficulty over any entitlement to an allowance under these Regulations that remains unresolved;
 - (e) a statement that the Pensions Ombudsman may investigate and determine any complaint or dispute of fact or law in relation to the payment of allowances by way of compensation to or in respect of persons in relation to whom regulations may be made under section 7 of the Superannuation Act 1972[^f00013], and made or referred in accordance with the Pensions Schemes Act 1993[^f00014]; and
-- (f) the addresses at which the Money and Pensions Service[^key-014e2f07adad363b46bd7c2aacbe2bf0] and the Pensions Ombudsman may be contacted.
+- (f) the addresses at which the Money and Pensions Service[^c-014e2f07adad363b46bd7c2aacbe2bf0] and the Pensions Ombudsman may be contacted.
 
-## 13. Rights of representation[^key-49f549e3381519db186b00b32a50751d]
+## 13. Rights of representation[^c-49f549e3381519db186b00b32a50751d]
 
 (1) An application under regulation 11 may be made or continued on behalf of the claimant by a representative nominated by him or her.
 
@@ -326,7 +326,7 @@ before the expiry of the period of two months beginning with the date the applic
 - (a) notice under regulation 12(1); or
 - (b) an interim reply under regulation 12(2).
 
-## 14. Policy statements[^key-2441b839a2c5a02803443a112c2169fd]
+## 14. Policy statements[^c-2441b839a2c5a02803443a112c2169fd]
 
 (1) An LGPS employer must formulate, publish and keep under review the policy that it applies in the exercise of its discretionary powers to make any award under these Regulations.
 
@@ -337,11 +337,11 @@ before the expiry of the period of two months beginning with the date the applic
 - (a) have regard to the extent to which the exercise of its discretionary powers (in accordance with the policy), unless properly limited, could lead to a serious loss of confidence in the public service; and
 - (b) be satisfied that the policy is workable, affordable and reasonable having regard to the foreseeable costs.
 
-## 15. Finance[^key-7d26c32af15e19235a1140a68ec19dd7]
+## 15. Finance[^c-7d26c32af15e19235a1140a68ec19dd7]
 
 The cost of any payment to be made under these Regulations is not to be met out of any pension fund.
 
-## 16. Revocation of Regulations, transitional provisions and savings[^key-535341e55d62ff656a391d4300b9aaf6]
+## 16. Revocation of Regulations, transitional provisions and savings[^c-535341e55d62ff656a391d4300b9aaf6]
 
 (1) Subject to the transitional provisions and savings in paragraph (2), the Local Government (Discretionary Payments) Regulations 1996[^f00015] (“the 1996 Regulations”) are revoked so far as not previously revoked.
 
@@ -401,11 +401,11 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 24 was amended by the Police Pensions Act [1976 (c. 35)](https://www.legislation.gov.uk/ukpga/1976/35) and the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^key-e3a07e862eadbefb0b7e684b0d1fedb5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-e3a07e862eadbefb0b7e684b0d1fedb5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
 [^f00002]: Footnote: The Secretary of State’s functions under section 24 of the Superannuation Act 1972 in so far as they were exercisable in relation to Scotland were devolved to Scottish Ministers by section 63 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) and article 2 of, and Schedule 1 to, the Scotland Act 1998 (Transfer of Functions to Scottish Ministers etc) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
 
-[^key-e3e0759c328fca038844179f4d292d66]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/2954/regulation/2) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-e3e0759c328fca038844179f4d292d66]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/2954/regulation/2) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2008/239](https://www.legislation.gov.uk/uksi/2008/239) to which there are amendments not relevant to these Regulations.
 
@@ -419,60 +419,60 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00008]: Footnote: Section 52 was amended by the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-0b453f27202f970042807a3094239013]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/2954/regulation/3) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-0b453f27202f970042807a3094239013]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/2954/regulation/3) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
 [^f00009]: Footnote: Regulation 4 was amended by [S.I. 2009/3150](https://www.legislation.gov.uk/uksi/2009/3150); [S.I. 2010/528](https://www.legislation.gov.uk/uksi/2010/528) and [S.I. 2010/2090](https://www.legislation.gov.uk/uksi/2010/2090).
 
-[^key-8012eea9dc7c95273ae9d04d4b63c7ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/2954/regulation/4) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-8012eea9dc7c95273ae9d04d4b63c7ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/2954/regulation/4) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
-[^key-8b77f0643611e95b27fc684298a8f3dd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/2954/regulation/5) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-8b77f0643611e95b27fc684298a8f3dd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/2954/regulation/5) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
 [^f00010]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54); the definition of “competent authority” in section 55(1) was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-3078a8bc94dfda4ae1202d90c6a4f89a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/2954/regulation/6) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-3078a8bc94dfda4ae1202d90c6a4f89a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/2954/regulation/6) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
 [^f00011]: Footnote: Regulation 8 was amended by [S.I. 2007/1488](https://www.legislation.gov.uk/uksi/2007/1488) and [S.I. 2008/1083](https://www.legislation.gov.uk/uksi/2008/1083).
 
-[^key-be0101d016a9be22c5285782aa8005ca]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-be0101d016a9be22c5285782aa8005ca]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
-[^key-8da1736668f2a1129c2952cbffa8617e]: Textual amendment: Word in [reg. 7(1)(iii)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/1/iii) omitted (1.4.2026) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/a)
+[^c-8da1736668f2a1129c2952cbffa8617e]: Textual amendment: Word in [reg. 7(1)(iii)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/1/iii) omitted (1.4.2026) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/a)
 
-[^key-82ac7914a4f48f89118980e572c78216]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/4)[(4A)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/4A) substituted for [reg. 7(4)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/4) (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/b)
+[^c-82ac7914a4f48f89118980e572c78216]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/4)[(4A)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/4A) substituted for [reg. 7(4)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/4) (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/b)
 
-[^key-8de9e2f33c063a5e09024f99b8e80177]: Textual amendment: Word in [reg. 7(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/5/a/ii) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(c)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/c/i)
+[^c-8de9e2f33c063a5e09024f99b8e80177]: Textual amendment: Word in [reg. 7(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/5/a/ii) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(c)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/c/i)
 
-[^key-a3f2ca4ae1f9a037d8b7ac9ad57823a0]: Textual amendment: Word in [reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/5/b) omitted (1.4.2026) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(c)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/c/ii)
+[^c-a3f2ca4ae1f9a037d8b7ac9ad57823a0]: Textual amendment: Word in [reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/5/b) omitted (1.4.2026) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(c)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/c/ii)
 
-[^key-0622be71d9df0dd2a76a1051c815f6aa]: Textual amendment: Word in [reg. 7(5)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/5/b/i) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(c)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/c/i)
+[^c-0622be71d9df0dd2a76a1051c815f6aa]: Textual amendment: Word in [reg. 7(5)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/5/b/i) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(c)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/c/i)
 
-[^key-40612d0b86e4f9e6c59d3336af4b246e]: Textual amendment: Word in [reg. 7(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/5/b/iii) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(c)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/c/i)
+[^c-40612d0b86e4f9e6c59d3336af4b246e]: Textual amendment: Word in [reg. 7(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/7/5/b/iii) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [2(c)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/2/c/i)
 
-[^key-e539d9c86410f1caa191d0ac03b93e81]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/2954/regulation/8) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-e539d9c86410f1caa191d0ac03b93e81]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/2954/regulation/8) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
 [^f00012]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-ac6b6b2754c3995ea9bf0a08541c525d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/2954/regulation/9) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-ac6b6b2754c3995ea9bf0a08541c525d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/2954/regulation/9) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
-[^key-dabd7439c3389ae8b7089d999cc8b16d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/2954/regulation/10) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-dabd7439c3389ae8b7089d999cc8b16d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/2954/regulation/10) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
-[^key-9b2a0dc574c5323c442d7e4269d95646]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/2954/regulation/11) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-9b2a0dc574c5323c442d7e4269d95646]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/2954/regulation/11) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
-[^key-4059c77fd4ab97a302eb4d6b5d500789]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2011/2954/regulation/12) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-4059c77fd4ab97a302eb4d6b5d500789]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2011/2954/regulation/12) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
-[^key-3dc5b04c6205d37c4365d03dbf35c62b]: Textual amendment: Words in [reg. 12(3)(d)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/12/3/d) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 20(a)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/20/a)
+[^c-3dc5b04c6205d37c4365d03dbf35c62b]: Textual amendment: Words in [reg. 12(3)(d)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/12/3/d) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 20(a)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/20/a)
 
 [^f00013]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
 [^f00014]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-014e2f07adad363b46bd7c2aacbe2bf0]: Textual amendment: Words in [reg. 12(3)(f)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/12/3/f) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 20(b)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/20/b)
+[^c-014e2f07adad363b46bd7c2aacbe2bf0]: Textual amendment: Words in [reg. 12(3)(f)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/12/3/f) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 20(b)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/20/b)
 
-[^key-49f549e3381519db186b00b32a50751d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/2954/regulation/13) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-49f549e3381519db186b00b32a50751d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/2954/regulation/13) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
-[^key-2441b839a2c5a02803443a112c2169fd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2011/2954/regulation/14) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-2441b839a2c5a02803443a112c2169fd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2011/2954/regulation/14) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
-[^key-7d26c32af15e19235a1140a68ec19dd7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2011/2954/regulation/15) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-7d26c32af15e19235a1140a68ec19dd7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2011/2954/regulation/15) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
-[^key-535341e55d62ff656a391d4300b9aaf6]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2011/2954/regulation/16) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
+[^c-535341e55d62ff656a391d4300b9aaf6]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2011/2954/regulation/16) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2954/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 1996/1680](https://www.legislation.gov.uk/uksi/1996/1680).

@@ -32,7 +32,7 @@ summary: ''
 
 Sports Grounds And Sporting Events
 
-The Safety of Sports Grounds (Designation) (No. 2) Order 2015 (revoked)[^key-d1ee733448b65bd1b4f7e18dba980344]
+The Safety of Sports Grounds (Designation) (No. 2) Order 2015 (revoked)[^c-d1ee733448b65bd1b4f7e18dba980344]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 3rd August 2015
 
-[^key-d1ee733448b65bd1b4f7e18dba980344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1ee733448b65bd1b4f7e18dba980344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d1ee733448b65bd1b4f7e18dba980344]
+## 1. Title and commencement[^c-d1ee733448b65bd1b4f7e18dba980344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation[^key-d1ee733448b65bd1b4f7e18dba980344]
+## 2. Designation[^c-d1ee733448b65bd1b4f7e18dba980344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1ee733448b65bd1b4f7e18dba980344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1ee733448b65bd1b4f7e18dba980344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1ee733448b65bd1b4f7e18dba980344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1ee733448b65bd1b4f7e18dba980344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1ee733448b65bd1b4f7e18dba980344]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1374) revoked (1.10.2015) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2015 (S.I. 2015/1556)](https://www.legislation.gov.uk/uksi/2015/1556), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1556/article/1), [6](https://www.legislation.gov.uk/uksi/2015/1556/article/6)
+[^c-d1ee733448b65bd1b4f7e18dba980344]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1374) revoked (1.10.2015) by [The Safety of Sports Grounds (Designation) (Amendment) Order 2015 (S.I. 2015/1556)](https://www.legislation.gov.uk/uksi/2015/1556), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1556/article/1), [6](https://www.legislation.gov.uk/uksi/2015/1556/article/6)

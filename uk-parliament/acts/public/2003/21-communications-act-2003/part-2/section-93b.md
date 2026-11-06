@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93B. Notification of proposed commitments relating to very high capacity network[^key-55668106a1ca74a9aff59136d7e2358f]
+## 93B. Notification of proposed commitments relating to very high capacity network[^c-55668106a1ca74a9aff59136d7e2358f]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,10 +58,10 @@ summary: ''
 
 (5) In the case of a co-investment commitment, the period specified by OFCOM in a commitments decision must be at least 7 years.
 
-(6)[^key-fef6a5669e3058b531778fc15df784bf] In determining whether the requirements of subsection (3) are met, OFCOM may have regard to any guidelines that are from time to time published by BEREC under Article 76(4) of the EECC Directive (whether before or after IP completion day).
+(6)[^c-fef6a5669e3058b531778fc15df784bf] In determining whether the requirements of subsection (3) are met, OFCOM may have regard to any guidelines that are from time to time published by BEREC under Article 76(4) of the EECC Directive (whether before or after IP completion day).
 
 ## Annotations
 
-[^key-55668106a1ca74a9aff59136d7e2358f]: Textual amendment: Ss. 93A-93D and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/44)
+[^c-55668106a1ca74a9aff59136d7e2358f]: Textual amendment: Ss. 93A-93D and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/44)
 
-[^key-fef6a5669e3058b531778fc15df784bf]: Textual amendment: S. 93B(6) inserted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/a), [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/76)
+[^c-fef6a5669e3058b531778fc15df784bf]: Textual amendment: S. 93B(6) inserted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/a), [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/76)

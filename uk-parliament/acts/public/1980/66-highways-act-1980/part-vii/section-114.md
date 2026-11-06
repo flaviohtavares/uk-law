@@ -33,7 +33,7 @@ summary: ''
 
 (3) A county council or metropolitan district council who provide conveniences under subsection (1) above may make byelaws as to the conduct of persons using or entering them.
 
-(4)[^key-feedd8d9b59ed93a5593e39d8f874149] The powers in subsection (1) are without prejudice to—
+(4)[^c-feedd8d9b59ed93a5593e39d8f874149] The powers in subsection (1) are without prejudice to—
 
 - (a) section 87 of the Public Health Act 1936 (provision of public conveniences in England);
 - (b) section 116 of the Public Health (Wales) Act 2017 (local authority power to provide public toilets in Wales).
@@ -44,4 +44,4 @@ summary: ''
 
 [^c13423061]: Textual amendment: S. 114(2A)(2B) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/1), [Sch. 7 Pt. I para.10](https://www.legislation.gov.uk/ukpga/1994/19/schedule/7/part/I/paragraph/10) (with [s. 54(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/7), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch.1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1).
 
-[^key-feedd8d9b59ed93a5593e39d8f874149]: Textual amendment: [S. 114(4)](https://www.legislation.gov.uk/ukpga/1980/66/section/114/4) substituted (31.5.2018) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/anaw/2017/2/schedule/4/paragraph/2); [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/605/article/2/b)
+[^c-feedd8d9b59ed93a5593e39d8f874149]: Textual amendment: [S. 114(4)](https://www.legislation.gov.uk/ukpga/1980/66/section/114/4) substituted (31.5.2018) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/anaw/2017/2/schedule/4/paragraph/2); [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/605/article/2/b)

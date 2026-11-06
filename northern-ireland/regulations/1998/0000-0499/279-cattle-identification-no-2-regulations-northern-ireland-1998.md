@@ -46,11 +46,11 @@ The Department of Agriculture, being a Department designated[^f00001] for the pu
 
 ## Part I — Introduction
 
-### 1. Citation and commencement[^key-edc50ece3de5131e8fe2b9727f5c39d6]
+### 1. Citation and commencement[^c-edc50ece3de5131e8fe2b9727f5c39d6]
 
 These Regulations may be cited as the Cattle Identification (No. 2) Regulations (Northern Ireland) 1998 and shall come into operation on 1st October 1998.
 
-### 2. Interpretation[^key-f499cfdf8856827d81dcc176994ad921]
+### 2. Interpretation[^c-f499cfdf8856827d81dcc176994ad921]
 
 (1) In these Regulations—
 
@@ -72,7 +72,7 @@ These Regulations may be cited as the Cattle Identification (No. 2) Regulations 
 
 ## Part II — Eartags
 
-### 3. Enforcement of Article 4 of the Council Regulation[^key-32db12b333b1d7e40f0d8b3301593088]
+### 3. Enforcement of Article 4 of the Council Regulation[^c-32db12b333b1d7e40f0d8b3301593088]
 
 (1) The Department—
 
@@ -99,7 +99,7 @@ and, in any event, before the animal leaves the holding on which it was kept on 
 
 (5) Any person who, in relation to any animal, fails to comply with Article 4.1 of the Council Regulation within the period specified in respect of that animal by paragraph (3) or (4) shall be guilty of an offence.
 
-### 4. Form of eartags[^key-2cf7e1c36d224b93bc23b0a68ba784ac]
+### 4. Form of eartags[^c-2cf7e1c36d224b93bc23b0a68ba784ac]
 
 (1) A person shall not attach eartags to any animal unless they are approved.
 
@@ -107,13 +107,13 @@ and, in any event, before the animal leaves the holding on which it was kept on 
 
 (3) The power granted by Article 4 of the Commission Regulation (a power to choose other material or model for the second eartag) may be exercised in relation to any animal in Northern Ireland by the Department.
 
-### 5. Movement from a holding[^key-5c70b384bc64c188186b7d4e041d7319]
+### 5. Movement from a holding[^c-5c70b384bc64c188186b7d4e041d7319]
 
 (1) Subject to paragraph (2), any person who moves an animal or causes or permits an animal to be moved from a holding in breach of the third indent of Article 4.2 of the Council Regulation shall be guilty of an offence.
 
 (2) An animal which is at a market or a slaughterhouse without eartags attached to it in accordance with Article 4.1 of the Council Regulation or, where appropriate, eartags attached to it in accordance with the 1964 Order may be moved from that market or slaughterhouse under a licence granted to the keeper by the Department to a holding specified in the licence.
 
-### 6. Replacement eartags[^key-46e83aa38fd5cdd419e07861b5267569]
+### 6. Replacement eartags[^c-46e83aa38fd5cdd419e07861b5267569]
 
 (1) Subject to paragraph (2), any person who removes or causes or permits to be removed from any animal—
 
@@ -140,11 +140,11 @@ shall be guilty of an offence.
 
 (7) Any person who contravenes paragraphs (3) to (6) shall be guilty of an offence.
 
-### 7. Alteration of eartags[^key-c85cb010402170fe0692036c54b96cbd]
+### 7. Alteration of eartags[^c-c85cb010402170fe0692036c54b96cbd]
 
 A person shall not alter, obliterate or deface or cause or permit to be altered, obliterated or defaced an eartag attached to an animal under Article 4.1 of the Council Regulation or under the provisions of the 1964 Order, and any person who does so shall be guilty of an offence.
 
-### 8. Intra-Community trade[^key-afc5cb2e5c777a154a2e61551e052876]
+### 8. Intra-Community trade[^c-afc5cb2e5c777a154a2e61551e052876]
 
 (1) A person shall not consign any animal for intra-Community trade unless—
 
@@ -153,7 +153,7 @@ A person shall not alter, obliterate or deface or cause or permit to be altered,
 
 (2) Any person who contravenes paragraph (1) shall be guilty of an offence.
 
-### 9. Imports from third countries[^key-f3ab6db6a4dd94e7bbb57ef9de36fc92]
+### 9. Imports from third countries[^c-f3ab6db6a4dd94e7bbb57ef9de36fc92]
 
 (1) Any person who, in contravention of Article 4.3 of the Council Regulation, fails to attach eartags to an animal imported from a third country within 20 days of the animal passing the checks specified in Council Directive [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496) (laying down the principles governing the organisation of veterinary checks on animals entering the Community)[^f00008] shall be guilty of an offence.
 
@@ -162,7 +162,7 @@ A person shall not alter, obliterate or deface or cause or permit to be altered,
 - (a) when the animal to which the offence relates was imported, the holding of destination was a slaughterhouse, and
 - (b) the animal was slaughtered within 20 days of undergoing the checks referred to in paragraph (1).
 
-### 10. Transitional provisions relating to eartags[^key-365a2a4ea9bd6ce62db8a94bf93a90b2]
+### 10. Transitional provisions relating to eartags[^c-365a2a4ea9bd6ce62db8a94bf93a90b2]
 
 (1) In accordance with Article 1.1 and 1.2 of the Commission Regulation, a keeper may continue to identify an animal using eartags which comply with the requirements of the 1964 Order until 31st December 1998 provided that he does so in accordance with this regulation.
 
@@ -177,13 +177,13 @@ A person shall not alter, obliterate or deface or cause or permit to be altered,
 
 (4) Any person who purports to identify an animal for the purposes of paragraph (1) without complying with all the requirements of paragraph (2) shall be guilty of an offence.
 
-### 11. Market operators[^key-0fb87836aa8a929d023cb3bc92c08c7a]
+### 11. Market operators[^c-0fb87836aa8a929d023cb3bc92c08c7a]
 
 (1) The operator of a market shall ensure that cattle are not accepted into the market for sale, or are sold at a market, unless they are identified with eartags in accordance with Article 4.1 of the Council Regulation or the 1964 Order or are accompanied by a licence granted under regulation 5(2).
 
 (2) If the operator of any market accepts into the market any cattle which fail to meet the requirements of paragraph (1), he shall be guilty of an offence.
 
-### 12. Slaughterhouses[^key-e85520f202d001fbb523dbb2ed8cab2f]
+### 12. Slaughterhouses[^c-e85520f202d001fbb523dbb2ed8cab2f]
 
 (1) Subject to paragraph (2), the operator of a slaughterhouse shall not accept any animal into that slaughterhouse, or slaughter it, unless—
 
@@ -208,7 +208,7 @@ A person shall not alter, obliterate or deface or cause or permit to be altered,
 
 (7) Any person who fails to comply with any provision of this regulation shall be guilty of an offence.
 
-### 13. Change of eartag number[^key-0f17900c85ca44c29fdbcd39e63f5efd]
+### 13. Change of eartag number[^c-0f17900c85ca44c29fdbcd39e63f5efd]
 
 (1) Where—
 
@@ -224,7 +224,7 @@ the keeper shall, before so doing, either—
 
 ## Part III — General
 
-### 14. Powers of inspectors[^key-2ff1aa2e8c1217518e997aa991e23fa7]
+### 14. Powers of inspectors[^c-2ff1aa2e8c1217518e997aa991e23fa7]
 
 (1) An inspector shall, on producing, if required to do so, some duly authenticated document showing his authority, have the right at all reasonable hours to enter any land or premises (other than domestic premises not being used for any purpose to which these Regulations apply) for the purposes of ascertaining whether there is or has been on the premises any contravention of these Regulations.
 
@@ -237,7 +237,7 @@ the keeper shall, before so doing, either—
 - (e) where records are kept by means of a computer, may require the records to be produced in a form in which they may be taken away; and
 - (f) take with him a representative of the European Commission acting for the purposes of the Council Regulation or any other person he considers necessary for the enforcement of these Regulations.
 
-### 15. Powers of an officer of the Department[^key-9a5100ac8409e5a530660f82ede7a3a6]
+### 15. Powers of an officer of the Department[^c-9a5100ac8409e5a530660f82ede7a3a6]
 
 (1) In accordance with the second indent of Article 21 of the Council Regulation and the first indent of Article 1 of Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494)[^f00010], an officer of the Department may serve a notice on a keeper of animals on a holding restricting the movement of cattle from the holding if he is satisfied that this is necessary for the proper enforcement of either Regulation.
 
@@ -245,7 +245,7 @@ the keeper shall, before so doing, either—
 
 (3) Any person who fails to comply with a notice given to him under paragraph (1) shall be guilty of an offence.
 
-### 16. Obstruction[^key-3ce6987dee0e68fbca60bbf66288dc73]
+### 16. Obstruction[^c-3ce6987dee0e68fbca60bbf66288dc73]
 
 (1) A person shall not—
 
@@ -257,7 +257,7 @@ and any person who contravenes this regulation shall be guilty of an offence.
 
 (2) Nothing in paragraph (1)(*b*) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him.
 
-### 17. Penalties[^key-c712071d8425c239a522b5330b9e0f00]
+### 17. Penalties[^c-c712071d8425c239a522b5330b9e0f00]
 
 (1) A person guilty of an offence under regulation 16(1)(*a*) or (*b*) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
 
@@ -266,7 +266,7 @@ and any person who contravenes this regulation shall be guilty of an offence.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or to both;
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-### 18. Revocation[^key-62139f74298083f8ba5a4200af9ad10b]
+### 18. Revocation[^c-62139f74298083f8ba5a4200af9ad10b]
 
 (1) Articles 14, 14A, 14B, 15, 16 and 17 of the 1964 Order[^f00011] are hereby revoked.
 
@@ -280,7 +280,7 @@ Assistant Secretary
 
 10th August 1998.
 
-## SCHEDULE — Logo for eartags[^key-7e845e12358898867d66171bb077d2ec]
+## SCHEDULE — Logo for eartags[^c-7e845e12358898867d66171bb077d2ec]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1998/279/images/nisr_19980279_en_001)
 
@@ -306,9 +306,9 @@ Part III of the Regulations deals with powers of inspectors and penalties. Breac
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-edc50ece3de5131e8fe2b9727f5c39d6]: Commencement: Reg. 1 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-edc50ece3de5131e8fe2b9727f5c39d6]: Commencement: Reg. 1 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-f499cfdf8856827d81dcc176994ad921]: Commencement: Reg. 2 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-f499cfdf8856827d81dcc176994ad921]: Commencement: Reg. 2 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
 [^f00003]: Footnote: [S. R. & O. 1964 No. 31](https://www.legislation.gov.uk/nisr/1964/31) as amended by [S.R. 1981 No. 348](https://www.legislation.gov.uk/nisr/1981/348), [S.R. 1986 No. 48](https://www.legislation.gov.uk/nisr/1986/48), [S.R. 1994 No. 216](https://www.legislation.gov.uk/nisr/1994/216), [S.R. 1996 No. 9](https://www.legislation.gov.uk/nisr/1996/9) and [S.R. 1996 No. 240](https://www.legislation.gov.uk/nisr/1996/240)
 
@@ -320,46 +320,46 @@ Part III of the Regulations deals with powers of inspectors and penalties. Breac
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-32db12b333b1d7e40f0d8b3301593088]: Commencement: Reg. 3 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-32db12b333b1d7e40f0d8b3301593088]: Commencement: Reg. 3 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-2cf7e1c36d224b93bc23b0a68ba784ac]: Commencement: Reg. 4 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-2cf7e1c36d224b93bc23b0a68ba784ac]: Commencement: Reg. 4 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-5c70b384bc64c188186b7d4e041d7319]: Commencement: Reg. 5 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-5c70b384bc64c188186b7d4e041d7319]: Commencement: Reg. 5 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-46e83aa38fd5cdd419e07861b5267569]: Commencement: Reg. 6 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-46e83aa38fd5cdd419e07861b5267569]: Commencement: Reg. 6 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-c85cb010402170fe0692036c54b96cbd]: Commencement: Reg. 7 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-c85cb010402170fe0692036c54b96cbd]: Commencement: Reg. 7 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-afc5cb2e5c777a154a2e61551e052876]: Commencement: Reg. 8 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-afc5cb2e5c777a154a2e61551e052876]: Commencement: Reg. 8 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-f3ab6db6a4dd94e7bbb57ef9de36fc92]: Commencement: Reg. 9 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-f3ab6db6a4dd94e7bbb57ef9de36fc92]: Commencement: Reg. 9 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
 [^f00008]: Footnote: O.J. No. L268, 24.9.91, p. 56 as last amended by the Act of Accession of Austria, Finland and Sweden
 
-[^key-365a2a4ea9bd6ce62db8a94bf93a90b2]: Commencement: Reg. 10 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-365a2a4ea9bd6ce62db8a94bf93a90b2]: Commencement: Reg. 10 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-0fb87836aa8a929d023cb3bc92c08c7a]: Commencement: Reg. 11 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-0fb87836aa8a929d023cb3bc92c08c7a]: Commencement: Reg. 11 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-e85520f202d001fbb523dbb2ed8cab2f]: Commencement: Reg. 12 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-e85520f202d001fbb523dbb2ed8cab2f]: Commencement: Reg. 12 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
 [^f00009]: Footnote: [S.R.1993 No. 192](https://www.legislation.gov.uk/nisr/1993/192) as amended by [S.R. 1998 No. 108](https://www.legislation.gov.uk/nisr/1998/108)
 
-[^key-0f17900c85ca44c29fdbcd39e63f5efd]: Commencement: Reg. 13 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-0f17900c85ca44c29fdbcd39e63f5efd]: Commencement: Reg. 13 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-2ff1aa2e8c1217518e997aa991e23fa7]: Commencement: Reg. 14 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-2ff1aa2e8c1217518e997aa991e23fa7]: Commencement: Reg. 14 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-9a5100ac8409e5a530660f82ede7a3a6]: Commencement: Reg. 15 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-9a5100ac8409e5a530660f82ede7a3a6]: Commencement: Reg. 15 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
 [^f00010]: Footnote: O.J. No. L60, 28.2.98, p. 78
 
-[^key-3ce6987dee0e68fbca60bbf66288dc73]: Commencement: Reg. 16 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-3ce6987dee0e68fbca60bbf66288dc73]: Commencement: Reg. 16 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-c712071d8425c239a522b5330b9e0f00]: Commencement: Reg. 17 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-c712071d8425c239a522b5330b9e0f00]: Commencement: Reg. 17 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
-[^key-62139f74298083f8ba5a4200af9ad10b]: Commencement: Reg. 18 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-62139f74298083f8ba5a4200af9ad10b]: Commencement: Reg. 18 in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
 
 [^f00011]: Footnote: [S.R. & O. 1964 No. 31](https://www.legislation.gov.uk/nisro/1964/31) as amended by [S.R. 1981 No. 348](https://www.legislation.gov.uk/nisr/1981/348), [S.R. 1986 No. 48](https://www.legislation.gov.uk/nisr/1986/48), [S.R. 1994 No. 216](https://www.legislation.gov.uk/nisr/1994/216) and [S.R. 1996 No. 9](https://www.legislation.gov.uk/nisr/1996/9)
 
 [^f00012]: Footnote: [S.R. 1998 No. 27](https://www.legislation.gov.uk/nisr/1998/27)
 
-[^key-7e845e12358898867d66171bb077d2ec]: Commencement: Sch. in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)
+[^c-7e845e12358898867d66171bb077d2ec]: Commencement: Sch. in operation at 1.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/279/regulation/1)

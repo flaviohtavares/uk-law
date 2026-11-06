@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 167. Notices sent simultaneously to the same person[^key-04272bddbaaf1bc1995df2bd3a0508b5]
+## 167. Notices sent simultaneously to the same person[^c-04272bddbaaf1bc1995df2bd3a0508b5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where under the 1986 Act, the 2004 Act, Schedule B1 to the 1986 Act or the Rules
 
 ## Annotations
 
-[^key-04272bddbaaf1bc1995df2bd3a0508b5]: Commencement: Rule 167 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-04272bddbaaf1bc1995df2bd3a0508b5]: Commencement: Rule 167 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

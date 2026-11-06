@@ -32,7 +32,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Navigation Order 2009 (revoked)[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+The Air Navigation Order 2009 (revoked)[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 Made
 
@@ -50,14 +50,14 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-65b1b4ddd4621ed2e446d14b25b2fce9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65b1b4ddd4621ed2e446d14b25b2fce9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
 - [Section 1 — Citation and Commencement](section-1.md)
 - [Section 2 — Revocation](section-2.md)
 
-### PART 1 — Registration and Marking of Aircraft[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 1 — Registration and Marking of Aircraft[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,7 +73,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 9 — General provisions concerning registration](part-1/section-9.md)
 - [Section 10 — Nationality and registration marks](part-1/section-10.md)
 
-### PART 2 — Air Operators' Certificates and Operational Directives[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 2 — Air Operators' Certificates and Operational Directives[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,7 +86,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 14 — Offering commercial transport and public transport flights](part-2/section-14.md)
 - [Section 15 — Operational directives](part-2/section-15.md)
 
-### PART 3 — Airworthiness of Aircraft[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 3 — Airworthiness of Aircraft[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -112,7 +112,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 35 — Aircraft weight schedule](part-3/section-35.md)
 - [Section 36 — Access and inspection for airworthiness purposes](part-3/section-36.md)
 
-### PART 3A — Continuing airworthiness of aircraft with a non-expiring national certificate of airworthiness[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 3A — Continuing airworthiness of aircraft with a non-expiring national certificate of airworthiness[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -132,7 +132,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 36N — Approval of aeroplane and rotorcraft maintenance organisation](part-3a/section-36n.md)
 - [Section 36O — General provisions concerning airworthiness reviews](part-3a/section-36o.md)
 
-### PART 4 — Equipment of Aircraft[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 4 — Equipment of Aircraft[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -142,7 +142,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 40 — Notified radio communication and radio navigation equipment to be carried on flights for the purpose of commercial air transport](part-4/section-40.md)
 - [Section 41 — Minimum equipment requirements](part-4/section-41.md)
 
-### PART 5 — Crew Required to be Carried[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 5 — Crew Required to be Carried[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -155,7 +155,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 48 — Required cabin crew of aircraft](part-5/section-48.md)
 - [Section 49 — Power to direct additional crew to be carried](part-5/section-49.md)
 
-### PART 6 — Flight Crew Licensing - Requirement for Licence[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 6 — Flight Crew Licensing - Requirement for Licence[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -179,7 +179,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 62 — Deeming a non-United Kingdom flight crew licence and any Part-FCL licence valid for non-EASA aircraft and deeming a non-United Kingdom radiotelephony licence valid for any aircraft](part-6/section-62.md)
 - [Section 63 — Permission required where licence does not meet relevant minimum standards](part-6/section-63.md)
 
-### PART 7 — Flight Crew Licensing – Grant of Licence and Maintenance of Privileges[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 7 — Flight Crew Licensing – Grant of Licence and Maintenance of Privileges[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -203,7 +203,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 74 — Licence holder not to act as member of flight crew when unfit](part-7/section-74.md)
 - [Section 75 — Training for landing on or taking off from water](part-7/section-75.md)
 
-### PART 8 — Flight Crew Licensing – General Provisions[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 8 — Flight Crew Licensing – General Provisions[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -218,7 +218,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 82 — Licences and ratings no longer to be granted](part-8/section-82.md)
 - [Section 82A — Status of licences issued by the CAA](part-8/section-82a.md)
 
-### PART 9 — Requirement for Operations and Training Manuals[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 9 — Requirement for Operations and Training Manuals[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -226,7 +226,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 84 — Police operations manual](part-9/section-84.md)
 - [Section 85 — Training manual](part-9/section-85.md)
 
-### PART 10 — Duties of commander[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 10 — Duties of commander[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -239,7 +239,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 92 — Aerial work and private flights – commander to ensure demonstration of use of oxygen](part-10/section-92.md)
 - [Section 93 — Pilot to remain at controls and be secured in seat](part-10/section-93.md)
 
-### PART 11 — Public Transport Operations[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 11 — Public Transport Operations[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -248,7 +248,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 96 — Public transport – operator's responsibilities in relation to routes and aerodromes](part-11/section-96.md)
 - [Section 97 — A to A commercial air transport aeroplane operations and public transport flights by aeroplanes at night or in specified meteorological conditions](part-11/section-97.md)
 
-### PART 12 — Loading of public transport aircraft[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 12 — Loading of public transport aircraft[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -258,7 +258,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 101 — Carriage of baggage](part-12/section-101.md)
 - [Section 102 — Exceptions](part-12/section-102.md)
 
-### PART 13 — Performance Requirements and Operating Minima for Public Transport Flights[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 13 — Performance Requirements and Operating Minima for Public Transport Flights[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -269,14 +269,14 @@ The Queen's Most Excellent Majesty in Council
 - [Section 107 — Public transport aircraft registered in the United Kingdom – aerodrome operating minima](part-13/section-107.md)
 - [Section 108 — Public transport aircraft registered elsewhere than in the United Kingdom – aerodrome operating minima](part-13/section-108.md)
 
-### PART 14 — Operating Minima and Equipment Requirements for Aerial Work and Private Aircraft[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 14 — Operating Minima and Equipment Requirements for Aerial Work and Private Aircraft[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
 - [Section 109 — Aerial work and private aircraft – aerodrome operating minima](part-14/section-109.md)
 - [Section 110 — Aerial work and private aircraft – survival equipment](part-14/section-110.md)
 
-### PART 15 — Operations – General Provisions[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 15 — Operations – General Provisions[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -291,7 +291,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 119 — Marking of break-in areas](part-15/section-119.md)
 - [Section 120 — Flights over any foreign country](part-15/section-120.md)
 
-### PART 16 — Height keeping and navigation[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 16 — Height keeping and navigation[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -301,7 +301,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 124 — Area navigation and required navigation performance capabilities - aircraft registered in the United Kingdom](part-16/section-124.md)
 - [Section 125 — Area navigation and required navigation performance capabilities - aircraft registered elsewhere than in the United Kingdom](part-16/section-125.md)
 
-### PART 17 — Towing and Dropping[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 17 — Towing and Dropping[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -312,7 +312,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 130 — Dropping of persons and grant of parachuting permissions](part-17/section-130.md)
 - [Section 131 — Dropping articles for purposes of agriculture etc and grant of aerial application certificates](part-17/section-131.md)
 
-### PART 18 — Dangerous Goods, Weapons and Munitions of War[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 18 — Dangerous Goods, Weapons and Munitions of War[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -322,7 +322,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 135 — Exceptions concerning carriage of weapons and munitions of war](part-18/section-135.md)
 - [Section 136 — Definitions](part-18/section-136.md)
 
-### PART 19 — Prohibited Behaviour[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 19 — Prohibited Behaviour[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -334,7 +334,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 142 — Acting in a disruptive manner](part-19/section-142.md)
 - [Section 143 — Stowaways](part-19/section-143.md)
 
-### PART 20 — Fatigue of Crew and Protection of Crew from Cosmic Radiation[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 20 — Fatigue of Crew and Protection of Crew from Cosmic Radiation[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -345,7 +345,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 148 — Protection of air crew from cosmic radiation](part-20/section-148.md)
 - [Section 149 — Fatigue of crew – responsibilities of EU-OPS and Part-CAT operators](part-20/section-149.md)
 
-### PART 21 — Documents and Records[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 21 — Documents and Records[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -360,7 +360,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 158 — Power to inspect and copy documents and records](part-21/section-158.md)
 - [Section 159 — Preservation of documents, etc.](part-21/section-159.md)
 
-### PART 22 — Aircraft in Flight[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 22 — Aircraft in Flight[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -374,7 +374,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 167 — Small unmanned surveillance aircraft](part-22/section-167.md)
 - [Section 168 — Rockets](part-22/section-168.md)
 
-### PART 23 — Air Traffic Services[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 23 — Air Traffic Services[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -387,7 +387,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 175 — Use of radio call signs at aerodromes](part-23/section-175.md)
 - [Section 176 — Approval of instrument flight procedures](part-23/section-176.md)
 
-### PART 24 — Licensing of air traffic controllers[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 24 — Licensing of air traffic controllers[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -420,7 +420,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 200 — Mutual recognition of air traffic controller's licences](part-24/section-200.md)
 - [Section 201 — Meaning of terms used in this Part](part-24/section-201.md)
 
-### PART 25 — Flight Information Services and Licensing of Flight Information Service Officers[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 25 — Flight Information Services and Licensing of Flight Information Service Officers[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -428,7 +428,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 203 — Licensing of flight information service officers](part-25/section-203.md)
 - [Section 204 — Flight information service manual](part-25/section-204.md)
 
-### PART 25A — Certificate of competence to operate aeronautical radio station[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 25A — Certificate of competence to operate aeronautical radio station[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -436,14 +436,14 @@ The Queen's Most Excellent Majesty in Council
 - [Section 204B — Aeronautical radio station operator certificate of competence](part-25a/section-204b.md)
 - [Section 204C — Approval of courses, persons, examinations and simulators](part-25a/section-204c.md)
 
-### PART 26 — Air Traffic Service Equipment[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 26 — Air Traffic Service Equipment[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
 - [Section 205 — Air traffic service equipment](part-26/section-205.md)
 - [Section 206 — Air traffic service equipment records](part-26/section-206.md)
 
-### PART 27 — Aerodromes, Aeronautical Lights and Dangerous Lights[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 27 — Aerodromes, Aeronautical Lights and Dangerous Lights[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -464,7 +464,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 216 — Customs and Excise aerodromes](part-27/section-216.md)
 - [Section 217 — Aviation fuel at aerodromes](part-27/section-217.md)
 
-### PART 28 — Lights and Lighting[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 28 — Lights and Lighting[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -474,7 +474,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 221 — Lights liable to endanger](part-28/section-221.md)
 - [Section 222 — Lights which dazzle or distract](part-28/section-222.md)
 
-### PART 29 — Public Transport and Aerial Work by Foreign Registered Aircraft[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 29 — Public Transport and Aerial Work by Foreign Registered Aircraft[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -484,14 +484,14 @@ The Queen's Most Excellent Majesty in Council
 - [Section 224 — Filing and approval of tariffs](part-29/section-224.md)
 - [Section 225 — Restriction on aerial photography, aerial survey and aerial work in aircraft registered elsewhere than in an EEA state](part-29/section-225.md)
 
-### PART 30 — Mandatory Reporting[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 30 — Mandatory Reporting[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
 - [Section 226 — Mandatory reporting of occurrences](part-30/section-226.md)
 - [Section 227 — Mandatory reporting of birdstrikes](part-30/section-227.md)
 
-### PART 31 — Powers and Penalties[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 31 — Powers and Penalties[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -521,7 +521,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 246B — Functions under the EASA Aircrew Regulation to be exercised by the CAA](part-31/section-246b.md)
 - [Section 246C — Functions under the Occurrence Reporting Regulation to be exercised by the CAA](part-31/section-246c.md)
 
-### PART 32 — Application of the Order[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 32 — Application of the Order[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -534,7 +534,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 253 — Exceptions from application of provisions of the Order for certain classes of aircraft](part-32/section-253.md)
 - [Section 254 — Saving](part-32/section-254.md)
 
-### PART 33 — Interpretation[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 33 — Interpretation[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -545,7 +545,7 @@ The Queen's Most Excellent Majesty in Council
 - [Section 259 — Meaning of aerial work](part-33/section-259.md)
 - [Section 260 — Meaning of public transport](part-33/section-260.md)
 
-### PART 34 — Public Transport and Aerial Work[^key-65b1b4ddd4621ed2e446d14b25b2fce9]
+### PART 34 — Public Transport and Aerial Work[^c-65b1b4ddd4621ed2e446d14b25b2fce9]
 
 **No longer in force.**
 
@@ -579,14 +579,14 @@ The Queen's Most Excellent Majesty in Council
 
 **No longer in force.**
 
-[^key-65b1b4ddd4621ed2e446d14b25b2fce9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65b1b4ddd4621ed2e446d14b25b2fce9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-65b1b4ddd4621ed2e446d14b25b2fce9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65b1b4ddd4621ed2e446d14b25b2fce9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65b1b4ddd4621ed2e446d14b25b2fce9]: Textual amendment: Instrument revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [38(7)](https://www.legislation.gov.uk/uksi/2016/765/article/38/7), [40(4)](https://www.legislation.gov.uk/uksi/2016/765/article/40/4), [147(1)](https://www.legislation.gov.uk/uksi/2016/765/article/147/1), [152(7)](https://www.legislation.gov.uk/uksi/2016/765/article/152/7), [203(7)](https://www.legislation.gov.uk/uksi/2016/765/article/203/7), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2), [Sch. 14 paras. 15-20](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/15))
+[^c-65b1b4ddd4621ed2e446d14b25b2fce9]: Textual amendment: Instrument revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [38(7)](https://www.legislation.gov.uk/uksi/2016/765/article/38/7), [40(4)](https://www.legislation.gov.uk/uksi/2016/765/article/40/4), [147(1)](https://www.legislation.gov.uk/uksi/2016/765/article/147/1), [152(7)](https://www.legislation.gov.uk/uksi/2016/765/article/152/7), [203(7)](https://www.legislation.gov.uk/uksi/2016/765/article/203/7), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2), [Sch. 14 paras. 15-20](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/15))

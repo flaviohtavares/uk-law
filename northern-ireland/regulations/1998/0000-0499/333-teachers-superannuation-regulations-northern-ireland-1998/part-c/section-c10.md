@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C10. Calculation of balance of contributions[^key-8647c824ec8dbc30ed93fb568bc369f6]
+## C10. Calculation of balance of contributions[^c-8647c824ec8dbc30ed93fb568bc369f6]
 
 *Extent: N.I.*
 
@@ -55,7 +55,7 @@ where—
 
 ## Annotations
 
-[^key-8647c824ec8dbc30ed93fb568bc369f6]: Commencement: Reg. C10 in operation at 2.11.1998, see reg. A1
+[^c-8647c824ec8dbc30ed93fb568bc369f6]: Commencement: Reg. C10 in operation at 2.11.1998, see reg. A1
 
 [^f00015]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 

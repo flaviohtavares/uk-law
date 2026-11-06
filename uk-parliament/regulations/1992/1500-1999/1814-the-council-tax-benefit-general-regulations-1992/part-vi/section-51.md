@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Maximum council tax benefit[^key-f2963286a41a20415c89e7bb4359c5e6]
+## 51. Maximum council tax benefit[^c-f2963286a41a20415c89e7bb4359c5e6]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ less any deductions in respect of non-dependants which fall to be made under reg
 (2) In calculating a person’s maximum council tax benefit—
 
 - (a) any reduction in the amount that person is liable to pay in respect of council tax in consequence of regulations made under sections 13 and 80 of the 1992 Act (reduced amounts of council tax) shall be taken into account;
-- (b) any reduction in the amount that person is liable to pay in respect of council tax by virtue of Schedule 2 paragraphs 6 and 7[^key-c92794ff0b2243147315761f0da418e7] of the 1992 Act (reductions for lump sum payments), shall be disregarded.
+- (b) any reduction in the amount that person is liable to pay in respect of council tax by virtue of Schedule 2 paragraphs 6 and 7[^c-c92794ff0b2243147315761f0da418e7] of the 1992 Act (reductions for lump sum payments), shall be disregarded.
 
 (3) Subject to paragraph (4), where a claimant is jointly and severally liable for council tax in respect of a dwelling in which he is resident with one or more other persons, in determining the maximum council tax benefit in his case in accordance with paragraph (1), the amount A shall be divided by the number of persons who are jointly and severally liable for that tax.
 
@@ -47,6 +47,6 @@ less any deductions in respect of non-dependants which fall to be made under reg
 
 ## Annotations
 
-[^key-f2963286a41a20415c89e7bb4359c5e6]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1992/1814/regulation/51) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-f2963286a41a20415c89e7bb4359c5e6]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1992/1814/regulation/51) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^key-c92794ff0b2243147315761f0da418e7]: Textual amendment: Words in [reg. 51(2)(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/51/2/b) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/1993/688/regulation/13)
+[^c-c92794ff0b2243147315761f0da418e7]: Textual amendment: Words in [reg. 51(2)(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/51/2/b) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/1993/688/regulation/13)

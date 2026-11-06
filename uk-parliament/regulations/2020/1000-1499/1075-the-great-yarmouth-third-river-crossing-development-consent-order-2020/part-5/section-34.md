@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Rights over or under streets[^key-845de1dc4244332da45d0a07bd4bb7d5]
+## 34. Rights over or under streets[^c-845de1dc4244332da45d0a07bd4bb7d5]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-845de1dc4244332da45d0a07bd4bb7d5]: Commencement: Art. 34 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-845de1dc4244332da45d0a07bd4bb7d5]: Commencement: Art. 34 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

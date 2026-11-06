@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. 2008 cohort students with full entitlement[^key-30ca8d30f8d2fa30b03e0e1e0c330683]
+## 66. 2008 cohort students with full entitlement[^c-30ca8d30f8d2fa30b03e0e1e0c330683]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30ca8d30f8d2fa30b03e0e1e0c330683]: Commencement: Reg. 66 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-30ca8d30f8d2fa30b03e0e1e0c330683]: Commencement: Reg. 66 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation, commencement and application[^key-92dde73b2de1f5849d8a5c3dd25c9618]
+## 1. Citation, commencement and application[^c-92dde73b2de1f5849d8a5c3dd25c9618]
 
 *Extent: E+W+S*
 
@@ -24,14 +24,14 @@ summary: ''
 
 (2) These Regulations apply in relation to housing benefit in the form of a community charge rebate to which section 28(1)(aa) of the Act refers and accordingly–
 
-- (a) save in regulations 25(3)(a), 33(3)(a), 60(a) and 90(1), in Schedule 3 paragraphs 35 and 36 and in Schedule 4 paragraphs 28 and 34[^key-df10e6b35955db6ada40c71733047b37], any reference in these Regulations to housing benefit is a reference only to housing benefit in that form; and
+- (a) save in regulations 25(3)(a), 33(3)(a), 60(a) and 90(1), in Schedule 3 paragraphs 35 and 36 and in Schedule 4 paragraphs 28 and 34[^c-df10e6b35955db6ada40c71733047b37], any reference in these Regulations to housing benefit is a reference only to housing benefit in that form; and
 - (b) the Housing Benefit (General) Regulations 1987[^f00005] and, save as provided in regulation 90 of these Regulations, the Housing Benefit (Supply of Information) Regulations 1988[^f00006] shall not apply to housing benefit in that form and any reference to housing benefit excludes, save as so provided, a reference to housing benefit in that form.
 
 ## Annotations
 
-[^key-92dde73b2de1f5849d8a5c3dd25c9618]: Commencement: Reg. 1 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-92dde73b2de1f5849d8a5c3dd25c9618]: Commencement: Reg. 1 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
-[^key-df10e6b35955db6ada40c71733047b37]: Textual amendment: Words in [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/2/a) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [2](https://www.legislation.gov.uk/uksi/1989/361/regulation/2)
+[^c-df10e6b35955db6ada40c71733047b37]: Textual amendment: Words in [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/2/a) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [2](https://www.legislation.gov.uk/uksi/1989/361/regulation/2)
 
 [^f00005]: Footnote: S.I. [1987/1971](https://www.legislation.gov.uk/uksi/1987/1971).
 

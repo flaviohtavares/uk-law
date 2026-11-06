@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Power of Crown Court on committal for sentence under section 20[^key-bbc62152ae118bc012c118f02259e651]
+## 23. Power of Crown Court on committal for sentence under section 20[^c-bbc62152ae118bc012c118f02259e651]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ This does not apply to any duty imposed on a magistrates' court by section 25(1)
 
 ## Annotations
 
-[^key-bbc62152ae118bc012c118f02259e651]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2020/17/section/23) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bbc62152ae118bc012c118f02259e651]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2020/17/section/23) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -26,9 +26,9 @@ Regulation 6(3)
 
 #### 1. Scope
 
-(1)[^key-1e118f45950558b2b0450a63b858d312] This schedule applies to radioactive substances activities.
+(1)[^c-1e118f45950558b2b0450a63b858d312] This schedule applies to radioactive substances activities.
 
-(2)[^key-07c082581eeaf91cc5340c94bd35a1a6] Paragraph 2 applies for the interpretation of—
+(2)[^c-07c082581eeaf91cc5340c94bd35a1a6] Paragraph 2 applies for the interpretation of—
 
 - (a) this schedule;
 - (b) schedule 9; and
@@ -41,10 +41,10 @@ Regulation 6(3)
 - (c) the disposal of radioactive waste in the form of human excreta where—
   - (i) the radioactive waste arises as a consequence of the medical administration of radioactive material for the purpose of diagnosis, treatment or trials; and
   - (ii) the disposal occurs at a place other than the place of administration of the radioactive material;
-- (d)[^key-16ee8c7aa26210a87c45d8c2526409b7] the disposal of radioactive waste at a landfill or at a waste incineration plant or waste co-incineration plant where—
+- (d)[^c-16ee8c7aa26210a87c45d8c2526409b7] the disposal of radioactive waste at a landfill or at a waste incineration plant or waste co-incineration plant where—
   - (i) the radioactive waste may be disposed of in solid waste that is not radioactive waste in accordance with the general binding rules in Chapter 1 of schedule 9, and
   - (ii) the radioactive waste has not been segregated from waste that is not radioactive waste,
-- (e)[^key-59dccbaff86ed46179b2a34f372bfb35] the disposal of radioactive waste described in paragraph 6(1)(a) or (b) in a landfill or at a waste incineration plant or waste co-incineration plant where the activity of the radioactive waste does not exceed the concentrations specified in schedule 9, Part 3, Table 1, Column 2.
+- (e)[^c-59dccbaff86ed46179b2a34f372bfb35] the disposal of radioactive waste described in paragraph 6(1)(a) or (b) in a landfill or at a waste incineration plant or waste co-incineration plant where the activity of the radioactive waste does not exceed the concentrations specified in schedule 9, Part 3, Table 1, Column 2.
 
 (2) A radioactive substances activity is not being carried on by the owner or occupier of premises where radioactive material is present in or on a vehicle, vessel or aircraft and either—
 
@@ -65,7 +65,7 @@ Regulation 6(3)
 - “**orphan source**” means a source containing radioactive material or radioactive waste which is neither—
   - (a) subject to an authorisation; nor
   - (b) on a nuclear site;
-- [^key-d082d13be9f1654e7958e51c08a97f5b]...
+- [^c-d082d13be9f1654e7958e51c08a97f5b]...
 - “**public exposure**” means the exposure of individuals resulting from—
   - (a) the disposal of radioactive waste;
   - (b) the introduction of radioactive material into organisms or the environment; or
@@ -85,7 +85,7 @@ Regulation 6(3)
   - (d) a district salmon fishery board established under section 14 of the Salmon Act 1986 [^c23326031];
 - “Table 1”, “Table 2”, “Table 3”, “Table 4” and “Table 5” mean the tables with those numbers in Part 6;
 - “**unsealed source**” means a radioactive source that is not a sealed source;
-- [^key-d082d13be9f1654e7958e51c08a97f5b]...
+- [^c-d082d13be9f1654e7958e51c08a97f5b]...
 
 (2) Where any radionuclide carries the suffix “+” or “sec” in this schedule—
 
@@ -96,20 +96,20 @@ Regulation 6(3)
 
 (1) In this schedule and in schedule 9—
 
-- “**disposal**” , in relation to radioactive waste,[^key-d3a4ca321b27f85bfb9f90565e23f04e] includes—
+- “**disposal**” , in relation to radioactive waste,[^c-d3a4ca321b27f85bfb9f90565e23f04e] includes—
   - (a) discharge (whether into the environment or into a sewer or drain);
   - (b) abandonment;
   - (c) burial;
   - (d) deposit;
-- “[^key-fa98ba1c70858ae6effe53a5f58e9e0a]**high-activity sealed source**” means a sealed source where the activity of the contained radionuclide is equal to or exceeds the relevant activity value laid down in Table 4,
+- “[^c-fa98ba1c70858ae6effe53a5f58e9e0a]**high-activity sealed source**” means a sealed source where the activity of the contained radionuclide is equal to or exceeds the relevant activity value laid down in Table 4,
 - “**nuclear site**” means—
-  - (a) [^key-bcf8a31b584243fb3d0a579187e0dd72]any site in respect of which a nuclear site licence is for the time being in force; or
-  - (b) [^key-bcf8a31b584243fb3d0a579187e0dd72]any site in respect of which, after the revocation or surrender of a nuclear site licence, the period of responsibility of the licensee has not yet come to an end;
+  - (a) [^c-bcf8a31b584243fb3d0a579187e0dd72]any site in respect of which a nuclear site licence is for the time being in force; or
+  - (b) [^c-bcf8a31b584243fb3d0a579187e0dd72]any site in respect of which, after the revocation or surrender of a nuclear site licence, the period of responsibility of the licensee has not yet come to an end;
 - “**nuclear site licence**”, “**licensee**” and “**period of responsibility**” have the meanings given in section 26 of the Nuclear Installations Act 1965 [^c23326051];
 - “**radioactive substance**” means radioactive material or radioactive waste.
-- “[^key-fad34bb293a6442f6d4f357f8a860016]**sealed source**” means a radioactive source in which the radioactive substance is permanently sealed in a capsule or incorporated in a solid form with the objective of preventing under normal conditions of use, any dispersion of radioactive substances.
+- “[^c-fad34bb293a6442f6d4f357f8a860016]**sealed source**” means a radioactive source in which the radioactive substance is permanently sealed in a capsule or incorporated in a solid form with the objective of preventing under normal conditions of use, any dispersion of radioactive substances.
 
-(2) For the purposes of this schedule and schedule 9, any substance or article which is discharged, discarded or otherwise dealt with as if it were radioactive[^key-3d0cd7dcbb0accdca64a38d0dcfa47aa] waste is presumed to be radioactive waste unless the contrary is proved.
+(2) For the purposes of this schedule and schedule 9, any substance or article which is discharged, discarded or otherwise dealt with as if it were radioactive[^c-3d0cd7dcbb0accdca64a38d0dcfa47aa] waste is presumed to be radioactive waste unless the contrary is proved.
 
 (3) Any reference in this schedule, in schedule 5 or in schedule 9, to the contamination of a substance or article is a reference to its becoming radioactive or its possessing increased radioactivity as a result of either or both of—
 
@@ -125,10 +125,10 @@ Regulation 6(3)
 
 In these Regulations—
 
-- [^key-f1504a194b49b5a3a31dbb972e6cd47d]...
+- [^c-f1504a194b49b5a3a31dbb972e6cd47d]...
 - “**radioactive material**” means a substance or article which is not waste, and which satisfies the requirements of any of paragraphs 6, 7 or 8 as the paragraph applies to such a substance or article;
 - “**radioactive waste**” means a substance or article which is waste, and which satisfies the requirements of any of paragraph 6, 7 or 8; and
-- [^key-f1504a194b49b5a3a31dbb972e6cd47d]...
+- [^c-f1504a194b49b5a3a31dbb972e6cd47d]...
 
 #### 6. NORM industrial activity
 
@@ -161,7 +161,7 @@ In these Regulations—
 - (n) china clay extraction; and
 - (o) geothermal energy production.
 
-(4) But “**NORM industrial activity**” does not include an activity where radionuclides of natural, terrestrial or cosmic origin are processed for their radioactive,[^key-a4d8f311e2fbc50b53125808361005b6] fissile or fertile properties.
+(4) But “**NORM industrial activity**” does not include an activity where radionuclides of natural, terrestrial or cosmic origin are processed for their radioactive,[^c-a4d8f311e2fbc50b53125808361005b6] fissile or fertile properties.
 
 #### 7. Processed radionuclides of natural terrestrial or cosmic origin
 
@@ -245,7 +245,7 @@ A substance or article is not radioactive material or radioactive waste where th
 A person carrying on a regulated activity specified in column 1 of Part 1 of schedule 9 in compliance with the general binding rules specified for that activity is not authorised under these Regulations where—
 
 - (a) the radioactive substance involved has been deliberately diluted to meet a value specified in schedule 9; or
-- (b) the person who generated the radioactive waste did not take all practicable measures available to minimise the quantity of radionuclides generated as radioactive[^key-e530e5a9c441829b16de4b8f54903bec] waste.
+- (b) the person who generated the radioactive waste did not take all practicable measures available to minimise the quantity of radionuclides generated as radioactive[^c-e530e5a9c441829b16de4b8f54903bec] waste.
 
 #### 14. Authorisation by permit or registration
 
@@ -253,8 +253,8 @@ A person carrying on a regulated activity specified in column 1 of Part 1 of sch
 
 (2) This sub-paragraph applies to—
 
-- (a)[^key-65e7699521c0af11412389f4f5675b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the management of radioactive waste on a nuclear site arising from the operation or decommissioning of that nuclear site[^key-39dcddb5144793fee7d2fd3cb5069651];
+- (a)[^c-65e7699521c0af11412389f4f5675b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the management of radioactive waste on a nuclear site arising from the operation or decommissioning of that nuclear site[^c-39dcddb5144793fee7d2fd3cb5069651];
 - (c) the management of radioactive waste at a uranium mine;
 - (d) any activity involving a high-activity sealed source;
 - (e) the operation, decommissioning and closure of a facility for the long term storage or disposal of radioactive waste;
@@ -307,7 +307,7 @@ regarding the security of premises on which the activity is, or is proposed to b
 
 (1) SEPA must refuse to grant an application for a permit for a radioactive substances activity involving a high-activity sealed source unless it is satisfied that the applicant has made either—
 
-- (a) adequate arrangements for the safe management and control of the source, including arrangements for when it becomes radioactive[^key-56697f2f7025ecec38632b8bfa49c264] waste; or
+- (a) adequate arrangements for the safe management and control of the source, including arrangements for when it becomes radioactive[^c-56697f2f7025ecec38632b8bfa49c264] waste; or
 - (b) adequate provision, by way of a financial provision or any other appropriate equivalent means, for the safe management of a source where—
   - (i) it becomes radioactive waste;
   - (ii) the authorised person becomes insolvent; or
@@ -315,11 +315,11 @@ regarding the security of premises on which the activity is, or is proposed to b
 
 (2) SEPA must refuse to grant an application for a permit for a radioactive substances activity involving a sealed source in IAEA Categories 1 to 4 unless it is satisfied that the applicant has made adequate arrangements for the security of the source.
 
-(3) Sub-paragraph (2) does not apply to an application involving a sealed source in IAEA Categories 1 to 4[^key-147ea68224ed9ffb37535011414c2ebf] which is proposed to be managed only on a nuclear site.
+(3) Sub-paragraph (2) does not apply to an application involving a sealed source in IAEA Categories 1 to 4[^c-147ea68224ed9ffb37535011414c2ebf] which is proposed to be managed only on a nuclear site.
 
-**19.** SEPA must refuse to grant an authorisation for a radioactive substances activity unless —[^key-f41af6ec58900102f43852c3baa52a3e]
+**19.** SEPA must refuse to grant an authorisation for a radioactive substances activity unless —[^c-f41af6ec58900102f43852c3baa52a3e]
 
-- (a)[^key-909e4c3d1dbd4076c7872ed9bc6e0a2d] the activity has been found to be justified within the meaning of the phrase “found to be justified” given in regulation 4(4) of the Justification of Practices Involving Ionising Radiation Regulations 2004 [^c23326061] insofar as those regulations apply to the activity, or[^key-947de5a14923847536da9cb1d8b034a4]
+- (a)[^c-909e4c3d1dbd4076c7872ed9bc6e0a2d] the activity has been found to be justified within the meaning of the phrase “found to be justified” given in regulation 4(4) of the Justification of Practices Involving Ionising Radiation Regulations 2004 [^c23326061] insofar as those regulations apply to the activity, or[^c-947de5a14923847536da9cb1d8b034a4]
 - (b) it is an existing class or type of practice.
 
 #### 20. Authorisation conditions: general
@@ -370,7 +370,7 @@ SEPA must ensure that a permit or registration for a radioactive substances acti
 - (a) the authorised person carries out appropriate monitoring and evaluation of radioactive discharges into the environment in normal operation of the activity; and
 - (b) the results of the monitoring and evaluation are reported to SEPA.
 
-(2) For the purposes of sub-paragraph (1), where the radioactive substances activity is carried on at[^key-96b2925edb29665e8144d24e9bca3584] a nuclear site, the permit or registration conditions imposed must require the monitoring of radioactive discharges and reporting to SEPA of such information on radioactive discharges as the Scottish Ministers direct.
+(2) For the purposes of sub-paragraph (1), where the radioactive substances activity is carried on at[^c-96b2925edb29665e8144d24e9bca3584] a nuclear site, the permit or registration conditions imposed must require the monitoring of radioactive discharges and reporting to SEPA of such information on radioactive discharges as the Scottish Ministers direct.
 
 (3) This sub-paragraph applies to radioactive substances activities which involve either or both the—
 
@@ -390,7 +390,7 @@ SEPA must ensure that a permit for a radioactive substances activity involving a
   - (iv) emergency procedures and communication links;
   - (v) work procedures to be followed;
   - (vi) maintenance of equipment, sources and containers; and
-  - (vii) adequate management of radioactive[^key-df86922b524d7cbce5e17c0279c49c9c] waste sources, including agreements regarding the transfer, if appropriate, of radioactive waste sources to a manufacturer, a supplier, another authorised person or a radioactive waste disposal or storage facility;
+  - (vii) adequate management of radioactive[^c-df86922b524d7cbce5e17c0279c49c9c] waste sources, including agreements regarding the transfer, if appropriate, of radioactive waste sources to a manufacturer, a supplier, another authorised person or a radioactive waste disposal or storage facility;
 - (d) require that the authorised person—
   - (i) undertakes suitable tests, such as leak tests based on international standards, regularly in order to check and maintain the integrity of a source;
   - (ii) regularly verifies at specific intervals that a source and, where relevant, the equipment containing the source, remain present and in apparently good condition at their place of use or storage;
@@ -428,11 +428,11 @@ SEPA must ensure that a permit for a radioactive substances activity involving a
 
 ### PART 3 — Duties of SEPA
 
-#### 26. General Principles of Radiological Protection: Optimisation and Dose Limitation[^key-2eb57f8f039acd9b86986cf8cf6cf7de]
+#### 26. General Principles of Radiological Protection: Optimisation and Dose Limitation[^c-2eb57f8f039acd9b86986cf8cf6cf7de]
 
 (1) SEPA must exercise its relevant functions in relation to radioactive substances activities to ensure that the radiation protection of individuals subject to public exposures is optimised.
 
-(2) SEPA must exercise its relevant functions in relation to radioactive substances activities to ensure that the sum of doses to an individual member of the public[^key-d9b88e485e63d32d42ad46146c3651d5] does not exceed—
+(2) SEPA must exercise its relevant functions in relation to radioactive substances activities to ensure that the sum of doses to an individual member of the public[^c-d9b88e485e63d32d42ad46146c3651d5] does not exceed—
 
 - (a) an effective dose of 1 millisievert in a year;
 - (b) an equivalent dose for the lens of the eye of 15 millisieverts in a year;
@@ -442,12 +442,12 @@ SEPA must ensure that a permit for a radioactive substances activity involving a
 
 (4) In order to estimate effective and equivalent doses, SEPA must use the values and relationships recommended in—
 
-- (a)[^key-cb2e54f98107eebd42846e3db44be3aa] ICRP publication 144: Dose Coefficients for External Exposures to Environmental Sources
+- (a)[^c-cb2e54f98107eebd42846e3db44be3aa] ICRP publication 144: Dose Coefficients for External Exposures to Environmental Sources
 - (b) chapter 1 of ICRP Publication 119 [^c23326081] for the estimation of doses from internal exposure.
 
 #### 27. Dose constraints
 
-(1) In carrying out its relevant functions in relation to radioactive substances activities, SEPA must have regard to the following maximum doses to an individual member of the public[^key-f6373f6acd2af12a42981a804c084005] which may result from the planned carrying on of a radioactive substances activity, for use at the planning stage in radiation protection—
+(1) In carrying out its relevant functions in relation to radioactive substances activities, SEPA must have regard to the following maximum doses to an individual member of the public[^c-f6373f6acd2af12a42981a804c084005] which may result from the planned carrying on of a radioactive substances activity, for use at the planning stage in radiation protection—
 
 - (a) 0.3 millisieverts per year from any source from which radioactive discharges are first made on, or after, 13th May 2000; or
 - (b) 0.5 millisieverts per year from the discharges from any single site.
@@ -536,9 +536,9 @@ SEPA must establish a system to enable an authorised person to inform SEPA of a 
 
 (2) The plans, preparations or provisions required by sub-paragraph (1) include the drawing up of appropriate response plans and measures.
 
-**36.** (1) Where SEPA is satisfied that radioactive waste ought to be disposed of and it is unlikely that the radioactive[^key-fa9a336fedc6798e9a217dcccb225923] waste will be disposed of in accordance with an authorisation on the grounds that either—
+**36.** (1) Where SEPA is satisfied that radioactive waste ought to be disposed of and it is unlikely that the radioactive[^c-fa9a336fedc6798e9a217dcccb225923] waste will be disposed of in accordance with an authorisation on the grounds that either—
 
-- (a) the premises where the radioactive[^key-246b16e5c1cc428c477292bf6e8a160e] waste is located are unoccupied;
+- (a) the premises where the radioactive[^c-246b16e5c1cc428c477292bf6e8a160e] waste is located are unoccupied;
 - (b) the occupier is absent or insolvent;
 - (c) the occupier is a member of the public; or
 - (d) for any other reason,
@@ -1033,7 +1033,7 @@ Concentration of radionuclides: NORM industrial activities
     </tbody>
     </table>
 
-    [^key-5f0eab8374b6d464ab4808fb0a4ac758][^key-f927e913c6ebfbaaffd1e61a0fa75d14][^key-9ac6b07cfb3f9a2c284b0ee4e2ea3fa1][^key-f17f79a709184ba2819f66ab7201c55a][^key-f870b0936ea92cfbf62c130170b75ddf][^key-b8977b2c8970237db03b4ba2e4d7b461][^key-62364920372a84f4d78f426e07a3914c][^key-361a7649603a1d319fd197d909055f45][^key-faeb8631db422b6d1947b6b2700c8433][^key-2be20131c1256dbef519dc24722ffb69][^key-8112ae43eb372aa95b7ec8c09c8f669c][^key-295c3332c127eb946693ca836ab4fef5][^c23326171]
+    [^c-5f0eab8374b6d464ab4808fb0a4ac758][^c-f927e913c6ebfbaaffd1e61a0fa75d14][^c-9ac6b07cfb3f9a2c284b0ee4e2ea3fa1][^c-f17f79a709184ba2819f66ab7201c55a][^c-f870b0936ea92cfbf62c130170b75ddf][^c-b8977b2c8970237db03b4ba2e4d7b461][^c-62364920372a84f4d78f426e07a3914c][^c-361a7649603a1d319fd197d909055f45][^c-faeb8631db422b6d1947b6b2700c8433][^c-2be20131c1256dbef519dc24722ffb69][^c-8112ae43eb372aa95b7ec8c09c8f669c][^c-295c3332c127eb946693ca836ab4fef5][^c23326171]
 
 **Table 5**
 
@@ -1043,13 +1043,13 @@ Concentration of radionuclides: NORM industrial activities
 
 ## Annotations
 
-[^key-1e118f45950558b2b0450a63b858d312]: Textual amendment: [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/1/1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(a)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/a/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-1e118f45950558b2b0450a63b858d312]: Textual amendment: [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/1/1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(a)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/a/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-07c082581eeaf91cc5340c94bd35a1a6]: Textual amendment: [Sch. 8 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/1) renumbered as sch. 8 para. 1(2) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(a)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/a/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-07c082581eeaf91cc5340c94bd35a1a6]: Textual amendment: [Sch. 8 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/1) renumbered as sch. 8 para. 1(2) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(a)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/a/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-16ee8c7aa26210a87c45d8c2526409b7]: Textual amendment: [Sch. 8 para. 2(1)(d)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/2/1/d) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(b)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/b/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-16ee8c7aa26210a87c45d8c2526409b7]: Textual amendment: [Sch. 8 para. 2(1)(d)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/2/1/d) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(b)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/b/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-59dccbaff86ed46179b2a34f372bfb35]: Textual amendment: [Sch. 8 para. 2(1)(e)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/2/1/e) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(b)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/b/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-59dccbaff86ed46179b2a34f372bfb35]: Textual amendment: [Sch. 8 para. 2(1)(e)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/2/1/e) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(b)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/b/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c23325981]: Marginal citation: OJ L 13, 17.1.2014, p.1.
 
@@ -1057,63 +1057,63 @@ Concentration of radionuclides: NORM industrial activities
 
 [^c23326001]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by schedule 22, paragraph 232(1), of the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-d082d13be9f1654e7958e51c08a97f5b]: Textual amendment: Words in [sch. 8 para. 3](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/3) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(c)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/c) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-d082d13be9f1654e7958e51c08a97f5b]: Textual amendment: Words in [sch. 8 para. 3](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/3) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(c)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/c) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c23326021]: Marginal citation: OJ L 353, 31.12.2008, p.1.
 
 [^c23326031]: Marginal citation: [1986 c.62](https://www.legislation.gov.uk/ukpga/1986/62). Section 14 is repealed in relation to specified areas by (1) the [Scotland Act 1998 (River Tweed) Order 2006 (S.S.I. 2006/2913)](https://www.legislation.gov.uk/ssi/2006/2913) schedule 4(2), paragraph 1 and (2) the [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15) schedule 4 paragraph 1.
 
-[^key-d3a4ca321b27f85bfb9f90565e23f04e]: Textual amendment: Words in sch. 8 para. 4(1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(d)(i)(aa)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/d/i/aa) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-d3a4ca321b27f85bfb9f90565e23f04e]: Textual amendment: Words in sch. 8 para. 4(1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(d)(i)(aa)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/d/i/aa) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-fa98ba1c70858ae6effe53a5f58e9e0a]: Textual amendment: Words in sch. 8 para. 4(1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(d)(i)(bb)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/d/i/bb) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-fa98ba1c70858ae6effe53a5f58e9e0a]: Textual amendment: Words in sch. 8 para. 4(1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(d)(i)(bb)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/d/i/bb) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-bcf8a31b584243fb3d0a579187e0dd72]: Textual amendment: Words in sch. 8 para. 4(1) renumbered (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(d)(i)(cc)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/d/i/cc) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-bcf8a31b584243fb3d0a579187e0dd72]: Textual amendment: Words in sch. 8 para. 4(1) renumbered (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(d)(i)(cc)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/d/i/cc) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c23326051]: Marginal citation: [1965 c.57](https://www.legislation.gov.uk/ukpga/1965/57). The Act is relevantly amended by the [Energy Act 2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32) schedule 12, Part II, paragraphs 17 and 20.
 
-[^key-fad34bb293a6442f6d4f357f8a860016]: Textual amendment: Words in sch. 8 para. 4(1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(d)(i)(dd)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/d/i/dd) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-fad34bb293a6442f6d4f357f8a860016]: Textual amendment: Words in sch. 8 para. 4(1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(d)(i)(dd)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/d/i/dd) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-3d0cd7dcbb0accdca64a38d0dcfa47aa]: Textual amendment: Word in sch. 8 para. 4(2) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(d)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/d/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-3d0cd7dcbb0accdca64a38d0dcfa47aa]: Textual amendment: Word in sch. 8 para. 4(2) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(d)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/d/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-f1504a194b49b5a3a31dbb972e6cd47d]: Textual amendment: Words in [sch. 8 para. 5](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/5) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(e)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/e) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f1504a194b49b5a3a31dbb972e6cd47d]: Textual amendment: Words in [sch. 8 para. 5](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/5) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(e)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/e) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-a4d8f311e2fbc50b53125808361005b6]: Textual amendment: [Sch. 8 para. 6(4)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/6/4) comma inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(f)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/f) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-a4d8f311e2fbc50b53125808361005b6]: Textual amendment: [Sch. 8 para. 6(4)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/6/4) comma inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(f)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/f) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-e530e5a9c441829b16de4b8f54903bec]: Textual amendment: Word in sch. 8 para. 13(b) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(g)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/g) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-e530e5a9c441829b16de4b8f54903bec]: Textual amendment: Word in sch. 8 para. 13(b) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(g)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/g) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-65e7699521c0af11412389f4f5675b2c]: Textual amendment: [Sch. 8 para. 14(2)(a)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/14/2/a) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(h)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/h/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-65e7699521c0af11412389f4f5675b2c]: Textual amendment: [Sch. 8 para. 14(2)(a)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/14/2/a) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(h)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/h/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-39dcddb5144793fee7d2fd3cb5069651]: Textual amendment: Words in [sch. 8 para. 14(2)(b)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/14/2/b) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(h)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/h/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-39dcddb5144793fee7d2fd3cb5069651]: Textual amendment: Words in [sch. 8 para. 14(2)(b)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/14/2/b) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(h)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/h/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-56697f2f7025ecec38632b8bfa49c264]: Textual amendment: Word in sch. 8 para. 18(1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-56697f2f7025ecec38632b8bfa49c264]: Textual amendment: Word in sch. 8 para. 18(1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-147ea68224ed9ffb37535011414c2ebf]: Textual amendment: Words in sch. 8 para. 18(3) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/i)[(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-147ea68224ed9ffb37535011414c2ebf]: Textual amendment: Words in sch. 8 para. 18(3) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/i)[(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-f41af6ec58900102f43852c3baa52a3e]: Textual amendment: Sch. 8 para. 19: dash inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(j)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/j/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f41af6ec58900102f43852c3baa52a3e]: Textual amendment: Sch. 8 para. 19: dash inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(j)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/j/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-909e4c3d1dbd4076c7872ed9bc6e0a2d]: Textual amendment: Words in sch. 8 para. 19 renumbered as sch. 8 para. 19(a) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(j)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/j/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-909e4c3d1dbd4076c7872ed9bc6e0a2d]: Textual amendment: Words in sch. 8 para. 19 renumbered as sch. 8 para. 19(a) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(j)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/j/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c23326061]: Marginal citation: [S.I. 2004/1769](https://www.legislation.gov.uk/uksi/2004/1769).
 
-[^key-947de5a14923847536da9cb1d8b034a4]: Textual amendment: Sch. 8 para. 19(b) and words inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(j)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/j/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-947de5a14923847536da9cb1d8b034a4]: Textual amendment: Sch. 8 para. 19(b) and words inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(j)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/j/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-96b2925edb29665e8144d24e9bca3584]: Textual amendment: Word in [sch. 8 para. 22(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/22/2) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(k)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/k) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-96b2925edb29665e8144d24e9bca3584]: Textual amendment: Word in [sch. 8 para. 22(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/22/2) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(k)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/k) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-df86922b524d7cbce5e17c0279c49c9c]: Textual amendment: Word in [sch. 8 para. 23(c)(vii)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/23/c/vii) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(l)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/l) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-df86922b524d7cbce5e17c0279c49c9c]: Textual amendment: Word in [sch. 8 para. 23(c)(vii)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/23/c/vii) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(l)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/l) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-2eb57f8f039acd9b86986cf8cf6cf7de]: Textual amendment: [Sch. 8 para. 26](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/26) heading substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(m)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/m/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-2eb57f8f039acd9b86986cf8cf6cf7de]: Textual amendment: [Sch. 8 para. 26](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/26) heading substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(m)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/m/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-d9b88e485e63d32d42ad46146c3651d5]: Textual amendment: Words in [sch. 8 para. 26(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/26/2) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(m)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/m/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-d9b88e485e63d32d42ad46146c3651d5]: Textual amendment: Words in [sch. 8 para. 26(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/26/2) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(m)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/m/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-cb2e54f98107eebd42846e3db44be3aa]: Textual amendment: [Sch. 8 para. 26(4)(a)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/26/4/a) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(m)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/m/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-cb2e54f98107eebd42846e3db44be3aa]: Textual amendment: [Sch. 8 para. 26(4)(a)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/26/4/a) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(m)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/m/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c23326081]: Marginal citation: ICRP, 2012. Compendium of Dose Coefficients based on ICRP Publication 60. ICRP Publication 119, Ann. ICRP 41(Suppl.)
 
-[^key-f6373f6acd2af12a42981a804c084005]: Textual amendment: Words in [sch. 8 para. 27(1)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/27/1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(n)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/n) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f6373f6acd2af12a42981a804c084005]: Textual amendment: Words in [sch. 8 para. 27(1)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/27/1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(n)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/n) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-fa9a336fedc6798e9a217dcccb225923]: Textual amendment: Word in sch. 8 para. 36(1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(o)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/o/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-fa9a336fedc6798e9a217dcccb225923]: Textual amendment: Word in sch. 8 para. 36(1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(o)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/o/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-246b16e5c1cc428c477292bf6e8a160e]: Textual amendment: Word in sch. 8 para. 36(1)(a) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(o)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/o/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-246b16e5c1cc428c477292bf6e8a160e]: Textual amendment: Word in sch. 8 para. 36(1)(a) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(o)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/o/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c23326091]: Marginal citation: [1993 c.11](https://www.legislation.gov.uk/ukpga/1993/11).
 
@@ -1131,28 +1131,28 @@ Concentration of radionuclides: NORM industrial activities
 
 [^c23326161]: Marginal citation: European Commission: Guidance on General Clearance Levels for Practices, Radiation Protection 122, 2000.
 
-[^key-5f0eab8374b6d464ab4808fb0a4ac758]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-5f0eab8374b6d464ab4808fb0a4ac758]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-f927e913c6ebfbaaffd1e61a0fa75d14]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f927e913c6ebfbaaffd1e61a0fa75d14]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-9ac6b07cfb3f9a2c284b0ee4e2ea3fa1]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-9ac6b07cfb3f9a2c284b0ee4e2ea3fa1]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-f17f79a709184ba2819f66ab7201c55a]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(iv)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/iv) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f17f79a709184ba2819f66ab7201c55a]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(iv)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/iv) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-f870b0936ea92cfbf62c130170b75ddf]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(v)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/v) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f870b0936ea92cfbf62c130170b75ddf]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(v)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/v) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-b8977b2c8970237db03b4ba2e4d7b461]: Textual amendment: word [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(vi)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/vi) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-b8977b2c8970237db03b4ba2e4d7b461]: Textual amendment: word [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(vi)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/vi) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-62364920372a84f4d78f426e07a3914c]: Textual amendment: Words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(vii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/vii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-62364920372a84f4d78f426e07a3914c]: Textual amendment: Words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(vii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/vii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-361a7649603a1d319fd197d909055f45]: Textual amendment: Words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(viii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/viii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-361a7649603a1d319fd197d909055f45]: Textual amendment: Words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(viii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/viii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-faeb8631db422b6d1947b6b2700c8433]: Textual amendment: words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(ix)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/ix) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-faeb8631db422b6d1947b6b2700c8433]: Textual amendment: words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(ix)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/ix) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-2be20131c1256dbef519dc24722ffb69]: Textual amendment: Words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(x)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/x) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-2be20131c1256dbef519dc24722ffb69]: Textual amendment: Words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(x)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/x) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-8112ae43eb372aa95b7ec8c09c8f669c]: Textual amendment: Words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(xi)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/xi) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-8112ae43eb372aa95b7ec8c09c8f669c]: Textual amendment: Words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(xi)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/xi) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-295c3332c127eb946693ca836ab4fef5]: Textual amendment: Words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(xii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/xii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-295c3332c127eb946693ca836ab4fef5]: Textual amendment: Words [Sch. 8 Pt. 6](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/part/6) Table 4 substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [39(p)(xii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/39/p/xii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c23326171]: Marginal citation: Published by the International Atomic Energy Agency in Vienna, Austria (publication date August 2006) (IAEA-EPR-D-Values 2006).

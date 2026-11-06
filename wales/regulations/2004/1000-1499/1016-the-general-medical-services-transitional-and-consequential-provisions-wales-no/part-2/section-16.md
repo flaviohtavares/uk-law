@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Qualifications of performers[^key-19851f92fc3b4548fbfd9941fa071242]
+## 16. Qualifications of performers[^c-19851f92fc3b4548fbfd9941fa071242]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19851f92fc3b4548fbfd9941fa071242]: Commencement: Art. 16 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-19851f92fc3b4548fbfd9941fa071242]: Commencement: Art. 16 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

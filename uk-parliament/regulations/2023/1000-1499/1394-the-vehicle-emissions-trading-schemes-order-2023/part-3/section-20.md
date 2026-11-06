@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. CRTS credits: car clubs (CRTS participants)[^key-4cb93783183ce6a6c7f357661109aab6]
+## 20. CRTS credits: car clubs (CRTS participants)[^c-4cb93783183ce6a6c7f357661109aab6]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4cb93783183ce6a6c7f357661109aab6]: Commencement: Art. 20 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-4cb93783183ce6a6c7f357661109aab6]: Commencement: Art. 20 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
 [^f00014]: Footnote: [S.I. 2002/2742](https://www.legislation.gov.uk/uksi/2002/2742). Schedule 3A was inserted by [S.I. 2015/1657](https://www.legislation.gov.uk/uksi/2015/1657).

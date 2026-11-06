@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-At any time when a vehicle would apart from section 1(4)[^c2522701]of this Act be a public service vehicle, it shall continue to be treated as such for the purposes only of provisions contained in a local Act, in sections 10 to 23 of the Civic Government (Scotland) Act 1982[^c2522711], in the Private Hire Vehicles (London) Act 1998[^key-7cf1f3d18f452e12cc66a3006ee38394] or in Part II of the [^c2522721]Local Government (Miscellaneous Provisions) Act 1976, which regulate the use of private hire vehicles provided for hire with the services of a driver for the purpose of carrying passengers and exclude public service vehicles from the scope of that regulation.
+At any time when a vehicle would apart from section 1(4)[^c2522701]of this Act be a public service vehicle, it shall continue to be treated as such for the purposes only of provisions contained in a local Act, in sections 10 to 23 of the Civic Government (Scotland) Act 1982[^c2522711], in the Private Hire Vehicles (London) Act 1998[^c-7cf1f3d18f452e12cc66a3006ee38394] or in Part II of the [^c2522721]Local Government (Miscellaneous Provisions) Act 1976, which regulate the use of private hire vehicles provided for hire with the services of a driver for the purpose of carrying passengers and exclude public service vehicles from the scope of that regulation.
 
 ## Annotations
 
@@ -30,6 +30,6 @@ At any time when a vehicle would apart from section 1(4)[^c2522701]of this Act b
 
 [^c2522711]: Textual amendment: Words substituted by Civic Government (Scotland) Act 1982 (c. 45 SIF 81:2), s. 137(3), Sch. 3 para. 5
 
-[^key-7cf1f3d18f452e12cc66a3006ee38394]: Textual amendment: Words in s. 79 inserted (8.6.2004) by [Private Hire Vehicles (London) Act 1998 (c. 34)](https://www.legislation.gov.uk/ukpga/1998/34), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1998/34/section/40/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1998/34/schedule/1/paragraph/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/1998/34/section/29)); [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+[^c-7cf1f3d18f452e12cc66a3006ee38394]: Textual amendment: Words in s. 79 inserted (8.6.2004) by [Private Hire Vehicles (London) Act 1998 (c. 34)](https://www.legislation.gov.uk/ukpga/1998/34), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1998/34/section/40/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1998/34/schedule/1/paragraph/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/1998/34/section/29)); [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
 
 [^c2522721]: Marginal citation: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).

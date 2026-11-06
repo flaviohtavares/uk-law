@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Where a conduct complaint is remitted to a relevant professional organisation under section 6(2)(a)[^key-a76a7d3398d392d4716fc5bebc6da044] or 15(5)(a), the organisation must, subject to section 15(1) and (6), investigate it.
+(1) Where a conduct complaint is remitted to a relevant professional organisation under section 6(2)(a)[^c-a76a7d3398d392d4716fc5bebc6da044] or 15(5)(a), the organisation must, subject to section 15(1) and (6), investigate it.
 
 (2) After investigating a conduct complaint, the relevant professional organisation must make a written report to the complainer and the practitioner of—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a76a7d3398d392d4716fc5bebc6da044]: Textual amendment: Word in [s. 47(1)](https://www.legislation.gov.uk/asp/2007/5/section/47/1) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(11)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/11) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-a76a7d3398d392d4716fc5bebc6da044]: Textual amendment: Word in [s. 47(1)](https://www.legislation.gov.uk/asp/2007/5/section/47/1) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(11)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/11) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))

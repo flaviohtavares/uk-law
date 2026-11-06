@@ -48,7 +48,7 @@ summary: ''
 
 but a vesting order shall not be made in relation to any such land, where representations objecting to the proposal for making the order have been duly made by the owner of the land and have not been withdrawn, unless the proposal has been approved by a resolution of the Assembly.
 
-(11) The Department may transfer to another Department of the Government of Northern Ireland or to the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] or to the governing body of an institution of further education[^c17009691] any land acquired by it under this Article or vested in it by Article 94(1) of the 1972 Order.
+(11) The Department may transfer to another Department of the Government of Northern Ireland or to the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] or to the governing body of an institution of further education[^c17009691] any land acquired by it under this Article or vested in it by Article 94(1) of the 1972 Order.
 
 (12) Stamp duty shall not be payable on any instrument or other document executed for the purpose of transferring land from the Department under paragraph (11).
 
@@ -66,6 +66,6 @@ but a vesting order shall not be made in relation to any such land, where repres
 
 [^c17009671]: Textual amendment: [1995 NI 9](https://www.legislation.gov.uk/nisi/1995)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17009691]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)

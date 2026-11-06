@@ -65,17 +65,17 @@ These Regulations—
 (1) In these Regulations—
 
 - “**the 1990 Act**” means the Food Safety Act 1990;
-- “the Annex” means Part IV of Annex[^key-95b059fd6d99ba39cc24ce77249b12fd] VII to Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1307/2001](https://www.legislation.gov.uk/european/regulation/2001/1307) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234),
-- “Article 78(2)” means Article 78(2) of the[^key-bec24a00e8732d4030df399884276b84] EU Regulation,
-- “the[^key-e442374b1782deeb9fbefa7de1e92b93] EU Regulation” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1307/2001](https://www.legislation.gov.uk/european/regulation/2001/1307) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time,
+- “the Annex” means Part IV of Annex[^c-95b059fd6d99ba39cc24ce77249b12fd] VII to Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1307/2001](https://www.legislation.gov.uk/european/regulation/2001/1307) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234),
+- “Article 78(2)” means Article 78(2) of the[^c-bec24a00e8732d4030df399884276b84] EU Regulation,
+- “the[^c-e442374b1782deeb9fbefa7de1e92b93] EU Regulation” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1307/2001](https://www.legislation.gov.uk/european/regulation/2001/1307) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time,
 - “**drinking milk**” has the meaning given in point I(b) of the Annex;
 - “**food authority**” has the same meaning as in section 5(2) [^c20704651] of the 1990 Act;
 - “**milk**” has the meaning given in point I(a) of the Annex; and
 - “**sell**” includes possess for sale and offer, expose or advertise for sale.
 
-(2) Other expressions used in these Regulations and in the EU[^key-e8290ec562b2940371e700828341ae15] Regulation or the Annex[^key-ffd19fc7ea40fc89ca775c40b5f0ac52] which are not defined in these Regulations have the same meaning in these Regulations as they have in the EU Regulation or the Annex.
+(2) Other expressions used in these Regulations and in the EU[^c-e8290ec562b2940371e700828341ae15] Regulation or the Annex[^c-ffd19fc7ea40fc89ca775c40b5f0ac52] which are not defined in these Regulations have the same meaning in these Regulations as they have in the EU Regulation or the Annex.
 
-(3) References in these Regulations to Article 78(2)[^key-a8eac058bb5bbe439ccebd62e22e818f] and the Annex are references to Article 78(2) and the Annex as amended from time to time.
+(3) References in these Regulations to Article 78(2)[^c-a8eac058bb5bbe439ccebd62e22e818f] and the Annex are references to Article 78(2) and the Annex as amended from time to time.
 
 ## 3. Sale or delivery of milk and use of sales description
 
@@ -84,9 +84,9 @@ No person may—
 - (a) sell, or deliver, milk; or
 - (b) use, or omit to use, a sales description for any product,
 
-in contravention of Article 78(2)[^key-27ccb2479b72a8f16540c85b2b893da4] or point II(1) and (2) of the Annex, as read with point III of the Annex.
+in contravention of Article 78(2)[^c-27ccb2479b72a8f16540c85b2b893da4] or point II(1) and (2) of the Annex, as read with point III of the Annex.
 
-## 4. Importation of products from outside the EU for sale as drinking milk[^key-8c89258f5b0ef210baf6e19b848f3d0f]
+## 4. Importation of products from outside the EU for sale as drinking milk[^c-8c89258f5b0ef210baf6e19b848f3d0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -96,11 +96,11 @@ in contravention of Article 78(2)[^key-27ccb2479b72a8f16540c85b2b893da4] or poin
 
 (2) Each food authority must give such assistance and information to any other food authority in Great Britain as that other food authority may reasonably require for the purpose of carrying out its duties under these Regulations or an equivalent provision.
 
-(3) In this regulation, “**equivalent provision**” means a provision in Regulations that extends to England or Wales for the purpose of implementing Article 78(2)[^key-15080f72b0db9b9093dec2df4bf3714b] or the Annex.
+(3) In this regulation, “**equivalent provision**” means a provision in Regulations that extends to England or Wales for the purpose of implementing Article 78(2)[^c-15080f72b0db9b9093dec2df4bf3714b] or the Annex.
 
 ## 6. Offences and penalties
 
-Any person who fails to comply with regulation 3 [^key-43c1176abbeb330640e4c3ce1b6d2adb]... is—
+Any person who fails to comply with regulation 3 [^c-43c1176abbeb330640e4c3ce1b6d2adb]... is—
 
 - (a) guilty of an offence; and
 - (b) liable on summary conviction to a fine not exceeding level 5 on the standard scale.
@@ -136,11 +136,11 @@ Any person who fails to comply with regulation 3 [^key-43c1176abbeb330640e4c3ce1
 
 (5) Paragraph (2) shall not apply to the references to a section of the 1990 Act which are modified by paragraph (4)(c).
 
-## 8. Amendments[^key-d5d075336d6a0889d0990a7786295dad]
+## 8. Amendments[^c-d5d075336d6a0889d0990a7786295dad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-89dfbf8c8d9179287a3956248b2c6bbc]
+## 9.[^c-89dfbf8c8d9179287a3956248b2c6bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -184,27 +184,27 @@ A Business and Regulatory Impact Assessment has not been produced for this instr
 
 [^c20704641]: Marginal citation: Section 48(4A) was inserted by section 40(1) of, and paragraphs 7 and 21 of Schedule 5 to, the 1999 Act.
 
-[^key-95b059fd6d99ba39cc24ce77249b12fd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(a)(i)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/a/i)
+[^c-95b059fd6d99ba39cc24ce77249b12fd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(a)(i)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/a/i)
 
-[^key-bec24a00e8732d4030df399884276b84]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/a/ii)
+[^c-bec24a00e8732d4030df399884276b84]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/a/ii)
 
-[^key-e442374b1782deeb9fbefa7de1e92b93]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/a/iii)
+[^c-e442374b1782deeb9fbefa7de1e92b93]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/a/iii)
 
 [^c20704651]: Marginal citation: Section 5(2) was amended by section 180 of, and paragraph 163(1) and (2) of Schedule 13 to, the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-e8290ec562b2940371e700828341ae15]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/2) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/b)
+[^c-e8290ec562b2940371e700828341ae15]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/2) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/b)
 
-[^key-ffd19fc7ea40fc89ca775c40b5f0ac52]: Textual amendment: Words in reg. 2(2) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [22(2)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/22/2/b)
+[^c-ffd19fc7ea40fc89ca775c40b5f0ac52]: Textual amendment: Words in reg. 2(2) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [22(2)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/22/2/b)
 
-[^key-a8eac058bb5bbe439ccebd62e22e818f]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/c)
+[^c-a8eac058bb5bbe439ccebd62e22e818f]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/c)
 
-[^key-27ccb2479b72a8f16540c85b2b893da4]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2011/84/regulation/3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/3)
+[^c-27ccb2479b72a8f16540c85b2b893da4]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2011/84/regulation/3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/3)
 
-[^key-8c89258f5b0ef210baf6e19b848f3d0f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/84/regulation/4) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [22(3)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/22/3)
+[^c-8c89258f5b0ef210baf6e19b848f3d0f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/84/regulation/4) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [22(3)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/22/3)
 
-[^key-15080f72b0db9b9093dec2df4bf3714b]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2011/84/regulation/5/3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(4)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/4)
+[^c-15080f72b0db9b9093dec2df4bf3714b]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2011/84/regulation/5/3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(4)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/4)
 
-[^key-43c1176abbeb330640e4c3ce1b6d2adb]: Textual amendment: Words in reg. 6 omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [22(4)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/22/4)
+[^c-43c1176abbeb330640e4c3ce1b6d2adb]: Textual amendment: Words in reg. 6 omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [22(4)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/22/4)
 
 [^c20704661]: Marginal citation: [Section 2](https://www.legislation.gov.uk/ssi/2011/84/section/2) was amended by section 40(1) of, and paragraphs 7 and 8 of Schedule 5 to, the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
 
@@ -212,9 +212,9 @@ A Business and Regulatory Impact Assessment has not been produced for this instr
 
 [^c20704681]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/ssi/2011/84/section/36A) was inserted by section 40(1) of, and paragraphs 7 and 16 of Schedule 5 to, the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-d5d075336d6a0889d0990a7786295dad]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/84/regulation/8) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+[^c-d5d075336d6a0889d0990a7786295dad]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/84/regulation/8) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
 
-[^key-89dfbf8c8d9179287a3956248b2c6bbc]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/84/regulation/9) revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(5)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/5)
+[^c-89dfbf8c8d9179287a3956248b2c6bbc]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/84/regulation/9) revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(5)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/5)
 
 [^c20704731]: Marginal citation: [S.I](https://www.legislation.gov.uk/ssi/2011/84/section/I). 1998/2424; amended insofar as it applies to Scotland by S.S.I. 2005/616 and 2006/3.
 

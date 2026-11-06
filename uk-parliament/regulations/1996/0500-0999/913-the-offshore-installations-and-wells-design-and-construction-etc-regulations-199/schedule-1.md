@@ -146,7 +146,7 @@ Workstations, traffic routes and other areas outdoors which are used or occupied
 **46.** When workers are employed at workstations outdoors, such workstations must as far as possible be arranged so that workers—
 
 - (a) are protected against inclement weather conditions and, if necessary, against falling objects;
-- (b)[^key-268ccabb21d4964dee1c0554a9847aaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-268ccabb21d4964dee1c0554a9847aaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) are able to leave their workstations swiftly in the event of danger or are able to be rapidly assisted; and
 - (d) cannot slip or fall.
 
@@ -189,7 +189,7 @@ In addition to those facilities provided in any accommodation, lavatories and wa
 If the nature, scale and duration of operations so require, persons on the installation shall be provided with accommodation which is—
 
 - (a) suitably provided with ventilation, heating and lighting;
-- (b) protected against [^key-af3e5af8a648de39fa8a3b1bf4f039f2]..., smells and fumes likely to be hazardous to health from other areas, and against inclement weather; and
+- (b) protected against [^c-af3e5af8a648de39fa8a3b1bf4f039f2]..., smells and fumes likely to be hazardous to health from other areas, and against inclement weather; and
 - (c) separate from any workstation and located away from dangerous areas.
 
 **60.** Accommodation must contain sufficient beds or bunks for the number of persons expected to sleep on the installation.
@@ -216,16 +216,16 @@ for men and women.
 
 **66.** Accommodation and its plant must be maintained to adequate standards of hygiene.
 
-### 67. ... vibration of plant[^key-5322f5c87107406fe706fd1bdbc61e19][^key-8dbaa63d7a1cc9ff699dc8faa8d70e27]
+### 67. ... vibration of plant[^c-5322f5c87107406fe706fd1bdbc61e19][^c-8dbaa63d7a1cc9ff699dc8faa8d70e27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-268ccabb21d4964dee1c0554a9847aaa]: Textual amendment: Sch. 1 para. 46(b) revoked (6.4.2006 for specified purposes, 6.4.2008 in so far as not already in force) by [The Control of Noise at Work Regulations 2005 (S.I. 2005/1643)](https://www.legislation.gov.uk/uksi/2005/1643), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1643/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/15/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/1643/schedule/3) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/4))
+[^c-268ccabb21d4964dee1c0554a9847aaa]: Textual amendment: Sch. 1 para. 46(b) revoked (6.4.2006 for specified purposes, 6.4.2008 in so far as not already in force) by [The Control of Noise at Work Regulations 2005 (S.I. 2005/1643)](https://www.legislation.gov.uk/uksi/2005/1643), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1643/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/15/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/1643/schedule/3) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/4))
 
-[^key-af3e5af8a648de39fa8a3b1bf4f039f2]: Textual amendment: Word in Sch. 1 para. 59 revoked (6.4.2006 for specified purposes, 6.4.2008 in so far as not already in force) by [The Control of Noise at Work Regulations 2005 (S.I. 2005/1643)](https://www.legislation.gov.uk/uksi/2005/1643), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1643/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/15/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/1643/schedule/3) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/4))
+[^c-af3e5af8a648de39fa8a3b1bf4f039f2]: Textual amendment: Word in Sch. 1 para. 59 revoked (6.4.2006 for specified purposes, 6.4.2008 in so far as not already in force) by [The Control of Noise at Work Regulations 2005 (S.I. 2005/1643)](https://www.legislation.gov.uk/uksi/2005/1643), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1643/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/15/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/1643/schedule/3) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/4))
 
-[^key-5322f5c87107406fe706fd1bdbc61e19]: Textual amendment: [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/1996/913/schedule/1/paragraph/67) omitted (6.7.2005) by virtue of [The Control of Vibration at Work Regulations 2005 (S.I. 2005/1093)](https://www.legislation.gov.uk/uksi/2005/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1), [13(1)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/13/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3))
+[^c-5322f5c87107406fe706fd1bdbc61e19]: Textual amendment: [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/1996/913/schedule/1/paragraph/67) omitted (6.7.2005) by virtue of [The Control of Vibration at Work Regulations 2005 (S.I. 2005/1093)](https://www.legislation.gov.uk/uksi/2005/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1), [13(1)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/13/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3))
 
-[^key-8dbaa63d7a1cc9ff699dc8faa8d70e27]: Textual amendment: Words in Sch. 1 para. 67 heading revoked (21.2.1998) by virtue of [The Offshore Electricity and Noise Regulations 1997 (S.I. 1997/1993)](https://www.legislation.gov.uk/uksi/1997/1993), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1993/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/1997/1993/regulation/4/2/a)
+[^c-8dbaa63d7a1cc9ff699dc8faa8d70e27]: Textual amendment: Words in Sch. 1 para. 67 heading revoked (21.2.1998) by virtue of [The Offshore Electricity and Noise Regulations 1997 (S.I. 1997/1993)](https://www.legislation.gov.uk/uksi/1997/1993), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1993/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/1997/1993/regulation/4/2/a)

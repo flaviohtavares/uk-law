@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 135. Supervision requirements: conditions restricting movement[^key-bb0c507528e6e35180d4313531769366]
+## 135. Supervision requirements: conditions restricting movement[^c-bb0c507528e6e35180d4313531769366]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb0c507528e6e35180d4313531769366]: Textual amendment: [Ss. 135-137](https://www.legislation.gov.uk/asp/2004/8/section/135) repealed (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
+[^c-bb0c507528e6e35180d4313531769366]: Textual amendment: [Ss. 135-137](https://www.legislation.gov.uk/asp/2004/8/section/135) repealed (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)

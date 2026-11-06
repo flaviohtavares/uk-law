@@ -23,8 +23,8 @@ summary: ''
 A payment made, or to be made, to a body situated outside the United Kingdom is non-charitable expenditure under section 543(1)(f) if—
 
 - (a) it is incurred for charitable purposes only, but
-- (b) the trustees of the charitable trust have not taken such steps as the Commissioners for Her Majesty's Revenue and Customs consider[^key-356a245203722b49e097b5b6175d9a7f] are reasonable in the circumstances to ensure that the payment will be applied for charitable purposes.
+- (b) the trustees of the charitable trust have not taken such steps as the Commissioners for Her Majesty's Revenue and Customs consider[^c-356a245203722b49e097b5b6175d9a7f] are reasonable in the circumstances to ensure that the payment will be applied for charitable purposes.
 
 ## Annotations
 
-[^key-356a245203722b49e097b5b6175d9a7f]: Textual amendment: Words in s. 547(b) inserted (8.4.2010 with effect in accordance with Sch. 8 para. 8(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 2(1)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/2/1)
+[^c-356a245203722b49e097b5b6175d9a7f]: Textual amendment: Words in s. 547(b) inserted (8.4.2010 with effect in accordance with Sch. 8 para. 8(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 2(1)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/2/1)

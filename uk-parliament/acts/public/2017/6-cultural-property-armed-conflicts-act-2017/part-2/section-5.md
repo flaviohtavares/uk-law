@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Responsibility of commanders and other superiors[^key-40958e9d3599048a8c1659e65abc1626]
+## 5. Responsibility of commanders and other superiors[^c-40958e9d3599048a8c1659e65abc1626]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40958e9d3599048a8c1659e65abc1626]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/6/section/5) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-40958e9d3599048a8c1659e65abc1626]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/6/section/5) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

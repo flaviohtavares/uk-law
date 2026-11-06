@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Referral of release decisions: fixed-term prisoners[^key-c652a4fd472e9856ea06648aa7ebbbee][^key-cdfaa61db271fc5f315710f7816c5dd8]
+## 62. Referral of release decisions: fixed-term prisoners[^c-c652a4fd472e9856ea06648aa7ebbbee][^c-cdfaa61db271fc5f315710f7816c5dd8]
 
 *Extent: E+W*
 
@@ -104,6 +104,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c652a4fd472e9856ea06648aa7ebbbee]: Commencement: S. 62 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-c652a4fd472e9856ea06648aa7ebbbee]: Commencement: S. 62 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-cdfaa61db271fc5f315710f7816c5dd8]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2024/21/section/62) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/f)
+[^c-cdfaa61db271fc5f315710f7816c5dd8]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2024/21/section/62) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/f)

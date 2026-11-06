@@ -44,7 +44,7 @@ where the acquisition of that interest is reasonably necessary for the proper ma
 
 the obligation or (as the case may be) right under subsection (1) above to acquire the interest of the tenant under the lease shall not extend to his interest under the lease in any such other premises.
 
-(5) Where the qualifying tenant of a flat is a public sector landlord and the flat is let under a secure tenancy or an introductory tenancy[^c17023001] or a secure contract (or an introductory standard contract)[^key-c4f618378d0664446c652252c53395d0], then if—
+(5) Where the qualifying tenant of a flat is a public sector landlord and the flat is let under a secure tenancy or an introductory tenancy[^c17023001] or a secure contract (or an introductory standard contract)[^c-c4f618378d0664446c652252c53395d0], then if—
 
 - (a) the condition specified in subsection (6) is satisfied, and
 - (b) the lease of the qualifying tenant is directly derived out of a lease under which the tenant is a public sector landlord,
@@ -53,8 +53,8 @@ the interest of that public sector landlord as tenant under that lease shall not
 
 (6) The condition referred to in subsection (5)(a) is that either—
 
-- (a) the qualifying tenant is the immediate landlord under the secure tenancy or, as the case may be, the introductory tenancy[^c17023011] or the secure contract (or the introductory standard contract)[^key-e5c5268edf82be883bd9e173f0e4523f], or
-- (b) he is the landlord under a lease which is superior to the secure tenancy or, as the case may be, the introductory tenancy[^c17023021] or the secure contract (or the introductory standard contract)[^key-da48b3dac3c8b25526f6dd54db6c0996] and the tenant under that lease, and the tenant under every lease (if any) intermediate between it and the secure tenancy or the introductory tenancy or the secure contract (or the introductory standard contract), is also a public sector landlord;
+- (a) the qualifying tenant is the immediate landlord under the secure tenancy or, as the case may be, the introductory tenancy[^c17023011] or the secure contract (or the introductory standard contract)[^c-e5c5268edf82be883bd9e173f0e4523f], or
+- (b) he is the landlord under a lease which is superior to the secure tenancy or, as the case may be, the introductory tenancy[^c17023021] or the secure contract (or the introductory standard contract)[^c-da48b3dac3c8b25526f6dd54db6c0996] and the tenant under that lease, and the tenant under every lease (if any) intermediate between it and the secure tenancy or the introductory tenancy or the secure contract (or the introductory standard contract), is also a public sector landlord;
 
 and in subsection (5) “**appurtenant property**” has the same meaning as in section 1.
 
@@ -64,12 +64,12 @@ and in subsection (5) “**appurtenant property**” has the same meaning as in 
 
 [^c17023001]: Textual amendment: Words in [s. 2(5)](https://www.legislation.gov.uk/ukpga/1993/28/section/2/5) inserted (12.2.1997) by [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [art. 2](https://www.legislation.gov.uk/uksi/1997/74/article/2), [Sch. para. 9(a)(i)](https://www.legislation.gov.uk/uksi/1997/74/schedule/paragraph/9/a/i)
 
-[^key-c4f618378d0664446c652252c53395d0]: Textual amendment: Words in [s. 2(5)](https://www.legislation.gov.uk/ukpga/1993/28/section/2/5) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(2)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/2/a)
+[^c-c4f618378d0664446c652252c53395d0]: Textual amendment: Words in [s. 2(5)](https://www.legislation.gov.uk/ukpga/1993/28/section/2/5) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(2)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/2/a)
 
 [^c17023011]: Textual amendment: Words in [s. 2(6)(a)](https://www.legislation.gov.uk/ukpga/1993/28/section/2/6/a) inserted (12.2.1997) by [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [art. 2](https://www.legislation.gov.uk/uksi/1997/74/article/2), [Sch. para. 9(a)(ii)](https://www.legislation.gov.uk/uksi/1997/74/schedule/paragraph/9/a/ii)
 
-[^key-e5c5268edf82be883bd9e173f0e4523f]: Textual amendment: Words in [s. 2(6)(a)](https://www.legislation.gov.uk/ukpga/1993/28/section/2/6/a) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/2/b)
+[^c-e5c5268edf82be883bd9e173f0e4523f]: Textual amendment: Words in [s. 2(6)(a)](https://www.legislation.gov.uk/ukpga/1993/28/section/2/6/a) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/2/b)
 
 [^c17023021]: Textual amendment: Words in [s. 2(6)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/2/6/b) inserted (12.2.1997) by [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [art. 2](https://www.legislation.gov.uk/uksi/1997/74/article/2), [Sch. para. 9(a)(iii)](https://www.legislation.gov.uk/uksi/1997/74/schedule/paragraph/9/a/iii)
 
-[^key-da48b3dac3c8b25526f6dd54db6c0996]: Textual amendment: Words in [s. 2(6)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/2/6/b) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/2/c)
+[^c-da48b3dac3c8b25526f6dd54db6c0996]: Textual amendment: Words in [s. 2(6)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/2/6/b) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/2/c)

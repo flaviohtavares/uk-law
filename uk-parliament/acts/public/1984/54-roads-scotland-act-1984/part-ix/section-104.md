@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Acquisition of land for construction, improvement or protection of public roads etc.[^key-a38930988c5127b02f6fd9fcbf27eed5]
+## 104. Acquisition of land for construction, improvement or protection of public roads etc.[^c-a38930988c5127b02f6fd9fcbf27eed5]
 
 *Extent: S*
 
@@ -50,7 +50,7 @@ or for any other purpose for which land is required in connection with such an o
 
 ## Annotations
 
-[^key-a38930988c5127b02f6fd9fcbf27eed5]: Modification: [Ss. 103-111](https://www.legislation.gov.uk/ukpga/1984/54/section/103) excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(4)](https://www.legislation.gov.uk/asp/2011/2/section/20/4), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-a38930988c5127b02f6fd9fcbf27eed5]: Modification: [Ss. 103-111](https://www.legislation.gov.uk/ukpga/1984/54/section/103) excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(4)](https://www.legislation.gov.uk/asp/2011/2/section/20/4), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
 [^c1610804]: Textual amendment: Words in [s. 104(1)(b)](https://www.legislation.gov.uk/ukpga/1984/54/section/104/1/b) substituted (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 4](https://www.legislation.gov.uk/ukpga/1997/11/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2), [para. 38(7)](https://www.legislation.gov.uk/ukpga/1997/11/paragraph/38/7)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 698A. Debits arising from derecognition of derivative contracts[^key-341f316e33e6ce3469356e1f057fbe4b]
+## 698A. Debits arising from derecognition of derivative contracts[^c-341f316e33e6ce3469356e1f057fbe4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-341f316e33e6ce3469356e1f057fbe4b]: Textual amendment: S. 698A and cross-heading inserted (19.7.2011) (with effect in accordance with Sch. 4 para. 13 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2011/11/schedule/4/paragraph/11)
+[^c-341f316e33e6ce3469356e1f057fbe4b]: Textual amendment: S. 698A and cross-heading inserted (19.7.2011) (with effect in accordance with Sch. 4 para. 13 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2011/11/schedule/4/paragraph/11)

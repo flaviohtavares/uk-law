@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Interpretation[^key-8e7c9e8727ec46356f5cf77eee5201b0][^key-dcec9f7167d178d96b2f19779feefa7c]
+## 82. Interpretation[^c-8e7c9e8727ec46356f5cf77eee5201b0][^c-dcec9f7167d178d96b2f19779feefa7c]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ In this Part—
 
 ## Annotations
 
-[^key-8e7c9e8727ec46356f5cf77eee5201b0]: Commencement: S. 82 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-8e7c9e8727ec46356f5cf77eee5201b0]: Commencement: S. 82 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-dcec9f7167d178d96b2f19779feefa7c]: Commencement: S. 82 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-dcec9f7167d178d96b2f19779feefa7c]: Commencement: S. 82 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

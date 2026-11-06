@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Recourse of liquidator to meeting of creditors[^key-e9d0e763417a64d3388e8377ace54dc5]
+## 47. Recourse of liquidator to meeting of creditors[^c-e9d0e763417a64d3388e8377ace54dc5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.33 of the 1986 Rules.
 
 ## Annotations
 
-[^key-e9d0e763417a64d3388e8377ace54dc5]: Commencement: Rule 47 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-e9d0e763417a64d3388e8377ace54dc5]: Commencement: Rule 47 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

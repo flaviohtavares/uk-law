@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Classification of roads etc.[^key-9c7a669c9a290d85259c1ab7f9d4f299]
+## 14. Classification of roads etc.[^c-9c7a669c9a290d85259c1ab7f9d4f299]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c7a669c9a290d85259c1ab7f9d4f299]: Commencement: Art. 14 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-9c7a669c9a290d85259c1ab7f9d4f299]: Commencement: Art. 14 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)

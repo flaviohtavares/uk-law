@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**218.**[^key-a28da03560cc4f769d2fa4be39739bb7] Omit sections 31 to 34 (Local Safeguarding Children Boards in Wales).
+**218.**[^c-a28da03560cc4f769d2fa4be39739bb7] Omit sections 31 to 34 (Local Safeguarding Children Boards in Wales).
 
 ## Annotations
 
-[^key-a28da03560cc4f769d2fa4be39739bb7]: Commencement: Reg. 218 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-a28da03560cc4f769d2fa4be39739bb7]: Commencement: Reg. 218 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

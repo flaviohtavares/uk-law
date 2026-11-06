@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Power of Scottish Ministers to make consequential provision[^key-131ee4ef3644885b61e1d86f38b81ca8]
+## 169. Power of Scottish Ministers to make consequential provision[^c-131ee4ef3644885b61e1d86f38b81ca8]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-131ee4ef3644885b61e1d86f38b81ca8]: Commencement: S. 169 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-131ee4ef3644885b61e1d86f38b81ca8]: Commencement: S. 169 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

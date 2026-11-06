@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Broadcasting of local items during election period[^key-4bca811cc09942fde2b8822bc64d7e94]
+## 64. Broadcasting of local items during election period[^c-4bca811cc09942fde2b8822bc64d7e94]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ and ending with the close of the poll.
 
 ## Annotations
 
-[^key-4bca811cc09942fde2b8822bc64d7e94]: Commencement: Art. 64 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-4bca811cc09942fde2b8822bc64d7e94]: Commencement: Art. 64 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

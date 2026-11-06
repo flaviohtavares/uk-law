@@ -45,10 +45,10 @@ summary: ''
 
 (7) A person guilty of an offence under this regulation is liable, either on summary conviction or on conviction on indictment, to a fine.
 
-(8) This regulation does not apply to a person on board a third country ship unless the United Kingdom is entitled under international law to exercise those powers without the consent of the flag state[^key-55f1497d58f028b2e86191c4443889d7].
+(8) This regulation does not apply to a person on board a third country ship unless the United Kingdom is entitled under international law to exercise those powers without the consent of the flag state[^c-55f1497d58f028b2e86191c4443889d7].
 
 ## Annotations
 
 [^c23068191]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) was amended by the [Oil and Gas (Enterprise) Act 1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23) paragraph 1 of Schedule 3. Areas have been designated under section 1(7) by [S.I. 1987/1265](https://www.legislation.gov.uk/uksi/1987/1265), 2000/3062 (revoked by [S.I. 2013/3162](https://www.legislation.gov.uk/uksi/2013/3162)), 2001/3670 (revoked by [S.I. 2013/3162](https://www.legislation.gov.uk/uksi/2013/3162)), and 2013/3162.
 
-[^key-55f1497d58f028b2e86191c4443889d7]: Textual amendment: Words in [reg. 54(8)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/54/8) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [64](https://www.legislation.gov.uk/uksi/2019/579/regulation/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55f1497d58f028b2e86191c4443889d7]: Textual amendment: Words in [reg. 54(8)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/54/8) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [64](https://www.legislation.gov.uk/uksi/2019/579/regulation/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

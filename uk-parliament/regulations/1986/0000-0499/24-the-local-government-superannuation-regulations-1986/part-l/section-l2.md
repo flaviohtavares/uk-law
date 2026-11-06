@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## L2. Persons to whom Part L applies[^key-5a16efd9002d1d8d95fdf755875e58fa]
+## L2. Persons to whom Part L applies[^c-5a16efd9002d1d8d95fdf755875e58fa]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ and for the purposes of this Part a police cadet appointed under section 17 of t
 
 ## Annotations
 
-[^key-5a16efd9002d1d8d95fdf755875e58fa]: Commencement: [Reg. L2](https://www.legislation.gov.uk/uksi/1986/24/regulation/L2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-5a16efd9002d1d8d95fdf755875e58fa]: Commencement: [Reg. L2](https://www.legislation.gov.uk/uksi/1986/24/regulation/L2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00069]: Footnote: [1964 c.48](https://www.legislation.gov.uk/ukpga/1964/48).
 

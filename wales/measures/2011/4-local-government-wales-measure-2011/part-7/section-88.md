@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Convening of community meetings by local government electors[^key-3012c73436a9b7b1a47e431cc92e4b3a]
+## 88. Convening of community meetings by local government electors[^c-3012c73436a9b7b1a47e431cc92e4b3a]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3012c73436a9b7b1a47e431cc92e4b3a]: Commencement: [S. 88](https://www.legislation.gov.uk/mwa/2011/4/section/88) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/k)
+[^c-3012c73436a9b7b1a47e431cc92e4b3a]: Commencement: [S. 88](https://www.legislation.gov.uk/mwa/2011/4/section/88) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/k)

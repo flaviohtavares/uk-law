@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Scope of enquiry[^key-3ba20bc34b1ec6dd3ace35a79ec58e62]
+## 86. Scope of enquiry[^c-3ba20bc34b1ec6dd3ace35a79ec58e62]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ba20bc34b1ec6dd3ace35a79ec58e62]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2014/16/section/86) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-3ba20bc34b1ec6dd3ace35a79ec58e62]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2014/16/section/86) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

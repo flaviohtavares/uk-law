@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Revocation[^key-86a7a55d0e75a278dc8f29f98833b4d0]
+## 2. Revocation[^c-86a7a55d0e75a278dc8f29f98833b4d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ The Orders specified in Schedule 1 to this Order are revoked.
 
 ## Annotations
 
-[^key-86a7a55d0e75a278dc8f29f98833b4d0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2870/article/2) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-86a7a55d0e75a278dc8f29f98833b4d0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2870/article/2) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138KA. Variation where scheme includes provision under section 138E[^key-2911af3c505a5b43b65aa93fa391cc82][^key-652ea49e5927586cb07bdb4300947115]
+## 138KA. Variation where scheme includes provision under section 138E[^c-2911af3c505a5b43b65aa93fa391cc82][^c-652ea49e5927586cb07bdb4300947115]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2911af3c505a5b43b65aa93fa391cc82]: Textual amendment: [S. 138KA](https://www.legislation.gov.uk/ukpga/2000/38/section/138KA) inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 17](https://www.legislation.gov.uk/ukpga/2025/24/section/17), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/d)
+[^c-2911af3c505a5b43b65aa93fa391cc82]: Textual amendment: [S. 138KA](https://www.legislation.gov.uk/ukpga/2000/38/section/138KA) inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 17](https://www.legislation.gov.uk/ukpga/2025/24/section/17), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/d)
 
-[^key-652ea49e5927586cb07bdb4300947115]: Textual amendment: Ss. 138A-138S and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/21/section/9), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-652ea49e5927586cb07bdb4300947115]: Textual amendment: Ss. 138A-138S and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/21/section/9), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)

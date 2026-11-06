@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Continuation of water services[^key-094878c8371117c27c979527b8a63823]
+## 17. Continuation of water services[^c-094878c8371117c27c979527b8a63823]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ the duty of Scottish Water under subsection (2) of section 16 to supply water to
 
 ## Annotations
 
-[^key-094878c8371117c27c979527b8a63823]: Commencement: S. 17 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-094878c8371117c27c979527b8a63823]: Commencement: S. 17 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)

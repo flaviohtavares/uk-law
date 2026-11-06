@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 107. Occupier’s loss payment[^key-c6a087c65a5111531514dd3c7cbc66ce]
+## 107. Occupier’s loss payment[^c-c6a087c65a5111531514dd3c7cbc66ce]
 
 *Extent: E+W*
 
@@ -105,4 +105,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6a087c65a5111531514dd3c7cbc66ce]: Commencement: S. 107 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-c6a087c65a5111531514dd3c7cbc66ce]: Commencement: S. 107 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

@@ -18,13 +18,13 @@ summary: ''
 
 *Extent: E+W*
 
-**88.**[^key-cbf05c2dbe6e2fe0e4dc014178d3c575] In section 25B[^f00106] (functions of independent reviewing officer)—
+**88.**[^c-cbf05c2dbe6e2fe0e4dc014178d3c575] In section 25B[^f00106] (functions of independent reviewing officer)—
 
 - (a) in subsections (1)(b), (1)(d) and (2)(a) for “appropriate national authority”, in each place that it occurs, substitute “Secretary of State”;
 - (b) in subsection (3) omit paragraph (b) and the “or” immediately preceding it.
 
 ## Annotations
 
-[^key-cbf05c2dbe6e2fe0e4dc014178d3c575]: Commencement: Reg. 88 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-cbf05c2dbe6e2fe0e4dc014178d3c575]: Commencement: Reg. 88 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00106]: Footnote: Section 25B was inserted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 10(1).

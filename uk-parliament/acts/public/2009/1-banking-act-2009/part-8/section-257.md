@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257. “Financial assistance”[^M_I_a3070a41-9b9c-426b-c028-69cc3d692b52][^key-9b45aa541a89f464edfbdb16c48206bd]
+## 257. “Financial assistance”[^M_I_a3070a41-9b9c-426b-c028-69cc3d692b52][^c-9b45aa541a89f464edfbdb16c48206bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_I_a3070a41-9b9c-426b-c028-69cc3d692b52]: Commencement: S. 257 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 12
 
-[^key-9b45aa541a89f464edfbdb16c48206bd]: Commencement: S. 257 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/12)
+[^c-9b45aa541a89f464edfbdb16c48206bd]: Commencement: S. 257 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/12)

@@ -46,15 +46,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 96(10)(c) and 97(3)(c) of the Equality Act 2010[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-ff5cbebd4b6e7c7353c4ef42db230933]
+## 1. Citation and commencement[^c-ff5cbebd4b6e7c7353c4ef42db230933]
 
 These Regulations may be cited as the Equality Act 2010 (Qualifications Body Regulator and Relevant Qualifications) (Scotland) Regulations 2010 and come into force on 1st October 2010.
 
-## 2. Appropriate Regulator[^key-3831f89e1d51217731c1b9c86c3ab799]
+## 2. Appropriate Regulator[^c-3831f89e1d51217731c1b9c86c3ab799]
 
-Qualifications Scotland[^key-73be44b5d058e8904ce1bcefc71a31e8] is prescribed for the purposes of section 96(10)(c) as appropriate regulator in relation to a qualifications body that confers qualifications in Scotland.
+Qualifications Scotland[^c-73be44b5d058e8904ce1bcefc71a31e8] is prescribed for the purposes of section 96(10)(c) as appropriate regulator in relation to a qualifications body that confers qualifications in Scotland.
 
-## 3. Relevant Qualification[^key-fd4becd4abc056113b2f7b03190756e5]
+## 3. Relevant Qualification[^c-fd4becd4abc056113b2f7b03190756e5]
 
 Those qualifications known as “National Qualifications in Scotland” are prescribed for the purposes of section 97(3)(c) as relevant qualifications in relation to conferments in Scotland[^f00003].
 
@@ -84,12 +84,12 @@ The term “National Qualifications in Scotland” includes Standard Grades and 
 
 [^f00001]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-ff5cbebd4b6e7c7353c4ef42db230933]: Commencement: Reg. 1 in force at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/315/regulation/1)
+[^c-ff5cbebd4b6e7c7353c4ef42db230933]: Commencement: Reg. 1 in force at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/315/regulation/1)
 
-[^key-3831f89e1d51217731c1b9c86c3ab799]: Commencement: Reg. 2 in force at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/315/regulation/1)
+[^c-3831f89e1d51217731c1b9c86c3ab799]: Commencement: Reg. 2 in force at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/315/regulation/1)
 
-[^key-73be44b5d058e8904ce1bcefc71a31e8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/315/regulation/2) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2025 (S.S.I. 2025/385)](https://www.legislation.gov.uk/ssi/2025/385), [reg. 1](https://www.legislation.gov.uk/ssi/2025/385/regulation/1), [sch. para. 5](https://www.legislation.gov.uk/ssi/2025/385/schedule/paragraph/5); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-73be44b5d058e8904ce1bcefc71a31e8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/315/regulation/2) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2025 (S.S.I. 2025/385)](https://www.legislation.gov.uk/ssi/2025/385), [reg. 1](https://www.legislation.gov.uk/ssi/2025/385/regulation/1), [sch. para. 5](https://www.legislation.gov.uk/ssi/2025/385/schedule/paragraph/5); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-fd4becd4abc056113b2f7b03190756e5]: Commencement: Reg. 3 in force at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/315/regulation/1)
+[^c-fd4becd4abc056113b2f7b03190756e5]: Commencement: Reg. 3 in force at 1.10.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/315/regulation/1)
 
 [^f00003]: Footnote: A full list of the qualifications encompassed by the term “National Qualifications in Scotland” is available on the website of the Scottish Qualifications Authority (www.sqa.org.uk).

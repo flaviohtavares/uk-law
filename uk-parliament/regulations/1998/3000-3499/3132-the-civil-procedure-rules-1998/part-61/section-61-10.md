@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61.10. Sale by the court, priorities and payment out[^key-15c3c276e68ba8db6c1696646926b71b]
+## 61.10. Sale by the court, priorities and payment out[^c-15c3c276e68ba8db6c1696646926b71b]
 
 *Extent: E+W*
 
 (1) An application for an order for the survey, appraisement or sale of a ship may be made in a claim in rem at any stage by any party.
 
-(2) Unless the court is satisfied that there is good reason not to do so, if[^key-a171df14a5c96c80074c13207fc383c1] the court makes an order for sale, it must set[^key-9b8fde063c8611adf226e41f77ebc366]—
+(2) Unless the court is satisfied that there is good reason not to do so, if[^c-a171df14a5c96c80074c13207fc383c1] the court makes an order for sale, it must set[^c-9b8fde063c8611adf226e41f77ebc366]—
 
-- (a) [^key-bdd6832b97f872aeeb9a5fc5529ede94]... a time within which notice of claims against the proceeds of sale must be filed; and
-- (b) the time and manner in which that time limit[^key-a600c7d1d5bfdd73a9c24ef12ae302ac] must be advertised.
+- (a) [^c-bdd6832b97f872aeeb9a5fc5529ede94]... a time within which notice of claims against the proceeds of sale must be filed; and
+- (b) the time and manner in which that time limit[^c-a600c7d1d5bfdd73a9c24ef12ae302ac] must be advertised.
 
 (3) Any party with a judgment against the property or proceeds of sale may at any time after the time referred to in paragraph (2) apply to the court for the determination of priorities.
 
@@ -38,12 +38,12 @@ summary: ''
 
 ## Annotations
 
-[^key-15c3c276e68ba8db6c1696646926b71b]: Textual amendment: Pt. 61 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/4015/schedule/5)
+[^c-15c3c276e68ba8db6c1696646926b71b]: Textual amendment: Pt. 61 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/4015/schedule/5)
 
-[^key-a171df14a5c96c80074c13207fc383c1]: Textual amendment: Words in [rule 61.10(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.10/2) substituted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2021/855/rule/10/a)
+[^c-a171df14a5c96c80074c13207fc383c1]: Textual amendment: Words in [rule 61.10(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.10/2) substituted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2021/855/rule/10/a)
 
-[^key-9b8fde063c8611adf226e41f77ebc366]: Textual amendment: Words in [rule 61.10(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.10/2) substituted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/855/rule/10/b)
+[^c-9b8fde063c8611adf226e41f77ebc366]: Textual amendment: Words in [rule 61.10(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.10/2) substituted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/855/rule/10/b)
 
-[^key-bdd6832b97f872aeeb9a5fc5529ede94]: Textual amendment: Word in [rule 61.10(2)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.10/2/a) omitted (1.10.2021) by virtue of [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2021/855/rule/10/c)
+[^c-bdd6832b97f872aeeb9a5fc5529ede94]: Textual amendment: Word in [rule 61.10(2)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.10/2/a) omitted (1.10.2021) by virtue of [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2021/855/rule/10/c)
 
-[^key-a600c7d1d5bfdd73a9c24ef12ae302ac]: Textual amendment: Words in [rule 61.10(2)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.10/2/b) substituted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2021/855/rule/10/d)
+[^c-a600c7d1d5bfdd73a9c24ef12ae302ac]: Textual amendment: Words in [rule 61.10(2)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.10/2/b) substituted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2021/855/rule/10/d)

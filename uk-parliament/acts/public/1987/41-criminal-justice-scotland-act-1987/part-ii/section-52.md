@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Powers of investigation.[^key-6825433517c2c86fe18f50f68af1fecf]
+## 52. Powers of investigation.[^c-6825433517c2c86fe18f50f68af1fecf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6825433517c2c86fe18f50f68af1fecf]: Textual amendment: [Ss. 51-53](https://www.legislation.gov.uk/ukpga/1987/41/section/51) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 5
+[^c-6825433517c2c86fe18f50f68af1fecf]: Textual amendment: [Ss. 51-53](https://www.legislation.gov.uk/ukpga/1987/41/section/51) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 5

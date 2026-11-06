@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104B. Postponed determinations under the Criminal Justice Act 1988[^key-515497a6f7908acd72a3fec9e8b9b7c3]
+## 104B. Postponed determinations under the Criminal Justice Act 1988[^c-515497a6f7908acd72a3fec9e8b9b7c3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-515497a6f7908acd72a3fec9e8b9b7c3]: Textual amendment: [Rules 104-104C](https://www.legislation.gov.uk/uksi/1981/552/rule/104) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(o)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/o)
+[^c-515497a6f7908acd72a3fec9e8b9b7c3]: Textual amendment: [Rules 104-104C](https://www.legislation.gov.uk/uksi/1981/552/rule/104) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(o)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/o)

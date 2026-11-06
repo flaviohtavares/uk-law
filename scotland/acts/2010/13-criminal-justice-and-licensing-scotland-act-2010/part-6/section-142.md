@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Application for non-notification order or exclusion order[^key-27d3aa4ca51ae96a853365a47cbe9902]
+## 142. Application for non-notification order or exclusion order[^c-27d3aa4ca51ae96a853365a47cbe9902]
 
 *Extent: S*
 
 (1) This section applies where the prosecutor is required by section 141(5) to apply to the court for a section 145 order.
 
-(2) If the application for a section 145 order relates to solemn proceedings (whether continuing or concluded or to 2011 Act proceedings[^key-b51f636060b833d37abc00d3d760d244]), the prosecutor may also apply to the court for—
+(2) If the application for a section 145 order relates to solemn proceedings (whether continuing or concluded or to 2011 Act proceedings[^c-b51f636060b833d37abc00d3d760d244]), the prosecutor may also apply to the court for—
 
 - (a) a non-notification order and an exclusion order, or
 - (b) an exclusion order (but not a non-notification order).
@@ -51,7 +51,7 @@ summary: ''
 
 (8) In this section and sections 143 to 145—
 
-- “[^key-8d15318178e916ce8ce5440a608e334b]**accused**” includes—
+- “[^c-8d15318178e916ce8ce5440a608e334b]**accused**” includes—
   - ((a)) where subsection (5) of section 141 applies by virtue of the conditions in subsection (3) of that section being met, the appellant or other person to whom the prosecutor is required to disclose the item of information, and
   - ((b)) where subsection (5) of section 141 applies by virtue of the conditions in subsection (3A) of that section being met, the respondent,
 - “ **appellant** ” has the meaning given by section 132.
@@ -59,10 +59,10 @@ summary: ''
 
 ## Annotations
 
-[^key-27d3aa4ca51ae96a853365a47cbe9902]: Commencement: S. 142 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/178/article/3) )
+[^c-27d3aa4ca51ae96a853365a47cbe9902]: Commencement: S. 142 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/178/article/3) )
 
-[^key-b51f636060b833d37abc00d3d760d244]: Textual amendment: Words in s. 142(2) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16) , [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3) , [Sch. para. 20(a)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/20/a) ; [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365) , [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-b51f636060b833d37abc00d3d760d244]: Textual amendment: Words in s. 142(2) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16) , [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3) , [Sch. para. 20(a)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/20/a) ; [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365) , [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-8d15318178e916ce8ce5440a608e334b]: Textual amendment: Words in s. 142(8) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 20(b)(i)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/20/b); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-8d15318178e916ce8ce5440a608e334b]: Textual amendment: Words in s. 142(8) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 20(b)(i)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/20/b); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
 [^M_F_6ce63d7d-e5bb-4872-bf3c-be7947022957]: Textual amendment: Words in s. 142(8) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 20(b)(ii)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/20/b); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)

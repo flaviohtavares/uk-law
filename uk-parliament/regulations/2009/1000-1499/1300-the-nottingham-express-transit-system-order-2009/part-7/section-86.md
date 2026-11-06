@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Acquisition of land required for the further development or extension of the authorised tramway and Line One[^key-2901cee6b2470b04262903232a9557a6]
+## 86. Acquisition of land required for the further development or extension of the authorised tramway and Line One[^c-2901cee6b2470b04262903232a9557a6]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ Without limiting the scope of the promoter’s power to acquire land by agreemen
 
 ## Annotations
 
-[^key-2901cee6b2470b04262903232a9557a6]: Commencement: Art. 86 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-2901cee6b2470b04262903232a9557a6]: Commencement: Art. 86 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00049]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

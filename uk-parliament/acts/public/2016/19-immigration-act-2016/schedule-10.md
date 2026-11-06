@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Immigration bail[^key-fd784a5ff4272266134cc1b1dab31a7b][^key-a7e6102006b018483e8701d17e392a7a][^key-11ef623212df4482727bdbcc588e711e][^key-5edd3f1029e1aef0875180195f050458]
+## SCHEDULE 10 — Immigration bail[^c-fd784a5ff4272266134cc1b1dab31a7b][^c-a7e6102006b018483e8701d17e392a7a][^c-11ef623212df4482727bdbcc588e711e][^c-5edd3f1029e1aef0875180195f050458]
 
 *Extent: E+W+S+N.I.*
 
 Section 61
 
-### PART 1 — Main provisions[^key-fd784a5ff4272266134cc1b1dab31a7b][^key-11ef623212df4482727bdbcc588e711e][^key-97571b56efee0f0fb039d2f45fd4347b][^key-a7e6102006b018483e8701d17e392a7a]
+### PART 1 — Main provisions[^c-fd784a5ff4272266134cc1b1dab31a7b][^c-11ef623212df4482727bdbcc588e711e][^c-97571b56efee0f0fb039d2f45fd4347b][^c-a7e6102006b018483e8701d17e392a7a]
 
 #### Power to grant immigration bail
 
-**1.**[^key-7ffae667364ca0520af3e4de464fc1ea][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) The Secretary of State may grant a person bail if—
+**1.**[^c-7ffae667364ca0520af3e4de464fc1ea][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) The Secretary of State may grant a person bail if—
 
 - (a) the person is being detained under paragraph 16(1), (1A) or (2) of Schedule 2 to the Immigration Act 1971 (detention of persons liable to examination or removal),
 - (b) the person is being detained under paragraph 2(1), (2) or (3) of Schedule 3 to that Act (detention pending deportation),
@@ -64,56 +64,56 @@ Section 61
 
 #### Conditions of immigration bail
 
-**2.** (1)[^key-b13feb843138c1b2edd0e6efa4820019] Subject to sub-paragraph (2), if immigration bail is granted to a person, it must be granted subject to one or more of the following conditions—
+**2.** (1)[^c-b13feb843138c1b2edd0e6efa4820019] Subject to sub-paragraph (2), if immigration bail is granted to a person, it must be granted subject to one or more of the following conditions—
 
 - (a) a condition requiring the person to appear before the Secretary of State or the First-tier Tribunal at a specified time and place;
 - (b) a condition restricting the person's work, occupation or studies in the United Kingdom;
 - (c) a condition about the person's residence;
 - (d) a condition requiring the person to report to the Secretary of State or such other person as may be specified;
 - (e) an electronic monitoring condition (see paragraph 4);
-- (ea)[^key-b4c871fda7a857696554f225878c6e12] a condition requiring the person to be at a particular place between particular times, either on particular days or on any day;
+- (ea)[^c-b4c871fda7a857696554f225878c6e12] a condition requiring the person to be at a particular place between particular times, either on particular days or on any day;
 - (eb) a condition requiring the person to remain within a particular area;
 - (ec) a condition prohibiting the person from being in a particular area;
 - (f) such other conditions as the person granting the immigration bail thinks fit.
 
-(2)[^key-043f1a2b3f2beca73494d61429139448][^key-d078bcfeb40c25b0358e4a9bd113dd9e] Sub-paragraph (3) applies in place of sub-paragraph (1) in relation to a person who is being detained under a provision mentioned in paragraph 1(1)(b) or (d) or who is liable to detention under such a provision.
+(2)[^c-043f1a2b3f2beca73494d61429139448][^c-d078bcfeb40c25b0358e4a9bd113dd9e] Sub-paragraph (3) applies in place of sub-paragraph (1) in relation to a person who is being detained under a provision mentioned in paragraph 1(1)(b) or (d) or who is liable to detention under such a provision.
 
-(3)[^key-043f1a2b3f2beca73494d61429139448][^key-d078bcfeb40c25b0358e4a9bd113dd9e] If immigration bail is granted to such a person—
+(3)[^c-043f1a2b3f2beca73494d61429139448][^c-d078bcfeb40c25b0358e4a9bd113dd9e] If immigration bail is granted to such a person—
 
 - (a) subject to sub-paragraphs (5) to (9), it must be granted subject to an electronic monitoring condition,
 - (b) if, by virtue of sub-paragraph (5) or (7), it is not granted subject to an electronic monitoring condition, it must be granted subject to one or more of the other conditions mentioned in sub-paragraph (1), and
 - (c) if it is granted subject to an electronic monitoring condition, it may be granted subject to one or more of those other conditions.
 
-(4)[^key-b13feb843138c1b2edd0e6efa4820019] Immigration bail granted in accordance with sub-paragraph (1) or (3) may also be granted subject to a financial condition (see paragraph 5).
+(4)[^c-b13feb843138c1b2edd0e6efa4820019] Immigration bail granted in accordance with sub-paragraph (1) or (3) may also be granted subject to a financial condition (see paragraph 5).
 
-(5)[^key-043f1a2b3f2beca73494d61429139448][^key-d078bcfeb40c25b0358e4a9bd113dd9e] Sub-paragraph (3)(a) does not apply to a person who is granted immigration bail by the Secretary of State if the Secretary of State considers that to impose an electronic monitoring condition on the person would be—
-
-- (a) impractical, or
-- (b) contrary to the person's Convention rights.
-
-(6)[^key-043f1a2b3f2beca73494d61429139448][^key-d078bcfeb40c25b0358e4a9bd113dd9e] Where sub-paragraph (5) applies, the Secretary of State must not grant immigration bail to the person subject to an electronic monitoring condition.
-
-(7)[^key-043f1a2b3f2beca73494d61429139448][^key-d078bcfeb40c25b0358e4a9bd113dd9e] Sub-paragraph (3)(a) does not apply to a person who is granted immigration bail by the First-tier Tribunal if the Secretary of State informs the Tribunal that the Secretary of State considers that to impose an electronic monitoring condition on the person would be—
+(5)[^c-043f1a2b3f2beca73494d61429139448][^c-d078bcfeb40c25b0358e4a9bd113dd9e] Sub-paragraph (3)(a) does not apply to a person who is granted immigration bail by the Secretary of State if the Secretary of State considers that to impose an electronic monitoring condition on the person would be—
 
 - (a) impractical, or
 - (b) contrary to the person's Convention rights.
 
-(8)[^key-043f1a2b3f2beca73494d61429139448][^key-d078bcfeb40c25b0358e4a9bd113dd9e] Where sub-paragraph (7) applies, the First-tier Tribunal must not grant immigration bail to the person subject to an electronic monitoring condition.
+(6)[^c-043f1a2b3f2beca73494d61429139448][^c-d078bcfeb40c25b0358e4a9bd113dd9e] Where sub-paragraph (5) applies, the Secretary of State must not grant immigration bail to the person subject to an electronic monitoring condition.
 
-(9)[^key-043f1a2b3f2beca73494d61429139448][^key-d078bcfeb40c25b0358e4a9bd113dd9e] In considering for the purposes of this Schedule whether it would be impractical to impose an electronic monitoring condition on a person, or would be impractical for a person to continue to be subject to such a condition, the Secretary of State may in particular have regard to—
+(7)[^c-043f1a2b3f2beca73494d61429139448][^c-d078bcfeb40c25b0358e4a9bd113dd9e] Sub-paragraph (3)(a) does not apply to a person who is granted immigration bail by the First-tier Tribunal if the Secretary of State informs the Tribunal that the Secretary of State considers that to impose an electronic monitoring condition on the person would be—
+
+- (a) impractical, or
+- (b) contrary to the person's Convention rights.
+
+(8)[^c-043f1a2b3f2beca73494d61429139448][^c-d078bcfeb40c25b0358e4a9bd113dd9e] Where sub-paragraph (7) applies, the First-tier Tribunal must not grant immigration bail to the person subject to an electronic monitoring condition.
+
+(9)[^c-043f1a2b3f2beca73494d61429139448][^c-d078bcfeb40c25b0358e4a9bd113dd9e] In considering for the purposes of this Schedule whether it would be impractical to impose an electronic monitoring condition on a person, or would be impractical for a person to continue to be subject to such a condition, the Secretary of State may in particular have regard to—
 
 - (a) any obstacles to making arrangements of the kind mentioned in paragraph 4 in relation to the person,
 - (b) the resources that are available for imposing electronic monitoring conditions on persons to whom sub-paragraph (2) applies and for managing the operation of such conditions in relation to such persons,
 - (c) the need to give priority to the use of those resources in relation to particular categories of persons to whom that sub-paragraph applies, and
 - (d) the matters listed in paragraph 3(2) as they apply to the person.
 
-(10)[^key-043f1a2b3f2beca73494d61429139448][^key-d078bcfeb40c25b0358e4a9bd113dd9e] In this Schedule “**Convention rights**” is to be construed in accordance with section 1 of the Human Rights Act 1998.
+(10)[^c-043f1a2b3f2beca73494d61429139448][^c-d078bcfeb40c25b0358e4a9bd113dd9e] In this Schedule “**Convention rights**” is to be construed in accordance with section 1 of the Human Rights Act 1998.
 
-(11)[^key-b13feb843138c1b2edd0e6efa4820019] In this Schedule “**bail condition**”, in relation to a person on immigration bail, means a condition to which the person's bail is subject.
+(11)[^c-b13feb843138c1b2edd0e6efa4820019] In this Schedule “**bail condition**”, in relation to a person on immigration bail, means a condition to which the person's bail is subject.
 
 #### Exercise of power to grant immigration bail
 
-**3.**[^key-55d8bb148cd0ecda593f9e5e6c24b960][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) The Secretary of State or the First-tier Tribunal must have regard to the matters listed in sub-paragraph (2) in determining—
+**3.**[^c-55d8bb148cd0ecda593f9e5e6c24b960][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) The Secretary of State or the First-tier Tribunal must have regard to the matters listed in sub-paragraph (2) in determining—
 
 - (a) whether to grant immigration bail to a person, and
 - (b) the conditions to which a person's immigration bail is to be subject.
@@ -125,7 +125,7 @@ Section 61
 - (c) the likelihood of a person committing an offence while on immigration bail,
 - (d) the likelihood of the person's presence in the United Kingdom, while on immigration bail, causing a danger to public health or being a threat to the maintenance of public order,
 - (e) whether the person's detention is necessary in that person's interests or for the protection of any other person,
-- (ea)[^key-ac7670c63679715b506195744e6cd45c] whether the person has failed without reasonable excuse to cooperate with any process—
+- (ea)[^c-ac7670c63679715b506195744e6cd45c] whether the person has failed without reasonable excuse to cooperate with any process—
   - (i) for determining whether the person requires or should be granted leave to enter or remain in the United Kingdom,
   - (ii) for determining the period for which the person should be granted such leave and any conditions to which it should be subject,
   - (iii) for determining whether the person’s leave to enter or remain in the United Kingdom should be varied, curtailed, suspended or cancelled,
@@ -138,7 +138,7 @@ Section 61
 (4) A person must not be granted immigration bail by the First-tier Tribunal without the consent of the Secretary of State if—
 
 - (a) directions for the removal of the person from the United Kingdom are for the time being in force, and
-- (b) the directions require the person to be removed from the United Kingdom within the period of 21[^key-657d6992736f8b5296c8744434454a64] days beginning with the date of the decision on whether the person should be granted immigration bail.
+- (b) the directions require the person to be removed from the United Kingdom within the period of 21[^c-657d6992736f8b5296c8744434454a64] days beginning with the date of the decision on whether the person should be granted immigration bail.
 
 (5) If the Secretary of State or the First-tier Tribunal decides to grant, or to refuse to grant, immigration bail to a person, the Secretary of State or the Tribunal must give the person notice of the decision.
 
@@ -153,7 +153,7 @@ Section 61
 
 #### Electronic monitoring condition
 
-**4.**[^key-a9890e77199e1653b1a57d3e2bd98d44][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) In this Schedule an “**electronic monitoring condition**” means a condition requiring the person on whom it is imposed (“P”) to co-operate with such arrangements as the Secretary of State may specify for detecting and recording by electronic means one or more of the following—
+**4.**[^c-a9890e77199e1653b1a57d3e2bd98d44][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) In this Schedule an “**electronic monitoring condition**” means a condition requiring the person on whom it is imposed (“P”) to co-operate with such arrangements as the Secretary of State may specify for detecting and recording by electronic means one or more of the following—
 
 - (a) P's location at specified times, during specified periods of time or while the arrangements are in place;
 - (b) P's presence in a location at specified times, during specified periods of time or while the arrangements are in place;
@@ -177,7 +177,7 @@ Section 61
 
 #### Financial condition
 
-**5.**[^key-73cf0a3940cab28defed5457c31b9512][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) In this Schedule a “**financial condition**” means a condition requiring the payment of a sum of money by the person to whom immigration bail is granted (“P”) or another person, in a case where P fails to comply with another condition to which P's immigration bail is subject.
+**5.**[^c-73cf0a3940cab28defed5457c31b9512][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) In this Schedule a “**financial condition**” means a condition requiring the payment of a sum of money by the person to whom immigration bail is granted (“P”) or another person, in a case where P fails to comply with another condition to which P's immigration bail is subject.
 
 (2) A financial condition may be imposed on P only if the person imposing the condition thinks that it would be appropriate to do so with a view to ensuring that P complies with the other bail conditions.
 
@@ -206,7 +206,7 @@ Section 61
 
 #### Power to vary bail conditions
 
-**6.**[^key-f2c1f74b021109f9430fd02cd1de34cb][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b][^key-35ba440b36788e4ab82a98a9972ebfe1][^key-a7e6102006b018483e8701d17e392a7a][^key-91c323ff84098db98eaa30a0e7eb4672] (1) Subject to this paragraph and to paragraphs 7 and 8, where a person is on immigration bail—
+**6.**[^c-f2c1f74b021109f9430fd02cd1de34cb][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b][^c-35ba440b36788e4ab82a98a9972ebfe1][^c-a7e6102006b018483e8701d17e392a7a][^c-91c323ff84098db98eaa30a0e7eb4672] (1) Subject to this paragraph and to paragraphs 7 and 8, where a person is on immigration bail—
 
 - (a) any of the conditions to which it is subject may be amended or removed, or
 - (b) one or more new conditions of the kind mentioned in paragraph 2(1) or (4) may be imposed on the person.
@@ -225,7 +225,7 @@ Section 61
 
 #### Removal etc of electronic monitoring condition: bail managed by Secretary of State
 
-**7.**[^key-2125fdcaa07e21aa49044b6f24f30e70][^key-87588e86e338091390b607372c0c14f0][^key-5e3ccaaa93ef2d449490cd5ed4c6f4c8][^key-fdb5f1669c6d0aec6857421be3d6f36a][^key-a7e6102006b018483e8701d17e392a7a] (1) This paragraph applies to a person who—
+**7.**[^c-2125fdcaa07e21aa49044b6f24f30e70][^c-87588e86e338091390b607372c0c14f0][^c-5e3ccaaa93ef2d449490cd5ed4c6f4c8][^c-fdb5f1669c6d0aec6857421be3d6f36a][^c-a7e6102006b018483e8701d17e392a7a] (1) This paragraph applies to a person who—
 
 - (a) is on immigration bail—
   - (i) pursuant to a grant by the Secretary of State, or
@@ -254,7 +254,7 @@ Section 61
 
 #### Amendment etc of electronic monitoring condition: bail managed by First-tier Tribunal
 
-**8.**[^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b][^key-2368a3d7a471132f389e157ec0d6e542][^key-db73c6236d002da79d282049d5c8c352][^key-f42f8a33faaf1394b033ea7910cbb1d3][^key-a7e6102006b018483e8701d17e392a7a][^key-256567032a55034f2c64f940fabf1510] (1) This paragraph applies to a person who—
+**8.**[^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b][^c-2368a3d7a471132f389e157ec0d6e542][^c-db73c6236d002da79d282049d5c8c352][^c-f42f8a33faaf1394b033ea7910cbb1d3][^c-a7e6102006b018483e8701d17e392a7a][^c-256567032a55034f2c64f940fabf1510] (1) This paragraph applies to a person who—
 
 - (a) is on immigration bail pursuant to a grant by the First-tier Tribunal in a case where the Tribunal has not directed that the power in paragraph 6(1) is exercisable by the Secretary of State, and
 - (b) before the person was granted immigration bail, was detained or liable to detention under a provision mentioned in paragraph 1(1)(b) or (d).
@@ -281,7 +281,7 @@ Section 61
 
 #### Powers of Secretary of State to enable person to meet bail conditions
 
-**9.**[^key-802be6f94f8e050dad21183ba3b783a7][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Sub-paragraph (2) applies where—
+**9.**[^c-802be6f94f8e050dad21183ba3b783a7][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Sub-paragraph (2) applies where—
 
 - (a) a person is on immigration bail subject to a condition requiring the person to reside at an address specified in the condition, and
 - (b) the person would not be able to support himself or herself at the address unless the power in sub-paragraph (2) were exercised.
@@ -296,7 +296,7 @@ Section 61
 
 #### Arrest for breach of immigration bail
 
-**10.**[^key-edae33fb29d618b36c762133b69459f5][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) An immigration officer or a constable may arrest without warrant a person on immigration bail if the immigration officer or constable—
+**10.**[^c-edae33fb29d618b36c762133b69459f5][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) An immigration officer or a constable may arrest without warrant a person on immigration bail if the immigration officer or constable—
 
 - (a) has reasonable grounds for believing that the person is likely to fail to comply with a bail condition, or
 - (b) has reasonable grounds for suspecting that the person is failing, or has failed, to comply with a bail condition.
@@ -355,7 +355,7 @@ Section 61
 
 #### Duty to arrange consideration of bail
 
-**11.**[^key-45adb5e3b93f96349a763a744cac4691][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Subject as follows, the Secretary of State must arrange a reference to the First-tier Tribunal for the Tribunal to decide whether to grant bail to a person if—
+**11.**[^c-45adb5e3b93f96349a763a744cac4691][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Subject as follows, the Secretary of State must arrange a reference to the First-tier Tribunal for the Tribunal to decide whether to grant bail to a person if—
 
 - (a) the person is being detained under a provision mentioned in paragraph 1(1)(a) or (c), and
 - (b) the period of four months beginning with the relevant date has elapsed.
@@ -390,7 +390,7 @@ Section 61
 
 #### Tribunal Procedure Rules
 
-**12.**[^key-cf4e44d00f5ed93955a5d6fd4bb913b4][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Tribunal Procedure Rules must make provision with respect to applications to the First-tier Tribunal under this Schedule and matters arising out of such applications.
+**12.**[^c-cf4e44d00f5ed93955a5d6fd4bb913b4][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Tribunal Procedure Rules must make provision with respect to applications to the First-tier Tribunal under this Schedule and matters arising out of such applications.
 
 (2) Tribunal Procedure Rules must secure that, where the First-tier Tribunal has decided not to grant a person immigration bail, the Tribunal must dismiss without a hearing any further application for the person to be granted immigration bail which—
 
@@ -403,7 +403,7 @@ Section 61
 
 #### Transitional provision
 
-**13.**[^key-8259a49338d0f9badbfcc2ab565af0ad][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Regulations under section 92(1) may, in particular, provide for a person to whom this sub-paragraph applies to be treated, for such purposes as may be specified, as having been granted immigration bail in such circumstances and subject to such conditions as may be specified.
+**13.**[^c-8259a49338d0f9badbfcc2ab565af0ad][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Regulations under section 92(1) may, in particular, provide for a person to whom this sub-paragraph applies to be treated, for such purposes as may be specified, as having been granted immigration bail in such circumstances and subject to such conditions as may be specified.
 
 (2) Sub-paragraph (1) applies to a person who, at the specified time, was not in detention on the basis that—
 
@@ -437,19 +437,19 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 (6) In this paragraph “**specified**” means specified in regulations under section 92(1).
 
-### PART 2 — Amendments to other Acts[^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b][^key-a7e6102006b018483e8701d17e392a7a]
+### PART 2 — Amendments to other Acts[^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b][^c-a7e6102006b018483e8701d17e392a7a]
 
 #### Immigration Act 1971 (c. 77)
 
-**14.**[^key-0831ee5f713009a74a01dee066dba1bc][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] The Immigration Act 1971 is amended as follows.
+**14.**[^c-0831ee5f713009a74a01dee066dba1bc][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] The Immigration Act 1971 is amended as follows.
 
-**15.**[^key-2287597cd7e3a9808a4ce42c055db3f2][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In section 11(1) (construction of references to entry)—
+**15.**[^c-2287597cd7e3a9808a4ce42c055db3f2][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In section 11(1) (construction of references to entry)—
 
 - (a) omit “, or temporarily admitted or released while liable to detention,”,
 - (b) omit “or by Part III of the Immigration and Asylum Act 1999”, and
 - (c) for “or by section 68 of the Nationality, Immigration and Asylum Act 2002” substitute “ or on immigration bail within the meaning of Schedule 10 to the Immigration Act 2016 ”.
 
-**16.**[^key-caa731c8dbac1ee7b1e21c28d7eabf98][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 24 (illegal entry and other similar offences) is amended as follows.
+**16.**[^c-caa731c8dbac1ee7b1e21c28d7eabf98][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 24 (illegal entry and other similar offences) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -466,7 +466,7 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 > (3A) The extended time limit for prosecutions which is provided for by section 28(1A) below shall apply to offences under subsection (1)(h) above.
 
-**17.**[^key-65a36560024f0aedaf14fe51d15065c3][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 28 (proceedings for offences) is amended as follows.
+**17.**[^c-65a36560024f0aedaf14fe51d15065c3][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 28 (proceedings for offences) is amended as follows.
 
 (2) In subsection (1) for “24” substitute “ 24(3) ”.
 
@@ -486,13 +486,13 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 (4) In subsection (2) for “subsection (1)(b)” substitute “ subsections (1)(b) and (1A)(b) ”.
 
-**18.**[^key-524000707f2cb3b2531176394ed5c669][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In section 28B(5) (meaning of “relevant offence”) for “(e) or (f)” substitute “ (f) or (h) ”.
+**18.**[^c-524000707f2cb3b2531176394ed5c669][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In section 28B(5) (meaning of “relevant offence”) for “(e) or (f)” substitute “ (f) or (h) ”.
 
-**19.**[^key-b67473f777f71327ae41666d616d844c][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In section 28D(4) (meaning of “relevant offence”) for “(e) or (f)” substitute “ (f) or (h) ”.
+**19.**[^c-b67473f777f71327ae41666d616d844c][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In section 28D(4) (meaning of “relevant offence”) for “(e) or (f)” substitute “ (f) or (h) ”.
 
-**20.**[^key-2313bfad93b4d245cc3bbcbc29f6704e][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In Schedule 2 (administrative provisions as to control on entry etc) omit paragraphs 21 to 25 and 29 to 34.
+**20.**[^c-2313bfad93b4d245cc3bbcbc29f6704e][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In Schedule 2 (administrative provisions as to control on entry etc) omit paragraphs 21 to 25 and 29 to 34.
 
-**21.**[^key-c2ca346c87c561ff4747609465ebf85c][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Schedule 3 (supplementary provisions as to deportation) is amended as follows.
+**21.**[^c-c2ca346c87c561ff4747609465ebf85c][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Schedule 3 (supplementary provisions as to deportation) is amended as follows.
 
 (2) In paragraph 2—
 
@@ -520,11 +520,11 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 #### Special Immigration Appeals Commission Act 1997 (c. 68)
 
-**22.**[^key-e8512f2f3b668b406849e3e5b5de5b78][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] The Special Immigration Appeals Commission Act 1997 is amended as follows.
+**22.**[^c-e8512f2f3b668b406849e3e5b5de5b78][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] The Special Immigration Appeals Commission Act 1997 is amended as follows.
 
-**23.**[^key-e6ba67ef33672568f9a96114ccfa736c][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In section 3(1) (jurisdiction: bail) for “Schedule 2 to the Immigration Act 1971” substitute “ Schedule 10 to the Immigration Act 2016 ”.
+**23.**[^c-e6ba67ef33672568f9a96114ccfa736c][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In section 3(1) (jurisdiction: bail) for “Schedule 2 to the Immigration Act 1971” substitute “ Schedule 10 to the Immigration Act 2016 ”.
 
-**24.**[^key-8965de48063a8da2cbfe6beccdd1c09e][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 5 (procedure in relation to jurisdiction under sections 2 and 3) is amended as follows.
+**24.**[^c-8965de48063a8da2cbfe6beccdd1c09e][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 5 (procedure in relation to jurisdiction under sections 2 and 3) is amended as follows.
 
 (2) In subsection (4)(a) for “Part II of Schedule 2 to the Immigration Act 1971” substitute “ Schedule 10 to the Immigration Act 2016 ”.
 
@@ -535,7 +535,7 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 - (a) for “bail under paragraph 22 or 29 of Schedule 2 to the Immigration Act 1971” substitute “ immigration bail under Schedule 10 to the Immigration Act 2016 ”, and
 - (b) for “bail” in the second place it appears substitute “ immigration bail ”.
 
-**25.**[^key-b0e889eb3a778ad367e9adb0c1b4504f][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b][^key-16d094ac82fa3a408ed8b6e0496658f1][^key-8f9a40aa02e5cccf836011a21bea4e2d][^key-a7e6102006b018483e8701d17e392a7a] For Schedule 3 substitute—
+**25.**[^c-b0e889eb3a778ad367e9adb0c1b4504f][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b][^c-16d094ac82fa3a408ed8b6e0496658f1][^c-8f9a40aa02e5cccf836011a21bea4e2d][^c-a7e6102006b018483e8701d17e392a7a] For Schedule 3 substitute—
 
 > **SCHEDULE 3 — Bail: Modifications of Schedule 10 to the Immigration Act 2016**
 >
@@ -580,15 +580,15 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 #### Immigration and Asylum Act 1999 (c. 33)
 
-**26.**[^key-90b60e9dfb27d76605acd363ce942211][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] The Immigration and Asylum Act 1999 is amended as follows.
+**26.**[^c-90b60e9dfb27d76605acd363ce942211][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] The Immigration and Asylum Act 1999 is amended as follows.
 
-**27.**[^key-b32e20fae99a6bd8f5be2d539b21d3c5][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In section 10(9) (removal of persons unlawfully in the United Kingdom: application of Schedule 2 to the Immigration Act 1971) omit paragraphs (h) and (i).
+**27.**[^c-b32e20fae99a6bd8f5be2d539b21d3c5][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In section 10(9) (removal of persons unlawfully in the United Kingdom: application of Schedule 2 to the Immigration Act 1971) omit paragraphs (h) and (i).
 
-**28.**[^key-ff91640a07c0751703376cdc6486a926][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In section 53 (applications for bail in immigration cases) omit subsection (4).
+**28.**[^c-ff91640a07c0751703376cdc6486a926][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In section 53 (applications for bail in immigration cases) omit subsection (4).
 
-**29.**[^key-bd4b8ea6ce7d6a76a4a0a59a1b564bc6][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In section 95(9A) (support for asylum seekers etc: matters to which conditions may relate) in paragraph (b) for the words from “restriction” to the end of the paragraph substitute “ condition imposed under Schedule 10 to the Immigration Act 2016 (immigration bail). ”
+**29.**[^c-bd4b8ea6ce7d6a76a4a0a59a1b564bc6][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In section 95(9A) (support for asylum seekers etc: matters to which conditions may relate) in paragraph (b) for the words from “restriction” to the end of the paragraph substitute “ condition imposed under Schedule 10 to the Immigration Act 2016 (immigration bail). ”
 
-**30.**[^key-553be5f06bf6c64342496dab9d7edad6][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 141 (fingerprinting: persons temporarily admitted to the United Kingdom) is amended as follows.
+**30.**[^c-553be5f06bf6c64342496dab9d7edad6][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 141 (fingerprinting: persons temporarily admitted to the United Kingdom) is amended as follows.
 
 (2) In subsection (7)(b) for “temporarily admitted under paragraph 21 of Schedule 2 to the 1971 Act” substitute “ granted immigration bail under Schedule 10 to the Immigration Act 2016 ”.
 
@@ -596,9 +596,9 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 #### Nationality, Immigration and Asylum Act 2002 (c. 41)
 
-**31.**[^key-2c88cefddf7ddaf7bd1f59f2c444acd6][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] The Nationality, Immigration and Asylum Act 2002 is amended as follows.
+**31.**[^c-2c88cefddf7ddaf7bd1f59f2c444acd6][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] The Nationality, Immigration and Asylum Act 2002 is amended as follows.
 
-**32.**[^key-f839c19ea94ad51ce65ded8765f7708d][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 23 (power for residence restriction to include requirement to reside at accommodation centre) is amended as follows.
+**32.**[^c-f839c19ea94ad51ce65ded8765f7708d][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 23 (power for residence restriction to include requirement to reside at accommodation centre) is amended as follows.
 
 (2) In subsection (1) for “restriction” substitute “ condition ”.
 
@@ -608,17 +608,17 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 (4) In subsection (4) for “restriction” substitute “ condition ”.
 
-**33.**[^key-85bab8c2f20faaaf7246344d9fb5c8f9][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In section 30 (conditions of residence at accommodation centres) in subsection (7) for the words from “restriction” to the end of the subsection substitute “ condition imposed under Schedule 10 to the Immigration Act 2016. ”
+**33.**[^c-85bab8c2f20faaaf7246344d9fb5c8f9][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In section 30 (conditions of residence at accommodation centres) in subsection (7) for the words from “restriction” to the end of the subsection substitute “ condition imposed under Schedule 10 to the Immigration Act 2016. ”
 
-**34.**[^key-ca6144fc4fefbe834de983eff123199b][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 62 (detention by the Secretary of State) is amended as follows.
+**34.**[^c-ca6144fc4fefbe834de983eff123199b][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 62 (detention by the Secretary of State) is amended as follows.
 
 (2) In subsection (3) omit paragraph (b) (but not the “and” at the end of it).
 
 (3) Omit subsection (4).
 
-**35.**[^key-b997c5848ecef4302223a85406818e19][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] Omit sections 68 (bail) and 69 (reporting restriction: travel expenses).
+**35.**[^c-b997c5848ecef4302223a85406818e19][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] Omit sections 68 (bail) and 69 (reporting restriction: travel expenses).
 
-**36.**[^key-5ed08c0f9a7db118116ed7a7af770b82][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 70 (power for residence restriction to take account of induction programmes for asylum seekers) is amended as follows.
+**36.**[^c-5ed08c0f9a7db118116ed7a7af770b82][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 70 (power for residence restriction to take account of induction programmes for asylum seekers) is amended as follows.
 
 (2) In subsection (1) for “restriction” in both places substitute “ condition ”.
 
@@ -628,7 +628,7 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 (4) In subsection (5) for “restrictions” substitute “ conditions ”.
 
-**37.**[^key-9d9e588115848bb167478c7443065e7d][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 71 (asylum seeker: residence etc restriction) is amended as follows.
+**37.**[^c-9d9e588115848bb167478c7443065e7d][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 71 (asylum seeker: residence etc restriction) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -645,11 +645,11 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 #### Asylum and Immigration (Treatment of Claimants, etc) Act 2004 (c. 19)
 
-**38.**[^key-d6d07b65899c4f89d1f44ba445b664d3][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 omit section 36 (electronic monitoring).
+**38.**[^c-d6d07b65899c4f89d1f44ba445b664d3][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 omit section 36 (electronic monitoring).
 
 #### Immigration, Asylum and Nationality Act 2006 (c. 13)
 
-**39.**[^key-1eaa2ee0aab7228718600e3837865989][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In section 24 of the Immigration, Asylum and Nationality Act 2006 (temporary admission)—
+**39.**[^c-1eaa2ee0aab7228718600e3837865989][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In section 24 of the Immigration, Asylum and Nationality Act 2006 (temporary admission)—
 
 - (a) in the heading, for “Temporary admission, &c” substitute “ Immigration bail ”,
 - (b) for “paragraph 21(1) of Schedule 2 to the Immigration Act 1971 (c 77) (temporary admission or release from detention)” substitute “ a grant of immigration bail to the person under Schedule 10 to the Immigration Act 2016 ”, and
@@ -657,7 +657,7 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 #### UK Borders Act 2007 (c. 30)
 
-**40.**[^key-bb75fb7bafd110cbdfacfcad8468ea16][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 36 of the UK Borders Act 2007 (detention) is amended as follows.
+**40.**[^c-bb75fb7bafd110cbdfacfcad8468ea16][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] (1) Section 36 of the UK Borders Act 2007 (detention) is amended as follows.
 
 (2) In subsection (2) for the words from “unless” to the end of the subsection substitute “ unless the person is granted immigration bail under Schedule 10 to the Immigration Act 2016. ”
 
@@ -677,11 +677,11 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 #### Criminal Justice and Immigration Act 2008 (c. 4)
 
-**41.**[^key-526965d6c212cc5f97222a40b89e9570][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] The Criminal Justice and Immigration Act 2008 is amended as follows.
+**41.**[^c-526965d6c212cc5f97222a40b89e9570][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] The Criminal Justice and Immigration Act 2008 is amended as follows.
 
-**42.**[^key-27bc3de12606e0c6f14d10039b3de397][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In section 132(4) (special immigration status: effect of designation) in paragraph (b) for the words from “temporary admission” to the end of the paragraph substitute “ immigration bail under Schedule 10 to the Immigration Act 2016. ”
+**42.**[^c-27bc3de12606e0c6f14d10039b3de397][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In section 132(4) (special immigration status: effect of designation) in paragraph (b) for the words from “temporary admission” to the end of the paragraph substitute “ immigration bail under Schedule 10 to the Immigration Act 2016. ”
 
-**43.**[^key-9192723676ccc33ed0e53579ae59c762][^key-11ef623212df4482727bdbcc588e711e][^key-fd784a5ff4272266134cc1b1dab31a7b] In section 133 (special immigration status: conditions) for subsections (3) and (4) substitute—
+**43.**[^c-9192723676ccc33ed0e53579ae59c762][^c-11ef623212df4482727bdbcc588e711e][^c-fd784a5ff4272266134cc1b1dab31a7b] In section 133 (special immigration status: conditions) for subsections (3) and (4) substitute—
 
 > (3) If a condition is imposed under this section on a designated person, the person imposing the condition may also impose an electronic monitoring condition within the meaning of Schedule 10 to the Immigration Act 2016 on the designated person.
 >
@@ -691,128 +691,128 @@ and may, in particular, do so by providing for paragraph 7 or 8 to have effect w
 
 ## Annotations
 
-[^key-fd784a5ff4272266134cc1b1dab31a7b]: Modification: Sch. 10 applied by [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77), [Sch. 3 para. 2(5)-(7)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/3/paragraph/2/5) (as substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 21(2)(d)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/21/2/d); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), [reg. 2](https://www.legislation.gov.uk/uksi/2018/31/regulation/2)))
+[^c-fd784a5ff4272266134cc1b1dab31a7b]: Modification: Sch. 10 applied by [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77), [Sch. 3 para. 2(5)-(7)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/3/paragraph/2/5) (as substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 21(2)(d)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/21/2/d); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), [reg. 2](https://www.legislation.gov.uk/uksi/2018/31/regulation/2)))
 
-[^key-a7e6102006b018483e8701d17e392a7a]: Modification: Sch. 10 modified (15.1.2018 for specified purposes, 31.8.2021 for E.W. in so far as not already in force, 31.8.2022 for S.N.I. in so far as not already in force) by [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/68/schedule/3) (as substituted by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 25](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/25); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), [reg. 2](https://www.legislation.gov.uk/uksi/2018/31/regulation/2)); [S.I. 2021/939](https://www.legislation.gov.uk/uksi/2021/939), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/939/regulation/2/b) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/2)); [S.I. 2022/863](https://www.legislation.gov.uk/uksi/2022/863), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/863/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/863/regulation/2/b))
+[^c-a7e6102006b018483e8701d17e392a7a]: Modification: Sch. 10 modified (15.1.2018 for specified purposes, 31.8.2021 for E.W. in so far as not already in force, 31.8.2022 for S.N.I. in so far as not already in force) by [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/68/schedule/3) (as substituted by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 25](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/25); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), [reg. 2](https://www.legislation.gov.uk/uksi/2018/31/regulation/2)); [S.I. 2021/939](https://www.legislation.gov.uk/uksi/2021/939), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/939/regulation/2/b) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/2)); [S.I. 2022/863](https://www.legislation.gov.uk/uksi/2022/863), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/863/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/863/regulation/2/b))
 
-[^key-11ef623212df4482727bdbcc588e711e]: Modification: Sch. 10 applied by [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30), [s. 36(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2007/30/section/36/3A) (as inserted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 40(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/40/4); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), [reg. 2](https://www.legislation.gov.uk/uksi/2018/31/regulation/2)))
+[^c-11ef623212df4482727bdbcc588e711e]: Modification: Sch. 10 applied by [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30), [s. 36(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2007/30/section/36/3A) (as inserted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 40(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/40/4); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), [reg. 2](https://www.legislation.gov.uk/uksi/2018/31/regulation/2)))
 
-[^key-5edd3f1029e1aef0875180195f050458]: Modification: Sch. 10 applied (with modifications) (31.1.2020) by [The Immigration (Citizens Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 3 para. 2(1)(b)(4)](https://www.legislation.gov.uk/uksi/2020/61/schedule/3/paragraph/2/1/b)
+[^c-5edd3f1029e1aef0875180195f050458]: Modification: Sch. 10 applied (with modifications) (31.1.2020) by [The Immigration (Citizens Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 3 para. 2(1)(b)(4)](https://www.legislation.gov.uk/uksi/2020/61/schedule/3/paragraph/2/1/b)
 
-[^key-97571b56efee0f0fb039d2f45fd4347b]: Modification: Sch. 10 Pt. 1 applied (with modifications) (31.12.2020) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [13(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/13/2)
+[^c-97571b56efee0f0fb039d2f45fd4347b]: Modification: Sch. 10 Pt. 1 applied (with modifications) (31.12.2020) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [13(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/13/2)
 
-[^key-7ffae667364ca0520af3e4de464fc1ea]: Commencement: Sch. 10 para. 1 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-7ffae667364ca0520af3e4de464fc1ea]: Commencement: Sch. 10 para. 1 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-b13feb843138c1b2edd0e6efa4820019]: Commencement: Sch. 10 para. 2(1)(4)(11) in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-b13feb843138c1b2edd0e6efa4820019]: Commencement: Sch. 10 para. 2(1)(4)(11) in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-b4c871fda7a857696554f225878c6e12]: Textual amendment: [Sch. 10 para. 2(1)(ea)-(ec)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/2/1/ea) inserted (5.1.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2025/31/section/46/4), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/f)
+[^c-b4c871fda7a857696554f225878c6e12]: Textual amendment: [Sch. 10 para. 2(1)(ea)-(ec)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/2/1/ea) inserted (5.1.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2025/31/section/46/4), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/f)
 
-[^key-043f1a2b3f2beca73494d61429139448]: Commencement: Sch. 10 para. 2(2)(3)(5)-(10) in force at 31.8.2021 for E.W. by [S.I. 2021/939](https://www.legislation.gov.uk/uksi/2021/939), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/939/regulation/2/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/2))
+[^c-043f1a2b3f2beca73494d61429139448]: Commencement: Sch. 10 para. 2(2)(3)(5)-(10) in force at 31.8.2021 for E.W. by [S.I. 2021/939](https://www.legislation.gov.uk/uksi/2021/939), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/939/regulation/2/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/2))
 
-[^key-d078bcfeb40c25b0358e4a9bd113dd9e]: Commencement: Sch. 10 para. 2(2)(3)(5)-(10) in force at 31.8.2022 for S.N.I. by [S.I. 2022/863](https://www.legislation.gov.uk/uksi/2022/863), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/863/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/863/regulation/2/b)
+[^c-d078bcfeb40c25b0358e4a9bd113dd9e]: Commencement: Sch. 10 para. 2(2)(3)(5)-(10) in force at 31.8.2022 for S.N.I. by [S.I. 2022/863](https://www.legislation.gov.uk/uksi/2022/863), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/863/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/863/regulation/2/b)
 
-[^key-55d8bb148cd0ecda593f9e5e6c24b960]: Commencement: Sch. 10 para. 3 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-55d8bb148cd0ecda593f9e5e6c24b960]: Commencement: Sch. 10 para. 3 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-ac7670c63679715b506195744e6cd45c]: Textual amendment: Sch. 10 para. 3(2)(ea) substituted for word (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 48](https://www.legislation.gov.uk/ukpga/2022/36/section/48), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/25)
+[^c-ac7670c63679715b506195744e6cd45c]: Textual amendment: Sch. 10 para. 3(2)(ea) substituted for word (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 48](https://www.legislation.gov.uk/ukpga/2022/36/section/48), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/25)
 
-[^key-657d6992736f8b5296c8744434454a64]: Textual amendment: Word in [Sch. 10 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/3/4/b) substituted (20.11.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/8), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2023/1222](https://www.legislation.gov.uk/uksi/2023/1222), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1222/regulation/2)
+[^c-657d6992736f8b5296c8744434454a64]: Textual amendment: Word in [Sch. 10 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/3/4/b) substituted (20.11.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/8), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2023/1222](https://www.legislation.gov.uk/uksi/2023/1222), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1222/regulation/2)
 
-[^key-a9890e77199e1653b1a57d3e2bd98d44]: Commencement: Sch. 10 para. 4 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-a9890e77199e1653b1a57d3e2bd98d44]: Commencement: Sch. 10 para. 4 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-73cf0a3940cab28defed5457c31b9512]: Commencement: Sch. 10 para. 5 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-73cf0a3940cab28defed5457c31b9512]: Commencement: Sch. 10 para. 5 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-f2c1f74b021109f9430fd02cd1de34cb]: Commencement: Sch. 10 para. 6 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-f2c1f74b021109f9430fd02cd1de34cb]: Commencement: Sch. 10 para. 6 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-35ba440b36788e4ab82a98a9972ebfe1]: Modification: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/6) modified (E.W.) (31.1.2022) by [The Immigration Act 2016 (Commencement and Transitional Provisions No. 1) (England and Wales) Regulations 2021 (S.I. 2021/939)](https://www.legislation.gov.uk/uksi/2021/939), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/3)
+[^c-35ba440b36788e4ab82a98a9972ebfe1]: Modification: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/6) modified (E.W.) (31.1.2022) by [The Immigration Act 2016 (Commencement and Transitional Provisions No. 1) (England and Wales) Regulations 2021 (S.I. 2021/939)](https://www.legislation.gov.uk/uksi/2021/939), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/3)
 
-[^key-91c323ff84098db98eaa30a0e7eb4672]: Modification: Sch. 10 para. 6 modified (S.N.I.) (31.8.2022) by [The Immigration Act 2016 (Commencement No. 1 and Transitional Provisions) (Scotland and Northern Ireland) Regulations 2022 (S.I. 2022/863)](https://www.legislation.gov.uk/uksi/2022/863), [Sch.](https://www.legislation.gov.uk/uksi/2022/863/schedule)
+[^c-91c323ff84098db98eaa30a0e7eb4672]: Modification: Sch. 10 para. 6 modified (S.N.I.) (31.8.2022) by [The Immigration Act 2016 (Commencement No. 1 and Transitional Provisions) (Scotland and Northern Ireland) Regulations 2022 (S.I. 2022/863)](https://www.legislation.gov.uk/uksi/2022/863), [Sch.](https://www.legislation.gov.uk/uksi/2022/863/schedule)
 
-[^key-2125fdcaa07e21aa49044b6f24f30e70]: Commencement: Sch. 10 para. 7 in force at 31.8.2021 for E.W. by [S.I. 2021/939](https://www.legislation.gov.uk/uksi/2021/939), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/939/regulation/2/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/2))
+[^c-2125fdcaa07e21aa49044b6f24f30e70]: Commencement: Sch. 10 para. 7 in force at 31.8.2021 for E.W. by [S.I. 2021/939](https://www.legislation.gov.uk/uksi/2021/939), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/939/regulation/2/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/2))
 
-[^key-87588e86e338091390b607372c0c14f0]: Modification: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/7) modified (E.W.) (31.1.2022) by [The Immigration Act 2016 (Commencement and Transitional Provisions No. 1) (England and Wales) Regulations 2021 (S.I. 2021/939)](https://www.legislation.gov.uk/uksi/2021/939), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/4)
+[^c-87588e86e338091390b607372c0c14f0]: Modification: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/7) modified (E.W.) (31.1.2022) by [The Immigration Act 2016 (Commencement and Transitional Provisions No. 1) (England and Wales) Regulations 2021 (S.I. 2021/939)](https://www.legislation.gov.uk/uksi/2021/939), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/4)
 
-[^key-5e3ccaaa93ef2d449490cd5ed4c6f4c8]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/7) in force at 31.8.2022 for S.N.I. by [S.I. 2022/863](https://www.legislation.gov.uk/uksi/2022/863), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/863/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/863/regulation/2/b)
+[^c-5e3ccaaa93ef2d449490cd5ed4c6f4c8]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/7) in force at 31.8.2022 for S.N.I. by [S.I. 2022/863](https://www.legislation.gov.uk/uksi/2022/863), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/863/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/863/regulation/2/b)
 
-[^key-fdb5f1669c6d0aec6857421be3d6f36a]: Modification: Sch. 10 para. 7 modified (S.N.I.) (31.8.2022) by [The Immigration Act 2016 (Commencement No. 1 and Transitional Provisions) (Scotland and Northern Ireland) Regulations 2022 (S.I. 2022/863)](https://www.legislation.gov.uk/uksi/2022/863), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/863/schedule/paragraph/4)
+[^c-fdb5f1669c6d0aec6857421be3d6f36a]: Modification: Sch. 10 para. 7 modified (S.N.I.) (31.8.2022) by [The Immigration Act 2016 (Commencement No. 1 and Transitional Provisions) (Scotland and Northern Ireland) Regulations 2022 (S.I. 2022/863)](https://www.legislation.gov.uk/uksi/2022/863), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/863/schedule/paragraph/4)
 
-[^key-2368a3d7a471132f389e157ec0d6e542]: Commencement: Sch. 10 para. 8 in force at 31.8.2021 for E.W. by [S.I. 2021/939](https://www.legislation.gov.uk/uksi/2021/939), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/939/regulation/2/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/2))
+[^c-2368a3d7a471132f389e157ec0d6e542]: Commencement: Sch. 10 para. 8 in force at 31.8.2021 for E.W. by [S.I. 2021/939](https://www.legislation.gov.uk/uksi/2021/939), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/939/regulation/2/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/2))
 
-[^key-db73c6236d002da79d282049d5c8c352]: Modification: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/8) modified (E.W.) (31.1.2022) by [The Immigration Act 2016 (Commencement and Transitional Provisions No. 1) (England and Wales) Regulations 2021 (S.I. 2021/939)](https://www.legislation.gov.uk/uksi/2021/939), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/4)
+[^c-db73c6236d002da79d282049d5c8c352]: Modification: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/8) modified (E.W.) (31.1.2022) by [The Immigration Act 2016 (Commencement and Transitional Provisions No. 1) (England and Wales) Regulations 2021 (S.I. 2021/939)](https://www.legislation.gov.uk/uksi/2021/939), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/4)
 
-[^key-f42f8a33faaf1394b033ea7910cbb1d3]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/8) in force at 31.8.2022 for S.N.I. by [S.I. 2022/863](https://www.legislation.gov.uk/uksi/2022/863), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/863/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/863/regulation/2/b)
+[^c-f42f8a33faaf1394b033ea7910cbb1d3]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/8) in force at 31.8.2022 for S.N.I. by [S.I. 2022/863](https://www.legislation.gov.uk/uksi/2022/863), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/863/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/863/regulation/2/b)
 
-[^key-256567032a55034f2c64f940fabf1510]: Modification: Sch. 10 para. 8 modified (S.N.I.) (31.8.2022) by [The Immigration Act 2016 (Commencement No. 1 and Transitional Provisions) (Scotland and Northern Ireland) Regulations 2022 (S.I. 2022/863)](https://www.legislation.gov.uk/uksi/2022/863), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/863/schedule/paragraph/4)
+[^c-256567032a55034f2c64f940fabf1510]: Modification: Sch. 10 para. 8 modified (S.N.I.) (31.8.2022) by [The Immigration Act 2016 (Commencement No. 1 and Transitional Provisions) (Scotland and Northern Ireland) Regulations 2022 (S.I. 2022/863)](https://www.legislation.gov.uk/uksi/2022/863), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/863/schedule/paragraph/4)
 
-[^key-802be6f94f8e050dad21183ba3b783a7]: Commencement: Sch. 10 para. 9 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-802be6f94f8e050dad21183ba3b783a7]: Commencement: Sch. 10 para. 9 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-edae33fb29d618b36c762133b69459f5]: Commencement: Sch. 10 para. 10 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-edae33fb29d618b36c762133b69459f5]: Commencement: Sch. 10 para. 10 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-45adb5e3b93f96349a763a744cac4691]: Commencement: Sch. 10 para. 11 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-45adb5e3b93f96349a763a744cac4691]: Commencement: Sch. 10 para. 11 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-cf4e44d00f5ed93955a5d6fd4bb913b4]: Commencement: Sch. 10 para. 12 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-cf4e44d00f5ed93955a5d6fd4bb913b4]: Commencement: Sch. 10 para. 12 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-8259a49338d0f9badbfcc2ab565af0ad]: Commencement: Sch. 10 para. 13 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-8259a49338d0f9badbfcc2ab565af0ad]: Commencement: Sch. 10 para. 13 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-0831ee5f713009a74a01dee066dba1bc]: Commencement: Sch. 10 para. 14 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-0831ee5f713009a74a01dee066dba1bc]: Commencement: Sch. 10 para. 14 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-2287597cd7e3a9808a4ce42c055db3f2]: Commencement: Sch. 10 para. 15 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-2287597cd7e3a9808a4ce42c055db3f2]: Commencement: Sch. 10 para. 15 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-caa731c8dbac1ee7b1e21c28d7eabf98]: Commencement: Sch. 10 para. 16 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-caa731c8dbac1ee7b1e21c28d7eabf98]: Commencement: Sch. 10 para. 16 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-65a36560024f0aedaf14fe51d15065c3]: Commencement: Sch. 10 para. 17 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-65a36560024f0aedaf14fe51d15065c3]: Commencement: Sch. 10 para. 17 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-524000707f2cb3b2531176394ed5c669]: Commencement: Sch. 10 para. 18 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-524000707f2cb3b2531176394ed5c669]: Commencement: Sch. 10 para. 18 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-b67473f777f71327ae41666d616d844c]: Commencement: Sch. 10 para. 19 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-b67473f777f71327ae41666d616d844c]: Commencement: Sch. 10 para. 19 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-2313bfad93b4d245cc3bbcbc29f6704e]: Commencement: Sch. 10 para. 20 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-2313bfad93b4d245cc3bbcbc29f6704e]: Commencement: Sch. 10 para. 20 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-c2ca346c87c561ff4747609465ebf85c]: Commencement: Sch. 10 para. 21 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-c2ca346c87c561ff4747609465ebf85c]: Commencement: Sch. 10 para. 21 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-e8512f2f3b668b406849e3e5b5de5b78]: Commencement: Sch. 10 para. 22 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-e8512f2f3b668b406849e3e5b5de5b78]: Commencement: Sch. 10 para. 22 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-e6ba67ef33672568f9a96114ccfa736c]: Commencement: Sch. 10 para. 23 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-e6ba67ef33672568f9a96114ccfa736c]: Commencement: Sch. 10 para. 23 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-8965de48063a8da2cbfe6beccdd1c09e]: Commencement: Sch. 10 para. 24 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-8965de48063a8da2cbfe6beccdd1c09e]: Commencement: Sch. 10 para. 24 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-b0e889eb3a778ad367e9adb0c1b4504f]: Commencement: Sch. 10 para. 25 in force at 15.1.2018 for specified purposes by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-b0e889eb3a778ad367e9adb0c1b4504f]: Commencement: Sch. 10 para. 25 in force at 15.1.2018 for specified purposes by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-16d094ac82fa3a408ed8b6e0496658f1]: Commencement: Sch. 10 para. 25 in force at 31.8.2021 for E.W. in so far as not already in force by [S.I. 2021/939](https://www.legislation.gov.uk/uksi/2021/939), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/939/regulation/2/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/2))
+[^c-16d094ac82fa3a408ed8b6e0496658f1]: Commencement: Sch. 10 para. 25 in force at 31.8.2021 for E.W. in so far as not already in force by [S.I. 2021/939](https://www.legislation.gov.uk/uksi/2021/939), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/939/regulation/2/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2021/939/schedule/paragraph/2))
 
-[^key-8f9a40aa02e5cccf836011a21bea4e2d]: Commencement: [Sch. 10 para. 25](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/25) in force at 31.8.2022 for S.N.I. in so far as not already in force by [S.I. 2022/863](https://www.legislation.gov.uk/uksi/2022/863), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/863/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/863/regulation/2/b)
+[^c-8f9a40aa02e5cccf836011a21bea4e2d]: Commencement: [Sch. 10 para. 25](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/25) in force at 31.8.2022 for S.N.I. in so far as not already in force by [S.I. 2022/863](https://www.legislation.gov.uk/uksi/2022/863), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/863/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/863/regulation/2/b)
 
-[^key-90b60e9dfb27d76605acd363ce942211]: Commencement: Sch. 10 para. 26 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-90b60e9dfb27d76605acd363ce942211]: Commencement: Sch. 10 para. 26 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-b32e20fae99a6bd8f5be2d539b21d3c5]: Commencement: Sch. 10 para. 27 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-b32e20fae99a6bd8f5be2d539b21d3c5]: Commencement: Sch. 10 para. 27 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-ff91640a07c0751703376cdc6486a926]: Commencement: Sch. 10 para. 28 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-ff91640a07c0751703376cdc6486a926]: Commencement: Sch. 10 para. 28 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-bd4b8ea6ce7d6a76a4a0a59a1b564bc6]: Commencement: Sch. 10 para. 29 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-bd4b8ea6ce7d6a76a4a0a59a1b564bc6]: Commencement: Sch. 10 para. 29 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-553be5f06bf6c64342496dab9d7edad6]: Commencement: Sch. 10 para. 30 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-553be5f06bf6c64342496dab9d7edad6]: Commencement: Sch. 10 para. 30 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-2c88cefddf7ddaf7bd1f59f2c444acd6]: Commencement: Sch. 10 para. 31 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-2c88cefddf7ddaf7bd1f59f2c444acd6]: Commencement: Sch. 10 para. 31 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-f839c19ea94ad51ce65ded8765f7708d]: Commencement: Sch. 10 para. 32 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-f839c19ea94ad51ce65ded8765f7708d]: Commencement: Sch. 10 para. 32 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-85bab8c2f20faaaf7246344d9fb5c8f9]: Commencement: Sch. 10 para. 33 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-85bab8c2f20faaaf7246344d9fb5c8f9]: Commencement: Sch. 10 para. 33 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-ca6144fc4fefbe834de983eff123199b]: Commencement: Sch. 10 para. 34 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-ca6144fc4fefbe834de983eff123199b]: Commencement: Sch. 10 para. 34 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-b997c5848ecef4302223a85406818e19]: Commencement: Sch. 10 para. 35 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-b997c5848ecef4302223a85406818e19]: Commencement: Sch. 10 para. 35 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-5ed08c0f9a7db118116ed7a7af770b82]: Commencement: Sch. 10 para. 36 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-5ed08c0f9a7db118116ed7a7af770b82]: Commencement: Sch. 10 para. 36 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-9d9e588115848bb167478c7443065e7d]: Commencement: Sch. 10 para. 37 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-9d9e588115848bb167478c7443065e7d]: Commencement: Sch. 10 para. 37 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-d6d07b65899c4f89d1f44ba445b664d3]: Commencement: Sch. 10 para. 38 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-d6d07b65899c4f89d1f44ba445b664d3]: Commencement: Sch. 10 para. 38 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-1eaa2ee0aab7228718600e3837865989]: Commencement: Sch. 10 para. 39 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-1eaa2ee0aab7228718600e3837865989]: Commencement: Sch. 10 para. 39 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-bb75fb7bafd110cbdfacfcad8468ea16]: Commencement: Sch. 10 para. 40 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-bb75fb7bafd110cbdfacfcad8468ea16]: Commencement: Sch. 10 para. 40 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-526965d6c212cc5f97222a40b89e9570]: Commencement: Sch. 10 para. 41 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-526965d6c212cc5f97222a40b89e9570]: Commencement: Sch. 10 para. 41 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-27bc3de12606e0c6f14d10039b3de397]: Commencement: Sch. 10 para. 42 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-27bc3de12606e0c6f14d10039b3de397]: Commencement: Sch. 10 para. 42 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-9192723676ccc33ed0e53579ae59c762]: Commencement: Sch. 10 para. 43 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-9192723676ccc33ed0e53579ae59c762]: Commencement: Sch. 10 para. 43 in force at 15.1.2018 by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)

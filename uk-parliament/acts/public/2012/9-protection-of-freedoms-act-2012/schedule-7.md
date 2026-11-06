@@ -24,7 +24,7 @@ Section 78
 
 ### Restriction of scope of regulated activities: children
 
-**1.**[^key-ed2eb5d9c95a93f31d2110225b54152f] (1) Parts 1 and 3 of Schedule 2 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (S.I. 2007/1351 (N.I. 11)) (regulated activity relating to children and the period condition) are amended as follows.
+**1.**[^c-ed2eb5d9c95a93f31d2110225b54152f] (1) Parts 1 and 3 of Schedule 2 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (S.I. 2007/1351 (N.I. 11)) (regulated activity relating to children and the period condition) are amended as follows.
 
 (2) In paragraph 1(1)(b) (frequency and period condition for regulated activity), at the beginning, insert “ except in the case of activities falling within sub-paragraph (1A), ”.
 
@@ -115,7 +115,7 @@ Section 78
 
 ### Restriction of definition of vulnerable adults
 
-**2.**[^key-84ae39134e26bfa7694e3be02aaaaf9e] (1) In Article 2 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (interpretation of Order), in the first paragraph (2)—
+**2.**[^c-84ae39134e26bfa7694e3be02aaaaf9e] (1) In Article 2 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (interpretation of Order), in the first paragraph (2)—
 
 - (a) after the definition of “the 2003 Order” insert—
 
@@ -128,9 +128,9 @@ Section 78
 
 ### Restriction of scope of regulated activities: vulnerable adults
 
-**3.**[^key-e5dbdfbc62573877d0de3ce9422c2b49] (1) Parts 2 and 3 of Schedule 2 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (regulated activity relating to vulnerable adults and the period condition) are amended as follows.
+**3.**[^c-e5dbdfbc62573877d0de3ce9422c2b49] (1) Parts 2 and 3 of Schedule 2 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (regulated activity relating to vulnerable adults and the period condition) are amended as follows.
 
-(2)[^key-c4f3aa3df83b63519028cd23bd1e4931] For paragraph 7(1) to (3) (main activities which are regulated activity) substitute—
+(2)[^c-c4f3aa3df83b63519028cd23bd1e4931] For paragraph 7(1) to (3) (main activities which are regulated activity) substitute—
 
 > (1) Each of the following is a regulated activity relating to vulnerable adults—
 >
@@ -198,7 +198,7 @@ Section 78
 
 ### Alteration of test for barring decisions
 
-**4.**[^key-8a2f95cd31c81c720a77bff2fce6dc3a] (1) For sub-paragraphs (2) and (3) of paragraph 1 of Schedule 1 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (automatic inclusion of person to whom paragraph applies in children's barred list) substitute—
+**4.**[^c-8a2f95cd31c81c720a77bff2fce6dc3a] (1) For sub-paragraphs (2) and (3) of paragraph 1 of Schedule 1 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (automatic inclusion of person to whom paragraph applies in children's barred list) substitute—
 
 > (2) If the Secretary of State has reason to believe that this paragraph might apply to a person, the Secretary of State must refer the matter to ISA.
 >
@@ -356,15 +356,15 @@ Section 78
 
 ### Abolition of controlled activity
 
-**5.**[^key-961f0ce2eaf0518fed78591f56aa3195] Omit Articles 25 to 27 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (controlled activity).
+**5.**[^c-961f0ce2eaf0518fed78591f56aa3195] Omit Articles 25 to 27 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (controlled activity).
 
 ### Abolition of monitoring
 
-**6.**[^key-18bc15a9ab85060c1ff4167d29fb1c24] Omit Articles 28 to 31 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (monitoring).
+**6.**[^c-18bc15a9ab85060c1ff4167d29fb1c24] Omit Articles 28 to 31 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (monitoring).
 
 ### Information for purposes of making barring decisions
 
-**7.**[^key-bd9b917d9918b5d18630e9dc3803a71f] (1) In paragraph 19 of Schedule 1 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (information required by ISA about persons to whom grounds for barring apply)—
+**7.**[^c-bd9b917d9918b5d18630e9dc3803a71f] (1) In paragraph 19 of Schedule 1 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (information required by ISA about persons to whom grounds for barring apply)—
 
 - (a) in sub-paragraph (1)—
   - (i) in paragraph (a) after “applies” insert “ or appears to apply ”,
@@ -381,7 +381,7 @@ Section 78
 
 ### Review of barring decisions
 
-**8.**[^key-1ef0d93fe0ae7adcadb8a91ecb0cb34a] After paragraph 18 of Schedule 1 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (power to apply for review of a person's inclusion in a barred list) insert—
+**8.**[^c-1ef0d93fe0ae7adcadb8a91ecb0cb34a] After paragraph 18 of Schedule 1 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (power to apply for review of a person's inclusion in a barred list) insert—
 
 > **18A.** (1) Sub-paragraph (2) applies if a person's inclusion in a barred list is not subject to—
 >
@@ -492,11 +492,11 @@ Section 78
 - (a) in the heading for “32 and 34” substitute “ 32A and 32B ”, and
 - (b) in paragraph (1) for “32 or 34” substitute “ 32A or 32B ”.
 
-(4)[^key-37e1b658a59dc3428658fb08dc6516dc] Omit entry 19 in the table in paragraph 1 of Schedule 5 to that Order (power to add entries to the table).
+(4)[^c-37e1b658a59dc3428658fb08dc6516dc] Omit entry 19 in the table in paragraph 1 of Schedule 5 to that Order (power to add entries to the table).
 
-(5)[^key-37e1b658a59dc3428658fb08dc6516dc] In paragraph 2 of Schedule 5 to that Order (power to amend entries in the table) for the words from “any” to the end substitute “ this Schedule ”.
+(5)[^c-37e1b658a59dc3428658fb08dc6516dc] In paragraph 2 of Schedule 5 to that Order (power to amend entries in the table) for the words from “any” to the end substitute “ this Schedule ”.
 
-(6)[^key-37e1b658a59dc3428658fb08dc6516dc] Omit paragraph 3(1)(b) of Schedule 5 to that Order (barring information where certain activities carried on for the purposes of the armed forces of the Crown) and the word “or” before it.
+(6)[^c-37e1b658a59dc3428658fb08dc6516dc] Omit paragraph 3(1)(b) of Schedule 5 to that Order (barring information where certain activities carried on for the purposes of the armed forces of the Crown) and the word “or” before it.
 
 ### Duty to check whether person barred
 
@@ -602,7 +602,7 @@ Section 78
 
 ### Professional bodies
 
-**12.** (1)[^key-409516fba396f7e94076d70d8d30c54b] In Article 43 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (registers: duty to refer)—
+**12.** (1)[^c-409516fba396f7e94076d70d8d30c54b] In Article 43 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (registers: duty to refer)—
 
 - (a) in paragraph (1)—
   - (i) for “must” substitute “ may ”, and
@@ -615,7 +615,7 @@ Section 78
 - (d) in paragraph (5) omit “prescribed”, and
 - (e) in the heading for “duty” substitute “ power ”.
 
-(2)[^key-43e3ba7d126648ab3c2d46226694dc81] In Article 45 of that Order (registers: notice of barring etc.) for paragraphs (1) to (5) substitute—
+(2)[^c-43e3ba7d126648ab3c2d46226694dc81] In Article 45 of that Order (registers: notice of barring etc.) for paragraphs (1) to (5) substitute—
 
 > (1) Paragraph (2) applies if—
 >
@@ -677,13 +677,13 @@ Section 78
 >
 > (5H) The Secretary of State may by order amend paragraph (5G).
 
-(3)[^key-5ad8a1a7f1c62bb7845eefdaf71ae06c] In the heading of Article 45 of that Order for “notice of barring and cessation of monitoring” substitute “ provision of barring information to keepers of registers ”.
+(3)[^c-5ad8a1a7f1c62bb7845eefdaf71ae06c] In the heading of Article 45 of that Order for “notice of barring and cessation of monitoring” substitute “ provision of barring information to keepers of registers ”.
 
-(4)[^key-5ad8a1a7f1c62bb7845eefdaf71ae06c] Omit Article 46 of that Order (registers: power to apply for vetting information).
+(4)[^c-5ad8a1a7f1c62bb7845eefdaf71ae06c] Omit Article 46 of that Order (registers: power to apply for vetting information).
 
 ### Supervisory authorities
 
-**13.** (1)[^key-a03a8827194e16a3334250f24e13964c] In Article 47 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (duty of supervisory authorities to refer)—
+**13.** (1)[^c-a03a8827194e16a3334250f24e13964c] In Article 47 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (duty of supervisory authorities to refer)—
 
 - (a) in paragraph (1)—
   - (i) for “must” substitute “ may ”, and
@@ -696,7 +696,7 @@ Section 78
 - (d) omit paragraph (6), and
 - (e) in the heading for “duty” substitute “ power ”.
 
-(2)[^key-a03a8827194e16a3334250f24e13964c] In Article 49 of that Order (supervisory authorities: power to apply for vetting information)—
+(2)[^c-a03a8827194e16a3334250f24e13964c] In Article 49 of that Order (supervisory authorities: power to apply for vetting information)—
 
 - (a) in the heading for “vetting” substitute “ certain barring ”,
 - (b) in paragraph (1) for “the Secretary of State”, in both places where it occurs, substitute “ ISA ”,
@@ -738,7 +738,7 @@ Section 78
   >   - (ii) that the notification is not required in connection with the exercise of a function of the supervisory authority mentioned in Article 47(7).
 
   , and
-- (g)[^key-a03a8827194e16a3334250f24e13964c] in paragraph (8) for “prescribe” substitute “ determine ”.
+- (g)[^c-a03a8827194e16a3334250f24e13964c] in paragraph (8) for “prescribe” substitute “ determine ”.
 
 (4) In Article 51 of that Order (supervisory authorities: notification of barring etc. in respect of vulnerable adults)—
 
@@ -773,9 +773,9 @@ Section 78
   >   - (ii) that the notification is not required in connection with the exercise of a function of the supervisory authority mentioned in Article 47(7).
 
   , and
-- (g)[^key-a03a8827194e16a3334250f24e13964c] in paragraph (8) for “prescribe” substitute “ determine ”.
+- (g)[^c-a03a8827194e16a3334250f24e13964c] in paragraph (8) for “prescribe” substitute “ determine ”.
 
-(5)[^key-a03a8827194e16a3334250f24e13964c] In Article 52 of that Order (provision of information to supervisory authorities)—
+(5)[^c-a03a8827194e16a3334250f24e13964c] In Article 52 of that Order (provision of information to supervisory authorities)—
 
 - (a) in paragraph (2) for “must” substitute “ may (whether on an application by the authority or otherwise) ”,
 - (b) in paragraph (3)—
@@ -789,7 +789,7 @@ Section 78
 
 ### Minor amendments
 
-**14.**[^key-12081492a69f63c487799041fa979c4f] (1) Omit section 90(2) of the Policing and Crime Act 2009 (which, if commenced, would insert Articles 36A to 36C into the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 in connection with the notification of proposals to include persons in barred lists).
+**14.**[^c-12081492a69f63c487799041fa979c4f] (1) Omit section 90(2) of the Policing and Crime Act 2009 (which, if commenced, would insert Articles 36A to 36C into the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 in connection with the notification of proposals to include persons in barred lists).
 
 (2) After Article 10(8) of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (regulated activity providers) insert—
 
@@ -807,7 +807,7 @@ Section 78
 - (c) in paragraph (5) omit “prescribed”, and
 - (d) in the heading for “duty” substitute “ power ”.
 
-(4)[^key-257a33e6e197588b088421133025c0cc] In Article 52A(1) of that Order (power for ISA to provide information to the police for use for certain purposes)—
+(4)[^c-257a33e6e197588b088421133025c0cc] In Article 52A(1) of that Order (power for ISA to provide information to the police for use for certain purposes)—
 
 - (a) for the words “or the chief constable of a police force in England, Wales or Scotland” substitute “ , a chief officer of police or the chief constable of a police force in Scotland ”, and
 - (b) after sub-paragraph (b), insert—
@@ -843,34 +843,34 @@ Section 78
 
 ## Annotations
 
-[^key-ed2eb5d9c95a93f31d2110225b54152f]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-ed2eb5d9c95a93f31d2110225b54152f]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-84ae39134e26bfa7694e3be02aaaaf9e]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/2) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-84ae39134e26bfa7694e3be02aaaaf9e]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/2) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-e5dbdfbc62573877d0de3ce9422c2b49]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-e5dbdfbc62573877d0de3ce9422c2b49]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-c4f3aa3df83b63519028cd23bd1e4931]: Commencement: [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/2) in force at 10.8.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/2/b)
+[^c-c4f3aa3df83b63519028cd23bd1e4931]: Commencement: [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/2) in force at 10.8.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/2/b)
 
-[^key-8a2f95cd31c81c720a77bff2fce6dc3a]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/4) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i) (with [arts. 6-16](https://www.legislation.gov.uk/uksi/2012/2234/article/6)) (as amended (31.3.2014) by S.I. 2014/831, art. 2(2))
+[^c-8a2f95cd31c81c720a77bff2fce6dc3a]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/4) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i) (with [arts. 6-16](https://www.legislation.gov.uk/uksi/2012/2234/article/6)) (as amended (31.3.2014) by S.I. 2014/831, art. 2(2))
 
-[^key-961f0ce2eaf0518fed78591f56aa3195]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/5) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-961f0ce2eaf0518fed78591f56aa3195]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/5) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-18bc15a9ab85060c1ff4167d29fb1c24]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/6) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-18bc15a9ab85060c1ff4167d29fb1c24]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/6) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-bd9b917d9918b5d18630e9dc3803a71f]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/7) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-bd9b917d9918b5d18630e9dc3803a71f]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/7) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-1ef0d93fe0ae7adcadb8a91ecb0cb34a]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/8) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-1ef0d93fe0ae7adcadb8a91ecb0cb34a]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/8) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-37e1b658a59dc3428658fb08dc6516dc]: Commencement: [Sch. 7 para. 9(4)-(6)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/9/4) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(ii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/ii)
+[^c-37e1b658a59dc3428658fb08dc6516dc]: Commencement: [Sch. 7 para. 9(4)-(6)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/9/4) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(ii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/ii)
 
-[^key-409516fba396f7e94076d70d8d30c54b]: Commencement: [Sch. 7 para. 12(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/12/1) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(iii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/iii)
+[^c-409516fba396f7e94076d70d8d30c54b]: Commencement: [Sch. 7 para. 12(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/12/1) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(iii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/iii)
 
-[^key-43e3ba7d126648ab3c2d46226694dc81]: Commencement: [Sch. 7 para. 12(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/12/2) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(iv)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/iv)
+[^c-43e3ba7d126648ab3c2d46226694dc81]: Commencement: [Sch. 7 para. 12(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/12/2) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(iv)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/iv)
 
-[^key-5ad8a1a7f1c62bb7845eefdaf71ae06c]: Commencement: [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/12/3)[(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/12/4) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(v)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/v)
+[^c-5ad8a1a7f1c62bb7845eefdaf71ae06c]: Commencement: [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/12/3)[(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/12/4) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(v)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/v)
 
-[^key-a03a8827194e16a3334250f24e13964c]: Commencement: [Sch. 7 para. 13(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/13/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/13/2)[(3)(g)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/13/3/g)[(4)(g)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/13/4/g)[(5)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/13/5) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(vi)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/vi)
+[^c-a03a8827194e16a3334250f24e13964c]: Commencement: [Sch. 7 para. 13(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/13/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/13/2)[(3)(g)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/13/3/g)[(4)(g)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/13/4/g)[(5)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/13/5) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(vi)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/vi)
 
-[^key-12081492a69f63c487799041fa979c4f]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/14) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(vii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/vii)
+[^c-12081492a69f63c487799041fa979c4f]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/14) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(vii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/vii)
 
-[^key-257a33e6e197588b088421133025c0cc]: Commencement: [Sch. 7 para. 14(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/14/4) in force at 10.8.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/2/b)
+[^c-257a33e6e197588b088421133025c0cc]: Commencement: [Sch. 7 para. 14(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/14/4) in force at 10.8.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39ZA. Decision to cease looking after C[^key-9a6f0e310cf5a7a9daecc2c0140c8350]
+## 39ZA. Decision to cease looking after C[^c-9a6f0e310cf5a7a9daecc2c0140c8350]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a6f0e310cf5a7a9daecc2c0140c8350]: Textual amendment: Reg. 39ZA omitted (1.4.2015) by virtue of [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [8](https://www.legislation.gov.uk/uksi/2015/495/regulation/8)
+[^c-9a6f0e310cf5a7a9daecc2c0140c8350]: Textual amendment: Reg. 39ZA omitted (1.4.2015) by virtue of [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [8](https://www.legislation.gov.uk/uksi/2015/495/regulation/8)

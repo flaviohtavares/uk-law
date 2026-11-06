@@ -22,7 +22,7 @@ summary: ''
 
 (1) For the basic condition in section 4(1)(e) of the Act, a person who has accepted a claimant commitment within such period after making a claim as the Secretary of State specifies is to be treated as having accepted that claimant commitment on the first day of the period in respect of which the claim is made.
 
-(2) In a case where an award may be made without a claim, a person who accepts a claimant commitment within such period as the Secretary of State specifies is to be treated as having accepted a claimant commitment on the day that would be the first day of the first assessment period in relation to the award in accordance with regulation 21(3) or (3A)[^key-43aa1c42b62f27a55749d82f4c81ef9c].
+(2) In a case where an award may be made without a claim, a person who accepts a claimant commitment within such period as the Secretary of State specifies is to be treated as having accepted a claimant commitment on the day that would be the first day of the first assessment period in relation to the award in accordance with regulation 21(3) or (3A)[^c-43aa1c42b62f27a55749d82f4c81ef9c].
 
 (3) The Secretary of State may extend the period within which a person is required to accept a claimant commitment or an updated claimant commitment where the person requests that the Secretary of State review—
 
@@ -39,4 +39,4 @@ and the Secretary of State considers that the request is reasonable.
 
 ## Annotations
 
-[^key-43aa1c42b62f27a55749d82f4c81ef9c]: Textual amendment: Words in reg. 15(2) inserted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/3/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))
+[^c-43aa1c42b62f27a55749d82f4c81ef9c]: Textual amendment: Words in reg. 15(2) inserted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/3/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))

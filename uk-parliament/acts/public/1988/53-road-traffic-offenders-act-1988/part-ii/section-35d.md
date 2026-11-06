@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35D. Effect of sentence of imprisonment in other cases: Scotland[^key-8ed035843e013123d9e233558ba847e5]
+## 35D. Effect of sentence of imprisonment in other cases: Scotland[^c-8ed035843e013123d9e233558ba847e5]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ed035843e013123d9e233558ba847e5]: Textual amendment: Ss. 35C, 35D inserted (16.7.2018) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 16 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/2/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 paras. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29), [36](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/36)); [S.I. 2018/733](https://www.legislation.gov.uk/uksi/2018/733), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/733/article/2/b)
+[^c-8ed035843e013123d9e233558ba847e5]: Textual amendment: Ss. 35C, 35D inserted (16.7.2018) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 16 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/2/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 paras. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29), [36](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/36)); [S.I. 2018/733](https://www.legislation.gov.uk/uksi/2018/733), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/733/article/2/b)

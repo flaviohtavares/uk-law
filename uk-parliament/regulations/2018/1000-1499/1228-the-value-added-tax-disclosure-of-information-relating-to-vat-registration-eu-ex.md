@@ -50,22 +50,22 @@ In accordance with section 51(1)(a) of the TCTA, the Treasury consider it approp
 
 In accordance with section 52(2) of the TCTA, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union, for the following Regulations to come into force on such day or days as the Treasury may by regulations under that section appoint.
 
-## 1. Citation and commencement[^key-93db7a39e0fb09da275a37ebf96df08c]
+## 1. Citation and commencement[^c-93db7a39e0fb09da275a37ebf96df08c]
 
 These Regulations may be cited as the Value Added Tax (Disclosure of Information Relating to VAT Registration) (EU Exit) Regulations 2018 and come into force on such day or days as the Treasury may by regulations under section 52 of the Taxation (Cross-border Trade) Act 2018 appoint.
 
-## 2. Interpretation[^key-ea5585cbe3615f7cb2c16d2171e2d674]
+## 2. Interpretation[^c-ea5585cbe3615f7cb2c16d2171e2d674]
 
 In these Regulations—
 
 - “**HMRC Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs; and
 - “**registration number**” has the same meaning as in regulation 2(1) (interpretation–general) of the Value Added Tax Regulations 1995 [^c23444561].
 
-## 3. Disclosure of information relating to VAT registration[^key-27a7ce7b1c9b7165dc554efdc10097d6]
+## 3. Disclosure of information relating to VAT registration[^c-27a7ce7b1c9b7165dc554efdc10097d6]
 
 HMRC Commissioners may disclose the information in regulation 4 to a person in response to an enquiry made to them by that person which specifies a number.
 
-## 4.[^key-e1f6422e89098c3f28f4acc595b7cdfc]
+## 4.[^c-e1f6422e89098c3f28f4acc595b7cdfc]
 
 The information is—
 
@@ -90,14 +90,14 @@ This instrument is one of a group of instruments covered by a single overarching
 
 [^c23444551]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-93db7a39e0fb09da275a37ebf96df08c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1228/regulation/1) in force at 1.12.2020 by [S.I. 2020/1333](https://www.legislation.gov.uk/uksi/2020/1333), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1333/regulation/2)
+[^c-93db7a39e0fb09da275a37ebf96df08c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1228/regulation/1) in force at 1.12.2020 by [S.I. 2020/1333](https://www.legislation.gov.uk/uksi/2020/1333), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1333/regulation/2)
 
-[^key-ea5585cbe3615f7cb2c16d2171e2d674]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1228/regulation/2) in force at 1.12.2020 by [S.I. 2020/1333](https://www.legislation.gov.uk/uksi/2020/1333), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1333/regulation/2)
+[^c-ea5585cbe3615f7cb2c16d2171e2d674]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1228/regulation/2) in force at 1.12.2020 by [S.I. 2020/1333](https://www.legislation.gov.uk/uksi/2020/1333), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1333/regulation/2)
 
 [^c23444561]: Marginal citation: [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), to which there are amendments not relevant to these Regulations.
 
-[^key-27a7ce7b1c9b7165dc554efdc10097d6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1228/regulation/3) in force at 1.12.2020 by [S.I. 2020/1333](https://www.legislation.gov.uk/uksi/2020/1333), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1333/regulation/2)
+[^c-27a7ce7b1c9b7165dc554efdc10097d6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1228/regulation/3) in force at 1.12.2020 by [S.I. 2020/1333](https://www.legislation.gov.uk/uksi/2020/1333), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1333/regulation/2)
 
-[^key-e1f6422e89098c3f28f4acc595b7cdfc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1228/regulation/4) in force at 1.12.2020 by [S.I. 2020/1333](https://www.legislation.gov.uk/uksi/2020/1333), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1333/regulation/2)
+[^c-e1f6422e89098c3f28f4acc595b7cdfc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1228/regulation/4) in force at 1.12.2020 by [S.I. 2020/1333](https://www.legislation.gov.uk/uksi/2020/1333), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1333/regulation/2)
 
 [^c23444571]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).

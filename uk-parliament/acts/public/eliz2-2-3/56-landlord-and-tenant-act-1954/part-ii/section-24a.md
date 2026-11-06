@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24A. Applications for determination of interim rent while tenancy continues[^key-edc171ab672f68372fb9e4dda3a2dc4f][^key-807145004d8402fe20939182670a6d79]
+## 24A. Applications for determination of interim rent while tenancy continues[^c-edc171ab672f68372fb9e4dda3a2dc4f][^c-807145004d8402fe20939182670a6d79]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ either of them may make an application to the court to determine a rent (an “i
 
 ## Annotations
 
-[^key-edc171ab672f68372fb9e4dda3a2dc4f]: Modification: [Ss. 24-28](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/24) excluded (2.12.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 209](https://www.legislation.gov.uk/ukpga/2023/55/section/209), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
+[^c-edc171ab672f68372fb9e4dda3a2dc4f]: Modification: [Ss. 24-28](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/24) excluded (2.12.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 209](https://www.legislation.gov.uk/ukpga/2023/55/section/209), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
 
-[^key-807145004d8402fe20939182670a6d79]: Textual amendment: Ss. 24A-24D substituted for s. 24A (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [18](https://www.legislation.gov.uk/uksi/2003/3096/article/18)
+[^c-807145004d8402fe20939182670a6d79]: Textual amendment: Ss. 24A-24D substituted for s. 24A (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [18](https://www.legislation.gov.uk/uksi/2003/3096/article/18)

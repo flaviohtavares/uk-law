@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Requirement for public register[^key-1ff2229884b0158c06936e9de4fc67a7]
+## 29. Requirement for public register[^c-1ff2229884b0158c06936e9de4fc67a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,10 +40,10 @@ summary: ''
 
 (7) In this section “**prescribed**” means prescribed by regulations made by the Secretary of State.
 
-(8)[^key-0b8962853d8c092ea1435dc664ae630e] The OGA must provide to the Secretary of State any information held by it that is required by the Secretary of State in order to comply with the requirements imposed by this section.
+(8)[^c-0b8962853d8c092ea1435dc664ae630e] The OGA must provide to the Secretary of State any information held by it that is required by the Secretary of State in order to comply with the requirements imposed by this section.
 
 ## Annotations
 
-[^key-1ff2229884b0158c06936e9de4fc67a7]: Commencement: S. 29 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
+[^c-1ff2229884b0158c06936e9de4fc67a7]: Commencement: S. 29 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
 
-[^key-0b8962853d8c092ea1435dc664ae630e]: Textual amendment: [S. 29(8)](https://www.legislation.gov.uk/ukpga/2008/32/section/29/8) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/59); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-0b8962853d8c092ea1435dc664ae630e]: Textual amendment: [S. 29(8)](https://www.legislation.gov.uk/ukpga/2008/32/section/29/8) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/59); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

@@ -35,14 +35,14 @@ amending Regulation (EC) No 391/2009 with regard to the adoption by the Internat
 
 (Text with EEA relevance) (revoked)
 
-[^key-ff9718bc23c3030fb58c9e1f60764dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff9718bc23c3030fb58c9e1f60764dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ff9718bc23c3030fb58c9e1f60764dda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ff9718bc23c3030fb58c9e1f60764dda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ff9718bc23c3030fb58c9e1f60764dda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ff9718bc23c3030fb58c9e1f60764dda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff9718bc23c3030fb58c9e1f60764dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff9718bc23c3030fb58c9e1f60764dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff9718bc23c3030fb58c9e1f60764dda]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Recognised Organisations) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/270)](https://www.legislation.gov.uk/uksi/2019/270), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/270/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/270/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff9718bc23c3030fb58c9e1f60764dda]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Recognised Organisations) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/270)](https://www.legislation.gov.uk/uksi/2019/270), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/270/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/270/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

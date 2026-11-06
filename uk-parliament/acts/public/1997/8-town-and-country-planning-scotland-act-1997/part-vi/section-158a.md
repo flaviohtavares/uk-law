@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 158A. Enforcement charters[^key-fecfeca9b6a1ced1b5d01cef2ab78c67]
+## 158A. Enforcement charters[^c-fecfeca9b6a1ced1b5d01cef2ab78c67]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ and such publication, or re-publication, is to include by electronic means (as f
 
 ## Annotations
 
-[^key-fecfeca9b6a1ced1b5d01cef2ab78c67]: Textual amendment: S. 158A and cross-heading inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 27](https://www.legislation.gov.uk/asp/2006/17/section/27), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-fecfeca9b6a1ced1b5d01cef2ab78c67]: Textual amendment: S. 158A and cross-heading inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 27](https://www.legislation.gov.uk/asp/2006/17/section/27), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

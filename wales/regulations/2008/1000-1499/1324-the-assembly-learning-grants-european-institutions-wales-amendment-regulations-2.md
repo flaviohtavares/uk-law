@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Assembly Learning Grants (European Institutions) (Wales) (Amendment) Regulations 2008 (revoked)[^key-3382c34cf9a9df8fe50c25c9f76902c1]
+The Assembly Learning Grants (European Institutions) (Wales) (Amendment) Regulations 2008 (revoked)[^c-3382c34cf9a9df8fe50c25c9f76902c1]
 
 Made
 
@@ -45,38 +45,38 @@ Coming into force
 
 13 June 2008
 
-[^key-3382c34cf9a9df8fe50c25c9f76902c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3382c34cf9a9df8fe50c25c9f76902c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — GENERAL[^key-3382c34cf9a9df8fe50c25c9f76902c1]
+## PART 1 — GENERAL[^c-3382c34cf9a9df8fe50c25c9f76902c1]
 
-### 1. Title, commencement and application[^key-3382c34cf9a9df8fe50c25c9f76902c1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-3382c34cf9a9df8fe50c25c9f76902c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Interpretation[^key-3382c34cf9a9df8fe50c25c9f76902c1]
+### 1. Title, commencement and application[^c-3382c34cf9a9df8fe50c25c9f76902c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of the Assembly Learning Grants (European Institutions) (Wales) Regulations 2008[^key-3382c34cf9a9df8fe50c25c9f76902c1]
+**2.**[^c-3382c34cf9a9df8fe50c25c9f76902c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Interpretation[^c-3382c34cf9a9df8fe50c25c9f76902c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3382c34cf9a9df8fe50c25c9f76902c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 4. Amendment of the Assembly Learning Grants (European Institutions) (Wales) Regulations 2008[^c-3382c34cf9a9df8fe50c25c9f76902c1]
 
-**6.**[^key-3382c34cf9a9df8fe50c25c9f76902c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3382c34cf9a9df8fe50c25c9f76902c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3382c34cf9a9df8fe50c25c9f76902c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3382c34cf9a9df8fe50c25c9f76902c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3382c34cf9a9df8fe50c25c9f76902c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-3382c34cf9a9df8fe50c25c9f76902c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3382c34cf9a9df8fe50c25c9f76902c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3382c34cf9a9df8fe50c25c9f76902c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3382c34cf9a9df8fe50c25c9f76902c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3382c34cf9a9df8fe50c25c9f76902c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2008/1324) revoked (21.1.2010) by [The Assembly Learning Grants (European University Institute) (Wales) Regulations 2009 (S.I. 2009/3359)](https://www.legislation.gov.uk/wsi/2009/3359), [regs. 1](https://www.legislation.gov.uk/wsi/2009/3359/regulation/1), [4(b)](https://www.legislation.gov.uk/wsi/2009/3359/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2009/3359/regulation/5))
+[^c-3382c34cf9a9df8fe50c25c9f76902c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2008/1324) revoked (21.1.2010) by [The Assembly Learning Grants (European University Institute) (Wales) Regulations 2009 (S.I. 2009/3359)](https://www.legislation.gov.uk/wsi/2009/3359), [regs. 1](https://www.legislation.gov.uk/wsi/2009/3359/regulation/1), [4(b)](https://www.legislation.gov.uk/wsi/2009/3359/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2009/3359/regulation/5))

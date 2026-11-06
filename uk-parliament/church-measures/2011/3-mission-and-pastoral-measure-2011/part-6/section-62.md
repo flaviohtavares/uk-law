@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 62. Procedure for making pastoral (church buildings disposal) schemes[^key-40dd4321fcb7bdd97640e29540e3bf23]
+## 62. Procedure for making pastoral (church buildings disposal) schemes[^c-40dd4321fcb7bdd97640e29540e3bf23]
 
 *Extent: E*
 
@@ -52,4 +52,4 @@ Provided that if the Council has advised that the demolition of the building clo
 
 ## Annotations
 
-[^key-40dd4321fcb7bdd97640e29540e3bf23]: Commencement: S. 62 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-40dd4321fcb7bdd97640e29540e3bf23]: Commencement: S. 62 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

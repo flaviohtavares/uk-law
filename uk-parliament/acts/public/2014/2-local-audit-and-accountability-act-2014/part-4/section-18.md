@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Eligibility and regulation of local auditors[^key-a6ab4eec4affb35335dc64a9996f25bf]
+## 18. Eligibility and regulation of local auditors[^c-a6ab4eec4affb35335dc64a9996f25bf]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6ab4eec4affb35335dc64a9996f25bf]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/2/section/18) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)
+[^c-a6ab4eec4affb35335dc64a9996f25bf]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/2/section/18) in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e)

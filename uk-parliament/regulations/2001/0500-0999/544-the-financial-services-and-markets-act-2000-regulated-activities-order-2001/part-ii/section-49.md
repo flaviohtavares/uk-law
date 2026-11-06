@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-There is excluded from article 45 the act of sending, or causing to be sent, a dematerialised instruction as a necessary part of providing a network, the purpose of which is to carry dematerialised instructions which are at all time properly authenticated (within the meaning of the 2001[^key-901d9be590fbf9b9f2d1a428b2950156] Regulations).
+There is excluded from article 45 the act of sending, or causing to be sent, a dematerialised instruction as a necessary part of providing a network, the purpose of which is to carry dematerialised instructions which are at all time properly authenticated (within the meaning of the 2001[^c-901d9be590fbf9b9f2d1a428b2950156] Regulations).
 
 ## Annotations
 
-[^key-901d9be590fbf9b9f2d1a428b2950156]: Textual amendment: Word in art. 49 substituted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [13(4)](https://www.legislation.gov.uk/uksi/2002/682/article/13/4)
+[^c-901d9be590fbf9b9f2d1a428b2950156]: Textual amendment: Word in art. 49 substituted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [13(4)](https://www.legislation.gov.uk/uksi/2002/682/article/13/4)

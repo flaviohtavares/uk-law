@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Automatic re-enrolment[^key-2e5e07f0b31645c722225f933a6aa352]
+## 13. Automatic re-enrolment[^c-2e5e07f0b31645c722225f933a6aa352]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e5e07f0b31645c722225f933a6aa352]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/2848/regulation/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-2e5e07f0b31645c722225f933a6aa352]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/2848/regulation/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00041]: Footnote: [2008 c.30](https://www.legislation.gov.uk/ukpga/2008/30).

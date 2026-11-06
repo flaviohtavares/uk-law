@@ -40,27 +40,27 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 98 and 106 of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00001] and of all other powers enabling it in that behalf, with the approval of the Department of Finance and Personnel, hereby makes the following regulations:
 
-## 1. Citation, commencement and interpretation[^key-153bf21e34b68a26f1e8de927b4c45db]
+## 1. Citation, commencement and interpretation[^c-153bf21e34b68a26f1e8de927b4c45db]
 
 (1) These regulations may be cited as the Optical Charges and Payments (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 1st April 1996.
 
 (2) In these regulations, “the principal regulations” means the Optical Charges and Payments Regulations (Northern Ireland) 1989[^f00002].
 
-## 2. Amendment of regulation 2 of the principal regulations[^key-4c1238b16aa3852bc975447b884e0425]
+## 2. Amendment of regulation 2 of the principal regulations[^c-4c1238b16aa3852bc975447b884e0425]
 
 In regulation 2 of the principal regulations (charges for optical appliances supplied by a Board or an HSS trust)—
 
 - (a) in paragraph (3) for “£38·60” there shall be substituted “£39·00”;
 - (b) in paragraph (5)(*b*) for “£47·30” and “£76·90” in both places where they occur there shall be substituted “£47·80” and “£77·80” respectively.
 
-## 3. Amendment of regulation 20 of the principal regulations[^key-50dbd7a3a0ede22f3ae36f9b0b4cadc8]
+## 3. Amendment of regulation 20 of the principal regulations[^c-50dbd7a3a0ede22f3ae36f9b0b4cadc8]
 
 In regulation 20 of the principal regulations (redemption value of voucher for replacement or repair)—
 
 - (a) in paragraph (1)(*b*) for “£38·60” there shall be substituted “£39·00”; and
 - (b) in paragraph (3) for “£9·90” there shall be substituted “£10·00”.
 
-## 4. Amendment of Schedules to the principal regulations[^key-71e90c3c6262a6223b142d10fbac2885]
+## 4. Amendment of Schedules to the principal regulations[^c-71e90c3c6262a6223b142d10fbac2885]
 
 (1) In Schedule 1 to the principal regulations (voucher letter codes and face values — supply and replacement)[^f00003] in column 3 (face value of voucher) for each amount specified in column 1 of the Table below (old amount) there shall be substituted the amount specified in relation to it in column 2 of that Table (new amount).
 
@@ -101,7 +101,7 @@ In regulation 20 of the principal regulations (redemption value of voucher for r
 
 (3) For Schedule 3 to the principal regulations (voucher values — repair)[^f00005] there shall be substituted the Schedule 3 set out in the Schedule.
 
-## 5. Application of regulations[^key-ab5103ad00e3e91288bf4f2c8ddd62ac]
+## 5. Application of regulations[^c-ab5103ad00e3e91288bf4f2c8ddd62ac]
 
 The amendments made by regulations 3 and 4 and the Schedule apply only in relation to a voucher—
 
@@ -126,7 +126,7 @@ Assistant Secretary
 
 27th March 1996.
 
-## SCHEDULE — Schedule 3 to the Principal Regulations as Substituted by these Regulations[^key-2b455daae5e1e3d840161e1e4d8e4118]
+## SCHEDULE — Schedule 3 to the Principal Regulations as Substituted by these Regulations[^c-2b455daae5e1e3d840161e1e4d8e4118]
 
 Regulation 4(3)
 
@@ -170,15 +170,15 @@ The rate of increase is, on average, approximately 1%.
 
 [^f00001]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) as amended by S.I. [1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158) Article 3(2) and paragraph 3 of Schedule 1; S.I. [1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249) paragraphs 4 and 5 of Article 8; and S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) Article 34 and Part II of Schedule 5; there are other amendments which are not relevant
 
-[^key-153bf21e34b68a26f1e8de927b4c45db]: Commencement: Reg. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)
+[^c-153bf21e34b68a26f1e8de927b4c45db]: Commencement: Reg. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 1989 No. 114](https://www.legislation.gov.uk/nisr/1989/114) as amended by [S.R. 1990 No. 99](https://www.legislation.gov.uk/nisr/1990/99), [S.R. 1991 Nos. 115](https://www.legislation.gov.uk/nisr/1991/115) and [332](https://www.legislation.gov.uk/nisr/1991/332), [S.R. 1992 Nos. 155](https://www.legislation.gov.uk/nisr/1992/155) and [242](https://www.legislation.gov.uk/nisr/1992/242), [S.R. 1993 No. 141](https://www.legislation.gov.uk/nisr/1993/141), [S.R. 1994 No. 100](https://www.legislation.gov.uk/nisr/1994/100), and [S.R. 1995 No. 114](https://www.legislation.gov.uk/nisr/1995/114)
 
-[^key-4c1238b16aa3852bc975447b884e0425]: Commencement: Reg. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)
+[^c-4c1238b16aa3852bc975447b884e0425]: Commencement: Reg. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)
 
-[^key-50dbd7a3a0ede22f3ae36f9b0b4cadc8]: Commencement: Reg. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)
+[^c-50dbd7a3a0ede22f3ae36f9b0b4cadc8]: Commencement: Reg. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)
 
-[^key-71e90c3c6262a6223b142d10fbac2885]: Commencement: Reg. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)
+[^c-71e90c3c6262a6223b142d10fbac2885]: Commencement: Reg. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)
 
 [^f00003]: Footnote: Schedule 1 was substituted by regulation 4 of [S.R. 1992 No. 155](https://www.legislation.gov.uk/nisr/1992/155) and subsequently amended by [S.R. 1993 No. 141](https://www.legislation.gov.uk/nisr/1993/141), [S.R. 1994 No. 100](https://www.legislation.gov.uk/nisr/1994/100), and [S.R. 1995 No. 114](https://www.legislation.gov.uk/nisr/1995/114)
 
@@ -186,6 +186,6 @@ The rate of increase is, on average, approximately 1%.
 
 [^f00005]: Footnote: Schedule 3 was last substituted by regulation 4(3) of [S.R. 1995 No. 114](https://www.legislation.gov.uk/nisr/1995/114)
 
-[^key-ab5103ad00e3e91288bf4f2c8ddd62ac]: Commencement: Reg. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)
+[^c-ab5103ad00e3e91288bf4f2c8ddd62ac]: Commencement: Reg. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)
 
-[^key-2b455daae5e1e3d840161e1e4d8e4118]: Commencement: Sch. in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)
+[^c-2b455daae5e1e3d840161e1e4d8e4118]: Commencement: Sch. in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/124/regulation/1/1)

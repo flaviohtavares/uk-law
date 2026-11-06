@@ -57,7 +57,7 @@ summary: ''
 
 (7) The Secretary of State may make regulations under this section for the purpose of giving effect to this section and for prescribing anything authorised by this section and section 46 of this Act to be prescribed.
 
-(8) In its application to vehicles in which recording equipment is required by Article 3 of the EU[^key-a9b875b834ae3152e6151673ebd33e10] Tachographs Regulation to be installed and used, this section shall have effect as if any reference to prescribed statutory requirements relating to the construction and condition of motor vehicles or their accessories or equipment included a reference to the prescribed requirements of so much of that Regulation as relates to the installation of recording equipment and the seals to be fixed to such equipment.
+(8) In its application to vehicles in which recording equipment is required by Article 3 of the EU[^c-a9b875b834ae3152e6151673ebd33e10] Tachographs Regulation to be installed and used, this section shall have effect as if any reference to prescribed statutory requirements relating to the construction and condition of motor vehicles or their accessories or equipment included a reference to the prescribed requirements of so much of that Regulation as relates to the installation of recording equipment and the seals to be fixed to such equipment.
 
 ## Annotations
 
@@ -85,4 +85,4 @@ summary: ''
 
 [^c13973471]: Textual amendment: S. 45(6A)(6B) inserted (1.6.2001 for certain purposes and otherwise 11.4.2003) by [1999 c. 12](https://www.legislation.gov.uk/ukpga/1999/12), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1999/12/section/1/3), [9(2)](https://www.legislation.gov.uk/ukpga/1999/12/section/9/2); [S.I. 2001/1896](https://www.legislation.gov.uk/uksi/2001/1896), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/1896/article/2/1); [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
 
-[^key-a9b875b834ae3152e6151673ebd33e10]: Textual amendment: Words in [s. 45(8)](https://www.legislation.gov.uk/ukpga/1988/52/section/45/8) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/12/2)
+[^c-a9b875b834ae3152e6151673ebd33e10]: Textual amendment: Words in [s. 45(8)](https://www.legislation.gov.uk/ukpga/1988/52/section/45/8) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/12/2)

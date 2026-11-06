@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50A. Order of consideration for either-way offences[^key-6990dacca6729bed376d40d3170b8b07]
+## 50A. Order of consideration for either-way offences[^c-6990dacca6729bed376d40d3170b8b07]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6990dacca6729bed376d40d3170b8b07]: Textual amendment: S. 50A inserted (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/17); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2012/2574, art. 2(2)(3), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)
+[^c-6990dacca6729bed376d40d3170b8b07]: Textual amendment: S. 50A inserted (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/17); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2012/2574, art. 2(2)(3), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)

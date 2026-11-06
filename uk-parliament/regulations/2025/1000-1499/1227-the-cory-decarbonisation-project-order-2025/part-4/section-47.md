@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Service of notices[^key-3970c4ef646f7194c1c0e0411c25df19]
+## 47. Service of notices[^c-3970c4ef646f7194c1c0e0411c25df19]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3970c4ef646f7194c1c0e0411c25df19]: Commencement: Art. 47 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-3970c4ef646f7194c1c0e0411c25df19]: Commencement: Art. 47 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00061]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

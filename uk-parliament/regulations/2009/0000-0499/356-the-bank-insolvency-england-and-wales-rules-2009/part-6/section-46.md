@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Attendance at meetings of bank’s personnel[^key-856d0fb9a70537357c9a868aaa682d8f]
+## 46. Attendance at meetings of bank’s personnel[^c-856d0fb9a70537357c9a868aaa682d8f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.58 of the 1986 Rules.
 
 ## Annotations
 
-[^key-856d0fb9a70537357c9a868aaa682d8f]: Commencement: Rule 46 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-856d0fb9a70537357c9a868aaa682d8f]: Commencement: Rule 46 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

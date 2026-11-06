@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 63. Pool of European aviation inspectors[^key-d75e20b4f01d3c822d70f63e613aa901]
+## Article 63. Pool of European aviation inspectors[^c-d75e20b4f01d3c822d70f63e613aa901]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d75e20b4f01d3c822d70f63e613aa901]: Textual amendment: [Art. 63](https://www.legislation.gov.uk/eur/2018/1139/article/63) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [140(a)](https://www.legislation.gov.uk/uksi/2019/645/regulation/140/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d75e20b4f01d3c822d70f63e613aa901]: Textual amendment: [Art. 63](https://www.legislation.gov.uk/eur/2018/1139/article/63) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [140(a)](https://www.legislation.gov.uk/uksi/2019/645/regulation/140/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

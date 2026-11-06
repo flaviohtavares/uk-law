@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Postal administrator’s proposals[^key-446e99d59b01ac9631d51f7d5a90c032]
+## 16. Postal administrator’s proposals[^c-446e99d59b01ac9631d51f7d5a90c032]
 
 *Extent: S*
 
@@ -72,14 +72,14 @@ summary: ''
   - (iv) the expenses incurred (to the postal administrator’s knowledge) by any other person qualified to act as an insolvency practitioner (and, if more than one, by each separately);
 - (e) a statement of the amounts of pre-postal administration costs which have already been paid (set out separately as under sub-paragraph (d));
 - (f) the identity of the person who made the payment or, if more than one person made the payment, the identity of each such person and of the amounts paid by each such person (set out separately as under sub-paragraph (d));
-- (g) a statement of the amounts of unpaid pre-postal administration costs (set out separately as under sub-paragraph[^key-002476ecbb5951d81f7c44cf642614fe] (d)); and
-- (h) a statement that the payment of unpaid pre-postal administration costs as an expense of the postal administration is subject to approval under Rule 49[^key-1bbfcc09234c1a5dfff43efc5666a6ba].
+- (g) a statement of the amounts of unpaid pre-postal administration costs (set out separately as under sub-paragraph[^c-002476ecbb5951d81f7c44cf642614fe] (d)); and
+- (h) a statement that the payment of unpaid pre-postal administration costs as an expense of the postal administration is subject to approval under Rule 49[^c-1bbfcc09234c1a5dfff43efc5666a6ba].
 
 (4) This paragraph applies where it is proposed that the postal administration will end by the company moving to a creditors’ voluntary liquidation; and in that case, the statement required by paragraph (1)(l) must include—
 
 - (a) details of the proposed liquidator;
 - (b) where applicable, the declaration required by section 231 of the 1986 Act (appointment to office of two or more persons); and
-- (c) a statement that the creditors may, nominate a different person as liquidator in accordance with paragraph 83(7) of Schedule B1 to the 1986 Act and Rule 58[^key-7219e8376134c7dfd03bc21502be639f].
+- (c) a statement that the creditors may, nominate a different person as liquidator in accordance with paragraph 83(7) of Schedule B1 to the 1986 Act and Rule 58[^c-7219e8376134c7dfd03bc21502be639f].
 
 (5) A copy of the postal administrator’s statement of the postal administrator’s proposals shall be sent to the registrar of companies together with a notice in Form PA10(S).
 
@@ -96,12 +96,12 @@ summary: ''
 
 ## Annotations
 
-[^key-446e99d59b01ac9631d51f7d5a90c032]: Commencement: Rule 16 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-446e99d59b01ac9631d51f7d5a90c032]: Commencement: Rule 16 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^f00009]: Footnote: Section 176A was inserted by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), section 252.
 
-[^key-002476ecbb5951d81f7c44cf642614fe]: Textual amendment: Word in [rule 16(3)(g)](https://www.legislation.gov.uk/uksi/2016/900/rule/16/3/g) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/5)
+[^c-002476ecbb5951d81f7c44cf642614fe]: Textual amendment: Word in [rule 16(3)(g)](https://www.legislation.gov.uk/uksi/2016/900/rule/16/3/g) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/5)
 
-[^key-1bbfcc09234c1a5dfff43efc5666a6ba]: Textual amendment: Words in [rule 16(3)(h)](https://www.legislation.gov.uk/uksi/2016/900/rule/16/3/h) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-1bbfcc09234c1a5dfff43efc5666a6ba]: Textual amendment: Words in [rule 16(3)(h)](https://www.legislation.gov.uk/uksi/2016/900/rule/16/3/h) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
 
-[^key-7219e8376134c7dfd03bc21502be639f]: Textual amendment: Words in [rule 16(4)(c)](https://www.legislation.gov.uk/uksi/2016/900/rule/16/4/c) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-7219e8376134c7dfd03bc21502be639f]: Textual amendment: Words in [rule 16(4)(c)](https://www.legislation.gov.uk/uksi/2016/900/rule/16/4/c) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

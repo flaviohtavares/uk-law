@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5B. Boundaries of power under section 5A[^key-ef8402d50da3b8253e7709750c65ba61]
+## 5B. Boundaries of power under section 5A[^c-ef8402d50da3b8253e7709750c65ba61]
 
 *Extent: E+W*
 
@@ -33,13 +33,13 @@ summary: ''
 (3) Where under section 5A(1) a relevant fire and rescue authority does things for a commercial purpose, it must do them through—
 
 - (a) a company within the meaning given by section 1(1) of the Companies Act 2006, or
-- (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^key-fbbf6048ae293703694b7346c9ee5eb1] the Industrial and Provident Societies Act (Northern Ireland) 1969.
+- (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^c-fbbf6048ae293703694b7346c9ee5eb1] the Industrial and Provident Societies Act (Northern Ireland) 1969.
 
 (4) Section 5A(1) does not authorise a relevant fire and rescue authority to do things for a commercial purpose in relation to a person if a statutory provision requires the authority to do those things in relation to the person.
 
 (5) Section 5A(1) does not authorise a relevant fire and rescue authority to borrow money.
 
-(5A)[^key-4530019f3b625fa0afff65659452b3ab] Section 5A(1) does not authorise the London Fire Commissioner to enter into a contract to which this subsection applies without the consent of the Mayor of London.
+(5A)[^c-4530019f3b625fa0afff65659452b3ab] Section 5A(1) does not authorise the London Fire Commissioner to enter into a contract to which this subsection applies without the consent of the Mayor of London.
 
 (5B) Subsection (5A) applies to a contract if—
 
@@ -68,8 +68,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ef8402d50da3b8253e7709750c65ba61]: Textual amendment: Ss. 5A-5L inserted (18.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section) [9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1), [240(4)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/a); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c); [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/887/article/2/a)
+[^c-ef8402d50da3b8253e7709750c65ba61]: Textual amendment: Ss. 5A-5L inserted (18.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section) [9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1), [240(4)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/a); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c); [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/887/article/2/a)
 
-[^key-fbbf6048ae293703694b7346c9ee5eb1]: Textual amendment: Words in s. 5B(3)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 86](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/86) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-fbbf6048ae293703694b7346c9ee5eb1]: Textual amendment: Words in s. 5B(3)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 86](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/86) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-4530019f3b625fa0afff65659452b3ab]: Textual amendment: S. 5B(5A)(5B) inserted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 113](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/113); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-4530019f3b625fa0afff65659452b3ab]: Textual amendment: S. 5B(5A)(5B) inserted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 113](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/113); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)

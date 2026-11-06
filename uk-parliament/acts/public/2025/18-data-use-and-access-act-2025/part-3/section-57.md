@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Information in relation to apparatus: England and Wales[^key-211c3e3d4d218a4916fcd9a7e66e38a1]
+## 57. Information in relation to apparatus: England and Wales[^c-211c3e3d4d218a4916fcd9a7e66e38a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -130,4 +130,4 @@ summary: ''
 
 ## Annotations
 
-[^key-211c3e3d4d218a4916fcd9a7e66e38a1]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-211c3e3d4d218a4916fcd9a7e66e38a1]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)

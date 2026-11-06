@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Records by a holder of a wholesale dealer’s authorisation[^key-84895d5d9775dd32568ba93ad8f1af9e]
+## 22. Records by a holder of a wholesale dealer’s authorisation[^c-84895d5d9775dd32568ba93ad8f1af9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84895d5d9775dd32568ba93ad8f1af9e]: Commencement: Reg. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-84895d5d9775dd32568ba93ad8f1af9e]: Commencement: Reg. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

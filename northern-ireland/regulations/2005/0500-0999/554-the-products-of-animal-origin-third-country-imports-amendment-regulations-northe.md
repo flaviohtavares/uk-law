@@ -31,28 +31,28 @@ summary: ''
 
 AGRICULTURE
 
-The Products of Animal Origin (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-ff815280ed90a0ccb4511a69ca28e31e]
+The Products of Animal Origin (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-ff815280ed90a0ccb4511a69ca28e31e]
 
 Made
 
 9th December 2005
 
-[^key-ff815280ed90a0ccb4511a69ca28e31e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff815280ed90a0ccb4511a69ca28e31e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ff815280ed90a0ccb4511a69ca28e31e]
+## 1. Citation, commencement and interpretation[^c-ff815280ed90a0ccb4511a69ca28e31e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2004[^key-ff815280ed90a0ccb4511a69ca28e31e]
+## 2. Amendments to the Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2004[^c-ff815280ed90a0ccb4511a69ca28e31e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff815280ed90a0ccb4511a69ca28e31e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff815280ed90a0ccb4511a69ca28e31e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff815280ed90a0ccb4511a69ca28e31e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff815280ed90a0ccb4511a69ca28e31e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff815280ed90a0ccb4511a69ca28e31e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/554) revoked (24.7.2006) by [The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2006 (S.R. 2006/291)](https://www.legislation.gov.uk/nisr/2006/291), [regs. 1](https://www.legislation.gov.uk/nisr/2006/291/regulation/1), [66](https://www.legislation.gov.uk/nisr/2006/291/regulation/66), [Sch. 5](https://www.legislation.gov.uk/nisr/2006/291/schedule/5)
+[^c-ff815280ed90a0ccb4511a69ca28e31e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/554) revoked (24.7.2006) by [The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2006 (S.R. 2006/291)](https://www.legislation.gov.uk/nisr/2006/291), [regs. 1](https://www.legislation.gov.uk/nisr/2006/291/regulation/1), [66](https://www.legislation.gov.uk/nisr/2006/291/regulation/66), [Sch. 5](https://www.legislation.gov.uk/nisr/2006/291/schedule/5)

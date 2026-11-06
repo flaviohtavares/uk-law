@@ -34,7 +34,7 @@ Sea Fisheries, England
 
 Shellfish
 
-The Thames Estuary Cockle Fishery Order 2024 (revoked)[^key-988efdbd836f8023a8b87effc79f0486]
+The Thames Estuary Cockle Fishery Order 2024 (revoked)[^c-988efdbd836f8023a8b87effc79f0486]
 
 Made
 
@@ -48,83 +48,83 @@ Coming into force
 
 4th December 2024
 
-[^key-988efdbd836f8023a8b87effc79f0486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-988efdbd836f8023a8b87effc79f0486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-988efdbd836f8023a8b87effc79f0486]
+## 1. Citation, commencement and extent[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-988efdbd836f8023a8b87effc79f0486]
+## 2. Interpretation[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Right of regulating a fishery and duration of right[^key-988efdbd836f8023a8b87effc79f0486]
+## 3. Right of regulating a fishery and duration of right[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Regulations and restrictions applicable in respect of the regulated fishery[^key-988efdbd836f8023a8b87effc79f0486]
+## 4. Regulations and restrictions applicable in respect of the regulated fishery[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application for a licence, licence terms and duration of licences[^key-988efdbd836f8023a8b87effc79f0486]
+## 5. Application for a licence, licence terms and duration of licences[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional Period Licence[^key-988efdbd836f8023a8b87effc79f0486]
+## 6. Transitional Period Licence[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Tolls and fees payable[^key-988efdbd836f8023a8b87effc79f0486]
+## 7. Tolls and fees payable[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Power to create reserves[^key-988efdbd836f8023a8b87effc79f0486]
+## 8. Power to create reserves[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Power to remove juvenile cockles[^key-988efdbd836f8023a8b87effc79f0486]
+## 9. Power to remove juvenile cockles[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Exemptions for scientific and fisheries management purposes[^key-988efdbd836f8023a8b87effc79f0486]
+## 10. Exemptions for scientific and fisheries management purposes[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Accounts of income and expenditure and other information[^key-988efdbd836f8023a8b87effc79f0486]
+## 11. Accounts of income and expenditure and other information[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Rights of landowners and lessees[^key-988efdbd836f8023a8b87effc79f0486]
+## 12. Rights of landowners and lessees[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Lawful activities of statutory undertakers[^key-988efdbd836f8023a8b87effc79f0486]
+## 13. Lawful activities of statutory undertakers[^c-988efdbd836f8023a8b87effc79f0486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-988efdbd836f8023a8b87effc79f0486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-988efdbd836f8023a8b87effc79f0486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — THE REGULATED FISHERY[^key-988efdbd836f8023a8b87effc79f0486]
+## SCHEDULE 1 — THE REGULATED FISHERY[^c-988efdbd836f8023a8b87effc79f0486]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REGULATIONS AND RESTRICTIONS APPLICABLE TO THE FISHERY[^key-988efdbd836f8023a8b87effc79f0486]
+## SCHEDULE 2 — REGULATIONS AND RESTRICTIONS APPLICABLE TO THE FISHERY[^c-988efdbd836f8023a8b87effc79f0486]
 
 Article 4(3)
 
-**1.**[^key-988efdbd836f8023a8b87effc79f0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-988efdbd836f8023a8b87effc79f0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-988efdbd836f8023a8b87effc79f0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-988efdbd836f8023a8b87effc79f0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-988efdbd836f8023a8b87effc79f0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-988efdbd836f8023a8b87effc79f0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — CONDITIONS WHICH MAY BE ATTACHED TO A LICENCE[^key-988efdbd836f8023a8b87effc79f0486]
+## SCHEDULE 3 — CONDITIONS WHICH MAY BE ATTACHED TO A LICENCE[^c-988efdbd836f8023a8b87effc79f0486]
 
 Articles 5(11) & 6(4)
 
@@ -132,8 +132,8 @@ Articles 5(11) & 6(4)
 
 **May not be in force at this date. Check the source.**
 
-[^key-988efdbd836f8023a8b87effc79f0486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-988efdbd836f8023a8b87effc79f0486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-988efdbd836f8023a8b87effc79f0486]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/1150) revoked (3.12.2024) by [The Thames Estuary Cockle Fishery (No. 2) Order 2024 (S.I. 2024/1211)](https://www.legislation.gov.uk/uksi/2024/1211), [arts. 1(b)(i)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/i), [14](https://www.legislation.gov.uk/uksi/2024/1211/article/14) (with [arts. 12](https://www.legislation.gov.uk/uksi/2024/1211/article/12), [13(1)](https://www.legislation.gov.uk/uksi/2024/1211/article/13/1))
+[^c-988efdbd836f8023a8b87effc79f0486]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/1150) revoked (3.12.2024) by [The Thames Estuary Cockle Fishery (No. 2) Order 2024 (S.I. 2024/1211)](https://www.legislation.gov.uk/uksi/2024/1211), [arts. 1(b)(i)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/i), [14](https://www.legislation.gov.uk/uksi/2024/1211/article/14) (with [arts. 12](https://www.legislation.gov.uk/uksi/2024/1211/article/12), [13(1)](https://www.legislation.gov.uk/uksi/2024/1211/article/13/1))

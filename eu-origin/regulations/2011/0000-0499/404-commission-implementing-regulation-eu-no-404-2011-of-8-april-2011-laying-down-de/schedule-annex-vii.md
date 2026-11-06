@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX VII[^key-b678eb721262db25555ae6272c56830b]
+## ANNEX VII[^c-b678eb721262db25555ae6272c56830b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b678eb721262db25555ae6272c56830b]: Textual amendment: [Annex 7](https://www.legislation.gov.uk/eur/2011/404/annex/VII) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(107)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/107); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b678eb721262db25555ae6272c56830b]: Textual amendment: [Annex 7](https://www.legislation.gov.uk/eur/2011/404/annex/VII) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(107)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/107); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

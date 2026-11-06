@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57B. First-time buyers[^key-279f654a0ac6a8a7d71777a4f01d6355]
+## 57B. First-time buyers[^c-279f654a0ac6a8a7d71777a4f01d6355]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-279f654a0ac6a8a7d71777a4f01d6355]: Textual amendment: S. 57B inserted (with effect in accordance with s. 41(8) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/2)
+[^c-279f654a0ac6a8a7d71777a4f01d6355]: Textual amendment: S. 57B inserted (with effect in accordance with s. 41(8) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/2)

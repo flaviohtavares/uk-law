@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Duty of principal accountable person to apply for building certificate[^key-b71988dcb5b3b501429cec313644672e]
+## 42. Duty of principal accountable person to apply for building certificate[^c-b71988dcb5b3b501429cec313644672e]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b71988dcb5b3b501429cec313644672e]: Commencement: S. 42 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-b71988dcb5b3b501429cec313644672e]: Commencement: S. 42 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -23,7 +23,7 @@ summary: ''
 (1) The functions of the Secretary of State under—
 
 - (a) section 77 of the Social Security Contributions and Benefits Act 1992 (c. 4) (guardian’s allowance: Great Britain),
-- (b) Part 9 of that Act (child benefit: Great Britain), except [^key-d9c4f39a402e2720bf526cabe0528741]... paragraphs 5 and 6(1) of Schedule 10,
+- (b) Part 9 of that Act (child benefit: Great Britain), except [^c-d9c4f39a402e2720bf526cabe0528741]... paragraphs 5 and 6(1) of Schedule 10,
 - (c) section 80 of the Social Security Administration Act 1992 (c. 5) (overlap with benefits under legislation of other member States: Great Britain), and
 - (d) section 72 of the Social Security Act 1998 (c. 14) (power to reduce child benefit for lone parents: Great Britain),
 
@@ -32,7 +32,7 @@ are transferred to the Treasury.
 (2) The functions of the Northern Ireland Department under—
 
 - (a) section 77 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7) (guardian’s allowance: Northern Ireland),
-- (b) Part 9 of that Act (child benefit: Northern Ireland), except [^key-36527b9f2ab0d38d7d51cef91697e1a5]... paragraphs 5 and 6(1) of Schedule 10,
+- (b) Part 9 of that Act (child benefit: Northern Ireland), except [^c-36527b9f2ab0d38d7d51cef91697e1a5]... paragraphs 5 and 6(1) of Schedule 10,
 - (c) section 76 of the Social Security Administration (Northern Ireland) Act 1992 (c. 8) (overlap with benefits under legislation of other member States: Northern Ireland), and
 - (d) Article 68 of the Social Security (Northern Ireland) Order 1998 (1998/1506 (N.I. 10)) (power to reduce child benefit for lone parents: Northern Ireland),
 
@@ -46,6 +46,6 @@ are transferred to the Treasury.
 
 [^c22566071]: Commencement: S. 49 wholly in force at 7.4.2003; s. 49 not in force at Royal Assent, see s. 61; s. 49 in force for certain purposes at 1.4.2003 and otherwise in force at 7.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
-[^key-d9c4f39a402e2720bf526cabe0528741]: Textual amendment: Words in s. 49(1)(b) repealed (E.W.S.) (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/6/schedule/2/part/1)
+[^c-d9c4f39a402e2720bf526cabe0528741]: Textual amendment: Words in s. 49(1)(b) repealed (E.W.S.) (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/6/schedule/2/part/1)
 
-[^key-36527b9f2ab0d38d7d51cef91697e1a5]: Textual amendment: Words in s. 49(2)(b) repealed (N.I.) (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/6/schedule/2/part/2)
+[^c-36527b9f2ab0d38d7d51cef91697e1a5]: Textual amendment: Words in s. 49(2)(b) repealed (N.I.) (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/6/schedule/2/part/2)

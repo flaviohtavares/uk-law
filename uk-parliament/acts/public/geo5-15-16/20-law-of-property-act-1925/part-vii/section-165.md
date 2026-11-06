@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 165. Qualification of restrictions on accumulation.[^key-0cae5936d82eee8ab08ded3a686b329f]
+## 165. Qualification of restrictions on accumulation.[^c-0cae5936d82eee8ab08ded3a686b329f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cae5936d82eee8ab08ded3a686b329f]: Textual amendment: [Ss. 164-166](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/164) repealed (6.4.2010) by [Perpetuities and Accumulations Act 2009 (c. 18)](https://www.legislation.gov.uk/ukpga/2009/18), [ss. 13(a)](https://www.legislation.gov.uk/ukpga/2009/18/section/13/a), [22(2)](https://www.legislation.gov.uk/ukpga/2009/18/section/22/2), [Schs.](https://www.legislation.gov.uk/ukpga/2009/18/schedule) (with [s. 15(1)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/1)[(4)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/4)[17](https://www.legislation.gov.uk/ukpga/2009/18/section/17)[18](https://www.legislation.gov.uk/ukpga/2009/18/section/18)); [S.I. 2010/37](https://www.legislation.gov.uk/uksi/2010/37), [art. 2](https://www.legislation.gov.uk/uksi/2010/37/article/2)
+[^c-0cae5936d82eee8ab08ded3a686b329f]: Textual amendment: [Ss. 164-166](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/164) repealed (6.4.2010) by [Perpetuities and Accumulations Act 2009 (c. 18)](https://www.legislation.gov.uk/ukpga/2009/18), [ss. 13(a)](https://www.legislation.gov.uk/ukpga/2009/18/section/13/a), [22(2)](https://www.legislation.gov.uk/ukpga/2009/18/section/22/2), [Schs.](https://www.legislation.gov.uk/ukpga/2009/18/schedule) (with [s. 15(1)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/1)[(4)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/4)[17](https://www.legislation.gov.uk/ukpga/2009/18/section/17)[18](https://www.legislation.gov.uk/ukpga/2009/18/section/18)); [S.I. 2010/37](https://www.legislation.gov.uk/uksi/2010/37), [art. 2](https://www.legislation.gov.uk/uksi/2010/37/article/2)

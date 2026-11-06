@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23.[^key-78e70be594bc813c49a6834148fff624]
+## 23.[^c-78e70be594bc813c49a6834148fff624]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Regulation 8 (non-cooperation) has effect as if—
 
 ## Annotations
 
-[^key-78e70be594bc813c49a6834148fff624]: Commencement: Reg. 23 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-78e70be594bc813c49a6834148fff624]: Commencement: Reg. 23 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

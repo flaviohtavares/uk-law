@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 345. Decisions of an officer of Revenue and Customs under section 344[^key-4f3a0614079ff004d8042e82d44ecd6f]
+## 345. Decisions of an officer of Revenue and Customs under section 344[^c-4f3a0614079ff004d8042e82d44ecd6f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ to take account of any change in circumstances.
 
 ## Annotations
 
-[^key-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

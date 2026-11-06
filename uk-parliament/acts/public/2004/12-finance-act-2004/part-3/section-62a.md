@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62A. Payments made in the knowledge of deliberate failures to comply[^key-8ecd3397516972555089077d49dea7fa]
+## 62A. Payments made in the knowledge of deliberate failures to comply[^c-8ecd3397516972555089077d49dea7fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ecd3397516972555089077d49dea7fa]: Textual amendment: [Ss. 62A-62C](https://www.legislation.gov.uk/ukpga/2004/12/section/62A) and cross-heading inserted (with effect from 6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 220(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/220/2), [222(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/222/1)
+[^c-8ecd3397516972555089077d49dea7fa]: Textual amendment: [Ss. 62A-62C](https://www.legislation.gov.uk/ukpga/2004/12/section/62A) and cross-heading inserted (with effect from 6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 220(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/220/2), [222(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/222/1)

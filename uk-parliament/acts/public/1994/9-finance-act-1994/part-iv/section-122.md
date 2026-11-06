@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Sale and repurchase of securities: deemed manufactured payments.[^key-c12aef7d1c7864f195c63e218e507cb5]
+## 122. Sale and repurchase of securities: deemed manufactured payments.[^c-c12aef7d1c7864f195c63e218e507cb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c12aef7d1c7864f195c63e218e507cb5]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/1994/9/section/122) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/14)
+[^c-c12aef7d1c7864f195c63e218e507cb5]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/1994/9/section/122) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/14)

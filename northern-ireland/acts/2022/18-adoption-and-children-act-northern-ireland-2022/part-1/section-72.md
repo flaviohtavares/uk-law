@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Meaning of disposition[^key-a849e164850c3fe09002b477d59b6e34]
+## 72. Meaning of disposition[^c-a849e164850c3fe09002b477d59b6e34]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a849e164850c3fe09002b477d59b6e34]: Commencement: S. 72 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-a849e164850c3fe09002b477d59b6e34]: Commencement: S. 72 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

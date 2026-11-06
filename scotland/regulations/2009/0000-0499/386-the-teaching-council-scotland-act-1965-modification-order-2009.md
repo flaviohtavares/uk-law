@@ -32,7 +32,7 @@ summary: ''
 
 Charities
 
-The Teaching Council (Scotland) Act 1965 Modification Order 2009 (revoked)[^key-e694206fb511be9b342b7c4980ef48fa]
+The Teaching Council (Scotland) Act 1965 Modification Order 2009 (revoked)[^c-e694206fb511be9b342b7c4980ef48fa]
 
 Made
 
@@ -40,24 +40,24 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-e694206fb511be9b342b7c4980ef48fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e694206fb511be9b342b7c4980ef48fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e694206fb511be9b342b7c4980ef48fa]
+## 1. Citation and commencement[^c-e694206fb511be9b342b7c4980ef48fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Teaching Council (Scotland) Act 1965[^key-e694206fb511be9b342b7c4980ef48fa]
+## 2. Modification of the Teaching Council (Scotland) Act 1965[^c-e694206fb511be9b342b7c4980ef48fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e694206fb511be9b342b7c4980ef48fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e694206fb511be9b342b7c4980ef48fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e694206fb511be9b342b7c4980ef48fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e694206fb511be9b342b7c4980ef48fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e694206fb511be9b342b7c4980ef48fa]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/386) revoked (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-e694206fb511be9b342b7c4980ef48fa]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/386) revoked (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)

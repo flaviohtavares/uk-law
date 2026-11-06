@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) SFRS[^key-1c1872346ab2738f0f6f29086716c82d] may take any action it considers appropriate—
+(1) SFRS[^c-1c1872346ab2738f0f6f29086716c82d] may take any action it considers appropriate—
 
 - (a) in response to an event or situation that causes or is likely to cause—
   - (i) a person to die, be injured or become ill; or
@@ -30,10 +30,10 @@ summary: ''
 (2) The power conferred by subsection (1)—
 
 - (a) includes power to secure the provision of equipment; and
-- (b) may be exercised by SFRS[^key-4faabf2cbd052084650643827e5d06f2] within or outwith its area.
+- (b) may be exercised by SFRS[^c-4faabf2cbd052084650643827e5d06f2] within or outwith its area.
 
 ## Annotations
 
-[^key-1c1872346ab2738f0f6f29086716c82d]: Textual amendment: Word in s. 13(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 107(a)](https://www.legislation.gov.uk/asp/2012/8/section/107/a), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-1c1872346ab2738f0f6f29086716c82d]: Textual amendment: Word in s. 13(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 107(a)](https://www.legislation.gov.uk/asp/2012/8/section/107/a), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-4faabf2cbd052084650643827e5d06f2]: Textual amendment: Word in s. 13(2)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 107(b)](https://www.legislation.gov.uk/asp/2012/8/section/107/b), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-4faabf2cbd052084650643827e5d06f2]: Textual amendment: Word in s. 13(2)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 107(b)](https://www.legislation.gov.uk/asp/2012/8/section/107/b), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

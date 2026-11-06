@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Alteration of restrictions imposed under 2BCD Regulations[^key-68caf9b06f37b0523eebb875cf33546a]
+## 23. Alteration of restrictions imposed under 2BCD Regulations[^c-68caf9b06f37b0523eebb875cf33546a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the Authority must consider any representations made pursuant to paragraph 2(11)
 
 ## Annotations
 
-[^key-68caf9b06f37b0523eebb875cf33546a]: Commencement: Art. 23 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-68caf9b06f37b0523eebb875cf33546a]: Commencement: Art. 23 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

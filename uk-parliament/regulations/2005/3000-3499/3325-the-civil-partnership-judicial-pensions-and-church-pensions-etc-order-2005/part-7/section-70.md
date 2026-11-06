@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**70.**[^key-e751ec16633e0b20905f7ca9bc2cc4d3] (1) Section 5 (surviving spouse’s pension) is amended as follows.
+**70.**[^c-e751ec16633e0b20905f7ca9bc2cc4d3] (1) Section 5 (surviving spouse’s pension) is amended as follows.
 
 (2) In the side-note, after “Surviving spouse's” insert “and surviving civil partner's”.
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e751ec16633e0b20905f7ca9bc2cc4d3]: Commencement: Art. 70 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-e751ec16633e0b20905f7ca9bc2cc4d3]: Commencement: Art. 70 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

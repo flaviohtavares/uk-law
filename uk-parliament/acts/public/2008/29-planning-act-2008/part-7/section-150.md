@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Removal of consent requirements[^c19534381][^key-141e2711c2114fde259fa9938a1cd276]
+## 150. Removal of consent requirements[^c19534381][^c-141e2711c2114fde259fa9938a1cd276]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c19534381]: Commencement: S. 150 partly in force; s. 150 in force for certain purposes at Royal Assent see s. 241
 
-[^key-141e2711c2114fde259fa9938a1cd276]: Commencement: S. 150 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(h)](https://www.legislation.gov.uk/uksi/2010/101/article/3/h) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-141e2711c2114fde259fa9938a1cd276]: Commencement: S. 150 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(h)](https://www.legislation.gov.uk/uksi/2010/101/article/3/h) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

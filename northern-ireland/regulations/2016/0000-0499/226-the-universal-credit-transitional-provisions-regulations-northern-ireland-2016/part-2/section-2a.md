@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2A. Department discretion to determine that claims for universal credit may not be made[^key-09d1cd588b3bdacff99338244f32cc72][^key-efd1470785fff1980edd1d6e3baeda86]
+## 2A. Department discretion to determine that claims for universal credit may not be made[^c-09d1cd588b3bdacff99338244f32cc72][^c-efd1470785fff1980edd1d6e3baeda86]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-09d1cd588b3bdacff99338244f32cc72]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2016/226/regulation/2A) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2022/194/regulation/2)
+[^c-09d1cd588b3bdacff99338244f32cc72]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2016/226/regulation/2A) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2022/194/regulation/2)
 
-[^key-efd1470785fff1980edd1d6e3baeda86]: Textual amendment: [Pt. 2 Ch. A1](https://www.legislation.gov.uk/nisr/2016/226/part/2/chapter/A1) inserted (coming into operation in accordance with reg. 1(9) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(9)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/9), [12(2)](https://www.legislation.gov.uk/nisr/2017/116/regulation/12/2)
+[^c-efd1470785fff1980edd1d6e3baeda86]: Textual amendment: [Pt. 2 Ch. A1](https://www.legislation.gov.uk/nisr/2016/226/part/2/chapter/A1) inserted (coming into operation in accordance with reg. 1(9) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(9)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/9), [12(2)](https://www.legislation.gov.uk/nisr/2017/116/regulation/12/2)

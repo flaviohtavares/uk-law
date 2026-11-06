@@ -70,7 +70,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) In subsection (2)(a), “**identity document**” means—
 
-- (a)[^key-b04bbef0f06fb1f089119831787a44b9] a document used for confirming—
+- (a)[^c-b04bbef0f06fb1f089119831787a44b9] a document used for confirming—
   - (i) the right of a person at a time before IP completion day under the EU Treaties in respect of entry or residence in the United Kingdom; or
   - (ii) the right of a person under the Immigration (European Economic Area) Regulations 2016 (as they continue to have effect by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020) in respect of entry or residence in the United Kingdom;
 - (b) a document that is given in the exercise of immigration functions and records information about leave granted to a person to enter or remain in the United Kingdom;
@@ -79,7 +79,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (e) a passport, or other document used for the purposes of establishing identity, issued by or on behalf of the authorities of a country or territory outside the United Kingdom or by or on behalf of an international organisation;
 - (f) a document that can be used (in some or all circumstances) instead of a passport.
 
-(3A)[^key-35900a3d92b5e206eb787ae2c5030e6b] In subsection 3(a)(i) “**EU Treaties**” includes a reference to those Treaties so far as applicable to and in the United Kingdom by virtue of Part 4 of the EU withdrawal agreement.
+(3A)[^c-35900a3d92b5e206eb787ae2c5030e6b] In subsection 3(a)(i) “**EU Treaties**” includes a reference to those Treaties so far as applicable to and in the United Kingdom by virtue of Part 4 of the EU withdrawal agreement.
 
 (4) In subsection (2)(b), “**travel document**” means—
 
@@ -160,6 +160,6 @@ This Act applies to individuals in the public service of the Crown as it applies
 
 ## Annotations
 
-[^key-b04bbef0f06fb1f089119831787a44b9]: Textual amendment: S. 2(3)(a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/22/2/a)
+[^c-b04bbef0f06fb1f089119831787a44b9]: Textual amendment: S. 2(3)(a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/22/2/a)
 
-[^key-35900a3d92b5e206eb787ae2c5030e6b]: Textual amendment: S. 2(3A) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/22/2/b)
+[^c-35900a3d92b5e206eb787ae2c5030e6b]: Textual amendment: S. 2(3A) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/22/2/b)

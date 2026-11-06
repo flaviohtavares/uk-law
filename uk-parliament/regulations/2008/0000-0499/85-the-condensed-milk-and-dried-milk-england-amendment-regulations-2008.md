@@ -32,7 +32,7 @@ summary: ''
 
 food, england
 
-The Condensed Milk and Dried Milk (England) (Amendment) Regulations 2008 (revoked)[^key-1e564f5a2ec53aeb24c07c0ee94d3615]
+The Condensed Milk and Dried Milk (England) (Amendment) Regulations 2008 (revoked)[^c-1e564f5a2ec53aeb24c07c0ee94d3615]
 
 Made
 
@@ -46,46 +46,46 @@ Coming into force
 
 22nd February 2008
 
-[^key-1e564f5a2ec53aeb24c07c0ee94d3615]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e564f5a2ec53aeb24c07c0ee94d3615]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title application and commencement[^key-1e564f5a2ec53aeb24c07c0ee94d3615]
+## 1. Title application and commencement[^c-1e564f5a2ec53aeb24c07c0ee94d3615]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Condensed Milk and Dried Milk (England) Regulations 2003[^key-1e564f5a2ec53aeb24c07c0ee94d3615]
+## 2. Amendment of the Condensed Milk and Dried Milk (England) Regulations 2003[^c-1e564f5a2ec53aeb24c07c0ee94d3615]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential amendments[^key-1e564f5a2ec53aeb24c07c0ee94d3615]
+## 5. Consequential amendments[^c-1e564f5a2ec53aeb24c07c0ee94d3615]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e564f5a2ec53aeb24c07c0ee94d3615]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e564f5a2ec53aeb24c07c0ee94d3615]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-1e564f5a2ec53aeb24c07c0ee94d3615]EXPLANATORY NOTE
+[^c-1e564f5a2ec53aeb24c07c0ee94d3615]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
-**1.**[^key-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1e564f5a2ec53aeb24c07c0ee94d3615] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e564f5a2ec53aeb24c07c0ee94d3615]: Textual amendment: Regulations revoked (6.4.2015) by [The Condensed Milk and Dried Milk (England) Regulations 2015 (S.I. 2015/675)](https://www.legislation.gov.uk/uksi/2015/675), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/8/b), [8(b)](https://www.legislation.gov.uk/uksi/2015/675/regulation/8/b)
+[^c-1e564f5a2ec53aeb24c07c0ee94d3615]: Textual amendment: Regulations revoked (6.4.2015) by [The Condensed Milk and Dried Milk (England) Regulations 2015 (S.I. 2015/675)](https://www.legislation.gov.uk/uksi/2015/675), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/675/regulation/8/b), [8(b)](https://www.legislation.gov.uk/uksi/2015/675/regulation/8/b)

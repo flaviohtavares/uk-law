@@ -26,8 +26,8 @@ summary: ''
 
 (3) In this section and Part 1 of Schedule 1 “**specified**” means specified in the TPIM notice.
 
-(4)[^key-49c5aabcab17f010ef2e057b4f448b6e] The Secretary of State must publish factors that he or she considers are appropriate to take into account when deciding whether to impose restrictions on an individual by virtue of paragraph 2 of Schedule 1 (travel measure).
+(4)[^c-49c5aabcab17f010ef2e057b4f448b6e] The Secretary of State must publish factors that he or she considers are appropriate to take into account when deciding whether to impose restrictions on an individual by virtue of paragraph 2 of Schedule 1 (travel measure).
 
 ## Annotations
 
-[^key-49c5aabcab17f010ef2e057b4f448b6e]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/ukpga/2011/23/section/2/4) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2015/6/section/17/2), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-49c5aabcab17f010ef2e057b4f448b6e]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/ukpga/2011/23/section/2/4) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2015/6/section/17/2), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)

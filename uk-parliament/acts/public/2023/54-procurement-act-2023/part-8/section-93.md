@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Pipeline notices[^key-85c991e23208d039d517ed234f5cd1b3][^key-3684e582610ee95a618a3bf1ccf941d6]
+## 93. Pipeline notices[^c-85c991e23208d039d517ed234f5cd1b3][^c-3684e582610ee95a618a3bf1ccf941d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85c991e23208d039d517ed234f5cd1b3]: Commencement: S. 93 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-85c991e23208d039d517ed234f5cd1b3]: Commencement: S. 93 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-3684e582610ee95a618a3bf1ccf941d6]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2023/54/section/93) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as inserted by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)(b)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/b))
+[^c-3684e582610ee95a618a3bf1ccf941d6]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2023/54/section/93) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as inserted by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)(b)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/b))

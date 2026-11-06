@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Time limit for appeals in respect of war pensions: Scotland and Northern Ireland[^key-24fe0a406b5eacb6e2ebf20440d0e3d0][^key-33a17091214492e9dc223eeeb58e5757][^key-54a5824629025056229c3aca6c957e86]
+## 21. Time limit for appeals in respect of war pensions: Scotland and Northern Ireland[^c-24fe0a406b5eacb6e2ebf20440d0e3d0][^c-33a17091214492e9dc223eeeb58e5757][^c-54a5824629025056229c3aca6c957e86]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,8 +31,8 @@ In section 8 of the Pensions Appeal Tribunals Act 1943 (time limit for appeals),
 
 ## Annotations
 
-[^key-24fe0a406b5eacb6e2ebf20440d0e3d0]: Commencement: S. 21 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-24fe0a406b5eacb6e2ebf20440d0e3d0]: Commencement: S. 21 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-33a17091214492e9dc223eeeb58e5757]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/35/section/21) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/g)
+[^c-33a17091214492e9dc223eeeb58e5757]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/35/section/21) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/g)
 
-[^key-54a5824629025056229c3aca6c957e86]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/35/section/21) in force at 22.11.2022 in so far as not already in force by [S.I. 2022/1161](https://www.legislation.gov.uk/uksi/2022/1161), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1161/regulation/4)
+[^c-54a5824629025056229c3aca6c957e86]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/35/section/21) in force at 22.11.2022 in so far as not already in force by [S.I. 2022/1161](https://www.legislation.gov.uk/uksi/2022/1161), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1161/regulation/4)

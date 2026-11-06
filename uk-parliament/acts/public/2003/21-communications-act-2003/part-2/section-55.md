@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Orders by OFCOM in the absence of conditions under s. 52[^key-c031999e093594f2bd9ec500f1e77dcf][^key-66624b024f74f7881c812157eed5a691]
+## 55. Orders by OFCOM in the absence of conditions under s. 52[^c-c031999e093594f2bd9ec500f1e77dcf][^c-66624b024f74f7881c812157eed5a691]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ summary: ''
 
 - (a) that it is not practicable, or at least not appropriate, for OFCOM’s duties under subsections (1) and (3) of section 52 to be performed in a particular respect by the setting of general conditions; and
 - (b) that it is necessary to make the order for the purpose—
-  - (i) of securing the necessary protection for the customers of that provider or of those providers; [^key-466fd30d83b077098f10abe4e25eb41b]...
-  - (ii)[^key-466fd30d83b077098f10abe4e25eb41b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) of securing the necessary protection for the customers of that provider or of those providers; [^c-466fd30d83b077098f10abe4e25eb41b]...
+  - (ii)[^c-466fd30d83b077098f10abe4e25eb41b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An order under this section may make such of the following provisions as OFCOM think fit—
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c031999e093594f2bd9ec500f1e77dcf]: Commencement: S. 55 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-c031999e093594f2bd9ec500f1e77dcf]: Commencement: S. 55 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-66624b024f74f7881c812157eed5a691]: Commencement: S. 55 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-66624b024f74f7881c812157eed5a691]: Commencement: S. 55 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-466fd30d83b077098f10abe4e25eb41b]: Textual amendment: [S. 55(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2003/21/section/55/1/b/ii) and word omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-466fd30d83b077098f10abe4e25eb41b]: Textual amendment: [S. 55(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2003/21/section/55/1/b/ii) and word omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

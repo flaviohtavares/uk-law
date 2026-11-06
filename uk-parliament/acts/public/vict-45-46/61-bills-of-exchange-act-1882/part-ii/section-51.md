@@ -40,7 +40,7 @@ summary: ''
 - (a) The person at whose request the bill is protested:
 - (b) The place and date of protest, the cause or reason for protesting the bill, the demand made, and the answer given, if any, or the fact that the drawee or acceptor could not be found.
 
-(7A)[^key-1d820c615fc9c23dacc9dafb20599466] In subsection (7) “ **notary** ” includes a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to any activity which constitutes a notarial activity (within the meaning of that Act).
+(7A)[^c-1d820c615fc9c23dacc9dafb20599466] In subsection (7) “ **notary** ” includes a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to any activity which constitutes a notarial activity (within the meaning of that Act).
 
 (8) Where a bill is lost or destroyed, or is wrongly detained from the person entitled to hold it, protest may be made on a copy or written particulars thereof.
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c580833]: Textual amendment: Words in s. 51(6)(a) substituted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/4/6)
 
-[^key-1d820c615fc9c23dacc9dafb20599466]: Textual amendment: S. 51(7A) inserted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/9) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
+[^c-1d820c615fc9c23dacc9dafb20599466]: Textual amendment: S. 51(7A) inserted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/9) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A chair, integrated care board[^key-c9e790b8be2bf585774066cdc13bd366] member or social services authority member may resign at any time during their term of appointment by giving notice in writing to the Chief Executive of NHS England[^key-c31464ebf700c58b40bc343c24a900bf].
+(1) A chair, integrated care board[^c-c9e790b8be2bf585774066cdc13bd366] member or social services authority member may resign at any time during their term of appointment by giving notice in writing to the Chief Executive of NHS England[^c-c31464ebf700c58b40bc343c24a900bf].
 
 (2) Subject to paragraph (3), where NHS England is of the opinion that it is not in the interests of the health service that a chair, integrated care board member or social services authority member should continue to hold office, it may terminate that person's appointment with immediate effect by giving notice to that person in writing to that effect.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9e790b8be2bf585774066cdc13bd366]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2996) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-c9e790b8be2bf585774066cdc13bd366]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2996) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

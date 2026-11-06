@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.3. Application for new trial: restrictions[^key-07b27d8b67d2a5318c6cdc26121f63f6]
+## 29.3. Application for new trial: restrictions[^c-07b27d8b67d2a5318c6cdc26121f63f6]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07b27d8b67d2a5318c6cdc26121f63f6]: Commencement: Para. 29.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-07b27d8b67d2a5318c6cdc26121f63f6]: Commencement: Para. 29.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00033]: Footnote: The Ordinary Cause Rules 1993 are in Schedule 1 to the Sheriff Courts (Scotland) Act [1907 (c.51)](https://www.legislation.gov.uk/ukpga/1907/51). Rule 36B.8 was inserted by [S.S.I. 2015/227](https://www.legislation.gov.uk/ssi/2015/227), and is prospectively repealed by the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), schedule 5, paragraph 4(h).

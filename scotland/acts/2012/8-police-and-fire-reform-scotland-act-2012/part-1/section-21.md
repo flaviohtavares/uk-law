@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Direction and control of the Police Service[^key-31a70665b6aac9f58e00c887b169333d]
+## 21. Direction and control of the Police Service[^c-31a70665b6aac9f58e00c887b169333d]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31a70665b6aac9f58e00c887b169333d]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2012/8/section/21) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-31a70665b6aac9f58e00c887b169333d]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2012/8/section/21) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

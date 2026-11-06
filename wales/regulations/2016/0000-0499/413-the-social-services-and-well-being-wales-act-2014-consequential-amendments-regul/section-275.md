@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**275.**[^key-de23b9e6f6128ca93f4f77d88c5dba5c] The Children and Families (Wales) Measure 2010 is amended as follows.
+**275.**[^c-de23b9e6f6128ca93f4f77d88c5dba5c] The Children and Families (Wales) Measure 2010 is amended as follows.
 
 ## Annotations
 
-[^key-de23b9e6f6128ca93f4f77d88c5dba5c]: Commencement: Reg. 275 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-de23b9e6f6128ca93f4f77d88c5dba5c]: Commencement: Reg. 275 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

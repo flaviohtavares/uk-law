@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Interest on clients' money[^key-a89259203812e1b1647256ecb11725c1]
+## 34. Interest on clients' money[^c-a89259203812e1b1647256ecb11725c1]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a89259203812e1b1647256ecb11725c1]: Modification: [Art. 34](https://www.legislation.gov.uk/nisi/1976/582/article/34) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(j)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/j)
+[^c-a89259203812e1b1647256ecb11725c1]: Modification: [Art. 34](https://www.legislation.gov.uk/nisi/1976/582/article/34) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(j)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/j)
 
 [^c17113561]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

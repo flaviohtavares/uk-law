@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.196. Duty of liquidator to settle list[^key-ab88c872d5c4b0d7b7b74a92013c6b8a]
+## 4.196. Duty of liquidator to settle list[^c-ab88c872d5c4b0d7b7b74a92013c6b8a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab88c872d5c4b0d7b7b74a92013c6b8a]: Commencement: [Rule 4.196](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.196) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ab88c872d5c4b0d7b7b74a92013c6b8a]: Commencement: [Rule 4.196](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.196) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Amendment to regulation 60[^key-beccc24895d8936cf84824f51f8bfd6a]
+## 48. Amendment to regulation 60[^c-beccc24895d8936cf84824f51f8bfd6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 60(9) (conditions of UK marketing authorisation or parallel import
 
 ## Annotations
 
-[^key-beccc24895d8936cf84824f51f8bfd6a]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2024/832/regulation/48) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-beccc24895d8936cf84824f51f8bfd6a]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2024/832/regulation/48) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00059]: Footnote: The heading to regulation 60 was amended by, and paragraph (9) was substituted by, [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40B. Prevention of sexual harassment: power to specify “reasonable steps”[^key-5696cf7c8ac5bfd0117db2ab150af0e3]
+## 40B. Prevention of sexual harassment: power to specify “reasonable steps”[^c-5696cf7c8ac5bfd0117db2ab150af0e3]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5696cf7c8ac5bfd0117db2ab150af0e3]: Textual amendment: S. 40B inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/22/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/c)
+[^c-5696cf7c8ac5bfd0117db2ab150af0e3]: Textual amendment: S. 40B inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/22/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/c)

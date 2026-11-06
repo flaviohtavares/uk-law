@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Validation of licences[^key-c7e6c1f40d03dab35b134c9d6df71267]
+## 57. Validation of licences[^c-c7e6c1f40d03dab35b134c9d6df71267]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Governor may issue a certificate of validation rendering valid for the purpo
 
 ## Annotations
 
-[^key-c7e6c1f40d03dab35b134c9d6df71267]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2013/2870/article/57) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c7e6c1f40d03dab35b134c9d6df71267]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2013/2870/article/57) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

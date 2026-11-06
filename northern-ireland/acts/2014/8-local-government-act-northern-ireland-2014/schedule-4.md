@@ -24,7 +24,7 @@ Section 28(5).
 
 ### Voting rights schemes
 
-**1.**[^key-e71e566f009b776f15aa96c2f81bd7ff] (1) A council may permit a co-opted member of an overview and scrutiny committee of the council to vote at meetings of the committee.
+**1.**[^c-e71e566f009b776f15aa96c2f81bd7ff] (1) A council may permit a co-opted member of an overview and scrutiny committee of the council to vote at meetings of the committee.
 
 (2) Permission under sub-paragraph (1) may only be given in accordance with a scheme made by the council.
 
@@ -39,7 +39,7 @@ Section 28(5).
 
 ### Regulations
 
-**2.**[^key-363c85bc7464437ad5d64b92bcecd23e] (1) The Department may by regulations make provision about the exercise of the powers under paragraph 1.
+**2.**[^c-363c85bc7464437ad5d64b92bcecd23e] (1) The Department may by regulations make provision about the exercise of the powers under paragraph 1.
 
 (2) Regulations under sub-paragraph (1) may, in particular, require schemes for the purposes of paragraph 1 (“voting rights schemes”)—
 
@@ -57,7 +57,7 @@ Section 28(5).
 
 (4) The Department may by direction require a council to vary a voting rights scheme.
 
-**3.**[^key-814cc52702785fb6381054b6969a6d87] (1) A council which makes a scheme for the purposes of paragraph 1 must, while the scheme is in force, make copies of it available at its principal office at all reasonable hours for inspection by members of the public.
+**3.**[^c-814cc52702785fb6381054b6969a6d87] (1) A council which makes a scheme for the purposes of paragraph 1 must, while the scheme is in force, make copies of it available at its principal office at all reasonable hours for inspection by members of the public.
 
 (2) If a council makes a scheme for the purposes of paragraph 1, or varies or revokes such a scheme, it must as soon as reasonably practicable after doing so publish in one or more newspapers circulating in its area a notice which complies with this paragraph.
 
@@ -83,8 +83,8 @@ Section 28(5).
 
 ## Annotations
 
-[^key-e71e566f009b776f15aa96c2f81bd7ff]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nia/2014/8/schedule/4/paragraph/1) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-e71e566f009b776f15aa96c2f81bd7ff]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nia/2014/8/schedule/4/paragraph/1) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-363c85bc7464437ad5d64b92bcecd23e]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2014/8/schedule/4/paragraph/2) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-363c85bc7464437ad5d64b92bcecd23e]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2014/8/schedule/4/paragraph/2) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-814cc52702785fb6381054b6969a6d87]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2014/8/schedule/4/paragraph/3) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-814cc52702785fb6381054b6969a6d87]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2014/8/schedule/4/paragraph/3) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

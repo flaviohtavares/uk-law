@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c1528633][^c1528634][^key-7213551fcfe6056d9d3beda27d464ecb] A body shall comply with any directions given to it by the Secretary of State as to the matters to be taken into account in determining the persons to whom, the purposes for which and the conditions subject to which the body distributes any money under section 25(1).
+(1)[^c1528633][^c1528634][^c-7213551fcfe6056d9d3beda27d464ecb] A body shall comply with any directions given to it by the Secretary of State as to the matters to be taken into account in determining the persons to whom, the purposes for which and the conditions subject to which the body distributes any money under section 25(1).
 
-(2)[^c1528635][^key-2b8df436a4917d7288753b8f3a6d908b] The Trustees of the National Heritage Memorial Fund shall comply with any directions given to them by the Secretary of State as to the matters to be taken into account in determining the purposes for which and the conditions subject to which the Trustees apply any money under section 25(4).
+(2)[^c1528635][^c-2b8df436a4917d7288753b8f3a6d908b] The Trustees of the National Heritage Memorial Fund shall comply with any directions given to them by the Secretary of State as to the matters to be taken into account in determining the purposes for which and the conditions subject to which the Trustees apply any money under section 25(4).
 
 (3)[^c1528636] A body shall comply with any directions that the Secretary of State considers it appropriate to give the body for securing the proper management and control of money paid to the body under section 24.
 
@@ -38,9 +38,9 @@ summary: ''
 - (a) impose limits on the amount of money which may be distributed by a body under section 25(1) by virtue of decisions made on its behalf by bodies or persons not falling within section 25A(2), and
 - (b) require a body, before appointing any body or person not falling within section 25A(2) to exercise on its behalf any function of making decisions concerning the distribution of money under section 25(1), to obtain the approval of the Secretary of State to its plans for making such appointments.
 
-(5)[^c1528642][^c1528634][^key-2eda3f857a927b69ab05078443404459] The Secretary of State shall consult a body before giving any directions to it under this section.
+(5)[^c1528642][^c1528634][^c-2eda3f857a927b69ab05078443404459] The Secretary of State shall consult a body before giving any directions to it under this section.
 
-(6)[^key-5e819db9189ad4cb9f858e3c369cbeef] This section does not apply to the Big Lottery Fund.
+(6)[^c-5e819db9189ad4cb9f858e3c369cbeef] This section does not apply to the Big Lottery Fund.
 
 ## Annotations
 
@@ -54,7 +54,7 @@ summary: ''
 
 [^c1528634]: Modification: S. 26(1)(5): transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-7213551fcfe6056d9d3beda27d464ecb]: Modification: S. 26(1) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-7213551fcfe6056d9d3beda27d464ecb]: Modification: S. 26(1) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c1528635]: Modification: S. 26(2) (as read with s. 26A(2)(b)): transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
@@ -62,7 +62,7 @@ summary: ''
 
     S. 26(2): certain functions made exercisable by the National Assembly for Wales concurrently with the Secretary of State (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-2b8df436a4917d7288753b8f3a6d908b]: Modification: S. 26(2) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-2b8df436a4917d7288753b8f3a6d908b]: Modification: S. 26(2) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c1528636]: Modification: S. 26(3): functions amended (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 5](https://www.legislation.gov.uk/uksi/1999/672/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/672/schedule/2)
 
@@ -86,6 +86,6 @@ summary: ''
 
     S. 26(5): transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-2eda3f857a927b69ab05078443404459]: Modification: S. 26(5) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-2eda3f857a927b69ab05078443404459]: Modification: S. 26(5) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
-[^key-5e819db9189ad4cb9f858e3c369cbeef]: Textual amendment: S. 26(6) added (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/3), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
+[^c-5e819db9189ad4cb9f858e3c369cbeef]: Textual amendment: S. 26(6) added (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/3), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)

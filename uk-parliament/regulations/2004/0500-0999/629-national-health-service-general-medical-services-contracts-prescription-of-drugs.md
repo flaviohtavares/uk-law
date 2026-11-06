@@ -51,7 +51,7 @@ The Secretary of State for Health in exercise of the powers conferred upon him b
 
 (2) These Regulations apply to England only.
 
-## 2. Drugs, medicines and other substances that may not be ordered[^key-aa4a9467d0bf8ca77be04d2dc4f09f10]
+## 2. Drugs, medicines and other substances that may not be ordered[^c-aa4a9467d0bf8ca77be04d2dc4f09f10]
 
 (1) The following drugs, medicines and other substances may not be ordered for patients in the provision of medical services under a general medical services contract—
 
@@ -260,7 +260,7 @@ Regulation 2
 - Apodorm Tablets 5 mg
 - APP Stomach Powder
 - APP Stomach Tablets
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
 - Arnica Lotion
 - Arocin Capsules
 - Arret Capsules
@@ -766,7 +766,7 @@ Regulation 2
 - Cinota Drops
 - Citrosan Powder
 - Claradin Effervescent Tablets
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
 - Clarityn Allergy
 - Clarkes Blood Mixture
 - Clean and Soak
@@ -1172,10 +1172,10 @@ Regulation 2
 - Elsan Blue Liquid
 - Emuwash
 - Endet Powders
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
 - Energen Starch Reduced Crispbread
 - Enfamil Human Milk Fortifier
 - English Grains Mixed Gland Compound Tablets
@@ -1405,17 +1405,17 @@ Regulation 2
 - Glenco Elixir
 - Gluca-Seltzer Effervescent Powder
 - Glucodin
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
 - Glycerin Honey & Lemon Cough Mixture (Isola)
 - Glycerin Honey & Lemon Linctus (Boots)
 - Glycerin Honey & Lemon Linctus with Ipecacuanha (Boots)
@@ -1442,7 +1442,7 @@ Regulation 2
 - Granose Liquid Soya Milk
 - Granose Soya Yogert
 - Granoton Emulsion
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
 - Gregovite C Tablets
 - GS Tablets
 - Guaiphenesin Syrup (any strength)
@@ -1709,8 +1709,8 @@ Regulation 2
 - Juno-Junipah Mineral Salts
 - Juvel Elixir
 - Juvel Tablets
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
 - Juvela Low-Protein Savoury Snack
 - Kamillosan Baby Cleansing Bar
 - K'An Herbal Preparations
@@ -2601,18 +2601,18 @@ Regulation 2
 - Rinurel Linctus
 - Rinurel Tablets
 - Rite-Diet Egg White Replacer
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
 - Rite-Diet Hot Breakfast Cereal
 - Robaxisal Forte Tablets
 - Roberts Aspirin & Caffeine Tablets
@@ -2703,7 +2703,7 @@ Regulation 2
 - Saxin
 - SBL Junior Cough Linctus
 - SBL Soothing Bronchial Linctus
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
 - Scholl Foot Refresher Spray
 - Scott’s Cod Liver Oil Capsules
 - Scott’s Emulsion
@@ -2860,12 +2860,12 @@ Regulation 2
 - Suleo C Shampoo
 - Sun E45 Lotion SPF8
 - Sunerven Tablets
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
-- [^key-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
+- [^c-6f578dd8e232bed8825350ceb8440c85]...
 - Spice Cake
 - Super Plenamins Tablets
 - Super Yeast + C Tablets
@@ -3366,13 +3366,13 @@ Regulation 3
 </tbody>
 </table>
 
-[^key-001e6ecc8e04fdb0ce02c74eedf5a7b2][^key-8189fe498a9917730219338df786b811][^key-d38c720adb0e7a259520a56f3868c2c7][^key-f21d530828092660e48feb5b1743f9ce][^key-f21d530828092660e48feb5b1743f9ce][^key-f21d530828092660e48feb5b1743f9ce][^key-7c00ef50607dc5a7c3877787628a4aaf][^key-2e617d44ed7f0be655c0e170bf4b6eaa][^key-10f4ffe870cd23f9a6ca767cd0de774e][^key-159b34766efda5c5ffe22bd8ff2ed471][^M_F_ac8a0507-e882-46de-b841-8168e5ec250e][^key-fd74bf90e39f5561f07f5cab6c43b537][^key-6084850a697e300256b4b774b91cd6b0][^key-21ff81417971857c046720a2511918c7][^key-0f1e01590721e2833bc4743b7cb125b5][^key-159b34766efda5c5ffe22bd8ff2ed471][^M_F_3fe6b488-4c60-4709-eb8f-defbc2cbd822][^key-90a5251f5bbf6007ca75a9fff525fa55][^key-124fe21152964b0e5976b26aeed9995d][^key-3a213f634dc0adcee3bfddb07fda14a2][^key-159b34766efda5c5ffe22bd8ff2ed471][^key-991b74121168816b84a80776227f6513][^M_F_11905aa9-bcd9-44a4-937e-116ab797a28f][^key-2bdd019372028a6625118ff3345866a0][^key-b24453407d92b2b9cf6b03bf6804d0e0][^key-d854d9ad944f9acb1ecc23242f8a21fc][^key-731583965e3f401ceab7135f04555bc3][^key-68cb5814ced3dfbff1033d4213462fbd][^key-72c0f028c8d8d801143c2ff422e4ea4c][^key-731583965e3f401ceab7135f04555bc3][^key-72c0f028c8d8d801143c2ff422e4ea4c][^key-731583965e3f401ceab7135f04555bc3][^key-72c0f028c8d8d801143c2ff422e4ea4c][^key-731583965e3f401ceab7135f04555bc3][^key-628e44020e9cd6bc90d81666c10465dc][^key-731583965e3f401ceab7135f04555bc3][^key-72c0f028c8d8d801143c2ff422e4ea4c][^key-731583965e3f401ceab7135f04555bc3][^key-628e44020e9cd6bc90d81666c10465dc][^key-4618cb843535e6c6747a773d65df73ae][^key-731583965e3f401ceab7135f04555bc3][^key-b9c695e58a5d8bdbb2abc13b5b8c417a][^c16727411][^c16727421][^key-241c451264749c20d0e730c077126f55][^key-b16da0586bcc1120e8df113e0d5b126d][^key-95ab85af886d7a1383c28c03772b5baa][^key-5a46be060994b1c1d51022b25aed45b6]
+[^c-001e6ecc8e04fdb0ce02c74eedf5a7b2][^c-8189fe498a9917730219338df786b811][^c-d38c720adb0e7a259520a56f3868c2c7][^c-f21d530828092660e48feb5b1743f9ce][^c-f21d530828092660e48feb5b1743f9ce][^c-f21d530828092660e48feb5b1743f9ce][^c-7c00ef50607dc5a7c3877787628a4aaf][^c-2e617d44ed7f0be655c0e170bf4b6eaa][^c-10f4ffe870cd23f9a6ca767cd0de774e][^c-159b34766efda5c5ffe22bd8ff2ed471][^M_F_ac8a0507-e882-46de-b841-8168e5ec250e][^c-fd74bf90e39f5561f07f5cab6c43b537][^c-6084850a697e300256b4b774b91cd6b0][^c-21ff81417971857c046720a2511918c7][^c-0f1e01590721e2833bc4743b7cb125b5][^c-159b34766efda5c5ffe22bd8ff2ed471][^M_F_3fe6b488-4c60-4709-eb8f-defbc2cbd822][^c-90a5251f5bbf6007ca75a9fff525fa55][^c-124fe21152964b0e5976b26aeed9995d][^c-3a213f634dc0adcee3bfddb07fda14a2][^c-159b34766efda5c5ffe22bd8ff2ed471][^c-991b74121168816b84a80776227f6513][^M_F_11905aa9-bcd9-44a4-937e-116ab797a28f][^c-2bdd019372028a6625118ff3345866a0][^c-b24453407d92b2b9cf6b03bf6804d0e0][^c-d854d9ad944f9acb1ecc23242f8a21fc][^c-731583965e3f401ceab7135f04555bc3][^c-68cb5814ced3dfbff1033d4213462fbd][^c-72c0f028c8d8d801143c2ff422e4ea4c][^c-731583965e3f401ceab7135f04555bc3][^c-72c0f028c8d8d801143c2ff422e4ea4c][^c-731583965e3f401ceab7135f04555bc3][^c-72c0f028c8d8d801143c2ff422e4ea4c][^c-731583965e3f401ceab7135f04555bc3][^c-628e44020e9cd6bc90d81666c10465dc][^c-731583965e3f401ceab7135f04555bc3][^c-72c0f028c8d8d801143c2ff422e4ea4c][^c-731583965e3f401ceab7135f04555bc3][^c-628e44020e9cd6bc90d81666c10465dc][^c-4618cb843535e6c6747a773d65df73ae][^c-731583965e3f401ceab7135f04555bc3][^c-b9c695e58a5d8bdbb2abc13b5b8c417a][^c16727411][^c16727421][^c-241c451264749c20d0e730c077126f55][^c-b16da0586bcc1120e8df113e0d5b126d][^c-95ab85af886d7a1383c28c03772b5baa][^c-5a46be060994b1c1d51022b25aed45b6]
 
 In this Schedule—
 
-[^key-f5caa4dd5c394fac81e9799ece0e5caf]...
+[^c-f5caa4dd5c394fac81e9799ece0e5caf]...
 
-“at clinical risk” means in relation to a patient, a patient who—[^key-c395be6b8900a8ef3ff818d0a73660fb]
+“at clinical risk” means in relation to a patient, a patient who—[^c-c395be6b8900a8ef3ff818d0a73660fb]
 
 - (a) has chronic respiratory disease;
 - (b) has asthma that requires continuous or repeated use of inhaled or systemic steroids or with previous exacerbations requiring hospital admission;
@@ -3383,19 +3383,19 @@ In this Schedule—
 - (g) has diabetes; or
 - (h) is immunosuppressed;
 
-[^key-f5caa4dd5c394fac81e9799ece0e5caf]...
+[^c-f5caa4dd5c394fac81e9799ece0e5caf]...
 
 “**EEA Agreement**” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 [^c16727381] as adjusted by the Protocol signed at Brussels on 17th March 1993 [^c16727391] and as amended so far as is relevant to these Regulations, by Decision of the EEA Joint Committee No 7/94 of 21st March 1994 [^c16727401]; and
 
 “**EEA State**” means a State which is a contracting party to the EEA Agreement or Switzerland.
 
-“general medical practitioner” has the meaning given in regulation 3 of the National Health Service (General Medical Services Contracts) Regulations 2015;[^key-5598ece7c64b9ef64015642d26f50497]
+“general medical practitioner” has the meaning given in regulation 3 of the National Health Service (General Medical Services Contracts) Regulations 2015;[^c-5598ece7c64b9ef64015642d26f50497]
 
-“gonadotrophin-releasing hormone (“GnRH”) analogue” means a medicinal product that consists of or contains buserelin, gonadorelin, goserelin, leuprorelin acetate, nafarelin or triptorelin;[^key-aa21b5f8e0ebbefa81a95e4737ed4e69]
+“gonadotrophin-releasing hormone (“GnRH”) analogue” means a medicinal product that consists of or contains buserelin, gonadorelin, goserelin, leuprorelin acetate, nafarelin or triptorelin;[^c-aa21b5f8e0ebbefa81a95e4737ed4e69]
 
-“patient” has the meaning given in regulation 3 of the National Health Service (General Medical Services Contracts) Regulations 2015;[^key-3ea14a0e3c2da83acf81a9882eafc123]
+“patient” has the meaning given in regulation 3 of the National Health Service (General Medical Services Contracts) Regulations 2015;[^c-3ea14a0e3c2da83acf81a9882eafc123]
 
-“residential care establishment” means a place where persons reside on a long term basis in order to receive continuing care.[^key-7260dc8799384a4df2f072d5092a6757]
+“residential care establishment” means a place where persons reside on a long term basis in order to receive continuing care.[^c-7260dc8799384a4df2f072d5092a6757]
 
 *(This note is not part of the Regulations)*
 
@@ -3409,81 +3409,81 @@ Regulation 3 and Schedule 2 specify the drugs, medicines and other substances th
 
 [^c16727371]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); section 28U was inserted by section 175(1) of the Health and Social Care ([Community Health and Standards Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43).
 
-[^key-aa4a9467d0bf8ca77be04d2dc4f09f10]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/629/regulation/2) substituted (4.12.2018) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2018 (S.I. 2018/1134)](https://www.legislation.gov.uk/uksi/2018/1134), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1134/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1134/regulation/2/2)
+[^c-aa4a9467d0bf8ca77be04d2dc4f09f10]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/629/regulation/2) substituted (4.12.2018) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2018 (S.I. 2018/1134)](https://www.legislation.gov.uk/uksi/2018/1134), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1134/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1134/regulation/2/2)
 
-[^key-6f578dd8e232bed8825350ceb8440c85]: Textual amendment: Words in Sch. 1 omitted (4.12.2018) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2018 (S.I. 2018/1134)](https://www.legislation.gov.uk/uksi/2018/1134), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1134/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1134/regulation/2/3)
+[^c-6f578dd8e232bed8825350ceb8440c85]: Textual amendment: Words in Sch. 1 omitted (4.12.2018) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2018 (S.I. 2018/1134)](https://www.legislation.gov.uk/uksi/2018/1134), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1134/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1134/regulation/2/3)
 
-[^key-001e6ecc8e04fdb0ce02c74eedf5a7b2]: Textual amendment: Words in Sch. 2 inserted (26.6.2024) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2024 (S.I. 2024/728)](https://www.legislation.gov.uk/uksi/2024/728), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/728/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/728/regulation/2/2/a)
+[^c-001e6ecc8e04fdb0ce02c74eedf5a7b2]: Textual amendment: Words in Sch. 2 inserted (26.6.2024) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2024 (S.I. 2024/728)](https://www.legislation.gov.uk/uksi/2024/728), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/728/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/728/regulation/2/2/a)
 
-[^key-8189fe498a9917730219338df786b811]: Textual amendment: Words in Sch. 2 inserted (26.6.2024) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2024 (S.I. 2024/728)](https://www.legislation.gov.uk/uksi/2024/728), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/728/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/728/regulation/2/2/b)
+[^c-8189fe498a9917730219338df786b811]: Textual amendment: Words in Sch. 2 inserted (26.6.2024) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2024 (S.I. 2024/728)](https://www.legislation.gov.uk/uksi/2024/728), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/728/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/728/regulation/2/2/b)
 
-[^key-d38c720adb0e7a259520a56f3868c2c7]: Textual amendment: Words in Sch. 2 inserted (26.6.2024) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2024 (S.I. 2024/728)](https://www.legislation.gov.uk/uksi/2024/728), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/728/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/728/regulation/2/2/c)
+[^c-d38c720adb0e7a259520a56f3868c2c7]: Textual amendment: Words in Sch. 2 inserted (26.6.2024) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2024 (S.I. 2024/728)](https://www.legislation.gov.uk/uksi/2024/728), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/728/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/728/regulation/2/2/c)
 
-[^key-f21d530828092660e48feb5b1743f9ce]: Textual amendment: Words in Sch. 2 omitted (1.4.2013) by virtue of [The National Health Service (Primary Medical Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/363)](https://www.legislation.gov.uk/uksi/2013/363), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1), [54(2)(a)](https://www.legislation.gov.uk/uksi/2013/363/regulation/54/2)
+[^c-f21d530828092660e48feb5b1743f9ce]: Textual amendment: Words in Sch. 2 omitted (1.4.2013) by virtue of [The National Health Service (Primary Medical Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/363)](https://www.legislation.gov.uk/uksi/2013/363), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1), [54(2)(a)](https://www.legislation.gov.uk/uksi/2013/363/regulation/54/2)
 
-[^key-7c00ef50607dc5a7c3877787628a4aaf]: Textual amendment: Words in Sch. 2 inserted (3.1.2005) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2004 (S.I. 2004/3215)](https://www.legislation.gov.uk/uksi/2004/3215), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3215/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2004/3215/regulation/2/a)
+[^c-7c00ef50607dc5a7c3877787628a4aaf]: Textual amendment: Words in Sch. 2 inserted (3.1.2005) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2004 (S.I. 2004/3215)](https://www.legislation.gov.uk/uksi/2004/3215), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3215/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2004/3215/regulation/2/a)
 
-[^key-2e617d44ed7f0be655c0e170bf4b6eaa]: Textual amendment: Words in Sch. 2 substituted (1.11.2010) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/2/a)
+[^c-2e617d44ed7f0be655c0e170bf4b6eaa]: Textual amendment: Words in Sch. 2 substituted (1.11.2010) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/2/a)
 
-[^key-10f4ffe870cd23f9a6ca767cd0de774e]: Textual amendment: Words in Sch. 2 inserted (20.4.2011) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2011 (S.I. 2011/680)](https://www.legislation.gov.uk/uksi/2011/680), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/680/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/680/regulation/2/2)
+[^c-10f4ffe870cd23f9a6ca767cd0de774e]: Textual amendment: Words in Sch. 2 inserted (20.4.2011) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2011 (S.I. 2011/680)](https://www.legislation.gov.uk/uksi/2011/680), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/680/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/680/regulation/2/2)
 
-[^key-159b34766efda5c5ffe22bd8ff2ed471]: Textual amendment: Words in Sch. 2 omitted (1.10.2025) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2025 (S.I. 2025/987)](https://www.legislation.gov.uk/uksi/2025/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/987/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2025/987/regulation/2/c)
+[^c-159b34766efda5c5ffe22bd8ff2ed471]: Textual amendment: Words in Sch. 2 omitted (1.10.2025) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2025 (S.I. 2025/987)](https://www.legislation.gov.uk/uksi/2025/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/987/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2025/987/regulation/2/c)
 
 [^M_F_ac8a0507-e882-46de-b841-8168e5ec250e]: Textual amendment: Words in Sch. 2 inserted (21.8.2009) by [The National Health Service (Prescribing and Charging Amendments Relating to Pandemic Influenza) Regulations 2009 (S.I. 2009/2230)](https://www.legislation.gov.uk/uksi/2009/2230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/5/a/i)
 
-[^key-fd74bf90e39f5561f07f5cab6c43b537]: Textual amendment: Words in Sch. 2 substituted (1.4.2013) by [The National Health Service (Primary Medical Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/363)](https://www.legislation.gov.uk/uksi/2013/363), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1), [54(2)(b)(c)](https://www.legislation.gov.uk/uksi/2013/363/regulation/54/2)
+[^c-fd74bf90e39f5561f07f5cab6c43b537]: Textual amendment: Words in Sch. 2 substituted (1.4.2013) by [The National Health Service (Primary Medical Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/363)](https://www.legislation.gov.uk/uksi/2013/363), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1), [54(2)(b)(c)](https://www.legislation.gov.uk/uksi/2013/363/regulation/54/2)
 
-[^key-6084850a697e300256b4b774b91cd6b0]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-6084850a697e300256b4b774b91cd6b0]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-21ff81417971857c046720a2511918c7]: Textual amendment: Words in Sch. 2 substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/974/regulation/3/2/a)
+[^c-21ff81417971857c046720a2511918c7]: Textual amendment: Words in Sch. 2 substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/974/regulation/3/2/a)
 
-[^key-0f1e01590721e2833bc4743b7cb125b5]: Textual amendment: Words in Sch. 2 substituted (1.11.2010) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/2/b)
+[^c-0f1e01590721e2833bc4743b7cb125b5]: Textual amendment: Words in Sch. 2 substituted (1.11.2010) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/2/b)
 
 [^M_F_3fe6b488-4c60-4709-eb8f-defbc2cbd822]: Textual amendment: Words in Sch. 2 inserted (21.8.2009) by [The National Health Service (Prescribing and Charging Amendments Relating to Pandemic Influenza) Regulations 2009 (S.I. 2009/2230)](https://www.legislation.gov.uk/uksi/2009/2230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/5/a/ii)
 
-[^key-90a5251f5bbf6007ca75a9fff525fa55]: Textual amendment: Sch. 2: entry renumbered (21.8.2009) by [The National Health Service (Prescribing and Charging Amendments Relating to Pandemic Influenza) Regulations 2009 (S.I. 2009/2230)](https://www.legislation.gov.uk/uksi/2009/2230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/1/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/5/b/i)
+[^c-90a5251f5bbf6007ca75a9fff525fa55]: Textual amendment: Sch. 2: entry renumbered (21.8.2009) by [The National Health Service (Prescribing and Charging Amendments Relating to Pandemic Influenza) Regulations 2009 (S.I. 2009/2230)](https://www.legislation.gov.uk/uksi/2009/2230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/1/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/5/b/i)
 
-[^key-124fe21152964b0e5976b26aeed9995d]: Textual amendment: Words in Sch. 2 substituted (1.11.2010) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/3/a)
+[^c-124fe21152964b0e5976b26aeed9995d]: Textual amendment: Words in Sch. 2 substituted (1.11.2010) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/3/a)
 
-[^key-3a213f634dc0adcee3bfddb07fda14a2]: Textual amendment: Words in Sch. 2 inserted (20.4.2011) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2011 (S.I. 2011/680)](https://www.legislation.gov.uk/uksi/2011/680), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/680/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/680/regulation/2/3)
+[^c-3a213f634dc0adcee3bfddb07fda14a2]: Textual amendment: Words in Sch. 2 inserted (20.4.2011) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2011 (S.I. 2011/680)](https://www.legislation.gov.uk/uksi/2011/680), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/680/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/680/regulation/2/3)
 
-[^key-991b74121168816b84a80776227f6513]: Textual amendment: Words in Sch. 2 substituted (1.11.2010) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/3/b)
+[^c-991b74121168816b84a80776227f6513]: Textual amendment: Words in Sch. 2 substituted (1.11.2010) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/3/b)
 
 [^M_F_11905aa9-bcd9-44a4-937e-116ab797a28f]: Textual amendment: Words in Sch. 2 added (21.8.2009) by [The National Health Service (Prescribing and Charging Amendments Relating to Pandemic Influenza) Regulations 2009 (S.I. 2009/2230)](https://www.legislation.gov.uk/uksi/2009/2230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/1/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/5/b/i)
 
-[^key-2bdd019372028a6625118ff3345866a0]: Textual amendment: Words in Sch. 2 substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/974/regulation/3/2/b)
+[^c-2bdd019372028a6625118ff3345866a0]: Textual amendment: Words in Sch. 2 substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/974/regulation/3/2/b)
 
-[^key-b24453407d92b2b9cf6b03bf6804d0e0]: Textual amendment: Words in Sch. 2 inserted (21.8.2009) by [The National Health Service (Prescribing and Charging Amendments Relating to Pandemic Influenza) Regulations 2009 (S.I. 2009/2230)](https://www.legislation.gov.uk/uksi/2009/2230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/1/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/5/b/ii)
+[^c-b24453407d92b2b9cf6b03bf6804d0e0]: Textual amendment: Words in Sch. 2 inserted (21.8.2009) by [The National Health Service (Prescribing and Charging Amendments Relating to Pandemic Influenza) Regulations 2009 (S.I. 2009/2230)](https://www.legislation.gov.uk/uksi/2009/2230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/1/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2009/2230/regulation/5/b/ii)
 
-[^key-d854d9ad944f9acb1ecc23242f8a21fc]: Textual amendment: Word in Sch. 2 inserted (1.8.2014) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2014 (S.I. 2014/1625)](https://www.legislation.gov.uk/uksi/2014/1625), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/1/2), [2(b)(i)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/2/b/i)
+[^c-d854d9ad944f9acb1ecc23242f8a21fc]: Textual amendment: Word in Sch. 2 inserted (1.8.2014) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2014 (S.I. 2014/1625)](https://www.legislation.gov.uk/uksi/2014/1625), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/1/2), [2(b)(i)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/2/b/i)
 
-[^key-731583965e3f401ceab7135f04555bc3]: Textual amendment: Words in Sch. 2 omitted (1.10.2013) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc) (Amendment) Regulations 2013 (S.I. 2013/2194)](https://www.legislation.gov.uk/uksi/2013/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/2/a/i/vi)
+[^c-731583965e3f401ceab7135f04555bc3]: Textual amendment: Words in Sch. 2 omitted (1.10.2013) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc) (Amendment) Regulations 2013 (S.I. 2013/2194)](https://www.legislation.gov.uk/uksi/2013/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/2/a/i/vi)
 
-[^key-68cb5814ced3dfbff1033d4213462fbd]: Textual amendment: Words in Sch. 2 inserted (1.10.2025) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2025 (S.I. 2025/987)](https://www.legislation.gov.uk/uksi/2025/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/987/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2025/987/regulation/2/b)
+[^c-68cb5814ced3dfbff1033d4213462fbd]: Textual amendment: Words in Sch. 2 inserted (1.10.2025) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2025 (S.I. 2025/987)](https://www.legislation.gov.uk/uksi/2025/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/987/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2025/987/regulation/2/b)
 
-[^key-72c0f028c8d8d801143c2ff422e4ea4c]: Textual amendment: Words in Sch. 2 omitted (1.8.2014) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2014 (S.I. 2014/1625)](https://www.legislation.gov.uk/uksi/2014/1625), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/2/a)
+[^c-72c0f028c8d8d801143c2ff422e4ea4c]: Textual amendment: Words in Sch. 2 omitted (1.8.2014) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2014 (S.I. 2014/1625)](https://www.legislation.gov.uk/uksi/2014/1625), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/2/a)
 
-[^key-628e44020e9cd6bc90d81666c10465dc]: Textual amendment: Words in Sch. 2 omitted (1.10.2025) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2025 (S.I. 2025/987)](https://www.legislation.gov.uk/uksi/2025/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/987/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2025/987/regulation/2/a)
+[^c-628e44020e9cd6bc90d81666c10465dc]: Textual amendment: Words in Sch. 2 omitted (1.10.2025) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2025 (S.I. 2025/987)](https://www.legislation.gov.uk/uksi/2025/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/987/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2025/987/regulation/2/a)
 
-[^key-4618cb843535e6c6747a773d65df73ae]: Textual amendment: Word in Sch. 2 inserted (1.8.2014) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2014 (S.I. 2014/1625)](https://www.legislation.gov.uk/uksi/2014/1625), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/1/2), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/2/b/ii)
+[^c-4618cb843535e6c6747a773d65df73ae]: Textual amendment: Word in Sch. 2 inserted (1.8.2014) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2014 (S.I. 2014/1625)](https://www.legislation.gov.uk/uksi/2014/1625), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/1/2), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2014/1625/regulation/2/b/ii)
 
-[^key-b9c695e58a5d8bdbb2abc13b5b8c417a]: Textual amendment: Words in Sch. 2 inserted (1.10.2013) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc) (Amendment) Regulations 2013 (S.I. 2013/2194)](https://www.legislation.gov.uk/uksi/2013/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/1/2), [2(b)(i)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/2/b/i)
+[^c-b9c695e58a5d8bdbb2abc13b5b8c417a]: Textual amendment: Words in Sch. 2 inserted (1.10.2013) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc) (Amendment) Regulations 2013 (S.I. 2013/2194)](https://www.legislation.gov.uk/uksi/2013/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/1/2), [2(b)(i)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/2/b/i)
 
 [^c16727411]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
 [^c16727421]: Marginal citation: [S.I. 1972/1265](https://www.legislation.gov.uk/uksi/1972/1265) (NI 14).
 
-[^key-241c451264749c20d0e730c077126f55]: Textual amendment: Words in Sch. 2 substituted (31.12.2020) by [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/777/regulation/9/2/a) (as substituted by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1348/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-241c451264749c20d0e730c077126f55]: Textual amendment: Words in Sch. 2 substituted (31.12.2020) by [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/777/regulation/9/2/a) (as substituted by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1348/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b16da0586bcc1120e8df113e0d5b126d]: Textual amendment: Words in Sch. 2 substituted (31.12.2020) by [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/777/regulation/9/2/b) (as substituted by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1348/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b16da0586bcc1120e8df113e0d5b126d]: Textual amendment: Words in Sch. 2 substituted (31.12.2020) by [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/777/regulation/9/2/b) (as substituted by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1348/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-95ab85af886d7a1383c28c03772b5baa]: Textual amendment: Words in Sch. 2 inserted (1.10.2013) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc) (Amendment) Regulations 2013 (S.I. 2013/2194)](https://www.legislation.gov.uk/uksi/2013/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/1/2), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/2/b/ii)
+[^c-95ab85af886d7a1383c28c03772b5baa]: Textual amendment: Words in Sch. 2 inserted (1.10.2013) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc) (Amendment) Regulations 2013 (S.I. 2013/2194)](https://www.legislation.gov.uk/uksi/2013/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/1/2), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/2/b/ii)
 
-[^key-5a46be060994b1c1d51022b25aed45b6]: Textual amendment: Words in Sch. 2 inserted (1.10.2013) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc) (Amendment) Regulations 2013 (S.I. 2013/2194)](https://www.legislation.gov.uk/uksi/2013/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/2/c)
+[^c-5a46be060994b1c1d51022b25aed45b6]: Textual amendment: Words in Sch. 2 inserted (1.10.2013) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc) (Amendment) Regulations 2013 (S.I. 2013/2194)](https://www.legislation.gov.uk/uksi/2013/2194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2013/2194/regulation/2/c)
 
-[^key-f5caa4dd5c394fac81e9799ece0e5caf]: Textual amendment: Words in Sch. 2 omitted (1.11.2010) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/4/a)
+[^c-f5caa4dd5c394fac81e9799ece0e5caf]: Textual amendment: Words in Sch. 2 omitted (1.11.2010) by virtue of [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/4/a)
 
-[^key-c395be6b8900a8ef3ff818d0a73660fb]: Textual amendment: Words in Sch. 2 inserted (1.11.2010) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/4/b)
+[^c-c395be6b8900a8ef3ff818d0a73660fb]: Textual amendment: Words in Sch. 2 inserted (1.11.2010) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2010 (S.I. 2010/2389)](https://www.legislation.gov.uk/uksi/2010/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2010/2389/regulation/2/4/b)
 
 [^c16727381]: Marginal citation: Cm. 2073 and O.J. No. L1, 3.1.1994, p.3.
 
@@ -3491,12 +3491,12 @@ Regulation 3 and Schedule 2 specify the drugs, medicines and other substances th
 
 [^c16727401]: Marginal citation: O.J. No. L160, 28.6.1996, p.1.
 
-[^key-5598ece7c64b9ef64015642d26f50497]: Textual amendment: Words in Sch. 2 substituted (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/1862/schedule/4/paragraph/1/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
+[^c-5598ece7c64b9ef64015642d26f50497]: Textual amendment: Words in Sch. 2 substituted (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/1862/schedule/4/paragraph/1/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
 
-[^key-aa21b5f8e0ebbefa81a95e4737ed4e69]: Textual amendment: Words in Sch. 2 inserted (26.6.2024) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2024 (S.I. 2024/728)](https://www.legislation.gov.uk/uksi/2024/728), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/728/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/728/regulation/2/3)
+[^c-aa21b5f8e0ebbefa81a95e4737ed4e69]: Textual amendment: Words in Sch. 2 inserted (26.6.2024) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2024 (S.I. 2024/728)](https://www.legislation.gov.uk/uksi/2024/728), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/728/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/728/regulation/2/3)
 
-[^key-3ea14a0e3c2da83acf81a9882eafc123]: Textual amendment: Words in Sch. 2 substituted (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/uksi/2015/1862/schedule/4/paragraph/1/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
+[^c-3ea14a0e3c2da83acf81a9882eafc123]: Textual amendment: Words in Sch. 2 substituted (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/uksi/2015/1862/schedule/4/paragraph/1/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
 
-[^key-7260dc8799384a4df2f072d5092a6757]: Textual amendment: Words in Sch. 2 inserted (3.1.2005) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2004 (S.I. 2004/3215)](https://www.legislation.gov.uk/uksi/2004/3215), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3215/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2004/3215/regulation/2/b)
+[^c-7260dc8799384a4df2f072d5092a6757]: Textual amendment: Words in Sch. 2 inserted (3.1.2005) by [The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2004 (S.I. 2004/3215)](https://www.legislation.gov.uk/uksi/2004/3215), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3215/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2004/3215/regulation/2/b)
 
 [^c16727441]: Marginal citation: [Section 28Q](https://www.legislation.gov.uk/uksi/2004/629/section/28Q) was inserted into the Act by section 175(1) of the [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43).

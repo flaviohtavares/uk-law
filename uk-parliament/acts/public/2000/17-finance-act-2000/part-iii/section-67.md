@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Taper relief: assets qualifying as business assets.[^key-f0e7d4d8c262393c072b253c4ac795a4]
+## 67. Taper relief: assets qualifying as business assets.[^c-f0e7d4d8c262393c072b253c4ac795a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0e7d4d8c262393c072b253c4ac795a4]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/2000/17/section/67) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/c)
+[^c-f0e7d4d8c262393c072b253c4ac795a4]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/2000/17/section/67) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/c)

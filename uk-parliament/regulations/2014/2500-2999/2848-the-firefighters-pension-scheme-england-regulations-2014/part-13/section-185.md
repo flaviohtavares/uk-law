@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Information to be provided to a member before reserve forces service leave[^key-22415768ebc3101d3ae9f878356de409]
+## 185. Information to be provided to a member before reserve forces service leave[^c-22415768ebc3101d3ae9f878356de409]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The scheme manager must give a member who is about to start on a period of reser
 
 ## Annotations
 
-[^key-22415768ebc3101d3ae9f878356de409]: Commencement: [Reg. 185](https://www.legislation.gov.uk/uksi/2014/2848/regulation/185) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-22415768ebc3101d3ae9f878356de409]: Commencement: [Reg. 185](https://www.legislation.gov.uk/uksi/2014/2848/regulation/185) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

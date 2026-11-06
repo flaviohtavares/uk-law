@@ -26,7 +26,7 @@ summary: ''
 
 They may also, after judgment, further mitigate or entirely remit the penalty.
 
-(2A)[^key-53ef625e1f38d3216f6a9b171c8909ad] Where a person is liable to more than one tax-related penalty in respect of the same land transaction, each penalty after the first shall be reduced so that his liability to such penalties, in total, does not exceed the amount of whichever is (or, but for this subsection, would be) the greatest one.
+(2A)[^c-53ef625e1f38d3216f6a9b171c8909ad] Where a person is liable to more than one tax-related penalty in respect of the same land transaction, each penalty after the first shall be reduced so that his liability to such penalties, in total, does not exceed the amount of whichever is (or, but for this subsection, would be) the greatest one.
 
 (3) Nothing in the provisions of this Part relating to penalties affects any criminal proceedings for an offence.
 
@@ -34,4 +34,4 @@ They may also, after judgment, further mitigate or entirely remit the penalty.
 
 [^c5522191]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)
 
-[^key-53ef625e1f38d3216f6a9b171c8909ad]: Textual amendment: S. 99(2A) inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 298(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/298/4)
+[^c-53ef625e1f38d3216f6a9b171c8909ad]: Textual amendment: S. 99(2A) inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 298(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/298/4)

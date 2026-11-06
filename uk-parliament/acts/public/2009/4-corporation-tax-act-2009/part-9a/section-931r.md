@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 931R. Election that distribution should not be exempt[^key-a9773767b7990ca01f321a5ca31f38d6][^key-c2daeff2dc2f1c78d3413089f450a47e]
+## 931R. Election that distribution should not be exempt[^c-a9773767b7990ca01f321a5ca31f38d6][^c-c2daeff2dc2f1c78d3413089f450a47e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a9773767b7990ca01f321a5ca31f38d6]: Modification: S. 931R excluded by S.I. 2006/964, reg. 69Z58 (as inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [24](https://www.legislation.gov.uk/uksi/2009/2036/regulation/24))
+[^c-a9773767b7990ca01f321a5ca31f38d6]: Modification: S. 931R excluded by S.I. 2006/964, reg. 69Z58 (as inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [24](https://www.legislation.gov.uk/uksi/2009/2036/regulation/24))
 
-[^key-c2daeff2dc2f1c78d3413089f450a47e]: Textual amendment: Pt. 9A inserted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/1) (with [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/32))
+[^c-c2daeff2dc2f1c78d3413089f450a47e]: Textual amendment: Pt. 9A inserted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/1) (with [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/32))

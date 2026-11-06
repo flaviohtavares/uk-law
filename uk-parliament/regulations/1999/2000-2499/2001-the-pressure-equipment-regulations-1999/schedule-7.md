@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — EUROPEAN APPROVAL FOR MATERIALS[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+## SCHEDULE 7 — EUROPEAN APPROVAL FOR MATERIALS[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Regulation 17
 
-**1.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]: Textual amendment: Regulations revoked (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [90(1)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/1) (with [regs. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88), [90(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/2))
+[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]: Textual amendment: Regulations revoked (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [90(1)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/1) (with [regs. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88), [90(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/2))

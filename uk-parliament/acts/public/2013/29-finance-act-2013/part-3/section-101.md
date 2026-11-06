@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5bf7546e1327a074767cac97a7ff81f1] If the consumer prices index for September in 2013 or any later year (“**the later year**”) is higher than it was for the previous September, section 99(4) applies in relation to chargeable periods beginning on or after 1 April in the year after the later year with the following amendments.
+(1)[^c-5bf7546e1327a074767cac97a7ff81f1] If the consumer prices index for September in 2013 or any later year (“**the later year**”) is higher than it was for the previous September, section 99(4) applies in relation to chargeable periods beginning on or after 1 April in the year after the later year with the following amendments.
 
 (2) For each of the annual chargeable amounts stated in the table in section 99(4) (as it applies in relation to chargeable periods beginning in the previous 12 months) there is substituted the indexed amount.
 
@@ -31,10 +31,10 @@ summary: ''
 
 (4) In this section “**consumer prices index**” means the all items consumer prices index published by the Statistics Board.
 
-(5)[^key-8d74f1d08bd6d2fad16a50f0e392eb34] The Treasury must, before 1 April 2014 and before each subsequent 1 April, make an order stating the amounts that by virtue of this section are to be the annual chargeable amounts for chargeable periods beginning on or after that date.
+(5)[^c-8d74f1d08bd6d2fad16a50f0e392eb34] The Treasury must, before 1 April 2014 and before each subsequent 1 April, make an order stating the amounts that by virtue of this section are to be the annual chargeable amounts for chargeable periods beginning on or after that date.
 
 ## Annotations
 
-[^key-5bf7546e1327a074767cac97a7ff81f1]: Modification: S. 101(1) excluded (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 70(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/70/3)
+[^c-5bf7546e1327a074767cac97a7ff81f1]: Modification: S. 101(1) excluded (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 70(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/70/3)
 
-[^key-8d74f1d08bd6d2fad16a50f0e392eb34]: Modification: S. 101(5) modified (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 70(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/70/4)
+[^c-8d74f1d08bd6d2fad16a50f0e392eb34]: Modification: S. 101(5) modified (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 70(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/70/4)

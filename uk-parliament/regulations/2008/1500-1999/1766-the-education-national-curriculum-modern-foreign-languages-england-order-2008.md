@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Education (National Curriculum) (Modern Foreign Languages) (England) Order 2008 (revoked)[^key-3589bb48b0e4f4e6ca61eaf5f710f02d]
+The Education (National Curriculum) (Modern Foreign Languages) (England) Order 2008 (revoked)[^c-3589bb48b0e4f4e6ca61eaf5f710f02d]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st August 2008
 
-[^key-3589bb48b0e4f4e6ca61eaf5f710f02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3589bb48b0e4f4e6ca61eaf5f710f02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-3589bb48b0e4f4e6ca61eaf5f710f02d]
+## 1. Citation, commencement, interpretation and application[^c-3589bb48b0e4f4e6ca61eaf5f710f02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specification of modern foreign language[^key-3589bb48b0e4f4e6ca61eaf5f710f02d]
+## 2. Specification of modern foreign language[^c-3589bb48b0e4f4e6ca61eaf5f710f02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and savings[^key-3589bb48b0e4f4e6ca61eaf5f710f02d]
+## 3. Revocation and savings[^c-3589bb48b0e4f4e6ca61eaf5f710f02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3589bb48b0e4f4e6ca61eaf5f710f02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3589bb48b0e4f4e6ca61eaf5f710f02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3589bb48b0e4f4e6ca61eaf5f710f02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3589bb48b0e4f4e6ca61eaf5f710f02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3589bb48b0e4f4e6ca61eaf5f710f02d]: Textual amendment: Order revoked (1.9.2014) by [The Education (National Curriculum) (Languages) (England) Order 2013 (S.I. 2013/2230)](https://www.legislation.gov.uk/uksi/2013/2230), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2230/article/1/1), [4](https://www.legislation.gov.uk/uksi/2013/2230/article/4)
+[^c-3589bb48b0e4f4e6ca61eaf5f710f02d]: Textual amendment: Order revoked (1.9.2014) by [The Education (National Curriculum) (Languages) (England) Order 2013 (S.I. 2013/2230)](https://www.legislation.gov.uk/uksi/2013/2230), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2230/article/1/1), [4](https://www.legislation.gov.uk/uksi/2013/2230/article/4)

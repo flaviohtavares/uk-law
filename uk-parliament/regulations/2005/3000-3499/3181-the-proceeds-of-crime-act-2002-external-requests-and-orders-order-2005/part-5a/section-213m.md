@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213M. Associated and joint property[^key-403d5302d229bcbcdcc03dacdb8f36e6]
+## 213M. Associated and joint property[^c-403d5302d229bcbcdcc03dacdb8f36e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) the court or sheriff is satisfied that all or part of the property is recoverable property, and
 - (d) there exists property that is associated with the property in relation to which the court or sheriff is satisfied as mentioned in subparagraph (c).
 
-(2) Articles 213N and 213O also apply in England and Wales and Northern Ireland[^key-2e362f679fb43b1430c25b1930ca3c66] if—
+(2) Articles 213N and 213O also apply in England and Wales and Northern Ireland[^c-2e362f679fb43b1430c25b1930ca3c66] if—
 
 - (a) an application is made under article 213L in respect of property detained under this Part,
 - (b) the court is satisfied that the property is a listed asset,
@@ -48,6 +48,6 @@ References to property being associated with forfeitable property are to be read
 
 ## Annotations
 
-[^key-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
+[^c-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
 
-[^key-2e362f679fb43b1430c25b1930ca3c66]: Textual amendment: Words in [art. 213M(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/213M/2) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [13](https://www.legislation.gov.uk/uksi/2021/638/article/13)
+[^c-2e362f679fb43b1430c25b1930ca3c66]: Textual amendment: Words in [art. 213M(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/213M/2) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [13](https://www.legislation.gov.uk/uksi/2021/638/article/13)

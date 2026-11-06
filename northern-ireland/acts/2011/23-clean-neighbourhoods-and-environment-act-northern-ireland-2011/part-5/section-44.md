@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Amount of fixed penalties[^key-69bfd29dfa70830f870c937ca21d073d][^key-db7065588fbf3c25a3cb4d2c7781664d]
+## 44. Amount of fixed penalties[^c-69bfd29dfa70830f870c937ca21d073d][^c-db7065588fbf3c25a3cb4d2c7781664d]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69bfd29dfa70830f870c937ca21d073d]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2011/23/section/44) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-69bfd29dfa70830f870c937ca21d073d]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2011/23/section/44) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-db7065588fbf3c25a3cb4d2c7781664d]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2011/23/section/44) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-db7065588fbf3c25a3cb4d2c7781664d]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2011/23/section/44) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

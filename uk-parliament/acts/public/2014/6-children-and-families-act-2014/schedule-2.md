@@ -24,9 +24,9 @@ Section 12
 
 ### PART 1 — Amendments of the Children Act 1989
 
-**1.**[^key-ddb8cacf6f5a099f4b3365e4ce756e66] The Children Act 1989 is amended as follows.
+**1.**[^c-ddb8cacf6f5a099f4b3365e4ce756e66] The Children Act 1989 is amended as follows.
 
-**2.**[^key-a1645a2f22c53df4b7e027b508d0fa34] (1) Section 5 (appointment of guardians) is amended as follows.
+**2.**[^c-a1645a2f22c53df4b7e027b508d0fa34] (1) Section 5 (appointment of guardians) is amended as follows.
 
 (2) In subsection (1)(b) (application to court for appointment of guardian may be made following death of person with whom child was to live) for “residence order has been made with respect to the child in favour of a parent, guardian or special guardian of his who” substitute “ parent, guardian or special guardian of the child's was named in a child arrangements order as a person with whom the child was to live and ”.
 
@@ -38,9 +38,9 @@ Section 12
 - (b) for “was also made in favour of” substitute “ also named ”, and
 - (c) after “child” insert “ as a person with whom the child was to live ”.
 
-**3.**[^key-dc278152ad2bb7d28f93c1377a9c3fa7] In the title of section 8 for “Residence, contact” substitute “ Child arrangements orders ”.
+**3.**[^c-dc278152ad2bb7d28f93c1377a9c3fa7] In the title of section 8 for “Residence, contact” substitute “ Child arrangements orders ”.
 
-**4.**[^key-d218b1e34ed332b53fe35380a1d3796a] (1) Section 9 (restrictions on making section 8 orders) is amended as follows.
+**4.**[^c-d218b1e34ed332b53fe35380a1d3796a] (1) Section 9 (restrictions on making section 8 orders) is amended as follows.
 
 (2) In subsection (1) (no section 8 order other than a residence order to be made if child is in care) for “residence order” substitute “ child arrangements order to which subsection (6B) applies ”.
 
@@ -59,7 +59,7 @@ Section 12
 > - (a) with whom the child concerned is to live, and
 > - (b) when the child is to live with any person.
 
-**5.**[^key-21389554d6d5cb0d6f316d868d83a253] (1) Section 10 (power of court to make section 8 orders) is amended as follows.
+**5.**[^c-21389554d6d5cb0d6f316d868d83a253] (1) Section 10 (power of court to make section 8 orders) is amended as follows.
 
 (2) For subsection (4)(b) (person may apply for section 8 order if residence order is in force in favour of the person) substitute—
 
@@ -105,7 +105,7 @@ Section 12
 > - (a) with whom the child concerned is to live, and
 > - (b) when the child is to live with any person.
 
-**6.**[^key-cd5a9070e784f4ed34b21f8306fd7f46] (1) Section 11 (section 8 orders: general principles and supplementary provisions) is amended as follows.
+**6.**[^c-cd5a9070e784f4ed34b21f8306fd7f46] (1) Section 11 (section 8 orders: general principles and supplementary provisions) is amended as follows.
 
 (2) Omit subsection (4) (residence order may make provision about when a child is to live with persons who do not live together).
 
@@ -126,7 +126,7 @@ Section 12
   , and
 - (b) in sub-paragraph (ii) omit “concerned”.
 
-**7.**[^key-53ff8b108141a1355b97fa1c296f4189] (1) Section 11A (contact activity directions) is amended as follows.
+**7.**[^c-53ff8b108141a1355b97fa1c296f4189] (1) Section 11A (contact activity directions) is amended as follows.
 
 (2) For subsections (1) to (3) (power to make directions) substitute—
 
@@ -178,7 +178,7 @@ Section 12
 
 (9) In the title omit “Contact”.
 
-**8.**[^key-19ea1b539a7564e16ee5f8e416e3fc48] (1) Section 11B (further provision about contact activity directions) is amended as follows.
+**8.**[^c-19ea1b539a7564e16ee5f8e416e3fc48] (1) Section 11B (further provision about contact activity directions) is amended as follows.
 
 (2) In subsection (1) (court may not make contact activity direction in proceedings unless there is a dispute about contact)—
 
@@ -201,7 +201,7 @@ Section 12
 
 (7) In the title omit “Contact”.
 
-**9.**[^key-56ab23028657a87613fc5cc101f9ef91] (1) Section 11C (contact activity conditions) is amended as follows.
+**9.**[^c-56ab23028657a87613fc5cc101f9ef91] (1) Section 11C (contact activity conditions) is amended as follows.
 
 (2) In subsection (1) (section applies if court makes certain orders) for paragraphs (a) and (b) substitute—
 
@@ -233,7 +233,7 @@ Section 12
 
 (6) In the title omit “Contact”.
 
-**10.**[^key-c5150030dde031cbc09ec4879d3b1d09] (1) Section 11D (further provision about contact activity conditions) is amended as follows.
+**10.**[^c-c5150030dde031cbc09ec4879d3b1d09] (1) Section 11D (further provision about contact activity conditions) is amended as follows.
 
 (2) In subsection (1) (contact activity condition may not be imposed on child unless child is a parent of the child concerned)—
 
@@ -252,7 +252,7 @@ Section 12
 
 (5) In the title omit “Contact”.
 
-**11.**[^key-392c2963213c69121345c2cabf36f2ef] (1) Section 11E (making of contact activity directions and conditions) is amended as follows.
+**11.**[^c-392c2963213c69121345c2cabf36f2ef] (1) Section 11E (making of contact activity directions and conditions) is amended as follows.
 
 (2) In subsection (1) (court to satisfy itself of matters within subsections (2) to (4))—
 
@@ -263,7 +263,7 @@ Section 12
 
 (4) In the title omit “Contact”.
 
-**12.**[^key-b5e0999a4d65a7c49adcf2b66be99215] (1) Section 11F (contact activity: financial assistance) is amended as follows.
+**12.**[^c-b5e0999a4d65a7c49adcf2b66be99215] (1) Section 11F (contact activity: financial assistance) is amended as follows.
 
 (2) For “a contact activity”, in each place, substitute “ an activity ”.
 
@@ -271,7 +271,7 @@ Section 12
 
 (4) In the title omit “Contact”.
 
-**13.**[^key-d241d1b3d01522898b026fa225523f06] (1) Section 11G (contact activity: monitoring) is amended as follows.
+**13.**[^c-d241d1b3d01522898b026fa225523f06] (1) Section 11G (contact activity: monitoring) is amended as follows.
 
 (2) In subsection (1) for “a contact activity”, in each place, substitute “ an activity ”.
 
@@ -279,7 +279,7 @@ Section 12
 
 (4) In the title omit “Contact”.
 
-**14.**[^key-3b3d662f560a31e228bd2da9732ae82b] (1) Section 11H (monitoring contact) is amended as follows.
+**14.**[^c-3b3d662f560a31e228bd2da9732ae82b] (1) Section 11H (monitoring contact) is amended as follows.
 
 (2) In subsection (1) (section applies if court makes or varies a contact order) for paragraphs (a) and (b) substitute—
 
@@ -314,12 +314,12 @@ Section 12
 
 (8) In the title after “contact” insert “ and shared residence ”.
 
-**15.**[^key-198fa73c33ea80c83943ab2ce5b67387] In section 11I (warning notices to be attached to contact orders and to orders varying contact orders)—
+**15.**[^c-198fa73c33ea80c83943ab2ce5b67387] In section 11I (warning notices to be attached to contact orders and to orders varying contact orders)—
 
 - (a) for “contact”, in each place, substitute “ child arrangements ”, and
 - (b) in the title for “Contact” substitute “ Child arrangements ”.
 
-**16.**[^key-d2334bac78b0d839721ddf6766b79c0f] (1) Section 11J (enforcement orders where contact order not complied with) is amended as follows.
+**16.**[^c-d2334bac78b0d839721ddf6766b79c0f] (1) Section 11J (enforcement orders where contact order not complied with) is amended as follows.
 
 (2) In subsection (1) for “contact” substitute “ child arrangements ”.
 
@@ -335,7 +335,7 @@ Section 12
 
 (6) In subsection (6) for “contact” substitute “ child arrangements ”.
 
-**17.**[^key-183aae635995926648db0daafb25c66a] (1) Section 11K (enforcement orders: further provisions) is amended as follows.
+**17.**[^c-183aae635995926648db0daafb25c66a] (1) Section 11K (enforcement orders: further provisions) is amended as follows.
 
 (2) In subsection (1) (enforcement order not to be made where notice not given under section 11I)—
 
@@ -349,7 +349,7 @@ Section 12
 
 (4) In subsection (3) (enforcement order not to be made where contact order is an excepted order) for “contact order that” substitute “ provision of a child arrangements order where the child arrangements order ”.
 
-**18.**[^key-d46a30ccba77d5540560d3d5e24b2b9a] (1) Section 11L (making of enforcement orders) is amended as follows.
+**18.**[^c-d46a30ccba77d5540560d3d5e24b2b9a] (1) Section 11L (making of enforcement orders) is amended as follows.
 
 (2) In subsection (1) (order must be necessary and its likely effect proportionate)—
 
@@ -361,7 +361,7 @@ Section 12
 
 (4) In subsection (7) for “contact”, in both places, substitute “ child arrangements ”.
 
-**19.**[^key-89057adf691d03be6012deb6e1f71959] (1) Section 11O (compensation for financial loss arising from breach of contact order) is amended as follows.
+**19.**[^c-89057adf691d03be6012deb6e1f71959] (1) Section 11O (compensation for financial loss arising from breach of contact order) is amended as follows.
 
 (2) In subsection (1) for “contact” substitute “ child arrangements ”.
 
@@ -375,7 +375,7 @@ Section 12
 - (b) in paragraphs (a) and (b) for “the person”, in each place, substitute “ a person ”, and
 - (c) in paragraph (c) for “a contact activity” substitute “ an activity ”.
 
-**20.**[^key-570e9e04e5dcb0451825f88364b0ef7f] (1) Section 11P (compensation orders under section 11O(2): further provision) is amended as follows.
+**20.**[^c-570e9e04e5dcb0451825f88364b0ef7f] (1) Section 11P (compensation orders under section 11O(2): further provision) is amended as follows.
 
 (2) In subsection (1) (compensation not to be ordered where notice not given under section 11I)—
 
@@ -389,7 +389,7 @@ Section 12
 
 (4) In subsection (3) (compensation not to be ordered where contact order is an excepted order) for “contact order that” substitute “ provision of a child arrangements order where the child arrangements order ”.
 
-**21.**[^key-8c53acfaa259915a8e6cc6746cee3f8e] (1) Section 12 (residence orders and parental responsibility) is amended as follows.
+**21.**[^c-8c53acfaa259915a8e6cc6746cee3f8e] (1) Section 12 (residence orders and parental responsibility) is amended as follows.
 
 (2) For subsections (1) and (1A) (court making residence order in favour of father without parental responsibility is also to make order giving parental responsibility to the father) substitute—
 
@@ -434,7 +434,7 @@ Section 12
 
 (7) In the title for “Residence” substitute “ Child arrangements ”.
 
-**22.**[^key-a0573135755877dbcbedeb10d4a70d19] (1) Section 13 (effect of residence order on change of child's name or removal from jurisdiction) is amended as follows.
+**22.**[^c-a0573135755877dbcbedeb10d4a70d19] (1) Section 13 (effect of residence order on change of child's name or removal from jurisdiction) is amended as follows.
 
 (2) In subsection (1) (new surname or removal from UK requires consent of all with parental responsibility or leave of court) for “residence order” substitute “ child arrangements order to which subsection (4) applies ”.
 
@@ -449,11 +449,11 @@ Section 12
 > - (a) with whom the child concerned is to live, and
 > - (b) when the child is to live with any person.
 
-**23.**[^key-1c3138dada1b4899df11355cd3e92a38] Omit section 14 (enforcement of residence orders in magistrates' courts).
+**23.**[^c-1c3138dada1b4899df11355cd3e92a38] Omit section 14 (enforcement of residence orders in magistrates' courts).
 
-**24.**[^key-e43a7f266d2f5dabf8bd54bbf58467a8] In section 14A(5) (persons eligible to apply for special guardianship order), in paragraph (b) for the words after “individual” substitute “ who is named in a child arrangements order as a person with whom the child is to live; ”.
+**24.**[^c-e43a7f266d2f5dabf8bd54bbf58467a8] In section 14A(5) (persons eligible to apply for special guardianship order), in paragraph (b) for the words after “individual” substitute “ who is named in a child arrangements order as a person with whom the child is to live; ”.
 
-**25.**[^key-dc493ee7c8707df6806b1ff4fc166dda] (1) Section 14B (making of special guardianship orders) is amended as follows.
+**25.**[^c-dc493ee7c8707df6806b1ff4fc166dda] (1) Section 14B (making of special guardianship orders) is amended as follows.
 
 (2) In subsection (1) (matters for court to consider before making special guardianship order)—
 
@@ -478,9 +478,9 @@ Section 12
 >
 > but in paragraphs (a) and (b) a reference to spending time or otherwise having contact with a person is to doing that otherwise than as a result of living with the person.
 
-**26.**[^key-7753b7da64168089c34bbca187a590cd] In section 14D(1) (persons eligible to apply for variation or discharge of special guardianship order), in paragraph (c) for the words after “individual” substitute “ who is named in a child arrangements order as a person with whom the child is to live; ”.
+**26.**[^c-7753b7da64168089c34bbca187a590cd] In section 14D(1) (persons eligible to apply for variation or discharge of special guardianship order), in paragraph (c) for the words after “individual” substitute “ who is named in a child arrangements order as a person with whom the child is to live; ”.
 
-**27.**[^key-edc8f32af1cd7e56557caeb46edce86c] (1) Section 16 (family assistance orders) is amended as follows.
+**27.**[^c-edc8f32af1cd7e56557caeb46edce86c] (1) Section 16 (family assistance orders) is amended as follows.
 
 (2) In subsection (2)(b) (persons may be named in order if child lives with them or if contact order in their favour is in force) for the words after “living or” substitute “ who is named in a child arrangements order as a person with whom the child is to live, spend time or otherwise have contact ”.
 
@@ -493,25 +493,25 @@ Section 12
 > - (a) with whom a child is to spend time or otherwise have contact, or
 > - (b) when a child is to spend time or otherwise have contact with any person.
 
-**28.**[^key-3ed2c184adb1e507830ea90adf269f5c] For section 20(9)(a) (if accommodation under section 20 provided for child with agreement of person in whose favour a residence order has been made, that agreement overrides objections of a person with parental responsibility) substitute—
+**28.**[^c-3ed2c184adb1e507830ea90adf269f5c] For section 20(9)(a) (if accommodation under section 20 provided for child with agreement of person in whose favour a residence order has been made, that agreement overrides objections of a person with parental responsibility) substitute—
 
 > - (a) who is named in a child arrangements order as a person with whom the child is to live;
 
 .
 
-**29.**[^key-d6c545010e86e8ef678b18fc1f78c58a] In section 22C(3)(c) (where residence order in favour of a person was in force before care order was made, local authority may arrange for the child to live with that person)—
+**29.**[^c-d6c545010e86e8ef678b18fc1f78c58a] In section 22C(3)(c) (where residence order in favour of a person was in force before care order was made, local authority may arrange for the child to live with that person)—
 
 - (a) for “a residence order” substitute “ a child arrangements order ”, and
 - (b) for “in whose favour the residence order was made” substitute “ named in the child arrangements order as a person with whom C was to live ”.
 
-**30.**[^key-125441ba9dbc99f0a6832ebbccf4cd6e] In section 23(4) (persons not referred to as local authority foster parents), in paragraph (c) for the words from “a residence order” to the end substitute “ a child arrangements order in force with respect to the child immediately before the care order was made, a person named in the child arrangements order as a person with whom the child was to live. ”
+**30.**[^c-125441ba9dbc99f0a6832ebbccf4cd6e] In section 23(4) (persons not referred to as local authority foster parents), in paragraph (c) for the words from “a residence order” to the end substitute “ a child arrangements order in force with respect to the child immediately before the care order was made, a person named in the child arrangements order as a person with whom the child was to live. ”
 
-**31.**[^key-f53ea2f7d70df5c0fb7085b94f82f617] In section 34(1)(c) (child in care to be allowed reasonable contact with person in whose favour residence order was in force before care order was made)—
+**31.**[^c-f53ea2f7d70df5c0fb7085b94f82f617] In section 34(1)(c) (child in care to be allowed reasonable contact with person in whose favour residence order was in force before care order was made)—
 
 - (a) for “residence” substitute “ child arrangements ”, and
 - (b) for “the person in whose favour the order was made” substitute “ any person named in the child arrangements order as a person with whom the child was to live ”.
 
-**32.**[^key-f155dbe4f829edb4fd055819fb307c69] (1) Section 38 (interim care or supervision orders) is amended as follows.
+**32.**[^c-f155dbe4f829edb4fd055819fb307c69] (1) Section 38 (interim care or supervision orders) is amended as follows.
 
 (2) In subsection (3) (interim supervision order to be made in certain cases where residence order made in proceedings for a care or supervision order) for “residence order with respect to” substitute “ child arrangements order with respect to the living arrangements of ”.
 
@@ -522,7 +522,7 @@ Section 12
 > - (a) with whom the child is to live, and
 > - (b) when the child is to live with any person.
 
-**33.**[^key-961944fe8ac7bcb633f196409bb0d0ec] (1) Section 41 (representation of child: meaning of “specified proceedings”) is amended as follows.
+**33.**[^c-961944fe8ac7bcb633f196409bb0d0ec] (1) Section 41 (representation of child: meaning of “specified proceedings”) is amended as follows.
 
 (2) In subsection (6)(e) and (h)(ii) (which refer to the making of a residence order) for “residence order with respect to” substitute “ child arrangements order with respect to the living arrangements of ”.
 
@@ -533,25 +533,25 @@ Section 12
 > - (a) with whom the child is to live, and
 > - (b) when the child is to live with any person.
 
-**34.**[^key-66da7e66966b165aa1b8f05b8e20b20f] In section 43(11) (persons to be given notice of application for child assessment order) for paragraph (d) substitute—
+**34.**[^c-66da7e66966b165aa1b8f05b8e20b20f] In section 43(11) (persons to be given notice of application for child assessment order) for paragraph (d) substitute—
 
 > - (d) any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact;
 
 .
 
-**35.**[^key-3277a78e7ab4edce1d1d28139e455a98] In section 44(13) (persons to be allowed reasonable contact with child where emergency protection order made) for paragraph (d) substitute—
+**35.**[^c-3277a78e7ab4edce1d1d28139e455a98] In section 44(13) (persons to be allowed reasonable contact with child where emergency protection order made) for paragraph (d) substitute—
 
 > - (d) any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact;
 
 .
 
-**36.**[^key-e698d85a32acdc713692a7f6fdad2ab2] In section 46(10) (persons to be allowed reasonable contact with child in police protection where that is in child's best interests) for paragraph (d) substitute—
+**36.**[^c-e698d85a32acdc713692a7f6fdad2ab2] In section 46(10) (persons to be allowed reasonable contact with child in police protection where that is in child's best interests) for paragraph (d) substitute—
 
 > - (d) any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact;
 
 .
 
-**37.**[^key-d5133a7108637681995d10895e2a6654] (1) Section 91 (effect and duration of orders etc.) is amended as follows.
+**37.**[^c-d5133a7108637681995d10895e2a6654] (1) Section 91 (effect and duration of orders etc.) is amended as follows.
 
 (2) In subsection (1) (making of residence order discharges care order) for “residence order with respect to” substitute “ child arrangements order with respect to the living arrangements of ”.
 
@@ -576,7 +576,7 @@ Section 12
 > - (a) with whom a child is to live, or
 > - (b) when a child is to live with any person.
 
-**38.**[^key-318fec019b8889fed1b5212828ae4000] (1) Section 105 (interpretation) is amended as follows.
+**38.**[^c-318fec019b8889fed1b5212828ae4000] (1) Section 105 (interpretation) is amended as follows.
 
 (2) In subsection (1) (definitions)—
 
@@ -596,7 +596,7 @@ Section 12
 
 (3) Omit subsection (3) (interpretation of certain references relating to residence orders).
 
-**39.**[^key-8896d8caada6aa3f143ce97cfd67238c] (1) Schedule A1 (enforcement orders) is amended as follows.
+**39.**[^c-8896d8caada6aa3f143ce97cfd67238c] (1) Schedule A1 (enforcement orders) is amended as follows.
 
 (2) In paragraphs 4(1), 5(1), 6(1), 7(1), 8(1) and 9(1) and (11)(a) for “contact” substitute “ provision of a child arrangements ”.
 
@@ -606,7 +606,7 @@ Section 12
 
 (5) In paragraph 9(10)(b) for “contact order and” substitute “ provisions of the child arrangements order and with ”.
 
-**40.**[^key-fe2787d095e1a0e8538403b1780735b1] (1) Schedule 1 (financial provision for children) is amended as follows.
+**40.**[^c-fe2787d095e1a0e8538403b1780735b1] (1) Schedule 1 (financial provision for children) is amended as follows.
 
 (2) In paragraph 1 (power of court to make orders on application of parent, guardian, special guardian or person in whose favour residence order in force)—
 
@@ -638,13 +638,13 @@ Section 12
 
 (4) In paragraph 15 (local authority may contribute to maintenance of child living with person as a result of residence order) for “residence order” substitute “ child arrangements order ”.
 
-**41.**[^key-9e59aceba58eabfef58c876fc269f87d] In Schedule 14, omit paragraph 10 (certain orders made under legislation repealed by the Children Act 1989 to be enforceable under section 14 of that Act).
+**41.**[^c-9e59aceba58eabfef58c876fc269f87d] In Schedule 14, omit paragraph 10 (certain orders made under legislation repealed by the Children Act 1989 to be enforceable under section 14 of that Act).
 
 ### PART 2 — Amendments in other legislation
 
 #### Marriage Act 1949 (c. 76)
 
-**42.**[^key-dfca836c8fa0a4975672e551698e2108] (1) Section 3 of the Marriage Act 1949 (marriage of persons under 18) is amended as follows.
+**42.**[^c-dfca836c8fa0a4975672e551698e2108] (1) Section 3 of the Marriage Act 1949 (marriage of persons under 18) is amended as follows.
 
 (2) In subsection (1A) (persons whose consent is required), in each of paragraphs (d) and (h), for “residence order” substitute “ child arrangements order to which subsection (1C) applies ”.
 
@@ -659,7 +659,7 @@ Section 12
 
 #### Children and Young Persons Act 1969 (c. 54)
 
-**43.**[^key-3c20ae9cfff1ba84d98c2a47cda79146] (1) Section 70 of the Children and Young Persons Act 1969 (interpretation) is amended as follows.
+**43.**[^c-3c20ae9cfff1ba84d98c2a47cda79146] (1) Section 70 of the Children and Young Persons Act 1969 (interpretation) is amended as follows.
 
 (2) In subsection (1A) (“**father**” includes father not married at child's birth to child's mother if there is residence order in father's favour) for paragraph (b) substitute—
 
@@ -671,11 +671,11 @@ Section 12
 
 #### Local Authority Social Services Act 1970 (c. 42)
 
-**44.**[^key-18aa6b09df9bdaa6ae2aa21631dae9c9] In Schedule 1 to the Local Authority Social Services Act 1970 (social services functions), in the second column of the entry for the Children Act 1989, for “residence” substitute “ child arrangements ”.
+**44.**[^c-18aa6b09df9bdaa6ae2aa21631dae9c9] In Schedule 1 to the Local Authority Social Services Act 1970 (social services functions), in the second column of the entry for the Children Act 1989, for “residence” substitute “ child arrangements ”.
 
 #### Domicile and Matrimonial Proceedings Act 1973 (c. 45)
 
-**45.**[^key-2fc94006bec93257cba2ce377bd9332b] (1) Paragraph 11 of Schedule 1 to the Domicile and Matrimonial Proceedings Act 1973 (restrictions on court's powers while matrimonial proceedings are stayed) is amended as follows.
+**45.**[^c-2fc94006bec93257cba2ce377bd9332b] (1) Paragraph 11 of Schedule 1 to the Domicile and Matrimonial Proceedings Act 1973 (restrictions on court's powers while matrimonial proceedings are stayed) is amended as follows.
 
 (2) In sub-paragraph (4A)(b) (contact order in force when proceedings stayed) for “contact” substitute “ child arrangements ”.
 
@@ -683,7 +683,7 @@ Section 12
 
 #### Mental Health Act 1983 (c. 20)
 
-**46.**[^key-63793dc1ccd7cda62ecc5ad08fba2bb9] In section 28(1) of the Mental Health Act 1983 (“nearest relative” of child in respect of whom residence order is in force etc)—
+**46.**[^c-63793dc1ccd7cda62ecc5ad08fba2bb9] In section 28(1) of the Mental Health Act 1983 (“nearest relative” of child in respect of whom residence order is in force etc)—
 
 - (a) in paragraph (b)—
   - (i) for “residence” substitute “ person is named in a child arrangements ”, and
@@ -692,7 +692,7 @@ Section 12
 
 #### Child Abduction Act 1984 (c. 37)
 
-**47.**[^key-e78c478bb68953bcfc3811616b8b47ea] (1) Section 1 of the Child Abduction Act 1984 (offence of abduction of child by connected person without appropriate consent) is amended as follows.
+**47.**[^c-e78c478bb68953bcfc3811616b8b47ea] (1) Section 1 of the Child Abduction Act 1984 (offence of abduction of child by connected person without appropriate consent) is amended as follows.
 
 (2) In subsection (2)(d) (person in whose favour residence order is in force is connected person) for the words after “person” substitute “ named in a child arrangements order as a person with whom the child is to live; or ”.
 
@@ -714,7 +714,7 @@ Section 12
 
 #### Child Abduction and Custody Act 1985 (c. 60)
 
-**48.**[^key-fd86218e9070dfe18e4ea00a520b1270] For paragraph 1(b) of Schedule 3 to the Child Abduction and Custody Act 1985 (orders mentioned in section 27(1) include a residence order) substitute—
+**48.**[^c-fd86218e9070dfe18e4ea00a520b1270] For paragraph 1(b) of Schedule 3 to the Child Abduction and Custody Act 1985 (orders mentioned in section 27(1) include a residence order) substitute—
 
 > - (b) a child arrangements order (as defined by section 8 of the Act of 1989) if the arrangements regulated by the order consist of, or include, arrangements relating to either or both of the following—
 >   - (i) with whom a child is to live, or
@@ -724,9 +724,9 @@ Section 12
 
 #### Family Law Act 1986 (c. 55)
 
-**49.**[^key-54755a80d87c35f3a136ad653683cebe] The Family Law Act 1986 is amended as follows.
+**49.**[^c-54755a80d87c35f3a136ad653683cebe] The Family Law Act 1986 is amended as follows.
 
-**50.**[^key-c6522b2128993e72de9b04cfbf55e19b] (1) Section 5 (which contains references to contact activity directions) is amended as follows.
+**50.**[^c-c6522b2128993e72de9b04cfbf55e19b] (1) Section 5 (which contains references to contact activity directions) is amended as follows.
 
 (2) In subsection (2A)—
 
@@ -735,7 +735,7 @@ Section 12
 
 (3) In subsection (3B) for “a contact” substitute “ an ”.
 
-**51.**[^key-02c30426d7ef555e41b4de48a2b66d60] (1) Section 6 (which includes provision for a family assistance order to cease to have effect where a related residence order is superseded by an order made in Scotland or Northern Ireland) is amended as follows.
+**51.**[^c-02c30426d7ef555e41b4de48a2b66d60] (1) Section 6 (which includes provision for a family assistance order to cease to have effect where a related residence order is superseded by an order made in Scotland or Northern Ireland) is amended as follows.
 
 (2) After subsection (5) insert—
 
@@ -748,7 +748,7 @@ Section 12
 
 #### Child Support Act 1991 (c. 48)
 
-**52.**[^key-e64b823ae8f051634f5df13b88503ba8] For section 3(4)(c) of the Child Support Act 1991 (persons with residence orders in their favour may not be prescribed as persons who are not “persons with care”) substitute—
+**52.**[^c-e64b823ae8f051634f5df13b88503ba8] For section 3(4)(c) of the Child Support Act 1991 (persons with residence orders in their favour may not be prescribed as persons who are not “persons with care”) substitute—
 
 > - (c) persons named, in a child arrangements order under section 8 of the Children Act 1989, as persons with whom a child is to live;
 
@@ -756,33 +756,33 @@ Section 12
 
 #### Armed Forces Act 1991 (c. 62)
 
-**53.**[^key-2f3d9578ea3624496e885768f67724e4] The Armed Forces Act 1991 is amended as follows.
+**53.**[^c-2f3d9578ea3624496e885768f67724e4] The Armed Forces Act 1991 is amended as follows.
 
-**54.**[^key-5947d1eac0c8c1b63b2b4406eb83127a] In section 17(4) (persons who may apply for assessment order) after paragraph (d) insert—
-
-> - (da) any person who is named in a child arrangements order as a person with whom the child is to live, spend time or otherwise have contact;
-
-.
-
-**55.**[^key-d3e0c9cd3aa4972521d403a120a64e37] In section 18(7) (persons who may apply to vary or discharge an assessment order) after paragraph (d) insert—
+**54.**[^c-5947d1eac0c8c1b63b2b4406eb83127a] In section 17(4) (persons who may apply for assessment order) after paragraph (d) insert—
 
 > - (da) any person who is named in a child arrangements order as a person with whom the child is to live, spend time or otherwise have contact;
 
 .
 
-**56.**[^key-4d2b465414279cc6c65de5c5c68a23eb] In section 20(8) (persons who are to be allowed reasonable contact with a child subject to a protection order) after paragraph (c) insert—
+**55.**[^c-d3e0c9cd3aa4972521d403a120a64e37] In section 18(7) (persons who may apply to vary or discharge an assessment order) after paragraph (d) insert—
+
+> - (da) any person who is named in a child arrangements order as a person with whom the child is to live, spend time or otherwise have contact;
+
+.
+
+**56.**[^c-4d2b465414279cc6c65de5c5c68a23eb] In section 20(8) (persons who are to be allowed reasonable contact with a child subject to a protection order) after paragraph (c) insert—
 
 > - (ca) any person who is named in a child arrangements order as a person with whom the child is to live, spend time or otherwise have contact;
 
 .
 
-**57.**[^key-f1dfa3bdbdd720fd1e5b3c645359228f] In section 22A(7) (persons who are to be allowed reasonable contact with a child in service police protection) after paragraph (c) insert—
+**57.**[^c-f1dfa3bdbdd720fd1e5b3c645359228f] In section 22A(7) (persons who are to be allowed reasonable contact with a child in service police protection) after paragraph (c) insert—
 
 > - (ca) any person who is named in a child arrangements order as a person with whom the child is to live, spend time or otherwise have contact,
 
 .
 
-**58.**[^key-cdde338325edc4fb862da0a3263d0772] (1) Section 23(1) (interpretation of Part 3) is amended as follows.
+**58.**[^c-cdde338325edc4fb862da0a3263d0772] (1) Section 23(1) (interpretation of Part 3) is amended as follows.
 
 (2) After the definition of “child” insert—
 
@@ -797,9 +797,9 @@ Section 12
 
 #### Adoption and Children Act 2002 (c. 38)
 
-**59.**[^key-e0e725b87e7a3979847fa383bb311ba5] The Adoption and Children Act 2002 is amended as follows.
+**59.**[^c-e0e725b87e7a3979847fa383bb311ba5] The Adoption and Children Act 2002 is amended as follows.
 
-**60.**[^key-13813b2bb89fa7ab5791ee58512d429f] (1) Section 26 (placement of children by adoption agency for adoption: contact) is amended as follows.
+**60.**[^c-13813b2bb89fa7ab5791ee58512d429f] (1) Section 26 (placement of children by adoption agency for adoption: contact) is amended as follows.
 
 (2) In subsection (1) (provision for contact under the 1989 Act ceases to have effect and any contact activity direction is discharged) for the words from “any provision for contact” to the end substitute
 
@@ -841,7 +841,7 @@ Section 12
 >
 > (6) In this section “**activity direction**” has the meaning given by section 11A of the 1989 Act.
 
-**61.**[^key-2f17bd5a7e933f42dec0847aadd679c5] (1) Section 28 (further consequences of placement) is amended as follows.
+**61.**[^c-2f17bd5a7e933f42dec0847aadd679c5] (1) Section 28 (further consequences of placement) is amended as follows.
 
 (2) In subsection (1)(a) (restrictions on applying for residence order) for “residence order” substitute “ child arrangements order regulating the child's living arrangements ”.
 
@@ -852,7 +852,7 @@ Section 12
 > - (a) with whom the child is to live, and
 > - (b) when the child is to live with any person.
 
-**62.**[^key-b37a3b30f8e9eb465a00bed2bd971509] (1) Section 29 (further consequences of placement orders) is amended as follows.
+**62.**[^c-b37a3b30f8e9eb465a00bed2bd971509] (1) Section 29 (further consequences of placement orders) is amended as follows.
 
 (2) In subsection (3)(a) (residence order etc may not be made if placement order is in force) omit “, residence order”.
 
@@ -868,7 +868,7 @@ Section 12
 > - (a) with whom the child is to live, and
 > - (b) when the child is to live with any person.
 
-**63.**[^key-c27557736b23e847b83644536032d757] (1) Section 32 (recovery of child from placement) is amended as follows.
+**63.**[^c-c27557736b23e847b83644536032d757] (1) Section 32 (recovery of child from placement) is amended as follows.
 
 (2) In subsection (5) (effect of undecided application for residence order etc on duty to return child) for paragraphs (a) and (b) substitute—
 
@@ -890,7 +890,7 @@ Section 12
 > - (a) with whom a child is to live, and
 > - (b) when the child is to live with any person.
 
-**64.**[^key-922bdd878013bfc8d2a4b978fcbe4e97] (1) Section 35 (return of placed child in certain cases) is amended as follows.
+**64.**[^c-922bdd878013bfc8d2a4b978fcbe4e97] (1) Section 35 (return of placed child in certain cases) is amended as follows.
 
 (2) In subsection (5) (effect of undecided application for residence order etc on duty to return child) for paragraphs (b) and (c) substitute—
 
@@ -912,7 +912,7 @@ Section 12
 > - (a) with whom a child is to live, and
 > - (b) when a child is to live with any person.
 
-**65.**[^key-ea150ad22a11004edf95da8bb4dcc4e3] (1) Schedule 6 (glossary) is amended as follows.
+**65.**[^c-ea150ad22a11004edf95da8bb4dcc4e3] (1) Schedule 6 (glossary) is amended as follows.
 
 (2) At the appropriate place insert—
 
@@ -924,7 +924,7 @@ Section 12
 
 #### Civil Partnership Act 2004 (c. 33)
 
-**66.**[^key-1e4491d48f7a94c26b22df22bf7529f4] (1) Schedule 2 to the Civil Partnership Act 2004 (civil partnerships of persons under 18) is amended as follows.
+**66.**[^c-1e4491d48f7a94c26b22df22bf7529f4] (1) Schedule 2 to the Civil Partnership Act 2004 (civil partnerships of persons under 18) is amended as follows.
 
 (2) In paragraph 1 (persons whose consent is required), in each of items 4 and 8 in the first column of the table, for “residence order” substitute “ child arrangements order to which paragraph 2A applies ”.
 
@@ -939,9 +939,9 @@ Section 12
 
 #### Income Tax (Trading and Other Income) Act 2005 (c. 5)
 
-**67.**[^key-8aa2f0f8a75c51b05d515ae779386856] The Income Tax (Trading and Other Income) Act 2005 is amended as follows.
+**67.**[^c-8aa2f0f8a75c51b05d515ae779386856] The Income Tax (Trading and Other Income) Act 2005 is amended as follows.
 
-**68.**[^key-d9f52fb228bbeadef5cb9379f67fb5cc] (1) Section 744 (payments to adopters, etc: England and Wales) is amended as follows.
+**68.**[^c-d9f52fb228bbeadef5cb9379f67fb5cc] (1) Section 744 (payments to adopters, etc: England and Wales) is amended as follows.
 
 (2) In subsection (1)(g) (no income tax on payments under section 17 of the Children Act 1989 made to a person as a result of a residence order being in force in the person's favour) for “in whose favour a residence order with respect to a child is in force” substitute “ named in a child arrangements order as a person with whom a child is to live ”.
 
@@ -955,7 +955,7 @@ Section 12
 
 (6) In subsection (3) (interpretation) for “ “residence” substitute “ “child arrangements”.
 
-**69.**[^key-6c013e734dfd816882c5edfe24513b90] In section 806(5) (persons who are not foster carers for purposes of Chapter 2 of Part 7) after paragraph (b) insert—
+**69.**[^c-6c013e734dfd816882c5edfe24513b90] In section 806(5) (persons who are not foster carers for purposes of Chapter 2 of Part 7) after paragraph (b) insert—
 
 > - (ba) where the child is in care and there was a child arrangements order in force with respect to the child immediately before the care order was made, a person named in the child arrangements order as a person with whom the child was to live,
 > - (bb) (in Scotland) where the child is in care and there was a child arrangements order in force with respect to the child immediately before the child was placed in care, a person named in the child arrangements order as a person with whom the child was to live, spend time or otherwise have contact,
@@ -964,146 +964,146 @@ Section 12
 
 #### Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
 
-**70.**[^key-0ca5aece4a8e8b78a2614dfdb1ae577f] In paragraph 13(1)(c) of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (civil legal services: orders mentioned in section 8(1) of the Children Act 1989) for “residence, contact” substitute “ child arrangements orders ”.
+**70.**[^c-0ca5aece4a8e8b78a2614dfdb1ae577f] In paragraph 13(1)(c) of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (civil legal services: orders mentioned in section 8(1) of the Children Act 1989) for “residence, contact” substitute “ child arrangements orders ”.
 
 ## Annotations
 
-[^key-ddb8cacf6f5a099f4b3365e4ce756e66]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/1) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-ddb8cacf6f5a099f4b3365e4ce756e66]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/1) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-a1645a2f22c53df4b7e027b508d0fa34]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/2) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-a1645a2f22c53df4b7e027b508d0fa34]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/2) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-dc278152ad2bb7d28f93c1377a9c3fa7]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/3) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-dc278152ad2bb7d28f93c1377a9c3fa7]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/3) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-d218b1e34ed332b53fe35380a1d3796a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/4) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-d218b1e34ed332b53fe35380a1d3796a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/4) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-21389554d6d5cb0d6f316d868d83a253]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/5) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-21389554d6d5cb0d6f316d868d83a253]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/5) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-cd5a9070e784f4ed34b21f8306fd7f46]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/6) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-cd5a9070e784f4ed34b21f8306fd7f46]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/6) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-53ff8b108141a1355b97fa1c296f4189]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/7) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-53ff8b108141a1355b97fa1c296f4189]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/7) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-19ea1b539a7564e16ee5f8e416e3fc48]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/8) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-19ea1b539a7564e16ee5f8e416e3fc48]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/8) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-56ab23028657a87613fc5cc101f9ef91]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/9) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-56ab23028657a87613fc5cc101f9ef91]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/9) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-c5150030dde031cbc09ec4879d3b1d09]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/10) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-c5150030dde031cbc09ec4879d3b1d09]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/10) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-392c2963213c69121345c2cabf36f2ef]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/11) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-392c2963213c69121345c2cabf36f2ef]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/11) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-b5e0999a4d65a7c49adcf2b66be99215]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/12) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-b5e0999a4d65a7c49adcf2b66be99215]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/12) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-d241d1b3d01522898b026fa225523f06]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/13) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-d241d1b3d01522898b026fa225523f06]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/13) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-3b3d662f560a31e228bd2da9732ae82b]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/14) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-3b3d662f560a31e228bd2da9732ae82b]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/14) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-198fa73c33ea80c83943ab2ce5b67387]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/15) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-198fa73c33ea80c83943ab2ce5b67387]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/15) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-d2334bac78b0d839721ddf6766b79c0f]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/16) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-d2334bac78b0d839721ddf6766b79c0f]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/16) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-183aae635995926648db0daafb25c66a]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/17) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-183aae635995926648db0daafb25c66a]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/17) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-d46a30ccba77d5540560d3d5e24b2b9a]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/18) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-d46a30ccba77d5540560d3d5e24b2b9a]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/18) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-89057adf691d03be6012deb6e1f71959]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/19) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-89057adf691d03be6012deb6e1f71959]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/19) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-570e9e04e5dcb0451825f88364b0ef7f]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/20) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-570e9e04e5dcb0451825f88364b0ef7f]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/20) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-8c53acfaa259915a8e6cc6746cee3f8e]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/21) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-8c53acfaa259915a8e6cc6746cee3f8e]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/21) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-a0573135755877dbcbedeb10d4a70d19]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/22) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-a0573135755877dbcbedeb10d4a70d19]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/22) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-1c3138dada1b4899df11355cd3e92a38]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/23) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-1c3138dada1b4899df11355cd3e92a38]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/23) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-e43a7f266d2f5dabf8bd54bbf58467a8]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/24) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-e43a7f266d2f5dabf8bd54bbf58467a8]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/24) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-dc493ee7c8707df6806b1ff4fc166dda]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/25) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-dc493ee7c8707df6806b1ff4fc166dda]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/25) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-7753b7da64168089c34bbca187a590cd]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/26) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-7753b7da64168089c34bbca187a590cd]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/26) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-edc8f32af1cd7e56557caeb46edce86c]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/27) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-edc8f32af1cd7e56557caeb46edce86c]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/27) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-3ed2c184adb1e507830ea90adf269f5c]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/28) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-3ed2c184adb1e507830ea90adf269f5c]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/28) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-d6c545010e86e8ef678b18fc1f78c58a]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/29) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-d6c545010e86e8ef678b18fc1f78c58a]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/29) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-125441ba9dbc99f0a6832ebbccf4cd6e]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/30) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-125441ba9dbc99f0a6832ebbccf4cd6e]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/30) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-f53ea2f7d70df5c0fb7085b94f82f617]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/31) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-f53ea2f7d70df5c0fb7085b94f82f617]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/31) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-f155dbe4f829edb4fd055819fb307c69]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/32) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-f155dbe4f829edb4fd055819fb307c69]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/32) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-961944fe8ac7bcb633f196409bb0d0ec]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/33) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-961944fe8ac7bcb633f196409bb0d0ec]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/33) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-66da7e66966b165aa1b8f05b8e20b20f]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/34) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-66da7e66966b165aa1b8f05b8e20b20f]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/34) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-3277a78e7ab4edce1d1d28139e455a98]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/35) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-3277a78e7ab4edce1d1d28139e455a98]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/35) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-e698d85a32acdc713692a7f6fdad2ab2]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/36) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-e698d85a32acdc713692a7f6fdad2ab2]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/36) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-d5133a7108637681995d10895e2a6654]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/37) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-d5133a7108637681995d10895e2a6654]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/37) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-318fec019b8889fed1b5212828ae4000]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/38) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-318fec019b8889fed1b5212828ae4000]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/38) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-8896d8caada6aa3f143ce97cfd67238c]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-8896d8caada6aa3f143ce97cfd67238c]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-fe2787d095e1a0e8538403b1780735b1]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/40) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-fe2787d095e1a0e8538403b1780735b1]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/40) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-9e59aceba58eabfef58c876fc269f87d]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/41) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-9e59aceba58eabfef58c876fc269f87d]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/41) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-dfca836c8fa0a4975672e551698e2108]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/42) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-dfca836c8fa0a4975672e551698e2108]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/42) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-3c20ae9cfff1ba84d98c2a47cda79146]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/43) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-3c20ae9cfff1ba84d98c2a47cda79146]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/43) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-18aa6b09df9bdaa6ae2aa21631dae9c9]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/44) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-18aa6b09df9bdaa6ae2aa21631dae9c9]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/44) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-2fc94006bec93257cba2ce377bd9332b]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/45) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-2fc94006bec93257cba2ce377bd9332b]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/45) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-63793dc1ccd7cda62ecc5ad08fba2bb9]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/46) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-63793dc1ccd7cda62ecc5ad08fba2bb9]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/46) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-e78c478bb68953bcfc3811616b8b47ea]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/47) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-e78c478bb68953bcfc3811616b8b47ea]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/47) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-fd86218e9070dfe18e4ea00a520b1270]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/48) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-fd86218e9070dfe18e4ea00a520b1270]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/48) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-54755a80d87c35f3a136ad653683cebe]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/49) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-54755a80d87c35f3a136ad653683cebe]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/49) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-c6522b2128993e72de9b04cfbf55e19b]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/50) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-c6522b2128993e72de9b04cfbf55e19b]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/50) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-02c30426d7ef555e41b4de48a2b66d60]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/51) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-02c30426d7ef555e41b4de48a2b66d60]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/51) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-e64b823ae8f051634f5df13b88503ba8]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/52) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-e64b823ae8f051634f5df13b88503ba8]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/52) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-2f3d9578ea3624496e885768f67724e4]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/53) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-2f3d9578ea3624496e885768f67724e4]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/53) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-5947d1eac0c8c1b63b2b4406eb83127a]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/54) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-5947d1eac0c8c1b63b2b4406eb83127a]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/54) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-d3e0c9cd3aa4972521d403a120a64e37]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/55) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-d3e0c9cd3aa4972521d403a120a64e37]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/55) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-4d2b465414279cc6c65de5c5c68a23eb]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/56) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-4d2b465414279cc6c65de5c5c68a23eb]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/56) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-f1dfa3bdbdd720fd1e5b3c645359228f]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/57) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-f1dfa3bdbdd720fd1e5b3c645359228f]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/57) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-cdde338325edc4fb862da0a3263d0772]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/58) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-cdde338325edc4fb862da0a3263d0772]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/58) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-e0e725b87e7a3979847fa383bb311ba5]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/59) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-e0e725b87e7a3979847fa383bb311ba5]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/59) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-13813b2bb89fa7ab5791ee58512d429f]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/60) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-13813b2bb89fa7ab5791ee58512d429f]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/60) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-2f17bd5a7e933f42dec0847aadd679c5]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/61) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-2f17bd5a7e933f42dec0847aadd679c5]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/61) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-b37a3b30f8e9eb465a00bed2bd971509]: Commencement: [Sch. 2 para. 62](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/62) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-b37a3b30f8e9eb465a00bed2bd971509]: Commencement: [Sch. 2 para. 62](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/62) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-c27557736b23e847b83644536032d757]: Commencement: [Sch. 2 para. 63](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/63) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-c27557736b23e847b83644536032d757]: Commencement: [Sch. 2 para. 63](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/63) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-922bdd878013bfc8d2a4b978fcbe4e97]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/64) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-922bdd878013bfc8d2a4b978fcbe4e97]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/64) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-ea150ad22a11004edf95da8bb4dcc4e3]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/65) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-ea150ad22a11004edf95da8bb4dcc4e3]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/65) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-1e4491d48f7a94c26b22df22bf7529f4]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/66) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-1e4491d48f7a94c26b22df22bf7529f4]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/66) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-8aa2f0f8a75c51b05d515ae779386856]: Commencement: [Sch. 2 para. 67](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/67) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-8aa2f0f8a75c51b05d515ae779386856]: Commencement: [Sch. 2 para. 67](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/67) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-d9f52fb228bbeadef5cb9379f67fb5cc]: Commencement: [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/68) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-d9f52fb228bbeadef5cb9379f67fb5cc]: Commencement: [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/68) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-6c013e734dfd816882c5edfe24513b90]: Commencement: [Sch. 2 para. 69](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/69) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-6c013e734dfd816882c5edfe24513b90]: Commencement: [Sch. 2 para. 69](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/69) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
 
-[^key-0ca5aece4a8e8b78a2614dfdb1ae577f]: Commencement: [Sch. 2 para. 70](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/70) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-0ca5aece4a8e8b78a2614dfdb1ae577f]: Commencement: [Sch. 2 para. 70](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/70) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)

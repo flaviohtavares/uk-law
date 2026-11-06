@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE   2[^key-9eeeb802e93e788d357d4bce98817670]
+## SCHEDULE   2[^c-9eeeb802e93e788d357d4bce98817670]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ Article 4(2)
 
 ## Annotations
 
-[^key-9eeeb802e93e788d357d4bce98817670]: Textual amendment: Sch. 2 substituted (1.10.2012) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [10](https://www.legislation.gov.uk/nisr/2012/308/article/10), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/308/schedule/1) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))
+[^c-9eeeb802e93e788d357d4bce98817670]: Textual amendment: Sch. 2 substituted (1.10.2012) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [10](https://www.legislation.gov.uk/nisr/2012/308/article/10), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/308/schedule/1) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))

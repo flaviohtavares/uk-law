@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Local pension boards: publication of information[^key-b4a0035f885149d410b949d63f9afa68]
+## 9. Local pension boards: publication of information[^c-b4a0035f885149d410b949d63f9afa68]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4a0035f885149d410b949d63f9afa68]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-b4a0035f885149d410b949d63f9afa68]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

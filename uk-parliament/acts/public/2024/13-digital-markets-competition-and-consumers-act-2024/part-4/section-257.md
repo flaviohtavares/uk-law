@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257. Pre-contract information: additional requirements[^key-9815d9727f45f0a8495f70bb36f3fb06]
+## 257. Pre-contract information: additional requirements[^c-9815d9727f45f0a8495f70bb36f3fb06]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ the trader must give to the consumer a copy of the signed contract immediately a
 
 ## Annotations
 
-[^key-9815d9727f45f0a8495f70bb36f3fb06]: Commencement: S. 257 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9815d9727f45f0a8495f70bb36f3fb06]: Commencement: S. 257 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

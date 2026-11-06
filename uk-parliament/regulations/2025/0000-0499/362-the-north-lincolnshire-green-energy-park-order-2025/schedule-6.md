@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — PRIVATE MEANS OF ACCESS[^key-68539f3a9c0b5567b938408b6fc5e33f]
+## SCHEDULE 6 — PRIVATE MEANS OF ACCESS[^c-68539f3a9c0b5567b938408b6fc5e33f]
 
 *Extent: E+W+S*
 
 Article 17
 
-### PART 1 — PRIVATE MEANS OF ACCESS TO BE CLOSED FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-ad3b66b4d5882405d6103759e4f67365]
+### PART 1 — PRIVATE MEANS OF ACCESS TO BE CLOSED FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-ad3b66b4d5882405d6103759e4f67365]
 
 <table>
 <thead>
@@ -46,7 +46,7 @@ Article 17
 </tbody>
 </table>
 
-### PART 2 — NEW PRIVATE MEANS OF ACCESS CREATED[^key-8883002fdafd91de3431a40e2e8c43f6]
+### PART 2 — NEW PRIVATE MEANS OF ACCESS CREATED[^c-8883002fdafd91de3431a40e2e8c43f6]
 
 <table>
 <thead>
@@ -67,8 +67,8 @@ Article 17
 
 ## Annotations
 
-[^key-68539f3a9c0b5567b938408b6fc5e33f]: Textual amendment: [Sch. 6 heading](https://www.legislation.gov.uk/uksi/2025/362/schedule/6/part/1) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-68539f3a9c0b5567b938408b6fc5e33f]: Textual amendment: [Sch. 6 heading](https://www.legislation.gov.uk/uksi/2025/362/schedule/6/part/1) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
 
-[^key-ad3b66b4d5882405d6103759e4f67365]: Commencement: Sch. 6 Pt. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-ad3b66b4d5882405d6103759e4f67365]: Commencement: Sch. 6 Pt. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-8883002fdafd91de3431a40e2e8c43f6]: Commencement: Sch. 6 Pt. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-8883002fdafd91de3431a40e2e8c43f6]: Commencement: Sch. 6 Pt. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

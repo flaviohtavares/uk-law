@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82.[^key-de79eb8c24e3a90c28a66f8da8c4f536]
+## 82.[^c-de79eb8c24e3a90c28a66f8da8c4f536]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ In regulation 148A [^c24395531](notification of arrival in the United Kingdom of
 
 ## Annotations
 
-[^key-de79eb8c24e3a90c28a66f8da8c4f536]: Commencement: Reg. 82 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-de79eb8c24e3a90c28a66f8da8c4f536]: Commencement: Reg. 82 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395531]: Marginal citation: Inserted by [S.I. 2013/701](https://www.legislation.gov.uk/uksi/2013/701) and amended by [S.I. 2001/574](https://www.legislation.gov.uk/uksi/2001/574), 2014/548 and 2019/59. The amendment made by the last-named instrument is not yet in force and is omitted by this instrument.
 

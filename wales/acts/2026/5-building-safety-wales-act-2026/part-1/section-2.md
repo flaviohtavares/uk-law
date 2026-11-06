@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Meaning of “regulated building”[^key-31b2020dbc211337331ab4a03fe5fcbe]
+## 2. Meaning of “regulated building”[^c-31b2020dbc211337331ab4a03fe5fcbe]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31b2020dbc211337331ab4a03fe5fcbe]: Commencement: S. 2 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)
+[^c-31b2020dbc211337331ab4a03fe5fcbe]: Commencement: S. 2 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)

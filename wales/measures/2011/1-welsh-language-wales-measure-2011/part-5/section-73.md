@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Determination of investigation[^key-84957fcb60f17b10630ff2f157f8192d]
+## 73. Determination of investigation[^c-84957fcb60f17b10630ff2f157f8192d]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84957fcb60f17b10630ff2f157f8192d]: Commencement: [S. 73](https://www.legislation.gov.uk/mwa/2011/1/section/73) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-84957fcb60f17b10630ff2f157f8192d]: Commencement: [S. 73](https://www.legislation.gov.uk/mwa/2011/1/section/73) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

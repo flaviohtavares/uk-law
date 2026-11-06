@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Right to dredge[^key-833d9e9b2455b01b3eb671dfc8bb2497]
+## 17. Right to dredge[^c-833d9e9b2455b01b3eb671dfc8bb2497]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-833d9e9b2455b01b3eb671dfc8bb2497]: Commencement: Art. 17 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-833d9e9b2455b01b3eb671dfc8bb2497]: Commencement: Art. 17 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
 [^f00022]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

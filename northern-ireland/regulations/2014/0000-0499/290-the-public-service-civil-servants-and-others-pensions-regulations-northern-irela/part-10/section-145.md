@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 145. Request for transfer payment to be made[^key-928305a504d5aa7fa00ce99dba7021d4]
+## 145. Request for transfer payment to be made[^c-928305a504d5aa7fa00ce99dba7021d4]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-928305a504d5aa7fa00ce99dba7021d4]: Commencement: [Reg. 145](https://www.legislation.gov.uk/nisr/2014/290/regulation/145) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-928305a504d5aa7fa00ce99dba7021d4]: Commencement: [Reg. 145](https://www.legislation.gov.uk/nisr/2014/290/regulation/145) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

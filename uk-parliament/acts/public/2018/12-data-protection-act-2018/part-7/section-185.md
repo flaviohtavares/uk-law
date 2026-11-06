@@ -31,8 +31,8 @@ summary: ''
 
 (4) In this section, “**data subject access right**” means a right under—
 
-- (a) Article 15 of the UK GDPR[^key-55d404a9f5a64d1bf721098163e73e8c] (right of access by the data subject);
-- (b) Article 20 of the UK GDPR[^key-3e188053ee3dc28fc28c56ca4e8c9040] (right to data portability);
+- (a) Article 15 of the UK GDPR[^c-55d404a9f5a64d1bf721098163e73e8c] (right of access by the data subject);
+- (b) Article 20 of the UK GDPR[^c-3e188053ee3dc28fc28c56ca4e8c9040] (right to data portability);
 - (c) section 45 of this Act (law enforcement processing: right of access by the data subject);
 - (d) section 94 of this Act (intelligence services processing: right of access by the data subject).
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^M_I_3501de68-dfbc-42d0-a589-dfc6c8230757]: Commencement: S. 185 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-55d404a9f5a64d1bf721098163e73e8c]: Textual amendment: Words in s. 185(4)(a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/79) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55d404a9f5a64d1bf721098163e73e8c]: Textual amendment: Words in s. 185(4)(a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/79) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3e188053ee3dc28fc28c56ca4e8c9040]: Textual amendment: Words in s. 185(4)(b) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/79) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e188053ee3dc28fc28c56ca4e8c9040]: Textual amendment: Words in s. 185(4)(b) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/79) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

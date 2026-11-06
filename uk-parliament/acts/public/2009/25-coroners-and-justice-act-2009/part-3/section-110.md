@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Direction of registrar for appeal hearing by live link[^key-49903b413f6bae1caa9d5d624a4ac758]
+## 110. Direction of registrar for appeal hearing by live link[^c-49903b413f6bae1caa9d5d624a4ac758]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 31A of the Criminal Appeal Act 1968 (c. 19) (powers of the Court of A
 
 ## Annotations
 
-[^key-49903b413f6bae1caa9d5d624a4ac758]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2009/25/section/110) in force at 14.12.2009 by [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3253/article/2/c)
+[^c-49903b413f6bae1caa9d5d624a4ac758]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2009/25/section/110) in force at 14.12.2009 by [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3253/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Agreements with owners of land and others for construction of works[^key-1de03e90c1bfb7ade2d24fdff0faa3ef]
+## 16. Agreements with owners of land and others for construction of works[^c-1de03e90c1bfb7ade2d24fdff0faa3ef]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1de03e90c1bfb7ade2d24fdff0faa3ef]: Commencement: Art. 16 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-1de03e90c1bfb7ade2d24fdff0faa3ef]: Commencement: Art. 16 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

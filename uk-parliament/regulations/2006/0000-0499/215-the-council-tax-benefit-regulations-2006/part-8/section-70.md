@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 70. Date of claim where claim sent or delivered to a gateway office[^key-1f48390bdc12d83cf8b7ae8bef9584dc]
+## 70. Date of claim where claim sent or delivered to a gateway office[^c-1f48390bdc12d83cf8b7ae8bef9584dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f48390bdc12d83cf8b7ae8bef9584dc]: Textual amendment: Reg. 70 omitted (1.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/4/5)
+[^c-1f48390bdc12d83cf8b7ae8bef9584dc]: Textual amendment: Reg. 70 omitted (1.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/4/5)

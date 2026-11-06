@@ -34,16 +34,16 @@ An Act to make provision in relation to planning; and for connected purposes.
 
 \[4th May 2011\]
 
-BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-537b3529bd84923589d9469833882020][^key-be3521838ffe9ad5a8f65c61fe42febc][^key-15f7f01957efeb0a2078fdceafc54eef]
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^c-537b3529bd84923589d9469833882020][^c-be3521838ffe9ad5a8f65c61fe42febc][^c-15f7f01957efeb0a2078fdceafc54eef]
 
 ## Contents
 
-### Part 1 — Functions of Department of the Environment with respect to development of land[^key-ce71d1668c2e1805dedffffec4e777cf]
+### Part 1 — Functions of Department of the Environment with respect to development of land[^c-ce71d1668c2e1805dedffffec4e777cf]
 
 - [Section 1 — General functions of Department with respect to development of land](part-1/section-1.md)
 - [Section 2 — Preparation of statement of community involvement by Department](part-1/section-2.md)
 
-### Part 2 — Local development plans[^key-ce71d1668c2e1805dedffffec4e777cf]
+### Part 2 — Local development plans[^c-ce71d1668c2e1805dedffffec4e777cf]
 
 #### General
 
@@ -71,7 +71,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - [Section 21 — Annual monitoring report](part-2/section-21.md)
 - [Section 22 — Regulations](part-2/section-22.md)
 
-### Part 3 — Planning control[^key-2f5f0ed73ae267031cc18d32f95f44b5][^key-ce71d1668c2e1805dedffffec4e777cf]
+### Part 3 — Planning control[^c-2f5f0ed73ae267031cc18d32f95f44b5][^c-ce71d1668c2e1805dedffffec4e777cf]
 
 #### “Development” and requirement of planning permission
 
@@ -160,11 +160,11 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 - [Section 79 — Land belonging to councils and development by councils](part-3/section-79.md)
 
-### Part 4 — Additional planning control[^key-97e39ce414f03726ecb058ab715dd8c1]
+### Part 4 — Additional planning control[^c-97e39ce414f03726ecb058ab715dd8c1]
 
 *Extent: N.I.*
 
-#### Chapter 1 — Listed buildings and conservation areas[^key-5785d75fab88b46bca7625e648919cb3][^key-97e39ce414f03726ecb058ab715dd8c1]
+#### Chapter 1 — Listed buildings and conservation areas[^c-5785d75fab88b46bca7625e648919cb3][^c-97e39ce414f03726ecb058ab715dd8c1]
 
 *Extent: N.I.*
 
@@ -208,7 +208,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 - [Section 107 — Application of Chapter 1, etc., to land and works of councils](part-4/section-107.md)
 
-#### CHAPTER 2 — HAZARDOUS SUBSTANCES[^key-97e39ce414f03726ecb058ab715dd8c1]
+#### CHAPTER 2 — HAZARDOUS SUBSTANCES[^c-97e39ce414f03726ecb058ab715dd8c1]
 
 - [Section 108 — Requirement of hazardous substances consent](part-4/section-108.md)
 - [Section 109 — Applications for hazardous substances consent](part-4/section-109.md)
@@ -224,7 +224,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - [Section 119 — Health and safety requirements](part-4/section-119.md)
 - [Section 120 — Applications by councils for hazardous substances consent](part-4/section-120.md)
 
-#### Chapter 3 — Trees[^key-97e39ce414f03726ecb058ab715dd8c1]
+#### Chapter 3 — Trees[^c-97e39ce414f03726ecb058ab715dd8c1]
 
 - [Section 121 — Planning permission to include appropriate provision for trees](part-4/section-121.md)
 - [Section 122 — Tree preservation orders: councils](part-4/section-122.md)
@@ -241,11 +241,11 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 - [Section 129 — Review of mineral planning permissions](part-4/section-129.md)
 
-#### Chapter 5 — Advertisements[^key-97e39ce414f03726ecb058ab715dd8c1]
+#### Chapter 5 — Advertisements[^c-97e39ce414f03726ecb058ab715dd8c1]
 
 - [Section 130 — Control of advertisements](part-4/section-130.md)
 
-### Part 5 — Enforcement[^key-3a9e71a09b04f54cb4e6ad3c729ef376][^key-2e510eafa4593ec05008815beedc306c]
+### Part 5 — Enforcement[^c-3a9e71a09b04f54cb4e6ad3c729ef376][^c-2e510eafa4593ec05008815beedc306c]
 
 *Extent: N.I.*
 
@@ -356,7 +356,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - [Section 189 — Compensation: failure of consultee to respond under section 229](part-6/section-189.md)
 - [Section 190 — Interpretation of Part 6](part-6/section-190.md)
 
-### Part 7 — Purchase of estates in certain land affected by planning decisions[^key-9a5a21b6c5c0f1985d025a3cc575a083][^key-be4ea9a6b90d9371def5a785045dbc8b]
+### Part 7 — Purchase of estates in certain land affected by planning decisions[^c-9a5a21b6c5c0f1985d025a3cc575a083][^c-be4ea9a6b90d9371def5a785045dbc8b]
 
 *Extent: N.I.*
 
@@ -368,7 +368,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - [Section 196 — Effect of valid purchase notice](part-7/section-196.md)
 - [Section 197 — Special provision as to compensation under this Part](part-7/section-197.md)
 
-### Part 8 — Further provisions as to historic buildings[^key-9dc319adba3ea4d0634396774a60ebaa]
+### Part 8 — Further provisions as to historic buildings[^c-9dc319adba3ea4d0634396774a60ebaa]
 
 - [Section 198 — Historic Buildings Council](part-8/section-198.md)
 - [Section 199 — Grants and loans for preservation or acquisition of listed buildings](part-8/section-199.md)
@@ -376,21 +376,21 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - [Section 201 — Acceptance by Department of endowments in respect of listed buildings](part-8/section-201.md)
 - [Section 202 — Compulsory acquisition of listed buildings](part-8/section-202.md)
 
-### Part 9 — The Planning Appeals Commission[^key-0cc3b54ccea89a9fd90c4f0ad56a0950]
+### Part 9 — The Planning Appeals Commission[^c-0cc3b54ccea89a9fd90c4f0ad56a0950]
 
 - [Section 203 — The Planning Appeals Commission](part-9/section-203.md)
 - [Section 204 — Procedure of appeals commission](part-9/section-204.md)
 - [Section 205 — Power to award costs](part-9/section-205.md)
 - [Section 206 — Orders as to costs: supplementary](part-9/section-206.md)
 
-### Part 10 — Assessment of council's performance or decision making[^key-522eba7433744df826f3bda1f48210a0]
+### Part 10 — Assessment of council's performance or decision making[^c-522eba7433744df826f3bda1f48210a0]
 
 - [Section 207 — Assessment of council's performance](part-10/section-207.md)
 - [Section 208 — Assessment of council's decision making](part-10/section-208.md)
 - [Section 209 — Further provision as respects assessment of performance or decision making](part-10/section-209.md)
 - [Section 210 — Report of assessment](part-10/section-210.md)
 
-### Part 11 — Application of Act to Crown land[^key-522eba7433744df826f3bda1f48210a0]
+### Part 11 — Application of Act to Crown land[^c-522eba7433744df826f3bda1f48210a0]
 
 #### Crown land
 
@@ -406,7 +406,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - [Section 217 — Applications for planning permission, etc. by Crown](part-11/section-217.md)
 - [Section 218 — Service of notices on the Crown](part-11/section-218.md)
 
-### Part 12 — Correction of errors[^key-522eba7433744df826f3bda1f48210a0]
+### Part 12 — Correction of errors[^c-522eba7433744df826f3bda1f48210a0]
 
 **Not yet in force.**
 
@@ -489,30 +489,30 @@ SCHEDULES
 
 ## Annotations
 
-[^key-537b3529bd84923589d9469833882020]: Modification: Act: power to make supplementary and transitional provisions conferred (20.5.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 124(1)(c)](https://www.legislation.gov.uk/nia/2014/8/section/124/1/c), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(c)](https://www.legislation.gov.uk/nisr/2014/142/article/2/c)
+[^c-537b3529bd84923589d9469833882020]: Modification: Act: power to make supplementary and transitional provisions conferred (20.5.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 124(1)(c)](https://www.legislation.gov.uk/nia/2014/8/section/124/1/c), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(c)](https://www.legislation.gov.uk/nisr/2014/142/article/2/c)
 
-[^key-be3521838ffe9ad5a8f65c61fe42febc]: Modification: Act referred to by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 20(7)](https://www.legislation.gov.uk/ukpga/1998/47/section/20/7) (as inserted (26.8.2020) by [Executive Committee (Functions) Act (NorthernIreland) 2020 (c. 4)](https://www.legislation.gov.uk/ukpga/2020/4), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2020/4/section/1/4), [2](https://www.legislation.gov.uk/ukpga/2020/4/section/2))
+[^c-be3521838ffe9ad5a8f65c61fe42febc]: Modification: Act referred to by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 20(7)](https://www.legislation.gov.uk/ukpga/1998/47/section/20/7) (as inserted (26.8.2020) by [Executive Committee (Functions) Act (NorthernIreland) 2020 (c. 4)](https://www.legislation.gov.uk/ukpga/2020/4), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2020/4/section/1/4), [2](https://www.legislation.gov.uk/ukpga/2020/4/section/2))
 
-[^key-15f7f01957efeb0a2078fdceafc54eef]: Modification: [Act](https://www.legislation.gov.uk/nia/2011/25): power to amend or repeal conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-15f7f01957efeb0a2078fdceafc54eef]: Modification: [Act](https://www.legislation.gov.uk/nia/2011/25): power to amend or repeal conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-ce71d1668c2e1805dedffffec4e777cf]: Modification: Pts. 1-3: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-ce71d1668c2e1805dedffffec4e777cf]: Modification: Pts. 1-3: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
 
-[^key-97e39ce414f03726ecb058ab715dd8c1]: Modification: Pt. 4 (except chpts. 1, 2) applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-97e39ce414f03726ecb058ab715dd8c1]: Modification: Pt. 4 (except chpts. 1, 2) applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
 
-[^key-5785d75fab88b46bca7625e648919cb3]: Modification: Pt. 4 chapter 1 (except ss. 92-93 102) applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
+[^c-5785d75fab88b46bca7625e648919cb3]: Modification: Pt. 4 chapter 1 (except ss. 92-93 102) applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
 
-[^key-3a9e71a09b04f54cb4e6ad3c729ef376]: Modification: Pt. 5 applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
+[^c-3a9e71a09b04f54cb4e6ad3c729ef376]: Modification: Pt. 5 applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
 
-[^key-2e510eafa4593ec05008815beedc306c]: Modification: Pt. 5 (except ss. 157-163) applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-2e510eafa4593ec05008815beedc306c]: Modification: Pt. 5 (except ss. 157-163) applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
 
-[^key-9a5a21b6c5c0f1985d025a3cc575a083]: Modification: Pt. 7 (except s. 192) applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
+[^c-9a5a21b6c5c0f1985d025a3cc575a083]: Modification: Pt. 7 (except s. 192) applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
 
-[^key-be4ea9a6b90d9371def5a785045dbc8b]: Modification: [Pt. 7](https://www.legislation.gov.uk/nia/2011/25/part/7): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-be4ea9a6b90d9371def5a785045dbc8b]: Modification: [Pt. 7](https://www.legislation.gov.uk/nia/2011/25/part/7): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-9dc319adba3ea4d0634396774a60ebaa]: Modification: [Pt. 8](https://www.legislation.gov.uk/nia/2011/25/part/8): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-9dc319adba3ea4d0634396774a60ebaa]: Modification: [Pt. 8](https://www.legislation.gov.uk/nia/2011/25/part/8): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-0cc3b54ccea89a9fd90c4f0ad56a0950]: Modification: [Pt. 9](https://www.legislation.gov.uk/nia/2011/25/part/9): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/5) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-0cc3b54ccea89a9fd90c4f0ad56a0950]: Modification: [Pt. 9](https://www.legislation.gov.uk/nia/2011/25/part/9): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/5) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-522eba7433744df826f3bda1f48210a0]: Modification: [Pts. 10-12](https://www.legislation.gov.uk/nia/2011/25/part/10): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-522eba7433744df826f3bda1f48210a0]: Modification: [Pts. 10-12](https://www.legislation.gov.uk/nia/2011/25/part/10): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 272. Warrants (general provisions)[^key-7ec5033cf4009873fe625793174cecff]
+## 272. Warrants (general provisions)[^c-7ec5033cf4009873fe625793174cecff]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ec5033cf4009873fe625793174cecff]: Commencement: [Rule 272](https://www.legislation.gov.uk/uksi/2011/1301/rule/272) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-7ec5033cf4009873fe625793174cecff]: Commencement: [Rule 272](https://www.legislation.gov.uk/uksi/2011/1301/rule/272) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

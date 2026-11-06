@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## F5. Notice of election[^key-d137e54715c5f31d8c031ffdd6f53255]
+## F5. Notice of election[^c-d137e54715c5f31d8c031ffdd6f53255]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d137e54715c5f31d8c031ffdd6f53255]: Commencement: [Reg. F5](https://www.legislation.gov.uk/uksi/1986/24/regulation/F5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-d137e54715c5f31d8c031ffdd6f53255]: Commencement: [Reg. F5](https://www.legislation.gov.uk/uksi/1986/24/regulation/F5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

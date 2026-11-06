@@ -32,7 +32,7 @@ summary: ''
 
 - (a) must be in writing;
 - (b) may be general or specific;
-- (c) may, in addition to any conditions required by this Order, be made subject to such conditions as the person granting the licence considers necessary to control avian influenza or influenza of avian origin[^key-a16f78807ed26bcbce6f6a81950a7455]; and
+- (c) may, in addition to any conditions required by this Order, be made subject to such conditions as the person granting the licence considers necessary to control avian influenza or influenza of avian origin[^c-a16f78807ed26bcbce6f6a81950a7455]; and
 - (d) may be amended, suspended or revoked, in writing, at any time.
 
 (3) Notices under this Order—
@@ -52,7 +52,7 @@ summary: ''
 
 (6) Licences granted in Scotland or England for activities which could be licensed in Wales under this Order have effect in Wales as if they were licences granted under this Order but an inspector acting under the direction of the National Assembly may serve a notice on any person moving any thing under the authority of such a licence, directing him or her to move it or to keep it on premises specified in the notice or move it out of Wales.
 
-(7) Premises in Scotland, England and Northern Ireland designated respectively by the Scottish Ministers, the Department for Environment Food and Rural Affairs or by the Department of Agriculture, Environment and Rural Affairs, Northern Ireland[^key-2a4063bdfbd3e9bbfb397eeea6b1b85e] for the same purposes as they may be designated under this Order are deemed to be designated by the National Assembly for the purposes of this Order.
+(7) Premises in Scotland, England and Northern Ireland designated respectively by the Scottish Ministers, the Department for Environment Food and Rural Affairs or by the Department of Agriculture, Environment and Rural Affairs, Northern Ireland[^c-2a4063bdfbd3e9bbfb397eeea6b1b85e] for the same purposes as they may be designated under this Order are deemed to be designated by the National Assembly for the purposes of this Order.
 
 (8) A person moving anything under the authority of a specific licence granted under this Order must—
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a16f78807ed26bcbce6f6a81950a7455]: Textual amendment: Words in [art. 4(2)(c)](https://www.legislation.gov.uk/wsi/2006/2927/article/4/2/c) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [5](https://www.legislation.gov.uk/wsi/2025/1357/article/5)
+[^c-a16f78807ed26bcbce6f6a81950a7455]: Textual amendment: Words in [art. 4(2)(c)](https://www.legislation.gov.uk/wsi/2006/2927/article/4/2/c) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [5](https://www.legislation.gov.uk/wsi/2025/1357/article/5)
 
-[^key-2a4063bdfbd3e9bbfb397eeea6b1b85e]: Textual amendment: Words in art. 4(7) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [29(4)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/29/4)
+[^c-2a4063bdfbd3e9bbfb397eeea6b1b85e]: Textual amendment: Words in art. 4(7) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [29(4)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/29/4)

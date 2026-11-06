@@ -53,7 +53,7 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by sections 445 and 459(2) of the Proceeds of Crime Act 2002[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:
 
-## 1. Citation, commencement and extent[^key-0c7e15c1588f738b4199702c3cfb8480]
+## 1. Citation, commencement and extent[^c-0c7e15c1588f738b4199702c3cfb8480]
 
 This Order—
 
@@ -61,7 +61,7 @@ This Order—
 - (b) comes into force on 16th March 2015; and
 - (c) extends to Scotland only.
 
-## 2. Interpretation[^key-b369a01ada05a93c52faa60580eabadc]
+## 2. Interpretation[^c-b369a01ada05a93c52faa60580eabadc]
 
 (1) In this Order—
 
@@ -87,7 +87,7 @@ This Order—
   - (i) any vehicle, vessel, aircraft or hovercraft,
   - (ii) any offshore installation within the meaning of section 12(1) of the Mineral Workings (Offshore Installations) Act 1971[^f00002] and any tent or moveable structure.
 
-## 3. Scope of the Order[^key-1d1be0372799a0aad5fee46fedd3488c]
+## 3. Scope of the Order[^c-1d1be0372799a0aad5fee46fedd3488c]
 
 (1) This Order has effect for the purpose of enabling the Lord Advocate and procurator fiscal to assist an external investigation by obtaining orders and warrants from the court.
 
@@ -102,13 +102,13 @@ This Order—
 - (a) The High Court of Justiciary in relation to applications for disclosure orders;
 - (b) The sheriff in relation to applications for production orders, search warrants, customer information orders and account monitoring orders.
 
-## 4. Action on receipt of a request in relation to an external investigation[^key-da9dad0c09f8b45c8e665bb88b5e4b04]
+## 4. Action on receipt of a request in relation to an external investigation[^c-da9dad0c09f8b45c8e665bb88b5e4b04]
 
 (1) The Secretary of State may refer to the Lord Advocate a request for assistance in relation to an external investigation.
 
 (2) The Lord Advocate or procurator fiscal may, on receipt of the request for assistance, act under this Order.
 
-## 5. Offences of prejudicing an external investigation[^key-f67c7fb963e658ea45d3d311a2892fc1]
+## 5. Offences of prejudicing an external investigation[^c-f67c7fb963e658ea45d3d311a2892fc1]
 
 (1) This article applies if a person knows or suspects that a constable is acting (or proposing to act) in connection with an external investigation.
 
@@ -151,7 +151,7 @@ This Order—
 
 ## PART 1 — Production orders
 
-### 6. Production orders[^key-b359af0c381e066dcab457fe844ea3c9]
+### 6. Production orders[^c-b359af0c381e066dcab457fe844ea3c9]
 
 (1) The sheriff may, on an application made to the sheriff by the procurator fiscal, make a production order if the sheriff is satisfied that each of the requirements for the making of the order is fulfilled.
 
@@ -171,7 +171,7 @@ within the period stated in the order.
 
 (4) The period stated in a production order must be a period of seven days beginning with the day on which the order is made, unless it appears to the sheriff that a longer or shorter period would be appropriate in the particular circumstances.
 
-### 7. Requirements for making of production order[^key-19efb6b5e17f68cec203b60b3a61865b]
+### 7. Requirements for making of production order[^c-19efb6b5e17f68cec203b60b3a61865b]
 
 (1) These are the requirements for the making of a production order.
 
@@ -185,7 +185,7 @@ within the period stated in the order.
   - (i) the benefit likely to accrue to the external investigation if the material is obtained;
   - (ii) the circumstances under which the person the application specifies as appearing to be in possession or control of the material holds it.
 
-### 8. Order to grant entry[^key-11824681472fd7a3a8513d5c7e86f0d1]
+### 8. Order to grant entry[^c-11824681472fd7a3a8513d5c7e86f0d1]
 
 (1) This article applies if a sheriff makes a production order requiring a person to give a constable access to material on any premises.
 
@@ -193,7 +193,7 @@ within the period stated in the order.
 
 (3) An order to grant entry is an order requiring any person who appears to the procurator fiscal to be entitled to grant entry to the premises to allow a constable to enter the premises to obtain access to the material.
 
-### 9. Further provisions[^key-fa60a6bf352284c709360d68263cc9e4]
+### 9. Further provisions[^c-fa60a6bf352284c709360d68263cc9e4]
 
 (1) A production order does not require a person to produce, or give access to, any items subject to legal privilege.
 
@@ -212,7 +212,7 @@ it may be retained until the proceedings are concluded.
 
 (6) Material produced in compliance with a production order must be sent to the Secretary of State for forwarding to the overseas authority that made the request for assistance.
 
-### 10. Computer information[^key-7000a8ccd186d65bf8504a9c5caabbb9]
+### 10. Computer information[^c-7000a8ccd186d65bf8504a9c5caabbb9]
 
 (1) This article applies if any of the material specified in an application for a production order consists of information contained in a computer.
 
@@ -223,7 +223,7 @@ it may be retained until the proceedings are concluded.
 
 (3) If the order requires a person to give a constable access to the material, it has effect as an order to give the constable access to the material in a form in which it is visible and legible.
 
-### 11. Government departments[^key-41e024de5c8510ed3e59b1e092a24384]
+### 11. Government departments[^c-41e024de5c8510ed3e59b1e092a24384]
 
 (1) A production order may be made in relation to material in the possession or control of an authorised government department.
 
@@ -238,7 +238,7 @@ it may be retained until the proceedings are concluded.
 
 (5) An “authorised government department” includes a government department which is an authorised department for the purposes of the Crown Proceedings Act 1947[^f00004] and the Scottish Administration.
 
-### 12. Supplementary[^key-a6e7b3d1ea5f518a6be0cf337548e497]
+### 12. Supplementary[^c-a6e7b3d1ea5f518a6be0cf337548e497]
 
 (1) An application for a production order or an order to grant entry may be made *ex parte* to a sheriff in chambers.
 
@@ -254,7 +254,7 @@ it may be retained until the proceedings are concluded.
 
 ## PART 2 — Search warrants
 
-### 13. Search warrants[^key-0a747b90a8df6cdebb74cdececc98166]
+### 13. Search warrants[^c-0a747b90a8df6cdebb74cdececc98166]
 
 (1) The sheriff may, on an application made to the sheriff by the procurator fiscal, issue a search warrant if the sheriff is satisfied—
 
@@ -281,7 +281,7 @@ it may be retained until the proceedings are concluded.
 
 (6) An application for a search warrant may be made *ex parte* to a sheriff in chambers.
 
-### 14. Requirements where production order not available[^key-0a662d25f80d97b71f97025ea51a788c]
+### 14. Requirements where production order not available[^c-0a662d25f80d97b71f97025ea51a788c]
 
 (1) This article is satisfied in relation to a search warrant if—
 
@@ -317,7 +317,7 @@ it may be retained until the proceedings are concluded.
 - (b) that entry to the premises will not be granted unless a warrant is produced; and
 - (c) that the external investigation might be seriously prejudiced unless a constable arriving at the premises is able to secure immediate entry to them.
 
-### 15. Further provisions: general[^key-ccf7e43187bb0a4b85afebc64314fb2b]
+### 15. Further provisions: general[^c-ccf7e43187bb0a4b85afebc64314fb2b]
 
 (1) This article applies to—
 
@@ -355,7 +355,7 @@ it may be retained until the proceedings are concluded.
 
 ## PART 3 — Disclosure orders
 
-### 16. Disclosure orders[^key-1d27eb68c2bca8aa0598fc94296e4647]
+### 16. Disclosure orders[^c-1d27eb68c2bca8aa0598fc94296e4647]
 
 (1) The High Court of Justiciary, on an application made to it by the Lord Advocate, may make a disclosure order if it is satisfied that each of the requirements for the making of the order is fulfilled.
 
@@ -374,7 +374,7 @@ it may be retained until the proceedings are concluded.
 
 (5) A person is not bound to comply with a requirement imposed by a notice given under a disclosure order unless evidence of authority to give the notice is produced to them.
 
-### 17. Requirements for making of disclosure order[^key-ff1c656e2973151eea1b3deba8d80734]
+### 17. Requirements for making of disclosure order[^c-ff1c656e2973151eea1b3deba8d80734]
 
 (1) These are the requirements for the making of a disclosure order.
 
@@ -385,7 +385,7 @@ it may be retained until the proceedings are concluded.
 - (a) information which may be provided in compliance with a requirement imposed under the order is likely to be of substantial value (whether or not by itself) to the external investigation; and
 - (b) it is in the public interest for the information to be provided, having regard to the benefit likely to accrue to the external investigation if the information is obtained.
 
-### 18. Offences[^key-3ba9713812a2743e584663b672be2453]
+### 18. Offences[^c-3ba9713812a2743e584663b672be2453]
 
 (1) A person commits an offence if, without reasonable excuse they fail to comply with a requirement imposed on them under a disclosure order.
 
@@ -405,7 +405,7 @@ it may be retained until the proceedings are concluded.
 - (a) on summary conviction, to imprisonment for a term not exceeding twelve months or to a fine not exceeding the statutory maximum or to both; or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine or to both.
 
-### 19. Statements[^key-2ea6bae127bfd97449a2322b9671118f]
+### 19. Statements[^c-2ea6bae127bfd97449a2322b9671118f]
 
 (1) A statement made by a person in response to a requirement imposed on them under a disclosure order may not be used in evidence against them in criminal proceedings.
 
@@ -425,7 +425,7 @@ it may be retained until the proceedings are concluded.
 
 by them or on their behalf in the proceedings arising out of the prosecution.
 
-### 20. Further provisions[^key-f4a72142794dc45ba418341c8443273b]
+### 20. Further provisions[^c-f4a72142794dc45ba418341c8443273b]
 
 (1) A disclosure order does not confer the right to require a person to answer any question, provide any information or produce any document, which they would be entitled to refuse to answer, provide or produce on grounds of legal privilege.
 
@@ -444,7 +444,7 @@ the documents may be retained until the proceedings are concluded.
 
 (6) Material produced in compliance with a disclosure order must be sent to the Secretary of State for forwarding to the overseas authority that made the request for assistance.
 
-### 21. Supplementary[^key-e665bc00684cb7012bbe3a1dc5a6888f]
+### 21. Supplementary[^c-e665bc00684cb7012bbe3a1dc5a6888f]
 
 (1) An application for a disclosure order may be made *ex parte* to a judge of the High Court of Justiciary in chambers.
 
@@ -460,7 +460,7 @@ the documents may be retained until the proceedings are concluded.
 
 ## PART 4 — Customer information orders
 
-### 22. Customer information orders[^key-db22c2fa27b9f5c544825fbe9ab44525]
+### 22. Customer information orders[^c-db22c2fa27b9f5c544825fbe9ab44525]
 
 (1) The sheriff may, on an application made to the sheriff by the procurator fiscal, make a customer information order if the sheriff is satisfied that each of the requirements for the making of the order is fulfilled.
 
@@ -482,36 +482,36 @@ the documents may be retained until the proceedings are concluded.
 
 (6) If a financial institution on which a requirement is imposed by a notice given under a customer information order requires the production of evidence of authority to give the notice, it is not bound to comply with the requirement unless evidence of the authority has been produced to it.
 
-### 23. Meaning of customer information[^key-9f67db26e5681c2fdaa1450eceeaa102]
+### 23. Meaning of customer information[^c-9f67db26e5681c2fdaa1450eceeaa102]
 
-(1) “Customer information”, in relation to a person and a financial institution, is information whether the person holds, or has held, an account or accounts or any safe deposit box[^key-6055c9b065c78c782e89c897a385ff78] at the financial institution (whether solely or jointly with another) and (if so) information as to—
+(1) “Customer information”, in relation to a person and a financial institution, is information whether the person holds, or has held, an account or accounts or any safe deposit box[^c-6055c9b065c78c782e89c897a385ff78] at the financial institution (whether solely or jointly with another) and (if so) information as to—
 
 - (a) the matters specified in paragraph (2) if the person is an individual;
 - (b) the matters specified in paragraph (3) if the person is an unincorporated association, a company or limited liability partnership or a similar body incorporated or otherwise established outside the United Kingdom.
 
 (2) The matters referred to in paragraph (1)(a) are—
 
-- (a) the account number or numbers or the number of any safe deposit box[^key-7e19ba9df3277b2729ea9bd565d20980];
+- (a) the account number or numbers or the number of any safe deposit box[^c-7e19ba9df3277b2729ea9bd565d20980];
 - (b) the person’s full name;
 - (c) the person’s date of birth;
 - (d) the person’s most recent address and any previous addresses;
-- (e) in the case of an account or accounts,[^key-110285f72873a6dc2a8cb4ef7baede38] the date or dates on which they began to hold the account or accounts and, if they have ceased to hold the account or any of the accounts, the date or dates on which they did so;
-- (ea)[^key-e11d989200208af213c9b698dddc98af] in the case of any safe deposit box, the date on which the box was made available to them and if the box has ceased to be available to them the date on which it so ceased;
+- (e) in the case of an account or accounts,[^c-110285f72873a6dc2a8cb4ef7baede38] the date or dates on which they began to hold the account or accounts and, if they have ceased to hold the account or any of the accounts, the date or dates on which they did so;
+- (ea)[^c-e11d989200208af213c9b698dddc98af] in the case of any safe deposit box, the date on which the box was made available to them and if the box has ceased to be available to them the date on which it so ceased;
 - (f) such evidence of identity as was obtained by the financial institution under or for the purposes of any legislation relating to money laundering;
 - (g) the full name, date of birth and most recent address, and any previous addresses, of any person who holds, or has held, an account at the financial institution jointly with them;
 - (h) the account number or numbers of any other account or accounts held at the financial institution to which the person is a signatory and details of the person holding the other account or accounts.
 
 (3) The matters referred to in paragraph (1)(b) are—
 
-- (a) the account number or numbers or the number of any safe deposit box[^key-ac6ce8a7f85b2f112d5beccd170f79bf];
+- (a) the account number or numbers or the number of any safe deposit box[^c-ac6ce8a7f85b2f112d5beccd170f79bf];
 - (b) the person’s full name;
 - (c) a description of any business which the person carries on;
 - (d) the country or territory in which it is incorporated or otherwise established and any number allocated to it under the Companies Act 2006[^f00006] or corresponding legislation of any country or territory outside the United Kingdom;
 - (e) any number assigned to it for the purposes of value added tax in the United Kingdom;
 - (f) its registered office, and any previous registered offices, under the Companies Act 2006 (or corresponding earlier legislation) or anything similar under corresponding legislation of any country or territory outside the United Kingdom;
 - (g) its registered office, and any previous registered offices, under the Limited Liability Partnerships Act 2000[^f00007] or anything similar under corresponding legislation of any country or territory outside Great Britain;
-- (h) in the case of an account or accounts,[^key-80886d94eed6b6bed3a6d87fef510e7b] the date or dates on which it began to hold the account or accounts and, if it has ceased to hold the account or any of the accounts, the date or dates on which it did so;
-- (ha)[^key-f19931bf2a5e7e1308f4c669fed40007] in the case of any safe deposit box, the date on which the box was made available to it and if the box has ceased to be available to it the date on which it so ceased;
+- (h) in the case of an account or accounts,[^c-80886d94eed6b6bed3a6d87fef510e7b] the date or dates on which it began to hold the account or accounts and, if it has ceased to hold the account or any of the accounts, the date or dates on which it did so;
+- (ha)[^c-f19931bf2a5e7e1308f4c669fed40007] in the case of any safe deposit box, the date on which the box was made available to it and if the box has ceased to be available to it the date on which it so ceased;
 - (i) such evidence of identity as was obtained by the financial institution under or for the purposes of any legislation relating to money laundering;
 - (j) the full name, date of birth and most recent address and any previous addresses of any person who is a signatory to the account or any of the accounts.
 
@@ -521,9 +521,9 @@ the documents may be retained until the proceedings are concluded.
 - (b) constitutes an offence specified in section 415(1A) of the Act[^f00009]; or
 - (c) would constitute an offence specified in paragraph (a) or (b) if done in the United Kingdom.
 
-(5)[^key-13ddc6dad5a715b364a90df1c4942f89] A “**safe deposit box**” includes any procedure under which a financial institution provides a facility to hold items for safe keeping on behalf of another person.
+(5)[^c-13ddc6dad5a715b364a90df1c4942f89] A “**safe deposit box**” includes any procedure under which a financial institution provides a facility to hold items for safe keeping on behalf of another person.
 
-### 24. Requirements for making of customer information order[^key-f9c987f2e746012bd8b0bf17ce303cc5]
+### 24. Requirements for making of customer information order[^c-f9c987f2e746012bd8b0bf17ce303cc5]
 
 (1) These are the requirements for the making of a customer information order.
 
@@ -534,7 +534,7 @@ the documents may be retained until the proceedings are concluded.
 - (a) customer information which may be provided in compliance with the order is likely to be of substantial value (whether or not by itself) to the external investigation; and
 - (b) it is in the public interest for the customer information to be provided, having regard to the benefit likely to accrue to the external investigation if the information is obtained.
 
-### 25. Offences[^key-c975064f556c88489b62311b6d776053]
+### 25. Offences[^c-c975064f556c88489b62311b6d776053]
 
 (1) A financial institution commits an offence if without reasonable excuse it fails to comply with a requirement imposed on it under a customer information order.
 
@@ -550,7 +550,7 @@ the documents may be retained until the proceedings are concluded.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-### 26. Statements[^key-5c9fbd0cffe8160834997f39254f400a]
+### 26. Statements[^c-5c9fbd0cffe8160834997f39254f400a]
 
 (1) A statement made by a financial institution in response to a customer information order may not be used in evidence against it in criminal proceedings.
 
@@ -568,11 +568,11 @@ the documents may be retained until the proceedings are concluded.
 
 by or on behalf of the financial institution in the proceedings arising out of the prosecution.
 
-### 27. Disclosure of information[^key-811c92e35f855776fd3556e44d252623]
+### 27. Disclosure of information[^c-811c92e35f855776fd3556e44d252623]
 
 A customer information order has effect in spite of any restriction on the disclosure of information (however imposed).
 
-### 28. Supplementary[^key-5327d7a0cfbd334de79b1b6fc1943c8f]
+### 28. Supplementary[^c-5327d7a0cfbd334de79b1b6fc1943c8f]
 
 (1) An application for a customer information order may be made *ex parte* to a sheriff in chambers.
 
@@ -588,7 +588,7 @@ A customer information order has effect in spite of any restriction on the discl
 
 ## PART 5 — Account monitoring orders
 
-### 29. Account monitoring orders[^key-1af0e2a3c820d76a86dee22ae4e70666]
+### 29. Account monitoring orders[^c-1af0e2a3c820d76a86dee22ae4e70666]
 
 (1) The sheriff may, on an application made to the sheriff by the procurator fiscal, make an account monitoring order if the sheriff is satisfied that each of the requirements for the making of the order is fulfilled.
 
@@ -610,7 +610,7 @@ A customer information order has effect in spite of any restriction on the discl
 
 (6) The period stated in an account monitoring order must not exceed the period of 90 days beginning with the day on which the order is made.
 
-### 30. Requirements for making of account monitoring order[^key-417bfb25dbc45d4777ece967d245b9bf]
+### 30. Requirements for making of account monitoring order[^c-417bfb25dbc45d4777ece967d245b9bf]
 
 (1) These are the requirements for the making of an account monitoring order.
 
@@ -621,7 +621,7 @@ A customer information order has effect in spite of any restriction on the discl
 - (a) account information which may be provided in compliance with the order is likely to be of substantial value (whether or not by itself) to the external investigation; and
 - (b) it is in the public interest for the account information to be provided, having regard to the benefit likely to accrue to the external investigation if the information is obtained.
 
-### 31. Statements[^key-8ad80ded037f40854694f85cf6de4866]
+### 31. Statements[^c-8ad80ded037f40854694f85cf6de4866]
 
 (1) A statement made by a financial institution in response to an account monitoring order may not be used in evidence against it in criminal proceedings.
 
@@ -638,15 +638,15 @@ A customer information order has effect in spite of any restriction on the discl
 
 by or on behalf of the financial institution in the proceedings arising out of the prosecution.
 
-### 32. Applications[^key-4525edd6c3c82c3db71872422c1f47fe]
+### 32. Applications[^c-4525edd6c3c82c3db71872422c1f47fe]
 
 An application for an account monitoring order may be made *ex parte* to a sheriff in chambers.
 
-### 33. Disclosure of information[^key-28511d25d91d510c3c877e48f460eb6f]
+### 33. Disclosure of information[^c-28511d25d91d510c3c877e48f460eb6f]
 
 An account monitoring order has effect in spite of any restriction on the disclosure of information (however imposed).
 
-### 34. Supplementary[^key-8112c0a77017415f887fb08f54aaee44]
+### 34. Supplementary[^c-8112c0a77017415f887fb08f54aaee44]
 
 (1) An application to discharge or vary an account monitoring order may be made to the sheriff by—
 
@@ -660,7 +660,7 @@ An account monitoring order has effect in spite of any restriction on the disclo
 
 ## PART 6 — Codes of Practice
 
-### 35. Codes of Practice[^key-a9051ab1e485126fcd26104ca803e822]
+### 35. Codes of Practice[^c-a9051ab1e485126fcd26104ca803e822]
 
 The Code of Practice issued under the Proceeds of Crime Act 2002 (Investigations: Code of Practice) (Scotland) Order 2009[^f00010] applies to the powers conferred by this Order as it applies to the powers conferred by Chapter 3 of Part 8 of the Act in relation to confiscation investigations.
 
@@ -734,106 +734,106 @@ An impact assessment has not been produced for this Order as no impact on the pr
 
 [^f00001]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29); section 445(2)(b) was amended by article 12 of, paragraphs 47 and 71 of Schedule 14 to, [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976), section 74 of, paragraphs 121 and 139 in Part 6 of Schedule 8 to, the Serious Crime Act [2007 (c.27)](https://www.legislation.gov.uk/ukpga/2007/27), and section 15 of, paragraphs 108 and 150 in Part 2 of Schedule 8 to, the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22). In accordance with section 459(7) of the Proceeds of Crime Act 2002, a copy of this Order will be laid before the Scottish Parliament.
 
-[^key-0c7e15c1588f738b4199702c3cfb8480]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/206/article/1) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-0c7e15c1588f738b4199702c3cfb8480]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/206/article/1) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-b369a01ada05a93c52faa60580eabadc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/206/article/2) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-b369a01ada05a93c52faa60580eabadc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/206/article/2) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
 [^f00002]: Footnote: [1971 c.61](https://www.legislation.gov.uk/ukpga/1971/61); the definition of “offshore installation” was substituted by the [Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995/738](https://www.legislation.gov.uk/uksi/1995/738).
 
-[^key-1d1be0372799a0aad5fee46fedd3488c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/206/article/3) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-1d1be0372799a0aad5fee46fedd3488c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/206/article/3) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-da9dad0c09f8b45c8e665bb88b5e4b04]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/206/article/4) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-da9dad0c09f8b45c8e665bb88b5e4b04]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/206/article/4) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-f67c7fb963e658ea45d3d311a2892fc1]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/206/article/5) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-f67c7fb963e658ea45d3d311a2892fc1]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/206/article/5) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
 [^f00003]: Footnote: Section 333A was inserted by regulation 3 of, and paragraphs 1 and 4 of Schedule 2 to, [S.I. 2007/3398](https://www.legislation.gov.uk/uksi/2007/3398), and was amended by section 15(3) of, and paragraphs 108 and 132 in Part 2 of Schedule 8 to, the Crime and Courts Act 2013.
 
-[^key-b359af0c381e066dcab457fe844ea3c9]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/206/article/6) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-b359af0c381e066dcab457fe844ea3c9]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/206/article/6) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-19efb6b5e17f68cec203b60b3a61865b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/206/article/7) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-19efb6b5e17f68cec203b60b3a61865b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/206/article/7) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-11824681472fd7a3a8513d5c7e86f0d1]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/206/article/8) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-11824681472fd7a3a8513d5c7e86f0d1]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/206/article/8) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-fa60a6bf352284c709360d68263cc9e4]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2015/206/article/9) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-fa60a6bf352284c709360d68263cc9e4]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2015/206/article/9) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-7000a8ccd186d65bf8504a9c5caabbb9]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2015/206/article/10) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-7000a8ccd186d65bf8504a9c5caabbb9]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2015/206/article/10) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-41e024de5c8510ed3e59b1e092a24384]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2015/206/article/11) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-41e024de5c8510ed3e59b1e092a24384]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2015/206/article/11) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
 [^f00004]: Footnote: [1947 c.44](https://www.legislation.gov.uk/ukpga/1947/44).
 
-[^key-a6e7b3d1ea5f518a6be0cf337548e497]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2015/206/article/12) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-a6e7b3d1ea5f518a6be0cf337548e497]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2015/206/article/12) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-0a747b90a8df6cdebb74cdececc98166]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2015/206/article/13) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-0a747b90a8df6cdebb74cdececc98166]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2015/206/article/13) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-0a662d25f80d97b71f97025ea51a788c]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2015/206/article/14) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-0a662d25f80d97b71f97025ea51a788c]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2015/206/article/14) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-ccf7e43187bb0a4b85afebc64314fb2b]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2015/206/article/15) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-ccf7e43187bb0a4b85afebc64314fb2b]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2015/206/article/15) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-1d27eb68c2bca8aa0598fc94296e4647]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2015/206/article/16) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-1d27eb68c2bca8aa0598fc94296e4647]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2015/206/article/16) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-ff1c656e2973151eea1b3deba8d80734]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2015/206/article/17) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-ff1c656e2973151eea1b3deba8d80734]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2015/206/article/17) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-3ba9713812a2743e584663b672be2453]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2015/206/article/18) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-3ba9713812a2743e584663b672be2453]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2015/206/article/18) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-2ea6bae127bfd97449a2322b9671118f]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2015/206/article/19) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-2ea6bae127bfd97449a2322b9671118f]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2015/206/article/19) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
 [^f00005]: Footnote: [S.I. 2005/3181](https://www.legislation.gov.uk/uksi/2005/3181).
 
-[^key-f4a72142794dc45ba418341c8443273b]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2015/206/article/20) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-f4a72142794dc45ba418341c8443273b]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2015/206/article/20) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-e665bc00684cb7012bbe3a1dc5a6888f]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2015/206/article/21) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-e665bc00684cb7012bbe3a1dc5a6888f]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2015/206/article/21) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-db22c2fa27b9f5c544825fbe9ab44525]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2015/206/article/22) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-db22c2fa27b9f5c544825fbe9ab44525]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2015/206/article/22) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-9f67db26e5681c2fdaa1450eceeaa102]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2015/206/article/23) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-9f67db26e5681c2fdaa1450eceeaa102]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2015/206/article/23) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-6055c9b065c78c782e89c897a385ff78]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/uksi/2015/206/article/23/1) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/2) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-6055c9b065c78c782e89c897a385ff78]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/uksi/2015/206/article/23/1) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/2) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
-[^key-7e19ba9df3277b2729ea9bd565d20980]: Textual amendment: Words in [art. 23(2)(a)](https://www.legislation.gov.uk/uksi/2015/206/article/23/2/a) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/3/a) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-7e19ba9df3277b2729ea9bd565d20980]: Textual amendment: Words in [art. 23(2)(a)](https://www.legislation.gov.uk/uksi/2015/206/article/23/2/a) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/3/a) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
-[^key-110285f72873a6dc2a8cb4ef7baede38]: Textual amendment: Words in [art. 23(2)(e)](https://www.legislation.gov.uk/uksi/2015/206/article/23/2/e) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/3/b) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-110285f72873a6dc2a8cb4ef7baede38]: Textual amendment: Words in [art. 23(2)(e)](https://www.legislation.gov.uk/uksi/2015/206/article/23/2/e) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/3/b) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
-[^key-e11d989200208af213c9b698dddc98af]: Textual amendment: [Art. 23(2)(ea)](https://www.legislation.gov.uk/uksi/2015/206/article/23/2/ea) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(3)(c)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/3/c) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-e11d989200208af213c9b698dddc98af]: Textual amendment: [Art. 23(2)(ea)](https://www.legislation.gov.uk/uksi/2015/206/article/23/2/ea) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(3)(c)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/3/c) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
-[^key-ac6ce8a7f85b2f112d5beccd170f79bf]: Textual amendment: Words in [art. 23(3)(a)](https://www.legislation.gov.uk/uksi/2015/206/article/23/3/a) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/4/a) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-ac6ce8a7f85b2f112d5beccd170f79bf]: Textual amendment: Words in [art. 23(3)(a)](https://www.legislation.gov.uk/uksi/2015/206/article/23/3/a) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/4/a) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
 [^f00006]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
 [^f00007]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12).
 
-[^key-80886d94eed6b6bed3a6d87fef510e7b]: Textual amendment: Words in [art. 23(3)(h)](https://www.legislation.gov.uk/uksi/2015/206/article/23/3/h) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/4/b) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-80886d94eed6b6bed3a6d87fef510e7b]: Textual amendment: Words in [art. 23(3)(h)](https://www.legislation.gov.uk/uksi/2015/206/article/23/3/h) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/4/b) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
-[^key-f19931bf2a5e7e1308f4c669fed40007]: Textual amendment: [Art. 23(3)(ha)](https://www.legislation.gov.uk/uksi/2015/206/article/23/3/ha) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(4)(c)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/4/c) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-f19931bf2a5e7e1308f4c669fed40007]: Textual amendment: [Art. 23(3)(ha)](https://www.legislation.gov.uk/uksi/2015/206/article/23/3/ha) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(4)(c)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/4/c) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
 [^f00008]: Footnote: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
 
 [^f00009]: Footnote: Section 415(1A) was inserted by section 107(4) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15).
 
-[^key-13ddc6dad5a715b364a90df1c4942f89]: Textual amendment: [Art. 23(5)](https://www.legislation.gov.uk/uksi/2015/206/article/23/5) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/5) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-13ddc6dad5a715b364a90df1c4942f89]: Textual amendment: [Art. 23(5)](https://www.legislation.gov.uk/uksi/2015/206/article/23/5) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/5) (with [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5/6)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
-[^key-f9c987f2e746012bd8b0bf17ce303cc5]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2015/206/article/24) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-f9c987f2e746012bd8b0bf17ce303cc5]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2015/206/article/24) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-c975064f556c88489b62311b6d776053]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2015/206/article/25) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-c975064f556c88489b62311b6d776053]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2015/206/article/25) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-5c9fbd0cffe8160834997f39254f400a]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2015/206/article/26) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-5c9fbd0cffe8160834997f39254f400a]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2015/206/article/26) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-811c92e35f855776fd3556e44d252623]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2015/206/article/27) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-811c92e35f855776fd3556e44d252623]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2015/206/article/27) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-5327d7a0cfbd334de79b1b6fc1943c8f]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2015/206/article/28) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-5327d7a0cfbd334de79b1b6fc1943c8f]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2015/206/article/28) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-1af0e2a3c820d76a86dee22ae4e70666]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2015/206/article/29) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-1af0e2a3c820d76a86dee22ae4e70666]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2015/206/article/29) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-417bfb25dbc45d4777ece967d245b9bf]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2015/206/article/30) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-417bfb25dbc45d4777ece967d245b9bf]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2015/206/article/30) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-8ad80ded037f40854694f85cf6de4866]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2015/206/article/31) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-8ad80ded037f40854694f85cf6de4866]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2015/206/article/31) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-4525edd6c3c82c3db71872422c1f47fe]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2015/206/article/32) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-4525edd6c3c82c3db71872422c1f47fe]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2015/206/article/32) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-28511d25d91d510c3c877e48f460eb6f]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2015/206/article/33) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-28511d25d91d510c3c877e48f460eb6f]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2015/206/article/33) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-8112c0a77017415f887fb08f54aaee44]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2015/206/article/34) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-8112c0a77017415f887fb08f54aaee44]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2015/206/article/34) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
-[^key-a9051ab1e485126fcd26104ca803e822]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2015/206/article/35) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
+[^c-a9051ab1e485126fcd26104ca803e822]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2015/206/article/35) in force at 16.3.2015, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/206/article/1/b)
 
 [^f00010]: Footnote: [S.I. 2009/245](https://www.legislation.gov.uk/uksi/2009/245).

@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 20
 
-**1.**[^key-6d5d7497055dcd30e70fc54250fe1970] Paragraphs 3 and 5 of Schedule 3 will apply as modified by paragraphs 2 and 3 respectively where the contractor is a Local Health Board.
+**1.**[^c-6d5d7497055dcd30e70fc54250fe1970] Paragraphs 3 and 5 of Schedule 3 will apply as modified by paragraphs 2 and 3 respectively where the contractor is a Local Health Board.
 
-**2.**[^key-f3e23b0811a118e72fc125acfc4d88ee] As if for paragraph 3, there were substituted the following—
+**2.**[^c-f3e23b0811a118e72fc125acfc4d88ee] As if for paragraph 3, there were substituted the following—
 
 > **3. Violent patients**
 >
@@ -45,7 +45,7 @@ Regulation 20
 
 .
 
-**3.**[^key-48d2bb1c725786e7ce2fd88dac39d500] As if for paragraph 5, there were substituted the following—
+**3.**[^c-48d2bb1c725786e7ce2fd88dac39d500] As if for paragraph 5, there were substituted the following—
 
 > **5. Irrevocable breakdown in relationship between contractor and patient**
 >
@@ -60,8 +60,8 @@ Regulation 20
 
 ## Annotations
 
-[^key-6d5d7497055dcd30e70fc54250fe1970]: Commencement: Sch. 5 para. 1 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-6d5d7497055dcd30e70fc54250fe1970]: Commencement: Sch. 5 para. 1 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-f3e23b0811a118e72fc125acfc4d88ee]: Commencement: Sch. 5 para. 2 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-f3e23b0811a118e72fc125acfc4d88ee]: Commencement: Sch. 5 para. 2 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-48d2bb1c725786e7ce2fd88dac39d500]: Commencement: Sch. 5 para. 3 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-48d2bb1c725786e7ce2fd88dac39d500]: Commencement: Sch. 5 para. 3 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

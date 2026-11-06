@@ -24,7 +24,7 @@ summary: ''
 
 ### Staff of the Board
 
-**1.**[^key-5e7980983f30762c773d8fbdf7888245] (1) The Welsh Ministers may, by order, make provision for staff of the Board to be transferred to—
+**1.**[^c-5e7980983f30762c773d8fbdf7888245] (1) The Welsh Ministers may, by order, make provision for staff of the Board to be transferred to—
 
 - (a) the Commissioner, or
 - (b) the Welsh Assembly Government.
@@ -63,7 +63,7 @@ summary: ''
 
 ### Property, rights and liabilities of the Board
 
-**2.**[^key-b73d41e3af35f4a322882230adcd5551] (1) Without prejudice to paragraph 1, the Welsh Ministers may, by order, make provision about the property, rights and liabilities of the Board.
+**2.**[^c-b73d41e3af35f4a322882230adcd5551] (1) Without prejudice to paragraph 1, the Welsh Ministers may, by order, make provision about the property, rights and liabilities of the Board.
 
 (2) The power conferred by sub-paragraph (1) includes, but is not limited to, power to make provision for—
 
@@ -84,7 +84,7 @@ summary: ''
 
 ### Modification of 1993 Act in relation to functions transferred to Welsh Ministers
 
-**3.**[^key-2d48626a6d66158ce4cf5283051d2662] If the functions conferred on the Board by section 3 of the 1993 Act are transferred to the Welsh Ministers (whether instead of, or in addition to, the functions being transferred to the Commissioner), the following provisions of the 1993 Act do not apply to the functions as they are exercisable by the Welsh Ministers—
+**3.**[^c-2d48626a6d66158ce4cf5283051d2662] If the functions conferred on the Board by section 3 of the 1993 Act are transferred to the Welsh Ministers (whether instead of, or in addition to, the functions being transferred to the Commissioner), the following provisions of the 1993 Act do not apply to the functions as they are exercisable by the Welsh Ministers—
 
 - (a) section 3(2)(a);
 - (b) section 3(3) and (4);
@@ -92,14 +92,14 @@ summary: ''
 
 ### References to the Board
 
-**4.**[^key-e6f5a0afc8aff804ad49e06a87d302bf] Any reference to the Board in the 1993 Act is to be construed—
+**4.**[^c-e6f5a0afc8aff804ad49e06a87d302bf] Any reference to the Board in the 1993 Act is to be construed—
 
 - (a) so far as it relates to a function of the Board that is transferred to the Commissioner, as being, or including, a reference to the Commissioner; and
 - (b) so far as it relates to a function of the Board that is transferred to the Welsh Ministers, as being, or including, a reference to the Welsh Ministers.
 
 ### Continuation of legal proceedings, validity of acts etc
 
-**5.**[^key-ed969c5241d228d3ea1e39829157a6db] (1) Anything (including legal proceedings) which relates to—
+**5.**[^c-ed969c5241d228d3ea1e39829157a6db] (1) Anything (including legal proceedings) which relates to—
 
 - (a) a transferred function, or
 - (b) transferred property, rights or liabilities,
@@ -130,21 +130,21 @@ and which are made or commenced before the transfer time, the transferee is subs
 
 ### Interpretation
 
-**6.**[^key-cb535d69e2340c506cf2b4b338541e02] In this Schedule—
+**6.**[^c-cb535d69e2340c506cf2b4b338541e02] In this Schedule—
 
 - “**1993 Act**” (“***Deddf 1993***”) has the meaning given in section 147(5);
 - “**Board**” (“***y Bwrdd***”) has the meaning given in section 147(5).
 
 ## Annotations
 
-[^key-5e7980983f30762c773d8fbdf7888245]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/1) in force at 28.6.2011 by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/d)
+[^c-5e7980983f30762c773d8fbdf7888245]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/1) in force at 28.6.2011 by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/d)
 
-[^key-b73d41e3af35f4a322882230adcd5551]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/2) in force at 28.6.2011 by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/d)
+[^c-b73d41e3af35f4a322882230adcd5551]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/2) in force at 28.6.2011 by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/d)
 
-[^key-2d48626a6d66158ce4cf5283051d2662]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/3) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/969/article/2/b)
+[^c-2d48626a6d66158ce4cf5283051d2662]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/3) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/969/article/2/b)
 
-[^key-e6f5a0afc8aff804ad49e06a87d302bf]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/4) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/969/article/2/b)
+[^c-e6f5a0afc8aff804ad49e06a87d302bf]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/4) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/969/article/2/b)
 
-[^key-ed969c5241d228d3ea1e39829157a6db]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/5) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/969/article/2/b)
+[^c-ed969c5241d228d3ea1e39829157a6db]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/5) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/969/article/2/b)
 
-[^key-cb535d69e2340c506cf2b4b338541e02]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/6) in force at 28.6.2011 by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/d)
+[^c-cb535d69e2340c506cf2b4b338541e02]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/6) in force at 28.6.2011 by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 80. Mission initiatives[^key-8792a9894849f7e1187d25a39b6747fe]
+## 80. Mission initiatives[^c-8792a9894849f7e1187d25a39b6747fe]
 
 *Extent: E*
 
@@ -35,7 +35,7 @@ then if the bishop is satisfied that the initiative would be likely, through fos
 
 (5) Any bishop's mission order may include provision—
 
-- (a)[^key-66a9f1171d194af0ec2d93b81d383c1d] for participation in a local ecumenical co-operative scheme,
+- (a)[^c-66a9f1171d194af0ec2d93b81d383c1d] for participation in a local ecumenical co-operative scheme,
 - (b) for other ecumenical co-operation with other Churches, and
 - (c) for collaboration with any religious organisations,
 
@@ -55,7 +55,7 @@ and in this section and sections 81 to 83 any provision mentioned in this subsec
 
 and in considering whether a person or body has a significant interest in or would be likely to be significantly affected by the order, the bishop or bishops shall have regard to the objectives of the initiative endorsed by the order and any other circumstances which he or they think relevant.
 
-(8) Without prejudice to subsection (6), where it is proposed to include a co-operation provision in a bishop's mission order, the bishop or bishops, as the case may be, shall, as well as carrying out such consultation as is referred to in that subsection, consult the appropriate authority of each Church or religious organisation which is to participate in the local ecumenical co-operative scheme[^key-0f093c85551d47019125f305e9995930], or which is otherwise concerned.
+(8) Without prejudice to subsection (6), where it is proposed to include a co-operation provision in a bishop's mission order, the bishop or bishops, as the case may be, shall, as well as carrying out such consultation as is referred to in that subsection, consult the appropriate authority of each Church or religious organisation which is to participate in the local ecumenical co-operative scheme[^c-0f093c85551d47019125f305e9995930], or which is otherwise concerned.
 
 (9) The bishop or bishops, as the case may be, may authorise a person or body to carry out the consultation referred to in subsections (6) and (8) on his or their behalf.
 
@@ -78,14 +78,14 @@ and in considering whether a person or body has a significant interest in or wou
 
 (14) Subject to subsection (10), any bishop's mission order may include provision authorising the performance of any divine service, including Holy Communion, in any parish church or place excluded from subsection (13) above with the consent of any minister having the cure of souls in that place.
 
-(15)[^key-ae2b33c34ca6af4645170775cad312d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-ae2b33c34ca6af4645170775cad312d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8792a9894849f7e1187d25a39b6747fe]: Commencement: S. 80 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-8792a9894849f7e1187d25a39b6747fe]: Commencement: S. 80 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-66a9f1171d194af0ec2d93b81d383c1d]: Textual amendment: [S. 80(5)(a)](https://www.legislation.gov.uk/ukcm/2011/3/section/80/5/a) substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(5)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/5), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-66a9f1171d194af0ec2d93b81d383c1d]: Textual amendment: [S. 80(5)(a)](https://www.legislation.gov.uk/ukcm/2011/3/section/80/5/a) substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(5)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/5), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-0f093c85551d47019125f305e9995930]: Textual amendment: Words in s. 80(8) substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(6)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/6), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-0f093c85551d47019125f305e9995930]: Textual amendment: Words in s. 80(8) substituted (1.2.2019) by [Ecumenical Relations Measure 2018 (No. 6)](https://www.legislation.gov.uk/ukcm/2018/6), [ss. 1(6)](https://www.legislation.gov.uk/ukcm/2018/6/section/1/6), [4(3)](https://www.legislation.gov.uk/ukcm/2018/6/section/4/3); [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-ae2b33c34ca6af4645170775cad312d8]: Textual amendment: S. 80(15) repealed (17.11.2014) by [Bishops and Priests (Consecration and Ordination of Women) Measure 2014 (No. 2)](https://www.legislation.gov.uk/ukcm/2014/2), [s. 4(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/4/2), [Sch.](https://www.legislation.gov.uk/ukcm/2014/2/schedule); [S.I. 2014/5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)
+[^c-ae2b33c34ca6af4645170775cad312d8]: Textual amendment: S. 80(15) repealed (17.11.2014) by [Bishops and Priests (Consecration and Ordination of Women) Measure 2014 (No. 2)](https://www.legislation.gov.uk/ukcm/2014/2), [s. 4(2)](https://www.legislation.gov.uk/ukcm/2014/2/section/4/2), [Sch.](https://www.legislation.gov.uk/ukcm/2014/2/schedule); [S.I. 2014/5](https://www.legislation.gov.uk/ukci/2014/5), [art. 2](https://www.legislation.gov.uk/ukci/2014/5/article/2)

@@ -48,11 +48,11 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-6d47bf4563357e5ff8ab0da9f0d6ab69]
+### 1. Citation and commencement[^c-6d47bf4563357e5ff8ab0da9f0d6ab69]
 
 These Regulations may be cited as the Childcare (Childminder Agencies) (Cancellation etc.) Regulations 2014 and come into force on 1st September 2014.
 
-### 2. Interpretation[^key-d19075815f0bac2ea8c5a67b5a80c3e9]
+### 2. Interpretation[^c-d19075815f0bac2ea8c5a67b5a80c3e9]
 
 In these Regulations—
 
@@ -61,13 +61,13 @@ In these Regulations—
 
 ## PART 2 — Cancellation, Termination and Suspension of Registration with a Childminder Agency
 
-### 3. Cancellation of registration[^key-bcf837cf2fead7ba51a9befaf8b54bca]
+### 3. Cancellation of registration[^c-bcf837cf2fead7ba51a9befaf8b54bca]
 
 (1) A childminder agency may cancel the registration of a provider registered with it for the purposes of Chapter 2, 3 or 4 of Part 3 of the Act and must do so if it appears to the agency that the provider has become disqualified from registration by regulations under section 75 of the Act.
 
 (2) In the case of a provider registered under Chapter 4 of Part 3 of the Act, the childminder agency must cancel that provider’s registration where the provider is no longer registered under Chapter 2 or 3.
 
-### 4. Procedure for cancellation of registration[^key-c99cf75c6b653b15587c31d8b4e48186]
+### 4. Procedure for cancellation of registration[^c-c99cf75c6b653b15587c31d8b4e48186]
 
 (1) Where a childminder agency proposes to cancel a provider’s registration it must give the provider notice of its intention to do so (“a notice of intention”).
 
@@ -88,7 +88,7 @@ In these Regulations—
 
 (6) The date specified pursuant to paragraph (5)(b) must be no less than 28 days beginning with the date on which the decision notice is given.
 
-### 5. Termination of registration by a provider[^key-8fbda0f730e11abdd81b6a969cbd3964]
+### 5. Termination of registration by a provider[^c-8fbda0f730e11abdd81b6a969cbd3964]
 
 (1) A provider (“P”) may give notice to a childminder agency that P wishes to terminate registration with that agency for the purposes of Chapter 2, 3 or 4 of Part 3 of the Act.
 
@@ -104,13 +104,13 @@ In these Regulations—
 
 (4) Paragraph (3) does not apply in the case of termination of registration for the purposes of Chapter 4 of Part 3 of the Act.
 
-### 6. Circumstances in which registration may be suspended[^key-7a2f7dae80b75e8655148b0251b5e337]
+### 6. Circumstances in which registration may be suspended[^c-7a2f7dae80b75e8655148b0251b5e337]
 
 (1) A childminder agency may suspend the registration of a provider registered with it for the purposes of Chapter 2, 3 or 4 of Part 3 of the Act in circumstances where the agency reasonably believes that the continued provision of childcare by that provider to any child may expose such a child to a risk of harm.
 
 (2) In this Regulation, “harm” has the same meaning as in section 31(9) of the Children Act 1989[^f00002].
 
-### 7. Suspension of registration: further provisions[^key-856666273ca9f9858f93cacefe4ed69d]
+### 7. Suspension of registration: further provisions[^c-856666273ca9f9858f93cacefe4ed69d]
 
 (1) Where a childminder agency suspends a provider’s registration under regulation 6(1), it must give that provider a notice of suspension.
 
@@ -125,11 +125,11 @@ In these Regulations—
 
 the period of suspension may continue until the end of the investigation referred to in sub-paragraph (a), or until the steps referred to in sub-paragraph (b) have been taken.
 
-### 8. Lifting of suspension[^key-52e61d9594aca7bf2069752f4d300b35]
+### 8. Lifting of suspension[^c-52e61d9594aca7bf2069752f4d300b35]
 
 If, at any time during a period of suspension under regulation 6(1), it appears to the childminder agency that the circumstances set out in that regulation no longer exist, the agency must lift the suspension.
 
-### 9. Appeal against suspension[^key-221f64c67f05fe90b0fef209af47c903]
+### 9. Appeal against suspension[^c-221f64c67f05fe90b0fef209af47c903]
 
 (1) A provider whose registration has been suspended under regulation 6(1) may appeal to the First-tier Tribunal against the suspension.
 
@@ -140,7 +140,7 @@ If, at any time during a period of suspension under regulation 6(1), it appears 
 
 (3) In a case where the suspension of a provider’s registration ends before the First-tier Tribunal determines the appeal in accordance with paragraph (2), the First-tier Tribunal must dismiss the appeal.
 
-### 10. Effect of suspension[^key-1162d1a5959c69189e92c4ad8d770664]
+### 10. Effect of suspension[^c-1162d1a5959c69189e92c4ad8d770664]
 
 (1) A provider who is registered under Chapter 2 of Part 3 of the Act may not provide early years provision in England at any time when that provider’s registration under that Chapter is suspended in accordance with regulation 6.
 
@@ -148,13 +148,13 @@ If, at any time during a period of suspension under regulation 6(1), it appears 
 
 (3) Paragraphs (1) and (2) do not apply in relation to early or later years provision which the provider may provide without being registered under Chapter 2 or 3 of Part 3 of the Act.
 
-### 11. Offences[^key-022c2b3eed1264599b37bc9d6b3c069c]
+### 11. Offences[^c-022c2b3eed1264599b37bc9d6b3c069c]
 
 (1) A provider commits an offence if, without reasonable excuse, he contravenes regulation 10(1) or (2).
 
 (2) A provider who is guilty of an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 12. Notices[^key-14d57139fff6e26044e4a4ade7d8d5c8]
+### 12. Notices[^c-14d57139fff6e26044e4a4ade7d8d5c8]
 
 (1) In this Part of these Regulations, where a notice is to be given to a person, it may be given to that person—
 
@@ -167,16 +167,16 @@ If, at any time during a period of suspension under regulation 6(1), it appears 
 - (a) the person to whom the notice is to be given must have indicated a willingness to receive notices transmitted by electronic means and provided an address suitable for that purpose, and
 - (b) the notice must be sent to the address provided.
 
-## PART 3 — Childminder Agencies: Cancellation of Registration and Voluntary Removal[^key-ef2c9b65edc025ef3da43adf8901f962]
+## PART 3 — Childminder Agencies: Cancellation of Registration and Voluntary Removal[^c-ef2c9b65edc025ef3da43adf8901f962]
 
-### 13. Effect of cancellation of an early years childminder agency[^key-7365533beffd82d9ffffc40b749243d2]
+### 13. Effect of cancellation of an early years childminder agency[^c-7365533beffd82d9ffffc40b749243d2]
 
 (1) The effect of the cancellation of the registration of an early years childminder agency on a provider who is registered with that agency at the point of cancellation is as follows—
 
-- (a)[^key-7062e5277abb5e106e3ffb438c6f793b] in the case of a person who is registered as an early years childminder with domestic premises under Chapter 2 of Part 3 of the Act, the person is deemed registered in the early years register under section 37(1) of the Act;
+- (a)[^c-7062e5277abb5e106e3ffb438c6f793b] in the case of a person who is registered as an early years childminder with domestic premises under Chapter 2 of Part 3 of the Act, the person is deemed registered in the early years register under section 37(1) of the Act;
 - (aa) in the case of a person who is registered as an early years childminder without domestic premises under Chapter 2 of Part 3 of the Act, the person is deemed registered in the early years register under section 37(2A) of the Act;
 - (b) in the case of an early years provider (other than a childminder) who is registered under Chapter 2 of Part 3 of the Act, the provider is deemed registered in the early years register under section 37(2) of the Act;
-- (c)[^key-d1ee2fd9728341cc12fc9277fc4568bd] in the case of a person who is registered as childminder with domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(1) of the Act;
+- (c)[^c-d1ee2fd9728341cc12fc9277fc4568bd] in the case of a person who is registered as childminder with domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(1) of the Act;
 - (ca) in the case of a person who is registered as a childminder without domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(2A) of the Act;
 - (d) in the case of an early or later years provider (other than a childminder) who is registered under Chapter 4 of Part 3 of the Act, the provider is deemed registered in Part B of the general childcare register under section 64(2) of the Act.
 
@@ -192,14 +192,14 @@ If, at any time during a period of suspension under regulation 6(1), it appears 
 - (a) the time at which the possibility of the early years childminder agency bringing an appeal against cancellation of registration under section 74 of the Act expires, or
 - (b) if such an appeal is brought, the time when the appeal is determined (and the taking of the step is confirmed under section 74(4)(a) of the Act).
 
-### 14. Effect of cancellation of a later years childminder agency[^key-22a1eab2f889e4ca37e6aa87fe89b928]
+### 14. Effect of cancellation of a later years childminder agency[^c-22a1eab2f889e4ca37e6aa87fe89b928]
 
 (1) The effect of the cancellation of the registration of a later years childminder agency on a provider registered with that agency at the point of cancellation is as follows—
 
-- (a)[^key-adcba6fc6c42875aed23b3c38f88c0a5] in the case of a person who is registered as a later years childminder with domestic premises under Chapter 3 of Part 3 of the Act, the person is deemed registered in Part A of the general childcare register under section 56(1) of the Act;
+- (a)[^c-adcba6fc6c42875aed23b3c38f88c0a5] in the case of a person who is registered as a later years childminder with domestic premises under Chapter 3 of Part 3 of the Act, the person is deemed registered in Part A of the general childcare register under section 56(1) of the Act;
 - (aa) in the case of a person who is registered as a later years childminder without domestic premises under Chapter 3 of Part 3 of the Act, the person is deemed registered in Part A of the general childcare register under section 56(2A) of the Act;
 - (b) in the case of a later years provider (other than a childminder) who is registered under Chapter 2 of Part 3 of the Act, the provider is deemed registered in Part A of the general childcare register under section 56(2) of the Act;
-- (c)[^key-3047b42f4748b68562ea9026dc2f0de7] in the case of a person who is registered as a childminder with domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(1) of the Act;
+- (c)[^c-3047b42f4748b68562ea9026dc2f0de7] in the case of a person who is registered as a childminder with domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(1) of the Act;
 - (ca) in the case of a person who is registered as a childminder without domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(2A) of the Act;
 - (d) in the case of an early or later years provider (other than a childminder) who is registered under Chapter 4 of Part 3 of the Act, the provider is deemed registered in Part B of the general childcare register under section 64(2) of the Act.
 
@@ -215,7 +215,7 @@ If, at any time during a period of suspension under regulation 6(1), it appears 
 - (a) the time at which the possibility of the later years childminder agency bringing an appeal against the cancellation under section 74 of the Act expires, or
 - (b) if such an appeal is brought, the time when the appeal is determined (and the taking of the step is confirmed under section 74(4)(a) of the Act).
 
-### 15. Voluntary removal of childminder agency from register: providers (early years, etc.)[^key-c22c9a314b37dc0ebf82aff290c186d0]
+### 15. Voluntary removal of childminder agency from register: providers (early years, etc.)[^c-c22c9a314b37dc0ebf82aff290c186d0]
 
 (1) This regulation applies where an early years childminder agency (“the agency”) is removed from the early years register in accordance with section 70A(2) of the Act (voluntary removal from a childcare register: childminder agencies).
 
@@ -227,10 +227,10 @@ If, at any time during a period of suspension under regulation 6(1), it appears 
 
 (5) The deemed registrations are as follows—
 
-- (a)[^key-5f85d0a0e6cfc67208645a8cb25d9bd5] in the case of a person who is registered as an early years childminder with domestic premises under Chapter 2 of Part 3 of the Act, the person is deemed registered in the early years register under section 37(1) of the Act;
+- (a)[^c-5f85d0a0e6cfc67208645a8cb25d9bd5] in the case of a person who is registered as an early years childminder with domestic premises under Chapter 2 of Part 3 of the Act, the person is deemed registered in the early years register under section 37(1) of the Act;
 - (aa) in the case of a person who is registered as a childminder without domestic premises under Chapter 2 of Part 3 of the Act, the person is deemed registered in the early years register under section 37(2A) of the Act;
 - (b) an early years provider (other than a childminder) who was registered under Chapter 2 of Part 3 of the Act is deemed registered in the early years register under section 37(2) of the Act,
-- (c)[^key-05a58220b8fbd87b2bfa03f7718ad6aa] in the case of a person who is registered as a childminder with domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(1) of the Act;
+- (c)[^c-05a58220b8fbd87b2bfa03f7718ad6aa] in the case of a person who is registered as a childminder with domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(1) of the Act;
 - (cc) in the case of a person who is registered as childminder without domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(2A) of the Act;
 - (d) a provider of childcare (other than a childminder) who was registered under Chapter 4 of Part 3 of the Act is deemed registered in Part B of the general childcare register under section 64(2) of the Act.
 
@@ -253,10 +253,10 @@ If, at any time during a period of suspension under regulation 6(1), it appears 
 
 (5) The deemed registrations are as follows—
 
-- (a)[^key-559d2b21c226d15830143a646b44f635] in the case of a person who is registered as a later years childminder with domestic premises under Chapter 3 of Part 3 of the Act, the person is deemed registered in Part A of the general childcare register under section 56(1) of the Act;
+- (a)[^c-559d2b21c226d15830143a646b44f635] in the case of a person who is registered as a later years childminder with domestic premises under Chapter 3 of Part 3 of the Act, the person is deemed registered in Part A of the general childcare register under section 56(1) of the Act;
 - (aa) in the case of a person who is registered as a later years childminder without domestic premises under Chapter 3 of Part 3 of the Act, the person is deemed registered in Part A of the general childcare register section 56(2A) of the Act;
 - (b) a later years provider (other than a childminder) who was registered under Chapter 3 of Part 3 of the Act is deemed registered in Part A of the general childcare register under section 56(2) of the Act,
-- (c)[^key-88e31fb6358e3ecc463851082f14c6ae] in the case of a person who is registered as a childminder with domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(1) of the Act;
+- (c)[^c-88e31fb6358e3ecc463851082f14c6ae] in the case of a person who is registered as a childminder with domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(1) of the Act;
 - (cc) in the case of a person who is registered as childminder without domestic premises under Chapter 4 of Part 3 of the Act, the person is deemed registered in Part B of the general childcare register under section 64(2A) of the Act;
 - (d) a provider of childcare (other than a childminder) who was registered under Chapter 4 of Part 3 of the Act is deemed registered in Part B of the general childcare register under section 64(2) of the Act.
 
@@ -295,52 +295,52 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00001]: Footnote: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21); sections 69A and 69B were inserted by section 84 of, and paragraphs 35 and 36 respectively of Schedule 4 to, the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6). See section 106 of the Childcare Act 2006 for the definition of “regulations”.
 
-[^key-6d47bf4563357e5ff8ab0da9f0d6ab69]: Commencement: Reg. 1 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-6d47bf4563357e5ff8ab0da9f0d6ab69]: Commencement: Reg. 1 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-d19075815f0bac2ea8c5a67b5a80c3e9]: Commencement: Reg. 2 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-d19075815f0bac2ea8c5a67b5a80c3e9]: Commencement: Reg. 2 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-bcf837cf2fead7ba51a9befaf8b54bca]: Commencement: Reg. 3 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-bcf837cf2fead7ba51a9befaf8b54bca]: Commencement: Reg. 3 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-c99cf75c6b653b15587c31d8b4e48186]: Commencement: Reg. 4 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-c99cf75c6b653b15587c31d8b4e48186]: Commencement: Reg. 4 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-8fbda0f730e11abdd81b6a969cbd3964]: Commencement: Reg. 5 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-8fbda0f730e11abdd81b6a969cbd3964]: Commencement: Reg. 5 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-7a2f7dae80b75e8655148b0251b5e337]: Commencement: Reg. 6 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-7a2f7dae80b75e8655148b0251b5e337]: Commencement: Reg. 6 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
 [^f00002]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41); section 31(9) was amended by section 120 of the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38).
 
-[^key-856666273ca9f9858f93cacefe4ed69d]: Commencement: Reg. 7 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-856666273ca9f9858f93cacefe4ed69d]: Commencement: Reg. 7 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-52e61d9594aca7bf2069752f4d300b35]: Commencement: Reg. 8 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-52e61d9594aca7bf2069752f4d300b35]: Commencement: Reg. 8 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-221f64c67f05fe90b0fef209af47c903]: Commencement: Reg. 9 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-221f64c67f05fe90b0fef209af47c903]: Commencement: Reg. 9 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-1162d1a5959c69189e92c4ad8d770664]: Commencement: Reg. 10 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-1162d1a5959c69189e92c4ad8d770664]: Commencement: Reg. 10 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-022c2b3eed1264599b37bc9d6b3c069c]: Commencement: Reg. 11 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-022c2b3eed1264599b37bc9d6b3c069c]: Commencement: Reg. 11 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-14d57139fff6e26044e4a4ade7d8d5c8]: Commencement: Reg. 12 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-14d57139fff6e26044e4a4ade7d8d5c8]: Commencement: Reg. 12 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-ef2c9b65edc025ef3da43adf8901f962]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2014/1922/part/3) heading substituted (27.11.2023) by [The Childcare (Childminder Agencies) (Cancellation etc.) (Amendment) Regulations 2023 (S.I. 2023/1167)](https://www.legislation.gov.uk/uksi/2023/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1167/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1167/regulation/2/2)
+[^c-ef2c9b65edc025ef3da43adf8901f962]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2014/1922/part/3) heading substituted (27.11.2023) by [The Childcare (Childminder Agencies) (Cancellation etc.) (Amendment) Regulations 2023 (S.I. 2023/1167)](https://www.legislation.gov.uk/uksi/2023/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1167/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1167/regulation/2/2)
 
-[^key-7365533beffd82d9ffffc40b749243d2]: Commencement: Reg. 13 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-7365533beffd82d9ffffc40b749243d2]: Commencement: Reg. 13 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-7062e5277abb5e106e3ffb438c6f793b]: Textual amendment: [Reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/a)[(aa)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/aa) substituted for [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/a) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/2/a)
+[^c-7062e5277abb5e106e3ffb438c6f793b]: Textual amendment: [Reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/a)[(aa)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/aa) substituted for [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/a) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/2/a)
 
-[^key-d1ee2fd9728341cc12fc9277fc4568bd]: Textual amendment: [Reg. 13(1)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/c)[(ca)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/ca) substituted for [reg. 13(1)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/c) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/2/b)
+[^c-d1ee2fd9728341cc12fc9277fc4568bd]: Textual amendment: [Reg. 13(1)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/c)[(ca)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/ca) substituted for [reg. 13(1)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/13/1/c) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/2/b)
 
-[^key-22a1eab2f889e4ca37e6aa87fe89b928]: Commencement: Reg. 14 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
+[^c-22a1eab2f889e4ca37e6aa87fe89b928]: Commencement: Reg. 14 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1922/regulation/1)
 
-[^key-adcba6fc6c42875aed23b3c38f88c0a5]: Textual amendment: [Reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/a), [(aa)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/aa) substituted for [para. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/a) (1.11.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/3/a)
+[^c-adcba6fc6c42875aed23b3c38f88c0a5]: Textual amendment: [Reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/a), [(aa)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/aa) substituted for [para. 14(1)(a)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/a) (1.11.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/3/a)
 
-[^key-3047b42f4748b68562ea9026dc2f0de7]: Textual amendment: [Reg. 14(1)(c)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/c), [(ca)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/ca) substituted for [para. 14(1)(c)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/c) (1.11.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/3/b)
+[^c-3047b42f4748b68562ea9026dc2f0de7]: Textual amendment: [Reg. 14(1)(c)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/c), [(ca)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/ca) substituted for [para. 14(1)(c)](https://www.legislation.gov.uk/uksi/2014/1922/paragraph/14/1/c) (1.11.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/3/b)
 
-[^key-c22c9a314b37dc0ebf82aff290c186d0]: Textual amendment: [Regs. 15](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15), [16](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16) inserted (27.11.2023) by [The Childcare (Childminder Agencies) (Cancellation etc.) (Amendment) Regulations 2023 (S.I. 2023/1167)](https://www.legislation.gov.uk/uksi/2023/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1167/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1167/regulation/2/3)
+[^c-c22c9a314b37dc0ebf82aff290c186d0]: Textual amendment: [Regs. 15](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15), [16](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16) inserted (27.11.2023) by [The Childcare (Childminder Agencies) (Cancellation etc.) (Amendment) Regulations 2023 (S.I. 2023/1167)](https://www.legislation.gov.uk/uksi/2023/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1167/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1167/regulation/2/3)
 
-[^key-5f85d0a0e6cfc67208645a8cb25d9bd5]: Textual amendment: [Reg. 15(5)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/a)[(aa)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/aa) substituted for [reg. 15(5)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/a) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/4/a)
+[^c-5f85d0a0e6cfc67208645a8cb25d9bd5]: Textual amendment: [Reg. 15(5)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/a)[(aa)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/aa) substituted for [reg. 15(5)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/a) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/4/a)
 
-[^key-05a58220b8fbd87b2bfa03f7718ad6aa]: Textual amendment: [Reg. 15(5)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/c)[(cc)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/cc) substituted for [reg. 15(5)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/c) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/4/b)
+[^c-05a58220b8fbd87b2bfa03f7718ad6aa]: Textual amendment: [Reg. 15(5)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/c)[(cc)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/cc) substituted for [reg. 15(5)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/15/5/c) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/4/b)
 
-[^key-559d2b21c226d15830143a646b44f635]: Textual amendment: [Reg. 16(5)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/a)[(aa)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/aa) substituted for [reg. 16(5)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/a) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/5/a)
+[^c-559d2b21c226d15830143a646b44f635]: Textual amendment: [Reg. 16(5)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/a)[(aa)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/aa) substituted for [reg. 16(5)(a)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/a) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/5/a)
 
-[^key-88e31fb6358e3ecc463851082f14c6ae]: Textual amendment: [Reg. 16(5)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/c)[(cc)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/cc) substituted for [reg. 16(5)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/c) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/5/b)
+[^c-88e31fb6358e3ecc463851082f14c6ae]: Textual amendment: [Reg. 16(5)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/c)[(cc)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/cc) substituted for [reg. 16(5)(c)](https://www.legislation.gov.uk/uksi/2014/1922/regulation/16/5/c) (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/9/5/b)

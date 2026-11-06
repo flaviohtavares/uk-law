@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Implementation strategy: charges[^key-b446a2cc34b4fcab3e2e2f43a28c8a6d]
+## 27. Implementation strategy: charges[^c-b446a2cc34b4fcab3e2e2f43a28c8a6d]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b446a2cc34b4fcab3e2e2f43a28c8a6d]: Commencement: Reg. 27 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-b446a2cc34b4fcab3e2e2f43a28c8a6d]: Commencement: Reg. 27 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

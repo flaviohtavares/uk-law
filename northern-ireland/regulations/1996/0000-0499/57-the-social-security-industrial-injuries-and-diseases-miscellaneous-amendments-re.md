@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 108(2), 109(2) and (3) and 113(1)(*b*) of, and paragraph 13(8) and (9) of Schedule 7 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 5(1)(*l*) and 25(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-422e71d09a7c9d9c49049fd21537ab98]
+## 1. Citation, commencement and interpretation[^c-422e71d09a7c9d9c49049fd21537ab98]
 
 (1) These Regulations may be cited as the Social Security (Industrial Injuries and Diseases) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 24th March 1996.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Social Security (General Benefit) Regulations[^key-1ce5b3c643f221fe814fab3f6d10a7aa]
+## 2. Amendment of the Social Security (General Benefit) Regulations[^c-1ce5b3c643f221fe814fab3f6d10a7aa]
 
 In regulation 2 of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00004] (exceptions from disqualification for imprisonment, etc.)—
 
@@ -57,17 +57,17 @@ In regulation 2 of the Social Security (General Benefit) Regulations (Northern I
 
   .
 
-## 3. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^key-c7e17a6c5e9c4e1b632748a0670a84f3]
+## 3. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^c-c7e17a6c5e9c4e1b632748a0670a84f3]
 
 (1) The Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986[^f00005] shall be amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-843a0d8815704db6edcc05c0d410be50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-843a0d8815704db6edcc05c0d410be50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Part I of Schedule 1 (list of prescribed diseases and the occupations for which they are prescribed)—
 
-- (a)[^key-81682cb191ba30686cc9fff626429045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-a4c1859fa1c44e10f6a24139b019fede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-5969855b7a1fc0c9a69bc3cb7578fcd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-81682cb191ba30686cc9fff626429045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a4c1859fa1c44e10f6a24139b019fede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5969855b7a1fc0c9a69bc3cb7578fcd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) for the entry relating to the disease numbered D4 (inflammation or ulceration of the mucous membrane of the upper respiratory passages or mouth produced by dust, liquid or vapour) there shall be substituted the following entry—
   - (i) in the first column, the following disease—
 
@@ -107,11 +107,11 @@ In regulation 2 of the Social Security (General Benefit) Regulations (Northern I
   - (i) in the first column “including chrome ulceration of the skin but” shall be omitted;
   - (ii) in the second column after “external agent” there shall be inserted “except chromic acid, chromates or bi-chromates,”.
 
-## 4. Amendment of the Social Security (Claims and Payments) Regulations[^key-b25311e9cc058e742d172ddf733d543a]
+## 4. Amendment of the Social Security (Claims and Payments) Regulations[^c-b25311e9cc058e742d172ddf733d543a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (Industrial Injuries) (Regular Employment) Regulations[^key-f1811ff6fbadf6013ac409d8bdc3c45d]
+## 5. Amendment of the Social Security (Industrial Injuries) (Regular Employment) Regulations[^c-f1811ff6fbadf6013ac409d8bdc3c45d]
 
 (1) The Social Security (Industrial Injuries) (Regular Employment) Regulations (Northern Ireland) 1990[^f00007] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -135,11 +135,11 @@ In regulation 2 of the Social Security (General Benefit) Regulations (Northern I
 
 .
 
-## 6. Amendment of the Social Security (Adjudication) Regulations[^key-7c82229f05a05cb27789fee83dfefa4b]
+## 6. Amendment of the Social Security (Adjudication) Regulations[^c-7c82229f05a05cb27789fee83dfefa4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional provisions[^key-9c7b44dd19ddad4c058d754dacadd311]
+## 7. Transitional provisions[^c-9c7b44dd19ddad4c058d754dacadd311]
 
 (1) The amendments made by regulation 3 (“the relevant amendments”) to the terms in which each of the diseases numbered A12, D4 and D5 (“the relevant disease”) is prescribed shall not apply in the cases specified in paragraphs (2) to (4); and in this regulation “commencement date” means the date on which these Regulations come into operation.
 
@@ -159,7 +159,7 @@ during any period when there is in respect of him a continuous assessment of dis
 - (c) who makes a claim for disablement benefit in respect of that disease after the commencement date; and
 - (d) in respect of whom it is decided, under regulation 7 of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986 (recrudescence) that the further attack is a recrudescence of that disease.
 
-## 8. Revocations[^key-bc20ef664ecd1c235f15b92bc0277ea9]
+## 8. Revocations[^c-bc20ef664ecd1c235f15b92bc0277ea9]
 
 The following regulations are hereby revoked—
 
@@ -193,39 +193,39 @@ Regulation 8 contains consequential revocations.
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-422e71d09a7c9d9c49049fd21537ab98]: Commencement: Reg. 1 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
+[^c-422e71d09a7c9d9c49049fd21537ab98]: Commencement: Reg. 1 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-1ce5b3c643f221fe814fab3f6d10a7aa]: Commencement: Reg. 2 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
+[^c-1ce5b3c643f221fe814fab3f6d10a7aa]: Commencement: Reg. 2 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); relevant amending regulations are [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), [S.R. 1986 No. 340](https://www.legislation.gov.uk/nisr/1986/340), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
-[^key-c7e17a6c5e9c4e1b632748a0670a84f3]: Commencement: Reg. 3 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
+[^c-c7e17a6c5e9c4e1b632748a0670a84f3]: Commencement: Reg. 3 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1986 No. 179](https://www.legislation.gov.uk/nisr/1986/179); relevant amending regulations are [S.R. 1987 No. 454](https://www.legislation.gov.uk/nisr/1987/454), [S.R. 1989 No. 319](https://www.legislation.gov.uk/nisr/1989/319), [S.R. 1993 Nos. 148](https://www.legislation.gov.uk/nisr/1993/148) and [350](https://www.legislation.gov.uk/nisr/1993/350) and [S.R. 1994 No. 347](https://www.legislation.gov.uk/nisr/1994/347)
 
-[^key-843a0d8815704db6edcc05c0d410be50]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/1996/57/regulation/3/2) revoked (16.3.2015) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/52)](https://www.legislation.gov.uk/nisr/2015/52), [reg. 1](https://www.legislation.gov.uk/nisr/2015/52/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/52/schedule)
+[^c-843a0d8815704db6edcc05c0d410be50]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/1996/57/regulation/3/2) revoked (16.3.2015) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/52)](https://www.legislation.gov.uk/nisr/2015/52), [reg. 1](https://www.legislation.gov.uk/nisr/2015/52/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/52/schedule)
 
-[^key-81682cb191ba30686cc9fff626429045]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/nisr/1996/57/regulation/3/3/a) revoked (22.9.2003) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment No. 2) Regulations (Northern Ireland) 2003 (S.R. 2003/388)](https://www.legislation.gov.uk/nisr/2003/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/388/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2003/388/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2003/388/schedule)
+[^c-81682cb191ba30686cc9fff626429045]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/nisr/1996/57/regulation/3/3/a) revoked (22.9.2003) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment No. 2) Regulations (Northern Ireland) 2003 (S.R. 2003/388)](https://www.legislation.gov.uk/nisr/2003/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/388/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2003/388/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2003/388/schedule)
 
-[^key-a4c1859fa1c44e10f6a24139b019fede]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/1996/57/regulation/3/3/b) revoked (6.4.2007) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/167)](https://www.legislation.gov.uk/nisr/2007/167), [regs. 1](https://www.legislation.gov.uk/nisr/2007/167/regulation/1), [4](https://www.legislation.gov.uk/nisr/2007/167/regulation/4)
+[^c-a4c1859fa1c44e10f6a24139b019fede]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/1996/57/regulation/3/3/b) revoked (6.4.2007) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/167)](https://www.legislation.gov.uk/nisr/2007/167), [regs. 1](https://www.legislation.gov.uk/nisr/2007/167/regulation/1), [4](https://www.legislation.gov.uk/nisr/2007/167/regulation/4)
 
-[^key-5969855b7a1fc0c9a69bc3cb7578fcd6]: Textual amendment: [Reg. 3(3)(c)](https://www.legislation.gov.uk/nisr/1996/57/regulation/3/3/c) revoked (17.3.2003) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/63)](https://www.legislation.gov.uk/nisr/2003/63), [regs. 1](https://www.legislation.gov.uk/nisr/2003/63/regulation/1), [4(c)](https://www.legislation.gov.uk/nisr/2003/63/regulation/4/c)
+[^c-5969855b7a1fc0c9a69bc3cb7578fcd6]: Textual amendment: [Reg. 3(3)(c)](https://www.legislation.gov.uk/nisr/1996/57/regulation/3/3/c) revoked (17.3.2003) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/63)](https://www.legislation.gov.uk/nisr/2003/63), [regs. 1](https://www.legislation.gov.uk/nisr/2003/63/regulation/1), [4(c)](https://www.legislation.gov.uk/nisr/2003/63/regulation/4/c)
 
-[^key-b25311e9cc058e742d172ddf733d543a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1996/57/regulation/4) revoked (6.10.1997) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1997 (S.R. 1997/156)](https://www.legislation.gov.uk/nisr/1997/156), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/d), [Sch.](https://www.legislation.gov.uk/nisr/1997/156/schedule)
+[^c-b25311e9cc058e742d172ddf733d543a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1996/57/regulation/4) revoked (6.10.1997) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1997 (S.R. 1997/156)](https://www.legislation.gov.uk/nisr/1997/156), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1997/156/regulation/1/1/d), [Sch.](https://www.legislation.gov.uk/nisr/1997/156/schedule)
 
-[^key-f1811ff6fbadf6013ac409d8bdc3c45d]: Commencement: Reg. 5 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
+[^c-f1811ff6fbadf6013ac409d8bdc3c45d]: Commencement: Reg. 5 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1990 No. 51](https://www.legislation.gov.uk/nisr/1990/51)
 
 [^f00008]: Footnote: *See* section 121(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; the definition of “pensionable age” was substituted by paragraph 9(*a*) of Schedule 2 to the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-7c82229f05a05cb27789fee83dfefa4b]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1996/57/regulation/6) revoked (1.6.1999 for specified purposes, 5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in operation) by [The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (S.R. 1999/162)](https://www.legislation.gov.uk/nisr/1999/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1), [59(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/1), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/162/schedule/3) (with [reg. 59(2)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/2)[(3)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/3))
+[^c-7c82229f05a05cb27789fee83dfefa4b]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1996/57/regulation/6) revoked (1.6.1999 for specified purposes, 5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in operation) by [The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (S.R. 1999/162)](https://www.legislation.gov.uk/nisr/1999/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1), [59(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/1), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/162/schedule/3) (with [reg. 59(2)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/2)[(3)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/3))
 
-[^key-9c7b44dd19ddad4c058d754dacadd311]: Commencement: Reg. 7 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
+[^c-9c7b44dd19ddad4c058d754dacadd311]: Commencement: Reg. 7 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
 
-[^key-bc20ef664ecd1c235f15b92bc0277ea9]: Commencement: Reg. 8 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
+[^c-bc20ef664ecd1c235f15b92bc0277ea9]: Commencement: Reg. 8 in operation at 24.3.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/57/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 1986 No. 340](https://www.legislation.gov.uk/nisr/1986/340)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Rules[^key-a63079f2b19f2038206737495e2b0b3a]
+## 160. Rules[^c-a63079f2b19f2038206737495e2b0b3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a63079f2b19f2038206737495e2b0b3a]: Commencement: S. 160 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-a63079f2b19f2038206737495e2b0b3a]: Commencement: S. 160 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)

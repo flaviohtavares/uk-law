@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food Labelling (Amendment No. 2) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-fed3c632cde0e251ee47123185bc6d90]
+The Food Labelling (Amendment No. 2) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-fed3c632cde0e251ee47123185bc6d90]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 25th November 2005
 
-[^key-fed3c632cde0e251ee47123185bc6d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed3c632cde0e251ee47123185bc6d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fed3c632cde0e251ee47123185bc6d90]
+## 1. Citation and commencement[^c-fed3c632cde0e251ee47123185bc6d90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling (Amendment No. 2) Regulations (Northern Ireland) 2005[^key-fed3c632cde0e251ee47123185bc6d90]
+## 2. Amendment of the Food Labelling (Amendment No. 2) Regulations (Northern Ireland) 2005[^c-fed3c632cde0e251ee47123185bc6d90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fed3c632cde0e251ee47123185bc6d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fed3c632cde0e251ee47123185bc6d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fed3c632cde0e251ee47123185bc6d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fed3c632cde0e251ee47123185bc6d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fed3c632cde0e251ee47123185bc6d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed3c632cde0e251ee47123185bc6d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fed3c632cde0e251ee47123185bc6d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed3c632cde0e251ee47123185bc6d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fed3c632cde0e251ee47123185bc6d90]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/475) revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) Regulations (Northern Ireland) 2008 (S.R. 2008/198)](https://www.legislation.gov.uk/nisr/2008/198), [regs. 1](https://www.legislation.gov.uk/nisr/2008/198/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2008/198/regulation/3)
+[^c-fed3c632cde0e251ee47123185bc6d90]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/475) revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) Regulations (Northern Ireland) 2008 (S.R. 2008/198)](https://www.legislation.gov.uk/nisr/2008/198), [regs. 1](https://www.legislation.gov.uk/nisr/2008/198/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2008/198/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Offence of employing illegal worker[^key-067c7ff11e33b131948a8b6b7d038e93]
+## 35. Offence of employing illegal worker[^c-067c7ff11e33b131948a8b6b7d038e93]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-067c7ff11e33b131948a8b6b7d038e93]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2016/19/section/35) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/f)
+[^c-067c7ff11e33b131948a8b6b7d038e93]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2016/19/section/35) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/f)

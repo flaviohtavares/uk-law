@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Publication, determination and implementation of proposals[^key-7dce8326bbdfecd486ef6bebd48d7d76]
+## 6. Publication, determination and implementation of proposals[^c-7dce8326bbdfecd486ef6bebd48d7d76]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dce8326bbdfecd486ef6bebd48d7d76]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3110/regulation/6) in force at 28.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/1/1)
+[^c-7dce8326bbdfecd486ef6bebd48d7d76]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3110/regulation/6) in force at 28.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/1/1)

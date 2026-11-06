@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Amendments to Section B of Part 1 of Schedule 1 (required formats for accounts: non-IAS individual accounts)[^key-386e751e184dd612abbaa292c5a66cf4]
+## 51. Amendments to Section B of Part 1 of Schedule 1 (required formats for accounts: non-IAS individual accounts)[^c-386e751e184dd612abbaa292c5a66cf4]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ In Section B of Part 1 of Schedule 1 (required formats for accounts: non-IAS ind
 
 ## Annotations
 
-[^key-386e751e184dd612abbaa292c5a66cf4]: Commencement: Reg. 51 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-386e751e184dd612abbaa292c5a66cf4]: Commencement: Reg. 51 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

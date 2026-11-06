@@ -35,205 +35,205 @@ implementing Regulation (EC) No 763/2008 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-435e62377f1214917173a15f78b3dfb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-435e62377f1214917173a15f78b3dfb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-435e62377f1214917173a15f78b3dfb3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-435e62377f1214917173a15f78b3dfb3]
+## Article 1. Subject matter[^c-435e62377f1214917173a15f78b3dfb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Metadata and quality reporting[^key-435e62377f1214917173a15f78b3dfb3]
+## Article 2. Definitions[^c-435e62377f1214917173a15f78b3dfb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Data sources[^key-435e62377f1214917173a15f78b3dfb3]
+## Article 3. Metadata and quality reporting[^c-435e62377f1214917173a15f78b3dfb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Access to relevant information[^key-435e62377f1214917173a15f78b3dfb3]
+## Article 4. Data sources[^c-435e62377f1214917173a15f78b3dfb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Technical format for data transmission[^key-435e62377f1214917173a15f78b3dfb3]
+## Article 5. Access to relevant information[^c-435e62377f1214917173a15f78b3dfb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Amendment to Regulation (EU) No 1151/2010[^key-435e62377f1214917173a15f78b3dfb3]
+## Article 6. Technical format for data transmission[^c-435e62377f1214917173a15f78b3dfb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-435e62377f1214917173a15f78b3dfb3]
+## Article 7. Amendment to Regulation (EU) No 1151/2010[^c-435e62377f1214917173a15f78b3dfb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX — Content and structure of the quality reports for data transmission[^key-435e62377f1214917173a15f78b3dfb3]
+## Article 8. Entry into force[^c-435e62377f1214917173a15f78b3dfb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]1.
+[^c-435e62377f1214917173a15f78b3dfb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — Content and structure of the quality reports for data transmission[^c-435e62377f1214917173a15f78b3dfb3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-435e62377f1214917173a15f78b3dfb3]1.
 
 **OVERVIEW**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]1.1.
+[^c-435e62377f1214917173a15f78b3dfb3]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]1.2.
+[^c-435e62377f1214917173a15f78b3dfb3]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]2.
+[^c-435e62377f1214917173a15f78b3dfb3]2.
 
 **DATA SOURCES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]2.1.
+[^c-435e62377f1214917173a15f78b3dfb3]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]2.2.
+[^c-435e62377f1214917173a15f78b3dfb3]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]2.3.
+[^c-435e62377f1214917173a15f78b3dfb3]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]2.4.
+[^c-435e62377f1214917173a15f78b3dfb3]2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]2.4.1.
+[^c-435e62377f1214917173a15f78b3dfb3]2.4.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]2.4.2.
+[^c-435e62377f1214917173a15f78b3dfb3]2.4.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]2.4.3.
+[^c-435e62377f1214917173a15f78b3dfb3]2.4.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]2.4.4.
+[^c-435e62377f1214917173a15f78b3dfb3]2.4.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]2.4.5.
+[^c-435e62377f1214917173a15f78b3dfb3]2.4.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.
+[^c-435e62377f1214917173a15f78b3dfb3]3.
 
 **CENSUS LIFECYCLE**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.1.
+[^c-435e62377f1214917173a15f78b3dfb3]3.1.
 
 **Reference date**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.2.
+[^c-435e62377f1214917173a15f78b3dfb3]3.2.
 
 **Preparation and execution of data collection**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.2.1.
+[^c-435e62377f1214917173a15f78b3dfb3]3.2.1.
 
 *Questionnaire-based data*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.2.2.
+[^c-435e62377f1214917173a15f78b3dfb3]3.2.2.
 
 *Register-based data*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.2.3.
+[^c-435e62377f1214917173a15f78b3dfb3]3.2.3.
 
 *Data collected by means of a sample*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.2.4.
+[^c-435e62377f1214917173a15f78b3dfb3]3.2.4.
 
 *Data collected by combined methods (data based on more than one type of data source)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.3.
+[^c-435e62377f1214917173a15f78b3dfb3]3.3.
 
 **Processing and evaluation**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.3.1.
+[^c-435e62377f1214917173a15f78b3dfb3]3.3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.3.2.
+[^c-435e62377f1214917173a15f78b3dfb3]3.3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.4.
+[^c-435e62377f1214917173a15f78b3dfb3]3.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]3.5.
+[^c-435e62377f1214917173a15f78b3dfb3]3.5.
 
 **Measures to ensure cost-effectiveness**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]4.
+[^c-435e62377f1214917173a15f78b3dfb3]4.
 
 **ASSESSMENT OF DATA QUALITY**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]4.1.
+[^c-435e62377f1214917173a15f78b3dfb3]4.1.
 
 **Comparability**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]4.2.
+[^c-435e62377f1214917173a15f78b3dfb3]4.2.
 
 **Timeliness and punctuality**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]4.3.
+[^c-435e62377f1214917173a15f78b3dfb3]4.3.
 
 **Coherence**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]4.4.
+[^c-435e62377f1214917173a15f78b3dfb3]4.4.
 
 **Coverage and accuracy**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]4.5.
+[^c-435e62377f1214917173a15f78b3dfb3]4.5.
 
 **Completeness**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-435e62377f1214917173a15f78b3dfb3]4.6.
+[^c-435e62377f1214917173a15f78b3dfb3]4.6.
 
 **Relevance**
 
@@ -241,4 +241,4 @@ implementing Regulation (EC) No 763/2008 of the European Parliament and of the C
 
 ## Annotations
 
-[^key-435e62377f1214917173a15f78b3dfb3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 277](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/277); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-435e62377f1214917173a15f78b3dfb3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 277](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/277); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

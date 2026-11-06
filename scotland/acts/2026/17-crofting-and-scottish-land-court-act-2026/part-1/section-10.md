@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Assignations to family members[^key-9df9c4f499250f84b1c951b603b84a2b]
+## 10. Assignations to family members[^c-9df9c4f499250f84b1c951b603b84a2b]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9df9c4f499250f84b1c951b603b84a2b]: Commencement: S. 10 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-9df9c4f499250f84b1c951b603b84a2b]: Commencement: S. 10 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

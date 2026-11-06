@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Social security benefits in respect of children.[^key-35b9db277fcb6d1ca4c06eddbe65ba21]
+## 134. Social security benefits in respect of children.[^c-35b9db277fcb6d1ca4c06eddbe65ba21]
 
 *Extent: N.I.*
 
@@ -25,13 +25,13 @@ summary: ''
 (2) The provisions referred to in subsection (1) above are the following provisions of Schedule 4 to the Contributions and Benefits Act—
 
 - (a) paragraph 6 of Part I (child’s special allowance);
-- (b)[^key-fa946cfe36aebfa0f305ed0d2caa105e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-fa946cfe36aebfa0f305ed0d2caa105e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-fa946cfe36aebfa0f305ed0d2caa105e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fa946cfe36aebfa0f305ed0d2caa105e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) paragraph 7 of Part V (increase of weekly rate of disablement pension in respect of child dependants);
 - (e) paragraph 12 of Part V (allowance in respect of deceased’s children).
 
 ## Annotations
 
-[^key-35b9db277fcb6d1ca4c06eddbe65ba21]: Modification: Ss. 132-134: transfer of functions (1.4.2003 for specified purposes, 7.4.2003 in so far as not already in force) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [ss. 49(4)](https://www.legislation.gov.uk/ukpga/2002/21/section/49/4), [61](https://www.legislation.gov.uk/ukpga/2002/21/section/61) (with [s. 54(1)](https://www.legislation.gov.uk/ukpga/2002/21/section/54/1)[(3)](https://www.legislation.gov.uk/ukpga/2002/21/section/54/3)[(4)](https://www.legislation.gov.uk/ukpga/2002/21/section/54/4)[(6)](https://www.legislation.gov.uk/ukpga/2002/21/section/54/6)[(8)](https://www.legislation.gov.uk/ukpga/2002/21/section/54/8)); [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2) (subject to savings in art. 3)
+[^c-35b9db277fcb6d1ca4c06eddbe65ba21]: Modification: Ss. 132-134: transfer of functions (1.4.2003 for specified purposes, 7.4.2003 in so far as not already in force) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [ss. 49(4)](https://www.legislation.gov.uk/ukpga/2002/21/section/49/4), [61](https://www.legislation.gov.uk/ukpga/2002/21/section/61) (with [s. 54(1)](https://www.legislation.gov.uk/ukpga/2002/21/section/54/1)[(3)](https://www.legislation.gov.uk/ukpga/2002/21/section/54/3)[(4)](https://www.legislation.gov.uk/ukpga/2002/21/section/54/4)[(6)](https://www.legislation.gov.uk/ukpga/2002/21/section/54/6)[(8)](https://www.legislation.gov.uk/ukpga/2002/21/section/54/8)); [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2) (subject to savings in art. 3)
 
-[^key-fa946cfe36aebfa0f305ed0d2caa105e]: Textual amendment: S. 134(2)(b)(c) repealed (1.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2); (subject to savings in art. 3)
+[^c-fa946cfe36aebfa0f305ed0d2caa105e]: Textual amendment: S. 134(2)(b)(c) repealed (1.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2); (subject to savings in art. 3)

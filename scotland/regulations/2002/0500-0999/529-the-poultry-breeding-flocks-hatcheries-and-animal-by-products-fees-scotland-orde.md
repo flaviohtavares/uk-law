@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Poultry Breeding Flocks, Hatcheries and Animal By Products (Fees) (Scotland) Order 2002 (revoked)[^key-c66ff386018111679be1786024fe0670]
+The Poultry Breeding Flocks, Hatcheries and Animal By Products (Fees) (Scotland) Order 2002 (revoked)[^c-c66ff386018111679be1786024fe0670]
 
 Made
 
@@ -47,31 +47,31 @@ Coming into force
 
 1st January 2003
 
-[^key-c66ff386018111679be1786024fe0670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c66ff386018111679be1786024fe0670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-c66ff386018111679be1786024fe0670]
+## 1. Citation, commencement and extent[^c-c66ff386018111679be1786024fe0670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c66ff386018111679be1786024fe0670]
+## 2. Interpretation[^c-c66ff386018111679be1786024fe0670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees[^key-c66ff386018111679be1786024fe0670]
+## 3. Fees[^c-c66ff386018111679be1786024fe0670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-c66ff386018111679be1786024fe0670]
+## 4. Revocation[^c-c66ff386018111679be1786024fe0670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c66ff386018111679be1786024fe0670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c66ff386018111679be1786024fe0670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — FEES[^key-c66ff386018111679be1786024fe0670]
+## SCHEDULE — FEES[^c-c66ff386018111679be1786024fe0670]
 
 Article 3
 
@@ -79,8 +79,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-c66ff386018111679be1786024fe0670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c66ff386018111679be1786024fe0670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c66ff386018111679be1786024fe0670]: Textual amendment: Order revoked (28.1.2008) by [The Zoonoses and Animal By-Products (Fees) (Scotland) Regulations 2007 (S.S.I. 2007/577)](https://www.legislation.gov.uk/ssi/2007/577), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/577/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2007/577/regulation/4)
+[^c-c66ff386018111679be1786024fe0670]: Textual amendment: Order revoked (28.1.2008) by [The Zoonoses and Animal By-Products (Fees) (Scotland) Regulations 2007 (S.S.I. 2007/577)](https://www.legislation.gov.uk/ssi/2007/577), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/577/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2007/577/regulation/4)

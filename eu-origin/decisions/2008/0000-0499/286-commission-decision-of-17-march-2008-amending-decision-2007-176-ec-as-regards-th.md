@@ -39,16 +39,16 @@ amending Decision 2007/176/EC as regards the List of standards and/or specificat
 
 (2008/286/EC) (revoked)
 
-[^key-610d97e9ab3dea506bea43dcd1f9806a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-610d97e9ab3dea506bea43dcd1f9806a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-610d97e9ab3dea506bea43dcd1f9806a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-610d97e9ab3dea506bea43dcd1f9806a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Addressees[^key-610d97e9ab3dea506bea43dcd1f9806a]
+## Article 2. Addressees[^c-610d97e9ab3dea506bea43dcd1f9806a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-610d97e9ab3dea506bea43dcd1f9806a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-610d97e9ab3dea506bea43dcd1f9806a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-610d97e9ab3dea506bea43dcd1f9806a]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2019/919/regulation/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-610d97e9ab3dea506bea43dcd1f9806a]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2019/919/regulation/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

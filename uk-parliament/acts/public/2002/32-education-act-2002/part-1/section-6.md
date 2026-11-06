@@ -36,14 +36,14 @@ summary: ''
 
 - “**the Chief Inspector**” has the meaning given by section 1(3);
 - “**curriculum provision**” means—
-  - (a) in relation to a maintained school maintained by a local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] in England, any provision of the National Curriculum for England, and
-  - (b) in relation to a maintained school maintained by a local authority in Wales, any requirement imposed under or by virtue of Part 2 of the Curriculum and Assessment (Wales) Act 2021[^key-ffe378d2bd4128e90933ab7fa0d8d96e];
+  - (a) in relation to a maintained school maintained by a local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] in England, any provision of the National Curriculum for England, and
+  - (b) in relation to a maintained school maintained by a local authority in Wales, any requirement imposed under or by virtue of Part 2 of the Curriculum and Assessment (Wales) Act 2021[^c-ffe378d2bd4128e90933ab7fa0d8d96e];
 - “**maintained school**” means a community, foundation or voluntary school or a community or foundation special school;
 - “**pay and conditions provision**” means any provision of an order under section 122;
 - “**school teacher**” has the same meaning as in section 122.
 
 ## Annotations
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
-[^key-ffe378d2bd4128e90933ab7fa0d8d96e]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/6/4) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6/3)
+[^c-ffe378d2bd4128e90933ab7fa0d8d96e]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/6/4) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6/3)

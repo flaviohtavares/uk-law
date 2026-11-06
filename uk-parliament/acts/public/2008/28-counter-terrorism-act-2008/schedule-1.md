@@ -24,11 +24,11 @@ Section 20
 
 ### Anti-terrorism, Crime and Security Act 2001 (c. 24)
 
-**1.**[^key-2d716233a8ba37fb3d5be8c550ab7e42] In section 19(2) of the Anti-terrorism, Crime and Security Act 2001 (disclosure of information held by revenue departments), omit paragraph (a).
+**1.**[^c-2d716233a8ba37fb3d5be8c550ab7e42] In section 19(2) of the Anti-terrorism, Crime and Security Act 2001 (disclosure of information held by revenue departments), omit paragraph (a).
 
 ### Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341)
 
-**2.**[^key-d5b9a4f895eb4c7fa6624660039b0703] (1) The Representation of the People (England and Wales) Regulations 2001 are amended as follows.
+**2.**[^c-d5b9a4f895eb4c7fa6624660039b0703] (1) The Representation of the People (England and Wales) Regulations 2001 are amended as follows.
 
 (2) In regulation 45E (supply of record of anonymous entries to the security services), omit paragraphs (3) and (4).
 
@@ -74,7 +74,7 @@ Section 20
 
 ### Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497)
 
-**3.**[^key-1147e9de99ee2db3401e9ef395787993] (1) The Representation of the People (Scotland) Regulations 2001 are amended as follows.
+**3.**[^c-1147e9de99ee2db3401e9ef395787993] (1) The Representation of the People (Scotland) Regulations 2001 are amended as follows.
 
 (2) In regulation 45D (supply of record of anonymous entries to the security services), omit paragraphs (3) and (4).
 
@@ -120,23 +120,23 @@ Section 20
 
 ### Immigration, Asylum and Nationality Act 2006 (c. 13)
 
-**4.**[^key-791215f504f7edaea66ced2b60d7b60d] In the Immigration, Asylum and Nationality Act 2006, omit section 38 (disclosure of information for security purposes).
+**4.**[^c-791215f504f7edaea66ced2b60d7b60d] In the Immigration, Asylum and Nationality Act 2006, omit section 38 (disclosure of information for security purposes).
 
 ### Statistics and Registration Service Act 2007 (c. 18)
 
-**5.**[^key-14b90fc91aa2e837ed23f694436257ba] In the Statistics and Registration Service Act 2007, omit—
+**5.**[^c-14b90fc91aa2e837ed23f694436257ba] In the Statistics and Registration Service Act 2007, omit—
 
 - (a) section 39(4)(g) (permitted disclosure of personal information: disclosure to an Intelligence Service); and
 - (b) in section 67 (general interpretation), the definition of “Intelligence Service”.
 
 ## Annotations
 
-[^key-2d716233a8ba37fb3d5be8c550ab7e42]: Commencement: Sch. 1 para. 1 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
+[^c-2d716233a8ba37fb3d5be8c550ab7e42]: Commencement: Sch. 1 para. 1 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
 
-[^key-d5b9a4f895eb4c7fa6624660039b0703]: Commencement: Sch. 1 para. 2 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
+[^c-d5b9a4f895eb4c7fa6624660039b0703]: Commencement: Sch. 1 para. 2 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
 
-[^key-1147e9de99ee2db3401e9ef395787993]: Commencement: Sch. 1 para. 3 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
+[^c-1147e9de99ee2db3401e9ef395787993]: Commencement: Sch. 1 para. 3 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
 
-[^key-791215f504f7edaea66ced2b60d7b60d]: Commencement: Sch. 1 para. 4 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
+[^c-791215f504f7edaea66ced2b60d7b60d]: Commencement: Sch. 1 para. 4 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
 
-[^key-14b90fc91aa2e837ed23f694436257ba]: Commencement: Sch. 1 para. 5 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
+[^c-14b90fc91aa2e837ed23f694436257ba]: Commencement: Sch. 1 para. 5 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)

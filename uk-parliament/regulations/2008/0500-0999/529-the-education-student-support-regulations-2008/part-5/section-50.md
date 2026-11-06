@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Qualifying conditions for the grant for travel – overseas study[^key-8738b5e650f8cafdb0b8a91c64d21a56]
+## 50. Qualifying conditions for the grant for travel – overseas study[^c-8738b5e650f8cafdb0b8a91c64d21a56]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ A grant is available to an eligible student in respect of the reasonable expendi
 
 ## Annotations
 
-[^key-8738b5e650f8cafdb0b8a91c64d21a56]: Commencement: Reg. 50 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-8738b5e650f8cafdb0b8a91c64d21a56]: Commencement: Reg. 50 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Duty of undertakers to co-operate with authorities and other undertakers[^key-3845c4e542cf9c42f253cec6f4c5b9ec]
+## 24. Duty of undertakers to co-operate with authorities and other undertakers[^c-3845c4e542cf9c42f253cec6f4c5b9ec]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3845c4e542cf9c42f253cec6f4c5b9ec]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2005/12/section/24) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-3845c4e542cf9c42f253cec6f4c5b9ec]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2005/12/section/24) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

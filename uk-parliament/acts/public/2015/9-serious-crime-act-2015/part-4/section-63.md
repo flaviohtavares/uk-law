@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Return of substance to person entitled to it, or disposal if return impracticable[^key-e3d5ee7a9f4bc0181e4cc0fcf98ffe99]
+## 63. Return of substance to person entitled to it, or disposal if return impracticable[^c-e3d5ee7a9f4bc0181e4cc0fcf98ffe99]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ a police or customs officer may dispose of the substance in whatever way the off
 
 ## Annotations
 
-[^key-e3d5ee7a9f4bc0181e4cc0fcf98ffe99]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2015/9/section/63) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)
+[^c-e3d5ee7a9f4bc0181e4cc0fcf98ffe99]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2015/9/section/63) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)

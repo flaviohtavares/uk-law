@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Transitional arrangements[^key-3faf78f1c06138558c7cbdbabe8d41e7][^c2191337]
+## 188. Transitional arrangements[^c-3faf78f1c06138558c7cbdbabe8d41e7][^c2191337]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3faf78f1c06138558c7cbdbabe8d41e7]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2012/7/section/188) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-3faf78f1c06138558c7cbdbabe8d41e7]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2012/7/section/188) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191337]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2012/7/section/188) partly in force; [s. 188](https://www.legislation.gov.uk/ukpga/2012/7/section/188) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

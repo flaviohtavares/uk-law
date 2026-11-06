@@ -35,7 +35,7 @@ An Act to make provision as to the rights of shop workers and betting workers un
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Sunday working: shop and betting workers in Scotland[^key-30c25835258d7d8140ca7b249ed30b06]
+## 1. Sunday working: shop and betting workers in Scotland[^c-30c25835258d7d8140ca7b249ed30b06]
 
 (1) The Employment Rights Act 1996 (c. 18) is amended as follows.
 
@@ -83,4 +83,4 @@ This Act may be cited as the Sunday Working (Scotland) Act 2003.
 
 ## Annotations
 
-[^key-30c25835258d7d8140ca7b249ed30b06]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2003/18/section/1) in force at 6.4.2004 by [S.I. 2004/958](https://www.legislation.gov.uk/uksi/2004/958), [art. 2](https://www.legislation.gov.uk/uksi/2004/958/article/2)
+[^c-30c25835258d7d8140ca7b249ed30b06]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2003/18/section/1) in force at 6.4.2004 by [S.I. 2004/958](https://www.legislation.gov.uk/uksi/2004/958), [art. 2](https://www.legislation.gov.uk/uksi/2004/958/article/2)

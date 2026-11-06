@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113I. Aggravated false statement offences in connection with sections 113D to 113F[^key-2bee0a678fac62c933b326f672a4edd6]
+## 113I. Aggravated false statement offences in connection with sections 113D to 113F[^c-2bee0a678fac62c933b326f672a4edd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bee0a678fac62c933b326f672a4edd6]: Textual amendment: [Ss. 113A-113I](https://www.legislation.gov.uk/ukpga/2006/46/section/113A) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-2bee0a678fac62c933b326f672a4edd6]: Textual amendment: [Ss. 113A-113I](https://www.legislation.gov.uk/ukpga/2006/46/section/113A) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)

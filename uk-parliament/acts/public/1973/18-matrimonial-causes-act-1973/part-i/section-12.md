@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-e52a5e96fb987a7f9a69b5eebe28a3f2] A marriage celebrated after 31st July 1971, other than a marriage to which section 12A applies,[^key-e475a892a4dc6277802c6437e5aba5dd] shall be voidable on the following grounds only, that is to say—
+(1)[^c-e52a5e96fb987a7f9a69b5eebe28a3f2] A marriage celebrated after 31st July 1971, other than a marriage to which section 12A applies,[^c-e475a892a4dc6277802c6437e5aba5dd] shall be voidable on the following grounds only, that is to say—
 
 - (a) that the marriage has not been consummated owing to the incapacity of either party to consummate it;
 - (b) that the marriage has not been consummated owing to the wilful refusal of the respondent to consummate it;
@@ -31,13 +31,13 @@ summary: ''
 - (g)[^c19322221] that an interim gender recognition certificate under the Gender Recognition Act 2004 has, after the time of the marriage, been issued to either party to the marriage;
 - (h)[^c19322251] that the respondent is a person whose gender at the time of the marriage had become the acquired gender under the Gender Recognition Act 2004.
 
-(2)[^key-3e3b0da996dd6adebe1dbc7fcddd5c52] Paragraphs (a) and (b) of subsection (1) do not apply to the marriage of a same sex couple.
+(2)[^c-3e3b0da996dd6adebe1dbc7fcddd5c52] Paragraphs (a) and (b) of subsection (1) do not apply to the marriage of a same sex couple.
 
 ## Annotations
 
-[^key-e52a5e96fb987a7f9a69b5eebe28a3f2]: Textual amendment: S. 12 renumbered as s. 12(1) (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/4/2); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)
+[^c-e52a5e96fb987a7f9a69b5eebe28a3f2]: Textual amendment: S. 12 renumbered as s. 12(1) (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/4/2); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)
 
-[^key-e475a892a4dc6277802c6437e5aba5dd]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/ukpga/1973/18/section/12) inserted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3168)](https://www.legislation.gov.uk/uksi/2014/3168), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3), [Sch. para. 6(3)](https://www.legislation.gov.uk/uksi/2014/3168/schedule/paragraph/6/3)
+[^c-e475a892a4dc6277802c6437e5aba5dd]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/ukpga/1973/18/section/12) inserted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3168)](https://www.legislation.gov.uk/uksi/2014/3168), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3), [Sch. para. 6(3)](https://www.legislation.gov.uk/uksi/2014/3168/schedule/paragraph/6/3)
 
 [^c8895111]: Textual amendment: Words substituted by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [ss. 146](https://www.legislation.gov.uk/ukpga/1983/20/section/146), [147](https://www.legislation.gov.uk/ukpga/1983/20/section/147), [148](https://www.legislation.gov.uk/ukpga/1983/20/section/148), [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/1983/20/schedule/4/paragraph/34)
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c19322251]: Textual amendment: S. 12(h) inserted (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [ss. 11](https://www.legislation.gov.uk/ukpga/2004/7/section/11), [26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2004/7/schedule/4/paragraph/5); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
 
-[^key-3e3b0da996dd6adebe1dbc7fcddd5c52]: Textual amendment: S. 12(2) inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/4/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)
+[^c-3e3b0da996dd6adebe1dbc7fcddd5c52]: Textual amendment: S. 12(2) inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/4/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)

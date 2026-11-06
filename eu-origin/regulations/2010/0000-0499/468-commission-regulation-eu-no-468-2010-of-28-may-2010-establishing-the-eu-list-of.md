@@ -40,7 +40,7 @@ of 28 May 2010
 
 establishing the EU list of vessels engaged in illegal, unreported and unregulated fishing
 
-[^key-a93a3bf021141a5f49cc279a96c1a4b2]
+[^c-a93a3bf021141a5f49cc279a96c1a4b2]
 
 THE EUROPEAN COMMISSION,
 
@@ -72,23 +72,23 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** For the purpose of this Regulation ‘ United Kingdom[^key-87e236ea5b84fc7271a7b2ad3c051b22] IUU vessel list’ means a list of fishing vessels engaged in illegal, unreported and unregulated fishing as referred to in Article 27 of Regulation (EC) No 1005/2008.
+**Article 1.** For the purpose of this Regulation ‘ United Kingdom[^c-87e236ea5b84fc7271a7b2ad3c051b22] IUU vessel list’ means a list of fishing vessels engaged in illegal, unreported and unregulated fishing as referred to in Article 27 of Regulation (EC) No 1005/2008.
 
-**Article 2.** The United Kingdom[^key-bbc4a2159a9364763f9281da81d545f4] IUU vessel list is established in the Annex.
+**Article 2.** The United Kingdom[^c-bbc4a2159a9364763f9281da81d545f4] IUU vessel list is established in the Annex.
 
 [^M_F_1d09e28f-7040-40fb-b18a-0f60d8221f8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 [^M_F_d5003f7f-9511-4089-e5df-964e669792f5]...
 
-## ANNEX — United Kingdom IUU vessel list[^key-2d2611d11ad4afb1f0962e0b442b49b7]
+## ANNEX — United Kingdom IUU vessel list[^c-2d2611d11ad4afb1f0962e0b442b49b7]
 
 PART A
 
-**Vessels listed by the United Kingdom[^key-0490025d13b81a0174bc1bce1e1aa345]**
+**Vessels listed by the United Kingdom[^c-0490025d13b81a0174bc1bce1e1aa345]**
 
 PART B[^c000001]
 
-**Vessels listed by Regional Fisheries Management Organisations[^key-0f6dfeb1b3acb32a531c67b816d7bf4d]**
+**Vessels listed by Regional Fisheries Management Organisations[^c-0f6dfeb1b3acb32a531c67b816d7bf4d]**
 
 <table>
 <tfoot>
@@ -279,29 +279,29 @@ PART B[^c000001]
 </tbody>
 </table>
 
-[^c000002][^f00002][^f00003][^f00003][^f00003][^key-c6e67eef7cc90437a8b20ac8b0752f6c][^key-093c89077a5e6db27b0726f72826da7e][^key-615d533386dce5456e0793debadfe5a9][^key-48a495f01bbb6532c6091decaa14b3de][^key-fbfe591293c97b9ee2eadafb1e46939d][^key-ed38debae4964af041c8c6374a89710c][^key-4520f6a6b88ac4e0a843c2373ed25287][^key-3c3d5b35c899434aac11f82ae1dbeafb][^key-3ee76bf44984561e006ff1eb2d64898d][^key-e8577f202364999fd806f9c2d788c90b][^key-78a39c990540bf61c0ac15962ae53c33][^key-48c2457f9252c33e5f665511fe47500d][^key-cf9fdb2639778f9ee5dfc408476b94d4]
+[^c000002][^f00002][^f00003][^f00003][^f00003][^c-c6e67eef7cc90437a8b20ac8b0752f6c][^c-093c89077a5e6db27b0726f72826da7e][^c-615d533386dce5456e0793debadfe5a9][^c-48a495f01bbb6532c6091decaa14b3de][^c-fbfe591293c97b9ee2eadafb1e46939d][^c-ed38debae4964af041c8c6374a89710c][^c-4520f6a6b88ac4e0a843c2373ed25287][^c-3c3d5b35c899434aac11f82ae1dbeafb][^c-3ee76bf44984561e006ff1eb2d64898d][^c-e8577f202364999fd806f9c2d788c90b][^c-78a39c990540bf61c0ac15962ae53c33][^c-48c2457f9252c33e5f665511fe47500d][^c-cf9fdb2639778f9ee5dfc408476b94d4]
 
 ## Annotations
 
-[^key-a93a3bf021141a5f49cc279a96c1a4b2]: Modification: Regulation applied (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1599)](https://www.legislation.gov.uk/uksi/2020/1599), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2020/1599/regulation/7) (as amended (27.2.2025) by [S.I. 2025/82](https://www.legislation.gov.uk/uksi/2025/82), [Sch. 15 para. 50](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/50))
+[^c-a93a3bf021141a5f49cc279a96c1a4b2]: Modification: Regulation applied (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1599)](https://www.legislation.gov.uk/uksi/2020/1599), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2020/1599/regulation/7) (as amended (27.2.2025) by [S.I. 2025/82](https://www.legislation.gov.uk/uksi/2025/82), [Sch. 15 para. 50](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/50))
 
 [^f00001]: Footnote: [OJ L 286, 29.10.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.286.01.0001.01.ENG).
 
-[^key-87e236ea5b84fc7271a7b2ad3c051b22]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2010/468/article/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87e236ea5b84fc7271a7b2ad3c051b22]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2010/468/article/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bbc4a2159a9364763f9281da81d545f4]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2010/468/article/2) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bbc4a2159a9364763f9281da81d545f4]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2010/468/article/2) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_1d09e28f-7040-40fb-b18a-0f60d8221f8e]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2010/468/article/2) omitted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_d5003f7f-9511-4089-e5df-964e669792f5]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2010/468/article/2) repealed (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d2611d11ad4afb1f0962e0b442b49b7]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2010/468/annex) heading substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d2611d11ad4afb1f0962e0b442b49b7]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2010/468/annex) heading substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0490025d13b81a0174bc1bce1e1aa345]: Textual amendment: [Annex Pt. A](https://www.legislation.gov.uk/eur/2010/468/annex/part/A) heading substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0490025d13b81a0174bc1bce1e1aa345]: Textual amendment: [Annex Pt. A](https://www.legislation.gov.uk/eur/2010/468/annex/part/A) heading substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) No 137/2014 of 12 February 2014 amending Regulation (EU) No 468/2010 establishing the EU list of vessels engaged in illegal, unreported and unregulated fishing](https://www.legislation.gov.uk/eur/2014/137).
 
-[^key-0f6dfeb1b3acb32a531c67b816d7bf4d]: Textual amendment: Annex Pt. B heading substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(4)(c)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f6dfeb1b3acb32a531c67b816d7bf4d]: Textual amendment: Annex Pt. B heading substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [10(4)(c)](https://www.legislation.gov.uk/uksi/2019/739/regulation/10/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2020/269 of 26 February 2020 amending Regulation (EU) No 468/2010 establishing the EU list of vessels engaged in illegal, unreported and unregulated fishing (Part B – Vessels listed in Article 30 of Regulation (EC) No 1005/2008)](https://www.legislation.gov.uk/eur/2020/269).
 
@@ -309,28 +309,28 @@ PART B[^c000001]
 
 [^f00003]: Footnote: For any additional information consult the websites of the regional fisheries management organisations (RFMOs).
 
-[^key-c6e67eef7cc90437a8b20ac8b0752f6c]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. a](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/a) ra. a
+[^c-c6e67eef7cc90437a8b20ac8b0752f6c]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. a](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/a) ra. a
 
-[^key-093c89077a5e6db27b0726f72826da7e]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. c](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/c)
+[^c-093c89077a5e6db27b0726f72826da7e]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. c](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/c)
 
-[^key-615d533386dce5456e0793debadfe5a9]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. b](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/b)
+[^c-615d533386dce5456e0793debadfe5a9]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. b](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/b)
 
-[^key-48a495f01bbb6532c6091decaa14b3de]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. d](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/d)
+[^c-48a495f01bbb6532c6091decaa14b3de]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. d](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/d)
 
-[^key-fbfe591293c97b9ee2eadafb1e46939d]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. e](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/e)
+[^c-fbfe591293c97b9ee2eadafb1e46939d]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. e](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/e)
 
-[^key-ed38debae4964af041c8c6374a89710c]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. f](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/f)
+[^c-ed38debae4964af041c8c6374a89710c]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. f](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/f)
 
-[^key-4520f6a6b88ac4e0a843c2373ed25287]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. g](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/g)
+[^c-4520f6a6b88ac4e0a843c2373ed25287]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. g](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/g)
 
-[^key-3c3d5b35c899434aac11f82ae1dbeafb]: Textual amendment: Words in Annex Pt, B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. h](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/h)
+[^c-3c3d5b35c899434aac11f82ae1dbeafb]: Textual amendment: Words in Annex Pt, B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. h](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/h)
 
-[^key-3ee76bf44984561e006ff1eb2d64898d]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. i](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/i)
+[^c-3ee76bf44984561e006ff1eb2d64898d]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. i](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/i)
 
-[^key-e8577f202364999fd806f9c2d788c90b]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. j](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/j)
+[^c-e8577f202364999fd806f9c2d788c90b]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. j](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/j)
 
-[^key-78a39c990540bf61c0ac15962ae53c33]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. k](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/k)
+[^c-78a39c990540bf61c0ac15962ae53c33]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. k](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/k)
 
-[^key-48c2457f9252c33e5f665511fe47500d]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. l](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/l)
+[^c-48c2457f9252c33e5f665511fe47500d]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. l](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/l)
 
-[^key-cf9fdb2639778f9ee5dfc408476b94d4]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. m](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/m)
+[^c-cf9fdb2639778f9ee5dfc408476b94d4]: Textual amendment: Words in Annex Pt. B inserted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [Sch. para. m](https://www.legislation.gov.uk/uksi/2021/1429/schedule/paragraph/m)

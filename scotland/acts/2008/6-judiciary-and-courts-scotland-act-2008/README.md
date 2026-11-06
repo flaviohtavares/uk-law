@@ -81,7 +81,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 19 — Appointment](part-2/section-19.md)
 - [Section 20 — Selection criteria](part-2/section-20.md)
 
-##### Other Court of Session judges[^key-a7fc6b38e23c58ddd722f07adaa2866a]
+##### Other Court of Session judges[^c-a7fc6b38e23c58ddd722f07adaa2866a]
 
 *Extent: S*
 
@@ -184,7 +184,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 59 — Court holidays in sheriff courts and justice of the peace courts](part-3/section-59.md)
 
-### Part 4 — THE SCOTTISH COURTS AND TRIBUNALS SERVICE[^key-23787fd5ce80d314f96f03ca497ecf03]
+### Part 4 — THE SCOTTISH COURTS AND TRIBUNALS SERVICE[^c-23787fd5ce80d314f96f03ca497ecf03]
 
 *Extent: S*
 
@@ -236,6 +236,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 [^c2077203]: Extent: Pt. 2 Ch. 2 extended to E.W.N.I. (14.9.2009) by [S.I. 2009/2231](https://www.legislation.gov.uk/uksi/2009/2231), [art. 4](https://www.legislation.gov.uk/uksi/2009/2231/article/4)
 
-[^key-a7fc6b38e23c58ddd722f07adaa2866a]: Textual amendment: Ss. 20A-20G and preceding cross-heading substituted for ss. 21-23 (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 123](https://www.legislation.gov.uk/asp/2014/18/section/123), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-a7fc6b38e23c58ddd722f07adaa2866a]: Textual amendment: Ss. 20A-20G and preceding cross-heading substituted for ss. 21-23 (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 123](https://www.legislation.gov.uk/asp/2014/18/section/123), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-23787fd5ce80d314f96f03ca497ecf03]: Textual amendment: Pt. 4 title substituted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(12)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/12/a); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-23787fd5ce80d314f96f03ca497ecf03]: Textual amendment: Pt. 4 title substituted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(12)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/12/a); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

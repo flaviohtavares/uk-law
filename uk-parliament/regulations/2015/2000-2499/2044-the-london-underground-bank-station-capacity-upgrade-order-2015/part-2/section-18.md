@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Protective works to buildings, roads and apparatus of a statutory undertaker[^key-fae17fceb07131448c35cc98a00e21fb]
+## 18. Protective works to buildings, roads and apparatus of a statutory undertaker[^c-fae17fceb07131448c35cc98a00e21fb]
 
 *Extent: E+W+S*
 
@@ -73,4 +73,4 @@ the Company must compensate the owners and occupiers of the building for any los
 
 ## Annotations
 
-[^key-fae17fceb07131448c35cc98a00e21fb]: Commencement: Art. 18 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-fae17fceb07131448c35cc98a00e21fb]: Commencement: Art. 18 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Substitution of regulation 51 (applications relating to generic medicinal products)[^M_I_23e33a84-7c47-471a-eeab-6baccd24dca1][^key-5fdfa6021af030fbb474e196713f5de4]
+## 56. Substitution of regulation 51 (applications relating to generic medicinal products)[^M_I_23e33a84-7c47-471a-eeab-6baccd24dca1][^c-5fdfa6021af030fbb474e196713f5de4]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,4 +109,4 @@ For regulation 51 substitute—
 
 [^M_I_23e33a84-7c47-471a-eeab-6baccd24dca1]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5fdfa6021af030fbb474e196713f5de4]: Textual amendment: Reg. 56 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/41)
+[^c-5fdfa6021af030fbb474e196713f5de4]: Textual amendment: Reg. 56 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/41)

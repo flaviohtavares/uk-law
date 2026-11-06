@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Replacement of declarations of identity by postal voting statements[^key-6d57583b31ef060d3146233536be785e]
+## 65. Replacement of declarations of identity by postal voting statements[^c-6d57583b31ef060d3146233536be785e]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In the Representation of the People (England and Wales) Regulations 2001[^f00086
 
 ## Annotations
 
-[^key-6d57583b31ef060d3146233536be785e]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2006/2910/regulation/65) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-6d57583b31ef060d3146233536be785e]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2006/2910/regulation/65) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00086]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341).

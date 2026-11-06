@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Sanction ceases to apply to employment and support allowance[^key-630ce7317859772e3845394bd5f16c8a]
+## 43. Sanction ceases to apply to employment and support allowance[^c-630ce7317859772e3845394bd5f16c8a]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-630ce7317859772e3845394bd5f16c8a]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2016/219/regulation/43) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-630ce7317859772e3845394bd5f16c8a]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2016/219/regulation/43) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

@@ -25,7 +25,7 @@ summary: ''
 (2) Parts IV to VII extend to England and Wales, Scotland and Northern Ireland, except that—
 
 - (a) sections 287 to 292 (patents county courts) extend to England and Wales only,
-- (b)[^key-18d6a1712aaf68122b7b0cce2a660d79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-18d6a1712aaf68122b7b0cce2a660d79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the amendments and repeals in Schedules 7 and 8 have the same extent as the enactments amended or repealed.
 
 (3) The following provisions extend to the Isle of Man subject to any modifications contained in an Order made by Her Majesty in Council—
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18d6a1712aaf68122b7b0cce2a660d79]: Textual amendment: [S. 304(2)(b)](https://www.legislation.gov.uk/ukpga/1988/48/section/304/2/b) omitted (23.5.2016) by virtue of [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2016/10/section/3/4), [5(3)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/3)
+[^c-18d6a1712aaf68122b7b0cce2a660d79]: Textual amendment: [S. 304(2)(b)](https://www.legislation.gov.uk/ukpga/1988/48/section/304/2/b) omitted (23.5.2016) by virtue of [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2016/10/section/3/4), [5(3)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/3)

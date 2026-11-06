@@ -29,29 +29,29 @@ British Shipbuilders Act 1983 (repealed)
 
 1983 c. 15
 
-[^key-96862452a4611a2ebcf18801f8f27b6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96862452a4611a2ebcf18801f8f27b6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Modification of British Shipbuilders’ functions.[^key-96862452a4611a2ebcf18801f8f27b6e][^key-96862452a4611a2ebcf18801f8f27b6e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Organisation et ceteralaetc. of British Shipbuilders’ activities.[^key-96862452a4611a2ebcf18801f8f27b6e][^key-96862452a4611a2ebcf18801f8f27b6e]
+## 1. Modification of British Shipbuilders’ functions.[^c-96862452a4611a2ebcf18801f8f27b6e][^c-96862452a4611a2ebcf18801f8f27b6e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title, interpretation, repeals, commencement and extent.[^key-96862452a4611a2ebcf18801f8f27b6e][^key-96862452a4611a2ebcf18801f8f27b6e]
+## 2. Organisation et ceteralaetc. of British Shipbuilders’ activities.[^c-96862452a4611a2ebcf18801f8f27b6e][^c-96862452a4611a2ebcf18801f8f27b6e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule[^key-96862452a4611a2ebcf18801f8f27b6e]
+## 3. Short title, interpretation, repeals, commencement and extent.[^c-96862452a4611a2ebcf18801f8f27b6e][^c-96862452a4611a2ebcf18801f8f27b6e]
 
-### Enactments Repealed[^key-96862452a4611a2ebcf18801f8f27b6e]
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Schedule[^c-96862452a4611a2ebcf18801f8f27b6e]
+
+### Enactments Repealed[^c-96862452a4611a2ebcf18801f8f27b6e]
 
 **No longer in force.**
 
@@ -59,4 +59,4 @@ British Shipbuilders Act 1983 (repealed)
 
 ## Annotations
 
-[^key-96862452a4611a2ebcf18801f8f27b6e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1983/15) repealed (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/6)
+[^c-96862452a4611a2ebcf18801f8f27b6e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1983/15) repealed (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/6)

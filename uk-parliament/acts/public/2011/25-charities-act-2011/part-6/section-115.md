@@ -38,7 +38,7 @@ but not by any other person.
 - (a) in a pending cause or matter, or
 - (b) for the bringing of any appeal.
 
-(5) Where subsections (1) to (4) require the taking of charity proceedings to be authorised by an order of the Commission, the proceedings may nevertheless be entertained or proceeded with if, after the order had been applied for and refused, leave to take the proceedings was obtained from one of the judges of the High Court attached to the Business and Property Division[^key-e51cc4dda34ab1ff7f6d2d9003ab91fd].
+(5) Where subsections (1) to (4) require the taking of charity proceedings to be authorised by an order of the Commission, the proceedings may nevertheless be entertained or proceeded with if, after the order had been applied for and refused, leave to take the proceedings was obtained from one of the judges of the High Court attached to the Business and Property Division[^c-e51cc4dda34ab1ff7f6d2d9003ab91fd].
 
 (6) Nothing in subsections (1) to (5) applies—
 
@@ -59,4 +59,4 @@ the Commission must so inform the Attorney General and send the Attorney General
 
 ## Annotations
 
-[^key-e51cc4dda34ab1ff7f6d2d9003ab91fd]: Textual amendment: Words in [s. 115(5)](https://www.legislation.gov.uk/ukpga/2011/25/section/115/5) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/26)
+[^c-e51cc4dda34ab1ff7f6d2d9003ab91fd]: Textual amendment: Words in [s. 115(5)](https://www.legislation.gov.uk/ukpga/2011/25/section/115/5) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/26)

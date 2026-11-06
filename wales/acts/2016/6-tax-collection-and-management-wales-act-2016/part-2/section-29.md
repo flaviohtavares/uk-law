@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Accounts[^key-6dbaa1b106218e09c68a574eb7637abd]
+## 29. Accounts[^c-6dbaa1b106218e09c68a574eb7637abd]
 
 *Extent: E+W*
 
@@ -31,12 +31,12 @@ summary: ''
 - (b) the methods and principles in accordance with which the accounts are to be prepared;
 - (c) additional information that is to accompany the accounts.
 
-(2A)[^key-a8cfe4c5b23a0eb4608a2624ffe9099a] Before giving a direction under subsection (1)(b) that relates only to the visitor levy, the Welsh Ministers must consult each principal council that has introduced, or decided to introduce, the visitor levy in its area.
+(2A)[^c-a8cfe4c5b23a0eb4608a2624ffe9099a] Before giving a direction under subsection (1)(b) that relates only to the visitor levy, the Welsh Ministers must consult each principal council that has introduced, or decided to introduce, the visitor levy in its area.
 
 (3) Directions under this section may be varied or revoked at any time.
 
 ## Annotations
 
-[^key-6dbaa1b106218e09c68a574eb7637abd]: Commencement: S. 29 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-6dbaa1b106218e09c68a574eb7637abd]: Commencement: S. 29 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
 
-[^key-a8cfe4c5b23a0eb4608a2624ffe9099a]: Textual amendment: [S. 29(2A)](https://www.legislation.gov.uk/anaw/2016/6/section/29/2A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/29)
+[^c-a8cfe4c5b23a0eb4608a2624ffe9099a]: Textual amendment: [S. 29(2A)](https://www.legislation.gov.uk/anaw/2016/6/section/29/2A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/29)

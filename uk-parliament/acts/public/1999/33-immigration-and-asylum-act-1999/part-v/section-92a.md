@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92A. Investigation of offence: power of entry[^key-944b137983638f79234daeab12899a79]
+## 92A. Investigation of offence: power of entry[^c-944b137983638f79234daeab12899a79]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-944b137983638f79234daeab12899a79]: Textual amendment: S. 92A inserted (1.10.2004) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2004/19/section/38/1), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3); [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-944b137983638f79234daeab12899a79]: Textual amendment: S. 92A inserted (1.10.2004) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2004/19/section/38/1), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3); [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

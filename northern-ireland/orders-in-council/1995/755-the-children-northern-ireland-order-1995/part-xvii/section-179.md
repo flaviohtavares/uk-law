@@ -43,7 +43,7 @@ shall continue in force until the child reaches the age of 18, unless it is brou
 
 (9) An order under Schedule 1 has effect as specified in that Schedule.
 
-(10)[^key-fdc3bc1498f26c6a66a0fda9f1d3699f] An Article 8 order shall, if it would otherwise still be in force, cease to have effect when the child reaches the age of 16, unless it is to have effect beyond that age by virtue of Article 9(6).
+(10)[^c-fdc3bc1498f26c6a66a0fda9f1d3699f] An Article 8 order shall, if it would otherwise still be in force, cease to have effect when the child reaches the age of 16, unless it is to have effect beyond that age by virtue of Article 9(6).
 
 (11) Where an Article 8 order has effect with respect to a child who has reached the age of 16, it shall, if it would otherwise still be in force, cease to have effect when he reaches the age of 18.
 
@@ -81,4 +81,4 @@ that person may not make a further application for such an order with respect to
 
 [^c17271411]: Textual amendment: [2001 c. 12 (NI)](https://www.legislation.gov.uk/nia/2001/12)
 
-[^key-fdc3bc1498f26c6a66a0fda9f1d3699f]: Modification: [Art. 179(10)](https://www.legislation.gov.uk/nisi/1995/755/article/179/10) modified (1.4.2024) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 118(3)](https://www.legislation.gov.uk/nia/2022/18/section/118/3), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/30/article/2/b)
+[^c-fdc3bc1498f26c6a66a0fda9f1d3699f]: Modification: [Art. 179(10)](https://www.legislation.gov.uk/nisi/1995/755/article/179/10) modified (1.4.2024) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 118(3)](https://www.legislation.gov.uk/nia/2022/18/section/118/3), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/30/article/2/b)

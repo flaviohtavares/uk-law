@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Removal of trustee by beneficiaries[^key-24aee9bb19df0031287ee61076152663]
+## 10. Removal of trustee by beneficiaries[^c-24aee9bb19df0031287ee61076152663]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ without the retention of some or all of the trust property.
 
 ## Annotations
 
-[^key-24aee9bb19df0031287ee61076152663]: Commencement: S. 10 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-24aee9bb19df0031287ee61076152663]: Commencement: S. 10 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

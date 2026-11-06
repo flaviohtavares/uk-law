@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Contravention of code regulating premium rate services[^key-e1d445ac99464bd3c53b347267f82b57]
+## 80. Contravention of code regulating premium rate services[^c-e1d445ac99464bd3c53b347267f82b57]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1d445ac99464bd3c53b347267f82b57]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2015/15/section/80) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1630/article/7))
+[^c-e1d445ac99464bd3c53b347267f82b57]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2015/15/section/80) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1630/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Power to extend Act to berths and moorings[^key-ee82de90e4f92e9b447ed604f56b24cc]
+## 62. Power to extend Act to berths and moorings[^c-ee82de90e4f92e9b447ed604f56b24cc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Welsh Ministers may by regulations amend this Act, and the [Tax Collection a
 
 ## Annotations
 
-[^key-ee82de90e4f92e9b447ed604f56b24cc]: Commencement: S. 62 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-ee82de90e4f92e9b447ed604f56b24cc]: Commencement: S. 62 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

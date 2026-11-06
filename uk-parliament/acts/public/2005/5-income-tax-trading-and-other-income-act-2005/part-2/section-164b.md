@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164B. Intermediaries providing worker's services to public sector[^key-314b76039a48c35ef2fa69f87b7e7989]
+## 164B. Intermediaries providing worker's services to public sector[^c-314b76039a48c35ef2fa69f87b7e7989]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-314b76039a48c35ef2fa69f87b7e7989]: Textual amendment: [S. 164B](https://www.legislation.gov.uk/ukpga/2005/5/section/164B) and cross-heading inserted (27.4.2017) (with effect in accordance with Sch. 1 paras. 16, 17 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/13)
+[^c-314b76039a48c35ef2fa69f87b7e7989]: Textual amendment: [S. 164B](https://www.legislation.gov.uk/ukpga/2005/5/section/164B) and cross-heading inserted (27.4.2017) (with effect in accordance with Sch. 1 paras. 16, 17 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/13)

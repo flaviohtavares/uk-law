@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Repeals, revocations and amendments (affected by repeal, see note)[^key-0d37a0fdbb6ef8e212b595c5f6441450][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+## 28. Repeals, revocations and amendments (affected by repeal, see note)[^c-0d37a0fdbb6ef8e212b595c5f6441450][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
 *Extent: E+W+S+N.I.*
 
-(1) The primary legislation specified in Part 1 of Schedule 5 and the secondary legislation specified in Part 2 of that Schedule shall be amended in accordance with the provisions of that Schedule. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+(1) The primary legislation specified in Part 1 of Schedule 5 and the secondary legislation specified in Part 2 of that Schedule shall be amended in accordance with the provisions of that Schedule. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-(2) The primary legislation specified in column 1 of Part 1 of Schedule 6 shall be repealed to the extent specified in column 3 of that Schedule. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+(2) The primary legislation specified in column 1 of Part 1 of Schedule 6 shall be repealed to the extent specified in column 3 of that Schedule. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-(3) The secondary legislation specified in column 1 of Part 2 of Schedule 6 shall be revoked to the extent specified in column 3 of that Schedule. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+(3) The secondary legislation specified in column 1 of Part 2 of Schedule 6 shall be revoked to the extent specified in column 3 of that Schedule. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 ## Annotations
 
-[^key-0d37a0fdbb6ef8e212b595c5f6441450]: Commencement: Reg. 28 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
+[^c-0d37a0fdbb6ef8e212b595c5f6441450]: Commencement: Reg. 28 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
 
-[^key-c8f710f05d44de617588a65a6843d766]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1082) revoked (with savings) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2) (with [reg. 47](https://www.legislation.gov.uk/uksi/2014/1638/regulation/47/made))
+[^c-c8f710f05d44de617588a65a6843d766]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1082) revoked (with savings) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2) (with [reg. 47](https://www.legislation.gov.uk/uksi/2014/1638/regulation/47/made))

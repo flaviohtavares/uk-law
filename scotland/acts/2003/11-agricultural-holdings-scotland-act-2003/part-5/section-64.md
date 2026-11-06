@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Tenant’s right to withhold rent[^key-0ee5f9883830c9931364af2ba4b07a49]
+## 64. Tenant’s right to withhold rent[^c-0ee5f9883830c9931364af2ba4b07a49]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ After section 15 (increase of rent for certain improvements by landlord) of the 
 
 ## Annotations
 
-[^key-0ee5f9883830c9931364af2ba4b07a49]: Commencement: S. 64 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-0ee5f9883830c9931364af2ba4b07a49]: Commencement: S. 64 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

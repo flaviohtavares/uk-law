@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The Secretary of State[^c18957771], the Welsh Ministers[^key-9cd6977c10831d0f72e99bcec74f3306] and the Scottish Ministers shall each have power by regulations to make provision for and in connection with—
+(1) The Secretary of State[^c18957771], the Welsh Ministers[^c-9cd6977c10831d0f72e99bcec74f3306] and the Scottish Ministers shall each have power by regulations to make provision for and in connection with—
 
 - (a) the imposition of requirements on persons travelling by, present on, or leaving trains or stations to produce, if required to do so in accordance with the regulations, a ticket or other authority authorising them to travel by, be present on, or leave the train or station in question; and
 - (b) the charging of persons in breach of such requirements to financial penalties (in this section referred to as “**penalty fares**”) in such circumstances, and subject to compliance with such conditions (if any), as may be prescribed;
 
 and in this section any reference to a ticket or other authority of any description includes a reference to any other document which, under the regulations, is required to be produced in conjunction with any such ticket or other authority, for the purpose of demonstrating that the ticket or other authority produced by a person is valid in his case.
 
-(1ZA)[^key-8d37d015c747384eb327e9b1d87b195e] The power of the Welsh Ministers under this section to make provision for and in connection with the imposition of requirements on persons present on or leaving stations is exercisable only in relation to persons present on or leaving relevant Welsh stations in connection with the use of railway passenger services provided under Welsh franchise agreements or secured to any extent by the Welsh Ministers.
+(1ZA)[^c-8d37d015c747384eb327e9b1d87b195e] The power of the Welsh Ministers under this section to make provision for and in connection with the imposition of requirements on persons present on or leaving stations is exercisable only in relation to persons present on or leaving relevant Welsh stations in connection with the use of railway passenger services provided under Welsh franchise agreements or secured to any extent by the Welsh Ministers.
 
 (1ZB) In subsection (1ZA) “relevant Welsh stations” are stations wholly in Wales that are used for the purposes of railway passenger services provided under Welsh franchise agreements or secured to any extent by the Welsh Ministers.
 
@@ -70,7 +70,7 @@ and in this section any reference to a ticket or other authority of any descript
 - (m) the retention, by persons by or on behalf of whom charges to penalty fares are imposed, of sums paid by way of penalty fare;
 - (n) the remission of liability to pay penalty fares and the repayment of sums paid by way of penalty fare;
 - (o) the prevention of a person’s being liable both to payment of a penalty fare and to prosecution for a prescribed offence;
-- (p)[^c18957901] the imposition by the Secretary of State, the Welsh Ministers[^key-17e1fc3957ce43b67ffe4de8e786dbeb] or the Scottish Ministers of prohibitions on the charging of penalty fares by prescribed persons and in prescribed circumstances.
+- (p)[^c18957901] the imposition by the Secretary of State, the Welsh Ministers[^c-17e1fc3957ce43b67ffe4de8e786dbeb] or the Scottish Ministers of prohibitions on the charging of penalty fares by prescribed persons and in prescribed circumstances.
 
 (3) The documents mentioned in subsection (2)(k) above include any document which consists of or includes—
 
@@ -107,7 +107,7 @@ shall, in prescribed circumstances, be an offence punishable on summary convicti
 
 (11A)[^c18957851] A statutory instrument containing regulations made by the Scottish Ministers under this section is subject to annulment in pursuance of a resolution of the Scottish Parliament.
 
-(11B)[^key-bae9a59df44d335a6b2f8b59d0c6aa05] A statutory instrument containing regulations made by the Welsh Ministers under this section is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+(11B)[^c-bae9a59df44d335a6b2f8b59d0c6aa05] A statutory instrument containing regulations made by the Welsh Ministers under this section is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
 (12) In this section—
 
@@ -125,15 +125,15 @@ and, subject to that, expressions used in Part I above and in this section have 
 
 [^c18957771]: Textual amendment: Words in s. 130(1) substituted (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 47(1)](https://www.legislation.gov.uk/ukpga/2005/14/section/47/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
-[^key-9cd6977c10831d0f72e99bcec74f3306]: Textual amendment: Words in s. 130(1) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 28(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/28/2)
+[^c-9cd6977c10831d0f72e99bcec74f3306]: Textual amendment: Words in s. 130(1) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 28(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/28/2)
 
-[^key-8d37d015c747384eb327e9b1d87b195e]: Textual amendment: S. 130(1ZA)-(1ZF) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 28(3)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/28/3)
+[^c-8d37d015c747384eb327e9b1d87b195e]: Textual amendment: S. 130(1ZA)-(1ZF) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 28(3)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/28/3)
 
 [^c18957831]: Textual amendment: S. 130(1A) inserted (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 47(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/47/2), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
 [^c18957901]: Textual amendment: S. 130(2)(p) substituted (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60),{ Sch. 1 para. 34(a)}; [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule) (subject to the transtional and saving provisions in [arts. 3-7](https://www.legislation.gov.uk/uksi/2006/2911/article/3))
 
-[^key-17e1fc3957ce43b67ffe4de8e786dbeb]: Textual amendment: Words in s. 130(2)(p) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 28(4)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/28/4)
+[^c-17e1fc3957ce43b67ffe4de8e786dbeb]: Textual amendment: Words in s. 130(2)(p) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 28(4)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/28/4)
 
 [^c18958091]: Textual amendment: S.130(5)(6)(10) repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 34(b)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/34/b), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911) {art. 2}, Sch. (subject to the transitional and saving provisions in arts. 3-7)
 
@@ -141,4 +141,4 @@ and, subject to that, expressions used in Part I above and in this section have 
 
 [^c18957851]: Textual amendment: S. 130(11A) inserted (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 47(3)](https://www.legislation.gov.uk/ukpga/2005/14/section/47/3), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
-[^key-bae9a59df44d335a6b2f8b59d0c6aa05]: Textual amendment: S. 130(11B) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 28(5)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/28/5)
+[^c-bae9a59df44d335a6b2f8b59d0c6aa05]: Textual amendment: S. 130(11B) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 28(5)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/28/5)

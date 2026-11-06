@@ -46,87 +46,87 @@ Coming into force
 
 The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 2A(1), (3) to (6) and (8), 2AA(1) and (4) to (7), 2B(6), 189(1), (4), (5) and (7A) and 191 of the Social Security Administration Act 1992 [^c532105], sections 60(1) to (4) and (9) and 83(4) and (6) of the Welfare Reform and Pensions Act 1999 [^c532106] and section 19(10) of the Jobseekers Act 1995 [^c532107], and of all other powers enabling him in that behalf, after consultation with the Council on Tribunals in accordance with section 8(1) of the Tribunals and Inquiries Act 1992 [^c532108], and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations need not be referred to it [^c532109], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-89768c86562155c846551ba2b0b45023]
+## 1. Citation and commencement[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation and application[^key-89768c86562155c846551ba2b0b45023]
+## 2. Interpretation and application[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirement for a relevant person claiming certain benefits to take part in an interview[^key-89768c86562155c846551ba2b0b45023]
+## 3. Requirement for a relevant person claiming certain benefits to take part in an interview[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Continuing entitlement to payment of full amount of a specified benefit dependent upon an interview[^key-89768c86562155c846551ba2b0b45023]
+## 4. Continuing entitlement to payment of full amount of a specified benefit dependent upon an interview[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Time when interview is to take place[^key-89768c86562155c846551ba2b0b45023]
+## 5. Time when interview is to take place[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Waiver of requirement to take part in an interview[^key-89768c86562155c846551ba2b0b45023]
+## 6. Waiver of requirement to take part in an interview[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Deferment of requirement to take part in an interview[^key-89768c86562155c846551ba2b0b45023]
+## 7. Deferment of requirement to take part in an interview[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Exemptions[^key-89768c86562155c846551ba2b0b45023]
+## 8. Exemptions[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Claims for two or more specified benefits[^key-89768c86562155c846551ba2b0b45023]
+## 9. Claims for two or more specified benefits[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. The interview[^key-89768c86562155c846551ba2b0b45023]
+## 10. The interview[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Taking part in an interview[^key-89768c86562155c846551ba2b0b45023]
+## 11. Taking part in an interview[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Failure to take part in an interview[^key-89768c86562155c846551ba2b0b45023]
+## 12. Failure to take part in an interview[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Circumstances where regulation 12 ceases to apply[^key-89768c86562155c846551ba2b0b45023]
+## 13. Circumstances where regulation 12 ceases to apply[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Good cause[^key-89768c86562155c846551ba2b0b45023]
+## 14. Good cause[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Appeals[^key-89768c86562155c846551ba2b0b45023]
+## 15. Appeals[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Areas designated as employment zones[^key-89768c86562155c846551ba2b0b45023]
+## 16. Areas designated as employment zones[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Referral to an employment zone programme[^key-89768c86562155c846551ba2b0b45023]
+## 17. Referral to an employment zone programme[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Early entry to an employment zone programme[^key-89768c86562155c846551ba2b0b45023]
+## 18. Early entry to an employment zone programme[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Stages of employment zone programme[^key-89768c86562155c846551ba2b0b45023]
+## 19. Stages of employment zone programme[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Suspension of the requirements of the Jobseekers Act 1995[^key-89768c86562155c846551ba2b0b45023]
+## 20. Suspension of the requirements of the Jobseekers Act 1995[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Cessation and consequential provision[^key-89768c86562155c846551ba2b0b45023]
+## 21. Cessation and consequential provision[^c-89768c86562155c846551ba2b0b45023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -136,7 +136,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (2) In paragraph (5) of regulation 6A (claims by persons subject to work-focused interviews) for the words “a person is required to take part in under the Social Security (Jobcentre Plus Interviews) Regulations 2002” there shall be substituted “ is conducted for such purposes connected with employment or training as are specified in regulations made under section 2A of the Social Security Administration Act 1992 [^c532127] ”.
 
-## 23. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-18caa570d1e2637bba79af0d17062c89]
+## 23. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-18caa570d1e2637bba79af0d17062c89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -176,7 +176,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
   ;
 - (c) in paragraph (2) there shall be substituted for the words “or (b)(ii)” the words “ ,(b)(ii) or (c) ”.
 
-(3)[^key-8b0b9e5ba46e4d1979a48f315698450f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8b0b9e5ba46e4d1979a48f315698450f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph (3)(b) of regulation 7 (consequence of failure to take part in an interview) after the words “regulation 2(1)(b)” there shall be inserted the words “ or (c) ”.
 
@@ -184,7 +184,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (1) The Social Security (Jobcentre Plus Interviews) Regulations 2002 [^c532135] shall be amended in accordance with this regulation.
 
-(2)[^key-225cd3fc82e467dd029ed3e9b97caca0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-225cd3fc82e467dd029ed3e9b97caca0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 4 (continuing entitlement to specified benefit dependent on an interview)—
 
@@ -211,9 +211,9 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
   .
 
-(4)[^key-225cd3fc82e467dd029ed3e9b97caca0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-225cd3fc82e467dd029ed3e9b97caca0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27. Amendment of the Social Security (Jobcentre Plus Interviews for Partners) Regulations 2003[^key-eb8fe47e480582805a8d62949fe69d28]
+## 27. Amendment of the Social Security (Jobcentre Plus Interviews for Partners) Regulations 2003[^c-eb8fe47e480582805a8d62949fe69d28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -227,65 +227,65 @@ Department for Work and Pensions
 
 29th March 2004
 
-## SCHEDULE[^key-2c4b4023aba0e90efad4d441316485bd]
+## SCHEDULE[^c-2c4b4023aba0e90efad4d441316485bd]
 
 **No longer in force.**
 
 Regulation 2
 
-[^key-2c4b4023aba0e90efad4d441316485bd]
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 1[^key-2c4b4023aba0e90efad4d441316485bd]
+### PART 1[^c-2c4b4023aba0e90efad4d441316485bd]
 
-[^key-2c4b4023aba0e90efad4d441316485bd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-2c4b4023aba0e90efad4d441316485bd]
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c4b4023aba0e90efad4d441316485bd]
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c4b4023aba0e90efad4d441316485bd]
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c4b4023aba0e90efad4d441316485bd]
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c4b4023aba0e90efad4d441316485bd]
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c4b4023aba0e90efad4d441316485bd]
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-2c4b4023aba0e90efad4d441316485bd]
-
-[^key-2c4b4023aba0e90efad4d441316485bd]
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c4b4023aba0e90efad4d441316485bd]
+### PART 2[^c-2c4b4023aba0e90efad4d441316485bd]
+
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c4b4023aba0e90efad4d441316485bd]
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c4b4023aba0e90efad4d441316485bd]
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c4b4023aba0e90efad4d441316485bd]
+[^c-2c4b4023aba0e90efad4d441316485bd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2c4b4023aba0e90efad4d441316485bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -345,13 +345,13 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c532109]: Marginal citation: *See* sections 170 and 173(1)(b) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5); [paragraph 67(a)](https://www.legislation.gov.uk/uksi/2004/959/paragraph/67/a) of Schedule 2 to the [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18) added that Act, and paragraphs 79 and 81(a) of Schedule 12 Part II to the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) added section 60 of that Act, to the list of “relevant enactments” in section 170(5) in respect of which regulations must normally be referred to the Committee.
 
-[^key-89768c86562155c846551ba2b0b45023]: Textual amendment: [Regs. 1-21](https://www.legislation.gov.uk/uksi/2004/959/regulation/1) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))
+[^c-89768c86562155c846551ba2b0b45023]: Textual amendment: [Regs. 1-21](https://www.legislation.gov.uk/uksi/2004/959/regulation/1) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))
 
 [^c532126]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Regulation 6A was inserted by [S.I. 2000/897](https://www.legislation.gov.uk/uksi/2000/897); the relevant amending instrument is [S.I. 2002/1703](https://www.legislation.gov.uk/uksi/2002/1703).
 
 [^c532127]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 2A was inserted by section 57 of the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-18caa570d1e2637bba79af0d17062c89]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2004/959/regulation/23) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))
+[^c-18caa570d1e2637bba79af0d17062c89]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2004/959/regulation/23) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))
 
 [^c532129]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
@@ -365,12 +365,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c532134]: Marginal citation: [S.I. 2000/1926](https://www.legislation.gov.uk/uksi/2000/1926) as amended by [S.I. 2001/1189](https://www.legislation.gov.uk/uksi/2001/1189), 2001/3210, 2002/670, 2002/1703, 2003/400, 2003/492 and 2004/565.
 
-[^key-8b0b9e5ba46e4d1979a48f315698450f]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/2004/959/regulation/25/3) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))
+[^c-8b0b9e5ba46e4d1979a48f315698450f]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/2004/959/regulation/25/3) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))
 
 [^c532135]: Marginal citation: [S.I. 2002/1703](https://www.legislation.gov.uk/uksi/2002/1703), as amended by [S.I. 2002/2497](https://www.legislation.gov.uk/uksi/2002/2497), 2003/492 and 2003/2439.
 
-[^key-225cd3fc82e467dd029ed3e9b97caca0]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2004/959/regulation/26/2)[(4)](https://www.legislation.gov.uk/uksi/2004/959/regulation/26/4) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))
+[^c-225cd3fc82e467dd029ed3e9b97caca0]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2004/959/regulation/26/2)[(4)](https://www.legislation.gov.uk/uksi/2004/959/regulation/26/4) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))
 
-[^key-eb8fe47e480582805a8d62949fe69d28]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2004/959/regulation/27) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))
+[^c-eb8fe47e480582805a8d62949fe69d28]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2004/959/regulation/27) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))
 
-[^key-2c4b4023aba0e90efad4d441316485bd]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2004/959/schedule) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))
+[^c-2c4b4023aba0e90efad4d441316485bd]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2004/959/schedule) revoked (24.4.2006) by [Social Security (Working Neighbourhoods) Miscellaneous Amendments Regulations 2006 (S.I. 2006/909)](https://www.legislation.gov.uk/uksi/2006/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/909/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/909/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2006/909/regulation/4))

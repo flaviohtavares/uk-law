@@ -33,7 +33,7 @@ SOCIAL CARE, WALES
 
 CHILDREN AND YOUNG PERSONS, WALES
 
-The Integrated Family Support Teams (Review of Cases) (Wales) Regulations 2010 (revoked)[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+The Integrated Family Support Teams (Review of Cases) (Wales) Regulations 2010 (revoked)[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 Made
 
@@ -47,93 +47,93 @@ Coming into force
 
 1 September 2010
 
-[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## 1. Citation, commencement, interpretation and application[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Duty to review cases[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## 2. Duty to review cases[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Time when each case is to be reviewed[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## 3. Time when each case is to be reviewed[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Manner in which cases are to be reviewed[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## 4. Manner in which cases are to be reviewed[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Considerations to which local authorities are to have regard[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## 5. Considerations to which local authorities are to have regard[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consultation, participation and notification[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## 6. Consultation, participation and notification[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Arrangements for implementation of decisions arising from reviews[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## 7. Arrangements for implementation of decisions arising from reviews[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Recording review information[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## 8. Recording review information[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendments to the Review of Children’s Cases (Wales) Regulations 2007[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## 9. Amendments to the Review of Children’s Cases (Wales) Regulations 2007[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Matters to be dealt with in case review[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## SCHEDULE 1 — Matters to be dealt with in case review[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 Regulation 4(4)
 
-**1.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Considerations to which local authorities are to have regard[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## SCHEDULE 2 — Considerations to which local authorities are to have regard[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 Regulation 5
 
-### PART 1 — The child[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+### PART 1 — The child[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
-**1.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Family[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+### PART 2 — Family[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
-**5.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-eb7d40b2ba1bc447f3c4c85f06880f7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Review of Children’s Cases (Wales) Regulations 2007[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]
+## SCHEDULE 3 — Review of Children’s Cases (Wales) Regulations 2007[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]
 
 Regulation 9(3)(b)
 
@@ -141,8 +141,8 @@ Regulation 9(3)(b)
 
 **May not be in force at this date. Check the source.**
 
-[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eb7d40b2ba1bc447f3c4c85f06880f7f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/1700) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-eb7d40b2ba1bc447f3c4c85f06880f7f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/1700) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

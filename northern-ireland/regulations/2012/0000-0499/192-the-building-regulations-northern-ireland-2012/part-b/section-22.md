@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Interpretation[^key-8353e2e126e3ac4ee683fc21ce7169b7]
+## 22. Interpretation[^c-8353e2e126e3ac4ee683fc21ce7169b7]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ In this Part—
 
 ## Annotations
 
-[^key-8353e2e126e3ac4ee683fc21ce7169b7]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2012/192/regulation/22) substituted (1.4.2022) by [The Building (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/71)](https://www.legislation.gov.uk/nisr/2022/71), [regs. 1](https://www.legislation.gov.uk/nisr/2022/71/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2022/71/regulation/6/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2022/71/regulation/3))
+[^c-8353e2e126e3ac4ee683fc21ce7169b7]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2012/192/regulation/22) substituted (1.4.2022) by [The Building (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/71)](https://www.legislation.gov.uk/nisr/2022/71), [regs. 1](https://www.legislation.gov.uk/nisr/2022/71/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2022/71/regulation/6/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2022/71/regulation/3))

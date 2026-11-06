@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 117. Interpretation[^key-c4acb61c5788dffe883c539b9ba5d2c1]
+## 117. Interpretation[^c-c4acb61c5788dffe883c539b9ba5d2c1]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-c4acb61c5788dffe883c539b9ba5d2c1]: Commencement: Reg. 117 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c4acb61c5788dffe883c539b9ba5d2c1]: Commencement: Reg. 117 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

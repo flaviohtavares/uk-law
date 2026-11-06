@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 287. Revocation of order for pedestrianisation of highway[^key-12297c338b534894aedaad8be0c1700f]
+## 287. Revocation of order for pedestrianisation of highway[^c-12297c338b534894aedaad8be0c1700f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12297c338b534894aedaad8be0c1700f]: Commencement: S. 287 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-12297c338b534894aedaad8be0c1700f]: Commencement: S. 287 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

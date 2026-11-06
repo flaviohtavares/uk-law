@@ -24,7 +24,7 @@ summary: ''
 
 - (a) President of the Employment Tribunals (England and Wales)[^c10347941],
 - (b) President of the Employment Tribunals (Scotland)[^c10347951],
-- (c) member of a panel of Employment Judges[^key-c9c42e82579b728c96726ac901c69b75] so established,
+- (c) member of a panel of Employment Judges[^c-c9c42e82579b728c96726ac901c69b75] so established,
 
 if remunerated, apart from any allowances, on an annual basis.
 
@@ -62,6 +62,6 @@ if remunerated, apart from any allowances, on an annual basis.
 
 [^c10347951]: Textual amendment: Words in s. 12(1) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [ss. 1(2)(e)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/e), [16(2)(3)(b)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2/3/b); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art.2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
-[^key-c9c42e82579b728c96726ac901c69b75]: Textual amendment: Words in [s. 12(1)(c)](https://www.legislation.gov.uk/ukpga/1981/20/section/12/1/c) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-c9c42e82579b728c96726ac901c69b75]: Textual amendment: Words in [s. 12(1)(c)](https://www.legislation.gov.uk/ukpga/1981/20/section/12/1/c) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
 [^c10347961]: Textual amendment: Words substituted by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 118(4)(a)](https://www.legislation.gov.uk/ukpga/1990/41/section/118/4/a)

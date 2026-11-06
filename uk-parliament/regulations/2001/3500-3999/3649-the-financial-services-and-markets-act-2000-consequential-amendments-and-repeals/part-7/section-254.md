@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 254. Definition of terms[^key-a1197246444c5bd2eb1a579f6f3825a0]
+## 254. Definition of terms[^c-a1197246444c5bd2eb1a579f6f3825a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a1197246444c5bd2eb1a579f6f3825a0]: Commencement: Art. 254 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a1197246444c5bd2eb1a579f6f3825a0]: Commencement: Art. 254 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00174]: Footnote: The definition of “open ended investment company” was substituted by [S.S.I. 2000/74](https://www.legislation.gov.uk/ssi/2000/74), regulation 6(2).

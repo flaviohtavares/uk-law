@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Recovery of overpayments[^key-e1a3ebcfa84cde125749bfc543ce5aa5]
+## 38. Recovery of overpayments[^c-e1a3ebcfa84cde125749bfc543ce5aa5]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e1a3ebcfa84cde125749bfc543ce5aa5]: Commencement: Art. 38 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-e1a3ebcfa84cde125749bfc543ce5aa5]: Commencement: Art. 38 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00045]: Footnote: Regulation 35(2) was amended by [S.I. 1996/702](https://www.legislation.gov.uk/uksi/1996/702), [2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).
 

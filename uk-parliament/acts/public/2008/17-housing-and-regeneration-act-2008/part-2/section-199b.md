@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199B. Survey: power to enter with warrant[^key-4539c90bc5a69caf529af0e3728cd2ae]
+## 199B. Survey: power to enter with warrant[^c-4539c90bc5a69caf529af0e3728cd2ae]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4539c90bc5a69caf529af0e3728cd2ae]: Textual amendment: [Ss. 199A](https://www.legislation.gov.uk/ukpga/2008/17/section/199A), [199B](https://www.legislation.gov.uk/ukpga/2008/17/section/199B) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/28/3), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/o)
+[^c-4539c90bc5a69caf529af0e3728cd2ae]: Textual amendment: [Ss. 199A](https://www.legislation.gov.uk/ukpga/2008/17/section/199A), [199B](https://www.legislation.gov.uk/ukpga/2008/17/section/199B) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/28/3), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/o)

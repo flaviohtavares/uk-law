@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Publication of general directions[^key-c9562dbd5dcfa16cd532d9def4bcc11e]
+## 13. Publication of general directions[^c-c9562dbd5dcfa16cd532d9def4bcc11e]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9562dbd5dcfa16cd532d9def4bcc11e]: Commencement: Art. 13 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-c9562dbd5dcfa16cd532d9def4bcc11e]: Commencement: Art. 13 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

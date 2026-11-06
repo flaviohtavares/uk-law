@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Fuel poverty strategy: consultation[^key-f5aedd4da436df21e5338bb07239bf77][^key-24639f4cb3c942b7c8959eb53099ab9c]
+## 71. Fuel poverty strategy: consultation[^c-f5aedd4da436df21e5338bb07239bf77][^c-24639f4cb3c942b7c8959eb53099ab9c]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5aedd4da436df21e5338bb07239bf77]: Commencement: S. 71 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-f5aedd4da436df21e5338bb07239bf77]: Commencement: S. 71 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-24639f4cb3c942b7c8959eb53099ab9c]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2025/13/section/71) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-24639f4cb3c942b7c8959eb53099ab9c]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2025/13/section/71) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

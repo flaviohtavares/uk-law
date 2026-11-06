@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Directions to change name: period for compliance[^key-35e5bf8dc2e3f3787097b3a8ec944469][^key-36aa0669e3249649b7d10899b2d981ce]
+## 13. Directions to change name: period for compliance[^c-35e5bf8dc2e3f3787097b3a8ec944469][^c-36aa0669e3249649b7d10899b2d981ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-35e5bf8dc2e3f3787097b3a8ec944469]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-35e5bf8dc2e3f3787097b3a8ec944469]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-36aa0669e3249649b7d10899b2d981ce]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/56/section/13) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/i)
+[^c-36aa0669e3249649b7d10899b2d981ce]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/56/section/13) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/i)

@@ -48,7 +48,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 26(1) to (5) of the Fire Services Act 1947[^f00001] and section 12 of the Superannuation Act 1972[^f00002] and all other powers enabling them to do so.
 
-## 1. Citation, commencement, effect and extent[^key-ff347d612da73a7370013603155026ac]
+## 1. Citation, commencement, effect and extent[^c-ff347d612da73a7370013603155026ac]
 
 (1) This Order may be cited as the Firemen’s Pension Scheme (Amendment and Transitional Provisions) (Scotland) Order 2016.
 
@@ -56,7 +56,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) This Order extends to Scotland only.
 
-## 2. Amendment of the Firemen’s Pension Scheme Order 1992[^key-59caf04b2c8363143a4e14665b681ee7]
+## 2. Amendment of the Firemen’s Pension Scheme Order 1992[^c-59caf04b2c8363143a4e14665b681ee7]
 
 (1) Schedule 2 of the Firemen’s Pension Scheme Order 1992[^f00003] (in which the Firefighters’ Pension Scheme is set out) is amended as follows.
 
@@ -83,7 +83,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
   .
 
-## 3. Transitional provision[^key-ff7de50d3dab1b47a7452965c27a55bf]
+## 3. Transitional provision[^c-ff7de50d3dab1b47a7452965c27a55bf]
 
 (1) The Scottish Fire and Rescue Service must pay the required amount as described in paragraph (3) to a firefighter who falls within paragraph (2).
 
@@ -95,7 +95,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 where—
 
-- A is the total value of each contribution (not including any contribution in relation to an additional pension benefit),[^key-84f889dec2c809015cc13bc35eb805b5] net of any tax which would have been payable by the firefighter had the contribution not been paid;
+- A is the total value of each contribution (not including any contribution in relation to an additional pension benefit),[^c-84f889dec2c809015cc13bc35eb805b5] net of any tax which would have been payable by the firefighter had the contribution not been paid;
 - B is the interest calculated on A in accordance with paragraph (4); and
 - C is 100/60.
 
@@ -141,14 +141,14 @@ Article 3 makes provision for the repayment of any relevant contributions that h
 
 [^f00002]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11); section 16 applies section 12 with the necessary modifications to orders under section 26 of the Fire Services Act 1947. Section 16 is repealed by section 52 and schedule 2 of the Fire and Rescue Services Act 2004, but continues to have certain effect by virtue of [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306).
 
-[^key-ff347d612da73a7370013603155026ac]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2016/431/article/1) in force at 6.2.2017, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/431/article/1/2)
+[^c-ff347d612da73a7370013603155026ac]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2016/431/article/1) in force at 6.2.2017, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/431/article/1/2)
 
-[^key-59caf04b2c8363143a4e14665b681ee7]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2016/431/article/2) in force at 6.2.2017, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/431/article/1/2)
+[^c-59caf04b2c8363143a4e14665b681ee7]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2016/431/article/2) in force at 6.2.2017, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/431/article/1/2)
 
 [^f00003]: Footnote: [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129); relevant amending instruments are [S.S.I. 2005/566](https://www.legislation.gov.uk/ssi/2005/566), [S.S.I. 2006/342](https://www.legislation.gov.uk/ssi/2006/342), [S.S.I. 2008/161](https://www.legislation.gov.uk/ssi/2008/161), [S.S.I. 2012/106](https://www.legislation.gov.uk/ssi/2012/106) and [S.S.I. 2015/140](https://www.legislation.gov.uk/ssi/2015/140).
 
-[^key-ff7de50d3dab1b47a7452965c27a55bf]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2016/431/article/3) in force at 6.2.2017, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/431/article/1/2)
+[^c-ff7de50d3dab1b47a7452965c27a55bf]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2016/431/article/3) in force at 6.2.2017, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/431/article/1/2)
 
-[^key-84f889dec2c809015cc13bc35eb805b5]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/ssi/2016/431/article/3/3) inserted (with effect from 6.2.2017) by [The Firefighters’ Pension Scheme (Amendment and Transitional Provision) (Scotland) Regulations 2017 (S.S.I. 2017/435)](https://www.legislation.gov.uk/ssi/2017/435), [regs. 1](https://www.legislation.gov.uk/ssi/2017/435/regulation/1), [8](https://www.legislation.gov.uk/ssi/2017/435/regulation/8)
+[^c-84f889dec2c809015cc13bc35eb805b5]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/ssi/2016/431/article/3/3) inserted (with effect from 6.2.2017) by [The Firefighters’ Pension Scheme (Amendment and Transitional Provision) (Scotland) Regulations 2017 (S.S.I. 2017/435)](https://www.legislation.gov.uk/ssi/2017/435), [regs. 1](https://www.legislation.gov.uk/ssi/2017/435/regulation/1), [8](https://www.legislation.gov.uk/ssi/2017/435/regulation/8)
 
 [^f00004]: Footnote: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11).

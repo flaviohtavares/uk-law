@@ -32,7 +32,7 @@ summary: ''
 - (a) a charge to tax on the company under section 455, or
 - (b) a charge to income tax on the participator or associate.
 
-(3) There is due from the company, as if it were an amount of corporation tax chargeable on the company for the accounting period in which the benefit is conferred on the participator or associate, an amount equal to such percentage of the value of the benefit conferred as corresponds to the dividend upper rate specified in section 8(2) of ITA 2007 for the tax year in which the benefit is conferred[^key-20a2f562ee850c227309b8da3c5ad873] .
+(3) There is due from the company, as if it were an amount of corporation tax chargeable on the company for the accounting period in which the benefit is conferred on the participator or associate, an amount equal to such percentage of the value of the benefit conferred as corresponds to the dividend upper rate specified in section 8(2) of ITA 2007 for the tax year in which the benefit is conferred[^c-20a2f562ee850c227309b8da3c5ad873] .
 
 (4) Tax due under this section in relation to a benefit conferred on a participator or associate is due and payable in accordance with section 59D of TMA 1970 on the day following the end of the period of 9 months from the end of the accounting period in which the benefit was conferred.
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^M_F_4c34e9a9-47d1-40d3-bc77-d697ee34b2af]: Textual amendment: Pt. 10 Ch. 3A inserted (with retrospective effect in accordance with [Sch. 30 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/30/paragraph/5/2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 30 para. 5(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/30/paragraph/5/1)
 
-[^key-20a2f562ee850c227309b8da3c5ad873]: Textual amendment: Words in [s. 464A(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/464A/3) substituted (with effect in accordance with s. 50(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 50(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/50/3)
+[^c-20a2f562ee850c227309b8da3c5ad873]: Textual amendment: Words in [s. 464A(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/464A/3) substituted (with effect in accordance with s. 50(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 50(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/50/3)

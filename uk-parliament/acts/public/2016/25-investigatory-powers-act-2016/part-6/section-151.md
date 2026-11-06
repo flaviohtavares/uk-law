@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Safeguards relating to disclosure of material overseas[^key-e7ce8f7a27c963cd3170d476a9acb046]
+## 151. Safeguards relating to disclosure of material overseas[^c-e7ce8f7a27c963cd3170d476a9acb046]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7ce8f7a27c963cd3170d476a9acb046]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2016/25/section/151) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/i)
+[^c-e7ce8f7a27c963cd3170d476a9acb046]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2016/25/section/151) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/i)

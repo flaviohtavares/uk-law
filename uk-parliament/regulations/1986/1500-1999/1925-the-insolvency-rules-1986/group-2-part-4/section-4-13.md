@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.13. Persons entitled to copy of petition[^key-321af603b6c806ef161a56191531ff02]
+## 4.13. Persons entitled to copy of petition[^c-321af603b6c806ef161a56191531ff02]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Every director, contributory or creditor of the company is entitled to be furnis
 
 ## Annotations
 
-[^key-321af603b6c806ef161a56191531ff02]: Commencement: [Rule 4.13](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.13) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-321af603b6c806ef161a56191531ff02]: Commencement: [Rule 4.13](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.13) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

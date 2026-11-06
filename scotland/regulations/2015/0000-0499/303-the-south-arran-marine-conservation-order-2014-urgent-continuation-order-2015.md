@@ -34,7 +34,7 @@ Environmental Protection
 
 Marine Management
 
-The South Arran Marine Conservation Order 2014 (Urgent Continuation) Order 2015 (revoked)[^key-eb6b759ebc0fbfcad188de8264c35f1c]
+The South Arran Marine Conservation Order 2014 (Urgent Continuation) Order 2015 (revoked)[^c-eb6b759ebc0fbfcad188de8264c35f1c]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 28th September 2015
 
-[^key-eb6b759ebc0fbfcad188de8264c35f1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb6b759ebc0fbfcad188de8264c35f1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-eb6b759ebc0fbfcad188de8264c35f1c]
+## 1. Citation and commencement[^c-eb6b759ebc0fbfcad188de8264c35f1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Continuation of the South Arran Marine Conservation Order 2014 and duration in force[^key-eb6b759ebc0fbfcad188de8264c35f1c]
+## 2. Continuation of the South Arran Marine Conservation Order 2014 and duration in force[^c-eb6b759ebc0fbfcad188de8264c35f1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eb6b759ebc0fbfcad188de8264c35f1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb6b759ebc0fbfcad188de8264c35f1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eb6b759ebc0fbfcad188de8264c35f1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb6b759ebc0fbfcad188de8264c35f1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eb6b759ebc0fbfcad188de8264c35f1c]: Textual amendment: Order revoked (8.2.2016) by [The South Arran Marine Conservation Order 2015 (S.S.I. 2015/437)](https://www.legislation.gov.uk/ssi/2015/437), [arts. 1](https://www.legislation.gov.uk/ssi/2015/437/article/1), [7](https://www.legislation.gov.uk/ssi/2015/437/article/7), [sch. 4](https://www.legislation.gov.uk/ssi/2015/437/schedule/4)
+[^c-eb6b759ebc0fbfcad188de8264c35f1c]: Textual amendment: Order revoked (8.2.2016) by [The South Arran Marine Conservation Order 2015 (S.S.I. 2015/437)](https://www.legislation.gov.uk/ssi/2015/437), [arts. 1](https://www.legislation.gov.uk/ssi/2015/437/article/1), [7](https://www.legislation.gov.uk/ssi/2015/437/article/7), [sch. 4](https://www.legislation.gov.uk/ssi/2015/437/schedule/4)

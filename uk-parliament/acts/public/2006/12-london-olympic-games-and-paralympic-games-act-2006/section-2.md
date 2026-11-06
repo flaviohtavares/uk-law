@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Alteration of Olympic documents[^key-56d75c42252e26f7f84c6216afa4b917]
+## 2. Alteration of Olympic documents[^c-56d75c42252e26f7f84c6216afa4b917]
 
 *Extent: E+W+S+N.I.*
 
-(1) If the Secretary of State [^key-07e6d78806c21f64cc4b5f43a5db264b]... thinks that a reference in this Act to an Olympic document has ceased to be accurate by reason of the amendment or substitution of that document, he may by order amend the reference.
+(1) If the Secretary of State [^c-07e6d78806c21f64cc4b5f43a5db264b]... thinks that a reference in this Act to an Olympic document has ceased to be accurate by reason of the amendment or substitution of that document, he may by order amend the reference.
 
 (2) In subsection (1) “**Olympic document**” means a document referred to in section 1.
 
@@ -29,10 +29,10 @@ summary: ''
 - (a) may include consequential or incidental provision,
 - (b) shall be made by statutory instrument,
 - (c) shall be subject to annulment in pursuance of a resolution of either House of Parliament, and
-- (d) may not be made unless the Secretary of State [^key-07e6d78806c21f64cc4b5f43a5db264b]... has consulted the London Organising Committee.
+- (d) may not be made unless the Secretary of State [^c-07e6d78806c21f64cc4b5f43a5db264b]... has consulted the London Organising Committee.
 
 ## Annotations
 
-[^key-56d75c42252e26f7f84c6216afa4b917]: Commencement: S. 2 in force at 30.5.2006 by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/1118/article/2/1)
+[^c-56d75c42252e26f7f84c6216afa4b917]: Commencement: S. 2 in force at 30.5.2006 by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/1118/article/2/1)
 
-[^key-07e6d78806c21f64cc4b5f43a5db264b]: Textual amendment: Words in s. 2 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 8(1)(a)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/8/1/a)
+[^c-07e6d78806c21f64cc4b5f43a5db264b]: Textual amendment: Words in s. 2 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 8(1)(a)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/8/1/a)

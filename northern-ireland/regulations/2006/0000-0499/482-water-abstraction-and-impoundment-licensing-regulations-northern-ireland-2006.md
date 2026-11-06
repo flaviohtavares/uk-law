@@ -43,11 +43,11 @@ The Department of the Environment makes the following Regulations in exercise of
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-5b54527aa4e2e591d07272de192ff670]
+### 1. Citation and commencement[^c-5b54527aa4e2e591d07272de192ff670]
 
 These Regulations may be cited as the Water Abstraction and Impoundment (Licensing) Regulations (Northern Ireland) 2006 and shall come into operation on 1st February 2007.
 
-### 2. Interpretation[^key-a416a2ff60a1bc2db554c057c0677fe1]
+### 2. Interpretation[^c-a416a2ff60a1bc2db554c057c0677fe1]
 
 In these Regulations—
 
@@ -69,7 +69,7 @@ In these Regulations—
 
   or any flora or fauna dependent on any of them.
 
-### 3. Exemptions[^key-19e29383b42a40826b40e527e0f90612]
+### 3. Exemptions[^c-19e29383b42a40826b40e527e0f90612]
 
 (1) These Regulations shall not apply to a person who—
 
@@ -84,7 +84,7 @@ In these Regulations—
   - (iii) for the purpose of testing apparatus used for either of those purposes or for training or practice in the use of such apparatus; and
 - (b) to any abstraction by machinery or apparatus installed on a vessel, where the water is abstracted for use on that, or any other, vessel.
 
-### 4. Prohibition[^key-f312809540ccfde05ad0f8e13370d9f6]
+### 4. Prohibition[^c-f312809540ccfde05ad0f8e13370d9f6]
 
 (1) No person shall carry on, or cause or permit another to carry on, any controlled activity except insofar as it is—
 
@@ -93,13 +93,13 @@ In these Regulations—
 
 ## PART 2 — Authorisations
 
-### 5. Permitted controlled activities[^key-dd9dd874f057ff773965540be860931b]
+### 5. Permitted controlled activities[^c-dd9dd874f057ff773965540be860931b]
 
 (1) A controlled activity is authorised under this regulation if it is specified in Column 1 of Schedule 1 and, in cases where conditions are specified in the corresponding entry in Column 2 of that Schedule, is carried on in accordance with those conditions.
 
 (2) A controlled activity authorised under this regulation shall be known as a permitted controlled activity.
 
-### 6. Licence[^key-3c3c44a87bc5bd4b8e80add082e98bba]
+### 6. Licence[^c-3c3c44a87bc5bd4b8e80add082e98bba]
 
 (1) A controlled activity may be licensed by the Department under regulation 10.
 
@@ -109,7 +109,7 @@ In these Regulations—
 
 ## PART 3 — Permitted Controlled Activities
 
-### 7. Directions relating to permitted controlled activities[^key-846ac660f167b3409b8808cd4c3031d8]
+### 7. Directions relating to permitted controlled activities[^c-846ac660f167b3409b8808cd4c3031d8]
 
 (1) If the Department is satisfied that any permitted controlled activity should not continue to be carried on unless a licence is granted for it on an application under regulation 8, the Department may direct that the authorisation granted under regulation 5 shall cease to apply to that controlled activity.
 
@@ -117,11 +117,11 @@ In these Regulations—
 
 ## PART 4 — Licences
 
-### 8. Form and content of application for licence[^key-36a3b4e708f7edeb3e67b9bb63775a3c]
+### 8. Form and content of application for licence[^c-36a3b4e708f7edeb3e67b9bb63775a3c]
 
 An application to the Department for a licence shall be made on a form provided by the Department for the purpose and accompanied by such information in such form as the Department may reasonably require.
 
-### 9. Advertisement of application[^key-322da85517cd8336d5c175cb8a327f57]
+### 9. Advertisement of application[^c-322da85517cd8336d5c175cb8a327f57]
 
 (1) Where the Department receives an application under regulation 8 it may, where it considers that the controlled activity is likely to have a significant adverse impact on the water environment, require the application to be advertised in accordance with this regulation.
 
@@ -140,20 +140,20 @@ An application to the Department for a licence shall be made on a form provided 
 
 (6) This regulation shall not apply to an application to which the Water Resources (Environmental Impact Assessment) Regulations (Northern Ireland) 2005[^f00004] apply.
 
-### 9A.[^key-3dce38e8671a031c5e94f9f0d7577a97]
+### 9A.[^c-3dce38e8671a031c5e94f9f0d7577a97]
 
 (1) The Department shall, within 14 days of receipt of an application under regulation 8, serve notice of that application on every water undertaker.
 
 (2) A water undertaker may make representations in writing to the Department within 28 days from the date on which the notice under paragraph (1) was served.
 
-### 10. Consideration and determination of application for licence[^key-043f091c00e200a3d9cfe2510ffd030b]
+### 10. Consideration and determination of application for licence[^c-043f091c00e200a3d9cfe2510ffd030b]
 
 (1) An application under regulation 8 shall be determined in accordance with this regulation.
 
 (2) In deciding whether to grant a licence the Department—
 
 - (a) shall have regard to all controlled activities being carried on or likely to be carried on in the area of the water environment likely to be affected by the controlled activity to which the application relates;
-- (b) shall have regard to any representations received pursuant to regulations 9(4) and 9A(2)[^key-2776768ff7c714a9f52528729cb5ea4b]; and
+- (b) shall have regard to any representations received pursuant to regulations 9(4) and 9A(2)[^c-2776768ff7c714a9f52528729cb5ea4b]; and
 - (c) may have regard to any agreement reached between different persons concerning controlled activities carried on in the area of the water environment likely to be affected by the controlled activity to which the application relates.
 
 (3) The Department may grant a licence unconditionally or subject to conditions or it may refuse to grant a licence.
@@ -162,7 +162,7 @@ An application to the Department for a licence shall be made on a form provided 
 
 (5) This regulation has effect subject to regulation 11.
 
-### 11. Applications affecting certain sites[^key-4474bbc17abb206575d9f409a8470e18]
+### 11. Applications affecting certain sites[^c-4474bbc17abb206575d9f409a8470e18]
 
 (1) Subject to paragraph (2), regulations 43, 44 and 48 of the 1995 Regulations (requirement to consider effect on certain sites) apply with the necessary modifications to the granting or modification of a licence under these Regulations as they apply to the matters specified in regulations 49 to 64 of the 1995 Regulations but as if—
 
@@ -175,7 +175,7 @@ An application to the Department for a licence shall be made on a form provided 
 
 (3) In this regulation “appropriate assessment” has the same meaning as in the 1995 Regulations.
 
-### 12. Review of licence[^key-5248cf7b26148652b6cdeef6123a833a]
+### 12. Review of licence[^c-5248cf7b26148652b6cdeef6123a833a]
 
 (1) The Department shall periodically review a licence and may do so at any time.
 
@@ -188,7 +188,7 @@ An application to the Department for a licence shall be made on a form provided 
 - (e) in regulation 45(2) for the words “regulation 43(2) to (4)” there were substituted the words “regulation 43(2) and (4)”; and
 - (f) regulation 46(4) was omitted.
 
-### 13. Modification of licence[^key-a281a771409b436ea593091732dc66dc]
+### 13. Modification of licence[^c-a281a771409b436ea593091732dc66dc]
 
 (1) The Department may—
 
@@ -199,11 +199,11 @@ modify a licence.
 
 (2) An application under paragraph (1)(b) shall be made on a form provided by the Department for the purpose and accompanied by such information in such form as the Department may reasonably require.
 
-(3) Regulations 9,9A and 10(2)[^key-9cda24d7b2b9a03b6b22024999e63ba7] apply with the necessary modifications to an application under paragraph (1)(b) as they apply to an application under regulation 8.
+(3) Regulations 9,9A and 10(2)[^c-9cda24d7b2b9a03b6b22024999e63ba7] apply with the necessary modifications to an application under paragraph (1)(b) as they apply to an application under regulation 8.
 
 (4) Any modification of a licence under this regulation shall be effected by notice served on the holder of the licence and the notice shall state the time at which the modification is to take effect which in the case of a modification under paragraph (1)(a) shall be not less than 3 months from the date on which the notice was served.
 
-### 14. Transfer of licence[^key-b3d2ffa1e1634839fcf20964b82d64c4]
+### 14. Transfer of licence[^c-b3d2ffa1e1634839fcf20964b82d64c4]
 
 (1) A licence may be transferred to another person in accordance with paragraphs (2) to (5).
 
@@ -215,7 +215,7 @@ modify a licence.
 
 (5) The Department may effect a transfer under this regulation by causing the licence to be endorsed with the name and other particulars of the proposed transferee as the holder of the licence from such date specified in the endorsement as may be agreed with the applicants.
 
-### 15. Surrender of licence[^key-47aa9800c332396381cbd68e0c80160a]
+### 15. Surrender of licence[^c-47aa9800c332396381cbd68e0c80160a]
 
 (1) A licence may be surrendered by its holder to the Department in accordance with this regulation.
 
@@ -231,7 +231,7 @@ modify a licence.
 
 (7) Where the surrender of a licence is accepted under this regulation the Department shall issue to the applicant, with the notice of its determination, a certificate stating that it is satisfied as mentioned in paragraph (6) and, on the issue of that certificate, the licence shall cease to have effect.
 
-### 16. Revocation of licence[^key-160e02a933009f7ad11de4edcb9eaea4]
+### 16. Revocation of licence[^c-160e02a933009f7ad11de4edcb9eaea4]
 
 (1) The Department may revoke (in whole or in part) a licence—
 
@@ -248,9 +248,9 @@ modify a licence.
 - (b) the date on which the revocation shall take effect which shall be at least 28 days after the date on which the notice under paragraph (2) was served; and
 - (c) the reasons for the revocation.
 
-### 17. Public inquiries[^key-e21606921b2e27b211016be92269f071]
+### 17. Public inquiries[^c-e21606921b2e27b211016be92269f071]
 
-(1)[^key-e968efcc2103d9c53333ac83e54e6fb6] For the purposes of considering representations made—
+(1)[^c-e968efcc2103d9c53333ac83e54e6fb6] For the purposes of considering representations made—
 
 - (a) under regulation 9 and under that regulation as applied by regulations 13 and 15; and
 - (b) under regulation 9A(2),
@@ -263,7 +263,7 @@ the Department may direct the Appeals Commission to hold a public local inquiry.
 
 (4) Where the Department makes a direction under paragraph (1) it shall, in determining the application to which the direction relates, consider the report on the public local inquiry held by the Appeals Commission.
 
-### 18. Further information[^key-8d02958b6e616c993a95d0dcc561ea3f]
+### 18. Further information[^c-8d02958b6e616c993a95d0dcc561ea3f]
 
 (1) The Department may, by notice in writing to the applicant, request such additional information in relation to any application under regulation 8, 13(1)(b), 14(2) or 15(3) as it reasonably requires.
 
@@ -271,7 +271,7 @@ the Department may direct the Appeals Commission to hold a public local inquiry.
 
 (3) Where an applicant fails to provide the Department with any information requested under paragraph (1) the Department may refuse to proceed with the application to which it relates or refuse to proceed with it until the information is provided.
 
-### 19. Time limits for determining applications[^key-c2723ef26d41b2db9365c321db3ceeb2]
+### 19. Time limits for determining applications[^c-c2723ef26d41b2db9365c321db3ceeb2]
 
 (1) Subject to paragraphs (2) and (3), the Department shall determine an application under regulation 8, 13(1)(b), 14(2) or 15(3) within 4 months beginning with the date on which it receives the application or shall determine it within such later period as may be agreed in writing with the applicant.
 
@@ -287,7 +287,7 @@ the Department may direct the Appeals Commission to hold a public local inquiry.
 
 ## PART 5 — Enforcement and other powers
 
-### 20. Enforcement notices[^key-441c313788467b881a0f8ec2b834b1ca]
+### 20. Enforcement notices[^c-441c313788467b881a0f8ec2b834b1ca]
 
 (1) This regulation applies where it appears to the Department—
 
@@ -317,7 +317,7 @@ the Department may direct the Appeals Commission to hold a public local inquiry.
 
 it shall be served on the operator of that activity and in all other cases it shall be served on the holder of the licence.
 
-### 21. Power of the Department to carry out works[^key-c3a696f2f7a74683fec573760fd59d9b]
+### 21. Power of the Department to carry out works[^c-c3a696f2f7a74683fec573760fd59d9b]
 
 (1) Where the Department considers that a notice should be served under regulation 20(2), it may take any such steps that may be required to be taken under that notice, or secure that those steps are taken, if—
 
@@ -326,7 +326,7 @@ it shall be served on the operator of that activity and in all other cases it sh
 
 (2) Where the Department has incurred any expenditure under paragraph (1) it may recover the amount of expenditure from the person on whom the notice would have been served but for that paragraph.
 
-### 22. Enforcement notices – rights of entry, compensation etc[^key-86272a545810c452e324522cb8168ddc]
+### 22. Enforcement notices – rights of entry, compensation etc[^c-86272a545810c452e324522cb8168ddc]
 
 (1) A notice under regulation 20(2) may require the person on whom it is served to carry out works or do other things in relation to any land notwithstanding that he is not entitled to carry out the works or do the things and any person whose consent would be required shall grant, or join in granting, such rights in relation to land as will enable the person on whom the notice is served to comply with any requirement imposed on him by that notice.
 
@@ -350,19 +350,19 @@ in respect of the rights which that owner, occupier, or person, may be required 
 
 compensation under this regulation shall be payable by the Department; and the Department shall be entitled to recover any payment of compensation made by it under this paragraph from that person .
 
-### 23. Enforcement by High Court[^key-ef2a1ec4f268c59e232f98dc9453ef35]
+### 23. Enforcement by High Court[^c-ef2a1ec4f268c59e232f98dc9453ef35]
 
 If the Department is of the opinion that proceedings for an offence under regulation 25(1)(b) would afford an ineffectual remedy against a person who has failed to comply with the requirement of any notice under regulation 20(2), it may take proceedings in the High Court for the purpose of securing compliance with that notice.
 
 ## PART 6 — Register
 
-### 24. Register[^key-423fce5e24415361115b7fd9986d502b]
+### 24. Register[^c-423fce5e24415361115b7fd9986d502b]
 
 The register shall contain the particulars specified in Schedule 3.
 
 ## PART 7 — Offences
 
-### 25. Offences[^key-b1868d19286d7025f84f80349add0d49]
+### 25. Offences[^c-b1868d19286d7025f84f80349add0d49]
 
 (1) It is an offence for a person to—
 
@@ -386,11 +386,11 @@ The register shall contain the particulars specified in Schedule 3.
 - (a) on summary conviction, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, or to a fine, or to both.
 
-### 26. Offences by bodies corporate[^key-a48fa79b9f2003686632fcdc34d2508c]
+### 26. Offences by bodies corporate[^c-a48fa79b9f2003686632fcdc34d2508c]
 
 For the purposes of these Regulations section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-### 27. Defence to principal offences in respect of authorised activities[^key-d2aed6742c314a0183a0b58f56a2d97a]
+### 27. Defence to principal offences in respect of authorised activities[^c-d2aed6742c314a0183a0b58f56a2d97a]
 
 A person shall not be guilty of an offence under regulation 25(1)(a), (b), or (e) where the contravention is a result of—
 
@@ -403,7 +403,7 @@ provided that—
 - (ii) all practicable steps are taken as soon as is reasonably practicable to restore the water environment to its condition prior to the contravention; and
 - (iii) particulars of the contravention are furnished to the Department as soon as is reasonably practicable. .
 
-### 28. Power of court to order offence to be remedied[^key-2a6d6cf1dee40f2be7801f0e1352e3d4]
+### 28. Power of court to order offence to be remedied[^c-2a6d6cf1dee40f2be7801f0e1352e3d4]
 
 (1) Where—
 
@@ -418,7 +418,7 @@ the court may in addition to or instead of imposing any punishment, order that p
 
 ## PART 8 — Appeals and transitional provisions
 
-### 29. Appeals[^key-5034e66541c6db0972fcca3d698b3988]
+### 29. Appeals[^c-5034e66541c6db0972fcca3d698b3988]
 
 (1) Where an application is made to the Department under any of the following regulations namely—
 
@@ -467,7 +467,7 @@ and any dispute as to the recipient’s entitlement to such compensation or to t
 
 (9) Article 8(4) of the Water and Sewerage Services (NI) Order 1973[^f00006] shall not apply to a decision by the Appeals Commission under this regulation.
 
-### 30. Transitional provisions[^key-07ed00318d469e7d5bbb0e6c45b6e003]
+### 30. Transitional provisions[^c-07ed00318d469e7d5bbb0e6c45b6e003]
 
 The transitional provisions contained in Schedule 4 shall have effect.
 
@@ -477,7 +477,7 @@ Wesley Shannon
 
 A senior officer of the Department of the Environment
 
-## SCHEDULE 1 — Permitted Controlled Activities[^key-1175b3735c7aa25a2be07f85cc428beb]
+## SCHEDULE 1 — Permitted Controlled Activities[^c-1175b3735c7aa25a2be07f85cc428beb]
 
 Regulation 5
 
@@ -497,7 +497,7 @@ Regulation 5
 
 Regulation 22(4)
 
-### 1. Interpretation[^key-4f30748bdb4f731e600188d3b0c9813d]
+### 1. Interpretation[^c-4f30748bdb4f731e600188d3b0c9813d]
 
 In this Schedule—
 
@@ -507,14 +507,14 @@ In this Schedule—
 - “grantee” means the person on whom a notice is served under regulation 20(2) or, in a case to which regulation 22(6) applies, the Department; and
 - “relevant interest” means an interest in land or waters in respect of which rights have been granted pursuant to regulation 22(1).
 
-### 2. Period for making an application[^key-0066cb8b77e1e24dbe92c27011efca96]
+### 2. Period for making an application[^c-0066cb8b77e1e24dbe92c27011efca96]
 
 An application for compensation shall be made to the grantee within the period beginning with the date of the grant of the rights in respect of which compensation is claimed and ending on whichever is the later of the following dates—
 
 - (a) 12 months after the date of the grant of those rights; or
 - (b) six months after the date on which the rights were first exercised.
 
-### 3. Form of application[^key-f5aca245de6d48fc423dd2c93efe9cdf]
+### 3. Form of application[^c-f5aca245de6d48fc423dd2c93efe9cdf]
 
 (1) An application for compensation shall be made in writing and served on the grantee.
 
@@ -527,7 +527,7 @@ An application for compensation shall be made to the grantee within the period b
   - (ii) the individual amounts sought for each description of loss and damage referred to in sub-paragraphs (a) to (e) of paragraph 4; and
   - (iii) details of how those amounts are calculated.
 
-### 4. Loss and damage for which compensation payable[^key-7d667199454981deca59402b6ca67549]
+### 4. Loss and damage for which compensation payable[^c-7d667199454981deca59402b6ca67549]
 
 Compensation shall be payable for loss and damage of the following descriptions—
 
@@ -540,7 +540,7 @@ Compensation shall be payable for loss and damage of the following descriptions�
 - (d) any loss or damage sustained by the grantor, other than in relation to any interest in land to which the grantor is entitled, and which results from the grant of the rights or the exercise of them; and
 - (e) the amount of any valuation and legal expenses reasonably incurred by the grantor in granting the rights and in the preparation of the application for and the negotiation of the amount of compensation (up to the point of referral to the Lands Tribunal under paragraph 6).
 
-### 5. Basis on which compensation assessed[^key-0125e9be953ab33ce8d1bec607b53476]
+### 5. Basis on which compensation assessed[^c-0125e9be953ab33ce8d1bec607b53476]
 
 (1) The rules set out in Article 6 of the 1982 Order shall, so far as applicable and subject to any necessary modifications, have effect for the purposes of assessing compensation payable under regulation 22(4) as they have effect for the purpose of assessing compensation for the compulsory acquisition of an interest in land.
 
@@ -550,7 +550,7 @@ Compensation shall be payable for loss and damage of the following descriptions�
 - (b) no compensation shall be payable in respect of the interest of the mortgagee (as distinct from the interest which is subject to the mortgage); and
 - (c) any compensation which is payable in respect of the interest which is subject to a mortgage shall be paid (subject to the maximum sum due thereunder) to the mortgagee or, if there is more than one mortgagee, to the first ranking mortgagee and shall, in either case, be applied by that person as if it were proceeds of sale.
 
-### 6. Payment of compensation and determination of disputes[^key-0aef7dba6c271db256418cd41be655bd]
+### 6. Payment of compensation and determination of disputes[^c-0aef7dba6c271db256418cd41be655bd]
 
 (1) Compensation shall be payable—
 
@@ -565,7 +565,7 @@ Compensation shall be payable for loss and damage of the following descriptions�
 - (a) the reference in Article 4(1) of that Order to Article 3 of that Order were a reference to sub‑paragraph (2) of this paragraph; and
 - (b) references in Article 5 of that Order to the acquiring authority were references to the grantee.
 
-### 7. Interest and payment on account[^key-19ccbdc0a2b00869a039253f3db0c170]
+### 7. Interest and payment on account[^c-19ccbdc0a2b00869a039253f3db0c170]
 
 (1) Compensation shall carry interest at the rate determined for the time being under paragraph 18 of Schedule 6 to the Local Government Act (Northern Ireland) 1972 from the date specified in sub- paragraph (2) until payment.
 
@@ -588,7 +588,7 @@ the payment or, as the case may be, excess shall be recoverable by that person.
 
 Regulation 24
 
-**1.**[^key-ce7d0b1990290d359db8de9400022b02] (1) Subject to Articles 31 and 32 of the Order the register shall contain:
+**1.**[^c-ce7d0b1990290d359db8de9400022b02] (1) Subject to Articles 31 and 32 of the Order the register shall contain:
 
 - (a) particulars of any application for a licence under regulation 8;
 - (b) particulars of any licence granted under regulation 10;
@@ -615,23 +615,23 @@ Regulation 24
 - (a) made under regulation 9(4); and
 - (b) which have been excluded from the register at the request of the person who made them.
 
-**2.**[^key-a4939fb5db7a72955d9c7cca34a23dbc] Where an application under regulation 8, 13(1)(b), 14(2) or 15(3) is withdrawn at any time before it is determined—
+**2.**[^c-a4939fb5db7a72955d9c7cca34a23dbc] Where an application under regulation 8, 13(1)(b), 14(2) or 15(3) is withdrawn at any time before it is determined—
 
 - (a) no further particulars relating to the application shall be entered on the register after the application is withdrawn; and
 - (b) all particulars relating to the application shall be removed from the register not less than 2 months and not more than 3 months after the application is withdrawn.
 
-**3.**[^key-7ac0de20a4d6ebac91e7d2e070694d10] Nothing in paragraph 1 shall require the Department to keep on the register—
+**3.**[^c-7ac0de20a4d6ebac91e7d2e070694d10] Nothing in paragraph 1 shall require the Department to keep on the register—
 
 - (a) information obtained in the circumstances referred to in paragraph 1(1)(l) for more than 6 years from the date on which that information was entered in the register;
 - (b) information which has been superseded by later information more than 6 years after that later information was entered in the register.
 
-**4.**[^key-a941bf49a3e0cf6a85242d600b4f303b] Paragraph 3(a) shall not apply to information relating to specific impacts or classes of impacts on the water environment from controlled activities generally or from any class of controlled activities.
+**4.**[^c-a941bf49a3e0cf6a85242d600b4f303b] Paragraph 3(a) shall not apply to information relating to specific impacts or classes of impacts on the water environment from controlled activities generally or from any class of controlled activities.
 
 ## SCHEDULE 4 — Transitional provisions
 
 Regulation 30
 
-**1.**[^key-1ad440a8c5ca2d5f871f42ce69f3bf9c] In this Schedule—
+**1.**[^c-1ad440a8c5ca2d5f871f42ce69f3bf9c] In this Schedule—
 
 - “existing controlled activity” means a controlled activity other than—
   - (a) a controlled activity to which regulation 5 applies; or
@@ -644,12 +644,12 @@ Regulation 30
 - “relevant date” is the date of the coming into operation of these Regulations; and
 - “relevant period” is the period of 12 months beginning with the relevant date.
 
-**2.**[^key-8fe0f9611265b859d3fed4470ce28c99] Regulations 4 and 20(1)(b) shall not apply to an existing controlled activity—
+**2.**[^c-8fe0f9611265b859d3fed4470ce28c99] Regulations 4 and 20(1)(b) shall not apply to an existing controlled activity—
 
 - (a) during the relevant period; or
 - (b) if an application is made under regulation 8 in respect of it during the relevant period, until the application is determined under regulation 10.
 
-**3.**[^key-349f007fece1cffb3ee8ef15170fe8c3] Regulations 9, 9A and 19[^key-14a958b4494134aa7922d271703e8a8c] shall not apply to an application made under regulation 8 during the relevant period for an existing controlled activity.
+**3.**[^c-349f007fece1cffb3ee8ef15170fe8c3] Regulations 9, 9A and 19[^c-14a958b4494134aa7922d271703e8a8c] shall not apply to an application made under regulation 8 during the relevant period for an existing controlled activity.
 
 EXPLANATORY NOTE
 
@@ -679,118 +679,118 @@ A Regulatory Impact Assessment has been prepared in connection with these Regula
 
 [^f00001]: Footnote: [S.I. 1999/662 (N.I. 6)](https://www.legislation.gov.uk/nisi/1999/662) as amended by [S.I. 2006/1946 (N.I. 15)](https://www.legislation.gov.uk/nisi/2006/1946)
 
-[^key-5b54527aa4e2e591d07272de192ff670]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-5b54527aa4e2e591d07272de192ff670]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-a416a2ff60a1bc2db554c057c0677fe1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/482/regulation/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-a416a2ff60a1bc2db554c057c0677fe1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/482/regulation/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
 [^f00002]: Footnote: [SR 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380); relevant amending Regulations are [SR 2004 No. 435](https://www.legislation.gov.uk/nisr/2004/435)
 
-[^key-19e29383b42a40826b40e527e0f90612]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/482/regulation/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-19e29383b42a40826b40e527e0f90612]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/482/regulation/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1992/231 (N.I.1)](https://www.legislation.gov.uk/nisi/1992/231)
 
-[^key-f312809540ccfde05ad0f8e13370d9f6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/482/regulation/4) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-f312809540ccfde05ad0f8e13370d9f6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/482/regulation/4) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-dd9dd874f057ff773965540be860931b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/482/regulation/5) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-dd9dd874f057ff773965540be860931b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/482/regulation/5) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-3c3c44a87bc5bd4b8e80add082e98bba]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/482/regulation/6) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-3c3c44a87bc5bd4b8e80add082e98bba]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/482/regulation/6) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-846ac660f167b3409b8808cd4c3031d8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/482/regulation/7) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-846ac660f167b3409b8808cd4c3031d8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/482/regulation/7) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-36a3b4e708f7edeb3e67b9bb63775a3c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/482/regulation/8) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-36a3b4e708f7edeb3e67b9bb63775a3c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/482/regulation/8) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-322da85517cd8336d5c175cb8a327f57]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/482/regulation/9) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-322da85517cd8336d5c175cb8a327f57]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/482/regulation/9) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2005 No. 32](https://www.legislation.gov.uk/nisr/2005/32)
 
-[^key-3dce38e8671a031c5e94f9f0d7577a97]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2006/482/regulation/9A) inserted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/2)
+[^c-3dce38e8671a031c5e94f9f0d7577a97]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2006/482/regulation/9A) inserted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/2)
 
-[^key-043f091c00e200a3d9cfe2510ffd030b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/482/regulation/10) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-043f091c00e200a3d9cfe2510ffd030b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/482/regulation/10) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-2776768ff7c714a9f52528729cb5ea4b]: Textual amendment: Words in [reg. 10(2)(b)](https://www.legislation.gov.uk/nisr/2006/482/regulation/10/2/b) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/3)
+[^c-2776768ff7c714a9f52528729cb5ea4b]: Textual amendment: Words in [reg. 10(2)(b)](https://www.legislation.gov.uk/nisr/2006/482/regulation/10/2/b) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/3)
 
-[^key-4474bbc17abb206575d9f409a8470e18]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/482/regulation/11) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-4474bbc17abb206575d9f409a8470e18]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/482/regulation/11) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-5248cf7b26148652b6cdeef6123a833a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/482/regulation/12) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-5248cf7b26148652b6cdeef6123a833a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/482/regulation/12) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-a281a771409b436ea593091732dc66dc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/482/regulation/13) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-a281a771409b436ea593091732dc66dc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/482/regulation/13) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-9cda24d7b2b9a03b6b22024999e63ba7]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/nisr/2006/482/regulation/13/3) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/4)
+[^c-9cda24d7b2b9a03b6b22024999e63ba7]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/nisr/2006/482/regulation/13/3) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/4)
 
-[^key-b3d2ffa1e1634839fcf20964b82d64c4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/482/regulation/14) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-b3d2ffa1e1634839fcf20964b82d64c4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/482/regulation/14) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-47aa9800c332396381cbd68e0c80160a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/482/regulation/15) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-47aa9800c332396381cbd68e0c80160a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/482/regulation/15) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-160e02a933009f7ad11de4edcb9eaea4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/482/regulation/16) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-160e02a933009f7ad11de4edcb9eaea4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/482/regulation/16) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-e21606921b2e27b211016be92269f071]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/482/regulation/17) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-e21606921b2e27b211016be92269f071]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/482/regulation/17) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-e968efcc2103d9c53333ac83e54e6fb6]: Textual amendment: [Reg. 17(1)](https://www.legislation.gov.uk/nisr/2006/482/regulation/17/1) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/5)
+[^c-e968efcc2103d9c53333ac83e54e6fb6]: Textual amendment: [Reg. 17(1)](https://www.legislation.gov.uk/nisr/2006/482/regulation/17/1) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/5)
 
 [^f00005]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8d02958b6e616c993a95d0dcc561ea3f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/482/regulation/18) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-8d02958b6e616c993a95d0dcc561ea3f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/482/regulation/18) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-c2723ef26d41b2db9365c321db3ceeb2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/482/regulation/19) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-c2723ef26d41b2db9365c321db3ceeb2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/482/regulation/19) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-441c313788467b881a0f8ec2b834b1ca]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/482/regulation/20) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-441c313788467b881a0f8ec2b834b1ca]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/482/regulation/20) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-c3a696f2f7a74683fec573760fd59d9b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/482/regulation/21) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-c3a696f2f7a74683fec573760fd59d9b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/482/regulation/21) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-86272a545810c452e324522cb8168ddc]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/482/regulation/22) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-86272a545810c452e324522cb8168ddc]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/482/regulation/22) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-ef2a1ec4f268c59e232f98dc9453ef35]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/482/regulation/23) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-ef2a1ec4f268c59e232f98dc9453ef35]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/482/regulation/23) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-423fce5e24415361115b7fd9986d502b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/482/regulation/24) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-423fce5e24415361115b7fd9986d502b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/482/regulation/24) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-b1868d19286d7025f84f80349add0d49]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/482/regulation/25) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-b1868d19286d7025f84f80349add0d49]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/482/regulation/25) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-a48fa79b9f2003686632fcdc34d2508c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/482/regulation/26) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-a48fa79b9f2003686632fcdc34d2508c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/482/regulation/26) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-d2aed6742c314a0183a0b58f56a2d97a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/482/regulation/27) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-d2aed6742c314a0183a0b58f56a2d97a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/482/regulation/27) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-2a6d6cf1dee40f2be7801f0e1352e3d4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/482/regulation/28) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-2a6d6cf1dee40f2be7801f0e1352e3d4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/482/regulation/28) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-5034e66541c6db0972fcca3d698b3988]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/482/regulation/29) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-5034e66541c6db0972fcca3d698b3988]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/482/regulation/29) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
 [^f00006]: Footnote: [S.I.1973/70 (N.I.2)](https://www.legislation.gov.uk/nisi/1973/70) to which there are amendments not relevant to these Regulations
 
-[^key-07ed00318d469e7d5bbb0e6c45b6e003]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/482/regulation/30) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-07ed00318d469e7d5bbb0e6c45b6e003]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/482/regulation/30) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-1175b3735c7aa25a2be07f85cc428beb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-1175b3735c7aa25a2be07f85cc428beb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-4f30748bdb4f731e600188d3b0c9813d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-4f30748bdb4f731e600188d3b0c9813d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1982/712 (NI 9)](https://www.legislation.gov.uk/nisi/1982/712)
 
-[^key-0066cb8b77e1e24dbe92c27011efca96]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-0066cb8b77e1e24dbe92c27011efca96]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-f5aca245de6d48fc423dd2c93efe9cdf]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-f5aca245de6d48fc423dd2c93efe9cdf]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-7d667199454981deca59402b6ca67549]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/4) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-7d667199454981deca59402b6ca67549]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/4) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
 [^f00008]: Footnote: [1972 c.9 (NI)](https://www.legislation.gov.uk/apni/1972/9)
 
-[^key-0125e9be953ab33ce8d1bec607b53476]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/5) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-0125e9be953ab33ce8d1bec607b53476]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/5) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-0aef7dba6c271db256418cd41be655bd]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/6) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-0aef7dba6c271db256418cd41be655bd]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/6) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-19ccbdc0a2b00869a039253f3db0c170]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/7) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-19ccbdc0a2b00869a039253f3db0c170]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2006/482/schedule/2/paragraph/7) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-ce7d0b1990290d359db8de9400022b02]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-ce7d0b1990290d359db8de9400022b02]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
 [^f00009]: Footnote: [S.R.2005 No. 32](https://www.legislation.gov.uk/nisr/2005/32)
 
-[^key-a4939fb5db7a72955d9c7cca34a23dbc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-a4939fb5db7a72955d9c7cca34a23dbc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-7ac0de20a4d6ebac91e7d2e070694d10]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-7ac0de20a4d6ebac91e7d2e070694d10]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-a941bf49a3e0cf6a85242d600b4f303b]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/4) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-a941bf49a3e0cf6a85242d600b4f303b]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2006/482/schedule/3/paragraph/4) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-1ad440a8c5ca2d5f871f42ce69f3bf9c]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-1ad440a8c5ca2d5f871f42ce69f3bf9c]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-8fe0f9611265b859d3fed4470ce28c99]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-8fe0f9611265b859d3fed4470ce28c99]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-349f007fece1cffb3ee8ef15170fe8c3]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
+[^c-349f007fece1cffb3ee8ef15170fe8c3]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/482/regulation/1)
 
-[^key-14a958b4494134aa7922d271703e8a8c]: Textual amendment: Words in [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/3) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/6)
+[^c-14a958b4494134aa7922d271703e8a8c]: Textual amendment: Words in [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2006/482/schedule/4/paragraph/3) substituted (1.4.2007) by [Water Abstraction and Impoundment (Licensing) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/122)](https://www.legislation.gov.uk/nisr/2007/122), [regs. 1](https://www.legislation.gov.uk/nisr/2007/122/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2007/122/regulation/2/6)

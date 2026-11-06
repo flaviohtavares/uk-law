@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 1A — Declaration of conformity[^key-fb601f0e86b914d54b0584f67fb0dc18]
+## SCHEDULE 1A — Declaration of conformity[^c-fb601f0e86b914d54b0584f67fb0dc18]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ name, function) (signature:
 
 ## Annotations
 
-[^key-fb601f0e86b914d54b0584f67fb0dc18]: Textual amendment: Sch. 1A inserted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(26)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/26) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb601f0e86b914d54b0584f67fb0dc18]: Textual amendment: Sch. 1A inserted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(26)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/26) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

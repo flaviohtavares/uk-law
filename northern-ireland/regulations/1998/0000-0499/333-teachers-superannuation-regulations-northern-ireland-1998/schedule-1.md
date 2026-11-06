@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — Glossary of Expressions[^key-5ee539dfdb4decbd19a928f126fb98c5]
+## SCHEDULE 1 — Glossary of Expressions[^c-5ee539dfdb4decbd19a928f126fb98c5]
 
 *Extent: N.I.*
 
@@ -85,7 +85,7 @@ Regulation A2(1)
 
 ## Annotations
 
-[^key-5ee539dfdb4decbd19a928f126fb98c5]: Commencement: Sch. 1 in operation at 2.11.1998, see reg. A1
+[^c-5ee539dfdb4decbd19a928f126fb98c5]: Commencement: Sch. 1 in operation at 2.11.1998, see reg. A1
 
 [^f00036]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 

@@ -34,7 +34,7 @@ Acquisition Of Land, England
 
 Compensation
 
-The Home Loss Payments (Prescribed Amounts) (England) Regulations 2020 (revoked)[^key-deef4e1876bf1e16805ebf7afcec44fd]
+The Home Loss Payments (Prescribed Amounts) (England) Regulations 2020 (revoked)[^c-deef4e1876bf1e16805ebf7afcec44fd]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st October 2020
 
-[^key-deef4e1876bf1e16805ebf7afcec44fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deef4e1876bf1e16805ebf7afcec44fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-deef4e1876bf1e16805ebf7afcec44fd]
+## 1. Citation, commencement and application[^c-deef4e1876bf1e16805ebf7afcec44fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revision of prescribed amounts for home loss payment[^key-deef4e1876bf1e16805ebf7afcec44fd]
+## 2. Revision of prescribed amounts for home loss payment[^c-deef4e1876bf1e16805ebf7afcec44fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and savings[^key-deef4e1876bf1e16805ebf7afcec44fd]
+## 3. Revocation and savings[^c-deef4e1876bf1e16805ebf7afcec44fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-deef4e1876bf1e16805ebf7afcec44fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deef4e1876bf1e16805ebf7afcec44fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-deef4e1876bf1e16805ebf7afcec44fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deef4e1876bf1e16805ebf7afcec44fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-deef4e1876bf1e16805ebf7afcec44fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/739) revoked (1.10.2021) by [The Home Loss Payments (Prescribed Amounts) (England) Regulations 2021 (S.I. 2021/841)](https://www.legislation.gov.uk/uksi/2021/841), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/841/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2021/841/regulation/3/2))
+[^c-deef4e1876bf1e16805ebf7afcec44fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/739) revoked (1.10.2021) by [The Home Loss Payments (Prescribed Amounts) (England) Regulations 2021 (S.I. 2021/841)](https://www.legislation.gov.uk/uksi/2021/841), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/841/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2021/841/regulation/3/2))

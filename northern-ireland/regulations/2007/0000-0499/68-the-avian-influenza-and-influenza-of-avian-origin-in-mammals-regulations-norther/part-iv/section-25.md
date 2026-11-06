@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Veterinary inquiry at infected premises[^key-d57dff40c321c9eafea66c9a1983cd00]
+## 25. Veterinary inquiry at infected premises[^c-d57dff40c321c9eafea66c9a1983cd00]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Department must ensure that veterinary inquiries continue at all infected pr
 
 ## Annotations
 
-[^key-d57dff40c321c9eafea66c9a1983cd00]: Commencement: Reg. 25 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-d57dff40c321c9eafea66c9a1983cd00]: Commencement: Reg. 25 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

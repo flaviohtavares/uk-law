@@ -24,16 +24,16 @@ summary: ''
 
 (2) A conduct notice ceases to have effect—
 
-- (a) at the end of the relevant period[^key-d41c3ba96a8747cab4fe850c1ea36e61] beginning with its commencement date, [^key-a48387cd2147ea1f4e170b18132bebe3]...
-- (b)[^key-9fc710460c9d5ec63800df655f378006] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) at the end of the relevant period[^c-d41c3ba96a8747cab4fe850c1ea36e61] beginning with its commencement date, [^c-a48387cd2147ea1f4e170b18132bebe3]...
+- (b)[^c-9fc710460c9d5ec63800df655f378006] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-3c8db2065d8cb582a06442265c028647] But where a new conduct notice was given under section 240(4) that has a commencement date that is later than 12 months before the end of the relevant period in relation to the original notice, that new notice ceases to have effect at the end of the relevant period in relation to the original notice.
+(2A)[^c-3c8db2065d8cb582a06442265c028647] But where a new conduct notice was given under section 240(4) that has a commencement date that is later than 12 months before the end of the relevant period in relation to the original notice, that new notice ceases to have effect at the end of the relevant period in relation to the original notice.
 
 (3) A conduct notice ceases to have effect if withdrawn by an authorised officer under section 240.
 
 (4) A conduct notice ceases to have effect in relation to a person when a monitoring notice takes effect in relation to that person.
 
-(4A)[^key-b4f81fcf7970f5b1e5a0986120dcf254] For the purposes of subsection (2)(a), the relevant period in relation to a conduct notice is calculated in accordance with this table—
+(4A)[^c-b4f81fcf7970f5b1e5a0986120dcf254] For the purposes of subsection (2)(a), the relevant period in relation to a conduct notice is calculated in accordance with this table—
 
 | *If the authorised officer is aware that the person to whom the notice is given meets* | *the relevant period is such period as may be notified in accordance with subsection (4B) or (4C) up to* |
 | --- | --- |
@@ -83,18 +83,18 @@ Subsection (4E) makes provision for the relevant period to be extended in certai
 - (a) the number of days that are not to be taken into account in calculating the relevant period, and
 - (b) of the new date at the end of which the relevant period is expected to end.
 
-(5)[^key-98287d472cd5b7c4517121b66c377c3c] See also section 237D(2) (provisional conduct notice affected by judicial ruling).
+(5)[^c-98287d472cd5b7c4517121b66c377c3c] See also section 237D(2) (provisional conduct notice affected by judicial ruling).
 
 ## Annotations
 
-[^key-d41c3ba96a8747cab4fe850c1ea36e61]: Textual amendment: Words in [s. 241(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/2/a) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 25(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/25/a/i)
+[^c-d41c3ba96a8747cab4fe850c1ea36e61]: Textual amendment: Words in [s. 241(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/2/a) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 25(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/25/a/i)
 
-[^key-a48387cd2147ea1f4e170b18132bebe3]: Textual amendment: Word in [s. 241(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/2/a) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 25(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/25/a/ii)
+[^c-a48387cd2147ea1f4e170b18132bebe3]: Textual amendment: Word in [s. 241(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/2/a) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 25(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/25/a/ii)
 
-[^key-9fc710460c9d5ec63800df655f378006]: Textual amendment: [S. 241(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/2/b) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 25(a)(iii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/25/a/iii)
+[^c-9fc710460c9d5ec63800df655f378006]: Textual amendment: [S. 241(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/2/b) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 25(a)(iii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/25/a/iii)
 
-[^key-3c8db2065d8cb582a06442265c028647]: Textual amendment: [S. 241(2A)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/2A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 25(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/25/b)
+[^c-3c8db2065d8cb582a06442265c028647]: Textual amendment: [S. 241(2A)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/2A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 25(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/25/b)
 
-[^key-b4f81fcf7970f5b1e5a0986120dcf254]: Textual amendment: [S. 241(4A)-(4J)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/4A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 25(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/25/c)
+[^c-b4f81fcf7970f5b1e5a0986120dcf254]: Textual amendment: [S. 241(4A)-(4J)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/4A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 25(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/25/c)
 
-[^key-98287d472cd5b7c4517121b66c377c3c]: Textual amendment: [S. 241(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/5) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/6)
+[^c-98287d472cd5b7c4517121b66c377c3c]: Textual amendment: [S. 241(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/241/5) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. The Developments of National Significance (Procedure) (Wales) Order 2016[^key-f6a786e36711de9604911fd65f7066ff]
+## 76. The Developments of National Significance (Procedure) (Wales) Order 2016[^c-f6a786e36711de9604911fd65f7066ff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6a786e36711de9604911fd65f7066ff]: Textual amendment: [Regs. 75-83](https://www.legislation.gov.uk/wsi/2024/924/regulation/75) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [18(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/18/2) (with [reg. 18(3)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/18/3))
+[^c-f6a786e36711de9604911fd65f7066ff]: Textual amendment: [Regs. 75-83](https://www.legislation.gov.uk/wsi/2024/924/regulation/75) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [18(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/18/2) (with [reg. 18(3)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/18/3))

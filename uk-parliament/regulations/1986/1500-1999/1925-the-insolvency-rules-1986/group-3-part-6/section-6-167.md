@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.167. Appointment and remuneration[^key-6c59a8e62a3243359d2414c73b69cd99]
+## 6.167. Appointment and remuneration[^c-6c59a8e62a3243359d2414c73b69cd99]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ The report shall include the applicant's estimate of the value of the estate, pr
 
 ## Annotations
 
-[^key-6c59a8e62a3243359d2414c73b69cd99]: Commencement: [Rule 6.167](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.167) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-6c59a8e62a3243359d2414c73b69cd99]: Commencement: [Rule 6.167](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.167) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00178]: Marginal citation: \[FORM 6.54\]

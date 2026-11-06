@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. General directions[^key-f25851c355350aa071ec3c62930a307c]
+## 15. General directions[^c-f25851c355350aa071ec3c62930a307c]
 
 *Extent: E+W*
 
 (1) The Welsh Ministers may give to WRA directions of a general nature.
 
-(1A)[^key-131ff0fa100f9d07406efbb615d94674] Before giving a direction under subsection (1) that relates only to WRA’s functions relating to the visitor levy, the Welsh Ministers must consult each principal council that has introduced, or decided to introduce, the visitor levy in its area.
+(1A)[^c-131ff0fa100f9d07406efbb615d94674] Before giving a direction under subsection (1) that relates only to WRA’s functions relating to the visitor levy, the Welsh Ministers must consult each principal council that has introduced, or decided to introduce, the visitor levy in its area.
 
 (2) WRA must, in the exercise of its functions, comply with directions given under subsection (1).
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f25851c355350aa071ec3c62930a307c]: Commencement: S. 15 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-f25851c355350aa071ec3c62930a307c]: Commencement: S. 15 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
 
-[^key-131ff0fa100f9d07406efbb615d94674]: Textual amendment: [S. 15(1A)](https://www.legislation.gov.uk/anaw/2016/6/section/15/1A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/23)
+[^c-131ff0fa100f9d07406efbb615d94674]: Textual amendment: [S. 15(1A)](https://www.legislation.gov.uk/anaw/2016/6/section/15/1A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/23)

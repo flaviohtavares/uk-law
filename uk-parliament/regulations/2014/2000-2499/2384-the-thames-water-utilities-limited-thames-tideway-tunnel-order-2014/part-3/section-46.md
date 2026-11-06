@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Private rights of way[^key-0a04afcdb616c3449b179632627da649]
+## 46. Private rights of way[^c-0a04afcdb616c3449b179632627da649]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ it shall be effective in respect of the persons so deriving title, whether the t
 
 ## Annotations
 
-[^key-0a04afcdb616c3449b179632627da649]: Commencement: Art. 46 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-0a04afcdb616c3449b179632627da649]: Commencement: Art. 46 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
 [^f00031]: Footnote: Section 11 is amended by section 34 of, and Schedule 4 to the Acquisition of Land Act [1981 (c.67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and Schedule 1 to the Housing (Consequential Provisions) Act [1985 (c.71)](https://www.legislation.gov.uk/ukpga/1985/71) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

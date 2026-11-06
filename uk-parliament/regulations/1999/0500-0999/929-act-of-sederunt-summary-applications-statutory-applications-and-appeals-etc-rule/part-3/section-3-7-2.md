@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.7.2. Service[^key-62109865943da6c8f514dcaa81e0db34]
+## 3.7.2. Service[^c-62109865943da6c8f514dcaa81e0db34]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The appellant shall serve a copy of the initial writ on–
 
 ## Annotations
 
-[^key-62109865943da6c8f514dcaa81e0db34]: Commencement: Rule 3.7.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-62109865943da6c8f514dcaa81e0db34]: Commencement: Rule 3.7.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

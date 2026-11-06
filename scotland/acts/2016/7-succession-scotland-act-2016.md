@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Testamentary documents and special destinations
 
-### 1. Effect of divorce, dissolution or annulment on will[^key-42f07604ffe298f8ccb8e9e3791ab409]
+### 1. Effect of divorce, dissolution or annulment on will[^c-42f07604ffe298f8ccb8e9e3791ab409]
 
 (1) This section applies where—
 
@@ -63,7 +63,7 @@ even if the marriage or civil partnership is terminated.
 - (a) obtained from a court of civil jurisdiction in the United Kingdom, the Channel Islands or the Isle of Man, or
 - (b) if not so obtained, the validity of which is recognised in Scotland.
 
-### 2. Effect of divorce, dissolution or annulment on special destination[^key-95d314326cf27e7691059ea9053841b8]
+### 2. Effect of divorce, dissolution or annulment on special destination[^c-95d314326cf27e7691059ea9053841b8]
 
 (1) This section applies where—
 
@@ -74,7 +74,7 @@ even if the marriage or civil partnership is terminated.
 - (b) A and B's marriage or civil partnership is terminated, and
 - (c) A then dies.
 
-(2) In relation to the succession to A’s interest in[^key-ac8ec27884db198036101644804092d9] the property mentioned in subsection (1)(a) on A's death, B is to be treated as having died before A.
+(2) In relation to the succession to A’s interest in[^c-ac8ec27884db198036101644804092d9] the property mentioned in subsection (1)(a) on A's death, B is to be treated as having died before A.
 
 (3) Subsection (2) does not apply if the document under which the property is held expressly provides that succession to the property is to be unaffected by A and B's marriage or civil partnership being terminated.
 
@@ -87,7 +87,7 @@ even if the marriage or civil partnership is terminated.
 - (a) obtained from a court of civil jurisdiction in the United Kingdom, the Channel Islands or the Isle of Man, or
 - (b) if not so obtained, the validity of which is recognised in Scotland.
 
-### 3. Rectification of will[^key-af8bb4d5a196f231f7067c5a7605020c]
+### 3. Rectification of will[^c-af8bb4d5a196f231f7067c5a7605020c]
 
 (1) This section applies where—
 
@@ -119,7 +119,7 @@ even if the marriage or civil partnership is terminated.
 - (a) the testator was not habitually resident in a particular part of Scotland, or
 - (b) the particular part of Scotland in which the testator was habitually resident is not known or is uncertain.
 
-### 4. Rectification of will: supplementary[^key-c9a215ad74c743f2ec4e25f92484dcb4]
+### 4. Rectification of will: supplementary[^c-c9a215ad74c743f2ec4e25f92484dcb4]
 
 (1) Subject to subsection (2), an application under section 3(1)(c) must be made within the period of 6 months commencing—
 
@@ -153,7 +153,7 @@ if the will to which the order relates is registered (either before or when the 
 
 (8) In this section, “**the court**” has the same meaning as in section 3.
 
-### 5. Revocation of will not to revive earlier revoked will[^key-2290b905c91b6ae35af7209aca8f828d]
+### 5. Revocation of will not to revive earlier revoked will[^c-2290b905c91b6ae35af7209aca8f828d]
 
 (1) This section applies where—
 
@@ -162,7 +162,7 @@ if the will to which the order relates is registered (either before or when the 
 
 (2) The revocation of the subsequent will, or part of it, does not revive the earlier will or (as the case may be) the revoked part of the earlier will.
 
-### 6. Death before legacy vests: entitlement of issue[^key-ac251411b2b99bb031f522a7a47c2d4e]
+### 6. Death before legacy vests: entitlement of issue[^c-ac251411b2b99bb031f522a7a47c2d4e]
 
 (1) This section applies where—
 
@@ -189,7 +189,7 @@ if the will to which the order relates is registered (either before or when the 
 - “**intestate estate**” means an estate, or any part of an estate, which is not disposed of by will,
 - “**issue**” means issue however remote.
 
-### 7. Liferent: vesting of fee other than on death[^key-5a0b115759dfe03ba4d7f5fe9825591e]
+### 7. Liferent: vesting of fee other than on death[^c-5a0b115759dfe03ba4d7f5fe9825591e]
 
 (1) This section applies where a liferent terminates other than on the death of the liferenter.
 
@@ -198,7 +198,7 @@ if the will to which the order relates is registered (either before or when the 
 - (a) the document creating the liferent expressly provides otherwise, or
 - (b) there is an obligation requiring otherwise.
 
-### 8. Destinations in wills and certain trusts: conditional institution[^key-e840505bd90f9d059f44232411bc1aa1]
+### 8. Destinations in wills and certain trusts: conditional institution[^c-e840505bd90f9d059f44232411bc1aa1]
 
 (1) This section applies where—
 
@@ -212,7 +212,7 @@ if the will to which the order relates is registered (either before or when the 
 
 ## Survivorship
 
-### 9. Uncertainty of survivorship treated as failure to survive[^key-a24b8b5f619a4b9a581756a334d411b2]
+### 9. Uncertainty of survivorship treated as failure to survive[^c-a24b8b5f619a4b9a581756a334d411b2]
 
 (1) Where two persons die simultaneously or in circumstances in which it is uncertain who survived whom, each is to be treated as having failed to survive the other for all purposes affecting title or succession to property.
 
@@ -220,7 +220,7 @@ if the will to which the order relates is registered (either before or when the 
 
 (3) This section is subject to section 10.
 
-### 10. Equal division of property if order of beneficiaries' deaths uncertain[^key-fc2bbb9a8f839bcab98621390ecb1191]
+### 10. Equal division of property if order of beneficiaries' deaths uncertain[^c-fc2bbb9a8f839bcab98621390ecb1191]
 
 (1) This section applies, instead of section 9, for the purposes of determining rights of succession or title to property where—
 
@@ -238,7 +238,7 @@ if the will to which the order relates is registered (either before or when the 
 
 (4) This section does not apply if the property is to pass under a will and the persons mentioned in subsection (1)(b) and the testator die simultaneously or in circumstances in which the order of death is uncertain.
 
-### 11. Testamentary requirement of survival for a particular period[^key-d35f1f67b8b1064e4fa02ba04dbe5869]
+### 11. Testamentary requirement of survival for a particular period[^c-d35f1f67b8b1064e4fa02ba04dbe5869]
 
 Where—
 
@@ -249,7 +249,7 @@ the person is to be treated as having failed to survive the testator for the spe
 
 ## Forfeiture
 
-### 12. Person forfeiting to be treated as having failed to survive victim[^key-0c370810121c677288f3fbd677a99584]
+### 12. Person forfeiting to be treated as having failed to survive victim[^c-0c370810121c677288f3fbd677a99584]
 
 (1) This section applies where, under the forfeiture rule, a person (“the offender”) has forfeited—
 
@@ -274,13 +274,13 @@ the person is to be treated as having failed to survive the testator for the spe
 
 (5) In this section, “**the deceased**” means the person as a result of whose death the forfeiture arose.
 
-### 13. Protection for persons acquiring in good faith and for value[^key-fc71cd5a3b09ac895353cdf9b7280ba7]
+### 13. Protection for persons acquiring in good faith and for value[^c-fc71cd5a3b09ac895353cdf9b7280ba7]
 
 (1) This section applies where a person acquires title to property in good faith and for value (whether by purchase or otherwise).
 
 (2) The title is not challengeable on the ground that it was acquired (directly or indirectly) from a person who in relation to the property has incurred forfeiture under the forfeiture rule.
 
-### 14. Power of sheriff to order sheriff clerk to execute document[^key-e32a879af293399c2d6e06a3eb7fe563]
+### 14. Power of sheriff to order sheriff clerk to execute document[^c-e32a879af293399c2d6e06a3eb7fe563]
 
 (1) This section applies where a relevant sheriff is satisfied, on an application, that—
 
@@ -311,7 +311,7 @@ the person is to be treated as having failed to survive the testator for the spe
 
 (6) In this section, “**the deceased**” means the person as a result of whose death the forfeiture arose.
 
-### 15. Total relief from forfeiture rule[^key-6e9a568d3e1444078932adc5fd8fd010]
+### 15. Total relief from forfeiture rule[^c-6e9a568d3e1444078932adc5fd8fd010]
 
 (1) Section 2 of the Forfeiture Act 1982 is amended as follows.
 
@@ -332,7 +332,7 @@ the person is to be treated as having failed to survive the testator for the spe
 
 (6) In subsection (6), after “section” insert “ modifying the effect of the forfeiture rule ”.
 
-### 16. Time limit for applying for relief from forfeiture rule[^key-193b60d26a83e78fe20dde1af9331e4d]
+### 16. Time limit for applying for relief from forfeiture rule[^c-193b60d26a83e78fe20dde1af9331e4d]
 
 (1) Section 2 of the Forfeiture Act 1982 is amended as follows.
 
@@ -347,7 +347,7 @@ the person is to be treated as having failed to survive the testator for the spe
 
 .
 
-### 17. Repeal of the Parricide Act[^key-1a4bbe59ed53c085f1e39bf07ee39967]
+### 17. Repeal of the Parricide Act[^c-1a4bbe59ed53c085f1e39bf07ee39967]
 
 (1) The Parricide Act 1594 is repealed.
 
@@ -419,7 +419,7 @@ The Scottish Ministers may by regulations make provision to the effect that pers
 
 (4) The regulations are subject to the affirmative procedure.
 
-### 23. Errors in distribution: protection of trustees and executors in certain circumstances[^key-5d665f1e95474a0ac198eeb5c481400a]
+### 23. Errors in distribution: protection of trustees and executors in certain circumstances[^c-5d665f1e95474a0ac198eeb5c481400a]
 
 In the Trusts (Scotland) Act 1921, after section 29 insert—
 
@@ -442,7 +442,7 @@ In the Trusts (Scotland) Act 1921, after section 29 insert—
 
 .
 
-### 24. Protection of persons acquiring title[^key-bfc491b1896b4ae5167dc34287267f1e]
+### 24. Protection of persons acquiring title[^c-bfc491b1896b4ae5167dc34287267f1e]
 
 (1) This section applies where a person, in good faith and for value (whether by purchase or otherwise)—
 
@@ -459,17 +459,17 @@ In the Trusts (Scotland) Act 1921, after section 29 insert—
 
 ## Other reforms
 
-### 25. Gifts made in contemplation of death[^key-0d758c4c494c4907b6983e4976e6758b]
+### 25. Gifts made in contemplation of death[^c-0d758c4c494c4907b6983e4976e6758b]
 
 (1) The customary mode of making a conditional gift in contemplation of death known as making a donation mortis causa is abolished.
 
 (2) Subsection (1) does not prevent the making of a conditional gift other than in that customary mode.
 
-### 26. Abolition of right to claim in respect of expense of mournings[^key-ed9ac036061737e041bccc1f868fbe9f]
+### 26. Abolition of right to claim in respect of expense of mournings[^c-ed9ac036061737e041bccc1f868fbe9f]
 
 Any right at common law to claim an allowance in respect of the expense of mournings from the estate of a deceased person is abolished.
 
-### 27. Additional ground of jurisdiction: executor confirmed in Scotland[^key-24b1637ee17f0d483f351d4704a6f7f2]
+### 27. Additional ground of jurisdiction: executor confirmed in Scotland[^c-24b1637ee17f0d483f351d4704a6f7f2]
 
 (1) The Civil Jurisdiction and Judgments Act 1982 is amended as follows.
 
@@ -483,7 +483,7 @@ Any right at common law to claim an allowance in respect of the expense of mourn
 
 ## General
 
-### 28. Interpretation[^key-9770a96af1b46fde4ca8a036a7e0b970]
+### 28. Interpretation[^c-9770a96af1b46fde4ca8a036a7e0b970]
 
 (1) In this Act (unless the context otherwise requires)—
 
@@ -499,9 +499,9 @@ Any right at common law to claim an allowance in respect of the expense of mourn
 
 ### 29. Consequential provision
 
-(1)[^key-3c74c5a6218aa4ffa172c94013951a8e] The rule of law known as the conditio si institutus sine liberis decesserit ceases to have effect.
+(1)[^c-3c74c5a6218aa4ffa172c94013951a8e] The rule of law known as the conditio si institutus sine liberis decesserit ceases to have effect.
 
-(2)[^key-7a11bf45c216c38b7afac8c5470de0d0][^key-df50c2aea1231900f01fefc86011b0a6] The schedule (which modifies provisions for the purposes of or in consequence of this Act) has effect.
+(2)[^c-7a11bf45c216c38b7afac8c5470de0d0][^c-df50c2aea1231900f01fefc86011b0a6] The schedule (which modifies provisions for the purposes of or in consequence of this Act) has effect.
 
 ### 30. Ancillary provision
 
@@ -538,16 +538,16 @@ The short title of this Act is the Succession (Scotland) Act 2016.
 
 ### The Succession (Scotland) Act 1964
 
-**1.** (1)[^key-45eace180cc5216954b0c9a71b17545a] The Succession (Scotland) Act 1964 is modified as follows.
+**1.** (1)[^c-45eace180cc5216954b0c9a71b17545a] The Succession (Scotland) Act 1964 is modified as follows.
 
-(2)[^key-45eace180cc5216954b0c9a71b17545a] In section 5(1), for “predeceased” substitute “failed to survive”.
+(2)[^c-45eace180cc5216954b0c9a71b17545a] In section 5(1), for “predeceased” substitute “failed to survive”.
 
-(3)[^key-45eace180cc5216954b0c9a71b17545a] In section 6(1)(b)—
+(3)[^c-45eace180cc5216954b0c9a71b17545a] In section 6(1)(b)—
 
 - (a) for “predeceased” in the first place where it occurs substitute “failed to survive”,
 - (b) for “predeceased persons” substitute “persons who have failed to survive the deceased”.
 
-(4)[^key-45eace180cc5216954b0c9a71b17545a] In section 11—
+(4)[^c-45eace180cc5216954b0c9a71b17545a] In section 11—
 
 - (a) in subsection (1), for “predeceased by a child who” substitute “in circumstances where a child who has failed to survive the deceased”,
 - (b) in subsection (2)(b)—
@@ -556,84 +556,84 @@ The short title of this Act is the Succession (Scotland) Act 2016.
 
 (5) The following provisions are repealed—
 
-- (a)[^key-7dfbbcd5b9ee5bb690ad0e6f4d9a252f] section 17,
-- (b)[^key-7dfbbcd5b9ee5bb690ad0e6f4d9a252f] section 24(2),
-- (c)[^key-45eace180cc5216954b0c9a71b17545a] section 31.
+- (a)[^c-7dfbbcd5b9ee5bb690ad0e6f4d9a252f] section 17,
+- (b)[^c-7dfbbcd5b9ee5bb690ad0e6f4d9a252f] section 24(2),
+- (c)[^c-45eace180cc5216954b0c9a71b17545a] section 31.
 
 ### The Law Reform (Miscellaneous Provisions) (Scotland) Act 1968
 
-**2.**[^key-387aababb1c4cd5f101a58f31cf2a94e] Section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 is repealed.
+**2.**[^c-387aababb1c4cd5f101a58f31cf2a94e] Section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 is repealed.
 
 ### Civil Partnership Act 2004
 
-**3.**[^key-05c4f17df70eea019667c50ddd2ea13a] Section 124A of the Civil Partnership Act 2004 is repealed.
+**3.**[^c-05c4f17df70eea019667c50ddd2ea13a] Section 124A of the Civil Partnership Act 2004 is repealed.
 
 ### Family Law (Scotland) Act 2006
 
-**4.**[^key-77e3fbe86d39b4d2e3e204c9b366808b] Section 19 of the Family Law (Scotland) Act 2006 is repealed.
+**4.**[^c-77e3fbe86d39b4d2e3e204c9b366808b] Section 19 of the Family Law (Scotland) Act 2006 is repealed.
 
 ## Annotations
 
-[^key-42f07604ffe298f8ccb8e9e3791ab409]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/7/section/1) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-42f07604ffe298f8ccb8e9e3791ab409]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/7/section/1) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-95d314326cf27e7691059ea9053841b8]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/7/section/2) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-95d314326cf27e7691059ea9053841b8]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/7/section/2) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-ac8ec27884db198036101644804092d9]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/asp/2016/7/section/2/2) inserted (30.4.2024) by [Trusts and Succession (Scotland) Act 2024 (asp 2)](https://www.legislation.gov.uk/asp/2024/2), [ss. 76](https://www.legislation.gov.uk/asp/2024/2/section/76), [88(2)](https://www.legislation.gov.uk/asp/2024/2/section/88/2)
+[^c-ac8ec27884db198036101644804092d9]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/asp/2016/7/section/2/2) inserted (30.4.2024) by [Trusts and Succession (Scotland) Act 2024 (asp 2)](https://www.legislation.gov.uk/asp/2024/2), [ss. 76](https://www.legislation.gov.uk/asp/2024/2/section/76), [88(2)](https://www.legislation.gov.uk/asp/2024/2/section/88/2)
 
-[^key-af8bb4d5a196f231f7067c5a7605020c]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2016/7/section/3) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-af8bb4d5a196f231f7067c5a7605020c]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2016/7/section/3) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-c9a215ad74c743f2ec4e25f92484dcb4]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/7/section/4) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-c9a215ad74c743f2ec4e25f92484dcb4]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/7/section/4) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-2290b905c91b6ae35af7209aca8f828d]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/7/section/5) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/1))
+[^c-2290b905c91b6ae35af7209aca8f828d]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/7/section/5) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/1))
 
-[^key-ac251411b2b99bb031f522a7a47c2d4e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/7/section/6) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/2))
+[^c-ac251411b2b99bb031f522a7a47c2d4e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/7/section/6) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/2))
 
-[^key-5a0b115759dfe03ba4d7f5fe9825591e]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/7/section/7) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b)
+[^c-5a0b115759dfe03ba4d7f5fe9825591e]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/7/section/7) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b)
 
-[^key-e840505bd90f9d059f44232411bc1aa1]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/7/section/8) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/2))
+[^c-e840505bd90f9d059f44232411bc1aa1]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/7/section/8) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/2))
 
-[^key-a24b8b5f619a4b9a581756a334d411b2]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/7/section/9) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-a24b8b5f619a4b9a581756a334d411b2]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/7/section/9) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-fc2bbb9a8f839bcab98621390ecb1191]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/7/section/10) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-fc2bbb9a8f839bcab98621390ecb1191]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/7/section/10) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-d35f1f67b8b1064e4fa02ba04dbe5869]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/7/section/11) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-d35f1f67b8b1064e4fa02ba04dbe5869]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/7/section/11) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-0c370810121c677288f3fbd677a99584]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/7/section/12) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-0c370810121c677288f3fbd677a99584]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/7/section/12) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-fc71cd5a3b09ac895353cdf9b7280ba7]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/7/section/13) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-fc71cd5a3b09ac895353cdf9b7280ba7]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/7/section/13) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-e32a879af293399c2d6e06a3eb7fe563]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/7/section/14) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-e32a879af293399c2d6e06a3eb7fe563]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/7/section/14) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-6e9a568d3e1444078932adc5fd8fd010]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/7/section/15) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-6e9a568d3e1444078932adc5fd8fd010]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/7/section/15) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-193b60d26a83e78fe20dde1af9331e4d]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/7/section/16) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-193b60d26a83e78fe20dde1af9331e4d]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/7/section/16) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-1a4bbe59ed53c085f1e39bf07ee39967]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/7/section/17) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-1a4bbe59ed53c085f1e39bf07ee39967]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/7/section/17) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-5d665f1e95474a0ac198eeb5c481400a]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/7/section/23) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b)
+[^c-5d665f1e95474a0ac198eeb5c481400a]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/7/section/23) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b)
 
-[^key-bfc491b1896b4ae5167dc34287267f1e]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/7/section/24) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b)
+[^c-bfc491b1896b4ae5167dc34287267f1e]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/7/section/24) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b)
 
-[^key-0d758c4c494c4907b6983e4976e6758b]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/7/section/25) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b) (with [reg. 3(3)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/3))
+[^c-0d758c4c494c4907b6983e4976e6758b]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/7/section/25) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b) (with [reg. 3(3)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/3))
 
-[^key-ed9ac036061737e041bccc1f868fbe9f]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/7/section/26) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-ed9ac036061737e041bccc1f868fbe9f]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/7/section/26) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-24b1637ee17f0d483f351d4704a6f7f2]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/7/section/27) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-24b1637ee17f0d483f351d4704a6f7f2]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/7/section/27) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-9770a96af1b46fde4ca8a036a7e0b970]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/7/section/28) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b)
+[^c-9770a96af1b46fde4ca8a036a7e0b970]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/7/section/28) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b)
 
-[^key-3c74c5a6218aa4ffa172c94013951a8e]: Commencement: [S. 29(1)](https://www.legislation.gov.uk/asp/2016/7/section/29/1) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/2))
+[^c-3c74c5a6218aa4ffa172c94013951a8e]: Commencement: [S. 29(1)](https://www.legislation.gov.uk/asp/2016/7/section/29/1) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/2))
 
-[^key-7a11bf45c216c38b7afac8c5470de0d0]: Commencement: [S. 29(2)](https://www.legislation.gov.uk/asp/2016/7/section/29/2) in force at 1.11.2016 for specified purposes by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b)
+[^c-7a11bf45c216c38b7afac8c5470de0d0]: Commencement: [S. 29(2)](https://www.legislation.gov.uk/asp/2016/7/section/29/2) in force at 1.11.2016 for specified purposes by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b)
 
-[^key-df50c2aea1231900f01fefc86011b0a6]: Commencement: [S. 29(2)](https://www.legislation.gov.uk/asp/2016/7/section/29/2) in force at 1.11.2016 for specified purposes in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-df50c2aea1231900f01fefc86011b0a6]: Commencement: [S. 29(2)](https://www.legislation.gov.uk/asp/2016/7/section/29/2) in force at 1.11.2016 for specified purposes in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-45eace180cc5216954b0c9a71b17545a]: Commencement: Sch. para. 1(1)-(4)(5)(c) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-45eace180cc5216954b0c9a71b17545a]: Commencement: Sch. para. 1(1)-(4)(5)(c) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-7dfbbcd5b9ee5bb690ad0e6f4d9a252f]: Commencement: Sch. para. 1(5)(a)(b) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/4)[(5)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/5))
+[^c-7dfbbcd5b9ee5bb690ad0e6f4d9a252f]: Commencement: Sch. para. 1(5)(a)(b) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b) (with [reg. 3(4)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/4)[(5)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/5))
 
-[^key-387aababb1c4cd5f101a58f31cf2a94e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/2) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b) (with [reg. 3(5)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/5))
+[^c-387aababb1c4cd5f101a58f31cf2a94e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/2) in force at 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/b) (with [reg. 3(5)](https://www.legislation.gov.uk/ssi/2016/210/regulation/3/5))
 
-[^key-05c4f17df70eea019667c50ddd2ea13a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/3) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-05c4f17df70eea019667c50ddd2ea13a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/3) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-77e3fbe86d39b4d2e3e204c9b366808b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/4) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-77e3fbe86d39b4d2e3e204c9b366808b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/4) in force at 1.11.2016 in relation to the estate of any person who dies on or after 1.11.2016 by [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)

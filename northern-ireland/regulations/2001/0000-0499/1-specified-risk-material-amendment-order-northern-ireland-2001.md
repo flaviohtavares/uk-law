@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS
 
-Specified Risk Material (Amendment) Order (Northern Ireland) 2001 (revoked)[^key-abcad2aade3a076a53e22569183e1793]
+Specified Risk Material (Amendment) Order (Northern Ireland) 2001 (revoked)[^c-abcad2aade3a076a53e22569183e1793]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 3rd January 2001
 
-[^key-abcad2aade3a076a53e22569183e1793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abcad2aade3a076a53e22569183e1793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-abcad2aade3a076a53e22569183e1793]
+## 1. Citation and commencement[^c-abcad2aade3a076a53e22569183e1793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Specified Risk Material Order (Northern Ireland) 1997[^key-abcad2aade3a076a53e22569183e1793]
+## 2. Amendments to the Specified Risk Material Order (Northern Ireland) 1997[^c-abcad2aade3a076a53e22569183e1793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-abcad2aade3a076a53e22569183e1793]
+## 3. Interpretation[^c-abcad2aade3a076a53e22569183e1793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Specified sheep or goat material and specified bovine material[^key-abcad2aade3a076a53e22569183e1793]
+## 4. Specified sheep or goat material and specified bovine material[^c-abcad2aade3a076a53e22569183e1793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Import of Specified Risk Material[^key-abcad2aade3a076a53e22569183e1793]
+## 5. Import of Specified Risk Material[^c-abcad2aade3a076a53e22569183e1793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Prohibition on removal of brain or eyes[^key-abcad2aade3a076a53e22569183e1793]
+## 6. Prohibition on removal of brain or eyes[^c-abcad2aade3a076a53e22569183e1793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consequential Amendments[^key-abcad2aade3a076a53e22569183e1793]
+## 7. Consequential Amendments[^c-abcad2aade3a076a53e22569183e1793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-abcad2aade3a076a53e22569183e1793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abcad2aade3a076a53e22569183e1793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-abcad2aade3a076a53e22569183e1793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abcad2aade3a076a53e22569183e1793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-abcad2aade3a076a53e22569183e1793]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/1) revoked (6.12.2004) by [Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2004 (S.R. 2004/464)](https://www.legislation.gov.uk/nisr/2004/464), [reg. 1](https://www.legislation.gov.uk/nisr/2004/464/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2004/464/schedule/5)
+[^c-abcad2aade3a076a53e22569183e1793]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/1) revoked (6.12.2004) by [Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2004 (S.R. 2004/464)](https://www.legislation.gov.uk/nisr/2004/464), [reg. 1](https://www.legislation.gov.uk/nisr/2004/464/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2004/464/schedule/5)

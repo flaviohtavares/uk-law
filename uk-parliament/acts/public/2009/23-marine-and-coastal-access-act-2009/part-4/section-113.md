@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. The appropriate licensing authority[^c2007855][^key-4ed5e92060d5fd57f2001e693afd3e6b]
+## 113. The appropriate licensing authority[^c2007855][^c-4ed5e92060d5fd57f2001e693afd3e6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 - (b) any activity relating to a matter which is a reserved matter by virtue of paragraph 9 in Part 1 of that Schedule (defence);
 - (c) any activity falling within the subject matter of Part 6 of the Merchant Shipping Act 1995 (c. 21) (pollution etc).
 
-(4) In relation to Wales, the Welsh inshore region and the Welsh offshore region[^key-e073b7ad2eba94a26f3aa77ae23751e7], the appropriate licensing authority is—
+(4) In relation to Wales, the Welsh inshore region and the Welsh offshore region[^c-e073b7ad2eba94a26f3aa77ae23751e7], the appropriate licensing authority is—
 
 - (a) the Secretary of State, as respects anything done in the course of carrying on an activity falling within subsection (5);
 - (b) except as provided by paragraph (a), the Welsh Ministers.
@@ -42,7 +42,7 @@ summary: ''
 
 - (a) any activity concerning or arising from the exploration for, or production of, petroleum (but see also section 77 (this Part not to apply to certain oil and gas etc activities));
 - (b) any defence activity other than an excepted activity.
-- (c)[^key-f7ca29ef00b9bf42cb9e9b7d66a8a746] in relation to the Welsh offshore region, any activity falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc).
+- (c)[^c-f7ca29ef00b9bf42cb9e9b7d66a8a746] in relation to the Welsh offshore region, any activity falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc).
 
 Subsection (9) supplements this subsection.
 
@@ -72,8 +72,8 @@ Subsection (9) supplements this subsection.
 
 [^c2007855]: Commencement: S. 113 partly in force; s. 113 in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-4ed5e92060d5fd57f2001e693afd3e6b]: Commencement: S. 113 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-4ed5e92060d5fd57f2001e693afd3e6b]: Commencement: S. 113 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-e073b7ad2eba94a26f3aa77ae23751e7]: Textual amendment: Words in s. 113(4) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/2/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-e073b7ad2eba94a26f3aa77ae23751e7]: Textual amendment: Words in s. 113(4) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/2/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
 
-[^key-f7ca29ef00b9bf42cb9e9b7d66a8a746]: Textual amendment: S. 113(5)(c) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/2/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-f7ca29ef00b9bf42cb9e9b7d66a8a746]: Textual amendment: S. 113(5)(c) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/2/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)

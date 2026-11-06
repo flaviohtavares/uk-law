@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.63. Expenses of statement of affairs[^key-a6efaf5ed7f20f9ce92e2351789c53ee]
+## 6.63. Expenses of statement of affairs[^c-a6efaf5ed7f20f9ce92e2351789c53ee]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6efaf5ed7f20f9ce92e2351789c53ee]: Commencement: [Rule 6.63](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.63) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a6efaf5ed7f20f9ce92e2351789c53ee]: Commencement: [Rule 6.63](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.63) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

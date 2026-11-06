@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Abolition of Health Protection Agency[^key-9225b0046e18e185f63315fa84d24224]
+## 56. Abolition of Health Protection Agency[^c-9225b0046e18e185f63315fa84d24224]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9225b0046e18e185f63315fa84d24224]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2012/7/section/56) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7](https://www.legislation.gov.uk/uksi/2013/160/article/7), [8(2)](https://www.legislation.gov.uk/uksi/2013/160/article/8/2), [9](https://www.legislation.gov.uk/uksi/2013/160/article/9))
+[^c-9225b0046e18e185f63315fa84d24224]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2012/7/section/56) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7](https://www.legislation.gov.uk/uksi/2013/160/article/7), [8(2)](https://www.legislation.gov.uk/uksi/2013/160/article/8/2), [9](https://www.legislation.gov.uk/uksi/2013/160/article/9))

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**136.**[^key-ec1428658c99f5196e0d11d4cad2f8e4] Schedule 1 is amended as follows.
+**136.**[^c-ec1428658c99f5196e0d11d4cad2f8e4] Schedule 1 is amended as follows.
 
 ## Annotations
 
-[^key-ec1428658c99f5196e0d11d4cad2f8e4]: Commencement: Art. 136 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-ec1428658c99f5196e0d11d4cad2f8e4]: Commencement: Art. 136 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c13457701] Notwithstanding anything in section 9[^c13457711] of this Act, no charge may be made by Scottish Water[^c18356941] in respect of—
 
-- (a)[^c13457721] water taken for the purpose of extinguishing fires or taken by the Scottish Fire and Rescue Service[^key-f2354936e7c8018ba093af39a500b78c] for any other emergency purposes;
+- (a)[^c13457721] water taken for the purpose of extinguishing fires or taken by the Scottish Fire and Rescue Service[^c-f2354936e7c8018ba093af39a500b78c] for any other emergency purposes;
 - (b) water taken for the purpose of testing apparatus installed or equipment used for extinguishing fires or for the purpose of training persons for fire-fighting; or
 - (c) the availability of water for any purpose mentioned in paragraph (a) or (b) above:
 
@@ -42,6 +42,6 @@ Provided that nothing in this section shall prevent the making of charges in res
 
 [^c13457721]: Textual amendment: S. 9A(a)(b)(c) substituted (6.3.1992) for paras. (a)(b) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 107](https://www.legislation.gov.uk/ukpga/1992/14/section/107), [Sch. 11](https://www.legislation.gov.uk/ukpga/1992/14/schedule/11), [Pt. IV](https://www.legislation.gov.uk/ukpga/1992/14/part/IV), [para. 29(b)](https://www.legislation.gov.uk/ukpga/1992/14/paragraph/29/b) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 
-[^key-f2354936e7c8018ba093af39a500b78c]: Textual amendment: Words in s. 9A(1)(a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 51(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/51/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-f2354936e7c8018ba093af39a500b78c]: Textual amendment: Words in s. 9A(1)(a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 51(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/51/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c13457731]: Textual amendment: S. 9A(2) added (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 119(4)(c)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/119/4/c); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)

@@ -32,7 +32,7 @@ summary: ''
 (4) The following extend also to Scotland—
 
 - (a) section 41(5) to (9),
-- (b)[^key-02723dc58d0c10406f6f122f31f42c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-02723dc58d0c10406f6f122f31f42c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 138,
 - (d) section 139, so far as relating to provisions extending to Scotland.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02723dc58d0c10406f6f122f31f42c0c]: Textual amendment: [S. 149(4)(b)](https://www.legislation.gov.uk/ukpga/2002/38/section/149/4/b) omitted (13.5.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/1/paragraph/11/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(f)](https://www.legislation.gov.uk/uksi/2014/889/article/5/f)
+[^c-02723dc58d0c10406f6f122f31f42c0c]: Textual amendment: [S. 149(4)(b)](https://www.legislation.gov.uk/ukpga/2002/38/section/149/4/b) omitted (13.5.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/1/paragraph/11/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(f)](https://www.legislation.gov.uk/uksi/2014/889/article/5/f)

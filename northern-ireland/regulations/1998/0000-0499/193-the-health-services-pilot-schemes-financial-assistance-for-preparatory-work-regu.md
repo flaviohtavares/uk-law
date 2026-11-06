@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 18(1) and (3) and 31(2) of the Health Services (Primary Care) (Northern Ireland) Order 1997[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-20798a7ec9ec877fc16dc6582a0fb955]
+## 1. Citation and commencement[^c-20798a7ec9ec877fc16dc6582a0fb955]
 
 These Regulations may be cited as the Health Services (Pilot Schemes: Financial Assistance for Preparatory Work) Regulations (Northern Ireland) 1998 and shall come into operation on 22nd June 1998.
 
-## 2. Provision of financial assistance to prepare proposals[^key-aa3701c5971af8410c1e880995bf814f]
+## 2. Provision of financial assistance to prepare proposals[^c-aa3701c5971af8410c1e880995bf814f]
 
 (1) A board may make payments of financial assistance for preparatory work in connection with preparing proposals for a pilot scheme.
 
@@ -64,13 +64,13 @@ These Regulations may be cited as the Health Services (Pilot Schemes: Financial 
 
 (4) Where two or more persons have together applied for financial assistance, payment may be made to any one of them on behalf of them all; but otherwise in such a case “the applicant” means all of them together.
 
-## 3. Conditions on payments of financial assistance to prepare proposals[^key-a3f871e46621bcebbaf30116d65a0b02]
+## 3. Conditions on payments of financial assistance to prepare proposals[^c-a3f871e46621bcebbaf30116d65a0b02]
 
 (1) A person to whom a payment of financial assistance is made under regulation 2 shall comply with any conditions which the board may impose in writing in connection with the requirements mentioned in that regulation.
 
 (2) A person to whom a payment of financial assistance is made under regulation 2 who fails to comply with any conditions imposed by the board under this regulation shall, on demand by the board, repay the amount of the payment forthwith.
 
-## 4. Provision of financial assistance to prepare for the provision of piloted services[^key-2d23222e9e853d2332ad754b900ba814]
+## 4. Provision of financial assistance to prepare for the provision of piloted services[^c-2d23222e9e853d2332ad754b900ba814]
 
 (1) A board may make payments of financial assistance for preparatory work in connection with preparation for the provision of piloted services.
 
@@ -139,14 +139,14 @@ Belfast BT4 3SF.
 
 [^f00001]: Footnote: S.I. [1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
-[^key-20798a7ec9ec877fc16dc6582a0fb955]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/193/regulation/1) in operation at 22.6.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/193/regulation/1)
+[^c-20798a7ec9ec877fc16dc6582a0fb955]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/193/regulation/1) in operation at 22.6.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/193/regulation/1)
 
-[^key-aa3701c5971af8410c1e880995bf814f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/193/regulation/2) in operation at 22.6.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/193/regulation/1)
+[^c-aa3701c5971af8410c1e880995bf814f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/193/regulation/2) in operation at 22.6.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/193/regulation/1)
 
 [^f00002]: Footnote: *See* Articles 4(2) and 5(2) of S.I. [1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
 [^f00003]: Footnote: *See* the Directions to Health and Social Services Boards concerning the preparation of proposals for pilot schemes, made under Article 6 of S.I. [1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
-[^key-a3f871e46621bcebbaf30116d65a0b02]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/193/regulation/3) in operation at 22.6.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/193/regulation/1)
+[^c-a3f871e46621bcebbaf30116d65a0b02]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/193/regulation/3) in operation at 22.6.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/193/regulation/1)
 
-[^key-2d23222e9e853d2332ad754b900ba814]: Textual amendment: [Regs. 4](https://www.legislation.gov.uk/nisr/1998/193/regulation/4), [5](https://www.legislation.gov.uk/nisr/1998/193/regulation/5) inserted (30.9.1998) by [The Health Services (Pilot Schemes: Financial Assistance for Preparatory Work) (Amendment) Regulations (Northern Ireland) 1998 (S.R. 1998/294)](https://www.legislation.gov.uk/nisr/1998/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/294/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1998/294/regulation/2)
+[^c-2d23222e9e853d2332ad754b900ba814]: Textual amendment: [Regs. 4](https://www.legislation.gov.uk/nisr/1998/193/regulation/4), [5](https://www.legislation.gov.uk/nisr/1998/193/regulation/5) inserted (30.9.1998) by [The Health Services (Pilot Schemes: Financial Assistance for Preparatory Work) (Amendment) Regulations (Northern Ireland) 1998 (S.R. 1998/294)](https://www.legislation.gov.uk/nisr/1998/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/294/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1998/294/regulation/2)

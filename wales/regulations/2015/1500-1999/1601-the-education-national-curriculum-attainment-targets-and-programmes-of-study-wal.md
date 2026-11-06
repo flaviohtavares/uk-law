@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Education (National Curriculum) (Attainment Targets and Programmes of Study) (Wales) (Amendment) Order 2015 (revoked)[^key-679a6de5e80b24f1d694754532c98169]
+The Education (National Curriculum) (Attainment Targets and Programmes of Study) (Wales) (Amendment) Order 2015 (revoked)[^c-679a6de5e80b24f1d694754532c98169]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 September 2015
 
-[^key-679a6de5e80b24f1d694754532c98169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-679a6de5e80b24f1d694754532c98169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-679a6de5e80b24f1d694754532c98169]
+## 1. Title, commencement and application[^c-679a6de5e80b24f1d694754532c98169]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-679a6de5e80b24f1d694754532c98169]
+## 2. Amendment[^c-679a6de5e80b24f1d694754532c98169]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-679a6de5e80b24f1d694754532c98169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-679a6de5e80b24f1d694754532c98169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-679a6de5e80b24f1d694754532c98169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-679a6de5e80b24f1d694754532c98169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-679a6de5e80b24f1d694754532c98169]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1601) revoked (1.9.2026) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [6(7)(b)](https://www.legislation.gov.uk/wsi/2022/679/regulation/6/7/b)
+[^c-679a6de5e80b24f1d694754532c98169]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1601) revoked (1.9.2026) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [6(7)(b)](https://www.legislation.gov.uk/wsi/2022/679/regulation/6/7/b)

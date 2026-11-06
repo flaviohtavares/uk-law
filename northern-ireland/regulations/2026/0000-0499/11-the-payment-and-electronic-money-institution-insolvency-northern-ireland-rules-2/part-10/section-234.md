@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 234. Application of Chapter 12[^key-c453ec43cb393e6e45a481ad05dcf35d]
+## 234. Application of Chapter 12[^c-c453ec43cb393e6e45a481ad05dcf35d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ This Chapter applies in relation to decisions of the court under the Regulations
 
 ## Annotations
 
-[^key-c453ec43cb393e6e45a481ad05dcf35d]: Commencement: [Rule 234](https://www.legislation.gov.uk/nisr/2026/11/rule/234) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c453ec43cb393e6e45a481ad05dcf35d]: Commencement: [Rule 234](https://www.legislation.gov.uk/nisr/2026/11/rule/234) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

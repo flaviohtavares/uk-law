@@ -36,11 +36,11 @@ Section 214
 
 > (1A) This section applies to any chargeable transaction other than a transaction to which paragraph 3 of Schedule 4A or step 4 of section 74(1A) (higher rate for certain transactions) applies.
 
-(4)[^key-e7f399d8dc65c0ec2c3b79c175e4998a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e7f399d8dc65c0ec2c3b79c175e4998a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (5), for “74” substitute “ 74(2) and (3) ”.
 
-(6)[^key-097855efb90353a3ef104586aa21e7ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-097855efb90353a3ef104586aa21e7ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** After section 55 insert—
 
@@ -240,7 +240,7 @@ Section 214
 > - *Step 3* If the amount produced by step 1 is more than £2,000,000 and the condition in paragraph 3(3) of Schedule 4A is not met with respect to the transaction, determine the rate of tax and the tax chargeable in accordance with subsections (2) and (3).
 > - *Step 4* If the amount produced by step 1 is more than £2,000,000 and the condition in paragraph 3(3) of Schedule 4A is met with respect to the transaction, subsections (2) and (3) do not apply, and the amount of tax chargeable in respect of the transaction is 15% of the chargeable consideration for the transaction.
 
-(3)[^key-c47344148bde75679c24c35f518f38eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c47344148bde75679c24c35f518f38eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Minor and consequential amendments
 
@@ -324,8 +324,8 @@ Section 214
 
 ## Annotations
 
-[^key-e7f399d8dc65c0ec2c3b79c175e4998a]: Textual amendment: [Sch. 35 para. 2(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/35/paragraph/2/4) omitted (with effect in accordance with s. 2(2) of the amending Act) by virtue of [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 21(c)(ii)](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/21/c/ii) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))
+[^c-e7f399d8dc65c0ec2c3b79c175e4998a]: Textual amendment: [Sch. 35 para. 2(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/35/paragraph/2/4) omitted (with effect in accordance with s. 2(2) of the amending Act) by virtue of [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 21(c)(ii)](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/21/c/ii) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))
 
-[^key-097855efb90353a3ef104586aa21e7ef]: Textual amendment: [Sch. 35 para. 2(6)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/35/paragraph/2/6) omitted (with effect in accordance with s. 2(2) of the amending Act) by virtue of [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 21(c)(ii)](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/21/c/ii) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))
+[^c-097855efb90353a3ef104586aa21e7ef]: Textual amendment: [Sch. 35 para. 2(6)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/35/paragraph/2/6) omitted (with effect in accordance with s. 2(2) of the amending Act) by virtue of [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 21(c)(ii)](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/21/c/ii) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))
 
-[^key-c47344148bde75679c24c35f518f38eb]: Textual amendment: [Sch. 35 para. 5(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/35/paragraph/5/3) omitted (with effect in accordance with s. 2(2) of the amending Act) by virtue of [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 21(c)(ii)](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/21/c/ii) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))
+[^c-c47344148bde75679c24c35f518f38eb]: Textual amendment: [Sch. 35 para. 5(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/35/paragraph/5/3) omitted (with effect in accordance with s. 2(2) of the amending Act) by virtue of [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 21(c)(ii)](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/21/c/ii) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))

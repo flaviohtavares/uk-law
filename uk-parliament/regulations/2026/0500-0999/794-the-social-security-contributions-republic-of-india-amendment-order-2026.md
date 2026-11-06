@@ -49,11 +49,11 @@ At New Delhi on 10th February 2026 an Agreement on Social Security relating to S
 
 In order to give effect to the Exchange of Notes, therefore, His Majesty, in exercise of the powers conferred on Him by section 179(1)(a) and (2) of the Social Security Administration Act 1992, is pleased, by and with the advice of His Privy Council, to order as follows.
 
-## 1. Citation and commencement[^key-8f3ccf7acb1f59d458fe398ad4bf9dd2]
+## 1. Citation and commencement[^c-8f3ccf7acb1f59d458fe398ad4bf9dd2]
 
 This Order may be cited as the Social Security (Contributions) (Republic of India) (Amendment) Order 2026 and comes into force the day after the date on which both States exchange written notifications that they have complied with all statutory and constitutional requirements in accordance with Article 26 of the Agreement set out in the Schedule to the Social Security (Contributions) (Republic of India) Order 2026[^f00003].
 
-## 2. Amendment of the Social Security (Contributions) (Republic of India) Order 2026[^key-84604511083b5b471c24814fc81a179d]
+## 2. Amendment of the Social Security (Contributions) (Republic of India) Order 2026[^c-84604511083b5b471c24814fc81a179d]
 
 In Article 8 of the Agreement set out in the Schedule to the Social Security (Contributions) (Republic of India) Order 2026, for “36 months”, in each place it occurs, substitute “60 months”.
 
@@ -75,8 +75,8 @@ A Tax Information and Impact Note has not been prepared for this instrument as i
 
 [^f00002]: Footnote: 2026 CP 1513.
 
-[^key-8f3ccf7acb1f59d458fe398ad4bf9dd2]: Commencement: Art. 1 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2026/794/article/1)
+[^c-8f3ccf7acb1f59d458fe398ad4bf9dd2]: Commencement: Art. 1 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2026/794/article/1)
 
 [^f00003]: Footnote: [S.I. 2026/274](https://www.legislation.gov.uk/uksi/2026/274).
 
-[^key-84604511083b5b471c24814fc81a179d]: Commencement: Art. 2 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2026/794/article/1)
+[^c-84604511083b5b471c24814fc81a179d]: Commencement: Art. 2 comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2026/794/article/1)

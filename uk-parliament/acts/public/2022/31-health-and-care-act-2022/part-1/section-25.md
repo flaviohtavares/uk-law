@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. General functions[^key-c0059b367f0c6d4588ef8ad8485984a4][^key-4ace0e7d1c57bd3a73de9994bb877752]
+## 25. General functions[^c-c0059b367f0c6d4588ef8ad8485984a4][^c-4ace0e7d1c57bd3a73de9994bb877752]
 
 *Extent: E+W*
 
@@ -536,6 +536,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0059b367f0c6d4588ef8ad8485984a4]: Commencement: S. 25 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-c0059b367f0c6d4588ef8ad8485984a4]: Commencement: S. 25 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-4ace0e7d1c57bd3a73de9994bb877752]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/31/section/25) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30), [33](https://www.legislation.gov.uk/uksi/2022/734/regulation/33))
+[^c-4ace0e7d1c57bd3a73de9994bb877752]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/31/section/25) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30), [33](https://www.legislation.gov.uk/uksi/2022/734/regulation/33))

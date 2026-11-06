@@ -31,7 +31,7 @@ and in this Article “the adult defendant” means such one or more of the accu
 
 - (a) the court hears the complaint or (as the case may be) deals summarily with the charge in the case of both or all of the accused, and the adult defendant or each of the adult defendants pleads guilty; or
 - (b) the court—
-  - (i) in the case of the adult defendant or each of the adult defendants, conducts a [^key-ba18b82a39e402306d67d77699e0a383]... preliminary inquiry and either commits him for trial or discharges him; and
+  - (i) in the case of the adult defendant or each of the adult defendants, conducts a [^c-ba18b82a39e402306d67d77699e0a383]... preliminary inquiry and either commits him for trial or discharges him; and
   - (ii) in the case of the child, hears the complaint or (as the case may be) deals summarily with the charge,
 
   then, if in either situation the child pleads not guilty, the court may, before any evidence is called in his case, remit him for trial to a youth court acting for the same place as the remitting court or for the place where he resides.
@@ -47,4 +47,4 @@ and in this Article “the adult defendant” means such one or more of the accu
 
 ## Annotations
 
-[^key-ba18b82a39e402306d67d77699e0a383]: Textual amendment: Words in [art. 29(2)(b)(i)](https://www.legislation.gov.uk/nisi/1998/1504/article/29/2/b/i) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 14(b)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/14/b); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-ba18b82a39e402306d67d77699e0a383]: Textual amendment: Words in [art. 29(2)(b)(i)](https://www.legislation.gov.uk/nisi/1998/1504/article/29/2/b/i) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 14(b)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/14/b); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)

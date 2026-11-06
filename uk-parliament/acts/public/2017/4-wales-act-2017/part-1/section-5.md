@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Power to make provision about elections[^key-91c0b8cfb487b15c11ab03846930ead2]
+## 5. Power to make provision about elections[^c-91c0b8cfb487b15c11ab03846930ead2]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,4 +94,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91c0b8cfb487b15c11ab03846930ead2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/4/section/5) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/b)
+[^c-91c0b8cfb487b15c11ab03846930ead2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/4/section/5) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/b)

@@ -24,9 +24,9 @@ summary: ''
 
 - (a) a relevant activity has been set up and is at any time carried on in partnership,
 - (b) there has been a change in the persons engaged in carrying on the relevant activity, and
-- (c)[^key-9012b7df571e719bca435b9325eea8a8] the condition in subsection (1A) or (1B) (whichever is appropriate) is met.
+- (c)[^c-9012b7df571e719bca435b9325eea8a8] the condition in subsection (1A) or (1B) (whichever is appropriate) is met.
 
-(1A)[^key-dda922ec17777632baf547401f8d66ea] For income tax purposes, the condition is that a person carrying on the relevant activity immediately before the change continues to carry it on after the change.
+(1A)[^c-dda922ec17777632baf547401f8d66ea] For income tax purposes, the condition is that a person carrying on the relevant activity immediately before the change continues to carry it on after the change.
 
 (1B) For corporation tax purposes, the condition is that a company carrying on the relevant activity in partnership immediately before the change continues to carry it on in partnership after the change.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9012b7df571e719bca435b9325eea8a8]: Textual amendment: S. 558(1)(c) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 518(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/518/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9012b7df571e719bca435b9325eea8a8]: Textual amendment: S. 558(1)(c) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 518(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/518/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-dda922ec17777632baf547401f8d66ea]: Textual amendment: S. 558(1A)(1B) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 518(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/518/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-dda922ec17777632baf547401f8d66ea]: Textual amendment: S. 558(1A)(1B) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 518(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/518/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

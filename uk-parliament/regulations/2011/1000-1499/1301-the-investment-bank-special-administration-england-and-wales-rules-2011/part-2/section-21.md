@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Verification of application[^key-d76380504edf54ff05f0cce90c025d75]
+## 21. Verification of application[^c-d76380504edf54ff05f0cce90c025d75]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d76380504edf54ff05f0cce90c025d75]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2011/1301/rule/21) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d76380504edf54ff05f0cce90c025d75]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2011/1301/rule/21) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

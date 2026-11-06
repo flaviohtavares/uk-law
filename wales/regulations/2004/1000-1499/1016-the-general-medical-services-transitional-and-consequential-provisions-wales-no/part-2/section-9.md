@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Removals not reflected in the list of patients on 31st March 2004[^key-50a620bf79468f93a7accc4db9c13844]
+## 9. Removals not reflected in the list of patients on 31st March 2004[^c-50a620bf79468f93a7accc4db9c13844]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50a620bf79468f93a7accc4db9c13844]: Commencement: Art. 9 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-50a620bf79468f93a7accc4db9c13844]: Commencement: Art. 9 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

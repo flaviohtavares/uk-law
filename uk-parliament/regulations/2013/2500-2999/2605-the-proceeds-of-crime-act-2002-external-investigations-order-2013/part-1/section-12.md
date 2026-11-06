@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Supplementary[^key-6983cf449a7fb493c285dd7c35b71dac]
+## 12. Supplementary[^c-6983cf449a7fb493c285dd7c35b71dac]
 
 *Extent: E+W+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) may discharge the order,
 - (b) may vary the order.
 
-(4) If an officer of a description mentioned in paragraph (a), (b) or (c) of the meaning of appropriate officer (see article 2 (interpretation))[^key-ec40d6fdb1d14ef2a90c617031f3abe6] applies for a production order or an order to grant entry, an application to discharge or vary the order may be made by a different officer of the same description[^key-1964b4a82ef7f1b5a364e7a642d6eda6].
+(4) If an officer of a description mentioned in paragraph (a), (b) or (c) of the meaning of appropriate officer (see article 2 (interpretation))[^c-ec40d6fdb1d14ef2a90c617031f3abe6] applies for a production order or an order to grant entry, an application to discharge or vary the order may be made by a different officer of the same description[^c-1964b4a82ef7f1b5a364e7a642d6eda6].
 
 (5) References to a person who applied for a production order or an order to grant entry must be construed accordingly.
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6983cf449a7fb493c285dd7c35b71dac]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/2605/article/12) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-6983cf449a7fb493c285dd7c35b71dac]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/2605/article/12) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
-[^key-ec40d6fdb1d14ef2a90c617031f3abe6]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/2013/2605/article/12/4) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(1)(a)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/1/a)
+[^c-ec40d6fdb1d14ef2a90c617031f3abe6]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/2013/2605/article/12/4) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(1)(a)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/1/a)
 
-[^key-1964b4a82ef7f1b5a364e7a642d6eda6]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/2013/2605/article/12/4) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(1)(b)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/1/b)
+[^c-1964b4a82ef7f1b5a364e7a642d6eda6]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/2013/2605/article/12/4) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(1)(b)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/1/b)

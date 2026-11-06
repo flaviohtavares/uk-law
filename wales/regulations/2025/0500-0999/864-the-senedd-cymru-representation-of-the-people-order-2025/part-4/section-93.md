@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Attendance of shorthand writer[^key-5c86b682bbab8e893008d4088775b393]
+## 93. Attendance of shorthand writer[^c-5c86b682bbab8e893008d4088775b393]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c86b682bbab8e893008d4088775b393]: Commencement: Art. 93 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-5c86b682bbab8e893008d4088775b393]: Commencement: Art. 93 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -30,11 +30,11 @@ Regulation (EU) 2016/679 of the European Parliament and of the Council
 
 of 27 April 2016
 
-on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (United Kingdom General Data Protection Regulation)[^key-ff3e6a8be3b9f496df86c722817813b8]
+on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (United Kingdom General Data Protection Regulation)[^c-ff3e6a8be3b9f496df86c722817813b8]
 
 (Text with EEA relevance)
 
-[^key-1ca81683431c69c9b54456f67d233961][^key-5d9631092c5d0f00d00a905cc0ad889b][^key-7421b162c01b6adaa7d103250465c840][^key-da7644a706f094eeaec69da91399219d][^key-864fa296053db84a279fcafa7c55fca0]
+[^c-1ca81683431c69c9b54456f67d233961][^c-5d9631092c5d0f00d00a905cc0ad889b][^c-7421b162c01b6adaa7d103250465c840][^c-da7644a706f094eeaec69da91399219d][^c-864fa296053db84a279fcafa7c55fca0]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -810,14 +810,14 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 19 — Notification obligation regarding rectification or erasure of personal data or restriction of processing](section-article-19.md)
 - [Section Article 20 — Right to data portability](section-article-20.md)
 
-#### Section 4 — Right to object ...[^key-5a17f7a158beb662aa933ab5a84c381a]
+#### Section 4 — Right to object ...[^c-5a17f7a158beb662aa933ab5a84c381a]
 
 *Extent: E+W+S+N.I.*
 
 - [Section Article 21 — Right to object](section-article-21.md)
 - [Section Article 22 — Automated individual decision-making, including profiling](section-article-22.md)
 
-#### Section 4A — Automated individual decision-making[^key-042d2369856e547e1cdae35bc6d46865]
+#### Section 4A — Automated individual decision-making[^c-042d2369856e547e1cdae35bc6d46865]
 
 - [Section Article 22A — Automated processing and significant decisions](section-article-22a.md)
 - [Section Article 22B — Restrictions on automated decision-making](section-article-22b.md)
@@ -897,7 +897,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 49A — Restriction in the public interest](section-article-49a.md)
 - [Section Article 50 — International cooperation for the protection of personal data](section-article-50.md)
 
-### CHAPTER VI — The Commission[^key-9bff1b0153aefe719b2b29895e4b5989][^key-c74d30718f73358590a232be065500f3]
+### CHAPTER VI — The Commission[^c-9bff1b0153aefe719b2b29895e4b5989][^c-c74d30718f73358590a232be065500f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -910,7 +910,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 53 — General conditions for the members of the supervisory authority](section-article-53.md)
 - [Section Article 54 — Rules on the establishment of the supervisory authority](section-article-54.md)
 
-#### Section 2 — Tasks and powers[^key-c8e69d30a58228c975dd9bfcfa12a50b]
+#### Section 2 — Tasks and powers[^c-c8e69d30a58228c975dd9bfcfa12a50b]
 
 *Extent: E+W+S+N.I.*
 
@@ -920,11 +920,11 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 58 — Powers](section-article-58.md)
 - [Section Article 59 — Activity reports](section-article-59.md)
 
-### CHAPTER VII — Cooperation and consistency[^key-78fe63f716c674873c1c882bbc64c7a6]
+### CHAPTER VII — Cooperation and consistency[^c-78fe63f716c674873c1c882bbc64c7a6]
 
 *Extent: E+W+S+N.I.*
 
-#### Section 1 — Cooperation[^key-78fe63f716c674873c1c882bbc64c7a6]
+#### Section 1 — Cooperation[^c-78fe63f716c674873c1c882bbc64c7a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -934,7 +934,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 61 — Mutual assistance](section-article-61.md)
 - [Section Article 62 — Joint operations of supervisory authorities](section-article-62.md)
 
-#### Section 2 — Consistency[^key-78fe63f716c674873c1c882bbc64c7a6]
+#### Section 2 — Consistency[^c-78fe63f716c674873c1c882bbc64c7a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -946,7 +946,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 66 — Urgency procedure](section-article-66.md)
 - [Section Article 67 — Exchange of information](section-article-67.md)
 
-#### Section 3 — European data protection board[^key-78fe63f716c674873c1c882bbc64c7a6]
+#### Section 3 — European data protection board[^c-78fe63f716c674873c1c882bbc64c7a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -975,14 +975,14 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 83 — General conditions for imposing administrative fines](section-article-83.md)
 - [Section Article 84 — Penalties](section-article-84.md)
 
-### CHAPTER 8A — Safeguards for processing for research, archiving or statistical purposes[^key-ab500d25bf654fd19df376919db057c4]
+### CHAPTER 8A — Safeguards for processing for research, archiving or statistical purposes[^c-ab500d25bf654fd19df376919db057c4]
 
 - [Section Article 84A — Research, archives and statistics](section-article-84a.md)
 - [Section Article 84B — Additional requirements when processing for RAS purposes](section-article-84b.md)
 - [Section Article 84C — Appropriate safeguards](section-article-84c.md)
 - [Section Article 84D — Appropriate safeguards: further provision](section-article-84d.md)
 
-### CHAPTER IX — Provisions relating to other specific processing situations[^key-6c741682492231da7f5b6cb9b2111847]
+### CHAPTER IX — Provisions relating to other specific processing situations[^c-6c741682492231da7f5b6cb9b2111847]
 
 *Extent: E+W+S+N.I.*
 
@@ -995,11 +995,11 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 90 — Obligations of secrecy](section-article-90.md)
 - [Section Article 91 — Existing data protection rules of churches and religious associations](section-article-91.md)
 
-### CHAPTER 9A — Regulations[^key-f863f1ba94a75542379600922eaae95f]
+### CHAPTER 9A — Regulations[^c-f863f1ba94a75542379600922eaae95f]
 
 - [Section Article 91A — Regulations made by Secretary of State](section-article-91a.md)
 
-### CHAPTER X — Delegated acts and implementing acts[^key-bb1801cdf9c2d978c07fbd7f18cf01bb]
+### CHAPTER X — Delegated acts and implementing acts[^c-bb1801cdf9c2d978c07fbd7f18cf01bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -1022,7 +1022,7 @@ HAVE ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-[^key-7c015905a38641abdc385585feeecf77]...
+[^c-7c015905a38641abdc385585feeecf77]...
 
 Done at Brussels, 27 April 2016.
 
@@ -1040,17 +1040,17 @@ J.A. Hennis-Plasschaert
 
 ## Annotations
 
-[^key-ff3e6a8be3b9f496df86c722817813b8]: Textual amendment: Regulation title amended (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff3e6a8be3b9f496df86c722817813b8]: Textual amendment: Regulation title amended (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1ca81683431c69c9b54456f67d233961]: Modification: Regulation applied (31.12.2020) by [S.I. 2020/916](https://www.legislation.gov.uk/uksi/2020/916), [art. 4(3)](https://www.legislation.gov.uk/uksi/2020/916/article/4/3) (as amended by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2020/916/article/8/a/ii))
+[^c-1ca81683431c69c9b54456f67d233961]: Modification: Regulation applied (31.12.2020) by [S.I. 2020/916](https://www.legislation.gov.uk/uksi/2020/916), [art. 4(3)](https://www.legislation.gov.uk/uksi/2020/916/article/4/3) (as amended by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2020/916/article/8/a/ii))
 
-[^key-5d9631092c5d0f00d00a905cc0ad889b]: Modification: Regulation applied (31.12.2020) by Regulation (EU) No. 625/2017, Art. 143 (as substituted by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46)))
+[^c-5d9631092c5d0f00d00a905cc0ad889b]: Modification: Regulation applied (31.12.2020) by Regulation (EU) No. 625/2017, Art. 143 (as substituted by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46)))
 
-[^key-7421b162c01b6adaa7d103250465c840]: Modification: Regulation excluded (31.12.2020) by [S.I. 2020/916](https://www.legislation.gov.uk/uksi/2020/916), [art. 4(4)](https://www.legislation.gov.uk/uksi/2020/916/article/4/4) (as amended by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2020/916/article/8/b/ii))
+[^c-7421b162c01b6adaa7d103250465c840]: Modification: Regulation excluded (31.12.2020) by [S.I. 2020/916](https://www.legislation.gov.uk/uksi/2020/916), [art. 4(4)](https://www.legislation.gov.uk/uksi/2020/916/article/4/4) (as amended by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2020/916/article/8/b/ii))
 
-[^key-da7644a706f094eeaec69da91399219d]: Modification: Regulation modified (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 25](https://www.legislation.gov.uk/ukpga/2022/5/section/25), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-da7644a706f094eeaec69da91399219d]: Modification: Regulation modified (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 25](https://www.legislation.gov.uk/ukpga/2022/5/section/25), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-864fa296053db84a279fcafa7c55fca0]: Modification: Regulation applied in part (N.I.) (9.12.2022) by Regulation (EU) No. 1024/2012, Art. 5 (as substituted by [The Internal Market Information System Regulation (Amendment etc.) Regulations 2022 (S.I. 2022/1306)](https://www.legislation.gov.uk/uksi/2022/1306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/3/4/a))
+[^c-864fa296053db84a279fcafa7c55fca0]: Modification: Regulation applied in part (N.I.) (9.12.2022) by Regulation (EU) No. 1024/2012, Art. 5 (as substituted by [The Internal Market Information System Regulation (Amendment etc.) Regulations 2022 (S.I. 2022/1306)](https://www.legislation.gov.uk/uksi/2022/1306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/3/4/a))
 
 [^f00001]: Footnote: [OJ C 229, 31.7.2012, p. 90](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2012.229.01.0090.01.ENG).
 
@@ -1090,24 +1090,24 @@ J.A. Hennis-Plasschaert
 
 [^f00018]: Footnote: Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) ([OJ L 201, 31.7.2002, p. 37](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.201.01.0037.01.ENG)).
 
-[^key-5a17f7a158beb662aa933ab5a84c381a]: Textual amendment: Words in [Ch. 3 Section 4](https://www.legislation.gov.uk/eur/2016/679/chapter/3/section/4) heading omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2025/18/schedule/6/paragraph/6); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z8)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z8) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))
+[^c-5a17f7a158beb662aa933ab5a84c381a]: Textual amendment: Words in [Ch. 3 Section 4](https://www.legislation.gov.uk/eur/2016/679/chapter/3/section/4) heading omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2025/18/schedule/6/paragraph/6); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z8)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z8) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))
 
-[^key-042d2369856e547e1cdae35bc6d46865]: Textual amendment: [Ch. 3 Section 4A](https://www.legislation.gov.uk/eur/2016/679/chapter/3/section/4A) substituted for Art. 22 (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 80(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/80/1), [142(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))
+[^c-042d2369856e547e1cdae35bc6d46865]: Textual amendment: [Ch. 3 Section 4A](https://www.legislation.gov.uk/eur/2016/679/chapter/3/section/4A) substituted for Art. 22 (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 80(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/80/1), [142(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))
 
-[^key-9bff1b0153aefe719b2b29895e4b5989]: Textual amendment: [Ch. 6](https://www.legislation.gov.uk/eur/2016/679/chapter/6) heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/44) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9bff1b0153aefe719b2b29895e4b5989]: Textual amendment: [Ch. 6](https://www.legislation.gov.uk/eur/2016/679/chapter/6) heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/44) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c74d30718f73358590a232be065500f3]: Textual amendment: Word in [Ch. 6](https://www.legislation.gov.uk/eur/2016/679/chapter/6) heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 41(3)(4)(x)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/41/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-c74d30718f73358590a232be065500f3]: Textual amendment: Word in [Ch. 6](https://www.legislation.gov.uk/eur/2016/679/chapter/6) heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 41(3)(4)(x)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/41/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-c8e69d30a58228c975dd9bfcfa12a50b]: Textual amendment: Word in Ch. 6 section 2 heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/49) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8e69d30a58228c975dd9bfcfa12a50b]: Textual amendment: Word in Ch. 6 section 2 heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/49) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-78fe63f716c674873c1c882bbc64c7a6]: Textual amendment: Ch. 7 omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/55) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-78fe63f716c674873c1c882bbc64c7a6]: Textual amendment: Ch. 7 omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/55) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab500d25bf654fd19df376919db057c4]: Textual amendment: [Ch. 8A](https://www.legislation.gov.uk/eur/2016/679/chapter/8A) inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-ab500d25bf654fd19df376919db057c4]: Textual amendment: [Ch. 8A](https://www.legislation.gov.uk/eur/2016/679/chapter/8A) inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
 
-[^key-6c741682492231da7f5b6cb9b2111847]: Textual amendment: Word in [Ch. 9](https://www.legislation.gov.uk/eur/2016/679/chapter/IX) heading inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-6c741682492231da7f5b6cb9b2111847]: Textual amendment: Word in [Ch. 9](https://www.legislation.gov.uk/eur/2016/679/chapter/IX) heading inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
 
-[^key-f863f1ba94a75542379600922eaae95f]: Textual amendment: Ch. 9A inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 107(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/107/1), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/l)
+[^c-f863f1ba94a75542379600922eaae95f]: Textual amendment: Ch. 9A inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 107(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/107/1), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/l)
 
-[^key-bb1801cdf9c2d978c07fbd7f18cf01bb]: Textual amendment: Ch. 10 omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/72) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb1801cdf9c2d978c07fbd7f18cf01bb]: Textual amendment: Ch. 10 omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/72) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7c015905a38641abdc385585feeecf77]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/679/signature) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/79) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c015905a38641abdc385585feeecf77]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/679/signature) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/79) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

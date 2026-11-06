@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-21453ba41278541c3be5c29520e0cdaa] After section 113 of the Pensions (No. 2) Act (Northern Ireland) 2008 insert—
+(1)[^c-21453ba41278541c3be5c29520e0cdaa] After section 113 of the Pensions (No. 2) Act (Northern Ireland) 2008 insert—
 
 > **113A. Service of documents and electronic working**
 >
@@ -32,10 +32,10 @@ summary: ''
 
 .
 
-(2)[^key-ece0abdffe3dd6cd48da20185db46273] In section 59 of that Act (requirement to keep records) in subsection (1)(c) for “, on request, to the Regulator” substitute “ to the Regulator on receiving a notification requesting them ”.
+(2)[^c-ece0abdffe3dd6cd48da20185db46273] In section 59 of that Act (requirement to keep records) in subsection (1)(c) for “, on request, to the Regulator” substitute “ to the Regulator on receiving a notification requesting them ”.
 
 ## Annotations
 
-[^key-21453ba41278541c3be5c29520e0cdaa]: Commencement: [S. 33(1)](https://www.legislation.gov.uk/nia/2012/3/section/33/1) in operation at 30.6.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/f)
+[^c-21453ba41278541c3be5c29520e0cdaa]: Commencement: [S. 33(1)](https://www.legislation.gov.uk/nia/2012/3/section/33/1) in operation at 30.6.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/f)
 
-[^key-ece0abdffe3dd6cd48da20185db46273]: Commencement: [S. 33(2)](https://www.legislation.gov.uk/nia/2012/3/section/33/2) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(i)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/i)
+[^c-ece0abdffe3dd6cd48da20185db46273]: Commencement: [S. 33(2)](https://www.legislation.gov.uk/nia/2012/3/section/33/2) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(i)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/i)

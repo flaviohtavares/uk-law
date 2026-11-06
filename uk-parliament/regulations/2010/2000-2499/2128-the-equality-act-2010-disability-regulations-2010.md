@@ -70,13 +70,13 @@ In these Regulations —
 
 ## PART 2 — Determination of Disability
 
-### 3. Addictions[^key-6f40a1cdc2b5fb094e6f3e03d7bc757c][^key-ca80c42facba32ec0a3a0b7dda57aa7e][^key-a11cc0df152033f180f28aa4a8f56db5]
+### 3. Addictions[^c-6f40a1cdc2b5fb094e6f3e03d7bc757c][^c-ca80c42facba32ec0a3a0b7dda57aa7e][^c-a11cc0df152033f180f28aa4a8f56db5]
 
 (1) Subject to paragraph (2) below, addiction to alcohol, nicotine or any other substance is to be treated as not amounting to an impairment for the purposes of the Act.
 
 (2) Paragraph (1) above does not apply to addiction which was originally the result of administration of medically prescribed drugs or other medical treatment.
 
-### 4. Other conditions not to be treated as impairments[^key-6f40a1cdc2b5fb094e6f3e03d7bc757c][^key-ca80c42facba32ec0a3a0b7dda57aa7e][^key-a11cc0df152033f180f28aa4a8f56db5]
+### 4. Other conditions not to be treated as impairments[^c-6f40a1cdc2b5fb094e6f3e03d7bc757c][^c-ca80c42facba32ec0a3a0b7dda57aa7e][^c-a11cc0df152033f180f28aa4a8f56db5]
 
 (1) For the purposes of the Act the following conditions are to be treated as not amounting to impairments:—
 
@@ -90,7 +90,7 @@ In these Regulations —
 
 (3) Paragraph (2) above shall not prevent that condition from being taken into account for the purposes of the Act where it aggravates the effect of any other condition.
 
-### 5. Tattoos and piercings[^key-6f40a1cdc2b5fb094e6f3e03d7bc757c][^key-ca80c42facba32ec0a3a0b7dda57aa7e][^key-a11cc0df152033f180f28aa4a8f56db5]
+### 5. Tattoos and piercings[^c-6f40a1cdc2b5fb094e6f3e03d7bc757c][^c-ca80c42facba32ec0a3a0b7dda57aa7e][^c-a11cc0df152033f180f28aa4a8f56db5]
 
 For the purposes of paragraph 3 of Schedule 1 to the Act, a severe disfigurement is not to be treated as having a substantial adverse effect on the ability of the person concerned to carry out normal day-to-day activities if it consists of—
 
@@ -370,11 +370,11 @@ The Schedule refers to “Approved Document M” (in the case of England and Wal
 
 [^c20419641]: Marginal citation: [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1).
 
-[^key-6f40a1cdc2b5fb094e6f3e03d7bc757c]: Modification: Regs. 3-5 applied (temp.) (E.) (5.11.2020) by [The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020 (S.I. 2020/1200)](https://www.legislation.gov.uk/uksi/2020/1200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1200/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1200/regulation/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2020/1200/regulation/23))
+[^c-6f40a1cdc2b5fb094e6f3e03d7bc757c]: Modification: Regs. 3-5 applied (temp.) (E.) (5.11.2020) by [The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020 (S.I. 2020/1200)](https://www.legislation.gov.uk/uksi/2020/1200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1200/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1200/regulation/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2020/1200/regulation/23))
 
-[^key-ca80c42facba32ec0a3a0b7dda57aa7e]: Modification: Regs. 3-5 applied (temp.) (E.) (2.12.2020) by [The Health Protection (Coronavirus, Restrictions) (All Tiers) (England) Regulations 2020 (S.I. 2020/1374)](https://www.legislation.gov.uk/uksi/2020/1374), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1374/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/1374/regulation/2/7) (with [reg. 15](https://www.legislation.gov.uk/uksi/2020/1374/regulation/15))
+[^c-ca80c42facba32ec0a3a0b7dda57aa7e]: Modification: Regs. 3-5 applied (temp.) (E.) (2.12.2020) by [The Health Protection (Coronavirus, Restrictions) (All Tiers) (England) Regulations 2020 (S.I. 2020/1374)](https://www.legislation.gov.uk/uksi/2020/1374), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1374/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/1374/regulation/2/7) (with [reg. 15](https://www.legislation.gov.uk/uksi/2020/1374/regulation/15))
 
-[^key-a11cc0df152033f180f28aa4a8f56db5]: Modification: Regs. 3-5 applied (temp.) (E.) (29.3.2021) by [The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (S.I. 2021/364)](https://www.legislation.gov.uk/uksi/2021/364), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/364/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2021/364/regulation/2/6) (with [reg. 21](https://www.legislation.gov.uk/uksi/2021/364/regulation/21) (as amended (20.6.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps and Other Provisions) (England) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/705)](https://www.legislation.gov.uk/uksi/2021/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/705/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/705/regulation/2/3) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/705/regulation/1/4)))
+[^c-a11cc0df152033f180f28aa4a8f56db5]: Modification: Regs. 3-5 applied (temp.) (E.) (29.3.2021) by [The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (S.I. 2021/364)](https://www.legislation.gov.uk/uksi/2021/364), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/364/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2021/364/regulation/2/6) (with [reg. 21](https://www.legislation.gov.uk/uksi/2021/364/regulation/21) (as amended (20.6.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps and Other Provisions) (England) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/705)](https://www.legislation.gov.uk/uksi/2021/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/705/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/705/regulation/2/3) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/705/regulation/1/4)))
 
 [^c20419651]: Marginal citation: [S.I. 1996/1455](https://www.legislation.gov.uk/uksi/1996/1455).
 

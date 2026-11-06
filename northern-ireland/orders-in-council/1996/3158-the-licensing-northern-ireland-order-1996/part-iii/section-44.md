@@ -27,7 +27,7 @@ summary: ''
 
 may make an order under this paragraph.
 
-(2) An order under paragraph (1) may direct that, on such days as may be specified in the order, the hours on any day from 11 in the evening to 1 in the morning of the day next following shall[^key-c83b1683934230e4a1b9e05abb991ad5], in addition to the hours mentioned in Article 42(1), be included in the permitted hours for any such part or parts of the premises specified in the order for the purposes of the sale, before the provision of—
+(2) An order under paragraph (1) may direct that, on such days as may be specified in the order, the hours on any day from 11 in the evening to 1 in the morning of the day next following shall[^c-c83b1683934230e4a1b9e05abb991ad5], in addition to the hours mentioned in Article 42(1), be included in the permitted hours for any such part or parts of the premises specified in the order for the purposes of the sale, before the provision of—
 
 - (i) musical or other entertainment; or
 - (ii) substantial refreshment; or
@@ -56,7 +56,7 @@ the court may—
 
 (6) Nothing in this Article shall permit an order under paragraph (1) to authorise the sale of intoxicating liquor—
 
-- (a) on Christmas Day, [^key-1ffc1f17574d024a2600e691350197a1]... or
+- (a) on Christmas Day, [^c-1ffc1f17574d024a2600e691350197a1]... or
 - (b) to a person admitted to the premises—
   - (i) less than 30 minutes before the end of the hours mentioned in paragraph (2), or
   - (ii) where the provision of entertainment or substantial refreshment or both entertainment and substantial refreshment is due to cease before the end of those hours, less than 30 minutes before that cessation.
@@ -78,10 +78,10 @@ the court may—
 
 ## Annotations
 
-[^key-c83b1683934230e4a1b9e05abb991ad5]: Textual amendment: Words in art. 44(2) substituted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 2(4)](https://www.legislation.gov.uk/nia/2021/7/section/2/4), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-c83b1683934230e4a1b9e05abb991ad5]: Textual amendment: Words in art. 44(2) substituted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 2(4)](https://www.legislation.gov.uk/nia/2021/7/section/2/4), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
 
 [^m00041]: Marginal citation: 1981 NI 26.
 
-[^key-1ffc1f17574d024a2600e691350197a1]: Textual amendment: Words in art. 44(6)(a) repealed (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 1(5)](https://www.legislation.gov.uk/nia/2021/7/section/1/5), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-1ffc1f17574d024a2600e691350197a1]: Textual amendment: Words in art. 44(6)(a) repealed (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 1(5)](https://www.legislation.gov.uk/nia/2021/7/section/1/5), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
 
 [^c17145831]: Textual amendment: [2004 NI 17](https://www.legislation.gov.uk/nisi/2004)

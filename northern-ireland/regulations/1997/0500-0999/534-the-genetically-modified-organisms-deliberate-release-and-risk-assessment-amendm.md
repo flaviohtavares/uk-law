@@ -42,17 +42,17 @@ Coming into operation
 
 The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002], in relation to measures relating to the control and regulation of genetically modified organisms, in exercise of the powers conferred by that section and by Articles 5(7), 8(1), (4) and (7) of the Genetically Modified Organisms (Northern Ireland) Order 1991[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-fd6f6a298dcbe9e67708c8512eb7836c]
+## 1. Citation, commencement and interpretation[^c-fd6f6a298dcbe9e67708c8512eb7836c]
 
 (1) These Regulations may be cited as the Genetically Modified Organisms (Deliberate Release and Risk Assessment) (Amendment) Regulations (Northern Ireland) 1997 and shall come into operation on 30th January 1998.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 1994[^key-33d3d6dd50364453b02013d11962da3a]
+## 2. Amendment of the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 1994[^c-33d3d6dd50364453b02013d11962da3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Genetically Modified Organisms (Risk Assessment) (Records and Exemptions) Regulations (Northern Ireland) 1996[^key-31aeb78c5867e9eee2b89026d1ea307b]
+## 3. Amendment of the Genetically Modified Organisms (Risk Assessment) (Records and Exemptions) Regulations (Northern Ireland) 1996[^c-31aeb78c5867e9eee2b89026d1ea307b]
 
 In the Genetically Modified Organisms (Risk Assessment) (Records and Exemptions) Regulations (Northern Ireland) 1996[^f00007] in paragraph (2) of regulation 4 (exemptions from requirement to carry out risk assessments) there shall be added at the end the following sub-paragraph—
 
@@ -70,7 +70,7 @@ Assistant Secretary
 
 11th December 1997.
 
-## SCHEDULE[^key-a61276b51edac8e4c90d28051b5d6667]
+## SCHEDULE[^c-a61276b51edac8e4c90d28051b5d6667]
 
 Regulation 2(3)
 
@@ -124,14 +124,14 @@ Copies of the Directive and Regulation and extracts from the Official Journal of
 
 [^f00003]: Footnote: S.I. [1991/1714 (N.I. 19)](https://www.legislation.gov.uk/nisi/1991/1714). *See* Article 2(2) for the definition of “the Department”; *see* Articles 5(10) and 8(11) for the definition of “prescribed” in those Articles
 
-[^key-fd6f6a298dcbe9e67708c8512eb7836c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/534/regulation/1) in operation at 30.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/534/regulation/1/1)
+[^c-fd6f6a298dcbe9e67708c8512eb7836c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/534/regulation/1) in operation at 30.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/534/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-33d3d6dd50364453b02013d11962da3a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/534/regulation/2) revoked (15.4.2003) by [The Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003 (S.R. 2003/167)](https://www.legislation.gov.uk/nisr/2003/167), [regs. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1), [38](https://www.legislation.gov.uk/nisr/2003/167/regulation/38), [Sch. 5](https://www.legislation.gov.uk/nisr/2003/167/schedule/5)
+[^c-33d3d6dd50364453b02013d11962da3a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/534/regulation/2) revoked (15.4.2003) by [The Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003 (S.R. 2003/167)](https://www.legislation.gov.uk/nisr/2003/167), [regs. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1), [38](https://www.legislation.gov.uk/nisr/2003/167/regulation/38), [Sch. 5](https://www.legislation.gov.uk/nisr/2003/167/schedule/5)
 
-[^key-31aeb78c5867e9eee2b89026d1ea307b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/534/regulation/3) in operation at 30.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/534/regulation/1/1)
+[^c-31aeb78c5867e9eee2b89026d1ea307b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/534/regulation/3) in operation at 30.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/534/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1996 No. 442](https://www.legislation.gov.uk/nisr/1996/442)
 
-[^key-a61276b51edac8e4c90d28051b5d6667]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1997/534/schedule) in operation at 30.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/534/regulation/1/1)
+[^c-a61276b51edac8e4c90d28051b5d6667]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1997/534/schedule) in operation at 30.1.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/534/regulation/1/1)

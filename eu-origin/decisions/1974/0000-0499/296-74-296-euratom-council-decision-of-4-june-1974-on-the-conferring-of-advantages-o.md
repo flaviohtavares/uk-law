@@ -32,10 +32,10 @@ summary: ''
 
 of 4 June 1974 on the conferring of advantages on the Hochtemperatur- Kernkraftwerk GmbH (HKG) Joint Undertaking (revoked)
 
-[^key-fe1dcd9b841a6cd478e04a8083ebbf35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe1dcd9b841a6cd478e04a8083ebbf35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-fe1dcd9b841a6cd478e04a8083ebbf35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-fe1dcd9b841a6cd478e04a8083ebbf35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe1dcd9b841a6cd478e04a8083ebbf35]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-fe1dcd9b841a6cd478e04a8083ebbf35]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

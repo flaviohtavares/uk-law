@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Establishment of police authorities.[^key-c6db4fe259f5723f89affd8c9da06a21]
+## 3. Establishment of police authorities.[^c-c6db4fe259f5723f89affd8c9da06a21]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6db4fe259f5723f89affd8c9da06a21]: Textual amendment: Ss. 3-5 omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 5(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/5/a); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-c6db4fe259f5723f89affd8c9da06a21]: Textual amendment: Ss. 3-5 omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 5(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/5/a); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)

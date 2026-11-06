@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Whether court order required for enforcement[^key-d1166c5b926d9ed614440610a10320b9][^key-e9a4144bacd1c7d09a85901fb8c58a8c][^key-7b42558dc607329ea231e134b27c67bb]
+## 66. Whether court order required for enforcement[^c-d1166c5b926d9ed614440610a10320b9][^c-e9a4144bacd1c7d09a85901fb8c58a8c][^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
-[^key-7b42558dc607329ea231e134b27c67bb]
+[^c-7b42558dc607329ea231e134b27c67bb]
 
 (1) A court order is required for enforcing a pledge only—
 
 - (a) as mentioned in subsections (2) and (3),
 - (b) where taking possession of, or steps in relation to, encumbered property in accordance with section 67(3) or (4).
 
-(1A)[^key-a8f4d61009b68eb47ab3f7550ba949fb] But see also article 14 (whether court order required for enforcement) of the Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 ([S.I. 2025/275 (S. 1)](https://www.legislation.gov.uk/uksi/2025/275)).
+(1A)[^c-a8f4d61009b68eb47ab3f7550ba949fb] But see also article 14 (whether court order required for enforcement) of the Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 ([S.I. 2025/275 (S. 1)](https://www.legislation.gov.uk/uksi/2025/275)).
 
 (2) In a case where the provider of a pledge is an individual, a court order is required for enforcing the pledge if the provider is a sole trader and enforcement is against property used wholly or mainly for the purposes of the provider’s business.
 
@@ -49,10 +49,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d1166c5b926d9ed614440610a10320b9]: Commencement: S. 66 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-d1166c5b926d9ed614440610a10320b9]: Commencement: S. 66 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-e9a4144bacd1c7d09a85901fb8c58a8c]: Commencement: S. 66 in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-e9a4144bacd1c7d09a85901fb8c58a8c]: Commencement: S. 66 in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
+[^c-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
 
-[^key-a8f4d61009b68eb47ab3f7550ba949fb]: Textual amendment: S. 66(1A) inserted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [22(11)](https://www.legislation.gov.uk/uksi/2025/275/article/22/11) (with [art. 20](https://www.legislation.gov.uk/uksi/2025/275/article/20))
+[^c-a8f4d61009b68eb47ab3f7550ba949fb]: Textual amendment: S. 66(1A) inserted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [22(11)](https://www.legislation.gov.uk/uksi/2025/275/article/22/11) (with [art. 20](https://www.legislation.gov.uk/uksi/2025/275/article/20))

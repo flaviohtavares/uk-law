@@ -44,11 +44,11 @@ In accordance with section 16B(4) of that Act they have consulted with such pers
 
 In accordance with section 59(3)(ad) [^c23990441] of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-c283300c133b189e12572d24e3c30e8f]
+## 1. Citation and commencement[^c-c283300c133b189e12572d24e3c30e8f]
 
 These Regulations may be cited as the Human Tissue (Authorisation) (Specified Type A Procedures) (Scotland) Regulations 2020 and come into force on the day on which section 23 of the Human Tissue (Authorisation) (Scotland) Act 2019 [^c23990451] comes into force for all purposes.
 
-## 2. Type A procedures[^key-96eae64ff66c040c8839a882c36f6000]
+## 2. Type A procedures[^c-96eae64ff66c040c8839a882c36f6000]
 
 The pre-death procedures specified in the second column of the table in the schedule are specified as Type A procedures for the purposes of sections 16D to 16F of the Human Tissue (Scotland) Act 2006 [^c23990461].
 
@@ -64,7 +64,7 @@ Edinburgh
 
 Regulation 2
 
-**1.**[^key-eead11b3836ab7f9a1c8f4c7895020f9] In this schedule—
+**1.**[^c-eead11b3836ab7f9a1c8f4c7895020f9] In this schedule—
 
 - “**arterial line**” means a cannula inserted into an artery,
 - “**blood component**” means any of the following constituents of human blood—
@@ -116,12 +116,12 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23990441]: Marginal citation: [Section 59(3)(ad)](https://www.legislation.gov.uk/ssi/2020/80/section/59/3/ad) was inserted by 23(2) of the 2019 Act.
 
-[^key-c283300c133b189e12572d24e3c30e8f]: Commencement: Reg. 1 in force at 26.3.2021, see reg. 1; [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-c283300c133b189e12572d24e3c30e8f]: Commencement: Reg. 1 in force at 26.3.2021, see reg. 1; [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
 [^c23990451]: Marginal citation: [2019 asp 11](https://www.legislation.gov.uk/asp/2019/11).
 
-[^key-96eae64ff66c040c8839a882c36f6000]: Commencement: Reg. 2 in force at 26.3.2021, see reg. 1; [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-96eae64ff66c040c8839a882c36f6000]: Commencement: Reg. 2 in force at 26.3.2021, see reg. 1; [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
 [^c23990461]: Marginal citation: Sections 16D to 16F were inserted by section 23(1) of the 2019 Act.
 
-[^key-eead11b3836ab7f9a1c8f4c7895020f9]: Commencement: Sch. para. 1 in force at 26.3.2021, see reg. 1; [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-eead11b3836ab7f9a1c8f4c7895020f9]: Commencement: Sch. para. 1 in force at 26.3.2021, see reg. 1; [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

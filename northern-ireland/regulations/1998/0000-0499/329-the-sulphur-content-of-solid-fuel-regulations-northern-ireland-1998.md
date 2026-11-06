@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the control of air pollution, in exercise of the powers conferred on it by that section, and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-1088b113b5fc395b1f2fa1dbc8a8a8a0]
+## 1. Citation and commencement[^c-1088b113b5fc395b1f2fa1dbc8a8a8a0]
 
 These Regulations may be cited as the Sulphur Content of Solid Fuel Regulations (Northern Ireland) 1998, and shall come into operation on 15th October 1998.
 
-## 2. Interpretation[^key-a9d29b92f823123534d9c49aba93fe37]
+## 2. Interpretation[^c-a9d29b92f823123534d9c49aba93fe37]
 
 (1) In these Regulations—
 
@@ -60,9 +60,9 @@ These Regulations may be cited as the Sulphur Content of Solid Fuel Regulations 
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 3. Sulphur content of solid fuel[^key-3be6654028ecea273dc91f9c44d9ac97]
+## 3. Sulphur content of solid fuel[^c-3be6654028ecea273dc91f9c44d9ac97]
 
-(1)[^key-0b5d2cd412628d52850a8afa87d2e652] Subject to paragraph (2), a person shall not sell by retail or deliver in the course of retail sale any solid fuel having a total sulphur content greater than 2 per cent. Determined on a dry basis in accordance with British Standard BS 1016-106.4.2 Methods for analysis and testing of coal and coke. Ultimate analysis of coal and coke. Determination of total sulfur content. High temperature combustion method .
+(1)[^c-0b5d2cd412628d52850a8afa87d2e652] Subject to paragraph (2), a person shall not sell by retail or deliver in the course of retail sale any solid fuel having a total sulphur content greater than 2 per cent. Determined on a dry basis in accordance with British Standard BS 1016-106.4.2 Methods for analysis and testing of coal and coke. Ultimate analysis of coal and coke. Determination of total sulfur content. High temperature combustion method .
 
 (2) Paragraph (1) shall not prohibit—
 
@@ -71,15 +71,15 @@ These Regulations may be cited as the Sulphur Content of Solid Fuel Regulations 
   - (i) its use in the manufacture of solid fuel; or
   - (ii) its export from Northern Ireland.
 
-## 4. Exemption[^key-25d7e455af5a4bb602535a2c9776457e]
+## 4. Exemption[^c-25d7e455af5a4bb602535a2c9776457e]
 
 Regulation 3 shall not apply to the sale or delivery of solid fuel held on trade premises on the date of commencement of these Regulations.
 
-## 5. Enforcement[^key-e4635a3576c1070ab72d9538a8e42ba0]
+## 5. Enforcement[^c-e4635a3576c1070ab72d9538a8e42ba0]
 
 These Regulations shall be enforced and executed by each district council within its district.
 
-## 6. Powers of entry[^key-8082c002b7d9bb6a5fe8a71603ef25cf]
+## 6. Powers of entry[^c-8082c002b7d9bb6a5fe8a71603ef25cf]
 
 (1) An authorised officer may, for the purpose of determining whether an offence has been committed under these Regulations, at any reasonable time and on production, if so required, of his authority—
 
@@ -96,7 +96,7 @@ These Regulations shall be enforced and executed by each district council within
 - (a) seize and detain any records which he has reason to believe may be required as evidence in proceedings under any of the provisions of these Regulations; and
 - (b) where such records are kept by means of a computer, require them to be produced in a form in which they may be taken away.
 
-## 7. Obstruction[^key-763aae9021db44701ad86f6b62a6725a]
+## 7. Obstruction[^c-763aae9021db44701ad86f6b62a6725a]
 
 (1) A person shall not—
 
@@ -106,7 +106,7 @@ These Regulations shall be enforced and executed by each district council within
 
 (2) Nothing in paragraph (1)(*b*) shall be construed as requiring a person to answer any question or give any information if to do so might incriminate him.
 
-## 8. Offences and penalties[^key-f082d12bb36a96b499b9064e86b13cbd]
+## 8. Offences and penalties[^c-f082d12bb36a96b499b9064e86b13cbd]
 
 (1) Any person who contravenes—
 
@@ -149,24 +149,24 @@ Copies of the Directive may be obtained from the Stationery Office, 16 Arthur St
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-1088b113b5fc395b1f2fa1dbc8a8a8a0]: Commencement: Reg. 1 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+[^c-1088b113b5fc395b1f2fa1dbc8a8a8a0]: Commencement: Reg. 1 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
 
-[^key-a9d29b92f823123534d9c49aba93fe37]: Commencement: Reg. 2 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+[^c-a9d29b92f823123534d9c49aba93fe37]: Commencement: Reg. 2 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
 
 [^f00003]: Footnote: S.I. [1981/158 (N.I. 4)](https://www.legislation.gov.uk/nisi/1981/158)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3be6654028ecea273dc91f9c44d9ac97]: Commencement: Reg. 3 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+[^c-3be6654028ecea273dc91f9c44d9ac97]: Commencement: Reg. 3 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
 
-[^key-0b5d2cd412628d52850a8afa87d2e652]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/1998/329/regulation/3/1) substituted (18.11.2022) by [The Sulphur Content of Solid Fuel (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/275)](https://www.legislation.gov.uk/nisr/2022/275), [regs. 1](https://www.legislation.gov.uk/nisr/2022/275/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/275/regulation/2/2)
+[^c-0b5d2cd412628d52850a8afa87d2e652]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/1998/329/regulation/3/1) substituted (18.11.2022) by [The Sulphur Content of Solid Fuel (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/275)](https://www.legislation.gov.uk/nisr/2022/275), [regs. 1](https://www.legislation.gov.uk/nisr/2022/275/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/275/regulation/2/2)
 
-[^key-25d7e455af5a4bb602535a2c9776457e]: Commencement: Reg. 4 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+[^c-25d7e455af5a4bb602535a2c9776457e]: Commencement: Reg. 4 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
 
-[^key-e4635a3576c1070ab72d9538a8e42ba0]: Commencement: Reg. 5 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+[^c-e4635a3576c1070ab72d9538a8e42ba0]: Commencement: Reg. 5 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
 
-[^key-8082c002b7d9bb6a5fe8a71603ef25cf]: Commencement: Reg. 6 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+[^c-8082c002b7d9bb6a5fe8a71603ef25cf]: Commencement: Reg. 6 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
 
-[^key-763aae9021db44701ad86f6b62a6725a]: Commencement: Reg. 7 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+[^c-763aae9021db44701ad86f6b62a6725a]: Commencement: Reg. 7 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
 
-[^key-f082d12bb36a96b499b9064e86b13cbd]: Commencement: Reg. 8 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)
+[^c-f082d12bb36a96b499b9064e86b13cbd]: Commencement: Reg. 8 in operation at 15.10.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/329/regulation/1)

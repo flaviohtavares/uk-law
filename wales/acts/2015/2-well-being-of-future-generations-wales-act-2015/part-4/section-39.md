@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Local well-being plans[^key-db854b20bb459e8b9489157ca8a560de]
+## 39. Local well-being plans[^c-db854b20bb459e8b9489157ca8a560de]
 
 *Extent: E+W*
 
@@ -43,9 +43,9 @@ summary: ''
 - (f) if the plan is not the first plan published by the board, specifying the steps taken to meet the objectives set out in the board's previous plan and specifying the extent to which those objectives have been met;
 - (g) providing such other information as the board considers appropriate.
 
-(6)[^key-386641de51650d7369d5249171ed141d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-386641de51650d7369d5249171ed141d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) Each[^key-c04be3d91e9586d367b925fbcaf401e7] board must publish a local well-being plan no later than one year after the date on which each ordinary election under section 26 of the Local Government Act 1972 (c. 70)[^key-540807ba00e0f334715d5b6d584264a1] is held.
+(7) Each[^c-c04be3d91e9586d367b925fbcaf401e7] board must publish a local well-being plan no later than one year after the date on which each ordinary election under section 26 of the Local Government Act 1972 (c. 70)[^c-540807ba00e0f334715d5b6d584264a1] is held.
 
 (8) Each board must send a copy of its plan to—
 
@@ -56,10 +56,10 @@ summary: ''
 
 ## Annotations
 
-[^key-db854b20bb459e8b9489157ca8a560de]: Commencement: S. 39 in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-db854b20bb459e8b9489157ca8a560de]: Commencement: S. 39 in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-386641de51650d7369d5249171ed141d]: Textual amendment: [S. 39(6)](https://www.legislation.gov.uk/anaw/2015/2/section/39/6) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(4)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/4/a)
+[^c-386641de51650d7369d5249171ed141d]: Textual amendment: [S. 39(6)](https://www.legislation.gov.uk/anaw/2015/2/section/39/6) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(4)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/4/a)
 
-[^key-c04be3d91e9586d367b925fbcaf401e7]: Textual amendment: Word in [s. 39(7)](https://www.legislation.gov.uk/anaw/2015/2/section/39/7) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(4)(b)(i)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/4/b/i)
+[^c-c04be3d91e9586d367b925fbcaf401e7]: Textual amendment: Word in [s. 39(7)](https://www.legislation.gov.uk/anaw/2015/2/section/39/7) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(4)(b)(i)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/4/b/i)
 
-[^key-540807ba00e0f334715d5b6d584264a1]: Textual amendment: Words in [s. 39(7)](https://www.legislation.gov.uk/anaw/2015/2/section/39/7) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(4)(b)(ii)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/4/b/ii)
+[^c-540807ba00e0f334715d5b6d584264a1]: Textual amendment: Words in [s. 39(7)](https://www.legislation.gov.uk/anaw/2015/2/section/39/7) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(4)(b)(ii)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/4/b/ii)

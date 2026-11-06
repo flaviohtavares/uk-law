@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Short-term use of London accommodation: relaxation of restrictions[^key-a88dceb88790c09be2649c09745b3a0b]
+## 44. Short-term use of London accommodation: relaxation of restrictions[^c-a88dceb88790c09be2649c09745b3a0b]
 
 *Extent: E+W+S*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a88dceb88790c09be2649c09745b3a0b]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2015/20/section/44) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(e)](https://www.legislation.gov.uk/uksi/2015/994/article/6/e)
+[^c-a88dceb88790c09be2649c09745b3a0b]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2015/20/section/44) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(e)](https://www.legislation.gov.uk/uksi/2015/994/article/6/e)

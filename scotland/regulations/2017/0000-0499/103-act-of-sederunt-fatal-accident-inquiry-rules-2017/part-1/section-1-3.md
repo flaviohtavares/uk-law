@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.3. Periods of time[^key-b186c5a2a4a0c2ef5150d2901f611b7d]
+## 1.3. Periods of time[^c-b186c5a2a4a0c2ef5150d2901f611b7d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If any period of time specified in these Rules expires on a Saturday, Sunday or 
 
 ## Annotations
 
-[^key-b186c5a2a4a0c2ef5150d2901f611b7d]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/ssi/2017/103/rule/1.3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-b186c5a2a4a0c2ef5150d2901f611b7d]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/ssi/2017/103/rule/1.3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

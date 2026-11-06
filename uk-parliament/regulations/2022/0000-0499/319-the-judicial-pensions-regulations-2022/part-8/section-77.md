@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Meaning of “surviving cohabiting partner”[^key-f7ee8791372a05bdf0d6018fcf306b86]
+## 77. Meaning of “surviving cohabiting partner”[^c-f7ee8791372a05bdf0d6018fcf306b86]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person (P) is a surviving cohabiting partner of a deceased member of this sche
 
 ## Annotations
 
-[^key-f7ee8791372a05bdf0d6018fcf306b86]: Commencement: Reg. 77 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-f7ee8791372a05bdf0d6018fcf306b86]: Commencement: Reg. 77 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

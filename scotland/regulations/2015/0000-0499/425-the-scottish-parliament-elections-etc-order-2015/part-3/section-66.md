@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Disturbances at Scottish parliamentary election meetings[^key-da7220ce9f1085e3008fae9027aa23c2]
+## 66. Disturbances at Scottish parliamentary election meetings[^c-da7220ce9f1085e3008fae9027aa23c2]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ during the period beginning with the last day on which notice of election may be
 
 ## Annotations
 
-[^key-da7220ce9f1085e3008fae9027aa23c2]: Commencement: Art. 66 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-da7220ce9f1085e3008fae9027aa23c2]: Commencement: Art. 66 in force at 16.12.2015 in accordance with art. 1(1)

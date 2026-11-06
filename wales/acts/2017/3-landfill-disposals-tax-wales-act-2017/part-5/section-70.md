@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Payment of penalties[^key-ca92a0f3dacf109c2a6cddc8458a10ec]
+## 70. Payment of penalties[^c-ca92a0f3dacf109c2a6cddc8458a10ec]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A penalty under this Chapter must be paid before the end of the period of 30 day
 
 ## Annotations
 
-[^key-ca92a0f3dacf109c2a6cddc8458a10ec]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2017/3/section/70) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(v)](https://www.legislation.gov.uk/wsi/2018/35/article/2/v)
+[^c-ca92a0f3dacf109c2a6cddc8458a10ec]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2017/3/section/70) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(v)](https://www.legislation.gov.uk/wsi/2018/35/article/2/v)

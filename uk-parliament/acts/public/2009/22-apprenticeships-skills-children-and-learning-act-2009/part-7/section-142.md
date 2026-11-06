@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Consultation before making order specifying minimum requirements[^key-1846e7682c39c44a95c57fd8fdd3bb7a]
+## 142. Consultation before making order specifying minimum requirements[^c-1846e7682c39c44a95c57fd8fdd3bb7a]
 
 *Extent: E+W+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1846e7682c39c44a95c57fd8fdd3bb7a]: Commencement: S. 142 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-1846e7682c39c44a95c57fd8fdd3bb7a]: Commencement: S. 142 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

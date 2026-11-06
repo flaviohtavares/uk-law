@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-8ffd69626d28b53cc012f76161809ebc]
+## 1. Citation and commencement[^c-8ffd69626d28b53cc012f76161809ebc]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ This Order may be cited as the Welfare of Animals (Transport) Order (Northern Ir
 
 ## Annotations
 
-[^key-8ffd69626d28b53cc012f76161809ebc]: Commencement: Art. 1 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-8ffd69626d28b53cc012f76161809ebc]: Commencement: Art. 1 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

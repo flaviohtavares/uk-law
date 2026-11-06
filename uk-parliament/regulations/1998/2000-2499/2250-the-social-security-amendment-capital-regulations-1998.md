@@ -54,10 +54,10 @@ These Regulations may be cited as the Social Security Amendment (Capital) Regula
 
 (2) The regulations specified for the purposes of paragraph (1) of this regulation (which relate to capital jointly held) are–
 
-- (a) regulation 36 of the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-925db96d1cb166c65fde7422c45a6f8a][^c1659382];
+- (a) regulation 36 of the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-925db96d1cb166c65fde7422c45a6f8a][^c1659382];
 - (b) regulation 39 of the Disability Working Allowance (General) Regulations 1991[^c1659383];
 - (c) regulation 35 of the Family Credit (General) Regulations 1987[^c1659384];
-- (d) regulation 44 of the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-72d6e6987c38528070556d925d4367c9][^c1659385];
+- (d) regulation 44 of the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-72d6e6987c38528070556d925d4367c9][^c1659385];
 - (e) regulation 52 of the Income Support (General) Regulations 1987[^c1659386];
 - (f) regulation 115 of the Jobseeker’s Allowance Regulations 1996[^c1659387].
 
@@ -87,7 +87,7 @@ These Regulations do not impose a charge on business.
 
 [^c1659381]: Marginal citation: *See* the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5), [sections 170](https://www.legislation.gov.uk/ukpga/1992/5/section/170) and 173(1)(b); paragraph 67 of Schedule 2 to the [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18) added that Act to the list of “relevant enactments" in respect of which regulations must be referred to the Committee. Section 173(7) defines “regulations".
 
-[^key-925db96d1cb166c65fde7422c45a6f8a]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/1998/2250/regulation/2/2/a) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-925db96d1cb166c65fde7422c45a6f8a]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/1998/2250/regulation/2/2/a) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1659382]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814); the relevant amending instrument is [S.I. 1995/2303](https://www.legislation.gov.uk/uksi/1995/2303).
 
@@ -95,7 +95,7 @@ These Regulations do not impose a charge on business.
 
 [^c1659384]: Marginal citation: [S.I. 1987/1973](https://www.legislation.gov.uk/uksi/1987/1973); the relevant amending instrument is [S.I. 1995/2303](https://www.legislation.gov.uk/uksi/1995/2303).
 
-[^key-72d6e6987c38528070556d925d4367c9]: Textual amendment: [Reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/1998/2250/regulation/2/2/d) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-72d6e6987c38528070556d925d4367c9]: Textual amendment: [Reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/1998/2250/regulation/2/2/d) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1659385]: Marginal citation: [S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971); the relevant amending instrument is [S.I. 1995/2303](https://www.legislation.gov.uk/uksi/1995/2303).
 

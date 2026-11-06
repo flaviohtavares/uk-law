@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Collection of goods[^key-14cf0969b0d8a7398db1091a5b01d850]
+## 91. Collection of goods[^c-14cf0969b0d8a7398db1091a5b01d850]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14cf0969b0d8a7398db1091a5b01d850]: Commencement: S. 91 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-14cf0969b0d8a7398db1091a5b01d850]: Commencement: S. 91 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)

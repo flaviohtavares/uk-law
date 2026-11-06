@@ -41,18 +41,18 @@ Coming into force
 
 The National Assembly for Wales in exercise of the powers conferred by sections 77, 83, 83A and 126(4) of, and paragraph 1 of Schedule 12 to, the National Health Service Act 1977[^f00001] hereby makes the following Regulations:—
 
-## 1. Title, commencement and application[^key-4524a588df85ec0d4aa9fea2e23ef082]
+## 1. Title, commencement and application[^c-4524a588df85ec0d4aa9fea2e23ef082]
 
 (1) The title of these Regulations is the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) Regulations 2007 and they come into force on 1 April 2007.
 
 (2) These regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-2734f694102e0a60f053220bab1e8d14]
+## 2. Interpretation[^c-2734f694102e0a60f053220bab1e8d14]
 
 (1) In these Regulations, unless the context otherwise requires—
 
 - “the Act” (“*y Ddeddf*”) means the National Health Service Act 1977;
-- “the[^key-d46defeedbd9046036e31886b2242e3d] 2006 Act” (“*Deddf 2006*”) means the National Health Service (Wales) Act 2006[^f00003];
+- “the[^c-d46defeedbd9046036e31886b2242e3d] 2006 Act” (“*Deddf 2006*”) means the National Health Service (Wales) Act 2006[^f00003];
 - “accepted disablement” (“*anabledd wedi'i dderbyn*”) means physical or mental injury or disease which is accepted by the National Assembly as attributable to or aggravated by service in the armed forces of the Crown or such other service as it may determine;
 - “accredited course” (“*cwrs a achredwyd*”) means a course accredited by the Nursing and Midwifery Council;
 - “appliance” (“*cyfarpar*”) means a listed appliance within the meaning of section 41 of the Act[^f00002];
@@ -66,7 +66,7 @@ The National Assembly for Wales in exercise of the powers conferred by sections 
 - “chemist” (“*fferyllydd*”) includes any person, other than a doctor, providing pharmaceutical services;
 - “dispensing services” (“*gwasanaethau gweinyddu*”) means services corresponding to pharmaceutical services under the terms of a GMS contract which give effect to paragraphs 47 to 51 of Schedule 6 to the GMS Contract Regulations;
 - “doctor” (“*meddyg*”) means a registered medical practitioner;
-- “Drug Tariff (“[^key-90a7e8e664a3a2d982bf9acdf43534c8]*Tariff Cyffuriau*”) means the aggregate of the determinations made by the National Assembly for Wales which are published in accordance with regulation 55 of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (the Drug Tariff and remuneration of NHS pharmacists and NHS appliance contractors)[^key-e491d1e1b97ee649c6f20104f5a9d79f];
+- “Drug Tariff (“[^c-90a7e8e664a3a2d982bf9acdf43534c8]*Tariff Cyffuriau*”) means the aggregate of the determinations made by the National Assembly for Wales which are published in accordance with regulation 55 of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (the Drug Tariff and remuneration of NHS pharmacists and NHS appliance contractors)[^c-e491d1e1b97ee649c6f20104f5a9d79f];
 - “drugs” (“*cyffuriau*”) includes medicines;
 - “elastic hosiery” (“*hosan elastig*”) means anklet, legging, knee-cap, below-knee or thigh stocking;
 - “entitlement card” (“*cerdyn hawl*”) has the meaning assigned to it by regulation 11(1);
@@ -80,17 +80,17 @@ The National Assembly for Wales in exercise of the powers conferred by sections 
 - “exemption certificate” (“*tystysgrif esemptio*”) has the meaning assigned to it by regulation 9(1);
 - “the GMS Contract Regulations” (“*Rheoliadau Contract GMS*”) means the National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^f00007];
 - “GMS contract” (“*contract GMS*”) means a general medical services contract under section 28Q of the Act;
-- “the Health and Care Professions Council register” (“[^key-cf0f4653f0bec4d3c87e6cdb0a90c1f4]*cofrestr y Cyngor Proffesiynau Iechyd a Gofal*”) means the register established and maintained by the Health and Care Professions Council under article 5 of the Health Professions Order 2001[^key-634eada3df74954a9ef2b94ea665c06e];
-- “independent nurse prescriber” (“[^key-e736a65fb8f990126fb97de2f9e791d6]*nyrs sy'n rhagnodi'n annibynnol*”) means a person —
+- “the Health and Care Professions Council register” (“[^c-cf0f4653f0bec4d3c87e6cdb0a90c1f4]*cofrestr y Cyngor Proffesiynau Iechyd a Gofal*”) means the register established and maintained by the Health and Care Professions Council under article 5 of the Health Professions Order 2001[^c-634eada3df74954a9ef2b94ea665c06e];
+- “independent nurse prescriber” (“[^c-e736a65fb8f990126fb97de2f9e791d6]*nyrs sy'n rhagnodi'n annibynnol*”) means a person —
   - (a) who is registered in the Nursing and Midwifery Register, and
   - (b) against whose name in that register is recorded an annotation or entry signifying that he or she is qualified to order drugs, medicines and appliances as a community practitioner nurse prescriber;
-- “independent nurse prescriber” (“[^key-7648c0aff93a340dc27205521a54e76e]*nyrs sy'n rhagnodi'n annibynnol*”) means a person —
+- “independent nurse prescriber” (“[^c-7648c0aff93a340dc27205521a54e76e]*nyrs sy'n rhagnodi'n annibynnol*”) means a person —
   - (a) who is registered in the Nursing and Midwifery Register, and
   - (b) against whose name in that register is recorded an annotation or entry signifying that he or she is qualified to order drugs, medicines and appliances as a community practitioner nurse prescriber;
 - “Local Health Board” (“*Bwrdd Iechyd Lleol*”) has the meaning assigned to it by section 16BA of the Act[^f00008];
 - “National Assembly” (“*Cynulliad Cenedlaethol*”) means the National Assembly for Wales;
 - “Nursing and Midwifery Register” (“*Cofrestr Nyrsio a Bydwreigiaeth*”) means the register maintained by the Nursing and Midwifery Council under the Nursing and Midwifery Order 2001[^f00009];
-- “paramedic independent prescriber” ([^key-a1c73655b157091131cc2832147cc22a]*“parafeddyg-ragnodydd annibynnol”*) means a person—
+- “paramedic independent prescriber” ([^c-a1c73655b157091131cc2832147cc22a]*“parafeddyg-ragnodydd annibynnol”*) means a person—
   - (a) who is a registered paramedic, and
   - (b) against whose name is recorded in the relevant register an annotation signifying that the person is qualified to order drugs, medicines and appliances as a paramedic independent prescriber;
 - “patient” (“*claf*”) means—
@@ -102,7 +102,7 @@ The National Assembly for Wales in exercise of the powers conferred by sections 
 - “pharmacist independent prescriber” (“*fferyllydd-ragnodydd annibynnol*”) means a person—
   - (a) who is a pharmacist, and
   - (b) against whose name is recorded in the relevant register an annotation signifying that he or she is qualified to order drugs, medicines and appliances as a pharmacist independent prescriber;
-- “physiotherapist independent prescriber” (“[^key-a452a79b653d052f139db6feaff2d669]*ffisiotherapydd-ragnodydd annibynnol*”) means a person—
+- “physiotherapist independent prescriber” (“[^c-a452a79b653d052f139db6feaff2d669]*ffisiotherapydd-ragnodydd annibynnol*”) means a person—
   - (a) who is a physiotherapist, and
   - (b) against whose name is recorded in the relevant register an annotation signifying that he or she is qualified to order drugs, medicines and appliances as a physiotherapist independent prescriber;
 - “podiatrist or chiropodist independent prescriber” (“*podiatrydd-ragnodydd neu giropodydd-ragnodydd annibynnol*”) means a person—
@@ -112,28 +112,28 @@ The National Assembly for Wales in exercise of the powers conferred by sections 
   - (a) a doctor,
   - (b) an independent nurse prescriber,
   - (c) a supplementary prescriber,
-  - (d) a nurse independent prescriber, [^key-556dedef1e8afa193ec2578b0e76abdc]...
-  - (e) a pharmacist independent prescriber,[^key-e6e1a90a8b775b57e20713df422f3afb]
-  - (f) a physiotherapist independent prescriber,[^key-5b19988ad2f0de016f7b058f8e68a664] [^key-3e15768bf81a4fa209c07b66ca40a539]...
-  - (g) a podiatrist or chiropodist independent prescriber[^key-c3ad09ca903c132bead1d746257e7286],[^key-9b29dc33603b474c693a6f36500bf158]
-  - (h) a therapeutic radiographer independent prescriber,[^key-55fbcc761bd12436ae4cb613fc19045a] and[^key-541dc7797540c892553936a4e7bd2c97]
-  - (i) a paramedic independent prescriber,[^key-5e11fbdd7cf5d6948ba4ab7ec9ddad40]
-- [^key-8b6cc0fa9c40551c899133aac95ca258]...
+  - (d) a nurse independent prescriber, [^c-556dedef1e8afa193ec2578b0e76abdc]...
+  - (e) a pharmacist independent prescriber,[^c-e6e1a90a8b775b57e20713df422f3afb]
+  - (f) a physiotherapist independent prescriber,[^c-5b19988ad2f0de016f7b058f8e68a664] [^c-3e15768bf81a4fa209c07b66ca40a539]...
+  - (g) a podiatrist or chiropodist independent prescriber[^c-c3ad09ca903c132bead1d746257e7286],[^c-9b29dc33603b474c693a6f36500bf158]
+  - (h) a therapeutic radiographer independent prescriber,[^c-55fbcc761bd12436ae4cb613fc19045a] and[^c-541dc7797540c892553936a4e7bd2c97]
+  - (i) a paramedic independent prescriber,[^c-5e11fbdd7cf5d6948ba4ab7ec9ddad40]
+- [^c-8b6cc0fa9c40551c899133aac95ca258]...
 - “prison” (“*carchar*”) includes a young offender institution but not a secure training centre or a naval, military or air force prison, and for the purposes of this definition—
 - “prisoner” (“*carcharor*”) means a person who is detained in a prison in which medical, dental, ophthalmic, pharmaceutical or nursing services are provided under the Act[^f00012] by, or under arrangements made by a Local Health Board otherwise than by virtue of section 7(2) of the Health and Medicines Act 1988[^f00013] (extension of the powers of Secretary of State for financing the Health Service);
-- [^key-1bbdb1f32a1789b7d2d4defeace97ade]...
+- [^c-1bbdb1f32a1789b7d2d4defeace97ade]...
 - “registered paramedic” (*“parafeddyg cofrestredig”*) means a person registered in Part 8 of the Health and Care Professions Council register;
-- “secure training centre” (“*canolfan hyfforddi diogel*”) means a place in which offenders subject to detention and training orders within the meaning given by section 233 of the Sentencing Code[^key-b4e6a6145e64c0c93c8f774d9db6c30b] may be detained and given training and education and prepared for their release; and
+- “secure training centre” (“*canolfan hyfforddi diogel*”) means a place in which offenders subject to detention and training orders within the meaning given by section 233 of the Sentencing Code[^c-b4e6a6145e64c0c93c8f774d9db6c30b] may be detained and given training and education and prepared for their release; and
 - “young offender institution” (“*sefydliad tramgwyddwyr ifanc*”) means a place for the detention of offenders sentenced to detention in a young offender institution or to custody for life;
 - “qualifying patient” (“*claf cymwys*”) has the meaning assigned to it by regulation 11(3);
 - “registered radiographer” *(“radiograffydd cofrestredig”)* means a person registered in Part 11 of the Health and Care Professions Council register;
 - “relevant register” (“*cofrestr berthnasol*”) means—
   - (a) in relation to a nurse or a midwife, the Nursing and Midwifery Register;
-  - (b) in relation to a pharmacist, the register maintained under article 19 of the Pharmacy Order 2010 or the register maintained under Articles 6 and 9 of the Pharmacy (Northern Ireland) Order 1976.[^key-6f7338c5e1c9e08894bf25f89446e99f]
-  - (c) in relation to a person whose name is registered in the part of the register maintained by the Health Professions Council in pursuance of article 5 of the Health Professions Order 2001[^key-429160a16cdd43af278e06371f50beeb] [^f00017] relating to—
+  - (b) in relation to a pharmacist, the register maintained under article 19 of the Pharmacy Order 2010 or the register maintained under Articles 6 and 9 of the Pharmacy (Northern Ireland) Order 1976.[^c-6f7338c5e1c9e08894bf25f89446e99f]
+  - (c) in relation to a person whose name is registered in the part of the register maintained by the Health Professions Council in pursuance of article 5 of the Health Professions Order 2001[^c-429160a16cdd43af278e06371f50beeb] [^f00017] relating to—
     - (i) chiropodists and podiatrists;
-    - (ia) dietitians[^key-e715e93a17923c3707ca0a21d53e2dbd]
-    - (ib) paramedics;[^key-148e5ae62b1670734759f3b8d06b5472]
+    - (ia) dietitians[^c-e715e93a17923c3707ca0a21d53e2dbd]
+    - (ib) paramedics;[^c-148e5ae62b1670734759f3b8d06b5472]
     - (ii) physiotherapists; or
     - (iii) radiographers: diagnostic or therapeutic;
 
@@ -146,16 +146,16 @@ The National Assembly for Wales in exercise of the powers conferred by sections 
 - “supplementary prescriber” (“*rhagnodydd atodol*”) means a person
   - (a) whose name is registered in—
     - (i) the Nursing and Midwifery Register,
-    - (ii) Part 1 of the register maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007;[^key-58a5fe252678d7f26c24969362c2ba1b]
+    - (ii) Part 1 of the register maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007;[^c-58a5fe252678d7f26c24969362c2ba1b]
     - (iii) the register maintained in pursuance of Articles 6 and 9 of the Pharmacy (Northern Ireland) Order 1976,
-    - (iv) the part of the register maintained by the Health Professions Council in pursuance of article 5 of the Health Professions Order 2001[^key-712f385576f1525dd486a7a083935c97] relating to—
+    - (iv) the part of the register maintained by the Health Professions Council in pursuance of article 5 of the Health Professions Order 2001[^c-712f385576f1525dd486a7a083935c97] relating to—
       - (aa) chiropodists and podiatrists,
       - (bb) physiotherapists,
-      - (cc) radiographers: diagnostic or therapeutic, [^key-479d5fd659424379dab1a4179e9d89ba]...
-      - (dd) dietitians,[^key-a8a2060de15e8fa260f18f6ea0c243e9] [^key-a163e99c145c5bc804853daf56b9709c]...
-      - (ee) paramedics, or[^key-fd1f932f777678f6aa5c563304e55f13]
+      - (cc) radiographers: diagnostic or therapeutic, [^c-479d5fd659424379dab1a4179e9d89ba]...
+      - (dd) dietitians,[^c-a8a2060de15e8fa260f18f6ea0c243e9] [^c-a163e99c145c5bc804853daf56b9709c]...
+      - (ee) paramedics, or[^c-fd1f932f777678f6aa5c563304e55f13]
     - (v) the register of optometrists maintained by the General Optical Council in pursuance of section 7(a) of the Opticians Act 1989, and
-  - (b) against whose name is recorded in the relevant register an annotation signifying that he or she is qualified to order drugs, medicines and appliances as a supplementary prescriber , save in the case of the Nursing and Midwifery Register, where the annotation or entry signifies qualification as a nurse independent/supplementary prescriber;[^key-08dd1916e475f6a36c0af8bf5ccb5a9b];
+  - (b) against whose name is recorded in the relevant register an annotation signifying that he or she is qualified to order drugs, medicines and appliances as a supplementary prescriber , save in the case of the Nursing and Midwifery Register, where the annotation or entry signifies qualification as a nurse independent/supplementary prescriber;[^c-08dd1916e475f6a36c0af8bf5ccb5a9b];
 - “terms of service” (“*telerau gwasanaeth*”) means the terms on which general ophthalmic services and pharmaceutical services are provided under the Act;
 - “therapeutic radiographer independent prescriber” *(“radiograffydd therapiwtig-ragnodydd annibynnol”)* means a person—
   - (a) who is a registered radiographer, and
@@ -182,13 +182,13 @@ The National Assembly for Wales in exercise of the powers conferred by sections 
 - (a) of quantities of the same drug in more than one container shall be treated as the supply of only one quantity of a drug;
 - (b) of more than one appliance of the same type, except in the case of elastic hosiery and tights, or of two or more component parts of the same appliance, shall be treated as the supply of only one appliance.
 
-(2A)[^key-63705568682696d7ffed0a86ed8123d0] Where the term “community practitioner nurse prescriber” appears in the the Human Medicines Regulations 2012[^key-8a828bcd74a1af0ca080fce14cb0a37b] or the Nursing and Midwifery Register it is to be construed for the purposes of these Regulations as a reference to an “independent nurse prescriber”.
+(2A)[^c-63705568682696d7ffed0a86ed8123d0] Where the term “community practitioner nurse prescriber” appears in the the Human Medicines Regulations 2012[^c-8a828bcd74a1af0ca080fce14cb0a37b] or the Nursing and Midwifery Register it is to be construed for the purposes of these Regulations as a reference to an “independent nurse prescriber”.
 
 (3) For as long as there are in existence contracts entered into under article 13 of the General Medical Services Transitional and Consequential Provisions (Wales) Order 2004[^f00020] (“default contracts”) any reference in these Regulations to a GMS contract shall be read as including a reference to a contract entered into under that article and any reference to a term of a GMS contract shall be read as including a reference to the equivalent term of the default contract.
 
 (4) Unless the context otherwise requires, any reference in these Regulations to a numbered regulation or Schedule is a reference to the regulation in, or Schedule to, these Regulations which bears that number, and any reference in a regulation to a numbered paragraph is a reference to the paragraph bearing that number in that regulation.
 
-## 3. Supply of drugs and appliances by chemists[^key-dc8b5081876b9e05845cb2bc29329625]
+## 3. Supply of drugs and appliances by chemists[^c-dc8b5081876b9e05845cb2bc29329625]
 
 (1) A chemist who provides pharmaceutical services to a patient must not make or recover a charge for any drugs or appliances supplied as part of those services in the following circumstances—
 
@@ -231,14 +231,14 @@ The National Assembly for Wales in exercise of the powers conferred by sections 
 
 unless he or she is first paid by the patient any charge required to be made and recovered by paragraph (2) or (5), as the case may be, in respect of that order.
 
-(10)[^key-1a7773cfb2a1d332e085a3c882baab6b] A chemist who makes and recovers a charge—
+(10)[^c-1a7773cfb2a1d332e085a3c882baab6b] A chemist who makes and recovers a charge—
 
 - (a) under paragraph (2) from or on behalf of a patient who is a person described in regulation 11A(1) must, if so required by the patient or the patient’s representative, provide a receipt for the amount received in the form approved by the Welsh Ministers;
 - (b) under paragraph (2) or (5) from or on behalf of a patient who is not a person described in regulation 11A (1) must, if so required by the patient or the patient’s representative, provide a receipt for the amount received on the form provided for the purpose, which form must contain forms of declaration in support of an application for repayment and information as to whom an application for repayment should be made.
 
 (11) Any sum which would otherwise be payable by a Local Health Board to a chemist in respect of the provision by the chemist of pharmaceutical services will be reduced by the amount of any charges which are required to be made and recovered by the preceding provisions of this regulation.
 
-## 4. Supply of drugs and appliances by doctors[^key-93d4e3871fc0525490d51ebd4237be59]
+## 4. Supply of drugs and appliances by doctors[^c-93d4e3871fc0525490d51ebd4237be59]
 
 (1) A doctor who provides pharmaceutical services to a patient must not make or recover a charge for any drugs or appliances supplied as part of those services in the following circumstances—
 
@@ -261,7 +261,7 @@ unless he or she is first paid by the patient any charge required to be made and
 
 (6) A doctor is under no obligation to provide pharmaceutical services for which a charge is required to be made and recovered by paragraph (2) unless he or she is first paid the amount of that charge by the patient.
 
-(7)[^key-fc23b6cc94b3ae0c6bfad34babf7e16d] A doctor who makes and recovers a charge under paragraph (2)—
+(7)[^c-fc23b6cc94b3ae0c6bfad34babf7e16d] A doctor who makes and recovers a charge under paragraph (2)—
 
 - (a) from or on behalf of a patient who is a person described in regulation 11A(1) must, if so required by the patient or the patient’s representative, provide a receipt for the amount received in the form approved by the Welsh Ministers;
 - (b) from or on behalf of a patient who is not a person described in regulation 11A(1) must, if so required by the patient or the patient’s representative, provide a receipt for the amount received on the form provided for the purpose, which form must contain forms of declaration in support of an application for repayment and information as to whom an application for repayment should be made.
@@ -271,21 +271,21 @@ unless he or she is first paid by the patient any charge required to be made and
 - (a) is needed for immediate treatment and no order for the drug or appliance is made on an equivalent prescription form; or
 - (b) is administered or applied to the patient by the doctor personally.
 
-## 5. Supply of drugs and appliances by Local Health Boards and NHS trusts[^key-9a40222a5759b0f393d617900d2c24e6]
+## 5. Supply of drugs and appliances by Local Health Boards and NHS trusts[^c-9a40222a5759b0f393d617900d2c24e6]
 
 A patient is not liable to pay charges to a Local Health Board or an NHS trust which supplies to that patient for the purposes of his or her treatment, drugs, or appliances.
 
-## 6. Supply of drugs and appliances at Walk-in centres[^key-adde517238770d6baaedbe6bb99ca030]
+## 6. Supply of drugs and appliances at Walk-in centres[^c-adde517238770d6baaedbe6bb99ca030]
 
 A patient is not liable to pay charges for drugs or appliances supplied for the purposes of his or her treatment by a prescriber at a Walk-in Centre or for drugs administered or appliance fitted at the Centre.
 
-## 7. Supply of drugs under Patient Group Directions[^key-1c9193f47e9453bbf27d4a4b30cc32b6]
+## 7. Supply of drugs under Patient Group Directions[^c-1c9193f47e9453bbf27d4a4b30cc32b6]
 
 (1) A patient is not liable to pay charges for drugs supplied in accordance with a Patient Group Direction or for drugs supplied for personal administration by any person making the supply in accordance with the Patient Group Direction.
 
-(2) For the purposes of this regulation the reference to the supply of a drug in accordance with a Patient Group Direction is a reference to the supply of a drug for that purpose as provided for in the Human Medicines Regulations 2012[^key-5b1acd0bc30006b65e18daa5cdfb84b4] .
+(2) For the purposes of this regulation the reference to the supply of a drug in accordance with a Patient Group Direction is a reference to the supply of a drug for that purpose as provided for in the Human Medicines Regulations 2012[^c-5b1acd0bc30006b65e18daa5cdfb84b4] .
 
-**7A.**[^key-3c2eadb0f7c0d9137334d92d2001f5c9] (Supply of drugs in the event of a pandemic)
+**7A.**[^c-3c2eadb0f7c0d9137334d92d2001f5c9] (Supply of drugs in the event of a pandemic)
 
 “(1) No charges may be made or recovered under these Regulations in respect of a supply of drugs which is—
 
@@ -294,9 +294,9 @@ A patient is not liable to pay charges for drugs or appliances supplied for the 
   - (ii) in anticipation of a disease being imminently pandemic,
 
   and is a serious risk, or potentially a serious risk, to human health; and
-- (b) in accordance with a protocol relating to that disease as provided for in regulation 247 of the Human Medicines Regulations 2012[^key-59b18f7a95cc6231c5337a6ec4fdec59] .
+- (b) in accordance with a protocol relating to that disease as provided for in regulation 247 of the Human Medicines Regulations 2012[^c-59b18f7a95cc6231c5337a6ec4fdec59] .
 
-## 8. Exemptions[^key-4529f7f9bc27cfd842997b96b48fae64]
+## 8. Exemptions[^c-4529f7f9bc27cfd842997b96b48fae64]
 
 (1) Subject to paragraph (3), no charge will be payable under paragraphs (2) or (5) of regulation 3 or paragraph (2) of regulation 4 by
 
@@ -315,7 +315,7 @@ A patient is not liable to pay charges for drugs or appliances supplied for the 
   - (iii) epilepsy requiring continuous anti-convulsive therapy;
   - (iv) a continuing physical disability which prevents the patient from leaving his or her residence without the help of another person;
 - (e) a person with a valid exemption certificate issued under arrangements for exemptions from charges for drugs and appliances in England, Scotland or Northern Ireland in respect of the supply of drugs and appliances for the treatment of accepted disablement;
-- (ea)[^key-4fe4d690422f8b938590238329a063a6] a person with a valid exemption certificate issued by a Local Health Board on the ground that the person is undergoing treatment for—
+- (ea)[^c-4fe4d690422f8b938590238329a063a6] a person with a valid exemption certificate issued by a Local Health Board on the ground that the person is undergoing treatment for—
   - (i) cancer;
   - (ii) the effects of cancer, or
   - (iii) the effects of cancer treatment,
@@ -340,31 +340,31 @@ is issued and the person’s date of birth is printed by means of a computer on 
 
 (5) Where a claim to exemption has been made but is not substantiated and in consequence of the claim a charge has not been recovered, the Local Health Board or, where the drugs or appliances were supplied by an NHS trust, that NHS trust must recover such charge from the person concerned.
 
-## 9. Certificates of exemption — application and issue[^key-1bf286eafd3975182d160140404c126e]
+## 9. Certificates of exemption — application and issue[^c-1bf286eafd3975182d160140404c126e]
 
 (1) Notwithstanding the provisions of regulations 3(1) and (4), 4(1), 5, 6 and 7(1), a person who wishes to claim exemption on the ground that
 
 - (a) she is an expectant mother or has within the last twelve months given birth to a live child or a child registrable as still-born under the Births and Deaths Registration Act 1953;
 - (b) he or she is suffering from one or more of the conditions set out in paragraph (i) to (iv) of regulation 8(1)(d);
-- (c) he or she requires the supply of drugs and/or appliances for the treatment of accepted disablement;[^key-e00d7c071fe8e47c1623382319f16eeb]
+- (c) he or she requires the supply of drugs and/or appliances for the treatment of accepted disablement;[^c-e00d7c071fe8e47c1623382319f16eeb]
 - (d) he or she is a person undergoing treatment as specified in regulation 8(1)(ea)
 
-may apply for a certificate conferring exemption (to be known as an “exemption certificate”) to the Local Health Board in the case of an exemption , substitute “under sub-paragraph (a), (b) or (d)[^key-037a7105f87d20529e73ca8a6963643a] on a form supplied for that purpose and in the case of an exemption under sub-paragraph (c) to an office of the Department of Social Security on a form supplied for that purpose by the National Assembly.
+may apply for a certificate conferring exemption (to be known as an “exemption certificate”) to the Local Health Board in the case of an exemption , substitute “under sub-paragraph (a), (b) or (d)[^c-037a7105f87d20529e73ca8a6963643a] on a form supplied for that purpose and in the case of an exemption under sub-paragraph (c) to an office of the Department of Social Security on a form supplied for that purpose by the National Assembly.
 
 (2) A Local Health Board, on being satisfied that an applicant is entitled to exemption under paragraph (1)(a), must issue an exemption certificate which will be valid—
 
 - (a) in the case of an expectant mother until the end of her pregnancy and, where she gives birth to a live child or a child registrable as still-born under the Births and Deaths Registration Act 1953, until the end of the period of twelve months beginning with the expected date of confinement;
 - (b) in the case of a mother who has given birth to a child, until the end of the period of twelve months beginning with the date of birth of that child.
 
-(3) A Local Health Board, on being satisfied that an applicant is entitled to exemption under paragraph (1)(b) or (1)(d)[^key-f110203181f22d5e2cfff17e3e035f8f] must issue to the applicant an exemption certificate which will be valid for such period as it may determine.
+(3) A Local Health Board, on being satisfied that an applicant is entitled to exemption under paragraph (1)(b) or (1)(d)[^c-f110203181f22d5e2cfff17e3e035f8f] must issue to the applicant an exemption certificate which will be valid for such period as it may determine.
 
 (4) The National Assembly, on being satisfied that an applicant is entitled to exemption under paragraph (1)(c), will issue to the applicant an exemption certificate which will be valid for such period as it may determine.
 
-## 10. Exemption from charges for prisoners[^key-d9c93868b85b6ad67b8b9b2be7466b6d]
+## 10. Exemption from charges for prisoners[^c-d9c93868b85b6ad67b8b9b2be7466b6d]
 
 A prisoner is not liable to pay any charges under these Regulations.
 
-## 11. Entitlement cards[^key-0ef804cc8824e74503ebf4c3359f86e8]
+## 11. Entitlement cards[^c-0ef804cc8824e74503ebf4c3359f86e8]
 
 (1) A Local Health Board, on being satisfied that a person is a qualifying patient, must issue to that person a card (in these Regulations referred to as an “entitlement card”) which will be valid for such period as the Local Health Board may determine.
 
@@ -373,11 +373,11 @@ A prisoner is not liable to pay any charges under these Regulations.
 (3) For the purposes of these Regulations “a qualifying patient” means a person who—
 
 - (a) is resident in Wales; and
-- (b) receives primary medical services under Part 1 of the Act from a provider who is contracted to provide such services with NHS England[^key-f6ce1a7cc1021d6f0fc1800fd3363215]; and
+- (b) receives primary medical services under Part 1 of the Act from a provider who is contracted to provide such services with NHS England[^c-f6ce1a7cc1021d6f0fc1800fd3363215]; and
 
 includes a person acting on behalf of such a person.
 
-## 11A. Repayment of certain charges paid under the Charges Regulations 2000[^key-efafaf4173bba60ebde8ef81dea90b7f]
+## 11A. Repayment of certain charges paid under the Charges Regulations 2000[^c-efafaf4173bba60ebde8ef81dea90b7f]
 
 (1) Where a charge has been paid under the Charges Regulations 2000, whether or not in accordance with these Regulations, by or on behalf of a person who is, at the time the charge was paid, a person who—
 
@@ -392,15 +392,15 @@ an application for the repayment of that charge may be made in accordance with p
 - (b) be made within 3 months from the date on which the charge was paid, or within such period as the Welsh Ministers may, for good cause, allow; and
 - (c) be accompanied by the receipt for the charge paid and a declaration that the person was, at the time the charge was paid, a person described in paragraph (1).
 
-## 12. Transitional Provisions[^key-7228e51d13766ec50b49209345d10bcc]
+## 12. Transitional Provisions[^c-7228e51d13766ec50b49209345d10bcc]
 
 The transitional provisions in Schedule 1 take effect.
 
-## 13. Minor and Consequential Amendments[^key-5e86fd9759503c1f077f3e8600fe19fd]
+## 13. Minor and Consequential Amendments[^c-5e86fd9759503c1f077f3e8600fe19fd]
 
 The provisions listed in Schedule 2 are amended as therein specified.
 
-## 14. Revocations[^key-d14975a6ff5dc78b28fed49996d55ef3]
+## 14. Revocations[^c-d14975a6ff5dc78b28fed49996d55ef3]
 
 The Regulations specified in column (1) of Schedule 3 are revoked in relation to Wales to the extent specified in column (3) of that Schedule.
 
@@ -416,7 +416,7 @@ The Presiding Officer of the National Assembly
 
 Regulation 12
 
-### 1. Repayment of charges[^key-7289b0ff569749d0a1de33c9e75f360b]
+### 1. Repayment of charges[^c-7289b0ff569749d0a1de33c9e75f360b]
 
 (1) Where a charge has been paid under the Charges Regulations 2001 by or on behalf of a person who was at the time of payment exempt from the requirement to pay that charge under regulation 8 of those Regulations, an application for repayment of that charge may be made in accordance with paragraph (2) by or on behalf of that person.
 
@@ -431,7 +431,7 @@ Regulation 12
 
 (4) Arrangements made by the National Assembly for the repayment of any charge paid under regulation 11(4) of the Charges Regulations 2001 by a person who is entitled to exemption continue to have effect for the purposes of paragraph 1.
 
-### 2. Pre payment Certificates[^key-a59285f498523561ca5236be4827f23f]
+### 2. Pre payment Certificates[^c-a59285f498523561ca5236be4827f23f]
 
 (1) Where a person has obtained a pre-payment certificate by virtue of making any payment in accordance with regulation 10 of the Charges Regulations 2001, and the relevant period as defined by paragraph (3) is unexpired, an application for a refund may be made, by or on behalf of that person or his or her estate, in accordance with paragraph (4) in respect of each complete month following 1 April 2007.
 
@@ -450,11 +450,11 @@ and for the purposes of these calculations “complete month” means a month be
 
 Regulation 13
 
-### 1. The National Health Service (Pharmaceutical Services) Regulations 1992[^key-116654e8f512cc6fe39306e0be219767][^key-71cf74924afdb613f1ca0dc1c1e4a7fa]
+### 1. The National Health Service (Pharmaceutical Services) Regulations 1992[^c-116654e8f512cc6fe39306e0be219767][^c-71cf74924afdb613f1ca0dc1c1e4a7fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. The National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 1988[^key-a170874562d8b6a262242ebeb26595ca]
+### 2. The National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 1988[^c-a170874562d8b6a262242ebeb26595ca]
 
 Substitute the entirety of paragraph (1)(b) of regulation 7 of the National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 1988 with the following—
 
@@ -462,7 +462,7 @@ Substitute the entirety of paragraph (1)(b) of regulation 7 of the National Heal
 >
 > - (b) provide any declaration of entitlement required under regulation 3(8) or 4(3) of the National Health Services (Free Prescriptions and Charges for Drugs and Appliances) (Wales) Regulations 2007.
 
-### 3. The National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^key-3adf4276512285af31154b275a58bc1a]
+### 3. The National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^c-3adf4276512285af31154b275a58bc1a]
 
 (1) The National Health Service (General Medical Services Contracts) (Wales) Regulations 2004 are amended as provided in this paragraph.
 
@@ -475,7 +475,7 @@ Substitute the entirety of paragraph (1)(b) of regulation 7 of the National Heal
   .
 - (b) in sub-paragraph (5)(a) substitute the term “4(1)” with the term “4(3)”.
 
-## SCHEDULE 3 — REGULATIONS REVOKED[^key-42d308cd9427f1ac61aeaebdbcba1c1d]
+## SCHEDULE 3 — REGULATIONS REVOKED[^c-42d308cd9427f1ac61aeaebdbcba1c1d]
 
 Regulation 14
 
@@ -520,11 +520,11 @@ Regulation 14
 
 [^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-4524a588df85ec0d4aa9fea2e23ef082]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2007/121/regulation/1) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-4524a588df85ec0d4aa9fea2e23ef082]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2007/121/regulation/1) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-2734f694102e0a60f053220bab1e8d14]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2007/121/regulation/2) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-2734f694102e0a60f053220bab1e8d14]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2007/121/regulation/2) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-d46defeedbd9046036e31886b2242e3d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2007/121/regulation/2) inserted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [2](https://www.legislation.gov.uk/wsi/2009/2607/regulation/2)
+[^c-d46defeedbd9046036e31886b2242e3d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2007/121/regulation/2) inserted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [2](https://www.legislation.gov.uk/wsi/2009/2607/regulation/2)
 
 [^f00003]: Footnote: S.I. [2000/620](https://www.legislation.gov.uk/uksi/2000/620), as last amended by S.I. [2006/675](https://www.legislation.gov.uk/uksi/2006/675).
 
@@ -532,161 +532,161 @@ Regulation 14
 
 [^f00004]: Footnote: S.I. [2001/1358 (W.86)](https://www.legislation.gov.uk/wsi/2001/1358), as last amended by S.I. [2006/1792 (W.188)](https://www.legislation.gov.uk/wsi/2006/1792).
 
-[^key-90a7e8e664a3a2d982bf9acdf43534c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (1.4.2007) by [The National Health Service (Pharmaceutical Services) (Remuneration for Persons providing Pharmaceutical Services) (Amendment) (Wales) Regulations 2007 (S.I. 2007/1112)](https://www.legislation.gov.uk/wsi/2007/1112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/1112/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2007/1112/regulation/11)
+[^c-90a7e8e664a3a2d982bf9acdf43534c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (1.4.2007) by [The National Health Service (Pharmaceutical Services) (Remuneration for Persons providing Pharmaceutical Services) (Amendment) (Wales) Regulations 2007 (S.I. 2007/1112)](https://www.legislation.gov.uk/wsi/2007/1112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/1112/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2007/1112/regulation/11)
 
-[^key-e491d1e1b97ee649c6f20104f5a9d79f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (1.10.2020) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (S.I. 2020/1073)](https://www.legislation.gov.uk/wsi/2020/1073), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2), [Sch. 8 para. 5](https://www.legislation.gov.uk/wsi/2020/1073/schedule/8/paragraph/5)
+[^c-e491d1e1b97ee649c6f20104f5a9d79f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (1.10.2020) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (S.I. 2020/1073)](https://www.legislation.gov.uk/wsi/2020/1073), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2), [Sch. 8 para. 5](https://www.legislation.gov.uk/wsi/2020/1073/schedule/8/paragraph/5)
 
 [^f00006]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
 [^f00007]: Footnote: S.I. [2004/478 (W.48)](https://www.legislation.gov.uk/wsi/2004/478) as last amended by S.I. [2006/945 (W.94)](https://www.legislation.gov.uk/wsi/2006/945).
 
-[^key-cf0f4653f0bec4d3c87e6cdb0a90c1f4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(2)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/2)
+[^c-cf0f4653f0bec4d3c87e6cdb0a90c1f4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(2)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/2)
 
-[^key-634eada3df74954a9ef2b94ea665c06e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 22(2)(a)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/22/2/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-634eada3df74954a9ef2b94ea665c06e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 22(2)(a)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/22/2/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-e736a65fb8f990126fb97de2f9e791d6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (19.7.2010) by [The National Health Service (Miscellaneous Amendments Relating to Independent Prescribing) (Wales) Regulations 2010 (S.I. 2010/1647)](https://www.legislation.gov.uk/wsi/2010/1647), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/4/2/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2010/1647/regulation/5))
+[^c-e736a65fb8f990126fb97de2f9e791d6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (19.7.2010) by [The National Health Service (Miscellaneous Amendments Relating to Independent Prescribing) (Wales) Regulations 2010 (S.I. 2010/1647)](https://www.legislation.gov.uk/wsi/2010/1647), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/4/2/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2010/1647/regulation/5))
 
-[^key-7648c0aff93a340dc27205521a54e76e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (19.7.2010) by [The National Health Service (Miscellaneous Amendments Relating to Independent Prescribing) (Wales) Regulations 2010 (S.I. 2010/1647)](https://www.legislation.gov.uk/wsi/2010/1647), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2010/1647/regulation/5))
+[^c-7648c0aff93a340dc27205521a54e76e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (19.7.2010) by [The National Health Service (Miscellaneous Amendments Relating to Independent Prescribing) (Wales) Regulations 2010 (S.I. 2010/1647)](https://www.legislation.gov.uk/wsi/2010/1647), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2010/1647/regulation/5))
 
 [^f00008]: Footnote: Section 16BA of the Act is replaced by section 11 of the National Health Service (Wales) Act 2006 with effect from 1 March 2007.
 
 [^f00009]: Footnote: S.I. [2001/253](https://www.legislation.gov.uk/uksi/2001/253).
 
-[^key-a1c73655b157091131cc2832147cc22a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/a)
+[^c-a1c73655b157091131cc2832147cc22a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/a)
 
 [^f00010]: Footnote: Primary medical services are provided under Part 4 of the National Health Service (Wales) Act 2006 with effect from 1 March 2007.
 
-[^key-a452a79b653d052f139db6feaff2d669]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/4/2)
+[^c-a452a79b653d052f139db6feaff2d669]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/4/2)
 
-[^key-556dedef1e8afa193ec2578b0e76abdc]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (24.9.2014) by virtue of [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [4(3)(i)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/4/3/i)
+[^c-556dedef1e8afa193ec2578b0e76abdc]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (24.9.2014) by virtue of [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [4(3)(i)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/4/3/i)
 
-[^key-e6e1a90a8b775b57e20713df422f3afb]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/uksi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2291/regulation/1/1), [4(3)(ii)](https://www.legislation.gov.uk/uksi/2014/2291/regulation/4/3/ii)
+[^c-e6e1a90a8b775b57e20713df422f3afb]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/uksi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2291/regulation/1/1), [4(3)(ii)](https://www.legislation.gov.uk/uksi/2014/2291/regulation/4/3/ii)
 
-[^key-5b19988ad2f0de016f7b058f8e68a664]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [4(3)(ii)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/4/3/ii)
+[^c-5b19988ad2f0de016f7b058f8e68a664]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [4(3)(ii)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/4/3/ii)
 
-[^key-3e15768bf81a4fa209c07b66ca40a539]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (9.1.2017) by virtue of [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(a)(i)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/a/i)
+[^c-3e15768bf81a4fa209c07b66ca40a539]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (9.1.2017) by virtue of [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(a)(i)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/a/i)
 
-[^key-c3ad09ca903c132bead1d746257e7286]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/a/ii)
+[^c-c3ad09ca903c132bead1d746257e7286]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/a/ii)
 
-[^key-9b29dc33603b474c693a6f36500bf158]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1): comma substituted for word (22.2.2019) by virtue of [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/uksi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/149/regulation/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/149/regulation/3/2/b/i)
+[^c-9b29dc33603b474c693a6f36500bf158]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1): comma substituted for word (22.2.2019) by virtue of [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/uksi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/149/regulation/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/149/regulation/3/2/b/i)
 
-[^key-55fbcc761bd12436ae4cb613fc19045a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/a/iii)
+[^c-55fbcc761bd12436ae4cb613fc19045a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/a/iii)
 
-[^key-541dc7797540c892553936a4e7bd2c97]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/b/ii)
+[^c-541dc7797540c892553936a4e7bd2c97]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/b/ii)
 
-[^key-5e11fbdd7cf5d6948ba4ab7ec9ddad40]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/b/iii)
+[^c-5e11fbdd7cf5d6948ba4ab7ec9ddad40]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/b/iii)
 
-[^key-8b6cc0fa9c40551c899133aac95ca258]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 104(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/104/2)
+[^c-8b6cc0fa9c40551c899133aac95ca258]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 104(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/104/2)
 
 [^f00012]: Footnote: Medical, dental, ophthalmic and pharmaceutical services are provided under Parts 4, 5, 6, and 7 of the National Health Service (Wales) Act 2006 respectively with effect from 1 March 2007.
 
 [^f00013]: Footnote: [1988 c. 49](https://www.legislation.gov.uk/ukpga/1988/49).
 
-[^key-1bbdb1f32a1789b7d2d4defeace97ade]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 91(2)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/91/2) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-1bbdb1f32a1789b7d2d4defeace97ade]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 91(2)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/91/2) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-b4e6a6145e64c0c93c8f774d9db6c30b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 358(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/358/1) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b4e6a6145e64c0c93c8f774d9db6c30b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 358(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/358/1) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6f7338c5e1c9e08894bf25f89446e99f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 55](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/55) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-6f7338c5e1c9e08894bf25f89446e99f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 55](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/55) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-429160a16cdd43af278e06371f50beeb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 22(2)(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/22/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-429160a16cdd43af278e06371f50beeb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 22(2)(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/22/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^f00017]: Footnote: S.I. [2001/254](https://www.legislation.gov.uk/uksi/2001/254).
 
-[^key-e715e93a17923c3707ca0a21d53e2dbd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/b)
+[^c-e715e93a17923c3707ca0a21d53e2dbd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/b)
 
-[^key-148e5ae62b1670734759f3b8d06b5472]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/c)
+[^c-148e5ae62b1670734759f3b8d06b5472]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/c)
 
 [^f00018]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44).
 
-[^key-58a5fe252678d7f26c24969362c2ba1b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (19.7.2010) by [The National Health Service (Miscellaneous Amendments Relating to Independent Prescribing) (Wales) Regulations 2010 (S.I. 2010/1647)](https://www.legislation.gov.uk/wsi/2010/1647), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1), [4(2)(d)(i)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/4/2/d/i) (with [reg. 5](https://www.legislation.gov.uk/wsi/2010/1647/regulation/5))
+[^c-58a5fe252678d7f26c24969362c2ba1b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (19.7.2010) by [The National Health Service (Miscellaneous Amendments Relating to Independent Prescribing) (Wales) Regulations 2010 (S.I. 2010/1647)](https://www.legislation.gov.uk/wsi/2010/1647), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1), [4(2)(d)(i)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/4/2/d/i) (with [reg. 5](https://www.legislation.gov.uk/wsi/2010/1647/regulation/5))
 
-[^key-712f385576f1525dd486a7a083935c97]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 22(2)(c)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/22/2/c); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-712f385576f1525dd486a7a083935c97]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 22(2)(c)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/22/2/c); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-479d5fd659424379dab1a4179e9d89ba]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (9.1.2017) by virtue of [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(c)(i)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/c/i)
+[^c-479d5fd659424379dab1a4179e9d89ba]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (9.1.2017) by virtue of [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(c)(i)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/c/i)
 
-[^key-a8a2060de15e8fa260f18f6ea0c243e9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/c/ii)
+[^c-a8a2060de15e8fa260f18f6ea0c243e9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [4(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/4/3/c/ii)
 
-[^key-a163e99c145c5bc804853daf56b9709c]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (22.2.2019) by virtue of [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(d)(i)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/d/i)
+[^c-a163e99c145c5bc804853daf56b9709c]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) omitted (22.2.2019) by virtue of [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(d)(i)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/d/i)
 
-[^key-fd1f932f777678f6aa5c563304e55f13]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(d)(ii)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/d/ii)
+[^c-fd1f932f777678f6aa5c563304e55f13]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [3(2)(d)(ii)](https://www.legislation.gov.uk/wsi/2019/149/regulation/3/2/d/ii)
 
-[^key-08dd1916e475f6a36c0af8bf5ccb5a9b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (19.7.2010) by [The National Health Service (Miscellaneous Amendments Relating to Independent Prescribing) (Wales) Regulations 2010 (S.I. 2010/1647)](https://www.legislation.gov.uk/wsi/2010/1647), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1), [4(2)(d)(ii)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/4/2/d/ii) (with [reg. 5](https://www.legislation.gov.uk/wsi/2010/1647/regulation/5))
+[^c-08dd1916e475f6a36c0af8bf5ccb5a9b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/1) inserted (19.7.2010) by [The National Health Service (Miscellaneous Amendments Relating to Independent Prescribing) (Wales) Regulations 2010 (S.I. 2010/1647)](https://www.legislation.gov.uk/wsi/2010/1647), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1), [4(2)(d)(ii)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/4/2/d/ii) (with [reg. 5](https://www.legislation.gov.uk/wsi/2010/1647/regulation/5))
 
 [^f00019]: Footnote: S.I. [1988/551](https://www.legislation.gov.uk/uksi/1988/551), as last amended by S.I. [2006/2791 (W.232)](https://www.legislation.gov.uk/wsi/2006/2791).
 
-[^key-63705568682696d7ffed0a86ed8123d0]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/2A) inserted (19.7.2010) by [The National Health Service (Miscellaneous Amendments Relating to Independent Prescribing) (Wales) Regulations 2010 (S.I. 2010/1647)](https://www.legislation.gov.uk/wsi/2010/1647), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1), [4(3)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/4/3) (with [reg. 5](https://www.legislation.gov.uk/wsi/2010/1647/regulation/5))
+[^c-63705568682696d7ffed0a86ed8123d0]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/2A) inserted (19.7.2010) by [The National Health Service (Miscellaneous Amendments Relating to Independent Prescribing) (Wales) Regulations 2010 (S.I. 2010/1647)](https://www.legislation.gov.uk/wsi/2010/1647), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1), [4(3)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/4/3) (with [reg. 5](https://www.legislation.gov.uk/wsi/2010/1647/regulation/5))
 
-[^key-8a828bcd74a1af0ca080fce14cb0a37b]: Textual amendment: Words in [reg. 2(2A)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/2A) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 91(3)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/91/3) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-8a828bcd74a1af0ca080fce14cb0a37b]: Textual amendment: Words in [reg. 2(2A)](https://www.legislation.gov.uk/wsi/2007/121/regulation/2/2A) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 91(3)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/91/3) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^f00020]: Footnote: S.I. [2004/477 (W.47)](https://www.legislation.gov.uk/wsi/2004/477).
 
-[^key-dc8b5081876b9e05845cb2bc29329625]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2007/121/regulation/3) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-dc8b5081876b9e05845cb2bc29329625]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2007/121/regulation/3) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
 [^f00021]: Footnote: Section 16CC(2) of the Act is replaced by section 41(2) of the National Health Service (Wales) Act 2006 with effect from 1 March 2007.
 
-[^key-1a7773cfb2a1d332e085a3c882baab6b]: Textual amendment: [Reg. 3(10)](https://www.legislation.gov.uk/wsi/2007/121/regulation/3/10) substituted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/3/2)
+[^c-1a7773cfb2a1d332e085a3c882baab6b]: Textual amendment: [Reg. 3(10)](https://www.legislation.gov.uk/wsi/2007/121/regulation/3/10) substituted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/3/2)
 
-[^key-93d4e3871fc0525490d51ebd4237be59]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2007/121/regulation/4) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-93d4e3871fc0525490d51ebd4237be59]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2007/121/regulation/4) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-fc23b6cc94b3ae0c6bfad34babf7e16d]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/wsi/2007/121/regulation/4/7) substituted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/4/2)
+[^c-fc23b6cc94b3ae0c6bfad34babf7e16d]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/wsi/2007/121/regulation/4/7) substituted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/4/2)
 
-[^key-9a40222a5759b0f393d617900d2c24e6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2007/121/regulation/5) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-9a40222a5759b0f393d617900d2c24e6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2007/121/regulation/5) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-adde517238770d6baaedbe6bb99ca030]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2007/121/regulation/6) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-adde517238770d6baaedbe6bb99ca030]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2007/121/regulation/6) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-1c9193f47e9453bbf27d4a4b30cc32b6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2007/121/regulation/7) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-1c9193f47e9453bbf27d4a4b30cc32b6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2007/121/regulation/7) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-5b1acd0bc30006b65e18daa5cdfb84b4]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2007/121/regulation/7/2) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 91(4)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/91/4) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-5b1acd0bc30006b65e18daa5cdfb84b4]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2007/121/regulation/7/2) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 91(4)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/91/4) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-3c2eadb0f7c0d9137334d92d2001f5c9]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/wsi/2007/121/regulation/7A) inserted (8.5.2009) by [The National Health Service (Charges) (Amendments Relating to Pandemic Influenza) (Wales) Regulations 2009 (S.I. 2009/1175)](https://www.legislation.gov.uk/wsi/2009/1175), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/1175/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/1175/regulation/2/2)
+[^c-3c2eadb0f7c0d9137334d92d2001f5c9]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/wsi/2007/121/regulation/7A) inserted (8.5.2009) by [The National Health Service (Charges) (Amendments Relating to Pandemic Influenza) (Wales) Regulations 2009 (S.I. 2009/1175)](https://www.legislation.gov.uk/wsi/2009/1175), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/1175/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/1175/regulation/2/2)
 
-[^key-59b18f7a95cc6231c5337a6ec4fdec59]: Textual amendment: Words in [reg. 7A(1)(b)](https://www.legislation.gov.uk/wsi/2007/121/regulation/7A/1/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 91(5)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/91/5) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-59b18f7a95cc6231c5337a6ec4fdec59]: Textual amendment: Words in [reg. 7A(1)(b)](https://www.legislation.gov.uk/wsi/2007/121/regulation/7A/1/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 91(5)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/91/5) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-4529f7f9bc27cfd842997b96b48fae64]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2007/121/regulation/8) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-4529f7f9bc27cfd842997b96b48fae64]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2007/121/regulation/8) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
 [^f00024]: Footnote: Sub-paragraphs (1)(a) to (d) of paragraph 1 of Schedule 12 to the Act is replaced by sub-paragraphs (1)(a) to (d) respectively of section 122 of the National Health Service (Wales) Act 2006 with effect from 1 March 2006.
 
 [^f00025]: Footnote: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20).
 
-[^key-4fe4d690422f8b938590238329a063a6]: Textual amendment: [Reg. 8(1)(ea)](https://www.legislation.gov.uk/wsi/2007/121/regulation/8/1/ea)[(eb)](https://www.legislation.gov.uk/wsi/2007/121/regulation/8/1/eb) inserted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2009/2607/regulation/5)
+[^c-4fe4d690422f8b938590238329a063a6]: Textual amendment: [Reg. 8(1)(ea)](https://www.legislation.gov.uk/wsi/2007/121/regulation/8/1/ea)[(eb)](https://www.legislation.gov.uk/wsi/2007/121/regulation/8/1/eb) inserted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2009/2607/regulation/5)
 
-[^key-1bf286eafd3975182d160140404c126e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2007/121/regulation/9) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-1bf286eafd3975182d160140404c126e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2007/121/regulation/9) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-e00d7c071fe8e47c1623382319f16eeb]: Textual amendment: [Reg. 9(1)(d)](https://www.legislation.gov.uk/wsi/2007/121/regulation/9/1/d) and semi colon inserted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/uksi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2607/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2009/2607/regulation/6/2/a)
+[^c-e00d7c071fe8e47c1623382319f16eeb]: Textual amendment: [Reg. 9(1)(d)](https://www.legislation.gov.uk/wsi/2007/121/regulation/9/1/d) and semi colon inserted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/uksi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2607/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2009/2607/regulation/6/2/a)
 
-[^key-037a7105f87d20529e73ca8a6963643a]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/9/1) substituted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/6/2/b)
+[^c-037a7105f87d20529e73ca8a6963643a]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/9/1) substituted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/6/2/b)
 
-[^key-f110203181f22d5e2cfff17e3e035f8f]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/wsi/2007/121/regulation/9/3) substituted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/6/3)
+[^c-f110203181f22d5e2cfff17e3e035f8f]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/wsi/2007/121/regulation/9/3) substituted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/6/3)
 
-[^key-d9c93868b85b6ad67b8b9b2be7466b6d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2007/121/regulation/10) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-d9c93868b85b6ad67b8b9b2be7466b6d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2007/121/regulation/10) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-0ef804cc8824e74503ebf4c3359f86e8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2007/121/regulation/11) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-0ef804cc8824e74503ebf4c3359f86e8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2007/121/regulation/11) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-f6ce1a7cc1021d6f0fc1800fd3363215]: Textual amendment: Words in [reg. 11(3)(b)](https://www.legislation.gov.uk/wsi/2007/121/regulation/11/3/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/23/2)
+[^c-f6ce1a7cc1021d6f0fc1800fd3363215]: Textual amendment: Words in [reg. 11(3)(b)](https://www.legislation.gov.uk/wsi/2007/121/regulation/11/3/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/23/2)
 
-[^key-efafaf4173bba60ebde8ef81dea90b7f]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/wsi/2007/121/regulation/11A) inserted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [7(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/7/1)
+[^c-efafaf4173bba60ebde8ef81dea90b7f]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/wsi/2007/121/regulation/11A) inserted (20.10.2009) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) (Amendment) Regulations 2009 (S.I. 2009/2607)](https://www.legislation.gov.uk/wsi/2009/2607), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/1/1), [7(1)](https://www.legislation.gov.uk/wsi/2009/2607/regulation/7/1)
 
-[^key-7228e51d13766ec50b49209345d10bcc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2007/121/regulation/12) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-7228e51d13766ec50b49209345d10bcc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2007/121/regulation/12) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-5e86fd9759503c1f077f3e8600fe19fd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2007/121/regulation/13) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-5e86fd9759503c1f077f3e8600fe19fd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2007/121/regulation/13) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-d14975a6ff5dc78b28fed49996d55ef3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2007/121/regulation/14) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-d14975a6ff5dc78b28fed49996d55ef3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2007/121/regulation/14) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
 [^f00026]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-7289b0ff569749d0a1de33c9e75f360b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2007/121/schedule/1/paragraph/1) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-7289b0ff569749d0a1de33c9e75f360b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2007/121/schedule/1/paragraph/1) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-a59285f498523561ca5236be4827f23f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2007/121/schedule/1/paragraph/2) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-a59285f498523561ca5236be4827f23f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2007/121/schedule/1/paragraph/2) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-116654e8f512cc6fe39306e0be219767]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2007/121/schedule/2/paragraph/1) revoked (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/wsi/2013/898), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/898/regulation/1/2), [Sch. 8 para. 18](https://www.legislation.gov.uk/wsi/2013/898/schedule/8/paragraph/18)
+[^c-116654e8f512cc6fe39306e0be219767]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2007/121/schedule/2/paragraph/1) revoked (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/wsi/2013/898), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/898/regulation/1/2), [Sch. 8 para. 18](https://www.legislation.gov.uk/wsi/2013/898/schedule/8/paragraph/18)
 
-[^key-71cf74924afdb613f1ca0dc1c1e4a7fa]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2007/121/schedule/2/paragraph/1) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-71cf74924afdb613f1ca0dc1c1e4a7fa]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2007/121/schedule/2/paragraph/1) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-a170874562d8b6a262242ebeb26595ca]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2007/121/schedule/2/paragraph/2) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-a170874562d8b6a262242ebeb26595ca]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2007/121/schedule/2/paragraph/2) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-3adf4276512285af31154b275a58bc1a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2007/121/schedule/2/paragraph/3) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-3adf4276512285af31154b275a58bc1a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2007/121/schedule/2/paragraph/3) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
-[^key-42d308cd9427f1ac61aeaebdbcba1c1d]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2007/121/schedule/3) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
+[^c-42d308cd9427f1ac61aeaebdbcba1c1d]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2007/121/schedule/3) in force at 1.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/121/regulation/1/1)
 
 [^f00027]: Footnote: S.I. [2001/1358 (W.86)](https://www.legislation.gov.uk/wsi/2001/1358).
 

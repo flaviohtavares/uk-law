@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37A. Disqualification from driving: further provision[^key-ab0c80beec02a133a891ef415f3612e6][^c16851801]
+## 37A. Disqualification from driving: further provision[^c-ab0c80beec02a133a891ef415f3612e6][^c16851801]
 
 *Extent: N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 it shall send notice of that fact to the Department; and the notice shall contain such particulars and be sent in such manner and to such address as the Department may determine.
 
-(9) Where a court makes a disqualification order, it shall also send any driving[^key-a302e8f050851c21cc854ce0e529e93d] licence and its counterpart, on their being produced to the court, to the Department at such address as the Department may determine.
+(9) Where a court makes a disqualification order, it shall also send any driving[^c-a302e8f050851c21cc854ce0e529e93d] licence and its counterpart, on their being produced to the court, to the Department at such address as the Department may determine.
 
 (10) Article 110 of the Magistrates' Courts (Northern Ireland) Order 1981 (application of sums found upon defaulter) shall apply in relation to a disqualification order under this Article in relation to a liable person as it applies in relation to the enforcement of a sum mentioned in paragraph (1) of that Article.
 
@@ -59,8 +59,8 @@ it shall send notice of that fact to the Department; and the notice shall contai
 
 ## Annotations
 
-[^key-ab0c80beec02a133a891ef415f3612e6]: Modification: [Art. 37A](https://www.legislation.gov.uk/nisi/1991/2628/article/37A) excluded (30.6.2014) by [The Child Support Fees Regulations (Northern Ireland) 2014 (S.R. 2014/182)](https://www.legislation.gov.uk/nisr/2014/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/182/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/nisr/2014/182/regulation/9/2/c)
+[^c-ab0c80beec02a133a891ef415f3612e6]: Modification: [Art. 37A](https://www.legislation.gov.uk/nisi/1991/2628/article/37A) excluded (30.6.2014) by [The Child Support Fees Regulations (Northern Ireland) 2014 (S.R. 2014/182)](https://www.legislation.gov.uk/nisr/2014/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/182/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/nisr/2014/182/regulation/9/2/c)
 
 [^c16851801]: Textual amendment: [2000 c. 4 (NI)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-a302e8f050851c21cc854ce0e529e93d]: Textual amendment: Words in [art. 37A(9)](https://www.legislation.gov.uk/nisi/1991/2628/article/37A/9) substituted (14.12.2010) by [The Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916)](https://www.legislation.gov.uk/nisi/2007/916), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3)[(4)](https://www.legislation.gov.uk/nisi/2007/916/article/1/4)[(5)](https://www.legislation.gov.uk/nisi/2007/916/article/1/5), [Sch. 4 para. 1](https://www.legislation.gov.uk/nisi/2007/916/schedule/4/paragraph/1) (with [art. 84](https://www.legislation.gov.uk/nisi/2007/916/article/84)); [S.R. 2010/370](https://www.legislation.gov.uk/nisr/2010/370), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/370/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2010/370/schedule/part/II)
+[^c-a302e8f050851c21cc854ce0e529e93d]: Textual amendment: Words in [art. 37A(9)](https://www.legislation.gov.uk/nisi/1991/2628/article/37A/9) substituted (14.12.2010) by [The Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916)](https://www.legislation.gov.uk/nisi/2007/916), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3)[(4)](https://www.legislation.gov.uk/nisi/2007/916/article/1/4)[(5)](https://www.legislation.gov.uk/nisi/2007/916/article/1/5), [Sch. 4 para. 1](https://www.legislation.gov.uk/nisi/2007/916/schedule/4/paragraph/1) (with [art. 84](https://www.legislation.gov.uk/nisi/2007/916/article/84)); [S.R. 2010/370](https://www.legislation.gov.uk/nisr/2010/370), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/370/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2010/370/schedule/part/II)

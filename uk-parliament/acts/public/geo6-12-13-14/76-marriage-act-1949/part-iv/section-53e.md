@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53E. Registration of marriage where documentation lost or destroyed[^key-c3312bff7659759277fecfeb795938a1][^key-db5ca8d522361c2dd12489899f74c068]
+## 53E. Registration of marriage where documentation lost or destroyed[^c-c3312bff7659759277fecfeb795938a1][^c-db5ca8d522361c2dd12489899f74c068]
 
 *Extent: E+W*
 
@@ -98,6 +98,6 @@ requiring the reproduction to be delivered to the registrar within 8 days beginn
 
 ## Annotations
 
-[^key-c3312bff7659759277fecfeb795938a1]: Modification: S. 53E applied (with modifications) (4.5.2021) by 1970 c. 34, s. 15 (as amended by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 56(11)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/56/11) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2)))
+[^c-c3312bff7659759277fecfeb795938a1]: Modification: S. 53E applied (with modifications) (4.5.2021) by 1970 c. 34, s. 15 (as amended by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 56(11)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/56/11) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2)))
 
-[^key-db5ca8d522361c2dd12489899f74c068]: Textual amendment: Ss. 53A-53E inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(4)(b)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/4/b)[(5)(a)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/a), [7](https://www.legislation.gov.uk/uksi/2021/411/regulation/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-db5ca8d522361c2dd12489899f74c068]: Textual amendment: Ss. 53A-53E inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(4)(b)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/4/b)[(5)(a)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/a), [7](https://www.legislation.gov.uk/uksi/2021/411/regulation/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))

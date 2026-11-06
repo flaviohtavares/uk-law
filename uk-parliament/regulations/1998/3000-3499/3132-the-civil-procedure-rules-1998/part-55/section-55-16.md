@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55.16. Consideration of the claim[^key-6d372728ca614d30331c2a6aa037d325]
+## 55.16. Consideration of the claim[^c-6d372728ca614d30331c2a6aa037d325]
 
 *Extent: E+W*
 
 (1) After considering the claim and any defence, the judge will—
 
 - (a) make an order for possession under rule 55.17;
-- (b) where the judge[^key-f12318fd41b8de1bcab6b34775ea5306] is not satisfied as to any of the matters set out in paragraph (2)—
+- (b) where the judge[^c-f12318fd41b8de1bcab6b34775ea5306] is not satisfied as to any of the matters set out in paragraph (2)—
   - (i) direct that a date be fixed for a hearing; and
   - (ii) give any appropriate case management directions; or
 - (c) strike out the claim if the claim form discloses no reasonable grounds for bringing the claim.
 
-(1A)[^key-0555f93e99761215c5571f045af322f8] If—
+(1A)[^c-0555f93e99761215c5571f045af322f8] If—
 
 - (a) the judge directs that a date be fixed for hearing in accordance either with paragraph (2) or rule 55.18(1); and
 - (b) the claim has not been brought in the County Court hearing centre which serves the address where the land is situated,
@@ -49,8 +49,8 @@ the judge will direct that the proceedings should be transferred to that hearing
 
 ## Annotations
 
-[^key-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
 
-[^key-f12318fd41b8de1bcab6b34775ea5306]: Textual amendment: Words in [rule 55.16(1)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.16/1/b) substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [22(d)(i)](https://www.legislation.gov.uk/uksi/2014/407/rule/22/d/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
+[^c-f12318fd41b8de1bcab6b34775ea5306]: Textual amendment: Words in [rule 55.16(1)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.16/1/b) substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [22(d)(i)](https://www.legislation.gov.uk/uksi/2014/407/rule/22/d/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
 
-[^key-0555f93e99761215c5571f045af322f8]: Textual amendment: [Rule 55.16(1A)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.16/1A) inserted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [22(d)(ii)](https://www.legislation.gov.uk/uksi/2014/407/rule/22/d/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
+[^c-0555f93e99761215c5571f045af322f8]: Textual amendment: [Rule 55.16(1A)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.16/1A) inserted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [22(d)(ii)](https://www.legislation.gov.uk/uksi/2014/407/rule/22/d/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)

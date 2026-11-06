@@ -96,16 +96,16 @@ Table
 
 (2) Those persons are—
 
-- (a) the CMA[^key-09d643a8c4e4f2f667a9e357108c2128],
+- (a) the CMA[^c-09d643a8c4e4f2f667a9e357108c2128],
 - (b) the Consumer Panel,
 - (c) the Lord Chief Justice, and
 - (d) such other persons as the Board considers it reasonable to consult regarding the application.
 
 (3) In this Part of this Schedule, in relation to an application, “**selected consultee**” means a person within sub-paragraph (2)(d).
 
-#### Advice of Competition and Markets Authority[^key-2fec72b24292df49dfe961e0c650b3e7]
+#### Advice of Competition and Markets Authority[^c-2fec72b24292df49dfe961e0c650b3e7]
 
-**6.** (1) The CMA[^key-cf66c392ce6c26ebff15d6a3ef9c6ee3] must give the Board such advice as the CMA thinks fit regarding whether the application should be granted.
+**6.** (1) The CMA[^c-cf66c392ce6c26ebff15d6a3ef9c6ee3] must give the Board such advice as the CMA thinks fit regarding whether the application should be granted.
 
 (2) In deciding what advice to give, the CMA must, in particular, have regard to whether making an order under paragraph 17 in accordance with the recommendation applied for would (or would be likely to) prevent, restrict or distort competition within the market for reserved legal services to any significant extent.
 
@@ -220,7 +220,7 @@ the Board must decide whether to grant the application.
 
 (5) The Board may issue a notice under sub-paragraph (3) only after it has consulted—
 
-- (a) the CMA[^key-11fdcaf4d26b63041e738c32c56c7713],
+- (a) the CMA[^c-11fdcaf4d26b63041e738c32c56c7713],
 - (b) the Consumer Panel, and
 - (c) the Lord Chief Justice.
 
@@ -283,7 +283,7 @@ within the period of 90 days beginning with the day on which the recommendation 
 - (c) it is an exempt alteration,
 - (d) it is an alteration made in compliance with a direction under section 32,
 - (e) it is approved by virtue of paragraph 16 of Schedule 10 (approval of licensing rules on designation by order as licensing authority), or
-- (f)[^key-3be2552bcfa9b908c7bc9254b842b135] it is approved by virtue of paragraph 7 of Schedule 18 (approval of proposed regulatory arrangements when granting “**qualifying regulator**” status for the purposes of Part 5 of the Immigration and Asylum Act 1999 (c. 33)).
+- (f)[^c-3be2552bcfa9b908c7bc9254b842b135] it is approved by virtue of paragraph 7 of Schedule 18 (approval of proposed regulatory arrangements when granting “**qualifying regulator**” status for the purposes of Part 5 of the Immigration and Asylum Act 1999 (c. 33)).
 
 (3) An exempt alteration is an alteration which the Board has directed is to be treated as exempt for the purposes of this paragraph.
 
@@ -451,18 +451,18 @@ the Board must decide whether to grant the application.
 
 [^c20322531]: Commencement: Sch. 4 para. 4 wholly in force at 1.1.2010; Sch. 4 para. not in force at Royal Assent see s. 211; Sch. 4 para. 3(1)(3)(4) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/b/ii); Sch. 4 para. 4 in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250) {art. 2(b)(ii)} (with art. 9)
 
-[^key-09d643a8c4e4f2f667a9e357108c2128]: Textual amendment: Word in [Sch. 4 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/4/paragraph/5/2/a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 117(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/117/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-09d643a8c4e4f2f667a9e357108c2128]: Textual amendment: Word in [Sch. 4 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/4/paragraph/5/2/a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 117(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/117/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-2fec72b24292df49dfe961e0c650b3e7]: Textual amendment: Words in [Sch. 4 para. 6 cross-heading](https://www.legislation.gov.uk/ukpga/2007/29/schedule/4/part/2/crossheading/advice-of-office-of-fair-trading) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 117(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/117/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-2fec72b24292df49dfe961e0c650b3e7]: Textual amendment: Words in [Sch. 4 para. 6 cross-heading](https://www.legislation.gov.uk/ukpga/2007/29/schedule/4/part/2/crossheading/advice-of-office-of-fair-trading) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 117(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/117/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-cf66c392ce6c26ebff15d6a3ef9c6ee3]: Textual amendment: Word in Sch. 4 para. 6(1) (2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 117(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/117/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-cf66c392ce6c26ebff15d6a3ef9c6ee3]: Textual amendment: Word in Sch. 4 para. 6(1) (2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 117(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/117/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c20322571]: Commencement: Sch. 4 para. 11 wholly in force at 1.1.2010; Sch. 4 para. 11 not in force at Royal Assent see s. 211; Sch. 4 para. 11(3) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/b/ii); Sch. 4 para. 11 in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/b/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-11fdcaf4d26b63041e738c32c56c7713]: Textual amendment: Word in [Sch. 4 para. 15(5)(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/4/paragraph/15/5/a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 117(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/117/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-11fdcaf4d26b63041e738c32c56c7713]: Textual amendment: Word in [Sch. 4 para. 15(5)(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/4/paragraph/15/5/a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 117(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/117/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c20581591]: Commencement: Sch. 4 para. 19 partly in force; Sch. 4 para. 19 not in force at Royal Assent see s. 211; Sch. 4 para. 19(1)(2)(a)-(e)(3)-(7) in force at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/b/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-3be2552bcfa9b908c7bc9254b842b135]: Commencement: Sch. 4 para. 19(2)(f) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/720/article/2/b)
+[^c-3be2552bcfa9b908c7bc9254b842b135]: Commencement: Sch. 4 para. 19(2)(f) in force at 1.4.2011 by [S.I. 2011/720](https://www.legislation.gov.uk/uksi/2011/720), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/720/article/2/b)
 
 [^c20322581]: Commencement: Sch. 4 para. 23 wholly in force at 1.1.2010; Sch. 4 para. 23 not in force at Royal Assent see s. 211; Sch. 4 para. 23(3) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/b/ii); Sch. 4 para. 23 in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/b/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Power to revoke licences[^c690339][^key-3e04bf148ffe080dedf168a68ad42a59]
+## 93. Power to revoke licences[^c690339][^c-3e04bf148ffe080dedf168a68ad42a59]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ This is subject to subsection (6).
 
 [^c690339]: Commencement: S. 93 wholly in force at 16.6.2006; s. 93 in force for certain purposes at Royal Assent see s. 270(2)(b); s. 93 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 93 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-3e04bf148ffe080dedf168a68ad42a59]: Textual amendment: S. 93 heading substituted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/10); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-3e04bf148ffe080dedf168a68ad42a59]: Textual amendment: S. 93 heading substituted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/10); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)

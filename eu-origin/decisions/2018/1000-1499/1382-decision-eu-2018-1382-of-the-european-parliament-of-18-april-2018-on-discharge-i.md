@@ -31,10 +31,10 @@ Decision (EU) 2018/1382 of the European Parliament
 
 of 18 April 2018 on discharge in respect of the implementation of the budget of the European Insurance and Occupational Pensions Authority for the financial year 2016 (revoked)
 
-[^key-53370545c3bc79d939a33bd9bca486b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53370545c3bc79d939a33bd9bca486b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-53370545c3bc79d939a33bd9bca486b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-53370545c3bc79d939a33bd9bca486b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53370545c3bc79d939a33bd9bca486b9]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(m)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/m); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53370545c3bc79d939a33bd9bca486b9]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(m)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/m); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

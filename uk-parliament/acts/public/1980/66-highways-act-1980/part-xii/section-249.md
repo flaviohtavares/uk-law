@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-c15a3fe8db57fdfefa6758aaf185b37d] .Subject to subsection (3) below, a highway authority shall not in the exercise of a power to acquire land under any of the provisions of this Act specified in column 1 of Part I of Schedule 18 to this Act require compulsorily land lying beyond the limit specified in relation to that power in column 2 of that Schedule.
+(1)[^c-c15a3fe8db57fdfefa6758aaf185b37d] .Subject to subsection (3) below, a highway authority shall not in the exercise of a power to acquire land under any of the provisions of this Act specified in column 1 of Part I of Schedule 18 to this Act require compulsorily land lying beyond the limit specified in relation to that power in column 2 of that Schedule.
 
 (2) Part II of Schedule 18 has effect with respect to limits specified in Part I of that Schedule.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c15a3fe8db57fdfefa6758aaf185b37d]: Modification: [S. 249(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/249/1) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(g)(ii)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/g/ii)
+[^c-c15a3fe8db57fdfefa6758aaf185b37d]: Modification: [S. 249(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/249/1) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(g)(ii)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/g/ii)

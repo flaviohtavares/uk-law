@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Recovery and enforcement of charges[^key-3ac2483082391780cd298209c2ce965d]
+## 37. Recovery and enforcement of charges[^c-3ac2483082391780cd298209c2ce965d]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ac2483082391780cd298209c2ce965d]: Commencement: Art. 37 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-3ac2483082391780cd298209c2ce965d]: Commencement: Art. 37 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

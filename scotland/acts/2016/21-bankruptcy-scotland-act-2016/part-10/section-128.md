@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Voting and drawing a dividend[^key-3b3c51bcc7fd1ed3b79679f172b30a14]
+## 128. Voting and drawing a dividend[^c-3b3c51bcc7fd1ed3b79679f172b30a14]
 
 *Extent: S*
 
@@ -32,16 +32,16 @@ summary: ''
 
 (3) No vote may be cast, by virtue of a debt, more than once on any resolution put to a meeting of creditors.
 
-(4)[^key-a24fefdf44095de6160ff0c76256676f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a24fefdf44095de6160ff0c76256676f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-a24fefdf44095de6160ff0c76256676f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a24fefdf44095de6160ff0c76256676f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-a24fefdf44095de6160ff0c76256676f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a24fefdf44095de6160ff0c76256676f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-a24fefdf44095de6160ff0c76256676f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-a24fefdf44095de6160ff0c76256676f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b3c51bcc7fd1ed3b79679f172b30a14]: Commencement: S. 128 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-3b3c51bcc7fd1ed3b79679f172b30a14]: Commencement: S. 128 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-a24fefdf44095de6160ff0c76256676f]: Textual amendment: [S. 128(4)-(7)](https://www.legislation.gov.uk/asp/2016/21/section/128/4) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(12)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/12) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a24fefdf44095de6160ff0c76256676f]: Textual amendment: [S. 128(4)-(7)](https://www.legislation.gov.uk/asp/2016/21/section/128/4) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(12)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/12) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

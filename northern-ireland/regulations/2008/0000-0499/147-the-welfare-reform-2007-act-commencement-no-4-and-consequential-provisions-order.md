@@ -37,7 +37,7 @@ Made
 
 The Department for Social Development makes the following Order in exercise of the powers conferred by sections 59 and 60(1) of the Welfare Reform Act (Northern Ireland) 2007[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-00f002265b0c5e50d8683c7072e243bc][^key-00f002265b0c5e50d8683c7072e243bc]
+## 1. Citation, commencement and interpretation[^c-00f002265b0c5e50d8683c7072e243bc][^c-00f002265b0c5e50d8683c7072e243bc]
 
 (1) This Order may be cited as the Welfare Reform (2007 Act) (Commencement No. 4 and Consequential Provisions) Order (Northern Ireland) 2008.
 
@@ -45,7 +45,7 @@ The Department for Social Development makes the following Order in exercise of t
 
 (3) In this Order any reference to a numbered section or Schedule is to the section of, or Schedule to, the Welfare Reform Act (Northern Ireland) 2007 bearing that number.
 
-## 2. Appointed day[^key-715b4d03d915526d3430aacf0152d055][^key-715b4d03d915526d3430aacf0152d055]
+## 2. Appointed day[^c-715b4d03d915526d3430aacf0152d055][^c-715b4d03d915526d3430aacf0152d055]
 
 The day appointed for the coming into operation of—
 
@@ -55,7 +55,7 @@ The day appointed for the coming into operation of—
 
 is 1st April 2008.
 
-## 3. Consequential provisions[^key-2a2b8ea26490af8644fddc2862701b51]
+## 3. Consequential provisions[^c-2a2b8ea26490af8644fddc2862701b51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -102,8 +102,8 @@ The following provisions of the Welfare Reform Act (Northern Ireland) 2007 have 
 
 [^f00001]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)
 
-[^key-00f002265b0c5e50d8683c7072e243bc]: Commencement: Art. 1 in operation at made date
+[^c-00f002265b0c5e50d8683c7072e243bc]: Commencement: Art. 1 in operation at made date
 
-[^key-715b4d03d915526d3430aacf0152d055]: Commencement: Art. 2 in operation at made date
+[^c-715b4d03d915526d3430aacf0152d055]: Commencement: Art. 2 in operation at made date
 
-[^key-2a2b8ea26490af8644fddc2862701b51]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2008/147/article/3) revoked (1.9.2011) by [The Social Security (Loss of Benefit) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/291)](https://www.legislation.gov.uk/nisr/2011/291), [reg. 1](https://www.legislation.gov.uk/nisr/2011/291/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/291/schedule)
+[^c-2a2b8ea26490af8644fddc2862701b51]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2008/147/article/3) revoked (1.9.2011) by [The Social Security (Loss of Benefit) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/291)](https://www.legislation.gov.uk/nisr/2011/291), [reg. 1](https://www.legislation.gov.uk/nisr/2011/291/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/291/schedule)

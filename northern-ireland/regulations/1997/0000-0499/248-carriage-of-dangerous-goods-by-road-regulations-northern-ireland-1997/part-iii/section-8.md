@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Carriage in bulk[^key-5e332a6f31cb0f7392bdd5b73391461c]
+## 8. Carriage in bulk[^c-5e332a6f31cb0f7392bdd5b73391461c]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e332a6f31cb0f7392bdd5b73391461c]: Commencement: Reg. 8 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-5e332a6f31cb0f7392bdd5b73391461c]: Commencement: Reg. 8 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

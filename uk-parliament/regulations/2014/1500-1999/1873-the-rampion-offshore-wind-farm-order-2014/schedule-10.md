@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — Important hedgerows[^key-efbe9ee0422e12e796469b6189ddf291]
+## SCHEDULE 10 — Important hedgerows[^c-efbe9ee0422e12e796469b6189ddf291]
 
 *Extent: E+W+S*
 
@@ -114,4 +114,4 @@ Article 37
 
 ## Annotations
 
-[^key-efbe9ee0422e12e796469b6189ddf291]: Commencement: Sch. 10 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-efbe9ee0422e12e796469b6189ddf291]: Commencement: Sch. 10 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)

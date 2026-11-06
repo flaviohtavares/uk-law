@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Relevant person's duty to attend children's hearing[^key-f8df6215932b74905bebcfc2e49931b2]
+## 74. Relevant person's duty to attend children's hearing[^c-f8df6215932b74905bebcfc2e49931b2]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8df6215932b74905bebcfc2e49931b2]: Commencement: S. 74 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-f8df6215932b74905bebcfc2e49931b2]: Commencement: S. 74 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

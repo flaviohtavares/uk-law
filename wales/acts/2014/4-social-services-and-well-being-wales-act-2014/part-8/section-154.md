@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. Power to require performance of functions by other persons on behalf of authority[^key-0fd5b296426b89ff80b50a9beb3d6f9a]
+## 154. Power to require performance of functions by other persons on behalf of authority[^c-0fd5b296426b89ff80b50a9beb3d6f9a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fd5b296426b89ff80b50a9beb3d6f9a]: Commencement: S. 154 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-0fd5b296426b89ff80b50a9beb3d6f9a]: Commencement: S. 154 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

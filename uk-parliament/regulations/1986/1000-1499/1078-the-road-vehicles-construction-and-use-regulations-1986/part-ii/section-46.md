@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Seat belt anchorage points[^key-87682d61f4c2c39d1fb7147f7aca6dbc]
+## 46. Seat belt anchorage points[^c-87682d61f4c2c39d1fb7147f7aca6dbc]
 
 *Extent: E+W+S*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87682d61f4c2c39d1fb7147f7aca6dbc]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/1986/1078/regulation/46) substituted (1.10.2001) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/1043)](https://www.legislation.gov.uk/uksi/2001/1043), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1043/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2001/1043/schedule)
+[^c-87682d61f4c2c39d1fb7147f7aca6dbc]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/1986/1078/regulation/46) substituted (1.10.2001) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/1043)](https://www.legislation.gov.uk/uksi/2001/1043), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1043/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2001/1043/schedule)

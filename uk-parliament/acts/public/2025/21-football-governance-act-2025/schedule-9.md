@@ -24,14 +24,14 @@ Section 75
 
 ### Part 1 — Sanctions relating to information etc
 
-#### 1. Introduction[^key-1aa2149ec037456e8f0af65a141f13a1][^key-9281356d1ab049eaa2883b26bef0d4fc]
+#### 1. Introduction[^c-1aa2149ec037456e8f0af65a141f13a1][^c-9281356d1ab049eaa2883b26bef0d4fc]
 
 Paragraphs 2 and 3 apply where—
 
 - (a) the IFR determines that a person (“**P**”) has, without reasonable excuse, failed to comply with an information requirement (see section 75(2)), or
 - (b) the IFR is satisfied beyond reasonable doubt that P has committed an offence under section 78.
 
-#### 2. Censure statements[^key-174efcfd0ae3712bff766a72a9a59b6e][^key-0055985d70b83f96c323e77c77e776e4]
+#### 2. Censure statements[^c-174efcfd0ae3712bff766a72a9a59b6e][^c-0055985d70b83f96c323e77c77e776e4]
 
 (1) The IFR may prepare and publish a censure statement.
 
@@ -42,7 +42,7 @@ Paragraphs 2 and 3 apply where—
 - (c) explains why the IFR determined that P failed to comply with that requirement or is satisfied that P committed the offence (as the case may be), and
 - (d) explains why the IFR considers it appropriate to publish a statement under this paragraph in respect of P.
 
-#### 3. Financial penalties[^key-86eecfc8a87be41c853dd265a76887c2][^key-bee1f1eb3887f4d49d11e1bf67c1f0da]
+#### 3. Financial penalties[^c-86eecfc8a87be41c853dd265a76887c2][^c-bee1f1eb3887f4d49d11e1bf67c1f0da]
 
 (1) The IFR may impose a financial penalty on P.
 
@@ -108,7 +108,7 @@ Paragraphs 2 and 3 apply where—
 
 ### Part 2 — Sanctions relating to relevant infringements
 
-#### 4. Censure statements[^key-5c1d3a1b543b94b0ca6d2e5a64fb0656][^key-f1395f361c61725e0c7c86b751353584]
+#### 4. Censure statements[^c-5c1d3a1b543b94b0ca6d2e5a64fb0656][^c-f1395f361c61725e0c7c86b751353584]
 
 (1) This paragraph applies where the IFR determines (whether as a result of an investigation or otherwise) that a person (“**P**”) has, without reasonable excuse, committed a relevant infringement.
 
@@ -121,7 +121,7 @@ Paragraphs 2 and 3 apply where—
 - (c) explains why the IFR determined that P has committed the relevant infringement, and
 - (d) explains why the IFR considers it appropriate to publish a statement under this paragraph in respect of P.
 
-#### 5. Appointment of a skilled person[^key-9a55295408039dd2936550d92fc1b9f9][^key-df687da562232e2be3cc6592b7d2c909]
+#### 5. Appointment of a skilled person[^c-9a55295408039dd2936550d92fc1b9f9][^c-df687da562232e2be3cc6592b7d2c909]
 
 (1) This paragraph applies where—
 
@@ -142,7 +142,7 @@ Paragraphs 2 and 3 apply where—
 
 in connection with bringing the relevant infringement to an end.
 
-#### 6. Financial penalties[^key-cb5976d7c3f25e1935cc346e42ae1289][^key-fa79e205873b6f5956d43786b8fb16c4]
+#### 6. Financial penalties[^c-cb5976d7c3f25e1935cc346e42ae1289][^c-fa79e205873b6f5956d43786b8fb16c4]
 
 (1) This paragraph applies where the IFR determines (whether as a result of an investigation or otherwise) that a person (“**P**”) has, without reasonable excuse, committed a relevant infringement.
 
@@ -208,7 +208,7 @@ in connection with bringing the relevant infringement to an end.
 
 (11) Where a club or body is an undertaking that is part of a group, references in sub-paragraphs (6), (7) and (8) to the revenue of the club or body are to the revenue of that group.
 
-#### 7. Injunctive relief[^key-91f5a5c94bedf0530ae7710361ed4153][^key-68420665f4750a73a7df983bb07fea58]
+#### 7. Injunctive relief[^c-91f5a5c94bedf0530ae7710361ed4153][^c-68420665f4750a73a7df983bb07fea58]
 
 (1) This paragraph applies where—
 
@@ -229,7 +229,7 @@ in connection with bringing the relevant infringement to an end.
 
 (4) Tribunal Procedure Rules may make provision about the transfer from the Tribunal to the High Court of all or any part of an application under sub-paragraph (3).
 
-#### 8. Suspension or revocation of operating licence[^key-c8686b1a62fa25fc2ef507c9703aa4dc][^key-1e73545c26ca11f8a8881f6294e01d31]
+#### 8. Suspension or revocation of operating licence[^c-c8686b1a62fa25fc2ef507c9703aa4dc][^c-1e73545c26ca11f8a8881f6294e01d31]
 
 (1) Paragraph 9 applies where—
 
@@ -250,7 +250,7 @@ in connection with bringing the relevant infringement to an end.
 
 (5) For the purposes of this paragraph, behaviour is persistent if the behaviour has occurred on a sufficient number of occasions for it to be clear that it represents a pattern of behaviour or practice.
 
-**9.**[^key-8eea754115504c1c7f8748947d7ccf70][^key-5b483c6ebb9f6e9f70b9fe3d270c881b] (1) The IFR may—
+**9.**[^c-8eea754115504c1c7f8748947d7ccf70][^c-5b483c6ebb9f6e9f70b9fe3d270c881b] (1) The IFR may—
 
 - (a) suspend the club’s operating licence, or
 - (b) revoke the club’s operating licence from a day specified by the IFR.
@@ -271,7 +271,7 @@ in connection with bringing the relevant infringement to an end.
 
 ### Part 3 — Further provision about financial penalties
 
-#### 10. Interpretation[^key-78ce3e5caa40bd9a004575e8e0ecee3c][^key-3101626b9f0c9bec681580a47c5ce4da]
+#### 10. Interpretation[^c-78ce3e5caa40bd9a004575e8e0ecee3c][^c-3101626b9f0c9bec681580a47c5ce4da]
 
 For the purposes of paragraphs 3 and 6—
 
@@ -281,7 +281,7 @@ For the purposes of paragraphs 3 and 6—
   - (ii) both are subsidiaries of the same body corporate;
 - (c) “**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006.
 
-#### 11. Penalties imposed by reference to a daily rate[^key-18040ba72f3d3a4b4ab30c28cbca0b68][^key-d0fbcabd6a8c287da32ec9c591cc9862]
+#### 11. Penalties imposed by reference to a daily rate[^c-18040ba72f3d3a4b4ab30c28cbca0b68][^c-d0fbcabd6a8c287da32ec9c591cc9862]
 
 (1) In imposing a penalty under paragraph 3 or 6 by reference to a daily rate—
 
@@ -290,7 +290,7 @@ For the purposes of paragraphs 3 and 6—
 
 (2) Where the IFR imposes a penalty under paragraph 3 or 6 by reference to a daily rate, the decision notice under section 77 must state the day on which the amount first starts to accumulate and the day or days on which it might cease to accumulate.
 
-#### 12. Revenue and remuneration[^key-337249ae5ee340e5cecc927b4bc7ad02][^key-9bb18ede7df267df216726c3fd240d17]
+#### 12. Revenue and remuneration[^c-337249ae5ee340e5cecc927b4bc7ad02][^c-9bb18ede7df267df216726c3fd240d17]
 
 (1) For the purposes of paragraphs 3 and 6, the IFR may by rules (“revenue rules”) make provision for determining—
 
@@ -310,19 +310,19 @@ For the purposes of paragraphs 3 and 6—
 
 (5) The consultation must include a draft of the proposed revenue rules.
 
-#### 13. Interest[^key-cf9e94f455d7d7e895aa13dee7cfb986][^key-5af818e223c3cc99bf6d0b96880b9042]
+#### 13. Interest[^c-cf9e94f455d7d7e895aa13dee7cfb986][^c-5af818e223c3cc99bf6d0b96880b9042]
 
 (1) If the whole or part of a penalty imposed under paragraph 3 or 6 is not paid by the day by which it is required to be paid, the unpaid balance carries interest at an annual percentage rate of 5% plus the Bank of England base rate.
 
 (2) But the IFR may, by notice to the person on whom the penalty is imposed, provide that this paragraph does not apply in relation to the penalty.
 
-#### 14. Recovery as a civil debt[^key-48a22e68a02e80f8c62aebedc924b679][^key-32c12b7df468a388b5911245115f1ada]
+#### 14. Recovery as a civil debt[^c-48a22e68a02e80f8c62aebedc924b679][^c-32c12b7df468a388b5911245115f1ada]
 
 (1) Where a penalty imposed under paragraph 3 or 6, or any part of such a penalty, has not been paid by the day by which it is required to be paid, the IFR may recover from the person on whom the penalty was imposed any amount of the penalty and interest that has not been paid.
 
 (2) Such an amount may be recovered as a civil debt due to the IFR.
 
-#### 15. Power to amend figures[^key-42f7d174353ca33014f5917008602dbd][^key-311da89d040608b5cd6c454035706cdd]
+#### 15. Power to amend figures[^c-42f7d174353ca33014f5917008602dbd][^c-311da89d040608b5cd6c454035706cdd]
 
 The Secretary of State may by regulations amend the amounts for the time being specified in—
 
@@ -335,62 +335,62 @@ The Secretary of State may by regulations amend the amounts for the time being s
 
 ## Annotations
 
-[^key-1aa2149ec037456e8f0af65a141f13a1]: Commencement: Sch. 9 para. 1 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-1aa2149ec037456e8f0af65a141f13a1]: Commencement: Sch. 9 para. 1 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-9281356d1ab049eaa2883b26bef0d4fc]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/1) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-9281356d1ab049eaa2883b26bef0d4fc]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/1) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-174efcfd0ae3712bff766a72a9a59b6e]: Commencement: Sch. 9 para. 2 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-174efcfd0ae3712bff766a72a9a59b6e]: Commencement: Sch. 9 para. 2 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-0055985d70b83f96c323e77c77e776e4]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/2) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-0055985d70b83f96c323e77c77e776e4]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/2) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-86eecfc8a87be41c853dd265a76887c2]: Commencement: Sch. 9 para. 3 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-86eecfc8a87be41c853dd265a76887c2]: Commencement: Sch. 9 para. 3 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-bee1f1eb3887f4d49d11e1bf67c1f0da]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/3) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-bee1f1eb3887f4d49d11e1bf67c1f0da]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/3) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-5c1d3a1b543b94b0ca6d2e5a64fb0656]: Commencement: Sch. 9 para. 4 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-5c1d3a1b543b94b0ca6d2e5a64fb0656]: Commencement: Sch. 9 para. 4 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-f1395f361c61725e0c7c86b751353584]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/4) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-f1395f361c61725e0c7c86b751353584]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/4) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-9a55295408039dd2936550d92fc1b9f9]: Commencement: Sch. 9 para. 5 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-9a55295408039dd2936550d92fc1b9f9]: Commencement: Sch. 9 para. 5 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-df687da562232e2be3cc6592b7d2c909]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/5) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-df687da562232e2be3cc6592b7d2c909]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/5) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-cb5976d7c3f25e1935cc346e42ae1289]: Commencement: Sch. 9 para. 6 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-cb5976d7c3f25e1935cc346e42ae1289]: Commencement: Sch. 9 para. 6 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-fa79e205873b6f5956d43786b8fb16c4]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/6) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-fa79e205873b6f5956d43786b8fb16c4]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/6) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-91f5a5c94bedf0530ae7710361ed4153]: Commencement: Sch. 9 para. 7 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-91f5a5c94bedf0530ae7710361ed4153]: Commencement: Sch. 9 para. 7 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-68420665f4750a73a7df983bb07fea58]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/7) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-68420665f4750a73a7df983bb07fea58]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/7) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-c8686b1a62fa25fc2ef507c9703aa4dc]: Commencement: Sch. 9 para. 8 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-c8686b1a62fa25fc2ef507c9703aa4dc]: Commencement: Sch. 9 para. 8 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-1e73545c26ca11f8a8881f6294e01d31]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/8) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/d/ii)
+[^c-1e73545c26ca11f8a8881f6294e01d31]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/8) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/d/ii)
 
-[^key-8eea754115504c1c7f8748947d7ccf70]: Commencement: Sch. 9 para. 9 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-8eea754115504c1c7f8748947d7ccf70]: Commencement: Sch. 9 para. 9 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-5b483c6ebb9f6e9f70b9fe3d270c881b]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/9) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/d/ii)
+[^c-5b483c6ebb9f6e9f70b9fe3d270c881b]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/9) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/d/ii)
 
-[^key-78ce3e5caa40bd9a004575e8e0ecee3c]: Commencement: Sch. 9 para. 10 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-78ce3e5caa40bd9a004575e8e0ecee3c]: Commencement: Sch. 9 para. 10 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-3101626b9f0c9bec681580a47c5ce4da]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/10) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-3101626b9f0c9bec681580a47c5ce4da]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/10) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-18040ba72f3d3a4b4ab30c28cbca0b68]: Commencement: Sch. 9 para. 11 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-18040ba72f3d3a4b4ab30c28cbca0b68]: Commencement: Sch. 9 para. 11 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-d0fbcabd6a8c287da32ec9c591cc9862]: Commencement: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/11) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-d0fbcabd6a8c287da32ec9c591cc9862]: Commencement: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/11) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-337249ae5ee340e5cecc927b4bc7ad02]: Commencement: Sch. 9 para. 12 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-337249ae5ee340e5cecc927b4bc7ad02]: Commencement: Sch. 9 para. 12 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-9bb18ede7df267df216726c3fd240d17]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/12) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-9bb18ede7df267df216726c3fd240d17]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/12) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-cf9e94f455d7d7e895aa13dee7cfb986]: Commencement: Sch. 9 para. 13 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-cf9e94f455d7d7e895aa13dee7cfb986]: Commencement: Sch. 9 para. 13 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-5af818e223c3cc99bf6d0b96880b9042]: Commencement: [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/13) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-5af818e223c3cc99bf6d0b96880b9042]: Commencement: [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/13) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-48a22e68a02e80f8c62aebedc924b679]: Commencement: Sch. 9 para. 14 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-48a22e68a02e80f8c62aebedc924b679]: Commencement: Sch. 9 para. 14 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-32c12b7df468a388b5911245115f1ada]: Commencement: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/14) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-32c12b7df468a388b5911245115f1ada]: Commencement: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/14) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
 
-[^key-42f7d174353ca33014f5917008602dbd]: Commencement: Sch. 9 para. 15 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-42f7d174353ca33014f5917008602dbd]: Commencement: Sch. 9 para. 15 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-311da89d040608b5cd6c454035706cdd]: Commencement: [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/15) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)
+[^c-311da89d040608b5cd6c454035706cdd]: Commencement: [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2025/21/schedule/9/paragraph/15) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/ii)

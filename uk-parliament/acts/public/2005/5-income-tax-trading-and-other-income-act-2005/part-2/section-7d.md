@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7D. Election to disapply late accounting date rules[^key-281275f0e15b8f62fc64e7e544b0c384]
+## 7D. Election to disapply late accounting date rules[^c-281275f0e15b8f62fc64e7e544b0c384]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-281275f0e15b8f62fc64e7e544b0c384]: Textual amendment: [Ss. 7A-7D](https://www.legislation.gov.uk/ukpga/2005/5/section/7A) inserted (with effect in accordance with s. 61(1)(3) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/3)
+[^c-281275f0e15b8f62fc64e7e544b0c384]: Textual amendment: [Ss. 7A-7D](https://www.legislation.gov.uk/ukpga/2005/5/section/7A) inserted (with effect in accordance with s. 61(1)(3) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/3)

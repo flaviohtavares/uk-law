@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Responsible person[^key-70a62ffe8a5a76cc7c8459cb77e2f03c]
+## 102. Responsible person[^c-70a62ffe8a5a76cc7c8459cb77e2f03c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70a62ffe8a5a76cc7c8459cb77e2f03c]: Commencement: S. 102 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-70a62ffe8a5a76cc7c8459cb77e2f03c]: Commencement: S. 102 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

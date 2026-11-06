@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Continued effect of provisions ceasing to be within legislative competence[^key-2f485adae98c0cc1cc40a62c16d8bb4e]
+## 9. Continued effect of provisions ceasing to be within legislative competence[^c-2f485adae98c0cc1cc40a62c16d8bb4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f485adae98c0cc1cc40a62c16d8bb4e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2012/11/section/9) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/d)
+[^c-2f485adae98c0cc1cc40a62c16d8bb4e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2012/11/section/9) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/d)

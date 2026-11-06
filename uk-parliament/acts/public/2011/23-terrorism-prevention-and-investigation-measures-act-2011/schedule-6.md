@@ -131,9 +131,9 @@ must be recorded as soon as practicable after it has been given.
 - (b) any fingerprints or samples taken under paragraph 10 or 12 of Schedule 8 to the Terrorism Act 2000 or any information derived from such a sample,
 - (c) any relevant physical data taken or provided by virtue of paragraph 20 of that Schedule, any samples taken by virtue of that paragraph or any information derived from such a sample,
 - (d) material to which section 18 of the Counter-Terrorism Act 2008 applies,
-- (da)[^key-4c5f5d3d251a7006eb5a3eb94fd4760c] any fingerprints or samples taken under paragraph 34 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 or any information derived from such a sample,
+- (da)[^c-4c5f5d3d251a7006eb5a3eb94fd4760c] any fingerprints or samples taken under paragraph 34 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 or any information derived from such a sample,
 - (db) any relevant physical data taken or provided by virtue of paragraph 42 of that Schedule, any samples taken by virtue of that paragraph or any information derived from such a sample,
-- (dc)[^key-b40e673e668a85c49a411b9e8cfa5717] any fingerprints or samples taken under paragraph 10 or 12 of Schedule 6 to the National Security Act 2023 or any information derived from such a sample,
+- (dc)[^c-b40e673e668a85c49a411b9e8cfa5717] any fingerprints or samples taken under paragraph 10 or 12 of Schedule 6 to the National Security Act 2023 or any information derived from such a sample,
 - (dd) any relevant physical data taken or provided by virtue of paragraph 18 of that Schedule, any samples taken by virtue of that paragraph or any information derived from such a sample,
 - (de) any fingerprints, data or samples obtained under paragraph 1 or 4 of Schedule 12 to that Act, or information derived from such samples,
 - (e) any fingerprints, samples or information mentioned in section 63A(1)(a) or (b) of the Police and Criminal Evidence Act 1984,
@@ -166,7 +166,7 @@ must be recorded as soon as practicable after it has been given.
 
 **8.** (1) This paragraph applies to paragraph 6 material taken from, or provided by, an individual who has no previous convictions or (in the case of England and Wales or Northern Ireland) only one exempt conviction.
 
-(2)[^key-32eedd8625438f703a76cf510395f6c2][^key-0f3f3f9bc617e74557ca5c9a611b233d] The material may be retained until the end of the period of 6 months beginning with the date on which the TPIM notice that was in force when the material was taken ceases to be in force (subject to sub-paragraphs (3) and (4)).
+(2)[^c-32eedd8625438f703a76cf510395f6c2][^c-0f3f3f9bc617e74557ca5c9a611b233d] The material may be retained until the end of the period of 6 months beginning with the date on which the TPIM notice that was in force when the material was taken ceases to be in force (subject to sub-paragraphs (3) and (4)).
 
 (3) If, before the end of that period, the TPIM notice is quashed by the court under this Act, the material may be retained only until there is no possibility of an appeal against—
 
@@ -193,9 +193,9 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
 
 - (a) in relation to a recordable offence in England and Wales or Northern Ireland—
   - (i) the individual has been given a caution in respect of the offence which, at the time of the caution, the individual has admitted,
-  - (ii) the individual has been found not guilty of the offence by reason of insanity, or[^key-b9bf995fbcbcbe41f60bccf0f1229b5b]
-  - (iii) the individual has been found to be under a disability and to have done the act charged in respect of the offence, [^key-1d65b78338a745daea4e80ca9c4ac595] ...
-  - (iv)[^key-1d65b78338a745daea4e80ca9c4ac595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) the individual has been found not guilty of the offence by reason of insanity, or[^c-b9bf995fbcbcbe41f60bccf0f1229b5b]
+  - (iii) the individual has been found to be under a disability and to have done the act charged in respect of the offence, [^c-1d65b78338a745daea4e80ca9c4ac595] ...
+  - (iv)[^c-1d65b78338a745daea4e80ca9c4ac595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the individual, in relation to an offence in Scotland punishable by imprisonment, has accepted or has been deemed to accept—
   - (i) a conditional offer under section 302 of the Criminal Procedure (Scotland) Act 1995,
   - (ii) a compensation offer under section 302A of that Act,
@@ -210,7 +210,7 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
 
 (2) Paragraphs 8, 9 and this paragraph, so far as they relate to individuals convicted of an offence, have effect despite anything in the Rehabilitation of Offenders Act 1974.
 
-(2A)[^key-ee084250d2ef19398590009dfbbd0082] But a person is not to be treated as having been convicted of an offence if that conviction is a disregarded conviction or caution by virtue of section 92 of the Protection of Freedoms Act 2012.
+(2A)[^c-ee084250d2ef19398590009dfbbd0082] But a person is not to be treated as having been convicted of an offence if that conviction is a disregarded conviction or caution by virtue of section 92 of the Protection of Freedoms Act 2012.
 
 (3) For the purposes of paragraphs 8 and 9—
 
@@ -226,23 +226,23 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
 
 (5) If an individual is convicted of more than one offence arising out of a single course of action, those convictions are to be treated as a single conviction for the purposes of calculating under paragraph 8 or 9 whether the individual has been convicted of one offence.
 
-**11.** (1) Paragraph 6 material may be retained for as long as a national security determination made by a[^key-2616be5c83d7e3a5aec9f6b3c092e1ce] chief officer of police has effect in relation to it.
+**11.** (1) Paragraph 6 material may be retained for as long as a national security determination made by a[^c-2616be5c83d7e3a5aec9f6b3c092e1ce] chief officer of police has effect in relation to it.
 
-(2) A national security determination is made if a[^key-4ae995b1fa6e83c490ce38d517509ce6] chief officer of police determines that it is necessary for any paragraph 6 material to be retained for the purposes of national security.
+(2) A national security determination is made if a[^c-4ae995b1fa6e83c490ce38d517509ce6] chief officer of police determines that it is necessary for any paragraph 6 material to be retained for the purposes of national security.
 
 (3) A national security determination—
 
 - (a) must be in writing,
-- (b) has effect for a maximum of 5 years[^key-0cbf998ed85529f66eadde4d70b75038] beginning with the date on which the determination is made, and
+- (b) has effect for a maximum of 5 years[^c-0cbf998ed85529f66eadde4d70b75038] beginning with the date on which the determination is made, and
 - (c) may be renewed.
 
-(4)[^key-6f1f8f46c8a143715a40ea7f37536c6c] In this paragraph “**chief officer of police**” means—
+(4)[^c-6f1f8f46c8a143715a40ea7f37536c6c] In this paragraph “**chief officer of police**” means—
 
 - (a) a chief officer of police of a police force in England and Wales,
 - (b) the chief constable of the Police Service of Scotland, or
 - (c) the Chief Constable of the Police Service of Northern Ireland.
 
-**11A.**[^key-15ed1291e511c8028cd01f2567ef9ca0] (1) This paragraph applies where paragraph 6 material is or includes a person's fingerprints (“the original fingerprints”).
+**11A.**[^c-15ed1291e511c8028cd01f2567ef9ca0] (1) This paragraph applies where paragraph 6 material is or includes a person's fingerprints (“the original fingerprints”).
 
 (2) A constable may make a determination under this paragraph in respect of any further fingerprints taken from, or provided by, the same person (“the further fingerprints”) if conditions 1 and 2 are met.
 
@@ -253,9 +253,9 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
   - (i) Part 5 of the Police and Criminal Evidence Act 1984,
   - (ii) Article 61 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)),
   - (iii) any provision, power or authority mentioned in section 18G(1) of the Criminal Procedure (Scotland) Act 1995,
-  - (iv) paragraph 10 of Schedule 8 to the Terrorism Act 2000, [^key-7446be3fa66d4da3f9b6e31e04f014c1]...
-  - (v) paragraph 34 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019, [^key-ab3550337764b82cf7b85e6b9fbda638]...
-  - (vi)[^key-be2708f6b96392b4a44dab729f958fd4] paragraph 10 of Schedule 6 to the National Security Act 2023, or
+  - (iv) paragraph 10 of Schedule 8 to the Terrorism Act 2000, [^c-7446be3fa66d4da3f9b6e31e04f014c1]...
+  - (v) paragraph 34 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019, [^c-ab3550337764b82cf7b85e6b9fbda638]...
+  - (vi)[^c-be2708f6b96392b4a44dab729f958fd4] paragraph 10 of Schedule 6 to the National Security Act 2023, or
   - (vii) paragraph 1 or 4 of Schedule 12 to that Act, or
 - (c) are material to which section 18 of the Counter-Terrorism Act 2008 applies.
 
@@ -338,8 +338,8 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
   - (a) the metropolitan police force;
   - (b) a police force maintained under section 2 of the Police Act 1996 (police forces in England and Wales outside London);
   - (c) the City of London police force;
-  - (d) the Police Service of Scotland;[^key-e8b705774d3074a7a6a495be04f24c9c]
-  - (e) [^key-2683af0838333904d622d23d11b49ceb]...
+  - (d) the Police Service of Scotland;[^c-e8b705774d3074a7a6a495be04f24c9c]
+  - (e) [^c-2683af0838333904d622d23d11b49ceb]...
   - (f) the Police Service of Northern Ireland;
   - (g) the Police Service of Northern Ireland Reserve;
   - (h) the Ministry of Defence Police;
@@ -348,7 +348,7 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
   - (k) the Royal Air Force Police;
   - (l) the British Transport Police;
 
-  and references to a police force are to be read as including the tri-service serious crime unit;[^key-694fe22f97298d3315a587b152b27889]
+  and references to a police force are to be read as including the tri-service serious crime unit;[^c-694fe22f97298d3315a587b152b27889]
 - “recordable offence” has—
   - (a) in relation to a conviction in England and Wales, the meaning given by section 118(1) of the Police and Criminal Evidence Act 1984, and
   - (b) in relation to a conviction in Northern Ireland, the meaning given by Article 2(2) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12));
@@ -357,49 +357,49 @@ sub-paragraphs (2) and (3) apply again for the purposes of the retention of that
 - “**responsible chief officer of police**” means, in relation to fingerprints or samples taken in England or Wales, or a DNA profile derived from a sample so taken, the chief officer of police for the police area—
   - (a) in which the material concerned was taken, or
   - (b) in the case of a DNA profile, in which the sample from which the DNA profile was derived was taken;
-- “**responsible chief officer of police**” means, in relation to relevant physical data or samples taken or provided in Scotland, or a DNA profile derived from a sample so taken, the chief constable of the Police Service of Scotland[^key-64cb9c7f4f5677e525005a2ce0e7d2be];
+- “**responsible chief officer of police**” means, in relation to relevant physical data or samples taken or provided in Scotland, or a DNA profile derived from a sample so taken, the chief constable of the Police Service of Scotland[^c-64cb9c7f4f5677e525005a2ce0e7d2be];
 - “**responsible chief officer of police**” means, in relation to fingerprints or samples taken in Northern Ireland, or a DNA profile derived from a sample so taken, the Chief Constable of the Police Service of Northern Ireland;
 - “sufficient” and “**insufficient**”, in relation to a sample, have the same meaning as in Part 5 of the Police and Criminal Evidence Act 1984 (see section 65(1) and (2) of that Act).
-- “[^key-c8f78f51567b5b423b8263e660db9dbb]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
+- “[^c-c8f78f51567b5b423b8263e660db9dbb]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
 
 ## Annotations
 
-[^key-4c5f5d3d251a7006eb5a3eb94fd4760c]: Textual amendment: Sch. 6 para. 5(da)(db) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/28); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-4c5f5d3d251a7006eb5a3eb94fd4760c]: Textual amendment: Sch. 6 para. 5(da)(db) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/28); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-b40e673e668a85c49a411b9e8cfa5717]: Textual amendment: [Sch. 6 paras. 5(dc)-(de)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/5/dc) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 29(2)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/29/2)
+[^c-b40e673e668a85c49a411b9e8cfa5717]: Textual amendment: [Sch. 6 paras. 5(dc)-(de)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/5/dc) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 29(2)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/29/2)
 
-[^key-32eedd8625438f703a76cf510395f6c2]: Modification: Sch. 6 para. 8(2) modified (2.4.2020) by [The Coronavirus (Retention of Fingerprints and DNA Profiles in the Interests of National Security) Regulations 2020 (S.I. 2020/391)](https://www.legislation.gov.uk/uksi/2020/391), [regs. 1](https://www.legislation.gov.uk/uksi/2020/391/regulation/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/391/regulation/3/2/a/iii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/391/regulation/5))
+[^c-32eedd8625438f703a76cf510395f6c2]: Modification: Sch. 6 para. 8(2) modified (2.4.2020) by [The Coronavirus (Retention of Fingerprints and DNA Profiles in the Interests of National Security) Regulations 2020 (S.I. 2020/391)](https://www.legislation.gov.uk/uksi/2020/391), [regs. 1](https://www.legislation.gov.uk/uksi/2020/391/regulation/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/391/regulation/3/2/a/iii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/391/regulation/5))
 
-[^key-0f3f3f9bc617e74557ca5c9a611b233d]: Modification: Sch. 6 para. 8(2) modified (1.10.2020) by [The Coronavirus (Retention of Fingerprints and DNA Profiles in the Interests of National Security) (No. 2) Regulations 2020 (S.I. 2020/973)](https://www.legislation.gov.uk/uksi/2020/973), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/973/regulation/1/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/973/regulation/3/2/a/iii)[(4)](https://www.legislation.gov.uk/uksi/2020/973/regulation/3/4)
+[^c-0f3f3f9bc617e74557ca5c9a611b233d]: Modification: Sch. 6 para. 8(2) modified (1.10.2020) by [The Coronavirus (Retention of Fingerprints and DNA Profiles in the Interests of National Security) (No. 2) Regulations 2020 (S.I. 2020/973)](https://www.legislation.gov.uk/uksi/2020/973), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/973/regulation/1/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/973/regulation/3/2/a/iii)[(4)](https://www.legislation.gov.uk/uksi/2020/973/regulation/3/4)
 
-[^key-b9bf995fbcbcbe41f60bccf0f1229b5b]: Textual amendment: Word in Sch. 6 para. 10(1)(a)(ii) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 32(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/32/a) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
+[^c-b9bf995fbcbcbe41f60bccf0f1229b5b]: Textual amendment: Word in Sch. 6 para. 10(1)(a)(ii) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 32(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/32/a) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
 
-[^key-1d65b78338a745daea4e80ca9c4ac595]: Textual amendment: Sch. 6 para. 10(1)(a)(iv) and preceding word omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) , [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) , [Sch. 24 para. 32(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/32/b) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4) ); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453) , [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
+[^c-1d65b78338a745daea4e80ca9c4ac595]: Textual amendment: Sch. 6 para. 10(1)(a)(iv) and preceding word omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) , [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) , [Sch. 24 para. 32(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/32/b) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4) ); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453) , [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
 
-[^key-ee084250d2ef19398590009dfbbd0082]: Textual amendment: Sch. 6 para. 10(2A) inserted (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/1/paragraph/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k)
+[^c-ee084250d2ef19398590009dfbbd0082]: Textual amendment: Sch. 6 para. 10(2A) inserted (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/1/paragraph/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/k)
 
-[^key-2616be5c83d7e3a5aec9f6b3c092e1ce]: Textual amendment: Word in Sch. 6 para. 11(1) substituted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/16/2); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-2616be5c83d7e3a5aec9f6b3c092e1ce]: Textual amendment: Word in Sch. 6 para. 11(1) substituted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/16/2); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-4ae995b1fa6e83c490ce38d517509ce6]: Textual amendment: Word in Sch. 6 para. 11(2) substituted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/16/3); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-4ae995b1fa6e83c490ce38d517509ce6]: Textual amendment: Word in Sch. 6 para. 11(2) substituted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/16/3); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-0cbf998ed85529f66eadde4d70b75038]: Textual amendment: Words in Sch. 6 para. 11(3)(b) substituted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 16(4)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/16/4) (with [s. 25(7)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/7)[(8)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/8)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-0cbf998ed85529f66eadde4d70b75038]: Textual amendment: Words in Sch. 6 para. 11(3)(b) substituted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 16(4)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/16/4) (with [s. 25(7)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/7)[(8)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/8)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-6f1f8f46c8a143715a40ea7f37536c6c]: Textual amendment: Sch. 6 para. 11(4) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 16(5)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/16/5); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-6f1f8f46c8a143715a40ea7f37536c6c]: Textual amendment: Sch. 6 para. 11(4) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 16(5)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/16/5); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-15ed1291e511c8028cd01f2567ef9ca0]: Textual amendment: Sch. 6 para. 11A inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/17); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-15ed1291e511c8028cd01f2567ef9ca0]: Textual amendment: Sch. 6 para. 11A inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/17); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-7446be3fa66d4da3f9b6e31e04f014c1]: Textual amendment: Word in [Sch. 6 para. 11A(3)(b)(iv)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/11A/3/b/iv) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 29(3)(a)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/29/3/a)
+[^c-7446be3fa66d4da3f9b6e31e04f014c1]: Textual amendment: Word in [Sch. 6 para. 11A(3)(b)(iv)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/11A/3/b/iv) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 29(3)(a)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/29/3/a)
 
-[^key-ab3550337764b82cf7b85e6b9fbda638]: Textual amendment: Word in [Sch. 6 para. 11A(3)(b)(v)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/11A/3/b/v) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 29(3)(b)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/29/3/b)
+[^c-ab3550337764b82cf7b85e6b9fbda638]: Textual amendment: Word in [Sch. 6 para. 11A(3)(b)(v)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/11A/3/b/v) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 29(3)(b)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/29/3/b)
 
-[^key-be2708f6b96392b4a44dab729f958fd4]: Textual amendment: [Sch. 6 para. 11A(3)(b)(vi)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/11A/3/b/vi)[(vii)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/11A/3/b/vii) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 29(3)(c)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/29/3/c)
+[^c-be2708f6b96392b4a44dab729f958fd4]: Textual amendment: [Sch. 6 para. 11A(3)(b)(vi)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/11A/3/b/vi)[(vii)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/11A/3/b/vii) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 29(3)(c)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/29/3/c)
 
-[^key-e8b705774d3074a7a6a495be04f24c9c]: Textual amendment: Words in Sch. 6 para. 14 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2) , [Sch. 2 para. 64(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/3/a/i)
+[^c-e8b705774d3074a7a6a495be04f24c9c]: Textual amendment: Words in Sch. 6 para. 14 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2) , [Sch. 2 para. 64(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/3/a/i)
 
-[^key-2683af0838333904d622d23d11b49ceb]: Textual amendment: Words in Sch. 6 para. 14 omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2) , [Sch. 2 para. 64(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/3/a/ii)
+[^c-2683af0838333904d622d23d11b49ceb]: Textual amendment: Words in Sch. 6 para. 14 omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2) , [Sch. 2 para. 64(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/3/a/ii)
 
-[^key-694fe22f97298d3315a587b152b27889]: Textual amendment: Words in [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/14) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 42(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/42/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-694fe22f97298d3315a587b152b27889]: Textual amendment: Words in [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/14) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 42(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/42/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
-[^key-64cb9c7f4f5677e525005a2ce0e7d2be]: Textual amendment: Words in Sch. 6 para. 14 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2) , [Sch. 2 para. 64(3)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/3/b)
+[^c-64cb9c7f4f5677e525005a2ce0e7d2be]: Textual amendment: Words in Sch. 6 para. 14 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2) , [Sch. 2 para. 64(3)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/3/b)
 
-[^key-c8f78f51567b5b423b8263e660db9dbb]: Textual amendment: Words in [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/14) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 42(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/42/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-c8f78f51567b5b423b8263e660db9dbb]: Textual amendment: Words in [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2011/23/schedule/6/paragraph/14) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 42(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/42/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)

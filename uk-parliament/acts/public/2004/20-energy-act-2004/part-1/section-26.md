@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Accounts of NDA[^key-ebc0d42bc21713d10e938067cf41115d]
+## 26. Accounts of NDA[^c-ebc0d42bc21713d10e938067cf41115d]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebc0d42bc21713d10e938067cf41115d]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2004/20/section/26) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-ebc0d42bc21713d10e938067cf41115d]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2004/20/section/26) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

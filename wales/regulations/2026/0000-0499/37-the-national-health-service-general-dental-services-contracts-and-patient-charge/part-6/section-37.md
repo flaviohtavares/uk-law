@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Mid-year and annual delivery reports[^key-af19d6743011f776dc733a32c35dc2ed]
+## 37. Mid-year and annual delivery reports[^c-af19d6743011f776dc733a32c35dc2ed]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af19d6743011f776dc733a32c35dc2ed]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2026/37/regulation/37) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-af19d6743011f776dc733a32c35dc2ed]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2026/37/regulation/37) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

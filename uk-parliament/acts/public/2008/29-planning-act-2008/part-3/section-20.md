@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Gas transporter pipe-lines[^key-bdea3f002936f770a7186c257e3cb093]
+## 20. Gas transporter pipe-lines[^c-bdea3f002936f770a7186c257e3cb093]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdea3f002936f770a7186c257e3cb093]: Commencement: S. 20 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/101/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-bdea3f002936f770a7186c257e3cb093]: Commencement: S. 20 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/101/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

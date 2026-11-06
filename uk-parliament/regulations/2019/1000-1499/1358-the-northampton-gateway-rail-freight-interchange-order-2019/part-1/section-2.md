@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-f5e7b20079f9b9a9438550f80150b44d]
+## 2. Interpretation[^c-f5e7b20079f9b9a9438550f80150b44d]
 
 *Extent: E+W+S*
 
@@ -78,7 +78,7 @@ summary: ''
 - “parameters plan” means the plan of that description referred to in Schedule 16 and certified as the parameters plan by the Secretary of State for the purposes of this Order;
 - “public sewer or drain” means a sewer or drain which belongs to the Environment Agency, an internal drainage board or a lead local flood authority or a sewerage undertaker;
 - “public transport strategy” means the document of that description referred to in requirement 4 and attached at appendix 2 to the transport assessment;
-- “[^key-bc175c1d5d8890c0e554d1460050a2e5]**rail infrastructure plan**” means the plan of that description referred to in Schedule 16 and certified as the rail infrastructure plan by the Secretary of State for the purposes of this Order;
+- “[^c-bc175c1d5d8890c0e554d1460050a2e5]**rail infrastructure plan**” means the plan of that description referred to in Schedule 16 and certified as the rail infrastructure plan by the Secretary of State for the purposes of this Order;
 - “railway” has the same meaning as in the 2008 Act;
 - “railway plans” means the plans of that description referred to in Schedule 16 and certified as railway plans by the Secretary of State for the purposes of this Order:
 - “relevant highway authority” means in any provision of this Order the highway authority for any area of land to which that provision relates;
@@ -125,7 +125,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f5e7b20079f9b9a9438550f80150b44d]: Commencement: Art. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-f5e7b20079f9b9a9438550f80150b44d]: Commencement: Art. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -163,7 +163,7 @@ summary: ''
 
 [^f00021]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). The definition of “owner” was amended by paragraph 9 of Schedule 15 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to section 7 but none are relevant to this Order.
 
-[^key-bc175c1d5d8890c0e554d1460050a2e5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/1358/article/2/1) inserted (7.4.2023) by [The Northampton Gateway Rail Freight Interchange (Amendment) Order 2023 (S.I. 2023/418)](https://www.legislation.gov.uk/uksi/2023/418), [arts. 1](https://www.legislation.gov.uk/uksi/2023/418/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/418/article/2/2)
+[^c-bc175c1d5d8890c0e554d1460050a2e5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/1358/article/2/1) inserted (7.4.2023) by [The Northampton Gateway Rail Freight Interchange (Amendment) Order 2023 (S.I. 2023/418)](https://www.legislation.gov.uk/uksi/2023/418), [arts. 1](https://www.legislation.gov.uk/uksi/2023/418/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/418/article/2/2)
 
 [^f00022]: Footnote: There are amendments to section 151 of the Communications Act 2003 which are not relevant to this Order.
 

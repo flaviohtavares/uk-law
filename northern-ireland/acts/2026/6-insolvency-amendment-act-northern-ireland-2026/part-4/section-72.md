@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Arrangements coming to an end prematurely[^key-53ba5c6dbbc4d17c1db08b4f185d66c9]
+## 72. Arrangements coming to an end prematurely[^c-53ba5c6dbbc4d17c1db08b4f185d66c9]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 236C (arrangements coming to an end prematurely), for “creditors’
 
 ## Annotations
 
-[^key-53ba5c6dbbc4d17c1db08b4f185d66c9]: Commencement: S. 72 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-53ba5c6dbbc4d17c1db08b4f185d66c9]: Commencement: S. 72 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

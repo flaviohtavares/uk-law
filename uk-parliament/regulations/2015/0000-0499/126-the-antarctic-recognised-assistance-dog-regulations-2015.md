@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2015
 
-[^key-3d74691ed2c9505c48ef3cbbcbc0c211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d74691ed2c9505c48ef3cbbcbc0c211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3d74691ed2c9505c48ef3cbbcbc0c211]
+## 1. Citation and commencement[^c-3d74691ed2c9505c48ef3cbbcbc0c211]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed trainers of recognised assistance dogs[^key-3d74691ed2c9505c48ef3cbbcbc0c211]
+## 2. Prescribed trainers of recognised assistance dogs[^c-3d74691ed2c9505c48ef3cbbcbc0c211]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3d74691ed2c9505c48ef3cbbcbc0c211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d74691ed2c9505c48ef3cbbcbc0c211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3d74691ed2c9505c48ef3cbbcbc0c211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d74691ed2c9505c48ef3cbbcbc0c211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d74691ed2c9505c48ef3cbbcbc0c211]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/126) revoked (23.9.2016) by [The Antarctic (Recognised Assistance Dog) Regulations 2016 (S.I. 2016/697)](https://www.legislation.gov.uk/uksi/2016/697), [reg. 2](https://www.legislation.gov.uk/uksi/2016/697/regulation/2)
+[^c-3d74691ed2c9505c48ef3cbbcbc0c211]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/126) revoked (23.9.2016) by [The Antarctic (Recognised Assistance Dog) Regulations 2016 (S.I. 2016/697)](https://www.legislation.gov.uk/uksi/2016/697), [reg. 2](https://www.legislation.gov.uk/uksi/2016/697/regulation/2)

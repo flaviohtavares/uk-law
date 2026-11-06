@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35AA. Information about legal services[^key-297eec8b9f0ce44ec537b9b2b6605b31]
+## 35AA. Information about legal services[^c-297eec8b9f0ce44ec537b9b2b6605b31]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-297eec8b9f0ce44ec537b9b2b6605b31]: Textual amendment: S. 35AA inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 142](https://www.legislation.gov.uk/asp/2010/16/section/142), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-297eec8b9f0ce44ec537b9b2b6605b31]: Textual amendment: S. 35AA inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 142](https://www.legislation.gov.uk/asp/2010/16/section/142), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

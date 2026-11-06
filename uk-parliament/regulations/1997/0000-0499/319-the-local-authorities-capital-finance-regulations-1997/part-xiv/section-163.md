@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Savings[^key-a665f93255e8920411995000aa1eb6d6]
+## 163. Savings[^c-a665f93255e8920411995000aa1eb6d6]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a665f93255e8920411995000aa1eb6d6]: Commencement: Reg. 163 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-a665f93255e8920411995000aa1eb6d6]: Commencement: Reg. 163 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

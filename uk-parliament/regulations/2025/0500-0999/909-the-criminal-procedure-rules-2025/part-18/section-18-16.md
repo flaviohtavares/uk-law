@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.16. Duty of court officer to notify the Director of Public Prosecutions[^key-788a6283838b2292dbe28d1c2a92cbd4]
+## 18.16. Duty of court officer to notify the Director of Public Prosecutions[^c-788a6283838b2292dbe28d1c2a92cbd4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court officer must notify the Director of Public Prosecutions of an applicat
 
 ## Annotations
 
-[^key-788a6283838b2292dbe28d1c2a92cbd4]: Commencement: [Rule 18.16](https://www.legislation.gov.uk/uksi/2025/909/rule/18.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-788a6283838b2292dbe28d1c2a92cbd4]: Commencement: [Rule 18.16](https://www.legislation.gov.uk/uksi/2025/909/rule/18.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

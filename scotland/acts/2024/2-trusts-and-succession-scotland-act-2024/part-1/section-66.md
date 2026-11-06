@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Appointment by the court of a trustee to take the place of an ex officio trustee[^key-37cc4712a64fdd779bb67609842e6208]
+## 66. Appointment by the court of a trustee to take the place of an ex officio trustee[^c-37cc4712a64fdd779bb67609842e6208]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37cc4712a64fdd779bb67609842e6208]: Commencement: S. 66 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-37cc4712a64fdd779bb67609842e6208]: Commencement: S. 66 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

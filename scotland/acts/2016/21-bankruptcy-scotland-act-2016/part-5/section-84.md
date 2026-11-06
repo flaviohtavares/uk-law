@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Property subject to certain orders where confiscation order discharged or quashed[^key-7eeb7b568252be4582cf0f9693c7ebb5]
+## 84. Property subject to certain orders where confiscation order discharged or quashed[^c-7eeb7b568252be4582cf0f9693c7ebb5]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7eeb7b568252be4582cf0f9693c7ebb5]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2016/21/section/84) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-7eeb7b568252be4582cf0f9693c7ebb5]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2016/21/section/84) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

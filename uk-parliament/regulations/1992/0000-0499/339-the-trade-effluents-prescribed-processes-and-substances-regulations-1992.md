@@ -42,13 +42,13 @@ Coming into force
 
 20th March 1992
 
-The Secretary of State for the Environment and the Secretary of State for Wales, acting jointly in exercise of the powers conferred on them by section 138(1) of the Water Industry Act 1991[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:[^key-55aea0b2be56d993e31d7856ffb1198f]
+The Secretary of State for the Environment and the Secretary of State for Wales, acting jointly in exercise of the powers conferred on them by section 138(1) of the Water Industry Act 1991[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:[^c-55aea0b2be56d993e31d7856ffb1198f]
 
-## 1. Citation and commencement[^key-99999c94a85876d9a11ff95b38a05fc9]
+## 1. Citation and commencement[^c-99999c94a85876d9a11ff95b38a05fc9]
 
 These Regulations may be cited as the Trade Effluents (Prescribed Processes and Substances) Regulations 1992 and shall come into force on 20th March 1992.
 
-## 2. Trade effluent derived from prescribed processes[^key-4780e5027a4f6f5e947ec3f47bf65868]
+## 2. Trade effluent derived from prescribed processes[^c-4780e5027a4f6f5e947ec3f47bf65868]
 
 Trade effluent which derives from any process which occasions liquid discharges containing trichloroethylene or perchloroethylene in quantities of thirty kilogrammes per year or more shall be special category effluent for the purposes of Chapter III of Part IV of the Water Industry Act 1991.
 
@@ -78,11 +78,11 @@ Council Directive [90/415/EEC](https://www.legislation.gov.uk/european/directive
 
 [^f00001]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). See the definition of “prescribed” in section 219(1).
 
-[^key-55aea0b2be56d993e31d7856ffb1198f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1992/339) applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/214/article/5/a)
+[^c-55aea0b2be56d993e31d7856ffb1198f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1992/339) applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/214/article/5/a)
 
-[^key-99999c94a85876d9a11ff95b38a05fc9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/339/regulation/1) in force at 20.3.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/339/regulation/1)
+[^c-99999c94a85876d9a11ff95b38a05fc9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/339/regulation/1) in force at 20.3.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/339/regulation/1)
 
-[^key-4780e5027a4f6f5e947ec3f47bf65868]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/339/regulation/2) in force at 20.3.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/339/regulation/1)
+[^c-4780e5027a4f6f5e947ec3f47bf65868]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/339/regulation/2) in force at 20.3.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/339/regulation/1)
 
 [^f00002]: Footnote: OJ No. L 219, 14.8.90, p.49.
 

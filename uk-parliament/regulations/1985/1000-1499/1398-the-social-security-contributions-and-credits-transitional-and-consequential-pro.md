@@ -53,7 +53,7 @@ The Secretary of State for Social Services, in exercise of powers conferred upon
 
 and other expressions have the same meanings as in that Act or, as the case may be, those Regulations.
 
-## 2. Transitional provisions for the assessment of Class 1 contributions[^key-b1e597baecae361f629a74ac20c4f3d5]
+## 2. Transitional provisions for the assessment of Class 1 contributions[^c-b1e597baecae361f629a74ac20c4f3d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -68,15 +68,15 @@ and other expressions have the same meanings as in that Act or, as the case may 
 
 (3) For the purposes of Class 3 contributions in respect of the year commencing 6th April 1985, the contribution week commencing 31st March 1985 shall be treated as falling wholly in the year commencing 6th April 1984.
 
-## 4. Modification of the Act[^key-77c099e37c2eaabe12fdbc2c2505b59e]
+## 4. Modification of the Act[^c-77c099e37c2eaabe12fdbc2c2505b59e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the principal regulations[^key-77c099e37c2eaabe12fdbc2c2505b59e]
+## 5. Amendment of the principal regulations[^c-77c099e37c2eaabe12fdbc2c2505b59e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Minor and consequential amendment of the principal regulations[^key-77c099e37c2eaabe12fdbc2c2505b59e]
+## 6. Minor and consequential amendment of the principal regulations[^c-77c099e37c2eaabe12fdbc2c2505b59e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -124,10 +124,10 @@ Regulation 7 makes a consequential amendment to the Social Security (Credits) Re
 
 [^f00002]: Footnote: the relevant amending provisions are Schedule 1, paragraph 3(2) and (4) to the Social Security (Contributions) Act 1982 (c.2) and section 8(2) of the Social Security Act 1985 and the relevant amending instruments are S.I. 1980/1975, 1982/206, 1983/10, 1948, 1984/77, 1985/397, 398.
 
-[^key-b1e597baecae361f629a74ac20c4f3d5]: Textual amendment: Reg. 2 revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), 157(1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/I) (with regs. 157 (2)-(4))
+[^c-b1e597baecae361f629a74ac20c4f3d5]: Textual amendment: Reg. 2 revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), 157(1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/I) (with regs. 157 (2)-(4))
 
 [^f00004]: Footnote: 1975 c. 14; section 8(2C) was inserted by section 18(3) of the Health and Social Security Act 1984 (c.48).
 
-[^key-77c099e37c2eaabe12fdbc2c2505b59e]: Textual amendment: Reg. 6 revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), 157(1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/I) (with regs. 157 (2)-(4))
+[^c-77c099e37c2eaabe12fdbc2c2505b59e]: Textual amendment: Reg. 6 revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), 157(1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/I) (with regs. 157 (2)-(4))
 
 [^f00007]: Footnote: the relevant amending instrument is S.I. 1978/409.

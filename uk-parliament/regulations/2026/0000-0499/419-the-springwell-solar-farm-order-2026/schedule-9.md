@@ -22,7 +22,7 @@ summary: ''
 
 Article 23
 
-### 1. Interpretation[^key-fa7aae670566fd9466e975d0f6db8b0a]
+### 1. Interpretation[^c-fa7aae670566fd9466e975d0f6db8b0a]
 
 In this schedule—
 
@@ -107,4 +107,4 @@ In this schedule—
 
 ## Annotations
 
-[^key-fa7aae670566fd9466e975d0f6db8b0a]: Commencement: Sch. 9 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-fa7aae670566fd9466e975d0f6db8b0a]: Commencement: Sch. 9 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

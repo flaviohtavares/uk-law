@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Breach of official duty[^key-7a059a48764a2044c8db1bf76312011d]
+## 32. Breach of official duty[^c-7a059a48764a2044c8db1bf76312011d]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ the returning officer will not be guilty of an offence under paragraph (1).
 
 ## Annotations
 
-[^key-7a059a48764a2044c8db1bf76312011d]: Commencement: Art. 32 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-7a059a48764a2044c8db1bf76312011d]: Commencement: Art. 32 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

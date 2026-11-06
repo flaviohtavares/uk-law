@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Meaning of “final pay”[^key-79d21057de784ce6d9c196a87003f4b9]
+## 128. Meaning of “final pay”[^c-79d21057de784ce6d9c196a87003f4b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,13 +35,13 @@ summary: ''
 - (a) that pension was eligible to be so increased; and
 - (b) the beginning date for that pension was the first day of the next scheme year after the earnings year.
 
-(4)[^key-6c6ab1ba11ec6b89fc0b9508f22455f7] In this regulation—
+(4)[^c-6c6ab1ba11ec6b89fc0b9508f22455f7] In this regulation—
 
 - (a) if the member is a transition member with continuity of service, “pensionable earnings” in respect of any period includes the member’s pensionable earnings under the PCSPS before the transition date for that member; and
 - (b) in respect of a period of assumed pay, “pensionable earnings” means the member’s assumed pay.
 
 ## Annotations
 
-[^key-79d21057de784ce6d9c196a87003f4b9]: Commencement: [Reg. 128](https://www.legislation.gov.uk/uksi/2014/1964/regulation/128) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-79d21057de784ce6d9c196a87003f4b9]: Commencement: [Reg. 128](https://www.legislation.gov.uk/uksi/2014/1964/regulation/128) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-6c6ab1ba11ec6b89fc0b9508f22455f7]: Textual amendment: [Reg. 128(4)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/128/4) substituted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [21](https://www.legislation.gov.uk/uksi/2018/537/regulation/21)
+[^c-6c6ab1ba11ec6b89fc0b9508f22455f7]: Textual amendment: [Reg. 128(4)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/128/4) substituted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [21](https://www.legislation.gov.uk/uksi/2018/537/regulation/21)

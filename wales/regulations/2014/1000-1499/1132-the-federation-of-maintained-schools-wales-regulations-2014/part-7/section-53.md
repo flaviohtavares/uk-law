@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Appointment and removal of the clerk to the governing body[^key-00c4349f0e5c29a59522053e867064cd]
+## 53. Appointment and removal of the clerk to the governing body[^c-00c4349f0e5c29a59522053e867064cd]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00c4349f0e5c29a59522053e867064cd]: Commencement: Reg. 53 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-00c4349f0e5c29a59522053e867064cd]: Commencement: Reg. 53 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00023]: Footnote: *See* section 39(2) of the 2002 Act.

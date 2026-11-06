@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Revocations[^key-84355c3f60366836fcdf1adbb14b15ea]
+## SCHEDULE 1 — Revocations[^c-84355c3f60366836fcdf1adbb14b15ea]
 
 *Extent: E+W+S+N.I.*
 
-[^key-84355c3f60366836fcdf1adbb14b15ea]
+[^c-84355c3f60366836fcdf1adbb14b15ea]
 
 - The Turks and Caicos Islands Constitution Order 2006 ([S.I. 2006/1913](https://www.legislation.gov.uk/uksi/2006/1913))
 - The Turks and Caicos Islands Constitution (Interim Amendment) Order 2009 ([S.I. 2009/701](https://www.legislation.gov.uk/uksi/2009/701))
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84355c3f60366836fcdf1adbb14b15ea]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/1681/schedule/1) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+[^c-84355c3f60366836fcdf1adbb14b15ea]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/1681/schedule/1) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)

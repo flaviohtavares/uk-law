@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67F. Sections 67A to 67D: “relevant pharmacy service”[^key-2dbb3b21d23564c8bcdf018d2968c89d]
+## 67F. Sections 67A to 67D: “relevant pharmacy service”[^c-2dbb3b21d23564c8bcdf018d2968c89d]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dbb3b21d23564c8bcdf018d2968c89d]: Textual amendment: [S. 67F](https://www.legislation.gov.uk/ukpga/1968/67/section/67F) inserted (1.12.2022) by [The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022 (S.I. 2022/851)](https://www.legislation.gov.uk/uksi/2022/851), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3), [9(1)](https://www.legislation.gov.uk/uksi/2022/851/article/9/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/851/article/3)); [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+[^c-2dbb3b21d23564c8bcdf018d2968c89d]: Textual amendment: [S. 67F](https://www.legislation.gov.uk/ukpga/1968/67/section/67F) inserted (1.12.2022) by [The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022 (S.I. 2022/851)](https://www.legislation.gov.uk/uksi/2022/851), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3), [9(1)](https://www.legislation.gov.uk/uksi/2022/851/article/9/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/851/article/3)); [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)

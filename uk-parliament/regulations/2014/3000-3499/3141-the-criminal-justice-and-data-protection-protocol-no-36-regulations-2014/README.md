@@ -50,11 +50,11 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 
-### PART 2 — Proceeds of Crime (Foreign Property and Foreign Orders)[^key-7973195aa53db5437f77bcf0457944ee]
+### PART 2 — Proceeds of Crime (Foreign Property and Foreign Orders)[^c-7973195aa53db5437f77bcf0457944ee]
 
 **No longer in force.**
 
-#### CHAPTER 1 — General[^key-7973195aa53db5437f77bcf0457944ee]
+#### CHAPTER 1 — General[^c-7973195aa53db5437f77bcf0457944ee]
 
 **No longer in force.**
 
@@ -62,7 +62,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 3 — Interpretation](part-2/section-3.md)
 - [Section 4 — Consequential amendments](part-2/section-4.md)
 
-#### CHAPTER 2 — England and Wales[^key-7973195aa53db5437f77bcf0457944ee]
+#### CHAPTER 2 — England and Wales[^c-7973195aa53db5437f77bcf0457944ee]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 14 — Giving effect to overseas confiscation orders](part-2/section-14.md)
 - [Section 15 — Registration and enforcement of overseas confiscation orders](part-2/section-15.md)
 
-#### CHAPTER 3 — Scotland[^key-7973195aa53db5437f77bcf0457944ee]
+#### CHAPTER 3 — Scotland[^c-7973195aa53db5437f77bcf0457944ee]
 
 *Extent: S*
 
@@ -88,7 +88,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 
 - [Section 16 — Provision in relation to the proceeds of crime as respects Scotland](part-2/section-16.md)
 
-#### CHAPTER 4 — Northern Ireland[^key-7973195aa53db5437f77bcf0457944ee]
+#### CHAPTER 4 — Northern Ireland[^c-7973195aa53db5437f77bcf0457944ee]
 
 *Extent: N.I.*
 
@@ -96,13 +96,13 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 
 - [Section 17 — Provision in relation to the proceeds of crime in relation to Northern Ireland](part-2/section-17.md)
 
-#### CHAPTER 5 — Notification, communication etc., and application to saved orders[^key-7973195aa53db5437f77bcf0457944ee]
+#### CHAPTER 5 — Notification, communication etc., and application to saved orders[^c-7973195aa53db5437f77bcf0457944ee]
 
 **No longer in force.**
 
 - [Section 18 — Notification, communication etc.](part-2/section-18.md)
 
-##### England and Wales[^key-7973195aa53db5437f77bcf0457944ee]
+##### England and Wales[^c-7973195aa53db5437f77bcf0457944ee]
 
 *Extent: E+W*
 
@@ -111,7 +111,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 19 — Saved restraint orders](part-2/section-19.md)
 - [Section 20 — Saved confiscation orders](part-2/section-20.md)
 
-##### Scotland[^key-7973195aa53db5437f77bcf0457944ee]
+##### Scotland[^c-7973195aa53db5437f77bcf0457944ee]
 
 *Extent: S*
 
@@ -120,7 +120,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 21 — Saved restraint orders](part-2/section-21.md)
 - [Section 22 — Saved confiscation orders](part-2/section-22.md)
 
-##### Northern Ireland[^key-7973195aa53db5437f77bcf0457944ee]
+##### Northern Ireland[^c-7973195aa53db5437f77bcf0457944ee]
 
 *Extent: N.I.*
 
@@ -134,20 +134,20 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 25 — Extent](part-3/section-25.md)
 - [Section 26 — Mutual recognition of financial penalties](part-3/section-26.md)
 
-### PART 4 — Data Protection in relation to Police and Judicial Cooperation in Criminal Matters[^key-22c7790d188c06c3e3db5d2ee9a55281]
+### PART 4 — Data Protection in relation to Police and Judicial Cooperation in Criminal Matters[^c-22c7790d188c06c3e3db5d2ee9a55281]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — General[^key-22c7790d188c06c3e3db5d2ee9a55281]
+#### CHAPTER 1 — General[^c-22c7790d188c06c3e3db5d2ee9a55281]
 
 **No longer in force.**
 
 - [Section 27 — Interpretation](part-4/section-27.md)
 - [Section 28 — Scope](part-4/section-28.md)
 
-#### CHAPTER 2 — Duties of competent authorities and rights of data subjects[^key-22c7790d188c06c3e3db5d2ee9a55281]
+#### CHAPTER 2 — Duties of competent authorities and rights of data subjects[^c-22c7790d188c06c3e3db5d2ee9a55281]
 
 **No longer in force.**
 
@@ -172,7 +172,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 47 — Security of processing](part-4/section-47.md)
 - [Section 48 — Prior consultation](part-4/section-48.md)
 
-#### CHAPTER 3 — Miscellaneous[^key-22c7790d188c06c3e3db5d2ee9a55281]
+#### CHAPTER 3 — Miscellaneous[^c-22c7790d188c06c3e3db5d2ee9a55281]
 
 **No longer in force.**
 
@@ -181,7 +181,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 51 — Other functions of the Commissioner](part-4/section-51.md)
 - [Section 52 — Consequential provisions](part-4/section-52.md)
 
-### PART 5 — Exchange of Information and Intelligence between Law Enforcement Authorities[^key-eb6c5bca6da0593a453294ff27fc59fa]
+### PART 5 — Exchange of Information and Intelligence between Law Enforcement Authorities[^c-eb6c5bca6da0593a453294ff27fc59fa]
 
 **No longer in force.**
 
@@ -195,7 +195,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 60 — Circulars](part-5/section-60.md)
 - [Section 61 — Joint investigation teams](part-5/section-61.md)
 
-### PART 6 — Exchange of Information Relating to Criminal Convictions[^key-ba67d5d774002c6c982594901286c52d]
+### PART 6 — Exchange of Information Relating to Criminal Convictions[^c-ba67d5d774002c6c982594901286c52d]
 
 **No longer in force.**
 
@@ -213,17 +213,17 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 73 — Format and other ways of organising and facilitating exchanges of information on convictions](part-6/section-73.md)
 - [Section 74 — Further rules relating to the format of transmission of information: legal classification, etc](part-6/section-74.md)
 
-### PART 7 — European Supervision Order[^key-ac19f1ee218df2753ef1da13163ef763]
+### PART 7 — European Supervision Order[^c-ac19f1ee218df2753ef1da13163ef763]
 
 **No longer in force.**
 
-#### CHAPTER 1 — Extent[^key-ac19f1ee218df2753ef1da13163ef763]
+#### CHAPTER 1 — Extent[^c-ac19f1ee218df2753ef1da13163ef763]
 
 **No longer in force.**
 
 - [Section 75 — Extent](part-7/section-75.md)
 
-#### CHAPTER 2 — European supervision orders: England and Wales[^key-ac19f1ee218df2753ef1da13163ef763]
+#### CHAPTER 2 — European supervision orders: England and Wales[^c-ac19f1ee218df2753ef1da13163ef763]
 
 *Extent: E+W*
 
@@ -231,7 +231,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 
 - [Section 76 — Interpretation](part-7/section-76.md)
 
-##### Recognition of supervision measures: requests to other member States[^key-ac19f1ee218df2753ef1da13163ef763]
+##### Recognition of supervision measures: requests to other member States[^c-ac19f1ee218df2753ef1da13163ef763]
 
 **No longer in force.**
 
@@ -244,7 +244,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 83 — Court becoming responsible again for monitoring measures](part-7/section-83.md)
 - [Section 84 — Consultation and exchange of information](part-7/section-84.md)
 
-##### Recognition of supervision measures: requests from other member States[^key-ac19f1ee218df2753ef1da13163ef763]
+##### Recognition of supervision measures: requests from other member States[^c-ac19f1ee218df2753ef1da13163ef763]
 
 **No longer in force.**
 
@@ -259,7 +259,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 93 — Court ceasing to be responsible for monitoring measures](part-7/section-93.md)
 - [Section 94 — Consultation and exchange of information](part-7/section-94.md)
 
-#### CHAPTER 3 — European supervision orders: Northern Ireland[^key-ac19f1ee218df2753ef1da13163ef763]
+#### CHAPTER 3 — European supervision orders: Northern Ireland[^c-ac19f1ee218df2753ef1da13163ef763]
 
 *Extent: N.I.*
 
@@ -267,7 +267,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 
 - [Section 95 — Interpretation](part-7/section-95.md)
 
-##### Recognition of supervision measures: requests to other member States[^key-ac19f1ee218df2753ef1da13163ef763]
+##### Recognition of supervision measures: requests to other member States[^c-ac19f1ee218df2753ef1da13163ef763]
 
 **No longer in force.**
 
@@ -280,7 +280,7 @@ A draft of the Regulations has been laid before and approved by resolution of ea
 - [Section 102 — Court becoming responsible again for monitoring measures](part-7/section-102.md)
 - [Section 103 — Consultation and exchange of information](part-7/section-103.md)
 
-##### Recognition of supervision measures: requests from other member States[^key-ac19f1ee218df2753ef1da13163ef763]
+##### Recognition of supervision measures: requests from other member States[^c-ac19f1ee218df2753ef1da13163ef763]
 
 **No longer in force.**
 
@@ -360,12 +360,12 @@ An impact assessment in respect of the Government's anticipated exercise of its 
 
 [^c22275271]: Marginal citation: [S.I. 1998/2793](https://www.legislation.gov.uk/uksi/1998/2793).
 
-[^key-7973195aa53db5437f77bcf0457944ee]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2014/3141/part/2) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [110(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/110/2) (with [reg. 111](https://www.legislation.gov.uk/uksi/2019/742/regulation/111)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1408/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7973195aa53db5437f77bcf0457944ee]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2014/3141/part/2) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [110(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/110/2) (with [reg. 111](https://www.legislation.gov.uk/uksi/2019/742/regulation/111)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1408/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-22c7790d188c06c3e3db5d2ee9a55281]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2014/3141/part/4) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 380](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/380) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 paras. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/6), [15](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/15), [43](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/43)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-22c7790d188c06c3e3db5d2ee9a55281]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2014/3141/part/4) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 380](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/380) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 paras. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/6), [15](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/15), [43](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/43)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-eb6c5bca6da0593a453294ff27fc59fa]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2014/3141/part/5) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [43](https://www.legislation.gov.uk/uksi/2019/742/regulation/43) (with [regs. 42(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/42/2), [44-47](https://www.legislation.gov.uk/uksi/2019/742/regulation/44)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [15-18](https://www.legislation.gov.uk/uksi/2020/1408/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb6c5bca6da0593a453294ff27fc59fa]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2014/3141/part/5) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [43](https://www.legislation.gov.uk/uksi/2019/742/regulation/43) (with [regs. 42(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/42/2), [44-47](https://www.legislation.gov.uk/uksi/2019/742/regulation/44)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [15-18](https://www.legislation.gov.uk/uksi/2020/1408/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ba67d5d774002c6c982594901286c52d]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2014/3141/part/6) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [26](https://www.legislation.gov.uk/uksi/2019/742/regulation/26) (with [regs. 27](https://www.legislation.gov.uk/uksi/2019/742/regulation/27), [28](https://www.legislation.gov.uk/uksi/2019/742/regulation/28)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/1408/regulation/12), [13](https://www.legislation.gov.uk/uksi/2020/1408/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba67d5d774002c6c982594901286c52d]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2014/3141/part/6) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [26](https://www.legislation.gov.uk/uksi/2019/742/regulation/26) (with [regs. 27](https://www.legislation.gov.uk/uksi/2019/742/regulation/27), [28](https://www.legislation.gov.uk/uksi/2019/742/regulation/28)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/1408/regulation/12), [13](https://www.legislation.gov.uk/uksi/2020/1408/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ac19f1ee218df2753ef1da13163ef763]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2014/3141/part/7) omitted (31.12.2020) by virtue of [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/780/regulation/16/2) (with [regs. 16A](https://www.legislation.gov.uk/uksi/2019/780/regulation/16A), [16B](https://www.legislation.gov.uk/uksi/2019/780/regulation/16B)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [48](https://www.legislation.gov.uk/uksi/2020/1408/regulation/48)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac19f1ee218df2753ef1da13163ef763]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2014/3141/part/7) omitted (31.12.2020) by virtue of [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/780/regulation/16/2) (with [regs. 16A](https://www.legislation.gov.uk/uksi/2019/780/regulation/16A), [16B](https://www.legislation.gov.uk/uksi/2019/780/regulation/16B)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [48](https://www.legislation.gov.uk/uksi/2020/1408/regulation/48)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

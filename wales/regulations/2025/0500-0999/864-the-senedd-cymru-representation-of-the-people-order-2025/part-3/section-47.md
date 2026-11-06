@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Individual candidates: prohibition of expenses not authorised by election agent etc.[^key-47008f96b4cf233134f45753989dfda0]
+## 47. Individual candidates: prohibition of expenses not authorised by election agent etc.[^c-47008f96b4cf233134f45753989dfda0]
 
 *Extent: E+W*
 
@@ -76,7 +76,7 @@ summary: ''
 
 ## Annotations
 
-[^key-47008f96b4cf233134f45753989dfda0]: Commencement: Art. 47 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-47008f96b4cf233134f45753989dfda0]: Commencement: Art. 47 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00050]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Payments for exhibition of petition notices[^key-3a5938e7c8c0a96bd4d2f1e25730f1fc]
+## 130. Payments for exhibition of petition notices[^c-3a5938e7c8c0a96bd4d2f1e25730f1fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ is guilty of an illegal practice.
 
 ## Annotations
 
-[^key-3a5938e7c8c0a96bd4d2f1e25730f1fc]: Commencement: Reg. 130 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-3a5938e7c8c0a96bd4d2f1e25730f1fc]: Commencement: Reg. 130 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

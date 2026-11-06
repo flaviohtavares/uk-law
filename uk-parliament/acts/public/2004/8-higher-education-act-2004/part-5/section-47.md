@@ -36,11 +36,11 @@ is subject to annulment in pursuance of a resolution of either House of Parliame
 
 (3) Subsection (2) does not apply to—
 
-- (a)[^key-41d8a0f36e21244109a8d2db4201c12a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-41d8a0f36e21244109a8d2db4201c12a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) regulations to which paragraph 12(3) of Schedule 2 applies, or
-- (c)[^key-58ae2537078d541afd1ef7fd1ebb0d4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-58ae2537078d541afd1ef7fd1ebb0d4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e2d1075ea4647d9d654314eb883a1068] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e2d1075ea4647d9d654314eb883a1068] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Any order or regulations under this Act may—
 
@@ -52,8 +52,8 @@ is subject to annulment in pursuance of a resolution of either House of Parliame
 
 ## Annotations
 
-[^key-41d8a0f36e21244109a8d2db4201c12a]: Textual amendment: [S. 47(3)(a)](https://www.legislation.gov.uk/ukpga/2004/8/section/47/3/a) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 30(3)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/30/3/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 13-16)
+[^c-41d8a0f36e21244109a8d2db4201c12a]: Textual amendment: [S. 47(3)(a)](https://www.legislation.gov.uk/ukpga/2004/8/section/47/3/a) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 30(3)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/30/3/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 13-16)
 
-[^key-58ae2537078d541afd1ef7fd1ebb0d4f]: Textual amendment: [S. 47(3)(c)](https://www.legislation.gov.uk/ukpga/2004/8/section/47/3/c) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 30(3)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/30/3/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 13-16)
+[^c-58ae2537078d541afd1ef7fd1ebb0d4f]: Textual amendment: [S. 47(3)(c)](https://www.legislation.gov.uk/ukpga/2004/8/section/47/3/c) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 30(3)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/30/3/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 13-16)
 
-[^key-e2d1075ea4647d9d654314eb883a1068]: Textual amendment: [S. 47(4)](https://www.legislation.gov.uk/ukpga/2004/8/section/47/4) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 30(3)(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/30/3/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 13-16)
+[^c-e2d1075ea4647d9d654314eb883a1068]: Textual amendment: [S. 47(4)](https://www.legislation.gov.uk/ukpga/2004/8/section/47/4) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 30(3)(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/30/3/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 13-16)

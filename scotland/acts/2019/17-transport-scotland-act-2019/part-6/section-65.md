@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Power to share information[^key-f6ec2429860bf4c0ca4089276098c151]
+## 65. Power to share information[^c-f6ec2429860bf4c0ca4089276098c151]
 
 *Extent: S*
 
@@ -48,7 +48,7 @@ summary: ''
   - (ii) the name and address of the registered keeper of the vehicle alleged by a local authority (or its enforcement agent) to have parked in contravention of any of the parking prohibitions,
   - (iii) the location where the vehicle is alleged to have parked in contravention of any of the parking prohibitions,
   - (iv) any record of an alleged contravention of any of the parking prohibitions produced by an approved device,
-  - (v) any information or representations provided to the local authority by or on behalf of the registered keeper of a vehicle in connection with any review or appeal made by virtue of regulations made under section 59(1)[^key-63a7af913fa4bac6b056b826cfeddac7].
+  - (v) any information or representations provided to the local authority by or on behalf of the registered keeper of a vehicle in connection with any review or appeal made by virtue of regulations made under section 59(1)[^c-63a7af913fa4bac6b056b826cfeddac7].
 
 (5) For the purposes of this section—
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f6ec2429860bf4c0ca4089276098c151]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2019/17/section/65) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-f6ec2429860bf4c0ca4089276098c151]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2019/17/section/65) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-63a7af913fa4bac6b056b826cfeddac7]: Textual amendment: Word in [s. 65(4)(b)(v)](https://www.legislation.gov.uk/asp/2019/17/section/65/4/b/v) substituted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/6)
+[^c-63a7af913fa4bac6b056b826cfeddac7]: Textual amendment: Word in [s. 65(4)(b)(v)](https://www.legislation.gov.uk/asp/2019/17/section/65/4/b/v) substituted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/6)

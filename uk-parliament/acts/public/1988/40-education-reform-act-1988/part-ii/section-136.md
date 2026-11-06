@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Transfer to Polytechnics and Colleges Funding Council of property and staff of NAB.[^key-d11f12ac44e873a2ab62ff443b36f310]
+## 136. Transfer to Polytechnics and Colleges Funding Council of property and staff of NAB.[^c-d11f12ac44e873a2ab62ff443b36f310]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d11f12ac44e873a2ab62ff443b36f310]: Textual amendment: S. 136 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4
+[^c-d11f12ac44e873a2ab62ff443b36f310]: Textual amendment: S. 136 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4

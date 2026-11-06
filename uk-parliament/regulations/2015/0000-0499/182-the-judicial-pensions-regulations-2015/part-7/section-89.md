@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Option for pension credit member to commute part of pension[^key-80bfd0dc4aa986fdaba978203ffb9079]
+## 89. Option for pension credit member to commute part of pension[^c-80bfd0dc4aa986fdaba978203ffb9079]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80bfd0dc4aa986fdaba978203ffb9079]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2015/182/regulation/89) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-80bfd0dc4aa986fdaba978203ffb9079]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2015/182/regulation/89) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**75.**[^key-1e1547c6f107454efc175c711e474a04] In section 20 (appeals), in subsection (3)(b), for “widow or widower” substitute “widow, widower or surviving civil partner”.
+**75.**[^c-1e1547c6f107454efc175c711e474a04] In section 20 (appeals), in subsection (3)(b), for “widow or widower” substitute “widow, widower or surviving civil partner”.
 
 ## Annotations
 
-[^key-1e1547c6f107454efc175c711e474a04]: Commencement: Art. 75 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-1e1547c6f107454efc175c711e474a04]: Commencement: Art. 75 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

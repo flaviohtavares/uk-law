@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. HMICS reports: inquiries directed by Scottish Ministers[^key-2a643cb71e114a9d9ea910ec97340b9b]
+## 78. HMICS reports: inquiries directed by Scottish Ministers[^c-2a643cb71e114a9d9ea910ec97340b9b]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a643cb71e114a9d9ea910ec97340b9b]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2012/8/section/78) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-2a643cb71e114a9d9ea910ec97340b9b]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2012/8/section/78) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

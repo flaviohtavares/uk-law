@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Authentication of building society liquidator’s appointment[^key-2643c9ce7dbc4f87776e74ce9a8ed585]
+## 17. Authentication of building society liquidator’s appointment[^c-2643c9ce7dbc4f87776e74ce9a8ed585]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A sealed copy of the court’s order may in any proceedings be adduced as proof 
 
 ## Annotations
 
-[^key-2643c9ce7dbc4f87776e74ce9a8ed585]: Commencement: Rule 17 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-2643c9ce7dbc4f87776e74ce9a8ed585]: Commencement: Rule 17 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

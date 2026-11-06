@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Right to apply for banning order[^key-bd763d50057a5b40fe44bb7ab8c0cdc4]
+## 22. Right to apply for banning order[^c-bd763d50057a5b40fe44bb7ab8c0cdc4]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd763d50057a5b40fe44bb7ab8c0cdc4]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2007/10/section/22) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-bd763d50057a5b40fe44bb7ab8c0cdc4]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2007/10/section/22) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

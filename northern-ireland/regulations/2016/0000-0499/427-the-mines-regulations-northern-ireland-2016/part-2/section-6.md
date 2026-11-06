@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Notification of mining operations[^key-273369842f91817667aa725c29106081]
+## 6. Notification of mining operations[^c-273369842f91817667aa725c29106081]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-273369842f91817667aa725c29106081]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/427/regulation/6) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-273369842f91817667aa725c29106081]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/427/regulation/6) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00014]: Footnote: Section 118 was amended by [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)

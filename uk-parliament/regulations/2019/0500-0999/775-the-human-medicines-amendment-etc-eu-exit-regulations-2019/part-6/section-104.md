@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Amendment of regulation 112 (withdrawal of homoeopathic medicinal product from the market)[^key-7cf5d25d6e9cf5f7b2950a96a01844bd]
+## 104. Amendment of regulation 112 (withdrawal of homoeopathic medicinal product from the market)[^c-7cf5d25d6e9cf5f7b2950a96a01844bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 112(1), omit “or regulation 111(2)”.
 
 ## Annotations
 
-[^key-7cf5d25d6e9cf5f7b2950a96a01844bd]: Commencement: Reg. 104 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7cf5d25d6e9cf5f7b2950a96a01844bd]: Commencement: Reg. 104 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

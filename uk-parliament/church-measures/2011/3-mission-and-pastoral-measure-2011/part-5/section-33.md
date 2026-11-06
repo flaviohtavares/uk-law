@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 33. Archdeaconries and deaneries[^key-07fe90273f624220eef685f0f6ef3f14]
+## 33. Archdeaconries and deaneries[^c-07fe90273f624220eef685f0f6ef3f14]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ A pastoral scheme—
 
 ## Annotations
 
-[^key-07fe90273f624220eef685f0f6ef3f14]: Commencement: S. 33 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-07fe90273f624220eef685f0f6ef3f14]: Commencement: S. 33 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

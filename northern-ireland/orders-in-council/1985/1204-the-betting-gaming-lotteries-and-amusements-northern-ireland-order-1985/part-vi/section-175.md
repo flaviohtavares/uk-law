@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Department of Justice shall cause to be kept (whether by clerks of petty sessions or otherwise) a register of clubs[^key-4bfeb6620062a540301ab18802d99ec4] in respect of which a certificate of registration is issued under Article 97(1).
+(1) The Department of Justice shall cause to be kept (whether by clerks of petty sessions or otherwise) a register of clubs[^c-4bfeb6620062a540301ab18802d99ec4] in respect of which a certificate of registration is issued under Article 97(1).
 
-(2) There shall be recorded[^key-379774b5b47553aa314efbe372e5dd51] in respect of each club entered in the register—
+(2) There shall be recorded[^c-379774b5b47553aa314efbe372e5dd51] in respect of each club entered in the register—
 
 - (a) the name of the club;
 - (b) the address of the premises of the club;
@@ -33,14 +33,14 @@ summary: ''
 - (g) particulars of any matters such as are mentioned in paragraph (3);
 - (h) such other matters as may be prescribed by regulations.
 
-(3)[^key-888ddfcaab813279539b57594aa76955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-888ddfcaab813279539b57594aa76955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Article 174(5) shall apply to a register of clubs under this Article as it applies to a register of licences, certificates and permits under that Article.
 
 ## Annotations
 
-[^key-4bfeb6620062a540301ab18802d99ec4]: Textual amendment: Words in art. 175(1) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(8)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/8/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-4bfeb6620062a540301ab18802d99ec4]: Textual amendment: Words in art. 175(1) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(8)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/8/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-379774b5b47553aa314efbe372e5dd51]: Textual amendment: Words in art. 175(2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(8)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/8/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-379774b5b47553aa314efbe372e5dd51]: Textual amendment: Words in art. 175(2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(8)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/8/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-888ddfcaab813279539b57594aa76955]: Textual amendment: Art. 175(3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(8)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/8/c), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-888ddfcaab813279539b57594aa76955]: Textual amendment: Art. 175(3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(8)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/8/c), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

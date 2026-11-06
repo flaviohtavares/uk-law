@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75D. Duty to secure accommodation: reporting[^key-ce3319b2556ca924e4e1c2940ae126ee]
+## 75D. Duty to secure accommodation: reporting[^c-ce3319b2556ca924e4e1c2940ae126ee]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In relation to each financial year for which an annual sufficiency plan has been
 
 ## Annotations
 
-[^key-ce3319b2556ca924e4e1c2940ae126ee]: Textual amendment: [S. 75D](https://www.legislation.gov.uk/anaw/2014/4/section/75D) inserted (1.4.2026 for specified purposes) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 12](https://www.legislation.gov.uk/asc/2025/1/section/12), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/b)
+[^c-ce3319b2556ca924e4e1c2940ae126ee]: Textual amendment: [S. 75D](https://www.legislation.gov.uk/anaw/2014/4/section/75D) inserted (1.4.2026 for specified purposes) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 12](https://www.legislation.gov.uk/asc/2025/1/section/12), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/b)

@@ -34,7 +34,7 @@ Regulations made by the Department for Communities and laid before the Assembly 
 
 Social Security
 
-The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2023 (revoked)[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]
+The Social Security Benefits Up-rating (No. 2) Regulations (Northern Ireland) 2023 (revoked)[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]
 
 Made
 
@@ -44,51 +44,51 @@ Coming into operation
 
 27th September 2023
 
-[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]
+## 1. Citation, commencement and interpretation[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Northern Ireland[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]
+## 3. Persons not ordinarily resident in Northern Ireland[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security Benefit (Dependency) Regulations[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]
+## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Social Security (Claims and Payments) Regulations[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]
+## 5. Amendment of the Social Security Benefit (Dependency) Regulations[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Universal Credit (Transitional Provisions) Regulations[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]
+## 6. Amendment of the Social Security (Claims and Payments) Regulations[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]
+## 7. Amendment of the Universal Credit (Transitional Provisions) Regulations[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Revocation[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]
 
 **Not yet in force.**
 
@@ -96,10 +96,10 @@ Coming into operation
 
 **May not be in force at this date. Check the source.**
 
-[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0cb5d3e9343f4abd02dab6b05fc7bdd1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/145) revoked (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Regulations (Northern Ireland) 2023 (S.R. 2023/151)](https://www.legislation.gov.uk/nisr/2023/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/151/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2023/151/regulation/8)
+[^c-0cb5d3e9343f4abd02dab6b05fc7bdd1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/145) revoked (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Regulations (Northern Ireland) 2023 (S.R. 2023/151)](https://www.legislation.gov.uk/nisr/2023/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/151/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2023/151/regulation/8)

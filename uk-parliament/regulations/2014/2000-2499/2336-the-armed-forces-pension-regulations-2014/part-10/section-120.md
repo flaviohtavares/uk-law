@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Reduction of benefits where annual allowance charge paid by scheme manager[^key-8eea3ebdf098a3a1581dbd3f7e8ff94c]
+## 120. Reduction of benefits where annual allowance charge paid by scheme manager[^c-8eea3ebdf098a3a1581dbd3f7e8ff94c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eea3ebdf098a3a1581dbd3f7e8ff94c]: Commencement: [Reg. 120](https://www.legislation.gov.uk/uksi/2014/2336/regulation/120) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-8eea3ebdf098a3a1581dbd3f7e8ff94c]: Commencement: [Reg. 120](https://www.legislation.gov.uk/uksi/2014/2336/regulation/120) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

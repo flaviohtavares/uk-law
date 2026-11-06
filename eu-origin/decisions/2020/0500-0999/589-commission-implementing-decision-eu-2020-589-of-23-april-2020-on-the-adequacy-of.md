@@ -37,20 +37,20 @@ on the adequacy of the competent authority of the Republic of South Africa pursu
 
 (Text with EEA relevance) (revoked)
 
-[^key-bb701af445bddc709e71d3690d95213d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb701af445bddc709e71d3690d95213d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-bb701af445bddc709e71d3690d95213d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bb701af445bddc709e71d3690d95213d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bb701af445bddc709e71d3690d95213d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bb701af445bddc709e71d3690d95213d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-bb701af445bddc709e71d3690d95213d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-bb701af445bddc709e71d3690d95213d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-bb701af445bddc709e71d3690d95213d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-bb701af445bddc709e71d3690d95213d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bb701af445bddc709e71d3690d95213d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb701af445bddc709e71d3690d95213d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bb701af445bddc709e71d3690d95213d]: Textual amendment: Decision revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/153/schedule) Table 1
+[^c-bb701af445bddc709e71d3690d95213d]: Textual amendment: Decision revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/153/schedule) Table 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 327. Proceedings other than special administration commenced[^key-31a5544a7288283b02ec1555adacc120]
+## 327. Proceedings other than special administration commenced[^c-31a5544a7288283b02ec1555adacc120]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ the Authority may apply to the court to order that the proceedings be converted 
 
 (5) In this rule—
 
-- “[^key-de39644a93b6a18b852e41fd9a87bee7]**the Authority**” means—
+- “[^c-de39644a93b6a18b852e41fd9a87bee7]**the Authority**” means—
   - (a) where the investment bank is a deposit-taker and the application under paragraph (1) is for an order to convert the proceedings to—
     - (i) a special administration (bank administration), the Bank of England;
     - (ii) a special administration (bank insolvency)—
@@ -53,6 +53,6 @@ the Authority may apply to the court to order that the proceedings be converted 
 
 ## Annotations
 
-[^key-31a5544a7288283b02ec1555adacc120]: Commencement: [Rule 327](https://www.legislation.gov.uk/uksi/2011/1301/rule/327) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-31a5544a7288283b02ec1555adacc120]: Commencement: [Rule 327](https://www.legislation.gov.uk/uksi/2011/1301/rule/327) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-de39644a93b6a18b852e41fd9a87bee7]: Textual amendment: Words in [art. 327(5)](https://www.legislation.gov.uk/uksi/2011/1301/article/327/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(x)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/x) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-de39644a93b6a18b852e41fd9a87bee7]: Textual amendment: Words in [art. 327(5)](https://www.legislation.gov.uk/uksi/2011/1301/article/327/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(x)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/x) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

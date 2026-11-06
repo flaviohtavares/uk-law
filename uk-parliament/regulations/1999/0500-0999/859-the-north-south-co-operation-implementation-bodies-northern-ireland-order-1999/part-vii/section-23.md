@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Annual report and accounts[^key-99cd8e83a7b6aa3fdb1c183586a9c81c]
+## 23. Annual report and accounts[^c-99cd8e83a7b6aa3fdb1c183586a9c81c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The Minister of Agriculture and Rural Development shall lay before the Assembly 
 
 ## Annotations
 
-[^key-99cd8e83a7b6aa3fdb1c183586a9c81c]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/1999/859/article/23) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-99cd8e83a7b6aa3fdb1c183586a9c81c]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/1999/859/article/23) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

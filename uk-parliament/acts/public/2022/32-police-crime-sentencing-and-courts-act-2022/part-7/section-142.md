@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Extension of driving disqualification where custodial sentence imposed: Scotland[^key-b9b1488d8f7756e5c31edc98ffd3d19d]
+## 142. Extension of driving disqualification where custodial sentence imposed: Scotland[^c-b9b1488d8f7756e5c31edc98ffd3d19d]
 
 *Extent: E+W+S*
 
@@ -130,4 +130,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9b1488d8f7756e5c31edc98ffd3d19d]: Commencement: S. 142 in force at Royal Assent, see [s. 208(4)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/q)
+[^c-b9b1488d8f7756e5c31edc98ffd3d19d]: Commencement: S. 142 in force at Royal Assent, see [s. 208(4)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/q)

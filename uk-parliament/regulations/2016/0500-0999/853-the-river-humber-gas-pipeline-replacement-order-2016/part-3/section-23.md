@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Extinguishment and suspension of private rights[^key-d816a58799804d61741de5ca3b70b074]
+## 23. Extinguishment and suspension of private rights[^c-d816a58799804d61741de5ca3b70b074]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-d816a58799804d61741de5ca3b70b074]: Commencement: Art. 23 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-d816a58799804d61741de5ca3b70b074]: Commencement: Art. 23 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

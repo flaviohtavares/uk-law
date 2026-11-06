@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Crown Rights[^key-b70a53c9698ecebb56f9a8a5a58aa015]
+## 51. Crown Rights[^c-b70a53c9698ecebb56f9a8a5a58aa015]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b70a53c9698ecebb56f9a8a5a58aa015]: Commencement: Art. 51 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-b70a53c9698ecebb56f9a8a5a58aa015]: Commencement: Art. 51 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

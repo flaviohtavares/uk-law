@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Minor and consequential amendments[^key-3c6fb2ec7ab555600c67397dff236995]
+## 106. Minor and consequential amendments[^c-3c6fb2ec7ab555600c67397dff236995]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4 (minor and consequential amendments) has effect.
 
 ## Annotations
 
-[^key-3c6fb2ec7ab555600c67397dff236995]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2005/16/section/106) in force at 18.1.2008 for specified purposes for W. by [S.I. 2007/3371](https://www.legislation.gov.uk/wsi/2007/3371), [art. 2(a)](https://www.legislation.gov.uk/wsi/2007/3371/article/2/a)
+[^c-3c6fb2ec7ab555600c67397dff236995]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2005/16/section/106) in force at 18.1.2008 for specified purposes for W. by [S.I. 2007/3371](https://www.legislation.gov.uk/wsi/2007/3371), [art. 2(a)](https://www.legislation.gov.uk/wsi/2007/3371/article/2/a)

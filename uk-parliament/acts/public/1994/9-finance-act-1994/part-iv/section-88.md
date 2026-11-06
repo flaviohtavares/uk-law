@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Beneficial loan arrangements.[^key-83eb369d8469a0aff3485116960958d7]
+## 88. Beneficial loan arrangements.[^c-83eb369d8469a0aff3485116960958d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83eb369d8469a0aff3485116960958d7]: Textual amendment: [S. 89](https://www.legislation.gov.uk/ukpga/1994/9/section/89) repealed (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-83eb369d8469a0aff3485116960958d7]: Textual amendment: [S. 89](https://www.legislation.gov.uk/ukpga/1994/9/section/89) repealed (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

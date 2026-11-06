@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Application in a special administration (bank administration)[^key-31475b208a81393fe109da9acd52e583]
+## 132. Application in a special administration (bank administration)[^c-31475b208a81393fe109da9acd52e583]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ If an application referred to in rule 131(1) is made before the Bank of England 
 
 ## Annotations
 
-[^key-31475b208a81393fe109da9acd52e583]: Commencement: [Rule 132](https://www.legislation.gov.uk/uksi/2011/1301/rule/132) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-31475b208a81393fe109da9acd52e583]: Commencement: [Rule 132](https://www.legislation.gov.uk/uksi/2011/1301/rule/132) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

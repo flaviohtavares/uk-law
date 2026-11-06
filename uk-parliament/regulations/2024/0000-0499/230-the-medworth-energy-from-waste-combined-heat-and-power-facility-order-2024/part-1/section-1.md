@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-44c79ac18dc95f13240f1dae66e1b649]
+## 1. Citation and commencement[^c-44c79ac18dc95f13240f1dae66e1b649]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Medworth Energy from Waste Combined Heat and Powe
 
 ## Annotations
 
-[^key-44c79ac18dc95f13240f1dae66e1b649]: Commencement: Art. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-44c79ac18dc95f13240f1dae66e1b649]: Commencement: Art. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

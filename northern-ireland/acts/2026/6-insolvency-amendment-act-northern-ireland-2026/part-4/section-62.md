@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Provision that may be included in company insolvency rules[^key-5093fe9c1008d17c25bed4708be734fe]
+## 62. Provision that may be included in company insolvency rules[^c-5093fe9c1008d17c25bed4708be734fe]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5093fe9c1008d17c25bed4708be734fe]: Commencement: S. 62 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-5093fe9c1008d17c25bed4708be734fe]: Commencement: S. 62 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 18 — Friendly societies[^key-2d601730de18381fae920e4aa4339030]
+## SCHEDULE 18 — Friendly societies[^c-2d601730de18381fae920e4aa4339030]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ Section 44
 
 ## Annotations
 
-[^key-2d601730de18381fae920e4aa4339030]: Textual amendment: [Sch. 18](https://www.legislation.gov.uk/ukpga/2008/9/schedule/18) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(f)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/f/ii)
+[^c-2d601730de18381fae920e4aa4339030]: Textual amendment: [Sch. 18](https://www.legislation.gov.uk/ukpga/2008/9/schedule/18) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(f)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/f/ii)

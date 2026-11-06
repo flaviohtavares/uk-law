@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Conditions for exercise of restraint order powers[^key-d55d6ab89f9dc330f71566154ca1b0d3]
+## 11. Conditions for exercise of restraint order powers[^c-d55d6ab89f9dc330f71566154ca1b0d3]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d55d6ab89f9dc330f71566154ca1b0d3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2015/9/section/11) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/h)
+[^c-d55d6ab89f9dc330f71566154ca1b0d3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2015/9/section/11) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/h)

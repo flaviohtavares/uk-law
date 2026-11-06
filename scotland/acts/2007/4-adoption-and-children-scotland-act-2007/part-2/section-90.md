@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Precedence of certain other orders[^key-68e06f5f0eb50678250aafdd02530f35][^key-481f4b429b436ad7a7b9a78421b51e0f]
+## 90. Precedence of certain other orders[^c-68e06f5f0eb50678250aafdd02530f35][^c-481f4b429b436ad7a7b9a78421b51e0f]
 
 *Extent: S*
 
@@ -25,12 +25,12 @@ summary: ''
 (2) The local authority must not act in any way which would be incompatible with—
 
 - (a) any other court order of which the authority is aware relating to the child or the child's property,
-- (b) any compulsory supervision order or interim compulsory supervision order[^key-b76c5bb087c8b0194d815c053077adfa] to which the child is subject.
+- (b) any compulsory supervision order or interim compulsory supervision order[^c-b76c5bb087c8b0194d815c053077adfa] to which the child is subject.
 
 ## Annotations
 
-[^key-68e06f5f0eb50678250aafdd02530f35]: Commencement: S. 90 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-68e06f5f0eb50678250aafdd02530f35]: Commencement: S. 90 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-481f4b429b436ad7a7b9a78421b51e0f]: Textual amendment: [S. 90 title](https://www.legislation.gov.uk/asp/2007/4/section/90) substituted (24.6.2013) by [The Childrenâ€™s Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/17/7)
+[^c-481f4b429b436ad7a7b9a78421b51e0f]: Textual amendment: [S. 90 title](https://www.legislation.gov.uk/asp/2007/4/section/90) substituted (24.6.2013) by [The Childrenâ€™s Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/17/7)
 
-[^key-b76c5bb087c8b0194d815c053077adfa]: Textual amendment: Words in [s. 90(2)(b)](https://www.legislation.gov.uk/asp/2007/4/section/90/2/b) substituted (24.6.2013) by [The Childrenâ€™s Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/17/7)
+[^c-b76c5bb087c8b0194d815c053077adfa]: Textual amendment: Words in [s. 90(2)(b)](https://www.legislation.gov.uk/asp/2007/4/section/90/2/b) substituted (24.6.2013) by [The Childrenâ€™s Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/17/7)

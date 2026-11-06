@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Disclosure of information about use of service by deceased child users[^key-e25fe49d37078f06f5221a957c2a369b]
+## 75. Disclosure of information about use of service by deceased child users[^c-e25fe49d37078f06f5221a957c2a369b]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e25fe49d37078f06f5221a957c2a369b]: Commencement: S. 75 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-e25fe49d37078f06f5221a957c2a369b]: Commencement: S. 75 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)

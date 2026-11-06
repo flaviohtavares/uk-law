@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 292AB. Maximum risk finance investments during the 5-year post-investment period requirement[^key-19be716464bcd3d6fd178f774b9dc9c4]
+## 292AB. Maximum risk finance investments during the 5-year post-investment period requirement[^c-19be716464bcd3d6fd178f774b9dc9c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (4) The requirement of this section is that, at all times during the 5-year post-investment period, the total of the relevant investments made in the relevant company before the time in question (“**the relevant time**”) must not exceed—
 
-- (a)[^key-5d83f509a0ccdb9a24b6ac6202f29bbf] if at the investment date the relevant company is a knowledge-intensive company (see section 331A) and—
+- (a)[^c-5d83f509a0ccdb9a24b6ac6202f29bbf] if at the investment date the relevant company is a knowledge-intensive company (see section 331A) and—
   - (i) not a specified Northern Ireland company, £40 million;
   - (ii) a specified Northern Ireland company, £20 million, and
 - (b) if at the investment date the relevant company is not a knowledge-intensive company and—
@@ -78,6 +78,6 @@ and section 280B(8) and (9) (meaning of “trade” etc) applies for the purpose
 
 ## Annotations
 
-[^key-19be716464bcd3d6fd178f774b9dc9c4]: Textual amendment: Ss. 292AA, 292AB inserted (with effect in accordance with Sch. 6 para. 23(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/8)
+[^c-19be716464bcd3d6fd178f774b9dc9c4]: Textual amendment: Ss. 292AA, 292AB inserted (with effect in accordance with Sch. 6 para. 23(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/8)
 
-[^key-5d83f509a0ccdb9a24b6ac6202f29bbf]: Textual amendment: S. 292AB(4)(a)(b) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 15(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/5)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/9)
+[^c-5d83f509a0ccdb9a24b6ac6202f29bbf]: Textual amendment: S. 292AB(4)(a)(b) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 15(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/5)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/9)

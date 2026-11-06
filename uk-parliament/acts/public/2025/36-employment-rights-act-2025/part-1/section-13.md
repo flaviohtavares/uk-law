@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Statutory sick pay in Northern Ireland: lower earnings limit etc[^key-017acd0a10e5063fb84aea03df124c66][^key-4eac1b8c7ecb3e50720c330285c04c74]
+## 13. Statutory sick pay in Northern Ireland: lower earnings limit etc[^c-017acd0a10e5063fb84aea03df124c66][^c-4eac1b8c7ecb3e50720c330285c04c74]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-017acd0a10e5063fb84aea03df124c66]: Commencement: S. 13 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-017acd0a10e5063fb84aea03df124c66]: Commencement: S. 13 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4eac1b8c7ecb3e50720c330285c04c74]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/36/section/13) in force at 6.4.2026 by [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4), [6](https://www.legislation.gov.uk/uksi/2026/373/regulation/6))
+[^c-4eac1b8c7ecb3e50720c330285c04c74]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/36/section/13) in force at 6.4.2026 by [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4), [6](https://www.legislation.gov.uk/uksi/2026/373/regulation/6))

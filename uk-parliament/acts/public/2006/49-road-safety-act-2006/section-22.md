@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-bee84d47410e8a53648af7c4dc8aaccd] In the Road Traffic Act 1988 (c. 52), after section 144 insert—
+(1)[^c-bee84d47410e8a53648af7c4dc8aaccd] In the Road Traffic Act 1988 (c. 52), after section 144 insert—
 
 > **144A. Offence of keeping vehicle which does not meet insurance requirements**
 >
@@ -128,7 +128,7 @@ summary: ''
 > - (a) in England and Wales, in a magistrates' court, and
 > - (b) in Scotland, in any court other than the High Court of Justiciary or the Court of Session.
 
-(2)[^key-bee84d47410e8a53648af7c4dc8aaccd] Before section 160 of the Road Traffic Act 1988 (c. 52) insert—
+(2)[^c-bee84d47410e8a53648af7c4dc8aaccd] Before section 160 of the Road Traffic Act 1988 (c. 52) insert—
 
 > **159A. Disclosure of information**
 >
@@ -139,25 +139,25 @@ summary: ''
 > - “**MIIC**” means the Motor Insurers' Information Centre (a company limited by guarantee and incorporated under the Companies Act 1985 on 8th December 1998), and
 > - “**information**” means information held in any form.
 
-(3)[^key-4b93f87ec11bc399d780269c72454816] After Schedule 2 to that Act insert the Schedule 2A set out in Schedule 5 to this Act.
+(3)[^c-4b93f87ec11bc399d780269c72454816] After Schedule 2 to that Act insert the Schedule 2A set out in Schedule 5 to this Act.
 
-(4)[^key-c6daa244ba5d0b0fa0f4202bd46cd2a0] In section 91(a) of the Road Traffic Offenders Act 1988 (c. 53) (penalty for breach of regulations: application to regulations under Road Traffic Act 1988), after “132” insert “ or under section 160 by virtue of Schedule 2A ”.
+(4)[^c-c6daa244ba5d0b0fa0f4202bd46cd2a0] In section 91(a) of the Road Traffic Offenders Act 1988 (c. 53) (penalty for breach of regulations: application to regulations under Road Traffic Act 1988), after “132” insert “ or under section 160 by virtue of Schedule 2A ”.
 
-(5)[^key-b648ff3ec0dc4e9ca3ba95a9c210d06d] In Schedule 1 to that Act (offences to which certain sections apply), after the entry relating to section 143 of the Road Traffic Act 1988 insert—
+(5)[^c-b648ff3ec0dc4e9ca3ba95a9c210d06d] In Schedule 1 to that Act (offences to which certain sections apply), after the entry relating to section 143 of the Road Traffic Act 1988 insert—
 
 > |  |  |  |
 > | --- | --- | --- |
 > | RTA section 144A | Keeping vehicle which does not meet insurance requirements. | Sections 6, 11 and 12(1) of this Act. |
 
-(6)[^key-d3efb5ce6c3f9e022ff86eff8482ba63][^key-b4c7b6d59b11bc2c6b195b6a5c40614d] Part 1 of Schedule 2 to that Act (prosecution and punishment of offences: offences under the Traffic Acts) is amended as follows.
+(6)[^c-d3efb5ce6c3f9e022ff86eff8482ba63][^c-b4c7b6d59b11bc2c6b195b6a5c40614d] Part 1 of Schedule 2 to that Act (prosecution and punishment of offences: offences under the Traffic Acts) is amended as follows.
 
-(7)[^key-d8df798f14e67df196fbfbc6e9c8f1cc] After the entry relating to section 143 of the Road Traffic Act 1988 insert—
+(7)[^c-d8df798f14e67df196fbfbc6e9c8f1cc] After the entry relating to section 143 of the Road Traffic Act 1988 insert—
 
 > |  |  |  |  |  |  |  |
 > | --- | --- | --- | --- | --- | --- | --- |
 > | RTA section 144A | Keeping vehicle which does not meet insurance requirements. | Summarily. | Level 3 on the standard scale. |  |  |  |
 
-(8)[^key-fb27a4c5af0e5eaeaa7273b174dd7dc6] After the entry relating to section 154 of the Road Traffic Act 1988 insert—
+(8)[^c-fb27a4c5af0e5eaeaa7273b174dd7dc6] After the entry relating to section 154 of the Road Traffic Act 1988 insert—
 
 > |  |  |  |  |  |  |  |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -169,18 +169,18 @@ summary: ''
 
 ## Annotations
 
-[^key-bee84d47410e8a53648af7c4dc8aaccd]: Commencement: [S. 22(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/2) in force at 4.2.2011 by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/19/article/2/a)
+[^c-bee84d47410e8a53648af7c4dc8aaccd]: Commencement: [S. 22(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/2) in force at 4.2.2011 by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/19/article/2/a)
 
-[^key-4b93f87ec11bc399d780269c72454816]: Commencement: [S. 22(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/3) in force at 4.2.2011 by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/19/article/2/b)
+[^c-4b93f87ec11bc399d780269c72454816]: Commencement: [S. 22(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/3) in force at 4.2.2011 by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/19/article/2/b)
 
-[^key-c6daa244ba5d0b0fa0f4202bd46cd2a0]: Commencement: [S. 22(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/4) in force at 16.5.2011 by [S.I. 2011/1119](https://www.legislation.gov.uk/uksi/2011/1119), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1119/article/2/a)
+[^c-c6daa244ba5d0b0fa0f4202bd46cd2a0]: Commencement: [S. 22(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/4) in force at 16.5.2011 by [S.I. 2011/1119](https://www.legislation.gov.uk/uksi/2011/1119), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1119/article/2/a)
 
-[^key-b648ff3ec0dc4e9ca3ba95a9c210d06d]: Commencement: [S. 22(5)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/5) in force at 4.2.2011 by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/19/article/2/c)
+[^c-b648ff3ec0dc4e9ca3ba95a9c210d06d]: Commencement: [S. 22(5)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/5) in force at 4.2.2011 by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/19/article/2/c)
 
-[^key-d3efb5ce6c3f9e022ff86eff8482ba63]: Commencement: [S. 22(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/6) in force at 4.2.2011 for specified purposes by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/19/article/2/d)
+[^c-d3efb5ce6c3f9e022ff86eff8482ba63]: Commencement: [S. 22(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/6) in force at 4.2.2011 for specified purposes by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/19/article/2/d)
 
-[^key-b4c7b6d59b11bc2c6b195b6a5c40614d]: Commencement: [S. 22(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/6) in force at 16.5.2011 for specified purposes by [S.I. 2011/1119](https://www.legislation.gov.uk/uksi/2011/1119), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1119/article/2/b)
+[^c-b4c7b6d59b11bc2c6b195b6a5c40614d]: Commencement: [S. 22(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/6) in force at 16.5.2011 for specified purposes by [S.I. 2011/1119](https://www.legislation.gov.uk/uksi/2011/1119), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1119/article/2/b)
 
-[^key-d8df798f14e67df196fbfbc6e9c8f1cc]: Commencement: [S. 22(7)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/7) in force at 4.2.2011 by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/19/article/2/e)
+[^c-d8df798f14e67df196fbfbc6e9c8f1cc]: Commencement: [S. 22(7)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/7) in force at 4.2.2011 by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/19/article/2/e)
 
-[^key-fb27a4c5af0e5eaeaa7273b174dd7dc6]: Commencement: [S. 22(8)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/8) in force at 16.5.2011 for specified purposes by [S.I. 2011/1119](https://www.legislation.gov.uk/uksi/2011/1119), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1119/article/2/c)
+[^c-fb27a4c5af0e5eaeaa7273b174dd7dc6]: Commencement: [S. 22(8)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/8) in force at 16.5.2011 for specified purposes by [S.I. 2011/1119](https://www.legislation.gov.uk/uksi/2011/1119), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1119/article/2/c)

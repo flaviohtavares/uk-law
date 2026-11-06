@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25B. Assisting entry to United Kingdom in breach of deportation or exclusion order[^key-372fdf82103f3cad21b86de386968887]
+## 25B. Assisting entry to United Kingdom in breach of deportation or exclusion order[^c-372fdf82103f3cad21b86de386968887]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-372fdf82103f3cad21b86de386968887]: Textual amendment: S. 25B omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/5/4) (with [reg. 5(7)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/5/7))
+[^c-372fdf82103f3cad21b86de386968887]: Textual amendment: S. 25B omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/5/4) (with [reg. 5(7)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/5/7))

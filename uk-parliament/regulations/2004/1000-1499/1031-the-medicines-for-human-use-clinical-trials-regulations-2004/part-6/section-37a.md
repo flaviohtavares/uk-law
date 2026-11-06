@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37A. Exemption for radiopharmaceuticals used for diagnostic purposes[^key-487a7157b7b1c98768e38d8e6c5f72b1]
+## 37A. Exemption for radiopharmaceuticals used for diagnostic purposes[^c-487a7157b7b1c98768e38d8e6c5f72b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-487a7157b7b1c98768e38d8e6c5f72b1]: Textual amendment: Reg. 37A inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2025/538/regulation/28)
+[^c-487a7157b7b1c98768e38d8e6c5f72b1]: Textual amendment: Reg. 37A inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2025/538/regulation/28)

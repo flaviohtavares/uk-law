@@ -33,11 +33,11 @@ An Act to create community charges in favour of certain authorities, to create n
 
 \[29th July 1988\]
 
-[^c13065741][^c13065751][^c13065761][^c13065771][^c13065781][^c13065791][^c13065801][^c13065811]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-73cfd603278610b739b9021dbb02efb1][^key-755e70ed7e9148b79ee0cf76fc44effc][^key-2f2dba5ce5a102ec803e2ff54134563b]
+[^c13065741][^c13065751][^c13065761][^c13065771][^c13065781][^c13065791][^c13065801][^c13065811]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-73cfd603278610b739b9021dbb02efb1][^c-755e70ed7e9148b79ee0cf76fc44effc][^c-2f2dba5ce5a102ec803e2ff54134563b]
 
 ## Contents
 
-### Part I[^c13065821][^c13065831][^key-53c37dfbf2a09a4bc3980345fbfebb03]
+### Part I[^c13065821][^c13065831][^c-53c37dfbf2a09a4bc3980345fbfebb03]
 
 *Extent: E+W*
 
@@ -151,7 +151,7 @@ An Act to create community charges in favour of certain authorities, to create n
 
 - [Section 40 — Standard community charge multipliers.](part-ii/section-40.md)
 
-### Part III — Non-Domestic Rating[^c13066751][^key-6f27009b0d4afaaa80a886a31b62b9e4][^key-5ca417f98ba0546eb40ff642e9c59696]
+### Part III — Non-Domestic Rating[^c13066751][^c-6f27009b0d4afaaa80a886a31b62b9e4][^c-5ca417f98ba0546eb40ff642e9c59696]
 
 *Extent: E+W*
 
@@ -213,7 +213,7 @@ An Act to create community charges in favour of certain authorities, to create n
 - [Section 63C — Freedom of information](part-iii/section-63c.md)
 - [Section 63D — Disclosure of valuation information to Northern Ireland rating officials](part-iii/section-63d.md)
 
-#### Anti-avoidance: Wales[^key-9eac80814827efb9843636c34651633c]
+#### Anti-avoidance: Wales[^c-9eac80814827efb9843636c34651633c]
 
 - [Section 63F — Artificial non-domestic rating avoidance arrangements: introduction](part-iii/section-63f.md)
 - [Section 63G — Meaning of “advantage”](part-iii/section-63g.md)
@@ -256,7 +256,7 @@ An Act to create community charges in favour of certain authorities, to create n
 
 *Extent: E+W*
 
-#### Chapter 1 — General[^key-d9c93ea36bb6af85c161a41a802c7c5f]
+#### Chapter 1 — General[^c-d9c93ea36bb6af85c161a41a802c7c5f]
 
 - [Section 76 — Interpretation.](part-v/section-76.md)
 
@@ -264,11 +264,11 @@ An Act to create community charges in favour of certain authorities, to create n
 
 - [Section 77 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-77.md)
 
-#### Chapter 2 — Revenue support grant: England[^key-6c55dbc3e80e27e0d6954b4544b58ce6]
+#### Chapter 2 — Revenue support grant: England[^c-6c55dbc3e80e27e0d6954b4544b58ce6]
 
 *Extent: E+W*
 
-##### Introductory[^key-e36cdb884d04d2d24109579bfd79c694]
+##### Introductory[^c-e36cdb884d04d2d24109579bfd79c694]
 
 - [Section 77A — Application of Chapter 2](part-v/section-77a.md)
 
@@ -291,7 +291,7 @@ An Act to create community charges in favour of certain authorities, to create n
 - [Section 84B — Calculation of sums payable under amending reports.](part-v/section-84b.md)
 - [Section 84C — Payment of sums under amending reports.](part-v/section-84c.md)
 
-#### Chapter 3 — Revenue Support Grant: Wales[^key-f30e0be8042ee7b0528fb9726a5c1d7c]
+#### Chapter 3 — Revenue Support Grant: Wales[^c-f30e0be8042ee7b0528fb9726a5c1d7c]
 
 *Extent: E+W*
 
@@ -307,20 +307,20 @@ An Act to create community charges in favour of certain authorities, to create n
 - [Section 84N — Payment of grant following amending report](part-v/section-84n.md)
 - [Section 84P — Information deadlines](part-v/section-84p.md)
 
-#### Chapter 4 — Other grants[^key-a3aa5ac1a025fcbd537032850cd2ac83]
+#### Chapter 4 — Other grants[^c-a3aa5ac1a025fcbd537032850cd2ac83]
 
 *Extent: E+W*
 
 - [Section 84Q — Application of this Chapter etc](part-v/section-84q.md)
 
-##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b01c2167cc5b029135a486b2667f3ad5]
+##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b01c2167cc5b029135a486b2667f3ad5]
 
 *Extent: E+W*
 
 - [Section 85 — Additional grant.](part-v/section-85.md)
 - [Section 86 — Effect of report’s approval.](part-v/section-86.md)
 
-##### Additional grant: Wales[^key-93d712fc7e22da88493dd527302c4a4a]
+##### Additional grant: Wales[^c-93d712fc7e22da88493dd527302c4a4a]
 
 - [Section 86A — Additional grant: Wales](part-v/section-86a.md)
 - [Section 86B — Effect of additional grant report’s approval: Wales](part-v/section-86b.md)
@@ -384,7 +384,7 @@ An Act to create community charges in favour of certain authorities, to create n
 - [Section 109 — Other financial requirements.](part-vii/section-109.md)
 - [Section 110 — Information.](part-vii/section-110.md)
 
-### Part VIII — Financial Administration[^c13072901][^key-7157c2ff95538c4ebcc2393052fa112a][^key-9a97a36ee5ddef3230a1625e605894af][^key-7e68e8127bb5b5c5d1434bce3da4e6b1]
+### Part VIII — Financial Administration[^c13072901][^c-7157c2ff95538c4ebcc2393052fa112a][^c-9a97a36ee5ddef3230a1625e605894af][^c-7e68e8127bb5b5c5d1434bce3da4e6b1]
 
 *Extent: E+W*
 
@@ -513,17 +513,17 @@ SCHEDULES
 
     Act: transfer of functions (W.) (1.7.1999 subject to entries in Sch. 1 of the amending S.I.) by 1999 [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) art. 2 Sch. 1
 
-[^key-73cfd603278610b739b9021dbb02efb1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/41) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-73cfd603278610b739b9021dbb02efb1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/41) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-755e70ed7e9148b79ee0cf76fc44effc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/41) applied (with modifications) (E.) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/7)
+[^c-755e70ed7e9148b79ee0cf76fc44effc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/41) applied (with modifications) (E.) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/7)
 
-[^key-2f2dba5ce5a102ec803e2ff54134563b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/41) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/7)
+[^c-2f2dba5ce5a102ec803e2ff54134563b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/41) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/7)
 
 [^c13065821]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1988/41/part/I) amended (28.11.1994) by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825), [regs. 24](https://www.legislation.gov.uk/uksi/1994/2825/regulation/24), [25](https://www.legislation.gov.uk/uksi/1994/2825/regulation/25)
 
 [^c13065831]: Textual amendment: [Pts. I](https://www.legislation.gov.uk/ukpga/1988/41/part/I) and II (ss. 1-40) repealed (6.3.1992) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/2), [Sch.14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 
-[^key-53c37dfbf2a09a4bc3980345fbfebb03]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1988/41/part/I) applied in part (with modifications) by 2000 c. 38, Sch. 10 Pt. 2 para. 23 (as inserted (26.11.2008 for specified purposes, 9.2.2009 for E. in so far as not already in force, 1.4.2009 for W. in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2008/26/schedule/2/paragraph/15); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(d)](https://www.legislation.gov.uk/wsi/2009/579/article/2/d))
+[^c-53c37dfbf2a09a4bc3980345fbfebb03]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1988/41/part/I) applied in part (with modifications) by 2000 c. 38, Sch. 10 Pt. 2 para. 23 (as inserted (26.11.2008 for specified purposes, 9.2.2009 for E. in so far as not already in force, 1.4.2009 for W. in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2008/26/schedule/2/paragraph/15); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(d)](https://www.legislation.gov.uk/wsi/2009/579/article/2/d))
 
 [^c13066231]: Textual amendment: [Pts. I](https://www.legislation.gov.uk/ukpga/1988/41/part/I) and II (ss. 1-40) repealed (6.3.1992) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/2), [Sch.14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 
@@ -535,29 +535,29 @@ SCHEDULES
 
     Pt. III (ss. 41-67) amended (28.11.1994) by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825), [regs. 27](https://www.legislation.gov.uk/uksi/1994/2825/regulation/27), [28](https://www.legislation.gov.uk/uksi/1994/2825/regulation/28)
 
-[^key-6f27009b0d4afaaa80a886a31b62b9e4]: Modification: Pt. 3 modified (E.) (1.4.2005) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) Regulations 2005 (S.I. 2005/659)](https://www.legislation.gov.uk/uksi/2005/659), [regs. 1](https://www.legislation.gov.uk/uksi/2005/659/regulation/1), [15](https://www.legislation.gov.uk/uksi/2005/659/regulation/15)
+[^c-6f27009b0d4afaaa80a886a31b62b9e4]: Modification: Pt. 3 modified (E.) (1.4.2005) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) Regulations 2005 (S.I. 2005/659)](https://www.legislation.gov.uk/uksi/2005/659), [regs. 1](https://www.legislation.gov.uk/uksi/2005/659/regulation/1), [15](https://www.legislation.gov.uk/uksi/2005/659/regulation/15)
 
-[^key-5ca417f98ba0546eb40ff642e9c59696]: Modification: Pt. III modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2008/3022/regulation/8)
+[^c-5ca417f98ba0546eb40ff642e9c59696]: Modification: Pt. III modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2008/3022/regulation/8)
 
-[^key-9eac80814827efb9843636c34651633c]: Textual amendment: [Ss. 63F-63M](https://www.legislation.gov.uk/ukpga/1988/41/section/63F) and cross-heading inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 13](https://www.legislation.gov.uk/asc/2024/6/section/13), [23(2)(f)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/f)
+[^c-9eac80814827efb9843636c34651633c]: Textual amendment: [Ss. 63F-63M](https://www.legislation.gov.uk/ukpga/1988/41/section/63F) and cross-heading inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 13](https://www.legislation.gov.uk/asc/2024/6/section/13), [23(2)(f)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/f)
 
 [^c13071371]: Modification: Part V amended (28.11.1994) by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825), [reg. 34](https://www.legislation.gov.uk/uksi/1994/2825/regulation/34)
 
-[^key-d9c93ea36bb6af85c161a41a802c7c5f]: Textual amendment: Pt. 5 Ch. 1 formed from s. 76 (27.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(4)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/f), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/12) (with [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/9/2)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-d9c93ea36bb6af85c161a41a802c7c5f]: Textual amendment: Pt. 5 Ch. 1 formed from s. 76 (27.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(4)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/f), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/12) (with [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/9/2)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-6c55dbc3e80e27e0d6954b4544b58ce6]: Textual amendment: Pt. 5 Ch. 2 formed from ss. 78-84C (27.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(4)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/f), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/13) (with [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/9/2)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-6c55dbc3e80e27e0d6954b4544b58ce6]: Textual amendment: Pt. 5 Ch. 2 formed from ss. 78-84C (27.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(4)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/f), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/13) (with [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/9/2)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-e36cdb884d04d2d24109579bfd79c694]: Textual amendment: S. 77A and cross heading inserted (27.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(4)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/f), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/14) (with [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/9/2)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-e36cdb884d04d2d24109579bfd79c694]: Textual amendment: S. 77A and cross heading inserted (27.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(4)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/f), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/14) (with [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/9/2)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
 [^c13071661]: Textual amendment: Ss. 84A-84C and cross heading inserted (6.3.1992) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 104](https://www.legislation.gov.uk/ukpga/1992/14/section/104), [Sch. 10 Pt. II para.15](https://www.legislation.gov.uk/ukpga/1992/14/schedule/10/part/II/paragraph/15) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 
-[^key-f30e0be8042ee7b0528fb9726a5c1d7c]: Textual amendment: Pt. 5 Ch. 3 inserted (27.11.2003 for the purpose of and in relation to financial years beginning on or after 1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(4)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/e), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/2/paragraph/1) (with [s. 40(2)](https://www.legislation.gov.uk/ukpga/2003/26/section/40/2)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-f30e0be8042ee7b0528fb9726a5c1d7c]: Textual amendment: Pt. 5 Ch. 3 inserted (27.11.2003 for the purpose of and in relation to financial years beginning on or after 1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(4)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/e), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/2/paragraph/1) (with [s. 40(2)](https://www.legislation.gov.uk/ukpga/2003/26/section/40/2)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-a3aa5ac1a025fcbd537032850cd2ac83]: Textual amendment: Pt. 5 Ch. 4 formed from ss. 85-88B (27.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(4)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/f), [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/16) (with [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/9/2)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-a3aa5ac1a025fcbd537032850cd2ac83]: Textual amendment: Pt. 5 Ch. 4 formed from ss. 85-88B (27.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(4)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/4/f), [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/16) (with [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/9/2)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-b01c2167cc5b029135a486b2667f3ad5]: Textual amendment: S. 85, 86 and cross-heading omitted (with effect in accordance with s. 3(13) of the amending Act) by virtue of [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2012/17/section/3/3)
+[^c-b01c2167cc5b029135a486b2667f3ad5]: Textual amendment: S. 85, 86 and cross-heading omitted (with effect in accordance with s. 3(13) of the amending Act) by virtue of [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2012/17/section/3/3)
 
-[^key-93d712fc7e22da88493dd527302c4a4a]: Textual amendment: Ss. 86A, 86B and cross-heading inserted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/34)
+[^c-93d712fc7e22da88493dd527302c4a4a]: Textual amendment: Ss. 86A, 86B and cross-heading inserted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/34)
 
 [^c13071961]: Textual amendment: Ss. 88A, 88B and cross-heading substituted (6.3.1992) for s. 88A (which was inserted by [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 61](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/61)) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 104](https://www.legislation.gov.uk/ukpga/1992/14/section/104), [Sch. 10 Pt. II para.18](https://www.legislation.gov.uk/ukpga/1992/14/schedule/10/part/II/paragraph/18) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 
@@ -571,8 +571,8 @@ SCHEDULES
 
     Pt. VIII: power to apply conferred (31.8.2000) by [1997 c. 25](https://www.legislation.gov.uk/ukpga/1997/25), [s. 59D(4)](https://www.legislation.gov.uk/ukpga/1997/25/section/59D/4) (as inserted (31.8.2000) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 83(2)](https://www.legislation.gov.uk/ukpga/1999/22/section/83/2), (with s. 107, Sch. 14 para. 7(2)); [S.I. 2000/1920](https://www.legislation.gov.uk/uksi/2000/1920), [art. 3(b)](https://www.legislation.gov.uk/uksi/2000/1920/article/3/b)
 
-[^key-7157c2ff95538c4ebcc2393052fa112a]: Modification: Pt. VIII applied (with modifications) (24.3.2005) by [The New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [art. 1](https://www.legislation.gov.uk/uksi/2005/421/article/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/2)
+[^c-7157c2ff95538c4ebcc2393052fa112a]: Modification: Pt. VIII applied (with modifications) (24.3.2005) by [The New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [art. 1](https://www.legislation.gov.uk/uksi/2005/421/article/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/2)
 
-[^key-9a97a36ee5ddef3230a1625e605894af]: Modification: Pt. 8 applied (with modifications) (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [art. 1](https://www.legislation.gov.uk/uksi/2010/497/article/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2010/497/schedule/3/paragraph/2)
+[^c-9a97a36ee5ddef3230a1625e605894af]: Modification: Pt. 8 applied (with modifications) (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [art. 1](https://www.legislation.gov.uk/uksi/2010/497/article/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2010/497/schedule/3/paragraph/2)
 
-[^key-7e68e8127bb5b5c5d1434bce3da4e6b1]: Modification: Pt. VIII applied (with modifications) (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [art. 1](https://www.legislation.gov.uk/uksi/2015/770/article/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2015/770/schedule/3/paragraph/3)
+[^c-7e68e8127bb5b5c5d1434bce3da4e6b1]: Modification: Pt. VIII applied (with modifications) (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [art. 1](https://www.legislation.gov.uk/uksi/2015/770/article/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2015/770/schedule/3/paragraph/3)

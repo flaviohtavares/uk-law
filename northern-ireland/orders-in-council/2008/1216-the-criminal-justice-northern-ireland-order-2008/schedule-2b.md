@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## Schedule 2B — Offences involving or connected with a threat to national security specified for the purposes of Article 15A[^key-aa19fa8c3a2b5abb624f177c03c9782f]
+## Schedule 2B — Offences involving or connected with a threat to national security specified for the purposes of Article 15A[^c-aa19fa8c3a2b5abb624f177c03c9782f]
 
 *Extent: N.I.*
 
@@ -41,7 +41,7 @@ An offence under any of the following provisions of the National Security Act 20
 - (e) section 12 (sabotage);
 - (f) section 13 (foreign interference);
 - (g) section 17 (obtaining etc material benefits from a foreign intelligence service);
-- (ga)[^key-3a4540291c33aa6fbe192cf6c8951272] section 17A (supporting a designated body);
+- (ga)[^c-3a4540291c33aa6fbe192cf6c8951272] section 17A (supporting a designated body);
 - (gb) section 17B (assisting a designated body);
 - (gc) section 17C (obtaining etc material benefits from a designated body);
 - (h) section 18 (preparatory conduct);
@@ -54,12 +54,12 @@ An offence under any of the following provisions of the National Security Act 20
 - (o) section 77(1) or (2) (provision of false information);
 - (p) section 78(1) (carrying out activities under foreign activity arrangement tainted by false information).
 
-### 4. Certain electoral offences where foreign power or designated body condition met[^key-ef4c7e109369d60b3c8ea95d0cb3d92d]
+### 4. Certain electoral offences where foreign power or designated body condition met[^c-ef4c7e109369d60b3c8ea95d0cb3d92d]
 
 An offence—
 
 - (a) to which subsection (1)(a) of section 16 of the National Security Act 2023 applies (relevant electoral offences committed on or after specified day), and
-- (b) in relation to which it is determined for the purposes of subsection (1)(b) of that section that the foreign power condition or the designated body condition[^key-ac192d0282312f5ac9395ae5307f41a0] is met,
+- (b) in relation to which it is determined for the purposes of subsection (1)(b) of that section that the foreign power condition or the designated body condition[^c-ac192d0282312f5ac9395ae5307f41a0] is met,
 
 other than an offence under section 89A(4) or (5) of the Political Parties, Elections and Referendums Act 2000.
 
@@ -75,23 +75,23 @@ other than an offence under section 89A(4) or (5) of the Political Parties, Elec
 
 (3) In sub-paragraph (2)(b) the reference to an offence under Part 2 of the Serious Crime Act 2007 includes, in relation to times before the commencement of that Part, an offence of incitement.
 
-### 6. Certain other offences where foreign power or designated body condition met[^key-e718b8056cc9f1866ab4994cf1ba50a1]
+### 6. Certain other offences where foreign power or designated body condition met[^c-e718b8056cc9f1866ab4994cf1ba50a1]
 
 An offence, other than one for which the sentence is fixed by law as life imprisonment—
 
 - (a) which is punishable on indictment with imprisonment for more than 2 years, and
-- (b) in relation to which section 20 of the National Security Act 2023 applies (aggravating factor where foreign power or designated body[^key-e11b7aec363b34e7fcda47e7da4f3aba] condition met: Northern Ireland).
+- (b) in relation to which section 20 of the National Security Act 2023 applies (aggravating factor where foreign power or designated body[^c-e11b7aec363b34e7fcda47e7da4f3aba] condition met: Northern Ireland).
 
 ## Annotations
 
-[^key-aa19fa8c3a2b5abb624f177c03c9782f]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 9(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/9/5), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-aa19fa8c3a2b5abb624f177c03c9782f]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 9(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/9/5), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-3a4540291c33aa6fbe192cf6c8951272]: Textual amendment: [Sch. 2B para. 3(ga)-(gc)](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B/paragraph/3/ga) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 26(a)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/26/a)
+[^c-3a4540291c33aa6fbe192cf6c8951272]: Textual amendment: [Sch. 2B para. 3(ga)-(gc)](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B/paragraph/3/ga) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 26(a)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/26/a)
 
-[^key-ef4c7e109369d60b3c8ea95d0cb3d92d]: Textual amendment: Words in [Sch. 2B para. 4](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B/paragraph/4) heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 26(b)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/26/b/i)
+[^c-ef4c7e109369d60b3c8ea95d0cb3d92d]: Textual amendment: Words in [Sch. 2B para. 4](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B/paragraph/4) heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 26(b)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/26/b/i)
 
-[^key-ac192d0282312f5ac9395ae5307f41a0]: Textual amendment: Words in [Sch. 2B para. 4(b)](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B/paragraph/4/b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 26(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/26/b/ii)
+[^c-ac192d0282312f5ac9395ae5307f41a0]: Textual amendment: Words in [Sch. 2B para. 4(b)](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B/paragraph/4/b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 26(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/26/b/ii)
 
-[^key-e718b8056cc9f1866ab4994cf1ba50a1]: Textual amendment: Words in [Sch. 2B para. 6](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B/paragraph/6) heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 26(c)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/26/c/i)
+[^c-e718b8056cc9f1866ab4994cf1ba50a1]: Textual amendment: Words in [Sch. 2B para. 6](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B/paragraph/6) heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 26(c)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/26/c/i)
 
-[^key-e11b7aec363b34e7fcda47e7da4f3aba]: Textual amendment: Words in [Sch. 2B para. 6(b)](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B/paragraph/6/b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 26(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/26/c/ii)
+[^c-e11b7aec363b34e7fcda47e7da4f3aba]: Textual amendment: Words in [Sch. 2B para. 6(b)](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2B/paragraph/6/b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 26(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/26/c/ii)

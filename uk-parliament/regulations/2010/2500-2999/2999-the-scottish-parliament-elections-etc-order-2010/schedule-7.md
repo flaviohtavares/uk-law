@@ -22,7 +22,7 @@ summary: ''
 
 Article 67(6)
 
-### 1. Use of rooms in school premises[^key-d781f2e80db031b121ab6daa09eaa716]
+### 1. Use of rooms in school premises[^c-d781f2e80db031b121ab6daa09eaa716]
 
 (1) Any arrangements for the use of a room in school premises shall be made with the education authority managing the school or, in the case of a room in the premises of a self governing school, with the board of management of the school.
 
@@ -35,7 +35,7 @@ Article 67(6)
 
 shall be determined by the Secretary of State.
 
-### 2. Lists of rooms in school premises and meeting rooms[^key-30be8b6d7c21676e5c0611866e9ccc34]
+### 2. Lists of rooms in school premises and meeting rooms[^c-30be8b6d7c21676e5c0611866e9ccc34]
 
 (1) It is the duty of the proper officer of every local authority to prepare and keep for each Scottish parliamentary constituency wholly or partly situated in the area of that authority—
 
@@ -46,7 +46,7 @@ which candidates for return as constituency members or individual candidates for
 
 (2) The list shall include the rooms in premises outside, as well as those in premises inside, the constituency.
 
-### 3. Inspection etc. of lists[^key-e4d11783bc27d990ad4998e350bab959]
+### 3. Inspection etc. of lists[^c-e4d11783bc27d990ad4998e350bab959]
 
 (1) Subject to sub-paragraph (2), in the event of a publication of a notice of election any person stating himself to be, or to be authorised by—
 
@@ -59,8 +59,8 @@ shall be entitled at all reasonable hours to inspect the lists kept in accordanc
 
 ## Annotations
 
-[^key-d781f2e80db031b121ab6daa09eaa716]: Commencement: Sch. 7 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d781f2e80db031b121ab6daa09eaa716]: Commencement: Sch. 7 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-30be8b6d7c21676e5c0611866e9ccc34]: Commencement: Sch. 7 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-30be8b6d7c21676e5c0611866e9ccc34]: Commencement: Sch. 7 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-e4d11783bc27d990ad4998e350bab959]: Commencement: Sch. 7 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-e4d11783bc27d990ad4998e350bab959]: Commencement: Sch. 7 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

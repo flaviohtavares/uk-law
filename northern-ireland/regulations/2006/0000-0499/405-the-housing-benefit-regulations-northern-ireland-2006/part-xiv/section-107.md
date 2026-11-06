@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107. Circumstances for requiring information[^key-5bd714c79d1fd9e3b30ab385859972a5]
+## 107. Circumstances for requiring information[^c-5bd714c79d1fd9e3b30ab385859972a5]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bd714c79d1fd9e3b30ab385859972a5]: Commencement: [Reg. 107](https://www.legislation.gov.uk/nisr/2006/405/regulation/107) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-5bd714c79d1fd9e3b30ab385859972a5]: Commencement: [Reg. 107](https://www.legislation.gov.uk/nisr/2006/405/regulation/107) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Payment by cheque[^key-582002736016fb2949a4beea019ea83c]
+## 83. Payment by cheque[^c-582002736016fb2949a4beea019ea83c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-582002736016fb2949a4beea019ea83c]: Textual amendment: Pt. 2 omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(3)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/3)
+[^c-582002736016fb2949a4beea019ea83c]: Textual amendment: Pt. 2 omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(3)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/3)

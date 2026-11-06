@@ -22,9 +22,9 @@ summary: ''
 
 (1) The Secretary of State shall, at such premises and in such form as he[^c18943341] may determine, maintain a register [^c18943981]. . . .
 
-(2) Subject to subsections (3) and (4)[^c18943361] below, the Secretary of State shall cause to be entered in the register (except so far as they are required to be entered in the register maintained under section 73A[^c18945291] or the register maintained under section 73B[^key-64d73f326204c14a17312fb129828a29] below) the provisions of—
+(2) Subject to subsections (3) and (4)[^c18943361] below, the Secretary of State shall cause to be entered in the register (except so far as they are required to be entered in the register maintained under section 73A[^c18945291] or the register maintained under section 73B[^c-64d73f326204c14a17312fb129828a29] below) the provisions of—
 
-- (a) every exemption under section 24[^key-701a146169056d211908520b7cb715ff];
+- (a) every exemption under section 24[^c-701a146169056d211908520b7cb715ff];
 - (b) every franchise agreement;
 - (c)[^c14107841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) every amendment (however described) of a franchise agreement other than any which are not likely to have a material effect on the provision of services under the agreement or on any sums payable under the agreement.[^c14107851];
@@ -55,7 +55,7 @@ and, without prejudice to the generality of paragraph (d) above, “amendment" i
 
 (6) [^c18944161]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) The contents of the register shall be available for inspection at any time by the Scottish Ministers[^c18943531], the Welsh Ministers[^key-22433ab3cc45937a0bd255224d9bb3d7] or the Office of Rail and Road[^key-1befce7fa48cada2cf11019988fdd49f], without payment of any fee; and the Scottish Ministers[^c18943551], the Welsh Ministers and the Office of Rail and Road may each require the Secretary of State, without payment of any fee, to supply him with a copy of, or extract from, any part of the register, being a copy or extract which is certified by the Secretary of State to be a true copy or extract.
+(7) The contents of the register shall be available for inspection at any time by the Scottish Ministers[^c18943531], the Welsh Ministers[^c-22433ab3cc45937a0bd255224d9bb3d7] or the Office of Rail and Road[^c-1befce7fa48cada2cf11019988fdd49f], without payment of any fee; and the Scottish Ministers[^c18943551], the Welsh Ministers and the Office of Rail and Road may each require the Secretary of State, without payment of any fee, to supply him with a copy of, or extract from, any part of the register, being a copy or extract which is certified by the Secretary of State to be a true copy or extract.
 
 (8)[^c14107841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -71,9 +71,9 @@ and, without prejudice to the generality of paragraph (d) above, “amendment" i
 
 [^c18945291]: Textual amendment: Words in s. 73(2) inserted (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 30(3)(b)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/30/3/b); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
-[^key-64d73f326204c14a17312fb129828a29]: Textual amendment: Words in s. 73(2) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 21(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/21/2)
+[^c-64d73f326204c14a17312fb129828a29]: Textual amendment: Words in s. 73(2) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 21(2)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/21/2)
 
-[^key-701a146169056d211908520b7cb715ff]: Textual amendment: Words in [s. 73(2)(a)](https://www.legislation.gov.uk/ukpga/1993/43/section/73/2/a) substituted (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2024/25/schedule/paragraph/6)
+[^c-701a146169056d211908520b7cb715ff]: Textual amendment: Words in [s. 73(2)(a)](https://www.legislation.gov.uk/ukpga/1993/43/section/73/2/a) substituted (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2024/25/schedule/paragraph/6)
 
 [^c14107841]: Textual amendment: S. 73(2)(c)(8) repealed (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 274](https://www.legislation.gov.uk/ukpga/2000/38/section/274), [Sch. 31 Pt. IV](https://www.legislation.gov.uk/ukpga/2000/38/schedule/31/part/IV); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
@@ -103,8 +103,8 @@ and, without prejudice to the generality of paragraph (d) above, “amendment" i
 
 [^c18943531]: Textual amendment: Words in s. 73(7) inserted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 30(7)(a)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/30/7/a); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-22433ab3cc45937a0bd255224d9bb3d7]: Textual amendment: Words in s. 73(7) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 21(3)(a)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/21/3/a)
+[^c-22433ab3cc45937a0bd255224d9bb3d7]: Textual amendment: Words in s. 73(7) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 21(3)(a)](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/21/3/a)
 
-[^key-1befce7fa48cada2cf11019988fdd49f]: Textual amendment: Words in s. 73(7) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(tt)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/tt)
+[^c-1befce7fa48cada2cf11019988fdd49f]: Textual amendment: Words in s. 73(7) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(tt)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/tt)
 
 [^c18943551]: Textual amendment: Words in s.73(7) substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 30(7)(b)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/30/7/b); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909) {art. 2}, Sch.

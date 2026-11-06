@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809EZDA. Sums arising to connected persons other than companies[^key-9d2c797fb104e01b1ea3c4c9f7cb72fe][^key-be3329172140d2b2dd1606d8d16f11da]
+## 809EZDA. Sums arising to connected persons other than companies[^c-9d2c797fb104e01b1ea3c4c9f7cb72fe][^c-be3329172140d2b2dd1606d8d16f11da]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ summary: ''
 
 - (a) a sum arises to a person (“B”) who is connected with A,
 - (b) B is not a company,
-- (c)[^key-c99ddb98e0242ed638721d7edef8a511] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-91551d74de2d4a129f71b16ea71c9511] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c99ddb98e0242ed638721d7edef8a511] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-91551d74de2d4a129f71b16ea71c9511] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the sum does not arise to A apart from this section.
 
 (2) The sum referred to in subsection (1)(a) arises to A for the purposes of this Chapter.
@@ -39,10 +39,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9d2c797fb104e01b1ea3c4c9f7cb72fe]: Textual amendment: Ss. 809EZDA, 809EZDB inserted (with effect in accordance with s. 45(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 45(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/45/1)
+[^c-9d2c797fb104e01b1ea3c4c9f7cb72fe]: Textual amendment: Ss. 809EZDA, 809EZDB inserted (with effect in accordance with s. 45(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 45(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/45/1)
 
-[^key-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)
+[^c-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)
 
-[^key-c99ddb98e0242ed638721d7edef8a511]: Textual amendment: S. 809EZDA(1)(c) omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/5)
+[^c-c99ddb98e0242ed638721d7edef8a511]: Textual amendment: S. 809EZDA(1)(c) omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/5)
 
-[^key-91551d74de2d4a129f71b16ea71c9511]: Textual amendment: S. 809EZDA(1)(d) omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/5)
+[^c-91551d74de2d4a129f71b16ea71c9511]: Textual amendment: S. 809EZDA(1)(d) omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/5)

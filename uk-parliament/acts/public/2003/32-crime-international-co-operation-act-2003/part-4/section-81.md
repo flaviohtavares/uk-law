@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Inspection of overseas information systems[^key-97d67e3ef976fb5f146ebcd6e2461de4]
+## 81. Inspection of overseas information systems[^c-97d67e3ef976fb5f146ebcd6e2461de4]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,10 +49,10 @@ After section 54 of the Data Protection Act 1998 (c. 29) there is inserted—
 >
 > - “**the Customs information system**” means the information system established under Chapter II of the Convention on the Use of Information Technology for Customs Purposes,
 > - “**the Europol information system**” means the information system established under Title II of the Convention on the Establishment of a European Police Office,
-> - “**the Schengen information system**” means the information system established under Title IV of the Convention implementing the Schengen Agreement of 14th June 1985, or any system established in its place in pursuance of any EU[^key-956216b206e26cb77112049f91d7bcfe] obligation.
+> - “**the Schengen information system**” means the information system established under Title IV of the Convention implementing the Schengen Agreement of 14th June 1985, or any system established in its place in pursuance of any EU[^c-956216b206e26cb77112049f91d7bcfe] obligation.
 
 ## Annotations
 
-[^key-97d67e3ef976fb5f146ebcd6e2461de4]: Commencement: S. 81 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-97d67e3ef976fb5f146ebcd6e2461de4]: Commencement: S. 81 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-956216b206e26cb77112049f91d7bcfe]: Textual amendment: Word substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), 6(1)(e)
+[^c-956216b206e26cb77112049f91d7bcfe]: Textual amendment: Word substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), 6(1)(e)

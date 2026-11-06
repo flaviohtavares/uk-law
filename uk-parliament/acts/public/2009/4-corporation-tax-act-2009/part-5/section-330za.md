@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330ZA. Debits referable to times before UK property business etc carried on[^key-f5f1e1278c5477e8c15721884357e3d9]
+## 330ZA. Debits referable to times before UK property business etc carried on[^c-f5f1e1278c5477e8c15721884357e3d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ the debits are (so far as they exceed relevant credits) treated for the purposes
 
 ## Annotations
 
-[^key-f5f1e1278c5477e8c15721884357e3d9]: Textual amendment: S. 330ZA and cross-heading inserted (6.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 6 paras. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/3), [10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/10)
+[^c-f5f1e1278c5477e8c15721884357e3d9]: Textual amendment: S. 330ZA and cross-heading inserted (6.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 6 paras. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/3), [10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/10)

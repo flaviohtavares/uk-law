@@ -48,7 +48,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 In accordance with section 74(2)(i) of the Act a draft of this Order has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement and transitional and saving provisions[^key-1ade88b42070998bfe7691853233cbd0]
+## 1. Citation and commencement and transitional and saving provisions[^c-1ade88b42070998bfe7691853233cbd0]
 
 (1) This Order may be cited as the Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015.
 
@@ -72,7 +72,7 @@ In accordance with section 74(2)(i) of the Act a draft of this Order has been la
 - “2004 Act” means the Civil Partnership Act 2004;
 - “2014 Act” means the Marriage and Civil Partnership (Scotland) Act 2014.
 
-## 2. Extension of referral and investigation scheme[^key-34a42fe0be61f0b82b5f327b5034c488]
+## 2. Extension of referral and investigation scheme[^c-34a42fe0be61f0b82b5f327b5034c488]
 
 (1) Schedule 1 (which amends the Marriage (Scotland) Act 1977) has effect.
 
@@ -96,9 +96,9 @@ Home Office
 
 Article 2(1)
 
-**1.**[^key-ffe230e1173876c68bbd01bb93d70ba2] The Marriage (Scotland) Act 1977 is amended as follows.
+**1.**[^c-ffe230e1173876c68bbd01bb93d70ba2] The Marriage (Scotland) Act 1977 is amended as follows.
 
-**2.**[^key-9961b54b894d1c1e1e800b8c2eaa6f5e] After section 3 (notice of intention to marry) insert—
+**2.**[^c-9961b54b894d1c1e1e800b8c2eaa6f5e] After section 3 (notice of intention to marry) insert—
 
 > **3A. Additional information if party not relevant national**
 >
@@ -237,7 +237,7 @@ Article 2(1)
 > - (b) “prescribed information” means information prescribed in regulations;
 > - (c) “regulations” means regulations made by the Secretary of State under section 54(2) of, and Schedule 5 to, the 2014 Act.
 
-**3.**[^key-9e1a411e15522c873a31ebbeaa9f8ea1] After Schedule 1 (degrees of relationship) insert—
+**3.**[^c-9e1a411e15522c873a31ebbeaa9f8ea1] After Schedule 1 (degrees of relationship) insert—
 
 > **SCHEDULE 1A — Modifications if proposed marriage referred under section 3F**
 >
@@ -332,11 +332,11 @@ Article 2(1)
 >
 > (5) In this paragraph “investigation” means an investigation, conducted following a decision by the Secretary of State under section 48 of the 2014 Act, whether a proposed marriage is a sham.
 
-**4.**[^key-ae85b1f25ca8e8fbfa768633e8def3ec] In section 4[^f00014] (marriage notice book) after subsection (5) insert—
+**4.**[^c-ae85b1f25ca8e8fbfa768633e8def3ec] In section 4[^f00014] (marriage notice book) after subsection (5) insert—
 
 > (6) This section is subject to section 3E.
 
-**5.**[^key-b60b6c8abfd8b1b3cc702a84b1699000] In section 6[^f00015] (Marriage Schedule)—
+**5.**[^c-b60b6c8abfd8b1b3cc702a84b1699000] In section 6[^f00015] (Marriage Schedule)—
 
 - (a) after subsection (4) insert—
 
@@ -349,7 +349,7 @@ Article 2(1)
 
   > (8) This section has effect subject to section 6A.
 
-**6.**[^key-8d3b0caa7fcbc16eb16c2970ce7c94ee] After section 6 insert—
+**6.**[^c-8d3b0caa7fcbc16eb16c2970ce7c94ee] After section 6 insert—
 
 > **6A. Marriage notice: false information or evidence**
 >
@@ -368,13 +368,13 @@ Article 2(1)
 > - “exempt person” has the same meaning as in section 3F;
 > - “relevant decision” means a decision of a district registrar that a party to the proposed marriage is an exempt person.
 
-**7.**[^key-9fcd71bccf132a03f165334db7170024] In section 19[^f00017] (marriage ceremony and registration of marriage), after subsection (1) insert—
+**7.**[^c-9fcd71bccf132a03f165334db7170024] In section 19[^f00017] (marriage ceremony and registration of marriage), after subsection (1) insert—
 
 > (1ZA) Unless subsection (1ZB) applies, if a proposed marriage is referred to the Secretary of State under section 3F (“the referred marriage”) the Registrar General may not authorise an authorised registrar to solemnise the referred marriage on the date mentioned in subsection (1)(b) without the consent of the Secretary of State.
 >
 > (1ZB) This subsection applies if the request made under subsection (1)(a) is made because a party to the referred marriage is gravely ill and not expected to recover.
 
-**8.**[^key-25815256d5abf43782021e7194693d69] In section 26(2) (interpretation)—
+**8.**[^c-25815256d5abf43782021e7194693d69] In section 26(2) (interpretation)—
 
 - (a) before the definition of “annulment” insert—
 
@@ -394,9 +394,9 @@ Article 2(1)
 
 Article 2(2)
 
-**1.**[^key-a19e949ef6a6138df5127a69ec8879ca] Section 21 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^f00020] (procedure for marriage: Scotland) is amended as follows.
+**1.**[^c-a19e949ef6a6138df5127a69ec8879ca] Section 21 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^f00020] (procedure for marriage: Scotland) is amended as follows.
 
-**2.**[^key-fb07824ffa859dfe138170a860300f12] For subsection (1) substitute—
+**2.**[^c-fb07824ffa859dfe138170a860300f12] For subsection (1) substitute—
 
 > (1) This section applies to a marriage which is intended to be solemnised in Scotland unless each party to the marriage falls within exception A or exception B.
 >
@@ -407,7 +407,7 @@ Article 2(2)
 > - (a) the person is exempt from immigration control, and
 > - (b) the notice of intention to marry submitted under section 3 of the Marriage (Scotland) Act 1977[^f00021] is accompanied by the specified evidence required by section 3B(1) of that Act that the person is exempt from immigration control.
 
-**3.**[^key-b3280b2e7b2284060cc9223169588fc7] For subsection (5) substitute—
+**3.**[^c-b3280b2e7b2284060cc9223169588fc7] For subsection (5) substitute—
 
 > (5) In this section—
 >
@@ -418,9 +418,9 @@ Article 2(2)
 
 Article 2(3)
 
-**1.**[^key-d7c6f7de8bede363725a0f6e10e0c255] The Civil Partnership Act 2004[^f00022] is amended as follows.
+**1.**[^c-d7c6f7de8bede363725a0f6e10e0c255] The Civil Partnership Act 2004[^f00022] is amended as follows.
 
-**2.**[^key-65ef95b5c6aedced55f556ef528eeaae] After section 88[^f00023] insert—
+**2.**[^c-65ef95b5c6aedced55f556ef528eeaae] After section 88[^f00023] insert—
 
 > **88A. Additional information if party not relevant national**
 >
@@ -556,7 +556,7 @@ Article 2(3)
 > - (b) “prescribed information” means information prescribed in regulations;
 > - (c) “regulations” means regulations made by the Secretary of State under section 54(2) of, and Schedule 5 to, the 2014 Act.
 
-**3.**[^key-417a09cd8dd505bd9ca3049798b3de4c] After Schedule 10 (forbidden degrees of relationship)[^f00025] insert—
+**3.**[^c-417a09cd8dd505bd9ca3049798b3de4c] After Schedule 10 (forbidden degrees of relationship)[^f00025] insert—
 
 > **SCHEDULE 10A — Modifications if proposed civil partnership referred under section 88F**
 >
@@ -653,11 +653,11 @@ Article 2(3)
 >
 > (5) In this paragraph “investigation” means an investigation, conducted following a decision by the Secretary of State under section 48 of the 2014 Act, whether a proposed civil partnership is a sham.
 
-**4.**[^key-cd8dc9a28164e390c23ca26680748eb3] In section 89[^f00031] (civil partnership notice book), after subsection (3) insert—
+**4.**[^c-cd8dc9a28164e390c23ca26680748eb3] In section 89[^f00031] (civil partnership notice book), after subsection (3) insert—
 
 > (4) Subsection (1) is subject to section 88E.
 
-**5.**[^key-29671a51a36fa34114b9562ebfe80499] (1) Section 91 (early registration) is amended as follows.
+**5.**[^c-29671a51a36fa34114b9562ebfe80499] (1) Section 91 (early registration) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -665,7 +665,7 @@ Article 2(3)
 >
 > (1B) This subsection applies if the request made under subsection (1) is made because a party to the referred civil partnership is gravely ill and not expected to recover.
 
-**6.**[^key-06f32234abdcc2715bf134c2745e6cce] After section 94 insert—
+**6.**[^c-06f32234abdcc2715bf134c2745e6cce] After section 94 insert—
 
 > **94A. Notice of proposed civil partnership: false information or evidence**
 >
@@ -684,9 +684,9 @@ Article 2(3)
 > - “exempt person” has the same meaning as in section 88F;
 > - “relevant decision” means a decision of a district registrar that a party to the proposed civil partnership is an exempt person.
 
-**7.**[^key-465bde21d2f61f224083d05ce3fc9cff] In section 126(1) (regulations) after “Chapters 2” insert “(except in section 88F)”.
+**7.**[^c-465bde21d2f61f224083d05ce3fc9cff] In section 126(1) (regulations) after “Chapters 2” insert “(except in section 88F)”.
 
-**8.**[^key-02aff7b7d56b8766d98373be574dbe60] In section 135(1) (interpretation) in the appropriate places insert—
+**8.**[^c-02aff7b7d56b8766d98373be574dbe60] In section 135(1) (interpretation) in the appropriate places insert—
 
 > - (a) “2014 Act” means the Immigration Act 2014[^f00033];
 
@@ -700,9 +700,9 @@ Article 2(3)
 
 Article 2(4)
 
-**1.**[^key-cf1b69e9ac052c655d0bb92aa13309a8] The Immigration Act 2014 is amended as follows.
+**1.**[^c-cf1b69e9ac052c655d0bb92aa13309a8] The Immigration Act 2014 is amended as follows.
 
-**2.**[^key-b04ee81f8a8bfa809a6cc6af7aa2465f] In section 48 (decision whether to investigate)—
+**2.**[^c-b04ee81f8a8bfa809a6cc6af7aa2465f] In section 48 (decision whether to investigate)—
 
 - (a) after subsection (1A)[^f00035] insert—
 
@@ -724,7 +724,7 @@ Article 2(4)
   > - (a) both of the parties to the proposed civil partnership, and
   > - (b) the district registrar who referred the proposed civil partnership to the Secretary of State.
 
-**3.**[^key-78996cf76e19d01baa1db1695b905849] In section 50(11) (conduct of investigation) after the definition of “relevant requirement” (in relation to a proposed marriage or civil partnership under the law of Northern Ireland)[^f00037] insert—
+**3.**[^c-78996cf76e19d01baa1db1695b905849] In section 50(11) (conduct of investigation) after the definition of “relevant requirement” (in relation to a proposed marriage or civil partnership under the law of Northern Ireland)[^f00037] insert—
 
 > - “relevant requirement” in relation to a proposed marriage or civil partnership under the law of Scotland, means any requirement imposed by law including a requirement imposed by or in accordance with—
 >   - (a) subsection (3);
@@ -732,7 +732,7 @@ Article 2(4)
 >   - (c) section 3(4A)[^f00038], 3A or 3B of the Marriage (Scotland) Act 1977;
 >   - (d) section 88(8)[^f00039], 88A or 88B of the Civil Partnership Act 2004.
 
-**4.**[^key-9181b48dd407f34149c2eb92e9d953e4] (1) Section 62(1) (interpretation of Part 4) is amended as follows.
+**4.**[^c-9181b48dd407f34149c2eb92e9d953e4] (1) Section 62(1) (interpretation of Part 4) is amended as follows.
 
 (2) In the definition of “Registrar General” after paragraph (b)[^f00040] insert—
 
@@ -767,7 +767,7 @@ Article 2(5)
 
 ### PART 1 — General provisions
 
-#### 1. Interpretation[^key-510d25dd29f8d73d658632d04cba8066]
+#### 1. Interpretation[^c-510d25dd29f8d73d658632d04cba8066]
 
 In this Schedule—
 
@@ -779,21 +779,21 @@ In this Schedule—
   - (a) the Registrar General for Scotland; or
   - (b) a district registrar.
 
-#### 2. Limitations on powers[^key-83a132f2f3a50f62527569f654fafa77]
+#### 2. Limitations on powers[^c-83a132f2f3a50f62527569f654fafa77]
 
 This Schedule does not authorise—
 
 - (a) a disclosure, in contravention of any provisions of the Data Protection Act 1988[^f00047], of personal data which are not exempt from those provisions, or
-- (b) a disclosure which is prohibited under any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^key-c61dd493e1d53e5b3b58db123d09ea8f].
+- (b) a disclosure which is prohibited under any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^c-c61dd493e1d53e5b3b58db123d09ea8f].
 
-#### 3. No breach of confidentiality etc[^key-c8f5fe7c1578fc9fa726f324b850f77b]
+#### 3. No breach of confidentiality etc[^c-c8f5fe7c1578fc9fa726f324b850f77b]
 
 Subject to paragraph 2, a disclosure of information which is authorised by this Schedule does not breach—
 
 - (a) an obligation of confidence owed by the person making the disclosure, or
 - (b) any other restriction on the disclosure of information (however imposed).
 
-#### 4. Retention, copying and disposal of documents[^key-602ad7cb9d8b9d643b1c26e4cd46092b]
+#### 4. Retention, copying and disposal of documents[^c-602ad7cb9d8b9d643b1c26e4cd46092b]
 
 A person to whom a document is supplied under any provision of this Schedule may—
 
@@ -801,7 +801,7 @@ A person to whom a document is supplied under any provision of this Schedule may
 - (b) copy the document;
 - (c) dispose of the document in such manner as the person thinks appropriate.
 
-#### 5. Saving for existing powers[^key-d08decc1e0dc8c6f06ce0217d103a7d3]
+#### 5. Saving for existing powers[^c-d08decc1e0dc8c6f06ce0217d103a7d3]
 
 This Schedule does not limit any other power under which—
 
@@ -810,7 +810,7 @@ This Schedule does not limit any other power under which—
 
 ### PART 2 — Disclosure of information etc where proposed marriage or civil partnership referred to Secretary of State
 
-**6.**[^key-7a0e2f03d3c3f9cb3b41a2142c211716] (1) This paragraph applies if—
+**6.**[^c-7a0e2f03d3c3f9cb3b41a2142c211716] (1) This paragraph applies if—
 
 - (a) a district registrar refers a proposed marriage to the Secretary of State under section 3F of the 1977 Act, or
 - (b) a district registrar refers a proposed civil partnership to the Secretary of State under section 88F of the 2004 Act.
@@ -831,7 +831,7 @@ This Schedule does not limit any other power under which—
 
 ### PART 3 — Disclosure of information etc for immigration purposes etc
 
-#### 7. Disclosures by registration officials[^key-66098a567fe452b9b4a4dd1e1bf8431c]
+#### 7. Disclosures by registration officials[^c-66098a567fe452b9b4a4dd1e1bf8431c]
 
 (1) A registration official may—
 
@@ -855,14 +855,14 @@ to the Secretary of State, or to another registration official, for use for eith
 - (d) the provision of support for asylum-seekers and their dependants under Part 6 of that Act (support for asylum-seekers);
 - (e) such other purposes as may be specified by the Secretary of State by order under section 54(6) of the 2014 Act.
 
-**8.**[^key-f12b74521304b19d31db2b1eed07abe1][^key-66098a567fe452b9b4a4dd1e1bf8431c] A registration official may disclose to another registration official—
+**8.**[^c-f12b74521304b19d31db2b1eed07abe1][^c-66098a567fe452b9b4a4dd1e1bf8431c] A registration official may disclose to another registration official—
 
 - (a) the fact that a suspicion about a marriage or civil partnership has been reported to the Secretary of State under section 24 or 24A of the Immigration and Asylum Act 1999[^f00050], and
 - (b) the content of any such report,
 
 (whether or not the suspicion was reported by the registration official making the disclosure).
 
-#### 9. Disclosures by the Secretary of State[^key-407c243b79297ae51a09bd576abdc87f]
+#### 9. Disclosures by the Secretary of State[^c-407c243b79297ae51a09bd576abdc87f]
 
 (1) The Secretary of State may—
 
@@ -914,7 +914,7 @@ No impact assessment has been produced for this Order but an impact assessment w
 
 [^f00001]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22)
 
-[^key-1ade88b42070998bfe7691853233cbd0]: Commencement: Art. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-1ade88b42070998bfe7691853233cbd0]: Commencement: Art. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00002]: Footnote: [1977 c. 15](https://www.legislation.gov.uk/ukpga/1977/15); section 3(1) was amended by section 2 of, and paragraph 3 of Schedule 2 to, the Marriage (Prohibited Degrees of Relationship) Act [1986 (c. 16)](https://www.legislation.gov.uk/ukpga/1986/16); paragraph 43 of Schedule 28 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33); section 50 of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14); and sections 3 and 8 of the Marriage and Civil Partnership (Scotland) Act [2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5). Other amendments have been made to section 3 but they are not relevant to this Order.
 
@@ -924,13 +924,13 @@ No impact assessment has been produced for this Order but an impact assessment w
 
 [^f00005]: Footnote: Section 62 and the definition of “relevant statutory period” is also amended by paragraph 4 of Schedule 4 to the Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 ([S.I. 2015/395](https://www.legislation.gov.uk/uksi/2015/395)).
 
-[^key-34a42fe0be61f0b82b5f327b5034c488]: Commencement: Art. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-34a42fe0be61f0b82b5f327b5034c488]: Commencement: Art. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00006]: Footnote: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19).
 
-[^key-ffe230e1173876c68bbd01bb93d70ba2]: Commencement: Sch. 1 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-ffe230e1173876c68bbd01bb93d70ba2]: Commencement: Sch. 1 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
-[^key-9961b54b894d1c1e1e800b8c2eaa6f5e]: Commencement: Sch. 1 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-9961b54b894d1c1e1e800b8c2eaa6f5e]: Commencement: Sch. 1 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00007]: Footnote: Section 5(6) was inserted by section 8(3) of the Marriage and Civil Partnership (Scotland) Act [2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5).
 
@@ -938,7 +938,7 @@ No impact assessment has been produced for this Order but an impact assessment w
 
 [^f00009]: Footnote: Relevant amendments were made to section 21(4) by section 59(4) of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14) and to subsection (5) by article 2 of [S.I. 2011/1158](https://www.legislation.gov.uk/uksi/2011/1158).
 
-[^key-9e1a411e15522c873a31ebbeaa9f8ea1]: Commencement: Sch. 1 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-9e1a411e15522c873a31ebbeaa9f8ea1]: Commencement: Sch. 1 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00010]: Footnote: The definition of “relevant statutory period” contained in section 62 is amended by Schedule 4 to this Order and Schedule 4 to the Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland) Order 2015 ([S.I. 2015/395](https://www.legislation.gov.uk/uksi/2015/395)).
 
@@ -948,49 +948,49 @@ No impact assessment has been produced for this Order but an impact assessment w
 
 [^f00013]: Footnote: Section 19 was similarly amended by section 18 of the 2014 Act. The period within which a marriage (civil marriages) may not be solemnised was increased from 14 to 28 days of receipt of the marriage notice. There are other amendments to section 19 but they are not relevant to this Order.
 
-[^key-ae85b1f25ca8e8fbfa768633e8def3ec]: Commencement: Sch. 1 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-ae85b1f25ca8e8fbfa768633e8def3ec]: Commencement: Sch. 1 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00014]: Footnote: Subsections (2) to (2G) were substituted for subsection (2), and subsection (4) inserted, by section 48 of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14) (“2006 Act”); subsection (5) was inserted by section 49 of that Act.
 
-[^key-b60b6c8abfd8b1b3cc702a84b1699000]: Commencement: Sch. 1 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-b60b6c8abfd8b1b3cc702a84b1699000]: Commencement: Sch. 1 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00015]: Footnote: Subsection (1) was amended by sections 2 and 6 of, and paragraph 5 of Schedule 2 to, the Marriage (Prohibited Degrees of Relationship) Act [1986 (c. 16)](https://www.legislation.gov.uk/ukpga/1986/16); subsection (1A) was inserted by the Marriage and Civil Partnership (Scotland) Act (asp 5); subsection (4A) was inserted by section 50, and subsection (7) amended by section 48, of the 2006 Act; and subsection (5) was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1980 (c. 55)](https://www.legislation.gov.uk/ukpga/1980/55).
 
 [^f00016]: Footnote: Section 3F is inserted by paragraph 2 of this Schedule.
 
-[^key-8d3b0caa7fcbc16eb16c2970ce7c94ee]: Commencement: Sch. 1 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-8d3b0caa7fcbc16eb16c2970ce7c94ee]: Commencement: Sch. 1 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
-[^key-9fcd71bccf132a03f165334db7170024]: Commencement: Sch. 1 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-9fcd71bccf132a03f165334db7170024]: Commencement: Sch. 1 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00017]: Footnote: Subsection (1A) was inserted by section 50 of the 2006 Act.
 
-[^key-25815256d5abf43782021e7194693d69]: Commencement: Sch. 1 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-25815256d5abf43782021e7194693d69]: Commencement: Sch. 1 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00018]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 
 [^f00019]: Footnote: the definition of religious or belief marriage was inserted by section 12(4) of the Marriage and Civil Partnership (Scotland) Act [2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5).
 
-[^key-a19e949ef6a6138df5127a69ec8879ca]: Commencement: Sch. 2 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-a19e949ef6a6138df5127a69ec8879ca]: Commencement: Sch. 2 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00020]: Footnote: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19); subsection (3) was repealed by and subsections (4) and (5) amended by [S.I. 2011/1158](https://www.legislation.gov.uk/uksi/2011/1158); subsection (4) was also amended by section 59(4) of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14).
 
-[^key-fb07824ffa859dfe138170a860300f12]: Commencement: Sch. 2 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-fb07824ffa859dfe138170a860300f12]: Commencement: Sch. 2 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00021]: Footnote: [1977 c. 15](https://www.legislation.gov.uk/ukpga/1977/15); section 3(1) was amended by section 2 of, and paragraph 3 of Schedule 2 to, the Marriage (Prohibited Degrees of Relationship) Act [1986 (c. 16)](https://www.legislation.gov.uk/ukpga/1986/16); paragraph 43 of Schedule 28 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33); section 50 of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14); and sections 3 and 8 of the Marriage and Civil Partnership (Scotland) Act [2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5). Other amendments have been made to section 3 but they are not relevant to this Order.
 
-[^key-b3280b2e7b2284060cc9223169588fc7]: Commencement: Sch. 2 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-b3280b2e7b2284060cc9223169588fc7]: Commencement: Sch. 2 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
-[^key-d7c6f7de8bede363725a0f6e10e0c255]: Commencement: Sch. 3 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-d7c6f7de8bede363725a0f6e10e0c255]: Commencement: Sch. 3 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00022]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-65ef95b5c6aedced55f556ef528eeaae]: Commencement: Sch. 3 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-65ef95b5c6aedced55f556ef528eeaae]: Commencement: Sch. 3 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00023]: Footnote: Subsections (1), (2) and (5) were amended by, and subsection (5A) inserted by, section 52 of the Local Electoral Administration and Registration Services (Scotland) Act (asp 14); subsections (7) to (10) were inserted by sections 24 and 25 of the Marriage and Civil Partnership (Scotland) Act [2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5).
 
 [^f00024]: Footnote: Section 88(8)-(10) was inserted by section 25 of the Marriage and Civil Partnership (Scotland) Act [2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5).
 
-[^key-417a09cd8dd505bd9ca3049798b3de4c]: Commencement: Sch. 3 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-417a09cd8dd505bd9ca3049798b3de4c]: Commencement: Sch. 3 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00025]: Footnote: Amendments have been made to this Schedule but they are not relevant to this Order.
 
@@ -1004,33 +1004,33 @@ No impact assessment has been produced for this Order but an impact assessment w
 
 [^f00030]: Footnote: Subsection (1) was amended by, and subsection (2) inserted by, section 24 of the 2014 Act.
 
-[^key-cd8dc9a28164e390c23ca26680748eb3]: Commencement: Sch. 3 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-cd8dc9a28164e390c23ca26680748eb3]: Commencement: Sch. 3 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00031]: Footnote: Subsection (3) was inserted by section 24 of the Marriage and Civil Partnership (Scotland) Act [2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5).
 
-[^key-29671a51a36fa34114b9562ebfe80499]: Commencement: Sch. 3 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-29671a51a36fa34114b9562ebfe80499]: Commencement: Sch. 3 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00032]: Footnote: Section 88F is inserted by paragraph 2 of Schedule 1 to this Order.
 
-[^key-06f32234abdcc2715bf134c2745e6cce]: Commencement: Sch. 3 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-06f32234abdcc2715bf134c2745e6cce]: Commencement: Sch. 3 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
-[^key-465bde21d2f61f224083d05ce3fc9cff]: Commencement: Sch. 3 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-465bde21d2f61f224083d05ce3fc9cff]: Commencement: Sch. 3 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
-[^key-02aff7b7d56b8766d98373be574dbe60]: Commencement: Sch. 3 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-02aff7b7d56b8766d98373be574dbe60]: Commencement: Sch. 3 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00033]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 
 [^f00034]: Footnote: Section 30A was inserted by section 52 of, and paragraph 27 of Schedule 4 to, the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-cf1b69e9ac052c655d0bb92aa13309a8]: Commencement: Sch. 4 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-cf1b69e9ac052c655d0bb92aa13309a8]: Commencement: Sch. 4 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
-[^key-b04ee81f8a8bfa809a6cc6af7aa2465f]: Commencement: Sch. 4 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-b04ee81f8a8bfa809a6cc6af7aa2465f]: Commencement: Sch. 4 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00035]: Footnote: Subsection (1A) is inserted by a parallel extension order in respect of Northern Ireland (the Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland) Order 2015 ([S.I. 2015/395](https://www.legislation.gov.uk/uksi/2015/395))) (“Northern Ireland Order”).
 
 [^f00036]: Footnote: Subsection (8B) is inserted by paragraph 2 of Schedule 4 to the Northern Ireland Order.
 
-[^key-78996cf76e19d01baa1db1695b905849]: Commencement: Sch. 4 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-78996cf76e19d01baa1db1695b905849]: Commencement: Sch. 4 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00037]: Footnote: Parallel amendments to section 50 are made by the Northern Ireland Order.
 
@@ -1038,7 +1038,7 @@ No impact assessment has been produced for this Order but an impact assessment w
 
 [^f00039]: Footnote: Section 88(8) was inserted by section 25 of the Marriage and Civil Partnership (Scotland) Act [2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5).
 
-[^key-9181b48dd407f34149c2eb92e9d953e4]: Commencement: Sch. 4 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-9181b48dd407f34149c2eb92e9d953e4]: Commencement: Sch. 4 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00040]: Footnote: Sub-paragraph (b) is inserted by the Northern Ireland Order.
 
@@ -1050,32 +1050,32 @@ No impact assessment has been produced for this Order but an impact assessment w
 
 [^f00044]: Footnote: The definition of “section 48 notice” is substituted by the Northern Ireland Order.
 
-[^key-510d25dd29f8d73d658632d04cba8066]: Commencement: Sch. 5 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-510d25dd29f8d73d658632d04cba8066]: Commencement: Sch. 5 para. 1 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00045]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 
 [^f00046]: Footnote: [1965 c. 49](https://www.legislation.gov.uk/ukpga/1965/49); section 7 was amended by [S.I. 1974/812](https://www.legislation.gov.uk/uksi/1974/812) and section 7 of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14).
 
-[^key-83a132f2f3a50f62527569f654fafa77]: Commencement: Sch. 5 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-83a132f2f3a50f62527569f654fafa77]: Commencement: Sch. 5 para. 2 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00047]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-c61dd493e1d53e5b3b58db123d09ea8f]: Textual amendment: Words in [Sch. 5 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/396/schedule/5/paragraph/2/b) substituted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/3), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2018/682/schedule/1/paragraph/32) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/682/regulation/4))
+[^c-c61dd493e1d53e5b3b58db123d09ea8f]: Textual amendment: Words in [Sch. 5 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/396/schedule/5/paragraph/2/b) substituted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/3), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2018/682/schedule/1/paragraph/32) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/682/regulation/4))
 
-[^key-c8f5fe7c1578fc9fa726f324b850f77b]: Commencement: Sch. 5 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-c8f5fe7c1578fc9fa726f324b850f77b]: Commencement: Sch. 5 para. 3 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
-[^key-602ad7cb9d8b9d643b1c26e4cd46092b]: Commencement: Sch. 5 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-602ad7cb9d8b9d643b1c26e4cd46092b]: Commencement: Sch. 5 para. 4 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
-[^key-d08decc1e0dc8c6f06ce0217d103a7d3]: Commencement: Sch. 5 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-d08decc1e0dc8c6f06ce0217d103a7d3]: Commencement: Sch. 5 para. 5 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
-[^key-7a0e2f03d3c3f9cb3b41a2142c211716]: Commencement: Sch. 5 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-7a0e2f03d3c3f9cb3b41a2142c211716]: Commencement: Sch. 5 para. 6 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
-[^key-66098a567fe452b9b4a4dd1e1bf8431c]: Commencement: Sch. 5 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-66098a567fe452b9b4a4dd1e1bf8431c]: Commencement: Sch. 5 para. 7 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00049]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-f12b74521304b19d31db2b1eed07abe1]: Commencement: Sch. 5 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-f12b74521304b19d31db2b1eed07abe1]: Commencement: Sch. 5 para. 8 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
 
 [^f00050]: Footnote: Subsection (4) of section 24 was amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678); subsection (5) was substituted and subsection (6) inserted by section 55 of the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22). Section 24A was inserted by section 261 of, and paragraph 162 of Schedule 27 to, the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33); subsection (4) was amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678); and subsection (5) substituted and subsection (6) inserted by section 55 of the Immigration Act 2014.
 
-[^key-407c243b79297ae51a09bd576abdc87f]: Commencement: Sch. 5 para. 9 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)
+[^c-407c243b79297ae51a09bd576abdc87f]: Commencement: Sch. 5 para. 9 in force at 1.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2)

@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies if—
 
 - (a) a person disposes of an asset which is a pre-FA 2002 asset in the person's hands at the time of the disposal,
-- (b) at any time before 1 July 2020[^key-58bdce42a438314567546f7094a04c2b] a company acquires an intangible fixed asset directly or indirectly in consequence of the disposal or otherwise in connection with it,
+- (b) at any time before 1 July 2020[^c-58bdce42a438314567546f7094a04c2b] a company acquires an intangible fixed asset directly or indirectly in consequence of the disposal or otherwise in connection with it,
 - (c) the company and the person are related parties at the time of the disposal, and
 - (d) the acquired asset would be a chargeable intangible asset in the hands of the company at the time of the acquisition apart from this section.
 
@@ -41,10 +41,10 @@ summary: ''
 - (b) the acquired asset is acquired at the time of the disposal, or
 - (c) the acquired asset is acquired by merging assets or otherwise.
 
-(5)[^key-996d4beeb391e75d015a8b094bff5647] Section 882(5A) to (5D) applies for the purposes of this section.
+(5)[^c-996d4beeb391e75d015a8b094bff5647] Section 882(5A) to (5D) applies for the purposes of this section.
 
 ## Annotations
 
-[^key-58bdce42a438314567546f7094a04c2b]: Textual amendment: Words in s. 895(1)(b) inserted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(12)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/12)
+[^c-58bdce42a438314567546f7094a04c2b]: Textual amendment: Words in s. 895(1)(b) inserted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(12)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/12)
 
-[^key-996d4beeb391e75d015a8b094bff5647]: Textual amendment: S. 895(5) inserted (with effect in accordance with s. 52(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 52(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/52/4)
+[^c-996d4beeb391e75d015a8b094bff5647]: Textual amendment: S. 895(5) inserted (with effect in accordance with s. 52(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 52(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/52/4)

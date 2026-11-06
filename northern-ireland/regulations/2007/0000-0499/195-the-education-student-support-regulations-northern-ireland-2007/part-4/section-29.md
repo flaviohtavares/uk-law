@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Availability of the grant for fees to old system students for years of repeat study[^key-596bb2f422d2220262b6f782cc75fb09]
+## 29. Availability of the grant for fees to old system students for years of repeat study[^c-596bb2f422d2220262b6f782cc75fb09]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-596bb2f422d2220262b6f782cc75fb09]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2007/195/regulation/29) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-596bb2f422d2220262b6f782cc75fb09]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2007/195/regulation/29) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

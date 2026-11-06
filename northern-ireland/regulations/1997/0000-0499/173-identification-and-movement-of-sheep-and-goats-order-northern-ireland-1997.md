@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, in exercise of the powers conferred on it by Articles 5(1)(*b*), 19(*e*) and (*g*), 44 and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-8d46a35f5df685046fe41ef99d7a7dce]
+## 1. Citation and commencement[^c-8d46a35f5df685046fe41ef99d7a7dce]
 
 This Order may be cited as the Identification and Movement of Sheep and Goats Order (Northern Ireland) 1997 and shall come into operation on 1st August 1997.
 
-## 2. Interpretation[^key-1d0383f224baa3dff09391db38f63156]
+## 2. Interpretation[^c-1d0383f224baa3dff09391db38f63156]
 
 In this Order—
 
@@ -59,7 +59,7 @@ In this Order—
 - “holding number” has the same meaning as in the Aujeszky’s Disease Scheme Order (Northern Ireland) 1994[^f00003];
 - “keeper” means any person responsible even on a temporary basis, for animals.
 
-## 3. Notification of holdings[^key-c5c7fbd9f19ae0ae979eef1047959550]
+## 3. Notification of holdings[^c-c5c7fbd9f19ae0ae979eef1047959550]
 
 (1) A person keeping any animal on a holding shall give notice to the Department containing particulars of—
 
@@ -84,7 +84,7 @@ In this Order—
 
 (7) In this Article “holding” does not include any premises or place used for the time being for the purposes of any market, fair, show or sale of animals or any slaughterhouse.
 
-## 4. Movement of sheep and goats[^key-a88b9dbdaacc5b506e62492621f64d2e]
+## 4. Movement of sheep and goats[^c-a88b9dbdaacc5b506e62492621f64d2e]
 
 (1) Subject to paragraph (2), a person shall not move or cause or permit to be moved any animal from a holding unless that animal bears a mark which shall be designed so as to be legible for the life of the animal and is in the form of an ear tag or tattoo showing the letters “UK” and a flock mark or herd mark allocated under this Order.
 
@@ -94,18 +94,18 @@ In this Order—
 - (b) movement between a holding, and any land over which a right of pasture, pertaining to that holding may be exercised in common with similar rights pertaining to other holdings; or
 - (c) movement for the purposes of veterinary treatment, dipping or shearing, or to a fair or show in Northern Ireland if the animal is due to return to the same holding immediately after such movement.
 
-## 5. Importation of sheep and goats into Northern Ireland from outside the European Union[^key-228f8063fef3195b8c89f7d64a603d4c]
+## 5. Importation of sheep and goats into Northern Ireland from outside the European Union[^c-228f8063fef3195b8c89f7d64a603d4c]
 
 If an animal is imported into Northern Ireland from outside the European Union the animal may be moved from the point of importation to the holding of destination stated on the health certificate accompanying it, without being marked, but within 30 days of the date of its importation (unless it is slaughtered without being moved from the holding of destination within that time), or before it is moved from the holding of destination if sooner, it shall be marked on that holding in accordance with Article 4(1).
 
-## 6. Restriction on removal of identification marks[^key-e49ca5c258714fcb15a26f3f48ea4106]
+## 6. Restriction on removal of identification marks[^c-e49ca5c258714fcb15a26f3f48ea4106]
 
 Except in accordance with an authority issued by a veterinary inspector, a person shall not—
 
 - (a) remove or cause or permit to be removed from an animal a mark which has been applied or attached to it under this Order; or
 - (b) replace a mark applied or attached to an animal in accordance with those provisions otherwise than in replacement of one which has become illegible or which has been lost.
 
-## 7. Construction of ear tags[^key-3f49ea621e223f8b0d6613f0e1cc3443]
+## 7. Construction of ear tags[^c-3f49ea621e223f8b0d6613f0e1cc3443]
 
 A person shall not attach an ear tag to an animal for the purposes of marking it in compliance with this Order unless the ear tag is constructed in such a way that—
 
@@ -113,7 +113,7 @@ A person shall not attach an ear tag to an animal for the purposes of marking it
 - (b) any alteration to it can be readily detected; and
 - (c) it cannot be re-used.
 
-## 8. Restriction on exposure of animals for sale and on admission to a slaughterhouse[^key-04a6cc4c86d666ddfbe7199176c73251]
+## 8. Restriction on exposure of animals for sale and on admission to a slaughterhouse[^c-04a6cc4c86d666ddfbe7199176c73251]
 
 (1) A person shall not cause or permit an animal to be exposed for sale or displayed at any market or sale of animals unless that animal bears a mark in accordance with this Order.
 
@@ -135,22 +135,22 @@ This Order implements Council Directive 92/102 (O.J. No. L355, 5.12.92, p. 32) s
 
 [^f00001]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art. 17 and [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Art. 23
 
-[^key-8d46a35f5df685046fe41ef99d7a7dce]: Commencement: Art. 1 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
+[^c-8d46a35f5df685046fe41ef99d7a7dce]: Commencement: Art. 1 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
 
-[^key-1d0383f224baa3dff09391db38f63156]: Commencement: Art. 2 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
+[^c-1d0383f224baa3dff09391db38f63156]: Commencement: Art. 2 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
 
 [^f00002]: Footnote: [S.R. & O. (N.I.) 1964 No. 31](https://www.legislation.gov.uk/nisro/1964/31); relevant amending order is [S.R. 1986 No. 48](https://www.legislation.gov.uk/nisr/1986/48)
 
 [^f00003]: Footnote: [S.R. 1994 No. 199](https://www.legislation.gov.uk/nisr/1994/199) Schedule
 
-[^key-c5c7fbd9f19ae0ae979eef1047959550]: Commencement: Art. 3 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
+[^c-c5c7fbd9f19ae0ae979eef1047959550]: Commencement: Art. 3 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
 
-[^key-a88b9dbdaacc5b506e62492621f64d2e]: Commencement: Art. 4 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
+[^c-a88b9dbdaacc5b506e62492621f64d2e]: Commencement: Art. 4 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
 
-[^key-228f8063fef3195b8c89f7d64a603d4c]: Commencement: Art. 5 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
+[^c-228f8063fef3195b8c89f7d64a603d4c]: Commencement: Art. 5 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
 
-[^key-e49ca5c258714fcb15a26f3f48ea4106]: Commencement: Art. 6 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
+[^c-e49ca5c258714fcb15a26f3f48ea4106]: Commencement: Art. 6 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
 
-[^key-3f49ea621e223f8b0d6613f0e1cc3443]: Commencement: Art. 7 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
+[^c-3f49ea621e223f8b0d6613f0e1cc3443]: Commencement: Art. 7 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
 
-[^key-04a6cc4c86d666ddfbe7199176c73251]: Commencement: Art. 8 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)
+[^c-04a6cc4c86d666ddfbe7199176c73251]: Commencement: Art. 8 in operation at 1.8.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/173/article/1)

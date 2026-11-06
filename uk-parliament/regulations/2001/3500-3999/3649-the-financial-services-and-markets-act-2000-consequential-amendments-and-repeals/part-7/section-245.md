@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Prescribed “relevant institutions”[^key-e025233ba78a689f404ae903357ef5cd]
+## 245. Prescribed “relevant institutions”[^c-e025233ba78a689f404ae903357ef5cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 2A of the Charities (Dormant Accounts) (Scotland) Regulations 1995
 
 ## Annotations
 
-[^key-e025233ba78a689f404ae903357ef5cd]: Commencement: Art. 245 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e025233ba78a689f404ae903357ef5cd]: Commencement: Art. 245 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00170]: Footnote: Regulation 2A was inserted by the Charities (Dormant Accounts) (Scotland) Amendment Regulations 1997 ([S.I. 1997/964 (S.86)](https://www.legislation.gov.uk/uksi/1997/964)).

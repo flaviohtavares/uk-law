@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Housing benefit taper[^key-3fd3ce0252507ffd037b885dc7cd7c58]
+## 47. Housing benefit taper[^c-3fd3ce0252507ffd037b885dc7cd7c58]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The prescribed percentage for the purpose of subsection (5) of section 21 of the
 
 ## Annotations
 
-[^key-3fd3ce0252507ffd037b885dc7cd7c58]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1988/1890/regulation/47) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-3fd3ce0252507ffd037b885dc7cd7c58]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1988/1890/regulation/47) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

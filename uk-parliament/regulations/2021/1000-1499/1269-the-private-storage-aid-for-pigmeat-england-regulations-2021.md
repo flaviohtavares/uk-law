@@ -48,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 These Regulations are made in response to, and in connection with, the exceptional market conditions which are the subject of the declaration made by the Secretary of State under section 20 of the Agriculture Act 2020 on 11th November 2021.
 
-## 1. Citation, commencement, extent and application[^key-2a236ca52b6f11c77365d643a83d1d84]
+## 1. Citation, commencement, extent and application[^c-2a236ca52b6f11c77365d643a83d1d84]
 
 (1) These Regulations may be cited as the Private Storage Aid for Pigmeat (England) Regulations 2021.
 
@@ -56,7 +56,7 @@ These Regulations are made in response to, and in connection with, the exception
 
 (3) These Regulations extend to England and Wales, but apply only in relation to England.
 
-## 2. Interpretation[^key-836cdbd4a6c78f410c5acec5571b8d3b]
+## 2. Interpretation[^c-836cdbd4a6c78f410c5acec5571b8d3b]
 
 In these Regulations—
 
@@ -72,7 +72,7 @@ In these Regulations—
 - “**table 1**” means table 1 in the Schedule;
 - “**table 2**” means table 2 in the Schedule.
 
-## 3. Private storage aid for eligible products[^key-20bb0a24fbd655de031444ef427b3594]
+## 3. Private storage aid for eligible products[^c-20bb0a24fbd655de031444ef427b3594]
 
 (1) The Secretary of State may grant aid for the private storage in England for eligible products[^f00008] in response to the exceptional market conditions which are the subject of the declaration made by the Secretary of State under section 20 of the Agriculture Act 2020 on 11th November 2021.
 
@@ -80,7 +80,7 @@ In these Regulations—
 
 (3) The maximum total quantity of eligible products in respect of which the Secretary of State may grant such aid is 14,000 tonnes.
 
-## 4. Rates of private storage aid for eligible products[^key-123b0ee8a9da1f27299f4509fe555689]
+## 4. Rates of private storage aid for eligible products[^c-123b0ee8a9da1f27299f4509fe555689]
 
 (1) Aid for private storage in England for eligible products may be granted at the specified rate.
 
@@ -89,12 +89,12 @@ In these Regulations—
 - (a) in relation to the products in table 1, the rate specified in column 3 of that table for the period for which the products are to be stored;
 - (b) in relation to the products in table 2, the rate specified in column 4 of that table for the period for which the products are to be stored.
 
-## 5. Applications for private storage aid[^key-ce4404a08cb62169ac76ceb8caeaf931]
+## 5. Applications for private storage aid[^c-ce4404a08cb62169ac76ceb8caeaf931]
 
 (1) An eligible operator may make an application for aid for private storage for eligible products (a “PSA application”) at any time—
 
 - (a) on or after the commencement day, and
-- (b)[^key-6b6dd605dd2e36370f95b8b71243c745] before noon on the earlier of—
+- (b)[^c-6b6dd605dd2e36370f95b8b71243c745] before noon on the earlier of—
   - (i) 31st March 2022, or
   - (ii) the last working day on which the declaration made by the Secretary of State under section 20 of the Agriculture Act 2020 on 11th November 2021, as extended or revoked, has effect; and for this purpose “**working day**” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England and Wales within the meaning of the Banking and Financial Dealings Act 1971.
 
@@ -117,7 +117,7 @@ In these Regulations—
 
 (5) This regulation is subject to Article 45 of Regulation (EU) No 2016/1240[^f00009] (decisions on applications for aid for private storage fixed in advance) as modified by regulation 7.
 
-## 6. Security[^key-ae96db7db2814ca8766320aa3237274f]
+## 6. Security[^c-ae96db7db2814ca8766320aa3237274f]
 
 (1) The amount of the security to be lodged, in accordance with Article 40(b) of Regulation (EU) No 2016/1240[^f00010] (submission etc. of applications for aid for private storage), by an eligible operator who makes a PSA application is to be determined in accordance with this regulation.
 
@@ -128,7 +128,7 @@ In these Regulations—
 
 (3) Article 20 and Chapter 5 of Commission Delegated [Regulation (EU) No 907/2014](https://www.legislation.gov.uk/european/regulation/2014/0907) of 11 March 2014 supplementing Regulation 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro[^f00011] (use of euro) do not apply in relation to the security to be lodged by an eligible operator who makes a PSA application.
 
-## 7. Decisions on PSA applications[^key-28e9d3bbc78c6c8955009672d9895ebb]
+## 7. Decisions on PSA applications[^c-28e9d3bbc78c6c8955009672d9895ebb]
 
 (1) Article 45 of Regulation (EU) No 2016/1240 (decisions on applications for aid for private storage fixed in advance) has effect in connection with decisions on PSA applications with the modifications specified in paragraph (2).
 
@@ -173,7 +173,7 @@ Minister of State
 
 Department for the Environment, Food and Rural Affairs
 
-## SCHEDULE — Eligible products and rates of aid[^key-c7808d574a141897ab78d5612228411a]
+## SCHEDULE — Eligible products and rates of aid[^c-c7808d574a141897ab78d5612228411a]
 
 Regulations 2, 4 and 5
 
@@ -250,9 +250,9 @@ No impact assessment has been produced for this instrument as no, or no signific
 
 [^f00004]: Footnote: [2020 c. 21](https://www.legislation.gov.uk/ukpga/2020/21).
 
-[^key-2a236ca52b6f11c77365d643a83d1d84]: Commencement: Reg. 1 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
+[^c-2a236ca52b6f11c77365d643a83d1d84]: Commencement: Reg. 1 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
 
-[^key-836cdbd4a6c78f410c5acec5571b8d3b]: Commencement: Reg. 2 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
+[^c-836cdbd4a6c78f410c5acec5571b8d3b]: Commencement: Reg. 2 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
 
 [^f00005]: Footnote: EUR 2016/1238.
 
@@ -260,27 +260,27 @@ No impact assessment has been produced for this instrument as no, or no signific
 
 [^f00007]: Footnote: Annex 6 was amended by [S.I. 2019/823](https://www.legislation.gov.uk/uksi/2019/823).
 
-[^key-20bb0a24fbd655de031444ef427b3594]: Commencement: Reg. 3 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
+[^c-20bb0a24fbd655de031444ef427b3594]: Commencement: Reg. 3 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
 
 [^f00008]: Footnote: Article 17 of [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) provides for the grant of aid for private storage of products including pigmeat.
 
-[^key-123b0ee8a9da1f27299f4509fe555689]: Commencement: Reg. 4 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
+[^c-123b0ee8a9da1f27299f4509fe555689]: Commencement: Reg. 4 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
 
-[^key-ce4404a08cb62169ac76ceb8caeaf931]: Commencement: Reg. 5 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
+[^c-ce4404a08cb62169ac76ceb8caeaf931]: Commencement: Reg. 5 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
 
-[^key-6b6dd605dd2e36370f95b8b71243c745]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/5/1/b) substituted (2.2.2022) by [The Private Storage Aid for Pigmeat (England) (Amendment) Regulations 2022 (S.I. 2022/21)](https://www.legislation.gov.uk/uksi/2022/21), [regs. 1](https://www.legislation.gov.uk/uksi/2022/21/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/21/regulation/2)
+[^c-6b6dd605dd2e36370f95b8b71243c745]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/5/1/b) substituted (2.2.2022) by [The Private Storage Aid for Pigmeat (England) (Amendment) Regulations 2022 (S.I. 2022/21)](https://www.legislation.gov.uk/uksi/2022/21), [regs. 1](https://www.legislation.gov.uk/uksi/2022/21/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/21/regulation/2)
 
 [^f00009]: Footnote: Article 45 was amended by [S.I. 2019/823](https://www.legislation.gov.uk/uksi/2019/823).
 
-[^key-ae96db7db2814ca8766320aa3237274f]: Commencement: Reg. 6 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
+[^c-ae96db7db2814ca8766320aa3237274f]: Commencement: Reg. 6 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
 
 [^f00010]: Footnote: Article 40(b) was amended by [S.I. 2019/823](https://www.legislation.gov.uk/uksi/2019/823). Further provision about securities is made in Chapter 4 of Commission Delegated [Regulation (EU) No 907/2014](https://www.legislation.gov.uk/european/regulation/2014/0907) (EUR 2014/907).
 
 [^f00011]: Footnote: EUR 2014/907.
 
-[^key-28e9d3bbc78c6c8955009672d9895ebb]: Commencement: Reg. 7 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
+[^c-28e9d3bbc78c6c8955009672d9895ebb]: Commencement: Reg. 7 in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
 
-[^key-c7808d574a141897ab78d5612228411a]: Commencement: Sch. in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
+[^c-c7808d574a141897ab78d5612228411a]: Commencement: Sch. in force at 16.11.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2)
 
 [^f01000]: Footnote: (a)
 

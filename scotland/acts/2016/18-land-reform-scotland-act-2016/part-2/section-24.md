@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Functions of the Tenant Farming Commissioner[^key-b2984b3295ff097ddb9da784233ae452]
+## 24. Functions of the Tenant Farming Commissioner[^c-b2984b3295ff097ddb9da784233ae452]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2984b3295ff097ddb9da784233ae452]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/18/section/24) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-b2984b3295ff097ddb9da784233ae452]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/18/section/24) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

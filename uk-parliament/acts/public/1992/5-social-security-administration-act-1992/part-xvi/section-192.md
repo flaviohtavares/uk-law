@@ -32,7 +32,7 @@ summary: ''
 
 - [^c24157981]...
 - [^c24157991]...
-- section 132A (and sections 189 and 190, but only for the purposes of regulations under section 132A);[^key-50e09aae4feb7e83b6856b65971113fe]
+- section 132A (and sections 189 and 190, but only for the purposes of regulations under section 132A);[^c-50e09aae4feb7e83b6856b65971113fe]
 - section 170 (with Schedule 5);
 - section 171 (with Schedule 6);[^c24158001]
 - section 177 (with Schedule 8); and this section.
@@ -45,6 +45,6 @@ summary: ''
 
 [^c24157991]: Textual amendment: Words in s. 192(5) omitted (6.10.1997) by virtue of [Social Security (Recovery of Benefits) Act 1997 (c. 27)](https://www.legislation.gov.uk/ukpga/1997/27), [s. 34(2)](https://www.legislation.gov.uk/ukpga/1997/27/section/34/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/1997/27/schedule/3/paragraph/13), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/27/schedule/4); [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/2)
 
-[^key-50e09aae4feb7e83b6856b65971113fe]: Textual amendment: Words in [s. 192(5)](https://www.legislation.gov.uk/ukpga/1992/5/section/192/5) inserted (30.3.2006) by [National Insurance Contributions Act 2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2006/10/section/7/4), [9](https://www.legislation.gov.uk/ukpga/2006/10/section/9)
+[^c-50e09aae4feb7e83b6856b65971113fe]: Textual amendment: Words in [s. 192(5)](https://www.legislation.gov.uk/ukpga/1992/5/section/192/5) inserted (30.3.2006) by [National Insurance Contributions Act 2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2006/10/section/7/4), [9](https://www.legislation.gov.uk/ukpga/2006/10/section/9)
 
 [^c24158001]: Textual amendment: Words in s. 192(5) inserted (2.12.1999) by [Northern Ireland Act 1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47), [ss. 89(9)](https://www.legislation.gov.uk/ukpga/1998/47/section/89/9), [101(3)](https://www.legislation.gov.uk/ukpga/1998/47/section/101/3); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)

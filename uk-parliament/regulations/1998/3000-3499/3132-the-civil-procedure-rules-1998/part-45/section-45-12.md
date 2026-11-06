@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.12. Costs of the costs-only proceedings or the detailed assessment[^key-8ed78e3eff468fc080a342c5659897de]
+## 45.12. Costs of the costs-only proceedings or the detailed assessment[^c-8ed78e3eff468fc080a342c5659897de]
 
 *Extent: E+W*
 
@@ -29,11 +29,11 @@ summary: ''
 
 the court may decide—
 
-- (i) to make no order as to the costs of the costs-only[^key-3b402bddeaf1ae066616031d3a904df4] proceedings or detailed assessment; or
+- (i) to make no order as to the costs of the costs-only[^c-3b402bddeaf1ae066616031d3a904df4] proceedings or detailed assessment; or
 - (ii) to make an order for some or all of such costs to be paid by the party making the claim.
 
 ## Annotations
 
-[^key-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-3b402bddeaf1ae066616031d3a904df4]: Textual amendment: Word in rule 45.12(2)(b)(i) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [23(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/23/1)
+[^c-3b402bddeaf1ae066616031d3a904df4]: Textual amendment: Word in rule 45.12(2)(b)(i) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [23(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/23/1)

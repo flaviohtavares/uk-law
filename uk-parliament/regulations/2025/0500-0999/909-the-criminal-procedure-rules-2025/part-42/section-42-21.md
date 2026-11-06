@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.21. Reopening the determination of an appeal[^key-65cd60c2fb62204ed7c6884baef9c989]
+## 42.21. Reopening the determination of an appeal[^c-65cd60c2fb62204ed7c6884baef9c989]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rule 36.15 (Reopening the determination of an appeal) and the related rule 36.6(
 
 ## Annotations
 
-[^key-65cd60c2fb62204ed7c6884baef9c989]: Commencement: [Rule 42.21](https://www.legislation.gov.uk/uksi/2025/909/rule/42.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-65cd60c2fb62204ed7c6884baef9c989]: Commencement: [Rule 42.21](https://www.legislation.gov.uk/uksi/2025/909/rule/42.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

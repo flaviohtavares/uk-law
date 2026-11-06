@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.10. Postal service or intimation[^key-80191149c98e55118cfb1d727b7d42f4]
+## 2.10. Postal service or intimation[^c-80191149c98e55118cfb1d727b7d42f4]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80191149c98e55118cfb1d727b7d42f4]: Commencement: Rule 2.10 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-80191149c98e55118cfb1d727b7d42f4]: Commencement: Rule 2.10 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^f00016]: Footnote: [1882 c. 77](https://www.legislation.gov.uk/ukpga/1882/77).

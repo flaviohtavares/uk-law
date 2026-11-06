@@ -55,11 +55,11 @@ summary: ''
 
 (8) In this section “**the retail prices index**” means—
 
-- (a) the general index of retail prices (for all items) published by the Statistics Board[^key-76e5241a63496cd30fa41ad8c6603ed3]; or
-- (b) where that index is not published for a month, any substituted index or figures published by the Board[^key-2124f4be4b976bab69b72054d20be07d].
+- (a) the general index of retail prices (for all items) published by the Statistics Board[^c-76e5241a63496cd30fa41ad8c6603ed3]; or
+- (b) where that index is not published for a month, any substituted index or figures published by the Board[^c-2124f4be4b976bab69b72054d20be07d].
 
 ## Annotations
 
-[^key-76e5241a63496cd30fa41ad8c6603ed3]: Textual amendment: Words in [s. 53(8)(a)](https://www.legislation.gov.uk/asp/2001/2/section/53/8/a) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 3 para. 12(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/3/paragraph/12/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-76e5241a63496cd30fa41ad8c6603ed3]: Textual amendment: Words in [s. 53(8)(a)](https://www.legislation.gov.uk/asp/2001/2/section/53/8/a) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 3 para. 12(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/3/paragraph/12/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-2124f4be4b976bab69b72054d20be07d]: Textual amendment: Words in [s. 53(8)(b)](https://www.legislation.gov.uk/asp/2001/2/section/53/8/b) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 3 para. 12(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/3/paragraph/12/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-2124f4be4b976bab69b72054d20be07d]: Textual amendment: Words in [s. 53(8)(b)](https://www.legislation.gov.uk/asp/2001/2/section/53/8/b) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 3 para. 12(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/3/paragraph/12/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

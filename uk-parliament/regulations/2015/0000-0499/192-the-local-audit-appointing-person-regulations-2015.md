@@ -44,13 +44,13 @@ In accordance with section 43(3) and (4)(g) of that Act a draft of these Regulat
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and application[^key-9fcaff9664f0a76359711573e7a47aaa]
+### 1. Citation, commencement and application[^c-9fcaff9664f0a76359711573e7a47aaa]
 
 (1) These Regulations may be cited as the Local Audit (Appointing Person) Regulations 2015 and come into force on the day after the day on which they are made.
 
 (2) These Regulations apply in relation to principal authorities.
 
-### 2. Interpretation[^key-f9132f8c91f9608ab68031e93c29f3d4]
+### 2. Interpretation[^c-f9132f8c91f9608ab68031e93c29f3d4]
 
 In these Regulations—
 
@@ -79,13 +79,13 @@ In these Regulations—
 
 ## PART 2 — Specification of the appointing person
 
-### 3. Specification of a person to appoint local auditors[^key-5406386ab71441e330c1f4e24a658101]
+### 3. Specification of a person to appoint local auditors[^c-5406386ab71441e330c1f4e24a658101]
 
 (1) The Secretary of State may, in accordance with regulation 4, specify a person (an “appointing person”) to appoint a local auditor to audit the accounts of an opted in authority.
 
 (2) The Secretary of State may specify different persons in relation to different classes of principal authorities.
 
-### 4. Procedure for specifying an appointing person[^key-33a034043d6dfed1872c9870924c8e65]
+### 4. Procedure for specifying an appointing person[^c-33a034043d6dfed1872c9870924c8e65]
 
 (1) The specification of a person must be in writing and may, but need not, specify a date when the specification ends.
 
@@ -101,7 +101,7 @@ In these Regulations—
 - (c) the appointing person’s address for correspondence; and
 - (d) details of the class of principal authorities in relation to which that person is the appointing person, if the class is not all principal authorities.
 
-### 5. Ending specification[^key-4f274d0e2b2f36faf1c3f2b27514ec8a]
+### 5. Ending specification[^c-4f274d0e2b2f36faf1c3f2b27514ec8a]
 
 (1) The Secretary of State may end the specification of an appointing person in accordance with this regulation.
 
@@ -122,7 +122,7 @@ In these Regulations—
 
 (4) The Secretary of State may make arrangements under paragraph (3)(c) by requiring the appointing person to notify opted in authorities.
 
-### 6. Consequences of end of specification[^key-84f927e4daaa2078e830698a4baa46c7]
+### 6. Consequences of end of specification[^c-84f927e4daaa2078e830698a4baa46c7]
 
 (1) If the Secretary of State gives notice to an appointing person under regulation 5(3)(a), the Secretary of State may, either before or after (or both before and after) the specification ends—
 
@@ -138,7 +138,7 @@ In these Regulations—
 - (a) disclose all of the appointing person’s rights and liabilities arising by virtue of these Regulations to the Secretary of State;
 - (b) co-operate with the Secretary of State and any other appointing person for the purpose of ensuring an audit of an opted in authority is not adversely affected.
 
-### 7. Additional functions of appointing person[^key-1e4acc2dd3a1240ef53b7f81b04d1cd3]
+### 7. Additional functions of appointing person[^c-1e4acc2dd3a1240ef53b7f81b04d1cd3]
 
 A specified appointing person must—
 
@@ -152,7 +152,7 @@ A specified appointing person must—
 
 ## PART 3 — Invitation to become an opted in authority
 
-### 8. Invitation to principal authorities[^key-f5c2d75b0ce4b61e7d7b99ff2ec07598]
+### 8. Invitation to principal authorities[^c-f5c2d75b0ce4b61e7d7b99ff2ec07598]
 
 (1) Before every compulsory appointing period begins, a relevant appointing person must issue an invitation in accordance with this regulation to all principal authorities which fall within the class of authorities in relation to which the person has been specified under regulation 3(2).
 
@@ -168,7 +168,7 @@ A specified appointing person must—
 
 (5) In these Regulations “invitation” means an invitation to become an opted in authority for the duration of the compulsory appointing period.
 
-### 9. Acceptance of an invitation[^key-c7589908253568e477223c078b8c0ccb]
+### 9. Acceptance of an invitation[^c-c7589908253568e477223c078b8c0ccb]
 
 (1) A principal authority which is within the class of authorities to whom an invitation has been issued may accept an invitation made by a relevant appointing person under regulation 8 by giving notice of acceptance to the appointing person on or before the closing date mentioned in regulation 8(3)(b).
 
@@ -178,7 +178,7 @@ A specified appointing person must—
 
 ## PART 4 — Opted in authorities during compulsory appointing period
 
-### 10. Right to become an opted in authority during a compulsory appointing period[^key-2c4d5bb134898b2a3c17087c13237fa0]
+### 10. Right to become an opted in authority during a compulsory appointing period[^c-2c4d5bb134898b2a3c17087c13237fa0]
 
 (1) During a compulsory appointing period, a newly established principal authority may become an opted in authority in accordance with this regulation.
 
@@ -188,7 +188,7 @@ A specified appointing person must—
 
 (4) The authority is an opted in authority for the remainder of the compulsory appointing period which is in existence on the date mentioned in paragraph (3).
 
-### 11. Right to request to become an opted in authority during a compulsory appointing period[^key-d2f578e039a2b67c60bcfee684693548]
+### 11. Right to request to become an opted in authority during a compulsory appointing period[^c-d2f578e039a2b67c60bcfee684693548]
 
 (1) During a compulsory appointing period, any principal authority which could have accepted a relevant appointing person’s invitation under regulation 8 but did not, may make a request to the relevant appointing person to become an opted in authority, in accordance with this regulation.
 
@@ -207,7 +207,7 @@ A specified appointing person must—
 
 (6) A relevant appointing person may recover its reasonable costs for making arrangements to appoint a local auditor to an authority which becomes an opted in authority under this regulation, from that authority.
 
-### 12. Opted in authority ceasing to be principal authority: duty to notify[^key-d9c6933c84ee4b3e9b46cd10c69d1c46]
+### 12. Opted in authority ceasing to be principal authority: duty to notify[^c-d9c6933c84ee4b3e9b46cd10c69d1c46]
 
 (1) An opted in authority which ceases to be a principal authority must, as soon as practicable after the day it ceases to be such an authority, give notice of that fact to the relevant appointing person.
 
@@ -224,20 +224,20 @@ until the date when the authority in fact gives such notice..
 
 ## PART 5 — Appointment of local auditors to opted in authorities
 
-### 13. Appointment of local auditors to opted in authorities[^key-a1598f396a9c160b3a5b2ab51014901a]
+### 13. Appointment of local auditors to opted in authorities[^c-a1598f396a9c160b3a5b2ab51014901a]
 
-(1)[^key-e26f97e1def18030d09ab0845410f856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e26f97e1def18030d09ab0845410f856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-e628934997f741051d0ded4f07b11959] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e628934997f741051d0ded4f07b11959] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Before appointing a local auditor to an opted in authority, an appointing person must consult the authority about the proposed appointment.
 
-(4)[^key-83f9c0e12378b5235047b1bea7aea1df] Where an authority becomes an opted in authority by virtue of either regulation 10 or 11, the appointing person may appoint a local auditor to audit the accounts of the authority in relation to—
+(4)[^c-83f9c0e12378b5235047b1bea7aea1df] Where an authority becomes an opted in authority by virtue of either regulation 10 or 11, the appointing person may appoint a local auditor to audit the accounts of the authority in relation to—
 
 - (a) the financial year in which the authority becomes an opted in authority; and
 - (b) any previous financial year of the compulsory appointing period, for which an audit has not been completed.
 
-### 14. Retention of local auditor by non-qualifying authority[^key-27464adcb834a4a4a86556bcbb37b6c2]
+### 14. Retention of local auditor by non-qualifying authority[^c-27464adcb834a4a4a86556bcbb37b6c2]
 
 (1) This paragraph applies where an appointing person has appointed a local auditor to audit the accounts of an authority which the appointing person reasonably believed to be an opted in authority for which the appointing person was the relevant appointing person, but at the time of the appointment of the auditor the authority—
 
@@ -253,7 +253,7 @@ until the date when the authority in fact gives such notice..
 
 (4) In paragraph (3) “relevant financial year” means the financial year in which the circumstances first fall within paragraph (1)(a) or (b) or paragraph (2)(a) or (b).
 
-### 15. Resignation and removal of auditors[^key-3db2344c064d1160b8d279c49fc4bc61]
+### 15. Resignation and removal of auditors[^c-3db2344c064d1160b8d279c49fc4bc61]
 
 (1) The Local Audit (Auditor Resignation and Removal) Regulations 2014[^f00004] do not apply in relation to a local auditor appointed in accordance with these Regulations.
 
@@ -282,22 +282,22 @@ the relevant appointing person must appoint a new local auditor to that opted in
 (7) An authority publishes a notice in accordance with this paragraph if—
 
 - (a) in the case of an authority other than a health service body, it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of persons who live in its area;
-- (b) in the case of an integrated care board[^key-29f73566dca4f73de33c358916a1f490], it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of—
-  - (i) persons who live in the area of the integrated care board[^key-e8718e30f87e582dafdab1bb27c97ca9], and
-  - (ii) persons who do not live in the area of the integrated care board[^key-237ae7d7435a9d5881ed9d206c96d96b] but for whom the integrated care board has responsibility;
+- (b) in the case of an integrated care board[^c-29f73566dca4f73de33c358916a1f490], it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of—
+  - (i) persons who live in the area of the integrated care board[^c-e8718e30f87e582dafdab1bb27c97ca9], and
+  - (ii) persons who do not live in the area of the integrated care board[^c-237ae7d7435a9d5881ed9d206c96d96b] but for whom the integrated care board has responsibility;
 - (c) in the case of special trustees for a hospital, they publish the notice in such manner as they think is likely to bring the notice to the attention of persons to whom services are provided at that hospital.
 
 (8) The authority must exclude from the notice information whose disclosure would prejudice commercial confidentiality, unless there is an overriding public interest in favour of its disclosure.
 
 ## PART 6 — Fees for audit
 
-### 16. Setting of fee scales for audits[^key-ed5691e5a426d18a11358513861120b0]
+### 16. Setting of fee scales for audits[^c-ed5691e5a426d18a11358513861120b0]
 
-(1) An appointing person must specify, before 1st December of the financial year[^key-f1be5dc2e308fa653ecb986818eb6340] to which the scale of fees relates, the scale or scales of fees for the audit of the accounts of opted in authorities in relation to which the person is the relevant appointing person.
+(1) An appointing person must specify, before 1st December of the financial year[^c-f1be5dc2e308fa653ecb986818eb6340] to which the scale of fees relates, the scale or scales of fees for the audit of the accounts of opted in authorities in relation to which the person is the relevant appointing person.
 
 (2) A scale of fees must relate to a particular financial year, but may be set for more than one financial year at a time.
 
-(3) An appointing person may vary the scale of fees which it has specified, but must not do so after 30th November of the financial year to which the scale of fees relates.[^key-fdf4fbd9cf1654d40a62fbc429e3aa6b]
+(3) An appointing person may vary the scale of fees which it has specified, but must not do so after 30th November of the financial year to which the scale of fees relates.[^c-fdf4fbd9cf1654d40a62fbc429e3aa6b]
 
 (4) Before specifying or varying any scale of fees, an appointing person must consult—
 
@@ -313,9 +313,9 @@ the relevant appointing person must appoint a new local auditor to that opted in
 
 (6) The scales of fees applicable to the audit of an authority which became an opted in authority under regulation 10 or 11 must be the scale of fees applicable to other opted in authorities falling within the same class of authorities as the authority.
 
-### 17. Setting of fee for audit[^key-c37446e36078030ec76fe2c63b2073a1]
+### 17. Setting of fee for audit[^c-c37446e36078030ec76fe2c63b2073a1]
 
-(1) Subject to paragraphs (2) and (2A),[^key-dcaaaf5849dcbe689829696bfd494522] the fee for the audit of the accounts of an opted in authority must be set in accordance with the appropriate fee scale specified in accordance with regulation 16.
+(1) Subject to paragraphs (2) and (2A),[^c-dcaaaf5849dcbe689829696bfd494522] the fee for the audit of the accounts of an opted in authority must be set in accordance with the appropriate fee scale specified in accordance with regulation 16.
 
 (2) If it appears to an appointing person, on the basis of information supplied by the local auditor which it has appointed—
 
@@ -324,7 +324,7 @@ the relevant appointing person must appoint a new local auditor to that opted in
 
 the appointing person may charge a fee which is larger or smaller than that referred to in paragraph (1), as appropriate.
 
-(2A)[^key-c423410fa9529e0a8321de985bed1014] If it appears to an appointing person—
+(2A)[^c-c423410fa9529e0a8321de985bed1014] If it appears to an appointing person—
 
 - (a) that the work involved in the audit of the accounts of all opted in authorities was or is likely to be substantially—
   - (i) more than envisaged by the appropriate scale, the appointing person may charge to all opted in authorities a fee which is larger than that referred to in paragraph (1);
@@ -351,13 +351,13 @@ the appointing person may charge a fee which is larger or smaller than that refe
 
 (4) The appointing person must give notice to the authority concerned of any larger or smaller fee, giving reasons.
 
-### 18. Payment of fee[^key-2735f386034ed576fd76fbe83a23179e]
+### 18. Payment of fee[^c-2735f386034ed576fd76fbe83a23179e]
 
 An opted in authority must pay to the relevant appointing person the fee set under regulation 17.
 
 ## PART 7 — Miscellaneous
 
-### 19. Requirements in relation to certain functions[^key-8008ff31bce68671b538def8c453437f]
+### 19. Requirements in relation to certain functions[^c-8008ff31bce68671b538def8c453437f]
 
 (1) A principal authority may only exercise the functions in paragraph (2) by the members of the authority meeting as a whole, except where the authority is a corporation sole, in which case the functions must be exercised by the holder of the office.
 
@@ -367,11 +367,11 @@ An opted in authority must pay to the relevant appointing person the fee set und
 - (b) deciding to become an opted in authority under regulation 10; or
 - (c) deciding to request to become an opted in authority under regulation 11.
 
-### 20. Duty to provide information[^key-1ce58cc17de21f00e81d61d4328ceb7d]
+### 20. Duty to provide information[^c-1ce58cc17de21f00e81d61d4328ceb7d]
 
 A principal authority or local auditor appointed by an appointing person must, so far as reasonably practicable, provide the appointing person with such information that it may reasonably require for the purposes of exercising its functions under these Regulations.
 
-### 21. Notices[^key-88edb49dca513166c2a2b870564403aa]
+### 21. Notices[^c-88edb49dca513166c2a2b870564403aa]
 
 A notice that is required under these Regulations to be given to a person or authority must be in writing and may be given by—
 
@@ -379,7 +379,7 @@ A notice that is required under these Regulations to be given to a person or aut
 - (b) sending it by post to that person’s or authority’s address; or
 - (c) electronic service in accordance with regulation 22.
 
-### 22. Electronic service[^key-ba13e9a215dd65588983c0c0ebb8f3a5]
+### 22. Electronic service[^c-ba13e9a215dd65588983c0c0ebb8f3a5]
 
 (1) This regulation applies in respect of electronic service of a notice on a person or an authority (“the recipient”).
 
@@ -408,7 +408,7 @@ A notice that is required under these Regulations to be given to a person or aut
 - “electronic communication” means an electronic communication within the meaning of section 15 of the Electronic Communications Act 2000 (general interpretation)[^f00005];
 - “specified” means specified in a statement made for the purposes of paragraph (3)(a).
 
-### 23. Modifications to the Local Audit and Accountability Act 2014 and other Acts[^key-6570f8cf0886e9ee26ddb336497f9aca]
+### 23. Modifications to the Local Audit and Accountability Act 2014 and other Acts[^c-6570f8cf0886e9ee26ddb336497f9aca]
 
 The Schedule to these Regulations has effect.
 
@@ -428,11 +428,11 @@ Regulation 23
 
 ### PART 1 — General modifications
 
-**1.**[^key-626097834838a11224cf94bb14195ec6] The Act applies subject to the modifications to the Act in the rest of this Schedule.
+**1.**[^c-626097834838a11224cf94bb14195ec6] The Act applies subject to the modifications to the Act in the rest of this Schedule.
 
 ### PART 2
 
-#### 2. Appointment of local auditor[^key-448074d69825cccc3966a29c46af1eab]
+#### 2. Appointment of local auditor[^c-448074d69825cccc3966a29c46af1eab]
 
 Section 7 applies in relation to an opted in authority as if—
 
@@ -448,7 +448,7 @@ Section 7 applies in relation to an opted in authority as if—
 - (c) in subsection (3) for “the relevant authority” there were substituted “the appointing person”; and
 - (d) subsection (8) were omitted.
 
-#### 3. Procedure for appointment[^key-3d4ebbcba35a0a35ea534b4be5d1c507]
+#### 3. Procedure for appointment[^c-3d4ebbcba35a0a35ea534b4be5d1c507]
 
 Section 8 applies in relation to an opted in authority as if—
 
@@ -464,7 +464,7 @@ Section 8 applies in relation to an opted in authority as if—
 - (e) in subsection (5) for “The relevant authority” there were substituted “The authority”; and
 - (f) subsection (6) were omitted.
 
-#### 4. Requirement to have auditor panel[^key-95cb7fcc4482c099f19b4db5b21e0d07]
+#### 4. Requirement to have auditor panel[^c-95cb7fcc4482c099f19b4db5b21e0d07]
 
 Section 9 applies in relation to an opted in authority as if—
 
@@ -479,22 +479,22 @@ Section 9 applies in relation to an opted in authority as if—
 
   .
 
-#### 5. Functions of auditor panel[^key-b496cb3823046840e4658e5448f8bc3c]
+#### 5. Functions of auditor panel[^c-b496cb3823046840e4658e5448f8bc3c]
 
 Section 10 applies in relation to an opted in authority as if before subsection (1) there were inserted—
 
 > (A1) This section is subject to section 9.
 
-#### 6. Failure of appointing person to appoint local auditor[^key-ce2aee66a3b3b65ee49404fe726ccf6e]
+#### 6. Failure of appointing person to appoint local auditor[^c-ce2aee66a3b3b65ee49404fe726ccf6e]
 
 In the event that the appointing person fails to appoint a local auditor to an opted in authority in accordance with Part 3 of the Act, section 12 applies as if—
 
 - (a) for subsection (1) there were substituted—
 
-  > (1) If an appointing person fails to appoint a local auditor to audit the accounts of an opted in authority, other than a a health service body[^key-fd078e536f10f1d01c85bef167b77c14], in accordance with this Part, the authority must immediately inform the appointing person and the Secretary of State of that fact.
+  > (1) If an appointing person fails to appoint a local auditor to audit the accounts of an opted in authority, other than a a health service body[^c-fd078e536f10f1d01c85bef167b77c14], in accordance with this Part, the authority must immediately inform the appointing person and the Secretary of State of that fact.
 - (b) in subsection (2)—
-  - (i) for the words from “relevant authority” to “health service body[^key-7366a707b44a957bd6e14e207024bb91],” there were substituted “an appointing person”;
-  - (ii) after “local auditor”, the first time those words appear, there were inserted “to audit the accounts of an opted in authority, other than a health service body[^key-077481c01a3a5270dbee403a56f82b77]”;
+  - (i) for the words from “relevant authority” to “health service body[^c-7366a707b44a957bd6e14e207024bb91],” there were substituted “an appointing person”;
+  - (ii) after “local auditor”, the first time those words appear, there were inserted “to audit the accounts of an opted in authority, other than a health service body[^c-077481c01a3a5270dbee403a56f82b77]”;
   - (iii) after paragraph (a) there were inserted—
 
     > - (aa) direct the appointing person to appoint an auditor, or
@@ -515,7 +515,7 @@ In the event that the appointing person fails to appoint a local auditor to an o
   - (iii) in paragraph (b) after “authority” there were inserted “or the appointing person”; and
 - (f) in subsection (5) for “a relevant authority” there were substituted “an authority”.
 
-#### 7. Failure of principal authority to appoint local auditor[^key-2bff28e706419e2a6d85b77a941a3ca2]
+#### 7. Failure of principal authority to appoint local auditor[^c-2bff28e706419e2a6d85b77a941a3ca2]
 
 In the event that a principal authority which is not an opted in authority fails to appoint a local auditor in accordance with Part 3 of the Act, section 12 applies as if—
 
@@ -542,11 +542,11 @@ In the event that a principal authority which is not an opted in authority fails
   - (iii) in paragraph (b), after “authority” there were inserted “or the appointing person”; and
 - (f) in subsection (5) for “a relevant authority” there were substituted “an authority”.
 
-#### 8. Modification to Schedule 3 (further provisions about appointment of local auditors)[^key-7abc7c71322a6ecaa5aca1bada09e65c]
+#### 8. Modification to Schedule 3 (further provisions about appointment of local auditors)[^c-7abc7c71322a6ecaa5aca1bada09e65c]
 
 Schedule 3 does not apply to opted in authorities.
 
-#### 9. Modification to Schedule 5 (eligibility and regulation of local auditors)[^key-0ba2a2936911859cc24d269923c432e2]
+#### 9. Modification to Schedule 5 (eligibility and regulation of local auditors)[^c-0ba2a2936911859cc24d269923c432e2]
 
 Schedule 5 applies in relation to a local auditor appointed by an appointing person as if after paragraph 4 there were inserted—
 
@@ -560,7 +560,7 @@ Schedule 5 applies in relation to a local auditor appointed by an appointing per
 
 .
 
-**10.**[^key-547540bc29171d107a8fe5838f66cbd8] Paragraph 5 of Schedule 5 applies in relation to an appointment by an appointing person, as if—
+**10.**[^c-547540bc29171d107a8fe5838f66cbd8] Paragraph 5 of Schedule 5 applies in relation to an appointment by an appointing person, as if—
 
 - (a) in subsection (1) of the inserted text, for “and (5)” there were substituted “, (5) and (5A)”; and
 - (b) after subsection (5) of the inserted text, there were inserted—
@@ -572,7 +572,7 @@ Schedule 5 applies in relation to a local auditor appointed by an appointing per
 
   .
 
-**11.**[^key-4c2edbf7e06d48352f0a2f16879ee8b1] Paragraph 6 of Schedule 5 applies in relation to a local auditor appointed by an appointing person as if the text of that paragraph were subparagraph (2) and before that paragraph there were inserted—
+**11.**[^c-4c2edbf7e06d48352f0a2f16879ee8b1] Paragraph 6 of Schedule 5 applies in relation to a local auditor appointed by an appointing person as if the text of that paragraph were subparagraph (2) and before that paragraph there were inserted—
 
 > (1) In section 1215 (effect of lack of independence) in subsection (1)—
 >
@@ -584,7 +584,7 @@ Schedule 5 applies in relation to a local auditor appointed by an appointing per
 
 .
 
-**12.**[^key-65a3d4c0101e11046e01c8fba02cabfa] Paragraph 7 of Schedule 5 applies in relation to a local auditor appointed by an appointing person as if for the words from “after subsection (5)” to the end of that paragraph there were substituted—
+**12.**[^c-65a3d4c0101e11046e01c8fba02cabfa] Paragraph 7 of Schedule 5 applies in relation to a local auditor appointed by an appointing person as if for the words from “after subsection (5)” to the end of that paragraph there were substituted—
 
 > in subsection (5)—
 >
@@ -593,19 +593,19 @@ Schedule 5 applies in relation to a local auditor appointed by an appointing per
 
 .
 
-**13.**[^key-56db0af29af7644577c7d9c7ed1b07d8] Paragraph 16 of Schedule 5 applies in relation to an opted in authority as if—
+**13.**[^c-56db0af29af7644577c7d9c7ed1b07d8] Paragraph 16 of Schedule 5 applies in relation to an opted in authority as if—
 
 - (a) in subsection (1) of the inserted text, after “appointed” there were inserted “by an appointing person”;
 - (b) in subsections (2) and (5) of the inserted text, for “relevant authority” there were substituted “appointing person”;
 - (c) in subsection (6) of the inserted text for “authority” there were substituted “appointing person”; and
 - (d) subsection (7) were omitted.
 
-**14.**[^key-96969fd42e8598555f3ca94a51d93115] Paragraph 17 of Schedule 5 applies in relation to an opted in authority as if in subsection (1) of the inserted text—
+**14.**[^c-96969fd42e8598555f3ca94a51d93115] Paragraph 17 of Schedule 5 applies in relation to an opted in authority as if in subsection (1) of the inserted text—
 
 - (a) for “relevant authority” the second time it appears, there were substituted “appointing person who appointed the auditor”; and
 - (b) after “section 1248” there were inserted “, and must ensure that the authority is either not required to pay a fee for the first audit, or is refunded any fee paid”.
 
-#### 15. Modification to Schedule 6 (codes of audit practice and guidance)[^key-8eb1a45d2413afe2ef055572e9df60cf]
+#### 15. Modification to Schedule 6 (codes of audit practice and guidance)[^c-8eb1a45d2413afe2ef055572e9df60cf]
 
 Schedule 6 applies where an appointing person has been specified under regulation 3 as if there were inserted after paragraph 1(5)(e)—
 
@@ -613,7 +613,7 @@ Schedule 6 applies where an appointing person has been specified under regulatio
 
 .
 
-#### 16. Modification to Schedule 11 (disclosure of information)[^key-7121adddd43387a16b9be91483a90b6f]
+#### 16. Modification to Schedule 11 (disclosure of information)[^c-7121adddd43387a16b9be91483a90b6f]
 
 Schedule 11 applies where an appointing person has been specified under regulation 3 as if the following were inserted after paragraph 1(3)(c)—
 
@@ -623,15 +623,15 @@ Schedule 11 applies where an appointing person has been specified under regulati
 
 ### PART 3
 
-#### 17. Modification to the Anti-terrorism, Crime and Security Act 2001[^key-d8c1eb858529a036b13b3e498a8f0a6a]
+#### 17. Modification to the Anti-terrorism, Crime and Security Act 2001[^c-d8c1eb858529a036b13b3e498a8f0a6a]
 
 Paragraph 53F of Schedule 4 to the Anti-terrorism, Crime and Security Act 2001[^f00006] applies where an appointing person has been specified under regulation 3 as if after “2014” there were inserted the words “as it has effect by virtue of the Local Audit (Appointing Person) Regulations 2015.”
 
-#### 18. Modification to the National Health Service Act 2006[^key-e43563ded9fa7c86a2545e2793a2ff16]
+#### 18. Modification to the National Health Service Act 2006[^c-e43563ded9fa7c86a2545e2793a2ff16]
 
 Paragraph 17(5) of Schedule 1A to the National Health Service Act 2006[^f00007] applies in relation to an opted in authority as if after “2014” there were inserted the words “as it has effect by virtue of the Local Audit (Appointing Person) Regulations 2015”.
 
-**19.**[^key-3779488a3ccac2065fc988038a160ff2] Paragraph 4 of Schedule 15 to that Act applies in relation to an opted in authority as if after “2014” there were inserted the words “as it has effect by virtue of the Local Audit (Smaller Authorities) Regulations 2015”.
+**19.**[^c-3779488a3ccac2065fc988038a160ff2] Paragraph 4 of Schedule 15 to that Act applies in relation to an opted in authority as if after “2014” there were inserted the words “as it has effect by virtue of the Local Audit (Smaller Authorities) Regulations 2015”.
 
 EXPLANATORY NOTE
 
@@ -655,124 +655,124 @@ An impact assessment of the effect that the Local Audit and Accountability Act 2
 
 [^f00001]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2).
 
-[^key-9fcaff9664f0a76359711573e7a47aaa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/192/regulation/1) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-9fcaff9664f0a76359711573e7a47aaa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/192/regulation/1) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-f9132f8c91f9608ab68031e93c29f3d4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/192/regulation/2) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-f9132f8c91f9608ab68031e93c29f3d4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/192/regulation/2) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
 [^f00002]: Footnote: See section 44 of the Local Audit and Accountability Act [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2) for meaning of “local auditor”, “code of audit practice” and “financial year”.
 
 [^f00003]: Footnote: [S.I. 2015/184](https://www.legislation.gov.uk/uksi/2015/184).
 
-[^key-5406386ab71441e330c1f4e24a658101]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/192/regulation/3) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-5406386ab71441e330c1f4e24a658101]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/192/regulation/3) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-33a034043d6dfed1872c9870924c8e65]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/192/regulation/4) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-33a034043d6dfed1872c9870924c8e65]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/192/regulation/4) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-4f274d0e2b2f36faf1c3f2b27514ec8a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/192/regulation/5) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-4f274d0e2b2f36faf1c3f2b27514ec8a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/192/regulation/5) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-84f927e4daaa2078e830698a4baa46c7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/192/regulation/6) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-84f927e4daaa2078e830698a4baa46c7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/192/regulation/6) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-1e4acc2dd3a1240ef53b7f81b04d1cd3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/192/regulation/7) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-1e4acc2dd3a1240ef53b7f81b04d1cd3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/192/regulation/7) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-f5c2d75b0ce4b61e7d7b99ff2ec07598]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/192/regulation/8) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-f5c2d75b0ce4b61e7d7b99ff2ec07598]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/192/regulation/8) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-c7589908253568e477223c078b8c0ccb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/192/regulation/9) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-c7589908253568e477223c078b8c0ccb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/192/regulation/9) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-2c4d5bb134898b2a3c17087c13237fa0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/192/regulation/10) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-2c4d5bb134898b2a3c17087c13237fa0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/192/regulation/10) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-d2f578e039a2b67c60bcfee684693548]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/192/regulation/11) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-d2f578e039a2b67c60bcfee684693548]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/192/regulation/11) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-d9c6933c84ee4b3e9b46cd10c69d1c46]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/192/regulation/12) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-d9c6933c84ee4b3e9b46cd10c69d1c46]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/192/regulation/12) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-a1598f396a9c160b3a5b2ab51014901a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/192/regulation/13) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-a1598f396a9c160b3a5b2ab51014901a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/192/regulation/13) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-e26f97e1def18030d09ab0845410f856]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/13/1) omitted (16.2.2022) by virtue of [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+[^c-e26f97e1def18030d09ab0845410f856]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/13/1) omitted (16.2.2022) by virtue of [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
 
-[^key-e628934997f741051d0ded4f07b11959]: Textual amendment: [Reg. 13(2)](https://www.legislation.gov.uk/uksi/2015/192/regulation/13/2) omitted (16.2.2022) by virtue of [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+[^c-e628934997f741051d0ded4f07b11959]: Textual amendment: [Reg. 13(2)](https://www.legislation.gov.uk/uksi/2015/192/regulation/13/2) omitted (16.2.2022) by virtue of [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
 
-[^key-83f9c0e12378b5235047b1bea7aea1df]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2015/192/regulation/13/4) inserted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+[^c-83f9c0e12378b5235047b1bea7aea1df]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2015/192/regulation/13/4) inserted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
 
-[^key-27464adcb834a4a4a86556bcbb37b6c2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/192/regulation/14) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-27464adcb834a4a4a86556bcbb37b6c2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/192/regulation/14) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-3db2344c064d1160b8d279c49fc4bc61]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/192/regulation/15) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-3db2344c064d1160b8d279c49fc4bc61]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/192/regulation/15) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2014/1710](https://www.legislation.gov.uk/uksi/2014/1710).
 
-[^key-29f73566dca4f73de33c358916a1f490]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/192) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-29f73566dca4f73de33c358916a1f490]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/192) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-e8718e30f87e582dafdab1bb27c97ca9]: Textual amendment: Words in [reg. 15(7)(b)(i)](https://www.legislation.gov.uk/uksi/2015/192/regulation/15/7/b/i) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/2/a)
+[^c-e8718e30f87e582dafdab1bb27c97ca9]: Textual amendment: Words in [reg. 15(7)(b)(i)](https://www.legislation.gov.uk/uksi/2015/192/regulation/15/7/b/i) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/2/a)
 
-[^key-237ae7d7435a9d5881ed9d206c96d96b]: Textual amendment: Words in [reg. 15(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/192/regulation/15/7/b/ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/2/b)
+[^c-237ae7d7435a9d5881ed9d206c96d96b]: Textual amendment: Words in [reg. 15(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/192/regulation/15/7/b/ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/2/b)
 
-[^key-ed5691e5a426d18a11358513861120b0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/192/regulation/16) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-ed5691e5a426d18a11358513861120b0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/192/regulation/16) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-f1be5dc2e308fa653ecb986818eb6340]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/16/1) substituted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+[^c-f1be5dc2e308fa653ecb986818eb6340]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/16/1) substituted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
 
-[^key-fdf4fbd9cf1654d40a62fbc429e3aa6b]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2015/192/regulation/16/3) substituted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+[^c-fdf4fbd9cf1654d40a62fbc429e3aa6b]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2015/192/regulation/16/3) substituted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
 
-[^key-c37446e36078030ec76fe2c63b2073a1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/192/regulation/17) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-c37446e36078030ec76fe2c63b2073a1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/192/regulation/17) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-dcaaaf5849dcbe689829696bfd494522]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/17/1) substituted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+[^c-dcaaaf5849dcbe689829696bfd494522]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/17/1) substituted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
 
-[^key-c423410fa9529e0a8321de985bed1014]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2015/192/regulation/17/2A)[(2B)](https://www.legislation.gov.uk/uksi/2015/192/regulation/17/2B) inserted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/4/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+[^c-c423410fa9529e0a8321de985bed1014]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2015/192/regulation/17/2A)[(2B)](https://www.legislation.gov.uk/uksi/2015/192/regulation/17/2B) inserted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/4/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
 
-[^key-2735f386034ed576fd76fbe83a23179e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/192/regulation/18) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-2735f386034ed576fd76fbe83a23179e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/192/regulation/18) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-8008ff31bce68671b538def8c453437f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/192/regulation/19) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-8008ff31bce68671b538def8c453437f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/192/regulation/19) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-1ce58cc17de21f00e81d61d4328ceb7d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/192/regulation/20) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-1ce58cc17de21f00e81d61d4328ceb7d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/192/regulation/20) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-88edb49dca513166c2a2b870564403aa]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/192/regulation/21) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-88edb49dca513166c2a2b870564403aa]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/192/regulation/21) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-ba13e9a215dd65588983c0c0ebb8f3a5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/192/regulation/22) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-ba13e9a215dd65588983c0c0ebb8f3a5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/192/regulation/22) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
 [^f00005]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). The definition of “electronic communication” in section 15 was amended by Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-6570f8cf0886e9ee26ddb336497f9aca]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/192/regulation/23) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-6570f8cf0886e9ee26ddb336497f9aca]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/192/regulation/23) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-626097834838a11224cf94bb14195ec6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/1) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-626097834838a11224cf94bb14195ec6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/1) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-448074d69825cccc3966a29c46af1eab]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/2) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-448074d69825cccc3966a29c46af1eab]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/2) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-3d4ebbcba35a0a35ea534b4be5d1c507]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/3) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-3d4ebbcba35a0a35ea534b4be5d1c507]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/3) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-95cb7fcc4482c099f19b4db5b21e0d07]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/4) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-95cb7fcc4482c099f19b4db5b21e0d07]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/4) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-b496cb3823046840e4658e5448f8bc3c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/5) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-b496cb3823046840e4658e5448f8bc3c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/5) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-ce2aee66a3b3b65ee49404fe726ccf6e]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-ce2aee66a3b3b65ee49404fe726ccf6e]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-fd078e536f10f1d01c85bef167b77c14]: Textual amendment: Words in [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6/a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(3)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/3/a)
+[^c-fd078e536f10f1d01c85bef167b77c14]: Textual amendment: Words in [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6/a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(3)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/3/a)
 
-[^key-7366a707b44a957bd6e14e207024bb91]: Textual amendment: Words in [Sch. para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6/b/i) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/3/b/i)
+[^c-7366a707b44a957bd6e14e207024bb91]: Textual amendment: Words in [Sch. para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6/b/i) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/3/b/i)
 
-[^key-077481c01a3a5270dbee403a56f82b77]: Textual amendment: Words in [Sch. para. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6/b/ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/3/b/ii)
+[^c-077481c01a3a5270dbee403a56f82b77]: Textual amendment: Words in [Sch. para. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6/b/ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/3/b/ii)
 
-[^key-2bff28e706419e2a6d85b77a941a3ca2]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/7) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-2bff28e706419e2a6d85b77a941a3ca2]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/7) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-7abc7c71322a6ecaa5aca1bada09e65c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/8) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-7abc7c71322a6ecaa5aca1bada09e65c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/8) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-0ba2a2936911859cc24d269923c432e2]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/9) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-0ba2a2936911859cc24d269923c432e2]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/9) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-547540bc29171d107a8fe5838f66cbd8]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/10) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-547540bc29171d107a8fe5838f66cbd8]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/10) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-4c2edbf7e06d48352f0a2f16879ee8b1]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/11) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-4c2edbf7e06d48352f0a2f16879ee8b1]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/11) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-65a3d4c0101e11046e01c8fba02cabfa]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/12) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-65a3d4c0101e11046e01c8fba02cabfa]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/12) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-56db0af29af7644577c7d9c7ed1b07d8]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/13) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-56db0af29af7644577c7d9c7ed1b07d8]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/13) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-96969fd42e8598555f3ca94a51d93115]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/14) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-96969fd42e8598555f3ca94a51d93115]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/14) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-8eb1a45d2413afe2ef055572e9df60cf]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/15) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-8eb1a45d2413afe2ef055572e9df60cf]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/15) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-7121adddd43387a16b9be91483a90b6f]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/16) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-7121adddd43387a16b9be91483a90b6f]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/16) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
-[^key-d8c1eb858529a036b13b3e498a8f0a6a]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/17) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-d8c1eb858529a036b13b3e498a8f0a6a]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/17) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
 [^f00006]: Footnote: [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24). Paragraph 53F was inserted by the Local Audit and Accountability Act 2014, section 45 and Schedule 12.
 
-[^key-e43563ded9fa7c86a2545e2793a2ff16]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/18) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-e43563ded9fa7c86a2545e2793a2ff16]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/18) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
 
 [^f00007]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Paragraph 17 of Schedule 1A and paragraph 4 of Schedule 15 were amended by the Local Audit and Accountability Act 2014, section 45 and Schedule 12
 
-[^key-3779488a3ccac2065fc988038a160ff2]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/19) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+[^c-3779488a3ccac2065fc988038a160ff2]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/19) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)

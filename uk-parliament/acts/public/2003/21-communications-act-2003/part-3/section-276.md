@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Co-operation with the public teletext provider[^key-dd48c9805dfc11e8887951e2e6e8bb2c]
+## 276. Co-operation with the public teletext provider[^c-dd48c9805dfc11e8887951e2e6e8bb2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd48c9805dfc11e8887951e2e6e8bb2c]: Textual amendment: [S. 276](https://www.legislation.gov.uk/ukpga/2003/21/section/276) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/47); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-dd48c9805dfc11e8887951e2e6e8bb2c]: Textual amendment: [S. 276](https://www.legislation.gov.uk/ukpga/2003/21/section/276) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/47); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 171. Recovery of overpayment of benefits[^key-3cf7e19114d540ac0f1732a80555aaf1]
+## 171. Recovery of overpayment of benefits[^c-3cf7e19114d540ac0f1732a80555aaf1]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cf7e19114d540ac0f1732a80555aaf1]: Commencement: [Reg. 171](https://www.legislation.gov.uk/ssi/2014/292/regulation/171) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-3cf7e19114d540ac0f1732a80555aaf1]: Commencement: [Reg. 171](https://www.legislation.gov.uk/ssi/2014/292/regulation/171) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38.[^key-e2a3a1ddc8c547910c28f255be098286]
+## 38.[^c-e2a3a1ddc8c547910c28f255be098286]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 33 (certain steps not to amount to submission to jurisdiction of over
 
 ## Annotations
 
-[^key-e2a3a1ddc8c547910c28f255be098286]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-e2a3a1ddc8c547910c28f255be098286]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

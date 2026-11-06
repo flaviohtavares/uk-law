@@ -29,7 +29,7 @@ summary: ''
 | the 1961 Act | Section 95(1) |
 | the 1975 Act | Section 84 |
 | the 2003 Act | Section 95 |
-| the Directive | Sections 6 and 6A[^key-7f9ce85d40946c2b068dd648b6a006a5] (see also section 95(2)) |
+| the Directive | Sections 6 and 6A[^c-7f9ce85d40946c2b068dd648b6a006a5] (see also section 95(2)) |
 | appropriate scale | Section 55 |
 | area (in relation to a local authority) | Section 95 |
 | body of surface water | Section 55(1) |
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f9ce85d40946c2b068dd648b6a006a5]: Textual amendment: Words in [sch. 4 Table](https://www.legislation.gov.uk/asp/2009/6/schedule/4) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [6(8)](https://www.legislation.gov.uk/ssi/2022/138/regulation/6/8)
+[^c-7f9ce85d40946c2b068dd648b6a006a5]: Textual amendment: Words in [sch. 4 Table](https://www.legislation.gov.uk/asp/2009/6/schedule/4) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [6(8)](https://www.legislation.gov.uk/ssi/2022/138/regulation/6/8)

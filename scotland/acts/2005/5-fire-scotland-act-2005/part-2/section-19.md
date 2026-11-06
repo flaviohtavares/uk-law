@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) For the purposes of section 17, SFRS[^key-1df5588276aa92a26a65232e9698452d] may—
+(1) For the purposes of section 17, SFRS[^c-1df5588276aa92a26a65232e9698452d] may—
 
 - (a) enter into an agreement with Scottish Water; or
 - (b) enter into an agreement to—
@@ -30,12 +30,12 @@ summary: ''
 
 (2) Subject to section 9A of the Water (Scotland) Act 1980 (c. 45) (charging for emergency use of water), an agreement mentioned in subsection (1)(a) may include terms as to payment to be made to Scottish Water.
 
-(3) Scottish Water shall not unreasonably refuse to enter into an agreement mentioned in subsection (1)(a) which is proposed by SFRS[^key-98493381e2e641b337cc25dca969fa50].
+(3) Scottish Water shall not unreasonably refuse to enter into an agreement mentioned in subsection (1)(a) which is proposed by SFRS[^c-98493381e2e641b337cc25dca969fa50].
 
 (4) Any question whether Scottish Water has unreasonably refused to enter into an agreement mentioned in subsection (1)(a) shall be determined by the Scottish Ministers.
 
 ## Annotations
 
-[^key-1df5588276aa92a26a65232e9698452d]: Textual amendment: Word in s. 19(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(5)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/5); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-1df5588276aa92a26a65232e9698452d]: Textual amendment: Word in s. 19(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(5)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/5); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-98493381e2e641b337cc25dca969fa50]: Textual amendment: Word in s. 19(3) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(5)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/5); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-98493381e2e641b337cc25dca969fa50]: Textual amendment: Word in s. 19(3) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(5)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/5); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

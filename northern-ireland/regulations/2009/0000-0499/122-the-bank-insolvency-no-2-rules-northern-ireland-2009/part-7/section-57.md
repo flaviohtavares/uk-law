@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Meaning of “prove”[^key-592581394c4ea7c616a97a3cef474c05]
+## 57. Meaning of “prove”[^c-592581394c4ea7c616a97a3cef474c05]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-592581394c4ea7c616a97a3cef474c05]: Commencement: Rule 57 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-592581394c4ea7c616a97a3cef474c05]: Commencement: Rule 57 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

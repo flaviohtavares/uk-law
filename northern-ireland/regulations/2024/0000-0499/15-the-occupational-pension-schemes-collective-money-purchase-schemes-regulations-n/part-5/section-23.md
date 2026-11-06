@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Significant events[^key-475791332f9809a4aee8a849713ab5a8]
+## 23. Significant events[^c-475791332f9809a4aee8a849713ab5a8]
 
 *Extent: N.I.*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-475791332f9809a4aee8a849713ab5a8]: Commencement: Reg. 23 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-475791332f9809a4aee8a849713ab5a8]: Commencement: Reg. 23 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

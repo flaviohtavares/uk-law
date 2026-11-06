@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Designation) (No. 5) Order 2010 (revoked)[^key-fdaebb96b55246b95276fd33422fe966]
+The European Communities (Designation) (No. 5) Order 2010 (revoked)[^c-fdaebb96b55246b95276fd33422fe966]
 
 Made
 
@@ -52,43 +52,43 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-fdaebb96b55246b95276fd33422fe966]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdaebb96b55246b95276fd33422fe966]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-fdaebb96b55246b95276fd33422fe966]
+## 1. Citation, commencement and interpretation[^c-fdaebb96b55246b95276fd33422fe966]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to mediation[^key-fdaebb96b55246b95276fd33422fe966]
+## 2. Designation in relation to mediation[^c-fdaebb96b55246b95276fd33422fe966]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to the common agricultural policy[^key-fdaebb96b55246b95276fd33422fe966]
+## 3. Designation in relation to the common agricultural policy[^c-fdaebb96b55246b95276fd33422fe966]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation in relation to private international law[^key-fdaebb96b55246b95276fd33422fe966]
+## 4. Designation in relation to private international law[^c-fdaebb96b55246b95276fd33422fe966]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Territorial restrictions[^key-fdaebb96b55246b95276fd33422fe966]
+## 5. Territorial restrictions[^c-fdaebb96b55246b95276fd33422fe966]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Relationship with other designations[^key-fdaebb96b55246b95276fd33422fe966]
+## 6. Relationship with other designations[^c-fdaebb96b55246b95276fd33422fe966]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of earlier designation[^key-fdaebb96b55246b95276fd33422fe966]
+## 7. Revocation of earlier designation[^c-fdaebb96b55246b95276fd33422fe966]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fdaebb96b55246b95276fd33422fe966]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdaebb96b55246b95276fd33422fe966]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-fdaebb96b55246b95276fd33422fe966]EXPLANATORY NOTE
+[^c-fdaebb96b55246b95276fd33422fe966]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -110,4 +110,4 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-fdaebb96b55246b95276fd33422fe966]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2690) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fdaebb96b55246b95276fd33422fe966]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2690) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

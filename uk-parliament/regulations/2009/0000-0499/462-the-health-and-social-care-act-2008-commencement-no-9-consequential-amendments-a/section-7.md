@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Suspension of the offence of carrying on a regulated activity while unregistered[^key-e52c221ce2e949d05bf39d4e4cd3ef91]
+## 7. Suspension of the offence of carrying on a regulated activity while unregistered[^c-e52c221ce2e949d05bf39d4e4cd3ef91]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e52c221ce2e949d05bf39d4e4cd3ef91]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/462/article/7) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-e52c221ce2e949d05bf39d4e4cd3ef91]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/462/article/7) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
 
 [^f00008]: Footnote: [S.I. 2008/3168 (C.143)](https://www.legislation.gov.uk/uksi/2008/3168).

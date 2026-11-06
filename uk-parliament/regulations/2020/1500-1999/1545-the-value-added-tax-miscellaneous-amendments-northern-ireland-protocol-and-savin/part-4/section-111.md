@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111.[^key-9efd7bd321cbfae60a32d707477a3266]
+## 111.[^c-9efd7bd321cbfae60a32d707477a3266]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9efd7bd321cbfae60a32d707477a3266]: Commencement: Reg. 111 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-9efd7bd321cbfae60a32d707477a3266]: Commencement: Reg. 111 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395831]: Marginal citation: Section 25 of VATA was amended by section 43 of, and paragraph 25 of Schedule 8 to, TCTA. The amendment is not yet in force.

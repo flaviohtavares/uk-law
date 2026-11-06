@@ -82,7 +82,7 @@ summary: ''
 >
 > (5) Where section 33A applies because of subsection (4), all such assessments and adjustments of assessments are to be made as are necessary to give effect to that section.
 
-(3)[^key-16bdf9f22170775f63660504bc0d6d5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-16bdf9f22170775f63660504bc0d6d5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Chapter 4 of Part 2 of ITTOIA 2005 (rules restricting deductions from trade profits), after section 55 insert—
 
@@ -105,4 +105,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16bdf9f22170775f63660504bc0d6d5c]: Textual amendment: [S. 73(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-16bdf9f22170775f63660504bc0d6d5c]: Textual amendment: [S. 73(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

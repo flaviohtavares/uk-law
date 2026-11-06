@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 208. Amount of club transfer earned pension[^key-0c165cdd82cff873b88653d756d2bcc5]
+## 208. Amount of club transfer earned pension[^c-0c165cdd82cff873b88653d756d2bcc5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The amount of club transfer earned pension a person is entitled to count under t
 
 ## Annotations
 
-[^key-0c165cdd82cff873b88653d756d2bcc5]: Commencement: [Reg. 208](https://www.legislation.gov.uk/ssi/2014/292/regulation/208) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-0c165cdd82cff873b88653d756d2bcc5]: Commencement: [Reg. 208](https://www.legislation.gov.uk/ssi/2014/292/regulation/208) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

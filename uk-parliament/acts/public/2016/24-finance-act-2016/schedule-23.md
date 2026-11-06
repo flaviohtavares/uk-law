@@ -229,16 +229,16 @@ Section 167
 
 **Not yet in force.**
 
-**9.** (1)[^key-b5c3d9376a353c6accc0ec10e6e37e27] Schedule 56 to FA 2009 (penalty for failure to make payments on time) is amended as follows. *(affected by repeal, see note)*[^key-b5c3d9376a353c6accc0ec10e6e37e27]
+**9.** (1)[^c-b5c3d9376a353c6accc0ec10e6e37e27] Schedule 56 to FA 2009 (penalty for failure to make payments on time) is amended as follows. *(affected by repeal, see note)*[^c-b5c3d9376a353c6accc0ec10e6e37e27]
 
-(2) In the Table in paragraph 1, after item 1 insert— *(affected by repeal, see note)*[^key-b5c3d9376a353c6accc0ec10e6e37e27]
+(2) In the Table in paragraph 1, after item 1 insert— *(affected by repeal, see note)*[^c-b5c3d9376a353c6accc0ec10e6e37e27]
 
 > |  |  |  |  |
 > | --- | --- | --- | --- |
-> | 1A | Income tax or capital gains tax *(affected by repeal, see note)*[^key-b5c3d9376a353c6accc0ec10e6e37e27] | Amount payable under section 59BA(4) or (5) of *(affected by repeal, see note)*[^key-b5c3d9376a353c6accc0ec10e6e37e27] TMA *(affected by repeal, see note)*[^key-b5c3d9376a353c6accc0ec10e6e37e27] 1970 | The date falling 30 days after the date specified in section 59BA(4) or (5) of *(affected by repeal, see note)*[^key-b5c3d9376a353c6accc0ec10e6e37e27] TMA *(affected by repeal, see note)*[^key-b5c3d9376a353c6accc0ec10e6e37e27] 1970 as the date by which the amount must be paid. *(affected by repeal, see note)*[^key-b5c3d9376a353c6accc0ec10e6e37e27] |
+> | 1A | Income tax or capital gains tax *(affected by repeal, see note)*[^c-b5c3d9376a353c6accc0ec10e6e37e27] | Amount payable under section 59BA(4) or (5) of *(affected by repeal, see note)*[^c-b5c3d9376a353c6accc0ec10e6e37e27] TMA *(affected by repeal, see note)*[^c-b5c3d9376a353c6accc0ec10e6e37e27] 1970 | The date falling 30 days after the date specified in section 59BA(4) or (5) of *(affected by repeal, see note)*[^c-b5c3d9376a353c6accc0ec10e6e37e27] TMA *(affected by repeal, see note)*[^c-b5c3d9376a353c6accc0ec10e6e37e27] 1970 as the date by which the amount must be paid. *(affected by repeal, see note)*[^c-b5c3d9376a353c6accc0ec10e6e37e27] |
 
-(3) In paragraph 3(1)(a), after “items 1,” insert *(affected by repeal, see note)*[^key-b5c3d9376a353c6accc0ec10e6e37e27] “ 1A, ”.
+(3) In paragraph 3(1)(a), after “items 1,” insert *(affected by repeal, see note)*[^c-b5c3d9376a353c6accc0ec10e6e37e27] “ 1A, ”.
 
 ## Annotations
 
-[^key-b5c3d9376a353c6accc0ec10e6e37e27]: Textual amendment: [Sch. 23 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/23/paragraph/9) omitted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 49](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/49); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-b5c3d9376a353c6accc0ec10e6e37e27]: Textual amendment: [Sch. 23 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/23/paragraph/9) omitted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 49](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/49); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)

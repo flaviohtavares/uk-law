@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Short-term benefit: increase for adult dependants.[^key-cab73f28912a210b9fb538aa33d187b9]
+## 82. Short-term benefit: increase for adult dependants.[^c-cab73f28912a210b9fb538aa33d187b9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cab73f28912a210b9fb538aa33d187b9]: Textual amendment: S. 82 repealed (with effect from 14.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 14(1)(a)](https://www.legislation.gov.uk/nia/2010/13/section/14/1/a), [36(1)(d)(p)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/d/p), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/2) (with [ss. 14(2)](https://www.legislation.gov.uk/nia/2010/13/section/14/2), [34(2)(a)](https://www.legislation.gov.uk/nia/2010/13/section/34/2/a))
+[^c-cab73f28912a210b9fb538aa33d187b9]: Textual amendment: S. 82 repealed (with effect from 14.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 14(1)(a)](https://www.legislation.gov.uk/nia/2010/13/section/14/1/a), [36(1)(d)(p)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/d/p), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/2) (with [ss. 14(2)](https://www.legislation.gov.uk/nia/2010/13/section/14/2), [34(2)(a)](https://www.legislation.gov.uk/nia/2010/13/section/34/2/a))

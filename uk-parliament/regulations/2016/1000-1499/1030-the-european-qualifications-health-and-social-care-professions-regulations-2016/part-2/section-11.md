@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendment of Schedule 4A[^key-ecd81d9254123c636342e0f98f628f1f]
+## 11. Amendment of Schedule 4A[^c-ecd81d9254123c636342e0f98f628f1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ecd81d9254123c636342e0f98f628f1f]: Commencement: Reg. 11 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-ecd81d9254123c636342e0f98f628f1f]: Commencement: Reg. 11 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00013]: Footnote: Schedule 4A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

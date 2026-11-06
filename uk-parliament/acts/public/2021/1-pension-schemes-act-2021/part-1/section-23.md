@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Powers of the Pensions Regulator[^c24458991][^key-0eb499534537c0c1cb97fbb51b979d04]
+## 23. Powers of the Pensions Regulator[^c24458991][^c-0eb499534537c0c1cb97fbb51b979d04]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^c24458991]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2021/1/section/23) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-0eb499534537c0c1cb97fbb51b979d04]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2021/1/section/23) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-0eb499534537c0c1cb97fbb51b979d04]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2021/1/section/23) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

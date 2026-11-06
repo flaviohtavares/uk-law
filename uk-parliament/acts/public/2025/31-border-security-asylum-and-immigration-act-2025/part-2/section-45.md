@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. EU Settlement Scheme: rights of entry and residence etc[^key-0784159a458d9ebdb66576b7e1b7e934]
+## 45. EU Settlement Scheme: rights of entry and residence etc[^c-0784159a458d9ebdb66576b7e1b7e934]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0784159a458d9ebdb66576b7e1b7e934]: Commencement: S. 45 in force at Royal Assent, see [s. 65(3)(c)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/c)
+[^c-0784159a458d9ebdb66576b7e1b7e934]: Commencement: S. 45 in force at Royal Assent, see [s. 65(3)(c)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/c)

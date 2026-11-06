@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Amendments to Section A of Part 1 of Schedule 1 (general rules: non-IAS individual accounts)[^key-7e2169a2fe642146be1afebf504ca90b]
+## 50. Amendments to Section A of Part 1 of Schedule 1 (general rules: non-IAS individual accounts)[^c-7e2169a2fe642146be1afebf504ca90b]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ In Section A of Part 1 of Schedule 1 (general rules: non-IAS individual accounts
 
 ## Annotations
 
-[^key-7e2169a2fe642146be1afebf504ca90b]: Commencement: Reg. 50 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-7e2169a2fe642146be1afebf504ca90b]: Commencement: Reg. 50 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

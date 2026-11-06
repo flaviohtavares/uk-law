@@ -22,7 +22,7 @@ summary: ''
 
 Article 20
 
-### 1. Interpretation[^key-434d070174e542183006774c2aeb4728]
+### 1. Interpretation[^c-434d070174e542183006774c2aeb4728]
 
 In this Schedule—
 
@@ -85,4 +85,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-434d070174e542183006774c2aeb4728]: Commencement: Sch. 9 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-434d070174e542183006774c2aeb4728]: Commencement: Sch. 9 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

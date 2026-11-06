@@ -35,17 +35,15 @@ specifying the technical characteristics of the 2016 ad hoc module on young peop
 
 (Text with EEA relevance) (revoked)
 
-[^key-ebf8fb485aee4327d8dfc4b431a9bcb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebf8fb485aee4327d8dfc4b431a9bcb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ebf8fb485aee4327d8dfc4b431a9bcb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ebf8fb485aee4327d8dfc4b431a9bcb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ebf8fb485aee4327d8dfc4b431a9bcb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ebf8fb485aee4327d8dfc4b431a9bcb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ebf8fb485aee4327d8dfc4b431a9bcb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebf8fb485aee4327d8dfc4b431a9bcb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-ebf8fb485aee4327d8dfc4b431a9bcb3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## ANNEX[^c-ebf8fb485aee4327d8dfc4b431a9bcb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -53,14 +51,16 @@ specifying the technical characteristics of the 2016 ad hoc module on young peop
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ebf8fb485aee4327d8dfc4b431a9bcb3] Sub-module ‘Educational background’
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ebf8fb485aee4327d8dfc4b431a9bcb3] Sub-module ‘Educational background’
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ebf8fb485aee4327d8dfc4b431a9bcb3] Sub-module ‘Finding a job’
+[^c-ebf8fb485aee4327d8dfc4b431a9bcb3] Sub-module ‘Finding a job’
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ebf8fb485aee4327d8dfc4b431a9bcb3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 251](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/251); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ebf8fb485aee4327d8dfc4b431a9bcb3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 251](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/251); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

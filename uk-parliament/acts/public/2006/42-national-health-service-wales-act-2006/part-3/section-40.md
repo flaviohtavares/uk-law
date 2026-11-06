@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Health and well-being strategies in Wales[^key-1939baa3b7e28be83e9aee0325a4b369]
+## 40. Health and well-being strategies in Wales[^c-1939baa3b7e28be83e9aee0325a4b369]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1939baa3b7e28be83e9aee0325a4b369]: Textual amendment: S. 40 repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 19](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/19); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-1939baa3b7e28be83e9aee0325a4b369]: Textual amendment: S. 40 repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 19](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/19); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

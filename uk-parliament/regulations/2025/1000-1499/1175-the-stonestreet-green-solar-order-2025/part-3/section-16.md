@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Traffic regulation measures[^key-721eb5e7ea409c8116c4c7519c81539f]
+## 16. Traffic regulation measures[^c-721eb5e7ea409c8116c4c7519c81539f]
 
 *Extent: E+W+S*
 
-(1) Subject to the provisions of this article the undertaker may at any time for the purposes of, or in connection with, the construction or decommissioning of the authorised development, temporarily place traffic signs and signals in the extents of the roads specified in column 2 of the table in Schedule 7 (traffic regulation measures) and the placing of those traffic signs and signals is deemed to have been permitted by the traffic authority for the purposes of section 65 (powers and duties of traffic[^key-cede1566cf4023dbc649589f1d76899c] authorities as to placing of traffic signs) of the 1984 Act and the Traffic Signs Regulations and General Directions 2016[^f00035].
+(1) Subject to the provisions of this article the undertaker may at any time for the purposes of, or in connection with, the construction or decommissioning of the authorised development, temporarily place traffic signs and signals in the extents of the roads specified in column 2 of the table in Schedule 7 (traffic regulation measures) and the placing of those traffic signs and signals is deemed to have been permitted by the traffic authority for the purposes of section 65 (powers and duties of traffic[^c-cede1566cf4023dbc649589f1d76899c] authorities as to placing of traffic signs) of the 1984 Act and the Traffic Signs Regulations and General Directions 2016[^f00035].
 
 (2) Subject to the provisions of this article and without limitation to the exercise of the powers conferred by paragraph (1), the undertaker may make temporary provision for the purposes of the construction or decommissioning of the authorised development—
 
@@ -52,9 +52,9 @@ summary: ''
 
 ## Annotations
 
-[^key-721eb5e7ea409c8116c4c7519c81539f]: Commencement: Art. 16 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-721eb5e7ea409c8116c4c7519c81539f]: Commencement: Art. 16 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-cede1566cf4023dbc649589f1d76899c]: Textual amendment: Word in [art. 16(1)](https://www.legislation.gov.uk/uksi/2025/1175/article/16/1) inserted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
+[^c-cede1566cf4023dbc649589f1d76899c]: Textual amendment: Word in [art. 16(1)](https://www.legislation.gov.uk/uksi/2025/1175/article/16/1) inserted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
 
 [^f00035]: Footnote: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362).
 

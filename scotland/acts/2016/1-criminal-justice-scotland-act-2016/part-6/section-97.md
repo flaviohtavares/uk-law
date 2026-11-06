@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Publication of prosecutorial test[^key-2a8e744a604b0abf9bd6b13e185cc76c]
+## 97. Publication of prosecutorial test[^c-2a8e744a604b0abf9bd6b13e185cc76c]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a8e744a604b0abf9bd6b13e185cc76c]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2016/1/section/97) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-2a8e744a604b0abf9bd6b13e185cc76c]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2016/1/section/97) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

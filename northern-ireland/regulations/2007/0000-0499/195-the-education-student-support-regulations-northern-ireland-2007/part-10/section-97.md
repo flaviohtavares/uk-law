@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 97. Payment of grants for living and other costs[^key-438a992f398cafcef6202aeb6d757bb5]
+## 97. Payment of grants for living and other costs[^c-438a992f398cafcef6202aeb6d757bb5]
 
 *Extent: N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-438a992f398cafcef6202aeb6d757bb5]: Commencement: [Reg. 97](https://www.legislation.gov.uk/nisr/2007/195/regulation/97) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-438a992f398cafcef6202aeb6d757bb5]: Commencement: [Reg. 97](https://www.legislation.gov.uk/nisr/2007/195/regulation/97) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

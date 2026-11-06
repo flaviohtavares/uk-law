@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 16. General functions of DBF[^key-d77ac124be9ad2df17f21ea096d0eb70]
+## 16. General functions of DBF[^c-d77ac124be9ad2df17f21ea096d0eb70]
 
 *Extent: E*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d77ac124be9ad2df17f21ea096d0eb70]: Commencement: [S. 16](https://www.legislation.gov.uk/ukcm/2018/8/section/16) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-d77ac124be9ad2df17f21ea096d0eb70]: Commencement: [S. 16](https://www.legislation.gov.uk/ukcm/2018/8/section/16) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

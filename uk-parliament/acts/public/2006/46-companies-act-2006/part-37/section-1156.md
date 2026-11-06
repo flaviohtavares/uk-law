@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1156. Meaning of “the court”[^c20262761][^c20605761][^key-d5b7f8f0d958396acab4517610c2631f]
+## 1156. Meaning of “the court”[^c20262761][^c20605761][^c-d5b7f8f0d958396acab4517610c2631f]
 
 *Extent: E+W+S+N.I.*
 
 (1) Except as otherwise provided, in the Companies Acts “**the court**” means—
 
-- (a) in England and Wales, the High Court or the[^key-3a07cc733d923fed7741d30bb6144411] county court;
+- (a) in England and Wales, the High Court or the[^c-3a07cc733d923fed7741d30bb6144411] county court;
 - (b) in Scotland, the Court of Session or the sheriff court;
 - (c) in Northern Ireland, the High Court.
 
 (2) The provisions of the Companies Acts conferring jurisdiction on “**the court**” as defined above have effect subject to any enactment or rule of law relating to the allocation of jurisdiction or distribution of business between courts in any part of the United Kingdom.
 
-(3)[^key-9af0f05b0481d26dc6fc04a08b5d71bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9af0f05b0481d26dc6fc04a08b5d71bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-9af0f05b0481d26dc6fc04a08b5d71bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9af0f05b0481d26dc6fc04a08b5d71bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -38,8 +38,8 @@ summary: ''
 
 [^c20605761]: Modification: S. 1156 applied (with modifications) (9.7.2009 for certain purposes otherwise 1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/2), [77](https://www.legislation.gov.uk/uksi/2009/1804/regulation/77)
 
-[^key-d5b7f8f0d958396acab4517610c2631f]: Modification: [S. 1156](https://www.legislation.gov.uk/ukpga/2006/46/section/1156) applied (with modifications) (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/1/1), [75](https://www.legislation.gov.uk/uksi/2017/694/regulation/75)
+[^c-d5b7f8f0d958396acab4517610c2631f]: Modification: [S. 1156](https://www.legislation.gov.uk/ukpga/2006/46/section/1156) applied (with modifications) (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/1/1), [75](https://www.legislation.gov.uk/uksi/2017/694/regulation/75)
 
-[^key-3a07cc733d923fed7741d30bb6144411]: Textual amendment: Word in s. 1156(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 43(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/43/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-3a07cc733d923fed7741d30bb6144411]: Textual amendment: Word in s. 1156(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 43(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/43/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-9af0f05b0481d26dc6fc04a08b5d71bb]: Textual amendment: S. 1156(3)(4) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 43(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/43/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-9af0f05b0481d26dc6fc04a08b5d71bb]: Textual amendment: S. 1156(3)(4) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 43(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/43/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

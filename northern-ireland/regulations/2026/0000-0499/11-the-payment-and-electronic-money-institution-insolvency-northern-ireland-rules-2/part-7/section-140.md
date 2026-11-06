@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 140. Realisation of security by creditor[^key-9d2c6d5f14518fc838b2df74420be8a3]
+## 140. Realisation of security by creditor[^c-9d2c6d5f14518fc838b2df74420be8a3]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ If a creditor who has valued their security subsequently realises it (whether or
 
 ## Annotations
 
-[^key-9d2c6d5f14518fc838b2df74420be8a3]: Commencement: [Rule 140](https://www.legislation.gov.uk/nisr/2026/11/rule/140) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-9d2c6d5f14518fc838b2df74420be8a3]: Commencement: [Rule 140](https://www.legislation.gov.uk/nisr/2026/11/rule/140) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

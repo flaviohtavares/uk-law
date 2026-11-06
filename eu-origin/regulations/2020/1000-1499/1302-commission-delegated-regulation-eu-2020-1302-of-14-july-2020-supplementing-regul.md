@@ -35,58 +35,58 @@ supplementing Regulation (EU) No 648/2012 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — FEES[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
+## CHAPTER I — FEES[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
 
-### Article 1. Recognition fees[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Annual fees[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
+### Article 1. Recognition fees[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Annual fees in year of recognition[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
+### Article 2. Annual fees[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Applicable turnover for Tier 2 CCPs[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
+### Article 3. Annual fees in year of recognition[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — PAYMENT CONDITIONS[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
-
-### Article 5. General payment modalities[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
+### Article 4. Applicable turnover for Tier 2 CCPs[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Payment of recognition fees[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
+## CHAPTER II — PAYMENT CONDITIONS[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
+
+### Article 5. General payment modalities[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Payment of annual fees[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
+### Article 6. Payment of recognition fees[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — TRANSITIONAL AND FINAL PROVISIONS[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
-
-### Article 8. Applications for recognition already submitted[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
+### Article 7. Payment of annual fees[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Interim annual fee for CCPs already recognised[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
+## CHAPTER III — TRANSITIONAL AND FINAL PROVISIONS[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
+
+### Article 8. Applications for recognition already submitted[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Entry into force[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]
+### Article 9. Interim annual fee for CCPs already recognised[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 10. Entry into force[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1bd876bd3915bdc150a29d3d9ca4d9e1]: Textual amendment: Regulation revoked (31.12.2020) by virtue of S.I. 2018/1184, reg. 9A (as inserted by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [44(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/44/3))
+[^c-1bd876bd3915bdc150a29d3d9ca4d9e1]: Textual amendment: Regulation revoked (31.12.2020) by virtue of S.I. 2018/1184, reg. 9A (as inserted by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [44(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/44/3))

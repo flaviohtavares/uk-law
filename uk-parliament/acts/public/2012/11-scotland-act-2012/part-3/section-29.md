@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Disapplication of UK stamp duty land tax[^key-4b6dd426811a3047705cdd5183102fa8]
+## 29. Disapplication of UK stamp duty land tax[^c-4b6dd426811a3047705cdd5183102fa8]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b6dd426811a3047705cdd5183102fa8]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2012/11/section/29) has effect as specified by [The Scotland Act 2012, Section 29 (Disapplication of UK Stamp Duty Land Tax) (Appointed Day) Order 2015 (S.I. 2015/637)](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
+[^c-4b6dd426811a3047705cdd5183102fa8]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2012/11/section/29) has effect as specified by [The Scotland Act 2012, Section 29 (Disapplication of UK Stamp Duty Land Tax) (Appointed Day) Order 2015 (S.I. 2015/637)](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
